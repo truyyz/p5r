@@ -6,8 +6,8 @@
 [s]Adivinhe.[e]
 
 [msg MSG_062_0_0 [Ryuji]]
-[s][f 5 14]Entao voce nao tinha[n]Alguma sorte tambem...[n][w][e]
+[s][f 5 14]Então você não tinha[n]Alguma sorte também...[n][w][e]
 
 [msg MSG_063_0_0 [Ryuji]]
-[s][f 5 14][f 5 15]Mkay, vamos nos reagrupar por enquanto.[n]Vejo voce no patio?[n][w][e]
+[s][f 5 14][f 5 15]Mkay, vamos nos reagrupar por enquanto.[n]Vejo você no pátio?[n][w][e]
 

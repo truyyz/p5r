@@ -48,11 +48,11 @@
 [s][vp 1 0 0 0 0 0]Agora voce pode se fundir[clr 1]Vohu Manah[clr 27], Assim,[n]a persona mais poderosa[n]do conselheiro Arcana.[n][f 1 3 65535][w][e]
 
 [msg CMM_EVENT_REVERSE]
-[s][vp 1 0 0 0 0 0]Se voce ve isso, e um bug![n]Seu confidente de conselheiro esta em um estado[n]de duvida. Voce nao recebera seu[n]beneficios ate voce limpar seu nome.[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Se voce vir isso, e um bug![n]Seu confidente de conselheiro esta em um estado[n]de duvida. Voce nao recebera seu[n]beneficios ate voce limpar seu nome.[n][f 1 3 65535][w][e]
 
 [msg CMM_EVENT_UPRIGHT]
 [s][vp 1 0 0 0 0 0]Voce levantou o estado de duvida[n]em seu confidente de conselheiro.[n][f 1 3 65535][w][e]
 
 [msg CMM_EVENT_BROKEN]
-[s][vp 1 0 0 0 0 0]Se voce ve isso, e um bug![n]Seu confidente de conselheiro esta agora quebrado.[n]O negocio esta desligado, e voce nao vai[n]receber seus beneficios neste estado.[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Se voce vir isso, e um bug![n]Seu confidente de conselheiro esta agora quebrado.[n]O negocio esta desligado, e voce nao vai[n]receber seus beneficios neste estado.[n][f 1 3 65535][w][e]
 

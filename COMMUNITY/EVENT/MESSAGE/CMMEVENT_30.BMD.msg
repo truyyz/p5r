@@ -3,15 +3,15 @@
 [s][vp 1 0 0 0 0 0]Sua fe confidente[n]agora pode crescer mais![n][f 1 3 65535][w][e]
 
 [msg CMM_EVENT_RANKUP_2]
-[s][vp 1 0 0 0 0 0]Se voce ve isso, e um bug![n]Seu confidente de fe tem[n]aumentado para[clr 2]Rank 2[clr 27]![n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Se voce vir isso, e um bug![n]Seu confidente de fe tem[n]aumentado para[clr 2]Rank 2[clr 27]![n][f 1 3 65535][w][e]
 [s][vp 1 0 0 0 0 0]Pontos alocados para Stat[n]Ajustes para personas de[n]Este Arcana aumentou![n][f 1 3 65535][w][e]
 
 [msg CMM_EVENT_RANKUP_3]
-[s][vp 1 0 0 0 0 0]Se voce ve isso, e um bug![n]Seu confidente de fe tem[n]aumentado para[clr 2]Rank 3[clr 27]![n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Se voce vir isso, e um bug![n]Seu confidente de fe tem[n]aumentado para[clr 2]Rank 3[clr 27]![n][f 1 3 65535][w][e]
 [s][vp 1 0 0 0 0 0]Agora voce vai ganhar mais exp[n]de Arcana estourar quando se fundir[n]Personas da fe Arcana![n][f 1 3 65535][w][e]
 
 [msg CMM_EVENT_RANKUP_4]
-[s][vp 1 0 0 0 0 0]Se voce ve isso, e um bug![n]Seu confidente de fe tem[n]aumentado para[clr 2]Rank 4[clr 27]![n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Se voce vir isso, e um bug![n]Seu confidente de fe tem[n]aumentado para[clr 2]Rank 4[clr 27]![n][f 1 3 65535][w][e]
 [s][vp 1 0 0 0 0 0]Agora voce vai ganhar mais exp[n]de Arcana estourar quando se fundir[n]Personas da fe Arcana![n][f 1 3 65535][w][e]
 
 [msg CMM_EVENT_RANKUP_5]
