@@ -12,7 +12,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1164 65535 0]Ah, parece que você pode estudar aqui.[n][w][e]
 
 [msg MSG_Sentou_ParamInfo_int [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Sua [f 4 11 0][clr 26][f 4 12 0][clr 27]Pode melhorar se você estudar em uma das[n]mesas abertas.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Sua [f 4 11 0][clr 26][f 4 12 0][clr 27] Pode melhorar se você estudar em [n] uma das mesas abertas.[n][w][e]
 
 [msg MSG_Study_Start_Kamo [Morgana]]
 [s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]Existem outras pessoas por perto, mas...[n]sua [f 4 11 3][clr 26][f 4 12 3][clr 27]pode melhorar por causa disso.[n][w][e]

@@ -37,8 +37,8 @@
 [msg MSG_009_0_0 [Calm Student]]
 [s][vp 8 0 0 0 5 0]Talvez o auto-aperfeiçoamento seja a[n]resposta.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 5 0]Tente ler alguns livros.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 5 0]Você terá mais do que apenas alguns [n][f 4 11 0][clr 26][f 4 12 0][clr 27]Delas, e isso o tornará melhor na conversa.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 5 0]Você será mais desejável se for mais[n]inteligente. No entanto, vai demorar muito[n]trabalho- não acontecerá da noite para o[n]dia.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 5 0]Você terá mais do que apenas alguns [f 4 11 0][clr 26][f 4 12 0][clr 27], [n]e isso te tornará melhor na conversa.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 5 0]Você será mais desejável se for mais inteligente. [n] No entanto, vai dar muito trabalho. [n] Então isso não acontecerá da noite para o dia.[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Dull Student]]
 [s][vp 8 0 0 0 4 0]Sim, mas os livros me deixam com sono...[n][f 1 3 65535][w][e]

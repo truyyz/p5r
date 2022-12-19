@@ -4,7 +4,7 @@
 
 [msg MSG_MAKOTO_UWASA_001_0_0 [Soft-Spoken Male Student]]
 [s][f 4 23 1 1 3 10 0 0][vp 8 2 1 0 1 0]Bem, há nosso presidente do Conselho[n]Estudantil.[n][w][e]
-[s][vp 8 2 1 0 1 0]Ela está lendo todos aqueles livros enormes[n]e complexos para estudar para exames da[n]faculdade?[n]Isso é realmente intimidador.[n][w][e]
+[s][vp 8 2 1 0 1 0]Ela está lendo todos aqueles livros enormes[n]e complexos para estudar para os exames da[n]faculdade? Isso é realmente assustador.[n][w][e]
 
 [msg MSG_MAKOTO_UWASA_001_1_0 [Book-Loving Male Student]]
 [s][f 4 23 1 2 3 10 0 0][vp 8 2 1 0 2 0]Ela emprestou um livro de ficção científica[n]outro dia. Talvez tenhamos algo em comum.[n][w][e]

@@ -26,7 +26,7 @@
 [s][vp 8 2 0 0 65535 0]Talvez... ele é mais um aluno sério do que[n]parece?[n][f 1 3 65535][w][e]
 
 [msg MSG_RUMOR_3]
-[s][vp 8 2 0 0 65535 0]Uau, não o olhe.[n]Se seus olhos se encontrarem, esse cara vai[n]te matar...[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0]Uau, não o olhe.[n]Se seus olhos se encontrarem, esse cara[n] vai te matar...[n][f 1 3 65535][w][e]
 
 [msg MSG_RUMOR_Study_01]
 [s][vp 8 2 0 0 65535 0]Eu poderia usar essa fórmula aqui...[n][f 1 3 65535][w][e]
