@@ -1,0 +1,2 @@
+[msg MSG_dummy ]
+
