@@ -1,0 +1,187 @@
+16/12/2022 10:08:14  Trace: Arguments: E499_200.BMD.msg -Compile -OutFormat V1BE -Library P5R -Encoding P5R_EFIGS
+16/12/2022 10:08:14  Info: Using P5R_EFIGS encoding
+16/12/2022 10:08:14  Info: Output file path is set to E499_200.BMD.msg.bmd
+16/12/2022 10:08:14  Info: Compiling MessageScript...
+16/12/2022 10:08:15  Info: Parsing MessageScript source
+16/12/2022 10:08:15  Info: Done parsing MessageScript source
+16/12/2022 10:08:15  Info: (0001:0000) Compiling MessageScript compilation unit
+16/12/2022 10:08:15  Trace: (0001:0000) Compiling compilationUnit
+16/12/2022 10:08:15  Trace: (0001:0000) Compiling messageDialog
+16/12/2022 10:08:15  Info: (0001:0000) Compiling dialog window: MSG_000_0_0
+16/12/2022 10:08:15  Trace: (0001:0018) Compiling tokenText
+16/12/2022 10:08:15  Trace: (0001:0024) Compiling tokenText
+16/12/2022 10:08:15  Trace: (0002:0000) Compiling token
+16/12/2022 10:08:15  Trace: (0002:0003) Compiling token
+16/12/2022 10:08:15  Trace: (0002:0024) Compiling token
+16/12/2022 10:08:15  Trace: (0002:0042) Compiling token
+16/12/2022 10:08:15  Trace: (0002:0082) Compiling token
+16/12/2022 10:08:15  Trace: (0002:0095) Compiling token
+16/12/2022 10:08:15  Trace: (0004:0000) Compiling messageDialog
+16/12/2022 10:08:15  Info: (0004:0000) Compiling dialog window: MSG_001_0_0
+16/12/2022 10:08:15  Trace: (0004:0018) Compiling tokenText
+16/12/2022 10:08:15  Trace: (0004:0024) Compiling tokenText
+16/12/2022 10:08:15  Trace: (0005:0000) Compiling token
+16/12/2022 10:08:15  Trace: (0005:0003) Compiling token
+16/12/2022 10:08:15  Trace: (0005:0024) Compiling token
+16/12/2022 10:08:15  Trace: (0005:0042) Compiling token
+16/12/2022 10:08:15  Trace: (0005:0117) Compiling token
+16/12/2022 10:08:15  Trace: (0005:0130) Compiling token
+16/12/2022 10:08:15  Trace: (0007:0000) Compiling messageDialog
+16/12/2022 10:08:15  Info: (0007:0000) Compiling dialog window: MND_002_0_0
+16/12/2022 10:08:15  Trace: (0007:0017) Compiling tokenText
+16/12/2022 10:08:15  Trace: (0008:0000) Compiling token
+16/12/2022 10:08:15  Trace: (0008:0003) Compiling token
+16/12/2022 10:08:15  Trace: (0008:0080) Compiling token
+16/12/2022 10:08:15  Trace: (0008:0093) Compiling token
+16/12/2022 10:08:15  Trace: (0010:0000) Compiling messageDialog
+16/12/2022 10:08:15  Info: (0010:0000) Compiling dialog window: MSG_003_0_0
+16/12/2022 10:08:15  Trace: (0010:0018) Compiling tokenText
+16/12/2022 10:08:15  Trace: (0010:0024) Compiling tokenText
+16/12/2022 10:08:15  Trace: (0011:0000) Compiling token
+16/12/2022 10:08:15  Trace: (0011:0003) Compiling token
+16/12/2022 10:08:15  Trace: (0011:0024) Compiling token
+16/12/2022 10:08:15  Trace: (0011:0042) Compiling token
+16/12/2022 10:08:15  Trace: (0011:0099) Compiling token
+16/12/2022 10:08:15  Trace: (0011:0112) Compiling token
+16/12/2022 10:08:15  Trace: (0013:0000) Compiling messageDialog
+16/12/2022 10:08:15  Info: (0013:0000) Compiling dialog window: MSG_004_0_0
+16/12/2022 10:08:15  Trace: (0013:0018) Compiling tokenText
+16/12/2022 10:08:15  Trace: (0013:0024) Compiling tokenText
+16/12/2022 10:08:15  Trace: (0014:0000) Compiling token
+16/12/2022 10:08:15  Trace: (0014:0003) Compiling token
+16/12/2022 10:08:15  Trace: (0014:0024) Compiling token
+16/12/2022 10:08:15  Trace: (0014:0042) Compiling token
+16/12/2022 10:08:15  Trace: (0014:0116) Compiling token
+16/12/2022 10:08:15  Trace: (0014:0129) Compiling token
+16/12/2022 10:08:15  Trace: (0015:0000) Compiling token
+16/12/2022 10:08:15  Trace: (0015:0003) Compiling token
+16/12/2022 10:08:15  Trace: (0015:0021) Compiling token
+16/12/2022 10:08:15  Trace: (0015:0112) Compiling token
+16/12/2022 10:08:15  Trace: (0015:0125) Compiling token
+16/12/2022 10:08:15  Trace: (0016:0000) Compiling token
+16/12/2022 10:08:15  Trace: (0016:0003) Compiling token
+16/12/2022 10:08:15  Trace: (0016:0021) Compiling token
+16/12/2022 10:08:15  Trace: (0016:0068) Compiling token
+16/12/2022 10:08:15  Trace: (0016:0081) Compiling token
+16/12/2022 10:08:15  Trace: (0018:0000) Compiling messageDialog
+16/12/2022 10:08:15  Info: (0018:0000) Compiling dialog window: MSG_005_0_0
+16/12/2022 10:08:15  Trace: (0018:0018) Compiling tokenText
+16/12/2022 10:08:15  Trace: (0018:0024) Compiling tokenText
+16/12/2022 10:08:15  Trace: (0019:0000) Compiling token
+16/12/2022 10:08:15  Trace: (0019:0003) Compiling token
+16/12/2022 10:08:15  Trace: (0019:0024) Compiling token
+16/12/2022 10:08:15  Trace: (0019:0042) Compiling token
+16/12/2022 10:08:15  Trace: (0019:0156) Compiling token
+16/12/2022 10:08:15  Trace: (0019:0169) Compiling token
+16/12/2022 10:08:15  Trace: (0020:0000) Compiling token
+16/12/2022 10:08:15  Trace: (0020:0003) Compiling token
+16/12/2022 10:08:15  Trace: (0020:0021) Compiling token
+16/12/2022 10:08:15  Trace: (0020:0133) Compiling token
+16/12/2022 10:08:15  Trace: (0020:0146) Compiling token
+16/12/2022 10:08:15  Trace: (0021:0000) Compiling token
+16/12/2022 10:08:15  Trace: (0021:0003) Compiling token
+16/12/2022 10:08:15  Trace: (0021:0021) Compiling token
+16/12/2022 10:08:15  Trace: (0021:0155) Compiling token
+16/12/2022 10:08:15  Trace: (0021:0168) Compiling token
+16/12/2022 10:08:15  Trace: (0023:0000) Compiling messageDialog
+16/12/2022 10:08:15  Info: (0023:0000) Compiling dialog window: MSG_006_0_0
+16/12/2022 10:08:15  Trace: (0023:0018) Compiling tokenText
+16/12/2022 10:08:15  Trace: (0023:0024) Compiling tokenText
+16/12/2022 10:08:15  Trace: (0024:0000) Compiling token
+16/12/2022 10:08:15  Trace: (0024:0003) Compiling token
+16/12/2022 10:08:15  Trace: (0024:0024) Compiling token
+16/12/2022 10:08:15  Trace: (0024:0042) Compiling token
+16/12/2022 10:08:15  Trace: (0024:0102) Compiling token
+16/12/2022 10:08:15  Trace: (0024:0115) Compiling token
+16/12/2022 10:08:15  Trace: (0026:0000) Compiling messageDialog
+16/12/2022 10:08:15  Info: (0026:0000) Compiling dialog window: MND_007_0_0
+16/12/2022 10:08:15  Trace: (0026:0017) Compiling tokenText
+16/12/2022 10:08:15  Trace: (0027:0000) Compiling token
+16/12/2022 10:08:15  Trace: (0027:0003) Compiling token
+16/12/2022 10:08:15  Trace: (0027:0039) Compiling token
+16/12/2022 10:08:15  Trace: (0027:0052) Compiling token
+16/12/2022 10:08:15  Trace: (0029:0000) Compiling messageDialog
+16/12/2022 10:08:15  Info: (0029:0000) Compiling dialog window: MSG_008_0_0
+16/12/2022 10:08:15  Trace: (0029:0018) Compiling tokenText
+16/12/2022 10:08:15  Trace: (0029:0024) Compiling tokenText
+16/12/2022 10:08:15  Trace: (0030:0000) Compiling token
+16/12/2022 10:08:15  Trace: (0030:0003) Compiling token
+16/12/2022 10:08:15  Trace: (0030:0024) Compiling token
+16/12/2022 10:08:15  Trace: (0030:0042) Compiling token
+16/12/2022 10:08:15  Trace: (0030:0152) Compiling token
+16/12/2022 10:08:15  Trace: (0030:0165) Compiling token
+16/12/2022 10:08:15  Trace: (0031:0000) Compiling token
+16/12/2022 10:08:15  Trace: (0031:0003) Compiling token
+16/12/2022 10:08:15  Trace: (0031:0021) Compiling token
+16/12/2022 10:08:15  Trace: (0031:0109) Compiling token
+16/12/2022 10:08:15  Trace: (0031:0122) Compiling token
+16/12/2022 10:08:15  Trace: (0032:0000) Compiling token
+16/12/2022 10:08:15  Trace: (0032:0003) Compiling token
+16/12/2022 10:08:15  Trace: (0032:0024) Compiling token
+16/12/2022 10:08:15  Trace: (0032:0042) Compiling token
+16/12/2022 10:08:15  Trace: (0032:0065) Compiling token
+16/12/2022 10:08:15  Trace: (0032:0132) Compiling token
+16/12/2022 10:08:15  Trace: (0032:0145) Compiling token
+16/12/2022 10:08:15  Trace: (0034:0000) Compiling messageDialog
+16/12/2022 10:08:15  Info: (0034:0000) Compiling dialog window: MSG_008_5_0
+16/12/2022 10:08:15  Trace: (0034:0018) Compiling tokenText
+16/12/2022 10:08:15  Trace: (0034:0024) Compiling tokenText
+16/12/2022 10:08:15  Trace: (0035:0000) Compiling token
+16/12/2022 10:08:15  Trace: (0035:0003) Compiling token
+16/12/2022 10:08:15  Trace: (0035:0024) Compiling token
+16/12/2022 10:08:15  Trace: (0035:0042) Compiling token
+16/12/2022 10:08:15  Trace: (0035:0125) Compiling token
+16/12/2022 10:08:15  Trace: (0035:0138) Compiling token
+16/12/2022 10:08:15  Trace: (0037:0000) Compiling messageDialog
+16/12/2022 10:08:15  Info: (0037:0000) Compiling dialog window: MSG_009_0_0
+16/12/2022 10:08:15  Trace: (0037:0018) Compiling tokenText
+16/12/2022 10:08:15  Trace: (0037:0024) Compiling tokenText
+16/12/2022 10:08:15  Trace: (0038:0000) Compiling token
+16/12/2022 10:08:15  Trace: (0038:0003) Compiling token
+16/12/2022 10:08:15  Trace: (0038:0024) Compiling token
+16/12/2022 10:08:15  Trace: (0038:0042) Compiling token
+16/12/2022 10:08:15  Trace: (0038:0108) Compiling token
+16/12/2022 10:08:15  Trace: (0038:0121) Compiling token
+16/12/2022 10:08:15  Trace: (0039:0000) Compiling token
+16/12/2022 10:08:15  Trace: (0039:0003) Compiling token
+16/12/2022 10:08:15  Trace: (0039:0024) Compiling token
+16/12/2022 10:08:15  Trace: (0039:0042) Compiling token
+16/12/2022 10:08:15  Trace: (0039:0072) Compiling token
+16/12/2022 10:08:15  Trace: (0039:0085) Compiling token
+16/12/2022 10:08:15  Trace: (0041:0000) Compiling messageDialog
+16/12/2022 10:08:15  Info: (0041:0000) Compiling dialog window: MSG_010_0_0
+16/12/2022 10:08:15  Trace: (0041:0018) Compiling tokenText
+16/12/2022 10:08:15  Trace: (0041:0024) Compiling tokenText
+16/12/2022 10:08:15  Trace: (0042:0000) Compiling token
+16/12/2022 10:08:15  Trace: (0042:0003) Compiling token
+16/12/2022 10:08:15  Trace: (0042:0024) Compiling token
+16/12/2022 10:08:15  Trace: (0042:0042) Compiling token
+16/12/2022 10:08:15  Trace: (0042:0084) Compiling token
+16/12/2022 10:08:15  Trace: (0042:0097) Compiling token
+16/12/2022 10:08:15  Trace: (0044:0000) Compiling messageDialog
+16/12/2022 10:08:15  Info: (0044:0000) Compiling dialog window: MSG_010_5_0
+16/12/2022 10:08:15  Trace: (0044:0018) Compiling tokenText
+16/12/2022 10:08:15  Trace: (0044:0024) Compiling tokenText
+16/12/2022 10:08:15  Trace: (0045:0000) Compiling token
+16/12/2022 10:08:15  Trace: (0045:0003) Compiling token
+16/12/2022 10:08:15  Trace: (0045:0024) Compiling token
+16/12/2022 10:08:15  Trace: (0045:0042) Compiling token
+16/12/2022 10:08:15  Trace: (0045:0121) Compiling token
+16/12/2022 10:08:15  Trace: (0045:0134) Compiling token
+16/12/2022 10:08:15  Trace: (0047:0000) Compiling messageDialog
+16/12/2022 10:08:15  Info: (0047:0000) Compiling dialog window: MSG_011_0_0
+16/12/2022 10:08:15  Trace: (0047:0018) Compiling tokenText
+16/12/2022 10:08:15  Trace: (0047:0024) Compiling tokenText
+16/12/2022 10:08:15  Trace: (0048:0000) Compiling token
+16/12/2022 10:08:15  Trace: (0048:0003) Compiling token
+16/12/2022 10:08:15  Trace: (0048:0024) Compiling token
+16/12/2022 10:08:15  Trace: (0048:0042) Compiling token
+16/12/2022 10:08:15  Trace: (0048:0126) Compiling token
+16/12/2022 10:08:15  Trace: (0048:0139) Compiling token
+16/12/2022 10:08:15  Trace: (0049:0000) Compiling token
+16/12/2022 10:08:15  Trace: (0049:0003) Compiling token
+16/12/2022 10:08:15  Trace: (0049:0021) Compiling token
+16/12/2022 10:08:15  Trace: (0049:0106) Compiling token
+16/12/2022 10:08:15  Trace: (0049:0119) Compiling token
+16/12/2022 10:08:15  Info: (0001:0000) Done compiling MessageScript compilation unit
+16/12/2022 10:08:15  Info: 
