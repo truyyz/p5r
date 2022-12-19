@@ -1,0 +1,755 @@
+[sel YESNO_SEL top]
+[s][XLOC_NOTUSED][e]
+
+[msg MSG_WSHOP_A4_PLAY_NG [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_WSHOP_A4_TALK_01 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_WSHOP_A4_TALK_02 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_WSHOP_A4_TALK_03 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_WSHOP_A4_TALK_04 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_WSHOP_A4_TALK_05 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_WSHOP_A4_TALK_06 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_WSHOP_A4_TALK_01_CHE [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_WSHOP_A4_TALK_02_CHE [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_WSHOP_A4_TALK_03_CHE [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[sel SEL_WSHOP_A4_01 top]
+[s][XLOC_NOTUSED][e]
+
+[sel SEL_WSHOP_A4_02 top]
+[s][XLOC_NOTUSED][e]
+
+[sel SEL_WSHOP_A4_03 top]
+[s][XLOC_NOTUSED][e]
+
+[msg MSG_WSHOP_A4_CORP_START_ [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_WSHOP_A4_CORP_START__2 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_WSHOP_A4_CORP_START__3 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_WSHOP_A4_CORP_DEFAUL [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg HELP_WSHOP_A4_CORP_EFFEC [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_WSHOP_A4_CORP_CANCEL [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_WSHOP_A4_CORP_CANCEL_2 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_CORP_WEAPON_RANKUP_O [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_CORP_WEAPON_RANKUP_N [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg WSHOP_HELLO0415 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg WSHOP_HELLO1 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg WSHOP_HELLO2 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg WSHOP_GOODBYE [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg WSHOP_HELLO3 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg WSHOP_HELLO4 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg WSHOP_HELLO5 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg WSHOP_HELLO6 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg WSHOP_HELLO_MOBILE [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[sel SEL_WSHOP_HELLO_MOBILE top]
+[s][XLOC_NOTUSED][e]
+
+[msg WSHOP_HELLO_MOBILE_CORP_ [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg WSHOP_HELLO_MOBILE_CORP__2 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg WSHOP_TALK_CORPOK_01 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg WSHOP_TALK_CORPOK_02 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[sel WSHOP_TALK_CORPOK_02_SEL top]
+[s][XLOC_NOTUSED][e]
+
+[msg WSHOP_TALK_CORPOK_03 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg WSHOP_TALK_CORPOK_04 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg WSHOP_TALK_CORPOK_05 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg WSHOP_TALK_CORPNG_01 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg WSHOP_TALK_CORPNG_02 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg WSHOP_TALK_CORPNG_01_DAY [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg WSHOP_TALK_CORPNG_02_DAY [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg WSHOP_CLEAR_SUDDEN_DEATH [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg HATAKE_01 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg HATAKE_02 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[sel HATAKE_SEL top]
+[s][XLOC_NOTUSED][e]
+
+[msg HATAKE_03 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg HATAKE_04 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg HATAKE_05 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg WSHOP_TALK_CORPOK_01_A3 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg WSHOP_TALK_CORPOK_01_MIS [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg WSHOP_TALK_CORPOK_02_A3 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg WSHOP_TALK_CORPOK_02_MIS [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg WSHOP_TALK_CORPOK_02_MIS_2 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg WSHOP_TALK_CORPOK_02_A3_ [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[sel WSHOP_TALK_CORPOK_02_SEL_2 top]
+[s][XLOC_NOTUSED][e]
+
+[msg WSHOP_TALK_CORPOK_03_A3 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg WSHOP_TALK_CORPOK_03_MIS [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg WSHOP_TALK_CORPOK_04_A3 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg WSHOP_TALK_CORPOK_05_A3 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg WSHOP_TALK_CORPOK_06_MIS [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg WSHOP_TALK_KOKUHATU_01 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg WSHOP_TALK_KOKUHATU_02 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[sel WSHOP_TALK_KOKUHATU_02_S top]
+[s][XLOC_NOTUSED][e]
+
+[msg WSHOP_TALK_KOKUHATU_03 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg WSHOP_TALK_KOKUHATU_04 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg WSHOP_TALK_KOKUHATU_05 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg WSHOP_TALK_KOKUHATU_CANC [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg WSHOP_TALK_CORPOK_RANK4_ [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg WSHOP_TALK_CORPOK_RANK4__2 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[sel SEL_TALK_CORPOK_RANK4 top]
+[s][XLOC_NOTUSED][e]
+
+[msg MSG_MISSION_HATAYAMA [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_MISSION_HATAYAMA_CHE [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[sel SEL_MISSION_HATAYAMA_CHE top]
+[s][XLOC_NOTUSED][e]
+
+[msg MSG_MISSION_HATAYAMA_ZAT [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_MISSION_HATAYAMA_NON [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_MISSION_HATAYAMA_MIS [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_MISSION_HATAYAMA_MIS_2 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[sel SEL_MISSION_HATAYAMA_MIS top]
+[s][XLOC_NOTUSED][e]
+
+[msg MSG_MISSION_HATAYAMA_MIS_3 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_MISSION_HATAYAMA_MIS_4 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_MISSION_HATAYAMA_MIS_5 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg HELP_MISSION_HATAYAMA_MI [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_MISSION_HATAYAMA_COR [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_MISSION_HATAYAMA_COR_2 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_MISSION_HATAYAMA_COR_3 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_MISSION_HATAYAMA_COR_4 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_MISSION_HATAYAMA_COR_5 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[sel SEL_MISSION_HATAYAMA_COR top]
+[s][XLOC_NOTUSED][e]
+
+[msg MSG_MISSION_HATAYAMA_COR_6 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_MISSION_HATAYAMA_COR_7 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_MISSION_HATAYAMA_COR_8 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg HATAYAMA_SYS_CHECK [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_MISSION_HATAYAMA_COR_9 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_MISSION_TEST_BUKIYA_ [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_MISSION_TEST_BUKIYA__2 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[sel SEL_MISSION_TEST_BUKIYA_ top]
+[s][XLOC_NOTUSED][e]
+
+[msg MSG_MISSION_TEST_BUKIYA__3 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[sel SEL_MISSION_TEST_BUKIYA__2 top]
+[s][XLOC_NOTUSED][e]
+
+[msg MSG_WSHOP_CORP_00 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_WSHOP_CORP_09 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[sel SEL_WSHOP_CORP_09 top]
+[s][XLOC_NOTUSED][e]
+
+[msg MSG_WSHOP_CORP_09_A [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_WSHOP_CORP_09_B [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_WSHOP_CORP_10 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_WSHOP_CORP_11 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_WSHOP_CORP_13 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg HELP_RANK_UP_DAMMY [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_WSHOP_CORP_14 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_WSHOP_CORP_15 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[sel SEL_WSHOP_CORP_16 top]
+[s][XLOC_NOTUSED][e]
+
+[msg MSG_WSHOP_CORP_17 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_WSHOP_CORP_18 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_WSHOP_CORP_19 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_WSHOP_CORP_01 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_WSHOP_CORP_02 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_WSHOP_CORP_03 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_WSHOP_CORP_04 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_WSHOP_CORP_05 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[sel SEL_WSHOP_CORP_05 top]
+[s][XLOC_NOTUSED][e]
+
+[msg MSG_WSHOP_CORP_06_A [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_WSHOP_CORP_06_B [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_WSHOP_CORP_07 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_WSHOP_CORP_20 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_WSHOP_CORP_21 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_WSHOP_CORP_M_00 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_MISSION_TEST_D_WEAPO [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_MISSION_TEST_D_WEAPO_2 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_MISSION_TEST_D_WEAPO_3 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[sel SEL_MISSION_TEST_D_WEAPO top]
+[s][XLOC_NOTUSED][e]
+
+[msg MSG_MISSION_TEST_D_WEAPO_4 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_MISSION_TEST_D_WEAPO_5 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[sel SEL_MISSION_TEST_D_WEAPO_2 top]
+[s][XLOC_NOTUSED][e]
+
+[msg SEL_MISSION_TEST_D_WEAPO_3 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_MISSION_TEST_D_WEAPO_6 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_MISSION_TEST_D_WEAPO_7 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg HELP_MISSION_TEST_D_WEAP [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_MISSION_TEST_D_WEAPO_8 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_MISSION_TEST_D_WEAPO_9 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_MISSION_TEST_D_WEAPO_10 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg HELP_MISSION_TEST_D_WEAP_2 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_MISSION_TEST_D_WEAPO_11 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_MISSION_TEST_D_WEAPO_12 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_MISSION_TEST_D_WEAPO_13 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg HELP_MISSION_TEST_D_WEAP_3 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_MISSION_TEST_D_WEAPO_14 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_MISSION_TEST_D_WEAPO_15 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_MISSION_TEST_D_WEAPO_16 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_MISSION_TEST_D_WEAPO_17 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_MISSION_TEST_D_WEAPO_18 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_MISSION_TEST_D_WEAPO_19 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[sel SEL_MISSION_TEST_D_WEAPO_4 top]
+[s][XLOC_NOTUSED][e]
+
+[msg MSG_MISSION_TEST_D_WEAPO_20 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_MISSION_TEST_D_WEAPO_21 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg HELP_MISSION_TEST_D_WEAP_4 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg HELP_MISSION_TEST_D_WEAP_5 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg HELP_MISSION_TEST_D_WEAP_6 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg HELP_MISSION_TEST_D_WEAP_7 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg HELP_MISSION_TEST_D_WEAP_8 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_MISSION_TEST_D_WEAPO_22 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_MISSION_TEST_D_WEAPO_23 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg HELP_WEAPON_CORP [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg HELP_WEAPON_MISSION [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_WEAPON_TALK_CORP_BEF [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_WEAPON_TALK_CORP_OK [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[sel SEL_WEAPON_TALK_CORP_OK top]
+[s][XLOC_NOTUSED][e]
+
+[msg MSG_WEAPON_TALK_CORP_A4_ [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_WEAPON_TALK_CORP_A4__2 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_WEAPON_TALK_CORP_A4__3 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_WEAPON_TALK_CORP_A4__4 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[sel SEL_WEAPON_TALK_CORP_A4_ top]
+[s][XLOC_NOTUSED][e]
+
+[msg MSG_WEAPON_TALK_CORP_A4__5 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg HELP_WEAPON_CORP_ATTRIBU [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_WEAPON_TALK_CORP_A4__6 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[sel SEL_HATAKE_PRE_CORP_000 top]
+[s][XLOC_NOTUSED][e]
+
+[msg MSG_HATAKE_PRE_CORP_001 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_HATAKE_PRE_CORP_002 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_HATAKE_PRE_CORP_003 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_HATAKE_PRE_CORP_004 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_HATAKE_PRE_CORP_011 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_HATAKE_PRE_CORP_012 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_HATAKE_PRE_CORP_013 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_HATAKE_PRE_CORP_014 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_HATAKE_PRE_CORP_015 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_HATAKE_PRE_CORP_016 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_HATAKE_PRE_CORP_017 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_HATAKE_PRE_CORP_018 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_HATAKE_PRE_CORP_019 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[sel SEL_HATAKE_PRE_CORP_020 top]
+[s][XLOC_NOTUSED][e]
+
+[msg MSG_HATAKE_PRE_CORP_021 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[sel SEL_HATAKE_PRE_CORP_030 top]
+[s][XLOC_NOTUSED][e]
+
+[msg MSG_HATAKE_PRE_CORP_031 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_HATAKE_PRE_CORP_032 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[sel MSG_HATAKE_PRE_CORP_040 top]
+[s][XLOC_NOTUSED][e]
+
+[msg MSG_HATAKE_PRE_CORP_041 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[msg MSG_HATAKE_PRE_CORP_042 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+[s][XLOC_NOTUSED][n][w][e]
+
+[sel MSG_HATAKE_PRE_CORP_050 top]
+[s][XLOC_NOTUSED][e]
+
+[msg MSG_HATAKE_PRE_CORP_051 [[XLOC_NOTUSED]]]
+[s][XLOC_NOTUSED][n][w][e]
+
