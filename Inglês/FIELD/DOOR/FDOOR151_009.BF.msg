@@ -1,0 +1,9 @@
+[msg LOCK_DOOR_to_10]
+[s]The door seems to be locked[n]from the other side...[n][w][e]
+
+[msg NOT_OPEN_DOOR]
+[s]The door is tightly sealed.[n][w][e]
+
+[msg DOOR_Dummy_MES]
+[s]ERROR! イベントをセットして下さい。[n][w][e]
+
