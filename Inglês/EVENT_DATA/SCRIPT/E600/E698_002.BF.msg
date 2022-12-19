@@ -1,0 +1,18 @@
+[msg TEST_000]
+[s]スクリプトから発行した[n]メッセージです。[n][w][e]
+
+[msg MSG_BEING_TOGETHER_RYU [Ryuji]]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Hey, let's go. We're gonna catch a cold.[n][f 1 3 65535][w][e]
+
+[msg MSG_BEING_TOGETHER_ANN [Ann]]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]What's wrong? Let's go already.[n][f 1 3 65535][w][e]
+
+[msg MSG_BEING_TOGETHER_MKT [Makoto]]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Hey, we should get going, we'll be late.[n][f 1 3 65535][w][e]
+
+[msg MSG_BEING_TOGETHER_HAR [Haru]]
+[s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Did something happen? Let's go.[n][f 1 3 65535][w][e]
+
+[msg MSG_BEING_TOGETHER_MSM [Mishima]]
+[s][bup 0 111 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]What's wrong? Let's go.[n][f 1 3 65535][w][e]
+
