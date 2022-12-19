@@ -1,0 +1,178 @@
+[msg MSG_DUMMY]
+[s]......[n][w][e]
+
+[sel YESNO_SEL top]
+[s]Yes[e]
+[s]No[e]
+
+[msg MSG_BOARD_01_____]
+[s]Various flyers are posted up.[n][w][e]
+[s]"GO GO TEAM! DOMINATE THE[n]NATIONALS! Recruiting for[n]volleyball team support tour!"[n][w][e]
+[s]"NOTICE FROM STUDENT COUNCIL[n]TO NEW STUDENTS: A Shujin student[n]should follow the rules."[n][w][e]
+
+[msg MSG_BOARD_M4_01]
+[s]Various flyers are posted up.[n][w][e]
+[s]"GO TEAM! Dominate the[n]volleyball nationals!"[n][w][e]
+[s]"A Shujin student should[n]follow the rules."[n][w][e]
+
+[msg MSG_BOARD_M4_02]
+[s]Various flyers are posted up.[n][w][e]
+[s]"VOLLEYBALL RALLY RESULTS:[n]Mr. Kamoshida MVP!"[n][w][e]
+[s]"The roof of the school[n]is off-limits."[n][w][e]
+
+[msg MSG_BOARD_M4_03]
+[s]Various flyers are posted up.[n][w][e]
+[s]"VOLLEYBALL TEAM SUPPORT[n]TOUR NOW FULL! Thank you[n]everyone who joined!"[n][w][e]
+[s]"If you're worried about[n]something, ask for help sooner[n]rather than later."[n][w][e]
+
+[msg MSG_BOARD_M4_03_MARK]
+[s]Various flyers are posted up.[n][w][e]
+[s]"Posting pranks on the bulletin[n]board is strictly prohibited."[n][w][e]
+[s]"Please study quietly[n]during study hall."[n][w][e]
+[s]"BE CONSIDERATE:[n]Don't hang out in the cafeteria[n]longer than needed."[n][w][e]
+
+[msg MSG_BOARD_M5_01]
+[s]Various flyers are posted up.[n][w][e]
+[s]"First semester midterms[n]begin on May 11th."[n][w][e]
+[s]"Stay calm and focus[n]on your studies."[n][w][e]
+[s]"Please return books[n]by their due date![n]—Library Staff"[n][w][e]
+
+[msg MSG_BOARD_M5_02]
+[s]Various flyers are posted up.[n][w][e]
+[s]"Beware scams and blackmail[n]aimed at students!"[n][w][e]
+[s]"Midterm results will be posted[n]on Friday, May 20th."[n][w][e]
+
+[msg MSG_BOARD_M5_02_MARK]
+[s]Various flyers are posted up.[n][w][e]
+[s]"If you are involved in a crime,[n]ask for help immediately."[n][w][e]
+[s]"Applications for national[n]mock exams end on June 12th."[n][w][e]
+
+[msg MSG_BOARD_M6_01]
+[s]Various flyers are posted up.[n][w][e]
+[s]"There will be a social studies[n]trip from June 9th-10th."[n][w][e]
+[s]"Mind your manners when[n]you are on the trip."[n][w][e]
+
+[msg MSG_BOARD_M6_02]
+[s]Various flyers are posted up.[n][w][e]
+[s]"WARNING:[n]Stay away from Shinjuku."[n][w][e]
+[s]"Unkempt attire is a sign[n]of an unkempt heart."[n][w][e]
+[s]"Aim for the Olympics!"[n]"High hopes for Yoshizawa's[n]performance!"[n][w][e]
+
+[msg MSG_BOARD_M6_02_MARK]
+[s]Various flyers are posted up.[n][w][e]
+[s]"SUMMER IS NEAR—[n]be wary of food poisoning."[n][w][e]
+[s]"Please continue to avoid[n]unnecessary detours."[n][w][e]
+[s]"Aim for the Olympics!"[n]"High hopes for Yoshizawa's[n]performance!"[n][w][e]
+
+[msg MSG_BOARD_M7_01]
+[s]Various flyers are posted up.[n][w][e]
+[s]"Final exam schedule:[n]July 13th-16th"[n][w][e]
+[s]"Results will be posted[n]on July 19th."[n][w][e]
+[s]"Aim for the Olympics!"[n]"High hopes for Yoshizawa's[n]performance!"[n][w][e]
+
+[msg MSG_BOARD_M7_02]
+[s]Various flyers are posted up.[n][w][e]
+[s]"HOW TO SPEND YOUR SUMMER:[n]Plan out when you will study."[n][w][e]
+[s]"Summer classes:[n]July 26th-28th"[n][w][e]
+[s]"If you require supplementary[n]classes, you will be contacted[n]by your homeroom teacher."[n][w][e]
+
+[msg MSG_BOARD_M9_01]
+[s]Various flyers are posted up.[n][w][e]
+[s]"Be cautious on your school trip.[n]Start preparing early."[n][w][e]
+[s]"Act responsibly and sensibly."[n][w][e]
+
+[msg MSG_BOARD_M9_02]
+[s]Various flyers are posted up.[n][w][e]
+[s]"Be cautious on your school trip.[n]Start preparing early."[n][w][e]
+[s]"Act responsibly and sensibly."[n][w][e]
+[s]"URGENT: How to deal[n]with the media!"[n][w][e]
+
+[msg MSG_BOARD_M9_03]
+[s]Various flyers are posted up.[n][w][e]
+[s]"There will be a special meeting[n]with parents regarding the sudden[n]death of the principal."[n][w][e]
+[s]"A reminder to all students[n]to please remain calm."[n][w][e]
+
+[msg MSG_BOARD_M9_03_MARK]
+[s]Various flyers are posted up.[n][w][e]
+[s]"Be sure to have a goal in[n]mind for career counseling."[n][w][e]
+[s]"Second semester midterms[n]begin on October 17th."[n][w][e]
+
+[msg MSG_BOARD_M10_01]
+[s]Various flyers are posted up.[n][w][e]
+[s]"The school festival is coming![n]Open October 25th-26th."[n][w][e]
+
+[msg MSG_BOARD_M10_02]
+[s]Various flyers are posted up.[n][w][e]
+[s]"Goro Akechi chosen as guest[n]speaker for school festival!"[n][w][e]
+[s]"Special event 'Ask the Prodigy[n]Detective' will be held on the[n]afternoon of Day 2."[n][w][e]
+
+[msg MSG_BOARD_M10_03]
+[s]Various flyers are posted up.[n][w][e]
+[s]"Winter is coming! This[n]is the home stretch for[n]college-bound students!"[n][w][e]
+[s]"Be mindful of politics—[n]you are shaping the future."[n][w][e]
+
+[msg MSG_BOARD_M3_01]
+[s]Various flyers are posted up.[n][w][e]
+[s]"COLLEGE ENTRANCE EXAM RESULTS;[n]LIST OF COLLEGES"[n][w][e]
+[s]"The Phantom Thieves of Hearts[n]appear at Shujin Academy!"[n][w][e]
+[s]"The Phantom Thieves are the best!"[n][w][e]
+[s]"Goodbye, Phantom Thieves!"[n][w][e]
+
+[msg MSG_BOARD_M4_04]
+[s]There's a flyer about[n]the honors gymnast.[n][w][e]
+[s]Apparently there's a[n]gymnastic competition...[n][w][e]
+
+[msg MSG_BOARD_M5_01_1]
+[s]Various flyers are posted up.[n][w][e]
+[s]"First semester midterms[n]begin on May 11th."[n][w][e]
+[s]"Stay calm and focus[n]on your studies."[n][w][e]
+[s]"Please return books[n]by their due date![n]—Library Staff"[n][w][e]
+
+[msg MSG_BOARD_M5_01_MARUKI]
+[s]There are flyers posted[n]here on this board.[n][w][e]
+[s]There seem to be a lot of flyers[n]about the counseling sessions...[n][w][e]
+
+[msg MSG_BOARD_M5_01_2]
+[s]Various flyers are posted up.[n][w][e]
+[s]"First semester midterms[n]begin on May 11th."[n][w][e]
+[s]"Stay calm and focus[n]on your studies."[n][w][e]
+[s]"Please return books[n]by their due date![n]—Library Staff"[n][w][e]
+[s]"Notification about the[n]clean up event"[n][w][e]
+
+[msg MSG_BOARD_M5_02_1]
+[s]Various flyers are posted up.[n][w][e]
+[s]"Beware scams and blackmail[n]aimed at students!"[n][w][e]
+[s]"Midterm results will be[n]posted on Friday, May 20th."[n][w][e]
+[s]"Notification about the[n]clean up event"[n][w][e]
+
+[msg MSG_BOARD_M5_02_MARK_1]
+[s]Various flyers are posted up.[n][w][e]
+[s]"If you are involved in a crime,[n]ask for help immediately."[n][w][e]
+[s]"Applications for national mock[n]exams end on June 12th."[n][w][e]
+[s]"Notification about the[n]clean up event"[n][w][e]
+
+[msg MSG_BOARD_M5_02_2]
+[s]Various flyers are posted up.[n][w][e]
+[s]"Beware scams and blackmail[n]aimed at students!"[n][w][e]
+[s]"Midterm results will be[n]posted on Friday, May 20th."[n][w][e]
+[s]"Aim for the Olympics!"[n]"High hopes for Yoshizawa's[n]performance!"[n][w][e]
+
+[msg MSG_BOARD_M5_02_MARK_2]
+[s]Various flyers are posted up.[n][w][e]
+[s]"If you are involved in a crime,[n]ask for help immediately."[n][w][e]
+[s]"Applications for national[n]mock exams end on June 12th."[n][w][e]
+[s]"Aim for the Olympics!"[n]"High hopes for Yoshizawa's[n]performance!"[n][w][e]
+
+[msg MSG_BOARD_M6_01_1]
+[s]Various flyers are posted up.[n][w][e]
+[s]"There will be a social studies[n]trip from June 9th-10th."[n][w][e]
+[s]"Mind your manners when[n]you are on the trip."[n][w][e]
+[s]"Aim for the Olympics!"[n]"High hopes for Yoshizawa's[n]performance!"[n][w][e]
+
+[msg MSG_BOARD_M11_01]
+[s]There are flyers posted[n]about counseling...[n][w][e]
+[s]It seems Maruki will[n]be working here till[n]the 18th...[n][w][e]
+
+[msg MSG_BOARD_M11_02]
+[s]I can attend counseling[n]sessions until the day before...[n]Should I go visit Maruki?[n][w][e]
+
