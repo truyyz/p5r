@@ -1,0 +1,10 @@
+[msg D03_BRIEFING_200_mes01 [Ryuji]]
+[s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7045 65535 0]Gostaria de saber se ainda resta saquear por[n]aqui. Pode muito bem pegar o que este[n]palácio tem![n][w][e]
+
+[msg D03_BRIEFING_200_mes02 [Ann]]
+[s][bup 0 4 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Apenas tente não esquecer nosso prazo.[n][w][e]
+
+[msg D03_BRIEFING_200_mes03 [Makoto]]
+[s][bup 0 6 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2197 65535 0]Com o Joker no comando, tenho certeza de que[n]não precisamos nos preocupar com isso.[n][w][e]
+[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Agora, então Joker, o momento do cartão de[n]visita depende de você.[n][w][e]
+
