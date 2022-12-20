@@ -23,7 +23,7 @@
 
 [msg MSG_NOT_SELECT_PARA]
 [s]......[n][w][e]
-[s]Não meu [f 4 11 2][clr 26]Competência [clr 27]precisa ser pelo menos [clr 26]Decente [clr 27]para dizer aquilo...[n][w][e]
+[s]Não meu [f 4 11 2][clr 26] Competência [clr 27]precisa ser pelo[n]menos [clr 26]Decente [clr 27]para dizer aquilo...[n][w][e]
 
 [msg MSG_053_5_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][vp 1 0 0 0 0 0][f 0 6 255 0]... Por que não apenas se atingir grandes[n]nomes?[n][f 1 3 65535][e]

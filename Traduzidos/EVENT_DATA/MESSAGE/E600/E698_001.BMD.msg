@@ -211,15 +211,15 @@
 
 [msg MSG_049_0_0 [Calm Student]]
 [s][vp 8 0 0 4 5 0]Bem, não fique à frente de si mesmo porque[n]aconteceu bem.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 5 5 0]Olhar, [f 4 11 0][clr 26][f 4 12 0][clr 27]não é suficiente.[n]Você precisa [f 4 11 2][clr 26][f 4 12 2][clr 27]para se adaptar em tempo real.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 6 5 0]Você também precisa [f 4 11 4][clr 26][f 4 12 4][clr 27]ser aceito e [f 4 11 3][clr 26][f 4 12 3][clr 27]para ser honesto e direto.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 5 5 0]Olha, [f 4 11 0][clr 26][f 4 12 0][clr 27] não é suficiente.[n]Você precisa [f 4 11 2][clr 26][f 4 12 2][clr 27] para se adaptar[n]em tempo real.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 6 5 0]Você também precisa [f 4 11 4][clr 26][f 4 12 4][clr 27] para ser aceito[n]e [f 4 11 3][clr 26][f 4 12 3][clr 27]para ser honesto e direto.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 7 5 0]Mais [f 4 11 1][clr 26][f 4 12 1][clr 27], para atrair pessoas para você.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 8 5 0]A qualidade do seu personagem diz muito[n]sobre você, por isso é importante melhorar[n]a si mesmo todos os dias.[n][f 1 3 65535][w][e]
 
 [msg MSG_050_0_0 [Dull Student]]
 [s][vp 8 0 0 9 4 0]Sério? Mas é preciso muito trabalho...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 10 4 0]Mas eu farei isso, se isso significa que vou[n]conseguir uma namorada![n][f 1 3 65535][w][e]
-[s][vp 8 0 0 11 4 0]Acho que vou começar tomando banho todos os[n]dias.[n]Eu ouço garotas preferem um cara que é[n]higiênico.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 11 4 0]Acho que vou começar tomando banho todos os[n]dias. Eu ouço que garotas preferem um cara que é[n]higiênico.[n][f 1 3 65535][w][e]
 
 [msg MSG_051_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Ei, isso se aplica a você também.[n][f 1 3 65535][w][e]

@@ -14,10 +14,10 @@
 [s][vp 1 0 0 0 0 0]Há algum intervalo chegando?[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_0424_1]
-[s][vp 1 0 0 0 0 0]Fico feliz que o metrô tenha sido reparado[n]tão rapidamente.[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Fico feliz que o metrô tenha sido[n]reparado tão rapidamente.[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_0424_2]
-[s][vp 1 0 0 0 0 0]Foi apenas um incidente bizarro após o outro[n]este ano...[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Foi apenas um incidente bizarro[n]após o outro este ano...[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_0424_3]
 [s][vp 1 0 0 0 0 0]Nosso país está indo para o inferno![n][f 1 3 65535][w][e]
@@ -26,7 +26,7 @@
 [s][vp 1 0 0 0 0 0]Não existem políticos honestos por aí...?[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_0424_5]
-[s][vp 1 0 0 0 0 0]Como posso ter esperança em um país como[n]este?[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Como posso ter esperança em[n]um país como este?[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_0429_1]
 [s][vp 1 0 0 0 0 0]Os trens pararam? Foi outro daquelas quebras[n]psicóticas?[n][f 1 3 65535][w][e]

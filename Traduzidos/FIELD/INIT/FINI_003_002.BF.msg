@@ -576,7 +576,7 @@
 [s][f 4 10 65535 0 0]Há uma lavanderia ao lado da casa de[n]banho... provavelmente podemos lavá-la lá.[n][w][e]
 
 [msg MSG_NIGHT_LAUNDRY_CoinKn [Morgana]]
-[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 1187 65535 0]Oh, certo. Você tem carregado por isso [clr 4]armadura fuligem [clr 27]... Que tal você lavar isso na lavanderia?[n][w][e]
+[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 1187 65535 0]Oh, certo. Você tem [clr 4]armadura fuligem [clr 27]...[n]Que tal você lavar isso na lavanderia?[n][w][e]
 
 [msg MSG_NIGHT_LAUNDRY_CoinKn_2 [Morgana]]
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 1187 65535 0]Ei, você tem alguns [clr 4]armadura fuligem [clr 27]...[n]Que tal você lavar isso na lavanderia?[n][w][e]

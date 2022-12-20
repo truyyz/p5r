@@ -441,7 +441,7 @@
 [s][vp 8 0 0 0 65535 0]Mais tempo passou do que eu pensava...[n][f 1 3 65535][w][e]
 
 [msg MSG_BookRead_NotFinish_N [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Parece que você ainda tem algumas páginas[n]restantes.[n]Você deve continuar outro tempo.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Parece que você ainda tem algumas páginas[n]restantes. Você deve continuar outro tempo.[n][f 1 3 65535][w][e]
 
 [msg MND_BookRead_NotFinish_N]
 [s][vp 1 0 0 0 0 0]Ainda restam algumas páginas.[n]Continuarei lendo isso em outra hora.[n][f 1 3 65535][w][e]

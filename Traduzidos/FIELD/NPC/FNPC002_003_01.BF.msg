@@ -266,7 +266,7 @@
 [s][vp 9 2 65535 43212 0 0]Esse aluno transferido já está sendo expulso[n]da escola![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_004_01_ [Ruthless Student]]
-[s][vp 9 2 65535 42703 0 0]Estou tendo uma boa risada desse absurdo de[n]ladrão fantasma.[n]Espero que não pare por aqui.[n][f 1 2 180][e]
+[s][vp 9 2 65535 42703 0 0]Estou tendo uma boa risada[n]desse absurdo deladrão fantasma.[n]Espero que não pare por aqui.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_004_02_ [Ruthless Student]]
 [s]0 [n][f 1 2 180][e]
@@ -275,7 +275,7 @@
 [s][vp 9 2 65535 42951 0 0]Ele brigou com o Sr. Kamoshida? Ele é[n]estúpido?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_004_04_ [Ruthless Student]]
-[s][vp 9 2 65535 40355 0 0]Provavelmente é apenas uma brincadeira de[n]alguém que assiste muito anime...[n][f 1 2 180][e]
+[s][vp 9 2 65535 40355 0 0]Provavelmente é apenas uma[n]brincadeira de alguém que assiste[n]muito anime...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_004_05_ [Ruthless Student]]
 [s][vp 9 2 65535 38905 0 0]Um cartão de chamada Phantom Thief?[n]Isso é apenas uma brincadeira, certo?[n][f 1 2 180][e]

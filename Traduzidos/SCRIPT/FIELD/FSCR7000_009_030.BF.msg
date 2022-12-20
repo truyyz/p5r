@@ -173,7 +173,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1021 65535 0]Você não tem mais [clr 2]Equipamento sujo [clr 27]- Você quer apenas administrar a máquina de[n]lavar agora?[n][w][e]
 
 [msg MSG_ItemHave [Morgana]]
-[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 0 1174 65535 0]Você queria lavar alguns [clr 2]equipamento fuligem [clr 27]? Você pode lavar para [n][clr 2]quatro itens [clr 27]Para 400 ienes.[n][w][e]
+[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 0 1174 65535 0]Você queria lavar alguns [clr 2]equipamento fuligem[clr 27]?[n]Você pode lavar até [clr 2]quatro itens [clr 27]por 400 ienes.[n][w][e]
 
 [msg MSG_KawakamiPreInfo [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0]Pode ser bom pedir a Kawakami para lidar com[n]isso para você. Então, você pode gastar[n]tempo em outra coisa.[n][w][e]

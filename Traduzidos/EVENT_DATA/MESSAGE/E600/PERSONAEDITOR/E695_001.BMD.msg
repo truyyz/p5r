@@ -15,7 +15,7 @@
 [s][vp 8 0 0 0 65535 0]Eu gostaria de ter dinheiro. Eu mataria por[n]um café da manhã de verdade...[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Energetic College Student]]
-[s][vp 8 2 0 39104 12 0]A respeito [clr 2]Big Bang Burger [clr 27]? O que está ligado [clr 2]Rua Central [clr 27]está realizando um concurso agora.[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 39104 12 0]A respeito [clr 2]Big Bang Burger [clr 27]? O que está ligado[n][clr 2]Rua Central [clr 27]está realizando um concurso agora.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]O Big Bang Challenge ou qualquer outra coisa.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Se você for à noite, poderá comer por apenas[n]500 ienes.[n][f 1 3 65535][w][e]
 

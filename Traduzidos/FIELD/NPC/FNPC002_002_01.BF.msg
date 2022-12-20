@@ -351,7 +351,7 @@
 [msg MSG_SINBUNJYOSI_003_3_0 [Newspaper Club Member]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Mmm... tudo o que posso dizer é o que[n]aconteceu recentemente, criou um alvoroço[n]no campus...[n][w][e]
 [s][vp 8 2 1 0 1 0]Por causa do que está acontecendo, as[n]pessoas provavelmente prestarão menos[n]atenção aos maus rumores sobre você.[n][w][e]
-[s][vp 8 2 1 0 1 0]Os professores ainda ficarão de olho em[n]você, para que não possamos conversar por[n]muito tempo.[n]Eu sinto Muito.[n][w][e]
+[s][vp 8 2 1 0 1 0]Os professores ainda ficarão de olho em você,[n]para que não possamos conversar por[n]muito tempo. Eu sinto muito.[n][w][e]
 
 [msg MSG_SINBUNJYOSI_004_0_0 [Newspaper Club Member]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]...O que você precisava? Ser visto com você[n]me faz sentir nervoso, mas posso falar um[n]pouco.[n][w][e]
@@ -882,7 +882,7 @@
 [s][vp 9 2 65535 43212 0 0]Esse aluno transferido já está sendo expulso[n]da escola![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_004_01_ [Newspaper Club Member]]
-[s][vp 9 2 65535 42703 0 0]Estou tendo uma boa risada desse absurdo de[n]ladrão fantasma.[n]Espero que não pare por aqui.[n][f 1 2 180][e]
+[s][vp 9 2 65535 42703 0 0]Estou tendo uma boa risada[n]desse absurdo deladrão fantasma.[n]Espero que não pare por aqui.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_004_02_ [Newspaper Club Member]]
 [s]0 [n][f 1 2 180][e]
@@ -891,7 +891,7 @@
 [s][vp 9 2 65535 42951 0 0]Ele brigou com o Sr. Kamoshida? Ele é[n]estúpido?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_004_04_ [Newspaper Club Member]]
-[s][vp 9 2 65535 40355 0 0]Provavelmente é apenas uma brincadeira de[n]alguém que assiste muito anime...[n][f 1 2 180][e]
+[s][vp 9 2 65535 40355 0 0]Provavelmente é apenas uma[n]brincadeira de alguém que assiste[n]muito anime...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_004_05_ [Newspaper Club Member]]
 [s][vp 9 2 65535 38905 0 0]Um cartão de chamada Phantom Thief?[n]Isso é apenas uma brincadeira, certo?[n][f 1 2 180][e]

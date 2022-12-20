@@ -21,7 +21,7 @@
 
 [msg MSG_006_0_0 [Sleepy-Looking Guy]]
 [s][vp 8 2 0 46252 4 0]* Bocejo* As segundas-feiras são uma[n]arrastada...[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 4 0]Por que eles não poderiam nos dar hoje[n]também?[n]Temos o resto da semana de folga a partir de[n]amanhã...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 4 0]Por que eles não poderiam nos dar hoje também?[n]Temos o resto da semana de folga a partir de[n]amanhã...[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Serious-Looking Guy]]
 [s][vp 8 0 0 0 5 0]Sim, é ridículo. Falando, o que há com esse[n]cartão de visita? O enviado para Kamoshida.[n][f 1 3 65535][w][e]

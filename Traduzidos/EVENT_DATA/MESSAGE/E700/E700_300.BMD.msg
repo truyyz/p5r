@@ -822,7 +822,7 @@
 [s][bup 0 103 3 0 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Esqueci de pedir o número do seu celular,[n]então tive que desenterrá-lo de seus papéis.[n]Um verdadeiro aborrecimento, deixe-me dizer.[n][f 1 3 65535][w][e]
 
 [msg MSG_211_0_0 [Sojiro]]
-[s][bup 0 103 0 0 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]De qualquer forma, você já fechou?[n]Eu vou fazer com que você lide com isso de[n]agora em diante, então é melhor aprender[n]agora.[n][f 1 3 65535][w][e]
+[s][bup 0 103 0 0 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]De qualquer forma, você já fechou?[n]Eu vou fazer com que você lide com isso de agora[n] em diante, então é melhor aprender agora.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Parece que você é um estudo rápido, então[n]espero que você tenha o jeito.[n][f 1 3 65535][w][e]
 
 [sel SEL_212_0_0 top]

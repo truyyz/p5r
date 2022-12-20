@@ -98,7 +98,7 @@
 
 [msg SYS_022_0_0]
 [s][vp 8 0 0 0 65535 0]O resumo da história até este ponto foi[n]atualizado.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]Para ler, pressione [f 1 10 25]Para abrir o menu, depois selecione [clr 2]História [clr 27][n]de debaixo do [clr 2]Sistema [clr 27]opção.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Para ler, pressione [f 1 10 25] para abrir o menu,[n]depois selecione [clr 2]História [clr 27]de debaixo[n]do [clr 2]Sistema [clr 27]opção.[n][f 1 3 65535][w][e]
 
 [msg MND_990_0_0]
 [s][vp 1 0 0 0 0 0]Eu sinto que meu vínculo com SAE está[n]crescendo mais fundo...[n][f 1 3 65535][w][e]

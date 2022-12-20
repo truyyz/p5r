@@ -14,11 +14,11 @@
 
 [msg MSG_NOT_SELECT_PARA_YUUK]
 [s]......[n][w][e]
-[s]Não meu [f 4 11 3][clr 26][f 4 12 3][clr 27]precisa ser pelo menos [clr 26][f 4 13 3 2][clr 27]para dizer aquilo...[n][w][e]
+[s]Não meu [f 4 11 3][clr 26][f 4 12 3][clr 27] precisa ser pelo[n]menos [clr 26][f 4 13 3 2][clr 27]para dizer aquilo...[n][w][e]
 
 [msg MSG_NOT_SELECT_PARA_TISH]
 [s]......[n][w][e]
-[s]Não meu [f 4 11 0][clr 26][f 4 12 0][clr 27]precisa ser pelo menos [clr 26][f 4 13 0 2][clr 27]para dizer aquilo...[n][w][e]
+[s]Não meu [f 4 11 0][clr 26][f 4 12 0][clr 27] precisa ser pelo[n]menos [clr 26][f 4 13 0 2][clr 27]para dizer aquilo...[n][w][e]
 
 [msg MSG_NOT_SELECT_PARA_BOTH]
 [s]Eu não posso dizer isso agora...[n][w][e]

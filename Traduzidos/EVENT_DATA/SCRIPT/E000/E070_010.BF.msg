@@ -29,7 +29,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 4 0]Suas memórias e sentimentos são coletados[n]aqui e são de forma.[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [[f 7 1]]]
-[s][bup 0 221 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 4 0]Rapaz, tenho certeza que feliz por ter vindo[n]aqui agora![n]Aposto que este lugar pode me ensinar todo[n]tipo de coisa.[n][f 1 3 65535][w][e]
+[s][bup 0 221 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 4 0]Rapaz, tenho certeza que feliz por ter vindo aqui[n]agora! Aposto que este lugar pode me ensinar[n]todo tipo de coisa.[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [[f 7 1]]]
 [s][bup 0 221 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 56792 4 0]Vou ficar por aqui por um tempo. Você também[n]pode dar uma olhada em volta, se isso lhe[n]interessar.[n][f 1 3 65535][w][e]

@@ -27,7 +27,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0]Ei, você já terminou de ler esse livro?[n][w][e]
 
 [msg MSG_NG_Atama [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Esse livro parece bastante difícil.[n]Provavelmente é muito difícil de ler no seu[n]nível atual de [n][f 4 11 0][clr 26][f 4 12 0][clr 27].[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Esse livro parece bastante difícil.[n]Provavelmente é muito difícil de ler no seu[n]nível atual de [f 4 11 0][clr 26][f 4 12 0][clr 27].[n][w][e]
 
 [msg SYS_NG_Atama]
 [s]Seu [f 4 11 0][clr 26][f 4 12 0][clr 27]precisará[n] ser pelo menos [clr 2][f 4 13 0 3][clr 27]. Se você quiser[n] ler a literatura clássica.[n][w][e]

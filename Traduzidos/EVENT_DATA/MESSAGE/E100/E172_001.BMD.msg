@@ -60,7 +60,7 @@
 
 [msg MSG_017_0_0 [Ryuji]]
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Tudo que você faz é ordens de casca...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Ainda assim, isso foi mais fácil do que eu[n]pensava![n]Eu tinha certeza de que haveria uma[n]armadilha insana ou algo assim.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Ainda assim, isso foi mais fácil do que eu[n]pensava! Eu tinha certeza de que haveria[n]uma armadilha insana ou algo assim.[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Ann]]
 [s][bup 0 4 100 0 0][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Seu palácio desaparecerá se voltarmos, certo?[n][f 1 3 65535][w][e]

@@ -373,7 +373,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Vamos lá, vamos lá. Eu tenho algo que quero[n]falar com você sobre o Durin '.[n][w][e]
 
 [msg MND_COOP_DOUZOKUSEI]
-[s]Eu sinto que posso me aproximar de Ryuji[n]graças ao [n][var 2][n]Persona [clr 1][var 5][clr 27]...[n][w][e]
+[s]Eu sinto que posso me[n]aproximar de Ryuji graças ao [n][var 2]Persona [clr 1][var 5][clr 27]...[n][w][e]
 
 [msg MND_COOP_RANKUP_OK_FIRST]
 [s]Esta pode ser uma boa oportunidade para[n]aprofundar meu vínculo com Ryuji...[n][w][e]

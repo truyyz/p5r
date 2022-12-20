@@ -27,7 +27,7 @@
 
 [msg MSG_009_0_0 [Man in a Suit]]
 [s][vp 8 0 0 9 7 0]N-não ainda...[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 10 7 0]Com licença, mas por que você está tão[n]envolvido?[n]Não é algo com o qual você deve se[n]preocupar...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 10 7 0]Com licença, mas por que você está tão[n]envolvido? Não é algo com o qual você deve[n]se preocupar...[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Distinguished Man]]
 [s][bup 0 206 2 0 0][f 4 10 65535 0 0][vp 8 0 0 11 6 0]Eu não me importo com sua opinião, seu bufão[n]incompetente! Quando digo, acelere o ritmo,[n]você faz isso![n][f 1 3 65535][w][e]

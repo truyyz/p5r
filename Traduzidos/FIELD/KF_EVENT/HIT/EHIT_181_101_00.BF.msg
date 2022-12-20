@@ -30,7 +30,7 @@
 
 [msg MSG_GROUP1_TALK_009_000 [Arrogant Wealthy Woman]]
 [s][vp 8 0 1 17 850 0]TSK, como uma criança como essa acabou aqui?[n][w][e]
-[s][vp 8 0 1 18 850 0]Eu certamente espero que ele não tenha[n]trazido amigos.[n]Eu prefiro minhas refeições para permanecer[n]sem hooligan, muito obrigado.[n][w][e]
+[s][vp 8 0 1 18 850 0]Eu certamente espero que ele não tenha trazido[n]amigos. Eu prefiro minhas refeições para[n]permanecer sem hooligan, muito obrigado.[n][w][e]
 [s][vp 8 0 1 19 850 0]Venha, vamos lá.[n][w][e]
 
 [msg MSG_GROUP1_TALK_010_000 [Morgana]]
@@ -98,7 +98,7 @@
 
 [msg MSG_GROUP3_TALK_003_000 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 1 46 65535 0]Investigar...?[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 1 47 65535 0]Eu acho que eles estão investigando[n]Kamoshida?[n]Eles não parecem muito entusiasmados com[n]isso.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 1 47 65535 0]Eu acho que eles estão investigando Kamoshida?[n]Eles não parecem muito entusiasmados com[n]isso.[n][w][e]
 
 [msg MSG_GROUP3_TALK_004_000 [Haughty Subordinate]]
 [s][vp 8 0 1 48 854 0]Hum?[n][w][e]
@@ -129,7 +129,7 @@
 
 [msg MSG_GROUP4_TALK_003_000 [IT Company President]]
 [s][vp 8 0 1 59 856 0]Não se preocupe com isso. Nós apenas temos[n]que fazer o que eles nos dizem para fazer.[n][w][e]
-[s][vp 8 0 1 60 856 0]De qualquer forma, são todos os rumores[n]feitos por crianças em idade escolar. Se é[n]uma notícia emocionante, quem se importa se[n]não é verdade?[n][w][e]
+[s][vp 8 0 1 60 856 0]De qualquer forma, são todos os rumores feitos por[n]crianças em idade escolar. Se é uma notícia[n]emocionante, quem se importa se não é verdade?[n][w][e]
 
 [msg MSG_GROUP4_TALK_004_000 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 1 61 65535 0]Então eles não acreditam a si mesmos, mas[n]estão inventando histórias para fazer com[n]que os ladrões fantasmas pareçam reais...[n][w][e]

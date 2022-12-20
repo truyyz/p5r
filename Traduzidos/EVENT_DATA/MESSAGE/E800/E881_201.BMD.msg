@@ -14,7 +14,7 @@
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37062 65535 0]TCH... bem, tanto faz. Se movendo.[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1183 65535 0]Ooh, você tem a atenção da classe inteira![n]Sua [n][f 4 11 1][clr 26][f 4 12 1][clr 27]definitivamente aumentou.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1183 65535 0]Ooh, você tem a atenção da classe inteira![n]Sua [f 4 11 1][clr 26][f 4 12 1][clr 27] definitivamente aumentou.[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Female Student]]
 [s][vp 8 0 0 0 65535 0]Ooh... isso parecia doer.[n][f 1 3 65535][w][e]

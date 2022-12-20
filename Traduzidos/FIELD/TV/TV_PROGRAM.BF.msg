@@ -3050,7 +3050,7 @@
 [s][clr 2][var 8][clr 27] [f 2 5 3 9999 0], Assim, [n][clr 2][var 9][clr 27] [f 2 5 3 9999 1], e...[n][w][e]
 [s][clr 2][var 10][clr 27] [f 2 5 3 9999 2]-tudo em um![n]Que acordo![n][w][e]
 [s]Mas espere! Tem mais![n][w][e]
-[s]Em seguida é o [clr 3]Conjunto de treinos musculares [clr 27]! Você verá uma enorme melhoria nos seus[n]resultados de treinamento! Este conjunto[n]inclui...[n][w][e]
+[s]Em seguida é o [clr 3]Conjunto de treinos musculares[clr 27]![n]Você verá uma enorme melhoria nos seus[n]resultados de treinamento! Este conjunto inclui...[n][w][e]
 [s][clr 2][var 12][clr 27] [f 2 5 3 9999 4]e [n][clr 2][var 13][clr 27] [f 2 5 3 9999 5]![n][w][e]
 [s]Eu não posso acreditar que ambos estão em um[n]conjunto! Que roubo![n][w][e]
 

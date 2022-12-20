@@ -86,7 +86,7 @@
 [s][vp 9 2 65535 42703 0 0]Eles são seriamente chamados de "Phantom[n]Thieves of Hearts"?[n]Isso é tão coxo que é engraçado![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_004_02_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42755 0 0]Algumas pessoas têm muito tempo em suas mãos.[n][f 1 2 180][e]
+[s][vp 9 2 65535 42755 0 0]Algumas pessoas têm muito[n]tempo em suas mãos.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_004_03_ [Diligent-Looking Student]]
 [s][vp 9 2 65535 42905 0 0]Não é um pouco infantil demais para uma[n]brincadeira?[n][f 1 2 180][e]

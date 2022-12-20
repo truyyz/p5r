@@ -1,5 +1,5 @@
 [msg MSG_000_0_0 [Surly Manager]]
-[s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]Só... não vou perguntar onde você conseguiu[n]isso. Como estão 30.000 ienes para isso?[n][f 1 3 65535][w][e]
+[s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]Só... não vou perguntar onde você conseguiu isso.[n]Como estão 30.000 ienes para isso?[n][f 1 3 65535][w][e]
 
 [sel SEL_001_0_0 top]
 [s]Funciona para mim.[e]
@@ -126,7 +126,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 39 65535 0]Seu pedaço de merda![n][f 1 3 65535][w][e]
 
 [msg MSG_039_0_0 [Stern Detective]]
-[s][f 4 10 65535 0 0][vp 8 0 0 40 65535 0]Ei, você está falando com uma criança,[n]lembra?[n]Além disso, ele não é quem estamos aqui para[n]ver.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 40 65535 0]Ei, você está falando com uma criança, lembra?[n]Além disso, ele não é quem estamos aqui para[n]ver.[n][f 1 3 65535][w][e]
 
 [msg MSG_040_0_0 [Vulgar Detective]]
 [s][f 4 10 65535 0 0][vp 8 0 0 41 65535 0]*suspirar* [n][f 1 3 65535][w][e]

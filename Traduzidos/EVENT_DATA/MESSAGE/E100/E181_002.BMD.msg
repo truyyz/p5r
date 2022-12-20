@@ -14,7 +14,7 @@
 [s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]Você é a última pessoa que quero dar[n]conselhos sobre isso, Ryuji.[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Eu estava pensando isso também, mas dê uma[n]mordida.[n]Usin 'melhores ingredientes torna as coisas[n]com o sabor muito diferente![n][f 1 3 65535][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Eu estava pensando isso também, mas dê uma[n]mordida. Os melhores ingredientes torna as[n]coisas com o sabor muito diferente![n][f 1 3 65535][w][e]
 
 [msg MSG_004_5_0 [Morgana]]
 [s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Olhe para você, agindo como se tivesse um[n]paladar refinado de repente.[n][f 1 3 65535][w][e]
@@ -100,7 +100,7 @@
 [s][vp 8 0 0 31 30 0]Meu, olhe para aquela mesa...[n][f 1 3 65535][w][e]
 
 [msg MSG_027_0_0 [Wealthy Man]]
-[s][vp 8 0 0 32 9 0]Venha agora, não preste atenção a eles.[n]Tenho certeza de que eles normalmente não[n]devem ter a chance de comer alimentos tão[n]requintados.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 32 9 0]Venha agora, não preste atenção a eles. Tenho[n]certeza de que eles normalmente não devem ter[n]a chance de comer alimentos tão requintados.[n][f 1 3 65535][w][e]
 
 [msg MSG_028_0_0 [Elegant Woman]]
 [s][vp 8 0 0 33 30 0]Só posso imaginar como devem ser seus pais.[n][f 1 3 65535][w][e]

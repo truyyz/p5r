@@ -13,5 +13,5 @@
 
 [msg MSG_NOT_SELECT_PARA]
 [s]......[n][w][e]
-[s]Não meu [f 4 11 3][clr 26][f 4 12 3][clr 27]precisa ser pelo menos [clr 26][f 4 13 3 2][clr 27]para dizer aquilo...[n][w][e]
+[s]Não meu [f 4 11 3][clr 26][f 4 12 3][clr 27] precisa ser pelo menos[n][clr 26][f 4 13 3 2][clr 27]para dizer aquilo...[n][w][e]
 
