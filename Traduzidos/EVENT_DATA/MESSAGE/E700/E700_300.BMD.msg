@@ -1370,7 +1370,7 @@
 [s][bup 0 2 1 65535 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]'E aí! Você chega em casa, ok? Não tropeçou[n]ou nada?[n][f 1 3 65535][w][e]
 
 [msg MSG_351_0_0 [Ryuji]]
-[s][bup 0 2 3 65535 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas cara, eu estou tão fora da forma.[n]Parecia que eu mal conseguia arrastar[n]minhas malditas pernas pelos degraus da[n]estação...[n][f 1 3 65535][w][e]
+[s][bup 0 2 3 65535 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas cara, eu estou tão fora da forma. Parecia que[n] eu mal conseguia arrastar minhas malditas pernas [n] pelos degraus da estação...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Isso nunca teria acontecido naquela época.[n]Ugh... eu deveria ter mantido minha corrida.[n][f 1 3 65535][w][e]
 
 [sel SEL_352_0_0 top]

@@ -1,3 +1,3 @@
 [msg TUTORIAL_MSG01 [Customers in Leblanc]]
-[s]when you need to do activities in the café.[n][w][e]
+[s] Os clientes em Leblanc irão para casa depois de escutá-los um pouco.[n] Tente fazer isso quando precisar [n] fazer atividades no café.[n][w][e]
 

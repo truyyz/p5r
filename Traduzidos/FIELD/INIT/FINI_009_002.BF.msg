@@ -2,7 +2,7 @@
 [s]......[n][w][e]
 
 [msg MSG_FIRST_NIGHT_MONA [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1169 65535 0]Fomos informados de que não poderíamos ir[n]muito longe. Então, acho que isso significa[n]que temos que aproveitar a vida noturna em[n]Yongen.[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1169 65535 0]Fomos informados de que não poderíamos ir muito [n]longe. Então, acho que isso significa que temos[n] que aproveitar a vida noturna em Yongen.[n][w][e]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0]Ei, que tal dar uma olhada dentro daquela[n]casa de banho? Eu provavelmente não posso[n]entrar lá como um gato...[n][w][e]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0]Eu vi uma placa para um cinema em algum[n]lugar também. E havia algumas gaiolas de[n]rebatidas também.[n][w][e]
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0]... mmm, existem tantas coisas para fazer![n]Isso vai ser divertido![n][w][e]
@@ -326,7 +326,7 @@
 
 [msg MSG_NIGHT_MASTER_COOP_IN [Sojiro]]
 [s][f 4 23 1 205 33 10 33 10][f 4 23 1 235 31 10 30 10][bup 0 103 0 0 0][f 4 10 65535 0 0]Ei, você tem um minuto?[n][w][e]
-[s][f 4 10 65535 0 0]Algo que eu quero te perguntar. C'mere,[n]vamos conversar.[n][w][e]
+[s][f 4 10 65535 0 0]Algo que eu quero te perguntar.[n]Venha, vamos bater um papo.[n][w][e]
 
 [msg MSG_NIGHT_MASTER_NIGHT_R [Sojiro]]
 [s][f 4 23 1 205 33 10 33 10][f 4 23 1 235 31 10 30 10][bup 0 103 0 0 0][f 4 10 65535 0 0]...Então. Se acostumando com a cidade?[n][w][e]
@@ -1039,7 +1039,7 @@
 [msg MSG_DAYTIME_D01_ACT_0420 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1170 65535 0]Se vendermos as coisas que encontramos no[n]palácio, podemos fazer alguns arranhões[n]rápidos para os fundos de guerra, mas...[n][w][e]
 [s][f 4 10 65535 0 0]Como Lady Ann disse-um emprego de meio[n]período pode ser a melhor aposta.[n][w][e]
-[s][f 4 10 65535 0 0]Existem [clr 2]revistas de emprego [clr 27]Na estação Shibuya, não está lá? Talvez você[n]deva pegar um.[n][w][e]
+[s][f 4 10 65535 0 0]Existem [clr 2]revistas de emprego[clr 27] na estação Shibuya. [n] Talvez você deva pegar uma.[n][w][e]
 
 [msg MSG_DAYTIME_D01_ACT_0424 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1172 65535 0]Eu ouço coisas boas sobre aquele programa de[n]compras de TV de domingo. Quer conferir[n]algum dia?[n][w][e]

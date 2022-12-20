@@ -7,7 +7,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Na verdade, eu tenho pensado em tentar[n]correr novamente.[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Ryuji]]
-[s][bup 0 2 205 0 0][f 4 10 65535 0 0][vp 8 2 0 7047 65535 0]Lutando naquele outro mundo foi um choque[n]total. Eu não conseguia me mexer como[n]costumava fazer.[n]Parecia... coxo.[n][f 1 3 65535][w][e]
+[s][bup 0 2 205 0 0][f 4 10 65535 0 0][vp 8 2 0 7047 65535 0]Lutando naquele outro mundo foi um choque[n]total. Eu não conseguia me mexer como[n]costumava fazer. Parecia... fraco.[n][f 1 3 65535][w][e]
 [s][bup 0 2 201 0 0][f 4 10 65535 0 0][f 4 24 0 4 0 36 5 100][vp 8 0 0 0 65535 0]Então eu comecei a pensar, talvez precise[n]construir meus músculos novamente.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Qualquer coisa tem que ser melhor do que[n]esse corpo frágil, certo?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 15 300 65535][vp 8 0 0 0 65535 0]Além disso, talvez eu consiga ajudar um[n]pouco mais.[n][f 1 3 65535][w][e]

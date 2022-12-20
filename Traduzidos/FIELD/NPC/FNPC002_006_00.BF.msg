@@ -95,7 +95,7 @@
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Sério? Legal, mal posso esperar![n][w][e]
 
 [msg MSG_SEASON_GOODS_002_01 [Inquisitive Girl]]
-[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]* Suspiro* As atividades do clube estão me[n]matando.[n]Existe algo que eu possa obter para aliviar[n]a exaustão?[n][w][e]
+[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]* Suspiro* As atividades do clube estão me[n]matando. Existe algo que eu possa obter para aliviar[n]a exaustão?[n][w][e]
 
 [msg MSG_SEASON_GOODS_002_02 [Foodie Girl]]
 [s][f 4 23 1 8 14 0 13 0][vp 8 2 1 0 8 0]Se for esse o caso, por que você não tenta[n]esse óleo corporal chamado [n][clr 2][var 0][clr 27]?[n][w][e]

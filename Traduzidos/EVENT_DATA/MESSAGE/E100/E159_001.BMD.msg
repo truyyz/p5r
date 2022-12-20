@@ -59,7 +59,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 39 65535 0]Quer dizer, você quer que nós o levemos[n]junto?[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Ann]]
-[s][bup 0 4 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 40 65535 0]Não aja como se eu fosse te arrastar para[n]baixo.[n]Você não estava assistindo? Eu também posso[n]lutar.[n][f 1 3 65535][w][e]
+[s][bup 0 4 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 40 65535 0]Não aja como se eu fosse te arrastar para baixo.[n]Você não estava assistindo? Eu também posso lutar.[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Ryuji]]
 [s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 42 65535 0]Ei... o que devemos fazer?[n][f 1 3 65535][w][e]
@@ -160,7 +160,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 122 65535 0]Ok! Vamos olhar para minha nova residência[n]para este mundo.[n][f 1 3 65535][w][e]
 
 [msg SYS_042_0_0]
-[s][vp 8 0 0 0 65535 0]o [clr 2]SHUJIN Academy Rooftop [clr 27]Será o seu esconderijo a partir de agora.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]O [clr 2]SHUJIN Academy Rooftop [clr 27]Será o seu esconderijo agora.[n][f 1 3 65535][w][e]
 
 [msg MND_990_0_0]
 [s][vp 1 0 0 0 0 0]Sinto uma forte resolução de luta de Ann...[n][f 1 3 65535][w][e]

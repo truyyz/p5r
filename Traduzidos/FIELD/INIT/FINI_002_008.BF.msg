@@ -35,7 +35,7 @@
 
 [msg MSG_LibGirl_NowKamo_Last_2 [Morgana]]
 [s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 1 1044 65535 0]Os outros alunos têm medo de você...?[n]Estou me sentindo mais hostilidade do que[n]qualquer coisa.[n][w][e]
-[s][f 4 10 65535 0 0]Confira o canto do estudo. Parece que você[n]pode aumentar seu [f 4 11 0][clr 26][f 4 12 0][clr 27][n]e [f 4 11 3][clr 26][f 4 12 3][clr 27]aqui...[n][w][e]
+[s][f 4 10 65535 0 0]Confira o canto do estudo. Parece que você[n]pode aumentar seu [f 4 11 0][clr 26][f 4 12 0][clr 27] [n] e [f 4 11 3][clr 26][f 4 12 3][clr 27] aqui...[n][w][e]
 
 [msg MSG_LibGirl_EndKamo_Info [Student Librarian]]
 [s][vp 8 2 1 0 0 0]...Ah é você...[n][w][e]

@@ -788,7 +788,7 @@
 [msg MSG_KIDOTTA_001_0_0 [Pompous Customer]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Ah, peço desculpas se já fiquei muito[n]bem-vindo.[n][w][e]
 [s][vp 8 2 1 0 0 0]Terminei uma crítica ao trabalho, então[n]estou participando de um momento de[n]descanso.[n][w][e]
-[s][vp 8 2 1 0 0 0]The ambience of my favorite café at[n]Tempo de encerramento... esse silêncio[n]perfeito acalma minha própria alma.[n][w][e]
+[s][vp 8 2 1 0 0 0]O ambiente do meu café favorito [n] é na hora de fechar... Este silêncio [n] perfeito acalma minha alma..[n][w][e]
 
 [msg MSG_KIDOTTA_001_1_0 [Sojiro]]
 [s][bup 0 103 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 0 0]A TV está ligada, no entanto.[n][w][e]

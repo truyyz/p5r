@@ -15,5 +15,5 @@
 [s]Não pare [e]
 
 [msg TOOLWIN_CANCELL_STOP_MSG [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 1057 65535 0]O que está errado? Você não quer fazer um [f 6 1 8 0 0 39][clr 3]LOCKPICK [clr 27]?[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 1057 65535 0]Algo errado? Porque não faz um [f 6 1 8 0 0 39][clr 3]LOCKPICK [clr 27]?[n][w][e]
 

@@ -872,7 +872,7 @@
 [s][vp 8 0 0 0 65535 0]Entre A e B... Qual linha parece mais[n]longa...?[n][f 1 3 65535][w][e]
 
 [sel SEL_214_0_0 top]
-[s]UMA.[e]
+[s]A.[e]
 [s]B.[e]
 [s]Eles são iguais.[f 2 7 0 0 25 1][e]
 

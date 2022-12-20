@@ -31,7 +31,7 @@
 [s]Você mora em... Yongen-Jaya... agora apenas[n]assine aqui... todos os conjuntos![n][w][e]
 
 [msg MSG_YearSp_Info05 [Morgana]]
-[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 1019 65535 0]Suas mãos estavam tremendo quando você[n]escreveu [n][f 4 3].[n]Você estava nervoso, não estava?[n][w][e]
+[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 1019 65535 0]Suas mãos estavam tremendo quando você[n]escreveu [f 4 3] .Você estava nervoso,[n] não estava?[n][w][e]
 
 [msg MSG_YearSp_Info06 [Rental Shop Worker]]
 [s]Como você é um membro agora, você pode[n]emprestar DVDs a partir de hoje![n][w][e]

@@ -9,7 +9,7 @@
 [s][f 4 23 1 10 3 10 0 10][vp 8 2 1 0 10 0]A taxa de associação era muito cara... mas,[n]considerando que posso assistir o quanto[n]quiser, é uma pechincha.[n][w][e]
 
 [msg MSG_RENTALSYS_020_00 [Shallow College Student]]
-[s][f 4 23 1 11 3 10 0 10][vp 8 2 1 0 11 0]E agora você não precisa se preocupar com[n]pagamentos tardios. Definitivamente, sou[n]uma daquelas pessoas que esquecem de pagar[n]a tempo.[n][w][e]
+[s][f 4 23 1 11 3 10 0 10][vp 8 2 1 0 11 0]E agora você não precisa se preocupar com pagamentos[n] tardios. Definitivamente, sou uma daquelas pessoas[n] que esquecem de pagar a tempo.[n][w][e]
 
 [msg MSG_RENTALSYS_030_00 [Laid-Back College Student]]
 [s][f 4 23 1 10 3 10 0 10][vp 8 2 1 0 10 0]Falando nisso, você não me pagou de volta o[n]dinheiro que emprestou...[n][w][e]

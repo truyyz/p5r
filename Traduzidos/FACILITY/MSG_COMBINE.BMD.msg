@@ -34,7 +34,7 @@
 [s]Parece que sua persona nasceu possuindo um[n]poder especial...[n][w][e]
 
 [msg FCL_MSG_COMBINE_COMU_POW [Igor]]
-[s]Eis: o [var 0]O confidente está despertando o poder oculto[n]da sua persona...[n][w][e]
+[s]Eis que o [var 0] o confidente está despertando o poder[n] oculto da sua Persona...[n][w][e]
 
 [msg FCL_MSG_COMBINE_GET_EXP]
 [s]誕生した[clr 1][var 1][clr 27]は、[n] なんと[var 2]EXPを得た![n][w][e]

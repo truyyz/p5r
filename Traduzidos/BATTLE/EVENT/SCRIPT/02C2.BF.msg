@@ -8,7 +8,7 @@
 [s][bup 0 3 2 0 0][vp 8 0 2 1003 0 3][f 4 10 65535 0 0]Joker, eu te ensinei como atingir as[n]fraquezas de seus oponentes, certo?[n][f 1 3 65535][w][e]
 
 [msg MSG_BTLSTART_004 [Morgana]]
-[s][bup 0 3 2 0 0][vp 8 0 2 1004 0 3][f 4 10 65535 0 0]Se você pudesse [clr 2]cego ou coloque-o para dormir [clr 27], você teria mais facilidade causando danos[n]reais.[n][f 1 3 65535][w][e]
+[s][bup 0 3 2 0 0][vp 8 0 2 1004 0 3][f 4 10 65535 0 0]Se você pudesse [clr 2]cego-lo ou colocá-lo para dormir [clr 27],[n] você teria mais facilidade em causar danos reais a ele.[n][f 1 3 65535][w][e]
 
 [msg MSG_BTLSTART_005 [Morgana]]
 [s][bup 0 3 2 0 0][vp 8 0 2 1005 0 3][f 4 10 65535 0 0]Experimente táticas diferentes para aprender[n]o que funciona melhor![n][f 1 3 65535][w][e]

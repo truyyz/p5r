@@ -74,7 +74,7 @@
 [s][vp 8 0 0 801 65535 0]Além disso, eles o fizeram sabendo que você[n]fazia parte desse grupo...[n][f 1 3 65535][w][e]
 
 [msg MSG_016_6_0 [Sae]]
-[s][vp 8 0 0 802 65535 0]...Isn't the owner of that café[n]um cúmplice seu!?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 802 65535 0]...O dono daquele café[n]não é cúmplice seu!?[n][f 1 3 65535][w][e]
 
 [msg MSG_016_7_0 [Igor]]
 [s][bup 0 201 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você concordou com um novo contrato.[n]Excelente.[n][f 1 3 65535][w][e]

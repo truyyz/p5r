@@ -55,19 +55,19 @@
 
 [msg MSG_013_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 65535 1167 0 0]Eu concordo totalmente.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Você pode aparentemente ler de graça no [clr 2]biblioteca da escola [clr 27], então você deve tentar aproveitar isso.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Você pode ler na [clr 2]biblioteca da escola [clr 27], aproveite isso.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Eu acho que também há um [clr 2]livraria [clr 27][n]em diante [clr 2]Rua Central [clr 27]...[n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 65535 1034 0 0]Os diamantes não começam lindos.[n]Você precisa polir primeiro.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Da mesma forma, você precisa polir seu[n]intelecto para realmente explorar seu[n]verdadeiro talento.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Você pode aparentemente ler de graça no [clr 2]biblioteca da escola [clr 27], então você deve tentar aproveitar isso.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Você pode ler na [clr 2]biblioteca da escola [clr 27], aproveite isso.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Eu acho que também há um [clr 2]livraria [clr 27][n]em diante [clr 2]Rua Central [clr 27]...[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 65535 1168 0 0]Isso é ruim...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Mas você deve pelo menos colocar algum[n]esforço nisso. Há muita coisa que a leitura[n]pode te ensinar.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Você pode aparentemente ler de graça no [clr 2]biblioteca da escola [clr 27], então você deve tentar aproveitar isso.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Você pode ler na [clr 2]biblioteca da escola [clr 27], aproveite isso.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Eu acho que também há um [clr 2]livraria [clr 27][n]em diante [clr 2]Rua Central [clr 27]...[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Athletic Student]]

@@ -58,7 +58,7 @@
 
 [msg KAMOSHIDA_FIRST_mes12 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][f 4 23 1 3 3 5 11 5][vp 8 0 1 16 65535 0]Não se preocupe, eu sei exatamente o lugar.[n]Espero que você esteja ansioso por isso,[n]Lady Ann![n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 1 17 65535 0]Agora, então, [f 4 2]E eu tenho alguns negócios em Yongen, então[n]vamos sair para hoje![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 1 17 65535 0]Então, agora, [f 4 2], eu tenho alguns negócios em[n] Yongen, então vamos acabar por hoje![n][f 1 3 65535][w][e]
 
 [sel KAMOSHIDA_FIRST_sel13 top]
 [s]Uh, que negócio...?[e]

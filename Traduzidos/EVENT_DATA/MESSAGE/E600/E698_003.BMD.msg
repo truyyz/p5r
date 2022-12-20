@@ -13,10 +13,10 @@
 [s][vp 8 2 0 39602 4 0]Ugh, eu gastei muito em roupas novas este[n]mês. Agora estou quebrado...[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Mature-Looking Girl]]
-[s][vp 8 0 0 0 5 0]Acho que você está conseguindo um emprego.[n]Aqueles [clr 2]revistas de emprego [clr 27]Eles têm na estação de trem são úteis.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 5 0]Acho que você está conseguindo um emprego. Aquelas [n] [clr 2]revistas de emprego, [clr 27]são bem úteis.[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Fashion-Loving Girl]]
-[s][vp 8 0 0 0 4 0]Talvez eu vá girar pelo [clr 2]Shibuya Underground [clr 27]e pegue um depois da escola.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 4 0]Talvez eu passe pelo [clr 2] Subterrâneo de [n]Shibuya [clr 27]e pegue um depois da [n] escola.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 4 0]Então, novamente, o trabalho é para[n]perdedores. Espero encontrar algo fácil.[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Sleepy-Looking Guy]]

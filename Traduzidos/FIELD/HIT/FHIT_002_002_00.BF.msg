@@ -21,7 +21,7 @@
 [s][vp 8 2 1 0 20 0]Tudo bem, venha de novo.[n][w][e]
 
 [msg KOUBAIBU_YAKISOBA_INFO [Lady at School Store]]
-[s][f 4 23 1 20 21 5 20 0][vp 8 2 1 0 20 0]o [f 2 5 3 9999 0]Aqui é muito popular...[n]Mas geralmente temos alguns extras em [clr 2]Sextas-feiras [clr 27], por algum motivo.[n][w][e]
+[s][f 4 23 1 20 21 5 20 0][vp 8 2 1 0 20 0]O [f 2 5 3 9999 0] é muito popular. Ganhamos[n] alguns extras na [clr 2]Sexta-feira[clr 27], por algum motivo.[n][w][e]
 
 [msg KOUBAIBU_YAKISOBA_INFO_0 [Lady at School Store]]
 [s][f 4 23 1 20 21 5 20 0][vp 8 2 1 0 20 0]Ambos [f 2 5 3 9999 0]e a [n][f 2 5 3 9999 1]Aqui são populares...[n][w][e]

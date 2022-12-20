@@ -5,7 +5,7 @@
 [s]Você pode aceitar o convite respondendo à mensagem, mas não[n]há necessidade de responder imediatamente.[n][w][e]
 
 [msg TUTORIAL_MSG03 [Confidant Invitations]]
-[s]Mensagens de texto que não foram respondidas terão [clr 2]Segurar [clr 27]pela mensagem.[n][w][e]
+[s]As mensagens de texto que não foram respondidas terão [n] o icone [clr 2]HOLD [clr 27]na mensagem.[n][w][e]
 
 [msg TUTORIAL_MSG04 [Confidant Invitations]]
 [s]Espere muito para responder e o convite expirará. Nem todo[n]IM precisa de uma resposta. Aceite os convites de pessoas[n]em que você está interessado.[n][w][e]

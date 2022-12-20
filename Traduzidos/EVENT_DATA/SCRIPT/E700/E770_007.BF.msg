@@ -62,10 +62,10 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1170 65535 0]Esse livro pode ser um pouco difícil demais[n]com o seu atual [n][f 4 11 0][clr 26][f 4 12 0][clr 27]...[n][f 1 3 65535][w][e]
 
 [msg SYS_NG_Atama]
-[s]Sua [f 4 11 0][clr 26][f 4 12 0][clr 27]precisarei ser pelo menos [clr 2][f 4 13 0 3][clr 27]Se você quiser ler a literatura clássica.[n][w][e]
+[s]Seu [f 4 11 0][clr 26][f 4 12 0][clr 27]precisará[n] ser pelo menos [clr 2][f 4 13 0 3][clr 27]. Se você quiser[n] ler a literatura clássica.[n][w][e]
 
 [msg SYS_NG_Atama_rank2]
-[s]Sua [f 4 11 0][clr 26][f 4 12 0][clr 27]precisarei ser pelo menos [clr 2][f 4 13 0 2][clr 27]Se você quiser ler a literatura clássica.[n][w][e]
+[s]Seu [f 4 11 0][clr 26][f 4 12 0][clr 27]precisará[n] ser pelo menos [clr 2][f 4 13 0 3][clr 27]. Se você quiser[n] ler a literatura clássica.[n][w][e]
 
 [msg MSG_BATU_001_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1059 65535 0]HM? Você não vai ler?[n][f 1 3 65535][w][e]
@@ -214,7 +214,7 @@
 [s][vp 1 0 0 0 0 0]"A sala do tesouro já havia sido[n]esvaziada..." [n][f 1 3 65535][w][e]
 
 [msg MSG_BookID_27_Start [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1164 65535 0]Arsène. It's hard not to idolize him—[n]Ah, o lendário ladrão de cavalheiros, ele é[n]proeminente em nosso campo.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1164 65535 0]Ah, o lendário cavalheiro ladrão, Arsène. É difícil não idolatrá-lo,[n] ele é superior em nosso campo.[n][f 1 3 65535][w][e]
 
 [msg MND_BookID_28_Start]
 [s][vp 1 0 0 0 0 0]"O navio pirata solitário navegou para a[n]frente, forjando seu próprio caminho[n]através das ondas quebrando".[n][f 1 3 65535][w][e]
@@ -672,7 +672,7 @@
 
 [msg MSG_BookID_27_ReadEnd [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1167 65535 0]Então, você terminou de ler [n][clr 3][var 0][clr 27].[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Arsène always thwarted his pursuers,[n]liderando-os pelo nariz.[n]Ele é tão legal![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Arsène sempre frustrou seus perseguidores,[n] conduzindo-os pelo nariz.[n] Ele é tão legal![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 22 65535 1 41]Parece que esse romance ensinou a você o[n]tipo de inteligência e truques que você[n]precisará como um ladrão fantasma![n][f 1 3 65535][w][e]
 
 [msg MND_BookID_27_ReadEnd]

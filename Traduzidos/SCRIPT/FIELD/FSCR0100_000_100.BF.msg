@@ -29,7 +29,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1155 65535 0]Um ladrão fantasma faz uso de qualquer[n]ferramenta disponível para cumprir uma[n]missão.[n][w][e]
 
 [msg SENI_AWAKENING_FIRST_07 [Morgana]]
-[s][bup 0 3 1 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Quem sabe o que encontraremos a seguir? Se[n]nos encontrarmos em uma situação em que[n]isso pode ser útil, vamos ver o que pode[n]fazer![n][w][e]
+[s][bup 0 3 1 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Quem sabe o que encontraremos a seguir? [n]Senos entrarmos em uma situação em que[n]isso possa ser útil, vamos ver o que pode ser feito![n][w][e]
 
 [msg SENI_AWAKENING_GENERAL_0]
 [s]半覚醒フィールドイベント[n]2回目¹降[n][w][e]

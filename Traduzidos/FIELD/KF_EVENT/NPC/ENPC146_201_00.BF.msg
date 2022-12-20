@@ -24,7 +24,7 @@
 [s][f 4 23 1 816 3 10 0 0][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 0 1 1 65535 0]Fique no andar de cima enquanto estamos[n]abertos para negócios.[n][w][e]
 
 [msg MSG_14610100_MASTER_100__2 [Sojiro]]
-[s][f 4 23 1 816 3 10 0 0][bup 0 103 2 0 0][f 4 10 65535 0 0][vp 8 2 1 5080 816 0]Wait till later. The café's open[n]Agora, você sabe.[n][w][e]
+[s][f 4 23 1 816 3 10 0 0][bup 0 103 2 0 0][f 4 10 65535 0 0][vp 8 2 1 5080 816 0]Espere até mais tarde. O café está aberto[n]Agora, você sabe.[n][w][e]
 
 [msg MSG_14620100_200_01 [Punk-Rock Woman]]
 [s][bup 0 108 500 65535 0][f 4 10 65535 0 0][f 4 23 1 821 3 10 0 0][vp 8 0 1 9 65535 0][f 4 25 1 821 0 0]...Obrigado. Vejo você mais tarde.[n][w][e]

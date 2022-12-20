@@ -38,7 +38,7 @@
 [s][vp 8 0 0 0 65535 0]Oh? Eles são uma cadeia muito grande, então[n]eles provavelmente a têm. Obrigado, vou[n]parar mais tarde.[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1162 65535 0]A loja de aluguel de vídeo na Central[n]Street...[n]Ah, eles devem significar aquele edifício[n]gigante em frente à livraria.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1162 65535 0]A locadora de vídeo na Central Street...[n] Ah, eles devem estar falando daquele edifício[n]gigante em frente à livraria.[n][f 1 3 65535][w][e]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ser capaz de pedir emprestado o quanto você[n]deseja sons tentadores. Vamos verificar[n]quando tivermos tempo.[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Lazy Woman]]
@@ -484,7 +484,7 @@
 
 [msg MSG_125_0_0 [Brisk Student]]
 [s][vp 8 0 0 0 65535 0]Gigolô...? Oh, você quer dizer o fliperama[n]ao lado da loja de conveniência?[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]Eu pensei que era contra os regulamentos[n]escolares irem para o fliperama. Além[n]disso, ouvi dizer que alguns delinqüentes[n]ficam por lá.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Eu pensei que era contra os regulamentos escolares[n] irem para o fliperama. Além disso,[n]ouvi dizer que tem delinqüentes lá.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]O que, há um jogo lá que você quer jogar ou[n]algo assim?[n][f 1 3 65535][w][e]
 
 [msg MSG_126_0_0 [Timid Student]]

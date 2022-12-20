@@ -573,7 +573,7 @@
 
 [msg MSG_NIGHT_LAUNDRY_CoinNo [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]Hum. Sobre essas coisas que você tem...[n]Bem o [clr 4]armadura fuligem [clr 27], Quero dizer...[n][w][e]
-[s][f 4 10 65535 0 0]Há um [clr 2]lavanderia [clr 27]Ao lado da casa de banho, certo? Se tivermos[n]tempo livre, talvez possamos lavá-los.[n][w][e]
+[s][f 4 10 65535 0 0]Há uma lavanderia ao lado da casa de[n]banho... provavelmente podemos lavá-la lá.[n][w][e]
 
 [msg MSG_NIGHT_LAUNDRY_CoinKn [Morgana]]
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 1187 65535 0]Oh, certo. Você tem carregado por isso [clr 4]armadura fuligem [clr 27]... Que tal você lavar isso na lavanderia?[n][w][e]
@@ -673,7 +673,7 @@
 
 [msg MSG_NIGHT_MASTER_COOP_IN [Sojiro]]
 [s][f 4 23 1 205 33 10 33 10][f 4 23 1 235 31 10 30 10][bup 0 103 0 0 0][f 4 10 65535 0 0]Ei, você tem um minuto?[n][w][e]
-[s][f 4 10 65535 0 0]Algo que eu quero te perguntar. C'mere,[n]vamos conversar.[n][w][e]
+[s][f 4 10 65535 0 0]Algo que eu quero te perguntar.[n]Venha, vamos bater um papo.[n][w][e]
 
 [msg MSG_NIGHT_MASTER_NIGHT_R [Sojiro]]
 [s][f 4 23 1 205 33 10 33 10][f 4 23 1 235 31 10 30 10][bup 0 103 0 0 0][f 4 10 65535 0 0]...Então. Se acostumando com a cidade?[n][w][e]
@@ -1386,7 +1386,7 @@
 [msg MSG_DAYTIME_D01_ACT_0420 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1170 65535 0]Se vendermos as coisas que encontramos no[n]palácio, podemos fazer alguns arranhões[n]rápidos para os fundos de guerra, mas...[n][w][e]
 [s][f 4 10 65535 0 0]Como Lady Ann disse-um emprego de meio[n]período pode ser a melhor aposta.[n][w][e]
-[s][f 4 10 65535 0 0]Existem [clr 2]revistas de emprego [clr 27]Na estação Shibuya, não está lá? Talvez você[n]deva pegar um.[n][w][e]
+[s][f 4 10 65535 0 0]Existem [clr 2]revistas de emprego[clr 27] na estação Shibuya. [n] Talvez você deva pegar uma.[n][w][e]
 
 [msg MSG_DAYTIME_D01_ACT_0424 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1172 65535 0]Eu ouço coisas boas sobre aquele programa de[n]compras de TV de domingo. Quer conferir[n]algum dia?[n][w][e]

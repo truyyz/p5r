@@ -6,7 +6,7 @@
 [s]Caso você não soubesse, os serviços aqui[n]mudam dependendo da hora do dia.[n][w][e]
 
 [msg MSG_StartTalk_1st_HIRU [Middle-Aged Receptionist]]
-[s][vp 8 2 1 0 65535 0]Durante o dia, você pode ganhar prêmios com[n]base no seu desempenho. Mais divertido do[n]que apenas jogar normalmente, você não[n]concorda?[n][w][e]
+[s][vp 8 2 1 0 65535 0]Durante o dia, você pode ganhar prêmios com base no[n] seu desempenho. Mais divertido do que apenas jogar normalmente, [n]você não concorda?[n][w][e]
 [s]À noite, você pode jogar o quanto quiser por[n]500 ienes. Se você tiver um bom desempenho,[n]eu lhe darei um ingresso para uma sessão[n]gratuita durante o dia.[n][w][e]
 [s]Nós iremos? Você gostaria de jogar?[n][w][e]
 
