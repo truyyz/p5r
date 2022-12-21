@@ -53,7 +53,7 @@
 [s][vp 1 0 0 0 0 0]Está realmente lotado... quer voltar outra[n]vez?[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_0515_4]
-[s][vp 1 0 0 0 0 0]Eu quero, mas é tão caro... eu deveria fazer[n]um empréstimo.[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Eu quero, mas é tão caro...[n]Eu deveria fazer um empréstimo.[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_0515_5]
 [s][vp 1 0 0 0 0 0]Eu quero ver isso! Vamos juntos algum dia![n][f 1 3 65535][w][e]

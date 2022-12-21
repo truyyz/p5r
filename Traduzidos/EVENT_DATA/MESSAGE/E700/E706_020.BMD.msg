@@ -1,5 +1,5 @@
 [msg MSG_000_0_0 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 6156 65535 0]Ei, hum... há algo que eu quero falar com[n]você, [n][f 4 2].[n][f 1 3 65535][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 6156 65535 0]Ei, hum... há algo que eu quero falar com[n]você, [f 4 2].[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]... É Shiho.[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Ann]]
@@ -46,17 +46,17 @@
 [msg MSG_008_0_0 [Ann]]
 [s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 6186 65535 0][f 5 13 7 5 4]Você acha...?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][f 4 24 0 4 0 1 7 100][vp 8 0 0 0 65535 0]Tudo isso aconteceu por causa de quão fraco[n]eu sou...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][f 4 24 0 4 0 0 6 100][vp 8 0 0 0 65535 0]É por isso que eu acreditava que a[n]autoridade de Kamoshida superou a[n]capacidade de Shiho de ganhar seu ponto de[n]partida.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][f 4 24 0 4 0 0 6 100][vp 8 0 0 0 65535 0]É por isso que eu acreditava que a autoridade[n]de Kamoshida superou a capacidade de Shiho[n]de ganhar seu ponto de partida.[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Ann]]
 [s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 6186 65535 0][f 5 13 7 10 4]Eu sabia... sou tão estúpido...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][f 4 24 0 4 0 1 7 100][vp 8 0 0 0 65535 0]Tudo isso aconteceu por causa de quão fraco[n]eu sou...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][f 4 24 0 4 0 0 6 100][vp 8 0 0 0 65535 0]É por isso que eu acreditava que a[n]autoridade de Kamoshida superou a[n]capacidade de Shiho de ganhar seu ponto de[n]partida.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][f 4 24 0 4 0 0 6 100][vp 8 0 0 0 65535 0]É por isso que eu acreditava que a autoridade[n]de Kamoshida superou a capacidade de Shiho[n]de ganhar seu ponto de partida.[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Ann]]
 [s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 6038 65535 0][f 5 13 7 5 4]Isso pode ter sido verdade...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][f 4 24 0 4 0 1 7 100][vp 8 0 0 0 65535 0]Mas honestamente, acho que foi tudo por[n]causa de quão fraco eu sou...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][f 4 24 0 4 0 0 6 100][vp 8 0 0 0 65535 0]É por isso que eu acreditava que a[n]autoridade de Kamoshida superou a[n]capacidade de Shiho de ganhar seu ponto de[n]partida.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][f 4 24 0 4 0 0 6 100][vp 8 0 0 0 65535 0]É por isso que eu acreditava que a autoridade[n]de Kamoshida superou a capacidade de Shiho[n]de ganhar seu ponto de partida.[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 6156 65535 0][f 4 2], você se lembra da última vez que falei com[n]você assim?[n][f 1 3 65535][w][e]

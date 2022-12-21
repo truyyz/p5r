@@ -32,7 +32,7 @@
 [s]Essas flores têm um ótimo sabor![n][e]
 
 [msg MSG_MMTSHOP_ITEM_NEW_00]
-[s]Encontrei algumas coisas novas.[n][e]
+[s]Encontrei[n]algumas coisas[n]novas.[n][e]
 
 [msg MSG_MMTSHOP_ITEM_NEW_01]
 [s]Eu tenho mais coisas agora.[n][e]
@@ -122,7 +122,7 @@
 [s]Algo mais?[n][e]
 
 [msg MSG_MMTSHOP_COGN_00]
-[s]O que você quer?[n][e]
+[s]O que[n]você quer?[n][e]
 
 [msg MSG_MMTSHOP_COGN_CONF_00]
 [s]Este?[n][e]

@@ -394,7 +394,7 @@
 [s]Talvez um erro descuidado.[e]
 
 [msg MSG_114_0_0 [Morgana]]
-[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bom conselho, [f 4 2]. É importante revisitar e revisar onde as[n]coisas deram errado.[n][f 1 3 65535][w][e]
+[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bom conselho, [f 4 2]. É importante revisitar[n]e revisar onde as coisas deram errado.[n][f 1 3 65535][w][e]
 
 [msg MSG_115_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sim, provavelmente foi apenas um erro[n]simples.[n]Bom conselho, [f 4 2].[n][f 1 3 65535][w][e]

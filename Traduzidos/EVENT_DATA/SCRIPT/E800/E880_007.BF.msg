@@ -44,16 +44,16 @@
 [s][vp 1 0 0 0 0 0]O que eles estão pensando, segurando uma[n]assembléia no meio dos exames?[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_0513_1]
-[s][vp 1 0 0 0 0 0]Uma assembléia em toda a escola, nesta época[n]do ano?[n]Sério?[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Uma assembléia em toda a[n]escola, nesta época do ano?[n]Sério?[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_0513_2]
-[s][vp 1 0 0 0 0 0]Acha que podemos trazer nossos cartões de[n]flash?[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Acha que podemos trazer[n]nossos cartões deflash?[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_0513_3]
-[s][vp 1 0 0 0 0 0]Kamoshida é apenas uma das muitas coisas[n]erradas com esta escola...[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Kamoshida é apenas uma[n]das muitas coisas erradas[n]com esta escola...[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_0513_4]
-[s][vp 1 0 0 0 0 0]Eu tenho que me correr para casa e estudar![n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Eu tenho que correr[n]para casa e estudar![n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_0513_5]
 [s][vp 1 0 0 0 0 0]Que Kamoshida ainda está nos causando[n]problemas, mesmo quando ele se foi...[n][f 1 3 65535][w][e]
@@ -284,7 +284,7 @@
 [s][vp 1 0 0 0 0 0]Eu gostaria que ele fosse expelido. Quem[n]precisa dele...[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_0516_1]
-[s][vp 1 0 0 0 0 0]A exposição Madarame é ótima! Você tem que[n]ir ver![n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]A exposição Madarame é ótima![n]Você tem que ir ver![n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_0516_2]
 [s][vp 1 0 0 0 0 0]Eu tenho me sentido muito deprimido[n]ultimamente. Talvez eu deva ir ao[n]aconselhamento...[n][f 1 3 65535][w][e]
@@ -296,7 +296,7 @@
 [s][vp 1 0 0 0 0 0]Você já esteve em aconselhamento?[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_0516_5]
-[s][vp 1 0 0 0 0 0]Huh. A exposição Madarame, não é? Quando é[n]até?[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Huh. A exposição Madarame,[n]não é? Até quando é?[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_0531_1]
 [s][vp 1 0 0 0 0 0]Eu não achei que ela viria... oh, talvez ela[n]esteja pulando a prática.[n][f 1 3 65535][w][e]

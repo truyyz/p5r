@@ -46,7 +46,7 @@
 [s][bup 0 216 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]カットラベル[n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Maruki]]
-[s][bup 0 216 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 57427 65535 0]Entendo... MM, obrigado. Eu acho que recebi[n]uma boa compreensão da situação em que você[n]está, [n][f 4 1]-kun.[n][f 1 3 65535][w][e]
+[s][bup 0 216 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 57427 65535 0]Entendo... MM, obrigado. Eu acho que recebi[n]uma boa compreensão da situação em que você[n]está, [f 4 1]-kun.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bem, divulgação completa... A escola me deu[n]um breve resumo das circunstâncias em torno[n]de sua transferência aqui.[n][f 1 3 65535][w][e]
 
 [sel SEL_015_0_0 top]
@@ -66,14 +66,14 @@
 [msg MSG_019_0_0 [Maruki]]
 [s][bup 0 216 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 57419 65535 0]Agora que você me contou mais sobre si[n]mesmo, acho que percebi algo.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Parece que você conseguiu conciliar seu[n]mundo interno com o seu externo.[n][f 1 3 65535][w][e]
-[s][bup 0 216 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 36 5 100]Eu deveria observar- isso é realmente[n]impressionante. Mesmo a maioria dos adultos[n]não consegue gerenciar isso de maneira[n]confiável.[n][f 1 3 65535][w][e]
+[s][bup 0 216 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 36 5 100]Eu deveria observar, isso é realmente impressionante.[n]Mesmo a maioria dos adultos não consegue[n]gerenciar isso de maneira confiável.[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Maruki]]
 [s][bup 0 216 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Como dizer- você sabe como todo mundo tem[n]uma realidade interna? Alguma concepção de[n]si mesmos que estão lutando?[n][f 1 3 65535][w][e]
 [s][bup 0 216 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 57511 65535 0][f 4 24 0 4 0 36 5 100]Tipo, querendo ser um estudante modelo, ou[n]querer ser amado e confiado em...[n]Aquele tipo de coisa.[n][f 1 3 65535][w][e]
 
 [msg MSG_020_5_0 [Maruki]]
-[s][bup 0 216 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 59 5 100]Mas essa realidade idealizada e aquela na[n]realidade geralmente estão distantes. Essa[n]lacuna é responsável pela dor de muitas[n]pessoas.[n][f 1 3 65535][w][e]
+[s][bup 0 216 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 59 5 100]Mas essa realidade idealizada e aquela na[n]realidade geralmente estão distantes. Essa[n]lacuna é responsável pela dor das pessoas.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Nem todo mundo pode aceitar seus exames. E[n]nem todos podem ser os heróis que desejam[n]ser.[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Maruki]]
@@ -83,7 +83,7 @@
 [s][vp 8 0 0 0 65535 0]カットラベル[n][f 1 3 65535][w][e]
 
 [msg MSG_022_5_0 [Maruki]]
-[s][bup 0 216 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 57521 65535 0]Você já passou por tanta coisa.[n]Esse tipo de sofrimento geralmente é[n]suficiente para torcer as pessoas em[n]lugares escuros.[n][f 1 3 65535][w][e]
+[s][bup 0 216 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 57521 65535 0]Você já passou por tanta coisa. Esse tipo de[n]sofrimento geralmente é suficiente para[n]torcer as pessoas em lugares escuros.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas você- você está enfrentando isso e[n]enfrentando uma realidade dolorosa e[n]dolorosa.[n]Para mim, isso é incrivelmente admirável.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]... então, novamente, talvez isso seja um[n]pouco estranho para você ouvir de um cara[n]que você acabou de conhecer, hein?[n][f 1 3 65535][w][e]
 
@@ -127,7 +127,7 @@
 [msg MSG_031_0_0 [Maruki]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 114 7 300 1][vp 8 2 0 57513 65535 0]Oh, desculpe![n][f 1 3 65535][w][e]
 [s][bup 0 216 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 39 5 100]Eu acho que meu ponto é... eu gostaria de[n]pedir que você ajude nessa pesquisa![n][f 1 3 65535][w][e]
-[s][bup 0 216 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 59 5 100]Tudo o que você precisa fazer é ouvir minhas[n]teorias e depois me dizer se elas[n]desencadeiam alguma idéia ou realizações do[n]seu lado.[n][f 1 3 65535][w][e]
+[s][bup 0 216 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 59 5 100]Tudo o que você precisa fazer é ouvir minhas[n]teorias e depois me dizer se elas desencadeiam[n]alguma idéia ou realizações do seu lado.[n][f 1 3 65535][w][e]
 
 [msg MSG_032_0_0 [Maruki]]
 [s][bup 0 216 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Por favor! Qualquer tempo é bom para mim- eu[n]posso contornar sua programação.[n][f 1 3 65535][w][e]
@@ -146,7 +146,7 @@
 
 [msg MSG_036_0_0 [Maruki]]
 [s][bup 0 216 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bem... para ser sincero, às vezes bati em[n]uma parede em minha pesquisa.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu tenho trabalhado nisso sozinho, mas...[n]algumas segundas opiniões de uma[n]perspectiva como a sua poderia realmente[n]avançar.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu tenho trabalhado nisso sozinho, mas...[n]algumas segundas opiniões de uma perspectiva[n]como a sua poderia realmente avançar.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ah, e não se preocupe, prometo que vou pagar[n]por isso por isso.[n][f 1 3 65535][w][e]
 
 [msg MSG_037_0_0 [Maruki]]
@@ -168,7 +168,7 @@
 [s][bup 0 216 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Isso deve resolver![n][f 1 3 65535][w][e]
 
 [msg MSG_040_0_0 [Maruki]]
-[s][bup 0 216 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 57526 65535 0]Agora! É melhor eu fazer minha parte para[n]retribuir você.[n]Vamos falar sobre treinamento mental e[n]presença.[n][f 1 3 65535][w][e]
+[s][bup 0 216 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 57526 65535 0]Agora! É melhor eu fazer minha parte para[n]retribuir você. Vamos falar sobre treinamento[n]mental e presença.[n][f 1 3 65535][w][e]
 [s][bup 0 216 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 59 5 100]Vamos ver, primeiro...[n][f 1 3 65535][w][e]
 
 [msg MSG_041_0_0 [Maruki]]

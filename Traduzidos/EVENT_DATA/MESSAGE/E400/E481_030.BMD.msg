@@ -36,10 +36,10 @@
 [s][vp 8 0 0 0 65535 0]「え...?」「マジ?」など[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Maruki]]
-[s][bup 0 216 5 65535 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Não há necessidade de ser formal comigo, no[n]entanto.[n]Estou aqui apenas para aconselhar qualquer[n]pessoa interessada.[n][f 1 3 65535][w][e]
+[s][bup 0 216 5 65535 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Não há necessidade de ser formal comigo, no[n]entanto. Estou aqui apenas para aconselhar[n]qualquer pessoa interessada.[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Maruki]]
-[s][bup 0 216 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Você pode até me chamar de Doc, se isso[n]ajudaria você a se sentir mais confortável.[n]Qualquer assistência que você precisa, eu[n]estarei- oh...[n][f 1 3 65535][w][e]
+[s][bup 0 216 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Você pode até me chamar de Doc, se isso[n]ajudaria você a se sentir mais confortável.[n]Qualquer assistência que precisar, eu darei, oh...[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Maruki]]
 [s][bup 0 216 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Acho que não sou realmente bom para ajudar[n]com problemas de dinheiro...[n][f 1 3 65535][w][e]
