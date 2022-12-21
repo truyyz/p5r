@@ -191,7 +191,7 @@
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Eu notifiquei o proprietário, mas parece que[n]nada mudou...[n][w][e]
 
 [msg MSG_ROUKENTOSYOJYO_kf_00 [Dog-Loving Girl]]
-[s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Havia outro, um, A-ack-Si-Dent?[n]Eu vejo um policial lá.[n][w][e]
+[s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Houve outro, um, A-acindente?[n]Eu vejo um policial lá.[n][w][e]
 
 [msg MSG_ROUKENTOSYOJYO_kf_00_2 [Gentle-Looking Mother]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Oh, ele está apenas observando para garantir[n]que todos estejam seguros.[n][w][e]

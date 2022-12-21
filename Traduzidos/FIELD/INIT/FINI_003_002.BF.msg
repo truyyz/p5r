@@ -182,7 +182,7 @@
 
 [msg fev0410_01_mes02 [Sojiro]]
 [s][f 4 23 1 816 3 10 0 0][bup 0 103 600 0 0][f 4 10 65535 0 0][vp 8 0 1 2 65535 0]Bem, então, vamos nos apresentar[n]adequadamente à equipe sobre sua[n]transferência.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 1 3 65535 0]A escola que você está frequentando está no [clr 2]Aoyama [clr 27]distrito.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 1 3 65535 0]A escola que você está frequentando está no distrito[n] de [clr 2]Aoyama [clr 27].[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 4 65535 0]Vai demorar um pouco para chegar lá de trem.[n]As transferências também são um verdadeiro[n]aborrecimento.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 5 65535 0]Vou te levar até lá, mas só por hoje.[n]Vamos.[n][w][e]
 
@@ -196,7 +196,7 @@
 
 [msg fev0410_02_mes01 [Sojiro]]
 [s][f 4 23 1 816 3 10 0 0][bup 0 103 603 0 0][f 4 10 65535 0 0][vp 8 0 1 1 65535 0]Droga, pensar que haveria muito tráfego...[n]Que perda de tempo.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 1 2 65535 0]I wasn't able to open the café today...[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 1 2 65535 0]Não pude abrir o café hoje...[n][w][e]
 
 [msg fev0410_02_mes02 [Sojiro]]
 [s][f 4 23 1 816 3 10 0 0][bup 0 103 600 0 0][f 4 10 65535 0 0][vp 8 0 1 3 65535 0]...Qualquer que seja.[n][w][e]

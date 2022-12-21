@@ -1,5 +1,5 @@
 [msg DVL_000_0_0 [Mysterious Voice]]
-[s][vp 8 0 0 1 65535 0]I am the pillager of twilight—"Arsène"![n][f 1 2 160][w][e]
+[s][vp 8 0 0 1 65535 0]Eu sou o saqueador do crepúsculo, "Arsène"![n][f 1 2 160][w][e]
 
 [msg MSG_001_0_0 [Sakamoto]]
 [s][bup 0 2 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]O que...[n][f 1 3 65535][w][e]

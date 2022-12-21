@@ -83,7 +83,7 @@
 [s]Não, ainda não.[e]
 
 [msg MSG_SCHOOL_1STDAY]
-[s]Se bem me lembro corretamente, o [clr 2]Linha de ginza [clr 27][n]Deve me levar a Aoyama-Titchome, onde a[n]escola está...[n][w][e]
+[s]Se bem me lembro corretamente, a [clr 2]Linha de ginza [clr 27][n]Deve me levar a Aoyama-Titchome, onde a[n]escola está...[n][w][e]
 
 [msg MSG_NG_CENTER]
 [s]Isso se conecta à Central Street, mas não há[n]nada que eu tenha que fazer lá agora...[n][w][e]
@@ -291,7 +291,7 @@
 [s][vp 8 2 65535 0 0 0]Não tenho tempo para voltar. É melhor[n]transferir para o [n][clr 2]Linha de ginza [clr 27]e vá para a escola...[n][w][e]
 
 [msg MND_E10920100_NG_GATEOUT]
-[s][vp 8 2 65535 0 0 0]Eu deveria transferir para o [clr 2]Linha de ginza [clr 27]no entanto. Parece que estou do lado[n]errado...[n][w][e]
+[s][vp 8 2 65535 0 0 0]Eu deveria me transferir para a [clr 2]Linha de ginza [clr 27], no entanto.[n] Parece que estou do lado errado...[n][w][e]
 
 [msg MND_E14410100_NG_TOKYU_0]
 [s][vp 8 2 65535 0 0 0]Por enquanto, é melhor me apressar e[n]encontrar Ann...[n][w][e]

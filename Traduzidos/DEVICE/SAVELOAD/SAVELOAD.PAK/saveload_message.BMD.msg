@@ -6,13 +6,13 @@
 [s]Acessando dados de salvamento...[n][f 1 2 65535][e]
 
 [msg SAVELOAD_MSG_SAVE_CONF]
-[s]Salvar dados já existem neste slot. Você[n]gostaria de substituí-lo?[n][e]
+[s]Existem dados já salvos neste espaço.[n] Você[n]gostaria de sobrescrevê-lo?[n][e]
 
 [msg SAVELOAD_MSG_SAVE_RUN]
-[s]Agora salvando...[n][f 1 2 65535][e]
+[s]Salvando...[n][f 1 2 65535][e]
 
 [msg SAVELOAD_MSG_SAVE_SUCCES]
-[s]Economize completo.[n][w][e]
+[s]Salvamento concluído.[n][w][e]
 
 [msg SAVELOAD_MSG_SAVE_FAILED]
 [s]Falha ao salvar.[n][w][e]
@@ -246,40 +246,40 @@
 [s]Salvando...[n][f 1 2 65535][e]
 
 [msg SAVELOAD_MSG_SAVE_SUCCES_2]
-[s]Acabou com economia.[n][w][e]
+[s]Salvamento concluído.[n][w][e]
 
 [msg SAVELOAD_MSG_SAVE_SUCCES_3]
-[s]Acabou com economia.[n][w][e]
+[s]Salvamento concluído.[n][w][e]
 
 [msg SAVELOAD_MSG_SAVE_SUCCES_4]
-[s]Acabou com economia.[n][w][e]
+[s]Salvamento concluído.[n][w][e]
 
 [msg SAVELOAD_MSG_SAVE_SUCCES_5]
-[s]Acabou com economia.[n][w][e]
+[s]Salvamento concluído.[n][w][e]
 
 [msg SAVELOAD_MSG_SAVE_FAILED_2]
-[s]Falhou em salvar.[n][w][e]
+[s]Falha ao salvar.[n][w][e]
 
 [msg SAVELOAD_MSG_SAVE_FAILED_3]
-[s]Falhou em salvar.[n][w][e]
+[s]Falha ao salvar.[n][w][e]
 
 [msg SAVELOAD_MSG_SAVE_FAILED_4]
-[s]Falhou em salvar.[n][w][e]
+[s]Falha ao salvar.[n][w][e]
 
 [msg SAVELOAD_MSG_SAVE_FAILED_5]
-[s]Falhou em salvar.[n][w][e]
+[s]Falha ao salvar.[n][w][e]
 
 [msg SAVELOAD_MSG_SAVE_CONF_F]
-[s]Salvar dados já existem neste slot. Você[n]gostaria de substituí-lo?[n][e]
+[s]Existem dados já salvos neste espaço.[n] Você[n]gostaria de sobrescrevê-lo?[n][e]
 
 [msg SAVELOAD_MSG_SAVE_CONF_F_2]
-[s]Salvar dados já existem neste slot. Você[n]gostaria de substituí-lo?[n][e]
+[s]Existem dados já salvos neste espaço.[n] Você[n]gostaria de sobrescrevê-lo?[n][e]
 
 [msg SAVELOAD_MSG_SAVE_CONF_F_3]
-[s]Salvar dados já existem neste slot. Você[n]gostaria de substituí-lo?[n][e]
+[s]Existem dados já salvos neste espaço.[n] Você[n]gostaria de sobrescrevê-lo?[n][e]
 
 [msg SAVELOAD_MSG_SAVE_CONF_F_4]
-[s]Salvar dados já existem neste slot. Você[n]gostaria de substituí-lo?[n][e]
+[s]Existem dados já salvos neste espaço.[n] Você[n]gostaria de sobrescrevê-lo?[n][e]
 
 [msg SAVEDATA_DELETE_ACTIVITY]
 [s]Salvar dados não existem.[n]Começando na tela do título.[n][w][e]

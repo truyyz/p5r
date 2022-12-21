@@ -122,7 +122,7 @@
 
 [msg MND_E10920100_NG_GATEOUT]
 [s][vp 8 2 65535 0 0 0]A placa acima de mim diz a linha Inogami.[n][w][e]
-[s][vp 8 2 65535 0 0 0]Eu deveria transferir para o [clr 2]Linha de ginza [clr 27]no entanto. Parece que estou do lado[n]errado...[n][w][e]
+[s][vp 8 2 65535 0 0 0]Eu deveria me transferir para a [clr 2]Linha de ginza [clr 27], no entanto.[n] Parece que estou do lado errado...[n][w][e]
 
 [msg MND_E14410100_NG_TOKYU_0]
 [s][vp 8 2 65535 0 0 0]Por enquanto, é melhor me apressar e[n]encontrar Ann...[n][w][e]

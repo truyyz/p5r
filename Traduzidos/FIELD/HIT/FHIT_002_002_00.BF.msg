@@ -161,7 +161,7 @@
 
 [msg MND_E12010100_NG_ENTRANC]
 [s][vp 1 0 0 0 0 0]É melhor eu ir para o escritório da[n]faculdade...[n][w][e]
-[s][vp 1 0 0 0 0 0]O escritório da faculdade deve estar no [clr 2]segundo andar deste edifício [clr 27].[n][w][e]
+[s][vp 1 0 0 0 0 0]O escritório deve estar no [clr 2]segundo andar deste edifício[clr 27].[n][w][e]
 
 [msg MND_E12310100_NG_ENTRANC]
 [s][vp 1 0 0 0 0 0]Sakamoto disse que estará esperando no [clr 2]telhado [clr 27].[n][w][e]

@@ -15,7 +15,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 1 5 65535 0]Agora é nossa chance de procurar os caras[n]que vimos foram escravos ontem.[n][w][e]
 
 [msg MSG_E13710100_000_05 [Ryuji]]
-[s][bup 0 2 200 65535 0][f 4 10 65535 0 0][vp 8 0 1 6 65535 0]Vamos procurar os rostos que vimos no[n]castelo.[n]Todos os membros da equipe devem estar aqui[n]hoje.[n][w][e]
+[s][bup 0 2 200 65535 0][f 4 10 65535 0 0][vp 8 0 1 6 65535 0]Vamos procurar os rostos que vimos no castelo.[n]Todos os membros da equipe devem estar aqui[n]hoje.[n][w][e]
 [s][bup 0 2 202 65535 0][f 4 10 65535 0 0][vp 8 0 1 7 65535 0]Certificarei-me de encontrar alguém para[n]derramar sobre o abuso físico de Kamoshida.[n]Só você espera, idiota.[n][w][e]
 
 [sel SEL_E13710100_001_00 top]

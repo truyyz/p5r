@@ -7,10 +7,10 @@
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos lá, vamos sair daqui![n][w][e]
 
 [msg D01_01_e115_102_mes01 [Sakamoto]]
-[s][bup 0 2 0 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 1 0 0]Hum? Wassup?[n][w][e]
+[s][bup 0 2 0 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 1 0 0]Hum? eai?[n][w][e]
 
 [msg D01_01_e115_102_mes02 [Sakamoto]]
-[s][bup 0 2 3 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 2 0 0]Yeesh... podemos realmente entender isso?[n][w][e]
+[s][bup 0 2 3 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 2 0 0]Sim... podemos realmente entender isso?[n][w][e]
 [s][bup 0 2 0 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 3 0 0]Por outro lado, não há nenhum outro lugar[n]que possamos tentar... tudo bem, vamos[n]pular.[n][w][e]
 
 [msg D01_01_miniEV02_mes01 [Sakamoto]]

@@ -242,7 +242,7 @@
 [s][vp 1 0 0 0 0 0]Ouvi dizer que esse incrível primeiro ano[n]chegou![n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_0412_2]
-[s][vp 1 0 0 0 0 0]Uau, aquela garota na fita é realmente magra.[n]Ela é o primeiro ano?[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Uau, aquela garota na fita é realmente[n] é magra. Ela é do primeiro ano?[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_0412_3]
 [s][vp 1 0 0 0 0 0]O Delinqüente e o Estudante de Honra,[n]chegando ao mesmo tempo? Uh-oh...[n][f 1 3 65535][w][e]

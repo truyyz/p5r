@@ -11,7 +11,7 @@
 [s][bup 0 8 100 0 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Eu realmente não tenho idéia do que acabou[n]de acontecer, mas presumo que você esteja[n]bem?[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Girl's Voice]]
-[s][bup 0 8 154 0 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Espere- Bad News! Backup inimigo está indo[n]para o seu caminho! Você precisa reservar,[n]agora![n][f 1 3 65535][w][e]
+[s][bup 0 8 154 0 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Espere, Noticias Ruins! Mais inimigo estão vindo[n]para o seu caminho! Você precisa se esconder,[n]agora![n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_1 [Futaba]]
 [s][bup 0 8 104 0 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Espere- Bad News! Backup inimigo está indo[n]para o seu caminho! Você precisa reservar,[n]agora![n][f 1 3 65535][w][e]

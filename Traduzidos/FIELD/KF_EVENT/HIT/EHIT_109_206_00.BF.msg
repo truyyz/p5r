@@ -4,7 +4,7 @@
 
 [msg MND_E10920600_Crowd_Yama]
 [s][vp 1 0 0 0 0 0]Os portões de ingressos JL já estão aqui.[n][w][e]
-[s][vp 1 0 0 0 0 0]Eu deveria transferir para o [clr 2]Linha de ginza [clr 27]no entanto. Parece que estou do lado[n]errado...[n][w][e]
+[s][vp 1 0 0 0 0 0]Eu deveria me transferir para a [clr 2]Linha de ginza [clr 27], no entanto.[n] Parece que estou do lado errado...[n][w][e]
 
 [msg MND_E10920600_Crowd_Toky]
 [s][vp 1 0 0 0 0 0]Esta placa diz que eles estão limpando a[n]área agora.[n][w][e]

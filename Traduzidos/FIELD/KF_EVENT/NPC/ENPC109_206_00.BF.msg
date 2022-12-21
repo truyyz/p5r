@@ -22,14 +22,14 @@
 
 [msg MSG_EKIIN_851_000_00 [Tired Station Worker]]
 [s][f 4 23 1 853 3 10 0 0][vp 8 2 1 0 853 0]Sim, ainda existem atrasos que afetam a[n]programação...[n][w][e]
-[s][vp 8 2 1 0 853 0]Por favor, vá em direção [clr 2]Saída 8 [clr 27]Para alcançar as linhas JL e Ginza.[n][w][e]
+[s][vp 8 2 1 0 853 0]Por favor, vá em direção a [clr 2]Saída 8 [clr 27]Para alcançar as linhas[n] JL e Ginza.[n][w][e]
 [s][vp 8 2 1 0 853 0]Eu posso ajudar o próximo cliente...[n][w][e]
 
 [msg MSG_EKIIN_855_000_00 [Woman with Camera]]
 [s][bup 0 107 1 65535 0][f 4 10 65535 0 0][f 4 23 1 855 3 10 0 0][vp 8 2 1 16019 855 0]Episódios psicóticos repetidos aterrorizam a[n]cidade! O que você acha de tudo isso,[n]senhor?[n][w][e]
 
 [msg MSG_EKIIN_855_001_00 [Woman with Camera]]
-[s][bup 0 107 0 65535 0][f 4 10 65535 0 0][f 4 23 1 855 3 10 0 0]Algumas pessoas estão dizendo que é o[n]resultado de um ambiente de trabalho[n]opressivo.[n]Você tem algum comentário sobre isso?[n][w][e]
+[s][bup 0 107 0 65535 0][f 4 10 65535 0 0][f 4 23 1 855 3 10 0 0]Algumas pessoas estão dizendo que é o resultado[n] de um ambiente de trabalho opressivo.[n]Você tem algum comentário sobre isso?[n][w][e]
 
 [msg MSG_EKIIN_855_002_00 [Unreliable Station Attendant]]
 [s][f 4 23 1 856 3 10 0 0][vp 8 2 1 0 856 0]Eu-sinto muito, não sei de nada! Faremos uma[n]declaração oficial mais tarde...[n][w][e]

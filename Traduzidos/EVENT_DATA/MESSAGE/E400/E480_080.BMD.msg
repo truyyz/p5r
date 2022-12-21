@@ -59,7 +59,7 @@
 [s][bup 0 103 603 0 0][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]Seus pais devem ser apenas...[n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Newscaster]]
-[s][vp 8 0 0 22 65535 0]... Todo o tráfego ao redor da estação[n]Shibuya está sendo redirecionado devido ao[n]acidente, para que os motoristas esperam[n]ruas cheias de geléia.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 22 65535 0]...Todo o tráfego ao redor da estação de Shibuya está[n]sendo redirecionado devido ao acidente, então os[n] motoristas devem esperar ruas lotadas.[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Sojiro]]
 [s][bup 0 103 603 0 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Oh vamos lá![n][f 1 3 65535][w][e]

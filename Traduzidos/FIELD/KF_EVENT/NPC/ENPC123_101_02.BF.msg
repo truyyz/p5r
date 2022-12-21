@@ -103,7 +103,7 @@
 
 [msg MSG_1ST_CONTACT_HARU_011 [Gentle Teacher]]
 [s][vp 8 2 1 0 856 0]Não se preocupe. Você está sendo uma grande[n]ajuda.[n][w][e]
-[s][vp 8 2 1 0 856 0]Ah, e vou garantir que o telhado seja[n]desbloqueado para você... imagino que isso[n]seja muito trabalho, mas tenho certeza de[n]que você pode lidar com isso.[n][w][e]
+[s][vp 8 2 1 0 856 0]Ah, e vou garantir que o telhado seja desbloqueado[n] para você... imagino que isso seja muito trabalho,[n] mas tenho certeza de que você pode lidar com isso.[n][w][e]
 
 [msg MSG_1ST_CONTACT_HARU_012 [Mature Third-Year]]
 [s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 3164 65535 0]Tudo bem, farei o meu melhor! Vou dar uma[n]olhada neles mais tarde.[n][w][e]

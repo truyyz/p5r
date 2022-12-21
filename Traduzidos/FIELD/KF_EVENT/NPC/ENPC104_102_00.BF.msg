@@ -31,7 +31,7 @@
 
 [msg MSG_E10410200_POLICE_003 [Unfriendly Officer]]
 [s][f 4 23 1 850 3 10 0 0][vp 8 2 1 0 850 0]LeBlanc...?[n][w][e]
-[s][vp 8 2 1 0 850 0]Oh, right, that café. It's in an alley[n]Após a loja de tabaco aqui.[n][w][e]
+[s][vp 8 2 1 0 850 0]Ah, certo, aquele café. é em um beco, [n]Após a loja de tabaco aqui.[n][w][e]
 
 [msg MSG_E10410200_POLICE_103 [Unfriendly Officer]]
 [s][f 4 23 1 850 3 10 0 0][vp 8 2 1 0 850 0]* suspiro* eu já te disse, não é?[n][w][e]
@@ -48,7 +48,7 @@
 
 [msg MND_E10410200_TAKUHAI_10]
 [s][vp 1 0 0 0 0 0]... ele parece ocupado.[n]É melhor eu não incomodá-lo.[n][w][e]
-[s][vp 1 0 0 0 0 0]is in a café called [clr 2]Aparentemente, Sojiro Sakura LeBlanc [clr 27].[n][w][e]
+[s][vp 1 0 0 0 0 0]Está em uma cafeteria chamada [clr 2]Sojiro Sakura LeBlanc[clr 27].[n][w][e]
 
 [msg MSG_000_0_0 [Unfriendly Officer]]
 [s][vp 8 2 1 0 850 0]HM...? O que é que foi isso...?[n][w][e]

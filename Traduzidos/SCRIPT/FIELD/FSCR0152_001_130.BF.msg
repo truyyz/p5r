@@ -9,7 +9,7 @@
 
 [msg D01_02_e129_030_mes04 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 4 0 0]Oh garoto. Vou te ensinar o básico da[n]batalha por enquanto. É melhor você não[n]esquecer tudo isso.[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 5 0 0]Sempre tente [clr 2]emboscada [clr 27]inimigos em vez de correr por toda parte.[n]Ataque [n][clr 2]por trás [clr 27]quando você puder.[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 5 0 0]Sempre tente [clr 2]emboscada[clr 27] em inimigos em vez de correr[n] por toda parte. Ataque [clr 2]por trás [clr 27]quando você puder.[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 6 0 0]Você precisará arrancar suas máscaras para[n]quebrar momentaneamente o controle que o[n]governante do palácio as tem sobre elas.[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 7 0 0]Se você tiver sucesso, seu oponente será[n]pego de surpresa, permitindo-nos entrar em[n]um ataque preventivo.[n][w][e]
 
