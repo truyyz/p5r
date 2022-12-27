@@ -17,7 +17,7 @@
 [s][bup 0 5 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Não, de jeito nenhum. É apenas...[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Yusuke]]
-[s][bup 0 5 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Estou tendo problemas para manter o foco[n]hoje.[n]Sinto muito, mas teremos que retomar isso[n]outra vez...[n][f 1 3 65535][w][e]
+[s][bup 0 5 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Estou tendo problemas para manter o foco[n]hoje. Sinto muito, mas teremos que retomar[n]isso outra vez...[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Ryuji]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 3 301 1][vp 8 0 0 8 65535 0]Oh infernos não! Quantas horas você acha que[n]nos fez esperar!?[n][f 1 3 65535][w][e]
@@ -173,7 +173,7 @@
 
 [msg MSG_058_0_0 [Yusuke]]
 [s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 68 65535 0]Claro, estou disposto a esperar.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 69 65535 0]Vou reservar um tempo de acordo com seus[n]planos.[n]Mas, por favor, venha antes que a exposição[n]termine.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 69 65535 0]Vou reservar um tempo de acordo com seus[n]planos. Mas, por favor, venha antes que a[n]exposição termine.[n][f 1 3 65535][w][e]
 
 [msg MSG_059_0_0 [Ann]]
 [s][bup 0 4 7 65535 0][f 4 10 65535 0 0][vp 8 0 0 70 65535 0]Não! Não é isso que quero dizer! Por que[n]você não está ouvindo!?[n][f 1 3 65535][w][e]

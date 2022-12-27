@@ -78,14 +78,14 @@
 [s][vp 8 2 0 39052 15 0]* suspiro* meu trabalho de meio período é[n]uma drag...[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Caring Young Friend]]
-[s][vp 8 0 0 0 65535 0]Você quer dizer seu trabalho no [clr 2]Loja de tigela de carne na rua central [clr 27], direita? Eu pensei que você disse que o[n]salário era bom?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Você quer dizer seu trabalho na [clr 2]Loja de tigela de[n]carne na rua central[clr 27], certo? Eu pensei que[n]você disse que o salário era bom?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Além disso, esse político que faz discursos[n]em frente à estação é regular lá, não é?[n][f 1 3 65535][w][e]
 [s][vp 1 0 0 0 0 0]Talvez você possa se conectar com ele se[n]tudo correr bem.[n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Pale Young Man]]
 [s][vp 8 0 0 0 65535 0]Sem chance. Não estou nem interessado em[n]política.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]* suspiro* Eu realmente não quero ir...[n]mesmo que o salário seja bom, executando[n]todo o lugar sozinha, apenas é uma merda.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]Essa revista de empregos disse que era um[n]local de trabalho divertido e amigável. Eu[n]gostaria que outro tempo parcial se[n]juntasse...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Essa revista de empregos disse que era um local[n]de trabalho divertido e amigável. Eu gostaria[n]que outro tempo parcial se juntasse...[n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1021 65535 0]Eu acho que é difícil por aí...[n][f 1 3 65535][w][e]

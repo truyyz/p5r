@@ -11,7 +11,7 @@
 
 [msg MSG_004_0_0 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Precisamos fazer o que fizemos com[n]Kamoshida. Primeiro, garantimos uma rota de[n]infiltração no palácio.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Depois disso, enviamos nosso cartão de[n]visita.[n]Depois que o tesouro se materializou,[n]roubamos.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Depois disso, enviamos nosso cartão de visita.[n]Depois que o tesouro se materializa,[n]roubamos.[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Oooh, eu tenho uma pergunta! Madarame não[n]sabe que ainda estávamos fazendo coisas no[n]palácio.[n][f 1 3 65535][w][e]

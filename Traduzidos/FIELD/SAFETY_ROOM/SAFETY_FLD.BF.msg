@@ -76,7 +76,7 @@
 [s][f 4 10 65535 0 0]Vamos lá, é hora de começar essa missão![n][w][e]
 
 [msg SYS_MISSION_START_MADARA]
-[s]Sua missão de mudar o coração de Madarame[n]começou. Você deve roubar o tesouro dele[n]pelo [n][clr 2]data limite [clr 27].[n][w][e]
+[s]Sua missão de mudar o coração de Madarame[n]começou. Você deve roubar o tesouro dele[n]pela [clr 2]data limite [clr 27].[n][w][e]
 
 [msg MADARAME_ft_YOKOKU_mes01 [Ryuji]]
 [s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 2 1 7095 65535 0]Vamos lá, vamos nos apressar e enviar o[n]maldito cartão de chamada.[n][w][e]

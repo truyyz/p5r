@@ -78,7 +78,7 @@
 
 [msg MSG_028_0_0 [Ryuji]]
 [s][bup 0 2 11 65535 0][f 4 10 65535 0 0][vp 8 0 0 31 65535 0]Vamos começar depois da escola amanhã.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 32 65535 0]Será uma dor se a senhorita presidente nos[n]encontrar no telhado novamente, então onde[n]encontrar...[n]Vamos ver...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 32 65535 0]Será uma dor se a senhorita presidente nos[n]encontrar no telhado novamente, então onde[n]encontrar... Vamos ver...[n][f 1 3 65535][w][e]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 33 65535 0]Eu acho que aquele lugar de passarela em[n]Shibuya funcionaria. É perto do lugar de[n]Madarame também.[n][f 1 3 65535][w][e]
 
 [msg MSG_029_0_0 [Morgana]]
