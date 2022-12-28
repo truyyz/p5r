@@ -1622,7 +1622,7 @@
 [s][f 4 23 1 23 3 10 0 10][vp 8 2 1 0 23 0]Eles provavelmente vão apenas dizer coisas[n]que você deseja ouvir. As pessoas realmente[n]entram lá são fracas.[n][w][e]
 
 [msg MSG_KEIJIBAN_NPC02_007_0 [Tired-Looking Student]]
-[s][f 4 23 1 22 3 10 0 10][vp 8 2 1 0 22 0]As ameaças não são brincadeira, você não[n]acha...?[n]Estou com medo de ir para casa depois da[n]escola de Cram.[n][w][e]
+[s][f 4 23 1 22 3 10 0 10][vp 8 2 1 0 22 0]As ameaças não são brincadeira, você não acha...?[n]Estou com medo de ir para casa depois da[n]escola de Cram.[n][w][e]
 
 [msg MSG_KEIJIBAN_NPC02_007_0_2 [Bothered Student]]
 [s][f 4 23 1 23 3 10 0 10][vp 8 2 1 0 23 0]Você tem recebido esse lixo lixo também?[n]Tenho certeza de que tudo é apenas uma[n]farsa.[n][w][e]

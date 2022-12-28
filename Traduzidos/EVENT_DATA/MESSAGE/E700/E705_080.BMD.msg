@@ -87,7 +87,7 @@
 
 [msg MSG_027_0_0 [Futaba's Uncle]]
 [s][vp 8 0 0 0 65535 0]Este delinqüente me atacou![n]Ele é perigoso![n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]This café's finished, you hear me!?[n]Não vou deixar você se safar disso![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Este café acabou, você me ouve!?[n]Não vou deixar você se safar disso![n][f 1 3 65535][w][e]
 
 [msg MSG_028_0_0 [Sojiro]]
 [s][bup 0 103 5 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*suspirar* [n][f 1 3 65535][w][e]

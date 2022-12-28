@@ -173,7 +173,7 @@
 
 [msg MSG_C23_YES_02_00 [Maruki]]
 [s][f 4 23 1 223 3 10 0 10][bup 0 216 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 57453 65535 0]Ah, ótimo![n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Acabei de terminar uma sessão de[n]aconselhamento.[n]Agora, encontre-me no escritório da[n]enfermeira.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Acabei de terminar uma sessão de[n]aconselhamento. Agora, encontre-me no[n]escritório da enfermeira.[n][w][e]
 
 [msg MSG_C23_YES_03_00 [Maruki]]
 [s][f 4 23 1 223 3 10 0 10][bup 0 216 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 57470 65535 0]Obrigado! Estou tão feliz em ouvir isso.[n][w][e]

@@ -95,7 +95,7 @@
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Sério? Legal, mal posso esperar![n][w][e]
 
 [msg MSG_SEASON_GOODS_002_01 [Inquisitive Girl]]
-[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]* Suspiro* As atividades do clube estão me[n]matando. Existe algo que eu possa obter para aliviar[n]a exaustão?[n][w][e]
+[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]*Suspiro* As atividades do clube estão me[n]matando. Existe algo que eu possa obter para aliviar[n]a exaustão?[n][w][e]
 
 [msg MSG_SEASON_GOODS_002_02 [Foodie Girl]]
 [s][f 4 23 1 8 14 0 13 0][vp 8 2 1 0 8 0]Se for esse o caso, por que você não tenta[n]esse óleo corporal chamado [n][clr 2][var 0][clr 27]?[n][w][e]
@@ -120,14 +120,14 @@
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Wowww, eu não sabia que eles tinham um pão[n]de tempo limitado vendido apenas em dias de[n]chuva. Eu vou quando chover![n][w][e]
 
 [msg MSG_SEASON_GOODS_004_01 [Inquisitive Girl]]
-[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]* suspiro* O time de vôlei está passando por[n]uma bagunça tão grande agora...[n][w][e]
+[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]*suspiro* O time de vôlei está passando por[n]uma bagunça tão grande agora...[n][w][e]
 [s][vp 8 2 1 0 7 0]Eu estava pensando em ir para Shibuya com[n]meus amigos para limpar minha cabeça, mas...[n][w][e]
 [s][vp 8 2 1 0 7 0]Você sabe se há produtos sazonais ou[n]promoções em Shibuya?[n][w][e]
 
 [msg MSG_SEASON_GOODS_004_02 [Foodie Girl]]
 [s][f 4 23 1 8 14 0 13 0][vp 8 2 1 0 8 0]Vamos ver. Se você está saindo com seus[n]amigos, experimente o Big Bang Burger.[n][w][e]
-[s][vp 8 2 1 0 8 0]Seu item de primavera, [clr 2][var 0][clr 27], é saudável e delicioso.[n][w][e]
-[s][vp 8 2 1 0 8 0]É muito grande, por isso é perfeito para[n]compartilhar.[n]Você pode encontrar um Big Bang Burger na[n]Central Street.[n][w][e]
+[s][vp 8 2 1 0 8 0]Seu item de primavera, [clr 2][var 0][clr 27],[n]é saudável e delicioso.[n][w][e]
+[s][vp 8 2 1 0 8 0]É muito grande, por isso é perfeito para[n]compartilhar. Você pode encontrar um[n]Big Bang Burger na Central Street.[n][w][e]
 
 [msg MSG_SEASON_GOODS_004_03 [Inquisitive Girl]]
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Big Bang Burger, hein? Soa bem.[n]Obrigado, vou experimentar![n][w][e]
@@ -138,8 +138,8 @@
 
 [msg MSG_SEASON_GOODS_005_02 [Foodie Girl]]
 [s][f 4 23 1 8 14 0 13 0][vp 8 2 1 0 8 0]Você conhece um lugar chamado Super Muramasa?[n][w][e]
-[s][vp 8 2 1 0 8 0]É um [clr 2]supermercado [clr 27]Eles passaram em Yongen-Jaya.[n][w][e]
-[s][vp 8 2 1 0 8 0]Deles [clr 2][var 0][clr 27]provavelmente faria apenas o truque.[n][w][e]
+[s][vp 8 2 1 0 8 0]É um [clr 2]supermercado [clr 27]ele fica em Yongen-Jaya.[n][w][e]
+[s][vp 8 2 1 0 8 0]Eles [clr 2][var 0][clr 27] provavelmente faria[n]apenas o truque.[n][w][e]
 
 [msg MSG_SEASON_GOODS_005_03 [Inquisitive Girl]]
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Frutas, hein...? Apreciar algumas frutas soa[n]bem e relaxante...[n][w][e]
@@ -316,7 +316,7 @@
 [s][f 4 23 1 1 3 10 0 0][vp 8 2 1 0 1 0]Com base no que vi na assembléia, ele[n]parecia um cara sério que você poderia[n]relaxar por aí...[n][w][e]
 
 [msg MSG_KATAOMOI_005_0_0 [Energetic Student]]
-[s][f 4 23 1 1 3 10 0 0][f 4 25 1 2 0 0][vp 8 2 1 0 1 0]Ei, eu esqueci totalmente, mas [f 4 1]-kun não foi expulso, não é?[n][w][e]
+[s][f 4 23 1 1 3 10 0 0][f 4 25 1 2 0 0][vp 8 2 1 0 1 0]Ei, eu esqueci totalmente, mas [f 4 1]-kun[n]não foi expulso, não é?[n][w][e]
 
 [msg MSG_KATAOMOI_005_1_0 [Calm Student]]
 [s][f 4 23 1 0 3 10 0 0][vp 8 2 1 0 0 0]Ei, não tão alto. Ele está aparecendo com[n]bastante regularidade, então parece que ele[n]vai ficar por aqui.[n][w][e]
@@ -328,7 +328,7 @@
 [s][f 4 23 1 0 3 10 0 0][vp 8 2 1 0 0 0]Não sei, estou com muito medo de perguntar.[n]De qualquer forma, provavelmente é melhor[n]não se envolver demais com ele.[n][w][e]
 
 [msg MSG_KATAOMOI_006_0_0 [Energetic Student]]
-[s][f 4 23 1 1 3 10 0 0][vp 8 2 1 0 1 0]* suspiro* Há um garoto em que estou[n]realmente interessado agora. Ele é[n]sonhador, super inteligente...[n][w][e]
+[s][f 4 23 1 1 3 10 0 0][vp 8 2 1 0 1 0]*suspiro* Há um garoto em que estou[n]realmente interessado agora. Ele é[n]sonhador, super inteligente...[n][w][e]
 [s][vp 8 2 1 0 1 0]Talvez ele seja um ano mais velho que eu,[n]mas não posso deixar de me sentir atraído[n]pelo quão calmo e distante ele é.[n][w][e]
 
 [msg MSG_KATAOMOI_006_1_0 [Calm Student]]

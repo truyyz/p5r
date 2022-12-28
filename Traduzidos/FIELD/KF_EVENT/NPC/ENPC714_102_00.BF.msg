@@ -70,7 +70,7 @@
 
 [msg MSG_DET_KAWKAMI_NOT_CL [Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][f 4 23 1 802 3 10 0 10]Toda essa situação é um incômodo.[n]Por que eu tive que soltar esse panfleto?[n][w][e]
-[s]but I'll be counting on you, Master☆[n][w][e]
+[s]mas eu estarei contando com você, mestre☆[n][w][e]
 [s]Provavelmente é pedir demais, *suspiro * [n][w][e]
 
 [msg MSG_DET_KAWKAMI_CLEARED_ [Kawakami]]

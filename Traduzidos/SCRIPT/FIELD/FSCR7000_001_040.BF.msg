@@ -88,7 +88,7 @@
 
 [msg MSG_Arbeit_BeefDon_Tell_ [Man's Voice]]
 [s]Este é um ótimo momento. Precisamos de[n]algumas mãos extras. Eu levaria quase[n]qualquer pessoa neste momento.[n][w][e]
-[s]Você não se importa de trabalhar à noite,[n]não é?[n]Pare a qualquer momento que você está livre[n]para trabalhar.[n][w][e]
+[s]Você não se importa de trabalhar à noite, não é?[n]Pare a qualquer momento que você está livre[n]para trabalhar.[n][w][e]
 [s]Estarei esperando! Estamos bem na entrada da[n]Central Street.[n][w][e]
 [s]Espero vê-lo em breve.[n][w][e]
 

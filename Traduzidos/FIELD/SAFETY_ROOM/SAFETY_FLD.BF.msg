@@ -2233,7 +2233,7 @@
 
 [msg BRIEFING_MEMENTOS_2_mes0_4 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 23 1 5 3 5 11 5][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Sugiro que vámos para lembranças em vez de[n]perder tempo aqui.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Além disso, temos alguma Intel sobre pessoas[n]que podemos ajudar?[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Além disso, temos alguma informações sobre[n]pessoas que podemos ajudar?[n][w][e]
 
 [msg BRIEFING_MEMENTOS_2_mes0_5 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 23 1 6 3 5 11 5][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Não quero perder nosso tempo precioso.[n]Devemos ir para lembranças?[n][w][e]
@@ -2953,7 +2953,7 @@
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][f 4 23 1 3 3 5 11 5][vp 8 0 1 15 65535 0]Muito bem, Lady Ann![n]Você está absolutamente correto. Esta será[n]uma tática vital daqui para frente.[n][w][e]
 
 [msg MADARAME_YOKOKU_mes13 [Yusuke]]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 1 16 65535 0]Na verdade, posso fazer uma pergunta[n]verdadeiramente básica?[n]Você continua mencionando a cognição com[n]bastante facilidade...[n][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 1 16 65535 0]Na verdade, posso fazer uma pergunta[n]verdadeiramente básica? Você continua mencionando[n]a cognição com bastante facilidade...[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 17 65535 0]Mas por que este mundo se formou a partir de[n]cognições materializadas até existe para[n]começar?[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 18 65535 0]Não me diga... sempre existiu, enquanto[n]passamos por nossas vidas diárias[n]completamente alheios?[n][w][e]
 
@@ -3539,7 +3539,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Vamos lá, vamos nos apressar e descobrir[n]quem é nosso próximo alvo![n][w][e]
 
 [msg Dungeon_clear_02_0618 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1111 65535 0]Mas... não temos Intel em nenhum palácio no[n]momento.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1111 65535 0]Mas... não temos informação de nenhum palácio[n]no momento.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Como devemos fazer algo contra um alvo pelo[n]qual nem temos um nome?[n][w][e]
 
 [msg Dungeon_clear_03_01 [Morgana]]
@@ -3886,7 +3886,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eles podem ser muito profundos para[n]alcançarmos no momento...[n][w][e]
 
 [msg MSG_azito_quest_start01 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Bem, todo mundo está aqui. Esta é uma boa[n]oportunidade para classificar as[n]informações de destino de lembranças que[n]temos.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Bem, todo mundo está aqui. Esta é uma boa[n]oportunidade para classificar as informações[n]de destino de lembranças que temos.[n][w][e]
 
 [msg MSG_azito_quest_start02 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Bem, então, temos algumas novas intels em um[n]alvo de lembranças hoje.[n][w][e]
@@ -3913,7 +3913,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Dummy ajito_quest_talk [n][w][e]
 
 [msg MND_azito_quest_03 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 0 1155 65535 0]Esta intel está em um [clr 2]Arrogado de cabelos marrons [clr 27][n][clr 2]valentão [clr 27]. Ele é estudante da Shujin Academy.[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 0 1155 65535 0]A informação está em um [clr 2]Arrogado de cabelos[n]marrons valentão [clr 27]. Ele é estudante da[n]Shujin Academy.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]As coisas foram um pouco longe demais para[n]apenas bullying. Ele está abusando e[n]chantageando crianças.[n][w][e]
 
 [msg MSG_azito_quest_chk03_01 [Ryuji]]
@@ -3938,7 +3938,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Dummy ajito_quest_talk [n][w][e]
 
 [msg MND_azito_quest_07 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 0 1155 65535 0]Esta intel está em um [clr 2]perseguidor online [clr 27]Queimar com ciúmes porque o homem que ela[n]ama foi levado.[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 0 1155 65535 0]A informação está em um [clr 2]perseguidor online[clr 27][n]Queimar com ciúmes porque o homem que ela[n]ama foi levado.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Parece que ela é uma estudante Shujin...[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Seus delírios estão realmente ficando fora[n]de controle.[n]Ela está até escrevendo como vai matá-los.[n][w][e]
 
@@ -3969,7 +3969,7 @@
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 4109 65535 0]Devo concordar, ainda mais se estivermos[n]pedindo ajuda. Vamos parar com essa loucura.[n][w][e]
 
 [msg MND_azito_quest_12 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 0 1155 65535 0]Esta intel está em um [clr 2]garoto covarde [clr 27]que realiza atrocidades usando agressores[n]sob seu controle.[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 0 1155 65535 0]A informação está em um [clr 2]garoto covarde [clr 27]que[n]realiza atrocidades usando agressores[n]sob seu controle.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ele é aquele por trás daquele cara[n]Takanashi, cujo coração mudamos antes[n]também.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]De qualquer forma, parece que ele está[n]chantageando pessoas com vídeos que eles[n]não querem tornar público.[n][w][e]
 
@@ -3991,7 +3991,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Dummy ajito_quest_talk [n][w][e]
 
 [msg MND_azito_quest_19 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 0 1155 65535 0]Esta intel está em um [clr 2]Especulador atroz da terra [clr 27].[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 0 1155 65535 0]A informação está em um [clr 2]Especulador atroz[n]da terra[clr 27].[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ele está tentando ameaçar o casal antigo que[n]administra o teatro em Yongen para fazê-los[n]sair.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Se não fizermos algo, as coisas[n]provavelmente piorarão ainda.[n][w][e]
 
@@ -4000,7 +4000,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 0 2106 65535 0]Não podemos permitir que um método tão[n]horrível seja bem-sucedido.[n][w][e]
 
 [msg MND_azito_quest_21 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 0 1155 65535 0]Esta intel está em um [clr 2]estudante sádico [clr 27].[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 0 1155 65535 0]A informação está em um [clr 2]estudante sádico [clr 27].[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Parece que ela está tratando um estudante de[n]homens em particular como escravo contra[n]sua vontade.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Por exemplo, ela dará a ele ordens[n]degradantes ou o repreenderá em público...[n][w][e]
 
@@ -4042,7 +4042,7 @@
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 0 1155 65535 0]Dummy ajito_quest_talk [n][w][e]
 
 [msg MND_azito_quest_27 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 0 1155 65535 0]Esta intel está em um malicioso [clr 2]trapaceando jogador [clr 27].[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 0 1155 65535 0]Esta informação está em um malicioso[n][clr 2]trapaceando jogador[clr 27].[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Aparentemente, ele está traindo as arcadas[n]para se exibir recentemente.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Não foi nada além de um aborrecimento para[n]os outros clientes.[n][w][e]
 
@@ -4057,7 +4057,7 @@
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 0 1101 65535 0]Dummy ajito_quest_talk [n][w][e]
 
 [msg MND_azito_quest_29 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 0 1155 65535 0]Este é especialmente perigoso. Esta intel em[n]particular está em um [n][clr 2]ex-mercenário [clr 27][n][clr 2]assassino [clr 27].[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 0 1155 65535 0]Este é especialmente perigoso. Esta[n]informação em particular está em um[n][clr 2]ex-mercenário [clr 27][n][clr 2]assassino [clr 27].[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Pelo que posso dizer, ele age como um homem[n]sem-teto, mas secretamente realiza[n]contratos de assassinato.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Se nem a polícia pode lidar com ele... é[n]hora de intervirmos.[n][w][e]
 
@@ -4085,7 +4085,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Dummy ajito_quest_talk [n][w][e]
 
 [msg MND_azito_quest_33 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 0 1155 65535 0]Esta intel está em um [clr 2]produtor malicioso no [clr 27][n][clr 2]Showbiz World [clr 27].[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 0 1155 65535 0]A informação está em um [clr 2]produtor malicioso[n] no [clr 27][clr 2]Showbiz World [clr 27].[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Supostamente, ele está usando os sonhos das[n]mulheres jovens para seu próprio lucro[n]pessoal.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Aposto que inúmeras mulheres sucumbiram à[n]sua trama...[n][w][e]
 
@@ -4094,7 +4094,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Isso é imperdoável. Precisamos mudar seu[n]coração de uma só vez.[n][w][e]
 
 [msg MND_azito_quest_34 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 0 1155 65535 0]Esta intel está em um [clr 2]loja de conveniência hedionda [clr 27][n][clr 2]Gerente [clr 27].[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 0 1155 65535 0]A informação está em um [clr 2]loja de[n]conveniência hedionda [clr 27][clr 2]Gerente [clr 27].[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ele não apenas rouba dinheiro do registro,[n]mas também se afasta culpando seus[n]cronometristas por isso.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ele provavelmente apenas faz o que quiser,[n]porque possui a loja.[n][w][e]
 
@@ -4108,7 +4108,7 @@
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 9191 65535 0]Dummy ajito_quest_talk [n][w][e]
 
 [msg MND_azito_quest_36 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 0 1155 65535 0]Esta intel está em um [clr 2]assediando chefe [clr 27].[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 0 1155 65535 0]A informação está em um [clr 2]chefe assediandor[clr 27].[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ele rouba as realizações de seus[n]subordinados sem fazer nenhum trabalho,[n]tudo para seu próprio lucro.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Aparentemente, muitos dos trabalhadores[n]desistiram porque não conseguiram lidar com[n]sua natureza maldosa.[n][w][e]
 
@@ -4123,7 +4123,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Dummy ajito_quest_talk [n][w][e]
 
 [msg MND_azito_quest_40 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 0 1155 65535 0]Esta intel está em um [clr 2]assaltante perigoso [clr 27][n]que apareceu em Shibuya recentemente.[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 0 1155 65535 0]A informação está em um [clr 2]assaltante perigoso[clr 27][n]que apareceu em Shibuya recentemente.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ele só tem como alvo o fraco. Muitos já[n]foram vítimas dele.[n][w][e]
 
 [msg MSG_azito_quest_chk40_01 [Ryuji]]
@@ -4137,7 +4137,7 @@
 [s][bup 0 4 2 65535 0][f 4 10 65535 0 0][vp 8 2 0 6197 65535 0]Dummy ajito_quest_talk [n][w][e]
 
 [msg MND_azito_quest_48 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 0 1155 65535 0]Esta intel está em um [clr 2]estudante universitário que é [clr 27][n][clr 2]abusando de animais [clr 27]para aliviar o estresse.[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 0 1155 65535 0]A informação está em um [clr 2]estudante[n]universitário que está [clr 27][clr 2]abusando[n]de animais [clr 27]para aliviar o estresse.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Aparentemente, muitos gatos morreram por sua[n]mão...[n][w][e]
 
 [msg MSG_azito_quest_chk48_01 [Ann]]
@@ -4147,7 +4147,7 @@
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Eu nunca poderia perdoar um humano assim.[n]Isso será vingança.[n][w][e]
 
 [msg MND_azito_quest_49 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 0 1155 65535 0]Esta intel está no [clr 2]encarnação humana de [clr 27][n][clr 2]ambição [clr 27]que empresta dinheiro e foge com isso.[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 0 1155 65535 0]A informação está no [clr 2]encarnação humana[n]de [clr 27][clr 2]ambição [clr 27]que empresta dinheiro e foge com isso.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ele mudou seu nome e até fez uma cirurgia[n]para mudar de rosto. Nem mesmo a polícia[n]pode pegá-lo...[n][w][e]
 
 [msg MSG_azito_quest_chk49_01 [Makoto]]
@@ -4155,7 +4155,7 @@
 [s][bup 0 6 2 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Parece que seria melhor se ajudássemos a[n]mudar seu coração.[n][w][e]
 
 [msg MND_azito_quest_50 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 0 1155 65535 0]Esta intel está em um [clr 2]Jovem sujo [clr 27]que enganam os idosos com todos os tipos de[n]negócios fraudulentos.[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 0 1155 65535 0]A informação está em um [clr 2]Jovem sujo [clr 27][n]que enganam os idosos com todos os tipos de[n]negócios fraudulentos.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Neste ponto, ele expandiu esse crime para[n]uma organização maior.[n][w][e]
 
 [msg MSG_azito_quest_chk50_01 [Ryuji]]
@@ -4163,7 +4163,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Temos que derrubar esse bastardo e garantir[n]que ninguém mais acabasse sendo enganado[n]por ele![n][w][e]
 
 [msg MND_azito_quest_51 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 0 1155 65535 0]Esta intel está no [clr 2]Helicóptero do garoto do jogador [clr 27][n][clr 2]mãe [clr 27].[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 0 1155 65535 0]A informação está no [clr 2]Helicóptero do[n]garoto do jogador [clr 27][clr 2]mãe [clr 27].[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Aparentemente, o garoto habilidoso que[n]conhecemos do fliperama é perturbado pelas[n]ações autoritárias de sua mãe.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Então, vamos mudar o coração dela.[n][w][e]
 
@@ -4172,7 +4172,7 @@
 [s][bup 0 6 2 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]As coisas parecem muito sérias.[n]Vamos nos mexer.[n][w][e]
 
 [msg MND_azito_quest_52 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 0 1155 65535 0]Esta intel está em um [clr 2]homem que está abusando de seu [clr 27][n][clr 2]Namorada [clr 27].[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 0 1155 65535 0]A informação está em um [clr 2]homem que está[n]abusando de sua [clr 27][clr 2]Namorada[clr 27].[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Este homem chamado Uchimura agrediu suas[n]inúmeras vezes.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Aquele telha da fortuna até previu que ela[n]ficaria gravemente magoada se deixasse em[n]paz. Essas fortunas geralmente se tornam[n]realidade...[n][w][e]
 
@@ -4181,7 +4181,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu não quero que ela se machuque. Devemos[n]mudar seu coração.[n][w][e]
 
 [msg MND_azito_quest_53 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 0 1155 65535 0]Esta intel está em um [clr 2]homem que está fazendo um [clr 27][n][clr 2]A Fortune Teller sofre [clr 27].[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 0 1155 65535 0]A informação está em um [clr 2]homem que[n]está fazendo um [clr 27][clr 2]A Fortune Teller sofre[clr 27].[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ele se chamou o presidente de uma[n]organização, mas ele não passa de uma[n]fraude em campança de dinheiro.[n][w][e]
 
 [msg MSG_azito_quest_chk53_01 [Yusuke]]
@@ -4212,7 +4212,7 @@
 [s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 2 0 7101 65535 0]Tudo bem, temos que operar no coração podre[n]daquele cara![n][w][e]
 
 [msg MND_azito_quest_56 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 0 1155 65535 0]Esta intel está no [clr 2]casal relacionado a [clr 27][n][clr 2]Ex-aluno de Kawakami [clr 27]. Eles são um par de pessoas sujos.[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 0 1155 65535 0]A informação está no [clr 2]casal relacionado a [clr 27][n][clr 2]Ex-aluno de Kawakami [clr 27]. Eles são um par de pessoas sujos.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eles estão usando o incidente em que aquela[n]criança morreu para tentar extorquir[n]dinheiro de Kawakami.[n][w][e]
 
 [msg MSG_azito_quest_chk56_01 [Ann]]
@@ -4229,7 +4229,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Vamos emprestar ohya nossa ajuda para que[n]ela possa reunir as notícias de que precisa.[n][w][e]
 
 [msg MND_azito_quest_58 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 0 1155 65535 0]Esta intel está no [clr 2]mãe de palco [clr 27]que maltrata sua filha, o jogador de shogi[n]Hifumi Togo.[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 0 1155 65535 0]A informação está no [clr 2]mãe de palco[n][clr 27]que maltrata sua filha, o jogador de shogi[n]Hifumi Togo.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ela controla todos os aspectos da carreira[n]de Hifumi e, portanto, arruinou a vida de[n]Shogi de sua filha.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ela forçou Hifumi a se tornar um ídolo[n]contra seus desejos e até planeja consertar[n]sua próxima partida de Shogi.[n][w][e]
 
@@ -4237,7 +4237,7 @@
 [s][bup 0 6 2 65535 0][f 4 10 65535 0 0][vp 8 2 0 2179 65535 0]Ela está tratando a filha como algum tipo de[n]ferramenta. Temos que liberar hifumi desse[n]estado.[n][w][e]
 
 [msg MND_azito_quest_59 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 0 1155 65535 0]Esta intel está no [clr 2]pais [clr 27]do amigo de Futaba, Kana.[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 0 1155 65535 0]A informação está no [clr 2]pais [clr 27]do[n]amigo de Futaba, Kana.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eles forçaram a Kana a assumir empregos[n]imorais para que possam pagar suas dívidas.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]... Desde que ela era jovem, eles pisotearam[n]por sua vida.[n][w][e]
 
@@ -4245,7 +4245,7 @@
 [s][bup 0 8 2 65535 0][f 4 10 65535 0 0][vp 8 2 0 9189 65535 0]Eu vou esmagá-los... eu vou salvar Kana-chan![n][w][e]
 
 [msg MND_azito_quest_60 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 0 1155 65535 0]Esta intel está ligada [clr 2]Tio de Futaba que é [clr 27][n][clr 2]ameaçando o chefe [clr 27].[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 0 1155 65535 0]A informação está ligada [clr 2]Tio de Futaba[n]que é [clr 27][clr 2]ameaçando o chefe [clr 27].[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ele está indo atrás de cada brecha que pode[n]tentar fazer com que o chefe lhe desse[n]dinheiro.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]LeBlanc está em perigo.[n][w][e]
 
@@ -4254,7 +4254,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ele é apenas um personagem inimigo que quer[n]fazer Sojiro sofrer![n][w][e]
 
 [msg MSG_azito_quest_71 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Esta intel está no [clr 2]reclamante irracional [clr 27].[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]A informação está no [clr 2]reclamante irracional [clr 27].[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Aparentemente, ele está fazendo uma acusação[n]falsa contra a loja de acessórios em[n]Shibuya.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ele está alegando que foi despejado porque[n]as mercadorias que a loja vende são de[n]baixa qualidade.[n][w][e]
 
@@ -4266,7 +4266,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Vamos mudar o coração daquele tolo![n][w][e]
 
 [msg MSG_azito_quest_72_01 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1155 65535 0]Esta Intel está nos incidentes de abdução de[n]gatos que ocorrem em Yongen. Nosso alvo é[n]Ryoko Aino, que [n][clr 2]vive em Yongen [clr 27].[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1155 65535 0]A informação está nos incidentes de abdução de[n]gatos que ocorrem em Yongen. Nosso alvo é[n]Ryoko Aino, que [clr 2]vive em Yongen[clr 27].[n][w][e]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Parece que muitos gatos foram vítimas, e os[n]moradores do bairro já fizeram queixas.[n][w][e]
 
 [msg MSG_azito_quest_72_02 [Ann]]
@@ -4314,7 +4314,7 @@
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 7103 65535 0]Aight! Então é hora de os ladrões fantasmas[n]quebrarem o caso![n][w][e]
 
 [msg MSG_azito_quest_75_01 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1155 65535 0]Esta Intel está no cara que está causando[n]problemas em Akihabara.[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1155 65535 0]A informação está no cara que está causando[n]problemas em Akihabara.[n][w][e]
 [s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Depois que ele falhou nos exames de[n]admissão, ele começou a se comportar de[n]maneira diferente e a fazer nada além de[n]prejudicar outras pessoas.[n][w][e]
 
 [msg MSG_azito_quest_75_02 [Ann]]
@@ -4359,7 +4359,7 @@
 [s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Esse é certamente um ato criminoso, mas não[n]temos nenhuma prova. Vamos pressioná-lo por[n]respostas e mudar seu coração.[n][w][e]
 
 [msg MSG_azito_quest_78_01 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1155 65535 0]Esta intel está em um [clr 2]cara que está tão obcecado por ídolos que[n]está destruindo sua família [n][clr 27].[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1155 65535 0]A informação está em um [clr 2]cara que está[n]tão obcecado por ídolos que está destruindo[n]sua família[n][clr 27].[n][w][e]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Conseguimos falar com ele pessoalmente,[n]mas... ele parece realmente deprimido[n]quando se trata de sua família.[n][w][e]
 
 [msg MSG_azito_quest_chk78_01 [Futaba]]
@@ -4385,7 +4385,7 @@
 
 [msg MSG_azito_quest_79_01 [Akechi]]
 [s][bup 0 9 11 65535 0][f 4 10 65535 0 0][vp 8 2 1 8149 65535 0]Permita-me informá-lo sobre esta missão.[n][w][e]
-[s][bup 0 9 10 65535 0][f 4 10 65535 0 0]Esta Intel está sobre o jovem que foi[n]falsamente acusado por um dietman.[n][w][e]
+[s][bup 0 9 10 65535 0][f 4 10 65535 0 0]Esta informação está sobre o jovem que foi[n]falsamente acusado por um dietista.[n][w][e]
 
 [msg MSG_azito_quest_79_02 [Yusuke]]
 [s][bup 0 5 4 65535 0][f 4 10 65535 0 0][vp 8 2 1 4090 65535 0]Se bem me lembro, um homem chamado Toji[n]Karataki foi detido por um crime que ele[n]não cometeu... Você aprendeu algo mais?[n][w][e]
@@ -4495,7 +4495,7 @@
 [s][bup 0 9 10 65535 0][f 4 10 65535 0 0]Eu já enviei o cartão de visita.[n]Vamos.[n][w][e]
 
 [msg MSG_azito_quest_80_01 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1155 65535 0]Esta intel está no [clr 2]streamer de vídeo [clr 27]Conhecido como "AquaSak Ouzi", que faz[n]algumas coisas ilegais limítrofes.[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1155 65535 0]A informação está no [clr 2]streamer de vídeo[n][clr 27]Conhecido como "AquaSak Ouzi", que faz[n]algumas coisas ilegais limítrofes.[n][w][e]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Enquanto ele tem muitos fãs, ele também[n]parece ter muitos críticos e odiadores que[n]estão tentando descobrir seu endereço[n]residencial.[n][w][e]
 
 [msg MSG_azito_quest_80_02 [Ann]]
@@ -4513,7 +4513,7 @@
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 7045 65535 0]Alriiight, vamos derrubar esse irmão mais[n]velho irritante![n][w][e]
 
 [msg MSG_azito_quest_81 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1155 65535 0]Esta intel é sobre um [clr 2]mulherengo [clr 27].[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1155 65535 0]A informação é sobre um [clr 2]mulherengo [clr 27].[n][w][e]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ele acredita que "todas as mulheres devem[n]ser conquistadas" e gostam de virar garotas[n]um contra o outro por sua própria diversão.[n][w][e]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Aparentemente, houve incidentes que[n]resultaram em ferimentos e até uma garota[n]que teve que deixar a escola.[n][w][e]
 
@@ -4537,7 +4537,7 @@
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Também não gosto de ninguém que trata outras[n]pessoas como porcaria. Vamos nos apressar e[n]mudar seu coração.[n][w][e]
 
 [msg MSG_azito_quest_82 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1155 65535 0]Esta intel está ligada [clr 2]um homem idoso que tem assediado pessoas [clr 27]no Harmony Alley, em Kichijoji.[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1155 65535 0]A informação está ligada [clr 2]um homem idoso[n]que tem assediado pessoas [clr 27]no Harmony Alley,[n]em Kichijoji.[n][w][e]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ele pega as ordens das pessoas, escolhe[n]lutas e causa uma cena alegando que ele foi[n]atingido e exigindo dinheiro...[n][w][e]
 
 [msg MSG_azito_quest_chk82_01 [Ryuji]]

@@ -3762,7 +3762,7 @@
 
 [msg MSG_SENTOU_KISETUYU_001_ [Freshly-Bathed Old Person]]
 [s][f 4 23 1 22 3 10 0 10][vp 8 2 1 0 22 0]Ufa... o banho de hoje era simplesmente...[n]Incrível, como sempre.[n][w][e]
-[s][vp 8 2 1 0 22 0][clr 2]Todos os domingos [clr 27]parece o céu quando o [clr 2]banho medicinal [clr 27]permeiam meus ossos...[n][w][e]
+[s][vp 8 2 1 0 22 0][clr 2]Todos os domingos [clr 27]parece o céu quando o[n][clr 2]banho medicinal [clr 27]permeiam meus ossos...[n][w][e]
 [s][vp 8 2 1 0 22 0]Agora então... devo voltar para casa ou[n]passar pela barra primeiro?[n][w][e]
 
 [msg MSG_KAWAKAMI_KAJI_001 [Kawakami]]

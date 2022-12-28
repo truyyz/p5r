@@ -3037,11 +3037,11 @@
 [s]Uau! Ambos são itens tão ótimos, não consigo[n]decidir qual deles![n][w][e]
 
 [msg TV_SHOPPING_ITEM_0424_01 [Male Host]]
-[s]Primeiro, deixe-me apresentá-lo ao [n][clr 3]Conjunto de acordado da primavera [clr 27]! Você nunca terá que temer adormecer[n]novamente![n][w][e]
+[s]Primeiro, deixe-me apresentá-lo ao [n][clr 3]Conjunto de[n]acordado da primavera[clr 27]! Você nunca terá que temer[n]adormecer novamente![n][w][e]
 [s]Vem com: [clr 2][var 8][clr 27] [f 2 5 3 9999 0], Assim, [n][clr 2][var 9][clr 27] [f 2 5 3 9999 1], e...[n][w][e]
 [s][clr 2][var 10][clr 27] [f 2 5 3 9999 2]! Que negócio incrível![n][w][e]
 [s]Mas isso não é tudo o que temos![n][w][e]
-[s]Aqui está o nosso próximo conjunto, o [clr 3]Compartilhamento do conjunto de primavera [clr 27]![n]É ótimo para aqueles que estão preocupados[n]com sua saúde e resistência![n][w][e]
+[s]O nosso próximo conjunto, o [clr 3]Compartilhamento[n]do conjunto de primavera[clr 27]! É ótimo para quem[n]está preocupados com saúde e resistência![n][w][e]
 [s][clr 2][var 12][clr 27] [f 2 5 3 9999 4], Assim, [n][clr 2][var 13][clr 27] [f 2 5 3 9999 5], e...[n][w][e]
 [s][clr 2][var 14][clr 27] [f 2 5 3 9999 6]! Tudo em um![n][w][e]
 
@@ -3064,11 +3064,11 @@
 [s]Ambos estarão em um conjunto! Que roubo![n][w][e]
 
 [msg TV_SHOPPING_ITEM_0515_01 [Male Host]]
-[s]Primeiro, o [clr 3]Pacote de alívio de alergia [clr 27]! Ótimo para quem está cansado de ficar[n]doente![n][w][e]
+[s]Primeiro, o [clr 3]Pacote de alívio de alergia[clr 27]![n]Ótimo para quem está cansado de ficar[n]doente![n][w][e]
 [s][clr 2][var 8][clr 27] [f 2 5 3 9999 0]e [n][clr 2][var 9][clr 27] [f 2 5 3 9999 1]![n][w][e]
 [s]Estes estarão em um conjunto! Que roubo![n][w][e]
 [s]Mas espere! Tem mais![n][w][e]
-[s]Em seguida, o [clr 3]Presente de cura cosmética [clr 27]! Ótimo para quem procura paz de espírito![n][w][e]
+[s]Em seguida, o [clr 3]Presente de cura cosmética[clr 27]![n]Ótimo para quem procura paz de espírito![n][w][e]
 [s][clr 2][var 12][clr 27] [f 2 5 3 9999 4]e [n][clr 2][var 13][clr 27] [f 2 5 3 9999 5]![n][w][e]
 [s]Ambos estarão em um conjunto! Que roubo![n][w][e]
 
@@ -3077,12 +3077,12 @@
 [s][clr 2][var 8][clr 27] [f 2 5 3 9999 0], Assim, [n][clr 2][var 9][clr 27] [f 2 5 3 9999 1], e...[n][w][e]
 [s][clr 2][var 10][clr 27] [f 2 5 3 9999 2]! Tudo em um conjunto![n][w][e]
 [s]Mas isso não é tudo! Temos ainda mais para[n]mostrar a você![n][w][e]
-[s]Aqui está o [clr 3]Kit ao ar livre [clr 27]! Domine os elementos de fogo, gelo e[n]eletricidade para se tornar um mestre de[n]acampamento![n][w][e]
+[s]Aqui está o [clr 3]Kit ao ar livre[clr 27]! Domine os elementos de[n]fogo, gelo e eletricidade para se tornar um[n]mestre deacampamento![n][w][e]
 [s][clr 2][var 12][clr 27] [f 2 5 3 9999 4], Assim, [n][clr 2][var 13][clr 27] [f 2 5 3 9999 5], e...[n][w][e]
-[s][clr 2][var 14][clr 27] [f 2 5 3 9999 6], todos juntos em um conjunto! Quão bom é[n]isso!?[n][w][e]
+[s][clr 2][var 14][clr 27] [f 2 5 3 9999 6], todos juntos em um[n]conjunto! Quão bom é isso!?[n][w][e]
 
 [msg TV_SHOPPING_ITEM_0529_01 [Male Host]]
-[s]Aqui está o [clr 3]Conjunto de presentes japoneses [clr 27]! Mostre seu amor pelo Japão com esses itens![n][w][e]
+[s]Aqui está o [clr 3]Conjunto de presentes japoneses[clr 27]![n]Mostre seu amor pelo Japão com esses itens![n][w][e]
 [s][clr 2][var 8][clr 27] [f 2 5 3 9999 0], Assim, [n][clr 2][var 9][clr 27] [f 2 5 3 9999 1], e...[n][w][e]
 [s][clr 2][var 10][clr 27] [f 2 5 3 9999 2]! Isso é tudo um conjunto, pessoal! Você não[n]quer perder![n][w][e]
 [s]Mas isso não é tudo! Ainda temos mais![n][w][e]
@@ -3095,7 +3095,7 @@
 [s][clr 2][var 8][clr 27] [f 2 5 3 9999 0]e [n][clr 2][var 9][clr 27] [f 2 5 3 9999 1]![n][w][e]
 [s]Ambos os itens em um conjunto! Que roubo![n][w][e]
 [s]Mas isso não é tudo! Tem mais![n][w][e]
-[s]Em seguida, o [clr 3]Conjunto de renascimento ocupado [clr 27]! Com isso, nada será capaz de mantê-lo[n]baixo![n][w][e]
+[s]Em seguida, o [clr 3]Conjunto de renascimento ocupado[clr 27]![n]Com isso, nada será capaz de mantê-lo baixo![n][w][e]
 [s][clr 2][var 12][clr 27] [f 2 5 3 9999 4]e [n][clr 2][var 13][clr 27] [f 2 5 3 9999 5]![n][w][e]
 [s]Ambos estarão em um conjunto! Que roubo![n][w][e]
 
@@ -3131,7 +3131,7 @@
 [s][clr 2][var 8][clr 27] [f 2 5 3 9999 0]e [n][clr 2][var 9][clr 27] [f 2 5 3 9999 1]![n][w][e]
 [s]Ambos os itens em um conjunto! Que roubo![n][w][e]
 [s]Mas isso não é tudo! Temos ainda mais para[n]mostrar a você![n][w][e]
-[s]Em seguida, o [clr 3]Conjunto de presentes florais [clr 27]! Um ótimo presente para qualquer pessoa em[n]sua vida que adora flores![n][w][e]
+[s]Em seguida, o [clr 3]Conjunto de presentes florais[clr 27]![n]Um ótimo presente para qualquer pessoa em[n]sua vida que adora flores![n][w][e]
 [s][clr 2][var 12][clr 27] [f 2 5 3 9999 4]e [n][clr 2][var 13][clr 27] [f 2 5 3 9999 5]![n][w][e]
 [s]Ambos os itens em um conjunto! Que roubo![n][w][e]
 
@@ -3149,7 +3149,7 @@
 [s][clr 2][var 8][clr 27] [f 2 5 3 9999 0]e [n][clr 2][var 9][clr 27] [f 2 5 3 9999 1]![n][w][e]
 [s]Ambos os itens em um conjunto! Que roubo![n][w][e]
 [s]Mas isso não é tudo! Temos ainda mais para[n]mostrar a você![n][w][e]
-[s]Em seguida, o [clr 3]Conjunto repelente de fantasmas [clr 27]! Não gosta do espírito do Halloween?[n]Assuste com isso![n][w][e]
+[s]Em seguida, o [clr 3]Conjunto repelente de fantasmas[clr 27]![n]Não gosta do espírito do Halloween?[n]Assuste com isso![n][w][e]
 [s][clr 2][var 12][clr 27] [f 2 5 3 9999 4]e [n][clr 2][var 13][clr 27] [f 2 5 3 9999 5]![n][w][e]
 [s]Ambos estarão em um conjunto! Que roubo![n][w][e]
 
@@ -3172,11 +3172,11 @@
 [s][clr 2][var 14][clr 27] [f 2 5 3 9999 6]! Impossível! Você está vendo esses acordos,[n]telespectadores!?[n][w][e]
 
 [msg TV_SHOPPING_ITEM_1127_01 [Male Host]]
-[s]Primeiro, o [clr 3]Conjunto Yaki-IMO [clr 27]! É tudo sobre outono, pessoal! Coma a[n]deliciosa IMO e leve sua resistência![n][w][e]
+[s]Primeiro, o [clr 3]Conjunto Yaki-IMO [clr 27]! É tudo sobre outono, pessoal![n]Com a deliciosa IMO e leve sua resistência![n][w][e]
 [s][clr 2][var 8][clr 27] [f 2 5 3 9999 0]e [n][clr 2][var 9][clr 27] [f 2 5 3 9999 1]![n][w][e]
 [s]Ambos os itens em um conjunto! Que roubo![n][w][e]
 [s]Mas espere! Tem mais![n][w][e]
-[s]Em seguida, o [clr 3]Conjunto de doces especiais [clr 27]! Esta é sua chance de obter esse item[n]especial![n][w][e]
+[s]Em seguida, o [clr 3]Conjunto de doces especiais [clr 27]![n]Esta é sua chance de obter esse item[n]especial![n][w][e]
 [s][clr 2][var 12][clr 27] [f 2 5 3 9999 4]e [n][clr 2][var 13][clr 27] [f 2 5 3 9999 5]![n][w][e]
 [s]Ambos os itens em um conjunto! Que roubo![n][w][e]
 
@@ -3191,7 +3191,7 @@
 [s]Todos esses itens em um conjunto!? Que[n]negócio incrível![n][w][e]
 
 [msg TV_SHOPPING_ITEM_0115_01 [Male Host]]
-[s]Primeiro, nós temos o [clr 3]Bolsa de trabalhador sortuda [clr 27]![n]Não perca a batalha contra o estresse! Volte[n]com esta bolsa de sorte![n][w][e]
+[s]Primeiro, nós temos o [clr 3]Bolsa de trabalhador sortuda[clr 27]![n]Não perca a batalha contra o estresse! Volte[n]com esta bolsa de sorte![n][w][e]
 [s][clr 2][var 8][clr 27] [f 2 5 3 9999 0], Assim, [n][clr 2][var 9][clr 27] [f 2 5 3 9999 1], e...[n][w][e]
 [s][clr 2][var 10][clr 27] [f 2 5 3 9999 2], tudo em um conjunto![n][w][e]
 [s]Mas espere! Tem mais![n][w][e]
@@ -3200,7 +3200,7 @@
 [s][clr 2][var 14][clr 27] [f 2 5 3 9999 6]! Todos esses itens por um preço baixo e[n]baixo! Pegue enquanto você pode![n][w][e]
 
 [msg TV_SHOPPING_ITEM_0122_01 [Male Host]]
-[s]Primeiro, nós temos o [clr 3]Talismã definido [clr 27]! Um conjunto de talismãs sortudos só para[n]você![n][w][e]
+[s]Primeiro, nós temos o [clr 3]Talismã definido [clr 27]![n]Um conjunto de talismãs sortudos só para[n]você![n][w][e]
 [s][clr 2][var 8][clr 27] [f 2 5 3 9999 0], Assim, [n][clr 2][var 9][clr 27] [f 2 5 3 9999 1], e...[n][w][e]
 [s][clr 2][var 10][clr 27] [f 2 5 3 9999 2]! Todos esses itens em um conjunto![n][w][e]
 [s]Mas espere! Tem mais![n][w][e]

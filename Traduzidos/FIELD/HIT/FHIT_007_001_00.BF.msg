@@ -6,7 +6,7 @@
 [s][vp 1 0 0 0 0 0]......[n][w][e]
 
 [msg MSG_LAST_GREETING_MAIDCA [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 53101 65535 0]This café was better than Leblanc in some[n]maneiras. Vamos voltar quando tivermos tempo.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 53101 65535 0]Este café era melhor que o Leblanc de alguma[n]maneira. Vamos voltar quando tivermos tempo.[n][w][e]
 
 [msg MSG_LAST_GREETING_MAIDCA_2 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]Você não tem tempo para brincar com[n]empregadas domésticas agora. Vamos dizer[n]adeus a todos.[n][w][e]

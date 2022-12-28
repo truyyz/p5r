@@ -121,12 +121,12 @@
 [s][bup 0 109 3 65535 0][f 4 10 65535 0 0][f 4 23 1 19 3 10 0 10][vp 8 2 1 15095 19 0]Eu... me desculpe...[n][w][e]
 
 [msg MSG_KYOTOU_003_02 [Vice Principal]]
-[s][vp 8 2 1 0 18 0]* suspiro* É por isso que o conselho está[n]preocupado conosco.[n][w][e]
+[s][vp 8 2 1 0 18 0]*suspiro* É por isso que o conselho está[n]preocupado conosco.[n][w][e]
 [s][vp 8 2 1 0 18 0]Precisamos provar que a Shujin Academy é uma[n]boa escola...[n][w][e]
 [s][vp 8 2 1 0 18 0]Oh, o que devo fazer?[n][w][e]
 
 [msg MSG_KYOTOU_003_03 [Vice Principal]]
-[s][f 4 23 1 18 3 10 0 10][vp 8 2 1 0 18 0]* suspiro* O conselho está preocupado porque[n]nossos professores não têm motivação.[n][w][e]
+[s][f 4 23 1 18 3 10 0 10][vp 8 2 1 0 18 0]*suspiro* O conselho está preocupado porque[n]nossos professores não têm motivação.[n][w][e]
 [s][vp 8 2 1 0 18 0]Precisamos provar que a Shujin Academy é uma[n]boa escola...[n][w][e]
 
 [msg MSG_KYOTOU_003_04 [Kawakami]]
@@ -135,15 +135,16 @@
 [msg NETOSUTO_talk_01 [Creepy Female Student]]
 [s][vp 8 2 1 0 24 0]Oh, Ikesugi-kun, você deve estar tão cansado.[n]Não se preocupe, eu estarei cuidando de[n]você...[n][w][e]
 [s][vp 8 2 1 0 24 0]*risada*Vou postar on-line e todos saberão o[n]que eu e ikesugi-kun[n]compartilham...*risando* [n][w][e]
-[s][vp 8 2 1 0 24 0]for him. ☆" *giggle*[n][w][e]
+[s][vp 8 2 1 0 24 0]para ele.☆" *risada*[n][w][e]
 
 [msg NETOSUTO_talk_02 [Creepy Female Student]]
-[s][vp 8 2 1 0 24 0]Vou dizer a eles: "Ele parecia um pouco[n]cansado... então eu massageei seus ombros[n]que ele está falando sobre o Sr. Kamoshida.[n]Gostaria de saber se esses "ladrões[n]fantasmas de corações" realmente existem...[n][w][e]
-[s][vp 8 2 1 0 24 0]* suspiro* Oh não! Se o coração de[n]Ikesugi-kun for roubado... eu... eu...[n][w][e]
-[s][vp 8 2 1 0 24 0]Eu vou... vou tricotar um lenço para ele[n]para o aniversário dele.[n]Nós ficaremos juntos. Eu só preciso tecer no[n]meu cabelo...[n][w][e]
+[s][vp 8 2 1 0 24 0]Vou dizer a eles: "Ele parecia um pouco cansado...[n]então eu massageei seus ombros que ele está[n]falando sobre o Sr. Kamoshida.[n][w][e]
+[s][vp 8 2 1 0 24 0]Gostaria de saber se esses "ladrões fantasmas[n]de corações" realmente existem...[n][w][e]
+[s][vp 8 2 1 0 24 0]*suspiro* Oh não! Se o coração de[n]Ikesugi-kun for roubado... eu... eu...[n][w][e]
+[s][vp 8 2 1 0 24 0]Eu vou... vou tricotar um lenço para ele para[n]o aniversário dele. Nós ficaremos juntos.[n]Eu só preciso tecer no meu cabelo...[n][w][e]
 
 [msg NETOSUTO_talk_03 [Creepy Female Student]]
-[s][vp 8 2 1 0 24 0]Você vadia, esse é o meu ikesugi-kun![n]* suspiro* Espere, ela é uma daquelas[n]"ladrões fantasmas de corações"!?[n][w][e]
+[s][vp 8 2 1 0 24 0]Você vadia, esse é o meu ikesugi-kun![n]*suspiro* Espere, ela é uma daquelas[n]"ladrões fantasmas de corações"!?[n][w][e]
 [s][vp 8 2 1 0 24 0]O que você está fazendo com o homem de outra[n]pessoa!? Queima, puta trampada![n]Queimar e sangrar em uma tempestade de[n]sangue![n][w][e]
 [s][vp 8 2 1 0 24 0]Eu nunca vou deixar mais alguém tê-lo.[n]Ikesugi-kun pertence a mim, apenas eu![n][w][e]
 
@@ -154,7 +155,7 @@
 
 [msg NETOSUTO_talk_05 [Creepy Female Student]]
 [s][vp 8 2 1 0 24 0]Eles não podem roubar o "coração" de[n]Ikesugi-kun![n]É meu! Yumeko Mogami e Ikesugi-kun pertencem[n]juntos![n][w][e]
-[s][vp 8 2 1 0 24 0]Oh, espere... quando eu me casar com ele,[n]serei yumeko ikesugi... *risando * [n][w][e]
+[s][vp 8 2 1 0 24 0]Oh, espere... quando eu me casar com ele,[n]serei yumeko ikesugi... *risando* [n][w][e]
 [s][vp 8 2 1 0 24 0]Vou postar on-line sobre qualquer pessoa que[n]atrapalhe. E eles vão sangrar! Vai ser uma[n]tempestade de sangue![n][w][e]
 
 [msg NETOSUTO_talk_05_02 [Creepy Female Student]]
@@ -205,7 +206,7 @@
 [s][f 4 23 1 26 3 10 0 10][vp 8 2 1 0 26 0]Essa coisa de Kamoshida surgiu do nada. Ele[n]estava tipo, "Vou assumir a[n]responsabilidade me matando!" [n][w][e]
 
 [msg MSG_NETOSUTO_BOY_002_1_0 [Handsome Student]]
-[s][f 4 23 1 25 3 10 0 10][vp 8 2 1 0 25 0]Mas uma assembléia matinal para toda a[n]escola? Talvez os "ladrões fantasmas de[n]corações" fossem- *gritos * [n][w][e]
+[s][f 4 23 1 25 3 10 0 10][vp 8 2 1 0 25 0]Mas uma assembléia matinal para toda a[n]escola? Talvez os "ladrões fantasmas de[n]corações" fossem- *gritos* [n][w][e]
 
 [msg MSG_NETOSUTO_BOY_002_2_0 [Glib Male Student]]
 [s][f 4 23 1 26 3 10 0 10][vp 8 2 1 0 26 0]Huh? O que está errado?[n][w][e]
@@ -394,7 +395,7 @@
 
 [msg MSG_SINBUNJYOSI_005_3_0 [Newspaper Club Member]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Esse novo conselheiro parece ser bastante[n]popular entre os alunos.[n][w][e]
-[s][vp 8 2 1 0 1 0]Claro, nem todo mundo está a bordo.[n]Alguns acham que a escola está apenas[n]tentando mitigar o dano que Kamoshida[n]causou.[n][w][e]
+[s][vp 8 2 1 0 1 0]Claro, nem todo mundo está a bordo. Alguns[n]acham que a escola está apenas tentando[n]mitigar o dano que Kamoshida causou.[n][w][e]
 
 [msg MSG_SINBUNJYOSI_005_4_0 [Newspaper Club Member]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]O Shujin Academy Newspaper Club tem uma[n]história real. Alguns de nossos ex-alunos[n]trabalham em mídia de massa agora.[n][w][e]

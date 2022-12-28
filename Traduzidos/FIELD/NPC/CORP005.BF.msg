@@ -137,7 +137,7 @@
 [s][bup 0 103 0 65535 0][f 4 23 1 205 33 10 33 10][f 4 23 1 235 31 10 30 10][vp 8 2 1 5089 65535 0][f 4 10 65535 0 0]Você encontrou alguém que vai sair com você[n]na escola? Certifique-se de escolher seus[n]amigos com cuidado.[n][w][e]
 
 [msg MSG_SOJIRO_NG_D03_03 [Sojiro]]
-[s][bup 0 103 0 65535 0][f 4 23 1 205 33 10 33 10][f 4 23 1 235 31 10 30 10][vp 8 2 1 5020 65535 0][f 4 10 65535 0 0]A estação chuvosa termina, o verão começa...[n]* suspiro* que dor.[n][w][e]
+[s][bup 0 103 0 65535 0][f 4 23 1 205 33 10 33 10][f 4 23 1 235 31 10 30 10][vp 8 2 1 5020 65535 0][f 4 10 65535 0 0]A estação chuvosa termina, o verão começa...[n]*suspiro* que dor.[n][w][e]
 
 [msg MSG_SOJIRO_NG_D03_04 [Sojiro]]
 [s][bup 0 103 0 65535 0][f 4 23 1 205 33 10 33 10][f 4 23 1 235 31 10 30 10][vp 8 2 1 5018 65535 0][f 4 10 65535 0 0]Você está vivendo uma vida honesta?[n]Lembre-se de que sou eu quem está julgando[n]se você foi reabilitado.[n][w][e]

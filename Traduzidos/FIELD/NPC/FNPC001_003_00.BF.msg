@@ -416,15 +416,15 @@
 [s][vp 8 2 1 0 2 0]Espero que você continue apoiando o D-Kyun![n]Ok? Ok?[n][w][e]
 
 [msg MSG_TIKAAIDORU_001_6_0 [Small-Time Indie Idol]]
-[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]* Whine* Mas eu me meio-quero dizer,[n]trabalhei tanto fazê-los com sobras de[n]farinha![n][w][e]
+[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]*choramingar* Mas eu me meio-quero dizer,[n]trabalhei tanto fazê-los com sobras de[n]farinha![n][w][e]
 [s][vp 8 2 1 0 2 0]Eu acho que apenas os cookies não vão[n]cortar. Mas estou sem dinheiro. *gemido* [n][w][e]
 
 [msg MSG_TIKAAIDORU_001_7_0 [Small-Time Indie Idol]]
-[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]* WHURE* Mas eu coloquei tanto amor em iiit![n][w][e]
+[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]*WHURE* Mas eu coloquei tanto amor em nisso![n][w][e]
 [s][vp 8 2 1 0 2 0]Nesse ritmo, meus fundos de atividade[n]estão... tudo bem, vou me promover online[n]também![n][w][e]
 
 [msg TIKAAIDORU_NG [Small-Time Indie Idol]]
-[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Hmmm? Você não tem dinheiro suficiente.[n]Please come again to buy one. ☆[n][w][e]
+[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Hmmm? Você não tem dinheiro suficiente.[n]Por favor, volte para comprar um. ☆[n][w][e]
 
 [msg MSG_TIKAAIDORU_002_0_0 [Small-Time Indie Idol]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Surpresa, questionário de rua![n][w][e]
@@ -446,7 +446,7 @@
 [s][vp 8 2 1 0 2 0]Se você estiver interessado, procure-nos na[n]internet! Certifique-se de nos apoiar, ok?[n]Ok?[n][w][e]
 
 [msg MSG_TIKAAIDORU_002_3_0 [Small-Time Indie Idol]]
-[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]* grito* A verdade com certeza machuca...[n][w][e]
+[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]*grito* A verdade com certeza machuca...[n][w][e]
 [s][vp 8 2 1 0 2 0]Preciso anunciar mais online quando chegar[n]em casa. O caminho de um ídolo começa com[n]um clique![n][w][e]
 
 [msg MSG_TIKAAIDORU_003_0_0 [Small-Time Indie Idol]]
@@ -469,7 +469,7 @@
 [s][vp 8 2 1 0 2 0]Espero que você continue apoiando o D-Kyun![n]Ok? Ok?[n][w][e]
 
 [msg MSG_TIKAAIDORU_003_3_0 [Small-Time Indie Idol]]
-[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Isso me deixa triste... * Sniffle * Preciso[n]assumir mais empregos de meio período agora.[n][w][e]
+[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Isso me deixa triste... *Sniffle* Preciso[n]assumir mais empregos de meio período agora.[n][w][e]
 [s][vp 8 2 1 0 2 0]Não tenho muitos fundos de atividade. Vou[n]tentar me promover mais online...[n][w][e]
 
 [msg MSG_TIKAAIDORU_003_4_0 [Small-Time Indie Idol]]
@@ -511,7 +511,7 @@
 [s][vp 8 2 1 0 2 0]Espero que você continue apoiando o D-Kyun![n]Ok? Ok?[n][w][e]
 
 [msg MSG_TIKAAIDORU_004_6_0 [Small-Time Indie Idol]]
-[s][vp 8 2 1 0 2 0]Estou chocado... * Sniffle * Nesse ritmo,[n]nem vou conseguir participar das minhas[n]aulas...[n][w][e]
+[s][vp 8 2 1 0 2 0]Estou chocado... *Sniffle* Nesse ritmo,[n]nem vou conseguir participar das minhas[n]aulas...[n][w][e]
 [s][vp 8 2 1 0 2 0]Estou ocupado com Stealth Mar- quero dizer,[n]cheques do Boletim Board também. Eu não[n]tenho dinheiro suficiente.[n][w][e]
 
 [msg MSG_TIKAAIDORU_004_7_0 [Small-Time Indie Idol]]
@@ -519,7 +519,7 @@
 [s][vp 8 2 1 0 2 0]Eu preciso trabalhar muito mais em nossas[n]promoções! Hora de trabalhar mais na rede[n]patrulha![n][w][e]
 
 [msg MSG_TIKAAIDORU_005_0_0 [Small-Time Indie Idol]]
-[s][vp 8 2 1 0 2 0]Verificando o que as pessoas estão dizendo[n]onliiine![n]Os tópicos quentes de Shibuya são...[n]*Drumroll * [n][w][e]
+[s][vp 8 2 1 0 2 0]Verificando o que as pessoas estão dizendo[n]onliiine![n]Os tópicos quentes de Shibuya são...[n]*Drumroll* [n][w][e]
 [s][vp 8 2 1 0 2 0]"Crimes frequentes em Shibuya." "Eu quase[n]morri em assalto." "É super perigoso aqui." [n][w][e]
 [s][vp 8 2 1 0 2 0]O que é isso!? O que está acontecendo com[n]Shibuya?[n][w][e]
 
@@ -528,11 +528,11 @@
 [s]Me dê o seu dinheiro.[e]
 
 [msg MSG_TIKAAIDORU_005_1_0 [Small-Time Indie Idol]]
-[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]* grito* você me assustou![n][w][e]
+[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]*grito* você me assustou![n][w][e]
 [s][vp 8 2 1 0 2 0]Estou bravo por você ter conseguido me[n]surpreender assim![n][w][e]
 
 [msg MSG_TIKAAIDORU_005_2_0 [Small-Time Indie Idol]]
-[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]* grito* Eu não tenho dinheiro! Estou[n]lutando o suficiente apenas para fazer[n]minhas atividades de ídolo![n][w][e]
+[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]*grito* Eu não tenho dinheiro! Estou[n]lutando o suficiente apenas para fazer[n]minhas atividades de ídolo![n][w][e]
 [s][vp 8 2 1 0 2 0]... Espere, você não é um dos meus fãs?[n]Por favor, não me assuste assim. Hmph.[n][w][e]
 
 [msg MSG_TIKAAIDORU_005_3_0 [Small-Time Indie Idol]]
@@ -556,7 +556,7 @@
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]*gasp* It's not a lie... It's just an image~![n][w][e]
 
 [msg MSG_TIKAAIDORU_006_3_0 [Small-Time Indie Idol]]
-[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]* risada* Vou continuar assim e entrar nos[n]principais ídolos![n][w][e]
+[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]*risada* Vou continuar assim e entrar nos[n]principais ídolos![n][w][e]
 
 [msg MSG_TIKAAIDORU_006_4_0 [Small-Time Indie Idol]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]E assim, mais uma vez... este é o ídolo do[n]estilo Phantom Thieves, D-Kyun![n][w][e]
@@ -568,7 +568,7 @@
 [s]As pessoas compram isso?[e]
 
 [msg MSG_TIKAAIDORU_006_5_0 [Small-Time Indie Idol]]
-[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]called, "He's a Trickster☆"![n][w][e]
+[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]chamado, "Ele é um Malandro ☆"![n][w][e]
 [s][vp 8 2 1 0 2 0]Agradeço sua compra! Este é um grupo de[n]ídolos do estilo Phantom Thieves, D-Kyun![n]Ok? Ok?[n][w][e]
 
 [msg MSG_TIKAAIDORU_006_6_0 [Small-Time Indie Idol]]
@@ -576,11 +576,11 @@
 [s][vp 8 2 1 0 2 0]Espero que você continue apoiando o D-Kyun![n]Ok? Ok?[n][w][e]
 
 [msg MSG_TIKAAIDORU_006_7_0 [Small-Time Indie Idol]]
-[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]* sombria*... estou chocado! O que vou fazer[n]sobre os fundos de atividade...?[n][w][e]
+[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]*sombria*... estou chocado! O que vou fazer[n]sobre os fundos de atividade...?[n][w][e]
 
 [msg MSG_TIKAAIDORU_006_8_0 [Small-Time Indie Idol]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Ochhh! Seja como for, estou acostumado a[n]isso, de qualquer maneira... *beicinho * [n][w][e]
-[s][vp 8 2 1 0 2 0]Vou ter que mudar de direção novamente se[n]isso não vender. Estou acostumado com isso[n]também... *Sniffle * [n][w][e]
+[s][vp 8 2 1 0 2 0]Vou ter que mudar de direção novamente se[n]isso não vender. Estou acostumado com isso[n]também... *Sniffle* [n][w][e]
 
 [msg MSG_TIKAAIDORU_007_0_0 [Fanatical Man]]
 [s][f 4 23 1 3 3 10 0 10][vp 8 2 1 0 3 0]Chika-chan, ouvi a nova música! O estilo[n]Phantom Thieves é Amaaazinggg.[n][w][e]
@@ -595,7 +595,7 @@
 [s][f 4 23 1 3 3 10 0 10][vp 8 2 1 0 3 0]Oh... certifique-se de que você também[n]compre "ele é a nova música também é um[n]grande sucesso no boletim! As pessoas[n]realmente acham que é divino![n][w][e]
 
 [msg MSG_TIKAAIDORU_007_3_0 [Small-Time Indie Idol]]
-[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]* grito* Estou super agradecido! Vou[n]trabalhar mais para ampliar meu apelo![n][w][e]
+[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]*grito* Estou super agradecido! Vou[n]trabalhar mais para ampliar meu apelo![n][w][e]
 
 [msg MSG_TIKAAIDORU_007_3_1 [Small-Time Indie Idol]]
 [s][vp 8 2 1 0 2 0]a Trick☆ster→"![n][w][e]
@@ -606,7 +606,7 @@
 [s]Que tipo de música é essa?[e]
 
 [msg MSG_TIKAAIDORU_007_4_0 [Small-Time Indie Idol]]
-[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]"He's a Trickster☆"![n][w][e]
+[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]"Ele é um Malandro☆"![n][w][e]
 [s][vp 8 2 1 0 2 0]Agradeço o seu compras! Aqui está o D-Kyun,[n]um novo grupo de ídolos sensacionais do[n]estilo Phantom Thieves![n]Sempre me apoie, ok? Ok?[n][w][e]
 
 [msg MSG_TIKAAIDORU_007_5_0 [Small-Time Indie Idol]]
@@ -640,14 +640,14 @@
 [s]Eu superei.[e]
 
 [msg MSG_TIKAAIDORU_008_3_0 [Small-Time Indie Idol]]
-[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]* grito* muito obrigado! Aqui está o seu[n]"biscoito D-Kyun"![n][w][e]
+[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]*grito* muito obrigado! Aqui está o seu[n]"biscoito D-Kyun"![n][w][e]
 [s][vp 8 2 1 0 2 0]O sabor encantador levará seu coração![n]Devo investigar você? HM? HM?[n][w][e]
 
 [msg MSG_TIKAAIDORU_008_4_0 [Small-Time Indie Idol]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Hmmm? Você já comprou um pouco, certo?[n]Você deve ter cuidado e não comer muito, ok?[n]Ok?[n][w][e]
 
 [msg MSG_TIKAAIDORU_008_5_0 [Small-Time Indie Idol]]
-[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]* SOB* Mas eu passei por todo esse problema[n]para assar isso... preciso trabalhar mais[n]no meu apelo![n][w][e]
+[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]*SOB* Mas eu passei por todo esse problema[n]para assar isso... preciso trabalhar mais[n]no meu apelo![n][w][e]
 
 [msg MSG_TIKAAIDORU_008_6_0 [Small-Time Indie Idol]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Por favor, não diga thaaat! Eu preciso de[n]mais fundos de atividade... wahhh![n][w][e]
@@ -676,14 +676,14 @@
 
 [msg MSG_TIKAAIDORU_009_5_0 [Small-Time Indie Idol]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Trick☆ster→"![n][w][e]
-[s][vp 8 2 1 0 2 0]Nosso primeiro lançamento do estilo Phantom[n]Thieves, a primeira edição limitada de "Ele[n]é um agradecimento por sua compra! * Bow *[n]memorize a letra para que você possa cantar[n]comigo![n][w][e]
+[s][vp 8 2 1 0 2 0]Nosso primeiro lançamento do estilo Phantom[n]Thieves, a primeira edição limitada de "Ele[n]é um agradecimento por sua compra! *Bow*[n]memorize a letra para que você possa cantar[n]comigo![n][w][e]
 
 [msg MSG_TIKAAIDORU_009_6_0 [Small-Time Indie Idol]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Eu cozinhei com muito amor! "Cookie D-Kyun"![n][w][e]
-[s][vp 8 2 1 0 2 0]Obrigado pela sua compra! * curva* Mas não é[n]minha culpa se você tiver uma dor de[n]barriga, ok? Ok?[n][w][e]
+[s][vp 8 2 1 0 2 0]Obrigado pela sua compra! *curva* Mas não é[n]minha culpa se você tiver uma dor de[n]barriga, ok? Ok?[n][w][e]
 
 [msg MSG_TIKAAIDORU_009_7_0 [Small-Time Indie Idol]]
-[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Quão decepcionante... * SOB * a essa taxa,[n]meus fundos de atividade irão...[n][w][e]
+[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Quão decepcionante... *SOB* a essa taxa,[n]meus fundos de atividade irão...[n][w][e]
 
 [msg MSG_TIKAAIDORU_009_8_0 [Small-Time Indie Idol]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Hm-hm? Você comprou isso de mim antes![n][w][e]
@@ -693,7 +693,7 @@
 [s][f 4 23 1 3 3 10 0 10][vp 8 2 1 0 3 0]Você também é fã de D-Kyun, certo?[n]Eu posso dizer, mesmo que você esteja[n]escondendo isso...[n]*risada assustadora* [n][w][e]
 
 [msg MSG_TIKAAIDORU_009_10_0 [Small-Time Indie Idol]]
-[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Obrigado a todos... * SOB * Vou viver de[n]acordo com suas expectativas! Vamos fazer[n]isso![n][w][e]
+[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Obrigado a todos... *SOB* Vou viver de[n]acordo com suas expectativas! Vamos fazer[n]isso![n][w][e]
 
 [msg MSG_TIKAAIDORU_010_0_0 [Small-Time Indie Idol]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Oh, Ding Ding! Você é o cara que sempre[n]compra de mim, certo?[n][w][e]
@@ -715,7 +715,7 @@
 [msg MSG_TIKAAIDORU_010_3_0 [Small-Time Indie Idol]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Ah, Ding Ding![f 4 1]-san, certo?[n][w][e]
 [s][vp 8 2 1 0 2 0]Obrigado pelo seu apoio constante! Está[n]carregando meu medidor de energia[n]hiperativa![n][w][e]
-[s][vp 8 2 1 0 2 0]* Grunt* agora está cheio! Hora de trabalhar[n]duro novamente hoje! Vamos fazer isso![n][w][e]
+[s][vp 8 2 1 0 2 0]*Grunt* agora está cheio! Hora de trabalhar[n]duro novamente hoje! Vamos fazer isso![n][w][e]
 
 [msg MSG_TIKAAIDORU_010_4_0 [Small-Time Indie Idol]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Você quer alguns produtos promocionais[n]oficiais?[n]Você terá muita coisa em tudo agora![n][w][e]
@@ -744,7 +744,7 @@
 [s][vp 8 2 1 0 2 0]Continue indo e complete a coleção inteira![n]Talvez algo de bom aconteça se você dooo?[n][w][e]
 
 [msg MSG_TIKAAIDORU_010_9_0 [Small-Time Indie Idol]]
-[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Que decepção... * Sniff * estávamos entrando[n]em nosso ritmo...[n][w][e]
+[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Que decepção... *Sniff* estávamos entrando[n]em nosso ritmo...[n][w][e]
 [s][vp 8 2 1 0 2 0]Não há dúvida de que esses preços aumentarão[n]no futuro! Compre agora antes que seja[n]muito laaate![n][w][e]
 
 [msg MSG_TIKAAIDORU_011_0_0 [Small-Time Indie Idol]]
@@ -757,7 +757,7 @@
 [s]Você está trabalhando duro.[e]
 
 [msg MSG_TIKAAIDORU_011_1_0 [Small-Time Indie Idol]]
-[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]* risada* de nada, [n][f 4 1]-san! Teehee![n][w][e]
+[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]*risada* de nada, [n][f 4 1]-san! Teehee![n][w][e]
 [s][vp 8 2 1 0 2 0]Espero que você continue apoiando o D-Kyun![n]Ok? Ok?[n][w][e]
 
 [msg MSG_TIKAAIDORU_011_2_0 [Small-Time Indie Idol]]
@@ -784,7 +784,7 @@
 [s][vp 8 2 1 0 2 0][f 4 1]-San, espero que você continue apoiando[n]D-Kyun a partir de agora, ok?[n]Ok?[n][w][e]
 
 [msg MSG_TIKAAIDORU_011_8_0 [Small-Time Indie Idol]]
-[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]* Slump* você é tão significativo.[n][w][e]
+[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]*Slump* você é tão significativo.[n][w][e]
 [s][vp 8 2 1 0 2 0]Eu quero me aproximar de você. Essa[n]distância sutil entre nós irrita meee.[n][w][e]
 
 [msg MSG_TIKAAIDORU_011_9_0 [Small-Time Indie Idol]]
@@ -803,12 +803,12 @@
 [s][vp 8 2 1 0 2 0]Cuidado com produtos semelhantes, ok? Ok?[n]Vamos fazer thiiiis![n][w][e]
 
 [msg MSG_TIKAAIDORU_011_11_0 [Small-Time Indie Idol]]
-[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]cute! This is "He's a Trickster☆"![n][w][e]
+[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]bonitinho! Isso é "He's a Trickster☆"![n][w][e]
 [s][vp 8 2 1 0 2 0]Até as notas fora da chave são encantadoras[n]e mais, esta é a primeira edição limitada![n]Você perderá se não conseguir agora![n]Compre um![n][w][e]
 
 [msg MSG_TIKAAIDORU_011_12_0 [Small-Time Indie Idol]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Wayyy passou da data de validade? Isso[n]apenas aumenta a emoção! Este é "D-Kyun[n]Cookie"![n][w][e]
-[s][vp 8 2 1 0 2 0]Eu fiz isso com muito amor. * Tremble*[n]Reserve o seu tempo quando você gosta, ok?[n]Ok?[n][w][e]
+[s][vp 8 2 1 0 2 0]Eu fiz isso com muito amor. *Tremble*[n]Reserve o seu tempo quando você gosta, ok?[n]Ok?[n][w][e]
 
 [msg MSG_TIKAAIDORU_011_13_0 [Small-Time Indie Idol]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Não! Você já comprou isso antes![n]Hmph![n][w][e]
@@ -819,7 +819,7 @@
 [s][vp 8 2 1 0 2 0]Não é minha culpa se eles desaparecerem, ok?[n]Ok?[n][w][e]
 
 [msg MSG_TIKAAIDORU_012_0_0 [Small-Time Indie Idol]]
-[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]* Drumroll* Hora de verificar a palavra que[n]todos na cidade estão interessados![n][w][e]
+[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]*Drumroll* Hora de verificar a palavra que[n]todos na cidade estão interessados![n][w][e]
 [s][vp 8 2 1 0 2 0]"Phantom ladrões em destaque!" "Os ídolos[n]inspirados por ladrões Phantom aparecem com[n]uma nova linha de produtos!" [n][w][e]
 [s][vp 8 2 1 0 2 0]Tadahhhh♪ We may even get an offer[n]De "Good Morning Japan"? Wowww![n][w][e]
 
@@ -837,7 +837,7 @@
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]As vendas de mercadorias estão indo muito[n]bem![n]D-Kyun Suuuper suporta os ladrões Phantom![n][w][e]
 
 [msg MSG_TIKAAIDORU_012_4_0 [Small-Time Indie Idol]]
-[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]* Drumroll* Hora de verificar a palavra que[n]todos na cidade estão interessados![n][w][e]
+[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]*Drumroll* Hora de verificar a palavra que[n]todos na cidade estão interessados![n][w][e]
 [s][vp 8 2 1 0 2 0]"Phantom ladrões em destaque!" "Os ídolos[n]inspirados por ladrões Phantom aparecem com[n]uma nova linha de produtos!" [n][w][e]
 [s][vp 8 2 1 0 2 0]Tadahhhh♪ We may even get an offer[n]De "Good Morning Japan"? Wowww![n][w][e]
 
@@ -924,7 +924,7 @@
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Se as pessoas começam a me odiar online,[n]minha carreira como ídolo acabou. Wahhhh![n][w][e]
 
 [msg MSG_TIKAAIDORU_014_3_0 [Small-Time Indie Idol]]
-[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Buuut isso é impossível! *Onomatopeia de[n]cheirar* [n][w][e]
+[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Mas isso é impossível! *Sniffle* [n][w][e]
 
 [msg MSG_TIKAAIDORU_014_4_0 [Small-Time Indie Idol]]
 [s][vp 8 2 1 0 2 0]Não consigo acompanhar apenas a minha marca[n]furtiva-quero dizer, comentários de[n]acompanhamento.[n][w][e]
@@ -944,7 +944,7 @@
 [msg MSG_TIKAAIDORU_016_0_0 [Small-Time Indie Idol]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Fwehhhn, [f 4 1]-San... temos um grande problema.[n][w][e]
 [s][vp 8 2 1 0 2 0]O Conselho de Boletim Idol está dizendo: "Os[n]ladrões fantasmas são maus, e eu matarei[n]Chika por apoiá-los".[n][w][e]
-[s][vp 8 2 1 0 2 0]Minha vida privada e nome real já foram[n]expostos... *choramingos * [n][w][e]
+[s][vp 8 2 1 0 2 0]Minha vida privada e nome real já foram[n]expostos... *choramingos* [n][w][e]
 
 [sel SEL_TIKAAIDORU_016_0_0 top]
 [s]Vá para a polícia.[e]
@@ -964,13 +964,13 @@
 [s][vp 8 2 1 0 2 0]Porque este é o meu feito à mão... não, não,[n]não importa![n][w][e]
 
 [msg MSG_TIKAAIDORU_016_4_0 [Small-Time Indie Idol]]
-[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Não acredito que teria uma ameaça de[n]assassinato.[n]Pobre eu... *fungando * [n][w][e]
+[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Não acredito que teria uma ameaça de[n]assassinato.[n]Pobre eu... *fungando* [n][w][e]
 [s][vp 8 2 1 0 2 0]Como é tão dramático, acho que talvez as[n]pessoas falem sobre isso. Espero que isso[n]aconteça logo...[n][w][e]
 [s][vp 8 2 1 0 2 0]Dessa forma, a reputação de D-Kyun vai...[n]Juuust brincando... eu não quis dizer isso.[n]Teehee.[n][w][e]
 
 [msg MSG_TIKAAIDORU_016_5_0 [Small-Time Indie Idol]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]O Conselho de Boletim Idol está dizendo: "Os[n]ladrões fantasmas são maus, e eu matarei[n]Chika por apoiá-los".[n][w][e]
-[s][vp 8 2 1 0 2 0]Minha vida privada e nome real já foram[n]expostos... *choramingos * [n][w][e]
+[s][vp 8 2 1 0 2 0]Minha vida privada e nome real já foram[n]expostos... *choramingos* [n][w][e]
 
 [msg MSG_TIKAAIDORU_016_6_0 [Fanatical Man]]
 [s][f 4 23 1 3 3 10 0 10][vp 8 2 1 0 3 0]Eu seria terrível se algo acontecesse com[n]Chika-chan! Vamos para a polícia[n]imediatamente![n][w][e]
@@ -980,7 +980,7 @@
 [s][vp 8 2 1 0 2 0]A polícia está ocupada com o incidente do[n]Phantom Thieves, sabe? Vamos apenas esperar[n]e ver...[n][w][e]
 
 [msg MSG_TIKAAIDORU_016_8_0 [Small-Time Indie Idol]]
-[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Não acredito que teria uma ameaça de[n]assassinato.[n]Pobre eu... *fungando * [n][w][e]
+[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Não acredito que teria uma ameaça de[n]assassinato.[n]Pobre eu... *fungando* [n][w][e]
 [s][vp 8 2 1 0 2 0]Como é tão dramático, acho que talvez as[n]pessoas falem sobre isso. Espero que isso[n]aconteça logo...[n][w][e]
 [s][vp 8 2 1 0 2 0]Dessa forma, a reputação de D-Kyun vai...[n]Juuust brincando... eu não quis dizer isso.[n]Teehee.[n][w][e]
 
@@ -1000,10 +1000,10 @@
 [s]O que você fará a partir de agora?[e]
 
 [msg MSG_TIKAAIDORU_017_1_0 [Small-Time Indie Idol]]
-[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]* chorão*... você estava preocupado comigo?[n]Por favor, me perdoe por agir tão estúpido...[n][w][e]
+[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]*chorão*... você estava preocupado comigo?[n]Por favor, me perdoe por agir tão estúpido...[n][w][e]
 
 [msg MSG_TIKAAIDORU_017_2_0 [Small-Time Indie Idol]]
-[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]* chorão* eu sou... Causei problemas por[n]tantas pessoas...[n][w][e]
+[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]*chorão* eu sou... Causei problemas por[n]tantas pessoas...[n][w][e]
 
 [msg MSG_TIKAAIDORU_017_3_0 [Small-Time Indie Idol]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Os ladrões Phantom Fad estão chegando ao[n]fim. Nossos fãs, até nosso grupo de ídolos,[n]podem ser divididos...[n][w][e]
@@ -1087,7 +1087,7 @@
 [s]E os outros membros?[e]
 
 [msg MSG_TIKAAIDORU_020_1_0 [Small-Time Indie Idol]]
-[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Você prometeu que não diria isso...[n]* Sniffle* bem, eu era apenas um pequeno[n]ídolo indie...[n][w][e]
+[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Você prometeu que não diria isso...[n]*Sniffle* bem, eu era apenas um pequeno[n]ídolo indie...[n][w][e]
 [s][vp 8 2 1 0 2 0]Causei muitos problemas, então achei que[n]deveria acertar as coisas.[n][w][e]
 
 [msg MSG_TIKAAIDORU_020_2_0 [Small-Time Indie Idol]]
@@ -1113,7 +1113,7 @@
 [s]E os outros membros?[e]
 
 [msg MSG_TIKAAIDORU_020_6_0 [Small-Time Indie Idol]]
-[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Você prometeu que não diria isso...[n]* Sniffle* bem, eu era apenas um pequeno[n]ídolo indie...[n][w][e]
+[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Você prometeu que não diria isso...[n]*Sniffle* bem, eu era apenas um pequeno[n]ídolo indie...[n][w][e]
 [s][vp 8 2 1 0 2 0]Causei muitos problemas, então achei que[n]deveria acertar as coisas.[n][w][e]
 
 [msg MSG_TIKAAIDORU_020_7_0 [Small-Time Indie Idol]]
@@ -3787,7 +3787,7 @@
 [s]Eu acho que não.[e]
 
 [msg MSG_AKIYAMAS_003_0_0 [Akiyama]]
-[s][f 4 23 1 780 3 10 0 10][vp 8 2 1 0 780 0]* risada*... faz sentido. Bem, você poderia[n]transmitir minha mensagem para ele?[n][w][e]
+[s][f 4 23 1 780 3 10 0 10][vp 8 2 1 0 780 0]*risada*... faz sentido. Bem, você poderia[n]transmitir minha mensagem para ele?[n][w][e]
 [s][vp 8 2 1 0 780 0]Diga a ele que vou pagar minha dívida com[n]ele...[n]Não posso deixar Mishima se sentir como um[n]herói para sempre.[n][w][e]
 
 [msg MSG_AKIYAMAS_004_0_0 [Short-Haired High Schooler]]

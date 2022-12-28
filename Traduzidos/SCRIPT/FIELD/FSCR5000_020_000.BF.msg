@@ -95,34 +95,34 @@
 [s][bup 0 9 10 65535 0][f 4 10 65535 0 0]Nosso alvo não parece estar aqui.[n]Vamos explorar?[n][w][e]
 
 [msg GOTO_MEME_EXIST_TARGET_m [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0]Ei quantos alvos obtivemos?[n][var 0]Dei, sim? Vamos fazer isso.[n][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0]Ei quantos alvos obtivemos?[n][var 0] Dei, sim? Vamos fazer isso.[n][w][e]
 
 [msg GOTO_MEME_EXIST_TARGET_m_2 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0]No momento, nossa contagem de alvos em[n]lembranças é [n][var 0]. Bem, vamos.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0]No momento, nossa contagem de alvos em[n]lembranças é [var 0]. Bem, vamos.[n][w][e]
 
 [msg GOTO_MEME_EXIST_TARGET_m_3 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0]Vamos ver, quantos alvos temos...?[n][var 0]deles? Devemos começar?[n][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0]Vamos ver, quantos alvos temos...?[n][var 0] deles? Devemos começar?[n][w][e]
 
 [msg GOTO_MEME_EXIST_TARGET_m_4 [Yusuke]]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0]O número de alvos residentes em lembranças é [var 0]Atualmente. Agora então, devemos entrar?[n][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0]O número de alvos residentes em lembranças é[n][var 0] Atualmente. Agora então, devemos entrar?[n][w][e]
 
 [msg GOTO_MEME_EXIST_TARGET_m_5 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 10 65535 0 0]HM, vamos considerar nosso total alvo.[n]Nós conhecemos [var 0]Atualmente em lembranças, sim? Vamos.[n][w][e]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0]HM, vamos considerar nosso total alvo.[n]Nós conhecemos [var 0] Atualmente em[n]lembranças, sim? Vamos.[n][w][e]
 
 [msg GOTO_MEME_EXIST_TARGET_m_6 [Futaba]]
-[s][bup 0 8 0 65535 0][f 4 10 65535 0 0]Alvos? Há prolly [var 0]lá agora. Vamos lá, vamos derrubá-los.[n][w][e]
+[s][bup 0 8 0 65535 0][f 4 10 65535 0 0]Alvos? Há prolly [var 0] lá agora.[n]Vamos lá, vamos derrubá-los.[n][w][e]
 
 [msg GOTO_MEME_EXIST_TARGET_m_7 [Haru]]
-[s][bup 0 7 0 65535 0][f 4 10 65535 0 0]Oh, sobre nossos alvos... parece que temos [n][var 0]para buscar agora. Nós devemos ir.[n][w][e]
+[s][bup 0 7 0 65535 0][f 4 10 65535 0 0]Oh, sobre nossos alvos... parece que temos [n][var 0] para buscar agora. Nós devemos ir.[n][w][e]
 
 [msg GOTO_MEME_EXIST_TARGET_m_8 [Akechi]]
-[s][bup 0 9 0 65535 0][f 4 10 65535 0 0]HM, vamos considerar nosso total alvo.[n]Nós conhecemos [var 0]Atualmente em lembranças, sim? Vamos.[n][w][e]
+[s][bup 0 9 0 65535 0][f 4 10 65535 0 0]HM, vamos considerar nosso total alvo.[n]Nós conhecemos [var 0] Atualmente em[n]lembranças, sim? Vamos.[n][w][e]
 
 [msg GOTO_MEME_EXIST_TARGET_m_9 [Sumire]]
-[s][bup 0 10 0 65535 0][f 4 10 65535 0 0]Verificação de destino!...[var 0]deles deixados na área. Devemos ir?[n][w][e]
+[s][bup 0 10 0 65535 0][f 4 10 65535 0 0]Verificação de destino!...[var 0] deles[n]deixados na área. Devemos ir?[n][w][e]
 
 [msg GOTO_MEME_EXIST_TARGET_m_10 [Akechi]]
-[s][bup 0 9 10 65535 0][f 4 10 65535 0 0]HM, vamos considerar nosso total alvo.[n]Nós conhecemos [var 0]Atualmente em lembranças, sim? Vamos.[n][w][e]
+[s][bup 0 9 10 65535 0][f 4 10 65535 0 0]HM, vamos considerar nosso total alvo.[n]Nós conhecemos [var 0] Atualmente[n]em lembranças, sim? Vamos.[n][w][e]
 
 [msg GOTO_MEME_YOKOKU_NG_mes0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 7156 65535 0]Cara, precisamos estar prontos para amanhã.[n]Vamos fazer com calma hoje.[n][w][e]
