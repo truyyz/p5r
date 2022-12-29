@@ -133,10 +133,10 @@
 [s][f 4 23 1 832 3 10 0 0]Estou surpreso que eles não desistissem. E[n]quando você pergunta se eles estão bem,[n]eles ficam super chateados...[n][w][e]
 
 [msg MSG_075_0_0 [Hushed Student]]
-[s][f 4 23 1 832 3 10 0 0]Cara, não tão alto... quero dizer, é a[n]maneira mais rápida de obter uma[n]recomendação da faculdade, certo?[n]Apenas deixe ir...[n][w][e]
+[s][f 4 23 1 832 3 10 0 0]Cara, não tão alto... quero dizer, é a maneira mais[n] rápida de obter uma recomendação da faculdade, certo?[n]Apenas deixe ir...[n][w][e]
 
 [msg MSG_076_0_0 [Insensitive Student]]
-[s][f 4 23 1 832 3 10 0 0]Estou tão feliz por não estar no time de[n]vôlei.[n]Não parece que os primeiros anos sempre[n]precisam correr?[n][w][e]
+[s][f 4 23 1 832 3 10 0 0]Estou tão feliz por não estar no time de vôlei.[n]Não parece que os primeiros anos sempre[n]precisam correr?[n][w][e]
 
 [msg MSG_077_0_0 [Hushed Student]]
 [s][f 4 23 1 833 3 10 0 0]E eles precisam correr até o terceiro andar[n]também... eles certamente se esforçam bem,[n]mas sinto muito por eles.[n][w][e]

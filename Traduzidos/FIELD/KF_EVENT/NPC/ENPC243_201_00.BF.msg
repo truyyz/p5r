@@ -31,14 +31,14 @@
 [s][bup 0 3 4 0 0][f 4 10 65535 0 0][vp 8 0 1 13 65535 0]Huh?[n][w][e]
 
 [msg MSG_E24320100_IIDA_008_0 [Ann]]
-[s][f 4 23 1 65535 3 10 0 0][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 1 14 65535 0]M-My cat François got run over by[n]Um carro... e também tem uma doença[n]incurável! Eu preciso de dinheiro rápido![n][w][e]
+[s][f 4 23 1 65535 3 10 0 0][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 1 14 65535 0]M-Meu gato François foi atropelado por[n]um carro... e também tem uma doença[n]incurável! Eu preciso de dinheiro rápido![n][w][e]
 
 [msg MSG_E24320100_IIDA_009_0 [Morgana]]
 [s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 0 1 15 65535 0]Isso não é nada convincente...[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 16 65535 0]Ela está falando sobre mim?[n][w][e]
 
 [msg MSG_E24320100_IIDA_010_0 [Ann]]
-[s][f 4 23 1 65535 3 10 0 0][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 1 17 65535 0]I-If François were to die, I think[n]Eu também morreria! Provavelmente...[n][w][e]
+[s][f 4 23 1 65535 3 10 0 0][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 1 17 65535 0]S..Se François morresse, eu acho[n]Eu também morreria! Provavelmente...[n][w][e]
 
 [msg MSG_E24320100_IIDA_011_0 [Iida]]
 [s][f 4 23 1 850 3 10 0 0][vp 8 0 1 18 850 0]Vamos lá, não fale assim...[n][w][e]
@@ -78,7 +78,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1192 65535 0]Vamos tentar obter algumas informações deste[n]Nishiyama.[n][w][e]
 
 [msg MSG_E24320100_IIDA_201_0 [Ann]]
-[s][f 4 23 1 65535 3 10 0 0][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 1 29 65535 0]or else my beloved François...[n][w][e]
+[s][f 4 23 1 65535 3 10 0 0][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 1 29 65535 0]ou então meu amado François...[n][w][e]
 
 [msg MSG_E24320100_IIDA_202_0 [Morgana]]
 [s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 0 1 30 65535 0]Por favor, me fale sobre o trabalho, ela[n]ainda está fazendo isso...?[n]Tudo bem, assuma o controle para ela.[n][w][e]

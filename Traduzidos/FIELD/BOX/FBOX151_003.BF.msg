@@ -46,7 +46,7 @@
 
 [msg TBOX_MSG_DIRTYMAIL1ST_M [Morgana]]
 [s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 0 1029 65535 0]Ei... essas coisas são nojentas.[n]Você deve limpar em algum lugar...[n][w][e]
-[s]Venha para pensar sobre isso, lembro-me de[n]ver uma sombra com uma... talvez se[n]negociarmos corretamente, podemos conseguir[n]um.[n][w][e]
+[s]Venha para pensar sobre isso, lembro-me de ver uma[n]sombra com uma... talvez se negociarmos corretamente,[n]podemos conseguir um.[n][w][e]
 
 [msg TBOX_MSG_DIRTYMAIL1ST_M2 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0]Espere, não havia uma roupa de moeda perto[n]de LeBlanc?[n][w][e]

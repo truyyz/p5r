@@ -101,10 +101,10 @@
 
 [msg MSG_090_0_0 [Bored Female Student]]
 [s][f 4 23 1 860 3 10 0 0][vp 8 2 1 0 860 0]Você acha que Suzui-san está agindo de forma[n]estranha ultimamente? Ela está suspirando[n]muito.[n][w][e]
-[s][vp 8 2 1 0 860 0]Ela costumava ser muito mais feliz quando[n]éramos os primeiros anos. Além disso, essas[n]contusões... acho que ela está com[n]problemas.[n][w][e]
+[s][vp 8 2 1 0 860 0]Ela costumava ser muito mais feliz quando éramos os[n]primeiros anos. Além disso, essas contusões...[n]acho que ela está com problemas.[n][w][e]
 
 [msg MSG_091_0_0 [Resting Female Student]]
-[s][f 4 23 1 861 3 10 0 0][vp 8 2 1 0 861 0]Ela está tentando se tornar uma partida de[n]vôlei, não é? Ouvi dizer que ela faz aulas[n]particulares com o Sr. Kamoshida todos os[n]dias.[n][w][e]
+[s][f 4 23 1 861 3 10 0 0][vp 8 2 1 0 861 0]Ela está tentando se tornar uma partida de vôlei,[n]não é? Ouvi dizer que ela faz aulas particulares[n] com o Sr. Kamoshida todos os dias.[n][w][e]
 [s][vp 8 2 1 0 861 0]Aparentemente, ela é uma jogadora muito boa[n]desde que estava no ensino médio.[n][w][e]
 [s][vp 8 2 1 0 861 0]De qualquer forma, agir triste assim,[n]mantendo o Sr. Kamoshida para si mesma é[n]meio arrogante, você não acha?[n][w][e]
 

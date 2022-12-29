@@ -8,7 +8,7 @@
 [s][bup 0 4 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6162 65535 0]Ainda não consigo acreditar que um[n]aplicativo de telefone nos levou a algum[n]lugar assim.[n][w][e]
 
 [msg D01_BRIEFING_010_mes04 [Ryuji]]
-[s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Bem, nem todos nós precisamos desse[n]aplicativo, você sabe...[n]O gato pode simplesmente entrar por conta[n]própria.[n][w][e]
+[s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Bem, nem todos nós precisamos desse aplicativo,[n] você sabe... O gato pode simplesmente entrar por[n]conta própria.[n][w][e]
 
 [msg D01_BRIEFING_010_mes05 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1046 65535 0]Eu não sou um gato![n][w][e]

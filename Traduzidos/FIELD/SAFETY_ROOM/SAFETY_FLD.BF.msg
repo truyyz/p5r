@@ -2751,7 +2751,7 @@
 
 [msg KAMOSHIDA_FIRST_mes04 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][f 4 23 1 3 3 5 11 5][vp 8 0 1 4 65535 0]Um tesouro é a forma física dos desejos[n]distorcidos do governante do palácio.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 1 5 65535 0]Em outras palavras, é o núcleo do palácio.[n]Uma vez que roubamos, o palácio vai[n]desmoronar...[n]Eu penso.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 1 5 65535 0]Em outras palavras, é o núcleo do palácio.[n]Uma vez que roubamos, o palácio vai[n]desmoronar... Eu acho.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 6 65535 0]Dito tudo isso, mesmo eu não sei qual será o[n]tesouro de Kamoshida.[n][f 1 3 65535][w][e]
 
 [msg KAMOSHIDA_FIRST_mes05 [Ann]]

@@ -56,7 +56,7 @@
 [s][bup 0 201 0 0 0][f 4 10 65535 0 0]Além disso, cada persona possui[n]especialidades inerentes separadas de suas[n]habilidades.[n][w][e]
 
 [msg CMB00_MSG_012 [Igor]]
-[s][bup 0 201 0 0 0][f 4 10 65535 0 0][vp 1 0 0 5019 0 0]Essas habilidades e especialidades são[n]distintas uma da outra. Habilidades são[n]características que podem ser repassadas[n]através da fusão.[n][w][e]
+[s][bup 0 201 0 0 0][f 4 10 65535 0 0][vp 1 0 0 5019 0 0]Essas habilidades e especialidades são distintas[n] uma da outra. Habilidades são características que[n]podem ser repassadas através da fusão.[n][w][e]
 
 [msg CMB00_MSG_012_01 [Igor]]
 [s][bup 0 201 0 0 0][f 4 10 65535 0 0]No entanto, as especialidades inerentes a[n]uma persona não podem ser transmitidas.[n][w][e]

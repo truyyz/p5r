@@ -19,7 +19,7 @@
 [s][vp 8 0 0 0 65535 0]Sério? Isso é novidade para mim.[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Man's Voice]]
-[s][vp 8 0 0 0 65535 0]O desenvolvimento de medicamentos[n]experimentais, medicina e remédios à base[n]de plantas viola todos os regulamentos de[n]saúde.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]O desenvolvimento de medicamentos experimentais,[n] medicina e remédios à base de plantas[n]viola todos os regulamentos de saúde.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Você está tentando criar um[n]super-estimulante? Um medicamento como esse[n]só se tornará uma questão social.[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Doctor's Voice]]

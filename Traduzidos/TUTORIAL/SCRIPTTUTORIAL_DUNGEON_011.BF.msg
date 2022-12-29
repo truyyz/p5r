@@ -1,5 +1,5 @@
 [msg D_TUTORIAL_11_mes01 [Hiding Behind Cover]]
-[s]Perto da capa, pressione [clr 2][f 1 10 22][clr 27]para se esconder atrás dele. A partir daí, você pode[n]verificar o que está por vir e [n][clr 2]inimigos não podem encontrar você [clr 27].[n][w][e]
+[s]Perto da capa, pressione [clr 2][f 1 10 22][clr 27] para se esconder atrás dele.[n]A partir daí, você pode verificar o que está por vir e [n][clr 2]inimigos não podem encontrar você [clr 27].[n][w][e]
 
 [msg D_TUTORIAL_11_mes02 [Hiding Behind Cover]]
 [s]Se houver outro esconderijo nas proximidades, você pode[n]pressionar [n][clr 2][f 1 10 22][clr 27]para pular para lá instantaneamente.[n][w][e]

@@ -3,7 +3,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Acho que amanhã terá que ser nossa grande[n]limpeza de primavera...[n][w][e]
 
 [msg MSG_MORGANA_DAY_0415 [Morgana]]
-[s][bup 0 3 5 0 0][vp 8 2 1 1170 65535 0][f 4 10 65535 0 0]Sou a favor de ensinar a você como fazer[n]ferramentas de infiltração, mas você[n]realmente precisa limpar seu quarto[n]primeiro...[n][w][e]
+[s][bup 0 3 5 0 0][vp 8 2 1 1170 65535 0][f 4 10 65535 0 0]Sou a favor de ensinar a você como fazer[n]ferramentas de infiltração, mas você realmente[n]precisa limpar seu quarto primeiro...[n][w][e]
 
 [msg MSG_MORGANA_DAY_0416 [Morgana]]
 [s][bup 0 3 0 0 0][vp 8 2 1 1164 65535 0][f 4 10 65535 0 0]Shibuya...?[n][w][e]

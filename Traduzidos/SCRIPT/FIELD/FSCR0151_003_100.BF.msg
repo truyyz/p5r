@@ -53,7 +53,7 @@
 
 [msg D01_04_e160_042_mes03 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1156 65535 0]Ter isso nos dará uma melhor compreensão da[n]topografia do palácio.[n][w][e]
-[s][bup 0 3 1 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]É uma verdadeira necessidade para um ladrão[n]fantasma.[n]Isso deve facilitar muito a obtenção de uma[n]rota.[n][w][e]
+[s][bup 0 3 1 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]É uma verdadeira necessidade para um ladrão[n]fantasma. Isso deve facilitar muito a obtenção de [n]uma rota.[n][w][e]
 
 [msg D01_04_e160_042_mes04 [Ann]]
 [s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Espere, diz onde está o tesouro lá?[n][w][e]
@@ -62,5 +62,5 @@
 [s][bup 0 3 7 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Oh... na verdade, parece que esse mapa está[n]incompleto... pode haver mais deles por aí.[n][w][e]
 
 [msg D01_04_e160_042_mes06 [Ryuji]]
-[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7060 65535 0]Mkay, vamos começar a verificar o que[n]podemos.[n]Vamos encontrar outro mapa ao longo do[n]caminho em algum lugar.[n][w][e]
+[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7060 65535 0]Ok, vamos começar a verificar o que podemos.[n]Vamos encontrar outro mapa ao longo do[n]caminho em algum lugar.[n][w][e]
 

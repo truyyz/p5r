@@ -55,5 +55,5 @@
 [msg BATTON_TUTO_05 [Morgana]]
 [s][bup 0 3 1 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1072 65535 0]Ótimo trabalho em equipe! Eu sabia que vocês[n]acertariam.[n][w][e]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Melhorar-se é importante, mas aprender a[n]lutar como uma equipe é igualmente vital[n]para a nossa sobrevivência.[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ao coordenar nossos esforços, podemos[n]assumir o controle da batalha o mais rápido[n]possível.[n]Os passes de bastão ajudarão muito com isso![n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ao coordenar nossos esforços, podemos assumir[n] o controle da batalha o mais rápido possível.[n]Os passes de bastão ajudarão muito com isso![n][w][e]
 

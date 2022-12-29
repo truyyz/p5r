@@ -7,7 +7,7 @@
 
 [msg MSG_RYUJI_REACH_WEAPON_S_2 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 1 4 65535 0]Ah, sim, antes de entrarmos: você sabe[n]alguma coisa sobre armas e merda?[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 1 5 65535 0]Acho que podemos simplesmente perguntar ao[n]cara atrás do balcão se não conseguimos[n]descobrir o que queremos. Vamos lá, vamos[n]fazer isso.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 1 5 65535 0]Acho que podemos simplesmente perguntar ao cara[n]atrás do balcão se não conseguimos descobrir[n] o que queremos. Vamos lá, vamos fazer isso.[n][w][e]
 
 [msg MSG_RYUUJI_WAY_TO_WEAPON [Ryuji]]
 [s][f 4 23 1 857 3 5 0 5][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 7156 857 0]Não se preocupe, cara. Estamos quase lá.[n][w][e]

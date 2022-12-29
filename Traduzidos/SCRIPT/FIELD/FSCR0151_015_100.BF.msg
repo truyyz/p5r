@@ -2,8 +2,8 @@
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7028 65535 0]Se o mapa estiver certo, ainda temos um[n]longo caminho a percorrer...[n][w][e]
 
 [msg D01_04_e160_60_mes02 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Isso não é tudo- também há muitas sombras[n]patrulhas.[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Agora, você não pode simplesmente se[n]apressar cegamente em uma briga. Primeiro[n]você precisa verificar o quão forte eles[n]são.[n][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Isso não é tudo, também há muitas sombras[n]patrulhas.[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Agora, você não pode simplesmente entrar[n] cegamente em uma briga. Primeiro você precisa verificar[n] o quão forte eles são.[n][w][e]
 
 [msg D01_04_e160_60_mes03 [Ryuji]]
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Como devemos fazer isso?[n][w][e]

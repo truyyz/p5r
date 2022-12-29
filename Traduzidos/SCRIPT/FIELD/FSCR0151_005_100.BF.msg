@@ -28,7 +28,7 @@
 [s][bup 0 2 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 2 0 0]Entendi... a academia é um lugar sagrado[n]para ele. Ele é um Deus lá.[n][w][e]
 
 [msg D01_04_e160_087_mes03 [Ann]]
-[s][bup 0 4 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 3 0 0]Eu não posso acreditar que ele pode pensar[n]assim...[n]Especialmente depois do que ele fez com[n]Shiho...[n][w][e]
+[s][bup 0 4 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 3 0 0]Eu não posso acreditar que ele possa pensar assim...[n]Especialmente depois do que ele fez com a Shiho...[n][w][e]
 
 [msg D01_04_e160_087_mes04 [Ryuji]]
 [s][bup 0 2 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 4 0 0]Deus, aquele bastardo me deixa tão enjoado![n]Só você espera, Kamoshida![n][w][e]

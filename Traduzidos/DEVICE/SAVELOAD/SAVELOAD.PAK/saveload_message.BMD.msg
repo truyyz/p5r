@@ -6,7 +6,7 @@
 [s]Acessando dados de salvamento...[n][f 1 2 65535][e]
 
 [msg SAVELOAD_MSG_SAVE_CONF]
-[s]Existem dados já salvos neste espaço.[n] Você[n]gostaria de sobrescrevê-lo?[n][e]
+[s]Existem dados já salvos neste espaço.[n] Você gostaria de sobrescrevê-lo?[n][e]
 
 [msg SAVELOAD_MSG_SAVE_RUN]
 [s]Salvando...[n][f 1 2 65535][e]
@@ -18,13 +18,13 @@
 [s]Falha ao salvar.[n][w][e]
 
 [msg SAVELOAD_MSG_LOAD_CONF]
-[s]Isso carregará seus dados.[n]Tudo bem?[n][f 1 2 0][e]
+[s]Isso carregará o seu salvamento.[n]Tudo bem?[n][f 1 2 0][e]
 
 [msg SAVELOAD_MSG_LOAD_RUN]
 [s]Agora carregando...[n][f 1 2 65535][e]
 
 [msg SAVELOAD_MSG_LOAD_SUCCES]
-[s]Carregar completo.[n][f 1 2 15][e]
+[s]Carregamento completo.[n][f 1 2 15][e]
 
 [msg SAVELOAD_MSG_LOAD_FAILED]
 [s]Erro de carregamento.[n][w][e]
@@ -60,7 +60,7 @@
 [s]Registre suas ações até este ponto?[n][w][e]
 
 [msg SAVELOAD_TXT_TITLE_LOAD]
-[s]Releia suas entradas até este ponto?[n][w][e]
+[s]Carregar o seu  salvamento até este ponto?[n][w][e]
 
 [msg SAVELOAD_TXT_CLOUD_GET_D]
 [s]Adquirir salvar dados do armazenamento em[n]nuvem?[n][w][e]
@@ -270,16 +270,16 @@
 [s]Falha ao salvar.[n][w][e]
 
 [msg SAVELOAD_MSG_SAVE_CONF_F]
-[s]Existem dados já salvos neste espaço.[n] Você[n]gostaria de sobrescrevê-lo?[n][e]
+[s]Existem dados já salvos neste espaço.[n] Você gostaria de sobrescrevê-lo?[n][e]
 
 [msg SAVELOAD_MSG_SAVE_CONF_F_2]
-[s]Existem dados já salvos neste espaço.[n] Você[n]gostaria de sobrescrevê-lo?[n][e]
+[s]Existem dados já salvos neste espaço.[n] Você gostaria de sobrescrevê-lo?[n][e]
 
 [msg SAVELOAD_MSG_SAVE_CONF_F_3]
-[s]Existem dados já salvos neste espaço.[n] Você[n]gostaria de sobrescrevê-lo?[n][e]
+[s]Existem dados já salvos neste espaço.[n] Você gostaria de sobrescrevê-lo?[n][e]
 
 [msg SAVELOAD_MSG_SAVE_CONF_F_4]
-[s]Existem dados já salvos neste espaço.[n] Você[n]gostaria de sobrescrevê-lo?[n][e]
+[s]Existem dados já salvos neste espaço.[n] Você gostaria de sobrescrevê-lo?[n][e]
 
 [msg SAVEDATA_DELETE_ACTIVITY]
 [s]Salvar dados não existem.[n]Começando na tela do título.[n][w][e]

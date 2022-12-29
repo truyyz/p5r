@@ -23,7 +23,7 @@
 
 [msg MSG_ACT_FLD_RYUJI_10 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 1 4 65535 0]Oh sim, antes de entrarmos...[n]Você sabe alguma coisa sobre armas e merda?[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 1 5 65535 0]Acho que podemos simplesmente perguntar ao[n]cara atrás do balcão se não conseguimos[n]descobrir o que queremos. Vamos lá, vamos[n]fazer isso.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 1 5 65535 0]Acho que podemos simplesmente perguntar ao cara[n]atrás do balcão se não conseguimos descobrir[n] o que queremos. Vamos lá, vamos fazer isso.[n][w][e]
 
 [msg MND_CHK_STATION]
 [s][vp 1 0 0 0 0 0]Eu não deveria simplesmente ir para casa...[n][w][e]

@@ -1,5 +1,5 @@
 [msg TUTORIAL_MSG01 [Types of Equipment]]
-[s]You can purchase model guns (ranged weapons),[n]Armas corpo a corpo, protetores e acessórios na loja[n]Airsoft.[n][w][e]
+[s]Você pode comprar modelos de armas (armas de longo alcance),[n]Armas corpo a corpo, protetores e acessórios na loja[n]de Airsoft.[n][w][e]
 
 [msg TUTORIAL_MSG02 [Types of Equipment]]
 [s]As armas corpo a corpo aumentarão o poder de seus ataques[n]normais, que podem ser úteis para aqueles que desejam[n]derrotar os inimigos sem usar habilidades.[n][w][e]
