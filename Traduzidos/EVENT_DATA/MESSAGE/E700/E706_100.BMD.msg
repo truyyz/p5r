@@ -148,7 +148,7 @@
 [s][f 0 8 2 1 2217]Você pode fazer isso, Ann.[clr 27][e]
 
 [msg MSG_042_0_0 [Ann]]
-[s][bup 0 4 601 65535 0][f 4 10 65535 0 0][vp 8 2 0 6048 65535 0][f 5 13 7 5 4]* risada* Mas... é verdade.[n][f 1 3 65535][w][e]
+[s][bup 0 4 601 65535 0][f 4 10 65535 0 0][vp 8 2 0 6048 65535 0][f 5 13 7 5 4]*risada* Mas... é verdade.[n][f 1 3 65535][w][e]
 
 [msg MSG_043_0_0 [Ann]]
 [s][bup 0 4 601 65535 0][f 4 10 65535 0 0][vp 8 2 0 6034 65535 0][f 5 13 7 10 4]Sim! Para sempre, ok?[n][f 1 3 65535][w][e]

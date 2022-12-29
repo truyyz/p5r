@@ -684,7 +684,7 @@
 [msg Quest39_target_00_02 [Older Female Teacher]]
 [s]Eu apenas disse isso para ser educado. Esse[n]tipo de trabalho grunhido precisa ser feito[n]por jovens como você![n][f 4 23 1 600 3 10 0 0][w][e]
 [s]Você deveria ter entendido isso agora.[n]Lidar com essa papelada faz parte do que é[n]esperado de você.[n][w][e]
-[s]* suspiro* isso não importa.[n]Basta terminar amanhã, por favor.[n][w][e]
+[s]*suspiro* isso não importa.[n]Basta terminar amanhã, por favor.[n][w][e]
 
 [msg Quest39_target_00_03 [Younger Female Teacher]]
 [s]Ok... tudo bem, Sra. Sayuri.[n][f 4 23 1 601 3 10 0 0][w][e]

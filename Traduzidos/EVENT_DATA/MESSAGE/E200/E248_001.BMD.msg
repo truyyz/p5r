@@ -37,7 +37,7 @@
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 6 7 300 1][vp 8 0 0 16 65535 0]......![n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Sae]]
-[s][bup 0 105 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]* suspiro* desculpe, isso foi desnecessário.[n]Estou apenas... muito cansado.[n][f 1 3 65535][w][e]
+[s][bup 0 105 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]*suspiro* desculpe, isso foi desnecessário.[n]Estou apenas... muito cansado.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]... Eu estarei jantando de amanhã.[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Makoto]]

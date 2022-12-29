@@ -113,7 +113,7 @@
 [s]Não sei.[e]
 
 [msg MSG_C03_ACTION_D00_31_11 [Haru]]
-[s][bup 0 7 201 65535 0][f 4 10 65535 0 0][f 4 23 1 203 3 10 0 10][vp 8 2 1 3048 65535 0]* Giggle* Você faz parecer realmente[n]importante.[n][w][e]
+[s][bup 0 7 201 65535 0][f 4 10 65535 0 0][f 4 23 1 203 3 10 0 10][vp 8 2 1 3048 65535 0]*Giggle* Você faz parecer realmente[n]importante.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Suponho que o relaxamento é bastante vital[n]em momentos como esses...[n][w][e]
 
 [msg MSG_C03_ACTION_D00_31_12 [Haru]]
@@ -137,7 +137,7 @@
 [s][bup 0 7 200 65535 0][f 4 10 65535 0 0][f 4 23 1 203 3 10 0 10][vp 8 2 1 3020 65535 0]Eu entendo. Vou precisar mudar primeiro,[n]para que você possa seguir em frente.[n][w][e]
 
 [msg MSG_C03_ACTION_D00_31_00 [Haru]]
-[s][bup 0 7 202 65535 0][f 4 10 65535 0 0][f 4 23 1 203 3 10 0 10][vp 8 2 1 3046 65535 0]* suspiro* Precisamos garantir nossa rota de[n]infiltração...[n][w][e]
+[s][bup 0 7 202 65535 0][f 4 10 65535 0 0][f 4 23 1 203 3 10 0 10][vp 8 2 1 3046 65535 0]*suspiro* Precisamos garantir nossa rota de[n]infiltração...[n][w][e]
 [s][bup 0 7 200 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Estarei esperando, então entre em contato[n]comigo quando estiver pronto.[n][w][e]
 
 [msg MSG_C03_ACTION_D00_41_00 [Haru]]
@@ -207,7 +207,7 @@
 [s]Não sei.[e]
 
 [msg MSG_C03_ACTION_D07_31_11 [Haru]]
-[s][bup 0 7 201 65535 0][f 4 10 65535 0 0][f 4 23 1 203 3 10 0 10][vp 8 2 1 3048 65535 0]* Giggle* Você faz parecer realmente[n]importante.[n][w][e]
+[s][bup 0 7 201 65535 0][f 4 10 65535 0 0][f 4 23 1 203 3 10 0 10][vp 8 2 1 3048 65535 0]*Giggle* Você faz parecer realmente[n]importante.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Suponho que o relaxamento é bastante vital[n]em momentos como esses...[n][w][e]
 
 [msg MSG_C03_ACTION_D07_31_12 [Haru]]
@@ -284,7 +284,7 @@
 [s]Isso é verdade...[e]
 
 [msg MSG_C03_BEGIN_D09_20_03 [Haru]]
-[s][bup 0 7 201 65535 0][f 4 10 65535 0 0][f 4 23 1 203 3 10 0 10][vp 8 2 1 3048 65535 0]* risada* nada parece incomodá-lo, [n][f 4 2]-kun.[n][w][e]
+[s][bup 0 7 201 65535 0][f 4 10 65535 0 0][f 4 23 1 203 3 10 0 10][vp 8 2 1 3048 65535 0]*risada* nada parece incomodá-lo, [n][f 4 2]-kun.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Mas suponho que relaxamento seja bastante[n]vital em momentos como esses...[n][w][e]
 
 [msg MSG_C03_BEGIN_D09_20_04 [Haru]]
@@ -317,10 +317,10 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Entre em contato comigo quando estiver[n]pronto para ir. Estarei esperando.[n][w][e]
 
 [msg MSG_C03_CONNECT_OK_00 [Haru]]
-[s][bup 0 7 201 65535 0][f 4 10 65535 0 0][f 4 23 1 203 3 10 0 10][vp 8 2 1 3030 65535 0]* risada* Por que, obrigado.[n][w][e]
+[s][bup 0 7 201 65535 0][f 4 10 65535 0 0][f 4 23 1 203 3 10 0 10][vp 8 2 1 3030 65535 0]*risada* Por que, obrigado.[n][w][e]
 
 [msg MSG_C03_CONNECT_HARVEST_ [Haru]]
-[s][bup 0 7 201 65535 0][f 4 10 65535 0 0][f 4 23 1 203 3 10 0 10][vp 8 2 1 3048 65535 0]* risada* que me deixa feliz.[n][w][e]
+[s][bup 0 7 201 65535 0][f 4 10 65535 0 0][f 4 23 1 203 3 10 0 10][vp 8 2 1 3048 65535 0]*risada* que me deixa feliz.[n][w][e]
 
 [msg MSG_C03_CONNECT_CANCEL_0 [Haru]]
 [s][bup 0 7 200 65535 0][f 4 10 65535 0 0][f 4 23 1 203 3 10 0 10][vp 8 2 1 0 65535 0]Estou aqui cuidando do jardim todos os dias.[n][w][e]

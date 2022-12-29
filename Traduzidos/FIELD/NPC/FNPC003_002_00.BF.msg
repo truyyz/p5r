@@ -697,7 +697,7 @@
 [s][f 4 23 1 10 14 10 13 10][vp 8 2 1 0 10 0]Gostaria de saber se Shido-san está bem...[n]Estou preocupado, com as eleições tão[n]próximas.[n][w][e]
 
 [msg MSG_RUBURAN_CUSTOM01_012_3 [Elderly Male Customer]]
-[s][f 4 23 1 9 14 10 13 10][vp 8 2 1 0 9 0]* suspiro* Eu não sei em que acreditar...[n]É demais para um veterano.[n][w][e]
+[s][f 4 23 1 9 14 10 13 10][vp 8 2 1 0 9 0]*suspiro* Eu não sei em que acreditar...[n]É demais para um veterano.[n][w][e]
 
 [msg MSG_RUBURAN_CUSTOM01_013 [Elderly Female Customer]]
 [s][f 4 23 1 10 14 10 13 10][vp 8 2 1 0 10 0]Portanto, ainda não decidimos um novo[n]primeiro-ministro. As eleições realizaram[n]alguma coisa?[n][w][e]
@@ -1116,7 +1116,7 @@
 [s][vp 8 2 1 0 12 0]... Espere, não temos tempo para isso.[n]Qual é a nossa estratégia para os clientes[n]que nos encontramos amanhã?[n][w][e]
 
 [msg MSG_RUBURAN_CUSTOM03_005_3 [Young Businessman]]
-[s][f 4 23 1 11 14 10 13 10][vp 8 2 1 0 11 0]* suspiro* de volta à realidade dos coxos...[n][w][e]
+[s][f 4 23 1 11 14 10 13 10][vp 8 2 1 0 11 0]*suspiro* de volta à realidade dos coxos...[n][w][e]
 
 [msg MSG_RUBURAN_CUSTOM03_006 [Young Businessman]]
 [s][f 4 23 1 11 14 10 13 10][vp 8 2 1 0 11 0]Estou cansado de todos esses carros[n]estridentes para as eleições. Tudo o que[n]eles querem é ganhar nossos votos.[n][w][e]

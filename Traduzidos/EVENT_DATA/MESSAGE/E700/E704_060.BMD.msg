@@ -12,7 +12,7 @@
 [msg MSG_003_0_0 [Yusuke]]
 [s][bup 0 5 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]HM? Ah, de fato eu sou...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu simplesmente precisava de algum tempo[n]para preparar meu coração.[n][f 1 3 65535][w][e]
-[s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]* ri* o coração de novo...[n]Parece que nunca deixará de ser o nosso[n]tópico de conversa.[n][f 1 3 65535][w][e]
+[s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*ri* o coração de novo...[n]Parece que nunca deixará de ser o nosso[n]tópico de conversa.[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Yusuke]]
 [s][bup 0 5 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 4028 65535 0]A verdade é que, apesar dos meus melhores[n]esforços para transmitir o significado do[n]coração, não estou mais perto de entendê-lo.[n][f 1 3 65535][w][e]

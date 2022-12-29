@@ -26,7 +26,7 @@
 [msg MSG_007_0_0 [Sojiro]]
 [s][bup 0 103 503 65535 0][vp 8 0 0 8 0 0]......[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Reúna-se, garoto... às vezes eu não sei se[n]você é destemido ou simplesmente descuidado.[n][f 1 3 65535][w][e]
-[s][bup 0 103 501 65535 0][f 4 10 65535 0 0][f 4 24 0 4 6 36 4 100][vp 8 0 0 10 65535 0]Multar. Ouça, e eu lhe darei a receita para[n]a data final.[n][f 1 3 65535][w][e]
+[s][bup 0 103 501 65535 0][f 4 10 65535 0 0][f 4 24 0 4 6 36 4 100][vp 8 0 0 10 65535 0]Bom. Ouça, e eu lhe darei a receita para[n]a data final.[n][f 1 3 65535][w][e]
 
 [sel SEL_008_0_0 top]
 [s]Seria ótimo.[e]

@@ -22,7 +22,7 @@
 [s][bup 0 5 102 0 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Você terminou- junto com todo esse mundo[n]miserável![n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Shadow Madarame]]
-[s][bup 0 203 105 0 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]* grito* Não, por favor! Apenas... não me[n]mate![n][f 1 3 65535][w][e]
+[s][bup 0 203 105 0 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]*grito* Não, por favor! Apenas... não me[n]mate![n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [(SE)シャドウ斑目]]
 [s][vp 8 0 0 11 65535 0]ぅごほっ! ぇほっぇほ...![n][f 1 3 65535][w][e]
@@ -37,7 +37,7 @@
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 5 3 300 1][vp 8 0 0 14 65535 0]Juro![n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Shadow Madarame]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 209 5 301 1][vp 8 0 0 15 65535 0]* grito* tudo bem... tudo bem![n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 209 5 301 1][vp 8 0 0 15 65535 0]*grito* tudo bem... tudo bem![n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Shadow Madarame]]
 [s][bup 0 203 105 0 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]O que é o outro?[n]Aquele com a máscara preta?[n][f 1 3 65535][w][e]

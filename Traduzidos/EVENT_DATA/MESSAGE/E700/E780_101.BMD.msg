@@ -1,21 +1,21 @@
 [msg MSG_000_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]* Sniff** Sniff*... Hm!? Esse peixe grelhado[n]cheira bem.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*Sniff** Sniff*... Hm!? Esse peixe grelhado[n]cheira bem.[n][w][e]
 [s][f 4 10 65535 0 0]Entendo, então esta é a cafeteria.[n]Parece bastante espaçoso sem o time de vôlei[n]aqui.[n][w][e]
 [s][f 4 10 65535 0 0]Não posso deixar de desejar peixes[n]grelhados, agora...[n]Oh, certo![n][w][e]
 [s][f 4 10 65535 0 0]Você está almoçando sozinho, você sabe.[n]Vamos convidar alguém para que todos[n]possamos almoçar juntos.[n][w][e]
 [s][f 4 10 65535 0 0]Afinal, as pessoas podem se conhecer melhor[n]e aprofundar seus laços quando comem juntos.[n][w][e]
 
 [msg MSG_001_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]* Sniff** Sniff*... Hm!? Esse peixe grelhado[n]cheira bem.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*Sniff** Sniff*... Hm!? Esse peixe grelhado[n]cheira bem.[n][w][e]
 
 [msg MSG_002_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]* Sniff** Sniff*... Hm!? Esse peixe cozido[n]cheira bem...[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*Sniff** Sniff*... Hm!? Esse peixe cozido[n]cheira bem...[n][w][e]
 
 [msg MSG_003_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]* Sniff** Sniff*... Hm!? Eu cheiro[n]diferentes tipos de peixe.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*Sniff** Sniff*... Hm!? Eu cheiro[n]diferentes tipos de peixe.[n][w][e]
 
 [msg MSG_004_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]* Sniff** Sniff*... hmm!? Este cheiro...[n]Poderia ser!?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*Sniff** Sniff*... hmm!? Este cheiro...[n]Poderia ser!?[n][w][e]
 [s][f 4 10 65535 0 0]É a lancheira especial de várias camadas[n]para os alunos com as dez melhores[n]pontuações no exame![n][w][e]
 [s][f 4 10 65535 0 0]Sim, posso sentir o cheiro de peixes[n]especiais vindo da cozinha hoje![n][w][e]
 
@@ -78,7 +78,7 @@
 [s][f 4 10 65535 0 0]Quero dizer, o sabor, a textura- tudo sobre[n]esta lancheira é realmente especial, sabe?[n][w][e]
 
 [msg SYS_021_5_0]
-[s][vp 8 0 0 0 65535 0]Comer a lancheira especial causou uma[n]mudança em [n][f 4 1]e a personalidade de Ryuji.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Comer a lancheira especial causou uma[n]mudança em [n][f 4 1] e a personalidade de Ryuji.[n][f 1 3 65535][w][e]
 
 [msg SYS_021_6_0]
 [s][vp 8 0 0 0 65535 0]Ryuji's [clr 1]Max HP [clr 27]+ [clr 2][var 1][clr 27], Assim, [clr 1]Max sp [clr 27]+ [clr 2][var 2][clr 27], e [clr 1]Força [clr 27], Assim, [clr 1]Magia [clr 27], Assim, [clr 1]Resistência [clr 27], Assim, [n][clr 1]Agilidade [clr 27], e [clr 1]Sorte [clr 27]+ [clr 2][var 3][clr 27].[n][f 1 3 65535][w][e]
@@ -100,7 +100,7 @@
 [s][f 4 10 65535 0 0]É só por sua causa que eu tenho que[n]experimentar esta lancheira especial. Muito[n]obrigado![n][w][e]
 
 [msg MSG_026_5_0]
-[s][vp 8 0 0 0 65535 0]Comer a lancheira especial causou uma[n]mudança em [n][f 4 1]e a persona de Ann.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Comer a lancheira especial causou uma[n]mudança em [n][f 4 1] e a persona de Ann.[n][f 1 3 65535][w][e]
 
 [msg MSG_026_6_0]
 [s][vp 8 0 0 0 65535 0]Ann ganhou [clr 2][var 1][clr 27] [clr 1]Max HP [clr 27], Assim, [n][clr 2][var 2][clr 27] [clr 1]Max sp [clr 27], e [clr 2][var 3][clr 27]para cada um de [clr 1]St [clr 27], Assim, [clr 1]MA [clr 27], Assim, [clr 1]En [clr 27], Assim, [clr 1]Ag [clr 27], e [clr 1]Lu [clr 27].[n][f 1 3 65535][w][e]
@@ -127,7 +127,7 @@
 [s][f 4 10 65535 0 0]Estou muito feliz por podermos tentar isso.[n]É tudo graças a você no ranking nos dez[n]primeiros da escola.[n][w][e]
 
 [msg MSG_032_5_0]
-[s][vp 8 0 0 0 65535 0]Comer a lancheira especial causou uma[n]mudança em [n][f 4 1]e a personalidade de Makoto.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Comer a lancheira especial causou uma[n]mudança em [n][f 4 1] e a personalidade de Makoto.[n][f 1 3 65535][w][e]
 
 [msg MSG_032_6_0]
 [s][vp 8 0 0 0 65535 0]Makoto ganhou [clr 2][var 1][clr 27] [clr 1]Max HP [clr 27], Assim, [n][clr 2][var 2][clr 27] [clr 1]Max sp [clr 27], e [clr 2][var 3][clr 27]para cada um de [clr 1]St [clr 27], Assim, [clr 1]MA [clr 27], Assim, [clr 1]En [clr 27], Assim, [clr 1]Ag [clr 27], e [clr 1]Lu [clr 27].[n][f 1 3 65535][w][e]
@@ -149,11 +149,11 @@
 [s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O peixe frito era macio e suculento, e você[n]poderia dizer que o sashimi é fresco.[n][w][e]
 
 [msg MSG_038_0_0 [Haru]]
-[s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]* Giggle* Esta lancheira especial fez[n]parecer que eu estava comendo algo especial[n]para o ano novo.[n][w][e]
+[s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*Giggle* Esta lancheira especial fez[n]parecer que eu estava comendo algo especial[n]para o ano novo.[n][w][e]
 [s][f 4 10 65535 0 0]Você é incrível de poder colocar nos dez[n]primeiros da escola.[n][w][e]
 
 [msg MSG_038_5_0]
-[s][vp 8 0 0 0 65535 0]Comer a lancheira especial causou uma[n]mudança em [n][f 4 1]e a persona de Haru.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Comer a lancheira especial causou uma[n]mudança em [n][f 4 1] e a persona de Haru.[n][f 1 3 65535][w][e]
 
 [msg MSG_038_6_0]
 [s][vp 8 0 0 0 65535 0]Haru ganhou [clr 2][var 1][clr 27] [clr 1]Max HP [clr 27], Assim, [n][clr 2][var 2][clr 27] [clr 1]Max sp [clr 27], e [clr 2][var 3][clr 27]para cada um de [clr 1]St [clr 27], Assim, [clr 1]MA [clr 27], Assim, [clr 1]En [clr 27], Assim, [clr 1]Ag [clr 27], e [clr 1]Lu [clr 27].[n][f 1 3 65535][w][e]

@@ -43,7 +43,7 @@
 [s][bup 0 3 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 1048 65535 0]Vamos ver, que seção eu faria um bom[n]chefe... oh, quem estou brincando- eu[n]apenas eu seria o presidente![n][w][e]
 
 [msg SAFE_MES_mona4 [Morgana]]
-[s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 1 1169 65535 0]* suspiro* Por que esse palácio é tão grande?[n][w][e]
+[s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 1 1169 65535 0]*suspiro* Por que esse palácio é tão grande?[n][w][e]
 [s][f 4 10 65535 0 0]Bem, acho que é pelo menos em parte, já que[n]o edifício real também é grande...[n][w][e]
 
 [msg SAFE_MES_mona5 [Morgana]]
@@ -146,7 +146,7 @@
 
 [msg SAFE_MES_haru1 [Haru]]
 [s][bup 0 7 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 3021 65535 0]Então, Milady é outra parte de mim, correta?[n]Mas... ela tem muito poder...[n][w][e]
-[s][bup 0 7 101 0 0][f 4 10 65535 0 0]* risada* agora posso finalmente contribuir.[n]Farei o meu melhor para não decepcionar os[n]ladrões Phantom![n][w][e]
+[s][bup 0 7 101 0 0][f 4 10 65535 0 0]*risada* agora posso finalmente contribuir.[n]Farei o meu melhor para não decepcionar os[n]ladrões Phantom![n][w][e]
 
 [msg SAFE_MES_haru2 [Haru]]
 [s][bup 0 7 103 0 0][f 4 10 65535 0 0][vp 8 2 1 3178 65535 0]Mesmo não tenho certeza do que meu pai está[n]pensando...[n][w][e]

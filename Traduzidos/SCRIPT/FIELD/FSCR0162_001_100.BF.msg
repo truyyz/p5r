@@ -16,7 +16,7 @@
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]A combinação de movimentos que saímos[n]antes... isso não foi tão ruim.[n][w][e]
 
 [msg SYS_SP_ATACK_ON]
-[s][clr 2][f 4 2]E o Showtime de Akechi [clr 27][n]foi desbloqueado.[n][w][e]
+[s][clr 2][f 4 2] E o Showtime de Akechi [clr 27][n]foi desbloqueado.[n][w][e]
 
 [msg D10_01_showtime_unlock_m_2 [Akechi]]
 [s][bup 0 9 811 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 54489 65535 0]Claro... que tudo depende se você pode ou[n]não me acompanhar.[n][w][e]

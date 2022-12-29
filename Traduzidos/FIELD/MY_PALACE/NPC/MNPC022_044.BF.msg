@@ -12,7 +12,7 @@
 
 [msg MES_GROUP0_05 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 4109 65535 0]Uma excelente ideia.[n][w][e]
-[s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 35 10 0 10]* risada* Meu estômago dificilmente pode[n]esperar.[n][w][e]
+[s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 35 10 0 10]*risada* Meu estômago dificilmente pode[n]esperar.[n][w][e]
 
 [msg MES_GROUP1_01 [Futaba]]
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 9021 65535 0]Sojiro não está aqui...[n][w][e]

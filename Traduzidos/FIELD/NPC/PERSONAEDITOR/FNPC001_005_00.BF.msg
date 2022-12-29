@@ -378,11 +378,11 @@
 
 [msg MSG_AYASIOTOKO_007_2_0 [Suspicious Man]]
 [s][f 4 23 1 18 3 10 0 10][vp 8 2 1 0 18 0]Há um monte de gente aqui. Eu não culpo você.[n][w][e]
-[s][vp 8 2 1 0 18 0]Eu apenas assisto sem ser notado...[n]É assim que deveria ser... *suspiro * [n][w][e]
+[s][vp 8 2 1 0 18 0]Eu apenas assisto sem ser notado...[n]É assim que deveria ser... *suspiro* [n][w][e]
 
 [msg MSG_AYASIOTOKO_007_3_0 [Suspicious Man]]
 [s][f 4 23 1 18 3 10 0 10][vp 8 2 1 0 18 0]Eu vejo... desculpe. Eu acho que você não[n]notaria nada assim, geralmente.[n][w][e]
-[s][vp 8 2 1 0 18 0]Ela ficaria tão assustada para saber que eu[n]a observava há tanto tempo... *suspiro * [n][w][e]
+[s][vp 8 2 1 0 18 0]Ela ficaria tão assustada para saber que eu[n]a observava há tanto tempo... *suspiro* [n][w][e]
 
 [msg MSG_AYASIOTOKO_007_4_0 [Suspicious Man]]
 [s][f 4 23 1 18 3 10 0 10][vp 8 2 1 0 18 0]Desculpe por fazer uma pergunta tão estranha.[n]Não se preocupe com isso.[n][w][e]
@@ -445,7 +445,7 @@
 [msg MSG_AYASIOTOKO_013_0_0 [Scared Woman]]
 [s][vp 8 2 1 0 21 0]Há muitas pessoas na estação Shibuya...[n][w][e]
 [s][vp 8 2 1 0 21 0]O que ele poderia estar tentando proteger[n]isso era tão importante que ele fez isso[n]conosco?[n][w][e]
-[s][vp 8 2 1 0 21 0]* suspiro* Por que eu me importo...? O que[n]estou fazendo...?[n][w][e]
+[s][vp 8 2 1 0 21 0]*suspiro* Por que eu me importo...? O que[n]estou fazendo...?[n][w][e]
 
 [msg MSG_AYASIOTOKO_014_0_0 [Rookie Station Attendant]]
 [s][f 4 23 1 19 3 10 0 10][vp 8 2 1 0 19 0]Você parece um pouco deprimido, senhor. Você[n]perdeu algo?[n][w][e]
@@ -622,7 +622,7 @@
 
 [msg Quest13_target_00_04 [Reserved Husband]]
 [s]Não, eu apenas quis dizer que poderíamos[n]usar esse dinheiro para...[n][w][e]
-[s]* suspiro* Talvez possamos fazer uma viagem[n]em outra vez...[n][w][e]
+[s]*suspiro* Talvez possamos fazer uma viagem[n]em outra vez...[n][w][e]
 
 [msg Quest13_target_00_05 [Keiko Shiratori]]
 [s]E quando você acha que isso será?[n][w][e]
@@ -631,7 +631,7 @@
 [s]Tem que manter as aparências com os[n]vizinhos. Tenho certeza que você entende,[n]não é?[n][w][e]
 
 [msg Quest13_target_00_06 [Reserved Husband]]
-[s]Novamente? Multar...[n][w][e]
+[s]Novamente? Bom...[n][w][e]
 
 [msg Quest13_target_sinjyo_00]
 [s]Parece que ela é quem executa o show nesse[n]relacionamento.[n][w][e]
@@ -749,7 +749,7 @@
 [s]O que diabos é um local de phan? Qual[n]departamento fez isso?[n][f 4 23 1 601 3 10 0 10][w][e]
 
 [msg Quest36_target_01_01 [Miserable Businessman]]
-[s]* suspiro* isso é [n][f 4 23 1 600 3 10 0 10][w][e]
+[s]*suspiro* isso é [n][f 4 23 1 600 3 10 0 10][w][e]
 
 [msg Quest36_target_01_02 [Shinsuke Kishi]]
 [s]...Você novamente?[n][f 4 23 1 601 3 10 0 10][w][e]
@@ -1217,7 +1217,7 @@
 [s][vp 8 2 1 0 7 0]Então, eu vou jogar fora meu passado e viver[n]no futuro![n][w][e]
 
 [msg MSG_TOSISABA_022_0_0 [Young-Looking Woman]]
-[s][f 4 23 1 7 3 10 0 10][vp 8 2 1 0 7 0]* suspiro* No próximo ano é a cerimônia de[n]maioridade da minha filha.[n][w][e]
+[s][f 4 23 1 7 3 10 0 10][vp 8 2 1 0 7 0]*suspiro* No próximo ano é a cerimônia de[n]maioridade da minha filha.[n][w][e]
 
 [msg MSG_TOSISABA_022_1_0 [Middle-Aged Lady]]
 [s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]Ninguém quer envelhecer, mas não acho que[n]seja uma coisa ruim.[n][w][e]

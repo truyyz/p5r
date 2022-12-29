@@ -11,7 +11,7 @@
 [s][vp 1 0 0 0 0 0]Além disso, preciso acordar cedo amanhã. Eu[n]deveria virar a placa e ir para a cama...[n][w][e]
 
 [msg MSG_105_303_EX_01 [Woman in a Maid Outfit]]
-[s][vp 1 0 0 0 0 0]* suspiro* outro dia de distribuição de[n]folhetos...[n][w][e]
+[s][vp 1 0 0 0 0 0]*suspiro* outro dia de distribuição de[n]folhetos...[n][w][e]
 [s][vp 1 0 0 0 0 0]Hora de voltar para a loja...[n][w][e]
 
 [msg MSG_105_303_EX_02]

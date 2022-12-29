@@ -41,7 +41,7 @@
 [s][bup 0 104 4 0 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Pare de tentar estragar o momento.[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Iwai]]
-[s][bup 0 104 3 0 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]* suspiro* Então, no final, eu estava apenas[n]lutando com meus próprios demônios...[n][f 1 3 65535][w][e]
+[s][bup 0 104 3 0 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]*suspiro* Então, no final, eu estava apenas[n]lutando com meus próprios demônios...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Preso na minha infância de baixa qualidade e[n]todos os problemas que eu cresci...[n][f 1 3 65535][w][e]
 [s][bup 0 104 0 0 0][f 4 10 65535 0 0][f 4 24 0 4 0 59 5 100][f 4 24 0 4 0 0 5 100][vp 8 0 0 18 65535 0]Minha visão de Kaoru estava toda[n]distorcida...[n]'Causa das minhas memórias podres de[n]infância.[n][f 1 3 65535][w][e]
 
@@ -118,7 +118,7 @@
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 104 10 301 1][vp 8 0 0 46 65535 0]Eles ajudam as pessoas necessitadas, hein?[n][f 1 3 65535][w][e]
 
 [msg MSG_031_5_0 [Iwai]]
-[s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 0 0 47 65535 0]* risada* interessante...[n][f 1 3 65535][w][e]
+[s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 0 0 47 65535 0]*risada* interessante...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 48 65535 0]Tudo bem, vou colocar todo o meu esforço[n]nesse menu especial sobre o qual[n]conversamos.[n][f 1 3 65535][w][e]
 
 [msg MSG_032_0_0 [Iwai]]

@@ -71,7 +71,7 @@
 [s][vp 8 0 0 0 5 0]O que você vai fazer sobre isso, hein?[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Shinya]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 110 5 300 1][vp 8 2 0 17047 65535 0]M-Mom![f 4 1]-san é...[n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 110 5 300 1][vp 8 2 0 17047 65535 0]M-Mom! [f 4 1]-san é...[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Shinya's Mother]]
 [s][vp 8 0 0 0 5 0][f 4 1]-san, hm? Eu vou lembrar de você.[n][f 1 3 65535][w][e]
@@ -103,7 +103,7 @@
 [s]Isso não seria bom.[e]
 
 [msg MSG_029_0_0 [Shinya's Mother]]
-[s][vp 8 0 0 0 5 0]...Multar. Apenas saiba isto: não pretendo[n]perder.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 5 0]...Bom. Apenas saiba isto: não pretendo[n]perder.[n][f 1 3 65535][w][e]
 
 [msg MSG_030_0_0 [Shinya's Mother]]
 [s][vp 8 0 0 0 5 0]Hmph. Então fique longe dele.[n][f 1 3 65535][w][e]

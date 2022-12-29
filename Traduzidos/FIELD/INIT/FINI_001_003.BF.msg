@@ -82,7 +82,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 1 2 65535 0]A loja pode ser bastante confusa para[n]encontrar às vezes.[n][w][e]
 
 [msg MSG_E65010300_START_010 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 1 1 65535 0]Yo, [f 4 2]—Eu vi você.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 1 1 65535 0]Yo, [f 4 2] —Eu vi você.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 2 65535 0]Eu terminei com todos os meus negócios.[n]E quanto a você?[n][w][e]
 
 [msg MSG_E65010300_START_020 [Morgana]]

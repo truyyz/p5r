@@ -79,7 +79,7 @@
 
 [msg MSG_020_0_0 [Sojiro]]
 [s][bup 0 103 3 0 0][f 4 10 65535 0 0][vp 8 2 0 5043 65535 0]Ele realmente não tem nada melhor para[n]fazer...?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][f 4 24 0 4 0 59 10 100][f 4 24 0 4 0 0 10 100][vp 8 0 0 0 65535 0]* suspiro* Acho que devo explicar o que está[n]acontecendo. Ele pode tentar aparecer[n]quando não estiver por perto.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][f 4 24 0 4 0 59 10 100][f 4 24 0 4 0 0 10 100][vp 8 0 0 0 65535 0]*suspiro* Acho que devo explicar o que está[n]acontecendo. Ele pode tentar aparecer[n]quando não estiver por perto.[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Sojiro]]
 [s][bup 0 103 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]... Esse homem é um velho conhecido meu que[n]está com pouco dinheiro agora.[n][f 1 3 65535][w][e]
@@ -107,7 +107,7 @@
 [s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Já é a hora?[n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [Sojiro]]
-[s][bup 0 103 5 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]* suspiro* Eu o denunciaria aos policiais se[n]ele não fosse relacionado a ela...[n][f 1 3 65535][w][e]
+[s][bup 0 103 5 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*suspiro* Eu o denunciaria aos policiais se[n]ele não fosse relacionado a ela...[n][f 1 3 65535][w][e]
 
 [msg MSG_025_0_0 [Sojiro]]
 [s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Oh, uh... não importa isso.[n][f 1 3 65535][w][e]

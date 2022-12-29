@@ -7,7 +7,7 @@
 
 [msg MSG_001_3_0 [Akechi]]
 [s][bup 0 9 10 65535 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Relembrando?[n][f 1 3 65535][w][e]
-[s][bup 0 9 11 65535 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]* risada* você muito bem pode estar certo.[n]Estou lembrando de coisas que são um pouco[n]amargas para o meu gosto, no entanto...[n][f 1 3 65535][w][e]
+[s][bup 0 9 11 65535 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]*risada* você muito bem pode estar certo.[n]Estou lembrando de coisas que são um pouco[n]amargas para o meu gosto, no entanto...[n][f 1 3 65535][w][e]
 
 [msg MSG_001_5_0 [Akechi]]
 [s][bup 0 9 10 65535 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]Você está falando sério agora?[n]... Embora eu deva admitir que é bastante[n]gauche da minha parte fazer essa pergunta.[n][f 1 3 65535][w][e]

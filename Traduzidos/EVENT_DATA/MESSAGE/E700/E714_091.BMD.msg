@@ -64,7 +64,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu sempre poderia me tornar sua empregada[n]pessoal, Riiight?...Estou brincando.[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Kawakami]]
-[s][bup 0 109 601 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 15 15 1009]* Giggle* Obrigado pelo seu trabalho duro[n]como mestre![n][f 1 3 65535][w][e]
+[s][bup 0 109 601 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 15 15 1009]*Giggle* Obrigado pelo seu trabalho duro[n]como mestre![n][f 1 3 65535][w][e]
 
 [msg MND_990_0_0]
 [s][vp 8 0 0 0 65535 0]Sinto uma conexão aprofundada com Kawakami...[n][f 1 3 65535][w][e]
@@ -91,7 +91,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ah, e é claro que vou manter minha promessa[n]inicial também. Aquele sobre relaxar na[n]aula.[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Kawakami]]
-[s][bup 0 109 601 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 15 5 1009]* risada*... Eu pego que você fica sozinho[n]facilmente?[n][f 1 3 65535][w][e]
+[s][bup 0 109 601 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 15 5 1009]*risada*... Eu pego que você fica sozinho[n]facilmente?[n][f 1 3 65535][w][e]
 [s][bup 0 109 600 0 0][f 4 10 65535 0 0][f 4 24 0 6 0 36 5 100][vp 8 0 0 0 65535 0]... Mas você não deveria dizer coisas assim[n]tão casualmente, ok?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]... Algumas mulheres podem entender mal suas[n]intenções.[n][f 1 3 65535][w][e]
 
@@ -110,7 +110,7 @@
 [s]Quero dizer o que eu digo.[e]
 
 [msg MSG_024_0_0 [Kawakami]]
-[s][bup 0 109 601 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 15 5 1009]* risada* que foi muito honesto da sua parte.[n][f 1 3 65535][w][e]
+[s][bup 0 109 601 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 15 5 1009]*risada* que foi muito honesto da sua parte.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você é bastante problemático, criança, mas[n]você ainda é uma boa pessoa.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vou protegê-lo, como seu professor de sala[n]de aula.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ah, e é claro que vou manter minha promessa[n]inicial também. Aquele sobre relaxar na[n]aula.[n][f 1 3 65535][w][e]

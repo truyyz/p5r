@@ -47,7 +47,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Quero dizer, como um aluno comum do ensino[n]médio poderia mudar o curso do destino?[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Chihaya]]
-[s][bup 0 113 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]...Multar.[n][f 1 3 65535][w][e]
+[s][bup 0 113 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]...Bom.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Eu só vou ter que verificar seu poder. O[n]próprio poder que reverteu minha previsão[n]de cartão de tarô![n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Chihaya]]
@@ -78,7 +78,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 29 65535 0]Como isso soa? É um acordo?[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Chihaya]]
-[s][bup 0 113 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 30 65535 0]* suspiro* Caso contrário, não poderei[n]continuar...[n][f 1 3 65535][w][e]
+[s][bup 0 113 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 30 65535 0]*suspiro* Caso contrário, não poderei[n]continuar...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 31 65535 0]Por favor, eu imploro... eu preciso saber se[n]o destino realmente pode ser mudado...[n][f 1 3 65535][w][e]
 
 [sel SEL_020_0_0 top]

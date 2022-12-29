@@ -131,7 +131,7 @@
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Parece que o anfitrião já me enviou algo.[n][f 1 3 65535][w][e]
 [s][bup 0 6 5 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 44 5 100]... O que isso deve dizer?[n]Está cheio de emojis.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]"É meee, Tsukasa.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]"Eu sou tão hap para B Friends of U,[n]mako-chan *batendo palmas emoji * *batendo[n]palmas emoji * *emoji de fontes termais *"[n]" [n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]"Eu sou tão hap para B Friends of U,[n]mako-chan *batendo palmas emoji* *batendo[n]palmas emoji* *emoji de fontes termais *"[n]" [n][f 1 3 65535][w][e]
 
 [msg MSG_035_0_0 [Makoto]]
 [s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Essa foi apenas uma frase coerente, mas vou[n]precisar me acostumar com isso se eu vou[n]ajudar Eiko...[n][f 1 3 65535][w][e]

@@ -131,7 +131,7 @@
 [s][vp 8 0 0 0 65535 0](SE)オー![n][f 1 3 65535][w][e]
 
 [msg MSG_040_0_0 [Ann]]
-[s][bup 0 4 1 4 0][f 4 10 65535 0 0][vp 8 0 0 47 65535 0]* suspiro* que realmente me fez sentir um[n]pouco melhor. É como se tudo acabasse.[n][f 1 3 65535][w][e]
+[s][bup 0 4 1 4 0][f 4 10 65535 0 0][vp 8 0 0 47 65535 0]*suspiro* que realmente me fez sentir um[n]pouco melhor. É como se tudo acabasse.[n][f 1 3 65535][w][e]
 
 [msg MSG_041_0_0 [Makoto]]
 [s][bup 0 6 0 4 0][f 4 10 65535 0 0][vp 8 0 0 48 65535 0]Você pode estar aí. Quanto mais eu penso[n]nisso, mais pressão eu percebo que[n]estávamos realmente embaixo.[n][f 1 3 65535][w][e]

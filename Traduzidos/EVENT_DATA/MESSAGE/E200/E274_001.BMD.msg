@@ -35,7 +35,7 @@
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Talvez eles tenham extraído os dados de[n]nossos telefones?[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Ann]]
-[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Por que [f 4 2]Obtendo um erro quando ele tenta responder?[n][f 1 3 65535][w][e]
+[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Por que [f 4 2] Obtendo um erro quando ele tenta responder?[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Makoto]]
 [s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Talvez o fim do recebimento não exista?[n][f 1 3 65535][w][e]

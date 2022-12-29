@@ -21,7 +21,7 @@
 [s][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Huh...? Você é uma pessoa de gato?[n]Isso é uma chatice. Eu também gosto de[n]cachorros.[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Ohya]]
-[s][bup 0 107 5 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]* suspiro* puxar essas notas consecutivas[n]está realmente me desgastando.[n][f 1 3 65535][w][e]
+[s][bup 0 107 5 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*suspiro* puxar essas notas consecutivas[n]está realmente me desgastando.[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Lala Escargot]]
 [s][vp 8 0 0 0 65535 0]Nesse ritmo, você vai trabalhar até a morte.[n]Você tem encontrado sua cota, certo?[n][f 1 3 65535][w][e]

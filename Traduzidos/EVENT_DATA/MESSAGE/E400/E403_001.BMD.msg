@@ -25,5 +25,5 @@
 [s][vp 8 0 0 0 3 0]Mas a verdade é que essas mortes suspeitas[n]estão ocorrendo há muito tempo...[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Prime Minister]]
-[s][vp 8 0 0 0 65535 0]* suspiro* Parece que não há nada que[n]possamos fazer além de nos renunciar a[n]derrotar...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]*suspiro* Parece que não há nada que[n]possamos fazer além de nos renunciar a[n]derrotar...[n][f 1 3 65535][w][e]
 

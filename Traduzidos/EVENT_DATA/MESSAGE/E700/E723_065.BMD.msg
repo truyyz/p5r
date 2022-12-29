@@ -24,7 +24,7 @@
 [s][bup 0 216 304 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Umm... a última vez que estive aqui, o café[n]foi tão delicioso que só tive que parar[n]novamente...[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Maruki]]
-[s][bup 0 216 304 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Foi-me dito que, hum, [f 4 1]is lodging at a café...[n][f 1 3 65535][w][e]
+[s][bup 0 216 304 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Foi-me dito que, hum, [f 4 1] está[n]hospedado em um café...[n][f 1 3 65535][w][e]
 [s][bup 0 216 304 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]-kun e eu apenas passamos, então...[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Sojiro]]
@@ -40,7 +40,7 @@
 [s][bup 0 216 301 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Está bem para mim, eu amo animais. Eles não[n]parecem compartilhar o sentimento, haha.[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Morgana]]
-[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 0 1021 65535 0]... diabos ele está fazendo aqui?[n][f 4 2]está fora de sua pequena viagem.[n][f 1 3 65535][w][e]
+[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 0 1021 65535 0]... diabos ele está fazendo aqui?[n][f 4 2] está fora de sua pequena viagem.[n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Futaba]]
 [s][bup 0 8 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sem pista. Ele é apenas um estranho de nível[n]alienígena para mim.[n][f 1 3 65535][w][e]
@@ -159,6 +159,6 @@
 [s][bup 0 103 1 0 0][f 4 10 65535 0 0][vp 8 2 0 5048 65535 0]Obrigado.[n][f 1 3 65535][w][e]
 
 [msg MSG_049_0_0 [Sojiro]]
-[s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]* risada* cara...[n][f 1 3 65535][w][e]
+[s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*risada* cara...[n][f 1 3 65535][w][e]
 [s][bup 0 103 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 15 0 36 5 100]As coisas com certeza estão mudando por aqui.[n][f 1 3 65535][w][e]
 

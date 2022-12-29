@@ -16,7 +16,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Algo sobre os perigos da falta de[n]supervisão...[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Kawakami]]
-[s][bup 0 109 3 0 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]* suspiro* Eu não pretendo bater, mas...[n]apenas certifique-se de não causar[n]problemas, ok?[n][f 1 3 65535][w][e]
+[s][bup 0 109 3 0 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]*suspiro* Eu não pretendo bater, mas...[n]apenas certifique-se de não causar[n]problemas, ok?[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Ah, e mais uma coisa.[n][f 1 3 65535][w][e]

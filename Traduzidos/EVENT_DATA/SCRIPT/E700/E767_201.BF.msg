@@ -213,7 +213,7 @@
 [msg MSG_Chatting_Makoto_05 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 2048 65535 0]Depois de melhorar o cozimento, você[n]começará a ser mais específico sobre as[n]ferramentas usadas.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]É como querer uma faca de cozinha que limpa[n]ou se encaixa bem na sua mão... ou uma[n]frigideira que não gruda se você não usar[n]óleo...[n][f 1 3 65535][w][e]
-[s][bup 0 6 5 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]* suspiro* Nesse ritmo, só vou ficar mais[n]exigente à medida que minha habilidade[n]aumenta...[n][f 1 3 65535][w][e]
+[s][bup 0 6 5 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]*suspiro* Nesse ritmo, só vou ficar mais[n]exigente à medida que minha habilidade[n]aumenta...[n][f 1 3 65535][w][e]
 
 [msg MSG_Chatting_Makoto_06 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 2155 65535 0]Mesmo depois que crescemos, ainda temos[n]algum apego emocional pelas coisas que[n]gostávamos quando éramos crianças, não é?[n][f 1 3 65535][w][e]

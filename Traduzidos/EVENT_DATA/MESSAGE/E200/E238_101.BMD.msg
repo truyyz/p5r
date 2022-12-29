@@ -43,18 +43,18 @@
 
 [msg MSG_012_0_0 [Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Niijima Makoto, presidente do Conselho[n]Estudantil de Shujin? Você deveria[n]conhecê-la.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]A sala do conselho estudantil fica no[n]terceiro andar. Apenas certifique-se de[n]ir... *bocejo * [n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]A sala do conselho estudantil fica no[n]terceiro andar. Apenas certifique-se de[n]ir... *bocejo* [n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Talvez você tenha esquecido? Bem, fique[n]claro de qualquer maneira.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]A sala do conselho estudantil fica no[n]terceiro andar. Apenas certifique-se de[n]ir... *bocejo * [n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]A sala do conselho estudantil fica no[n]terceiro andar. Apenas certifique-se de[n]ir... *bocejo* [n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Pensar assim não vai ajudar nada.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]As coisas só pioram quando você é um[n]adulto... espere, não faz sentido reclamar[n]com você sobre isso...[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]A sala do conselho estudantil fica no[n]terceiro andar. Apenas certifique-se de[n]ir... *bocejo * [n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]A sala do conselho estudantil fica no[n]terceiro andar. Apenas certifique-se de[n]ir... *bocejo* [n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]A sala do conselho estudantil fica no[n]terceiro andar. Apresse-se agora.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]* Bocejo* Fico tão sonolento nessa hora do[n]dia...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]*Bocejo* Fico tão sonolento nessa hora do[n]dia...[n][f 1 3 65535][w][e]
 

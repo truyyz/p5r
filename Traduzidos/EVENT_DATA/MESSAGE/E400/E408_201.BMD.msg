@@ -15,7 +15,7 @@
 [s][bup 0 206 1 0 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Se o estudo da Psiência cognitiva progride,[n]acredito que é possível aumentar a faixa[n]alvo.[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Politician Ooe]]
-[s][vp 8 0 0 8 65535 0]* risada* Eu lhe ofereço boa sorte com esse[n]empreendimento. Espero que você continue a[n]nos ajudar.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 8 65535 0]*risada* Eu lhe ofereço boa sorte com esse[n]empreendimento. Espero que você continue a[n]nos ajudar.[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [(SE)獅童 正義]]
 [s][vp 8 0 0 4 65535 0](含み笑い)[n][f 1 3 65535][w][e]

@@ -2,7 +2,7 @@
 [s][f 5 14]Você esta livre!?[n][w][e]
 
 [msg MSG_001_0_0 [Futaba]]
-[s][f 5 14][f 4 2]: Eu estou livre.[n]Ver? Você é livre.[n][w][e]
+[s][f 5 14][f 4 2] : Eu estou livre.[n]Ver? Você é livre.[n][w][e]
 
 [msg MSG_002_0_0 [Futaba]]
 [s][f 5 14]Apenas uma promessa restante.[n][w][e]

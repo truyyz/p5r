@@ -6,7 +6,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Originalmente, pensei que esses lugares[n]precisariam se esconder nas sombras, longe[n]do escrutínio público.[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Clara]]
-[s][vp 8 2 0 48600 65535 0]* Giggle* Bem-vindo para casa, mestre![n][f 1 3 65535][w][e]
+[s][vp 8 2 0 48600 65535 0]*Giggle* Bem-vindo para casa, mestre![n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Justine]]
 [s][bup 0 101 4 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você está se dirigindo a mim? Você está[n]muito enganado sobre quem é seu mestre...[n][f 1 3 65535][w][e]
@@ -59,7 +59,7 @@
 [s][bup 0 102 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Assista! Você acha que rir de seus mestres é[n]uma disciplina adequada?[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Clara]]
-[s][vp 8 0 0 0 65535 0]* suspiro* Ohhhhh, agora eu entendo![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]*suspiro* Ohhhhh, agora eu entendo![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Você está aqui para o serviço de disciplina,[n]é isso?[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Clara]]

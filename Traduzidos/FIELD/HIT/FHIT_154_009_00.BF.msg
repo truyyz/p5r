@@ -158,7 +158,7 @@
 
 [msg D03_09_SECOND_HALF_CHECK_4 [Ann]]
 [s][bup 0 4 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Oh. Você está certo- não podemos ir assim.[n][w][e]
-[s][bup 0 4 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]* suspiro* Acho que teremos que procurar um[n]caminho diferente.[n][w][e]
+[s][bup 0 4 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]*suspiro* Acho que teremos que procurar um[n]caminho diferente.[n][w][e]
 
 [msg D03_09_SECOND_HALF_CHECK_5 [Morgana]]
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1045 65535 0]E finalmente estamos dentro![n][w][e]

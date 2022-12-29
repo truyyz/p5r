@@ -46,7 +46,7 @@
 
 [msg MSG_011_0_0 [Makoto]]
 [s][bup 0 6 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 3 5 6]Coentro...? Espere um segundo...[n]Os rolinhos primavera são vietnamitas...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]* suspiro* Por que eu os confundi...? Não,[n]espere...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*suspiro* Por que eu os confundi...? Não,[n]espere...[n][f 1 3 65535][w][e]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]China e Vietnã estão próximos um do outro.[n]Talvez ainda possamos encontrar alguns[n]aqui...[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Makoto]]

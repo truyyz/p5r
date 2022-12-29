@@ -72,7 +72,7 @@
 [s][bup 0 4 6 65535 0][f 4 10 65535 0 0][vp 8 0 0 50 65535 0]... Estou tão feliz.[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Ann]]
-[s][bup 0 4 6 65535 0][f 4 10 65535 0 0][vp 8 0 0 51 65535 0]* Giggle* Você está preocupado?[n][f 1 3 65535][w][e]
+[s][bup 0 4 6 65535 0][f 4 10 65535 0 0][vp 8 0 0 51 65535 0]*Giggle* Você está preocupado?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 52 65535 0]Talvez seja mais apropriado para você estar[n]perseguindo-me?[n][f 1 3 65535][w][e]
 [s][f 4 24 0 6 0 38 5 100][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 53 65535 0]...Brincando. Eu não seria capaz de lidar[n]com isso.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 54 65535 0]Para ser sincero... ultimamente, sentiu-se[n]sozinho apenas esperando pela próxima vez[n]que vou te ver.[n][f 1 3 65535][w][e]

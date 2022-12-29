@@ -116,7 +116,7 @@
 [s][vp 8 1 65535 6 0 0]Você seriamente não pode tomar decisões tão[n]simples...?[n]Aumentar a segurança. Cercá-los![n][f 1 6 65534][e]
 
 [msg D05_ALERT_UP_LORD_03]
-[s][vp 8 1 65535 3 0 0]* suspiro* Acho que eles ficaram de[n]boas-vindas. Aumente a segurança![n][f 1 6 65534][e]
+[s][vp 8 1 65535 3 0 0]*suspiro* Acho que eles ficaram de[n]boas-vindas. Aumente a segurança![n][f 1 6 65534][e]
 
 [msg D05_ALERT_UP_LORD_11]
 [s][vp 8 1 65535 14 0 0]Eu sugiro que você não me deixa com tanta[n]raiva. Afaste-os de uma só vez![n][f 1 6 65534][e]
@@ -134,7 +134,7 @@
 [s][vp 8 1 65535 21 0 0]Você não pode ver que estou ocupado? De[n]qualquer forma, a garantia para esse caso[n]é...[n][f 1 6 65534][e]
 
 [msg D05_ALERT_UP_LORD_ERROR__3]
-[s][vp 8 1 65535 22 0 0]Não tenho tempo para seus malditos[n]relatórios neste momento![n]* ri* bem, eu também vou...[n][f 1 6 65534][e]
+[s][vp 8 1 65535 22 0 0]Não tenho tempo para seus malditos[n]relatórios neste momento![n]*ri* bem, eu também vou...[n][f 1 6 65534][e]
 
 [msg D05_ALERT_UP_LORD_ERROR__4]
 [s][vp 8 1 65535 23 0 0]Desculpe, mas terei que ouvir seu relatório[n]mais tarde. Ah, o mármore azul que chamamos[n]de terra...[n][f 1 6 65534][e]
@@ -1019,7 +1019,7 @@
 [s][vp 8 2 1 7041 65535 0]De jeito nenhum está acontecendo![n][f 1 2 25][e]
 
 [msg D162_support_mes11_B]
-[s][vp 8 2 1 3048 65535 0]* risada* Oh, acho que tudo ficará bem- é[n]basicamente o mesmo que sempre fazemos![n][f 1 2 50][e]
+[s][vp 8 2 1 3048 65535 0]*risada* Oh, acho que tudo ficará bem- é[n]basicamente o mesmo que sempre fazemos![n][f 1 2 50][e]
 
 [msg D_ACT_JUMP_PC02_mes01]
 [s][vp 1 0 0 2000 0 0]Hng![n][f 1 6 65535][e]
@@ -1139,10 +1139,10 @@
 [s][vp 1 0 0 2038 0 0]Não é tão ruim hoje, hein?[n][f 1 6 65535][e]
 
 [msg D_EXIT_C_PC02_mes01]
-[s][vp 1 0 0 2039 0 0]* suspiro* eu estou vencido.[n]Vamos sair.[n][f 1 6 65535][e]
+[s][vp 1 0 0 2039 0 0]*suspiro* eu estou vencido.[n]Vamos sair.[n][f 1 6 65535][e]
 
 [msg D_EXIT_C_PC02_mes02]
-[s][vp 1 0 0 2040 0 0]* suspiro* difícil hoje, hein?[n][f 1 6 65535][e]
+[s][vp 1 0 0 2040 0 0]*suspiro* difícil hoje, hein?[n][f 1 6 65535][e]
 
 [msg D_EXIT_C_PC02_mes03]
 [s][vp 1 0 0 2041 0 0]Eu sou batida. Vamos descansar um pouco.[n][f 1 6 65535][e]
@@ -1211,7 +1211,7 @@
 [s][vp 1 0 0 2062 0 0]Whaddya pensa, Joker?[n]Alguma coisa por aqui?[n][f 1 6 65535][e]
 
 [msg D_DOOR_KEY_PC02_mes01]
-[s][vp 1 0 0 2063 0 0]* gemido* esta porta está trancada do outro[n]lado.[n][f 1 6 65535][e]
+[s][vp 1 0 0 2063 0 0]*gemido* esta porta está trancada do outro[n]lado.[n][f 1 6 65535][e]
 
 [msg D_DOOR_KEY_PC02_mes02]
 [s][vp 1 0 0 2064 0 0]Huh, a fechadura está do outro lado?[n][f 1 6 65535][e]
@@ -1787,7 +1787,7 @@
 [s][vp 1 0 0 3074 0 0]Trabalho liso! Por que não continuamos e[n]enfrentamos outro?[n][f 1 6 65535][e]
 
 [msg D_QUEST_C_PC03_mes01]
-[s][vp 1 0 0 3075 0 0]* suspiro* Estou muito cansado. Por que não[n]voltamos para casa durante o dia?[n][f 1 6 65535][e]
+[s][vp 1 0 0 3075 0 0]*suspiro* Estou muito cansado. Por que não[n]voltamos para casa durante o dia?[n][f 1 6 65535][e]
 
 [msg D_QUEST_C_PC03_mes02]
 [s][vp 1 0 0 3076 0 0]Ei, estou cansado. Vamos para casa.[n][f 1 6 65535][e]
@@ -2627,7 +2627,7 @@
 [s][vp 1 0 0 4009 0 0]E, terminamos.[n]Vamos lá, vamos lá.[n][f 1 6 65535][e]
 
 [msg BAT_END_B_PC04_mes01]
-[s][vp 1 0 0 4010 0 0]* risada* isso foi fácil![n][f 1 6 65535][e]
+[s][vp 1 0 0 4010 0 0]*risada* isso foi fácil![n][f 1 6 65535][e]
 
 [msg BAT_END_B_PC04_mes02]
 [s][vp 1 0 0 4011 0 0]Nem sequer suou![n][f 1 6 65535][e]
@@ -2687,7 +2687,7 @@
 [s][vp 1 0 0 4029 0 0]Eles nos viram! Não temos escolha a não ser[n]lutar![n][f 1 6 65535][e]
 
 [msg D_START_PC04_mes01]
-[s][vp 1 0 0 4030 0 0]* risada* Estou com vontade de ação. Vamos[n]fazer isso![n][f 1 6 65535][e]
+[s][vp 1 0 0 4030 0 0]*risada* Estou com vontade de ação. Vamos[n]fazer isso![n][f 1 6 65535][e]
 
 [msg D_START_PC04_mes02]
 [s][vp 1 0 0 4031 0 0]Estou pronto! Vamos![n][f 1 6 65535][e]
@@ -2720,7 +2720,7 @@
 [s][vp 1 0 0 4040 0 0]Entendi. Estou muito cansado hoje...[n][f 1 6 65535][e]
 
 [msg D_EXIT_C_PC04_mes03]
-[s][vp 1 0 0 4041 0 0]* suspiro* Vamos voltar.[n]Hoje foi difícil...[n][f 1 6 65535][e]
+[s][vp 1 0 0 4041 0 0]*suspiro* Vamos voltar.[n]Hoje foi difícil...[n][f 1 6 65535][e]
 
 [msg D_FAST_S_PC04_mes01]
 [s][vp 1 0 0 4042 0 0]Estava aqui. Agora o que fazemos?[n][f 1 6 65535][e]
@@ -2903,7 +2903,7 @@
 [s][vp 1 0 0 4101 0 0]Owww, tomei mais danos do que eu pensava...[n][f 1 6 65535][e]
 
 [msg D_DANGER_SP_PC04_mes01]
-[s][vp 1 0 0 4102 0 0]* suspiro* eu estou vencido...[n][f 1 6 65535][e]
+[s][vp 1 0 0 4102 0 0]*suspiro* eu estou vencido...[n][f 1 6 65535][e]
 
 [msg D_DANGER_SP_PC04_mes02]
 [s][vp 1 0 0 4103 0 0]Eu não consigo manter minha energia acesa...[n][f 1 6 65535][e]
@@ -2912,7 +2912,7 @@
 [s][vp 1 0 0 4104 0 0]Estou perdendo o foco...[n][f 1 6 65535][e]
 
 [msg D_ACT_TBOX_A_PC04_mes01]
-[s][vp 1 0 0 4105 0 0]* risada* o que está dentro?[n][f 1 6 65535][e]
+[s][vp 1 0 0 4105 0 0]*risada* o que está dentro?[n][f 1 6 65535][e]
 
 [msg D_ACT_TBOX_A_PC04_mes02]
 [s][vp 1 0 0 4106 0 0]Então, qual é o prêmio?[n][f 1 6 65535][e]
@@ -3179,7 +3179,7 @@
 [s][vp 1 0 0 5013 0 0]Hmph, brincadeira de criança.[n][f 1 6 65535][e]
 
 [msg BAT_END_B_PC05_mes05]
-[s][vp 1 0 0 5014 0 0]* suspiro* isso é tudo?[n][f 1 6 65535][e]
+[s][vp 1 0 0 5014 0 0]*suspiro* isso é tudo?[n][f 1 6 65535][e]
 
 [msg BAT_END_C_PC05_mes01]
 [s][vp 1 0 0 5015 0 0]NGH... Tivemos um tempo difícil.[n][f 1 6 65535][e]
@@ -3443,7 +3443,7 @@
 [s][vp 1 0 0 5101 0 0]Urgh, eu sofri muito dano...[n][f 1 6 65535][e]
 
 [msg D_DANGER_SP_PC05_mes01]
-[s][vp 1 0 0 5102 0 0]* suspiro* eu fico cansado.[n][f 1 6 65535][e]
+[s][vp 1 0 0 5102 0 0]*suspiro* eu fico cansado.[n][f 1 6 65535][e]
 
 [msg D_DANGER_SP_PC05_mes02]
 [s][vp 1 0 0 5103 0 0]Urgh, minha exaustão está me alcançando...[n][f 1 6 65535][e]
@@ -3491,7 +3491,7 @@
 [s][vp 1 0 0 5117 0 0]Um inimigo raro. Vamos pegar.[n][f 1 6 65535][e]
 
 [msg D_COVER_C_PC05_mes02]
-[s][vp 1 0 0 5118 0 0]* risada* há um raro.[n][f 1 6 65535][e]
+[s][vp 1 0 0 5118 0 0]*risada* há um raro.[n][f 1 6 65535][e]
 
 [msg D_COVER_C_PC05_mes03]
 [s][vp 1 0 0 5119 0 0]Hrmm, um raro. Vamos conseguir, certo, Joker?[n][f 1 6 65535][e]
@@ -3725,7 +3725,7 @@
 [s][vp 1 0 0 6015 0 0]Ugh... nós sofremos muitos danos.[n][f 1 6 65535][e]
 
 [msg BAT_END_C_PC06_mes02]
-[s][vp 1 0 0 6016 0 0]* Pant** Pant* Tivemos um pouco de problemas[n]lá.[n][f 1 6 65535][e]
+[s][vp 1 0 0 6016 0 0]*Pant** Pant* Tivemos um pouco de problemas[n]lá.[n][f 1 6 65535][e]
 
 [msg BAT_END_C_PC06_mes03]
 [s][vp 1 0 0 6017 0 0]Isso foi um oponente difícil...[n]Precisamos ter mais cuidado.[n][f 1 6 65535][e]
@@ -3743,7 +3743,7 @@
 [s][vp 1 0 0 6021 0 0]Fomos expostos![n][f 1 6 65535][e]
 
 [msg D_FOUND_A_PC06_mes03]
-[s][vp 1 0 0 6022 0 0]* suspiro* Cuidado![n][f 1 6 65535][e]
+[s][vp 1 0 0 6022 0 0]*suspiro* Cuidado![n][f 1 6 65535][e]
 
 [msg D_FOUND_A_PC06_mes04]
 [s][vp 1 0 0 6023 0 0]Eles nos viram!?[n][f 1 6 65535][e]
@@ -3983,7 +3983,7 @@
 [s][vp 1 0 0 6101 0 0]Minha saúde... é baixa.[n]Desculpe...[n][f 1 6 65535][e]
 
 [msg D_DANGER_SP_PC06_mes01]
-[s][vp 1 0 0 6102 0 0]* suspiro* meu nível de energia não é bom...[n][f 1 6 65535][e]
+[s][vp 1 0 0 6102 0 0]*suspiro* meu nível de energia não é bom...[n][f 1 6 65535][e]
 
 [msg D_DANGER_SP_PC06_mes02]
 [s][vp 1 0 0 6103 0 0]Com meu espírito onde está...[n]Isso pode ser difícil...[n][f 1 6 65535][e]
@@ -4250,7 +4250,7 @@
 [s][vp 1 0 0 7010 0 0]Huh? Eles não eram muito importantes.[n][f 1 6 65535][e]
 
 [msg BAT_END_B_PC07_mes02]
-[s][vp 1 0 0 7011 0 0]* Giggle* Eu lidei com isso facilmente.[n][f 1 6 65535][e]
+[s][vp 1 0 0 7011 0 0]*Giggle* Eu lidei com isso facilmente.[n][f 1 6 65535][e]
 
 [msg BAT_END_B_PC07_mes03]
 [s][vp 1 0 0 7012 0 0]Essa foi fácil.[n][f 1 6 65535][e]
@@ -4325,7 +4325,7 @@
 [s][vp 1 0 0 7035 0 0]Bom trabalho.[n]Vamos voltar para casa e descansar.[n][f 1 6 65535][e]
 
 [msg D_EXIT_B_PC07_mes01]
-[s][vp 1 0 0 7036 0 0]Vamos para casa.[n]* Giggle* Hoje foi fácil, hein?[n][f 1 6 65535][e]
+[s][vp 1 0 0 7036 0 0]Vamos para casa.[n]*Giggle* Hoje foi fácil, hein?[n][f 1 6 65535][e]
 
 [msg D_EXIT_B_PC07_mes02]
 [s][vp 1 0 0 7037 0 0]Fizemos muito bem, se eu disser isso mesmo![n]Agora, vamos para casa![n][f 1 6 65535][e]
@@ -4337,7 +4337,7 @@
 [s][vp 1 0 0 7039 0 0]Sim, vamos para casa já...[n]Eu sinto Muito. Eu simplesmente não posso[n]fazer mais hoje.[n][f 1 6 65535][e]
 
 [msg D_EXIT_C_PC07_mes02]
-[s][vp 1 0 0 7040 0 0]* suspiro* Eu terminei por hoje...[n]Vamos para casa e descansar.[n][f 1 6 65535][e]
+[s][vp 1 0 0 7040 0 0]*suspiro* Eu terminei por hoje...[n]Vamos para casa e descansar.[n][f 1 6 65535][e]
 
 [msg D_EXIT_C_PC07_mes03]
 [s][vp 1 0 0 7041 0 0]Eu poderia ter sido muito precipitado...[n]Eu não posso agir assim, posso?[n][f 1 6 65535][e]
@@ -4421,13 +4421,13 @@
 [s][vp 1 0 0 7067 0 0]Huh? Isso não vai abrir...[n]Vamos procurar em outro lugar.[n][f 1 6 65535][e]
 
 [msg D_DOOR_NOT_PC07_mes03]
-[s][vp 1 0 0 7068 0 0]Não podemos passar por aqui...[n]* suspiro* isso é muito ruim...[n][f 1 6 65535][e]
+[s][vp 1 0 0 7068 0 0]Não podemos passar por aqui...[n]*suspiro* isso é muito ruim...[n][f 1 6 65535][e]
 
 [msg D_QUEST_A_PC07_mes01]
 [s][vp 1 0 0 7069 0 0]Tudo bem! Temos o tesouro! Esse é um[n]trabalho para baixo![n][f 1 6 65535][e]
 
 [msg D_QUEST_A_PC07_mes02]
-[s][vp 1 0 0 7070 0 0]Justiça foi servida![n]* risada* Nosso trabalho está pronto![n][f 1 6 65535][e]
+[s][vp 1 0 0 7070 0 0]Justiça foi servida![n]*risada* Nosso trabalho está pronto![n][f 1 6 65535][e]
 
 [msg D_QUEST_A_PC07_mes03]
 [s][vp 1 0 0 7071 0 0]Nós pegamos o tesouro![n]Joker, greve uma pose de vitória![n][f 1 6 65535][e]
@@ -4445,10 +4445,10 @@
 [s][vp 1 0 0 7075 0 0]Nosso trabalho está feito.[n]Que tal chamarmos de dia?[n][f 1 6 65535][e]
 
 [msg D_QUEST_C_PC07_mes02]
-[s][vp 1 0 0 7076 0 0]* suspiro* Temos o tesouro.[n]Devemos ir para casa?[n][f 1 6 65535][e]
+[s][vp 1 0 0 7076 0 0]*suspiro* Temos o tesouro.[n]Devemos ir para casa?[n][f 1 6 65535][e]
 
 [msg D_QUEST_C_PC07_mes03]
-[s][vp 1 0 0 7077 0 0]Obtivemos o tesouro.[n]* suspiro*... estou meio cansado...[n][f 1 6 65535][e]
+[s][vp 1 0 0 7077 0 0]Obtivemos o tesouro.[n]*suspiro*... estou meio cansado...[n][f 1 6 65535][e]
 
 [msg D_ADVICE_A_PC07_mes01]
 [s][vp 1 0 0 7078 0 0]Eles estão em alerta alto...[n]Por que não chamamos de dia?[n][f 1 6 65535][e]
@@ -4514,7 +4514,7 @@
 [s][vp 1 0 0 7098 0 0]Vou escrever isso![n][f 1 6 65535][e]
 
 [msg D_DANGER_HP_PC07_mes01]
-[s][vp 1 0 0 7099 0 0]* calça** calça* minha resistência...[n][f 1 6 65535][e]
+[s][vp 1 0 0 7099 0 0]*calça** calça* minha resistência...[n][f 1 6 65535][e]
 
 [msg D_DANGER_HP_PC07_mes02]
 [s][vp 1 0 0 7100 0 0]Sinto muito, mas minha saúde é...[n][f 1 6 65535][e]
@@ -4532,7 +4532,7 @@
 [s][vp 1 0 0 7104 0 0]Minha energia... não vai durar...[n][f 1 6 65535][e]
 
 [msg D_ACT_TBOX_A_PC07_mes01]
-[s][vp 1 0 0 7105 0 0]* risada* Meu coração está correndo.[n][f 1 6 65535][e]
+[s][vp 1 0 0 7105 0 0]*risada* Meu coração está correndo.[n][f 1 6 65535][e]
 
 [msg D_ACT_TBOX_A_PC07_mes02]
 [s][vp 1 0 0 7106 0 0]Agora, o que está dentro?[n][f 1 6 65535][e]
@@ -4790,7 +4790,7 @@
 [s][vp 1 0 0 8010 0 0]Tão fácil, hein?[n]Eu posso dizer pelo seu rosto.[n][f 1 6 65535][e]
 
 [msg BAT_END_B_PC08_mes02]
-[s][vp 1 0 0 8011 0 0]* suspiro*... isso foi rápido.[n]* bocejo* Estou ficando com sono sem nada[n]para fazer...[n][f 1 6 65535][e]
+[s][vp 1 0 0 8011 0 0]*suspiro*... isso foi rápido.[n]*bocejo* Estou ficando com sono sem nada[n]para fazer...[n][f 1 6 65535][e]
 
 [msg BAT_END_B_PC08_mes03]
 [s][vp 1 0 0 8012 0 0]Deixe os noobs e vamos lá![n][f 1 6 65535][e]
@@ -5033,7 +5033,7 @@
 [s][vp 1 0 0 8091 0 0]Ei, algo chamou minha atenção.[n][f 1 6 65535][e]
 
 [msg D_CHECK_I_PC08_mes03]
-[s][vp 1 0 0 8092 0 0]* suspiro* Algo está aqui![n]Joker, vamos dar uma olhada![n][f 1 6 65535][e]
+[s][vp 1 0 0 8092 0 0]*suspiro* Algo está aqui![n]Joker, vamos dar uma olhada![n][f 1 6 65535][e]
 
 [msg D_PARTY_EX_PC08_mes01]
 [s][vp 1 0 0 8093 0 0]Deixe isso para mim![n][f 1 6 65535][e]
@@ -5888,7 +5888,7 @@
 [s][vp 1 0 0 9031 0 0]Esse sentimento de ansiedade e emoção... é[n]viciante.[n][f 1 6 65535][e]
 
 [msg D_START_PC09_mes03]
-[s][vp 1 0 0 9032 0 0]Tudo bem, vamos começar.[n]* risada* Estou ansioso por isso.[n][f 1 6 65535][e]
+[s][vp 1 0 0 9032 0 0]Tudo bem, vamos começar.[n]*risada* Estou ansioso por isso.[n][f 1 6 65535][e]
 
 [msg D_EXIT_A_PC09_mes01]
 [s][vp 1 0 0 9033 0 0]Sim, vamos para casa.[n][f 1 6 65535][e]
@@ -6098,7 +6098,7 @@
 [s][vp 1 0 0 9101 0 0]Eu não esperava sofrer tanto dano...[n][f 1 6 65535][e]
 
 [msg D_DANGER_SP_PC09_mes01]
-[s][vp 1 0 0 9102 0 0]* suspiro* eu me sinto bastante cansado...[n][f 1 6 65535][e]
+[s][vp 1 0 0 9102 0 0]*suspiro* eu me sinto bastante cansado...[n][f 1 6 65535][e]
 
 [msg D_DANGER_SP_PC09_mes02]
 [s][vp 1 0 0 9103 0 0]Minha energia não vai durar muito mais...[n][f 1 6 65535][e]
@@ -6140,7 +6140,7 @@
 [s][vp 1 0 0 9115 0 0]Uma sombra. E um forte nisso.[n][f 1 6 65535][e]
 
 [msg D_COVER_B_PC09_mes03]
-[s][vp 1 0 0 9116 0 0]* suspiro* Há um oponente de aparência[n]difícil à frente...[n][f 1 6 65535][e]
+[s][vp 1 0 0 9116 0 0]*suspiro* Há um oponente de aparência[n]difícil à frente...[n][f 1 6 65535][e]
 
 [msg D_COVER_C_PC09_mes01]
 [s][vp 1 0 0 9117 0 0]Eu vi uma sombra rara![n][f 1 6 65535][e]
@@ -6959,7 +6959,7 @@
 [s][vp 1 0 0 10098 0 0]É reconfortante saber que isso está marcado[n]em nosso mapa.[n][f 1 6 65535][e]
 
 [msg D_DANGER_HP_PC10_mes01]
-[s][vp 1 0 0 10099 0 0]* Pant** Pant* Eu não acho que posso ir mais[n]longe...[n][f 1 6 65535][e]
+[s][vp 1 0 0 10099 0 0]*Pant** Pant* Eu não acho que posso ir mais[n]longe...[n][f 1 6 65535][e]
 
 [msg D_DANGER_HP_PC10_mes02]
 [s][vp 1 0 0 10100 0 0]Desculpe... estou totalmente eliminado...[n][f 1 6 65535][e]
@@ -7859,7 +7859,7 @@
 [s][vp 1 0 0 3513 0 0]HRM... As sombras em lembranças são sem[n]forma.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC03_mes514]
-[s][vp 1 0 0 3514 0 0]* Suspiro* As sombras são tão irritantes[n]quando estamos tentando avançar.[n][f 1 6 65535][e]
+[s][vp 1 0 0 3514 0 0]*Suspiro* As sombras são tão irritantes[n]quando estamos tentando avançar.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC03_mes515]
 [s][vp 1 0 0 3515 0 0]Ei, não mexa com nada lá! Entendi!?[n][f 1 6 65535][e]
@@ -7910,7 +7910,7 @@
 [s]......[n][f 1 6 65535][e]
 
 [msg D_CAR__PC03_mes531]
-[s][vp 1 0 0 3531 0 0]Intel é o mais importante! Mantenha os olhos[n]abertos durante o dia![n][f 1 6 65535][e]
+[s][vp 1 0 0 3531 0 0]Informação é o mais importante! Mantenha os olhos[n]abertos durante o dia![n][f 1 6 65535][e]
 
 [msg D_CAR__PC03_mes532]
 [s][vp 1 0 0 3532 0 0]Essa internet com certeza está cheia de[n]informações.[n][f 1 6 65535][e]
@@ -7991,7 +7991,7 @@
 [s][vp 1 0 0 3557 0 0]Sem cebolas na minha, por favor![n]Ah, e adicione um ovo.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC03_mes558]
-[s][vp 1 0 0 3558 0 0]* suspiro* você é um garoto, crânio.[n]Beba seu leite e cresça.[n][f 1 6 65535][e]
+[s][vp 1 0 0 3558 0 0]*suspiro* você é um garoto, crânio.[n]Beba seu leite e cresça.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC03_mes559]
 [s][vp 1 0 0 3559 0 0]Uma atitude louvável. Skull pode valer algo,[n]afinal![n][f 1 6 65535][e]
@@ -8078,7 +8078,7 @@
 [s][vp 1 0 0 3586 0 0]Ei, se você está me desenhando,[n]certifique-se de parecer correndo e suave![n][f 1 6 65535][e]
 
 [msg D_CAR__PC03_mes587]
-[s][vp 1 0 0 3587 0 0]* risada* Você só precisa da minha luz para[n]iluminar a escuridão![n][f 1 6 65535][e]
+[s][vp 1 0 0 3587 0 0]*risada* Você só precisa da minha luz para[n]iluminar a escuridão![n][f 1 6 65535][e]
 
 [msg D_CAR__PC03_mes588]
 [s][vp 1 0 0 3588 0 0]Ok, Joker! Hora de acordar Fox com um dublê[n]dirigindo![n][f 1 6 65535][e]
@@ -8162,7 +8162,7 @@
 [s][vp 1 0 0 3614 0 0]Não se deixe enganar pela aparência deles![n]Seja o que for, estamos caçando-os![n][f 1 6 65535][e]
 
 [msg D_CAR__PC03_mes615]
-[s][vp 1 0 0 3615 0 0]* risos* Pare![n]Th-that catchles![n][f 1 6 65535][e]
+[s][vp 1 0 0 3615 0 0]*risos* Pare![n]Th-that catchles![n][f 1 6 65535][e]
 
 [msg D_CAR__PC03_mes616]
 [s][vp 1 0 0 3616 0 0]A simplicidade é elegante! Talvez você ainda[n]seja jovem demais para conseguir isso.[n][f 1 6 65535][e]
@@ -8261,7 +8261,7 @@
 [s][vp 1 0 0 4504 0 0]É perigoso caminhar por algum lugar tão[n]escuro... Estou tão feliz que Mona pode se[n]transformar em um carro.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC04_mes505]
-[s][vp 1 0 0 4505 0 0]* suspiro* Eu sei que é óbvio, mas este[n]lugar é realmente estéril...[n][f 1 6 65535][e]
+[s][vp 1 0 0 4505 0 0]*suspiro* Eu sei que é óbvio, mas este[n]lugar é realmente estéril...[n][f 1 6 65535][e]
 
 [msg D_CAR__PC04_mes506]
 [s][vp 1 0 0 4506 0 0]Sou só eu, ou ouço pessoas sussurrando...?[n][f 1 6 65535][e]
@@ -8375,7 +8375,7 @@
 [s][vp 1 0 0 4542 0 0]Este carro tem um monte de partes[n]engraçadas... Poke Poke.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC04_mes543]
-[s][vp 1 0 0 4543 0 0]Hmmn... hm...?[n]* suspiro* eu cochilei!?[n][f 1 6 65535][e]
+[s][vp 1 0 0 4543 0 0]Hmmn... hm...?[n]*suspiro* eu cochilei!?[n][f 1 6 65535][e]
 
 [msg D_CAR__PC04_mes544]
 [s][vp 1 0 0 4544 0 0]Os dias passam tão rapidamente agora.[n]Parece que estou gostando mais da vida.[n][f 1 6 65535][e]
@@ -8393,7 +8393,7 @@
 [s][vp 1 0 0 4548 0 0]Parece algo gritando... ngah, estou tremendo[n]só de pensar nisso![n][f 1 6 65535][e]
 
 [msg D_CAR__PC04_mes549]
-[s][vp 1 0 0 4549 0 0]* suspiro* Tê-lo por perto ajuda a manter[n]minha mente à vontade, crânio.[n][f 1 6 65535][e]
+[s][vp 1 0 0 4549 0 0]*suspiro* Tê-lo por perto ajuda a manter[n]minha mente à vontade, crânio.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC04_mes550]
 [s][vp 1 0 0 4550 0 0]Não diga coisas assustadoras assim![n][f 1 6 65535][e]
@@ -8786,7 +8786,7 @@
 [s][vp 1 0 0 5506 0 0]Todas as noites, eu ouvia vozes como essa na[n]casa de Madarame.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC05_mes507]
-[s][vp 1 0 0 5507 0 0]Este som... * bocejo * o sono acena.[n][f 1 6 65535][e]
+[s][vp 1 0 0 5507 0 0]Este som... * bocejo* o sono acena.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC05_mes508]
 [s][vp 1 0 0 5508 0 0]Os ventos são como uma elegia ecoa... uma[n]lamentação sem voz...[n][f 1 6 65535][e]
@@ -8852,7 +8852,7 @@
 [s][vp 1 0 0 5528 0 0]Eu deveria começar um hobby, ampliar meus[n]horizontes. Andar de bicicleta... ou talvez[n]uma maratona...?[n][f 1 6 65535][e]
 
 [msg D_CAR__PC05_mes529]
-[s][vp 1 0 0 5529 0 0]Eu tenho doado sangue frequentemente[n]ultimamente... * risada * eu...[n]Suponha que eu tenha um novo hobby.[n][f 1 6 65535][e]
+[s][vp 1 0 0 5529 0 0]Eu tenho doado sangue frequentemente[n]ultimamente... * risada* eu...[n]Suponha que eu tenha um novo hobby.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC05_mes530]
 [s][vp 1 0 0 5530 0 0]Eu assisto TV para coletar novas[n]informações, mas os comerciais tendem a me[n]distrair...[n][f 1 6 65535][e]
@@ -9401,7 +9401,7 @@
 [s][vp 1 0 0 6522 0 0]Os doces são melhores quando você está[n]mentalmente exausto.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC06_mes523]
-[s][vp 1 0 0 6523 0 0]* suspiro* Eu sempre acabo tendo muito[n]chocolate...[n][f 1 6 65535][e]
+[s][vp 1 0 0 6523 0 0]*suspiro* Eu sempre acabo tendo muito[n]chocolate...[n][f 1 6 65535][e]
 
 [msg D_CAR__PC06_mes524]
 [s][vp 1 0 0 6524 0 0]Todos, não se esqueça de se manter hidratado![n][f 1 6 65535][e]
@@ -9452,7 +9452,7 @@
 [s][vp 1 0 0 6539 0 0]Agora, velocidade total à frente![n]Mona, comece a acelerar![n][f 1 6 65535][e]
 
 [msg D_CAR__PC06_mes540]
-[s][vp 1 0 0 6540 0 0]* risada* eu amo a sensação de vento no meu[n]rosto.[n][f 1 6 65535][e]
+[s][vp 1 0 0 6540 0 0]*risada* eu amo a sensação de vento no meu[n]rosto.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC06_mes541]
 [s][vp 1 0 0 6541 0 0]Eu sinto que podemos chegar ao fim deste[n]labirinto! Vamos![n][f 1 6 65535][e]
@@ -9524,7 +9524,7 @@
 [s][vp 1 0 0 6563 0 0]Dirija com segurança![n]Estou contando com você.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC06_mes564]
-[s][vp 1 0 0 6564 0 0]* suspiro* Esse é o seu problema.[n][f 1 6 65535][e]
+[s][vp 1 0 0 6564 0 0]*suspiro* Esse é o seu problema.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC06_mes565]
 [s][vp 1 0 0 6565 0 0]Se encontrarmos sombras, você vai funcionar[n]se você gosta ou não.[n][f 1 6 65535][e]
@@ -9650,7 +9650,7 @@
 [s][vp 1 0 0 6605 0 0]Lutando em um jogo e na vida real...? Isso[n]soa um pouco demais.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC06_mes606]
-[s][vp 1 0 0 6606 0 0]Também é importante analisar e organizar a[n]intel reunida.[n][f 1 6 65535][e]
+[s][vp 1 0 0 6606 0 0]Também é importante analisar e organizar a[n]Informação reunida.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC06_mes607]
 [s][vp 1 0 0 6607 0 0]Você sempre poderia ler o livro em que era[n]baseado...[n][f 1 6 65535][e]
@@ -9683,7 +9683,7 @@
 [s][vp 1 0 0 6616 0 0]Nem eu. Vamos manter nossos guardas em[n]cima... você também, Joker.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC06_mes617]
-[s][vp 1 0 0 6617 0 0]* suspiro* Por que não terminamos essa linha[n]de pensamento aqui, Fox?[n][f 1 6 65535][e]
+[s][vp 1 0 0 6617 0 0]*suspiro* Por que não terminamos essa linha[n]de pensamento aqui, Fox?[n][f 1 6 65535][e]
 
 [msg D_CAR__PC06_mes618]
 [s][vp 1 0 0 6618 0 0]Entendo... isso é um pouco menos assustador[n]de uma interpretação.[n][f 1 6 65535][e]
@@ -9719,7 +9719,7 @@
 [s][vp 1 0 0 6628 0 0]Você se destacaria assim![n][f 1 6 65535][e]
 
 [msg D_CAR__PC06_mes629]
-[s][vp 1 0 0 6629 0 0]* Giggle* Você prefere francês em vez de[n]italiano?[n][f 1 6 65535][e]
+[s][vp 1 0 0 6629 0 0]*Giggle* Você prefere francês em vez de[n]italiano?[n][f 1 6 65535][e]
 
 [msg D_CAR__PC06_mes630]
 [s][vp 1 0 0 6630 0 0]Você precisa comer! Caso contrário, seu[n]corpo pagará o preço mais tarde![n][f 1 6 65535][e]
@@ -10523,7 +10523,7 @@
 [s][vp 1 0 0 7681 0 0]Vroooom! Vá, vá![n][f 1 6 65535][e]
 
 [msg D_CAR__PC07_mes682]
-[s][vp 1 0 0 7682 0 0]* suspiro* ele poderia voar com tantas[n]pessoas?[n][f 1 6 65535][e]
+[s][vp 1 0 0 7682 0 0]*suspiro* ele poderia voar com tantas[n]pessoas?[n][f 1 6 65535][e]
 
 [msg D_CAR__PC07_mes683]
 [s][vp 1 0 0 7683 0 0]É como a capa de um herói.[n][f 1 6 65535][e]
@@ -10655,7 +10655,7 @@
 [s][vp 1 0 0 8525 0 0]Tão esburacado- opa, lá vai meu refrigerante.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC08_mes526]
-[s][vp 1 0 0 8526 0 0]* suspiro* Eu poderia usar um pouco do café[n]de Sojiro...[n][f 1 6 65535][e]
+[s][vp 1 0 0 8526 0 0]*suspiro* Eu poderia usar um pouco do café[n]de Sojiro...[n][f 1 6 65535][e]
 
 [msg D_CAR__PC08_mes527]
 [s][vp 1 0 0 8527 0 0]Então, outro dia, eu estava verificando o[n]servidor da base militar estrangeira e- [n][f 1 6 65535][e]
@@ -10832,7 +10832,7 @@
 [s][vp 1 0 0 8584 0 0]Deixe a Internet para mim! Vocês podem lidar[n]com todo o resto.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC08_mes585]
-[s][vp 1 0 0 8585 0 0]* risada* é isso que torna divertido![n][f 1 6 65535][e]
+[s][vp 1 0 0 8585 0 0]*risada* é isso que torna divertido![n][f 1 6 65535][e]
 
 [msg D_CAR__PC08_mes586]
 [s][vp 1 0 0 8586 0 0]Eu não gosto de andar na multidão.[n]Fazer compras online é mais divertido...[n][f 1 6 65535][e]
@@ -10937,7 +10937,7 @@
 [s][vp 1 0 0 8619 0 0]Whooaa. Isso parece incrível![n][f 1 6 65535][e]
 
 [msg D_CAR__PC08_mes620]
-[s][vp 1 0 0 8620 0 0]* bocejo* eu sei... ZZZ...[n][f 1 6 65535][e]
+[s][vp 1 0 0 8620 0 0]*bocejo* eu sei... ZZZ...[n][f 1 6 65535][e]
 
 [msg D_CAR__PC08_mes621]
 [s][vp 1 0 0 8621 0 0]Exatamente! Você tem que pensar quando luta.[n]A guerra é um jogo mental![n][f 1 6 65535][e]
@@ -11096,7 +11096,7 @@
 [s][vp 1 0 0 8672 0 0]Concerto, hein...? Eu iria a um show, mas...[n]todas aquelas pessoas...[n][f 1 6 65535][e]
 
 [msg D_CAR__PC08_mes673]
-[s][vp 1 0 0 8673 0 0]* suspiro* Uma música de sombra! Gostaria de[n]poder procurar a letra.[n][f 1 6 65535][e]
+[s][vp 1 0 0 8673 0 0]*suspiro* Uma música de sombra! Gostaria de[n]poder procurar a letra.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC08_mes674]
 [s][vp 1 0 0 8674 0 0]Meu quarto fica assim também se eu não abrir[n]a janela por um tempo.[n][f 1 6 65535][e]
@@ -11705,7 +11705,7 @@
 [s][vp 1 0 0 13500 0 0]Eu não conseguia adormecer na noite passada.[n]Acabei de deitar lá com meus olhos abertos...[n][f 1 6 65535][e]
 
 [msg D_CAR_PC03_mes10501]
-[s][vp 1 0 0 13501 0 0]* bocejo* eu não dormi o suficiente...[n][f 1 6 65535][e]
+[s][vp 1 0 0 13501 0 0]*bocejo* eu não dormi o suficiente...[n][f 1 6 65535][e]
 
 [msg D_CAR_PC03_mes10502]
 [s][vp 1 0 0 13502 0 0]Ontem à noite eu sonhei que os ladrões[n]fantasmas estavam chutando uma bunda séria-[n]vamos dar vida a esse sonho![n][f 1 6 65535][e]

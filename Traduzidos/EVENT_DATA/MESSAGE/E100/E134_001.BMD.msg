@@ -2,7 +2,7 @@
 [s][bup 0 2 105 0 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]*Pant**Pant* [n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Ryuji]]
-[s][bup 0 2 105 0 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]* Pant* De qualquer forma![n][f 1 3 65535][w][e]
+[s][bup 0 2 105 0 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]*Pant* De qualquer forma![n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Ryuji]]
 [s][bup 0 2 102 0 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Não me lembro de mudar isso![n][f 1 3 65535][w][e]
@@ -52,7 +52,7 @@
 [s][bup 0 2 111 0 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Fácil para você dizer.[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Ryuji]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 7 300 1][vp 8 0 0 21 65535 0]* suspiro* Espere, estamos profundamente na[n]merda![n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 7 300 1][vp 8 0 0 21 65535 0]*suspiro* Espere, estamos profundamente na[n]merda![n][f 1 3 65535][w][e]
 
 [msg MSG_017_5_0 [Morgana]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 3 3 301 1][vp 8 0 0 22 65535 0]Eu disse para ficar quieto![n][f 1 3 65535][w][e]

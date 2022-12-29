@@ -134,7 +134,7 @@
 [s][bup 0 8 102 65535 0][f 4 10 65535 0 0][vp 8 0 0 61 65535 0]Seu pequeno...[n][f 1 3 65535][w][e]
 
 [msg MSG_041_0_0 [Shadow IT President]]
-[s][vp 8 0 0 62 65535 0]* risada* Tenho certeza que você entende.[n]Você é medjed, afinal.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 62 65535 0]*risada* Tenho certeza que você entende.[n]Você é medjed, afinal.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 63 65535 0]Não é maravilhoso manipular todos aqueles[n]idiotas da informação-iliterato!?[n][f 1 3 65535][w][e]
 
 [msg MSG_042_0_0 [Futaba]]

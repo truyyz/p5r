@@ -17,14 +17,14 @@
 
 [msg MSG_003_0_0 [Haru]]
 [s][bup 0 7 201 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 4 5 7]Oh, certo... bem, acho que vou ter que[n]garantir que isso permaneça uma operação[n]subterrânea![n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 3048 65535 0]Ou talvez... uma operação na cobertura?[n]* risada* Estou ficando animado só de pensar[n]nisso![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 3048 65535 0]Ou talvez... uma operação na cobertura?[n]*risada* Estou ficando animado só de pensar[n]nisso![n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Haru]]
-[s][bup 0 7 201 65535 0][f 4 10 65535 0 0][vp 8 2 0 3048 65535 0][f 5 13 4 10 7]* Giggle* Você é tão ousado![n][f 1 3 65535][w][e]
+[s][bup 0 7 201 65535 0][f 4 10 65535 0 0][vp 8 2 0 3048 65535 0][f 5 13 4 10 7]*Giggle* Você é tão ousado![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Nesse caso, acho que este pode ser nosso[n]pequeno segredo.[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Haru]]
-[s][bup 0 7 201 65535 0][f 4 10 65535 0 0][vp 8 2 0 3048 65535 0][f 5 13 4 10 7]* Giggle* você é tão confiável.[n][f 1 3 65535][w][e]
+[s][bup 0 7 201 65535 0][f 4 10 65535 0 0][vp 8 2 0 3048 65535 0][f 5 13 4 10 7]*Giggle* você é tão confiável.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Nesse caso, podemos ser parceiros no crime![n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Haru]]
@@ -99,11 +99,11 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Na verdade, estou um pouco com ciúmes.[n]De você... e da garota.[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Haru]]
-[s][bup 0 7 201 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 4 10 7]* Giggle* Acho que nós dois estamos na mesma[n]posição na época.[n][f 1 3 65535][w][e]
+[s][bup 0 7 201 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 4 10 7]*Giggle* Acho que nós dois estamos na mesma[n]posição na época.[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Haru]]
 [s][bup 0 7 204 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 4 5 7]Sério!?[n][f 1 3 65535][w][e]
-[s][bup 0 7 201 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 36 5 100][f 4 24 0 4 0 9 5 100]* ri* Embora eu acho que faz sentido para[n]alguém tão bonito quanto você, [n][f 4 2]-kun.[n][f 1 3 65535][w][e]
+[s][bup 0 7 201 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 36 5 100][f 4 24 0 4 0 9 5 100]*ri* Embora eu acho que faz sentido para[n]alguém tão bonito quanto você, [n][f 4 2]-kun.[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Haru]]
 [s][bup 0 7 200 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]my fiancé. Spending time with him is[n]Mas... não há faísca assim com quase algum[n]tipo de treinamento...[n][f 1 3 65535][w][e]

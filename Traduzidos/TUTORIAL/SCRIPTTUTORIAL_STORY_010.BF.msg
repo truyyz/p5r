@@ -1,8 +1,8 @@
 [msg TUTORIAL_MSG01 [The Seventh Heist: Shido]]
-[s]Tendo enganado Akechi, [f 4 2]se esconde para impedir que Masayoshi Shido aprenda que ele[n]está vivo e bem.[n][w][e]
+[s]Tendo enganado Akechi, [f 4 2] se esconde para impedir que Masayoshi Shido aprenda que ele[n]está vivo e bem.[n][w][e]
 
 [msg TUTORIAL_MSG02 [The Seventh Heist: Shido]]
-[s]Enquanto isso, a popularidade de Shido sobe.[f 4 2]ouve sua voz durante um discurso e fica convencido de que[n]Shido é quem o enquadrou.[n][w][e]
+[s]Enquanto isso, a popularidade de Shido sobe.[f 4 2] ouve sua voz durante um discurso e fica convencido de que[n]Shido é quem o enquadrou.[n][w][e]
 
 [msg TUTORIAL_MSG03 [The Seventh Heist: Shido]]
 [s]Os ladrões do Phantom se infiltram no palácio de Shido para[n]mudar seu coração, mas são parados por Akechi, que revela[n]que está por trás dos desligamentos mentais.[n][w][e]

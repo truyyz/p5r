@@ -85,7 +85,7 @@
 [s][bup 0 103 600 1 0][f 4 10 65535 0 0][vp 8 2 1 0 871 0][f 4 23 1 871 3 10 0 10]... nós fizemos?[n][w][e]
 
 [msg MSG_0103_0108_WAKABA_1ST_4 [Wakaba]]
-[s][bup 0 208 501 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 870 0][f 4 23 1 870 3 10 0 10]* risada* quase parece algum tipo de sonho.[n][w][e]
+[s][bup 0 208 501 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 870 0][f 4 23 1 870 3 10 0 10]*risada* quase parece algum tipo de sonho.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 870 0]Eu tenho o tempo todo no mundo para gastar[n]com Futaba...[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 870 0][f 4 23 1 870 3 10 0 10]E agora todos nós vivemos juntos.[n]Poderia ficar melhor do que isso, Sojiro?[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 870 0]Ah, a propósito, a coabitação é não[n]opcional-você é considerado nossa família,[n]e é isso![n][w][e]
@@ -417,8 +417,8 @@
 [s][vp 8 2 1 0 0 0]Ei... você pode chorar se quiser.[n]Você não precisa segurá-lo.[n][w][e]
 
 [msg MSG_ROUKENTOSYOJYO_019_1 [Dog-Loving Girl]]
-[s][f 4 23 1 1 8 10 8 10][vp 8 2 1 0 1 0]Wah... * cheirar * wahhhhhh! Sinto sua[n]falta, Kotaro... não me deixe...[n][w][e]
-[s][vp 8 2 1 0 1 0]* Sniff* eu quero te ver de novo...[n]Kotaro... *SOB * [n][w][e]
+[s][f 4 23 1 1 8 10 8 10][vp 8 2 1 0 1 0]Wah... * cheirar* wahhhhhh! Sinto sua[n]falta, Kotaro... não me deixe...[n][w][e]
+[s][vp 8 2 1 0 1 0]*Sniff* eu quero te ver de novo...[n]Kotaro... *SOB * [n][w][e]
 
 [msg MSG_ROUKENTOSYOJYO_019_2 [Gentle-Looking Mother]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Você é uma boa garota por fazer o seu melhor[n]para não se preocupar com Kotaro. E agora,[n]ele estará cuidando de nós.[n][w][e]
@@ -518,11 +518,11 @@
 
 [msg MSG_YOPPARAI_001_2_0 [Drunken Souse]]
 [s][vp 8 2 1 0 6 0]Hahaha! Quem sou eu? Eu digo ao novo para as[n]pessoas. Eu sou um neeeewscashter![n][w][e]
-[s][vp 8 2 1 0 6 0]Estou em Broadcashin 'ao vivo de...[n]De aqui... aaaand...[n]Ooh! Este é apenas em- *voce * [n][w][e]
+[s][vp 8 2 1 0 6 0]Estou em Broadcashin 'ao vivo de...[n]De aqui... aaaand...[n]Ooh! Este é apenas em- *voce* [n][w][e]
 
 [msg MSG_YOPPARAI_001_3_0 [Drunken Souse]]
 [s][vp 8 2 1 0 6 0]Ahahaha! O que...? Não. Eu sou...[n]um profeshonal. Haha! Não usamos shluuururs.[n][w][e]
-[s][vp 8 2 1 0 6 0]Todos os NewshCasters falam como... do jeito[n]que eu... I Talksh é Flablesh. É falha-[n]*voce * [n][w][e]
+[s][vp 8 2 1 0 6 0]Todos os NewshCasters falam como... do jeito[n]que eu... I Talksh é Flablesh. É falha-[n]*voce* [n][w][e]
 
 [msg MSG_YOPPARAI_002_0_0 [Burly Officer]]
 [s][f 4 23 1 5 3 10 0 10][vp 8 2 1 0 5 0]Senhor, você vai ficar doente se você dormir[n]aqui assim.[n][w][e]
@@ -534,7 +534,7 @@
 [s][f 4 23 1 5 3 10 0 10][vp 8 2 1 0 5 0]Kamoshida? Oh, aquele cara que foi preso por[n]assédio sexual?[n][w][e]
 
 [msg MSG_YOPPARAI_002_3_0 [Drunken Souse]]
-[s][vp 8 2 1 0 6 0]* Sniff* Suguru...! Eu não levantei você[n]para crescer como este! Suguruuuuuuuu![n][w][e]
+[s][vp 8 2 1 0 6 0]*Sniff* Suguru...! Eu não levantei você[n]para crescer como este! Suguruuuuuuuu![n][w][e]
 
 [msg MSG_YOPPARAI_003_0_0 [Drunken Souse]]
 [s][vp 8 2 1 0 6 0]É... meeee... o grande... Madarame![n]Eu sou a coisa real! *arrotar* [n][w][e]
@@ -585,7 +585,7 @@
 [s][vp 8 2 1 0 6 0]Como ele poderia roubar a pintura de Hish e[n]mee-outro!? Mee-outro.[n]Meeeee-outro. Meeeow. Miau, miau![n][w][e]
 
 [msg MSG_YOPPARAI_005_3_0 [Drunken Souse]]
-[s][vp 8 2 1 0 6 0]* Retch* A--você está falando sério?[n][w][e]
+[s][vp 8 2 1 0 6 0]*Retch* A--você está falando sério?[n][w][e]
 [s][vp 8 2 1 0 6 0]Você não me deixa esclarecer. Vou descobrir[n]meu corpo e sh-sh-suola. Meu corpo Shekshi![n]Muh Ultra Soulll![n][w][e]
 
 [msg MSG_YOPPARAI_006_0_0 [Drunken Souse]]
@@ -605,7 +605,7 @@
 [s][vp 8 2 1 0 6 0]Whaddya pensa? Eu não faço uma boa imitação[n]de uma pessoa de Shober, amirita? *Retch* [n][w][e]
 
 [msg MSG_YOPPARAI_006_3_0 [Drunken Souse]]
-[s][vp 8 2 1 0 6 0]Aww, donca ser assim...[n]* Burp* Aqui, farei um anozher da minha[n]impressões... impressões.[n][w][e]
+[s][vp 8 2 1 0 6 0]Aww, donca ser assim...[n]*Burp* Aqui, farei um anozher da minha[n]impressões... impressões.[n][w][e]
 [s][vp 8 2 1 0 6 0]Este é akechi-kun, booooy detectivvve. "Oi.[n]Meu nome é Goro!" Goro-ro! Roro! Roro. Rolo![n][w][e]
 
 [msg MSG_YOPPARAI_007_0_0 [Drunken Souse]]
@@ -813,7 +813,7 @@
 [s][vp 8 2 1 0 6 0]PL-PLEH Não me mate! Eu quero viver![n]Eu quero viver! URP...[n][w][e]
 
 [msg MSG_YOPPARAI_017_2_0 [Burly Officer]]
-[s][f 4 23 1 5 3 10 0 10][vp 8 2 1 0 5 0]* suspiro* Todo mundo está tão assustado...[n]acho que as pessoas ficariam preocupadas,[n]pois ainda não as pegamos.[n][w][e]
+[s][f 4 23 1 5 3 10 0 10][vp 8 2 1 0 5 0]*suspiro* Todo mundo está tão assustado...[n]acho que as pessoas ficariam preocupadas,[n]pois ainda não as pegamos.[n][w][e]
 
 [msg MSG_YOPPARAI_017_3_0 [Drunken Souse]]
 [s][vp 8 2 1 0 6 0]Não se preocupe! Eu, Shido, vou liderar você![n]Imma cuide de tudo![n][w][e]
@@ -1045,7 +1045,7 @@
 [s][f 4 23 1 11 3 10 0 10][vp 8 2 1 0 11 0]Eu sei! Meus pais deveriam me levar ao[n]zoológico outro dia, mas quebraram sua[n]promessa![n][w][e]
 
 [msg MSG_HINEKUREKODOMO_012_0 [Rebellious Grade Schooler]]
-[s][f 4 23 1 10 3 10 0 10][vp 8 2 1 0 10 0]* suspiro* O novo semestre começou... Você[n]se divertiu nas férias de verão?[n][w][e]
+[s][f 4 23 1 10 3 10 0 10][vp 8 2 1 0 10 0]*suspiro* O novo semestre começou... Você[n]se divertiu nas férias de verão?[n][w][e]
 
 [msg MSG_HINEKUREKODOMO_012_1 [Innocent Grade Schooler]]
 [s][f 4 23 1 11 3 10 0 10][vp 8 2 1 0 11 0]Não... apenas Cram School. Sem anime ou[n]videogame. Todos os meus amigos jogavam[n]futebol sem mim...[n][w][e]
@@ -1214,7 +1214,7 @@
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Isso nunca vai acontecer. Não importa o que[n]façamos, as pessoas nos tratam idosos como[n]se estivéssemos no caminho.[n][w][e]
 
 [msg MSG_ROUJINFUFU_002_0_0 [Sad Old Man]]
-[s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]* suspiro* Acho que podemos dar um passeio[n]ou apenas assistir TV.[n][w][e]
+[s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]*suspiro* Acho que podemos dar um passeio[n]ou apenas assistir TV.[n][w][e]
 [s][vp 8 2 1 0 13 0]Todo mundo aqui diz que eles são saudáveis,[n]mas de que é o bem se não há lugar para[n]irmos?[n][w][e]
 
 [msg MSG_ROUJINFUFU_002_1_0 [Kind Old Woman]]
@@ -1356,7 +1356,7 @@
 [s][f 4 23 1 14 3 10 0 10][vp 8 2 1 0 14 0]Vamos, acalme-se.[n]A polícia os pegará.[n][w][e]
 
 [msg MSG_ROUJINFUFU_015_2_0 [Kind Old Woman]]
-[s][f 4 23 1 16 3 10 0 10][vp 8 2 1 0 16 0]* suspiro* Mas por que isso aconteceu do[n]nada? Eles estavam ajudando as pessoas...[n][w][e]
+[s][f 4 23 1 16 3 10 0 10][vp 8 2 1 0 16 0]*suspiro* Mas por que isso aconteceu do[n]nada? Eles estavam ajudando as pessoas...[n][w][e]
 
 [msg MSG_ROUJINFUFU_016_0_0 [Sad Old Man]]
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Não há nada além de histórias sombrias e[n]deprimentes no jornal e no rádio.[n][w][e]
@@ -1735,7 +1735,7 @@
 [s][vp 8 2 65535 0 0 0]Ele também vem com adesivos especiais do[n]cartão de visita! É um verdadeiro roubo![n]Mas, por favor, não roube.[n][w][e]
 
 [msg MSG_RADIONEWS_030_2_0 [Old Man]]
-[s][f 4 23 1 2 14 10 13 10][vp 8 2 1 0 2 0]* suspiro*... Estou tão cansado dessa[n]porcaria.[n][w][e]
+[s][f 4 23 1 2 14 10 13 10][vp 8 2 1 0 2 0]*suspiro*... Estou tão cansado dessa[n]porcaria.[n][w][e]
 
 [msg MSG_RADIONEWS_031_0_0 [Old Man]]
 [s][f 4 23 1 2 14 10 13 10][vp 8 2 1 0 2 0]HM? Você queria ouvir?[n][w][e]
@@ -2052,7 +2052,7 @@
 [s][vp 9 2 65535 44051 0 0]Quanto mais as coisas tão horríveis[n]continuarão acontecendo no mundo?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_001_07_ [Old Man]]
-[s][vp 9 2 65535 45360 0 0]* suspiro* Eu realmente gostaria de poder[n]parar de trabalhar naquela empresa...[n][f 1 2 180][e]
+[s][vp 9 2 65535 45360 0 0]*suspiro* Eu realmente gostaria de poder[n]parar de trabalhar naquela empresa...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_001_07__2 [Old Man]]
 [s][vp 9 2 65535 45201 0 0]days are so naïve.[n][f 1 2 180][e]
@@ -3288,7 +3288,7 @@
 [s][vp 8 2 65535 37028 0 0]Ugh... eu peguei um resfriado?[n][f 1 2 180][e]
 
 [msg MSG_TAKEMI_KAIKIN_YUUDOU [Sick Man]]
-[s][f 4 23 1 17 3 10 0 10][vp 8 2 1 0 17 0]* suspiro* O que eu vou fazer? Estou me[n]sentindo debaixo do clima, mas tenho uma[n]reunião importante amanhã...[n][w][e]
+[s][f 4 23 1 17 3 10 0 10][vp 8 2 1 0 17 0]*suspiro* O que eu vou fazer? Estou me[n]sentindo debaixo do clima, mas tenho uma[n]reunião importante amanhã...[n][w][e]
 [s][vp 8 2 1 0 17 0]Eu pensei em dar uma chance a este lugar,[n]mas eles disseram que estavam fechados para[n]o dia...[n][w][e]
 [s][vp 8 2 1 0 17 0]E ainda é tão cedo também. Eu simplesmente[n]não posso acreditar...[n][w][e]
 [s][vp 8 2 1 0 17 0]Talvez eu deva entrar e perguntar[n]novamente...[n][w][e]

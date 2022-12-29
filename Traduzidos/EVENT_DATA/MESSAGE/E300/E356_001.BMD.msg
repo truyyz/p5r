@@ -2,7 +2,7 @@
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]Parabéns por sobreviver ao meio do meio.[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Ryuji]]
-[s][bup 0 2 7 65535 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]* suspiro* Acho que estou ferrado de verdade[n]desta vez. Eu não conseguia me concentrar[n]nada...[n][f 1 3 65535][w][e]
+[s][bup 0 2 7 65535 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]*suspiro* Acho que estou ferrado de verdade[n]desta vez. Eu não conseguia me concentrar[n]nada...[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Speech from Outside]]
 [s][vp 8 0 0 3 65535 0]—Sear as opiniões de todos e imediatamente[n]agindo sobre eles...[n][f 1 3 65535][w][e]

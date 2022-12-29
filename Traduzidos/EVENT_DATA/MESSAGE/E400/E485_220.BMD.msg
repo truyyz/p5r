@@ -72,7 +72,7 @@
 [s][bup 0 8 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 26 65535 0]Shuddup! Você não subestime a ansiedade do[n]meu povo![n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Futaba]]
-[s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 27 65535 0]Mona me diz que você ajudou [n][f 4 2]naquele palácio um tempo atrás.[n][f 1 3 65535][w][e]
+[s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 27 65535 0]Mona me diz que você ajudou [n][f 4 2] naquele palácio um tempo atrás.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 28 65535 0]Somos muito gratos por isso.[n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Kasumi]]

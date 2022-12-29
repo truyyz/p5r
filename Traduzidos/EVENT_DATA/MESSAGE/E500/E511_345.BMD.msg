@@ -29,7 +29,7 @@
 [s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Você sabe...[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Ann]]
-[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0][f 4 2]me perguntou outro dia...[n]Algo como estou ou não, estou bem com a[n]forma como as coisas estão.[n][f 1 3 65535][w][e]
+[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0][f 4 2] me perguntou outro dia...[n]Algo como estou ou não, estou bem com a[n]forma como as coisas estão.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]No começo, eu não sabia do que ele estava[n]falando, mas enquanto ele continuava, suas[n]palavras começaram a fazer meu peito se[n]sentir bem...[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Makoto]]
@@ -52,7 +52,7 @@
 
 [msg MSG_014_0_0 [Ryuji]]
 [s][bup 0 2 5 65535 0][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]Estou me perguntando há algum tempo...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Talvez o motivo [f 4 2]As palavras doíam tanto é porque ele está[n]certo...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Talvez o motivo [f 4 2] As palavras doíam tanto é porque ele está[n]certo...[n][f 1 3 65535][w][e]
 [s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Mas eu estava com muito medo de admitir que,[n]por algum motivo. É por isso que fingi que[n]não entendi o que ele quis dizer...[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Haru]]
@@ -84,7 +84,7 @@
 
 [msg MSG_023_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 35 65535 0]Eu acho que é isso, hein?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 36 65535 0][f 4 2]Estava tentando contar a todos nós algo[n]importante, e aposto que ele provavelmente[n]ainda está trabalhando em algum lugar.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 36 65535 0][f 4 2] Estava tentando contar a todos nós algo[n]importante, e aposto que ele provavelmente[n]ainda está trabalhando em algum lugar.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][bup 0 2 2 65535 0][vp 8 0 0 37 65535 0][f 4 24 0 3 6 37 5 100]Não é de jeito nenhum eu vou resgatar com[n]ele só para que eu possa continuar correndo[n]de...[n]o que quer que seja.[n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [Yusuke]]

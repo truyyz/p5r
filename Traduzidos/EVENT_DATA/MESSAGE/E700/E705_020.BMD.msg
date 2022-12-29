@@ -18,7 +18,7 @@
 [s][bup 0 103 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E vou expulsá-lo sem perguntas, se você[n]serve um copo ruim, você entendeu?[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Sojiro]]
-[s][bup 0 103 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]* suspiro* Isso é preocupante.[n][f 1 3 65535][w][e]
+[s][bup 0 103 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*suspiro* Isso é preocupante.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][f 4 24 0 4 0 37 3 100][f 4 24 0 4 0 0 5 100][vp 8 0 0 0 65535 0]O que mais poderia ser além de fabricar[n]café? Sou muito particular sobre como[n]fazemos as coisas aqui.[n][f 1 3 65535][w][e]
 [s][bup 0 103 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E vou expulsá-lo sem perguntas, se você[n]serve um copo ruim, você entendeu?[n][f 1 3 65535][w][e]
 

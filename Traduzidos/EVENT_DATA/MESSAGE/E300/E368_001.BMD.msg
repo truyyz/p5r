@@ -53,7 +53,7 @@
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 3 7 301 1][vp 8 0 0 18 65535 0]E seu verdadeiro objetivo é... assassinato!?[n]Todo coração que eles mudaram antes de[n]Okumura era apenas um aquecimento!?[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Ann]]
-[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]* suspiro* Então agora eles estão nos[n]acusando de ser um bando de assassinos...[n][f 1 3 65535][w][e]
+[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]*suspiro* Então agora eles estão nos[n]acusando de ser um bando de assassinos...[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Ryuji]]
 [s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]Isso é tão estúpido! Droga![n][f 1 3 65535][w][e]

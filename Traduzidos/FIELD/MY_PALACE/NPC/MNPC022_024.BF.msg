@@ -94,7 +94,7 @@
 [msg MES_GROUP9_01 [Kawakami]]
 [s][bup 0 109 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 32 10 0 10][vp 8 2 1 15176 65535 0]Eu adoraria ter um carro como este.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Sempre que estou exausto do trabalho, sonho[n]em ir muito longe, muito longe para uma[n]pousada e beber bem.[n][w][e]
-[s][bup 0 109 3 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 33 10 0 10][vp 8 2 1 15028 65535 0]* suspiro* parece celestial...[n][w][e]
+[s][bup 0 109 3 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 33 10 0 10][vp 8 2 1 15028 65535 0]*suspiro* parece celestial...[n][w][e]
 
 [msg MES_GROUP9_02 [Yoshida]]
 [s][bup 0 112 3 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 32 10 0 10][vp 8 2 1 20027 65535 0]Certamente faz. As pessoas deste país estão[n]realmente sobrecarregadas...[n][w][e]

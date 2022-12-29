@@ -245,7 +245,7 @@
 [s]Rrr... rowr...[n][f 1 2 65535][e]
 
 [msg MSG_NML07_MNLG_ALT_02_01]
-[s]* Sniff** Sniff* Woof... Rowr...[n][f 1 2 65535][e]
+[s]*Sniff** Sniff* Woof... Rowr...[n][f 1 2 65535][e]
 
 [msg MSG_NML07_MNLG_ALT_02_02]
 [s]AWOOOOOO![n][f 1 2 65535][e]

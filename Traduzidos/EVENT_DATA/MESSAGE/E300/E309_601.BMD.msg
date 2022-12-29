@@ -130,7 +130,7 @@
 [s]É apenas uma coincidência.[e]
 
 [msg MSG_045_0_0 [Akechi]]
-[s][bup 0 9 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 59 65535 0]* risada* obrigado.[n][f 1 3 65535][w][e]
+[s][bup 0 9 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 59 65535 0]*risada* obrigado.[n][f 1 3 65535][w][e]
 
 [msg MSG_046_0_0 [Akechi]]
 [s][bup 0 9 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 60 65535 0]Oh que pena.[n][f 1 3 65535][w][e]

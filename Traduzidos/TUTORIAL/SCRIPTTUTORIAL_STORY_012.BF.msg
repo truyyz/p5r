@@ -11,10 +11,10 @@
 [s]O meta-nav e o metaverso eram ambos as ferramentas usadas[n]pelo Deus malévolo para provar a tolice da humanidade para [n][f 4 2].[n][w][e]
 
 [msg TUTORIAL_MSG05 [The Final Heist]]
-[s][f 4 2]é salvo da morte quando os gêmeos da sala de veludo se[n]fundem em Lavenza. O Deus, acreditando que já venceu,[n]devolve o verdadeiro Igor e as folhas.[n][w][e]
+[s][f 4 2] é salvo da morte quando os gêmeos da sala de veludo se[n]fundem em Lavenza. O Deus, acreditando que já venceu,[n]devolve o verdadeiro Igor e as folhas.[n][w][e]
 
 [msg TUTORIAL_MSG06 [The Final Heist]]
-[s][f 4 2]Restaura a força de vontade dos ladrões Phantom e a equipe[n]se reúne na sala de veludo para a explicação de Igor.[n][w][e]
+[s][f 4 2] Restaura a força de vontade dos ladrões Phantom e a equipe[n]se reúne na sala de veludo para a explicação de Igor.[n][w][e]
 
 [msg TUTORIAL_MSG07 [The Final Heist]]
 [s]Antes de ser preso, Igor deu seu poder restante a um[n]mensageiro encarregado de encontrar um humano que poderia[n]se tornar o trapaceiro.[n][w][e]

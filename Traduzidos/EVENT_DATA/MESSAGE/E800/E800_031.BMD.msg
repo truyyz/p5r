@@ -5,7 +5,7 @@
 
 [msg MSG_001_0_0 [Haru]]
 [s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu comi a tigela inteira...! O sabor era tão[n]edificante...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]* risada* e minha tigela não é a única[n]vazia. Foi agradável vê-lo comer.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*risada* e minha tigela não é a única[n]vazia. Foi agradável vê-lo comer.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]... Eu posso estar bebendo um pouco alto.[n]Isso foi não-ladra de mim?[n][f 1 3 65535][w][e]
 
 [sel SEL_002_0_0 top]

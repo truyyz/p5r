@@ -11,7 +11,7 @@
 [s][vp 8 0 0 0 65535 0]... Eu sinto a presença de alguém![n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Studly Guy]]
-[s][bup 0 3 803 65535 0][f 4 10 65535 0 0][vp 8 0 0 1 4 0]* bocejo* hmm? E aí?[n][f 1 3 65535][w][e]
+[s][bup 0 3 803 65535 0][f 4 10 65535 0 0][vp 8 0 0 1 4 0]*bocejo* hmm? E aí?[n][f 1 3 65535][w][e]
 
 [sel SEL_005_0_0 top]
 [s]Quem é você?[e]

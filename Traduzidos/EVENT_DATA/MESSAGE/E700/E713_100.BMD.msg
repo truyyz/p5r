@@ -84,6 +84,6 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 35 65535 0]Então é melhor você ganhar algum dinheiro em[n]nome de "Justiça".[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Takemi]]
-[s][bup 0 108 1 0 0][f 4 10 65535 0 0][vp 8 0 0 36 65535 0]* risada* agora, vá.[n][f 1 3 65535][w][e]
+[s][bup 0 108 1 0 0][f 4 10 65535 0 0][vp 8 0 0 36 65535 0]*risada* agora, vá.[n][f 1 3 65535][w][e]
 [s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 0 0 37 65535 0][f 4 24 0 5 0 36 5 100]Cuidar.[n][f 1 3 65535][w][e]
 

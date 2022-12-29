@@ -25,7 +25,7 @@
 [s][bup 0 2 1 65535 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]【仮】よっ![n]転ばねーで帰れたか?[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Ryuji]]
-[s][bup 0 2 3 65535 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]【仮】別れた後よく考えたんだけどさ、[n]俺、[f 4 2]にメッチャ重い話したよな...[n][f 1 3 65535][w][e]
+[s][bup 0 2 3 65535 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]【仮】別れた後よく考えたんだけどさ、[n]俺、[f 4 2] にメッチャ重い話したよな...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]【仮】なんか、今更だけどごめんな。[n]お前にはどーしても聞いて欲しくてよ。[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]【仮】親の事とか、人に話せねーしさ。[n]つーか、今まで話す相手もいなかったけど。[n][f 1 3 65535][w][e]
 
@@ -51,7 +51,7 @@
 [s][bup 0 2 0 65535 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]【仮】よっ。[n]今日もあんがとな。[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Ryuji]]
-[s][bup 0 2 3 65535 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]【仮】なんか、俺[f 4 2]にだせぇ所ばっか[n]見せちまってるな...[n][f 1 3 65535][w][e]
+[s][bup 0 2 3 65535 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]【仮】なんか、俺[f 4 2] にだせぇ所ばっか[n]見せちまってるな...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]......[n][f 1 3 65535][w][e]
 [s][bup 0 2 7 65535 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu realmente preciso pensar um pouco mais...[n]Você realmente me ajudou hoje.[n][f 1 3 65535][w][e]
 
@@ -207,7 +207,7 @@
 [s]Divirta-se.[e]
 
 [msg MSG_052_0_0 [Ryuji]]
-[s][bup 0 2 1 65535 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 8 15 2]【仮】おう、ちょぴっと腫れてっけどな![n][f 4 2]のおðだわ、サンキュな![n][f 1 3 65535][w][e]
+[s][bup 0 2 1 65535 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 8 15 2]【仮】おう、ちょぴっと腫れてっけどな![n][f 4 2] のおðだわ、サンキュな![n][f 1 3 65535][w][e]
 
 [msg MSG_053_0_0 [Ryuji]]
 [s][bup 0 2 1 65535 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 8 5 2]【仮】いやいや![n]そんなケンソン? すんなって![n][f 1 3 65535][w][e]
@@ -533,7 +533,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vamos novamente algum dia, sim?[n][f 1 3 65535][w][e]
 
 [msg MSG_147_0_0 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]* calça* santo... porcaria... minhas pernas[n]são shakin '...[n]Não desmaie no seu caminho para casa, cara...[n][f 1 3 65535][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*calça* santo... porcaria... minhas pernas[n]são shakin '...[n]Não desmaie no seu caminho para casa, cara...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mais tarde.[n][f 1 3 65535][w][e]
 
 [msg MSG_148_0_0 [Ryuji]]
@@ -565,6 +565,6 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vamos novamente algum dia, sim?[n][f 1 3 65535][w][e]
 
 [msg MSG_155_0_0 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]* calça* santo... porcaria... minhas pernas[n]são shakin '...[n]Não desmaie no seu caminho para casa, cara...[n][f 1 3 65535][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*calça* santo... porcaria... minhas pernas[n]são shakin '...[n]Não desmaie no seu caminho para casa, cara...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mais tarde.[n][f 1 3 65535][w][e]
 

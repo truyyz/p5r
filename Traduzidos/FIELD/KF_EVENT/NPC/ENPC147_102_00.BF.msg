@@ -19,7 +19,7 @@
 [s][f 4 23 1 851 3 10 0 0][vp 8 2 1 0 851 0]Nah, havia muita multidão lá. Você quer dar[n]uma olhada mais tarde?[n][w][e]
 
 [msg MSG_TOBIORI_MAKOTO_01 [Impatient Teacher]]
-[s][vp 8 2 1 0 859 0]* suspiro* que preocupação... você! Leve os[n]alunos de volta às salas de aula![n][w][e]
+[s][vp 8 2 1 0 859 0]*suspiro* que preocupação... você! Leve os[n]alunos de volta às salas de aula![n][w][e]
 [s][vp 8 2 1 0 859 0]Estou indo para o escritório da faculdade. É[n]melhor eu avisar a todos para não ficar[n]online e falar sobre isso também...[n][w][e]
 
 [msg MSG_TOBIORI_MAKOTO_02 [Diligent-Looking Student]]

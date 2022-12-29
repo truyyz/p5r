@@ -126,5 +126,5 @@
 [s][vp 8 0 0 0 65535 0]Eu sinto que meu vínculo com Haru ficará[n]mais forte em breve...[n][f 1 3 65535][w][e]
 
 [msg MSG_039_0_0 [Haru]]
-[s][vp 8 2 0 3049 65535 0]* Giggle* Monjayaki é tão divertido de[n]fazer. Bem, vamos para casa.[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 3049 65535 0]*Giggle* Monjayaki é tão divertido de[n]fazer. Bem, vamos para casa.[n][f 1 3 65535][w][e]
 

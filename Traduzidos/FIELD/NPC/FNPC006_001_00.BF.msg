@@ -914,7 +914,7 @@
 [s][f 4 23 1 12 3 10 0 10][vp 8 2 1 0 12 0]O que-você ainda está agindo tão[n]auto-absorvido! Eu não preciso fazer nada![n][w][e]
 
 [msg MSG_GEINOUDON_013_3_0 [Show-Biz Veteran]]
-[s][f 4 23 1 11 3 10 0 10][vp 8 2 1 0 11 0]* SOB* por favor! Eu preciso que você![n]Eu preciso que você me veja compensar tudo o[n]que eu fiz![n][w][e]
+[s][f 4 23 1 11 3 10 0 10][vp 8 2 1 0 11 0]*SOB* por favor! Eu preciso que você![n]Eu preciso que você me veja compensar tudo o[n]que eu fiz![n][w][e]
 
 [msg MSG_GEINOUDON_014_0_0 [Show-Biz Veteran]]
 [s][f 4 23 1 11 3 10 0 10][vp 8 2 1 0 11 0]Olá, meu nome é Shiro Asakura.[n]Eu fiz coisas terríveis para as mulheres que[n]aspiram a serem ídolos.[n][w][e]
@@ -2750,7 +2750,7 @@
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0]... caramba, eles nos notaram!? Vamos nos[n]fugir![n][w][e]
 
 [msg MSG_Q79_HINT_MORU_20_00 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0]* suspiro* Conseguimos evitar ser notado...[n]Vamos examinar as informações que reunimos.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0]*suspiro* Conseguimos evitar ser notado...[n]Vamos examinar as informações que reunimos.[n][w][e]
 [s][f 4 10 65535 0 0]Qualquer coisa em particular que você notou?[n][w][e]
 
 [sel SEL_Q79_HINT_00_00 top]

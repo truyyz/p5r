@@ -23,7 +23,7 @@
 [msg MSG_033_0_0 [Yusuke]]
 [s][bup 0 5 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]As informações pessoais da vítima são sempre[n]mantidas em segredo. Identificar que o[n]homem será difícil...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Além disso, os tribunais já tomaram sua[n]decisão, não?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Mesmo se conseguirmos se vingar, [n][f 4 2]O recorde passado não vai embora.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Mesmo se conseguirmos se vingar, [n][f 4 2] O recorde passado não vai embora.[n][f 1 3 65535][w][e]
 
 [msg MSG_034_0_0 [Ryuji]]
 [s][bup 0 2 11 65535 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Eu não aguento...[n][f 1 3 65535][w][e]
@@ -119,7 +119,7 @@
 
 [sel SEL_061_0_0 top]
 [s]Deixe para mim.[e]
-[s]Multar...[e]
+[s]Bom...[e]
 
 [msg MSG_062_0_0 [Ann]]
 [s][bup 0 4 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 44 65535 0]... Uau, é tão tarde?[n][f 1 3 65535][w][e]

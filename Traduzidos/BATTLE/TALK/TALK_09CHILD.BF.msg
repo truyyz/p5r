@@ -1418,7 +1418,7 @@
 [s]Ei, você pode me dar [n][f 2 5 3 9999 4]?[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_REQUIRE_2]
-[s]* tosse** tosse* eu me sinto horrível...[n]ughhh, eu sou tão tremendo.[n][w][e]
+[s]*tosse** tosse* eu me sinto horrível...[n]ughhh, eu sou tão tremendo.[n][w][e]
 [s]Oh, não, estou ficando doente? Awww cara,[n]acho que preciso de um [n][f 2 5 3 9999 4][n]agora mesmo.[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_REQUIRE_3]
@@ -1758,7 +1758,7 @@
 [s]Senhor, é melhor você desistir.[n]Lord Okumura é super difícil- você não pode[n]vencê-lo.[n][w][e]
 
 [msg TalkMsg_ED_bye_D05_02]
-[s]* risada* Mal posso esperar para Lord[n]Okumura vencê-lo![n][w][e]
+[s]*risada* Mal posso esperar para Lord[n]Okumura vencê-lo![n][w][e]
 
 [msg TalkMsg_ED_bye_D05_03]
 [s]Você sabe que somos todos nada comparados a[n]Lord Okumura, certo?[n][w][e]
@@ -1911,7 +1911,7 @@
 [s](このページはカット予定)オレ、怒ってきた...[n][w][e]
 
 [msg TalkMsg_FQ_REACT_BROKEDO]
-[s]Multar! Eu farei algo sobre isso sozinho.[n]Hmph![n][w][e]
+[s]Bom! Eu farei algo sobre isso sozinho.[n]Hmph![n][w][e]
 
 [msg TalkMsg_HAVE_NO_SECRET]
 [s]Me desculpe... eu não tenho nenhuma[n]informação útil...[n][w][e]

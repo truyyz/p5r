@@ -51,7 +51,7 @@
 [s][bup 0 107 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Claro que não é bom! Mas o que devo fazer...?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eles vão me demitir se eu não conseguir[n]alcançar minha cota![n]Ei, Lala-chan... se eles me demitem, posso[n]morar aqui?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Isso ainda não ajudará minha investigação...[n]o incidente tem mais de um ano, e as[n]autoridades não estão fazendo merda.[n][f 1 3 65535][w][e]
-[s][bup 0 107 4 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 39 3 100][f 4 24 0 4 0 0 5 100][vp 8 0 0 0 65535 0]* suspiro* Talvez Kayo realmente tenha sido[n]o verdadeiro culpado...[n][f 1 3 65535][w][e]
+[s][bup 0 107 4 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 39 3 100][f 4 24 0 4 0 0 5 100][vp 8 0 0 0 65535 0]*suspiro* Talvez Kayo realmente tenha sido[n]o verdadeiro culpado...[n][f 1 3 65535][w][e]
 
 [sel SEL_014_0_0 top]
 [s]Você tem evidências disso?[e]
@@ -74,7 +74,7 @@
 [s][vp 8 0 0 0 65535 0]Observe seu temperamento.[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Ohya]]
-[s][bup 0 107 5 65535 0][f 4 10 65535 0 0][vp 8 2 0 16028 65535 0]* suspiro* o que estou fazendo...?[n][f 1 3 65535][w][e]
+[s][bup 0 107 5 65535 0][f 4 10 65535 0 0][vp 8 2 0 16028 65535 0]*suspiro* o que estou fazendo...?[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Ohya]]
 [s][bup 0 107 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Quero dizer, sou eu quem arrastou Kayo para[n]a política. É minha culpa que isso acabou[n]acontecendo com ela...[n][f 1 3 65535][w][e]

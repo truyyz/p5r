@@ -196,7 +196,7 @@
 [s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 3048 65535 0]É tão diferente aqui com todos vocês do que[n]era quando era apenas Mona-chan e eu. Eu[n]tenho tantos amigos agora![n][w][e]
 
 [msg SAFETY_MES_HARU_06_01 [Haru]]
-[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 3048 65535 0]* risada* parece que faz muito tempo desde[n]que eu fiz essas postagens no local do[n]phan...[n][w][e]
+[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 3048 65535 0]*risada* parece que faz muito tempo desde[n]que eu fiz essas postagens no local do[n]phan...[n][w][e]
 
 [msg SAFETY_MES_HARU_07_01 [Haru]]
 [s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 3136 65535 0]Não se preocupe comigo, estou bem.[n]Temos que ajudar essas pessoas que confiam[n]em nós.[n][w][e]

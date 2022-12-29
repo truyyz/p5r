@@ -78,7 +78,7 @@
 [s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 30 65535 0]É verdade... posso confiar muito na ajuda de[n]Sakura-san se fizesse isso.[n]HM, eu vou pensar sobre isso.[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Haru]]
-[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 31 65535 0]* risada* Eu aceito que o sentimento vem da[n]experiência pessoal?[n][f 1 3 65535][w][e]
+[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 31 65535 0]*risada* Eu aceito que o sentimento vem da[n]experiência pessoal?[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Haru]]
 [s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 32 65535 0]De qualquer maneira, acho que esse meu sonho[n]não será uma tarefa fácil.[n][f 1 3 65535][w][e]
@@ -111,7 +111,7 @@
 [s]Vou trazer um presente para você.[e]
 
 [msg MSG_025_0_0 [Haru]]
-[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 42 65535 0]* risada* Mal posso esperar.[n][f 1 3 65535][w][e]
+[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 42 65535 0]*risada* Mal posso esperar.[n][f 1 3 65535][w][e]
 
 [msg MSG_026_0_0 [Haru]]
 [s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 43 65535 0]Meu, olhe para o momento. Falamos há um bom[n]tempo![n][f 1 3 65535][w][e]

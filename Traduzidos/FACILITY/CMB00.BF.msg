@@ -2,7 +2,7 @@
 [s]Fictício [n][w][e]
 
 [msg CMB00_MSG_001 [Igor]]
-[s][bup 0 201 0 0 0][f 4 10 65535 0 0][vp 1 0 0 5001 0 0]* risada* não se preocupe. Personas nascem[n]do eu interior...[n][w][e]
+[s][bup 0 201 0 0 0][f 4 10 65535 0 0][vp 1 0 0 5001 0 0]*risada* não se preocupe. Personas nascem[n]do eu interior...[n][w][e]
 
 [msg CMB00_MSG_002 [Igor]]
 [s][bup 0 201 0 0 0][f 4 10 65535 0 0][vp 1 0 0 5002 0 0]Ao descartar sua identidade antiga, você dá[n]lugar a um novo. Portanto, chamamos esse[n]processo de "execução".[n][w][e]

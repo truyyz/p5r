@@ -89,7 +89,7 @@
 [s]Huh!? Uma senhora nunca deve derramar[n]lágrimas em público... bem, vou ignorar[n]isso por [n][var 0]Yen.[n][w][e]
 
 [msg TalkMsg_EN_FAKE_CRIED02]
-[s]Huh? O que é isso!?...Multar. Vou te perdoar[n]se puder ter um pouco de sua saúde.[n][w][e]
+[s]Huh? O que é isso!?...Bom. Vou te perdoar[n]se puder ter um pouco de sua saúde.[n][w][e]
 
 [msg TalkMsg_EN_FAKE_CRIED03]
 [s]Oh seu pobre querido... eu entendo.[n]Vou perdoar isso se puder ter um pouco de[n]sua resistência.[n][w][e]
@@ -98,7 +98,7 @@
 [s]O que!? Oh... eu fiz algo que estranho?[n]Hmph, parece que isso é um comportamento[n]indesejado.[n][w][e]
 
 [msg TalkMsg_EN_FAKE_COUP01]
-[s]* suspiro* Isso é tudo porque você atacou[n]primeiro... Eu não suporto essa atmosfera.[n]Vou tirar minha despedida.[n][w][e]
+[s]*suspiro* Isso é tudo porque você atacou[n]primeiro... Eu não suporto essa atmosfera.[n]Vou tirar minha despedida.[n][w][e]
 
 [msg TalkMsg_NO_REQUIREMENT]
 [s]Você não tem isso? Isso apenas quebra meu[n]coração...[n][w][e]

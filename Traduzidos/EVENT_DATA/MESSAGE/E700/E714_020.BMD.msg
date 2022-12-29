@@ -25,7 +25,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E agora, a limpeza está completa![n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Kawakami]]
-[s][bup 0 109 603 0 0][f 4 10 65535 0 0][vp 8 2 0 15028 65535 0]* gemido* estou exausto...[n][f 1 3 65535][w][e]
+[s][bup 0 109 603 0 0][f 4 10 65535 0 0][vp 8 2 0 15028 65535 0]*gemido* estou exausto...[n][f 1 3 65535][w][e]
 [s][vp 1 0 0 0 0 0]......[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não tenho permissão para trabalhar horas[n]extras durante a semana, então corro para o[n]meu emprego de meio período depois que a[n]aula terminar.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Nos meus dias de folga, tenho que preparar[n]testes pop e tarefas de casa...[n][f 1 3 65535][w][e]
@@ -60,7 +60,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]... De qualquer forma, vamos manter o[n]controle e manter nossa distância em prol[n]do nosso relacionamento.[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Kawakami]]
-[s][bup 0 109 603 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]* bocejo*... eu preciso de uma soneca...[n][f 1 3 65535][w][e]
+[s][bup 0 109 603 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*bocejo*... eu preciso de uma soneca...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Desculpe, apenas me dê cinco minutos...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Talvez dez...[n][f 1 3 65535][w][e]
 
@@ -120,7 +120,7 @@
 [s][vp 8 0 0 0 65535 0]Eu posso sentir a confiança de Kawakami em[n]mim...[n][f 1 3 65535][w][e]
 
 [msg MSG_025_0_0 [Kawakami]]
-[s][bup 0 109 603 0 0][f 4 10 65535 0 0][vp 8 2 0 15028 65535 0]* suspiro* mais três para ir...[n][f 1 3 65535][w][e]
+[s][bup 0 109 603 0 0][f 4 10 65535 0 0][vp 8 2 0 15028 65535 0]*suspiro* mais três para ir...[n][f 1 3 65535][w][e]
 [s][bup 0 109 600 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]... bem, vejo você mais tarde, mestre![n][f 1 3 65535][w][e]
 
 [msg MND_029_0_0]

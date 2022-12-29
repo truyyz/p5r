@@ -27,7 +27,7 @@
 [s]Vamos comprar bolo.[e]
 
 [msg MSG_007_0_0 [Chihaya]]
-[s][bup 0 113 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]* risada* obrigado.[n][f 1 3 65535][w][e]
+[s][bup 0 113 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]*risada* obrigado.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Eu só queria que houvesse uma maneira de[n]acrescentar aquele toque de Natal...[n][f 1 3 65535][w][e]
 [s][bup 0 113 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Oh, talvez pudéssemos pegar um bolo![n][f 1 3 65535][w][e]
 

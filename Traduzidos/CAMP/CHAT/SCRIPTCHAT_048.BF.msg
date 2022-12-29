@@ -36,5 +36,5 @@
 [s][f 5 14]Direita.[n][w][e]
 
 [msg MSG_012_0_0 [Ryuji]]
-[s][f 5 14][f 5 15]Temos que pagá-lo de volta pelo que ele[n]fez para [n][f 4 2]também.[n][w][e]
+[s][f 5 14][f 5 15]Temos que pagá-lo de volta pelo que ele[n]fez para [n][f 4 2] também.[n][w][e]
 

@@ -10,7 +10,7 @@
 [s]Você é incrível.[e]
 
 [msg MSG_001_3_0 [Ann]]
-[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]* risada* eu entendi![n][f 1 3 65535][w][e]
+[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*risada* eu entendi![n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 6156 65535 0]Eu acho que ter um coração forte significa[n]que você não deixa nada ficar sob sua pele.[n][f 1 3 65535][w][e]

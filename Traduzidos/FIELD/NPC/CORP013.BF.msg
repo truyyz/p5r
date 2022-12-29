@@ -22,7 +22,7 @@
 
 [msg MSG_ITEM_SHOP_OPEN_03 [Languid Doctor]]
 [s][bup 0 108 0 0 0][f 4 10 65535 0 0]......[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]...Multar.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]...Bom.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 14059 65535 0]Por favor, vá para a sala de exames.[n][w][e]
 
 [msg MSG_C13_BEGIN_UNOPEN_00 [Languid Doctor]]
@@ -347,7 +347,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]café, right?[n][w][e]
 
 [msg MND_COOP_DOUZOKUSEI]
-[s]Mais importante, agora seria um ótimo[n]momento para um café. Você vive em um eu[n]sinto que posso me aproximar com takemi[n]graças ao [n][var 2][n]Persona [clr 1][var 5][clr 27]...[n][w][e]
+[s]Mais importante, agora seria um ótimo momento[n]para um café. Você vive em um eu sinto que[n]posso me aproximar com takemi graças ao [var 2][n]Persona [clr 1][var 5][clr 27]...[n][w][e]
 
 [msg MND_COOP_RANKUP_OK]
 [s]Eu sinto que meu vínculo com Takemi ficará[n]mais forte em breve...[n][w][e]
@@ -420,7 +420,7 @@
 
 [msg MSG_C13_YES_09_00 [Takemi]]
 [s][bup 0 108 1 0 0][f 4 23 1 213 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Então, suponho que vou visitar agora.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 14110 65535 0]* risada* Acho que ninguém está em casa à[n]noite?[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 14110 65535 0]*risada* Acho que ninguém está em casa à[n]noite?[n][w][e]
 
 [msg MSG_C13_YES_09_01 [Takemi]]
 [s][bup 0 108 1 0 0][f 4 23 1 213 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 14122 65535 0]A garota que tenho tratado está chegando em[n]breve. Eu quero que você veja como ela está.[n][w][e]

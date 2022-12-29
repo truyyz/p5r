@@ -21,7 +21,7 @@
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 104 14 300 1][vp 8 0 0 14 65535 0]...Espere um segundo.[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Iwai]]
-[s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]* risada* Sim, isso pode funcionar.[n][f 1 3 65535][w][e]
+[s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]*risada* Sim, isso pode funcionar.[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Iwai]]
 [s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Ei, eu posso conceder esse seu desejo...[n][f 1 3 65535][w][e]

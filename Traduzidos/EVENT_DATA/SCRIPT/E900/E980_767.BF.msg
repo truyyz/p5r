@@ -27,7 +27,7 @@
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 9196 65535 0]This essa atmosfera... vamos mim, eu entendi![n][f 1 3 65535][w][e]
 
 [msg MSG_DartsStartTalk_Haru [Haru]]
-[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 3048 65535 0]* Giggle* Você é todo tão habilidoso.[n]É melhor eu continuar também.[n][f 1 3 65535][w][e]
+[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 3048 65535 0]*Giggle* Você é todo tão habilidoso.[n]É melhor eu continuar também.[n][f 1 3 65535][w][e]
 
 [msg MSG_DartsStartTalk_Akech [Akechi]]
 [s][bup 0 9 1 65535 0][f 4 10 65535 0 0]Não utilizado [n][f 1 3 65535][w][e]

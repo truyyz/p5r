@@ -117,7 +117,7 @@
 [s][bup 0 202 107 0 0][f 4 10 65535 0 0][vp 8 0 0 46 65535 0]Talvez eu comece com as roupas dela...[n][f 1 3 65535][w][e]
 
 [msg MSG_043_0_0 [Princess Ann]]
-[s][bup 0 4 900 0 0][f 4 10 65535 0 0][vp 8 0 0 47 11 0]* Giggle* você é um pervertido![n][f 1 3 65535][w][e]
+[s][bup 0 4 900 0 0][f 4 10 65535 0 0][vp 8 0 0 47 11 0]*Giggle* você é um pervertido![n][f 1 3 65535][w][e]
 
 [msg MSG_044_0_0 [Ryuji]]
 [s][bup 0 2 104 0 0][f 4 10 65535 0 0][vp 8 0 0 48 65535 0]H-hey, o que vamos fazer!?[n][f 1 3 65535][w][e]

@@ -19,7 +19,7 @@
 [s][vp 8 2 1 47612 65535 0]Huh!? Fraude!? É melhor você parar de falar[n]merda sobre meu produto![n][w][e]
 
 [msg MSG_QST_074_07 [Shadow Amai]]
-[s][vp 8 2 1 47617 65535 0]* SOB* é tudo minha culpa![n][w][e]
+[s][vp 8 2 1 47617 65535 0]*SOB* é tudo minha culpa![n][w][e]
 [s][vp 8 2 1 0 65535 0]Vou parar de vender! E vou devolver todo o[n]dinheiro também![n][w][e]
 
 [sel SEL_QST_074_08 top]
@@ -40,7 +40,7 @@
 [s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2028 65535 0]É por isso que você terá que passar o resto[n]da sua vida expulsar por isso... você pode[n]nos prometer isso?[n][w][e]
 
 [msg MSG_QST_074_12 [Shadow Amai]]
-[s][vp 8 2 1 47616 65535 0]* SOB* sim... eu prometo...[n][w][e]
+[s][vp 8 2 1 47616 65535 0]*SOB* sim... eu prometo...[n][w][e]
 
 [msg MSG_QST_074_13 [Ryuji]]
 [s][bup 0 2 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7046 65535 0]Se você voltar à sua palavra, o punho da[n]rainha da estrela do Phantom vai bater na[n]sua bunda![n][w][e]

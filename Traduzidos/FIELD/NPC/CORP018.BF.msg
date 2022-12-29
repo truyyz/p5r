@@ -86,7 +86,7 @@
 
 [msg MSG_C18_BEGIN_TIME_04 [Mishima]]
 [s][bup 0 111 1 65535 0][f 4 23 1 218 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 19002 65535 0]Os ladrões fantasmas são praticamente[n]imparáveis. Todo mundo ama vocês![n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]* risada* como eu, é claro.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]*risada* como eu, é claro.[n][w][e]
 
 [msg MSG_C18_BEGIN_TIME_05 [Mishima]]
 [s][bup 0 111 1 65535 0][f 4 23 1 218 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 19083 65535 0]Isso é tão incrível! A febre do Phantom[n]Thieves correu desenfreada![n][w][e]
@@ -155,7 +155,7 @@
 
 [msg MSG_C18_COOP_NOTRANKUP_0_2 [Mishima]]
 [s][bup 0 111 0 65535 0][f 4 23 1 218 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 19018 65535 0]Ei, você se lembra daquela pessoa horrível[n]sobre a qual eu mandei uma mensagem? Você[n]vai mudar o coração deles, certo?[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ah, e estou reunindo Intel sobre esse ator[n]enquanto falamos. Entrarei em contato com[n]você novamente assim que tiver algo sólido.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ah, e estou reunindo Informação sobre esse ator[n]enquanto falamos. Entrarei em contato com[n]você novamente assim que tiver algo sólido.[n][w][e]
 
 [msg MSG_C18_COOP_NOTRANKUP_S [Mishima]]
 [s][bup 0 111 1 65535 0][f 4 23 1 218 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 19127 65535 0]Avise-me quando terminar o pedido![n][w][e]
@@ -165,7 +165,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Enfim, vou enviar uma mensagem para você[n]mais tarde. Espero que você esteja ansioso[n]por isso![n][w][e]
 
 [msg MSG_C18_COOP_NOTQUEST_01 [Mishima]]
-[s][bup 0 111 0 65535 0][f 4 23 1 218 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 19018 65535 0]Ah, e estou reunindo Intel sobre esse ator[n]enquanto falamos. Entrarei em contato com[n]você novamente assim que tiver algo sólido.[n][w][e]
+[s][bup 0 111 0 65535 0][f 4 23 1 218 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 19018 65535 0]Ah, e estou reunindo Informação sobre esse ator[n]enquanto falamos. Entrarei em contato com[n]você novamente assim que tiver algo sólido.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu vou contar com você![n][w][e]
 
 [msg MSG_C18_COOP_NOTQUEST_SE [Mishima]]
@@ -182,7 +182,7 @@
 [s][bup 0 111 1 65535 0][f 4 23 1 218 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Então, você fez o pedido que eu pedi para[n]fazer. Obrigado![n][w][e]
 
 [msg MSG_MISHIMA_CORP_C00_00 [Mishima]]
-[s][bup 0 111 0 65535 0][f 4 23 1 218 3 10 0 10][f 4 10 65535 0 0]Ei, eu tenho uma ótima Intel hoje.[n]Você quer ouvir isso?[n][w][e]
+[s][bup 0 111 0 65535 0][f 4 23 1 218 3 10 0 10][f 4 10 65535 0 0]Ei, eu tenho uma ótima Informação hoje.[n]Você quer ouvir isso?[n][w][e]
 
 [msg MSG_C18_COOP_01_00 [Mishima]]
 [s][bup 0 111 0 65535 0][f 4 23 1 218 3 10 0 10][f 4 10 65535 0 0]Então, eu tenho pensado em como posso[n]ajudá-lo...[n][w][e]
@@ -277,7 +277,7 @@
 
 [msg MSG_C18_YES_03_00 [Mishima]]
 [s][bup 0 111 1 65535 0][f 4 23 1 218 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Vamos ir a um buffet caro em Shibuya.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 19059 65535 0]* risada* Não se preocupe com o preço![n]Vamos, siga-me![n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 19059 65535 0]*risada* Não se preocupe com o preço![n]Vamos, siga-me![n][w][e]
 
 [msg MSG_C18_YES_04_00 [Mishima]]
 [s][bup 0 111 1 65535 0][f 4 23 1 218 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Você realmente quer saber, hein? Eu acho que[n]você vai gostar![n][w][e]
@@ -432,7 +432,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 1 7 65535 0]Só você espera, vou fazer algo digno do [f 4 28]nome![n][w][e]
 
 [msg MSG_C18_BYEGREET_00_04 [Mishima]]
-[s][bup 0 111 1 65535 0][f 4 23 1 218 3 10 0 10][f 4 10 65535 0 0][vp 8 0 1 8 65535 0]* risada* Então, você finalmente percebe o[n]quão bom eu sou?[n][w][e]
+[s][bup 0 111 1 65535 0][f 4 23 1 218 3 10 0 10][f 4 10 65535 0 0][vp 8 0 1 8 65535 0]*risada* Então, você finalmente percebe o[n]quão bom eu sou?[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 9 65535 0]Nesse caso, não vou te decepcionar![n]Vou fazer algo verdadeiramente digno do [f 4 28]nome![n][w][e]
 
 [msg MSG_C18_BYEGREET_00_05 [Mishima]]

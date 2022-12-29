@@ -126,7 +126,7 @@
 [s]Eu estou indo fazer isso.[e]
 
 [msg MSG_035_0_0 [Ryuji]]
-[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 44 65535 0]* suspiro* Acho que seria mais um problema[n]para nós se não fossemos.[n][f 1 3 65535][w][e]
+[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 44 65535 0]*suspiro* Acho que seria mais um problema[n]para nós se não fossemos.[n][f 1 3 65535][w][e]
 
 [msg MSG_036_0_0 [Ann]]
 [s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 45 65535 0]Hmm, sim.[n][f 1 3 65535][w][e]

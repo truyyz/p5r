@@ -42,7 +42,7 @@
 [s][vp 1 0 0 0 0 0]É melhor eu "tratar" você imediatamente! E[n]vou culpar sua morte por Takemi bagunçando[n]novamente![n][w][e]
 
 [msg MSG_005_0_0 [Shadow Oyamada]]
-[s][vp 8 2 1 47016 65535 0]* SOB* como é que...? Como é que eu não sou[n]bom o suficiente...?[n][w][e]
+[s][vp 8 2 1 47016 65535 0]*SOB* como é que...? Como é que eu não sou[n]bom o suficiente...?[n][w][e]
 [s][vp 1 0 0 0 0 0]Eu quero salvar a vida das pessoas. E eu[n]quero fazer algo ótimo e ajudar a fazer[n]histórico médico.[n][w][e]
 [s][vp 1 0 0 0 0 0]Mas eu sou apenas um médico medíocre. Eu só[n]fui promovido por causa das minhas conexões[n]universitárias.[n][w][e]
 [s][vp 1 0 0 0 0 0]Takemi, no entanto, foi tão criativo. Ela[n]tinha todas essas idéias, e suas técnicas[n]eram extraordinárias...![n][w][e]

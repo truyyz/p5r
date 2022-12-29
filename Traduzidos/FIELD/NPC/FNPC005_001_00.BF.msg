@@ -1705,7 +1705,7 @@
 [s][f 4 23 1 11 3 10 0 10][vp 8 2 1 0 11 0]O que!? B-mas esses jeans estavam cheios de[n]buracos![n][w][e]
 
 [msg MSG_FURUGI_070_010_000 [Stylish Part-Timer]]
-[s][f 4 23 1 11 3 10 0 10][vp 8 2 1 0 11 0]* SOB* meu salário ainda está ancorado para[n]aquele par de jeans que eu arruinei...[n][w][e]
+[s][f 4 23 1 11 3 10 0 10][vp 8 2 1 0 11 0]*SOB* meu salário ainda está ancorado para[n]aquele par de jeans que eu arruinei...[n][w][e]
 
 [msg MSG_FURUGI_070_020_000 [Charismatic Manager]]
 [s][f 4 23 1 10 3 10 0 10][vp 8 2 1 0 10 0]Não reclame. Eu tinha a folha de pagamento[n]deduzindo uma pequena quantia de cada[n]salário para me pagar de volta às parcelas.[n][w][e]
@@ -2257,7 +2257,7 @@
 [s][f 4 23 1 30 3 10 0 10][vp 8 2 1 0 30 0]Sim. Como os caras saindo em torno do[n]Harmony Alley.[n][w][e]
 
 [msg MSG_NOMIYA_010_010_000 [Sake Reporter]]
-[s][f 4 23 1 40 3 10 0 10][vp 8 2 1 0 40 0]* Soluço* Você sabe aquele novo bar atrás da[n]loja de departamentos? Eu tomei algumas[n]bebidas lá ontem à noite.[n][w][e]
+[s][f 4 23 1 40 3 10 0 10][vp 8 2 1 0 40 0]*Soluço* Você sabe aquele novo bar atrás da[n]loja de departamentos? Eu tomei algumas[n]bebidas lá ontem à noite.[n][w][e]
 [s][vp 8 2 1 0 40 0]Aposto que não vai estar por outro lado. Não[n]está se divertindo bem com o resto da[n]cidade.[n][w][e]
 
 [msg MSG_NOMIYA_010_020_000 [Aproned Man]]
@@ -2265,7 +2265,7 @@
 [s][vp 8 2 1 0 41 0]Eu tenho que te dizer- você realmente[n]encontrou seu verdadeiro chamado: andando e[n]bebendo para viver.[n][w][e]
 
 [msg MSG_NOMIYA_010_030_000 [Sake Reporter]]
-[s][f 4 23 1 40 3 10 0 10][vp 8 2 1 0 40 0]* risada* É o melhor trabalho maldito também.[n]Enquanto escrevo os artigos, posso beber[n]tudo o que quero e gasto![n][w][e]
+[s][f 4 23 1 40 3 10 0 10][vp 8 2 1 0 40 0]*risada* É o melhor trabalho maldito também.[n]Enquanto escrevo os artigos, posso beber[n]tudo o que quero e gasto![n][w][e]
 [s][vp 8 2 1 0 40 0]A propósito, Didja ouviu 'Bout aquele[n]professor do ensino médio tocando seus[n]alunos?[n]Que idiota![n][w][e]
 
 [msg MSG_NOMIYA_010_040_000 [Aproned Man]]
@@ -2308,7 +2308,7 @@
 [s][f 4 23 1 41 3 10 0 10][vp 8 2 1 0 41 0]É assim mesmo? Mesmo um cara divertido como[n]você tinha naquela época, não é?[n][w][e]
 
 [msg MSG_NOMIYA_040_040_000 [Sake Reporter]]
-[s][f 4 23 1 40 3 10 0 10][vp 8 2 1 0 40 0]* risada* Eu tinha esquecido a maior parte,[n]graças aos anos... e a bebida![n][w][e]
+[s][f 4 23 1 40 3 10 0 10][vp 8 2 1 0 40 0]*risada* Eu tinha esquecido a maior parte,[n]graças aos anos... e a bebida![n][w][e]
 [s][vp 8 2 1 0 40 0]É como esse beco emergiu no mercado negro[n]durante a guerra... mas veja o quanto foi[n]divertido agora![n][w][e]
 
 [msg MSG_NOMIYA_050_010_000 [Aproned Man]]
@@ -2316,7 +2316,7 @@
 [s][vp 8 2 1 0 41 0]... Ei, você está bem aí? Você parece ainda[n]mais bêbado do que o normal...[n][w][e]
 
 [msg MSG_NOMIYA_050_020_000 [Sake Reporter]]
-[s][f 4 23 1 40 3 10 0 10][vp 8 2 1 0 40 0]* Soluço* Como posso não beber em um dia[n]glorioso como este!? Eu vou ser publicado![n]Publicado, meu bom homem![n][w][e]
+[s][f 4 23 1 40 3 10 0 10][vp 8 2 1 0 40 0]*Soluço* Como posso não beber em um dia[n]glorioso como este!? Eu vou ser publicado![n]Publicado, meu bom homem![n][w][e]
 [s][vp 8 2 1 0 40 0]Eles vão fazer um livro fora de todos os[n]artigos em que tenho escrito! Está saindo[n]no próximo ano![n][w][e]
 
 [msg MSG_NOMIYA_050_030_000 [Aproned Man]]
@@ -2330,7 +2330,7 @@
 [s][vp 8 2 1 0 41 0]E você? Como você encontrou sua esposa?[n][w][e]
 
 [msg MSG_NOMIYA_060_020_000 [Sake Reporter]]
-[s][f 4 23 1 40 3 10 0 10][vp 8 2 1 0 40 0]* risada* Eu a conheci no meu Izakaya[n]favorito nos meus dias de faculdade.[n]Acho que foi amor à primeira vista.[n][w][e]
+[s][f 4 23 1 40 3 10 0 10][vp 8 2 1 0 40 0]*risada* Eu a conheci no meu Izakaya[n]favorito nos meus dias de faculdade.[n]Acho que foi amor à primeira vista.[n][w][e]
 
 [msg MSG_NOMIYA_060_030_000 [Aproned Man]]
 [s][f 4 23 1 41 3 10 0 10][vp 8 2 1 0 41 0]Parece algo que você faria- conhecer alguém[n]em um izakaya.[n][w][e]
@@ -2338,7 +2338,7 @@
 
 [msg MSG_NOMIYA_060_040_000 [Sake Reporter]]
 [s][f 4 23 1 40 3 10 0 10][vp 8 2 1 0 40 0]Sim, eu tenho um menino.[n][w][e]
-[s][vp 8 2 1 0 40 0]Mas minha esposa levou 'estou quando ela me[n]deixou.[n]Cansei de mim ficar bêbado o tempo todo, ela[n]disse... *Soluço * [n][w][e]
+[s][vp 8 2 1 0 40 0]Mas minha esposa levou 'estou quando ela me[n]deixou.[n]Cansei de mim ficar bêbado o tempo todo, ela[n]disse... *Soluço* [n][w][e]
 
 [msg MSG_NOMIYA_070_010_000 [Sake Reporter]]
 [s][f 4 23 1 40 3 10 0 10][vp 8 2 1 0 40 0]Esses ladrões fantasmas são realmente[n]divertidos, tudo bem. Eu posso beber para[n]eles a qualquer momento![n][w][e]
@@ -2347,7 +2347,7 @@
 [s][f 4 23 1 41 3 10 0 10][vp 8 2 1 0 41 0]Nem mesmo os ladrões fantasmas podem mudar[n]seu coração bêbado.[n][w][e]
 
 [msg MSG_NOMIYA_070_030_000 [Sake Reporter]]
-[s][f 4 23 1 40 3 10 0 10][vp 8 2 1 0 40 0]* Soluço* Ha, isso é engraçado. Gostaria que[n]eles levassem meu fígado![n][w][e]
+[s][f 4 23 1 40 3 10 0 10][vp 8 2 1 0 40 0]*Soluço* Ha, isso é engraçado. Gostaria que[n]eles levassem meu fígado![n][w][e]
 [s][vp 8 2 1 0 40 0]Vou postar no Site Phan um dia desses. Qual[n]seria o seu pedido, Pops?[n][w][e]
 
 [msg MSG_NOMIYA_070_040_000 [Aproned Man]]
@@ -2357,7 +2357,7 @@
 [s][f 4 23 1 41 3 10 0 10][vp 8 2 1 0 41 0]Que empresa terrível Okumura Foods é! Você[n]não concorda?[n][w][e]
 
 [msg MSG_NOMIYA_080_020_000 [Sake Reporter]]
-[s][f 4 23 1 40 3 10 0 10][vp 8 2 1 0 40 0]* Soluço* Você sabe, o cara que espalhou o[n]uísque no Japão supostamente disse...[n][w][e]
+[s][f 4 23 1 40 3 10 0 10][vp 8 2 1 0 40 0]*Soluço* Você sabe, o cara que espalhou o[n]uísque no Japão supostamente disse...[n][w][e]
 [s][vp 8 2 1 0 40 0]"Quando terminar o trabalho, apresse-se em[n]casa e passe um tempo com sua família." [n][w][e]
 
 [msg MSG_NOMIYA_080_030_000 [Aproned Man]]
@@ -2371,7 +2371,7 @@
 [s][f 4 23 1 41 3 10 0 10][vp 8 2 1 0 41 0]Você sabe, não importa quanto dinheiro você[n]tem. Tudo acabou quando você morre.[n][w][e]
 
 [msg MSG_NOMIYA_090_020_000 [Sake Reporter]]
-[s][f 4 23 1 40 3 10 0 10][vp 8 2 1 0 40 0]* Soluço* maldito certo. Você não precisa de[n]um dinheiro inteiro.[n][w][e]
+[s][f 4 23 1 40 3 10 0 10][vp 8 2 1 0 40 0]*Soluço* maldito certo. Você não precisa de[n]um dinheiro inteiro.[n][w][e]
 [s][vp 8 2 1 0 40 0]Você pode sair neste beco com apenas 1.000[n]ienes e ainda se divertir muito![n][w][e]
 
 [msg MSG_NOMIYA_090_030_000 [Aproned Man]]
@@ -2379,13 +2379,13 @@
 [s][vp 8 2 1 0 41 0]Mas não fique muito bêbado agora. Se você[n]beber mais do que isso, será o próximo a[n]morrer.[n][w][e]
 
 [msg MSG_NOMIYA_090_040_000 [Sake Reporter]]
-[s][f 4 23 1 40 3 10 0 10][vp 8 2 1 0 40 0]* risada* Pelo menos eu morreria feliz![n]Merda, é melhor haver bebidas para onde[n]estou indo![n][w][e]
+[s][f 4 23 1 40 3 10 0 10][vp 8 2 1 0 40 0]*risada* Pelo menos eu morreria feliz![n]Merda, é melhor haver bebidas para onde[n]estou indo![n][w][e]
 
 [msg MSG_NOMIYA_100_010_000 [Aproned Man]]
 [s][f 4 23 1 41 3 10 0 10][vp 8 2 1 0 41 0]Você pode receber dinheiro de recompensa por[n]pegar os ladrões Phantom. Que tal isso?[n][w][e]
 
 [msg MSG_NOMIYA_100_020_000 [Sake Reporter]]
-[s][f 4 23 1 40 3 10 0 10][vp 8 2 1 0 40 0]* risada* Vou ter que recusar.[n][w][e]
+[s][f 4 23 1 40 3 10 0 10][vp 8 2 1 0 40 0]*risada* Vou ter que recusar.[n][w][e]
 [s][vp 8 2 1 0 40 0]Eu só quero beber com esses caras.[n]Aposto que eu poderia fazer uma colher fora[n]desse artigo. *soluço* [n][w][e]
 
 [msg MSG_NOMIYA_100_030_000 [Aproned Man]]
@@ -2395,13 +2395,13 @@
 [s][f 4 23 1 40 3 10 0 10][vp 8 2 1 0 40 0]Heh, estou sempre falando sério. Sério em[n]ficar bêbado! *soluço* [n][w][e]
 
 [msg MSG_NOMIYA_110_010_000 [Sake Reporter]]
-[s][f 4 23 1 40 3 10 0 10][vp 8 2 1 0 40 0]* Soluço* Ei, ouça... meu livro está saindo[n]em breve.[n][w][e]
+[s][f 4 23 1 40 3 10 0 10][vp 8 2 1 0 40 0]*Soluço* Ei, ouça... meu livro está saindo[n]em breve.[n][w][e]
 
 [msg MSG_NOMIYA_110_020_000 [Aproned Man]]
 [s][f 4 23 1 41 3 10 0 10][vp 8 2 1 0 41 0]Bem, já está na hora! Sério, isso é uma boa[n]notícia. Isso exige uma celebração![n][w][e]
 
 [msg MSG_NOMIYA_110_030_000 [Sake Reporter]]
-[s][f 4 23 1 40 3 10 0 10][vp 8 2 1 0 40 0]* risada* obrigado. Tenho certeza que vou[n]aproveitar as bebidas hoje.[n][w][e]
+[s][f 4 23 1 40 3 10 0 10][vp 8 2 1 0 40 0]*risada* obrigado. Tenho certeza que vou[n]aproveitar as bebidas hoje.[n][w][e]
 [s][vp 8 2 1 0 40 0]Embora eu precise dizer, é um pouco triste[n]que você seja o único que está que quer que[n]seja comemorar comigo...[n][w][e]
 
 [msg MSG_NOMIYA_110_040_000 [Aproned Man]]
@@ -2416,7 +2416,7 @@
 [s][vp 8 2 1 0 41 0]Se você continuar assim, arruinará seu[n]fígado, e sua esposa e filho nunca voltarão.[n][w][e]
 
 [msg MSG_NOMIYA_120_030_000 [Sake Reporter]]
-[s][f 4 23 1 40 3 10 0 10][vp 8 2 1 0 40 0]* risada* Não há necessidade de se[n]preocupar. Eu tenho um fígado de aço! Meus[n]números são sempre normais![n][w][e]
+[s][f 4 23 1 40 3 10 0 10][vp 8 2 1 0 40 0]*risada* Não há necessidade de se[n]preocupar. Eu tenho um fígado de aço! Meus[n]números são sempre normais![n][w][e]
 [s][vp 8 2 1 0 40 0]Ahhh, estou tão feliz por estar bebendo![n][w][e]
 
 [msg MSG_NOMIYA_120_040_000 [Aproned Man]]
@@ -2429,7 +2429,7 @@
 [s][f 4 23 1 41 3 10 0 10][vp 8 2 1 0 41 0]Bem, duvido que Shido seja um bêbado sem[n]esperança como você.[n][w][e]
 
 [msg MSG_NOMIYA_130_030_000 [Sake Reporter]]
-[s][f 4 23 1 40 3 10 0 10][vp 8 2 1 0 40 0]* Soluço* Mas não sabe disso?[n][w][e]
+[s][f 4 23 1 40 3 10 0 10][vp 8 2 1 0 40 0]*Soluço* Mas não sabe disso?[n][w][e]
 [s][vp 8 2 1 0 40 0]Há uma lenda urbana sobre uma maneira de[n]fazer álcool destilado em sua cela...[n][w][e]
 
 [msg MSG_NOMIYA_130_040_000 [Aproned Man]]
@@ -2449,7 +2449,7 @@
 [s][vp 8 2 1 0 43 0]Bem, bom pra você. Seu livro está bem, e[n]você tem uma família esperando por você...[n]então vá para casa![n][w][e]
 
 [msg MSG_NOMIYA_150_040_000 [Sake Reporter]]
-[s][f 4 23 1 44 3 10 0 10][vp 8 2 1 0 44 0]* risada* Obrigado por ser sutil![n]Sabe, eu comecei o relatório de saquê para[n]que eu possa usá-lo como um guia com meu[n]filho.[n][w][e]
+[s][f 4 23 1 44 3 10 0 10][vp 8 2 1 0 44 0]*risada* Obrigado por ser sutil![n]Sabe, eu comecei o relatório de saquê para[n]que eu possa usá-lo como um guia com meu[n]filho.[n][w][e]
 [s][vp 8 2 1 0 44 0]Quando ele chegar à idade de beber, este[n]lugar será nossa primeira parada![n]Portanto, não feche o local até então![n][w][e]
 
 [msg MSG_F005_001_00_Q82_HINT [Sake Reporter]]
@@ -2510,7 +2510,7 @@
 [s]Agora que você tem seu alvo, precisa[n]garantir que todos estejam a bordo com a[n]missão.[n]Invocá-los para o esconderijo para votar.[n][w][e]
 
 [msg MSG_F005_001_00_Q82_HINT_14 [Sake Reporter]]
-[s][f 4 23 1 40 3 10 0 10][vp 8 2 1 0 40 0]Aquele velho ainda não apareceu.[n]* risada* é tão quieto sem ele.[n][w][e]
+[s][f 4 23 1 40 3 10 0 10][vp 8 2 1 0 40 0]Aquele velho ainda não apareceu.[n]*risada* é tão quieto sem ele.[n][w][e]
 
 [msg MSG_F005_001_00_Q82_HINT_15 [Aproned Man]]
 [s][f 4 23 1 41 3 10 0 10][vp 8 2 1 0 41 0]Eu não gosto de falar mal com os idosos, mas[n]aquele cara...[n][w][e]
@@ -2557,7 +2557,7 @@
 
 [msg MSG_NOMIYA_CIVICS_001_01 [Mr. Ushimaru]]
 [s][bup 0 301 0 65535 0][f 4 10 65535 0 0][f 4 23 1 214 3 10 0 10][vp 8 2 1 58255 214 0]Minha nossa. Esse artigo de notícias foi a[n]última coisa que precisamos. Mal posso[n]esperar para as queixas dos pais rolarem...[n][w][e]
-[s][bup 0 301 0 65535 0][f 4 10 65535 0 0][f 4 23 1 214 3 10 0 10][vp 8 2 1 0 214 0]* suspiro* Temos que encontrar uma maneira[n]apropriada de lidar com isso, e em breve.[n]Qual é o pensamento principal?[n][w][e]
+[s][bup 0 301 0 65535 0][f 4 10 65535 0 0][f 4 23 1 214 3 10 0 10][vp 8 2 1 0 214 0]*suspiro* Temos que encontrar uma maneira[n]apropriada de lidar com isso, e em breve.[n]Qual é o pensamento principal?[n][w][e]
 [s][bup 0 301 0 65535 0][f 4 10 65535 0 0][f 4 23 1 214 3 10 0 10][vp 8 2 1 58265 214 0]... Ele tem parecendo muito pálido[n]ultimamente.[n]Eu me pergunto se algo está acontecendo.[n][w][e]
 
 [msg MSG_NOMIYA_CIVICS_002_01 [Mr. Ushimaru]]
@@ -3272,11 +3272,11 @@
 [s][f 4 23 1 656 3 10 0 10][vp 8 2 1 0 656 0]Então Aimaask Ouzi costumava morar em[n]Kichijoji e os shows de crianças[n]transmitidas... interessantes.[n][w][e]
 
 [msg MSG_F005_001_03_Q80_HINT [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Tudo bem, acho que temos uma Intel muito boa.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Tudo bem, acho que temos uma Informação muito boa.[n][w][e]
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Bom trabalho. Aposto que você também está[n]muito cansado.[n][w][e]
 
 [msg SYS_F005_001_00_Q80_HINT]
-[s]Eu obtive a Intel em um alvo.[n]Talvez eu deva ver o que todo mundo tem a[n]dizer no esconderijo...[n][w][e]
+[s]Eu obtive a Informação em um alvo.[n]Talvez eu deva ver o que todo mundo tem a[n]dizer no esconderijo...[n][w][e]
 
 [msg MSG_quest80_Target_Find]
 [s]Agora que você tem seu alvo, precisa[n]garantir que todos estejam a bordo com a[n]missão.[n]Invocá-los para o esconderijo para votar.[n][w][e]
@@ -4220,7 +4220,7 @@
 
 [msg MSG_TRADEFAMILY_151_020_ [Insatiable Child]]
 [s][vp 8 2 1 0 62 0]Podemos ir ao aquário?[n]...Oh nada! Obrigado, pai![n][w][e]
-[s][vp 8 2 1 0 62 0]* Giggle* Este oden parece tão bom![n]Aposto que realmente vai me aquecer![n][w][e]
+[s][vp 8 2 1 0 62 0]*Giggle* Este oden parece tão bom![n]Aposto que realmente vai me aquecer![n][w][e]
 
 [msg MSG_TRADEFAMILY_151_030_ [Doting Father]]
 [s][vp 8 2 1 0 61 0]......[n][w][e]
@@ -4439,7 +4439,7 @@
 [s][f 4 23 1 781 3 10 0 10][vp 8 2 1 0 781 0]Estou contando com você para cuidar de Haru.[n]Tenho certeza de que ela acha sua presença[n]tranquilizadora.[n][w][e]
 
 [msg MSG_SHIBUSAWA_000_00 [Shibusawa]]
-[s][bup 0 222 4 0 0][f 4 10 65535 0 0][f 4 23 1 782 3 10 0 10][vp 8 2 1 0 782 0]Oh, você é...[f 4 1]-kun, certo?[n][w][e]
+[s][bup 0 222 4 0 0][f 4 10 65535 0 0][f 4 23 1 782 3 10 0 10][vp 8 2 1 0 782 0]Oh, você é... [f 4 1]-kun, certo?[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 782 0]Sei que você pode não ser a melhor pessoa[n]para perguntar, mas- você viu Maruki[n]ultimamente?[n][w][e]
 
 [sel SEL_SHIBUSAWA_001_00 top]

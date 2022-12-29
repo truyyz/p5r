@@ -20,7 +20,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu estarei no meu caminho agora.[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Kawakami]]
-[s][bup 0 109 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]* Suspiro* maneira de dar a notícia para um[n]cara.[n][f 1 3 65535][w][e]
+[s][bup 0 109 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*Suspiro* maneira de dar a notícia para um[n]cara.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ele não mudou nem um pouco...[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Kawakami]]

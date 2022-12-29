@@ -857,7 +857,7 @@
 [s]No mínimo, parece que você não se desviou do[n]seu objetivo de me matar.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_07_R_14]
-[s]Por favor, eu não estava tentando coletar a[n]Intel sobre você ou qualquer coisa.[n][w][e]
+[s]Por favor, eu não estava tentando coletar a[n]Informação sobre você ou qualquer coisa.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_07_R_15]
 [s]Por favor, não é como se eu estivesse[n]dizendo que você tem muito tempo livre ou[n]algo assim.[n][w][e]
@@ -1418,7 +1418,7 @@
 [s]...Aguentar. Antes de tentar nada, você não[n]me deixa ter um [n][f 2 5 3 9999 4]?[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_REQUIRE_2]
-[s]* tosse* O ar está tão seco ultimamente...[n][w][e]
+[s]*tosse* O ar está tão seco ultimamente...[n][w][e]
 [s]É o suficiente para me deixar preocupado vou[n]pegar a gripe. Você tem um [n][f 2 5 3 9999 4]?[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_REQUIRE_3]
@@ -1510,7 +1510,7 @@
 [s]Oh, você sabia disso? Decepcionante.[n]Talvez isso não compense, mas aceite isso.[n][w][e]
 
 [msg TalkMsg_SURRENDER_FROM_C]
-[s]Multar. Podemos dizer que perdi este.[n][w][e]
+[s]Bom. Podemos dizer que perdi este.[n][w][e]
 
 [msg TalkMsg_SUCCESS_SKIMMING]
 [s]Você é bastante perceptivo para encontrar[n]isso...[n][w][e]
@@ -2112,7 +2112,7 @@
 [s]Bem, nossa reunião aqui também foi[n]destinada, suponho, certo?[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_DOUBLEU]
-[s]Nem mesmo um esforço simbólico para esconder[n]sua ganância, eu vejo. Multar...[n][w][e]
+[s]Nem mesmo um esforço simbólico para esconder[n]sua ganância, eu vejo. Bom...[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_DOUBLEU_2]
 [s]Suponho que estou com o dever de atender às[n]expectativas tão altas, não estou?[n][w][e]

@@ -12,7 +12,7 @@
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 5 0 0]O que!? Não vamos cair em um truque como[n]esse...[n][w][e]
 
 [msg D157_004_miniEV_03_mes05 [Shadow Sae]]
-[s][vp 1 0 0 6 0 0]* risada* Não é mentira. Eu só desejo fazer[n]isso justo e quadrado.[n][w][e]
+[s][vp 1 0 0 6 0 0]*risada* Não é mentira. Eu só desejo fazer[n]isso justo e quadrado.[n][w][e]
 [s][vp 1 0 0 7 0 0]Você não vai correr, você está...?[n][w][e]
 
 [msg D157_004_miniEV_03_mes06 [Akechi]]

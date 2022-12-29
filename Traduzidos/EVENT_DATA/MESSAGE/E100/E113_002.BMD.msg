@@ -61,7 +61,7 @@
 [s][vp 1 0 0 16 0 0]Não há necessidade de meras palavras.[n]Mostre-me seus verdadeiros sentimentos.[n][f 1 2 200][e]
 
 [msg MSG_023_0_0 [Mysterious Voice]]
-[s][vp 1 0 0 17 0 0]* risada* Sim, é isso![n][f 1 2 100][e]
+[s][vp 1 0 0 17 0 0]*risada* Sim, é isso![n][f 1 2 100][e]
 
 [msg MND_020_0_0 [(SE)主人公]]
 [s][vp 1 0 0 18 0 0]......!?[n][f 1 2 40][e]
@@ -101,7 +101,7 @@
 [s][vp 1 0 0 28 0 0]O que é que foi isso...?[n][f 1 2 45][e]
 
 [msg MSG_033_0_0 [Kamoshida...?]]
-[s][vp 1 0 0 29 0 0]Você deseja ser morto tanto? Multar![n][f 1 2 114][e]
+[s][vp 1 0 0 29 0 0]Você deseja ser morto tanto? Bom![n][f 1 2 114][e]
 
 [msg MND_034_0_0 [(SE)主人公]]
 [s][vp 1 0 0 30 0 0]Nngh...[n][f 1 2 30][e]

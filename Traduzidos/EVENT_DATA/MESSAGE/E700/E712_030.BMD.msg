@@ -42,7 +42,7 @@
 [s][bup 0 104 2 0 0][f 4 10 65535 0 0][vp 8 2 0 13018 65535 0]Segure, somos cúmplices agora.[n]Você não pode simplesmente me abandonar.[n][f 1 3 65535][w][e]
 
 [msg MSG_007_9_0 [Iwai]]
-[s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 2 0 13048 65535 0][f 5 13 13 5 1004]* ri* Não é tão assustador quanto parece,[n]você sabe.[n][f 1 3 65535][w][e]
+[s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 2 0 13048 65535 0][f 5 13 13 5 1004]*ri* Não é tão assustador quanto parece,[n]você sabe.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Acho que ainda parece ruim para um cidadão[n]regular.[n][f 1 3 65535][w][e]
 
 [msg MSG_008_5_0 [Iwai]]
@@ -111,7 +111,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ele está sempre me perguntando se ele pode[n]ajudar aqui, sempre se preocupe com o que[n]estou fazendo.[n][f 1 3 65535][w][e]
 
 [msg MSG_025_0_0 [Iwai]]
-[s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 2 0 13028 65535 0]* suspiro* Mas eu prolly não deveria estar[n]dizendo a uma criança como você sobre[n]isso...[n][f 1 3 65535][w][e]
+[s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 2 0 13028 65535 0]*suspiro* Mas eu prolly não deveria estar[n]dizendo a uma criança como você sobre[n]isso...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bem, você pode voltar para casa hoje.[n]Bom trabalho, garoto.[n][f 1 3 65535][w][e]
 
 [msg MSG_026_0_0 [Iwai]]

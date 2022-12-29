@@ -18,7 +18,7 @@
 [s][vp 1 0 0 8 0 0]......[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Sae]]
-[s][bup 0 105 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Multar. Suponhamos que o coração das pessoas[n]possa ser alterado roubando seu tesouro,[n]como você disse.[n][f 1 3 65535][w][e]
+[s][bup 0 105 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Bom. Suponhamos que o coração das pessoas[n]possa ser alterado roubando seu tesouro,[n]como você disse.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Nesse caso, surge uma suspeita diferente.[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Sae]]
@@ -39,5 +39,5 @@
 
 [msg MSG_009_0_0 [Sae]]
 [s][bup 0 105 2 65535 0][vp 1 0 0 17 0 0]TCH...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Multar. Vamos voltar ao caso de Madarame.[n]Mantenha-o conciso e siga os fatos.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Bom. Vamos voltar ao caso de Madarame.[n]Mantenha-o conciso e siga os fatos.[n][f 1 3 65535][w][e]
 

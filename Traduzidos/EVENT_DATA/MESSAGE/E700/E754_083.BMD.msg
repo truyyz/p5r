@@ -14,7 +14,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Contanto que eu saiba que estou em seu[n]coração, ficarei feliz.[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Hifumi]]
-[s][bup 0 106 1 4 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]* risada*... essa confiança combina com você.[n]Eu vejo traços do meu valente parceiro nas[n]Grandes Guerras de Shogi.[n][f 1 3 65535][w][e]
+[s][bup 0 106 1 4 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]*risada*... essa confiança combina com você.[n]Eu vejo traços do meu valente parceiro nas[n]Grandes Guerras de Shogi.[n][f 1 3 65535][w][e]
 [s][bup 0 106 6 4 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]E, talvez... um parceiro em que posso[n]confiar na minha vida além do conselho.[n][f 1 3 65535][w][e]
 
 [sel SEL_005_0_0 top]

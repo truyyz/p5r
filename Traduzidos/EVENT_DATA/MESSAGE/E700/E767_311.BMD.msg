@@ -34,7 +34,7 @@
 [s][vp 8 0 0 0 65535 0]Vamos começar limpando minha mente...[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]* bocejo* lugares tranquilos como esse me[n]deixam com sono...[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*bocejo* lugares tranquilos como esse me[n]deixam com sono...[n][f 1 3 65535][w][e]
 
 [msg MSG_009_5_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu vou tirar uma soneca.[n]Acorde-me quando terminar.[n][f 1 3 65535][w][e]

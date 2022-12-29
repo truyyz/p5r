@@ -22,7 +22,7 @@
 [s][vp 8 0 0 9 6 0]Apresse-se e acabe com isso. Para ser[n]franco, você está sendo um inconveniente.[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [SIU Director's Voice]]
-[s][vp 8 0 0 10 65535 0]* suspiro* Pensei em ter ordenado que você[n]anda.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 10 65535 0]*suspiro* Pensei em ter ordenado que você[n]anda.[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Sae]]
 [s][bup 0 105 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Sou responsável por este caso, mas nem estou[n]sendo permitido um interrogatório!?[n][f 1 3 65535][w][e]
@@ -35,7 +35,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Este é o meu caso.[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [SIU Director's Voice]]
-[s][vp 8 0 0 15 65535 0]* suspiro* Boa sorte para você então.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 15 65535 0]*suspiro* Boa sorte para você então.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 16 65535 0]Eu não vou esperar muito...[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Older Detective]]

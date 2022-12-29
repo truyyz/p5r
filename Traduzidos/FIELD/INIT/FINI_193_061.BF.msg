@@ -433,7 +433,7 @@
 [s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ei, uma sala de espera! Podemos relaxar e[n]relaxar por um tempo![n][w][e]
 
 [msg MSG_FIRST_07_08_mes01 [Ryuji]]
-[s][bup 0 2 107 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]* suspiro* Este lugar continua acontecendo e[n]continua...[n][w][e]
+[s][bup 0 2 107 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]*suspiro* Este lugar continua acontecendo e[n]continua...[n][w][e]
 
 [msg MSG_FIRST_07_08_mes02 [Ann]]
 [s][bup 0 4 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ei, onde estamos agora?[n][w][e]

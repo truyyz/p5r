@@ -192,7 +192,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Eu acho que é fácil para mim falar sobre[n]esse tipo de coisa com você...[n][f 1 3 65535][w][e]
 
 [msg MSG_ANNE_3 [Ann]]
-[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 6088 65535 0][f 5 13 7 10 4]* risada* Obrigado por ir junto com isso.[n][f 1 3 65535][w][e]
+[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 6088 65535 0][f 5 13 7 10 4]*risada* Obrigado por ir junto com isso.[n][f 1 3 65535][w][e]
 
 [msg MSG_ANNE_4 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Agora que penso nisso, esse filme não foi[n]voltado para caras, hein?[n][f 1 3 65535][w][e]
@@ -211,7 +211,7 @@
 [s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 4035 65535 0][f 5 13 5 10 5]Obrigado. Bem, eu já entendo que você não é[n]do tipo que se sente ofendido por tais[n]assuntos.[n][f 1 3 65535][w][e]
 
 [msg MSG_YUSUKE_3 [Yusuke]]
-[s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 4168 65535 0][f 5 13 5 5 5]* ri* Estou ciente disso, mas nunca pensei[n]em mudar isso sobre mim.[n][f 1 3 65535][w][e]
+[s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 4168 65535 0][f 5 13 5 5 5]*ri* Estou ciente disso, mas nunca pensei[n]em mudar isso sobre mim.[n][f 1 3 65535][w][e]
 
 [msg MSG_YUSUKE_4 [Yusuke]]
 [s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 4031 65535 0]Obrigado por hoje. O tempo que passamos[n]juntos se sentiu valendo a pena.[n][f 1 3 65535][w][e]

@@ -24,7 +24,7 @@
 [msg MSG_006_0_0 [Ann]]
 [s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu já te disse... olhando para mim assim não[n]é justo. Eu perdi totalmente minha[n]compostura...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu não consigo nem me concentrar no cenário[n]ao nosso redor...[n][f 1 3 65535][w][e]
-[s][bup 0 4 6 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 42 5 100][f 4 24 0 4 0 1 5 0]* suspiro* você sabe... eu te amo.[n][f 1 3 65535][w][e]
+[s][bup 0 4 6 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 42 5 100][f 4 24 0 4 0 1 5 0]*suspiro* você sabe... eu te amo.[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Ann]]
 [s][vp 8 2 0 6088 65535 0][f 4 2], podemos ficar juntos para sempre...?[n][f 1 3 65535][w][e]

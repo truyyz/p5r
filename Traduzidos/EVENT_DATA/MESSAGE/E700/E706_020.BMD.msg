@@ -20,7 +20,7 @@
 [s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 6034 65535 0][f 5 13 7 10 4]MM-HM! Finalmente, pude contar a ela tudo o[n]que não conseguia dizer antes.[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Ann]]
-[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 6088 65535 0][f 5 13 7 15 4]* risada* Não é? Shiho é realmente uma ótima[n]garota.[n][f 1 3 65535][w][e]
+[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 6088 65535 0][f 5 13 7 15 4]*risada* Não é? Shiho é realmente uma ótima[n]garota.[n][f 1 3 65535][w][e]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 36 5 100][vp 8 0 0 0 65535 0]Fico feliz por finalmente ter que contar a[n]ela tudo o que não conseguia dizer antes.[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Ann]]
@@ -105,12 +105,12 @@
 [msg MSG_020_0_0 [Ann]]
 [s][bup 0 4 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 7 15 4]...Sério!?[n][f 1 3 65535][w][e]
 [s][f 4 7 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 4 1 300 1][f 4 24 0 4 0 42 5 100][f 4 24 0 4 0 9 3 100][vp 8 2 0 6060 65535 0]Obrigado! Eu sinto que já estou um pouco[n]mais forte![n][f 1 3 65535][w][e]
-[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 36 5 100][f 4 23 0 4 54 10 13 10][vp 8 0 0 0 65535 0]* Giggle* Acho que isso realmente não conta,[n]hein?[n][f 1 3 65535][w][e]
+[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 36 5 100][f 4 23 0 4 54 10 13 10][vp 8 0 0 0 65535 0]*Giggle* Acho que isso realmente não conta,[n]hein?[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Ann]]
 [s][bup 0 4 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 7 15 4]Huh? Sério...!?[n][f 1 3 65535][w][e]
 [s][f 4 7 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 4 1 300 1][f 4 24 0 4 0 42 5 100][f 4 24 0 4 0 9 3 100][vp 8 2 0 6060 65535 0]Obrigado! Eu sinto que já estou um pouco[n]mais forte![n][f 1 3 65535][w][e]
-[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 36 5 100][f 4 24 0 4 0 9 3 100][f 4 23 0 4 54 10 13 10][vp 8 0 0 0 65535 0]* Giggle* Acho que isso realmente não conta,[n]hein?[n][f 1 3 65535][w][e]
+[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 36 5 100][f 4 24 0 4 0 9 3 100][f 4 23 0 4 54 10 13 10][vp 8 0 0 0 65535 0]*Giggle* Acho que isso realmente não conta,[n]hein?[n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Ann]]
 [s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 6048 65535 0]Bem... eu estarei confiando em você.[n]Vamos treinar juntos e tornar nossos[n]corações super fortes![n][f 1 3 65535][w][e]

@@ -438,7 +438,7 @@
 [s]Não restam mais palavras cruzadas. Parece[n]que eu já fiz todos eles...[n][w][e]
 
 [msg MSG_CrossWord_End [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0]* bocejo* Nós realmente passamos tanto tempo[n]fazendo palavras cruzadas? É tarde, então é[n]melhor dormirmos.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0]*bocejo* Nós realmente passamos tanto tempo[n]fazendo palavras cruzadas? É tarde, então é[n]melhor dormirmos.[n][w][e]
 
 [msg MND_CrossWord_End]
 [s]Está ficando tarde... é melhor eu chamá-lo[n]um dia e dormir.[n][w][e]
@@ -1092,7 +1092,7 @@
 [s]Sinto muito se estou te incomodando.[n]Vou passar por outra hora.[n][w][e]
 
 [msg MSG_CHK_DOOR_futaba_reac [Futaba]]
-[s]* suspiro* bem. Maaaan...[n]Acho que vou ir para casa...[n][w][e]
+[s]*suspiro* bem. Maaaan...[n]Acho que vou ir para casa...[n][w][e]
 
 [msg MSG_CHK_DOOR_haru_reacti [Haru]]
 [s]OK, eu entendo. Vejo você mais tarde então.[n][w][e]
@@ -1693,12 +1693,12 @@
 
 [msg MSG_C14_BEGIN_WEATHER_04 [Kawakami]]
 [s][bup 0 109 601 65535 1][f 4 10 65535 0 0][vp 8 2 1 15002 65535 0]Hiii, isso é BEN [n][w][e]
-[s][bup 0 109 603 65535 1][f 4 10 65535 0 0]* Sneeze* Oh querido, por favor me desculpe,[n]ohohoho![n][w][e]
+[s][bup 0 109 603 65535 1][f 4 10 65535 0 0]*Sneeze* Oh querido, por favor me desculpe,[n]ohohoho![n][w][e]
 [s][bup 0 109 600 65535 1][f 4 10 65535 0 0]Oh, espere, é você? Phowww. Parece que estou[n]salvo.[n][w][e]
 
 [msg MSG_C14_BEGIN_WEATHER_04_2 [Kawakami]]
 [s][bup 0 109 1 65535 1][f 4 10 65535 0 0][vp 8 2 1 15004 65535 0]Helloooo, aí. Ah é você, [f 4 1]-kun...[n][w][e]
-[s][bup 0 109 3 65535 1][f 4 10 65535 0 0]* Sneeze* Oh querido, por favor me desculpe,[n]ohohoho![n][w][e]
+[s][bup 0 109 3 65535 1][f 4 10 65535 0 0]*Sneeze* Oh querido, por favor me desculpe,[n]ohohoho![n][w][e]
 
 [msg MSG_C14_BEGIN_WEATHER_05 [Kawakami]]
 [s][bup 0 109 601 65535 1][f 4 10 65535 0 0][vp 8 2 1 15002 65535 0]Eu sou Becky, guerrilha empregada doméstica[n]do wooorld. O tipo de trabalho que fazemos[n]depende de como- oh, é você.[n][w][e]
@@ -2125,7 +2125,7 @@
 [s][f 4 10 65535 0 0]Vamos dar uma olhada agora! Por favor,[n]lidere o caminho, mestre.[n][w][e]
 
 [msg MSG_C14_COOP_CANCEL_00 [Kawakami]]
-[s][bup 0 109 603 65535 1][f 4 10 65535 0 0][vp 8 2 1 15028 65535 0]* suspiro*... tudo bem, acho que vou ter que[n]ligar para as pessoas e ver se alguém está[n]interessado.[n][w][e]
+[s][bup 0 109 603 65535 1][f 4 10 65535 0 0][vp 8 2 1 15028 65535 0]*suspiro*... tudo bem, acho que vou ter que[n]ligar para as pessoas e ver se alguém está[n]interessado.[n][w][e]
 [s][bup 0 109 600 65535 1][f 4 10 65535 0 0]É melhor você continuar estudando muito[n]também.[n][w][e]
 
 [msg MSG_C14_COOP_CANCEL_04 [Kawakami]]

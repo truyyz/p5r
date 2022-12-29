@@ -7,7 +7,7 @@
 [s][bup 0 204 0 0 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]E? Alguma informação surgiu sobre o caso que[n]pedi para que você analisasse?[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Makoto]]
-[s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]* suspiro* nada ainda.[n][f 1 3 65535][w][e]
+[s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]*suspiro* nada ainda.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Vou passar os detalhes se algo surgir. No[n]momento, há uma questão mais premente...[n][f 1 3 65535][w][e]
 
 [msg MSG_002_5_0 [Makoto]]

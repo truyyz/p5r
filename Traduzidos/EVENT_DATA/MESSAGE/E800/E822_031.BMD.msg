@@ -15,7 +15,7 @@
 [s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 3048 65535 0][f 5 13 4 5 7]Certo! Eu acho que a loja está na área de[n]aventura...[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Haru]]
-[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 3048 65535 0][f 5 13 4 5 7]* Giggle* Isso é um padrão, mas ainda é uma[n]boa ideia.[n][f 1 3 65535][w][e]
+[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 3048 65535 0][f 5 13 4 5 7]*Giggle* Isso é um padrão, mas ainda é uma[n]boa ideia.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Alguns restaurantes têm isso.[n]Vamos verificar os que estão por perto[n]primeiro, ok?[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Haru]]
@@ -39,7 +39,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Embora se isso acontecesse...[n]Eu certamente gostaria disso.[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Haru]]
-[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 3045 65535 0][f 5 13 4 15 7]* risada* ouvindo isso aquece meu coração...[n]Espero que possamos continuar passando um[n]tempo juntos assim.[n][f 1 3 65535][w][e]
+[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 3045 65535 0][f 5 13 4 15 7]*risada* ouvindo isso aquece meu coração...[n]Espero que possamos continuar passando um[n]tempo juntos assim.[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Haru]]
 [s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 3020 65535 0][f 5 13 4 10 7]Obrigado. Eu acho que posso aceitar você[n]nessa oferta.[n][f 1 3 65535][w][e]

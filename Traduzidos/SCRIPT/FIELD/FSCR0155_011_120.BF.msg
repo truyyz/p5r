@@ -2,7 +2,7 @@
 [s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7045 65535 0]Ei... não é tão leve a saída!? Estou meio[n]surpreso com o quão perto isso acabou![n][w][e]
 
 [msg D04_03_e295_050_mes02 [Morgana]]
-[s][bup 0 3 3 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]* suspiro* graças a Deus, finalmente podemos[n]sair daqui. Tudo isso foi uma experiência[n]horrível.[n][w][e]
+[s][bup 0 3 3 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]*suspiro* graças a Deus, finalmente podemos[n]sair daqui. Tudo isso foi uma experiência[n]horrível.[n][w][e]
 
 [msg D04_03_e295_051_mes01 [Makoto]]
 [s][bup 0 6 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2019 65535 0]Espere, há algo à frente.[n][w][e]

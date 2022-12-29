@@ -147,7 +147,7 @@
 [s][bup 0 8 4 4 0][f 4 10 65535 0 0][vp 8 0 0 48 65535 0]Ele cresceu![n][f 1 3 65535][w][e]
 
 [msg MSG_047_0_0 [Morgana]]
-[s][bup 0 3 600 0 0][f 4 10 65535 0 0][vp 8 0 0 49 65535 0]Eu sabia que vocês tinham encontrado sua[n]testemunha, então eu estava apenas[n]esperando por [n][f 4 2]para receber alta.[n][f 1 3 65535][w][e]
+[s][bup 0 3 600 0 0][f 4 10 65535 0 0][vp 8 0 0 49 65535 0]Eu sabia que vocês tinham encontrado sua[n]testemunha, então eu estava apenas[n]esperando por [n][f 4 2] para receber alta.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 50 65535 0]Bem feito nisso, sério. Você o tirou mesmo[n]sem a minha ajuda.[n][f 1 3 65535][w][e]
 
 [msg MSG_048_0_0 [Makoto]]
@@ -219,7 +219,7 @@
 [s][bup 0 8 1 4 0][f 4 10 65535 0 0][vp 8 0 0 84 65535 0]É claro! É aqui que você pertence, Mona![n][f 1 3 65535][w][e]
 
 [msg MSG_076_0_0 [Haru]]
-[s][bup 0 7 1 4 0][f 4 10 65535 0 0][vp 8 0 0 85 65535 0]* risada* ela está correta.[n][f 1 3 65535][w][e]
+[s][bup 0 7 1 4 0][f 4 10 65535 0 0][vp 8 0 0 85 65535 0]*risada* ela está correta.[n][f 1 3 65535][w][e]
 
 [msg MSG_077_0_0 [Ryuji]]
 [s][bup 0 2 4 4 0][f 4 10 65535 0 0][vp 8 0 0 86 65535 0]...Oh sim![n][f 1 3 65535][w][e]
@@ -239,7 +239,7 @@
 [msg MSG_081_0_0 [Makoto]]
 [s][bup 0 6 1 4 0][f 4 10 65535 0 0][vp 8 0 0 93 65535 0]...Que tal agora?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 94 65535 0]Se nosso líder está saindo, os ladrões[n]Phantom estão realmente dissolvendo,[n]corretos?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 95 65535 0]Hoje podemos celebrar [f 4 2]Lançamento... e comemora o dia de nossa[n]dissolução.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 95 65535 0]Hoje podemos celebrar [f 4 2] Lançamento... e comemora o dia de nossa[n]dissolução.[n][f 1 3 65535][w][e]
 
 [msg MSG_082_0_0 [Ann]]
 [s][bup 0 4 1 4 0][f 4 10 65535 0 0][vp 8 0 0 96 65535 0]Que tipo de comemoração é essa?[n][f 1 3 65535][w][e]

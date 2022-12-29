@@ -30,7 +30,7 @@
 [msg MSG_006_0_0 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu quero fazer todas as coisas que mantive[n]de mim mesmo. De agora em diante, faço o[n]que quero, por minha conta.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Embora eu também acompanhe meus deveres[n]normais, é claro.[n][f 1 3 65535][w][e]
-[s][bup 0 6 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]* risada* Obrigado por me convidar aqui[n]hoje. Estar com você me dá coragem.[n][f 1 3 65535][w][e]
+[s][bup 0 6 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*risada* Obrigado por me convidar aqui[n]hoje. Estar com você me dá coragem.[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 2128 65535 0]Então, fiquei curioso sobre algo... as[n]meninas usam maquiagem para parecer mais[n]brancas?[n][f 1 3 65535][w][e]

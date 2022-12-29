@@ -51,7 +51,7 @@
 [s][vp 8 0 0 0 65535 0]Tenho certeza que você entende. Todos nós[n]temos nossas partes para tocar, e não[n]podemos simplesmente deixá-las para trás.[n][f 1 3 65535][w][e]
 
 [msg MSG_008_5_0 [Akechi]]
-[s][bup 0 9 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]* risada* Você realmente é intrigante.[n][f 1 3 65535][w][e]
+[s][bup 0 9 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*risada* Você realmente é intrigante.[n][f 1 3 65535][w][e]
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][f 4 24 0 4 6 59 5 100][f 4 24 0 4 2 5 5 100][vp 8 0 0 0 65535 0]Concordo. Eu acho que um relacionamento de[n]iguais nos combina melhor do que ser[n]co-conspiradores, de qualquer maneira...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]... Não importa o que mais possa mudar.[n][f 1 3 65535][w][e]
 

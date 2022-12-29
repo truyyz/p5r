@@ -30,7 +30,7 @@
 
 [msg MSG_009_0_0 [Ryuji]]
 [s][bup 0 2 5 65535 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Mas todos ainda sentimos que essa realidade[n]está errada, certo?[n][f 1 3 65535][w][e]
-[s][bup 0 2 13 65535 0][f 4 10 65535 0 0][f 4 24 0 4 6 37 5 100][vp 8 0 0 17 65535 0]Decidimos o que é certo para nós mesmos.[n]Foi nisso que todos concordamos quando fomos[n]atrás [n][f 4 2]no palácio.[n][f 1 3 65535][w][e]
+[s][bup 0 2 13 65535 0][f 4 10 65535 0 0][f 4 24 0 4 6 37 5 100][vp 8 0 0 17 65535 0]Decidimos o que é certo para nós mesmos.[n]Foi nisso que todos concordamos quando fomos[n]atrás [n][f 4 2] no palácio.[n][f 1 3 65535][w][e]
 [s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Se o coração de ChanGin 'Doc consertar nossa[n]realidade, então eu vou fazer isso.[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Ryuji]]
@@ -152,7 +152,7 @@
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 60 65535 0]Tudo o que resta é o que discutirmos amanhã[n]na escola, além de se unirmos ou não à[n]Akechi.[n][f 1 3 65535][w][e]
 
 [msg MSG_044_0_0 [Makoto]]
-[s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 61 65535 0]Considerando o quê [f 4 2]nos disse que realmente parece que[n]compartilhamos um objetivo final com[n]Akechi, mas...[n][f 1 3 65535][w][e]
+[s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 61 65535 0]Considerando o quê [f 4 2] nos disse que realmente parece que[n]compartilhamos um objetivo final com[n]Akechi, mas...[n][f 1 3 65535][w][e]
 
 [msg MSG_045_0_0 [Futaba]]
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 62 65535 0]... bem, acho que devemos nos unir.[n][f 1 3 65535][w][e]

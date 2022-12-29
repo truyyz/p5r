@@ -2,7 +2,7 @@
 [s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 2 0 12030 65535 0]Parece que você trouxe um Ame-No-Uzume com[n]Dodge Psy.[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Caroline]]
-[s][bup 0 102 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]* risada* nada ruim. Esse é outro feito.[n][f 1 3 65535][w][e]
+[s][bup 0 102 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*risada* nada ruim. Esse é outro feito.[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Caroline]]
 [s][bup 0 102 1 0 0][f 4 10 65535 0 0][vp 8 2 0 11001 65535 0]Sabe, eu nunca pensei que você continuaria[n]nisso, mesmo que não seja obrigatório.[n][f 1 3 65535][w][e]
@@ -29,7 +29,7 @@
 [s][bup 0 101 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Essa resposta é a prova de que eles são a[n]dificuldade adequada.[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Justine]]
-[s][bup 0 101 5 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]* suspiro* Talvez eles não sejam difíceis o[n]suficiente se essa é a sua impressão[n]deles...[n][f 1 3 65535][w][e]
+[s][bup 0 101 5 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*suspiro* Talvez eles não sejam difíceis o[n]suficiente se essa é a sua impressão[n]deles...[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Caroline]]
 [s][bup 0 102 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Oh? Você tem coragem, preso.[n][f 1 3 65535][w][e]
@@ -129,7 +129,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Portanto, exigiremos que você conclua três[n]tarefas antes de poder recebê-las.[n][f 1 3 65535][w][e]
 
 [msg MSG_032_0_0 [Caroline]]
-[s][bup 0 102 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]* risada* Tudo bem, aqui está a tarefa[n]número um![n][f 1 3 65535][w][e]
+[s][bup 0 102 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*risada* Tudo bem, aqui está a tarefa[n]número um![n][f 1 3 65535][w][e]
 
 [msg MSG_033_0_0 [Justine]]
 [s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Primeiro, traga-nos um neko shogun com[n]Dekaja.[n][f 1 3 65535][w][e]

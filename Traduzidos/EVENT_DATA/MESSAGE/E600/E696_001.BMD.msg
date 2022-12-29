@@ -159,7 +159,7 @@
 
 [msg MSG_039_0_0 [Ryuji]]
 [s][bup 0 2 7 65535 0][f 4 10 65535 0 0][vp 8 2 0 7025 65535 0]Gah... você realmente só vai no seu próprio[n]ritmo, não é!? Como você está tão frio[n]nesta situação!?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]* suspiro* Eu nem tenho energia para[n]reclamar quando você está sendo tão[n]indiferente com isso...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*suspiro* Eu nem tenho energia para[n]reclamar quando você está sendo tão[n]indiferente com isso...[n][f 1 3 65535][w][e]
 [s][bup 0 2 11 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]De qualquer forma, diga-me imediatamente se[n]você mudar de idéia. Tudo bem!?[n][f 1 3 65535][w][e]
 
 [msg MSG_040_0_0 [Ryuji]]
@@ -1104,11 +1104,11 @@
 
 [msg MSG_268_0_0 [Haru]]
 [s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 347 65535 0]Obrigado. Ouvir isso de você deixa minha[n]mente à vontade.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 348 65535 0]* risada* Acho que vou relaxar e cuidar do[n]canteiro de flores. Não consegui há um[n]tempo.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 348 65535 0]*risada* Acho que vou relaxar e cuidar do[n]canteiro de flores. Não consegui há um[n]tempo.[n][f 1 3 65535][w][e]
 
 [msg MSG_269_0_0 [Haru]]
 [s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 349 65535 0]Obrigado. Eu sei que não adianta ficar[n]ansioso.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 350 65535 0]* risada* Acho que vou relaxar e cuidar do[n]canteiro de flores. Não consegui há um[n]tempo.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 350 65535 0]*risada* Acho que vou relaxar e cuidar do[n]canteiro de flores. Não consegui há um[n]tempo.[n][f 1 3 65535][w][e]
 
 [msg MSG_270_0_0 [Ann]]
 [s][bup 0 4 2 65535 0][f 4 10 65535 0 0][vp 8 2 0 6022 65535 0]Bom Dia.[n][f 1 3 65535][w][e]
@@ -1234,7 +1234,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Então, estamos enviando o cartão no dia 18...[n]Está a um caminho, mas eu gostaria de gastar[n]nesses dias com sabedoria.[n][f 1 3 65535][w][e]
 
 [msg MSG_299_0_0 [Haru]]
-[s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 3020 65535 0]* risada* Eu não deveria ter esperado nada[n]menos de você, líder.[n][f 1 3 65535][w][e]
+[s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 3020 65535 0]*risada* Eu não deveria ter esperado nada[n]menos de você, líder.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Paradas como essas me fazem pensar em muitas[n]coisas, ainda mais, já que não podemos nos[n]dar ao luxo de falhar.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Então, estamos enviando o cartão no dia 18...[n]Está a um caminho, mas eu gostaria de gastar[n]nesses dias com sabedoria.[n][f 1 3 65535][w][e]
 
@@ -1304,7 +1304,7 @@
 
 [msg MSG_316_0_0 [Ann]]
 [s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Estamos enviando o cartão de visita no dia[n]18, então temos menos de uma semana[n]restante agora.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 6028 65535 0]* suspiro* Estou ficando nervoso.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 6028 65535 0]*suspiro* Estou ficando nervoso.[n][f 1 3 65535][w][e]
 
 [sel SEL_317_0_0 top]
 [s]Eu sei como você se sente.[e]
@@ -1364,7 +1364,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Esta é a nossa situação de fazer ou morrer.[n]Não temos a opção de falhar![n][f 1 3 65535][w][e]
 
 [msg MSG_330_0_0 [Ryuji]]
-[s][bup 0 2 7 65535 0][f 4 10 65535 0 0][vp 8 0 0 361 65535 0]* Bocejo* Mornin '...[n][f 1 3 65535][w][e]
+[s][bup 0 2 7 65535 0][f 4 10 65535 0 0][vp 8 0 0 361 65535 0]*Bocejo* Mornin '...[n][f 1 3 65535][w][e]
 
 [msg MSG_331_0_0 [Ryuji]]
 [s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 362 65535 0]São exames...[n][f 1 3 65535][w][e]
@@ -1809,7 +1809,7 @@
 
 [msg MSG_420_0_0 [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 300 65535 0]É a primeira vez na escola em algum tempo.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 301 65535 0][bup 0 2 7 65535 0][f 4 10 65535 0 0]* Bocejo* Estou com muito sono.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 301 65535 0][bup 0 2 7 65535 0][f 4 10 65535 0 0]*Bocejo* Estou com muito sono.[n][f 1 3 65535][w][e]
 
 [msg MSG_421_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 302 65535 0]Você sobre o seu jet lag?[n][f 1 3 65535][w][e]
@@ -1875,13 +1875,13 @@
 [msg MSG_434_0_0 [Woman with Camera]]
 [s][bup 0 107 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 16044 65535 0]Ei! Como você poderia esquecer uma garota[n]adorável como eu?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Eu sou Ichiko Ohya, jornalista.[n]Eu entrevistei você na residência Madarame,[n]lembra?[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]* Bocejo* Homem, All-Nighters são difíceis.[n]Bem, você trabalha duro em seus estudos.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]*Bocejo* Homem, All-Nighters são difíceis.[n]Bem, você trabalha duro em seus estudos.[n][f 1 3 65535][w][e]
 
 [msg MSG_435_0_0 [Haru]]
 [s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 3001 65535 0]Bom Dia.[n][f 1 3 65535][w][e]
 
 [msg MSG_436_0_0 [Haru]]
-[s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]* Giggle* Você ainda parece sonolento.[n][f 1 3 65535][w][e]
+[s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*Giggle* Você ainda parece sonolento.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Deixe-me saber se você estiver indo para o[n]palácio, ok? Estou pronto para ir a[n]qualquer hora.[n][f 1 3 65535][w][e]
 [s][bup 0 7 3 65535 0][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]......[n][f 1 3 65535][w][e]
 
@@ -2240,14 +2240,14 @@
 
 [msg MSG_528_0_0 [Ryuji]]
 [s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 7021 65535 0]...あの時からずっと考えてることがあんだ。[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]やっとまとまってきたっつーか...[n]—ィけど[f 4 2]の時間ある時に、話聞いてくれ。[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]やっとまとまってきたっつーか...[n]—ィけど[f 4 2] の時間ある時に、話聞いてくれ。[n][f 1 3 65535][w][e]
 
 [msg MSG_529_0_0 [Ryuji]]
 [s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 7032 65535 0]や、ダイジョーブ。[n]...けどよ、あの時からずっと考えてることがあんだ。[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]やっとまとまってきたっつーか...[n]—ィけど[f 4 2]の時間ある時に、話聞いてくれ。[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]やっとまとまってきたっつーか...[n]—ィけど[f 4 2] の時間ある時に、話聞いてくれ。[n][f 1 3 65535][w][e]
 
 [msg MSG_530_0_0 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0](仮)あ、[f 4 2]君おはよう。[n]寒いね。[n][f 1 3 65535][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0](仮)あ、[f 4 2] 君おはよう。[n]寒いね。[n][f 1 3 65535][w][e]
 
 [msg MSG_531_0_0 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...あのね、その...[n]...ごめんね、なんか顔見れないや...[n][f 1 3 65535][w][e]
@@ -2265,7 +2265,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]...あのね、聞いて欲しい事があるの。[n]時間がある時でいいから、屋上に来て欲しいな。[n][f 1 3 65535][w][e]
 
 [msg MSG_535_0_0 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 2005 65535 0](仮)あ、[f 4 2]おはよう。[n][f 1 3 65535][w][e]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 2005 65535 0](仮)あ、[f 4 2] おはよう。[n][f 1 3 65535][w][e]
 
 [msg MSG_536_0_0 [Makoto]]
 [s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...あのね、その...[n][f 1 3 65535][w][e]
@@ -2275,7 +2275,7 @@
 [s]大丈夫か?[e]
 
 [msg MSG_538_0_0 [Makoto]]
-[s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 2087 65535 0]...[f 4 2]、話しに来てくれたよね。[n][f 1 3 65535][w][e]
+[s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 2087 65535 0]...[f 4 2] 、話しに来てくれたよね。[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]...あのね、ずっと考えてたことがあるの。[n]時間がある時でいいから、聞いてくれない?[n][f 1 3 65535][w][e]
 
 [msg MSG_539_0_0 [Makoto]]
@@ -2283,7 +2283,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]...あのね、ずっと考えてたことがあるの。[n]時間がある時でいいから、聞いてくれない?[n][f 1 3 65535][w][e]
 
 [msg MSG_540_0_0 [Yusuke]]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 4008 65535 0](仮)[f 4 2]じゃないか。[n]今日も冷えるな。[n][f 1 3 65535][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 4008 65535 0](仮)[f 4 2] じゃないか。[n]今日も冷えるな。[n][f 1 3 65535][w][e]
 
 [msg MSG_541_0_0 [Yusuke]]
 [s][bup 0 5 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...せっかく会った機会だ。[n]お前に話したいことがある。[n][f 1 3 65535][w][e]
@@ -2301,7 +2301,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]それがだな...いや、ここでは♀られるな。[n]すまないが、時間がある時に会いに来てくれ。[n][f 1 3 65535][w][e]
 
 [msg MSG_545_0_0 [Akechi]]
-[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0](仮)あ、[f 4 2]君おはよう。[n]寒いね。[n][f 1 3 65535][w][e]
+[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0](仮)あ、[f 4 2] 君おはよう。[n]寒いね。[n][f 1 3 65535][w][e]
 
 [msg MSG_546_0_0 [Akechi]]
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...あのね、その...[n]...ごめんね、なんか顔見れないや...[n][f 1 3 65535][w][e]

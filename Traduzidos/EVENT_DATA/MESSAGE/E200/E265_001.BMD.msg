@@ -20,10 +20,10 @@
 [s][bup 0 6 102 65535 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Você roubou tudo de pessoas inocentes![n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Shadow Kaneshiro]]
-[s][bup 0 207 105 0 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Multar. Vou cancelar a dívida...[n][f 1 3 65535][w][e]
+[s][bup 0 207 105 0 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Bom. Vou cancelar a dívida...[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Ryuji]]
-[s][bup 0 2 102 0 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Multar? Você ainda está somando 'muito[n]condescendente'.[n][f 1 3 65535][w][e]
+[s][bup 0 2 102 0 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Bom? Você ainda está somando 'muito[n]condescendente'.[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Shadow Kaneshiro]]
 [s][bup 0 207 105 0 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Você está certo... eu sou um pobre, feio...[n]idiota...[n][f 1 3 65535][w][e]
@@ -83,7 +83,7 @@
 [s][bup 0 2 102 0 0][f 4 10 65535 0 0][vp 8 0 0 37 65535 0]Derramar! Sobre quem você está falando!?[n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [Shadow Kaneshiro]]
-[s][bup 0 207 101 0 0][f 4 10 65535 0 0][vp 8 0 0 38 65535 0]* risador* nem se preocupe. Você não é nada[n]comparado a eles...[n][f 1 3 65535][w][e]
+[s][bup 0 207 101 0 0][f 4 10 65535 0 0][vp 8 0 0 38 65535 0]*risador* nem se preocupe. Você não é nada[n]comparado a eles...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 39 65535 0]É melhor ter cuidado... um encontro casual[n]com eles pode ser fatal...[n][f 1 3 65535][w][e]
 
 [msg MSG_025_0_0 [Yusuke]]

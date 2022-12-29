@@ -26,7 +26,7 @@
 [s][bup 0 6 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 6 42 4 100][f 4 24 0 4 2 9 4 100]Dependendo das pontuações dos exames, pode[n]não haver um festival de fogos de artifício[n]para que alguém participe- você está ciente?[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Makoto]]
-[s][bup 0 6 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 2048 65535 0]* risada* estou brincando.[n][f 1 3 65535][w][e]
+[s][bup 0 6 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 2048 65535 0]*risada* estou brincando.[n][f 1 3 65535][w][e]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 2182 65535 0][f 4 24 0 4 6 59 4 100][f 4 24 0 4 2 5 4 100]Mas certifique-se de estudar bem, tudo bem?[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Makoto]]

@@ -20,8 +20,8 @@
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Ryuji está realmente de olho no fórum.[n]Devemos fazer a nossa parte também![n][f 1 3 65535][w][e]
 
 [msg MND_007_0_0]
-[s][vp 1 0 0 0 0 0]Eu obtive a Intel em um alvo.[n]Talvez eu deva ver o que todo mundo tem a[n]dizer no esconderijo...[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Eu obtive a Informação em um alvo.[n]Talvez eu deva ver o que todo mundo tem a[n]dizer no esconderijo...[n][f 1 3 65535][w][e]
 
 [msg HELP_MEMENTOS_MISSION_04 [Request Received!]]
-[s][clr 4]Intel alvo ganhou [clr 27][n]Agora você pode enviar um cartão de[n]chamada do [n][clr 2]esconderijo [clr 27]. Às vezes você ganha a Intel do seu [clr 3]companheiros de equipe [clr 27]assim.[n][w][e]
+[s][clr 4]Informação alvo ganhou [clr 27][n]Agora você pode enviar um cartão de[n]chamada do [n][clr 2]esconderijo [clr 27]. Às vezes você ganha a Informação do seu [clr 3]companheiros de equipe [clr 27]assim.[n][w][e]
 

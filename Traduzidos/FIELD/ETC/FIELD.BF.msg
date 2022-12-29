@@ -11,7 +11,7 @@
 [s]ダンジョン中□メニュー呼び出し。[n][w][e]
 
 [msg MSG_TEST_CELLPHONE_000]
-[s]Parece que não há uma nova intel sobre quem[n]pode ter um palácio...[n][w][e]
+[s]Parece que não há uma nova Informação sobre quem[n]pode ter um palácio...[n][w][e]
 
 [msg MSG_TEST_CELLPHONE_001 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0]そうそうすぐにパレスを持ったヤツが[n]見つかるわけないにゃ。[n][w][e]
@@ -21,7 +21,7 @@
 [s][f 5 14]そっち情報なんか見っかったか?[n][w][e]
 
 [msg HELP_MEMENTOS_MISSION_04 [Mission Occurrence!]]
-[s][clr 4]Memento Intel ganhou [clr 27][n]Agora você pode enviar um cartão de chamada[n]do [n][clr 2]esconderijo [clr 27]. Às vezes você ganha a Intel do seu [clr 3]companheiros de equipe [clr 27]assim.[n][w][e]
+[s][clr 4]Memento Informação ganhou [clr 27][n]Agora você pode enviar um cartão de chamada[n]do [n][clr 2]esconderijo [clr 27]. Às vezes você ganha a Informação do seu [clr 3]companheiros de equipe [clr 27]assim.[n][w][e]
 
 [msg MSG_SPOT_AFTERNOON_ERROR]
 [s]Eu deveria ir até os portões de ingressos[n]por enquanto...[n][w][e]

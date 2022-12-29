@@ -47,7 +47,7 @@
 [s]Ela é minha amiga.[e]
 
 [msg MSG_014_0_0 [Kasumi]]
-[s][bup 0 10 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]* risada* Isso está certo. Ele está me[n]oferecendo orientação ultimamente.[n][f 1 3 65535][w][e]
+[s][bup 0 10 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]*risada* Isso está certo. Ele está me[n]oferecendo orientação ultimamente.[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Akechi]]
 [s][bup 0 9 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Um acordo, você diz? Huh, esse é o[n]relacionamento interessante que vocês dois[n]têm.[n][f 1 3 65535][w][e]

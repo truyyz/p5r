@@ -309,7 +309,7 @@
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 4060 65535 0]E assim começa... não há necessidade de ser[n]elaborado; Vá com a abordagem natural![n][f 1 3 65535][w][e]
 
 [msg MSG_StartRound02_yusuke [Yusuke]]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 4048 65535 0]Minha vez... * risada * Eu me deleito com[n]esse sentimento de tensão...![n][f 1 3 65535][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 4048 65535 0]Minha vez... * risada* Eu me deleito com[n]esse sentimento de tensão...![n][f 1 3 65535][w][e]
 
 [msg MSG_Change_2to3_yusuke [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 4107 65535 0]É a 3 rodada... o tempo certamente voa[n]quando você está se divertindo...![n][f 1 3 65535][w][e]
@@ -662,7 +662,7 @@
 [s]Vá, vá, Goro-Saaan![e]
 
 [msg MSG_Finish_Act01_akechi [Akechi]]
-[s][bup 0 9 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 8048 65535 0]* risada* Isso é um desafio? Muito bem,[n]responderei às suas expectativas elevadas.[n][f 1 3 65535][w][e]
+[s][bup 0 9 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 8048 65535 0]*risada* Isso é um desafio? Muito bem,[n]responderei às suas expectativas elevadas.[n][f 1 3 65535][w][e]
 
 [msg MSG_Finish_Act02_akechi [Akechi]]
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 8108 65535 0]Eu agradeço. Eu costumo me distrair se[n]estiver muito alto.[n][f 1 3 65535][w][e]

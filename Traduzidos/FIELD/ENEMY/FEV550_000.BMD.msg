@@ -245,7 +245,7 @@
 [s]Rrr... rowr...[n][f 1 2 65535][e]
 
 [msg MSG_NML04_MNLG_ALT_02_01]
-[s]* Sniff** Sniff* Woof... Rowr...[n][f 1 2 65535][e]
+[s]*Sniff** Sniff* Woof... Rowr...[n][f 1 2 65535][e]
 
 [msg MSG_NML04_MNLG_ALT_02_02]
 [s]AWOOOOOO![n][f 1 2 65535][e]
@@ -257,7 +257,7 @@
 [s]Grrrrr...[n][f 1 2 65535][e]
 
 [msg MSG_STG01_MNLG_GUARD_02__2]
-[s]* Sniff** Sniff* Woof Woof![n][f 1 2 65535][e]
+[s]*Sniff** Sniff* Woof Woof![n][f 1 2 65535][e]
 
 [msg MSG_STG01_MNLG_GUARD_02__3]
 [s]*Pant**Pant**Pant* [n][f 1 2 65535][e]

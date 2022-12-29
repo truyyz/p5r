@@ -61,7 +61,7 @@
 [s][bup 0 6 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 0 65535 0]Lembre-se das coisas terríveis que você fez[n]com esses gatos. Não faz você se sentir[n]horrível?[n][w][e]
 
 [msg MSG_038_0_0 [Shadow Tsuboi]]
-[s][vp 1 0 0 0 0 0]* SOB* Eu fiz algo terrível. Sou ainda menos[n]que um animal. Eu sou um lixo inútil...[n][w][e]
+[s][vp 1 0 0 0 0 0]*SOB* Eu fiz algo terrível. Sou ainda menos[n]que um animal. Eu sou um lixo inútil...[n][w][e]
 
 [msg MSG_039_0_0 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 0 0 0]Não vou te dizer para desistir de sua vida.[n]Mas você passará o resto da sua vida em[n]culpa.[n][w][e]

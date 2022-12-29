@@ -14,7 +14,7 @@
 
 [msg MSG_E24320100_YUSUKE_003 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu pensei que seria aconselhável reunir mais[n]algumas pistas antes de perguntar em Kosei.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Tentei obter a Intel na estação a caminho de[n]casa, mas não consegui ganhar nada notável.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Tentei obter a Informação na estação a caminho de[n]casa, mas não consegui ganhar nada notável.[n][w][e]
 
 [msg MSG_E24320100_YUSUKE_003_2 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu investigei dentro da estação, mas não[n]consegui ganhar nada notável.[n][w][e]
@@ -70,7 +70,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Talvez possamos tentar fazer perguntas![n]Vamos lá, vamos para a Central Street![n][w][e]
 
 [msg MSG_E24320100_POLICE_101 [Patrolling Officer]]
-[s][vp 8 2 1 0 65535 0]* suspiro* Há muitas crianças para eu avisar[n]todas... as escolas não estão dizendo nada[n]a eles...?[n][w][e]
+[s][vp 8 2 1 0 65535 0]*suspiro* Há muitas crianças para eu avisar[n]todas... as escolas não estão dizendo nada[n]a eles...?[n][w][e]
 
 [msg MSG_E24320100_POLICE_102 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ei, devemos ir antes que ele comece a falar[n]conosco novamente.[n][w][e]

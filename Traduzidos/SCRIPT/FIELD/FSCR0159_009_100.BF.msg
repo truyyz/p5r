@@ -44,7 +44,7 @@
 [s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]De acordo com o mapa, o elevador à frente[n]nos levará ao convés da piscina.[n][w][e]
 
 [msg D07_02_e408_050_mes03 [Yusuke]]
-[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]HM... Se nossa Intel estiver correta, deve[n]haver um "antigo nobre" feminino lá.[n][w][e]
+[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]HM... Se nossa Informação estiver correta, deve[n]haver um "antigo nobre" feminino lá.[n][w][e]
 
 [msg D07_02_e408_050_mes04 [Ann]]
 [s][bup 0 4 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6025 65535 0]Mulherengo, hein...? Eu não estou tão[n]disposto a isso...[n][w][e]

@@ -28,7 +28,7 @@
 [s][f 4 23 1 0 3 10 0 0][f 4 25 1 0 0 0]Quando estiver em sua mira, você estará em[n]um passeio difícil.[n][w][e]
 
 [msg MSG_MAMA_002 [Lala Escargot]]
-[s][f 4 25 1 0 0 0][vp 8 2 1 57715 65535 0]* suspiro*... já é hora de contratar alguma[n]ajuda extra em torno do lugar...[n][w][e]
+[s][f 4 25 1 0 0 0][vp 8 2 1 57715 65535 0]*suspiro*... já é hora de contratar alguma[n]ajuda extra em torno do lugar...[n][w][e]
 [s][f 4 23 1 0 3 10 0 0][f 4 25 1 0 0 0]Ele teria que ser fofo, no entanto. Eu iria[n]querer alguém fácil aos olhos. Ah...[n]Ajuda encantadora é tão difícil de encontrar.[n][w][e]
 
 [msg MSG_MAMA_003 [Lala Escargot]]

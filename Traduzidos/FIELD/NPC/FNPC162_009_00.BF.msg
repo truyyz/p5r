@@ -121,7 +121,7 @@
 
 [msg D10_09_NPC_03_goodbay_me [Dedicated Woman]]
 [s]De nada. Vê você.[n][w][e]
-[s]* suspiro* Não acredito que acabei de[n]admitir tudo isso para completar[n]estranhos...[n][w][e]
+[s]*suspiro* Não acredito que acabei de[n]admitir tudo isso para completar[n]estranhos...[n][w][e]
 
 [msg D10_09_NPC_04_begining_m [Energetic Guy]]
 [s]Uau, vocês não parecem loucos? Você é[n]cosplayers ou algo assim? Aqueles parecem[n]que levaram uma eternidade para fazer![n][w][e]

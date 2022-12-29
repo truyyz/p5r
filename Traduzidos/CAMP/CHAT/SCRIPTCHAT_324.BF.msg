@@ -14,7 +14,7 @@
 [s][f 5 14]Você está surpreso?[n][w][e]
 
 [msg MSG_040_3_0 [Futaba]]
-[s][f 5 14]Eu coloquei um aplicativo em [n][f 4 2]telefone.[n][w][e]
+[s][f 5 14]Eu coloquei um aplicativo em [n][f 4 2] telefone.[n][w][e]
 
 [msg MSG_040_5_0 [Futaba]]
 [s][f 5 14]Eu posso ver tudo o que quero através da[n]câmera dele![n][w][e]

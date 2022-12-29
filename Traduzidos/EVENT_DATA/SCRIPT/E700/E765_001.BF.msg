@@ -12,7 +12,7 @@
 [s][vp 8 2 0 0 4 0]Estou tão feliz que você veio! Esta é a sua[n]casa, então por favor relaxe![n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_2 [Clara]]
-[s][vp 8 2 0 0 4 0]* risada* é assim que todos se sentem sua[n]primeira vez! Esta é a sua casa, então por[n]favor relaxe![n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 4 0]*risada* é assim que todos se sentem sua[n]primeira vez! Esta é a sua casa, então por[n]favor relaxe![n][f 1 3 65535][w][e]
 
 [msg MSG_011_5_0_0 [Clara]]
 [s][vp 8 2 0 0 4 0]Oopsies! Quase esqueci de informar meu[n]visitante pela primeira vez! Que[n]desajeitado da minha parte![n][f 1 3 65535][w][e]
@@ -24,7 +24,7 @@
 [s][vp 8 2 0 0 4 0]Então, qual será o seu pedido?[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Clara]]
-[s][vp 8 2 0 58351 4 0]* Giggle* Bem-vindo para casa, mestre![n][f 1 3 65535][w][e]
+[s][vp 8 2 0 58351 4 0]*Giggle* Bem-vindo para casa, mestre![n][f 1 3 65535][w][e]
 
 [msg MSG_012_5_0_0 [Clara]]
 [s][vp 8 2 0 0 4 0]Então, qual será o seu pedido?[n][f 1 3 65535][w][e]
@@ -132,7 +132,7 @@
 [s]Vá consertar.[e]
 
 [msg MSG_056_0_0 [Clara]]
-[s][vp 8 2 0 0 4 0]* Sniff* Eu nunca conheci uma pessoa tão[n]gentil quanto meu mestre![n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 4 0]*Sniff* Eu nunca conheci uma pessoa tão[n]gentil quanto meu mestre![n][f 1 3 65535][w][e]
 
 [msg MSG_057_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1022 65535 0][f 4 22 65535 1 41]Eu sinto que você está indo muito fácil para[n]ela...[n]Mas acho que você aprendeu a ser tolerante.[n][f 1 3 65535][w][e]
@@ -147,7 +147,7 @@
 [s][vp 8 2 0 58355 4 0]Agora vou começar a desenhar com sinceridade[n]em sua omelete![n][f 1 3 65535][w][e]
 
 [msg MSG_069_0_0 [Clara]]
-[s][vp 8 2 0 58359 4 0]* risada* eu desenhei meus sentimentos![n][f 1 3 65535][w][e]
+[s][vp 8 2 0 58359 4 0]*risada* eu desenhei meus sentimentos![n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 4 0]Agora, por favor, aproveite antes de ficar[n]frio![n][f 1 3 65535][w][e]
 
 [msg MSG_070_0_0 [Clara]]
@@ -194,11 +194,11 @@
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 0 1183 65535 0][f 4 22 65535 1 41]Sendo rigoroso até uma empregada fofa, hein?[n]Você tem algum verdadeiro [f 4 11 3][clr 26][f 4 12 3][clr 27].[n][f 1 3 65535][w][e]
 
 [msg MSG_PARA_UP_MORU [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1163 65535 0]* suspiro* que com certeza foi... único.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1163 65535 0]*suspiro* que com certeza foi... único.[n][f 1 3 65535][w][e]
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]De qualquer maneira, acho que você aprendeu[n]a fazer as pessoas gostarem de você![n][f 1 3 65535][w][e]
 
 [msg MSG_025_0_0 [Clara]]
-[s][vp 8 2 0 0 4 0]* risada* Muito obrigado, Mestre.[n]Foi muito divertido conversar com você![n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 4 0]*risada* Muito obrigado, Mestre.[n]Foi muito divertido conversar com você![n][f 1 3 65535][w][e]
 
 [msg MSG_026_5_0_0 [Clara]]
 [s][vp 8 2 0 58358 4 0]Mestre, sinto muito por estragar tudo hoje.[n][f 1 3 65535][w][e]
@@ -247,7 +247,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1025 65535 0][f 4 22 65535 1 41]Ela está tão exagerada... e você está sendo[n]legal demais com ela.[n][f 1 3 65535][w][e]
 
 [msg MSG_090_3_1_1 [Clara]]
-[s][vp 8 2 0 0 4 0]* grito* tão assustador! Terei mais cuidado[n]de agora em diante![n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 4 0]*grito* tão assustador! Terei mais cuidado[n]de agora em diante![n][f 1 3 65535][w][e]
 
 [msg MSG_090_3_1_2 [Morgana]]
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 0 1183 65535 0][f 4 22 65535 1 41]Isso foi uma repreensão sólida ali.[n][f 1 3 65535][w][e]

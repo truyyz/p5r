@@ -14,7 +14,7 @@
 [s][bup 0 8 600 0 0][vp 8 0 2 1005 0 8][f 4 10 65535 0 0]Ensine aquele trapaceiro estúpido uma lição![n][f 1 3 65535][w][e]
 
 [msg MSG_BTLSTART_006]
-[s][vp 1 0 0 0 0 0]Sobre [f 4 2]a vez, depois de selecionar a arma,[n]pressione [n][f 1 10 28]Para realizar uma foto para baixo.[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Sobre [f 4 2] a vez, depois de selecionar a arma,[n]pressione [n][f 1 10 28]Para realizar uma foto para baixo.[n][f 1 3 65535][w][e]
 [s][vp 1 0 0 0 0 0]Isso só pode ser realizado uma vez por[n]infiltração no metaverso, mas certamente[n]derrubará o inimigo.[n][f 1 3 65535][w][e]
 
 [msg MSG_BTLSTART_008 [Shadow Nejima]]

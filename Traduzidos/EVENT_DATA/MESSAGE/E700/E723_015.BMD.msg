@@ -95,7 +95,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Quero dizer, definitivamente seria melhor se[n]nada disso tivesse acontecido, mas...[n][f 1 3 65535][w][e]
 
 [msg MSG_022_3_0 [Maruki]]
-[s][bup 0 216 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 57452 65535 0]* risada* Eu definitivamente concordo com[n]você lá.[n][f 1 3 65535][w][e]
+[s][bup 0 216 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 57452 65535 0]*risada* Eu definitivamente concordo com[n]você lá.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas é impossível limpar todas as tragédias[n]da história.[n][f 1 3 65535][w][e]
 
 [msg MSG_022_5_0 [Ann]]

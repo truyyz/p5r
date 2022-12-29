@@ -56,7 +56,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Honestamente, eu teria desprezado a linha de[n]pensamento de Eiko no passado...[n]Mas eu sei melhor agora.[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Makoto]]
-[s][bup 0 6 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 2048 65535 0]* risada* Ela deve saber que eu estava[n]falando sobre ela.[n][f 1 3 65535][w][e]
+[s][bup 0 6 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 2048 65535 0]*risada* Ela deve saber que eu estava[n]falando sobre ela.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ultimamente, Eiko está me dizendo sempre que[n]compra maquiagem ou encontra uma nova roupa[n]fofa.[n][f 1 3 65535][w][e]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Isso me lembra, ela me perguntou outro dia[n]que creme para as mãos eu uso.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Enviei uma foto a ela... e aparentemente é a[n]mesma marca que eles usam no escritório da[n]enfermeira na escola.[n][f 1 3 65535][w][e]

@@ -2,7 +2,7 @@
 [s][vp 8 2 2 50245 1 702]Eu tenho mulheres caindo por mim para a[n]esquerda e para a direita, e nem preciso[n]levantar um dedo.[n]Eu me pergunto quem será meu próximo[n]escravo...[n][f 1 3 65535][w][e]
 
 [msg MSG_BTLREACTION_000 [Shadow Arihara]]
-[s][vp 8 2 2 50242 1 702]* risada* agora, observe meu talento.[n][f 1 3 65535][w][e]
+[s][vp 8 2 2 50242 1 702]*risada* agora, observe meu talento.[n][f 1 3 65535][w][e]
 
 [msg MSG_BTLREACTION_MONA_01 [Morgana]]
 [s][vp 8 2 2 1040 0 3][bup 0 3 4 0 0][f 4 10 65535 0 0]Eu não posso acreditar nesse cara...![n][f 1 3 65535][w][e]

@@ -30,5 +30,5 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Talvez se você [clr 2]conseguir um emprego em um bar [clr 27], você poderá aprender algumas[n]informações.[n][f 1 3 65535][w][e]
 
 [msg MND_quest09_OPEN_SELF]
-[s]Eu obtive a Intel em um alvo.[n]Talvez eu deva ver o que todo mundo tem a[n]dizer no esconderijo...[n][w][e]
+[s]Eu obtive a Informação em um alvo.[n]Talvez eu deva ver o que todo mundo tem a[n]dizer no esconderijo...[n][w][e]
 

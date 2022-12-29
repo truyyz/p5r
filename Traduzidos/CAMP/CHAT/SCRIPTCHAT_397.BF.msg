@@ -17,7 +17,7 @@
 [s][f 5 14]Esse é um escândalo, não importa de que[n]maneira você o corte.[n][w][e]
 
 [msg MSG_006_0_0 [Ann]]
-[s][f 5 14]Estou feliz que eles nunca tenham feito [n][f 4 2]Identity Public.[n][w][e]
+[s][f 5 14]Estou feliz que eles nunca tenham feito [n][f 4 2] Identity Public.[n][w][e]
 
 [msg MSG_007_0_0 [Yusuke]]
 [s][f 5 14]Sobre isso... não parece um pouco[n]estranho para você?[n][w][e]

@@ -102,7 +102,7 @@
 
 [msg MSG_027_0_0 [Haru]]
 [s][bup 0 7 201 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Um item mágico que me ajudará a transmitir[n]meus verdadeiros sentimentos a[n]Takakura-san...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 3048 65535 0]* risando* vai levar algum tempo para se[n]preparar, por isso terá que ser o meu[n]segredo por enquanto.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 3048 65535 0]*risando* vai levar algum tempo para se[n]preparar, por isso terá que ser o meu[n]segredo por enquanto.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas eu vou te dizer da próxima vez, ok?[n][f 1 3 65535][w][e]
 
 [msg MSG_028_0_0 [Haru]]

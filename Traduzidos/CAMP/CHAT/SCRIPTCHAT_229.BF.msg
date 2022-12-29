@@ -29,5 +29,5 @@
 [s][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]De qualquer forma, parece que ela é um[n]alvo digno. Vamos encontrar tempo para[n]consultar os outros no esconderijo.[n][f 1 3 65535][w][e]
 
 [msg MND_quest21_OPEN_SELF]
-[s]Eu obtive a Intel em um alvo.[n]Talvez eu deva ver o que todo mundo tem a[n]dizer no esconderijo...[n][w][e]
+[s]Eu obtive a Informação em um alvo.[n]Talvez eu deva ver o que todo mundo tem a[n]dizer no esconderijo...[n][w][e]
 

@@ -13,7 +13,7 @@
 
 [msg MSG_003_0_0 [Office Lady]]
 [s][vp 8 0 0 0 9 0]Espere... então ele está bem em trabalhar[n]para uma mulher, mesmo que ele seja um cara?[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 9 0]* suspiro* algo assim é impensável na minha[n]linha de trabalho...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 9 0]*suspiro* algo assim é impensável na minha[n]linha de trabalho...[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Chihaya]]
 [s][bup 0 113 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 10135 65535 0]Eu considero isso significar que algo mais[n]aconteceu com seu trabalho?[n][f 1 3 65535][w][e]

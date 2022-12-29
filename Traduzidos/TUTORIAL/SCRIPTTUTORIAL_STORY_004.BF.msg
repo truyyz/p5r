@@ -1,5 +1,5 @@
 [msg TUTORIAL_MSG01 [The Third Heist: Kaneshiro]]
-[s]Em uma viagem escolar, [f 4 2]e os outros encontram um jovem detetive nomeado [clr 2]Goro Akechi [clr 27], que acredita que os ladrões fantasmas estão no caminho da[n]justiça.[n][w][e]
+[s]Em uma viagem escolar, [f 4 2] e os outros encontram um jovem detetive nomeado [clr 2]Goro Akechi [clr 27], que acredita que os ladrões fantasmas estão no caminho da[n]justiça.[n][w][e]
 
 [msg TUTORIAL_MSG02 [The Third Heist: Kaneshiro]]
 [s]Mais tarde, Presidente do Conselho Estudantil [clr 2]Makoto niijima [clr 27]Confronta os ladrões e exige que encontram um chefe da[n]máfia ou ela revelará o segredo deles.[n][w][e]
@@ -11,7 +11,7 @@
 [s]Makoto se usa como isca para aprender a localização de[n]Kaneshiro, envolvendo todos eles em uma armadilha. Como[n]resultado, eles são forçados a pagar a Kaneshiro uma[n]quantia pesada.[n][w][e]
 
 [msg TUTORIAL_MSG05 [The Third Heist: Kaneshiro]]
-[s]Um makoto cheio de culpa ajuda [f 4 2]E os outros entram no palácio de Kaneshiro. Lá dentro, sua[n]persona desperta, e ela ajuda a derrotar Shadow Kaneshiro.[n][w][e]
+[s]Um makoto cheio de culpa ajuda [f 4 2] E os outros entram no palácio de Kaneshiro. Lá dentro, sua[n]persona desperta, e ela ajuda a derrotar Shadow Kaneshiro.[n][w][e]
 
 [msg TUTORIAL_MSG06 [The Third Heist: Kaneshiro]]
 [s]Shadow Kaneshiro revela que alguém está entrando nos[n]palácios e pode estar conectado ao [n][clr 2]desligamentos mentais [clr 27][n]e [clr 2]quebras psicóticas [clr 27].[n][w][e]

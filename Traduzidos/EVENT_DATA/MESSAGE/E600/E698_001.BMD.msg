@@ -190,7 +190,7 @@
 [msg MSG_045_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 65535 1025 0 0]Quero que os ladrões fantasmas sejam famosos[n]por mais do que apenas por minhas próprias[n]razões egoístas.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Quanto maior o nosso nome, mais nossos[n]objetivos ouvirão falar de nós.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Lembra daquele repórter? Se lhe dermos a[n]Intel certa, seus artigos poderiam fazer[n]uma diferença real para nós no metaverso![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Lembra daquele repórter? Se lhe dermos a[n]Informação certa, seus artigos poderiam fazer[n]uma diferença real para nós no metaverso![n][f 1 3 65535][w][e]
 [s][vp 8 2 65535 1174 0 0][f 4 10 65535 0 0]Vamos voltar a isso [clr 2]Bar em Shinjuku [clr 27]E faça com que ela escreva mais coisas sobre[n]nós![n][f 1 3 65535][w][e]
 
 [msg MSG_046_0_0 [Morgana]]
@@ -315,7 +315,7 @@
 
 [msg MSG_073_0_0 [Skeptical Girl]]
 [s][vp 8 0 0 0 5 0]Você quer dizer aquele em que um garoto se[n]levanta de trapos a riquezas vencendo em um[n]programa de questionários?[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 5 0]Sheesh, você também se envolve nessas[n]histórias... que tal estudar para os exames[n]antes de pensar em programas de[n]questionários?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 5 0]Sheesh, você também se envolve nessas[n]histórias... que tal estudar para os exames[n]antes de pensar em programas de questionários?[n][f 1 3 65535][w][e]
 
 [msg MSG_074_0_0 [Excited Girl]]
 [s][vp 8 0 0 0 4 0]Oof... você me pegou lá...[n][f 1 3 65535][w][e]
@@ -465,7 +465,7 @@
 
 [msg MSG_109_0_0 [Skeptical Girl]]
 [s][vp 8 0 0 0 5 0]Você quer dizer aquele em que um garoto se[n]levanta de trapos a riquezas vencendo em um[n]programa de questionários?[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 5 0]Sheesh, você também se envolve nessas[n]histórias... que tal estudar para os exames[n]antes de pensar em programas de[n]questionários?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 5 0]Sheesh, você também se envolve nessas[n]histórias... que tal estudar para os exames[n]antes de pensar em programas de questionários?[n][f 1 3 65535][w][e]
 
 [msg MSG_110_0_0 [Excited Girl]]
 [s][vp 8 0 0 0 4 0]Oof... você me pegou lá...[n][f 1 3 65535][w][e]

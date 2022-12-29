@@ -481,7 +481,7 @@
 [s]Declínio [e]
 
 [msg MSG_C04_YES_01_00 [Yusuke]]
-[s][bup 0 5 1 65535 0][f 4 10 65535 0 0][f 4 23 1 204 3 10 0 10][vp 8 2 1 4189 65535 0]* risada* Espero que você não ache muito[n]perturbador.[n][w][e]
+[s][bup 0 5 1 65535 0][f 4 10 65535 0 0][f 4 23 1 204 3 10 0 10][vp 8 2 1 4189 65535 0]*risada* Espero que você não ache muito[n]perturbador.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Espere por mim em LeBlanc. Vou trazer a[n]pintura para lá.[n][w][e]
 
 [msg MSG_C04_YES_02_00 [Yusuke]]

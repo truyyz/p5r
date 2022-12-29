@@ -32,5 +32,5 @@
 [s][f 5 14][f 5 15]Você já está pensando em se aposentar?[n]Isso é décadas de folga...[n][w][e]
 
 [msg MSG_012_0_0 [Morgana]]
-[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]* suspiro* parece que todos se[n]divertiram, hein...? Bom... isso é[n]ótimo...[n][f 1 3 65535][w][e]
+[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]*suspiro* parece que todos se[n]divertiram, hein...? Bom... isso é[n]ótimo...[n][f 1 3 65535][w][e]
 

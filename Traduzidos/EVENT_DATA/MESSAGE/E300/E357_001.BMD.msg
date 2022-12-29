@@ -105,7 +105,7 @@
 [s]Então você descobriu...[e]
 
 [msg MSG_030_0_0 [Sojiro]]
-[s][bup 0 103 5 0 0][f 4 10 65535 0 0][vp 8 0 0 38 65535 0]* suspiro* realmente?[n][f 1 3 65535][w][e]
+[s][bup 0 103 5 0 0][f 4 10 65535 0 0][vp 8 0 0 38 65535 0]*suspiro* realmente?[n][f 1 3 65535][w][e]
 
 [msg MSG_031_0_0 [Sojiro]]
 [s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 0 0 39 65535 0]Quando ela disse que iria para a praia do[n]nada. Até os médicos jogavam na toalha.[n][f 1 3 65535][w][e]
@@ -179,7 +179,7 @@
 
 [msg MSG_048_5_0 [Futaba]]
 [s][bup 0 8 5 65535 0][f 4 10 65535 0 0][vp 8 0 0 70 65535 0]Eu perguntei pra eles![n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 71 65535 0]É por isso [f 4 2]me salvou![n]Ele roubou meu coração![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 71 65535 0]É por isso [f 4 2] me salvou![n]Ele roubou meu coração![n][f 1 3 65535][w][e]
 
 [msg MSG_049_0_0 [Sojiro]]
 [s][bup 0 103 4 0 0][f 4 10 65535 0 0][vp 8 0 0 72 65535 0]...Perguntado? Roubaram?[n][f 1 3 65535][w][e]

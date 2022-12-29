@@ -114,7 +114,7 @@
 
 [msg MSG_027_0_0 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 43 65535 0]Agora, para realizar meu sonho, precisarei[n]ser aceito na minha primeira faculdade de[n]escolha.[n][f 1 3 65535][w][e]
-[s][bup 0 6 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 44 65535 0]* risada* que pensamento engraçado...[n]Estudar para se tornar um chefe de polícia[n]enquanto trabalhava como ladrão...[n][f 1 3 65535][w][e]
+[s][bup 0 6 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 44 65535 0]*risada* que pensamento engraçado...[n]Estudar para se tornar um chefe de polícia[n]enquanto trabalhava como ladrão...[n][f 1 3 65535][w][e]
 
 [sel SEL_028_0_0 top]
 [s]Haha, sim.[e]

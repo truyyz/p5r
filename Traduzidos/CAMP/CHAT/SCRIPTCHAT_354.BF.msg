@@ -48,7 +48,7 @@
 [msg MSG_014_0_0 [Makoto]]
 [s][f 5 14]Esta operação exigirá excelentes[n]habilidades de negociação.[n][w][e]
 [s][f 5 14]Além disso, quem for precisará criar[n]diversões por conta própria dentro do[n]palácio.[n][w][e]
-[s][f 5 14]Eu só poderia confiar [n][f 4 2]com essas tarefas.[n][w][e]
+[s][f 5 14]Eu só poderia confiar [n][f 4 2] com essas tarefas.[n][w][e]
 
 [msg MSG_015_0_0 [Ryuji]]
 [s][f 5 14]Isso é verdade, mas...[n][w][e]

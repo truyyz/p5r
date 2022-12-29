@@ -75,7 +75,7 @@
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Isso pode afetar as lembranças da mesma[n]maneira que o clima.[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Pale Young Man]]
-[s][vp 8 2 0 39052 15 0]* suspiro* meu trabalho de meio período é[n]uma drag...[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 39052 15 0]*suspiro* meu trabalho de meio período é[n]uma drag...[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Caring Young Friend]]
 [s][vp 8 0 0 0 65535 0]Você quer dizer seu trabalho na [clr 2]Loja de tigela de[n]carne na rua central[clr 27], certo? Eu pensei que[n]você disse que o salário era bom?[n][f 1 3 65535][w][e]
@@ -84,7 +84,7 @@
 
 [msg MSG_022_0_0 [Pale Young Man]]
 [s][vp 8 0 0 0 65535 0]Sem chance. Não estou nem interessado em[n]política.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]* suspiro* Eu realmente não quero ir...[n]mesmo que o salário seja bom, executando[n]todo o lugar sozinha, apenas é uma merda.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]*suspiro* Eu realmente não quero ir...[n]mesmo que o salário seja bom, executando[n]todo o lugar sozinha, apenas é uma merda.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Essa revista de empregos disse que era um local[n]de trabalho divertido e amigável. Eu gostaria[n]que outro tempo parcial se juntasse...[n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Morgana]]
@@ -465,7 +465,7 @@
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Devemos ir para isso [clr 2]Bar em Shinjuku [clr 27]E convencê-la a escrever mais artigos sobre[n]nós![n][f 1 3 65535][w][e]
 
 [msg MSG_120_0_0 [Pale Young Man]]
-[s][vp 8 2 0 39052 15 0]* suspiro* Eu não quero ir trabalhar hoje...[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 39052 15 0]*suspiro* Eu não quero ir trabalhar hoje...[n][f 1 3 65535][w][e]
 
 [msg MSG_121_0_0 [Caring Young Friend]]
 [s][vp 8 0 0 0 65535 0]Você ainda está trabalhando nisso [clr 2]Local da tigela de carne na rua central [clr 27]?[n][f 1 3 65535][w][e]

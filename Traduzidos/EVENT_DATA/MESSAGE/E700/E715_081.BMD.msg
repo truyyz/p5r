@@ -84,7 +84,7 @@
 [msg MSG_020_0_0 [Ohya]]
 [s][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu... vou vê-la. Não importa o que aconteça,[n]eu preciso ver isso até o fim.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][f 4 24 0 4 0 36 5 100][f 4 24 0 4 0 9 3 100][vp 8 0 0 0 65535 0]Caso contrário, eu não seria Ichiko Ohya,[n]jornalista extraordinário![n][f 1 3 65535][w][e]
-[s][bup 0 107 1 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 42 3 100][vp 8 0 0 0 65535 0]* ri* Estou muito feliz por ter conversado[n]com você sobre isso. Eu nunca teria me[n]decidido sem a sua ajuda.[n][f 1 3 65535][w][e]
+[s][bup 0 107 1 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 42 3 100][vp 8 0 0 0 65535 0]*ri* Estou muito feliz por ter conversado[n]com você sobre isso. Eu nunca teria me[n]decidido sem a sua ajuda.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][f 4 24 0 4 0 36 5 100][vp 8 0 0 0 65535 0]Você sabe, você é muito mais do que apenas[n]um garoto do ensino médio. Você é quase[n]como meu conselheiro de orientação.[n][f 1 3 65535][w][e]
 
 [msg MND_990_0_0]

@@ -58,7 +58,7 @@
 [s]Ugh, multidões...[e]
 
 [msg MSG_011_6_0 [Kasumi]]
-[s][bup 0 10 1 65535 1][f 4 10 65535 0 0][vp 8 2 0 57058 65535 0]* risada* devo concordar. Vou me certificar[n]de orar aos deuses para que não esteja tão[n]lotado![n][f 1 3 65535][w][e]
+[s][bup 0 10 1 65535 1][f 4 10 65535 0 0][vp 8 2 0 57058 65535 0]*risada* devo concordar. Vou me certificar[n]de orar aos deuses para que não esteja tão[n]lotado![n][f 1 3 65535][w][e]
 [s][bup 0 10 5 65535 1][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Oh, atire... Espero que isso não conta como[n]eu desejando antes de fazer minha oferta.[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Sojiro]]

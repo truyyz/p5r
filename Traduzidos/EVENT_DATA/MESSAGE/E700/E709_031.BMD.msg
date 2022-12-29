@@ -46,7 +46,7 @@
 
 [msg MSG_012_0_0 [Futaba]]
 [s][bup 0 8 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu não pensei que ia ver você até o fim dos[n]tempos...[n][f 1 3 65535][w][e]
-[s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas então pensei em você enquanto vagava[n]pela loja, e Bam, um selvagem [n][f 4 2]apareceu![n][f 1 3 65535][w][e]
+[s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas então pensei em você enquanto vagava[n]pela loja, e Bam, um selvagem [n][f 4 2] apareceu![n][f 1 3 65535][w][e]
 
 [sel SEL_013_0_0 top]
 [s][f 0 8 2 1 2217]Bom te ver de novo.[clr 27][e]

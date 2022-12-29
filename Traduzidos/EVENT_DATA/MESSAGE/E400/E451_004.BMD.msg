@@ -89,7 +89,7 @@
 [s]Muito bem...[e]
 
 [msg MSG_026_5_0 [God of Control]]
-[s][vp 8 0 0 74 65535 0]* risada* Nosso contrato foi selado então.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 74 65535 0]*risada* Nosso contrato foi selado então.[n][f 1 3 65535][w][e]
 
 [sel SEL_027_0_0 top]
 [s]É um bom negócio.[f 2 7 0 0 161 1][e]
@@ -100,7 +100,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 84 65535 0]Você até desfeita o desejo do meu mestre...[n]Você é um trapaceiro, afinal...[n][f 1 3 65535][w][e]
 
 [msg MSG_030_0_0 [God of Control]]
-[s][vp 8 0 0 43 65535 0]* risada* você realmente é um filho do[n]homem...[n]Parece que você não poderia vencer contra[n]seus próprios desejos.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 43 65535 0]*risada* você realmente é um filho do[n]homem...[n]Parece que você não poderia vencer contra[n]seus próprios desejos.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 44 65535 0]Não há necessidade de ter vergonha. Vou lhe[n]conceder esse desejo...[n][f 1 3 65535][w][e]
 
 [msg MSG_031_0_0 [(SE)統制の神]]

@@ -57,7 +57,7 @@
 [s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Bem, claro que vou comer, mas...[n][f 1 3 65535][w][e]
 
 [msg MSG_021_5_0 [Ann]]
-[s][bup 0 4 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]* suspiro* Este lugar tem um limite de tempo![n][f 1 3 65535][w][e]
+[s][bup 0 4 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]*suspiro* Este lugar tem um limite de tempo![n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Ryuji]]
 [s][bup 0 2 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Oh porcaria, só temos uma hora para comer![n][f 1 3 65535][w][e]

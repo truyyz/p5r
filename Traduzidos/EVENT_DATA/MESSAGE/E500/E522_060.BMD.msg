@@ -6,7 +6,7 @@
 
 [msg MSG_002_0_0 [Ann]]
 [s][bup 0 4 11 65535 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]O último grande discurso de Makoto como[n]presidente do conselho me deixou chorando...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]* suspiro* Essa foi uma cerimônia tão[n]agradável.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]*suspiro* Essa foi uma cerimônia tão[n]agradável.[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Ei, deixe-me ver.[n][f 1 3 65535][w][e]
@@ -62,7 +62,7 @@
 [s][bup 0 10 0 2 0][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Eu queria te contar... pessoalmente...[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Kasumi]]
-[s][bup 0 10 1 2 0][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]* Huff* Parabéns pela sua graduação![n][f 1 3 65535][w][e]
+[s][bup 0 10 1 2 0][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]*Huff* Parabéns pela sua graduação![n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Makoto]]
 [s][bup 0 6 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 26 65535 0]Obrigada.[n][f 1 3 65535][w][e]

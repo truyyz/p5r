@@ -1418,7 +1418,7 @@
 [s]Olha, estou com muita sede de isso e minha[n]garganta está seca. Você tem algum [n][f 2 5 3 9999 4]?[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_REQUIRE_2]
-[s]* tosse** tosse* Ah, eu me sinto terrível...[n][w][e]
+[s]*tosse** tosse* Ah, eu me sinto terrível...[n][w][e]
 [s]Sinto que estou chegando com um resfriado ou[n]algo assim. Você tem um [n][f 2 5 3 9999 4][n]Em você, Sonny?[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_REQUIRE_3]
@@ -1912,7 +1912,7 @@
 [s](planned to be cut) Yer attitude is infuriatin'. I'd have lost it[n]Se eu fosse mais jovem.[n][w][e]
 
 [msg TalkMsg_FQ_REACT_BROKEDO]
-[s]* suspiro* em que mundo difícil vivemos...[n][w][e]
+[s]*suspiro* em que mundo difícil vivemos...[n][w][e]
 
 [msg TalkMsg_HAVE_NO_SECRET]
 [s]Ah, desculpe, mas... eu não tenho nenhuma[n]informação que possa ser útil para você.[n][w][e]

@@ -17,7 +17,7 @@
 
 [sel SEL_007_0_0 top]
 [s]Eu tenho negócios lá.[e]
-[s]Eu preciso da Intel para o chefe deles.[e]
+[s]Eu preciso da Informação para o chefe deles.[e]
 
 [msg MSG_008_0_0 [Ohya]]
 [s][bup 0 107 0 65535 0][vp 1 0 0 37 0 0]HM...[n][f 1 3 65535][w][e]

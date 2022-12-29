@@ -76,7 +76,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 19 4 0]Os rumores não podem ser confiáveis, mas[n]todo mundo começa a tremer em suas botas[n]sempre que ouvem seu nome...[n][f 1 3 65535][w][e]
 
 [msg MSG_014_5_0 [Student Called Yoshizawa]]
-[s][bup 0 10 201 65535 0][f 4 10 65535 0 0][vp 8 0 0 79 4 0]* risada* Mesmo eu posso dizer que você está[n]brincando.[n][f 1 3 65535][w][e]
+[s][bup 0 10 201 65535 0][f 4 10 65535 0 0][vp 8 0 0 79 4 0]*risada* Mesmo eu posso dizer que você está[n]brincando.[n][f 1 3 65535][w][e]
 
 [msg MSG_014_7_0 [Student Called Yoshizawa]]
 [s][bup 0 10 204 65535 0][f 4 10 65535 0 0][vp 8 0 0 80 4 0]HM?[n][f 1 3 65535][w][e]

@@ -11,7 +11,7 @@
 [s]Você pode ver todas as habilidades de[n]confidente de um personagem.[n][e]
 
 [msg HELP_UIRANAI_ALERT]
-[s]Soa um alarme de fusão em [n][f 4 2]prisão.[n][e]
+[s]Soa um alarme de fusão em [n][f 4 2] prisão.[n][e]
 
 [msg HELP_RENAI_SECRETS_5R]
 [s]Entenda claramente o que seus confidentes[n]querem ouvir ao passar um tempo com eles.[n][e]
@@ -403,7 +403,7 @@
 
 [msg MSG_C10_COOP_07_00 [Chihaya]]
 [s][bup 0 113 3 65535 0][f 4 10 65535 0 0][f 4 23 1 210 14 10 13 10][vp 8 2 1 0 65535 0]Há algo que eu gostaria de falar.[n]O caso ADP é mais complicado do que eu[n]pensava...[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]* suspiro* o que vou fazer...?[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]*suspiro* o que vou fazer...?[n][w][e]
 
 [msg MSG_C10_COOP_07_01 [Chihaya]]
 [s][bup 0 113 0 65535 0][f 4 10 65535 0 0][f 4 23 1 210 14 10 13 10][vp 8 2 1 10126 65535 0]Os testes de verificação estão em espera.[n]Preciso me concentrar nas atividades[n]fraudulentas do presidente.[n][w][e]

@@ -139,13 +139,13 @@
 
 [msg MSG_040_0_0 [Sae]]
 [s][bup 0 105 1 65535 0][vp 1 0 0 63 0 0]......[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 64 65535 0]* risada* Você está brincando, não é?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 64 65535 0]*risada* Você está brincando, não é?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 65 65535 0]Ainda assim, tive uma sensação estranha[n]quando você disse isso. Quase parecia que[n]você era...[n]falando a verdade.[n][f 1 3 65535][w][e]
 
 [msg MSG_041_0_0 [Sae]]
 [s][bup 0 105 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 66 65535 0]... uma coincidência, hm?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 67 65535 0]É como se Deus estivesse do seu lado.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 68 65535 0]* ri* Se Deus existe, é isso.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 68 65535 0]*ri* Se Deus existe, é isso.[n][f 1 3 65535][w][e]
 
 [msg MSG_042_0_0 [Sae]]
 [s][bup 0 105 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 69 65535 0]Um jogo"...[n][f 1 3 65535][w][e]

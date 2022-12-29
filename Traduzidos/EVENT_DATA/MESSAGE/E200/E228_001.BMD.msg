@@ -104,7 +104,7 @@
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 37 65535 0]Alguém está animado.[n][f 1 3 65535][w][e]
 
 [msg MSG_034_0_0 [Ann]]
-[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 38 65535 0]* Giggle* Acho que encontrei algo.[n]Não é um fogão portátil?[n][f 1 3 65535][w][e]
+[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 38 65535 0]*Giggle* Acho que encontrei algo.[n]Não é um fogão portátil?[n][f 1 3 65535][w][e]
 
 [msg MSG_035_0_0 [Ann]]
 [s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 39 65535 0]Não podemos fazer uma panela quente?[n][f 1 3 65535][w][e]

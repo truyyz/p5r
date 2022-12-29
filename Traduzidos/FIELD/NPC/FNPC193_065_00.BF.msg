@@ -141,7 +141,7 @@
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 4180 65535 0]Meu, eu fiquei com muita fome... talvez eu[n]traga um lanche na próxima vez.[n][w][e]
 
 [msg SAFETY_MES_YUUSUKE_09_01 [Yusuke]]
-[s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 4168 65535 0]* risada* Estou satisfeito por ter a[n]oportunidade de explorar este lugar[n]novamente com você, Joker.[n][w][e]
+[s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 4168 65535 0]*risada* Estou satisfeito por ter a[n]oportunidade de explorar este lugar[n]novamente com você, Joker.[n][w][e]
 
 [msg SAFETY_MES_YUUSUKE_10_01 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 4155 65535 0]Nossa longa exploração de lembranças está[n]finalmente chegando ao fim... o que quer[n]que pudéssemos encontrar lá?[n][w][e]
@@ -196,7 +196,7 @@
 [s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 3048 65535 0]É tão diferente aqui com todos vocês do que[n]era quando era apenas Mona-chan e eu. Eu[n]tenho tantos amigos agora![n][w][e]
 
 [msg SAFETY_MES_HARU_06_01 [Haru]]
-[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 3048 65535 0]* risada* parece que faz muito tempo desde[n]que eu fiz essas postagens no local do[n]phan...[n][w][e]
+[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 3048 65535 0]*risada* parece que faz muito tempo desde[n]que eu fiz essas postagens no local do[n]phan...[n][w][e]
 
 [msg SAFETY_MES_HARU_07_01 [Haru]]
 [s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 3136 65535 0]Não se preocupe comigo, estou bem.[n]Temos que ajudar essas pessoas que confiam[n]em nós.[n][w][e]

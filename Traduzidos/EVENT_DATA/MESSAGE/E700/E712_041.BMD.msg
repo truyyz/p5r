@@ -66,7 +66,7 @@
 [s][bup 0 104 2 0 0][f 4 10 65535 0 0][vp 8 2 0 13104 65535 0]Apenas esqueça isso.[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Iwai]]
-[s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 2 0 13028 65535 0]* suspiro* desculpe, você teve que ver isso.[n][f 1 3 65535][w][e]
+[s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 2 0 13028 65535 0]*suspiro* desculpe, você teve que ver isso.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]De qualquer forma, como foi hoje? Você[n]aprende sobre algo bom?[n][f 1 3 65535][w][e]
 
 [sel SEL_017_0_0 top]
@@ -101,7 +101,7 @@
 [s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 13 5 1004]Oh, nós vamos. Mas primeiro vou terminar o[n]que ele começou.[n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [Iwai]]
-[s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 13 10 1004]* risada* Alguém já lhe disse como você é?[n][f 1 3 65535][w][e]
+[s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 13 10 1004]*risada* Alguém já lhe disse como você é?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas uh... outra vez, sim?[n][f 1 3 65535][w][e]
 
 [msg MSG_025_0_0 [Iwai]]

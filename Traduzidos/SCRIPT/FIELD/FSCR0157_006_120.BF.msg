@@ -56,7 +56,7 @@
 [s][bup 0 5 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Isso é absurdo![clr 2]50.000 moedas [clr 27]!?[n][w][e]
 
 [msg D157_006_miniEV_01_mes19 [Shadow Dealer]]
-[s]* risada* Também permitimos que os jogadores[n]emprestem moedas, se necessário, até o[n]total atual em seu cartão.[n][w][e]
+[s]*risada* Também permitimos que os jogadores[n]emprestem moedas, se necessário, até o[n]total atual em seu cartão.[n][w][e]
 
 [msg D157_006_miniEV_01_mes20 [Ryuji]]
 [s][bup 0 2 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu não quero fazer isso! Owin 'dinheiro para[n]um cassino estranho na cabeça de alguém é[n]muito estranho![n][w][e]

@@ -1,5 +1,5 @@
 [msg MSG_000_0_0 [Caroline]]
-[s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]* risada* você está de volta...[n][f 1 3 65535][w][e]
+[s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*risada* você está de volta...[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Justine]]
 [s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Presumo que você tenha se tornado mais forte[n]desde sua última tentativa.[n][f 1 3 65535][w][e]

@@ -91,7 +91,7 @@
 [s]A arte é desafiadora.[e]
 
 [msg MSG_027_0_0 [Justine]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 102 17 301 65535][bup 0 101 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]* risada* É hora de você admitir a derrota,[n]Caroline.[n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 102 17 301 65535][bup 0 101 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*risada* É hora de você admitir a derrota,[n]Caroline.[n][f 1 3 65535][w][e]
 
 [msg MSG_028_0_0 [Caroline]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 102 17 301 1][vp 8 2 0 11105 65535 0]Grr... sua opinião não é válida, preso![n][f 1 3 65535][w][e]

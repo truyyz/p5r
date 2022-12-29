@@ -64,7 +64,7 @@
 [s][f 4 23 1 836 3 10 0 0]Bem aqui... você está procurando alguém?[n][w][e]
 
 [msg JYOSHIFUTARI_05_0_0 [Frightened Female Student]]
-[s][f 4 23 1 837 3 10 0 0]* suspiro* ei, ele não é... você sabe, o[n]cara assustador...[n][w][e]
+[s][f 4 23 1 837 3 10 0 0]*suspiro* ei, ele não é... você sabe, o[n]cara assustador...[n][w][e]
 
 [msg JYOSHIFUTARI_06_0_0 [Irritated Female Student]]
 [s][f 4 23 1 836 3 10 0 0]O que!? Por que você não disse isso!? Eu não[n]posso acreditar que falei com ele...[n][w][e]

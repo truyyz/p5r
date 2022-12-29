@@ -74,7 +74,7 @@
 
 [msg MSG_WITH_MORU [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 2 0 1035 65535 0]Ignore meu peso![n]O peso está em sua mente![n][f 1 3 65535][w][e]
-[s][bup 0 3 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 1067 65535 0]* risador* Isso é mais divertido do que eu[n]pensava.[n][f 1 3 65535][w][e]
+[s][bup 0 3 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 1067 65535 0]*risador* Isso é mais divertido do que eu[n]pensava.[n][f 1 3 65535][w][e]
 
 [msg MSG_FUKKIN_MORU [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 2 0 1175 65535 0][f 4 22 65535 3 22]Eu não tenho mais nada a dizer...[n][f 1 3 65535][w][e]

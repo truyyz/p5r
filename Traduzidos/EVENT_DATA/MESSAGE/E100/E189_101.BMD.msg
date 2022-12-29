@@ -1,5 +1,5 @@
 [msg MSG_000_0_0 [Ryuji]]
-[s][bup 0 2 7 65535 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]* Bocejo* Estou com muito sono.[n][f 1 3 65535][w][e]
+[s][bup 0 2 7 65535 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]*Bocejo* Estou com muito sono.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Acabei puxando uma noite toda uma vez que[n]percebi hoje o último dia de exames.[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Morgana]]
@@ -23,7 +23,7 @@
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Eh, é o que eu sempre faço. Não importa[n]quantas vezes eu falhe, nada vai mudar.[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Ann]]
-[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]* bocejo* manhã...[n][f 1 3 65535][w][e]
+[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]*bocejo* manhã...[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Olha quem mais está bocejando.[n][f 1 3 65535][w][e]

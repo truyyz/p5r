@@ -8,7 +8,7 @@
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sem reclamar! Apenas corra![n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Futaba]]
-[s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]* suspiro** cheira* i-i... não posso...[n][f 1 3 65535][w][e]
+[s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*suspiro** cheira* i-i... não posso...[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Alvo à vista! Hraaagh![n][f 1 3 65535][w][e]

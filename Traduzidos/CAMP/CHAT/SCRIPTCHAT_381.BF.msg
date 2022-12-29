@@ -40,7 +40,7 @@
 [s]Não sei.[e]
 
 [msg MSG_013_0_0 [Ryuji]]
-[s][f 5 14]Se [f 4 2]Diz isso, tenho certeza que é verdade![n][w][e]
+[s][f 5 14]Se [f 4 2] Diz isso, tenho certeza que é verdade![n][w][e]
 
 [msg MSG_014_0_0 [Ryuji]]
 [s][f 5 14]Bem, acho que não posso realmente culpar[n]você...[n][w][e]

@@ -223,7 +223,7 @@
 [s][f 4 10 65535 0 0]Seus rostos e penteados... são todos tão[n]parecidos. Se você me dissesse que todos[n]estavam relacionados...[n][w][e]
 
 [msg MSG_Bimajo_moru [Morgana]]
-[s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 1 1170 65535 0]* tosse* Esta área cheira a maquiagem. O[n]cheiro é muito mais do que apenas um[n]perfume persistente...[n][w][e]
+[s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 1 1170 65535 0]*tosse* Esta área cheira a maquiagem. O[n]cheiro é muito mais do que apenas um[n]perfume persistente...[n][w][e]
 
 [msg MSG_Bimajo_moru_YORU [Morgana]]
 [s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 1 1170 65535 0]Um mundo estranho e desconhecido está além[n]dessa cortina, mas enfrentamos perigo[n]suficiente no metaverso.[n][w][e]

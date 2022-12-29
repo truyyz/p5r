@@ -80,5 +80,5 @@
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Kaneshiro não deixa trilhas...? Ele quer[n]dizer isso literalmente, ou poderia ser[n]figurativo?[n][w][e]
 
 [msg D03_01_e246_112_mes08 [Ann]]
-[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6058 65535 0]Ei, por que não analisamos toda a Intel que[n]temos agora?[n][w][e]
+[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6058 65535 0]Ei, por que não analisamos toda a Informação que[n]temos agora?[n][w][e]
 

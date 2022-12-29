@@ -83,7 +83,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 94 65535 0]O outro era um trapaceiro que se enfrentaria[n]contra isso... isso foi [n][f 4 3].[n][f 1 3 65535][w][e]
 
 [msg MSG_029_1_5 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 95 65535 0]Se [f 4 2]vencido, o mundo humano seria deixado como[n]é...[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 95 65535 0]Se [f 4 2] vencido, o mundo humano seria deixado como[n]é...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 96 65535 0]Essas eram as condições do jogo- pelo menos,[n]foi o que deveria ter acontecido.[n][f 1 3 65535][w][e]
 
 [msg MSG_029_2_0 [Lavenza]]
@@ -139,13 +139,13 @@
 [s][bup 0 2 101 0 0][f 4 10 65535 0 0][vp 8 0 0 61 65535 0]Você nos tem, sabe?[n][f 1 3 65535][w][e]
 
 [msg MSG_042_5_0 [Igor]]
-[s][bup 0 201 0 0 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]* risada* Excelente...[n][f 1 3 65535][w][e]
+[s][bup 0 201 0 0 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]*risada* Excelente...[n][f 1 3 65535][w][e]
 
 [msg MSG_043_0_0 [Igor]]
 [s][bup 0 201 0 0 0][f 4 10 65535 0 0][vp 8 0 0 67 65535 0]Não há nada a temer. Você já possui a força[n]para se opor a esse Deus maligno.[n][f 1 3 65535][w][e]
 
 [msg MSG_043_5_0 [Igor]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 201 1 301 1][vp 8 0 0 68 65535 0]* risada* Estou realmente ansioso por isso![n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 201 1 301 1][vp 8 0 0 68 65535 0]*risada* Estou realmente ansioso por isso![n][f 1 3 65535][w][e]
 
 [msg MSG_046_0_0 [Lavenza]]
 [s][bup 0 100 0 0 0][f 4 10 65535 0 0][vp 8 0 0 112 65535 0]Nosso amigo em comum sabe onde está a saída.[n][f 1 3 65535][w][e]

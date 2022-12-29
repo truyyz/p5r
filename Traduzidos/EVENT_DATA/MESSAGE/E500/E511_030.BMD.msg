@@ -70,7 +70,7 @@
 [s]Ser um homem de senhoras.[e]
 
 [msg MSG_023_0_0 [Kasumi]]
-[s][bup 0 10 250 65535 0][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]* risando* bem, nós acabamos de encontrar[n]todos os outros- talvez esse fosse o seu[n]desejo![n][f 1 3 65535][w][e]
+[s][bup 0 10 250 65535 0][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]*risando* bem, nós acabamos de encontrar[n]todos os outros- talvez esse fosse o seu[n]desejo![n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [Kasumi]]
 [s][bup 0 10 251 65535 0][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]Agora há um desejo clássico.[n][f 1 3 65535][w][e]

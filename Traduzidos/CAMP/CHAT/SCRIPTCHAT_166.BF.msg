@@ -29,13 +29,13 @@
 [s][f 5 14]Espere o que!?[n][w][e]
 
 [msg MSG_010_0_0 [Makoto]]
-[s][f 5 14]Você vai ficar bem.[f 4 2]estará com você o tempo todo.[n][w][e]
+[s][f 5 14]Você vai ficar bem.[f 4 2] estará com você o tempo todo.[n][w][e]
 
 [msg MSG_011_0_0 [Makoto]]
 [s][f 5 14]Queremos facilitar você, então seu[n]primeiro teste ajudará em LeBlanc.[n][w][e]
 
 [msg MSG_012_0_0 [Ann]]
-[s][f 5 14]Apenas [f 4 2]Estarei com você amanhã... Boa sorte![n][w][e]
+[s][f 5 14]Apenas [f 4 2] Estarei com você amanhã... Boa sorte![n][w][e]
 
 [sel SEL_013_0_0 top]
 [s][f 5 14]Nós conseguimos.[e]

@@ -44,7 +44,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]HM, se você for trabalhar na Central[n]Street, talvez possa aprender mais com[n]seus colegas...[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_1 [Igor]]
-[s][bup 0 201 0 0 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]* risada* Este é outro passo em sua[n]reabilitação... espero mais grandeza de[n]você.[n][f 1 3 65535][w][e]
+[s][bup 0 201 0 0 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]*risada* Este é outro passo em sua[n]reabilitação... espero mais grandeza de[n]você.[n][f 1 3 65535][w][e]
 
 [msg MND_quest02_CLEAR_SELF]
 [s][vp 8 2 65535 0 0 0]Parece que há um novo alvo disponível.[n]Talvez eu deva analisar qual é o nome[n]deles...[n][f 1 3 65535][w][e]

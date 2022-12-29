@@ -180,7 +180,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vou comprar aquele super picante[n]"Megido-molho" para a próxima vez![n][f 1 3 65535][w][e]
 
 [msg MSG_046_0_0 [Kasumi]]
-[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 57058 65535 0]* risada*... parece que você está sempre me[n]ajudando a encontrar meu caminho a seguir,[n]Senpai.[n][f 1 3 65535][w][e]
+[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 57058 65535 0]*risada*... parece que você está sempre me[n]ajudando a encontrar meu caminho a seguir,[n]Senpai.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Se eu não tivesse você, deixaria meus[n]fracassos chegarem a mim e acabariam em uma[n]grande espiral pessimista novamente.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]... Talvez esse tipo de confiança possa me[n]ajudar a descobrir quem eu realmente sou.[n][f 1 3 65535][w][e]
 

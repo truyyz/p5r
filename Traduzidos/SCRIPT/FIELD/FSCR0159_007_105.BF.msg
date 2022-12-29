@@ -1,5 +1,5 @@
 [msg D159_07_npc_01_mes01 [Masked Guest]]
-[s]* risada* Olhando para esse cenário me faz[n]sentir realmente que sou um dos escolhidos.[n][w][e]
+[s]*risada* Olhando para esse cenário me faz[n]sentir realmente que sou um dos escolhidos.[n][w][e]
 
 [msg D159_07_npc_02_mes01 [Masked Guest]]
 [s]Oh querido, fiquei muito empolgado no salão[n]de entretenimento. Eu deveria esfriar aqui[n]por um tempo.[n][w][e]

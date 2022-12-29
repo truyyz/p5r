@@ -156,7 +156,7 @@
 [s][bup 0 103 2 0 0][f 4 10 65535 0 0][vp 8 0 0 60 65535 0]Nada de choramingos.[n][f 1 3 65535][w][e]
 
 [msg MSG_036_0_0 [Sojiro]]
-[s][bup 0 103 1 0 0][f 4 10 65535 0 0][vp 8 0 0 61 65535 0]* suspiro* vocês, crianças, nunca calem a[n]boca, não é?[n][f 1 3 65535][w][e]
+[s][bup 0 103 1 0 0][f 4 10 65535 0 0][vp 8 0 0 61 65535 0]*suspiro* vocês, crianças, nunca calem a[n]boca, não é?[n][f 1 3 65535][w][e]
 
 [msg MSG_037_0_0 [Futaba]]
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 62 65535 0]O mesmo vale para você, Sojiro.[n][f 1 3 65535][w][e]

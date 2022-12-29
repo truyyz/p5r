@@ -38,7 +38,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]... bem, acho que não estou em posição de[n]reclamar, já que estou ganhando dinheiro[n]com isso.[n][f 1 3 65535][w][e]
 
 [msg MSG_005_5_0 [Kawakami]]
-[s][bup 0 109 603 0 0][f 4 10 65535 0 0][vp 8 2 0 15028 65535 0]* Bocejo* Estou tão cansado...[n][f 1 3 65535][w][e]
+[s][bup 0 109 603 0 0][f 4 10 65535 0 0][vp 8 2 0 15028 65535 0]*Bocejo* Estou tão cansado...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Tivemos uma reunião do corpo docente outro[n]dia. Por que eles têm que durar tanto[n]tempo...?[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Kawakami]]
@@ -68,7 +68,7 @@
 [s][bup 0 109 603 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Por quê você se importa? Ser professor[n]não é um trabalho voluntário, você sabe.[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Kawakami]]
-[s][bup 0 109 603 0 0][f 4 10 65535 0 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 109 7 300 65535][vp 8 0 0 0 65535 0]* suspiro*... vou estar com problemas se não[n]pegar mais turnos.[n][f 1 3 65535][w][e]
+[s][bup 0 109 603 0 0][f 4 10 65535 0 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 109 7 300 65535][vp 8 0 0 0 65535 0]*suspiro*... vou estar com problemas se não[n]pegar mais turnos.[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Kawakami]]
 [s][bup 0 109 604 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Olá![n][f 1 3 65535][w][e]
@@ -108,7 +108,7 @@
 [s][vp 8 0 0 0 65535 0]Eu sinto a gentileza de Kawakami...[n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Kawakami]]
-[s][bup 0 109 603 0 0][f 4 10 65535 0 0][vp 8 2 0 15095 65535 0]* suspiro* Não é assim que deveria ir.[n][f 1 3 65535][w][e]
+[s][bup 0 109 603 0 0][f 4 10 65535 0 0][vp 8 2 0 15095 65535 0]*suspiro* Não é assim que deveria ir.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]De qualquer forma, preciso falar com meu[n]chefe sobre me dar mais turnos...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu preciso ser solicitado mais...[n][f 1 3 65535][w][e]
 

@@ -2,7 +2,7 @@
 [s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7045 65535 0]Ah, sim, nós acertamos de novo![n][w][e]
 
 [msg e259_504_01_mes02 [Kaneshiro's Voice]]
-[s][bup 0 207 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]* risador* Este brilho de ouro...[n][w][e]
+[s][bup 0 207 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]*risador* Este brilho de ouro...[n][w][e]
 
 [msg e259_504_01_mes03 [Yusuke]]
 [s][bup 0 5 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Novamente?[n][w][e]

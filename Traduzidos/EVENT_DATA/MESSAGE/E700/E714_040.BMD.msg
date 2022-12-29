@@ -110,7 +110,7 @@
 [s][bup 0 109 600 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Veja, você entende agora, certo?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Nada de bom virá de se envolver com uma[n]pessoa terrível como eu.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]É uma boa lição aprendida.[n][f 1 3 65535][w][e]
-[s][bup 0 109 603 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]* suspiro* Vamos acabar com isso.[n][f 1 3 65535][w][e]
+[s][bup 0 109 603 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*suspiro* Vamos acabar com isso.[n][f 1 3 65535][w][e]
 
 [msg MSG_028_0_0 [Kawakami]]
 [s][vp 8 2 0 15066 65535 0]Obrigado por usar o nosso serviço...[n][f 1 3 65535][w][e]

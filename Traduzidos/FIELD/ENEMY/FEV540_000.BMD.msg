@@ -158,7 +158,7 @@
 [s]Barras de ouro... elas não notarão se eu[n]embolsar alguns, vão?[n][f 1 2 65535][e]
 
 [msg MSG_NML03_MNLG_FREE_01_0_4]
-[s]* suspiro* Eu gostaria que tenhamos mais[n]funcionários. Eu quero fazer mais pausas...[n][f 1 2 65535][e]
+[s]*suspiro* Eu gostaria que tenhamos mais[n]funcionários. Eu quero fazer mais pausas...[n][f 1 2 65535][e]
 
 [msg MSG_NML03_MNLG_FREE_01_0_5]
 [s]Por quanto mais tempo tenho que me proteger[n]contra nada?[n][f 1 2 65535][e]
@@ -245,7 +245,7 @@
 [s]Rrr... rowr...[n][f 1 2 65535][e]
 
 [msg MSG_NML03_MNLG_ALT_02_01]
-[s]* Sniff** Sniff* Woof... Rowr...[n][f 1 2 65535][e]
+[s]*Sniff** Sniff* Woof... Rowr...[n][f 1 2 65535][e]
 
 [msg MSG_NML03_MNLG_ALT_02_02]
 [s]AWOOOOOO![n][f 1 2 65535][e]
@@ -257,7 +257,7 @@
 [s]Grrrrr...[n][f 1 2 65535][e]
 
 [msg MSG_STG01_MNLG_GUARD_02__2]
-[s]* Sniff** Sniff* Woof Woof![n][f 1 2 65535][e]
+[s]*Sniff** Sniff* Woof Woof![n][f 1 2 65535][e]
 
 [msg MSG_STG01_MNLG_GUARD_02__3]
 [s]*Pant**Pant**Pant* [n][f 1 2 65535][e]
@@ -266,7 +266,7 @@
 [s]Grrrrr...[n][f 1 2 65535][e]
 
 [msg MSG_STG01_MNLG_DEFEND_02_2]
-[s]* Sniff** Sniff* Woof Woof![n][f 1 2 65535][e]
+[s]*Sniff** Sniff* Woof Woof![n][f 1 2 65535][e]
 
 [msg MSG_STG01_MNLG_DEFEND_02_3]
 [s]*Pant**Pant**Pant* [n][f 1 2 65535][e]

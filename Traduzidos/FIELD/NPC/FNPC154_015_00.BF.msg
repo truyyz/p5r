@@ -24,7 +24,7 @@
 [s]Eu não posso... pagar de volta...[n][w][e]
 
 [msg atm_greeting_01]
-[s]* SOB*... eu fui enganado...[n][w][e]
+[s]*SOB*... eu fui enganado...[n][w][e]
 
 [msg atm_greeting_02]
 [s]Por favor... pare... eu não aguento...[n][w][e]

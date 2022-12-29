@@ -24,7 +24,7 @@
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Isso significa apenas que existem páginas[n]que ainda precisamos reunir. Vamos procurar[n]por eles.[n][w][e]
 
 [msg e259_504_mes05_00 [Yusuke]]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4171 65535 0]Ainda não encontramos mais páginas...[n]Podemos resolver isso apenas com a intel[n]intel anteriormente reunida?[n][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4171 65535 0]Ainda não encontramos mais páginas...[n]Podemos resolver isso apenas com a intel[n]Informação anteriormente reunida?[n][w][e]
 
 [msg e259_504_mes05_01 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Considerando como depende deste ponto, não[n]há dúvida de que há mais dicas escondidas[n]em algum lugar.[n][w][e]

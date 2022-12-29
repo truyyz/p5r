@@ -21,7 +21,7 @@
 
 [msg MSG_005_0_0 [Makoto]]
 [s][bup 0 6 7 65535 0][f 4 10 65535 0 0][vp 8 2 0 2040 65535 0][f 5 13 3 5 6]...Deixa para lá! Está batendo em um ritmo[n]completamente normal![n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]* suspiro* Pare de mostrar como você é[n]composto...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*suspiro* Pare de mostrar como você é[n]composto...[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 2129 65535 0]Enfim, hum... Em um momento como esse, a[n]pessoa idosa assume a liderança, certo?[n][f 1 3 65535][w][e]

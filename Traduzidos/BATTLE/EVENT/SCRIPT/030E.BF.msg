@@ -27,7 +27,7 @@
 [s][bup 0 8 602 65535 0][f 4 10 65535 0 0][vp 8 0 2 1015 0 8]Tome cuidado![n][f 1 3 65535][w][e]
 
 [msg MSG_LIONSPECIAL_000_000 [Shadow Shido]]
-[s][vp 8 0 2 1018 1 233]* risada* Eu te mostrei um pouco demais da[n]hospitalidade?[n][f 1 3 65535][w][e]
+[s][vp 8 0 2 1018 1 233]*risada* Eu te mostrei um pouco demais da[n]hospitalidade?[n][f 1 3 65535][w][e]
 
 [msg MSG_LIONSPECIAL_010_000 [Shadow Shido]]
 [s][vp 8 0 2 1019 1 233]Mas isso era apenas uma parte do meu[n]verdadeiro poder...[n][f 1 3 65535][w][e]
@@ -103,7 +103,7 @@
 [s][bup 0 8 602 65535 0][f 4 10 65535 0 0][vp 8 0 2 1015 0 8]Tome cuidado![n][f 1 3 65535][w][e]
 
 [msg MSG_LIONSPECIAL_000_000E [Shadow Shido]]
-[s][vp 8 0 2 1018 1 233]* risada* Eu te mostrei um pouco demais da[n]hospitalidade?[n][f 1 3 65535][w][e]
+[s][vp 8 0 2 1018 1 233]*risada* Eu te mostrei um pouco demais da[n]hospitalidade?[n][f 1 3 65535][w][e]
 
 [msg MSG_LIONSPECIAL_010_000E [Shadow Shido]]
 [s][vp 8 0 2 1019 1 233]Mas isso era apenas uma parte do meu[n]verdadeiro poder...[n][f 1 3 65535][w][e]

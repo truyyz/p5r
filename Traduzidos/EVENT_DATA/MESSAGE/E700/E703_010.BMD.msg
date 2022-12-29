@@ -1,5 +1,5 @@
 [msg MSG_000_0_0 [Haru]]
-[s][bup 0 7 203 65535 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]* suspiro* que preocupante...[n][f 1 3 65535][w][e]
+[s][bup 0 7 203 65535 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]*suspiro* que preocupante...[n][f 1 3 65535][w][e]
 
 [sel SEL_001_0_0 top]
 [s]O que está errado?[e]
@@ -98,11 +98,11 @@
 [s]Como eles sabem?[e]
 
 [msg MSG_016_0_0 [Haru]]
-[s][bup 0 7 201 65535 0][f 4 10 65535 0 0][vp 8 0 0 51 65535 0]* risada* você gosta de vegetais, [n][f 4 2]-kun? É bom saber.[n][f 1 3 65535][w][e]
+[s][bup 0 7 201 65535 0][f 4 10 65535 0 0][vp 8 0 0 51 65535 0]*risada* você gosta de vegetais, [n][f 4 2]-kun? É bom saber.[n][f 1 3 65535][w][e]
 [s][bup 0 7 200 65535 0][f 4 10 65535 0 0][vp 8 0 0 52 65535 0][f 4 24 0 4 0 59 5 100][f 4 24 0 4 0 5 5 100]... Mas para dizer a verdade, tenho um favor[n]a pedir a você.[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Haru]]
-[s][bup 0 7 201 65535 0][f 4 10 65535 0 0][vp 8 0 0 53 65535 0]Você descobrirá quando os comer![n]* risada* apenas brincando.[n][f 1 3 65535][w][e]
+[s][bup 0 7 201 65535 0][f 4 10 65535 0 0][vp 8 0 0 53 65535 0]Você descobrirá quando os comer![n]*risada* apenas brincando.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 54 65535 0]É principalmente coisas normais, como[n]tomates e abobrinha. Eles são[n]definitivamente únicos.[n][f 1 3 65535][w][e]
 [s][bup 0 7 200 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 59 5 100][f 4 24 0 4 0 5 5 100][vp 8 0 0 55 65535 0]... Falando nisso, tenho um favor a pedir a[n]você.[n][f 1 3 65535][w][e]
 

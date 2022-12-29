@@ -23,5 +23,5 @@
 [s][bup 0 105 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Trazendo minha irmã para me incomodar, está?[n]Parece que não há limite para sua[n]duplicidade.[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Sae]]
-[s][bup 0 105 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Multar. Vou ouvir tudo o que você tem a[n]dizer antes de decidir a verdade de suas[n]declarações.[n][f 1 3 65535][w][e]
+[s][bup 0 105 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Bom. Vou ouvir tudo o que você tem a[n]dizer antes de decidir a verdade de suas[n]declarações.[n][f 1 3 65535][w][e]
 

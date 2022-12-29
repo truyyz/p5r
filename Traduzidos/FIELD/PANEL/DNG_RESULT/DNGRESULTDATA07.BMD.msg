@@ -2,7 +2,7 @@
 [s]Infiltrou o forro de cruzeiro [n][w][e]
 
 [msg D07_RESULT_TXT02]
-[s]Reuniu Intel nos cinco VIPs [n][w][e]
+[s]Reuniu Informação nos cinco VIPs [n][w][e]
 
 [msg D07_RESULT_TXT03]
 [s]Encontrou um quarto seguro [n][w][e]

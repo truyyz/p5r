@@ -52,7 +52,7 @@
 [s][bup 0 6 3 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 40 10 0 10][vp 8 2 1 2128 65535 0]Certo... bem, divirta-se?[n][w][e]
 
 [msg MES_GROUP7_01 [Yusuke]]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 4090 65535 0]Então é aqui que nosso líder foi reunir[n]Intel em Kaneshiro.[n][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 4090 65535 0]Então é aqui que nosso líder foi reunir[n]Informação em Kaneshiro.[n][w][e]
 
 [msg MES_GROUP7_02 [Ann]]
 [s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 3 10 0 10]Eu sei que é um pouco tarde para isso, mas o[n]fizemos fazer algumas coisas muito loucas.[n][w][e]

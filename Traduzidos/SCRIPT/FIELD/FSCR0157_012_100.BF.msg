@@ -5,7 +5,7 @@
 [s][bup 0 2 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7046 65535 0]É melhor você não estar procurando uma luta.[n]Nós não estamos interessados![n][w][e]
 
 [msg e382_200_mes03 [Shadow Attendant]]
-[s]* risada* Isso não será necessário.[n]Vocês são participantes valiosos, afinal.[n][w][e]
+[s]*risada* Isso não será necessário.[n]Vocês são participantes valiosos, afinal.[n][w][e]
 
 [msg e382_200_mes04 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Participantes?[n][w][e]

@@ -127,7 +127,7 @@
 [s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Muito bem então. De qualquer forma, ele não[n]pode nos escapar, independentemente do que[n]ele faz.[n][f 1 3 65535][w][e]
 
 [msg MSG_036_0_0 [Justine]]
-[s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]* risada* Você ouviu isso, Caroline?[n]Até o preso sabe que um plano bruto como o[n]seu não tem esperança de ter sucesso.[n][f 1 3 65535][w][e]
+[s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]*risada* Você ouviu isso, Caroline?[n]Até o preso sabe que um plano bruto como o[n]seu não tem esperança de ter sucesso.[n][f 1 3 65535][w][e]
 
 [msg MSG_037_0_0 [Caroline]]
 [s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Hmph! Seja como for- não é como se ele[n]pudesse realmente escapar de qualquer[n]maneira.[n][f 1 3 65535][w][e]

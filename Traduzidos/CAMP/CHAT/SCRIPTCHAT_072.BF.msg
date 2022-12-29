@@ -23,7 +23,7 @@
 [s][f 5 14]O cartão de visita, certo?[n]O que eu preciso fazer?[n][w][e]
 
 [msg MSG_008_0_0 [Makoto]]
-[s][f 5 14][f 4 2]decidirei quando o enviarmos.[n][w][e]
+[s][f 5 14][f 4 2] decidirei quando o enviarmos.[n][w][e]
 
 [msg MSG_009_0_0 [Makoto]]
 [s][f 5 14]Depois que ele fizer isso, nos[n]encontraremos e discutiremos os detalhes.[n][w][e]

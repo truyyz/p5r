@@ -17,7 +17,7 @@
 [s]É para meus exames.[e]
 
 [msg MSG_005_0_0 [Takemi]]
-[s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Multar. A propósito, a razão pela qual você[n]perdeu a consciência foi por causa do sabor.[n][f 1 3 65535][w][e]
+[s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Bom. A propósito, a razão pela qual você[n]perdeu a consciência foi por causa do sabor.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Produz um cheiro ruim quando se mistura com[n]sucos gástricos, semelhantes ao Surstomming.[n][f 1 3 65535][w][e]
 [s][bup 0 108 1 0 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0][f 4 24 0 6 0 1 5 100][f 4 24 0 6 0 36 5 100]Ah bem. Tudo o que importa é que, graças a[n]você, consegui obter bons dados.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Ok, é a minha vez de cumprir a minha parte[n]do acordo. É por isso que esperei até você[n]acordar.[n][f 1 3 65535][w][e]

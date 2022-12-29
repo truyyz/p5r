@@ -110,7 +110,7 @@
 [s][bup 0 2 102 65535 0][f 4 10 65535 0 0][vp 8 0 0 42 65535 0]Que diabos, cara!? Aquele bastardo é quem o[n]colocou nisso![n][f 1 3 65535][w][e]
 
 [msg MSG_038_0_0 [Akechi]]
-[s][bup 0 217 601 65535 0][f 4 10 65535 0 0][vp 8 0 0 43 65535 0]* risada* eu vejo...[n][f 1 3 65535][w][e]
+[s][bup 0 217 601 65535 0][f 4 10 65535 0 0][vp 8 0 0 43 65535 0]*risada* eu vejo...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 44 65535 0]Eu queria saber como ele se protegeria se eu[n]usasse meu poder para rasgar seu palácio.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 45 65535 0]Acontece que você é como. Então ele está[n]fazendo um boneco me matar... parece algo[n]que ele faria.[n][f 1 3 65535][w][e]
 

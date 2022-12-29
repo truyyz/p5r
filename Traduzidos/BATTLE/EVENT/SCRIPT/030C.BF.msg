@@ -17,6 +17,6 @@
 [s]Ngh... caramba...[n][f 1 3 65535][w][e]
 
 [msg MSG_BTLHPU50_010_000 [Akechi]]
-[s]* risada* Então... nenhum de nós havia[n]mostrado nossas verdadeiras forças, hein...?[n][f 1 3 65535][w][e]
+[s]*risada* Então... nenhum de nós havia[n]mostrado nossas verdadeiras forças, hein...?[n][f 1 3 65535][w][e]
 [s]... Não me subestime![n][f 1 3 65535][w][e]
 

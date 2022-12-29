@@ -120,7 +120,7 @@
 [s][bup 0 8 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Oooh! Você está chorando!?[n][f 1 3 65535][w][e]
 
 [msg MSG_032_0_0 [Sojiro]]
-[s][bup 0 103 5 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]* Sniff* Isso é porque vocês punks só[n]tiveram que ir dizer tudo o que brega...[n][f 1 3 65535][w][e]
+[s][bup 0 103 5 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*Sniff* Isso é porque vocês punks só[n]tiveram que ir dizer tudo o que brega...[n][f 1 3 65535][w][e]
 
 [msg MSG_033_0_0 [Futaba]]
 [s][bup 0 8 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não foi extravagante! Foi a verdade![n][f 1 3 65535][w][e]

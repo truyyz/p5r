@@ -2,7 +2,7 @@
 [s]......[n][w][e]
 
 [msg TalkMsg_GUY_CONTACT_01]
-[s]* suspiro* Devo ser realmente azarado. Isso[n]é tão deprimente...[n][w][e]
+[s]*suspiro* Devo ser realmente azarado. Isso[n]é tão deprimente...[n][w][e]
 
 [msg TalkMsg_GUY_CONTACT_02]
 [s]Por que você continua me incomodando? O que[n]você é, um perseguidor?[n][w][e]
@@ -56,7 +56,7 @@
 [s]Huh? Como se você pudesse comprar o que eu[n]quero com sua subsídio.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_01_R_13]
-[s]* Giggle* Você está tentando parecer um[n]homem, menino? Você não gosta de ser[n]discutido, não é?[n][w][e]
+[s]*Giggle* Você está tentando parecer um[n]homem, menino? Você não gosta de ser[n]discutido, não é?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_01_R_14]
 [s]Uau, os meninos hoje são bem selvagens, não[n]são?[n][w][e]
@@ -98,7 +98,7 @@
 [s]Você está com medo, não é? Suponho que você[n]não pode deixar de me recusar...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_02_R_8]
-[s]* risada* exatamente o que você estava[n]imaginando?[n]Tudo o que eu disse que "vale a pena".[n][w][e]
+[s]*risada* exatamente o que você estava[n]imaginando?[n]Tudo o que eu disse que "vale a pena".[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_02_R_9]
 [s]Você diz isso, mas eu não entendo essa[n]vibração de você. Vocês estão todos[n]conversando?[n][w][e]
@@ -125,7 +125,7 @@
 [s]Eu nunca fui rejeitado antes, não assim![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_03]
-[s]* risada* Acho que decepcionei minha guarda.[n]Você pode me culpar? Eu não esperava que[n]você fosse tão forte...[n][w][e]
+[s]*risada* Acho que decepcionei minha guarda.[n]Você pode me culpar? Eu não esperava que[n]você fosse tão forte...[n][w][e]
 [s]Então? O que vai acontecer comigo agora?[n][w][e]
 
 [sel TalkSel_GUY_CHAT_FQ_03 top]
@@ -146,7 +146,7 @@
 [s]...Sério? Você vai me matar, hein? Eu meio[n]que gosto da maneira como você diz. Simples[n]e direto ao ponto.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_03_R_5]
-[s]* risada* isso depende de você. Agora que[n]você está nisso, ficarei chateado se você[n]não for o tempo todo.[n][w][e]
+[s]*risada* isso depende de você. Agora que[n]você está nisso, ficarei chateado se você[n]não for o tempo todo.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_03_R_6]
 [s]... Você realmente fez tudo isso sem um[n]plano?[n]Eu realmente tenho que assumir a liderança[n]aqui?[n][w][e]
@@ -206,7 +206,7 @@
 [s]Você está dizendo... você não vai comer[n]minha cozinha...?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_04_R_6]
-[s]* risando* Estou levando as coisas muito[n]rápido, oferecendo-se para cozinhar para[n]você? Tudo bem, faremos outra coisa.[n][w][e]
+[s]*risando* Estou levando as coisas muito[n]rápido, oferecendo-se para cozinhar para[n]você? Tudo bem, faremos outra coisa.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_04_R_7]
 [s]... Ei, pense por segundo, ok?[n]Por que alguém que você está prestes a matar[n]Cook para você uma boa refeição caseira?[n][w][e]
@@ -248,7 +248,7 @@
 [s]Cougars são toda a raiva agora.[e]
 
 [msg TalkMsg_GUY_CHAT_FQ_05_R]
-[s]* Giggle* Eu fiz você dizer isso? É tudo o[n]que tenho reclamado ultimamente...[n][w][e]
+[s]*Giggle* Eu fiz você dizer isso? É tudo o[n]que tenho reclamado ultimamente...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_05_R_2]
 [s]Você deve dizer isso a todas as meninas.[n]Você é do tipo que vai apenas dizer alguma[n]coisa, não é?[n][w][e]
@@ -431,7 +431,7 @@
 [s]Huh. Ela deve estar realmente com você,[n]então. Você tem muita sorte de ter[n]encontrado alguém como ela.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_08_R_5]
-[s]Você está me pedindo para ir junto com isso?[n]* risada* Não tenho problema com isso, na[n]verdade.[n][w][e]
+[s]Você está me pedindo para ir junto com isso?[n]*risada* Não tenho problema com isso, na[n]verdade.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_08_R_6]
 [s]Sim. Eu acho que o que ela não sabe não pode[n]machucá-la.[n][w][e]
@@ -440,7 +440,7 @@
 [s]Escondendo descaradamente a verdade para[n]manter as aparências... você é como um[n]político desprezível.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_08_R_8]
-[s]* risando* Nesse caso, vou ter que sair[n]disso vivo para que eu possa ir para a sua[n]namorada.[n][w][e]
+[s]*risando* Nesse caso, vou ter que sair[n]disso vivo para que eu possa ir para a sua[n]namorada.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_08_R_9]
 [s]Talvez você não esteja sendo proativo o[n]suficiente. O que é surpreendente, quando[n]você tem coragem suficiente para fazer isso[n]comigo.[n][w][e]
@@ -503,7 +503,7 @@
 [s]...Huh? Você não tem certeza do que você[n]quer de mim também?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_01_R_10]
-[s]* risada* Você não sabe o que fazer nessa[n]situação?[n][w][e]
+[s]*risada* Você não sabe o que fazer nessa[n]situação?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_01_R_11]
 [s]... uh-oh. Estou começando a pensar o que[n]você quer pode não ser o que eu acho que[n]é...[n][w][e]
@@ -554,7 +554,7 @@
 [s]Ei, não saia por aí espalhando rumores[n]assim, ok?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_02_R_8]
-[s]* risada* Suponho que alguém possa ser[n]assustador até que você realmente os[n]conheça...[n]Direita?[n][w][e]
+[s]*risada* Suponho que alguém possa ser[n]assustador até que você realmente os[n]conheça...[n]Direita?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_02_R_9]
 [s]Então é assim que você mata o tempo?[n]Provocando alguém pelo qual você não tem[n]sentimentos discerníveis? Hmph.[n][w][e]
@@ -605,7 +605,7 @@
 [s]Você não pode falar de ânimo leve sobre o[n]casamento com uma senhora como eu.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_03_R_6]
-[s]* risada* Você está pensando em casamento?[n]Pelo menos a escola secundária de graduação[n]primeiro, ok?[n][w][e]
+[s]*risada* Você está pensando em casamento?[n]Pelo menos a escola secundária de graduação[n]primeiro, ok?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_03_R_7]
 [s]Você sabe, nunca é justo deixar o casamento[n]em alguém.[n][w][e]
@@ -887,7 +887,7 @@
 [s]Sim? Eu acho que ser jovem é uma espécie de[n]arma em si quando eu realmente penso[n]nisso...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_08_R_5]
-[s]* risada* Conte-me mais sobre esse poder[n]feminino com o qual você conseguiu me[n]superar.[n][w][e]
+[s]*risada* Conte-me mais sobre esse poder[n]feminino com o qual você conseguiu me[n]superar.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_08_R_6]
 [s]Não é raro um homem ter tanto poder[n]feminino? Bem, acho que também não é[n]impossível.[n][w][e]
@@ -1046,7 +1046,7 @@
 [s]O que você está dizendo?[e]
 
 [msg TalkMsg_GUY_CHAT_SQ_11_R]
-[s]* ri* Então você acredita que algo assim[n]realmente poderia acontecer, hein?[n][w][e]
+[s]*ri* Então você acredita que algo assim[n]realmente poderia acontecer, hein?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_11_R_2]
 [s]Existe uma parte de você que deseja que isso[n]seja verdade?[n][w][e]
@@ -1112,7 +1112,7 @@
 [s]... Acho que estava errado ao esperar mais[n]do que palavras frágeis de encorajamento de[n]você.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_12_R_4]
-[s]* risada* é interessante que você pense isso.[n]Quero dizer, considerando as circunstâncias.[n][w][e]
+[s]*risada* é interessante que você pense isso.[n]Quero dizer, considerando as circunstâncias.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_12_R_5]
 [s]Você tem razão. E então, eu receberia[n]indenização... talvez.[n][w][e]
@@ -1232,7 +1232,7 @@
 [s]Eu acho que esse é o tipo de falsidade[n]estranha que eu posso esperar de você...[n]certo?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_14_R_6]
-[s]Eu não esperava isso... * risando * você[n]realmente é algo, não é?[n][w][e]
+[s]Eu não esperava isso... * risando* você[n]realmente é algo, não é?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_14_R_7]
 [s]As pessoas ao seu redor costumam dizer que[n]você não pode ler a situação?[n][w][e]
@@ -1418,7 +1418,7 @@
 [s]Se você tem algo para beber, como um bom[n]resfriado [n][f 2 5 3 9999 4], deixe-me ter, ok?[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_REQUIRE_2]
-[s]* tosse* pegar a gripe é a pior...[n][w][e]
+[s]*tosse* pegar a gripe é a pior...[n][w][e]
 [s]Eu quero que você possa contar comigo, mas[n]você não vai me deixar ter um bom [n][f 2 5 3 9999 4]primeiro?[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_REQUIRE_3]
@@ -2117,7 +2117,7 @@
 [s]Você sabe, eu gostaria que você mostrasse um[n]pouco de restrição.[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_AGREE_0]
-[s]* risada*... Estou impressionado. Eu acho[n]que não há problema em se apaixonar por uma[n]velha chama.[n][w][e]
+[s]*risada*... Estou impressionado. Eu acho[n]que não há problema em se apaixonar por uma[n]velha chama.[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_AGREE_0_2]
 [s]Você é muito gentil.[n][w][e]

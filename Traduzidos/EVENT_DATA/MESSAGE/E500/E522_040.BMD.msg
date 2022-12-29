@@ -39,7 +39,7 @@
 
 [msg MSG_012_0_0 [Sae]]
 [s][bup 0 105 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bem, o meu foi mais agradecido por tudo que[n]você fez por todos, então pode não ser[n]exatamente o mesmo, mas- [n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]* risada* você sabe o que? Não é isso que[n]importa agora.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*risada* você sabe o que? Não é isso que[n]importa agora.[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Takemi]]
 [s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você com certeza é um cara de sorte.[n][f 1 3 65535][w][e]

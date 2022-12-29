@@ -24,7 +24,7 @@
 
 [msg MSG_006_0_0 [Ohya]]
 [s][bup 0 107 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 16028 65535 0]... Deus, o que aconteceu comigo?[n]Fazendo um passeio à beira-mar com um dos[n]meus informantes...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]* suspiro* Aposto que minha mãe choraria se[n]eu voltasse ao país...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*suspiro* Aposto que minha mãe choraria se[n]eu voltasse ao país...[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Ohya]]
 [s][vp 8 2 0 16030 65535 0]Bem, acho que é o suficiente para hoje...[n]obrigado.[n][f 1 3 65535][w][e]

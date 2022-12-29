@@ -45,7 +45,7 @@
 [s]Você está demitido.[e]
 
 [msg MSG_019_0_0 [Shadow Odo]]
-[s][vp 1 0 0 0 0 0]* SOB* eu sabia disso...[n][w][e]
+[s][vp 1 0 0 0 0 0]*SOB* eu sabia disso...[n][w][e]
 
 [msg MSG_020_0_0 [Shadow Odo]]
 [s][vp 1 0 0 0 0 0]Eu sou uma falha...[n][w][e]

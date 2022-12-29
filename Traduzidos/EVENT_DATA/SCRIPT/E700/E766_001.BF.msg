@@ -275,7 +275,7 @@
 [s][bup 0 10 1 65535 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Mas acho que é importante, certo?[n]Então eu vou entrar![n][f 1 3 65535][w][e]
 
 [msg MSG_RESULT_YS [Sumire]]
-[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 57058 65535 0]* risada*... acabei falando muito.[n][f 1 3 65535][w][e]
+[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 57058 65535 0]*risada*... acabei falando muito.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Eu sempre imaginei confessionais para ser um[n]lugar assustador onde você é gritado para[n]"se arrepender de seus pecados!" ou alguma[n]coisa...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Eu não sabia que poderia compartilhar[n]pequenas preocupações, como perder peso...[n]opa, eu disse isso em voz alta?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Muito obrigado por me convidar para isso.[n]Foi divertido![n][f 1 3 65535][w][e]

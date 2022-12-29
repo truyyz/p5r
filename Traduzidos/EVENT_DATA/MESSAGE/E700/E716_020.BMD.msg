@@ -51,7 +51,7 @@
 [s][vp 8 0 0 0 65535 0]Eu preciso ligar para sua mãe?[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Shinya]]
-[s][bup 0 110 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Multar. Vou sair, tudo bem?[n][f 1 3 65535][w][e]
+[s][bup 0 110 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Bom. Vou sair, tudo bem?[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Shinya]]
 [s][bup 0 110 3 0 0][f 4 10 65535 0 0][vp 8 2 0 17026 65535 0]*suspirar* [n][f 1 3 65535][w][e]

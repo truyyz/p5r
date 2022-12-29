@@ -110,7 +110,7 @@
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O que eu deveria fazer?[n]Eu estou com fome também.[n][f 1 3 65535][w][e]
 
 [msg MSG_034_0_0 [Ann]]
-[s][bup 0 4 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sheesh... nós estaríamos em problemas se [f 4 2]não tinha coberto por nós.[n][f 1 3 65535][w][e]
+[s][bup 0 4 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sheesh... nós estaríamos em problemas se [f 4 2] não tinha coberto por nós.[n][f 1 3 65535][w][e]
 
 [msg MSG_035_0_0 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Enfim, eu pedi para você.[n]Você queria atum, certo?[n][f 1 3 65535][w][e]

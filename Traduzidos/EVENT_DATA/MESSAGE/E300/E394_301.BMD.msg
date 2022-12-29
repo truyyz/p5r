@@ -78,7 +78,7 @@
 [s][bup 0 2 5 65535 0][f 4 10 65535 0 0][vp 8 0 0 29 65535 0]Droga... então não temos escolha a não ser[n]ir com a sugestão desse bastardo...[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Ann]]
-[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 30 65535 0]Mas se formos ao palácio como nos disseram, [n][f 4 2]Será preso e então Akechi o matará...[n][f 1 3 65535][w][e]
+[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 30 65535 0]Mas se formos ao palácio como nos disseram, [n][f 4 2] Será preso e então Akechi o matará...[n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Futaba]]
 [s][bup 0 8 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 31 65535 0]Palácio...[n][f 1 3 65535][w][e]

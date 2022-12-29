@@ -5,7 +5,7 @@
 [s][bup 0 101 1 0 0][f 4 10 65535 0 0][vp 8 2 0 12015 65535 0]Vejo que você nos trouxe um shiisaa com FREI.[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Caroline]]
-[s][bup 0 102 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]* risada* muito bem... sua tarefa está[n]concluída.[n][f 1 3 65535][w][e]
+[s][bup 0 102 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*risada* muito bem... sua tarefa está[n]concluída.[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Justine]]
 [s][bup 0 101 1 0 0][f 4 10 65535 0 0][vp 8 2 0 12069 65535 0]É louvável que você tenha optado por[n]trabalhar tão diligentemente em direção à[n]sua reabilitação.[n][f 1 3 65535][w][e]
@@ -76,7 +76,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]No entanto, é extremamente poderoso.[n]Pedimos que você cumpra outra tarefa antes[n]de recebê-la.[n][f 1 3 65535][w][e]
 
 [msg MSG_021_1_0 [Caroline]]
-[s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]* Ritir* A vida não vai apenas entregar seu[n]sucesso![n][f 1 3 65535][w][e]
+[s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*Ritir* A vida não vai apenas entregar seu[n]sucesso![n][f 1 3 65535][w][e]
 
 [msg MSG_021_3_0 [Justine]]
 [s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 2 0 12053 65535 0]Agora, vou atribuir sua próxima tarefa...[n][f 1 3 65535][w][e]

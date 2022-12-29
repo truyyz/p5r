@@ -22,7 +22,7 @@
 [s][bup 0 106 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu abri novas oportunidades através do Shogi.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você é como uma peça de shogi cheia de[n]movimentos infinitos...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu me pergunto que tipo de pessoa você se[n]tornará... apenas imaginar todas as[n]possibilidades é divertido.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]* risada* Estou começando a ter a sensação[n]de que uma nova jogada virá até mim.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*risada* Estou começando a ter a sensação[n]de que uma nova jogada virá até mim.[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Hifumi]]
 [s][bup 0 106 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 18096 65535 0]Bem, então, agora que nos sentimos[n]revigorados...[n]Vamos tocar, justo e quadrado![n][f 1 3 65535][w][e]

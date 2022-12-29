@@ -246,7 +246,7 @@
 [s][bup 0 3 5 0 0][vp 8 2 1 1028 65535 0][f 4 10 65535 0 0]Sério vai ficar ainda mais quente do que[n]agora...?[n][w][e]
 
 [msg MSG_MORGANA_DAY_0718 [Morgana]]
-[s][bup 0 3 0 0 0][vp 8 2 1 1174 65535 0][f 4 10 65535 0 0]HM, Medjed... Primeiras coisas primeiro,[n]vamos reunir Intel nelas![n][w][e]
+[s][bup 0 3 0 0 0][vp 8 2 1 1174 65535 0][f 4 10 65535 0 0]HM, Medjed... Primeiras coisas primeiro,[n]vamos reunir Informação nelas![n][w][e]
 
 [msg MSG_MORGANA_DAY_0719 [Morgana]]
 [s][bup 0 3 0 0 0][vp 8 2 1 1174 65535 0][f 4 10 65535 0 0]Ser direcionado por uma organização[n]internacional de hackers é uma prova de que[n]somos ladrões de boa-fé![n][w][e]

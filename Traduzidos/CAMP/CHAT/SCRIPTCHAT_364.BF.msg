@@ -44,7 +44,7 @@
 [s][f 5 14]A máfia não seria pega de surpresa se[n]tivesse um gato vir para entregar drogas[n]para eles?[n][w][e]
 
 [msg MSG_014_0_0 [Yusuke]]
-[s][f 5 14]Em outras palavras, [f 4 2]Vai estar indo. Não tenho objeções.[n][w][e]
+[s][f 5 14]Em outras palavras, [f 4 2] Vai estar indo. Não tenho objeções.[n][w][e]
 
 [msg MSG_015_0_0 [Yusuke]]
 [s][f 5 14]Enguendo as pessoas e usando isso como[n]chantagem... esses bastardos são[n]covardes verdadeiros.[n][w][e]

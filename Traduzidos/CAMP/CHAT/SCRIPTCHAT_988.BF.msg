@@ -32,7 +32,7 @@
 [s][f 5 14]Você tem fotos de nós também, certo?[n][w][e]
 
 [msg MSG_012_0_0 [Ryuji]]
-[s][f 5 14]Que tal aquele que você tirou [n][f 4 2]'S Yakisoba? Com a grande montanha[n]vermelha de gengibre?[n][w][e]
+[s][f 5 14]Que tal aquele que você tirou [n][f 4 2] 'S Yakisoba? Com a grande montanha[n]vermelha de gengibre?[n][w][e]
 
 [msg MSG_013_0_0 [Ann]]
 [s][f 5 14]Ohhh![n][w][e]

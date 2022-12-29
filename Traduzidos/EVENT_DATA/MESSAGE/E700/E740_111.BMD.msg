@@ -46,7 +46,7 @@
 [s][bup 0 2 7 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não... preencher a papelada no escritório do[n]governo é uma dor na bunda.[n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Oh, o que devemos fazer com Morgana?[n]Ele terá que ficar em casa em [f 4 2]Place, certo?[n][f 1 3 65535][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Oh, o que devemos fazer com Morgana?[n]Ele terá que ficar em casa em [f 4 2] Place, certo?[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Morgana]]
 [s][vp 8 0 0 0 65535 0]ZZZ...[n][f 1 3 65535][w][e]

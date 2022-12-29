@@ -1,5 +1,5 @@
 [msg D01_04_e160_086_mes01 [Ryuji]]
-[s][bup 0 2 105 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7047 65535 0]* Pant** Pant* não percebeu que essas coisas[n]poderiam ser tão difíceis...[n][w][e]
+[s][bup 0 2 105 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7047 65535 0]*Pant** Pant* não percebeu que essas coisas[n]poderiam ser tão difíceis...[n][w][e]
 
 [msg D01_04_e160_086_mes02 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Sim... parece que ele está fazendo um[n]esforço conjunto para nos impedir agora.[n][w][e]

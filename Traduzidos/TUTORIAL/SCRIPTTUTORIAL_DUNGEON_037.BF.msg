@@ -1,5 +1,5 @@
 [msg D_TUTORIAL_37_mes01 [Chaînés Hook]]
-[s]Depois das lições com Kasumi, [n][f 4 2]agora pode usar [clr 1]Chaînés Hook[clr 27].[n][w][e]
+[s]Depois das lições com Kasumi, [n][f 4 2] agora pode usar [clr 1]Chaînés Hook[clr 27].[n][w][e]
 
 [msg D_TUTORIAL_37_mes02 [Chaînés Hook]]
 [s]O uso do seu gancho de luta permitirá que você ataque uma[n]sombra que está um pouco mais longe do que o habitual e[n]inicie uma batalha preventiva.[n][w][e]

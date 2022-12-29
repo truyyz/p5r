@@ -143,5 +143,5 @@
 [s][f 4 10 65535 0 0][f 4 23 0 4 41 8 0 10][vp 8 0 0 55 65535 0]Agora eu sei o quão divertido caminhar por[n]aí pode ser![n][f 1 3 65535][w][e]
 
 [msg MSG_030_0_0 [Futaba]]
-[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 56 65535 0]* risada* obrigado, [f 4 2].[n][f 1 3 65535][w][e]
+[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 56 65535 0]*risada* obrigado, [f 4 2].[n][f 1 3 65535][w][e]
 

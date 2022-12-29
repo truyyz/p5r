@@ -44,7 +44,7 @@
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Hoje em dia, ser capaz de trocar sua[n]máscara, dependendo da situação, é um[n]talento crítico.[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Ms. Chouno]]
-[s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Como você vai se sair, Sr.[f 4 1]?[n]Aqui está uma pergunta.[n][f 1 3 65535][w][e]
+[s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Como você vai se sair, Sr. [f 4 1]?[n]Aqui está uma pergunta.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 37205 65535 0][f 4 10 65535 0 0]"Você é um wunderkind?" Veja se você pode[n]descobrir a resposta com base no que você[n]sabe.[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Ms. Chouno]]
@@ -78,7 +78,7 @@
 
 [msg MSG_020_0_0 [Ms. Chouno]]
 [s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37216 65535 0]Ei, você está ouvindo?[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Senhor.[f 4 1]! Qual é a raiz linguística da palavra em[n]inglês "Azure"?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Senhor. [f 4 1]! Qual é a raiz linguística da palavra em[n]inglês "Azure"?[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Ms. Chouno]]
 [s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37209 65535 0]Excelente![n][f 1 3 65535][w][e]
@@ -93,7 +93,7 @@
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Azure também foi bastante significativo na[n]heráldica. Alguns dizem que foi usado para[n]marcar sinceridade e piedade.[n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [Ms. Chouno]]
-[s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]* suspiro* e aqui estava pensando que teria[n]um biquíni azul-celeste para vestir na[n]praia...[n][f 1 3 65535][w][e]
+[s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*suspiro* e aqui estava pensando que teria[n]um biquíni azul-celeste para vestir na[n]praia...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Oh, vocês, meninos, todos evitando seus[n]olhos.[n]Você é tão inocente.[n][f 1 3 65535][w][e]
 
 [msg MSG_025_0_0 [Morgana]]
@@ -108,7 +108,7 @@
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Alguém gostaria de me dizer o que isso[n]significa?[n][f 1 3 65535][w][e]
 
 [msg MSG_028_0_0 [Ms. Chouno]]
-[s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37207 65535 0]Senhor.[f 4 1]! Vamos ouvir isso. Qual é o fenômeno[n]comumente chamado em inglês?[n][f 1 3 65535][w][e]
+[s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37207 65535 0]Senhor. [f 4 1]! Vamos ouvir isso. Qual é o fenômeno[n]comumente chamado em inglês?[n][f 1 3 65535][w][e]
 
 [msg MSG_029_0_0 [Ms. Chouno]]
 [s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37208 65535 0]Bom![n][f 1 3 65535][w][e]
@@ -131,7 +131,7 @@
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]... Vou transmitir isso, obrigado.[n][f 1 3 65535][w][e]
 
 [msg MSG_034_0_0 [Ms. Kawakami]]
-[s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]* Bocejo* Ok, abra seus livros didáticos...[n][f 1 3 65535][w][e]
+[s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*Bocejo* Ok, abra seus livros didáticos...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Vamos ver... hoje estamos lá...[n][f 1 3 65535][w][e]
 
 [msg MSG_035_0_0 [Ms. Kawakami]]
@@ -281,7 +281,7 @@
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Chamamos pessoas que experimentam esse[n]fenômeno de "sinestetas".[n][f 1 3 65535][w][e]
 
 [msg MSG_068_0_0 [Ms. Chouno]]
-[s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Senhor.[f 4 1]. Você estava olhando para o espaço, não[n]estava?[n][f 1 3 65535][w][e]
+[s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Senhor. [f 4 1]. Você estava olhando para o espaço, não[n]estava?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Bem, seu número acabou. As palavras-raiz da[n]sinestesia são "syn" e "aistese". O que[n]eles querem dizer?[n][f 1 3 65535][w][e]
 
 [msg MSG_069_0_0 [Ms. Chouno]]
@@ -316,7 +316,7 @@
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Mas a capacidade do seu cérebro de memória[n]de longo prazo é enorme. Pode até ser[n]infinito, de acordo com algumas teorias.[n][f 1 3 65535][w][e]
 
 [msg MSG_76_0_0 [Maruki]]
-[s][bup 0 216 0 0 0][f 4 10 65535 0 0][vp 8 2 0 57489 65535 0]OK, então...[f 4 1]-kun![n]O que você acha disso tudo isso?[n][f 1 3 65535][w][e]
+[s][bup 0 216 0 0 0][f 4 10 65535 0 0][vp 8 2 0 57489 65535 0]OK, então... [f 4 1]-kun![n]O que você acha disso tudo isso?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Memórias de curto prazo ficam apenas com[n]você por segundos por vez. Dito isto...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Quanto tempo você acha que pode manter[n]memórias de longo prazo?[n][f 1 3 65535][w][e]
 
@@ -352,7 +352,7 @@
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Ah, e "Hangly"! É quando você está com tanta[n]fome que o coloca no limite, e tudo o deixa[n]louco.[n][f 1 3 65535][w][e]
 
 [msg MSG_084_0_0 [Ms. Chouno]]
-[s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37207 65535 0]Então, aqui está um teste! Senhor.[f 4 1]![n][f 1 3 65535][w][e]
+[s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37207 65535 0]Então, aqui está um teste! Senhor. [f 4 1]![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Você diria que está se sentindo um pouco...[n]salgado?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]O que "Salty" significaria se usado no[n]sentido da gíria?[n][f 1 3 65535][w][e]
 

@@ -158,7 +158,7 @@
 [s][bup 0 8 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 52 65535 0]Rrrggh... eu não suporto essa maneira[n]gung-ho de fazer as coisas...[n][f 1 3 65535][w][e]
 
 [msg MSG_071_0_0 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 53 65535 0]Saí amanhã para Ann e Ryuji.[n][f 4 2]estará lá também, então você ficará bem.[n][f 1 3 65535][w][e]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 53 65535 0]Saí amanhã para Ann e Ryuji.[n][f 4 2] estará lá também, então você ficará bem.[n][f 1 3 65535][w][e]
 
 [msg MSG_072_0_0 [Futaba]]
 [s][bup 0 8 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 54 65535 0]Posso usar minha máscara?[n][f 1 3 65535][w][e]

@@ -143,7 +143,7 @@
 [s][vp 8 0 0 65 65535 0]Ooooh! Isso saiu do nada![n][f 1 3 65535][w][e]
 
 [msg MSG_043_0_0 [Ann]]
-[s][bup 0 4 7 65535 0][vp 8 0 0 61 65535 0]* tosse* h-huh!?[n][f 1 3 65535][w][e]
+[s][bup 0 4 7 65535 0][vp 8 0 0 61 65535 0]*tosse* h-huh!?[n][f 1 3 65535][w][e]
 
 [msg MSG_044_0_0 [Post-Festival MC]]
 [s][vp 8 0 0 47 65535 0]Agora isso é drama! Um garoto pego no meio[n]da juventude agridoce![n]Uma confissão impressionante de amor![n][f 1 3 65535][w][e]

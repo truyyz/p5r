@@ -152,7 +152,7 @@
 [s][bup 0 10 947 65535 0][f 4 10 65535 0 0][vp 8 2 0 57076 65535 0]R-Really!? Bem... vou tentar acreditar[n]nisso, Senpai.[n][f 1 3 65535][w][e]
 
 [msg MSG_039_0_0 [Sumire]]
-[s][bup 0 10 946 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 6 0][f 5 13 33 15 10]* risada*... Estou muito feliz em ouvir isso.[n]Acho que encontrei uma maneira de você ver o[n]verdadeiro eu.[n][f 1 3 65535][w][e]
+[s][bup 0 10 946 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 6 0][f 5 13 33 15 10]*risada*... Estou muito feliz em ouvir isso.[n]Acho que encontrei uma maneira de você ver o[n]verdadeiro eu.[n][f 1 3 65535][w][e]
 
 [msg MSG_040_0_0 [Sumire]]
 [s][bup 0 10 953 65535 0][f 4 10 65535 0 0][vp 8 2 0 57065 65535 0]C-C-Cute!? Eu-eu quero dizer, muito fofo!?[n][f 1 3 65535][w][e]

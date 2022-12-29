@@ -37,7 +37,7 @@
 [s][bup 0 4 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Não é ótimo, mas também não é ruim.[n][w][e]
 
 [msg D07_01_e407_045_mes04 [Yusuke]]
-[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4021 65535 0]Consegui um pouco de Intel também.[n]Devemos resolver o que todos nós ganhamos[n]por enquanto.[n][w][e]
+[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4021 65535 0]Consegui um pouco de Informação também.[n]Devemos resolver o que todos nós ganhamos[n]por enquanto.[n][w][e]
 
 [msg D07_01_e407_045_mes05 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Bem, dei uma olhada no mapa que obtivemos[n]mais cedo e encontrei o que parece ser uma[n]sala segura.[n][w][e]
@@ -49,7 +49,7 @@
 [s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7020 65535 0]Oooh, está perto.[n][w][e]
 
 [msg D07_01_e407_045_mes08 [Makoto]]
-[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Perfeito. Vamos passar por cima da nossa[n]intel lá.[n][w][e]
+[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Perfeito. Vamos passar por cima da nossa[n]Informação lá.[n][w][e]
 
 [msg D07_01_e407_046_mes01 [Ryuji]]
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7158 65535 0]Joker, precisamos ir para a sala segura para[n]que possamos gostar, discutir e outras[n]coisas.[n][w][e]

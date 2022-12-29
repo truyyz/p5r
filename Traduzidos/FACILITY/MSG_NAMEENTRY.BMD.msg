@@ -3,7 +3,7 @@
 [s]Deixe-me reescrever isso.[e]
 
 [msg NAME_ENTRY_CONF]
-[s][f 4 2] [f 4 1].[n]Esse é meu nome.[n][w][e]
+[s][f 4 2]  [f 4 1].[n]Esse é meu nome.[n][w][e]
 
 [msg NAME_ENTRY_CONF_PHANTOM]
 [s][f 4 28].[n]Vamos com esse nome.[n][w][e]

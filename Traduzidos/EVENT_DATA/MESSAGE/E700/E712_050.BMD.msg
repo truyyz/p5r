@@ -17,7 +17,7 @@
 [msg MSG_004_0_0 [Iwai]]
 [s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 2 0 13082 65535 0]Pensando de volta, ainda não tenho muita[n]certeza de por que eu o levei...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não apenas tive que sair do clã, mas agora[n]estou preso correndo nesta loja que eu nem[n]gosto.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]* risada* Todo dia é uma batalha difícil.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*risada* Todo dia é uma batalha difícil.[n][f 1 3 65535][w][e]
 
 [msg MSG_004_5_0 [Iwai]]
 [s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ainda não consegui dizer a Kaoru que eu[n]estava no Yakuza...[n][f 1 3 65535][w][e]
@@ -68,7 +68,7 @@
 [s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 2 0 13082 65535 0]Pfft, não me dê essa bullagem exagerada. Eu[n]não sou gentil...[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Iwai]]
-[s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 2 0 13082 65535 0][f 5 13 13 10 1004]* risada* você acertou.[n][f 1 3 65535][w][e]
+[s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 2 0 13082 65535 0][f 5 13 13 10 1004]*risada* você acertou.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Aposto que Kaoru está doente de ter um pai[n]fraco como eu.[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Iwai]]
@@ -84,7 +84,7 @@
 [s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Felizmente, é exatamente quando você[n]apareceu, garoto.[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Iwai]]
-[s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 2 0 13032 65535 0]* suspiro* Desculpe por trazer toda essa[n]merda do nada.[n][f 1 3 65535][w][e]
+[s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 2 0 13032 65535 0]*suspiro* Desculpe por trazer toda essa[n]merda do nada.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]... você prolly não quer nada comigo depois[n]disso, hein?[n][f 1 3 65535][w][e]
 
 [sel SEL_022_0_0 top]

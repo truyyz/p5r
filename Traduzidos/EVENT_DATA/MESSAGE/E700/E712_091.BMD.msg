@@ -148,7 +148,7 @@
 
 [msg MSG_038_0_0 [Iwai]]
 [s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 2 0 13089 65535 0]Heh...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]* risada* Attaboy, Kaoru.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*risada* Attaboy, Kaoru.[n][f 1 3 65535][w][e]
 [s][bup 0 104 0 0 0][f 4 10 65535 0 0][f 4 24 0 4 0 59 5 100][vp 8 0 0 0 65535 0]Ouça, Masa... vamos acabar com isso, aqui,[n]agora. Podemos começar de novo.[n][f 1 3 65535][w][e]
 
 [msg MSG_039_0_0 [Masa]]
@@ -237,7 +237,7 @@
 [s][vp 8 0 0 0 65535 0]Por que não voltamos para aquele restaurante?[n][f 1 3 65535][w][e]
 
 [msg MSG_065_0_0 [Iwai]]
-[s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 2 0 13082 65535 0]* suspiro* Você come seriamente em um nível[n]inteiro de um nível... você pode até acabar[n]mais alto do que eu algum dia.[n][f 1 3 65535][w][e]
+[s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 2 0 13082 65535 0]*suspiro* Você come seriamente em um nível[n]inteiro de um nível... você pode até acabar[n]mais alto do que eu algum dia.[n][f 1 3 65535][w][e]
 
 [msg MSG_066_0_0 [Iwai]]
 [s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 2 0 13051 65535 0]Vamos lá, vamos lá.[n][f 1 3 65535][w][e]

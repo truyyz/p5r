@@ -1418,8 +1418,8 @@
 [s]Em vez de você apontar uma arma para mim, eu[n]preferiria um [n][f 2 5 3 9999 4].[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_REQUIRE_2]
-[s]* tosse* isso não é bom... minha condição...[n]* tosse* ahem...[n][w][e]
-[s]Essa febre * tosse * é insuportável.[n]Se você faria, eu posso ter um [n][f 2 5 3 9999 4]?[n][w][e]
+[s]*tosse* isso não é bom... minha condição...[n]*tosse* ahem...[n][w][e]
+[s]Essa febre* tosse* é insuportável.[n]Se você faria, eu posso ter um [n][f 2 5 3 9999 4]?[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_REQUIRE_3]
 [s]... isso não é insuportável!? Quando o pólen[n]no ar faz seus olhos, com coceira!?[n][w][e]

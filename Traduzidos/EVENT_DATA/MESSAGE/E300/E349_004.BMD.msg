@@ -30,7 +30,7 @@
 [s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Garantimos que apenas pegamos o tesouro[n]também...[n][f 1 3 65535][w][e]
 
 [msg MSG_008_5_0 [Haru]]
-[s][bup 0 7 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]* suspiro* eu deveria ligar para casa![n][f 1 3 65535][w][e]
+[s][bup 0 7 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]*suspiro* eu deveria ligar para casa![n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Ann]]
 [s][bup 0 4 503 0 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Isso- isso não é nossa culpa... é?[n][f 1 3 65535][w][e]

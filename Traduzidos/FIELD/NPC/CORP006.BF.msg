@@ -50,7 +50,7 @@
 [s]Eu quero aprender mais sobre você.[e]
 
 [msg MSG_C06_ACTION_D01_33_01 [Ann]]
-[s][bup 0 4 3 65535 0][f 4 23 1 226 14 10 13 10][f 4 23 1 206 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 6028 65535 0]Isso é verdade... * suspiro * bem, apenas[n]nos avise quando estiver pronto.[n][w][e]
+[s][bup 0 4 3 65535 0][f 4 23 1 226 14 10 13 10][f 4 23 1 206 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 6028 65535 0]Isso é verdade... * suspiro* bem, apenas[n]nos avise quando estiver pronto.[n][w][e]
 
 [msg MSG_C06_ACTION_D01_33_00 [Ann]]
 [s][bup 0 4 3 65535 0][f 4 23 1 226 14 10 13 10][f 4 23 1 206 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 6047 65535 0]Agradeço a oferta... mas não estou realmente[n]com vontade de me divertir agora...[n][w][e]

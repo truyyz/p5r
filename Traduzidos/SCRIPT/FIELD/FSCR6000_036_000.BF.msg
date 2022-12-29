@@ -38,7 +38,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 0 0 0]Vamos![n][w][e]
 
 [msg MSG_034_0_0 [Shadow Kishi]]
-[s][vp 8 2 1 46865 65535 0]* Sob* meu chefe de muito tempo atrás[n]costumava me assediar. Eu pensei que seria[n]bom se eu fiz a mesma coisa...[n][w][e]
+[s][vp 8 2 1 46865 65535 0]*Sob* meu chefe de muito tempo atrás[n]costumava me assediar. Eu pensei que seria[n]bom se eu fiz a mesma coisa...[n][w][e]
 
 [sel SEL_035_0_0 top]
 [s]Você deveria ter aprendido.[e]

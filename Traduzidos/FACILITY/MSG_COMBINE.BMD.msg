@@ -175,7 +175,7 @@
 [s]Mesmo não temos idéia do que essa[n]personalidade vai se transformar. Você tem[n]certeza disso, certo?[n][w][e]
 
 [msg FCL_MSG_COMBINE_PUB_RESU [Igor]]
-[s]* risada* Os resultados para sua satisfação?[n][w][e]
+[s]*risada* Os resultados para sua satisfação?[n][w][e]
 
 [msg FCL_MSG_COMBINE_PUB_TUTO [Caroline]]
 [s][bup 0 102 0 0 0][f 4 10 65535 0 0]Primeiro, escolha uma de suas próprias[n]personas que você quer fundir![n][w][e]

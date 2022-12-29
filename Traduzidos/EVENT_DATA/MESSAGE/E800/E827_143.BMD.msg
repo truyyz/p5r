@@ -11,7 +11,7 @@
 [s][bup 0 109 500 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 15 10 1009]Aproveitar oportunidades como essa é a[n]melhor maneira de aliviar o estresse, você[n]sabe![n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Kawakami]]
-[s][bup 0 109 501 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 15 15 1009]* risada* eu não vou.[n][f 1 3 65535][w][e]
+[s][bup 0 109 501 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 15 15 1009]*risada* eu não vou.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Esta é uma batalha... uma guerra total entre[n]açúcar e estresse![n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Kawakami]]

@@ -20,7 +20,7 @@
 [s][vp 8 0 0 0 4 0]Então, novamente, o trabalho é para[n]perdedores. Espero encontrar algo fácil.[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Sleepy-Looking Guy]]
-[s][vp 8 2 0 46252 4 0]* Bocejo* As segundas-feiras são uma[n]arrastada...[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 46252 4 0]*Bocejo* As segundas-feiras são uma[n]arrastada...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 4 0]Por que eles não poderiam nos dar hoje também?[n]Temos o resto da semana de folga a partir de[n]amanhã...[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Serious-Looking Guy]]
@@ -377,7 +377,7 @@
 [s][vp 8 0 0 0 4 0]Não poderemos convidar amigos de outras[n]escolas agora que estamos realizando o[n]festival em um dia da semana.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 4 0]Também será um inconveniente para quem já[n]convidamos.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 4 0]E a festa pós-festival?[n]Haverá pessoas suficientes para o aluno[n]compartilhar especial?[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 4 0]* suspiro* vai ser um festival estranho com[n]moral tão baixo...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 4 0]*suspiro* vai ser um festival estranho com[n]moral tão baixo...[n][f 1 3 65535][w][e]
 
 [msg MSG_096_0_0 [Fad-Following Girl]]
 [s][vp 8 2 0 40602 4 0]O que há com Akechi? Por que ele parou de[n]culpar os ladrões fantasmas?[n][f 1 3 65535][w][e]
@@ -436,7 +436,7 @@
 [s][vp 8 0 0 0 4 0]Não me diga que você compra esse BS oculto.[n]Tenho certeza de que é uma coincidência.[n][f 1 3 65535][w][e]
 
 [msg MSG_111_0_0 [Sleepy-Looking Guy]]
-[s][vp 8 2 0 42202 4 0]* Bocejo* começando a aquecer. O terceiro[n]semestre está quase acabando.[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 42202 4 0]*Bocejo* começando a aquecer. O terceiro[n]semestre está quase acabando.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 4 0]Eu sei que é assim todos os anos, mas cara,[n]o tempo realmente voou...[n][f 1 3 65535][w][e]
 
 [msg MSG_112_0_0 [Noncommittal Guy]]
@@ -445,7 +445,7 @@
 [msg MSG_113_0_0 [Sleepy-Looking Guy]]
 [s][vp 8 0 0 0 4 0]Não pensei neles há algum tempo.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 4 0]Por todas as contas, a morte do diretor foi[n]um acidente. Acho que talvez fizemos muito[n]disso.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 4 0]* Bocejo* Espero que algo interessante[n]aconteça novamente.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 4 0]*Bocejo* Espero que algo interessante[n]aconteça novamente.[n][f 1 3 65535][w][e]
 
 [msg MSG_114_0_0 [Third-Year Guy]]
 [s][vp 8 2 0 42702 4 0]Eu me pergunto quando Okumura-san começará a[n]voltar para a escola. Eu sei o funeral em[n]breve...[n][f 1 3 65535][w][e]

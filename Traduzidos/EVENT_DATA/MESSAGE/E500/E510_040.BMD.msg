@@ -5,7 +5,7 @@
 [s][bup 0 5 0 7 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Não há necessidade de modéstia. Depois de[n]tudo o que passamos, não há estranhos aqui.[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Sim! Você realmente ajudou [f 4 2]fora também.[n][f 1 3 65535][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Sim! Você realmente ajudou [f 4 2] fora também.[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Kasumi]]
 [s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]Nesse caso, aceitarei sua oferta.[n][f 1 3 65535][w][e]

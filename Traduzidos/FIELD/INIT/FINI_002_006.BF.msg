@@ -83,7 +83,7 @@
 
 [msg MSG_238101_008_00 [Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]A sala do conselho estudantil está no [n][clr 27]terceiro andar [clr 27]. Apresse-se e vá.[n][w][e]
-[s][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]* Bocejo* Fico tão sonolento nessa hora do[n]dia...[n][w][e]
+[s][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]*Bocejo* Fico tão sonolento nessa hora do[n]dia...[n][w][e]
 
 [msg msg_tutorial_save_NX [How to Save]]
 [s]Você pode salvar seu progresso em sua mesa.[n][w][e]
@@ -2068,31 +2068,31 @@
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1178 65535 0]Ei, o prazo está quase aqui![n]Temos que ir para lembranças amanhã![n][w][e]
 
 [msg MSG_NIGHT_MYROOM_000_02 [Morgana]]
-[s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 1 1178 65535 0]Não há nada que possamos fazer agora... *[n]suspiro * o que você estava fazendo...[n][w][e]
+[s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 1 1178 65535 0]Não há nada que possamos fazer agora... *[n]suspiro* o que você estava fazendo...[n][w][e]
 
 [msg MSG_NIGHT_MYROOM_000_03_ [Morgana]]
-[s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 1 1178 65535 0]* suspiro* Acho que tudo o que podemos fazer[n]é esperar até a reunião do conselho...[n][w][e]
+[s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 1 1178 65535 0]*suspiro* Acho que tudo o que podemos fazer[n]é esperar até a reunião do conselho...[n][w][e]
 
 [msg MSG_NIGHT_MYROOM_000_03__2 [Morgana]]
-[s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 1 1178 65535 0]* suspiro* Acho que tudo o que podemos fazer[n]é esperar até que a exposição termine...[n][w][e]
+[s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 1 1178 65535 0]*suspiro* Acho que tudo o que podemos fazer[n]é esperar até que a exposição termine...[n][w][e]
 
 [msg MSG_NIGHT_MYROOM_000_03__3 [Morgana]]
-[s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 1 1178 65535 0]* suspiro* Acho que tudo o que podemos fazer[n]é esperar até o prazo com Kaneshiro...[n][w][e]
+[s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 1 1178 65535 0]*suspiro* Acho que tudo o que podemos fazer[n]é esperar até o prazo com Kaneshiro...[n][w][e]
 
 [msg MSG_NIGHT_MYROOM_000_03__4 [Morgana]]
-[s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 1 1178 65535 0]* suspiro* Acho que tudo o que podemos fazer[n]é esperar até o prazo de Medjed...[n][w][e]
+[s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 1 1178 65535 0]*suspiro* Acho que tudo o que podemos fazer[n]é esperar até o prazo de Medjed...[n][w][e]
 
 [msg MSG_NIGHT_MYROOM_000_03__5 [Morgana]]
-[s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 1 1178 65535 0]* suspiro* Acho que tudo o que podemos fazer[n]é esperar agora...[n][w][e]
+[s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 1 1178 65535 0]*suspiro* Acho que tudo o que podemos fazer[n]é esperar agora...[n][w][e]
 
 [msg MSG_NIGHT_MYROOM_000_03__6 [Morgana]]
-[s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 1 1178 65535 0]* suspiro* Acho que tudo o que podemos fazer[n]é esperar agora...[n][w][e]
+[s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 1 1178 65535 0]*suspiro* Acho que tudo o que podemos fazer[n]é esperar agora...[n][w][e]
 
 [msg MSG_NIGHT_MYROOM_000_03__7 [Morgana]]
-[s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 1 1178 65535 0]* suspiro* Acho que tudo o que podemos fazer[n]é esperar agora...[n][w][e]
+[s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 1 1178 65535 0]*suspiro* Acho que tudo o que podemos fazer[n]é esperar agora...[n][w][e]
 
 [msg MSG_NIGHT_MYROOM_000_03__8 [Morgana]]
-[s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 1 1178 65535 0]* suspiro* Acho que tudo o que podemos fazer[n]é esperar agora...[n][w][e]
+[s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 1 1178 65535 0]*suspiro* Acho que tudo o que podemos fazer[n]é esperar agora...[n][w][e]
 
 [msg MSG_NIGHT_MYROOM_001_00_ [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1027 65535 0]Vamos roubar o coração de Kamoshida, certo?[n]É melhor agirmos rápido, ou estaremos com[n]problemas.[n][w][e]
@@ -2146,7 +2146,7 @@
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1176 65535 0]Se você não enviar o cartão de visita[n]amanhã, tudo acabou! Entendi!?[n][w][e]
 
 [msg MSG_NIGHT_MYROOM_001_03 [Morgana]]
-[s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 1 1178 65535 0]* suspiro* é tarde demais agora...[n]O que você estava fazendo...[n][w][e]
+[s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 1 1178 65535 0]*suspiro* é tarde demais agora...[n]O que você estava fazendo...[n][w][e]
 
 [msg MSG_NIGHT_GAMEOVER_NOROU [Morgana]]
 [s][bup 0 3 7 0 0][f 4 10 65535 0 0][vp 8 2 1 1178 65535 0]... Parece que não chegamos a tempo.[n][w][e]

@@ -41,7 +41,7 @@
 [s][vp 8 0 0 0 65535 0]Chihaya está olhando para mim...[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Chihaya]]
-[s][bup 0 113 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]* risada* você tinha um pouco de creme em[n]seu rosto, [n][f 4 1]-san.[n][f 1 3 65535][w][e]
+[s][bup 0 113 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]*risada* você tinha um pouco de creme em[n]seu rosto, [n][f 4 1]-san.[n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Chihaya]]
 [s][bup 0 113 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]It's kind of cliché, isn't it? Even I've seen[n]Aquele.[n][f 1 3 65535][w][e]
@@ -68,7 +68,7 @@
 [s]Eu não fiz nada.[e]
 
 [msg MSG_020_0_0 [Chihaya]]
-[s][bup 0 113 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]* risando* bem, não vou empurrá-lo mais.[n][f 1 3 65535][w][e]
+[s][bup 0 113 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]*risando* bem, não vou empurrá-lo mais.[n][f 1 3 65535][w][e]
 [s][bup 0 113 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Mas há uma coisa pela qual quero agradecer,[n]especificamente. Não como um ladrão[n]fantasma, mas como pessoa.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]Obrigado por me ver como eu sou.[n]Não como uma donzela, ou um monstro...[n][f 1 3 65535][w][e]
 [s][bup 0 113 6 65535 0][f 4 10 65535 0 0][vp 8 0 0 26 65535 0]Mas vendo quem eu realmente sou, e...[n]me amando por isso.[n][f 1 3 65535][w][e]

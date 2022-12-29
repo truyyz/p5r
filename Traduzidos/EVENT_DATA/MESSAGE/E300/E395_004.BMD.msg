@@ -3,7 +3,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Agora, o programa NAV não é um aplicativo[n]tangível em si, então adulterar diretamente[n]era impossível.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Mas já sabíamos que ir a um palácio que você[n]visitou antes, tudo o que você precisava[n]fazer era tocar em seu marcador.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]E como a tela de tela é realmente apenas um[n]sinal digital, você pode fingir com um[n]programa.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Quando Akechi olhou para [f 4 2]telefone, o aplicativo de autenticação[n]facial ativado...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Quando Akechi olhou para [f 4 2] telefone, o aplicativo de autenticação[n]facial ativado...[n][f 1 3 65535][w][e]
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]E a partir daí, eu tinha uma macro definida[n]para garantir que seu navegação acionasse[n]automaticamente sem que ele soubesse.[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Morgana]]

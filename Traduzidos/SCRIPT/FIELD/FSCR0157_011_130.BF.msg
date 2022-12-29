@@ -16,7 +16,7 @@
 [s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ok, mostre-nos seus prêmios agora.[n]Queremos trocar nossas moedas pelo cartão de[n]um membro.[n][w][e]
 
 [msg e382_105_mes06 [Shadow Dealer]]
-[s]* risos* Temos prêmios, mas isso[n]infelizmente não é um deles.[n][w][e]
+[s]*risos* Temos prêmios, mas isso[n]infelizmente não é um deles.[n][w][e]
 
 [msg e382_105_mes07 [Makoto]]
 [s][bup 0 6 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2194 65535 0]O que? Então, como devemos chegar ao chão do[n]gerente...?[n][w][e]

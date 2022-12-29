@@ -26,7 +26,7 @@
 
 [msg D156_13_miniEV01_mes09 [Makoto]]
 [s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2128 65535 0]Não há necessidade de desperdiçar nossa[n]energia assim.[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Se pudermos [clr 2]conversa [clr 27]a cada um e compare o que eles dizem ao [clr 2]Intel [clr 27]Temos à mão...[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Se pudermos [clr 2]conversa [clr 27]a cada um e compare o que eles dizem ao [clr 2]Informação [clr 27]Temos à mão...[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Dessa forma, podemos dizer qual é o chefe da[n]seção.[n][w][e]
 
 [msg D156_13_miniEV01_02_mes0 [Makoto]]

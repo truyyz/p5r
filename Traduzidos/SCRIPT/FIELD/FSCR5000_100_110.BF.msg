@@ -17,7 +17,7 @@
 [s][f 4 23 1 65535 3 5 11 5][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 1 0 0 6 0 0]Vocês dois são exemplos perfeitos do que o[n]escapismo pode significar.[n][w][e]
 
 [msg JULY_AZITO_TALK_01_mes07 [Makoto]]
-[s][f 4 23 1 65535 3 5 11 5][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 1 0 0 7 0 0]* suspiro* e eu só posso imaginar qual será[n]o resultado final.[n][w][e]
+[s][f 4 23 1 65535 3 5 11 5][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 1 0 0 7 0 0]*suspiro* e eu só posso imaginar qual será[n]o resultado final.[n][w][e]
 
 [msg JULY_AZITO_TALK_01_mes08 [Ryuji]]
 [s][f 4 23 1 65535 3 5 11 5][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 1 0 0 8 0 0]Seja como for, acabou agora. Quem se importa[n]mais com isso!?[n][w][e]

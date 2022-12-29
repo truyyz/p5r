@@ -35,7 +35,7 @@
 [s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 2 0 13082 65535 0][f 5 13 13 5 1004]Heh. Você não foi para sair e dizer...[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Iwai]]
-[s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 2 0 13082 65535 0][f 5 13 13 10 1004]* risada* obrigado, garoto.[n][f 1 3 65535][w][e]
+[s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 2 0 13082 65535 0][f 5 13 13 10 1004]*risada* obrigado, garoto.[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Iwai]]
 [s][bup 0 104 3 0 0][f 4 10 65535 0 0][vp 8 2 0 13090 65535 0]Ei, não o antagonize...[n][f 1 3 65535][w][e]

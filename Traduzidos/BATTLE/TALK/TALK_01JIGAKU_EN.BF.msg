@@ -41,7 +41,7 @@
 [s]... Tudo bem, eu vou lançá-los.[n][w][e]
 
 [msg TalkMsg_EN_AGREE_01]
-[s]* Bocejo* Estou entediado. Vou deixar você[n]ter de volta.[n][w][e]
+[s]*Bocejo* Estou entediado. Vou deixar você[n]ter de volta.[n][w][e]
 
 [msg TalkMsg_EN_SLAY_00]
 [s]Ooh, tão frio. Você vai abandonar seu amigo?[n]Bem, não é o meu problema se eles te odeiam[n]por isso...[n][w][e]

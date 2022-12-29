@@ -118,7 +118,7 @@
 [s]Não é incrível termos alguém assim na nossa[n]escola? Tudo o que posso fazer é uma ponte,[n]eu mesmo! Ahaha![n][w][e]
 
 [msg MSG_GAKKOJIMUINN_005_01__6 [Kind Faculty Member]]
-[s][f 4 23 1 8 3 10 0 0][vp 8 2 1 0 8 0]Honestamente, como alguém gosta dela...[n]* suspiro* eu não entendo...[n][w][e]
+[s][f 4 23 1 8 3 10 0 0][vp 8 2 1 0 8 0]Honestamente, como alguém gosta dela...[n]*suspiro* eu não entendo...[n][w][e]
 
 [msg MSG_GAKKOJIMUINN_006_0_0 [Flashy Student]]
 [s][f 4 23 1 9 3 10 0 10][vp 8 2 1 0 9 0]Por que todos os idiotas arrogantes acabam[n]sendo tão baixos?[n]Pervo-shida. Mada-robber! Hahaha![n][w][e]
@@ -1336,14 +1336,14 @@
 [s]Eca. Estou trabalhando tão duro, mas é ela[n]quem recebe o tratamento preferencial. Isso[n]é tão injusto...[n][w][e]
 
 [msg MSG_VALLEY_NPC08_0_0 [Female Student in a Jersey]]
-[s][f 4 23 1 81 3 10 0 10][vp 8 2 1 0 81 0]* suspiro* já é julho.[n]Está quase na hora das nossas últimas férias[n]de verão.[n][w][e]
+[s][f 4 23 1 81 3 10 0 10][vp 8 2 1 0 81 0]*suspiro* já é julho.[n]Está quase na hora das nossas últimas férias[n]de verão.[n][w][e]
 [s][vp 8 2 1 0 81 0]Acabei de me concentrar em nossa equipe[n]ultimamente, mas já é hora de fazer alguns[n]estudos.[n][w][e]
 
 [msg MSG_VALLEY_NPC08_1_0 [Female Volleyball Player]]
 [s][f 4 23 1 80 3 10 0 10][vp 8 2 1 0 80 0]Eu decidi ir a uma escola de Cram. Não[n]podemos perder tempo brincando...[n][w][e]
 
 [msg MSG_VALLEY_NPC08_01_0_0 [Female Volleyball Player]]
-[s][f 4 23 1 80 3 10 0 10][vp 8 2 1 0 80 0]Acabei assistindo vídeos até a manhã... *[n]bocejo * estou tão com mangueira...[n][w][e]
+[s][f 4 23 1 80 3 10 0 10][vp 8 2 1 0 80 0]Acabei assistindo vídeos até a manhã... *[n]bocejo* estou tão com mangueira...[n][w][e]
 
 [msg MSG_VALLEY_NPC08_01_1_0 [Female Student in a Jersey]]
 [s][f 4 23 1 81 3 10 0 10][vp 8 2 1 0 81 0]Você achou algo interessante? A única coisa[n]que alguém está falando são os ladrões[n]Phantom e esses hackers.[n][w][e]

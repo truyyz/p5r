@@ -251,7 +251,7 @@
 
 [msg msg_combine_PERSONA063 [Leanan Sidhe]]
 [s]Eu sou [clr 1][var 1][clr 27].[n][w][e]
-[s]Eu nunca vou deixar seu lado. Esta máscara é[n]a prova disso... *risada * [n][w][e]
+[s]Eu nunca vou deixar seu lado. Esta máscara é[n]a prova disso... *risada* [n][w][e]
 
 [msg msg_combine_PERSONA064 [Cybele]]
 [s]Eu sou [clr 1][var 1][clr 27].[n][w][e]

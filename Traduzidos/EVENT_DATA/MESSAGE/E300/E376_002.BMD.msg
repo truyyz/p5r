@@ -56,7 +56,7 @@
 [s][bup 0 105 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 26 65535 0]Talvez eu esteja pensando demais nas[n]coisas...[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Sae]]
-[s][bup 0 105 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 27 65535 0]Ei![f 4 1]-kun![n][f 1 3 65535][w][e]
+[s][bup 0 105 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 27 65535 0]Ei! [f 4 1]-kun![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 28 65535 0]Você precisa manter seu foco![n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Sae]]

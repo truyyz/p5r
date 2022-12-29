@@ -287,7 +287,7 @@
 [s][vp 8 2 1 0 10 0]Por que você fica louco com isso? Eu pensei[n]muito e duro, e...[n][w][e]
 
 [msg MSG_MUSICIAN_014_0_0 [Young Rocker]]
-[s][vp 8 2 1 0 10 0]* suspiro* o que diabos é "rock" de qualquer[n]maneira...[n][w][e]
+[s][vp 8 2 1 0 10 0]*suspiro* o que diabos é "rock" de qualquer[n]maneira...[n][w][e]
 
 [sel SEL_MUSICIAN_014_0_0 top]
 [s]Um gênero musical.[e]
@@ -1438,7 +1438,7 @@
 [s][f 4 23 1 44 3 10 0 0][vp 8 2 1 0 44 0]Não se preocupe. Sua missão já foi nomeada.[n]A boa notícia chegará a todos a tempo![n][w][e]
 
 [msg MSG_DEMOKATUDO_006_0_0 [Protesting Man]]
-[s][vp 8 2 1 0 44 0]A estação chuvosa encolhe o sol,[n]enfraquecendo meu poder... *geme * [n][w][e]
+[s][vp 8 2 1 0 44 0]A estação chuvosa encolhe o sol,[n]enfraquecendo meu poder... *geme* [n][w][e]
 [s][vp 8 2 1 0 44 0]No entanto, o Deus do Sol não será impedido[n]por essas coisas! Vou continuar a proteger[n]Shibuya![n][w][e]
 [s][vp 8 2 1 0 44 0]Aqueles assustados pela organização[n]criminosa precisam aceitar apenas o poder[n]do Deus do Sol![n][w][e]
 
@@ -1460,7 +1460,7 @@
 [s][f 4 23 1 45 2 10 0 0][vp 8 2 1 0 45 0]Não posso ser assustado pela chuva... o povo[n]de Shibuya está em perigo...[n][w][e]
 
 [msg MSG_DEMOKATUDO_006_7_0 [Man with Clear Eyes]]
-[s][f 4 23 1 45 2 10 0 0][vp 8 2 1 0 45 0]* Sniffle*... obrigado. Você certamente é[n]abençoado pelo poder do deus do sol...[n][w][e]
+[s][f 4 23 1 45 2 10 0 0][vp 8 2 1 0 45 0]*Sniffle*... obrigado. Você certamente é[n]abençoado pelo poder do deus do sol...[n][w][e]
 
 [msg MSG_DEMOKATUDO_006_8_0 [Man with Clear Eyes]]
 [s][f 4 23 1 45 2 10 0 0][vp 8 2 1 0 45 0]Os ladrões fantasmas, os apóstolos do deus[n]do sol... onde estão neste dia chuvoso?[n][w][e]
@@ -1505,7 +1505,7 @@
 [s][f 4 23 1 45 2 10 0 0][vp 8 2 1 0 45 0]O chefão da Organização do Crime caiu![n]Elogie os ladrões fantasmas por nos salvar![n][w][e]
 
 [msg MSG_DEMOKATUDO_008_1_0 [Protesting Man]]
-[s][vp 8 2 1 0 44 0]* Grunt* Isso também é graças ao poder do[n]Deus do Sol e sua bênção dos ladrões[n]fantasmas.[n][w][e]
+[s][vp 8 2 1 0 44 0]*Grunt* Isso também é graças ao poder do[n]Deus do Sol e sua bênção dos ladrões[n]fantasmas.[n][w][e]
 
 [msg MSG_DEMOKATUDO_008_2_0 [Man with Clear Eyes]]
 [s][f 4 23 1 45 3 10 0 0][vp 8 2 1 0 45 0]Hum, não pretendo contestar você, deus do[n]sol, mas achei que seu poder estava fraco[n]durante a estação das chuvas?[n][w][e]
@@ -1576,7 +1576,7 @@
 [s][f 4 23 1 45 3 10 0 0][vp 8 2 1 0 45 0]O que você está dizendo, Deus do sol!? Você[n]é o Salvador do mundo![n][w][e]
 
 [msg MSG_DEMOKATUDO_015_0_0 [Man with Clear Eyes]]
-[s][f 4 23 1 45 2 10 0 0][vp 8 2 1 0 45 0]* suspiro* O Deus do Sol se escondeu...[n][w][e]
+[s][f 4 23 1 45 2 10 0 0][vp 8 2 1 0 45 0]*suspiro* O Deus do Sol se escondeu...[n][w][e]
 [s][vp 8 2 1 0 45 0]A onda da escuridão se espalha... Deus do[n]sol...[n]por favor volte...[n][w][e]
 
 [sel SEL_DEMOKATUDO_015_0_0 top]
@@ -1591,7 +1591,7 @@
 [s][f 4 23 1 45 2 10 0 0][vp 8 2 1 0 45 0]Você não ouviu? Os supostos apóstolos do[n]Deus do Sol caíram na escuridão...[n][w][e]
 
 [msg MSG_DEMOKATUDO_015_3_0 [Man with Clear Eyes]]
-[s][f 4 23 1 45 2 10 0 0][vp 8 2 1 0 45 0]Isso é terrível... * gemido *... Até o Deus[n]do Sol foi consumido pela escuridão...[n][w][e]
+[s][f 4 23 1 45 2 10 0 0][vp 8 2 1 0 45 0]Isso é terrível... * gemido*... Até o Deus[n]do Sol foi consumido pela escuridão...[n][w][e]
 
 [msg MSG_DEMOKATUDO_015_4_0 [Man with Clear Eyes]]
 [s][f 4 23 1 45 2 10 0 0][vp 8 2 1 0 45 0]Deus do sol, o povo está assustado! Agora é[n]a hora de você lançar sua luz no caminho...[n][w][e]
@@ -3968,7 +3968,7 @@
 [s][vp 8 2 1 0 606 0]Eu não disse para você me comprar alguns[n]doces na cidade central e voltar aqui em[n]três minutos? HM?[n][w][e]
 
 [msg Quest23_target_00_01 [Out-of-Breath Boy]]
-[s][f 4 23 1 607 3 10 0 0][vp 8 2 1 0 607 0]* Pant** Pant*... sim, mas...* Pant**[n]Pant*... estava realmente lotado, e...[n][w][e]
+[s][f 4 23 1 607 3 10 0 0][vp 8 2 1 0 607 0]*Pant** Pant*... sim, mas...* Pant**[n]Pant*... estava realmente lotado, e...[n][w][e]
 
 [msg Quest23_target_00_02 [Sadao Hashisato]]
 [s][f 4 23 1 606 3 10 0 0][vp 8 2 1 0 606 0]E o que? Depende de você fazer algo sobre[n]isso![n][w][e]
@@ -4001,7 +4001,7 @@
 [s][vp 8 2 65535 0 0 0]O cartão de visita foi entregue com sucesso.[n]Vamos entrar em lembranças...[n][w][e]
 
 [msg Quest23_target_02_00 [Out-of-Breath Boy]]
-[s][f 4 23 1 607 3 10 0 0][vp 8 2 1 0 607 0]* Pant** Pant* Desculpe, eu demorei tanto,[n]Hashisato-senpai...* Pant** Pant* Você[n]queria me ver?[n][w][e]
+[s][f 4 23 1 607 3 10 0 0][vp 8 2 1 0 607 0]*Pant** Pant* Desculpe, eu demorei tanto,[n]Hashisato-senpai...* Pant** Pant* Você[n]queria me ver?[n][w][e]
 
 [msg Quest23_target_02_01 [Sadao Hashisato]]
 [s][f 4 23 1 606 3 10 0 0][vp 8 2 1 0 606 0]Oh, você não teve que correr aqui.[n]Vamos comer algo.[n][w][e]
@@ -4023,14 +4023,14 @@
 [s][vp 8 2 65535 0 0 0]O alvo mudou de coração, sem complicações...[n][w][e]
 
 [msg Quest26_target_00_00 [Nene Otsubo]]
-[s][f 4 23 1 608 3 10 0 0][vp 8 2 1 0 608 0]Oh meu, que coincidência. Isso deve ser o[n]destino... *risada * [n][w][e]
+[s][f 4 23 1 608 3 10 0 0][vp 8 2 1 0 608 0]Oh meu, que coincidência. Isso deve ser o[n]destino... *risada* [n][w][e]
 
 [msg Quest26_target_00_01 [Timid New-Hire]]
 [s][f 4 23 1 609 3 10 0 0][vp 8 2 1 0 609 0]Oh... H-Hello, diretor...[n][w][e]
 
 [msg Quest26_target_00_02 [Nene Otsubo]]
 [s][f 4 23 1 608 3 10 0 0][vp 8 2 1 0 608 0]Você é muito tímido... você está nervoso?[n]Isso é adorável.[n][w][e]
-[s][vp 8 2 1 0 608 0]Eu te disse. Me chame de "Nene-san" quando[n]somos apenas nós dois... *risando * [n][w][e]
+[s][vp 8 2 1 0 608 0]Eu te disse. Me chame de "Nene-san" quando[n]somos apenas nós dois... *risando* [n][w][e]
 
 [msg Quest26_target_00_03 [Timid New-Hire]]
 [s][f 4 23 1 609 3 10 0 0][vp 8 2 1 0 609 0]U-uh... eu-eu não deveria...[n][w][e]
@@ -4388,7 +4388,7 @@
 
 [msg MSG_0103_0108_MADARAME_0_6 [Madarame]]
 [s][bup 0 203 4 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Uma colaboração com Yusuke...?[n][w][e]
-[s][f 4 23 1 65535 3 10 0 10][bup 0 203 1 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]* risada* Sim, acho que é uma boa ideia.[n]Agora mal posso esperar que esta exposição[n]chegue.[n][w][e]
+[s][f 4 23 1 65535 3 10 0 10][bup 0 203 1 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]*risada* Sim, acho que é uma boa ideia.[n]Agora mal posso esperar que esta exposição[n]chegue.[n][w][e]
 
 [msg MSG_0103_0108_MADARAME_E [Man in a Suit]]
 [s][f 4 23 1 871 3 10 0 10][vp 8 2 1 0 871 0]Uma exposição conjunta de Madarame-sensei e[n]seu aprendiz... Tenho certeza de que todos[n]estarão falando sobre isso![n][w][e]

@@ -8,7 +8,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Isso é, bem... esse navio já navegou,[n]então...[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Takemi]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 108 5 301 1][vp 8 2 0 14028 65535 0]* suspiro*... que dor.[n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 108 5 301 1][vp 8 2 0 14028 65535 0]*suspiro*... que dor.[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Takemi]]
 [s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você se lembra daquela garota do outro dia?[n]O chefe de gabinete de Oyamada?[n][f 1 3 65535][w][e]
@@ -56,7 +56,7 @@
 [msg MSG_012_0_0 [Takemi]]
 [s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 2 0 14064 65535 0]Bem, isso não importa...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O desenvolvimento do medicamento foi[n]suspenso, então eu não tinha motivos para[n]ficar naquele hospital.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Pelo menos agora posso continuar trabalhando[n]como clínico geral, em meus próprios[n]termos...[n]com minha cobaia.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Pelo menos agora posso continuar trabalhando[n]como clínico geral, em meus próprios termos...[n]com minha cobaia.[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Takemi]]
 [s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Esse é o novo remédio que tenho[n]experimentado em você. Esta versão está no[n]estágio final de teste.[n][f 1 3 65535][w][e]

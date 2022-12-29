@@ -334,7 +334,7 @@
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ok, hora de trabalhar...[n][f 1 3 65535][w][e]
 
 [msg MSG_097_0_0 [Ann]]
-[s][vp 8 2 0 6197 65535 0]* suspiro* Somente.[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 6197 65535 0]*suspiro* Somente.[n][f 1 3 65535][w][e]
 
 [msg MSG_098_0_0 [Ann]]
 [s][bup 0 4 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 6110 65535 0]Oh, então é assim que você resolve esse![n]Onde você aprendeu isso?[n][f 1 3 65535][w][e]
@@ -576,7 +576,7 @@
 [s][f 4 10 65535 0 0][f 5 13 10 5 8][vp 8 0 0 0 65535 0]Eu vou cuidar de tudo que você faz, [n][f 4 2].[n][f 1 3 65535][w][e]
 
 [msg MSG_166_0_0 [Futaba]]
-[s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]* Stare* Ah, e se você parar de estudar, eu[n]atirarei em você com uma viga a laser![n][f 1 3 65535][w][e]
+[s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*Stare* Ah, e se você parar de estudar, eu[n]atirarei em você com uma viga a laser![n][f 1 3 65535][w][e]
 
 [msg MSG_167_0_0 [Futaba]]
 [s][vp 8 2 0 9126 65535 0]...Vamos. Meus olhos estão cansados.[n][f 1 3 65535][w][e]

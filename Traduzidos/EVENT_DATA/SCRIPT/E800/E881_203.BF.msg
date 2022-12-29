@@ -17,7 +17,7 @@
 [s][bup 0 2 1 65535 1][f 4 10 65535 0 0][vp 1 0 0 4 0 0]Você tem razão! Estamos ajudando![n][f 1 3 65535][w][e]
 
 [msg MSG_0516_004_00 [Ryuji]]
-[s][bup 0 2 3 65535 1][f 4 10 65535 0 0][vp 1 0 0 5 0 0]* suspiro* eu sabia disso...[n][f 1 3 65535][w][e]
+[s][bup 0 2 3 65535 1][f 4 10 65535 0 0][vp 1 0 0 5 0 0]*suspiro* eu sabia disso...[n][f 1 3 65535][w][e]
 
 [msg MSG_0516_005_00 [Ryuji]]
 [s][bup 0 2 0 65535 1][f 4 10 65535 0 0][vp 1 0 0 6 0 0]Você também não sabe, hein...[n][f 1 3 65535][w][e]
@@ -117,7 +117,7 @@
 
 [msg MSG_1124_008_00 [Ryuji]]
 [s][bup 0 2 0 65535 1][vp 1 0 0 42 0 0]......[n][f 1 3 65535][w][e]
-[s][bup 0 2 3 65535 1][f 4 10 65535 0 0][vp 1 0 0 43 0 0]Ei, [f 4 2]—Como mudamos o coração de Shido...[n][f 1 3 65535][w][e]
+[s][bup 0 2 3 65535 1][f 4 10 65535 0 0][vp 1 0 0 43 0 0]Ei, [f 4 2] —Como mudamos o coração de Shido...[n][f 1 3 65535][w][e]
 
 [msg MSG_1124_009_00 [Ryuji]]
 [s][bup 0 2 0 65535 1][f 4 10 65535 0 0][vp 1 0 0 44 0 0]... Não, não importa. Esqueça.[n][f 1 3 65535][w][e]

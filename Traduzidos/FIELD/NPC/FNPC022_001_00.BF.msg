@@ -263,7 +263,7 @@
 
 [msg MSG_074_01 [[f 7 1]]]
 [s][bup 0 221 0 65535 0][f 4 10 65535 0 0][f 4 23 1 340 2 10 0 10][vp 8 2 1 56709 65535 0]É bom ver você trabalhando duro até tarde- a[n]maioria das crianças já está dormindo.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]* bocejo* agora que estou pensando nisso,[n]talvez eu deva realmente me juntar a eles[n]nisso...[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]*bocejo* agora que estou pensando nisso,[n]talvez eu deva realmente me juntar a eles[n]nisso...[n][w][e]
 
 [msg MSG_075_01 [[f 7 1]]]
 [s][bup 0 221 0 65535 0][f 4 10 65535 0 0][f 4 23 1 340 2 10 0 10][vp 8 2 1 56731 65535 0]Veja o quão tarde está. É o meio da noite![n][w][e]

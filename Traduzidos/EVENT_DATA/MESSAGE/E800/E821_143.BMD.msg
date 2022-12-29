@@ -22,7 +22,7 @@
 [s][bup 0 109 500 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 35 5 100][vp 8 0 0 0 65535 0]W-Well, tudo bem! Apenas fique quieto e[n]siga-me! Eu vou te reabilitar![n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Kawakami]]
-[s][bup 0 109 501 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]* risada* percebi que amo ser professor.[n][f 1 3 65535][w][e]
+[s][bup 0 109 501 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*risada* percebi que amo ser professor.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]É realmente gratificante, sabe?[n]Especialmente os momentos em que você[n]percebe como o aluno cresceu...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]... e também pensando no seu futuro...[n][f 1 3 65535][w][e]
 

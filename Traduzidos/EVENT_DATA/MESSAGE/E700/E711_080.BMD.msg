@@ -7,7 +7,7 @@
 [msg MSG_002_0_0 [Caroline]]
 [s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 2 0 11067 65535 0]Não restam muitas tarefas.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Podemos estar chegando perto de descobrir o[n]objetivo oculto por trás dessa lista.[n][f 1 3 65535][w][e]
-[s][bup 0 102 1 0 0][f 4 10 65535 0 0][f 4 24 0 5 0 12 3 100][f 4 23 0 5 3 10 0 10][vp 8 0 0 0 65535 0]* ri-se* Você sabe, obrigado, estou[n]começando a estar ansioso para ver o que[n]acontece.[n][f 1 3 65535][w][e]
+[s][bup 0 102 1 0 0][f 4 10 65535 0 0][f 4 24 0 5 0 12 3 100][f 4 23 0 5 3 10 0 10][vp 8 0 0 0 65535 0]*ri-se* Você sabe, obrigado, estou[n]começando a estar ansioso para ver o que[n]acontece.[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Justine]]
 [s][bup 0 101 1 0 0][f 4 10 65535 0 0][vp 8 2 0 12048 65535 0]Sua atitude mudou consideravelmente,[n]Caroline.[n][f 1 3 65535][w][e]
@@ -24,7 +24,7 @@
 [s][bup 0 102 2 0 0][f 4 10 65535 0 0][f 4 23 0 5 8 10 0 10][vp 8 0 0 0 65535 0][f 4 24 0 5 0 1 6 30][vp 8 0 0 0 65535 0]E você, Justine!? Você tem sido horrível[n]conversando ultimamente![n][f 1 3 65535][w][e]
 
 [msg MSG_005_1_0 [Justine]]
-[s][bup 0 101 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]* risada* Suponho que você esteja correto.[n][f 1 3 65535][w][e]
+[s][bup 0 101 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*risada* Suponho que você esteja correto.[n][f 1 3 65535][w][e]
 
 [msg MSG_005_3_0 [Caroline]]
 [s][bup 0 102 4 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu... eu nunca ouvi você rir antes,[n]Justine...[n][f 1 3 65535][w][e]
@@ -112,7 +112,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Se esta lista deve nos mudar, essa mudança[n]certamente deve ser importante...[n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Caroline]]
-[s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Multar.[n][f 1 3 65535][w][e]
+[s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Bom.[n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [Caroline]]
 [s][bup 0 102 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Tudo bem, preso! É hora da sua nova tarefa![n][f 1 3 65535][w][e]

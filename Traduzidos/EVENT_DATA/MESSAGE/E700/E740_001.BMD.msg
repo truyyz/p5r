@@ -64,7 +64,7 @@
 [s][bup 0 111 5 65535 0][f 4 10 65535 0 0][vp 8 2 0 19122 65535 0]Você só pode estar brincando! Ele teria[n]aquele cinto em volta do meu pescoço antes[n]mesmo de eu terminar de falar![n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Ann]]
-[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]* suspiro*... é normal ver pessoas vestidas[n]com roupas incomuns aqui.[n][f 1 3 65535][w][e]
+[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*suspiro*... é normal ver pessoas vestidas[n]com roupas incomuns aqui.[n][f 1 3 65535][w][e]
 [s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 8 0 36 3 100]Honestamente, acho que é legal. Como se eles[n]tivessem confiança para usar o que[n]quiserem, sabe?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Como... nada vai impedir que eles expressem[n]seu próprio estilo.[n][f 1 3 65535][w][e]
 
@@ -105,7 +105,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Estou pensando em óculos em forma de[n]coração... Tine seu cabelo vermelho e[n]azul... e nós teremos um grande casaco[n]laminado inchado.[n][f 1 3 65535][w][e]
 
 [msg MSG_026_0_0 [Ann]]
-[s][bup 0 4 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você só quer fazê-lo usar as coisas mais[n]estranhas que você pode encontrar. Vou[n]coordenar [n][f 4 2]Guarda-do-guarda-roupa.[n][f 1 3 65535][w][e]
+[s][bup 0 4 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você só quer fazê-lo usar as coisas mais[n]estranhas que você pode encontrar. Vou[n]coordenar [n][f 4 2] Guarda-do-guarda-roupa.[n][f 1 3 65535][w][e]
 
 [msg MSG_026_5_0 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 6168 65535 0][f 5 13 7 15 4]Poderíamos ir para um olhar de menino mau,[n]ou talvez algo principesco... você tem um[n]bom potencial, então isso deve ser[n]divertido.[n][f 1 3 65535][w][e]
@@ -139,10 +139,10 @@
 [s][bup 0 111 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Não.[n][f 1 3 65535][w][e]
 
 [msg MSG_035_0_0 [Ann]]
-[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]* suspiro* sim, figuras. Bem, desde que[n]estejamos aqui, vamos nos divertir.[n][f 1 3 65535][w][e]
+[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*suspiro* sim, figuras. Bem, desde que[n]estejamos aqui, vamos nos divertir.[n][f 1 3 65535][w][e]
 
 [msg MSG_036_0_0 [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Então vamos conseguir [f 4 2]vestido![n][f 1 3 65535][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Então vamos conseguir [f 4 2] vestido![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ah, e Mishima também. Talvez Ann possa se[n]livrar de seu estranho preconceito[n]anti-harajuku.[n][f 1 3 65535][w][e]
 
 [msg MSG_036_1_0 [Mishima]]

@@ -45,7 +45,7 @@
 [s][bup 0 103 4 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Isso não foi o que eu quis dizer! Eu só acho[n]que pode ser melhor, por sua própria[n]causa...[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Futaba]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 8 2 300 1][vp 8 2 0 9189 65535 0]...Multar! eu ainda tenho [f 4 2], e Mona, e todos os outros![n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 8 2 300 1][vp 8 2 0 9189 65535 0]...Bom! eu ainda tenho [f 4 2], e Mona, e todos os outros![n][f 1 3 65535][w][e]
 [s][bup 0 8 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você pode ficar aqui e brincar com seus[n]grãos de café estúpidos![n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Sojiro]]
@@ -160,7 +160,7 @@
 [msg MSG_045_0_0 [Sojiro]]
 [s][bup 0 103 4 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]H-hey...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Pare de rir![n][f 1 3 65535][w][e]
-[s][bup 0 103 3 0 0][f 4 10 65535 0 0][f 4 24 0 4 0 38 5 100][f 4 24 0 4 0 9 5 100][f 4 24 0 4 0 0 0 0][vp 8 0 0 0 65535 0]* suspiro* você é tão cansativo como sempre.[n][f 1 3 65535][w][e]
+[s][bup 0 103 3 0 0][f 4 10 65535 0 0][f 4 24 0 4 0 38 5 100][f 4 24 0 4 0 9 5 100][f 4 24 0 4 0 0 0 0][vp 8 0 0 0 65535 0]*suspiro* você é tão cansativo como sempre.[n][f 1 3 65535][w][e]
 
 [msg MSG_046_0_0 [Futaba]]
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ei, Sojiro.[n][f 1 3 65535][w][e]

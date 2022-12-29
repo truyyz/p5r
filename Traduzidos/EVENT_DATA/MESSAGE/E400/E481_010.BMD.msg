@@ -94,7 +94,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 29 4 0]... a limpeza...?[n][f 1 3 65535][w][e]
 
 [msg MSG_027_0_0 [Student Called Yoshizawa]]
-[s][bup 0 10 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 30 4 0]* suspiro* Olhe para o momento![n][f 1 3 65535][w][e]
+[s][bup 0 10 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 30 4 0]*suspiro* Olhe para o momento![n][f 1 3 65535][w][e]
 
 [msg MSG_028_0_0 [Student Called Yoshizawa]]
 [s][bup 0 10 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 31 4 0]Sinto muito, ainda não te agradeci[n]corretamente![n][f 1 3 65535][w][e]

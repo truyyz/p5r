@@ -359,7 +359,7 @@
 [s]Algumas pessoas estranhas estão causando[n]problemas aqui![n]Vamos aumentar a segurança![n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_FREE_02_0]
-[s]* suspiro* Estou meio cansado.[n][f 1 2 65535][e]
+[s]*suspiro* Estou meio cansado.[n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_FREE_02_0_2]
 [s]Todo o estresse desaparecerá da minha vida[n]assim que eu pegar esses intrusos![n][f 1 2 65535][e]

@@ -126,7 +126,7 @@
 [s]Você lembra disso?[e]
 
 [msg MSG_033_0_0 [Futaba]]
-[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 44 65535 0]* Giggle* Esse é o Joker que eu conheço.[n][f 1 3 65535][w][e]
+[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 44 65535 0]*Giggle* Esse é o Joker que eu conheço.[n][f 1 3 65535][w][e]
 
 [msg MSG_034_0_0 [Futaba]]
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 45 65535 0]*risada* [n][f 1 3 65535][w][e]

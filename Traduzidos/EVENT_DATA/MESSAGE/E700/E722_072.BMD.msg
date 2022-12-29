@@ -63,7 +63,7 @@
 [s][bup 0 218 500 0 0][f 4 10 65535 0 0][vp 8 0 0 0 5 0]Oh, então você é...[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Coach Hiraguchi]]
-[s][bup 0 218 500 0 0][f 4 10 65535 0 0][vp 8 0 0 0 5 0]Multar. Vamos você primeiro, Sumire.[n]Você pode começar com sua combinação.[n][f 1 3 65535][w][e]
+[s][bup 0 218 500 0 0][f 4 10 65535 0 0][vp 8 0 0 0 5 0]Bom. Vamos você primeiro, Sumire.[n]Você pode começar com sua combinação.[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Sumire]]
 [s][bup 0 10 822 0 0][f 4 10 65535 0 0][vp 8 2 0 57174 65535 0]Y-sim, senhora![n][f 1 3 65535][w][e]

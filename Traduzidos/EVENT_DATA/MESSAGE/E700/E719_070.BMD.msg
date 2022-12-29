@@ -74,7 +74,7 @@
 [s][vp 8 0 0 0 7 0]Eu entendo. No entanto, você não poderá[n]colocar essas crenças em ação se não for[n]eleito.[n][f 1 3 65535][w][e]
 
 [msg MSG_020_5_0 [Benzo]]
-[s][vp 8 0 0 0 7 0]...[f 4 1]-kun, você poderia falar algum sentido nele?[n]Você também se beneficiará.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 7 0]... [f 4 1]-kun, você poderia falar algum sentido nele?[n]Você também se beneficiará.[n][f 1 3 65535][w][e]
 
 [sel SEL_021_0_0 top]
 [s][f 0 8 2 1 2217]Você deve declinar.[clr 27][e]

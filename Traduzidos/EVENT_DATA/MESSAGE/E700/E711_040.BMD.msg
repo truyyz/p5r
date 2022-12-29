@@ -3,7 +3,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você trouxe um Flauros com Tarukaja, assim[n]como perguntamos.[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Caroline]]
-[s][bup 0 102 1 0 0][f 4 10 65535 0 0][vp 8 2 0 11048 65535 0]* risador* muito bom. Esse é outro terminado.[n][f 1 3 65535][w][e]
+[s][bup 0 102 1 0 0][f 4 10 65535 0 0][vp 8 2 0 11048 65535 0]*risador* muito bom. Esse é outro terminado.[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Justine]]
 [s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 2 0 12021 65535 0]O preso cresceu consideravelmente desde que[n]o conhecemos.[n][f 1 3 65535][w][e]

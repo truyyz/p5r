@@ -39,7 +39,7 @@
 [s][vp 1 0 0 0 0 0]Vocês são apenas crianças que cheiram a agir[n]grandes.[n]Você deveria ter parado de jogar herói de[n]volta na pré-escola![n][w][e]
 
 [msg MSG_022_0_0 [Shadow Jochi]]
-[s][vp 1 0 0 0 0 0]* SOB* Mas se eles não desistirem da terra,[n]eu vou ser demitido...[n][w][e]
+[s][vp 1 0 0 0 0 0]*SOB* Mas se eles não desistirem da terra,[n]eu vou ser demitido...[n][w][e]
 [s][vp 1 0 0 0 0 0]Por favor, não existe alguma maneira de ter[n]esse cinema?[n][w][e]
 
 [sel SEL_023_0_0 top]

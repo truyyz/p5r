@@ -78,7 +78,7 @@
 
 [msg MSG_019_0_0 [Lavenza]]
 [s][bup 0 100 0 0 0][f 4 10 65535 0 0][vp 8 0 0 33 65535 0]Firmeza ideal, calor ideal...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][bup 0 100 8 0 0][vp 8 0 0 34 65535 0][f 4 24 0 4 0 1 10 50]Não sei por que, mas... me sinto tão calmo[n]aqui... *bocejo * [n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][bup 0 100 8 0 0][vp 8 0 0 34 65535 0][f 4 24 0 4 0 1 10 50]Não sei por que, mas... me sinto tão calmo[n]aqui... *bocejo* [n][f 1 3 65535][w][e]
 
 [msg MSG_019_5_0 [Lavenza]]
 [s][bup 0 100 8 0 0][vp 8 0 0 35 0 0]......[n][f 1 3 65535][w][e]

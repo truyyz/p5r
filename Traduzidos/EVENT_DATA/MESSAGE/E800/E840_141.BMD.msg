@@ -48,7 +48,7 @@
 [s][vp 8 0 0 0 65535 0][f 5 13 0 5 0]Eu sinto que meu vínculo com Kawakami ficará[n]mais forte em breve...[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Kawakami]]
-[s][vp 8 2 0 15064 65535 0]Bem, vejo você... *suspiro * [n][f 1 3 65535][w][e]
+[s][vp 8 2 0 15064 65535 0]Bem, vejo você... *suspiro* [n][f 1 3 65535][w][e]
 
 [msg MND_016_0_0]
 [s][vp 8 0 0 0 65535 0]ダミーメッセージ[n][f 1 3 65535][w][e]
@@ -61,7 +61,7 @@
 [s][vp 8 0 0 0 65535 0][f 5 13 0 5 0]Eu sinto que meu vínculo com Kawakami ficará[n]mais forte em breve...[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Kawakami]]
-[s][vp 8 2 0 15064 65535 0]Bem, vejo você... *suspiro * [n][f 1 3 65535][w][e]
+[s][vp 8 2 0 15064 65535 0]Bem, vejo você... *suspiro* [n][f 1 3 65535][w][e]
 
 [msg MND_020_0_0]
 [s][vp 8 0 0 0 65535 0]ダミーメッセージ[n][f 1 3 65535][w][e]
@@ -74,7 +74,7 @@
 [s][vp 8 0 0 0 65535 0][f 5 13 0 5 0]Eu sinto que meu vínculo com Kawakami ficará[n]mais forte em breve...[n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Kawakami]]
-[s][vp 8 2 0 15064 65535 0]Bem, vejo você... *suspiro * [n][f 1 3 65535][w][e]
+[s][vp 8 2 0 15064 65535 0]Bem, vejo você... *suspiro* [n][f 1 3 65535][w][e]
 
 [msg MND_024_0_0]
 [s][vp 8 0 0 0 65535 0]ダミーメッセージ[n][f 1 3 65535][w][e]

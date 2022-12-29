@@ -794,7 +794,7 @@
 [s]Não, você não vai me convencer disso.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_06_R_12]
-[s]* suspiro* e agora você está me tratando[n]como uma dor na bunda também...[n][w][e]
+[s]*suspiro* e agora você está me tratando[n]como uma dor na bunda também...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_06_R_13]
 [s]O que é que foi isso? Um sinal para uma[n]revanche?[n][w][e]
@@ -1250,7 +1250,7 @@
 [s]Você quer dizer porque você não quer ser[n]sobrecarregado pela vida inteira de outra[n]pessoa?[n]Sim, eu entendo você...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_14_R_12]
-[s]* suspiro* falando para pessoas negativas[n]sempre me derrubam...[n][w][e]
+[s]*suspiro* falando para pessoas negativas[n]sempre me derrubam...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_14_R_13]
 [s]Você está tentando esconder algo embaraçoso[n]'?[n]You got a fiancée?[n][w][e]
@@ -1418,7 +1418,7 @@
 [s]Eu adoraria uma bebida antes de você jogar[n]um boné em mim. Você ficou um bom resfriado [n][f 2 5 3 9999 4]?[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_REQUIRE_2]
-[s]* tosse* acho que estou chegando com a[n]gripe...[n][w][e]
+[s]*tosse* acho que estou chegando com a[n]gripe...[n][w][e]
 [s]Eu recebi um pedido antes de você colocar um[n]boné em mim- você conseguiu um deles [n][f 2 5 3 9999 4][n]coisas?[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_REQUIRE_3]
@@ -1453,7 +1453,7 @@
 [s]Então é assim que vai? Acho que não tenho[n]uma escolha...[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_Re_ACCE_2]
-[s]Você não está indo bem para mim, hein?[n]Multar...[n][w][e]
+[s]Você não está indo bem para mim, hein?[n]Bom...[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_Re_ACCE_3 [Ryuji]]
 
@@ -1634,7 +1634,7 @@
 [s]Isso é verdade... não adianta se preocupar[n]com isso agora.[n][w][e]
 
 [msg TalkMsg_NEGO_POSSESSED_B_2]
-[s]Aposto que você só quer algum dinheiro...[n]*suspiro * [n][w][e]
+[s]Aposto que você só quer algum dinheiro...[n]*suspiro* [n][w][e]
 
 [msg TalkMsg_NEGO_POSSESSED_B_3]
 [s]Você está olhando para isso? Aqui, pegue.[n][w][e]

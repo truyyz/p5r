@@ -106,7 +106,7 @@
 
 [msg MSG_025_0_0 [Akechi]]
 [s][bup 0 9 210 65535 0][f 4 10 65535 0 0][vp 8 0 0 133 65535 0]Ainda assim, embora...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 43 65535 0]Mesmo se assumirmos que Maruki tem[n]habilidades de persona únicas, como o caso[n]com [n][f 4 2]e eu mesmo...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 43 65535 0]Mesmo se assumirmos que Maruki tem[n]habilidades de persona únicas, como o caso[n]com [n][f 4 2] e eu mesmo...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 44 65535 0]Ainda precisamos determinar como ele usou[n]esse poder em lembranças como um todo, em[n]vez de um único indivíduo.[n][f 1 3 65535][w][e]
 
 [msg MSG_026_0_0 [Morgana]]
@@ -123,7 +123,7 @@
 [s][bup 0 4 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 49 65535 0]Wha-?[n][f 1 3 65535][w][e]
 
 [msg MSG_030_0_0 [Makoto]]
-[s][bup 0 6 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 50 65535 0]* suspiro* o deus do controle![n][f 1 3 65535][w][e]
+[s][bup 0 6 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 50 65535 0]*suspiro* o deus do controle![n][f 1 3 65535][w][e]
 
 [msg MSG_031_0_0 [Lavenza]]
 [s][bup 0 100 0 0 0][f 4 10 65535 0 0][vp 8 0 0 51 65535 0]De fato- o estar em lembranças que todos[n]vocês derrotaram foi uma falsa divindade[n]que as massas deludiram a se apegar a...[n][f 1 3 65535][w][e]
@@ -321,7 +321,7 @@
 [s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 122 65535 0]Duh, cara! Os ladrões Phantom não agem, a[n]menos que seja um voto unânime.[n][f 1 3 65535][w][e]
 
 [msg MSG_084_0_0 [Akechi]]
-[s][bup 0 9 201 65535 0][f 4 10 65535 0 0][vp 8 0 0 123 65535 0]* suspiro* bem então.[n][f 1 3 65535][w][e]
+[s][bup 0 9 201 65535 0][f 4 10 65535 0 0][vp 8 0 0 123 65535 0]*suspiro* bem então.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 124 65535 0]Você sabe que eu não tenho intenção de[n]aceitar o mundo de Maruki, de qualquer[n]maneira.[n][f 1 3 65535][w][e]
 
 [msg MSG_085_0_0 [Ryuji]]

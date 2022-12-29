@@ -94,7 +94,7 @@
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 4 1 300 1][vp 8 0 0 34 65535 0]Ambos![n][f 1 3 65535][w][e]
 
 [msg MSG_032_0_0 [Makoto]]
-[s][bup 0 6 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 35 65535 0]Snrk... * risada * Ahahahaha![n][f 1 3 65535][w][e]
+[s][bup 0 6 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 35 65535 0]Snrk... * risada* Ahahahaha![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 36 65535 0]Pensar que a recompensa pelos ladrões[n]fantasmas está sentindo que eles[n]"aceleraram" o caso...[n][f 1 3 65535][w][e]
 
 [msg MSG_032_5_0 [Makoto]]

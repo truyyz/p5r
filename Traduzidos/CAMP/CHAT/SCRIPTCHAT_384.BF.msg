@@ -49,6 +49,6 @@
 [s][f 5 14][f 5 15]Temos que esperar por sua mudança de[n]coração![n][w][e]
 
 [msg MSG_CHAT_MORUEND_00 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 1 0 0 1 0 0]Futaba está certo. Não temos nenhuma[n]Intel agora, então não há nada que[n]possamos fazer.[n][f 1 3 65535][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 1 0 0 1 0 0]Futaba está certo. Não temos nenhuma[n]Informação agora, então não há nada que[n]possamos fazer.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 1 0 0 2 0 0]Vamos esperar pela mudança de coração de[n]Okumura e depois perseguir a verdade por[n]trás dos desligamentos mentais![n][f 1 3 65535][w][e]
 

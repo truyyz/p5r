@@ -20,7 +20,7 @@
 [s][vp 8 0 0 0 65535 0]Ooh... isso parecia doer.[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Male Student]]
-[s][vp 8 0 0 0 65535 0]* risador* ele o bateu na testa...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]*risador* ele o bateu na testa...[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Mr. Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37067 65535 0]Isso é o que você ganha para sonhar acordado![n][f 1 3 65535][w][e]

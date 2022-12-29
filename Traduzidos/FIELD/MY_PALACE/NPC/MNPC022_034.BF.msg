@@ -69,7 +69,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Esses caras podem fazer qualquer coisa, não[n]importa quão assustador. Isso é o que eu[n]penso, de qualquer maneira.[n][w][e]
 
 [msg MES_GROUP5_05 [Hifumi]]
-[s][bup 0 106 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 35 10 0 10][vp 8 2 1 18048 65535 0]* Giggle* Eu concordo totalmente.[n][w][e]
+[s][bup 0 106 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 35 10 0 10][vp 8 2 1 18048 65535 0]*Giggle* Eu concordo totalmente.[n][w][e]
 
 [msg MES_GROUP6_01 [Sojiro]]
 [s][bup 0 103 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 40 10 0 10][vp 8 2 1 5113 65535 0]Olhe para essa coisa... se eu ainda fosse[n]criança, provavelmente começaria a Bawlin[n]'My Eyes Out se eu até vislumbrasse.[n][w][e]
@@ -103,7 +103,7 @@
 [msg MES_GROUP8_02 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 4105 65535 0]Então, você também está curioso sobre essa[n]entidade? Eu não consegui me afastar disso.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Sinto algo nele me insistindo para frente...[n]algo que não seja pavor, é isso.[n][w][e]
-[s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 4189 65535 0][f 4 23 1 65535 35 10 0 10]* risada* Só me fico hipnotizada enquanto[n]continuo a visualizá-lo.[n][w][e]
+[s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 4189 65535 0][f 4 23 1 65535 35 10 0 10]*risada* Só me fico hipnotizada enquanto[n]continuo a visualizá-lo.[n][w][e]
 
 [msg MES_GROUP8_03 [Iwai]]
 [s][bup 0 104 4 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 13073 65535 0]... diabos o seu negócio, amigo?[n][w][e]

@@ -157,7 +157,7 @@
 [s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 2 1 11093 65535 0]Big Bang Burger? O nome é adequado, suponho.[n][w][e]
 
 [msg MSG_TWINS_OUTING_Quest01_6 [Justine]]
-[s][bup 0 101 1 0 0][f 4 10 65535 0 0][vp 8 2 1 55225 65535 0][f 4 23 1 211 3 10 0 10]Vamos confirmar nossa intel para nós mesmos.[n]Lidere o caminho.[n][w][e]
+[s][bup 0 101 1 0 0][f 4 10 65535 0 0][vp 8 2 1 55225 65535 0][f 4 23 1 211 3 10 0 10]Vamos confirmar nossa Informação para nós mesmos.[n]Lidere o caminho.[n][w][e]
 
 [msg MSG_TWINS_OUTING_Quest_N [Justine]]
 [s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 211 3 10 0 10]Aparentemente, este lugar fica no centro de[n]uma cidade fortemente frequentada por[n]jovens humanos.[n][w][e]
@@ -185,7 +185,7 @@
 [s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 2 1 11093 65535 0]O quê? O "teatro em movimento"!?[n]Este lugar é amaldiçoado para passear pela[n]terra ou algo assim!?[n][w][e]
 
 [msg MSG_TWINS_OUTING_Quest02_5 [Justine]]
-[s][bup 0 101 1 0 0][f 4 10 65535 0 0][vp 8 2 1 55225 65535 0][f 4 23 1 211 3 10 0 10]Vamos confirmar nossa intel para nós mesmos.[n]Lidere o caminho.[n][w][e]
+[s][bup 0 101 1 0 0][f 4 10 65535 0 0][vp 8 2 1 55225 65535 0][f 4 23 1 211 3 10 0 10]Vamos confirmar nossa Informação para nós mesmos.[n]Lidere o caminho.[n][w][e]
 
 [msg MSG_TWINS_OUTING_Quest_N_2 [Justine]]
 [s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 211 3 10 0 10]Como mencionei anteriormente, o local[n]aparentemente está no centro de uma cidade[n]fortemente frequentada por jovens.[n][w][e]

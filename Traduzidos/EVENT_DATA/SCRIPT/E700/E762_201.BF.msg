@@ -115,7 +115,7 @@
 [s][vp 8 2 0 0 7 0]Todos nós aqui no Big Bang Burger aguardamos[n]seu retorno![n][f 1 3 65535][w][e]
 
 [msg MSG_102_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1192 65535 0]* suspiro* parece que sobrevivemos a uma[n]batalha intensa...[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1192 65535 0]*suspiro* parece que sobrevivemos a uma[n]batalha intensa...[n][f 1 3 65535][w][e]
 
 [msg MSG_107_0_0 [Morgana]]
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 0 53140 65535 0]Você venceu a torre cósmica![n][f 1 3 65535][w][e]

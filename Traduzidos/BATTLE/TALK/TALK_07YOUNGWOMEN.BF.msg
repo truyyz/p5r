@@ -1418,7 +1418,7 @@
 [s]Hmm, isso significa que você estaria[n]disposto a me pegar pelo menos um [n][f 2 5 3 9999 4], direita?[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_REQUIRE_2]
-[s]* tosse* gaah, eu odeio ter gripe.[n]Ugh, estou ficando calafrios.[n][w][e]
+[s]*tosse* gaah, eu odeio ter gripe.[n]Ugh, estou ficando calafrios.[n][w][e]
 [s]Você é meu cavaleiro em armadura brilhante[n]com um [n][f 2 5 3 9999 4]em você?[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_REQUIRE_3]
@@ -2104,7 +2104,7 @@
 
 [msg TalkMsg_GUY_NEGO_DECLINE]
 [s]Não!? Por que não!? Eu não acredito nisso![n][w][e]
-[s]Multar! Vamos deixar tudo ficar bagunçado![n][w][e]
+[s]Bom! Vamos deixar tudo ficar bagunçado![n][w][e]
 
 [msg TalkMsg_GUY_NEGO_DECLINE_2]
 [s]Aw... que decepção. Como é que, no entanto?[n][w][e]

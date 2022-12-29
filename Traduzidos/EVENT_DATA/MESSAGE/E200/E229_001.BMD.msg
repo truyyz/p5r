@@ -5,7 +5,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Isso foi delicioso, Lady Ann. Tenho certeza[n]que você fará uma noiva maravilhosa-[n]alguns- [n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Ann]]
-[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]* Bocejo* Desculpe, vou ter que emprestar o[n]sofá.[n][f 1 3 65535][w][e]
+[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]*Bocejo* Desculpe, vou ter que emprestar o[n]sofá.[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]O que há de errado, Yusuke?[n][f 1 3 65535][w][e]

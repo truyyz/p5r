@@ -15,7 +15,7 @@
 [s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Uma questão importante requer sua atenção.[n]Você pode vir nos ver imediatamente?[n][f 1 3 65535][w][e]
 
 [sel SEL_005_0_0 top]
-[s]Multar.[e]
+[s]Bom.[e]
 [s]Estou com muito sono.[e]
 
 [msg MSG_006_0_0 [Caroline]]

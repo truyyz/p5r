@@ -34,7 +34,7 @@
 [s][f 4 23 1 4 3 10 0 0][vp 8 2 1 0 4 0]Oh, não... por favor, não faça isso.[n]Você não pode informar os professores.[n][w][e]
 
 [msg MSG_YOWAMINIGIRI_001_4_0 [Ruthless Student]]
-[s][f 4 23 1 5 6 10 0 0][vp 8 2 1 0 5 0]Multar. Então faça a mesma coisa para mim. É[n]fácil para você roubar perguntas de teste,[n]certo?[n][w][e]
+[s][f 4 23 1 5 6 10 0 0][vp 8 2 1 0 5 0]Bom. Então faça a mesma coisa para mim. É[n]fácil para você roubar perguntas de teste,[n]certo?[n][w][e]
 
 [msg MSG_YOWAMINIGIRI_002_0_0 [Ruthless Student]]
 [s][vp 8 2 1 0 5 0]Você já recebe essas perguntas de teste?[n]Se você não se apressar, não conseguirá o[n]tempo de interrupção, sabe.[n][w][e]
@@ -211,7 +211,7 @@
 [s][f 4 23 1 4 4 10 5 10][vp 8 2 1 0 4 0]Cale-se! Aqui estão as fotos incriminadoras[n]que tenho de você. Mostre-me aqueles que[n]você tem de mim.[n][w][e]
 
 [msg MSG_YOWAMINIGIRI_015_3_0 [Ruthless Student]]
-[s][f 4 23 1 5 4 10 5 10][vp 8 2 1 0 5 0]Multar. Isso é tudo que eu tenho.[n]Vamos excluí-los juntos.[n][w][e]
+[s][f 4 23 1 5 4 10 5 10][vp 8 2 1 0 5 0]Bom. Isso é tudo que eu tenho.[n]Vamos excluí-los juntos.[n][w][e]
 
 [msg MSG_YOWAMINIGIRI_015_4_0 [Timid-Looking Female Student]]
 [s][f 4 23 1 4 6 10 0 30][f 4 23 1 5 6 10 0 30][vp 8 2 1 0 4 0]...Está feito. Tudo isso foi apagado.[n][w][e]

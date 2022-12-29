@@ -11,7 +11,7 @@
 [s][f 5 14]Ele tinha cabelos e óculos bagunçados...[n][w][e]
 
 [msg MSG_003_0_2 [Ryuji]]
-[s][f 5 14]Não sei. Apenas parece [n][f 4 2]para mim.[n][w][e]
+[s][f 5 14]Não sei. Apenas parece [n][f 4 2] para mim.[n][w][e]
 
 [msg MSG_004_0_0 [Morgana]]
 [s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 0 65535 65535 0]... Oh, isso está certo. Maruki parou.[n][f 1 3 65535][w][e]

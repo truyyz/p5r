@@ -5,7 +5,7 @@
 [s]Os ladrões Phantom discutem se devem mudar o coração de[n]Okumura, baseado apenas na opinião pública.[n]As coisas esquentam, fazendo com que Morgana fugisse de[n]casa.[n][w][e]
 
 [msg TUTORIAL_MSG03 [The Fifth Heist: Okumura]]
-[s][f 4 2]E os outros rastreiam Morgana no palácio de Okumura, onde o[n]encontram com uma mulher chamada "ladrão de beleza". Eles[n]não conseguem fazer as pazes com Morgana.[n][w][e]
+[s][f 4 2] E os outros rastreiam Morgana no palácio de Okumura, onde o[n]encontram com uma mulher chamada "ladrão de beleza". Eles[n]não conseguem fazer as pazes com Morgana.[n][w][e]
 
 [msg TUTORIAL_MSG04 [The Fifth Heist: Okumura]]
 [s]Olhando para a identidade do ladrão de beleza, a equipe[n]descobre que ela não é outra senão [n][clr 2]Haru Okumura [clr 27]- Filha de Okumura.[n][w][e]

@@ -18,5 +18,5 @@
 [s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Yusuke está vindo aqui amanhã, hein?[n]Ele definitivamente está aproveitando ao[n]máximo suas férias de verão...[n][f 1 3 65535][w][e]
 
 [msg MSG_999_1_0 [Morgana]]
-[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]* bocejo* eu vou para a cama...[n][f 1 3 65535][w][e]
+[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*bocejo* eu vou para a cama...[n][f 1 3 65535][w][e]
 

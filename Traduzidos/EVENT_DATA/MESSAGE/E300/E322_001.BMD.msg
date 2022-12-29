@@ -147,7 +147,7 @@
 [s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 72 65535 0]Seu pequeno...![n][f 1 3 65535][w][e]
 
 [msg MSG_054_0_0 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 73 65535 0]Multar. Eu posso assumir um alvo pequeno[n]como Okumura por conta própria.[n][f 1 3 65535][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 73 65535 0]Bom. Eu posso assumir um alvo pequeno[n]como Okumura por conta própria.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 74 65535 0]Desculpe, mas parece que vou receber o[n]crédito por resolver o mistério de[n]desligamento mental.[n][f 1 3 65535][w][e]
 
 [msg MSG_054_2_0 [Ryuji]]

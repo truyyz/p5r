@@ -20,11 +20,11 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu sempre me certifico de ter pelo menos dez[n]variedades disponíveis para o meu chá da[n]manhã e da tarde.[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Haru]]
-[s][bup 0 7 201 65535 0][f 4 10 65535 0 0][vp 8 2 0 3048 65535 0][f 5 13 4 10 7]* risada* Você viria se eu fosse?[n][f 1 3 65535][w][e]
+[s][bup 0 7 201 65535 0][f 4 10 65535 0 0][vp 8 2 0 3048 65535 0][f 5 13 4 10 7]*risada* Você viria se eu fosse?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]boutique café sound lovely?[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Haru]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 7 1 300 1][vp 8 2 0 3048 65535 0][f 5 13 4 15 7]Quero dizer, a ideia de um * risada * você é[n]tão engraçado, [n][f 4 2]-kun![n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 7 1 300 1][vp 8 2 0 3048 65535 0][f 5 13 4 15 7]Quero dizer, a ideia de um * risada* você é[n]tão engraçado, [n][f 4 2]-kun![n][f 1 3 65535][w][e]
 [s][bup 0 7 201 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 36 5 100]Na verdade, você não precisa de uma fazenda[n]para grãos de café. Você pode cultivá-los[n]em um jardim, como vegetais normais.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Embora... o enredo que estou usando na vila[n]de meu pai é grande o suficiente para se[n]transformar em uma fazenda, se eu assim[n]desejasse.[n][f 1 3 65535][w][e]
 
@@ -93,7 +93,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Nenhum dos conselhos que recebi até agora[n]também foi útil. Todo mundo só fala fora de[n]seu próprio interesse...[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Haru]]
-[s][bup 0 7 201 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 4 5 7]* risada* pegue-os antes que eles possam[n]você? Esse conceito está realmente se[n]tornando um ladrão fantasma.[n][f 1 3 65535][w][e]
+[s][bup 0 7 201 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 4 5 7]*risada* pegue-os antes que eles possam[n]você? Esse conceito está realmente se[n]tornando um ladrão fantasma.[n][f 1 3 65535][w][e]
 [s][bup 0 7 200 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 59 5 100][f 4 24 0 4 0 5 5 100]... Mas não tenho certeza se tenho a[n]influência de fazer algo assim.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Nenhum dos conselhos que recebi até agora[n]também foi útil. Todo mundo só fala fora de[n]seu próprio interesse...[n][f 1 3 65535][w][e]
 

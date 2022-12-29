@@ -178,7 +178,7 @@
 [s]Mesmo não temos certeza de que persona isso[n]resultará. Você tem certeza disso?[n][w][e]
 
 [msg FCL_MSG_COMBINE_PUB_RESU [Igor]]
-[s]* risada* Este resultado é satisfatório?[n][w][e]
+[s]*risada* Este resultado é satisfatório?[n][w][e]
 
 [msg FCL_MSG_COMBINE_PUB_TUTO [Lavenza]]
 [s][bup 0 100 0 0 0][f 4 10 65535 0 0]Primeiro, escolha uma de suas próprias[n]personas que você deseja usar na fusão.[n][w][e]
@@ -326,7 +326,7 @@
 
 [msg combine_comu_rank_10 [Igor]]
 [s]Seu relacionamento de confidente associado[n]está na classificação 10.[n][w][e]
-[s]* risada*, sem dúvida, receberá um poder[n]imensurável quando nascer.[n][w][e]
+[s]*risada*, sem dúvida, receberá um poder[n]imensurável quando nascer.[n][w][e]
 [s]Essa persona é aceitável?[n][w][e]
 
 [msg combine_comu_rank_s00 [Igor]]
@@ -380,7 +380,7 @@
 [s][f 4 10 65535 0 0]A persona resultante de uma fusão certamente[n]será mais forte que as compostas.[n][w][e]
 [s][f 4 10 65535 0 0]No entanto, você perderá qualquer pessoa[n]usada para o ritual.[n][w][e]
 [s][f 4 10 65535 0 0]Além disso, dado que você usa várias[n]personas para criar apenas uma, seu estoque[n]diminuirá...[n][w][e]
-[s][f 4 10 65535 0 0]* risada* Você pode considerar bem o que[n]ganha e o que perde com a fusão antes de[n]participar...[n][w][e]
+[s][f 4 10 65535 0 0]*risada* Você pode considerar bem o que[n]ganha e o que perde com a fusão antes de[n]participar...[n][w][e]
 
 [msg msg_combine_HELP001 [Igor]]
 [s][bup 0 201 0 0 0][f 4 10 65535 0 0]Pense cuidadosamente sobre os títulos de[n]confidente que você formou...[n][w][e]

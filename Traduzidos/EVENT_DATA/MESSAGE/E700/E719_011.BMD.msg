@@ -134,7 +134,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 52 65535 0]A parte mais importante de fazer um bom[n]discurso é acreditar em si mesmo.[n][f 1 3 65535][w][e]
 
 [msg MSG_034_0_0 [Yoshida]]
-[s][bup 0 112 1 0 0][f 4 10 65535 0 0][vp 8 0 0 53 65535 0]* risada* Você está fazendo um bom trabalho[n]em me torcendo...[n][f 1 3 65535][w][e]
+[s][bup 0 112 1 0 0][f 4 10 65535 0 0][vp 8 0 0 53 65535 0]*risada* Você está fazendo um bom trabalho[n]em me torcendo...[n][f 1 3 65535][w][e]
 [s][bup 0 112 0 0 0][f 4 10 65535 0 0][f 4 24 0 4 0 59 5 100][vp 8 0 0 54 65535 0]... mas você pode estar certo.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 55 65535 0]A parte mais importante de fazer um bom[n]discurso é acreditar em si mesmo.[n][f 1 3 65535][w][e]
 

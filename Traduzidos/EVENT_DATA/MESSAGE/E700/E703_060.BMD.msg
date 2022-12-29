@@ -14,7 +14,7 @@
 [s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 3020 65535 0][f 5 13 4 5 7]Obrigada. Eu gostaria de garantir que o[n]feijão que estou cultivando possa atingir[n]todo o seu potencial.[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Haru]]
-[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 3048 65535 0][f 5 13 4 10 7]* risada* eu prefiro não. Acho que nunca[n]poderia esperar igualar a intensa[n]profundidade do café de Sakura-san.[n][f 1 3 65535][w][e]
+[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 3048 65535 0][f 5 13 4 10 7]*risada* eu prefiro não. Acho que nunca[n]poderia esperar igualar a intensa[n]profundidade do café de Sakura-san.[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Haru]]
 [s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 3188 65535 0]Você sabe, a Okumura Foods não começou como[n]uma corrente de hambúrguer...[n][f 1 3 65535][w][e]
@@ -64,11 +64,11 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Oh, entendi![n][f 1 3 65535][w][e]
 
 [msg MSG_015_5_0 [Haru]]
-[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 3088 65535 0][f 5 13 4 15 7]* risada* você é tão engraçado, [n][f 4 2]-kun![n][f 1 3 65535][w][e]
+[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 3088 65535 0][f 5 13 4 15 7]*risada* você é tão engraçado, [n][f 4 2]-kun![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você estava tentando me animar, não era...?[n]Obrigado por isso.[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Haru]]
-[s][bup 0 7 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]* suspiro* Acho que o que eu realmente[n]preciso... é ficar mais forte.[n][f 1 3 65535][w][e]
+[s][bup 0 7 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*suspiro* Acho que o que eu realmente[n]preciso... é ficar mais forte.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Quero dizer, eu posso agir dura na frente[n]dos meus funcionários... mas você sabe o[n]quão fraco eu estou dentro.[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Haru]]

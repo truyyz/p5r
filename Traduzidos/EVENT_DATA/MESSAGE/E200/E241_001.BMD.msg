@@ -20,7 +20,7 @@
 [s][bup 0 4 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Considerando com quem estamos lidando, acho[n]que pode ser uma armadilha.[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Morgana]]
-[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Sem considerar, [f 4 2]estaria com problemas reais. Ele está em[n]liberdade condicional, afinal.[n][f 1 3 65535][w][e]
+[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Sem considerar, [f 4 2] estaria com problemas reais. Ele está em[n]liberdade condicional, afinal.[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Ryuji]]
 [s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]As coisas ficariam difíceis se não[n]tivéssemos nosso líder... e eu não quero[n]lidar totalmente com a polícia...[n][f 1 3 65535][w][e]

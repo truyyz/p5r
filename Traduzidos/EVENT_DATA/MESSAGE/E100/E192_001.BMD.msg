@@ -46,7 +46,7 @@
 [s][bup 0 2 7 65535 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Bem, nós viemos por todo esse caminho e[n]outras coisas.[n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Ryuji]]
-[s][bup 0 2 7 65535 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]...Multar. Nós chegamos por todo esse[n]caminho, então acho que vou olhar em volta.[n][f 1 3 65535][w][e]
+[s][bup 0 2 7 65535 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]...Bom. Nós chegamos por todo esse[n]caminho, então acho que vou olhar em volta.[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Uh... de que maneira devemos começar?[n][f 1 3 65535][w][e]

@@ -30,7 +30,7 @@
 
 [msg MSG_009_0_0 [Sojiro]]
 [s][bup 0 103 3 0 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Embora eu ache que você possa permanecer em[n]bom comportamento se tiver um animal de[n]estimação para cuidar...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Multar...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Bom...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Mas fique quieto quando estamos abertos para[n]negócios. E não deixe isso andar no andar[n]de baixo, ou eu o jogarei.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Ah, e eu não vou cuidar disso. Isso é tudo[n]em você.[n][f 1 3 65535][w][e]
 

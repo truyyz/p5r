@@ -17,7 +17,7 @@
 [s]Vamos ver... eu quero um pouco da sua saúde.[n]Se você me dê, eu poderia ajudá-lo.[n][w][e]
 
 [msg TalkMsg_EN_CONTACT_03]
-[s]* risada* Como é ver seu companheiro de[n]equipe em uma pitada?[n][w][e]
+[s]*risada* Como é ver seu companheiro de[n]equipe em uma pitada?[n][w][e]
 [s]Você quer salvá-los? Então, me dê um pouco[n]de sua resistência![n][w][e]
 
 [sel TalkSel_EN_CONTACT top]

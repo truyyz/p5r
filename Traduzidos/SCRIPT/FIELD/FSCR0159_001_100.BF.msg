@@ -1,6 +1,6 @@
 [msg D07_01_e407_010_mes01 [Ryuji]]
 [s][bup 0 2 0 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7115 65535 0]Se nossas roupas não estão mudando, acho que[n]ele ainda não nos vê como uma ameaça, hein?[n][w][e]
-[s][bup 0 2 1 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Falar disso, não deveria [n][f 4 2]'Estive se disfarçando no caminho aqui?[n][w][e]
+[s][bup 0 2 1 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Falar disso, não deveria [n][f 4 2] 'Estive se disfarçando no caminho aqui?[n][w][e]
 
 [msg D07_01_e407_010_mes02 [Ann]]
 [s][bup 0 4 3 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Uh, ver alguém disfarçado com um monte de[n]crianças em uniformes escolares seria super[n]estranho...[n][w][e]

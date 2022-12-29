@@ -33,7 +33,7 @@
 [s][vp 8 0 0 12 12 0]Cerca de três milhões?[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Gaudy Woman]]
-[s][vp 8 0 0 13 12 0]* grito* para reais!?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 13 12 0]*grito* para reais!?[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Kaneshiro]]
 [s][bup 0 207 0 0 0][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Melhor agradecer a esses caras.[n][f 1 3 65535][w][e]

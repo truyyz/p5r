@@ -139,5 +139,5 @@
 [s][f 4 23 1 856 3 10 0 0][vp 8 2 1 0 856 0]Nossa escola está seriamente cheia de[n]encrenqueiros. Algo assim também não[n]aconteceu no ano passado?[n][w][e]
 
 [msg MSG_043_0_0 [Timid Female Student]]
-[s][f 4 23 1 857 3 10 0 0][vp 8 2 1 0 857 0]* suspiro* E devemos ser uma escola de elite[n]da faculdade. Eu gostaria que eles[n]corrigissem esse problema...[n][w][e]
+[s][f 4 23 1 857 3 10 0 0][vp 8 2 1 0 857 0]*suspiro* E devemos ser uma escola de elite[n]da faculdade. Eu gostaria que eles[n]corrigissem esse problema...[n][w][e]
 

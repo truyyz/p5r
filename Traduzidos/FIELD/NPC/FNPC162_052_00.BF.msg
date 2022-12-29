@@ -141,7 +141,7 @@
 [s][f 4 10 65535 0 0]Agora que penso nisso, parece um laboratório.[n][w][e]
 
 [msg SAFE_MES_ANN_11 [Ann]]
-[s][bup 0 4 103 0 0][f 4 10 65535 0 0][vp 8 2 1 6028 65535 0]* suspiro* estou ficando muito cansado...[n][w][e]
+[s][bup 0 4 103 0 0][f 4 10 65535 0 0][vp 8 2 1 6028 65535 0]*suspiro* estou ficando muito cansado...[n][w][e]
 [s][f 4 10 65535 0 0]Eu acho que sou melhor em lutar do que usar[n]minha cabeça...[n][w][e]
 
 [msg SAFE_MES_ANN_12 [Ann]]

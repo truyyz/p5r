@@ -48,7 +48,7 @@
 [s][bup 0 102 1 0 0][f 4 10 65535 0 0][vp 8 2 1 11106 65535 0][f 4 23 1 121 3 3 0 3]Heehee, eu vejo![n][w][e]
 
 [msg BTL_MES_01 [Caroline]]
-[s][bup 0 102 1 0 0][f 4 10 65535 0 0][vp 8 0 1 1 65535 0][f 4 23 1 121 4 3 0 3]* risada* você está de volta...[n][w][e]
+[s][bup 0 102 1 0 0][f 4 10 65535 0 0][vp 8 0 1 1 65535 0][f 4 23 1 121 4 3 0 3]*risada* você está de volta...[n][w][e]
 
 [msg BTL_MES_02 [Justine]]
 [s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 1 2 65535 0]Presumo que você tenha se tornado mais forte[n]desde sua última tentativa.[n][w][e]

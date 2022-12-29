@@ -47,7 +47,7 @@
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 7110 65535 0]Você não está bombeado para conferir a vida[n]noturna de Shinjuku?[n][w][e]
 
 [msg MSG_E24310100_001_00 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Reuniremos a Intel pela escola amanhã. É[n]tarde, então tenho certeza de que muitos[n]estudantes já foram para casa.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Reuniremos a Informação pela escola amanhã. É[n]tarde, então tenho certeza de que muitos[n]estudantes já foram para casa.[n][w][e]
 [s][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Mas, desde que estamos em Shibuya, vamos[n]reunir algumas informações por aqui também.[n][w][e]
 
 [sel SEL_E24310100_002_00 top]

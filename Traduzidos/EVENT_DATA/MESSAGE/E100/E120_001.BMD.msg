@@ -58,7 +58,7 @@
 [s][vp 8 0 0 23 6 0]Ainda assim, você vem comigo. É inegável que[n]você está extremamente atrasado.[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Sakamoto]]
-[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Multar...[n][f 1 3 65535][w][e]
+[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Bom...[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Kamoshida]]
 [s][bup 0 202 0 0 0][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]A propósito... você é aquele novo aluno[n]transferido, correto?[n][f 4 3]?[n][f 1 3 65535][w][e]

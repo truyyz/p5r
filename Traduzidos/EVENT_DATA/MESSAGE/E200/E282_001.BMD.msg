@@ -58,7 +58,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 27 65535 0]Use qualquer meio necessário para vencer. É[n]assim que eu lidaria com eles.[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Akechi]]
-[s][bup 0 9 1 1 0][f 4 10 65535 0 0][vp 8 0 0 28 65535 0]* risada* muito bem.[n][f 1 3 65535][w][e]
+[s][bup 0 9 1 1 0][f 4 10 65535 0 0][vp 8 0 0 28 65535 0]*risada* muito bem.[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Sae]]
 [s][bup 0 105 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 29 65535 0]Isso parece ser divertido para você. Você[n]está falando algo?[n][f 1 3 65535][w][e]

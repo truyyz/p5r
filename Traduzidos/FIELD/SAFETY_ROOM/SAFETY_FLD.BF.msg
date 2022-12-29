@@ -2152,7 +2152,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Precisamos de mais treinamento de batalha.[n]Vamos lutar contra sombras adequadas e[n]ganhar experiência.[n][w][e]
 
 [msg BRIEFING_LV_LOW_mes09 [Sumire]]
-[s][bup 0 10 0 65535 0][f 4 23 1 10 3 5 11 5][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]* geme* as sombras são difíceis de bater[n]assim...[n][w][e]
+[s][bup 0 10 0 65535 0][f 4 23 1 10 3 5 11 5][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]*geme* as sombras são difíceis de bater[n]assim...[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Estes são os momentos em que o treinamento[n]constante pode ser um atalho para a vitória![n][w][e]
 
 [msg BRIEFING_LV_LOW_mes08_EX [Akechi]]
@@ -3384,7 +3384,7 @@
 [s][vp 8 2 1 0 65535 0][f 4 10 65535 0 0]Portanto, é mais importante do que nunca que[n]todos estejam em sua melhor forma antes de[n]prosseguir.[n][w][e]
 
 [msg MARUKI_MEMENTOS_mes12 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 23 1 65535 3 5 11 5][f 4 10 65535 0 0][vp 8 2 0 2022 65535 0]Como sempre, vamos deixar [f 4 2]lidar com como devemos prosseguir. Quando[n]todos estamos preparados, vamos para as[n]lembranças.[n][w][e]
+[s][bup 0 6 0 65535 0][f 4 23 1 65535 3 5 11 5][f 4 10 65535 0 0][vp 8 2 0 2022 65535 0]Como sempre, vamos deixar [f 4 2] lidar com como devemos prosseguir. Quando[n]todos estamos preparados, vamos para as[n]lembranças.[n][w][e]
 
 [msg MARUKI_MEETING_mes01 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 5 11 5][vp 8 2 1 6127 65535 0]Estamos indo para o palácio hoje, certo?[n]Já que podemos avançar agora.[n][w][e]
@@ -3879,7 +3879,7 @@
 
 [msg GOTO_MEME_ATTENTION_mes0_8 [Akechi]]
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]... Pessoalmente, sugiro que nos[n]infiltássemos no palácio.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]* risada* No entanto, você certamente deve[n]ter seus motivos. Eu gostaria de ver do que[n]tudo isso é.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]*risada* No entanto, você certamente deve[n]ter seus motivos. Eu gostaria de ver do que[n]tudo isso é.[n][w][e]
 
 [msg MSG_MEME_ATTEENTION [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 0 1192 65535 0]Esse pode ser apenas um criminoso mesquinho,[n]mas eles estão definitivamente distorcidos.[n][w][e]
@@ -4473,7 +4473,7 @@
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0]Concordo. Isso é muito triste...[n][w][e]
 
 [msg MSG_azito_quest_79_26_2 [Yusuke]]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 4088 65535 0][f 4 2]entenderia mais do que qualquer outra pessoa[n]como é doloroso ser acusado de um crime que[n]ele não cometeu.[n][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 4088 65535 0][f 4 2] entenderia mais do que qualquer outra pessoa[n]como é doloroso ser acusado de um crime que[n]ele não cometeu.[n][w][e]
 
 [msg MSG_azito_quest_79_27 [Haru]]
 [s][bup 0 7 0 65535 0][f 4 10 65535 0 0]Concordou. Devemos mudar seu coração.[n][w][e]

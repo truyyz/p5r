@@ -8,7 +8,7 @@
 [s]O Alibaba se oferece para ajudar a derrubar se os ladrões[n]fantasmas mudarem o coração de alguém.[n]Deixado sem outra escolha, a equipe concorda com os termos.[n][w][e]
 
 [msg TUTORIAL_MSG04 [The Fourth Heist: Futaba]]
-[s]Por volta desse horário, [f 4 2]aprende que Sojiro assumiu a custódia de [clr 2]Futaba [clr 27], a filha de seu conhecimento, [clr 2]Wakaba isshiki [clr 27].[n][w][e]
+[s]Por volta desse horário, [f 4 2] aprende que Sojiro assumiu a custódia de [clr 2]Futaba [clr 27], a filha de seu conhecimento, [clr 2]Wakaba isshiki [clr 27].[n][w][e]
 
 [msg TUTORIAL_MSG05 [The Fourth Heist: Futaba]]
 [s]Makoto deduz que Futaba é Alibaba.[n]Percebendo que salvá-la poderia deixá-los se levantar[n]contra Medjed, os ladrões fantasmas entram em seu palácio.[n][w][e]

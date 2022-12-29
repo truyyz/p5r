@@ -8,7 +8,7 @@
 [s]Com certeza é animado aqui.[e]
 
 [msg MSG_002_0_0 [Haru]]
-[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 4 5 7]* risada* isso é gentil da sua parte.[n][f 1 3 65535][w][e]
+[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 4 5 7]*risada* isso é gentil da sua parte.[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Haru]]
 [s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 4 10 7]Oh, estou feliz em ouvir. Este festival é[n]realmente movimentado com pessoas, hein? É[n]legal.[n][f 1 3 65535][w][e]

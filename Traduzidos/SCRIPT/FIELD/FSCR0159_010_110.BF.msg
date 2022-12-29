@@ -11,7 +11,7 @@
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Sim. Vamos encontrá-lo e pegar sua carta de[n]introdução![n][w][e]
 
 [msg D07_02_e409_033_mes01 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1099 65535 0]Tudo bem, precisaremos reunir a Intel neste[n]deck da piscina. Tente falar com alguém[n]suspeito.[n][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1099 65535 0]Tudo bem, precisaremos reunir a Informação neste[n]deck da piscina. Tente falar com alguém[n]suspeito.[n][w][e]
 
 [msg D07_02_e409_037_mes01 [Ryuji]]
 [s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7045 65535 0]Oooh legal, é algum tipo de ventilação![n]Aposto que poderíamos entrar daqui![n][w][e]

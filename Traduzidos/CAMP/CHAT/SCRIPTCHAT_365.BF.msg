@@ -12,7 +12,7 @@
 [s][f 5 14]Perguntamos por aí, mas não há como saber[n]quantos desses são protagonistas reais[n]neste momento.[n][w][e]
 
 [msg MSG_004_00 [Ann]]
-[s][f 5 14]Por que simplesmente não analisamos a[n]Intel que reunimos até agora?[n][w][e]
+[s][f 5 14]Por que simplesmente não analisamos a[n]Informação que reunimos até agora?[n][w][e]
 
 [msg MSG_005_00 [Ryuji]]
 [s][f 5 14]Vou começar.[n][w][e]

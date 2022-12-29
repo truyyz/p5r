@@ -57,7 +57,7 @@
 [s][bup 0 107 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Huh...?[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Ohya]]
-[s][bup 0 107 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]* risada* Sorte de mim! Meu próprio ganso de[n]ouro apareceu.[n][f 1 3 65535][w][e]
+[s][bup 0 107 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]*risada* Sorte de mim! Meu próprio ganso de[n]ouro apareceu.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][f 4 24 0 4 0 36 4 100][f 4 24 0 4 0 9 4 100][vp 8 0 0 21 65535 0]Agora posso ir com calma... talvez eu tire[n]umas férias, com todo o meu tempo livre...[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Ohya]]

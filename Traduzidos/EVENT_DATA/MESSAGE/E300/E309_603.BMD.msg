@@ -35,7 +35,7 @@
 [s][bup 0 8 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Super Double Move! Wheeee![n][f 1 3 65535][w][e]
 
 [msg MSG_027_0_0 [Morgana]]
-[s][bup 0 3 10 0 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Você vai ouvir- *tosse * [n][f 1 3 65535][w][e]
+[s][bup 0 3 10 0 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Você vai ouvir- *tosse* [n][f 1 3 65535][w][e]
 
 [msg MSG_028_0_0 [Sojiro]]
 [s][bup 0 103 3 0 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Ei... o gato não gosta da fumaça![n]Mantenha as chamas longe dele.[n][f 1 3 65535][w][e]

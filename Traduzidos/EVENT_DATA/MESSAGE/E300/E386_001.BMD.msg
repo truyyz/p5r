@@ -54,7 +54,7 @@
 [s][vp 8 0 0 23 65535 0](泣き『う...うぅ...』)[n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Sae]]
-[s][bup 0 105 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]* risada* que garota estranha...[n][f 1 3 65535][w][e]
+[s][bup 0 105 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]*risada* que garota estranha...[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]Você precisa fazer uma chamada?[n][f 1 3 65535][w][e]

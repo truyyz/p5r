@@ -76,7 +76,7 @@
 [s][bup 0 8 3 65535 0][f 4 10 65535 0 0][vp 8 0 1 14 65535 0]Whattt? Isso não é divertido.[n][w][e]
 
 [msg MSG_FUTABA_1121_003_01 [Morgana]]
-[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 0 1 15 65535 0][f 4 2]está cansado. Você pode contar a ele outra[n]hora, ok?[n][w][e]
+[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 0 1 15 65535 0][f 4 2] está cansado. Você pode contar a ele outra[n]hora, ok?[n][w][e]
 
 [msg MSG_FUTABA_1121_100_00 [Futaba]]
 [s][f 4 23 1 65535 4 0 0 0][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 1 16 65535 0]Pode não ter parecido, mas todo mundo estava[n]arriscando suas vidas também.[n][w][e]

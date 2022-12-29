@@ -10,7 +10,7 @@
 
 [msg MES_GROUP1_03 [Caroline]]
 [s][bup 0 102 1 0 0][f 4 10 65535 0 0][f 4 23 1 65535 40 10 0 10][vp 8 2 1 11093 65535 0]Hmph. Você tem um olho agudo para um humano.[n][w][e]
-[s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Multar! Eu aprovo! Na verdade, vou deixar[n]você experimentar uma execução em primeira[n]mão![n][w][e]
+[s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Bom! Eu aprovo! Na verdade, vou deixar[n]você experimentar uma execução em primeira[n]mão![n][w][e]
 
 [msg MES_GROUP1_04 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 4037 65535 0]Obrigado, mas eu vou passar.[n][w][e]

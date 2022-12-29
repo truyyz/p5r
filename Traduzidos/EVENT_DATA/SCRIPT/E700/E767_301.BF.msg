@@ -45,7 +45,7 @@
 
 [msg MSG_Temple_Scene02_003 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1184 65535 0]Este local no chão... meio que parece Lady[n]Ann![n][f 1 3 65535][w][e]
-[s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]* suspiro* Este é um templo, o que estou[n]pensando... G-Gotta limpa minha mente![n][f 1 3 65535][w][e]
+[s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]*suspiro* Este é um templo, o que estou[n]pensando... G-Gotta limpa minha mente![n][f 1 3 65535][w][e]
 
 [msg MSG_Temple_Scene02_004 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1184 65535 0]Este local no chão... meio que parece[n]sushi...[n][f 1 3 65535][w][e]

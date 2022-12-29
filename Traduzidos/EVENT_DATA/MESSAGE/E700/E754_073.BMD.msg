@@ -87,7 +87,7 @@
 [s][bup 0 107 6 65535 0][f 4 10 65535 0 0][f 4 24 0 4 6 42 3 100][vp 8 0 0 26 65535 0]Quase me deu um ataque cardíaco.[n][f 1 3 65535][w][e]
 
 [msg MSG_025_0_0 [Ohya]]
-[s][bup 0 107 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 27 65535 0]* suspiro* cara, estou sendo tão ruim. E por[n]um ensino médio![n][f 1 3 65535][w][e]
+[s][bup 0 107 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 27 65535 0]*suspiro* cara, estou sendo tão ruim. E por[n]um ensino médio![n][f 1 3 65535][w][e]
 
 [msg MSG_026_0_0 [Ohya]]
 [s][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 28 65535 0]Mas como você é você... acho que as regras[n]usuais realmente não se aplicam, hein?[n][f 1 3 65535][w][e]

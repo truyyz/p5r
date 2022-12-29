@@ -145,7 +145,7 @@
 [s][f 4 23 1 15 3 10 0 10][vp 8 2 1 0 15 0]A polícia disse que eu tinha que cooperar e[n]responder suas perguntas. Eu estava quase[n]atrasado para a escola de Cram.[n][w][e]
 
 [msg MSG_KIREIDANSI_004_1_0 [Lazy Male Student]]
-[s][f 4 23 1 14 3 10 0 10][vp 8 2 1 0 14 0]* risada* Eu dei todo o tipo de coisa para a[n]polícia. Kamoshida foi longe demais.[n][w][e]
+[s][f 4 23 1 14 3 10 0 10][vp 8 2 1 0 14 0]*risada* Eu dei todo o tipo de coisa para a[n]polícia. Kamoshida foi longe demais.[n][w][e]
 
 [msg MSG_KIREIDANSI_004_2_0 [Refined Male Student]]
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Eu o respeitei como um atleta de topo, mas...[n]Por fim, acho que seu personagem deixou[n]muito a desejar.[n][w][e]

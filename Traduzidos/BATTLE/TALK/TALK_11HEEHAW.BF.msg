@@ -980,7 +980,7 @@
 [s]Ah, então você não está tão interessado em[n]saber sobre o verdadeiro me-ho?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_10]
-[s]* suspiro* Estou cansado da luta sem fim,[n]ho...[n][w][e]
+[s]*suspiro* Estou cansado da luta sem fim,[n]ho...[n][w][e]
 [s]Eu preciso me recuperar, ho. Você não se[n]sente assim também...?[n][w][e]
 
 [sel TalkSel_GUY_CHAT_SQ_10 top]

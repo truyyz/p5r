@@ -44,7 +44,7 @@
 [s][vp 1 0 0 0 0 0]Não podemos resolver algo? Não me mate, por[n]favor! Você não vai me deixar ir?[n][f 1 3 65535][w][e]
 
 [sel TalkSel_02 top]
-[s]Multar.[e]
+[s]Bom.[e]
 [s]Você escolheu o inimigo errado.[e]
 [s]Vou deixar você ir... para o inferno.[e]
 

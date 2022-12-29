@@ -121,7 +121,7 @@
 [s][bup 0 10 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 8 0]Então terei que fazer valer o seu tempo,[n]Senpai. Vamos praticar no Inokashira Park[n]depois disso![n][f 1 3 65535][w][e]
 
 [msg MSG_033_0_0 [Kasumi]]
-[s][bup 0 10 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 8 0]* risando* bem, eu ainda tenho que compensar[n]você. Vamos praticar no Inokashira Park[n]depois disso![n][f 1 3 65535][w][e]
+[s][bup 0 10 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 8 0]*risando* bem, eu ainda tenho que compensar[n]você. Vamos praticar no Inokashira Park[n]depois disso![n][f 1 3 65535][w][e]
 
 [msg MSG_034_0_0 [Kasumi]]
 [s][bup 0 10 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 8 0]É claro! Como parte do nosso acordo, certo?[n]Devemos ir treinar no Inokashira Park depois[n]disso![n][f 1 3 65535][w][e]

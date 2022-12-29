@@ -31,7 +31,7 @@
 
 [msg MES_GROUP3_03 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 3 10 0 10]Ryuji...[n][w][e]
-[s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 4189 65535 0]* ri* Obrigado por sua preocupação.[n][w][e]
+[s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 4189 65535 0]*ri* Obrigado por sua preocupação.[n][w][e]
 
 [msg MES_GROUP4_01 [Futaba]]
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 9105 65535 0]Confira, Sojiro! É Goemon! Ele não é legal!?[n][w][e]

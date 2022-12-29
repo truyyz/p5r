@@ -1,5 +1,5 @@
 [msg MSG_000_0_0 [Ann]]
-[s][f 5 14]* Suspiro* Os exames estão chegando...[n]Já estou morrendo...[n][w][e]
+[s][f 5 14]*Suspiro* Os exames estão chegando...[n]Já estou morrendo...[n][w][e]
 
 [msg MSG_000_0_1 [Ann]]
 [s][f 5 14]Se você não se importa, há muito que eu[n]quero que você me ensine...[n][w][e]

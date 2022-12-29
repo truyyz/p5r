@@ -26,7 +26,7 @@
 [s][vp 8 2 1 0 65535 0]Sim, ele não me deu os detalhes, mas eu[n]consegui pegar a essência disso- algo sobre[n]amizade.[n][w][e]
 
 [msg MSG_KAWANABE_004_0_0 [Kawanabe]]
-[s][vp 8 2 1 0 65535 0]* risada* Estou tão animado que mal posso[n]contê-lo. Bastante impróprio de uma pessoa[n]da minha idade, eu sei, mas ainda assim.[n][w][e]
+[s][vp 8 2 1 0 65535 0]*risada* Estou tão animado que mal posso[n]contê-lo. Bastante impróprio de uma pessoa[n]da minha idade, eu sei, mas ainda assim.[n][w][e]
 [s][vp 8 2 1 0 65535 0]Tenho certeza que você entende, no entanto.[n]Seja o que for, ele aparece, certamente será[n]uma obra-prima.[n][w][e]
 [s][vp 8 2 1 0 65535 0]Estou muito ansioso pelo dia em que posso[n]ver.[n][w][e]
 

@@ -1049,7 +1049,7 @@
 
 [msg TV_NEWS_0809_000_00 [Newscaster]]
 [s]Há pouco mais de duas semanas desde que[n]Medjed anunciou seu ataque.[n][w][e]
-[s]A polícia está reunindo Intel sobre Medjed e[n]promovendo uma melhor consciência da[n]segurança- no entanto...[n][w][e]
+[s]A polícia está reunindo Informação sobre Medjed e[n]promovendo uma melhor consciência da[n]segurança- no entanto...[n][w][e]
 [s]As expectativas para a polícia são baixas,[n]pois as pessoas se concentram no confronto[n]dos ladrões Phantom contra o MedJed.[n][w][e]
 
 [msg TV_NEWS_0809_100_00 [Morgana]]

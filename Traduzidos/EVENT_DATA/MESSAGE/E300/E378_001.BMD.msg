@@ -26,7 +26,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 59 65535 0]Bem então...[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Futaba]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 8 7 301 1][vp 8 0 0 9 65535 0]* suspiro* isso é [n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 8 7 301 1][vp 8 0 0 9 65535 0]*suspiro* isso é [n][f 1 3 65535][w][e]
 
 [msg MSG_007_3_0 [Akechi]]
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Huh? E quanto ao meu smartphone?[n][f 1 3 65535][w][e]
@@ -53,7 +53,7 @@
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 57 65535 0]Ooh![n][f 1 3 65535][w][e]
 
 [msg MSG_022_7_0 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 31 65535 0]* suspiro* Vou enviar os contatos de todos[n]para você mais tarde...[n][f 1 3 65535][w][e]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 31 65535 0]*suspiro* Vou enviar os contatos de todos[n]para você mais tarde...[n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Akechi]]
 [s][bup 0 9 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 32 65535 0]Obrigado.[n][f 1 3 65535][w][e]

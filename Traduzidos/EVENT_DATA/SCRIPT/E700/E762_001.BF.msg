@@ -610,7 +610,7 @@
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 7020 65535 0]Que diabos! Eu não sabia que você trabalha[n]aqui.[n][f 1 3 65535][w][e]
 
 [msg MSG_Ryuji_001_004 [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]* risada* Isso é meio emocionante.[n]Tudo bem, vejo você quando estiver pronto[n]para pagar.[n][f 1 3 65535][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]*risada* Isso é meio emocionante.[n]Tudo bem, vejo você quando estiver pronto[n]para pagar.[n][f 1 3 65535][w][e]
 
 [msg MSG_Ann_001_001 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 6006 65535 0]Oh, [f 4 2]. Eu não sabia que você trabalhava aqui![n][f 1 3 65535][w][e]
@@ -672,7 +672,7 @@
 
 [msg MSG_Haru_002_001 [Haru]]
 [s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 3020 65535 0]Eu vim experimentar o café aqui.[n]Aparentemente, é tão bom que até os[n]baristas aprovam.[n][f 1 3 65535][w][e]
-[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0][f 5 13 4 2 7]* risada* mal posso esperar para provar...[n]Ok, boa sorte com o trabalho![n][f 1 3 65535][w][e]
+[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0][f 5 13 4 2 7]*risada* mal posso esperar para provar...[n]Ok, boa sorte com o trabalho![n][f 1 3 65535][w][e]
 
 [msg MSG_Kasumi_002_001 [Kasumi]]
 [s][bup 0 10 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 57033 65535 0]As lojas de conveniência foram salvadas de[n]vida para quando eu fico com fome no meio[n]do treinamento.[n][f 1 3 65535][w][e]

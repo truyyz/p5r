@@ -1,6 +1,6 @@
 [msg MSG_010_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 7028 65535 0]É a nossa primeira vez na escola há algum[n]tempo.[n][f 1 3 65535][w][e]
-[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 38 5 100]* Bocejo* Estou com muito sono.[n][f 1 3 65535][w][e]
+[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 38 5 100]*Bocejo* Estou com muito sono.[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 59 5 100][vp 8 0 0 0 65535 0]Você sobre o seu jet lag?[n][f 1 3 65535][w][e]
@@ -44,7 +44,7 @@
 
 [msg MSG_020_0_0 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 6005 65535 0]Ah, bom dia.[n][f 1 3 65535][w][e]
-[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 38 5 100]* suspiro* outro dia de testes...[n][f 1 3 65535][w][e]
+[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 38 5 100]*suspiro* outro dia de testes...[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Ann]]
 [s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Finalmente derrotamos Shido, mas ainda temos[n]finais... essas batalhas não são uma após a[n]outra difícil?[n][f 1 3 65535][w][e]
@@ -68,7 +68,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 0 57005 65535 0]Que coincidência! Bom Dia.[n][f 1 3 65535][w][e]
 
 [msg MSG_026_0_0 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 36 5 100]Manhã! Eu acabei de encontrar [f 4 2]também.[n][f 1 3 65535][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 36 5 100]Manhã! Eu acabei de encontrar [f 4 2] também.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Como os exames estão tratando você,[n]Yoshizawa-san? Você parece muito ocupado[n]com a prática ultimamente.[n][f 1 3 65535][w][e]
 
 [msg MSG_027_0_0 [Kasumi]]

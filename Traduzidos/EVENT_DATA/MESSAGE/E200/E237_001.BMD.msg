@@ -24,7 +24,7 @@
 [s][bup 0 103 1 0 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Minhas portas estão sempre abertas.[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Yusuke]]
-[s][bup 0 5 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0][f 4 2]Também passou muito, pelo que ouvi...[n][f 1 3 65535][w][e]
+[s][bup 0 5 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0][f 4 2] Também passou muito, pelo que ouvi...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Você é parente com ele?[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Sojiro]]

@@ -1265,7 +1265,7 @@
 [s]Eu não quero encontrar seu comandante, se[n]ele gosta de você.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_15]
-[s]...Multar. Talvez você me mate, mas eu[n]morrendo com um impacto duradouro em você.[n]Fazer você melhor humano.[n][w][e]
+[s]...Bom. Talvez você me mate, mas eu[n]morrendo com um impacto duradouro em você.[n]Fazer você melhor humano.[n][w][e]
 [s]Então eu vou assombrá-lo pelo resto da sua[n]vida. Eu sempre logo atrás de você...[n][w][e]
 
 [sel TalkSel_GUY_CHAT_SQ_15 top]
@@ -1349,7 +1349,7 @@
 [s]Talvez seja verdade, mas é uma coisa mais[n]sensível a fazer apenas ignorar isso, certo?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_16_R_7]
-[s]...Multar. Eu admito.[n][w][e]
+[s]...Bom. Eu admito.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_16_R_8]
 [s]Não como você interpretando o que eu diz[n]dessa maneira.[n][w][e]
@@ -1418,7 +1418,7 @@
 [s]Mas se você se sentir mal, apenas me dê [n][f 2 5 3 9999 4].[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_REQUIRE_2]
-[s]* tosse* eu nunca pensei que eu iria descer[n]com gripe...[n][w][e]
+[s]*tosse* eu nunca pensei que eu iria descer[n]com gripe...[n][w][e]
 [s]Eu estou me sentindo debaixo do tempo, então[n]tenho que perguntar. Você tem [n][f 2 5 3 9999 4], não é?[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_REQUIRE_3]
@@ -1563,7 +1563,7 @@
 [s]Nnrg! Eu não caio nessa! Você não é meu[n]mestre![n][w][e]
 
 [msg TalkMsg_RESULT_BRAINWASH_7]
-[s]* Whimper* Ordens do mestre... deve ser[n]seguido. Eu acordado agora. Aqui, mestre...[n][w][e]
+[s]*Whimper* Ordens do mestre... deve ser[n]seguido. Eu acordado agora. Aqui, mestre...[n][w][e]
 
 [msg TalkMsg_CONTACT_11]
 [s]Haha... corra para casa, humano![n]O rei Kamoshida é mais forte que todo mundo![n][w][e]
@@ -1629,7 +1629,7 @@
 [s]Eu pode voltar a ficar juntos?[n]Por que não falamos?[n][w][e]
 
 [msg TalkMsg_TALK_POSSESSED_B]
-[s]* uivo* eu me lembro do passado![n][w][e]
+[s]*uivo* eu me lembro do passado![n][w][e]
 
 [msg TalkMsg_NEGO_POSSESSED_B]
 [s]Eu acho que você está certo...[n][w][e]
@@ -1670,7 +1670,7 @@
 [s]... eu não tolero isso![n][w][e]
 
 [msg TalkMsg_RESULT_SHOT_3]
-[s]* Growl* eu estou fugindo![n][w][e]
+[s]*Growl* eu estou fugindo![n][w][e]
 
 [msg TalkMsg_RESULT_SHOT_4]
 [s]...? Eu não disparou? Você perdeu?[n][w][e]
@@ -1928,7 +1928,7 @@
 [s]HRM! Eu lembro agora...![n][w][e]
 
 [msg TalkMsg_SHOOT_REACTION02]
-[s]* Uivo* Continue atirando! Batalhas são onde[n]eu e você pertencemos- [n][w][e]
+[s]*Uivo* Continue atirando! Batalhas são onde[n]eu e você pertencemos- [n][w][e]
 [s]HRM! Eu lembro agora...![n][w][e]
 
 [msg TalkMsg_SHOOT_REACTION03]

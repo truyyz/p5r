@@ -29,7 +29,7 @@
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1011 0 3]Não vamos durar se deixarmos esse troféu![n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_TROPHY99_000_000 [Shadow Kamoshida]]
-[s][vp 8 0 2 1012 1 201]* suspiro* Ei![n][f 1 3 65535][w][e]
+[s][vp 8 0 2 1012 1 201]*suspiro* Ei![n][f 1 3 65535][w][e]
 [s][vp 8 0 2 1013 1 201]Você não sabe o que vale isso, então pare de[n]tocá-lo! Não faça mais isso, entendeu? Eu[n]te avisei![n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_TROPHY99_010_001 [Morgana]]
@@ -101,7 +101,7 @@
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1040 0 3]Vamos roubar o tesouro sem que ele perceba![n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_HOLDUP_HOW2STEAL]
-[s][f 4 2]Às vezes, pode ser capaz de dar ordens de[n]operação especiais aos colegas de equipe[n]por sua vez.[n][f 1 3 65535][w][e]
+[s][f 4 2] Às vezes, pode ser capaz de dar ordens de[n]operação especiais aos colegas de equipe[n]por sua vez.[n][f 1 3 65535][w][e]
 [s]Considere as sugestões de seus colegas de[n]equipe e selecione o que você acha que[n]poderá concluir a operação.[n][f 1 3 65535][w][e]
 [s]No entanto, você terá que lutar contra um[n]homem enquanto seu companheiro de equipe[n]está fazendo a ação.[n][f 1 3 65535][w][e]
 
@@ -247,7 +247,7 @@
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1011 0 3]Não vamos durar se deixarmos esse troféu![n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_TROPHY99_000_000_2 [Shadow Kamoshida]]
-[s][vp 8 0 2 1012 1 201]* suspiro* Ei![n][f 1 3 65535][w][e]
+[s][vp 8 0 2 1012 1 201]*suspiro* Ei![n][f 1 3 65535][w][e]
 [s][vp 8 0 2 1013 1 201]Você não sabe o que vale isso, então pare de[n]tocá-lo! Não faça mais isso, entendeu? Eu[n]te avisei![n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_TROPHY99_010_001_2 [Morgana]]
@@ -319,7 +319,7 @@
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1040 0 3]Vamos roubar o tesouro sem que ele perceba![n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_HOLDUP_HOW2STEAL_2]
-[s][f 4 2]Às vezes, pode ser capaz de dar ordens de[n]operação especiais aos colegas de equipe[n]por sua vez.[n][f 1 3 65535][w][e]
+[s][f 4 2] Às vezes, pode ser capaz de dar ordens de[n]operação especiais aos colegas de equipe[n]por sua vez.[n][f 1 3 65535][w][e]
 [s]Considere as sugestões de seus colegas de[n]equipe e selecione o que você acha que[n]poderá concluir a operação.[n][f 1 3 65535][w][e]
 [s]No entanto, você terá que lutar contra um[n]homem enquanto seu companheiro de equipe[n]está fazendo a ação.[n][f 1 3 65535][w][e]
 
@@ -617,7 +617,7 @@
 [s][bup 0 2 102 65535 0][f 4 10 65535 0 0][vp 8 0 2 1107 0 2]Desculpe, Mishima... vamos dar ao Kamoshida[n]o dobro disso![n][f 1 3 65535][w][e]
 
 [msg BALL_TARGET_MISHIMA_OUT0 [Cognitive Yuuki Mishima]]
-[s][vp 8 0 2 1108 1 507]* suspiro* minha bola![n][f 1 3 65535][w][e]
+[s][vp 8 0 2 1108 1 507]*suspiro* minha bola![n][f 1 3 65535][w][e]
 
 [msg RBALL_TARGET_MISHIMA_OUT [Shadow Kamoshida]]
 [s][vp 8 0 2 1109 1 201]Diabos você pensa que está fazendo!?[n]Quão mais inútil você pode ficar, Mishima!?[n][f 1 3 65535][w][e]

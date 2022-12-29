@@ -47,7 +47,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vou começar a me sentir mais carente...[n][f 1 3 65535][w][e]
 
 [msg MSG_006_9_0 [Sumire]]
-[s][bup 0 10 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 57058 65535 0][f 5 13 33 15 10]* ri* Estou tão feliz que você se sente o[n]mesmo.[n][f 1 3 65535][w][e]
+[s][bup 0 10 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 57058 65535 0][f 5 13 33 15 10]*ri* Estou tão feliz que você se sente o[n]mesmo.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Estaremos juntos para sempre.[n]É tarde demais para você voltar.[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Sumire]]

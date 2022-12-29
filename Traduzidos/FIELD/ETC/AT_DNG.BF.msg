@@ -507,7 +507,7 @@
 [s][bup 0 4 101 0 0][f 4 10 65535 0 0][vp 8 2 1 6135 65535 0]Claro, sem problemas.[n][w][e]
 
 [msg WEAPON_MORGANA_MSG_YES [Morgana]]
-[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 1035 65535 0]* risada* Agora sou ainda mais uma ameaça![n][w][e]
+[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 1035 65535 0]*risada* Agora sou ainda mais uma ameaça![n][w][e]
 
 [msg WEAPON_MORGANA_MSG_NO [Morgana]]
 [s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 1 1038 65535 0]Oh, ok... bem, eu já sou uma força a ser[n]reconhecida![n][w][e]

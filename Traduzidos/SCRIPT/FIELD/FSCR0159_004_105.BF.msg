@@ -2,7 +2,7 @@
 [s][bup 0 3 3 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1190 65535 0]Onde você está indo? Estou sentindo o[n]tesouro dessa maneira![n][w][e]
 
 [msg D159_04_L_01_mes01 [Morgana]]
-[s][bup 0 3 4 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1190 65535 0]Onde você está indo? Todo mundo ainda está[n]reunindo Intel por aqui.[n][w][e]
+[s][bup 0 3 4 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1190 65535 0]Onde você está indo? Todo mundo ainda está[n]reunindo Informação por aqui.[n][w][e]
 
 [msg D159_04_L_02_mes01 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1176 65535 0]Há uma sombra...[n][w][e]
@@ -11,7 +11,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Causar uma comoção pode arruinar nossa[n]capacidade de reunir a Intel.[n]Vamos deixar isso em paz por enquanto.[n][w][e]
 
 [msg D159_04_L_02_AF_mes01 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1083 65535 0]Há uma sombra à frente, mas devemos tentar[n]nos concentrar em reunir a Intel por[n]enquanto.[n][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1083 65535 0]Há uma sombra à frente, mas devemos tentar[n]nos concentrar em reunir a Informação por[n]enquanto.[n][w][e]
 
 [msg D159_04_L_03_mes01 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1165 65535 0]Parece que há uma sala segura aqui.[n][w][e]

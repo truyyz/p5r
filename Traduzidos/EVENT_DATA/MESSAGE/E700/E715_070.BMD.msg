@@ -25,7 +25,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas eu ainda faço isso, no entanto.[n]Aposto que os ladrões fantasmas compartilham[n]o mesmo tipo de paixão.[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Lala Escargot]]
-[s][vp 8 0 0 0 65535 0]* Giggle* Eu nunca pensei em ouvir você[n]falando sobre paixão, Ichiko-chan.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]*Giggle* Eu nunca pensei em ouvir você[n]falando sobre paixão, Ichiko-chan.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Talvez toda essa conversa sobre os ladrões[n]Phantom tenha influenciado você. Ou talvez[n]seja apenas o garoto.[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Ohya]]
@@ -146,7 +146,7 @@
 [s][bup 0 107 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Uma cota ainda maior vai ser um problema...[n]mas eu não posso desistir agora![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu prometo, não vou parar de lutar! Vou[n]provar isso para você com outro ótimo[n]artigo![n][f 1 3 65535][w][e]
 [s][bup 0 107 1 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 42 3 100][f 4 24 0 4 0 9 5 100][f 4 24 0 4 0 0 1 0][vp 8 0 0 0 65535 0]"Exclusivo: os ladrões fantasmas, roubando[n]corações e mudando vidas!" [n][f 1 3 65535][w][e]
-[s][bup 0 107 0 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 59 5 100][f 4 24 0 4 0 5 5 100][vp 8 0 0 0 65535 0]* suspiro* desculpe. Eu realmente vou tentar[n]me acalmar agora...[n][f 1 3 65535][w][e]
+[s][bup 0 107 0 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 59 5 100][f 4 24 0 4 0 5 5 100][vp 8 0 0 0 65535 0]*suspiro* desculpe. Eu realmente vou tentar[n]me acalmar agora...[n][f 1 3 65535][w][e]
 
 [msg MND_990_0_0]
 [s][vp 8 0 0 0 65535 0]Eu posso sentir a devoção apaixonada de[n]Ohya...[n][f 1 3 65535][w][e]

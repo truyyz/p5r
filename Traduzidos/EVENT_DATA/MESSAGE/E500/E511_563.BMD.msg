@@ -150,7 +150,7 @@
 
 [msg MSG_037_0_0 [Akechi]]
 [s][bup 0 9 10 65535 0][f 4 10 65535 0 0][vp 8 0 0 48 65535 0]Bem, eu não tinha evidências conclusivas...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 49 65535 0]Mas depois que lutei contra todos vocês,[n]tive uma lacuna na minha memória que[n]terminou com o encontro com [n][f 4 2]novamente.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 49 65535 0]Mas depois que lutei contra todos vocês,[n]tive uma lacuna na minha memória que[n]terminou com o encontro com [n][f 4 2] novamente.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 50 65535 0]Havia também os casos de Wakaba Isshiki e[n]Presidente Okumura...[n]Claro que eu encontraria tudo isso suspeito.[n][f 1 3 65535][w][e]
 
 [msg MSG_038_0_0 [Maruki]]
@@ -206,7 +206,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 74 65535 0]...Peguei vocês.[n][f 1 3 65535][w][e]
 
 [msg MSG_054_5_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 75 65535 0]Vou deixar a decisão para você, [n][f 4 2]—Penhe-me sabido quando você alcançou uma[n]resposta.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 75 65535 0]Vou deixar a decisão para você, [n][f 4 2] —Penhe-me sabido quando você alcançou uma[n]resposta.[n][f 1 3 65535][w][e]
 
 [msg MSG_055_0_0 [Akechi]]
 [s][bup 0 9 10 65535 0][f 4 10 65535 0 0][vp 8 0 0 76 65535 0]... Vou esculpir meu próprio caminho para[n]mim.[n][f 1 3 65535][w][e]

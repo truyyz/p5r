@@ -140,7 +140,7 @@
 [s][bup 0 8 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 41 10 0 10]Certo. Vamos com isso.[n][w][e]
 
 [msg MES_GROUP9_06 [Yusuke]]
-[s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 35 10 0 10]* risada* Essa abordagem certamente me[n]levará a uma beleza recém-descoberta...[n]devo testá-la de uma só vez.[n][w][e]
+[s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 35 10 0 10]*risada* Essa abordagem certamente me[n]levará a uma beleza recém-descoberta...[n]devo testá-la de uma só vez.[n][w][e]
 
 [msg MES_GROUP9_07 [Futaba]]
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 9178 65535 0][f 4 23 1 65535 40 10 0 10]Hoo garoto, aqui vai ele novamente.[n][w][e]

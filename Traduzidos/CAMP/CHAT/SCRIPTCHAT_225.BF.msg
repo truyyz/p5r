@@ -32,7 +32,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Vamos discutir se vamos ou não atrás desse[n]cara no esconderijo![n][f 1 3 65535][w][e]
 
 [msg MND_quest39_OPEN_SELF]
-[s][vp 8 2 65535 0 0 0]Eu obtive a Intel em um alvo.[n]Talvez eu deva ver o que todo mundo tem a[n]dizer no esconderijo...[n][f 1 3 65535][w][e]
+[s][vp 8 2 65535 0 0 0]Eu obtive a Informação em um alvo.[n]Talvez eu deva ver o que todo mundo tem a[n]dizer no esconderijo...[n][f 1 3 65535][w][e]
 
 [sel SEL_002_0_0 top]
 [s][f 5 14]Scriptchat_225 dummy [e]

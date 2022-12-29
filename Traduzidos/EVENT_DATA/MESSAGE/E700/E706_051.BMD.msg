@@ -4,7 +4,7 @@
 
 [msg MSG_000_0_0 [Pretty Girl]]
 [s][bup 0 215 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 9 0]Ann-senpai! Estou tão bombado para começar a[n]trabalhar com você hoje![n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 9 0]Depois que te vi no show do ano passado, eu[n]apenas...[n]* cheirar* Oh, acho que vou chorar...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 9 0]Depois que te vi no show do ano passado, eu[n]apenas...[n]*cheirar* Oh, acho que vou chorar...[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Ann]]
 [s][bup 0 4 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 6027 65535 0]U-um, realmente não foi um grande negócio...[n]Aquele desfile de moda foi minúsculo...[n][f 1 3 65535][w][e]
@@ -73,7 +73,7 @@
 [s][vp 8 0 0 0 65535 0]Não se preocupe, todos sabemos que você está[n]dando tudo de si aqui.[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Mika]]
-[s][bup 0 215 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas... vocês trabalham muito mais do que[n]eu... e ainda sou eu quem está sendo[n]confortado... *cheirar * [n][f 1 3 65535][w][e]
+[s][bup 0 215 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas... vocês trabalham muito mais do que[n]eu... e ainda sou eu quem está sendo[n]confortado... *cheirar* [n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Ann]]
 [s][bup 0 4 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 6029 65535 0]Hold em...[n][f 1 3 65535][w][e]
@@ -86,7 +86,7 @@
 [s][bup 0 4 5 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]H-hey, eu não...[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Mika]]
-[s][bup 0 215 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não se preocupe, eu... eu posso fazer isso[n]sozinho! Eu li o conceito Docs a caminho[n]aqui... *cheirar * [n][f 1 3 65535][w][e]
+[s][bup 0 215 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não se preocupe, eu... eu posso fazer isso[n]sozinho! Eu li o conceito Docs a caminho[n]aqui... *cheirar* [n][f 1 3 65535][w][e]
 
 [msg MSG_021_5_0 [Mika]]
 [s][bup 0 215 6 65535 0][vp 8 0 0 0 65535 0]... heh.[n][f 1 3 65535][w][e]

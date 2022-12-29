@@ -26,7 +26,7 @@
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Eu gostaria de acreditar também, mas não[n]temos nenhuma evidência conclusiva, não é?[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Yusuke]]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Eu não quero duvidar, mas Alibaba hackeou [f 4 2]O telefone está pedindo a ajuda dos ladrões[n]Phantom.[n][f 1 3 65535][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Eu não quero duvidar, mas Alibaba hackeou [f 4 2] O telefone está pedindo a ajuda dos ladrões[n]Phantom.[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]É difícil dizer. Às vezes, a pessoa do lado[n]de fora é muito diferente daquele dentro.[n][f 1 3 65535][w][e]

@@ -50,7 +50,7 @@
 [s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]De qualquer forma- por que vocês não se[n]sentarem antes de eu passar por cima da[n]situação dele?[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Yusuke]]
-[s][bup 0 5 3 5 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]Então, [f 4 2]está em detenção juvenil...[n][f 1 3 65535][w][e]
+[s][bup 0 5 3 5 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]Então, [f 4 2] está em detenção juvenil...[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Sojiro]]
 [s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]Bem, eu preciso estocar alguns suprimentos[n]antes de abrir a loja...[n][f 1 3 65535][w][e]
@@ -66,13 +66,13 @@
 [s][bup 0 6 3 5 0][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]Você sabe, essas mudanças inesperadas podem[n]realmente ser os resultados finais de[n]nossas ações em nossa própria realidade...[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Makoto]]
-[s][bup 0 6 0 5 0][f 4 10 65535 0 0][vp 8 0 0 26 65535 0]Lembre-se de como [f 4 2]Originalmente, estava planejando se entregar[n]à polícia?[n][f 1 3 65535][w][e]
+[s][bup 0 6 0 5 0][f 4 10 65535 0 0][vp 8 0 0 26 65535 0]Lembre-se de como [f 4 2] Originalmente, estava planejando se entregar[n]à polícia?[n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Haru]]
 [s][bup 0 7 3 7 0][f 4 10 65535 0 0][vp 8 0 0 27 65535 0]Então Akechi-kun fez isso por ele...[n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Yusuke]]
-[s][bup 0 5 3 5 0][f 4 10 65535 0 0][vp 8 0 0 28 65535 0]Mas isso ocorreu na realidade do Dr. Maruki-[n]que significa [n][f 4 2]Atualmente...[n][f 1 3 65535][w][e]
+[s][bup 0 5 3 5 0][f 4 10 65535 0 0][vp 8 0 0 28 65535 0]Mas isso ocorreu na realidade do Dr. Maruki-[n]que significa [n][f 4 2] Atualmente...[n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [Ann]]
 [s][bup 0 4 3 5 0][f 4 10 65535 0 0][vp 8 0 0 29 65535 0]Então, tudo o que teria acontecido se não[n]fosse pelo Dr. Maruki... agora isso[n]realmente aconteceu?[n][f 1 3 65535][w][e]
@@ -124,7 +124,7 @@
 [s][bup 0 2 5 5 0][f 4 10 65535 0 0][vp 8 0 0 47 65535 0]Então ele estava lutando tão duro, sabendo[n]que ele iria desaparecer o tempo todo...[n][f 1 3 65535][w][e]
 
 [msg MSG_039_0_0 [Yusuke]]
-[s][bup 0 5 5 5 0][f 4 10 65535 0 0][vp 8 0 0 48 65535 0]Então, [f 4 2]está encarcerado e Akechi é...[n][f 1 3 65535][w][e]
+[s][bup 0 5 5 5 0][f 4 10 65535 0 0][vp 8 0 0 48 65535 0]Então, [f 4 2] está encarcerado e Akechi é...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 49 65535 0]Eu pensei em me preparar pela decisão que[n]tomamos, mas... isso realmente é uma[n]realidade dura.[n][f 1 3 65535][w][e]
 
 [msg MSG_040_0_0 [Sumire]]

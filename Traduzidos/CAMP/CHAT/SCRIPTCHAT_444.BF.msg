@@ -62,7 +62,7 @@
 [s][f 5 14]Descubra se ela é realmente tão fofa[n]quanto eles dizem.[n][f 5 15][w][e]
 
 [msg MSG_999_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 1 0 0]* suspiro* Vamos ignorar esse idiota.[n]Enfim, um especialista em shogi, hein?[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 1 0 0]*suspiro* Vamos ignorar esse idiota.[n]Enfim, um especialista em shogi, hein?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 1 0 0 2 0 0]Atingindo um inimigo com apenas um[n]momento de inspiração, habilmente[n]estratégias para a vitória...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 1 0 0 3 0 0]Na verdade, essas podem ser boas táticas[n]para saber o nosso trabalho como os[n]ladrões fantasmas.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 1 0 0 4 0 0]Eles disseram que ela está na igreja em[n]Kanda, certo? Devemos verificar quando[n]você tiver tempo.[n][f 1 3 65535][w][e]

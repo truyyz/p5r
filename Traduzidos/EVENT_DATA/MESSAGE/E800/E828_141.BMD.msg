@@ -17,7 +17,7 @@
 [s][bup 0 109 506 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Uau, isso me atingiu bem no meu coração...[n]Nossa... isso não é justo.[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Kawakami]]
-[s][bup 0 109 500 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 15 10 1009]* risada* Veja, foi tão difícil ser honesto[n]pela primeira vez?[n][f 1 3 65535][w][e]
+[s][bup 0 109 500 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 15 10 1009]*risada* Veja, foi tão difícil ser honesto[n]pela primeira vez?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Estou feliz por podermos passar um tempo[n]juntos assim também...[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Kawakami]]

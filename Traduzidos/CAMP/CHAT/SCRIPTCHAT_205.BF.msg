@@ -50,7 +50,7 @@
 [s]Fale com as pessoas da cidade e colete[n]informações que ajudarão a mudar o[n]coração do alvo.[n][w][e]
 
 [msg HELP_MEMENTOS_MISSION_04 [Request Received!]]
-[s][clr 4]Intel alvo ganhou [clr 27][n]Agora você pode enviar um cartão de[n]chamada do [n][clr 2]esconderijo [clr 27]. Às vezes você ganha a Intel do seu [clr 3]companheiros de equipe [clr 27]assim.[n][w][e]
+[s][clr 4]Informação alvo ganhou [clr 27][n]Agora você pode enviar um cartão de[n]chamada do [n][clr 2]esconderijo [clr 27]. Às vezes você ganha a Informação do seu [clr 3]companheiros de equipe [clr 27]assim.[n][w][e]
 
 [msg SYS_000_0_0]
 [s]こちらのクエストのセリフは[n]チャットだけでなく[n]全て仮になっています[n][w][e]

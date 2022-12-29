@@ -19,7 +19,7 @@
 [s][bup 0 107 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 16 5 1007]Legal! Você tem ótimas conexões.[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Ohya]]
-[s][bup 0 107 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 16099 65535 0]* risada* Mas, sério, os "ladrões fantasmas[n]dos corações"?[n][f 1 3 65535][w][e]
+[s][bup 0 107 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 16099 65535 0]*risada* Mas, sério, os "ladrões fantasmas[n]dos corações"?[n][f 1 3 65535][w][e]
 [s][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eles soam como crianças em um playground,[n]não com lutadores valiantes para a[n]sociedade...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Quero dizer, eles agem altos e poderosos,[n]mas não tenho certeza se eles realmente[n]valem muito no final.[n][f 1 3 65535][w][e]
 
@@ -59,7 +59,7 @@
 [s][bup 0 107 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não pode fazer. Fui permanentemente[n]transferido para o departamento de cultura[n]e entretenimento.[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Lala Escargot]]
-[s][vp 8 0 0 0 65535 0]* suspiro* que empresa de baixa qualidade...[n]Quero dizer, já faz mais de um ano desde o[n]incidente.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]*suspiro* que empresa de baixa qualidade...[n]Quero dizer, já faz mais de um ano desde o[n]incidente.[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Lala Escargot]]
 [s][vp 8 0 0 0 65535 0]Oh, pelo incidente, quero dizer- [n][f 1 3 65535][w][e]

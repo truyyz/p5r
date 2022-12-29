@@ -1,5 +1,5 @@
 [msg MSG_000_0_0 [Morgana]]
-[s][vp 8 0 0 1 65535 0]Heh... *risada * [n][f 1 2 90][e]
+[s][vp 8 0 0 1 65535 0]Heh... *risada* [n][f 1 2 90][e]
 
 [msg MSG_001_0_0 [Morgana]]
 [s][vp 8 0 0 2 65535 0]Não me leve por um idiota...[n][f 1 2 72][e]

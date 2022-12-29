@@ -10,7 +10,7 @@
 [s]Este besouro?[e]
 
 [msg MSG_003_0_0 [Haru]]
-[s][bup 0 7 201 65535 0][f 4 10 65535 0 0][vp 8 2 0 3048 65535 0][f 5 13 4 10 7]* risada* correto![n][f 1 3 65535][w][e]
+[s][bup 0 7 201 65535 0][f 4 10 65535 0 0][vp 8 2 0 3048 65535 0][f 5 13 4 10 7]*risada* correto![n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Haru]]
 [s][bup 0 7 201 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não! É o que está dentro dos plantadores que[n]conta![n][f 1 3 65535][w][e]
@@ -47,14 +47,14 @@
 
 [msg MSG_011_0_0 [Haru]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 7 1 300 1][vp 8 2 0 3020 65535 0][f 5 13 4 15 7]Sim! Eu acredito plenamente nisso.[n][f 1 3 65535][w][e]
-[s][bup 0 7 201 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 36 5 100][vp 8 0 0 0 65535 0]* risada* é estranho... só recentemente, eu[n]estava lutando para encontrar crença em[n]qualquer coisa.[n][f 1 3 65535][w][e]
+[s][bup 0 7 201 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 36 5 100][vp 8 0 0 0 65535 0]*risada* é estranho... só recentemente, eu[n]estava lutando para encontrar crença em[n]qualquer coisa.[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Haru]]
-[s][bup 0 7 201 65535 0][f 4 10 65535 0 0][vp 8 2 0 3088 65535 0][f 5 13 4 15 7]* risada* Espero que você esteja certo.[n][f 1 3 65535][w][e]
+[s][bup 0 7 201 65535 0][f 4 10 65535 0 0][vp 8 2 0 3088 65535 0][f 5 13 4 15 7]*risada* Espero que você esteja certo.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não estou particularmente confiante no[n]sabor... afinal, esta é minha primeira[n]tentativa.[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Haru]]
-[s][bup 0 7 201 65535 0][f 4 10 65535 0 0][vp 8 2 0 3088 65535 0][f 5 13 4 10 7]* risada* Tenho certeza de que ele não vai.[n][f 1 3 65535][w][e]
+[s][bup 0 7 201 65535 0][f 4 10 65535 0 0][vp 8 2 0 3088 65535 0][f 5 13 4 10 7]*risada* Tenho certeza de que ele não vai.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Quero dizer, eu provavelmente precisaria[n]passar algum tempo em uma fazenda se[n]quisesse cultivar café adequadamente.[n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Haru]]
@@ -76,10 +76,10 @@
 [s]Tem certeza de que pode fazer isso?[e]
 
 [msg MSG_018_0_0 [Haru]]
-[s][bup 0 7 201 65535 0][f 4 10 65535 0 0][vp 8 2 0 3048 65535 0][f 5 13 4 10 7]* risada* obrigado.[n][f 1 3 65535][w][e]
+[s][bup 0 7 201 65535 0][f 4 10 65535 0 0][vp 8 2 0 3048 65535 0][f 5 13 4 10 7]*risada* obrigado.[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Haru]]
-[s][bup 0 7 201 65535 0][f 4 10 65535 0 0][vp 8 2 0 3048 65535 0][f 5 13 4 15 7]* risada* bem, naturalmente. Eu sou uma[n]heroína da justiça, afinal.[n][f 1 3 65535][w][e]
+[s][bup 0 7 201 65535 0][f 4 10 65535 0 0][vp 8 2 0 3048 65535 0][f 5 13 4 15 7]*risada* bem, naturalmente. Eu sou uma[n]heroína da justiça, afinal.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Estou brincando.[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Haru]]

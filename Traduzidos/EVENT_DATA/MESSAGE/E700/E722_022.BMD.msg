@@ -1,5 +1,5 @@
 [msg MSG_000_0_0 [Kasumi]]
-[s][bup 0 10 201 0 0][f 4 10 65535 0 0][vp 8 2 0 57122 65535 0]Nada mal, [f 4 1]-senpai. Você é muito flexível e pega tão[n]rápido![n][f 1 3 65535][w][e]
+[s][bup 0 10 201 0 0][f 4 10 65535 0 0][vp 8 2 0 57122 65535 0]Nada mal, [f 4 1]-senpai. Você é muito flexível[n]e pega tão rápido![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Nesse ritmo, você terá os fundamentos em um[n]piscar de olhos.[n][f 1 3 65535][w][e]
 
 [msg MND_001_0_0]
@@ -59,7 +59,7 @@
 [s][bup 0 10 203 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Oh, eu não estou doente nem nada...[n]fisicamente, estou perfeitamente bem.[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Kasumi]]
-[s][bup 0 10 201 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]* risada* Acho que se fossemos mais longe,[n]você estaria balançando de pé por dias.[n]Como um gatinho recém-nascido![n][f 1 3 65535][w][e]
+[s][bup 0 10 201 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*risada* Acho que se fossemos mais longe,[n]você estaria balançando de pé por dias.[n]Como um gatinho recém-nascido![n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Kasumi]]
 [s][bup 0 10 203 0 0][f 4 10 65535 0 0][vp 8 2 0 57088 65535 0]Você se lembra de como eu disse que queria[n]falar com você sobre algo?[n][f 1 3 65535][w][e]
@@ -95,7 +95,7 @@
 
 [msg MSG_024_0_0 [Kasumi]]
 [s][bup 0 10 200 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu ouvi meu treinador me elogiando. Ela diz:[n]"A maior arma de Kasumi sempre foi sua[n]ousadia".[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E honestamente, isso costumava ser[n]verdadeiro.[n]Eu era totalmente destemido, confiante...[n]A ginástica foi um desafio divertido.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E honestamente, isso costumava ser verdadeiro.[n]Eu era totalmente destemido, confiante...[n]A ginástica foi um desafio divertido.[n][f 1 3 65535][w][e]
 [s][bup 0 10 203 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 6 38 6 100]Mas desde que comecei o ensino médio, estive[n]em uma queda. Fiquei mais alto, por um[n]lado, e houve outras... complicações.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não posso mais me mover como quero.[n]Como se nem fosse meu próprio corpo.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu meio que caí em uma depressão. Ficou[n]muito ruim.[n][f 1 3 65535][w][e]
@@ -117,7 +117,7 @@
 [s][bup 0 10 204 0 0][f 4 10 65535 0 0][vp 8 2 0 57026 65535 0]Er- great! Eu tentarei! Muito obrigado![n][f 1 3 65535][w][e]
 
 [msg MSG_029_0_0 [Kasumi]]
-[s][bup 0 10 201 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]* Giggle* Você é estranho, Senpai.[n]Eu não pensei que você aceitaria.[n][f 1 3 65535][w][e]
+[s][bup 0 10 201 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*Giggle* Você é estranho, Senpai.[n]Eu não pensei que você aceitaria.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bem, vou tentar devolver o favor através do[n]nosso negócio![n][f 1 3 65535][w][e]
 
 [msg MND_030_0_0]

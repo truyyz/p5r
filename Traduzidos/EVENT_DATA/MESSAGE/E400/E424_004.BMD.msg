@@ -48,7 +48,7 @@
 [s][bup 0 206 102 0 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Aquele maldito pirralho que apareceu e ficou[n]contra mim quando eu estava com aquela[n]mulher![n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Shadow Shido]]
-[s][bup 0 206 101 0 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]* risada* Eu vejo... então é você realmente.[n][f 1 3 65535][w][e]
+[s][bup 0 206 101 0 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]*risada* Eu vejo... então é você realmente.[n][f 1 3 65535][w][e]
 
 [msg MSG_014_5_0 [Shadow Shido]]
 [s][bup 0 206 101 0 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Haha... que virada interessante do destino.[n][f 1 3 65535][w][e]

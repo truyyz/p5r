@@ -290,7 +290,7 @@
 [s][vp 8 2 1 0 0 0]Isso... não pode ser...[n][w][e]
 
 [msg MSG_Q75_HINT_OTAKU_000_0 [Skinny Man]]
-[s][f 4 23 1 1 3 10 0 0][vp 8 2 1 0 1 0]* suspiro* isso foi Hella assustador. Foi[n]seriamente o "tackle"...?[n][w][e]
+[s][f 4 23 1 1 3 10 0 0][vp 8 2 1 0 1 0]*suspiro* isso foi Hella assustador. Foi[n]seriamente o "tackle"...?[n][w][e]
 
 [msg MSG_Q75_HINT_OTAKU_010_0 [Plump Man]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Se ele é um colega Otaku, ele deve pelo[n]menos ficar na fila como todo mundo.[n][w][e]
@@ -521,7 +521,7 @@
 [s][f 4 23 1 2 5 10 4 10][vp 8 2 1 0 2 0]Huh? De jeito nenhum! Eu nunca chamaria[n]ninguém assim.[n][w][e]
 
 [msg MSG_TUNDEREMEIDO_001_4_0 [Beautiful Maid]]
-[s][f 4 23 1 2 5 10 4 10][vp 8 2 1 0 2 0]* suspiro* Este trabalho é impossível.[n]Por que diabos eu faço isso?[n][w][e]
+[s][f 4 23 1 2 5 10 4 10][vp 8 2 1 0 2 0]*suspiro* Este trabalho é impossível.[n]Por que diabos eu faço isso?[n][w][e]
 
 [msg MSG_TUNDEREMEIDO_002_0_0 [Fast-Talking Man]]
 [s][f 4 23 1 3 3 10 0 0][vp 8 2 1 0 3 0]café, will you be my maid?[n][w][e]
@@ -922,7 +922,7 @@
 [s][f 4 23 1 7 3 10 0 10][vp 8 2 1 0 7 0]Sim. Eu estava agindo a parte do Airhead com[n]nada além de um rosto e dinheiro bonitos.[n][w][e]
 
 [msg MSG_DATESYOUHO_012_2_0 [Refreshing Man]]
-[s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]* suspiro* Eu tenho feito essa coisa de[n]namorado de aluguel há algum tempo...[n][w][e]
+[s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]*suspiro* Eu tenho feito essa coisa de[n]namorado de aluguel há algum tempo...[n][w][e]
 [s][vp 8 2 1 0 8 0]Mas nunca percebi que estava assistindo a um[n]show de uma mulher. Você é um inferno de[n]uma atriz.[n][w][e]
 
 [msg MSG_DATESYOUHO_013_0_0 [Innocent-Looking Woman]]
@@ -1210,7 +1210,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Acho que conseguimos o que está acontecendo[n]agora. Agora só precisamos passar por cima[n]do esconderijo.[n][w][e]
 
 [msg MSG_F007_001_00_Q75_GAME [Passionate Gamer]]
-[s][vp 8 2 1 0 652 0]* suspiro* Eu não posso aumentar minha[n]classificação em arma sobre...[n][w][e]
+[s][vp 8 2 1 0 652 0]*suspiro* Eu não posso aumentar minha[n]classificação em arma sobre...[n][w][e]
 [s][vp 8 2 1 0 652 0]Eu deveria ter perguntado a Takuya sobre sua[n]técnica de fogo rápido.[n][w][e]
 
 [msg MSG_F007_001_00_Q75_GAME_2 [Morgana]]
@@ -2145,7 +2145,7 @@
 [msg MSG_MAOU_CANCEL_HIGH [Covetous Man]]
 [s][f 4 23 1 80 3 10 0 0][vp 8 2 1 0 80 0]O que... o que!? Por que...!? Por que é que!?[n][w][e]
 [s][vp 8 2 1 0 80 0]Eu sei que é difícil deixar de lado algo tão[n]peludo! Mas ainda![n][w][e]
-[s][vp 8 2 1 0 80 0]* Pant** Pant* Ficou um pouco animado demais.[n]Mas, por favor, espero que você reconsidere[n]isso.[n][w][e]
+[s][vp 8 2 1 0 80 0]*Pant** Pant* Ficou um pouco animado demais.[n]Mas, por favor, espero que você reconsidere[n]isso.[n][w][e]
 
 [msg MSG_MAOU_CANCEL_LOW [Covetous Man]]
 [s][f 4 23 1 80 3 10 0 0][vp 8 2 1 0 80 0]Oh? OK. Até mais tarde então.[n][w][e]

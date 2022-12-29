@@ -299,7 +299,7 @@
 [msg DRESSTALK_ROOMWEAR_PC01__9 [Kasumi]]
 [s][bup 0 10 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Joker-senpai, você está no seu loungewear.[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu costumo usar roupas de lounge assim[n]quando estico. Eu sinto que isso relaxa[n]mais meu corpo também.[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]* risada* Sinto sorte por ver um lado[n]diferente de você.[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]*risada* Sinto sorte por ver um lado[n]diferente de você.[n][w][e]
 
 [msg DRESSTALK_GEKKOUKAN_PC01 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Oh, huh, você está em uma roupa diferente.[n][w][e]
@@ -600,7 +600,7 @@
 [msg DRESSTALK_BUTLER_PC01_PC_5 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Oh, você é um mordomo agora. O que devo[n]pedir para você fazer...[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]HM, que tal isso. Vá me comprar todos os[n]livros de referência na loja da escola.[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]* risada* Estou apenas brincando. Eu sei as[n]respostas para quase todas as perguntas de[n]qualquer maneira.[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]*risada* Estou apenas brincando. Eu sei as[n]respostas para quase todas as perguntas de[n]qualquer maneira.[n][w][e]
 
 [msg DRESSTALK_BUTLER_PC01_PC_6 [Haru]]
 [s][bup 0 7 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Isso é uma roupa de mordomo, Joker?[n][w][e]
@@ -770,7 +770,7 @@
 [msg DRESSTALK_SAMURAI_PC01_P_5 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Joker, o que você está vestindo?[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Você deveria ser um samurai? Aquele...[n]Não se parece com nenhum samurai que eu já[n]vi antes.[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]* risada* Mas fica bem em você.[n]Você se parece um pouco com um cavaleiro[n]medieval.[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]*risada* Mas fica bem em você.[n]Você se parece um pouco com um cavaleiro[n]medieval.[n][w][e]
 
 [msg DRESSTALK_SAMURAI_PC01_P_6 [Haru]]
 [s][bup 0 7 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Oh, essa é uma roupa interessante, Joker.[n][w][e]
@@ -984,7 +984,7 @@
 
 [msg DRESSTALK_FEATHERMAN_PC0_6 [Haru]]
 [s][bup 0 7 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Oh, isso é neo-fheatherman?[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]* risada* Estou um pouco surpreso por você[n]gostar desse tipo de coisa, Joker. Eu[n]assisti esse show quando era pequeno.[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]*risada* Estou um pouco surpreso por você[n]gostar desse tipo de coisa, Joker. Eu[n]assisti esse show quando era pequeno.[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu entendo a sensação de querer ser um[n]herói. Eu sempre admirei heroínas com[n]transformações também.[n][w][e]
 
 [msg DRESSTALK_FEATHERMAN_PC0_7 [Futaba]]
@@ -1133,7 +1133,7 @@
 [msg DRESSTALK_PQ2_PC01_PC07 [Haru]]
 [s][bup 0 7 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ó meu Deus! Que adorável![n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Oh, peço desculpas. Eu simplesmente não pude[n]resistir.[n]Você parece tão fofo de repente![n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Você parece que seria bom abraçar...[n]* risada* é tão fofo.[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Você parece que seria bom abraçar...[n]*risada* é tão fofo.[n][w][e]
 
 [msg DRESSTALK_PQ2_PC01_PC08 [Futaba]]
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Joker... por que sua cabeça é tão grande?[n][w][e]
@@ -1504,7 +1504,7 @@
 [msg DRESSTALK_FEATHERMAN_PC0_12 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]PH-Phoenix Ranger Neo-Featherman![n]Eu sou, hum... Feather Pink![n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Foi assim que vai...? Eu totalmente não[n]entendo isso...[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]* suspiro* O que estou fazendo... usar isso[n]é emocionante, mas também é super[n]embaraçoso.[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]*suspiro* O que estou fazendo... usar isso[n]é emocionante, mas também é super[n]embaraçoso.[n][w][e]
 
 [msg DRESSTALK_DEMONICA_MASKE_12 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu coloquei o capacete demonica, mas...[n]tem certeza de que preciso usar isso?[n][w][e]
@@ -1593,7 +1593,7 @@
 
 [msg DRESSTALK_DANCE_PC05 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Estou com meu traje de dança.[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu não uso uma camisa sem mangas há algum[n]tempo.[n]* risada* parece tão refrescante.[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu não uso uma camisa sem mangas há algum[n]tempo.[n]*risada* parece tão refrescante.[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Agora pegue as profundezas do espaço e sinta[n]a batida! Vamos dançar, Joker![n][w][e]
 
 [msg DRESSTALK_SHADOW_W_PC05 [Yusuke]]
@@ -1886,11 +1886,11 @@
 [s][bup 0 7 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Oh, Joker. Eu tentei em um oufit diferente.[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]É uma roupa muito madura, você não acha?[n]Este é um tom de azul tão bonito...[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Parece uma roupa que uma secretária usaria...[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]"Senhor, você tem uma reunião em uma hora."[n]* risada* apenas brincando.[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]"Senhor, você tem uma reunião em uma hora."[n]*risada* apenas brincando.[n][w][e]
 
 [msg DRESSTALK_FEATHERMAN_PC0_15 [Haru]]
 [s][bup 0 7 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu sou Phoenix Ranger Neo-Featherman, Pental[n]Purple.[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]* ri* Não importa quantos anos eles tenham,[n]os meninos realmente amam super-heróis.[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]*ri* Não importa quantos anos eles tenham,[n]os meninos realmente amam super-heróis.[n][w][e]
 
 [msg DRESSTALK_DEMONICA_MASKE_15 [Haru]]
 [s][bup 0 7 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Oh, Joker. Eu coloquei o capacete de terno[n]Demonica.[n][w][e]
@@ -2150,7 +2150,7 @@
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Estou no traje Demonica.[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Como se encaixa perfeitamente, é fácil se[n]movimentar ao investigar.[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Onde no mundo você conseguiu isso?[n]Eles seriam mais adequados para um[n]exército...[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]* risada* apenas brincando. Não é bom ser[n]intrometido, afinal. Mas não se preocupe,[n]tenho certeza de que posso descobrir por[n]conta própria.[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]*risada* apenas brincando. Não é bom ser[n]intrometido, afinal. Mas não se preocupe,[n]tenho certeza de que posso descobrir por[n]conta própria.[n][w][e]
 
 [msg DRESSTALK_PQ2_PC09 [Akechi]]
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu mudei de roupa, mas... o que exatamente é[n]isso?[n][w][e]

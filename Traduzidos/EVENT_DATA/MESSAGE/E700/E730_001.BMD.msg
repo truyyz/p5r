@@ -78,7 +78,7 @@
 [s][bup 0 305 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bem, ocorrências inexplicáveis como essas[n]são comuns no mundo da matemática.[n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Ms. Usami]]
-[s][bup 0 305 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37254 65535 0]Por exemplo...[f 4 1]-san.[n]Por favor, olhe para isso.[n][f 1 3 65535][w][e]
+[s][bup 0 305 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37254 65535 0]Por exemplo... [f 4 1]-san.[n]Por favor, olhe para isso.[n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Ms. Usami]]
 [s][vp 8 0 0 0 65535 0]Quantas cores são necessárias para pintar[n]todas as regiões sem que dois dois sejam da[n]mesma cor?[n][f 1 3 65535][w][e]
@@ -618,7 +618,7 @@
 
 [msg MSG_152_0_0 [Ms. Chouno]]
 [s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Os quatro ternos de cartas simbolizam algo.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]A propósito, Sr.[f 4 1].[n]Veja isso.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]A propósito, Sr. [f 4 1].[n]Veja isso.[n][f 1 3 65535][w][e]
 
 [msg MSG_153_0_0 [Ms. Chouno]]
 [s][vp 8 2 0 37206 65535 0]Clubes é um clube, Diamonds é uma jóia,[n]Spades é uma espada... Então, o que são[n]corações?[n][f 1 3 65535][w][e]
@@ -688,7 +688,7 @@
 
 [msg MSG_169_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1169 65535 0]Os corvos são assustadores, deixe-me dizer a[n]você.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Quando seus olhos se encontram, eles começam[n]a bater e... *estremecer * [n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Quando seus olhos se encontram, eles começam[n]a bater e... *estremecer* [n][f 1 3 65535][w][e]
 
 [msg MSG_170_0_0 [Ms. Usami]]
 [s][bup 0 305 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37251 65535 0]Agora, então, por favor, abra seus livros[n]didáticos. Hoje estaremos aprendendo sobre[n]funções trigonométricas.[n][f 1 3 65535][w][e]
@@ -905,7 +905,7 @@
 [s][bup 0 305 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bem, ocorrências inexplicáveis como essas[n]são comuns no mundo da matemática.[n][f 1 3 65535][w][e]
 
 [msg MSG_222_0_0 [Ms. Usami]]
-[s][bup 0 305 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37254 65535 0]Por exemplo...[f 4 1]-san.[n]Por favor, olhe para isso.[n][f 1 3 65535][w][e]
+[s][bup 0 305 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37254 65535 0]Por exemplo... [f 4 1]-san.[n]Por favor, olhe para isso.[n][f 1 3 65535][w][e]
 
 [msg MSG_223_0_0 [Ms. Usami]]
 [s][vp 8 0 0 0 65535 0]Dizem que você só precisa de algumas cores[n]para pintar para que as cores adjacentes[n]sejam claramente separadas.[n][f 1 3 65535][w][e]
@@ -1463,7 +1463,7 @@
 
 [msg MSG_352_0_0 [Ms. Chouno]]
 [s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Os quatro ternos de cartas simbolizam algo.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]A propósito, Sr.[f 4 1].[n]Veja isso.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]A propósito, Sr. [f 4 1].[n]Veja isso.[n][f 1 3 65535][w][e]
 
 [msg MSG_353_0_0 [Ms. Chouno]]
 [s][vp 8 2 0 37206 65535 0]Clubs é um clube, Diamonds é uma jóia...[n]Então, o que representa uma pá?[n][f 1 3 65535][w][e]
@@ -1535,7 +1535,7 @@
 
 [msg MSG_369_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1169 65535 0]Os corvos são assustadores, deixe-me dizer a[n]você.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Quando seus olhos se encontram, eles começam[n]a bater e... *estremecer * [n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Quando seus olhos se encontram, eles começam[n]a bater e... *estremecer* [n][f 1 3 65535][w][e]
 
 [msg MSG_370_0_0 [Ms. Usami]]
 [s][bup 0 305 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37251 65535 0]Agora, então, por favor, abra seus livros[n]didáticos. Hoje estaremos aprendendo sobre[n]funções trigonométricas.[n][f 1 3 65535][w][e]

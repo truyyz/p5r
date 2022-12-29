@@ -64,7 +64,7 @@
 [msg MSG_020_0_0 [Akechi]]
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Me desculpe. Eu não quis entrar na sua[n]conversa. Mas devo dizer que este é um[n]grupo interessante.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]A irmã do promotor Niijima, um ex-aluno de[n]Madarame, e alguns estudantes da Academia[n]Shujin...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 26 65535 0]Parece que você está todos conectados aos[n]ladrões Phantom. Talvez você tenha melhor[n]Intel do que eu.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 26 65535 0]Parece que você está todos conectados aos[n]ladrões Phantom. Talvez você tenha melhor[n]Informação do que eu.[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Akechi]]
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 27 65535 0]Ah sim. Eu queria te perguntar uma coisa.[n][f 1 3 65535][w][e]

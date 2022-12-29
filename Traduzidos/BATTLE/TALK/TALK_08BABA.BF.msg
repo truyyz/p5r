@@ -1256,7 +1256,7 @@
 [s]Oh? Você estava tão empolgado com reuniões[n]que queria uma festa como essa, aqui e[n]agora?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_14_R_14]
-[s]* suspiro* Você é definitivamente do tipo[n]que não é convidado para nenhuma reunião,[n]criança.[n][w][e]
+[s]*suspiro* Você é definitivamente do tipo[n]que não é convidado para nenhuma reunião,[n]criança.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_14_R_15]
 [s]Oh? Você queria evitar que as pessoas do seu[n]passado tão mal, você foi obrigado a atirar?[n][w][e]
@@ -1418,7 +1418,7 @@
 [s]Você não vai me deixar beber um [n][f 2 5 3 9999 4]? Apenas um último gosto da vida antes de eu[n]morrer.[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_REQUIRE_2]
-[s]* tosse* Oh, meu, estou me sentindo doente.[n]Algo está me doente... oh, pode ser a gripe.[n][w][e]
+[s]*tosse* Oh, meu, estou me sentindo doente.[n]Algo está me doente... oh, pode ser a gripe.[n][w][e]
 [s]Querida, você não tem um [n][f 2 5 3 9999 4]? Você não vai me deixar ter isso?[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_REQUIRE_3]

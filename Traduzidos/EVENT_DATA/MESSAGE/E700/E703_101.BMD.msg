@@ -9,7 +9,7 @@
 
 [msg MSG_003_0_0 [Sojiro]]
 [s][bup 0 103 1 0 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]Heh, que quase traz uma lágrima aos meus[n]olhos.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Você está indo para [f 4 2]Sala, certo? Vá em frente e levante-o no[n]andar de cima.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Você está indo para [f 4 2] Sala, certo? Vá em frente e levante-o no[n]andar de cima.[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Haru]]
 [s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Obrigado, eu vou.[n][f 1 3 65535][w][e]
@@ -82,7 +82,7 @@
 [s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 32 65535 0]É verdade... posso confiar muito na ajuda de[n]Sakura-san se fizesse isso. HM, eu vou[n]pensar sobre isso.[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Haru]]
-[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 33 65535 0]* risada* Eu aceito que o sentimento vem da[n]experiência pessoal?[n][f 1 3 65535][w][e]
+[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 33 65535 0]*risada* Eu aceito que o sentimento vem da[n]experiência pessoal?[n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Haru]]
 [s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 34 65535 0]De qualquer maneira, acho que esse meu sonho[n]não será uma tarefa fácil.[n][f 1 3 65535][w][e]

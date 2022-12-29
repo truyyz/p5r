@@ -20,7 +20,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Na verdade, eu meio que quero aquela[n]geladeira falando...[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Haru]]
-[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 3048 65535 0][f 5 13 4 10 7]* Giggle* Ouvi dizer que você pode negociar[n]preços nessas lojas.[n]Eu me pergunto se isso é verdade...[n][f 1 3 65535][w][e]
+[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 3048 65535 0][f 5 13 4 10 7]*Giggle* Ouvi dizer que você pode negociar[n]preços nessas lojas.[n]Eu me pergunto se isso é verdade...[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Haru]]
 [s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]A propósito, notei um canto de jardinagem[n]aqui também. Eu acho que posso querer dar[n]uma olhada...[n][f 1 3 65535][w][e]

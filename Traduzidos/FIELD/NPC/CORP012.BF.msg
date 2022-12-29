@@ -559,7 +559,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 1 7 65535 0]Não é tão burro? Você nem estará mais[n]naquela escola.[n][w][e]
 
 [msg MSG_C12_BYEGREET_00_04 [Iwai]]
-[s][bup 0 104 1 0 0][f 4 10 65535 0 0][f 4 23 1 212 49 10 40 10][vp 8 0 1 8 65535 0]* risada* Aparentemente, ele quer se tornar[n]como você.[n][w][e]
+[s][bup 0 104 1 0 0][f 4 10 65535 0 0][f 4 23 1 212 49 10 40 10][vp 8 0 1 8 65535 0]*risada* Aparentemente, ele quer se tornar[n]como você.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 9 65535 0]Só tenho as costas dele, ok?[n][w][e]
 
 [msg MSG_C12_BYEGREET_00_05 [Iwai]]
@@ -595,7 +595,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 1 24 65535 0]Não é tão burro? Você nem estará mais[n]naquela escola.[n][w][e]
 
 [msg MSG_C12_BYEGREET_00_04_5 [Iwai]]
-[s][bup 0 104 1 0 0][f 4 10 65535 0 0][f 4 23 1 212 49 10 40 10][vp 8 0 1 25 65535 0]* risada* Aparentemente, ele quer se tornar[n]como você.[n][w][e]
+[s][bup 0 104 1 0 0][f 4 10 65535 0 0][f 4 23 1 212 49 10 40 10][vp 8 0 1 25 65535 0]*risada* Aparentemente, ele quer se tornar[n]como você.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 26 65535 0]Só tenho as costas dele, ok?[n][w][e]
 
 [msg MSG_C12_BYEGREET_00_05_5 [Iwai]]

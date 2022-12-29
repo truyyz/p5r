@@ -107,7 +107,7 @@
 [msg MSG_021_0_0 [Mishima]]
 [s][bup 0 111 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não era para ficar assim...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Aposto que aquelas garotas nunca teriam[n]laminado em mim se soubessem que sou amiga[n]dos verdadeiros ladrões do Phantom Live.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 19028 65535 0]* suspiro* ser um guardião da justiça não é[n]tão fácil, hein...?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 19028 65535 0]*suspiro* ser um guardião da justiça não é[n]tão fácil, hein...?[n][f 1 3 65535][w][e]
 
 [msg MSG_027_0_0 [Mishima]]
 [s][vp 8 2 0 19049 65535 0]Bem, vamos para casa.[n][f 1 3 65535][w][e]

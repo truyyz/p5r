@@ -128,7 +128,7 @@
 [s]Espero que nada aconteça enquanto tenho isso[n]comigo...[n][f 1 2 65535][e]
 
 [msg MSG_STG01_MNLG_GUARD_01__4]
-[s]* suspiro* Eu gostaria que eles não[n]confiassem objetos de valor para mim...[n][f 1 2 65535][e]
+[s]*suspiro* Eu gostaria que eles não[n]confiassem objetos de valor para mim...[n][f 1 2 65535][e]
 
 [msg MSG_STG01_MNLG_GUARD_01__5]
 [s]E se alguém vier depois disso...? Eles vão[n]me deixar ir se eu desistir?[n][f 1 2 65535][e]
@@ -170,7 +170,7 @@
 [s]Você deve esconder seus objetos de valor em[n]um vaso ou uma cômoda...[n][f 1 2 65535][e]
 
 [msg MSG_NML01_MNLG_FREE_01_0_8]
-[s]* suspiro* espada e escudo tão pesados... eu[n]quero me livrar deles. Mas eu não posso...[n][f 1 2 65535][e]
+[s]*suspiro* espada e escudo tão pesados... eu[n]quero me livrar deles. Mas eu não posso...[n][f 1 2 65535][e]
 
 [msg MSG_NML01_MNLG_FREE_01_0_9]
 [s]Eu vou dar um soco até a morte![n]Vou te cortar com minha espada![n][f 1 2 65535][e]

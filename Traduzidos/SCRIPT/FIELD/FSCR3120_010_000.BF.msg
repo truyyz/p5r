@@ -329,7 +329,7 @@
 [s]E, enquanto sou grato a você... não posso ir[n]mais longe do que isso.[n][w][e]
 
 [msg MSG_DOUBT_RELEASE_01 [Kawakami]]
-[s][bup 0 109 0 65535 1]É minha culpa por ser enganada e deixá-lo[n]relaxar, já que não se encaixava, mas...[n]*suspiro * [n][w][e]
+[s][bup 0 109 0 65535 1]É minha culpa por ser enganada e deixá-lo[n]relaxar, já que não se encaixava, mas...[n]*suspiro* [n][w][e]
 
 [msg MSG_DOUBT_RELEASE_02 [Morgana]]
 [s][bup 0 3 0 0 0][vp 1 0 0 0 0 0]Uau, não é bom para os ladrões fantasmas se[n]você perder esse tempo livre na aula.[n][w][e]

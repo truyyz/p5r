@@ -54,7 +54,7 @@
 [s][vp 8 0 0 0 65535 0][f 5 14]Isso é muito curto! Pelo menos minutos. Por[n]favor![n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Multar. Mas se o chefe chegar em casa,[n]chutamos a porta e entramos se precisarmos.[n][f 1 3 65535][w][e]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Bom. Mas se o chefe chegar em casa,[n]chutamos a porta e entramos se precisarmos.[n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]O tempo acabou, Alibaba.[n][f 1 3 65535][w][e]

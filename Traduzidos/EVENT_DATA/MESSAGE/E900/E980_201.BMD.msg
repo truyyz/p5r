@@ -10,7 +10,7 @@
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E aquele aluno transferido de que todo mundo[n]está falando.[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]* ri* Como você disse, ele não era uma[n]pessoa ruim.[n][f 1 3 65535][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*ri* Como você disse, ele não era uma[n]pessoa ruim.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você com certeza sabe como descobrir uma[n]pessoa. Estou tão orgulhoso de ter você[n]como meu melhor amigo.[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Ann]]

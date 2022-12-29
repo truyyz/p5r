@@ -124,7 +124,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não é tão bom quanto eu![n][f 1 3 65535][w][e]
 
 [msg MSG_033_0_0 [Ryuji]]
-[s][vp 8 0 0 0 65535 0]* calça* santo... porcaria... minhas pernas[n]são shakin '...[n]Não desmaie no seu caminho para casa, cara...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]*calça* santo... porcaria... minhas pernas[n]são shakin '...[n]Não desmaie no seu caminho para casa, cara...[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 7053 65535 0]Mais tarde.[n][f 1 3 65535][w][e]
 
 [msg MSG_900_0_0 [Ryuji]]

@@ -13,7 +13,7 @@
 [s]É uma grande notícia.[e]
 
 [msg MSG_004_0_0 [Igor]]
-[s][bup 0 201 0 0 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]* risada* Eu tenho desfrutado dessa disputa[n]interminável sobre "justiça".[n][f 1 3 65535][w][e]
+[s][bup 0 201 0 0 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]*risada* Eu tenho desfrutado dessa disputa[n]interminável sobre "justiça".[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]No entanto, em breve chegará ao fim- e com a[n]aparência de uma força inesperada, de todas[n]as coisas.[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Igor]]

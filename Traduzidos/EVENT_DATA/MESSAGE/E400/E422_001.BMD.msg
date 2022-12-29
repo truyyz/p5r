@@ -142,7 +142,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 55 65535 0]Se ele realmente está por trás dos[n]desligamentos mentais, ele provavelmente só[n]nos mostrou uma fração de sua força.[n][f 1 3 65535][w][e]
 
 [msg MSG_036_0_0 [Akechi]]
-[s][bup 0 217 101 65535 0][f 4 10 65535 0 0][vp 8 0 0 56 65535 0]* risada* Vou contar tudo sobre meu[n]verdadeiro poder... enquanto você morre.[n][f 1 3 65535][w][e]
+[s][bup 0 217 101 65535 0][f 4 10 65535 0 0][vp 8 0 0 56 65535 0]*risada* Vou contar tudo sobre meu[n]verdadeiro poder... enquanto você morre.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 57 65535 0]Você pode levar esse conhecimento com você[n]para o túmulo.[n][f 1 3 65535][w][e]
 
 [msg MSG_037_0_0 [Akechi]]

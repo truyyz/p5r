@@ -17,14 +17,14 @@
 [s][f 5 14]Então você também está em espera.[n][w][e]
 
 [msg MSG_014_0_0 [Ryuji]]
-[s][f 5 14]Eu e [f 4 2]Vai ir, ok?[n][w][e]
+[s][f 5 14]Eu e [f 4 2] Vai ir, ok?[n][w][e]
 
 [sel SEL_015_0_0 top]
 [s][f 5 14]Entendi.[e]
 [s]Estou preocupado.[e]
 
 [msg MSG_016_0_0 [Ann]]
-[s][f 5 14]Se [f 4 2]Está indo, acho que não há necessidade de[n]se preocupar.[n]Vamos deixar isso para você então.[n][w][e]
+[s][f 5 14]Se [f 4 2] Está indo, acho que não há necessidade de[n]se preocupar.[n]Vamos deixar isso para você então.[n][w][e]
 
 [msg MSG_017_0_0 [Yusuke]]
 [s][f 5 14]Vai tudo ficar bem. Com Ryuji ao seu[n]lado, você se misturará diretamente na[n]cidade perigosa.[n][w][e]

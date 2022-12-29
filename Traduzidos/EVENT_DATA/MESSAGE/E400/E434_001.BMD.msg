@@ -24,7 +24,7 @@
 [s][bup 0 8 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Eu tenho que vingar... minha mãe. É tudo...[n]Obrigado... a todos.[n][f 1 3 65535][w][e]
 
 [msg MSG_007_5_0 [Futaba]]
-[s][bup 0 8 11 65535 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Obrigado- *cheirar * *SOB * [n][f 1 3 65535][w][e]
+[s][bup 0 8 11 65535 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Obrigado- *cheirar* *SOB * [n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Haru]]
 [s][bup 0 7 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Consegui resolver uma dívida em relação ao[n]meu pai também.[n][f 1 3 65535][w][e]
@@ -114,5 +114,5 @@
 [s][bup 0 105 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 51 65535 0]Oh, mais uma coisa. É bom comemorar, mas[n]mantenha-o com moderação, ok?[n][f 1 3 65535][w][e]
 
 [msg MSG_035_5_0 [Sae]]
-[s][bup 0 105 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 52 65535 0]Considerando que [f 4 2]Finalmente está de volta, todos vocês[n]precisam levar sua educação a sério[n]novamente.[n][f 1 3 65535][w][e]
+[s][bup 0 105 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 52 65535 0]Considerando que [f 4 2] Finalmente está de volta, todos vocês[n]precisam levar sua educação a sério[n]novamente.[n][f 1 3 65535][w][e]
 

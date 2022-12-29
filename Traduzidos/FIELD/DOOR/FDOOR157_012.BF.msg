@@ -59,7 +59,7 @@
 [s][bup 0 2 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7044 65535 0]Eles estão trapaceiros, caramba![n][w][e]
 
 [msg e382_210_mes10 [Makoto]]
-[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Multar. As coisas estão diferentes agora.[n][w][e]
+[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Bom. As coisas estão diferentes agora.[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos chegar ao objetivo, mesmo que tenhamos[n]que usar isso [n][clr 2]passagem secreta [clr 27].[n][w][e]
 
 [msg DOOR_Dummy_MES [Makoto]]

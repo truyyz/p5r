@@ -272,7 +272,7 @@
 [s][vp 8 2 0 0 65535 0]De todos os chefes terríveis que eu poderia[n]ter no mundo, por que o meu teve que ser [n][clr 2]Shinsuke Kishi [clr 27]?[n][f 1 3 65535][w][e]
 
 [msg MSG_QUEST_35_3 [Miserable Businessman]]
-[s][vp 8 2 0 0 65535 0]* suspiro* Ei, Lala. Eu gostaria que aqueles[n]ladrões fantasmas pudessem fazer algo e me[n]ajudar com isso...[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0]*suspiro* Ei, Lala. Eu gostaria que aqueles[n]ladrões fantasmas pudessem fazer algo e me[n]ajudar com isso...[n][f 1 3 65535][w][e]
 
 [msg MSG_QUEST_36 [Lala Escargot]]
 [s][vp 8 2 0 57741 65535 0]Tipo, como? Você vai pedir que eles roubem[n]todo o seu estresse?[n][f 1 3 65535][w][e]

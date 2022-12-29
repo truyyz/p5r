@@ -47,7 +47,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 20 65535 0][f 4 3]! Você precisa permanecer focado![n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Sae]]
-[s][bup 0 105 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]* suspiro*... não me assuste assim.[n][f 1 3 65535][w][e]
+[s][bup 0 105 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]*suspiro*... não me assuste assim.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Se o que você está dizendo é verdadeiro,[n]você deve contar o seu lado da história até[n]o fim.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Nós dois estaremos com problemas se seu[n]testemunho se tornar não confiável.[n][f 1 3 65535][w][e]
 

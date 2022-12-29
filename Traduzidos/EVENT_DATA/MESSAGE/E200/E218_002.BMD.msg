@@ -53,7 +53,7 @@
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 3 3 300 1][vp 8 0 0 16 65535 0]Você vai descansar!? Definitivamente, esse[n]não é o caso![n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]* suspiro* que resposta meio onquada.[n][f 1 3 65535][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]*suspiro* que resposta meio onquada.[n][f 1 3 65535][w][e]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Bem, não há como um desonesto e honrado como[n]eu poderia ser mau.[n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Morgana]]

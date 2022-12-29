@@ -20,7 +20,7 @@
 [msg MSG_004_0_0 [Ohya]]
 [s][bup 0 107 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]... Não minta para mim.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Você é realmente superficial, sabe disso?[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]* suspiro*... é muito arriscado continuar[n]nosso acordo.[n]Apenas saia daqui.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]*suspiro*... é muito arriscado continuar[n]nosso acordo.[n]Apenas saia daqui.[n][f 1 3 65535][w][e]
 
 [msg MND_990_0_0]
 [s][vp 8 0 0 0 65535 0]Ohya está começando a perder sua confiança[n]em mim...[n][f 1 3 65535][w][e]

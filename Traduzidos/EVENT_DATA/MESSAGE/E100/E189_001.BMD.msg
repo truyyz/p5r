@@ -65,7 +65,7 @@
 [s][bup 0 111 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Vou viver de acordo com suas expectativas...[n]prometo.[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Mishima]]
-[s][bup 0 111 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]* risada* Nesse caso, farei apenas o que[n]quero.[n][f 1 3 65535][w][e]
+[s][bup 0 111 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]*risada* Nesse caso, farei apenas o que[n]quero.[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Mishima]]
 [s][bup 0 111 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 26 65535 0]Sim, eu irei.[n][f 1 3 65535][w][e]

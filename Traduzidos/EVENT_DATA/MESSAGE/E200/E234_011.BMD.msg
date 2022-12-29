@@ -12,7 +12,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Você percebeu? Eles parecem ter influenciado[n]você.[n][f 1 3 65535][w][e]
 
 [msg MSG_005_5_0 [Igor]]
-[s][bup 0 201 0 0 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]* risos* Esses dissidentes picarescos da[n]sociedade... aprofundam seus laços com eles.[n][f 1 3 65535][w][e]
+[s][bup 0 201 0 0 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]*risos* Esses dissidentes picarescos da[n]sociedade... aprofundam seus laços com eles.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Esses se tornarão a força por trás da sua[n]reabilitação... estou ansioso por isso.[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Igor]]

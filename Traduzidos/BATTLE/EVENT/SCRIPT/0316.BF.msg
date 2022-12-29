@@ -84,7 +84,7 @@
 [msg MSG_BTL40AFTER_010_000 [Caroline]]
 [s][vp 8 0 2 1028 1 245]Sim... este não é o poder de um humano[n]normal.[n][f 1 3 65535][w][e]
 [s][vp 8 0 2 1029 1 245]Parece que não precisamos mais ir para[n]você...[n][f 1 3 65535][w][e]
-[s][vp 8 0 2 1030 1 245]* risada* Você é muito melhor do que[n]pensávamos que seria, preso! Vamos dar tudo[n]o que temos a partir de agora![n][f 1 3 65535][w][e]
+[s][vp 8 0 2 1030 1 245]*risada* Você é muito melhor do que[n]pensávamos que seria, preso! Vamos dar tudo[n]o que temos a partir de agora![n][f 1 3 65535][w][e]
 
 [msg MSG_BTL40AFTER_020_000 [Justine]]
 [s][vp 8 0 2 1031 1 244]Talvez agora, possamos ver...[n][f 1 3 65535][w][e]

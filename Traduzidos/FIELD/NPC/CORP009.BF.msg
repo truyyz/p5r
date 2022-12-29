@@ -686,7 +686,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 1 11 65535 0]... até então, aqui.[n][w][e]
 
 [msg MSG_C09_BYEGREET_00_06 [Futaba]]
-[s][bup 0 8 3 65535 0][f 4 23 1 209 14 10 13 10][f 4 10 65535 0 0][vp 8 0 1 12 65535 0]* Sniff* Já vá...[n][w][e]
+[s][bup 0 8 3 65535 0][f 4 23 1 209 14 10 13 10][f 4 10 65535 0 0][vp 8 0 1 12 65535 0]*Sniff* Já vá...[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 13 65535 0]Meus óculos vão elogiar...[n][w][e]
 
 [msg MSG_C09_BYEGREET_00_07 [Futaba]]

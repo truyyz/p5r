@@ -18,7 +18,7 @@
 [s][bup 0 10 700 0 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0][f 4 24 0 4 0 35 5 100]Quando você me elogia assim, sinto que tudo[n]vai ficar bem no final![n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Sumire]]
-[s][bup 0 10 701 0 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]* risada* provavelmente é graças a você se[n]sentir tão nervoso que eu sou capaz de[n]manter minha compostura.[n][f 1 3 65535][w][e]
+[s][bup 0 10 701 0 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]*risada* provavelmente é graças a você se[n]sentir tão nervoso que eu sou capaz de[n]manter minha compostura.[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Sumire]]
 [s][bup 0 10 704 0 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Ah...[n][f 1 3 65535][w][e]
@@ -176,14 +176,14 @@
 [s]Tem sido um prazer.[e]
 
 [msg MSG_044_7_0 [Sumire]]
-[s][bup 0 10 700 0 0][f 4 10 65535 0 0][vp 8 0 0 54 65535 0][f 5 13 33 15 10]* risada* Suponho que devo dar o elogio.[n][f 1 3 65535][w][e]
+[s][bup 0 10 700 0 0][f 4 10 65535 0 0][vp 8 0 0 54 65535 0][f 5 13 33 15 10]*risada* Suponho que devo dar o elogio.[n][f 1 3 65535][w][e]
 
 [msg MSG_044_8_0 [Sumire]]
 [s][bup 0 10 700 0 0][f 4 10 65535 0 0][vp 8 0 0 55 65535 0][f 5 13 33 10 10]Ah... bom ponto.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 56 65535 0]Acabei de me aproximar da linha de partida.[n][f 1 3 65535][w][e]
 
 [msg MSG_044_9_0 [Sumire]]
-[s][bup 0 10 700 0 0][f 4 10 65535 0 0][vp 8 0 0 57 65535 0][f 5 13 33 5 10]* risada* você é o cavalheiro.[n][f 1 3 65535][w][e]
+[s][bup 0 10 700 0 0][f 4 10 65535 0 0][vp 8 0 0 57 65535 0][f 5 13 33 5 10]*risada* você é o cavalheiro.[n][f 1 3 65535][w][e]
 
 [msg MSG_045_5_0 [Sumire]]
 [s][bup 0 10 700 0 0][f 4 10 65535 0 0][vp 8 0 0 58 65535 0]Sinto muito por repetir isso até a morte,[n]mas eu realmente preciso dizer de novo...[n][f 1 3 65535][w][e]
@@ -229,7 +229,7 @@
 [s][bup 0 10 704 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Rótulo de corte [n][f 1 3 65535][w][e]
 
 [msg MSG_055_3_0 [Sumire]]
-[s][bup 0 10 700 0 0][f 4 10 65535 0 0][vp 8 0 0 67 65535 0]* risada* estou brincando.[n][f 1 3 65535][w][e]
+[s][bup 0 10 700 0 0][f 4 10 65535 0 0][vp 8 0 0 67 65535 0]*risada* estou brincando.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 68 65535 0]Não importa onde eu me apresento... mesmo[n]que esteja do outro lado da terra...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 69 65535 0]Parece que você ainda estará lá, cuidando de[n]mim.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 70 65535 0]Eu realmente acredito nisso de todo o[n]coração![n][f 1 3 65535][w][e]

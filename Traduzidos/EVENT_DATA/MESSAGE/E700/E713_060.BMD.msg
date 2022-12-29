@@ -15,7 +15,7 @@
 [s][vp 8 0 0 0 5 0]É muito reconfortante ter um médico tão[n]distinto aqui na cidade. Vejo você de novo[n]em breve.[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Takemi]]
-[s][bup 0 108 3 0 0][f 4 10 65535 0 0][vp 8 2 0 14028 65535 0]* suspiro*... o que diabos?[n][f 1 3 65535][w][e]
+[s][bup 0 108 3 0 0][f 4 10 65535 0 0][vp 8 2 0 14028 65535 0]*suspiro*... o que diabos?[n][f 1 3 65535][w][e]
 
 [sel SEL_006_0_0 top]
 [s]Bem, alguém é popular.[e]

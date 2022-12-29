@@ -92,7 +92,7 @@
 [s][bup 0 4 1 65535 0][f 4 10 65535 0 0][f 4 23 1 226 3 10 0 10][vp 8 2 1 0 65535 0]Oh, que tal algum pudim de modo de la?[n]Vou te dar minha dica sobre a melhor maneira[n]de aproveitar![n][w][e]
 
 [msg MSG_0621_ANN_AND_MAKOTO__7 [Ann]]
-[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][f 4 23 1 226 3 10 0 10][vp 8 2 1 6001 65535 0]Oh, [f 4 2]eat some crêpes too?[n][w][e]
+[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][f 4 23 1 226 3 10 0 10][vp 8 2 1 6001 65535 0]Oh, [f 4 2] eat some crêpes too?[n][w][e]
 
 [msg MSG_0621_ANN_AND_MAKOTO__8 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][f 4 23 1 222 3 10 0 10][vp 8 2 1 0 65535 0]? Você veio aqui para realmente? Vocês com[n]certeza adoram ir a lugares assim...[n][w][e]
@@ -579,7 +579,7 @@
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]*sombria*... estou chocado! O que vou fazer[n]sobre os fundos de atividade...?[n][w][e]
 
 [msg MSG_TIKAAIDORU_006_8_0 [Small-Time Indie Idol]]
-[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Ochhh! Seja como for, estou acostumado a[n]isso, de qualquer maneira... *beicinho * [n][w][e]
+[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Ochhh! Seja como for, estou acostumado a[n]isso, de qualquer maneira... *beicinho* [n][w][e]
 [s][vp 8 2 1 0 2 0]Vou ter que mudar de direção novamente se[n]isso não vender. Estou acostumado com isso[n]também... *Sniffle* [n][w][e]
 
 [msg MSG_TIKAAIDORU_007_0_0 [Fanatical Man]]
@@ -713,7 +713,7 @@
 [s][vp 8 2 1 0 2 0]...Aqui! Você está bem agora! Você não está[n]mais envergonhado, certo? Direita?[n][w][e]
 
 [msg MSG_TIKAAIDORU_010_3_0 [Small-Time Indie Idol]]
-[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Ah, Ding Ding![f 4 1]-san, certo?[n][w][e]
+[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Ah, Ding Ding! [f 4 1]-san, certo?[n][w][e]
 [s][vp 8 2 1 0 2 0]Obrigado pelo seu apoio constante! Está[n]carregando meu medidor de energia[n]hiperativa![n][w][e]
 [s][vp 8 2 1 0 2 0]*Grunt* agora está cheio! Hora de trabalhar[n]duro novamente hoje! Vamos fazer isso![n][w][e]
 
@@ -876,7 +876,7 @@
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Awww, você está recebendo ciúmes? Não se[n]preocupe, eu sou o ídolo de todos![n][w][e]
 
 [msg MSG_TIKAAIDORU_013_5_0 [Small-Time Indie Idol]]
-[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]HM HM...[f 4 1]-San está com raiva. Então você não gosta[n]dos ladrões fantasmas...[n][w][e]
+[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]HM HM... [f 4 1]-San está com raiva. Então você não gosta[n]dos ladrões fantasmas...[n][w][e]
 
 [msg MSG_TIKAAIDORU_013_6_0 [Small-Time Indie Idol]]
 [s][vp 8 2 1 0 2 0]Eles enviaram seu cartão de visita! Vamos[n]torcer pelos ladrões fantasmas! Cuidado,[n]bandidos![n][w][e]
@@ -1159,7 +1159,7 @@
 [s][f 4 23 1 601 3 10 0 0][vp 8 2 1 0 601 0]Eu já tive o suficiente! Quantas vezes você[n]fez isso!?[n][w][e]
 
 [msg Quest02_target_01_01 [Megumi Hoshii]]
-[s][f 4 23 1 600 3 10 0 0][vp 8 2 1 0 600 0]É irritante como você me dá palestras todas[n]as vezes! Multar! Vou devolver as coisas,[n]tudo bem!?[n][w][e]
+[s][f 4 23 1 600 3 10 0 0][vp 8 2 1 0 600 0]É irritante como você me dá palestras todas[n]as vezes! Bom! Vou devolver as coisas,[n]tudo bem!?[n][w][e]
 [s][vp 8 2 65535 0 0 0]......[n][w][e]
 [s][vp 8 2 1 0 600 0]Huh? O que é isto? Alguém me escreveu uma[n]carta?[n][w][e]
 

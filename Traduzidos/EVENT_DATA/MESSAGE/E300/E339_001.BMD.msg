@@ -72,7 +72,7 @@
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 31 65535 0]A maneira como eles estão esquentando está[n]em um nível diferente.[n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 32 65535 0]Não se esqueça da Intel nos casos de[n]desligamento mental, tudo bem?[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 32 65535 0]Não se esqueça da Informação nos casos de[n]desligamento mental, tudo bem?[n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 33 65535 0]É claro! Vamos pegar os dois![n][f 1 3 65535][w][e]

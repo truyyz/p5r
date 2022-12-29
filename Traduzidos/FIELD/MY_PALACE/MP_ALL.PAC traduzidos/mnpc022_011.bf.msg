@@ -124,7 +124,7 @@
 [s][bup 0 3 11 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 4 10 0 10]Shucks, você está me envergonhando! Bem,[n]vamos ouvir. Exatamente que quanto a mim[n]foi tão legal? Dê-nos os detalhes![n][w][e]
 
 [msg MES_GROUP7_03 [Ann]]
-[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 33 10 0 10][vp 8 2 1 6028 65535 0]* suspiro* Você seria mais frio com um pouco[n]de humildade.[n][w][e]
+[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 33 10 0 10][vp 8 2 1 6028 65535 0]*suspiro* Você seria mais frio com um pouco[n]de humildade.[n][w][e]
 
 [msg MES_GROUP8_00 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 7085 65535 0]Eu odeio admitir, mas esse cara é um[n]verdadeiro fodão.[n][w][e]

@@ -30,7 +30,7 @@
 [s][vp 8 0 0 0 65535 0]Ooh... isso parecia doer.[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Male Student]]
-[s][vp 8 0 0 0 65535 0]* risador* ele o bateu na testa...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]*risador* ele o bateu na testa...[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Mr. Ushimaru]]
 [s][vp 8 0 0 0 65535 0]Isso é o que você ganha para cochilar.[n][f 1 3 65535][w][e]

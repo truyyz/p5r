@@ -132,7 +132,7 @@
 [s]Bem, sobre isso...[e]
 
 [msg MSG_029_0_0 [Ohya]]
-[s][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Multar.[n][f 1 3 65535][w][e]
+[s][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bom.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 107 1 301 65535][vp 8 0 0 0 65535 0]Se você está enfiando o nariz por vontade[n]própria, não há nada que eu possa fazer.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vou resolver este caso por conta própria...[n]Mas eu aprecio ter um amigo que me levou de[n]costas.[n][f 1 3 65535][w][e]
 [s][f 4 7 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 107 1 301 1][vp 8 2 0 16099 65535 0]Tudo bem, vamos dar uma festa de kickoff![n]Vamos quebrar o champanhe esta noite![n][f 1 3 65535][w][e]

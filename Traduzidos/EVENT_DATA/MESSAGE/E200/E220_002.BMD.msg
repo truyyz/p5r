@@ -33,12 +33,12 @@
 [s][vp 8 0 0 11 65535 0](うんざりとため息)[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Sae]]
-[s][bup 0 105 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]...Multar. Ainda há muito mais que quero[n]ouvir.[n][f 1 3 65535][w][e]
+[s][bup 0 105 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]...Bom. Ainda há muito mais que quero[n]ouvir.[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Sae]]
 [s][bup 0 105 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Foi nessa época que os ladrões fantasmas[n]começaram a ganhar realmente popularidade.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Mentiras inundaram a Internet- coisas como[n]"Os ladrões fantasmas também me salvaram"[n]ou "eu tenho um cartão de visita"...[n][f 1 3 65535][w][e]
-[s][bup 0 105 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Pelo amor de Deus... essas mentiras fizeram[n]com que a coleção de Intel demorasse quase[n]dez vezes mais.[n][f 1 3 65535][w][e]
+[s][bup 0 105 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Pelo amor de Deus... essas mentiras fizeram[n]com que a coleção de Informação demorasse quase[n]dez vezes mais.[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Sae]]
 [s][bup 0 105 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Agora, seu próximo alvo era esse homem...[n][f 1 3 65535][w][e]

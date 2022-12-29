@@ -97,7 +97,7 @@
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Você tem certeza sobre isso? Não consigo[n]imaginar que você queira que eu solte este[n]vídeo de você roubando...[n][w][e]
 
 [msg MSG_IJIMEKKO_006_1_0 [Daisuke Takanashi]]
-[s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Multar! Apenas pare de me fazer sangrar as[n]pessoas secarem, Sakoda![n][w][e]
+[s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Bom! Apenas pare de me fazer sangrar as[n]pessoas secarem, Sakoda![n][w][e]
 
 [msg MSG_IJIMEKKO_006_2_0 [Sakoda]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Ei, você fez tudo isso por conta própria.[n]Você realmente quer que eu mostre isso aos[n]seus professores, Huh, Takanashi-kun?[n][w][e]

@@ -122,7 +122,7 @@
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 23 1 207 32 10 31 10][vp 8 2 1 7156 65535 0]Chegamos até o tesouro, então vamos enviar o[n]cartão de chamada.[n][w][e]
 
 [msg MSG_C07_BEGIN_D00_60_00 [Ryuji]]
-[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][f 4 23 1 207 32 10 31 10][vp 8 2 1 7087 65535 0]* Bocejo* Eu realmente não estou cavando[n]tudo isso sentado em torno da porcaria.[n][w][e]
+[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][f 4 23 1 207 32 10 31 10][vp 8 2 1 7087 65535 0]*Bocejo* Eu realmente não estou cavando[n]tudo isso sentado em torno da porcaria.[n][w][e]
 
 [msg MSG_C07_BEGIN_D06_50_00 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 23 1 207 32 10 31 10][vp 8 2 1 7001 65535 0]Temos o nosso dia definido para o cartão[n]Callin ', então acho que precisamos esperar[n]até então.[n][w][e]
@@ -161,7 +161,7 @@
 [s]Na verdade, deixe-me repensar isso.[e]
 
 [msg MSG_C07_ACTION_D07_31_11 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 23 1 207 32 10 31 10][vp 8 2 1 7028 65535 0]* suspiro* você nunca muda... bem, eu estou[n]caído por isso se você estiver.[n][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 23 1 207 32 10 31 10][vp 8 2 1 7028 65535 0]*suspiro* você nunca muda... bem, eu estou[n]caído por isso se você estiver.[n][w][e]
 [s][vp 8 2 1 0 65535 0][f 4 10 65535 0 0]Apenas certifique-se de não deixar ninguém[n]te ver, sim?[n][w][e]
 
 [msg MSG_C07_ACTION_D07_31_12 [Ryuji]]

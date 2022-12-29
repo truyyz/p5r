@@ -31,5 +31,5 @@
 [s][f 4 10 65535 0 0][vp 1 0 0 42 0 0]Mishima disse que está no fliperama na[n]Central Street, certo? Vamos ver do que[n]se trata tudo.[n][f 1 3 65535][w][e]
 
 [msg HELP_MEMENTOS_MISSION_27 [Mission Completed!]]
-[s][clr 4]Memento Intel ganhou [clr 27][n]Agora você pode enviar um cartão de[n]chamada do [n][clr 2]esconderijo [clr 27]. Às vezes você ganha a Intel do seu [clr 3]companheiros de equipe [clr 27]assim.[n][w][e]
+[s][clr 4]Memento Informação ganhou [clr 27][n]Agora você pode enviar um cartão de[n]chamada do [n][clr 2]esconderijo [clr 27]. Às vezes você ganha a Informação do seu [clr 3]companheiros de equipe [clr 27]assim.[n][w][e]
 

@@ -29,7 +29,7 @@
 [s][f 5 14]Mas se ele é realmente tão famoso, não[n]será fácil encontrá-lo?[n][w][e]
 
 [msg MSG_CHAT_quest27_10 [Makoto]]
-[s][f 5 14]Isso é verdade. Ok, devemos reunir a[n]Intel no rei nos arcadas ao redor da[n]cidade.[n][f 5 15][w][e]
+[s][f 5 14]Isso é verdade. Ok, devemos reunir a[n]Informação no rei nos arcadas ao redor da[n]cidade.[n][f 5 15][w][e]
 
 [msg MSG_CHAT_quest27_14 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1021 65535 0]Eu não sabia que alguém poderia ficar[n]famoso apenas por ser bom em um[n]videogame...[n][f 1 3 65535][w][e]

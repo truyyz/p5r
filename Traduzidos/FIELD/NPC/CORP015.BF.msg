@@ -130,7 +130,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]E as informações sobre os ladrões Phantom[n]estão a caminho?[n][w][e]
 
 [msg MSG_C15_SPOT_01_00 [Ohya]]
-[s][bup 0 107 3 65535 0][f 4 10 65535 0 0][f 4 23 1 215 14 10 13 10][vp 8 2 1 16028 65535 0]* suspiro* Não posso reunir nenhuma notícia[n]por causa do chefe. Ele duvida que eu[n]esteja namorando um cara mais jovem...[n][w][e]
+[s][bup 0 107 3 65535 0][f 4 10 65535 0 0][f 4 23 1 215 14 10 13 10][vp 8 2 1 16028 65535 0]*suspiro* Não posso reunir nenhuma notícia[n]por causa do chefe. Ele duvida que eu[n]esteja namorando um cara mais jovem...[n][w][e]
 [s][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ei, devemos tentar fazer uma data real?[n]Alguma praia por aqui ou algo assim?[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]...Estou brincando. Você tem algumas[n]informações do Phantom Thieves para mim[n]novamente hoje, certo?[n][w][e]
 
@@ -173,7 +173,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Precisa de informações sobre o Phantom[n]Thiessss. Então sente-se sua bela bunda[n]para baixo...[n][w][e]
 
 [msg MSG_C15_COOP_06_00 [Ohya]]
-[s][bup 0 107 3 65535 0][f 4 10 65535 0 0][f 4 23 1 215 14 10 13 10][vp 8 2 1 0 65535 0]* suspiro*... Deus, minha cabeça está se[n]dividindo.[n]O trabalho tem sido difícil... eu preciso de[n]uma pausa...[n][w][e]
+[s][bup 0 107 3 65535 0][f 4 10 65535 0 0][f 4 23 1 215 14 10 13 10][vp 8 2 1 0 65535 0]*suspiro*... Deus, minha cabeça está se[n]dividindo.[n]O trabalho tem sido difícil... eu preciso de[n]uma pausa...[n][w][e]
 [s][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Você tem boas histórias? Estou tomando um[n]pouco de pausa, então sou todos ouvidos.[n][w][e]
 
 [msg MSG_C15_COOP_07_00 [Ohya]]
@@ -518,7 +518,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 1 41 65535 0]Aqui. É um registro de todas as lutas que[n]compartilhamos.[n][w][e]
 
 [msg MSG_C15_BYEGREET_00_06_5 [Ohya]]
-[s][bup 0 107 6 65535 0][f 4 10 65535 0 0][f 4 23 1 215 3 10 0 10][vp 8 0 1 42 65535 0]* suspiro* Então é isso, hein? Você vai do[n]seu jeito e eu vou o meu? Vai ficar tão[n]chato por aqui...[n][w][e]
+[s][bup 0 107 6 65535 0][f 4 10 65535 0 0][f 4 23 1 215 3 10 0 10][vp 8 0 1 42 65535 0]*suspiro* Então é isso, hein? Você vai do[n]seu jeito e eu vou o meu? Vai ficar tão[n]chato por aqui...[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 43 65535 0]Embora algo me diga que ir para casa não o[n]impedirá de provocar alguns problemas.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 44 65535 0]Chame isso de palpite de um repórter, eu[n]acho.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 45 65535 0]Suponho que você é apenas uma pessoa[n]permanente de interesse. Então, sem deixar[n]o mapa, ok?[n][w][e]

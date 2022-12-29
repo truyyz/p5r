@@ -112,7 +112,7 @@
 [s][bup 0 205 101 0 0][f 4 10 65535 0 0][vp 8 0 0 58 65535 0]A realidade fria de chutar as pessoas faz[n]parte dos negócios! Virtude e sentimento[n]são para perdedores.[n][f 1 3 65535][w][e]
 
 [msg MSG_021_7_0 [Shadow Okumura]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 211 10 301 1][vp 8 0 0 57 65535 0]* risada* Okumura Foods será a base da minha[n]vitória![n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 211 10 301 1][vp 8 0 0 57 65535 0]*risada* Okumura Foods será a base da minha[n]vitória![n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Makoto]]
 [s][bup 0 6 104 0 0][f 4 10 65535 0 0][vp 8 0 0 37 65535 0]Sua empresa é apenas um trampolim...[n][f 1 3 65535][w][e]

@@ -8,7 +8,7 @@
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bem, é bom ter muitos amigos, certo? Não[n]gosto de me envolver muito com esse tipo de[n]coisa.[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Futaba]]
-[s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Este é um dos [f 4 2]So Charms So...[n][f 1 3 65535][w][e]
+[s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Este é um dos [f 4 2] So Charms So...[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Chihaya]]
 [s][bup 0 113 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Heh, parece que eu estava certo sobre você.[n][f 1 3 65535][w][e]

@@ -57,7 +57,7 @@
 [s][f 0 8 2 1 2217]Honestamente, eu era.[clr 27][e]
 
 [msg MSG_014_0_0 [Ann]]
-[s][bup 0 4 6 65535 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0][f 5 13 7 15 4]* risada* Cuide bem disso.[n][f 1 3 65535][w][e]
+[s][bup 0 4 6 65535 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0][f 5 13 7 15 4]*risada* Cuide bem disso.[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Ann]]
 [s][bup 0 4 6 65535 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0][f 5 13 7 15 4]Você me conhece tão bem...[n][f 1 3 65535][w][e]

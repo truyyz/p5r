@@ -1,7 +1,7 @@
 [msg MSG_000_0_0 [Futaba]]
 [s][bup 0 8 5 65535 0][f 4 10 65535 0 0][vp 8 2 0 9027 65535 0]OS-onde todas essas pessoas vieram...?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Hrgh... eu sabia que seria assim, mas...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não, eu não posso encolher! Não quando [f 4 2]está comigo.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não, eu não posso encolher! Não quando [f 4 2] está comigo.[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Futaba]]
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 9196 65535 0]Passeios de emoção! Uma casa mal-assombrada![n]Alguns outros passeios! Particularmente algo[n]com tema espacial![n][f 1 3 65535][w][e]

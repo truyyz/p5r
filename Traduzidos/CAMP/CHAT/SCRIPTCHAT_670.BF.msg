@@ -37,7 +37,7 @@
 [msg MSG_001_0_0 [Ryuji]]
 [s][f 5 14]Corte, seu idiota![n][w][e]
 [s][f 5 14]Você vai arruinar tudo se disser coisas[n]assim![n][w][e]
-[s][f 5 14]OK? Devolva o [n][f 4 2]Eu sei![n][f 5 15][w][e]
+[s][f 5 14]OK? Devolva o [n][f 4 2] Eu sei![n][f 5 15][w][e]
 
 [msg MSG_002_0_0 [Ryuji]]
 [s][f 5 14]Você é estúpido!?[n][w][e]

@@ -13,7 +13,7 @@
 [s][bup 0 103 2 0 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Isso deveria ser uma desculpa? Quão[n]direcionalmente desafiado você pode ser?[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Sojiro]]
-[s][bup 0 103 2 0 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]* suspiro* Só não venha correndo para mim[n]quando for preso. Será para você, lembra?[n][f 1 3 65535][w][e]
+[s][bup 0 103 2 0 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]*suspiro* Só não venha correndo para mim[n]quando for preso. Será para você, lembra?[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Sojiro]]
 [s][bup 0 103 2 0 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]... A propósito, você não está em torno de[n]nenhuma influência ruim, não é?[n][f 1 3 65535][w][e]
@@ -36,7 +36,7 @@
 [s][bup 0 103 2 0 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Mesmo se você ficar com as pessoas, tenha[n]cuidado para não escolher alguém que[n]arruine sua vida.[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Sojiro]]
-[s][bup 0 103 3 0 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]* Bocejo* Olhe para o tempo.[n][f 1 3 65535][w][e]
+[s][bup 0 103 3 0 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]*Bocejo* Olhe para o tempo.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Sério, pense em como me sinto tendo que[n]ficar aqui em cima esperando por você.[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Sojiro]]

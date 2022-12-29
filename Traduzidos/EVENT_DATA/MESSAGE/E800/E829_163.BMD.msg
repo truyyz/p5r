@@ -25,7 +25,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mesmo eu não sou isso- [n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Shinya]]
-[s][bup 0 110 4 0 0][f 4 10 65535 0 0][vp 8 2 0 17042 65535 0]Uau![f 4 1]-san, olhe![n]Isso é um tubarão!?[n][f 1 3 65535][w][e]
+[s][bup 0 110 4 0 0][f 4 10 65535 0 0][vp 8 2 0 17042 65535 0]Uau! [f 4 1]-san, olhe![n]Isso é um tubarão!?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Puta merda... seus dentes são insanos...[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Shinya]]

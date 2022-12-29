@@ -29,7 +29,7 @@
 [s][f 0 8 2 1 2217]Você tem fortes convicções.[clr 27][e]
 
 [msg MSG_008_0_0 [Chihaya]]
-[s][bup 0 113 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0][f 5 13 11 10 1013]* risada* obrigado.[n][f 1 3 65535][w][e]
+[s][bup 0 113 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0][f 5 13 11 10 1013]*risada* obrigado.[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Chihaya]]
 [s][bup 0 113 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0][f 5 13 11 15 1013]...Sim![n][f 1 3 65535][w][e]
@@ -45,7 +45,7 @@
 [msg MSG_012_0_0 [Chihaya]]
 [s][bup 0 113 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Então eu descobri que você é o trapaceiro[n]que causa uma sensação no mundo.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Era o mesmo cartão que a figura que me[n]ajudou a derrubar o presidente.[n][f 1 3 65535][w][e]
-[s][bup 0 113 1 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 42 5 100][f 4 24 0 4 0 1 5 0][vp 8 0 0 19 65535 0]* risada* Finalmente chegou em casa para[n]mim...![n][f 1 3 65535][w][e]
+[s][bup 0 113 1 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 42 5 100][f 4 24 0 4 0 1 5 0][vp 8 0 0 19 65535 0]*risada* Finalmente chegou em casa para[n]mim...![n][f 1 3 65535][w][e]
 
 [sel SEL_013_0_0 top]
 [s]Eu me pergunto se você está certo...[e]

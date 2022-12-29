@@ -160,7 +160,7 @@
 [s][vp 8 2 1 0 11 0]...Oh não. Eu disse muito. Para sua própria[n]segurança, não posso correr o risco de[n]expor mais informações secretas.[n][w][e]
 
 [msg MSG_AKOGAREDANSI_008_0_0 [Starry-Eyed Student]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]* Pant** Pant* Eu usei muito dos meus[n]poderes... Estou exausto, mas consegui[n]derrubá-los...[n][w][e]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]*Pant** Pant* Eu usei muito dos meus[n]poderes... Estou exausto, mas consegui[n]derrubá-los...[n][w][e]
 
 [sel SEL_AKOGAREDANSI_008_0_0 top]
 [s]O que você pensa que está fazendo?[e]

@@ -36,7 +36,7 @@
 [s][f 5 14]Não seria exagero dizer que desta vez, o[n]destino do mundo realmente está em[n]nossas mãos...[n][w][e]
 
 [msg MSG_014_0_0 [Yusuke]]
-[s][f 5 14]Gosta [f 4 2]Diz, devemos nos preparar o máximo que[n]pudermos antes que chegue a hora.[n][w][e]
+[s][f 5 14]Gosta [f 4 2] Diz, devemos nos preparar o máximo que[n]pudermos antes que chegue a hora.[n][w][e]
 
 [msg MSG_015_0_0 [Sumire]]
 [s][f 5 14]No entanto, sentimos isso, é apenas uma[n]semana.[n][w][e]

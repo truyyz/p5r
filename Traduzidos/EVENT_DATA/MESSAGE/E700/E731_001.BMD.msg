@@ -169,7 +169,7 @@
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Não ouvi falar disso? É uma condição em que[n]seus sentidos podem atravessar um sobre o[n]outro, como ver música como cor.[n][f 1 3 65535][w][e]
 
 [msg MSG_044_0_0 [Ms. Chouno]]
-[s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Senhor.[f 4 1]. Você estava olhando para o espaço, não[n]estava?[n][f 1 3 65535][w][e]
+[s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Senhor. [f 4 1]. Você estava olhando para o espaço, não[n]estava?[n][f 1 3 65535][w][e]
 
 [msg MSG_045_0_0 [Ms. Chouno]]
 [s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37204 65535 0]Bem, seu número acabou. As palavras-raiz da[n]sinestesia são "syn" e "aistese". O que[n]eles querem dizer?[n][f 1 3 65535][w][e]
@@ -201,7 +201,7 @@
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Embora a razão pela qual Madarame vê o mundo[n]de maneira diferente, é por causa de seus[n]desejos distorcidos.[n][f 1 3 65535][w][e]
 
 [msg MSG_052_0_0 [Ms. Kawakami]]
-[s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15115 65535 0]* bocejo* uh... abra seus livros didáticos.[n][f 1 3 65535][w][e]
+[s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15115 65535 0]*bocejo* uh... abra seus livros didáticos.[n][f 1 3 65535][w][e]
 
 [msg MSG_053_0_0 [Ms. Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ontem, estávamos conversando sobre "Hell[n]Screen", de Ryunosuke Akutagawa.[n][f 1 3 65535][w][e]
@@ -248,7 +248,7 @@
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Eu não quero que todos esqueçam, ok?[n]Não carregue pela porta em seus blazers.[n][f 1 3 65535][w][e]
 
 [msg MSG_064_0_0 [Ms. Chouno]]
-[s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Naquela nota, Sr.[f 4 1].[n][f 1 3 65535][w][e]
+[s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Naquela nota, Sr. [f 4 1].[n][f 1 3 65535][w][e]
 
 [msg MSG_065_0_0 [Ms. Chouno]]
 [s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37204 65535 0]Os Blazers originais foram nomeados que,[n]graças a uma certa qualidade que tinham.[n]Alguma ideia do que era?[n][f 1 3 65535][w][e]
@@ -444,7 +444,7 @@
 [s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sem mencionar, julho e agosto têm trinta e[n]um dias. O verão é longo...[n][f 1 3 65535][w][e]
 
 [msg MSG_114_0_0 [Ms. Chouno]]
-[s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Agora então, Sr.[f 4 1]![n][f 1 3 65535][w][e]
+[s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Agora então, Sr. [f 4 1]![n][f 1 3 65535][w][e]
 
 [msg MSG_115_0_0 [Ms. Chouno]]
 [s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37206 65535 0]Você sabe o motivo pelo qual julho e agosto[n]têm trinta e um dias?[n][f 1 3 65535][w][e]
@@ -567,7 +567,7 @@
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Estou acostumado a isso, então eu realmente[n]peguei com eles em inglês.[n][f 1 3 65535][w][e]
 
 [msg MSG_144_0_0 [Ms. Chouno]]
-[s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Senhor.[f 4 1]! Mostre-me o quanto seu inglês melhorou.[n][f 1 3 65535][w][e]
+[s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Senhor. [f 4 1]! Mostre-me o quanto seu inglês melhorou.[n][f 1 3 65535][w][e]
 
 [msg MSG_145_0_0 [Ms. Chouno]]
 [s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37205 65535 0]Temos um ditado em japonês: "Um falcão[n]qualificado esconde suas garras". O que o[n]idioma inglês transmite o mesmo conceito?[n][f 1 3 65535][w][e]
@@ -609,7 +609,7 @@
 
 [msg MSG_154_0_0 [Ms. Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15129 65535 0]Ei! Você está na aula agora![n]Pare de falar sobre Okumura e os ladrões[n]Phantom![n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Nossa...[f 4 1]-kun! Você estava ouvindo pelo menos, certo?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Nossa... [f 4 1]-kun! Você estava ouvindo pelo menos, certo?[n][f 1 3 65535][w][e]
 
 [msg MSG_155_0_0 [Ms. Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15117 65535 0]A palavra "robô" não veio do inglês. Então,[n]de que país veio?[n][f 1 3 65535][w][e]
@@ -692,7 +692,7 @@
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Os ladrões fantasmas estão tentando roubar a[n]galáxia de junk food de mim!?[n][f 1 3 65535][w][e]
 
 [msg MSG_174_0_0 [Mr. Hiruta]]
-[s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37154 65535 0]Dito isto...[f 4 1]-kun.[n][f 1 3 65535][w][e]
+[s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37154 65535 0]Dito isto... [f 4 1]-kun.[n][f 1 3 65535][w][e]
 
 [msg MSG_175_0_0 [Mr. Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O céu noturno pode estar cheio de inúmeras[n]galáxias...[n][f 1 3 65535][w][e]
@@ -731,7 +731,7 @@
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Precisamos anunciar que Shujin é uma escola[n]que oferece uma educação que você pode usar[n]em qualquer lugar do mundo.[n][f 1 3 65535][w][e]
 
 [msg MSG_184_0_0 [Ms. Chouno]]
-[s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ei! Senhor.[f 4 1]![n][f 1 3 65535][w][e]
+[s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ei! Senhor. [f 4 1]![n][f 1 3 65535][w][e]
 
 [msg MSG_185_0_0 [Ms. Chouno]]
 [s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Existem toneladas de siglas de três letras[n]como a ESS no mundo.[n][f 1 3 65535][w][e]
@@ -772,7 +772,7 @@
 [s][bup 0 302 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37114 65535 0]Sou professor há vinte anos, mas este foi o[n]ano mais louco da minha carreira.[n][f 1 3 65535][w][e]
 
 [msg MSG_193_0_0 [Mr. Inui]]
-[s][bup 0 302 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Houve esses incidentes em abril, depois os[n]ladrões fantasmas e o diretor... *suspiro * [n][f 1 3 65535][w][e]
+[s][bup 0 302 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Houve esses incidentes em abril, depois os[n]ladrões fantasmas e o diretor... *suspiro* [n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Sim... como você pode dizer, a situação é[n]realmente muito louca.[n][f 1 3 65535][w][e]
 
 [msg MSG_194_0_0 [Mr. Inui]]
@@ -1149,7 +1149,7 @@
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Uma vez, outro autor usou Holmes em sua[n]própria história sem permissão, e Doyle[n]protestou.[n][f 1 3 65535][w][e]
 
 [msg MSG_284_0_0 [Ms. Kawakami]]
-[s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Agora, então...[f 4 1]-kun.[n][f 1 3 65535][w][e]
+[s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Agora, então... [f 4 1]-kun.[n][f 1 3 65535][w][e]
 
 [msg MSG_285_0_0 [Ms. Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15118 65535 0]Qual foi o nome do outro romance famoso em[n]que Sherlock Holmes apareceu?[n][f 1 3 65535][w][e]
@@ -1189,7 +1189,7 @@
 [s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Expressões para o clima são totalmente[n]diferentes, dependendo do país em que você[n]está.[n][f 1 3 65535][w][e]
 
 [msg MSG_294_0_0 [Ms. Chouno]]
-[s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Agora então... Sr.[f 4 1]![n][f 1 3 65535][w][e]
+[s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Agora então... Sr. [f 4 1]![n][f 1 3 65535][w][e]
 
 [msg MSG_295_0_0 [Ms. Chouno]]
 [s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37206 65535 0]Em inglês, a que se refere o termo "clima de[n]gato e cachorro"?[n][f 1 3 65535][w][e]
@@ -1519,7 +1519,7 @@
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]LeBlanc já teve um famoso personagem de[n]detetive de outra série aparecendo em uma[n]das histórias de tremoço.[n][f 1 3 65535][w][e]
 
 [msg MSG_374_0_0 [Ms. Kawakami]]
-[s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Agora, então...[f 4 1]-kun.[n][f 1 3 65535][w][e]
+[s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Agora, então... [f 4 1]-kun.[n][f 1 3 65535][w][e]
 
 [msg MSG_375_0_0 [Ms. Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15118 65535 0]Você sabe de qual autor LeBlanc emprestou?[n][f 1 3 65535][w][e]
@@ -1778,7 +1778,7 @@
 [s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Expressões para o clima são totalmente[n]diferentes, dependendo do país em que você[n]está.[n][f 1 3 65535][w][e]
 
 [msg MSG_434_0_0 [Ms. Chouno]]
-[s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Agora então... Sr.[f 4 1]![n][f 1 3 65535][w][e]
+[s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Agora então... Sr. [f 4 1]![n][f 1 3 65535][w][e]
 
 [msg MSG_435_0_0 [Ms. Chouno]]
 [s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37206 65535 0]Qual desses animais está envolvido em um[n]idioma inglês sobre o clima?[n][f 1 3 65535][w][e]
@@ -1860,7 +1860,7 @@
 [s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sem mencionar, julho e agosto têm trinta e[n]um dias. O verão é longo...[n][f 1 3 65535][w][e]
 
 [msg MSG_454_0_0 [Ms. Chouno]]
-[s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Agora então, Sr.[f 4 1]![n][f 1 3 65535][w][e]
+[s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Agora então, Sr. [f 4 1]![n][f 1 3 65535][w][e]
 
 [msg MSG_455_0_0 [Ms. Chouno]]
 [s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37206 65535 0]Duas pessoas são responsáveis por julho e[n]agosto com 31 dias. Você sabe quem são[n]essas pessoas?[n][f 1 3 65535][w][e]
@@ -1988,7 +1988,7 @@
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Estou acostumado a isso, então eu realmente[n]peguei com eles em inglês.[n][f 1 3 65535][w][e]
 
 [msg MSG_484_0_0 [Ms. Chouno]]
-[s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Senhor.[f 4 1]! Mostre-me o quanto você conhece seu inglês.[n][f 1 3 65535][w][e]
+[s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Senhor. [f 4 1]! Mostre-me o quanto você conhece seu inglês.[n][f 1 3 65535][w][e]
 
 [msg MSG_485_0_0 [Ms. Chouno]]
 [s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37205 65535 0]Qual é uma das supostas origens para a frase[n]"gato pegou sua língua"?[n][f 1 3 65535][w][e]
@@ -2030,7 +2030,7 @@
 
 [msg MSG_494_0_0 [Ms. Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15129 65535 0]Ei! Você está na aula agora![n]Pare de falar sobre Okumura e os ladrões[n]Phantom![n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Nossa...[f 4 1]-kun! Você estava ouvindo pelo menos, certo?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Nossa... [f 4 1]-kun! Você estava ouvindo pelo menos, certo?[n][f 1 3 65535][w][e]
 
 [msg MSG_495_0_0 [Ms. Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15117 65535 0]O robô vem de uma palavra na tcheco...[n]Mas onde na Europa está localizada a[n]República Tcheca?[n][f 1 3 65535][w][e]
@@ -2113,7 +2113,7 @@
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Os ladrões fantasmas estão tentando roubar a[n]galáxia de junk food de mim!?[n][f 1 3 65535][w][e]
 
 [msg MSG_514_0_0 [Mr. Hiruta]]
-[s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37154 65535 0]Dito isto...[f 4 1]-kun.[n][f 1 3 65535][w][e]
+[s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37154 65535 0]Dito isto... [f 4 1]-kun.[n][f 1 3 65535][w][e]
 
 [msg MSG_515_0_0 [Mr. Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Talvez você pense que entende o quão vasto é[n]o universo, cheio de inúmeras galáxias, mas[n]considere isso...[n][f 1 3 65535][w][e]
@@ -2188,7 +2188,7 @@
 [s][bup 0 302 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37114 65535 0]Sou professor há vinte anos, mas este foi o[n]ano mais louco da minha carreira.[n][f 1 3 65535][w][e]
 
 [msg MSG_533_0_0 [Mr. Inui]]
-[s][bup 0 302 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Houve esses incidentes em abril, depois os[n]ladrões fantasmas e o diretor... *suspiro * [n][f 1 3 65535][w][e]
+[s][bup 0 302 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Houve esses incidentes em abril, depois os[n]ladrões fantasmas e o diretor... *suspiro* [n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Sim... como você pode dizer, a situação é[n]realmente muito louca.[n][f 1 3 65535][w][e]
 
 [msg MSG_534_0_0 [Mr. Inui]]
@@ -2360,7 +2360,7 @@
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]"Ihatov" é o mais famoso entre eles.[n]Este lugar recebeu o nome vagamente após a[n]cidade natal do autor.[n][f 1 3 65535][w][e]
 
 [msg MSG_574_0_0 [Ms. Kawakami]]
-[s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Okay agora...[f 4 1]-kun.[n][f 1 3 65535][w][e]
+[s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Okay agora... [f 4 1]-kun.[n][f 1 3 65535][w][e]
 
 [msg MSG_575_0_0 [Ms. Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15117 65535 0]Onde você acha que a terra fictícia de[n]"ihatov" é modelada depois?[n][f 1 3 65535][w][e]
@@ -2535,7 +2535,7 @@
 
 [msg MSG_999_5_2 [Mr. Inui]]
 [s][bup 0 302 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]É Nero.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]* suspiro* É bom se lançar nas atividades do[n]seu clube, mas você não deve sacrificar[n]seus estudos.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*suspiro* É bom se lançar nas atividades do[n]seu clube, mas você não deve sacrificar[n]seus estudos.[n][f 1 3 65535][w][e]
 
 [msg MSG_999_5_3 [Mishima]]
 [s][bup 0 111 505 65535 0][vp 8 0 0 0 65535 0]......[n][f 1 3 65535][w][e]

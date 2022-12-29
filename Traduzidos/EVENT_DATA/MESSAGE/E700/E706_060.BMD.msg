@@ -102,7 +102,7 @@
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 6034 65535 0]... Sim, eu farei exatamente isso.[n]Eu vou dar tudo de mim...![n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você sabe, [f 4 2]Estar com você realmente me ajuda a ver as[n]coisas claramente.[n][f 1 3 65535][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você sabe, [f 4 2] Estar com você realmente me ajuda a ver as[n]coisas claramente.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O que devo fazer, o verdadeiro significado[n]da força...[n][f 1 3 65535][w][e]
 [s][bup 0 4 1 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 36 5 100][f 4 24 0 4 0 9 3 100][vp 8 2 0 6061 65535 0]Bem... obrigado por isso.[n][f 1 3 65535][w][e]
 

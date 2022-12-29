@@ -18,7 +18,7 @@
 [s]Decidir depois [e]
 
 [msg MSG_006_0_0 [Ryuji]]
-[s][f 5 14][f 4 2]Eu estarei lá.[n]Estarei esperando.[n][w][e]
+[s][f 5 14][f 4 2] Eu estarei lá.[n]Estarei esperando.[n][w][e]
 
 [msg MSG_007_0_0 [Ann]]
 [s][f 5 14]Não vou me segurar, mesmo sendo um casal, ok?[n][w][e]

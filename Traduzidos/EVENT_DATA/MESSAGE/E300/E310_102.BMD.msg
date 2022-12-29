@@ -20,7 +20,7 @@
 [s][vp 8 0 0 0 65535 0]Todo isso nadar me cansou.[n]Eu acho que vou deitar [n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Sexy Woman in a Swimsuit]]
-[s][vp 8 0 0 0 65535 0]* ri* Se você tivesse um menino para passar[n]um tempo com você.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]*ri* Se você tivesse um menino para passar[n]um tempo com você.[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Timid Woman in a Swimsuit]]
 [s][vp 8 0 0 0 65535 0]Não traga isso à tona! Não consigo nem[n]pensar em ter um namorado agora...[n][f 1 3 65535][w][e]
@@ -69,7 +69,7 @@
 
 [msg MSG_021_0_0 [Sexy Woman in a Swimsuit]]
 [s][vp 8 0 0 0 65535 0]Parece que eles querem nos conhecer.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]* risada* Suponho que você fez um esforço[n]para vir aqui, com certeza. Vamos conversar.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]*risada* Suponho que você fez um esforço[n]para vir aqui, com certeza. Vamos conversar.[n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Sexy Woman in a Swimsuit]]
 [s][vp 8 0 0 0 65535 0]Ooh realmente? É bom ouvir você dizer isso.[n][f 1 3 65535][w][e]
@@ -227,7 +227,7 @@
 [msg MSG_067_0_0 [Sexy Woman in a Swimsuit]]
 [s][vp 8 0 0 0 65535 0]HM...?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Meu coração apenas pulou uma batida...[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]Você é muito mais homem do que parece.[n]Para sua sorte, eu sou um otário para homens[n]agressivos... *risada * [n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Você é muito mais homem do que parece.[n]Para sua sorte, eu sou um otário para homens[n]agressivos... *risada* [n][f 1 3 65535][w][e]
 
 [msg MSG_068_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não tenho certeza de como, mas parece que[n]ela tirou a isca. Isso está realmente indo[n]bem?[n][f 1 3 65535][w][e]
@@ -309,7 +309,7 @@
 [s][vp 8 0 0 0 65535 0]O contorno curvo que forma o corpo lírico de[n]uma mulher é arte em sua forma mais pura[n]possível![n][f 1 3 65535][w][e]
 
 [msg MSG_094_0_0 [Sexy Woman in a Swimsuit]]
-[s][vp 8 0 0 0 65535 0]* risada* eu tenho que concordar. Eu sempre[n]desejei ser como uma daquelas estátuas nus[n]impressionantes.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]*risada* eu tenho que concordar. Eu sempre[n]desejei ser como uma daquelas estátuas nus[n]impressionantes.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]HM, você parece ser apaixonado por arte.[n]Talvez eu deixe você me atrair nua algum[n]dia.[n][f 1 3 65535][w][e]
 
 [msg MSG_095_0_0 [Ryuji]]
@@ -527,7 +527,7 @@
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sério? Então que tal- [n][f 1 3 65535][w][e]
 
 [msg MSG_160_0_0 [Timid Woman in a Swimsuit]]
-[s][vp 8 0 0 0 65535 0]* suspiro* Tudo isso falando está me[n]deixando com fome.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]*suspiro* Tudo isso falando está me[n]deixando com fome.[n][f 1 3 65535][w][e]
 
 [msg MSG_161_0_0 [Sexy Woman in a Swimsuit]]
 [s][vp 8 0 0 0 65535 0]É verdade que ainda não almoçamos.[n][f 1 3 65535][w][e]
@@ -551,7 +551,7 @@
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mom? Papai...?[n][f 1 3 65535][w][e]
 
 [msg MSG_168_0_0 [Sexy Woman in a Swimsuit]]
-[s][vp 8 0 0 0 65535 0]* risada* ela é na verdade minha filha. Meu[n]marido está almoçando para nós agora.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]*risada* ela é na verdade minha filha. Meu[n]marido está almoçando para nós agora.[n][f 1 3 65535][w][e]
 
 [msg MSG_169_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ah, então você veio à praia em família. Eu[n]invejo sua forte dinâmica doméstica.[n][f 1 3 65535][w][e]
@@ -571,13 +571,13 @@
 [s][vp 8 0 0 0 65535 0]Eu ainda entendi, hein?[n]Vou me gabar do seu pai com isso.[n][f 1 3 65535][w][e]
 
 [msg MSG_174_0_0 [Sexy Woman in a Swimsuit]]
-[s][vp 8 0 0 0 65535 0]* risada* Vou considerar isso um elogio.[n]Isso é simplesmente o que as mulheres fazem[n]com os homens.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]*risada* Vou considerar isso um elogio.[n]Isso é simplesmente o que as mulheres fazem[n]com os homens.[n][f 1 3 65535][w][e]
 
 [msg MSG_175_0_0 [Timid Woman in a Swimsuit]]
 [s][vp 8 0 0 0 65535 0]Minha mãe não parece jovem? Meus amigos[n]sempre a confundem com minha irmã mais[n]velha.[n][f 1 3 65535][w][e]
 
 [msg MSG_176_0_0 [Sexy Woman in a Swimsuit]]
-[s][vp 8 0 0 0 65535 0]* ri* É legal da sua parte dizer isso, mas[n]desculpe. Não há chance para você.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]*ri* É legal da sua parte dizer isso, mas[n]desculpe. Não há chance para você.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Minha filha pode ser solteira, mas o meu[n]marido é muito rigoroso. Ele fica bravo se[n]um garoto até fala com ela.[n][f 1 3 65535][w][e]
 
 [msg MSG_177_0_0 [Timid Woman in a Swimsuit]]
@@ -867,7 +867,7 @@
 [s][vp 8 0 0 0 65535 0]Caras que voam sozinho são muito legais.[n]Muito mais maduro do que aqueles que ficam[n]em grupo.[n][f 1 3 65535][w][e]
 
 [msg MSG_262_0_0 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Isso não [f 4 2]está realmente fazendo por opção. É apenas[n]'causa dessa falsa acusação...[n][f 1 3 65535][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Isso não [f 4 2] está realmente fazendo por opção. É apenas[n]'causa dessa falsa acusação...[n][f 1 3 65535][w][e]
 
 [msg MSG_263_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ainda assim, parece que despertamos o[n]interesse deles. Isso deve empurrar a[n]conversa em diante.[n][f 1 3 65535][w][e]
@@ -902,7 +902,7 @@
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Uhhh, eu não sei... não tenho[n]cronometramento ultimamente, mas prolly[n]cerca de seis segundos?[n][f 1 3 65535][w][e]
 
 [msg MSG_273_0_0 [Foreign Girl in a Swimsuit]]
-[s][vp 8 0 0 0 65535 0]* grito* Isso é incrível! Você está muito[n]rápido do que todos os meninos da minha[n]escola![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]*grito* Isso é incrível! Você está muito[n]rápido do que todos os meninos da minha[n]escola![n][f 1 3 65535][w][e]
 
 [msg MSG_274_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Parece que tivemos uma boa nota com eles.[n]Nossa conversa está começando a fluir bem.[n][f 1 3 65535][w][e]
@@ -958,7 +958,7 @@
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Oh, esses? Eu sempre costumava beber os[n]extras naquela época.[n][f 1 3 65535][w][e]
 
 [msg MSG_291_0_0 [Foreign Girl in a Swimsuit]]
-[s][vp 8 0 0 0 65535 0]* grito* você é tão confiável![n]Eu quero ser como você, senhor![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]*grito* você é tão confiável![n]Eu quero ser como você, senhor![n][f 1 3 65535][w][e]
 
 [msg MSG_292_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]HM, parece que essa conversa nostálgica os[n]tornou bastante animados. Isso pode ser bom.[n][f 1 3 65535][w][e]
@@ -1624,7 +1624,7 @@
 [s][vp 8 0 0 0 65535 0]Eu acho que seria óbvio se tentássemos[n]inventar uma história no local do Phan.[n][f 1 3 65535][w][e]
 
 [msg MSG_490_0_0 [Done-Up Woman in a Swimsuit]]
-[s][vp 8 0 0 0 65535 0]* suspiro* Acho que não havia sentido lhe[n]perguntando. Eu me pergunto se alguém[n]realmente os conheceu...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]*suspiro* Acho que não havia sentido lhe[n]perguntando. Eu me pergunto se alguém[n]realmente os conheceu...[n][f 1 3 65535][w][e]
 
 [msg MSG_491_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Droga! Eles estão Starin 'Right para nós,[n]mas estão agindo como se estivessem nem se[n]interessam...[n][f 1 3 65535][w][e]
@@ -1637,7 +1637,7 @@
 [s][vp 8 0 0 0 65535 0]Já também existem toneladas de solicitações[n]no local do Phan. Não há como eles nos[n]escolher.[n][f 1 3 65535][w][e]
 
 [msg MSG_494_0_0 [Done-Up Woman in a Swimsuit]]
-[s][vp 8 0 0 0 65535 0]* suspiro* Acho que não havia sentido lhe[n]perguntando. Eu me pergunto se alguém[n]realmente os conheceu...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]*suspiro* Acho que não havia sentido lhe[n]perguntando. Eu me pergunto se alguém[n]realmente os conheceu...[n][f 1 3 65535][w][e]
 
 [msg MSG_495_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Droga! Eles estão Starin 'Right para nós,[n]mas estão agindo como se estivessem nem se[n]interessam...[n][f 1 3 65535][w][e]
@@ -1721,7 +1721,7 @@
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Huh? Eles usam fogo para Yakisoba![n]Como isso é diferente do seu churrasco ou o[n]que for!?[n][f 1 3 65535][w][e]
 
 [msg MSG_521_0_0 [Thin-Browed Woman in a Swimsuit]]
-[s][vp 8 0 0 0 65535 0]Hum, é totalmente diferente.[n]* suspiro* Não estou interessado em um cara[n]que não tem dinheiro.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Hum, é totalmente diferente.[n]*suspiro* Não estou interessado em um cara[n]que não tem dinheiro.[n][f 1 3 65535][w][e]
 
 [msg MSG_522_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eles parecem pensar em nós como lixo humano.[n]Isso será um problema se não corrigirmos a[n]situação.[n][f 1 3 65535][w][e]
@@ -2047,7 +2047,7 @@
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Nós não somos lyin 'embora! Nós realmente[n]somos os ladrões fantasmas! Basta olhar um[n]pouco mais de perto! Somos nós![n][f 1 3 65535][w][e]
 
 [msg MSG_622_0_0 [Thin-Browed Woman in a Swimsuit]]
-[s][vp 8 0 0 0 65535 0]* suspiro* mais caras tentando dizer que são[n]os ladrões fantasmas?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]*suspiro* mais caras tentando dizer que são[n]os ladrões fantasmas?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Estou ficando cansado de ouvir a mesma linha[n]de todos que tentam bater em nós.[n][f 1 3 65535][w][e]
 
 [msg MSG_623_0_0 [Ryuji]]
@@ -2057,7 +2057,7 @@
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você não precisa se desculpar! Quero dizer,[n]somos os ladrões fantasmas![n][f 1 3 65535][w][e]
 
 [msg MSG_625_0_0 [Thin-Browed Woman in a Swimsuit]]
-[s][vp 8 0 0 0 65535 0]* suspiro* mais caras tentando dizer que são[n]os ladrões fantasmas?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]*suspiro* mais caras tentando dizer que são[n]os ladrões fantasmas?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Estou ficando cansado de ouvir a mesma linha[n]de todos que tentam bater em nós.[n][f 1 3 65535][w][e]
 
 [msg MSG_626_0_0 [Ryuji]]

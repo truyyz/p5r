@@ -6,7 +6,7 @@
 
 [msg MSG_BTLSTART_010_000 [Akechi]]
 [s][bup 0 217 101 65535 0][f 4 10 65535 0 0][vp 8 0 2 1003 1 217]Esses não podem ser explicados, a menos que[n]o verdadeiro culpado tenha o poder de[n]tornar o coração das pessoas psicóticas...[n][f 1 3 65535][w][e]
-[s][bup 0 217 101 65535 0][f 4 10 65535 0 0][vp 8 0 2 1004 1 217]* risador* isso mesmo! É o meu poder- um que[n]você não tem![n][f 1 3 65535][w][e]
+[s][bup 0 217 101 65535 0][f 4 10 65535 0 0][vp 8 0 2 1004 1 217]*risador* isso mesmo! É o meu poder- um que[n]você não tem![n][f 1 3 65535][w][e]
 
 [msg MSG_BTLSTART_020_007 [Futaba]]
 [s][bup 0 8 602 65535 0][f 4 10 65535 0 0][vp 8 0 2 1005 0 8]Ele vai tentar algo...![n][f 1 3 65535][w][e]
@@ -54,6 +54,6 @@
 [s][bup 0 217 105 65535 0][f 4 10 65535 0 0][vp 8 0 2 1019 1 217]Ngh... caramba...[n][f 1 3 65535][w][e]
 
 [msg MSG_BTLHPU50_010_000 [Akechi]]
-[s][bup 0 217 101 65535 0][f 4 10 65535 0 0][vp 8 0 2 1020 1 217]* risada* Então... nenhum de nós havia[n]mostrado nossas verdadeiras forças, hein...?[n][f 1 3 65535][w][e]
+[s][bup 0 217 101 65535 0][f 4 10 65535 0 0][vp 8 0 2 1020 1 217]*risada* Então... nenhum de nós havia[n]mostrado nossas verdadeiras forças, hein...?[n][f 1 3 65535][w][e]
 [s][bup 0 217 102 65535 0][f 4 10 65535 0 0][vp 8 0 2 1021 1 9]... Não me subestime![n][f 1 3 65535][w][e]
 

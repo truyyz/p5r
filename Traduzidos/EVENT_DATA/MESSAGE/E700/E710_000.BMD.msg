@@ -11,7 +11,7 @@
 
 [msg MSG_032_0_0 [Chihaya]]
 [s][bup 0 113 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Suponho que poderia tentar dividi-lo, se[n]você quiser. Vamos começar com seu[n]sobrenome.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]É... Yamamoto? Ou talvez Mishima?[n]Ou talvez...[f 4 1]? Hmmm, isso pode levar mais tempo do que eu[n]esperava.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]É... Yamamoto? Ou talvez Mishima?[n]Ou talvez... [f 4 1]? Hmmm, isso pode levar mais tempo do que eu[n]esperava.[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Chihaya]]
 [s][bup 0 113 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ah, [f 4 3]-san...[n]Eu vejo. Seu nome tem muita sorte.[n][f 1 3 65535][w][e]
@@ -60,7 +60,7 @@
 
 [msg MSG_014_0_0 [Chihaya]]
 [s][bup 0 113 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 10021 65535 0]Mas o que é isso?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Que estranho.[f 4 1]-San, o fluxo geral do seu futuro parece[n]indicar...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Que estranho. [f 4 1]-San, o fluxo geral do seu futuro parece[n]indicar...[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Chihaya]]
 [s][bup 0 113 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ruína...? E um preso, trancado em uma célula[n]solitária...[n][f 1 3 65535][w][e]

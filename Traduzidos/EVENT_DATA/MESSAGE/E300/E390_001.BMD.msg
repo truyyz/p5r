@@ -175,7 +175,7 @@
 [s][bup 0 105 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 221 65535 0]Esse é o nosso trabalho![n][f 1 3 65535][w][e]
 
 [msg MSG_046_0_0 [Sae]]
-[s][bup 0 105 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 222 65535 0]* suspiro* você continua firme...[n]Você está implicando que não temos[n]evidências de você?[n][f 1 3 65535][w][e]
+[s][bup 0 105 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 222 65535 0]*suspiro* você continua firme...[n]Você está implicando que não temos[n]evidências de você?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 223 65535 0]... você está certo- não temos nada. E não[n]ajuda que sua história pareça um conto de[n]fadas![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 224 65535 0]Mas muitas pessoas foram vítimas disso![n]Precisamos aprender a verdade.[n][f 1 3 65535][w][e]
 

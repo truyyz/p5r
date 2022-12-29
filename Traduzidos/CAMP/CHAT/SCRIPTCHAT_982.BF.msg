@@ -14,10 +14,10 @@
 [s][f 5 14]O vapor embaixo dos óculos...[n]Outro dos muitos encantos de comer panela[n]quente, suponho.[n][w][e]
 
 [msg MSG_006_0_0 [Ryuji]]
-[s][f 5 14]Oh cara... eu continuo olhando para esta[n]foto, e [n][f 4 2]O rosto ainda é hilário...[n][w][e]
+[s][f 5 14]Oh cara... eu continuo olhando para esta[n]foto, e [n][f 4 2] O rosto ainda é hilário...[n][w][e]
 
 [msg MSG_007_0_0 [Ann]]
-[s][f 5 14]Oh sim- yusuke ainda está em [n][f 4 2]Place, certo?[n][w][e]
+[s][f 5 14]Oh sim- yusuke ainda está em [n][f 4 2] Place, certo?[n][w][e]
 
 [msg MSG_008_0_0 [Ryuji]]
 [s][f 5 14]Não vá causar problemas para ele, ok?[n][w][e]

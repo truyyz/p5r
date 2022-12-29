@@ -144,7 +144,7 @@
 [s][f 0 8 2 1 2217]Recuse-a, por favor.[clr 27][e]
 
 [msg MSG_020_2_0 [Makoto]]
-[s][bup 0 6 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 2048 65535 0][f 5 13 3 5 6]* risada* Não seja ridículo.[n][f 1 3 65535][w][e]
+[s][bup 0 6 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 2048 65535 0][f 5 13 3 5 6]*risada* Não seja ridículo.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu não conseguia nem começar a pensar em[n]casamento neste momento da minha vida.[n][f 1 3 65535][w][e]
 
 [msg MSG_020_3_0 [Makoto]]

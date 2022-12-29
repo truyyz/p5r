@@ -96,7 +96,7 @@
 [msg MSG_021_0_0 [Futaba]]
 [s][bup 0 8 7 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]TH-isto era totalmente diferente de como[n]minha mãe costumava fazer isso![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][f 4 23 0 4 17 7 18 10][f 4 24 0 4 0 38 5 100][vp 8 0 0 0 65535 0]Meu coração...! M-MY MY...!! Parece que eles[n]estão pegando fogo![n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][f 4 24 0 4 0 1 10 100][f 4 24 0 4 0 11 3 30][vp 8 0 0 0 65535 0]* Pant** Pant* C-calming Down, Futaba...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][f 4 24 0 4 0 1 10 100][f 4 24 0 4 0 11 3 30][vp 8 0 0 0 65535 0]*Pant** Pant* C-calming Down, Futaba...[n][f 1 3 65535][w][e]
 
 [msg MSG_021_5_0 [Futaba]]
 [s][bup 0 8 6 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 0 5 100][vp 8 0 0 0 65535 0]Ufa... parece que essa explosão estranha[n]finalmente acabou.[n][f 1 3 65535][w][e]

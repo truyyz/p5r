@@ -8,7 +8,7 @@
 [s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7024 65535 0]Quero dizer, tudo isso não faz você sentir[n]que somos ladrões de verdade?[n][w][e]
 
 [msg D01_BRIEFING_030_mes04 [Ann]]
-[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6022 65535 0]* suspiro* Você sabe que ainda temos um[n]longo caminho a percorrer, certo?[n][w][e]
+[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6022 65535 0]*suspiro* Você sabe que ainda temos um[n]longo caminho a percorrer, certo?[n][w][e]
 
 [msg D01_BRIEFING_030_mes05 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ela tem um ponto. Mesmo olhando para isso[n]otimista, ainda há muitos pela frente.[n][w][e]

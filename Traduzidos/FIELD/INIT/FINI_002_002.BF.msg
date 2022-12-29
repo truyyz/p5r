@@ -152,7 +152,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 1 7 65535 0]Oh, então você quer perguntar a ele sobre[n]Iida? É por isso que Takamaki-san estava[n]perseguindo ele...[n][w][e]
 
 [msg MSG_E24320100_MISHIMA_00_5 [Mishima]]
-[s][f 4 23 1 65535 3 10 0 0][bup 0 111 3 65535 0][f 4 10 65535 0 0][vp 8 0 1 8 65535 0]* gemido*... não seja assim.[n]Você sabe que eu posso manter um segredo.[n][w][e]
+[s][f 4 23 1 65535 3 10 0 0][bup 0 111 3 65535 0][f 4 10 65535 0 0][vp 8 0 1 8 65535 0]*gemido*... não seja assim.[n]Você sabe que eu posso manter um segredo.[n][w][e]
 
 [msg MSG_E24320100_MISHIMA_00_6 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 1 9 65535 0]Podemos usá-lo. Vamos perguntar a Mishima,[n]apenas por precaução.[n][w][e]

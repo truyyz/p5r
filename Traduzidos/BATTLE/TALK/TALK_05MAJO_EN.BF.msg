@@ -5,7 +5,7 @@
 [s](Error)[n][w][e]
 
 [msg TalkMsg_EN_CONTACT_00]
-[s]* risada* Seu parceiro é tão fraco. Agora, o[n]que fazer...?[n][w][e]
+[s]*risada* Seu parceiro é tão fraco. Agora, o[n]que fazer...?[n][w][e]
 [s]Você não vai ouvir meu pedido? Eu exijo [n][f 2 5 3 9999 3].[n][w][e]
 
 [msg TalkMsg_EN_CONTACT_01]
@@ -52,7 +52,7 @@
 [s]Oh, você está abandonando seu parceiro?[n]Que homem de coração frio...[n][w][e]
 
 [msg TalkMsg_EN_SLAY_01]
-[s]* risada* Essa é sua resposta? Então eu vou[n]jogar um pouco mais áspero com seu[n]parceiro...[n][w][e]
+[s]*risada* Essa é sua resposta? Então eu vou[n]jogar um pouco mais áspero com seu[n]parceiro...[n][w][e]
 
 [msg TalkMsg_EN_FORGIVE_00]
 [s]Os seres humanos são realmente criaturas[n]horríveis. Então, seus parceiros são[n]descartáveis?[n][w][e]

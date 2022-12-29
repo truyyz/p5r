@@ -30,18 +30,18 @@
 [s][f 0 8 2 1 2217]Saúde.[clr 27][e]
 
 [msg MSG_005_2_0 [Haru]]
-[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 3048 65535 0][f 5 13 4 10 7]* risada* isso é nobre de você.[n][f 1 3 65535][w][e]
+[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 3048 65535 0][f 5 13 4 10 7]*risada* isso é nobre de você.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas permita-me lidar com isso.[n]Eu o convidei, afinal.[n][f 1 3 65535][w][e]
 
 [msg MSG_005_3_0 [Haru]]
-[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 3048 65535 0][f 5 13 4 5 7]* risada* você é um cavalheiro, [f 4 2]-kun.[n][f 1 3 65535][w][e]
+[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 3048 65535 0][f 5 13 4 5 7]*risada* você é um cavalheiro, [f 4 2]-kun.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas permita-me lidar com isso.[n]Eu o convidei, afinal.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Além disso, você não deveria sempre ouvir[n]seus anciãos?[n][f 1 3 65535][w][e]
 
 [msg MSG_005_4_0 [Haru]]
 [s][bup 0 7 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Hum... o que?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Oh, entendi. Você está me agradecendo por te[n]tratar, certo?[n][f 1 3 65535][w][e]
-[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 3048 65535 0][f 5 13 4 15 7][f 4 24 0 4 0 36 5 100][f 4 24 0 4 0 9 5 100]* risada* você é tão engraçado, [f 4 2]-kun![n][f 1 3 65535][w][e]
+[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 3048 65535 0][f 5 13 4 15 7][f 4 24 0 4 0 36 5 100][f 4 24 0 4 0 9 5 100]*risada* você é tão engraçado, [f 4 2]-kun![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]De qualquer forma, é natural que eu pago por[n]você hoje. Eu o convidei aqui, afinal.[n][f 1 3 65535][w][e]
 
 [msg MSG_005_5_0 [Haru]]
@@ -65,7 +65,7 @@
 [s][f 0 8 2 1 2217]Com licença enquanto eu vomito.[clr 27][e]
 
 [msg MSG_009_0_0 [Haru]]
-[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 3032 65535 0][f 5 13 4 15 7]* risada* Peço desculpas por não divulgar[n]isso a você mais cedo.[n][f 1 3 65535][w][e]
+[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 3032 65535 0][f 5 13 4 15 7]*risada* Peço desculpas por não divulgar[n]isso a você mais cedo.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu apenas pensei que você poderia achar[n]difícil aproveitar se soubesse com[n]antecedência.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Fiquei surpreso ao ouvir isso no começo, mas[n]era por isso que eu queria tentar começar.[n][f 1 3 65535][w][e]
 
@@ -86,7 +86,7 @@
 [s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sim, isso provavelmente é o melhor. Seria[n]absolutamente terrível se ele ficasse[n]doente.[n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Haru]]
-[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 3048 65535 0][f 5 13 4 5 7]* risada* Talvez possa se tornar a nova[n]bebida especializada de LeBlanc.[n][f 1 3 65535][w][e]
+[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 3048 65535 0][f 5 13 4 5 7]*risada* Talvez possa se tornar a nova[n]bebida especializada de LeBlanc.[n][f 1 3 65535][w][e]
 [s][bup 0 7 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ah, mas precisamos de Mona-chan para nossas[n]operações, hein? Não podemos nos dar ao[n]luxo de fazê-lo comer feijão o dia todo...[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Haru]]
@@ -161,7 +161,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]De que lado eu confio...?[n][f 1 3 65535][w][e]
 
 [msg MSG_031_0_0 [Haru]]
-[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 4 5 7]* risada* você é tão honesto, [f 4 2]-kun.[n][f 1 3 65535][w][e]
+[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 4 5 7]*risada* você é tão honesto, [f 4 2]-kun.[n][f 1 3 65535][w][e]
 [s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 59 5 100][f 4 24 0 4 0 5 5 100]Mas... eu concordo. Eu realmente não sei se[n]posso ou não confiar nele...[n][f 1 3 65535][w][e]
 
 [msg MSG_032_0_0 [Haru]]

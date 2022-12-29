@@ -22,7 +22,7 @@
 [s][bup 0 103 503 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vamos! Você não tem planos...?[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Sojiro]]
-[s][bup 0 103 501 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]* suspiro* Oh bem, acho que vou lhe dar uma[n]mão com isso.[n][f 1 3 65535][w][e]
+[s][bup 0 103 501 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*suspiro* Oh bem, acho que vou lhe dar uma[n]mão com isso.[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Morgana]]
 [s][bup 0 3 801 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Agora esse é o nosso chefe![n][f 1 3 65535][w][e]

@@ -242,7 +242,7 @@
 [s]O que é que foi isso?[n][f 1 2 65535][e]
 
 [msg MSG_NML02_LOST_02_02]
-[s]* suspiro* para onde eles foram?[n][f 1 2 65535][e]
+[s]*suspiro* para onde eles foram?[n][f 1 2 65535][e]
 
 [msg MSG_NML02_LOST_02_03]
 [s]Eu perdi eles...[n]Quem eram eles?[n][f 1 2 65535][e]
@@ -302,7 +302,7 @@
 [s]Estou um pouco preocupado...[n]Talvez eu deva ligar para a segurança...[n][f 1 2 65535][e]
 
 [msg MSG_NML02_MNLG_ALT_02_07]
-[s]* tosse* tão empoeirada...[n]A segurança está sempre chutando a sujeira...[n][f 1 2 65535][e]
+[s]*tosse* tão empoeirada...[n]A segurança está sempre chutando a sujeira...[n][f 1 2 65535][e]
 
 [msg MSG_NML02_MNLG_ALT_02_08]
 [s]Pessoas insuficientes entendem o verdadeiro[n]valor das coisas.[n][f 1 2 65535][e]
@@ -386,7 +386,7 @@
 [s]Estou um pouco preocupado... talvez eu deva[n]ligar para a segurança...[n][f 1 2 65535][e]
 
 [msg MSG_NML02_MNLG_FREE_02_1]
-[s]* tosse* tão empoeirada...[n]A segurança está sempre chutando a sujeira...[n][f 1 2 65535][e]
+[s]*tosse* tão empoeirada...[n]A segurança está sempre chutando a sujeira...[n][f 1 2 65535][e]
 
 [msg MSG_NML02_MNLG_FREE_02_1_2]
 [s]Ugh, eu ouço passos...[n]Passos de alguém...[n]Alguém...[n][f 1 2 65535][e]

@@ -47,7 +47,7 @@
 [s]Isso me faz feliz.[e]
 
 [msg MSG_011_0_0 [Kawakami]]
-[s][bup 0 109 1 0 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]* suspiro* isso é um alívio...[n][f 1 3 65535][w][e]
+[s][bup 0 109 1 0 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]*suspiro* isso é um alívio...[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Tudo bem, estou voltando ao trabalho.[n][f 1 3 65535][w][e]

@@ -91,7 +91,7 @@
 [s][bup 0 2 5 65535 0][f 4 10 65535 0 0][vp 8 0 0 28 65535 0]Pare... eu não quero ouvir sobre coisas[n]azedas...[n][f 1 3 65535][w][e]
 
 [msg MSG_024_5_0 [Ryuji]]
-[s][bup 0 2 7 65535 0][f 4 10 65535 0 0][vp 8 0 0 29 65535 0]* Burp* Isso não é bom. Eu tenho que ir ao[n]banheiro...[n][f 1 3 65535][w][e]
+[s][bup 0 2 7 65535 0][f 4 10 65535 0 0][vp 8 0 0 29 65535 0]*Burp* Isso não é bom. Eu tenho que ir ao[n]banheiro...[n][f 1 3 65535][w][e]
 
 [msg MSG_025_0_0 [Morgana]]
 [s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 0 0 30 65535 0]M-eu também... por favor... me carregue[n]gentilmente...[n][f 1 3 65535][w][e]

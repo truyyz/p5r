@@ -53,11 +53,11 @@
 [s][bup 0 103 501 65535 0][f 4 10 65535 0 0][vp 8 0 0 41 65535 0]... Não, isso não poderia ser.[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Sojiro]]
-[s][bup 0 103 501 65535 0][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]* suspiro* Eu me pergunto se chegará o dia[n]em que ela sai para ser a noiva de alguém.[n][f 1 3 65535][w][e]
+[s][bup 0 103 501 65535 0][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]*suspiro* Eu me pergunto se chegará o dia[n]em que ela sai para ser a noiva de alguém.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Tenho certeza de que ela fará uma bela[n]senhora de qualquer maneira.[n]Afinal, ela é filha de Wakaba.[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Sojiro]]
-[s][bup 0 103 503 65535 0][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]* suspiro* Todos os pais têm que passar por[n]essa ansiedade...?[n][f 1 3 65535][w][e]
+[s][bup 0 103 503 65535 0][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]*suspiro* Todos os pais têm que passar por[n]essa ansiedade...?[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Sojiro]]
 [s][bup 0 103 501 65535 0][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]Você sabe, eu realmente só queria que você[n]ajudasse na loja.[n][f 1 3 65535][w][e]

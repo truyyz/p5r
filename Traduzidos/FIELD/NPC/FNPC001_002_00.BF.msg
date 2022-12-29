@@ -566,7 +566,7 @@
 [s][f 4 23 1 21 3 10 0 0]......[n][w][e]
 [s][vp 8 2 1 0 21 0]Eu sempre sonhei em viver essa vida de[n]Tóquio.[n]E agora eu posso fazer isso com ele...[n][w][e]
 [s][vp 8 2 1 0 21 0]Tudo está indo muito bem, mas...[n][w][e]
-[s][vp 8 2 1 0 21 0]* suspiro* Por que eu me sinto tão triste de[n]repente...?[n][w][e]
+[s][vp 8 2 1 0 21 0]*suspiro* Por que eu me sinto tão triste de[n]repente...?[n][w][e]
 
 [msg MSG_TOKAISOMARU_021_1_0 [Adorable Woman]]
 [s][f 4 23 1 21 3 10 0 0][vp 8 2 1 0 21 0]Todo mundo parece tão feliz desde que[n]começamos o ano novo...[n][w][e]
@@ -3249,7 +3249,7 @@
 [s][vp 8 2 1 0 30 0]No entanto, é sempre mais divertido para mim[n]quando o outro cara luta... heh heh.[n][w][e]
 
 [msg MSG_HOMELESS_DAY_011_0_0 [Homeless Man]]
-[s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]* suspiro* Você precisou de alguma coisa,[n]jovem?[n][w][e]
+[s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]*suspiro* Você precisou de alguma coisa,[n]jovem?[n][w][e]
 
 [sel SEL_HOMELESS_DAY_011_0_0 top]
 [s]Como você tem estado?[e]
@@ -3257,7 +3257,7 @@
 
 [msg MSG_HOMELESS_DAY_011_1_0 [Homeless Man]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]Onde quer que eu vá, ouço sobre esses[n]ladrões fantasmas. Eles estão sendo[n]chamados de heróis modernos.[n][w][e]
-[s][vp 8 2 1 0 30 0]Se eu pedisse que Phantom Thieves me[n]ajudasse, me pergunto se eles poderiam[n]limpar a preguiça na minha cabeça...[n]*suspiro * [n][w][e]
+[s][vp 8 2 1 0 30 0]Se eu pedisse que Phantom Thieves me[n]ajudasse, me pergunto se eles poderiam[n]limpar a preguiça na minha cabeça...[n]*suspiro* [n][w][e]
 
 [msg MSG_HOMELESS_DAY_011_2_0 [Homeless Man]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]Algo parecido. Talvez eu deva perguntar[n]aqueles fantasmas [n][w][e]

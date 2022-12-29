@@ -51,7 +51,7 @@
 
 [msg MSG_012_0_0 [Makoto]]
 [s][bup 0 6 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 26 65535 0]Até...?[n][f 1 3 65535][w][e]
-[s][bup 0 6 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 27 65535 0]* risada* Você está certo... que tal deixar[n]essa conversa no passado?[n][f 1 3 65535][w][e]
+[s][bup 0 6 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 27 65535 0]*risada* Você está certo... que tal deixar[n]essa conversa no passado?[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Ann]]
 [s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 28 65535 0]MM-HM![n][f 1 3 65535][w][e]
@@ -62,7 +62,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 31 65535 0]E você até obteve o poder de mudar o coração[n]das pessoas. Você fez isso por si mesmo,[n]Niijima-senpai.[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Makoto]]
-[s][bup 0 6 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 32 65535 0]* risada* Essa maneira de pensar é muito[n]parecida com você, Takamaki-san.[n][f 1 3 65535][w][e]
+[s][bup 0 6 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 32 65535 0]*risada* Essa maneira de pensar é muito[n]parecida com você, Takamaki-san.[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 33 65535 0]Quando você me confrontou sobre Suzui-san,[n]percebi o quão desonesto e pequeno eu era.[n][f 1 3 65535][w][e]
@@ -74,7 +74,7 @@
 [s][bup 0 4 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 37 65535 0]Um sim! Eu... eu vou fazer o mesmo,[n]M-M-Makoto... rgh, isso é tão embaraçoso![n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Makoto]]
-[s][bup 0 6 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 38 65535 0]* risada* Que tal conseguir algo para comer[n]antes de voltarmos para casa durante a[n]noite?[n][f 1 3 65535][w][e]
+[s][bup 0 6 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 38 65535 0]*risada* Que tal conseguir algo para comer[n]antes de voltarmos para casa durante a[n]noite?[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Ann]]
 [s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 39 65535 0]Ooh, eu conheço um lugar![n][f 1 3 65535][w][e]

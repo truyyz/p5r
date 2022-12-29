@@ -5,7 +5,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ei, uh... por que você quer vir aqui em[n]primeiro lugar?[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Ryuji]]
-[s][bup 0 2 601 65535 0][f 4 10 65535 0 0][vp 8 2 0 7024 65535 0]Eu e [f 4 2]Na verdade, já estive nessa academia.[n][f 1 3 65535][w][e]
+[s][bup 0 2 601 65535 0][f 4 10 65535 0 0][vp 8 2 0 7024 65535 0]Eu e [f 4 2] Na verdade, já estive nessa academia.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]É muito doce, hein? Muitas pessoas estão[n]ficando no seu caminho.[n][f 1 3 65535][w][e]
 [s][bup 0 2 600 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]De qualquer forma, uh... o que você está[n]tentando fazer aqui?[n][f 1 3 65535][w][e]
 
@@ -138,7 +138,7 @@
 [s][vp 8 0 0 0 65535 0]Nós três treinamos até que tivéssemos[n]atingido nossos limites...[n][f 1 3 65535][w][e]
 
 [msg MSG_040_0_0 [Ann]]
-[s][bup 0 4 205 65535 0][f 4 10 65535 0 0][vp 8 2 0 6183 65535 0]* calça* meu corpo... dói...[n][f 1 3 65535][w][e]
+[s][bup 0 4 205 65535 0][f 4 10 65535 0 0][vp 8 2 0 6183 65535 0]*calça* meu corpo... dói...[n][f 1 3 65535][w][e]
 [s][bup 0 4 201 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 36 5 100][f 4 24 0 4 0 9 3 100][vp 8 0 0 0 65535 0]Mas por algum motivo... eu me sinto...[n]satisfeito...[n][f 1 3 65535][w][e]
 
 [msg MSG_041_0_0 [Ryuji]]

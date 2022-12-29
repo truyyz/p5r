@@ -36,7 +36,7 @@
 [s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]"As crianças são o futuro", minha bunda! O[n]que ele está dizendo e fazendo são[n]completamente diferentes![n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Ann]]
-[s][bup 0 4 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Mas agora que descobrimos quem fez isso, não[n]pode ser feito sobre [n][f 4 2]Record!?[n][f 1 3 65535][w][e]
+[s][bup 0 4 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Mas agora que descobrimos quem fez isso, não[n]pode ser feito sobre [n][f 4 2] Record!?[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Sae]]
 [s][bup 0 105 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Uma vez que os tribunais fizerem um[n]julgamento, derrubar essa decisão será[n]difícil.[n][f 1 3 65535][w][e]

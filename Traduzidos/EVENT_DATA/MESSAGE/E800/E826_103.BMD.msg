@@ -14,7 +14,7 @@
 [s][f 0 8 2 1 2217]Você está bem agora.[clr 27][e]
 
 [msg MSG_003_0_0 [Chihaya]]
-[s][bup 0 113 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 10086 65535 0][f 5 13 11 10 1013]* risada* Essa é uma pergunta boba.[n][f 1 3 65535][w][e]
+[s][bup 0 113 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 10086 65535 0][f 5 13 11 10 1013]*risada* Essa é uma pergunta boba.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Enquanto eu tiver você, eu ficarei bem.[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Chihaya]]

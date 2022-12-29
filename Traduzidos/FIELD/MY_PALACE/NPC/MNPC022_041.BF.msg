@@ -78,7 +78,7 @@
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 36 10 0 10]Isso foi tão legal! É tudo graças às pernas[n]do velocista.[n][w][e]
 
 [msg MES_GROUP8_03 [Makoto]]
-[s][bup 0 6 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 2048 65535 0]* risada* ele era definitivamente o MVP[n]daquele palácio. Fiquei bastante[n]impressionado no final.[n][w][e]
+[s][bup 0 6 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 2048 65535 0]*risada* ele era definitivamente o MVP[n]daquele palácio. Fiquei bastante[n]impressionado no final.[n][w][e]
 [s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Embora ele tenha nos colocado em um pouco de[n]tristeza então...[n][w][e]
 
 [msg MES_GROUP8_04 [Futaba]]

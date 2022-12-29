@@ -20,7 +20,7 @@
 [s][vp 6 0 0 6 6 0]Diga algo![n][f 1 2 54][e]
 
 [msg MSG_006_0_0 [ ]]
-[s][vp 1 0 0 8 0 0]Nngh... *tosse * [n][f 1 2 65][e]
+[s][vp 1 0 0 8 0 0]Nngh... *tosse* [n][f 1 2 65][e]
 
 [msg MSG_006_5_0 [Callous Detective]]
 [s][vp 6 0 0 9 6 0]Vamos, coopere. Ou o que, você quer outra[n]foto?[n][f 1 2 162][e]
@@ -52,7 +52,7 @@
 [s][vp 6 0 0 16 6 0]Você não ouviu minha pergunta? Responder![n][f 1 2 90][e]
 
 [msg MSG_016_0_0 [ ]]
-[s][vp 1 0 0 17 0 0]* tosse* nngh! *Wheeze* [n][f 1 2 90][e]
+[s][vp 1 0 0 17 0 0]*tosse* nngh! *Wheeze* [n][f 1 2 90][e]
 
 [msg MSG_017_0_0 [Callous Detective]]
 [s][vp 6 0 0 18 6 0]Obstrução da justiça, chantagem, difamação,[n]posse de armas...[n][f 1 2 160][e]

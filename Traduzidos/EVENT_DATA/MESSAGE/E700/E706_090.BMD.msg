@@ -3,10 +3,10 @@
 [s][bup 0 212 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ann, [f 4 2]-kun... eu sou muito pesado, hein? Obrigado[n]pela ajuda.[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 6155 65535 0]Não é [f 4 2]super confiável?[n][f 1 3 65535][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 6155 65535 0]Não é [f 4 2] super confiável?[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Shiho]]
-[s][bup 0 212 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]* Giggle* mm-hm, assim como você estava me[n]dizendo.[n][f 1 3 65535][w][e]
+[s][bup 0 212 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*Giggle* mm-hm, assim como você estava me[n]dizendo.[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Shiho]]
 [s][bup 0 212 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Estamos tão altos...[n][f 1 3 65535][w][e]
@@ -134,7 +134,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Se eu puder fazer isso, Shiho... ela[n]definitivamente...[n][f 1 3 65535][w][e]
 
 [msg MSG_033_0_0 [Ann]]
-[s][bup 0 4 10 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]* cheirar* caramba, eu disse a mim mesma que[n]não iria chorar...[n][f 1 3 65535][w][e]
+[s][bup 0 4 10 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*cheirar* caramba, eu disse a mim mesma que[n]não iria chorar...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 6183 65535 0]Mas apenas... não vai parar...[n][f 1 3 65535][w][e]
 
 [msg MND_900_0_0]

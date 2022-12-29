@@ -13,7 +13,7 @@
 [s][bup 0 102 2 0 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]Feche a boca e ouça, preso![n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Igor]]
-[s][bup 0 201 0 0 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]* risada* Não estou tentando reter[n]informações suas.[n][f 1 3 65535][w][e]
+[s][bup 0 201 0 0 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]*risada* Não estou tentando reter[n]informações suas.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]A essência da reabilitação que você deve[n]concluir será explicada no devido tempo.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Depois de encontrar aliados que compartilham[n]seus ideais e descobrem seu lugar na[n]realidade...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]... Só então, vou explicar tudo.[n][f 1 3 65535][w][e]
@@ -34,7 +34,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]... Para esse fim, devemos executar sua[n]persona.[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Igor]]
-[s][bup 0 201 0 0 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]* risada* Não se assuste. Personas são[n]personalidades que existem dentro de você...[n][f 1 3 65535][w][e]
+[s][bup 0 201 0 0 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]*risada* Não se assuste. Personas são[n]personalidades que existem dentro de você...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Assim, você apenas descartará personalidades[n]antigas para que elas renasçam como novas.[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Justine]]

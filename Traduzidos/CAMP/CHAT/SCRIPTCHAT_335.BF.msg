@@ -5,7 +5,7 @@
 [s][f 5 14]Espere, você está bem? Ele denunciou você[n]ou algo assim?[n][w][e]
 
 [msg MSG_002_0_0 [Yusuke]]
-[s][f 5 14]Provavelmente não estaríamos recebendo[n]essas mensagens se [n][f 4 2]não estava bem.[n][w][e]
+[s][f 5 14]Provavelmente não estaríamos recebendo[n]essas mensagens se [n][f 4 2] não estava bem.[n][w][e]
 [s][f 5 14]Eu tive a sensação de que o chefe não era[n]homem comum...[n][w][e]
 
 [msg MSG_003_0_0 [Haru]]

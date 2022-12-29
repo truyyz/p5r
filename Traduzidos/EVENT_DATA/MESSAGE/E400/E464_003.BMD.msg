@@ -1,5 +1,5 @@
 [msg MSG_000_0_0 [Igor]]
-[s][bup 0 201 0 0 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]* risada* magnífico.[n][f 1 3 65535][w][e]
+[s][bup 0 201 0 0 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]*risada* magnífico.[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Lavenza]]
 [s][bup 0 100 0 0 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Mas... você está confinado na realidade[n]agora, mesmo depois de escapar da prisão em[n]seu coração...[n][f 1 3 65535][w][e]

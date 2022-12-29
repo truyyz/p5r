@@ -29,7 +29,7 @@
 [s][bup 0 5 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4087 65535 0]Uma conseqüência infeliz do isolamento...[n][w][e]
 
 [msg QUEST_82_BATTLE_AFTER_me_3 [Shadow Ono]]
-[s][vp 8 2 1 46957 65535 0]* Sniff* Eu causei tantos problemas...[n]Como devo viver assim?[n][w][e]
+[s][vp 8 2 1 46957 65535 0]*Sniff* Eu causei tantos problemas...[n]Como devo viver assim?[n][w][e]
 
 [sel SEL_Q82_BATTLE_A04 top]
 [s]Desculpando-se.[e]

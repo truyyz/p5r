@@ -313,7 +313,7 @@
 [s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 1 53141 65535 0]Esta cápsula diz que é [clr 2]comum [clr 27].[n]Bem, isso é um pouco coxo...[n][w][e]
 
 [msg MSG_CAPSULE_End1st [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0]* suspiro* Eu simplesmente não entendi. Por[n]que as pessoas querem isso?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0]*suspiro* Eu simplesmente não entendi. Por[n]que as pessoas querem isso?[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 53101 65535 0]Estamos em Akihabara, certo? Talvez possamos[n]encontrar alguém aqui que possa querer[n]esses brinquedos de cápsula.[n][w][e]
 
 [msg MSG_DEADEND_MORU [Morgana]]

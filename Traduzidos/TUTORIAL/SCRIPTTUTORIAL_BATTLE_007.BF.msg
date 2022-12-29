@@ -1,5 +1,5 @@
 [msg TUTORIAL_MSG01 [Changing Personas]]
-[s][f 4 2]O potencial permite que ele segure várias personas. Como[n]tal, você pode [n][clr 2]livremente [clr 27] [n][clr 2]mudar qual persona [clr 27]você convocou.[n][w][e]
+[s][f 4 2] O potencial permite que ele segure várias personas. Como[n]tal, você pode [n][clr 2]livremente [clr 27] [n][clr 2]mudar qual persona [clr 27]você convocou.[n][w][e]
 
 [msg TUTORIAL_MSG02 [Changing Personas]]
 [s]Quando você muda de personas, suas estatísticas, afinidades[n]e habilidades disponíveis mudarão para corresponder à[n]persona que você seleciona.[n][w][e]

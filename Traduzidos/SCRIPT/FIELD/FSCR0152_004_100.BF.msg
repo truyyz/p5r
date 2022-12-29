@@ -96,7 +96,7 @@
 
 [msg D01_02_e129_063_mes06 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Como você pode ver, existem muitos inimigos.[n]Será importante coordenar bem nossos[n]movimentos.[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu posso continuar fornecendo a Intel para[n]nós, mas você deve decidir como lutarmos,[n]cabelos crespos.[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu posso continuar fornecendo a Informação para[n]nós, mas você deve decidir como lutarmos,[n]cabelos crespos.[n][w][e]
 
 [msg D01_02_e129_063_mes07 [Ryuji]]
 [s][bup 0 2 0 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7183 65535 0]O que quer dizer com "como lutamos"?[n][w][e]

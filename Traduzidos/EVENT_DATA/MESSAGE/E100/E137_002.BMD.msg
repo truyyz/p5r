@@ -16,7 +16,7 @@
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 102 15 300 1][vp 8 0 0 5 65535 0]Você tem algum nervo, preso![n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Igor]]
-[s][bup 0 201 0 0 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]* risada* Eu imagino que você tenha muitas[n]reservas sobre o retorno aqui da sua vida[n]cotidiana e alegre.[n][f 1 3 65535][w][e]
+[s][bup 0 201 0 0 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]*risada* Eu imagino que você tenha muitas[n]reservas sobre o retorno aqui da sua vida[n]cotidiana e alegre.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]No entanto, será problemático se você não se[n]acostumar com isso.[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Igor]]
@@ -48,7 +48,7 @@
 [s][bup 0 201 0 0 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]De fato. Você deve estar preparado para usar[n]até mim mesmo, ou suas ambições não serão[n]concretizadas.[n][f 1 3 65535][w][e]
 
 [msg MSG_014_7_0 [Igor]]
-[s][bup 0 201 0 0 0][f 4 10 65535 0 0][vp 8 0 0 30 65535 0]* risada* Temos um acordo então.[n][f 1 3 65535][w][e]
+[s][bup 0 201 0 0 0][f 4 10 65535 0 0][vp 8 0 0 30 65535 0]*risada* Temos um acordo então.[n][f 1 3 65535][w][e]
 
 [msg MND_014_7_5]
 [s][vp 8 0 0 0 65535 0]Parece que Igor tem grandes expectativas de[n]mim...[n][f 1 3 65535][w][e]

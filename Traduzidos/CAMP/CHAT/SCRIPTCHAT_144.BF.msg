@@ -20,7 +20,7 @@
 [s][f 5 14]Apenas duas semanas até as eleições...[n][w][e]
 
 [msg MSG_007_0_0 [Makoto]]
-[s][f 5 14]E já faz exatamente duas semanas desde as[n]notícias de [n][f 4 2]é suicídio.[n][w][e]
+[s][f 5 14]E já faz exatamente duas semanas desde as[n]notícias de [n][f 4 2] é suicídio.[n][w][e]
 
 [msg MSG_008_0_0 [Makoto]]
 [s][f 5 14]Provavelmente devemos nos apressar.[n][w][e]
@@ -34,7 +34,7 @@
 [s]Vamos gerenciar.[e]
 
 [msg MSG_011_0_0 [Yusuke]]
-[s][f 5 14][f 4 2]A segurança de 's é vital.[n]Não impediremos nada para ajudar.[n][w][e]
+[s][f 5 14][f 4 2] A segurança de 's é vital.[n]Não impediremos nada para ajudar.[n][w][e]
 
 [msg MSG_012_0_0 [Ryuji]]
 [s][f 5 14]Se trabalharmos juntos, eu sei que[n]podemos fazer isso![n][w][e]

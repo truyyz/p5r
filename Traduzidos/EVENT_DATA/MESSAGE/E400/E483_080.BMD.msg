@@ -112,7 +112,7 @@
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 39 65535 0]Isso é bem poético, cara.[n][f 1 3 65535][w][e]
 
 [msg MSG_035_0_0 [Yusuke]]
-[s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 40 65535 0]* risada* mesmo com esse suor pegajoso[n]incluído.[n][f 1 3 65535][w][e]
+[s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 40 65535 0]*risada* mesmo com esse suor pegajoso[n]incluído.[n][f 1 3 65535][w][e]
 
 [msg MSG_036_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 41 65535 0]Look b-mas, [f 4 2]- pelo menos nós barbeamos gelo![n][f 1 3 65535][w][e]

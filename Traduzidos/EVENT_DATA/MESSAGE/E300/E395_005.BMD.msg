@@ -1,5 +1,5 @@
 [msg MSG_000_0_0 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 113 65535 0][f 4 2]Ser capturado pela polícia foi exatamente[n]como planejamos.[n][f 1 3 65535][w][e]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 113 65535 0][f 4 2] Ser capturado pela polícia foi exatamente[n]como planejamos.[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Sae]]
 [s][bup 0 105 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 114 65535 0]E eu o estava interrogando sem conhecimento[n]disso.[n][f 1 3 65535][w][e]
@@ -54,7 +54,7 @@
 [s][bup 0 105 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Eu não tinha a menor idéia de que uma[n]operação tão grande estava ocorrendo dentro[n]de mim.[n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Estou tão feliz [f 4 2]foi capaz de convencê-lo durante o[n]interrogatório.[n][f 1 3 65535][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Estou tão feliz [f 4 2] foi capaz de convencê-lo durante o[n]interrogatório.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Embora conhecemos o plano de Akechi,[n]estávamos bastante preocupados com essa[n]parte.[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Makoto]]
@@ -90,7 +90,7 @@
 
 [msg MSG_024_0_0 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]Se pudéssemos lhe contar o verdadeiro plano[n]do culpado, eu sabia que você perceberia a[n]imagem maior...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]Perceba isso [f 4 2]estava dizendo a verdade, e que havia um mal[n]maior a seguir.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]Perceba isso [f 4 2] estava dizendo a verdade, e que havia um mal[n]maior a seguir.[n][f 1 3 65535][w][e]
 
 [msg MSG_025_0_0 [Yusuke]]
 [s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Como resultado, emergimos vitoriosos.[n][f 1 3 65535][w][e]
@@ -115,7 +115,7 @@
 [s][bup 0 103 4 0 0][f 4 10 65535 0 0][vp 8 0 0 29 65535 0]Huh?[n][f 1 3 65535][w][e]
 
 [msg MSG_032_0_0 [Sae]]
-[s][bup 0 105 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 30 65535 0]Eles tinham um médico legista trabalhando[n]para garantir [n][f 4 2]A morte de-Kun foi relatada como um suicídio.[n][f 1 3 65535][w][e]
+[s][bup 0 105 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 30 65535 0]Eles tinham um médico legista trabalhando[n]para garantir [n][f 4 2] A morte de-Kun foi relatada como um suicídio.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 31 65535 0]Esse médico legista não deu uma olhada no[n]local e acabou de passar por uma certidão[n]de óbito falsificada.[n][f 1 3 65535][w][e]
 
 [msg MSG_033_0_0 [Sojiro]]
@@ -129,7 +129,7 @@
 
 [msg MSG_036_0_0 [Sae]]
 [s][bup 0 105 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 35 65535 0]E como os superiores da polícia não sabiam[n]nada disso, eles foram jogados em desordem.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 36 65535 0]Como um resultado, [f 4 2]O suicídio de Kun durante a prisão foi[n]relatado nas notícias, assim como Akechi[n]planejou.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 36 65535 0]Como um resultado, [f 4 2] O suicídio de Kun durante a prisão foi[n]relatado nas notícias, assim como Akechi[n]planejou.[n][f 1 3 65535][w][e]
 
 [msg MSG_037_0_0 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 37 65535 0]E com essa confusão, ele conseguiu escapar[n]com a ajuda de Niijima-san.[n][f 1 3 65535][w][e]

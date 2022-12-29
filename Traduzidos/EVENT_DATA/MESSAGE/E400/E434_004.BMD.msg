@@ -35,7 +35,7 @@
 [s][bup 0 4 1 2 0][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Agora, agora, pessoal. Apenas pense nisso[n]como me ajudando![n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Makoto]]
-[s][bup 0 6 3 2 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]* suspiro* Eu não sei sobre isso...[n][f 1 3 65535][w][e]
+[s][bup 0 6 3 2 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]*suspiro* Eu não sei sobre isso...[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Makoto]]
 [s][bup 0 6 0 2 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Vou me concentrar em seções que[n]provavelmente podem estar no teste. Você é[n]muito pouco no tempo.[n][f 1 3 65535][w][e]
@@ -76,7 +76,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 29 65535 0]Mas você perdeu muitas aulas, então não[n]poderia doer estudar.[n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [Ann]]
-[s][bup 0 4 3 2 0][f 4 10 65535 0 0][vp 8 0 0 30 65535 0]Oh sim, [f 4 2]é bom em estudar.[n]Eu me sinto meio traído...[n][f 1 3 65535][w][e]
+[s][bup 0 4 3 2 0][f 4 10 65535 0 0][vp 8 0 0 30 65535 0]Oh sim, [f 4 2] é bom em estudar.[n]Eu me sinto meio traído...[n][f 1 3 65535][w][e]
 
 [msg MSG_025_0_0 [Haru]]
 [s][bup 0 7 1 2 0][f 4 10 65535 0 0][vp 8 0 0 31 65535 0]"Traído" pode ser um pouco demais...[n][f 1 3 65535][w][e]
@@ -108,7 +108,7 @@
 [s][bup 0 8 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 40 65535 0]Uau... você conseguiu se lembrar disso[n]apenas do que Ann disse?[n][f 1 3 65535][w][e]
 
 [msg MSG_033_0_0 [Ann]]
-[s][bup 0 4 0 2 0][f 4 10 65535 0 0][vp 8 0 0 41 65535 0]Eu me sinto enquanto [f 4 2]estava fora, havia algo que eles estavam[n]dizendo que estaria no teste...[n][f 1 3 65535][w][e]
+[s][bup 0 4 0 2 0][f 4 10 65535 0 0][vp 8 0 0 41 65535 0]Eu me sinto enquanto [f 4 2] estava fora, havia algo que eles estavam[n]dizendo que estaria no teste...[n][f 1 3 65535][w][e]
 
 [msg MSG_034_0_0 [Ryuji]]
 [s][bup 0 2 1 2 0][f 4 10 65535 0 0][vp 8 0 0 42 65535 0]Oh eu sei![n][f 1 3 65535][w][e]

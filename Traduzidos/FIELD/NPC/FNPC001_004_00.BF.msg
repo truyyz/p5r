@@ -263,7 +263,7 @@
 
 [msg MSG_BIKOU01_003_0_0 [Makoto]]
 [s][f 4 23 1 65535 3 10 0 0][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu-eu tenho negócios aqui. Eu não tinha[n]outra escolha...[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 2028 65535 0]* suspiro* Não acredito que o segui por todo[n]o caminho para fora da escola. Por que[n]estou fazendo isto...?[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 2028 65535 0]*suspiro* Não acredito que o segui por todo[n]o caminho para fora da escola. Por que[n]estou fazendo isto...?[n][w][e]
 
 [msg MSG_BIKOU01_004_0_0 [Makoto]]
 [s][f 4 23 1 65535 3 10 0 0][bup 0 6 5 65535 0][f 4 10 65535 0 0][vp 8 2 1 2029 65535 0]A-Wayway... tenha cuidado. Vou voltar para[n]casa agora também.[n][w][e]

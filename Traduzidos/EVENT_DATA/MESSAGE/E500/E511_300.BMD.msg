@@ -102,7 +102,7 @@
 [msg MSG_038_0_0 [Futaba]]
 [s][bup 0 8 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 9177 65535 0]Hum... não é nada![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Vamos lá mãe. O curry não pode esperar![n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0][f 4 2]Ainda tenho coisas para fazer![n]Eu assumo! Bem, vejo você![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0][f 4 2] Ainda tenho coisas para fazer![n]Eu assumo! Bem, vejo você![n][f 1 3 65535][w][e]
 
 [msg MSG_038_3_0 [Wakaba]]
 [s][bup 0 208 503 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 6 0]Huh— Ei! Futaba! Não decida assim![n][f 1 3 65535][w][e]

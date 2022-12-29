@@ -31,7 +31,7 @@
 [s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sério?[n][f 1 3 65535][w][e]
 
 [msg MSG_005_5_0 [Haru]]
-[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 3048 65535 0][f 5 13 4 10 7]* risando* bem, confesso que sempre me[n]perguntei como seria ser varrido dos meus[n]pés![n][f 1 3 65535][w][e]
+[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 3048 65535 0][f 5 13 4 10 7]*risando* bem, confesso que sempre me[n]perguntei como seria ser varrido dos meus[n]pés![n][f 1 3 65535][w][e]
 
 [msg MSG_005_7_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sim, não é exatamente assim que vai...[n][f 1 3 65535][w][e]
@@ -96,13 +96,13 @@
 [s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 4 5 7]Se [f 4 2]-kun confia nela, então não temos nada com[n]que nos preocupar.[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Yusuke]]
-[s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 5 5 5]Qualquer amigo de [f 4 2]é um amigo meu.[n][f 1 3 65535][w][e]
+[s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 5 5 5]Qualquer amigo de [f 4 2] é um amigo meu.[n][f 1 3 65535][w][e]
 
 [msg MSG_018_1_0 [Ryuji]]
 [s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]"Provavelmente"!?[n][f 1 3 65535][w][e]
 
 [msg MSG_018_3_0 [Haru]]
-[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 2]conhece-a, certo? Então tenho certeza que[n]ela está bem.[n][f 1 3 65535][w][e]
+[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 2] conhece-a, certo? Então tenho certeza que[n]ela está bem.[n][f 1 3 65535][w][e]
 
 [msg MSG_018_5_0 [Yusuke]]
 [s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Podemos pelo menos ver se ela tem alguma[n]resposta para nós.[n][f 1 3 65535][w][e]

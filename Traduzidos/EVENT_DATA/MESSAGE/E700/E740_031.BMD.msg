@@ -30,7 +30,7 @@
 [s][bup 0 2 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O que- Olha quem está falando![n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Kawakami]]
-[s][bup 0 109 502 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]* suspiro* Os adultos precisam de tempo para[n]relaxar e limpar seus pensamentos.[n][f 1 3 65535][w][e]
+[s][bup 0 109 502 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*suspiro* Os adultos precisam de tempo para[n]relaxar e limpar seus pensamentos.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você entenderá em breve, quando começar a[n]trabalhar no mundo real.[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Ryuji]]
@@ -64,7 +64,7 @@
 
 [msg MSG_017_0_0 [Kawakami]]
 [s][bup 0 109 503 65535 0][f 4 10 65535 0 0][vp 8 2 0 15028 65535 0]É um domingo agradável e ensolarado. Eu não[n]pensei que ficaria preso pescando com vocês[n]dois no meu dia de folga.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]* suspiro* dois encrenqueiros, e seu[n]professor não bom... acho que somos[n]perfeitos um para o outro.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*suspiro* dois encrenqueiros, e seu[n]professor não bom... acho que somos[n]perfeitos um para o outro.[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Ryuji]]
 [s][bup 0 2 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 7020 65535 0]Ela continua pegando peixes, mesmo enquanto[n]incomoda...[n]Estou impressionado![n][f 1 3 65535][w][e]

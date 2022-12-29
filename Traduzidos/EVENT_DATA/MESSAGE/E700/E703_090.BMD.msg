@@ -40,7 +40,7 @@
 [s]Estou aqui para você, Haru.[e]
 
 [msg MSG_009_5_0 [Haru]]
-[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]* risada* certo... eu vou ficar bem.[n][f 1 3 65535][w][e]
+[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*risada* certo... eu vou ficar bem.[n][f 1 3 65535][w][e]
 
 [msg MSG_009_6_0 [Haru]]
 [s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 3181 65535 0]Takakura-san, o que você acha desse café?[n][f 1 3 65535][w][e]

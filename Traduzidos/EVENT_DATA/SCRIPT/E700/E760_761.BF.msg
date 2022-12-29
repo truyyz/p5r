@@ -102,7 +102,7 @@
 [s][vp 8 2 0 59553 65535 0]Você não terminou a agitação! Comece de novo[n]de cima![n][f 1 3 65535][w][e]
 
 [msg MSG_CombiEnd [Personal Trainer]]
-[s][vp 8 2 0 59551 65535 0]Hrngh... *tosse * *tosse * [n][f 1 3 65535][w][e]
+[s][vp 8 2 0 59551 65535 0]Hrngh... *tosse* *tosse* [n][f 1 3 65535][w][e]
 [s][vp 8 2 0 59553 65535 0]Trabalho G-Good! Você está em uma forma[n]incrível![n][f 1 3 65535][w][e]
 [s][vp 8 2 0 59552 65535 0]Espero que você possa fazer isso em suas[n]partidas também![n][f 1 3 65535][w][e]
 

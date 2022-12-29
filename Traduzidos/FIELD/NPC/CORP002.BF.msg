@@ -88,7 +88,7 @@
 [s]Ainda não.[e]
 
 [msg MSG_C02_ACTION_D00_31_10 [Makoto]]
-[s][bup 0 6 4 65535 0][f 4 23 1 202 3 10 0 10][vp 8 2 1 2040 65535 0][f 4 10 65535 0 0]* suspiro* agora?[n][w][e]
+[s][bup 0 6 4 65535 0][f 4 23 1 202 3 10 0 10][vp 8 2 1 2040 65535 0][f 4 10 65535 0 0]*suspiro* agora?[n][w][e]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu acho que se é isso que você quer fazer...[n]isso faz parte da sua grande estratégia?[n][w][e]
 
 [sel SEL_C02_ACTION_D00_31_10 top]
@@ -178,7 +178,7 @@
 [s]Ainda não.[e]
 
 [msg MSG_C02_ACTION_D07_31_10 [Makoto]]
-[s][bup 0 6 4 65535 0][f 4 23 1 202 3 10 0 10][vp 8 2 1 2040 65535 0][f 4 10 65535 0 0]* suspiro* agora?[n][w][e]
+[s][bup 0 6 4 65535 0][f 4 23 1 202 3 10 0 10][vp 8 2 1 2040 65535 0][f 4 10 65535 0 0]*suspiro* agora?[n][w][e]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Não é perigoso para você estar lá fora?[n]Eles podem te encontrar...[n][w][e]
 
 [sel SEL_C02_ACTION_D07_31_10 top]

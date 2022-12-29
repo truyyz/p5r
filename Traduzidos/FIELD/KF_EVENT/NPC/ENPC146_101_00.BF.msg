@@ -2,7 +2,7 @@
 [s]Fictício [n][w][e]
 
 [msg MSG_14610100_MASTER_000_ [Sojiro]]
-[s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 816 0]* Bocejo* Olhe para o tempo.[n][w][e]
+[s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 816 0]*Bocejo* Olhe para o tempo.[n][w][e]
 [s][f 4 23 1 816 3 10 0 0][f 4 10 65535 0 0][vp 8 2 1 0 816 0]Sério, pense em como me sinto tendo que[n]ficar aqui em cima esperando por você.[n][w][e]
 
 [msg MSG_14620100_200_01 [Punk-Rock Woman]]

@@ -1,5 +1,5 @@
 [msg MSG_000_0_0 [Kawakami]]
-[s][bup 0 109 501 65535 0][f 4 10 65535 0 0][vp 8 2 0 15096 65535 0]* Screal* Estou ansioso por uma refeição[n]real como esta![n][f 1 3 65535][w][e]
+[s][bup 0 109 501 65535 0][f 4 10 65535 0 0][vp 8 2 0 15096 65535 0]*Screal* Estou ansioso por uma refeição[n]real como esta![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Olá de novo, sódio![n]Bem-vindo de volta, álcool![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu sou o tipo de pessoa que piora em um[n]hospital! A comida lá é muito sem graça![n][f 1 3 65535][w][e]
 

@@ -20,7 +20,7 @@
 [s][vp 8 0 2 1009 0 9][f 4 10 65535 0 0]Joker! Vou calar a boca.[n]Me dê uma mão![n][f 1 3 65535][w][e]
 
 [msg MSG_BTLEND_000]
-[s]Agora você pode realizar uma habilidade[n]uníssono entre [n][f 4 2]e Akechi. Essa habilidade só pode ser[n]acionada durante a vez de Akechi.[n][f 1 3 65535][w][e]
+[s]Agora você pode realizar uma habilidade[n]uníssono entre [n][f 4 2] e Akechi. Essa habilidade só pode ser[n]acionada durante a vez de Akechi.[n][f 1 3 65535][w][e]
 
 [msg MSG_BTLEND_001 [Akechi]]
 [s][bup 0 9 805 65535 0][vp 8 0 2 1010 0 9][f 4 10 65535 0 0]Heh, não é ruim para uma técnica improvisada.[n][f 1 3 65535][w][e]

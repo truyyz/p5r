@@ -152,7 +152,7 @@
 [s][vp 8 0 0 0 65535 0]Oh, Shibuya é tão complicado. Esses ossos[n]também não se movem como costumavam fazer.[n]Quão preocupante.[n][f 1 3 65535][w][e]
 
 [msg MSG_042_0_0 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]* suspiro* bem, vamos lá.[n][f 1 3 65535][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*suspiro* bem, vamos lá.[n][f 1 3 65535][w][e]
 
 [msg MSG_043_0_0 [Tall Man]]
 [s][vp 8 0 0 0 65535 0]Eu te disse, que a droga é perfeita![n]Entregue, rápido![n][f 1 3 65535][w][e]

@@ -39,7 +39,7 @@
 [s]Estou quase impressionado.[e]
 
 [msg MSG_015_0_0 [Shadow Madarame]]
-[s][vp 8 0 0 16 65535 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 209 10 301 1]Hahaha! How naïve![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 16 65535 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 209 10 301 1]Hahaha! Que ingênuo![n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Shadow Madarame]]
 [s][bup 0 203 101 0 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Hahaha! Não me faça rir.[n][f 1 3 65535][w][e]

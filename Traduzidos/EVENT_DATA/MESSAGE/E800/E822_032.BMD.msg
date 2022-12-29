@@ -105,7 +105,7 @@
 [s][vp 8 0 0 0 65535 0]Eu sinto que meu vínculo com Haru ficará[n]mais forte em breve...[n][f 1 3 65535][w][e]
 
 [msg MSG_035_0_0 [Haru]]
-[s][vp 8 2 0 3060 65535 0]* risada* obrigado.[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 3060 65535 0]*risada* obrigado.[n][f 1 3 65535][w][e]
 
 [msg MND_036_0_0]
 [s][vp 8 0 0 0 65535 0]Dummy e822_032 [n][f 1 3 65535][w][e]

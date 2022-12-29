@@ -949,7 +949,7 @@
 [s][vp 8 0 0 0 65535 0]Parece que eu era capaz de tocar o coração[n]de Yusuke![n][f 1 3 65535][w][e]
 
 [msg MND_GIFT_004_004 [Yusuke]]
-[s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 36 5 100]* suspiro* isso...![n][f 1 3 65535][w][e]
+[s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 36 5 100]*suspiro* isso...![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Fiquei impressionado com um raio de[n]inspiração![n]Esta cor... é... linda![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Devo agradecer, [f 4 2]. Sinto como se eu pudesse aprofundar minha[n]arte ainda mais graças a você.[n][f 1 3 65535][w][e]
 
@@ -1274,7 +1274,7 @@
 [s][vp 8 0 0 0 65535 0]Parece que eu realmente capturei o coração[n]de Maruki![n][f 1 3 65535][w][e]
 
 [msg MND_GIFT_023_014 [Maruki]]
-[s][bup 0 216 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 36 5 100]* suspiro* isso é...[n][f 1 3 65535][w][e]
+[s][bup 0 216 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 36 5 100]*suspiro* isso é...[n][f 1 3 65535][w][e]
 [s][bup 0 216 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu tinha exatamente o mesmo modelo quando[n]ainda era estudante, mas o perdi antes de[n]resolver![n][f 1 3 65535][w][e]
 [s][bup 0 216 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Pensar que eu teria outra chance de[n]enfrentar isso... muito obrigado, muito, [n][f 4 2]-kun.[n][f 1 3 65535][w][e]
 

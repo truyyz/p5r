@@ -83,11 +83,11 @@
 [s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Então, há mais alguma coisa? Como você pode[n]ver, estou muito ocupado aqui.[n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Arrogant Officer]]
-[s][vp 8 0 0 0 65535 0]...Multar.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]...Bom.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Você é irritante, sabe disso?[n]Hmph... mas eu esperaria nada menos da[n]"praga".[n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Takemi]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 108 16 300 1][vp 8 2 0 14026 65535 0]* suspiro* Eu estou tão acima disso...[n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 108 16 300 1][vp 8 2 0 14026 65535 0]*suspiro* Eu estou tão acima disso...[n][f 1 3 65535][w][e]
 
 [sel SEL_024_0_0 top]
 [s][f 0 8 2 1 2217]Concordo.[clr 27][e]

@@ -34,7 +34,7 @@
 [s][vp 8 2 1 0 850 0]Ah, certo, aquele café. é em um beco, [n]Após a loja de tabaco aqui.[n][w][e]
 
 [msg MSG_E10410200_POLICE_103 [Unfriendly Officer]]
-[s][f 4 23 1 850 3 10 0 0][vp 8 2 1 0 850 0]* suspiro* eu já te disse, não é?[n][w][e]
+[s][f 4 23 1 850 3 10 0 0][vp 8 2 1 0 850 0]*suspiro* eu já te disse, não é?[n][w][e]
 [s][vp 8 2 1 0 850 0]Está no beco que está passando pela loja de[n]tabaco aqui. Você saberá quando vir.[n][w][e]
 
 [msg MSG_E10410200_POLICE_003_2 [Unfriendly Officer]]

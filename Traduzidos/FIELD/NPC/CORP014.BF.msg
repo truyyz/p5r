@@ -53,7 +53,7 @@
 [s]Chouno pode acreditar em mim no meu atual [f 4 11 1][clr 26]Charme [clr 27]nível![n][w][e]
 
 [msg MSG_C14_PRECOOP_20_01 [Ms. Chouno]]
-[s][bup 0 304 0 0 0][f 4 10 65535 0 0][f 4 23 1 264 3 10 0 10][vp 8 2 1 0 65535 0]A escola está fechando em breve, Sr.[f 4 1]. Vá em casa antes que se acabe.[n][w][e]
+[s][bup 0 304 0 0 0][f 4 10 65535 0 0][f 4 23 1 264 3 10 0 10][vp 8 2 1 0 65535 0]A escola está fechando em breve, Sr. [f 4 1]. Vá em casa antes que se acabe.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ou você precisava de algo da Sra. Kawakami?[n][w][e]
 
 [sel SEL_C14_PRECOOP_20_02 top]
@@ -71,7 +71,7 @@
 
 [msg MSG_C14_PRECOOP_20_06 [Kawakami]]
 [s][bup 0 109 1 0 0][f 4 10 65535 0 0][f 4 23 1 214 3 10 0 10][vp 8 2 1 0 65535 0]Th-isso está certo![n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 1]As perguntas de Kun são complicadas, então[n]eu leva tempo à noite para ajudá-lo...[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 1] as perguntas de Kun são complicadas, então[n]eu leva tempo à noite para ajudá-lo...[n][w][e]
 
 [msg MSG_C14_PRECOOP_20_07 [Ms. Chouno]]
 [s][bup 0 304 0 0 0][f 4 10 65535 0 0][f 4 23 1 264 3 10 0 10][vp 8 2 1 0 65535 0]Então você está dando lições individuais[n]fora do horário escolar, HM?[n][w][e]
@@ -146,7 +146,7 @@
 [s][bup 0 109 6 0 0][f 4 23 1 214 3 10 0 10][f 4 10 65535 0 250][vp 8 0 1 15 65535 0]Farei todas as suas tarefas domésticas.[n][w][e]
 
 [msg MSG_C14_BYEGREET_01_00 [Kawakami]]
-[s][bup 0 109 0 0 0][f 4 10 65535 0 0][f 4 23 1 214 3 10 0 10][vp 8 0 1 16 65535 0]Oh...[f 4 1]-kun.[n][w][e]
+[s][bup 0 109 0 0 0][f 4 10 65535 0 0][f 4 23 1 214 3 10 0 10][vp 8 0 1 16 65535 0]Oh... [f 4 1]-kun.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 17 65535 0]Que coincidência. Estou prestes a dar uma[n]palestra. Você... veio ver o campus?[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 18 65535 0]Você está voltando para casa amanhã,[n]certo...? Certifique-se de manter seus[n]estudos lá, ok?[n][w][e]
 
@@ -215,7 +215,7 @@
 [s][bup 0 109 6 0 0][f 4 23 1 214 3 10 0 10][f 4 10 65535 0 250][vp 8 0 1 45 65535 0]Cuidar. Se você precisar de mim, basta dizer[n]a palavra e eu estou lá.[n][w][e]
 
 [msg MSG_C14_BYEGREET_01_00_5 [Kawakami]]
-[s][bup 0 109 0 0 0][f 4 10 65535 0 0][f 4 23 1 214 3 10 0 10][vp 8 0 1 47 65535 0]Oh...[f 4 1]-kun.[n][w][e]
+[s][bup 0 109 0 0 0][f 4 10 65535 0 0][f 4 23 1 214 3 10 0 10][vp 8 0 1 47 65535 0]Oh... [f 4 1]-kun.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 48 65535 0]Que coincidência. Estou prestes a dar uma[n]palestra. Você... veio ver o campus?[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 49 65535 0]Você está voltando para casa amanhã,[n]certo...? Certifique-se de manter seus[n]estudos lá, ok?[n][w][e]
 

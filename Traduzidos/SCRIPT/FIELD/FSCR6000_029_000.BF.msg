@@ -79,7 +79,7 @@
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 0 0 0]É melhor você aceitar que já perdeu.[n]Se prepare.[n][w][e]
 
 [msg MSG_179_0_0 [Shadow Kiritani]]
-[s][vp 1 0 0 0 0 0]...Multar. Faça o que você quiser.[n][w][e]
+[s][vp 1 0 0 0 0 0]...Bom. Faça o que você quiser.[n][w][e]
 [s][vp 1 0 0 0 0 0]Lembre-se, no entanto: o mal que deve ser[n]apagado continuará apenas se levantando[n]depois que eu vou embora.[n][w][e]
 
 [msg MSG_180_0_0 [Makoto]]

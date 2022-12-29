@@ -93,7 +93,7 @@
 [s]Desista já. Você já gastou todo o seu[n]dinheiro tentando vencer Nejima.[n][w][e]
 
 [msg quest27_hint_talk_22 [Angry Gamer]]
-[s][f 4 23 1 614 3 10 0 10]Tch. Multar. Então o que você quer?[n][w][e]
+[s][f 4 23 1 614 3 10 0 10]Tch. Bom. Então o que você quer?[n][w][e]
 
 [sel SELquest27_hint_talk_23 top]
 [s]Você conhece o rei?[e]

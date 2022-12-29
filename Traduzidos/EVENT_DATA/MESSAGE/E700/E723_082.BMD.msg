@@ -13,10 +13,10 @@
 [s]Obrigado, mas eu deveria continuar.[e]
 
 [msg MSG_003_0_0 [Maruki]]
-[s][bup 0 216 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 35 5 1014]* risada* mesmo eu não sou tão previsível.[n][f 1 3 65535][w][e]
+[s][bup 0 216 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 35 5 1014]*risada* mesmo eu não sou tão previsível.[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Maruki]]
-[s][bup 0 216 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 35 10 1014]* risada* boa pergunta.[n][f 1 3 65535][w][e]
+[s][bup 0 216 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 35 10 1014]*risada* boa pergunta.[n][f 1 3 65535][w][e]
 
 [msg MSG_004_5_0 [Maruki]]
 [s][bup 0 216 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Espere um segundo, espere um segundo! Apenas[n]me ouça primeiro! Por favor!?[n][f 1 3 65535][w][e]

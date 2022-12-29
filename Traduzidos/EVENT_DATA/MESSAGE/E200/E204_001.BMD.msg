@@ -74,7 +74,7 @@
 [s][bup 0 5 3 2 0][f 4 10 65535 0 0][vp 8 0 0 27 65535 0]Está trancado de qualquer maneira, então...[n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [Ann]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 4 12 301 1][vp 8 0 0 28 65535 0]Multar! Isso é muito embaraçoso...[n]Estou indo embora![n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 4 12 301 1][vp 8 0 0 28 65535 0]Bom! Isso é muito embaraçoso...[n]Estou indo embora![n][f 1 3 65535][w][e]
 
 [msg MSG_025_0_0 [Yusuke]]
 [s][bup 0 5 4 2 0][f 4 10 65535 0 0][vp 8 0 0 29 65535 0]Mas...[n][f 1 3 65535][w][e]

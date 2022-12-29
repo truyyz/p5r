@@ -22,7 +22,7 @@
 [s][f 5 14]Whaddya significa?[n][w][e]
 
 [msg MSG_007_0_0 [Yusuke]]
-[s][f 5 14]Se Shido tiver tempo de sobra, ele[n]garantirá que todas as pontas soltas[n]estejam amarradas com [n][f 4 2]é a morte.[n][w][e]
+[s][f 5 14]Se Shido tiver tempo de sobra, ele[n]garantirá que todas as pontas soltas[n]estejam amarradas com [n][f 4 2] é a morte.[n][w][e]
 
 [msg MSG_008_0_0 [Haru]]
 [s][f 5 14]Eles podem até descobrir o cadáver[n]desaparecido...[n][w][e]
@@ -34,7 +34,7 @@
 [s][f 5 14]Shido provavelmente está fazendo as[n]coisas com cautela, então devemos fazer[n]o mesmo, se possível.[n][w][e]
 
 [msg MSG_011_0_0 [Yusuke]]
-[s][f 5 14]Se Shido tiver tempo de sobra, ele[n]garantirá que todas as pontas soltas[n]estejam amarradas com [n][f 4 2]é a morte.[n][w][e]
+[s][f 5 14]Se Shido tiver tempo de sobra, ele[n]garantirá que todas as pontas soltas[n]estejam amarradas com [n][f 4 2] é a morte.[n][w][e]
 
 [msg MSG_012_0_0 [Haru]]
 [s][f 5 14]Eles podem até descobrir o cadáver[n]desaparecido...[n][w][e]

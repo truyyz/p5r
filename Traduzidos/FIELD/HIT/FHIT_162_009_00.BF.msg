@@ -557,7 +557,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos usar este lugar para resolver nosso[n]próximo passo, Joker.[n][w][e]
 
 [msg D10_09_ExtraHuddle01_Ans [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1003 65535 0]Não tem certeza sobre algo, Joker? Podemos[n]passar por cima de nossa Intel novamente,[n]se você quiser.[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1003 65535 0]Não tem certeza sobre algo, Joker? Podemos[n]passar por cima de nossa Informação novamente,[n]se você quiser.[n][w][e]
 
 [msg D10_09_ExtraHuddle01_Gen [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1122 65535 0]Ok, aqui está outro lugar que podemos usar.[n][w][e]
@@ -566,7 +566,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1122 65535 0]Ok, aqui está outro lugar que podemos usar.[n][w][e]
 
 [msg D10_09_ExtraHuddle02_Ans [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1003 65535 0]Não tem certeza sobre algo, Joker? Podemos[n]passar por cima de nossa Intel novamente,[n]se você quiser.[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1003 65535 0]Não tem certeza sobre algo, Joker? Podemos[n]passar por cima de nossa Informação novamente,[n]se você quiser.[n][w][e]
 
 [msg D10_09_ExtraHuddle02_Gen [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1122 65535 0]Ok, aqui está outro lugar que podemos usar.[n][w][e]
@@ -575,7 +575,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1122 65535 0]Ok, aqui está outro lugar que podemos usar.[n][w][e]
 
 [msg D10_09_ExtraHuddle03_Ans [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1003 65535 0]Não tem certeza sobre algo, Joker? Podemos[n]passar por cima de nossa Intel novamente,[n]se você quiser.[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1003 65535 0]Não tem certeza sobre algo, Joker? Podemos[n]passar por cima de nossa Informação novamente,[n]se você quiser.[n][w][e]
 
 [msg D10_09_ExtraHuddle03_Gen [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1122 65535 0]Ok, aqui está outro lugar que podemos usar.[n][w][e]

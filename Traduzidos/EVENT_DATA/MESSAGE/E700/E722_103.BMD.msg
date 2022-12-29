@@ -18,7 +18,7 @@
 [s][bup 0 10 700 0 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0][f 4 24 0 4 0 35 5 100]Quando você me elogia assim, sinto que tudo[n]vai ficar bem no final![n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Sumire]]
-[s][bup 0 10 701 0 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]* risada* provavelmente é graças a você se[n]sentir tão nervoso que eu sou capaz de[n]manter minha compostura.[n][f 1 3 65535][w][e]
+[s][bup 0 10 701 0 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]*risada* provavelmente é graças a você se[n]sentir tão nervoso que eu sou capaz de[n]manter minha compostura.[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Sumire]]
 [s][bup 0 10 704 0 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Ah...[n][f 1 3 65535][w][e]

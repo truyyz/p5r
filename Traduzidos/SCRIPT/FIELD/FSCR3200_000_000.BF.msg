@@ -1213,7 +1213,7 @@
 
 [msg TV_NEWS_0807_000_00 [Newscaster]]
 [s]Em nosso "O que é isso?" segmento...[n]A Medjed anunciou que atacará as empresas no[n]dia 21.[n][w][e]
-[s]Em resposta, a polícia está correndo para[n]reunir a Intel e reforçar a segurança...[n][w][e]
+[s]Em resposta, a polícia está correndo para[n]reunir a Informação e reforçar a segurança...[n][w][e]
 [s]O que vai acontecer no dia 21? Vale a pena[n]prestar atenção a...[n][w][e]
 
 [msg TV_NEWS_0807_100_00 [Morgana]]
