@@ -3,7 +3,7 @@
 
 [msg MSG_001_0_0 [Slimy Middle-Aged Man]]
 [s][vp 8 0 0 2 5 0]Você vai para Shujin, certo?[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 3 5 0]Ouvi dizer que as coisas têm sido difíceis[n]lá ultimamente, com aquele incidente[n]violento.[n]Você quer falar sobre isso em algum lugar?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 3 5 0]Ouvi dizer que as coisas têm sido difíceis lá[n]ultimamente, com aquele incidente violento.[n]Você quer falar sobre isso em algum lugar?[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Student Called Yoshizawa]]
 [s][bup 0 10 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 4 4 0]Obrigado por sua preocupação.[n][f 1 3 65535][w][e]
@@ -19,7 +19,7 @@
 [s][bup 0 10 5 65535 0][f 4 10 65535 0 0][vp 8 0 0 8 4 0]Como eu disse...[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Slimy Middle-Aged Man]]
-[s][f 4 10 65535 0 0][vp 8 0 0 9 5 0]Se você estiver ocupado, colocarei meu[n]número no seu telefone para que você possa[n]me ligar mais tarde.[n]Parece um plano?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 9 5 0]Se você estiver ocupado, colocarei meu número[n]no seu telefone para que você possa me[n]ligar mais tarde. Parece um plano?[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Student Called Yoshizawa]]
 [s][bup 0 10 5 65535 0][f 4 10 65535 0 0][vp 8 0 0 10 4 0]Pare...[n][f 1 3 65535][w][e]

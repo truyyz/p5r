@@ -169,7 +169,7 @@
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Não ouvi falar disso? É uma condição em que[n]seus sentidos podem atravessar um sobre o[n]outro, como ver música como cor.[n][f 1 3 65535][w][e]
 
 [msg MSG_044_0_0 [Ms. Chouno]]
-[s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Senhor. [f 4 1]. Você estava olhando para o espaço, não[n]estava?[n][f 1 3 65535][w][e]
+[s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Senhor. [f 4 1]. Você estava olhando para o espaço,[n]não estava?[n][f 1 3 65535][w][e]
 
 [msg MSG_045_0_0 [Ms. Chouno]]
 [s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37204 65535 0]Bem, seu número acabou. As palavras-raiz da[n]sinestesia são "syn" e "aistese". O que[n]eles querem dizer?[n][f 1 3 65535][w][e]
@@ -567,7 +567,7 @@
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Estou acostumado a isso, então eu realmente[n]peguei com eles em inglês.[n][f 1 3 65535][w][e]
 
 [msg MSG_144_0_0 [Ms. Chouno]]
-[s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Senhor. [f 4 1]! Mostre-me o quanto seu inglês melhorou.[n][f 1 3 65535][w][e]
+[s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Senhor. [f 4 1]! Mostre-me o quanto seu[n]inglês melhorou.[n][f 1 3 65535][w][e]
 
 [msg MSG_145_0_0 [Ms. Chouno]]
 [s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37205 65535 0]Temos um ditado em japonês: "Um falcão[n]qualificado esconde suas garras". O que o[n]idioma inglês transmite o mesmo conceito?[n][f 1 3 65535][w][e]
@@ -1988,7 +1988,7 @@
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Estou acostumado a isso, então eu realmente[n]peguei com eles em inglês.[n][f 1 3 65535][w][e]
 
 [msg MSG_484_0_0 [Ms. Chouno]]
-[s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Senhor. [f 4 1]! Mostre-me o quanto você conhece seu inglês.[n][f 1 3 65535][w][e]
+[s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Senhor. [f 4 1]! Mostre-me o quanto você[n]conhece seu inglês.[n][f 1 3 65535][w][e]
 
 [msg MSG_485_0_0 [Ms. Chouno]]
 [s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37205 65535 0]Qual é uma das supostas origens para a frase[n]"gato pegou sua língua"?[n][f 1 3 65535][w][e]

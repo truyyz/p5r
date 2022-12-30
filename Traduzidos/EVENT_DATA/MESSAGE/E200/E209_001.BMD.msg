@@ -68,7 +68,7 @@
 
 [msg MSG_019_0_0 [Yusuke]]
 [s][bup 0 5 103 0 0][f 4 10 65535 0 0][vp 8 0 0 28 65535 0]Quando você mencionou o plágio...[n]No fundo, eu sabia que você estava certo.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 29 65535 0]É por isso que eu tão veementemente negei[n]você...[n]Eu estava simplesmente fugindo da verdade.[n]Eu sinto Muito.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 29 65535 0]É por isso que eu tão veementemente negei[n]você... Eu estava simplesmente fugindo da[n]verdade. Eu sinto Muito.[n][f 1 3 65535][w][e]
 
 [sel SEL_020_0_0 top]
 [s]Sem problemas.[e]

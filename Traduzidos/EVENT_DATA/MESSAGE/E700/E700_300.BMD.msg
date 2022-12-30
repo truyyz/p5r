@@ -1117,7 +1117,7 @@
 [s][bup 0 4 1 65535 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Heeey, sou eu. Obrigado por vir comigo hoje![n][f 1 3 65535][w][e]
 
 [msg MSG_288_0_0 [Ann]]
-[s][bup 0 4 0 65535 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Então, depois que nos encontramos, tentei[n]fazer algumas caminhadas na pista a caminho[n]de casa. Como uma mulher legal e sexy[n]andava.[n][f 1 3 65535][w][e]
+[s][bup 0 4 0 65535 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Então, depois que nos encontramos, tentei[n]fazer algumas caminhadas na pista a caminho de[n] casa. Como uma mulher legal e sexy andava.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Então uma garota que estava me observando[n]por perto começou a me copiar e passaram[n]comigo![n][f 1 3 65535][w][e]
 [s][bup 0 4 1 65535 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ela tinha que ter me visto, certo? Você acha[n]que ela pensou que eu era legal...?[n][f 1 3 65535][w][e]
 
@@ -5058,7 +5058,7 @@
 
 [msg MSG_1273_0_0 [Maruki]]
 [s][bup 0 216 1 65535 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mais uma vez obrigado por concordar em me[n]ajudar.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu posso estar olhando para você para obter[n]ajuda com mais frequência a partir de[n]agora. Isso significaria muito se você[n]pudesse ajudar.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu posso estar olhando para você para obter ajuda[n]com mais frequência a partir de agora. Isso[n]significaria muito se você pudesse ajudar.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Tudo bem, vejo você mais tarde.[n][f 1 3 65535][w][e]
 
 [msg MSG_1274_0_0 [Maruki]]

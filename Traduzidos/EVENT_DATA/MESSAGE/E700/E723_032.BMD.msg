@@ -11,7 +11,7 @@
 
 [msg MSG_002_5_0 [Maruki]]
 [s][bup 0 216 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]A maioria das coisas na mente de todos eram[n]exames de admissão na faculdade, problemas[n]de relacionamento...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Em outras palavras, preocupações típicas[n]para estudantes do ensino médio. Alguns se[n]abriram sobre questões mais profundas, mas[n]não a maioria.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Em outras palavras, preocupações típicas para[n]estudantes do ensino médio. Alguns falaram[n]de questões mais profundas, mas não a maioria.[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Maruki]]
 [s][bup 0 216 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Alguns estudantes ainda estavam lutando com[n]as cicatrizes do incidente, sim...[n][f 1 3 65535][w][e]
@@ -34,7 +34,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Acho que não fiz muito, mas se ajudei até[n]uma pessoa, isso faz tudo valer a pena.[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Maruki]]
-[s][bup 0 216 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu sei que não sou o cara mais confiável,[n]mas lembre-se de que você sempre pode falar[n]comigo também se algo estiver incomodando[n]você.[n][f 1 3 65535][w][e]
+[s][bup 0 216 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu sei que não sou o cara mais confiável, mas[n]lembre-se de que você sempre pode falar comigo[n]também se algo estiver incomodando você.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu sou o conselheiro aqui, você sabe. Se[n]nada mais, sou bom em ouvir.[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Maruki]]
@@ -69,7 +69,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Talvez isso fosse mais claro- definido por[n]resumos, como trauma ou estresse.[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Maruki]]
-[s][bup 0 216 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Corporalmente, a dor física pode ser pensada[n]como algo necessário. Uma resposta[n]autonômica à lesão, doença, qualquer que[n]seja.[n][f 1 3 65535][w][e]
+[s][bup 0 216 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Corporalmente, a dor física pode ser pensada[n]como algo necessário. Uma resposta autonômica[n]à lesão, doença, qualquer que seja.[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Maruki]]
 [s][bup 0 216 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 57522 65535 0]Mas e as dores sentidas dentro do coração?[n][f 1 3 65535][w][e]
@@ -80,7 +80,7 @@
 
 [msg MSG_017_0_0 [Maruki]]
 [s][bup 0 216 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 57507 65535 0]E eu... bem, quero aprender mais sobre essas[n]dores psicológicas internas.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Agora, esta é a minha pergunta para você...[n]quando você realmente sente dor em seu[n]coração, [n][f 4 1]-kun?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Agora, esta é a minha pergunta para você...[n]quando você realmente sente dor em seu[n]coração, [f 4 1]-kun?[n][f 1 3 65535][w][e]
 
 [sel SEL_018_0_0 top]
 [s]Quando alguém me trai.[e]
@@ -88,7 +88,7 @@
 [s]Quando fico socado.[e]
 
 [msg MSG_019_0_0 [Maruki]]
-[s][bup 0 216 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Entendo... sim, eu posso simpatizar lá.[n]Às vezes, basta uma traição para que a[n]confiança intensa se transforme em intensa[n]dor.[n][f 1 3 65535][w][e]
+[s][bup 0 216 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Entendo... sim, eu posso simpatizar lá. Às vezes,[n]basta uma traição para que a confiança[n]intensa se transforme em intensa dor.[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Maruki]]
 [s][bup 0 216 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Isso é verdade. Essa pontada de culpa é[n]um bom exemplo de dor interna.[n][f 1 3 65535][w][e]
@@ -135,7 +135,7 @@
 
 [msg MSG_033_0_0 [Maruki]]
 [s][bup 0 216 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]As feridas do coração são muito mais[n]difíceis de detectar e, de certa forma, são[n]muito mais complexas que as lesões físicas.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]É por isso que estou fazendo essa[n]pesquisa... para salvar as pessoas que[n]sofrem de dor interna que eles continuam[n]segurando.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]É por isso que estou fazendo essa pesquisa...[n]para salvar as pessoas que sofrem de[n]dor interna que eles continuam segurando.[n][f 1 3 65535][w][e]
 [s][bup 0 216 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 36 5 100]Você me ajudou a perceber esse propósito[n]novamente. Obrigada.[n][f 1 3 65535][w][e]
 
 [sel SEL_034_0_0 top]

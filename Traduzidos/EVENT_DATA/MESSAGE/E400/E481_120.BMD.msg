@@ -105,7 +105,7 @@
 [s][vp 8 0 0 38 12 0]Obrigado por tudo.[n][f 1 3 65535][w][e]
 
 [msg MSG_034_0_0 [Morgana]]
-[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 0 0 39 65535 0]Eu não sei a melhor maneira de colocar[n]isso...[n]Mas isso com certeza foi um tempo ruim por[n]aí.[n][f 1 3 65535][w][e]
+[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 0 0 39 65535 0]Eu não sei a melhor maneira de colocar isso...[n]Mas isso com certeza foi um tempo ruim por[n]aí.[n][f 1 3 65535][w][e]
 
 [msg MSG_035_0_0 [Student Called Yoshizawa]]
 [s][bup 0 10 204 65535 0][f 4 10 65535 0 0][vp 8 0 0 40 6 0]Oh![n][f 1 3 65535][w][e]

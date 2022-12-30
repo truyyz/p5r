@@ -1,5 +1,5 @@
 [msg MSG_000_0_0 [Justine]]
-[s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]Nosso mestre gostaria de uma palavra com[n]você.[n]Fique em frente e ouça de perto, preso.[n][f 1 3 65535][w][e]
+[s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]Nosso mestre gostaria de uma palavra com[n]você. Fique em frente e ouça de perto,[n]preso.[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Igor]]
 [s][bup 0 201 0 0 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Parece que você libertou o coração de uma[n]garota frenética e a salvou de seu passado[n]assombrado.[n][f 1 3 65535][w][e]

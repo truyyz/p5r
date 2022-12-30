@@ -5,7 +5,7 @@
 [s][bup 0 5 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 2 0 0]Sua posição transmite a noção de que ele não[n]é inimigo comum.[n][w][e]
 
 [msg mini_EV_e210_146_mes03 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 3 0 0]Eu acho que a sala de controle está atrás[n]dele.[n]Ele provavelmente está guardando para[n]garantir que ninguém chegue muito perto.[n][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 3 0 0]Eu acho que a sala de controle está atrás dele.[n]Ele provavelmente está guardando para[n]garantir que ninguém chegue muito perto.[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 4 0 0]No entanto, precisaremos desarmar a[n]segurança se queremos garantir que tenhamos[n]uma rota de infiltração segura.[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 5 0 0]Forçar o nosso caminho parece ser nossa[n]única opção...[n][w][e]
 

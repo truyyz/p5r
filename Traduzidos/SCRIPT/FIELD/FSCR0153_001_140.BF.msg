@@ -11,7 +11,7 @@
 [s][bup 0 101 0 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 12018 65535 0]Você parece estar bem, preso.[n][w][e]
 
 [msg EV_SP_ABILITY_OPEN_START_3 [Justine]]
-[s][bup 0 101 0 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 55232 65535 0]Nosso mestre gostaria de uma palavra com[n]você.[n]Entre.[n][w][e]
+[s][bup 0 101 0 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 55232 65535 0]Nosso mestre gostaria de uma palavra com[n]você. Entre.[n][w][e]
 
 [msg EV_SP_ABILITY_OPEN_END_0 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1018 65535 0]Ei! Joker![n][w][e]

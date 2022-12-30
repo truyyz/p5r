@@ -160,7 +160,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 84 65535 0]Eu tenho um favor a pedir por mim mesmo- se[n]você não se importaria...[n][f 1 3 65535][w][e]
 
 [msg MSG_037_0_0 [Kasumi]]
-[s][bup 0 10 203 65535 0][f 4 10 65535 0 0][vp 8 0 0 42 65535 0]Ultimamente, não tenho recebido os[n]resultados que quero das minhas[n]performances, e estou preocupado que estou[n]pensando demais...[n][f 1 3 65535][w][e]
+[s][bup 0 10 203 65535 0][f 4 10 65535 0 0][vp 8 0 0 42 65535 0]Ultimamente, não tenho recebido os resultados[n]que quero das minhas performances, e estou[n]preocupado que estou pensando demais...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 43 65535 0]Portanto, seria maravilhoso se você pudesse[n]me dar algum conselho sempre que tiver[n]tempo.[n][f 1 3 65535][w][e]
 
 [sel SEL_038_0_0 top]

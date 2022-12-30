@@ -132,7 +132,7 @@
 
 [msg Msg_NotOpen_moru [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1171 65535 0]Você está com fome ou algo assim? Podemos[n]muito bem ir para algo mais caro, e...[n][w][e]
-[s][bup 0 3 4 0 0][f 4 10 65535 0 0]OHO... esse funcionário de meio período é[n]difícil. Mas trabalhar aqui pode[n]desenvolver seu [n][f 4 11 2][clr 26][f 4 12 2][clr 27]...[n][w][e]
+[s][bup 0 3 4 0 0][f 4 10 65535 0 0]OHO... esse trabalho de meio período é[n]difícil. Mas trabalhar aqui pode desenvolver[n]sua [f 4 11 2][clr 26][f 4 12 2][clr 27]...[n][w][e]
 
 [msg MSG_BAITO_NOTOPEN]
 [s]Parece ser um em uma grande cadeia de lojas[n]de tigela de carne...[n][w][e]
@@ -151,7 +151,7 @@
 [s]Não vamos trabalhar hoje.[e]
 
 [msg MSG_Gyudon_ParamInfo_int [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Você pode melhorar seu [n][f 4 11 2][clr 26][f 4 12 2][clr 27]Se você trabalha em um lugar de tigela de[n]carne.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Você pode melhorar sua [f 4 11 2][clr 26][f 4 12 2][clr 27] se você[n]trabalha em um lugar de tigela de carne.[n][w][e]
 
 [msg MSG_Gyudon_ParamInfo_int_2 [Morgana]]
 [s][bup 0 3 4 0 0][f 4 10 65535 0 0][vp 8 2 1 1029 65535 0]O que está acontecendo? Está lotado...[n]Oh, há um desconto porque é [n][clr 2]Dia de Yakiniku [clr 27]![n][w][e]

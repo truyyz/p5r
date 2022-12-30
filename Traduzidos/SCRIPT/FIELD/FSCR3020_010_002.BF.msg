@@ -45,7 +45,7 @@
 
 [msg MSG_NET_1ST_SHOP [Tanaka]]
 [s][bup 0 210 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Obrigado por inscrever-se! Bem-vindo às[n]commodities obscuras de Tanaka![n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Senhor. [f 4 1], Você abriu a porta para possibilidades que[n]as pessoas normais só podem sonhar![n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Senhor. [f 4 1], Você abriu a porta para[n]possibilidades que as pessoas normais só[n]podem sonhar![n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Agora, você pode encontrar todos os itens[n]raros que você poderia querer![n][w][e]
 
 [msg MSG_NET_1ST_SHOP_NAME_CH [Tanaka]]
@@ -55,7 +55,7 @@
 
 [msg MSG_NET_SHOP_IN [Tanaka]]
 [s][bup 0 210 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Bem-vindo! Esta é a Shady Commodities de[n]Tanaka![n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Senhor. [f 4 1], Você abriu a porta para possibilidades que[n]as pessoas normais só podem sonhar![n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Senhor. [f 4 1], Você abriu a porta para[n]possibilidades que as pessoas normais só[n]podem sonhar![n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Agora, você pode encontrar todos os itens[n]raros que você poderia querer![n][w][e]
 
 [msg MSG_NET_SHOP_IN_NAME_CHA [Tanaka]]

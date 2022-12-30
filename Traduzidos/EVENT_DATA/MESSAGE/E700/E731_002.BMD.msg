@@ -78,7 +78,7 @@
 
 [msg MSG_020_0_0 [Ms. Chouno]]
 [s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37216 65535 0]Ei, você está ouvindo?[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Senhor. [f 4 1]! Qual é a raiz linguística da palavra em[n]inglês "Azure"?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Senhor. [f 4 1]! Qual é a raiz linguística[n]da palavra em inglês "Azure"?[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Ms. Chouno]]
 [s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37209 65535 0]Excelente![n][f 1 3 65535][w][e]
@@ -108,7 +108,7 @@
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Alguém gostaria de me dizer o que isso[n]significa?[n][f 1 3 65535][w][e]
 
 [msg MSG_028_0_0 [Ms. Chouno]]
-[s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37207 65535 0]Senhor. [f 4 1]! Vamos ouvir isso. Qual é o fenômeno[n]comumente chamado em inglês?[n][f 1 3 65535][w][e]
+[s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37207 65535 0]Senhor. [f 4 1]! Vamos ouvir isso. Qual[n]é o fenômeno comumente chamado em inglês?[n][f 1 3 65535][w][e]
 
 [msg MSG_029_0_0 [Ms. Chouno]]
 [s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37208 65535 0]Bom![n][f 1 3 65535][w][e]
@@ -281,7 +281,7 @@
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Chamamos pessoas que experimentam esse[n]fenômeno de "sinestetas".[n][f 1 3 65535][w][e]
 
 [msg MSG_068_0_0 [Ms. Chouno]]
-[s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Senhor. [f 4 1]. Você estava olhando para o espaço, não[n]estava?[n][f 1 3 65535][w][e]
+[s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Senhor. [f 4 1]. Você estava olhando para o[n]espaço, não estava?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Bem, seu número acabou. As palavras-raiz da[n]sinestesia são "syn" e "aistese". O que[n]eles querem dizer?[n][f 1 3 65535][w][e]
 
 [msg MSG_069_0_0 [Ms. Chouno]]
@@ -352,7 +352,7 @@
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Ah, e "Hangly"! É quando você está com tanta[n]fome que o coloca no limite, e tudo o deixa[n]louco.[n][f 1 3 65535][w][e]
 
 [msg MSG_084_0_0 [Ms. Chouno]]
-[s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37207 65535 0]Então, aqui está um teste! Senhor. [f 4 1]![n][f 1 3 65535][w][e]
+[s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37207 65535 0]Então, aqui está um teste![n]Senhor. [f 4 1]![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Você diria que está se sentindo um pouco...[n]salgado?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]O que "Salty" significaria se usado no[n]sentido da gíria?[n][f 1 3 65535][w][e]
 
