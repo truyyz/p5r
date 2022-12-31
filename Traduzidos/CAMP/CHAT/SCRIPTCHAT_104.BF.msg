@@ -8,7 +8,7 @@
 [s][f 5 14]Ela ainda não recuperou a consciência...[n]mas eu tive que fazer as pazes.[n][w][e]
 
 [msg MSG_003_0_0 [Ryuji]]
-[s][f 5 14]Whaddya significa? Você não fez nada de[n]errado, Ann.[n][w][e]
+[s][f 5 14]O que significa isso? Você não fez nada de[n]errado, Ann.[n][w][e]
 
 [msg MSG_004_0_0 [Ryuji]]
 [s][f 5 14]Direita, [f 4 2]?[n][w][e]

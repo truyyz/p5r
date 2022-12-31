@@ -2997,7 +2997,7 @@
 [s]Apenas alguns restantes! Agora é sua chance[n]final de comprar, comprar, comprar![n][w][e]
 
 [msg TV_SHOPPING_START_04 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1187 65535 0][f 4 25 1 65535 0 0]Aparentemente, os telefones estão tocando[n]sem parar.[n]Se comprarmos um, o outro provavelmente[n]estará esgotado antes que possamos[n]obtê-lo...[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1187 65535 0][f 4 25 1 65535 0 0]Parece que os telefones estão tocando sem parar.[n]Se comprarmos um, o outro provavelmente estará[n] esgotado antes que possamos obtê-lo...[n][w][e]
 
 [msg TV_SHOPPING_START_04_2nd [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1168 65535 0][f 4 25 1 65535 0 0]Produtos populares, hein? Aposto que só[n]poderemos conseguir um ou outro nesse[n]ritmo...[n][w][e]
@@ -3037,7 +3037,7 @@
 [s]Uau! Ambos são itens tão ótimos, não consigo[n]decidir qual deles![n][w][e]
 
 [msg TV_SHOPPING_ITEM_0424_01 [Male Host]]
-[s]Primeiro, deixe-me apresentá-lo ao [n][clr 3]Conjunto de[n]acordado da primavera[clr 27]! Você nunca terá que temer[n]adormecer novamente![n][w][e]
+[s]Primeiro, deixe-me apresentá-lo ao [clr 3]Conjunto de acordado da primavera[clr 27]![n]Você nunca terá que temer adormecer novamente![n][w][e]
 [s]Vem com: [clr 2][var 8][clr 27] [f 2 5 3 9999 0], Assim, [n][clr 2][var 9][clr 27] [f 2 5 3 9999 1], e...[n][w][e]
 [s][clr 2][var 10][clr 27] [f 2 5 3 9999 2]! Que negócio incrível![n][w][e]
 [s]Mas isso não é tudo o que temos![n][w][e]

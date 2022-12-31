@@ -19,7 +19,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você sente o mesmo, Caroline?[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Caroline]]
-[s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Whaddya significa?[n][f 1 3 65535][w][e]
+[s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O que significa isso?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Nunca cuidamos de alguém assim antes.[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Justine]]

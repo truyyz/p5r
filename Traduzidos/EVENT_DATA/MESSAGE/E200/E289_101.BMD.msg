@@ -27,7 +27,7 @@
 [s][bup 0 6 0 1 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Mas o que vamos dizer para entrar?[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Ryuji]]
-[s][bup 0 2 11 1 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Whaddya significa? Estamos entrando[n]furtivamente.[n][f 1 3 65535][w][e]
+[s][bup 0 2 11 1 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]O que significa isso? Estamos entrando[n]furtivamente.[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Makoto]]
 [s][bup 0 6 4 1 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Você tem que estar brincando.[n][f 1 3 65535][w][e]

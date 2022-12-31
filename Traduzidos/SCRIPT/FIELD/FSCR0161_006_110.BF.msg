@@ -2,7 +2,7 @@
 [s][bup 0 6 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2159 65535 0]Espere um segundo. Não há... nenhuma maneira[n]de desativar este.[n][w][e]
 
 [msg D08_01_e441_020_mes02 [Ryuji]]
-[s][bup 0 2 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Huh? Whaddya significa?[n][w][e]
+[s][bup 0 2 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Huh? O que significa isso?[n][w][e]
 
 [msg D08_01_e441_020_mes03 [Makoto]]
 [s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Dada a forma e o número de pontos da sala,[n]não há maneira matemática de fazer tudo[n]azul.[n][w][e]

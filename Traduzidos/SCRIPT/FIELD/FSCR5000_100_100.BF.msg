@@ -6,7 +6,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][f 4 23 1 3 3 5 11 5][vp 1 0 0 3 0 0]Não, vocês dois têm algo diferente que[n]precisam fazer.[n][w][e]
 
 [msg D02_MISSION_mes03 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 23 1 2 3 5 11 5][vp 1 0 0 4 0 0][f 4 22 1 65535 3]Whaddya significa?[n][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 23 1 2 3 5 11 5][vp 1 0 0 4 0 0][f 4 22 1 65535 3]O que significa isso?[n][w][e]
 
 [msg D02_MISSION_mes04 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][f 4 23 1 3 3 5 11 5][vp 1 0 0 5 0 0]Você tem que esperar dentro do palácio.[n]Depois que a porta se abrir, esgueire-se e[n]procure algum tipo de sala de controle.[n][w][e]

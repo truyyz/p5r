@@ -14,7 +14,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Uma biblioteca, hein? Isso definitivamente[n]parece suspeito.[n][w][e]
 
 [msg D01_04_e159_042_mes03 [Ryuji]]
-[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Whaddya significa?[n][w][e]
+[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]O que significa isso?[n][w][e]
 
 [msg D01_04_e159_042_mes04 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos lá, é uma biblioteca em um castelo.[n]Tem que haver algum tipo de mecanismo[n]secreto aqui.[n][w][e]

@@ -75,7 +75,7 @@
 [s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 0 0 26 65535 0]Eu não tenho nenhum passado para olhar para[n]trás...[n]Sem memórias...[n][f 1 3 65535][w][e]
 
 [msg MSG_049_0_0 [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 27 65535 0]Whaddya significa? Poderíamos procurar o[n]mundo inteiro e não encontraríamos um[n]desajuste maior do que você.[n][f 1 3 65535][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 27 65535 0]O que significa isso? Poderíamos procurar o[n]mundo inteiro e não encontraríamos um[n]desajuste maior do que você.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 28 65535 0]E a razão pela qual estamos indo para[n]lembrar é recuperar suas memórias, certo?[n][f 1 3 65535][w][e]
 
 [msg MSG_050_0_0 [Yusuke]]

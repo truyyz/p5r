@@ -6,7 +6,7 @@
 [s][vp 8 0 0 0 65535 0]... Ei, você tem certeza que você está bem?[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Ohya]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 107 1 301 1][vp 8 2 0 16048 65535 0]Whaddya significa? Você está preocupado[n]comigo, Lala-chan...?[n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 107 1 301 1][vp 8 2 0 16048 65535 0]O que significa isso? Você está preocupado[n]comigo, Lala-chan...?[n][f 1 3 65535][w][e]
 [s][bup 0 107 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você geralmente é meio- *hic * [n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Lala Escargot]]

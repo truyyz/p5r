@@ -1353,7 +1353,7 @@
 [s][bup 0 302 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Dito isto, você não parece também em[n]esportes, [n][f 4 1]-kun.[n][f 1 3 65535][w][e]
 
 [msg MSG_335_0_0 [Mr. Inui]]
-[s][bup 0 302 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37104 65535 0]Entre Música, Teatro e Chariot Racing, qual[n]esporte Nero venceu quando participou das[n]Olimpíadas?[n][f 1 3 65535][w][e]
+[s][bup 0 302 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37104 65535 0]Entre Música, Teatro e Corrida de carruagens, qual[n]esporte Nero venceu quando participou das[n]Olimpíadas?[n][f 1 3 65535][w][e]
 
 [sel SEL_336_0_0 top]
 [s]Música.[e]

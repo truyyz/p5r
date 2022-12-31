@@ -132,7 +132,7 @@
 
 [msg Msg_NotOpen_moru [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1171 65535 0]Você está com fome ou algo assim? Podemos[n]muito bem ir para algo mais caro, e...[n][w][e]
-[s][bup 0 3 4 0 0][f 4 10 65535 0 0]OHO... esse trabalho de meio período é[n]difícil. Mas trabalhar aqui pode desenvolver[n]sua [f 4 11 2][clr 26][f 4 12 2][clr 27]...[n][w][e]
+[s][bup 0 3 4 0 0][f 4 10 65535 0 0]OHO... esse trabalho de meio período é difícil.[n]Mas trabalhar aqui pode desenvolver sua [n][f 4 11 2][clr 26][f 4 12 2][clr 27]...[n][w][e]
 
 [msg MSG_BAITO_NOTOPEN]
 [s]Parece ser um em uma grande cadeia de lojas[n]de tigela de carne...[n][w][e]
@@ -274,7 +274,7 @@
 [s]Eu deveria vir aqui da próxima vez que[n]preciso de algo.[n][w][e]
 
 [msg DrugStore_SELECT [Drugstore Clerk]]
-[s]Welcooome. Havia algo que você estava[n]procurando?[n][w][e]
+[s]Bem-vindo. Havia algo que você estava[n]procurando?[n][w][e]
 
 [msg DrugStore_THANKS [Drugstore Clerk]]
 [s]Muito obrigado. Por favor, venha de novo![n][w][e]

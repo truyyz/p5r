@@ -166,7 +166,7 @@
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Não tenho certeza. Este é o primeiro para[n]mim também, então vamos descobrir com[n]nossos próprios olhos.[n][w][e]
 
 [msg memen_weather_01_mes02 [Ryuji]]
-[s][bup 0 2 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7177 65535 0]Huh? Whaddya significa?[n][w][e]
+[s][bup 0 2 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7177 65535 0]Huh? O que significa isso?[n][w][e]
 
 [msg memen_weather_01_mes03 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Bem, as lembranças são afetadas pelas[n]emoções do público.[n][w][e]

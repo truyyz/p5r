@@ -25,7 +25,7 @@
 [s][bup 0 6 104 0 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Talvez seja o contrário...[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Ryuji]]
-[s][bup 0 2 103 0 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Whaddya significa?[n][f 1 3 65535][w][e]
+[s][bup 0 2 103 0 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]O que significa isso?[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Makoto]]
 [s][bup 0 6 104 0 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Somos os que estão expandindo...[n][f 1 3 65535][w][e]

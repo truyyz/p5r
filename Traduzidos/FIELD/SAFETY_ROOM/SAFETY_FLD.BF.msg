@@ -2778,7 +2778,7 @@
 
 [msg KAMOSHIDA_YOKOKU_mes03 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][f 4 23 1 3 3 5 11 5][vp 8 0 1 3 65535 0]Não é tão simples assim.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 1 4 65535 0]Um tesouro não permanecerá se materializado[n]para sempre.[n]Quando a impressão acabar, o tesouro[n]desaparecerá.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 1 4 65535 0]Um tesouro não permanecerá se materializado[n]para sempre. Quando a impressão acabar, o[n]tesouro desaparecerá.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 5 65535 0]Eu acho que vai durar cerca de um dia, no[n]máximo.[n][w][e]
 
 [msg KAMOSHIDA_YOKOKU_mes08 [Ryuji]]

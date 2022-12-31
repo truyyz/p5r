@@ -5,7 +5,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Como está trabalhando lá?[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Eiko]]
-[s][vp 8 0 0 0 65535 0]café. They make me wear a costume[n]Whaddya significa? É apenas um normal e[n]outras coisas, mas é isso.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]café. They make me wear a costume[n]O que significa isso? É apenas um normal e[n]outras coisas, mas é isso.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Ah, e eu não faço algo estranho, se você[n]sabe o que quero dizer.[n]É tudo totalmente legal.[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Makoto]]

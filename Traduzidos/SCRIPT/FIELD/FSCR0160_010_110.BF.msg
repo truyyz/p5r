@@ -10,7 +10,7 @@
 [s]Eu tenho.[e]
 
 [msg D08_02_e454_015_01_selA_ [Ryuji]]
-[s][bup 0 2 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7177 65535 0]Huh? Whaddya significa?[n][w][e]
+[s][bup 0 2 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7177 65535 0]Huh? O que significa isso?[n][w][e]
 
 [msg D08_02_e454_015_01_selA__2 [Ryuji]]
 [s][bup 0 2 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7155 65535 0]H-hey, isso significa que você encontrou[n]Morgana? Ele estava agindo meio estranho[n]antes...[n][w][e]

@@ -58,7 +58,7 @@
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Nenhuma das opções parece mais bem-sucedida[n]do que a outra quando se trata de ajudar[n]seu amigo...[n][w][e]
 
 [msg D10_09_huddle_ans_choice_4 [Ryuji]]
-[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]HM? Whaddya significa?[n][w][e]
+[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]HM? O que significa isso?[n][w][e]
 
 [msg D10_09_huddle_ans_choice_5 [Akechi]]
 [s][bup 0 9 800 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 8155 65535 0]Seu amigo pode acabar magoado,[n]independentemente da resposta que você[n]escolher, então esse não é o fator decisivo[n]aqui...[n][w][e]

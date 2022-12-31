@@ -652,7 +652,7 @@
 [s][vp 8 0 2 1120 1 201]Sim, todas as mulheres devem obedecer às[n]minhas ordens como essa- não é certo,[n]querida?[n][f 1 3 65535][w][e]
 
 [msg ADD_TARGET_EVENT_1_1 [Ann]]
-[s][bup 0 4 104 65535 0][f 4 10 65535 0 0][vp 8 0 2 1121 0 4]N-No Way! O que Shiho está fazendo aqui!?[n][f 1 3 65535][w][e]
+[s][bup 0 4 104 65535 0][f 4 10 65535 0 0][vp 8 0 2 1121 0 4]N-Não acredito! O que Shiho está fazendo aqui!?[n][f 1 3 65535][w][e]
 
 [msg ADD_TARGET_EVENT_1_3 [Morgana]]
 [s][bup 0 3 4 65535 0][f 4 10 65535 0 0][vp 8 0 2 1122 0 3]Pantera, acalme-se! Esse não é o verdadeiro![n][f 1 3 65535][w][e]

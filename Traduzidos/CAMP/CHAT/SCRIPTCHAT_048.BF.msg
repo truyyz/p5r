@@ -2,7 +2,7 @@
 [s][f 5 14]Esse palácio é um retrato preciso da[n]natureza de Shido.[n][w][e]
 
 [msg MSG_001_0_0 [Ryuji]]
-[s][f 5 14]Whaddya significa?[n][w][e]
+[s][f 5 14]O que significa isso?[n][w][e]
 
 [msg MSG_002_0_0 [Haru]]
 [s][f 5 14]Eu tenho que concordar.[n][w][e]

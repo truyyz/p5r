@@ -675,7 +675,7 @@
 [s]Devemos estudar juntos.[e]
 
 [msg MSG_C07_BYEGREET_00_02 [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][f 4 23 1 207 32 10 31 10][vp 8 0 1 4 65535 0]Whaddya significa? Você está lá.[n][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][f 4 23 1 207 32 10 31 10][vp 8 0 1 4 65535 0]O que significa isso? Você está lá.[n][w][e]
 
 [msg MSG_C07_BYEGREET_00_03 [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][f 4 23 1 207 32 10 31 10][vp 8 0 1 5 65535 0]Oooh, isso parece estranho![n][w][e]

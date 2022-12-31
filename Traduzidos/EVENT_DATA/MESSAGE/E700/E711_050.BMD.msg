@@ -84,7 +84,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Quem fez esta lista... e por quê?[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Caroline]]
-[s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Whaddya significa? O objetivo é bastante[n]óbvio. É para ajudar a treinar o preso.[n][f 1 3 65535][w][e]
+[s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O que significa isso? O objetivo é bastante[n]óbvio. É para ajudar a treinar o preso.[n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Justine]]
 [s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Além disso, porém, qual é exatamente o[n]objetivo de treiná-lo?[n][f 1 3 65535][w][e]

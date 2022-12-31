@@ -45,7 +45,7 @@
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 208 3 301 1][vp 8 0 0 17 65535 0]Existem muitos imbecis que não entendem isso![n][f 1 3 65535][w][e]
 
 [msg MSG_012_5_0 [Shadow Kamoshida]]
-[s][bup 0 202 106 0 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Including naïve brats like you and[n]Aquela garota que tentou se matar![n][f 1 3 65535][w][e]
+[s][bup 0 202 106 0 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Incluindo pirralhos ingênuos como você e[n]aquela garota que tentou se matar![n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Ann]]
 [s][bup 0 4 102 0 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]É verdade que ela é um idiota total...[n]deixando você manipulá-la, tentando cometer[n]suicídio...[n][f 1 3 65535][w][e]

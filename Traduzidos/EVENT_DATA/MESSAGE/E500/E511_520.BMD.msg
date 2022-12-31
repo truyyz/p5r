@@ -133,7 +133,7 @@
 [s][bup 0 100 0 0 0][f 4 10 65535 0 0][vp 8 0 0 53 65535 0]É fácil concluir que aquele chamado Maruki[n]simplesmente assumiu a posição falsa de[n]Deus quando desapareceu.[n][f 1 3 65535][w][e]
 
 [msg MSG_033_0_0 [Ryuji]]
-[s][bup 0 2 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 54 65535 0]Assumiu sua posição? Whaddya significa?[n][f 1 3 65535][w][e]
+[s][bup 0 2 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 54 65535 0]Assumiu sua posição? O que significa isso?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 55 65535 0]Então você está dizendo que a sociedade[n]pensa em Doc como um deus agora ou algo[n]assim?[n][f 1 3 65535][w][e]
 
 [msg MSG_034_0_0 [Akechi]]
