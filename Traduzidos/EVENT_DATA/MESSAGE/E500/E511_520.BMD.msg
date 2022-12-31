@@ -106,7 +106,7 @@
 
 [msg MSG_025_0_0 [Akechi]]
 [s][bup 0 9 210 65535 0][f 4 10 65535 0 0][vp 8 0 0 133 65535 0]Ainda assim, embora...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 43 65535 0]Mesmo se assumirmos que Maruki tem[n]habilidades de persona únicas, como o caso[n]com [n][f 4 2] e eu mesmo...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 43 65535 0]Mesmo se assumirmos que Maruki tem[n]habilidades de persona únicas, como o caso[n]com  [f 4 2] e eu mesmo...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 44 65535 0]Ainda precisamos determinar como ele usou[n]esse poder em lembranças como um todo, em[n]vez de um único indivíduo.[n][f 1 3 65535][w][e]
 
 [msg MSG_026_0_0 [Morgana]]

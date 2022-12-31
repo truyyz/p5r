@@ -16,7 +16,7 @@
 
 [msg MSG_004_0_0 [Ryuji]]
 [s][bup 0 2 7 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]... Cara, o peixe não está mordendo. O[n]flutuador não se moveu nada...[n][f 1 3 65535][w][e]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Se ao menos houvesse um mestre pescador por[n]perto.[n]Então poderíamos roubar suas idéias...[n][f 1 3 65535][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Se ao menos houvesse um mestre pescador por[n]perto. Então poderíamos roubar suas idéias...[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Ryuji]]
 [s][bup 0 2 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 7040 65535 0]Uau, isso é Kawakami, não é!?[n]O que ela está fazendo aqui?[n][f 1 3 65535][w][e]

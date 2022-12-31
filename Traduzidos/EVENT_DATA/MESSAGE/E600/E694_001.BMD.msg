@@ -45,7 +45,7 @@
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Yeah, yeah.[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eles são bonitos, mas a queda tão[n]rapidamente.[n]Tal desperdício.[n][f 1 3 65535][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eles são bonitos, mas a queda tão[n]rapidamente. Tal desperdício.[n][f 1 3 65535][w][e]
 
 [sel SEL_014_0_0 top]
 [s]Isso é verdade.[e]
@@ -119,7 +119,7 @@
 [s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Yeah, yeah.[n][f 1 3 65535][w][e]
 
 [msg MSG_033_0_0 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eles são bonitos, mas a queda tão[n]rapidamente.[n]Tal desperdício.[n][f 1 3 65535][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eles são bonitos, mas a queda tão[n]rapidamente. Tal desperdício.[n][f 1 3 65535][w][e]
 
 [sel SEL_034_0_0 top]
 [s]Isso é verdade.[e]
@@ -193,7 +193,7 @@
 [s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Yeah, yeah.[n][f 1 3 65535][w][e]
 
 [msg MSG_053_0_0 [Ann]]
-[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eles são bonitos, mas a queda tão[n]rapidamente.[n]Tal desperdício.[n][f 1 3 65535][w][e]
+[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eles são bonitos, mas a queda tão[n]rapidamente. Tal desperdício.[n][f 1 3 65535][w][e]
 
 [sel SEL_054_0_0 top]
 [s]Isso é verdade.[e]
@@ -290,7 +290,7 @@
 [s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Yeah, yeah.[n][f 1 3 65535][w][e]
 
 [msg MSG_078_0_1 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eles são bonitos, mas a queda tão[n]rapidamente.[n]Tal desperdício.[n][f 1 3 65535][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eles são bonitos, mas a queda tão[n]rapidamente. Tal desperdício.[n][f 1 3 65535][w][e]
 
 [sel SEL_079_0_0 top]
 [s]Isso é verdade.[e]

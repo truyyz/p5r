@@ -133,7 +133,7 @@
 [s]Na verdade, talvez não.[e]
 
 [msg MSG_FUTABA_1121_111_00 [Futaba]]
-[s][f 4 23 1 65535 3 0 0 0][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 1 40 65535 0]Bem, precisávamos atrair Akechi para o[n]palácio de Sae Niijima e fazer com que ele[n]mate o cognitivo [n][f 4 2].[n][w][e]
+[s][f 4 23 1 65535 3 0 0 0][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 1 40 65535 0]Bem, precisávamos atrair Akechi para o[n]palácio de Sae Niijima e fazer com que ele[n]mate o cognitivo [f 4 2].[n][w][e]
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 1 41 65535 0]Mas Akechi teria entrado no palácio[n]imediatamente depois de conhecer Sae[n]Niijima no corredor, certo?[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 42 65535 0]Por causa disso, havia uma chance bastante[n]decente de que ele encontrou o Akechi[n]cognitivo.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 43 65535 0]E se isso acontecesse, Akechi teria[n]percebido totalmente que o havia atraído[n]para o palácio.[n][w][e]
@@ -172,7 +172,7 @@
 
 [msg MSG_MORUGANA_1121_100_00 [Morgana]]
 [s][f 4 23 1 65535 6 0 5 0][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 1 1173 65535 0]De qualquer forma... Estou feliz por você[n]estar de volta em segurança e som.[n][w][e]
-[s][f 4 10 65535 0 0]Mas mesmo isso está colocando isso muito[n]levemente.[n]Você teve isso duro lá dentro, não é?[n][w][e]
+[s][f 4 10 65535 0 0]Mas mesmo isso está colocando isso muito[n]levemente. Você teve isso duro lá dentro, não é?[n][w][e]
 
 [sel SEL_MORUGANA_1121_101_00 top]
 [s]Não se preocupe com isso.[e]

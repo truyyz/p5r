@@ -184,5 +184,5 @@
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 3 7 301 1][vp 8 0 0 62 9 0]Sair dessa! Nós precisamos ir![n][f 1 3 65535][w][e]
 
 [msg MSG_060_0_0 [Makoto]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 6 7 300 1][vp 8 0 0 65 65535 0]Nos encontraremos mais tarde no nosso local[n]habitual![n]Vamos, depressa![n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 6 7 300 1][vp 8 0 0 65 65535 0]Nos encontraremos mais tarde no nosso local[n]habitual! Vamos, depressa![n][f 1 3 65535][w][e]
 

@@ -342,11 +342,11 @@
 [s][f 4 23 1 15 3 10 0 10][vp 8 2 1 0 15 0]Depois que o ano novo toca, é hora dos[n]exames de admissão. Minhas pontuações de[n]exame simuladas eram tão...[n][w][e]
 
 [msg MSG_KIREIDANSI_020_1_0 [Lazy Male Student]]
-[s][f 4 23 1 14 3 10 0 10][vp 8 2 1 0 14 0]Eu praticamente falhei todas as minhas[n]finais.[n]Estou tão ferrado...[n][w][e]
+[s][f 4 23 1 14 3 10 0 10][vp 8 2 1 0 14 0]Eu praticamente falhei todas as minhas[n]finais. Estou tão ferrado...[n][w][e]
 
 [msg MSG_KIREIDANSI_020_2_0 [Refined Male Student]]
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Você só precisa adotar uma nova mentalidade.[n]Comece novo no espírito do ano novo.[n][w][e]
-[s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Ainda assim, o ano poderia ter terminado[n]melhor.[n]Quero dizer, ainda não decidimos um[n]primeiro-ministro.[n][w][e]
+[s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Ainda assim, o ano poderia ter terminado[n]melhor. Quero dizer, ainda não decidimos um[n]primeiro-ministro.[n][w][e]
 
 [msg MSG_KIREIDANSI_021_0_0 [Lazy Male Student]]
 [s][f 4 23 1 14 3 10 0 10][vp 8 2 1 0 14 0]Eu nunca recebi uma classificação A nos meus[n]exames simulados antes! Na verdade, sinto[n]que posso entrar na minha primeira escolha![n][w][e]
@@ -384,7 +384,7 @@
 
 [msg MSG_KIREIDANSI_024_0_0 [Lazy Male Student]]
 [s][f 4 23 1 14 3 10 0 10][vp 8 2 1 0 14 0]Como você fez em seu exame simulado desta[n]vez?[n][w][e]
-[s][vp 8 2 1 0 14 0]Eu tenho uma classificação A pela primeira[n]vez.[n]Não acredito que falhei no último.[n][w][e]
+[s][vp 8 2 1 0 14 0]Eu tenho uma classificação A pela primeira[n]vez. Não acredito que falhei no último.[n][w][e]
 
 [msg MSG_KIREIDANSI_024_1_0 [Gentle Male Student]]
 [s][f 4 23 1 15 3 10 0 10][vp 8 2 1 0 15 0]Huh, você também...? Agora sinto que minha[n]escola principal está ao seu alcance...[n][w][e]
@@ -502,7 +502,7 @@
 [s][vp 9 2 65535 43000 0 0]Bem, ele estava chegando.[n]Parece que devemos isso a aqueles ladrões[n]fantasmas.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_005_06_ [Lazy Male Student]]
-[s][vp 9 2 65535 42605 0 0]Phantom Thieves não tinha nada a ver com o[n]Sr.[n]O pedido de desculpas de Kamoshida.[n][f 1 2 180][e]
+[s][vp 9 2 65535 42605 0 0]Phantom Thieves não tinha nada a ver com o[n]Sr. O pedido de desculpas de Kamoshida.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_006_01_ [Lazy Male Student]]
 [s][vp 9 2 65535 40505 0 0]Ele pode estar calmo e quieto agora, mas não[n]há como dizer quando ele vai causar[n]problemas.[n][f 1 2 180][e]
@@ -1024,7 +1024,7 @@
 [s][vp 9 2 65535 42713 0 0]Se você se envolver com esse cara, quem sabe[n]o que vai acontecer...?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_102_06_ [Lazy Male Student]]
-[s][vp 9 2 65535 42813 0 0]Ouvi dizer que ele sempre carrega uma faca[n]nele.[n]Isso é tão assustador...[n][f 1 2 180][e]
+[s][vp 9 2 65535 42813 0 0]Ouvi dizer que ele sempre carrega uma faca[n]nele. Isso é tão assustador...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_103_01_ [Lazy Male Student]]
 [s][vp 9 2 65535 42302 0 0]A polícia está realmente aqui... isso está[n]se transformando em um grande negócio.[n][f 1 2 180][e]
@@ -1512,7 +1512,7 @@
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]O-oh, hum... não importa.[n]Eu estava simplesmente curioso.[n][w][e]
 
 [msg MSG_BIKOU03_002_0_0 [Makoto]]
-[s][f 4 23 1 0 3 10 0 0][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 2156 65535 0]Eu-eu deveria começar a voltar para casa[n]também.[n]Se você me desculpar...[n][w][e]
+[s][f 4 23 1 0 3 10 0 0][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 2156 65535 0]Eu-eu deveria começar a voltar para casa[n]também. Se você me desculpar...[n][w][e]
 
 [msg MSG_JIJYOTYOUSYU01_001_0 [Hard-Boiled Officer]]
 [s][vp 8 2 1 0 3 0]HM? Você precisava de algo?[n][w][e]
@@ -1604,7 +1604,7 @@
 [s][f 4 23 1 23 3 10 0 10][vp 8 2 1 0 23 0]Aposto que ela pulou porque a prática da[n]equipe era demais para ela. Ela era muito[n]macia e não conseguia invadir.[n][w][e]
 
 [msg MSG_KEIJIBAN_NPC02_005_0 [Tired-Looking Student]]
-[s][f 4 23 1 22 3 10 0 10][vp 8 2 1 0 22 0]Peça? Oh, você quer dizer esse cartão de[n]visita.[n]O professor ficou furioso com isso.[n][w][e]
+[s][f 4 23 1 22 3 10 0 10][vp 8 2 1 0 22 0]Peça? Oh, você quer dizer esse cartão de[n]visita. O professor ficou furioso com isso.[n][w][e]
 
 [msg MSG_KEIJIBAN_NPC02_005_0_2 [Bothered Student]]
 [s][f 4 23 1 23 3 10 0 10][vp 8 2 1 0 23 0]Venha para pensar sobre isso, Kamoshida está[n]ausente hoje, hein? Felizmente, temos um[n]período de estudo por causa disso.[n][w][e]
@@ -1628,7 +1628,7 @@
 [s][f 4 23 1 23 3 10 0 10][vp 8 2 1 0 23 0]Você tem recebido esse lixo lixo também?[n]Tenho certeza de que tudo é apenas uma[n]farsa.[n][w][e]
 
 [msg MSG_KEIJIBAN_NPC02_008_0 [Tired-Looking Student]]
-[s][f 4 23 1 22 3 10 0 10][vp 8 2 1 0 22 0]Esqueci de me candidatar aos exames[n]simulados.[n]Você vai levar algum?[n][w][e]
+[s][f 4 23 1 22 3 10 0 10][vp 8 2 1 0 22 0]Esqueci de me candidatar aos exames[n]simulados. Você vai levar algum?[n][w][e]
 
 [msg MSG_KEIJIBAN_NPC02_008_0_2 [Bothered Student]]
 [s][f 4 23 1 23 3 10 0 10][vp 8 2 1 0 23 0]Apenas os nerds se preocupam com isso. Não[n]estou fazendo testes que não preciso fazer.[n][w][e]

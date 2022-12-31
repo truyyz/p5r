@@ -31,7 +31,7 @@
 
 [msg MSG_007_0_0 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]O principal suspeito parece ser esse[n]trabalhador de escritório chamado "Neko[n]Nora". As pessoas ouviram miaing vindo[n]de seu lugar.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Ela também tem uma história com[n]catnapping.[n]Aparentemente, a polícia tinha que se[n]envolver.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Ela também tem uma história com[n]catnapping. Aparentemente, a polícia tinha que se[n]envolver.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Mas não é tão simples. Eu estava[n]preocupado com os gatos, então fui dar[n]uma olhada no quarto do alvo.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Mas os gatos estavam todos comendo comida[n]gourmet elegante! E ela estava apenas[n]assistindo com esse olhar gentil e feliz[n]em seu rosto...[n][f 1 3 65535][w][e]
 

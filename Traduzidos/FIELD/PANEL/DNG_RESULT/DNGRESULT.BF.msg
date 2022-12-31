@@ -27,7 +27,7 @@
 
 [msg DNG_ADVANCE_Re_00_01_PC0_7 [Akechi]]
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 8035 65535 0]Seria perigoso invadir de forma imprudente.[n]Nossa distância restante atual é motivo[n]para recuar.[n][w][e]
-[s]Essa é a decisão mais inteligente, enquanto[n]todos ainda estão seguros. Vamos descansar[n]e nos preparar para a nossa próxima[n]excursão.[n][w][e]
+[s]Essa é a decisão mais inteligente, enquanto[n]todos ainda estão seguros. Vamos descansar[n]e nos preparar para a nossa próxima excursão.[n][w][e]
 
 [msg DNG_ADVANCE_Re_00_01_PC1 [[f 4 31 10 0]]]
 [s][bup 0 10 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Estamos nos retirando, apesar de não termos[n]feito muito progresso? Suponho que é sábio[n]nos dedicarmos a explorar.[n][w][e]
@@ -201,7 +201,7 @@
 [s]Vamos garantir que fizemos os preparativos[n]necessários antes de seguirmos em frente,[n]Joker.[n][w][e]
 
 [msg DNG_ADVANCE_Re_70_01_PC0_7 [Akechi]]
-[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 8002 65535 0]Parece que estamos começando a ver nosso[n]objetivo.[n]Como eu esperava de você...[n][w][e]
+[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 8002 65535 0]Parece que estamos começando a ver nosso[n]objetivo. Como eu esperava de você...[n][w][e]
 [s]Estou antecipando bastante nossa próxima[n]expedição. Estarei esperando sua ligação.[n][w][e]
 
 [msg DNG_ADVANCE_Re_70_01_PC1 [[f 4 31 10 0]]]
@@ -334,7 +334,7 @@
 [s][bup 0 7 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Não tenha medo de se segurar se você acha[n]que deveríamos estar nos apressando.[n]Estou pronto para ir a qualquer momento.[n][w][e]
 
 [msg DNG_ADVANCE_Re_DayFew_01_7 [Akechi]]
-[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 8155 65535 0]A propósito, o prazo está fechando[n]rapidamente.[n]Vamos ficar bem?[n][w][e]
+[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 8155 65535 0]A propósito, o prazo está fechando[n]rapidamente. Vamos ficar bem?[n][w][e]
 [s]Não que eu esteja preocupado. Pergunto[n]apenas com a chance de você não ter[n]consciência da nossa situação.[n][w][e]
 
 [msg DNG_ADVANCE_Re_DayFew_01_8 [[f 4 31 10 0]]]

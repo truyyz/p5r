@@ -5,7 +5,7 @@
 [s][f 5 14]Vou limpar com o dobro da potência usual![n][w][e]
 
 [msg MSG_002_0_0 [Becky]]
-[s][f 5 14]Dobrar a potência, mas a um preço fixo[n]apenas [n][var 1]Yen![n][w][e]
+[s][f 5 14]Dobrar a potência, mas a um preço fixo[n]apenas  [var 1]Yen![n][w][e]
 
 [msg MSG_003_0_0 [Becky]]
 [s][f 5 14]Você vai me pedir, não é?[n][f 5 15][w][e]
@@ -144,6 +144,6 @@
 [s]Você também pode convidar pessoas que[n]possam desfrutar do aquário para sair[n]com você lá.[n][w][e]
 
 [msg MSG_SPOT_OPEN_NAKANO]
-[s]Agora você tem informações sobre um novo[n]ponto de encontro: [n][clr 2]Distrito de construção de comércio de[n]Nakano [n][clr 27].[n][w][e]
+[s]Agora você tem informações sobre um novo[n]ponto de encontro: [n][clr 2]Distrito de construção de comércio de[n]Nakano  [clr 27].[n][w][e]
 [s]Você também pode convidar pessoas que[n]possam desfrutar desse local para sair[n]com você lá.[n][w][e]
 

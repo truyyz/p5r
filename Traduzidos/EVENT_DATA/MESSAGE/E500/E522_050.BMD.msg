@@ -12,7 +12,7 @@
 [s][bup 0 3 801 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Oh sim! Ouvi dizer que você tinha um dia[n]totalmente insano dos namorados.[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Sojiro]]
-[s][bup 0 103 501 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Considerando o que todos eles fizeram por[n]você?[n]Você tem que devolver o favor- nenhuma[n]pergunta.[n][f 1 3 65535][w][e]
+[s][bup 0 103 501 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Considerando o que todos eles fizeram por[n]você? Você tem que devolver o favor- nenhuma[n]pergunta.[n][f 1 3 65535][w][e]
 
 [sel SEL_005_0_0 top]
 [s]Eu não sei o que fazer.[e]

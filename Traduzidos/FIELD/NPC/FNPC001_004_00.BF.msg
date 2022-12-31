@@ -377,7 +377,7 @@
 [s][vp 9 2 65535 38159 0 0]Os políticos são inúteis.[n]Por que eles não estão fazendo nada sobre[n]isso...?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_002_10_ [Shiho]]
-[s][vp 9 2 65535 46202 0 0]Tantas coisas estranhas têm acontecido[n]ultimamente.[n]Eu me sinto tão desconfortável...[n][f 1 2 180][e]
+[s][vp 9 2 65535 46202 0 0]Tantas coisas estranhas têm acontecido[n]ultimamente. Eu me sinto tão desconfortável...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_002_03_ [Shiho]]
 [s][vp 9 2 65535 37859 0 0]Eu não entendi aquele aumento...[n]Trabalhar duro simplesmente não parece valer[n]a pena...[n][f 1 2 180][e]
@@ -395,7 +395,7 @@
 [s][vp 9 2 65535 38159 0 0]Os políticos são inúteis.[n]Por que eles não estão fazendo nada sobre[n]isso...?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_002_06_ [Shiho]]
-[s][vp 9 2 65535 46202 0 0]Tantas coisas estranhas têm acontecido[n]ultimamente.[n]Eu me sinto tão desconfortável...[n][f 1 2 180][e]
+[s][vp 9 2 65535 46202 0 0]Tantas coisas estranhas têm acontecido[n]ultimamente. Eu me sinto tão desconfortável...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_002_13_ [Shiho]]
 [s][vp 9 2 65535 38704 0 0]Eles dizem que enlouqueceram e não se[n]lembram de uma coisa depois...[n][f 1 2 180][e]

@@ -68,7 +68,7 @@
 
 [msg MSG_HIFUMI_SASOI_THROUGH [Hifumi]]
 [s][bup 0 106 3 65535 0][f 4 10 65535 0 0][f 4 23 1 217 14 10 13 10][vp 8 2 1 18065 65535 0]Sinto muito por convidá-lo para fora do nada[n]outro dia.[n][w][e]
-[s][bup 0 106 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Você perderá sua vantagem se não jogar[n]regularmente.[n]Por favor, lembre-se disso.[n][w][e]
+[s][bup 0 106 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Você perderá sua vantagem se não jogar[n]regularmente. Por favor, lembre-se disso.[n][w][e]
 
 [msg MSG_HIFUMI_SASOI_THROUGH_2 [Hifumi]]
 [s][bup 0 106 3 65535 0][f 4 10 65535 0 0][f 4 23 1 217 14 10 13 10][vp 8 2 1 18065 65535 0]Eu odiaria pensar que interpretei mal sua[n]paixão por shogi...[n][w][e]
@@ -129,7 +129,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Você veio me ver hoje também...[n][w][e]
 
 [msg MSG_C17_BEGIN_TIME_05_2 [Hifumi]]
-[s][bup 0 106 1 65535 0][f 4 10 65535 0 0][f 4 23 1 217 14 10 13 10][vp 8 2 1 18006 65535 0]Eu viajei para o exterior para uma viagem[n]escolar.[n]O tempo estava muito bom lá.[n][w][e]
+[s][bup 0 106 1 65535 0][f 4 10 65535 0 0][f 4 23 1 217 14 10 13 10][vp 8 2 1 18006 65535 0]Eu viajei para o exterior para uma viagem[n]escolar. O tempo estava muito bom lá.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ainda está tão quente aqui no Japão...[n][w][e]
 
 [msg MSG_C17_BEGIN_TIME_06 [Hifumi]]
@@ -259,7 +259,7 @@
 [s][bup 0 106 1 65535 0][f 4 10 65535 0 0][f 4 23 1 217 14 10 13 10][vp 8 2 1 0 65535 0]Hum, posso pedir que você se junte a mim[n]hoje?[n]Talvez possamos conversar enquanto jogamos...[n][w][e]
 
 [msg MND_COOP_DOUZOKUSEI]
-[s]Eu sinto que posso me aproximar com Hifumi[n]graças ao [n][var 2][n]Persona [clr 1][var 5][clr 27]...[n][w][e]
+[s]Eu sinto que posso me aproximar com Hifumi[n]graças ao [n][var 2] Persona [clr 1][var 5][clr 27]...[n][w][e]
 
 [msg MND_COOP_RANKUP_OK]
 [s]Eu sinto que meu vínculo com Hifumi ficará[n]mais forte em breve...[n][w][e]
@@ -667,7 +667,7 @@
 
 [msg MSG_C17_BYEGREET_01_06_5 [Hifumi]]
 [s][bup 0 106 1 65535 0][f 4 10 65535 0 0][f 4 23 1 217 14 10 13 10][vp 8 0 1 62 65535 0]A peça Lance se move exclusivamente para a[n]frente. Até que seja promovido, ele só pode[n]se mover, nunca de volta.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 1 63 65535 0]Então, vamos continuar em nossos próprios[n]caminhos.[n]Mesmo se tivermos que nos separar por[n]enquanto.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 1 63 65535 0]Então, vamos continuar em nossos próprios[n]caminhos. Mesmo se tivermos que nos separar por[n]enquanto.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 64 65535 0]Um dia, quando nós dois lança forem[n]promovidos, refazeremos nossos passos e nos[n]encontraremos novamente.[n][w][e]
 
 [msg MSG_C17_BYEGREET_01_07_5 [Hifumi]]

@@ -180,7 +180,7 @@
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ei, temos que chegar a Mishima! Ele vai se[n]foi há muito tempo se não nos apressarmos.[n][w][e]
 
 [msg MND_E14130100_NG_ENTRANC]
-[s][vp 1 0 0 0 0 0]Eu deveria me encontrar com Ryuji. Vamos[n]para o [n][clr 2]pátio [clr 27]por agora...[n][w][e]
+[s][vp 1 0 0 0 0 0]Eu deveria me encontrar com Ryuji. Vamos[n]para o  [clr 2]pátio [clr 27]por agora...[n][w][e]
 
 [msg MND_E14130100_NG_ENTRANC_2]
 [s][vp 1 0 0 0 0 0]Não há nada em particular que eu precise[n]fazer hoje. Vamos direto para casa sem[n]desvios.[n][w][e]

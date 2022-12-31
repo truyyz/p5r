@@ -68,7 +68,7 @@
 [s][vp 8 0 0 0 65535 0]Não há como voltar atrás agora...[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Kawakami]]
-[s][bup 0 109 500 65535 0][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]Por que você gostaria de uma mulher como[n]eu...?[n]Você é um estudante do ensino médio com[n]gostos estranhos.[n][f 1 3 65535][w][e]
+[s][bup 0 109 500 65535 0][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]Por que você gostaria de uma mulher como[n]eu...? Você é um estudante do ensino médio com[n]gostos estranhos.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Ou esse é o tipo de coisa que um membro dos[n]ladrões Phantom gosta?[n][f 1 3 65535][w][e]
 
 [sel SEL_018_0_0 top]

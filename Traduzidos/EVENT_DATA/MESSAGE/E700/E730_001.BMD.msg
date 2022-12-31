@@ -42,7 +42,7 @@
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37157 65535 0]Você aí! Dê uma olhada neste diagrama.[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Mr. Hiruta]]
-[s][vp 8 0 0 0 65535 0]A linha está se estendendo de um conectado a[n]B ou C?[n]Qual é?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]A linha está se estendendo de um conectado a[n]B ou C? Qual é?[n][f 1 3 65535][w][e]
 
 [sel SEL_014_0_0 top]
 [s]B.[e]
@@ -439,7 +439,7 @@
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Não consigo entender por que as pessoas[n]enviariam coisas assim como presentes...[n][f 1 3 65535][w][e]
 
 [msg MSG_110_0_0 [Ms. Usami]]
-[s][bup 0 305 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37253 65535 0]O outono é para comer... o outono é para[n]arte...[n]Outono é para leitura...[n][f 1 3 65535][w][e]
+[s][bup 0 305 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37253 65535 0]O outono é para comer... o outono é para[n]arte... Outono é para leitura...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]As lojas usarão os motivos que puderem para[n]atrair clientes.[n]Esta temporada em particular.[n][f 1 3 65535][w][e]
 
 [msg MSG_111_0_0 [Ms. Usami]]
@@ -1278,7 +1278,7 @@
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Não consigo entender por que as pessoas[n]enviariam coisas assim como presentes...[n][f 1 3 65535][w][e]
 
 [msg MSG_310_0_0 [Ms. Usami]]
-[s][bup 0 305 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37253 65535 0]O outono é para comer... o outono é para[n]arte...[n]Outono é para leitura...[n][f 1 3 65535][w][e]
+[s][bup 0 305 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37253 65535 0]O outono é para comer... o outono é para[n]arte... Outono é para leitura...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]As lojas usarão os motivos que puderem para[n]atrair clientes.[n]Esta temporada em particular.[n][f 1 3 65535][w][e]
 
 [msg MSG_311_0_0 [Ms. Usami]]

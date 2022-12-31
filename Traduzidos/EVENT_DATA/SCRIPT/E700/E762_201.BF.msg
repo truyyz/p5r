@@ -14,7 +14,7 @@
 [s][vp 8 2 0 0 65535 0]Toda essa carne faz sentido para um desafio[n]de tais proporções cósmicas...![n][f 1 3 65535][w][e]
 
 [msg MND_EatNow_Think02]
-[s][vp 8 2 0 0 65535 0]Parece que há uma cabeça inteira de alface[n]aqui...[n]O hambúrguer já está frio...[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0]Parece que há uma cabeça inteira de alface[n]aqui... O hambúrguer já está frio...[n][f 1 3 65535][w][e]
 
 [msg MND_EatNow_Think03]
 [s][vp 8 2 0 0 65535 0]Esta é uma batalha difícil...![n][f 1 3 65535][w][e]
@@ -36,13 +36,13 @@
 [s][vp 8 2 0 0 65535 0]Será difícil terminar a coisa toda na minha[n]atual [n][f 4 11 0][clr 26][f 4 12 0][clr 27]e [f 4 11 2][clr 26][f 4 12 2][clr 27]...[n][f 1 3 65535][w][e]
 
 [msg MIND_FAILED_NEED_GUT]
-[s][vp 8 2 0 0 65535 0]Será difícil terminar a coisa toda na minha[n]atual [n][f 4 11 3][clr 26][f 4 12 3][clr 27]...[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0]Será difícil terminar a coisa toda na minha[n]atual  [f 4 11 3][clr 26][f 4 12 3][clr 27]...[n][f 1 3 65535][w][e]
 
 [msg MIND_FAILED_NEED_INT]
-[s][vp 8 2 0 0 65535 0]Será difícil terminar a coisa toda na minha[n]atual [n][f 4 11 0][clr 26][f 4 12 0][clr 27]...[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0]Será difícil terminar a coisa toda na minha[n]atual  [f 4 11 0][clr 26][f 4 12 0][clr 27]...[n][f 1 3 65535][w][e]
 
 [msg MIND_FAILED_NEED_DEX]
-[s][vp 8 2 0 0 65535 0]Será difícil terminar a coisa toda na minha[n]atual [n][f 4 11 2][clr 26][f 4 12 2][clr 27]...[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0]Será difícil terminar a coisa toda na minha[n]atual  [f 4 11 2][clr 26][f 4 12 2][clr 27]...[n][f 1 3 65535][w][e]
 
 [msg MSG_054_1_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1035 65535 0]Eu admiro seu entusiasmo diante das[n]adversidades![n][f 1 3 65535][w][e]

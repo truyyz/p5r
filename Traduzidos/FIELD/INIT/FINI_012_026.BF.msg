@@ -29,7 +29,7 @@
 [s]Muito louco.[e]
 
 [msg MSG_320_102_EVENT_11 [Yusuke]]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 1 9 65535 0]HM... eu não tinha ouvido falar de tais[n]rumores.[n]Parece maravilhoso.[n][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 1 9 65535 0]HM... eu não tinha ouvido falar de tais[n]rumores. Parece maravilhoso.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 10 65535 0]Já estamos aqui, então por que não[n]confirmamos se é esse o caso?[n][w][e]
 
 [msg MSG_320_102_EVENT_12 [Ryuji]]

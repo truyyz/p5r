@@ -97,7 +97,7 @@
 [s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]HM... então esse espaço não é apenas um, mas[n]uma infinidade de pinturas.[n][w][e]
 
 [msg mini_EV_e210_142_mes03 [Ryuji]]
-[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7038 65535 0]... você está me dizendo que estão todos[n]conectados?[n]Qual deles vai para onde?[n][w][e]
+[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7038 65535 0]... você está me dizendo que estão todos[n]conectados? Qual deles vai para onde?[n][w][e]
 
 [msg mini_EV_e210_142_mes04 [Yusuke]]
 [s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Isso, teremos que continuar andando para[n]descobrir...[n][w][e]

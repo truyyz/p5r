@@ -1,6 +1,6 @@
 [msg MSG_000_0_0 [Futaba]]
 [s][bup 0 8 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]O Natal é cancelado![n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Eles não podem ser esgotados em todos os[n]lugares![n]Não é Natal se não conseguirmos frango[n]assado![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Eles não podem ser esgotados em todos os[n]lugares! Não é Natal se não conseguirmos frango[n]assado![n][f 1 3 65535][w][e]
 
 [sel SEL_001_0_0 top]
 [s]Precisamos de bolo, certo?[e]

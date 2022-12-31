@@ -160,7 +160,7 @@
 [s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Sim, vamos revisar nossas opções primeiro.[n][w][e]
 
 [msg D_EXIT_GOTO_SAFE_PC06_me [Makoto]]
-[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Sim, vamos analisar nossa estratégia[n]novamente.[n]Por favor, Mona, se você quiser.[n][w][e]
+[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Sim, vamos analisar nossa estratégia[n]novamente. Por favor, Mona, se você quiser.[n][w][e]
 
 [msg D_EXIT_GOTO_SAFE_PC07_me [Futaba]]
 [s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Tudo bem. Vá em frente, Mona.[n][w][e]

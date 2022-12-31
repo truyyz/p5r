@@ -51,7 +51,7 @@
 
 [msg MSG_E24330100_TELLADY_00 [Woman on the Phone]]
 [s][vp 8 2 1 0 852 0]Olá? Eu tenho que Shibuya muito bem...[n][w][e]
-[s][vp 8 2 1 0 852 0]Mas havia um sem-teto onde deveríamos nos[n]encontrar.[n]Eu tive que fugir dele.[n][w][e]
+[s][vp 8 2 1 0 852 0]Mas havia um sem-teto onde deveríamos nos[n]encontrar. Eu tive que fugir dele.[n][w][e]
 [s][vp 8 2 1 0 852 0]Sim, quando você desce as escadas do portão[n]JL... estou na praça agora.[n]Eu estava com tanto medo...[n][w][e]
 [s][vp 8 2 1 0 852 0]Ele estava sentado à beira da parede...[n]Y-sim, hein...[n][w][e]
 

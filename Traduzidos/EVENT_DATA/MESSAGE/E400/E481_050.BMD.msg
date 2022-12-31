@@ -42,7 +42,7 @@
 
 [msg MSG_012_0_0 [Ryuji]]
 [s][f 5 14]Ah Merda. Eu esqueci.[n][f 1 3 65535][w][e]
-[s][f 5 14]Mas eu não sei... eu realmente não sinto[n]vontade de ir. Você sabe o que quero dizer,[n]certo, [n][f 4 2]?[n][f 1 3 65535][w][e]
+[s][f 5 14]Mas eu não sei... eu realmente não sinto[n]vontade de ir. Você sabe o que quero dizer,[n]certo, [f 4 2]?[n][f 1 3 65535][w][e]
 
 [sel SEL_013_0_0 top]
 [s]Eu já fui.[e]

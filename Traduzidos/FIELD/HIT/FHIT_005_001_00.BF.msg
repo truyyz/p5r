@@ -141,7 +141,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]Não vamos andar de bicicleta para casa...[n]Estamos pegando o trem, não estamos?[n][w][e]
 
 [msg MSG_LAST_GREETING_ToySho [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1188 65535 0]O que você está fazendo olhando para[n]brinquedos?[n]Vamos ver todos.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1188 65535 0]O que você está fazendo olhando para[n]brinquedos? Vamos ver todos.[n][w][e]
 
 [msg MSG_LAST_GREETING_SteakF [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1192 65535 0]Aposto que Ryuji adoraria comer carne assim.[n]Talvez devêssemos vir aqui com ele na[n]próxima vez que visitarmos.[n][w][e]
@@ -150,7 +150,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1187 65535 0]Um bar de vinhos, hein? Vamos voltar aqui e[n]beber com Ohya quando você tiver idade[n]suficiente.[n][w][e]
 
 [msg MSG_LAST_GREETING_WineBa_2 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]Você não tem idade suficiente para beber[n]ainda.[n]Vamos lá, vamos para outro lugar.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]Você não tem idade suficiente para beber[n]ainda. Vamos lá, vamos para outro lugar.[n][w][e]
 
 [msg MSG_LAST_GREETING_Antiqu [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1192 65535 0]Seu quarto em LeBlanc parece bastante[n]antigo, mas como está a sala em sua cidade[n]natal? Estou tão animado.[n][w][e]
@@ -360,7 +360,7 @@
 [s][vp 8 2 1 0 1 0]Bem, é isso para a cidade. Há algo mais com[n]quem posso ajudá-lo?[n][w][e]
 
 [msg MSG_InfoCenter02_01 [Information Desk Lady]]
-[s][vp 8 2 1 58673 1 0]Eu sei exatamente a coisa! Por favor[n]permita-me explicar! Você é um menor[n]correto?[n]Se for esse o caso...[n][w][e]
+[s][vp 8 2 1 58673 1 0]Eu sei exatamente a coisa! Por favor[n]permita-me explicar! Você é um menor[n]correto? Se for esse o caso...[n][w][e]
 [s][vp 8 2 1 0 1 0]Se você passar pelo distrito de beber e[n]chegar a Rue de Chouchou, encontrará um[n]lounge de dardos e bilhar.[n][w][e]
 [s][vp 8 2 1 0 1 0]Na verdade, é um lugar muito casual, e as[n]pessoas da sua idade podem entrar sem[n]problemas.[n][w][e]
 
@@ -1691,7 +1691,7 @@
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 7020 65535 0]Então eles receberam brinquedos importados[n]aqui. Eles com certeza parecem diferentes[n]dos que temos aqui.[n][w][e]
 
 [msg MSG_KF_ToyShop_mes02 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Parece que eles são feitos principalmente de[n]madeira.[n]Talvez pudéssemos fazer o nosso.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Parece que eles são feitos principalmente de[n]madeira. Talvez pudéssemos fazer o nosso.[n][w][e]
 
 [msg MSG_KF_ToyShop_mes00 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1164 65535 0]Então eles são importados de diferentes[n]países, hein? As famílias lá parecem muito[n]chiques também...[n][w][e]

@@ -11,7 +11,7 @@
 [s]Em uma sala de interrogatório escuro, um jovem- o ladrão[n]mascarado- é questionado por vários homens.[n][w][e]
 
 [msg TUTORIAL_MSG05 [The End of the Phantom Thieves...?]]
-[s]Depois de ser agredido, ele é instruído a assinar uma[n]confissão ambígua com apenas uma coisa especificada- seu[n]nome, [n][clr 2][f 4 3][clr 27].[n][w][e]
+[s]Depois de ser agredido, ele é instruído a assinar uma[n]confissão ambígua com apenas uma coisa especificada- seu[n]nome,  [clr 2][f 4 3][clr 27].[n][w][e]
 
 [msg TUTORIAL_MSG06 [The End of the Phantom Thieves...?]]
 [s]Uma mulher entra na sala de interrogatório. Ela se[n]apresenta como Sae Niijima, uma promotora pública que[n]tenta resolver um caso complicado e estranho.[n][w][e]

@@ -238,7 +238,7 @@
 [s]Os parques estão cheios de pessoas, e muitas[n]famílias vieram trazer seus filhos para[n]brincar.[n][w][e]
 
 [msg HOLIDAY_TV_0429_001_00 [Pundit]]
-[s]Temos alguém morando em cena no Inokashira[n]Park.[n]Tanabe-san, você está aí?[n][w][e]
+[s]Temos alguém morando em cena no Inokashira[n]Park. Tanabe-san, você está aí?[n][w][e]
 
 [msg HOLIDAY_TV_0501_000_00 [Announcer]]
 [s]A renúncia do ministro abalou o gabinete. O[n]que vai acontecer com os cidadãos!?[n][w][e]
@@ -339,7 +339,7 @@
 [s]Nesta primeira partida, temos uma equipe com[n]apenas 13 membros de uma escola pública...[n][w][e]
 
 [msg HOLIDAY_TV_0805_000_00 [Play-by-play Announce]]
-[s]Aqui está o arremesso... Oh! Um Bunt[n]brilhante![n]Muito impressionante![n][w][e]
+[s]Aqui está o arremesso... Oh! Um Bunt[n]brilhante! Muito impressionante![n][w][e]
 [s]Permitindo que os corredores subam, ele[n]volta ao banco com um grande sorriso...[n][w][e]
 
 [msg HOLIDAY_TV_0806_000_00 [Play-by-play Announce]]
@@ -2209,7 +2209,7 @@
 [s]Algumas nuvens começarão a rolar durante a[n]tarde para um pouco de clima sombrio.[n][w][e]
 
 [msg TV_WEATHER_PATTERN06 [Weather Forecaster]]
-[s]Algumas nuvens vão começar a rolar durante a[n]tarde.[n]Podemos esperar que chova à noite.[n][w][e]
+[s]Algumas nuvens vão começar a rolar durante a[n]tarde. Podemos esperar que chova à noite.[n][w][e]
 
 [msg TV_WEATHER_PATTERN07 [Weather Forecaster]]
 [s]De repente, teremos algumas nuvens no meio[n]do dia. Se chover, terminará ao anoitecer.[n][w][e]

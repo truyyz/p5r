@@ -80,7 +80,7 @@
 [s][bup 0 101 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]... Você está tentando algum tipo de prática[n]enganosa, chamando-se de um servo dos[n]deuses?[n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [Justine]]
-[s][bup 0 101 4 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Você o que? Ouvir as preocupações das[n]pessoas?[n]Esta não é uma forma de reabilitação?[n][f 1 3 65535][w][e]
+[s][bup 0 101 4 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Você o que? Ouvir as preocupações das[n]pessoas? Esta não é uma forma de reabilitação?[n][f 1 3 65535][w][e]
 [s][bup 0 101 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]... Independentemente disso, essa conversa é[n]barata, mas paga muito bem.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vamos empreender essa confissão e verificar[n]a verdade por nós mesmos.[n][f 1 3 65535][w][e]
 

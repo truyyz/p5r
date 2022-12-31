@@ -367,7 +367,7 @@
 [s][bup 0 8 101 0 0][f 4 10 65535 0 0][vp 8 2 1 9196 65535 0]Parece que o teste pop acabou.[n]De volta à rotina usual![n][w][e]
 
 [msg SAFE_MES_HUTABA_12 [Futaba]]
-[s][bup 0 8 100 0 0][f 4 10 65535 0 0][vp 8 2 1 9038 65535 0]Eu nunca imaginaria que equipamentos como[n]esses fones de ouvido poderiam existir-[n]bem, acho que não. Este é apenas o[n]metaverso.[n][w][e]
+[s][bup 0 8 100 0 0][f 4 10 65535 0 0][vp 8 2 1 9038 65535 0]Eu nunca imaginaria que equipamentos como[n]esses fones de ouvido poderiam existir-[n]bem, acho que não. Este é apenas o metaverso.[n][w][e]
 
 [msg SAFE_MES_HUTABA_13 [Futaba]]
 [s][bup 0 8 102 0 0][f 4 10 65535 0 0][vp 8 2 1 9100 65535 0]Estou sentindo muitas sombras inteiras nas[n]proximidades.[n][w][e]
@@ -439,7 +439,7 @@
 
 [msg SAFE_MES_AKECHI_15 [Akechi]]
 [s][bup 0 9 812 0 0][f 4 10 65535 0 0][vp 8 2 1 54489 65535 0]Maruki realmente pensa que está salvando[n]pessoas...[n][w][e]
-[s][f 4 10 65535 0 0]Enquanto a única coisa que ele está fazendo[n]é forçar seus próprios desejos sobre as[n]pessoas.[n]E ele chama isso de bondade... doentio.[n][w][e]
+[s][f 4 10 65535 0 0]Enquanto a única coisa que ele está fazendo[n]é forçar seus próprios desejos sobre as[n]pessoas. E ele chama isso de bondade... doentio.[n][w][e]
 
 [msg SAFE_MES_AKECHI_16 [Akechi]]
 [s][bup 0 9 800 0 0][f 4 10 65535 0 0][vp 8 2 1 8099 65535 0]Suspeito que estamos chegando perto do[n]tesouro- vamos pressionar, mas tenha[n]cuidado com isso, Joker.[n][w][e]

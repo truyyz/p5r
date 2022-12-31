@@ -120,7 +120,7 @@
 [s][f 5 14]Obrigado.[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Makoto]]
-[s][f 5 14]Vou parar quando a loja estiver prestes a[n]fechar.[n]Bem boa noite.[n][f 1 3 65535][w][e]
+[s][f 5 14]Vou parar quando a loja estiver prestes a[n]fechar. Bem boa noite.[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Haru]]
 [s][f 5 14]Perfeito! Vejo você amanhã então![n][f 1 3 65535][w][e]

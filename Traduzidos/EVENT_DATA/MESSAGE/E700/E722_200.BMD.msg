@@ -42,7 +42,7 @@
 
 [msg MSG_011_5_0 [Sumire]]
 [s][bup 0 10 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 57181 65535 0]Eu fugi de quem eu realmente era, com[n]certeza.[n]Mas se eu continuasse vivendo como Sumire...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 4 0]Eu provavelmente nunca teria conversado com[n]você.[n]Eu ainda choraria todos os dias.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 4 0]Eu provavelmente nunca teria conversado com[n]você. Eu ainda choraria todos os dias.[n][f 1 3 65535][w][e]
 
 [msg MSG_011_8_0 [Sumire]]
 [s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 4 0]Tornar-se Kasumi me ajudou a entrar em sua[n]vida.[n][f 1 3 65535][w][e]

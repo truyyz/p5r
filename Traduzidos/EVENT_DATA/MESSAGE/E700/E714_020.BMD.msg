@@ -14,7 +14,7 @@
 
 [msg MSG_003_0_0 [Kawakami]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 109 16 300 1][vp 8 2 0 15150 65535 0]Eu vejo! Seu coração deve ser feito de aço![n][f 1 3 65535][w][e]
-[s][bup 0 109 602 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Então tenho certeza que você não se[n]importaria se eu saísse um pouco de seu[n]quarto, certo?[n][clr 2][f 1 9 0][clr 27][n][f 1 3 65535][w][e]
+[s][bup 0 109 602 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Então tenho certeza que você não se[n]importaria se eu saísse um pouco de seu[n]quarto, certo? [clr 2][f 1 9 0][clr 27][n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Kawakami]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 109 7 300 1][vp 8 2 0 15040 65535 0]O que!? Whoa, whoa, whoa! Eu estava apenas[n]brincando! Eu levo meu trabalho a sério![n][clr 2][f 1 9 0][clr 27][n][f 1 3 65535][w][e]

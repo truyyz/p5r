@@ -8,6 +8,6 @@
 
 [msg MSG_001_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]No entanto, se tivesse ativado muito cedo,[n]Niijima teria entrado no outro mundo também.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]Então, tivemos que ter certeza de que ela[n]havia se mudado quando a navegação de[n]Akechi começou.[n]Essa foi a parte mais difícil.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Então, tivemos que ter certeza de que ela[n]havia se mudado quando a navegação de[n]Akechi começou. Essa foi a parte mais difícil.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Mas conseguimos configurar tudo isso graças[n]àquele pequeno ato que Futaba havia puxado[n]mais cedo.[n][f 1 3 65535][w][e]
 

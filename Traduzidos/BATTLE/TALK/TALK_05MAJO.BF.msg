@@ -98,7 +98,7 @@
 [s]Você está com medo, não é? Suponho que você[n]não pode deixar de me recusar...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_02_R_8]
-[s]*risada* exatamente o que você estava[n]imaginando?[n]Tudo o que eu disse que "vale a pena".[n][w][e]
+[s]*risada* exatamente o que você estava[n]imaginando? Tudo o que eu disse que "vale a pena".[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_02_R_9]
 [s]Você diz isso, mas eu não entendo essa[n]vibração de você. Vocês estão todos[n]conversando?[n][w][e]
@@ -158,7 +158,7 @@
 [s]O que? Essa é a sua ideia de provocar?[n]Desista, garoto, isso não vai funcionar.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_03_R_9]
-[s]... Isso significa apenas que você não[n]pensou nisso, certo? Não aja tudo[n]importante.[n]Isso não é fofo.[n][w][e]
+[s]... Isso significa apenas que você não[n]pensou nisso, certo? Não aja tudo[n]importante. Isso não é fofo.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_03_R_10]
 [s]O que, deve ser uma surpresa?[n]Ok, eu não vou estragar tudo, então.[n][w][e]
@@ -167,7 +167,7 @@
 [s]Vamos lá, me diga sem ser um idiota. Eu não[n]farei nada, então chegue mais perto e me[n]diga, ok?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_03_R_12]
-[s]Bem, tenho certeza que eu poderia adivinhar,[n]mas...[n]Ugh, isso é como lidar com homens mais[n]velhos glamourosos em bares...[n][w][e]
+[s]Bem, tenho certeza que eu poderia adivinhar,[n]mas... Ugh, isso é como lidar com homens mais[n]velhos glamourosos em bares...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_03_R_13]
 [s]Ah, então é isso. Você não pode tornar mais[n]fácil entender isso. Você sabe o que?[n]Eu gosto do seu estilo.[n][w][e]
@@ -554,7 +554,7 @@
 [s]Ei, não saia por aí espalhando rumores[n]assim, ok?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_02_R_8]
-[s]*risada* Suponho que alguém possa ser[n]assustador até que você realmente os[n]conheça...[n]Direita?[n][w][e]
+[s]*risada* Suponho que alguém possa ser[n]assustador até que você realmente os[n]conheça... Direita?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_02_R_9]
 [s]Então é assim que você mata o tempo?[n]Provocando alguém pelo qual você não tem[n]sentimentos discerníveis? Hmph.[n][w][e]
@@ -971,7 +971,7 @@
 [s]Eu vejo agora. Estar com ciúmes da[n]felicidade de outras pessoas não o fará[n]feliz. É isso que você quer dizer?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_09_R_14]
-[s]Você não perde muito tempo na conversa[n]ociosa.[n]Acho que você é bom em manter segredos.[n][w][e]
+[s]Você não perde muito tempo na conversa[n]ociosa. Acho que você é bom em manter segredos.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_09_R_15]
 [s]Esse é quem eu sou. Desculpe desapontar.[n][w][e]
@@ -1038,7 +1038,7 @@
 
 [msg TalkMsg_GUY_CHAT_SQ_11]
 [s]Hum, você realmente planeja atirar em mim?[n][w][e]
-[s]Ouvi dizer que o amor pode florescer em[n]qualquer lugar, mesmo em um campo de[n]batalha.[n]Você não acha que isso é possível?[n][w][e]
+[s]Ouvi dizer que o amor pode florescer em[n]qualquer lugar, mesmo em um campo de[n]batalha. Você não acha que isso é possível?[n][w][e]
 
 [sel TalkSel_GUY_CHAT_SQ_11 top]
 [s]Pode?[e]
@@ -1427,14 +1427,14 @@
 
 [msg TalkMsg_GUY_NEGO_REQUIRE_4]
 [s]Você quer que eu minta para as outras[n]sombras?[n][w][e]
-[s]Eles vão me matar se descobrirem... mas eu[n]posso mudar de idéia se eu colocar minhas[n]mãos em um bom ol ' [n][f 2 5 3 9999 3].[n][w][e]
+[s]Eles vão me matar se descobrirem... mas eu[n]posso mudar de idéia se eu colocar minhas[n]mãos em um bom ol ' [f 2 5 3 9999 3].[n][w][e]
 
 [sel TalkSel_GUY_NEGO_REQUIRE top]
 [s]Entregue [e]
 [s]Não entregue [e]
 
 [msg TalkMsg_GUY_NEGO_PAYFOR_]
-[s]Sua vida deve ser muito difícil se você[n]precisar recorrer a ser um ladrão. Aqui,[n]pegue [n][var 0]Yen.[n][w][e]
+[s]Sua vida deve ser muito difícil se você[n]precisar recorrer a ser um ladrão. Aqui,[n]pegue  [var 0]Yen.[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_PAYFOR__2]
 [s]Estou com idade suficiente para dar a vocês[n]filhos do subsídio? Aqui está: [n][var 0]Yen.[n][w][e]
@@ -1465,7 +1465,7 @@
 [s]Oh, parece [clr 1][var 2][clr 27][n]já está com você...[n][w][e]
 
 [msg TalkMsg_GUY_RESULT_GET_P_3]
-[s]... Hmmm, você ainda não é suficiente para[n]mim.[n]Eu estarei esperando, então por enquanto,[n]pegue isso [n][f 2 5 3 9999 1].[n][w][e]
+[s]... Hmmm, você ainda não é suficiente para[n]mim.[n]Eu estarei esperando, então por enquanto,[n]pegue isso [f 2 5 3 9999 1].[n][w][e]
 
 [msg TalkMsg_GUY_RESULT_GET_M]
 [s]... aqui, você pode ter [var 0]Yen. Eu realmente me diverti passando um[n]tempo com você.[n][w][e]
@@ -1556,14 +1556,14 @@
 [s]... Espere, eu não vou ser enganado por você![n]Há um preço alto para brincar com o coração[n]de uma mulher![n][w][e]
 
 [msg TalkMsg_RESULT_BRAINWASH_5]
-[s]Ahh, meu sonho realmente está se tornando[n]realidade.[n]Como obrigado, por favor, leve isso.[n][w][e]
+[s]Ahh, meu sonho realmente está se tornando[n]realidade. Como obrigado, por favor, leve isso.[n][w][e]
 
 [msg TalkMsg_RESULT_BRAINWASH_6]
 [s]Ahh, meu sonho está realmente se tornando[n]realidade...[n][w][e]
 [s]... Espere, eu não vou ser enganado por você![n]Há um preço alto para brincar com o coração[n]de uma mulher![n][w][e]
 
 [msg TalkMsg_RESULT_BRAINWASH_7]
-[s]Então esse é o caminho que estou destinado a[n]seguir?[n]Obrigado por abrir meus olhos. Aqui,[n]deixe-me dar isso a você.[n][w][e]
+[s]Então esse é o caminho que estou destinado a[n]seguir? Obrigado por abrir meus olhos. Aqui,[n]deixe-me dar isso a você.[n][w][e]
 
 [msg TalkMsg_CONTACT_11]
 [s]Você é apenas um garoto impotente em[n]comparação com o rei Kamoshida.[n][w][e]
@@ -1829,7 +1829,7 @@
 [s]Bem, isso é uma merda... então o que você[n]planeja fazer?[n][w][e]
 
 [msg TalkMsg_CONTACT_13_2]
-[s]... Olha, estou pedindo sua ajuda.[n]Por favor, não vou dizer uma palavra para o[n]Sr.[n]Kaneshiro.[n][w][e]
+[s]... Olha, estou pedindo sua ajuda.[n]Por favor, não vou dizer uma palavra para o[n]Sr. Kaneshiro.[n][w][e]
 
 [msg TalkMsg_CONTACT_13_3]
 [s]Espere um minuto! Você realmente não precisa[n]me matar, não é?[n][w][e]
@@ -1925,7 +1925,7 @@
 [s]Huh? Não há como negociar com um humano![n][w][e]
 
 [msg TalkMsg_SHOOT_REACTION01]
-[s]S-tão de repente?... você é bastante[n]agressivo.[n]Eu também sou assim...[n][w][e]
+[s]S-tão de repente?... você é bastante[n]agressivo. Eu também sou assim...[n][w][e]
 [s]... espere, eu lembro de algo...[n][w][e]
 
 [msg TalkMsg_SHOOT_REACTION02]
@@ -2022,7 +2022,7 @@
 
 [msg TalkMsg_RESULT_BRAINWASH_12]
 [s]Ahh, meu sonho realmente está se tornando[n]realidade...[n]Obrigada. Eu devo-te uma...[n][w][e]
-[s]... Mas você tem um nível muito baixo. Pense[n]nisso [n][f 2 5 3 9999 1]como eu...[n][w][e]
+[s]... Mas você tem um nível muito baixo. Pense[n]nisso  [f 2 5 3 9999 1]como eu...[n][w][e]
 
 [msg TalkMsg_RESULT_BRAINWASH_13]
 [s]Não... meu rosto parece mais velho... estou[n]com medo.[n]Eu quero ser... lindo. Para todo sempre...[n][w][e]
@@ -2043,7 +2043,7 @@
 [s]Parece que as coisas estão animando. Tudo[n]bem, eu vou te ouvir.[n][w][e]
 
 [msg TalkMsg_BONUS_CARD]
-[s]Certo. Estou feliz que você me deixe ir com[n]isso.[n]Aqui está.[n][w][e]
+[s]Certo. Estou feliz que você me deixe ir com[n]isso. Aqui está.[n][w][e]
 
 [msg TalkMsg_DONATION]
 [s]Certo. Eu acho que esse dinheiro existe para[n]alguém como você usar.[n][w][e]

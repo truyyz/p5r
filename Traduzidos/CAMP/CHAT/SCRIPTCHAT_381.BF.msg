@@ -29,7 +29,7 @@
 [s][f 5 14]Se ele acabar tomando medidas legais[n]contra nós, nosso líder estará com[n]grandes problemas...![n][w][e]
 
 [msg MSG_010_0_0 [Yusuke]]
-[s][f 5 14]Você está sob liberdade condicional,[n]correto?[n]Isso seria problemático...[n][w][e]
+[s][f 5 14]Você está sob liberdade condicional,[n]correto? Isso seria problemático...[n][w][e]
 
 [msg MSG_011_0_0 [Ann]]
 [s][f 5 14]Ei, vamos ficar bem... não estamos?[n][w][e]

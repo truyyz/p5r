@@ -245,7 +245,7 @@
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 102 7 301 1][vp 8 2 0 11080 65535 0]EI! Não aja como se você pudesse[n]simplesmente abandonar o assunto com[n]facilidade! Você não está saindo deste![n][f 1 3 65535][w][e]
 
 [msg MSG_059_3_0 [Justine]]
-[s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]... Somos guardas, e este é o nosso[n]prisioneiro.[n]Nada mais nada menos.[n][f 1 3 65535][w][e]
+[s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]... Somos guardas, e este é o nosso[n]prisioneiro. Nada mais nada menos.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]No entanto, não há como negar o fato de que[n]os resultados do preso excederam nossas[n]expectativas.[n][f 1 3 65535][w][e]
 
 [msg MSG_059_5_0 [Justine]]
@@ -256,7 +256,7 @@
 [s][bup 0 102 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 5 0 37 5 100]Mas este não é o fim de suas tarefas[n]especiais! É melhor você não desistir[n]agora- não!?[n][f 1 3 65535][w][e]
 
 [msg MSG_060_0_0 [Caroline]]
-[s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vamos terminar a refeição do gima antes de[n]sairmos- o que eles foram chamados[n]novamente?[n]Cabra e tosse?[n][f 1 3 65535][w][e]
+[s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vamos terminar a refeição do gima antes de[n]sairmos- o que eles foram chamados[n]novamente? Cabra e tosse?[n][f 1 3 65535][w][e]
 
 [msg MSG_061_0_0 [Justine]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 102 7 301 65535][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu acredito que você quer dizer Curda e[n]confortável.[n][f 1 3 65535][w][e]

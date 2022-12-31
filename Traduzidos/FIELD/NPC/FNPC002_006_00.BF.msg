@@ -5,7 +5,7 @@
 [s]テスト用仮配置NPCです。[n][w][e]
 
 [msg MSG_GREET_TEST_000_00]
-[s]Eu ouvi dizer que ele realmente machucou[n]alguém?[n]Ele deve ser perigoso...[n][f 1 7 30][e]
+[s]Eu ouvi dizer que ele realmente machucou[n]alguém? Ele deve ser perigoso...[n][f 1 7 30][e]
 
 [msg MSG_GREET_TEST_001_00]
 [s]Tente não fazer contato visual. Seria ruim[n]se você se envolvesse com esse cara.[n][f 1 7 30][e]
@@ -196,7 +196,7 @@
 [s][vp 8 2 1 0 8 0]Deve afastar qualquer tipo de humor negativo[n]em um instante![n][w][e]
 
 [msg MSG_SEASON_GOODS_010_03 [Inquisitive Girl]]
-[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Então é uma espécie de terapia de aroma,[n]hein?[n]Isso parece perfeito para mim agora...[n][w][e]
+[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Então é uma espécie de terapia de aroma,[n]hein? Isso parece perfeito para mim agora...[n][w][e]
 
 [msg MSG_SEASON_GOODS_011_01 [Inquisitive Girl]]
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Gostaria de saber se a Okumura Foods será[n]alvo dos ladrões Phantom.[n][w][e]
@@ -245,7 +245,7 @@
 [msg MSG_SEASON_GOODS_015_04 [Foodie Girl]]
 [s][f 4 23 1 8 14 0 13 0][vp 8 2 1 0 8 0]Primeiro, há o [clr 2][var 0][clr 27], que é vendido na loja de conveniência![n][w][e]
 [s][f 4 23 1 8 14 0 13 0][vp 8 2 1 0 8 0]É tão bonito que é quase uma pena comer![n][w][e]
-[s][f 4 23 1 8 14 0 13 0][vp 8 2 1 0 8 0]E o próximo é o [clr 2][var 1][clr 27], que é vendido na loja chinesa de pão em[n]Kichijoji![n]Por acaso eu sou regular lá.[n][w][e]
+[s][f 4 23 1 8 14 0 13 0][vp 8 2 1 0 8 0]E o próximo é o [clr 2][var 1][clr 27], que é vendido na loja chinesa de pão em[n]Kichijoji! Por acaso eu sou regular lá.[n][w][e]
 [s][f 4 23 1 8 14 0 13 0][vp 8 2 1 0 8 0]Essa suculência é praticamente viciante...[n][w][e]
 
 [msg MSG_SEASON_GOODS_015_05 [Inquisitive Girl]]
@@ -370,7 +370,7 @@
 [s][f 4 23 1 0 3 10 0 0][vp 8 2 1 0 0 0]Ei, você viu o site da Phantom Thieves? Você[n]pode realmente solicitar que eles segmentem[n]alguém.[n][w][e]
 
 [msg MSG_KATAOMOI_008_1_0 [Energetic Student]]
-[s][f 4 23 1 1 3 10 0 0][vp 8 2 1 0 1 0]Algo assim parece que pode levar a muitos[n]problemas.[n]Akechi-kun mencionou isso também.[n][w][e]
+[s][f 4 23 1 1 3 10 0 0][vp 8 2 1 0 1 0]Algo assim parece que pode levar a muitos[n]problemas. Akechi-kun mencionou isso também.[n][w][e]
 
 [msg MSG_KATAOMOI_008_2_0 [Calm Student]]
 [s][f 4 23 1 0 3 10 0 0][vp 8 2 1 0 0 0]Eu acho que parece que eles são muito[n]perigosos, afinal...[n][w][e]
@@ -609,7 +609,7 @@
 [s][vp 9 2 65535 38054 0 0]Por que Kamoshida de repente decidiu se[n]desculpar assim?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_005_02_ [Sharp Student]]
-[s][vp 9 2 65535 41705 0 0]Espere, essa coisa de ladrão fantasma era[n]real?[n]Não, isso é ridículo...[n][f 1 2 180][e]
+[s][vp 9 2 65535 41705 0 0]Espere, essa coisa de ladrão fantasma era[n]real? Não, isso é ridículo...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_005_03_ [Sharp Student]]
 [s][vp 9 2 65535 44654 0 0]Por que ele estava de repente agindo dessa[n]maneira? Os ladrões Phantom o ameaçaram?[n][f 1 2 180][e]

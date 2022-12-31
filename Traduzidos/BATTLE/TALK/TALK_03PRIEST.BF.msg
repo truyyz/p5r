@@ -26,7 +26,7 @@
 [s]Eu vejo. Você não mostra clemência nem mesmo[n]para aqueles amados. Não se esqueça de ser[n]rigoroso em si mesmo também...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_01_R_3]
-[s]Palavras mesquinhas... não vão reprimir esta[n]maré.[n]Nosso Pai não pode ser enganado.[n][w][e]
+[s]Palavras mesquinhas... não vão reprimir esta[n]maré. Nosso Pai não pode ser enganado.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_01_R_4]
 [s]Para chamar o exercício do poder excessivo[n]de "competição"... parece um fraseado[n]conveniente, não é?[n][w][e]
@@ -65,7 +65,7 @@
 [s]Humano que não pode entender o objetivo da[n]minha dúvida, saiba que nosso pai estende[n]sua benevolência, mesmo para você.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_01_R_16]
-[s]Minha investigação é a investigação de nosso[n]pai.[n]Eu quero deixar isso claro.[n][w][e]
+[s]Minha investigação é a investigação de nosso[n]pai. Eu quero deixar isso claro.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_02]
 [s]... Você já cometeu um pecado grave.[n][w][e]
@@ -1187,7 +1187,7 @@
 [s]...De fato. Eu não tinha considerado isso.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_13_R_10]
-[s]Eu me esforcei para fazê-lo, mas... me[n]desculpe.[n]Não encontrei nada.[n][w][e]
+[s]Eu me esforcei para fazê-lo, mas... me[n]desculpe. Não encontrei nada.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_13_R_11]
 [s]Seria como encontrar uma agulha em um[n]palheiro.[n][w][e]
@@ -1199,7 +1199,7 @@
 [s]Então, você exercerá esse poder para mostrar[n]seu valor?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_13_R_14]
-[s]Eu não pretendia sugerir que o homem é[n]inútil.[n]Aceite minhas desculpas.[n][w][e]
+[s]Eu não pretendia sugerir que o homem é[n]inútil. Aceite minhas desculpas.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_13_R_15]
 [s]Em vez disso, você deve agradecer por eu[n]apontar sua imaturidade.[n][w][e]
@@ -1423,7 +1423,7 @@
 
 [msg TalkMsg_GUY_NEGO_REQUIRE_2]
 [s]...* tosse** tosse* fui visitado pelas dores[n]da doença.[n][w][e]
-[s]Eu sei que você é um ladrão noturno, mas[n]atendeu ao meu pedido. Eu peço que você me[n]forneça um [n][f 2 5 3 9999 4]...[n][w][e]
+[s]Eu sei que você é um ladrão noturno, mas[n]atendeu ao meu pedido. Eu peço que você me[n]forneça um [f 2 5 3 9999 4]...[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_REQUIRE_3]
 [s]... Pai, esses olhos com coceira! Não[n]consigo parar de arranhar.[n][w][e]
@@ -1506,7 +1506,7 @@
 
 [msg TalkMsg_GUY_RESULT_ENEMY_9]
 [s]Humano irritante! Como você ousa tentar[n]conversar comigo![n][w][e]
-[s]... Mas talvez minha raiva tenha sido[n]extraviada.[n]Fale, e eu vou ouvir você...[n][w][e]
+[s]... Mas talvez minha raiva tenha sido[n]extraviada. Fale, e eu vou ouvir você...[n][w][e]
 
 [msg TalkMsg_RESULT_GET_SECRE]
 [s]Oh, eu não sabia que você já sabia disso.[n]Nesse caso, concederei isso a você.[n][w][e]

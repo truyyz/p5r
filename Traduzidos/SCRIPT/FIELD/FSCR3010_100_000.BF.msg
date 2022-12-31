@@ -133,7 +133,7 @@
 [s]Se eu colocar o cobertor que encontrei[n]anteriormente, eu poderia dormir aqui.[n][w][e]
 
 [msg Bed_Choice_mes00]
-[s]No momento, minha cama é o mais simples[n]possível.[n]São ossos muito vazios.[n][w][e]
+[s]No momento, minha cama é o mais simples[n]possível. São ossos muito vazios.[n][w][e]
 
 [msg Bed_Choice_mes01]
 [s]Agora eu tenho [clr 4][var 0][clr 27][n]na minha cama e sem perfume.[n][w][e]

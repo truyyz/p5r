@@ -517,7 +517,7 @@
 [s][f 4 10 65535 0 0]O incenso entra em vigor quando o dia passa-[n]mas lembre-se, você não pode queimar mais[n]de um incenso de cada vez![n][w][e]
 [s][f 4 10 65535 0 0]Depois que um incenso desaparece, você pode[n]queimar um novo. Usados corretamente, suas[n]personas se tornarão muito mais fortes.[n][w][e]
 [s][f 4 10 65535 0 0]Você pode encontrar incenso em lugares além[n]do metaverso- também deve haver alguns no[n]mundo real.[n][w][e]
-[s][f 4 10 65535 0 0]É melhor você encontrar alguns, você me[n]ouve!?[n]Mantenha seus olhos abertos![n][w][e]
+[s][f 4 10 65535 0 0]É melhor você encontrar alguns, você me[n]ouve!? Mantenha seus olhos abertos![n][w][e]
 
 [msg msg_combine_HELP019 [Caroline]]
 [s][bup 0 102 0 0 0][f 4 10 65535 0 0]É preciso um número definido de dias até que[n]o treinamento de uma persona termine... mas[n]não se esqueça que está lá, ok?[n][w][e]

@@ -14,7 +14,7 @@
 [s][f 5 14]Oh sério?[n][w][e]
 
 [msg MSG_REACTION_04 [Maruki]]
-[s][f 5 14]... bem, vamos pegar uma verificação de[n]chuva.[n]Da próxima vez, hein?[n][f 5 15][w][e]
+[s][f 5 14]... bem, vamos pegar uma verificação de[n]chuva. Da próxima vez, hein?[n][f 5 15][w][e]
 
 [sel SEL_001_0_0 top]
 [s][f 5 14]Certo.[e]
@@ -123,6 +123,6 @@
 [s]Você também pode convidar pessoas que[n]possam desfrutar do aquário para sair[n]com você lá.[n][w][e]
 
 [msg MSG_SPOT_OPEN_NAKANO]
-[s]Agora você tem informações sobre um novo[n]ponto de encontro: [n][clr 2]Distrito de construção de comércio de[n]Nakano [n][clr 27].[n][w][e]
+[s]Agora você tem informações sobre um novo[n]ponto de encontro: [n][clr 2]Distrito de construção de comércio de[n]Nakano  [clr 27].[n][w][e]
 [s]Você também pode convidar pessoas que[n]possam desfrutar desse local para sair[n]com você lá.[n][w][e]
 

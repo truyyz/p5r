@@ -60,13 +60,13 @@
 [s]Será como sempre.[e]
 
 [msg MSG_019_0_0 [Futaba]]
-[s][f 5 14][f 5 15]Você pode contar conosco. A decisão de[n]quando nos ligar para este plano é sobre[n]você, [n][f 4 2].[n][w][e]
+[s][f 5 14][f 5 15]Você pode contar conosco. A decisão de[n]quando nos ligar para este plano é sobre[n]você,  [f 4 2].[n][w][e]
 
 [msg MSG_020_0_0 [Ann]]
-[s][f 5 14][f 5 15]Sim, definitivamente. Você está[n]encarregado de escolher o tempo para[n]fazermos isso, [n][f 4 2]![n][w][e]
+[s][f 5 14][f 5 15]Sim, definitivamente. Você está[n]encarregado de escolher o tempo para[n]fazermos isso, [f 4 2]![n][w][e]
 
 [msg MSG_021_0_0 [Yusuke]]
-[s][f 5 14][f 5 15]Sim, é melhor não ficar muito bem sobre[n]isso. Quanto ao momento, isso é sobre[n]você, [n][f 4 2].[n][w][e]
+[s][f 5 14][f 5 15]Sim, é melhor não ficar muito bem sobre[n]isso. Quanto ao momento, isso é sobre[n]você,  [f 4 2].[n][w][e]
 
 [msg MSG_CHAT_MORUEND_00 [Morgana]]
 [s][bup 0 3 3 65535 0][f 4 10 65535 0 0][vp 1 0 0 1 0 0]Akechi nos salvou no final. Eu acho que[n]em seu coração, ele pode não ter sido[n]tão ruim...[n][f 1 3 65535][w][e]

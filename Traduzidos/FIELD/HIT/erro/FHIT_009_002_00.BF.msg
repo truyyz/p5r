@@ -15,7 +15,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1019 65535 0]O velho era muito bom para nós.[n]Você deveria agradecer a ele.[n][w][e]
 
 [msg MSG_LAST_GREETING_RECYCL_3 [Secondhand Shop Owner]]
-[s][f 4 23 1 150 3 10 0 0]Isso está certo...? Bem, vamos sentir sua[n]falta.[n]Você se cuida, tudo bem?[n][w][e]
+[s][f 4 23 1 150 3 10 0 0]Isso está certo...? Bem, vamos sentir sua[n]falta. Você se cuida, tudo bem?[n][w][e]
 
 [msg MSG_LAST_GREETING_RECYCL_4 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1018 65535 0]Não precisamos de nada daqui. Você pode[n]comprar o que precisa quando voltar para[n]casa.[n][w][e]
@@ -367,7 +367,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1167 65535 0]Havia algo que você precisava fazer no[n]supermercado?[n][w][e]
 
 [msg SuperMarket_THANKS [Morgana]]
-[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 1180 65535 0]Este lugar é grande por causa de todas as[n]coisas de tamanho comercial que eles vendem[n]aqui.[n]Vamos aqui novamente algum dia.[n][w][e]
+[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 1180 65535 0]Este lugar é grande por causa de todas as[n]coisas de tamanho comercial que eles vendem[n]aqui. Vamos aqui novamente algum dia.[n][w][e]
 
 [msg SuperMarket_NOT_BUY [Morgana]]
 [s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 1 1177 65535 0]Você veio aqui só para olhar...?[n][w][e]
@@ -664,7 +664,7 @@
 [s][vp 1 0 0 0 0 0]É a estação que já passou aqui. Eu preciso[n]ir para [n][clr 2]Casa de Sojiro [clr 27]...[n][w][e]
 
 [msg MND_E10410300_NG_STATION]
-[s][vp 1 0 0 0 0 0]Dessa forma, leva à estação.[n]Eu deveria voltar e encontrar uma loja[n]chamada [n][clr 2]LeBlanc [clr 27]...[n][w][e]
+[s][vp 1 0 0 0 0 0]Dessa forma, leva à estação.[n]Eu deveria voltar e encontrar uma loja[n]chamada  [clr 2]LeBlanc [clr 27]...[n][w][e]
 
 [msg MND_E10410400_NG_N_STATI]
 [s][vp 1 0 0 0 0 0]Dessa forma, leva à estação.[n]a café called [clr 2]Eu deveria voltar e encontrar LeBlanc [clr 27]...[n][w][e]
@@ -1281,7 +1281,7 @@
 [s]Eu posso sentir algo vindo para mim...[n][w][e]
 
 [msg MND_INC_PARAMCHK_S_TISIK]
-[s]Eu acho que estou perto de um avanço com o[n]meu [n][f 4 11 0][clr 26][f 4 12 0][clr 27]...[n][w][e]
+[s]Eu acho que estou perto de um avanço com o[n]meu  [f 4 11 0][clr 26][f 4 12 0][clr 27]...[n][w][e]
 
 [msg MND_RankUp_OK_Miryoku]
 [s]Eu me sinto como meu [f 4 11 1][clr 26][f 4 12 0][clr 27][n]vai melhorar em breve...[n][w][e]
@@ -1296,7 +1296,7 @@
 [s]Eu posso sentir algo vindo para mim...[n][w][e]
 
 [msg MND_INC_PARAMCHK_S_MIRYO]
-[s]Eu acho que estou perto de um avanço com o[n]meu [n][f 4 11 1][clr 26][f 4 12 1][clr 27]...[n][w][e]
+[s]Eu acho que estou perto de um avanço com o[n]meu  [f 4 11 1][clr 26][f 4 12 1][clr 27]...[n][w][e]
 
 [msg MND_RankUp_OK_Kiyou]
 [s]Eu me sinto como meu [f 4 11 2][clr 26][f 4 12 2][clr 27][n]vai melhorar em breve...[n][w][e]
@@ -1314,7 +1314,7 @@
 [s]Eu posso sentir algo vindo para mim...[n][w][e]
 
 [msg MND_INC_PARAMCHK_S_KIYOU]
-[s]Eu acho que estou perto de um avanço com o[n]meu [n][f 4 11 2][clr 26][f 4 12 2][clr 27]...[n][w][e]
+[s]Eu acho que estou perto de um avanço com o[n]meu  [f 4 11 2][clr 26][f 4 12 2][clr 27]...[n][w][e]
 
 [msg MND_RankUp_OK_Dokyo]
 [s]Eu me sinto como meu [f 4 11 3][clr 26][f 4 12 3][clr 27][n]vão melhorar em breve...[n][w][e]
@@ -1329,7 +1329,7 @@
 [s]Eu posso sentir algo vindo para mim...[n][w][e]
 
 [msg MND_INC_PARAMCHK_S_DOKYO]
-[s]Eu acho que estou perto de um avanço com o[n]meu [n][f 4 11 3][clr 26][f 4 12 3][clr 27]...[n][w][e]
+[s]Eu acho que estou perto de um avanço com o[n]meu  [f 4 11 3][clr 26][f 4 12 3][clr 27]...[n][w][e]
 
 [msg MND_RankUp_OK_Yasasisa]
 [s]Eu me sinto como meu [f 4 11 4][clr 26][f 4 12 4][clr 27][n]vai melhorar em breve...[n][w][e]
@@ -1347,7 +1347,7 @@
 [s]Eu posso sentir algo vindo para mim...[n][w][e]
 
 [msg MND_INC_PARAMCHK_S_YASAS]
-[s]Eu acho que estou perto de um avanço com o[n]meu [n][f 4 11 4][clr 26][f 4 12 4][clr 27]...[n][w][e]
+[s]Eu acho que estou perto de um avanço com o[n]meu  [f 4 11 4][clr 26][f 4 12 4][clr 27]...[n][w][e]
 
 [msg MSG_CinemaBuyTicketSIBUY [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1179 65535 0]Oh sim! Você precisa comprar um ingresso[n]primeiro.[n][w][e]

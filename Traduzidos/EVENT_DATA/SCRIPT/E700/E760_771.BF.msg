@@ -85,7 +85,7 @@
 [s][vp 8 2 0 59556 65535 0]Então, o ladrão enganoso que devastou o[n]mundo acima entrou descaradamente neste[n]domínio infernal...[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 59556 65535 0]Vou te mostrar os horrores do inferno...[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 59556 65535 0]Pelo menos, eu faria... mas seria chato[n]tratar o famoso Goemon da mesma forma que[n]qualquer pessoa idosa.[n][f 1 3 65535][w][e]
-[s][vp 8 2 0 59556 65535 0]Em vez disso, usaremos os dois dados na[n]minha mão para jogar um pequeno jogo. Eu[n]chamo isso...[n]chances ou devens![n][f 1 3 65535][w][e]
+[s][vp 8 2 0 59556 65535 0]Em vez disso, usaremos os dois dados na[n]minha mão para jogar um pequeno jogo. Eu[n]chamo isso... chances ou devens![n][f 1 3 65535][w][e]
 
 [msg MSG_GAMBLE_TUTORIAL_MORU [Morgana]]
 [s][bup 0 3 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]HM, parece que apenas temos que vencer esse[n]demônio em um jogo de dados...[n][f 1 3 65535][w][e]

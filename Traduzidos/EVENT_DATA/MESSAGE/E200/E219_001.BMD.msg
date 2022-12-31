@@ -12,7 +12,7 @@
 [s][bup 0 203 3 0 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Eu-eu... manchei isso... o mundo da arte[n]deste país... e... até "Sayuri"![n][f 1 3 65535][w][e]
 
 [msg MSG_003_5_0 [Madarame]]
-[s][bup 0 203 8 0 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]... H-como eu poderia... eu possivelmente...[n]desculpo-me-para todos por... pelo que eu[n]fiz...[n]Aaaah...[n][f 1 3 65535][w][e]
+[s][bup 0 203 8 0 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]... H-como eu poderia... eu possivelmente...[n]desculpo-me-para todos por... pelo que eu[n]fiz... Aaaah...[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Male Pedestrian]]
 [s][vp 8 0 0 7 65535 0]Ele está chorando demais...[n][f 1 3 65535][w][e]

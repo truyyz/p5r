@@ -35,7 +35,7 @@
 [s]Vários panfletos são postados.[n][w][e]
 [s]"O primeiro semestre do semestre começa em[n]11 de maio." [n][w][e]
 [s]"Fique calmo e concentre-se em seus[n]estudos." [n][w][e]
-[s]"Por favor, devolva os livros na data de[n]vencimento![n]- equipe da biblioteca " [n][w][e]
+[s]"Por favor, devolva os livros na data de[n]vencimento! - equipe da biblioteca " [n][w][e]
 
 [msg MSG_BOARD_M5_02]
 [s]Vários panfletos são postados.[n][w][e]
@@ -126,7 +126,7 @@
 [s]Vários panfletos são postados.[n][w][e]
 [s]"O primeiro semestre do semestre começa em[n]11 de maio." [n][w][e]
 [s]"Fique calmo e concentre-se em seus[n]estudos." [n][w][e]
-[s]"Por favor, devolva os livros na data de[n]vencimento![n]- equipe da biblioteca " [n][w][e]
+[s]"Por favor, devolva os livros na data de[n]vencimento! - equipe da biblioteca " [n][w][e]
 
 [msg MSG_BOARD_M5_01_MARUKI]
 [s]Existem panfletos postados aqui nesta placa.[n][w][e]
@@ -136,7 +136,7 @@
 [s]Vários panfletos são postados.[n][w][e]
 [s]"O primeiro semestre do semestre começa em[n]11 de maio." [n][w][e]
 [s]"Fique calmo e concentre-se em seus[n]estudos." [n][w][e]
-[s]"Por favor, devolva os livros na data de[n]vencimento![n]- equipe da biblioteca " [n][w][e]
+[s]"Por favor, devolva os livros na data de[n]vencimento! - equipe da biblioteca " [n][w][e]
 [s]"Notificação sobre o evento de limpeza" [n][w][e]
 
 [msg MSG_BOARD_M5_02_1]

@@ -107,7 +107,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ei, você nunca pediu que ele duplique esse[n]tipo de cartão para você antes. Escolha um[n]diferente.[n][w][e]
 
 [msg MSG_C04_REQUEST_NOTCARD__10]
-[s]Eu nunca pedi que ele duplique este cartão[n]antes.[n]Eu deveria escolher outro tipo...[n][w][e]
+[s]Eu nunca pedi que ele duplique este cartão[n]antes. Eu deveria escolher outro tipo...[n][w][e]
 
 [msg MSG_C04_REQUEST_NOTCARD__11 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]Ei, você nunca duplicou nada antes. Devemos[n]perguntar novamente depois que você[n]experimentou.[n][w][e]

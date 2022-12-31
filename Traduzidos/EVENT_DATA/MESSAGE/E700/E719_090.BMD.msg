@@ -106,7 +106,7 @@
 
 [msg MSG_030_0_0 [Dietman Matsushita]]
 [s][vp 8 0 0 0 65535 0]Prossiga como desejar com sua candidatura.[n]Vou tomar medidas para garantir que a parte[n]o apoie.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]Dentro dos limites de minhas habilidades, é[n]claro.[n]...Adeus.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Dentro dos limites de minhas habilidades, é[n]claro. ...Adeus.[n][f 1 3 65535][w][e]
 
 [msg MSG_031_0_0 [Yoshida]]
 [s][bup 0 112 0 0 0][f 4 10 65535 0 0][vp 8 2 0 20021 65535 0]Minha candidatura... hein? Que virada[n]inesperada de eventos.[n][f 1 3 65535][w][e]

@@ -12,7 +12,7 @@
 
 [msg MSG_StartTalk_1st_YORU [Middle-Aged Receptionist]]
 [s][vp 8 2 1 0 65535 0]Você pode ganhar prêmios aqui durante o dia.[n]À noite, não há prêmios, mas você pode jogar[n]o quanto quiser.[n][w][e]
-[s]E, se você acertar três home runs, eu lhe[n]darei um ingresso gratuito para jogar[n]durante o dia.[n]Bom negócio, certo?[n][w][e]
+[s]E, se você acertar três home runs, eu lhe[n]darei um ingresso gratuito para jogar[n]durante o dia. Bom negócio, certo?[n][w][e]
 
 [msg MSG_StartTalk_HIRU [Middle-Aged Receptionist]]
 [s][vp 8 2 1 58572 65535 0]Bem-vindo. Aproveite o seu tempo aqui.[n][w][e]
@@ -127,7 +127,7 @@
 [s]Não dessa vez.[e]
 
 [msg MSG_FreeCard_YES01 [Middle-Aged Receptionist]]
-[s][vp 8 2 1 58577 65535 0]Então você está usando um bilhete de jogo[n]gratuito?[n]Então você não precisa pagar desta vez.[n][w][e]
+[s][vp 8 2 1 58577 65535 0]Então você está usando um bilhete de jogo[n]gratuito? Então você não precisa pagar desta vez.[n][w][e]
 
 [msg MSG_FreeCard_NO [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1020 65535 0]Então você não está usando desta vez?[n][w][e]

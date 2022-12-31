@@ -28,7 +28,7 @@
 
 [msg MES_GROUP1_04 [Morgana]]
 [s][bup 0 3 10 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 30 10 0 10]D-Don't suar os detalhes![n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Acabei de conhecer esse cara e vi seu[n]potencial![n]Isso é tudo, ok? Fim da história![n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Acabei de conhecer esse cara e vi seu[n]potencial! Isso é tudo, ok? Fim da história![n][w][e]
 
 [msg MES_GROUP2_00 [Sumire]]
 [s][bup 0 10 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 57142 65535 0]Esta é a forma do coração de Senpai...[n][w][e]

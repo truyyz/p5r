@@ -424,7 +424,7 @@
 [s][bup 0 8 602 65535 0][f 4 10 65535 0 0][vp 8 0 2 1133 0 8]Não estamos fazendo isso por nós! Nós só[n]queremos ajudar as pessoas em apuros![n][f 1 3 65535][w][e]
 
 [msg MSG_HP50_000_000 [Shadow Sae]]
-[s][vp 8 0 2 1099 1 288]Apenas a vitória importa! Para garantir,[n]você deve estar disposto a fazer qualquer[n]coisa![n]Não pode fazer certo?[n][f 1 3 65535][w][e]
+[s][vp 8 0 2 1099 1 288]Apenas a vitória importa! Para garantir,[n]você deve estar disposto a fazer qualquer[n]coisa! Não pode fazer certo?[n][f 1 3 65535][w][e]
 [s][vp 8 0 2 1100 1 288]Não importa o que aconteça aqui, eu preciso[n]continuar ganhando![n][f 1 3 65535][w][e]
 
 [msg MSG_HP50_000_005 [Makoto]]

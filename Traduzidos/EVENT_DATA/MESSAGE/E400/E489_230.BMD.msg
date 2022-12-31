@@ -18,5 +18,5 @@
 
 [msg MSG_005_0_0 [Jose]]
 [s][bup 0 221 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ah, e você viu o "jogo" que eu me escondi[n]para você?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu fiz isso para que você não fique muito[n]entediado.[n]Espero que se divirta![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu fiz isso para que você não fique muito[n]entediado. Espero que se divirta![n][f 1 3 65535][w][e]
 

@@ -47,7 +47,7 @@
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 10 15 8]Esse é o espírito! Estou tão pronto![n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Futaba]]
-[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 9024 65535 0]Eu descobri muito quando você está por[n]perto, [n][f 4 2]![n][f 1 3 65535][w][e]
+[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 9024 65535 0]Eu descobri muito quando você está por[n]perto,  [f 4 2]![n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Futaba]]
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]HM...!? Meus sentidos de alimentos chineses[n]estão formigando![n][f 1 3 65535][w][e]

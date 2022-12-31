@@ -47,7 +47,7 @@
 [s][bup 0 3 4 0 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Monstro...?[n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Ann]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 4 3 300 1][vp 8 0 0 18 65535 0]É melhor você explicar o que está[n]acontecendo![n]Não vou sair até você![n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 4 3 300 1][vp 8 0 0 18 65535 0]É melhor você explicar o que está[n]acontecendo! Não vou sair até você![n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Ryuji]]
 [s][bup 0 2 103 0 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Parece que temos que forçá-la.[n][f 1 3 65535][w][e]

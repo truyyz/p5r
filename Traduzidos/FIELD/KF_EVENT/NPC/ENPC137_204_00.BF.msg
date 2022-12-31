@@ -17,7 +17,7 @@
 
 [msg MSG_FEMALE_101_00 [Cheerful Female Student]]
 [s][f 4 23 1 850 3 10 0 0][vp 8 2 1 0 850 0]Sim, provavelmente é uma boa ideia ficar[n]longe dele. Você não sabe o que ele fará.[n][w][e]
-[s][vp 8 2 1 0 850 0]Agora eu realmente quero acariciar esse gato[n]também.[n]Espero que venha pela escola novamente[n]amanhã.[n][w][e]
+[s][vp 8 2 1 0 850 0]Agora eu realmente quero acariciar esse gato[n]também. Espero que venha pela escola novamente[n]amanhã.[n][w][e]
 
 [msg MSG_MALE_000_00 [Listless-Looking Student]]
 [s][f 4 23 1 853 3 10 0 0][vp 8 2 1 0 853 0]Ainda há tempo até a próxima partida.[n]Isso é um arrasto.[n][w][e]

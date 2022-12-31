@@ -58,7 +58,7 @@
 [s][bup 0 3 0 0 0]... Parece que você não tem dinheiro[n]suficiente.[n][w][e]
 
 [msg MSG_TICKET_NOT_BUY [Morgana]]
-[s][bup 0 3 0 0 0]HM? A máquina de ingressos não está[n]funcionando.[n]Eu acho que eles estão fora de hoje.[n][w][e]
+[s][bup 0 3 0 0 0]HM? A máquina de ingressos não está[n]funcionando. Eu acho que eles estão fora de hoje.[n][w][e]
 
 [msg MSG_KITCHEN_ERROR_MORU [Morgana]]
 [s][bup 0 3 0 0 0]Mmm, cheira tão bem- mas vamos ter problemas[n]se entrarmos lá...[n][w][e]

@@ -370,7 +370,7 @@
 [msg MSG_BROKEN_03 [Kawakami]]
 [s][bup 0 109 0 65535 1][vp 1 0 0 0 0 0]Você sabe... eu tentei esperar que você faça[n]uma desculpa. Mas você não fez nada.[n][w][e]
 [s]Isso deve ter sido sobre o quanto você se[n]importava com o seu tempo livre.[n]Honestamente, é difícil para mim.[n][w][e]
-[s]Então, isso significa que nosso acordo está[n]desligado.[n]E isso é final![n][w][e]
+[s]Então, isso significa que nosso acordo está[n]desligado. E isso é final![n][w][e]
 
 [msg MSG_BROKEN_04 [Kawakami]]
 [s][bup 0 109 0 65535 1][vp 1 0 0 0 0 0]Então... adeus, mestre![n][w][e]

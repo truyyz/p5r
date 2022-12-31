@@ -78,7 +78,7 @@
 
 [msg MES_GROUP8_01 [Futaba]]
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 9089 65535 0]Nossas roupas de ladrões fantasmas vêm de[n]nossos próprios corações, certo?[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Na verdade, eu gosto do design com o qual[n]acabei.[n]Bom trabalho, eu![n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Na verdade, eu gosto do design com o qual[n]acabei. Bom trabalho, eu![n][w][e]
 
 [msg MES_GROUP8_02 [Ann]]
 [s][bup 0 4 3 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 32 10 0 10][vp 8 2 1 6021 65535 0]Dentro de nossos próprios corações, hein. Eu[n]me pergunto por que o meu acabou... isso.[n][w][e]

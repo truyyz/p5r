@@ -11,7 +11,7 @@
 [s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6155 65535 0]Este é o dispositivo que abre a porta,[n]certo? A luz está refletindo na direção[n]certa agora.[n][w][e]
 
 [msg D04_03_e296_351_AF02_mes_2 [Makoto]]
-[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Tenho certeza de que a porta será aberta[n]agora.[n]Vamos confirmar isso.[n][w][e]
+[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Tenho certeza de que a porta será aberta[n]agora. Vamos confirmar isso.[n][w][e]
 
 [msg D04_03_e296_301_mes01 [Ann]]
 [s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6023 65535 0]Sim! Terminamos![n][w][e]

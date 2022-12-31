@@ -225,7 +225,7 @@
 [s]Você poderia ser quem está assediando[n]Lilina-Tan...?[n][w][e]
 
 [msg MSG_Q78_HINT_OTAKU_060_0_7 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Merda, eles parecem totalmente suspeitos de[n]você![n]Vamos sair daqui, [f 4 2]![n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Merda, eles parecem totalmente suspeitos de[n]você! Vamos sair daqui, [f 4 2]![n][w][e]
 
 [msg MSG_Q78_HINT_OTAKU_060_0_8 [Skinny Man]]
 [s][vp 8 2 1 0 0 0]Você acertou... você está brincando comigo?[n]Você é seriamente um de nós?[n][w][e]
@@ -265,7 +265,7 @@
 [s][vp 8 2 1 0 0 0]Ei, se você é realmente um fã de[n]Lilina-Tan's, diga-me a senha.[n][w][e]
 
 [msg MSG_Q78_HINT_OTAKU_070_0_2 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Vamos ver... acho que a senha deveria ser [clr 2]Item de roupa de marca registrada da estrela[n]Lilina [n][clr 27]...[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Vamos ver... acho que a senha deveria ser [clr 2]Item de roupa de marca registrada da estrela[n]Lilina  [clr 27]...[n][w][e]
 
 [msg MSG_Q78_HINT_OTAKU_070_0_3 [Skinny Man]]
 [s][vp 8 2 1 0 0 0]Está certo... o que, então você é realmente[n]um de nós, afinal?[n][w][e]
@@ -278,7 +278,7 @@
 
 [msg MSG_Q76_HINT_OTAKU_000_0 [Skinny Man]]
 [s][vp 8 2 1 0 0 0]As reivindicações de plágio contra Chiyo não[n]são nada, mas mentiras![n][w][e]
-[s][vp 8 2 1 0 0 0]Há uma palavra para isso! É chamado de[n]rastreamento![n]E o rastreamento não é ilegal![n][w][e]
+[s][vp 8 2 1 0 0 0]Há uma palavra para isso! É chamado de[n]rastreamento! E o rastreamento não é ilegal![n][w][e]
 
 [msg MSG_Q76_HINT_OTAKU_010_0 [Plump Man]]
 [s][vp 8 2 1 0 0 0]Eu entendo seu desejo de correr para a[n]defesa dela, mas acalme-se por um momento.[n][w][e]
@@ -420,7 +420,7 @@
 [s][f 4 23 1 5 3 10 0 0][vp 8 2 1 0 5 0]Oh, simhh! Eu sabia! A formação do novo[n]partido de Shido fez com que a taxa mudasse![n][w][e]
 
 [msg MSG_FX_MAN_006_1_0 [Troubled Woman]]
-[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Por favor, você pode parar? Você obteve[n]lucro.[n]Não é suficiente?[n][w][e]
+[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Por favor, você pode parar? Você obteve[n]lucro. Não é suficiente?[n][w][e]
 
 [msg MSG_FX_MAN_006_2_0 [Busy-Looking Young Man]]
 [s][f 4 23 1 5 3 10 0 0][vp 8 2 1 0 5 0]Não, ainda não! Temos que esperar até que[n]duplique em valor! Sim, este país vai mudar![n][w][e]
@@ -715,7 +715,7 @@
 [s][f 4 23 1 10 3 10 0 10][vp 8 2 1 0 10 0]Haha, a maioria dos proprietários de fora da[n]cidade diz isso.[n]Estive aqui minha vida inteira, e até eu[n]acho que é estranho.[n][w][e]
 
 [msg MSG_TAXIUNTENSYU_007_2_0 [Foreign Tourist]]
-[s][f 4 23 1 11 3 10 0 10][vp 8 2 1 0 11 0]Em seguida, eu quero me encontrar... Como se[n]diz...[n]Os ladrões fantasmas?[n][w][e]
+[s][f 4 23 1 11 3 10 0 10][vp 8 2 1 0 11 0]Em seguida, eu quero me encontrar... Como se[n]diz... Os ladrões fantasmas?[n][w][e]
 
 [msg MSG_TAXIUNTENSYU_007_3_0 [Taxi Driver]]
 [s][f 4 23 1 10 3 10 0 10][vp 8 2 1 0 10 0]Não sei se eu puder balançar isso. Qual é o[n]problema com esses caras, de qualquer[n]maneira?[n][w][e]
@@ -831,7 +831,7 @@
 [s][f 4 23 1 7 3 10 0 10][vp 8 2 1 0 7 0]Eu sinto Muito. Os regulamentos de aluguel[n]estipulam sem estadias noturnas...[n][w][e]
 
 [msg MSG_DATESYOUHO_005_2_0 [Drab Man]]
-[s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]É por isso que estou perguntando[n]pessoalmente.[n]Vou te pagar por isso também.[n][w][e]
+[s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]É por isso que estou perguntando[n]pessoalmente. Vou te pagar por isso também.[n][w][e]
 
 [msg MSG_DATESYOUHO_005_3_0 [Innocent-Looking Woman]]
 [s][f 4 23 1 7 3 10 0 10][vp 8 2 1 0 7 0]Você sabe, se você continuar assim por muito[n]tempo, meu chefe poderá fazer um post sobre[n]você no local do Phan...[n][w][e]
@@ -856,7 +856,7 @@
 [s][vp 8 2 1 0 7 0]Eu sei que isso deveria ser pseudo-romance,[n]mas... não posso mais segurar meus[n]sentimentos.[n][w][e]
 
 [msg MSG_DATESYOUHO_007_2_0 [Refreshing Man]]
-[s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]Você sabe... eu sempre pensei que você era[n]fofo também. Claro, serei seu verdadeiro[n]namorado.[n]Eu quero que você me veja por quem eu[n]realmente sou.[n][w][e]
+[s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]Você sabe... eu sempre pensei que você era[n]fofo também. Claro, serei seu verdadeiro[n]namorado. Eu quero que você me veja por quem eu[n]realmente sou.[n][w][e]
 
 [msg MSG_DATESYOUHO_007_3_0 [Innocent-Looking Woman]]
 [s][f 4 23 1 7 3 10 0 10][vp 8 2 1 0 7 0]Sério...? Este é um sonho tornado realidade![n][w][e]
@@ -1367,7 +1367,7 @@
 [s][vp 9 2 65535 39750 0 0]Ninguém tem uma chance contra os ladrões[n]fantasmas![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_003_08_ [Star Lilina]]
-[s][vp 9 2 65535 37556 0 0]Nós realmente devemos isso a aqueles ladrões[n]fantasmas![n]Eles salvaram o Japão![n][f 1 2 180][e]
+[s][vp 9 2 65535 37556 0 0]Nós realmente devemos isso a aqueles ladrões[n]fantasmas! Eles salvaram o Japão![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_003_09_ [Star Lilina]]
 [s][vp 9 2 65535 42906 0 0]O Japão é salvo, graças aos ladrões Phantom![n][f 1 2 180][e]
@@ -1739,7 +1739,7 @@
 [s][vp 9 2 65535 44100 0 0]Eles não sabem mais nada sobre as[n]identidades dos ladrões fantasmas?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_013_08_ [Star Lilina]]
-[s][vp 9 2 65535 44352 0 0]Aquele ladrão fantasma cometeu suicídio,[n]hein?[n]Que maneira lamentável de sair.[n][f 1 2 180][e]
+[s][vp 9 2 65535 44352 0 0]Aquele ladrão fantasma cometeu suicídio,[n]hein? Que maneira lamentável de sair.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_013_09_ [Star Lilina]]
 [s][vp 9 2 65535 45750 0 0]Se esse ladrão fantasma morreu, não haverá[n]mais falhas psicóticas, certo?[n][f 1 2 180][e]

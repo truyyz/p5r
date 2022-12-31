@@ -3,7 +3,7 @@
 
 [msg MSG_LAST_GREETING_GUNSHO [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1168 65535 0]Você estava aqui com Makoto uma vez, certo?[n]Ela com certeza mudou desde aqueles dias.[n][w][e]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0]De qualquer forma... esse cara, Takekuma,[n]foi?[n]Ele deve realmente amar este jogo.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0]De qualquer forma... esse cara, Takekuma,[n]foi? Ele deve realmente amar este jogo.[n][w][e]
 
 [msg MSG_LAST_GREETING_GUNSHO_2 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1168 65535 0]Você estava aqui com Makoto uma vez, certo?[n]Ela com certeza mudou desde aqueles dias.[n][w][e]

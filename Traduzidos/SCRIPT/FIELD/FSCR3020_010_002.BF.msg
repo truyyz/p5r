@@ -88,22 +88,22 @@
 
 [msg MSG_RANK_BLACK [Tanaka]]
 [s][bup 0 210 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]O que você já gastou mais de 10000 ienes![n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Sua classificação de membros agora está[n]preta![n]Agora você pode comprar todos os nossos[n]produtos de camada preta![n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Sua classificação de membros agora está[n]preta! Agora você pode comprar todos os nossos[n]produtos de camada preta![n][w][e]
 
 [msg MSG_RANK_BLACK_NAME_CHAN [Tanaka]]
 [s][bup 0 210 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]O que você já gastou mais de 10000 ienes![n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Sua classificação de membros agora está[n]preta![n]Agora você pode comprar todos os nossos[n]produtos de camada preta![n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Sua classificação de membros agora está[n]preta! Agora você pode comprar todos os nossos[n]produtos de camada preta![n][w][e]
 
 [msg MSG_RANK_UP_01 [Tanaka]]
 [s][bup 0 210 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Mas isso não é tudo...![n][w][e]
 
 [msg MSG_RANK_DARK [Tanaka]]
 [s][bup 0 210 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Você gastou mais de 50000 ienes![n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Sua classificação de membros está agora[n]escura![n]Agora você pode comprar todos os nossos[n]produtos de camada escura![n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Sua classificação de membros está agora[n]escura! Agora você pode comprar todos os nossos[n]produtos de camada escura![n][w][e]
 
 [msg MSG_RANK_DARK_NAME_CHANG [Tanaka]]
 [s][bup 0 210 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Você gastou mais de 50000 ienes![n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Sua classificação de membros está agora[n]escura![n]Agora você pode comprar todos os nossos[n]produtos de camada escura![n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Sua classificação de membros está agora[n]escura! Agora você pode comprar todos os nossos[n]produtos de camada escura![n][w][e]
 
 [msg MSG_RANK_UP_02 [Tanaka]]
 [s][bup 0 210 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Mas espere, há mais...![n][w][e]

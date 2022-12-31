@@ -1,7 +1,7 @@
 [msg MSG_000_0_0 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Hum...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Achei um! Que tal isso?[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]Veja isso! "30000 ienes por dia para pegar[n]peixes..." Localização... "Seas do Japão"[n]para...[n]"nove meses!?" [n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Veja isso! "30000 ienes por dia para pegar[n]peixes..." Localização... "Seas do Japão"[n]para... "nove meses!?" [n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]... isso não nos ajuda![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Eu acho que não existe um trabalho fácil que[n]ganha muito dinheiro.[n][f 1 3 65535][w][e]
 

@@ -203,7 +203,7 @@
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 7048 65535 0]Acho que acabei de ouvir algumas garotas[n]falando sobre os ladrões Phantom...[n]Isso é surpreendente![n][w][e]
 
 [msg MSG_E320102_RYUJI_002_00 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 7157 65535 0]Eles vão nos entender proloricamente, mesmo[n]que conversemos em japonês. Você consegue[n]fazer isso, [n][f 4 2].[n][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 7157 65535 0]Eles vão nos entender proloricamente, mesmo[n]que conversemos em japonês. Você consegue[n]fazer isso, [f 4 2].[n][w][e]
 
 [msg MSG_E320102_YUSUKE_000_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 4021 65535 0]Estou curioso para saber sobre a medida em[n]que as pessoas estão nos discutindo...[n][w][e]

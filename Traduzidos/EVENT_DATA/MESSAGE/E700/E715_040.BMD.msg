@@ -120,10 +120,10 @@
 [s][vp 8 0 0 0 5 0]...Oh sim?[n][f 1 3 65535][w][e]
 
 [msg MSG_035_0_0 [Ohya]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 107 3 300 1][vp 8 2 0 16046 65535 0]Como eu disse, estou aqui em negócios[n]pessoais.[n]Eu prometo![n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 107 3 300 1][vp 8 2 0 16046 65535 0]Como eu disse, estou aqui em negócios[n]pessoais. Eu prometo![n][f 1 3 65535][w][e]
 
 [msg MSG_036_0_0 [Chief]]
-[s][vp 8 0 0 0 5 0]Você perdeu toda a credibilidade quando[n]começou a se esgueirar assim... mas tudo[n]bem.[n]Vou voltar.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 5 0]Você perdeu toda a credibilidade quando[n]começou a se esgueirar assim... mas tudo[n]bem. Vou voltar.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 5 0]Mas não vá puxar coisas engraçadas, ok? O[n]conselho quer que eu fique de olho em você.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 5 0]...Voce foi avisado.[n][f 1 3 65535][w][e]
 

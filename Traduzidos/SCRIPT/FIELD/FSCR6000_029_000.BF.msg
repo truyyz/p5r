@@ -43,7 +43,7 @@
 [msg MSG_168_0_0 [Shadow Kiritani]]
 [s][vp 1 0 0 0 0 0]W-Wait! Ouça o que tenho a dizer![n][w][e]
 [s][vp 1 0 0 0 0 0]As pessoas que mato são todos criminosos![n]Eles escapam da lei e a polícia não pode[n]tocá-los.[n][w][e]
-[s][vp 1 0 0 0 0 0]Eu sou como você Phantom Thieves! Estou[n]trabalhando para me livrar do mal neste[n]mundo![n]Então, deixe-me ir![n][w][e]
+[s][vp 1 0 0 0 0 0]Eu sou como você Phantom Thieves! Estou[n]trabalhando para me livrar do mal neste[n]mundo! Então, deixe-me ir![n][w][e]
 
 [sel SEL_169_0_0 top]
 [s]Você não é o mesmo que nós.[e]

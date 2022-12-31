@@ -17,7 +17,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Então, a humanidade pretende gerar seus[n]próprios universos agora, não é?[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Caroline]]
-[s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Tivemos o suficiente de seus comentários[n]inteligentes![n]Conheça o seu lugar, preso![n][f 1 3 65535][w][e]
+[s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Tivemos o suficiente de seus comentários[n]inteligentes! Conheça o seu lugar, preso![n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Justine]]
 [s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Mais racha e o mistério serão onde a nave[n]desapareceu.[n][f 1 3 65535][w][e]
@@ -30,13 +30,13 @@
 [s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Então, a humanidade pretende gerar seus[n]próprios universos agora, não é?[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Caroline]]
-[s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Tivemos o suficiente de seus comentários[n]inteligentes![n]Conheça o seu lugar, preso![n][f 1 3 65535][w][e]
+[s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Tivemos o suficiente de seus comentários[n]inteligentes! Conheça o seu lugar, preso![n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Justine]]
 [s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Então, a humanidade pretende gerar seus[n]próprios universos agora, não é?[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Caroline]]
-[s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Tivemos o suficiente de seus comentários[n]inteligentes![n]Conheça o seu lugar, preso![n][f 1 3 65535][w][e]
+[s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Tivemos o suficiente de seus comentários[n]inteligentes! Conheça o seu lugar, preso![n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Caroline]]
 [s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Oh? É realmente tão grande?[n][f 1 3 65535][w][e]
@@ -114,7 +114,7 @@
 [s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Você está parando?[n][f 1 3 65535][w][e]
 
 [msg MSG_035_0_0 [Caroline]]
-[s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Quem disse que você poderia parar!? Sem[n]pausas![n]Trabalhe aquela mandíbula![n][f 1 3 65535][w][e]
+[s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Quem disse que você poderia parar!? Sem[n]pausas! Trabalhe aquela mandíbula![n][f 1 3 65535][w][e]
 
 [msg MND_036_0_0]
 [s]Meu estômago vai estourar...[n][f 1 3 65535][w][e]

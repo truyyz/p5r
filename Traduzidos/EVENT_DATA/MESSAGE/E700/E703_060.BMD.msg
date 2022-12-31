@@ -179,7 +179,7 @@
 
 [msg MSG_043_0_0 [Haru]]
 [s][bup 0 7 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 3018 65535 0]De qualquer forma, espero que possa[n]compartilhar com você novamente em outra[n]hora.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Porém, porém, porém... estou bastante[n]cansado.[n]Tudo bem se nos separássemos aqui?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Porém, porém, porém... estou bastante[n]cansado. Tudo bem se nos separássemos aqui?[n][f 1 3 65535][w][e]
 
 [msg MSG_044_0_0 [Haru]]
 [s][vp 8 2 0 3054 65535 0]Bem adeus.[n][f 1 3 65535][w][e]

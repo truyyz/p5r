@@ -28,7 +28,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 65535 1192 0 0]Onde você está indo? Eu pensei que você[n]deveria estar explorando Shibuya...[n][w][e]
 
 [msg MND_E65010100_NG_DENENTO]
-[s][vp 8 2 65535 0 0 0]Se eu quiser ir para Kichijoji, terei que[n]usar o [n][clr 2]Linha inogami [clr 27]...[n][w][e]
+[s][vp 8 2 65535 0 0 0]Se eu quiser ir para Kichijoji, terei que[n]usar o  [clr 2]Linha inogami [clr 27]...[n][w][e]
 
 [msg MND_E14410100_NG_YAMANOT]
 [s][vp 8 2 65535 0 0 0]Por enquanto, é melhor me apressar e[n]encontrar Ann...[n][w][e]

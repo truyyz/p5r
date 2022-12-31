@@ -5,7 +5,7 @@
 [s][f 5 14]Não vamos nos encontrar?[n]Eu posso chegar lá rapidamente de Shibuya.[n][w][e]
 
 [msg MSG_001_1_0 [Yusuke]]
-[s][f 5 14]Simplesmente esperar não é muito[n]divertido.[n]As pessoas assistindo também não se[n]saíram muito bem.[n][w][e]
+[s][f 5 14]Simplesmente esperar não é muito[n]divertido. As pessoas assistindo também não se[n]saíram muito bem.[n][w][e]
 
 [msg MSG_001_2_0 [Yusuke]]
 [s][f 5 14]Estou em Shibuya assistindo pessoas.[n][w][e]
@@ -14,7 +14,7 @@
 [s][f 5 14]Estarei na estação por um tempo, então me[n]avise se algo surgir.[n][f 5 15][w][e]
 
 [msg MSG_MORUGANA [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Parece que Yusuke ainda não voltou para[n]casa.[n]Quer vê-lo um pouco?[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Parece que Yusuke ainda não voltou para[n]casa. Quer vê-lo um pouco?[n][f 1 3 65535][w][e]
 
 [msg MSG_MORUGANA_02 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Parece que Yusuke está em Shibuya.[n]Quer vê-lo um pouco?[n][f 1 3 65535][w][e]

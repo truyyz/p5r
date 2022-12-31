@@ -79,7 +79,7 @@
 [msg MSG_024_0_0 [Futaba]]
 [s][bup 0 8 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 28 65535 0]... desde então... mamãe morreu... havia...[n]Sem saída...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 29 65535 0]... eu estava preso... em um labirinto de...[n]meu coração...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 30 65535 0]Eu sabia que... tinha que deixar isso... mas[n]eu...[n]Eu não poderia fazer isso... sozinho...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 30 65535 0]Eu sabia que... tinha que deixar isso... mas[n]eu... Eu não poderia fazer isso... sozinho...[n][f 1 3 65535][w][e]
 
 [msg MSG_025_0_0 [Sojiro]]
 [s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 0 0 31 65535 0]Futaba...[n][f 1 3 65535][w][e]

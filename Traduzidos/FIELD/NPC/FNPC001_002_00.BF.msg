@@ -147,7 +147,7 @@
 [s][f 4 23 1 20 3 10 0 0][vp 8 2 1 0 20 0]Suponho que há apenas coisas que uma família[n]rica como a sua nunca poderia entender...[n][w][e]
 
 [msg MSG_TUMAARASOI_007_0_0 [Arrogant Housewife]]
-[s][f 4 23 1 19 3 10 0 0][vp 8 2 1 0 19 0]Não posso permitir que meu filho seja[n]chantageado![n]Por que a polícia não está fazendo mais[n]sobre isso!?[n][w][e]
+[s][f 4 23 1 19 3 10 0 0][vp 8 2 1 0 19 0]Não posso permitir que meu filho seja[n]chantageado! Por que a polícia não está fazendo mais[n]sobre isso!?[n][w][e]
 
 [msg MSG_TUMAARASOI_007_1_0 [Modest Housewife]]
 [s][f 4 23 1 20 3 10 0 0][vp 8 2 1 0 20 0]Isso deve ter sido aterrorizante. O que[n]aconteceu?[n][w][e]
@@ -198,7 +198,7 @@
 
 [msg MSG_TUMAARASOI_011_2_0 [Modest Housewife]]
 [s][f 4 23 1 20 3 10 0 0][vp 8 2 1 0 20 0]Tem certeza? Meu marido, ele nunca recebe[n]nenhum pagamento de horas extras, então...[n][w][e]
-[s][vp 8 2 1 0 20 0]Gostaria de saber se eles vão fixar isso no[n]CEO.[n]Ele provavelmente deveria apenas admitir a[n]verdade.[n]OHOHO...[n][w][e]
+[s][vp 8 2 1 0 20 0]Gostaria de saber se eles vão fixar isso no[n]CEO.[n]Ele provavelmente deveria apenas admitir a[n]verdade. OHOHO...[n][w][e]
 
 [msg MSG_TUMAARASOI_012_0_0 [Arrogant Housewife]]
 [s][f 4 23 1 19 3 10 0 0][vp 8 2 1 0 19 0]Ouvi dizer que eles não podem chegar a[n]Okumura...[n]Meu Hubberton está trabalhando até tarde por[n]causa de tudo.[n][w][e]
@@ -220,7 +220,7 @@
 [s][vp 8 2 1 0 20 0]Quero dizer, tenho certeza de que haverá[n]redução maciça, sem mencionar[n]rebaixamentos...[n][w][e]
 
 [msg MSG_TUMAARASOI_013_2_0 [Arrogant Housewife]]
-[s][f 4 23 1 19 3 10 0 0][vp 8 2 1 0 19 0]Mas... meus hubbers acabaram de ser[n]promovidos![n]Droga, ladrões Phantom![n][w][e]
+[s][f 4 23 1 19 3 10 0 0][vp 8 2 1 0 19 0]Mas... meus hubbers acabaram de ser[n]promovidos! Droga, ladrões Phantom![n][w][e]
 
 [msg MSG_TUMAARASOI_014_0_0 [Modest Housewife]]
 [s][f 4 23 1 20 3 10 0 0][vp 8 2 1 0 20 0]A Okumura Foods passou por um verdadeiro[n]patch. Ouvi dizer que a nota de pagamento[n]do seu marido foi severamente reduzida.[n][w][e]
@@ -320,14 +320,14 @@
 [s][vp 8 2 1 0 19 0]Você pode entender o que quero dizer, depois[n]de experimentar a verdadeira felicidade.[n]Hohoho...[n][w][e]
 
 [msg MSG_TUMAARASOI_022_0_0 [Not-So-Modest Housewife]]
-[s][f 4 23 1 20 3 10 0 0][vp 8 2 1 0 20 0]Ouvi dizer que seu marido foi forçado a se[n]aposentar.[n]Isso deve ter sido duro com vocês dois.[n][w][e]
+[s][f 4 23 1 20 3 10 0 0][vp 8 2 1 0 20 0]Ouvi dizer que seu marido foi forçado a se[n]aposentar. Isso deve ter sido duro com vocês dois.[n][w][e]
 
 [msg MSG_TUMAARASOI_022_1_0 [Not-So-Arrogant Housewife]]
 [s][f 4 23 1 19 3 10 0 0][vp 8 2 1 0 19 0]Sim... podemos precisar morar com meus pais.[n]Temporariamente, é claro.[n][w][e]
 
 [msg MSG_TUMAARASOI_022_2_0 [Not-So-Modest Housewife]]
 [s][f 4 23 1 20 3 10 0 0][vp 8 2 1 0 20 0]Bem, se você precisar de eu trazer algo da[n]cidade, não hesite em perguntar.[n][w][e]
-[s][vp 8 2 1 0 20 0]Tenho certeza que você sentirá falta da[n]cidade.[n]OHOHO...[n][w][e]
+[s][vp 8 2 1 0 20 0]Tenho certeza que você sentirá falta da[n]cidade. OHOHO...[n][w][e]
 
 [msg MSG_TUMAARASOI_0504_0_0 [Arrogant Housewife]]
 [s][f 4 23 1 19 3 10 0 0][vp 8 2 1 0 19 0]Seu filho é um estudante Shujin, correto?[n]Onde aquele professor famoso foi preso...[n][w][e]
@@ -352,7 +352,7 @@
 [s][f 4 23 1 21 3 10 0 0][vp 8 2 1 0 21 0]Pare de fazer um barulho! Você está me[n]envergonhando![n][w][e]
 
 [msg MSG_TOKAISOMARU_002_0_0 [Rural Young Man]]
-[s][f 4 23 1 22 3 10 0 0][vp 8 2 1 0 22 0]Esta cidade é pervertida e criminosos[n]perigosos. Não há lugar para pessoas como[n]nós.[n]Vamos para casa.[n][w][e]
+[s][f 4 23 1 22 3 10 0 0][vp 8 2 1 0 22 0]Esta cidade é pervertida e criminosos[n]perigosos. Não há lugar para pessoas como[n]nós. Vamos para casa.[n][w][e]
 
 [msg MSG_TOKAISOMARU_002_1_0 [Adorable Woman]]
 [s][f 4 23 1 21 3 10 0 0][vp 8 2 1 0 21 0]Mas foi meu sonho morar aqui![n]Já solte![n][w][e]
@@ -361,7 +361,7 @@
 [s][f 4 23 1 22 3 10 0 0][vp 8 2 1 0 22 0]Então você só vai jogar tudo fora?[n]Sua herança? Você está em casa?[n][w][e]
 
 [msg MSG_TOKAISOMARU_002_3_0 [Adorable Woman]]
-[s][f 4 23 1 21 3 10 0 0][vp 8 2 1 0 21 0]Eu não estou "jogando fora" nada. Eu disse[n]que voltaria para casa uma vez por ano para[n]visitar.[n]Não é suficiente?[n][w][e]
+[s][f 4 23 1 21 3 10 0 0][vp 8 2 1 0 21 0]Eu não estou "jogando fora" nada. Eu disse[n]que voltaria para casa uma vez por ano para[n]visitar. Não é suficiente?[n][w][e]
 
 [msg MSG_TOKAISOMARU_003_0_0 [Adorable Woman]]
 [s][f 4 23 1 21 3 10 0 0][vp 8 2 1 0 21 0]As lojas de conveniência aqui são tão...[n]Bem, conveniente.[n][w][e]
@@ -515,7 +515,7 @@
 [s][f 4 23 1 22 3 10 0 0][vp 8 2 1 0 22 0]Shido é um homem mau? Deveríamos estar[n]acreditando nos ladrões Phantom?[n][w][e]
 
 [msg MSG_TOKAISOMARU_017_1_0 [Adorable Woman]]
-[s][f 4 23 1 21 3 10 0 0][vp 8 2 1 0 21 0]De qualquer maneira, temos que assistir e[n]esperar.[n]Não há mais nada que possamos fazer.[n][w][e]
+[s][f 4 23 1 21 3 10 0 0][vp 8 2 1 0 21 0]De qualquer maneira, temos que assistir e[n]esperar. Não há mais nada que possamos fazer.[n][w][e]
 
 [msg MSG_TOKAISOMARU_017_2_0 [Rural Young Man]]
 [s][f 4 23 1 22 3 10 0 0][vp 8 2 1 0 22 0]... Eu não sei o que devo estar[n]realizando... me sentindo muito perdido[n]nesta selva concreta.[n][w][e]
@@ -564,7 +564,7 @@
 
 [msg MSG_TOKAISOMARU_021_0_0 [Adorable Woman]]
 [s][f 4 23 1 21 3 10 0 0]......[n][w][e]
-[s][vp 8 2 1 0 21 0]Eu sempre sonhei em viver essa vida de[n]Tóquio.[n]E agora eu posso fazer isso com ele...[n][w][e]
+[s][vp 8 2 1 0 21 0]Eu sempre sonhei em viver essa vida de[n]Tóquio. E agora eu posso fazer isso com ele...[n][w][e]
 [s][vp 8 2 1 0 21 0]Tudo está indo muito bem, mas...[n][w][e]
 [s][vp 8 2 1 0 21 0]*suspiro* Por que eu me sinto tão triste de[n]repente...?[n][w][e]
 
@@ -583,7 +583,7 @@
 [s][vp 8 2 1 0 600 0]É muito picante! Eu tive uma experiência[n]terrível ao comer![n][w][e]
 [s][vp 8 2 1 0 600 0]O interior da minha boca é todo queimado![n]Seu curry agravou minha estomatite![n]Eu não posso nem comer...[n][w][e]
 [s][vp 8 2 1 0 600 0]Ow! Aghhh! Sério dói muito! Você realmente[n]deveria estar vendendo isso para os[n]clientes?[n][w][e]
-[s][vp 8 2 1 0 600 0]Eu quero um pedido de desculpas e um[n]reembolso.[n]Por favor, pegue seu gerente para mim e[n]apresse-o.[n][w][e]
+[s][vp 8 2 1 0 600 0]Eu quero um pedido de desculpas e um[n]reembolso. Por favor, pegue seu gerente para mim e[n]apresse-o.[n][w][e]
 [s][vp 8 2 1 0 600 0]Wha-? Meu primeiro nome é Mitsumi![n]Mitsumi Kure![n][w][e]
 
 [msg MSG_quest05_morgana_01 [Morgana]]
@@ -743,7 +743,7 @@
 [s][vp 8 2 65535 0 0 0]Parece que o cartão de visita foi entregue[n]com segurança.[n][w][e]
 
 [msg Quest15_target_02_00 [Muneo Horiguchi]]
-[s][f 4 23 1 603 3 10 0 0][vp 8 2 1 0 603 0]Meu neto se distanciou completamente de mim[n]agora.[n]Ele nem sequer visitará minha casa.[n][w][e]
+[s][f 4 23 1 603 3 10 0 0][vp 8 2 1 0 603 0]Meu neto se distanciou completamente de mim[n]agora. Ele nem sequer visitará minha casa.[n][w][e]
 [s][vp 8 2 1 0 603 0]Ele ficou cansado de estar comigo porque eu[n]discurso e elogio sobre tudo...[n][w][e]
 [s][vp 8 2 1 0 603 0]A família do meu filho até me disse que sou[n]muito teimosa, que as crianças precisam[n]aprender empatia pelos outros.[n][w][e]
 
@@ -881,7 +881,7 @@
 [s][vp 9 2 65535 41655 0 0]Essas pessoas estão enlouquecendo por causa[n]do estresse?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_001_05_ [Makoto]]
-[s][vp 9 2 65535 38805 0 0]Ugh, é uma dor que está tendo que ir[n]trabalhar.[n]Talvez eu chame de doente...[n][f 1 2 180][e]
+[s][vp 9 2 65535 38805 0 0]Ugh, é uma dor que está tendo que ir[n]trabalhar. Talvez eu chame de doente...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_001_06_ [Makoto]]
 [s][vp 9 2 65535 41852 0 0]É tão chato aqui... eu quero ir para algum[n]lugar divertido.[n][f 1 2 180][e]
@@ -896,7 +896,7 @@
 [s][vp 9 2 65535 37909 0 0]Eu quero ficar rico rápido... alguma boa[n]oportunidade por aí?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_001_10_ [Makoto]]
-[s][vp 9 2 65535 38710 0 0]Ugh, é uma dor que está tendo que ir[n]trabalhar.[n]Talvez eu chame de doente...[n][f 1 2 180][e]
+[s][vp 9 2 65535 38710 0 0]Ugh, é uma dor que está tendo que ir[n]trabalhar. Talvez eu chame de doente...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_001_11_ [Makoto]]
 [s][vp 9 2 65535 44755 0 0]Nada vai mudar... então eu me recuso a levar[n]as coisas a sério.[n][f 1 2 180][e]
@@ -905,7 +905,7 @@
 [s][vp 9 2 65535 41555 0 0]Tudo é tão chato...[n]Quando algo bom vai acontecer?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_001_13_ [Makoto]]
-[s][vp 9 2 65535 37552 0 0]Ugh, é uma dor que está tendo que ir[n]trabalhar.[n]Talvez eu chame de doente...[n][f 1 2 180][e]
+[s][vp 9 2 65535 37552 0 0]Ugh, é uma dor que está tendo que ir[n]trabalhar. Talvez eu chame de doente...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_001_14_ [Makoto]]
 [s][vp 9 2 65535 43952 0 0]Nada de bom acontece... alguém deveria fazer[n]algo sobre isso.[n][f 1 2 180][e]
@@ -1523,7 +1523,7 @@
 [s][vp 9 2 65535 40557 0 0]Vamos lá, ladrões Phantom.[n]Diga algo já...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_012_11_ [Makoto]]
-[s][vp 9 2 65535 43201 0 0]Os ladrões Phantom com certeza estão ficando[n]quietos.[n]O que vai acontecer...?[n][f 1 2 180][e]
+[s][vp 9 2 65535 43201 0 0]Os ladrões Phantom com certeza estão ficando[n]quietos. O que vai acontecer...?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_012_12_ [Makoto]]
 [s][vp 9 2 65535 43455 0 0]Eles não vão nos prejudicar se os ladrões[n]fantasmas revelarem suas verdadeiras[n]identidades, certo?[n][f 1 2 180][e]
@@ -1595,7 +1595,7 @@
 [s][vp 9 2 65535 43400 0 0]Esses ladrões fantasmas são bastante[n]impressionantes![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_014_03_ [Makoto]]
-[s][vp 9 2 65535 38900 0 0]Não acredito que eles derrotaram esses[n]hackers.[n]Eles são tão incríveis![n][f 1 2 180][e]
+[s][vp 9 2 65535 38900 0 0]Não acredito que eles derrotaram esses[n]hackers. Eles são tão incríveis![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_014_04_ [Makoto]]
 [s][vp 9 2 65535 41656 0 0]Os ladrões fantasmas são justiça![n][f 1 2 180][e]
@@ -1844,7 +1844,7 @@
 [s][vp 9 2 65535 39402 0 0]Eu só posso imaginar que eles gostam de[n]assassinar pessoas...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_019_06_ [Makoto]]
-[s][vp 9 2 65535 42057 0 0]Não acredito que eles tiraram a vida de[n]alguém![n]Eles são loucos![n][f 1 2 180][e]
+[s][vp 9 2 65535 42057 0 0]Não acredito que eles tiraram a vida de[n]alguém! Eles são loucos![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_019_07_ [Makoto]]
 [s][vp 9 2 65535 45157 0 0]Que tipo de "mudança de coração" foi essa!?[n]Eles são apenas assassinos![n][f 1 2 180][e]
@@ -1952,7 +1952,7 @@
 [s][vp 9 2 65535 45651 0 0]Por que o governo está em silêncio? Faça[n]alguma coisa![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_021_10_ [Makoto]]
-[s][vp 9 2 65535 43901 0 0]A polícia está demorando muito para[n]responder![n]O que eles estão fazendo...?[n][f 1 2 180][e]
+[s][vp 9 2 65535 43901 0 0]A polícia está demorando muito para[n]responder! O que eles estão fazendo...?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_021_11_ [Makoto]]
 [s][vp 9 2 65535 41401 0 0]Não é o trabalho da polícia lidar com[n]criminosos!?[n][f 1 2 180][e]
@@ -2087,7 +2087,7 @@
 [s][vp 9 2 65535 38453 0 0]Shido-san é o tipo de político que[n]precisamos...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_024_07_ [Makoto]]
-[s][vp 9 2 65535 41300 0 0]O representante Shido só tem essa aura sobre[n]ele.[n]Ele não é como mais ninguém![n][f 1 2 180][e]
+[s][vp 9 2 65535 41300 0 0]O representante Shido só tem essa aura sobre[n]ele. Ele não é como mais ninguém![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_024_08_ [Makoto]]
 [s][vp 9 2 65535 41153 0 0]Estou impressionado. Shido-san é tão jovem,[n]mas ele tem uma visão sólida para o futuro.[n][f 1 2 180][e]
@@ -3053,7 +3053,7 @@
 
 [msg MSG_HOMELESS_NIGHT_005_2 [Homeless Man]]
 [s][vp 8 2 1 0 30 0]Sim, é o que você diz, mas você não vai[n]fazer isso, é?[n][w][e]
-[s][vp 8 2 1 0 30 0]As pessoas podem falar tudo o que quiserem,[n]mas farão as coisas sombrias que querem[n]fazer.[n]Olhe para Madarame.[n][w][e]
+[s][vp 8 2 1 0 30 0]As pessoas podem falar tudo o que quiserem,[n]mas farão as coisas sombrias que querem[n]fazer. Olhe para Madarame.[n][w][e]
 
 [msg MSG_HOMELESS_NIGHT_005_3 [Homeless Man]]
 [s][vp 8 2 1 0 30 0]Digamos apenas um cara magro como você[n]deveria ter cuidado. Este lugar até faria[n]homens crescidos chorarem...[n][w][e]
@@ -3120,7 +3120,7 @@
 [s][vp 8 2 1 0 30 0]O submundo não passa de bandidos agora. É[n]patético. O que aconteceu com o código de[n]honra deles?[n][w][e]
 
 [msg MSG_HOMELESS_NIGHT_007_0 [Homeless Man]]
-[s][vp 8 2 1 0 30 0][f 4 23 1 30 0 10 0 10]Huh, é aquele garoto de coruja noturna[n]novamente.[n]O que quer?[n][w][e]
+[s][vp 8 2 1 0 30 0][f 4 23 1 30 0 10 0 10]Huh, é aquele garoto de coruja noturna[n]novamente. O que quer?[n][w][e]
 
 [sel SEL_HOMELESS_NIGHT_007_0 top]
 [s]Eu só quero conversar um pouco.[e]
@@ -3137,7 +3137,7 @@
 
 [msg MSG_HOMELESS_NIGHT_007_3 [Homeless Man]]
 [s][vp 8 2 1 0 30 0]Os bandidos em Shibuya estão agindo desde[n]que os ladrões fantasmas enviaram o cartão[n]de visita deles.[n][w][e]
-[s][vp 8 2 1 0 30 0]Ah, inferno, não é tudo ruim. Estou me[n]divertindo muito, estou divertindo alguns[n]deles...[n]Heh heh.[n][w][e]
+[s][vp 8 2 1 0 30 0]Ah, inferno, não é tudo ruim. Estou me[n]divertindo muito, estou divertindo alguns[n]deles... Heh heh.[n][w][e]
 
 [msg MSG_HOMELESS_DAY_008_0_0 [Homeless Man]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]Eu sinto que meus amigos estão me[n]evitando... poderia ser por causa de...[n]isso?[n][w][e]

@@ -41,7 +41,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Diga àquele garoto que ele pode ir tomar[n]café aqui sempre que quiser.[n][w][e]
 
 [msg MSG_SOJIRO_DAYTALK_0616_ [Sojiro]]
-[s][bup 0 103 0 65535 0][f 4 23 1 205 33 10 33 10][f 4 23 1 235 31 10 30 10][vp 8 2 1 5020 65535 0][f 4 10 65535 0 0]Dei seu número ao presidente do seu conselho[n]estudantil.[n]Certifique-se de agradecer a ela.[n][w][e]
+[s][bup 0 103 0 65535 0][f 4 23 1 205 33 10 33 10][f 4 23 1 235 31 10 30 10][vp 8 2 1 5020 65535 0][f 4 10 65535 0 0]Dei seu número ao presidente do seu conselho[n]estudantil. Certifique-se de agradecer a ela.[n][w][e]
 
 [msg MSG_SOJIRO_DAYTALK_0712_ [Sojiro]]
 [s][bup 0 103 0 65535 0][f 4 23 1 205 33 10 33 10][f 4 23 1 235 31 10 30 10][vp 8 2 1 5001 65535 0][f 4 10 65535 0 0]Esse é o meu negócio.[n]Não tem nada a ver com você.[n][w][e]
@@ -290,7 +290,7 @@
 [s][bup 0 103 0 65535 0][f 4 23 1 205 33 10 33 10][f 4 23 1 235 31 10 30 10][vp 8 2 1 5153 65535 0][f 4 10 65535 0 0]Todo mundo está falando sobre os ladrões[n]fantasmas. Eles não têm mais nada a[n]dizer...?[n][w][e]
 
 [msg MSG_SOJIRO_NG_D06_3_01 [Sojiro]]
-[s][bup 0 103 5 65535 0][f 4 23 1 205 33 10 33 10][f 4 23 1 235 31 10 30 10][vp 8 2 1 5099 65535 0][f 4 10 65535 0 0]Sua liberdade condicional estava quase no[n]fim.[n]Por que acabou assim...?[n][w][e]
+[s][bup 0 103 5 65535 0][f 4 23 1 205 33 10 33 10][f 4 23 1 235 31 10 30 10][vp 8 2 1 5099 65535 0][f 4 10 65535 0 0]Sua liberdade condicional estava quase no[n]fim. Por que acabou assim...?[n][w][e]
 
 [msg MSG_SOJIRO_NG_D06_3_02 [Sojiro]]
 [s][bup 0 103 0 65535 0][f 4 23 1 205 33 10 33 10][f 4 23 1 235 31 10 30 10][vp 8 2 1 5001 65535 0][f 4 10 65535 0 0]Você disse alguma coisa?[n]Desculpe, eu não estava ouvindo.[n][w][e]
@@ -513,7 +513,7 @@
 [s][bup 0 103 0 65535 0][f 4 23 1 205 33 10 33 10][f 4 23 1 235 31 10 30 10][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Não tenho mais nada que eu possa te ensinar,[n]mas você vai ajudar?[n][w][e]
 
 [msg MND_COOP_DOUZOKUSEI]
-[s]Eu sinto que posso me aproximar de Sojiro[n]graças ao [n][var 2][n]Persona [clr 1][var 5][clr 27]...[n][w][e]
+[s]Eu sinto que posso me aproximar de Sojiro[n]graças ao [n][var 2] Persona [clr 1][var 5][clr 27]...[n][w][e]
 
 [msg MND_COOP_RANKUP_OK]
 [s]Eu sinto que meu vínculo com Sojiro ficará[n]mais forte em breve...[n][w][e]

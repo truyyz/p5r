@@ -30,7 +30,7 @@
 [s][bup 0 3 3 65535 0][f 4 10 65535 0 0][vp 8 0 2 1010 0 3]Ngh... isso não é bom. Não sei dizer quando[n]vai atacar...[n][f 1 3 65535][w][e]
 
 [msg MSG_BTLFLY04_010_002 [Ryuji]]
-[s][bup 0 2 104 65535 0][f 4 10 65535 0 0][vp 8 0 2 1011 0 2]O que você quer dizer com você não pode[n]dizer!?[n]Você tem que nos dizer, Mona![n][f 1 3 65535][w][e]
+[s][bup 0 2 104 65535 0][f 4 10 65535 0 0][vp 8 0 2 1011 0 2]O que você quer dizer com você não pode[n]dizer!? Você tem que nos dizer, Mona![n][f 1 3 65535][w][e]
 
 [msg MSG_BTLFLY04_010_003 [Ann]]
 [s][bup 0 4 104 65535 0][f 4 10 65535 0 0][vp 8 0 2 1012 0 4]Você não pode dizer!? Isso não está ajudando![n]Você tem que nos dizer, Mona![n][f 1 3 65535][w][e]
@@ -76,7 +76,7 @@
 [s][bup 0 3 3 65535 0][f 4 10 65535 0 0][vp 8 0 2 1010 0 3]Ngh... isso não é bom. Não sei dizer quando[n]vai atacar...[n][f 1 3 65535][w][e]
 
 [msg MSG_BTLFLY04_010_002EX [Ryuji]]
-[s][bup 0 2 104 65535 0][f 4 10 65535 0 0][vp 8 0 2 1011 0 2]O que você quer dizer com você não pode[n]dizer!?[n]Você tem que nos dizer, Mona![n][f 1 3 65535][w][e]
+[s][bup 0 2 104 65535 0][f 4 10 65535 0 0][vp 8 0 2 1011 0 2]O que você quer dizer com você não pode[n]dizer!? Você tem que nos dizer, Mona![n][f 1 3 65535][w][e]
 
 [msg MSG_BTLFLY04_010_003EX [Ann]]
 [s][bup 0 4 104 65535 0][f 4 10 65535 0 0][vp 8 0 2 1012 0 4]Você não pode dizer!? Isso não está ajudando![n]Você tem que nos dizer, Mona![n][f 1 3 65535][w][e]

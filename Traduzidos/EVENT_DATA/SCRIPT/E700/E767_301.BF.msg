@@ -57,7 +57,7 @@
 
 [msg MSG_Temple_Scene02_006 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1176 65535 0]Este local no chão... parece um mouse...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Não é como se eu estivesse com fome ou algo[n]assim.[n]Eu não como ratos, entendeu?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Não é como se eu estivesse com fome ou algo[n]assim. Eu não como ratos, entendeu?[n][f 1 3 65535][w][e]
 
 [msg MSG_Temple_Scene02_007 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1176 65535 0]Este local no chão... parece o rosto de[n]alguém...[n][f 1 3 65535][w][e]

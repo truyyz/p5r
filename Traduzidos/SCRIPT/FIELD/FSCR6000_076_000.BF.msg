@@ -36,7 +36,7 @@
 
 [msg MSG_QST_076_11 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 0 0 0]Mas eu podia sentir as emoções de seus[n]personagens através de seus desenhos.[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 0 0 0]Ser capaz de transmitir emoção através da[n]arte...[n]Isso não é talento?[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 0 0 0]Ser capaz de transmitir emoção através da[n]arte... Isso não é talento?[n][w][e]
 
 [msg MSG_QST_076_12 [Shadow Chiyo]]
 [s][vp 1 0 0 0 0 0]Eu, talentoso...? Não sei...[n][w][e]

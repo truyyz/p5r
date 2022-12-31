@@ -138,7 +138,7 @@
 [msg MSG_FUTABA_5 [Futaba]]
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 9030 65535 0]De qualquer forma, obrigado por relaxar![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Hum... isso foi muito mais divertido do que[n]todas as vezes eu já vi isso sozinho.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Eu sei! Talvez possamos ter uma maratona de[n]ficção científica estrangeira em seu quarto[n]algum dia![n]Melhor ansioso por isso![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Eu sei! Talvez possamos ter uma maratona de[n]ficção científica estrangeira em seu quarto[n]algum dia! Melhor ansioso por isso![n][f 1 3 65535][w][e]
 
 [msg MSG_MOVIE_END [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Peculiar como sempre...[n][f 1 3 65535][w][e]

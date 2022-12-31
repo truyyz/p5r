@@ -88,7 +88,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 30 65535 0]Não é de admirar que a polícia esteja tendo[n]problemas para pegá-lo.[n][f 1 3 65535][w][e]
 
 [msg MSG_026_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 31 65535 0]De qualquer forma, você tem algumas tripas[n]sérias.[n]Você não recuou contra aquele hooligan.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 31 65535 0]De qualquer forma, você tem algumas tripas[n]sérias. Você não recuou contra aquele hooligan.[n][f 1 3 65535][w][e]
 
 [msg MSG_027_0_0 [Morgana]]
 [s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 0 0 32 65535 0]Embora ainda não tenhamos acabado com[n]nenhuma nova informação...[n][f 1 3 65535][w][e]

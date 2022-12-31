@@ -16,7 +16,7 @@
 [s][bup 0 2 2 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 31 10 0 10][vp 8 2 1 7046 65535 0]Eu não é como se eu fosse tentar![n][w][e]
 
 [msg MES_GROUP1_01 [Ryuji]]
-[s][bup 0 2 5 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 32 10 0 10][vp 8 2 1 7179 65535 0]Não consigo olhar para isso sem pensar na[n]época em que tivemos que lutar contra[n]Akechi.[n]Ele realmente perdeu lá no final...[n][w][e]
+[s][bup 0 2 5 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 32 10 0 10][vp 8 2 1 7179 65535 0]Não consigo olhar para isso sem pensar na[n]época em que tivemos que lutar contra[n]Akechi. Ele realmente perdeu lá no final...[n][w][e]
 
 [msg MES_GROUP1_02 [Ann]]
 [s][bup 0 4 3 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 0 65535 0]Ele estava passando por muito...[n][w][e]

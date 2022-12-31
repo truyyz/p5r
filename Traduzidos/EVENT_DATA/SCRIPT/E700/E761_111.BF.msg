@@ -21,7 +21,7 @@
 [s][vp 8 2 0 0 65535 0]O banho está me aquecendo...[n][f 1 3 65535][w][e]
 
 [msg MSG_RYUUJI_0_5 [Ryuji]]
-[s][bup 0 2 307 65535 0][f 4 10 65535 0 0][vp 8 2 0 54246 65535 0]Oh, porcaria... estou começando a ficar[n]tonto.[n]Hora de sair.[n][f 1 3 65535][w][e]
+[s][bup 0 2 307 65535 0][f 4 10 65535 0 0][vp 8 2 0 54246 65535 0]Oh, porcaria... estou começando a ficar[n]tonto. Hora de sair.[n][f 1 3 65535][w][e]
 
 [msg MSG_RYUUJI_1_1 [Ryuji]]
 [s][bup 0 2 301 65535 0][f 4 10 65535 0 0][vp 8 2 0 7038 65535 0]É como o céu... ugh, eu pareço um homem[n]velho.[n][f 1 3 65535][w][e]
@@ -36,7 +36,7 @@
 [s][vp 8 2 0 0 65535 0]O banho está me aquecendo...[n][f 1 3 65535][w][e]
 
 [msg MSG_RYUUJI_1_5 [Ryuji]]
-[s][bup 0 2 307 65535 0][f 4 10 65535 0 0][vp 8 2 0 54246 65535 0]Oh, porcaria... estou começando a ficar[n]tonto.[n]Hora de sair.[n][f 1 3 65535][w][e]
+[s][bup 0 2 307 65535 0][f 4 10 65535 0 0][vp 8 2 0 54246 65535 0]Oh, porcaria... estou começando a ficar[n]tonto. Hora de sair.[n][f 1 3 65535][w][e]
 
 [msg MSG_YUUSUKE_0_1 [Yusuke]]
 [s][bup 0 5 701 65535 0][f 4 10 65535 0 0][vp 8 2 0 4107 65535 0]Já faz algum tempo desde a última vez que me[n]entreguei a um banho quente. Eu quase[n]esqueci o quão maravilhoso é![n][f 1 3 65535][w][e]

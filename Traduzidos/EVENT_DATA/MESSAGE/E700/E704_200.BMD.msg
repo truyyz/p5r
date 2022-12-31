@@ -1,5 +1,5 @@
 [msg MSG_000_0_0 [Yusuke]]
-[s][bup 0 5 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 4086 65535 0]Eu sei que minha ligação foi bastante[n]repentina.[n]Eu só posso me desculpar.[n][f 1 3 65535][w][e]
+[s][bup 0 5 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 4086 65535 0]Eu sei que minha ligação foi bastante[n]repentina. Eu só posso me desculpar.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]......[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Já decidimos que vamos nos opor ao Dr.[n]Maruki, então eu sei que é tarde demais[n]para dizer qualquer coisa, mas...[n][f 1 3 65535][w][e]
 
@@ -53,7 +53,7 @@
 
 [msg MSG_013_0_0 [Yusuke]]
 [s][bup 0 5 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Nossos corações estão realmente tão[n]iludidos? Somos tolos o suficiente para nos[n]apegar a essas fantasias equivocadas!?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]... você me oferece misericórdia Eu não[n]mereço![n]Não há beleza nisso![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]... você me oferece misericórdia Eu não[n]mereço! Não há beleza nisso![n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Yusuke]]
 [s][bup 0 5 2 65535 0][f 4 10 65535 0 0][vp 8 2 0 4039 65535 0]Impossível![n][f 1 3 65535][w][e]
@@ -61,7 +61,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Não... eu me recuso a aceitar! Não seria[n]nada além de uma desculpa para o meu[n]fracasso![n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Yusuke]]
-[s][bup 0 5 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Eu era escravo da minha arrogância o tempo[n]todo.[n]Como eu já acreditei no significado da[n]verdadeira beleza ao meu alcance...?[n][f 1 3 65535][w][e]
+[s][bup 0 5 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Eu era escravo da minha arrogância o tempo[n]todo. Como eu já acreditei no significado da[n]verdadeira beleza ao meu alcance...?[n][f 1 3 65535][w][e]
 [s][bup 0 5 2 65535 0][f 4 10 65535 0 0][f 4 24 0 4 6 37 3 100][vp 8 2 0 0 65535 0]Eu era apenas um tolo, perdido em sonhos![n][f 1 3 65535][w][e]
 
 [sel SEL_016_0_0 top]

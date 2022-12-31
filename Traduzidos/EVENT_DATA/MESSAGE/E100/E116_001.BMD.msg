@@ -55,7 +55,7 @@
 [s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Mesmo que você esteja atrás das grades?[n][f 1 3 65535][w][e]
 
 [msg MSG_015_5_0 [Strange Creature]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 3 11 300 1][vp 8 0 0 20 5 0]Isso, uh... eles apenas me pegaram de[n]surpresa![n]Isso é tudo![n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 3 11 300 1][vp 8 0 0 20 5 0]Isso, uh... eles apenas me pegaram de[n]surpresa! Isso é tudo![n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Strange Creature]]
 [s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 0 0 21 5 0]Eu não estou mentindo! É a verdade![n][f 1 3 65535][w][e]

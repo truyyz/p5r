@@ -31,7 +31,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Quero dizer, a idade não tem nada a ver com[n]a limpeza de um quarto![n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Kawakami]]
-[s][bup 0 109 601 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O que isso deveria significar?[n]Eu sou um manequim, eu simplesmente não[n]entendi.[n][clr 2][f 1 9 0][clr 27][n][f 1 3 65535][w][e]
+[s][bup 0 109 601 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O que isso deveria significar?[n]Eu sou um manequim, eu simplesmente não[n]entendi. [clr 2][f 1 9 0][clr 27][n][f 1 3 65535][w][e]
 
 [msg MSG_006_5_0 [Kawakami]]
 [s][bup 0 109 602 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Estou brincando. Às vezes eu sinto que[n]esse trabalho está me deixando mais burro,[n]no entanto...[n][f 1 3 65535][w][e]

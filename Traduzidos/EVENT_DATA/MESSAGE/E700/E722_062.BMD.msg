@@ -23,7 +23,7 @@
 [s][bup 0 10 903 65535 0][f 4 10 65535 0 0][vp 8 2 0 57189 65535 0]Bem, sim... mas mesmo assim, como posso me[n]perdoar?[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Sumire]]
-[s][bup 0 10 903 65535 0][f 4 10 65535 0 0][vp 8 2 0 57040 65535 0]... eu aprecio o que você está dizendo,[n]mas...[n]Eu ainda não posso me perdoar.[n][f 1 3 65535][w][e]
+[s][bup 0 10 903 65535 0][f 4 10 65535 0 0][vp 8 2 0 57040 65535 0]... eu aprecio o que você está dizendo,[n]mas... Eu ainda não posso me perdoar.[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Sumire]]
 [s][bup 0 10 903 65535 0][f 4 10 65535 0 0][vp 8 2 0 57180 65535 0]Sim... eu tenho que refletir sobre tudo o[n]que fiz de errado.[n][f 1 3 65535][w][e]

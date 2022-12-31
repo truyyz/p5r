@@ -32,7 +32,7 @@
 [s]Duvido que você possa dormir nele como está.[n]Talvez eu devesse ter limpado antes de[n]chegar aqui...[n][w][e]
 
 [msg fev0409_10_NG_mes02 [Sojiro]]
-[s][bup 0 103 0 0 0]De qualquer forma, estou ocupado aqui com a[n]loja.[n]Suba no andar de cima.[n][w][e]
+[s][bup 0 103 0 0 0]De qualquer forma, estou ocupado aqui com a[n]loja. Suba no andar de cima.[n][w][e]
 
 [msg fev0409_11_1F_NG_mes01]
 [s]It seems like the café is closed.[n][w][e]

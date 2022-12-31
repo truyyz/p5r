@@ -410,7 +410,7 @@
 [s]Deus fodendo caramba! Acabei de ter as[n]melhores letras malditas aparecendo na[n]minha cabeça e agora elas se foram, graças[n]a você![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_08]
-[s]... então, por que você está vindo depois de[n]mim?[n]Não há pessoas piores por aí?[n][w][e]
+[s]... então, por que você está vindo depois de[n]mim? Não há pessoas piores por aí?[n][w][e]
 [s]Que tipo de cara te irritam?[n][w][e]
 
 [sel TalkSel_GUY_CHAT_FQ_08 top]
@@ -476,7 +476,7 @@
 [s]Me desculpe.[e]
 
 [msg TalkMsg_GUY_CHAT_SQ_01_R]
-[s]Acho que temos que concordar em discordar[n]então![n]Hahaha![n][w][e]
+[s]Acho que temos que concordar em discordar[n]então! Hahaha![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_01_R_2]
 [s]... É muito estranho, no entanto.[n][w][e]
@@ -1247,13 +1247,13 @@
 [s]... Então você está dizendo isso e apenas se[n]afasta de todos os seus problemas?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_14_R_11]
-[s]Você quer dizer porque você não quer ser[n]sobrecarregado pela vida inteira de outra[n]pessoa?[n]Sim, eu entendo você...[n][w][e]
+[s]Você quer dizer porque você não quer ser[n]sobrecarregado pela vida inteira de outra[n]pessoa? Sim, eu entendo você...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_14_R_12]
 [s]*suspiro* falando para pessoas negativas[n]sempre me derrubam...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_14_R_13]
-[s]Você está tentando esconder algo embaraçoso[n]'?[n]You got a fiancée?[n][w][e]
+[s]Você está tentando esconder algo embaraçoso[n]'? You got a fiancée?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_14_R_14]
 [s]Oh, desculpe... isso deveria significar algo[n]bom?[n][w][e]
@@ -1323,7 +1323,7 @@
 
 [msg TalkMsg_GUY_CHAT_SQ_16]
 [s]... Olha, eu terminei. Não há como eu sair[n]disso.[n][w][e]
-[s]A vida não é nada além de dor de qualquer[n]maneira.[n]Apenas faça o que quiser.[n][w][e]
+[s]A vida não é nada além de dor de qualquer[n]maneira. Apenas faça o que quiser.[n][w][e]
 
 [sel TalkSel_GUY_CHAT_SQ_16 top]
 [s]Como o quê?[e]
@@ -1419,22 +1419,22 @@
 
 [msg TalkMsg_GUY_NEGO_REQUIRE_2]
 [s]*tosse* acho que estou chegando com a[n]gripe...[n][w][e]
-[s]Eu recebi um pedido antes de você colocar um[n]boné em mim- você conseguiu um deles [n][f 2 5 3 9999 4][n]coisas?[n][w][e]
+[s]Eu recebi um pedido antes de você colocar um[n]boné em mim- você conseguiu um deles [n][f 2 5 3 9999 4] coisas?[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_REQUIRE_3]
 [s]...Tempo esgotado! Meus olhos estão super[n]com coceira de todo esse pólen efin '![n][w][e]
-[s]Eu recebi um pedido antes de você colocar um[n]boné em mim- você conseguiu um deles [n][f 2 5 3 9999 4][n]coisas?[n][w][e]
+[s]Eu recebi um pedido antes de você colocar um[n]boné em mim- você conseguiu um deles [n][f 2 5 3 9999 4] coisas?[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_REQUIRE_4]
 [s]...Resistir. Você quer dizer que você me[n]quer até outras sombras?[n][w][e]
-[s]Eu estaria carne morta se eles[n]descobrissem... mas você poderia mudar de[n]idéia com um bom ol ' [n][f 2 5 3 9999 4].[n][w][e]
+[s]Eu estaria carne morta se eles[n]descobrissem... mas você poderia mudar de[n]idéia com um bom ol ' [f 2 5 3 9999 4].[n][w][e]
 
 [sel TalkSel_GUY_NEGO_REQUIRE top]
 [s]Entregue [e]
 [s]Não entregue [e]
 
 [msg TalkMsg_GUY_NEGO_PAYFOR_]
-[s]Tudo bem, estou confiando em você... aqui[n]está [n][var 0]Yen.[n][w][e]
+[s]Tudo bem, estou confiando em você... aqui[n]está  [var 0]Yen.[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_PAYFOR__2]
 [s]Esse deveria ser o meu dinheiro para o[n]almoço, mas você sabe, que diabos.[n]Aqui está [var 0]Yen.[n][w][e]

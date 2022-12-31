@@ -1,6 +1,6 @@
 [msg MSG_000_0_0 [Shinya]]
 [s][bup 0 110 3 0 0][f 4 10 65535 0 0][vp 8 2 0 17019 65535 0]Não consigo parar de pensar na minha batalha[n]com Takekuma...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Quero dizer, eu não poderia fazer nada com[n]ele...[n]Não há como.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Quero dizer, eu não poderia fazer nada com[n]ele... Não há como.[n][f 1 3 65535][w][e]
 
 [sel SEL_001_0_0 top]
 [s][f 0 8 2 1 2217]Foi muito estranho.[clr 27][e]

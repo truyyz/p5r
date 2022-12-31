@@ -85,7 +85,7 @@
 [msg MSG_022_0_0 [Ms. Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ok, quieto. Você tem exames chegando a[n]partir da próxima quarta-feira.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]... um cartão de chamada? Phantom ladrões[n]que roubam o coração das pessoas? Vocês,[n]filhos, gostam de seus rumores...[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Acho que tínhamos coisas assim quando eu[n]também era jovem. Hanako-san, capa[n]vermelha...[n]Mestre Joker, é claro...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Acho que tínhamos coisas assim quando eu[n]também era jovem. Hanako-san, capa[n]vermelha... Mestre Joker, é claro...[n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Ms. Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ah, e conversando! Eles foram[n]comercializados como brinquedos para[n]crianças. Alguém se lembra disso?[n][f 1 3 65535][w][e]
@@ -128,7 +128,7 @@
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Deus, eles são magníficos![n]No momento em que os vi, eu sabia que ele[n]era outra coisa.[n][f 1 3 65535][w][e]
 
 [msg MSG_034_0_0 [Mr. Inui]]
-[s][bup 0 302 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]A propósito, você parece muito longe das[n]artes, [n][f 4 1]-kun.[n][f 1 3 65535][w][e]
+[s][bup 0 302 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]A propósito, você parece muito longe das[n]artes,  [f 4 1]-kun.[n][f 1 3 65535][w][e]
 
 [msg MSG_035_0_0 [Mr. Inui]]
 [s][bup 0 302 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37105 65535 0]Você sabe quem criou a peça que vendeu pelo[n]preço mais alto no século XX?[n][f 1 3 65535][w][e]
@@ -526,7 +526,7 @@
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]As palavras de Okumura são uma filosofia[n]sobre a própria vida! Como ela poderia[n]vender isso para uma loja de segunda mão?[n][f 1 3 65535][w][e]
 
 [msg MSG_134_0_0 [Mr. Inui]]
-[s][bup 0 302 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas, em momentos como esses, ter a mente de[n]mudar de marcha é fundamental. Você não[n]concorda, [n][f 4 1]-kun?[n][f 1 3 65535][w][e]
+[s][bup 0 302 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas, em momentos como esses, ter a mente de[n]mudar de marcha é fundamental. Você não[n]concorda, [f 4 1]-kun?[n][f 1 3 65535][w][e]
 
 [msg MSG_135_0_0 [Mr. Inui]]
 [s][bup 0 302 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37104 65535 0]As lojas de segunda mão também são[n]conhecidas como brechós. Você sabe quando[n]os primeiros apareceram?[n][f 1 3 65535][w][e]
@@ -1478,7 +1478,7 @@
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]É raro ver um artista como ele, em um campo[n]conhecido por ter muitos tipos excêntricos.[n][f 1 3 65535][w][e]
 
 [msg MSG_364_0_0 [Mr. Inui]]
-[s][bup 0 302 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]A propósito, você parece muito longe das[n]artes, [n][f 4 1]-kun.[n][f 1 3 65535][w][e]
+[s][bup 0 302 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]A propósito, você parece muito longe das[n]artes,  [f 4 1]-kun.[n][f 1 3 65535][w][e]
 
 [msg MSG_365_0_0 [Mr. Inui]]
 [s][bup 0 302 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37105 65535 0]Qual é dito que o famoso artista do UKIYO-E[n]do período Edo mudou a residência mais de[n]100 vezes?[n][f 1 3 65535][w][e]
@@ -1647,7 +1647,7 @@
 [msg MSG_403_0_0 [Maruki]]
 [s][bup 0 216 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]É uma estrutura governamental que une seu[n]povo sob uma única ideologia e controle[n]autoritário das massas.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Em teoria, reúne as pessoas sob um ideal.[n]Isso definitivamente vem com benefícios[n]logísticos...[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Mas também significa forçar ideais para as[n]pessoas.[n]Assimilando os que não estão dispostos.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Mas também significa forçar ideais para as[n]pessoas. Assimilando os que não estão dispostos.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]E é assim que as guerras começam.[n][f 1 3 65535][w][e]
 
 [msg MSG_404_0_0 [Maruki]]
@@ -1946,7 +1946,7 @@
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]As palavras de Okumura são uma filosofia[n]sobre a própria vida! Como ela poderia[n]vender isso para uma loja de segunda mão?[n][f 1 3 65535][w][e]
 
 [msg MSG_474_0_0 [Mr. Inui]]
-[s][bup 0 302 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas, em momentos como esses, ter a mente de[n]mudar de marcha é fundamental. Você não[n]concorda, [n][f 4 1]-kun?[n][f 1 3 65535][w][e]
+[s][bup 0 302 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas, em momentos como esses, ter a mente de[n]mudar de marcha é fundamental. Você não[n]concorda, [f 4 1]-kun?[n][f 1 3 65535][w][e]
 
 [msg MSG_475_0_0 [Mr. Inui]]
 [s][bup 0 302 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Uma loja de segunda mão é principalmente[n]destinada à venda de mercadorias e apoio a[n]causas de caridade, mas...[n][f 1 3 65535][w][e]

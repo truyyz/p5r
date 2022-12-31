@@ -150,7 +150,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 58 65535 0]Para o inferno, segurando-se![n][f 1 3 65535][w][e]
 
 [msg MSG_040_0_0 [Akechi]]
-[s][bup 0 217 101 65535 0][f 4 10 65535 0 0][vp 8 0 0 59 65535 0]Ah... apenas imaginando que envia calafrios[n]na minha espinha... o que Shido pensa de[n]mim?[n]Haha! Eu não dou a mínima...[n][f 1 3 65535][w][e]
+[s][bup 0 217 101 65535 0][f 4 10 65535 0 0][vp 8 0 0 59 65535 0]Ah... apenas imaginando que envia calafrios[n]na minha espinha... o que Shido pensa de[n]mim? Haha! Eu não dou a mínima...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 60 65535 0]Tudo o que me preocupo agora está te[n]matando...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 61 65535 0]... para provar que sou melhor do que você![n][f 1 3 65535][w][e]
 

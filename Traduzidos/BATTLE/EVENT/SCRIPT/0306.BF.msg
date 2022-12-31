@@ -575,7 +575,7 @@
 [s][bup 0 8 602 65535 0][f 4 10 65535 0 0][vp 8 0 2 1100 0 8]Não! Com eles, mesmo o impossível pode ser[n]possível![n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_EX_FUTABA_REACTI_11 [Futaba]]
-[s][bup 0 8 602 65535 0][f 4 10 65535 0 0][vp 8 0 2 1087 0 8]É verdade. Essa nota foi uma mentira[n]completa![n]Minha mãe não cometeu suicídio![n][f 1 3 65535][w][e]
+[s][bup 0 8 602 65535 0][f 4 10 65535 0 0][vp 8 0 2 1087 0 8]É verdade. Essa nota foi uma mentira[n]completa! Minha mãe não cometeu suicídio![n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_EX_FUTABA_REACTI_12 [Futaba]]
 [s][bup 0 8 602 65535 0][f 4 10 65535 0 0][vp 8 0 2 1100 0 8]Não! Com eles, mesmo o impossível pode ser[n]possível![n][f 1 3 65535][w][e]

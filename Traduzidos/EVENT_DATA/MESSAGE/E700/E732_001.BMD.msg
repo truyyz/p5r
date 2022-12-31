@@ -87,7 +87,7 @@
 
 [msg MSG_021_0_0 [Ms. Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15131 65535 0]Como você ouviu na semana passada, a aula de[n]ginástica é cancelada hoje. Em vez disso,[n]devo lhe dar alguma orientação.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]A essência é: não saia falando sobre o[n]incidente.[n]Isso é tudo.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]A essência é: não saia falando sobre o[n]incidente. Isso é tudo.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]A polícia ainda está investigando o Sr.[n]Kamoshida, então não posso dizer nada[n]sozinho.[n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Ms. Kawakami]]
@@ -115,7 +115,7 @@
 [msg MSG_028_0_0 [Ms. Chouno]]
 [s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37206 65535 0]Um político carismático pode deixar os[n]jovens apáticos animados, HM?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]O Sr. Shido não apenas tem bom julgamento e[n]decisividade, mas também tem qualidades[n]importantes como líder.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Como habilidades de comunicação. Você não[n]acha que as palavras dele são fáceis de[n]entender?[n]Seus discursos não ressoam com você?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Como habilidades de comunicação. Você não[n]acha que as palavras dele são fáceis de[n]entender? Seus discursos não ressoam com você?[n][f 1 3 65535][w][e]
 
 [msg MSG_029_0_0 [Ann]]
 [s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]façade. They don't know it's all lies![n][f 1 3 65535][w][e]
@@ -221,7 +221,7 @@
 [msg MSG_053_0_0 [Ms. Chouno]]
 [s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37206 65535 0]Um político carismático pode deixar os[n]jovens apáticos animados, HM?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]O Sr. Shido não apenas tem bom julgamento e[n]decisividade, mas também tem qualidades[n]importantes como líder.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Como habilidades de comunicação. Você não[n]acha que as palavras dele são fáceis de[n]entender?[n]Seus discursos não ressoam com você?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Como habilidades de comunicação. Você não[n]acha que as palavras dele são fáceis de[n]entender? Seus discursos não ressoam com você?[n][f 1 3 65535][w][e]
 
 [msg MSG_054_0_0 [Ann]]
 [s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]his façade. They don't know it's[n]... todo mundo está sendo enganado por todas[n]as mentiras...[n][f 1 3 65535][w][e]

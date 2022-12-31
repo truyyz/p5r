@@ -93,7 +93,7 @@
 [s]Bem-vindo à nossa bilheteria de loteria![n]O que você gostaria de fazer?[n][w][e]
 
 [msg MSG_LOTSHOP_START_Shop2 [Lottery Attendant]]
-[s]Você está procurando comprar um bilhete de[n]loteria?[n]Os alunos também podem comprar um![n][w][e]
+[s]Você está procurando comprar um bilhete de[n]loteria? Os alunos também podem comprar um![n][w][e]
 
 [msg MSG_LotShop_End_OnlyNorm [Lottery Attendant]]
 [s]Obrigado pela sua compra.[n][w][e]
@@ -106,7 +106,7 @@
 [msg MSG_LotShop_End_Double [Lottery Attendant]]
 [s]Obrigado pela sua compra.[n][w][e]
 [s]O resultado da loteria gigantesca do verão[n]será anunciado em 22/08![n][w][e]
-[s]O resultado do bilhete de loteria que você[n]acabou de comprar hoje será anunciado em[n]uma semana, em [n][var 0]/ [var 1].[n][w][e]
+[s]O resultado do bilhete de loteria que você[n]acabou de comprar hoje será anunciado em[n]uma semana, em [var 0]/ [var 1].[n][w][e]
 
 [msg MSG_LotShop_SummerLotInf [Lottery Attendant]]
 [s][clr 2]Loteria gigantesca de verão [clr 27]Os ingressos já estão à venda! Venha e[n]compre um![n][w][e]
@@ -271,7 +271,7 @@
 [s]Esta parece ser uma área de fumantes. Não é[n]lugar para os menores ficarem por aí...[n][w][e]
 
 [msg MSG_MIYASITA_NG_MORU [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1171 65535 0]Não há nada que você precise fazer aqui,[n]certo?[n]Vamos a algum outro lugar![n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1171 65535 0]Não há nada que você precise fazer aqui,[n]certo? Vamos a algum outro lugar![n][w][e]
 
 [msg MSG_MIYASITA_NG]
 [s]Não há nada que eu precise fazer aqui. Eu[n]deveria voltar...[n][w][e]
@@ -477,11 +477,11 @@
 
 [msg MND_E10920100_CHK_GUIDE_]
 [s][vp 1 0 0 0 0 0]Há um mapa-guia da área.[n][w][e]
-[s][vp 1 0 0 0 0 0]A plataforma para a linha Ginza é [clr 2]Dentro do edifício Teikyu, que fica ao lado[n]aqui [n][clr 27]...[n][w][e]
+[s][vp 1 0 0 0 0 0]A plataforma para a linha Ginza é [clr 2]Dentro do edifício Teikyu, que fica ao lado[n]aqui  [clr 27]...[n][w][e]
 
 [msg MND_E12710100_CHK_GUIDE_]
 [s][vp 1 0 0 0 0 0]Há um mapa-guia da área.[n][w][e]
-[s][vp 1 0 0 0 0 0]A plataforma para a linha Ginza é [clr 2]Dentro do edifício Teikyu, que fica ao lado[n]aqui [n][clr 27]...[n][w][e]
+[s][vp 1 0 0 0 0 0]A plataforma para a linha Ginza é [clr 2]Dentro do edifício Teikyu, que fica ao lado[n]aqui  [clr 27]...[n][w][e]
 
 [msg MND_E14410100_CHK_GUIDE_]
 [s][vp 1 0 0 0 0 0]É melhor eu me apressar e encontrar Ann...[n][w][e]

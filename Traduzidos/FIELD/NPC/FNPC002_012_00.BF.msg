@@ -609,7 +609,7 @@
 [s][vp 9 2 65535 42713 0 0]Se você se envolver com esse cara, quem sabe[n]o que vai acontecer...?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_102_06_]
-[s][vp 9 2 65535 42813 0 0]Ouvi dizer que ele sempre carrega uma faca[n]nele.[n]Isso é tão assustador...[n][f 1 2 180][e]
+[s][vp 9 2 65535 42813 0 0]Ouvi dizer que ele sempre carrega uma faca[n]nele. Isso é tão assustador...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_103_01_]
 [s][vp 9 2 65535 42302 0 0]A polícia está realmente aqui... isso está[n]se transformando em um grande negócio.[n][f 1 2 180][e]
@@ -890,5 +890,5 @@
 
 [msg MSG_VALLEY_NPC03_002_02_ [Serious-Looking Student]]
 [s][f 4 23 1 6 3 10 0 10][vp 8 2 1 0 6 0]Ah, certo- todos os golpes e chantagem,[n]certo? Eu vi algo sobre isso nas notícias.[n][w][e]
-[s][vp 8 2 1 0 6 0]Também ouvi dizer que há algumas pessoas[n]obscuras tentando contratar garotas... quem[n]sabe o quê.[n]Parece assustador.[n][w][e]
+[s][vp 8 2 1 0 6 0]Também ouvi dizer que há algumas pessoas[n]obscuras tentando contratar garotas... quem[n]sabe o quê. Parece assustador.[n][w][e]
 

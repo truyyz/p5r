@@ -83,7 +83,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 26 65535 0]Parece que vou participar do projeto da[n]cadeia de café, mesmo enquanto estou na[n]faculdade.[n][f 1 3 65535][w][e]
 
 [msg MSG_025_0_0 [Haru]]
-[s][bup 0 7 0 4 0][f 4 10 65535 0 0][vp 8 0 0 27 65535 0]A partir de abril, estarei no meu caminho[n]para me tornar um membro pleno da[n]sociedade...[n]Eu vou ficar bem?[n][f 1 3 65535][w][e]
+[s][bup 0 7 0 4 0][f 4 10 65535 0 0][vp 8 0 0 27 65535 0]A partir de abril, estarei no meu caminho[n]para me tornar um membro pleno da[n]sociedade... Eu vou ficar bem?[n][f 1 3 65535][w][e]
 
 [sel SEL_026_0_0 top]
 [s][f 0 8 2 1 2217]Tenho certeza que você vai.[clr 27][e]

@@ -406,7 +406,7 @@
 [s][bup 0 6 1 65535 0][f 4 23 1 202 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Hum... se estiver certo com você,[n]poderíamos... estar juntos?[n][w][e]
 
 [msg MND_COOP_DOUZOKUSEI]
-[s]Eu sinto que posso me aproximar de Makoto[n]graças ao [n][var 2][n]Persona [clr 1][var 5][clr 27]...[n][w][e]
+[s]Eu sinto que posso me aproximar de Makoto[n]graças ao [n][var 2] Persona [clr 1][var 5][clr 27]...[n][w][e]
 
 [msg MND_COOP_RANKUP_OK]
 [s]Eu sinto que meu vínculo com Makoto ficará[n]mais forte em breve...[n][w][e]
@@ -779,7 +779,7 @@
 [s][bup 0 6 0 65535 0][f 4 23 1 202 3 10 0 10][f 4 10 65535 0 0][vp 8 0 1 45 65535 0]Minha irmã e eu realmente vamos olhar para o[n]meu novo lugar em breve.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 46 65535 0]Há um ano, tudo isso teria sido impensável[n]para mim.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 47 65535 0]Mas ninguém me disse para fazer isso.[n]É um caminho que escolhi para mim.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 1 48 65535 0]Claro, eu nunca teria chegado a esse ponto[n]sozinho. Você me deu o empurrão que eu[n]precisava, [n][f 4 2]...[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 1 48 65535 0]Claro, eu nunca teria chegado a esse ponto[n]sozinho. Você me deu o empurrão que eu[n]precisava, [f 4 2]...[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 49 65535 0]Naquela época, eu era apenas mais um[n]estudante de honra. Encontrar você me[n]ajudou a mudar a maneira como eu me defino.[n][w][e]
 
 [msg MSG_C02_BYEGREET_00_06_5 [Makoto]]

@@ -81,7 +81,7 @@
 
 [msg MSG_MUSICIAN_004_0_0 [Young Rocker]]
 [s][vp 8 2 1 0 10 0]Um grande artista que rouba os outros- um[n]mal que rivaliza com shows de variedades.[n]Nosso mundo está cheio de falsificações...[n][w][e]
-[s][vp 8 2 1 0 10 0]É por isso que derramei minha alma nessa[n]música- para ajudar a restaurar nossa[n]esperança.[n]Eu te dou... "Glória falsa"![n][w][e]
+[s][vp 8 2 1 0 10 0]É por isso que derramei minha alma nessa[n]música- para ajudar a restaurar nossa[n]esperança. Eu te dou... "Glória falsa"![n][w][e]
 
 [msg MSG_MUSICIAN_004_1_0 [Young Rocker]]
 [s][vp 8 2 65535 0 0 0][f 4 25 1 10 0 65535]Fake, Shake, Fake Shake, Fake, Shake [n][w][e]
@@ -803,7 +803,7 @@
 
 [msg MSG_TEREBIKAMERA_005_3_0 [Aggressive Reporter]]
 [s][f 4 23 1 37 9 5 5 20][vp 8 2 1 0 37 0]Você ouve o que ele está dizendo?[n][w][e]
-[s][vp 8 2 1 0 37 0]Tendo se cansado de nossa sociedade, os[n]jovens de hoje estão esperando[n]silenciosamente para ver o que vai[n]acontecer.[n][w][e]
+[s][vp 8 2 1 0 37 0]Tendo se cansado de nossa sociedade, os[n]jovens de hoje estão esperando[n]silenciosamente para ver o que vai acontecer.[n][w][e]
 
 [msg MSG_TEREBIKAMERA_005_4_0 [Aggressive Reporter]]
 [s][vp 8 2 1 0 37 0]O Japão moderno rouba os jovens de sua[n]esperança, e a política suja lança uma[n]sombra escura sobre todos nós.[n][w][e]
@@ -1577,7 +1577,7 @@
 
 [msg MSG_DEMOKATUDO_015_0_0 [Man with Clear Eyes]]
 [s][f 4 23 1 45 2 10 0 0][vp 8 2 1 0 45 0]*suspiro* O Deus do Sol se escondeu...[n][w][e]
-[s][vp 8 2 1 0 45 0]A onda da escuridão se espalha... Deus do[n]sol...[n]por favor volte...[n][w][e]
+[s][vp 8 2 1 0 45 0]A onda da escuridão se espalha... Deus do[n]sol... por favor volte...[n][w][e]
 
 [sel SEL_DEMOKATUDO_015_0_0 top]
 [s]Parece difícil.[e]
@@ -1758,7 +1758,7 @@
 [s][vp 9 2 65535 37602 0 0]Eles apenas perdem a consciência de repente.[n]Não há como evitar isso...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_002_03_ [Man with Clear Eyes]]
-[s][vp 9 2 65535 39702 0 0]Ultimamente, houve tantos incidentes[n]estranhos.[n]Vamos nos apressar em casa...[n][f 1 2 180][e]
+[s][vp 9 2 65535 39702 0 0]Ultimamente, houve tantos incidentes[n]estranhos. Vamos nos apressar em casa...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_002_04_ [Man with Clear Eyes]]
 [s][vp 9 2 65535 40602 0 0]Gostaria de saber o que vai acontecer a[n]seguir. Tudo isso é muito irritante...[n][f 1 2 180][e]
@@ -2079,7 +2079,7 @@
 [s][vp 9 2 65535 37501 0 0]Ele estava ganhando dinheiro com a arte que[n]roubou de artistas reais... que desprezo.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_006_02_ [Man with Clear Eyes]]
-[s][vp 9 2 65535 37551 0 0]Ele explorou seus alunos e roubou o trabalho[n]deles.[n]Você pode acreditar nisso!?[n][f 1 2 180][e]
+[s][vp 9 2 65535 37551 0 0]Ele explorou seus alunos e roubou o trabalho[n]deles. Você pode acreditar nisso!?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_006_03_ [Man with Clear Eyes]]
 [s][vp 9 2 65535 37653 0 0]Você viu essa conferência de imprensa? Eu ri[n]tanto![n][f 1 2 180][e]
@@ -2370,7 +2370,7 @@
 [s][vp 9 2 65535 37551 0 0]Vamos lá, ladrões Phantom. Diga algo já...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_012_03_ [Man with Clear Eyes]]
-[s][vp 9 2 65535 37652 0 0]Os ladrões Phantom com certeza estão ficando[n]quietos.[n]O que vai acontecer...?[n][f 1 2 180][e]
+[s][vp 9 2 65535 37652 0 0]Os ladrões Phantom com certeza estão ficando[n]quietos. O que vai acontecer...?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_012_04_ [Man with Clear Eyes]]
 [s][vp 9 2 65535 37704 0 0]O Japão está sendo alvo.[n]Eu realmente espero que eles façam algo a[n]respeito.[n][f 1 2 180][e]
@@ -2394,7 +2394,7 @@
 [s][vp 9 2 65535 38205 0 0]O que os ladrões fantasmas estão fazendo...?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_012_11_ [Man with Clear Eyes]]
-[s][vp 9 2 65535 38254 0 0]Os ladrões Phantom com certeza estão ficando[n]quietos.[n]O que vai acontecer...?[n][f 1 2 180][e]
+[s][vp 9 2 65535 38254 0 0]Os ladrões Phantom com certeza estão ficando[n]quietos. O que vai acontecer...?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_012_12_ [Man with Clear Eyes]]
 [s][vp 9 2 65535 38354 0 0]Eles vão nos poupar se os ladrões fantasmas[n]revelarem suas identidades?[n][f 1 2 180][e]
@@ -2406,7 +2406,7 @@
 [s][vp 9 2 65535 38501 0 0]O que os ladrões fantasmas estão fazendo...?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_012_15_ [Man with Clear Eyes]]
-[s][vp 9 2 65535 38554 0 0]Os ladrões Phantom com certeza estão ficando[n]quietos.[n]O que vai acontecer...?[n][f 1 2 180][e]
+[s][vp 9 2 65535 38554 0 0]Os ladrões Phantom com certeza estão ficando[n]quietos. O que vai acontecer...?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_012_16_ [Man with Clear Eyes]]
 [s][vp 9 2 65535 38654 0 0]Eles não vão nos prejudicar se os ladrões[n]fantasmas revelarem suas verdadeiras[n]identidades, certo?[n][f 1 2 180][e]
@@ -2946,7 +2946,7 @@
 [s][vp 9 2 65535 37553 0 0]Você já ouviu falar sobre aquele político[n]chamado Shido?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_024_03_ [Man with Clear Eyes]]
-[s][vp 9 2 65535 37653 0 0]Eu tenho ouvido falar sobre esse político,[n]Shido.[n]Eles dizem que ele é incrível.[n][f 1 2 180][e]
+[s][vp 9 2 65535 37653 0 0]Eu tenho ouvido falar sobre esse político,[n]Shido. Eles dizem que ele é incrível.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_024_04_ [Man with Clear Eyes]]
 [s][vp 9 2 65535 37700 0 0]Shido-san parece bastante promissor-não como[n]esses outros políticos![n][f 1 2 180][e]
@@ -3324,7 +3324,7 @@
 [s][vp 9 2 65535 40802 0 0]Oh, você parou de trabalhar no cabaré? Você[n]não começou a fazer isso?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_031_17_ [Man with Clear Eyes]]
-[s][vp 9 2 65535 39400 0 0]O que você quer fazer sobre a viagem de[n]formatura?[n]Vamos reservar um voo já![n][f 1 2 180][e]
+[s][vp 9 2 65535 39400 0 0]O que você quer fazer sobre a viagem de[n]formatura? Vamos reservar um voo já![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_031_18_ [Man with Clear Eyes]]
 [s][vp 9 2 65535 40750 0 0]Você vai cobrir para mim!? Cara, amigos são[n]o que mais importa![n][f 1 2 180][e]
@@ -3453,7 +3453,7 @@
 [s]Não há nada que eu possa fazer, de qualquer[n]maneira...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_033_12_ [Man with Clear Eyes]]
-[s]Eu me pergunto se alguma coisa de bom vai[n]acontecer.[n]Alguém faz algo...[n][f 1 2 180][e]
+[s]Eu me pergunto se alguma coisa de bom vai[n]acontecer. Alguém faz algo...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_033_13_ [Man with Clear Eyes]]
 [s]0 [n][f 1 2 180][e]
@@ -3774,7 +3774,7 @@
 [s]Na verdade, ele costumava ser um[n]representante, mas duvido que ele possa[n]voltar.[n][f 1 2 180][e]
 
 [msg GRT_YOSHIDA_TORIMAKI_06_]
-[s]Ele está tentando pegar carona em eventos[n]recentes?[n]Os políticos não têm tato.[n][f 1 2 180][e]
+[s]Ele está tentando pegar carona em eventos[n]recentes? Os políticos não têm tato.[n][f 1 2 180][e]
 
 [msg GRT_YOSHIDA_TORIMAKI_06__2]
 [s]O que? Eu acredito nos ladrões fantasmas[n]mais do que eu.[n][f 1 2 180][e]
@@ -3974,7 +3974,7 @@
 [s][f 4 23 1 606 3 10 0 0][vp 8 2 1 0 606 0]E o que? Depende de você fazer algo sobre[n]isso![n][w][e]
 [s][vp 8 2 1 0 606 0]Eu disse para você comprá-los e você disse[n]que faria![n][w][e]
 [s][vp 8 2 1 0 606 0]Se você vai concordar com uma tarefa,[n]precisa cumprir suas promessas! Alguém está[n]sem motivação, HM?[n][w][e]
-[s][vp 8 2 1 0 606 0]Talvez você esteja mais motivado se eu[n]mostrar a todos essa imagem, HM? Nós[n]iremos...[n]Diga algo![n][w][e]
+[s][vp 8 2 1 0 606 0]Talvez você esteja mais motivado se eu[n]mostrar a todos essa imagem, HM? Nós[n]iremos... Diga algo![n][w][e]
 
 [msg Quest23_target_00_03 [Out-of-Breath Boy]]
 [s][f 4 23 1 607 3 10 0 0][vp 8 2 1 0 607 0]Por favor, não, Hashisato-senpai... tudo[n]menos que...[n][w][e]

@@ -33,7 +33,7 @@
 [s][bup 0 110 4 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O que?[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Shinya's Mother]]
-[s][vp 8 0 0 0 5 0]Você está agindo de forma estranha[n]ultimamente.[n]Assim como eu suspeitava, alguém está[n]enchendo a cabeça de bobagem.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 5 0]Você está agindo de forma estranha[n]ultimamente. Assim como eu suspeitava, alguém está[n]enchendo a cabeça de bobagem.[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Shinya's Mother]]
 [s][vp 8 0 0 0 5 0]Constantemente conversando comigo...[n]Eu sabia que alguém novo deveria ter entrado[n]em cena.[n][f 1 3 65535][w][e]

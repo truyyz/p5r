@@ -297,15 +297,15 @@
 
 [msg MSG_C06_BEGIN_COOPNG_01 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 23 1 226 14 10 13 10][f 4 23 1 206 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu tenho uma filmagem hoje...[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 6032 65535 0]Ah, mas deixe-me saber se há algo urgente[n]acontecendo.[n]Vou tentar terminar cedo.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 6032 65535 0]Ah, mas deixe-me saber se há algo urgente[n]acontecendo. Vou tentar terminar cedo.[n][w][e]
 
 [msg MSG_C06_BEGIN_COOPNG_02 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 23 1 226 14 10 13 10][f 4 23 1 206 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Agora que penso nisso, eu tenho uma sessão[n]hoje...[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 6032 65535 0]Ah, mas deixe-me saber se há algo urgente[n]acontecendo.[n]Vou tentar terminar cedo.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 6032 65535 0]Ah, mas deixe-me saber se há algo urgente[n]acontecendo. Vou tentar terminar cedo.[n][w][e]
 
 [msg MSG_C06_BEGIN_COOPNG_04 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 23 1 226 14 10 13 10][f 4 23 1 206 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Espere, eu tenho uma sessão hoje...[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 6032 65535 0]Ah, mas deixe-me saber se há algo urgente[n]acontecendo.[n]Vou tentar terminar cedo.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 6032 65535 0]Ah, mas deixe-me saber se há algo urgente[n]acontecendo. Vou tentar terminar cedo.[n][w][e]
 
 [msg MSG_C06_COOP_00_00 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 23 1 226 14 10 13 10][f 4 23 1 206 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 6157 65535 0]Oh, você quer ir a algum lugar?[n]Se você tiver tempo, quero dizer.[n][w][e]
@@ -336,7 +336,7 @@
 [s][bup 0 4 0 65535 0][f 4 23 1 226 14 10 13 10][f 4 23 1 206 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 6192 65535 0]U-um... não importa! Não é nada![n][w][e]
 
 [msg MND_C06_COOP_01_04]
-[s]Eu deveria ser capaz de convidá-la com minha[n]atual [n][f 4 11 4][clr 26][f 4 12 4][clr 27].[n][w][e]
+[s]Eu deveria ser capaz de convidá-la com minha[n]atual  [f 4 11 4][clr 26][f 4 12 4][clr 27].[n][w][e]
 
 [msg MSG_C06_COOP_01_05 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 23 1 226 14 10 13 10][f 4 23 1 206 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Estou bem, sério! Além disso, eu não[n]gostaria de incomodá-lo...[n][w][e]
@@ -433,7 +433,7 @@
 [s][bup 0 4 6 65535 0][f 4 23 1 226 14 10 13 10][f 4 23 1 206 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ei, você acha que poderia poupar algum tempo[n]para mim hoje?[n][w][e]
 
 [msg MND_COOP_DOUZOKUSEI]
-[s]Eu sinto que posso me aproximar de Ann[n]graças ao [n][var 2][n]Persona [clr 1][var 5][clr 27]...[n][w][e]
+[s]Eu sinto que posso me aproximar de Ann[n]graças ao [n][var 2] Persona [clr 1][var 5][clr 27]...[n][w][e]
 
 [msg MND_COOP_RANKUP_OK]
 [s]Eu sinto que meu vínculo com Ann ficará mais[n]forte em breve...[n][w][e]
@@ -723,7 +723,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 1 13 65535 0]Isso me lembra- isso é para você.[n]É uma cópia do vago do próximo mês.[n]Eles fizeram um recurso especial em mim.[n][w][e]
 
 [msg MSG_C06_BYEGREET_00_06 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 23 1 226 14 10 13 10][f 4 23 1 206 3 10 0 10][f 4 10 65535 0 0][vp 8 0 1 14 65535 0]Na verdade, falei um pouco sobre você na[n]entrevista, [n][f 4 2]...[n]e shiho também.[n][w][e]
+[s][bup 0 4 0 65535 0][f 4 23 1 226 14 10 13 10][f 4 23 1 206 3 10 0 10][f 4 10 65535 0 0][vp 8 0 1 14 65535 0]Na verdade, falei um pouco sobre você na[n]entrevista, [n][f 4 2]... e shiho também.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 15 65535 0]Gostaria de saber se ela vai ler isso...[n][w][e]
 [s][vp 8 0 1 16 65535 0]......[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 17 65535 0]A modelagem pode ser super difícil às[n]vezes...[n]Mas eu não vou desistir.[n][w][e]
@@ -760,7 +760,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 1 31 65535 0]Isso me lembra- isso é para você.[n]É uma cópia do vago do próximo mês.[n]Eles fizeram um recurso especial em mim.[n][w][e]
 
 [msg MSG_C06_BYEGREET_01_06 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 23 1 226 14 10 13 10][f 4 23 1 206 3 10 0 10][f 4 10 65535 0 0][vp 8 0 1 32 65535 0]Na verdade, falei um pouco sobre você na[n]entrevista, [n][f 4 2]...[n]e shiho também.[n][w][e]
+[s][bup 0 4 0 65535 0][f 4 23 1 226 14 10 13 10][f 4 23 1 206 3 10 0 10][f 4 10 65535 0 0][vp 8 0 1 32 65535 0]Na verdade, falei um pouco sobre você na[n]entrevista, [n][f 4 2]... e shiho também.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 33 65535 0]Gostaria de saber se ela vai ler isso...[n][w][e]
 [s][vp 8 0 1 34 65535 0]......[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 35 65535 0]Há momentos em que ser modelo é difícil...[n]mas eu quero continuar.[n][w][e]

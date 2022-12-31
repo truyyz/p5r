@@ -34,7 +34,7 @@
 [s]Parece que conseguimos que ela nos[n]reconheça! Nós fizemos isso, pessoal![n][w][e]
 
 [msg f157_06_EV_YET_CHIP_CLEA_2 [Akechi]]
-[s]Ah, então meu insight estava correto. Tudo o[n]que precisamos fazer agora é colocar nossas[n]mãos [n][clr 2]50.000 [clr 27]moedas...[n][w][e]
+[s]Ah, então meu insight estava correto. Tudo o[n]que precisamos fazer agora é colocar nossas[n]mãos  [clr 2]50.000 [clr 27]moedas...[n][w][e]
 [s]De acordo com esse atendente, teremos que[n]enfrentar o [n][clr 2]jogo de dados [clr 27]Para conquistá-los.[n][w][e]
 
 [msg f157_06_EV_YET_CHIP_CLEA_3 [Ryuji]]

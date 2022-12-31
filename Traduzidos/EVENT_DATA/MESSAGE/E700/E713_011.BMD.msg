@@ -89,7 +89,7 @@
 [s][bup 0 108 1 0 0][f 4 10 65535 0 0][vp 8 2 0 14048 65535 0]Aqui está.[n][f 1 3 65535][w][e]
 
 [msg MSG_027_0_0 [Takemi]]
-[s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]... preocupado com os efeitos colaterais,[n]hein?[n]Bem, você pode relaxar.[n][f 1 3 65535][w][e]
+[s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]... preocupado com os efeitos colaterais,[n]hein? Bem, você pode relaxar.[n][f 1 3 65535][w][e]
 [s][bup 0 108 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Tenha certeza, minha autópsia é garantida[n]para descobrir exatamente o que ela matou[n]você.[n][f 1 3 65535][w][e]
 
 [msg MSG_028_0_0 [Takemi]]

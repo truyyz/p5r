@@ -9,7 +9,7 @@
 [s]Você concederá o desejo desse velho,[n]wontcha? Eu Loooove um brilhante [n][f 2 5 3 9999 3].[n][w][e]
 
 [msg TalkMsg_EN_CONTACT_01]
-[s]Parece seu companheiro de equipe precioso em[n]uma pitada... se você me der [n][var 0][n]Yen, eu posso ajudá-lo.[n][w][e]
+[s]Parece seu companheiro de equipe precioso em[n]uma pitada... se você me der [n][var 0] Yen, eu posso ajudá-lo.[n][w][e]
 
 [msg TalkMsg_EN_CONTACT_02]
 [s]Você quer salvar seu companheiro de equipe,[n]certo?[n]Então deixe-me tomar um gole de sua saúde.[n][w][e]
@@ -25,7 +25,7 @@
 
 [msg TalkMsg_EN_DECLINE_00]
 [s]Você sabe, eu sou mais ganancioso do que[n]olho.[n][w][e]
-[s]Que preço barato para pagar por seu[n]companheiro de equipe, sim? Desta vez, me[n]dê um [n][f 2 5 3 9999 3].[n][w][e]
+[s]Que preço barato para pagar por seu[n]companheiro de equipe, sim? Desta vez, me[n]dê um  [f 2 5 3 9999 3].[n][w][e]
 
 [msg TalkMsg_EN_DECLINE_01]
 [s]... isso não é suficiente me fazer.[n][w][e]
@@ -69,7 +69,7 @@
 [s]... Agora, vamos continuar de onde paramos.[n]Coloque seus duques![n][w][e]
 
 [msg TalkMsg_EN_ACCEPT_01]
-[s]... Bem, então, vamos voltar a negócios de[n]TA.[n]Você não se esqueceu, certo?[n][w][e]
+[s]... Bem, então, vamos voltar a negócios de[n]TA. Você não se esqueceu, certo?[n][w][e]
 
 [msg TalkMsg_EN_FALTER_00]
 [s]De quem diabos... de onde essas fotos[n]vieram!?[n][w][e]

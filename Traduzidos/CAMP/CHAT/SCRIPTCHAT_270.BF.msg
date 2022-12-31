@@ -90,7 +90,7 @@
 [s][f 5 14]Você está sugerindo que ele trouxe esse[n]caso para que todos eles seriam punidos?[n][w][e]
 
 [msg MSG_025_0_0 [Akechi]]
-[s][f 5 14]Enquanto estou lisonjeado por você ver[n]minhas habilidades dedutivas tão[n]altamente...[n]Eu não sabia tudo com certeza.[n][w][e]
+[s][f 5 14]Enquanto estou lisonjeado por você ver[n]minhas habilidades dedutivas tão[n]altamente... Eu não sabia tudo com certeza.[n][w][e]
 [s][f 5 14]Eu tenho que dizer, no entanto...[n][w][e]
 [s][f 5 14]Foi surpreendente ver todos vocês tão[n]prontos para aceitar a vítima como algum[n]modelo de virtude sem culpa.[n][w][e]
 
@@ -111,7 +111,7 @@
 [s][f 4 10 65535 0 0]Mas, você é como...[n][f 1 3 65535][w][e]
 
 [msg MSG_030_0_0 [Akechi]]
-[s][f 5 14]Essas coisas acontecem o tempo todo.[n]Realmente não deveria ser tão[n]surpreendente.[n]Esse é apenas o mundo em que vivemos.[n][w][e]
+[s][f 5 14]Essas coisas acontecem o tempo todo.[n]Realmente não deveria ser tão[n]surpreendente. Esse é apenas o mundo em que vivemos.[n][w][e]
 
 [sel SEL_031_0_0 top]
 [s][f 5 14]Você não acreditou nele?[e]
@@ -126,5 +126,5 @@
 
 [msg MSG_034_0_0 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1027 65535 0]Você acha que estamos confiando muito em[n]outras pessoas...?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0]Eu sei o que Akechi está tentando dizer,[n]mas...[n]Eu acho que ainda quero acreditar na[n]humanidade...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0]Eu sei o que Akechi está tentando dizer,[n]mas... Eu acho que ainda quero acreditar na[n]humanidade...[n][f 1 3 65535][w][e]
 

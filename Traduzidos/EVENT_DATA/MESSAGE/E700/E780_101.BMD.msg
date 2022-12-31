@@ -53,7 +53,7 @@
 [s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você está indo para a cafeteria?[n]Oh, isso parece divertido. Claro, eu te[n]encontrarei lá assim que puder.[n][w][e]
 
 [msg MSG_014_0_0 [Haru]]
-[s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Claro, eu ficaria feliz em! Espere por mim,[n]ok?[n]Vejo você daqui a pouco.[n][w][e]
+[s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Claro, eu ficaria feliz em! Espere por mim,[n]ok? Vejo você daqui a pouco.[n][w][e]
 
 [msg MSG_015_0_0 [Mishima]]
 [s][bup 0 111 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Almoço na cafeteria!? É claro![n]Eu vou lá agora![n][w][e]

@@ -97,7 +97,7 @@
 [s][clr 30]Pense em Maruki [clr 27][e]
 
 [msg MND_Think_Chara]
-[s][vp 1 0 0 0 0 0]Eu deveria orar por um vínculo mais forte[n]com [n][var 0]...[n][w][e]
+[s][vp 1 0 0 0 0 0]Eu deveria orar por um vínculo mais forte[n]com  [var 0]...[n][w][e]
 
 [msg MND_Chara_Result_5]
 [s][vp 1 0 0 0 0 0]eu consigo ver [var 0]está o rosto claramente em minha mente...[n][w][e]

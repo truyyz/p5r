@@ -139,7 +139,7 @@
 [s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 5 5 5]Vou começar pintando. Depois disso, vou[n]pintar, além do qual vou pintar ainda mais.[n][f 1 3 65535][w][e]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Essa é a única maneira de aprender a[n]capturar a essência da emoção.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Afinal, você só pode realizar muito ao usar[n]a lógica para analisar o conteúdo do[n]coração.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]... Espero que você me permita continuar[n]meus serviços de cartões de habilidade[n]também, [n][f 4 2].[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]... Espero que você me permita continuar[n]meus serviços de cartões de habilidade[n]também, [f 4 2].[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vou conquistar isso![n][f 1 3 65535][w][e]
 
 [msg MND_990_0_0]

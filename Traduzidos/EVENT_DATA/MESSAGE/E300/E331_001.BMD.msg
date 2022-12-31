@@ -9,7 +9,7 @@
 [s][bup 0 4 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]Ryuji![n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Ann]]
-[s][bup 0 4 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]De jeito nenhum! Ela tem a mesma idade que[n]eu!?[n]Ela se parece com o amigo do meu pai...[n][f 1 3 65535][w][e]
+[s][bup 0 4 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]De jeito nenhum! Ela tem a mesma idade que[n]eu!? Ela se parece com o amigo do meu pai...[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Ryuji]]
 [s][bup 0 2 11 65535 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Volta para o trabalho.[n][f 1 3 65535][w][e]

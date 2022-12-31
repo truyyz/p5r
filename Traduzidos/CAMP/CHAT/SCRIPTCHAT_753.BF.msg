@@ -24,7 +24,7 @@
 [s][f 5 14]Você ainda não tem um?[n][w][e]
 
 [msg MSG_006_0_0 [Yusuke]]
-[s][f 5 14]Eu deixei minhas esperanças ficarem muito[n]altas.[n]Bom dia.[n][f 5 15][w][e]
+[s][f 5 14]Eu deixei minhas esperanças ficarem muito[n]altas. Bom dia.[n][f 5 15][w][e]
 
 [msg MSG_MORGANA_TV_NotSet [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Espero que a TV que você pediu chegue[n]aqui em breve...[n][f 1 3 65535][w][e]

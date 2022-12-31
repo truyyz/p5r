@@ -505,7 +505,7 @@
 
 [msg MSG_BookID_08_ReadEnd [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1167 65535 0]Então, você terminou de ler [n][clr 3][var 0][clr 27].[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Você queria que eu te chamasse de "chefe"[n]agora?[n]Heh, estou apenas brincando.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Você queria que eu te chamasse de "chefe"[n]agora? Heh, estou apenas brincando.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 22 65535 1 41]Você aprendeu mais sobre chefes e seus[n]grandes corações? Mesmo no submundo, há[n]bondade...[n][f 1 3 65535][w][e]
 
 [msg MND_BookID_08_ReadEnd]
@@ -786,7 +786,7 @@
 [msg MSG_BookID_44_ReadEnd_01 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1167 65535 0]Então, você terminou de ler [n][clr 3][var 0][clr 27].[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Parece que [clr 2]Asakusa [clr 27]é um lugar bastante animado. Todo dia é como[n]seu próprio mini-festival.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 1 0 0 0 0 0]o [clr 2]Tokyo Skytree [clr 27]Parece ser um destino turístico popular[n]também.[n]Muito interessante...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 1 0 0 0 0 0]o [clr 2]Tokyo Skytree [clr 27]Parece ser um destino turístico popular[n]também. Muito interessante...[n][f 1 3 65535][w][e]
 
 [msg MND_BookID_44_ReadEnd_01]
 [s][vp 1 0 0 0 0 0]Eu terminei de ler [n][clr 3][var 0][clr 27]...[n][f 1 3 65535][w][e]
@@ -1168,7 +1168,7 @@
 [s][vp 1 0 0 0 0 0]Eu sonhei que estava sendo perseguido por um[n]gigantesco [n][var 0]...[n][f 1 3 65535][w][e]
 
 [msg MSG_DREAM_Bad_Type05_02_]
-[s][vp 1 0 0 0 0 0]Eu tive um sonho em que não conseguia chegar[n]ao lugar [n][var 0][n]E eu concordei em me encontrar...[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Eu tive um sonho em que não conseguia chegar[n]ao lugar [n][var 0] E eu concordei em me encontrar...[n][f 1 3 65535][w][e]
 
 [msg MSG_DREAM_Bad_End]
 [s][vp 1 0 0 0 0 0]Estou feliz que isso foi apenas um sonho.[n][f 1 3 65535][w][e]

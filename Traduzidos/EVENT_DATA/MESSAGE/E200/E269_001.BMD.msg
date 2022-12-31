@@ -28,7 +28,7 @@
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Não é esse o homem que os ladrões fantasmas[n]enviaram um cartão de visita? Ouvi dizer[n]que ele confessou todos os seus crimes.[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Sae]]
-[s][bup 0 105 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Até a polícia não conseguiu descobrir o[n]porquê.[n]Realmente... estava do nada.[n][f 1 3 65535][w][e]
+[s][bup 0 105 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Até a polícia não conseguiu descobrir o[n]porquê. Realmente... estava do nada.[n][f 1 3 65535][w][e]
 [s][bup 0 105 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Isso só faria sentido se sua personalidade[n]mudasse... mas isso seria impossível.[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Makoto]]

@@ -15,7 +15,7 @@
 [s][bup 0 4 100 0 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Eu duvido muito disso.[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Yusuke]]
-[s][bup 0 5 100 0 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Na verdade... há uma chance de ele estar[n]certo.[n]Parece haver uma fita do videocassete.[n][f 1 3 65535][w][e]
+[s][bup 0 5 100 0 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Na verdade... há uma chance de ele estar[n]certo. Parece haver uma fita do videocassete.[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Akechi]]
 [s][bup 0 9 810 0 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Bem, parece que não temos escolha a não ser[n]assistir a fita, não é?[n][f 1 3 65535][w][e]

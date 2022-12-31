@@ -24,7 +24,7 @@
 
 [msg MSG_012_0_0 [Ryuji]]
 [s][f 5 14]Ah Merda. Eu esqueci.[n][w][e]
-[s][f 5 14]Mas eu não sei... eu realmente não sinto[n]vontade de ir. Você sabe o que quero[n]dizer, certo, [n][f 4 2]?[n][w][e]
+[s][f 5 14]Mas eu não sei... eu realmente não sinto[n]vontade de ir. Você sabe o que quero[n]dizer, certo, [f 4 2]?[n][w][e]
 
 [sel SEL_013_0_0 top]
 [s][f 5 14]Eu já fui.[e]

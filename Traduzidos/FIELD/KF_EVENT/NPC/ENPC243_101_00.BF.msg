@@ -59,7 +59,7 @@
 [s][vp 8 2 1 0 65535 0]Extorsões, assaltos e apenas golpes gerais.[n]Tenha cuidado com qualquer tática de vendas[n]suspeita.[n][w][e]
 
 [msg MSG_E24320100_POLICE_003_2 [Patrolling Officer]]
-[s][vp 8 2 1 0 65535 0]Bem, não deixe de ir para casa logo depois[n]disso.[n]Você não quer ser vítima desses golpes.[n][w][e]
+[s][vp 8 2 1 0 65535 0]Bem, não deixe de ir para casa logo depois[n]disso. Você não quer ser vítima desses golpes.[n][w][e]
 
 [msg MSG_E24320100_POLICE_004 [Patrolling Officer]]
 [s][vp 8 2 1 0 65535 0]Muitas vítimas também foram adolescentes. A[n]Central Street é particularmente perigosa.[n][w][e]

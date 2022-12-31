@@ -74,7 +74,7 @@
 
 [msg MSG_103_0_0 [Octavius]]
 [s][vp 8 2 0 59555 65535 0]BLORP! Meu nome é Octavius![n][f 1 3 65535][w][e]
-[s][vp 8 2 0 59556 65535 0]Vou deixar você ir se puder me satisfazer,[n]Blorp![n]Você terá três chances, Blorp![n][f 1 3 65535][w][e]
+[s][vp 8 2 0 59556 65535 0]Vou deixar você ir se puder me satisfazer,[n]Blorp! Você terá três chances, Blorp![n][f 1 3 65535][w][e]
 
 [msg MSG_104_0_0 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Esse cara existe apenas para atrapalhar?[n][f 1 3 65535][w][e]
@@ -289,7 +289,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Atirar, um buraco se abriu no chão e engoliu[n]nossa peça... Espere, é algum tipo de arma!?[n][f 1 3 65535][w][e]
 
 [msg MND_St03_BossAccident]
-[s][vp 8 2 0 0 65535 0]Um buraco se abriu no chão.[n]Espere, minha peça de jogo está sendo[n]engolida...[n]E uma arma gigante apareceu![n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0]Um buraco se abriu no chão.[n]Espere, minha peça de jogo está sendo[n]engolida... E uma arma gigante apareceu![n][f 1 3 65535][w][e]
 
 [msg MSG_St03_BossAccident_Co [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Aí vem o buraco... e aquele cara artie[n]também, tenho certeza...[n][f 1 3 65535][w][e]
@@ -334,7 +334,7 @@
 [s][vp 8 2 0 0 65535 0][var 0]...! Eu entendi...![n][f 1 3 65535][w][e]
 
 [msg MSG_221_0_0 [Artie Lury]]
-[s][vp 8 2 0 59556 65535 0][var 0], Hã? Desculpe, mas isso não é um múltiplo[n]de quatro. Seu número de chances restantes[n]é [n][var 1]![n][f 1 3 65535][w][e]
+[s][vp 8 2 0 59556 65535 0][var 0], Hã? Desculpe, mas isso não é um múltiplo[n]de quatro. Seu número de chances restantes[n]é [var 1]![n][f 1 3 65535][w][e]
 
 [msg MSG_St03_BossBreak [Artie Lury]]
 [s][vp 8 2 0 59554 65535 0]Caminho a ir![n][f 1 3 65535][w][e]
@@ -395,7 +395,7 @@
 [s][vp 8 2 0 0 65535 0]Imprensa [f 1 10 75]para parar os dados.[n]A soma será o seu número para a rodada.[n][f 1 3 65535][w][e]
 
 [msg MSG_urawaza_on_moru [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]A técnica secreta funcionou... o número de[n]vezes que você pode rolar os dados aumentou[n]para [n][var 0]vezes.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]A técnica secreta funcionou... o número de[n]vezes que você pode rolar os dados aumentou[n]para  [var 0]vezes.[n][f 1 3 65535][w][e]
 
 [msg MSG_urawaza_on]
 [s][vp 8 2 0 0 65535 0]A técnica secreta aumentou o número de vezes[n]que posso rolar os dados...[n][f 1 3 65535][w][e]

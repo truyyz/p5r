@@ -23,7 +23,7 @@
 
 [msg MSG_DVD1stAns03_Ryuji [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 7020 65535 0][f 4 24 0 4 0 39 10 100][f 5 13 8 10 2]Sério? Eu pensei que todo mundo gostava de[n]pelo menos um deles![n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Todas as crianças da minha escola costumavam[n]sonhar em crescer para ser um jogador[n]profissional.[n]Não é você, hein?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Todas as crianças da minha escola costumavam[n]sonhar em crescer para ser um jogador[n]profissional. Não é você, hein?[n][f 1 3 65535][w][e]
 
 [msg MSG_DVDStart_1st_Yusuke [Yusuke]]
 [s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 4087 65535 0]HM, além das artes européias mais renomadas[n]historicamente, as obras da América do Sul[n]são bastante intrigantes...[n][f 1 3 65535][w][e]
@@ -95,11 +95,11 @@
 
 [msg MSG_DVD1stAns01_Futaba [Futaba]]
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 9189 65535 0][f 5 13 10 5 8]Sim, não importa como você olhe para isso,[n]isso deve ser a melhor opção![n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]As lojas de departamento têm todo tipo de[n]comida, camas para dormir, brinquedos para[n]brincar...[n]Seria a fortaleza perfeita![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]As lojas de departamento têm todo tipo de[n]comida, camas para dormir, brinquedos para[n]brincar... Seria a fortaleza perfeita![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Venha para mim, zumbis![n][f 1 3 65535][w][e]
 
 [msg MSG_DVD1stAns02_Futaba [Futaba]]
-[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 9034 65535 0][f 5 13 10 5 8]O que você acha que os zumbis não podem[n]segui-lo até a água? Mwehehe, isso é[n]otimista, [n][f 4 2].[n][f 1 3 65535][w][e]
+[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 9034 65535 0][f 5 13 10 5 8]O que você acha que os zumbis não podem[n]segui-lo até a água? Mwehehe, isso é[n]otimista, [f 4 2].[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Hoje em dia os zumbis podem fazer todo tipo[n]de coisa! Correndo, nadando, escalando[n]montanhas... até viagens espaciais![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]... na verdade, ser um zumbi parece muito[n]divertido![n][f 1 3 65535][w][e]
 
@@ -274,7 +274,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Meh, não se preocupe comigo. Vou sair do seu[n]cabelo.[n][f 1 3 65535][w][e]
 
 [msg MSG_NextTimeOK_Curry_Fut [Futaba]]
-[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Você sabe que eu sou exigente sobre Curry,[n]certo?[n]Espero que você tenha habilidades.[n][f 1 3 65535][w][e]
+[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Você sabe que eu sou exigente sobre Curry,[n]certo? Espero que você tenha habilidades.[n][f 1 3 65535][w][e]
 
 [msg MSG_NextTimeOK_Coffee_Fu [Futaba]]
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Tenho que amar o café. Só o cheiro é[n]suficiente para chutar os Sleepies na bunda![n][f 1 3 65535][w][e]

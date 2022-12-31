@@ -73,7 +73,7 @@
 [msg MSG_018_0_0 [Ann]]
 [s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Você também, hein, [f 4 2]? Claro que você é. Desculpe por fazer uma[n]pergunta tão estranha.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Acho que tudo o que podemos fazer é[n]esperar... eu me pergunto como a condição[n]de Shiho também é.[n][f 1 3 65535][w][e]
-[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Cara, toda essa conversa pesada logo de[n]manhã! Nós dois precisamos trocar de[n]engrenagem, [n][f 4 2].[n][f 1 3 65535][w][e]
+[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Cara, toda essa conversa pesada logo de[n]manhã! Nós dois precisamos trocar de[n]engrenagem, [f 4 2].[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Ann]]
 [s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]Você está certo... tudo o que podemos fazer[n]é acreditar e esperar.[n][f 1 3 65535][w][e]
@@ -224,7 +224,7 @@
 [s][vp 8 0 0 0 65535 0][bup 0 4 0 65535 0][f 4 10 65535 0 0]Isso é uma promessa, ok? Não se espalhe para[n]mim.[n][f 1 3 65535][w][e]
 
 [msg MSG_054_0_0 [Ann]]
-[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 6186 65535 0]Desculpe. Eu sei que estou ficando[n]desesperado.[n]Mesmo assim, eu quero que ele mude de[n]coração o mais rápido possível...[n][f 1 3 65535][w][e]
+[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 6186 65535 0]Desculpe. Eu sei que estou ficando[n]desesperado. Mesmo assim, eu quero que ele mude de[n]coração o mais rápido possível...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][bup 0 4 0 65535 0][f 4 10 65535 0 0]De qualquer forma, posso ir a qualquer[n]momento, então ligue para o esconderijo[n]depois da escola, se você estiver pronto[n]para isso.[n][f 1 3 65535][w][e]
 
 [msg MSG_055_0_0 [Ann]]
@@ -777,7 +777,7 @@
 [msg MSG_188_0_0 [Yusuke]]
 [s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 4088 65535 0]Estou feliz que você esteja rápido de pé.[n][f 1 3 65535][w][e]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não podemos permitir que Kaneshiro crie mais[n]vítimas.[n][f 1 3 65535][w][e]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bem, então, vamos nos reunir depois da[n]escola.[n]Entre em contato comigo mais tarde.[n][f 1 3 65535][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bem, então, vamos nos reunir depois da[n]escola. Entre em contato comigo mais tarde.[n][f 1 3 65535][w][e]
 
 [msg MSG_189_0_0 [Yusuke]]
 [s][bup 0 5 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 4129 65535 0]Quero confiar no seu julgamento, mas podemos[n]não ter tempo suficiente no ritmo que[n]estamos indo.[n][f 1 3 65535][w][e]
@@ -1165,7 +1165,7 @@
 [msg MSG_283_0_0 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 6108 65535 0]Excelente! Eu quero fazer essas coisas[n]quando pudermos.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Se o presidente tiver uma mudança de[n]coração, talvez nossa reputação suba e[n]teremos mais pedidos.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bem, vamos nos encontrar depois da escola[n]então.[n]Vejo você lá![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bem, vamos nos encontrar depois da escola[n]então. Vejo você lá![n][f 1 3 65535][w][e]
 
 [msg MSG_284_0_0 [Ann]]
 [s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 6194 65535 0]Você tem mais algo para fazer?[n]Bem, eu não vou forçar você.[n][f 1 3 65535][w][e]
@@ -1251,7 +1251,7 @@
 
 [msg MSG_303_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 4020 65535 0]De fato. Devemos mudar o coração do promotor[n]Niijima, para que ela possa virar os olhos[n]para o verdadeiro culpado.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vou para o esconderijo depois da escola[n]então.[n]Estou contando com você.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vou para o esconderijo depois da escola[n]então. Estou contando com você.[n][f 1 3 65535][w][e]
 
 [msg MSG_304_0_0 [Yusuke]]
 [s][bup 0 5 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 4026 65535 0]Eu vejo. Eu não vou pressionar você...[n][f 1 3 65535][w][e]
@@ -1452,12 +1452,12 @@
 
 [msg MSG_348_0_0 [Ryuji]]
 [s][bup 0 2 5 2 0][f 4 10 65535 0 0][vp 8 2 0 7039 65535 0]O que está errado!? Meu uniforme, cara! Isso[n]é o que! Estamos nos esforçando para mudar[n]para uniformes de verão hoje![n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu sabia que as pessoas estavam olhando para[n]mim...[n]Oh, maldito![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu sabia que as pessoas estavam olhando para[n]mim... Oh, maldito![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu tenho que ir para casa e mudar, então[n]você continua à frente![n][f 1 3 65535][w][e]
 
 [msg MSG_349_0_0 [Ryuji]]
 [s][bup 0 2 5 2 0][f 4 10 65535 0 0][vp 8 2 0 7039 65535 0]Claro que existe! Meu uniforme, cara![n]Meu uniforme! Estamos nos esforçando para[n]mudar para uniformes de verão hoje![n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu sabia que as pessoas estavam olhando para[n]mim...[n]Oh, maldito![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu sabia que as pessoas estavam olhando para[n]mim... Oh, maldito![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu tenho que ir para casa e mudar, então[n]você continua à frente![n][f 1 3 65535][w][e]
 
 [msg MSG_350_0_0 [Makoto]]
@@ -1712,7 +1712,7 @@
 [s][vp 8 0 0 231 65535 0][bup 0 9 3 65535 0]......[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 232 65535 0][bup 0 9 0 65535 0][f 4 10 65535 0 0]Agora que penso nisso, suas ações refletem[n]os casos de desligamento mental, com a taxa[n]de vítimas.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 233 65535 0][f 4 10 65535 0 0]É impossível não ver uma conexão lá...[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 234 65535 0][bup 0 9 4 65535 0][f 4 10 65535 0 0]... Ah, desculpe. Eu não quero te fazer[n]tarde.[n]Vejo você de novo.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 234 65535 0][bup 0 9 4 65535 0][f 4 10 65535 0 0]... Ah, desculpe. Eu não quero te fazer[n]tarde. Vejo você de novo.[n][f 1 3 65535][w][e]
 
 [msg MSG_404_0_0 [Akechi]]
 [s][bup 0 9 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 235 65535 0]Haha, obrigado.[n][f 1 3 65535][w][e]
@@ -1723,7 +1723,7 @@
 [s][vp 8 0 0 240 65535 0][bup 0 9 3 65535 0]......[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 241 65535 0][bup 0 9 0 65535 0][f 4 10 65535 0 0]Agora que penso nisso, suas ações refletem[n]os casos de desligamento mental, com a taxa[n]de vítimas.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 242 65535 0][f 4 10 65535 0 0]É impossível não ver uma conexão lá...[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 243 65535 0][bup 0 9 4 65535 0][f 4 10 65535 0 0]... Ah, desculpe. Eu não quero te fazer[n]tarde.[n]Vejo você de novo.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 243 65535 0][bup 0 9 4 65535 0][f 4 10 65535 0 0]... Ah, desculpe. Eu não quero te fazer[n]tarde. Vejo você de novo.[n][f 1 3 65535][w][e]
 
 [msg MSG_405_0_0 [Akechi]]
 [s][bup 0 9 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 244 65535 0]É realmente verão agora. Fico suado apenas[n]andando um pouco.[n][f 1 3 65535][w][e]
@@ -1913,7 +1913,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Estamos todos contando com você, Phantom[n]Thieves! Dispense a justiça![n][f 1 3 65535][w][e]
 
 [msg MSG_444_0_0 [Mishima]]
-[s][bup 0 111 5 65535 0][f 4 10 65535 0 0][vp 8 2 0 19067 65535 0]Opa, eu provavelmente não deveria dizer isso[n]aqui.[n]Foi mal.[n][f 1 3 65535][w][e]
+[s][bup 0 111 5 65535 0][f 4 10 65535 0 0][vp 8 2 0 19067 65535 0]Opa, eu provavelmente não deveria dizer isso[n]aqui. Foi mal.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][bup 0 111 1 65535 0][f 4 10 65535 0 0]Não há tantas postagens agora, mas parece[n]que ainda há muitas pessoas em apuros.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 19024 65535 0]Estamos todos contando com você, Phantom[n]Thieves! Dispense a justiça![n][f 1 3 65535][w][e]
 
@@ -2343,7 +2343,7 @@
 
 [msg MSG_556_0_0 [Kasumi]]
 [s][bup 0 10 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 57045 65535 0]Todo dia é tão quente. Eu esvazio minha[n]garrafa de água tão rápido...[n][f 1 3 65535][w][e]
-[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]A propósito, as férias de verão estão[n]chegando.[n]Posso perguntar quais são seus planos,[n]Senpai?[n][f 1 3 65535][w][e]
+[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]A propósito, as férias de verão estão[n]chegando. Posso perguntar quais são seus planos,[n]Senpai?[n][f 1 3 65535][w][e]
 
 [sel SEL_557_0_0 top]
 [s]Não tenho nada.[e]
@@ -2372,7 +2372,7 @@
 
 [msg MSG_563_0_0 [Maruki]]
 [s][bup 0 216 301 65535 0][f 4 10 65535 0 0][vp 8 2 0 57457 65535 0]Hahaha. Você me pegou.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]No meu caminho para o trabalho hoje,[n]encontrei essas velhinhas carregando uma[n]bagagem pesada.[n]Três deles de fato.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]No meu caminho para o trabalho hoje,[n]encontrei essas velhinhas carregando uma[n]bagagem pesada. Três deles de fato.[n][f 1 3 65535][w][e]
 [s][bup 0 216 303 65535 0][f 4 10 65535 0 0][vp 8 2 0 57430 65535 0]Então, eu estava oferecendo para ajudar a[n]carregar suas coisas, mas depois minhas[n]costas fizeram o som que não deveria[n]fazer...[n][f 1 3 65535][w][e]
 [s][bup 0 216 300 65535 0][f 4 10 65535 0 0][vp 8 2 0 57430 65535 0]...Bom, de qualquer forma! Você já ouviu as[n]notícias de Yoshizawa-san?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Estou tão feliz por ela. Isso me faz sentir[n]vontade de fazer o meu melhor também![n][f 1 3 65535][w][e]
@@ -2381,7 +2381,7 @@
 
 [msg MSG_564_0_0 [Maruki]]
 [s][bup 0 216 304 65535 0][f 4 10 65535 0 0][vp 8 2 0 57457 65535 0]Claro que não, eu definitivamente acordei na[n]hora... embora eu esteja atrasado.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]No meu caminho para o trabalho hoje,[n]encontrei essas velhinhas carregando uma[n]bagagem pesada.[n]Três deles de fato.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]No meu caminho para o trabalho hoje,[n]encontrei essas velhinhas carregando uma[n]bagagem pesada. Três deles de fato.[n][f 1 3 65535][w][e]
 [s][bup 0 216 303 65535 0][f 4 10 65535 0 0][vp 8 2 0 57430 65535 0]Então, eu estava oferecendo para ajudar a[n]carregar suas coisas, mas depois minhas[n]costas fizeram o som que não deveria[n]fazer...[n][f 1 3 65535][w][e]
 [s]s [n][bup 0 216 300 65535 0][f 4 10 65535 0 0][vp 8 2 0 57430 65535 0]...Bom, de qualquer forma! Você já ouviu as[n]notícias de Yoshizawa-san?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Estou tão feliz por ela. Isso me faz sentir[n]vontade de fazer o meu melhor também![n][f 1 3 65535][w][e]
@@ -2439,7 +2439,7 @@
 [msg MSG_576_0_0 [Kasumi]]
 [s][bup 0 10 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 57173 65535 0]... Senpai, você está dormindo bem?[n]Você parece meio cansado...[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]......[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Pode não ser o meu lugar para perguntar,[n]mas...[n]Você está bem?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Pode não ser o meu lugar para perguntar,[n]mas... Você está bem?[n][f 1 3 65535][w][e]
 
 [sel SEL_577_0_0 top]
 [s]Estou bem.[e]
@@ -2498,7 +2498,7 @@
 
 [msg MSG_589_0_0 [Akechi]]
 [s][bup 0 9 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 54418 65535 0]Haha, eu quis dizer exatamente como isso[n]soou.[n][f 1 3 65535][w][e]
-[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Quero dizer, uma vez que os ladrões Phantom[n]se foram, nosso acordo não terá nenhum[n]significado.[n]Não é certo?[n][f 1 3 65535][w][e]
+[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Quero dizer, uma vez que os ladrões Phantom[n]se foram, nosso acordo não terá nenhum[n]significado. Não é certo?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]É triste, mas é assim que é. De qualquer[n]forma, vamos continuar trabalhando juntos[n]até então.[n][f 1 3 65535][w][e]
 
 [msg MSG_590_0_0 [Makoto]]
@@ -2640,13 +2640,13 @@
 
 [msg MSG_623_0_0 [Maruki]]
 [s][bup 0 216 300 65535 0][f 4 10 65535 0 0][vp 8 2 0 57453 65535 0]Hahaha... você me pegou.[n][f 1 3 65535][w][e]
-[s][bup 0 216 303 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]No meu caminho para o trabalho hoje,[n]encontrei essas velhinhas carregando uma[n]bagagem pesada.[n]Três deles de fato.[n][f 1 3 65535][w][e]
+[s][bup 0 216 303 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]No meu caminho para o trabalho hoje,[n]encontrei essas velhinhas carregando uma[n]bagagem pesada. Três deles de fato.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Então, eu estava oferecendo para ajudar a[n]carregar suas coisas, mas depois minhas[n]costas fizeram o som que não deveria[n]fazer...[n][f 1 3 65535][w][e]
 [s][bup 0 216 300 65535 0][f 4 10 65535 0 0][vp 8 2 0 57422 65535 0]...Bom, de qualquer forma! Você já ouviu as[n]notícias de Yoshizawa-san?[n][f 1 3 65535][w][e]
 
 [msg MSG_624_0_0 [Maruki]]
 [s][bup 0 216 300 65535 0][f 4 10 65535 0 0][vp 8 2 0 57423 65535 0]Claro que não. Eu acordei na hora...[n]Embora eu esteja atrasado.[n][f 1 3 65535][w][e]
-[s][bup 0 216 303 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]No meu caminho para o trabalho hoje,[n]encontrei essas velhinhas carregando uma[n]bagagem pesada.[n]Três deles de fato.[n][f 1 3 65535][w][e]
+[s][bup 0 216 303 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]No meu caminho para o trabalho hoje,[n]encontrei essas velhinhas carregando uma[n]bagagem pesada. Três deles de fato.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Então, eu estava oferecendo para ajudar a[n]carregar suas coisas, mas depois minhas[n]costas fizeram o som que não deveria[n]fazer...[n][f 1 3 65535][w][e]
 [s][bup 0 216 300 65535 0][f 4 10 65535 0 0][vp 8 2 0 57422 65535 0]...Bom, de qualquer forma! Você já ouviu as[n]notícias de Yoshizawa-san?[n][f 1 3 65535][w][e]
 

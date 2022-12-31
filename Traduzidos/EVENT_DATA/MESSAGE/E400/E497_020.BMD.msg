@@ -129,7 +129,7 @@
 [s][bup 0 10 965 0 0][f 4 10 65535 0 0][vp 8 0 0 54 5 0]Dr. Maruki, eu... quero me tornar Kasumi.[n][f 1 3 65535][w][e]
 
 [msg MSG_034_0_0 [Maruki]]
-[s][bup 0 216 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 55 65535 0]...Eu sei. E tenho certeza que você também[n]pode.[n]Apenas... acredite em si mesmo.[n][f 1 3 65535][w][e]
+[s][bup 0 216 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 55 65535 0]...Eu sei. E tenho certeza que você também[n]pode. Apenas... acredite em si mesmo.[n][f 1 3 65535][w][e]
 
 [msg MSG_035_0_0 [Sumire]]
 [s][bup 0 10 960 0 0][vp 1 0 0 56 0 0]......[n][f 1 3 65535][w][e]
@@ -145,7 +145,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 60 65535 0]Ainda assim, parece que minha abordagem de[n]aconselhamento faz algo de bom, afinal.[n][f 1 3 65535][w][e]
 
 [msg MSG_039_0_0 [Kasumi]]
-[s][bup 0 10 601 0 0][f 4 10 65535 0 0][vp 8 0 0 61 65535 0]Tudo bem! Não tenho certeza de como colocar,[n]mas...[n]Sinto que tenho renascido novamente.[n][f 1 3 65535][w][e]
+[s][bup 0 10 601 0 0][f 4 10 65535 0 0][vp 8 0 0 61 65535 0]Tudo bem! Não tenho certeza de como colocar,[n]mas... Sinto que tenho renascido novamente.[n][f 1 3 65535][w][e]
 
 [msg MSG_040_0_0 [Maruki]]
 [s][bup 0 216 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 62 65535 0]Sério? Estou muito feliz em ouvir isso.[n][f 1 3 65535][w][e]

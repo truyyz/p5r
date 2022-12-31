@@ -64,7 +64,7 @@
 [s][vp 1 0 0 0 0 0]... O que é essa coisa?[n][w][e]
 [s][vp 1 0 0 0 0 0]Prolly algum tipo de brincadeira por aqueles[n]"ladrões fantasmas" ou o que quer que[n]seja...[n][w][e]
 [s][vp 1 0 0 0 0 0]Ele desenhou isso? Quem ele está tentando[n]impressionar?[n][w][e]
-[s][vp 1 0 0 0 0 0]Espere, ele pensa seriamente que eles[n]existem?[n]Isso é meio embaraçoso...[n][w][e]
+[s][vp 1 0 0 0 0 0]Espere, ele pensa seriamente que eles[n]existem? Isso é meio embaraçoso...[n][w][e]
 
 [msg MSG_BLACKBOARD_Student_0_2 [Students]]
 [s][vp 1 0 0 0 0 0]Ei, é o logotipo Phantom Thieves...[n][w][e]

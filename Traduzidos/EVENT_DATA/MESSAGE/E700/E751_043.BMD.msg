@@ -1,6 +1,6 @@
 [msg MSG_000_0_0 [Chihaya]]
 [s][bup 0 113 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]Ugh... grandes cidades são tão[n]assustadoras...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Não acredito que todas as lojas estão[n]esgotadas.[n]O Natal é sempre uma zona de guerra?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Não acredito que todas as lojas estão[n]esgotadas. O Natal é sempre uma zona de guerra?[n][f 1 3 65535][w][e]
 
 [sel SEL_001_0_0 top]
 [s]Na cidade, pelo menos.[e]

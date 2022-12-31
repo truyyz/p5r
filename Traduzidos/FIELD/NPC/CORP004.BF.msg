@@ -216,7 +216,7 @@
 
 [msg MSG_C04_BEGIN_D07_60_00 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 23 1 204 3 10 0 10][vp 8 2 1 4035 65535 0]Finalmente terminou...[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu estive aqui pessoas assistindo, como[n]sempre.[n]Existe algo que você gostaria de fazer para[n]matar tempo, [n][f 4 2]?[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu estive aqui pessoas assistindo, como[n]sempre.[n]Existe algo que você gostaria de fazer para[n]matar tempo, [f 4 2]?[n][w][e]
 
 [sel SEL_C04_ACTION_D07_60_01 top]
 [s]Eu vim para te ver.[e]
@@ -294,7 +294,7 @@
 [s][bup 0 5 1 65535 0][f 4 10 65535 0 0][f 4 23 1 204 3 10 0 10][vp 8 2 1 4189 65535 0]Hah... você deve ter uma riqueza de tempo[n]livre, se essa é a sua decisão.[n][w][e]
 
 [msg MSG_C04_CONNECT_CARD_00 [Yusuke]]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 23 1 204 3 10 0 10][vp 8 2 1 4133 65535 0]Então você deseja tirar proveito do nosso[n]acordo.[n]Eu entendo.[n][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 23 1 204 3 10 0 10][vp 8 2 1 4133 65535 0]Então você deseja tirar proveito do nosso[n]acordo. Eu entendo.[n][w][e]
 
 [msg MSG_C04_CONNECT_CANCEL_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 23 1 204 3 10 0 10][vp 8 2 1 4026 65535 0]Bem, estarei aqui por mais um tempo.[n]Por favor, deixe-me saber se surgir algo[n]importante.[n][w][e]
@@ -423,7 +423,7 @@
 [s]Meu [f 4 11 2][clr 26][f 4 12 2][clr 27]precisa ser pelo menos [clr 26][f 4 13 2 4][clr 27]Se eu quiser consertar a porta na casa de[n]Madarame...[n][w][e]
 
 [msg MSG_C04_COOP_05_03 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Devemos tentar novamente depois de aprimorar[n]seu [n][f 4 11 2][clr 26][f 4 12 2][clr 27].[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Devemos tentar novamente depois de aprimorar[n]seu  [f 4 11 2][clr 26][f 4 12 2][clr 27].[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Talvez outra vez, Yusuke.[n][w][e]
 
 [msg MSG_C04_COOP_05_04 [Yusuke]]
@@ -451,7 +451,7 @@
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 23 1 204 3 10 0 10][vp 8 2 1 0 65535 0]Eu poderia assistir as pessoas aqui o dia[n]todo...[n]Coloque-se para se juntar a mim, [f 4 2]?[n][w][e]
 
 [msg MND_COOP_DOUZOKUSEI]
-[s]Eu sinto que posso me aproximar de Yusuke[n]graças ao [n][var 2][n]Persona [clr 1][var 5][clr 27]...[n][w][e]
+[s]Eu sinto que posso me aproximar de Yusuke[n]graças ao [n][var 2] Persona [clr 1][var 5][clr 27]...[n][w][e]
 
 [msg MND_COOP_RANKUP_OK]
 [s]Eu sinto que meu vínculo com yusuke ficará[n]mais forte em breve...[n][w][e]
@@ -490,7 +490,7 @@
 
 [msg MSG_C04_YES_03_00 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 23 1 204 3 10 0 10][vp 8 2 1 4031 65535 0]Estou em débito com você. Seria bastante[n]difícil ir sozinho.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Agora, então, nosso destino é o Inokashira[n]Park.[n]Vamos.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Agora, então, nosso destino é o Inokashira[n]Park. Vamos.[n][w][e]
 
 [msg MSG_C04_YES_04_00 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 23 1 204 3 10 0 10][vp 8 2 1 4052 65535 0]Acredito que vou encontrar o que estou[n]procurando na igreja. Vamos ir até lá.[n][w][e]
@@ -519,7 +519,7 @@
 
 [msg MSG_C04_YES_06_03 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 23 1 204 3 10 0 10][vp 8 2 1 0 65535 0]Ele diz que está disposto a se encontrar[n]comigo neste instante.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]... eu apreciaria se você pudesse se juntar[n]a mim, [n][f 4 2].[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]... eu apreciaria se você pudesse se juntar[n]a mim,  [f 4 2].[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Sua presença pode ajudar a aliviar meu[n]desconforto social, além de difundir a[n]tentação do dinheiro.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Além disso, sua compostura permitirá que[n]você diga se ele está realmente tentando me[n]enganar.[n][w][e]
 
@@ -739,7 +739,7 @@
 
 [msg MSG_C04_REQUEST_NOW_00 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 23 1 204 3 10 0 10][vp 8 2 1 0 65535 0]HM? Eu já aceitei um pedido de você.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 4032 65535 0]Minhas desculpas, mas isso exigirá algum[n]tempo.[n]Eu farei isso esta noite.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 4032 65535 0]Minhas desculpas, mas isso exigirá algum[n]tempo. Eu farei isso esta noite.[n][w][e]
 
 [msg MSG_C04_REQUEST_COMP_00 [Yusuke]]
 [s][bup 0 5 1 65535 0][f 4 10 65535 0 0][f 4 23 1 204 3 10 0 10][vp 8 2 1 4019 65535 0]Ah, [f 4 2]. Aí está você.[n][w][e]

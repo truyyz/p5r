@@ -217,7 +217,7 @@
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 0 0 79 65535 0]Vocês possuem um yukata? Você vai usar um[n]yukata!?[n][f 1 3 65535][w][e]
 
 [msg MSG_056_5_0 [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 80 65535 0]Um festival de fogos de artifício não soa[n]bem?[n]Você pensa também, certo?[n][f 1 3 65535][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 80 65535 0]Um festival de fogos de artifício não soa[n]bem? Você pensa também, certo?[n][f 1 3 65535][w][e]
 
 [sel SEL_057_0_0 top]
 [s]É uma ótima ideia.[e]

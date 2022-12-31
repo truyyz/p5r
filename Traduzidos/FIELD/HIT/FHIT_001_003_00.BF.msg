@@ -53,7 +53,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1045 65535 0]Não achei que você se tornaria o[n]"capitão"... você realmente tem algo[n]"especial"![n][w][e]
 
 [msg MSG_LAST_GREETING_GALAXY_2 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1171 65535 0]Eu acho que você chegou ao primeiro[n]companheiro.[n]Você se saiu muito bem.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1171 65535 0]Eu acho que você chegou ao primeiro[n]companheiro. Você se saiu muito bem.[n][w][e]
 
 [msg MSG_LAST_GREETING_GALAXY_3 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1169 65535 0]Você chegou ao segundo companheiro, certo?[n]Comer demais não é bom para você...[n][w][e]
@@ -141,7 +141,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0]Venha para pensar sobre isso, você se[n]candidatou a um emprego de meio período[n]nesta loja de bowls, certo?[n][w][e]
 
 [msg MSG_Beef_NoShift [Morgana]]
-[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 1 1173 65535 0]HM? Seu turno na loja de bowls de carne está[n]em [n][clr 2]noite [clr 27], não é?[n][w][e]
+[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 1 1173 65535 0]HM? Seu turno na loja de bowls de carne está[n]em  [clr 2]noite [clr 27], não é?[n][w][e]
 
 [msg MSG_Beef_OKShift [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1167 65535 0]Você quer trabalhar aqui hoje?[n][w][e]
@@ -428,7 +428,7 @@
 
 [msg MSG_M79_GYU_DON_005_00_0 [Timid Man]]
 [s][f 4 25 1 500 0 0]W-quem você está...? Eu já contei à polícia[n]sobre ele...[n][w][e]
-[s][f 4 25 1 500 0 0]Esta loja geralmente é uma operação de um[n]homem.[n]Nós realmente não vemos outros[n]funcionários...[n][w][e]
+[s][f 4 25 1 500 0 0]Esta loja geralmente é uma operação de um[n]homem. Nós realmente não vemos outros[n]funcionários...[n][w][e]
 [s][f 4 25 1 500 0 0]E mesmo que eu o veja às vezes, apenas[n]conversamos algumas vezes...[n][w][e]
 
 [sel SEL_M79_GYU_DON_006_00_0 top]
@@ -596,10 +596,10 @@
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 1171 65535 0]Todos os tipos de hambúrgueres, hein? Como[n]eles poderiam ser? Minha curiosidade está[n]despertada...[n][w][e]
 
 [msg MSG_E24330100_NG_GOTO_UN [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 65535 1155 0 0]Você vai em frente e lida com a Central[n]Street.[n]Deixe o resto para os outros.[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 65535 1155 0 0]Você vai em frente e lida com a Central[n]Street. Deixe o resto para os outros.[n][w][e]
 
 [msg MSG_E24330100_NG_GOTO_UN_2 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 65535 1155 0 0]Você vai em frente e lida com a Central[n]Street.[n]Deixe o resto para os outros.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 65535 1155 0 0]Você vai em frente e lida com a Central[n]Street. Deixe o resto para os outros.[n][w][e]
 
 [msg MND_COMMON_CHK_TSUTAYA]
 [s][vp 8 2 65535 0 0 0]Isso não é hora de desvios...[n][w][e]
@@ -618,7 +618,7 @@
 [s][vp 8 2 65535 0 0 0]Isso não é hora de desvios...[n][w][e]
 
 [msg MSG_CREPE_KF [Morgana]]
-[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 1067 65535 0]Isso se encaixaria perfeitamente em Lady[n]Ann...[n]É colorido e doce.[n][w][e]
+[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 1067 65535 0]Isso se encaixaria perfeitamente em Lady[n]Ann... É colorido e doce.[n][w][e]
 
 [msg MSG_CREPE_KF_R [Ryuji]]
 [s][bup 0 2 4 65535 0][f 4 10 65535 0 0][vp 8 2 1 7020 65535 0]Oh, estou surpreso que você saiba. Ann disse[n]que adora doces.[n][w][e]
@@ -627,7 +627,7 @@
 [s][vp 8 2 65535 0 0 0]Isso não é hora de desvios...[n][w][e]
 
 [msg MSG_CLOTHES_SHOP_KF [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1020 65535 0]Eu acho que é isso que você chamaria de[n]roupas da moda. Por que você não[n]experimenta, [n][f 4 2]?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1020 65535 0]Eu acho que é isso que você chamaria de[n]roupas da moda. Por que você não[n]experimenta, [f 4 2]?[n][w][e]
 
 [msg MSG_CLOTHES_SHOP_KF_R [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 7021 65535 0]Hmm, não é realmente o meu estilo.[n][w][e]
@@ -671,7 +671,7 @@
 
 [msg MSG_GYUUDON_KF_01]
 [s][vp 8 2 65535 0 0 0]É a loja de beliscões "Donburako". Há apenas[n]um funcionário, executando a loja sozinha.[n][w][e]
-[s][vp 8 2 65535 0 0 0]Esse funcionário está se movendo com alguns[n]sérios [n][clr 1]Agilidade [clr 27]...[n][w][e]
+[s][vp 8 2 65535 0 0 0]Esse funcionário está se movendo com alguns[n]sérios  [clr 1]Agilidade [clr 27]...[n][w][e]
 
 [msg MSG_GYUUDON_KF_02 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Esta loja de beliscões é chamada[n]"Donburako". Apenas um funcionário aqui,[n]mas que incrível.[n][w][e]
@@ -763,7 +763,7 @@
 [s]Eu posso sentir algo vindo para mim...[n][w][e]
 
 [msg MND_INC_PARAMCHK_S_TISIK]
-[s]Eu acho que estou perto de um avanço com o[n]meu [n][f 4 11 0][clr 26][f 4 12 0][clr 27]...[n][w][e]
+[s]Eu acho que estou perto de um avanço com o[n]meu  [f 4 11 0][clr 26][f 4 12 0][clr 27]...[n][w][e]
 
 [msg MND_RankUp_OK_Miryoku]
 [s]Eu me sinto como meu [f 4 11 1][clr 26][f 4 12 0][clr 27][n]vai melhorar em breve...[n][w][e]
@@ -778,7 +778,7 @@
 [s]Eu posso sentir algo vindo para mim...[n][w][e]
 
 [msg MND_INC_PARAMCHK_S_MIRYO]
-[s]Eu acho que estou perto de um avanço com o[n]meu [n][f 4 11 1][clr 26][f 4 12 1][clr 27]...[n][w][e]
+[s]Eu acho que estou perto de um avanço com o[n]meu  [f 4 11 1][clr 26][f 4 12 1][clr 27]...[n][w][e]
 
 [msg MND_RankUp_OK_Kiyou]
 [s]Eu me sinto como meu [f 4 11 2][clr 26][f 4 12 2][clr 27][n]vai melhorar em breve...[n][w][e]
@@ -796,7 +796,7 @@
 [s]Eu posso sentir algo vindo para mim...[n][w][e]
 
 [msg MND_INC_PARAMCHK_S_KIYOU]
-[s]Eu acho que estou perto de um avanço com o[n]meu [n][f 4 11 2][clr 26][f 4 12 2][clr 27]...[n][w][e]
+[s]Eu acho que estou perto de um avanço com o[n]meu  [f 4 11 2][clr 26][f 4 12 2][clr 27]...[n][w][e]
 
 [msg MND_RankUp_OK_Dokyo]
 [s]Eu me sinto como meu [f 4 11 3][clr 26][f 4 12 3][clr 27][n]vão melhorar em breve...[n][w][e]
@@ -811,7 +811,7 @@
 [s]Eu posso sentir algo vindo para mim...[n][w][e]
 
 [msg MND_INC_PARAMCHK_S_DOKYO]
-[s]Eu acho que estou perto de um avanço com o[n]meu [n][f 4 11 3][clr 26][f 4 12 3][clr 27]...[n][w][e]
+[s]Eu acho que estou perto de um avanço com o[n]meu  [f 4 11 3][clr 26][f 4 12 3][clr 27]...[n][w][e]
 
 [msg MND_RankUp_OK_Yasasisa]
 [s]Eu me sinto como meu [f 4 11 4][clr 26][f 4 12 4][clr 27][n]vai melhorar em breve...[n][w][e]
@@ -829,7 +829,7 @@
 [s]Eu posso sentir algo vindo para mim...[n][w][e]
 
 [msg MND_INC_PARAMCHK_S_YASAS]
-[s]Eu acho que estou perto de um avanço com o[n]meu [n][f 4 11 4][clr 26][f 4 12 4][clr 27]...[n][w][e]
+[s]Eu acho que estou perto de um avanço com o[n]meu  [f 4 11 4][clr 26][f 4 12 4][clr 27]...[n][w][e]
 
 [msg MSG_CinemaBuyTicketSIBUY [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1179 65535 0]Oh sim! Você precisa comprar um ingresso[n]primeiro.[n][w][e]

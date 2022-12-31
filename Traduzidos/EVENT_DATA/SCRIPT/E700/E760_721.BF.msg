@@ -193,19 +193,19 @@
 [s][bup 0 3 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Aposto que pular na barragem inimiga[n]aumentou seu [n][f 4 11 3][clr 26][f 4 12 3][clr 27].[n][f 1 3 65535][w][e]
 
 [msg MND_018_1_0]
-[s][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Parece que lutar contra o inimigo aumentou[n]meu [n][f 4 11 3][clr 26][f 4 12 3][clr 27]...[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Parece que lutar contra o inimigo aumentou[n]meu  [f 4 11 3][clr 26][f 4 12 3][clr 27]...[n][f 1 3 65535][w][e]
 
 [msg MSG_029_0_0 [Morgana]]
 [s][bup 0 3 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Aposto que ficar tão perto do inimigo[n]aumentou seu [n][f 4 11 3][clr 26][f 4 12 3][clr 27].[n][f 1 3 65535][w][e]
 
 [msg MND_029_1_0]
-[s][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Parece que lutar contra o inimigo aumentou[n]meu [n][f 4 11 3][clr 26][f 4 12 3][clr 27]...[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Parece que lutar contra o inimigo aumentou[n]meu  [f 4 11 3][clr 26][f 4 12 3][clr 27]...[n][f 1 3 65535][w][e]
 
 [msg MSG_048_0_0 [Morgana]]
 [s][bup 0 3 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Você conseguiu sobreviver aos seus ataques[n]agressivos... aposto que o seu [n][f 4 11 3][clr 26][f 4 12 3][clr 27]aumentou.[n][f 1 3 65535][w][e]
 
 [msg MND_048_1_0]
-[s][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Parece que lutar contra o inimigo aumentou[n]meu [n][f 4 11 3][clr 26][f 4 12 3][clr 27]...[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Parece que lutar contra o inimigo aumentou[n]meu  [f 4 11 3][clr 26][f 4 12 3][clr 27]...[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 1166 65535 0][f 4 22 65535 1 41]O livro da técnica secreta ajudou, hein?[n]Você está sempre procurando a maneira mais[n]eficiente de fazer as coisas. Eu admiro[n]isso por você![n][f 1 3 65535][w][e]

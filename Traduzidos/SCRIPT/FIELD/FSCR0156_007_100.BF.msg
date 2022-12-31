@@ -19,7 +19,7 @@
 [s][bup 0 5 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 8 0 0]Minhas desculpas por dizer isso, noir, mas[n]isso é verdadeiramente atroz.[n][w][e]
 
 [msg D05_02_e341_061_mes07 [Ryuji]]
-[s][bup 0 2 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 9 0 0]Bem, tudo ficará sob controle se pudermos[n]desencadear essa mudança de coração nele,[n]sim?[n]Vamos![n][w][e]
+[s][bup 0 2 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 9 0 0]Bem, tudo ficará sob controle se pudermos[n]desencadear essa mudança de coração nele,[n]sim? Vamos![n][w][e]
 
 [msg D156_07_HIT_mes01 [Haru]]
 [s][bup 0 7 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu simplesmente não posso acreditar que é[n]assim que o pai vê seus funcionários...[n][w][e]

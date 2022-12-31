@@ -87,7 +87,7 @@
 [s][bup 0 107 1 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 42 5 100][f 4 24 0 4 0 9 5 100][f 4 24 0 4 0 0 5 0][vp 8 0 0 0 65535 0]Vou escrever um artigo que você realmente[n]gostará! Pense nisso como um sinal de minha[n]apreciação![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 16099 65535 0]Eu posso ver agora! "Exclusivo: por trás dos[n]incríveis ladrões Phantom! Disque 911 para[n]a justiça!" [n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]... Como é esse som?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Haha, não se preocupe! Vou levar isso a[n]sério.[n]Afinal, isso é o que eu prometi a você.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Haha, não se preocupe! Vou levar isso a[n]sério. Afinal, isso é o que eu prometi a você.[n][f 1 3 65535][w][e]
 
 [msg MND_990_0_0]
 [s][vp 8 0 0 0 65535 0]Meu acordo com Ohya parece estar progredindo[n]sem problemas...[n][f 1 3 65535][w][e]

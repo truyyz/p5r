@@ -26,7 +26,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1171 65535 0]O que está errado? Vamos lá, devemos dizer[n]adeus aos outros![n][w][e]
 
 [msg MSG_GunShoot [Morgana]]
-[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 1184 65535 0]Um controlador de jogo em forma de arma, não[n]é?[n]Há algum que pareça estilingue?[n][w][e]
+[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 1184 65535 0]Um controlador de jogo em forma de arma, não[n]é? Há algum que pareça estilingue?[n][w][e]
 
 [msg MSG_SideUFO [Morgana]]
 [s][bup 0 3 4 0 0][f 4 10 65535 0 0][vp 8 2 1 1165 65535 0]Este fliperama está cheio de jogos de[n]guindaste.[n][w][e]

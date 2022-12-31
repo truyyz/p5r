@@ -93,7 +93,7 @@
 [s]Modelo.[e]
 
 [msg THINK_2A_01 [Morgana]]
-[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu acho que eles não estão conectados, no[n]entanto.[n]O "tipo" alemão e o "tipo" inglês são[n]diferentes.[n][f 1 3 65535][w][e]
+[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu acho que eles não estão conectados, no[n]entanto. O "tipo" alemão e o "tipo" inglês são[n]diferentes.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Esses tipos de palavras o levarão a sério,[n]sério.[n][f 1 3 65535][w][e]
 
 [msg THINK_2B_01 [Morgana]]
@@ -305,7 +305,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Espere, não. Eu não acho que foi algo tão[n]elevado ou poético.[n][f 1 3 65535][w][e]
 
 [msg THINK_0124_1B_00 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu não sou um gato! U-uh, quero dizer...[n]bem...[n]Desculpe. Força do hábito.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu não sou um gato! U-uh, quero dizer...[n]bem... Desculpe. Força do hábito.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vamos pensar sobre isso desde o início[n]novamente.[n][f 1 3 65535][w][e]
 
 [msg THINK_0124_1C_00 [Morgana]]
@@ -507,7 +507,7 @@
 [s]Doentio.[e]
 
 [msg THINK_1A_0124_04 [Morgana]]
-[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]... você percebe que a gíria não é literal,[n]certo?[n]Acalme-se e pense.[n][f 1 3 65535][w][e]
+[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]... você percebe que a gíria não é literal,[n]certo? Acalme-se e pense.[n][f 1 3 65535][w][e]
 
 [msg THINK_1B_0124_04 [Morgana]]
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sim você está certo. E tem uma conotação[n]bastante positiva.[n][f 1 3 65535][w][e]

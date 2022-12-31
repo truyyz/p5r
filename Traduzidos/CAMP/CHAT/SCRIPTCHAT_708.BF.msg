@@ -1,8 +1,8 @@
 [msg MSG_000_0_0 [Sumire]]
-[s][f 5 14]【仮】見てもらいたいものが[n]あります[n]今の私の演技です[n][w][e]
+[s][f 5 14]【仮】見てもらいたいものが[n]あります 今の私の演技です[n][w][e]
 
 [msg MSG_001_0_0 [Sumire]]
-[s][f 5 14][f 5 15]【仮】それで[n]怪盗団の皆に[n]見て欲しいんですが...[n][w][e]
+[s][f 5 14][f 5 15]【仮】それで[n]怪盗団の皆に 見て欲しいんですが...[n][w][e]
 
 [sel SEL_COOP_PLAY_RESULT top]
 [s][f 5 14]Tudo bem.[e]
@@ -11,7 +11,7 @@
 [s][f 5 14]【仮】[n]ありがとうございます[n][w][e]
 
 [msg CHAT_REACTION_02 [Sumire]]
-[s][f 5 14][f 5 15]【仮】[n]では体Ù館で[n]お願いします[n][w][e]
+[s][f 5 14][f 5 15]【仮】[n]では体Ù館で お願いします[n][w][e]
 
 [msg MSG_MORUGANA_PLAY_CHECK [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Então, você vai passar algum tempo com[n]Yoshizawa?[n][f 1 3 65535][w][e]
@@ -127,6 +127,6 @@
 [s]Você também pode convidar pessoas que[n]possam desfrutar do aquário para sair[n]com você lá.[n][w][e]
 
 [msg MSG_SPOT_OPEN_NAKANO]
-[s]Agora você tem informações sobre um novo[n]ponto de encontro: [n][clr 2]Distrito de construção de comércio de[n]Nakano [n][clr 27].[n][w][e]
+[s]Agora você tem informações sobre um novo[n]ponto de encontro: [n][clr 2]Distrito de construção de comércio de[n]Nakano  [clr 27].[n][w][e]
 [s]Você também pode convidar pessoas que[n]possam desfrutar desse local para sair[n]com você lá.[n][w][e]
 

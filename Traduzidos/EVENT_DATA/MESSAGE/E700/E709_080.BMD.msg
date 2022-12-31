@@ -36,7 +36,7 @@
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sabe... não há como eu poder ligar para ela[n]e pedir desculpas antes.[n][f 1 3 65535][w][e]
 
 [msg MSG_007_5_0 [Futaba]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 8 1 300 1][vp 8 2 0 9191 65535 0]É tudo por sua causa que eu poderia fazer[n]isso, [n][f 4 2]![n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 8 1 300 1][vp 8 2 0 9191 65535 0]É tudo por sua causa que eu poderia fazer[n]isso,  [f 4 2]![n][f 1 3 65535][w][e]
 
 [sel SEL_008_0_0 top]
 [s][f 0 8 2 1 2217]Você também trabalhou muito.[clr 27][e]

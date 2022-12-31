@@ -24,7 +24,7 @@
 [s][bup 0 113 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Foi quando ele me deu o apelido da donzela[n]do alívio.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ele me disse que eu possuía um poder divino[n]para salvar os outros da infortúnio...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Que eu poderia me tornar mais do que o[n]monstro que as pessoas me viam.[n][f 1 3 65535][w][e]
-[s][bup 0 113 1 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 42 5 100][f 4 24 0 4 0 1 5 0][vp 8 0 0 0 65535 0]Eu... quebrei no momento em que ele disse[n]isso.[n]Hahaha...[n][f 1 3 65535][w][e]
+[s][bup 0 113 1 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 42 5 100][f 4 24 0 4 0 1 5 0][vp 8 0 0 0 65535 0]Eu... quebrei no momento em que ele disse[n]isso. Hahaha...[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Chihaya]]
 [s][bup 0 113 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 10110 65535 0]No fundo, eu sabia o tempo todo que os[n]sagrados Stones não tinham nenhum poder...[n][f 1 3 65535][w][e]

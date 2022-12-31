@@ -102,7 +102,7 @@
 
 [msg MSG_C16_BEGIN_TIME_10 [Shinya]]
 [s][bup 0 110 0 0 0][f 4 10 65535 0 0][f 4 23 1 216 3 10 0 10][vp 8 2 1 17002 65534 0]Ei, [f 4 1]-san. Sou só eu, ou todo mundo está agindo[n]realmente estranho?[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65534 0]As pessoas parecem tão felizes, mesmo quando[n]perdem.[n]Está meio que me enlouquece.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65534 0]As pessoas parecem tão felizes, mesmo quando[n]perdem. Está meio que me enlouquece.[n][w][e]
 
 [msg MSG_C16_BEGIN_SECOND_00 [Shinya]]
 [s][bup 0 110 0 0 0][f 4 10 65535 0 0][f 4 23 1 216 3 10 0 10][vp 8 2 1 17057 65535 0]Você precisa de outra coisa?[n][w][e]
@@ -138,11 +138,11 @@
 [s][bup 0 110 0 0 0][f 4 10 65535 0 0][f 4 23 1 216 3 10 0 10][vp 8 2 1 0 65535 0]Você não vai treinar hoje? Eu posso te[n]ensinar um monte de coisas.[n][w][e]
 
 [msg MSG_C16_COOP_03_00 [Shinya]]
-[s][bup 0 110 1 0 0][f 4 10 65535 0 0][f 4 23 1 216 3 10 0 10][vp 8 2 1 0 65535 0]Mesmo assim, você está ficando muito bom[n]nisso, [n][f 4 1]-san.[n][w][e]
+[s][bup 0 110 1 0 0][f 4 10 65535 0 0][f 4 23 1 216 3 10 0 10][vp 8 2 1 0 65535 0]Mesmo assim, você está ficando muito bom[n]nisso,  [f 4 1]-san.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Você vai treinar hoje também, certo?[n][w][e]
 
 [msg MSG_C16_COOP_04_00 [Shinya]]
-[s][bup 0 110 0 0 0][f 4 10 65535 0 0][f 4 23 1 216 3 10 0 10][vp 8 2 1 0 65535 0]Eu acho que quero manter o treinamento de[n]hoje.[n]Tudo bem?[n][w][e]
+[s][bup 0 110 0 0 0][f 4 10 65535 0 0][f 4 23 1 216 3 10 0 10][vp 8 2 1 0 65535 0]Eu acho que quero manter o treinamento de[n]hoje. Tudo bem?[n][w][e]
 
 [msg MSG_C16_COOP_05_00 [Shinya]]
 [s][bup 0 110 1 0 0][f 4 10 65535 0 0][f 4 23 1 216 3 10 0 10][vp 8 2 1 0 65535 0]Você e eu temos que ficar mais fortes e,[n]para fazer isso, precisamos praticar.[n][w][e]
@@ -196,7 +196,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Há algo que eu quero falar com você enquanto[n]estamos nisso.[n][w][e]
 
 [msg MND_COOP_DOUZOKUSEI]
-[s]Eu sinto que posso me aproximar de Shinya[n]graças ao [n][var 2][n]Persona [clr 1][var 5][clr 27]...[n][w][e]
+[s]Eu sinto que posso me aproximar de Shinya[n]graças ao [n][var 2] Persona [clr 1][var 5][clr 27]...[n][w][e]
 
 [msg MND_COOP_RANKUP_OK]
 [s]Eu sinto que meu vínculo com Shinya ficará[n]mais forte em breve...[n][w][e]
@@ -492,8 +492,8 @@
 [s][f 4 10 65535 0 0][vp 8 0 1 31 65535 0]Mas hoje em dia estou muito ocupado ajudando[n]a mãe ou brincando com meus amigos.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 32 65535 0]No começo, eu pensei que você era meio[n]estranho, mas...[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 33 65535 0]Agora, uh... você parece muito legal.[n]Então...[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 1 34 65535 0]Ainda sou seu professor quando se trata de[n]jogos, mas você é meu professor na vida[n]real, [n][f 4 1]-san.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 1 34 65535 0]Ainda sou seu professor quando se trata de[n]jogos, mas você é meu professor na vida[n]real,  [f 4 1]-san.[n][w][e]
 
 [msg MSG_C16_BYEGREET_00_07_5 [Shinya]]
-[s][bup 0 110 1 0 0][f 4 10 65535 0 600][f 4 23 1 216 3 10 0 10][vp 8 0 1 35 65535 0]Ainda sou seu professor quando se trata de[n]jogos, mas você é meu professor na vida[n]real, [n][f 4 1]-san.[n][w][e]
+[s][bup 0 110 1 0 0][f 4 10 65535 0 600][f 4 23 1 216 3 10 0 10][vp 8 0 1 35 65535 0]Ainda sou seu professor quando se trata de[n]jogos, mas você é meu professor na vida[n]real,  [f 4 1]-san.[n][w][e]
 

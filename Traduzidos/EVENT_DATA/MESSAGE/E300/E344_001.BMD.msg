@@ -42,7 +42,7 @@
 
 [msg MSG_010_0_0 [Shadow Okumura]]
 [s][bup 0 205 103 0 0][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]F-me adquirir, Haru...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Mas eu nunca duraria se meu tesouro fosse[n]roubado![n]Por favor, não faça isso, estou te[n]implorando![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Mas eu nunca duraria se meu tesouro fosse[n]roubado! Por favor, não faça isso, estou te[n]implorando![n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Haru]]
 [s][bup 0 7 103 65535 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Pai...[n][f 1 3 65535][w][e]

@@ -59,7 +59,7 @@
 [s]Vamos lá, Sonny, você precisa usar suas[n]palavras.[n]De que outra forma você vai conseguir as[n]senhoras?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_01_R_14]
-[s]Você sabe o que as balas de pulverização[n]fazem?[n]Isso faz você parecer um idiota.[n][w][e]
+[s]Você sabe o que as balas de pulverização[n]fazem? Isso faz você parecer um idiota.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_01_R_15]
 [s]Falar é muita dor na bunda você? Cara, eu[n]ouço crianças hoje em dia nem quero sair de[n]seus quartos![n][w][e]
@@ -155,7 +155,7 @@
 [s]Que tipo de anfitrião faz seu convidado[n]consertar seu próprio chá? Seus pessoal não[n]te ensinaram maneiras?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_03_R_8]
-[s]Ah, isso é uma dor na bunda, então eu vou[n]passar.[n]Eu nem quero mais chá.[n][w][e]
+[s]Ah, isso é uma dor na bunda, então eu vou[n]passar. Eu nem quero mais chá.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_03_R_9]
 [s]Ok, Sonny, entendi, entendi. Não é[n]necessário jogar um ajuste sibilante.[n][w][e]
@@ -224,7 +224,7 @@
 [s]Nossa, espero que nunca se encontre com[n]alguém como você de novo...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_04_R_12]
-[s]Todo mundo tem uma ideia diferente do[n]inferno.[n]Aposto que na verdade não é tudo isso.[n][w][e]
+[s]Todo mundo tem uma ideia diferente do[n]inferno. Aposto que na verdade não é tudo isso.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_04_R_13]
 [s]DAMN, você é de sangue frio. Acho que você[n]deve estar treinando seus nervos.[n][w][e]
@@ -536,7 +536,7 @@
 [s]Você não gostaria de ser uma coisa muito[n]jovem agora?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_02_R_2]
-[s]O ponto maior que eu queria fazer era que[n]"objetivos" e "trabalho" também são[n]divertidos.[n]Ah, oh bem.[n][w][e]
+[s]O ponto maior que eu queria fazer era que[n]"objetivos" e "trabalho" também são[n]divertidos. Ah, oh bem.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_02_R_3]
 [s]Sim? Bem, se você pensa assim, pare de[n]perder tempo mexendo comigo.[n][w][e]
@@ -725,7 +725,7 @@
 [s]Sim? Existem humanos que também são duros,[n]mas você não vai bater naqueles caras.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_05_R_8]
-[s]Essa é a razão pela qual você está agindo[n]assim?[n]Me dê uma pausa, Sonny.[n][w][e]
+[s]Essa é a razão pela qual você está agindo[n]assim? Me dê uma pausa, Sonny.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_05_R_9]
 [s]Oh, então era só eu?[n][w][e]
@@ -737,7 +737,7 @@
 [s]Ahh, você realmente entende, Sonny![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_05_R_12]
-[s]Você realmente está fazendo isso, sem má[n]vontade?[n]Isso faz de um psicopata, Sonny...[n][w][e]
+[s]Você realmente está fazendo isso, sem má[n]vontade? Isso faz de um psicopata, Sonny...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_05_R_13]
 [s]Huh. Eu acho que realmente não importa você[n]se o cara que você vai contra é humano ou[n]não.[n][w][e]
@@ -1331,7 +1331,7 @@
 [s]Eu estarei ao seu lado até o final.[e]
 
 [msg TalkMsg_GUY_CHAT_SQ_16_R]
-[s]Mas você vai me matar, de qualquer maneira,[n]certo?[n]Saia daqui.[n][w][e]
+[s]Mas você vai me matar, de qualquer maneira,[n]certo? Saia daqui.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_16_R_2]
 [s]Você sabe o que "hospitalidade" significa?[n][w][e]
@@ -1401,7 +1401,7 @@
 [s]Os outros caras me venciam em uma polpa se[n]descobrissem, mas me dê [n][var 0]Yen e Ya conseguiram um acordo.[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_FIFTYFI_2]
-[s]Não consigo nada desse acordo. Pelo menos me[n]dê um [n][f 2 5 3 9999 3].[n][w][e]
+[s]Não consigo nada desse acordo. Pelo menos me[n]dê um  [f 2 5 3 9999 3].[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_FIFTYFI_3]
 [s]Não sei se eu puder fazer isso quando eu for[n]tão fraco, mas me dê um pouco da força[n]vital e tudo ficará bem.[n][w][e]
@@ -1427,7 +1427,7 @@
 
 [msg TalkMsg_GUY_NEGO_REQUIRE_4]
 [s]Não sei. Isso significaria estar envolvido[n]em outras sombras, e eu tenho que mentir[n]também...[n][w][e]
-[s]Eles me matariam se eu fosse descoberto,[n]você sabe.[n]Agora, seria uma história diferente se eu[n]tivesse um bom [n][f 2 5 3 9999 3].[n][w][e]
+[s]Eles me matariam se eu fosse descoberto,[n]você sabe.[n]Agora, seria uma história diferente se eu[n]tivesse um bom [f 2 5 3 9999 3].[n][w][e]
 
 [sel TalkSel_GUY_NEGO_REQUIRE top]
 [s]Entregue [e]

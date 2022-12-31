@@ -68,7 +68,7 @@
 [s][vp 8 0 0 0 65535 0][f 5 14]Excelente.[n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Makoto]]
-[s][vp 8 0 0 0 65535 0][f 5 14]Vou parar quando a loja estiver prestes a[n]fechar.[n]Bem boa noite.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 5 14]Vou parar quando a loja estiver prestes a[n]fechar. Bem boa noite.[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Haru]]
 [s][vp 8 0 0 0 65535 0][f 5 14]Perfeito! Vejo você amanhã então![n][f 1 3 65535][w][e]

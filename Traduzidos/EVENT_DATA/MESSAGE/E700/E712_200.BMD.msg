@@ -4,7 +4,7 @@
 [s][bup 0 104 2 0 0][f 4 10 65535 0 0][f 4 24 0 4 0 37 5 100][vp 8 0 0 0 65535 0]Você obviamente saberá o nome do fabricante[n]se você for um verdadeiro entusiasta, certo?[n][f 1 3 65535][w][e]
 
 [msg MND_001_0_0]
-[s][vp 8 0 0 0 65535 0]Esta pergunta afetará a confiança de Iwai em[n]mim.[n]Eu tenho que responder corretamente![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Esta pergunta afetará a confiança de Iwai em[n]mim. Eu tenho que responder corretamente![n][f 1 3 65535][w][e]
 
 [sel SEL_002_0_0 top]
 [s]Gorbachev.[e]

@@ -246,7 +246,7 @@
 [s][vp 8 2 1 0 65535 0]Mas... oh não! Meu amado se sente tão[n]distante de mim novamente! Onde você está,[n]Akechi-kun!?[n][w][e]
 
 [msg MSG_OKAMAFUTARI_012_2_0 [Angel]]
-[s][f 4 23 1 65535 3 10 0 10][vp 8 2 1 0 65535 0]De alguma forma, ele deve saber como você se[n]sente.[n]Ele fugiu e se escondeu![n][w][e]
+[s][f 4 23 1 65535 3 10 0 10][vp 8 2 1 0 65535 0]De alguma forma, ele deve saber como você se[n]sente. Ele fugiu e se escondeu![n][w][e]
 
 [msg MSG_OKAMAFUTARI_013_0_0 [Angel]]
 [s][f 4 23 1 65535 3 10 0 10][vp 8 2 1 0 65535 0]Incrível! Ele voltou![n]Eu pensei que ele morreu, mas aqui está ele.[n]Isso é realmente emocionante![n][w][e]
@@ -525,7 +525,7 @@
 [s]Eu realmente tenho que sair.[e]
 
 [msg MSG_SUKAUTOMAN_002_2_0 [Fishy Hawker]]
-[s][f 4 23 1 8 12 10 3 10][vp 8 2 1 0 8 0]Sim! É melhor você comprar... esses[n]impressionantes livros de referência de[n]estudo![n]Se você apenas assinar aqui...[n][w][e]
+[s][f 4 23 1 8 12 10 3 10][vp 8 2 1 0 8 0]Sim! É melhor você comprar... esses[n]impressionantes livros de referência de[n]estudo! Se você apenas assinar aqui...[n][w][e]
 
 [msg MSG_SUKAUTOMAN_002_3_0 [Fishy Hawker]]
 [s][f 4 23 1 8 12 10 3 10][vp 8 2 1 0 8 0]Sim! Você realmente precisa sair...[n]Sua assinatura neste contrato para obter[n]esses livros incríveis![n][w][e]
@@ -586,7 +586,7 @@
 [s][vp 8 2 1 0 8 0]Kid idiota, saia aqui! Como se alguém como[n]você pudesse se tornar um ladrão fantasma![n][w][e]
 
 [msg MSG_SUKAUTOMAN_004_5_0 [Fishy Hawker]]
-[s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]Então, qual é a sua resposta? Acho que[n]descobriremos depois dessas mensagens![n]Esses...[n]mensagens...[n][w][e]
+[s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]Então, qual é a sua resposta? Acho que[n]descobriremos depois dessas mensagens![n]Esses... mensagens...[n][w][e]
 [s][vp 8 2 1 0 8 0]PSH. Garoto idiota, me ignorando. Saia[n]daqui! Como se alguém como você pudesse se[n]tornar um ladrão fantasma![n][w][e]
 
 [msg MSG_SUKAUTOMAN_005_0_0 [Fishy Hawker]]
@@ -662,7 +662,7 @@
 [s][f 4 23 1 9 3 10 0 10][vp 8 2 1 0 9 0]B-mas o preço das ações da Okumura Foods que[n]comprei do meu amigo despencou...[n][w][e]
 
 [msg MSG_SUKAUTOMAN_008_2_0 [Fishy Hawker]]
-[s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]Tudo o que você precisa fazer é compensar[n]isso![n]Na verdade, eu tenho essa informação[n]secreta...[n][w][e]
+[s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]Tudo o que você precisa fazer é compensar[n]isso! Na verdade, eu tenho essa informação[n]secreta...[n][w][e]
 
 [msg MSG_SUKAUTOMAN_008_3_0 [Shabby Middle-Aged Man]]
 [s][f 4 23 1 9 3 10 0 10][vp 8 2 1 0 9 0]R-Really!? Por favor, diga-me o que é![n][w][e]
@@ -824,7 +824,7 @@
 [s][vp 8 2 1 0 11 0]Isso significa apenas que temos que ir[n]depois de trazê-los, mesmo que você precise[n]fazê-lo pela força- o entende?[n][w][e]
 
 [msg MSG_GEINOUDON_004_1_0 [Dream-Chasing Girl]]
-[s][f 4 23 1 12 3 10 0 10][vp 8 2 1 0 12 0]Eu não quero fazer uma sessão de fotos[n]sexy...[n]Eu só quero cantar.[n][w][e]
+[s][f 4 23 1 12 3 10 0 10][vp 8 2 1 0 12 0]Eu não quero fazer uma sessão de fotos[n]sexy... Eu só quero cantar.[n][w][e]
 
 [msg MSG_GEINOUDON_004_2_0 [Show-Biz Veteran]]
 [s][f 4 23 1 11 3 10 0 10][vp 8 2 1 0 11 0]Olha, entendi, eu realmente faço. Você está[n]um pouco nervoso, com certeza, mas precisa[n]fazer isso para conquistar o coração das[n]pessoas.[n][w][e]
@@ -1474,10 +1474,10 @@
 [s][vp 9 2 65535 43407 0 0]Temos que viver com medo daqueles ladrões[n]fantasmas agora...?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_020_03_ [Dream-Chasing Girl]]
-[s][vp 9 2 65535 43555 0 0]Aqueles ladrões fantasmas precisam ser[n]parados.[n]Eu não quero morrer...[n][f 1 2 180][e]
+[s][vp 9 2 65535 43555 0 0]Aqueles ladrões fantasmas precisam ser[n]parados. Eu não quero morrer...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_020_04_ [Dream-Chasing Girl]]
-[s][vp 9 2 65535 45907 0 0]Quanto tempo os ladrões fantasmas ficarão à[n]solta?[n]Apresse-se e faça algo![n][f 1 2 180][e]
+[s][vp 9 2 65535 45907 0 0]Quanto tempo os ladrões fantasmas ficarão à[n]solta? Apresse-se e faça algo![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_020_05_ [Dream-Chasing Girl]]
 [s][vp 9 2 65535 43657 0 0]Não podemos deixar os ladrões fantasmas[n]correrem de graça.[n]Alguém tem que detê-los![n][f 1 2 180][e]
@@ -1645,7 +1645,7 @@
 [s][vp 9 2 65535 45657 0 0]Apresse-se e prenda os outros ladrões[n]fantasmas! Eu sei que há mais do que aquele[n]que morreu![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_025_02_ [Dream-Chasing Girl]]
-[s][vp 9 2 65535 40052 0 0]Ele cometeu suicídio logo depois de ser[n]preso?[n]Que se intensificou rapidamente...[n][f 1 2 180][e]
+[s][vp 9 2 65535 40052 0 0]Ele cometeu suicídio logo depois de ser[n]preso? Que se intensificou rapidamente...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_025_03_ [Dream-Chasing Girl]]
 [s][vp 9 2 65535 38404 0 0]Esse ladrão fantasma realmente cometeu[n]suicídio no mesmo dia em que foi preso...?[n][f 1 2 180][e]
@@ -1855,7 +1855,7 @@
 [s][vp 9 2 65535 38804 0 0]Ei, o que é um bom presente para celebrar[n]alguém sendo aceito na escola?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_031_02_ [Dream-Chasing Girl]]
-[s][vp 9 2 65535 42011 0 0]Apenas mais dois contratos, e tudo isso terá[n]acabado![n]Você consegue![n][f 1 2 180][e]
+[s][vp 9 2 65535 42011 0 0]Apenas mais dois contratos, e tudo isso terá[n]acabado! Você consegue![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_031_03_ [Dream-Chasing Girl]]
 [s][vp 9 2 65535 43705 0 0]Ela não está estudando em um campo[n]diferente? Eu nunca a vi antes.[n][f 1 2 180][e]
@@ -1873,7 +1873,7 @@
 [s][vp 9 2 65535 43402 0 0]Não, não, não é nada disso. Eu sou apenas um[n]funcionário comum...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_031_08_ [Dream-Chasing Girl]]
-[s][vp 9 2 65535 43202 0 0]Trabalhar em um clube de hostess? Uh, não,[n]obrigado.[n]Eu tenho um emprego regular...[n][f 1 2 180][e]
+[s][vp 9 2 65535 43202 0 0]Trabalhar em um clube de hostess? Uh, não,[n]obrigado. Eu tenho um emprego regular...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_031_09_ [Dream-Chasing Girl]]
 [s][vp 9 2 65535 44058 0 0]Festa hoje, festa amanhã! Mantenha as[n]bebidas chegando![n][f 1 2 180][e]
@@ -2265,7 +2265,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Uau, esses níveis de drama queen estão fora[n]das paradas! Eu acho que temos nosso[n]próximo alvo.[n][w][e]
 
 [msg Quest16_target_01_00 [Tomoko Kamata]]
-[s][f 4 23 1 602 3 10 0 10][vp 8 2 1 0 602 0]Vamos passar por algumas lojas depois do[n]jantar.[n]Há um colar que eu realmente quero[n]conseguir...[n][w][e]
+[s][f 4 23 1 602 3 10 0 10][vp 8 2 1 0 602 0]Vamos passar por algumas lojas depois do[n]jantar. Há um colar que eu realmente quero[n]conseguir...[n][w][e]
 
 [msg Quest16_target_01_01 [Exhausted Boyfriend]]
 [s][f 4 23 1 603 3 10 0 10][vp 8 2 1 0 603 0]Huh? O jantar não é suficiente?[n][w][e]

@@ -21,7 +21,7 @@
 [s][bup 0 205 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Isso é um amigo seu?[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Haru]]
-[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Sim, ele tem sido um amigo maravilhoso para[n]mim.[n]Ele é um subclasse na minha escola.[n][f 1 3 65535][w][e]
+[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Sim, ele tem sido um amigo maravilhoso para[n]mim. Ele é um subclasse na minha escola.[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Okumura]]
 [s][bup 0 205 4 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]OHO... pensar que você teria um amigo, Haru![n][f 1 3 65535][w][e]

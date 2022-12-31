@@ -72,7 +72,7 @@
 [s][f 5 14]Eca. Isso seria traumático.[n][w][e]
 
 [msg MSG_022_0_1 [Akechi]]
-[s][f 5 14]Bem, podemos especular tudo o que[n]gostamos.[n]Ele é o único que poderia dizer com[n]certeza o que mudou.[n][w][e]
+[s][f 5 14]Bem, podemos especular tudo o que[n]gostamos. Ele é o único que poderia dizer com[n]certeza o que mudou.[n][w][e]
 
 [msg MSG_022_0_2 [Yusuke]]
 [s][f 5 14]Ainda é difícil de entender...[n][w][e]

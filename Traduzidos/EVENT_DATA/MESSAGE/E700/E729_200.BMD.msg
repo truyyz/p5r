@@ -2,7 +2,7 @@
 [s][bup 0 101 4 0 0][f 4 10 65535 0 0][vp 8 2 0 12039 65535 0]Meu, esta é a reunião.[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Caroline]]
-[s][bup 0 102 4 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Por que eles vieram aqui, de todos os[n]lugares?[n]Está tão quente...[n][f 1 3 65535][w][e]
+[s][bup 0 102 4 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Por que eles vieram aqui, de todos os[n]lugares? Está tão quente...[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Justine]]
 [s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Talvez eles estejam tentando pegar o ar frio[n]soprando sobre a água.[n][f 1 3 65535][w][e]

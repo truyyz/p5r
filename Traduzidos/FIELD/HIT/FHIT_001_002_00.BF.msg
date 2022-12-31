@@ -9,7 +9,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1163 65535 0]Este lugar estava em construção por um ano[n]inteiro.[n][w][e]
 
 [msg MSG_LAST_GREETING_KIOSUK [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1018 65535 0]Você estava com pressa de comprar alguma[n]coisa?[n]Vamos ver todos.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1018 65535 0]Você estava com pressa de comprar alguma[n]coisa? Vamos ver todos.[n][w][e]
 
 [msg MSG_LAST_GREETING_HIKARI [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1018 65535 0]Você não conhece ninguém que passaria aqui,[n]não é? Vamos a algum outro lugar.[n][w][e]

@@ -552,7 +552,7 @@
 
 [msg MSG_ANNE_SPOT_HARAJUKU [Ann]]
 [s][bup 0 4 1 65535 0][f 4 10 65535 0 0][f 4 23 1 226 14 10 13 10][f 4 23 1 206 3 10 0 10]Harajuku... que tal a rua Takenoko? Seria[n]ótimo se você pudesse fazer compras comigo.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 6052 65535 0]Mesmo apenas ir para as pessoas assistindo é[n]interessante.[n]Enfim, vamos lá![n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 6052 65535 0]Mesmo apenas ir para as pessoas assistindo é[n]interessante. Enfim, vamos lá![n][w][e]
 
 [msg MSG_ANNE_SPOT_HARAJUKU_0 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 23 1 226 14 10 13 10][f 4 23 1 206 3 10 0 10][vp 8 2 1 6023 65535 0]Ok, a Rua Takenoko parece ótima.[n][w][e]

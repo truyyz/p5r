@@ -29,7 +29,7 @@
 
 [msg MSG_007_0_0 [Haru]]
 [s][f 5 14]Encontrei o nome do revendedor em seu[n]site. É Takeo Saburi.[n][w][e]
-[s][f 5 14]Ele não pode usar comida e bebida em nome[n]do mal![n]Devemos ver a justiça servida![n][w][e]
+[s][f 5 14]Ele não pode usar comida e bebida em nome[n]do mal! Devemos ver a justiça servida![n][w][e]
 [s][f 5 14]... O único problema é... não temos[n]provas de que realmente é uma farsa.[n][w][e]
 
 [sel SEL_008_0_0 top]

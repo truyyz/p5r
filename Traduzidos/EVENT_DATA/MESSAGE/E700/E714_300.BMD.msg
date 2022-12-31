@@ -18,11 +18,11 @@
 
 [msg MSG_003_0_0 [Kawakami]]
 [s][bup 0 109 601 0 0][f 4 10 65535 0 0][vp 8 2 0 15030 65535 0][f 5 13 15 15 1009]Oh meu Deus, Mestre! Muito obrigado![clr 2][f 1 9 0][clr 27][n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vou me certificar de cumprir minha promessa[n]também.[n][clr 2][f 1 9 0][clr 27][n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vou me certificar de cumprir minha promessa[n]também. [clr 2][f 1 9 0][clr 27][n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Kawakami]]
-[s][bup 0 109 606 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 15 5 1009]Omigod, eu amo como você pode ver o quadro[n]geral![n][clr 2][f 1 9 0][clr 27][n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vou me certificar de cumprir minha promessa[n]também.[n][clr 2][f 1 9 0][clr 27][n][f 1 3 65535][w][e]
+[s][bup 0 109 606 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 15 5 1009]Omigod, eu amo como você pode ver o quadro[n]geral! [clr 2][f 1 9 0][clr 27][n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vou me certificar de cumprir minha promessa[n]também. [clr 2][f 1 9 0][clr 27][n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Kawakami]]
 [s][bup 0 109 602 0 0][f 4 10 65535 0 0][vp 8 2 0 15066 65535 0][f 5 13 15 5 1009]O que você nem vai jogar junto?[n]Você está me matando aqui...[n][f 1 3 65535][w][e]

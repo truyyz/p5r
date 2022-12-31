@@ -195,7 +195,7 @@
 
 [msg MSG_ROUKENTOSYOJYO_kf_00_2 [Gentle-Looking Mother]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Oh, ele está apenas observando para garantir[n]que todos estejam seguros.[n][w][e]
-[s][vp 8 2 1 0 0 0]Seria assustador se algo assim acontecesse[n]novamente.[n]Vamos nos apressar para casa.[n][w][e]
+[s][vp 8 2 1 0 0 0]Seria assustador se algo assim acontecesse[n]novamente. Vamos nos apressar para casa.[n][w][e]
 
 [msg MSG_ROUKENTOSYOJYO_001_0 [Dog-Loving Girl]]
 [s][f 4 23 1 1 7 10 6 10][vp 8 2 1 0 1 0]Você não pode sentar aqui, Kotaro![n]Estamos bloqueando o caminho das pessoas![n][w][e]
@@ -466,7 +466,7 @@
 
 [msg MSG_ROUKENTOSYOJYO_022_0 [Dog-Loving Girl]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Ei, Kotaro, é realmente difícil dizer adeus,[n]não é?[n][w][e]
-[s][vp 8 2 1 0 1 0]Se eu chorar, você também se sente triste,[n]Kotaro?[n]Você não gosta, certo?[n][w][e]
+[s][vp 8 2 1 0 1 0]Se eu chorar, você também se sente triste,[n]Kotaro? Você não gosta, certo?[n][w][e]
 
 [msg MSG_ROUKENTOSYOJYO_022_1 [Lazy Dog]]
 [s][vp 1 0 0 0 0 0]Woof! Woof woof![n][w][e]
@@ -514,7 +514,7 @@
 [s]Você está relembrando suas palavras?[e]
 
 [msg MSG_YOPPARAI_001_1_0 [Drunken Souse]]
-[s][vp 8 2 1 0 6 0]Você está dizendo para mim para que ele[n]tivesse?[n]Hahaha eu sei...[n][w][e]
+[s][vp 8 2 1 0 6 0]Você está dizendo para mim para que ele[n]tivesse? Hahaha eu sei...[n][w][e]
 
 [msg MSG_YOPPARAI_001_2_0 [Drunken Souse]]
 [s][vp 8 2 1 0 6 0]Hahaha! Quem sou eu? Eu digo ao novo para as[n]pessoas. Eu sou um neeeewscashter![n][w][e]
@@ -598,7 +598,7 @@
 [s]Eu não me importo.[e]
 
 [msg MSG_YOPPARAI_006_1_0 [Drunken Souse]]
-[s][vp 8 2 1 0 6 0]URP... Ei, garoto, Jush me dê um pouco de[n]cerveja![n]Alguns alkamahol, isso é ser xadrez![n][w][e]
+[s][vp 8 2 1 0 6 0]URP... Ei, garoto, Jush me dê um pouco de[n]cerveja! Alguns alkamahol, isso é ser xadrez![n][w][e]
 
 [msg MSG_YOPPARAI_006_2_0 [Drunken Souse]]
 [s][vp 8 2 1 0 6 0]Sério? Estranho, não me lembro de ter muito[n]para o DR- *Burp * [n][w][e]
@@ -623,10 +623,10 @@
 [s][f 4 23 1 5 3 10 0 10][vp 8 2 1 0 5 0]Não, ele está bêbado. Ele não percebe que[n]ainda é perigoso por aqui?[n][w][e]
 
 [msg MSG_YOPPARAI_007_3_0 [Burly Officer]]
-[s][f 4 23 1 5 3 10 0 10][vp 8 2 1 0 5 0]Pessoas bêbadas são realmente um problema.[n]Esse cara, no entanto, é particularmente[n]barulhento.[n]E as coisas que ele diz...[n][w][e]
+[s][f 4 23 1 5 3 10 0 10][vp 8 2 1 0 5 0]Pessoas bêbadas são realmente um problema.[n]Esse cara, no entanto, é particularmente[n]barulhento. E as coisas que ele diz...[n][w][e]
 
 [msg MSG_YOPPARAI_007_4_0 [Burly Officer]]
-[s][f 4 23 1 5 3 10 0 10][vp 8 2 1 0 5 0]Oh, bem, isso também faz parte do meu[n]trabalho.[n]Pelo menos ele não é do tipo violento.[n][w][e]
+[s][f 4 23 1 5 3 10 0 10][vp 8 2 1 0 5 0]Oh, bem, isso também faz parte do meu[n]trabalho. Pelo menos ele não é do tipo violento.[n][w][e]
 
 [msg MSG_YOPPARAI_008_0_0 [Drunken Souse]]
 [s][vp 8 2 1 0 6 0]Chirp chirp chirp... o shummer quente...[n]Está chegando a Soooon.[n][w][e]
@@ -675,7 +675,7 @@
 [s]Você foi invadido.[e]
 
 [msg MSG_YOPPARAI_010_1_0 [Drunken Souse]]
-[s][vp 8 2 1 0 6 0]Wha? Nããão... de jeito nenhum! Eu não sou[n]drrrunk![n]Não está bêbado... de jeito nenhum![n][w][e]
+[s][vp 8 2 1 0 6 0]Wha? Nããão... de jeito nenhum! Eu não sou[n]drrrunk! Não está bêbado... de jeito nenhum![n][w][e]
 [s][vp 8 2 1 0 6 0]Ei! Heeeey. Você não deveria estar falando[n]com Drrrunk Guysh...[n][w][e]
 
 [msg MSG_YOPPARAI_010_2_0 [Drunken Souse]]
@@ -792,7 +792,7 @@
 [s][vp 8 2 1 0 5 0]Desculpe por isto. Agora solte-o, e nós o[n]levaremos para casa.[n][w][e]
 
 [msg MSG_YOPPARAI_016_3_0 [Drunken Souse]]
-[s][vp 8 2 1 0 6 0]Offisher! Acredito que eu ganhei o[n]reencontro de trinta e poucos anos. Eu[n]peguei...[n]Muh Phannom Thief.[n][w][e]
+[s][vp 8 2 1 0 6 0]Offisher! Acredito que eu ganhei o[n]reencontro de trinta e poucos anos. Eu[n]peguei... Muh Phannom Thief.[n][w][e]
 
 [msg MSG_YOPPARAI_016_4_0 [Burly Officer]]
 [s][f 4 23 1 5 3 10 0 10][vp 8 2 1 0 5 0]Está bem, está bem.[n][w][e]
@@ -904,7 +904,7 @@
 
 [msg MSG_YOPPARAI_023_1_0 [Drunken Souse]]
 [s][vp 8 2 1 0 6 0]O que? Quem- quem você chama de John?[n]Isso nem é o nome![n][w][e]
-[s][vp 8 2 1 0 6 0]JONO JOHO JOHO JOHNSON aqui- você quer dizer[n]olá?[n]Helloooo, ossifer...![n][w][e]
+[s][vp 8 2 1 0 6 0]JONO JOHO JOHO JOHNSON aqui- você quer dizer[n]olá? Helloooo, ossifer...![n][w][e]
 
 [msg MSG_YOPPARAI_023_2_0 [Burly Officer]]
 [s][f 4 23 1 5 3 10 0 10][vp 8 2 1 0 5 0]Wha-!? Afaste isso! Você vai se refrescar em[n]uma cela de prisão se não assistir![n][w][e]
@@ -927,7 +927,7 @@
 [s][f 4 23 1 11 3 10 0 10][vp 8 2 1 0 11 0]Meus pais não podiam nem responder isso.[n]Por que eles estão nos perguntando?[n][w][e]
 
 [msg MSG_HINEKUREKODOMO_001_2 [Rebellious Grade Schooler]]
-[s][f 4 23 1 10 3 10 0 10][vp 8 2 1 0 10 0]Eles disseram que teríamos essa doença[n]estranha se não estudássemos, mas não estou[n]com medo.[n]Não somos crianças.[n][w][e]
+[s][f 4 23 1 10 3 10 0 10][vp 8 2 1 0 10 0]Eles disseram que teríamos essa doença[n]estranha se não estudássemos, mas não estou[n]com medo. Não somos crianças.[n][w][e]
 
 [msg MSG_HINEKUREKODOMO_001_3 [Innocent Grade Schooler]]
 [s][f 4 23 1 11 3 10 0 10][vp 8 2 1 0 11 0]Oh, você está falando sobre esse acidente de[n]trem? O engenheiro teve um ataque cardíaco,[n]certo?[n][w][e]
@@ -1958,7 +1958,7 @@
 [s][f 4 23 1 2 14 10 13 10][vp 8 2 1 0 2 0]HM? Você queria ouvir?[n][w][e]
 
 [msg MSG_RADIONEWS_054_1_0 [DJ]]
-[s][vp 8 2 65535 0 0 0]O Dia dos Namorados está se aproximando[n]rapidamente![n]Você tem planos de roubar o coração de[n]alguém especial?[n][w][e]
+[s][vp 8 2 65535 0 0 0]O Dia dos Namorados está se aproximando[n]rapidamente! Você tem planos de roubar o coração de[n]alguém especial?[n][w][e]
 [s]Isso vai acabar como uma experiência doce ou[n]amarga? Adoraríamos ouvir suas confissões[n]mais sinceras![n][w][e]
 
 [msg MSG_RADIONEWS_054_2_0 [Old Man]]
@@ -2709,7 +2709,7 @@
 [s][vp 9 2 65535 41507 0 0]Eu vi um monte de relatórios especulando[n]sobre quem realmente são os ladrões Phantom.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_020_09_ [Old Man]]
-[s][vp 9 2 65535 44557 0 0]Alguém tem que fazer algo sobre os ladrões[n]Phantom![n]Não importa quem![n][f 1 2 180][e]
+[s][vp 9 2 65535 44557 0 0]Alguém tem que fazer algo sobre os ladrões[n]Phantom! Não importa quem![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_020_10_ [Old Man]]
 [s]0 [n][f 1 2 180][e]
@@ -2799,7 +2799,7 @@
 [s][vp 9 2 65535 41207 0 0]Quando eles vão prender esses ladrões[n]fantasmas!?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_023_09_ [Old Man]]
-[s][vp 9 2 65535 41807 0 0]Alguém tem que fazer algo sobre os ladrões[n]Phantom![n]Não importa quem![n][f 1 2 180][e]
+[s][vp 9 2 65535 41807 0 0]Alguém tem que fazer algo sobre os ladrões[n]Phantom! Não importa quem![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_023_10_ [Old Man]]
 [s]0 [n][f 1 2 180][e]
@@ -3297,7 +3297,7 @@
 [s][f 4 23 1 17 3 10 0 10][vp 8 2 1 0 17 0]Fiz uma visita a essa clínica em um ponto.[n]Depois que tomei algum remédio lá, minha[n]condição melhorou no local![n][w][e]
 [s][vp 8 2 1 0 17 0]Graças a isso, consegui através da minha[n]importante reunião. O futuro da minha[n]empresa estava andando nessa reunião! Que[n]alivio.[n][w][e]
 [s][vp 8 2 1 0 17 0]Mas é estranho. Era um frio tão grave...[n][w][e]
-[s][vp 8 2 1 0 17 0]Como me recuperei totalmente em apenas um[n]dia?[n]Que tipo de remédio eu tomei...[n][w][e]
+[s][vp 8 2 1 0 17 0]Como me recuperei totalmente em apenas um[n]dia? Que tipo de remédio eu tomei...[n][w][e]
 
 [msg Quest19_target_00_00 [Yasuo Jochi]]
 [s][f 4 23 1 601 3 10 0 10][vp 8 2 1 0 601 0]Você já pensou em nossa oferta?[n]Começaremos a construção do prédio de[n]escritórios depois de desocupar.[n][w][e]
@@ -3495,7 +3495,7 @@
 [s][vp 8 2 65535 0 0 0]Ela é uma mulher muito dura. Acho que faz[n]sentido, pois ela costumava ser médica.[n][w][e]
 [s][vp 8 2 65535 0 0 0]O que? Drogas!? Eu não poderia fazer isso...[n][w][e]
 [s][vp 8 2 65535 0 0 0]Faça parecer que ela está inconsciente?[n]Como um daqueles incidentes misteriosos...[n][w][e]
-[s][vp 8 2 65535 0 0 0]Tudo bem, procurarei um pouco no hospital[n]dela.[n]Eles meio que confiam em mim lá.[n][w][e]
+[s][vp 8 2 65535 0 0 0]Tudo bem, procurarei um pouco no hospital[n]dela. Eles meio que confiam em mim lá.[n][w][e]
 
 [msg MSG_TOSHINOSA_008_0_0 [Woman in Wheelchair]]
 [s][f 4 23 1 7 9 10 5 10][vp 8 2 65535 0 0 0]Ser casado é felicidade! Estou tão feliz, eu[n]poderia morrer... oh, estou apenas[n]brincando com você.[n][w][e]
@@ -3767,7 +3767,7 @@
 
 [msg MSG_KAWAKAMI_KAJI_001 [Kawakami]]
 [s][bup 0 109 602 0 0][f 4 10 65535 0 0][vp 8 2 1 0 214 0]O que? Lavanderia é um pedaço de bolo.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 214 0]Você vai em frente e aproveita seu tempo[n]livre.[n]Nossa, estou realmente com ciúmes...[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 214 0]Você vai em frente e aproveita seu tempo[n]livre. Nossa, estou realmente com ciúmes...[n][w][e]
 
 [msg MSG_KAWAKAMI_KAJI_RANK_M [Kawakami]]
 [s][bup 0 109 600 0 0][f 4 10 65535 0 0][vp 8 2 1 0 214 0]HM? O que é isso? Não se preocupe, apenas[n]deixe-me cuidar da limpeza.[n][w][e]

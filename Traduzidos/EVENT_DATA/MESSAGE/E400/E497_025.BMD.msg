@@ -23,7 +23,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Tipo, todo mundo continuou chamando você[n]"Sumire", mas sua cognição fez você ouvir[n]isso como "kasumi".[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Ryuji]]
-[s][bup 0 2 105 0 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]É por isso que ninguém pensou que era[n]estranho, incluindo o pessoal dela e a si[n]mesma...[n]Droga...[n][f 1 3 65535][w][e]
+[s][bup 0 2 105 0 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]É por isso que ninguém pensou que era[n]estranho, incluindo o pessoal dela e a si[n]mesma... Droga...[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Akechi]]
 [s][bup 0 9 810 0 0][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Isso deve fazer parte de todo o absurdo da[n]"salvação" que Maruki está tentando nos[n]encostar.[n][f 1 3 65535][w][e]

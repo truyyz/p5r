@@ -84,7 +84,7 @@
 [msg MSG_025_0_0 [Shinya]]
 [s][bup 0 110 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Não. Eu poderia me machucar.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Além disso, a violência é ruim.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]... Todo mundo deveria apenas brincar de[n]arma.[n]Então eu seria o melhor.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]... Todo mundo deveria apenas brincar de[n]arma. Então eu seria o melhor.[n][f 1 3 65535][w][e]
 
 [msg MSG_026_0_0 [Shinya]]
 [s][bup 0 110 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]... Se você me chamar de garoto de uma mãe,[n]então eu não vou te ensinar mais como tocar[n]uma arma mais![n][f 1 3 65535][w][e]

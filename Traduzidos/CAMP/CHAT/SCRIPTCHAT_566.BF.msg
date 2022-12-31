@@ -21,11 +21,11 @@
 [s][f 5 14]Eu estarei lá.[e]
 
 [msg MSG_CORP_PLAY_CHECK1 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Você acabou de formar um acordo com[n]Takemi.[n]Você quer ir vê-la na clínica?[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Você acabou de formar um acordo com[n]Takemi. Você quer ir vê-la na clínica?[n][f 1 3 65535][w][e]
 
 [msg MSG_CORP_PLAY_CHECK2 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Ninguém pensa que você está vivo neste[n]momento, então deve ficar bem, desde que[n]você seja cuidadoso.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Você acabou de formar um acordo com[n]Takemi.[n]Você quer ir vê-la na clínica?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Você acabou de formar um acordo com[n]Takemi. Você quer ir vê-la na clínica?[n][f 1 3 65535][w][e]
 
 [msg ERROR_MSG_000_0_0 [Sojiro]]
 [s][bup 0 103 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ei, estou prestes a abrir a loja.[n]Você pode adiar a mexer com seu telefone[n]por enquanto?[n][w][e]
@@ -130,6 +130,6 @@
 [s]Você também pode convidar pessoas que[n]possam desfrutar do aquário para sair[n]com você lá.[n][w][e]
 
 [msg MSG_SPOT_OPEN_NAKANO]
-[s]Agora você tem informações sobre um novo[n]ponto de encontro: [n][clr 2]Distrito de construção de comércio de[n]Nakano [n][clr 27].[n][w][e]
+[s]Agora você tem informações sobre um novo[n]ponto de encontro: [n][clr 2]Distrito de construção de comércio de[n]Nakano  [clr 27].[n][w][e]
 [s]Você também pode convidar pessoas que[n]possam desfrutar desse local para sair[n]com você lá.[n][w][e]
 

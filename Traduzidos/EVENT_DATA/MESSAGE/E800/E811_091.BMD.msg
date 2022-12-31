@@ -19,7 +19,7 @@
 
 [msg MSG_003_0_0 [Futaba]]
 [s][bup 0 8 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 9047 65535 0][f 5 13 10 5 8]Hrgh, estou muito ferrado...[n][f 1 3 65535][w][e]
-[s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]... mas eu farei o meu melhor. E eu vou[n]ficar muito zangado se você sair do meu[n]lado, [n][f 4 2]![n][f 1 3 65535][w][e]
+[s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]... mas eu farei o meu melhor. E eu vou[n]ficar muito zangado se você sair do meu[n]lado, [f 4 2]![n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Futaba]]
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 9199 65535 0][f 5 13 10 10 8]Então você descobriu...[n][f 1 3 65535][w][e]

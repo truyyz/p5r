@@ -70,7 +70,7 @@
 [s]Você deixou isso cair isso mais cedo.[e]
 
 [msg MSG_022_0_0 [Kasumi]]
-[s][bup 0 10 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 26 65535 0]Você veio até esse caminho para devolver[n]isso?[n]Muito obrigado![n][f 1 3 65535][w][e]
+[s][bup 0 10 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 26 65535 0]Você veio até esse caminho para devolver[n]isso? Muito obrigado![n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 27 65535 0]Você não parecia seu eu habitual esta manhã.[n]Aconteceu alguma coisa?[n][f 1 3 65535][w][e]

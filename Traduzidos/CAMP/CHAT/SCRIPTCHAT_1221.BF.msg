@@ -48,5 +48,5 @@
 [s][f 5 14]Eu gostaria que você me ensinasse.[e]
 
 [msg MND_COOP_DOUZOKUSEI]
-[s]Eu sinto que posso me aproximar de Shinya[n]graças ao [n][var 2][n]Persona [clr 1][var 5][clr 27]...[n][w][e]
+[s]Eu sinto que posso me aproximar de Shinya[n]graças ao [n][var 2] Persona [clr 1][var 5][clr 27]...[n][w][e]
 

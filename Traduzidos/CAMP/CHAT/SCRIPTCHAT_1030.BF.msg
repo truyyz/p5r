@@ -14,7 +14,7 @@
 [s][f 5 14]Eu estarei no telhado um pouco mais.[n]Deixe-me saber se alguma coisa surgir.[n][f 5 15][w][e]
 
 [msg MSG_MORUGANA [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Parece que Haru ainda não voltou para[n]casa.[n]Quer vê-la um pouco?[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Parece que Haru ainda não voltou para[n]casa. Quer vê-la um pouco?[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Haru]]
 [s][f 5 14]Estou na escola hoje.[n]Deixe-me saber se algo surgir.[n][f 5 15][w][e]

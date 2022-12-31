@@ -63,6 +63,6 @@
 [s][f 5 14][f 5 15]Bem, então, vou ver todos vocês na escola.[n][w][e]
 
 [msg MSG_CHAT_MORUEND_00 [Morgana]]
-[s][bup 0 3 3 65535 0][f 4 10 65535 0 0][vp 1 0 0 1 0 0]Haru... não estou surpreso que ela pareça[n]baixa. Você deve mantê-la em seus[n]pensamentos, [n][f 4 2].[n][f 1 3 65535][w][e]
+[s][bup 0 3 3 65535 0][f 4 10 65535 0 0][vp 1 0 0 1 0 0]Haru... não estou surpreso que ela pareça[n]baixa. Você deve mantê-la em seus[n]pensamentos, [f 4 2].[n][f 1 3 65535][w][e]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 1 0 0 2 0 0]Ainda assim, apesar da aparência, Haru[n]tem a espinha dorsal. Tenho certeza que[n]ela vai ficar bem.[n][f 1 3 65535][w][e]
 

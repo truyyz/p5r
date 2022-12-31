@@ -222,7 +222,7 @@
 
 [msg SYS_050_1_0 [Jamaican Blue Mountain]]
 [s][vp 8 2 0 0 65535 0]As montanhas azuis da Jamaica têm um clima[n]único e um solo vulcânico vantajoso para o[n]crescimento de seu famoso café de alta[n]qualidade.[n][f 1 3 65535][w][e]
-[s][vp 8 2 0 0 65535 0]O café passa por um processo de inspeção[n]rigoroso e é colhido em pequenas[n]quantidades.[n]Isso produz um café rico com um aroma[n]completo.[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0]O café passa por um processo de inspeção[n]rigoroso e é colhido em pequenas[n]quantidades. Isso produz um café rico com um aroma[n]completo.[n][f 1 3 65535][w][e]
 
 [msg MSG_051_0_0 [Sojiro]]
 [s][bup 0 103 505 65535 0][f 4 10 65535 0 0][vp 8 2 0 5038 65535 0]Esta acidez...[n][f 1 3 65535][w][e]
@@ -237,7 +237,7 @@
 [s][bup 0 103 501 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]It must be Colombian Nariño.[n][f 1 3 65535][w][e]
 
 [msg SYS_052_1_0 [Colombian Nariño]]
-[s][vp 8 2 0 0 65535 0]O clima de alta altitude, o clima chuvoso e[n]o solo das montanhas colombianas criam uma[n]base forte para o seu café de alta[n]qualidade.[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0]O clima de alta altitude, o clima chuvoso e[n]o solo das montanhas colombianas criam uma[n]base forte para o seu café de alta qualidade.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]Nariño coffee has a creamy, viscous body that[n]Coats a boca com sabores frutados e nozes.[n][f 1 3 65535][w][e]
 
 [msg MSG_053_0_0 [Sojiro]]
@@ -293,7 +293,7 @@
 [s][bup 0 103 501 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]... Este é o supremo colombiano de[n]Bucaramanga.[n][f 1 3 65535][w][e]
 
 [msg SYS_059_1_0 [Colombian Bucaramanga Supremo]]
-[s][vp 8 2 0 0 65535 0]O clima de alta altitude, o clima chuvoso e[n]o solo das montanhas colombianas criam uma[n]base forte para o seu café de alta[n]qualidade.[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0]O clima de alta altitude, o clima chuvoso e[n]o solo das montanhas colombianas criam uma[n]base forte para o seu café de alta qualidade.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]O supremo indica o tamanho grande do feijão,[n]e Bucaramanga é onde é cultivado. Tem um[n]sabor rico e doce e uma acidez leve.[n][f 1 3 65535][w][e]
 
 [msg MSG_060_0_0 [Sojiro]]
@@ -325,7 +325,7 @@
 [s][bup 0 103 501 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]... Este é o typica 100% colombiano.[n][f 1 3 65535][w][e]
 
 [msg SYS_063_1_0 [Colombian 100% Typica]]
-[s][vp 8 2 0 0 65535 0]O clima de alta altitude, o clima chuvoso e[n]o solo das montanhas colombianas criam uma[n]base forte para o seu café de alta[n]qualidade.[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0]O clima de alta altitude, o clima chuvoso e[n]o solo das montanhas colombianas criam uma[n]base forte para o seu café de alta qualidade.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]Este café é feito com 100% de feijão typica[n]e é raro devido à sua difícil colheita.[n]Possui um frescor cítrico e aroma perfumado.[n][f 1 3 65535][w][e]
 
 [msg MSG_064_0_0 [Sojiro]]
@@ -440,7 +440,7 @@
 
 [msg MSG_RANK_7_1 [Sojiro]]
 [s][bup 0 103 500 65535 0][f 4 10 65535 0 0][vp 8 2 0 5028 65535 0]... Há muitas coisas na vida que não vão do[n]jeito que você deseja.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Não há nada que alguém possa fazer sobre[n]isso.[n]A verdadeira questão é como você reage[n]nessas situações.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Não há nada que alguém possa fazer sobre[n]isso. A verdadeira questão é como você reage[n]nessas situações.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Você vai fugir e viver com arrependimento[n]pelo resto da sua vida? Ou você vai[n]enfrentá-lo de frente?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Ainda és jovem. Você pode ter tantos novos[n]começos que quiser.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Embora eu não seja realmente um para falar.[n]De qualquer forma, mantenha o queixo para[n]cima.[n][f 1 3 65535][w][e]

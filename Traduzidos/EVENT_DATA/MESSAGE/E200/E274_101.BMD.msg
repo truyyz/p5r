@@ -34,7 +34,7 @@
 
 [msg MSG_009_5_0 [Mishima]]
 [s][bup 0 111 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Eles começaram como hackers da justiça, mas[n]agora apenas cuidam de seus próprios[n]interesses.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]...Isso é tudo que eu sei. Eles eram o grupo[n]que eu mandei mandei mensagens [n][f 4 1][n]sobre ontem.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]...Isso é tudo que eu sei. Eles eram o grupo[n]que eu mandei mandei mensagens [n][f 4 1] sobre ontem.[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Ryuji]]
 [s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Eu vejo...[n][f 1 3 65535][w][e]

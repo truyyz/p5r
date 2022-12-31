@@ -72,7 +72,7 @@
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]HM?[n][f 1 3 65535][w][e]
 
 [msg MSG_048_0_0 [Morgana]]
-[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 0 0 26 65535 0]Eu não tenho nenhum passado para olhar para[n]trás...[n]Sem memórias...[n][f 1 3 65535][w][e]
+[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 0 0 26 65535 0]Eu não tenho nenhum passado para olhar para[n]trás... Sem memórias...[n][f 1 3 65535][w][e]
 
 [msg MSG_049_0_0 [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 27 65535 0]O que significa isso? Poderíamos procurar o[n]mundo inteiro e não encontraríamos um[n]desajuste maior do que você.[n][f 1 3 65535][w][e]
@@ -99,7 +99,7 @@
 [s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 36 65535 0]Essa com certeza foi uma rápida reviravolta.[n]Um segundo você está deprimido, no próximo,[n]você está agindo tudo duro...[n][f 1 3 65535][w][e]
 
 [msg MSG_056_0_0 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 37 65535 0]Tudo brincando de lado... vamos levar isso a[n]sério.[n]Devemos ir o mais longe possível...[n][f 1 3 65535][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 37 65535 0]Tudo brincando de lado... vamos levar isso a[n]sério. Devemos ir o mais longe possível...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 38 65535 0]Eu quero punir esses adultos corruptos e dar[n]coragem às pessoas em apuros...[n][f 1 3 65535][w][e]
 
 [msg MSG_056_5_0 [Ann]]

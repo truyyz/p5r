@@ -26,7 +26,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 9 5 0]Estávamos voltando para casa do treino.[n]Aconteceu ali, naquela rua do vídeo...[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [??? Yoshizawa]]
-[s][bup 0 10 925 6 0][f 4 10 65535 0 0][vp 8 0 0 10 5 0]Eu não estava olhando para onde estava[n]indo...[n]E Kasumi, ela me protegeu do carro...[n][f 1 3 65535][w][e]
+[s][bup 0 10 925 6 0][f 4 10 65535 0 0][vp 8 0 0 10 5 0]Eu não estava olhando para onde estava[n]indo... E Kasumi, ela me protegeu do carro...[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [??? Yoshizawa]]
 [s][bup 0 10 925 6 0][f 4 10 65535 0 0][vp 8 0 0 11 5 0]Fui salvo por Kasumi... Eu a roubei de seus[n]sonhos... e até a vida dela![n][f 1 3 65535][w][e]

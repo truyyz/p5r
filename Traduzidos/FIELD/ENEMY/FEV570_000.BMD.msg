@@ -83,7 +83,7 @@
 [s]Intrusos? Onde?[n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_ALT_01_04]
-[s]O gerente não precisa sujar as mãos com[n]intrusos![n]Vou destruí-los eu mesmo.[n][f 1 2 65535][e]
+[s]O gerente não precisa sujar as mãos com[n]intrusos! Vou destruí-los eu mesmo.[n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_ALT_01_05]
 [s]Portanto, há intrusos aqui... que intrusivo.[n][f 1 2 65535][e]
@@ -158,7 +158,7 @@
 [s]Intrusos? Acho que algumas pessoas não têm[n]maneiras...[n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_FREE_01_0_4]
-[s]O gerente não precisa sujar as mãos com[n]intrusos![n]Vou destruí-los eu mesmo.[n][f 1 2 65535][e]
+[s]O gerente não precisa sujar as mãos com[n]intrusos! Vou destruí-los eu mesmo.[n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_FREE_01_0_5]
 [s]Não acredito que eles estão jogando suas[n]vidas fora.[n]É a perda deles...[n][f 1 2 65535][e]

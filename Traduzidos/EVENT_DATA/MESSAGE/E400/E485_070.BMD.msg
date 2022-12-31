@@ -41,7 +41,7 @@
 [s][bup 0 216 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Isso realmente não...[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Kasumi]]
-[s][bup 0 10 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Eu tenho que comer muito para me manter[n]ativo![n]Eu sempre queime tudo o que como![n][f 1 3 65535][w][e]
+[s][bup 0 10 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Eu tenho que comer muito para me manter[n]ativo! Eu sempre queime tudo o que como![n][f 1 3 65535][w][e]
 
 [msg MSG_013_5_0 [Kasumi]]
 [s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Do meu ponto de vista, são seus dois almoços[n]que são o problema aqui.[n][f 1 3 65535][w][e]

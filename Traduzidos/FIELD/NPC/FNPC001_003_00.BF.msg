@@ -519,7 +519,7 @@
 [s][vp 8 2 1 0 2 0]Eu preciso trabalhar muito mais em nossas[n]promoções! Hora de trabalhar mais na rede[n]patrulha![n][w][e]
 
 [msg MSG_TIKAAIDORU_005_0_0 [Small-Time Indie Idol]]
-[s][vp 8 2 1 0 2 0]Verificando o que as pessoas estão dizendo[n]onliiine![n]Os tópicos quentes de Shibuya são...[n]*Drumroll* [n][w][e]
+[s][vp 8 2 1 0 2 0]Verificando o que as pessoas estão dizendo[n]onliiine! Os tópicos quentes de Shibuya são...[n]*Drumroll* [n][w][e]
 [s][vp 8 2 1 0 2 0]"Crimes frequentes em Shibuya." "Eu quase[n]morri em assalto." "É super perigoso aqui." [n][w][e]
 [s][vp 8 2 1 0 2 0]O que é isso!? O que está acontecendo com[n]Shibuya?[n][w][e]
 
@@ -718,7 +718,7 @@
 [s][vp 8 2 1 0 2 0]*Grunt* agora está cheio! Hora de trabalhar[n]duro novamente hoje! Vamos fazer isso![n][w][e]
 
 [msg MSG_TIKAAIDORU_010_4_0 [Small-Time Indie Idol]]
-[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Você quer alguns produtos promocionais[n]oficiais?[n]Você terá muita coisa em tudo agora![n][w][e]
+[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Você quer alguns produtos promocionais[n]oficiais? Você terá muita coisa em tudo agora![n][w][e]
 [s][vp 8 2 1 0 2 0]by the toeee♪[n][w][e]
 
 [sel SEL_TIKAAIDORU_010_1_0 top]
@@ -910,7 +910,7 @@
 
 [msg MSG_TIKAAIDORU_014_0_0 [Small-Time Indie Idol]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Oh, não... tanto a internet quanto a TV[n]estão inundando insultos sobre os ladrões[n]fantasmas...[n][w][e]
-[s][vp 8 2 1 0 2 0]Está se espalhando para os ídolos dos[n]ladrões fantasmas também... é um problema[n]real...[n]O que eu faço?[n][w][e]
+[s][vp 8 2 1 0 2 0]Está se espalhando para os ídolos dos[n]ladrões fantasmas também... é um problema[n]real... O que eu faço?[n][w][e]
 
 [sel SEL_TIKAAIDORU_014_0_0 top]
 [s]Faça alguma coisa.[e]
@@ -928,7 +928,7 @@
 
 [msg MSG_TIKAAIDORU_014_4_0 [Small-Time Indie Idol]]
 [s][vp 8 2 1 0 2 0]Não consigo acompanhar apenas a minha marca[n]furtiva-quero dizer, comentários de[n]acompanhamento.[n][w][e]
-[s][vp 8 2 1 0 2 0]Apenas quando pensei em ter atingido um[n]pouco de tempo, tenho que voltar a ser um[n]ídolo indie...[n]*Sniffle* [n][w][e]
+[s][vp 8 2 1 0 2 0]Apenas quando pensei em ter atingido um[n]pouco de tempo, tenho que voltar a ser um[n]ídolo indie... *Sniffle* [n][w][e]
 
 [msg MSG_TIKAAIDORU_015_0_0 [Small-Time Indie Idol]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Boletim Idol Boletim Cheeeck... A[n]popularidade de D-Kyun caiu totalmente...[n][w][e]
@@ -939,7 +939,7 @@
 
 [msg MSG_TIKAAIDORU_015_2_0 [Small-Time Indie Idol]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Buuut, eu vou ficar totalmente bem! Eu vim[n]com um plano secreto para mudar isso![n][w][e]
-[s][vp 8 2 1 0 2 0]Se eu fizer isso... e isso... eu sou um[n]gênio![n]*risada* [n][w][e]
+[s][vp 8 2 1 0 2 0]Se eu fizer isso... e isso... eu sou um[n]gênio! *risada* [n][w][e]
 
 [msg MSG_TIKAAIDORU_016_0_0 [Small-Time Indie Idol]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Fwehhhn, [f 4 1]-San... temos um grande problema.[n][w][e]
@@ -964,7 +964,7 @@
 [s][vp 8 2 1 0 2 0]Porque este é o meu feito à mão... não, não,[n]não importa![n][w][e]
 
 [msg MSG_TIKAAIDORU_016_4_0 [Small-Time Indie Idol]]
-[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Não acredito que teria uma ameaça de[n]assassinato.[n]Pobre eu... *fungando* [n][w][e]
+[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Não acredito que teria uma ameaça de[n]assassinato. Pobre eu... *fungando* [n][w][e]
 [s][vp 8 2 1 0 2 0]Como é tão dramático, acho que talvez as[n]pessoas falem sobre isso. Espero que isso[n]aconteça logo...[n][w][e]
 [s][vp 8 2 1 0 2 0]Dessa forma, a reputação de D-Kyun vai...[n]Juuust brincando... eu não quis dizer isso.[n]Teehee.[n][w][e]
 
@@ -980,7 +980,7 @@
 [s][vp 8 2 1 0 2 0]A polícia está ocupada com o incidente do[n]Phantom Thieves, sabe? Vamos apenas esperar[n]e ver...[n][w][e]
 
 [msg MSG_TIKAAIDORU_016_8_0 [Small-Time Indie Idol]]
-[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Não acredito que teria uma ameaça de[n]assassinato.[n]Pobre eu... *fungando* [n][w][e]
+[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Não acredito que teria uma ameaça de[n]assassinato. Pobre eu... *fungando* [n][w][e]
 [s][vp 8 2 1 0 2 0]Como é tão dramático, acho que talvez as[n]pessoas falem sobre isso. Espero que isso[n]aconteça logo...[n][w][e]
 [s][vp 8 2 1 0 2 0]Dessa forma, a reputação de D-Kyun vai...[n]Juuust brincando... eu não quis dizer isso.[n]Teehee.[n][w][e]
 
@@ -1010,7 +1010,7 @@
 
 [msg MSG_TIKAAIDORU_017_4_0 [Small-Time Indie Idol]]
 [s][vp 8 2 1 0 2 0]Acho que devo procurar meu próximo parceiro[n]de colaboração... o que você acha do Sr.[n]Shido?[n][w][e]
-[s][vp 8 2 1 0 2 0]Um ídolo político! Eleições com votos dos[n]fãs![n]Alguém já fez isso, hein...?[n]*Sniffle* [n][w][e]
+[s][vp 8 2 1 0 2 0]Um ídolo político! Eleições com votos dos[n]fãs! Alguém já fez isso, hein...? *Sniffle* [n][w][e]
 
 [msg MSG_TIKAAIDORU_018_0_0 [Small-Time Indie Idol]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Ei, [f 4 1]-san. Você é meu fã, não é?[n][w][e]
@@ -1091,7 +1091,7 @@
 [s][vp 8 2 1 0 2 0]Causei muitos problemas, então achei que[n]deveria acertar as coisas.[n][w][e]
 
 [msg MSG_TIKAAIDORU_020_2_0 [Small-Time Indie Idol]]
-[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Eu me sinto mal pelos fãs que me dizem[n]isso...[n]*Sniffle* [n][w][e]
+[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Eu me sinto mal pelos fãs que me dizem[n]isso... *Sniffle* [n][w][e]
 [s][vp 8 2 1 0 2 0]Mas se eu continuar sendo um ídolo, aquele[n]lado ruim do meu pode sair de novo...[n]*arrepio* [n][w][e]
 
 [msg MSG_TIKAAIDORU_020_3_0 [Small-Time Indie Idol]]
@@ -1100,7 +1100,7 @@
 
 [msg MSG_TIKAAIDORU_020_4_0 [Small-Time Indie Idol]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Estamos bem na primavera agora. É uma ótima[n]temporada para começar algo novo.[n][w][e]
-[s][vp 8 2 1 0 2 0]Estou feliz por ter visto você uma última[n]vez.[n]Obrigado por tudo até agora...[n][f 4 1]-san.[n][w][e]
+[s][vp 8 2 1 0 2 0]Estou feliz por ter visto você uma última[n]vez. Obrigado por tudo até agora...[n][f 4 1]-san.[n][w][e]
 
 [msg MSG_TIKAAIDORU_020_5_0 [Small-Time Indie Idol]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]O último single de D-Kyun, "My Treasure",[n]agora está confirmado para ser lançado![n][w][e]
@@ -1117,7 +1117,7 @@
 [s][vp 8 2 1 0 2 0]Causei muitos problemas, então achei que[n]deveria acertar as coisas.[n][w][e]
 
 [msg MSG_TIKAAIDORU_020_7_0 [Small-Time Indie Idol]]
-[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Eu me sinto mal pelos fãs que me dizem[n]isso...[n]*Sniffle* [n][w][e]
+[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Eu me sinto mal pelos fãs que me dizem[n]isso... *Sniffle* [n][w][e]
 [s][vp 8 2 1 0 2 0]Mas se eu continuar sendo um ídolo, aquele[n]lado ruim do meu pode sair de novo...[n]*arrepio* [n][w][e]
 
 [msg MSG_TIKAAIDORU_020_8_0 [Small-Time Indie Idol]]
@@ -1247,12 +1247,12 @@
 [msg Quest11_target_sinjyo_02]
 [s][vp 8 2 65535 0 0 0]Vamos ser antecipados e pedir a ele o nome[n]dele. Ele deveria pelo menos estar disposto[n]a dar seu nome...[n][w][e]
 [s][vp 8 2 65535 0 0 0]... Não, quando falei com ele mais cedo, ele[n]apenas me respondeu com bobagens.[n][w][e]
-[s][vp 8 2 65535 0 0 0]Não consigo obter uma resposta dele pedindo[n]antecipadamente.[n]Vamos repensar isso...[n][w][e]
+[s][vp 8 2 65535 0 0 0]Não consigo obter uma resposta dele pedindo[n]antecipadamente. Vamos repensar isso...[n][w][e]
 
 [msg Quest11_target_sinjyo_02_2]
 [s][vp 8 2 65535 0 0 0]Ele está bem bêbado agora.[n]Eu posso obter uma resposta se puder dizer a[n]coisa certa.[n][w][e]
 [s][vp 8 2 65535 0 0 0]Talvez eu possa falar com ele se eu fingir[n]ser outra pessoa...?[n][w][e]
-[s][vp 8 2 65535 0 0 0]Eu posso usar algo de um boato que ouvi[n]antes.[n]Quem devo se passar...?[n][w][e]
+[s][vp 8 2 65535 0 0 0]Eu posso usar algo de um boato que ouvi[n]antes. Quem devo se passar...?[n][w][e]
 
 [msg Quest11_target_sinjyo_02_3]
 [s][vp 8 2 65535 0 0 0]Pelo que posso dizer, ele parece ser um[n]trabalhador de escritório. Talvez eu possa[n]dar uma olhada em sua identidade...[n][w][e]
@@ -1326,7 +1326,7 @@
 [s][vp 8 2 65535 0 0 0]Parece que a missão foi um sucesso...[n][w][e]
 
 [msg quest13_hint_talk_00 [Gyaru Part-Timer]]
-[s][vp 8 2 1 0 606 0]Aquela velha senhora tinha uma bolsa super[n]bonita![n]Eu acho que custou 500.000 ienes...[n][w][e]
+[s][vp 8 2 1 0 606 0]Aquela velha senhora tinha uma bolsa super[n]bonita! Eu acho que custou 500.000 ienes...[n][w][e]
 
 [msg quest13_hint_talk_01 [Part-Timer's Friend]]
 [s][vp 8 2 1 0 605 0]Shiratori-san? Ela chega ao meu trabalho de[n]meio período com bastante frequência. Ela[n]ainda tem uma associação à platina.[n][w][e]
@@ -1388,7 +1388,7 @@
 [s][vp 8 2 1 0 610 0]Então, procuro estudantes de ensino médio[n]nos centros de jogos. Não posso fazer[n]riscos por apenas algumas centenas de ienes.[n][w][e]
 
 [msg Quest24_target_00_06 [Showai Shigeta]]
-[s][f 4 23 1 609 3 10 0 0][vp 8 2 1 0 609 0]Ei, vamos dar uma olhada em Akiba ou algo[n]assim.[n]Ouvi dizer que aqueles Otakus têm muito[n]dinheiro para receber.[n][w][e]
+[s][f 4 23 1 609 3 10 0 0][vp 8 2 1 0 609 0]Ei, vamos dar uma olhada em Akiba ou algo[n]assim. Ouvi dizer que aqueles Otakus têm muito[n]dinheiro para receber.[n][w][e]
 [s][vp 8 2 1 0 609 0]Eles provavelmente nem dirão nada.[n]Vamos vencê-los nos becos e comprar alguns[n]jogos também![n][w][e]
 
 [msg MSG_quest24_morgana_01 [Morgana]]
@@ -1654,7 +1654,7 @@
 [s][f 4 23 1 12 3 10 0 10][vp 8 2 1 0 12 0]Y-y-yeah... ficou muito irritante, tendo meu[n]telefone tocando o tempo todo... haha.[n][w][e]
 
 [msg MSG_NANPASI_015_0_0 [Novice Pick-Up Artist]]
-[s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Eu fui ao festival cultural da minha velha[n]escola![n]E eu vi Akechi lá.[n][w][e]
+[s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Eu fui ao festival cultural da minha velha[n]escola! E eu vi Akechi lá.[n][w][e]
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Sua aura de popularidade estava em plena[n]explosão.[n]Ele meio que tinha o mesmo cheiro que você...[n][w][e]
 
 [msg MSG_NANPASI_015_1_0 [Veteran Pick-Up Artist]]
@@ -1796,7 +1796,7 @@
 [s]Eu cavo ela.[e]
 
 [msg MSG_Q83_HINT_NANPASI_070 [Novice Pick-Up Artist]]
-[s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Então você já ouviu os rumores sobre suas[n]partidas fraudulentas? As pessoas pensam[n]que ela perdeu a última partida de[n]propósito.[n][w][e]
+[s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Então você já ouviu os rumores sobre suas[n]partidas fraudulentas? As pessoas pensam[n]que ela perdeu a última partida de propósito.[n][w][e]
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Eu costumava estar em um clube de tênis de[n]mesa e ainda sou um entusiasta, para que eu[n]possa dizer quando as pessoas sentem falta[n]de seus tiros de propósito...[n][w][e]
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Se as partidas dela forem fraudadas, isso me[n]deixaria triste como fã.[n][w][e]
 
@@ -2072,7 +2072,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Parece que temos informações suficientes[n]agora. Vamos para o esconderijo e discutir[n]um plano![n][w][e]
 
 [msg MSG_GRT_main_All_001_01_ [Morgana]]
-[s][vp 9 2 65535 37552 0 0]Ugh, é uma dor que está tendo que ir[n]trabalhar.[n]Talvez eu chame de doente...[n][f 1 2 180][e]
+[s][vp 9 2 65535 37552 0 0]Ugh, é uma dor que está tendo que ir[n]trabalhar. Talvez eu chame de doente...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_001_02_ [Morgana]]
 [s][vp 9 2 65535 37858 0 0]Sabe de algum bom enriquecer esquemas[n]rápidos por aí?[n][f 1 2 180][e]
@@ -2102,7 +2102,7 @@
 [s][vp 9 2 65535 39859 0 0]Eu sou pago quase nada. É difícil encontrar[n]forças para trabalhar ultimamente.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_001_11_ [Morgana]]
-[s][vp 9 2 65535 37859 0 0]Ugh, é uma dor que está tendo que ir[n]trabalhar.[n]Talvez eu chame de doente...[n][f 1 2 180][e]
+[s][vp 9 2 65535 37859 0 0]Ugh, é uma dor que está tendo que ir[n]trabalhar. Talvez eu chame de doente...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_001_12_ [Morgana]]
 [s][vp 9 2 65535 41555 0 0]Por que nada de bom acontece? Alguém precisa[n]mudar as coisas...[n][f 1 2 180][e]
@@ -2150,7 +2150,7 @@
 [s][vp 9 2 65535 40305 0 0]Medalhista de ouro ou não, ele terminou.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_003_03_ [Morgana]]
-[s][vp 9 2 65535 38653 0 0]Eles prenderam esse professor por ser um[n]pervertido?[n]Isso é hilário![n][f 1 2 180][e]
+[s][vp 9 2 65535 38653 0 0]Eles prenderam esse professor por ser um[n]pervertido? Isso é hilário![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_003_04_ [Morgana]]
 [s][vp 9 2 65535 39053 0 0]Acontece que até um medalhista olímpico pode[n]ser um velho sujo.[n][f 1 2 180][e]
@@ -2174,7 +2174,7 @@
 [s][vp 9 2 65535 41859 0 0]Ele admitiu...? Nossa, ele nunca deveria ter[n]feito isso se fosse confessar de qualquer[n]maneira...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_003_11_ [Morgana]]
-[s][vp 9 2 65535 40553 0 0]Eles prenderam esse professor por ser um[n]pervertido?[n]Isso é hilário![n][f 1 2 180][e]
+[s][vp 9 2 65535 40553 0 0]Eles prenderam esse professor por ser um[n]pervertido? Isso é hilário![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_003_12_ [Morgana]]
 [s][vp 9 2 65535 43805 0 0]Eu não entendi... por que ele de repente[n]confessou?[n][f 1 2 180][e]

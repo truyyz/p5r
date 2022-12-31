@@ -15,7 +15,7 @@
 
 [msg EV_02_TALK_01_05 [Another Voice 2]]
 [s][vp 1 0 0 148 0 0]Eu os vejo também.[n][f 1 6 65535][w][e]
-[s][vp 1 0 0 149 0 0]Bem, não há necessidade de se encontrar[n]agora.[n]Vamos lidar com eles um por um.[n][f 1 6 65535][w][e]
+[s][vp 1 0 0 149 0 0]Bem, não há necessidade de se encontrar[n]agora. Vamos lidar com eles um por um.[n][f 1 6 65535][w][e]
 
 [msg EV_02_TALK_01_06 [Transmission Voice]]
 [s][vp 1 0 0 384 0 0]As sombras estão chegando...![n][f 1 6 65535][w][e]

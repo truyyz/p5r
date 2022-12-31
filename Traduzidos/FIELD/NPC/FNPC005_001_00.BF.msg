@@ -27,7 +27,7 @@
 [s][vp 9 2 65535 58972 0 0]Acho que não havia nada que o impeça de[n]atacar os alunos...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_001_07_]
-[s][vp 9 2 65535 59071 0 0]Como ele poderia colocar as mãos em seus[n]alunos?[n]Isso é desprezível![n][f 1 2 180][e]
+[s][vp 9 2 65535 59071 0 0]Como ele poderia colocar as mãos em seus[n]alunos? Isso é desprezível![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_001_08_]
 [s][vp 9 2 65535 58832 0 0]Eu me pergunto se há alguém cuidando dos[n]alunos...[n][f 1 2 180][e]
@@ -444,7 +444,7 @@
 [s][vp 9 2 65535 58920 0 0]Oh, apenas fique feliz por não haver nenhum[n]dano real...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_013_05_]
-[s][vp 9 2 65535 41050 0 0]Os ladrões fantasmas venceram contra o[n]MedJed?[n]Isso é incrível![n][f 1 2 180][e]
+[s][vp 9 2 65535 41050 0 0]Os ladrões fantasmas venceram contra o[n]MedJed? Isso é incrível![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_013_06_]
 [s][vp 9 2 65535 40753 0 0]Eles fecharam o site da Medjed, hein? Nada[n]mal, ladrões Phantom...[n][f 1 2 180][e]
@@ -648,7 +648,7 @@
 [s][vp 9 2 65535 43902 0 0]Você acha que eles cronometraram que isso[n]aconteceu durante a conferência de[n]imprensa...?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_019_07_]
-[s][vp 9 2 65535 40051 0 0]Os ladrões Phantom são um monte de[n]assassinos![n]Eles são os verdadeiros vilões![n][f 1 2 180][e]
+[s][vp 9 2 65535 40051 0 0]Os ladrões Phantom são um monte de[n]assassinos! Eles são os verdadeiros vilões![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_019_09_]
 [s][vp 9 2 65535 39802 0 0]Eles foram longe demais...[n]Como eles poderiam matá-lo?[n][f 1 2 180][e]
@@ -2266,7 +2266,7 @@
 
 [msg MSG_NOMIYA_010_030_000 [Sake Reporter]]
 [s][f 4 23 1 40 3 10 0 10][vp 8 2 1 0 40 0]*risada* É o melhor trabalho maldito também.[n]Enquanto escrevo os artigos, posso beber[n]tudo o que quero e gasto![n][w][e]
-[s][vp 8 2 1 0 40 0]A propósito, Didja ouviu 'Bout aquele[n]professor do ensino médio tocando seus[n]alunos?[n]Que idiota![n][w][e]
+[s][vp 8 2 1 0 40 0]A propósito, Didja ouviu 'Bout aquele[n]professor do ensino médio tocando seus[n]alunos? Que idiota![n][w][e]
 
 [msg MSG_NOMIYA_010_040_000 [Aproned Man]]
 [s][f 4 23 1 41 3 10 0 10][vp 8 2 1 0 41 0]Ei, agora, é melhor você assistir suas mãos[n]também.[n][w][e]
@@ -2594,7 +2594,7 @@
 [s][bup 0 302 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 58307 71 0]Tudo o que posso esperar é que sobrevivamos[n]ao nosso segundo.[n][w][e]
 
 [msg MSG_NOMIYA_HISTORY_002_0 [Mr. Inui]]
-[s][bup 0 302 0 65535 0][f 4 10 65535 0 0][f 4 23 1 71 14 10 13 10][vp 8 2 1 58304 71 0]Os terceiros anos parecem incomumente no[n]limite.[n]É possível que seja apenas o estresse do[n]exame, mas...[n]Estou um pouco preocupado.[n][w][e]
+[s][bup 0 302 0 65535 0][f 4 10 65535 0 0][f 4 23 1 71 14 10 13 10][vp 8 2 1 58304 71 0]Os terceiros anos parecem incomumente no[n]limite.[n]É possível que seja apenas o estresse do[n]exame, mas... Estou um pouco preocupado.[n][w][e]
 [s][bup 0 302 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 71 0]Talvez o Dr. Maruki possa nos ajudar a[n]encontrar uma maneira de lidar com isso.[n][w][e]
 [s][bup 0 302 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 58307 71 0]Eu deveria falar com ele...[n][w][e]
 
@@ -2770,7 +2770,7 @@
 [s][f 4 23 1 214 3 10 0 10][vp 8 2 1 0 214 0]Fui a uma família se reunindo outro dia, e[n]foi simplesmente terrível![n][w][e]
 [s][f 4 23 1 214 3 10 0 10][vp 8 2 1 0 214 0]Sempre que alguém abria a boca, sempre era[n]"quando foi seu último encontro" ou "Quando[n]você vai se casar"...[n][w][e]
 [s][f 4 23 1 214 3 10 0 10][vp 8 2 1 0 214 0]Quero dizer, A? Nenhum da conta deles.[n]E B, eu nem sou tão selvagem em me casar[n]agora![n][w][e]
-[s][f 4 23 1 214 3 10 0 10][vp 8 2 1 0 214 0]Por que seus valores estão tão presos no[n]passado?[n]É tão estúpido![n][w][e]
+[s][f 4 23 1 214 3 10 0 10][vp 8 2 1 0 214 0]Por que seus valores estão tão presos no[n]passado? É tão estúpido![n][w][e]
 
 [msg MSG_NOMIYA_TIRED_007_01_ [Tired Office Worker]]
 [s][f 4 23 1 214 3 10 0 10][vp 8 2 1 0 214 0]Empresas corruptas, hein...? Mas isso é[n]basicamente par para o curso, certo?[n][w][e]
@@ -3106,7 +3106,7 @@
 
 [msg MSG_NOMIYA_MIDDLEWOMEN_0_20 [Tired Housewife]]
 [s][vp 8 2 1 0 76 0]Mas apenas entre você e eu, ouvi algumas[n]coisas bastante desagradáveis sobre suas[n]práticas de negócios.[n][w][e]
-[s][vp 8 2 1 0 76 0]Aparentemente, eles não recebem dias de[n]folga.[n]E quaisquer bônus lá são pequenos...[n][w][e]
+[s][vp 8 2 1 0 76 0]Aparentemente, eles não recebem dias de[n]folga. E quaisquer bônus lá são pequenos...[n][w][e]
 
 [msg MSG_NOMIYA_MIDDLEWOMEN_0_21 [Loud Housewife]]
 [s][f 4 23 1 75 14 10 13 10][vp 8 2 1 0 75 0]D-did Você vê a conferência de imprensa?[n]O que é que foi isso!?[n][w][e]
@@ -3121,7 +3121,7 @@
 
 [msg MSG_NOMIYA_MIDDLEWOMEN_0_24 [Loud Housewife]]
 [s][f 4 23 1 75 14 10 13 10][vp 8 2 1 0 75 0]Hoje em dia, meu filho fala sobre nada além[n]dos ladrões fantasmas. Está me deixando[n]louco.[n][w][e]
-[s][vp 8 2 1 0 75 0]Ele continua tentando dizer que são[n]inocentes.[n]Isso nos dá uma aparência bastante[n]desagradável enquanto estamos em público.[n][w][e]
+[s][vp 8 2 1 0 75 0]Ele continua tentando dizer que são[n]inocentes. Isso nos dá uma aparência bastante[n]desagradável enquanto estamos em público.[n][w][e]
 
 [msg MSG_NOMIYA_MIDDLEWOMEN_0_25 [Tired Housewife]]
 [s][f 4 23 1 76 14 10 13 10][vp 8 2 1 0 76 0]Uh-oh. Tem certeza de que ele não sofreu uma[n]lavagem cerebral?[n][w][e]
@@ -3153,7 +3153,7 @@
 [s][f 4 23 1 75 14 10 13 10][vp 8 2 1 0 75 0]Ughhh! Ele era apenas mais um desprezo![n]Tão desapontado![n][w][e]
 
 [msg MSG_NOMIYA_MIDDLEWOMEN_0_34 [Tired Housewife]]
-[s][f 4 23 1 76 14 10 13 10][vp 8 2 1 0 76 0]Eu realmente acreditava em Shido[n]representativo.[n]Isso foi realmente deprimente...[n][w][e]
+[s][f 4 23 1 76 14 10 13 10][vp 8 2 1 0 76 0]Eu realmente acreditava em Shido[n]representativo. Isso foi realmente deprimente...[n][w][e]
 [s][vp 8 2 1 0 76 0]Agora não consigo olhar para ninguém famosa[n]sem pensar que todos eles têm motivos[n]ocultos obscuros.[n][w][e]
 
 [msg MSG_NOMIYA_MIDDLEWOMEN_0_35 [Loud Housewife]]
@@ -3185,7 +3185,7 @@
 [s][f 4 23 1 75 14 10 13 10][vp 8 2 1 0 75 0]Sim, em um grau louco! Por que, outra coisa[n]aconteceu?[n][w][e]
 
 [msg MSG_NOMIYA_MIDDLEWOMEN_0_44 [Energetic Housewife]]
-[s][vp 8 2 1 0 76 0]Não, as coisas ainda estão indo tão bem.[n]Está começando a parecer um pouco estranho,[n]até.[n]Meu filho recebeu sua recomendação...[n][w][e]
+[s][vp 8 2 1 0 76 0]Não, as coisas ainda estão indo tão bem.[n]Está começando a parecer um pouco estranho,[n]até. Meu filho recebeu sua recomendação...[n][w][e]
 [s][vp 8 2 1 0 76 0]Parece um sonho, mas... é real.[n]É real, não é...?[n][w][e]
 
 [msg MSG_NOMIYA_MIDDLEWOMEN_0_45 [Loud Housewife]]
@@ -3695,7 +3695,7 @@
 [s][vp 8 2 1 0 60 0]E é por isso que preciso que você obtenha[n]algo que está tendendo agora.[n][w][e]
 [s][vp 8 2 1 0 60 0]Estou falando [f 2 5 3 9999 0], meu homem![n][w][e]
 [s][vp 8 2 1 0 60 0]Ouvi dizer que pode ser comprado de uma[n]máquina de venda automática em algum lugar.[n][w][e]
-[s][vp 8 2 1 0 60 0]Traga para mim, e eu vou trocar você por[n]isso [n][f 2 5 3 9999 1].[n][w][e]
+[s][vp 8 2 1 0 60 0]Traga para mim, e eu vou trocar você por[n]isso  [f 2 5 3 9999 1].[n][w][e]
 
 [msg MSG_TRADER_110_010_00 [Trader Sakai]]
 [s][vp 8 2 1 0 60 0]Ei, o chefe de panela quente está de volta![n][w][e]
@@ -3707,7 +3707,7 @@
 [s]Como quiser.[e]
 
 [msg MSG_TRADER_110_030_00 [Trader Sakai]]
-[s][vp 8 2 1 0 60 0]Tudo bem, chefe de panela quente, aqui está[n]o seu [n][f 2 5 3 9999 1]![n][w][e]
+[s][vp 8 2 1 0 60 0]Tudo bem, chefe de panela quente, aqui está[n]o seu  [f 2 5 3 9999 1]![n][w][e]
 
 [msg MSG_TRADER_110_040_00 [Trader Sakai]]
 [s][vp 8 2 1 0 60 0]... Então, este é o [f 2 5 3 9999 0].[n][w][e]
@@ -3720,7 +3720,7 @@
 [s][vp 8 2 1 0 60 0]W-Well, deixe-me saber se você mudar de[n]idéia![n][w][e]
 
 [msg MSG_TRADER_120_000_00 [Trader Sakai]]
-[s][vp 8 2 1 0 60 0]Desta vez, eu gostaria que você recuperasse[n]o [n][f 2 5 3 9999 0]para mim.[n][w][e]
+[s][vp 8 2 1 0 60 0]Desta vez, eu gostaria que você recuperasse[n]o  [f 2 5 3 9999 0]para mim.[n][w][e]
 [s][vp 8 2 1 0 60 0]A lua da colheita já começou a diminuir, e[n]ainda não consigo encontrá-la em nenhum[n]lugar...[n][w][e]
 [s][vp 8 2 1 0 60 0]Você se importa de conseguir um se encontrar?[n][w][e]
 [s][vp 8 2 1 0 60 0]Vou trocar você por isso [f 2 5 3 9999 1].[n]Estou contando com você![n][w][e]
@@ -3751,7 +3751,7 @@
 [s][vp 8 2 1 0 60 0]Há rumores de que há um lanche específico[n]que conquistou o mundo gastronômico.[n][w][e]
 [s][vp 8 2 1 0 60 0]Seu alvo desta vez é o [f 2 5 3 9999 0].[n][w][e]
 [s][vp 8 2 1 0 60 0]Supostamente, ele só é vendido em um suporte[n]de batata-doce em uma certa cidade.[n][w][e]
-[s][vp 8 2 1 0 60 0]Se você me encontrar um, eu vou trocar isso[n]isso [n][f 2 5 3 9999 1].[n]Conte em você, meu homem![n][w][e]
+[s][vp 8 2 1 0 60 0]Se você me encontrar um, eu vou trocar isso[n]isso  [f 2 5 3 9999 1].[n]Conte em você, meu homem![n][w][e]
 
 [msg MSG_TRADER_130_010_00 [Trader Sakai]]
 [s][vp 8 2 1 0 60 0]Mmmm, o delicioso aroma de batata doce[n]assada...[n][w][e]
@@ -3864,7 +3864,7 @@
 [s][vp 8 2 1 0 60 0]Essa é a cadeia de fast-food que[n]recentemente foi pega em uma controvérsia[n]com os ladrões Phantom.[n][w][e]
 [s][vp 8 2 1 0 60 0]Há esse boato sobre como eles estão[n]trabalhando em um retorno com um novo[n]hambúrguer.[n][w][e]
 [s][vp 8 2 1 0 60 0]Mas isso não é tudo- deve ser algum tipo de[n]"super hambúrguer".[n][w][e]
-[s][vp 8 2 1 0 60 0]Pode ser impossível obter...[n]Mas se você conseguir comprá-lo, vou trocar[n]isso isso [n][f 2 5 3 9999 1].[n][w][e]
+[s][vp 8 2 1 0 60 0]Pode ser impossível obter...[n]Mas se você conseguir comprá-lo, vou trocar[n]isso isso [f 2 5 3 9999 1].[n][w][e]
 [s][vp 8 2 1 0 60 0]Estou ansioso pelo seu transporte![n][w][e]
 
 [msg MSG_TRADER_170_010_00 [Trader Sakai]]

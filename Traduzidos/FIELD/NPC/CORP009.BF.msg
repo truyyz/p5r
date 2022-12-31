@@ -82,7 +82,7 @@
 [s]Acho que vou passar.[e]
 
 [msg MSG_C09_ACTION_D00_20_02 [Futaba]]
-[s][bup 0 8 1 65535 0][f 4 23 1 209 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 9196 65535 0]Oooh, estou surpreso que você tenha dito que[n]sim![n]Bem, então, entre no meu escritório.[n][w][e]
+[s][bup 0 8 1 65535 0][f 4 23 1 209 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 9196 65535 0]Oooh, estou surpreso que você tenha dito que[n]sim! Bem, então, entre no meu escritório.[n][w][e]
 
 [msg MSG_C09_ACTION_D00_21_02 [Futaba]]
 [s][bup 0 8 0 65535 0][f 4 23 1 209 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 9043 65535 0]Mannn, e aqui eu estava pronto para fazer[n]meu estudo.[n][w][e]
@@ -160,7 +160,7 @@
 [s]Acho que vou passar.[e]
 
 [msg MSG_C09_ACTION_D07_20_02 [Futaba]]
-[s][bup 0 8 1 65535 0][f 4 23 1 209 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 9196 65535 0]Oooh, estou surpreso que você tenha dito que[n]sim![n]Bem, então, entre no meu escritório.[n][w][e]
+[s][bup 0 8 1 65535 0][f 4 23 1 209 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 9196 65535 0]Oooh, estou surpreso que você tenha dito que[n]sim! Bem, então, entre no meu escritório.[n][w][e]
 
 [msg MSG_C09_ACTION_D07_21_02 [Futaba]]
 [s][bup 0 8 0 65535 0][f 4 23 1 209 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 9043 65535 0]Mannn, e aqui eu estava pronto para fazer[n]meu estudo.[n][w][e]
@@ -361,7 +361,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]A-Wayway, terminei a lista de promessas![n]Então, você tem tempo...?[n][w][e]
 
 [msg MND_COOP_DOUZOKUSEI]
-[s]Eu sinto que posso me aproximar de Futaba[n]graças ao [n][var 2][n]Persona [clr 1][var 5][clr 27]...[n][w][e]
+[s]Eu sinto que posso me aproximar de Futaba[n]graças ao [n][var 2] Persona [clr 1][var 5][clr 27]...[n][w][e]
 
 [msg MND_COOP_RANKUP_OK]
 [s]Eu sinto que meu vínculo com Futaba ficará[n]mais forte em breve...[n][w][e]
@@ -446,7 +446,7 @@
 
 [msg MSG_C09_SPOT_00_10 [Futaba]]
 [s][bup 0 8 0 65535 0][f 4 23 1 209 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 9022 65535 0]Você quer dizer lá fora...?[n]Onde você vai me levar?[n][w][e]
-[s][vp 8 2 1 0 65535 0][f 4 10 65535 0 0]Eu acho que vou ficar bem assumindo[n]multidões se você quiser tentar... desde[n]que você esteja lá comigo, [n][f 4 2].[n][w][e]
+[s][vp 8 2 1 0 65535 0][f 4 10 65535 0 0]Eu acho que vou ficar bem assumindo[n]multidões se você quiser tentar... desde[n]que você esteja lá comigo, [f 4 2].[n][w][e]
 
 [msg MSG_C09_MYROOM_00_00 [Futaba]]
 [s][bup 0 8 7 65535 0][f 4 23 1 209 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 9087 65535 0]Seu quarto... sim, isso parece bom.[n][w][e]
@@ -750,7 +750,7 @@
 [s][bup 0 8 0 65535 0][f 4 23 1 209 14 10 13 10][f 4 10 65535 0 0][vp 8 0 1 37 65535 0]Se estou sendo honesto, estou realmente...[n]muito, muito nervoso com isso.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 38 65535 0]Não sei se posso fazer amigos, isso é muito[n]longe da minha zona de conforto, tudo o que[n]penso está me dando ansiedade...[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 39 65535 0]Mas- eu sei que não posso ficar no meu[n]quarto para sempre. E isso é muito mais[n]importante.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 1 40 65535 0]E eu quero entrar na faculdade. Major em[n]Psiências cognitivas reais. Como minha[n]mãe...[n]e Dr. Maruki.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 1 40 65535 0]E eu quero entrar na faculdade. Major em[n]Psiências cognitivas reais. Como minha[n]mãe... e Dr. Maruki.[n][w][e]
 
 [msg MSG_C09_BYEGREET_00_06_5 [Futaba]]
 [s][bup 0 8 3 65535 0][f 4 23 1 209 14 10 13 10][f 4 10 65535 0 0][vp 8 0 1 41 65535 0]Por enquanto... vou desistir do meu caderno[n]e essa recompensa. Aquele em que não tenho[n]que te deixar, quero dizer.[n][w][e]

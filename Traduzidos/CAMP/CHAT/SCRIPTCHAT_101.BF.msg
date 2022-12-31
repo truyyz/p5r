@@ -14,7 +14,7 @@
 [s][f 5 14]Sim. Todos nós devemos entrar atrás dele.[n][w][e]
 
 [msg MSG_006_0_0 [Futaba]]
-[s][f 5 14]O palácio é mais provável em sua sede[n]corporativa.[n]Vou investigar um pouco mais.[n][w][e]
+[s][f 5 14]O palácio é mais provável em sua sede[n]corporativa. Vou investigar um pouco mais.[n][w][e]
 
 [msg MSG_007_0_0 [Ryuji]]
 [s][f 5 14]Tudo bem, vamos fazer isso![n][w][e]

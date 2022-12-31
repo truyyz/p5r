@@ -46,7 +46,7 @@
 [s][f 4 23 1 852 3 10 0 0][vp 8 2 1 0 852 0]Gostaria de saber se alguma das vítimas foi[n]de Kosei... eu recebo muitas mensagens[n]estranhas de spam...[n][w][e]
 
 [msg MSG_E24320100_STUDENTFEM_5 [Worrying Kosei Girl]]
-[s][f 4 23 1 852 3 10 0 0][vp 8 2 1 0 852 0]Estaremos seguros se estivermos lá dentro,[n]certo?[n]Eu só quero comprar em paz...[n][w][e]
+[s][f 4 23 1 852 3 10 0 0][vp 8 2 1 0 852 0]Estaremos seguros se estivermos lá dentro,[n]certo? Eu só quero comprar em paz...[n][w][e]
 
 [msg MSG_E24320100_STUDENTFEM_6 [Stylish Kosei Girl]]
 [s][f 4 23 1 851 3 10 0 0][vp 8 2 1 0 851 0]Tenho certeza de que ficará bem, desde que[n]evitemos em qualquer lugar superficial.[n][w][e]

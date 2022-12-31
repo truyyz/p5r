@@ -29,7 +29,7 @@
 [s][f 5 14]Temos que pegar quem quer que seja...[n][w][e]
 
 [msg MSG_010_0_0 [Ryuji]]
-[s][f 5 14]Qualquer idéia de quem esse culpado pode[n]ser, [n][f 4 2]?[n][w][e]
+[s][f 5 14]Qualquer idéia de quem esse culpado pode[n]ser,  [f 4 2]?[n][w][e]
 
 [sel SEL_011_0_0 top]
 [s][f 5 14]A pessoa máscara negra.[e]

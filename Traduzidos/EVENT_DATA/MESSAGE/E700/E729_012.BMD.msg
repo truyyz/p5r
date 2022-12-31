@@ -29,7 +29,7 @@
 [s][bup 0 101 4 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Então, a humanidade pretende gerar seus[n]próprios universos agora, não é?[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Caroline]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 102 15 300 1][vp 8 2 0 11063 65535 0]Tivemos o suficiente de seus comentários[n]inteligentes![n]Conheça o seu lugar, preso![n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 102 15 300 1][vp 8 2 0 11063 65535 0]Tivemos o suficiente de seus comentários[n]inteligentes! Conheça o seu lugar, preso![n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Caroline]]
 [s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Oh, para que eles possam ficar tão grandes?[n][f 1 3 65535][w][e]
@@ -145,7 +145,7 @@
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 102 15 300 65535][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você está parando?[n][f 1 3 65535][w][e]
 
 [msg MSG_035_0_0 [Caroline]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 102 15 300 1][vp 8 2 0 11092 65535 0]Quem disse que você poderia parar!? Sem[n]pausas![n]Trabalhe aquela mandíbula![n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 102 15 300 1][vp 8 2 0 11092 65535 0]Quem disse que você poderia parar!? Sem[n]pausas! Trabalhe aquela mandíbula![n][f 1 3 65535][w][e]
 
 [msg MND_036_0_0]
 [s][vp 8 0 0 0 65535 0]Meu estômago vai estourar...[n][f 1 3 65535][w][e]

@@ -110,7 +110,7 @@
 [s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 0 0 34 65535 0]Tome cuidado.[n][f 1 3 65535][w][e]
 
 [msg MND_033_0_0]
-[s][vp 8 0 0 0 65535 0]Morgana deveria ser um gato... e Wakaba,[n]ela...[n]não deveria estar aqui conosco...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Morgana deveria ser um gato... e Wakaba,[n]ela... não deveria estar aqui conosco...[n][f 1 3 65535][w][e]
 
 [msg MSG_034_0_0 [Wakaba]]
 [s][bup 0 208 500 65535 0][f 4 10 65535 0 0][vp 8 0 0 35 7 0]Qual é o problema, [f 4 2]-kun?[n][f 1 3 65535][w][e]
@@ -122,7 +122,7 @@
 [s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 0 0 39 65535 0]Desculpe, ainda não abrimos o dia.[n][f 1 3 65535][w][e]
 
 [msg MSG_044_0_0 [Akechi]]
-[s][bup 0 9 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 40 65535 0]Minhas desculpas- eu apenas desejei falar[n]com [n][f 4 1]-kun por um momento.[n][f 1 3 65535][w][e]
+[s][bup 0 9 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 40 65535 0]Minhas desculpas- eu apenas desejei falar[n]com  [f 4 1]-kun por um momento.[n][f 1 3 65535][w][e]
 
 [msg MSG_045_0_0 [Morgana]]
 [s][bup 0 3 801 0 0][f 4 10 65535 0 0][vp 8 0 0 41 6 0]Por que você não vai buscar um pouco de ar[n]fresco com ele?[n][f 1 3 65535][w][e]

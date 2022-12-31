@@ -11,7 +11,7 @@
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ah bem. Devemos pelo menos comprometer este[n]lugar para a memória por enquanto.[n][w][e]
 
 [msg D157_009_miniEV_07_mes01 [Haru]]
-[s][bup 0 7 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 3114 65535 0]Há um painel de controle aqui! Oh, mas este[n]é [n][clr 2]amarelo [clr 27].[n][w][e]
+[s][bup 0 7 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 3114 65535 0]Há um painel de controle aqui! Oh, mas este[n]é  [clr 2]amarelo [clr 27].[n][w][e]
 
 [msg D157_009_miniEV_07_mes02 [Yusuke]]
 [s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Estamos à procura de painéis de controle[n]vermelho e verde. Devemos verificar em[n]outro lugar.[n][w][e]

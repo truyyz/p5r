@@ -159,7 +159,7 @@
 [s][bup 0 3 4 0 0][f 4 10 65535 0 0][vp 8 2 0 1182 65535 0]... você falhou, não foi?[n][f 1 3 65535][w][e]
 
 [msg MSG_070_1_0 [Ryuji]]
-[s][bup 0 2 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Uau! Eu acho que minha boca está pegando[n]fogo...[n]Cara, eu não consigo parar de tremer![n][f 1 3 65535][w][e]
+[s][bup 0 2 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Uau! Eu acho que minha boca está pegando[n]fogo... Cara, eu não consigo parar de tremer![n][f 1 3 65535][w][e]
 
 [msg MSG_070_3_0 [Yusuke]]
 [s][bup 0 5 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Talvez eu tivesse muita fé no seu senso[n]comum... você está me dizendo que esse lodo[n]pungente é curry?[n][f 1 3 65535][w][e]
@@ -263,7 +263,7 @@
 
 [msg SYS_034_5_0 [Secret Ingredient: Chocolate]]
 [s][vp 8 2 0 0 65535 0]O chocolate, em pequenas quantidades, pode[n]ser adicionado ao curry para melhorar as[n]especiarias, dando-lhe um sabor profundo e[n]rico.[n][f 1 3 65535][w][e]
-[s][vp 8 2 0 0 65535 0]Tenha cuidado para não acrescentar muito, no[n]entanto.[n]Em quantidades excessivas, o chocolate[n]destruirá o delicado equilíbrio do sabor do[n]curry.[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0]Tenha cuidado para não acrescentar muito, no[n]entanto. Em quantidades excessivas, o chocolate[n]destruirá o delicado equilíbrio do sabor do[n]curry.[n][f 1 3 65535][w][e]
 
 [msg MSG_035_0_0 [Morgana]]
 [s][bup 0 3 4 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Uau, chocolate... espere, isso não faria com[n]um gosto super doce?[n][f 1 3 65535][w][e]
@@ -344,7 +344,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]A propósito, quais foram esses galhos que[n]você adicionou?[n][f 1 3 65535][w][e]
 
 [msg SYS_050_5_0 [Spice: Cinnamon]]
-[s][vp 8 2 0 0 65535 0]Um tempero com perfume distinto e[n]refrescante.[n]Sua combinação única de características[n]doces e picantes acrescenta grande[n]profundidade a um curry.[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0]Um tempero com perfume distinto e[n]refrescante. Sua combinação única de características[n]doces e picantes acrescenta grande[n]profundidade a um curry.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]A canela é feita a partir da casca seca de[n]uma árvore de canela. É comumente usado em[n]doces, mas também pode ser encontrado em[n]esfregões de especiarias.[n][f 1 3 65535][w][e]
 
 [msg MSG_051_0_0 [Morgana]]
@@ -372,7 +372,7 @@
 
 [msg MSG_101_0_0 [Futaba]]
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 9003 65535 0]Ta-daaa! Futaba chegou![n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Sojiro me disse que você estava fazendo[n]curry, [n][f 4 2].[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Sojiro me disse que você estava fazendo[n]curry,  [f 4 2].[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Sou super exigente quando se trata dessas[n]coisas. Mostre-me o que você tem![n][f 1 3 65535][w][e]
 
 [msg MND_101_0_1]

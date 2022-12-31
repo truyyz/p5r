@@ -29,7 +29,7 @@
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1164 65535 0]Você precisará de ferramentas especiais para[n]corrigir isso. Você provavelmente pode[n]obter o que precisa em Akihabara.[n][w][e]
 
 [msg MSG_NotePc_Tool_HaveItem [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1174 65535 0]Fazer com que essa coisa funcione não será[n]fácil.[n]Corrigir isso levará bastante tempo.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1174 65535 0]Fazer com que essa coisa funcione não será[n]fácil. Corrigir isso levará bastante tempo.[n][w][e]
 
 [sel SEL_Repair_Q top]
 [s]Vamos tentar consertar isso.[e]

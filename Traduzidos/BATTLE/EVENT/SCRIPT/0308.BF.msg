@@ -236,7 +236,7 @@
 [s][vp 8 0 2 1038 1 221]Hmph, então meus trabalhadores comuns não[n]podem atender às demandas aqui. Nesse[n]caso...[n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_SYAIN_SWEPT02 [Shadow Okumura]]
-[s][vp 8 0 2 1039 1 221]Ugh, caramba, esses ladrões... Chefe do[n]balconista![n]Entre aqui e cuide disso![n][f 1 3 65535][w][e]
+[s][vp 8 0 2 1039 1 221]Ugh, caramba, esses ladrões... Chefe do[n]balconista! Entre aqui e cuide disso![n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_SYAIN_SWEPT03 [Shadow Okumura]]
 [s][vp 8 0 2 1040 1 221]Droga! Ei, seção chefe! Tire esses pirralhos[n]de Loudmouth da minha vista![n][f 1 3 65535][w][e]

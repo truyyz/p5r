@@ -38,10 +38,10 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1185 65535 0]Você já terminou?[n][w][e]
 
 [msg MSG_CONVINI_GREETING_6_8 [Convenience Store Clerk]]
-[s][f 4 23 1 1 3 5 65534 0][vp 8 2 1 0 1 0]Bem-vindo! Mantendo você esfriado neste[n]verão![n][f 2 5 3 9999 0][n]está agora à venda![n][w][e]
+[s][f 4 23 1 1 3 5 65534 0][vp 8 2 1 0 1 0]Bem-vindo! Mantendo você esfriado neste[n]verão! [f 2 5 3 9999 0][n]está agora à venda![n][w][e]
 
 [msg MSG_CONVINI_GREETING_6_8_2 [Nanami]]
-[s][f 4 23 1 1 3 5 65534 0][vp 8 2 1 0 1 0]Bem-vindo! Mantendo você esfriado neste[n]verão![n][f 2 5 3 9999 0][n]está agora à venda![n][w][e]
+[s][f 4 23 1 1 3 5 65534 0][vp 8 2 1 0 1 0]Bem-vindo! Mantendo você esfriado neste[n]verão! [f 2 5 3 9999 0][n]está agora à venda![n][w][e]
 
 [msg MSG_CONVINI_GREETING_9 [Convenience Store Clerk]]
 [s][f 4 23 1 1 3 5 65534 0][vp 8 2 1 0 1 0]Bem-vindo! Um clássico para outono e inverno![f 2 5 3 9999 0], agora está à venda![n][w][e]

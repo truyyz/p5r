@@ -47,7 +47,7 @@
 
 [msg MSG_012_0_0 [Scared Volleyball Player]]
 [s][vp 8 2 1 0 852 0]Todo mundo já não lhe disse?[n]Não há nada para testemunhar.[n][w][e]
-[s][vp 8 2 1 0 852 0]Não houve nenhum abuso. É apenas uma parte[n]do [n][clr 2]treinamento [clr 27]![n][w][e]
+[s][vp 8 2 1 0 852 0]Não houve nenhum abuso. É apenas uma parte[n]do  [clr 2]treinamento [clr 27]![n][w][e]
 
 [msg MSG_013_0_0 [Scared Volleyball Player]]
 [s][vp 8 2 1 0 852 0]Claro que não! Todo mundo já não lhe disse?[n][w][e]

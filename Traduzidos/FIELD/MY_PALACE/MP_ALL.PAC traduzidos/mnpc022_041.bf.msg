@@ -86,7 +86,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 42 10 0 10]Eu tenho me desculpar um dia desses...[n][w][e]
 
 [msg MES_GROUP9_01 [Ryuji]]
-[s][bup 0 2 5 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 32 10 0 10][vp 8 2 1 7192 65535 0]Esse cara tinha tudo. Inteligente, riquezas,[n]fama...[n]Por que ele se incomodou em fazer todas[n]essas coisas de merda?[n][w][e]
+[s][bup 0 2 5 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 32 10 0 10][vp 8 2 1 7192 65535 0]Esse cara tinha tudo. Inteligente, riquezas,[n]fama... Por que ele se incomodou em fazer todas[n]essas coisas de merda?[n][w][e]
 
 [msg MES_GROUP9_02 [Lavenza]]
 [s][bup 0 100 0 0 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 55479 65535 0]Para o bem ou para o mal, não há limites[n]para os desejos que um humano pode se[n]desenvolver.[n][w][e]

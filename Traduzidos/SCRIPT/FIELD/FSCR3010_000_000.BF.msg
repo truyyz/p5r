@@ -425,7 +425,7 @@
 [s][bup 0 3 7 0 0][f 4 10 65535 0 0][vp 8 2 1 1178 65535 0]Muitas coisas aconteceram hoje... Não posso[n]deixar de me sentir exausta.[n][w][e]
 
 [msg MSG_SOFA_1027 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1035 65535 0]Ele teve a coragem de se juntar à nossa[n]equipe.[n]Ele deve estar muito confiante em suas[n]próprias habilidades.[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1035 65535 0]Ele teve a coragem de se juntar à nossa[n]equipe. Ele deve estar muito confiante em suas[n]próprias habilidades.[n][w][e]
 
 [msg MSG_SOFA_1029 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1035 65535 0]A maneira como Akechi usou sua persona...[n]Ele não é seu cara comum...[n][w][e]

@@ -33,7 +33,7 @@
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não, tenho certeza de que isso é apenas um[n]estilo gótico.[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Mishima]]
-[s][bup 0 111 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas meus sentidos de ladrão fantasma estão[n]formigando! Você não acha que ele é[n]suspeito, [n][f 4 1]?[n][f 1 3 65535][w][e]
+[s][bup 0 111 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas meus sentidos de ladrão fantasma estão[n]formigando! Você não acha que ele é[n]suspeito, [f 4 1]?[n][f 1 3 65535][w][e]
 
 [sel SEL_009_0_0 top]
 [s][f 0 8 2 1 2217]Ele é suspeito.[clr 27][e]
@@ -108,7 +108,7 @@
 [s][bup 0 4 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você só quer fazê-lo usar as coisas mais[n]estranhas que você pode encontrar. Vou[n]coordenar [n][f 4 2] Guarda-do-guarda-roupa.[n][f 1 3 65535][w][e]
 
 [msg MSG_026_5_0 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 6168 65535 0][f 5 13 7 15 4]Poderíamos ir para um olhar de menino mau,[n]ou talvez algo principesco... você tem um[n]bom potencial, então isso deve ser[n]divertido.[n][f 1 3 65535][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 6168 65535 0][f 5 13 7 15 4]Poderíamos ir para um olhar de menino mau,[n]ou talvez algo principesco... você tem um[n]bom potencial, então isso deve ser divertido.[n][f 1 3 65535][w][e]
 
 [msg MSG_027_0_0 [Ann]]
 [s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]De qualquer forma, não há mais julgando as[n]pessoas por sua aparência.[n][f 1 3 65535][w][e]

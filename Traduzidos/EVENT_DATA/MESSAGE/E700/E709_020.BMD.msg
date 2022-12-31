@@ -6,7 +6,7 @@
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]... Parece que Sojiro quer que eu volte para[n]a escola.[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Futaba]]
-[s][bup 0 8 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas as aulas on-line são melhores para[n]estudar![n]Eu nem precisaria sair de casa.[n][f 1 3 65535][w][e]
+[s][bup 0 8 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas as aulas on-line são melhores para[n]estudar! Eu nem precisaria sair de casa.[n][f 1 3 65535][w][e]
 
 [sel SEL_003_0_0 top]
 [s]Isso não resolveria nada.[e]

@@ -13,7 +13,7 @@
 
 [msg MSG_004_0_0 [Ryuji]]
 [s][f 5 14]Meio que traz de volta memórias.[n][w][e]
-[s][f 5 14]Tudo isso me lembra de dar testemunhas na[n]escola.[n]Lembrar?[n][w][e]
+[s][f 5 14]Tudo isso me lembra de dar testemunhas na[n]escola. Lembrar?[n][w][e]
 [s][f 5 14]Com toda a coisa de rali de vôlei? Nós[n]dois correndo por aí tentando sujar[n]Kamoshida?[n][w][e]
 
 [sel SEL_005_0_0 top]

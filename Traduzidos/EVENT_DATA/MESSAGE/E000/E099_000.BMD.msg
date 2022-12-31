@@ -31,7 +31,7 @@
 [s][bup 0 4 100 65535 0][f 4 10 65535 0 0][vp 8 2 0 6127 65535 0]Hum, então, o que você queria nos mostrar?[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Jose]]
-[s][bup 0 221 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 56762 65535 0]Os seres humanos fazem desejos nas estrelas,[n]certo?[n]Isso é tão interessante.[n][f 1 3 65535][w][e]
+[s][bup 0 221 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 56762 65535 0]Os seres humanos fazem desejos nas estrelas,[n]certo? Isso é tão interessante.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Estrelas concedendo desejos...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Então, esta estrela vai conceder seus[n]desejos.[n][f 1 3 65535][w][e]
 
@@ -83,7 +83,7 @@
 [s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]HM. Eu acho que as coisas não acontecem tão[n]facilmente.[n][f 1 3 65535][w][e]
 
 [msg MSG_026_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1190 65535 0]Mas não podemos simplesmente jogar a coisa[n]fora...[n]Segure-o por enquanto.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1190 65535 0]Mas não podemos simplesmente jogar a coisa[n]fora... Segure-o por enquanto.[n][f 1 3 65535][w][e]
 
 [msg MSG_027_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1172 65535 0]Bem, isso foi um pouco inesperado... vamos[n]voltar agora.[n][f 1 3 65535][w][e]

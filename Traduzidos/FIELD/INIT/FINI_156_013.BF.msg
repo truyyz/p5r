@@ -116,7 +116,7 @@
 [msg D05_02_e341_034_ng_selB__4 [???]]
 [s]Espere, são os conhecidos como os ladrões[n]Phantom!?[n][w][e]
 [s]Quão sem vergonha de sua parte admitir esses[n]crimes tão abertamente![n][w][e]
-[s]Você nem vale o tempo que leva para essa[n]conversa![n]Eu vou te esmagar![n][w][e]
+[s]Você nem vale o tempo que leva para essa[n]conversa! Eu vou te esmagar![n][w][e]
 
 [msg D05_02_e341_034_ng_selB__5 [Ryuji]]
 [s][bup 0 2 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7175 65535 0]Merda, teremos que lutar com ele nesse[n]ritmo! Vamos fazê-lo![n][w][e]
@@ -243,7 +243,7 @@
 [s]Todo mundo era humilde como você [clr 2]Quando eu era jovem [clr 27].[n]Mas os jovens hoje em dia...[n][w][e]
 
 [msg D05_02_e341_036_selB_1_m [???]]
-[s]Alguém sem estabilidade perguntando sobre o[n]futuro?[n][clr 2]Grahahaha [clr 27]! HOW NAÏVE.[n][w][e]
+[s]Alguém sem estabilidade perguntando sobre o[n]futuro? [clr 2]Grahahaha [clr 27]! HOW NAÏVE.[n][w][e]
 [s]O futuro é uma questão insignificante para[n]um garoto como você.[n][w][e]
 [s]Embora eu admita, é um assunto[n]interessante...[n][w][e]
 

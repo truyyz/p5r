@@ -70,7 +70,7 @@
 
 [msg MSG_018_0_0 [Makoto]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 6 12 300 1][vp 8 2 0 2047 65535 0]Eiko...![n][f 1 3 65535][w][e]
-[s][bup 0 6 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você não pode simplesmente fazer o que ele[n]diz![n]Ele está tentando enganar você...![n][f 1 3 65535][w][e]
+[s][bup 0 6 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você não pode simplesmente fazer o que ele[n]diz! Ele está tentando enganar você...![n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Eiko]]
 [s][vp 8 0 0 0 65535 0]... Uma pessoa inteligente como você não[n]entenderia totalmente como é.[n][f 1 3 65535][w][e]

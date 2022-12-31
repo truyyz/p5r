@@ -2,7 +2,7 @@
 [s][f 5 14]Cara, eu realmente quero comer algo doce[n]agora...[n][w][e]
 
 [msg MSG_001_0_0 [Ann]]
-[s][f 5 14]Mas eu me sentiria mal fazendo isso[n]sozinho.[n]Meu coração está em conflito...[n][w][e]
+[s][f 5 14]Mas eu me sentiria mal fazendo isso[n]sozinho. Meu coração está em conflito...[n][w][e]
 
 [msg MSG_002_0_0 [Ann]]
 [s][f 5 14]Que tal isso? Quer ser meu cúmplice?[n][w][e]
@@ -146,6 +146,6 @@
 [s]Você também pode convidar pessoas que[n]possam desfrutar do aquário para sair[n]com você lá.[n][w][e]
 
 [msg MSG_SPOT_OPEN_NAKANO]
-[s]Agora você tem informações sobre um novo[n]ponto de encontro: [n][clr 2]Distrito de construção de comércio de[n]Nakano [n][clr 27].[n][w][e]
+[s]Agora você tem informações sobre um novo[n]ponto de encontro: [n][clr 2]Distrito de construção de comércio de[n]Nakano  [clr 27].[n][w][e]
 [s]Você também pode convidar pessoas que[n]possam desfrutar desse local para sair[n]com você lá.[n][w][e]
 

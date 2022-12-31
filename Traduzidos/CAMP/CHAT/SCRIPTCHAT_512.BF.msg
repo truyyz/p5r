@@ -1,5 +1,5 @@
 [msg MSG_000_0_0 [Futaba]]
-[s][f 5 14]Há algo que eu realmente quero falar com[n]você.[n]...Você esta livre?[n][w][e]
+[s][f 5 14]Há algo que eu realmente quero falar com[n]você. ...Você esta livre?[n][w][e]
 
 [msg MSG_001_0_0 [Futaba]]
 [s][f 5 14]Mesmo se você não for, isso me deixaria[n]muito feliz se você pudesse reservar[n]algum tempo para mim.[n][f 5 15][w][e]
@@ -137,6 +137,6 @@
 [s]Você também pode convidar pessoas que[n]possam desfrutar do aquário para sair[n]com você lá.[n][w][e]
 
 [msg MSG_SPOT_OPEN_NAKANO]
-[s]Agora você tem informações sobre um novo[n]ponto de encontro: [n][clr 2]Distrito de construção de comércio de[n]Nakano [n][clr 27].[n][w][e]
+[s]Agora você tem informações sobre um novo[n]ponto de encontro: [n][clr 2]Distrito de construção de comércio de[n]Nakano  [clr 27].[n][w][e]
 [s]Você também pode convidar pessoas que[n]possam desfrutar desse local para sair[n]com você lá.[n][w][e]
 

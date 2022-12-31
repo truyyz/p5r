@@ -37,7 +37,7 @@
 [s][bup 0 103 3 0 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Que tal pararmos ali, senhora.[n]Pelo bem dele.[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Sae]]
-[s][bup 0 105 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Eu realmente deveria estar indo, de qualquer[n]maneira.[n]Desculpe impor.[n][f 1 3 65535][w][e]
+[s][bup 0 105 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Eu realmente deveria estar indo, de qualquer[n]maneira. Desculpe impor.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]E esse dificilmente é o fim da minha dívida,[n]é claro. O chocolate não vai cobrir tudo o[n]que você fez por mim.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Até a próxima.[n][f 1 3 65535][w][e]
 

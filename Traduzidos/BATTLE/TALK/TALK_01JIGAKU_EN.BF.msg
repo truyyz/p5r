@@ -35,7 +35,7 @@
 [s]... Eu ainda não terminei. Posso obter um[n]pouco de sua saúde desta vez?[n][w][e]
 
 [msg TalkMsg_EN_DECLINE_03]
-[s]... Eu quero um pouco da sua resistência[n]também.[n]Vamos lá, é por causa de sua amizade.[n][w][e]
+[s]... Eu quero um pouco da sua resistência[n]também. Vamos lá, é por causa de sua amizade.[n][w][e]
 
 [msg TalkMsg_EN_AGREE_00]
 [s]... Tudo bem, eu vou lançá-los.[n][w][e]
@@ -76,7 +76,7 @@
 [s]TCH! Que diabos!?[n][w][e]
 
 [msg TalkMsg_EN_FAKE_CRIED00]
-[s]Ugh, você já cala a boca!?[n]... tudo bem, vou deixar você ir pelo preço[n]de um [n][f 2 5 3 9999 3].[n][w][e]
+[s]Ugh, você já cala a boca!?[n]... tudo bem, vou deixar você ir pelo preço[n]de um  [f 2 5 3 9999 3].[n][w][e]
 
 [msg TalkMsg_EN_FAKE_CRIED01]
 [s]O que...? Tudo bem, vou deixar isso deslizar[n]se você me dê [n][var 0]Yen.[n][w][e]

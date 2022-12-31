@@ -335,7 +335,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Você está livre agora, sim?[n][w][e]
 
 [msg MND_COOP_DOUZOKUSEI]
-[s]Eu sinto que posso me aproximar de Iwai[n]graças ao [n][var 2][n]Persona [clr 1][var 5][clr 27]...[n][w][e]
+[s]Eu sinto que posso me aproximar de Iwai[n]graças ao [n][var 2] Persona [clr 1][var 5][clr 27]...[n][w][e]
 
 [msg MND_COOP_RANKUP_OK]
 [s]Sinto que meu vínculo com Iwai ficará mais[n]forte em breve...[n][w][e]
@@ -376,7 +376,7 @@
 [s][bup 0 104 1 0 0][f 4 10 65535 0 0][f 4 23 1 212 49 10 40 10][vp 8 2 1 13086 65535 0]OK. Comece a trabalhar, seu pequeno nerd de[n]armas.[n][w][e]
 
 [msg MSG_C12_YES_05_00 [Iwai]]
-[s][bup 0 104 0 0 0][f 4 10 65535 0 0][f 4 23 1 212 49 10 40 10][vp 8 2 1 13086 65535 0]A pessoa que você estará escoltando... é[n]Kaoru.[n]Jantar com ele naquele restaurante em[n]Shibuya.[n][w][e]
+[s][bup 0 104 0 0 0][f 4 10 65535 0 0][f 4 23 1 212 49 10 40 10][vp 8 2 1 13086 65535 0]A pessoa que você estará escoltando... é[n]Kaoru. Jantar com ele naquele restaurante em[n]Shibuya.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Agora vá. Eu tenho que cuidar de alguns[n]negócios com Tsuda.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu estarei lá depois de lidar com isso.[n]Vejo-te em breve.[n][w][e]
 

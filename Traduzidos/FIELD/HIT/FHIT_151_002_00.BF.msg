@@ -37,7 +37,7 @@
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Esse cara deve realmente ser obcecado por si[n]mesmo.[n][w][e]
 
 [msg D01_03_e161_025_pre_mes0_3 [Ryuji]]
-[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Olhando para a coisa que está me deixando[n]doente.[n]Vamos a algum outro lugar.[n][w][e]
+[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Olhando para a coisa que está me deixando[n]doente. Vamos a algum outro lugar.[n][w][e]
 
 [msg L1_Tutorial_mes01 [【サードアイ】]]
 [s]dummy fhit_151_002_00 dummy fhit_151_002_00 [n][w][e]

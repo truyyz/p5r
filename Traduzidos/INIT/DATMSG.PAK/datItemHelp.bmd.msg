@@ -1592,10 +1592,10 @@
 [s]Incenso místico que confere[n]paciência.[n]Aumenta a Persona EN em 3.[n][e]
 
 [msg Item_213]
-[s]Incenso místico que ilumina seu[n]corpo.[n]Aumenta a AG da Persona em 3.[n][e]
+[s]Incenso místico que ilumina seu[n]corpo. Aumenta a AG da Persona em 3.[n][e]
 
 [msg Item_214]
-[s]Incenso místico que confere boa[n]sorte.[n]Aumenta a Lu da Persona em 3.[n][e]
+[s]Incenso místico que confere boa[n]sorte. Aumenta a Lu da Persona em 3.[n][e]
 
 [msg Item_215]
 [s]Costete de carne moída que as[n]pessoas se alinham para comprar.[n]Restaura 30 SP a um aliado.[n][e]
@@ -2075,7 +2075,7 @@
 [s]Livro antigo sobre a[n]fragilidade do coração humano.[n]Expande as condições técnicas.[n][e]
 
 [msg Item_2B4]
-[s]Quebra todos os limites[n]conhecidos.[n]Velocidade da bola: ??? MPH.[n][e]
+[s]Quebra todos os limites[n]conhecidos. Velocidade da bola: ??? MPH.[n][e]
 
 [msg Item_2B5]
 [s]Os ingredientes são super[n]secretos. Restaura totalmente[n]HP e SP de todos os aliados.[n][e]

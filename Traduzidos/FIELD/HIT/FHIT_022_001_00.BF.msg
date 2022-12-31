@@ -52,13 +52,13 @@
 [s]O coração de Futaba foi dado por sua vontade[n]rebelde.[n]O Necronomicon, também chamado de "Livro das[n]Leis dos Mortos", aparece em H.P. O[n]trabalho de Lovecraft.[n][w][e]
 
 [msg Robin_MSG [Robin Hood]]
-[s]O coração de Akechi foi dado por sua vontade[n]rebelde.[n]As histórias pintam Robin Hood como um[n]vigilante lendário, mas ele pode ser um[n]amálgama fantasioso de outras figuras.[n][w][e]
+[s]O coração de Akechi foi dado por sua vontade[n]rebelde. As histórias pintam Robin Hood como um[n]vigilante lendário, mas ele pode ser um[n]amálgama fantasioso de outras figuras.[n][w][e]
 
 [msg Roki_MSG [Loki]]
-[s]O coração de Akechi foi dado por sua vontade[n]rebelde.[n]Na mitologia nórdica, Loki é um deus[n]trapaceiro e um deslocador de forma, às[n]vezes aparecendo como mulher.[n][w][e]
+[s]O coração de Akechi foi dado por sua vontade[n]rebelde. Na mitologia nórdica, Loki é um deus[n]trapaceiro e um deslocador de forma, às[n]vezes aparecendo como mulher.[n][w][e]
 
 [msg Cend_MSG [Cendrillon]]
-[s]O coração de Sumire foi dado por sua vontade[n]rebelde.[n]Cendrillon é uma forma francesa de[n]Cinderela, derivada dos franceses para[n]Cinders: "Cendre".[n][w][e]
+[s]O coração de Sumire foi dado por sua vontade[n]rebelde. Cendrillon é uma forma francesa de[n]Cinderela, derivada dos franceses para[n]Cinders: "Cendre".[n][w][e]
 
 [msg Rakugaki_MSG]
 [s]Parece que uma criança desenhou aqui.[n][w][e]

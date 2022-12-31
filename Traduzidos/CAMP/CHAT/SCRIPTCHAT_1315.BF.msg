@@ -11,7 +11,7 @@
 [s][f 5 14]Você acha que poderia fazer algum tempo?[n]Por favor?[n][w][e]
 
 [msg CHAT_REACTION_MSG_01 [Futaba]]
-[s][f 5 14]【仮】[n]ありがとう[n]恩にきる[n][w][e]
+[s][f 5 14]【仮】[n]ありがとう 恩にきる[n][w][e]
 
 [msg CHAT_REACTION_MSG_02 [Futaba]]
 [s][f 5 14]Estarei na frente de LeBlanc.[n][w][e]

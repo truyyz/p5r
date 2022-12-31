@@ -52,6 +52,6 @@
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]O mesmo provavelmente se aplica aqui também.[n][w][e]
 
 [msg e382_300_mes16 [Shadow]]
-[s]Por mais irritante que seja, isso está[n]correto.[n]Por favor, participe.[n][w][e]
+[s]Por mais irritante que seja, isso está[n]correto. Por favor, participe.[n][w][e]
 [s]As inscrições serão realizadas no balcão ali.[n][w][e]
 

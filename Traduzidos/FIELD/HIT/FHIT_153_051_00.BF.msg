@@ -2,7 +2,7 @@
 [s]......[n][w][e]
 
 [msg mini_EV_PARTYMEMBER_CHEC [Morgana]]
-[s][bup 0 3 4 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1029 65535 0]Você está tentando fazer isso sozinho,[n]Joker!?[n]Isso é muito arriscado![n][w][e]
+[s][bup 0 3 4 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1029 65535 0]Você está tentando fazer isso sozinho,[n]Joker!? Isso é muito arriscado![n][w][e]
 
 [msg mini_EV_PARTYMEMBER_CHEC_2 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1156 65535 0]Você só tem duas pessoas em sua formação[n]inicial agora. Eu não acho que isso será[n]suficiente...[n][w][e]
@@ -435,7 +435,7 @@
 [s][vp 1 0 0 3149 0 0][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]MM... vamos ser ainda mais cautelosos do que[n]o normal, Joker.[n][w][e]
 
 [msg SAFE_EXIT_HIGH_03_PC04_m [Ann]]
-[s][vp 1 0 0 4149 0 0][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]O nível de segurança é alto, então vamos ser[n]cautelosos.[n]Não empurre.[n][w][e]
+[s][vp 1 0 0 4149 0 0][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]O nível de segurança é alto, então vamos ser[n]cautelosos. Não empurre.[n][w][e]
 
 [msg SAFE_EXIT_HIGH_03_PC05_m [Yusuke]]
 [s][vp 1 0 0 5149 0 0][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eles estão cientes de nós, Joker.[n]Não se apresse.[n][w][e]

@@ -6,7 +6,7 @@
 [s]Por favor, aproveite este jogo simples, no[n]qual você adivinha o número total que[n]aparecerá em três dados do elenco.[n][w][e]
 [s]Uma previsão correta dobrará sua aposta,[n]enquanto três dados correspondentes o[n]triplicarão.[n][w][e]
 [s]Combinando três sixes irá quintupar sua[n]aposta original.[n][w][e]
-[s]A adesão para este jogo é de apenas 25[n]moedas.[n]Você gostaria de jogar?[n][w][e]
+[s]A adesão para este jogo é de apenas 25[n]moedas. Você gostaria de jogar?[n][w][e]
 
 [sel mini_ev_mes_01_GAME_03_s top]
 [s]Jogue o jogo [e]

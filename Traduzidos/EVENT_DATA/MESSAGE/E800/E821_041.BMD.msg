@@ -28,7 +28,7 @@
 [msg MSG_006_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ah sim. Eu gostaria de mostrar a você um dos[n]meus trabalhos favoritos.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Uma peça que faz você ver algo novo em cada[n]visita é imensamente raro...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Estou ansioso para ver o que posso recolher[n]hoje também. Eu espero que você sinta o[n]mesmo, [n][f 4 2].[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Estou ansioso para ver o que posso recolher[n]hoje também. Eu espero que você sinta o[n]mesmo, [f 4 2].[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 4071 65535 0]Essa pintura de anterior foi realmente[n]transformada em uma estátua.[n][f 1 3 65535][w][e]

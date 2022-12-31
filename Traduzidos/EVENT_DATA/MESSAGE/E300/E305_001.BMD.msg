@@ -43,7 +43,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Pode ter havido muitas circunstâncias[n]anormais...[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Simplesmente não podemos ficar quietos sobre[n]isso.[n]Devemos informar o Boss.[n][f 1 3 65535][w][e]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Simplesmente não podemos ficar quietos sobre[n]isso. Devemos informar o Boss.[n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Morgana]]
 [s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]Ele não descobriria nossas identidades!?[n][f 1 3 65535][w][e]

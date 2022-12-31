@@ -92,7 +92,7 @@
 [s][vp 8 0 0 0 65535 0]Parece que meu vínculo com Iwai está ficando[n]ainda mais profundo...[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Iwai]]
-[s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bem, eu vou bater em você quando chegar a[n]hora.[n]Vamos fazer isso, garoto.[n][f 1 3 65535][w][e]
+[s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bem, eu vou bater em você quando chegar a[n]hora. Vamos fazer isso, garoto.[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Iwai]]
 [s][vp 8 2 0 13053 0 0]Obrigado por hoje.[n][f 1 3 65535][w][e]

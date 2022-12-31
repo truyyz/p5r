@@ -152,7 +152,7 @@
 
 [msg MSG_043_0_0 [Yoshida]]
 [s][bup 0 112 500 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E a força para enfrentar os Hecklers,[n]Matsushita e neto de Kuramoto.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você não é um estudante comum do ensino[n]médio.[n]Até eu sei muito.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você não é um estudante comum do ensino[n]médio. Até eu sei muito.[n][f 1 3 65535][w][e]
 
 [msg MSG_044_0_0 [Yoshida]]
 [s][bup 0 112 500 0 0][f 4 10 65535 0 0][vp 8 2 0 20019 65535 0]Você gostaria de... falar sobre isso?[n][f 1 3 65535][w][e]

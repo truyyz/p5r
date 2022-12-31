@@ -11,5 +11,5 @@
 [s][f 5 14]... eles agora?[n][w][e]
 
 [msg MSG_021_0_0 [Kawakami]]
-[s][f 5 14]Oh, mas não podemos nos encontrar na[n]escola.[n]Vamos para Shibuya.[n][f 5 15][w][e]
+[s][f 5 14]Oh, mas não podemos nos encontrar na[n]escola. Vamos para Shibuya.[n][f 5 15][w][e]
 

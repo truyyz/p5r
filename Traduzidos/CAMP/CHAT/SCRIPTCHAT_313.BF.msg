@@ -24,7 +24,7 @@
 [s][f 5 14]Mas tentar forçá-lo provavelmente teria o[n]efeito oposto.[n][w][e]
 
 [msg MSG_008_0_0 [Yusuke]]
-[s][f 5 14]Para ser sincero, devo muito para o chefe[n]e [n][f 4 2].[n][w][e]
+[s][f 5 14]Para ser sincero, devo muito para o chefe[n]e  [f 4 2].[n][w][e]
 
 [msg MSG_009_0_0 [Yusuke]]
 [s][f 5 14]Não desejo que isso seja uma fonte de[n]discórdia entre eles.[n][w][e]

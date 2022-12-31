@@ -40,7 +40,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Na verdade, eu nunca deixei a região de[n]Kanto.[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Ann]]
-[s][bup 0 4 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bem, nossa viagem escolar vai estar no[n]exterior.[n]Você já conseguiu seu passaporte?[n][f 1 3 65535][w][e]
+[s][bup 0 4 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bem, nossa viagem escolar vai estar no[n]exterior. Você já conseguiu seu passaporte?[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Ryuji]]
 [s][bup 0 2 7 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não... preencher a papelada no escritório do[n]governo é uma dor na bunda.[n][f 1 3 65535][w][e]

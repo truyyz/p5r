@@ -54,7 +54,7 @@
 [s][bup 0 222 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 5 0]Aluno...? Você está ensinando agora ou algo[n]assim?[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Maruki]]
-[s][bup 0 216 300 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 35 5 1014]Não, não exatamente... de qualquer maneira,[n]isso é [n][f 4 1]-kun.[n][f 1 3 65535][w][e]
+[s][bup 0 216 300 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 35 5 1014]Não, não exatamente... de qualquer maneira,[n]isso é  [f 4 1]-kun.[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Shibusawa]]
 [s][bup 0 222 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 5 0]Prazer em conhecê-la. Eu sou Shibusawa.[n][f 1 3 65535][w][e]

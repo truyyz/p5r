@@ -10,7 +10,7 @@
 [s][f 5 14]Nah, eu estou muito sobre ele.[n][w][e]
 
 [msg MSG_002_0_0 [Ann]]
-[s][f 5 14]Vou continuar fazendo o meu melhor nessa[n]frente. Você fará o mesmo, você não vai,[n]não [n][f 4 2]?[n][w][e]
+[s][f 5 14]Vou continuar fazendo o meu melhor nessa[n]frente. Você fará o mesmo, você não vai,[n]não  [f 4 2]?[n][w][e]
 
 [msg MSG_003_0_0 [Ann]]
 [s][f 5 14]Ela finalmente está consciente de novo.[n]É mais sobre o que fazemos daqui em[n]diante...[n][w][e]
@@ -143,6 +143,6 @@
 [s]Você também pode convidar pessoas que[n]possam desfrutar do aquário para sair[n]com você lá.[n][w][e]
 
 [msg MSG_SPOT_OPEN_NAKANO]
-[s]Agora você tem informações sobre um novo[n]ponto de encontro: [n][clr 2]Distrito de construção de comércio de[n]Nakano [n][clr 27].[n][w][e]
+[s]Agora você tem informações sobre um novo[n]ponto de encontro: [n][clr 2]Distrito de construção de comércio de[n]Nakano  [clr 27].[n][w][e]
 [s]Você também pode convidar pessoas que[n]possam desfrutar desse local para sair[n]com você lá.[n][w][e]
 

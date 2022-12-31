@@ -9,7 +9,7 @@
 [s]Fique aqui [e]
 
 [msg MSG_D04_155_13_001_000 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Parece que o nosso trabalho aqui está[n]terminado.[n]Devemos voltar para a pirâmide![n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Parece que o nosso trabalho aqui está[n]terminado. Devemos voltar para a pirâmide![n][w][e]
 
 [sel SEL_D04_155_13_001_001 top]
 [s]Volte [e]

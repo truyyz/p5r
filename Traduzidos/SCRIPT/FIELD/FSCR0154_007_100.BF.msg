@@ -55,7 +55,7 @@
 [s][bup 0 4 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ele está completamente distorcido...[n][w][e]
 
 [msg e259_502_01_mes07 [Makoto]]
-[s][bup 0 6 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Parece que ele realmente acredita que o[n]dinheiro é mais importante que a vida[n]humana...[n]Que homem lamentável.[n][w][e]
+[s][bup 0 6 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Parece que ele realmente acredita que o[n]dinheiro é mais importante que a vida[n]humana... Que homem lamentável.[n][w][e]
 
 [msg e259_502_01_mes08_007 [Ryuji]]
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7172 65535 0]Sim... vamos terminar tão rápido. A porta se[n]abriu, para que devemos voltar e dar uma[n]olhada.[n][w][e]

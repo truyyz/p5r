@@ -21,7 +21,7 @@
 [s][f 5 14]Direita! É onde você entra.[n][w][e]
 
 [msg MSG_006_0_0 [Ryuji]]
-[s][f 5 14]Eu não estou fazendo isso sozinho, você[n]sabe![n]Vou precisar da sua ajuda, cara.[n][w][e]
+[s][f 5 14]Eu não estou fazendo isso sozinho, você[n]sabe! Vou precisar da sua ajuda, cara.[n][w][e]
 
 [msg MSG_007_0_0 [Ryuji]]
 [s][f 5 14]Ele me conhece, então eu não vou[n]conseguir chegar perto dele...[n][w][e]
@@ -144,6 +144,6 @@
 [s]Você também pode convidar pessoas que[n]possam desfrutar do aquário para sair[n]com você lá.[n][w][e]
 
 [msg MSG_SPOT_OPEN_NAKANO]
-[s]Agora você tem informações sobre um novo[n]ponto de encontro: [n][clr 2]Distrito de construção de comércio de[n]Nakano [n][clr 27].[n][w][e]
+[s]Agora você tem informações sobre um novo[n]ponto de encontro: [n][clr 2]Distrito de construção de comércio de[n]Nakano  [clr 27].[n][w][e]
 [s]Você também pode convidar pessoas que[n]possam desfrutar desse local para sair[n]com você lá.[n][w][e]
 

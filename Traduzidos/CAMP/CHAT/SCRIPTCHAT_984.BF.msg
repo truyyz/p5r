@@ -38,5 +38,5 @@
 [s][f 5 14][f 5 15]Eu acredito que farei o mesmo.[n]Felizmente, adquiri recentemente algumas[n]crostas de pão de alta qualidade.[n][w][e]
 
 [msg MSG_014_0_0 [Morgana]]
-[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 0 1032 65535 0]... desculpe, eu não consegui pegar por[n]você.[n]Eu sempre esqueço o quão curtos meus[n]braços são como um gato...[n][f 1 3 65535][w][e]
+[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 0 1032 65535 0]... desculpe, eu não consegui pegar por[n]você. Eu sempre esqueço o quão curtos meus[n]braços são como um gato...[n][f 1 3 65535][w][e]
 

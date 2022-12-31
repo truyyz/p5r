@@ -398,7 +398,7 @@
 [s]Se eu matar os intrusos, o sangue pode[n]entrar nas pinturas...[n][f 1 2 65535][e]
 
 [msg MSG_NML02_MNLG_FREE_02_1_5]
-[s]A arte de seus alunos é maravilhosa. Ele[n]Ele...[n]Verdadeiramente maravilhoso.[n][f 1 2 65535][e]
+[s]A arte de seus alunos é maravilhosa. Ele[n]Ele... Verdadeiramente maravilhoso.[n][f 1 2 65535][e]
 
 [msg MSG_NML02_MNLG_FREE_02_1_6]
 [s]"Segurançayyyyy!"...Estou brincando.[n]Tenho que praticar.[n][f 1 2 65535][e]

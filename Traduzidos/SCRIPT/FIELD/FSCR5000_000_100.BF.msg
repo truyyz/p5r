@@ -94,7 +94,7 @@
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos explicar mais tarde, Takamaki. Por[n]enquanto, temos que correr![n][w][e]
 
 [msg D01_03_D151_02_target10_ [Ryuji]]
-[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Não podemos nos dar ao luxo de voltar como[n]chegamos.[n]Basta encontrar um caminho a seguir![n][w][e]
+[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Não podemos nos dar ao luxo de voltar como[n]chegamos. Basta encontrar um caminho a seguir![n][w][e]
 
 [msg D01_03_D151_02_target10__2 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Em momentos como esses... você deve [n][clr 2]concentrado [clr 27]e procure um caminho.[n][w][e]

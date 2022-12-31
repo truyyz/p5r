@@ -47,7 +47,7 @@
 [s]Realizou um tiro para baixo [n][var 1]vezes.[n][e]
 
 [msg MSG_016]
-[s]Negociações iniciadas com sombras um total[n]de [n][var 1]vezes.[n][e]
+[s]Negociações iniciadas com sombras um total[n]de  [var 1]vezes.[n][e]
 
 [msg MSG_017]
 [s]Derrotou um total de [var 1][n]inimigos usando uma arma.[n][e]

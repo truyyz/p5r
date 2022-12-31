@@ -1,5 +1,5 @@
 [msg e259_310_mes01 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1156 65535 0]Podemos entrar em uma batalha se nos[n]aproximarmos.[n]Você está pronto?[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1156 65535 0]Podemos entrar em uma batalha se nos[n]aproximarmos. Você está pronto?[n][w][e]
 
 [sel e259_310_selA top]
 [s]Estou pronto para ir.[e]

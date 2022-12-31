@@ -38,7 +38,7 @@
 [s][vp 1 0 0 0 0 0]Eu acho que me perdi.[n][w][e]
 [s][vp 1 0 0 0 0 0]E quando eu caí, caí profundamente...[n][w][e]
 [s][vp 1 0 0 0 0 0]Eu não podia nem me sentir realmente feliz[n]quando ganhei o torneio...[n][w][e]
-[s][vp 1 0 0 0 0 0]Mas eu ainda não conseguia parar de tênis de[n]mesa...[n]Não sou nada sem ele...[n][w][e]
+[s][vp 1 0 0 0 0 0]Mas eu ainda não conseguia parar de tênis de[n]mesa... Não sou nada sem ele...[n][w][e]
 
 [msg MSG_QST_083_10 [Ann]]
 [s][bup 0 4 103 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 0 0 0]Eu acho que conheço o sentimento...[n][w][e]

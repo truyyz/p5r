@@ -28,7 +28,7 @@
 
 [msg MSG_002_2_2 [Lala Escargot]]
 [s][vp 8 2 0 0 65535 0]Você estaria atento a esses tempos? Tenho[n]certeza de que eles vão querer falar com[n]você também.[n][f 1 3 65535][w][e]
-[s][vp 8 2 0 0 65535 0]São todas ótimas pessoas, então não se[n]preocupe.[n]Tenho certeza de que será uma boa[n]experiência para você.[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0]São todas ótimas pessoas, então não se[n]preocupe. Tenho certeza de que será uma boa[n]experiência para você.[n][f 1 3 65535][w][e]
 
 [msg MSG_002_3_0 [Lala Escargot]]
 [s][vp 8 2 0 57733 65535 0]Bem, acho que vou fazer você começar[n]imediatamente, então.[n][f 1 3 65535][w][e]
@@ -77,7 +77,7 @@
 [msg MSG_038_0_0 [Woman in Evening Dress]]
 [s][vp 8 2 0 58623 65535 0]Oh, estou impressionado que Mama Lala[n]contratou um garoto tão bonito como você.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]Parece que você tem potencial.[n]Sim, há muito que eu poderia te ensinar.[n][f 1 3 65535][w][e]
-[s][vp 8 2 0 0 65535 0]Eu conheço tantos homens na minha linha de[n]trabalho.[n]Se você me perguntasse o que faz um bom[n]homem, eu teria que dizer...[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0]Eu conheço tantos homens na minha linha de[n]trabalho. Se você me perguntasse o que faz um bom[n]homem, eu teria que dizer...[n][f 1 3 65535][w][e]
 
 [msg MSG_039_0_0 [Morgana]]
 [s][bup 0 3 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Bem, suponho que seria melhor se você apenas[n]ouvir em silêncio...[n][f 1 3 65535][w][e]

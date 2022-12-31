@@ -16,7 +16,7 @@
 [s]Você quer fazer algo pelo seu companheiro de[n]equipe? Então deixe-me espremer um pouco de[n]saúde de você.[n][w][e]
 
 [msg TalkMsg_EN_CONTACT_03]
-[s]Se você quiser salvar seu companheiro de[n]equipe, deixe-me drenar sua resistência[n]jovem, querida...[n]Heehee![n][w][e]
+[s]Se você quiser salvar seu companheiro de[n]equipe, deixe-me drenar sua resistência[n]jovem, querida... Heehee![n][w][e]
 
 [sel TalkSel_EN_CONTACT top]
 [s]Tudo bem, você ganha.[e]
@@ -44,7 +44,7 @@
 [s]... isso deve ser suficiente. Lá, eu vou[n]deixar você ter seu companheiro de equipe[n]de volta, querido.[n][w][e]
 
 [msg TalkMsg_EN_AGREE_01]
-[s]... Acho que peguei você por tempo[n]suficiente.[n]Aqui, vou devolver seu companheiro de[n]equipe, querido.[n][w][e]
+[s]... Acho que peguei você por tempo[n]suficiente. Aqui, vou devolver seu companheiro de[n]equipe, querido.[n][w][e]
 
 [msg TalkMsg_EN_SLAY_00]
 [s]Deus, você não se importa com seu[n]companheiro de equipe? Se adequar a si[n]mesmo, criança. Não vou mostrar[n]misericórdia![n][w][e]

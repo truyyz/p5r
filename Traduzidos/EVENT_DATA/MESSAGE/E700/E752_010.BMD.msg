@@ -75,7 +75,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 28 22 0]Mas parece uma ideia adorável. Talvez no[n]próximo ano eu cresça um pouco de cacau![n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Haru]]
-[s][bup 0 7 0 6 0][f 4 10 65535 0 0][vp 8 0 0 29 22 0]Eu sei que é um pouco tarde para perguntar,[n]mas...[n]Estamos de volta agora, certo? Em nossa[n]realidade adequada?[n][f 1 3 65535][w][e]
+[s][bup 0 7 0 6 0][f 4 10 65535 0 0][vp 8 0 0 29 22 0]Eu sei que é um pouco tarde para perguntar,[n]mas... Estamos de volta agora, certo? Em nossa[n]realidade adequada?[n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Haru]]
 [s][bup 0 7 0 6 0][f 4 10 65535 0 0][vp 8 0 0 31 22 0]Oh, eu deveria ter mencionado...[n][f 1 3 65535][w][e]

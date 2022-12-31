@@ -615,7 +615,7 @@
 [s][vp 9 2 65535 39752 0 0]É uma pena que ele tenha esse registro[n]criminal...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_303_03_ [Woman with Camera]]
-[s][vp 9 2 65535 42754 0 0]Eu pensei que ele parecia um aluno muito[n]sério.[n]Eu acho que essa pontuação prova isso.[n][f 1 2 180][e]
+[s][vp 9 2 65535 42754 0 0]Eu pensei que ele parecia um aluno muito[n]sério. Eu acho que essa pontuação prova isso.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_303_04_ [Woman with Camera]]
 [s][vp 9 2 65535 43204 0 0]Não parece que ele está apenas trapaceando...[n][f 1 2 180][e]
@@ -648,7 +648,7 @@
 [s][vp 9 2 65535 42110 0 0]Ele é muito bom...[n]Na verdade, estou com ciúmes.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_306_02_ [Woman with Camera]]
-[s][vp 9 2 65535 42860 0 0]Ele está sempre obtendo as pontuações mais[n]altas.[n]É meio estranho...[n][f 1 2 180][e]
+[s][vp 9 2 65535 42860 0 0]Ele está sempre obtendo as pontuações mais[n]altas. É meio estranho...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_306_03_ [Woman with Camera]]
 [s][vp 9 2 65535 45054 0 0]Ele está no topo da classe, certo? Talvez eu[n]deva perguntar se ele vai me ensinar...[n][f 1 2 180][e]
@@ -711,7 +711,7 @@
 [s][vp 9 2 65535 37602 0 0]Eles apenas perdem a consciência de repente.[n]Não há como evitar isso...[n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_19 [Woman with Camera]]
-[s][vp 9 2 65535 39702 0 0]Há tantos incidentes estranhos acontecendo[n]ultimamente.[n]Vamos nos apressar em casa...[n][f 1 2 180][e]
+[s][vp 9 2 65535 39702 0 0]Há tantos incidentes estranhos acontecendo[n]ultimamente. Vamos nos apressar em casa...[n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_20 [Woman with Camera]]
 [s][vp 9 2 65535 40602 0 0]Gostaria de saber o que vai acontecer a[n]seguir...[n]Tudo isso é muito irritante...[n][f 1 2 180][e]
@@ -1845,7 +1845,7 @@
 [s][vp 9 2 65535 38351 0 0]Essas falhas psicóticas foram todas causadas[n]por ladrões fantasmas, certo? Alguém faz[n]algo...[n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_397 [Woman with Camera]]
-[s][vp 9 2 65535 38457 0 0]Alguém precisa fazer algo sobre os ladrões[n]Phantom![n]A polícia é incompetente![n][f 1 2 180][e]
+[s][vp 9 2 65535 38457 0 0]Alguém precisa fazer algo sobre os ladrões[n]Phantom! A polícia é incompetente![n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_398 [Woman with Camera]]
 [s][vp 9 2 65535 38507 0 0]Ninguém vai fazer nada sobre tudo isso!?[n][f 1 2 180][e]
@@ -2004,7 +2004,7 @@
 [s][vp 9 2 65535 37504 0 0]O representante Shido é o único político sem[n]rumores ruins que o cercam.[n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_450 [Woman with Camera]]
-[s][vp 9 2 65535 37550 0 0]Você ouviu esse discurso daquele político,[n]Shido?[n]Agora, esse homem é incrível.[n][f 1 2 180][e]
+[s][vp 9 2 65535 37550 0 0]Você ouviu esse discurso daquele político,[n]Shido? Agora, esse homem é incrível.[n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_451 [Woman with Camera]]
 [s][vp 9 2 65535 37653 0 0]Vai ficar bem se deixarmos tudo para[n]Shido-san![n][f 1 2 180][e]
@@ -2448,7 +2448,7 @@
 [s][vp 9 2 65535 37502 0 0]Essa foi uma execução pública...[n]Foi horrível assistir...[n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_Lim_50 [Woman with Camera]]
-[s][vp 9 2 65535 37551 0 0]Você viu a conferência de imprensa do Sr.[n]Okumura?[n]Isso foi louco...[n][f 1 2 180][e]
+[s][vp 9 2 65535 37551 0 0]Você viu a conferência de imprensa do Sr.[n]Okumura? Isso foi louco...[n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_Lim_51 [Woman with Camera]]
 [s][vp 9 2 65535 37652 0 0]A conferência de imprensa do Sr. Okumura foi[n]louca...[n][f 1 2 180][e]

@@ -11,7 +11,7 @@
 [s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]Duvido que ela respondesse...[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Makoto]]
-[s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Alibaba, sabemos que você está lá. Não[n]importa se é através de mensagens de[n]bate-papo.[n]Apenas nos responda.[n][f 1 3 65535][w][e]
+[s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Alibaba, sabemos que você está lá. Não[n]importa se é através de mensagens de[n]bate-papo. Apenas nos responda.[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Alibaba]]
 [s][vp 8 0 0 0 65535 0][f 5 14]Você deveria ter me dito que iria vir aqui.[n][f 1 3 65535][w][e]

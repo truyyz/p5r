@@ -11,7 +11,7 @@
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 7048 65535 0]Ahhh, nada supera a sensação da terra sob[n]seus pés! Eu fico muito nervoso quando não[n]estou aterrado.[n][w][e]
 
 [msg SAFETY_MES_RYUJI_04_01 [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 7074 65535 0]Ei, o que você está fazendo neste fim de[n]semana?[n]Devemos sair![n][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 7074 65535 0]Ei, o que você está fazendo neste fim de[n]semana? Devemos sair![n][w][e]
 
 [msg SAFETY_MES_RYUJI_05_01 [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 7024 65535 0]Estamos em um rolo agora! Vamos continuar[n]mudando esses corações![n][w][e]

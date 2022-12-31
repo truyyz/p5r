@@ -1,5 +1,5 @@
 [msg MSG_LAST_GREETING_PAPER_ [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1168 65535 0]Iwai tem que ser o único a fazer esses[n]panfletos.[n]A caligrafia dele é mais fofa do que eu[n]esperava.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1168 65535 0]Iwai tem que ser o único a fazer esses[n]panfletos. A caligrafia dele é mais fofa do que eu[n]esperava.[n][w][e]
 
 [msg MSG_LAST_GREETING_CUPSUL [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1170 65535 0]Provavelmente não vê muitas máquinas de[n]cápsula militar em sua cidade natal, hein?[n][w][e]

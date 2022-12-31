@@ -30,7 +30,7 @@
 
 [msg MSG_007_0_0 [Iwai]]
 [s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Lembro-me dele jogando com algo assim... Eu[n]acho que era um pato, no entanto.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Qualquer maneira. Você deve se apegar a[n]isso.[n]Para propósitos futuros e tudo.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Qualquer maneira. Você deve se apegar a[n]isso. Para propósitos futuros e tudo.[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Iwai]]
 [s][vp 8 2 0 13053 65535 0]Veja você, garoto.[n][f 1 3 65535][w][e]

@@ -1,5 +1,5 @@
 [msg MSG_Fish_StartTalk_1ST [Fishing Pond Attendant]]
-[s][vp 8 2 1 58591 65535 0]Bem-vindo... você é um estudante do ensino[n]médio?[n]Você tem um bom gosto em hobbies.[n][w][e]
+[s][vp 8 2 1 58591 65535 0]Bem-vindo... você é um estudante do ensino[n]médio? Você tem um bom gosto em hobbies.[n][w][e]
 
 [msg MSG_Fish_StartTalk [Fishing Pond Attendant]]
 [s][vp 8 2 1 58591 65535 0]Bem-vindo. Obrigado pelo seu patrocínio[n]contínuo.[n][w][e]

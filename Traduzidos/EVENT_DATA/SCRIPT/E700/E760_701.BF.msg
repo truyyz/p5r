@@ -255,7 +255,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Meh, não se preocupe comigo. Vou sair do seu[n]cabelo.[n][f 1 3 65535][w][e]
 
 [msg MSG_NextTimeOK_Curry_Fut [Futaba]]
-[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Você sabe que eu sou exigente sobre Curry,[n]certo?[n]É melhor você saber suas coisas![n][f 1 3 65535][w][e]
+[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Você sabe que eu sou exigente sobre Curry,[n]certo? É melhor você saber suas coisas![n][f 1 3 65535][w][e]
 
 [msg MSG_NextTimeOK_Coffee_Fu [Futaba]]
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Tenho que amar o café. Só o cheiro é[n]suficiente para chutar os Sleepies na bunda![n][f 1 3 65535][w][e]

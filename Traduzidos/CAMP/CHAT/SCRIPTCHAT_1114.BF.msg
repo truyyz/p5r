@@ -1,5 +1,5 @@
 [msg MSG_000_0_0 [Takemi]]
-[s][f 5 14]Você já teve algum efeito colateral desde[n]então?[n]Desmaiado?[n][w][e]
+[s][f 5 14]Você já teve algum efeito colateral desde[n]então? Desmaiado?[n][w][e]
 
 [msg MSG_001_0_0 [Takemi]]
 [s][f 5 14]Eu gostaria de dar uma olhada em você,[n]apenas por precaução...[n][w][e]

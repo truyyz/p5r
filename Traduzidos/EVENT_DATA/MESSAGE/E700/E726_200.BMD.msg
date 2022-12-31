@@ -50,7 +50,7 @@
 [msg MSG_012_0_0 [Akechi]]
 [s][bup 0 9 10 65535 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Maruki pode afirmar estar distorcendo a[n]realidade, a fim de conceder os desejos da[n]sociedade em geral...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]No entanto, isso ainda nada mais é do que o[n]caminho mais conveniente para alcançar seus[n]desejos... isso não é diferente de Shido.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]O que vale uma vida em uma realidade que foi[n]preparada apenas para satisfazer outra[n]pessoa?[n]Eu digo nenhum.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]O que vale uma vida em uma realidade que foi[n]preparada apenas para satisfazer outra[n]pessoa? Eu digo nenhum.[n][f 1 3 65535][w][e]
 
 [sel SEL_013_0_0 top]
 [s]Você está tão certo.[e]

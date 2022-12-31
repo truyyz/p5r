@@ -85,10 +85,10 @@
 [msg MSG_023_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 35 65535 0]Eu acho que é isso, hein?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 36 65535 0][f 4 2] Estava tentando contar a todos nós algo[n]importante, e aposto que ele provavelmente[n]ainda está trabalhando em algum lugar.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][bup 0 2 2 65535 0][vp 8 0 0 37 65535 0][f 4 24 0 3 6 37 5 100]Não é de jeito nenhum eu vou resgatar com[n]ele só para que eu possa continuar correndo[n]de...[n]o que quer que seja.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][bup 0 2 2 65535 0][vp 8 0 0 37 65535 0][f 4 24 0 3 6 37 5 100]Não é de jeito nenhum eu vou resgatar com[n]ele só para que eu possa continuar correndo[n]de... o que quer que seja.[n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [Yusuke]]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 38 65535 0]Quando tive aquela experiência estranha,[n]todos vocês mencionaram, eu vi [n][f 4 2][n]E o resto de nós juntos.[n][f 1 3 65535][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 38 65535 0]Quando tive aquela experiência estranha,[n]todos vocês mencionaram, eu vi [n][f 4 2] E o resto de nós juntos.[n][f 1 3 65535][w][e]
 [s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 39 65535 0]Quero acreditar que a conexão que[n]compartilhamos aqui é genuína.[n][f 1 3 65535][w][e]
 
 [msg MSG_025_0_0 [Ann]]

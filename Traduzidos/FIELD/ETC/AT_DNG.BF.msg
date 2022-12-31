@@ -344,7 +344,7 @@
 [s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7103 65535 0]Mkay, tudo o que temos agora é roubar o[n]tesouro que aparece, sim? Finalmente chegou[n]a hora.[n][w][e]
 
 [msg D01_04_e166_015_mes02 [Ann]]
-[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Mas precisamos enviar o cartão de visita[n]primeiro.[n]Quando devemos fazer isso?[n][w][e]
+[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Mas precisamos enviar o cartão de visita[n]primeiro. Quando devemos fazer isso?[n][w][e]
 
 [msg D01_04_e166_015_mes03 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Apenas segure. Vamos recuar por enquanto,[n]então podemos falar mais sobre essas coisas[n]no esconderijo.[n][w][e]
@@ -405,7 +405,7 @@
 [s][bup 0 8 100 0 0][f 4 10 65535 0 0]Parece que você realmente tem um [n][f 2 5 3 9999 0]![var 1], para ser exato.[n]Vamos abrir este bebê![n][w][e]
 
 [msg RARE_TBOX_MSG_NO_KEY_1ST [Morgana]]
-[s][bup 0 3 11 0 0][f 4 10 65535 0 0]Para abrir esses baús de tesouro, você[n]precisa de uma ferramenta especial chamada[n]de [n][f 2 5 3 9999 0].[n][w][e]
+[s][bup 0 3 11 0 0][f 4 10 65535 0 0]Para abrir esses baús de tesouro, você[n]precisa de uma ferramenta especial chamada[n]de  [f 2 5 3 9999 0].[n][w][e]
 
 [msg RARE_TBOX_MSG_NO_KEY_1ST_2 [Futaba]]
 [s][bup 0 8 104 0 0][f 4 10 65535 0 0]Um ladrão que não pode fazer um [f 2 5 3 9999 0][n]sozinhos? Isso é surpreendente.[n][w][e]
@@ -460,7 +460,7 @@
 [s][bup 0 3 8 0 0][f 4 10 65535 0 0][vp 8 2 0 1171 65535 0]Você tem a [f 2 5 3 9999 0]Com você, certo? Vamos aceitar isso![n][w][e]
 
 [msg RARE_TBOX_MSG_AQKEYPICK__2 [Futaba]]
-[s][bup 0 8 104 0 0][f 4 10 65535 0 0][vp 8 2 0 9040 65535 0]Essa é a lendária ferramenta de infiltração,[n]o [n][f 2 5 3 9999 0]![n][w][e]
+[s][bup 0 8 104 0 0][f 4 10 65535 0 0][vp 8 2 0 9040 65535 0]Essa é a lendária ferramenta de infiltração,[n]o  [f 2 5 3 9999 0]![n][w][e]
 [s][bup 0 8 101 0 0][f 4 10 65535 0 0]Quero usá-lo para abrir isso!?[n][w][e]
 
 [msg WEAPON_RYUJI_MSG [Ryuji]]

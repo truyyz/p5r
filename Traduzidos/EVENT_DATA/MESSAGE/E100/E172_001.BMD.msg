@@ -44,7 +44,7 @@
 [s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Oh, hum, sim... Perdoe-me por exibir uma[n]visão tão insolente na frente de uma[n]senhora...[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Ann]]
-[s][bup 0 4 100 0 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Você estava completamente fora de caráter[n]também.[n]O que foi isso?[n][f 1 3 65535][w][e]
+[s][bup 0 4 100 0 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Você estava completamente fora de caráter[n]também. O que foi isso?[n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Morgana]]
 [s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Eu também não conseguia parar... pensar que[n]seria atraído por desejos humanos tanto...[n][f 1 3 65535][w][e]

@@ -80,7 +80,7 @@
 [s]Grrr! Seu covarde![n][w][e]
 
 [msg TalkMsg_EN_FAKE_CRIED00]
-[s]Ei! Porque você chora!? Ugh, eu te perdoo[n]por [n][f 2 5 3 9999 3].[n][w][e]
+[s]Ei! Porque você chora!? Ugh, eu te perdoo[n]por  [f 2 5 3 9999 3].[n][w][e]
 
 [msg TalkMsg_EN_FAKE_CRIED01]
 [s]HRM!? O que está acontecendo!? Hrgh, eu[n]deixo você ir para [n][var 0]Yen.[n][w][e]

@@ -23,7 +23,7 @@
 
 [msg MSG_001_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Huh? O que há com a enorme multidão por lá?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ooh, talvez eles estejam filmando alguma[n]coisa.[n]Isso pode significar que há uma[n]celebridade...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ooh, talvez eles estejam filmando alguma[n]coisa. Isso pode significar que há uma[n]celebridade...[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Ryuji]]
 [s][bup 0 2 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 7040 65535 0]Ah Merda! Ela não é uma atriz muito popular?[n][f 1 3 65535][w][e]

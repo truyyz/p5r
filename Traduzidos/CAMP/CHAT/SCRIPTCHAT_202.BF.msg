@@ -2,7 +2,7 @@
 [s][f 5 14]Eu verifiquei a loja de acessórios no meu[n]caminho para casa.[n][w][e]
 [s][f 5 14]Adivinha? Entrei na direita enquanto o[n]reclamante estava se desculpando![n][w][e]
 [s][f 5 14]Parece que os lojas vão ficar bem.[n][w][e]
-[s][f 5 14]Estou feliz por ter um ladrão fantasma,[n]cara.[n]Significa que posso proteger as pessoas[n]ao meu redor, sabe?[n][w][e]
+[s][f 5 14]Estou feliz por ter um ladrão fantasma,[n]cara. Significa que posso proteger as pessoas[n]ao meu redor, sabe?[n][w][e]
 
 [sel SEL_001_0_0 top]
 [s][f 5 14]Caso encerrado.[e]

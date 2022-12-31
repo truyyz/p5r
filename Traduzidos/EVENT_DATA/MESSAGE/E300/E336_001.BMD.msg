@@ -43,7 +43,7 @@
 [s][bup 0 3 4 0 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]O-of-curso não...[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Haru]]
-[s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Eu estava mentindo para mim também, mas[n]quando formei um contrato com minha[n]persona...[n]Eu entendi tudo.[n][f 1 3 65535][w][e]
+[s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Eu estava mentindo para mim também, mas[n]quando formei um contrato com minha[n]persona... Eu entendi tudo.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]Fazendo isso porque meu pai está fazendo[n]algo horrível... nada passava de uma razão[n]superficial.[n][f 1 3 65535][w][e]
 
 [msg MSG_012_5_0 [Haru]]
@@ -98,7 +98,7 @@
 [s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 36 65535 0]Isso foi refrescantemente honesto.[n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 37 65535 0]Você deveria apenas dizer isso desde o[n]início![n]Nossa![n][f 1 3 65535][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 37 65535 0]Você deveria apenas dizer isso desde o[n]início! Nossa![n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 38 65535 0]Se você ficar comigo, não há como dizer que[n]tipo de problema surgirá![n][f 1 3 65535][w][e]

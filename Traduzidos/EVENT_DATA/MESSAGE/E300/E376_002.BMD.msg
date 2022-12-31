@@ -10,7 +10,7 @@
 [msg MSG_002_0_0 [Sae]]
 [s][bup 0 105 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Embora sua atitude tenha mudado de repente[n]nessa época.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Akechi-kun ficou quieto sobre os detalhes[n]mais importantes, e minha própria irmã pode[n]ser um ladrão fantasma...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Se tudo isso é verdade, eu estava fora do[n]ciclo o tempo todo que liderei a[n]investigação.[n]Que piada...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Se tudo isso é verdade, eu estava fora do[n]ciclo o tempo todo que liderei a[n]investigação. Que piada...[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Sae]]
 [s][bup 0 105 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Então você ficou convencido da existência de[n]outra pessoa nos dois casos de desligamento[n]mental.[n][f 1 3 65535][w][e]

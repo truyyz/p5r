@@ -187,7 +187,7 @@
 
 [msg MSG_045_5_0 [Sumire]]
 [s][bup 0 10 700 0 0][f 4 10 65535 0 0][vp 8 0 0 58 65535 0]Sinto muito por repetir isso até a morte,[n]mas eu realmente preciso dizer de novo...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 59 65535 0]Estou muito agradecido por ter conhecido[n]você, [n][f 4 2]-senpai.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 59 65535 0]Estou muito agradecido por ter conhecido[n]você,  [f 4 2]-senpai.[n][f 1 3 65535][w][e]
 
 [msg MSG_045_7_0 [Sumire]]
 [s][bup 0 10 700 0 0][f 4 10 65535 0 0][vp 8 0 0 60 65535 0]Eu aprendi todo tipo de coisa com o meu[n]tempo com você...[n][f 1 3 65535][w][e]

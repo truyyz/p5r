@@ -34,7 +34,7 @@
 [s][bup 0 216 300 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Na verdade, não. Eu sou apenas um[n]conselheiro.[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Sojiro]]
-[s][bup 0 103 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bem, em qualquer caso, peço desculpas pelo[n]gato.[n]Normalmente ele fica no andar de cima.[n][f 1 3 65535][w][e]
+[s][bup 0 103 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bem, em qualquer caso, peço desculpas pelo[n]gato. Normalmente ele fica no andar de cima.[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Maruki]]
 [s][bup 0 216 301 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Está bem para mim, eu amo animais. Eles não[n]parecem compartilhar o sentimento, haha.[n][f 1 3 65535][w][e]

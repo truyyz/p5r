@@ -20,5 +20,5 @@
 
 [msg MSG_006_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Tudo bem, a cognição do CEO deve ser[n]alterada. Acho que podemos passar pela[n]porta agora.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]Entraremos de uma vez quando você estiver[n]pronto.[n]Não temos tempo para dar![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Entraremos de uma vez quando você estiver[n]pronto. Não temos tempo para dar![n][f 1 3 65535][w][e]
 

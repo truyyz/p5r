@@ -8,7 +8,7 @@
 [s][f 5 14]Na verdade, isso parece bastante parecido[n]com o que Madarame passou.[n][w][e]
 
 [msg MSG_003_0_0 [Ann]]
-[s][f 5 14]E Madarame ainda mudou de coração no[n]final.[n]Não se preocupe, Haru.[n][w][e]
+[s][f 5 14]E Madarame ainda mudou de coração no[n]final. Não se preocupe, Haru.[n][w][e]
 
 [msg MSG_004_0_0 [Haru]]
 [s][f 5 14]É assim mesmo...?[n][w][e]

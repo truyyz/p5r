@@ -48,7 +48,7 @@
 [s]... Estou muito feliz! Ok, vou deixar seu[n]amigo Hee-ir![n][w][e]
 
 [msg TalkMsg_EN_SLAY_00]
-[s]Huh? Você está falando sério?[n]Então estou enviando seu amigo para o[n]inferno![n]Tanta coisa para lealdade-ho![n][w][e]
+[s]Huh? Você está falando sério?[n]Então estou enviando seu amigo para o[n]inferno! Tanta coisa para lealdade-ho![n][w][e]
 
 [msg TalkMsg_EN_SLAY_01]
 [s]Real-hee? Uh, tudo bem! Não é o meu problema[n]se seu amigo levar esse pessoal[n]pessoalmente![n][w][e]
@@ -80,7 +80,7 @@
 [s]De onde vêm os ataques?[n]Toda essa atenção! É tão difícil ser uma[n]celebridade-ho![n][w][e]
 
 [msg TalkMsg_EN_FAKE_CRIED00]
-[s]H-hee-ho! Não é justo, você tem uma mulher[n]fofa ao seu lado! Tudo bem, vou me[n]contentar com [n][f 2 5 3 9999 3], ho.[n][w][e]
+[s]H-hee-ho! Não é justo, você tem uma mulher[n]fofa ao seu lado! Tudo bem, vou me[n]contentar com  [f 2 5 3 9999 3], ho.[n][w][e]
 
 [msg TalkMsg_EN_FAKE_CRIED01]
 [s]Hee-hooo? Eu fiz uma garota chorar? Vou me[n]contentar [n][var 0]Yen, ele se acalma, ho.[n][w][e]

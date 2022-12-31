@@ -147,7 +147,7 @@
 [s][bup 0 8 4 4 0][f 4 10 65535 0 0][vp 8 0 0 48 65535 0]Ele cresceu![n][f 1 3 65535][w][e]
 
 [msg MSG_047_0_0 [Morgana]]
-[s][bup 0 3 600 0 0][f 4 10 65535 0 0][vp 8 0 0 49 65535 0]Eu sabia que vocês tinham encontrado sua[n]testemunha, então eu estava apenas[n]esperando por [n][f 4 2] para receber alta.[n][f 1 3 65535][w][e]
+[s][bup 0 3 600 0 0][f 4 10 65535 0 0][vp 8 0 0 49 65535 0]Eu sabia que vocês tinham encontrado sua[n]testemunha, então eu estava apenas[n]esperando por  [f 4 2] para receber alta.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 50 65535 0]Bem feito nisso, sério. Você o tirou mesmo[n]sem a minha ajuda.[n][f 1 3 65535][w][e]
 
 [msg MSG_048_0_0 [Makoto]]
@@ -256,7 +256,7 @@
 
 [msg MSG_086_0_0 [Morgana]]
 [s][bup 0 3 600 0 0][f 4 10 65535 0 0][vp 8 0 0 101 65535 0]Ahem...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 102 65535 0]Eu sei que isso é repentino, mas decidi ir[n]com [n][f 4 2].[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 102 65535 0]Eu sei que isso é repentino, mas decidi ir[n]com  [f 4 2].[n][f 1 3 65535][w][e]
 
 [msg MSG_087_0_0 [Morgana]]
 [s][bup 0 3 600 0 0][f 4 10 65535 0 0][vp 8 0 0 103 65535 0]Ele é muito especial, afinal.[n][f 1 3 65535][w][e]
@@ -324,7 +324,7 @@
 [s][bup 0 103 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 125 65535 0]Sheesh, que rapaz assertivo.[n]Eu me pergunto de onde ele tirou isso.[n][f 1 3 65535][w][e]
 
 [msg MSG_108_0_0 [Yusuke]]
-[s][bup 0 5 0 4 0][f 4 10 65535 0 0][vp 8 0 0 126 65535 0]Se Morgana se tornar humano, ele pode acabar[n]como [n][f 4 2].[n][f 1 3 65535][w][e]
+[s][bup 0 5 0 4 0][f 4 10 65535 0 0][vp 8 0 0 126 65535 0]Se Morgana se tornar humano, ele pode acabar[n]como  [f 4 2].[n][f 1 3 65535][w][e]
 
 [msg MSG_109_0_0 [Haru]]
 [s][bup 0 7 4 4 0][f 4 10 65535 0 0][vp 8 0 0 127 65535 0]Oh, eu posso ver isso.[n][f 1 3 65535][w][e]
@@ -343,7 +343,7 @@
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 3 301 1][vp 8 0 0 132 65535 0]O que é que foi isso!?[n][f 1 3 65535][w][e]
 
 [msg MSG_114_0_0 [Morgana]]
-[s][bup 0 3 600 0 0][f 4 10 65535 0 0][vp 8 0 0 133 65535 0]São coisas assim. Você fica com raiva tão[n]rápido.[n]Ah, e você é vulgar.[n][f 1 3 65535][w][e]
+[s][bup 0 3 600 0 0][f 4 10 65535 0 0][vp 8 0 0 133 65535 0]São coisas assim. Você fica com raiva tão[n]rápido. Ah, e você é vulgar.[n][f 1 3 65535][w][e]
 
 [msg MSG_115_0_0 [Ryuji]]
 [s][bup 0 2 2 4 0][f 4 10 65535 0 0][vp 8 0 0 134 65535 0]Você é pouco- por que você não vai[n]desaparecer de novo!?[n][f 1 3 65535][w][e]

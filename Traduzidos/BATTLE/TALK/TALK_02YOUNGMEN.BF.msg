@@ -284,7 +284,7 @@
 [s]Bem, se você está convencido, deve se[n]preparar para viver a vida como um[n]condenado...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_05_R_13]
-[s]Eu-eu entendi! Se eu te ofendi, peço[n]desculpas![n]Deixe-me provar isso...[n][w][e]
+[s]Eu-eu entendi! Se eu te ofendi, peço[n]desculpas! Deixe-me provar isso...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_05_R_14]
 [s]D-Don Não seja tão impulsivo! Você não pode[n]fazer coisas assim como um membro destacado[n]da sociedade![n][w][e]
@@ -386,7 +386,7 @@
 [s]HMHM, você se distraiu de terminar? Acho que[n]podemos falar, então. Calmamente...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_07_R_9]
-[s]Eu também não estava realmente tentando...[n]hmhm.[n]É como em um mangá infantil. Esta não é[n]minha forma final...[n][w][e]
+[s]Eu também não estava realmente tentando...[n]hmhm. É como em um mangá infantil. Esta não é[n]minha forma final...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_07_R_10]
 [s]É assim mesmo? Então, eu deveria aprender a[n]sair bem o suficiente em paz? Isso[n]significa que eu também perdi por ser[n]humano?[n][w][e]
@@ -533,7 +533,7 @@
 [s]Eu gosto de homens.[e]
 
 [msg TalkMsg_GUY_CHAT_SQ_02_R]
-[s]Se você gosta de uma mulher que vê[n]trabalhando em uma loja ou restaurante,[n]desista.[n]É uma ideia terrível, eu prometo.[n][w][e]
+[s]Se você gosta de uma mulher que vê[n]trabalhando em uma loja ou restaurante,[n]desista. É uma ideia terrível, eu prometo.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_02_R_2]
 [s]Eu entendo. As mulheres mais velhas tendem a[n]ser mais generosas e maduras, não é?[n][w][e]
@@ -722,7 +722,7 @@
 [s]Você está apenas matando tempo?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_05_R_7]
-[s]Então você está aqui buscando propósito,[n]então?[n]Parece divertido, na verdade...[n][w][e]
+[s]Então você está aqui buscando propósito,[n]então? Parece divertido, na verdade...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_05_R_8]
 [s]Não minta para mim! Ninguém vem aqui sem um[n]objetivo![n][w][e]
@@ -1443,7 +1443,7 @@
 [s]Eu não quero me separar disso, mas aqui...[n]Pegue isso [f 2 5 3 9999 1].[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_PAYFOR__4]
-[s]Este é o meu favorito também. Aqui, tenha[n]isso [n][f 2 5 3 9999 1].[n][w][e]
+[s]Este é o meu favorito também. Aqui, tenha[n]isso  [f 2 5 3 9999 1].[n][w][e]
 
 [sel TalkSel_GUY_NEGO_PAYFOR top]
 [s]Eu vou levar.[e]
@@ -1542,7 +1542,7 @@
 
 [msg TalkMsg_RESULT_BRAINWASH]
 [s]Eu vejo. Através desta ponte...[n][w][e]
-[s]Essa felicidade profunda aguarda, se apenas[n]nós...[n]Oh, eu apenas me lembrei de algo![n][w][e]
+[s]Essa felicidade profunda aguarda, se apenas[n]nós... Oh, eu apenas me lembrei de algo![n][w][e]
 
 [msg TalkMsg_RESULT_BRAINWASH_2]
 [s]Eu vejo. Através desta ponte...[n][w][e]
@@ -1961,7 +1961,7 @@
 [s]Parece que você e eu somos semelhantes... HM?[n]Agora me lembro de algo![n][w][e]
 
 [msg TalkMsg_RESULT_SQ_PERSON_2]
-[s]Huh, você e eu pensamos exatamente iguais...[n]oh![n]Agora me lembro de algo![n][w][e]
+[s]Huh, você e eu pensamos exatamente iguais...[n]oh! Agora me lembro de algo![n][w][e]
 
 [msg TalkMsg_RESULT_SQ_PAYFOR]
 [s]Eu entendo você, mas... ainda tenho[n]reservas. Eu vou te dar isso.[n]Até a próxima.[n][w][e]
@@ -2034,7 +2034,7 @@
 [s]Ah, você pode ver tudo? Você é...[n]onisciente, talvez?[n][w][e]
 
 [msg TalkMsg_RESULT_GET_PERSO_11]
-[s]Eu realmente aprecio você poupar minha[n]vida...[n]HM? Acabei de me lembrar de algo![n][w][e]
+[s]Eu realmente aprecio você poupar minha[n]vida... HM? Acabei de me lembrar de algo![n][w][e]
 
 [msg TalkMsg_CHARM_TECH_ITEM]
 [s]Isso é horrível. Existem pessoas[n]verdadeiramente que foram vítimas de um[n]ardil tão trágico?[n][w][e]

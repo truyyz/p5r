@@ -132,7 +132,7 @@
 
 [msg MSG_031_0_0 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O que quero dizer é que se preocupar com[n]algo é o primeiro passo para mudá-lo.[n][f 1 3 65535][w][e]
-[s][bup 0 6 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Chegar à escola como esse é um grande[n]avanço, Futaba. Você está indo muito bem...[n]certo, [n][f 4 2]-kun?[n][f 1 3 65535][w][e]
+[s][bup 0 6 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Chegar à escola como esse é um grande[n]avanço, Futaba. Você está indo muito bem...[n]certo,  [f 4 2]-kun?[n][f 1 3 65535][w][e]
 
 [msg MSG_032_0_0 [Futaba]]
 [s][bup 0 8 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 9166 65535 0]Espere, então você está feliz comigo, apesar[n]de ter ficado totalmente deprimido?[n][f 1 3 65535][w][e]

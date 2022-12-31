@@ -1,26 +1,26 @@
 [msg MSG_UFO_Start_Contents01 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1168 65535 0]Um jogo de guindaste, hein? O prêmio agora[n]é...[n]Jack Frost?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1168 65535 0]Um jogo de guindaste, hein? O prêmio agora[n]é... Jack Frost?[n][w][e]
 
 [msg MSG_UFO_Start_Contents02 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1167 65535 0]Um jogo de guindaste, hein? O prêmio agora[n]é...[n]Big Bang Burger-kun?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1167 65535 0]Um jogo de guindaste, hein? O prêmio agora[n]é... Big Bang Burger-kun?[n][w][e]
 
 [msg MSG_UFO_Start_Contents03 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1168 65535 0]Um jogo de guindaste, hein? O prêmio agora[n]é...[n]Quer-wanna-kun?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1168 65535 0]Um jogo de guindaste, hein? O prêmio agora[n]é... Quer-wanna-kun?[n][w][e]
 
 [msg MSG_UFO_Start_Contents04 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1167 65535 0]Um jogo de guindaste, hein? O prêmio agora[n]é...[n]Lexy?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1167 65535 0]Um jogo de guindaste, hein? O prêmio agora[n]é... Lexy?[n][w][e]
 
 [msg MSG_UFO_Start_Contents05 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1168 65535 0]Um jogo de guindaste, hein? O prêmio agora[n]é...[n]Um homem de ovelha perdido?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1168 65535 0]Um jogo de guindaste, hein? O prêmio agora[n]é... Um homem de ovelha perdido?[n][w][e]
 
 [msg MSG_UFO_Start_Contents06 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1168 65535 0]Um jogo de guindaste, hein? O prêmio agora[n]é...[n]Black Frost?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1168 65535 0]Um jogo de guindaste, hein? O prêmio agora[n]é... Black Frost?[n][w][e]
 
 [msg MSG_UFO_Start_Contents07 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1168 65535 0]Um jogo de guindaste, hein? O prêmio agora[n]é...[n]Buchimaru-kun?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1168 65535 0]Um jogo de guindaste, hein? O prêmio agora[n]é... Buchimaru-kun?[n][w][e]
 
 [msg MSG_UFO_Start_Contents08 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1168 65535 0]Um jogo de guindaste, hein? O prêmio agora[n]é...[n]Jagao?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1168 65535 0]Um jogo de guindaste, hein? O prêmio agora[n]é... Jagao?[n][w][e]
 
 [msg MSG_UFO_Start [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0]São 300 ienes por peça. Você queria tentar?[n][w][e]

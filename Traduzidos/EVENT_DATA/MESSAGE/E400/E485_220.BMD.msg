@@ -129,7 +129,7 @@
 [s][bup 0 10 3 65535 0][vp 8 0 0 49 0 0]......[n][f 1 3 65535][w][e]
 
 [msg MSG_037_5_0 [Kasumi]]
-[s][bup 0 10 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 50 13 0]Hum... me corrija se eu estiver errado,[n]mas...[n]Você ainda não terminou aqui, não é?[n][f 1 3 65535][w][e]
+[s][bup 0 10 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 50 13 0]Hum... me corrija se eu estiver errado,[n]mas... Você ainda não terminou aqui, não é?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 51 13 0]Então talvez eu deva lhe dar uma mão.[n][f 1 3 65535][w][e]
 
 [msg MSG_038_0_0 [Morgana]]

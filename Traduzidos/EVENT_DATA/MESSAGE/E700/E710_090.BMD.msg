@@ -9,7 +9,7 @@
 [s][bup 0 113 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Estou conversando com um advogado agora.[n]Vamos receber reembolsos e cuidados[n]ambulatoriais para todos eles.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vou devolver todo o dinheiro que ganhei com[n]a venda de pedras sagradas também.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]É o mínimo que posso fazer para expiar a[n]ignorância que mostrei naquela época.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]É por isso que... eu quero que você aceite[n]isso, [n][f 4 1]-san.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]É por isso que... eu quero que você aceite[n]isso,  [f 4 1]-san.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Pense nisso não apenas como um pedido de[n]desculpas, mas como um sinal de gratidão,[n]por me ajudar a ver a verdade.[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Yokoda]]

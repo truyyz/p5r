@@ -65,7 +65,7 @@
 [s]Bem, então, vejo você mais tarde. Tchau,[n]senhor![n][w][e]
 
 [msg TalkMsg_EN_FLEE_01]
-[s]Vamos jogar novamente na próxima vez que nos[n]encontrarmos![n]Até então... adeus![n][w][e]
+[s]Vamos jogar novamente na próxima vez que nos[n]encontrarmos! Até então... adeus![n][w][e]
 
 [msg TalkMsg_EN_ACCEPT_00]
 [s]Ok, vamos continuar lutando. De jeito nenhum[n]eu vou perder esse tempo![n][w][e]
@@ -83,7 +83,7 @@
 [s]Caramba... eu fiz uma garota chorar... umm,[n]eu vou te perdoar se você dê um [n][f 2 5 3 9999 3]![n][w][e]
 
 [msg TalkMsg_EN_FAKE_CRIED01]
-[s]O que? Mesmo um adulto pode chorar como um[n]bebê? Ok, hum... eu vou deixar para lá se[n]você me dê [n][var 0]Yen.[n][w][e]
+[s]O que? Mesmo um adulto pode chorar como um[n]bebê? Ok, hum... eu vou deixar para lá se[n]você me dê [var 0]Yen.[n][w][e]
 
 [msg TalkMsg_EN_FAKE_CRIED02]
 [s]Caramba... eu fiz uma garota chorar... Eu[n]vou te perdoar se você dê um pouco de sua[n]saúde, senhor![n][w][e]

@@ -20,7 +20,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1018 65535 0]Como você foi pego nisso!?[n]Vamos, ignore-o![n][w][e]
 
 [msg MSG_010_0_0 [Bar Promoter]]
-[s][f 4 23 1 851 3 10 0 0][vp 8 2 1 0 851 0]Heh, então você é apenas uma criança. Saia[n]daqui.[n]Você está no caminho.[n][w][e]
+[s][f 4 23 1 851 3 10 0 0][vp 8 2 1 0 851 0]Heh, então você é apenas uma criança. Saia[n]daqui. Você está no caminho.[n][w][e]
 
 [msg MSG_011_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 7026 65535 0]TCH... você é quem estava querendo falar[n]conosco.[n][w][e]

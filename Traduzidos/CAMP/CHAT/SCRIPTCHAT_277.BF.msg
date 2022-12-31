@@ -189,7 +189,7 @@
 [s][f 5 14]Aha. Isso certamente é possível.[n][w][e]
 
 [msg MSG_049_0_0 [Akechi]]
-[s][f 5 14]Acho que tenho uma compreensão das coisas[n]agora.[n]Vou fazer um pouco mais de investigação[n]do meu lado.[n][w][e]
+[s][f 5 14]Acho que tenho uma compreensão das coisas[n]agora. Vou fazer um pouco mais de investigação[n]do meu lado.[n][w][e]
 
 [msg MSG_050_0_0 [Yusuke]]
 [s][f 5 14]Por você mesmo?[n][w][e]

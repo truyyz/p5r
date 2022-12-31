@@ -33,7 +33,7 @@
 [s][f 4 23 1 9 3 10 0 0][vp 8 2 1 0 9 0]Meu namorado está me irritando esta manhã.[n]Você deve repreender ele por mim, sensei.[n][w][e]
 
 [msg MSG_GAKKOJIMUINN_002_1_0 [Kind Faculty Member]]
-[s][f 4 23 1 8 3 10 0 0][vp 8 2 1 0 8 0]Sou funcionário do escritório, não um[n]professor.[n]Ter um namorado é legal, mas também se[n]concentre na escola.[n][w][e]
+[s][f 4 23 1 8 3 10 0 0][vp 8 2 1 0 8 0]Sou funcionário do escritório, não um[n]professor. Ter um namorado é legal, mas também se[n]concentre na escola.[n][w][e]
 
 [msg MSG_GAKKOJIMUINN_002_2_0 [Flashy Student]]
 [s][f 4 23 1 9 3 10 0 0][vp 8 2 1 0 9 0]Eu knowwww. De qualquer forma, você deve se[n]preocupar mais com aquela garota que pulou[n]da escola, não eu.[n][w][e]
@@ -1098,7 +1098,7 @@
 [s][vp 9 2 65535 43151 0 0]Droga... minhas pontuações foram piores do[n]que a de delinqüente...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_301_04_ [Flashy Student]]
-[s][vp 9 2 65535 42613 0 0]Ele deve ter ameaçado ou chantageado ou algo[n]assim.[n]Como ele conseguiu essas pontuações...?[n][f 1 2 180][e]
+[s][vp 9 2 65535 42613 0 0]Ele deve ter ameaçado ou chantageado ou algo[n]assim. Como ele conseguiu essas pontuações...?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_301_05_ [Flashy Student]]
 [s][vp 9 2 65535 42451 0 0]De jeito nenhum! Ele é realmente inteligente?[n][f 1 2 180][e]

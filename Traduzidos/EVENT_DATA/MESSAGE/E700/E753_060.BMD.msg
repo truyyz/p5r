@@ -3,7 +3,7 @@
 
 [msg MSG_001_0_0 [Chihaya]]
 [s][bup 0 113 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Eu sabia que você estaria aqui.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Oh, eu não quero dizer que tenho observado[n]você![n]Acabei de ler sua fortuna.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Oh, eu não quero dizer que tenho observado[n]você! Acabei de ler sua fortuna.[n][f 1 3 65535][w][e]
 [s][bup 0 113 1 65535 0][f 4 10 65535 0 0][f 4 24 0 4 6 42 3 100][vp 8 0 0 4 65535 0]Agora que isso está esclarecido, pegue isso.[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Chihaya]]

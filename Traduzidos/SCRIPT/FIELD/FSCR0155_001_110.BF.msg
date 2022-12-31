@@ -2,7 +2,7 @@
 [s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6186 65535 0]Ei, nós mudamos para nossos trajes fantasmas[n]de ladrão.[n][w][e]
 
 [msg D04_02_e295_020_mes02 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Isso prova que ela nos vê como uma ameaça[n]agora.[n]Vamos ter cuidado![n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Isso prova que ela nos vê como uma ameaça[n]agora. Vamos ter cuidado![n][w][e]
 
 [msg MSG_e295_028_000 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7038 65535 0]Então, como devemos chegar a esta cidade?[n][w][e]

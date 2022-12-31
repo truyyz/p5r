@@ -54,7 +54,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Não é como se eu realmente gostaria de[n]vender as coisas deles.[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Sojiro]]
-[s][bup 0 103 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Talvez eu jogue um pouco de gelo seco ao[n]lado.[n]Sabe, dê esse efeito fantasma...[n]*risada* [n][f 1 3 65535][w][e]
+[s][bup 0 103 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Talvez eu jogue um pouco de gelo seco ao[n]lado. Sabe, dê esse efeito fantasma...[n]*risada* [n][f 1 3 65535][w][e]
 [s][bup 0 103 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Uh, estou apenas brincando, tudo bem?[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Female Assistant]]

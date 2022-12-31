@@ -86,7 +86,7 @@
 [s]Meu pai diz que as pessoas que gostam de[n]dizer são inteligentes... são realmente[n]ruins.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_02_R_4]
-[s]Eu acho que você pode dizer que é[n]inteligente, mesmo que suas notas sejam um[n]pouco melhores do que as de outras[n]pessoas...[n][w][e]
+[s]Eu acho que você pode dizer que é[n]inteligente, mesmo que suas notas sejam um[n]pouco melhores do que as de outras pessoas...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_02_R_5]
 [s]Ooh, você deve ser bom em lutar então![n][w][e]
@@ -455,7 +455,7 @@
 [s]A maneira como você descreve faz com que[n]pareça meio estranho, senhor...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_08_R_13]
-[s]Ah! Você atirou em mim para lugar nenhum...[n]espere![n]É daí que os bebês vêm? Fora de lugar[n]nenhum!? Whoooa![n][w][e]
+[s]Ah! Você atirou em mim para lugar nenhum...[n]espere! É daí que os bebês vêm? Fora de lugar[n]nenhum!? Whoooa![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_08_R_14]
 [s]Ahhh! As pessoas morrem quando são baleadas,[n]não nascem![n][w][e]
@@ -845,7 +845,7 @@
 [s]Você realmente nunca pensou em ficar[n]entediado? Whoooa![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_07_R_10]
-[s]Sim, eu posso dizer que você não tem nenhum,[n]uhhh...[n]"Amberção", acho que foi.[n][w][e]
+[s]Sim, eu posso dizer que você não tem nenhum,[n]uhhh... "Amberção", acho que foi.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_07_R_11]
 [s]Você não tem? Você pensa em alguma coisa?[n][w][e]
@@ -1310,7 +1310,7 @@
 [s]Ei, ninguém vai gostar de você se você fizer[n]o que quiser o tempo todo.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_15_R_13]
-[s]Então eu recebo o tratamento silencioso[n]agora!?[n]Isso não é justo![n][w][e]
+[s]Então eu recebo o tratamento silencioso[n]agora!? Isso não é justo![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_15_R_14]
 [s]Então você não está apenas preso no passado,[n]mas também fica louco com facilidade, hein?[n][w][e]
@@ -1504,7 +1504,7 @@
 [s]......[n][w][e]
 
 [msg TalkMsg_GUY_RESULT_ENEMY_9]
-[s]O que você quer!? Cale a boca, eu vou te[n]matar![n]Estou com raiva agora![n][w][e]
+[s]O que você quer!? Cale a boca, eu vou te[n]matar! Estou com raiva agora![n][w][e]
 [s]... Ou assim eu pensei, mas é melhor se dar[n]bem. Vou ouvir se você quiser falar.[n][w][e]
 
 [msg TalkMsg_RESULT_GET_SECRE]
@@ -1567,7 +1567,7 @@
 [s]Não, eu não confio em você, senhor. Eu não[n]estou fazendo isso![n][w][e]
 
 [msg TalkMsg_RESULT_BRAINWASH_7]
-[s]Entendo- então é isso que eu preciso fazer a[n]seguir.[n]Obrigado, senhor, por me mostrar. Aqui,[n]tenha isso![n][w][e]
+[s]Entendo- então é isso que eu preciso fazer a[n]seguir. Obrigado, senhor, por me mostrar. Aqui,[n]tenha isso![n][w][e]
 
 [msg TalkMsg_CONTACT_11]
 [s]Ahahaha! Olhe para aquele ladrão fugir do[n]rei Kamoshida como um gato assustador![n]Tchau, estúpido![n][w][e]
@@ -1917,7 +1917,7 @@
 [s]Me desculpe... eu não tenho nenhuma[n]informação útil...[n][w][e]
 
 [msg TalkMsg_RESULT_ENEMY_REF]
-[s]Você não pode me bater! Você não pode me[n]bater![n]Eu posso desviar de suas balas![n][w][e]
+[s]Você não pode me bater! Você não pode me[n]bater! Eu posso desviar de suas balas![n][w][e]
 
 [msg TalkMsg_RESULT_ENEMY_REF_2]
 [s]Yuck, eu não quero falar com um humano[n]fedorento![n][w][e]
@@ -1926,7 +1926,7 @@
 [s]Vejo você mais tarde, estúpido! Eu não vou[n]falar com você![n][w][e]
 
 [msg TalkMsg_SHOOT_REACTION01]
-[s]Senhor... você se torna uma pessoa[n]totalmente diferente quando segura uma[n]arma, não é?[n]Apenas como eu...[n][w][e]
+[s]Senhor... você se torna uma pessoa[n]totalmente diferente quando segura uma[n]arma, não é? Apenas como eu...[n][w][e]
 [s]Espere, o que- eu acho que me lembro de algo![n][w][e]
 
 [msg TalkMsg_SHOOT_REACTION02]
@@ -2026,7 +2026,7 @@
 
 [msg TalkMsg_RESULT_BRAINWASH_12]
 [s]É isso mesmo, eu também posso fazer isso![n][w][e]
-[s]Awww, mas você não tem treinamento[n]suficiente, senhor. Desculpe, mas pegue[n]isso [n][f 2 5 3 9999 1]em vez de...[n][w][e]
+[s]Awww, mas você não tem treinamento[n]suficiente, senhor. Desculpe, mas pegue[n]isso  [f 2 5 3 9999 1]em vez de...[n][w][e]
 
 [msg TalkMsg_RESULT_BRAINWASH_13]
 [s]Eu quero ir para o festival também...[n][w][e]

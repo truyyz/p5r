@@ -57,7 +57,7 @@
 [s][vp 1 0 0 0 0 0]É melhor me apressar para o pátio...[n][w][e]
 
 [msg MSG_E15010100_NG_BldgB1F [Mishima]]
-[s][bup 0 111 503 65535 0][f 4 10 65535 0 0][vp 8 2 1 19102 65535 0]Eu acho que Sakamoto subiu para o [n][clr 2]Escritório de professores de educação física[n]no segundo andar [n][clr 27]...[n][w][e]
+[s][bup 0 111 503 65535 0][f 4 10 65535 0 0][vp 8 2 1 19102 65535 0]Eu acho que Sakamoto subiu para o [n][clr 2]Escritório de professores de educação física[n]no segundo andar [clr 27]...[n][w][e]
 
 [msg MND_E15010100_NG_BldgB1F]
 [s][vp 1 0 0 0 0 0]Por enquanto, é melhor tentar chegar a[n]Ryuji...[n][w][e]
@@ -69,7 +69,7 @@
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ei, eu disse a entrada principal![n]Ele vai sair se não nos apressarmos.[n][w][e]
 
 [msg MSG_E15010100_NG_BldgB1F_2 [Mishima]]
-[s][bup 0 111 503 65535 0][f 4 10 65535 0 0][vp 8 2 1 19102 65535 0]Eu acho que Sakamoto subiu para o [n][clr 2]Escritório de professores de educação física[n]no segundo andar [n][clr 27]...[n][w][e]
+[s][bup 0 111 503 65535 0][f 4 10 65535 0 0][vp 8 2 1 19102 65535 0]Eu acho que Sakamoto subiu para o [n][clr 2]Escritório de professores de educação física[n]no segundo andar [clr 27]...[n][w][e]
 
 [msg MND_E15010100_NG_BldgB1F_2]
 [s][vp 1 0 0 0 0 0]Por enquanto, é melhor tentar chegar a[n]Ryuji...[n][w][e]
@@ -109,7 +109,7 @@
 [s][vp 1 0 0 0 0 0]É melhor me apressar para o pátio...[n][w][e]
 
 [msg MSG_E15010100_CHK_TOILET [Mishima]]
-[s][bup 0 111 503 65535 0][f 4 10 65535 0 0][vp 8 2 1 19102 65535 0]Eu acho que Sakamoto subiu para o [n][clr 2]Escritório de professores de educação física[n]no segundo andar [n][clr 27]...[n][w][e]
+[s][bup 0 111 503 65535 0][f 4 10 65535 0 0][vp 8 2 1 19102 65535 0]Eu acho que Sakamoto subiu para o [n][clr 2]Escritório de professores de educação física[n]no segundo andar [clr 27]...[n][w][e]
 
 [msg MND_E15010100_CHK_TOILET]
 [s][vp 1 0 0 0 0 0]Por enquanto, é melhor tentar chegar a[n]Ryuji...[n][w][e]
@@ -147,7 +147,7 @@
 [s][vp 1 0 0 0 0 0]É melhor me apressar para o pátio...[n][w][e]
 
 [msg MSG_E15010100_CHK_TOILET_2 [Mishima]]
-[s][bup 0 111 503 65535 0][f 4 10 65535 0 0][vp 8 2 1 19102 65535 0]Eu acho que Sakamoto subiu para o [n][clr 2]Escritório de professores de educação física[n]no segundo andar [n][clr 27]...[n][w][e]
+[s][bup 0 111 503 65535 0][f 4 10 65535 0 0][vp 8 2 1 19102 65535 0]Eu acho que Sakamoto subiu para o [n][clr 2]Escritório de professores de educação física[n]no segundo andar [clr 27]...[n][w][e]
 
 [msg MND_E15010100_CHK_TOILET_2]
 [s][vp 1 0 0 0 0 0]Por enquanto, é melhor tentar chegar a[n]Ryuji...[n][w][e]
@@ -185,7 +185,7 @@
 [s][vp 1 0 0 0 0 0]É melhor me apressar para o pátio...[n][w][e]
 
 [msg MSG_E15010100_CHK_HOKENS [Mishima]]
-[s][bup 0 111 503 65535 0][f 4 10 65535 0 0][vp 8 2 1 19102 65535 0]Eu acho que Sakamoto subiu para o [n][clr 2]Escritório de professores de educação física[n]no segundo andar [n][clr 27]...[n][w][e]
+[s][bup 0 111 503 65535 0][f 4 10 65535 0 0][vp 8 2 1 19102 65535 0]Eu acho que Sakamoto subiu para o [n][clr 2]Escritório de professores de educação física[n]no segundo andar [clr 27]...[n][w][e]
 
 [msg MND_E15010100_CHK_HOKENS]
 [s][vp 1 0 0 0 0 0]Por enquanto, é melhor tentar chegar a[n]Ryuji...[n][w][e]
@@ -223,7 +223,7 @@
 [s][vp 1 0 0 0 0 0]É melhor me apressar para o pátio...[n][w][e]
 
 [msg MSG_E15010100_CHK_KATEIK [Mishima]]
-[s][bup 0 111 503 65535 0][f 4 10 65535 0 0][vp 8 2 1 19102 65535 0]Eu acho que Sakamoto subiu para o [n][clr 2]Escritório de professores de educação física[n]no segundo andar [n][clr 27]...[n][w][e]
+[s][bup 0 111 503 65535 0][f 4 10 65535 0 0][vp 8 2 1 19102 65535 0]Eu acho que Sakamoto subiu para o [n][clr 2]Escritório de professores de educação física[n]no segundo andar [clr 27]...[n][w][e]
 
 [msg MND_E15010100_CHK_KATEIK]
 [s][vp 1 0 0 0 0 0]Por enquanto, é melhor tentar chegar a[n]Ryuji...[n][w][e]
@@ -257,7 +257,7 @@
 [s][vp 1 0 0 0 0 0]É melhor me apressar para o pátio...[n][w][e]
 
 [msg MSG_E15010100_CHK_HIFUKU [Mishima]]
-[s][bup 0 111 503 65535 0][f 4 10 65535 0 0][vp 8 2 1 19102 65535 0]Eu acho que Sakamoto subiu para o [n][clr 2]Escritório de professores de educação física[n]no segundo andar [n][clr 27]...[n][w][e]
+[s][bup 0 111 503 65535 0][f 4 10 65535 0 0][vp 8 2 1 19102 65535 0]Eu acho que Sakamoto subiu para o [n][clr 2]Escritório de professores de educação física[n]no segundo andar [clr 27]...[n][w][e]
 
 [msg MND_E15010100_CHK_HIFUKU]
 [s][vp 1 0 0 0 0 0]Por enquanto, é melhor tentar chegar a[n]Ryuji...[n][w][e]
@@ -291,7 +291,7 @@
 [s][vp 1 0 0 0 0 0]É melhor me apressar para o pátio...[n][w][e]
 
 [msg MSG_E15010100_CHK_BUTURI [Mishima]]
-[s][bup 0 111 503 65535 0][f 4 10 65535 0 0][vp 8 2 1 19102 65535 0]Eu acho que Sakamoto subiu para o [n][clr 2]Escritório de professores de educação física[n]no segundo andar [n][clr 27]...[n][w][e]
+[s][bup 0 111 503 65535 0][f 4 10 65535 0 0][vp 8 2 1 19102 65535 0]Eu acho que Sakamoto subiu para o [n][clr 2]Escritório de professores de educação física[n]no segundo andar [clr 27]...[n][w][e]
 
 [msg MND_E15010100_CHK_BUTURI]
 [s][vp 1 0 0 0 0 0]Por enquanto, é melhor tentar chegar a[n]Ryuji...[n][w][e]

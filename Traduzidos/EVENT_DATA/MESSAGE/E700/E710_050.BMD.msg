@@ -84,7 +84,7 @@
 [s]Você está em apuros?[e]
 
 [msg MSG_024_0_0 [Chihaya]]
-[s][bup 0 113 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Hum, suponho que você poderia dizer que ele[n]é...[n]um conhecido.[n][f 1 3 65535][w][e]
+[s][bup 0 113 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Hum, suponho que você poderia dizer que ele[n]é... um conhecido.[n][f 1 3 65535][w][e]
 [s][bup 0 113 1 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 42 5 100][f 4 24 0 4 0 1 5 0][vp 8 0 0 0 65535 0]A-Wayway! É um assunto particular, [n][f 4 1]-san. Nada com o qual você deve se preocupar.[n][f 1 3 65535][w][e]
 
 [msg MSG_025_0_0 [Chihaya]]

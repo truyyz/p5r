@@ -43,7 +43,7 @@
 [s]Lixo como nós é grato por nosso trabalho na[n]Okumura Foods![n][f 1 2 60][e]
 
 [msg INTELLI_POINT_01_13]
-[s]O diretor-chefe sempre diz que esta empresa[n]é o [n][clr 2]MELHOR DOS MELHORES [clr 2]![n][f 1 2 60][e]
+[s]O diretor-chefe sempre diz que esta empresa[n]é o  [clr 2]MELHOR DOS MELHORES [clr 2]![n][f 1 2 60][e]
 
 [msg INTELLI_POINT_01_14]
 [s]Sou grato por poder trabalhar para uma[n]organização de elite![n][f 1 2 60][e]
@@ -55,7 +55,7 @@
 [s]Ow... meu quadril dói. Eu gostaria de poder[n]tirar um dia de folga...[n][f 1 2 60][e]
 
 [msg INTELLI_POINT_02_03]
-[s]O funcionário principal está aparentemente[n]estressado. Ele provavelmente poderia usar[n]um pouco [n][clr 2]AÇÚCAR [clr 27]...[n][f 1 2 60][e]
+[s]O funcionário principal está aparentemente[n]estressado. Ele provavelmente poderia usar[n]um pouco  [clr 2]AÇÚCAR [clr 27]...[n][f 1 2 60][e]
 
 [msg INTELLI_POINT_02_04]
 [s]O secretário-chefe sempre alivia o estresse,[n]mastigando [n][clr 2]Doces [clr 27].[n][f 1 2 60][e]
@@ -187,7 +187,7 @@
 [s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4155 65535 0]Parece que a vanguarda já está cheia. Por[n]favor, designe uma pessoa com quem eu[n]deveria mudar.[n][w][e]
 
 [msg PARTY_IN_CHECK_PC06_mes0 [Makoto]]
-[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2158 65535 0]Você gostaria de mim como parte da sua[n]equipe?[n]Claro, eu não me importo.[n][w][e]
+[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2158 65535 0]Você gostaria de mim como parte da sua[n]equipe? Claro, eu não me importo.[n][w][e]
 
 [msg PARTY_IN_CHECK_PC06_EX_m [Makoto]]
 [s][bup 0 6 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2165 65535 0]Vamos resolver isso de uma vez por todas. Se[n]você quiser que eu lute, terei prazer em[n]aceitar![n][w][e]
@@ -347,7 +347,7 @@
 [s][bup 0 5 0 1 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4155 65535 0]Parece que a vanguarda já está cheia. Por[n]favor, designe uma pessoa com quem eu[n]deveria mudar.[n][w][e]
 
 [msg PARTY_IN_CHECK_PC06_NM_m [Makoto]]
-[s][bup 0 6 0 1 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2158 65535 0]Você gostaria de mim como parte da sua[n]equipe?[n]Claro, eu não me importo.[n][w][e]
+[s][bup 0 6 0 1 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2158 65535 0]Você gostaria de mim como parte da sua[n]equipe? Claro, eu não me importo.[n][w][e]
 
 [sel PARTY_IN_CHECK_PC06_NM_s top]
 [s]Eu vou contar com você.[e]
@@ -411,7 +411,7 @@
 [s][bup 0 5 0 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4155 65535 0]Parece que a vanguarda já está cheia. Por[n]favor, designe uma pessoa com quem eu[n]deveria mudar.[n][w][e]
 
 [msg PARTY_IN_CHECK_PC06_NM02 [Makoto]]
-[s][bup 0 6 0 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2158 65535 0]Você gostaria de mim como parte da sua[n]equipe?[n]Claro, eu não me importo.[n][w][e]
+[s][bup 0 6 0 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2158 65535 0]Você gostaria de mim como parte da sua[n]equipe? Claro, eu não me importo.[n][w][e]
 
 [sel PARTY_IN_CHECK_PC06_NM02_2 top]
 [s]Eu vou contar com você.[e]

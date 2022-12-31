@@ -429,7 +429,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Você tem que ouvir isso![n][w][e]
 
 [msg MND_COOP_DOUZOKUSEI]
-[s]Eu sinto que posso me aproximar de Chihaya[n]graças ao [n][var 2][n]Persona [clr 1][var 5][clr 27]...[n][w][e]
+[s]Eu sinto que posso me aproximar de Chihaya[n]graças ao [n][var 2] Persona [clr 1][var 5][clr 27]...[n][w][e]
 
 [msg MND_COOP_RANKUP_OK]
 [s]Eu sinto que meu vínculo com Chihaya ficará[n]mais forte em breve...[n][w][e]
@@ -644,7 +644,7 @@
 [s]Você também pode convidar pessoas que possam[n]desfrutar desse local para sair com você lá.[n][w][e]
 
 [msg MSG_C10_UNSEI_00_00 [Chihaya]]
-[s][bup 0 113 0 65535 0][f 4 10 65535 0 0][f 4 23 1 210 14 10 13 10]Uma leitura da sua sorte fortuna vai te[n]custar [n][clr 2][var 0]Yen [clr 27].[n]Esta tudo certo...?[n][w][e]
+[s][bup 0 113 0 65535 0][f 4 10 65535 0 0][f 4 23 1 210 14 10 13 10]Uma leitura da sua sorte fortuna vai te[n]custar  [clr 2][var 0]Yen [clr 27].[n]Esta tudo certo...?[n][w][e]
 
 [sel SEL_C10_UNSEI_00_01 top]
 [s]Tenha a sorte de ler [e]

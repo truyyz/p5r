@@ -126,5 +126,5 @@
 [s][vp 8 0 0 0 65535 0]Eu sinto que meu vínculo com yusuke ficará[n]mais forte em breve...[n][f 1 3 65535][w][e]
 
 [msg MSG_039_0_0 [Yusuke]]
-[s][vp 8 2 0 4054 65535 0]Graças a isso, minhas idéias cósmicas[n]fluirão sem esforço para minha tela. Até a[n]próxima, [n][f 4 2].[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 4054 65535 0]Graças a isso, minhas idéias cósmicas[n]fluirão sem esforço para minha tela. Até a[n]próxima, [f 4 2].[n][f 1 3 65535][w][e]
 

@@ -32,7 +32,7 @@
 
 [msg MSG_009_0_0 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Ele não apenas estava tentando nos[n]enquadrar, mas ele era o verdadeiro culpado[n]por trás dos desligamentos mentais...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Sua oferta para nos ajudar foi simplesmente[n]uma manobra para enquadrar os ladrões[n]Phantom... e matar [n][f 4 2].[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Sua oferta para nos ajudar foi simplesmente[n]uma manobra para enquadrar os ladrões[n]Phantom... e matar [f 4 2].[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Se entrarmos no palácio de Sis, como ele[n]sugere, provavelmente seremos recebidos por[n]uma grande emboscada das forças policiais.[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Yusuke]]

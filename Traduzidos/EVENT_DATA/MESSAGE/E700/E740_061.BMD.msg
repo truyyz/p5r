@@ -1,6 +1,6 @@
 [msg MSG_000_0_0 [Hifumi]]
 [s][bup 0 106 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 18043 65535 0]Eu ia comprar um ar condicionado, mas agora[n]que estou aqui, estou pensando bem.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu nunca gostei muito de aparelhos de ar[n]condicionado.[n]Eles me deixam muito frio...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu nunca gostei muito de aparelhos de ar[n]condicionado. Eles me deixam muito frio...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas o zumbido de um ventilador elétrico me[n]incomoda. Torna tão difícil se concentrar[n]nos meus livros de estratégia...[n][f 1 3 65535][w][e]
 
 [msg MSG_000_1_0 [Hifumi]]
@@ -55,7 +55,7 @@
 [s][f 0 8 2 1 2217]Por que não apenas despir?[clr 27][e]
 
 [msg MSG_009_0_0 [Yusuke]]
-[s][bup 0 5 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Prefiro pensar nisso como economia de[n]energia- tanto a minha quanto na elétrica.[n]Isso não é sensato, [n][f 4 2]?[n][f 1 3 65535][w][e]
+[s][bup 0 5 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Prefiro pensar nisso como economia de[n]energia- tanto a minha quanto na elétrica.[n]Isso não é sensato, [f 4 2]?[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Yusuke]]
 [s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 4189 65535 0][f 5 13 5 10 5]Não é? Embora eu tenha decidido não trazer[n]meus suprimentos de arte, no final.[n][f 1 3 65535][w][e]

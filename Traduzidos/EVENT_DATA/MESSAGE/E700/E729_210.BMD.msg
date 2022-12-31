@@ -22,7 +22,7 @@
 
 [msg MSG_007_0_0 [Caroline]]
 [s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]A arte certamente assume muitas formas, no[n]entanto.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Parte do trabalho foi totalmente[n]fotográfica- realista. Na verdade, não[n]seria mais fácil tirar fotos nessas[n]situações?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Parte do trabalho foi totalmente[n]fotográfica- realista. Na verdade, não[n]seria mais fácil tirar fotos nessas situações?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E o que há com esses "retratos" ou o que[n]eles são chamados? Qual é o sentido de[n]pintar um rosto humano gigante?[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Justine]]

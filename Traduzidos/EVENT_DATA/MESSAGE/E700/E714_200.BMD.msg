@@ -1,7 +1,7 @@
 [msg MSG_000_0_0 [(Phone) Kawakami]]
 [s][bup 0 109 600 0 0][f 4 10 65535 0 0][vp 8 2 0 15018 65535 0]Você disse que não tem um lugar na escola[n]onde se encaixa, certo?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu posso imaginar a maioria das crianças[n]assim sendo entediada em seus quartos à[n]noite, mas...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Posso te perguntar algo apenas para ter[n]certeza?[n]O que você faz quando pula aula?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Posso te perguntar algo apenas para ter[n]certeza? O que você faz quando pula aula?[n][f 1 3 65535][w][e]
 
 [msg MND_001_0_0]
 [s][vp 8 0 0 0 65535 0]Esta é uma pergunta que afetará a confiança[n]de Kawakami em mim. Eu tenho que responder[n]corretamente![n][f 1 3 65535][w][e]

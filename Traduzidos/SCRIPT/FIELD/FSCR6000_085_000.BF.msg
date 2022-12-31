@@ -35,7 +35,7 @@
 [msg MSG_865_045_09 [Shadow Kagami]]
 [s]Meu filho...[n][w][e]
 [s]Não me deixe sozinho. Eu não preciso da[n]ajuda de ninguém![n][w][e]
-[s]Meu filho ficaria mais feliz em morrer[n]comigo![n]Eu tenho que levá-la comigo...![n][w][e]
+[s]Meu filho ficaria mais feliz em morrer[n]comigo! Eu tenho que levá-la comigo...![n][w][e]
 
 [msg MSG_865_045_10 [Futaba]]
 [s][bup 0 8 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9043 65535 0]Isto é errado...![n][w][e]

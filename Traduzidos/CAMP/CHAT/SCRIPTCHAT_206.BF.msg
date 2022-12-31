@@ -1,5 +1,5 @@
 [msg MSG_000_0_0 [Ryuji]]
-[s][f 5 14]Recebi uma atualização sobre a senhora do[n]gato.[n]Parece que ela fez um post no local do[n]Phan.[n][w][e]
+[s][f 5 14]Recebi uma atualização sobre a senhora do[n]gato. Parece que ela fez um post no local do[n]Phan.[n][w][e]
 [s][f 5 14]Eu acho que ela se entregou à polícia.[n][w][e]
 [s][f 5 14]Depois de pagar por seus crimes, ela fará[n]um trabalho voluntário para ajudar os[n]gatos perdidos.[n][w][e]
 

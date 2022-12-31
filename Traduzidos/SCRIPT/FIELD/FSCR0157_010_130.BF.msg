@@ -2,7 +2,7 @@
 [s][bup 0 2 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7156 65535 0]Puta merda, essa coisa é enorme![n]Um custo de jogo... 5k!?[n][w][e]
 
 [msg mini_ev_mes_02_01_mes02 [Ann]]
-[s][bup 0 4 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Espere, todas as cerejas ganham 5.000[n]moedas, o bar recebe 10.000, enquanto um[n]777 lhe dá [n][clr 2]50.000 [clr 27]!?[n][w][e]
+[s][bup 0 4 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Espere, todas as cerejas ganham 5.000[n]moedas, o bar recebe 10.000, enquanto um[n]777 lhe dá  [clr 2]50.000 [clr 27]!?[n][w][e]
 [s][bup 0 4 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Uau! Isso nos levará todas as moedas de que[n]precisamos de uma só vez![n][w][e]
 
 [msg mini_ev_mes_02_01_mes03 [Morgana]]

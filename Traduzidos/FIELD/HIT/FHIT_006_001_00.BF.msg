@@ -165,7 +165,7 @@
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0]Eu sou muito particular sobre sushi, sabe?[n]Deve haver um lugar em Tóquio que é super[n]delicioso![n][w][e]
 
 [msg MSG_FREE_SPACE [Morgana]]
-[s][bup 0 3 7 0 0][f 4 10 65535 0 0][vp 8 2 1 1044 65535 0]É como se esses humanos tivessem se[n]transformado em catálogos de informações[n]para nossa conveniência. É um pouco[n]sombrio...[n][w][e]
+[s][bup 0 3 7 0 0][f 4 10 65535 0 0][vp 8 2 1 1044 65535 0]É como se esses humanos tivessem se[n]transformado em catálogos de informações[n]para nossa conveniência. É um pouco sombrio...[n][w][e]
 
 [msg MSG_DEADEND01_moru [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1020 65535 0]Não se afasta muito, tudo bem?[n]Caso contrário, você pode acabar se perdendo.[n][w][e]
@@ -180,7 +180,7 @@
 [s]Obrigado! Volte novamente.[n][w][e]
 
 [msg MSG_Book_NG [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1168 65535 0]Hum. Eu só esperava livros superficiais[n]aqui, mas eles têm alguns livros[n]especializados, como um em dicas de[n]rebatidas.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1168 65535 0]Hum. Eu só esperava livros superficiais[n]aqui, mas eles têm alguns livros[n]especializados, como um em dicas de rebatidas.[n][w][e]
 [s][f 4 10 65535 0 0]Eles não têm livros que você precisa agora.[n]Vamos voltar quando você precisar de ajuda[n]em algo.[n][w][e]
 
 [msg MSG_Book_NG_02 [Morgana]]
@@ -290,7 +290,7 @@
 
 [msg MSG_E24450100_GOOUT_AFTE [Morgana]]
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 65535 1166 0 0]A estação já passou aqui. É muito ruim para[n]Ryuji, mas vamos para casa já.[n][w][e]
-[s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Então, transferimos trens para Shibuya, e[n]então nós... HRM. Vou deixar você descobrir[n]o resto, [n][f 4 2]![n][w][e]
+[s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Então, transferimos trens para Shibuya, e[n]então nós... HRM. Vou deixar você descobrir[n]o resto, [f 4 2]![n][w][e]
 
 [msg MSG_E70209000_NG_GOOUT_0 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 2019 65535 0]Assim não nos leva à estação?[n]Vamos conversar com os vendedores ambulantes[n]nesta área.[n][w][e]
@@ -739,7 +739,7 @@
 [s]Eu posso sentir algo vindo para mim...[n][w][e]
 
 [msg MND_INC_PARAMCHK_S_TISIK]
-[s]Eu acho que estou perto de um avanço com o[n]meu [n][f 4 11 0][clr 26][f 4 12 0][clr 27]...[n][w][e]
+[s]Eu acho que estou perto de um avanço com o[n]meu  [f 4 11 0][clr 26][f 4 12 0][clr 27]...[n][w][e]
 
 [msg MND_RankUp_OK_Miryoku]
 [s]Eu me sinto como meu [f 4 11 1][clr 26][f 4 12 0][clr 27][n]vai melhorar em breve...[n][w][e]
@@ -754,7 +754,7 @@
 [s]Eu posso sentir algo vindo para mim...[n][w][e]
 
 [msg MND_INC_PARAMCHK_S_MIRYO]
-[s]Eu acho que estou perto de um avanço com o[n]meu [n][f 4 11 1][clr 26][f 4 12 1][clr 27]...[n][w][e]
+[s]Eu acho que estou perto de um avanço com o[n]meu  [f 4 11 1][clr 26][f 4 12 1][clr 27]...[n][w][e]
 
 [msg MND_RankUp_OK_Kiyou]
 [s]Eu me sinto como meu [f 4 11 2][clr 26][f 4 12 2][clr 27][n]vai melhorar em breve...[n][w][e]
@@ -772,7 +772,7 @@
 [s]Eu posso sentir algo vindo para mim...[n][w][e]
 
 [msg MND_INC_PARAMCHK_S_KIYOU]
-[s]Eu acho que estou perto de um avanço com o[n]meu [n][f 4 11 2][clr 26][f 4 12 2][clr 27]...[n][w][e]
+[s]Eu acho que estou perto de um avanço com o[n]meu  [f 4 11 2][clr 26][f 4 12 2][clr 27]...[n][w][e]
 
 [msg MND_RankUp_OK_Dokyo]
 [s]Eu me sinto como meu [f 4 11 3][clr 26][f 4 12 3][clr 27][n]vão melhorar em breve...[n][w][e]
@@ -787,7 +787,7 @@
 [s]Eu posso sentir algo vindo para mim...[n][w][e]
 
 [msg MND_INC_PARAMCHK_S_DOKYO]
-[s]Eu acho que estou perto de um avanço com o[n]meu [n][f 4 11 3][clr 26][f 4 12 3][clr 27]...[n][w][e]
+[s]Eu acho que estou perto de um avanço com o[n]meu  [f 4 11 3][clr 26][f 4 12 3][clr 27]...[n][w][e]
 
 [msg MND_RankUp_OK_Yasasisa]
 [s]Eu me sinto como meu [f 4 11 4][clr 26][f 4 12 4][clr 27][n]vai melhorar em breve...[n][w][e]
@@ -805,7 +805,7 @@
 [s]Eu posso sentir algo vindo para mim...[n][w][e]
 
 [msg MND_INC_PARAMCHK_S_YASAS]
-[s]Eu acho que estou perto de um avanço com o[n]meu [n][f 4 11 4][clr 26][f 4 12 4][clr 27]...[n][w][e]
+[s]Eu acho que estou perto de um avanço com o[n]meu  [f 4 11 4][clr 26][f 4 12 4][clr 27]...[n][w][e]
 
 [msg MSG_CinemaBuyTicketSIBUY [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1179 65535 0]Oh sim! Você precisa comprar um ingresso[n]primeiro.[n][w][e]

@@ -42,7 +42,7 @@
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Não havia nada parecido nas notas que vi.[n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Ryuji]]
-[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]De qualquer forma, que tipo de pessoa é[n]shido?[n]Eu não consigo descobrir ele...[n][f 1 3 65535][w][e]
+[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]De qualquer forma, que tipo de pessoa é[n]shido? Eu não consigo descobrir ele...[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Yusuke]]
 [s][bup 0 5 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Fiz algumas pesquisas leves sobre ele ontem[n]à noite, mas não consegui entender o tipo[n]de homem que ele é.[n][f 1 3 65535][w][e]

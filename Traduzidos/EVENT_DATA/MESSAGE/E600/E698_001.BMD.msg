@@ -199,7 +199,7 @@
 [s][vp 8 2 65535 1174 0 0][f 4 10 65535 0 0]Vamos voltar a isso [clr 2]Bar em Shinjuku [clr 27]E faça com que ela escreva mais coisas sobre[n]nós![n][f 1 3 65535][w][e]
 
 [msg MSG_047_0_0 [Morgana]]
-[s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 65535 1026 0 0]Vamos lá, tente mostrar um pouco de[n]interesse.[n]Esta é uma grande notícia.[n][f 1 3 65535][w][e]
+[s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 65535 1026 0 0]Vamos lá, tente mostrar um pouco de[n]interesse. Esta é uma grande notícia.[n][f 1 3 65535][w][e]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Quanto maior o nosso nome, mais nossos[n]objetivos ouvirão falar de nós.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Além disso, o burburinho positivo vai [clr 2]Torne as pessoas menos cautelosas de nós [clr 27].[n][f 1 3 65535][w][e]
 [s][vp 8 2 65535 1174 0 0][f 4 10 65535 0 0]Devemos ir para isso [clr 2]Bar em Shinjuku [clr 27]E convencê-la a escrever mais artigos sobre[n]nós![n][f 1 3 65535][w][e]

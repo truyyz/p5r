@@ -96,7 +96,7 @@
 [s]Então aproveite os prazeres do trabalho duro[n]com o conteúdo do seu coração![n][w][e]
 
 [msg D05_02_e341_072_reset_se_3 [Guidance Voice]]
-[s]... No entanto, o tempo de interrupção[n]terminou no tempo que você levou para dizer[n]isso.[n]Agora, vamos voltar ao trabalho![n][w][e]
+[s]... No entanto, o tempo de interrupção[n]terminou no tempo que você levou para dizer[n]isso. Agora, vamos voltar ao trabalho![n][w][e]
 
 [msg D05_02_e341_072_reset_se_4 [Morgana]]
 [s][bup 0 3 0 65535 0]......[n][w][e]

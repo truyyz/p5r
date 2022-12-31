@@ -6,7 +6,7 @@
 
 [msg TalkMsg_EN_CONTACT_00]
 [s]Oh, seu colega está certo? Nesse ritmo, eles[n]podem sofrer uma terrível tragédia.[n][w][e]
-[s]Se você deseja salvá-los, peço um pedido de[n]desculpas. Vamos ver... você não vai me dar[n]apenas um [n][f 2 5 3 9999 3]?[n][w][e]
+[s]Se você deseja salvá-los, peço um pedido de[n]desculpas. Vamos ver... você não vai me dar[n]apenas um [f 2 5 3 9999 3]?[n][w][e]
 
 [msg TalkMsg_EN_CONTACT_01]
 [s]Seu colega está em uma pitada, ao que[n]parece. Uma expressão tão adorável, cheia[n]de dor.[n][w][e]
@@ -86,7 +86,7 @@
 [s]Huh? Querida, qual é o problema?[n]Muito bem, vou te perdoar por [n][f 2 5 3 9999 3].[n][w][e]
 
 [msg TalkMsg_EN_FAKE_CRIED01]
-[s]Huh!? Uma senhora nunca deve derramar[n]lágrimas em público... bem, vou ignorar[n]isso por [n][var 0]Yen.[n][w][e]
+[s]Huh!? Uma senhora nunca deve derramar[n]lágrimas em público... bem, vou ignorar[n]isso por [var 0]Yen.[n][w][e]
 
 [msg TalkMsg_EN_FAKE_CRIED02]
 [s]Huh? O que é isso!?...Bom. Vou te perdoar[n]se puder ter um pouco de sua saúde.[n][w][e]

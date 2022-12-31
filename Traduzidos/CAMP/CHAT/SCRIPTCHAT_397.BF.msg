@@ -52,5 +52,5 @@
 
 [msg MSG_CHAT_MORUEND_00 [Morgana]]
 [s][bup 0 3 3 65535 0][vp 1 0 0 0 0 0]......[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 1 0 0 1 0 0]Eles estão certos: isso é totalmente[n]bizarro.[n]O que está acontecendo aqui?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 1 0 0 1 0 0]Eles estão certos: isso é totalmente[n]bizarro. O que está acontecendo aqui?[n][f 1 3 65535][w][e]
 

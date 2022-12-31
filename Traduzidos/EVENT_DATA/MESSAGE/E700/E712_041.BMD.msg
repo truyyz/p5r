@@ -39,7 +39,7 @@
 [s][vp 8 0 0 0 65535 0]Eu acho que se as coisas azedaram, sempre[n]poderíamos tentar vendê-lo novamente...[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Iwai]]
-[s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Tudo bem... vou fazer uma pressa no seu[n]pedido.[n]Feliz agora?[n][f 1 3 65535][w][e]
+[s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Tudo bem... vou fazer uma pressa no seu[n]pedido. Feliz agora?[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Tsuda]]
 [s][vp 8 0 0 0 65535 0]Muito.[n][f 1 3 65535][w][e]

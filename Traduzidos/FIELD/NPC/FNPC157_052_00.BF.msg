@@ -45,7 +45,7 @@
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 7024 65535 0]Welp, parece que conseguimos o que[n]precisávamos![n]Os serve certo para nos trapacear muito.[n][w][e]
 
 [msg SAFETY_MES_RYUJI_10_02 [Ryuji]]
-[s][bup 0 2 103 0 0][f 4 10 65535 0 0][vp 8 2 1 7025 65535 0]Droga, nós não acabamos de pegar moedas[n]agora![n]Vamos voltar para outra rodada.[n][w][e]
+[s][bup 0 2 103 0 0][f 4 10 65535 0 0][vp 8 2 1 7025 65535 0]Droga, nós não acabamos de pegar moedas[n]agora! Vamos voltar para outra rodada.[n][w][e]
 
 [msg SAFETY_MES_RYUJI_11_01 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 7158 65535 0]Bom trabalho aqui! O resto é apenas um[n]negócio, como de costume, para nós, ladrões![n][w][e]
@@ -232,7 +232,7 @@
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 2158 65535 0]Joker, não temos o suficiente para atender[n]ao requisito de 100.000 moedas agora.[n]O que nós vamos fazer?[n][w][e]
 
 [msg SAFETY_MES_MAKOTO_11_01 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 2158 65535 0]Finalmente chegou a hora de mudar o coração[n]de Sis![n]Vamos fazer isso, Joker![n][w][e]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 2158 65535 0]Finalmente chegou a hora de mudar o coração[n]de Sis! Vamos fazer isso, Joker![n][w][e]
 
 [msg SAFETY_MES_HARU_01_01 [Haru]]
 [s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 3082 65535 0]Este lugar é tão vibrante... mas ainda é um[n]palácio. Não há dúvida de que precisamos[n]ter cuidado.[n][w][e]

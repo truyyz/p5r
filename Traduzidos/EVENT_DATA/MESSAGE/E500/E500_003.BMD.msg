@@ -98,7 +98,7 @@
 
 [msg MSG_026_0_0 [Caroline]]
 [s][bup 0 102 5 0 0][f 4 10 65535 0 0][vp 8 0 0 41 65535 0]Eca. Eu fico quieto e você só tem que se[n]deparar com ele com mais trabalho.[n][f 1 3 65535][w][e]
-[s][bup 0 102 1 0 0][f 4 10 65535 0 0][vp 8 0 0 42 65535 0]Bem, não vou contar ao nosso mestre sobre[n]isso.[n]Será apenas um dos nossos segredos.[n][f 1 3 65535][w][e]
+[s][bup 0 102 1 0 0][f 4 10 65535 0 0][vp 8 0 0 42 65535 0]Bem, não vou contar ao nosso mestre sobre[n]isso. Será apenas um dos nossos segredos.[n][f 1 3 65535][w][e]
 [s][bup 0 102 2 0 0][f 4 10 65535 0 0][vp 8 0 0 43 65535 0]Espere- falando de segredos, você só disse a[n]ele o meu! Isso não é justo![n][f 1 3 65535][w][e]
 
 [msg MSG_027_0_0 [Justine]]

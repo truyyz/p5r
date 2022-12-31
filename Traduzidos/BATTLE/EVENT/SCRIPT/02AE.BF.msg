@@ -34,7 +34,7 @@
 [s][vp 8 2 2 0 0 0]Mas, estou... estou com muito medo de[n]realmente fazer isso... ugh![n][f 1 3 65535][w][e]
 
 [msg MSG_BTLTALK_END_000 [Futaba]]
-[s][bup 0 8 601 0 0][vp 8 2 2 9190 0 8][f 4 10 65535 0 0]Mweheheh, então o chefe da seção é fraco[n]para [n][clr 2]Vento [clr 27], é ele?[n][f 1 3 65535][w][e]
+[s][bup 0 8 601 0 0][vp 8 2 2 9190 0 8][f 4 10 65535 0 0]Mweheheh, então o chefe da seção é fraco[n]para  [clr 2]Vento [clr 27], é ele?[n][f 1 3 65535][w][e]
 
 [msg MSG_BTLTALK_END_001 [Futaba]]
 [s][bup 0 8 600 0 0][vp 8 2 2 0 0 0][f 4 10 65535 0 0]Não conseguimos nenhum Deets no[n]diretor-chefe, mas isso ainda é bom![n][f 1 3 65535][w][e]

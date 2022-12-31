@@ -12,7 +12,7 @@
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos precisar do ID adequado para[n]prosseguir mais.[n][w][e]
 
 [msg D10_10_CardCheck_First_E [Akechi]]
-[s][bup 0 9 800 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]De qualquer forma, não estamos indo dessa[n]maneira.[n]Vamos esquecer por enquanto.[n][w][e]
+[s][bup 0 9 800 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]De qualquer forma, não estamos indo dessa[n]maneira. Vamos esquecer por enquanto.[n][w][e]
 
 [msg D10_03_look_at_researche_2 [[f 4 31 10 0]]]
 [s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 57047 65535 0]Aí está aquela sombra. Devemos ir em frente?[n][w][e]

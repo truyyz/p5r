@@ -5,11 +5,11 @@
 [s](Error)[n][w][e]
 
 [msg TalkMsg_EN_CONTACT_00]
-[s]Este cordeiro perdido está se contorcendo de[n]dor...[n]Hahaha.[n][w][e]
+[s]Este cordeiro perdido está se contorcendo de[n]dor... Hahaha.[n][w][e]
 [s]Se você me conceder [f 2 5 3 9999 3], talvez a salvação venha...[n]Qual é a sua decisão?[n][w][e]
 
 [msg TalkMsg_EN_CONTACT_01]
-[s]Este cordeiro perdido está se contorcendo de[n]dor...[n]Hahaha.[n][w][e]
+[s]Este cordeiro perdido está se contorcendo de[n]dor... Hahaha.[n][w][e]
 [s]Vamos ver... se você me conceder um dízimo[n]de [n][var 0]Yen, talvez eu esteja disposto a libertá-los.[n][w][e]
 
 [msg TalkMsg_EN_CONTACT_02]
@@ -46,7 +46,7 @@
 [s]...Muito bem. Já era hora de devolver esse[n]cordeiro perdido para se reunir.[n][w][e]
 
 [msg TalkMsg_EN_AGREE_01]
-[s]... Eu realmente entendo sua determinação[n]agora.[n]Vou devolver este cordeiro perdido para[n]rebanho.[n][w][e]
+[s]... Eu realmente entendo sua determinação[n]agora. Vou devolver este cordeiro perdido para[n]rebanho.[n][w][e]
 
 [msg TalkMsg_EN_SLAY_00]
 [s]Você vai abandonar esse cordeiro?[n]Blasfêmia...[n][w][e]

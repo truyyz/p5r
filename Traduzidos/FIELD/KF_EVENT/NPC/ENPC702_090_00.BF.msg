@@ -47,7 +47,7 @@
 [s][vp 8 2 1 0 851 0]Você é esse tipo de coisa?[n]Ou isso é uma espécie de brincadeira?[n][w][e]
 
 [msg MSG_CATCH_B_006_00 [Friendly Promoter]]
-[s][vp 8 2 1 0 851 0]Vamos lá, não posso falar com você para[n]sempre.[n]Você entende?[n][w][e]
+[s][vp 8 2 1 0 851 0]Vamos lá, não posso falar com você para[n]sempre. Você entende?[n][w][e]
 
 [msg MSG_CATCH_B_007_00 [Makoto]]
 [s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 2028 65535 0]... Suponho que ele não sabe de nada.[n]Devemos tentar procurar em outro lugar.[n][w][e]

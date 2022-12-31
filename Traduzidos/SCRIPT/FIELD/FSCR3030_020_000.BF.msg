@@ -26,7 +26,7 @@
 [s][bup 0 3 0 0 0]De acordo com o manual...[n][w][e]
 [s]Star Forneus é um tiro de rolagem vertical.[n][w][e]
 [s]O truque está na técnica de fogo rápido.[n]Atire o mais rápido que puder e atire nos[n]inimigos![n][w][e]
-[s]Jogue-se no calor da batalha, e você terá[n]mais [n][f 4 11 3][clr 26][f 4 12 3][clr 27][n]do que você fez antes... talvez.[n][w][e]
+[s]Jogue-se no calor da batalha, e você terá[n]mais  [f 4 11 3][clr 26][f 4 12 3][clr 27][n]do que você fez antes... talvez.[n][w][e]
 
 [msg MSG_CommonInfo_Startrick [Morgana]]
 [s][bup 0 3 0 0 0]Ooh, estrela paraneus.[n][w][e]

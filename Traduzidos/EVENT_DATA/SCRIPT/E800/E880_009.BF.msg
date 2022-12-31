@@ -77,7 +77,7 @@
 [s][vp 1 0 0 0 0 0]O que esse detetive acha que está fazendo?[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_1023_2]
-[s][vp 1 0 0 0 0 0]Ele está apenas tentando ficar popular, não[n]é?[n]Ele quer se destacar.[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Ele está apenas tentando ficar popular, não[n]é? Ele quer se destacar.[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_1023_3]
 [s][vp 1 0 0 0 0 0]Apenas apresse-se e prenda os ladrões[n]Phantom já...[n][f 1 3 65535][w][e]

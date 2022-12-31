@@ -31,7 +31,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 1034 65535 0]Você definitivamente está melhorando. Eu[n]posso dizer apenas observando você.[n][w][e]
 
 [msg MSG_LAST_Message_end_SP [Morgana]]
-[s][bup 0 3 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 1045 65535 0]Eu vi isso. A maneira como você usou suas[n]mãos...[n]Você fez ótimo![n][w][e]
+[s][bup 0 3 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 1045 65535 0]Eu vi isso. A maneira como você usou suas[n]mãos... Você fez ótimo![n][w][e]
 
 [msg MND_LAST_Message_end]
 [s]Eu acho que estou realmente melhorando[n]nisso...[n][w][e]

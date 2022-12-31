@@ -133,7 +133,7 @@
 [s][bup 0 216 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]... Ainda assim, mesmo que isso seja[n]verdade, ainda acredito que esse método[n]poderia salvar muitas pessoas.[n][f 1 3 65535][w][e]
 
 [msg MSG_032_0_0 [Maruki]]
-[s][bup 0 216 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Por outro lado, depende tanto da[n]perspectiva. Algumas pessoas podem chamar[n]de mentira ou vê-la como fugindo de[n]problemas.[n][f 1 3 65535][w][e]
+[s][bup 0 216 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Por outro lado, depende tanto da[n]perspectiva. Algumas pessoas podem chamar[n]de mentira ou vê-la como fugindo de problemas.[n][f 1 3 65535][w][e]
 
 [msg MSG_033_0_0 [Maruki]]
 [s][bup 0 216 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]... Ainda assim, mesmo que isso seja[n]verdade, ainda acredito que esse método[n]poderia salvar muitas pessoas.[n][f 1 3 65535][w][e]

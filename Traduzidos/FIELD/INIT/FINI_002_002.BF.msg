@@ -179,7 +179,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Kawakami [clr 2]sempre parece cansado [clr 27]mesmo que ela [clr 2]Vai para casa imediatamente [clr 27][n]Para os fins de semana.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Ela [clr 2]carrega roupas de esboço [clr 27][n]e [clr 2]diz que o nome dela é Becky [clr 27]Quando ela atende o telefone.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]É isso que temos. Primeiro, temos que[n]encontrar evidências.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Vamos percorrer o campus e reunir fofocas em[n]Kawakami.[n]Então vamos refutar Taihei![n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Vamos percorrer o campus e reunir fofocas em[n]Kawakami. Então vamos refutar Taihei![n][w][e]
 
 [msg MSG_KFE_714_START_TEST]
 [s](工事中)時間経過するまでショートカット、[n]チャットからコープキャラへジャンプは[n]使用しないでください。[n][w][e]

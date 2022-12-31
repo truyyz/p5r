@@ -53,5 +53,5 @@
 [s][f 5 14]Eu pretendo ter um sonho de beleza[n]singular.[n][w][e]
 
 [msg MSG_019_0_0 [Ryuji]]
-[s][f 5 14][f 5 15]Eu tenho que ir para a cama de qualquer[n]maneira![n]Eu tenho treino amanhã também![n][w][e]
+[s][f 5 14][f 5 15]Eu tenho que ir para a cama de qualquer[n]maneira! Eu tenho treino amanhã também![n][w][e]
 

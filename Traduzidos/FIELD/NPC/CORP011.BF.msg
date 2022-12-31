@@ -450,7 +450,7 @@
 [s][bup 0 101 1 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]... um local de pesadelo para adquirir[n]presentes.[n][w][e]
 
 [msg MSG_TWINS_OUTING_Quest13_2 [Caroline]]
-[s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Aparentemente, quando os ventos frios[n]chegam, os humanos se reúnem em várias[n]áreas e pesquisam alto e baixo por[n]presentes.[n][w][e]
+[s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Aparentemente, quando os ventos frios[n]chegam, os humanos se reúnem em várias[n]áreas e pesquisam alto e baixo por presentes.[n][w][e]
 
 [msg MSG_TWINS_OUTING_Quest13_3 [Justine]]
 [s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 211 3 10 0 10]O específico que buscamos está enterrado sob[n]outra área semelhante. As pessoas se reúnem[n]lá para todo tipo de mercadoria.[n][w][e]

@@ -10,7 +10,7 @@
 
 [msg MSG_003_0_0 [Ryuji]]
 [s][f 5 14]Sim. Que bom que fizemos a diferença.[n][w][e]
-[s][f 5 14][f 5 15]Se você tem um pai em que pode confiar,[n]alguém que realmente se sente como[n]família...[n]Isso tem que se sentir ótimo.[n][w][e]
+[s][f 5 14][f 5 15]Se você tem um pai em que pode confiar,[n]alguém que realmente se sente como[n]família... Isso tem que se sentir ótimo.[n][w][e]
 
 [msg MSG_004_0_0 [Ryuji]]
 [s][f 5 14]Claro, isso pode ser divertido. Enquanto[n]a família está juntos, certo?[n][w][e]

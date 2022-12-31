@@ -231,7 +231,7 @@
 [s][bup 0 111 1 65535 0][f 4 23 1 218 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Estou tão feliz por ter escolhido acreditar[n]em você, [n][f 4 1]. Obrigado![n][w][e]
 
 [msg MND_COOP_DOUZOKUSEI]
-[s]Eu sinto que posso me aproximar de Mishima[n]graças ao [n][var 2][n]Persona [clr 1][var 5][clr 27]...[n][w][e]
+[s]Eu sinto que posso me aproximar de Mishima[n]graças ao [n][var 2] Persona [clr 1][var 5][clr 27]...[n][w][e]
 
 [msg MND_COOP_RANKUP_OK_FIRST]
 [s]Esta pode ser uma boa oportunidade para[n]aprofundar meu vínculo com Mishima...[n][w][e]

@@ -49,7 +49,7 @@
 [s][bup 0 5 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 11 0 0]Eu nunca senti tanta estranheza antes...[n]O que é este lugar?[n][w][e]
 
 [msg D08_01_e437_011_mes09 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 12 0 0]Descobriremos quando chegarmos às[n]profundezas.[n]Venha, vamos.[n][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 12 0 0]Descobriremos quando chegarmos às[n]profundezas. Venha, vamos.[n][w][e]
 
 [msg D08_01_e437_011_DUMMY]
 [s](調整中)大扉が開く[n][w][e]

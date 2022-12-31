@@ -3,7 +3,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]HM? Eu sinto que te vi em algum lugar[n]antes...[n][w][e]
 
 [msg MSG_ITEM_SHOP_OPEN_01 [Languid Doctor]]
-[s][bup 0 108 0 0 0][f 4 23 1 213 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 14028 65535 0]Você precisa de cuidados de emergência tão[n]tarde?[n]O horário de consulta acabou...[n][w][e]
+[s][bup 0 108 0 0 0][f 4 23 1 213 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 14028 65535 0]Você precisa de cuidados de emergência tão[n]tarde? O horário de consulta acabou...[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]HM? Eu sinto que te vi em algum lugar[n]antes...[n][w][e]
 
 [sel SEL_ITEM_SHOP_OPEN_CHK_0 top]
@@ -317,7 +317,7 @@
 
 [msg MND_C13_COOP_07_02]
 [s]Para que ela dependa de mim, talvez eu tenha[n]que polir o meu [n][f 4 11 1][clr 26][f 4 12 1][clr 27]como pessoa...[n][w][e]
-[s]Takemi provavelmente dependeria de mim se[n]meu [n][f 4 11 1][clr 26][f 4 12 1][clr 27][n]eram [clr 26][f 4 13 1 4][clr 27]...[n][w][e]
+[s]Takemi provavelmente dependeria de mim se[n]meu  [f 4 11 1][clr 26][f 4 12 1][clr 27][n]eram [clr 26][f 4 13 1 4][clr 27]...[n][w][e]
 
 [msg MND_C13_COOP_07_03]
 [s]Meu transbordamento [f 4 11 1][clr 26][f 4 12 1][clr 27][n]O coração teimoso de Takemi derretido![n][w][e]
@@ -630,7 +630,7 @@
 [s][bup 0 108 1 0 0][f 4 23 1 213 3 10 0 10][f 4 10 65535 0 0][vp 8 0 1 20 65535 0]Sim, estou aliviado também- tudo é graças a[n]você, minha pequena cobaia.[n][w][e]
 
 [msg MSG_C13_BYEGREET_01_03 [Takemi]]
-[s][bup 0 108 1 0 0][f 4 23 1 213 3 10 0 10][f 4 10 65535 0 0][vp 8 0 1 21 65535 0]Ela ainda tem alguns caminhos a percorrer,[n]mas...[n]Não demorará muito para esse ritmo.[n][w][e]
+[s][bup 0 108 1 0 0][f 4 23 1 213 3 10 0 10][f 4 10 65535 0 0][vp 8 0 1 21 65535 0]Ela ainda tem alguns caminhos a percorrer,[n]mas... Não demorará muito para esse ritmo.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 22 65535 0]É tudo graças a você, minha pequena cobaia.[n][w][e]
 
 [msg MSG_C13_BYEGREET_01_04 [Takemi]]

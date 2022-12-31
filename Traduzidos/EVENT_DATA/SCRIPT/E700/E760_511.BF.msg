@@ -476,7 +476,7 @@
 [s][vp 8 2 0 0 65535 0]Com seus mal-entendidos resolvidos, os[n]amantes se reuniram...[n][f 1 3 65535][w][e]
 
 [msg MSG_DVD01P5R_Start_2nd [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1038 65535 0]Então o amor não é tudo divertido e jogos,[n]hein?[n]Você também precisa se esforçar nisso.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1038 65535 0]Então o amor não é tudo divertido e jogos,[n]hein? Você também precisa se esforçar nisso.[n][f 1 3 65535][w][e]
 
 [msg MSG_DVD01P5R_done_1st [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1044 65535 0]Que montanha-russa emocional...[n]Eu não poderia desviar o olhar. Todas as[n]quatro mulheres tinham personalidades tão[n]distintas.[n][f 1 3 65535][w][e]

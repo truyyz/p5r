@@ -121,7 +121,7 @@
 [s][bup 0 2 2 4 0][f 4 10 65535 0 0][vp 8 0 0 38 65535 0]De jeito nenhum!? Somente o líder pode fazer[n]esse tipo de coisa certa![n][f 1 3 65535][w][e]
 
 [msg MSG_037_0_0 [Ryuji]]
-[s][bup 0 2 0 4 0][f 4 10 65535 0 0][vp 8 0 0 39 65535 0]Quando ele dá nosso choro de vitória, todos[n]nós seguimos com uma super-loud, "Sim!"[n]Entendi?[n]Tudo bem... um... dois...[n][f 1 3 65535][w][e]
+[s][bup 0 2 0 4 0][f 4 10 65535 0 0][vp 8 0 0 39 65535 0]Quando ele dá nosso choro de vitória, todos[n]nós seguimos com uma super-loud, "Sim!"[n]Entendi? Tudo bem... um... dois...[n][f 1 3 65535][w][e]
 
 [sel SEL_038_0_0 top]
 [s]Conseguimos![e]

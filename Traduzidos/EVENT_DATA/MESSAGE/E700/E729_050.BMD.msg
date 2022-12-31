@@ -132,7 +132,7 @@
 [s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Isso poderia ser uma forma do que alguns[n]chamam de "roleta russa"?[n][f 1 3 65535][w][e]
 
 [msg MSG_036_0_0 [Justine]]
-[s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não podemos arriscar as chances de ser[n]envenenado.[n]Vamos pedir outra coisa.[n][f 1 3 65535][w][e]
+[s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não podemos arriscar as chances de ser[n]envenenado. Vamos pedir outra coisa.[n][f 1 3 65535][w][e]
 
 [msg MSG_037_0_0 [Caroline]]
 [s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Nesse caso, vamos com a sincera omelete.[n][f 1 3 65535][w][e]

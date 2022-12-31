@@ -93,7 +93,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 31 65535 0]Podemos chamá-lo de nossa pequena celebração[n]para o sucesso de Yoshizawa-san.[n][f 1 3 65535][w][e]
 
 [msg MSG_027_0_0 [Kasumi]]
-[s][bup 0 10 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 32 65535 0]Isso seria maravilhoso! Isso funciona para[n]você, [n][f 4 1]-senpai?[n][f 1 3 65535][w][e]
+[s][bup 0 10 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 32 65535 0]Isso seria maravilhoso! Isso funciona para[n]você,  [f 4 1]-senpai?[n][f 1 3 65535][w][e]
 
 [msg MSG_028_0_0 [Akechi]]
 [s][bup 0 9 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 33 65535 0]Isso resolve isso.[n][f 1 3 65535][w][e]

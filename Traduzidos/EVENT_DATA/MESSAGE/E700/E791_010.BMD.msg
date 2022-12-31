@@ -6,7 +6,7 @@
 [s]O que está acontecendo?[e]
 
 [msg MSG_002_0_0 [Justine]]
-[s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Isso é um seguimento para garantir que você[n]não negligencie sua reabilitação.[n]Destina-se a empurrá-lo a executar[n]execuções.[n][f 1 3 65535][w][e]
+[s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Isso é um seguimento para garantir que você[n]não negligencie sua reabilitação.[n]Destina-se a empurrá-lo a executar execuções.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Chamamos isso de "alarme de fusão".[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Caroline]]

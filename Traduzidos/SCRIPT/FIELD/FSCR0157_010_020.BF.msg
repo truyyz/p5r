@@ -1,5 +1,5 @@
 [msg mini_ev_mes_02_mes01 [Ann]]
-[s][bup 0 4 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6027 65535 0]Então, todas as cerejas nos pegam 5.000[n]moedas, o bar nos pega 10.000 e um 777 nos[n]leva [n][clr 2]50.000 [clr 27]...[n][w][e]
+[s][bup 0 4 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6027 65535 0]Então, todas as cerejas nos pegam 5.000[n]moedas, o bar nos pega 10.000 e um 777 nos[n]leva  [clr 2]50.000 [clr 27]...[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu-eu me pergunto se realmente conseguiremos[n]marcar esses 50.000...[n][w][e]
 
 [msg mini_ev_mes_02_mes02 [Ryuji]]

@@ -5,7 +5,7 @@
 [s][f 5 14]Eu tenho antecipado isso há tanto tempo![n][w][e]
 
 [msg MSG_002_0_0 [Makoto]]
-[s][f 5 14]Estaremos confiando cuidados de Futaba a[n]você, [n][f 4 2].[n][w][e]
+[s][f 5 14]Estaremos confiando cuidados de Futaba a[n]você,  [f 4 2].[n][w][e]
 
 [sel SEL_003_0_0 top]
 [s][f 5 14]Tudo bem.[e]

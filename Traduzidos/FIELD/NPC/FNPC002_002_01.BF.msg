@@ -898,7 +898,7 @@
 [s][vp 9 2 65535 38905 0 0]Um cartão de chamada Phantom Thief?[n]Isso é apenas uma brincadeira, certo?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_005_01_ [Newspaper Club Member]]
-[s][vp 9 2 65535 41705 0 0]Espere, essa coisa de ladrão fantasma era[n]real?[n]Não, isso é ridículo...[n][f 1 2 180][e]
+[s][vp 9 2 65535 41705 0 0]Espere, essa coisa de ladrão fantasma era[n]real? Não, isso é ridículo...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_005_02_ [Newspaper Club Member]]
 [s][vp 9 2 65535 44654 0 0]Por que ele estava de repente agindo dessa[n]maneira? Os ladrões Phantom o ameaçaram?[n][f 1 2 180][e]
@@ -1351,7 +1351,7 @@
 [s][vp 9 2 65535 42555 0 0]Para ser sincero, prefiro ler o que joga[n]videogames.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_031_10_ [Newspaper Club Member]]
-[s][vp 9 2 65535 42353 0 0]Onde você quer ir para as férias de[n]primavera?[n]Em outro continente?[n][f 1 2 180][e]
+[s][vp 9 2 65535 42353 0 0]Onde você quer ir para as férias de[n]primavera? Em outro continente?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_031_11_ [Newspaper Club Member]]
 [s][vp 9 2 65535 43250 0 0]Esses dois estão tão próximos.[n][f 1 2 180][e]
@@ -1754,7 +1754,7 @@
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]O-oh, hum... não importa.[n]Eu estava simplesmente curioso.[n][w][e]
 
 [msg MSG_BIKOU03_002_0_0 [Makoto]]
-[s][f 4 23 1 0 3 10 0 0][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 2156 65535 0]Eu-eu deveria começar a voltar para casa[n]também.[n]Se você me desculpar...[n][w][e]
+[s][f 4 23 1 0 3 10 0 0][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 2156 65535 0]Eu-eu deveria começar a voltar para casa[n]também. Se você me desculpar...[n][w][e]
 
 [msg Quest10_target_00_00 [Kuroko Hara]]
 [s][f 4 23 1 601 3 10 0 0][vp 8 2 1 0 601 0]Ei, Heyyy, Maa-kun. Ultimamente, essas[n]pessoas estão intimidando meee.[n][w][e]
@@ -1812,7 +1812,7 @@
 [msg Quest10_target_02_03 [Blond-Haired Male Student]]
 [s][f 4 23 1 600 3 10 0 0][vp 8 2 1 0 600 0]O que você está falando sério...? Não é de[n]admirar que todos estejam negando.[n][w][e]
 [s][vp 8 2 1 0 600 0]Então, todo o tempo, fui eu quem era o[n]valentão? Oh, que diabos...[n][w][e]
-[s][vp 8 2 1 0 600 0]Entendi- aqueles ladrões fantasmas mudaram[n]você.[n]É melhor nos desculparmos a todos.[n]Eu irei com voce.[n][w][e]
+[s][vp 8 2 1 0 600 0]Entendi- aqueles ladrões fantasmas mudaram[n]você. É melhor nos desculparmos a todos.[n]Eu irei com voce.[n][w][e]
 
 [msg Quest10_target_02_04 [Kuroko Hara]]
 [s][f 4 23 1 601 3 10 0 0][vp 8 2 1 0 601 0]Me desculpe, me desculpe...[n]Eu sinto muito...[n][w][e]

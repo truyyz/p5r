@@ -63,7 +63,7 @@
 [s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Já colocamos a jóia desta estátua em bom[n]uso. Duvido que haja mais alguma coisa a[n]ser feita.[n][w][e]
 
 [msg D04_03_e295_081_FIRST_me [Ryuji]]
-[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7183 65535 0]Está segurando alguma coisa... espere, o que[n]é essa estátua de qualquer maneira? Algum[n]tipo de cachorro...[n]coisa?[n][w][e]
+[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7183 65535 0]Está segurando alguma coisa... espere, o que[n]é essa estátua de qualquer maneira? Algum[n]tipo de cachorro... coisa?[n][w][e]
 
 [msg D04_03_e295_081_FIRST_me_2 [Makoto]]
 [s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Este é Anubis, o deus egípcio do submundo.[n]Parece ter algum tipo de orbe brilhante...[n][w][e]

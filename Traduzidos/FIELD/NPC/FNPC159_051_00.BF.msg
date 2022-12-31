@@ -229,7 +229,7 @@
 [s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 3019 65535 0]Você se lembra das informações dos 5 VIPs?[n]Certifique-se de verificar novamente para[n]que não cometamos um erro.[n][w][e]
 
 [msg SAFE_MES_haru2 [Haru]]
-[s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 3036 65535 0]Eu me pergunto que tipo de pessoa é esse[n]ooe...[n]Espero que ele esteja no restaurante.[n][w][e]
+[s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 3036 65535 0]Eu me pergunto que tipo de pessoa é esse[n]ooe... Espero que ele esteja no restaurante.[n][w][e]
 
 [msg SAFE_MES_haru3 [Haru]]
 [s][bup 0 7 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 3198 65535 0]Até o diretor da escola foi afetado por[n]isso...? Quantas pessoas sofreram por causa[n]do shido...[n][w][e]

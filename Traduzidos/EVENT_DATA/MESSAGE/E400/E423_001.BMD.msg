@@ -44,7 +44,7 @@
 [msg MSG_010_3_0 [Futaba]]
 [s][bup 0 8 100 65535 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Se você tem mais de uma persona, talvez[n]tenha o mesmo tipo de poder que o Joker.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Mas você não confiava em ninguém, então você[n]só tem duas personas: uma por suas mentiras[n]e outra pelo seu ódio.[n][f 1 3 65535][w][e]
-[s][bup 0 8 103 65535 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]Ainda assim, você pensou que era suficiente,[n]certo?[n]Essa parte eu fico totalmente.[n][f 1 3 65535][w][e]
+[s][bup 0 8 103 65535 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]Ainda assim, você pensou que era suficiente,[n]certo? Essa parte eu fico totalmente.[n][f 1 3 65535][w][e]
 
 [msg MSG_010_6_0 [Yusuke]]
 [s][bup 0 5 100 65535 0][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]Você se destacou em tudo sobre nós...[n]No entanto, essa era a única coisa que você[n]não tinha.[n][f 1 3 65535][w][e]

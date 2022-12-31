@@ -12,7 +12,7 @@
 [s][bup 0 221 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Eu sabia! Lembranças me preencheram...[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Jose]]
-[s][bup 0 221 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]Eu posso dizer quando você está jogando[n]idiota.[n]Mementos não mente...[n][f 1 3 65535][w][e]
+[s][bup 0 221 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]Eu posso dizer quando você está jogando[n]idiota. Mementos não mente...[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Jose]]
 [s][bup 0 221 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Mas obrigado. Eu deveria ser capaz de[n]encontrar mais flores mais profundas.[n][f 1 3 65535][w][e]

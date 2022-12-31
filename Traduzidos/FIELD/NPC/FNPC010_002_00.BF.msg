@@ -35,7 +35,7 @@
 [s][vp 8 2 1 0 10 0]Oh, cara, estou tão empolgado com o novo[n]modelo que será lançado em julho...[n][w][e]
 [s][vp 8 2 1 0 10 0]Você ouve sobre isso? É chamado de [clr 4]Tarântula [clr 27].[n][w][e]
 [s][vp 8 2 1 0 10 0]As pessoas fizeram um grande negócio sobre[n]isso, mas o mecanismo de tiro rápido era[n]muito complexo para uma versão modelo...[n][w][e]
-[s][vp 8 2 1 0 10 0]...Até agora! Eles estão finalmente fazendo[n]um![n]Eu esperei por isso por tanto tempo![n][w][e]
+[s][vp 8 2 1 0 10 0]...Até agora! Eles estão finalmente fazendo[n]um! Eu esperei por isso por tanto tempo![n][w][e]
 [s][vp 8 2 1 0 10 0]Faz tanto tempo, eu quase tentei fazer isso![n]Mas não, eu não tenho as habilidades para[n]isso.[n][w][e]
 [s][vp 8 2 1 0 10 0]Mal posso esperar para ter o meu [clr 4]Tarântula [clr 27]![n]Homem, ser paciente é difícil.[n][w][e]
 
@@ -96,7 +96,7 @@
 
 [msg MSG_KAORU_004_0_0 [Kaoru]]
 [s][f 4 23 1 780 3 10 0 10][vp 8 2 1 0 780 0]A partir desta primavera, serei um estudante[n]Shujin![n][w][e]
-[s][vp 8 2 1 0 780 0]Eu sei que disse que admirava os ladrões[n]Phantom, mas acho que você também é[n]incrível, [n][f 4 1]-san...[n][w][e]
+[s][vp 8 2 1 0 780 0]Eu sei que disse que admirava os ladrões[n]Phantom, mas acho que você também é[n]incrível, [f 4 1]-san...[n][w][e]
 [s][vp 8 2 1 0 780 0]Eu quero ser como você. Imaginei que poderia[n]começar indo para a mesma escola que você.[n][w][e]
 
 [sel SEL_KAORU_005_0_0 top]

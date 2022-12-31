@@ -85,7 +85,7 @@
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 4 7 300 1][vp 8 0 0 32 65535 0]Oh![n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [Akechi]]
-[s][bup 0 9 3 2 0][f 4 10 65535 0 0][vp 8 0 0 33 65535 0]Minhas desculpas, eu realmente estava[n]passando.[n]Eu devo ir.[n][f 1 3 65535][w][e]
+[s][bup 0 9 3 2 0][f 4 10 65535 0 0][vp 8 0 0 33 65535 0]Minhas desculpas, eu realmente estava[n]passando. Eu devo ir.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 34 65535 0]Há um briefing para a gravação de amanhã que[n]tenho que participar.[n][f 1 3 65535][w][e]
 
 [msg MSG_025_0_0 [Akechi]]

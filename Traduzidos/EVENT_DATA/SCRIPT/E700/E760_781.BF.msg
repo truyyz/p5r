@@ -501,7 +501,7 @@
 
 [msg MND_CLEAR_URA_NULL]
 [s][vp 8 2 0 78 65535 0]Eu acho que a técnica tornou um pouco menos[n]emocionante do que o normal...[n][f 1 3 65535][w][e]
-[s][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Mas parece que a atenção que tive que[n]prestar ao meu objetivo me ajudou a refinar[n]meu [n][f 4 11 2][clr 26][f 4 12 2][clr 27]...[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Mas parece que a atenção que tive que[n]prestar ao meu objetivo me ajudou a refinar[n]meu  [f 4 11 2][clr 26][f 4 12 2][clr 27]...[n][f 1 3 65535][w][e]
 
 [msg MSG_CLEAR_MORU [Morgana]]
 [s][bup 0 3 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 1019 65535 0][f 4 22 65535 1 41]Parece que você aprendeu a estar atento aos[n]pequenos detalhes através do controle de[n]suas fotos.[n][f 1 3 65535][w][e]

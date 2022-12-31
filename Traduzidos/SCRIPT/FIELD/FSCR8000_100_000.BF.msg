@@ -11,7 +11,7 @@
 
 [msg DRESSTALK_UNI_SUMMER_PC0_2 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Joker, você mudou.[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Então esse é o uniforme de verão de Shujin,[n]hein?[n]Parece muito confortável, e aposto que[n]também o mantém fresco![n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Então esse é o uniforme de verão de Shujin,[n]hein? Parece muito confortável, e aposto que[n]também o mantém fresco![n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu também tenho um casaco de verão! Faça-me[n]um favor e me escove quando crescer, tudo[n]bem?[n][w][e]
 
 [msg DRESSTALK_UNI_SUMMER_PC0_3 [Ann]]
@@ -44,7 +44,7 @@
 
 [msg DRESSTALK_UNI_SUMMER_PC0_9 [Kasumi]]
 [s][bup 0 10 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Oh, senpai, você mudou de roupa?[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu gosto da simplicidade daquele uniforme de[n]verão.[n]Parece tão limpo e o mantém fresco.[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu gosto da simplicidade daquele uniforme de[n]verão. Parece tão limpo e o mantém fresco.[n][w][e]
 
 [msg DRESSTALK_UNI_WINTER_PC0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Oh, esse é o uniforme de inverno, sim?[n][w][e]
@@ -265,7 +265,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Huh, você está no seu loungewear.[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Bem, então, devemos dormir.[n][w][e]
 [s]......[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos lá! Não é isso que estamos aqui para[n]fazer![n]Por que você está usando isso aqui!?[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos lá! Não é isso que estamos aqui para[n]fazer! Por que você está usando isso aqui!?[n][w][e]
 
 [msg DRESSTALK_ROOMWEAR_PC01__3 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Oh, Joker... você está em loungewear?[n][w][e]
@@ -564,7 +564,7 @@
 [msg DRESSTALK_KARUKOZAKA_PC0_7 [Futaba]]
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Você mudou, Joker.[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Isso é uma roupa bonita azul...[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Quais são as especificações nesses fones de[n]ouvido?[n]Quer que eu encontre um par melhor?[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Quais são as especificações nesses fones de[n]ouvido? Quer que eu encontre um par melhor?[n][w][e]
 
 [msg DRESSTALK_KARUKOZAKA_PC0_8 [Akechi]]
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ei, Joker. Você está usando roupas incomuns.[n][w][e]
@@ -1044,7 +1044,7 @@
 [msg DRESSTALK_DEMONICA_MASKE_8 [Akechi]]
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Por que você está usando um terno demonica,[n]Joker?[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]HM? Como eu sabia que era você?[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu poderia dizer olhando para o seu traje, é[n]claro.[n]Eles são feitos para se encaixar[n]perfeitamente no usuário.[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu poderia dizer olhando para o seu traje, é[n]claro. Eles são feitos para se encaixar[n]perfeitamente no usuário.[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Embora eu gostaria que isso mudasse a forma[n]do capacete também...[n][w][e]
 
 [msg DRESSTALK_DEMONICA_MASKE_9 [Kasumi]]
@@ -1070,7 +1070,7 @@
 [msg DRESSTALK_DEMONICA_UNMAS_4 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Oh, você colocou um terno demonica.[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Parece bastante resistente. Suponho que isso[n]seria porque é feito para combate.[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]O que é aquele dispositivo de ouro nas suas[n]costas?[n]Para que serve?[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]O que é aquele dispositivo de ouro nas suas[n]costas? Para que serve?[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Parece que seria difícil lutar nisso...[n][w][e]
 
 [msg DRESSTALK_DEMONICA_UNMAS_5 [Makoto]]
@@ -1132,7 +1132,7 @@
 
 [msg DRESSTALK_PQ2_PC01_PC07 [Haru]]
 [s][bup 0 7 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ó meu Deus! Que adorável![n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Oh, peço desculpas. Eu simplesmente não pude[n]resistir.[n]Você parece tão fofo de repente![n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Oh, peço desculpas. Eu simplesmente não pude[n]resistir. Você parece tão fofo de repente![n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Você parece que seria bom abraçar...[n]*risada* é tão fofo.[n][w][e]
 
 [msg DRESSTALK_PQ2_PC01_PC08 [Futaba]]
@@ -1190,7 +1190,7 @@
 
 [msg DRESSTALK_YASOGAMI_PC02 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Yo. Este é o uniforme de Yasogami High.[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Cara, eu simplesmente amo esses tipos de[n]uniformes.[n]E esses óculos de sol não são RAD?[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Cara, eu simplesmente amo esses tipos de[n]uniformes. E esses óculos de sol não são RAD?[n][w][e]
 
 [msg DRESSTALK_HERMELIN_PC02 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ei, confira. Este é o uniforme de St.[n]Hermelin.[n][w][e]
@@ -1227,7 +1227,7 @@
 [msg DRESSTALK_DANCE_PC02 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Confira minhas roupas de dança, cara![n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Tudo bem! Estou sentindo o hype![n]Vamos lá, Joker, vamos dançar![n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Alunos à luz, ladrões no escuro![n]Se você tem um palácio, roubaremos seu[n]coração![n]Whaddya pensa?[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Alunos à luz, ladrões no escuro![n]Se você tem um palácio, roubaremos seu[n]coração! Whaddya pensa?[n][w][e]
 
 [msg DRESSTALK_SHADOW_W_PC02 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Estou no uniforme da Shadow Ops![n][w][e]
@@ -1397,7 +1397,7 @@
 
 [msg DRESSTALK_UNI_SUMMER_PC0_12 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Desculpe, estava ficando quente, então eu[n]vesti minhas roupas de verão.[n][w][e]
-[s]É uma camisa polo, então deixa a brisa[n]entrar.[n]Não se preocupe, ainda poderei lutar e[n]investigar nenhum problema![n][w][e]
+[s]É uma camisa polo, então deixa a brisa[n]entrar. Não se preocupe, ainda poderei lutar e[n]investigar nenhum problema![n][w][e]
 
 [msg DRESSTALK_UNI_WINTER_PC0_12 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Este é o meu uniforme de inverno.[n][w][e]
@@ -1593,7 +1593,7 @@
 
 [msg DRESSTALK_DANCE_PC05 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Estou com meu traje de dança.[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu não uso uma camisa sem mangas há algum[n]tempo.[n]*risada* parece tão refrescante.[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu não uso uma camisa sem mangas há algum[n]tempo. *risada* parece tão refrescante.[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Agora pegue as profundezas do espaço e sinta[n]a batida! Vamos dançar, Joker![n][w][e]
 
 [msg DRESSTALK_SHADOW_W_PC05 [Yusuke]]
@@ -1688,7 +1688,7 @@
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Normalmente não temos a chance de usar esses[n]ternos de marinheiro, mas eles não são[n]fofos?[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Você não pensaria, mas os ternos marinheiros[n]que usamos agora foram baseados em roupas[n]usadas pelas crianças das famílias[n]européias reais.[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Os pescadores sobre ternos tradicionais de[n]marinheiros usados pelos marinheiros podem[n]até ser usados como torniquetes em[n]situações com risco de vida.[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Todas as coisas têm história, até nossas[n]roupas.[n]Não é fascinante?[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Todas as coisas têm história, até nossas[n]roupas. Não é fascinante?[n][w][e]
 
 [msg DRESSTALK_HERMELIN_PC06 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Estou tentando o uniforme da St. Hermelin[n]High School.[n][w][e]
@@ -1743,7 +1743,7 @@
 [msg DRESSTALK_RAIDOU_PC06 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu mudei para o uniforme da Ouran High[n]School.[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Na verdade, nunca ouvi falar deles.[n]Parece uma escola com alguma história, no[n]entanto.[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu realmente gosto das cores únicas deste[n]uniforme.[n]Esse tom de rosa me lembra flores de[n]cerejeira.[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu realmente gosto das cores únicas deste[n]uniforme. Esse tom de rosa me lembra flores de[n]cerejeira.[n][w][e]
 
 [msg DRESSTALK_P5Dance_PC06 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu mudei para minha roupa de dança, Joker.[n][w][e]
@@ -1812,7 +1812,7 @@
 [s][bup 0 7 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]RESERVA [n][w][e]
 
 [msg DRESSTALK_GEKKOUKAN_PC07 [Haru]]
-[s][bup 0 7 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu mudei para o uniforme da Gekkoukan High[n]School. Ouvi dizer que eles têm dormitórios[n]lá.[n]Eu me pergunto como é...[n][w][e]
+[s][bup 0 7 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu mudei para o uniforme da Gekkoukan High[n]School. Ouvi dizer que eles têm dormitórios[n]lá. Eu me pergunto como é...[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Você acha que eles falam juntos à noite?[n]Parece como o nosso esconderijo de certa[n]forma.[n][w][e]
 
 [msg DRESSTALK_YASOGAMI_PC07 [Haru]]

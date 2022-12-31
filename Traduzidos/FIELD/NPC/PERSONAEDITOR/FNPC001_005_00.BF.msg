@@ -299,7 +299,7 @@
 
 [msg MSG_AYASIOTOKO_001_2_0 [Suspicious Man]]
 [s][f 4 23 1 18 3 10 0 10][vp 8 2 1 0 18 0]Esquisito. Acho que minha intuição[n]simplesmente não é o que costumava ser.[n][w][e]
-[s][vp 8 2 1 0 18 0]Eu não sou um cara obscuro, então não me[n]importe.[n]Estou apenas assistindo os trens.[n][w][e]
+[s][vp 8 2 1 0 18 0]Eu não sou um cara obscuro, então não me[n]importe. Estou apenas assistindo os trens.[n][w][e]
 
 [msg MSG_AYASIOTOKO_001_3_0 [Suspicious Man]]
 [s][f 4 23 1 18 3 10 0 10][vp 8 2 1 0 18 0]Er... Não. Eu só gosto de assistir os trens[n]daqui.[n][w][e]
@@ -658,7 +658,7 @@
 [s]Estou bem. Não é nada...[n][w][e]
 
 [msg Quest13_target_02_01 [Keiko Shiratori]]
-[s]Definitivamente, isso não é apenas um[n]resfriado.[n]Você precisa ver um médico.[n][w][e]
+[s]Definitivamente, isso não é apenas um[n]resfriado. Você precisa ver um médico.[n][w][e]
 [s]Mas não podemos pagar as contas do[n]hospital...[n][w][e]
 [s]Isso é tudo culpa minha... Por que eu não[n]deixei mais dinheiro de lado?[n][w][e]
 
@@ -670,7 +670,7 @@
 
 [msg quest15_hint_talk_00 [Stylish Boyfriend]]
 [s]Vou matar aquele velho... tudo o que fiz foi[n]verificar meu maldito telefone no trem![n][w][e]
-[s]Não é como se eu estivesse falando sobre[n]isso.[n]Inferno, estava em silêncio![n][w][e]
+[s]Não é como se eu estivesse falando sobre[n]isso. Inferno, estava em silêncio![n][w][e]
 [s]... Aposto que ele nem sabe o que é o modo[n]silencioso.[n][w][e]
 
 [msg quest15_hint_talk_01 [Trendy Girlfriend]]
@@ -955,7 +955,7 @@
 [s][f 4 23 1 6 3 10 0 10][vp 8 2 1 0 6 0]Vou te fazer feliz. Eu prometo a você isso.[n][w][e]
 
 [msg MSG_HAGEOTOKO_018_11_0 [Young-Looking Woman]]
-[s][f 4 23 1 9 3 10 0 10][vp 8 2 1 0 9 0]Quer vir comigo para as eleições?[n]Vamos pensar sobre o nosso futuro[n]seriamente...[n]juntos.[n][w][e]
+[s][f 4 23 1 9 3 10 0 10][vp 8 2 1 0 9 0]Quer vir comigo para as eleições?[n]Vamos pensar sobre o nosso futuro[n]seriamente... juntos.[n][w][e]
 
 [msg MSG_HAGEOTOKO_019_0_0 [Young-Looking Woman]]
 [s][f 4 23 1 9 3 10 0 10][vp 8 2 1 0 9 0]Nossas vidas juntas começam agora. Espero[n]que possamos estar juntos para sempre.[n][w][e]
@@ -1122,7 +1122,7 @@
 [s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]O que você está dizendo? Algo aconteceu com[n]seu namorado?[n][w][e]
 
 [msg MSG_TOSISABA_014_3_0 [Young-Looking Woman]]
-[s][f 4 23 1 7 3 10 0 10][vp 8 2 1 0 7 0]Eu disse a ele minha idade real e pedi[n]desculpas.[n]E então ele disse: "de jeito nenhum"...[n][w][e]
+[s][f 4 23 1 7 3 10 0 10][vp 8 2 1 0 7 0]Eu disse a ele minha idade real e pedi[n]desculpas. E então ele disse: "de jeito nenhum"...[n][w][e]
 [s][f 4 23 1 7 3 10 0 10][vp 8 2 1 0 7 0]Eu terminei com ele! Eu acho que ser honesto[n]realmente não vale a pena![n][w][e]
 
 [msg MSG_TOSISABA_015_0_0 [Young-Looking Woman]]
@@ -1373,7 +1373,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Algo sobre um "cartão de chamada" enviado a[n]Madarame. Eu corri para pegar a colher.[n][w][e]
 
 [msg MSG_OOYA_020_0_0 [Woman with Camera]]
-[s][bup 0 107 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Conversei com todos os envolvidos com a[n]exposição, mas ninguém está coppin 'para[n]nada.[n]Talvez fosse uma farsa?[n][w][e]
+[s][bup 0 107 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Conversei com todos os envolvidos com a[n]exposição, mas ninguém está coppin 'para[n]nada. Talvez fosse uma farsa?[n][w][e]
 
 [msg MSG_OOYA_022_0_0 [Woman with Camera]]
 [s][f 4 23 1 65535 8 10 0 10][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 16021 65535 0]À luz de todo esse drama "Sayuri", não posso[n]descartar isso como apenas uma coincidência.[n][w][e]
@@ -2118,7 +2118,7 @@
 [s][vp 9 2 65535 44204 0 0]As pessoas têm muitas coisas boas a dizer[n]sobre esse representante chamado Shido.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_024_03_ [Makoto]]
-[s][vp 9 2 65535 43400 0 0]Shido-san é tão apaixonado pelo futuro do[n]Japão![n]Eu realmente o respeito dele...[n][f 1 2 180][e]
+[s][vp 9 2 65535 43400 0 0]Shido-san é tão apaixonado pelo futuro do[n]Japão! Eu realmente o respeito dele...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_024_04_ [Makoto]]
 [s][vp 9 2 65535 46053 0 0]Você ouviu o discurso de Shido-san? Foi[n]fantástico...[n][f 1 2 180][e]
@@ -2427,7 +2427,7 @@
 [s][vp 9 2 65535 39253 0 0]Eu não entendo arte, mas sinto que essas[n]pinturas são realmente boas...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_102_004 [Makoto]]
-[s][vp 9 2 65535 39808 0 0]Não seria legal aprender sobre pinturas[n]japonesas?[n]Talvez eu os estude...[n][f 1 2 180][e]
+[s][vp 9 2 65535 39808 0 0]Não seria legal aprender sobre pinturas[n]japonesas? Talvez eu os estude...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_102_005 [Makoto]]
 [s][vp 9 2 65535 40953 0 0]Você viu essa foto?[n]Aparentemente, foi desenhado por Madarame![n][f 1 2 180][e]
@@ -2460,7 +2460,7 @@
 [s][vp 9 2 65535 38155 0 0]Uma execução pública estava cruzando a[n]linha...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_105_04_ [Makoto]]
-[s][vp 9 2 65535 39002 0 0]Você viu as filmagens da conferência de[n]imprensa?[n]Eles foram longe demais...[n][f 1 2 180][e]
+[s][vp 9 2 65535 39002 0 0]Você viu as filmagens da conferência de[n]imprensa? Eles foram longe demais...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_401_01_ [Makoto]]
 [s][vp 9 2 65535 38700 0 0]Aquela garota no trem era fofa, certo![n][f 1 2 180][e]

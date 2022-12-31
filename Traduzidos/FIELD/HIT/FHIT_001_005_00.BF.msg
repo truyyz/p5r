@@ -226,7 +226,7 @@
 [s][vp 1 0 0 0 0 0]Não há nada em particular que eu precise[n]fazer, então vou voltar em casa hoje...[n][w][e]
 
 [msg MSG_E19310100_NG_HIDEOUT [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 7085 65535 0]Não podemos chegar à rua central dessa[n]maneira.[n]Vamos sair para a praça da estação.[n][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 7085 65535 0]Não podemos chegar à rua central dessa[n]maneira. Vamos sair para a praça da estação.[n][w][e]
 
 [msg MSG_E24310100_NG_HIDEOUT [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 65535 1190 0 0]Ei onde você está indo? Você não tentaria[n]encontrar mais informações?[n][w][e]

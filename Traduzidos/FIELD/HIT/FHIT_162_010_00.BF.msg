@@ -52,7 +52,7 @@
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Confira![n][w][e]
 
 [msg D10_12_1st_passcode_lock_2 [Mechanical Voice]]
-[s]O bloqueio de segurança está atualmente[n]envolvido.[n]Por favor, responda à pergunta secreta.[n][w][e]
+[s]O bloqueio de segurança está atualmente[n]envolvido. Por favor, responda à pergunta secreta.[n][w][e]
 [s]"O que Takuto Maruki perdeu em troca do[n]poder de reescrever a cognição?" [n][w][e]
 
 [msg D10_12_1st_passcode_lock_3 [Ryuji]]
@@ -74,7 +74,7 @@
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7158 65535 0]Joker! Não devemos procurar pistas?[n][w][e]
 
 [msg D10_12_1st_passcode_lock_8 [Mechanical Voice]]
-[s]O bloqueio de segurança está atualmente[n]envolvido.[n]Por favor, responda à pergunta secreta.[n][w][e]
+[s]O bloqueio de segurança está atualmente[n]envolvido. Por favor, responda à pergunta secreta.[n][w][e]
 [s]"O que Takuto Maruki perdeu em troca do[n]poder de reescrever a cognição?" [n][w][e]
 
 [msg D10_12_1st_passcode_lock_9 [Akechi]]

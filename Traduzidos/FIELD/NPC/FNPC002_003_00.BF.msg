@@ -193,7 +193,7 @@
 
 [msg MSG_AKOGAREDANSI_009_0_0 [Starry-Eyed Student]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Cibernéticos internacionais... Eles eram[n]muito difíceis, mas o mundo está a salvo[n]deles agora.[n][w][e]
-[s][vp 8 2 1 0 11 0]Ninguém sabe quem eu realmente sou, no[n]entanto.[n]Heh... se eles apenas soubessem.[n][w][e]
+[s][vp 8 2 1 0 11 0]Ninguém sabe quem eu realmente sou, no[n]entanto. Heh... se eles apenas soubessem.[n][w][e]
 
 [sel SEL_AKOGAREDANSI_009_0_0 top]
 [s]Como você os derrotou?[e]
@@ -506,7 +506,7 @@
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Heróis como eles devem pegar todas as[n]meninas.[n]Talvez eu pare de basquete para se juntar[n]aos ladrões Phantom.[n][w][e]
 
 [msg MSG_UNDOUBUIN_010_1_0 [Intense Soccer Player]]
-[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Os ladrões Phantom são apenas uma moda[n]passageira![n]Você não está pensando seriamente em[n]desistir do seu time, é você!?[n][w][e]
+[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Os ladrões Phantom são apenas uma moda[n]passageira! Você não está pensando seriamente em[n]desistir do seu time, é você!?[n][w][e]
 
 [msg MSG_UNDOUBUIN_010_2_0 [Easygoing Basketball Player]]
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Eu simplesmente não acho que vai dar certo.[n]Não há muitas pessoas talentosas que eu[n]possa me juntar à nossa equipe.[n][w][e]
@@ -1371,7 +1371,7 @@
 [s][vp 9 2 65535 43151 0 0]Droga. Minhas pontuações foram piores do que[n]a de delinqüente...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_301_03_ [Morgana]]
-[s][vp 9 2 65535 42613 0 0]Ele deve ter ameaçado ou chantageado ou algo[n]assim.[n]Como ele conseguiu essas pontuações?[n][f 1 2 180][e]
+[s][vp 9 2 65535 42613 0 0]Ele deve ter ameaçado ou chantageado ou algo[n]assim. Como ele conseguiu essas pontuações?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_301_04_ [Morgana]]
 [s][vp 9 2 65535 42451 0 0]De jeito nenhum! Ele é realmente inteligente?[n][f 1 2 180][e]
@@ -1479,7 +1479,7 @@
 [s][vp 9 2 65535 42705 0 0]Meu irmão é o que está na equipe de pista.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_030_03_ [Morgana]]
-[s][vp 9 2 65535 37553 0 0]Você vai continuar o vôlei na faculdade,[n]certo?[n]Talvez nos encontremos em uma partida![n][f 1 2 180][e]
+[s][vp 9 2 65535 37553 0 0]Você vai continuar o vôlei na faculdade,[n]certo? Talvez nos encontremos em uma partida![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_030_04_ [Morgana]]
 [s][vp 9 2 65535 42701 0 0]Ele sempre será o treinador.[n][f 1 2 180][e]

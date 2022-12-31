@@ -36,7 +36,7 @@
 [s][bup 0 106 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sim, eu esperava tanto...[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Hifumi]]
-[s][bup 0 106 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Meu pai me fez fazer exercícios de[n]treinamento de imagem quando eu era mais[n]jovem, para me ajudar a aprender as[n]regras...[n][f 1 3 65535][w][e]
+[s][bup 0 106 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Meu pai me fez fazer exercícios de[n]treinamento de imagem quando eu era mais[n]jovem, para me ajudar a aprender as regras...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Gradualmente, comecei a ver o quadro de[n]shogi como se fosse meu próprio reino...[n][f 1 3 65535][w][e]
 [s][bup 0 106 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu me diverti inventando histórias e[n]estratégias para meus, hum, assuntos... no[n]entanto...[n][f 1 3 65535][w][e]
 

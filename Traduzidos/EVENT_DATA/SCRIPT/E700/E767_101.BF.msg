@@ -51,7 +51,7 @@
 [s][bup 0 10 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 57058 65535 0]Isso é tipo de estressante, não é?[n]Mas estou confiante na minha capacidade de[n]me concentrar![n][f 1 3 65535][w][e]
 
 [msg MSG_PreBreak_Ryuji [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 7024 65535 0]Essa intensidade logo antes do início do[n]jogo...[n]Eu amo isso![n][f 1 3 65535][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 7024 65535 0]Essa intensidade logo antes do início do[n]jogo... Eu amo isso![n][f 1 3 65535][w][e]
 
 [msg MSG_PreBreak_moru [Morgana]]
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 0 1156 65535 0]Você vai ir ousadamente, ou com cautela...?[n]A decisão aqui é importante.[n][f 1 3 65535][w][e]
@@ -69,7 +69,7 @@
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 9142 65535 0]Esse som quando as bolas se dispersam é tão[n]gratificante![n][f 1 3 65535][w][e]
 
 [msg MSG_PreBreak_Haru [Haru]]
-[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 53541 65535 0]Se você não ficar calmo, isso levará ao[n]fracasso.[n]Ok, apenas relaxe...[n][f 1 3 65535][w][e]
+[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 53541 65535 0]Se você não ficar calmo, isso levará ao[n]fracasso. Ok, apenas relaxe...[n][f 1 3 65535][w][e]
 
 [msg MSG_PreBreak_Akechi [Akechi]]
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 8020 65535 0]Agora, devemos ver o que você pode fazer?[n][f 1 3 65535][w][e]
@@ -304,7 +304,7 @@
 [s][vp 8 2 0 0 65535 0]É chamado [clr 3][var 0][clr 27].[n]Abrange tudo, desde o básico até aplicações[n]práticas.[n][f 1 3 65535][w][e]
 
 [msg MSG_TenchoInfo_1st_003 [Casually Dressed Man]]
-[s][vp 8 2 0 0 65535 0]O único problema é que é um livro bastante[n]raro.[n]Você pode ter alguma dificuldade em[n]encontrá-lo.[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0]O único problema é que é um livro bastante[n]raro. Você pode ter alguma dificuldade em[n]encontrá-lo.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]Você pode ter uma chance melhor de obtê-lo[n]em um [n][clr 2]loja especializada [clr 27]Isso vende suprimentos esportivos, em[n]oposição a uma livraria comum.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]Opa, eu não queria segurá-lo bem quando você[n]estava saindo. Por favor, volte.[n][f 1 3 65535][w][e]
 

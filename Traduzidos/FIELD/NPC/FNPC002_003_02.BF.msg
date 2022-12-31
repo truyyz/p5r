@@ -583,7 +583,7 @@
 [s][vp 9 2 65535 42152 0 0]Senpai se machucou... certo?[n]Não se curou estranhamente rápido?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_030_06_ [Gossipy Female Student]]
-[s][vp 9 2 65535 42301 0 0]Ele está fazendo auto-treinamento hoje[n]também?[n]O que aconteceu com ele?[n][f 1 2 180][e]
+[s][vp 9 2 65535 42301 0 0]Ele está fazendo auto-treinamento hoje[n]também? O que aconteceu com ele?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_031_01_ [Gossipy Female Student]]
 [s][vp 9 2 65535 42254 0 0]Quantos anos tem o seu avô?[n]Ele não mudou de antes, aposto.[n][f 1 2 180][e]
@@ -619,7 +619,7 @@
 [s][vp 9 2 65535 42800 0 0]Ela está na corrida para se tornar uma[n]medalhista, certo?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_601_03_ [Gossipy Female Student]]
-[s][vp 9 2 65535 43154 0 0]Aquele com a fita no cabelo dela, você quer[n]dizer?[n]Ela parece muito fofa.[n][f 1 2 180][e]
+[s][vp 9 2 65535 43154 0 0]Aquele com a fita no cabelo dela, você quer[n]dizer? Ela parece muito fofa.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_601_04_ [Gossipy Female Student]]
 [s][vp 9 2 65535 43100 0 0]Os professores estão esperando muito com ela.[n][f 1 2 180][e]

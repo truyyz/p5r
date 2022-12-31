@@ -48,7 +48,7 @@
 [s][f 5 14]Vou ligar imediatamente.[e]
 
 [msg MND_COOP_DOUZOKUSEI]
-[s]Eu sinto que posso me aproximar de[n]Kawakami graças ao [n][var 2][n]Persona [clr 1][var 5][clr 27]...[n][w][e]
+[s]Eu sinto que posso me aproximar de[n]Kawakami graças ao [n][var 2] Persona [clr 1][var 5][clr 27]...[n][w][e]
 
 [msg MSG_MONEY_NG_MORGANA [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Ei... você só tem [var 1]Yen.[n][f 1 3 65535][w][e]

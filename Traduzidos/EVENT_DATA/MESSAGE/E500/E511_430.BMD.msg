@@ -110,6 +110,6 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 38 65535 0]Ainda não temos idéia do que queremos fazer[n]daqui em diante, no entanto...[n][f 1 3 65535][w][e]
 
 [msg MSG_033_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 39 65535 0]Temos tempo. Maruki disse que vai esperar[n]até [n][clr 2]3 de fevereiro [clr 27]antes...[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 39 65535 0]Temos tempo. Maruki disse que vai esperar[n]até  [clr 2]3 de fevereiro [clr 27]antes...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 40 65535 0]Vamos realmente pensar sobre isso antes de[n]tomar nossa decisão.[n][f 1 3 65535][w][e]
 

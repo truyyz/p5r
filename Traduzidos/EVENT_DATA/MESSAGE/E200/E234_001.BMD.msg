@@ -1,5 +1,5 @@
 [msg MSG_000_0_0 [Ryuji]]
-[s][bup 0 2 301 65535 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]Ahh, banheiras enormes são realmente as[n]melhores.[n]Ann's Missin 'Out.[n][f 1 3 65535][w][e]
+[s][bup 0 2 301 65535 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]Ahh, banheiras enormes são realmente as[n]melhores. Ann's Missin 'Out.[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Yusuke]]
 [s][bup 0 5 703 65535 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Está um pouco quente embora...[n][f 1 3 65535][w][e]

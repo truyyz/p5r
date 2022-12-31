@@ -7,7 +7,7 @@
 
 [msg D08_02_e453_103_AF01_sel_2 [Yusuke]]
 [s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4159 65535 0]Então talvez todo mundo esteja no mesmo[n]estado em que eu estava...[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Joker, não consigo sentir sombras nas[n]proximidades.[n]Vou permanecer em espera neste local.[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Joker, não consigo sentir sombras nas[n]proximidades. Vou permanecer em espera neste local.[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Peço que você salve o resto de nossos[n]colegas de equipe.[n][w][e]
 [s][bup 0 5 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4032 65535 0]Seria... provavelmente melhor se você o[n]fizesse sozinho.[n][w][e]
 

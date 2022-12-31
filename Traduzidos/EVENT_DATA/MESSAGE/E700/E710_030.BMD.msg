@@ -131,7 +131,7 @@
 
 [msg MSG_034_0_0 [Chihaya]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 113 7 300 1][vp 8 2 0 10029 65535 0]M-My, ficou tão tarde![n][f 1 3 65535][w][e]
-[s][bup 0 113 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 42 5 100][f 4 24 0 4 0 1 5 0]Eu deveria começar a fazer as malas para[n]hoje.[n]Vejo você na próxima vez![n][f 1 3 65535][w][e]
+[s][bup 0 113 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 42 5 100][f 4 24 0 4 0 1 5 0]Eu deveria começar a fazer as malas para[n]hoje. Vejo você na próxima vez![n][f 1 3 65535][w][e]
 
 [msg MSG_036_0_0 [Chihaya]]
 [s][vp 8 2 0 10128 65535 0]Até a próxima.[n][f 1 3 65535][w][e]

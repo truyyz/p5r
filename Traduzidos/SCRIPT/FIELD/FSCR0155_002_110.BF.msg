@@ -5,7 +5,7 @@
 [s][bup 0 4 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6029 65535 0]O que agora!?[n][w][e]
 
 [msg D04_01_e295_010_mes03 [Yusuke]]
-[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Mesmo se quiséssemos perguntar a Futaba o[n]que está acontecendo, parece que a porta[n]está fechada.[n]O que deveríamos fazer?[n][w][e]
+[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Mesmo se quiséssemos perguntar a Futaba o[n]que está acontecendo, parece que a porta[n]está fechada. O que deveríamos fazer?[n][w][e]
 
 [msg D04_01_e295_010_mes04 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu acho que nossa melhor opção está se[n]retirando por enquanto.[n][w][e]

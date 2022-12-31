@@ -5,10 +5,10 @@
 [s]Bangle fina com um design simples e chique.[n]Pode ser usado por homens.[n][f 1 2 65535][e]
 
 [msg MSG_GIFT_HELP_02]
-[s]Uma caixa de sabores variados de um lanche[n]popular.[n]Pode fazer um bom presente.[n][f 1 2 65535][e]
+[s]Uma caixa de sabores variados de um lanche[n]popular. Pode fazer um bom presente.[n][f 1 2 65535][e]
 
 [msg MSG_GIFT_HELP_03]
-[s]Uma variedade de ramen de locais em todo o[n]Japão.[n]Para o amante do macarrão.[n][f 1 2 65535][e]
+[s]Uma variedade de ramen de locais em todo o[n]Japão. Para o amante do macarrão.[n][f 1 2 65535][e]
 
 [msg MSG_GIFT_HELP_04]
 [s]Vitaminas que cobrem completamente suas[n]necessidades de saúde.[n]Para o corpo movimentado.[n][f 1 2 65535][e]
@@ -35,7 +35,7 @@
 [s]Pudim feito de Uji Matcha Green Tea. Para o[n]guloso.[n][f 1 2 65535][e]
 
 [msg MSG_GIFT_HELP_12]
-[s]Trufas de chocolate feitas com detalhes[n]meticulosos.[n]Para o guloso.[n][f 1 2 65535][e]
+[s]Trufas de chocolate feitas com detalhes[n]meticulosos. Para o guloso.[n][f 1 2 65535][e]
 
 [msg MSG_GIFT_HELP_13]
 [s]Um bolo com textura refinada coberta com[n]açúcar grosso.[n]Para o guloso.[n][f 1 2 65535][e]
@@ -167,7 +167,7 @@
 
 [msg MND_GIFT_002_006 [Makoto]]
 [s][bup 0 6 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 39 5 100]Wha-!? Mas isso não era caro?[n]Tem certeza de que quer que eu tenha?[n][f 1 3 65535][w][e]
-[s][bup 0 6 1 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 36 5 100][vp 8 2 0 2031 65535 0]Isso é ótimo... vou ter certeza de apreciar[n]isso.[n]Obrigado, [f 4 2].[n][f 1 3 65535][w][e]
+[s][bup 0 6 1 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 36 5 100][vp 8 2 0 2031 65535 0]Isso é ótimo... vou ter certeza de apreciar[n]isso. Obrigado, [f 4 2].[n][f 1 3 65535][w][e]
 
 [msg MND_GIFT_002_007]
 [s][vp 8 0 0 0 65535 0]Parece que eu era capaz de tocar o coração[n]de Makoto![n][f 1 3 65535][w][e]
@@ -881,11 +881,11 @@
 [s][vp 8 0 0 0 65535 0]Parece que eu realmente capturei o coração[n]de Sumire![n][f 1 3 65535][w][e]
 
 [msg MND_GIFT_022_006 [Kasumi]]
-[s][bup 0 10 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 42 5 100]S-senpai... tem certeza de que posso ter[n]isso?[n]Sério?[n][f 1 3 65535][w][e]
+[s][bup 0 10 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 42 5 100]S-senpai... tem certeza de que posso ter[n]isso? Sério?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 57077 65535 0]Obrigado! Estou tão feliz por você me dar[n]algo assim! Vou usar todos os dias![n][f 1 3 65535][w][e]
 
 [msg MND_GIFT_022_006_smr [Sumire]]
-[s][bup 0 10 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 42 5 100]S-senpai... tem certeza de que posso ter[n]isso?[n]Sério?[n][f 1 3 65535][w][e]
+[s][bup 0 10 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 42 5 100]S-senpai... tem certeza de que posso ter[n]isso? Sério?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 57077 65535 0]Oh, muito obrigado! Isso é tão gentil da sua[n]parte... sinto que deveria mantê-lo preso[n]em segurança em vez de usá-lo.[n][f 1 3 65535][w][e]
 
 [msg MND_GIFT_022_007]
@@ -1060,15 +1060,15 @@
 
 [msg MND_GIFT_007_002 [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 36 5 100]Uau, há uma merda aqui! Oh cara, eu não sei[n]qual tentar primeiro![n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu não vou me preocupar com os lanches da[n]meia-noite por um longo tempo com isso![n]Obrigado, [n][f 4 2]![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu não vou me preocupar com os lanches da[n]meia-noite por um longo tempo com isso![n]Obrigado, [f 4 2]![n][f 1 3 65535][w][e]
 
 [msg MND_GIFT_007_003]
 [s][vp 8 0 0 0 65535 0]Parece que eu realmente capturei o coração[n]de Ryuji![n][f 1 3 65535][w][e]
 
 [msg MND_GIFT_007_004 [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 36 5 100]Você está... você está dando isso para mim?[n]Sério!?[n]Isso é loucura, cara, cara![n][f 1 3 65535][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 36 5 100]Você está... você está dando isso para mim?[n]Sério!? Isso é loucura, cara, cara![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não é esse o modelo mais recente também?[n]Acabei de ver um comercial para isso! Minha[n]mãe está dyin 'para conseguir um...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você está olhando para o novo animal de[n]estimação da família Sakamoto- tudo graças[n]a você! Sério, obrigado, [n][f 4 2]![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você está olhando para o novo animal de[n]estimação da família Sakamoto- tudo graças[n]a você! Sério, obrigado, [f 4 2]![n][f 1 3 65535][w][e]
 
 [msg MND_GIFT_007_005]
 [s][vp 8 0 0 0 65535 0]Parece que eu realmente capturei o coração[n]de Ryuji![n][f 1 3 65535][w][e]
@@ -1187,7 +1187,7 @@
 [s][vp 8 0 0 0 65535 0]Parece que eu realmente capturei o coração[n]de Shinya![n][f 1 3 65535][w][e]
 
 [msg MND_GIFT_016_004 [Shinya]]
-[s][bup 0 110 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 36 5 100]Ooh, estas são a mais recente mania da[n]escola![n]Fiquei curioso como eles são![n][f 1 3 65535][w][e]
+[s][bup 0 110 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 36 5 100]Ooh, estas são a mais recente mania da[n]escola! Fiquei curioso como eles são![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Estou tão feliz por ter um dos meus.[n]Obrigado, [f 4 2]-san![n][f 1 3 65535][w][e]
 
 [msg MND_GIFT_016_005]
@@ -1588,15 +1588,15 @@
 [s][f 4 10 65535 0 0][vp 8 2 0 57077 65535 0]Obrigado! Eu vou valorizar![n][f 1 3 65535][w][e]
 
 [msg MND_GIFT_022_006_JERSEY [Kasumi]]
-[s][bup 0 10 601 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 42 5 100]S-senpai... tem certeza de que posso ter[n]isso?[n]Sério?[n][f 1 3 65535][w][e]
+[s][bup 0 10 601 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 42 5 100]S-senpai... tem certeza de que posso ter[n]isso? Sério?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 57077 65535 0]Obrigado! Estou tão feliz por você me dar[n]algo assim! Vou usar todos os dias![n][f 1 3 65535][w][e]
 
 [msg MND_GIFT_022_006_smr_JER [Sumire]]
-[s][bup 0 10 961 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 42 5 100]S-senpai... tem certeza de que posso ter[n]isso?[n]Sério?[n][f 1 3 65535][w][e]
+[s][bup 0 10 961 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 42 5 100]S-senpai... tem certeza de que posso ter[n]isso? Sério?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 57077 65535 0]Oh, muito obrigado! Isso é tão gentil da sua[n]parte... sinto que deveria mantê-lo preso[n]em segurança em vez de usá-lo.[n][f 1 3 65535][w][e]
 
 [msg MND_GIFT_022_006_smr_JER_2 [Sumire]]
-[s][bup 0 10 601 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 42 5 100]S-senpai... tem certeza de que posso ter[n]isso?[n]Sério?[n][f 1 3 65535][w][e]
+[s][bup 0 10 601 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 42 5 100]S-senpai... tem certeza de que posso ter[n]isso? Sério?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 57077 65535 0]Oh, muito obrigado! Isso é tão gentil da sua[n]parte... sinto que deveria mantê-lo preso[n]em segurança em vez de usá-lo.[n][f 1 3 65535][w][e]
 
 [msg MND_GIFT_022_008_JERSEY [Kasumi]]
@@ -1625,21 +1625,21 @@
 
 [msg MND_GIFT_007_002_SCHOOL [Ryuji]]
 [s][bup 0 2 201 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 36 5 100]Uau, há uma merda aqui! Oh cara, eu não sei[n]qual tentar primeiro![n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu não vou me preocupar com os lanches da[n]meia-noite por um longo tempo com isso![n]Obrigado, [n][f 4 2]![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu não vou me preocupar com os lanches da[n]meia-noite por um longo tempo com isso![n]Obrigado, [f 4 2]![n][f 1 3 65535][w][e]
 
 [msg MND_GIFT_007_002_GYM [Ryuji]]
 [s][bup 0 2 601 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 36 5 100]Uau, há uma merda aqui! Oh cara, eu não sei[n]qual tentar primeiro![n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu não vou me preocupar com os lanches da[n]meia-noite por um longo tempo com isso![n]Obrigado, [n][f 4 2]![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu não vou me preocupar com os lanches da[n]meia-noite por um longo tempo com isso![n]Obrigado, [f 4 2]![n][f 1 3 65535][w][e]
 
 [msg MND_GIFT_007_004_SCHOOL [Ryuji]]
-[s][bup 0 2 201 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 36 5 100]Você está... você está dando isso para mim?[n]Sério!?[n]Isso é loucura, cara, cara![n][f 1 3 65535][w][e]
+[s][bup 0 2 201 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 36 5 100]Você está... você está dando isso para mim?[n]Sério!? Isso é loucura, cara, cara![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não é esse o modelo mais recente também?[n]Acabei de ver um comercial para isso! Minha[n]mãe está dyin 'para conseguir um...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você está olhando para o novo animal de[n]estimação da família Sakamoto- tudo graças[n]a você! Sério, obrigado, [n][f 4 2]![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você está olhando para o novo animal de[n]estimação da família Sakamoto- tudo graças[n]a você! Sério, obrigado, [f 4 2]![n][f 1 3 65535][w][e]
 
 [msg MND_GIFT_007_004_GYM [Ryuji]]
-[s][bup 0 2 601 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 36 5 100]Você está... você está dando isso para mim?[n]Sério!?[n]Isso é loucura, cara, cara![n][f 1 3 65535][w][e]
+[s][bup 0 2 601 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 36 5 100]Você está... você está dando isso para mim?[n]Sério!? Isso é loucura, cara, cara![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não é esse o modelo mais recente também?[n]Acabei de ver um comercial para isso! Minha[n]mãe está dyin 'para conseguir um...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você está olhando para o novo animal de[n]estimação da família Sakamoto- tudo graças[n]a você! Sério, obrigado, [n][f 4 2]![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você está olhando para o novo animal de[n]estimação da família Sakamoto- tudo graças[n]a você! Sério, obrigado, [f 4 2]![n][f 1 3 65535][w][e]
 
 [msg MND_GIFT_007_006_SCHOOL [Ryuji]]
 [s][bup 0 2 201 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 36 5 100]H-Holy... tem certeza de que eu posso ter[n]isso?[n][f 1 3 65535][w][e]

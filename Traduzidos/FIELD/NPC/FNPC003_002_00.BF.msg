@@ -202,7 +202,7 @@
 
 [msg MSG_JYORENKYAKU_008_0_0 [Pompous Customer]]
 [s][f 4 23 1 0 3 10 0 0][vp 8 2 1 0 0 0]Uma força que tem sido uma ameaça à[n]sociedade foi destruída pelos ladrões[n]fantasmas.[n][w][e]
-[s][vp 8 2 1 0 0 0]Parece que o mundo será afetado por tudo[n]isso...[n]Você não acha isso também?[n][w][e]
+[s][vp 8 2 1 0 0 0]Parece que o mundo será afetado por tudo[n]isso... Você não acha isso também?[n][w][e]
 
 [sel SEL_JYORENKYAKU_008_0_0 top]
 [s]Eu penso que sim.[e]
@@ -783,7 +783,7 @@
 [s][f 4 23 1 14 14 10 13 10][vp 8 2 1 0 14 0]O que vai acontecer com as eleições? Eles[n]disseram que Shido cometeu um crime...[n][w][e]
 
 [msg MSG_RUBURAN_CUSTOM02_006_4 [Middle-Aged Office Worker]]
-[s][f 4 23 1 13 14 10 13 10][vp 8 2 1 0 13 0]Tenho certeza de que a polícia vai lidar com[n]isso.[n]Enfim, chega disso.[n]Temos que começar a trabalhar.[n][w][e]
+[s][f 4 23 1 13 14 10 13 10][vp 8 2 1 0 13 0]Tenho certeza de que a polícia vai lidar com[n]isso. Enfim, chega disso.[n]Temos que começar a trabalhar.[n][w][e]
 
 [msg MSG_KIDOTTA_001_0_0 [Pompous Customer]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Ah, peço desculpas se já fiquei muito[n]bem-vindo.[n][w][e]

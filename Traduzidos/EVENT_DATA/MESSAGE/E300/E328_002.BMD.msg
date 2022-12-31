@@ -52,7 +52,7 @@
 [s][bup 0 8 102 65535 0][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]Mona é nosso principal objetivo aqui.[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Makoto]]
-[s][bup 0 6 100 65535 0][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Ele não parece estar em nenhum lugar por[n]perto.[n]Vamos pesquisar mais.[n][f 1 3 65535][w][e]
+[s][bup 0 6 100 65535 0][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Ele não parece estar em nenhum lugar por[n]perto. Vamos pesquisar mais.[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Ryuji]]
 [s][bup 0 2 102 65535 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Droga...[n][f 1 3 65535][w][e]

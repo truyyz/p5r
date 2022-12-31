@@ -53,7 +53,7 @@
 
 [msg MSG_Stage01_start_1st_00_3 [Woman in White Lab Coat]]
 [s][vp 8 2 0 59553 65535 0]... você já está acordado. Esse é um sinal[n]promissor.[n][f 1 3 65535][w][e]
-[s][vp 8 2 0 59553 65535 0]Meu nome é... bem, basta me chamar de[n]Osagiri.[n]Fui encarregado do seu treinamento.[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 59553 65535 0]Meu nome é... bem, basta me chamar de[n]Osagiri. Fui encarregado do seu treinamento.[n][f 1 3 65535][w][e]
 
 [msg MSG_Stage01_start_1st_00_4 [Osagiri]]
 [s][vp 8 2 0 59553 65535 0]Bem-vindo ao meu laboratório espacial. Você[n]é o lutador mais forte que eu já criei.[n][f 1 3 65535][w][e]
@@ -78,7 +78,7 @@
 
 [msg MSG_Stage02_01_002 [Osagiri]]
 [s][vp 8 2 0 59553 65535 0]Pombo, você pode me ouvir? Este é Osagiri.[n][f 1 3 65535][w][e]
-[s][vp 8 2 0 59553 65535 0]A partir de agora, vou me comunicar com você[n]através deste dispositivo COM no seu[n]capacete.[n]Vou fornecer apoio do laboratório.[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 59553 65535 0]A partir de agora, vou me comunicar com você[n]através deste dispositivo COM no seu[n]capacete. Vou fornecer apoio do laboratório.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 59553 65535 0]Estou recebendo leituras de um infinibug um[n]pouco ao norte de você. Consulte os dados[n]que enviei antes de entrar em batalha.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 59553 65535 0]E lembre-se de que isso não é uma simulação,[n]mas uma batalha real. Falhar não é uma[n]opção.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 59553 65535 0]Como eu disse antes, você agirá sozinho até[n]ser suficientemente capaz. Seu valor está[n]sendo testado enquanto você coloca sua vida[n]em risco.[n][f 1 3 65535][w][e]
@@ -434,7 +434,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Há Osagiri... quero dizer Alya, líder de[n]Zylam![n][f 1 3 65535][w][e]
 
 [msg MSG_Stage03_04_051 [Alya]]
-[s][vp 8 2 0 59553 65535 0]Suponho que o experimento foi um fracasso...[n]Parece que vou ter que consertar você! Pegue[n]isso![n]Rod do crânio![n][f 1 3 65535][w][e]
+[s][vp 8 2 0 59553 65535 0]Suponho que o experimento foi um fracasso...[n]Parece que vou ter que consertar você! Pegue[n]isso! Rod do crânio![n][f 1 3 65535][w][e]
 
 [msg MSG_Stage03_04_052 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 2 0 1181 65535 0]Temos que derrubar Alya! Feather Phoenix![n][f 1 3 65535][w][e]

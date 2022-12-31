@@ -112,7 +112,7 @@
 [s][bup 0 10 824 0 0][f 4 10 65535 0 0][vp 8 2 0 57064 65535 0]Huh!? O que isso deve...?[n][f 1 3 65535][w][e]
 
 [msg MSG_030_0_0 [Coach Hiraguchi]]
-[s][bup 0 218 501 0 0][f 4 10 65535 0 0][vp 8 0 0 0 5 0]Eu nunca quis chamar a atenção para isso,[n]mas Kasumi teve uma sequência muito[n]competitiva.[n]Ela odiava perder.[n][f 1 3 65535][w][e]
+[s][bup 0 218 501 0 0][f 4 10 65535 0 0][vp 8 0 0 0 5 0]Eu nunca quis chamar a atenção para isso,[n]mas Kasumi teve uma sequência muito[n]competitiva. Ela odiava perder.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 5 0]Ela sempre me dizia...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 5 0]Ela estava com ciúmes de sua irmãzinha e seu[n]estilo delicado e gracioso. "Eu não posso[n]perder para ela", disse ela. Ela queria que[n]você visse isso.[n][f 1 3 65535][w][e]
 

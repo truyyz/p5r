@@ -59,7 +59,7 @@
 
 [msg MES_GROUP5_02 [Sojiro]]
 [s][bup 0 103 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 5135 65535 0]Se você é consciente o suficiente para[n]pensar assim, provavelmente está bem.[n][w][e]
-[s][bup 0 103 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Se você pensa que está acolhendo o seu[n]jeito, basta olhar para as pessoas ao seu[n]redor.[n]Eles terão certeza de pegá-lo.[n][w][e]
+[s][bup 0 103 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Se você pensa que está acolhendo o seu[n]jeito, basta olhar para as pessoas ao seu[n]redor. Eles terão certeza de pegá-lo.[n][w][e]
 
 [msg MES_GROUP5_03 [Sae]]
 [s][bup 0 105 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 21020 65535 0]Sim, você está certo.[n][w][e]

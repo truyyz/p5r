@@ -207,7 +207,7 @@
 
 [msg MSG_042_0_0 [Becky]]
 [s][vp 1 0 0 0 0 0]......[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]Hmmm, vou esperar para fornecer esses outros[n]"serviços" até que você amadureça um pouco,[n]mestre.[n][clr 2][f 1 9 0][clr 27][n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Hmmm, vou esperar para fornecer esses outros[n]"serviços" até que você amadureça um pouco,[n]mestre. [clr 2][f 1 9 0][clr 27][n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Sooo... eu vou agora.[clr 2][f 1 9 0][clr 27][n][f 1 3 65535][w][e]
 
 [msg MSG_043_0_0 [Ryuji's Voice]]

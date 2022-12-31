@@ -46,7 +46,7 @@
 
 [msg MSG_011_0_0 [Ryuji]]
 [s][f 5 14]Sim, esse é o chamado do nosso líder![n][w][e]
-[s][f 5 14]Estaremos contando com você mais do que[n]nunca, [n][f 4 2]![n][w][e]
+[s][f 5 14]Estaremos contando com você mais do que[n]nunca,  [f 4 2]![n][w][e]
 
 [sel SEL_012_0_0 top]
 [s][f 5 14]Tenho suas costas.[e]

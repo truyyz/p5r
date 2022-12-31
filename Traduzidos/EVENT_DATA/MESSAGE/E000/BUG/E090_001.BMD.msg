@@ -583,7 +583,7 @@
 
 [msg msg_combine_PERSONA152 [Kushi Mitama]]
 [s]Eu estou [clr 1][var 1][clr 27].[n][w][e]
-[s]Vou trazer um pouco de vigor de volta ao seu[n]corpo.[n]Vamos lá, vamos conferir a natureza[n]misteriosa deste mundo![n][w][e]
+[s]Vou trazer um pouco de vigor de volta ao seu[n]corpo. Vamos lá, vamos conferir a natureza[n]misteriosa deste mundo![n][w][e]
 
 [msg msg_combine_PERSONA153 [Ara Mitama]]
 [s]Eu estou [clr 1][var 1][clr 27]![n][w][e]

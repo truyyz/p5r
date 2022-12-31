@@ -103,7 +103,7 @@
 
 [msg MSG_027_0_0 [Trendy Guy]]
 [s][vp 8 2 0 40152 4 0]Um antigo console do jogo? Por que você quer[n]uma coisa assim?[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 4 0]Você pode obter jogos gratuitamente hoje em[n]dia.[n]Tudo que você precisa é um smartphone.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 4 0]Você pode obter jogos gratuitamente hoje em[n]dia. Tudo que você precisa é um smartphone.[n][f 1 3 65535][w][e]
 
 [msg MSG_028_0_0 [Gamer]]
 [s][vp 8 0 0 0 5 0]Como você não pode apreciar jogos retrô?[n]Não seja tão casual.[n][f 1 3 65535][w][e]
@@ -391,7 +391,7 @@
 [s][vp 8 0 0 0 4 0]E se os ladrões fantasmas lhe dessem uma[n]mudança de coração?[n][f 1 3 65535][w][e]
 
 [msg MSG_099_0_0 [Very Excited Guy]]
-[s][vp 8 2 0 37850 4 0]Eu não posso acreditar no tamanho da[n]recompensa![n]Devemos procurar os phantom ladrões![n][f 1 3 65535][w][e]
+[s][vp 8 2 0 37850 4 0]Eu não posso acreditar no tamanho da[n]recompensa! Devemos procurar os phantom ladrões![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 4 0]Akechi sugeriu que eles fossem para esta[n]escola, certo?[n][f 1 3 65535][w][e]
 
 [msg MSG_100_0_0 [Pallid Fella]]
@@ -467,7 +467,7 @@
 [msg MSG_118_0_0 [Excited Girl]]
 [s][vp 8 2 0 38300 5 0]Tínhamos assentos na primeira fila. Eu[n]poderia praticamente alcançar e tocar[n]Akechi-kun! Eu estava tão nervoso![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 5 0]Ele estava realmente trabalhando tão[n]uniforme e sem parecer um esnobe. Ele é[n]natural em falar em público.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 5 0]Ouvi dizer que ele é um órfão que cresceu[n]pobre.[n]É parte do que o torna tão incrível![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 5 0]Ouvi dizer que ele é um órfão que cresceu[n]pobre. É parte do que o torna tão incrível![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 5 0]Ele quer que sua última memória do ensino[n]médio esteja capturando os ladrões Phantom.[n]Este não é um jogo para ele![n][f 1 3 65535][w][e]
 
 [msg MSG_119_0_0 [Loud Girl]]
@@ -562,7 +562,7 @@
 [s][vp 8 0 0 0 4 0]Hum, você está bem? Eu, uh... eu sei que[n]você foi vê-lo todos os dias...[n][f 1 3 65535][w][e]
 
 [msg MSG_142_0_0 [Depressed Girl]]
-[s][vp 8 0 0 0 5 0]Como ele pode se sair...? Eu me sinto tão[n]doente.[n]Ainda havia tantas coisas que eu queria[n]falar com ele...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 5 0]Como ele pode se sair...? Eu me sinto tão[n]doente. Ainda havia tantas coisas que eu queria[n]falar com ele...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 4 0]Por que ele não pode simplesmente ficar para[n]sempre...[n]O que devo fazer agora...?[n][f 1 3 65535][w][e]
 
 [msg MSG_143_0_0 [Laid-Back Girl]]

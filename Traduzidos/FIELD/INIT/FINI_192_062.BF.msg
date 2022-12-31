@@ -97,7 +97,7 @@
 [s][bup 0 221 0 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 56704 65535 0]Oh, senhor![n][w][e]
 
 [msg MSG_SHOP_1ST_MSG02 [Jose]]
-[s][bup 0 221 0 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Quando você conseguir flores, traga-as para[n]mim![n]Eu vou à frente de vocês![n][w][e]
+[s][bup 0 221 0 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Quando você conseguir flores, traga-as para[n]mim! Eu vou à frente de vocês![n][w][e]
 
 [msg MSG_ACCIDENT_TUTORIAL01 [Ryuji]]
 [s][bup 0 2 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 1 0 0]Uau! O que diabos aconteceu?[n]Está tão escuro![n][w][e]

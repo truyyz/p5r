@@ -41,5 +41,5 @@
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]TCH... bem, tanto faz. Se movendo.[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1163 65535 0]Eu gosto daquela aura que você tem sobre[n]você.[n]É como se nada chegasse até você.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1163 65535 0]Eu gosto daquela aura que você tem sobre[n]você. É como se nada chegasse até você.[n][f 1 3 65535][w][e]
 

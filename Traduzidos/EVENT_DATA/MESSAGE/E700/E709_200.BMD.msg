@@ -46,7 +46,7 @@
 [s]Está bem. Entendo.[e]
 
 [msg MSG_010_0_0 [Futaba]]
-[s][bup 0 8 2 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]... Não minta para mim. Você está bravo[n]comigo.[n]Você tem que ser.[n][f 1 3 65535][w][e]
+[s][bup 0 8 2 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]... Não minta para mim. Você está bravo[n]comigo. Você tem que ser.[n][f 1 3 65535][w][e]
 [s][bup 0 8 5 65535 0][f 4 10 65535 0 0][f 4 24 0 4 6 44 5 100][vp 8 2 0 9170 65535 0]Por que você não seria!? Eu travei você![n]Você não entende isso!?[n][f 1 3 65535][w][e]
 
 [sel SEL_011_0_0 top]
@@ -93,7 +93,7 @@
 [msg MSG_022_0_0 [Futaba]]
 [s][bup 0 8 3 65535 0][f 4 10 65535 0 0][f 4 24 0 4 6 38 5 100][vp 8 2 0 0 65535 0]Eu sei... quero dizer, eu sei agora que isso[n]está tudo na minha cabeça.[n][f 1 3 65535][w][e]
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Mas eu queria falar mais com ela.[n]Vá em viagens de compras e outras coisas.[n]Não sei, apenas... eu gostaria de ter mais[n]tempo com ela.[n][f 1 3 65535][w][e]
-[s][bup 0 8 2 65535 0][f 4 10 65535 0 0][vp 8 2 0 9197 65535 0]B-mas imóvel, como... não podemos apenas[n]viver totalmente dependentes da realidade[n]do Dr. Maruki![n]Direita?[n][f 1 3 65535][w][e]
+[s][bup 0 8 2 65535 0][f 4 10 65535 0 0][vp 8 2 0 9197 65535 0]B-mas imóvel, como... não podemos apenas[n]viver totalmente dependentes da realidade[n]do Dr. Maruki! Direita?[n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Futaba]]
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Mesmo se eu não conseguir mais ver minha[n]mãe...[n][f 1 3 65535][w][e]

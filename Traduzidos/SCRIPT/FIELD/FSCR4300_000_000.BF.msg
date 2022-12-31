@@ -2,22 +2,22 @@
 [s]......[n][w][e]
 
 [msg SYS_MISSION_START_KAMOSH]
-[s]Agora você pode gastar seu tempo livremente[n]depois da escola. Tente roubar o coração do[n]seu alvo pelo [n][clr 2]data limite [clr 27].[n][w][e]
+[s]Agora você pode gastar seu tempo livremente[n]depois da escola. Tente roubar o coração do[n]seu alvo pelo  [clr 2]data limite [clr 27].[n][w][e]
 
 [msg SYS_MISSION_START_KANESH]
-[s]O plano de mudar o coração de Kaneshiro[n]começou. Tente roubar o coração do seu alvo[n]pelo [n][clr 2]data limite [clr 27].[n][w][e]
+[s]O plano de mudar o coração de Kaneshiro[n]começou. Tente roubar o coração do seu alvo[n]pelo  [clr 2]data limite [clr 27].[n][w][e]
 
 [msg SYS_MISSION_START_FUTABA]
-[s]O plano para mudar o coração de Futaba[n]começou. Tente roubar o coração do seu alvo[n]pelo [n][clr 2]data limite [clr 27].[n][w][e]
+[s]O plano para mudar o coração de Futaba[n]começou. Tente roubar o coração do seu alvo[n]pelo  [clr 2]data limite [clr 27].[n][w][e]
 
 [msg SYS_MISSION_START_OKUMUR]
-[s]O plano para mudar o coração de Okumura[n]começou. Tente roubar o coração do seu alvo[n]pelo [n][clr 2]data limite [clr 27].[n][w][e]
+[s]O plano para mudar o coração de Okumura[n]começou. Tente roubar o coração do seu alvo[n]pelo  [clr 2]data limite [clr 27].[n][w][e]
 
 [msg SYS_MISSION_START_SAE]
-[s]O plano para mudar o coração de Sae Niijima[n]começou. Tente roubar o coração do seu alvo[n]pelo [n][clr 2]data limite [clr 27].[n][w][e]
+[s]O plano para mudar o coração de Sae Niijima[n]começou. Tente roubar o coração do seu alvo[n]pelo  [clr 2]data limite [clr 27].[n][w][e]
 
 [msg SYS_MISSION_START_SHIDOH]
-[s]O plano para mudar o coração de Shido[n]começou. Tente roubar o coração do seu alvo[n]pelo [n][clr 2]data limite [clr 27].[n][w][e]
+[s]O plano para mudar o coração de Shido[n]começou. Tente roubar o coração do seu alvo[n]pelo  [clr 2]data limite [clr 27].[n][w][e]
 [s]Ele é duro e conhece bem o metaverso.[n]Certifique-se de fortalecer seus laços para[n]que você esteja [n][clr 2]preparado [clr 27]...[n][w][e]
 
 [msg MSG_NIGHT_MYROOM_FUTABA_ [Morgana]]
@@ -97,7 +97,7 @@
 [s][f 4 23 1 816 3 10 0 0][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 0 1 1 65535 0]Fique no andar de cima enquanto estamos[n]abertos para negócios.[n][f 1 3 65535][w][e]
 
 [msg MSG_NIGHT_MYROOM_0415_00 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Além disso, eu vou acompanhá-lo quando você[n]sair.[n]Não se preocupe, é gratuito.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Além disso, eu vou acompanhá-lo quando você[n]sair. Não se preocupe, é gratuito.[n][w][e]
 [s][bup 0 3 3 0 0][f 4 10 65535 0 0]Seguir-se em forma de gato parece bastante[n]inconveniente, embora...[n][w][e]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0]Bem, é o que é. Vou ter que lidar com ser[n]carregado naquela sua bolsa.[n][w][e]
 
@@ -1016,7 +1016,7 @@
 [msg MSG_DAYTIME_KAWAKAMI_01 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 53101 65535 0]Ei, havia algo acontecendo com Kawakami, não[n]estava? Algo envolvendo chono...[n][w][e]
 [s][f 4 10 65535 0 0]Não tenho certeza do que está acontecendo,[n]mas talvez você deva perguntar a ela sobre[n]isso?[n][w][e]
-[s][f 4 10 65535 0 0]Ela provavelmente ainda está na escola,[n]certo?[n]Vamos procurá-la.[n][w][e]
+[s][f 4 10 65535 0 0]Ela provavelmente ainda está na escola,[n]certo? Vamos procurá-la.[n][w][e]
 
 [msg MSG_DAYTIME_KAWAKAMI_02 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]Você não vai fazer nada sobre Kawakami?[n]Parecia que ela estava com problemas...[n][w][e]
@@ -1076,7 +1076,7 @@
 [s][f 4 10 65535 0 0]Se ele liberar a sujeira que ele tem em[n]todos vocês, você será feito.[n][w][e]
 
 [msg MSG_DAYTIME_D03_0625_AZI [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1174 65535 0]Diga a todos para se encontrarem no[n]esconderijo.[n]Vamos discutir nosso próximo passo.[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1174 65535 0]Diga a todos para se encontrarem no[n]esconderijo. Vamos discutir nosso próximo passo.[n][w][e]
 
 [msg MSG_DAYTIME_D03_LV1 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1002 65535 0]Há [var 0]Dias restantes antes de Kaneshiro realizar[n]sua ameaça. Qual é o plano para hoje?[n][w][e]
@@ -1137,7 +1137,7 @@
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]Vocês não se conheceram uma vez. Você está[n]com calma neste verão inteiro?[n][w][e]
 
 [msg MSG_DAYTIME_D04_0730_AZI [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1174 65535 0]Diga a todos para se encontrarem no[n]esconderijo.[n]Vamos discutir nosso próximo passo.[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1174 65535 0]Diga a todos para se encontrarem no[n]esconderijo. Vamos discutir nosso próximo passo.[n][w][e]
 
 [msg MSG_DAYTIME_D04_LV1 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1002 65535 0]Há [var 0]Dias restantes antes do prazo de Medjed. Não[n]relaxe só porque é verão, ok?[n][w][e]
@@ -1179,7 +1179,7 @@
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1176 65535 0]Eu sei que vocês estão empolgados com a[n]viagem, mas estão se empolgando um pouco.[n][w][e]
 
 [msg MSG_DAYTIME_D05_0919 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1172 65535 0]As pessoas estão começando a se perguntar[n]quando o próximo cartão de visita vai[n]aparecer.[n]Devemos enviá-lo em breve.[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1172 65535 0]As pessoas estão começando a se perguntar[n]quando o próximo cartão de visita vai[n]aparecer. Devemos enviá-lo em breve.[n][w][e]
 [s][f 4 10 65535 0 0]Se Haru foi vendido, os ladrões Phantom[n]nunca o viverão.[n][w][e]
 
 [msg MSG_DAYTIME_D05_LV1 [Morgana]]
@@ -1328,7 +1328,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1172 65535 0]Não deixou sua guarda até que Shido seja[n]acusado, entendeu? E mantenha um perfil[n]baixo.[n][w][e]
 
 [msg MSG_DAYTIME_D10_0112 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Diga a todos para se encontrarem no[n]esconderijo.[n]Todos devemos falar isso antes de nos[n]infiltrarmos no palácio.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Diga a todos para se encontrarem no[n]esconderijo. Todos devemos falar isso antes de nos[n]infiltrarmos no palácio.[n][w][e]
 
 [msg MSG_DAYTIME_D10_0113 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1156 65535 0]Nós temos até [clr 2]3 de fevereiro [clr 27]. Vamos permanecer focados aqui.[n][w][e]
@@ -1460,7 +1460,7 @@
 
 [msg MSG_COOP_AKECHI_OPEN_050 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Kichijoji, hein... Esse é o chefe para você.[n]Ele ainda tem padrões para seus grãos de[n]café.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Temos que defender o sabor especial de[n]LeBlanc.[n]Vamos lá, vamos ir.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Temos que defender o sabor especial de[n]LeBlanc. Vamos lá, vamos ir.[n][w][e]
 
 [msg URANAI_BROKEN_WARRNING [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0]Ei, você não deveria facilitar as dúvidas de[n]Chihaya sobre você?[n][w][e]
@@ -1705,7 +1705,7 @@
 [s]Tenho certeza que você não planeja me pedir,[n]mas ainda assim.[n][w][e]
 
 [msg MSG_014_2_0 [Kawakami]]
-[s][f 5 14]É Beckyyy! Obrigado por me pedir o tempo[n]todo![n]Você é o melhor, mestre![n][w][e]
+[s][f 5 14]É Beckyyy! Obrigado por me pedir o tempo[n]todo! Você é o melhor, mestre![n][w][e]
 [s]Então, eu preciso da sua ajuda novamente.[n]Eu não tenho dinheiro suficiente.[n][w][e]
 
 [msg MSG_014_3_0 [Kawakami]]

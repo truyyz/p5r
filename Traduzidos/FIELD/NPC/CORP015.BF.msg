@@ -145,7 +145,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]A qualquer maneira, você me trouxe algumas[n]informações sobre os ladrões Phantom, certo?[n][w][e]
 
 [msg MSG_C15_SPOT_04_00 [Ohya]]
-[s][bup 0 107 3 65535 0][f 4 10 65535 0 0][f 4 23 1 215 14 10 13 10][vp 8 2 1 16021 65535 0]Eu gostaria de poder levar um pouco de saquê[n]e esquecer tudo. Talvez em algum lugar[n]com...[n]Teppanyaki...[n][w][e]
+[s][bup 0 107 3 65535 0][f 4 10 65535 0 0][f 4 23 1 215 14 10 13 10][vp 8 2 1 16021 65535 0]Eu gostaria de poder levar um pouco de saquê[n]e esquecer tudo. Talvez em algum lugar[n]com... Teppanyaki...[n][w][e]
 [s][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ah, bem, eu provavelmente não deveria estar[n]falando assim com uma criança.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Você tem algumas informações do Phantom[n]Thieves para mim?[n][w][e]
 
@@ -188,7 +188,7 @@
 [s][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Sente-se para que eu possa lhe dar os[n]detalhes![n][w][e]
 
 [msg MSG_C15_COOP_08_00 [Ohya]]
-[s][bup 0 107 0 65535 0][f 4 10 65535 0 0][f 4 23 1 215 14 10 13 10][vp 8 2 1 0 65535 0]Eu tenho que falar com você sobre o caso de[n]Kayo...[n]É importante.[n][w][e]
+[s][bup 0 107 0 65535 0][f 4 10 65535 0 0][f 4 23 1 215 14 10 13 10][vp 8 2 1 0 65535 0]Eu tenho que falar com você sobre o caso de[n]Kayo... É importante.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Você tem um minuto...?[n][w][e]
 
 [msg MSG_C15_COOP_09_00 [Ohya]]
@@ -199,7 +199,7 @@
 [s][bup 0 107 6 65535 0][f 4 10 65535 0 0][f 4 23 1 215 14 10 13 10][vp 8 2 1 0 65535 0]Há um lugar que eu quero ir hoje.[n]Você virá comigo, Riiight?[n][w][e]
 
 [msg MND_COOP_DOUZOKUSEI]
-[s]Eu sinto que posso me aproximar de Ohya[n]graças ao [n][var 2][n]Persona [clr 1][var 5][clr 27]...[n][w][e]
+[s]Eu sinto que posso me aproximar de Ohya[n]graças ao [n][var 2] Persona [clr 1][var 5][clr 27]...[n][w][e]
 
 [msg MND_COOP_RANKUP_OK]
 [s]Eu sinto que meu vínculo com Ohya ficará[n]mais forte em breve...[n][w][e]

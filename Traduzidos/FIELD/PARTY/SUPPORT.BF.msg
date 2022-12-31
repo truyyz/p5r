@@ -743,7 +743,7 @@
 [s][vp 8 2 1 1166 65535 0]Estou sentindo algo...[n][f 1 2 17][e]
 
 [msg D155_support_mes07_B]
-[s][vp 8 2 1 1190 65535 0]Eu acho que há uma vontade de semear por[n]perto.[n]Não passe por isso![n][f 1 2 57][e]
+[s][vp 8 2 1 1190 65535 0]Eu acho que há uma vontade de semear por[n]perto. Não passe por isso![n][f 1 2 57][e]
 
 [msg D155_support_mes08_A]
 [s][vp 8 2 1 1167 65535 0]Eu acho que sinto algo...[n][f 1 2 15][e]
@@ -848,7 +848,7 @@
 [s][vp 8 2 1 1167 65535 0]Estou sentindo algo...[n][f 1 2 15][e]
 
 [msg D156_support_mes14_B]
-[s]Eu acho que há uma vontade de semear por[n]perto.[n]Não passe por isso![n][f 1 2 62][e]
+[s]Eu acho que há uma vontade de semear por[n]perto. Não passe por isso![n][f 1 2 62][e]
 
 [msg D156_support_mes14_C]
 [s][vp 8 2 1 3192 65535 0]Vai... semente?[n][f 1 2 12][e]
@@ -1391,7 +1391,7 @@
 [s][vp 1 0 0 2122 0 0]Sem sombras ao redor.[n]Vamos sair, Joker![n][f 1 6 65535][e]
 
 [msg D_COVER_E_PC02_mes01]
-[s][vp 1 0 0 2123 0 0]Pode haver uma sombra em algum lugar por[n]aqui.[n]Não fique desleixado.[n][f 1 6 65535][e]
+[s][vp 1 0 0 2123 0 0]Pode haver uma sombra em algum lugar por[n]aqui. Não fique desleixado.[n][f 1 6 65535][e]
 
 [msg D_COVER_E_PC02_mes02]
 [s][vp 1 0 0 2124 0 0]Está tudo bem... eu acho.[n]Tenha cuidado.[n][f 1 6 65535][e]
@@ -1580,7 +1580,7 @@
 [s][vp 1 0 0 3005 0 0]Bem, é isso.[n]Agora, vamos nos apressar.[n][f 1 6 65535][e]
 
 [msg BAT_END_A_PC03_mes02]
-[s][vp 1 0 0 3006 0 0]Você não está muito cansado depois disso,[n]está?[n]Não fique para trás![n][f 1 6 65535][e]
+[s][vp 1 0 0 3006 0 0]Você não está muito cansado depois disso,[n]está? Não fique para trás![n][f 1 6 65535][e]
 
 [msg BAT_END_A_PC03_mes03]
 [s][vp 1 0 0 3007 0 0]Shadow derrotou![n]Agora, vamos avançar![n][f 1 6 65535][e]
@@ -2090,7 +2090,7 @@
 [s][vp 1 0 0 13013 0 0]Ei, outro Will Seed está lá![n]Você tem um bom nariz para aqueles, Joker![n][f 1 6 65535][e]
 
 [msg FIND_SEED_PC03_mes03]
-[s][vp 1 0 0 13014 0 0]Encontramos uma das sementes de vontade de[n]Shido![n]Quantos isso faz?[n][f 1 6 65535][e]
+[s][vp 1 0 0 13014 0 0]Encontramos uma das sementes de vontade de[n]Shido! Quantos isso faz?[n][f 1 6 65535][e]
 
 [msg GET_SEED_PC03_mes01]
 [s][vp 1 0 0 13015 0 0]Nosso primeiro fará semear o palácio...[n]Vamos continuar procurando na área.[n][f 1 6 65535][e]
@@ -2129,7 +2129,7 @@
 [s][vp 1 0 0 3170 0 0]HM... estou preocupado com o seu espírito.[n]Você precisa descansar ou se recuperar.[n][f 1 6 65535][e]
 
 [msg D_NAVI_SP_PC03_mes05]
-[s][vp 1 0 0 3171 0 0]Sem espírito, você não terá muitas opções em[n]batalha.[n]O que você vai fazer, Joker?[n][f 1 6 65535][e]
+[s][vp 1 0 0 3171 0 0]Sem espírito, você não terá muitas opções em[n]batalha. O que você vai fazer, Joker?[n][f 1 6 65535][e]
 
 [msg D_WARNING01_PC03_mes01]
 [s][vp 1 0 0 3172 0 0]ACK, fomos encontrados.[n]Vamos ter mais cuidado.[n][f 1 6 65535][e]
@@ -3044,7 +3044,7 @@
 [s][vp 1 0 0 4148 0 0]Vamos ter cuidado. Precisamos observar o[n]movimento do inimigo.[n][f 1 6 65535][e]
 
 [msg SAFE_EXIT_B_PC04_mes03]
-[s][vp 1 0 0 4149 0 0]O nível de segurança é alto, então vamos ser[n]cautelosos.[n]Não empurre.[n][f 1 6 65535][e]
+[s][vp 1 0 0 4149 0 0]O nível de segurança é alto, então vamos ser[n]cautelosos. Não empurre.[n][f 1 6 65535][e]
 
 [msg AT_D_EXIT_PARTS_PC04_mes]
 [s]Ooh, uma plataforma! Acho que podemos[n]continuar daqui.[n][f 1 2 60][e]
@@ -3653,7 +3653,7 @@
 [s][vp 1 0 0 15009 0 0]Parece que você pode usar seu gancho de luta[n]aqui.[n][f 1 6 65535][e]
 
 [msg WIRE_MOVE_PC05_mes02]
-[s][vp 1 0 0 15010 0 0]Por que não experimentar o seu gancho de[n]luta?[n]Pode muito bem revelar um novo caminho.[n][f 1 6 65535][e]
+[s][vp 1 0 0 15010 0 0]Por que não experimentar o seu gancho de[n]luta? Pode muito bem revelar um novo caminho.[n][f 1 6 65535][e]
 
 [msg WIRE_MOVE_PC05_mes03]
 [s][vp 1 0 0 15011 0 0]Espere- você pode usar seu gancho de luta[n]aqui.[n][f 1 6 65535][e]
@@ -4301,7 +4301,7 @@
 [s][vp 1 0 0 7027 0 0]Huh? Nós fomos vistos?[n]Temos que derrotá-lo![n][f 1 6 65535][e]
 
 [msg D_FOUND_B_PC07_mes04]
-[s][vp 1 0 0 7028 0 0]Eles nos viram, mas se ficarmos calmos e,[n]hum...[n]Derrote-os, ficaremos bem![n][f 1 6 65535][e]
+[s][vp 1 0 0 7028 0 0]Eles nos viram, mas se ficarmos calmos e,[n]hum... Derrote-os, ficaremos bem![n][f 1 6 65535][e]
 
 [msg D_FOUND_B_PC07_mes05]
 [s][vp 1 0 0 7029 0 0]Joker, eles nos vêem! Devemos vencê-los em[n]vez de correr![n][f 1 6 65535][e]
@@ -4739,7 +4739,7 @@
 [s][vp 1 0 0 17011 0 0]Tente usar seu gancho de luta aqui- você[n]deve alcançar uma área diferente.[n][f 1 6 65535][e]
 
 [msg FIND_SEED_PC07_mes01]
-[s][vp 1 0 0 17012 0 0]Oh, essa é uma das sementes de vontade do[n]pai.[n]Desculpe, mas temos que aceitar.[n][f 1 6 65535][e]
+[s][vp 1 0 0 17012 0 0]Oh, essa é uma das sementes de vontade do[n]pai. Desculpe, mas temos que aceitar.[n][f 1 6 65535][e]
 
 [msg FIND_SEED_PC07_mes02]
 [s][vp 1 0 0 17013 0 0]Outra das sementes do pai do pai...[n]Vamos aceitar![n][f 1 6 65535][e]
@@ -5330,7 +5330,7 @@
 [s][vp 1 0 0 8172 0 0]Eles te encontraram![n]A segurança vai se apertar, então cuidado![n][f 1 6 65535][e]
 
 [msg D_WARNING01_PC08_mes02]
-[s][vp 1 0 0 8173 0 0]Nenhum bem pode vir de ser visto pelo[n]inimigo![n]Seja cuidadoso da próxima vez.[n][f 1 6 65535][e]
+[s][vp 1 0 0 8173 0 0]Nenhum bem pode vir de ser visto pelo[n]inimigo! Seja cuidadoso da próxima vez.[n][f 1 6 65535][e]
 
 [msg D_WARNING01_PC08_mes03]
 [s][vp 1 0 0 8174 0 0]Eles te avisaram.[n]Não se preocupe, Joker.[n][f 1 6 65535][e]
@@ -5411,7 +5411,7 @@
 [s][vp 1 0 0 8199 0 0]Estou detectando uma sombra louca![n]É muito perigoso![n][f 1 6 65535][e]
 
 [msg D_WARNING06_PC08_mes04]
-[s][vp 1 0 0 8200 0 0]Isso é arriscado! Eles estão enviando no[n]grupo![n]É muito arriscado lutar![n][f 1 6 65535][e]
+[s][vp 1 0 0 8200 0 0]Isso é arriscado! Eles estão enviando no[n]grupo! É muito arriscado lutar![n][f 1 6 65535][e]
 
 [msg D_WARNING06_PC08_mes05]
 [s][vp 1 0 0 8201 0 0]Joker, há um cara muito forte! Você precisa[n]sair daqui![n][f 1 6 65535][e]
@@ -5678,7 +5678,7 @@
 [s][vp 1 0 0 18306 0 0]Estou sentindo todos os tipos de objetos de[n]valor nesta área! Pesquise todos os últimos[n]cantos e recantos, Joker![n][f 1 6 65535][e]
 
 [msg D_NAVI_ACD_MANY_SOBJ_PC0_8]
-[s][vp 1 0 0 18307 0 0]Ooh, estou detectando toneladas de coisas[n]aqui![n]Agora é nossa chance de fazer o banco![n][f 1 6 65535][e]
+[s][vp 1 0 0 18307 0 0]Ooh, estou detectando toneladas de coisas[n]aqui! Agora é nossa chance de fazer o banco![n][f 1 6 65535][e]
 
 [msg D_NAVI_ACD_MANY_SOBJ_PC0_9]
 [s][vp 1 0 0 18308 0 0]Parece que há toneladas de objetos de valor[n]aqui, maduros para a arrancada. Vamos,[n]vamos ver um pouco de agitação![n][f 1 6 65535][e]
@@ -5690,7 +5690,7 @@
 [s][vp 1 0 0 18310 0 0]Estou sentindo muito mais baús de tesouro do[n]que o normal! Vá buscá-los, Joker![n][f 1 6 65535][e]
 
 [msg D_NAVI_ACD_MANY_TBOX_PC0_7]
-[s][vp 1 0 0 18311 0 0]Parece que temos uma área cheia de baús de[n]tesouro![n]Vamos trabalhar, Joker![n][f 1 6 65535][e]
+[s][vp 1 0 0 18311 0 0]Parece que temos uma área cheia de baús de[n]tesouro! Vamos trabalhar, Joker![n][f 1 6 65535][e]
 
 [msg D_NAVI_ACD_MANY_TBOX_PC0_8]
 [s][vp 1 0 0 18312 0 0]Estou pegando alguns baús de tesouro-[n]esperanças, há muito mais do que o habitual[n]aqui![n][f 1 6 65535][e]
@@ -5714,7 +5714,7 @@
 [s][vp 1 0 0 18318 0 0]Está tão escuro que não consigo ver nada...[n]Mantenha os olhos abertos e prossiga com[n]cautela![n][f 1 6 65535][e]
 
 [msg D_NAVI_ACD_DARK_ZONE_PC0_10]
-[s][vp 1 0 0 18319 0 0]Mesmo eu não consigo ver o que está por[n]vir...[n]Tudo depende de você, Joker![n][f 1 6 65535][e]
+[s][vp 1 0 0 18319 0 0]Mesmo eu não consigo ver o que está por[n]vir... Tudo depende de você, Joker![n][f 1 6 65535][e]
 
 [msg D_NAVI_ACD_DEATH_PC08_me]
 [s][vp 1 0 0 18320 0 0]Esta leitura... olhe para fora! Há algo[n]realmente perigoso aqui![n][f 1 6 65535][e]
@@ -7388,7 +7388,7 @@
 [s][vp 1 0 0 2561 0 0]Como!? Toda vez que tento tomar uma bebida,[n]você começa a bater![n][f 1 6 65535][e]
 
 [msg D_CAR__PC02_mes562]
-[s][vp 1 0 0 2562 0 0]Algumas pessoas são apenas as pessoas que[n]observam.[n]Talvez seja o mesmo para você.[n][f 1 6 65535][e]
+[s][vp 1 0 0 2562 0 0]Algumas pessoas são apenas as pessoas que[n]observam. Talvez seja o mesmo para você.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC02_mes563]
 [s][vp 1 0 0 2563 0 0]Sem chance. O bar é muito alto.[n][f 1 6 65535][e]
@@ -9599,7 +9599,7 @@
 [s][vp 1 0 0 6588 0 0]Vou te escovar muito depois.[n]Apenas fique aí![n][f 1 6 65535][e]
 
 [msg D_CAR__PC06_mes589]
-[s][vp 1 0 0 6589 0 0]O layout muda toda vez que você dirige aqui,[n]afinal.[n]Que lugar bizarro.[n][f 1 6 65535][e]
+[s][vp 1 0 0 6589 0 0]O layout muda toda vez que você dirige aqui,[n]afinal. Que lugar bizarro.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC06_mes590]
 [s][vp 1 0 0 6590 0 0]Vimos muitas coisas impossíveis. Algo assim[n]não é mais suficiente para me surpreender[n]mais.[n][f 1 6 65535][e]
@@ -9965,7 +9965,7 @@
 [s][vp 1 0 0 6710 0 0]As bicicletas têm seu charme...[n][f 1 6 65535][e]
 
 [msg D_CAR__PC06_mes711]
-[s][vp 1 0 0 6711 0 0]Você tem várias vidas no ensino médio,[n]afinal.[n]Detetive, ladrão...[n][f 1 6 65535][e]
+[s][vp 1 0 0 6711 0 0]Você tem várias vidas no ensino médio,[n]afinal. Detetive, ladrão...[n][f 1 6 65535][e]
 
 [msg D_CAR__PC06_mes712]
 [s][vp 1 0 0 6712 0 0]Existem muitas maneiras de viver.[n]É melhor ter alguma estimulação, no entanto.[n][f 1 6 65535][e]
@@ -10031,10 +10031,10 @@
 [s][vp 1 0 0 7517 0 0]Este tipo de carro é tão confortável.[n]Eu posso ver por que é popular.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC07_mes518]
-[s][vp 1 0 0 7518 0 0]Nossos ternos de ladrão são bastante[n]impressionantes![n]A cauda da Pantera é tão fofa![n][f 1 6 65535][e]
+[s][vp 1 0 0 7518 0 0]Nossos ternos de ladrão são bastante[n]impressionantes! A cauda da Pantera é tão fofa![n][f 1 6 65535][e]
 
 [msg D_CAR__PC07_mes519]
-[s][vp 1 0 0 7519 0 0]Nossos trajes de ladrão têm tanta[n]individualidade.[n]A Máscara da Fox é fofa![n][f 1 6 65535][e]
+[s][vp 1 0 0 7519 0 0]Nossos trajes de ladrão têm tanta[n]individualidade. A Máscara da Fox é fofa![n][f 1 6 65535][e]
 
 [msg D_CAR__PC07_mes520]
 [s][vp 1 0 0 7520 0 0]Os ternos do ladrão são legais, não são? Eu[n]sempre admirei roupas como essas...[n][f 1 6 65535][e]
@@ -10088,7 +10088,7 @@
 [s][vp 1 0 0 7536 0 0]A atmosfera da nossa escola realmente mudou,[n]não?[n][f 1 6 65535][e]
 
 [msg D_CAR__PC07_mes537]
-[s][vp 1 0 0 7537 0 0]Você sabia que há uma tartaruga no prédio de[n]treinamento?[n]É bastante fofo.[n][f 1 6 65535][e]
+[s][vp 1 0 0 7537 0 0]Você sabia que há uma tartaruga no prédio de[n]treinamento? É bastante fofo.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC07_mes538]
 [s][vp 1 0 0 7538 0 0]A escola está sempre cheia de rumores.[n][f 1 6 65535][e]
@@ -10259,7 +10259,7 @@
 [s][vp 1 0 0 7593 0 0]Eu sou invejoso. Eu gostaria de tentar usar[n]um chicote também...[n][f 1 6 65535][e]
 
 [msg D_CAR__PC07_mes594]
-[s][vp 1 0 0 7594 0 0]É bem diferente da colheita de equitação no[n]equestrianismo.[n]Esse também é adorável.[n][f 1 6 65535][e]
+[s][vp 1 0 0 7594 0 0]É bem diferente da colheita de equitação no[n]equestrianismo. Esse também é adorável.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC07_mes595]
 [s][vp 1 0 0 7595 0 0]Mas Mona não está perdendo para eles![n]Ele é tão corajoso![n][f 1 6 65535][e]
@@ -10421,7 +10421,7 @@
 [s][vp 1 0 0 7647 0 0]Choo Chooo! * Giggle* Isso é divertido.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC07_mes648]
-[s][vp 1 0 0 7648 0 0]Você está familiarizado com os cursos de[n]corrida?[n]Ou você quer dizer em um videogame?[n][f 1 6 65535][e]
+[s][vp 1 0 0 7648 0 0]Você está familiarizado com os cursos de[n]corrida? Ou você quer dizer em um videogame?[n][f 1 6 65535][e]
 
 [msg D_CAR__PC07_mes649]
 [s][vp 1 0 0 7649 0 0]A escuridão é calmante...[n]Mas o barulho é um pouco alto.[n][f 1 6 65535][e]
@@ -10781,7 +10781,7 @@
 [s][vp 1 0 0 8567 0 0]Isso doi?[n]Você está bem, Mona?[n][f 1 6 65535][e]
 
 [msg D_CAR__PC08_mes568]
-[s][vp 1 0 0 8568 0 0]Sim, é difícil ficar preso nos trilhos da[n]vida...[n]Mona, você é tão profundo.[n][f 1 6 65535][e]
+[s][vp 1 0 0 8568 0 0]Sim, é difícil ficar preso nos trilhos da[n]vida... Mona, você é tão profundo.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC08_mes569]
 [s][vp 1 0 0 8569 0 0]Você está tentando agir tão legal.[n]Olhe para fora ou você ficará com cócegas.[n][f 1 6 65535][e]
@@ -11267,7 +11267,7 @@
 [s][vp 1 0 0 9505 0 0]Este som sob o vento... são essas... as[n]vozes do público?[n][f 1 6 65535][e]
 
 [msg D_CAR__PC09_mes506]
-[s][vp 1 0 0 9506 0 0]Todos vocês usam suas personas com tanta[n]habilidade.[n]Quão profissional.[n][f 1 6 65535][e]
+[s][vp 1 0 0 9506 0 0]Todos vocês usam suas personas com tanta[n]habilidade. Quão profissional.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC09_mes507]
 [s][vp 1 0 0 9507 0 0]É interessante ver você lutar como os[n]ladrões fantasmas. A liderança do Joker[n]está em plena exibição.[n][f 1 6 65535][e]
@@ -12449,7 +12449,7 @@
 [s][vp 1 0 0 15515 0 0]Estou bastante curioso sobre a espada de[n]estilo ocidental de Mona...[n][f 1 6 65535][e]
 
 [msg D_CAR_PC05_mes10516]
-[s][vp 1 0 0 15516 0 0]Eu ouço os chicotes são bastante difíceis de[n]usar.[n]Onde você aprendeu a usar um?[n][f 1 6 65535][e]
+[s][vp 1 0 0 15516 0 0]Eu ouço os chicotes são bastante difíceis de[n]usar. Onde você aprendeu a usar um?[n][f 1 6 65535][e]
 
 [msg D_CAR_PC05_mes10517]
 [s][vp 1 0 0 15517 0 0]Por que minha roupa tem uma cauda?[n]Não entendo...[n][f 1 6 65535][e]
@@ -13568,7 +13568,7 @@
 [s][vp 1 0 0 18548 0 0]Bem, uma maneira de serem semelhantes são[n]como ambos são difíceis de usar[n]corretamente![n][f 1 6 65535][e]
 
 [msg D_CAR_PC08_mes10549]
-[s][vp 1 0 0 18549 0 0]Com habilidades de faca como as dele, ele[n]provavelmente seria bom para lidar com[n]peixes.[n]Oof, agora estou com vontade de sushi![n][f 1 6 65535][e]
+[s][vp 1 0 0 18549 0 0]Com habilidades de faca como as dele, ele[n]provavelmente seria bom para lidar com[n]peixes. Oof, agora estou com vontade de sushi![n][f 1 6 65535][e]
 
 [msg D_CAR_PC08_mes10550]
 [s][vp 1 0 0 18550 0 0]Bem, se não foi um problema até agora, você[n]provavelmente ficará bem.[n][f 1 6 65535][e]

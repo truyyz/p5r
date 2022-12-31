@@ -47,7 +47,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1019 65535 0]Esta loja era bem moderna. Gostaria de saber[n]se sua cidade natal tem uma?[n][w][e]
 
 [msg MSG_LAST_GREETING_SPORTS [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1018 65535 0]Sua cidade natal tem uma loja de calçados,[n]certo?[n]Vamos dizer adeus a todos primeiro.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1018 65535 0]Sua cidade natal tem uma loja de calçados,[n]certo? Vamos dizer adeus a todos primeiro.[n][w][e]
 
 [msg MSG_LAST_GREETING_UMBREL [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 53101 65535 0]Você se lembra de quando eu vim preparado[n]com um guarda-chuva daquela vez? Foi útil,[n]não foi?[n][w][e]
@@ -131,7 +131,7 @@
 
 [msg MSG_SportShop_MayCueInfo [Morgana]]
 [s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 1 1038 65535 0]Essas são dicas para bilhar... Você não sabe[n]como usá-las, não é?[n][w][e]
-[s][f 4 10 65535 0 0]Havia um livro sendo vendido nas[n]proximidades.[n]Talvez isso te ensine a usá-los.[n][w][e]
+[s][f 4 10 65535 0 0]Havia um livro sendo vendido nas[n]proximidades. Talvez isso te ensine a usá-los.[n][w][e]
 
 [msg SUPERMARKET_NOTOPEN]
 [s]Este lugar parece ter alguns produtos caros,[n]compostos de materiais diferentes...[n][w][e]
@@ -319,7 +319,7 @@
 [s]Eles vendem perfume e maquiagem aqui.[n]Eu deveria vir quando eu precisar de algum...[n][w][e]
 
 [msg MSG_COSME_INFO [Cosmetics Shop Clerk]]
-[s][f 4 23 1 13 3 5 65534 0][vp 8 2 1 0 13 0]Bem-vindo. Você está aqui para comprar um[n]presente?[n]Ou talvez algo para você?[n][w][e]
+[s][f 4 23 1 13 3 5 65534 0][vp 8 2 1 0 13 0]Bem-vindo. Você está aqui para comprar um[n]presente? Ou talvez algo para você?[n][w][e]
 
 [msg MSG_COSME_THANKS [Cosmetics Shop Clerk]]
 [s][vp 8 2 1 0 13 0]Muito obrigado![n][w][e]
@@ -594,7 +594,7 @@
 [s]Eu posso sentir algo vindo para mim...[n][w][e]
 
 [msg MND_INC_PARAMCHK_S_TISIK]
-[s]Eu acho que estou perto de um avanço com o[n]meu [n][f 4 11 0][clr 26][f 4 12 0][clr 27]...[n][w][e]
+[s]Eu acho que estou perto de um avanço com o[n]meu  [f 4 11 0][clr 26][f 4 12 0][clr 27]...[n][w][e]
 
 [msg MND_RankUp_OK_Miryoku]
 [s]Eu me sinto como meu [f 4 11 1][clr 26][f 4 12 0][clr 27][n]vai melhorar em breve...[n][w][e]
@@ -609,7 +609,7 @@
 [s]Eu posso sentir algo vindo para mim...[n][w][e]
 
 [msg MND_INC_PARAMCHK_S_MIRYO]
-[s]Eu acho que estou perto de um avanço com o[n]meu [n][f 4 11 1][clr 26][f 4 12 1][clr 27]...[n][w][e]
+[s]Eu acho que estou perto de um avanço com o[n]meu  [f 4 11 1][clr 26][f 4 12 1][clr 27]...[n][w][e]
 
 [msg MND_RankUp_OK_Kiyou]
 [s]Eu me sinto como meu [f 4 11 2][clr 26][f 4 12 2][clr 27][n]vai melhorar em breve...[n][w][e]
@@ -627,7 +627,7 @@
 [s]Eu posso sentir algo vindo para mim...[n][w][e]
 
 [msg MND_INC_PARAMCHK_S_KIYOU]
-[s]Eu acho que estou perto de um avanço com o[n]meu [n][f 4 11 2][clr 26][f 4 12 2][clr 27]...[n][w][e]
+[s]Eu acho que estou perto de um avanço com o[n]meu  [f 4 11 2][clr 26][f 4 12 2][clr 27]...[n][w][e]
 
 [msg MND_RankUp_OK_Dokyo]
 [s]Eu me sinto como meu [f 4 11 3][clr 26][f 4 12 3][clr 27][n]vão melhorar em breve...[n][w][e]
@@ -642,7 +642,7 @@
 [s]Eu posso sentir algo vindo para mim...[n][w][e]
 
 [msg MND_INC_PARAMCHK_S_DOKYO]
-[s]Eu acho que estou perto de um avanço com o[n]meu [n][f 4 11 3][clr 26][f 4 12 3][clr 27]...[n][w][e]
+[s]Eu acho que estou perto de um avanço com o[n]meu  [f 4 11 3][clr 26][f 4 12 3][clr 27]...[n][w][e]
 
 [msg MND_RankUp_OK_Yasasisa]
 [s]Eu me sinto como meu [f 4 11 4][clr 26][f 4 12 4][clr 27][n]vai melhorar em breve...[n][w][e]
@@ -660,5 +660,5 @@
 [s]Eu posso sentir algo vindo para mim...[n][w][e]
 
 [msg MND_INC_PARAMCHK_S_YASAS]
-[s]Eu acho que estou perto de um avanço com o[n]meu [n][f 4 11 4][clr 26][f 4 12 4][clr 27]...[n][w][e]
+[s]Eu acho que estou perto de um avanço com o[n]meu  [f 4 11 4][clr 26][f 4 12 4][clr 27]...[n][w][e]
 

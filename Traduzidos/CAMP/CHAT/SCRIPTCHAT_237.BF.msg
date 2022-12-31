@@ -1,5 +1,5 @@
 [msg MSG_000_0_0 [Mishima]]
-[s][f 5 14]Recebi algumas informações assustadoras[n]aqui.[n]Pode ser um problema sério.[n][w][e]
+[s][f 5 14]Recebi algumas informações assustadoras[n]aqui. Pode ser um problema sério.[n][w][e]
 [s][f 5 14]Lembra daquela chantagem de antes? Com o[n]grupo de Kaneshiro?[n][w][e]
 [s][f 5 14]Graças aos ladrões Phantom, a história[n]dessa roupa. Mas...[n][w][e]
 [s][f 5 14]Parece que um grupo diferente entrou, e[n]eles estão tentando fazer a mesma coisa![n][w][e]

@@ -121,7 +121,7 @@
 [msg MSG_029_0_0 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 6021 65535 0]Bem, se eu quiser estar em filmes de ação,[n]precisarei trabalhar em minhas ações![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][f 4 23 0 4 34 10 35 10][f 4 24 0 4 0 38 5 100][f 4 24 0 4 0 5 3 100][f 4 24 0 4 0 1 7 100][vp 8 0 0 0 65535 0]Eu me pergunto quantas abdominais eu terei[n]que fazer...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][f 4 24 0 4 0 39 5 30][f 4 24 0 4 0 9 3 100][f 4 24 0 4 0 0 4 100][vp 8 0 0 0 65535 0]Espere, Ryuji disse que conhece uma boa[n]academia![n]Eu deveria pedir conselhos a ele![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][f 4 24 0 4 0 39 5 30][f 4 24 0 4 0 9 3 100][f 4 24 0 4 0 0 4 100][vp 8 0 0 0 65535 0]Espere, Ryuji disse que conhece uma boa[n]academia! Eu deveria pedir conselhos a ele![n][f 1 3 65535][w][e]
 
 [msg MSG_030_0_0 [Ann]]
 [s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 6157 65535 0]Ah, e eu preciso dizer a Shiho que tenho um[n]novo objetivo![n][f 1 3 65535][w][e]

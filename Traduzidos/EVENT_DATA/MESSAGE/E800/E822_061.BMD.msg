@@ -30,7 +30,7 @@
 [msg MSG_007_0_0 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O tempo voa tão rápido quando você está se[n]divertindo... este é realmente o reino dos[n]sonhos.[n][f 1 3 65535][w][e]
 [s][vp 1 0 0 0 0 0]......[n][f 1 3 65535][w][e]
-[s][bup 0 4 6 65535 0][f 4 10 65535 0 0][vp 8 2 0 6088 65535 0][f 4 24 0 4 0 42 5 100][f 4 24 0 4 0 1 5 0]Hum, eu tive um pensamento que atravesse[n]minha mente hoje... acho que estou mais[n]feliz quando estou com você, [n][f 4 2].[n][f 1 3 65535][w][e]
+[s][bup 0 4 6 65535 0][f 4 10 65535 0 0][vp 8 2 0 6088 65535 0][f 4 24 0 4 0 42 5 100][f 4 24 0 4 0 1 5 0]Hum, eu tive um pensamento que atravesse[n]minha mente hoje... acho que estou mais[n]feliz quando estou com você, [f 4 2].[n][f 1 3 65535][w][e]
 
 [sel SEL_008_0_0 top]
 [s][f 0 8 2 1 2217]Eu sinto o mesmo.[clr 27][e]

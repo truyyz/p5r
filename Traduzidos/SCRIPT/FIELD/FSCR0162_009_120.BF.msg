@@ -118,7 +118,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Bem, se ele está feliz, isso não a torna uma[n]boa resposta para Maruki?[n][w][e]
 
 [msg D10_09_npc_b_info_03 [Ryuji]]
-[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7021 65535 0]Mas havia algo sobre como ele disse isso...[n]ele disse que era [n][clr 2]"bom o bastante," [clr 27][n]direita?[n][w][e]
+[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7021 65535 0]Mas havia algo sobre como ele disse isso...[n]ele disse que era [n][clr 2]"bom o bastante," [clr 27] direita?[n][w][e]
 
 [msg D10_09_npc_b_info_04 [Haru]]
 [s][bup 0 7 3 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ele pode ser feliz, mas não sei se isso[n]sozinho seria suficiente para o Dr.[n]Maruki...[n][w][e]

@@ -15,12 +15,12 @@
 [s][bup 0 10 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 33 5 10]Sim! Eu quero fazer um presente para meu pai.[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Kasumi]]
-[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bem, bom que eu não estou comprando para[n]você, [n][f 4 1]-senpai.[n][f 1 3 65535][w][e]
+[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bem, bom que eu não estou comprando para[n]você,  [f 4 1]-senpai.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]É um presente para o meu pai.[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Kasumi]]
 [s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você parece um buff de óculos de verdade,[n]então eu queria receber seus conselhos.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você poderia experimentar alguns pares para[n]mim?[n]Eu gostaria de obter alguma referência[n]visual.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você poderia experimentar alguns pares para[n]mim? Eu gostaria de obter alguma referência[n]visual.[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Kasumi]]
 [s][bup 0 10 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 57154 65535 0]Muito obrigado! Vamos ver...[n][f 1 3 65535][w][e]
@@ -110,7 +110,7 @@
 
 [msg MSG_030_0_0 [Kasumi]]
 [s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 57169 8 0]Muito obrigado por vir aqui comigo hoje![n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 8 0]Acabei com um ótimo presente. Tudo graças a[n]você, [n][f 4 1]-senpai![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 8 0]Acabei com um ótimo presente. Tudo graças a[n]você,  [f 4 1]-senpai![n][f 1 3 65535][w][e]
 
 [sel SEL_031_0_0 top]
 [s]Faz parte do nosso negócio.[e]

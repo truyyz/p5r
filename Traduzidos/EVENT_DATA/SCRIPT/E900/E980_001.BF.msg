@@ -9,13 +9,13 @@
 [s][bup 0 3 0 65535 0][vp 8 0 0 0 65535 0]Errgh, isso foi tão escorregadio!... Eu me[n]pergunto se eu poderia usar um desses[n]palitos.[n][f 1 3 65535][w][e]
 
 [msg MSG_ANNE_COMMENT2 [Ann]]
-[s][bup 0 4 0 65535 0][vp 8 0 0 0 65535 0]Como foi isso!? Não sou incrível?[n]Não que eu pudesse ter feito isso sem você[n]me ensinar, [n][f 4 2].[n][f 1 3 65535][w][e]
+[s][bup 0 4 0 65535 0][vp 8 0 0 0 65535 0]Como foi isso!? Não sou incrível?[n]Não que eu pudesse ter feito isso sem você[n]me ensinar, [f 4 2].[n][f 1 3 65535][w][e]
 
 [msg MSG_YUSUKE_COMMENT2 [Yusuke]]
 [s][bup 0 5 0 65535 0][vp 8 0 0 0 65535 0]Esse instante de brilho quando a bola é[n]atingida...! Sim, isso será uma excelente[n]composição![n][f 1 3 65535][w][e]
 
 [msg MSG_MAKOTO_COMMENT2 [Makoto]]
-[s][bup 0 6 0 65535 0][vp 8 0 0 0 65535 0]Eu fiz isso... você é um professor muito[n]bom, [n][f 4 2].[n][f 1 3 65535][w][e]
+[s][bup 0 6 0 65535 0][vp 8 0 0 0 65535 0]Eu fiz isso... você é um professor muito[n]bom,  [f 4 2].[n][f 1 3 65535][w][e]
 
 [msg MSG_HARU_COMMENT2 [Haru]]
 [s][bup 0 7 0 65535 0][vp 8 0 0 0 65535 0]Sim eu fiz! É tudo por sua causa, [n][f 4 2]-kun. Obrigada.[n][f 1 3 65535][w][e]

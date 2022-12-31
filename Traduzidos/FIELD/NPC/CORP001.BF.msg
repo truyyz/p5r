@@ -158,7 +158,7 @@
 [s][bup 0 3 0 0 0][vp 8 2 1 1192 65535 0][f 4 10 65535 0 0]Acho que devemos ficar baixos por enquanto.[n]Explorar lembranças é provavelmente uma boa[n]opção agora.[n][w][e]
 
 [msg MSG_MORGANA_DAY_0607 [Morgana]]
-[s][bup 0 3 0 0 0][vp 8 2 1 1192 65535 0][f 4 10 65535 0 0]Acabei de me lembrar, você tem uma viagem de[n]campo a partir do dia depois de amanhã,[n]certo?[n]Para uma estação de TV, foi?[n][w][e]
+[s][bup 0 3 0 0 0][vp 8 2 1 1192 65535 0][f 4 10 65535 0 0]Acabei de me lembrar, você tem uma viagem de[n]campo a partir do dia depois de amanhã,[n]certo? Para uma estação de TV, foi?[n][w][e]
 
 [msg MSG_MORGANA_DAY_0608 [Morgana]]
 [s][bup 0 3 0 0 0][vp 8 2 1 1192 65535 0][f 4 10 65535 0 0]Um estúdio de TV... deve ser um lugar tão[n]fascinante para trabalhar...[n][w][e]
@@ -521,7 +521,7 @@
 [s][bup 0 3 2 0 0][vp 8 2 1 1190 65535 0][f 4 10 65535 0 0]Ei, não devemos nos encontrar no[n]esconderijo? Você realmente precisa começar[n]a levar a sério isso.[n][w][e]
 
 [msg MSG_MORGANA_D01_LV2 [Morgana]]
-[s][bup 0 3 2 0 0][vp 8 2 1 1192 65535 0][f 4 10 65535 0 0]Você será expulso se não roubar o coração de[n]Kamoshida.[n]Certifique-se de não esquecer isso.[n][w][e]
+[s][bup 0 3 2 0 0][vp 8 2 1 1192 65535 0][f 4 10 65535 0 0]Você será expulso se não roubar o coração de[n]Kamoshida. Certifique-se de não esquecer isso.[n][w][e]
 
 [msg MSG_MORGANA_D01_LV3 [Morgana]]
 [s][bup 0 3 2 0 0][vp 8 2 1 1190 65535 0][f 4 10 65535 0 0]Você está levando isso a sério?[n]Você está prestes a ser expulso![n][w][e]

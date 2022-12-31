@@ -45,7 +45,7 @@
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7200 65535 0]Sim! Eles estavam falando sobre as chaves-[n]talvez essas sombras saibam onde são[n]mantidas![n][w][e]
 
 [msg e259_201_mes07 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1052 65535 0]Hmm, isso parece provável para mim... tudo[n]bem![n]Vamos voltar para aquela sala![n][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1052 65535 0]Hmm, isso parece provável para mim... tudo[n]bem! Vamos voltar para aquela sala![n][w][e]
 
 [msg e259_201_mes08 [Ryuji]]
 [s][bup 0 2 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Segure- não esqueça nelas câmeras de[n]segurança.[n][w][e]

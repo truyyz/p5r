@@ -56,7 +56,7 @@
 [s][vp 8 2 1 0 850 0]É frustrante de assistir. Ele não está[n]ficando muito melhor, mesmo com o[n]treinamento de Kamoshida.[n][w][e]
 
 [msg MSG_050_0_0 [Glaring Third-Year]]
-[s][f 4 23 1 851 3 10 0 0][vp 8 2 1 0 851 0]A propósito, ouvi dizer que Kamoshida[n]recebeu um convite para o Campeonato[n]Nacional?[n]Isso é incrível.[n][w][e]
+[s][f 4 23 1 851 3 10 0 0][vp 8 2 1 0 851 0]A propósito, ouvi dizer que Kamoshida[n]recebeu um convite para o Campeonato[n]Nacional? Isso é incrível.[n][w][e]
 
 [msg MSG_E13710100_BUIN_C_grt]
 [s]Este é o meu último ano aqui, então tenho[n]que trabalhar especialmente duro em [n][clr 2]prática [clr 27]...[n][f 1 2 65535][e]

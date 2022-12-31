@@ -260,7 +260,7 @@
 [s]Você pode dizer isso depois de tirar essa[n]máscara! Não há como eu julgar antes disso![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_05_R_5]
-[s]Bem, a aparência não é tão importante para[n]um cara.[n]O que está em seu coração é mais[n]importante...[n]E o que está em sua carteira.[n][w][e]
+[s]Bem, a aparência não é tão importante para[n]um cara.[n]O que está em seu coração é mais[n]importante... E o que está em sua carteira.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_05_R_6]
 [s]Huh, então você está me tratando assim, e[n]você nem é bonito?[n]Bem, isso é uma decepção.[n][w][e]
@@ -326,7 +326,7 @@
 [s]Fico com medo, porém, das minhas informações[n]privadas vazando e roubadas online.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_06_R_8]
-[s]No entanto, as compras na Internet não são[n]obscuras?[n]Empresas estrangeiras vendem muito[n]falsificações, não é?[n][w][e]
+[s]No entanto, as compras na Internet não são[n]obscuras? Empresas estrangeiras vendem muito[n]falsificações, não é?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_06_R_9]
 [s]E daí? Você estava apenas usando sem[n]perceber? Você precisa melhorar a mentira.[n][w][e]
@@ -338,7 +338,7 @@
 [s]Você é mau comigo desde que eu estava[n]interessado nisso? Hmph, eu quero te matar[n]agora por ser tão idiota![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_06_R_12]
-[s]O que? Então isso foi feito à mão? De jeito[n]nenhum![n]Que bom com suas mãos você é!?[n][w][e]
+[s]O que? Então isso foi feito à mão? De jeito[n]nenhum! Que bom com suas mãos você é!?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_06_R_13]
 [s]Você quer manter tanto o segredo?[n]Não deixa sua loja obscura favorita ser[n]popular?[n][w][e]
@@ -455,10 +455,10 @@
 [s]Ei, essa visão é um pouco extrema demais.[n]Talvez você jogue muitos videogames.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_08_R_13]
-[s]Então espere, sou eu quem o irrita[n]especificamente?[n]Não sei. Parece amor para mim![n][w][e]
+[s]Então espere, sou eu quem o irrita[n]especificamente? Não sei. Parece amor para mim![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_08_R_14]
-[s]Ei, quem deixou você segurar uma arma,[n]afinal?[n]Eu quero falar com seu gerente.[n][w][e]
+[s]Ei, quem deixou você segurar uma arma,[n]afinal? Eu quero falar com seu gerente.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_08_R_15]
 [s]Ei, alguém ficaria irritado com alguém que[n]atira em vez de falar como uma pessoa[n]normal.[n][w][e]
@@ -554,7 +554,7 @@
 [s]... Ei, mas isso é sua culpa![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_02_R_8]
-[s]Entendo, tipo, mentalmente, mas[n]emocionalmente?[n]Eu não consigo lidar com isso.[n][w][e]
+[s]Entendo, tipo, mentalmente, mas[n]emocionalmente? Eu não consigo lidar com isso.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_02_R_9]
 [s]Você quer dizer... porque eu te conheci?[n][w][e]
@@ -1401,7 +1401,7 @@
 [s]Ooh, que pedido travesso... eu gostaria de [var 0]Yen, no entanto.[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_FIFTYFI_2]
-[s]Sem chance. Se isso sair, estarei com[n]problemas profundos. Ugh, se você tivesse[n]um [n][f 2 5 3 9999 3].[n][w][e]
+[s]Sem chance. Se isso sair, estarei com[n]problemas profundos. Ugh, se você tivesse[n]um  [f 2 5 3 9999 3].[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_FIFTYFI_3]
 [s]Estou me sentindo fraco demais, mas... vou[n]pensar se você me deixar sugar alguma força[n]vital de você.[n][w][e]
@@ -1419,7 +1419,7 @@
 
 [msg TalkMsg_GUY_NEGO_REQUIRE_2]
 [s]*tosse* gaah, eu odeio ter gripe.[n]Ugh, estou ficando calafrios.[n][w][e]
-[s]Você é meu cavaleiro em armadura brilhante[n]com um [n][f 2 5 3 9999 4]em você?[n][w][e]
+[s]Você é meu cavaleiro em armadura brilhante[n]com um  [f 2 5 3 9999 4]em você?[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_REQUIRE_3]
 [s]... omigod, sério? Você quer falar comigo[n]agora?[n][w][e]
@@ -1427,7 +1427,7 @@
 
 [msg TalkMsg_GUY_NEGO_REQUIRE_4]
 [s]Aguentar. Você está me pedindo para mentir[n]para todas as outras sombras?[n][w][e]
-[s]Sem chance. Se eles descobrirem, vão me[n]matar.[n]Bem, eu vou pensar sobre isso se você me der[n]um [n][f 2 5 3 9999 3].[n][w][e]
+[s]Sem chance. Se eles descobrirem, vão me[n]matar.[n]Bem, eu vou pensar sobre isso se você me der[n]um  [f 2 5 3 9999 3].[n][w][e]
 
 [sel TalkSel_GUY_NEGO_REQUIRE top]
 [s]Entregue [e]
@@ -1458,14 +1458,14 @@
 [msg TalkMsg_GUY_NEGO_Re_ACCE_3 [Ryuji]]
 
 [msg TalkMsg_GUY_RESULT_GET_P]
-[s]... Eu não sou tão uma sombra que pertence[n]aqui.[n]Eu costumava estar no mar de almas dos[n]humanos.[n][w][e]
+[s]... Eu não sou tão uma sombra que pertence[n]aqui. Eu costumava estar no mar de almas dos[n]humanos.[n][w][e]
 [s]Eu estou [clr 1][var 2][clr 27].[n]Quero dizer, eu sou você, afinal, então[n]vamos esperar que nos dêmos bem![n][w][e]
 
 [msg TalkMsg_GUY_RESULT_GET_P_2]
 [s]Você já tem um [clr 1][var 2][clr 27]![n][w][e]
 
 [msg TalkMsg_GUY_RESULT_GET_P_3]
-[s]... espere, de jeito nenhum! Você é muito[n]fraco![n]Vá malhar, ok? Eu vou te dar isso [n][f 2 5 3 9999 1].[n][w][e]
+[s]... espere, de jeito nenhum! Você é muito[n]fraco! Vá malhar, ok? Eu vou te dar isso [n][f 2 5 3 9999 1].[n][w][e]
 
 [msg TalkMsg_GUY_RESULT_GET_M]
 [s]Tudo bem, aqui está [var 0]Yen.[n]Você está satisfeito agora?[n][w][e]
@@ -1679,43 +1679,43 @@
 [s]M-mr. Ladrão... eu vou te dar isso, então,[n]por favor, deixe-me ir![n][w][e]
 
 [msg TalkMsg_RESULT_GET_PERSO]
-[s]... Eu não sou tão uma sombra que pertence[n]aqui.[n]Eu costumava estar no mar de almas dos[n]humanos.[n][w][e]
+[s]... Eu não sou tão uma sombra que pertence[n]aqui. Eu costumava estar no mar de almas dos[n]humanos.[n][w][e]
 [s]Eu estou [clr 1][var 2][clr 27].[n]Quero dizer, eu sou você, afinal, então[n]vamos esperar que nos dêmos bem![n][w][e]
 
 [msg TalkMsg_RESULT_GET_PERSO_2]
-[s]... Eu não sou tão uma sombra que pertence[n]aqui.[n]Eu costumava estar no mar de almas dos[n]humanos.[n][w][e]
+[s]... Eu não sou tão uma sombra que pertence[n]aqui. Eu costumava estar no mar de almas dos[n]humanos.[n][w][e]
 [s]Eu estou [clr 1][var 2][clr 27].[n]Quero dizer, eu sou você, afinal, então[n]vamos esperar que nos dêmos bem![n][w][e]
 
 [msg TalkMsg_RESULT_GET_PERSO_3]
-[s]... Eu não sou tão uma sombra que pertence[n]aqui.[n]Eu costumava estar no mar de almas dos[n]humanos.[n][w][e]
+[s]... Eu não sou tão uma sombra que pertence[n]aqui. Eu costumava estar no mar de almas dos[n]humanos.[n][w][e]
 [s]Eu estou [clr 1][var 2][clr 27].[n]Quero dizer, eu sou você, afinal, então[n]vamos esperar que nos dêmos bem![n][w][e]
 
 [msg TalkMsg_RESULT_GET_PERSO_4]
-[s]... Eu não sou tão uma sombra que pertence[n]aqui.[n]Eu costumava estar no mar de almas dos[n]humanos.[n][w][e]
+[s]... Eu não sou tão uma sombra que pertence[n]aqui. Eu costumava estar no mar de almas dos[n]humanos.[n][w][e]
 [s]Eu estou [clr 1][var 2][clr 27].[n]Quero dizer, eu sou você, afinal, então[n]vamos esperar que nos dêmos bem![n][w][e]
 
 [msg TalkMsg_RESULT_GET_PERSO_5]
-[s]... Eu não sou tão uma sombra que pertence[n]aqui.[n]Eu costumava estar no mar de almas dos[n]humanos.[n][w][e]
+[s]... Eu não sou tão uma sombra que pertence[n]aqui. Eu costumava estar no mar de almas dos[n]humanos.[n][w][e]
 [s]Eu estou [clr 1][var 2][clr 27].[n]Quero dizer, eu sou você, afinal, então[n]vamos esperar que nos dêmos bem![n][w][e]
 
 [msg TalkMsg_RESULT_GET_PERSO_6]
-[s]... Eu não sou tão uma sombra que pertence[n]aqui.[n]Eu costumava estar no mar de almas dos[n]humanos.[n][w][e]
+[s]... Eu não sou tão uma sombra que pertence[n]aqui. Eu costumava estar no mar de almas dos[n]humanos.[n][w][e]
 [s]Eu estou [clr 1][var 2][clr 27].[n]Quero dizer, eu sou você, afinal, então[n]vamos esperar que nos dêmos bem![n][w][e]
 
 [msg TalkMsg_RESULT_GET_PERSO_7]
-[s]... Eu não sou tão uma sombra que pertence[n]aqui.[n]Eu costumava estar no mar de almas dos[n]humanos.[n][w][e]
+[s]... Eu não sou tão uma sombra que pertence[n]aqui. Eu costumava estar no mar de almas dos[n]humanos.[n][w][e]
 [s]Eu estou [clr 1][var 2][clr 27].[n]Quero dizer, eu sou você, afinal, então[n]vamos esperar que nos dêmos bem![n][w][e]
 
 [msg TalkMsg_RESULT_GET_PERSO_8]
-[s]... Eu não sou tão uma sombra que pertence[n]aqui.[n]Eu costumava estar no mar de almas dos[n]humanos.[n][w][e]
+[s]... Eu não sou tão uma sombra que pertence[n]aqui. Eu costumava estar no mar de almas dos[n]humanos.[n][w][e]
 [s]Eu estou [clr 1][var 2][clr 27].[n]Quero dizer, eu sou você, afinal, então[n]vamos esperar que nos dêmos bem![n][w][e]
 
 [msg TalkMsg_RESULT_GET_PERSO_9]
-[s]... Eu não sou tão uma sombra que pertence[n]aqui.[n]Eu costumava estar no mar de almas dos[n]humanos.[n][w][e]
+[s]... Eu não sou tão uma sombra que pertence[n]aqui. Eu costumava estar no mar de almas dos[n]humanos.[n][w][e]
 [s]Eu estou [clr 1][var 2][clr 27].[n]Quero dizer, eu sou você, afinal, então[n]vamos esperar que nos dêmos bem![n][w][e]
 
 [msg TalkMsg_RESULT_GET_PERSO_10]
-[s]... Eu não sou tão uma sombra que pertence[n]aqui.[n]Eu costumava estar no mar de almas dos[n]humanos.[n][w][e]
+[s]... Eu não sou tão uma sombra que pertence[n]aqui. Eu costumava estar no mar de almas dos[n]humanos.[n][w][e]
 [s]Eu estou [clr 1][var 2][clr 27].[n]Quero dizer, eu sou você, afinal, então[n]vamos esperar que nos dêmos bem![n][w][e]
 
 [msg TalkMsg_ED_bye_D01_01]
@@ -1969,7 +1969,7 @@
 [s]Eu meio que te pego agora... mas desculpe,[n]isso é o máximo que posso fazer.[n][w][e]
 
 [msg TalkMsg_RESULT_SQ_PAYFOR_2]
-[s]Hmm, então esse é o tipo de pessoa que você[n]é.[n]Você é diferente do que eu esperava.[n][w][e]
+[s]Hmm, então esse é o tipo de pessoa que você[n]é. Você é diferente do que eu esperava.[n][w][e]
 [s]Foi divertido conversar com você, então eu[n]vou te dar isso.[n][w][e]
 
 [msg TalkMsg_RESULT_SQ_AGAIN1]
@@ -2015,7 +2015,7 @@
 [s]Aqui vou te dar isso [n][f 2 5 3 9999 1]em vez de...[n][w][e]
 
 [msg TalkMsg_RESULT_BRAINWASH_9]
-[s]Ah, para que eu possa ser brilhante assim[n]também... Eu serei como um anjo, trazendo[n]paz mundial...[n]Esperar...[n][w][e]
+[s]Ah, para que eu possa ser brilhante assim[n]também... Eu serei como um anjo, trazendo[n]paz mundial... Esperar...[n][w][e]
 
 [msg TalkMsg_RESULT_BRAINWASH_10]
 [s]...Espere um segundo! Ugh, ficar brilhante[n]me faria parecer feio![n][w][e]

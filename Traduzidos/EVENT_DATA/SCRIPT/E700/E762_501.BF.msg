@@ -32,7 +32,7 @@
 [s][vp 8 2 0 0 65535 0]Eu recomendo nossa nova adição de julho, o [clr 2]Frui-tea [clr 27].[n][f 1 3 65535][w][e]
 
 [msg MSG_STAFF_AUT [Waitress]]
-[s][vp 8 2 0 0 65535 0]Eu recomendo nossa nova adição de setembro,[n]o [n][clr 2]Pólo totem [clr 27].[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0]Eu recomendo nossa nova adição de setembro,[n]o  [clr 2]Pólo totem [clr 27].[n][f 1 3 65535][w][e]
 
 [msg MSG_STAFF_SUM_AUT [Waitress]]
 [s][vp 8 2 0 0 65535 0]Eu recomendo nossos novos itens, o [clr 2]Frui-tea [clr 27]ou o [clr 2]Pólo totem [clr 27].[n][f 1 3 65535][w][e]
@@ -41,7 +41,7 @@
 [s][vp 8 2 0 0 65535 0]Entendi. Volto de volta com seu pedido.[n][f 1 3 65535][w][e]
 
 [msg MSG_COFFEE [Morgana]]
-[s][bup 0 3 5 65535 0][f 4 10 65535 0 0][vp 8 2 0 1112 65535 0]Com certeza parece bom, mas... sim,[n]provavelmente realmente tem um gosto bom[n]também...[n]*gemido* [n][f 1 3 65535][w][e]
+[s][bup 0 3 5 65535 0][f 4 10 65535 0 0][vp 8 2 0 1112 65535 0]Com certeza parece bom, mas... sim,[n]provavelmente realmente tem um gosto bom[n]também... *gemido* [n][f 1 3 65535][w][e]
 
 [msg MSG_TEA [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 1168 65535 0]Frutas dentro do chá? Ambos estão bem por[n]conta própria, você pensaria...[n][f 1 3 65535][w][e]

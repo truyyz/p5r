@@ -30,7 +30,7 @@
 
 [msg D05_02_e341_032_selB_0_m [???]]
 [s]Ah, você está bem sabe. Eu sou um conhecedor[n]de todas as coisas [n][clr 2]DOCE [clr 27].[n][w][e]
-[s]Eu não posso deixar de jogar neles quando[n]estou [n][clr 2]ESTRESSADO [clr 27]![n][w][e]
+[s]Eu não posso deixar de jogar neles quando[n]estou  [clr 2]ESTRESSADO [clr 27]![n][w][e]
 
 [msg D05_02_e341_032_selB_1_m [???]]
 [s]Spicy, HM? Suponho que isso seja aceitável.[n]Agora, então, o que você trouxe para vender?[n][w][e]

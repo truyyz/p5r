@@ -349,7 +349,7 @@
 [s][vp 8 0 0 0 65535 0]Huh? O que você quer dizer?[n][f 1 3 65535][w][e]
 
 [msg MSG_106_0_0 [Yusuke]]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Por favor, diga-nos suas informações de[n]contato.[n]Eu gostaria de vê-lo em outro lugar.[n][f 1 3 65535][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Por favor, diga-nos suas informações de[n]contato. Eu gostaria de vê-lo em outro lugar.[n][f 1 3 65535][w][e]
 
 [msg MSG_107_0_0 [Sexy Woman in a Swimsuit]]
 [s][vp 8 0 0 0 65535 0]Ahaha! Você pode ser um garoto bonito, mas[n]essa é uma maneira estranha de nos pedir[n]para sair.[n][f 1 3 65535][w][e]
@@ -854,7 +854,7 @@
 [s][vp 8 0 0 0 65535 0]Essas coisas seriam muito brutos para vocês[n]três, certo? Vamos estudar juntos algum dia![n][f 1 3 65535][w][e]
 
 [msg MSG_258_0_0 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]... porcaria, eles estão falando sobre[n]matemática!? Eu não posso lidar com essa[n]merda![n]Isso é tudo você![n][f 1 3 65535][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]... porcaria, eles estão falando sobre[n]matemática!? Eu não posso lidar com essa[n]merda! Isso é tudo você![n][f 1 3 65535][w][e]
 
 [msg MSG_259_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Muito bem, Joker. Você desenhou uma reação[n]que manterá nossa conversa fluindo bem.[n][f 1 3 65535][w][e]
@@ -933,7 +933,7 @@
 [s][vp 8 0 0 0 65535 0]Eu nem sei se isso ainda é japonês...[n][f 1 3 65535][w][e]
 
 [msg MSG_283_0_0 [Yusuke]]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ele parece ter falhado em acompanhar esse[n]tópico.[n]Esta operação está condenada.[n][f 1 3 65535][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ele parece ter falhado em acompanhar esse[n]tópico. Esta operação está condenada.[n][f 1 3 65535][w][e]
 
 [msg MSG_284_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ei, eu sei que acabamos de nos conhecer, mas[n]quer jantar algum dia?[n][f 1 3 65535][w][e]
@@ -948,7 +948,7 @@
 [s][vp 8 0 0 0 65535 0]Uau, extra grande!? Você é o tipo de cara[n]que recebe segundos no almoço escolar?[n][f 1 3 65535][w][e]
 
 [msg MSG_288_0_0 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você quer dizer como de volta no ensino[n]fundamental?[n]Isso aí! Eles não me chamaram de[n]"Speed-Eatin 'Ryuji" por nada![n][f 1 3 65535][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você quer dizer como de volta no ensino[n]fundamental? Isso aí! Eles não me chamaram de[n]"Speed-Eatin 'Ryuji" por nada![n][f 1 3 65535][w][e]
 
 [msg MSG_289_0_0 [Glamorous Girl in a Swimsuit]]
 [s][vp 8 0 0 0 65535 0]Isto é tão legal! As pessoas que comem muito[n]são as melhores![n][f 1 3 65535][w][e]
@@ -1941,7 +1941,7 @@
 [s][vp 8 0 0 0 65535 0]Vamos realizar com sucesso este plano, por[n]isso esteja pronto. De, os ladrões[n]fantasmas.[n][f 1 3 65535][w][e]
 
 [msg MSG_589_0_0 [Done-Up Woman in a Swimsuit]]
-[s][vp 8 0 0 0 65535 0]Ahahahah, isso deveria ser como um cartão de[n]visita?[n]Isso é tão insano![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Ahahahah, isso deveria ser como um cartão de[n]visita? Isso é tão insano![n][f 1 3 65535][w][e]
 
 [msg MSG_590_0_0 [Thin-Browed Woman in a Swimsuit]]
 [s][vp 8 0 0 0 65535 0]Sim, ninguém já tentou aquele em nós antes.[n]Eu acho que você é talentoso o suficiente[n]para ser um deles![n][f 1 3 65535][w][e]

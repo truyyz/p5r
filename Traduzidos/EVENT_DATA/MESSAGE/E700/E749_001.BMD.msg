@@ -58,7 +58,7 @@
 [s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Hum, eu sei que essa é uma mudança um tanto[n]abrupta do assunto...[n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Haru]]
-[s][bup 0 7 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Mas você está seguindo as notícias sobre[n]Shido?[n]Bem... claro que você é. Está sempre[n]ligado...[n][f 1 3 65535][w][e]
+[s][bup 0 7 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Mas você está seguindo as notícias sobre[n]Shido? Bem... claro que você é. Está sempre[n]ligado...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Honestamente, estou começando a ficar um[n]pouco assustado.[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Haru]]

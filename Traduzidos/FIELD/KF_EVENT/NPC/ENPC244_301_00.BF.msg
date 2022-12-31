@@ -47,7 +47,7 @@
 [s][bup 0 2 4 65535 0][f 4 10 65535 0 0][vp 8 2 1 7041 65535 0]Uau, quem diabos são eles!?[n][w][e]
 
 [msg MSG_E244_501_008 [???]]
-[s][f 4 23 1 855 3 10 0 0][vp 8 2 1 0 855 0]Oh, o inferno não tem nada a ver com isso,[n]querida.[n]Eu sou Angel- Straight Out of Heaven![n][w][e]
+[s][f 4 23 1 855 3 10 0 0][vp 8 2 1 0 855 0]Oh, o inferno não tem nada a ver com isso,[n]querida. Eu sou Angel- Straight Out of Heaven![n][w][e]
 
 [msg MSG_E244_501_008_02 [???]]
 [s][f 4 23 1 854 3 10 0 0][vp 8 2 1 0 854 0]E eu sou Julian. Julie, se você está se[n]sentindo atrevido![n][w][e]

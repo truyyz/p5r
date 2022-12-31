@@ -22,7 +22,7 @@
 [s]Você pode economizar verificando o sofá.[n][w][e]
 
 [msg fev0410_03_STEP_mes01]
-[s]Eu deveria escrever o que aconteceu hoje no[n]meu [n][clr 2]diário [clr 27].[n][w][e]
+[s]Eu deveria escrever o que aconteceu hoje no[n]meu  [clr 2]diário [clr 27].[n][w][e]
 
 [msg fev0410_04_mes01]
 [s]Esse som de toque não vem do meu celular...[n][w][e]

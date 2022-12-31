@@ -46,7 +46,7 @@
 [s][bup 0 103 501 65535 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Além disso, ouço as crianças hoje em dia[n]distribuem os namorados à esquerda e à[n]direita, mesmo que você não seja um casal.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Como eu vejo, dias como esses nos dão uma[n]desculpa para expressar algo emocional.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Portanto, não se preocupe com isso. Você não[n]precisa estar apaixonado para se divertir.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Basta pensar nisso... um dia em que você[n]pode mostrar a alguém que eles são[n]apreciados?[n]Informe-os que você se importa.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Basta pensar nisso... um dia em que você[n]pode mostrar a alguém que eles são[n]apreciados? Informe-os que você se importa.[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Sojiro]]
 [s][bup 0 103 500 65535 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]De qualquer forma, estou voltando para casa.[n]O lugar é seu.[n][f 1 3 65535][w][e]

@@ -193,7 +193,7 @@
 [s][f 4 23 1 14 3 10 0 0][vp 8 2 1 0 14 0]Aposto que ela se empolgou com todo mundo[n]desmaiando sobre ela. Serve seu direito.[n][w][e]
 
 [msg MSG_NEWSTUDENT_F01_013_0 [Motivated First-Year]]
-[s][f 4 23 1 13 3 10 0 0][vp 8 2 1 0 13 0]Estou tão chateado que as férias de verão[n]acabaram.[n]Eu deveria ter passado mais tempo me[n]divertindo na praia.[n][w][e]
+[s][f 4 23 1 13 3 10 0 0][vp 8 2 1 0 13 0]Estou tão chateado que as férias de verão[n]acabaram. Eu deveria ter passado mais tempo me[n]divertindo na praia.[n][w][e]
 
 [msg MSG_NEWSTUDENT_F01_013_0_2 [Energetic First-Year]]
 [s][f 4 23 1 14 3 10 0 0][vp 8 2 1 0 14 0]Bem, pelo menos ainda temos os ladrões[n]Phantom. Eles estão tão agora![n][w][e]

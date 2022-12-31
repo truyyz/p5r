@@ -94,7 +94,7 @@
 [s][bup 0 216 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Isso é verdade. Essa pontada de culpa é[n]um bom exemplo de dor interna.[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Maruki]]
-[s][bup 0 216 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Então isso não é apenas dano corporal para[n]você?[n]Você também sente um impacto emocional?[n]Fascinante.[n][f 1 3 65535][w][e]
+[s][bup 0 216 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Então isso não é apenas dano corporal para[n]você? Você também sente um impacto emocional?[n]Fascinante.[n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Maruki]]
 [s][bup 0 216 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Pode ser difícil. Não é bom lutar com a dor[n]em seu coração.[n][f 1 3 65535][w][e]
@@ -106,7 +106,7 @@
 [s][bup 0 216 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Afinal, esse tipo de dor só nasce porque nos[n]apaixonamos, certo?[n][f 1 3 65535][w][e]
 
 [msg MSG_025_7_0 [Maruki]]
-[s][bup 0 216 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você tem algum pensamento sobre esse tipo de[n]dor, [n][f 4 1]-kun?[n][f 1 3 65535][w][e]
+[s][bup 0 216 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você tem algum pensamento sobre esse tipo de[n]dor,  [f 4 1]-kun?[n][f 1 3 65535][w][e]
 
 [sel SEL_026_0_0 top]
 [s][f 0 8 2 1 2217]Aquele parece necessário.[clr 27][e]

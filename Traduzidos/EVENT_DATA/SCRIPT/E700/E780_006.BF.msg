@@ -81,7 +81,7 @@
 
 [msg MSG_MORUGANA_SETUP_MOVIE_2 [Morgana]]
 [s][bup 0 3 0 0 0]Estamos assistindo a um filme com Lady Ann[n]hoje![n][w][e]
-[s]Não podemos nos dar ao luxo de deixá-la[n]esperar.[n]Vamos ir ao ponto de encontro.[n][w][e]
+[s]Não podemos nos dar ao luxo de deixá-la[n]esperar. Vamos ir ao ponto de encontro.[n][w][e]
 
 [msg MSG_MORUGANA_SETUP_MOVIE_3 [Morgana]]
 [s][bup 0 3 0 0 0]Prometemos conhecer Yusuke para um filme.[n]Vamos ir ao ponto de encontro.[n][w][e]

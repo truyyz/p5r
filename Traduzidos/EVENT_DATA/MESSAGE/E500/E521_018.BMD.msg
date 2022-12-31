@@ -118,7 +118,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 42 65535 0]Vamos, todo mundo está de volta juntos! É[n]hora de comemorar![n][f 1 3 65535][w][e]
 
 [msg MSG_036_0_0 [Haru]]
-[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 43 65535 0]*risada* acho que você realmente estava com[n]fome, [n][f 4 2]-kun.[n][f 1 3 65535][w][e]
+[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 43 65535 0]*risada* acho que você realmente estava com[n]fome,  [f 4 2]-kun.[n][f 1 3 65535][w][e]
 
 [msg MSG_037_0_0 [Haru]]
 [s][bup 0 7 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 44 65535 0]Oh? Não foi você?[n][f 1 3 65535][w][e]
@@ -253,7 +253,7 @@
 [s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 92 65535 0]O que é que foi isso!?[n][f 1 3 65535][w][e]
 
 [msg MSG_076_0_0 [Morgana]]
-[s][bup 0 3 600 0 0][f 4 10 65535 0 0][vp 8 0 0 93 65535 0]São coisas assim. Você fica com raiva tão[n]rápido.[n]Ah, e você é vulgar.[n][f 1 3 65535][w][e]
+[s][bup 0 3 600 0 0][f 4 10 65535 0 0][vp 8 0 0 93 65535 0]São coisas assim. Você fica com raiva tão[n]rápido. Ah, e você é vulgar.[n][f 1 3 65535][w][e]
 
 [msg MSG_077_0_0 [Ryuji]]
 [s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 94 65535 0]Seu pequeno...! Por que você não vai[n]desaparecer de novo!?[n][f 1 3 65535][w][e]

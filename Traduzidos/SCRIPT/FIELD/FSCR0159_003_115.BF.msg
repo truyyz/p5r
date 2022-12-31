@@ -18,7 +18,7 @@
 [s]Meu navio é um passeio tão confortável.[n]Devo dizer que estou absolutamente[n]impressionado.[n][w][e]
 
 [msg D159_03_npc_02_mes02 [Masked Guest]]
-[s]Não é de admirar que a estabilidade seja[n]excelente![n]Este é o navio do congressista Shido,[n]afinal! HMHM![n][w][e]
+[s]Não é de admirar que a estabilidade seja[n]excelente! Este é o navio do congressista Shido,[n]afinal! HMHM![n][w][e]
 
 [msg D159_03_npc_02_mes03 [Masked Guest]]
 [s]É verdade... eu posso ter sofrido[n]dificuldades na minha juventude, mas agora[n]uma vida de lazer é finalmente minha![n][w][e]

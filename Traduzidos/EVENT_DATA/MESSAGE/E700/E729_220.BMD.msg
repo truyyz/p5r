@@ -191,7 +191,7 @@
 [msg MSG_051_1_0 [Caroline]]
 [s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]HM? Falando nisso...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Os seres humanos parecem extraordinariamente[n]predispostos a dar dinheiro e bens[n]materiais, se estiverem intimamente[n]relacionados.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Pessoas que compram o carinho umas das[n]outras![n]Isso não soa patético, preso?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Pessoas que compram o carinho umas das[n]outras! Isso não soa patético, preso?[n][f 1 3 65535][w][e]
 
 [sel SEL_051_3_0 top]
 [s]É uma expressão de gratidão.[e]

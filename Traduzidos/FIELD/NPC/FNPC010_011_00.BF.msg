@@ -102,7 +102,7 @@
 [s][vp 9 2 65535 39750 0 0]Ninguém tem uma chance contra os ladrões[n]fantasmas![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_003_08_]
-[s][vp 9 2 65535 37556 0 0]Nós realmente devemos isso a aqueles ladrões[n]fantasmas![n]Eles salvaram o Japão![n][f 1 2 180][e]
+[s][vp 9 2 65535 37556 0 0]Nós realmente devemos isso a aqueles ladrões[n]fantasmas! Eles salvaram o Japão![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_003_09_]
 [s][vp 9 2 65535 42906 0 0]O Japão é salvo, graças aos ladrões Phantom![n][f 1 2 180][e]
@@ -462,7 +462,7 @@
 [s][vp 9 2 65535 44100 0 0]Eles não sabem mais nada sobre as[n]identidades dos ladrões fantasmas?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_013_08_]
-[s][vp 9 2 65535 44352 0 0]Aquele ladrão fantasma cometeu suicídio,[n]hein?[n]Que maneira lamentável de sair.[n][f 1 2 180][e]
+[s][vp 9 2 65535 44352 0 0]Aquele ladrão fantasma cometeu suicídio,[n]hein? Que maneira lamentável de sair.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_013_09_]
 [s][vp 9 2 65535 45750 0 0]Se esse ladrão fantasma morreu, não haverá[n]mais falhas psicóticas, certo?[n][f 1 2 180][e]

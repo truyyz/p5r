@@ -87,7 +87,7 @@
 [s][vp 1 0 0 0 0 0]Então, o ladrão enganoso que devastou o[n]mundo entrou descaradamente neste domínio[n]infernal...[n][f 1 3 65535][w][e]
 [s][vp 1 0 0 0 0 0]Vou te mostrar os horrores do inferno...[n][f 1 3 65535][w][e]
 [s][vp 1 0 0 0 0 0]Pelo menos, eu faria... mas seria chato[n]tratar o famoso Goemon da mesma forma que[n]qualquer pessoa idosa.[n][f 1 3 65535][w][e]
-[s][vp 1 0 0 0 0 0]Em vez disso, usaremos os dois dados na[n]minha mão para um pequeno jogo. Eu chamo[n]isso...[n]Alto ou baixo![n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Em vez disso, usaremos os dois dados na[n]minha mão para um pequeno jogo. Eu chamo[n]isso... Alto ou baixo![n][f 1 3 65535][w][e]
 
 [msg MSG_GAMBLE_TUTORIAL_MORU [Morgana]]
 [s][bup 0 3 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]HM, parece que apenas temos que vencer esse[n]impulso em um jogo de dados...[n][f 1 3 65535][w][e]
@@ -97,7 +97,7 @@
 
 [msg MSG_JIGOKU_GAMBLE_TUTORI_2 [Imp]]
 [s][vp 1 0 0 0 0 0]Primeiro, você terá que escolher entre alto[n]ou baixo.[n][f 1 3 65535][w][e]
-[s][vp 1 0 0 0 0 0]Vou ligar para um número antes de rolar os[n]dados.[n]Se você acha que os dados mostrarão um[n]número maior que o meu, você chama de[n]"alto".[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Vou ligar para um número antes de rolar os[n]dados. Se você acha que os dados mostrarão um[n]número maior que o meu, você chama de[n]"alto".[n][f 1 3 65535][w][e]
 [s][vp 1 0 0 0 0 0]Se você acha que os dados mostrarão um[n]número mais baixo, você chama de "baixo".[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]Vou rolar os dados três vezes. Se você ligar[n]corretamente apenas uma vez, vou deixar[n]você passar.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]E é isso... você entende as regras?[n][f 1 3 65535][w][e]
@@ -142,7 +142,7 @@
 
 [msg MSG_JIGOKU_GAMBLE_TUTORI_4 [Demon]]
 [s][vp 8 2 0 0 65535 0]Primeiro, você terá que escolher entre alto[n]ou baixo.[n][f 1 3 65535][w][e]
-[s][vp 8 2 0 0 65535 0]Vou ligar para um número antes de rolar os[n]dados.[n]Se você acha que os dados mostrarão um[n]número maior que o meu, você chama de[n]"alto".[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0]Vou ligar para um número antes de rolar os[n]dados. Se você acha que os dados mostrarão um[n]número maior que o meu, você chama de[n]"alto".[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]Se você acha que os dados mostrarão um[n]número mais baixo, você chama de "baixo".[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]Ganhe duas rodadas seguidas, e eu vou deixar[n]você passar.[n][vp 8 2 0 0 65535 0]Você terá três chances.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]Isso é tudo o que existe... você entende as[n]regras agora?[n][f 1 3 65535][w][e]
@@ -173,7 +173,7 @@
 
 [msg MSG_JIGOKU_GAMBLE_TUTORI_6 [King Yama]]
 [s][vp 8 2 0 0 65535 0]Primeiro, você deve escolher alto ou baixo.[n][f 1 3 65535][w][e]
-[s][vp 8 2 0 0 65535 0]Vou ligar para um número antes de rolar os[n]dados.[n]Se você acha que os dados mostrarão um[n]número maior que o meu, você chama de[n]"alto".[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0]Vou ligar para um número antes de rolar os[n]dados. Se você acha que os dados mostrarão um[n]número maior que o meu, você chama de[n]"alto".[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]Ganhe todas as três rodadas, e eu vou deixar[n]você passar.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]Você terá três chances.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]Isso é tudo o que existe... você entende as[n]regras agora?[n][f 1 3 65535][w][e]

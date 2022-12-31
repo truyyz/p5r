@@ -135,7 +135,7 @@
 
 [msg MSG_BOOK_SpeedBook_NG_1s [Student Librarian]]
 [s][vp 8 2 1 58602 0 0]Oh... aquele...[n][w][e]
-[s][vp 8 2 1 0 0 0]Infelizmente, não posso emprestar isso para[n]você...[n]Alguém já fez check-out.[n][w][e]
+[s][vp 8 2 1 0 0 0]Infelizmente, não posso emprestar isso para[n]você... Alguém já fez check-out.[n][w][e]
 [s][vp 8 2 1 0 0 0]É surpreendentemente popular- alguém mais o[n]arrebata assim que retornar...[n][w][e]
 
 [msg MSG_BOOK_SpeedBook_NG_Co [Student Librarian]]

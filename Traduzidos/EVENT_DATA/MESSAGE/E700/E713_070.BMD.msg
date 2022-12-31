@@ -1,7 +1,7 @@
 [msg MSG_000_0_0 [Takemi]]
 [s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 2 0 14070 65535 0]... Tudo bem, é isso hoje.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Oh, você já está indo para casa?[n]Se você tem algum tempo, por que não fica e[n]gosta de uma maçã?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]É um presente de um dos meus pacientes[n]idosos.[n]Ela me deu muito...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]É um presente de um dos meus pacientes[n]idosos. Ela me deu muito...[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Middle-Aged Man]]
 [s][vp 8 0 0 0 65535 0]... Olá, Dr. Takemi...[n][f 1 3 65535][w][e]

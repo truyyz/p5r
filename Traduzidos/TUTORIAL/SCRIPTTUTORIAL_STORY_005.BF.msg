@@ -2,7 +2,7 @@
 [s]Após a mudança de coração de Kaneshiro, os ladrões[n]fantasmas veem um rápido aumento de popularidade. Isso[n]causa a rede de hackers [n][clr 2]Medjed [clr 27]para desafiá-los.[n][w][e]
 
 [msg TUTORIAL_MSG02 [The Fourth Heist: Futaba]]
-[s]O desafio excita o público, mas os ladrões fantasmas não[n]sabem por onde começar, já que Medjed é totalmente[n]anônimo. Do nada, eles recebem uma mensagem de alguém[n]chamado [n][clr 2]Alibaba [clr 27].[n][w][e]
+[s]O desafio excita o público, mas os ladrões fantasmas não[n]sabem por onde começar, já que Medjed é totalmente[n]anônimo. Do nada, eles recebem uma mensagem de alguém[n]chamado  [clr 2]Alibaba [clr 27].[n][w][e]
 
 [msg TUTORIAL_MSG03 [The Fourth Heist: Futaba]]
 [s]O Alibaba se oferece para ajudar a derrubar se os ladrões[n]fantasmas mudarem o coração de alguém.[n]Deixado sem outra escolha, a equipe concorda com os termos.[n][w][e]

@@ -47,7 +47,7 @@
 [s][f 5 14]Eu vejo. Peço desculpas pelo convite[n]repentino.[n][f 5 15][w][e]
 
 [msg MSG_400_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Indo para Meiji Santuário com Yusuke,[n]hein?[n]Amanhã é um dia de folga, então pode[n]estar lotado.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Indo para Meiji Santuário com Yusuke,[n]hein? Amanhã é um dia de folga, então pode[n]estar lotado.[n][f 1 3 65535][w][e]
 
 [msg MSG_401_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Indo para o santuário de Meiji, hein?[n]Vamos para o local do encontro.[n][f 1 3 65535][w][e]

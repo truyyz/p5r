@@ -122,7 +122,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1181 65535 0]Tudo bem, é isso![n][w][e]
 
 [msg D01_02_e129_064_mes02 [Ryuji]]
-[s][bup 0 2 2 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Kamoshida's... salão de treinamento... de[n]amor?[n]Que tipo de besteira é essa!?[n][w][e]
+[s][bup 0 2 2 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Kamoshida's... salão de treinamento... de[n]amor? Que tipo de besteira é essa!?[n][w][e]
 
 [msg D01_02_e129_065_mes01 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 1 0 0]Um guarda... Tenho certeza de que é para[n]onde precisamos ir também...[n][w][e]

@@ -15,7 +15,7 @@
 [s]Agora vou explicar as regras desta batalha[n]para você. Não se preocupe, eles são muito[n]simples.[n][w][e]
 
 [msg D06_mini_ev03_mes02 [Dealer]]
-[s][clr 2]Se o cartão que você mostra da sua mão for[n]maior que o cartão do seu oponente, você[n]ganha [n][clr 27].[n][w][e]
+[s][clr 2]Se o cartão que você mostra da sua mão for[n]maior que o cartão do seu oponente, você[n]ganha [clr 27].[n][w][e]
 [s][clr 2]Três vitórias [clr 27]vai ganhar você [clr 2]um conjunto [clr 27].[n][w][e]
 [s]Primeiro a [clr 2]dois conjuntos [clr 27]é o vencedor.[n][w][e]
 [s]Se você emergir vitorioso, nós iremos [n][clr 2]Duplo [clr 27]o número atual de moedas em sua posse.[n][w][e]
@@ -57,7 +57,7 @@
 [s]Oh, isso é três? Então eu vou usar um quatro.[n][w][e]
 
 [msg D06_mini_ev03_mes10 [Dealer]]
-[s]Tenho a sensação de que você tem um grande[n]número.[n]Talvez eu deva ir com este.[n][w][e]
+[s]Tenho a sensação de que você tem um grande[n]número. Talvez eu deva ir com este.[n][w][e]
 
 [msg D06_mini_ev03_mes11 [Dealer]]
 [s]Não tenho certeza se posso ganhar este.[n]Vou ter que suportar.[n][w][e]

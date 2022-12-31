@@ -14,5 +14,5 @@
 [s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Então eles estão traindo aqui também.[n][w][e]
 
 [msg e382_210_mes06 [Makoto]]
-[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Precisamos encontrar uma brecha em algum[n]lugar.[n]Não poderemos conseguir moedas se não[n]pudermos vencer.[n][w][e]
+[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Precisamos encontrar uma brecha em algum[n]lugar. Não poderemos conseguir moedas se não[n]pudermos vencer.[n][w][e]
 

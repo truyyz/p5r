@@ -20,7 +20,7 @@
 [s]Eu vou me picar.[e]
 
 [msg TalkMsg_GUY_CHAT_FQ_01_R]
-[s]Eu sei o que eu disse, mas você realmente me[n]cozinha, agora que eu perdi vontade de[n]lutar?[n]Humanos mal![n][w][e]
+[s]Eu sei o que eu disse, mas você realmente me[n]cozinha, agora que eu perdi vontade de[n]lutar? Humanos mal![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_01_R_2]
 [s]Eu estava falando em metáforas. Eu realmente[n]esperando que a sopa também seja metáfora,[n]mas...[n][w][e]
@@ -455,7 +455,7 @@
 [s]Eu me sinto insultado, você pensa em[n]mulheres durante nossa batalha! Como você[n]ousa![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_08_R_13]
-[s]...Oh! Você planeja não dizer ao seu inimigo[n]o que você está pensando, porque é[n]estratégia.[n]Eu impressionado.[n][w][e]
+[s]...Oh! Você planeja não dizer ao seu inimigo[n]o que você está pensando, porque é[n]estratégia. Eu impressionado.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_08_R_14]
 [s]... você tenta me distrair? Eu posso ver[n]através de seus truques.[n][w][e]
@@ -578,7 +578,7 @@
 [s]Eu realmente não entendi isso... essa[n]"tortura" antes de me matar?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_02_R_16]
-[s]Você está tentando quebrar o espírito de seu[n]inimigo?[n]Você já tem vitória...[n][w][e]
+[s]Você está tentando quebrar o espírito de seu[n]inimigo? Você já tem vitória...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_03]
 [s]... Ei, humano. Você parece muito jovem.[n]Você ainda com idade quando depende dos[n]outros, hein?[n][w][e]
@@ -794,7 +794,7 @@
 [s]Talvez não seja estranho que você não[n]entenda. Nós de mundos diferentes.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_06_R_12]
-[s]Agora começando a pensar que você não é[n]muito inteligente. Seu boletim, é ruim,[n]hein?[n]Seus pais felizes?[n][w][e]
+[s]Agora começando a pensar que você não é[n]muito inteligente. Seu boletim, é ruim,[n]hein? Seus pais felizes?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_06_R_13]
 [s]Acho que você quer dizer que você está[n]bastante confiante de que não morre aqui,[n]pelo menos.[n][w][e]

@@ -6,7 +6,7 @@
 
 [msg MSG_E150101_000_0_0 [Mishima]]
 [s][bup 0 111 503 65535 0][f 4 10 65535 0 0][vp 8 0 1 1 65535 0]Aposto que... Sakamoto vai encontrar o Sr.[n]Kamoshida...[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 1 2 65535 0]Kamoshida provavelmente está no [n][clr 2]Escritório de professores de educação física[n]no segundo andar [n][clr 27].[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 1 2 65535 0]Kamoshida provavelmente está no [n][clr 2]Escritório de professores de educação física[n]no segundo andar [clr 27].[n][w][e]
 
 [msg MSG_E150103_000_0_0 [Mishima]]
 [s][bup 0 111 504 65535 0][f 4 10 65535 0 0][vp 8 0 1 11 65535 0]Ele entrou no escritório da faculdade de[n]educação física![n]Vamos nos apressar, temos que ir atrás dele.[n][w][e]

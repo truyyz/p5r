@@ -47,7 +47,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Mas agora que se tornou realidade, não tenho[n]certeza do que fazer...[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Precisamos ter certeza de que não desenhamos[n]suspeitas e trabalhar para limpar nossos[n]nomes...[n]direita?[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Precisamos ter certeza de que não desenhamos[n]suspeitas e trabalhar para limpar nossos[n]nomes... direita?[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]...Direita.[n][f 1 3 65535][w][e]

@@ -17,5 +17,5 @@
 [s] [var 0] [n] [var 1] [n] [var 2] [n][w][e]
 
 [msg MSG_INFO_UPDATE4 [An item was added to the contents below.]]
-[s] [var 0] [n] [var 1] [n] [var 2] [n] [var 3] [n][w][e]
+[s] [var 0] [n] [var 1] [n] [var 2]   [var 3] [n][w][e]
 

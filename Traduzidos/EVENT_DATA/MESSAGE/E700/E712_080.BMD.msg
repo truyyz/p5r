@@ -82,7 +82,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Droga...[n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [Iwai]]
-[s][bup 0 104 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]... Olha, garoto. Você deveria ir[n]prolicamente.[n]Não tenho mais tarefas para você.[n][f 1 3 65535][w][e]
+[s][bup 0 104 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]... Olha, garoto. Você deveria ir[n]prolicamente. Não tenho mais tarefas para você.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Apenas esqueça tudo isso...[n][f 1 3 65535][w][e]
 
 [sel SEL_025_0_0 top]

@@ -337,7 +337,7 @@
 [s][bup 0 7 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Não há necessidade de pressionarmos de forma[n]imprudente. Devemos voltar para hoje?[n][w][e]
 
 [msg PARTY_LIMIT_HIGH_01_PC09 [Akechi]]
-[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Não há necessidade de entrar em pânico neste[n]momento.[n]Retiro pode ser a decisão mais sábia.[n][w][e]
+[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Não há necessidade de entrar em pânico neste[n]momento. Retiro pode ser a decisão mais sábia.[n][w][e]
 
 [msg PARTY_LIMIT_HIGH_01_PC10 [[f 4 31 10 0]]]
 [s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Nós ainda temos tempo. Que tal voltarmos?[n][w][e]
@@ -718,7 +718,7 @@
 [s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7103 65535 0]Mkay, tudo o que temos agora é roubar o[n]tesouro que aparece, sim? Finalmente chegou[n]a hora.[n][w][e]
 
 [msg D01_04_e166_015_mes02 [Ann]]
-[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Mas precisamos enviar o cartão de visita[n]primeiro.[n]Quando devemos fazer isso?[n][w][e]
+[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Mas precisamos enviar o cartão de visita[n]primeiro. Quando devemos fazer isso?[n][w][e]
 
 [msg D01_04_e166_015_mes03 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Apenas segure. Vamos recuar por enquanto,[n]então podemos falar mais sobre essas coisas[n]no esconderijo.[n][w][e]

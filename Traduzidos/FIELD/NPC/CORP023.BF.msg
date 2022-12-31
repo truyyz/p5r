@@ -88,7 +88,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Na verdade, eu tenho planejado um pouco-[n]bem, eu deveria apenas perguntar: você está[n]livre hoje?[n][w][e]
 
 [msg MSG_MARUKI_COOP_R05_00 [Maruki]]
-[s][f 4 23 1 223 3 10 0 10][bup 0 216 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 57430 65535 0]Graças a você, minha pesquisa está indo tão[n]bem. Realmente, você tem sido uma ajuda tão[n]grande, [n][f 4 1]-kun.[n][w][e]
+[s][f 4 23 1 223 3 10 0 10][bup 0 216 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 57430 65535 0]Graças a você, minha pesquisa está indo tão[n]bem. Realmente, você tem sido uma ajuda tão[n]grande, [f 4 1]-kun.[n][w][e]
 
 [msg MND_MARUKI_COOP_R05_01]
 [s]Maruki parece estar preocupado com seu[n]artigo. Eu seria capaz de entender agora...?[n][w][e]
@@ -142,7 +142,7 @@
 [s][f 4 23 1 223 0 10 0 10][bup 0 216 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Huh, o que há de errado?[n][w][e]
 
 [msg MND_COOP_DOUZOKUSEI]
-[s]Eu sinto que posso me aproximar de Maruki[n]graças ao [n][var 2][n]Persona [clr 1][var 5][clr 27]...[n][w][e]
+[s]Eu sinto que posso me aproximar de Maruki[n]graças ao [n][var 2] Persona [clr 1][var 5][clr 27]...[n][w][e]
 
 [msg MND_COOP_RANKUP_OK_FIRST]
 [s]Esta pode ser uma boa oportunidade para[n]aprofundar meu vínculo com Maruki...[n][w][e]
@@ -169,7 +169,7 @@
 
 [msg MSG_C23_YES_01_00 [Maruki]]
 [s][f 4 23 1 223 3 10 0 10][bup 0 216 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ah, ótimo! Eu posso sustentar meu fim do[n]acordo, então.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Acabei de terminar outra sessão de[n]aconselhamento.[n]Agora, encontre-me no escritório da[n]enfermeira.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Acabei de terminar outra sessão de[n]aconselhamento. Agora, encontre-me no escritório da[n]enfermeira.[n][w][e]
 
 [msg MSG_C23_YES_02_00 [Maruki]]
 [s][f 4 23 1 223 3 10 0 10][bup 0 216 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 57453 65535 0]Ah, ótimo![n][w][e]
@@ -264,7 +264,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Você também tem exames começando no 11,[n]hein...? Hum. Que tal você passar uma vez[n]que acaba?[n][w][e]
 
 [msg MSG_COOP_PLAY_NG_0401_05_2 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Adivinhe o aconselhamento não é uma opção[n]hoje.[n]Teremos que tentar outro tempo.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Adivinhe o aconselhamento não é uma opção[n]hoje. Teremos que tentar outro tempo.[n][w][e]
 
 [msg MSG_COOP_PLAY_NG_R9 [Maruki]]
 [s][f 4 23 1 223 3 10 0 10][bup 0 216 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 57430 65535 0]Estou quase terminando esse estudo. Uma vez[n]feito, eu quero que você veja.[n][w][e]

@@ -77,7 +77,7 @@
 [s][bup 0 10 904 2 0][f 4 10 65535 0 0][vp 8 0 0 39 23 0]......![n][f 1 3 65535][w][e]
 
 [msg MSG_023_7_0 [Sumire]]
-[s][bup 0 10 900 2 0][f 4 10 65535 0 0][vp 8 0 0 40 23 0]... você pode ser muito firme às vezes, às[n]vezes, [n][f 4 2]-senpai...[n][f 1 3 65535][w][e]
+[s][bup 0 10 900 2 0][f 4 10 65535 0 0][vp 8 0 0 40 23 0]... você pode ser muito firme às vezes, às[n]vezes,  [f 4 2]-senpai...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 41 23 0]Mas você está absolutamente correto.[n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [Sumire]]

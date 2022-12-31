@@ -86,7 +86,7 @@
 [s][bup 0 2 1 65535 1][f 4 10 65535 0 0][vp 1 0 0 31 0 0]Até mais![n][f 1 3 65535][w][e]
 
 [msg MSG_1124_000_00 [Ryuji]]
-[s][bup 0 2 0 65535 1][f 4 10 65535 0 0][vp 1 0 0 32 0 0]Sou eu. Desculpe, eu sei que você está[n]cansado.[n]Será um segundo, apenas me ouça.[n][f 1 3 65535][w][e]
+[s][bup 0 2 0 65535 1][f 4 10 65535 0 0][vp 1 0 0 32 0 0]Sou eu. Desculpe, eu sei que você está[n]cansado. Será um segundo, apenas me ouça.[n][f 1 3 65535][w][e]
 
 [msg MSG_1124_001_00 [Ryuji]]
 [s][bup 0 2 2 65535 1][f 4 10 65535 0 0][vp 1 0 0 33 0 0]Decidi o que quero fazer com Shido depois de[n]entrar no palácio dele.[n][f 1 3 65535][w][e]

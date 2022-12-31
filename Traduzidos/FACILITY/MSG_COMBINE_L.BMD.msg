@@ -57,7 +57,7 @@
 [s]Isso pode causar um acidente inesperado...[n]Tem certeza de que isso é aceitável?[n][w][e]
 
 [msg FCL_MSG_COMBINE_SKILL_EV [Igor]]
-[s]Ah, eu posso sentir um vislumbre de evolução[n]em [n][var 0].[n][w][e]
+[s]Ah, eu posso sentir um vislumbre de evolução[n]em  [var 0].[n][w][e]
 [s]Diga-me, o que você deve fazer?[n][w][e]
 
 [msg FCL_MSG_COMBINE_SKILL_EV_2 [Igor]]

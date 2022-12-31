@@ -10,7 +10,7 @@
 
 [msg TalkMsg_EN_CONTACT_01]
 [s]Tal amador você tem para um parceiro.[n]É por isso que eles estão nesta posição[n]agora.[n][w][e]
-[s]... Você quer salvá-los? Então eu gostaria[n]de ter [n][var 0]Yen.[n][w][e]
+[s]... Você quer salvá-los? Então eu gostaria[n]de ter  [var 0]Yen.[n][w][e]
 
 [msg TalkMsg_EN_CONTACT_02]
 [s]A vida humana é tão frágil... seu parceiro[n]expirará em breve a esse ritmo...[n][w][e]
@@ -43,7 +43,7 @@
 [s]Isso é para o seu bem para formar uma[n]verdadeira amizade. Em seguida, peço um[n]pouco de sua resistência.[n][w][e]
 
 [msg TalkMsg_EN_AGREE_00]
-[s]... você me deu o suficiente. Estou[n]satisfeito.[n]Já era hora de liberar seu parceiro.[n][w][e]
+[s]... você me deu o suficiente. Estou[n]satisfeito. Já era hora de liberar seu parceiro.[n][w][e]
 
 [msg TalkMsg_EN_AGREE_01]
 [s]... Eu me canso disso. Vou devolver seu[n]parceiro a você.[n][w][e]
@@ -84,7 +84,7 @@
 [s]O que há com essa mulher...? Tudo bem, vou[n]te perdoar por [n][f 2 5 3 9999 3].[n][w][e]
 
 [msg TalkMsg_EN_FAKE_CRIED01]
-[s]Ugh, cale a boca! Vou deixar você sair se me[n]der [n][var 0]Yen![n][w][e]
+[s]Ugh, cale a boca! Vou deixar você sair se me[n]der  [var 0]Yen![n][w][e]
 
 [msg TalkMsg_EN_FAKE_CRIED02]
 [s]É por isso que não suporto meninas...[n]Vou deixá-lo sair do gancho se você me der[n]um pouco da sua saúde.[n][w][e]

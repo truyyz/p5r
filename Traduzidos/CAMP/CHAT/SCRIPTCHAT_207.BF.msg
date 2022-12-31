@@ -23,7 +23,7 @@
 [s][f 5 14]Eu acho que esse cara de ouzi da Aimaask[n]irritou muitas pessoas. Se ele fosse[n]doxxado, as coisas poderiam ficar feias.[n][w][e]
 
 [msg MSG_006_0_0 [Ann]]
-[s][f 5 14]Então nós só temos o título dele, então...[n]ou na tela de tela, ou qualquer outra[n]coisa.[n]Como podemos obter mais dicas?[n][w][e]
+[s][f 5 14]Então nós só temos o título dele, então...[n]ou na tela de tela, ou qualquer outra[n]coisa. Como podemos obter mais dicas?[n][w][e]
 
 [msg MSG_007_0_0 [Makoto]]
 [s][f 5 14]Estou olhando para os arquivos dele agora.[n]Muitos desses riachos parecem ser de[n]Kichijoji.[n][w][e]

@@ -75,10 +75,10 @@
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 7020 65535 0]Ok... esta é a minha última rodada. Melhor[n]não estragar tudo, hein?[n][f 1 3 65535][w][e]
 
 [msg MSG_Change_4to5_ryuji [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 7080 65535 0]Para o bem ou para o mal, esta é a última[n]rodada![n]É tudo você![n][f 1 3 65535][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 7080 65535 0]Para o bem ou para o mal, esta é a última[n]rodada! É tudo você![n][f 1 3 65535][w][e]
 
 [msg MSG_Change_HeroBust_ryuj [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 7155 65535 0]Oof... ei, não deixe isso chegar até você[n]cara.[n]Vou levar daqui![n][f 1 3 65535][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 7155 65535 0]Oof... ei, não deixe isso chegar até você[n]cara. Vou levar daqui![n][f 1 3 65535][w][e]
 
 [msg MSG_Change_Bust_ryuji [Ryuji]]
 [s][bup 0 2 7 65535 0][f 4 10 65535 0 0][vp 8 2 0 7025 65535 0]Aw, porcaria... desculpe cara, tudo depende[n]de você...[n][f 1 3 65535][w][e]
@@ -174,7 +174,7 @@
 [s]Estou contando com você.[e]
 
 [msg MSG_Finish_Act01_moru [Morgana]]
-[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 0 1031 65535 0]Cara, você com certeza tem um caminho com as[n]palavras![n]Acho que tenho isso agora![n][f 1 3 65535][w][e]
+[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 0 1031 65535 0]Cara, você com certeza tem um caminho com as[n]palavras! Acho que tenho isso agora![n][f 1 3 65535][w][e]
 
 [msg MSG_Finish_Act02_moru [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1024 65535 0]Oh, tudo bem... mas eles definitivamente não[n]são parecidos com gatos, ok!?[n][f 1 3 65535][w][e]
@@ -291,7 +291,7 @@
 
 [msg MSG_OrderCancel_yusuke [Yusuke]]
 [s][bup 0 5 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 4064 65535 0]...Eu vejo. Isso é lamentável.[n][f 1 3 65535][w][e]
-[s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]No entanto, pode ser melhor não ser[n]exagerado.[n]O desafio pode esperar até outra hora![n][f 1 3 65535][w][e]
+[s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]No entanto, pode ser melhor não ser[n]exagerado. O desafio pode esperar até outra hora![n][f 1 3 65535][w][e]
 
 [msg MSG_CourseOnly301_yusuke [Yusuke]]
 [s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Quanto às regras...[n]Vamos com 301. Tudo começa com o básico.[n][f 1 3 65535][w][e]
@@ -499,7 +499,7 @@
 [s]Quer mudar?[e]
 
 [msg MSG_Finish_Act01_futaba [Futaba]]
-[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 9135 65535 0]Esse sentimento de tensão... é totalmente[n]real![n]Sim! Eu vou milhar![n][f 1 3 65535][w][e]
+[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 9135 65535 0]Esse sentimento de tensão... é totalmente[n]real! Sim! Eu vou milhar![n][f 1 3 65535][w][e]
 
 [msg MSG_Finish_Act02_futaba [Futaba]]
 [s][bup 0 8 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 9030 65535 0]Ei, não podemos fazer isso... heh, você pode[n]ter pena![n][f 1 3 65535][w][e]
@@ -573,7 +573,7 @@
 [s][bup 0 7 5 65535 0][f 4 10 65535 0 0][vp 8 2 0 3027 65535 0]Wha...? Eu sinto Muito...[n][f 1 3 65535][w][e]
 
 [msg MSG_Chara_GetScore_finis_7 [Haru]]
-[s][bup 0 7 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 3180 65535 0]Olhe para a nossa pontuação... podemos[n]terminar![n]Como devo jogar!?[n][f 1 3 65535][w][e]
+[s][bup 0 7 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 3180 65535 0]Olhe para a nossa pontuação... podemos[n]terminar! Como devo jogar!?[n][f 1 3 65535][w][e]
 
 [sel SEL_Finish_haru top]
 [s]Com elegância.[e]

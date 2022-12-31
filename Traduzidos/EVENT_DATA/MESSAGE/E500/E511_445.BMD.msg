@@ -7,7 +7,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]Mas, estar com minha mãe foi muito[n]divertido, eu apenas... parei de tentar[n]descobrir.[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Futaba]]
-[s][bup 0 8 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Ah, mas eu saí totalmente disso graças a[n]você, [n][f 4 2]! Estou bem agora![n][f 1 3 65535][w][e]
+[s][bup 0 8 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Ah, mas eu saí totalmente disso graças a[n]você,  [f 4 2]! Estou bem agora![n][f 1 3 65535][w][e]
 
 [sel SEL_003_0_0 top]
 [s]Tem certeza?[e]

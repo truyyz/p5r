@@ -26,7 +26,7 @@
 [s][f 5 14]Obrigado...[n][w][e]
 
 [msg CHAT_REACTION_MSG_01 [Makoto]]
-[s][f 5 14]Vou ir em breve se estiver tudo bem para[n]você, [n][f 4 2].[n]Por favor, espere por mim lá.[n][f 5 15][w][e]
+[s][f 5 14]Vou ir em breve se estiver tudo bem para[n]você,  [f 4 2].[n]Por favor, espere por mim lá.[n][f 5 15][w][e]
 
 [sel SEL_001 top]
 [s]Encontro [e]
@@ -146,6 +146,6 @@
 [s]Você também pode convidar pessoas que[n]possam desfrutar do aquário para sair[n]com você lá.[n][w][e]
 
 [msg MSG_SPOT_OPEN_NAKANO]
-[s]Agora você tem informações sobre um novo[n]ponto de encontro: [n][clr 2]Distrito de construção de comércio de[n]Nakano [n][clr 27].[n][w][e]
+[s]Agora você tem informações sobre um novo[n]ponto de encontro: [n][clr 2]Distrito de construção de comércio de[n]Nakano  [clr 27].[n][w][e]
 [s]Você também pode convidar pessoas que[n]possam desfrutar desse local para sair[n]com você lá.[n][w][e]
 

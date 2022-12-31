@@ -94,7 +94,7 @@
 
 [msg MSG_024_0_0 [Ms. Chouno]]
 [s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*suspiro* e aqui estava pensando que teria[n]um biquíni azul-celeste para vestir na[n]praia...[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Oh, vocês, meninos, todos evitando seus[n]olhos.[n]Você é tão inocente.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Oh, vocês, meninos, todos evitando seus[n]olhos. Você é tão inocente.[n][f 1 3 65535][w][e]
 
 [msg MSG_025_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1028 65535 0]Ei. Todo mundo tem esse olhar morto em seus[n]olhos...[n][f 1 3 65535][w][e]
@@ -155,7 +155,7 @@
 [msg MSG_039_0_0 [Ms. Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Se todos perceberam que algo estava errado,[n]deveria ter dito alguma coisa.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Eu me lembro agora. Hoje devemos estar lendo[n]"The Tale of the Heike".[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]Meu livro está no escritório da faculdade,[n]mas...[n]Bem, vou descobrir algo.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Meu livro está no escritório da faculdade,[n]mas... Bem, vou descobrir algo.[n][f 1 3 65535][w][e]
 
 [msg MSG_040_0_0 [Ms. Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Os sinos de Jetavana anel da impermanência[n]do mundo.[n][f 1 3 65535][w][e]
@@ -192,7 +192,7 @@
 [s][vp 8 0 0 0 65535 0]Na Bíblia, há histórias de servos que foram[n]pagos com base em suas habilidades.[n][f 1 3 65535][w][e]
 
 [msg MSG_048_0_0 [Ms. Chouno]]
-[s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ouço. Este é um lugar para aqueles com[n]habilidade e vontade de aprender. Exames de[n]entrada?[n]Apenas um waypoint.[n][f 1 3 65535][w][e]
+[s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ouço. Este é um lugar para aqueles com[n]habilidade e vontade de aprender. Exames de[n]entrada? Apenas um waypoint.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Em uma sociedade global, você compete com o[n]mundo. Porcos não qualificados morrerão a[n]morte de um cachorro.[n][f 1 3 65535][w][e]
 
 [msg MSG_049_0_0 [Morgana]]
@@ -259,7 +259,7 @@
 [msg MSG_063_0_0 [Ms. Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Se todos perceberam que algo estava errado,[n]deveria ter dito alguma coisa.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Eu me lembro agora. Hoje devemos estar lendo[n]"The Tale of the Heike".[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]Meu livro está no escritório da faculdade,[n]mas...[n]Bem, vou descobrir algo.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Meu livro está no escritório da faculdade,[n]mas... Bem, vou descobrir algo.[n][f 1 3 65535][w][e]
 
 [msg MSG_064_0_0 [Ms. Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Os sinos de Jetavana anel da impermanência[n]do mundo.[n][f 1 3 65535][w][e]

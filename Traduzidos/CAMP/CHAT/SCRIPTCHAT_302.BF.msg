@@ -10,7 +10,7 @@
 [s][f 5 14]Não seria melhor ir separadamente, apenas[n]por precaução?[n][w][e]
 
 [msg MSG_003_0_0 [Ann]]
-[s][f 5 14]Nos encontraremos assim que chegarmos lá[n]então.[n]Tudo bem com você, Yusuke?[n][w][e]
+[s][f 5 14]Nos encontraremos assim que chegarmos lá[n]então. Tudo bem com você, Yusuke?[n][w][e]
 
 [msg MSG_004_0_0 [Yusuke]]
 [s][f 5 14]Não tenho dinheiro suficiente para a[n]viagem de trem para casa.[n][w][e]

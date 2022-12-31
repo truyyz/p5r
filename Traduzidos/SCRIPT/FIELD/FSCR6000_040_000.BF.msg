@@ -8,7 +8,7 @@
 [s][bup 0 6 4 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 0 65535 0]Ele tem um olhar louco nos olhos.[n][w][e]
 
 [msg QUEST_40_ENTER_mes03 [Yusuke]]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 0 65535 0]Ele é conhecido por atacar[n]indiscriminadamente.[n]Suponho que ele realmente perdeu sua[n]sanidade...[n][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 0 65535 0]Ele é conhecido por atacar[n]indiscriminadamente. Suponho que ele realmente perdeu sua[n]sanidade...[n][w][e]
 
 [msg QUEST_40_ENTER_mes04 [Ann]]
 [s][bup 0 4 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 0 65535 0]Se não o fizermos mudar de coração, não me[n]sentirei seguro andando em público.[n][w][e]

@@ -132,7 +132,7 @@
 [s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Parece que o botão não está mais respondendo.[n][w][e]
 
 [msg MSG_e296_216_B_000 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Espere, o nível de segurança acabou de[n]subir!?[n]Foi uma armadilha!?[n][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Espere, o nível de segurança acabou de[n]subir!? Foi uma armadilha!?[n][w][e]
 
 [msg MSG_e296_216_B_001 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Não, eu não penso assim...[n][w][e]

@@ -36,7 +36,7 @@
 
 [msg MSG_CHK_BED_anne_reactio [Ann]]
 [s]Eu vou sair, ok?[n]... espere, você está dormindo?[n][w][e]
-[s]Vou deixar a chave em sua caixa de correio[n]então.[n]Vejo você amanhã.[n][w][e]
+[s]Vou deixar a chave em sua caixa de correio[n]então. Vejo você amanhã.[n][w][e]
 
 [msg MSG_CHK_BED_CALL_GROUPCH [Morgana]]
 [s]HM? Parece que você foi convidado para um[n]bate-papo.[n]Eu me pergunto o que está acontecendo.[n][w][e]

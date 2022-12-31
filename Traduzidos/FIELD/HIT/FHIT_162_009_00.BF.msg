@@ -56,7 +56,7 @@
 [s]Mas se você não tiver sucesso com o tempo,[n]seu amigo provavelmente se machucaria.[n][w][e]
 [s]O que você faria nesta situação?[n][w][e]
 [s]A: Vá atrás de seu amigo; B: Vá obter ajuda.[n][w][e]
-[s]Depois de tomar sua decisão, tome o elevador[n]correspondente![n]Obrigado![n][w][e]
+[s]Depois de tomar sua decisão, tome o elevador[n]correspondente! Obrigado![n][w][e]
 
 [msg D10_09_1st_question_chec_2 [Ann]]
 [s][bup 0 4 3 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6184 65535 0]Huh? Nenhuma resposta está errada, no[n]entanto...[n][w][e]

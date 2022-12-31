@@ -29,7 +29,7 @@
 
 [msg SAFE_MES_MORGANA_04 [Morgana]]
 [s][bup 0 3 3 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1158 65535 0]Ei, Joker, depois de terminarmos com isso...[n][w][e]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Heh, nah. É muito cedo para pensar sobre[n]isso.[n]Vamos lá, Joker![n][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Heh, nah. É muito cedo para pensar sobre[n]isso. Vamos lá, Joker![n][w][e]
 
 [msg SAFE_MES_ANN_01 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6162 65535 0]Aquelas coisas de veia em lembranças estavam[n]todas se reunindo aqui na prisão, hein...[n][w][e]

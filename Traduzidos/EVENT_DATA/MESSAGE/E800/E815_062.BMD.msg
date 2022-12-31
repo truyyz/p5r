@@ -126,5 +126,5 @@
 [s][vp 8 0 0 0 65535 0]Eu sinto que meu vínculo com Ann ficará mais[n]forte em breve...[n][f 1 3 65535][w][e]
 
 [msg MSG_039_0_0 [Ann]]
-[s][vp 8 2 0 6049 65535 0]Tendo com calma de vez em quando é bom[n]também.[n]Bem, quer voltar?[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 6049 65535 0]Tendo com calma de vez em quando é bom[n]também. Bem, quer voltar?[n][f 1 3 65535][w][e]
 

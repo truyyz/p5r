@@ -25,7 +25,7 @@
 
 [msg quest27_01 [Shadow Nejima]]
 [s][vp 1 0 0 0 0 0]Eu sou o deus da arma sobre o mundo![n]Sou invencível! Ninguém pode esperar me[n]derrotar![n][w][e]
-[s][vp 1 0 0 0 0 0]Não importa quantos vêm contra mim, ninguém[n]pode [n][clr 2]me ferir [clr 27]![n][w][e]
+[s][vp 1 0 0 0 0 0]Não importa quantos vêm contra mim, ninguém[n]pode  [clr 2]me ferir [clr 27]![n][w][e]
 
 [msg quest27_02 [Ryuji]]
 [s][bup 0 2 11 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7044 65535 0]PSH! Idiota! Vamos pega-lo![n][w][e]
@@ -34,7 +34,7 @@
 [s][vp 8 2 1 46810 65535 0]Hehehehe... é inútil.[n][w][e]
 [s][vp 1 0 0 0 0 0]Na arma sobre o mundo, ninguém pode me[n]derrotar![n][w][e]
 [s][vp 1 0 0 0 0 0]HM? Vocês de novo? Eu não achei que você[n]voltaria. Você deveria ter aprendido[n]agora...[n][w][e]
-[s][vp 1 0 0 0 0 0]Não pense que vou deixar você fugir desta[n]vez.[n]Quando a partida começar...[n][w][e]
+[s][vp 1 0 0 0 0 0]Não pense que vou deixar você fugir desta[n]vez. Quando a partida começar...[n][w][e]
 [s][vp 1 0 0 0 0 0]Vou correr para você com um loop de[n]combinação infinita! Eu vou te matar antes[n]que você possa tentar sabotar a partida![n][w][e]
 
 [msg quest27_03 [Ryuji]]

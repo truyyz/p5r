@@ -41,7 +41,7 @@
 [msg MSG_013_3_0 [Ann]]
 [s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 6156 65535 0]Shiho foi o MVP no grande encontro outro dia[n]também.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Ela não só estava na formação inicial, mas[n]também marcou mais pontos do que qualquer[n]outra pessoa![n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Não é de admirar que ela seja a estrela da[n]equipe![n]Estou tão orgulhoso de você, Shiho![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Não é de admirar que ela seja a estrela da[n]equipe! Estou tão orgulhoso de você, Shiho![n][f 1 3 65535][w][e]
 
 [msg MSG_013_5_0 [Shiho]]
 [s][bup 0 212 601 0 0][f 4 10 65535 0 0][vp 8 2 0 57937 65535 0]Ah, você é demais...[n][f 1 3 65535][w][e]

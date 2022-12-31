@@ -15,7 +15,7 @@
 [s]E se você é intimidado de novo?[e]
 
 [msg MSG_000_3_0 [Futaba]]
-[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 9089 65535 0][f 5 13 10 10 8]Mwehehe! Acho que ganhei cinquenta níveis[n]nos últimos meses, e é tudo como causa de[n]você, [n][f 4 2]![n][f 1 3 65535][w][e]
+[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 9089 65535 0][f 5 13 10 10 8]Mwehehe! Acho que ganhei cinquenta níveis[n]nos últimos meses, e é tudo como causa de[n]você, [f 4 2]![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E quero dizer, com certeza eu odiava o[n]ensino fundamental, mas conheci Kana-chan[n]lá, então...[n]Talvez não estivesse tudo ruim.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][f 4 24 0 4 0 42 3 100][f 4 24 0 4 0 9 3 100][f 4 24 0 4 0 0 0 0][vp 8 0 0 0 65535 0]O mesmo vale para o ensino médio. Mesmo se[n]eu odeio, sei que algo positivo virá disso.[n][f 1 3 65535][w][e]
 
@@ -109,7 +109,7 @@
 
 [msg MSG_017_0_0 [Futaba]]
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]É por isso que meu coração está sempre[n]batendo tanto.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ele sabe o quanto eu me importo com meus[n]colegas de equipe! E você, [n][f 4 2]...[n]Meu item-chave![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ele sabe o quanto eu me importo com meus[n]colegas de equipe! E você, [n][f 4 2]... Meu item-chave![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 8 1 300 65535][f 4 23 0 4 3 8 0 10][vp 8 2 0 9196 65535 0]De agora em diante, vou dedicar todas as[n]fibras de estar em apoio a vocês![n][f 1 3 65535][w][e]
 
 [msg MND_017_5_0]

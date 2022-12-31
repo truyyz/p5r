@@ -21,7 +21,7 @@
 [s]......[e]
 
 [msg MSG_006_0_0 [Sae]]
-[s][bup 0 105 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 177 65535 0]Tenho a responsabilidade de resolver este[n]caso.[n]Vou vencer, mesmo que isso signifique[n]intermediar um acordo com você.[n][f 1 3 65535][w][e]
+[s][bup 0 105 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 177 65535 0]Tenho a responsabilidade de resolver este[n]caso. Vou vencer, mesmo que isso signifique[n]intermediar um acordo com você.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 178 65535 0]Sua operação vazou e você não mudou meu[n]coração. Não faz sentido ser obstinado[n]agora.[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Sae]]
@@ -390,7 +390,7 @@
 
 [msg MSG_123_0_0 [Morgana]]
 [s][vp 8 0 0 315 65535 0]Makoto e os outros deveriam ter lhe dito.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 316 65535 0]Estou falando sobre o verdadeiro culpado[n]aqui.[n]Você sabe, o traidor.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 316 65535 0]Estou falando sobre o verdadeiro culpado[n]aqui. Você sabe, o traidor.[n][f 1 3 65535][w][e]
 
 [msg MSG_124_0_0 [Morgana]]
 [s][vp 8 0 0 317 65535 0]Está certo. Tenho certeza de que Makoto e os[n]outros falaram sobre isso.[n][f 1 3 65535][w][e]

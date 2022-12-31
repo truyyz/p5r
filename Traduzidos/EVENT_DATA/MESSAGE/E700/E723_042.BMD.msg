@@ -149,7 +149,7 @@
 [s][vp 8 0 0 0 65535 0]Eu posso sentir a gratidão de Maruki por[n]mim...[n][f 1 3 65535][w][e]
 
 [msg MSG_038_0_0 [Maruki]]
-[s][bup 0 216 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vamos colocar um alfinete nisso para hoje,[n]não é?[n]Espero que você dê um ouvido novamente[n]quando tiver tempo de sobra.[n][f 1 3 65535][w][e]
+[s][bup 0 216 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vamos colocar um alfinete nisso para hoje,[n]não é? Espero que você dê um ouvido novamente[n]quando tiver tempo de sobra.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Agora! Eu sei que você estava esperando por[n]isso, então vamos ao treinamento mental.[n][f 1 3 65535][w][e]
 
 [msg MND_039_0_0]

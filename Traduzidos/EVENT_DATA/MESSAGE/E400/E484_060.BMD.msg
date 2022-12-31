@@ -3,7 +3,7 @@
 
 [msg MSG_001_0_0 [Kasumi]]
 [s][bup 0 10 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Eu sou tão inútil...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Eu não faço nada além de causar problemas[n]para [n][f 4 1]-senpai, até o Dr. Maruki...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Eu não faço nada além de causar problemas[n]para  [f 4 1]-senpai, até o Dr. Maruki...[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Kasumi]]
 [s][bup 0 10 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]Eu deveria ser o "Kasumi Yoshizawa"...[n][f 1 3 65535][w][e]

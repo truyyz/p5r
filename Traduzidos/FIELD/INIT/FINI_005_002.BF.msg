@@ -124,7 +124,7 @@
 
 [msg MSG_Billi_BookRemind_Not_2 [Casually Dressed Man]]
 [s][vp 8 2 1 0 1 0]Ah, [clr 3][var 0][clr 27]! Então você comprou![n]... Oh, mas você ainda não leu.[n][w][e]
-[s]Eu acho que é uma leitura bastante[n]interessante.[n]Fala sobre fotos de truques e coisas do[n]gênero...![n][w][e]
+[s]Eu acho que é uma leitura bastante[n]interessante. Fala sobre fotos de truques e coisas do[n]gênero...![n][w][e]
 
 [msg MSG_ShotInfo_001 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1035 65535 0]バックハンドを知っていてクリアしていない[n][w][e]

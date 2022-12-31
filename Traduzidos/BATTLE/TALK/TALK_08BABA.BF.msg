@@ -113,7 +113,7 @@
 [s]Talvez você não se importe, mas eu faço. Oh,[n]vocês, humanos, podem ser bem-estreantes.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_02_R_13]
-[s]Talvez você não gostasse de ouvir, mas[n]palavras duras ajudam você a crescer,[n]querida.[n]É para o seu próprio bem.[n][w][e]
+[s]Talvez você não gostasse de ouvir, mas[n]palavras duras ajudam você a crescer,[n]querida. É para o seu próprio bem.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_02_R_14]
 [s]Querida, eu disse o que queria dizer porque[n]pensei que estávamos tendo uma conversa[n]real.[n][w][e]
@@ -308,7 +308,7 @@
 [s]Bem, isso não é a pior coisa do mundo, mas é[n]um pouco decepcionante ouvir isso por essa[n]maneira...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_06_R_2]
-[s]Você está dando uma resposta séria à minha[n]piada?[n]Você parece que precisa aprender a se[n]divertir, Sonny...[n][w][e]
+[s]Você está dando uma resposta séria à minha[n]piada? Você parece que precisa aprender a se[n]divertir, Sonny...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_06_R_3]
 [s]Então... então por que você está fazendo[n]isso?[n][w][e]
@@ -1423,11 +1423,11 @@
 
 [msg TalkMsg_GUY_NEGO_REQUIRE_3]
 [s]...* Sniffle!* Oh, esta temporada é terrível[n]para pessoas com alergias de pólen como eu.[n][w][e]
-[s]Querida, você não vai me ajudar e me deixar[n]ter um [n][f 2 5 3 9999 4]?[n][w][e]
+[s]Querida, você não vai me ajudar e me deixar[n]ter um  [f 2 5 3 9999 4]?[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_REQUIRE_4]
 [s]Criança, você está realmente me pedindo para[n]mentir para todas as outras sombras?[n][w][e]
-[s]Eles vão matar esse velho biddy assim que[n]souberem, mas posso mudar minha música se[n]eu tiver um [n][f 2 5 3 9999 3].[n][w][e]
+[s]Eles vão matar esse velho biddy assim que[n]souberem, mas posso mudar minha música se[n]eu tiver um [f 2 5 3 9999 3].[n][w][e]
 
 [sel TalkSel_GUY_NEGO_REQUIRE top]
 [s]Entregue [e]
@@ -1833,7 +1833,7 @@
 [s]Eu desisto... * SOB * Sr. KANESHIROOO...[n][w][e]
 
 [msg TalkMsg_CONTACT_13_2]
-[s]... me ajude, criança. Eu não vou contar ao[n]Sr.[n]Kaneshiro.[n][w][e]
+[s]... me ajude, criança. Eu não vou contar ao[n]Sr. Kaneshiro.[n][w][e]
 
 [msg TalkMsg_CONTACT_13_3]
 [s]... me dê um tempo, criança. Eu farei[n]qualquer coisa.[n][w][e]

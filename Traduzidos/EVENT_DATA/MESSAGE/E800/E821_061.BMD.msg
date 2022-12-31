@@ -23,7 +23,7 @@
 [msg MSG_005_0_0 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 6058 65535 0]Eu acho que realmente não há saber o que a[n]vida trará...[n][f 1 3 65535][w][e]
 [s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 42 5 100][f 4 24 0 4 0 1 5 0]...Qualquer maneira! Estou muito feliz por[n]termos que vir aqui hoje.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ver as expressões e poses na arte foi super[n]informativo.[n]Pode até ajudar minha modelagem![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ver as expressões e poses na arte foi super[n]informativo. Pode até ajudar minha modelagem![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bem, espero que possamos voltar juntos[n]quando você tiver tempo.[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Ann]]

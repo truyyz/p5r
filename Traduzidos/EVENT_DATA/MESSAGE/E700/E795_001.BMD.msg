@@ -377,7 +377,7 @@
 
 [msg MSG_109_0_0 [Ann]]
 [s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 6137 65535 0]Sim, vamos continuar! Não podemos desistir[n]agora.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 7 5 4]Tenho certeza de que teria saído há muito[n]tempo se estivesse estudando sozinha aqui.[n]Obrigado, [n][f 4 2].[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 7 5 4]Tenho certeza de que teria saído há muito[n]tempo se estivesse estudando sozinha aqui.[n]Obrigado, [f 4 2].[n][f 1 3 65535][w][e]
 
 [msg MSG_110_0_0 [Ann]]
 [s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ok, aqui vamos nós! Deixe-me saber se você[n]encontrar qualquer palavra em inglês que[n]não entende![n][f 1 3 65535][w][e]
@@ -397,7 +397,7 @@
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bom conselho, [f 4 2]. É importante revisitar[n]e revisar onde as coisas deram errado.[n][f 1 3 65535][w][e]
 
 [msg MSG_115_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sim, provavelmente foi apenas um erro[n]simples.[n]Bom conselho, [f 4 2].[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sim, provavelmente foi apenas um erro[n]simples. Bom conselho, [f 4 2].[n][f 1 3 65535][w][e]
 
 [msg MSG_116_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 7198 65535 0]Hmmm... Oh, aqui! Se eu apenas consertar[n]isso...[n][f 1 3 65535][w][e]
@@ -548,7 +548,7 @@
 
 [msg MSG_158_0_0 [Futaba]]
 [s][bup 0 8 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 9171 65535 0]Eu sou meio ruim em explicar coisas...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 10 5 8]Mas eu vou descobrir um caminho para o seu[n]bem, [n][f 4 2].[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 10 5 8]Mas eu vou descobrir um caminho para o seu[n]bem,  [f 4 2].[n][f 1 3 65535][w][e]
 
 [msg MSG_159_0_0 [Futaba]]
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bem, aqui vamos nós. Eu não vou me segurar![n][f 1 3 65535][w][e]
@@ -740,7 +740,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Parece que você entende agora, graças à[n]ajuda de Lady Ann. Certifique-se de[n]agradecer a ela![n][f 1 3 65535][w][e]
 
 [msg MSG_213_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você deve agradecer a Lady Ann pela ajuda[n]dela.[n]Eu gostaria de poder tê-la como meu[n]professor também...[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você deve agradecer a Lady Ann pela ajuda[n]dela. Eu gostaria de poder tê-la como meu[n]professor também...[n][f 1 3 65535][w][e]
 
 [msg MSG_214_0_0 [Ann]]
 [s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 6088 65535 0]Desta vez, levei algumas boas notas.[n][f 1 3 65535][w][e]
@@ -754,7 +754,7 @@
 
 [msg MSG_217_0_0 [Ann]]
 [s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 6133 65535 0]Eu nunca conheci essa estratégia. Acho que[n]estava apenas dificultando as coisas para[n]mim sem motivo...[n][f 1 3 65535][w][e]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas eu não teria descoberto se não[n]estudássemos juntos. Estou puxando meu peso[n]ok, [n][f 4 2]?[n][f 1 3 65535][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas eu não teria descoberto se não[n]estudássemos juntos. Estou puxando meu peso[n]ok, [f 4 2]?[n][f 1 3 65535][w][e]
 
 [sel SEL_218_0_0 top]
 [s]Sim, especialmente com o inglês.[e]

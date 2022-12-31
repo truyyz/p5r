@@ -86,7 +86,7 @@
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 0 0 30 65535 0]Vamos continuar praticando juntos aqui- ooh,[n]ooh! Vamos convidar todo mundo da próxima[n]vez![n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 31 65535 0]Cara... tudo isso, só de mim pedindo que[n]você me encontre aqui! Isso é, como... você[n]sabe...[n]Uma dessas greves de boa sorte![n][f 1 3 65535][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 31 65535 0]Cara... tudo isso, só de mim pedindo que[n]você me encontre aqui! Isso é, como... você[n]sabe... Uma dessas greves de boa sorte![n][f 1 3 65535][w][e]
 
 [msg MSG_025_0_0 [Morgana]]
 [s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 0 0 32 65535 0]Um "golpe" de boa sorte! Por que seria uma[n]greve? Quem protestaria com boa sorte?[n][f 1 3 65535][w][e]

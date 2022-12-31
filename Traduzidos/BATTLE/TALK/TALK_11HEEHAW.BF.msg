@@ -126,7 +126,7 @@
 
 [msg TalkMsg_GUY_CHAT_FQ_03]
 [s]O que você quer comigo-hee, ho?[n]Hee-ohhh, agora eu sei...[n][w][e]
-[s]... Você veio de outra empresa para me[n]explorar.[n]Não há como confundir, ho![n][w][e]
+[s]... Você veio de outra empresa para me[n]explorar. Não há como confundir, ho![n][w][e]
 
 [sel TalkSel_GUY_CHAT_FQ_03 top]
 [s]Você me pegou.[e]
@@ -548,7 +548,7 @@
 [s]Site especializado? Hee-whoa! Existem sites[n]na internet tudo sobre mim, ho?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_02_R_6]
-[s]Especialidade...? Oh, como um site de[n]fetiche?[n]Entendo, ho![n][w][e]
+[s]Especialidade...? Oh, como um site de[n]fetiche? Entendo, ho![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_02_R_7]
 [s]Você está com todas as informações mais[n]recentes sobre mim![n][w][e]
@@ -635,7 +635,7 @@
 [s]Eu soube que você está estrelado e tudo,[n]mas...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_03_R_16]
-[s]Uma frase de captura não é suficiente para[n]você?[n]Você é ganancioso, ho![n][w][e]
+[s]Uma frase de captura não é suficiente para[n]você? Você é ganancioso, ho![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_04]
 [s]...Oh sim! Estou depois disso. Se eu[n]sobreviver, vou comer em algum lugar, ho![n][w][e]
@@ -696,7 +696,7 @@
 
 [msg TalkMsg_GUY_CHAT_SQ_05]
 [s]... isso é ele. Eu sabia desde o início.[n][w][e]
-[s]Tudo isso é algum tipo de coisa de TV,[n]hee-ho![n]Onde está a câmera?[n][w][e]
+[s]Tudo isso é algum tipo de coisa de TV,[n]hee-ho! Onde está a câmera?[n][w][e]
 
 [sel TalkSel_GUY_CHAT_SQ_05 top]
 [s]Uau, você me pegou.[e]
@@ -737,7 +737,7 @@
 [s]... Então eu não posso deixar ir apenas com[n]um aviso, ho.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_05_R_12]
-[s]Você é de verdade vai me matar, você quer[n]dizer?[n]Isso não é engraçado, ho![n][w][e]
+[s]Você é de verdade vai me matar, você quer[n]dizer? Isso não é engraçado, ho![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_05_R_13]
 [s]Hee-ho? Você ainda está fazendo a coisa da[n]câmera sincera? Você é Real-Hee dedicado,[n]Ho![n][w][e]
@@ -914,7 +914,7 @@
 [s]Hee-ho? Isso bateu a sonolência de mim, ho.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_08_R_14]
-[s]Eu gostaria que você pudesse me deixar em[n]paz.[n]Ele não-você não me deixou ser-ho?[n][w][e]
+[s]Eu gostaria que você pudesse me deixar em[n]paz. Ele não-você não me deixou ser-ho?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_08_R_15]
 [s]Ah, pare de tentar me fazer prestar atenção[n]a você. Está realmente me incomodando...[n][w][e]
@@ -1031,7 +1031,7 @@
 [s]Você está tentando me fazer ficar bem na[n]cidade-ho?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_10_R_15]
-[s]É assim que você ajuda os outros a se[n]recuperarem?[n]O que há de errado com você, ho?[n][w][e]
+[s]É assim que você ajuda os outros a se[n]recuperarem? O que há de errado com você, ho?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_10_R_16]
 [s]Você é mau, ho! Você está fazendo isso só[n]para me deixar louco![n][w][e]
@@ -1419,11 +1419,11 @@
 
 [msg TalkMsg_GUY_NEGO_REQUIRE_2]
 [s]... hee-hoh! Hee-hoh! Eu não consigo parar[n]de tossir por causa dessa gripe maldita...[n]hee-hoh![n][w][e]
-[s]Hee-oh não! E eu também tenho uma taxa de[n]taxa![n]Você tem um [f 2 5 3 9999 4], ho?[n][w][e]
+[s]Hee-oh não! E eu também tenho uma taxa de[n]taxa! Você tem um [f 2 5 3 9999 4], ho?[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_REQUIRE_3]
 [s]... Hee-ho hee-ho! Meus olhos estão tão[n]coceira...[n]Acho que tenho alergia ao pólen, ho![n][w][e]
-[s]Hee-ho, por favor, você não vai consertar[n]com [n][f 2 5 3 9999 4], ho?[n][w][e]
+[s]Hee-ho, por favor, você não vai consertar[n]com  [f 2 5 3 9999 4], ho?[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_REQUIRE_4]
 [s]Espere, você está me pedindo para mentir[n]para as outras sombras!? Isso é muito[n]arriscado, ho![n][w][e]
@@ -1440,7 +1440,7 @@
 [s]Eu recebi um bônus surpresa no mês passado,[n]então aqui está [n][var 0]Yen. Apresse-se e pegue meu dinheiro, ho![n][w][e]
 
 [msg TalkMsg_GUY_NEGO_PAYFOR__3]
-[s]... você é tão ganancioso! Tudo bem, pegue[n]isso [n][f 2 5 3 9999 1], ho.[n][w][e]
+[s]... você é tão ganancioso! Tudo bem, pegue[n]isso  [f 2 5 3 9999 1], ho.[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_PAYFOR__4]
 [s]... eu teria-lhe, mas pegue isso [n][f 2 5 3 9999 1]Em vez disso, ho.[n][w][e]
@@ -1487,7 +1487,7 @@
 [s]Estou ligando sobre meus amigos! Será um[n]verdadeiro jubileu, ho![n][w][e]
 
 [msg TalkMsg_GUY_RESULT_ENEMY_4]
-[s]... Hee-Whoa, você se apaixonou pela minha[n]piada![n]Bem, eu tenho que ir![n][w][e]
+[s]... Hee-Whoa, você se apaixonou pela minha[n]piada! Bem, eu tenho que ir![n][w][e]
 
 [msg TalkMsg_GUY_RESULT_ENEMY_5]
 [s]Bem, eu tenho que Hee-Go![n][w][e]
@@ -1960,10 +1960,10 @@
 [s]Eu entendo você agora, ho. Você não precisa[n]de mim. Isso seria mais útil, ho.[n][w][e]
 
 [msg TalkMsg_RESULT_SQ_PERSON]
-[s]... eu sinto que somos semelhantes, ho...[n]hee!?[n]Eu me lembro agora![n][w][e]
+[s]... eu sinto que somos semelhantes, ho...[n]hee!? Eu me lembro agora![n][w][e]
 
 [msg TalkMsg_RESULT_SQ_PERSON_2]
-[s]Grandes mentes pensam da mesma forma, ho...[n]hee!?[n]Eu me lembro agora![n][w][e]
+[s]Grandes mentes pensam da mesma forma, ho...[n]hee!? Eu me lembro agora![n][w][e]
 
 [msg TalkMsg_RESULT_SQ_PAYFOR]
 [s]Eu sei mais sobre você, mas ainda não posso[n]te ver como meu hee-Bro.[n][w][e]
@@ -2025,7 +2025,7 @@
 
 [msg TalkMsg_RESULT_BRAINWASH_11]
 [s]Hee-ho... eu vou estar no cenário mundial,[n]graças a você![n][w][e]
-[s]Esperar, [clr 1][var 2][clr 27]Já é sua persona? Então ele depois, pegue[n]isso [n][f 2 5 3 9999 1]Em vez disso, ho...[n][w][e]
+[s]Esperar, [clr 1][var 2][clr 27]Já é sua persona? Então ele depois, pegue[n]isso  [f 2 5 3 9999 1]Em vez disso, ho...[n][w][e]
 
 [msg TalkMsg_RESULT_BRAINWASH_12]
 [s]Hee-ho... eu vou estar no cenário mundial,[n]graças a você![n][w][e]

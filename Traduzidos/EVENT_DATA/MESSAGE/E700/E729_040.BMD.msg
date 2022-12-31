@@ -30,7 +30,7 @@
 [s][bup 0 102 2 0 0][f 4 10 65535 0 0][vp 8 2 0 11022 65535 0]Seguro, como!? Há um buraco no chão![n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Justine]]
-[s][bup 0 101 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Essa armadilha atrai transeuntes[n]excessivamente confiantes a cair para o seu[n]destruidor?[n]Não podemos descontar a possibilidade.[n][f 1 3 65535][w][e]
+[s][bup 0 101 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Essa armadilha atrai transeuntes[n]excessivamente confiantes a cair para o seu[n]destruidor? Não podemos descontar a possibilidade.[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Caroline]]
 [s][bup 0 102 4 0 0][f 4 10 65535 0 0][vp 8 2 0 11029 65535 0]Você está louco!?[n][f 1 3 65535][w][e]

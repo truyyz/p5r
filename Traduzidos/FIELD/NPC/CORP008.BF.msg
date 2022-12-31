@@ -178,7 +178,7 @@
 [msg MSG_AKECHI_COOP_C06_00 [Akechi]]
 [s][bup 0 9 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 8057 65535 0][f 4 23 1 208 3 10 0 10]Você quer jogar bilhar de novo?[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Mesmo se eu tiver um pouco de tempo,[n]gostaria de gastá-lo com você.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Espero que você melhorasse desde a última[n]vez.[n]Se você estiver confiante, vou tocá-lo[n]usando minha mão direita.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Espero que você melhorasse desde a última[n]vez. Se você estiver confiante, vou tocá-lo[n]usando minha mão direita.[n][w][e]
 
 [msg MSG_AKECHI_COOP_C06_00_0_4 [Akechi]]
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 54408 65535 0][f 4 23 1 208 3 10 0 10]Supondo que você tenha um plano de como me[n]vencer, é isso.[n][w][e]
@@ -233,7 +233,7 @@
 [s]Eu poderia usar uma mudança de ritmo.[n][w][e]
 
 [msg MND_COOP_DOUZOKUSEI]
-[s]Eu sinto que posso me aproximar com Akechi[n]graças ao [n][var 2][n]Persona [clr 1][var 5][clr 27]...[n][w][e]
+[s]Eu sinto que posso me aproximar com Akechi[n]graças ao [n][var 2] Persona [clr 1][var 5][clr 27]...[n][w][e]
 
 [msg MND_COOP_RANKUP_OK_FIRST]
 [s]Esta pode ser uma boa oportunidade para[n]aprofundar meu vínculo com Akechi...[n][w][e]

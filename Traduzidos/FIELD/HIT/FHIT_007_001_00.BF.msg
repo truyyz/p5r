@@ -21,7 +21,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1187 65535 0]É uma coisa boa que você comprou ferramentas[n]desta loja. Suas ferramentas de infiltração[n]melhoraram drasticamente.[n][w][e]
 
 [msg MSG_LAST_GREETING_TOOL_S_2 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1156 65535 0]Você não tem tempo para comprar ferramentas[n]agora.[n]Vamos dizer nossas despedidas a todos.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1156 65535 0]Você não tem tempo para comprar ferramentas[n]agora. Vamos dizer nossas despedidas a todos.[n][w][e]
 
 [msg MSG_LAST_GREETING_GAME_S [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1067 65535 0]Esses jogos retrô foram realmente[n]divertidos. Vamos continuar jogando-os[n]mesmo depois de nos mudarmos![n][w][e]
@@ -223,7 +223,7 @@
 [s][vp 1 0 0 0 0 0]Esse cartão postal e senha do prêmio...[n]Você venceu a "Intuição de Power"!?[n][w][e]
 [s][vp 1 0 0 0 0 0]Ohhh, aquela história de fundo profunda e[n]esses belos designs de personagens![n][w][e]
 [s][vp 1 0 0 0 0 0]Com esses ótimos sons, e aquele sistema de[n]batalha totalmente único![n][w][e]
-[s][vp 1 0 0 0 0 0]É realmente um máverte entre os jogos de[n]luta![n]É uma obra-prima![n][w][e]
+[s][vp 1 0 0 0 0 0]É realmente um máverte entre os jogos de[n]luta! É uma obra-prima![n][w][e]
 [s][vp 1 0 0 0 0 0]Ah, eu tenho alguns prêmios deixados naquela[n]época, para que eu possa trocá-los com esse[n]cartão postal por você![n][w][e]
 
 [msg GAMESHOP_GAME_POSTC_PUN [Game Shop Employee]]
@@ -469,7 +469,7 @@
 [s]Eu posso sentir algo vindo para mim...[n][w][e]
 
 [msg MND_INC_PARAMCHK_S_TISIK]
-[s]Eu acho que estou perto de um avanço com o[n]meu [n][f 4 11 0][clr 26][f 4 12 0][clr 27]...[n][w][e]
+[s]Eu acho que estou perto de um avanço com o[n]meu  [f 4 11 0][clr 26][f 4 12 0][clr 27]...[n][w][e]
 
 [msg MND_RankUp_OK_Miryoku]
 [s]Eu me sinto como meu [f 4 11 1][clr 26][f 4 12 0][clr 27][n]vai melhorar em breve...[n][w][e]
@@ -484,7 +484,7 @@
 [s]Eu posso sentir algo vindo para mim...[n][w][e]
 
 [msg MND_INC_PARAMCHK_S_MIRYO]
-[s]Eu acho que estou perto de um avanço com o[n]meu [n][f 4 11 1][clr 26][f 4 12 1][clr 27]...[n][w][e]
+[s]Eu acho que estou perto de um avanço com o[n]meu  [f 4 11 1][clr 26][f 4 12 1][clr 27]...[n][w][e]
 
 [msg MND_RankUp_OK_Kiyou]
 [s]Eu me sinto como meu [f 4 11 2][clr 26][f 4 12 2][clr 27][n]vai melhorar em breve...[n][w][e]
@@ -502,7 +502,7 @@
 [s]Eu posso sentir algo vindo para mim...[n][w][e]
 
 [msg MND_INC_PARAMCHK_S_KIYOU]
-[s]Eu acho que estou perto de um avanço com o[n]meu [n][f 4 11 2][clr 26][f 4 12 2][clr 27]...[n][w][e]
+[s]Eu acho que estou perto de um avanço com o[n]meu  [f 4 11 2][clr 26][f 4 12 2][clr 27]...[n][w][e]
 
 [msg MND_RankUp_OK_Dokyo]
 [s]Eu me sinto como meu [f 4 11 3][clr 26][f 4 12 3][clr 27][n]vão melhorar em breve...[n][w][e]
@@ -517,7 +517,7 @@
 [s]Eu posso sentir algo vindo para mim...[n][w][e]
 
 [msg MND_INC_PARAMCHK_S_DOKYO]
-[s]Eu acho que estou perto de um avanço com o[n]meu [n][f 4 11 3][clr 26][f 4 12 3][clr 27]...[n][w][e]
+[s]Eu acho que estou perto de um avanço com o[n]meu  [f 4 11 3][clr 26][f 4 12 3][clr 27]...[n][w][e]
 
 [msg MND_RankUp_OK_Yasasisa]
 [s]Eu me sinto como meu [f 4 11 4][clr 26][f 4 12 4][clr 27][n]vai melhorar em breve...[n][w][e]
@@ -535,5 +535,5 @@
 [s]Eu posso sentir algo vindo para mim...[n][w][e]
 
 [msg MND_INC_PARAMCHK_S_YASAS]
-[s]Eu acho que estou perto de um avanço com o[n]meu [n][f 4 11 4][clr 26][f 4 12 4][clr 27]...[n][w][e]
+[s]Eu acho que estou perto de um avanço com o[n]meu  [f 4 11 4][clr 26][f 4 12 4][clr 27]...[n][w][e]
 

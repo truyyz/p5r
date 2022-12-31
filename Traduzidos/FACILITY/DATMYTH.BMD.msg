@@ -8,7 +8,7 @@
 [s]Senhor demoníaco das moscas cujos lacaios de[n]insetos carregam almas para ele controlar.[n]Ele é mencionado na Bíblia como líder de[n]espíritos malignos e é visto como um[n]demônio poderoso.[n][e]
 
 [msg myth_003]
-[s]Um herói no folclore celta. Ele foi chamado[n]Setanta até ganhar o nome de "Culann's[n]Hound". Existem muitas histórias de suas[n]aventuras.[n]Ele recebeu sua lança, Gae Bolg, de seu[n]mentor, Scathach.[n][e]
+[s]Um herói no folclore celta. Ele foi chamado[n]Setanta até ganhar o nome de "Culann's[n]Hound". Existem muitas histórias de suas[n]aventuras. Ele recebeu sua lança, Gae Bolg, de seu[n]mentor, Scathach.[n][e]
 
 [msg myth_004]
 [s]Um bêbado que enganou o diabo de levá-lo ao[n]inferno. Quando recusou a entrada para o[n]céu, ele foi forçado a passear a terra com[n]apenas uma brasa como uma luz.[n][e]
@@ -80,7 +80,7 @@
 [s]O líder de um enxame de pixies.[n]Qualquer pixie em um papel de liderança ou[n]com poder notável é chamado por esse nome.[n][e]
 
 [msg myth_027]
-[s]Uma criatura mística na tradição balinesa,[n]representa o bem e é o rival eterno de[n]Rangda.[n]Mesmo se derrotado, será renascido.[n]O resultado é uma luta sem fim...[n][e]
+[s]Uma criatura mística na tradição balinesa,[n]representa o bem e é o rival eterno de[n]Rangda. Mesmo se derrotado, será renascido.[n]O resultado é uma luta sem fim...[n][e]
 
 [msg myth_028]
 [s]Um monstro de elefante gigante do mito do[n]Sri Lanka, é normalmente retratado como[n]sendo montado pelo maligno, Mara.[n]Quem olha para o seu mau-olhado é[n]considerado um infortúnio.[n][e]
@@ -131,7 +131,7 @@
 [s]Um deus do lobo divino no folclore japonês,[n]também escrito como "Oguchi-no-Magami". É[n]frequentemente atraído nos painéis de[n]oração para evitar incêndios e roubos, mas[n]também é temido como comedor de humanos.[n][e]
 
 [msg myth_044]
-[s]Uma bela deusa hindu do amor e uma das[n]esposas de Shiva.[n]Sempre ao seu lado, ela desempenhou um papel[n]na abertura do terceiro olho. Ela pode se[n]transformar em Durga ou Kali quando[n]irritado.[n][e]
+[s]Uma bela deusa hindu do amor e uma das[n]esposas de Shiva.[n]Sempre ao seu lado, ela desempenhou um papel[n]na abertura do terceiro olho. Ela pode se[n]transformar em Durga ou Kali quando irritado.[n][e]
 
 [msg myth_045]
 [s]Um dos quatro principais arcanjos.[n]Ela também é a única anjo feminina neste[n]posto. O nome dela vem da palavra suméria[n]para "governador". Ela é a anjo que contou[n]a Maria sobre sua gravidez.[n][e]
@@ -155,7 +155,7 @@
 [s]Um shikigami excepcionalmente poderoso.[n]Somente o mais elite onmyoji é capaz de[n]convocar e prendê-lo ao papel. Pode afastar[n]o desastre ou curar doenças, mas seu[n]temperamento comum é bastante cruel.[n][e]
 
 [msg myth_052]
-[s]Uma cobra gigante com oito cabeças que[n]Susano-O derrotou para salvar[n]Kushinada-hime.[n]A lendária espada[n]Ame-no-Murakumo-não-Tsurugi, também[n]conhecida como "Sword of Kusanagi", emergiu[n]de sua barriga.[n][e]
+[s]Uma cobra gigante com oito cabeças que[n]Susano-O derrotou para salvar[n]Kushinada-hime. A lendária espada[n]Ame-no-Murakumo-não-Tsurugi, também[n]conhecida como "Sword of Kusanagi", emergiu[n]de sua barriga.[n][e]
 
 [msg myth_053]
 [s]Um dos 72 demônios da Goetia. Conhecido como[n]o príncipe do inferno, ele aparece como um[n]cavalo e responde a perguntas do passado,[n]presente e futuro. Ele é fiel ao seu[n]conjurador.[n][e]
@@ -164,7 +164,7 @@
 [s]Um deus macaco da ascendência hindu. Seu pai[n]é Vayu, o deus do vento. Extremamente ágil,[n]ele realizou muitas ações heróicas no[n]Ramayana. Ele é poderoso, pode voar e pode[n]mudar sua forma em muitas formas.[n][e]
 
 [msg myth_055]
-[s]Oitavo das nove ordens de anjos.[n]Seu dever é ministrar a humanos e entregar[n]mensagens.[n]Eles são guerreiros do céu e lideram as[n]forças do céu durante a batalha com os[n]exércitos do mal.[n][e]
+[s]Oitavo das nove ordens de anjos.[n]Seu dever é ministrar a humanos e entregar[n]mensagens. Eles são guerreiros do céu e lideram as[n]forças do céu durante a batalha com os[n]exércitos do mal.[n][e]
 
 [msg myth_056]
 [s]Um "monstro do pegal de backback" do Japão[n]que pula nas costas daqueles que passam[n]caminhos gramados.[n]É pesado e não é facilmente removido, mas se[n]transformará em moedas de ouro se você[n]puder levá-lo de volta para casa.[n][e]
@@ -248,7 +248,7 @@
 [s]O general do inferno.[n]Ele continua vigiando outros demônios. Um[n]dos maiores necromantes do inferno, ele[n]pode controlar almas e cadáveres.[n][e]
 
 [msg myth_083]
-[s]Entre os oito Yashaou e um dos atendentes de[n]Bishamonten.[n]Originalmente um demônio para comer[n]crianças, ele foi convertido pela figura do[n]protetor de Thebuddha e Becamea.[n][e]
+[s]Entre os oito Yashaou e um dos atendentes de[n]Bishamonten. Originalmente um demônio para comer[n]crianças, ele foi convertido pela figura do[n]protetor de Thebuddha e Becamea.[n][e]
 
 [msg myth_084]
 [s]Um monstro primitivo com um corpo viscoso.[n]Existem várias teorias quanto à sua origem,[n]mas ainda está em debate.[n]Disse para coletar compulsivamente objetos[n]brilhantes.[n][e]
@@ -395,7 +395,7 @@
 [s]Um termo geral para familiares usados pelos[n]mágicos judaico-cristãos, eles geralmente[n]são selados em garrafas, anéis ou talismãs.[n]Eles atormentam o alvo selecionado pelo[n]conjurador.[n][e]
 
 [msg myth_132]
-[s]Um pássaro japonês monstruoso e de fogo com[n]o rosto de um homem. Na verdade, é um[n]cadáver que não recebeu um serviço memorial[n]adequado.[n]Eles aparecem diante dos monges que[n]negligenciam seus deveres.[n][e]
+[s]Um pássaro japonês monstruoso e de fogo com[n]o rosto de um homem. Na verdade, é um[n]cadáver que não recebeu um serviço memorial[n]adequado. Eles aparecem diante dos monges que[n]negligenciam seus deveres.[n][e]
 
 [msg myth_133]
 [s]Uma criatura da tradição japonesa com a[n]cabeça de um macaco, as pernas do tigre e o[n]rabo de cobra. A história de Heike diz que[n]se escondia atrás de uma nuvem negra todas[n]as noites para atacar o imperador.[n][e]
@@ -548,7 +548,7 @@
 [s]Uma persona de outra história. O deus grego[n]da morte, ele é filho de Nyx e o irmão[n]gêmeo de Hypnos. Ele é conhecido por[n]fornecer aos mortais uma morte pacífica.[n][e]
 
 [msg myth_183]
-[s]Uma persona de outra história. Um dos deuses[n]antigos que existia antes do Japão foi[n]formado. Ele criou o Oyashima do caos,[n]depois deu à luz crianças inúmeras crianças[n]e colocou o fundamento do solo e da[n]natureza.[n][e]
+[s]Uma persona de outra história. Um dos deuses[n]antigos que existia antes do Japão foi[n]formado. Ele criou o Oyashima do caos,[n]depois deu à luz crianças inúmeras crianças[n]e colocou o fundamento do solo e da natureza.[n][e]
 
 [msg myth_184]
 [s]Uma persona de outra história. Ele é o rival[n]de Izanagi e se parece com ele. Magatsu[n]significa "calamidade". Ao contrário de[n]Izanagi, que fundou a terra e trouxe ordem,[n]ele lidera tudo de volta ao caos.[n][e]
@@ -587,7 +587,7 @@
 [s]Uma persona virou picaro depois de se tornar[n]a máscara do trapaceiro.[n]Ela apareceu de uma filmagem brilhante de[n]bambu. Ela recebeu muitas propostas, mas as[n]rejeitou e voltou para a lua.[n][e]
 
 [msg myth_196]
-[s]Uma persona virou picaro depois de se tornar[n]a máscara do trapaceiro.[n]Ela é filha de Minos. Ela ajudou Teseu a[n]derrotar o Minotauro e deu-lhe uma bola de[n]fio para que ele pudesse escapar do[n]labirinto.[n][e]
+[s]Uma persona virou picaro depois de se tornar[n]a máscara do trapaceiro.[n]Ela é filha de Minos. Ela ajudou Teseu a[n]derrotar o Minotauro e deu-lhe uma bola de[n]fio para que ele pudesse escapar do labirinto.[n][e]
 
 [msg myth_197]
 [s]Uma persona virou picaro depois de se tornar[n]a máscara do trapaceiro.[n]Filho de Pasiphae, ele nasceu um monstro de[n]cabeça.[n]Locada no labirinto como o Minotauro, ele[n]empunhava um machado de dupla face.[n][e]
@@ -722,7 +722,7 @@
 [s]O nome francês da heroína titular de[n]Cinderela, um conto frequentemente recuado[n]de grande renome, na qual um Waif[n]maltratado ganha luxo, beleza e uma única[n]dança de noite com um príncipe através do[n]poder da magia.[n][e]
 
 [msg myth_241]
-[s]O nome verdadeiro de Freyja, das divindades[n]nórdicas vanir. Irmã gêmea mais nova de[n]Freyr.[n]Her name means "dís[n]of the Vanir"—dís[n]sendo uma deusa.[n]Conhecido por ser uma grande beleza e um[n]mestre de magia em forma de bruxa.[n][e]
+[s]O nome verdadeiro de Freyja, das divindades[n]nórdicas vanir. Irmã gêmea mais nova de[n]Freyr. Her name means "dís[n]of the Vanir"—dís[n]sendo uma deusa.[n]Conhecido por ser uma grande beleza e um[n]mestre de magia em forma de bruxa.[n][e]
 
 [msg myth_242]
 [s]O outro nome do capitão Kidd, pirata de[n]renome mundial.[n]Durante anos após sua morte, canções e[n]lendas de sua vida inspiraram muitos a[n]perseguir rumores de seu tesouro enterrado[n]pelos mares.[n][e]
@@ -746,7 +746,7 @@
 [s]O nome original do Necronomicon, um tomo[n]cheio dos mistérios dos mitos de Cthulhu.[n]Dito ter sido de autoria de Abdul Alazred,[n]um poeta e devoto de Cthulhu conhecido como[n]"Mad Arab".[n][e]
 
 [msg myth_249]
-[s]O lendário saxão que se opôs aos normandos[n]durante a conquista da Inglaterra no século[n]11.[n]Disse ter sido a base para histórias de[n]Robin Hood. Chamado "Hereward the Wake" por[n]sua vigilância.[n][e]
+[s]O lendário saxão que se opôs aos normandos[n]durante a conquista da Inglaterra no século[n]11. Disse ter sido a base para histórias de[n]Robin Hood. Chamado "Hereward the Wake" por[n]sua vigilância.[n][e]
 
 [msg myth_250]
 [s]O nome verdadeiro da heroína de Cinderela.[n]"Cinder Ella" era um apelido irônico,[n]nascido de seu trabalho árduo, sempre[n]deixando seu poeirento e fuligem.[n]Depois de se casar com seu príncipe, ela se[n]tornou "princesa Ella".[n][e]
@@ -902,7 +902,7 @@
 [s]A serpente de 1.000 cabeças da lenda hindu,[n]Ananta é sânscrita por "Infinite". Depois[n]de descansar sobre ele, Vishnu acordou e[n]criou o universo.[n][e]
 
 [msg myth_301]
-[s]O terceiro das nove ordens dos anjos. Eles[n]são os anjos da dignidade e da justiça que[n]carregam o trono de Deus e governam o[n]pensamento.[n]Eles são anjos de conhecimento.[n][e]
+[s]O terceiro das nove ordens dos anjos. Eles[n]são os anjos da dignidade e da justiça que[n]carregam o trono de Deus e governam o[n]pensamento. Eles são anjos de conhecimento.[n][e]
 
 [msg myth_302]
 [s]Reserva mitologia [n][e]
@@ -1292,7 +1292,7 @@
 [s]Um cavaleiro da corte de Seelie, disse para[n]proteger a floresta de Carterhaugh. Depois[n]de ser sequestrado pelas fadas com a tenra[n]idade de 9 anos, ele viveu grande parte de[n]sua vida entre elas.[n][e]
 
 [msg myth_431]
-[s]O terceiro das nove ordens dos anjos. Eles[n]são os anjos da dignidade e da justiça que[n]carregam o trono de Deus e governam o[n]pensamento.[n]Eles são anjos de conhecimento.[n][e]
+[s]O terceiro das nove ordens dos anjos. Eles[n]são os anjos da dignidade e da justiça que[n]carregam o trono de Deus e governam o[n]pensamento. Eles são anjos de conhecimento.[n][e]
 
 [msg myth_432]
 [s]Um gigante de incêndio em tradição nórdica.[n]Ele governa o reino do fogo, Muspelheim, e[n]brande uma espada em chamas. Em Ragnarok,[n]ele incendiará o mundo.[n][e]

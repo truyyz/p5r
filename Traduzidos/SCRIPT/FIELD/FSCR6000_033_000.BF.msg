@@ -58,7 +58,7 @@
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 0 0 0]Você fez o que quisesse e causou muitos[n]danos. O que você planeja fazer sobre isso[n]agora?[n][w][e]
 
 [msg MSG_051_0_0 [Shadow Asakura]]
-[s][vp 1 0 0 0 0 0]... Vou me desculpar com as meninas que eu[n]administro.[n]Farei algo para mostrar a eles minha[n]sinceridade.[n][w][e]
+[s][vp 1 0 0 0 0 0]... Vou me desculpar com as meninas que eu[n]administro. Farei algo para mostrar a eles minha[n]sinceridade.[n][w][e]
 
 [msg MSG_052_0_0 [Ann]]
 [s][bup 0 4 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6194 65535 0]Sinceridade? Como!?[n][w][e]

@@ -41,7 +41,7 @@
 
 [msg MSG_010_0_0 [Ohya]]
 [s][bup 0 107 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Onde ela está...?[n][f 1 3 65535][w][e]
-[s][f 4 24 0 4 0 37 4 100][bup 0 107 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O que você quer dizer, você não pode me[n]dizer!?[n]Por que diabos não!?[n][f 1 3 65535][w][e]
+[s][f 4 24 0 4 0 37 4 100][bup 0 107 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O que você quer dizer, você não pode me[n]dizer!? Por que diabos não!?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ei! O que está acontecendo!? Esperar![n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Ohya]]
@@ -127,7 +127,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Arghhh! Isso é uma merda![n][f 1 3 65535][w][e]
 
 [msg MSG_033_0_0 [Ohya]]
-[s][bup 0 107 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Hmph. Eu sei que estaria jogando direto nas[n]mãos dele se eu o deixasse chegar até mim,[n]mas...[n]Droga![n][f 1 3 65535][w][e]
+[s][bup 0 107 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Hmph. Eu sei que estaria jogando direto nas[n]mãos dele se eu o deixasse chegar até mim,[n]mas... Droga![n][f 1 3 65535][w][e]
 
 [msg MSG_034_0_0 [Ohya]]
 [s][bup 0 107 5 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 16 15 1007]Não. Preciso ficar calmo... Não posso mais[n]dar a ele mais motivos para me demitir.[n][f 1 3 65535][w][e]

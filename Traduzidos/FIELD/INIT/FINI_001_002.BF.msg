@@ -27,7 +27,7 @@
 
 [msg MSG_e650_102_00_mes04 [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 54202 65535 0]Bem, o problema é que eu tenho alguns[n]ingressos gratuitos para um lounge de[n]dardos desse cara que eu conheço.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 0 0 65535 0]Mas eu esqueci totalmente que eles expiraram[n]hoje.[n]Então... você quer ir agora?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 0 0 65535 0]Mas eu esqueci totalmente que eles expiraram[n]hoje. Então... você quer ir agora?[n][f 1 3 65535][w][e]
 
 [msg MSG_e650_102_00_mes05 [Morgana]]
 [s][bup 0 3 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 1028 65535 0]Ryuji... não terminamos de falar sobre como[n]precisamos estar em guarda?[n][f 1 3 65535][w][e]
@@ -50,5 +50,5 @@
 
 [msg MSG_e650_102_00_mes08 [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7088 65535 0]O que, de verdade? Há muitas lojas[n]diferentes do lado de fora da estação lá.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7172 65535 0]É apenas uma parada de Shibuya, então vamos[n]para o [n][clr 2]Linha inogami [clr 27]primeiro.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7172 65535 0]É apenas uma parada de Shibuya, então vamos[n]para o  [clr 2]Linha inogami [clr 27]primeiro.[n][f 1 3 65535][w][e]
 

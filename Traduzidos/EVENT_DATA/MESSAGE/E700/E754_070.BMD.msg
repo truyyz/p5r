@@ -11,7 +11,7 @@
 
 [msg MSG_003_0_0 [Ohya]]
 [s][bup 0 107 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Agora acho que entendi.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]É como... quando você está com seu[n]verdadeiro amor, qualquer encontro é um[n]ótimo encontro![n]Ou algo extravagante assim.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]É como... quando você está com seu[n]verdadeiro amor, qualquer encontro é um[n]ótimo encontro! Ou algo extravagante assim.[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Ohya]]
 [s][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]... A propósito, isso é uma data para o dia[n]branco?[n][f 1 3 65535][w][e]

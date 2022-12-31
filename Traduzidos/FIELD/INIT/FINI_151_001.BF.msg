@@ -463,7 +463,7 @@
 [s][vp 1 0 0 3149 0 0][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]MM... vamos ser ainda mais cautelosos do que[n]o normal, Joker.[n][w][e]
 
 [msg SAFE_EXIT_HIGH_03_PC04_m [Ann]]
-[s][vp 1 0 0 4149 0 0][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]O nível de segurança é alto, então vamos ser[n]cautelosos.[n]Não empurre.[n][w][e]
+[s][vp 1 0 0 4149 0 0][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]O nível de segurança é alto, então vamos ser[n]cautelosos. Não empurre.[n][w][e]
 
 [msg SAFE_EXIT_HIGH_03_PC05_m [Yusuke]]
 [s][vp 1 0 0 5149 0 0][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eles estão cientes de nós, Joker.[n]Não se apresse.[n][w][e]
@@ -843,7 +843,7 @@
 [s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7103 65535 0]Mkay, tudo o que temos agora é roubar o[n]tesouro que aparece, sim? Finalmente chegou[n]a hora.[n][w][e]
 
 [msg D01_04_e166_015_mes02 [Ann]]
-[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Mas precisamos enviar o cartão de visita[n]primeiro.[n]Quando devemos fazer isso?[n][w][e]
+[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Mas precisamos enviar o cartão de visita[n]primeiro. Quando devemos fazer isso?[n][w][e]
 
 [msg D01_04_e166_015_mes03 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Apenas segure. Vamos recuar por enquanto,[n]então podemos falar mais sobre essas coisas[n]no esconderijo.[n][w][e]

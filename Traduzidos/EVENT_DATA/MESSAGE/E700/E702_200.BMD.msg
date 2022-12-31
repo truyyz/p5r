@@ -52,7 +52,7 @@
 
 [msg MSG_013_0_0 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Pai nunca passou muito tempo em casa.[n]Quando ele estava lá, ele sempre tinha sua[n]mente em algum caso.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]E Sis dedicou todo o seu tempo em seu[n]trabalho.[n]Por ambos os nossos saques.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]E Sis dedicou todo o seu tempo em seu[n]trabalho. Por ambos os nossos saques.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Eu respeitei muito os dois. E eu ainda faço,[n]é claro... mas não posso simplesmente[n]deixá-los cuidar de mim para sempre.[n][f 1 3 65535][w][e]
 
 [sel SEL_014_0_0 top]

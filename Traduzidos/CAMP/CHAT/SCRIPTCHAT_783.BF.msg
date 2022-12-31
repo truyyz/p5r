@@ -12,7 +12,7 @@
 
 [msg MSG_101_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Lady Ann está chegando!? Uh... quero[n]dizer, tudo bem.[n]Nada demais.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Mas você ainda não conhece Tóquio muito[n]bem.[n]Pode ser uma boa chance de se[n]familiarizar com a área... ou algo assim.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Mas você ainda não conhece Tóquio muito[n]bem. Pode ser uma boa chance de se[n]familiarizar com a área... ou algo assim.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Então quais são os teus pensamentos? Você[n]vai ir para [n][clr 2]Harajuku [clr 27]com ryuji?[n][f 1 3 65535][w][e]
 
 [sel SEL_111_0_0 top]
@@ -158,6 +158,6 @@
 [s]Você também pode convidar pessoas que[n]possam desfrutar do aquário para sair[n]com você lá.[n][w][e]
 
 [msg MSG_SPOT_OPEN_NAKANO]
-[s]Agora você tem informações sobre um novo[n]ponto de encontro: [n][clr 2]Distrito de construção de comércio de[n]Nakano [n][clr 27].[n][w][e]
+[s]Agora você tem informações sobre um novo[n]ponto de encontro: [n][clr 2]Distrito de construção de comércio de[n]Nakano  [clr 27].[n][w][e]
 [s]Você também pode convidar pessoas que[n]possam desfrutar desse local para sair[n]com você lá.[n][w][e]
 

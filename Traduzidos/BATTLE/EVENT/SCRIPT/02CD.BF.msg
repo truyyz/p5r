@@ -18,7 +18,7 @@
 [s][bup 0 4 100 0 0][vp 8 2 2 6132 0 0][f 4 10 65535 0 0]Ei Joker, vamos ver se podemos acalmá-la![n]Pode ser mais fácil mudar seu coração dessa[n]maneira![n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_HOLDUP_FIRST [Ann]]
-[s][bup 0 4 100 0 0][vp 8 2 2 6132 0 0][f 4 10 65535 0 0]Ok! Parece que podemos conversar com ela[n]agora![n]Vamos tentar ir até ela![n][f 1 3 65535][w][e]
+[s][bup 0 4 100 0 0][vp 8 2 2 6132 0 0][f 4 10 65535 0 0]Ok! Parece que podemos conversar com ela[n]agora! Vamos tentar ir até ela![n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_MORE_BOKO [Ann]]
 [s][bup 0 4 100 0 0][vp 8 2 2 6132 0 0][f 4 10 65535 0 0]Não estamos chegando a lugar algum assim...[n][f 1 3 65535][w][e]

@@ -146,7 +146,7 @@
 
 [msg MSG_C03_ACTION_D00_51_00 [Haru]]
 [s][bup 0 7 200 65535 0][f 4 10 65535 0 0][f 4 23 1 203 3 10 0 10][vp 8 2 1 3020 65535 0]Oh, tudo bem. Isso tem a ver com seu plano[n]de alguma forma?[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Tudo o que precisamos fazer agora é enviar o[n]cartão de visita. Por favor me avise quando[n]estiver pronto, [n][f 4 2]-kun.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Tudo o que precisamos fazer agora é enviar o[n]cartão de visita. Por favor me avise quando[n]estiver pronto, [f 4 2]-kun.[n][w][e]
 
 [msg MSG_C03_BEGIN_D00_60_00 [Haru]]
 [s][bup 0 7 200 65535 0][f 4 10 65535 0 0][f 4 23 1 203 3 10 0 10][vp 8 2 1 3001 65535 0]Tudo o que podemos fazer agora é assistir...[n][w][e]
@@ -167,7 +167,7 @@
 [s]Nada em particular.[e]
 
 [msg MSG_C03_BEGIN_D07_10_00 [Haru]]
-[s][bup 0 7 200 65535 0][f 4 23 1 203 3 10 0 10][vp 8 2 1 0 65535 0][f 4 10 65535 0 0]Este é um ótimo momento para recarregar[n]nossas baterias. Enfim, você precisa de[n]algo aqui, [n][f 4 2]-kun?[n][w][e]
+[s][bup 0 7 200 65535 0][f 4 23 1 203 3 10 0 10][vp 8 2 1 0 65535 0][f 4 10 65535 0 0]Este é um ótimo momento para recarregar[n]nossas baterias. Enfim, você precisa de[n]algo aqui, [f 4 2]-kun?[n][w][e]
 
 [sel SEL_C03_ACTION_D07_10_01 top]
 [s]Eu vim para te ver.[e]
@@ -429,7 +429,7 @@
 [s][bup 0 7 201 65535 0][f 4 10 65535 0 0][f 4 23 1 203 3 10 0 10][vp 8 2 1 0 65535 0]Hee hee... você está preocupado com os[n]plantadores?[n][w][e]
 
 [msg MND_COOP_DOUZOKUSEI]
-[s]Eu sinto que posso me aproximar de Haru[n]graças ao [n][var 2][n]Persona [clr 1][var 5][clr 27]...[n][w][e]
+[s]Eu sinto que posso me aproximar de Haru[n]graças ao [n][var 2] Persona [clr 1][var 5][clr 27]...[n][w][e]
 
 [msg MND_COOP_RANKUP_OK]
 [s]Eu sinto que meu vínculo com Haru ficará[n]mais forte em breve...[n][w][e]
@@ -762,7 +762,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 1 47 65535 0]can run my own café.[n][w][e]
 
 [msg MSG_C03_BYEGREET_00_03_5 [Haru]]
-[s][bup 0 7 1 65535 0][f 4 23 1 203 3 10 0 10][f 4 10 65535 0 0][vp 8 0 1 48 65535 0]Além disso, se eu posso fazer isso, tenho[n]certeza de que sim... confesso, estou[n]animado para ver o que o futuro tem[n]reservado.[n][w][e]
+[s][bup 0 7 1 65535 0][f 4 23 1 203 3 10 0 10][f 4 10 65535 0 0][vp 8 0 1 48 65535 0]Além disso, se eu posso fazer isso, tenho[n]certeza de que sim... confesso, estou[n]animado para ver o que o futuro tem reservado.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 49 65535 0]Eu só posso imaginar que será difícil.[n]Vou ter que equilibrar meus estudos e[n]gerenciar a empresa...[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 50 65535 0]Mas é tudo por uma questão de realizar meu[n]sonho. Eu juro que vou fazer isso funcionar.[n][w][e]
 
@@ -809,7 +809,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 1 73 65535 0]Talvez eu possa estudar os fundamentos da[n]administração agora e, eventualmente, pode[n]ser difícil, equilibrando meus estudos e a[n]empresa. Mas eu juro que vou ver.[n][w][e]
 
 [msg MSG_C03_BYEGREET_01_04_5 [Haru]]
-[s][bup 0 7 1 65535 0][f 4 23 1 203 3 10 0 10][f 4 10 65535 0 0][vp 8 0 1 74 65535 0]Temos planos de expandir para outras[n]regiões! Talvez se possa aparecer em sua[n]cidade, [n][f 4 2]-kun.[n][w][e]
+[s][bup 0 7 1 65535 0][f 4 23 1 203 3 10 0 10][f 4 10 65535 0 0][vp 8 0 1 74 65535 0]Temos planos de expandir para outras[n]regiões! Talvez se possa aparecer em sua[n]cidade, [f 4 2]-kun.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 75 65535 0]A partir de agora, terei que equilibrar meus[n]estudos e a empresa. Sem tarefa fácil,[n]tenho certeza.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 76 65535 0]Mas é tudo por uma questão de realizar meu[n]sonho. Eu juro que vou fazer isso funcionar.[n][w][e]
 

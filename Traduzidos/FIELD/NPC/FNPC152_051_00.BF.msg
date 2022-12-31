@@ -21,7 +21,7 @@
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 7024 65535 0]Passamos por toda a merda, mas finalmente[n]conseguimos roubar esse tesouro![n]Estou tão pronto para isso![n][w][e]
 
 [msg SAFETY_MES_RYUJI_02 [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 7048 65535 0]Nada parece tão bom quanto um passe de[n]bastão![n]Me bata a qualquer momento, tudo bem?[n][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 7048 65535 0]Nada parece tão bom quanto um passe de[n]bastão! Me bata a qualquer momento, tudo bem?[n][w][e]
 
 [msg SAFETY_MES_RYUJI_03 [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 7162 65535 0]Você pode meter pedidos ou apenas se cuidar[n]de cuidar de mim mesmo- depende de você.[n][w][e]

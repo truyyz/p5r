@@ -5,13 +5,13 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 1156 65535 0]Não se preocupe com o barulho ao seu redor.[n]Apenas faça o seu melhor para se[n]concentrar, ok?[n][f 1 3 65535][w][e]
 
 [msg MND_rnd01 [Morgana]]
-[s][bup 0 3 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 1027 65535 0]As bibliotecas geralmente são silenciosas,[n]certo?[n]O que está acontecendo?[n][f 1 3 65535][w][e]
+[s][bup 0 3 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 1027 65535 0]As bibliotecas geralmente são silenciosas,[n]certo? O que está acontecendo?[n][f 1 3 65535][w][e]
 
 [msg MND_rnd02 [Morgana]]
 [s][bup 0 3 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 1174 65535 0]Sheesh... eles não podem conversar em outro[n]lugar?[n][f 1 3 65535][w][e]
 
 [msg MSG_rnd00_normal [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 1187 65535 0]Você pode contar muito sobre uma pessoa com[n]base na escolha do chumbo lápis. O meu[n]seria...[n]Oh, você não está ouvindo.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 1187 65535 0]Você pode contar muito sobre uma pessoa com[n]base na escolha do chumbo lápis. O meu[n]seria... Oh, você não está ouvindo.[n][f 1 3 65535][w][e]
 
 [msg MSG_rnd01_normal [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 1187 65535 0]Há rabiscos nesta mesa.[n]Droga... essa pessoa é bastante artista.[n][f 1 3 65535][w][e]
@@ -44,7 +44,7 @@
 [s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 0 1025 65535 0][f 4 22 65535 1 26]Não há como alguém se concentrar em estudar[n]nesse ambiente... vamos mudar o coração de[n]Kamoshida e nos redimir![n][f 1 3 65535][w][e]
 
 [msg MSG_GetParam01 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1035 65535 0][f 4 22 65535 1 41]Maneira de colocar seu cérebro para[n]funcionar.[n]Você já está mais inteligente![n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1035 65535 0][f 4 22 65535 1 41]Maneira de colocar seu cérebro para[n]funcionar. Você já está mais inteligente![n][f 1 3 65535][w][e]
 
 [msg MSG_StudyBook_Info [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Parece que você entendeu melhor as coisas[n]depois de ler o livro de estudo.[n][f 1 3 65535][w][e]

@@ -31,7 +31,7 @@
 [s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Se você ficar confuso, basta dar uma olhada[n]no Kaneshiro's [n][clr 2]Diário [clr 27]. Está entre nossos pertences.[n][w][e]
 
 [msg e259_501_selA_1_mes01 [Ryuji]]
-[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7079 65535 0]Não fique com pés frios. Duvido que isso[n]goste, exploda ou qualquer coisa se você[n]estragar...[n]Prolly.[n][w][e]
+[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7079 65535 0]Não fique com pés frios. Duvido que isso[n]goste, exploda ou qualquer coisa se você[n]estragar... Prolly.[n][w][e]
 
 [msg e259_501_selA_1_mes02 [Makoto]]
 [s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ele tem razão. Se realmente não houver outro[n]caminho a seguir, não pode doer pelo menos[n]tentar isso.[n][w][e]

@@ -189,7 +189,7 @@
 [msg MSG_053_0_0 [Sojiro]]
 [s][bup 0 103 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Na verdade, eu não vou deixar você se[n]arrepender.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Se você precisar de ajuda, apenas me diga.[n]Eu posso não ser gracioso... mas estarei lá[n]para protegê-lo.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E você pode ficar comigo pelo tempo que[n]quiser.[n]Para sempre, se você quiser.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E você pode ficar comigo pelo tempo que[n]quiser. Para sempre, se você quiser.[n][f 1 3 65535][w][e]
 
 [msg MSG_054_0_0 [Futaba]]
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mm-hm, eu vou.[n][f 1 3 65535][w][e]
@@ -199,7 +199,7 @@
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 9024 65535 0]Mal posso esperar para continuar vivendo com[n]você também, [n][f 4 2]![n][f 1 3 65535][w][e]
 
 [msg MSG_056_0_0 [Futaba]]
-[s][bup 0 8 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]ACK, está quase na hora da transmissão ao[n]vivo![n]O diretor vai estar nesta semana![n][f 1 3 65535][w][e]
+[s][bup 0 8 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]ACK, está quase na hora da transmissão ao[n]vivo! O diretor vai estar nesta semana![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Estou fora daqui! Tchau![n][f 1 3 65535][w][e]
 
 [msg MSG_057_0_0 [Sojiro]]

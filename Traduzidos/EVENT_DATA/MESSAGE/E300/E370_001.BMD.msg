@@ -25,7 +25,7 @@
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Olhe em volta para as exposições... e comer[n]coisas?[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Não há regras definidas para esse tipo de[n]coisa.[n]Ande por aí e saia, como quando fomos à[n]praia.[n][f 1 3 65535][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Não há regras definidas para esse tipo de[n]coisa. Ande por aí e saia, como quando fomos à[n]praia.[n][f 1 3 65535][w][e]
 
 [sel SEL_010_0_0 top]
 [s]Ryuji está certo.[e]

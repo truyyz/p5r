@@ -30,7 +30,7 @@
 [msg MSG_008_0_0 [Kasumi]]
 [s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 57037 65535 0]Lembrei-me de algo de quando era pequeno.[n]Meu pai costumava me levar muito às gaiolas[n]de rebatidas.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]As outras crianças estavam com medo de serem[n]atropeladas pelas bolas de beisebol, mas eu[n]simplesmente adorava balançar o bastão.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Toda vez que bati em um, continuava[n]pensando: "Não importa o quão rápido eles[n]são![n]Vou bater na órbita! " [n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Toda vez que bati em um, continuava[n]pensando: "Não importa o quão rápido eles[n]são! Vou bater na órbita! " [n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu pensei que se eu tentasse me colocar de[n]volta naquele espaço de cabeça, poderia ter[n]algumas idéias sobre como recuperar minha[n]ousadia.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O que você acha? Isso poderia funcionar,[n]certo?[n][f 1 3 65535][w][e]
 

@@ -110,7 +110,7 @@
 [s][vp 8 0 0 0 65535 0]Eu posso sentir a gratidão sincera de Maruki[n]por mim...[n][f 1 3 65535][w][e]
 
 [msg MSG_025_0_0 [Maruki]]
-[s][bup 0 216 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Agora, a técnica de treinamento mental de[n]hoje.[n]Que tal algo como isso?[n][f 1 3 65535][w][e]
+[s][bup 0 216 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Agora, a técnica de treinamento mental de[n]hoje. Que tal algo como isso?[n][f 1 3 65535][w][e]
 
 [msg MSG_026_0_0 [Maruki]]
 [s][f 4 10 65535 0 0][vp 8 2 0 57466 65535 0]Espero que possamos conversar novamente em[n]algum momento.[n][f 1 3 65535][w][e]

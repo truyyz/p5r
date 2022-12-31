@@ -59,7 +59,7 @@
 
 [msg MSG_017_0_0 [Akechi]]
 [s][f 5 14]Eu tenho investigado.[n][w][e]
-[s][f 5 14]Mas vou precisar de um pouco mais de[n]tempo.[n]É o melhor que tenho uma compreensão da[n]imagem completa antes de compartilhar[n]minhas descobertas.[n][w][e]
+[s][f 5 14]Mas vou precisar de um pouco mais de[n]tempo. É o melhor que tenho uma compreensão da[n]imagem completa antes de compartilhar[n]minhas descobertas.[n][w][e]
 
 [msg MSG_018_0_0 [Ryuji]]
 [s][f 5 14]O que? Você não encontrou seriamente nada?[n][w][e]

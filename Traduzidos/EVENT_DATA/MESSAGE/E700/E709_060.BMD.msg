@@ -26,7 +26,7 @@
 
 [msg MSG_004_0_0 [Futaba]]
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas então uma garota chamada Kana foi[n]transferida para a minha escola...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ela estava muito ausente no começo, então[n]quando estava lá, as outras crianças a[n]intimidavam...[n]Como eles fizeram comigo.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ela estava muito ausente no começo, então[n]quando estava lá, as outras crianças a[n]intimidavam... Como eles fizeram comigo.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas um dia, ela disse algo para mim: "Bom[n]dia". Ela começou a dizer isso todos os[n]dias a partir de então.[n][f 1 3 65535][w][e]
 
 [sel SEL_005_0_0 top]

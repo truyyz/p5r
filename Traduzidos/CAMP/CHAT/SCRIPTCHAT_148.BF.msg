@@ -37,7 +37,7 @@
 [s]Você pensa?[e]
 
 [msg MSG_012_0_0 [Futaba]]
-[s][f 5 14]Tudo até as eleições é a verdadeira[n]batalha![n]Vamos derrubá-lo![n][w][e]
+[s][f 5 14]Tudo até as eleições é a verdadeira[n]batalha! Vamos derrubá-lo![n][w][e]
 
 [msg MSG_013_0_0 [Yusuke]]
 [s][f 5 14]Sim, não há como saber o que pode[n]acontecer. Certifique-se de se preparar[n]bem.[n][w][e]

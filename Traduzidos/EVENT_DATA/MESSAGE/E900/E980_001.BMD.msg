@@ -18,7 +18,7 @@
 [s][bup 0 3 0 65535 0][vp 8 0 0 0 65535 0]Vamos tentar o chamado [clr 1]massé[clr 27]![n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Morgana]]
-[s][bup 0 3 0 65535 0][vp 8 0 0 0 65535 0]Se ao menos eu fosse duas pernas...[n]Tudo bem, vou deixar você levar os[n]holofotes, [n][f 4 2]![n][f 1 3 65535][w][e]
+[s][bup 0 3 0 65535 0][vp 8 0 0 0 65535 0]Se ao menos eu fosse duas pernas...[n]Tudo bem, vou deixar você levar os[n]holofotes, [f 4 2]![n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Morgana]]
 [s][bup 0 3 0 65535 0][vp 8 0 0 0 65535 0]Tudo bem, vamos tentar um truque![n][f 1 3 65535][w][e]

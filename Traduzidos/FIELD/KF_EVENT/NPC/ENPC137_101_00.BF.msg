@@ -41,7 +41,7 @@
 
 [msg MSG_043_0_0 [Glaring Third-Year]]
 [s][f 4 23 1 851 3 10 0 0][vp 8 2 1 0 851 0]Ei, devemos parar de falar com ele.[n]E se ele perder e começar a nos atacar?[n][w][e]
-[s][vp 8 2 1 0 851 0]Ouvi dizer que ele até carrega uma faca por[n]aí.[n]Quem sabe do que ele é capaz.[n][w][e]
+[s][vp 8 2 1 0 851 0]Ouvi dizer que ele até carrega uma faca por[n]aí. Quem sabe do que ele é capaz.[n][w][e]
 
 [msg MSG_048_0_0 [Assertive Volleyball Player]]
 [s][f 4 23 1 850 3 10 0 0][vp 8 2 1 0 850 0]Quem esse cara pensa que está, falando sobre[n]o Sr. Kamoshida assim? Eu gostaria que ele[n]nos deixasse em paz.[n][w][e]

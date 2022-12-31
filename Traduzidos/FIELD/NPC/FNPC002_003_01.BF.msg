@@ -150,7 +150,7 @@
 
 [msg MSG_YOWAMINIGIRI_010_2_0 [Ruthless Student]]
 [s][f 4 23 1 5 3 10 0 0][vp 8 2 1 0 5 0]Qualquer que seja. Eu excluí a foto sua[n]roubando essas perguntas de teste.[n][w][e]
-[s][vp 8 2 1 0 5 0]Agora você não pode dizer que eu chantageei[n]você.[n]Pena que não há provas.[n][w][e]
+[s][vp 8 2 1 0 5 0]Agora você não pode dizer que eu chantageei[n]você. Pena que não há provas.[n][w][e]
 
 [msg MSG_YOWAMINIGIRI_010_3_0 [Timid-Looking Female Student]]
 [s][f 4 23 1 4 3 10 0 0][vp 8 2 1 0 4 0]O que? Oh, então você realmente excluiu essa[n]foto...[n][w][e]
@@ -281,7 +281,7 @@
 [s][vp 9 2 65535 38905 0 0]Um cartão de chamada Phantom Thief?[n]Isso é apenas uma brincadeira, certo?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_005_01_ [Ruthless Student]]
-[s][vp 9 2 65535 41705 0 0]Espere, essa coisa de ladrão fantasma era[n]real?[n]Não, isso é ridículo...[n][f 1 2 180][e]
+[s][vp 9 2 65535 41705 0 0]Espere, essa coisa de ladrão fantasma era[n]real? Não, isso é ridículo...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_005_02_ [Ruthless Student]]
 [s][vp 9 2 65535 44654 0 0]Por que ele estava de repente agindo dessa[n]maneira? Os ladrões Phantom o ameaçaram?[n][f 1 2 180][e]

@@ -96,7 +96,7 @@
 [s]Uma previsão correta dobrará sua aposta,[n]enquanto três dados correspondentes o[n]triplicarão.[n][w][e]
 [s]Mais importante, combinar seis é uma vitória[n]suprema![n][w][e]
 [s]Independentemente da sua aposta inicial, o[n]pagamento será quintuple![n][w][e]
-[s]A adesão para este jogo é de apenas 25[n]moedas.[n]Você gostaria de jogar?[n][w][e]
+[s]A adesão para este jogo é de apenas 25[n]moedas. Você gostaria de jogar?[n][w][e]
 
 [sel mini_ev_mes_01_GAME_03_s top]
 [s]Jogue o jogo [e]

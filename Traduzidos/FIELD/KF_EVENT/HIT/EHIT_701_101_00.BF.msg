@@ -46,7 +46,7 @@
 
 [msg CHK_HACHI_KOU_M01 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 0 0 0][vp 1 0 0 0 0 0]Um cachorro que era fiel ao seu mestre até o[n]fim, hein...?[n][w][e]
-[s][f 4 10 0 0 0][vp 1 0 0 0 0 0]Eu prefiro viver livremente minha própria[n]vida.[n]Minha vida é minha, certo?[n][w][e]
+[s][f 4 10 0 0 0][vp 1 0 0 0 0 0]Eu prefiro viver livremente minha própria[n]vida. Minha vida é minha, certo?[n][w][e]
 
 [msg CHK_HACHI_KOU_01]
 [s][vp 1 0 0 0 0 0]Ele é o epítome de um cachorro fiel...[n][w][e]

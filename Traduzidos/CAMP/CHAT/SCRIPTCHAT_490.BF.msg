@@ -20,7 +20,7 @@
 [s][f 5 14]O lugar fica em Kichijoji.[n]Vou enviar instruções para você.[n][f 5 15][w][e]
 
 [msg MSG_MORUGANA_PLAY_CHECK [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Akechi... ele é aquele detetive do ensino[n]médio.[n]Aposto que você poderia aprender muito[n]com ele...[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Akechi... ele é aquele detetive do ensino[n]médio. Aposto que você poderia aprender muito[n]com ele...[n][f 1 3 65535][w][e]
 [s][vp 1 0 0 0 0 0][f 4 10 65535 0 0]Então, o que vai ser? Você vai com Akechi?[n][f 1 3 65535][w][e]
 
 [sel SEL_COOP_PLAY_CHECK top]
@@ -134,6 +134,6 @@
 [s]Você também pode convidar pessoas que[n]possam desfrutar do aquário para sair[n]com você lá.[n][w][e]
 
 [msg MSG_SPOT_OPEN_NAKANO]
-[s]Agora você tem informações sobre um novo[n]ponto de encontro: [n][clr 2]Distrito de construção de comércio de[n]Nakano [n][clr 27].[n][w][e]
+[s]Agora você tem informações sobre um novo[n]ponto de encontro: [n][clr 2]Distrito de construção de comércio de[n]Nakano  [clr 27].[n][w][e]
 [s]Você também pode convidar pessoas que[n]possam desfrutar desse local para sair[n]com você lá.[n][w][e]
 

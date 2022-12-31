@@ -118,7 +118,7 @@
 [s][vp 8 0 0 0 65535 0]Acho que não tenho escolha...[n][f 1 3 65535][w][e]
 
 [msg MSG_029_6_0 [Takemi]]
-[s][bup 0 108 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu gosto de crianças que ouvem seus[n]superiores.[n]Aproveite o seu remédio.[n][f 1 3 65535][w][e]
+[s][bup 0 108 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu gosto de crianças que ouvem seus[n]superiores. Aproveite o seu remédio.[n][f 1 3 65535][w][e]
 
 [msg MND_990_0_0]
 [s][vp 8 0 0 0 65535 0]Parece que meu vínculo com Takemi está se[n]tornando ainda mais profundo...[n][f 1 3 65535][w][e]

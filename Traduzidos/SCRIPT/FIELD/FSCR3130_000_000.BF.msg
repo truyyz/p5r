@@ -37,7 +37,7 @@
 [s]Estes são os livros que você tem agora.[n][w][e]
 
 [msg MSG_BOOK_DETAIL_01 [Morgana]]
-[s]"O manual de limpeza da dona de casa", hein?[n]Você terminará este guia sobre limpeza[n]depois [n][var 0] more session(s).[n][w][e]
+[s]"O manual de limpeza da dona de casa", hein?[n]Você terminará este guia sobre limpeza[n]depois  [var 0] more session(s).[n][w][e]
 
 [msg MSG_BOOK_DETAIL_02 [Morgana]]
 [s]"Ontem cozinhando", hein?[n]Você terminará este livro de conselhos de[n]culinária depois [n][var 0] more session(s).[n][w][e]
@@ -46,10 +46,10 @@
 [s]"Mania muscular", eh? Você terminará este[n]guia de treinamento físico depois [n][var 0] more session(s).[n][w][e]
 
 [msg MSG_BOOK_DETAIL_04 [Morgana]]
-[s]"Depois dos trabalhadores da escola", hein?[n]Você terminará este guia de trabalho diurno[n]depois [n][var 0] more session(s).[n][w][e]
+[s]"Depois dos trabalhadores da escola", hein?[n]Você terminará este guia de trabalho diurno[n]depois  [var 0] more session(s).[n][w][e]
 
 [msg MSG_BOOK_DETAIL_05 [Morgana]]
-[s]"Trabalhadores noturnos", não é?[n]Você terminará este guia de trabalho noturno[n]depois [n][var 0] more session(s).[n][w][e]
+[s]"Trabalhadores noturnos", não é?[n]Você terminará este guia de trabalho noturno[n]depois  [var 0] more session(s).[n][w][e]
 
 [msg MSG_BOOK_DETAIL_06 [Morgana]]
 [s]"Lidere o pacote! Speed Reading Cram[n]School!", Eh? Você vai terminar depois [n][var 0] more session(s).[n][w][e]

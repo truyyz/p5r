@@ -8,7 +8,7 @@
 
 [msg MSG_001_0_0 [Timid Female Student]]
 [s][f 4 23 1 850 3 10 0 0][vp 1 0 0 0 0 0]Sim, provavelmente é uma boa ideia ficar[n]longe dele. Você não sabe o que ele fará.[n][w][e]
-[s][vp 1 0 0 0 0 0]Agora eu realmente quero acariciar esse gato[n]também.[n]Espero que venha pela escola novamente[n]amanhã.[n][w][e]
+[s][vp 1 0 0 0 0 0]Agora eu realmente quero acariciar esse gato[n]também. Espero que venha pela escola novamente[n]amanhã.[n][w][e]
 
 [msg MSG_002_0_0 [Listless-Looking Student]]
 [s][f 4 23 1 853 3 10 0 0][vp 1 0 0 0 0 0]Você ouviu? Esse aluno transferido carrega[n]armas para ele.[n][w][e]

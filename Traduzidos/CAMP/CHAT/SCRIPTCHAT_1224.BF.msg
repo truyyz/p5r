@@ -45,7 +45,7 @@
 [s][f 5 14]Eu vou ajudar.[e]
 
 [msg MND_COOP_DOUZOKUSEI]
-[s]Eu sinto que posso me aproximar de[n]Yoshida graças ao [n][var 2][n]Persona [clr 1][var 5][clr 27]...[n][w][e]
+[s]Eu sinto que posso me aproximar de[n]Yoshida graças ao [n][var 2] Persona [clr 1][var 5][clr 27]...[n][w][e]
 
 [msg MSG_SPOT_OPEN_SHIBUYA]
 [s]Agora você pode acessar um novo local: [clr 1]Wilton Buffet [clr 27].[n][w][e]

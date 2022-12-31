@@ -14,7 +14,7 @@
 [s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 4 10 7]Oh, estou feliz em ouvir. Este festival é[n]realmente movimentado com pessoas, hein? É[n]legal.[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Haru]]
-[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 4 5 7]Você está certo, é apenas movimentado com as[n]pessoas.[n]Isso não é divertido?[n][f 1 3 65535][w][e]
+[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 4 5 7]Você está certo, é apenas movimentado com as[n]pessoas. Isso não é divertido?[n][f 1 3 65535][w][e]
 [s][bup 0 7 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Oh, mas... talvez eu deva tentar manter[n]minha cabeça baixa.[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Haru]]

@@ -735,7 +735,7 @@
 [s][vp 9 2 65535 43400 0 0]Esses ladrões fantasmas são bastante[n]impressionantes![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_014_03_]
-[s][vp 9 2 65535 38900 0 0]Não acredito que eles derrotaram esses[n]hackers.[n]Eles são tão incríveis![n][f 1 2 180][e]
+[s][vp 9 2 65535 38900 0 0]Não acredito que eles derrotaram esses[n]hackers. Eles são tão incríveis![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_014_04_]
 [s][vp 9 2 65535 41656 0 0]Os ladrões fantasmas são justiça![n][f 1 2 180][e]
@@ -984,7 +984,7 @@
 [s][vp 9 2 65535 39402 0 0]Eu só posso imaginar que eles devem gostar[n]de assassinar pessoas...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_019_06_]
-[s][vp 9 2 65535 42057 0 0]Não acredito que eles tiraram a vida de[n]alguém![n]Eles são loucos![n][f 1 2 180][e]
+[s][vp 9 2 65535 42057 0 0]Não acredito que eles tiraram a vida de[n]alguém! Eles são loucos![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_019_07_]
 [s][vp 9 2 65535 45157 0 0]Que tipo de "mudança de coração" foi essa!?[n]Eles são apenas assassinos![n][f 1 2 180][e]
@@ -1020,7 +1020,7 @@
 [s][vp 9 2 65535 43507 0 0]Alguém- qualquer pessoa- precisa fazer algo[n]para parar aqueles ladrões fantasmas...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_020_02_]
-[s][vp 9 2 65535 43401 0 0]Tanto o governo quanto a polícia não são[n]bons...[n]O que há com este país?[n][f 1 2 180][e]
+[s][vp 9 2 65535 43401 0 0]Tanto o governo quanto a polícia não são[n]bons... O que há com este país?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_020_03_]
 [s][vp 9 2 65535 40957 0 0]O que a polícia está fazendo!? Apresse-se e[n]prenda os ladrões fantasmas![n][f 1 2 180][e]
@@ -1032,7 +1032,7 @@
 [s][vp 9 2 65535 38202 0 0]Não é bom que os incidentes de colapso[n]psicótico estejam acontecendo mais...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_020_06_]
-[s][vp 9 2 65535 45302 0 0]Tanto o governo quanto a polícia não são[n]bons...[n]O que há com este país?[n][f 1 2 180][e]
+[s][vp 9 2 65535 45302 0 0]Tanto o governo quanto a polícia não são[n]bons... O que há com este país?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_020_07_]
 [s][vp 9 2 65535 39707 0 0]O que a polícia está fazendo!? Apresse-se e[n]prenda os ladrões fantasmas![n][f 1 2 180][e]
@@ -1044,7 +1044,7 @@
 [s][vp 9 2 65535 41907 0 0]Alguém- qualquer pessoa- precisa fazer algo[n]para parar aqueles ladrões fantasmas...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_020_10_]
-[s][vp 9 2 65535 40301 0 0]Tanto o governo quanto a polícia não são[n]bons...[n]O que há com este país?[n][f 1 2 180][e]
+[s][vp 9 2 65535 40301 0 0]Tanto o governo quanto a polícia não são[n]bons... O que há com este país?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_020_11_]
 [s][vp 9 2 65535 37657 0 0]Apresse-se e faça algo sobre os ladrões[n]Phantom![n][f 1 2 180][e]
@@ -1056,7 +1056,7 @@
 [s][vp 9 2 65535 42707 0 0]Alguém- qualquer pessoa- precisa fazer algo[n]para parar aqueles ladrões fantasmas...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_020_14_]
-[s][vp 9 2 65535 40702 0 0]Tanto o governo quanto a polícia não são[n]bons...[n]O que há com este país?[n][f 1 2 180][e]
+[s][vp 9 2 65535 40702 0 0]Tanto o governo quanto a polícia não são[n]bons... O que há com este país?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_020_15_]
 [s][vp 9 2 65535 40801 0 0]O que a polícia está fazendo!? Apresse-se e[n]prenda os ladrões fantasmas![n][f 1 2 180][e]
@@ -1092,7 +1092,7 @@
 [s][vp 9 2 65535 45651 0 0]É melhor o governo fazer algo! Pense em[n]algum tipo de contramedida![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_021_10_]
-[s][vp 9 2 65535 43901 0 0]A polícia está demorando muito para[n]responder![n]O que eles estão fazendo...?[n][f 1 2 180][e]
+[s][vp 9 2 65535 43901 0 0]A polícia está demorando muito para[n]responder! O que eles estão fazendo...?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_021_11_]
 [s][vp 9 2 65535 41401 0 0]Não é o trabalho da polícia lidar com[n]criminosos!?[n][f 1 2 180][e]
@@ -1164,7 +1164,7 @@
 [s][vp 9 2 65535 44302 0 0]O que a polícia está fazendo!? Apresse-se e[n]prenda-os já...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_023_02_]
-[s][vp 9 2 65535 41751 0 0]Tanto o governo quanto a polícia não são[n]bons...[n]O que há com este país?[n][f 1 2 180][e]
+[s][vp 9 2 65535 41751 0 0]Tanto o governo quanto a polícia não são[n]bons... O que há com este país?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_023_03_]
 [s][vp 9 2 65535 38357 0 0]Naquela época em que as pessoas começaram a[n]falar sobre esses ladrões é meio suspeito...[n][f 1 2 180][e]
@@ -1785,7 +1785,7 @@
 [s][vp 9 2 65535 41005 0 0]Eu não vi fogos de artifício há tanto tempo[n]desde que estou tão ocupado com o[n]trabalho...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_105_01_]
-[s][vp 9 2 65535 41607 0 0]Você viu a conferência de imprensa do Sr.[n]Okumura?[n]Isso foi louco...[n][f 1 2 180][e]
+[s][vp 9 2 65535 41607 0 0]Você viu a conferência de imprensa do Sr.[n]Okumura? Isso foi louco...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_105_02_]
 [s][vp 9 2 65535 45001 0 0]Eles realmente foram longe demais...[n][f 1 2 180][e]

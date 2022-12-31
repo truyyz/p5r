@@ -161,7 +161,7 @@
 [s]Talvez, mas você deve ser mais atencioso.[n]Deixe as pessoas em paz se quiserem ser[n]deixadas em paz.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_03_R_10]
-[s]Mas se você não pode sentir minha aura...[n]suspiro.[n]Suponho que não importa, no final...[n][w][e]
+[s]Mas se você não pode sentir minha aura...[n]suspiro. Suponho que não importa, no final...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_03_R_11]
 [s]Você está feliz por me conhecer, é isso?[n]Bem, estou lisonjeado...[n][w][e]
@@ -272,7 +272,7 @@
 [s]Se posso dizer, não há grande diferença[n]entre mulheres assim e homens como você.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_05_R_9]
-[s]Bem, eu não esperava que você dissesse isso.[n]Eu não entendo muito bem suas ações então,[n]mas...[n]Ah bem.[n][w][e]
+[s]Bem, eu não esperava que você dissesse isso.[n]Eu não entendo muito bem suas ações então,[n]mas... Ah bem.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_05_R_10]
 [s]Então... você está me forçando a suportar[n]isso sem motivo!?[n][w][e]
@@ -488,7 +488,7 @@
 [s]A maneira como você disse que era[n]desnecessariamente legal e composta.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_01_R_5]
-[s]Está claro para mim que nós Fe- Espere, o[n]que?[n]Você quer dizer que me enganou?[n][w][e]
+[s]Está claro para mim que nós Fe- Espere, o[n]que? Você quer dizer que me enganou?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_01_R_6]
 [s]Não aprecio suas tentativas de me confundir[n]deliberadamente.[n][w][e]
@@ -1465,7 +1465,7 @@
 [s]Um momento... você já tem um [n][clr 1][var 2][clr 27]Dentro de você.[n][w][e]
 
 [msg TalkMsg_GUY_RESULT_GET_P_3]
-[s]Ah, mas... você ainda não cumpre meus[n]padrões. Você não vai deixar ir por agora[n]com isso [n][f 2 5 3 9999 1]?[n][w][e]
+[s]Ah, mas... você ainda não cumpre meus[n]padrões. Você não vai deixar ir por agora[n]com isso [f 2 5 3 9999 1]?[n][w][e]
 
 [msg TalkMsg_GUY_RESULT_GET_M]
 [s]... aqui vou te dar [var 0]Yen.[n]Por favor, use-o com sabedoria.[n][w][e]
@@ -1642,7 +1642,7 @@
 [s]Então você estava procurando isso...[n][w][e]
 
 [msg TalkMsg_FIRST_CONTACT]
-[s]Bem... devemos falar sobre as coisas[n]primeiro.[n]Eu não sei nada sobre você, afinal...[n][w][e]
+[s]Bem... devemos falar sobre as coisas[n]primeiro. Eu não sei nada sobre você, afinal...[n][w][e]
 
 [msg TalkMsg_PRE_QUESTION]
 [s]Sinto como se tivéssemos falado antes. De[n]qualquer forma, você se importaria se[n]conversássemos?[n][w][e]
@@ -1906,7 +1906,7 @@
 [s](planned to be cut)[n]Alguém já lhe disse que você não tem[n]sensibilidades artísticas?[n][w][e]
 
 [msg TalkMsg_FQ_REACT_ANGER]
-[s](planned to be cut)[n]Você está deliberadamente tentando me[n]incomodar?[n]Ou estou pensando demais...[n][w][e]
+[s](planned to be cut)[n]Você está deliberadamente tentando me[n]incomodar? Ou estou pensando demais...[n][w][e]
 
 [msg TalkMsg_FQ_REACT_BROKEDO]
 [s]Hmph... que bairro barato.[n][w][e]
@@ -2097,7 +2097,7 @@
 [s]... você é muito atencioso. Seria rude da[n]minha parte não aceitar nessas[n]circunstâncias.[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_GIVE_01]
-[s]Suponho que seria rude da minha parte[n]recusar.[n]Vou aceitar seu presente.[n][w][e]
+[s]Suponho que seria rude da minha parte[n]recusar. Vou aceitar seu presente.[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_DECLINE]
 [s]Você é insuportável. E aqui estou eu,[n]preocupando-se e preocupando-se em seu[n]benefício...[n][w][e]

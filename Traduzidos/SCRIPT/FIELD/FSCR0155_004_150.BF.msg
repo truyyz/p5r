@@ -30,7 +30,7 @@
 [s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]HM, precisaremos obter outro.[n]Muito bem, vamos procurar por isso.[n][w][e]
 
 [msg MSG_e296_336_AF03_000 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Precisamos de uma jóia de uma estátua de[n]Anubis.[n]Vamos olhar![n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Precisamos de uma jóia de uma estátua de[n]Anubis. Vamos olhar![n][w][e]
 
 [msg D04_03_e296_336_AF04_mes]
 [s]Uma jóia é definida no pedestal.[n][w][e]

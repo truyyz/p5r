@@ -55,7 +55,7 @@
 [s]Bravo, senhor. É a sua vitória.[n]Você agora tem [var 0]Moedas em sua posse.[n][w][e]
 
 [msg D6_SAIKORO_HAZURE [Dealer]]
-[s]Que lamentável, senhor. É a sua perda. Você[n]agora tem [n][var 0][n]Moedas em sua posse.[n][w][e]
+[s]Que lamentável, senhor. É a sua perda. Você[n]agora tem [n][var 0] Moedas em sua posse.[n][w][e]
 
 [msg D6_SAIKORO_KEIZOKU [Dealer]]
 [s]Você gostaria de continuar jogando, senhor?[n][e]

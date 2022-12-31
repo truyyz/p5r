@@ -27,7 +27,7 @@
 [s][f 4 23 1 805 3 10 0 0][vp 8 2 1 0 805 0]HM, bem... sim, eu diria isso.[n]Shido é uma pessoa maravilhosa.[n][w][e]
 
 [msg MSG_NPC_YUSUKE_00 [Yusuke]]
-[s][f 4 23 1 856 3 10 0 10][bup 0 5 2 65535 0][f 4 10 65535 0 0][vp 8 2 1 4198 856 0]Vamos nos destacar demais se todos seguirmos[n]juntos. Por favor, investigue por conta[n]própria, [n][f 4 2].[n][w][e]
+[s][f 4 23 1 856 3 10 0 10][bup 0 5 2 65535 0][f 4 10 65535 0 0][vp 8 2 1 4198 856 0]Vamos nos destacar demais se todos seguirmos[n]juntos. Por favor, investigue por conta[n]própria, [f 4 2].[n][w][e]
 
 [msg MSG_NPC_FUTABA_00 [Futaba]]
 [s][f 4 23 1 854 3 10 0 10][bup 0 8 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 9176 854 0]... Vou esperar aqui e descansar meu tempo.[n][w][e]

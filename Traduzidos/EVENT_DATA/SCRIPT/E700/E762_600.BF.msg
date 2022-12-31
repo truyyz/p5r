@@ -149,7 +149,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 1020 65535 0]O pedido é para [clr 2]flores de cores vivas com aromas pungentes [clr 27]. Essas cores mais macias não funcionariam[n]aqui.[n][f 1 3 65535][w][e]
 
 [msg MSG_048_0_0 [Hanasaki]]
-[s][vp 8 2 0 0 6 0]O cliente gostaria que um buquê fosse [clr 2]Parabéns pelo nascimento do filho de um[n]amigo [n][clr 27].[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 6 0]O cliente gostaria que um buquê fosse [clr 2]Parabéns pelo nascimento do filho de um[n]amigo  [clr 27].[n][f 1 3 65535][w][e]
 
 [msg MSG_048_5_0 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 1020 65535 0]O pedido é para [clr 2]Parabenizando o nascimento de uma criança [clr 27]. Flores evocando inocência ou o futuro[n]funcionaria.[n][f 1 3 65535][w][e]
@@ -201,7 +201,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 1185 65535 0]O pedido foi para [clr 2]flores de cores vivas com aromas pungentes [clr 27]. Está tudo bem?[n][f 1 3 65535][w][e]
 
 [msg MSG_068_0_0 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 1185 65535 0]A ordem foi feita para [clr 2]Parabenizando o nascimento do filho de um[n]amigo [n][clr 27]. Está tudo bem?[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 1185 65535 0]A ordem foi feita para [clr 2]Parabenizando o nascimento do filho de um[n]amigo  [clr 27]. Está tudo bem?[n][f 1 3 65535][w][e]
 
 [sel SEL_070_0_0 top]
 [s]Isso deve ser bom.[e]
@@ -423,7 +423,7 @@
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 4006 65535 0]Oh, [f 4 2]. Vejo que você está trabalhando duro como[n]sempre.[n][f 1 3 65535][w][e]
 
 [msg MSG_YUUSUKE_1_2 [Yusuke]]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0][f 5 13 5 5 5]Mais uma vez, estou em busca de um motivo de[n]pintura de natureza morta. Graças à sua[n]ajuda da última vez, agora sei onde[n]procurar.[n][f 1 3 65535][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0][f 5 13 5 5 5]Mais uma vez, estou em busca de um motivo de[n]pintura de natureza morta. Graças à sua[n]ajuda da última vez, agora sei onde procurar.[n][f 1 3 65535][w][e]
 
 [msg MSG_YUUSUKE_1_3 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Bem, então eu deveria terminar minhas[n]compras.[n][f 1 3 65535][w][e]

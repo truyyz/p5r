@@ -178,7 +178,7 @@
 
 [msg MSG_045_0_0 [Sumire]]
 [s][bup 0 10 941 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 6 0]Já me decidi.[n][f 1 3 65535][w][e]
-[s][bup 0 10 940 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 6 0][f 4 24 0 6 6 35 5 100]Hum, você poderia esperar aqui por um[n]segundo?[n]Eu preciso comprar isso.[n][f 1 3 65535][w][e]
+[s][bup 0 10 940 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 6 0][f 4 24 0 6 6 35 5 100]Hum, você poderia esperar aqui por um[n]segundo? Eu preciso comprar isso.[n][f 1 3 65535][w][e]
 
 [msg MSG_046_0_0 [Sumire]]
 [s][bup 0 10 900 65535 0][f 4 10 65535 0 0][vp 8 2 0 57052 65535 0]Estou tão feliz por ter encontrado algo bom.[n][f 1 3 65535][w][e]

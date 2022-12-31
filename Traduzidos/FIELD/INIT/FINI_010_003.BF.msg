@@ -45,10 +45,10 @@
 [s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 2 1 11001 65535 0]Você só tem que nos mostrar a persona que[n]pedimos![n][w][e]
 
 [msg MSG_VelQuestTutorial_005 [Justine]]
-[s][bup 0 101 0 0 0][f 4 23 1 211 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Primeiro... gostaríamos que você nos traga[n]um [n][clr 1]Jack Frost [clr 27].[n][w][e]
+[s][bup 0 101 0 0 0][f 4 23 1 211 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Primeiro... gostaríamos que você nos traga[n]um  [clr 1]Jack Frost [clr 27].[n][w][e]
 
 [msg MSG_VelQuestTutorial_005_2 [Justine]]
-[s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Primeiro... gostaríamos que você nos traga[n]um [n][clr 1]Jack Frost [clr 27].[n][w][e]
+[s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Primeiro... gostaríamos que você nos traga[n]um  [clr 1]Jack Frost [clr 27].[n][w][e]
 
 [msg MSG_VelQuestTutorial_006 [Caroline]]
 [s][bup 0 102 0 0 0][f 4 23 1 200 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 11028 65535 0]Isso é muito fácil, Justine![n]Deve ser um desafio.[n][w][e]

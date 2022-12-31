@@ -76,7 +76,7 @@
 [msg MSG_PHONE_KAWAKAMI_OffDa [Kawakami]]
 [s][bup 0 109 0 0 1][f 4 10 65535 0 0][vp 8 2 1 15002 65535 0]Oi, isso é Becky! Sinto muito, mas estou[n]fora hoje...[n][w][e]
 [s][f 4 10 65535 0 0]Oh, espere, é você... estou de folga hoje,[n]mas se você quer apenas tarefas domésticas,[n]não me importo.[n][w][e]
-[s][f 4 10 65535 0 0]Ainda é funcionar, então vou ir depois que[n]mudar.[n]Espere um pouco.[n][w][e]
+[s][f 4 10 65535 0 0]Ainda é funcionar, então vou ir depois que[n]mudar. Espere um pouco.[n][w][e]
 
 [msg MSG_PHONE_RMAX_KAWAKAMI [Kawakami]]
 [s][bup 0 109 0 0 1][f 4 10 65535 0 0][vp 8 2 1 15002 65535 0]Oi, isso é Kawakami. Ah é você...[n][w][e]

@@ -67,7 +67,7 @@
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 9114 65535 0]... hm?[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Futaba]]
-[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Espere um carrapato, acabei de terminar uma[n]promessa![n]"Vá a algum lugar com muitas pessoas"![n][f 1 3 65535][w][e]
+[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Espere um carrapato, acabei de terminar uma[n]promessa! "Vá a algum lugar com muitas pessoas"![n][f 1 3 65535][w][e]
 [s][f 4 7 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 8 1 300 1][vp 8 2 0 9105 65535 0]Bem, eu sou incrível ou o quê!?[n][f 1 3 65535][w][e]
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]É tudo como causa das três guerra terabyte![n]Ah, e porque você me trouxe aqui![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 9191 65535 0]Eu, Futaba Sakura, agradeço-te![n][f 1 3 65535][w][e]

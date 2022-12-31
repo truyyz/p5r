@@ -19,7 +19,7 @@
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7183 65535 0]Huh? Nada aconteceu...[n][w][e]
 
 [msg D02_04_e210_221_mes03]
-[s][clr 2]Erro! Somente Lord Madarame pode acessar[n]este terminal devido ao protocolo de[n]segurança máxima![n][clr 27][n][w][e]
+[s][clr 2]Erro! Somente Lord Madarame pode acessar[n]este terminal devido ao protocolo de[n]segurança máxima! [clr 27][n][w][e]
 
 [msg D02_04_e210_221_mes04 [Ryuji]]
 [s][bup 0 2 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Diabos? Não havia sentido em chegar aqui[n]então...![n][w][e]

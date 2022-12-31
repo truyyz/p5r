@@ -214,7 +214,7 @@
 
 [msg MSG_KARAOKE_CHK [Morgana]]
 [s]Você pode trabalhar aqui hoje.[n][w][e]
-[s]Eu vejo muitos clientes que seriam[n]irritantes de lidar, mas você melhoraria[n]seu [n][clr 1]Agilidade [clr 27]um pouco.[n][w][e]
+[s]Eu vejo muitos clientes que seriam[n]irritantes de lidar, mas você melhoraria[n]seu  [clr 1]Agilidade [clr 27]um pouco.[n][w][e]
 
 [msg MSG_KARAOKE_POLISH [Morgana]]
 [s]Além disso, você não terminou seu período de[n]treinamento? Talvez algo de bom aconteça.[n][w][e]
@@ -302,7 +302,7 @@
 [s]Você pode levar o tempo que quiser terminar.[n]Estamos muito pouco com a equipe aqui o ano[n]todo.[n][w][e]
 
 [msg MSG_CRAMMER_arbeit_ng_ma_3 [Morgana]]
-[s]... Então, que tipo de livro de perfuração é[n]esse?[n]Não há nada que eu não possa resolver-[n]mostre para mim.[n][w][e]
+[s]... Então, que tipo de livro de perfuração é[n]esse? Não há nada que eu não possa resolver-[n]mostre para mim.[n][w][e]
 
 [msg MSG_CRAMMER_arbeit_ng_ma_4]
 [s]Abro o livro de perfuração e vejo uma[n]pergunta pedindo a área de um diagrama[n]complicado...[n][w][e]
@@ -328,7 +328,7 @@
 
 [msg MSG_CRAMMER_CHK [Morgana]]
 [s]Você pode trabalhar aqui hoje.[n][w][e]
-[s]Muitas dessas crianças são obviamente[n]idiotas, mas o ensino pode ajudá-lo a[n]ganhar mais [n][clr 1]Entendimento [clr 27].[n][w][e]
+[s]Muitas dessas crianças são obviamente[n]idiotas, mas o ensino pode ajudá-lo a[n]ganhar mais  [clr 1]Entendimento [clr 27].[n][w][e]
 
 [msg MSG_CRAMMER_POLISH [Morgana]]
 [s]Além disso, você não terminou seu período de[n]treinamento? Talvez algo de bom aconteça.[n][w][e]

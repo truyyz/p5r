@@ -106,7 +106,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ou você estava sendo metafórico? Você é[n]difícil de ler às vezes.[n][f 1 3 65535][w][e]
 
 [msg MSG_031_0_0 [Akechi]]
-[s][bup 0 9 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]De qualquer forma, você é realmente[n]interessante.[n]Você nunca deixa de me intrigar.[n][f 1 3 65535][w][e]
+[s][bup 0 9 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]De qualquer forma, você é realmente[n]interessante. Você nunca deixa de me intrigar.[n][f 1 3 65535][w][e]
 
 [msg MND_032_0_0]
 [s][vp 8 0 0 0 65535 0]Eu posso sentir a apreciação de Akechi...[n][f 1 3 65535][w][e]

@@ -238,7 +238,7 @@
 [s]Parece que estamos sem ingredientes de[n]curry...[n][w][e]
 
 [msg MSG_FREEZER_NOTHING_MORU [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1164 65535 0]Há comida aqui, mas nada que possamos comer[n]imediatamente.[n]É desanimador...[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1164 65535 0]Há comida aqui, mas nada que possamos comer[n]imediatamente. É desanimador...[n][w][e]
 
 [msg MSG_FREEZER_NOTHING]
 [s]Não há nada que esteja pronto para comer[n]dentro da geladeira.[n][w][e]
@@ -802,7 +802,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1165 65535 0]Parece um bom lugar para ler livros. Por que[n]você não vai comprar um livro para mais[n]tarde?[n][w][e]
 
 [msg MND_BookNG_NotHave_nonTu]
-[s]Parece que posso ler e me perder em um livro[n]aqui.[n]Eu deveria comprar um para mais tarde.[n][w][e]
+[s]Parece que posso ler e me perder em um livro[n]aqui. Eu deveria comprar um para mais tarde.[n][w][e]
 
 [msg MSG_BookNG_KyakuDay [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1165 65535 0]Ainda existem clientes aqui...[n]Salve a leitura para mais tarde.[n][w][e]
@@ -848,7 +848,7 @@
 [s]Há algumas máquinas de café deixadas aqui...[n][w][e]
 
 [msg MSG_Coffee_NotOpen_Kyaku [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1163 65535 0]Então, isso é usado para fabricar café, não[n]é?[n]Parece que tem sido usado bastante.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1163 65535 0]Então, isso é usado para fabricar café, não[n]é? Parece que tem sido usado bastante.[n][w][e]
 
 [msg MSG_Coffee_Open_Kyaku [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]LeBlanc ainda está aberto. Você não deveria[n]estar mexendo com isso agora.[n][w][e]
@@ -863,10 +863,10 @@
 [s]Eu deveria atender o telefone por enquanto...[n][w][e]
 
 [msg MSG_COFFEE_NG_0410_mes02]
-[s]Prefiro comer um pouco de comida do que[n]tomar café agora. Vamos olhar para dentro[n]do [n][clr 2]frigorífico [clr 27]...[n][w][e]
+[s]Prefiro comer um pouco de comida do que[n]tomar café agora. Vamos olhar para dentro[n]do  [clr 2]frigorífico [clr 27]...[n][w][e]
 
 [msg MSG_COFFEE_NOTOPEN_MORU [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1184 65535 0]Então, isso é usado para fabricar café, não[n]é?[n]Parece que tem sido usado bastante.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1184 65535 0]Então, isso é usado para fabricar café, não[n]é? Parece que tem sido usado bastante.[n][w][e]
 
 [msg MSG_COFFEE_NOTOPEN]
 [s]Há toda uma linha de aparelhos aqui que pode[n]ser usada para preparar café.[n][w][e]
@@ -976,8 +976,8 @@
 [s]Kopi Indonésio Luwak [e]
 
 [msg SYS_050_1_0 [Jamaican Blue Mountain]]
-[s][vp 8 2 65535 0 0 0]As montanhas azuis da Jamaica têm um clima[n]único e um solo vulcânico vantajoso para o[n]cultivo de seu famoso café de alta[n]qualidade.[n][w][e]
-[s][vp 8 2 65535 0 0 0]O café passa por um processo de inspeção[n]rigoroso e é colhido em pequenas[n]quantidades.[n]Isso produz um café rico com um aroma[n]completo.[n][w][e]
+[s][vp 8 2 65535 0 0 0]As montanhas azuis da Jamaica têm um clima[n]único e um solo vulcânico vantajoso para o[n]cultivo de seu famoso café de alta qualidade.[n][w][e]
+[s][vp 8 2 65535 0 0 0]O café passa por um processo de inspeção[n]rigoroso e é colhido em pequenas[n]quantidades. Isso produz um café rico com um aroma[n]completo.[n][w][e]
 
 [msg SYS_051_1_0 [Guatemalan SHB]]
 [s][vp 8 2 65535 0 0 0]O solo vulcânico da Guatemala é ideal para o[n]cultivo de café. Os grãos guatemaltecos são[n]classificados por sua altitude de cultivo.[n][w][e]
@@ -1822,7 +1822,7 @@
 [msg MSG_C14_BIGEN_NG_00_02 [Kawakami]]
 [s][bup 0 109 1 65535 1][f 4 10 65535 0 0][vp 8 2 1 15091 65535 0]Ah é você?[n][w][e]
 [s][f 4 10 65535 0 0]Eu trabalho em [clr 2]Noites de sexta e sábado [clr 27], então você deve me pedir então.[n][w][e]
-[s][vp 8 2 1 15053 65535 0][f 4 10 65535 0 0]Se eu acabar trabalhando além das noites de[n]sexta ou sábado, entrarei em contato com[n]você.[n]Ok, vejo você.[n][w][e]
+[s][vp 8 2 1 15053 65535 0][f 4 10 65535 0 0]Se eu acabar trabalhando além das noites de[n]sexta ou sábado, entrarei em contato com[n]você. Ok, vejo você.[n][w][e]
 
 [msg MSG_C14_BIGEN_NG_00 [Kawakami]]
 [s][bup 0 109 1 65535 1][f 4 10 65535 0 0][vp 8 2 1 15091 65535 0]Ah é você?[n][w][e]
@@ -1904,7 +1904,7 @@
 
 [msg MSG_C14_CORP_02_00 [Kawakami]]
 [s][bup 0 109 600 65535 1][f 4 10 65535 0 0]Umm... Mestre, você está com fome?[n][w][e]
-[s][bup 0 109 601 65535 1][f 4 10 65535 0 0]Agora estamos oferecendo serviços especiais[n]como "Cooking da empregada" e "junto com[n]uma empregada"![n][clr 2][f 1 9 0][clr 27][n][w][e]
+[s][bup 0 109 601 65535 1][f 4 10 65535 0 0]Agora estamos oferecendo serviços especiais[n]como "Cooking da empregada" e "junto com[n]uma empregada"! [clr 2][f 1 9 0][clr 27][n][w][e]
 [s][f 4 10 65535 0 0]Com a taxa de solicitação incluída...[n]custará apenas 5.000 ienes! É praticamente[n]um roubo![n][w][e]
 
 [msg MSG_C14_CORP_03_00 [Kawakami]]
@@ -1947,7 +1947,7 @@
 
 [msg MSG_C14_CORP_09_00 [Kawakami]]
 [s][bup 0 109 0 65535 1][f 4 10 65535 0 0][vp 8 2 1 15006 65535 0]No momento ideal. Há algo que eu queria[n]falar com você.[n][w][e]
-[s][f 4 10 65535 0 0]Não como sua empregada, mas como seu[n]professor.[n]Posso visitar LeBlanc mais tarde hoje?[n][w][e]
+[s][f 4 10 65535 0 0]Não como sua empregada, mas como seu[n]professor. Posso visitar LeBlanc mais tarde hoje?[n][w][e]
 
 [msg MSG_C14_CORP_09_01 [Kawakami]]
 [s][bup 0 109 0 65535 1][f 4 10 65535 0 0]Agradeço por você me ligar.[n][w][e]
@@ -1955,7 +1955,7 @@
 [s][f 4 10 65535 0 0]Como sua empregada ou seu professor, isso[n]não importa. Posso vir agora?[n][w][e]
 
 [msg MND_COOP_DOUZOKUSEI]
-[s]Eu sinto que posso me aproximar de Kawakami[n]graças ao [n][var 2][n]Persona [clr 1][var 5][clr 27]...[n][w][e]
+[s]Eu sinto que posso me aproximar de Kawakami[n]graças ao [n][var 2] Persona [clr 1][var 5][clr 27]...[n][w][e]
 
 [msg MND_COOP_RANKUP_OK]
 [s]Eu sinto que meu vínculo com Kawakami ficará[n]mais forte em breve...[n][w][e]

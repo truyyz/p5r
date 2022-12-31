@@ -107,7 +107,7 @@
 [msg MSG_Chatting_Anne_03 [Ann]]
 [s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 6025 65535 0]Por que nossas notas nos exames são[n]publicadas para que todos vejam?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Tudo bem se você é inteligente, mas para[n]aqueles que não são... é uma merda.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Por que eles não publicam todas as outras[n]pessoas de trabalho duro, não apenas as[n]pontuações...[n]Se eles fizessem isso.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Por que eles não publicam todas as outras[n]pessoas de trabalho duro, não apenas as[n]pontuações... Se eles fizessem isso.[n][f 1 3 65535][w][e]
 
 [msg MSG_Chatting_Anne_04 [Ann]]
 [s][bup 0 4 5 65535 0][f 4 10 65535 0 0][vp 8 2 0 6190 65535 0]That crêpe shop on Central Street is evil![n]Pura maldade![n][f 1 3 65535][w][e]
@@ -120,7 +120,7 @@
 [s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Ainda é bom quando você os ouve dizendo[n]coisas boas.[n][f 1 3 65535][w][e]
 
 [msg MSG_Chatting_Anne_06 [Ann]]
-[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 6021 65535 0]Eu amo assistir programas de variedades,[n]mas...[n]Minha risada ecoa no meu quarto...[n][f 1 3 65535][w][e]
+[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 6021 65535 0]Eu amo assistir programas de variedades,[n]mas... Minha risada ecoa no meu quarto...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Fico um pouco solitário nos dias em que meus[n]pais estão fora para o trabalho. Só um[n]pouco, no entanto.[n][f 1 3 65535][w][e]
 [s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Mas recentemente, eu tenho pensado em vocês[n]muito mais... sim, minha vida ficou muito[n]mais divertida agora.[n][f 1 3 65535][w][e]
 
@@ -233,7 +233,7 @@
 [msg MSG_Chatting_Makoto_09 [Makoto]]
 [s][bup 0 6 5 65535 0][f 4 10 65535 0 0][vp 8 2 0 2128 65535 0]Às vezes, o professor convoca pessoas para[n]resolver problemas de amostra durante a[n]aula.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Todo mundo pensa que eu sempre conheço as[n]respostas porque sou o presidente do[n]conselho estudantil.[n]Mas a verdade é que estou realmente muito[n]nervoso.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]O sentimento de fracasso é muito mais forte[n]quando as expectativas de todos são tão[n]altas.[n]É assustador...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]O sentimento de fracasso é muito mais forte[n]quando as expectativas de todos são tão[n]altas. É assustador...[n][f 1 3 65535][w][e]
 
 [msg MSG_Chatting_Makoto_comm [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 2155 65535 0]Então, de volta ao que eu estava dizendo...[n][f 1 3 65535][w][e]
@@ -261,7 +261,7 @@
 [msg MSG_Chatting_Haru_05 [Haru]]
 [s][bup 0 7 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 3028 65535 0]Meus colegas de classe ficaram surpresos[n]quando eu disse a eles que tenho uma[n]empregada doméstica.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Eles me perguntaram se ela lida com tudo,[n]desde a limpeza a trocar de roupa...[n][f 1 3 65535][w][e]
-[s][bup 0 7 2 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Eu posso limpar e trocar minhas próprias[n]roupas![n]Mas acho que é difícil para eles[n]acreditarem...[n][f 1 3 65535][w][e]
+[s][bup 0 7 2 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Eu posso limpar e trocar minhas próprias[n]roupas! Mas acho que é difícil para eles[n]acreditarem...[n][f 1 3 65535][w][e]
 
 [msg MSG_Chatting_Haru_06 [Haru]]
 [s][bup 0 7 5 65535 0][f 4 10 65535 0 0][vp 8 2 0 3082 65535 0]Você conhece meu título, o ladrão de beleza?[n]Mona-chan e eu criamos isso juntos...[n][f 1 3 65535][w][e]
@@ -275,13 +275,13 @@
 
 [msg MSG_Chatting_Haru_08 [Haru]]
 [s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 3021 65535 0]Eu aprendi sobre a cerimônia de chá há muito[n]tempo... ei, você pensou que eu parecia[n]alta classe agora, não é?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Todo mundo sempre diz isso quando digo a[n]eles.[n]"Oh, isso não é surpreendente." [n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Todo mundo sempre diz isso quando digo a[n]eles. "Oh, isso não é surpreendente." [n][f 1 3 65535][w][e]
 [s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Mas a cerimônia de chá é realmente bastante[n]interessante. É como se você estivesse[n]tentando entender outra pessoa, através do[n]chá.[n][f 1 3 65535][w][e]
 
 [msg MSG_Chatting_Haru_09 [Haru]]
 [s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 3019 65535 0]Eu me pergunto do que os coquetéis aqui são[n]feitos... oh... desculpe.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Gosto do sabor do chá preto... sempre que[n]bebo um pouco, tento adivinhar qual é a[n]marca e onde foi produzida.[n][f 1 3 65535][w][e]
-[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Oh, talvez você gostaria de tentar algum[n]dia, [n][f 4 2]-kun?[n]É muito divertido.[n][f 1 3 65535][w][e]
+[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Oh, talvez você gostaria de tentar algum[n]dia,  [f 4 2]-kun?[n]É muito divertido.[n][f 1 3 65535][w][e]
 
 [msg MSG_Chatting_Haru_common [Haru]]
 [s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 3048 65535 0]De qualquer forma, como eu estava dizendo[n]antes...[n][f 1 3 65535][w][e]
@@ -455,7 +455,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Mas para alguns, essa mudança é uma bênção...[n]Não consigo compreender tudo.[n][f 1 3 65535][w][e]
 
 [msg MSG_Chatting_KuroAkechi__6 [Akechi]]
-[s][bup 0 9 10 65535 0][f 4 10 65535 0 0][vp 8 2 0 54499 65535 0]Você sabe, com todos os outros tendo suas[n]mentes controlados, eu pensei que era[n]especial.[n]Mas talvez esse não seja o caso.[n][f 1 3 65535][w][e]
+[s][bup 0 9 10 65535 0][f 4 10 65535 0 0][vp 8 2 0 54499 65535 0]Você sabe, com todos os outros tendo suas[n]mentes controlados, eu pensei que era[n]especial. Mas talvez esse não seja o caso.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Talvez eu ache que tenho livre arbítrio, mas[n]ainda estou agindo de acordo com a vontade[n]de Maruki... isso seria bastante risível.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Mas não vou parar de pensar por causa de[n]alguma teoria não provável.[n]Vou continuar resistindo.[n][f 1 3 65535][w][e]
 

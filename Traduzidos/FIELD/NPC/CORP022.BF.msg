@@ -405,7 +405,7 @@
 
 [msg MSG_C22_YES_08_02 [Sumire]]
 [s][bup 0 10 7 65535 0][f 4 10 65535 0 0][f 4 23 1 222 3 10 0 10][vp 8 2 1 57097 65535 0]Wha-!? Y-y... y-your house, senpai!?[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu, hum! Eu-eu acho que é um pouco cedo![n]Quero dizer, não sei se meu coração está[n]pronto para isso![n]Então...[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu, hum! Eu-eu acho que é um pouco cedo![n]Quero dizer, não sei se meu coração está[n]pronto para isso! Então...[n][w][e]
 [s][vp 8 2 1 0 65535 0]......[n][w][e]
 [s][bup 0 10 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Oh... quando você disse que venha, você[n]pretendia LeBlanc?[n][w][e]
 [s][vp 8 2 1 0 65535 0]......[n][w][e]

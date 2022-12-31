@@ -194,7 +194,7 @@
 [s]Eu sinto o cheiro...[n]O cheiro da escória.[n][f 1 2 65535][e]
 
 [msg MSG_NML07_MNLG_FREE_01_1_7]
-[s]Eles querem que eu espere por uma placa? Sem[n]chance.[n]Eu não posso me controlar.[n][f 1 2 65535][e]
+[s]Eles querem que eu espere por uma placa? Sem[n]chance. Eu não posso me controlar.[n][f 1 2 65535][e]
 
 [msg MSG_NML07_MNLG_FREE_01_1_8]
 [s]Depois deste trabalho, vou beber tanto que[n]posso tomar banho em álcool.[n][f 1 2 65535][e]

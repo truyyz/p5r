@@ -98,7 +98,7 @@
 [s][vp 8 2 0 0 65535 0][f 4 10 65535 0 0]... Eu só tenho que ranger os dentes até[n]então...[n][f 1 3 65535][w][e]
 
 [msg MSG_028_0_0 [Aging Businesswoman]]
-[s][vp 1 0 0 0 0 0]Mal posso esperar pela nova administração de[n]Shido.[n]Tenho certeza de que nossa economia e[n]mercado melhorarão.[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Mal posso esperar pela nova administração de[n]Shido. Tenho certeza de que nossa economia e[n]mercado melhorarão.[n][f 1 3 65535][w][e]
 
 [msg MSG_029_0_0 [Naïve Office Worker]]
 [s][vp 1 0 0 0 0 0]Fui ouvir o discurso de Shido-san.[n]Eu fiquei tão emocionado! Suas palavras[n]realmente ressoaram em mim.[n][f 1 3 65535][w][e]
@@ -118,7 +118,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Então... cuide de mim, ok?[n][f 1 3 65535][w][e]
 
 [msg MSG_032_0_0 [Aging Businesswoman]]
-[s][vp 1 0 0 0 0 0]Mal posso esperar pela nova administração de[n]Shido.[n]Tenho certeza de que nossa economia e[n]mercado melhorarão.[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Mal posso esperar pela nova administração de[n]Shido. Tenho certeza de que nossa economia e[n]mercado melhorarão.[n][f 1 3 65535][w][e]
 
 [msg MSG_033_0_0 [Naïve Office Worker]]
 [s][vp 1 0 0 0 0 0]Fui ouvir o discurso de Shido-san.[n]Eu fiquei tão emocionado! Suas palavras[n]realmente ressoaram em mim.[n][f 1 3 65535][w][e]
@@ -161,7 +161,7 @@
 [s][vp 1 0 0 0 0 0]Especialmente Akechi-kun. Ele não disse nada[n]sobre isso... Estou realmente preocupado[n]com ele![n][f 1 3 65535][w][e]
 
 [msg MSG_042_0_0 [Soft-Spoken Student]]
-[s][vp 1 0 0 0 0 0]Tenho certeza de que ele está ocupado[n]investigando.[n]Continue apoiando a eleição e espere.[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Tenho certeza de que ele está ocupado[n]investigando. Continue apoiando a eleição e espere.[n][f 1 3 65535][w][e]
 
 [msg MSG_043_0_0 [Ann]]
 [s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 6197 65535 0]Eles ainda acreditam em Shido? A mídia ainda[n]o está apoiando?[n][f 1 3 65535][w][e]

@@ -126,5 +126,5 @@
 [s][vp 8 0 0 0 65535 0][f 5 13 0 5 0]Eu sinto que meu vínculo com Kawakami ficará[n]mais forte em breve...[n][f 1 3 65535][w][e]
 
 [msg MSG_039_0_0 [Kawakami]]
-[s][vp 8 2 0 15054 65535 0]Obrigado pelo seu patrocínio!...Estou[n]brincando.[n]Vê você.[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 15054 65535 0]Obrigado pelo seu patrocínio!...Estou[n]brincando. Vê você.[n][f 1 3 65535][w][e]
 

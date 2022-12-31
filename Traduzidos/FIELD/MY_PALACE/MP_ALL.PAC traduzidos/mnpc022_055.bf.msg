@@ -33,7 +33,7 @@
 
 [msg MES_GROUP2_03 [Akechi]]
 [s][bup 0 9 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 35 10 50 10][vp 8 2 1 8048 65535 0]Heh, como você deseja.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Que tal você me tratar para sushi se eu[n]ganhar?[n]Faz algum tempo.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Que tal você me tratar para sushi se eu[n]ganhar? Faz algum tempo.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]As coisas boas, é claro. Sem correias[n]transportadoras.[n][w][e]
 
 [msg MES_GROUP2_04 [Sae]]

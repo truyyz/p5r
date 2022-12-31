@@ -5,7 +5,7 @@
 [s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Me dê um segundo.[n]Ok, fique quieto durante isso...[n][w][e]
 
 [msg e259_130_mes03 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Entre, sala de segurança! Esta é a sala de[n]monitoramento![n]Fomos emboscados por intrusos![n][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Entre, sala de segurança! Esta é a sala de[n]monitoramento! Fomos emboscados por intrusos![n][w][e]
 
 [msg D03_154_02_COMBINED_TUTO [Ann]]
 [s][bup 0 4 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 1 0 0]Solicitando backup, imediatamente![n][w][e]

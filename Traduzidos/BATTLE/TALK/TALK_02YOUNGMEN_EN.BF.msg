@@ -84,7 +84,7 @@
 [s]H-hey! Você está chorando!?... Tudo bem, eu[n]vou te perdoar! Só me dá [n][f 2 5 3 9999 3].[n][w][e]
 
 [msg TalkMsg_EN_FAKE_CRIED01]
-[s]O que...? Essa mulher é muito problema. Só[n]me dá [n][var 0]Yen.[n]Vou deixar você sair do gancho.[n][w][e]
+[s]O que...? Essa mulher é muito problema. Só[n]me dá  [var 0]Yen.[n]Vou deixar você sair do gancho.[n][w][e]
 
 [msg TalkMsg_EN_FAKE_CRIED02]
 [s]H-hey! Você está chorando!?... Se você me[n]der um pouco da sua saúde, acho que posso[n]te perdoar.[n][w][e]

@@ -167,7 +167,7 @@
 
 [msg MSG_BED_MORGANA_NIGHT_07_7 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 2 1 1021 65535 0]Primeiro, foi medjed, depois Alibaba, e[n]agora Futaba Sakura...[n][w][e]
-[s][bup 0 3 5 65535 0][f 4 10 65535 0 0]Não temos nenhuma informação sobre nenhum[n]deles.[n]O que anda acontecendo no mundo?[n][w][e]
+[s][bup 0 3 5 65535 0][f 4 10 65535 0 0]Não temos nenhuma informação sobre nenhum[n]deles. O que anda acontecendo no mundo?[n][w][e]
 
 [msg MSG_BED_MORGANA_NIGHT_07_8 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 1021 65535 0]Acho que não encontraremos respostas apenas[n]pensando nisso. Vamos para a cama.[n][w][e]
@@ -289,7 +289,7 @@
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 2 1 1174 65535 0]Mal posso esperar para ver o olhar no rosto[n]de Niijima no julgamento amanhã. Ela está[n]surpresa![n][w][e]
 
 [msg MSG_BED_MORGANA_NIGHT_11 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 2 1 1174 65535 0]Depois de enviarmos o cartão de visita,[n]precisamos nos preparar para roubar o[n]tesouro.[n]Vamos nos preparar esta noite.[n][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 2 1 1174 65535 0]Depois de enviarmos o cartão de visita,[n]precisamos nos preparar para roubar o[n]tesouro. Vamos nos preparar esta noite.[n][w][e]
 
 [msg MSG_BED_MORGANA_NIGHT_11_2 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]Estamos enviando o cartão de visita amanhã,[n]certo? É melhor você preparar tudo esta[n]noite.[n][w][e]
@@ -425,7 +425,7 @@
 [s](仮)SE:ガサ...ガサ... シュッ...[n][w][e]
 
 [msg MSG_DREAM_Good_Type01_St]
-[s]Eu tive um sonho em que estava no telhado da[n]escola, conversando com [n][var 0][n]sobre o nosso futuro...[n][w][e]
+[s]Eu tive um sonho em que estava no telhado da[n]escola, conversando com [n][var 0] sobre o nosso futuro...[n][w][e]
 
 [msg MSG_DREAM_Good_Type01_02]
 [s]in a quiet café, asking[n][var 0]Eu tive um sonho onde eu estava por[n]conselhos...[n][w][e]

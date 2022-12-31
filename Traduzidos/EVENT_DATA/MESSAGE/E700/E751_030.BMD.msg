@@ -18,7 +18,7 @@
 
 [msg MSG_005_0_0 [Futaba]]
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Ok, vamos nos negócios![n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Primeiro, temos que pegar um pouco de frango[n]assado.[n]Estou falando tão grande quanto eu.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Primeiro, temos que pegar um pouco de frango[n]assado. Estou falando tão grande quanto eu.[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Futaba]]
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Ok, vamos rolar![n][f 1 3 65535][w][e]

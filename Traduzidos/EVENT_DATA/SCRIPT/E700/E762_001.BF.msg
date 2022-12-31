@@ -158,7 +158,7 @@
 
 [msg MSG_021_0_0 [Nanami]]
 [s][vp 8 2 0 58563 4 0]Os clientes pareciam irritados.[n]Provavelmente estávamos um pouco lentos...[n][f 1 3 65535][w][e]
-[s][vp 8 2 0 0 4 0]Bem, eu aprecio o trabalho duro, de qualquer[n]maneira.[n]Espere lá, ok?[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 4 0]Bem, eu aprecio o trabalho duro, de qualquer[n]maneira. Espere lá, ok?[n][f 1 3 65535][w][e]
 
 [msg MSG_027_0_0 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 1039 65535 0][f 4 22 65535 3 23]Há uma repentina corrida de clientes assim[n]que Shibuya-senpai continua de folga...[n][f 1 3 65535][w][e]

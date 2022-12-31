@@ -24,7 +24,7 @@
 [s][bup 0 221 0 0 0][vp 8 0 2 1008 1 611][f 4 10 65535 0 0]Espere, eu preciso me concentrar. Aqui vou[n]eu, pessoal![n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_METEO_000 [Jose]]
-[s][bup 0 221 5 0 0][vp 8 0 2 1009 1 611][f 4 10 65535 0 0]Eu realmente entendo como você se sente[n]agora.[n]Obrigada.[n][f 1 3 65535][w][e]
+[s][bup 0 221 5 0 0][vp 8 0 2 1009 1 611][f 4 10 65535 0 0]Eu realmente entendo como você se sente[n]agora. Obrigada.[n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_METEO_001 [Jose]]
 [s][bup 0 221 0 0 0][vp 8 0 2 1010 1 611][f 4 10 65535 0 0]Agora, é hora de mostrar como me sinto![n][f 1 3 65535][w][e]

@@ -64,7 +64,7 @@
 [s][bup 0 5 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 27 65535 0]No entanto, não importa o quanto eu tente[n]replicá-lo, uma elegância tão doce[n]permanece ilusória para mim![n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Yusuke]]
-[s][bup 0 5 5 65535 0][f 4 10 65535 0 0][vp 8 0 0 28 65535 0]Por que isso, você pergunta? É certamente[n]porque o pintor por trás do trabalho[n]difere...[n]Porque a alma difere![n][f 1 3 65535][w][e]
+[s][bup 0 5 5 65535 0][f 4 10 65535 0 0][vp 8 0 0 28 65535 0]Por que isso, você pergunta? É certamente[n]porque o pintor por trás do trabalho[n]difere... Porque a alma difere![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 29 65535 0]Mas se minhas estimativas estiverem[n]corretas, a "alma" não passa de outra[n]maneira de falar do coração humano.[n][f 1 3 65535][w][e]
 [s][bup 0 5 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 30 65535 0]O que, então, é o coração? Como isso traz[n]tanta beleza? Eu devo entender![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 31 65535 0]......[n][f 1 3 65535][w][e]

@@ -95,7 +95,7 @@
 
 [msg MSG_Book1stAns02_Yusuke [Yusuke]]
 [s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 4133 65535 0][f 5 13 5 5 5]Sim claro. Arte que lhe traz consolação, uma[n]sensação de paz... que é uma boa arte.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Mas como a arte- a imagem- pode ser capaz[n]disso?[n]De onde vem esse sentimento de paz?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Mas como a arte- a imagem- pode ser capaz[n]disso? De onde vem esse sentimento de paz?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]É um mistério que é confuso filósofos por[n]gerações. É um mistério do coração...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Obrigado por compartilhar sua opinião.[n]Era esclarecedor.[n][f 1 3 65535][w][e]
 
@@ -197,17 +197,17 @@
 [s][bup 0 8 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 9040 65535 0][f 5 13 10 15 8]Sério!? Huh, você é mais um técnico do que[n]eu pensava. Você pode até ser um mestre[n]para PC![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Quais foram as especificações? Que CPU você[n]usou? Quanta RAM você colocou?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Ooh, você o fez overclock? Como você lidou[n]com o resfriamento?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Hehehe... devemos ir a Akiba juntos algum[n]dia, [n][f 4 2]![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Hehehe... devemos ir a Akiba juntos algum[n]dia,  [f 4 2]![n][f 1 3 65535][w][e]
 
 [msg MSG_Book1stAns02_Futaba [Futaba]]
 [s][bup 0 8 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 9045 65535 0][f 5 13 10 15 8]Sério? Ooh, então eu tenho algumas[n]recomendações![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Vamos montar uma besta de uma máquina![n]Vamos escolher todos os componentes para uma[n]construção personalizada![n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Hehehe... devemos ir a Akiba juntos algum[n]dia, [n][f 4 2]![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Hehehe... devemos ir a Akiba juntos algum[n]dia,  [f 4 2]![n][f 1 3 65535][w][e]
 
 [msg MSG_Book1stAns03_Futaba [Futaba]]
 [s][bup 0 8 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 9028 65535 0][f 5 13 10 15 8]Oh? Você não sabe muito sobre PCs, [n][f 4 2]?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Não se preocupe, eu vou te ensinar. Toda[n]placa-mãe é um universo cheio de esperanças[n]e sonhos.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Hehehe... devemos ir a Akiba juntos algum[n]dia, [n][f 4 2]![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Hehehe... devemos ir a Akiba juntos algum[n]dia,  [f 4 2]![n][f 1 3 65535][w][e]
 
 [msg MSG_CORP_F [Futaba]]
 [s][bup 0 8 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 9100 65535 0]... está ficando muito tarde![n][f 1 3 65535][w][e]
@@ -331,7 +331,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Meh, não se preocupe comigo. Vou sair do seu[n]cabelo.[n][f 1 3 65535][w][e]
 
 [msg MSG_NextTimeOK_Curry_Fut [Futaba]]
-[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Você sabe que eu sou exigente sobre Curry,[n]certo?[n]Espero que você tenha habilidades.[n][f 1 3 65535][w][e]
+[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Você sabe que eu sou exigente sobre Curry,[n]certo? Espero que você tenha habilidades.[n][f 1 3 65535][w][e]
 
 [msg MSG_NextTimeOK_Coffee_Fu [Futaba]]
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Tenho que amar o café. Só o cheiro é[n]suficiente para chutar os Sleepies na bunda![n][f 1 3 65535][w][e]

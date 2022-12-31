@@ -40,7 +40,7 @@
 
 [msg MES_GROUP2_03 [Futaba]]
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 9086 65535 0]Sim![n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Sim, o curry e o café de LeBlanc não podem[n]ser batidos! E o melhor de tudo, é super[n]frio![n]Mesmo que seja meio que bate.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Sim, o curry e o café de LeBlanc não podem[n]ser batidos! E o melhor de tudo, é super[n]frio! Mesmo que seja meio que bate.[n][w][e]
 
 [msg MES_GROUP2_04 [Sojiro]]
 [s][bup 0 103 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]... Você não precisou dizer essa parte.[n][w][e]

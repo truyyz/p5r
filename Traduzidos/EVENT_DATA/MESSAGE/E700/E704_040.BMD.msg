@@ -140,7 +140,7 @@
 [msg MSG_035_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O que você está falando?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 4050 65535 0]Ah, bem... venha, já é hora de voltarmos[n]para casa.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Por favor, repense-nos de volta para a[n]costa, [n][f 4 2].[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Por favor, repense-nos de volta para a[n]costa,  [f 4 2].[n][f 1 3 65535][w][e]
 
 [msg MSG_036_0_0 [Yusuke]]
 [s][vp 8 2 0 4063 65535 0]Até a próxima.[n][f 1 3 65535][w][e]

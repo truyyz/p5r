@@ -298,7 +298,7 @@
 
 [msg MSG_C19_COOP_00_00 [Yoshida]]
 [s][bup 0 112 0 0 0][f 4 23 1 219 3 10 0 10]Você tem trabalhado duro em seus estudos?[n]Você nunca terá esse tempo de volta, assim[n]como tudo o que puder.[n][w][e]
-[s]A propósito, estou prestes a fazer um[n]discurso.[n]Você poderia me dar uma mão com isso?[n][w][e]
+[s]A propósito, estou prestes a fazer um[n]discurso. Você poderia me dar uma mão com isso?[n][w][e]
 
 [msg MSG_C19_COOP_10_00 [Yoshida]]
 [s][bup 0 112 0 0 0][f 4 23 1 219 3 10 0 10]Não há mais nada que eu possa te ensinar,[n]mas se você acha que seria útil, por favor[n]ouça.[n][w][e]
@@ -355,7 +355,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Você estaria disposto a ouvir?[n][w][e]
 
 [msg MND_COOP_DOUZOKUSEI]
-[s]Eu sinto que posso me aproximar de Yoshida[n]graças ao [n][var 2][n]Persona [clr 1][var 5][clr 27]...[n][w][e]
+[s]Eu sinto que posso me aproximar de Yoshida[n]graças ao [n][var 2] Persona [clr 1][var 5][clr 27]...[n][w][e]
 
 [msg MND_COOP_RANKUP_OK]
 [s]Eu sinto que meu vínculo com Yoshida ficará[n]mais forte em breve...[n][w][e]

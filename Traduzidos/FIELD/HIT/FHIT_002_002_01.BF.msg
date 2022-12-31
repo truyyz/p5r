@@ -286,7 +286,7 @@
 [s][vp 1 0 0 0 0 0]É melhor me apressar para o pátio...[n][w][e]
 
 [msg MSG_E23810100_CHK_SIDOSI [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 65535 1173 0 0]Portanto, esta é a sala de orientação do[n]aluno.[n]A sala do conselho estudantil está no [n][clr 2]terceiro andar [clr 27], direita?[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 65535 1173 0 0]Portanto, esta é a sala de orientação do[n]aluno. A sala do conselho estudantil está no [n][clr 2]terceiro andar [clr 27], direita?[n][w][e]
 
 [msg MND_COMMON_CHK_SIDOSITU_]
 [s][vp 1 0 0 0 0 0]Não há nada em particular que eu precise[n]fazer aqui...[n][w][e]
@@ -351,7 +351,7 @@
 [s][vp 1 0 0 0 0 0]É melhor me apressar para o pátio...[n][w][e]
 
 [msg MSG_E23810100_CHK_CLASS_ [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 65535 1190 0 0]Você não precisa de nada das outras classes,[n]não é? Vamos na sala do conselho estudantil[n]no [n][clr 2]terceiro andar [clr 27].[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 65535 1190 0 0]Você não precisa de nada das outras classes,[n]não é? Vamos na sala do conselho estudantil[n]no  [clr 2]terceiro andar [clr 27].[n][w][e]
 
 [msg MSG_E65410201_CHK_CLASS_ [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]Você não precisa de nada das outras classes,[n]não é? Vamos depois dessa borboleta.[n][w][e]

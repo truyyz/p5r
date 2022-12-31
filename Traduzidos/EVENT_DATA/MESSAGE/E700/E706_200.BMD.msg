@@ -85,7 +85,7 @@
 
 [msg MSG_023_0_0 [Ann]]
 [s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 54039 65535 0]Nunca mais vou perder meu caminho.[n][f 1 3 65535][w][e]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 24 0 4 6 59 5 100][vp 8 2 0 0 65535 0]De agora em diante, vou enfrentar a[n]realidade.[n]Para mim, para Shiho... e para você.[n][f 1 3 65535][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 24 0 4 6 59 5 100][vp 8 2 0 0 65535 0]De agora em diante, vou enfrentar a[n]realidade. Para mim, para Shiho... e para você.[n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [Ann]]
 [s][vp 8 2 0 6130 65535 0]É isso... meu poder? Eu não posso[n]acreditar...[n][f 1 3 65535][w][e]

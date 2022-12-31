@@ -1,7 +1,7 @@
 [msg MSG_C20_BYEGREET_00_00 [Sae]]
 [s][bup 0 105 1 65535 0][f 4 23 1 220 12 10 10 10][f 4 10 65535 0 0][vp 8 0 1 1 65535 0]... parece que você está bem.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 2 65535 0]Eu decidi parar depois do trabalho.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 1 3 65535 0]Eu costumava vir por essa área de vez em[n]quando.[n]Eu sempre fui fã do café de LeBlanc.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 1 3 65535 0]Eu costumava vir por essa área de vez em[n]quando. Eu sempre fui fã do café de LeBlanc.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 4 65535 0]... É amanhã, certo? O dia em que você vai[n]para casa.[n][w][e]
 
 [sel SEL_C20_BYEGREET_00_01 top]
@@ -37,7 +37,7 @@
 [msg MSG_C20_BYEGREET_00_00_5 [Sae]]
 [s][bup 0 105 1 65535 0][f 4 23 1 220 12 10 10 10][f 4 10 65535 0 0][vp 8 0 1 18 65535 0]... parece que você está bem.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 19 65535 0]Eu decidi parar depois do trabalho.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 1 20 65535 0]Eu costumava vir por essa área de vez em[n]quando.[n]Eu sempre fui fã do café de LeBlanc.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 1 20 65535 0]Eu costumava vir por essa área de vez em[n]quando. Eu sempre fui fã do café de LeBlanc.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 21 65535 0]... É amanhã, certo? O dia em que você vai[n]para casa.[n][w][e]
 
 [sel SEL_C20_BYEGREET_00_01_5 top]

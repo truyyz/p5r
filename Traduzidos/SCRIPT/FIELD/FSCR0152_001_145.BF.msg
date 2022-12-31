@@ -26,7 +26,7 @@
 [s][bup 0 3 0 65535 0]A célula está desbloqueada...[n][w][e]
 
 [msg D01_02_e129_202_mes05 [Ryuji]]
-[s][bup 0 2 0 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Você acha que eles estão em outras células[n]agora?[n]Vamos olhar em volta![n][w][e]
+[s][bup 0 2 0 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Você acha que eles estão em outras células[n]agora? Vamos olhar em volta![n][w][e]
 
 [msg D01_02_e129_202_mes07 [Ryuji]]
 [s][bup 0 2 0 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7085 65535 0]Os caras das células foram levados para o[n]corredor de trens...[n][w][e]

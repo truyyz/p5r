@@ -486,7 +486,7 @@
 [s][vp 9 2 65535 39752 0 0]É uma pena que ele tenha esse registro[n]criminal...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_303_03_]
-[s][vp 9 2 65535 42754 0 0]Eu pensei que ele parecia um aluno muito[n]sério.[n]Eu acho que essa pontuação prova isso.[n][f 1 2 180][e]
+[s][vp 9 2 65535 42754 0 0]Eu pensei que ele parecia um aluno muito[n]sério. Eu acho que essa pontuação prova isso.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_303_04_]
 [s][vp 9 2 65535 43204 0 0]Não parece que ele está apenas trapaceando...[n][f 1 2 180][e]
@@ -519,7 +519,7 @@
 [s][vp 9 2 65535 42110 0 0]Ele é muito bom...[n]Na verdade, estou com ciúmes.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_306_02_]
-[s][vp 9 2 65535 42860 0 0]Ele está sempre obtendo as pontuações mais[n]altas.[n]É meio estranho...[n][f 1 2 180][e]
+[s][vp 9 2 65535 42860 0 0]Ele está sempre obtendo as pontuações mais[n]altas. É meio estranho...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_306_03_]
 [s][vp 9 2 65535 45054 0 0]Ele está no topo da classe, certo? Talvez eu[n]deva perguntar ahim se ele me ensinará...[n][f 1 2 180][e]
@@ -552,7 +552,7 @@
 [s]Nada vai mudar... então eu me recuso a levar[n]as coisas a sério.[n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_9]
-[s]Ugh, é uma dor que está tendo que ir[n]trabalhar.[n]Talvez eu chame de doente...[n][f 1 2 180][e]
+[s]Ugh, é uma dor que está tendo que ir[n]trabalhar. Talvez eu chame de doente...[n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_10]
 [s]Nada de bom acontece... alguém deveria fazer[n]algo sobre isso.[n][f 1 2 180][e]
@@ -630,7 +630,7 @@
 [s][vp 9 2 65535 38152 0 0]Pena que o medalhista de ouro acabou sendo[n]um pervertido.[n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_35]
-[s][vp 9 2 65535 38953 0 0]Eles prenderam esse professor por ser um[n]pervertido?[n]Isso é hilário![n][f 1 2 180][e]
+[s][vp 9 2 65535 38953 0 0]Eles prenderam esse professor por ser um[n]pervertido? Isso é hilário![n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_36]
 [s][vp 9 2 65535 38904 0 0]Ele aproveitou as meninas da equipe...[n]Que nojento...[n][f 1 2 180][e]
@@ -642,7 +642,7 @@
 [s][vp 9 2 65535 39053 0 0]Pena que o medalhista de ouro acabou sendo[n]um pervertido.[n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_39]
-[s][vp 9 2 65535 38903 0 0]Eles prenderam esse professor por ser um[n]pervertido?[n]Isso é hilário![n][f 1 2 180][e]
+[s][vp 9 2 65535 38903 0 0]Eles prenderam esse professor por ser um[n]pervertido? Isso é hilário![n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_40]
 [s][vp 9 2 65535 39651 0 0]Não acredito que ele assediou sexualmente[n]aquelas garotas. Que abuso grosseiro de[n]poder...[n][f 1 2 180][e]
@@ -666,7 +666,7 @@
 [s][vp 9 2 65535 38501 0 0]Pena que o medalhista de ouro acabou sendo[n]um pervertido.[n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_47]
-[s][vp 9 2 65535 38553 0 0]Eles prenderam esse professor por ser um[n]pervertido?[n]Isso é hilário![n][f 1 2 180][e]
+[s][vp 9 2 65535 38553 0 0]Eles prenderam esse professor por ser um[n]pervertido? Isso é hilário![n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_48]
 [s][vp 9 2 65535 38651 0 0]Não acredito que ele assediou sexualmente[n]aquelas garotas. Tch, abusando de poder[n]assim...[n][f 1 2 180][e]
@@ -867,7 +867,7 @@
 [s][vp 9 2 65535 37501 0 0]Ele estava ganhando dinheiro com a arte que[n]roubou de artistas reais... que desprezo.[n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_114]
-[s][vp 9 2 65535 37551 0 0]Ele explorou seus alunos e roubou o trabalho[n]deles.[n]Você pode acreditar nisso!?[n][f 1 2 180][e]
+[s][vp 9 2 65535 37551 0 0]Ele explorou seus alunos e roubou o trabalho[n]deles. Você pode acreditar nisso!?[n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_115]
 [s][vp 9 2 65535 37653 0 0]Você viu essa conferência de imprensa? Eu ri[n]tanto![n][f 1 2 180][e]
@@ -1158,7 +1158,7 @@
 [s][vp 9 2 65535 37551 0 0]Vamos lá, ladrões Phantom.[n]Diga algo já...[n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_211]
-[s][vp 9 2 65535 37652 0 0]Os ladrões Phantom com certeza estão ficando[n]quietos.[n]O que vai acontecer...?[n][f 1 2 180][e]
+[s][vp 9 2 65535 37652 0 0]Os ladrões Phantom com certeza estão ficando[n]quietos. O que vai acontecer...?[n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_212]
 [s][vp 9 2 65535 37704 0 0]O Japão está sendo alvo.[n]Eu realmente espero que eles façam algo a[n]respeito.[n][f 1 2 180][e]
@@ -1182,7 +1182,7 @@
 [s][vp 9 2 65535 38205 0 0]Os ladrões Phantom não vão fazer algo...?[n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_219]
-[s][vp 9 2 65535 38254 0 0]Os ladrões Phantom com certeza estão ficando[n]quietos.[n]O que vai acontecer...?[n][f 1 2 180][e]
+[s][vp 9 2 65535 38254 0 0]Os ladrões Phantom com certeza estão ficando[n]quietos. O que vai acontecer...?[n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_220]
 [s][vp 9 2 65535 38354 0 0]Eles vão nos poupar se os ladrões fantasmas[n]revelarem suas identidades?[n][f 1 2 180][e]
@@ -1194,7 +1194,7 @@
 [s][vp 9 2 65535 38501 0 0]Os ladrões Phantom não vão fazer algo...?[n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_223]
-[s][vp 9 2 65535 38554 0 0]Os ladrões Phantom com certeza estão ficando[n]quietos.[n]O que vai acontecer...?[n][f 1 2 180][e]
+[s][vp 9 2 65535 38554 0 0]Os ladrões Phantom com certeza estão ficando[n]quietos. O que vai acontecer...?[n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_224]
 [s][vp 9 2 65535 38654 0 0]Eles não vão nos prejudicar se os ladrões[n]fantasmas revelarem suas verdadeiras[n]identidades, certo?[n][f 1 2 180][e]
@@ -1716,7 +1716,7 @@
 [s][vp 9 2 65535 38351 0 0]Essas falhas psicóticas foram causadas por[n]ladrões fantasmas, certo?[n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_397]
-[s][vp 9 2 65535 38457 0 0]Algo tem que ser feito sobre os ladrões[n]Phantom![n]A polícia é inútil![n][f 1 2 180][e]
+[s][vp 9 2 65535 38457 0 0]Algo tem que ser feito sobre os ladrões[n]Phantom! A polícia é inútil![n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_398]
 [s][vp 9 2 65535 38507 0 0]Ninguém vai fazer nada sobre tudo isso!?[n][f 1 2 180][e]
@@ -1875,7 +1875,7 @@
 [s][vp 9 2 65535 37504 0 0]O representante Shido é o único político sem[n]rumores ruins que o cercam.[n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_450]
-[s][vp 9 2 65535 37550 0 0]Você ouviu o discurso daquele político,[n]Shido?[n]Agora esse homem é incrível.[n][f 1 2 180][e]
+[s][vp 9 2 65535 37550 0 0]Você ouviu o discurso daquele político,[n]Shido? Agora esse homem é incrível.[n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_451]
 [s][vp 9 2 65535 37653 0 0]Vai ficar bem se deixarmos tudo para[n]Shido-san![n][f 1 2 180][e]
@@ -2136,7 +2136,7 @@
 [s]0 [n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_537]
-[s]Ugh, é uma dor que está tendo que ir[n]trabalhar.[n]Talvez eu chame de doente...[n][f 1 2 180][e]
+[s]Ugh, é uma dor que está tendo que ir[n]trabalhar. Talvez eu chame de doente...[n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_538]
 [s]Eu me pergunto se há algo interessante[n]acontecendo...[n][f 1 2 180][e]

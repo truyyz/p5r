@@ -143,7 +143,7 @@
 
 [msg TV_MACHI_0423_100_00 [Pundit]]
 [s]Ah, acho que há uma costeleta corporal no[n]shopping underground em Shibuya.[n][w][e]
-[s]Eu sempre tive uma fraqueza por bens de[n]tempo limitado. Estou começando a querer[n]alguns [n][clr 2]Recuperar óleo [clr 27]Eu mesmo.[n][w][e]
+[s]Eu sempre tive uma fraqueza por bens de[n]tempo limitado. Estou começando a querer[n]alguns  [clr 2]Recuperar óleo [clr 27]Eu mesmo.[n][w][e]
 
 [msg TV_NEWS_0425_000_00 [Newscaster]]
 [s]Em seguida, é a política.[n][w][e]
@@ -360,7 +360,7 @@
 [s]Elogiado pelos críticos, a exposição também[n]mostra a evolução do estilo do mestre ao[n]longo dos anos.[n][w][e]
 
 [msg TV_NEWS_0520_100_00 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1102 65535 0][f 4 25 1 65535 0 0]Todo mundo está totalmente caindo por suas[n]mentiras.[n]Eles descobrirão em breve, não é?[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1102 65535 0][f 4 25 1 65535 0 0]Todo mundo está totalmente caindo por suas[n]mentiras. Eles descobrirão em breve, não é?[n][w][e]
 
 [msg TV_NEWS_0521_000_00 [Newscaster]]
 [s]May já está meio terminado e agora é a[n]temporada para as folhas começarem a brotar.[n][w][e]
@@ -477,7 +477,7 @@
 [s]A exposição está programada para continuar[n]até 5 de junho.[n][w][e]
 
 [msg TV_NEWS_0603_100_00 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1102 65535 0][f 4 25 1 65535 0 0]Essa exposição está terminando em breve, não[n]é?[n]Eu me pergunto o que vai acontecer.[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1102 65535 0][f 4 25 1 65535 0 0]Essa exposição está terminando em breve, não[n]é? Eu me pergunto o que vai acontecer.[n][w][e]
 
 [msg TV_ANIME_0604_000_00 [Narrator]]
 [s]Feather Hawk recuperou suas memórias[n]perdidas- mas agora, um novo vilão se[n]revelou![n][w][e]
@@ -532,7 +532,7 @@
 [s]Até envergonha comida chinesa. É[n]surpreendente que você possa comprá-lo em[n]lojas de conveniência.[n][w][e]
 
 [msg TV_NEWS_0611_000_00 [Newscaster]]
-[s]Discutimos a palavra que circula pela cidade[n]para ajudar a mantê-lo informado. Hoje,[n]cobrimos " [n][f 4 28]. " [n][w][e]
+[s]Discutimos a palavra que circula pela cidade[n]para ajudar a mantê-lo informado. Hoje,[n]cobrimos " [f 4 28]. " [n][w][e]
 [s]Eles têm grande apelo entre os jovens e[n]dizem que estão envolvidos na confissão de[n]Madarame.[n][w][e]
 [s]Seus métodos são desconhecidos, e muitos[n]estão expressando preocupação de que esse[n]grupo possa ser perigoso, mas...[n][w][e]
 
@@ -619,7 +619,7 @@
 [s]Uau, estamos muito altos! A vista do deck de[n]observação parece que você está andando no[n]ar![n][w][e]
 
 [msg TV_MACHI_0622_100_00 [Pundit]]
-[s]Tenho medo de altura, então as barracas de[n]rua em Asakusa podem ser mais adequadas[n]para mim...[n]Hahaha.[n][w][e]
+[s]Tenho medo de altura, então as barracas de[n]rua em Asakusa podem ser mais adequadas[n]para mim... Hahaha.[n][w][e]
 
 [msg TV_QUIZ_0623_000_00 [Game Show Host]]
 [s]Aqui está uma pergunta relacionada à fraude[n]que Madarame confessou recentemente.[n][w][e]
@@ -782,7 +782,7 @@
 
 [msg TV_NEWS_0713_000_00 [Newscaster]]
 [s]... está sob suspeita de jogos ilegais.[n]Pode parecer uma loja de jogos online...[n][w][e]
-[s]No entanto, naquela pequena sala, eles estão[n]permitindo que os clientes joguem[n]ilegalmente.[n]A empresa já ganhou bilhões.[n][w][e]
+[s]No entanto, naquela pequena sala, eles estão[n]permitindo que os clientes joguem[n]ilegalmente. A empresa já ganhou bilhões.[n][w][e]
 [s]Dizem que uma certa porcentagem de suas[n]vendas vai para o grupo de Kaneshiro.[n][w][e]
 
 [msg TV_NEWS_0713_100_00 [Morgana]]
@@ -982,13 +982,13 @@
 [msg TV_MACHI_0803_000_00 [Reporter]]
 [s]Em "Discovery! Detetives da cidade!", É o[n]nosso recurso especial em manchas de data[n]madura, bem a tempo do Obon![n][w][e]
 [s]Estamos aqui em [clr 2]JinboCho [clr 27]Para Book Town, uma verdadeira meca para[n]qualquer leitor de livros.[n][w][e]
-[s]Olhe para todos eles! São apenas livros,[n]livros, livros em todos os lugares que você[n]olha.[n]Estou sem palavras![n][w][e]
+[s]Olhe para todos eles! São apenas livros,[n]livros, livros em todos os lugares que você[n]olha. Estou sem palavras![n][w][e]
 
 [msg TV_MACHI_0803_100_00 [Pundit]]
 [s]Com como tudo está digitalizado hoje em dia,[n]é bom passar por um livro real.[n][w][e]
 
 [msg TV_MACHI_0803_200_00 [MC]]
-[s]Em seguida, falaremos sobre o lago de pesca[n]em [n][clr 2]Ichigaya [clr 27].[n][w][e]
+[s]Em seguida, falaremos sobre o lago de pesca[n]em  [clr 2]Ichigaya [clr 27].[n][w][e]
 [s]No meio da cidade, você pode realmente[n]desfrutar de um pouco de pesca. É um tempo[n]de qualidade de qualidade para si mesmo.[n][w][e]
 
 [msg TV_MACHI_0803_300_00 [Pundit]]
@@ -1228,7 +1228,7 @@
 [s]Com sua popularidade ainda aumentando, esse[n]boom fantasma ladrões continuará por um[n]tempo ainda.[n][w][e]
 
 [msg TV_NEWS_0829_100_00 [Morgana]]
-[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 1167 65535 0][f 4 25 1 65535 0 0]Eles estão chamando isso de boom do ladrão[n]fantasma![n]Estou tão orgulhoso de nós![n][w][e]
+[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 1167 65535 0][f 4 25 1 65535 0 0]Eles estão chamando isso de boom do ladrão[n]fantasma! Estou tão orgulhoso de nós![n][w][e]
 
 [msg TV_SHOUGI_0830_000_00 [Pro Shogi Player]]
 [s]Lance para 2-6... HM, eu não sei. Tenho um[n]mau pressentimento sobre esse movimento.[n][w][e]
@@ -1529,7 +1529,7 @@
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 1167 65535 0][f 4 25 1 65535 0 0]Parece que a colheita de arroz é muito boa[n]este ano! Huh, eu quero obter um sushi.[n][w][e]
 
 [msg TV_DRAMA_1003_000_00 [Sharp Detective]]
-[s]Eu gostaria de perguntar sobre o que você[n]viu.[n]Eu sou o detetive Sakyo Hinoshita, da[n]polícia do metrô de Tóquio...[n][w][e]
+[s]Eu gostaria de perguntar sobre o que você[n]viu. Eu sou o detetive Sakyo Hinoshita, da[n]polícia do metrô de Tóquio...[n][w][e]
 [s]... Assuntos criminais, TOC, 5 seção de[n]contramedidas organizadas, Força-Tarefa[n]Especial.[n][w][e]
 
 [msg TV_DRAMA_1003_100_00 [Material Witness]]
@@ -1832,7 +1832,7 @@
 [msg TV_QUIZ_1110_000_00 [Game Show Host]]
 [s]Esta próxima pergunta é fácil.[n]Quem é considerado como mais poder neste[n]país?[n][w][e]
 [s]A: O Primeiro Ministro.[n]B: Você na frente da sua TV.[n][w][e]
-[s]Para os espectadores que estão apenas[n]sintonizando, você está assistindo "Law[n]Variety"! Agora então, qual é a sua[n]resposta?[n][w][e]
+[s]Para os espectadores que estão apenas[n]sintonizando, você está assistindo "Law[n]Variety"! Agora então, qual é a sua resposta?[n][w][e]
 
 [sel SEL_QUIZ_1110 top]
 [s]O primeiro ministro.[e]
@@ -2339,7 +2339,7 @@
 [s]Havia até alguns que alugaram Destinyland em[n]Maihama para...[n][w][e]
 
 [msg TV_NEWS_0109_100_00 [Morgana]]
-[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 1019 65535 0][f 4 25 1 65535 0 0]É como uma festa enorme ou algo assim,[n]hein...[n]O dia da maioridade é sempre assim?[n][w][e]
+[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 1019 65535 0][f 4 25 1 65535 0 0]É como uma festa enorme ou algo assim,[n]hein... O dia da maioridade é sempre assim?[n][w][e]
 
 [msg TV_NEWS_0110_000_00 [Newscaster]]
 [s]As férias de inverno terminaram oficialmente[n]e um novo ano letivo começou.[n][w][e]
@@ -2443,7 +2443,7 @@
 [msg TV_NEWS_0120_000_00 [Newscaster]]
 [s]Perguntamos às empresas sobre suas economias[n]após o ano novo.[n][w][e]
 [s]As estatísticas dizem que a maioria das[n]empresas está se saindo muito bem.[n][w][e]
-[s]Aparentemente, seus desejos de escapar de[n]suas terríveis situações e colocar a[n]economia em boa posição se tornaram[n]realidade.[n][w][e]
+[s]Aparentemente, seus desejos de escapar de[n]suas terríveis situações e colocar a[n]economia em boa posição se tornaram realidade.[n][w][e]
 
 [msg TV_NEWS_0120_100_00 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1020 65535 0][f 4 25 1 65535 0 0]Desejos se tornando realidade? Você acha que[n]isso também está fazendo Maruki...?[n][w][e]
@@ -2911,7 +2911,7 @@
 [s]Algumas nuvens começarão a rolar durante a[n]tarde para um pouco de clima sombrio.[n][w][e]
 
 [msg TV_WEATHER_PATTERN06 [Weather Forecaster]]
-[s]Algumas nuvens vão começar a rolar durante a[n]tarde.[n]Podemos esperar que chova à noite.[n][w][e]
+[s]Algumas nuvens vão começar a rolar durante a[n]tarde. Podemos esperar que chova à noite.[n][w][e]
 
 [msg TV_WEATHER_PATTERN07 [Weather Forecaster]]
 [s]De repente, teremos algumas nuvens no meio[n]do dia. Se chover, terminará ao anoitecer.[n][w][e]

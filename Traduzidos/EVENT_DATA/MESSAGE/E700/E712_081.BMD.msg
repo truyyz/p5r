@@ -56,7 +56,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Só não vá esperar que eu torne o trabalho[n]mais fácil para você, você?[n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Iwai]]
-[s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 2 0 13089 65535 0]Vou contar com você, garoto. Quero dizer,[n]uh...[n][f 4 2].[n][f 1 3 65535][w][e]
+[s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 2 0 13089 65535 0]Vou contar com você, garoto. Quero dizer,[n]uh... [f 4 2].[n][f 1 3 65535][w][e]
 
 [msg MND_990_0_0]
 [s][vp 8 0 0 0 65535 0]Parece que meu vínculo com Iwai está ficando[n]ainda mais profundo...[n][f 1 3 65535][w][e]

@@ -313,7 +313,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Qual é o plano para hoje?[n]Você vai treinar comigo?[n][w][e]
 
 [msg MSG_RYUJI_CORP_C05_20 [Ryuji]]
-[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][f 4 23 1 207 32 10 31 10][vp 8 2 1 0 65535 0]Eu vou te avisar se descobrir alguma coisa[n]sobre [n][clr 2]Yamauchi [clr 27].[n][w][e]
+[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][f 4 23 1 207 32 10 31 10][vp 8 2 1 0 65535 0]Eu vou te avisar se descobrir alguma coisa[n]sobre  [clr 2]Yamauchi [clr 27].[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Qual é o plano para hoje?[n]Você vai treinar comigo?[n][w][e]
 
 [msg MSG_RYUJI_CORP_C06_99 [Ryuji]]
@@ -344,7 +344,7 @@
 
 [msg MSG_RYUJI_CORP_C06_05 [Ryuji]]
 [s][bup 0 2 11 65535 0][f 4 10 65535 0 0][f 4 23 1 207 32 10 31 10]Quero dizer, não há dúvida de que Yamauchi[n]me reconhece.[n][w][e]
-[s]Não importa o quão escaneado ele seja, eu[n]não quero arriscar a nenhum lugar perto[n]dele.[n]Deveria ser bom para você![n][w][e]
+[s]Não importa o quão escaneado ele seja, eu[n]não quero arriscar a nenhum lugar perto[n]dele. Deveria ser bom para você![n][w][e]
 [s]...Eu penso.[n][w][e]
 
 [sel SEL_RYUJI_CORP_C06_06 top]
@@ -694,7 +694,7 @@
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 1 14 0 0]... Oh porcaria, eu realmente parecia legal[n]pela primeira vez!? A-ways... aqui.[n][w][e]
 
 [msg MSG_C07_BYEGREET_00_06 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 23 1 207 32 10 31 10][vp 8 0 1 15 65535 0]É melhor você não esquecer de continuar[n]correndo, [n][f 4 2]![n]Eu vou correr para você![n][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 23 1 207 32 10 31 10][vp 8 0 1 15 65535 0]É melhor você não esquecer de continuar[n]correndo, [n][f 4 2]! Eu vou correr para você![n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 16 65535 0]De verdade, porém, cara... a escola vai ser[n]uma chatice sem você.[n][w][e]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 680][vp 8 0 1 17 65535 0]Welp, acho que tenho que encontrar uma[n]maneira de passar por Shujin sem você.[n][w][e]
 

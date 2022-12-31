@@ -64,5 +64,5 @@
 [msg MSG_E24310100_004_00 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Shibuya é vasto, tão estreita sua pesquisa.[n]Agora, se a maioria das vítimas são[n]estudantes...[n][w][e]
 [s][f 4 10 65535 0 0][vp 1 0 0 0 0 0]... Então devemos conferir lugares onde eles[n]saíam, como o shopping underground ou a[n]Central Street.[n][w][e]
-[s][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Se encontrarmos algum aluno da sua escola,[n]podemos matar dois pássaros com uma pedra[n]única.[n]Vamos de lado.[n][w][e]
+[s][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Se encontrarmos algum aluno da sua escola,[n]podemos matar dois pássaros com uma pedra[n]única. Vamos de lado.[n][w][e]
 

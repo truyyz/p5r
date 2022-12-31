@@ -433,7 +433,7 @@
 [s][vp 8 2 0 101 65535 0]Eu posso voltar se eu mutrinho o mash...![n][f 1 3 65535][w][e]
 
 [msg MSG_Recover_Error [Commentator]]
-[s][vp 8 2 0 59552 65535 0]Nosso desafiante está abaixado para a[n]contagem![n]A partida acabou![n][f 1 3 65535][w][e]
+[s][vp 8 2 0 59552 65535 0]Nosso desafiante está abaixado para a[n]contagem! A partida acabou![n][f 1 3 65535][w][e]
 
 [msg MSG_DOWN_REFEREE_END [Referee]]
 [s][vp 8 2 0 59552 65535 0]8... 9... 10...[n][f 1 3 65535][w][e]

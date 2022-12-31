@@ -143,7 +143,7 @@
 
 [msg MSG_032_0_0 [Sojiro]]
 [s][bup 0 103 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mesmo naquela época, ele estava reclamando[n]de todas as malditas despesas.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu joguei algum dinheiro para o seu caminho,[n]pensando que isso colocaria o problema na[n]cama...[n]Mas agora ele está de volta para mais.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu joguei algum dinheiro para o seu caminho,[n]pensando que isso colocaria o problema na[n]cama... Mas agora ele está de volta para mais.[n][f 1 3 65535][w][e]
 
 [msg MSG_033_0_0 [Sojiro]]
 [s][bup 0 103 5 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu nem sei como ele conseguiu me encontrar[n]aqui... talvez pagar a ele tenha sido um[n]erro.[n][f 1 3 65535][w][e]

@@ -663,7 +663,7 @@
 [s][vp 9 2 65535 41507 0 0]Eu vi um monte de relatórios especulando[n]sobre quem realmente são os ladrões Phantom.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_020_09_]
-[s][vp 9 2 65535 44557 0 0]Alguém tem que fazer algo sobre os ladrões[n]Phantom![n]Não importa quem![n][f 1 2 180][e]
+[s][vp 9 2 65535 44557 0 0]Alguém tem que fazer algo sobre os ladrões[n]Phantom! Não importa quem![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_020_10_]
 [s]0 [n][f 1 2 180][e]
@@ -753,7 +753,7 @@
 [s][vp 9 2 65535 41207 0 0]Quando eles vão prender esses ladrões[n]fantasmas!?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_023_09_]
-[s][vp 9 2 65535 41807 0 0]Alguém tem que fazer algo sobre os ladrões[n]Phantom![n]Não importa quem![n][f 1 2 180][e]
+[s][vp 9 2 65535 41807 0 0]Alguém tem que fazer algo sobre os ladrões[n]Phantom! Não importa quem![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_023_10_]
 [s]0 [n][f 1 2 180][e]

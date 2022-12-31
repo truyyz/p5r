@@ -60,7 +60,7 @@
 [s][bup 0 10 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Obrigado...[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Ann]]
-[s][bup 0 4 3 5 0][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Então, essa é a nossa realidade original,[n]certo?[n]Ou estamos em outro diferente agora?[n][f 1 3 65535][w][e]
+[s][bup 0 4 3 5 0][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Então, essa é a nossa realidade original,[n]certo? Ou estamos em outro diferente agora?[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Makoto]]
 [s][bup 0 6 3 5 0][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]Você sabe, essas mudanças inesperadas podem[n]realmente ser os resultados finais de[n]nossas ações em nossa própria realidade...[n][f 1 3 65535][w][e]

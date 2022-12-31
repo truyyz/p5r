@@ -119,7 +119,7 @@
 [msg MSG_020_0_0 [Ryuji]]
 [s][bup 0 2 605 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Mas tudo isso faz parte da minha vida. Eu[n]ainda possuo isso, sabe?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Às vezes, era um verdadeiro show de merda,[n]mas eu saí de tudo mais forte.[n]Estou aqui porque venci meus problemas.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Não posso simplesmente fingir que eles nunca[n]aconteceram.[n]Não estaria certo.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Não posso simplesmente fingir que eles nunca[n]aconteceram. Não estaria certo.[n][f 1 3 65535][w][e]
 
 [sel SEL_021_0_0 top]
 [s]Eu sei o que você quer dizer.[e]

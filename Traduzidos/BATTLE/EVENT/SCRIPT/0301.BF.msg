@@ -275,7 +275,7 @@
 
 [msg MSG_BTL_HOLDUP01_021_000_2 [Shadow Kamoshida]]
 [s][vp 8 0 2 1022 1 201]Huh!?[n][f 1 3 65535][w][e]
-[s][vp 8 0 2 1023 1 201]Como se eu continuasse dizendo! Eu sou[n]Kamoshida![n]Eu sou o rei![n][f 1 3 65535][w][e]
+[s][vp 8 0 2 1023 1 201]Como se eu continuasse dizendo! Eu sou[n]Kamoshida! Eu sou o rei![n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_HOLDUP01_022_000_2 [Shadow Kamoshida]]
 [s][vp 8 0 2 1024 1 201]Besteira! Estou acima de tudo neste castelo![n][f 1 3 65535][w][e]
@@ -703,7 +703,7 @@
 [s][vp 8 0 2 1138 1 201]TCH! Pedaço inútil![n][f 1 3 65535][w][e]
 
 [msg REMOVE_TARGET_EVENT_2_0 [Ryuji]]
-[s][bup 0 2 102 65535 0][f 4 10 65535 0 0][vp 8 0 2 1139 0 2]Eu sei que ele não é o verdadeiro Mishima,[n]mas...[n]Droga, isso torna as coisas difíceis![n][f 1 3 65535][w][e]
+[s][bup 0 2 102 65535 0][f 4 10 65535 0 0][vp 8 0 2 1139 0 2]Eu sei que ele não é o verdadeiro Mishima,[n]mas... Droga, isso torna as coisas difíceis![n][f 1 3 65535][w][e]
 
 [msg REMOVE_TARGET_EVENT_2_1 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1140 0 3]Esse é apenas um ser cognitivo- é melhor que[n]vocês não hesitaram sobre isso![n][f 1 3 65535][w][e]

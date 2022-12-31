@@ -250,7 +250,7 @@
 [s][bup 0 9 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 85 65535 0]W-Well então... eu vou... vejo você... uh...[n]T-T-T-Tom amanhã.[n][f 1 3 65535][w][e]
 
 [msg MSG_081_0_0 [Ann]]
-[s][bup 0 4 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 86 65535 0]Uau, ele está realmente tentando segurar[n]isso.[n]Ele está andando como um comediante.[n][f 1 3 65535][w][e]
+[s][bup 0 4 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 86 65535 0]Uau, ele está realmente tentando segurar[n]isso. Ele está andando como um comediante.[n][f 1 3 65535][w][e]
 
 [msg MSG_082_0_0 [Ryuji]]
 [s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 87 65535 0]É como se ele quisesse ser escolhido para[n]algum comercial ou algo assim...[n][f 1 3 65535][w][e]
