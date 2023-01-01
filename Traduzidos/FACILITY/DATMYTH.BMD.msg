@@ -86,7 +86,7 @@
 [s]Um monstro de elefante gigante do mito do[n]Sri Lanka, é normalmente retratado como[n]sendo montado pelo maligno, Mara.[n]Quem olha para o seu mau-olhado é[n]considerado um infortúnio.[n][e]
 
 [msg myth_029]
-[s]it due to his naïve[n]O rei da neve que domina um número infinito[n]de Jack Frosts. Ele tem o poder de congelar[n]o mundo inteiro, mas não tem conhecimento[n]da personalidade.[n][e]
+[s]isso devido a sua ingenuidade[n]O rei da neve que domina um número infinito[n]de Jack Frosts. Ele tem o poder de congelar[n]o mundo inteiro, mas não tem conhecimento[n]da personalidade.[n][e]
 
 [msg myth_030]
 [s]Um jovem de mito grego. Ele rejeitou a ninfa[n]Echo, que desapareceu de um desespero.[n]Amaldiçoado por Nemesis, ele se apaixonou[n]por sua própria reflexão e desperdiçada.[n][e]

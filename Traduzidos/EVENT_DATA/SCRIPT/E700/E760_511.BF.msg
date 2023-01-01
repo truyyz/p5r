@@ -114,14 +114,14 @@
 
 [msg MSG_DVD03_done_1st [Morgana]]
 [s][bup 0 3 4 0 0][f 4 10 65535 0 0][vp 8 2 0 1133 65535 0]O que é realmente importante não é a sua[n]aparência, mas o que está por dentro.[n][f 1 3 65535][w][e]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Talvez você tenha aprendido uma coisa ou[n]duas sobre [f 4 11 1][clr 26][f 4 12 1][clr 27]assistindo[n]a este drama.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Talvez você tenha aprendido uma coisa ou duas[n]sobre [f 4 11 1][clr 26][f 4 12 1][clr 27] assistindo a este drama.[n][f 1 3 65535][w][e]
 
 [msg MND_DVD03_done_1st_M]
 [s][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Eu sinto que sei mais sobre [f 4 11 1][clr 26][f 4 12 1][clr 27]Depois de assistir a este drama...[n][f 1 3 65535][w][e]
 
 [msg MSG_DVD03_done_2nd [Morgana]]
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 0 1167 65535 0]Então terminamos de assistir "Não tão fofo[n]Betsy", hein...[n][f 1 3 65535][w][e]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Talvez você tenha aprendido uma coisa ou[n]duas sobre [f 4 11 1][clr 26][f 4 12 1][clr 27]assistindo[n]a este drama.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Talvez você tenha aprendido uma coisa ou duas[n]sobre [f 4 11 1][clr 26][f 4 12 1][clr 27] assistindo a este drama.[n][f 1 3 65535][w][e]
 
 [msg MND_DVD03_done_2nd_M]
 [s][vp 8 2 0 0 65535 0]Eu terminei de assistir "não tão fofo[n]Betsy"...[n][f 1 3 65535][w][e]
@@ -165,14 +165,14 @@
 
 [msg MSG_DVD04_done_1st [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1019 65535 0]Eu realmente senti a necessidade desesperada[n]de ser amada por alguém.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Talvez você tenha aprendido uma coisa ou[n]duas sobre [f 4 11 1][clr 26][f 4 12 1][clr 27]assistindo[n]a este drama.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Talvez você tenha aprendido uma coisa ou duas[n]sobre [f 4 11 1][clr 26][f 4 12 1][clr 27] assistindo a este drama.[n][f 1 3 65535][w][e]
 
 [msg MND_DVD04_done_1st_M]
 [s][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Eu sinto que sei mais sobre [f 4 11 1][clr 26][f 4 12 1][clr 27]Depois de assistir a este drama...[n][f 1 3 65535][w][e]
 
 [msg MSG_DVD04_done_3rd [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1167 65535 0]Então terminamos de assistir "Bubbly Hills,[n]90210", hein...[n][f 1 3 65535][w][e]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Talvez você tenha aprendido uma coisa ou[n]duas sobre [f 4 11 1][clr 26][f 4 12 1][clr 27]assistindo[n]a este drama.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Talvez você tenha aprendido uma coisa ou duas[n]sobre [f 4 11 1][clr 26][f 4 12 1][clr 27] assistindo a este drama.[n][f 1 3 65535][w][e]
 
 [msg MND_DVD04_done_3rd_M]
 [s][vp 8 2 0 0 65535 0]Eu assisti "colinas borbulhantes, 90210" até[n]o fim...[n][f 1 3 65535][w][e]
@@ -480,14 +480,14 @@
 
 [msg MSG_DVD01P5R_done_1st [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1044 65535 0]Que montanha-russa emocional...[n]Eu não poderia desviar o olhar. Todas as[n]quatro mulheres tinham personalidades tão[n]distintas.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Talvez você tenha aprendido uma coisa ou[n]duas sobre [f 4 11 1][clr 26][f 4 12 1][clr 27]assistindo[n]a este drama.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Talvez você tenha aprendido uma coisa ou duas[n]sobre [f 4 11 1][clr 26][f 4 12 1][clr 27] assistindo a este drama.[n][f 1 3 65535][w][e]
 
 [msg MND_DVD01P5R_done_1st_M]
 [s][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Eu sinto que aprendi um pouco sobre [n][f 4 11 1][clr 26][f 4 12 1][clr 27]de assistir a este drama...[n][f 1 3 65535][w][e]
 
 [msg MSG_DVD01P5R_done_2nd [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1167 65535 0]Então terminamos de assistir "donas de casa[n]díspares", hein...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Talvez você tenha aprendido uma coisa ou[n]duas sobre [f 4 11 1][clr 26][f 4 12 1][clr 27]assistindo[n]a este drama.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Talvez você tenha aprendido uma coisa ou duas[n]sobre [f 4 11 1][clr 26][f 4 12 1][clr 27] assistindo a este drama.[n][f 1 3 65535][w][e]
 
 [msg MND_DVD01P5R_done_2nd_M]
 [s][vp 8 2 0 0 65535 0]Eu assisti "donas de casa díspares" até o[n]fim...[n][f 1 3 65535][w][e]

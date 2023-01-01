@@ -29,7 +29,7 @@
 
 [msg MSG_009_0_0 [Newscaster]]
 [s][vp 8 0 0 9 65535 0]A causa do incidente em fuga no metrô ainda[n]não foi encontrada.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 10 65535 0]A polícia está se apressando para resolver o[n]assunto, pois isso pode estar relacionado[n]ao aumento de incidentes de colapso psicótico.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 10 65535 0]A polícia está se apressando para resolver o assunto,[n]pois isso pode estar relacionado ao aumento[n]de incidentes de colapso psicótico.[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Sojiro]]
 [s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Oh, isso é o que todo mundo está falando?[n][f 1 3 65535][w][e]

@@ -1101,7 +1101,7 @@
 
 [msg MSG_273_0_0 [Ms. Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas se você me perguntar, é a história mais[n]antiga do Japão sobre uma mulher terrível.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Quero dizer, a princesa Kaguya dá a seus[n]pretendentes tarefas absurdas, exige[n]presentes sofisticados e depois corre para[n]a lua.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Então a princesa Kaguya dá a seus pretendentes[n] tarefas absurdas, exige presentes sofisticados[n]e depois corre para a lua.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Alguns homens perdem suas fortunas, alguns[n]são humilhados e outros até ficam sérios ou[n]ficam cegos.[n][f 1 3 65535][w][e]
 
 [msg MSG_274_0_0 [Ms. Kawakami]]

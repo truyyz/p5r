@@ -23,7 +23,7 @@
 [s][bup 0 204 0 0 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Vamos começar esta assembléia matinal em[n]toda a escola.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Como todos sabem, um evento trágico ocorreu[n]no outro dia.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Felizmente, fomos informados de que ela[n]passou, mas isso levará tempo até que ela[n]se recupere.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Todos aqui têm um futuro brilhante pela[n]frente.[n]Eu imploro que você repensa a importância da[n]vida e- [n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Todos aqui têm um futuro brilhante pela frente.[n]Eu imploro que você repense a importância[n]da vida e [n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Ann]]
 [s][bup 0 4 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]... ah![n][f 1 3 65535][w][e]

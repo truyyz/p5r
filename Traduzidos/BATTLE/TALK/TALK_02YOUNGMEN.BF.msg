@@ -1918,7 +1918,7 @@
 [s]Vamos lá, atire em mim, então! Prefiro ser[n]baleado do que ficar entediado até a morte[n]por sua tagarelice![n][w][e]
 
 [msg TalkMsg_RESULT_ENEMY_REF_2]
-[s]You're naïve. Did you think you could[n]fazer amizade com alguém?[n][w][e]
+[s]Você é ingênuo. Você pensou que poderia[n]fazer amizade com alguém?[n][w][e]
 
 [msg TalkMsg_RESULT_ENEMY_REF_3]
 [s]Negociar com você não tem sentido![n][w][e]

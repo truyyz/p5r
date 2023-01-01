@@ -76,7 +76,7 @@
 [s][bup 0 2 107 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 9 0 0]Você tem que estar brincando em mim...[n][w][e]
 
 [msg MEME_CHECK_HOME_NEXT_mes_10 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 10 0 0]De qualquer forma, vamos para a área[n]inferior.[n]Deveria ser logo depois de descer a escada[n]rolante.[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 10 0 0]De qualquer forma, vamos para a área inferior.[n]Deveria ser logo depois de descer a [n]escada rolante.[n][w][e]
 
 [msg GOTO_NEXT_FLOOR_NG01_JOZ [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6158 65535 0]Joker, ainda não nos encontramos com José.[n][w][e]

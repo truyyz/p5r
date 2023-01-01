@@ -820,7 +820,7 @@
 
 [msg MSG_GEINOUDON_003_0_0 [Show-Biz Veteran]]
 [s][vp 8 2 1 0 11 0]As pessoas estão se levantando agora que[n]Kaneshiro está atrás das grades.[n][w][e]
-[s][vp 8 2 1 0 11 0]those poor, naïve country bumpkins![n][w][e]
+[s][vp 8 2 1 0 11 0]aqueles pobres e ingênuos caipiras![n][w][e]
 [s][vp 8 2 1 0 11 0]Isso significa apenas que temos que ir[n]depois de trazê-los, mesmo que você precise[n]fazê-lo pela força- o entende?[n][w][e]
 
 [msg MSG_GEINOUDON_004_1_0 [Dream-Chasing Girl]]

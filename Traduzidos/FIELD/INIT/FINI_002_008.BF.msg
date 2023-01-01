@@ -48,7 +48,7 @@
 
 [msg MSG_LibGirl_NowKamo_Last_3 [Morgana]]
 [s][bup 0 3 7 0 0][f 4 10 65535 0 0][vp 8 2 1 1027 65535 0]Bem, eu certamente não sinto essa[n]hostilidade que estava sentindo de todos[n]antes.[n][w][e]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Você pode aprimorar seu [f 4 11 0][clr 26][f 4 12 0][clr 27][n]aqui muito bem agora, mas você não será[n]capaz de aumentar seu [n][f 4 11 3][clr 26][f 4 12 3][clr 27]não mais...[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Você pode aprimorar seu [f 4 11 0][clr 26][f 4 12 0][clr 27][n]aqui muito[n]bem agora, mas você não será capaz de aumentar seu[n][f 4 11 3][clr 26][f 4 12 3][clr 27]mais...[n][w][e]
 
 [msg MSG_LibGirl_Info [Female Student]]
 [s][vp 8 2 1 0 0 0]Oh, aquele crachá... você é um segundo ano?[n][w][e]

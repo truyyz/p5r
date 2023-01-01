@@ -36,7 +36,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Que tal você, senpai? Você ainda está[n]correndo?[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Ikeda-senpai]]
-[s][vp 8 0 0 0 65535 0]Na verdade, entrei para a equipe de pista da[n]minha universidade. Você pensaria que eu[n]teria desistido inteiramente depois do que[n]aconteceu...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Na verdade, entrei para a equipe de pista da minha [n]universidade. Você pensaria que eu teria desistido inteiramente[n]depois do que aconteceu...[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Ryuji]]
 [s][bup 0 2 603 0 0][f 4 10 65535 0 0][vp 8 2 0 7191 65535 0]Sobre isso, sinto muito...[n][f 1 3 65535][w][e]
@@ -49,7 +49,7 @@
 
 [msg MSG_012_0_0 [Ryuji]]
 [s][bup 0 2 611 0 0][f 4 10 65535 0 0][vp 8 2 0 7187 65535 0]Isso porque você precisava que ele[n]escrevesse sua carta de rec, certo?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você estava apenas olhando para o seu[n]futuro...[n]Mas eu ainda consegui empurrá-lo de qualquer[n]maneira.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você estava apenas olhando para o seu futuro...[n]Mas eu ainda consegui empurrá-lo de qualquer[n]maneira.[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Ikeda-senpai]]
 [s][vp 8 0 0 0 65535 0]Kamoshida claramente nunca pretendia[n]escrever minha carta de recomendação.[n]Você era apenas a desculpa dele para não.[n][f 1 3 65535][w][e]
@@ -114,7 +114,7 @@
 [s][bup 0 2 600 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Sim.[n][f 1 3 65535][w][e]
 
 [msg MSG_026_0_0 [Ryuji]]
-[s][bup 0 2 600 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]De verdade, porém, fico feliz por as costas[n]da equipe estarem de volta. É doce que[n]Nakaoka e eles possam começar a treinar[n]novamente.[n][f 1 3 65535][w][e]
+[s][bup 0 2 600 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]De verdade, porém, fico feliz que as costas da equipe[n] estarem de volta. É doce que Nakaoka e eles possam começar a[n]treinar novamente.[n][f 1 3 65535][w][e]
 [s][bup 0 2 611 0 0][f 4 10 65535 0 0][f 4 24 0 4 0 41 5 100][vp 8 0 0 0 65535 0]Mas ainda estou preocupado com o consultor[n]deles, Yamauchi. Ele é basicamente como um[n]mini-kamoshida.[n][f 1 3 65535][w][e]
 
 [sel SEL_038_0_0 top]

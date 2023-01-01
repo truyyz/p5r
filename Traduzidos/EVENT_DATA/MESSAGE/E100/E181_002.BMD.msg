@@ -58,7 +58,7 @@
 [s][bup 0 2 11 65535 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Não desista! Vamos continuar nisso![n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Morgana]]
-[s][bup 0 3 7 0 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]W-We fez isso...[n][f 1 3 65535][w][e]
+[s][bup 0 3 7 0 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]Nós fizemos isso...[n][f 1 3 65535][w][e]
 
 [msg MND_016_5_0]
 [s][vp 8 0 0 0 65535 0]Meu cinto parece vários tamanhos muito[n]pequenos...[n][f 1 3 65535][w][e]

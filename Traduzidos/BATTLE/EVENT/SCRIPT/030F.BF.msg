@@ -279,7 +279,7 @@
 [s][vp 8 0 2 1017 1 237]カット[n][f 1 3 65535][w][e]
 
 [msg MSG_BATTLE_TAIMANSTART_0_4 [Shadow Shido]]
-[s][vp 8 0 2 1048 1 237]I too was naïve.[n][f 1 3 65535][w][e]
+[s][vp 8 0 2 1048 1 237]eu também era ingênuo.[n][f 1 3 65535][w][e]
 
 [msg MSG_BATTLE_TAIMANSTART_0_5 [Shadow Shido]]
 [s][vp 8 0 2 1049 1 237]Eu deveria ter terminado você antes que isso[n]possa ter acontecido... Hahaha, no entanto,[n]meu sonho foi alcançado![n][f 1 3 65535][w][e]

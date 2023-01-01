@@ -219,7 +219,7 @@
 [msg MSG_C13_COOP_NG_00_NODOK_3 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1038 65535 0]Ensaios clínicos, hein? Isso está[n]praticamente colocando sua vida em suas[n]mãos... Demo muita coragem, com certeza.[n][w][e]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Tem que haver maneiras de construir seu [f 4 11 3][clr 26][f 4 12 3][clr 27]em sua vida diária.[n][w][e]
-[s][bup 0 3 11 0 0][f 4 10 65535 0 0][vp 8 2 1 1067 65535 0]Tente pequenas maneiras de se esforçar.[n]Tipo, eu não sei... aceite um desafio[n]alimentar. Isso pode construir alguns [n][f 4 11 3][clr 26][f 4 12 3][clr 27].[n][w][e]
+[s][bup 0 3 11 0 0][f 4 10 65535 0 0][vp 8 2 1 1067 65535 0]Tente pequenas maneiras de se esforçar. Tipo,[n]eu não sei... aceite um desafio alimentar.[n]Isso pode construir alguns [n][f 4 11 3][clr 26][f 4 12 3][clr 27].[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Acho que vamos apenas tentar o que pudermos.[n][w][e]
 
 [msg MSG_C13_COOP_NG_00_OKDOK]

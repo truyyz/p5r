@@ -23,7 +23,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ele leva as memórias em seu coração e as[n]transforma em todos os tipos de modelos-[n]você precisa pagar por eles.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Então você pode colocá-los em alguns pontos[n]diferentes aqui.[n][w][e]
 [s][bup 0 221 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Pensar em todas as possibilidades está me[n]empolgando! Eu me pergunto como você[n]acabará decorando o lugar?[n][w][e]
-[s][f 4 10 65535 0 0][f 4 23 1 340 2 10 0 10][vp 8 2 1 56790 65535 0]Ah, mais uma coisa- onde quer que você[n]coloque um modelo, as cognições de pessoas[n]com quem você formou laços também podem[n]aparecer.[n][w][e]
+[s][f 4 10 65535 0 0][f 4 23 1 340 2 10 0 10][vp 8 2 1 56790 65535 0]Ah, mais uma coisa- onde quer que você coloque um[n]modelo, as cognições de pessoas com quem[n] você formou laços também podem aparecer.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Aposto que eles têm algumas coisas[n]interessantes a dizer![n][w][e]
 
 [msg MSG_004_01 [[f 7 1]]]

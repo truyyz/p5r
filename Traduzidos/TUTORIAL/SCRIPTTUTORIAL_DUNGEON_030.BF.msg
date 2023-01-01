@@ -2,7 +2,7 @@
 [s]Ao coletar selos, você obterá pontos que pode usar para que[n]Jose mude a cognição ambiental.[n][w][e]
 
 [msg D_TUTORIAL_30_mes02 [Cognition Changes in Mementos]]
-[s]Ao mudar a cognição, você poderá aumentar a quantidade de [clr 2]dinheiro [clr 27], Assim, [clr 2]experiência [clr 27], ou [n][clr 2]Itens [clr 27]Você pode obter em lembranças.[n][w][e]
+[s]Ao mudar a cognição, você poderá aumentar a quantidade de[n][clr 2]dinheiro [clr 27], Assim, [clr 2]experiência [clr 27], ou [clr 2]Itens [clr 27][n]Você pode obter em lembranças.[n][w][e]
 
 [msg D_TUTORIAL_30_mes03 [Cognition Changes in Mementos]]
 [s]Você poderá escolher qual [clr 2]efeito para aumentar [clr 27][n]Delegando pontos. Use seus pontos com sabedoria para ajudar[n]a facilitar sua investigação.[n][w][e]

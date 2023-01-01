@@ -65,7 +65,7 @@
 [s][bup 0 2 102 0 0][f 4 10 65535 0 0][vp 8 0 0 29 65535 0]Não somos como você![n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Shadow Kaneshiro]]
-[s][bup 0 207 100 0 0][f 4 10 65535 0 0][vp 8 0 0 30 65535 0]Where do you find meaning in that naïve[n]senso de justiça?[n][f 1 3 65535][w][e]
+[s][bup 0 207 100 0 0][f 4 10 65535 0 0][vp 8 0 0 30 65535 0]Onde você encontra significado nesse ingênuo[n]senso de justiça?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 31 65535 0]Você sabe, já há alguém por aí aproveitando[n]ao máximo o que os palácios têm a[n]oferecer...[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Makoto]]

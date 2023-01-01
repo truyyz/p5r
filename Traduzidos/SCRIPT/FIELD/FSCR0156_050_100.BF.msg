@@ -24,7 +24,7 @@
 [s][bup 0 8 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9191 65535 0]Mwehehe, você está preso agora.[n][w][e]
 
 [msg D05_02_e334_020_mes02 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Hmph, how naïve. You really think you've[n]me capturou?[n][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Hmph, que ingênuo. Você realmente acha que você[n]me capturou?[n][w][e]
 
 [msg D05_02_e334_020_mes03 [Ryuji]]
 [s][bup 0 2 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7041 65535 0]Merda, olhe para fora![n][w][e]

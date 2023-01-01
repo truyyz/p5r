@@ -155,7 +155,7 @@
 [s][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 16018 65535 0]Ei, então... por que você faz tanto por mim?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu sei que, a princípio, foi para os[n]artigos, mas você não tem nenhuma obrigação[n]de ficar agora, você sabe.[n][f 1 3 65535][w][e]
 [s][bup 0 107 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ohhh, eu sei. Você me levou a sério quando[n]eu disse ao chefe que éramos um casal?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Geez, you kids today are so naïve![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Nossa, vocês crianças de hoje são tão ingênuas![n][f 1 3 65535][w][e]
 
 [msg MND_039_0_0]
 [s][vp 8 0 0 0 65535 0]Eu deveria escolher minhas palavras com[n]cuidado...[n][f 1 3 65535][w][e]

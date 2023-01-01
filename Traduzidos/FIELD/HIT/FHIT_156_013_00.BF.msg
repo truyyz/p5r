@@ -440,7 +440,7 @@
 [s]Todo mundo era humilde como você [n][clr 2]Quando eu era jovem [clr 27]. Mas os jovens hoje em dia...[n][w][e]
 
 [msg D05_02_e341_036_selB_1_m [???]]
-[s]Alguém sem estabilidade perguntando sobre o[n]futuro? [clr 2]Grahahaha [clr 27]! HOW NAÏVE.[n][w][e]
+[s]Alguém sem estabilidade perguntando sobre o[n]futuro? [clr 2]Grahahaha [clr 27]! QUE INGENUIDADE.[n][w][e]
 [s]O futuro é uma questão insignificante para[n]um garoto como você.[n][w][e]
 [s]Embora eu admita, é um assunto[n]interessante...[n][w][e]
 

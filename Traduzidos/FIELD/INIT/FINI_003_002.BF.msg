@@ -1491,7 +1491,7 @@
 
 [msg MSG_DAYTIME_0513_000_00 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1020 65535 0]Você não teve uma consulta de aconselhamento?[n][w][e]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Isso está no [clr 2]Escritório de enfermagem no prático edifício [clr 27], direita? Vou passar o tempo na área até[n]que você termine.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Isso está no [clr 2]Escritório de enfermagem no prático edifício [clr 27],[n]a direita? Vou passar o tempo na área até que você termine.[n][w][e]
 
 [msg MSG_DAYTIME_D02_0518 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1172 65535 0]Não se esqueça: a partir de hoje, nosso[n]esconderijo estará na passagem de Shibuya.[n][w][e]

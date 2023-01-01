@@ -55,7 +55,7 @@
 [s][f 5 14]O mesmo vale para mim.[n][w][e]
 
 [msg MSG_018_0_0 [Ryuji]]
-[s][f 5 14]Madarame(?) guy bothers me.[n][w][e]
+[s][f 5 14]Madarame(?) esse cara me incomoda.[n][w][e]
 
 [msg MSG_019_0_0 [Ann]]
 [s][f 5 14]Também não temos muito tempo para[n]discutir sobre isso. Isso sim. Mas não[n]se empolgar, você entende?[n][w][e]

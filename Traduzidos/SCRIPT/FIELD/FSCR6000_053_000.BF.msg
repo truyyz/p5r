@@ -25,7 +25,7 @@
 [s]O destino pode mudar.[e]
 
 [msg MSG_002_0_0 [Shadow Fukurai]]
-[s][vp 8 2 1 46703 65535 0]You sure are naïve.[n][w][e]
+[s][vp 8 2 1 46703 65535 0]Você com certeza é ingênuo.[n][w][e]
 [s][vp 1 0 0 0 0 0]As pessoas realmente acreditam que essa[n]pedra sagrada os salvará se a donzela[n]prever a má sorte![n][w][e]
 [s][vp 1 0 0 0 0 0]Mesmo que não funcione, o que importa se[n]isso os faz felizes?[n][w][e]
 [s][vp 1 0 0 0 0 0]As pessoas querem ser enganadas! Você não[n]vê? Eles estão todos desesperados para se[n]sentirem seguros![n][w][e]

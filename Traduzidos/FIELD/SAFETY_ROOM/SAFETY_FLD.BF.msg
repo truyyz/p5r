@@ -2778,7 +2778,7 @@
 
 [msg KAMOSHIDA_YOKOKU_mes03 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][f 4 23 1 3 3 5 11 5][vp 8 0 1 3 65535 0]Não é tão simples assim.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 1 4 65535 0]Um tesouro não permanecerá se materializado[n]para sempre. Quando a impressão acabar, o[n]tesouro desaparecerá.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 1 4 65535 0]Um tesouro não permanecerá se materializado para[n]sempre. Quando a impressão acabar, o tesouro [n]desaparecerá.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 5 65535 0]Eu acho que vai durar cerca de um dia, no[n]máximo.[n][w][e]
 
 [msg KAMOSHIDA_YOKOKU_mes08 [Ryuji]]
@@ -3702,7 +3702,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Vamos verificar isso antes de entrarmos em[n]lembranças.[n][w][e]
 
 [msg MSG_1st_QUEST_EVENT_00 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1172 65535 0]Bem. Vocês se lembram do passo mais[n]importante que os ladrões fantasmas[n]precisam dar antes que possam roubar o[n]coração de alguém?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1172 65535 0]Bem. Vocês se lembram do passo mais importante[n] que os ladrões fantasmas precisam dar antes que[n]possam roubar o coração de alguém?[n][w][e]
 
 [msg MSG_1st_QUEST_EVENT_01 [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 7111 65535 0]Vamos, apenas nos diga...[n][w][e]
@@ -3722,7 +3722,7 @@
 [msg MSG_1st_QUEST_EVENT_04b [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Outra coisa já existe que cumpre esse papel.[n][w][e]
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Felizmente para nós, Mishima colocou um[n]comentário no fórum dizendo que os ladrões[n]fantasmas estão chegando.[n][w][e]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Para um pequeno alvo, isso é suficiente para[n]um cartão de visita. Isso por si só[n]colocará um pouco de medo neles por um[n]tempo.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Para um pequeno alvo, isso é suficiente para um[n]cartão de visita. Isso por si só colocará um pouco de[n] medo neles por um tempo.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Até que Nakanohara deve ter visto os[n]comentários de Mishima sobre ele no local[n]do Phan.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]E é por isso que a navegação o pegou.[n][w][e]
 

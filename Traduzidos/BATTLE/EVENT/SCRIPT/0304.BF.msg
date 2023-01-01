@@ -2,7 +2,7 @@
 [s][vp 8 0 2 1001 1 213]Heheheheh! Bein 'Young é um crime![n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_FLYENTRY_010_000 [Shadow Kaneshiro]]
-[s][vp 8 0 2 1002 1 213]They're naïve, they're reckless, and[n]Além disso, eles nem percebem o quão[n]estúpidos são.[n][f 1 3 65535][w][e]
+[s][vp 8 0 2 1002 1 213]Eles são ingênuos, são imprudentes e[n]Além disso, eles nem percebem o quão[n]estúpidos são.[n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_FLYENTRY_020_000 [Shadow Kaneshiro]]
 [s][vp 8 0 2 1003 1 213]Agora eu não podia simplesmente me sentar e[n]não ganhar dinheiro com esses idiotas,[n]certo?[n][f 1 3 65535][w][e]
@@ -210,7 +210,7 @@
 [s][vp 8 0 2 1001 1 213]Heheheheh! Bein 'Young é um crime![n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_FLYENTRY_010_000_2 [Shadow Kaneshiro]]
-[s][vp 8 0 2 1002 1 213]They're naïve, they're reckless, and[n]Além disso, eles nem percebem o quão[n]estúpidos são.[n][f 1 3 65535][w][e]
+[s][vp 8 0 2 1002 1 213]Eles são ingênuos, são imprudentes e[n]Além disso, eles nem percebem o quão[n]estúpidos são.[n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_FLYENTRY_020_000_2 [Shadow Kaneshiro]]
 [s][vp 8 0 2 1003 1 213]Agora eu não podia simplesmente me sentar e[n]não ganhar dinheiro com esses idiotas,[n]certo?[n][f 1 3 65535][w][e]

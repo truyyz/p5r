@@ -3698,13 +3698,13 @@
 [msg MSG_ACCESSORY_START_1ST [Street Vendor]]
 [s][f 4 23 1 86 21 10 20 10][vp 8 2 1 0 86 0]...O que? Você está interessado na minha[n]arte?[n][w][e]
 [s][vp 8 2 1 0 86 0]Duvido que uma criança como você possa[n]entender, mas... HM?[n][w][e]
-[s][vp 8 2 1 0 86 0]Parece que você sabe o que está acontecendo,[n]ao contrário de todas essas fonas. Eu acho[n]que você merece comprar meus produtos.[n]Minha arte.[n][w][e]
+[s][vp 8 2 1 0 86 0]Parece que você sabe o que está acontecendo,ao[n]contrário de todas essas fonas. Eu achoque você[n]merece comprar meus produtos. Minha arte.[n][w][e]
 
 [msg MSG_ACCESSORY_START [Street Vendor]]
 [s][f 4 23 1 86 21 10 20 10][vp 8 2 1 0 86 0]Verifique... minha arte.[n][w][e]
 
 [msg MSG_ACCESSORY_IrokeRank1 [Street Vendor]]
-[s][f 4 23 1 86 21 10 20 10][vp 8 2 1 0 86 0]Com [f 4 11 1][clr 26][f 4 12 1][clr 27]Assim, é isso que posso vender agora.[n][w][e]
+[s][f 4 23 1 86 21 10 20 10][vp 8 2 1 0 86 0]Com meu [f 4 11 1][clr 26][f 4 12 1][clr 27] assim, é isso que posso[n]vender agora.[n][w][e]
 
 [msg MSG_ACCESSORY_IrokeRankM [Street Vendor]]
 [s][f 4 23 1 86 21 10 20 10][vp 8 2 1 0 86 0]Olhe para isso [f 4 11 1][clr 26][f 4 12 1][clr 27]...[n]Você pode comprar o que quiser.[n][w][e]

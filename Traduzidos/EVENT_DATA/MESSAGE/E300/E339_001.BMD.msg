@@ -43,7 +43,7 @@
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Você está de repente lecturina nós?[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]You're too naïve! Haru's barely a hair[n]melhor que um amador.[n][f 1 3 65535][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]Você é muito ingênuo! Haru, mal tem um fio de cabelo[n]melhor que um amador.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 38 65535 0]Ela é despertada para seus poderes, mas é[n]fraca... até a personalidade dela está sem[n]uma forma sólida no momento.[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Futaba]]

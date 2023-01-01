@@ -61,7 +61,7 @@
 [s][bup 0 10 3 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 57037 65535 0]O-oh... isso soa duro...[n][w][e]
 
 [msg MES_GROUP3_05 [Akechi]]
-[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 51 10 50 10][vp 8 2 1 54489 65535 0]You're so naïve. Trying to be a good[n]pessoa só faz você aproveitar.[n][w][e]
+[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 51 10 50 10][vp 8 2 1 54489 65535 0]Você é tão ingênuo. Tentando ser uma boa[n]pessoa só faz você aproveitar.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Você seria um alvo perfeito para os[n]golpistas.[n][w][e]
 
 [msg MES_GROUP3_06 [Maruki]]

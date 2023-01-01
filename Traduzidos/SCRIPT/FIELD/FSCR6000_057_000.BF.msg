@@ -53,7 +53,7 @@
 [s][vp 1 0 0 0 0 0]Não importa o que as pessoas lhe digam, ela[n]nunca desistirá de encontrar a verdade...[n][w][e]
 
 [msg MSG_009_0_0 [Shadow Honjo]]
-[s][vp 1 0 0 0 0 0]I found her naïve passion to be so[n]irritante. Isso me lembra toda aquela dor[n]que senti no passado.[n][w][e]
+[s][vp 1 0 0 0 0 0]Achei sua paixão ingênua e tão[n]irritante. Isso me lembra toda aquela dor[n]que senti no passado.[n][w][e]
 [s][vp 1 0 0 0 0 0]De volta ao passado, antes de desistir.[n]Antes da minha paixão apodrecida e minha[n]esposa me traiu...[n][w][e]
 
 [msg MND_010_0_0]

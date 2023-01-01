@@ -1863,7 +1863,7 @@
 
 [msg MSG_JUZZCLUB_050_010_000 [[f 7 2]]]
 [s][f 4 23 1 20 14 10 13 10][vp 8 2 1 0 20 0]Você sabe, os ladrões fantasmas estão bem[n]para mim.[n][w][e]
-[s][vp 8 2 1 0 20 0]there are times when naïve justice is[n]Pode ser apenas um capricho da juventude,[n]mas exigia.[n][w][e]
+[s][vp 8 2 1 0 20 0]há momentos em que a justiça ingênua e[n]Pode ser apenas um capricho da juventude,[n]mas exigia.[n][w][e]
 
 [msg MSG_JUZZCLUB_050_020_000 [Stocky Man]]
 [s][f 4 23 1 21 3 10 0 10][vp 8 2 1 0 21 0]No começo, pensei que era um monte de[n]crianças puxando brincadeiras, mas agora[n]estou impressionado.[n]Eu me pergunto o que eles vão fazer a seguir.[n][w][e]

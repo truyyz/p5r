@@ -49,7 +49,7 @@
 [msg MSG_012_0_0 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Honestamente, passar um tempo com você e[n]conhecer Eiko me deu muito em que pensar.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Há tanta coisa que você pode perder vivendo[n]com sua cabeça enterrada entre as páginas[n]de um livro...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu pensei que sabia como o mundo[n]funcionava...[n]the more I realized how naïve I was.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu pensei que sabia como o mundo[n]funcionava...[n]mais eu percebi o quão ingênuo eu era.[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 2182 65535 0]Mas quanto mais eu passava um tempo com[n]vocês, vejo agora que há algumas coisas que[n]preciso de outras pessoas para me ensinar.[n][f 1 3 65535][w][e]

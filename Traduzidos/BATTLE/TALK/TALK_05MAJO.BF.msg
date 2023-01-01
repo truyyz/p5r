@@ -911,7 +911,7 @@
 [s]...Eu vejo agora. Eu acho que você chegou[n]tão longe tendo forças para pensar e[n]depender de si mesmo...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_08_R_13]
-[s]I'm too naïve and warm-hearted?[n][w][e]
+[s]Eu sou muito ingênuo e caloroso?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_08_R_14]
 [s]Então você está me dizendo... você ganhou[n]porque está certo. Esta não é uma situação[n]em que podemos apenas falar sobre coisas[n]assim.[n][w][e]

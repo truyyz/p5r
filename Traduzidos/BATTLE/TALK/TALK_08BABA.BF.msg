@@ -431,10 +431,10 @@
 [s]HRM. Suponho que a juventude e a confiança[n]realmente andem de mãos dadas. Eu acho que[n]tudo bem.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_08_R_5]
-[s]Hrm, I suppose you're not quite as naïve[n]como outros humanos da sua idade. Sinto[n]muito por assumir coisas.[n][w][e]
+[s]Hrm, suponho que você não seja tão ingênuo[n]como outros humanos da sua idade. Sinto[n]muito por assumir coisas.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_08_R_6]
-[s]Hubris e confiança são coisas diferentes.[n]Certifique-se de não esquecer isso, querida.[n][w][e]
+[s]Arrogância e confiança são coisas diferentes.[n]Certifique-se de não esquecer isso, querida.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_08_R_7]
 [s]Você diz isso, querido, mas quem sabe o que[n]você realmente pensa? Seus humanos são bons[n]em mentir.[n][w][e]

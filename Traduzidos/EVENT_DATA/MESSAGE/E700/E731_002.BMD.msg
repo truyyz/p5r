@@ -45,7 +45,7 @@
 
 [msg MSG_012_0_0 [Ms. Chouno]]
 [s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Como você vai se sair, Sr. [f 4 1]?[n]Aqui está uma pergunta.[n][f 1 3 65535][w][e]
-[s][vp 8 2 0 37205 65535 0][f 4 10 65535 0 0]"Você é um wunderkind?" Veja se você pode[n]descobrir a resposta com base no que você[n]sabe.[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 37205 65535 0][f 4 10 65535 0 0]"Você é um prodígio?" Veja se você pode[n]descobrir a resposta com base no que você[n]sabe.[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Ms. Chouno]]
 [s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37211 65535 0]Está certo![n][f 1 3 65535][w][e]
@@ -54,7 +54,7 @@
 
 [msg MSG_014_0_0 [Ms. Chouno]]
 [s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37216 65535 0]Quanto tempo você pretende me fazer esperar?[n]Eu estava perguntando se você é um jovem de[n]talento especial.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Em termos literais, "Wunderkind" significa[n]Maravilha de Maravilha. E parece,[n]infelizmente, você não é um.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Em termos literais, "Prodígio" significa[n]Maravilha de Maravilha. E parece,[n]infelizmente, você não é um.[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Ms. Chouno]]
 [s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Oh, a palavra "talento" vem do grego[n]"Talanton", uma soma de dinheiro mencionado[n]na Bíblia.[n][f 1 3 65535][w][e]
@@ -176,7 +176,7 @@
 
 [msg MSG_044_0_0 [Ms. Chouno]]
 [s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ok, vamos começar com uma pergunta.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]"Você é um wunderkind?" Veja se você pode[n]descobrir a resposta com base no que você[n]sabe.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]"Você é um prodígio?" Veja se você pode[n]descobrir a resposta com base no que você[n]sabe.[n][f 1 3 65535][w][e]
 
 [msg MSG_045_0_0 [Ms. Chouno]]
 [s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Está certo![n][f 1 3 65535][w][e]
@@ -185,7 +185,7 @@
 
 [msg MSG_046_0_0 [Ms. Chouno]]
 [s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Quanto tempo você pretende me fazer esperar?[n]Eu estava perguntando se você é um jovem de[n]talento especial.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]Em termos literais, "Wunderkind" significa[n]Maravilha de Maravilha. E parece,[n]infelizmente, você não é um.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Em termos literais, "Prodígio" significa[n]Maravilha de Maravilha. E parece,[n]infelizmente, você não é um.[n][f 1 3 65535][w][e]
 
 [msg MSG_047_0_0 [Ms. Chouno]]
 [s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Oh, a palavra "talento" vem do grego[n]"Talanton", uma soma de dinheiro mencionado[n]na Bíblia.[n][f 1 3 65535][w][e]

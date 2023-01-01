@@ -93,7 +93,7 @@
 [s]Modelo.[e]
 
 [msg THINK_2A_01 [Morgana]]
-[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu acho que eles não estão conectados, no[n]entanto. O "tipo" alemão e o "tipo" inglês são[n]diferentes.[n][f 1 3 65535][w][e]
+[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu acho que eles não estão conectados, no entanto.[n]O "tipo" alemão e o "tipo" inglês são diferentes.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Esses tipos de palavras o levarão a sério,[n]sério.[n][f 1 3 65535][w][e]
 
 [msg THINK_2B_01 [Morgana]]

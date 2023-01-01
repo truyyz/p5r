@@ -124,7 +124,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Terei que agradecer pessoalmente mais tarde.[n][f 1 3 65535][w][e]
 
 [msg MSG_030_0_0 [Iwai]]
-[s][bup 0 104 3 0 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 13 5 1004]You're seriously naïve, kid...[n][f 1 3 65535][w][e]
+[s][bup 0 104 3 0 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 13 5 1004]Você é muito ingênuo, garoto...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sabe que eu estava agindo, certo?[n][f 1 3 65535][w][e]
 
 [msg MSG_031_0_0 [Iwai]]

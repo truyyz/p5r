@@ -2,7 +2,7 @@
 [s][f 5 14]Eu fui ver Shiho hoje.[n][w][e]
 
 [msg MSG_001_0_0 [Ann]]
-[s][f 5 14]E eu disse a ela que resolvemos as coisas[n]com Kamoshida.[n][w][e]
+[s][f 5 14]Falei que resolvemos as coisas [n]com o Kamoshida.[n][w][e]
 
 [msg MSG_002_0_0 [Ann]]
 [s][f 5 14]Ela ainda não recuperou a consciência...[n]mas eu tive que fazer as pazes.[n][w][e]

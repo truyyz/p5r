@@ -90,7 +90,7 @@
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1023 65535 0]Bem, é o palácio coletivo do público em[n]geral.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]No fundo de cada mente de cada humano, é um[n]processo de pensamento obscurecido[n]conhecido como inconsciente.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Esses processos de pensamento se fundem e[n]formam o que eu gosto de chamar de[n]inconsciente coletivo.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Em outras palavras, lembranças é um mundo[n]cognitivo compartilhado criado pelas[n]distorções conjuntas da sociedade como um[n]todo.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Em outras palavras, lembranças é um mundo cognitivo[n]compartilhado criado pelas distorções conjuntas[n]da sociedade como um todo.[n][w][e]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 53105 65535 0]Você pode simplesmente pensar nisso como o[n]grande palácio feito dos corações de todos.[n][w][e]
 
 [msg MSG_MORGANA_DAY_0507_1 [Morgana]]
@@ -108,7 +108,7 @@
 [msg MSG_MORGANA_DAY_0507_3 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 53108 65535 0]Ah, e é importante observar que as[n]lembranças e os palácios são afetados pelos[n]acontecimentos do mundo real.[n][w][e]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]O tempo é um ótimo exemplo disso.[n]Quero dizer, o clima afeta seu humor, não é?[n]O mesmo vale para lembranças.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Você deve tentar entrar em um [clr 2]dia com mau tempo [clr 27]. Vou explicar com mais detalhes então.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Você deve tentar entrar em um [clr 2]dia com mau tempo[clr 27].[n]Vou explicar com mais detalhes então.[n][w][e]
 
 [msg MSG_MORGANA_DAY_0507_4 [Morgana]]
 [s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 1 1021 65535 0]Aquele garoto é... bem, honestamente, eu não[n]tenho ideia.[n]Eu nunca o vi antes.[n][w][e]

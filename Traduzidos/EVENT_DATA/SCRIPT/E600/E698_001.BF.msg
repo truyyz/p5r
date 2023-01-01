@@ -66,7 +66,7 @@
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vamos para a escola juntos. Quero dizer,[n]está ali, mas tanto faz.[n][f 1 3 65535][w][e]
 
 [msg MSG_BEING_TOGETHER_ANN [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 6005 65535 0]Oh ei, [f 4 2]! Manhã! HM?[n]Há algo ali?[n][f 1 3 65535][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 6005 65535 0]Oh ei, [f 4 2]! Bom dia! An?[n]O que você está fazendo aqui?[n][f 1 3 65535][w][e]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vamos lá, vamos! Nós vamos nos atrasar![n][f 1 3 65535][w][e]
 
 [msg MSG_BEING_TOGETHER_MKT [Makoto]]

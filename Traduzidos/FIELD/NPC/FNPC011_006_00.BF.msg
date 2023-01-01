@@ -27,7 +27,7 @@
 [s][vp 9 2 65535 44051 0 0]Quanto mais as coisas tão horríveis[n]continuarão acontecendo no mundo?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_001_07_]
-[s][vp 9 2 65535 45201 0 0]days are so naïve.[n][f 1 2 180][e]
+[s][vp 9 2 65535 45201 0 0]Hoje em dia são tão ingênuos.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_001_08_]
 [s][vp 9 2 65535 40902 0 0]Jovens, esses são alguns momentos muito[n]difíceis. Quanto tempo eles vão durar?[n][f 1 2 180][e]
@@ -1017,7 +1017,7 @@
 [s]0 [n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_033_07_]
-[s][vp 9 2 65535 45409 0 0]Young people are so naïve...[n][f 1 2 180][e]
+[s][vp 9 2 65535 45409 0 0]Os jovens são tão ingênuos...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_033_08_]
 [s][vp 9 2 65535 43702 0 0]Estes são alguns momentos muito difíceis.[n]Quanto tempo eles vão durar?[n][f 1 2 180][e]

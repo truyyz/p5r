@@ -1,5 +1,5 @@
 [msg D_TUTORIAL_04_mes01 [Bad Weather]]
-[s]Em dias com [clr 2]mau tempo [clr 27]Como a chuva, as lembranças serão mais perigosas. No[n]entanto, isso também é [n][clr 2]uma chance de obter itens extras [clr 27].[n][w][e]
+[s]Em dias com [clr 2]mau tempo [clr 27]Como a chuva, as lembranças serão[n] mais perigosas. No entanto, isso também é[n][clr 2]uma chance de obter itens extras [clr 27].[n][w][e]
 
 [msg D_TUTORIAL_04_mes02 [Bad Weather]]
 [s]Os reforços inimigos serão mais comuns, mas às vezes eles[n]serão  [clr 2]inimigos raros [clr 27].[n][w][e]

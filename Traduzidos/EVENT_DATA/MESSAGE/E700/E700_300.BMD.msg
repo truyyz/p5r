@@ -4165,7 +4165,7 @@
 [s]All-Noite pode mexer com você.[e]
 
 [msg MSG_1053_0_0 [Mishima]]
-[s][bup 0 111 1 65535 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 19 5 1011]É o representante estratégico de[n]gerenciamento de imagens![n]O título é importante. Tente se lembrar de[n]tudo, ok?[n][f 1 3 65535][w][e]
+[s][bup 0 111 1 65535 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 19 5 1011]É o representante estratégico de gerenciamento[n] de imagens! O título é importante. Tente se lembrar de [n]tudo, ok?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bem, eu vou trabalhar minha bunda! Apenas me[n]observe![n][f 1 3 65535][w][e]
 
 [msg MSG_1054_0_0 [Mishima]]

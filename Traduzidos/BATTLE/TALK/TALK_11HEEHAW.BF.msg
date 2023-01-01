@@ -200,7 +200,7 @@
 [s]O desespero é um grande desligamento, Ho.[n]Você precisa brilhar com carisma e[n]personalit perfeito, ho![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_04_R_4]
-[s]it's sign of naïvety, ho.[n][w][e]
+[s]é sinal de ingenuidade, ho.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_04_R_5]
 [s]É uma indústria de cachorro-com-cachorro...[n]admiro sua gordura, mesmo que seja o[n]melhor, ho. Não apenas alguém pode fazer o[n]meu trabalho, ho.[n][w][e]

@@ -1,5 +1,5 @@
 [msg MSG_000_0_0 [Ryuji]]
-[s][f 5 14]Devemos enviar nosso cartão de visita?[n][w][e]
+[s][f 5 14]Vamos enviar o cartão?[n][w][e]
 
 [msg MSG_000_0_1 [Ryuji]]
 [s][f 5 14][f 5 15]Sabemos onde está o tesouro e quanto mais[n]cedo melhor.[n]Devemos nos reunir no esconderijo o mais[n]rápido possível.[n][w][e]

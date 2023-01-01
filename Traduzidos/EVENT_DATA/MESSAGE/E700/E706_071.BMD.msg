@@ -82,7 +82,7 @@
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 4 3 301 1][vp 8 2 0 6029 65535 0]M-mika!? Por que você está fazendo isso?[n]Eu pensei que você olhou para mim![n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Mika]]
-[s][bup 0 215 507 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]just as naïve as you look.[n][f 1 3 65535][w][e]
+[s][bup 0 215 507 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]tão ingênuo quanto você parece.[n][f 1 3 65535][w][e]
 [s][bup 0 215 502 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você deveria saber que era uma mentira...[n]mas acho que você é de qualquer maneira,[n]amadores estúpidos como você realmente me[n]irritam. É melhor você não me arrastar para[n]baixo, ok?[n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [Cameraman]]

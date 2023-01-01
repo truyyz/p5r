@@ -13,7 +13,7 @@
 [s]Sua história era boa demais.[e]
 
 [msg MSG_002_5_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 29 65535 0]That said, we weren't so naïve to[n]ignorar algo assim.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 29 65535 0]Dito isso, não fomos tão ingênuos para[n]ignorar algo assim.[n][f 1 3 65535][w][e]
 
 [msg MSG_002_7_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 30 65535 0]Ele se aproximou de nós quando nos[n]encontramos no pior problema.[n][f 1 3 65535][w][e]

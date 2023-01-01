@@ -606,7 +606,7 @@
 [s][vp 9 2 65535 38905 0 0]Um cartão de chamada Phantom Thief?[n]Isso é apenas uma brincadeira, certo?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_005_01_ [Sharp Student]]
-[s][vp 9 2 65535 38054 0 0]Por que Kamoshida de repente decidiu se[n]desculpar assim?[n][f 1 2 180][e]
+[s][vp 9 2 65535 38054 0 0]Por que Kamoshida de repente decidiu[n]se desculpar assim?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_005_02_ [Sharp Student]]
 [s][vp 9 2 65535 41705 0 0]Espere, essa coisa de ladrão fantasma era[n]real? Não, isso é ridículo...[n][f 1 2 180][e]

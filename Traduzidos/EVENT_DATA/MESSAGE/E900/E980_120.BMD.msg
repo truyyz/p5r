@@ -72,7 +72,7 @@
 [s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Talvez os humanos mergulhem em mundos[n]imaginários como um meio de escapar da[n]realidade?[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Caroline]]
-[s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]What a naïve notion. Humans are such[n]criaturas de mente simples.[n][f 1 3 65535][w][e]
+[s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Que noção ingênua. humanos são assim[n]criaturas de mente simples.[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Justine]]
 [s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Talvez os humanos mergulhem em mundos[n]imaginários como um meio de escapar da[n]realidade?[n][f 1 3 65535][w][e]
