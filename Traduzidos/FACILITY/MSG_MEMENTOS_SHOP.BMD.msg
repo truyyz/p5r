@@ -1,56 +1,56 @@
 [msg MSG_MMTSHOP_ROOT_00]
-[s]As estrelas não são bonitas?[n][e]
+[s]As estrelas são[n]lindas, hein?[n][e]
 
 [msg MSG_MMTSHOP_ROOT_01]
-[s]Qual é o plano?[n][e]
+[s]Qual é o[n]plano?[n][e]
 
 [msg MSG_MMTSHOP_ROOT_02]
-[s]Quer trocar flores?[n][e]
+[s]Você quer trocar[n]flores?[n][e]
 
 [msg MSG_MMTSHOP_BACK_ROOT_00]
-[s]Mais alguma coisa que você quiser?[n][e]
+[s]Você quer[n]algo mais?[n][e]
 
 [msg MSG_MMTSHOP_BACK_ROOT_01]
-[s]Algo mais?[n][e]
+[s]Tem mais?[n][e]
 
 [msg MSG_MMTSHOP_ITEM_00]
-[s]Eu os colecionei.[n][e]
+[s]Eu[n]os colecionei.[n][e]
 
 [msg MSG_MMTSHOP_ITEM_01]
-[s]Algo que você quer?[n][e]
+[s]Existe algo[n]que você quer?[n][e]
 
 [msg MSG_MMTSHOP_ITEM_02]
-[s]Vamos negociar.[n][e]
+[s]Sob com[n]trocas.[n][e]
 
 [msg MSG_MMTSHOP_ITEM_03]
-[s]Quais?[n][e]
+[s]Qual?[n][e]
 
 [msg MSG_MMTSHOP_ITEM_04]
-[s]Você quer algo?[n][e]
+[s]Você quer alguma coisa?[n][e]
 
 [msg MSG_MMTSHOP_ITEM_05]
-[s]Essas flores têm um ótimo sabor![n][e]
+[s]As flores são[n]gostosas![n][e]
 
 [msg MSG_MMTSHOP_ITEM_NEW_00]
-[s]Encontrei[n]algumas coisas[n]novas.[n][e]
+[s]Eu encontrei[n]coisas novas.[n][e]
 
 [msg MSG_MMTSHOP_ITEM_NEW_01]
-[s]Eu tenho mais coisas agora.[n][e]
+[s]Agora tenho mais[n]artigos.[n][e]
 
 [msg MSG_MMTSHOP_ITEM_NUM_00]
-[s]Você quer isto?[n][e]
+[s]Você quer isso?[n][e]
 
 [msg MSG_MMTSHOP_ITEM_NUM_01]
 [s]Quantos?[n][e]
 
 [msg MSG_MMTSHOP_ITEM_NUM_02]
-[s]Quantos voce quer?[n][e]
+[s]Quantos você quer?[n][e]
 
 [msg MSG_MMTSHOP_ITEM_NUM_03]
 [s]Quantos?[n][e]
 
 [msg MSG_MMTSHOP_BACK_ITEM_00]
-[s]Outra coisa, então?[n][e]
+[s]Mais alguma coisa,[n]então?[n][e]
 
 [msg MSG_MMTSHOP_BACK_ITEM_01]
 [s]Você não quer isso?[n][e]
@@ -62,19 +62,19 @@
 [s]Você quer [var 0]?[n][e]
 
 [msg MSG_MMTSHOP_ITEM_CONF_02]
-[s]Você está recebendo [n][var 0]![n][e]
+[s]Você obtém[n][var 0]![n][e]
 
 [msg MSG_MMTSHOP_ITEM_CONF_03]
-[s]Você precisa de tantos?[n][e]
+[s]Essa[n]quantia?[n][e]
 
 [msg MSG_MMTSHOP_ITEM_CONF_04]
 [s][var 0]? Sério?[n][e]
 
 [msg MSG_MMTSHOP_ITEM_CONF_05]
-[s]Aw, apenas [var 0]?[n][e]
+[s]Ah, só [var 0]?[n][e]
 
 [msg MSG_MMTSHOP_BACK_ITEM_NU]
-[s]Você quer mais?[n][e]
+[s]Você quer[n]mais?[n][e]
 
 [msg MSG_MMTSHOP_BACK_ITEM_NU_2]
 [s]Quantos?[n][e]
@@ -83,65 +83,65 @@
 [s]Isso é raro![n][e]
 
 [msg MSG_MMTSHOP_ITEM_CONF_ON_2]
-[s]Existe apenas um.[n][e]
+[s]Há apenas[n]um.[n][e]
 
 [msg MSG_MMTSHOP_ITEM_NOT_SAL]
-[s]Isso está esgotado.[n][e]
+[s]Perdido.[n][e]
 
 [msg MSG_MMTSHOP_ITEM_NOT_SAL_2]
-[s]Eu não tenho mais.[n][e]
+[s]não tenho outros.[n][e]
 
 [msg MSG_MMTSHOP_ITEM_OK_00]
-[s]Obrigado pela negociação![n][e]
+[s]Obrigado pela[n]troca![n][e]
 
 [msg MSG_MMTSHOP_ITEM_OK_01]
-[s]Todas essas flores![n][e]
+[s]Olha[n]quantas flores![n][e]
 
 [msg MSG_MMTSHOP_ITEM_OK_02]
-[s]Hurra![n]Obrigado![n][e]
+[s]Viva![n]Obrigado![n][e]
 
 [msg MSG_MMTSHOP_ITEM_OK_03]
-[s]Isso é realmente bonito![n][e]
+[s]Que maravilha![n][e]
 
 [msg MSG_MMTSHOP_ITEM_OK_04]
 [s]Eu quero mais.[n][e]
 
 [msg MSG_MMTSHOP_ITEM_BONUS_0]
-[s]eu te darei [n][var 0]extra.[n][e]
+[s]Eu te dou[n][var 0] extra.[n][e]
 
 [msg MSG_MMTSHOP_ITEM_BONUS_0_2]
-[s]Você fica [n][var 0]mais.[n][e]
+[s][var 0]mais[n]para você.[n][e]
 
 [msg MSG_MMTSHOP_ITEM_OK_AFTE]
-[s]Algo mais?[n][e]
+[s]Tem mais?[n][e]
 
 [msg MSG_MMTSHOP_ITEM_OK_AFTE_2]
-[s]Negociando mais?[n][e]
+[s]Você quer trocar[n]outro?[n][e]
 
 [msg MSG_MMTSHOP_ITEM_OK_AFTE_3]
-[s]Algo mais?[n][e]
+[s]Tem mais?[n][e]
 
 [msg MSG_MMTSHOP_COGN_00]
-[s]O que[n]você quer?[n][e]
+[s]O que você quer?[n][e]
 
 [msg MSG_MMTSHOP_COGN_CONF_00]
-[s]Este?[n][e]
+[s]Esta?[n][e]
 
 [msg MSG_MMTSHOP_COGN_CONF_01]
-[s]Este está bem?[n][e]
+[s]Está tudo bem?[n][e]
 
 [msg MSG_MMTSHOP_BACK_COGN_00]
-[s]Mude sua mente?[n][e]
+[s]Você quer[n]algo mais?[n][e]
 
 [msg MSG_MMTSHOP_COGN_OK_00]
-[s]Ok![n]Sem problemas![n][e]
+[s]Não[n]problema![n][e]
 
 [msg MSG_MMTSHOP_COGN_OK_01]
-[s]Ok![n][e]
+[s]OK![n][e]
 
 [msg MSG_MMTSHOP_COGN_OK_02]
-[s]Vou dar uma chance.[n][e]
+[s]Vou tentar.[n][e]
 
 [msg MSG_MMTSHOP_COGN_RESET_0]
-[s]Quer redefinir tudo?[n][e]
+[s]Deseja redefinir[n]all?[n][e]
 

@@ -1,5 +1,5 @@
-[msg MSG_000_0_0 [Summary]]
-[s]O plano de Ann e Morgana é bem-sucedido e a[n]verdadeira personalidade de Madarame é[n]revelada.[n][w][e]
-[s]Como Madarame testemunhou a porta na[n]realidade aberta, a mudança necessária em[n]seu palácio ocorreu como previsto.[n][w][e]
-[s]Yusuke começa a compreender a verdadeira[n]natureza de seu mentor e guardião legal ao[n]longo da vida.[n][w][e]
+[msg MSG_000_0_0 [Riassunto]]
+[s]O plano de Ann e Morgana dá certo, e a verdadeira[n]personalidade de Madarame vem à tona.[n][w][e]
+[s]Devido a Madarame testemunhar a abertura da porta[n]na realidade, a mudança prevista ocorre dentro[n]do Palácio.[n][w][e]
+[s]Yusuke começa a entender a verdadeira natureza[n]de seu professor e responsável legal.[n][w][e]
 

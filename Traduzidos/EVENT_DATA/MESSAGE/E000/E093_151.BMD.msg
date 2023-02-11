@@ -1,3 +1,3 @@
 [msg MSG_000_0_0 [Igor]]
-[s]Bem agora... esta é uma reviravolta[n]inesperada para o potencial do sacrifício...[n][w][e]
+[s]Bem... É uma reviravolta inesperada,[n]pelo potencial de sacrifício...[n][w][e]
 

@@ -1,4 +1,4 @@
-[msg MSG_000_0_0 [Summary]]
-[s]Os ladrões Phantom derrotam Madarame e obtêm[n]o tesouro.[n][w][e]
-[s]Eles agora devem esperar o coração de[n]Madarame mudar.[n][w][e]
+[msg MSG_000_0_0 [Riassunto]]
+[s]Os Phantom Thieves derrotam Madarame[n]e obtêm o Tesouro.[n][w][e]
+[s]Tudo o que resta é que eles esperem pelo[n]despertar do coração de Madarame.[n][w][e]
 

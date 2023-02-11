@@ -1,3 +1,3 @@
-[msg MSG_000_0_0 [Summary]]
-[s][f 4 2] Participa de um programa de limpeza da[n]comunidade realizada pela Shujin Academy,[n]onde ele se reúne com a jovem que conheceu[n]alguns dias atrás.[n][w][e]
+[msg MSG_000_0_0 [Riassunto]]
+[s][f 4 2], participando do serviço de limpeza comunitária[n]realizado pela Shujin Academy, reencontra a[n]garota que conheceu alguns dias antes.[n][w][e]
 

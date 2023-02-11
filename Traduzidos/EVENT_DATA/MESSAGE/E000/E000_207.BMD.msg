@@ -1,5 +1,5 @@
-[msg MSG_000_0_0 [Summary]]
-[s]Os ladrões do Phantom recebem Fox no dobro[n]enquanto atravessam o Palácio de Madarame[n]para mudar seu coração.[n][w][e]
-[s]Eles encontram o tesouro de Madarame na área[n]mais profunda do palácio, depois planejam[n]uma maneira de roubá-lo.[n][w][e]
-[s]Depois de roubar o tesouro, eles começam sua[n]fuga apressada do palácio.[n][w][e]
+[msg MSG_000_0_0 [Riassunto]]
+[s]Os Phantom Thieves dão as boas-vindas a Fox no[n]grupo, enquanto tentam passar pelo Palácio de[n]Madarame e despertar seu coração.[n][w][e]
+[s]Finalmente, eles encontram o Tesouro de Madarame[n]na área mais interna do Palácio e planejam uma[n]maneira de roubá-lo.[n][w][e]
+[s]Uma vez que o tesouro é roubado, eles fogem.[n][w][e]
 
