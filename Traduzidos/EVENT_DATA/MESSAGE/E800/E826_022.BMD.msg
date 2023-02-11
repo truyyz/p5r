@@ -105,11 +105,11 @@
 [s][vp 8 0 0 0 65535 0]ダミーメッセージ[n][f 1 3 65535][w][e]
 
 [msg MND_033_0_0]
-[s][vp 8 0 0 0 65535 0]Makoto parece feliz...[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0][f 5 13 3 10 6]Ela parece emocionada com a paisagem[n]deslumbrante...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Makoto parece feliz.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 5 13 3 10 6]Ela parece emocionada com o belo[n]panorama...[n][f 1 3 65535][w][e]
 
 [msg MND_034_0_0]
-[s][vp 8 0 0 0 65535 0][f 5 13 0 5 0]Eu sinto que meu vínculo com Makoto ficará[n]mais forte em breve...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 5 13 0 5 0]Sinto que em breve meu vínculo[n]com Makoto se fortalecerá...[n][f 1 3 65535][w][e]
 
 [msg MSG_035_0_0 [Makoto]]
 [s][vp 8 2 0 2030 65535 0]Obrigado por hoje.[n][f 1 3 65535][w][e]
@@ -118,12 +118,12 @@
 [s][vp 8 0 0 0 65535 0]ダミーメッセージ[n][f 1 3 65535][w][e]
 
 [msg MND_037_0_0]
-[s][vp 8 0 0 0 65535 0]Makoto parece feliz...[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0][f 5 13 3 10 6]Ela parece emocionada com a paisagem[n]deslumbrante...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Makoto parece feliz.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 5 13 3 10 6]Ela parece emocionada com o belo[n]panorama...[n][f 1 3 65535][w][e]
 
 [msg MND_038_0_0]
-[s][vp 8 0 0 0 65535 0][f 5 13 0 5 0]Eu sinto que meu vínculo com Makoto ficará[n]mais forte em breve...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 5 13 0 5 0]Sinto que em breve meu vínculo[n]com Makoto se fortalecerá...[n][f 1 3 65535][w][e]
 
 [msg MSG_039_0_0 [Makoto]]
-[s][vp 8 2 0 2030 65535 0]Obrigado por hoje. Vamos dar um tempo[n]caminhando para a estação.[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 2030 65535 0]Obrigado por hoje. Vamos[n]fácil para chegar à estação.[n][f 1 3 65535][w][e]
 

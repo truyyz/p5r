@@ -1,123 +1,123 @@
 [msg MSG_000_0_0 [Ann]]
-[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 6039 65535 0]Omigod, você fez isso, shiho![n]Eu sabia que você poderia![n][f 1 3 65535][w][e]
+[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 6039 65535 0]Meu Deus, Shiho! Eu sabia que[n]você conseguiria![n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Shiho]]
-[s][bup 0 212 601 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Está tudo graças a você me apoiar, Ann. Eu[n]realmente gostei disso.[n][f 1 3 65535][w][e]
+[s][bup 0 212 601 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]E tudo graças ao seu apoio,[n]Ann, eu realmente aprecio isso.[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Ann]]
-[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Ah, não sou eu quem merece o crédito- você[n]manteve o seu melhor esforço e agora está[n]finalmente sendo reconhecido![n][f 1 3 65535][w][e]
+[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Oh, não sei que méritos.[n]Você continuou a dar o seu melhor e[n]finalmente foi reconhecido![n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 6001 65535 0][f 4 2]!? Eu não posso acreditar![n]Por aqui![n][f 1 3 65535][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 6001 65535 0][f 4 2]?!? Nem acredito![n]Chegamos![n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Ann]]
-[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Fale sobre uma coincidência! Já faz um tempo[n]desde a última vez que você viu Shiho,[n]certo?[n][f 1 3 65535][w][e]
+[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Que coincidência! Você não vê Shiho há um tempo,[n]ou estou errado?[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Shiho]]
-[s][bup 0 212 601 0 0][f 4 10 65535 0 0][vp 8 2 0 57943 65535 0]Muito tempo sem ver, [f 4 1]-kun.[n]Você se lembra de mim?[n][f 1 3 65535][w][e]
+[s][bup 0 212 601 0 0][f 4 10 65535 0 0][vp 8 2 0 57943 65535 0]Não nos vemos há algum tempo[n][f 4 1]-kun. Você se lembra de mim?[n][f 1 3 65535][w][e]
 
 [sel SEL_006_0_0 top]
-[s]Shiho Suzui, certo?[e]
-[s]Como você tem estado?[e]
+[s]Shiho Suzuki, certo?[e]
+[s]Como vai?[e]
 
 [msg MSG_007_0_0 [Shiho]]
-[s][bup 0 212 601 0 0][f 4 10 65535 0 0][vp 8 2 0 57936 65535 0]Uau, você se lembrou de mim?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Nós nem conseguimos conversar muito desde[n]que me transferi para outra escola tão cedo[n]para o semestre.[n][f 1 3 65535][w][e]
+[s][bup 0 212 601 0 0][f 4 10 65535 0 0][vp 8 2 0 57936 65535 0]Uau, você se lembra disso?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Como mudei de escola[n]no início do semestre,[n]não conversamos muito.[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Shiho]]
-[s][bup 0 212 601 0 0][f 4 10 65535 0 0][vp 8 2 0 57932 65535 0]Estou bem, obrigado por perguntar.[n]Estou surpreso que você tenha se lembrado,[n]no entanto.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Nós nem conseguimos conversar muito desde[n]que me transferi para outra escola tão cedo[n]para o semestre.[n][f 1 3 65535][w][e]
+[s][bup 0 212 601 0 0][f 4 10 65535 0 0][vp 8 2 0 57932 65535 0]Estou bem, obrigado por perguntar.[n]Estou surpreso que você se lembre de mim.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Como mudei de escola[n]no início do semestre,[n]não conversamos muito.[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Ann]]
-[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 6048 65535 0]Claro que ele se lembra de você![n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Ele tem que se lembrar, com o gabarito- eu[n]disse a ele tudo sobre o quão incrível[n]minha melhor amiga é no vôlei.[n][f 1 3 65535][w][e]
+[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 6048 65535 0]Claro que te lembra![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]DEVE lembrar, de fato. Eu[n]sempre descrevi para ele as[n]habilidades de voleibol do meu melhor amigo.[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Shiho]]
 [s][bup 0 212 601 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Oh, Ann...[n][f 1 3 65535][w][e]
 
 [msg MSG_013_2_0 [Shiho]]
-[s][bup 0 212 601 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Desculpe, você tem que suportar tudo isso, [n][f 4 1]-kun.[n][f 1 3 65535][w][e]
+[s][bup 0 212 601 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Desculpe por fazer você passar por todas[n]essas coisas, [f 4 1]-kun.[n][f 1 3 65535][w][e]
 
 [msg MSG_013_3_0 [Ann]]
-[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 6156 65535 0]Shiho foi o MVP no grande encontro outro dia[n]também.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Ela não só estava na formação inicial, mas[n]também marcou mais pontos do que qualquer[n]outra pessoa![n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Não é de admirar que ela seja a estrela da[n]equipe! Estou tão orgulhoso de você, Shiho![n][f 1 3 65535][w][e]
+[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 6156 65535 0]Quer saber? Shiho foi[n]o MVP da partida outro dia.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Ele não apenas foi titular, mas[n]ele também marcou mais pontos do que todos[n]os outros![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Não é à toa que ele é a estrela do time! Estou[n]tão orgulhoso de você, Shiho![n][f 1 3 65535][w][e]
 
 [msg MSG_013_5_0 [Shiho]]
-[s][bup 0 212 601 0 0][f 4 10 65535 0 0][vp 8 2 0 57937 65535 0]Ah, você é demais...[n][f 1 3 65535][w][e]
+[s][bup 0 212 601 0 0][f 4 10 65535 0 0][vp 8 2 0 57937 65535 0]Oooh, você é bom demais...[n][f 1 3 65535][w][e]
 
 [msg MND_014_0_0]
-[s][vp 1 0 0 0 0 0]Os dois estão radiante de alegria...[n][f 1 3 65535][w][e]
-[s][vp 1 0 0 0 0 0]Parece que essa realidade é a que Ann[n]desejou...[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Esses dois são radiantes...[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Aparentemente, esta é a[n]realidade desejada por Ann...[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Ann]]
-[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Ah, sim, eu esqueci de mencionar- Shiho está[n]voltando para a nossa escola![n][f 1 3 65535][w][e]
+[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Ah sim, quase esqueci... Shiho[n]vai voltar para nossa escola![n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Shiho]]
-[s][bup 0 212 601 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Todo mundo em vôlei sabe que Shujin é a[n]principal escola quando se trata do esporte.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Foi assim que consegui convencer meus pais a[n]me deixar transferir de volta... depois de[n]mais do que um pouco de implorar.[n][f 1 3 65535][w][e]
+[s][bup 0 212 601 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]O mundo inteiro do vôlei[n]sabe que Shujin é a[n]melhor escola para o esporte.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Foi assim que convenci meus pais a[n]voltar... depois[n]de tanto implorar.[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Ann]]
-[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Fiquei tão triste quando ela se transferiu[n]para o trabalho de seus pais, mas tudo está[n]bem, isso acaba bem![n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Eu sinto que tudo está perfeito![n][f 1 3 65535][w][e]
+[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Fiquei tão triste quando a família dele[n]se mudou... Mas[n]tudo está bem quando acaba bem![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]É como se tudo fosse perfeito![n][f 1 3 65535][w][e]
 
 [sel SEL_018_0_0 top]
-[s]Você está feliz com o shiho agora?[e]
-[s]É tudo o que você desejou?[e]
+[s]Você está feliz com Shiho agora?[e]
+[s]Está tudo do jeito que você queria?[e]
 
 [msg MSG_019_0_0 [Ann]]
-[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 6194 65535 0]Huh? O que isso significa?[n]Claro que sou...[n][f 1 3 65535][w][e]
+[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 6194 65535 0]Hum? O que significa?[n]Claro que sim...[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Ann]]
-[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 6194 65535 0]Huh? O que eu desejava...?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Bem, acho que você poderia dizer isso...[n][f 1 3 65535][w][e]
+[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 6194 65535 0]Hum? O que eu queria...?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Bem, digamos que sim...[n][f 1 3 65535][w][e]
 
 [sel SEL_022_0_0 top]
-[s]Você prefere as coisas dessa maneira?[e]
-[s]Alguma dúvida sobre isso?[e]
+[s]Você prefere tudo assim?[e]
+[s]Você não tem dúvidas?[e]
 
 [msg MSG_024_0_0 [Ann]]
-[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Por aqui? Quero dizer, você e Shiho estão[n]aqui, e tudo está indo muito bem...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]É definitivamente melhor que a alternativa,[n]como quando nós... esperamos, hein? EU...[n][f 1 3 65535][w][e]
+[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Desta maneira? Quer dizer,[n]você e Shiho estão aqui e[n]está tudo ótimo...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Com certeza é melhor do que a alternativa,[n]como quando... Espere, o que? Eu...[n][f 1 3 65535][w][e]
 
 [msg MSG_025_0_0 [Ann]]
-[s][bup 0 4 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]O que você quer dizer, "alguma dúvida"?[n][f 1 3 65535][w][e]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 24 0 4 6 59 5 100][vp 8 2 0 0 65535 0]Bem, eu sei que não. Passei tanto tempo me[n]preocupando com tudo o que agora tenho...[n]espere... o que?[n][f 1 3 65535][w][e]
+[s][bup 0 4 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]O-O que quer dizer com "dúvida"?[n][f 1 3 65535][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 24 0 4 6 59 5 100][vp 8 2 0 0 65535 0]Bem, claro que não. Eu passei tanto[n]tempo me preocupando com tudo,[n]que agora... Espera... O quê?[n][f 1 3 65535][w][e]
 
 [msg MSG_026_0_0 [Ann]]
-[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 6038 65535 0]Algo é... Lembro-me de estar tão encurralado[n]que só queria morrer, mas então conheci[n]todos, e...[n][f 1 3 65535][w][e]
+[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 6038 65535 0]Há algo... Lembro que estava tão[n]desesperado que queria morrer,[n]mas aí te conheci, e...[n][f 1 3 65535][w][e]
 
 [sel SEL_027_0_0 top]
 [s]Continue pensando nisso.[e]
-[s]Eu vou estar esperando por você.[e]
+[s]Eu vou te esperar.[e]
 
 [msg MSG_030_0_0 [Ann]]
-[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 6127 65535 0]O que faz aquilo- [n][f 1 3 65535][w][e]
+[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 6127 65535 0]Mas o que...[n][f 1 3 65535][w][e]
 
 [msg MSG_031_0_0 [Ann]]
-[s][vp 8 2 0 0 65535 0]Shiho ainda está vivo mesmo depois de todas[n]as coisas que a fizeram querer morrer![n][f 1 3 65535][w][e]
-[s][vp 8 2 0 0 65535 0]Você não tem o direito de fugir disso![n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0]Shiho ainda está viva, mesmo depois de[n]suportar todos aqueles horrores[n]que a levaram ao suicídio![n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0]Ele não tem o direito de fugir![n][f 1 3 65535][w][e]
 
 [msg MSG_032_0_0 [Ann]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 4 7 300 1][vp 8 2 0 6184 65535 0]Huh!? Eu acabei de...[n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 4 7 300 1][vp 8 2 0 6184 65535 0]Huh? Eu queria...[n][f 1 3 65535][w][e]
 
 [msg MSG_033_0_0 [Shiho]]
-[s][bup 0 212 600 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Ann, o que há de errado? Você está bem?[n][f 1 3 65535][w][e]
+[s][bup 0 212 600 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Anne, o que está acontecendo? Você está bem?[n][f 1 3 65535][w][e]
 
 [msg MSG_034_0_0 [Ann]]
-[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Oh, hum, estou bem! Eu acho que estou[n]apenas...[n]Sentindo-se um pouco cansado?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Por que não vamos encontrar um lugar para[n]sentar e relaxar um pouco?[n][f 1 3 65535][w][e]
+[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Oh eu estou bem! Eu só me sinto...[n]um pouco cansado?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Por que não achamos um lugar para[n]sentar e relaxar um pouco?[n][f 1 3 65535][w][e]
 
 [msg MSG_034_5_0 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 6064 65535 0]Desculpe, [f 4 2]! Vou ligar para você mais tarde...[n][f 1 3 65535][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 6064 65535 0]Desculpe, [f 4 2]! Te ligo mais tarde...[n][f 1 3 65535][w][e]
 
 [msg MSG_035_0_0 [Shiho]]
-[s][bup 0 212 601 0 0][f 4 10 65535 0 0][vp 8 2 0 57945 65535 0]Vê você, [f 4 1]-kun.[n][f 1 3 65535][w][e]
+[s][bup 0 212 601 0 0][f 4 10 65535 0 0][vp 8 2 0 57945 65535 0]Até mais, [f 4 1]-kun.[n][f 1 3 65535][w][e]
 
 [msg MND_038_0_0]
 [s][vp 1 0 0 0 0 0]......[n][f 1 3 65535][w][e]
-[s][vp 1 0 0 0 0 0]... Parece que tudo o que posso fazer agora[n]é esperar.[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Não posso fazer nada[n]só esperar.[n][f 1 3 65535][w][e]
 
 [msg MND_039_0_0]
-[s][vp 1 0 0 0 0 0]Acho que devo voltar para casa...[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Eu tenho que ir para casa...[n][f 1 3 65535][w][e]
 

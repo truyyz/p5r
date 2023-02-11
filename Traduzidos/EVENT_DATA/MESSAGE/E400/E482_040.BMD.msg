@@ -1,57 +1,57 @@
 [msg MSG_000_0_0 [Kasumi]]
-[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]Ficarei bem daqui fora.[n][f 1 3 65535][w][e]
+[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]Eu posso me virar sozinho daqui.[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Kasumi]]
-[s][bup 0 10 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Não posso agradecer o suficiente por hoje.[n]Eu juro que vou devolver o favor alguns- [n][f 1 3 65535][w][e]
+[s][bup 0 10 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Não sei como agradecer por hoje.[n]Prometo que retribuirei o[n]favor assim que...[n][f 1 3 65535][w][e]
 
-[msg MSG_002_0_0 [Surly Male First-year]]
-[s][vp 8 0 0 3 65535 0]Ei, isso não é Yoshizawa?[n][f 1 3 65535][w][e]
+[msg MSG_002_0_0 [Studente del primo anno scontroso]]
+[s][vp 8 0 0 3 65535 0]Ei, aquele não é o Yoshizawa?[n][f 1 3 65535][w][e]
 
-[msg MSG_003_0_0 [Intrigued Female First-year]]
-[s][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]Você quer dizer a ginasta de honras?[n][f 1 3 65535][w][e]
+[msg MSG_003_0_0 [Studentessa del primo anno interessata]]
+[s][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]Você quer dizer a ginasta modelo?[n][f 1 3 65535][w][e]
 
-[msg MSG_004_0_0 [Intrigued Female First-year]]
-[s][vp 8 0 0 25 65535 0]Ela recebe o tratamento VIP na escola e um[n]namorado para acompanhá-la?[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 26 65535 0]Senhorita Especial Snowflake com certeza[n]está vivendo na rua Easy...[n][f 1 3 65535][w][e]
+[msg MSG_004_0_0 [Studentessa del primo anno interessata]]
+[s][vp 8 0 0 25 65535 0]Aquela que é tratada como VIP na escola E tem um[n]namorado que a leva para todo lugar?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 26 65535 0]Para a senhorita princesinha[n]a vida é uma caminhada...[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Kasumi]]
-[s][bup 0 10 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Eu sinto Muito. Você não deveria ter que[n]lidar com um mal-entendido assim.[n][f 1 3 65535][w][e]
+[s][bup 0 10 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Sinto muito. Você certamente não precisa de[n]entendidos como esse.[n][f 1 3 65535][w][e]
 
 [sel SEL_006_0_0 top]
-[s]Desculpe por isso.[e]
-[s]Não se preocupe com isso.[e]
+[s]Sinto muito.[e]
+[s]Não se preocupe.[e]
 
 [msg MSG_007_0_0 [Kasumi]]
-[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Oh não! Se alguma coisa, é a minha culpa.[n][f 1 3 65535][w][e]
+[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Oh não! Na verdade, é tudo culpa minha.[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Kasumi]]
-[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Sim você está certo![n][f 1 3 65535][w][e]
+[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Sim, você está certo![n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Kasumi]]
-[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]O mesmo acontece também na aula.[n]As pessoas muitas vezes me cansam de mim[n]porque sou um estudante de honra.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]A escola espera que eu obtenha fortes[n]resultados nas próximas competições.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Eles até me disseram que eu não precisava[n]participar do evento de limpeza...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Mas eu simplesmente não gosto de obter[n]tratamento especial.[n][f 1 3 65535][w][e]
+[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]A mesma coisa acontece na sala de aula.[n]As pessoas ficam desconfiadas porque[n]sou um aluno exemplar.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]E a escola também espera[n]obter bons resultados[n]nas próximas competições.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Eles até me disseram que[n]eu também não poderia participar[n]da grande limpeza...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Mas eu realmente não suporto[n]receber tratamento especial.[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Kasumi]]
-[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Oh, com licença- meu chamado de pai.[n][f 1 3 65535][w][e]
+[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Oh, perdoe-me... meu pai[n]está me ligando.[n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Kasumi]]
-[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Olá? Papai?...O que é que foi isso?[n]Desculpe, meu telefone está agindo[n]ultimamente.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Está tudo bem, obrigado. Mmhm. Vejo você[n]mais tarde.[n][f 1 3 65535][w][e]
+[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Preparar? Papa? ...Como você disse?[n]Desculpe, meu telefone[n]continua apresentando problemas.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Eu estou bem, obrigado. Mm-hm.[n]Até logo.[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Kasumi]]
-[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]Desculpe por isso. Ele perguntou se eu[n]precisava de uma carona, já que está[n]chovendo.[n][f 1 3 65535][w][e]
+[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]Com licença. Ele me perguntou se[n]eu queria uma carona por causa[n]da chuva.[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Kasumi]]
-[s][bup 0 10 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]Um pouco superprotetor, você não acha?[n][f 1 3 65535][w][e]
+[s][bup 0 10 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]Um pouco superprotetor, não acha?[n][f 1 3 65535][w][e]
 
 [sel SEL_017_0_0 top]
-[s]Você tem um ótimo pai.[e]
-[s]Ele deve se importar muito com você.[e]
+[s]Você tem um bom pai.[e]
+[s]Ele deve te amar muito.[e]
 
 [msg MSG_018_0_0 [Kasumi]]
-[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Sim, eu definitivamente concordo.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Bem, eu tenho que praticar, então é hora de[n]ir. Muito obrigado por hoje.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Com licença![n][f 1 3 65535][w][e]
+[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Sim, concordo totalmente.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Bem, eles me esperam no treino,[n]então é melhor eu ir.[n]Muito obrigado por hoje.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Sinto muito![n][f 1 3 65535][w][e]
 

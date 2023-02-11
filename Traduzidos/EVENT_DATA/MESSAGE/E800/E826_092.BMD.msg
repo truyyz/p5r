@@ -98,11 +98,11 @@
 [s][vp 8 0 0 0 65535 0]ダミーメッセージ[n][f 1 3 65535][w][e]
 
 [msg MND_033_0_0]
-[s][vp 8 0 0 0 65535 0]Futaba parece feliz...[n][f 1 3 65535][w][e]
-[s][f 5 13 10 10 8][vp 8 0 0 0 65535 0]Aparentemente, ela gosta de passar um tempo[n]sozinho comigo...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Futaba parece feliz.[n][f 1 3 65535][w][e]
+[s][f 5 13 10 10 8][vp 8 0 0 0 65535 0]Aparentemente, ela gosta de[n]passar tempo sozinha comigo...[n][f 1 3 65535][w][e]
 
 [msg MND_034_0_0]
-[s][vp 8 0 0 0 65535 0]Eu sinto que meu vínculo com Futaba ficará[n]mais forte em breve...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Sinto que em breve meu vínculo[n]com Futaba se fortalecerá...[n][f 1 3 65535][w][e]
 
 [msg MSG_035_0_0 [Futaba]]
 [s][vp 8 2 0 9031 65535 0]Obrigado! Até mais.[n][f 1 3 65535][w][e]
@@ -111,12 +111,12 @@
 [s][vp 8 0 0 0 65535 0]ダミーメッセージ[n][f 1 3 65535][w][e]
 
 [msg MND_037_0_0]
-[s][vp 8 0 0 0 65535 0]Futaba parece feliz...[n][f 1 3 65535][w][e]
-[s][f 5 13 10 10 8][vp 8 0 0 0 65535 0]Aparentemente, ela gosta de passar um tempo[n]sozinho comigo...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Futaba parece feliz.[n][f 1 3 65535][w][e]
+[s][f 5 13 10 10 8][vp 8 0 0 0 65535 0]Aparentemente, ela gosta de[n]passar tempo sozinha comigo...[n][f 1 3 65535][w][e]
 
 [msg MND_038_0_0]
-[s][vp 8 0 0 0 65535 0]Eu sinto que meu vínculo com Futaba ficará[n]mais forte em breve...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Sinto que em breve meu vínculo[n]com Futaba se fortalecerá...[n][f 1 3 65535][w][e]
 
 [msg MSG_039_0_0 [Futaba]]
-[s][vp 8 2 0 9031 65535 0]Estou tão calmo quando estou ao seu lado...[n]de qualquer maneira, obrigado! Até mais.[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 9031 65535 0]Eu me sinto tão calmo quando você está[n]perto... De qualquer forma, obrigado! Olá.[n][f 1 3 65535][w][e]
 

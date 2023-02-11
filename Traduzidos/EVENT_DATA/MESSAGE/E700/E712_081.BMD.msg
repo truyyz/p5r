@@ -1,13 +1,13 @@
 [msg MSG_000_0_0 [Iwai]]
-[s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 2 0 13071 65535 0]Ei, você é exatamente a pessoa com quem eu[n]estava pulando para conversar.[n][f 1 3 65535][w][e]
+[s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 2 0 13071 65535 0]Ei, eu estava esperando[n]falar com você.[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Iwai]]
-[s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Tsuda me ligou um pouco atrás. Me disse para[n]esquecer tudo o que ele estava me ameaçando.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sinceramente, pensei que era alguma piada no[n]começo, mas não visto ou ouvi dele desde[n]então.[n][f 1 3 65535][w][e]
+[s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Há pouco Tsuda me ligou.[n]Ele me disse para esquecer[n]todas as ameaças que ele fez.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]A princípio pensei que[n]era uma piada, mas[n]não ouvi mais desde então.[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Iwai]]
-[s][bup 0 104 3 0 0][f 4 10 65535 0 0][vp 8 2 0 13021 65535 0]Sabe, quase parecia que eu estava falando[n]com o velho Tsuda de alguma forma. Meu[n]irmão jurado...[n][f 1 3 65535][w][e]
-[s][bup 0 104 0 0 0][f 4 10 65535 0 0][f 4 24 0 4 0 59 5 100][f 4 24 0 4 0 0 5 100][vp 8 0 0 0 65535 0]Ei, você acha que um cara pode realmente[n]passar por uma mudança drástica tão rápida?[n][f 1 3 65535][w][e]
+[s][bup 0 104 3 0 0][f 4 10 65535 0 0][vp 8 2 0 13021 65535 0]Você sabe, quase[n]parecia que eu estava falando com o velho[n]Tsuda de certa forma. Meu irmão jurado.[n][f 1 3 65535][w][e]
+[s][bup 0 104 0 0 0][f 4 10 65535 0 0][f 4 24 0 4 0 59 5 100][f 4 24 0 4 0 0 5 100][vp 8 0 0 0 65535 0]Ei, você acha que uma pessoa[n]pode mudar tão rápido?[n][f 1 3 65535][w][e]
 
 [sel SEL_003_0_0 top]
 [s]Não é impossível.[e]
@@ -15,57 +15,57 @@
 [s]Ele amadureceu.[e]
 
 [msg MSG_004_0_0 [Iwai]]
-[s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você pensa?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu já estive muito mais tempo do que você, e[n]nunca mais vi como isso...[n][f 1 3 65535][w][e]
+[s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sério?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu sou muito mais velho que você,[n]mas nunca vi[n]nada assim...[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Iwai]]
 [s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 2 0 13045 65535 0][f 5 13 13 5 1004]Que tipo de resposta é essa?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu não sou realmente de falar, mas você deve[n]pensar em fazer isso um pouco mais, garoto.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não estou em posição de[n]falar, mas você deveria levar[n]isso mais a sério, garoto.[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Iwai]]
-[s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Um homem velho como esse deveria ter[n]terminado de matar anos atrás.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu teria concordado se fosse você ou kaoru...[n]Mas não Tsuda.[n][f 1 3 65535][w][e]
+[s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Um velho como ele deveria[n]ter amadurecido por anos.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu teria entendido se fosse sobre você ou[n]Kaoru... mas não Tsuda.[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Iwai]]
-[s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]De qualquer forma, algo pescador ainda está[n]descendo... mas Tsuda Change 'é uma carga[n]real dos meus ombros.[n][f 1 3 65535][w][e]
+[s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Algo está suspeito...[n]mas a mudança de Tsuda[n]tirou um grande peso dos meus ombros.[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Iwai]]
-[s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 2 0 13035 65535 0]Ah, e isso significa prolly nosso acordo[n]com, hein?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Quero dizer, o seu fim da barganha estava[n]afastando Tsuda... e você fez isso e mais[n]alguns.[n][f 1 3 65535][w][e]
+[s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 2 0 13035 65535 0]Ah, acho que nosso acordo[n]foi cumprido, não foi?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você teve que afastar Tsuda...[n]e de alguma forma[n]você conseguiu.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mais uma coisa...[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Iwai]]
-[s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 2 0 13019 65535 0]Eu sei que eu meio que demiti a vocês, mas[n]você acha que talvez queira continuar[n]trabalhando aqui comigo?[n][f 1 3 65535][w][e]
-[s][bup 0 104 3 0 0][f 4 10 65535 0 0][f 4 24 0 4 0 38 5 100][f 4 24 0 4 0 1 5 100][vp 8 0 0 0 65535 0]Eu entendo que as crianças hoje em dia têm[n]todos os compromissos do tipo, então eu[n]entendo se a resposta tiver que ser não...[n][f 1 3 65535][w][e]
+[s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 2 0 13019 65535 0]Eu meio que[n]demiti você, mas que tal[n]continuar a trabalhar comigo?[n][f 1 3 65535][w][e]
+[s][bup 0 104 3 0 0][f 4 10 65535 0 0][f 4 24 0 4 0 38 5 100][f 4 24 0 4 0 1 5 100][vp 8 0 0 0 65535 0]Eu sei que as crianças de hoje estão[n]ocupadas, então[n]eu entenderia uma recusa...[n][f 1 3 65535][w][e]
 
 [sel SEL_010_0_0 top]
-[s]Estou de volta, querida.[e]
-[s][f 0 8 2 1 2217]Eu acho que poderia considerá-lo.[clr 27][e]
-[s][f 0 8 2 1 2217]Se você me pagar bem.[clr 27][e]
+[s]Estou de volta, cara.[e]
+[s][f 0 8 2 1 2217]Eu poderia pensar sobre isso.[clr 27][e]
+[s][f 0 8 2 1 2217]Se você me der um aumento.[clr 27][e]
 
 [msg MSG_011_0_0 [Iwai]]
-[s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 2 0 13020 65535 0][f 5 13 13 5 1004]...Excelente.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não vá esperar que eu facilite o trabalho,[n]porém, você é?[n][f 1 3 65535][w][e]
+[s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 2 0 13020 65535 0][f 5 13 13 5 1004]...Fantástico.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não pense que vou pegar leve com você, ok?[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Iwai]]
-[s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 2 0 13048 65535 0][f 5 13 13 10 1004]Heh, não me dê essa atitude. Eu sei que você[n]quer voltar.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não vá esperar que eu facilite o trabalho,[n]porém, você é?[n][f 1 3 65535][w][e]
+[s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 2 0 13048 65535 0][f 5 13 13 10 1004]Ei, me poupe do jogo.[n]Eu sei que você quer voltar.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não pense que vou pegar leve com você, ok?[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Iwai]]
-[s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 2 0 13082 65535 0][f 5 13 13 10 1004]Heh, parece que você ainda tem sua coragem.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Só não vá esperar que eu torne o trabalho[n]mais fácil para você, você?[n][f 1 3 65535][w][e]
+[s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 2 0 13082 65535 0][f 5 13 13 10 1004]Eh, aparentemente você[n]ainda tem coragem.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas não pense que vou pegar leve com você, ok?[n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Iwai]]
-[s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 2 0 13089 65535 0]Vou contar com você, garoto. Quero dizer,[n]uh... [f 4 2].[n][f 1 3 65535][w][e]
+[s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 2 0 13089 65535 0]Estou contando com você, garoto.[n]Quero dizer, hum... [f 4 2].[n][f 1 3 65535][w][e]
 
 [msg MND_990_0_0]
-[s][vp 8 0 0 0 65535 0]Parece que meu vínculo com Iwai está ficando[n]ainda mais profundo...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Sinto que meu vínculo[n]com Iwai está ficando mais forte...[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Iwai]]
-[s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 2 0 13086 65535 0]Tudo bem, a primeira ordem de negócios é[n]tirar o lixo. Vamos lá, temos que nos[n]livrar desses protótipos.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Desmonte-os e limpe as impressões antes de[n]jogá-las, ok?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 13083 65535 0]Ah, e eu não estou deixando você sair até[n]que eles terminaram.[n][f 1 3 65535][w][e]
+[s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 2 0 13086 65535 0]OK, sua primeira tarefa[n]é tirar o lixo. Vamos,[n]precisamos nos livrar dos protótipos.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Antes de jogá-los, desmonte-os[n]e apague as impressões digitais, ok?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 13083 65535 0]Ah, e você não vai embora até[n]terminar.[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Iwai]]
-[s][vp 8 2 0 13054 0 0]Ei, bom trabalho hoje.[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 13054 0 0]Ei, ótimo trabalho.[n][f 1 3 65535][w][e]
 

@@ -98,25 +98,25 @@
 [s][vp 8 0 0 0 65535 0]ダミーメッセージ[n][f 1 3 65535][w][e]
 
 [msg MND_033_0_0]
-[s][vp 8 0 0 0 65535 0]Haru parece encantado...[n][f 1 3 65535][w][e]
-[s][f 5 13 4 10 7][vp 8 0 0 0 65535 0]Aparentemente, ela encontra a velocidade da[n]roda gigante agradável...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Haru parece extasiado.[n][f 1 3 65535][w][e]
+[s][f 5 13 4 10 7][vp 8 0 0 0 65535 0]Aparentemente ele gosta do[n]ritmo da roda-gigante...[n][f 1 3 65535][w][e]
 
 [msg MND_034_0_0]
-[s][vp 8 0 0 0 65535 0]Eu sinto que meu vínculo com Haru ficará[n]mais forte em breve...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Sinto que em breve meu vínculo[n]com Haru se fortalecerá...[n][f 1 3 65535][w][e]
 
 [msg MSG_035_0_0 [Haru]]
-[s][vp 8 2 0 3062 65535 0]*risada* obrigado.[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 3062 65535 0]Hehehe... Obrigado.[n][f 1 3 65535][w][e]
 
 [msg MND_036_0_0]
 [s][vp 8 0 0 0 65535 0]ダミーメッセージ[n][f 1 3 65535][w][e]
 
 [msg MND_037_0_0]
-[s][vp 8 0 0 0 65535 0]Haru parece encantado...[n][f 1 3 65535][w][e]
-[s][f 5 13 4 10 7][vp 8 0 0 0 65535 0]Parece que ela realmente gosta do tempo que[n]passamos juntos...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Haru parece extasiado.[n][f 1 3 65535][w][e]
+[s][f 5 13 4 10 7][vp 8 0 0 0 65535 0]Ela parece realmente gostar[n]do tempo que passamos juntos...[n][f 1 3 65535][w][e]
 
 [msg MND_038_0_0]
-[s][vp 8 0 0 0 65535 0]Eu sinto que meu vínculo com Haru ficará[n]mais forte em breve...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Sinto que em breve meu vínculo[n]com Haru se fortalecerá...[n][f 1 3 65535][w][e]
 
 [msg MSG_039_0_0 [Haru]]
-[s][vp 8 2 0 3062 65535 0]*risada* obrigado. Eu adoraria vir aqui[n]juntos novamente.[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 3062 65535 0]Hehehe... Obrigado. Eu[n]adoraria voltar aqui juntos.[n][f 1 3 65535][w][e]
 

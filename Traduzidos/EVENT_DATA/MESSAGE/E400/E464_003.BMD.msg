@@ -1,21 +1,21 @@
 [msg MSG_000_0_0 [Igor]]
-[s][bup 0 201 0 0 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]*risada* magnífico.[n][f 1 3 65535][w][e]
+[s][bup 0 201 0 0 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]Hehehe... Ótimo.[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Lavenza]]
-[s][bup 0 100 0 0 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Mas... você está confinado na realidade[n]agora, mesmo depois de escapar da prisão em[n]seu coração...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Que reviravolta irônica de eventos, porque[n]você desejava a fortuna de outras pessoas[n]sobre seu próprio bem-estar.[n][f 1 3 65535][w][e]
+[s][bup 0 100 0 0 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Mas... você é um prisioneiro na realidade.[n]Mesmo depois de escapar da[n]prisão dentro do seu coração.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Você desejou boa sorte a[n]outros, deixando de lado seu[n]próprio interesse. Há ironia.[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Lavenza]]
-[s][bup 0 100 1 0 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Ainda assim... vai servir. Você escolheu o[n]caminho correto com sua própria vontade.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Você não comprometeu suas crenças para obter[n]ganhos pessoais até o fim.[n][f 1 3 65535][w][e]
+[s][bup 0 100 1 0 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]No entanto... vai ficar tudo bem.[n]Você escolheu o caminho certo[n]por vontade própria.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Você nunca traiu seus ideais[n]para seu ganho pessoal.[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Lavenza]]
-[s][bup 0 100 1 0 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]O último Arcana que você assumiu é "o mundo".[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]É a força de vontade que se levanta neste[n]mundo em seus próprios pés, influenciado[n]por nenhum.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Isso se tornará a base da esperança em[n]direção a um futuro com seus colegas de[n]equipe que compartilham a mesma crença.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Agora que você ganhou esse poder, você não é[n]mais uma existência que vagueia sozinha...[n][f 1 3 65535][w][e]
+[s][bup 0 100 1 0 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]O último Arcano que você[n]ganhou é "O Mundo".[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]É a força de vontade[n]necessária para permanecer incontestado[n]nas adversidades deste mundo.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Graças a ela, você poderá esperar um[n]futuro na companhia de aliados[n]que compartilham o mesmo ideal.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Agora que você adquiriu[n]este poder, você não é mais[n]uma existência errante e solitária...[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Igor]]
-[s][bup 0 201 0 0 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Meus próprios deveres terminam aqui também...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]... Você foi realmente um convidado notável.[n][f 1 3 65535][w][e]
+[s][bup 0 201 0 0 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Minha tarefa está concluída...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]...Você foi um convidado[n]no mínimo notável.[n][f 1 3 65535][w][e]
 

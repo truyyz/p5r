@@ -106,25 +106,25 @@
 [s][vp 8 0 0 0 65535 0]ダミーメッセージ[n][f 1 3 65535][w][e]
 
 [msg MND_033_0_0]
-[s][vp 8 0 0 0 65535 0]Ann parece animado...[n][f 1 3 65535][w][e]
-[s][f 5 13 7 10 4][vp 8 0 0 0 65535 0]Eu acho que há muitos lugares que ela quer[n]dar uma olhada...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Ann parece animada.[n][f 1 3 65535][w][e]
+[s][f 5 13 7 10 4][vp 8 0 0 0 65535 0]Acho que ele quer verificar[n]vários lugares...[n][f 1 3 65535][w][e]
 
 [msg MND_034_0_0]
-[s][vp 8 0 0 0 65535 0]Eu sinto que meu vínculo com Ann ficará mais[n]forte em breve...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Sinto que em breve meu vínculo[n]com Ann se fortalecerá...[n][f 1 3 65535][w][e]
 
 [msg MSG_035_0_0 [Ann]]
-[s][vp 8 2 0 6054 65535 0]Bye Bye![n][f 1 3 65535][w][e]
+[s][vp 8 2 0 6054 65535 0]Tchau tchau![n][f 1 3 65535][w][e]
 
 [msg MND_036_0_0]
-[s][vp 8 0 0 0 65535 0]Fictício [n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Boneco[n][f 1 3 65535][w][e]
 
 [msg MND_037_0_0]
-[s][vp 8 0 0 0 65535 0]Ann parece animado...[n][f 1 3 65535][w][e]
-[s][f 5 13 7 10 4][vp 8 0 0 0 65535 0]Eu acho que há muitos lugares que ela quer[n]dar uma olhada...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Ann parece animada.[n][f 1 3 65535][w][e]
+[s][f 5 13 7 10 4][vp 8 0 0 0 65535 0]Acho que ele quer verificar[n]vários lugares...[n][f 1 3 65535][w][e]
 
 [msg MND_038_0_0]
-[s][vp 8 0 0 0 65535 0]Eu sinto que meu vínculo com Ann ficará mais[n]forte em breve...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Sinto que em breve meu vínculo[n]com Ann se fortalecerá...[n][f 1 3 65535][w][e]
 
 [msg MSG_039_0_0 [Ann]]
-[s][vp 8 2 0 6054 65535 0]Aquilo foi muito divertido![n]Vamos aqui algum dia, ok? Bem, tchau![n][f 1 3 65535][w][e]
+[s][vp 8 2 0 6054 65535 0]Foi uma explosão![n]Vamos voltar em algum momento[n]ou mais tarde, ok? Olá![n][f 1 3 65535][w][e]
 

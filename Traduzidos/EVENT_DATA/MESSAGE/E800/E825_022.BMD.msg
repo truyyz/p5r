@@ -105,11 +105,11 @@
 [s][vp 8 0 0 0 65535 0]ダミーメッセージ[n][f 1 3 65535][w][e]
 
 [msg MND_033_0_0]
-[s][vp 8 0 0 0 65535 0]Makoto parece feliz...[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0][f 5 13 3 10 6]Eu acho que ela realmente gosta de sentir a[n]brisa gentil do mar em seu rosto...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Makoto parece feliz.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 5 13 3 10 6]Acho que ela gosta[n]da brisa do mar no rosto[n]muito...[n][f 1 3 65535][w][e]
 
 [msg MND_034_0_0]
-[s][vp 8 0 0 0 65535 0][f 5 13 0 5 0]Eu sinto que meu vínculo com Makoto ficará[n]mais forte em breve...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 5 13 0 5 0]Sinto que em breve meu vínculo[n]com Makoto se fortalecerá...[n][f 1 3 65535][w][e]
 
 [msg MSG_035_0_0 [Makoto]]
 [s][vp 8 2 0 2031 65535 0]Obrigado por me trazer aqui.[n][f 1 3 65535][w][e]
@@ -118,12 +118,12 @@
 [s][vp 8 0 0 0 65535 0]ダミーメッセージ[n][f 1 3 65535][w][e]
 
 [msg MND_037_0_0]
-[s][vp 8 0 0 0 65535 0]Makoto parece feliz...[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0][f 5 13 3 10 6]Eu acho que ela realmente gosta de sentir a[n]brisa gentil do mar em seu rosto...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Makoto parece feliz.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 5 13 3 10 6]Acho que ela gosta[n]da brisa do mar no rosto[n]muito...[n][f 1 3 65535][w][e]
 
 [msg MND_038_0_0]
-[s][vp 8 0 0 0 65535 0][f 5 13 0 5 0]Eu sinto que meu vínculo com Makoto ficará[n]mais forte em breve...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 5 13 0 5 0]Sinto que em breve meu vínculo[n]com Makoto se fortalecerá...[n][f 1 3 65535][w][e]
 
 [msg MSG_039_0_0 [Makoto]]
-[s][vp 8 2 0 2031 65535 0]Esta foi uma grande mudança de ritmo.[n]Obrigado por me trazer aqui.[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 2031 65535 0]Foi uma boa distração.[n]Obrigado por me trazer aqui.[n][f 1 3 65535][w][e]
 

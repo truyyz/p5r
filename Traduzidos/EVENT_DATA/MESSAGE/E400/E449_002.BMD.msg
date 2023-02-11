@@ -17,34 +17,34 @@
 [s][vp 8 0 0 6 65535 0]いや...っ![n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Ann]]
-[s][bup 0 4 5 4 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Ow...[n][f 1 3 65535][w][e]
+[s][bup 0 4 5 4 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Ai...[n][f 1 3 65535][w][e]
 
 [msg MSG_006_5_0 [Ann]]
-[s][bup 0 4 5 4 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Estão todos bem!?[n][f 1 3 65535][w][e]
+[s][bup 0 4 5 4 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Vocês estão bem!?![n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Ryuji]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 17 300 1][vp 8 0 0 9 65535 0]OWWW... Claro que somos![n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 17 300 1][vp 8 0 0 9 65535 0]Ahiii... Claro que sim![n][f 1 3 65535][w][e]
 
 [msg MSG_007_5_0 [Futaba]]
-[s][bup 0 8 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Oh! Ei, nossas roupas estão de volta ao[n]normal![n][f 1 3 65535][w][e]
+[s][bup 0 8 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Oh...! Ei, nossas roupas[n]voltaram ao normal![n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Morgana]]
-[s][bup 0 3 4 0 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Olhar![n][f 1 3 65535][w][e]
+[s][bup 0 3 4 0 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Olha![n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Haru]]
 [s][bup 0 7 4 4 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Huh? Shibuya?[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Yusuke]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 5 7 301 1][vp 8 0 0 13 65535 0]Estamos de volta!?[n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 5 7 301 1][vp 8 0 0 13 65535 0]Estamos de volta?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Nós não voltamos a nós mesmos...[n]Devemos ter sido expulsos pelo Santo Graal.[n][f 1 3 65535][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Mas não por nossa[n]vontade... O Santo[n]Graal deve ter nos expulsado.[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Makoto]]
-[s][bup 0 6 0 4 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Nós perdemos?[n][f 1 3 65535][w][e]
+[s][bup 0 6 0 4 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Perdemos?[n][f 1 3 65535][w][e]
 
 [sel SEL_014_0_0 top]
-[s]Parece tão...[e]
+[s]Assim pareceria...[e]
 [s]Não podemos desistir.[e]
 [s]Não entendo.[e]
 
@@ -52,10 +52,10 @@
 [s][bup 0 6 3 4 0][vp 1 0 0 18 0 0]......[n][f 1 3 65535][w][e]
 
 [msg MSG_015_5_0 [Makoto]]
-[s][bup 0 6 3 4 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Direita...[n][f 1 3 65535][w][e]
+[s][bup 0 6 3 4 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Sim...[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Makoto]]
-[s][bup 0 6 3 4 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]Eu sei disso, mas...[n][f 1 3 65535][w][e]
+[s][bup 0 6 3 4 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]Eu sei, mas...[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Makoto]]
 [s][bup 0 6 4 4 0][vp 1 0 0 21 0 0]......![n][f 1 3 65535][w][e]
@@ -64,5 +64,5 @@
 [s][bup 0 6 3 4 0][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Não...[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Futaba]]
-[s][bup 0 8 4 4 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Huh?[n][f 1 3 65535][w][e]
+[s][bup 0 8 4 4 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Hã?[n][f 1 3 65535][w][e]
 

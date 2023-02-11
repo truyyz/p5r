@@ -98,11 +98,11 @@
 [s][vp 8 0 0 0 65535 0]ダミーメッセージ[n][f 1 3 65535][w][e]
 
 [msg MND_033_0_0]
-[s][vp 8 0 0 0 65535 0]Ann está corando...[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0][f 5 13 7 10 4]Conversamos por um bom tempo sobre como não[n]ficar nervoso...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Ann está corando.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 5 13 7 10 4]Conversamos muito sobre[n]como não ficar chateado...[n][f 1 3 65535][w][e]
 
 [msg MND_034_0_0]
-[s][vp 8 0 0 0 65535 0]Eu sinto que meu vínculo com Ann ficará mais[n]forte em breve...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Sinto que em breve meu vínculo[n]com Ann se fortalecerá...[n][f 1 3 65535][w][e]
 
 [msg MSG_035_0_0 [Ann]]
 [s][vp 8 2 0 6031 65535 0]Muito obrigado![n][f 1 3 65535][w][e]
@@ -111,15 +111,15 @@
 [s][vp 8 0 0 0 65535 0]ダミーメッセージ[n][f 1 3 65535][w][e]
 
 [msg MND_037_0_0]
-[s][vp 8 0 0 0 65535 0]Ann está corando...[n][f 1 3 65535][w][e]
-[s][f 5 13 7 10 4][vp 8 0 0 0 65535 0]Conversamos por um bom tempo sobre como não[n]ficar nervoso...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Ann está corando.[n][f 1 3 65535][w][e]
+[s][f 5 13 7 10 4][vp 8 0 0 0 65535 0]Conversamos muito sobre[n]como não ficar chateado...[n][f 1 3 65535][w][e]
 
 [msg MND_038_0_0]
-[s][vp 8 0 0 0 65535 0]Eu sinto que meu vínculo com Ann ficará mais[n]forte em breve...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Sinto que em breve meu vínculo[n]com Ann se fortalecerá...[n][f 1 3 65535][w][e]
 
 [msg MSG_039_0_0 [Ann]]
 [s][vp 8 2 0 6031 65535 0]Não estou mais nervoso.[n]Muito obrigado![n][f 1 3 65535][w][e]
 
 [msg MND_040_0_0]
-[s][vp 8 0 0 0 65535 0]Eu andei Ann até a estação...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Acompanhei Ann[n]até a estação...[n][f 1 3 65535][w][e]
 

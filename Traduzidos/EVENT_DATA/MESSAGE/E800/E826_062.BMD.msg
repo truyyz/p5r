@@ -28,7 +28,7 @@
 [s][vp 8 0 0 0 65535 0]¸は、真顔で見つめてくる...[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 2] 、私...じつは、あなたのことが、[n]す、好......プッ![n][f 1 3 65535][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 2]、私...じつは、あなたのことが、[n]す、好......プッ![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]ムリ! なんでそんな真顔で見つめんのよ。[n]好きとか...プッ......アハハッ! [n][f 1 3 65535][w][e]
 
 [msg MND_010_0_0]
@@ -106,25 +106,25 @@
 [s][vp 8 0 0 0 65535 0]ダミーメッセージ[n][f 1 3 65535][w][e]
 
 [msg MND_033_0_0]
-[s][vp 8 0 0 0 65535 0]Ann está sorrindo...[n][f 1 3 65535][w][e]
-[s][f 5 13 7 10 4][vp 8 0 0 0 65535 0]Eu acho que ela gosta da vista da cidade de[n]cima aqui...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Ann sorri.[n][f 1 3 65535][w][e]
+[s][f 5 13 7 10 4][vp 8 0 0 0 65535 0]Acho que ela gosta da vista[n]da cidade daqui de cima...[n][f 1 3 65535][w][e]
 
 [msg MND_034_0_0]
-[s][vp 8 0 0 0 65535 0]Eu sinto que meu vínculo com Ann ficará mais[n]forte em breve...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Sinto que em breve meu vínculo[n]com Ann se fortalecerá...[n][f 1 3 65535][w][e]
 
 [msg MSG_035_0_0 [Ann]]
-[s][vp 8 2 0 6054 65535 0]Bye Bye![n][f 1 3 65535][w][e]
+[s][vp 8 2 0 6054 65535 0]Tchau tchau![n][f 1 3 65535][w][e]
 
 [msg MND_036_0_0]
 [s][vp 8 0 0 0 65535 0]ダミーメッセージ[n][f 1 3 65535][w][e]
 
 [msg MND_037_0_0]
-[s][vp 8 0 0 0 65535 0]Ann parece feliz...[n][f 1 3 65535][w][e]
-[s][f 5 13 7 10 4][vp 8 0 0 0 65535 0]Eu acho que ela gosta da vista da cidade de[n]cima aqui...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Ann parece feliz.[n][f 1 3 65535][w][e]
+[s][f 5 13 7 10 4][vp 8 0 0 0 65535 0]Acho que ela gosta da vista[n]da cidade daqui de cima...[n][f 1 3 65535][w][e]
 
 [msg MND_038_0_0]
-[s][vp 8 0 0 0 65535 0]Eu sinto que meu vínculo com Ann ficará mais[n]forte em breve...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Sinto que em breve meu vínculo[n]com Ann se fortalecerá...[n][f 1 3 65535][w][e]
 
 [msg MSG_039_0_0 [Ann]]
-[s][vp 8 2 0 6054 65535 0]É sempre um pouco triste seguir os caminhos[n]separados... tchau![n][f 1 3 65535][w][e]
+[s][vp 8 2 0 6054 65535 0]É sempre triste[n]partir... Tchau![n][f 1 3 65535][w][e]
 

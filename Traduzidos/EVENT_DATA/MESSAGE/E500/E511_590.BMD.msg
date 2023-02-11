@@ -11,7 +11,7 @@
 [s][vp 6 0 0 0 0 0]「うそ~」「うわあ」など。[n][f 1 2 120][e]
 
 [msg MSG_031_0_0 [Futaba]]
-[s][vp 6 0 0 32 0 0]Estamos faaalliiiiiiing![n][f 1 2 35][e]
+[s][vp 6 0 0 32 0 0]Vamos cair![n][f 1 2 35][e]
 
 [msg MSG_032_0_0 [(SE)Ü同]]
 [s][vp 6 0 0 0 0 0]「くっ」「いで!」など。[n][f 1 2 120][e]

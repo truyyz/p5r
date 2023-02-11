@@ -106,25 +106,25 @@
 [s][vp 8 0 0 0 65535 0]ダミーメッセージ[n][f 1 3 65535][w][e]
 
 [msg MND_033_0_0]
-[s][vp 8 0 0 0 65535 0]Makoto parece feliz...[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0][f 5 13 3 10 6]Eu acho que ela só quer andar e olhar para o[n]cenário...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Makoto parece feliz.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 5 13 3 10 6]Acho que ele só quer andar[n]e dar uma olhada...[n][f 1 3 65535][w][e]
 
 [msg MND_034_0_0]
-[s][vp 8 0 0 0 65535 0][f 5 13 0 5 0]Eu sinto que meu vínculo com Makoto ficará[n]mais forte em breve...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 5 13 0 5 0]Sinto que em breve meu vínculo[n]com Makoto se fortalecerá...[n][f 1 3 65535][w][e]
 
 [msg MSG_035_0_0 [Makoto]]
-[s][vp 8 2 0 2030 65535 0]Isso foi muito divertido. Obrigado por me[n]convidar aqui hoje.[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 2030 65535 0]Foi muito engraçado. Obrigado[n]por me convidar.[n][f 1 3 65535][w][e]
 
 [msg MND_036_0_0]
-[s][vp 8 0 0 0 65535 0]Dummy e818_062 [n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Dummy e818_062[n][f 1 3 65535][w][e]
 
 [msg MND_037_0_0]
-[s][vp 8 0 0 0 65535 0]Makoto parece feliz...[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0][f 5 13 3 10 6]Eu acho que ela só quer andar e olhar para o[n]cenário...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Makoto parece feliz.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 5 13 3 10 6]Acho que ele só quer andar[n]e dar uma olhada...[n][f 1 3 65535][w][e]
 
 [msg MND_038_0_0]
-[s][vp 8 0 0 0 65535 0][f 5 13 0 5 0]Eu sinto que meu vínculo com Makoto ficará[n]mais forte em breve...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 5 13 0 5 0]Sinto que em breve meu vínculo[n]com Makoto se fortalecerá...[n][f 1 3 65535][w][e]
 
 [msg MSG_039_0_0 [Makoto]]
-[s][vp 8 2 0 2030 65535 0]Eu gostaria de nunca ter que te deixar, [f 4 2]. Bem, obrigado por me convidar hoje.[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 2030 65535 0]Eu gostaria de nunca ter me separado de você, [n][f 4 2]. Bem, obrigado por me convidar.[n][f 1 3 65535][w][e]
 

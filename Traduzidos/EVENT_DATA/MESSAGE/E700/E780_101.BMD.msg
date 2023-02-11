@@ -1,219 +1,219 @@
 [msg MSG_000_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*Sniff** Sniff*... Hm!? Esse peixe grelhado[n]cheira bem.[n][w][e]
-[s][f 4 10 65535 0 0]Entendo, então esta é a cafeteria.[n]Parece bastante espaçoso sem o time de vôlei[n]aqui.[n][w][e]
-[s][f 4 10 65535 0 0]Não posso deixar de desejar peixes[n]grelhados, agora...[n]Oh, certo![n][w][e]
-[s][f 4 10 65535 0 0]Você está almoçando sozinho, você sabe.[n]Vamos convidar alguém para que todos[n]possamos almoçar juntos.[n][w][e]
-[s][f 4 10 65535 0 0]Afinal, as pessoas podem se conhecer melhor[n]e aprofundar seus laços quando comem juntos.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*sniff* *sniff* Mmm?[n]Esse peixe grelhado[n]está com um cheiro delicioso.[n][w][e]
+[s][f 4 10 65535 0 0]Entendo, então este é o refeitório.[n]Parece muito espaçoso, sem[n]o time de vôlei por perto.[n][w][e]
+[s][f 4 10 65535 0 0]Não consigo resistir a[n]peixe grelhado agora...[n]Ah, certo![n][w][e]
+[s][f 4 10 65535 0 0]Até agora, você almoçou sozinho.[n]Vamos convidar alguém, para que possamos[n]comer juntos.[n][w][e]
+[s][f 4 10 65535 0 0]Afinal, as pessoas se conhecem[n]melhor e formam laços mais fortes[n]quando comem juntas.[n][w][e]
 
 [msg MSG_001_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*Sniff** Sniff*... Hm!? Esse peixe grelhado[n]cheira bem.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*sniff* *sniff* Mmm?[n]Esse peixe grelhado[n]está com um cheiro delicioso.[n][w][e]
 
 [msg MSG_002_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*Sniff** Sniff*... Hm!? Esse peixe cozido[n]cheira bem...[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*sniff* *sniff* Mmm?[n]Esse peixe cozido[n]está com um cheiro delicioso.[n][w][e]
 
 [msg MSG_003_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*Sniff** Sniff*... Hm!? Eu cheiro[n]diferentes tipos de peixe.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*sniff* *sniff* Mmm?[n]Sinto cheiro de muitos tipos de peixe.[n][w][e]
 
 [msg MSG_004_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*Sniff** Sniff*... hmm!? Este cheiro...[n]Poderia ser!?[n][w][e]
-[s][f 4 10 65535 0 0]É a lancheira especial de várias camadas[n]para os alunos com as dez melhores[n]pontuações no exame![n][w][e]
-[s][f 4 10 65535 0 0]Sim, posso sentir o cheiro de peixes[n]especiais vindo da cozinha hoje![n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*sniff* *sniff* Mmm?[n]Esse cheiro... é...?[n][w][e]
+[s][f 4 10 65535 0 0]É o bentô especial para os[n]alunos que tiraram as dez[n]melhores notas da prova![n][w][e]
+[s][f 4 10 65535 0 0]Hoje o cheirinho de um peixe especial vem da[n]cozinha![n][w][e]
 
 [msg MSG_005_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vamos convidar alguém a almoçar conosco hoje[n]na cafeteria.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Convidamos alguém para almoçar conosco na cantina.[n][w][e]
 
 [sel SEL_006_0_0 top]
-[s]Convide Ryuji [e]
-[s]Convide Ann [e]
-[s]Convide Makoto [e]
-[s]Convide Haru [e]
-[s]Convide mishima [e]
-[s]Convide Kawakami [e]
+[s]Convidar Ryuji[e]
+[s]convidar ann[e]
+[s]Convidar Makoto[e]
+[s]Convidar Haru[e]
+[s]Convidar Mishima[e]
+[s]Convidar Kawakami[e]
 
 [msg MSG_007_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Tente convidá-los no telefone, então.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vamos, então pegue o telefone[n]e veja se ele quer se juntar a você.[n][w][e]
 
 [msg MSG_008_0_0 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Huh, a cafeteria? Claro, cara, eu vou ir[n]agora.[n][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O refeitório? Claro,[n]eu vou acompanhá-lo imediatamente.[n][w][e]
 
 [msg MSG_009_0_0 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]A cafeteria? Ainda não almoçei, então vou ir[n]agora.[n][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Cantina? Ainda não almocei, já volto.[n][w][e]
 
 [msg MSG_010_0_0 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]A cafeteria? Espere, é apenas dois de nós!?[n][w][e]
-[s][f 4 10 65535 0 0]Sim, é claro que podemos.[n]Vou ir imediatamente.[n][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Cantina? Espere,[n]apenas nós dois!?![n][w][e]
+[s][f 4 10 65535 0 0]Sim, claro que podemos.[n]Vou acompanhá-lo imediatamente.[n][w][e]
 
 [msg MSG_011_0_0 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O almoço na cafeteria de vez em quando[n]parece bom. Ok, eu estarei lá imediatamente.[n][w][e]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Às vezes é bom[n]comer no refeitório. OK,[n]eu estarei com você.[n][w][e]
 
 [msg MSG_012_0_0 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sim claro. Eu estarei lá imediatamente. Vejo[n]você em breve.[n][w][e]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Certo. Vou acompanhá-lo[n]imediatamente. Até logo.[n][w][e]
 
 [msg MSG_013_0_0 [Haru]]
-[s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você está indo para a cafeteria?[n]Oh, isso parece divertido. Claro, eu te[n]encontrarei lá assim que puder.[n][w][e]
+[s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você está indo para o refeitório?[n]Oh, isso é uma boa ideia. Claro,[n]eu me juntarei a você o mais rápido possível.[n][w][e]
 
 [msg MSG_014_0_0 [Haru]]
-[s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Claro, eu ficaria feliz em! Espere por mim,[n]ok? Vejo você daqui a pouco.[n][w][e]
+[s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Claro, eu adoraria![n]Espere por mim, ok? Vejo você em breve.[n][w][e]
 
 [msg MSG_015_0_0 [Mishima]]
-[s][bup 0 111 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Almoço na cafeteria!? É claro![n]Eu vou lá agora![n][w][e]
+[s][bup 0 111 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Almoçar na cantina?[n]Claro! Estou chegando![n][w][e]
 
 [msg MSG_016_0_0 [Kawakami]]
-[s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Cafeteria com você? Claro, tudo bem.[n]Você sabe que o almoço não está em mim,[n]certo?[n][w][e]
+[s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]No refeitório com você?[n]Sim, tudo bem. Mas não espere[n]que eu ofereça, ok?[n][w][e]
 
 [msg MSG_017_0_0 [Kawakami]]
-[s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Huh...? Uh, sim, claro.[n]Ah, e pela primeira vez, é o meu prazer.[n][w][e]
+[s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]uh...? Oh, sim, claro.[n]Ah, e desta vez é por minha conta.[n][w][e]
 
 [msg MSG_018_0_0 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Cara, é bom comer peixe grelhado às vezes![n]Isso me lembra o que a mãe usou TA Make![n][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Caramba, é bom comer peixe[n]grelhado de vez em quando! Me lembra[n]o que minha mãe costumava cozinhar![n][w][e]
 
 [msg MSG_019_0_0 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Huh, esse peixe cozido não é ruim.[n]Parece como se eu estivesse comendo em um[n]restaurante japonês tradicional.[n][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Uh, este peixe cozido não é ruim.[n]É como comer em um[n]restaurante japonês tradicional.[n][w][e]
 
 [msg MSG_020_0_0 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ah, cara, eu queimei o interior da minha[n]boca. Eu pensei que era um pedaço de[n]sashimi, mas era peixe frito...[n][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Oh cara, eu queimei minha língua. Achei que era[n]sashimi, mas era peixe frito...[n][w][e]
 
 [msg MSG_021_0_0 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Cara, estou recheado! Não é de admirar que[n]eles apenas deixaram os dez melhores alunos[n]comerem essas coisas. É ótimo![n][w][e]
-[s][f 4 10 65535 0 0]Quero dizer, o sabor, a textura- tudo sobre[n]esta lancheira é realmente especial, sabe?[n][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Estou cheio! Você pode entender por que eles[n]reservam essas coisas para os dez melhores[n]alunos. É fantástico![n][w][e]
+[s][f 4 10 65535 0 0]O sabor, a textura...[n]esse bentô é muito[n]especial, sabe?[n][w][e]
 
 [msg SYS_021_5_0]
-[s][vp 8 0 0 0 65535 0]Comer a lancheira especial causou uma[n]mudança em [n][f 4 1] e a personalidade de Ryuji.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]O almoço especial[n]causou uma mudança em [f 4 1][n]e na Persona de Ryuji.[n][f 1 3 65535][w][e]
 
 [msg SYS_021_6_0]
-[s][vp 8 0 0 0 65535 0]Ryuji's [clr 1]Max HP [clr 27]+ [clr 2][var 1][clr 27], Assim, [clr 1]Max sp [clr 27]+ [clr 2][var 2][clr 27], e [clr 1]Força [clr 27], Assim, [clr 1]Magia [clr 27], Assim, [clr 1]Resistência [clr 27], Assim, [n][clr 1]Agilidade [clr 27], e [clr 1]Sorte [clr 27]+ [clr 2][var 3][clr 27].[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Ryuji: [clr 1]Max HP[clr 27] +[clr 2][var 1][n][clr 27], [clr 1]Max SP[clr 27] +[clr 2][n][var 2][clr 27] [ n]e [clr 1]Força[clr 27], [n][clr 1]Magia[clr 27], [clr 1]Resistência[clr 27],[n][clr 1]Agilidade[clr 27] e [clr 1] Sorte[clr 27][n]+[clr 2][var 3][clr 27].[n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sabe, é muito bom comer na cafeteria se for[n]de vez em quando. Vamos aqui novamente.[n][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sabe, às vezes é bom[n]comer no refeitório. Vamos voltar[n]em algum momento.[n][w][e]
 
 [msg MSG_023_0_0 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você sabe, há algo sobre comida japonesa que[n]realmente me deixa à vontade.[n][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sabe, a comida japonesa tem[n]alguma coisa que me deixa[n]à vontade.[n][w][e]
 
 [msg MSG_024_0_0 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O caldo tinha um sabor sólido, então estava[n]delicioso.[n][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]A sopa tinha um ótimo[n]sabor. Realmente requintado.[n][w][e]
 
 [msg MSG_025_0_0 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Estou tão cheio depois de ter dois[n]acompanhamentos.[n][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Depois de dois acompanhamentos[n]estou realmente cheio.[n][w][e]
 
 [msg MSG_026_0_0 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Oh, eu não posso comer outra mordida.[n][w][e]
-[s][f 4 10 65535 0 0]É só por sua causa que eu tenho que[n]experimentar esta lancheira especial. Muito[n]obrigado![n][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Oh, eu não posso comer mais nada.[n][w][e]
+[s][f 4 10 65535 0 0]É graças a você que pude[n]provar este bento[n]especial. Mil agradecimentos![n][w][e]
 
 [msg MSG_026_5_0]
-[s][vp 8 0 0 0 65535 0]Comer a lancheira especial causou uma[n]mudança em [n][f 4 1] e a persona de Ann.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]O almoço especial[n]causou uma mudança em [f 4 1][n]e na Persona de Ann.[n][f 1 3 65535][w][e]
 
 [msg MSG_026_6_0]
-[s][vp 8 0 0 0 65535 0]Ann ganhou [clr 2][var 1][clr 27] [clr 1]Max HP [clr 27], Assim, [n][clr 2][var 2][clr 27] [clr 1]Max sp [clr 27], e [clr 2][var 3][clr 27]para cada um de [clr 1]St [clr 27], Assim, [clr 1]MA [clr 27], Assim, [clr 1]En [clr 27], Assim, [clr 1]Ag [clr 27], e [clr 1]Lu [clr 27].[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Ann obteve [clr 2][var 1][clr 27] [clr 1]max HP[clr 27],[n][clr 2][var 2][clr 27] [clr 1]max SP[clr 27 ] e [clr 2][var 3][clr 27] para[n][clr 1]Fr[clr 27], [clr 1]Ma[clr 27], [clr 1]Rs[clr 27], [clr  1 ]Ag[clr 27] e [clr 1]Fo[clr 27].[n][f 1 3 65535][w][e]
 
 [msg MSG_027_0_0 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ahhh, isso foi tão bom. Eu posso dormir[n]durante as aulas da tarde por causa de coma[n]de comida.[n][w][e]
-[s][f 4 10 65535 0 0]Bem, vamos fazer o nosso melhor para tentar[n]ficar acordado, ok?[n][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Aaaa que bom. Esta tarde[n]posso entrar em coma alimentar[n]durante a aula.[n][w][e]
+[s][f 4 10 65535 0 0]Bem, vamos fazer o possível para ficar acordados,[n]ok?[n][w][e]
 
 [msg MSG_028_0_0 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Obrigado por me ligar para o almoço. Isso[n]realmente me deixou feliz.[n][w][e]
-[s][f 4 10 65535 0 0]Eu-eu pensei que sentiria sono com a comida[n]coma, mas acho que estou muito feliz em[n]dormir agora.[n][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Obrigado por me convidar para[n]almoçar. Fiquei muito satisfeito.[n][w][e]
+[s][f 4 10 65535 0 0]E-eu pensei que estava me sentindo sonolento por[n]causa da farra, mas acho que estou feliz demais[n]para dormir agora.[n][w][e]
 
 [msg MSG_029_0_0 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O peixe que está na estação é tão delicioso.[n][w][e]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Peixe da estação[n]é delicioso.[n][w][e]
 
 [msg MSG_030_0_0 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Normalmente como peixe cozido em missô, mas[n]o tempero doce e salgado de soja também é[n]muito saboroso.[n][w][e]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu costumo comer peixe cozido em[n]miso, mas molho de soja agridoce[n]também tem um gosto bom.[n][w][e]
 
 [msg MSG_031_0_0 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Os sashimi e peixes fritos se complementaram[n]surpreendentemente bem.[n][w][e]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]A combinação de sashimi e[n]peixe frito ficou[n]surpreendentemente boa.[n][w][e]
 
 [msg MSG_032_0_0 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu não tinha ideia de que havia um item[n]especial de almoço como este. Como[n]presidente da classe, eu deveria saber.[n][w][e]
-[s][f 4 10 65535 0 0]Estou muito feliz por podermos tentar isso.[n]É tudo graças a você no ranking nos dez[n]primeiros da escola.[n][w][e]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu não sabia sobre o bento especial. Como[n]presidente do conselho estudantil[n]eu deveria ter feito isso.[n][w][e]
+[s][f 4 10 65535 0 0]Estou feliz por ter provado.[n]Tudo graças a vocês, que estão entre os[n]melhores dez alunos.[n][w][e]
 
 [msg MSG_032_5_0]
-[s][vp 8 0 0 0 65535 0]Comer a lancheira especial causou uma[n]mudança em [n][f 4 1] e a personalidade de Makoto.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]O almoço especial[n]causou uma mudança em [f 4 1][n]e na Persona de Makoto.[n][f 1 3 65535][w][e]
 
 [msg MSG_032_6_0]
-[s][vp 8 0 0 0 65535 0]Makoto ganhou [clr 2][var 1][clr 27] [clr 1]Max HP [clr 27], Assim, [n][clr 2][var 2][clr 27] [clr 1]Max sp [clr 27], e [clr 2][var 3][clr 27]para cada um de [clr 1]St [clr 27], Assim, [clr 1]MA [clr 27], Assim, [clr 1]En [clr 27], Assim, [clr 1]Ag [clr 27], e [clr 1]Lu [clr 27].[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Makoto obteve [clr 2][var 1][clr 27] [clr 1]max HP[clr 27],[n][clr 2][var 2][clr 27] [clr 1]max SP[clr 27 ] e [clr 2][var 3][clr 27] para[n][clr 1]Fr[clr 27], [clr 1]Ma[clr 27], [clr 1]Rs[clr 27], [clr  1 ]Ag[clr 27] e [clr 1]Fo[clr 27].[n][f 1 3 65535][w][e]
 
 [msg MSG_033_0_0 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Isso foi delicioso. Bem, agora vamos estudar[n]duro nas aulas da tarde.[n][w][e]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Delicioso.[n]Bem, agora vamos nos ocupar[n]nas aulas da tarde.[n][w][e]
 
 [msg MSG_034_0_0 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Isso foi delicioso. Estou muito feliz que[n]você me convidou.[n][w][e]
-[s][f 4 10 65535 0 0]Bem, agora vamos estudar duro nas aulas da[n]tarde.[n][w][e]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Delicioso. Estou muito[n]feliz por você ter me convidado.[n][w][e]
+[s][f 4 10 65535 0 0]Bem, agora vamos nos ocupar[n]nas aulas da tarde.[n][w][e]
 
 [msg MSG_035_0_0 [Haru]]
-[s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Isso foi delicioso. A quantidade de tempero[n]de sal foi perfeita.[n][w][e]
+[s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Estava delicioso.[n]A quantidade de molho[n]estava perfeita.[n][w][e]
 
 [msg MSG_036_0_0 [Haru]]
-[s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Obrigado por me convidar para almoçar.[n]Eu posso me ver gostando desse sabor limpo e[n]simples cada vez mais.[n][w][e]
+[s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Obrigado pelo convite para almoçar.[n]Acho que este sabor simples[n]vai ser cada vez mais do meu agrado.[n][w][e]
 
 [msg MSG_037_0_0 [Haru]]
-[s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O peixe frito era macio e suculento, e você[n]poderia dizer que o sashimi é fresco.[n][w][e]
+[s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O peixe frito estava tenro[n]suco, e é evidente[n]que o sashimi estava fresco.[n][w][e]
 
 [msg MSG_038_0_0 [Haru]]
-[s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*Giggle* Esta lancheira especial fez[n]parecer que eu estava comendo algo especial[n]para o ano novo.[n][w][e]
-[s][f 4 10 65535 0 0]Você é incrível de poder colocar nos dez[n]primeiros da escola.[n][w][e]
+[s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Hehehe. Este bento especial foi como um jantar de[n]véspera de Ano Novo.[n][w][e]
+[s][f 4 10 65535 0 0]Você é incrível, ficou entre os dez melhores[n]alunos.[n][w][e]
 
 [msg MSG_038_5_0]
-[s][vp 8 0 0 0 65535 0]Comer a lancheira especial causou uma[n]mudança em [n][f 4 1] e a persona de Haru.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]O almoço especial[n]causou uma mudança em [f 4 1][n]e na Persona de Haru.[n][f 1 3 65535][w][e]
 
 [msg MSG_038_6_0]
-[s][vp 8 0 0 0 65535 0]Haru ganhou [clr 2][var 1][clr 27] [clr 1]Max HP [clr 27], Assim, [n][clr 2][var 2][clr 27] [clr 1]Max sp [clr 27], e [clr 2][var 3][clr 27]para cada um de [clr 1]St [clr 27], Assim, [clr 1]MA [clr 27], Assim, [clr 1]En [clr 27], Assim, [clr 1]Ag [clr 27], e [clr 1]Lu [clr 27].[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Haru obteve [clr 2][var 1][clr 27] [clr 1]Max HP[clr 27],[n][clr 2][var 2][clr 27] [clr 1]Max SP[clr 27 ] e [clr 2][var 3][clr 27] para[n][clr 1]Fr[clr 27], [clr 1]Ma[clr 27], [clr 1]Rs[clr 27], [clr  1 ]Ag[clr 27] e [clr 1]Fo[clr 27].[n][f 1 3 65535][w][e]
 
 [msg MSG_039_0_0 [Haru]]
-[s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Oh, eu me sinto tão cheio. Bem, vamos fazer[n]o possível para passar pelas aulas da tarde.[n][w][e]
+[s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Oh, eu me sinto tão cheio. Bem,[n]agora vamos encarar[n]as nossas aulas da tarde da melhor maneira possível.[n][w][e]
 
 [msg MSG_040_0_0 [Haru]]
-[s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Estou muito feliz que você me convidou.[n]Obrigada.[n][w][e]
-[s][f 4 10 65535 0 0]Bem, boa sorte com suas aulas da tarde.[n][w][e]
+[s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Estou muito feliz[n]com o seu convite. Obrigada.[n][w][e]
+[s][f 4 10 65535 0 0]Bem, boa sorte com[n]suas aulas da tarde.[n][w][e]
 
 [msg MSG_041_0_0 [Mishima]]
-[s][bup 0 111 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Este peixe é barato, mas ainda é muito bom![n]Ofertas como essa são as melhores![n][w][e]
+[s][bup 0 111 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]É um peixe barato, mas[n]muito bom![n]Essas refeições são uma verdadeira pechincha![n][w][e]
 
 [msg MSG_042_0_0 [Mishima]]
-[s][bup 0 111 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu sempre como carne, mas peixe cozido[n]também é muito bom, de vez em quando![n][w][e]
+[s][bup 0 111 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu sempre como carne, mas até peixe cozido não[n]faz mal de vez em quando![n][w][e]
 
 [msg MSG_043_0_0 [Mishima]]
-[s][bup 0 111 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Coloquei o Sashimi e o peixe frito no meu[n]arroz, então agora tenho uma tigela dupla[n]combo![n][w][e]
-[s][f 4 10 65535 0 0]É assim que eu recomendo que todos comem.[n]Então, o que você acha? Você pode me copiar[n]na próxima vez.[n][w][e]
+[s][bup 0 111 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu coloco sashimi e[n]peixe frito no meu arroz e[n]dobro o sabor![n][w][e]
+[s][f 4 10 65535 0 0]Aconselho a todos que os comam[n]assim. O que você acha?[n]Da próxima vez, você pode me copiar.[n][w][e]
 
 [msg MSG_044_0_0 [Mishima]]
-[s][bup 0 111 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Uau, este é um almoço bastante chique.[n]É tão bom quanto o que eu costumo ter para o[n]jantar.[n][w][e]
-[s][f 4 10 65535 0 0]Mas cara, eu não posso acreditar que você[n]chegou aos dez primeiros da escola. Isso é[n]incrível![n][w][e]
+[s][bup 0 111 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Uau, isso é um almoço de luxo.[n]Está à altura do meu[n]jantar habitual.[n][w][e]
+[s][f 4 10 65535 0 0]De qualquer forma, você conseguiu[n]entrar entre os dez melhores[n]alunos. Incrível![n][w][e]
 
 [msg MSG_044_5_0]
-[s][vp 8 0 0 0 65535 0]Comer a lancheira especial causou uma[n]mudança em [n][f 4 1]Persona.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]O almoço especial causou uma[n]mudança na Persona[n]de [f 4 1].[n][f 1 3 65535][w][e]
 
 [msg MSG_044_6_0]
-[s][vp 8 0 0 0 65535 0][f 4 1]'s [clr 1]Max HP [clr 27]+ [clr 2][var 1][clr 27], Assim, [clr 1]Max sp [clr 27]+ [clr 2][var 2][clr 27], e [clr 1]Força [clr 27], Assim, [clr 1]Magia [clr 27], Assim, [clr 1]Resistência [clr 27], Assim, [n][clr 1]Agilidade [clr 27], e [clr 1]Sorte [clr 27]+ [clr 2][var 3][clr 27].[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 4 1]: [clr 1]max HP[clr 27] +[clr 2][var 1][clr 27],[n][clr 1]max SP[clr 27] +[clr 2][var 2][clr 27] [n][n ]e [clr 1]Força[clr 27], [clr 1]Magia[clr 27],[n][clr 1]Resistência[clr 27], [clr 1]Agilidade[n][clr 27] e [clr 1]Sorte [clr 27] +[clr 2][n][var 3][clr 27].[n][f 1 3 65535][w][e]
 
 [msg MSG_045_0_0 [Mishima]]
-[s][bup 0 111 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O time de vôlei sempre costumava agrupar a[n]cafeteria, então tem sido difícil para mim[n]vir aqui...[n][w][e]
-[s][f 4 10 65535 0 0]Estou super feliz que você me convidou![n]Obrigado! Vamos fazer isso de novo![n][w][e]
+[s][bup 0 111 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Antes, a cantina era monopolizada[n]pelo time de vôlei e era[n]difícil chegar lá.[n][w][e]
+[s][f 4 10 65535 0 0]Estou tão feliz que você[n]me convidou! Obrigado! Temos que fazer de novo![n][w][e]
 
 [msg MSG_046_0_0 [Kawakami]]
-[s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sempre que eu grelhe peixe, a área da[n]barriga sempre fica amarga. Eu me pergunto[n]por que isso é.[n][w][e]
+[s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Quando grelho o peixe,[n]a parte da barriga fica sempre[n]amarga. Eu quero saber porque.[n][w][e]
 
 [msg MSG_047_0_0 [Kawakami]]
-[s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu me pergunto por que peixe cozido sempre[n]tem esses Xs cortados neles...[n][w][e]
+[s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Quem sabe porque gravam sempre[n]aqueles X no peixe cozido...[n][w][e]
 
 [msg MSG_048_0_0 [Kawakami]]
-[s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Isso foi tão good. E era fofo como havia um[n]dente-de-leão no Sashimi![n][w][e]
+[s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Delíciaoooooo.[n]E aquele dente-de-leão no sashimi[n]estava tão fofo![n][w][e]
 
 [msg MSG_049_0_0 [Kawakami]]
-[s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Obrigado pela comida!... Eu comi tudo isso[n]que estava dentro daquela lancheira[n]especial.[n][w][e]
-[s][f 4 10 65535 0 0]Como seu professor de sala de aula, tenho[n]orgulho de que você tenha classificado[n]entre os dez primeiros desta escola.[n][w][e]
-[s][f 4 10 65535 0 0]Continue com o bom trabalho, ok?[n][w][e]
+[s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Obrigado pelo almoço![n]Eu comi o bento especial[n]até a última migalha.[n][w][e]
+[s][f 4 10 65535 0 0]Como seu professor, estou[n]orgulhoso de sua colocação entre[n]os dez melhores da escola.[n][w][e]
+[s][f 4 10 65535 0 0]Continue assim, está bem?[n][w][e]
 
 [msg MSG_049_5_0]
-[s][vp 8 0 0 0 65535 0]Comer a lancheira especial causou uma[n]mudança em [n][f 4 1]Persona.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]O almoço especial causou uma[n]mudança na Persona[n]de [f 4 1].[n][f 1 3 65535][w][e]
 
 [msg MSG_049_6_0]
-[s][vp 8 0 0 0 65535 0][f 4 1]'s [clr 1]Max HP [clr 27]+ [clr 2][var 1][clr 27], Assim, [clr 1]Max sp [clr 27]+ [clr 2][var 2][clr 27], e [clr 1]Força [clr 27], Assim, [clr 1]Magia [clr 27], Assim, [clr 1]Resistência [clr 27], Assim, [n][clr 1]Agilidade [clr 27], e [clr 1]Sorte [clr 27]+ [clr 2][var 3][clr 27].[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 4 1]: [clr 1]max HP[clr 27] +[clr 2][var 1][clr 27],[n][clr 1]max SP[clr 27] +[clr 2][var 2][clr 27] [n][n ]e [clr 1]Força[clr 27], [clr 1]Magia[clr 27],[n][clr 1]Resistência[clr 27], [clr 1]Agilidade[n][clr 27] e [clr 1]Sorte [clr 27] +[clr 2][n][var 3][clr 27].[n][f 1 3 65535][w][e]
 
 [msg MSG_050_0_0 [Kawakami]]
-[s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Estou cansado de comer comida de[n]conveniência Bento. Esta foi uma mudança[n]muito boa de ritmo.[n][w][e]
-[s][f 4 10 65535 0 0]Se você quiser me ligar para almoçar[n]novamente, me avise.[n][w][e]
+[s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu estava cansado de comer[n]bento de loja de conveniência.[n]Foi uma boa mudança.[n][w][e]
+[s][f 4 10 65535 0 0]Se você quiser almoçar[n]juntos novamente, me avise.[n][w][e]
 
 [msg MSG_051_0_0 [Kawakami]]
-[s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Estou muito feliz que você me convidou, mas[n]desde que estamos na escola, não podemos...[n][w][e]
-[s][f 4 10 65535 0 0]Ah deixa pra lá! Vou deixar você tentar[n]alguns dos meus cozimentos na próxima vez.[n][w][e]
+[s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Estou muito feliz com seu convite,[n]mas como estamos[n]na escola, não podemos...[n][w][e]
+[s][f 4 10 65535 0 0]Ah, não importa! Da próxima vez[n]vou cozinhar para você.[n][w][e]
 

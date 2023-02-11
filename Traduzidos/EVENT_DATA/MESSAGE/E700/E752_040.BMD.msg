@@ -1,69 +1,69 @@
 [msg MSG_000_0_0 [Sojiro]]
-[s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]Ah, certo, o dia dos namorados de hoje.[n]Não é à toa que havia tantos caras trazendo[n]garotas aqui.[n][f 1 3 65535][w][e]
+[s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]Ah sim, hoje é Dia dos Namorados.[n]É por isso que[n]tãos casais vieram.[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Sojiro]]
-[s][bup 0 103 1 0 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Você não tem nada emocionante acontecendo?[n]Quero dizer, você esteve aqui quase um ano[n]inteiro.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Sabe, quando eu era jovem, garoto...[n][f 1 3 65535][w][e]
+[s][bup 0 103 1 0 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Você não tem nada legal planejado? Quero dizer,[n]você está aqui há quase um ano.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Se você soubesse na minha época[n]quantos...[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Chihaya]]
-[s][bup 0 113 0 6 0][f 4 10 65535 0 0][vp 8 0 0 4 20 0]Com licença...[n][f 1 3 65535][w][e]
+[s][bup 0 113 0 6 0][f 4 10 65535 0 0][vp 8 0 0 4 20 0]Permissão...[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Chihaya]]
 [s][bup 0 113 0 6 0][f 4 10 65535 0 0][vp 8 0 0 5 20 0]Ah...[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Sojiro]]
-[s][bup 0 103 1 0 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Ohhh... você deveria ter me dito.[n][f 1 3 65535][w][e]
+[s][bup 0 103 1 0 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Oooh... Mas você poderia ter me contado.[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Sojiro]]
-[s][bup 0 103 1 0 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Aqui, vou deixar a loja para você.[n][f 1 3 65535][w][e]
+[s][bup 0 103 1 0 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]O lugar é todo seu.[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Sojiro]]
-[s][bup 0 103 1 0 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Divirtam-se...[n][f 1 3 65535][w][e]
+[s][bup 0 103 1 0 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Aproveite.[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Chihaya]]
 [s][bup 0 113 1 6 0][f 4 10 65535 0 0][vp 8 0 0 9 20 0]Boa noite.[n][f 1 3 65535][w][e]
 
 [sel SEL_008_0_0 top]
-[s]Sente-se.[e]
-[s]Vou fazer um pouco de café.[e]
+[s]Sentar-se.[e]
+[s]Vou fazer um café para você.[e]
 
 [msg MSG_009_0_0 [Chihaya]]
-[s][bup 0 113 1 6 0][f 4 10 65535 0 0][vp 8 0 0 10 20 0]Obrigada.[n][f 1 3 65535][w][e]
+[s][bup 0 113 1 6 0][f 4 10 65535 0 0][vp 8 0 0 10 20 0]Obrigado.[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Chihaya]]
-[s][bup 0 113 1 6 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Faz algum tempo. Como você tem estado?[n][f 1 3 65535][w][e]
+[s][bup 0 113 1 6 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Já faz muito tempo. Como você está?[n][f 1 3 65535][w][e]
 
 [sel SEL_011_0_0 top]
-[s]Eu tenho estado bem.[e]
-[s]E quanto a você?[e]
-[s]Bem, não é ótimo.[e]
+[s]Estou bem.[e]
+[s]E como você está?[e]
+[s]Bem, não ótimo.[e]
 
 [msg MSG_012_0_0 [Chihaya]]
-[s][bup 0 113 0 6 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]É bom ouvir isso. Oh, quero dizer...[n][f 1 3 65535][w][e]
+[s][bup 0 113 0 6 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Fico feliz em ouvir isso. Ah, aqui...[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Chihaya]]
-[s][bup 0 113 0 6 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Você tem que responder à minha pergunta[n]primeiro.[n][f 1 3 65535][w][e]
+[s][bup 0 113 0 6 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Você precisará responder[n]minha pergunta primeiro.[n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Chihaya]]
-[s][bup 0 113 0 6 0][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Isso é o que eu tinha medo... eu sei que[n]você sofreu tanto.[n][f 1 3 65535][w][e]
+[s][bup 0 113 0 6 0][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]É por isso que eu estava preocupado... eu sei[n]quantas coisas você teve que suportar.[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Chihaya]]
-[s][bup 0 113 2 6 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Ahem![n][f 1 3 65535][w][e]
-[s][bup 0 113 3 6 0][f 4 10 65535 0 0][f 4 24 0 6 6 38 5 100][vp 8 0 0 16 65535 0]Eu descobri que você foi levado embora.[n]Preso.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Eu estava com tanto medo por você. Você sabe[n]como isso se sentiu?[n][f 1 3 65535][w][e]
+[s][bup 0 113 2 6 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Aham![n][f 1 3 65535][w][e]
+[s][bup 0 113 3 6 0][f 4 10 65535 0 0][f 4 24 0 6 6 38 5 100][vp 8 0 0 16 65535 0]Eu descobri que você foi levado.[n]Preso.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Eu estava preocupado com você. Você pode[n]imaginar o que eu senti?[n][f 1 3 65535][w][e]
 
 [sel SEL_016_0_0 top]
 [s]Desculpe.[e]
-[s]Foi mal.[e]
+[s]Minha culpa.[e]
 
 [msg MSG_017_0_0 [Chihaya]]
-[s][bup 0 113 1 6 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Bom![n][f 1 3 65535][w][e]
-[s][bup 0 113 0 6 0][f 4 10 65535 0 0][f 4 24 0 6 6 35 3 100][vp 8 0 0 19 65535 0]Para ser sincero, eu sabia que você voltaria[n]para casa em segurança. Eu vi isso em suas[n]leituras.[n][f 1 3 65535][w][e]
-[s][bup 0 113 3 6 0][f 4 10 65535 0 0][f 4 24 0 6 6 38 5 100][vp 8 0 0 20 65535 0]Ainda assim, eu não pude deixar de me[n]preocupar. Afinal, se algo mais aconteceu...[n][f 1 3 65535][w][e]
+[s][bup 0 113 1 6 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Bravo![n][f 1 3 65535][w][e]
+[s][bup 0 113 0 6 0][f 4 10 65535 0 0][f 4 24 0 6 6 35 3 100][vp 8 0 0 19 65535 0]Honestamente, eu sabia que você[n]voltaria são e salvo. Eu vi.[n][f 1 3 65535][w][e]
+[s][bup 0 113 3 6 0][f 4 10 65535 0 0][f 4 24 0 6 6 38 5 100][vp 8 0 0 20 65535 0]No entanto, eu ainda estava preocupado.[n]Se algo mais acontecesse...[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Chihaya]]
-[s][bup 0 113 0 6 0][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]Oh, me desculpe.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Lá vou eu de novo, tentador destino...[n][f 1 3 65535][w][e]
+[s][bup 0 113 0 6 0][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]Oh, me desculpe...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Aqui vamos nós de novo, eu tento o destino[n]novamente[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Chihaya]]
 [s][bup 0 113 1 6 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Aqui, eu queria te dar isso.[n][f 1 3 65535][w][e]
@@ -71,20 +71,20 @@
 [sel SEL_020_0_0 top]
 [s]É chocolate?[e]
 [s]O que é isso?[e]
-[s]Estou tão feliz.[e]
+[s]Eu estou tão feliz.[e]
 
 [msg MSG_021_0_0 [Chihaya]]
-[s][bup 0 113 1 6 0][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]É claro. Afinal, é dia dos namorados.[n][f 1 3 65535][w][e]
+[s][bup 0 113 1 6 0][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]É claro. Afinal, é Dia dos Namorados.[n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Chihaya]]
-[s][bup 0 113 1 6 0][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]Você não sabe que dia é?[n][f 1 3 65535][w][e]
+[s][bup 0 113 1 6 0][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]Não sabe que dia é hoje?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 26 65535 0]Dia dos Namorados![n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Chihaya]]
-[s][bup 0 113 1 6 0][f 4 10 65535 0 0][vp 8 0 0 27 65535 0]Fico feliz em ouvir isso. Receio que não[n]seja caseiro, no entanto.[n][f 1 3 65535][w][e]
+[s][bup 0 113 1 6 0][f 4 10 65535 0 0][vp 8 0 0 27 65535 0]Fico feliz em ouvir isso. Infelizmente[n]não é feito em casa.[n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [Chihaya]]
-[s][bup 0 113 0 6 0][f 4 10 65535 0 0][vp 8 0 0 28 65535 0]Ainda estou contando fortunas, mas cortei[n]todos os laços com o presidente.[n][f 1 3 65535][w][e]
+[s][bup 0 113 0 6 0][f 4 10 65535 0 0][vp 8 0 0 28 65535 0]Ainda prevejo o futuro,[n]mas cortei relações com[n]o presidente.[n][f 1 3 65535][w][e]
 
 [sel SEL_025_0_0 top]
 [s]Fico feliz em ouvir isso.[e]
@@ -92,75 +92,75 @@
 
 [msg MSG_026_0_0 [Chihaya]]
 [s][bup 0 113 1 6 0][f 4 10 65535 0 0][vp 8 0 0 29 65535 0]Obrigado![n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 30 65535 0]Está levando tempo, mas estou recebendo mais[n]clientes que realmente confiam em mim.[n][f 1 3 65535][w][e]
-[s][bup 0 113 4 6 0][f 4 10 65535 0 0][f 4 24 0 6 6 39 3 100][vp 8 0 0 31 65535 0]Oh, mas você não precisa se preocupar...[n][f 1 3 65535][w][e]
-[s][bup 0 113 6 6 0][f 4 10 65535 0 0][f 4 24 0 6 6 42 5 100][vp 8 0 0 32 65535 0]Não importa o quão ocupado eu fique... você[n]sempre virá primeiro.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 30 65535 0]Leva tempo, mas os clientes que[n]acreditam em mim estão aumentando.[n][f 1 3 65535][w][e]
+[s][bup 0 113 4 6 0][f 4 10 65535 0 0][f 4 24 0 6 6 39 3 100][vp 8 0 0 31 65535 0]Ah, mas você não tem nada[n]com o que se preocupar...[n][f 1 3 65535][w][e]
+[s][bup 0 113 6 6 0][f 4 10 65535 0 0][f 4 24 0 6 6 42 5 100][vp 8 0 0 32 65535 0]Não importa o quão ocupado eu esteja.[n]Você sempre terá precedência.[n][f 1 3 65535][w][e]
 
 [msg MSG_027_0_0 [Chihaya]]
-[s][bup 0 113 0 6 0][f 4 10 65535 0 0][vp 8 0 0 33 65535 0]Afinal, posso ser um contador de fortuna,[n]mas não posso deixar minha vida girar em[n]torno dos romances de outras pessoas...[n][f 1 3 65535][w][e]
+[s][bup 0 113 0 6 0][f 4 10 65535 0 0][vp 8 0 0 33 65535 0]Embora eu viva por[n]adivinhações, não posso me concentrar[n]apenas nas histórias de amor de outras pessoas...[n][f 1 3 65535][w][e]
 
 [msg MND_028_0_0]
-[s][vp 8 0 0 0 65535 0]Eu deveria dizer a Chihaya que vou para[n]casa...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Eu deveria dizer a Chihaya[n]que estou indo para casa...[n][f 1 3 65535][w][e]
 
 [msg MSG_029_0_0 [Chihaya]]
 [s][bup 0 113 0 6 0][f 4 10 65535 0 0][vp 8 0 0 34 65535 0]Hum...[n][f 1 3 65535][w][e]
 
 [sel SEL_030_0_0 top]
-[s]Voltarei à minha cidade natal.[e]
-[s]Eu estou indo para casa.[e]
+[s]Vou voltar para minha cidade.[e]
+[s]Eu vou para casa.[e]
 
 [msg MSG_031_0_0 [Chihaya]]
-[s][bup 0 113 4 6 0][f 4 10 65535 0 0][vp 8 0 0 35 65535 0]...Huh?[n][f 1 3 65535][w][e]
+[s][bup 0 113 4 6 0][f 4 10 65535 0 0][vp 8 0 0 35 65535 0]Hã?[n][f 1 3 65535][w][e]
 
 [msg MSG_032_0_0 [Chihaya]]
 [s][bup 0 113 3 6 0][f 4 10 65535 0 0][vp 8 0 0 36 65535 0]Eu gostaria de sentar ao seu lado...[n][f 1 3 65535][w][e]
 
 [msg MSG_033_0_0 [Chihaya]]
-[s][bup 0 113 3 6 0][f 4 10 65535 0 0][vp 8 0 0 37 65535 0]Então você realmente está saindo? Que logo[n]também...[n][f 1 3 65535][w][e]
+[s][bup 0 113 3 6 0][f 4 10 65535 0 0][vp 8 0 0 37 65535 0]Então você realmente está indo embora?[n]Tão cedo também...[n][f 1 3 65535][w][e]
 
 [sel SEL_034_0_0 top]
 [s]Desculpe, é tão repentino.[e]
-[s]Eu vou te ver.[e]
+[s]Eu voltarei para te ver.[e]
 
 [msg MSG_035_0_0 [Chihaya]]
-[s][bup 0 113 2 6 0][f 4 10 65535 0 0][vp 8 0 0 38 65535 0]Eu sinto que só tenho que te ver de novo.[n][f 1 3 65535][w][e]
-[s][bup 0 113 3 6 0][f 4 10 65535 0 0][f 4 24 0 6 6 38 5 100][vp 8 0 0 39 65535 0]Ainda...[n][f 1 3 65535][w][e]
+[s][bup 0 113 2 6 0][f 4 10 65535 0 0][vp 8 0 0 38 65535 0]E pensar que acabei de te ver de novo.[n][f 1 3 65535][w][e]
+[s][bup 0 113 3 6 0][f 4 10 65535 0 0][f 4 24 0 6 6 38 5 100][vp 8 0 0 39 65535 0]Mas...[n][f 1 3 65535][w][e]
 
 [msg MSG_036_0_0 [Chihaya]]
-[s][bup 0 113 1 6 0][f 4 10 65535 0 0][vp 8 0 0 40 65535 0]Você promete? Então eu vou esperar por você.[n][f 1 3 65535][w][e]
+[s][bup 0 113 1 6 0][f 4 10 65535 0 0][vp 8 0 0 40 65535 0]É uma promessa? Vou esperar por você.[n][f 1 3 65535][w][e]
 
 [msg MSG_037_0_0 [Chihaya]]
-[s][bup 0 113 3 6 0][f 4 10 65535 0 0][vp 8 0 0 41 65535 0]Honestamente, estou triste em ouvir, mas...[n][f 1 3 65535][w][e]
-[s][bup 0 113 1 6 0][f 4 10 65535 0 0][f 4 24 0 6 6 42 5 100][vp 8 0 0 42 65535 0]Se isso é realmente o que você quer,[n]então... eu vou te apoiar. Não importa o[n]quão longe você vai. Eu sempre estarei[n]pensando em você.[n][f 1 3 65535][w][e]
+[s][bup 0 113 3 6 0][f 4 10 65535 0 0][vp 8 0 0 41 65535 0]Na verdade, sinto muito, mas...[n][f 1 3 65535][w][e]
+[s][bup 0 113 1 6 0][f 4 10 65535 0 0][f 4 24 0 6 6 42 5 100][vp 8 0 0 42 65535 0]Se é isso que você quer, então... eu vou[n]apoiá-lo. Não importa o quão longe você vá.[n]Sempre pensarei em você.[n][f 1 3 65535][w][e]
 
 [msg MSG_038_0_0 [Chihaya]]
-[s][bup 0 113 0 6 0][f 4 10 65535 0 0][vp 8 0 0 43 65535 0]Na verdade, eu estou me perguntando desde[n]que vi você pela primeira vez hoje...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 44 65535 0]Mas... algo mudou em sua aura, não? Suas[n]energias têm uma cor diferente da habitual.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 45 65535 0]Também não faz muito tempo que eu te vi[n]durar. Parece estranho.[n][f 1 3 65535][w][e]
+[s][bup 0 113 0 6 0][f 4 10 65535 0 0][vp 8 0 0 43 65535 0]Na verdade, estou me perguntando[n]desde que nos conhecemos hoje ...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 44 65535 0]Mas... sua aura mudou,[n]acerta? Você tem energia de uma[n]cor diferente.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 45 65535 0]Não faz muito tempo desde[n]nossa última reunião. Isso é estranho.[n][f 1 3 65535][w][e]
 
 [sel SEL_039_0_0 top]
-[s]Você acha?[e]
-[s]Eu me pergunto.[e]
+[s]Você acredita?[e]
+[s]Pode ser.[e]
 
 [msg MSG_040_0_0 [Chihaya]]
 [s][bup 0 113 1 6 0][f 4 10 65535 0 0][vp 8 0 0 46 65535 0]Oh, não seja tão evasivo![n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][bup 0 113 7 6 0][vp 8 0 0 47 65535 0][f 4 24 0 6 6 39 5 100]Mas você não é o único que mudou, suponho.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][bup 0 113 7 6 0][vp 8 0 0 47 65535 0][f 4 24 0 6 6 39 5 100]Mas você não é o único que[n]mudou, eu suponho.[n][f 1 3 65535][w][e]
 
 [msg MSG_041_0_0 [Chihaya]]
-[s][bup 0 113 6 6 0][f 4 10 65535 0 0][vp 8 0 0 48 65535 0]Fico feliz se minha fortuna narra traz[n]alegria às pessoas, mas... há uma pessoa[n]cuja felicidade eu quero acima de tudo.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 49 65535 0]Se meu poder me permite ajudá-los, mesmo um[n]pouco, então... toda a dor que me trouxe[n]valeu a pena.[n][f 1 3 65535][w][e]
+[s][bup 0 113 6 6 0][f 4 10 65535 0 0][vp 8 0 0 48 65535 0]É bom ajudar com adivinhações,[n]mas eu me preocupo com a felicidade[n]de uma pessoa em particular.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 49 65535 0]Se com meu poder eu puder ajudá-la,[n]mesmo que só um pouquinho, então...[n]a dor do passado fará sentido.[n][f 1 3 65535][w][e]
 
 [sel SEL_042_0_0 top]
-[s]É essa pessoa...[e]
-[s]Você está falando sobre...[e]
+[s]E essa pessoa é...?[e]
+[s]Você está falando sobre...?[e]
 
 [msg MSG_043_0_0 [Chihaya]]
-[s][bup 0 113 6 6 0][f 4 10 65535 0 0][vp 8 0 0 50 65535 0]Você realmente vai me fazer dizer isso?[n][f 1 3 65535][w][e]
+[s][bup 0 113 6 6 0][f 4 10 65535 0 0][vp 8 0 0 50 65535 0]Você realmente quer me fazer dizer isso?[n][f 1 3 65535][w][e]
 
 [msg MSG_044_0_0 [Chihaya]]
-[s][bup 0 113 6 6 0][f 4 10 65535 0 0][vp 8 0 0 51 65535 0]Enquanto eu tiver você, posso superar[n]qualquer coisa que o destino jogue para mim.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 52 65535 0]... Não preciso ver o futuro para saber[n]disso.[n][f 1 3 65535][w][e]
+[s][bup 0 113 6 6 0][f 4 10 65535 0 0][vp 8 0 0 51 65535 0]Se você está aqui, posso enfrentar[n]qualquer destino.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 52 65535 0]...Você não precisa de[n]adivinhação para descobrir.[n][f 1 3 65535][w][e]
 
 [msg MND_045_0_0]
-[s][vp 8 0 0 0 65535 0]Passei uma noite romântica com Chihaya...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Passei uma noite[n]romântica com Chihaya...[n][f 1 3 65535][w][e]
 

@@ -1,175 +1,175 @@
 [msg MSG_000_0_0 [Justine]]
-[s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 2 0 12021 65535 0]Entendo- nossas informações anteriores[n]estavam corretas.[n]Parece haver um grande número de objetos em[n]exibição aqui.[n][f 1 3 65535][w][e]
+[s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 2 0 12021 65535 0]Bem... a informação estava correta.[n]Parece haver muitos[n]objetos em exibição aqui.[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Caroline]]
-[s][bup 0 102 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]São todas as exposições de arte? Já ouvi[n]falar deles antes- aparentemente, eles[n]envolvem os sentidos estéticos dos seres[n]humanos ou algo assim.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vamos inspecionar as instalações.[n][f 1 3 65535][w][e]
+[s][bup 0 102 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Seria uma exposição de arte? Já[n]ouvi falar...parece envolver[n]o senso estético humano...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vamos, vamos revistar o prédio.[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Justine]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 102 15 301 65535][bup 0 101 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você é capaz de apreciar a arte corretamente?[n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 102 15 301 65535][bup 0 101 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você tem ideia de como alguém[n]aprecia a arte adequadamente?[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Caroline]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 102 15 301 1][vp 8 2 0 55020 65535 0]O que você quer dizer com isso!?[n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 102 15 301 1][vp 8 2 0 55020 65535 0]O que você está insinuando!?![n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Justine]]
-[s][bup 0 101 5 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Pare de gritar tão alto. Os sinais o proíbem.[n][f 1 3 65535][w][e]
+[s][bup 0 101 5 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Pare de falar alto.[n]As placas proíbem.[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Caroline]]
-[s][bup 0 102 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu-eu sei... de qualquer maneira, vamos[n]apreciar alguma arte já.[n][f 1 3 65535][w][e]
+[s][bup 0 102 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]L-Eu sei... Seja como for,[n]apresse-se para apreciar[n]esta arte.[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Justine]]
-[s][bup 0 101 3 0 0][f 4 10 65535 0 0][vp 8 2 0 12066 65535 0]... ufa. O número de peças em exibição[n]excedeu em muito minhas expectativas.[n][f 1 3 65535][w][e]
+[s][bup 0 101 3 0 0][f 4 10 65535 0 0][vp 8 2 0 12066 65535 0]... Fiuuu. O número de trabalhos na[n]exposição superou em muito[n]as minhas expectativas.[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Caroline]]
-[s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]A arte certamente assume muitas formas, no[n]entanto.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Parte do trabalho foi totalmente[n]fotográfica- realista. Na verdade, não[n]seria mais fácil tirar fotos nessas situações?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E o que há com esses "retratos" ou o que[n]eles são chamados? Qual é o sentido de[n]pintar um rosto humano gigante?[n][f 1 3 65535][w][e]
+[s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bem, arte[n]não pode ser considerada carente de variedade.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Algumas obras eram decididamente[n]fotorrealistas. Mas não seria mais[n]fácil tirar uma foto diretamente?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E então queremos falar sobre esses[n]"retratos" ou como eles são chamados?[n]Qual é o sentido de pintar um rosto grande?[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Justine]]
-[s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Essas "paisagens" são ainda mais[n]incompreensíveis. O que há de tão[n]interessante nas pinturas de algum terreno[n]opaco?[n][f 1 3 65535][w][e]
+[s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]As "paisagens" são ainda mais misteriosas.[n]O que há de interessante em[n]pintar um terreno chato?[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Justine]]
-[s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Onde está a diversão em pintar humanos ou[n]paisagens vivas apenas para que outros[n]humanos possam olhar para isso?[n][f 1 3 65535][w][e]
+[s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Qual é a graça de pintar[n]humanos ou cenários apenas para[n]outros humanos olharem?[n][f 1 3 65535][w][e]
 
 [sel SEL_010_0_0 top]
-[s]Eles vêem "verdadeira beleza".[e]
+[s]É apreender a sua "verdadeira beleza".[e]
 [s]É para auto-satisfação.[e]
-[s]Não é divertido.[e]
+[s]Não é engraçado.[e]
 
 [msg MSG_011_0_0 [Justine]]
-[s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ah, eu vejo agora. Há pinturas de flores e[n]mulheres nobres aqui que certamente se[n]encaixariam nessa descrição.[n][f 1 3 65535][w][e]
+[s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ah entendi. Existem algumas pinturas[n]de flores e mulheres nobres que[n]certamente se encaixam na descrição.[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Caroline]]
-[s][bup 0 102 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas há pinturas de coisas como montanhas[n]vazias e homens velhos enrugados também.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Também existe "verdadeira beleza" neles?[n]Eu não entendo...[n][f 1 3 65535][w][e]
+[s][bup 0 102 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas também há imagens de coisas[n]como montanhas desoladas e[n]velhos enrugados.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Existe alguma "verdadeira beleza" neles também?[n]Eu simplesmente não entendo...[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Justine]]
-[s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Então você quer dizer que os artistas apenas[n]criam o que eles querem ver existir?[n][f 1 3 65535][w][e]
+[s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Então você está dizendo que[n]artistas representam apenas o que[n]eles querem ver?[n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Caroline]]
-[s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E então eles apenas se sentam e ouvem as[n]pessoas discutirem e apreciam seu trabalho[n]em lugares como este?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Um gesto tão inútil, mas tão humano ao mesmo[n]tempo...[n][f 1 3 65535][w][e]
+[s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E então eles se sentam e[n]ouvem as pessoas discutirem e[n]apreciarem seu trabalho?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Que gesto inútil e ao mesmo tempo[n]tremendamente humano...[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Justine]]
-[s][bup 0 101 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Quer dizer que não é uma forma de[n]entretenimento?[n]Agora, o propósito é ainda mais um mistério.[n][f 1 3 65535][w][e]
+[s][bup 0 101 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Quero dizer, não é uma forma de[n]entretenimento? Agora o fim[n]é ainda mais incompreensível para mim.[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Caroline]]
-[s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Acho que se há algo que não sabemos, não há[n]como você.[n][f 1 3 65535][w][e]
+[s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Se houver algo que[n]não saibamos, duvido que você[n]saiba.[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Caroline]]
-[s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Falando nisso, houve uma exposição que[n]parecia um monte de rabiscos. Por que algo[n]assim seria exibido?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu posso entender a arte diferente com[n]diferentes níveis de artesanato, mas não[n]era simplesmente a par da criança?[n][f 1 3 65535][w][e]
+[s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]A propósito, havia um trabalho semelhante[n]e uma confusão de rabiscos.[n]Por que exibir tal reprovação?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu posso entender a existência de diferentes[n]níveis de artesanato, mas então[n]isso não foi muito infantil?[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Justine]]
-[s][bup 0 101 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não, se alguém é a criança aqui, é você.[n]Até eu podia sentir algo especial daquela[n]pintura.[n][f 1 3 65535][w][e]
+[s][bup 0 101 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não, se tem uma garotinha aqui, é você. Até eu[n]senti algo especial naquela pintura.[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Caroline]]
-[s][bup 0 102 4 0 0][f 4 10 65535 0 0][vp 8 2 0 11036 65535 0]O que você está falando? São rabiscos, de[n]qualquer maneira você olha! O rosto está[n]tudo estragado. O nariz e as orelhas estão[n]errados.[n][f 1 3 65535][w][e]
+[s][bup 0 102 4 0 0][f 4 10 65535 0 0][vp 8 2 0 11036 65535 0]Mas do que você está falando? Eles são rabiscos,[n]no entanto, você olha para isso! O rosto está[n]bagunçado, nariz e orelhas errados.[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Justine]]
-[s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Essa pintura é uma representação precisa da[n]escuridão dentro do coração humano.[n][f 1 3 65535][w][e]
-[s][bup 0 101 5 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 44 5 100]Que lamentável, Caroline. Parece que você[n]não tem um pingo de sentido estético.[n][f 1 3 65535][w][e]
+[s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Foi uma representação precisa[n]da escuridão que habita no[n]coração humano.[n][f 1 3 65535][w][e]
+[s][bup 0 101 5 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 44 5 100]Que pena, Carolina. Parece[n]que você não tem nem um[n]fragmento de senso estético.[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Caroline]]
-[s][bup 0 102 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Com licença? Vou lhe dizer quem está[n]faltando, Justine- você está sem visão[n]adequada![n][f 1 3 65535][w][e]
+[s][bup 0 102 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você é bem vindo? Vou te dizer quem[n]falta, Justine... É VOCÊ[n]quem falta dioptrias![n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Justine]]
-[s][bup 0 101 2 0 0][f 4 10 65535 0 0][vp 8 2 0 12097 65535 0]Talvez você não tenha nenhum sentido...[n][f 1 3 65535][w][e]
+[s][bup 0 101 2 0 0][f 4 10 65535 0 0][vp 8 2 0 12097 65535 0]Talvez falte sentido...[n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Caroline]]
-[s][bup 0 102 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Parece que você precisa de um bom choque[n]para o cérebro.[n][f 1 3 65535][w][e]
+[s][bup 0 102 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Parece que você precisa de uma[n]boa sacudida cerebral.[n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [Justine]]
-[s][bup 0 101 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O mesmo poderia ser dito para você.[n][f 1 3 65535][w][e]
+[s][bup 0 101 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O mesmo poderia ser dito sobre você.[n][f 1 3 65535][w][e]
 
 [msg MSG_025_0_0 [Caroline]]
-[s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ei, preso-você vai me dizer que a bagunça do[n]esboço é realmente arte?[n][f 1 3 65535][w][e]
+[s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ei, prisioneiro... você gostaria de me dizer[n]que bagunça[n]é realmente arte?[n][f 1 3 65535][w][e]
 
 [sel SEL_026_0_0 top]
 [s]É arte.[e]
 [s]São rabiscos.[e]
-[s]A arte é desafiadora.[e]
+[s]A arte é inspiradora.[e]
 
 [msg MSG_027_0_0 [Justine]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 102 17 301 65535][bup 0 101 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*risada* É hora de você admitir a derrota,[n]Caroline.[n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 102 17 301 65535][bup 0 101 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Hahaha. Hora de admitir[n]derrota, Caroline.[n][f 1 3 65535][w][e]
 
 [msg MSG_028_0_0 [Caroline]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 102 17 301 1][vp 8 2 0 11105 65535 0]Grr... sua opinião não é válida, preso![n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 102 17 301 1][vp 8 2 0 11105 65535 0]Grrr... Sua opinião é[n]válida, Prisioneiro![n][f 1 3 65535][w][e]
 
 [msg MSG_029_0_0 [Caroline]]
-[s][bup 0 102 1 0 0][f 4 10 65535 0 0][vp 8 2 0 11048 65535 0]Haha! Você perdeu este, Justine. Admite.[n][f 1 3 65535][w][e]
+[s][bup 0 102 1 0 0][f 4 10 65535 0 0][vp 8 2 0 11048 65535 0]Haha! Você perdeu desta vez,[n]Justine. Admita.[n][f 1 3 65535][w][e]
 
 [msg MSG_030_0_0 [Justine]]
-[s][bup 0 101 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]A opinião do preso não é um quadro de[n]referência confiável.[n][f 1 3 65535][w][e]
+[s][bup 0 101 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]A opinião do Prisioneiro[n]não é uma referência confiável.[n][f 1 3 65535][w][e]
 
 [msg MSG_031_0_0 [Caroline]]
-[s][bup 0 102 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu entendo o que você quer dizer... pelo[n]menos, eu acho...[n][f 1 3 65535][w][e]
+[s][bup 0 102 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Entendo o que você quer dizer...[n]Ou pelo menos eu acho...[n][f 1 3 65535][w][e]
 
 [msg MSG_032_0_0 [Justine]]
-[s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E acho que você está apenas evitando a[n]pergunta... suponho que chamaremos isso de[n]empate, por enquanto.[n][f 1 3 65535][w][e]
+[s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas acho que você está apenas[n]evitando a pergunta... Tudo bem,[n]vamos considerar um empate, por enquanto.[n][f 1 3 65535][w][e]
 
-[msg MSG_033_0_0 [Surprised Woman]]
-[s][vp 8 0 0 0 65535 0]Diga, você viu a pintura que parecia um[n]monte de rabiscos? Aparentemente, vale 500[n]milhões de ienes![n][f 1 3 65535][w][e]
+[msg MSG_033_0_0 [Donna sorpresa]]
+[s][vp 8 0 0 0 65535 0]Ei, você viu a pintura que parece[n]um novelo de rabiscos?[n]Dizem que vale 500 milhões de ienes![n][f 1 3 65535][w][e]
 
-[msg MSG_034_0_0 [Intellectual Mother]]
-[s][vp 8 0 0 0 65535 0]O que? Até o meu filho mais novo poderia[n]fazer algo que parecia assim.[n][f 1 3 65535][w][e]
+[msg MSG_034_0_0 [Mamma intellettuale]]
+[s][vp 8 0 0 0 65535 0]Coisa? Até meu bebê[n]poderia fazer algo assim.[n][f 1 3 65535][w][e]
 
 [msg MSG_035_0_0 [Caroline]]
-[s][bup 0 102 4 0 0][f 4 10 65535 0 0][vp 8 2 0 11096 65535 0]500 milhões... isso não faz sentido.[n][f 1 3 65535][w][e]
+[s][bup 0 102 4 0 0][f 4 10 65535 0 0][vp 8 2 0 11096 65535 0]500 milhões... Realmente não faz[n]sentido.[n][f 1 3 65535][w][e]
 
 [msg MSG_036_0_0 [Justine]]
-[s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu concordo totalmente com você sobre isso.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Isso requer mais estudos. Vamos continuar a[n]inspecionar as instalações.[n][f 1 3 65535][w][e]
+[s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Nisso concordo plenamente[n]com você.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mais investigações são necessárias.[n]Continuamos a inspecionar o local.[n][f 1 3 65535][w][e]
 
 [msg MSG_037_0_0 [Caroline]]
-[s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vimos muitas exibições interessantes...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas essa última escultura que vimos...[n]Isso não passava de uma reprodução sem gosto[n]de um corpo nu.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você realmente vai me dizer que conta como[n]arte também?[n][f 1 3 65535][w][e]
+[s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vimos uma grande[n]quantidade de trabalhos interessantes...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas aquela última escultura...[n]Não passava de uma reprodução de mau gosto[n]de um corpo nu.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você realmente quer que eu acredite[n]que ISSO conta[n]como arte também?[n][f 1 3 65535][w][e]
 
 [msg MSG_038_0_0 [Justine]]
-[s][bup 0 101 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu pensei que esse conceito humano de[n]"beleza" simplesmente assumiu muitas[n]formas, mas se espalhou até o reino do[n]bizarro.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Por que os humanos perseguem essa "beleza"[n]em primeiro lugar?[n][f 1 3 65535][w][e]
-[s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 59 5 100]Você também desperdiça seus esforços se[n]esforçando para a beleza, preso?[n][f 1 3 65535][w][e]
+[s][bup 0 101 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu pensei que o conceito de "beleza"[n]apenas tivesse muitas formas,[n]mas é o reino do bizarro.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Por que os humanos perseguem[n]"beleza" em primeiro lugar?[n][f 1 3 65535][w][e]
+[s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 59 5 100]Você também perde seu tempo[n]perseguindo a beleza, Prisioneiro?[n][f 1 3 65535][w][e]
 
 [sel SEL_039_0_0 top]
-[s]Eu faço.[e]
-[s]Prefiro ser feio.[e]
-[s]Eu já estou linda.[e]
+[s]Sim.[e]
+[s]Eu prefiro ser feio.[e]
+[s]Eu já sou bonita.[e]
 
 [msg MSG_040_0_0 [Caroline]]
-[s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você é livre para fazer isso, mas é melhor[n]se concentrar na sua reabilitação- trabalhe[n]em um belo coração antes de se preocupar[n]com sua aparência.[n][f 1 3 65535][w][e]
+[s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Como quiser, mas é melhor pensar[n]na sua reabilitação... na sua[n]alma, antes de se dedicar à sua aparência.[n][f 1 3 65535][w][e]
 
 [msg MSG_041_0_0 [Justine]]
-[s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Seu nível de feiúra não faz diferença para[n]nós, mas trabalhe em sua reabilitação para[n]que você promova um belo coração.[n][f 1 3 65535][w][e]
+[s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sua feiúra é indiferente para nós,[n]mas trabalhe em sua reabilitação,[n]em cultivar sua alma.[n][f 1 3 65535][w][e]
 
 [msg MSG_042_0_0 [Justine]]
-[s][bup 0 101 5 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]... De onde você coloca uma confiança tão[n]estupenda?[n][f 1 3 65535][w][e]
+[s][bup 0 101 5 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...De onde vem toda essa[n]admirável segurança?[n][f 1 3 65535][w][e]
 
 [msg MSG_043_0_0 [Caroline]]
-[s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vamos ver como você se sente depois de[n]encher você em uma lata de lixo.[n][f 1 3 65535][w][e]
+[s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Veremos como você se sente depois que[n]jogo você no lixo.[n][f 1 3 65535][w][e]
 
 [msg MSG_044_0_0 [Caroline]]
-[s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]De qualquer forma, vimos a arte que os[n]humanos gostam tanto. Esta tarefa está[n]oficialmente completa.[n][f 1 3 65535][w][e]
+[s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]De qualquer forma, vimos a arte que os humanos[n]tanto gostam. A tarefa está concluída.[n][f 1 3 65535][w][e]
 
 [msg MSG_045_0_0 [Justine]]
-[s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Aqui está a sua recompensa.[n][f 1 3 65535][w][e]
+[s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Aqui está sua recompensa.[n][f 1 3 65535][w][e]
 
 [msg MSG_046_0_0 [Caroline]]
-[s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ainda não aprendi por que alguns dos humanos[n]chamam o outono de "a estação das artes",[n]embora...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bem, tanto faz. Que tal voltarmos e tentamos[n]fazer nossas próprias pinturas?[n][f 1 3 65535][w][e]
+[s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]No entanto, ainda não entendo[n]por que alguns humanos chamam[n]o outono de "estação das artes"...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bem, não faz nada. Que tal[n]voltar e tentar[n]fazer nossas pinturas?[n][f 1 3 65535][w][e]
 
 [msg MSG_047_0_0 [Justine]]
-[s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Uma boa ideia. O que devemos pintar?[n][f 1 3 65535][w][e]
+[s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Boa ideia. Mas o que pintamos?[n][f 1 3 65535][w][e]
 
 [msg MSG_048_0_0 [Caroline]]
-[s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]... uma guilhotina?[n][f 1 3 65535][w][e]
+[s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Uma guilhotina?[n][f 1 3 65535][w][e]
 
 [msg MSG_049_0_0 [Justine]]
 [s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...O mestre?[n][f 1 3 65535][w][e]
 
 [msg MSG_050_0_0 [Caroline]]
-[s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 2 0 55028 65535 0]... eh, vamos descobrir quando voltarmos.[n]Ei, preso! Começar a pisar.[n][f 1 3 65535][w][e]
+[s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 2 0 55028 65535 0]...Bem, encontraremos uma solução[n]assim que você voltar. Ei,[n]Prisioneiro! Mexa-se.[n][f 1 3 65535][w][e]
 
 [msg MND_051_0_0]
-[s][vp 8 0 0 0 65535 0]Eu acompanhei os gêmeos de volta para a sala[n]de veludo...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Acompanhei os gêmeos[n]até o Velvet Room...[n][f 1 3 65535][w][e]
 
