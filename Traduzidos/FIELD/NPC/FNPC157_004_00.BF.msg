@@ -1,33 +1,33 @@
 [msg TEST_MES]
-[s]Teste [n][w][e]
+[s]Teste[n][w][e]
 
 [sel YESNO_SEL top]
-[s]Sim [e]
-[s]Não [e]
+[s]Sim[e]
+[s]Não[e]
 
-[msg D06_04_MOB_MES_mes01 [Customer]]
-[s]O que diabos? O que há com a roupa estranha?[n]Não me assuste assim.[n][w][e]
+[msg D06_04_MOB_MES_mes01 [Cliente]]
+[s]M-mas que diabos...? O que[n]é esse vestido estranho?[n]Não me assuste assim.[n][w][e]
 
-[msg D06_04_MOB_MES_mes02 [Customer]]
-[s]Você é um convidado? Não é um Joker enviado[n]pelo cassino?[n][w][e]
+[msg D06_04_MOB_MES_mes02 [Cliente]]
+[s]Você também é um convidado?[n]Não é um Joker de cassino?[n][w][e]
 
-[msg D06_04_MOB_MES_mes03 [Customer]]
-[s]Você está cosplay ou algo assim?[n]Parece que você está se divertindo.[n][w][e]
+[msg D06_04_MOB_MES_mes03 [Cliente]]
+[s]Isso é um cosplay?[n]Você parece gostar.[n][w][e]
 
-[msg D06_04_MOB_MES_mes04 [Customer]]
+[msg D06_04_MOB_MES_mes04 [Cliente]]
 [s]Por que você está vestido assim?[n][w][e]
 
 [msg TEST_VELVET_GIRL_QUIET01 [Justine]]
-[s]Pecador ligado pelas correntes do destino...[n][w][e]
-[s]Você não deve estar no mundo real.[n]Volte à sua célula e encontre força para[n]resistir.[n][w][e]
+[s]Pecador preso pelos laços do destino...[n][w][e]
+[s]Você não precisa ficar no[n]mundo real. Volte para sua cela[n]e encontre forças para resistir.[n][w][e]
 
 [msg TEST_VELVET_GIRL_QUIET02 [Justine]]
-[s]Você deve continuar resistindo para mudar[n]seu destino...[n][w][e]
+[s]Para mudar seu destino[n]você deve continuar resistindo...[n][w][e]
 
 [msg TEST_VELVET_GIRL_LOUD01 [Caroline]]
-[s]Heehee! Você realmente tem tempo para[n]brincar?[n][w][e]
-[s]Volte ao Pokey e desafie seu destino![n][w][e]
+[s]Eheh, você realmente tem tempo a[n]perder?[n][w][e]
+[s]Volte para o destino legal e desafie![n][w][e]
 
 [msg TEST_VELVET_GIRL_LOUD02 [Caroline]]
-[s]Dê tudo que você tem! Seu futuro depende[n]disso![n][w][e]
+[s]Experimente![n]Seu futuro depende disso![n][w][e]
 

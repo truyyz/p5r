@@ -1,21 +1,21 @@
 [msg MSG_FLD_REMOVAL_00]
-[s]Envie um cartão de chamada [n][e]
+[s]Envie a carta de aviso[n][e]
 
 [msg MSG_FLD_BREAFING_00]
-[s]Discuta com a equipe [n][e]
+[s]Fale com a equipe[n][e]
 
 [msg MSG_FLD_DUNGEON_00]
-[s]Digite o metaverso [n][e]
+[s]Entre no Metaverso[n][e]
 
 [msg MSG_FLD_TOOL_00]
-[s]Decidir sobre um alvo [n][e]
+[s]Escolha um alvo[n][e]
 
 [msg MSG_FLD_DUNGEON_01]
-[s]Digite lembranças [n][e]
+[s]Digite as lembranças[n][e]
 
 [msg MSG_FLD_SAVE_00]
-[s]Salve o jogo [n][e]
+[s]Salve o jogo[n][e]
 
 [msg MSG_FLD_EXIT_00]
-[s]Deixe o esconderijo [n][e]
+[s]Sair do local de encontro[n][e]
 

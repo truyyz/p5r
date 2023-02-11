@@ -1,1654 +1,1654 @@
 [msg KARIOKI_NPC_grt00]
-[s]NPCs de estudantes que conhecem a fraqueza[n]um do outro [n][w][e]
+[s]Alunos NPC que conhecem[n]a relativa fraqueza[n][w][e]
 
 [msg KARIOKI_NPC_talk00]
-[s]Localização temporária para os NPCs de[n]estudantes que conhecem a fraqueza um do[n]outro [n][w][e]
+[s]lugar temporário para alunos NPC[n]que conhecem a relativa fraqueza[n][w][e]
 
-[msg MSG_BUKATSU_NPC01_000_00 [Perplexed Volleyball Player]]
-[s][f 4 23 1 80 3 10 0 10][vp 8 2 1 0 80 0]Ouvi dizer que o novo aluno transferido[n]atacou Kamoshida.[n][w][e]
+[msg MSG_BUKATSU_NPC01_000_00 [Pallavolista perplessa]]
+[s][f 4 23 1 80 3 10 0 10][vp 8 2 1 0 80 0]Parece que o novo aluno[n]atacou Kamoshida.[n][w][e]
 
-[msg MSG_BUKATSU_NPC01_001_00 [Worried Volleyball Player]]
-[s][f 4 23 1 81 3 10 0 10][vp 8 2 1 0 81 0]Kamoshida não levou isso bem.[n]Aquele cara novo realmente não deveria estar[n]fazendo coisas assim...[n][w][e]
-[s][vp 8 2 1 0 81 0]Depois da coisa com Suzui-san, não poderei[n]tomá-lo se ele tornar a prática ainda mais[n]difícil...[n][w][e]
+[msg MSG_BUKATSU_NPC01_001_00 [Pallavolista preoccupata]]
+[s][f 4 23 1 81 3 10 0 10][vp 8 2 1 0 81 0]Kamoshida não aceitou bem.[n]Esse cara deveria se poupar[n]de algumas besteiras...[n][w][e]
+[s][vp 8 2 1 0 81 0]Depois do caso com Suzui-san, não vou[n]ser capaz de suportar nenhum[n]endurecimento de treinamento...[n][w][e]
 
-[msg MSG_BUKATSU_NPC01_002_00 [Perplexed Volleyball Player]]
-[s][f 4 23 1 80 3 10 0 10][vp 8 2 1 0 80 0]Ouvi dizer que o aluno transferido está[n]sendo expulso por isso. Esse será o fim[n]disso, certo?[n][w][e]
+[msg MSG_BUKATSU_NPC01_002_00 [Pallavolista perplessa]]
+[s][f 4 23 1 80 3 10 0 10][vp 8 2 1 0 80 0]Pelo menos eu ouvi que ele vai[n]expulsá-lo. Então as coisas devem[n]funcionar, certo?[n][w][e]
 
-[msg MSG_COOP_MARUKI_NPC_000_ [Female Student with Glasses]]
-[s][f 4 23 1 151 3 10 0 10][vp 8 2 1 0 151 0]Este é o escritório da enfermeira... certo?[n][w][e]
+[msg MSG_COOP_MARUKI_NPC_000_ [Studentessa con gli occhiali]]
+[s][f 4 23 1 151 3 10 0 10][vp 8 2 1 0 151 0]Esta é a enfermaria, sim?[n][w][e]
 
-[msg MSG_COOP_MARUKI_NPC_001_ [Straightforward Student]]
-[s][f 4 23 1 152 3 10 0 10][vp 8 2 1 0 152 0]Você vai aconselhar, hein...[n]Do que você vai falar?[n][w][e]
+[msg MSG_COOP_MARUKI_NPC_001_ [Studentessa schietta]]
+[s][f 4 23 1 152 3 10 0 10][vp 8 2 1 0 152 0]Vai sentar, hein...[n]Sobre o que você vai falar?[n][w][e]
 
-[msg MSG_COOP_MARUKI_NPC_002_ [Female Student with Glasses]]
-[s][f 4 23 1 151 3 10 0 10][vp 8 2 1 0 151 0]Eu posso me preocupar com isso depois![n][w][e]
+[msg MSG_COOP_MARUKI_NPC_002_ [Studentessa con gli occhiali]]
+[s][f 4 23 1 151 3 10 0 10][vp 8 2 1 0 151 0]Vou pensar nisso depois![n][w][e]
 [s][vp 8 2 1 0 151 0]Ei, vamos juntos![n][w][e]
 
-[msg MSG_AKOGAREDANSI_001_0_0 [Starry-Eyed Student]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Ei, o que você acha dos heróis?[n]Você não acha que eles são necessários agora[n]mais do que nunca?[n][w][e]
+[msg MSG_AKOGAREDANSI_001_0_0 [Studente sognatore]]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Ei, o que você acha dos heróis? Você não acha que[n]precisamos deles agora mais do que nunca?[n][w][e]
 
 [sel SEL_AKOGAREDANSI_001_0_0 top]
 [s]O que você está falando?[e]
 [s]Você tem razão.[e]
 
-[msg MSG_AKOGAREDANSI_001_1_0 [Starry-Eyed Student]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Ugh, você não estava ouvindo? Eu não acho[n]que você entende como os heróis são[n]importantes.[n][w][e]
+[msg MSG_AKOGAREDANSI_001_1_0 [Studente sognatore]]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Ugh, você estava me ouvindo? Eu[n]sei que você não entende o quão[n]importantes são os heróis.[n][w][e]
 
-[msg MSG_AKOGAREDANSI_001_2_0 [Starry-Eyed Student]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Você realmente entende! Se os heróis[n]precisassem de líderes de torcida, você[n]seria o ajuste perfeito para isso![n][w][e]
+[msg MSG_AKOGAREDANSI_001_2_0 [Studente sognatore]]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Sim, você entende! Se os heróis[n]precisam de apoiadores,[n]você seria perfeito para o papel![n][w][e]
 
-[msg MSG_AKOGAREDANSI_001_3_0 [Starry-Eyed Student]]
-[s][vp 8 2 1 0 11 0]As pessoas sempre anseiam por um herói,[n]alguém para eliminar as trevas do mundo e[n]salvá-las.[n][w][e]
-[s][vp 8 2 1 0 11 0]Se é isso que as pessoas precisam, então eu[n]tenho que fazê-lo. Eu serei aquele herói.[n]Eu sou o único que pode![n][w][e]
+[msg MSG_AKOGAREDANSI_001_3_0 [Studente sognatore]]
+[s][vp 8 2 1 0 11 0]As pessoas estão sempre procurando por um[n]herói, alguém para salvá-las e[n]varrer a escuridão do mundo.[n][w][e]
+[s][vp 8 2 1 0 11 0]Se é disso que eles precisam,[n]eu irei. Eu serei esse herói.[n]Só eu posso fazer isso![n][w][e]
 
-[msg MSG_AKOGAREDANSI_002_0_0 [Starry-Eyed Student]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Você viu aquele cartão de visita muito legal?[n][w][e]
+[msg MSG_AKOGAREDANSI_002_0_0 [Studente sognatore]]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Você viu aquela carta de aviso super legal?[n][w][e]
 
 [sel SEL_AKOGAREDANSI_002_0_0 top]
-[s]Frio?[e]
-[s]Cartão de chamada?[e]
+[s]muito legal?[e]
+[s]carta de aviso?[e]
 
-[msg MSG_AKOGAREDANSI_002_1_0 [Starry-Eyed Student]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Hehe, não posso culpar você por não[n]conseguir o quão legal é. Heróis estão[n]apenas em uma liga própria...[n][w][e]
+[msg MSG_AKOGAREDANSI_002_1_0 [Studente sognatore]]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Eheh, eu entendo que não é fácil de entender.[n]Heróis são de outra categoria...[n][w][e]
 
-[msg MSG_AKOGAREDANSI_002_2_0 [Starry-Eyed Student]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Hehe, sim. Eu acho que você não saberia.[n]Deve estar sozinho, sendo um herói e mais[n]frio que todos.[n][w][e]
+[msg MSG_AKOGAREDANSI_002_2_0 [Studente sognatore]]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Ele Ele. Acho que você não sabe[n]nada sobre isso. Será solitário ser[n]heróis e o mais legal de todos.[n][w][e]
 
-[msg MSG_AKOGAREDANSI_002_3_0 [Starry-Eyed Student]]
-[s][vp 8 2 1 0 11 0]"Vou roubar seus desejos distorcidos e fazer[n]você confessar seus pecados..." [n][w][e]
-[s][vp 8 2 1 0 11 0]Guhh, tão legal! Fico tão demitido sempre[n]que digo![n][w][e]
+[msg MSG_AKOGAREDANSI_002_3_0 [Studente sognatore]]
+[s][vp 8 2 1 0 11 0]"Vou roubar seus desejos distorcidos e[n]fazer você confessar seus crimes"[n][w][e]
+[s][vp 8 2 1 0 11 0]Uau, que explosão! Isso é muito[n]emocionante de se dizer![n][w][e]
 
-[msg MSG_AKOGAREDANSI_003_0_0 [Starry-Eyed Student]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Gah, pode ser!? É possível que você tenha[n]aprendido sobre minha outra identidade?[n][w][e]
+[msg MSG_AKOGAREDANSI_003_0_0 [Studente sognatore]]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Argh, sério!?![n]É realmente possível que você tenha[n]descoberto minha outra identidade?[n][w][e]
 
 [sel SEL_AKOGAREDANSI_003_0_0 top]
 [s]Quem é Você?[e]
 [s]O que você está falando?[e]
 
-[msg MSG_AKOGAREDANSI_003_1_0 [Starry-Eyed Student]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Heh, você já sabe, não é?[n][w][e]
-[s][vp 8 2 1 0 11 0]Minhas ações estão atraindo muita atenção[n]ultimamente. Não é de admirar que você[n]tenha descoberto...[n][w][e]
+[msg MSG_AKOGAREDANSI_003_1_0 [Studente sognatore]]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Hehe, você já sabe disso, não é?[n][w][e]
+[s][vp 8 2 1 0 11 0]Minhas façanhas têm atraído muita[n]atenção ultimamente. Não estou[n]surpreso por você ter me descoberto...[n][w][e]
 
-[msg MSG_AKOGAREDANSI_003_2_0 [Starry-Eyed Student]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Heh, não há necessidade de você jogar burro.[n][w][e]
-[s][vp 8 2 1 0 11 0]Minhas ações estão atraindo muita atenção[n]ultimamente. Não é de admirar que você[n]tenha descoberto...[n][w][e]
+[msg MSG_AKOGAREDANSI_003_2_0 [Studente sognatore]]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Heheh, não há necessidade de[n]se fazer de bobo.[n][w][e]
+[s][vp 8 2 1 0 11 0]Minhas façanhas têm atraído muita[n]atenção ultimamente. Não estou[n]surpreso por você ter me descoberto...[n][w][e]
 
-[msg MSG_AKOGAREDANSI_003_3_0 [Starry-Eyed Student]]
-[s][vp 8 2 1 0 11 0]Mantenha isso apenas entre nós, ok? Ninguém[n]pode saber que eu sou o ladrão fantasma que[n]derrotou Kamoshida...[n][w][e]
+[msg MSG_AKOGAREDANSI_003_3_0 [Studente sognatore]]
+[s][vp 8 2 1 0 11 0]Mas o que há entre nós, certo? Não se deve saber[n]que eu sou o ladrão fantasma que derrotou[n]Kamoshida.[n][w][e]
 
-[msg MSG_AKOGAREDANSI_003EX_0 [Starry-Eyed Student]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Aquele conselheiro misterioso que de repente[n]apareceu... ele poderia ser um assassino[n]enviado pela "organização"...?[n][w][e]
+[msg MSG_AKOGAREDANSI_003EX_0 [Studente sognatore]]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]O conselheiro que apareceu de repente[n]... será ele um assassino[n]da "Organização"...?[n][w][e]
 
 [sel SEL_AKOGAREDANSI_003EX_0 top]
-[s]Eu acho que está apenas na sua cabeça.[e]
-[s]Obtenha algum aconselhamento.[e]
+[s]Está tudo na sua cabeça.[e]
+[s]Vá a um psicólogo.[e]
 
-[msg MSG_AKOGAREDANSI_003EX_1 [Starry-Eyed Student]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Não... eu senti isso na Assembléia da Escola.[n]Eu senti o olhar dele me perfurar...![n][w][e]
-[s][vp 8 2 1 0 11 0]Seus olhos disseram: "Eu sei quem você é,[n]ladrão fantasma..." [n][w][e]
+[msg MSG_AKOGAREDANSI_003EX_1 [Studente sognatore]]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Não... Durante a assembléia da escola eu senti[n]isso claramente. Um olhar penetrante...![n][w][e]
+[s][vp 8 2 1 0 11 0]Seus olhos dizem,[n]"Eu sei quem você é, ladrão fantasma..."[n][w][e]
 
-[msg MSG_AKOGAREDANSI_003EX_2 [Starry-Eyed Student]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Isso é ruim... ele sabe quem eu sou.[n]Ele sabe que eu sou o ladrão fantasma...![n][w][e]
-[s][vp 8 2 1 0 11 0]Vou ser arrastado para a "organização" se[n]for para essas sessões de aconselhamento...[n][w][e]
+[msg MSG_AKOGAREDANSI_003EX_2 [Studente sognatore]]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]É horrível...ele sabe quem eu sou.[n]Ele sabe que eu sou o Ladrão Fantasma...![n][w][e]
+[s][vp 8 2 1 0 11 0]Se eu fosse a essas[n]sessões, seria capturado[n]pela "Organização"...[n][w][e]
 
-[msg MSG_AKOGAREDANSI_003EX_3 [Starry-Eyed Student]]
-[s][vp 8 2 1 0 11 0]... De qualquer forma, eu deveria ter[n]cuidado com o Dr. Maruki.[n][w][e]
+[msg MSG_AKOGAREDANSI_003EX_3 [Studente sognatore]]
+[s][vp 8 2 1 0 11 0]Tenho que ter cuidado com o que digo sobre o Dr.[n]Maruki.[n][w][e]
 
-[msg MSG_AKOGAREDANSI_004_0_0 [Starry-Eyed Student]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]O falso herói, Kamoshida, caiu![n]O futuro da Shujin Academy tem esperança,[n]desde que eu esteja por perto![n][w][e]
+[msg MSG_AKOGAREDANSI_004_0_0 [Studente sognatore]]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]O falso herói, Kamoshida, caiu![n]O futuro de Shujin está seguro[n]enquanto eu estiver lá para protegê-lo![n][w][e]
 
 [sel SEL_AKOGAREDANSI_004_0_0 top]
-[s]Herói falso...?[e]
+[s]Falso herói...?[e]
 [s]Você é apenas um solitário.[e]
 
-[msg MSG_AKOGAREDANSI_004_1_0 [Starry-Eyed Student]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Y-sim...! Kamoshida levou as pessoas a[n]pensar que ele era um herói, mas ele não[n]estava![n][w][e]
-[s][vp 8 2 1 0 11 0]Ah, e não conte a ninguém minha verdadeira[n]identidade. Ninguém pode saber que eu sou[n]um ladrão fantasma![n][w][e]
+[msg MSG_AKOGAREDANSI_004_1_0 [Studente sognatore]]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]S-Sim! Kamoshida enganou a todos[n]impondo-se como um herói,[n]mas ele não era um herói de jeito nenhum![n][w][e]
+[s][vp 8 2 1 0 11 0]Ah, e não conte a ninguém sobre minha[n]verdadeira identidade. Não se sabe[n]que eu sou um Ladrão Fantasma![n][w][e]
 
-[msg MSG_AKOGAREDANSI_004_2_0 [Starry-Eyed Student]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]H-hey! Isso não é verdade! Eu luto pelo mal[n]por você, e é assim que você me trata?[n][w][e]
-[s][vp 8 2 1 0 11 0]Você se arrependerá de me deixar louco! Vou[n]levar seu coração distorcido e derrotá-lo[n]de volta em forma![n][w][e]
+[msg MSG_AKOGAREDANSI_004_2_0 [Studente sognatore]]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]E-Ei! Não é verdade! Eu luto contra o mal por[n]todos vocês, e vocês me retribuem assim?[n][w][e]
+[s][vp 8 2 1 0 11 0]Você vai se arrepender de me deixar com raiva![n]Vou roubar seu coração distorcido e curá-lo![n][w][e]
 
-[msg MSG_AKOGAREDANSI_005_0_0 [Starry-Eyed Student]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Parece que as pessoas da mídia estão[n]bisbilhotando. Isto poderia ser um[n]problema...[n][w][e]
+[msg MSG_AKOGAREDANSI_005_0_0 [Studente sognatore]]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Parece que a mídia está[n]espreitando em todos os lugares.[n]Pode ser um problema...[n][w][e]
 
 [sel SEL_AKOGAREDANSI_005_0_0 top]
 [s]Você está falando sozinho?[e]
 [s]O que você está falando?[e]
 
-[msg MSG_AKOGAREDANSI_005_1_0 [Starry-Eyed Student]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Oh! Ignore o que acabei de dizer. Não posso[n]atrair muita atenção para mim mesma.[n][w][e]
-[s][vp 8 2 1 0 11 0]Mas não posso apenas assistir à toa se[n]alguém está roubando os inocentes. Eu tive[n]que fazer algo...[n][w][e]
+[msg MSG_AKOGAREDANSI_005_1_0 [Studente sognatore]]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Oh! Ignore o que eu disse.[n]Não consigo chamar muita[n]atenção para mim.[n][w][e]
+[s][vp 8 2 1 0 11 0]Mas não posso ficar parado assistindo[n]enquanto alguém rouba os[n]inocentes. Eu tenho de fazer alguma coisa...[n][w][e]
 
-[msg MSG_AKOGAREDANSI_005_2_0 [Starry-Eyed Student]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Com toda a atenção que tenho recebido, não[n]tenho privacidade. Você não pode entender.[n][w][e]
-[s][vp 8 2 1 0 11 0]Mas não há tempo para relaxar. Nos sites dos[n]fãs do Phantom Thief, muitas pessoas[n]precisam de economizar.[n][w][e]
+[msg MSG_AKOGAREDANSI_005_2_0 [Studente sognatore]]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Com toda a atenção que estou recebendo, não tenho[n]mais privacidade. Você não consegue entender...[n][w][e]
+[s][vp 8 2 1 0 11 0]Mas não é hora de relaxar.[n]Nos fansites dos Phantom Thieves,[n]muitas pessoas me visitam.[n][w][e]
 
-[msg MSG_AKOGAREDANSI_005_3_0 [Starry-Eyed Student]]
-[s][vp 8 2 1 0 11 0]O mundo está cheio de vilões. Cabe aos[n]heróis se livrar deles! Sim, é meu[n]destino...[n][w][e]
+[msg MSG_AKOGAREDANSI_005_3_0 [Studente sognatore]]
+[s][vp 8 2 1 0 11 0]O mundo está cheio de vilões.[n]É dever dos heróis se livrar deles![n]Sim, é meu destino...[n][w][e]
 
-[msg MSG_AKOGAREDANSI_006_0_0 [Starry-Eyed Student]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]O que? Não acredito que um civil está[n]falando comigo...[n][w][e]
-[s][vp 8 2 1 0 11 0]Não pode ser ajudado. Após o incidente de[n]Madarame, minha aclamação disparou,[n]aparentemente.[n][w][e]
+[msg MSG_AKOGAREDANSI_006_0_0 [Studente sognatore]]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Coisa? Não acredito que um civil está falando[n]comigo...[n][w][e]
+[s][vp 8 2 1 0 11 0]Mas o que eu posso fazer. Após[n]o incidente de Madarame, minha[n]fama disparou.[n][w][e]
 
 [sel SEL_AKOGAREDANSI_006_0_0 top]
-[s]O que você está falando?[e]
-[s]Você está bem na cabeça?[e]
+[s]Mas do que você está falando?[e]
+[s]Tem certeza de que se sente bem?[e]
 
-[msg MSG_AKOGAREDANSI_006_1_0 [Starry-Eyed Student]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Um verdadeiro herói pode estar mais perto de[n]você do que você pensa. Ele poderia até[n]estar bem na sua frente...[n][w][e]
-[s][vp 8 2 1 0 11 0]Ah, não posso dizer mais do que isso.[n]Existem regras que um herói deve seguir,[n]afinal.[n][w][e]
+[msg MSG_AKOGAREDANSI_006_1_0 [Studente sognatore]]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Os verdadeiros heróis podem estar mais perto de[n]você do que você pensa. Mesmo você pode estar[n]enfrentando um.[n][w][e]
+[s][vp 8 2 1 0 11 0]Ah, eu não posso te contar mais.[n]Existem regras que um herói[n]deve obedecer, afinal.[n][w][e]
 
-[msg MSG_AKOGAREDANSI_006_2_0 [Starry-Eyed Student]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Heh, eu entendo se você pensa assim.[n]Heróis são lobos solitários que muitas vezes[n]são mal interpretados.[n][w][e]
-[s][vp 8 2 1 0 11 0]Isto é o melhor. Seria irresponsável[n]envolver inocentes na luta pela paz mundial.[n][w][e]
+[msg MSG_AKOGAREDANSI_006_2_0 [Studente sognatore]]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Heheh, entendo por que você pensa assim.[n]Os heróis são lobos solitários que[n]são muitas vezes incompreendidos.[n][w][e]
+[s][vp 8 2 1 0 11 0]Mas é melhor assim. Seria tolice[n]envolver pessoas inocentes na[n]luta pela paz mundial.[n][w][e]
 
-[msg MSG_AKOGAREDANSI_007_0_0 [Starry-Eyed Student]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]O vento, está chorando... "Eles" devem ter[n]começado a agir de "este lado".[n][w][e]
+[msg MSG_AKOGAREDANSI_007_0_0 [Studente sognatore]]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]O vento está gritando...[n]"Eles" devem[n]ter entrado em ação "deste lado".[n][w][e]
 
 [sel SEL_AKOGAREDANSI_007_0_0 top]
 [s]Este lado?[e]
-[s]Elas?[e]
+[s]Deles?[e]
 
-[msg MSG_AKOGAREDANSI_007_1_0 [Starry-Eyed Student]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]O cartão de visita foi enviado a essa[n]organização criminosa, mas não pensei em[n]nenhum outro- [n][w][e]
+[msg MSG_AKOGAREDANSI_007_1_0 [Studente sognatore]]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]A carta de contestação foi enviada[n]para aquela organização criminosa,[n]mas eu não pensei...[n][w][e]
 
-[msg MSG_AKOGAREDANSI_007_2_0 [Starry-Eyed Student]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Você sabe, um grupo criminoso maligno.[n]Você não viu o chamado de CA dos ladrões[n]Phantom [n][w][e]
+[msg MSG_AKOGAREDANSI_007_2_0 [Studente sognatore]]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Você sabe, aquela[n]organização criminosa. Você não viu a[n]carta de aviso...[n][w][e]
 
-[msg MSG_AKOGAREDANSI_007_3_0 [Starry-Eyed Student]]
-[s][vp 8 2 1 0 11 0]...Oh não. Eu disse muito. Para sua própria[n]segurança, não posso correr o risco de[n]expor mais informações secretas.[n][w][e]
+[msg MSG_AKOGAREDANSI_007_3_0 [Studente sognatore]]
+[s][vp 8 2 1 0 11 0]...Oh não. Falei demais. Para[n]sua segurança, não posso arriscar[n]divulgar mais nenhuma informação secreta.[n][w][e]
 
-[msg MSG_AKOGAREDANSI_008_0_0 [Starry-Eyed Student]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]*Pant** Pant* Eu usei muito dos meus[n]poderes... Estou exausto, mas consegui[n]derrubá-los...[n][w][e]
+[msg MSG_AKOGAREDANSI_008_0_0 [Studente sognatore]]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]*anf anf* Eu usei[n]meus poderes demais... Estou exausto, mas[n]consegui derrotá-los...[n][w][e]
 
 [sel SEL_AKOGAREDANSI_008_0_0 top]
-[s]O que você pensa que está fazendo?[e]
-[s]Controle-se.[e]
+[s]O que você vai fazer?[e]
+[s]Dê a si mesmo uma pausa.[e]
 
-[msg MSG_AKOGAREDANSI_008_1_0 [Starry-Eyed Student]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Heh... quem saberia que Kaneshiro tinha a[n]manga...?[n][w][e]
+[msg MSG_AKOGAREDANSI_008_1_0 [Studente sognatore]]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Eheh... Quem teria pensado[n]que Kaneshiro tinha[n]um ás na manga...?[n][w][e]
 
-[msg MSG_AKOGAREDANSI_008_2_0 [Starry-Eyed Student]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Esmair a máfia em uma noite foi uma tarefa[n]difícil, mesmo para alguém como eu.[n][w][e]
+[msg MSG_AKOGAREDANSI_008_2_0 [Studente sognatore]]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Desmantelar a máfia em uma[n]noite é uma tarefa difícil, mesmo[n]para alguém como eu.[n][w][e]
 
-[msg MSG_AKOGAREDANSI_008_3_0 [Starry-Eyed Student]]
-[s][vp 8 2 1 0 11 0]Eu posso ouvir os gritos do povo por um[n]herói lutar contra o mal... mas por[n]enquanto, deixe-me descansar um pouco...[n]heh.[n][w][e]
+[msg MSG_AKOGAREDANSI_008_3_0 [Studente sognatore]]
+[s][vp 8 2 1 0 11 0]As pessoas continuam chamando por um[n]herói para derrotar o mal... Mas[n]agora eu preciso descansar...[n][w][e]
 
-[msg MSG_AKOGAREDANSI_008_01_ [Starry-Eyed Student]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]MM, eu ouço! As vozes pedindo minha ajuda...![n][w][e]
-[s][vp 8 2 1 0 11 0]Eu ouço a voz chorando de uma garota[n]estudantil de honra que não conseguiu obter[n]os resultados desejados...![n][w][e]
+[msg MSG_AKOGAREDANSI_008_01_ [Studente sognatore]]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Mmm, eu os ouço! As vozes que[n]clamam por minha ajuda...![n][w][e]
+[s][vp 8 2 1 0 11 0]Eu ouço a voz desesperada de um[n]estudioso que não[n]obteve os resultados desejados...![n][w][e]
 
 [sel SEL_AKOGAREDANSI_008_01_ top]
-[s]Eu não ouço nada.[e]
-[s]Você está imaginando coisas.[e]
+[s]Eu não sinto nada.[e]
+[s]Você está imaginando isso.[e]
 
-[msg MSG_AKOGAREDANSI_008_01__2 [Starry-Eyed Student]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Hmph, é claro que não, você é um amador.[n]Você precisa de muita experiência, como eu,[n]para ouvir a voz.[n][w][e]
-[s][vp 8 2 1 0 11 0]Espere, pobre garota! Vou te enviar energia[n]que fará você se sentir melhor...![n][w][e]
+[msg MSG_AKOGAREDANSI_008_01__2 [Studente sognatore]]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Umpf, claro que não, você é um[n]amador. Para ouvir a voz você deve[n]ter muita experiência, como eu.[n][w][e]
+[s][vp 8 2 1 0 11 0]Espere, pobre garota![n]Vou enviar-lhe a energia para[n]fazer você se sentir melhor...![n][w][e]
 
-[msg MSG_AKOGAREDANSI_008_01__3 [Starry-Eyed Student]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Hmph, é claro que você não pode ouvir.[n]Posso receber comprimentos de onda que as[n]pessoas comuns não podem.[n][w][e]
-[s][vp 8 2 1 0 11 0]Espere, pobre garota! Vou te enviar energia[n]que fará você se sentir melhor...![n][w][e]
+[msg MSG_AKOGAREDANSI_008_01__3 [Studente sognatore]]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Umpf, é claro que você não ouve.[n]Eu percebo comprimentos de onda[n]não disponíveis para pessoas comuns.[n][w][e]
+[s][vp 8 2 1 0 11 0]Espere, pobre garota![n]Vou enviar-lhe a energia para[n]fazer você se sentir melhor...![n][w][e]
 
-[msg MSG_AKOGAREDANSI_009_0_0 [Starry-Eyed Student]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Cibernéticos internacionais... Eles eram[n]muito difíceis, mas o mundo está a salvo[n]deles agora.[n][w][e]
-[s][vp 8 2 1 0 11 0]Ninguém sabe quem eu realmente sou, no[n]entanto. Heh... se eles apenas soubessem.[n][w][e]
+[msg MSG_AKOGAREDANSI_009_0_0 [Studente sognatore]]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Ciberterroristas globais…[n]Eles costumavam ser muito durões, mas agora[n]o mundo está a salvo deles.[n][w][e]
+[s][vp 8 2 1 0 11 0]Ainda ninguém sabe quem eu sou,[n]embora. Hehe... Se eles soubessem.[n][w][e]
 
 [sel SEL_AKOGAREDANSI_009_0_0 top]
 [s]Como você os derrotou?[e]
-[s]Você está até estudando?[e]
+[s]Mas você nunca estuda?[e]
 
-[msg MSG_AKOGAREDANSI_009_1_0 [Starry-Eyed Student]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]O-of-offt, eu os venci em seu próprio jogo.[n]Com a Internet, habilidades de hackers e[n]computadores![n][w][e]
-[s][vp 8 2 1 0 11 0]Eles ficaram impotentes quando eu comecei a[n]digitar velocidades vertiginosas de 100[n]palavras por hora! Muahahaha![n][w][e]
+[msg MSG_AKOGAREDANSI_009_1_0 [Studente sognatore]]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]E-eu os venci em seu próprio[n]jogo, é claro. Internet,[n]técnicas de hacking e computadores![n][w][e]
+[s][vp 8 2 1 0 11 0]Eles ficaram desamparados quando comecei[n]a digitar na velocidade louca[n]de 100 palavras por hora! Muahahahah![n][w][e]
 
-[msg MSG_AKOGAREDANSI_009_2_0 [Starry-Eyed Student]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]... hm? Eu não cheguei a estudar. Estou[n]muito ocupado nos sites de ladrões[n]fantasmas...[n][w][e]
-[s][vp 8 2 1 0 11 0]Além disso, estudar não é tão importante.[n]Não quando comparado à proteção da paz do[n]mundo![n][w][e]
+[msg MSG_AKOGAREDANSI_009_2_0 [Studente sognatore]]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]...Hmm? Não estou aqui para estudar.[n]Estou muito ocupado com o site Phantom Thief[n]...[n][w][e]
+[s][vp 8 2 1 0 11 0]Além disso, estudar não é importante.[n]Ou pelo menos não quando você tem que[n]proteger a paz mundial![n][w][e]
 
-[msg MSG_AKOGAREDANSI_010_0_0 [Starry-Eyed Student]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Eu nunca pensei que o diretor morreria[n]assim...[n][w][e]
-[s][vp 8 2 1 0 11 0]Se eu tivesse prestado mais atenção. Eu não[n]o salvei como um ladrão fantasma de[n]corações.[n][w][e]
+[msg MSG_AKOGAREDANSI_010_0_0 [Studente sognatore]]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Eu nunca pensei que o[n]diretor morreria assim...[n][w][e]
+[s][vp 8 2 1 0 11 0]Se ao menos eu tivesse sido mais vigilante.[n]Eu falhei em meu compromisso como[n]Phantom Thief of Hearts.[n][w][e]
 
 [sel SEL_AKOGAREDANSI_010_0_0 top]
 [s]É uma tragédia.[e]
-[s]Você não tinha nada a ver com isso.[e]
+[s]Você não tem nada a ver com isso.[e]
 
-[msg MSG_AKOGAREDANSI_010_1_0 [Starry-Eyed Student]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Eu sei. Sinto muito se te decepcionar, mas[n]os heróis não são perfeitos. Mesmo não[n]podemos fazer tudo.[n][w][e]
-[s][vp 8 2 1 0 11 0]Mas nunca vou desistir. Em momentos como[n]esses, darei às pessoas esperança e[n]corresponderem à sua fé em mim![n][w][e]
+[msg MSG_AKOGAREDANSI_010_1_0 [Studente sognatore]]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Eu sei isso. Lamento desapontá-lo,[n]mas os heróis não são perfeitos.[n]Até nós temos limites.[n][w][e]
+[s][vp 8 2 1 0 11 0]Mas não vou desistir. Em tempos como[n]estes, darei esperança a[n]pessoas e não as decepcionarei![n][w][e]
 
-[msg MSG_AKOGAREDANSI_010_2_0 [Starry-Eyed Student]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]É uma espécie de sua parte dizer isso. Não[n]se preocupe.[n]Não vou cometer esse tipo de erro novamente.[n][w][e]
-[s][vp 8 2 1 0 11 0]Sim, este é um teste do destino. Farei tudo[n]o que puder para cumprir a fé de todos em[n]mim![n][w][e]
+[msg MSG_AKOGAREDANSI_010_2_0 [Studente sognatore]]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]É gentileza sua. Mas não tenha medo. Eu nunca vou[n]cometer tal erro novamente.[n][w][e]
+[s][vp 8 2 1 0 11 0]Sim, este é um teste do destino.[n]Farei de tudo para honrar a[n]confiança depositada em mim![n][w][e]
 
-[msg MSG_AKOGAREDANSI_011_0_0 [Starry-Eyed Student]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Você viu o cartão de visita? O próximo alvo[n]é Okumura, um empresário torto.[n][w][e]
-[s][vp 8 2 1 0 11 0]Ouvi a filha dele indo para esta escola, mas[n]não posso ficar minha mão. O mal deve ser[n]derrotado.[n][w][e]
+[msg MSG_AKOGAREDANSI_011_0_0 [Studente sognatore]]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Você viu a carta de aviso?[n]O próximo alvo é Okumura, o[n]chefe de uma empresa corrupta.[n][w][e]
+[s][vp 8 2 1 0 11 0]Dizem que sua filha frequenta o[n]Shujin, mas não posso vacilar.[n]O mal deve ser derrotado.[n][w][e]
 
 [sel SEL_AKOGAREDANSI_011_0_0 top]
-[s]Parece muito trabalho duro.[e]
-[s]Você está dramatizando um pouco demais.[e]
+[s]Parece cansativo.[e]
+[s]Você está dramatizando demais.[e]
 
-[msg MSG_AKOGAREDANSI_011_1_0 [Starry-Eyed Student]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]É tudo por uma questão de paz neste mundo.[n]Ser capaz de ver os sorrisos das pessoas é[n]recompensa o suficiente.[n][w][e]
+[msg MSG_AKOGAREDANSI_011_1_0 [Studente sognatore]]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]É pelo bem da paz mundial.[n]Ser capaz de trazer sorrisos de volta para[n]as pessoas é a maior recompensa.[n][w][e]
 
-[msg MSG_AKOGAREDANSI_011_2_0 [Starry-Eyed Student]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Heh, deve ser bom ser tão despreocupado.[n]Eu gostaria de poder viver uma vida civil[n]normal e silenciosa também.[n][w][e]
+[msg MSG_AKOGAREDANSI_011_2_0 [Studente sognatore]]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Despreocupado deve ser bonito. Eu também gostaria[n]de poder viver uma vida civil normal e pacífica.[n][w][e]
 
-[msg MSG_AKOGAREDANSI_012_0_0 [Starry-Eyed Student]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]O que os ladrões fantasmas fizeram de[n]errado!? Esse "assassinato" deve ser algum[n]tipo de farsa![n][w][e]
-[s][vp 8 2 1 0 11 0]O que? Você também não acredita em mim?[n]Pare! Pare de olhar para mim com aqueles[n]olhos acusadores![n][w][e]
+[msg MSG_AKOGAREDANSI_012_0_0 [Studente sognatore]]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]O que os Phantom Thieves fizeram de errado!?! Esse[n]"assassinato" deve ser uma piada![n][w][e]
+[s][vp 8 2 1 0 11 0]O que? Você também não acredita em mim? Pare com[n]isso! Pare de me dar esse olhar acusador![n][w][e]
 
 [sel SEL_AKOGAREDANSI_012_0_0 top]
-[s]Acalmar.[e]
+[s]Vá com calma.[e]
 [s]Entregue-se.[e]
 
-[msg MSG_AKOGAREDANSI_012_1_0 [Starry-Eyed Student]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Ah, desculpe... eu exagerei. Eu fiquei muito[n]zangado com a sociedade falando mal com[n]eles assim.[n][w][e]
-[s][vp 8 2 1 0 11 0]Os ladrões fantasmas devem se sentir tão[n]traídos. Er, e eu saberia porque eu sou um[n]ladrão fantasma.[n][w][e]
+[msg MSG_AKOGAREDANSI_012_1_0 [Studente sognatore]]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Me desculpe... eu exagerei.[n]É só que me irrita que[n]a sociedade fale tão mal deles.[n][w][e]
+[s][vp 8 2 1 0 11 0]Os Phantom Thieves vão se sentir traídos. E eu[n]sei. Porque eu também sou um ladrão fantasma.[n][w][e]
 
-[msg MSG_AKOGAREDANSI_012_2_0 [Starry-Eyed Student]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Porque? Oh, certo! Como um ladrão fantasma,[n]eu-eu deveria realmente considerar me[n]entregar![n][w][e]
-[s][vp 8 2 1 0 11 0]Tem que haver uma boa razão para tudo isso.[n]Eu realmente quero acreditar neles...[n][w][e]
+[msg MSG_AKOGAREDANSI_012_2_0 [Studente sognatore]]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Porque? Oh, certo! Sendo um[n]ladrão fantasma, eu deveria[n]considerar me entregar![n][w][e]
+[s][vp 8 2 1 0 11 0]Deve haver uma boa razão[n]por que eles fizeram isso. Eu quero[n]confiar neles...[n][w][e]
 
-[msg MSG_AKOGAREDANSI_013_0_0 [Starry-Eyed Student]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Então eu tenho esse amigo... ele está[n]fingindo ser algum tipo de celebridade.[n][w][e]
-[s][vp 8 2 1 0 11 0]O problema é que essa celebridade pode[n]realmente ser um criminoso... o que devo[n]fazer?[n][w][e]
+[msg MSG_AKOGAREDANSI_013_0_0 [Studente sognatore]]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Tem um amigo meu...[n]se passando por algum tipo de[n]celebridade.[n][w][e]
+[s][vp 8 2 1 0 11 0]O problema é que essa celebridade[n]pode realmente ser um[n]criminoso… O que devo fazer?[n][w][e]
 
 [sel SEL_AKOGAREDANSI_013_0_0 top]
-[s]Admita o que você fez.[e]
-[s]Nunca diga a ninguém a verdade.[e]
+[s]Confesse a coisa.[e]
+[s]Esconda a verdade.[e]
 
-[msg MSG_AKOGAREDANSI_013_1_0 [Starry-Eyed Student]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Mas então eu- hum, quero dizer, meu amigo,[n]posso acabar com muitos problemas.[n][w][e]
+[msg MSG_AKOGAREDANSI_013_1_0 [Studente sognatore]]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Mas então eu... Hum, quero dizer,[n]meu amigo, poderia se meter em[n]grandes problemas.[n][w][e]
 
-[msg MSG_AKOGAREDANSI_013_2_0 [Starry-Eyed Student]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Mas então eu- hum, quero dizer, meu amigo,[n]viveria todos os dias com medo de ser preso.[n][w][e]
+[msg MSG_AKOGAREDANSI_013_2_0 [Studente sognatore]]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Mas então eu… Hum, quer dizer,[n]meu amigo, viveria todos os dias[n]com medo de ser preso.[n][w][e]
 
-[msg MSG_AKOGAREDANSI_013_3_0 [Starry-Eyed Student]]
-[s][vp 8 2 1 0 11 0]Se os ladrões fantasmas tivessem acabado de[n]permanecer heróis, eu nunca teria que lidar[n]com tudo isso.[n][w][e]
-[s][vp 8 2 1 0 11 0]Er, você sabe que eu estava falando sobre[n]meu amigo, certo?[n][w][e]
+[msg MSG_AKOGAREDANSI_013_3_0 [Studente sognatore]]
+[s][vp 8 2 1 0 11 0]Se os Phantom Thieves ainda fossem[n]heróis, eu não teria[n]teria que passar por isso.[n][w][e]
+[s][vp 8 2 1 0 11 0]Hum, eu estava me referindo[n]ao meu amigo, sabe, certo?[n][w][e]
 
-[msg MSG_AKOGAREDANSI_014_0_0 [Starry-Eyed Student]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Aqueles ladrões fantasmas eram tão legais,[n]mas agora as pessoas os tratam como se[n]fossem criminosos.[n][w][e]
-[s][vp 8 2 1 0 11 0]Eu fingi ser um ladrão fantasma porque os[n]idolatrei, mas agora me pergunto como é a[n]verdadeira justiça.[n][w][e]
-[s][vp 8 2 1 0 11 0]Ei, você acha que poderia me dizer o que[n]realmente define um herói?[n][w][e]
+[msg MSG_AKOGAREDANSI_014_0_0 [Studente sognatore]]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Os Phantom Thieves costumavam ser muito legais,[n]mas agora todos os tratam como criminosos.[n][w][e]
+[s][vp 8 2 1 0 11 0]Fingi ser um deles porque os idolatrava, mas[n]agora me pergunto o que é a verdadeira justiça.[n][w][e]
+[s][vp 8 2 1 0 11 0]Ei, acha que pode me dizer o que[n]define um verdadeiro herói?[n][w][e]
 
 [sel SEL_AKOGAREDANSI_014_0_0 top]
-[s]Pense em si mesmo.[e]
-[s]É diferente para todos.[e]
+[s]Pense por si mesmo.[e]
+[s]Todo mundo tem sua própria ideia.[e]
 
-[msg MSG_AKOGAREDANSI_014_1_0 [Starry-Eyed Student]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Você tem razão. Aqui vai. Eu acho que um[n]herói é alguém que ajuda alguém...[n]quem precisa de... ajuda.[n][w][e]
-[s][vp 8 2 1 0 11 0]Ah, eu sei que isso parece burro! Era tudo o[n]que eu conseguia pensar no esporão do[n]momento.[n][w][e]
+[msg MSG_AKOGAREDANSI_014_1_0 [Studente sognatore]]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Você tem razão. Vou tentar. Um herói[n]é alguém que ajuda alguém[n]outro que... precisa de ajuda.[n][w][e]
+[s][vp 8 2 1 0 11 0]Argh, eu sei que parece bobo![n]É só que logo de cara[n]tudo que eu conseguia pensar era qualquer outra coisa.[n][w][e]
 
-[msg MSG_AKOGAREDANSI_014_2_0 [Starry-Eyed Student]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Eu acho que entendi. Mesmo se eu me tornasse[n]um ladrão fantasma, não seria um herói se[n]não ajudasse ninguém.[n][w][e]
-[s][vp 8 2 1 0 11 0]Hehe... obrigado, você realmente me ajudou[n]lá fora. Eu acho que isso significa que[n]você é meu herói, sabe?[n][w][e]
+[msg MSG_AKOGAREDANSI_014_2_0 [Studente sognatore]]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Eu vejo. Mesmo se eu me tornasse um Ladrão[n]Fantasma, não seria um herói se não ajudasse[n]ninguém.[n][w][e]
+[s][vp 8 2 1 0 11 0]Eheh... Obrigado, você realmente me ajudou. Acho[n]que isso significa que você é meu herói, hein?[n][w][e]
 
-[msg MSG_AKOGAREDANSI_015_0_0 [Starry-Eyed Student]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]É estranho. Os ladrões Phantom deveriam ter[n]retornado, mas ninguém está falando sobre[n]eles.[n][w][e]
-[s][vp 8 2 1 0 11 0]Foi tudo apenas alguma ilusão? Estou[n]realmente ficando louco?[n][w][e]
+[msg MSG_AKOGAREDANSI_015_0_0 [Studente sognatore]]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Que estranho. Os Phantom Thieves[n]deveriam fazer seu[n]retorno, mas ninguém fala sobre isso.[n][w][e]
+[s][vp 8 2 1 0 11 0]Foi tudo uma ilusão?[n]Estou ficando louco?[n][w][e]
 
 [sel SEL_AKOGAREDANSI_015_0_0 top]
 [s]Não, eles são reais.[e]
-[s]Você ficou louco desde o início.[e]
+[s]Você sempre foi louco.[e]
 
-[msg MSG_AKOGAREDANSI_015_1_0 [Starry-Eyed Student]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Direita!? Os ladrões Phantom realmente[n]existem![n][w][e]
+[msg MSG_AKOGAREDANSI_015_1_0 [Studente sognatore]]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]verdade!?! Phantom Thieves[n]tem que existir![n][w][e]
 
-[msg MSG_AKOGAREDANSI_015_2_0 [Starry-Eyed Student]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Ei, vamos lá! Não me diga que você não sabia[n]sobre o retorno glorioso deles!?[n][w][e]
+[msg MSG_AKOGAREDANSI_015_2_0 [Studente sognatore]]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Oh vamos lá! Não me diga que você[n]não sabia sobre o glorioso[n]retorno deles!?![n][w][e]
 
-[msg MSG_AKOGAREDANSI_015_3_0 [Starry-Eyed Student]]
-[s][vp 8 2 1 0 11 0]É estranho me sentir inseguro com isso.[n]Quero dizer, eu costumava idolatrá-los[n]muito...[n][w][e]
+[msg MSG_AKOGAREDANSI_015_3_0 [Studente sognatore]]
+[s][vp 8 2 1 0 11 0]Mas é estranho que eu duvide de tudo[n]isso. Quero dizer, eu sempre os[n]idolei tanto...[n][w][e]
 
-[msg MSG_AKOGAREDANSI_016_0_0 [Starry-Eyed Student]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Não tenho certeza do que fazer... sobre mim[n]este ano...[n][w][e]
-[s][vp 8 2 1 0 11 0]Devo agarrar-me à esperança de que os[n]ladrões fantasmas retornem, ou devo[n]desistir?[n][w][e]
+[msg MSG_AKOGAREDANSI_016_0_0 [Studente sognatore]]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Não sei o que será de mim esse ano...[n][w][e]
+[s][vp 8 2 1 0 11 0]Devo esperar que os Phantom Thieves[n]voltem ou deixá-lo ir?[n][w][e]
 
 [sel SEL_AKOGAREDANSI_016_0_0 top]
-[s]Não perca a esperança.[e]
+[s]Mantenha a esperança.[e]
 [s]Não conte com isso.[e]
 
-[msg MSG_AKOGAREDANSI_016_1_0 [Starry-Eyed Student]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Estou ansioso para ver desculpas das pessoas[n]más todos os dias... é isso que eu quero?[n][w][e]
+[msg MSG_AKOGAREDANSI_016_1_0 [Studente sognatore]]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Esperando por um pedido de desculpas de[n]pessoas más todos os dias...[n]É isso que eu quero?[n][w][e]
 
-[msg MSG_AKOGAREDANSI_016_2_0 [Starry-Eyed Student]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Uma vez que os ladrões se foram, as pessoas[n]más podem se tornar vaidosas...[n][w][e]
+[msg MSG_AKOGAREDANSI_016_2_0 [Studente sognatore]]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Quando os Ladrões[n]não existirem mais, os vilões[n]podem surgir novamente...[n][w][e]
 
-[msg MSG_AKOGAREDANSI_016_3_0 [Starry-Eyed Student]]
-[s][vp 8 2 1 0 11 0]Tenho a sensação de que isso é um problema[n]que afetará meu caminho.[n][w][e]
-[s][vp 8 2 1 0 11 0]... Acho que vou precisar de algum tempo[n]para descobrir. Eu voltarei para você.[n][w][e]
+[msg MSG_AKOGAREDANSI_016_3_0 [Studente sognatore]]
+[s][vp 8 2 1 0 11 0]Tenho a sensação de que será um problema[n]significativo.[n][w][e]
+[s][vp 8 2 1 0 11 0]Acho que vou precisar de algum[n]tempo para pensar sobre isso.[n]Vou deixar você saber.[n][w][e]
 
-[msg MSG_AKOGAREDANSI_017_0_0 [Starry-Eyed Student]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Já faz um tempo desde o início do ano novo,[n]mas nada grande aconteceu e a sociedade é[n]bastante pacífica.[n][w][e]
-[s][vp 8 2 1 0 11 0]Gostaria de saber se isso significa que a[n]sociedade mudou por causa dos ladrões[n]fantasmas?[n][w][e]
+[msg MSG_AKOGAREDANSI_017_0_0 [Studente sognatore]]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]O ano novo já passou[n]um tempo atrás, mas nada[n]aconteceu e tudo está em silêncio.[n][w][e]
+[s][vp 8 2 1 0 11 0]Isso significa que a sociedade[n]mudou graças aos[n]Phantom Thieves?[n][w][e]
 
 [sel SEL_AKOGAREDANSI_017_0_0 top]
-[s]Está certo.[e]
-[s]Não é isso.[e]
+[s]Você tem razão.[e]
+[s]Você está errado.[e]
 
-[msg MSG_AKOGAREDANSI_017_1_0 [Starry-Eyed Student]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Eles eram heróis reais. Estou feliz por[n]acreditar e apoiá-los.[n][w][e]
+[msg MSG_AKOGAREDANSI_017_1_0 [Studente sognatore]]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Eles foram heróis, realmente.[n]Estou feliz por[n]nunca os decepcionar.[n][w][e]
 
-[msg MSG_AKOGAREDANSI_017_2_0 [Starry-Eyed Student]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Eu acho que até eles não podem fazer tudo...[n][w][e]
-[s][vp 8 2 1 0 11 0]Mas eles tomaram medidas e fizeram o melhor[n]que puderam... acho que é o suficiente para[n]torná-los heróis.[n][w][e]
+[msg MSG_AKOGAREDANSI_017_2_0 [Studente sognatore]]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Acho que há coisas que[n]mesmo eles não podem fazer...[n][w][e]
+[s][vp 8 2 1 0 11 0]Mas eles fizeram o possível.[n]Acho que isso já é o suficiente[n]para torná-los heróis.[n][w][e]
 
-[msg MSG_AKOGAREDANSI_017_3_0 [Starry-Eyed Student]]
-[s][vp 8 2 1 0 11 0]Os ladrões Phantom... Eu me pergunto de onde[n]eles vieram e de onde foram.[n][w][e]
+[msg MSG_AKOGAREDANSI_017_3_0 [Studente sognatore]]
+[s][vp 8 2 1 0 11 0]Os Ladrões Fantasmas...[n]Quem sabe de onde eles vieram[n]e para onde foram.[n][w][e]
 
-[msg MSG_AKOGAREDANSI_018_0_0 [Starry-Eyed Student]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Desde que estou me formando... é hora de[n]revelar meu segredo para você.[n][w][e]
+[msg MSG_AKOGAREDANSI_018_0_0 [Studente sognatore]]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Já que estou me formando...[n]Chegou a hora de[n]contar meu segredo.[n][w][e]
 
 [sel SEL_AKOGAREDANSI_018_0_0 top]
 [s]Um segredo sobre você?[e]
-[s]Não interessado.[e]
+[s]Eu não me importo.[e]
 
-[msg MSG_AKOGAREDANSI_018_1_0 [Starry-Eyed Student]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Hehehe, isso mesmo. No entanto, só[n]recentemente fiz minha estréia.[n][w][e]
+[msg MSG_AKOGAREDANSI_018_1_0 [Studente sognatore]]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Hehehe, isso mesmo. No entanto, eu[n]recentemente fiz minha estreia.[n][w][e]
 
-[msg MSG_AKOGAREDANSI_018_2_0 [Starry-Eyed Student]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]As pessoas geralmente não percebem o que[n]está acontecendo sob o nariz. Como este[n]herói em pé diante de você![n][w][e]
+[msg MSG_AKOGAREDANSI_018_2_0 [Studente sognatore]]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Muitas vezes as pessoas não percebem o que está[n]acontecendo debaixo de seus narizes. Como você,[n]você está olhando para um herói![n][w][e]
 
-[msg MSG_AKOGAREDANSI_018_3_0 [Starry-Eyed Student]]
-[s][vp 8 2 1 0 11 0]Um herói deve agir sobre suas crenças, não[n]importa as probabilidades contra eles...[n][w][e]
-[s][vp 8 2 1 0 11 0]Então eu comecei a agir! Apenas coisas[n]pequenas por enquanto, como pegar ninhadas[n]pela cidade.[n][w][e]
+[msg MSG_AKOGAREDANSI_018_3_0 [Studente sognatore]]
+[s][vp 8 2 1 0 11 0]Um herói deve agir de acordo com sua[n]crença, não importa quais[n]suas chances de sucesso sejam...[n][w][e]
+[s][vp 8 2 1 0 11 0]Então comecei a me ocupar![n]Só pequenas coisas, por enquanto, como[n]coletar lixo para a cidade.[n][w][e]
 
-[msg MSG_UNDOUBUIN_001_0_0 [Easygoing Basketball Player]]
-[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Fomos expulsos da academia novamente.[n]Eles sempre dão a prioridade do time de[n]vôlei sobre nós![n][w][e]
-[s][vp 8 2 1 0 7 0]E eu não gosto de como Kamoshida está[n]recebendo todas as garotas com o rosto dele![n][w][e]
+[msg MSG_UNDOUBUIN_001_0_0 [Cestista alla mano]]
+[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Eles nos expulsaram do[n]ginásio novamente. Eles sempre dão[n]prioridade aos jogadores de vôlei![n][w][e]
+[s][vp 8 2 1 0 7 0]E eu não suporto como Kamoshida[n]consegue pegar todas[n]garotas, com essa cara feia![n][w][e]
 
-[msg MSG_UNDOUBUIN_001_1_0 [Intense Soccer Player]]
-[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Ele é praticamente o símbolo da Shujin[n]Academy. É como se a nossa principal[n]atração fosse o time de vôlei.[n][w][e]
+[msg MSG_UNDOUBUIN_001_1_0 [Calciatore brusco]]
+[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Bem, ele é basicamente o símbolo[n]de Shujin e sua equipe a[n]atração principal.[n][w][e]
 
-[msg MSG_UNDOUBUIN_001_2_0 [Easygoing Basketball Player]]
-[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]O time de vôlei também recebe todos os[n]recrutas decentes! Por que conseguimos o[n]final curto do bastão?[n][w][e]
+[msg MSG_UNDOUBUIN_001_2_0 [Cestista alla mano]]
+[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]O time de vôlei também recebe[n]todos os recrutas decentes![n]Por que sempre pegamos os piores?[n][w][e]
 
-[msg MSG_UNDOUBUIN_001_3_0 [Intense Soccer Player]]
-[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Ah, não deixe isso chegar até você. É[n]difícil, mas precisamos ser pacientes. As[n]coisas vão se virar![n][w][e]
+[msg MSG_UNDOUBUIN_001_3_0 [Calciatore brusco]]
+[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Vamos, não leve muito a sério.[n]É difícil, mas temos que ser[n]pacientes. O vento vai mudar![n][w][e]
 
-[msg MSG_UNDOUBUIN_002_0_0 [Easygoing Basketball Player]]
-[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Alguma criança pulou do telhado no meio da[n]aula... é absolutamente louco.[n][w][e]
-[s][vp 8 2 1 0 7 0]Eu queria que Takamaki fosse nosso gerente,[n]mas agora definitivamente não é um bom[n]momento para perguntar a ela.[n][w][e]
+[msg MSG_UNDOUBUIN_002_0_0 [Cestista alla mano]]
+[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Alguém pulou do telhado[n]no meio das aulas...[n]Que loucura.[n][w][e]
+[s][vp 8 2 1 0 7 0]Eu queria pedir a Takamaki para[n]nos administrar, mas agora[n]definitivamente não é o caso.[n][w][e]
 
-[msg MSG_UNDOUBUIN_002_1_0 [Intense Soccer Player]]
-[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Aquela garota? Ela é uma modelo, certo? Ah,[n]e se ela é americana, ela pode saber muito[n]sobre basquete.[n][w][e]
+[msg MSG_UNDOUBUIN_002_1_0 [Calciatore brusco]]
+[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Essa garota? Ela é modelo, certo?[n]Ah, e se ela é americana, ela[n]sabe de basquete.[n][w][e]
 
-[msg MSG_UNDOUBUIN_002_2_0 [Easygoing Basketball Player]]
-[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Wrooong, ela é um quarto americano. Mas é[n]difícil abordá-la. Ela tem essa aura ou[n]algo assim.[n][w][e]
+[msg MSG_UNDOUBUIN_002_2_0 [Cestista alla mano]]
+[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Errado, ela é apenas um quarto americana. Mas é[n]difícil abordagem. Ele tem uma aura estranha...[n][w][e]
 
-[msg MSG_UNDOUBUIN_002_01_0_0 [Easygoing Basketball Player]]
-[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Ei, é verdade que o aluno transferido[n]escolheu uma briga com Kamoshida?[n][w][e]
+[msg MSG_UNDOUBUIN_002_01_0_0 [Cestista alla mano]]
+[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Ei, é verdade que aquele aluno que[n]se mudou para cá este ano[n]brigou com Kamoshida?[n][w][e]
 
-[msg MSG_UNDOUBUIN_002_01_1_0 [Intense Soccer Player]]
-[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Sim, ouvi pessoas dizerem que o aluno[n]transferido está sempre começando brigas e[n]outras coisas.[n][w][e]
-[s][vp 8 2 1 0 6 0]Ouvi dizer que Sakamoto e Mishima também[n]estavam envolvidos nisso. Talvez os três[n]sejam expulsos.[n][w][e]
+[msg MSG_UNDOUBUIN_002_01_1_0 [Calciatore brusco]]
+[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Já. Já ouvi falar[n]que o cara tá sempre[n]procurando briga.[n][w][e]
+[s][vp 8 2 1 0 6 0]Sakamoto e Mishima também estão envolvidos.[n]Talvez todos os três sejam expulsos.[n][w][e]
 
-[msg MSG_UNDOUBUIN_002_01_2_0 [Easygoing Basketball Player]]
-[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Eu não me importo com Sakamoto, mas Mishima[n]está no time de vôlei, certo? Esse cara é[n]muito corajoso.[n][w][e]
+[msg MSG_UNDOUBUIN_002_01_2_0 [Cestista alla mano]]
+[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Eu não dou a mínima para Sakamoto,[n]mas Mishima está no[n]time de vôlei, certo? Ele teve coragem.[n][w][e]
 
-[msg MSG_UNDOUBUIN_002_02_0_0 [Easygoing Basketball Player]]
-[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Ei, você ouviu sobre esse aluno de honra?[n][w][e]
+[msg MSG_UNDOUBUIN_002_02_0_0 [Cestista alla mano]]
+[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Você já ouviu falar daquele aluno exemplar?[n][w][e]
 
-[msg MSG_UNDOUBUIN_002_02_1_0 [Intense Soccer Player]]
-[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Oh, aquele que faz ginástica...[n]Isso foi surpreendente. Eu pensei que ela[n]iria se juntar ao time de vôlei.[n][w][e]
-[s][vp 8 2 1 0 6 0]Talvez mais atenção seja dada em outros[n]clubes disso...[n][w][e]
+[msg MSG_UNDOUBUIN_002_02_1_0 [Calciatore brusco]]
+[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Ah, aquela que faz ginástica...[n]Ela me surpreendeu. Achei que ela[n]entraria no time de vôlei.[n][w][e]
+[s][vp 8 2 1 0 6 0]Talvez, com essa história,[n]outros clubes também recebam[n]mais atenção...[n][w][e]
 
-[msg MSG_UNDOUBUIN_002_02_2_0 [Easygoing Basketball Player]]
-[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Espere, espere, esse não é o ponto![n]Ouvi dizer que ela é super fofa![n][w][e]
+[msg MSG_UNDOUBUIN_002_02_2_0 [Cestista alla mano]]
+[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Esse não é o ponto![n]Ouvi dizer que ela é[n]super fofa![n][w][e]
 
-[msg MSG_UNDOUBUIN_002_02_3_0 [Intense Soccer Player]]
-[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Idiota! Se você tem tempo para perseguir[n]mulheres, então corra![n][w][e]
+[msg MSG_UNDOUBUIN_002_02_3_0 [Calciatore brusco]]
+[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Idiota! Se você tiver tempo para correr[n]atrás de garotas,[n]apenas corra![n][w][e]
 
-[msg MSG_UNDOUBUIN_003_0_0 [Easygoing Basketball Player]]
-[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]O time de vôlei está no intervalo, então[n]agora a academia está vazia. Podemos[n]praticar sempre que queremos![n][w][e]
+[msg MSG_UNDOUBUIN_003_0_0 [Cestista alla mano]]
+[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]O time de vôlei está de férias[n]e a academia é gratuita. Podemos[n]fazer exercício sempre que quisermos![n][w][e]
 
-[msg MSG_UNDOUBUIN_003_1_0 [Intense Soccer Player]]
-[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Mas não posso me concentrar durante a[n]prática.[n]Muita comoção sobre essa tentativa de[n]suicídio e cartão de visita.[n][w][e]
+[msg MSG_UNDOUBUIN_003_1_0 [Calciatore brusco]]
+[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Mas como eu treino?[n]Muita agitação para a tentativa[n]suicídio e a carta-desafio.[n][w][e]
 
-[msg MSG_UNDOUBUIN_003_2_0 [Easygoing Basketball Player]]
-[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]O que é isso "confessar seus crimes"? Ele[n]realmente puniu fisicamente seus alunos?[n][w][e]
+[msg MSG_UNDOUBUIN_003_2_0 [Cestista alla mano]]
+[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]O que há com essa coisa de "confessar seus[n]crimes"? Ele realmente puniu corporativamente[n]seus alunos?[n][w][e]
 
-[msg MSG_UNDOUBUIN_003_3_0 [Intense Soccer Player]]
-[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Eles podem não ser nossos colegas de equipe,[n]mas todos vamos para a mesma escola. Espero[n]que estejam bem.[n][w][e]
+[msg MSG_UNDOUBUIN_003_3_0 [Calciatore brusco]]
+[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Eles não serão nossos colegas de equipe, mas vêm[n]para a escola conosco. Espero que estejam todos[n]bem.[n][w][e]
 
-[msg MSG_UNDOUBUIN_004_0_0 [Intense Soccer Player]]
-[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Eu admirava Kamoshida como atleta, mas ele[n]acabou sendo um scumbag...[n][w][e]
+[msg MSG_UNDOUBUIN_004_0_0 [Calciatore brusco]]
+[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Eu costumava admirar Kamoshida como atleta,[n]mas ele se tornou um verdadeiro saco[n]de merda...[n][w][e]
 
-[msg MSG_UNDOUBUIN_004_1_0 [Easygoing Basketball Player]]
-[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Tanta coisa para os privilégios do time de[n]vôlei. Bem, as outras equipes nunca foram[n]muito importantes.[n][w][e]
-[s][vp 8 2 1 0 7 0]Mas agora, podemos recrutar quem quisermos e[n]usar a academia a qualquer momento.[n]O time de basquete está assumindo o controle![n][w][e]
+[msg MSG_UNDOUBUIN_004_1_0 [Cestista alla mano]]
+[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Adeus aos privilégios da equipe de vôlei. Bem,[n]não que as outras equipes fossem tão boas.[n][w][e]
+[s][vp 8 2 1 0 7 0]Mas agora pelo menos podemos recrutar quem[n]quisermos e usar a academia. O cetro pertence ao[n]time de basquete![n][w][e]
 
-[msg MSG_UNDOUBUIN_004_2_0 [Intense Soccer Player]]
-[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Isto é o que você pensa! Se alguém estiver[n]assumindo qualquer coisa, será o time de[n]futebol![n][w][e]
+[msg MSG_UNDOUBUIN_004_2_0 [Calciatore brusco]]
+[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Você diz isso! Se alguém[n]merece o trono, somos nós[n]do time de futebol![n][w][e]
 
-[msg MSG_UNDOUBUIN_004EX_0_0 [Easygoing Basketball Player]]
-[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Aposto que você odiaria aconselhamento.[n]Você vai tentar resolver tudo com pura[n]vontade, certo?[n][w][e]
+[msg MSG_UNDOUBUIN_004EX_0_0 [Cestista alla mano]]
+[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Aposto que você odeia sessões.[n]Você prefere resolver tudo com[n]força de vontade sozinho, certo?[n][w][e]
 
-[msg MSG_UNDOUBUIN_004EX_1_0 [Intense Soccer Player]]
-[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Pelo contrário. A saúde mental é tão[n]importante quanto a saúde física nos[n]esportes.[n][w][e]
-[s][vp 8 2 1 0 6 0]A menos que você tenha controle sobre sua[n]mente, seu corpo não se moverá da maneira[n]que você deseja.[n][w][e]
+[msg MSG_UNDOUBUIN_004EX_1_0 [Calciatore brusco]]
+[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Ao contrário. No esporte[n]a saúde mental é tão importante[n]quanto a saúde física.[n][w][e]
+[s][vp 8 2 1 0 6 0]Se você não tem controle total[n]sobre a mente, o corpo[n]não se move como você deseja.[n][w][e]
 
-[msg MSG_UNDOUBUIN_004EX_2_0 [Easygoing Basketball Player]]
-[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Agora que você diz isso... eu sempre sinto[n]falta dos meus tiros quando é mais[n]importante.[n][w][e]
-[s][vp 8 2 1 0 7 0]... Eu me pergunto se vou melhorar indo para[n]aconselhamento.[n][w][e]
+[msg MSG_UNDOUBUIN_004EX_2_0 [Cestista alla mano]]
+[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Na verdade… Costumo errar[n]arremessos em momentos decisivos.[n][w][e]
+[s][vp 8 2 1 0 7 0]Quem sabe se me sentirei melhor[n]após algumas sessões.[n][w][e]
 
-[msg MSG_UNDOUBUIN_005_0_0 [Intense Soccer Player]]
-[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]O time de vôlei está bagunçado, e é logo[n]antes das preliminares do torneio.[n]Eu me sinto terrível por eles.[n][w][e]
+[msg MSG_UNDOUBUIN_005_0_0 [Calciatore brusco]]
+[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]O time de vôlei está uma bagunça,[n]e antes dos playoffs[n]do torneio. Eu me sinto péssimo por eles.[n][w][e]
 
-[msg MSG_UNDOUBUIN_005_1_0 [Easygoing Basketball Player]]
-[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Eles precisam sugar. Já era hora de alguém[n]derrubá-los de seu cavalo alto.[n][w][e]
-[s][vp 8 2 1 0 7 0]Eu tenho entregue aos ladrões fantasmas! Eu[n]os examinaria para se juntar à nossa[n]equipe, se pudesse![n][w][e]
+[msg MSG_UNDOUBUIN_005_1_0 [Cestista alla mano]]
+[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Eles têm que morder a bala. Já era hora de[n]alguém tirá-los[n]do pedestal.[n][w][e]
+[s][vp 8 2 1 0 7 0]Elogie os Phantom Thieves! Eu os assistiria para o[n]esquadrão deles se pudesse![n][w][e]
 
-[msg MSG_UNDOUBUIN_005_2_0 [Intense Soccer Player]]
-[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Hmph, não confie na tentativa de encontrar[n]tanto o talento. Ir praticar para construir[n]talentos é mais importante![n][w][e]
+[msg MSG_UNDOUBUIN_005_2_0 [Calciatore brusco]]
+[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Umpf, não se concentre muito em[n]talento. É mais importante treinar[n]para desenvolvê-lo![n][w][e]
 
-[msg MSG_UNDOUBUIN_005_01_0_0 [Intense Soccer Player]]
-[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Parece que algumas das meninas estão fazendo[n]barulho.[n][w][e]
+[msg MSG_UNDOUBUIN_005_01_0_0 [Calciatore brusco]]
+[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Aparentemente, algumas garotas[n]estão brincando.[n][w][e]
 
-[msg MSG_UNDOUBUIN_005_01_1_0 [Easygoing Basketball Player]]
-[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Hah! Eles estão apenas com ciúmes. Eles não[n]gostam do tratamento especial que[n]Yoshizawa-san está recebendo.[n][w][e]
-[s][vp 8 2 1 0 7 0]Não importa o que as pessoas digam sobre[n]ela, vamos ficar do lado dela![n][w][e]
+[msg MSG_UNDOUBUIN_005_01_1_0 [Cestista alla mano]]
+[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Ah! É simples inveja. Eles[n]não gostam que Yoshizawa-san receba[n]tratamento especial.[n][w][e]
+[s][vp 8 2 1 0 7 0]Nós a apoiaremos,[n]não importa o que[n]as pessoas digam sobre ela![n][w][e]
 
-[msg MSG_UNDOUBUIN_005_01_2_0 [Intense Soccer Player]]
-[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]De fato! Continuarei a apoiá-la como alguém[n]que dedica sua juventude aos esportes![n][w][e]
+[msg MSG_UNDOUBUIN_005_01_2_0 [Calciatore brusco]]
+[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Exatamente! Vou continuar apoiando ela,[n]afinal ela dedica a juventude[n]ao esporte assim como nós![n][w][e]
 
-[msg MSG_UNDOUBUIN_006_0_0 [Easygoing Basketball Player]]
-[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Oh, cara, eu estava rindo da minha bunda,[n]assistindo aquele velho chorar e chorar[n]nessa conferência de imprensa![n][w][e]
+[msg MSG_UNDOUBUIN_006_0_0 [Cestista alla mano]]
+[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Oh, cara, eu fiz xixi nas calças[n]vendo aquele velho reclamar[n]na coletiva de imprensa![n][w][e]
 
-[msg MSG_UNDOUBUIN_006_1_0 [Intense Soccer Player]]
-[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Tal desgraça. Um cara famoso como ele,[n]explorando seu próprio aluno.[n][w][e]
-[s][vp 8 2 1 0 6 0]Mas quero saber mais sobre os ladrões[n]fantasmas. Eles fizeram a mesma coisa com[n]Kamoshida.[n][w][e]
+[msg MSG_UNDOUBUIN_006_1_0 [Calciatore brusco]]
+[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Que pena. Um artista famoso[n]como ele que explora seus[n]próprios alunos.[n][w][e]
+[s][vp 8 2 1 0 6 0]Mas eu gostaria de saber mais sobre os Phantom[n]Thieves. Eles fizeram exatamente a mesma coisa[n]com Kamoshida.[n][w][e]
 
-[msg MSG_UNDOUBUIN_006_2_0 [Easygoing Basketball Player]]
-[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]E se eles realmente fossem para Shujin?[n]Gostaria de saber se eles se juntariam ao[n]time de basquete.[n][w][e]
+[msg MSG_UNDOUBUIN_006_2_0 [Cestista alla mano]]
+[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]E se eles realmente frequentarem Shujin? Quem[n]sabe se eles se juntariam ao time de basquete.[n][w][e]
 
-[msg MSG_UNDOUBUIN_007_0_0 [Easygoing Basketball Player]]
-[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]É ótimo que possamos usar a academia, mas...[n]É como uma sauna lá.[n][w][e]
+[msg MSG_UNDOUBUIN_007_0_0 [Cestista alla mano]]
+[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]É bom poder usar a academia,[n]mas... é como fazer sauna[n]aqui.[n][w][e]
 
-[msg MSG_UNDOUBUIN_007_1_0 [Intense Soccer team member]]
-[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Haha, já encerrando um dia? Como você espera[n]ganhar se não mostrar um pouco mais de[n]espinha dorsal?[n][w][e]
+[msg MSG_UNDOUBUIN_007_1_0 [Membro della squadra del calciatore brusco]]
+[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Ahah, você quer acabar com isso aqui já? Como[n]esperar vencer sem cuspir[n]um pouco de sangue?[n][w][e]
 
-[msg MSG_UNDOUBUIN_007_2_0 [Easygoing Basketball Player]]
-[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Você fica muito bem sobre as coisas.[n]Você não conhece garotas como caras que agem[n]legais e indiferentes?[n][w][e]
-[s][vp 8 2 1 0 7 0]Meninas gostam de caras como Goro Akechi,[n]aquele detetive que estava na TV outro dia.[n][w][e]
+[msg MSG_UNDOUBUIN_007_2_0 [Cestista alla mano]]
+[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Você fica muito animado com as coisas.[n]Você não sabe que as gatas preferem[n]tipos calmos e casuais?[n][w][e]
+[s][vp 8 2 1 0 7 0]Eles querem caras como Goro Akechi,[n]aquele detetive que estava na[n]TV outro dia.[n][w][e]
 
-[msg MSG_UNDOUBUIN_007_3_0 [Intense Soccer Player]]
-[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Oh, certo. Esse cara pode ser realmente[n]inteligente, mas ele é muito magro para[n]chutar o time de futebol![n][w][e]
+[msg MSG_UNDOUBUIN_007_3_0 [Calciatore brusco]]
+[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Ah com certeza. Esse cara pode ser[n]inteligente, mas ele é muito magro[n]para jogar futebol![n][w][e]
 
-[msg MSG_UNDOUBUIN_008_0_0 [Intense Soccer Player]]
-[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Há um comp de ginástica chegando.[n]Esse aluno de honra está participando; Eu[n]digo que temos a escola inteira para[n]apoiá-la.[n][w][e]
-[s]...O que é isso? Você parece estar de bom[n]humor.[n][w][e]
+[msg MSG_UNDOUBUIN_008_0_0 [Calciatore brusco]]
+[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Há uma competição de ginástica em breve, e o[n]sujeito estará participando. Deve ter o apoio de[n]toda a escola.[n][w][e]
+[s]O que acontece? Vejo você de mau humor.[n][w][e]
 
-[msg MSG_UNDOUBUIN_008_1_0 [Easygoing Basketball Player]]
-[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Não... falando de competições como essa...[n]você sabe que acabei de perder as[n]primárias, certo...?[n][w][e]
+[msg MSG_UNDOUBUIN_008_1_0 [Cestista alla mano]]
+[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Não, falando sobre corridas como esta...[n]Você sabe que eu perdi as primárias, certo?[n][w][e]
 
-[msg MSG_UNDOUBUIN_008_2_0 [Intense Soccer Player]]
-[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]O que você está falando!? Foi um bom jogo![n]Você ganhou em espírito, então não se[n]preocupe![n][w][e]
+[msg MSG_UNDOUBUIN_008_2_0 [Calciatore brusco]]
+[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Do que você está falando?[n]Foi um bom jogo![n]Você é o vencedor espiritual![n][w][e]
 
-[msg MSG_UNDOUBUIN_009_0_0 [Easygoing Basketball Player]]
-[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Há todo esse hype no site da Phantom Thieves[n]desde que eles enviaram outro cartão de[n]visita.[n][w][e]
-[s][vp 8 2 1 0 7 0]Fiquei acordado lendo sobre isso e não dormi[n]muito. Eu tããão não quero ir praticar...[n][w][e]
+[msg MSG_UNDOUBUIN_009_0_0 [Cestista alla mano]]
+[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Há muita agitação no site[n]Phantom Thieves agora que eles[n]enviaram outra carta de aviso.[n][w][e]
+[s][vp 8 2 1 0 7 0]Estive acordado lendo todos[n]os posts e agora estou morrendo de sono.[n]Não estou com vontade de treinar...[n][w][e]
 
-[msg MSG_UNDOUBUIN_009_1_0 [Intense Soccer Player]]
-[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]O que você está fazendo!?[n][w][e]
-[s][vp 8 2 1 0 6 0]Cabe a nós trazer orgulho para a Shujin[n]Academy agora que o time de vôlei foi[n]desonrado![n][w][e]
+[msg MSG_UNDOUBUIN_009_1_0 [Calciatore brusco]]
+[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]O que você está fazendo!?![n][w][e]
+[s][vp 8 2 1 0 6 0]Cabe a nós trazer o orgulho de[n]Shujin agora que o[n]time de vôlei caiu em desgraça![n][w][e]
 
-[msg MSG_UNDOUBUIN_009_2_0 [Easygoing Basketball Player]]
-[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Você tem razão. No terceiro ano, todos se[n]aposentaram, então eu tenho que levar meu[n]papel de capitão a sério.[n][w][e]
+[msg MSG_UNDOUBUIN_009_2_0 [Cestista alla mano]]
+[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Você tem razão. No terceiro ano[n]todos se retiraram, devo[n]honrar meu papel como capitão.[n][w][e]
 
-[msg MSG_UNDOUBUIN_010_0_0 [Easygoing Basketball Player]]
-[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Os ladrões Phantom são reais? Ouvi dizer que[n]eles até mudaram o coração da máfia. É[n]incrível.[n][w][e]
-[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Heróis como eles devem pegar todas as[n]meninas.[n]Talvez eu pare de basquete para se juntar[n]aos ladrões Phantom.[n][w][e]
+[msg MSG_UNDOUBUIN_010_0_0 [Cestista alla mano]]
+[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Os ladrões fantasmas são reais? Eles dizem[n]que até despertaram os[n]corações dos mafiosos. Louco.[n][w][e]
+[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Heróis como eles terão garotas a seus pés. Talvez[n]eu devesse desistir do basquete e me juntar aos[n]Phantom Thieves.[n][w][e]
 
-[msg MSG_UNDOUBUIN_010_1_0 [Intense Soccer Player]]
-[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Os ladrões Phantom são apenas uma moda[n]passageira! Você não está pensando seriamente em[n]desistir do seu time, é você!?[n][w][e]
+[msg MSG_UNDOUBUIN_010_1_0 [Calciatore brusco]]
+[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Não! Eu sou apenas uma moda passageira! Você[n]realmente não pensa em sair do time, hein!?![n][w][e]
 
-[msg MSG_UNDOUBUIN_010_2_0 [Easygoing Basketball Player]]
-[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Eu simplesmente não acho que vai dar certo.[n]Não há muitas pessoas talentosas que eu[n]possa me juntar à nossa equipe.[n][w][e]
+[msg MSG_UNDOUBUIN_010_2_0 [Cestista alla mano]]
+[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]É que não vejo como isso[n]funciona. Não consigo encontrar[n]talentos para recrutar para minha equipe.[n][w][e]
 
-[msg MSG_UNDOUBUIN_010_01_0_0 [Easygoing Basketball Player]]
-[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Você ouviu sobre Yoshizawa-san?[n]Ouvi dizer que ela não se saiu muito bem na[n]competição...[n][w][e]
+[msg MSG_UNDOUBUIN_010_01_0_0 [Cestista alla mano]]
+[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Você ouviu falar de Yoshizawa-san?[n]Parece que ela não se saiu muito bem[n]na competição...[n][w][e]
 
-[msg MSG_UNDOUBUIN_010_01_1_0 [Intense Soccer Player]]
-[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Hmm, isso é uma pena. Tenho certeza que ela[n]está machucada com isso. Eu gostaria que[n]houvesse algo que eu pudesse fazer, mas...[n][w][e]
+[msg MSG_UNDOUBUIN_010_01_1_0 [Calciatore brusco]]
+[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Hum, que pena. Ele certamente estará sofrendo. Eu[n]gostaria de poder fazer alguma coisa, mas...[n][w][e]
 
-[msg MSG_UNDOUBUIN_010_01_2_0 [Easygoing Basketball Player]]
-[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Mas estamos perdendo nossos jogos o ano[n]todo. O que podemos realmente dizer...?[n][w][e]
+[msg MSG_UNDOUBUIN_010_01_2_0 [Cestista alla mano]]
+[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Mas este ano todos nós perdemos o tempo todo.[n]O que poderíamos dizer a ela...?[n][w][e]
 
-[msg MSG_UNDOUBUIN_011_1_0 [Intense Soccer Player]]
-[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Outro dia, negociei com o presidente do[n]Conselho Estudantil Niijima para aumentar o[n]orçamento da nossa equipe...[n][w][e]
-[s][vp 8 2 1 0 6 0]Imediatamente, ela criou que nossa equipe[n]perde repetidamente na primeira rodada.[n]Eu realmente não poderia discutir com isso...[n][w][e]
+[msg MSG_UNDOUBUIN_011_1_0 [Calciatore brusco]]
+[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Eu negociei com o[n]presidente Niijima outro dia sobre um[n]aumento de orçamento para nossa equipe...[n][w][e]
+[s][vp 8 2 1 0 6 0]Ele imediatamente apontou que nosso[n]time estava perdendo desde o primeiro round.[n]Eu não sabia como argumentar de volta...[n][w][e]
 
-[msg MSG_UNDOUBUIN_011_2_0 [Easygoing Basketball Player]]
-[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Haha, o que você esperava? Na nossa escola,[n]o presidente do conselho estudantil não[n]pode ser uma tarefa insuficiente.[n][w][e]
-[s][vp 8 2 1 0 7 0]Olha, você não pode convencer uma única[n]garota a sair com você, muito menos[n]convencê-la a aumentar seu orçamento.[n][w][e]
+[msg MSG_UNDOUBUIN_011_2_0 [Cestista alla mano]]
+[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Haha, o que você esperava? O[n]presidente do conselho[n]estudante não é um otário.[n][w][e]
+[s][vp 8 2 1 0 7 0]Se você não consegue uma garota solteira para[n]sair com você, muito menos obter um aumento de[n]orçamento dela.[n][w][e]
 
-[msg MSG_UNDOUBUIN_012_0_0 [Easygoing Basketball Player]]
-[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Phantom Thieves, Phantom Thieves, Phantom[n]Thieves! É tudo o que as pessoas se[n]preocupam![n][w][e]
-[s][vp 8 2 1 0 7 0]Ninguém se importa com o nosso torneio[n]chegando![n][w][e]
+[msg MSG_UNDOUBUIN_012_0_0 [Cestista alla mano]]
+[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Ladrões Fantasma aqui, Ladrões[n]Phantom aqui, Ladrões, Ladrões,[n]Ladrões! Só falamos deles![n][w][e]
+[s][vp 8 2 1 0 7 0]Ninguém dá a mínima para[n]o nosso próximo torneio![n][w][e]
 
-[msg MSG_UNDOUBUIN_012_1_0 [Intense Soccer Player]]
-[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Agora é a hora de se preocupar com isso?[n]Temos que fazer nossa parte como capitães,[n]se realmente queremos ganhar.[n][w][e]
+[msg MSG_UNDOUBUIN_012_1_0 [Calciatore brusco]]
+[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]São essas as coisas com as quais você[n]se preocupa? Temos que bater[n]como capitães se quisermos vencer.[n][w][e]
 
-[msg MSG_UNDOUBUIN_012_2_0 [Easygoing Basketball Player]]
-[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Por que eu vim para Shujin? Não foi nada[n]além de drama desde o primeiro dia...[n][w][e]
+[msg MSG_UNDOUBUIN_012_2_0 [Cestista alla mano]]
+[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Pepor que eu vim para Shujin?[n]Não havia mais nada[n]além de infortúnios e novelas.[n][w][e]
 
-[msg MSG_UNDOUBUIN_013_0_0 [Easygoing Basketball Player]]
-[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]H-hey. Eu tenho pensado... algo seriamente[n]errado com esta escola? Talvez seja[n]amaldiçoado.[n][w][e]
-[s][vp 8 2 1 0 7 0]Aquele aluno transferido cruel, uma[n]tentativa de suicídio, crimes sexuais por[n]um professor, nosso diretor morreu...[n][w][e]
+[msg MSG_UNDOUBUIN_013_0_0 [Cestista alla mano]]
+[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]E-Ei. Eu estava pensando... Não há[n]algo absurdamente errado com[n]esta escola? Talvez ela esteja amaldiçoada.[n][w][e]
+[s][vp 8 2 1 0 7 0]Aquele novo aluno violento, uma[n]tentativa de suicídio, abuso sexual de[n]uma professora, a morte do diretor...[n][w][e]
 
-[msg MSG_UNDOUBUIN_013_1_0 [Intense Soccer Player]]
-[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Você tem razão. Isso acontece muito em[n]apenas um ano. Talvez essa escola seja[n]realmente amaldiçoada.[n][w][e]
+[msg MSG_UNDOUBUIN_013_1_0 [Calciatore brusco]]
+[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Você tem razão. Muitas[n]coisas aconteceram em apenas um ano. Talvez[n]seja realmente amaldiçoado.[n][w][e]
 
-[msg MSG_UNDOUBUIN_013_2_0 [Easygoing Basketball Player]]
-[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Isso faz sentido. Uma maldição explicaria[n]por que não podemos conseguir membros[n]decentes ou vencer nenhum jogo.[n][w][e]
+[msg MSG_UNDOUBUIN_013_2_0 [Cestista alla mano]]
+[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Sim. Isso justificaria o fato de que[n]não conseguimos encontrar[n]recrutas decentes ou vencer metade do jogo.[n][w][e]
 
-[msg MSG_UNDOUBUIN_014_0_0 [Easygoing Basketball Player]]
-[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Tudo o que ouvi são os ladrões fantasmas.[n]Uma grande empresa recebeu seu cartão de[n]visita desta vez, certo?[n][w][e]
+[msg MSG_UNDOUBUIN_014_0_0 [Cestista alla mano]]
+[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Nada é mencionado, exceto o Thieves[n]Phantom. A nova carta-desafio[n]veio para uma grande empresa, né?[n][w][e]
 
-[msg MSG_UNDOUBUIN_014_1_0 [Intense Soccer Player]]
-[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Você sabe que eu ouvi que o presidente dessa[n]corporação é o pai de Okumura-Senpai.[n][w][e]
+[msg MSG_UNDOUBUIN_014_1_0 [Calciatore brusco]]
+[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Ouvi dizer que o presidente[n]daquela empresa é o pai de Okumura-senpai.[n][w][e]
 
-[msg MSG_UNDOUBUIN_014_2_0 [Easygoing Basketball Player]]
-[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]O que? Eu não sabia que você gostava de[n]garotas assim. Huh. Todo o tempo todo, você[n]era um escavador de ouro...[n][w][e]
+[msg MSG_UNDOUBUIN_014_2_0 [Cestista alla mano]]
+[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Cheee? Eu não sabia que você estava interessado[n]em certas garotas. Eu fiz você reservado, e em[n]vez disso você é um caçador de fortunas.[n][w][e]
 
-[msg MSG_UNDOUBUIN_014_3_0 [Intense Soccer Player]]
-[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Pare de mexer![n][w][e]
-[s][vp 8 2 1 0 6 0]Precisamos dedicar o máximo de tempo[n]possível às nossas equipes. Não podemos nos[n]deixar distrair com as mulheres![n][w][e]
+[msg MSG_UNDOUBUIN_014_3_0 [Calciatore brusco]]
+[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Não fale besteira![n][w][e]
+[s][vp 8 2 1 0 6 0]Temos de nos dedicar de corpo e alma às nossas[n]equipas. Não podemos nos distrair com as[n]mulheres![n][w][e]
 
-[msg MSG_UNDOUBUIN_015_0_0 [Easygoing Basketball Player]]
-[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Os ladrões fantasmas estavam por trás da[n]morte do pai de Okumura-Senpai?[n][w][e]
-[s][vp 8 2 1 0 7 0]Eu acho que é melhor tentar se tornar[n]popular através de esportes do que agir[n]mais como esses caras.[n][w][e]
+[msg MSG_UNDOUBUIN_015_0_0 [Cestista alla mano]]
+[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Os Phantom Thieves estão por trás da[n]morte do pai de Okumura-senpai?[n][w][e]
+[s][vp 8 2 1 0 7 0]É muito melhor ganhar[n]popularidade por meio do esporte[n]do que agindo como eles.[n][w][e]
 
-[msg MSG_UNDOUBUIN_015_1_0 [Intense Soccer Player]]
-[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Eu pensei que esses caras eram realmente[n]algo, mas... talvez eu tivesse a ideia[n]errada sobre eles.[n][w][e]
-[s][vp 8 2 1 0 6 0]Eu acho que se eles realmente estivessem[n]determinados a realizar justiça, não[n]esconderiam o rosto.[n][w][e]
+[msg MSG_UNDOUBUIN_015_1_0 [Calciatore brusco]]
+[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Eu pensei que esses caras eram especiais, mas...[n]Talvez eu tenha cometido um grande erro sobre[n]eles.[n][w][e]
+[s][vp 8 2 1 0 6 0]Na verdade, se eles realmente quisessem[n]respeitar a justiça, eles[n]não teriam coberto seus rostos.[n][w][e]
 
-[msg MSG_UNDOUBUIN_016_0_0 [Easygoing Basketball Player]]
-[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Ei, Akechi chegará ao nosso festival[n]escolar. Todas as meninas estão super[n]empolgadas com isso.[n][w][e]
-[s][vp 8 2 1 0 7 0]Você acha que os ladrões Phantom podem[n]realmente frequentar nossa escola?[n][w][e]
+[msg MSG_UNDOUBUIN_016_0_0 [Cestista alla mano]]
+[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Ei, Akechi virá ao nosso[n]festival escolar. As meninas[n]ficarão super animadas.[n][w][e]
+[s][vp 8 2 1 0 7 0]Você acha que os Phantom Thieves[n]realmente frequentam Shujin?[n][w][e]
 
-[msg MSG_UNDOUBUIN_016_1_0 [Intense Soccer Player]]
-[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Concentre-se mais no torneio de outono![n]Nós dois estivemos em uma sequência de[n]vitórias, então vamos continuar assim![n][w][e]
-[s][vp 8 2 1 0 6 0]Não temos tempo para desfrutar de um[n]festival escolar![n][w][e]
+[msg MSG_UNDOUBUIN_016_1_0 [Calciatore brusco]]
+[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]É melhor nos concentrarmos no torneio de outono![n]Estamos ambos em[n]bomba, não vamos desistir![n][w][e]
+[s][vp 8 2 1 0 6 0]Não temos tempo para diversão em um festival[n]escolar![n][w][e]
 
-[msg MSG_UNDOUBUIN_017_0_0 [Easygoing Basketball Player]]
-[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Você sabe, os Kohais estão querendo[n]implementar um novo método de treinamento[n]para a prática.[n][w][e]
+[msg MSG_UNDOUBUIN_017_0_0 [Cestista alla mano]]
+[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Você sabe, os kohai querem adotar[n]um novo método de[n]treinamento.[n][w][e]
 
-[msg MSG_UNDOUBUIN_017_1_0 [Intense Soccer Player]]
-[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Parece que os caras da minha equipe também[n]estudam dietas e exercícios diferentes.[n][w][e]
-[s][vp 8 2 1 0 6 0]É como se todos tivessem mudado. Os ladrões[n]fantasmas chegaram a todos eles ou algo[n]assim?[n][w][e]
+[msg MSG_UNDOUBUIN_017_1_0 [Calciatore brusco]]
+[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Na minha equipe, por outro lado, eles[n]introduziram[n]diferentes dietas e novos exercícios.[n][w][e]
+[s][vp 8 2 1 0 6 0]É como se todos tivessem mudado.[n]Os Phantom Thieves[n]não tiveram uma mão nisso?[n][w][e]
 
-[msg MSG_UNDOUBUIN_017_4_0 [Easygoing Basketball Player]]
-[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]De jeito nenhum, os ladrões fantasmas são[n]assassinos.[n]Eles já estariam mortos se fossem alvo por[n]eles.[n][w][e]
+[msg MSG_UNDOUBUIN_017_4_0 [Cestista alla mano]]
+[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Nem mesmo mencione isso! Os Phantom Thieves são[n]assassinos. Eles teriam morrido se tivessem sido[n]alvejados.[n][w][e]
 
-[msg MSG_UNDOUBUIN_018_0_0 [Easygoing Basketball Player]]
-[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Você sabe, eu estava pensando. Nossa escola[n]começou a mudar depois que a coisa de[n]Kamoshida aconteceu, certo?[n][w][e]
+[msg MSG_UNDOUBUIN_018_0_0 [Cestista alla mano]]
+[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Sabe, eu estava pensando. Nossa[n]escola começou a mudar[n]após o caso Kamoshida, certo?[n][w][e]
 
-[msg MSG_UNDOUBUIN_018_1_0 [Intense Soccer Player]]
-[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Eu penso que sim. Apenas um evento pode[n]fazer grandes mudanças. Essa é a minha[n]opinião sobre isso.[n][w][e]
+[msg MSG_UNDOUBUIN_018_1_0 [Calciatore brusco]]
+[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Eu penso que sim. Um único evento pode[n]acionar uma cadeia de[n]mudanças de época. Eu vejo isso dessa forma.[n][w][e]
 
-[msg MSG_UNDOUBUIN_018_2_0 [Easygoing Basketball Player]]
-[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Ah, sim, e lá está a eleição no final do[n]ano. Talvez o mundo inteiro também mude.[n][w][e]
+[msg MSG_UNDOUBUIN_018_2_0 [Cestista alla mano]]
+[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]A propósito, haverá eleições[n]no final do ano. Talvez até o[n]mundo inteiro mude.[n][w][e]
 
-[msg MSG_UNDOUBUIN_018_3_0 [Intense Soccer Player]]
-[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Eu não tenho certeza. Ainda não podemos[n]votar, então tudo o que podemos fazer é[n]assistir e ver o que acontece.[n][w][e]
+[msg MSG_UNDOUBUIN_018_3_0 [Calciatore brusco]]
+[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Eu não saberia. Ainda não podemos[n]votar. Temos que esperar[n]e ver o que acontece.[n][w][e]
 
-[msg MSG_UNDOUBUIN_019_0_0 [Easygoing Basketball Player]]
-[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Ah, cara, o ano está prestes a terminar.[n]Os exames foram assassinatos e a equipe não[n]está indo muito bem...[n][w][e]
+[msg MSG_UNDOUBUIN_019_0_0 [Cestista alla mano]]
+[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Nossa, o ano está acabando.[n]As provas estão ótimas e[n]até a equipe está com dificuldades...[n][w][e]
 
-[msg MSG_UNDOUBUIN_019_1_0 [Intense Soccer Player]]
-[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Bem, houve uma grande mudança no governo.[n]Podemos fazer esse mesmo tipo de mudança no[n]próximo ano![n][w][e]
+[msg MSG_UNDOUBUIN_019_1_0 [Calciatore brusco]]
+[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Bem, houve uma revolução no governo. Nós também[n]poderíamos virar assim no próximo ano![n][w][e]
 
-[msg MSG_UNDOUBUIN_019_2_0 [Easygoing Basketball Player]]
-[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Não sei se essa grande mudança no governo é[n]uma coisa boa. Shido entrou em colapso e[n]ele parece desgastado.[n][w][e]
-[s][vp 8 2 1 0 7 0]Mannn, é quase Natal![n]Não há algo de bom acontecer já?[n][w][e]
+[msg MSG_UNDOUBUIN_019_2_0 [Cestista alla mano]]
+[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Não sei se essa revolução foi uma coisa boa.[n]Shido desabou e parece exausto.[n][w][e]
+[s][vp 8 2 1 0 7 0]Uau, é quase Natal![n]Não pode acontecer algo[n]bom, pelo menos uma vez?[n][w][e]
 
-[msg MSG_UNDOUBUIN_020_0_0 [Intense Soccer Player]]
-[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Minha equipe esteve em espírito[n]particularmente alto este ano. O que[n]aconteceu?[n][w][e]
+[msg MSG_UNDOUBUIN_020_0_0 [Calciatore brusco]]
+[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Os membros[n]da minha equipe estão estranhamente[n]eufóricos desde o início do ano. O que aconteceu?[n][w][e]
 
-[msg MSG_UNDOUBUIN_020_1_0 [Easygoing Basketball Player]]
-[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Mesmo aqui. Não é apenas a nossa equipe, a[n]sociedade parece ser particularmente feliz[n]recentemente também.[n][w][e]
-[s][vp 8 2 1 0 7 0]A TV estava dizendo algo sobre este ano ser[n]super sortudo.[n][w][e]
+[msg MSG_UNDOUBUIN_020_1_0 [Cestista alla mano]]
+[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]A mesma coisa conosco. Mas não apenas a equipe.[n]Ultimamente é toda a sociedade que parece feliz.[n][w][e]
+[s][vp 8 2 1 0 7 0]Na TV, eles disseram que[n]este será um ano[n]especialmente de sorte.[n][w][e]
 
-[msg MSG_UNDOUBUIN_020_2_0 [Intense Soccer Player]]
-[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Hmm... mas estar muito feliz pode ser um[n]prejuízo. A determinação é importante em um[n]jogo.[n][w][e]
+[msg MSG_UNDOUBUIN_020_2_0 [Calciatore brusco]]
+[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Mmh... Mas um excesso de felicidade[n]pode ser prejudicial. Nas partidas,[n]determinação é importante.[n][w][e]
 
-[msg MSG_UNDOUBUIN_020_3_0 [Easygoing Basketball Player]]
-[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Cara, você não mudou, mesmo depois do ano[n]novo... vamos tentar apenas apreciar a[n]felicidade.[n][w][e]
+[msg MSG_UNDOUBUIN_020_3_0 [Cestista alla mano]]
+[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Você é sempre o mesmo, mesmo depois[n]do réveillon... vamos aproveitar[n]essa felicidade.[n][w][e]
 
-[msg MSG_UNDOUBUIN_021_0_0 [Easygoing Basketball Player]]
-[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Agora que aqueles ladrões fantasmas[n]barulhentos desapareceram, esperamos nos[n]concentrar mais na prática este ano.[n][w][e]
+[msg MSG_UNDOUBUIN_021_0_0 [Cestista alla mano]]
+[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Sem aqueles irritantes[n]Phantom Thieves, podemos[n]focar no treinamento este ano.[n][w][e]
 
-[msg MSG_UNDOUBUIN_021_1_0 [Intense Soccer Player]]
-[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Este é o nosso último ano. Devemos obter[n]glória.[n][w][e]
+[msg MSG_UNDOUBUIN_021_1_0 [Calciatore brusco]]
+[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]É o nosso último ano.[n]Temos que encontrar a glória.[n][w][e]
 
-[msg MSG_UNDOUBUIN_021_2_0 [Easygoing Basketball Player]]
-[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Sim, eu vou dar tudo o que tenho. Não quero[n]culpar outra pessoa, mesmo se perdermos.[n][w][e]
+[msg MSG_UNDOUBUIN_021_2_0 [Cestista alla mano]]
+[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Eu darei o meu melhor. Se fôssemos[n]perder, não vou culpar[n]ninguém.[n][w][e]
 
-[msg MSG_UNDOUBUIN_021_3_0 [Intense Soccer Player]]
-[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Não pense em perder! Faça o melhor que puder[n]e concentre-se no futuro![n][w][e]
+[msg MSG_UNDOUBUIN_021_3_0 [Calciatore brusco]]
+[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Não pense em derrota![n]Dê tudo e[n]foque no futuro![n][w][e]
 
-[msg MSG_UNDOUBUIN_022_0_0 [Easygoing Basketball Player]]
-[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Eu me pergunto o que realmente eram os[n]ladrões fantasmas. Eles pegaram o mundo[n]pela tempestade e depois desapareceram.[n][w][e]
+[msg MSG_UNDOUBUIN_022_0_0 [Cestista alla mano]]
+[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Quem sabe o que aqueles ladrões fantasmas[n]realmente eram. Eles abalaram o mundo e depois[n]desapareceram no ar.[n][w][e]
 
-[msg MSG_UNDOUBUIN_022_1_0 [Intense Soccer Player]]
-[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Por causa de todo o barulho da escola, às[n]vezes eu pensava que eles eram meio[n]irritantes, mas agora sou grato.[n][w][e]
-[s][vp 8 2 1 0 6 0]Os ladrões Phantom me ensinaram que você não[n]ganhará nada se espera que outra pessoa[n]faça seu trabalho.[n][w][e]
+[msg MSG_UNDOUBUIN_022_1_0 [Calciatore brusco]]
+[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Por causa de todo aquele caos na escola, muitas[n]vezes eu os achava irritantes, mas agora sou[n]grato a eles.[n][w][e]
+[s][vp 8 2 1 0 6 0]Ensinaram-me que você não pode[n]conseguir nada se esperar que[n]outros façam o trabalho duro por você.[n][w][e]
 
-[msg MSG_UNDOUBUIN_022_2_0 [Easygoing Basketball Player]]
-[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Bem, somos capitães... Vamos fazer todo o[n]possível para levar nossas equipes para os[n]nacionais este ano![n][w][e]
+[msg MSG_UNDOUBUIN_022_2_0 [Cestista alla mano]]
+[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Bem, nós somos capitães… Fazemos[n]o nosso melhor para levar[n]nossas equipes para o Nacional![n][w][e]
 
-[msg MSG_Q73_HINT_NPC_000_00 [Easygoing Basketball Player]]
-[s][f 4 23 1 650 3 10 0 10][vp 8 2 1 0 650 0]Ouvi dizer que Kaya parou de aparecer para[n]praticar depois que o Sr. Kamoshida saiu.[n][w][e]
+[msg MSG_Q73_HINT_NPC_000_00 [Cestista alla mano]]
+[s][f 4 23 1 650 3 10 0 10][vp 8 2 1 0 650 0]Ouvi dizer que Kaya não foi mais treinar depois[n]da despedida do Prof. Kamoshida.[n][w][e]
 
-[msg MSG_Q73_HINT_NPC_010_00 [Intense Soccer Player]]
-[s][f 4 23 1 651 3 10 0 10][vp 8 2 1 0 651 0]Ela nem está chegando à escola, é?[n][w][e]
+[msg MSG_Q73_HINT_NPC_010_00 [Calciatore brusco]]
+[s][f 4 23 1 651 3 10 0 10][vp 8 2 1 0 651 0]Ele não vai voltar para a escola, vai?[n][w][e]
 
-[msg MSG_Q73_HINT_NPC_020_00 [Easygoing Basketball Player]]
-[s][f 4 23 1 650 3 10 0 10][vp 8 2 1 0 650 0]Kaya realmente respeitava o Sr. Kamoshida,[n]então talvez ela esteja realmente chocada...[n][w][e]
+[msg MSG_Q73_HINT_NPC_020_00 [Cestista alla mano]]
+[s][f 4 23 1 650 3 10 0 10][vp 8 2 1 0 650 0]Kaya respeitava muito o[n]Prof. Kamoshida, então ela pode[n]estar chocada…[n][w][e]
 
 [msg MSG_Q73_HINT_NPC_030_00 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Hmm, um membro da equipe de vôlei chamado[n]Kaya, que respeitava Kamoshida, está[n]pulando a escola...[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Kaya, uma garota do[n]time de vôlei que respeitava Kamoshida,[n]começou a matar aula...[n][w][e]
 
 [msg MSG_CHK_Q73_HINT_000_00]
 [s][vp 1 0 0 0 0 0]クエスト73 ヒントNPC[n]全部ヒント手に入れた[n][w][e]
 
 [msg MSG_CHK_Q73_HINT_001_00 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Parece que temos informações suficientes[n]agora. Vamos para o esconderijo e discutir[n]um plano![n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Parece que temos informações suficientes! Vamos[n]voltar ao esconderijo e falar sobre o plano![n][w][e]
 
 [msg MSG_GRT_main_All_001_01_ [Morgana]]
-[s][vp 9 2 65535 42712 0 0]Você viu o que as pessoas estavam dizendo[n]naquele site?[n]É ele...[n][f 1 2 180][e]
+[s][vp 9 2 65535 42712 0 0]Veja o que as pessoas estavam dizendo[n]naquele site? Ele é...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_001_02_ [Morgana]]
-[s][vp 9 2 65535 42312 0 0]A vida desse cara acabou.[n]Ele já deveria desaparecer.[n][f 1 2 180][e]
+[s][vp 9 2 65535 42312 0 0]A vida daquele cara acabou.[n]Ele deveria simplesmente[n]desaparecer.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_001_03_ [Morgana]]
-[s]0 [n][f 1 2 180][e]
+[s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_001_04_ [Morgana]]
-[s][vp 9 2 65535 42412 0 0]Apenas fique longe dele.[n]Esse cara não passa de problemas.[n][f 1 2 180][e]
+[s][vp 9 2 65535 42412 0 0]Você tem que ficar longe dele.[n]Esse cara só traz problemas.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_001_05_ [Morgana]]
-[s][vp 9 2 65535 38704 0 0]Foi ele quem foi acusado de agressão?[n][f 1 2 180][e]
+[s][vp 9 2 65535 38704 0 0]É aquele que foi acusado[n]de agressão?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_001_06_ [Morgana]]
-[s][vp 9 2 65535 42462 0 0]Ouvi alguém que foi acusado de agressão[n]transferida para a nossa escola como[n]segundo ano...[n][f 1 2 180][e]
+[s][vp 9 2 65535 42462 0 0]Aparentemente, um cara que foi[n]acusado de agressão se mudou[n]para cá quando estava no segundo ano...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_002_01_ [Morgana]]
-[s][vp 9 2 65535 43162 0 0]Se ele é um delinqüente, ele deve agir mais[n]como um e não chegar à nossa escola.[n][f 1 2 180][e]
+[s][vp 9 2 65535 43162 0 0]Se ele é um delinquente, ele deve[n]agir como tal e não[n]vir para nossa escola.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_002_02_ [Morgana]]
-[s][vp 9 2 65535 46302 0 0]Ele está agindo quieto por enquanto, mas não[n]há como dizer quando ele causará problemas.[n][f 1 2 180][e]
+[s][vp 9 2 65535 46302 0 0]Ele está indo bem por enquanto,[n]mas quem sabe quando[n]ele vai causar mais problemas.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_002_03_ [Morgana]]
-[s][vp 9 2 65535 42962 0 0]Ele parece bem normal, mas...[n][f 1 2 180][e]
+[s][vp 9 2 65535 42962 0 0]Ele parece um cara normal, mas...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_002_04_ [Morgana]]
-[s][vp 9 2 65535 42162 0 0]Se você cair com alguém como ele, estará no[n]final perdedor da vida.[n][f 1 2 180][e]
+[s][vp 9 2 65535 42162 0 0]Se você for com alguém como[n]ele, você está fadado a perder.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_002_05_ [Morgana]]
-[s][vp 9 2 65535 42112 0 0]Ele tem um pouco de nervo, apenas entrando[n]aqui tudo casualmente assim...[n][f 1 2 180][e]
+[s][vp 9 2 65535 42112 0 0]Ele tem coragem de entrar aqui[n]como se nada tivesse acontecido...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_002_06_ [Morgana]]
-[s][vp 9 2 65535 43363 0 0]Não faça contato visual com ele. Você não[n]sabe o que ele pode fazer conosco...[n][f 1 2 180][e]
+[s][vp 9 2 65535 43363 0 0]Melhor não fazer contato visual com ele. Você[n]nunca sabe o que pode fazer com isso...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_003_01_ [Morgana]]
-[s][vp 9 2 65535 42112 0 0]Ouvi dizer que ele e Sakamoto estão sendo[n]expulsos...[n][f 1 2 180][e]
+[s][vp 9 2 65535 42112 0 0]Parece que ele e[n]Sakamoto serão expulsos.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_003_02_ [Morgana]]
-[s][vp 9 2 65535 45805 0 0]Então as pessoas sendo expulsas são ele,[n]Sakamoto e...[n]Quem mais foi?[n][f 1 2 180][e]
+[s][vp 9 2 65535 45805 0 0]Então quem vai ser expulso[n]são ele, Sakamoto e…[n]quem era o outro?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_003_03_ [Morgana]]
-[s][vp 9 2 65535 38902 0 0]Ouvi dizer que ele realmente deixou o Sr.[n]Kamoshida louco...[n][f 1 2 180][e]
+[s][vp 9 2 65535 38902 0 0]Parece ter deixado[n]furioso o Prof. Kamoshida...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_003_04_ [Morgana]]
-[s][vp 9 2 65535 38254 0 0]É verdade que esses dois problemas que os[n]alunos serão expulsos da escola?[n][f 1 2 180][e]
+[s][vp 9 2 65535 38254 0 0]É verdade que esses dois[n]alunos problemáticos serão expulsos[n]da escola?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_003_05_ [Morgana]]
-[s][vp 9 2 65535 42203 0 0]Eles não estão expulsando aquele sakamoto[n]inadimplente e o aluno transferido?[n][f 1 2 180][e]
+[s][vp 9 2 65535 42203 0 0]Eles realmente vão[n]expulsar aquele ofensor[n]Sakamoto e o novo aluno?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_003_06_ [Morgana]]
-[s][vp 9 2 65535 42762 0 0]As coisas devem se acalmar e voltar ao[n]normal depois que elas são expulsas, certo?[n][f 1 2 180][e]
+[s][vp 9 2 65535 42762 0 0]As coisas devem voltar[n]ao normal depois que eles[n]forem expulsos, certo?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_004_01_ [Morgana]]
-[s][vp 9 2 65535 43161 0 0]Ele tem coragem de brigar com Kamoshida.[n][f 1 2 180][e]
+[s][vp 9 2 65535 43161 0 0]É preciso coragem para arranjar[n]lutas com Kamoshida.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_004_02_ [Morgana]]
-[s][vp 9 2 65535 37555 0 0]É um "cartão de chamada". Supostamente, eles[n]vão fazê-lo confessar seus próprios pecados.[n][f 1 2 180][e]
+[s][vp 9 2 65535 37555 0 0]É uma "carta de aviso".[n]Aparentemente, eles querem que ele[n]confesse todos os seus crimes.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_004_03_ [Morgana]]
-[s]0 [n][f 1 2 180][e]
+[s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_004_04_ [Morgana]]
-[s][vp 9 2 65535 46355 0 0]O que é um cartão de visita?[n]É algum tipo de brincadeira?[n][f 1 2 180][e]
+[s][vp 9 2 65535 46355 0 0]O que é uma carta de aviso?[n]Algum tipo de piada?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_004_05_ [Morgana]]
-[s][vp 9 2 65535 42213 0 0]Que tipo de pessoa eles são eles se estão[n]lutando com Kamoshida...?[n][f 1 2 180][e]
+[s][vp 9 2 65535 42213 0 0]Que tipo de pessoa[n]se voltaria contra Kamoshida...?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_004_06_ [Morgana]]
-[s][vp 9 2 65535 39255 0 0]Provavelmente, isso é apenas uma brincadeira[n]de alguém com ciúmes do Sr. Kamoshida.[n][f 1 2 180][e]
+[s][vp 9 2 65535 39255 0 0]Certamente será a piada[n]de alguém com inveja do[n]Prof. Kamoshida...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_005_01_ [Morgana]]
-[s][vp 9 2 65535 39455 0 0]Isso é apenas uma coincidência, certo?[n]Esse cartão de visita não tinha nada a ver[n]com isso.[n][f 1 2 180][e]
+[s][vp 9 2 65535 39455 0 0]É apenas uma coincidência, não é?[n]Essa carta de aviso[n]não tem nada a ver com isso.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_005_02_ [Morgana]]
-[s][vp 9 2 65535 39053 0 0]Ele fez seriamente todas essas coisas? Oh,[n]cara, acabou para Kamoshida.[n][f 1 2 180][e]
+[s][vp 9 2 65535 39053 0 0]Ele realmente cometeu todas aquelas[n]atrocidades? Oh meu Deus, Kamoshida[n]acabou.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_005_03_ [Morgana]]
-[s]0 [n][f 1 2 180][e]
+[s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_005_04_ [Morgana]]
-[s][vp 9 2 65535 38904 0 0]O que o fez decidir se desculpar de repente?[n][f 1 2 180][e]
+[s][vp 9 2 65535 38904 0 0]O que o fez pedir desculpas tão de repente?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_005_05_ [Morgana]]
-[s][vp 9 2 65535 43000 0 0]Bem, ele estava chegando.[n]Parece que devemos isso a aqueles ladrões[n]fantasmas.[n][f 1 2 180][e]
+[s][vp 9 2 65535 43000 0 0]Bem, ele trouxe isso.[n]Eu diria que temos uma dívida[n]com aqueles Ladrões Fantasmas.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_005_06_ [Morgana]]
-[s][vp 9 2 65535 42605 0 0]Os ladrões Phantom não tinham nada a ver com[n]o pedido de desculpas do Sr. Kamoshida.[n][f 1 2 180][e]
+[s][vp 9 2 65535 42605 0 0]Os Phantom Thieves não têm nada a ver com o[n]pedido de desculpas do Prof. Kamoshida.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_006_01_ [Morgana]]
-[s][vp 9 2 65535 40505 0 0]Ele está agindo quieto por enquanto, mas não[n]há como dizer quando ele causará problemas.[n][f 1 2 180][e]
+[s][vp 9 2 65535 40505 0 0]Ele está indo bem por enquanto,[n]mas quem sabe quando[n]ele vai causar mais problemas.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_006_02_ [Morgana]]
-[s][vp 9 2 65535 43012 0 0]Até os professores desistiram dele.[n][f 1 2 180][e]
+[s][vp 9 2 65535 43012 0 0]Até os professores jogaram a toalha com ele.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_006_03_ [Morgana]]
-[s][vp 9 2 65535 43313 0 0]Bem, não há dúvida de que ele é um causador[n]de problemas.[n][f 1 2 180][e]
+[s][vp 9 2 65535 43313 0 0]Bem, não há dúvida de que ele é um encrenqueiro.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_006_04_ [Morgana]]
-[s][vp 9 2 65535 42812 0 0]Esse cara é assustador demais...[n][f 1 2 180][e]
+[s][vp 9 2 65535 42812 0 0]Aquele cara é realmente assustador...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_006_05_ [Morgana]]
-[s][vp 9 2 65535 42655 0 0]Parece que aquele cara que teve problemas[n]com Kamoshida teve sorte.[n][f 1 2 180][e]
+[s][vp 9 2 65535 42655 0 0]Aparentemente, aquele cara[n]que mexeu com[n]Kamoshida escapou impune.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_006_06_ [Morgana]]
-[s][vp 9 2 65535 42359 0 0]Se você cair com alguém como ele, estará no[n]final perdedor da vida.[n][f 1 2 180][e]
+[s][vp 9 2 65535 42359 0 0]Se você for com alguém como[n]ele, você está fadado a perder.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_007_01_ [Morgana]]
-[s][vp 9 2 65535 39752 0 0]É uma merda para o time de vôlei.[n]Quero dizer, depois de tudo o que eles[n]aguentam...[n][f 1 2 180][e]
+[s][vp 9 2 65535 39752 0 0]História ruim para o[n]time de vôlei. Quer dizer, depois de tudo[n]o que eles passaram...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_007_02_ [Morgana]]
-[s][vp 9 2 65535 42855 0 0]Bem, não é como se isso mudasse as coisas.[n]Esta escola era coxa desde o início.[n][f 1 2 180][e]
+[s][vp 9 2 65535 42855 0 0]Bem, isso certamente não muda[n]as coisas. 'Esta escola sempre foi uma merda.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_007_03_ [Morgana]]
-[s]0 [n][f 1 2 180][e]
+[s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_007_04_ [Morgana]]
-[s][vp 9 2 65535 40605 0 0]Ele era realmente arrogante, então tenho[n]certeza de que muitas pessoas estão felizes[n]com o que aconteceu.[n][f 1 2 180][e]
+[s][vp 9 2 65535 40605 0 0]Ele era muito arrogante, então[n]eu aposto que muitas pessoas[n]estão gostando.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_007_05_ [Morgana]]
-[s][vp 9 2 65535 38403 0 0]O diretor deve estar preocupado.[n]Ele dependia de Kamoshida para fazer com que[n]essa escola pareça boa.[n][f 1 2 180][e]
+[s][vp 9 2 65535 38403 0 0]O diretor deve estar em pânico.[n]Kamoshida trouxe[n]shine para a escola.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_007_06_ [Morgana]]
-[s][vp 9 2 65535 39605 0 0]Agora não precisamos mais tratar o time de[n]vôlei como a realeza.[n][f 1 2 180][e]
+[s][vp 9 2 65535 39605 0 0]Agora não somos mais obrigados[n]a considerar intocável[n]o time de vôlei.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_204_01_ [Morgana]]
-[s][vp 9 2 65535 39054 0 0]As pinturas de Madarame eram muito boas.[n][f 1 2 180][e]
+[s][vp 9 2 65535 39054 0 0]As pinturas de Madarame eram[n]muito especiais.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_204_02_ [Morgana]]
-[s][vp 9 2 65535 40155 0 0]A arte não tem nada a ver com entrar na[n]faculdade, não é?[n][f 1 2 180][e]
+[s][vp 9 2 65535 40155 0 0]Arte não tem[n]nada a ver com[n]admissão na universidade, certo?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_204_03_ [Morgana]]
-[s]0 [n][f 1 2 180][e]
+[s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_204_04_ [Morgana]]
-[s]0 [n][f 1 2 180][e]
+[s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_204_05_ [Morgana]]
-[s]0 [n][f 1 2 180][e]
+[s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_204_06_ [Morgana]]
-[s]0 [n][f 1 2 180][e]
+[s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_205_01_ [Morgana]]
-[s]0 [n][f 1 2 180][e]
+[s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_205_02_ [Morgana]]
-[s]0 [n][f 1 2 180][e]
+[s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_205_03_ [Morgana]]
-[s]0 [n][f 1 2 180][e]
+[s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_205_04_ [Morgana]]
-[s][vp 9 2 65535 46354 0 0]Vi um post na internet dizendo que a cidade[n]está se tornando menos segura.[n][f 1 2 180][e]
+[s][vp 9 2 65535 46354 0 0]Li um post na internet[n]onde se dizia que a cidade[n]está cada vez menos segura.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_205_05_ [Morgana]]
-[s]0 [n][f 1 2 180][e]
+[s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_205_06_ [Morgana]]
-[s][vp 9 2 65535 43255 0 0]É verdade que existe realmente um anel de[n]crime perigoso em Shibuya?[n][f 1 2 180][e]
+[s][vp 9 2 65535 43255 0 0]É verdade que existe uma rede criminosa muito[n]perigosa em Shibuya?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_01_ [Morgana]]
-[s][vp 9 2 65535 37854 0 0]Madarame recebeu um cartão de visita, o[n]mesmo tipo que foi enviado para Kamoshida...[n][f 1 2 180][e]
+[s][vp 9 2 65535 37854 0 0]Madarame recebeu uma carta de[n]desafio, a mesma que foi[n]enviada para Kamoshida...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_02_ [Morgana]]
-[s][vp 9 2 65535 39104 0 0]Alguns ladrões fantasmas também deixaram um[n]cartão de visita na exposição de Madarame,[n]certo?[n][f 1 2 180][e]
+[s][vp 9 2 65535 39104 0 0]Alguns Phantom Thieves[n]entregaram uma carta de aviso[n]na exposição de Madarame, não é?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_03_ [Morgana]]
-[s]0 [n][f 1 2 180][e]
+[s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_04_ [Morgana]]
-[s][vp 9 2 65535 42754 0 0]Os ladrões fantasmas de alguma forma fizeram[n]outra pessoa se desculpar por crimes que[n]cometeram...[n][f 1 2 180][e]
+[s][vp 9 2 65535 42754 0 0]De alguma forma, os Phantom Thieves[n]conseguem forçar uma pessoa[n]a se desculpar pelos crimes cometidos.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_05_ [Morgana]]
-[s][vp 9 2 65535 39505 0 0]Phantom Thieves de novo?[n]Isso não era apenas uma brincadeira?[n][f 1 2 180][e]
+[s][vp 9 2 65535 39505 0 0]Os Ladrões Fantasmas de novo? Mas não era só uma[n]piada?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_06_ [Morgana]]
-[s][vp 9 2 65535 43305 0 0]Então esse cartão de visita para Kamoshida[n]não era uma brincadeira...[n][f 1 2 180][e]
+[s][vp 9 2 65535 43305 0 0]Então aquela carta de aviso para[n]Kamoshida não era brincadeira...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_009_01_ [Morgana]]
-[s][vp 9 2 65535 44602 0 0]Algumas crianças shujin foram enganadas,[n]certo?[n][f 1 2 180][e]
+[s][vp 9 2 65535 44602 0 0]Alguns alunos que foram para[n]Shujin foram enganados, certo?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_009_02_ [Morgana]]
-[s][vp 9 2 65535 40302 0 0]Parece que há muitas pessoas cujo dinheiro[n]foi tirado deles.[n][f 1 2 180][e]
+[s][vp 9 2 65535 40302 0 0]Parece que muitas pessoas[n]tiveram seu dinheiro roubado[n]por eles...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_009_03_ [Morgana]]
-[s]0 [n][f 1 2 180][e]
+[s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_009_04_ [Morgana]]
-[s][vp 9 2 65535 43105 0 0]Ouvi dizer que eles fazem mais do que apenas[n]chantagear você...[n][f 1 2 180][e]
+[s][vp 9 2 65535 43105 0 0]Aparentemente, eles não apenas chantageiam você...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_009_05_ [Morgana]]
-[s][vp 9 2 65535 40355 0 0]É realmente fácil cair em uma farsa?[n][f 1 2 180][e]
+[s][vp 9 2 65535 40355 0 0]É realmente fácil cair[n]em um golpe?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_009_06_ [Morgana]]
-[s][vp 9 2 65535 43352 0 0]Existe realmente tanta enganação e chantagem[n]acontecendo?[n][f 1 2 180][e]
+[s][vp 9 2 65535 43352 0 0]Existe tanta chantagem[n]e golpes hoje em dia?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_01_ [Morgana]]
-[s][vp 9 2 65535 42554 0 0]Eu vi online que outro cartão telefônico[n]apareceu...[n][f 1 2 180][e]
+[s][vp 9 2 65535 42554 0 0]Li na net que apareceu[n]outra carta de aviso...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_02_ [Morgana]]
-[s][vp 9 2 65535 42104 0 0]Seria incrível se eles realmente o fizessem[n]pagar pelo que ele fez...[n][f 1 2 180][e]
+[s][vp 9 2 65535 42104 0 0]Seria ótimo se eles realmente[n]pudessem fazê-lo pagar[n]pelo que ele fez...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_03_ [Morgana]]
-[s]0 [n][f 1 2 180][e]
+[s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_04_ [Morgana]]
-[s][vp 9 2 65535 42154 0 0]Ouvi outro cartão de visita foi enviado! E a[n]máfia é o alvo desta vez![n][f 1 2 180][e]
+[s][vp 9 2 65535 42154 0 0]Parece que[n]outra carta de aviso foi entregue! E desta[n]vez o destinatário é a máfia![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_05_ [Morgana]]
-[s][vp 9 2 65535 39755 0 0]É verdade que um cara chamado Kaneshiro[n]recebeu um cartão de visita!?[n][f 1 2 180][e]
+[s][vp 9 2 65535 39755 0 0]É verdade que um cara chamado[n]Kaneshiro recebeu uma[n]carta de aviso!?![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_06_ [Morgana]]
-[s][vp 9 2 65535 42804 0 0]Você viu as postagens online?[n]Outro cartão de chamada Phantom Thief[n]apareceu![n][f 1 2 180][e]
+[s][vp 9 2 65535 42804 0 0]Você viu as postagens online?[n]Outra carta de aviso de[n]Phantom Thieves apareceu![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_011_01_ [Morgana]]
-[s][vp 9 2 65535 42704 0 0]Aqueles ladrões fantasmas fizeram com que o[n]criminoso mudasse de coração, certo!?[n][f 1 2 180][e]
+[s][vp 9 2 65535 42704 0 0]Esses Phantom Thieves vão despertar[n]o coração daquele criminoso, não vão?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_011_02_ [Morgana]]
-[s][vp 9 2 65535 38700 0 0]Ouvi o líder daquele anel de crime ser[n]preso! Era um cara chamado Kaneshiro.[n][f 1 2 180][e]
+[s][vp 9 2 65535 38700 0 0]Parece que o líder dessa[n]rede criminosa foi pego![n]Ele é um cara chamado Kaneshiro.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_011_03_ [Morgana]]
-[s]0 [n][f 1 2 180][e]
+[s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_011_04_ [Morgana]]
-[s][vp 9 2 65535 42956 0 0]Ouvi dizer que eles finalmente conseguiram[n]prendê-lo, graças a esses ladrões fantasmas.[n][f 1 2 180][e]
+[s][vp 9 2 65535 42956 0 0]Parece que finalmente[n]conseguiram prendê-lo, graças[n]aqueles Phantom Thieves.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_011_05_ [Morgana]]
-[s][vp 9 2 65535 38756 0 0]Todo mundo na internet está dizendo que[n]foram os ladrões fantasmas quem fizeram[n]isso...[n][f 1 2 180][e]
+[s][vp 9 2 65535 38756 0 0]Na rede, eles estão convencidos de que[n]os Phantom Thieves[n]foram os criadores de tudo...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_011_06_ [Morgana]]
-[s][vp 9 2 65535 42604 0 0]Eles estavam dizendo que ele apenas[n]confessou do nada, assim como Kamoshida![n][f 1 2 180][e]
+[s][vp 9 2 65535 42604 0 0]Parece que ele[n]confessou de repente,[n]assim como Kamoshida![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_012_01_ [Morgana]]
-[s][vp 9 2 65535 44906 0 0]A Internet está ficando louca falando sobre[n]ladrões fantasmas.[n][f 1 2 180][e]
+[s][vp 9 2 65535 44906 0 0]A Internet está em alvoroço[n]por causa dos Phantom Thieves![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_012_02_ [Morgana]]
-[s][vp 9 2 65535 42306 0 0]Aquele fórum Phantom Thief ficou louco por[n]populares![n][f 1 2 180][e]
+[s][vp 9 2 65535 42306 0 0]Aquele fórum do Phantom Thieves[n]tornou-se super popular![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_012_03_ [Morgana]]
-[s]0 [n][f 1 2 180][e]
+[s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_012_04_ [Morgana]]
-[s][vp 9 2 65535 42356 0 0]Todos na internet estão falando sobre[n]ladrões Phantom![n][f 1 2 180][e]
+[s][vp 9 2 65535 42356 0 0]Na internet todo mundo[n]está falando sobre os Phantom Thieves![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_012_05_ [Morgana]]
-[s][vp 9 2 65535 39750 0 0]Todo mundo está postando no fórum Phantom[n]Thief![n][f 1 2 180][e]
+[s][vp 9 2 65535 39750 0 0]Todos eles postam naquele fórum[n]Phantom Thieves![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_012_06_ [Morgana]]
-[s][vp 9 2 65535 43206 0 0]A Internet está sendo realmente demitida por[n]isso![n][f 1 2 180][e]
+[s][vp 9 2 65535 43206 0 0]A internet está realmente fervilhando[n]sobre essa história![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_013_01_ [Morgana]]
-[s][vp 9 2 65535 39800 0 0]Então é verdade, os ladrões Phantom[n]realmente existem![n][f 1 2 180][e]
+[s][vp 9 2 65535 39800 0 0]Então é verdade, os Phantom Thieves[n]existem mesmo![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_013_02_ [Morgana]]
-[s][vp 9 2 65535 42206 0 0]Eu sou a favor deles se eles estão[n]trabalhando para derrubar pessoas más que[n]merecem.[n][f 1 2 180][e]
+[s][vp 9 2 65535 42206 0 0]Se eles pretendem acabar com todos os[n]vilões que merecem, estou[n]com eles sem reservas.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_013_03_ [Morgana]]
-[s]0 [n][f 1 2 180][e]
+[s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_013_04_ [Morgana]]
-[s][vp 9 2 65535 37956 0 0]Aqueles cartões de chamada Phantom Thief não[n]eram apenas uma brincadeira![n][f 1 2 180][e]
+[s][vp 9 2 65535 37956 0 0]As cartas de desafio Phantom[n]Thieves não eram brincadeira![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_013_05_ [Morgana]]
-[s][vp 9 2 65535 38706 0 0]Aqueles ladrões fantasmas nos salvaram![n][f 1 2 180][e]
+[s][vp 9 2 65535 38706 0 0]Os Phantom Thieves nos salvaram![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_013_06_ [Morgana]]
-[s][vp 9 2 65535 41400 0 0]Os ladrões Phantom roubam corações dos[n]bandidos- é isso que os faz mudar de[n]coração![n][f 1 2 180][e]
+[s][vp 9 2 65535 41400 0 0]Os Ladrões Fantasmas roubam os corações dos[n]maus... é isso que desencadeia[n]o despertar do coração deles![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_014_01_ [Morgana]]
-[s][vp 9 2 65535 37504 0 0]As pessoas estão realmente ficando[n]empolgadas com o fato de os ladrões Phantom[n]estarão enfrentando hackers.[n][f 1 2 180][e]
+[s][vp 9 2 65535 37504 0 0]As pessoas são gaseadas porque[n]Phantom Thieves lidam[n]com hackers.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_014_02_ [Morgana]]
-[s][vp 9 2 65535 38506 0 0]Não há como que os ladrões fantasmas possam[n]perder para os hackers![n][f 1 2 180][e]
+[s][vp 9 2 65535 38506 0 0]É impossível para os Phantom Thieves[n]ser derrotados por hackers![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_014_03_ [Morgana]]
-[s][vp 9 2 65535 46206 0 0]Eu realmente não entendo o que está[n]acontecendo, mas vá buscar esses hackers![n][f 1 2 180][e]
+[s][vp 9 2 65535 46206 0 0]Não faço ideia do que[n]está acontecendo, mas vá pegar[n]aqueles hackers![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_014_04_ [Morgana]]
-[s][vp 9 2 65535 46353 0 0]Parece que os ladrões Phantom e os hackers[n]estão tendo um confronto![n][f 1 2 180][e]
+[s][vp 9 2 65535 46353 0 0]Aparentemente, os[n]Phantom Thieves e hackers estão[n]aparecendo![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_014_05_ [Morgana]]
-[s][vp 9 2 65535 46253 0 0]Os ladrões Phantom não perderão para um[n]monte de hackers![n][f 1 2 180][e]
+[s][vp 9 2 65535 46253 0 0]Os Phantom Thieves não[n]serão derrotados por um bando de hackers![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_014_06_ [Morgana]]
-[s][vp 9 2 65535 42956 0 0]Parece que os hackers estão prestando muita[n]atenção aos ladrões fantasmas![n][f 1 2 180][e]
+[s][vp 9 2 65535 42956 0 0]Parece que os hackers[n]estão muito interessados[n]nos Phantom Thieves![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_015_01_ [Morgana]]
-[s][vp 9 2 65535 42254 0 0]Eu me pergunto como os ladrões fantasmas vão[n]lutar contra esses hackers...[n][f 1 2 180][e]
+[s][vp 9 2 65535 42254 0 0]Quem sabe como os[n]Phantom Thieves vão lutar[n]aqueles hackers...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_015_02_ [Morgana]]
-[s][vp 9 2 65535 42704 0 0]Se eles acabarem causando danos reais, será[n]a culpa dos ladrões do Phantom?[n][f 1 2 180][e]
+[s][vp 9 2 65535 42704 0 0]Se eles eventualmente causarem[n]danos reais, é tudo[n]culpa dos Phantom Thieves?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_015_03_ [Morgana]]
-[s]0 [n][f 1 2 180][e]
+[s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_015_04_ [Morgana]]
-[s][vp 9 2 65535 40604 0 0]Os hackers estavam provocando os ladrões[n]fantasmas. Você acha que eles podem revidar?[n][f 1 2 180][e]
+[s][vp 9 2 65535 40604 0 0]Os hackers estão provocando os Phantom Thieves.[n]Você acha que eles podem revidar?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_015_05_ [Morgana]]
-[s][vp 9 2 65535 39806 0 0]Esses hackers são perigosos![n]Tenho certeza que esses ladrões fantasmas os[n]impedirão de alguma forma![n][f 1 2 180][e]
+[s][vp 9 2 65535 39806 0 0]Esses hackers são perigosos![n]Os Phantom Thieves[n]com certeza irão detê-los![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_015_06_ [Morgana]]
-[s][vp 9 2 65535 40454 0 0]Como eles planejam atacar criminosos da[n]Internet?[n][f 1 2 180][e]
+[s][vp 9 2 65535 40454 0 0]Como eles planejam atacar[n]criminosos de rede, exatamente?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_016_01_ [Morgana]]
-[s][vp 9 2 65535 39106 0 0]Os ladrões Phantom são muito legais![n][f 1 2 180][e]
+[s][vp 9 2 65535 39106 0 0]Os Phantom Thieves são[n]realmente incríveis.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_016_02_ [Morgana]]
-[s][vp 9 2 65535 40556 0 0]Ninguém pode vencer os ladrões Phantom! Eu[n]duvidei deles antes, mas agora sou um[n]verdadeiro crente![n][f 1 2 180][e]
+[s][vp 9 2 65535 40556 0 0]Ninguém pode derrotar os[n]Phantom Thieves! Eu costumava duvidar,[n]mas agora tenho fé neles![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_016_03_ [Morgana]]
-[s][vp 9 2 65535 37504 0 0]Sinto-me meio orgulhoso por Shujin ser onde[n]eles apareceram pela primeira vez.[n][f 1 2 180][e]
+[s][vp 9 2 65535 37504 0 0]Estou orgulhoso de que eles apareceram[n]pela primeira vez[n]em Shujin.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_016_04_ [Morgana]]
-[s][vp 9 2 65535 43103 0 0]Eles realmente eram tudo o que eu pensava[n]que seria![n]Isto é incrível![n][f 1 2 180][e]
+[s][vp 9 2 65535 43103 0 0]Isso é exatamente o que eu esperava![n]É incrível.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_016_05_ [Morgana]]
-[s][vp 9 2 65535 43150 0 0]Aqueles ladrões fantasmas são heróis reais![n][f 1 2 180][e]
+[s][vp 9 2 65535 43150 0 0]Esses Phantom Thieves são[n]heróis de verdade![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_016_06_ [Morgana]]
-[s][vp 9 2 65535 38906 0 0]Eu me pergunto quem eles vão tirar por nós a[n]seguir.[n][f 1 2 180][e]
+[s][vp 9 2 65535 38906 0 0]Quem sabe quem será o próximo que[n]eles farão para nós.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_150_01_ [Morgana]]
-[s][vp 9 2 65535 38405 0 0]Vi outro artigo sobre Kamoshida e seu[n]assédio sexual.[n][f 1 2 180][e]
+[s][vp 9 2 65535 38405 0 0]Eu vi outro artigo[n]sobre Kamoshida e seu[n]assédio sexual.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_150_02_ [Morgana]]
-[s][vp 9 2 65535 38202 0 0]Aposto que você ainda está escondendo coisas[n]de nós.[n][f 1 2 180][e]
+[s][vp 9 2 65535 38202 0 0]Aposto que eles nos mantêm no escuro sobre as[n]coisas.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_150_03_ [Morgana]]
-[s][vp 9 2 65535 43202 0 0]Espero que nossa escola não se torne o[n]centro das atenções novamente...[n][f 1 2 180][e]
+[s][vp 9 2 65535 43202 0 0]Espero que nossa escola[n]não acabe no centro[n]do ciclone novamente...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_017_01_ [Morgana]]
-[s][vp 9 2 65535 39507 0 0]Você acha que o suicídio do diretor foi[n]causado pelos ladrões Phantom?[n][f 1 2 180][e]
+[s][vp 9 2 65535 39507 0 0]O suicídio do diretor foi[n]realmente causado[n]pelos Phantom Thieves?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_017_02_ [Morgana]]
-[s][vp 9 2 65535 42202 0 0]O principal comando suicídio afetará minhas[n]cartas de recomendação...[n][f 1 2 180][e]
+[s][vp 9 2 65535 42202 0 0]O suicídio do diretor[n]repercutirá em minhas cartas[n]de recomendação...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_017_03_ [Morgana]]
-[s][vp 9 2 65535 43202 0 0]Estou preocupado com as faculdades me[n]aceitando, agora que Shujin tem todos esses[n]problemas...[n][f 1 2 180][e]
+[s][vp 9 2 65535 43202 0 0]Receio que as universidades não[n]me aceitem por causa de[n]toda essa merda de Shujin ...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_017_04_ [Morgana]]
-[s][vp 9 2 65535 43263 0 0]Foi apenas um ano de má sorte para mim.[n]Muitos incidentes têm acontecido na escola [n][f 1 2 180][e]
+[s][vp 9 2 65535 43263 0 0]Foi realmente um ano tremendo[n]para mim. Houve muitos[n]acidentes na escola.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_017_05_ [Morgana]]
-[s][vp 9 2 65535 42701 0 0]O diretor estava tentando se desculpar por[n]tudo o que aconteceu se matando?[n][f 1 2 180][e]
+[s][vp 9 2 65535 42701 0 0]O diretor cometeu suicídio[n]para se desculpar por tudo[n]o que aconteceu?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_017_06_ [Morgana]]
-[s][vp 9 2 65535 42913 0 0]Por que ele de repente cometeu suicídio?[n]Está realmente fazendo muitos problemas[n]para nós.[n][f 1 2 180][e]
+[s][vp 9 2 65535 42913 0 0]Por que você escolheu cometer suicídio de[n]repente? Ele deixou todos nós na merda.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_018_01_ [Morgana]]
-[s][vp 9 2 65535 42203 0 0]Como os ladrões fantasmas mudaram o coração[n]das pessoas!?[n][f 1 2 180][e]
+[s][vp 9 2 65535 42203 0 0]Como Phantom Thieves[n]desperta corações?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_018_02_ [Morgana]]
-[s][vp 9 2 65535 43156 0 0]Espero que os ladrões fantasmas continuem[n]trazendo justiça a mais malfeitores![n][f 1 2 180][e]
+[s][vp 9 2 65535 43156 0 0]Espero que os Phantom Thieves[n]continuem a levar os malfeitores à[n]justiça![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_018_03_ [Morgana]]
-[s]0 [n][f 1 2 180][e]
+[s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_018_04_ [Morgana]]
-[s][vp 9 2 65535 42906 0 0]É tão legal como eles só têm como alvo[n]pessoas más![n][f 1 2 180][e]
+[s][vp 9 2 65535 42906 0 0]Que legal que apenas os bandidos visam[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_018_05_ [Morgana]]
-[s][vp 9 2 65535 41903 0 0]Eu quero que os ladrões fantasmas punirem[n]mais pessoas más![n][f 1 2 180][e]
+[s][vp 9 2 65535 41903 0 0]Eu gostaria que os Phantom Thieves[n]punissem mais pessoas más![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_018_06_ [Morgana]]
-[s][vp 9 2 65535 42456 0 0]Não há nada a temer, desde que os ladrões[n]fantasmas estejam aqui![n][f 1 2 180][e]
+[s][vp 9 2 65535 42456 0 0]Enquanto os Phantom Thieves[n]estiverem entre nós,[n]não temos nada a temer![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_019_01_ [Morgana]]
-[s][vp 9 2 65535 42204 0 0]Ouvi o Presidente Okumura, aquele que[n]administra aquela empresa de alimentos, tem[n]um filho que vai para Shujin...[n][f 1 2 180][e]
+[s][vp 9 2 65535 42204 0 0]Parece que Okumura, o[n]chefe dessa empresa de alimentos,[n]tem uma filha em Shujin...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_019_02_ [Morgana]]
-[s][vp 9 2 65535 39454 0 0]Alguém sabe quem é a filha do presidente[n]Okumura?[n][f 1 2 180][e]
+[s][vp 9 2 65535 39454 0 0]Alguém sabe quem é a filha do presidente Okumura ?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_019_03_ [Morgana]]
-[s]0 [n][f 1 2 180][e]
+[s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_019_04_ [Morgana]]
-[s][vp 9 2 65535 42154 0 0]O presidente da Okumura Foods tem sido muito[n]notícia, mas eu não tinha ideia de que ele[n]tinha uma filha.[n][f 1 2 180][e]
+[s][vp 9 2 65535 42154 0 0]O presidente da Okumura Foods está em todos os[n]noticiários, mas eu não fazia ideia de que ele[n]tinha uma filha.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_019_05_ [Morgana]]
-[s][vp 9 2 65535 39504 0 0]O filho de Okumura está na nossa série?[n][f 1 2 180][e]
+[s][vp 9 2 65535 39504 0 0]A filha de Okumura é do nosso[n]ano?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_019_06_ [Morgana]]
-[s][vp 9 2 65535 40604 0 0]A filha do presidente Okumura está realmente[n]na mesma série que nós?[n][f 1 2 180][e]
+[s][vp 9 2 65535 40604 0 0]A filha do presidente[n]Okumura está realmente frequentando nosso[n]mesmo ano?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_020_01_ [Morgana]]
-[s][vp 9 2 65535 37556 0 0]Esses ladrões fantasmas vão cuidar de todo o[n]mal deste mundo![n][f 1 2 180][e]
+[s][vp 9 2 65535 37556 0 0]Os Phantom Thieves curarão[n]todos os males do mundo![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_020_02_ [Morgana]]
-[s][vp 9 2 65535 40103 0 0]Acha que eles continuarão até derrubar todas[n]as pessoas más do mundo?[n][f 1 2 180][e]
+[s][vp 9 2 65535 40103 0 0]Você acha que eles continuarão[n]seu trabalho até que tenham[n]derrotado todos os ímpios?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_020_03_ [Morgana]]
-[s]0 [n][f 1 2 180][e]
+[s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_020_04_ [Morgana]]
-[s][vp 9 2 65535 40603 0 0]Os ladrões fantasmas podem mudar o coração[n]de todas as pessoas distorcidas do mundo![n][f 1 2 180][e]
+[s][vp 9 2 65535 40603 0 0]Os Phantom Thieves podem[n]despertar os corações de todas[n]pessoas perversas do mundo![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_020_05_ [Morgana]]
-[s][vp 9 2 65535 39103 0 0]Continue derrubando os vilões do mundo, um a[n]um![n][f 1 2 180][e]
+[s][vp 9 2 65535 39103 0 0]Continue eliminando os vilões[n]desse mundo, um após o outro![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_020_06_ [Morgana]]
-[s][vp 9 2 65535 39606 0 0]Deixe tudo para aqueles ladrões fantasmas![n][f 1 2 180][e]
+[s][vp 9 2 65535 39606 0 0]Deixe[n]os Phantom Thieves cuidarem disso![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_021_01_ [Morgana]]
-[s][vp 9 2 65535 40503 0 0]Esse CEO corrupto precisa ser derrubado![n][f 1 2 180][e]
+[s][vp 9 2 65535 40503 0 0]Esse CEO corrupto deve ser[n]parado![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_021_02_ [Morgana]]
-[s][vp 9 2 65535 42703 0 0]Sinto um chute de assistir todos esses[n]grandes chutes grudando e me desculpando![n][f 1 2 180][e]
+[s][vp 9 2 65535 42703 0 0]Eu gosto muito de assistir todos[n]esses figurões que[n]imploram e pedem desculpas![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_021_03_ [Morgana]]
-[s]0 [n][f 1 2 180][e]
+[s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_021_04_ [Morgana]]
-[s][vp 9 2 65535 46403 0 0]Esse CEO torto merece o que quer que os[n]ladrões fantasmas façam com ele![n][f 1 2 180][e]
+[s][vp 9 2 65535 46403 0 0]Aquele CEO desonesto merece[n]tudo o que os Phantom Thieves[n]têm reservado para ele![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_021_05_ [Morgana]]
-[s][vp 9 2 65535 46150 0 0]Adultos corruptos merecem ser retirados por[n]ladrões Phantom![n][f 1 2 180][e]
+[s][vp 9 2 65535 46150 0 0]Adultos corruptos merecem[n]ser arruinados pelos Phantom Thieves![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_021_06_ [Morgana]]
-[s][vp 9 2 65535 38303 0 0]Eu estava esperando por outro cartão de[n]visita! Mal posso esperar pelo pedido de[n]desculpas de Okumura![n][f 1 2 180][e]
+[s][vp 9 2 65535 38303 0 0]Eu esperei ansiosamente outra[n]carta de aviso! Ansioso[n]pelo pedido de desculpas de Okumura![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_022_01_ [Morgana]]
-[s][vp 9 2 65535 38402 0 0]Isso foi terrível... era como uma execução[n]pública.[n][f 1 2 180][e]
+[s][vp 9 2 65535 38402 0 0]Foi terrível... Parecia[n]uma execução pública.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_022_02_ [Morgana]]
-[s][vp 9 2 65535 43002 0 0]Aquilo que aconteceu com Okumura, você acha[n]que os ladrões Phantom realmente fizeram[n]isso?[n][f 1 2 180][e]
+[s][vp 9 2 65535 43002 0 0]O que aconteceu com Okumura,[n]você acha que foi realmente obra[n]dos Phantom Thieves?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_022_03_ [Morgana]]
-[s]0 [n][f 1 2 180][e]
+[s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_022_04_ [Morgana]]
-[s][vp 9 2 65535 39652 0 0]Era demais. Eles realmente o mataram no meio[n]de uma conferência de imprensa pública...[n][f 1 2 180][e]
+[s][vp 9 2 65535 39652 0 0]Eles cruzaram a linha. Eles[n]o mataram de verdade no meio[n]de uma entrevista coletiva...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_022_05_ [Morgana]]
-[s][vp 9 2 65535 42302 0 0]Está doente, o que eles fizeram com Okumura.[n]Eles realmente cruzaram a linha...[n][f 1 2 180][e]
+[s][vp 9 2 65535 42302 0 0]É nojento o que eles fizeram[n]para Okumura. Eles realmente[n]passaram dos limites...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_022_06_ [Morgana]]
-[s][vp 9 2 65535 42602 0 0]Só de pensar nessa conferência de imprensa[n]me deixa deprimido...[n][f 1 2 180][e]
+[s][vp 9 2 65535 42602 0 0]Só de pensar naquela[n]coletiva de imprensa me deprime[n]...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_023_01_ [Morgana]]
-[s][vp 9 2 65535 39501 0 0]Aqueles ladrões fantasmas são assassinos! Já[n]jogue-os na prisão![n][f 1 2 180][e]
+[s][vp 9 2 65535 39501 0 0]Esses ladrões fantasmas são assassinos![n]Coloque-os imediatamente na prisão![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_023_02_ [Morgana]]
-[s][vp 9 2 65535 43007 0 0]Eu nunca pensei que os ladrões fantasmas[n]matassem ninguém![n][f 1 2 180][e]
+[s][vp 9 2 65535 43007 0 0]Nunca pensei que[n]Phantom Thieves pudessem[n]matar alguém...![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_023_03_ [Morgana]]
-[s]0 [n][f 1 2 180][e]
+[s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_023_04_ [Morgana]]
-[s][vp 9 2 65535 43107 0 0]Eles devem ficar loucos para matar[n]publicamente alguém a sangue frio![n][f 1 2 180][e]
+[s][vp 9 2 65535 43107 0 0]Só tolos matariam[n]alguém a sangue frio em[n]público![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_023_05_ [Morgana]]
-[s][vp 9 2 65535 40307 0 0]Não é normal matar alguém assim! Eles[n]ficaram loucos![n][f 1 2 180][e]
+[s][vp 9 2 65535 40307 0 0]Não é normal matar[n]alguém assim! Eles são[n]loucos![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_023_06_ [Morgana]]
-[s][vp 9 2 65535 39651 0 0]Os ladrões Phantom estão se empolgando![n]Ugh, eles são os piores![n][f 1 2 180][e]
+[s][vp 9 2 65535 39651 0 0]Os Phantom Thieves[n]perderam o controle! Eles são[n]maus![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_024_01_ [Morgana]]
-[s][vp 9 2 65535 42251 0 0]Quanto tempo a polícia vai deixar aqueles[n]ladrões fantasmas correrem de graça!?[n][f 1 2 180][e]
+[s][vp 9 2 65535 42251 0 0]Por quanto tempo mais a polícia[n]permitirá que os Phantom Thieves[n]vaguem sem serem perturbados!?![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_024_02_ [Morgana]]
-[s][vp 9 2 65535 42857 0 0]A polícia é inútil![n]Alguém faz algo![n][f 1 2 180][e]
+[s][vp 9 2 65535 42857 0 0]A polícia é inútil![n]Alguém faça alguma coisa![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_024_03_ [Morgana]]
-[s]0 [n][f 1 2 180][e]
+[s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_024_04_ [Morgana]]
-[s][vp 9 2 65535 42907 0 0]Quando eles vão prender os ladrões Phantom?[n][f 1 2 180][e]
+[s][vp 9 2 65535 42907 0 0]Quando os Ladrões prenderão[n]Phantom?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_024_05_ [Morgana]]
-[s][vp 9 2 65535 42709 0 0]O que os adultos estão fazendo!?[n]Eles estão apenas deixando esses assassinos[n]soltarem![n][f 1 2 180][e]
+[s][vp 9 2 65535 42709 0 0]O que os adultos estão fazendo!?![n]Aqueles ladrões fantasmas[n]ainda estão à solta![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_024_06_ [Morgana]]
-[s][vp 9 2 65535 43301 0 0]Apresse-se e prenda esse grupo de assassinos![n][f 1 2 180][e]
+[s][vp 9 2 65535 43301 0 0]Depressa e prenda[n]aquele bando de assassinos![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_025_01_ [Morgana]]
-[s][vp 9 2 65535 43013 0 0]Você acha que o boato de que os ladrões[n]Phantom são estudantes de Shujin podem ser[n]verdadeiros?[n][f 1 2 180][e]
+[s][vp 9 2 65535 43013 0 0]Você acha que o boato[n]sobre os Phantom Thieves que[n]frequentam Shujin é verdadeiro?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_025_02_ [Morgana]]
-[s][vp 9 2 65535 43700 0 0]Esse dinheiro de recompensa para os ladrões[n]Phantom é insano![n][f 1 2 180][e]
+[s][vp 9 2 65535 43700 0 0]Essa recompensa para[n]Phantom Thieves é absurda![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_025_03_ [Morgana]]
-[s]0 [n][f 1 2 180][e]
+[s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_025_04_ [Morgana]]
-[s][vp 9 2 65535 43201 0 0]O que a polícia está fazendo!?[n]Apresse-se e pegue os ladrões Phantom...[n][f 1 2 180][e]
+[s][vp 9 2 65535 43201 0 0]O que a polícia está fazendo!?![n]Apresse-se e pegue os[n]Phantom Thieves...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_025_05_ [Morgana]]
-[s][vp 9 2 65535 40104 0 0]Ouvi dizer que eles estão oferecendo uma[n]recompensa de 30 milhões de ienes pelos[n]ladrões Phantom![n][f 1 2 180][e]
+[s][vp 9 2 65535 40104 0 0]Aparentemente, eles estão oferecendo[n]uma recompensa de 30 milhões[n]ienes para os Phantom Thieves![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_025_06_ [Morgana]]
-[s][vp 9 2 65535 38250 0 0]É verdade que você pode obter dinheiro para[n]fornecer informações sobre os ladrões[n]Phantom!?[n][f 1 2 180][e]
+[s][vp 9 2 65535 38250 0 0]É verdade que uma[n]recompensa pode ser obtida fornecendo[n]informações sobre os Phantom Thieves?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_026_01_ [Morgana]]
-[s][vp 9 2 65535 40557 0 0]A polícia é inútil![n]Alguém faz algo![n][f 1 2 180][e]
+[s][vp 9 2 65535 40557 0 0]A polícia é inútil![n]Alguém faça alguma coisa![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_026_02_ [Morgana]]
-[s][vp 9 2 65535 41702 0 0]Parece que aquelas avarias psicóticas estão[n]acontecendo de novo...[n][f 1 2 180][e]
+[s][vp 9 2 65535 41702 0 0]Parece que aqueles ataques[n]começaram de novo...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_026_03_ [Morgana]]
-[s]0 [n][f 1 2 180][e]
+[s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_026_04_ [Morgana]]
-[s][vp 9 2 65535 40652 0 0]Ouvi dizer que essas quebras psicóticas[n]estão acontecendo cada vez mais...[n][f 1 2 180][e]
+[s][vp 9 2 65535 40652 0 0]Parece que incidentes relacionados[n]a arrebatamentos estão acontecendo[n]mais e com mais frequência...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_026_05_ [Morgana]]
-[s][vp 9 2 65535 39751 0 0]O que os adultos estão fazendo!?[n]Eles estão apenas deixando esses assassinos[n]soltarem![n][f 1 2 180][e]
+[s][vp 9 2 65535 39751 0 0]O que os adultos estão fazendo!?![n]Aqueles ladrões fantasmas[n]ainda estão à solta![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_026_06_ [Morgana]]
-[s][vp 9 2 65535 42752 0 0]É aterrorizante que essas quebras psicóticas[n]estejam acontecendo com mais frequência...[n][f 1 2 180][e]
+[s][vp 9 2 65535 42752 0 0]É assustador que esses ataques[n]estão acontecendo cada vez mais[n]frequentemente...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_027_01_ [Morgana]]
-[s][vp 9 2 65535 43151 0 0]Ficaremos bem, desde que tenhamos o[n]representante Shido, certo?[n][f 1 2 180][e]
+[s][vp 9 2 65535 43151 0 0]Enquanto o Representante Shido estiver[n]conosco, estaremos bem, certo?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_027_02_ [Morgana]]
-[s][vp 9 2 65535 42551 0 0]Eu pensei que tudo ficaria bem se[n]deixássemos coisas para Shido-san...[n][f 1 2 180][e]
+[s][vp 9 2 65535 42551 0 0]Achei que iríamos nos safar[n]deixando tudo nas mãos de Shido-san[n]...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_027_03_ [Morgana]]
-[s]0 [n][f 1 2 180][e]
+[s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_027_04_ [Morgana]]
-[s][vp 9 2 65535 43602 0 0]Eu me pergunto se o representante Shido está[n]bem...[n][f 1 2 180][e]
+[s][vp 9 2 65535 43602 0 0]Eu me pergunto se o Representante[n]Shido está bem...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_027_05_ [Morgana]]
-[s][vp 9 2 65535 44902 0 0]O representante Shido deveria mudar este[n]país.[n][f 1 2 180][e]
+[s][vp 9 2 65535 44902 0 0]Representante Shido[n]deveria ter mudado[n]este país...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_027_06_ [Morgana]]
-[s][vp 9 2 65535 42802 0 0]Tudo ficará bem se deixarmos para o[n]representante shido...[n][f 1 2 180][e]
+[s][vp 9 2 65535 42802 0 0]Tudo ficará bem se[n]deixarmos[n]Rep. Shido lidar com isso...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_028_01_ [Morgana]]
-[s][vp 9 2 65535 42705 0 0]É tudo tão inútil.[n]Podemos também desistir...[n][f 1 2 180][e]
+[s][vp 9 2 65535 42705 0 0]É tudo inútil.[n]É melhor jogar[n]a toalha também...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_028_02_ [Morgana]]
-[s][vp 9 2 65535 37552 0 0]Alguém ajuda nosso país...[n][f 1 2 180][e]
+[s][vp 9 2 65535 37552 0 0]Alguém ajude nosso país...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_028_03_ [Morgana]]
-[s]0 [n][f 1 2 180][e]
+[s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_028_04_ [Morgana]]
-[s][vp 9 2 65535 43352 0 0]Se o representante Shido nos deixasse[n]agora...[n][f 1 2 180][e]
+[s][vp 9 2 65535 43352 0 0]Se o Representante Shido[n]nos abandonar...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_028_05_ [Morgana]]
-[s][vp 9 2 65535 37505 0 0]Nada importa...[n]Nada que eu faço importa...[n][f 1 2 180][e]
+[s][vp 9 2 65535 37505 0 0]Nada importa... Nada[n]que eu faça importa...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_028_06_ [Morgana]]
-[s][vp 9 2 65535 38302 0 0]Por que isso está acontecendo?[n]Alguém faz algo...[n][f 1 2 180][e]
+[s][vp 9 2 65535 38302 0 0]Por que isso está acontecendo...?[n]Alguém faça alguma coisa...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_029_01_ [Morgana]]
-[s]0 [n][f 1 2 180][e]
+[s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_029_02_ [Morgana]]
-[s]0 [n][f 1 2 180][e]
+[s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_029_03_ [Morgana]]
-[s]0 [n][f 1 2 180][e]
+[s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_029_04_ [Morgana]]
-[s]0 [n][f 1 2 180][e]
+[s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_029_05_ [Morgana]]
-[s]0 [n][f 1 2 180][e]
+[s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_029_06_ [Morgana]]
-[s]0 [n][f 1 2 180][e]
+[s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_029_07_ [Morgana]]
-[s]0 [n][f 1 2 180][e]
+[s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_029_08_ [Morgana]]
-[s]0 [n][f 1 2 180][e]
+[s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_029_09_ [Morgana]]
-[s]0 [n][f 1 2 180][e]
+[s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_101_01_ [Morgana]]
-[s][vp 9 2 65535 42663 0 0]Ouvi dizer que ele esconde um monte de[n]coisas perigosas em sua bolsa...[n][f 1 2 180][e]
+[s][vp 9 2 65535 42663 0 0]Aparentemente, ele esconde[n]muitas coisas perigosas[n]em sua bolsa...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_101_02_ [Morgana]]
-[s][vp 9 2 65535 42313 0 0]Ouvi dizer que ele é uma criança super[n]problemática e nenhuma outra escola o[n]levaria.[n][f 1 2 180][e]
+[s][vp 9 2 65535 42313 0 0]Parece que ele é um garoto super[n]problema e que nenhuma outra[n]escola quer aceitá-lo.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_101_03_ [Morgana]]
-[s]0 [n][f 1 2 180][e]
+[s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_101_04_ [Morgana]]
-[s][vp 9 2 65535 42963 0 0]E se você for encerrado em algo por causa[n]dele? Provavelmente é melhor apenas ficar[n]longe.[n][f 1 2 180][e]
+[s][vp 9 2 65535 42963 0 0]E se eu tiver problemas por causa dela? É melhor[n]ficar longe dele, sem dúvida.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_101_05_ [Morgana]]
-[s][vp 9 2 65535 44602 0 0]Eu ouvi alguns rumores muito loucos sobre[n]ele...[n][f 1 2 180][e]
+[s][vp 9 2 65535 44602 0 0]Eu ouvi alguns boatos bastante[n]absurdos sobre ele...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_101_06_ [Morgana]]
-[s][vp 9 2 65535 43112 0 0]Ele não é um criminoso que entrou em todos[n]os tipos de coisas...?[n][f 1 2 180][e]
+[s][vp 9 2 65535 43112 0 0]Ele não é um criminoso envolvido[n]em todo tipo de negócios obscuros...?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_102_01_ [Morgana]]
-[s][vp 9 2 65535 43002 0 0]Ouvi dizer que ele usa drogas.[n]Quão pior você consegue?[n][f 1 2 180][e]
+[s][vp 9 2 65535 43002 0 0]Ele parece estar drogado...[n]Você pode cair mais baixo?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_102_02_ [Morgana]]
-[s][vp 9 2 65535 43163 0 0]Ele matou algumas pessoas, certo? Aquele[n]cara está aterrorizante...[n][f 1 2 180][e]
+[s][vp 9 2 65535 43163 0 0]Ele matou pessoas,[n]certo? Aquele cara me dá[n]calafrios...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_102_03_ [Morgana]]
-[s]0 [n][f 1 2 180][e]
+[s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_102_04_ [Morgana]]
-[s][vp 9 2 65535 43113 0 0]Alguém me disse que já foi morto antes...[n][f 1 2 180][e]
+[s][vp 9 2 65535 43113 0 0]Alguém me disse que ele[n]cometeu um assassinato antes...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_102_05_ [Morgana]]
-[s][vp 9 2 65535 42713 0 0]Se você se envolver com esse cara, quem sabe[n]o que vai acontecer...?[n][f 1 2 180][e]
+[s][vp 9 2 65535 42713 0 0]Se você se envolver com alguém[n]assim,[n]qualquer coisa pode acontecer com você...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_102_06_ [Morgana]]
-[s][vp 9 2 65535 42813 0 0]Ouvi dizer que ele sempre carrega uma faca[n]nele. Isso é tão assustador...[n][f 1 2 180][e]
+[s][vp 9 2 65535 42813 0 0]Ele parece sempre[n]carregar uma faca.[n]É assustador...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_103_01_ [Morgana]]
-[s][vp 9 2 65535 42302 0 0]A polícia está realmente aqui... isso está[n]se transformando em um grande negócio.[n][f 1 2 180][e]
+[s][vp 9 2 65535 42302 0 0]Realmente tem polícia...[n]As coisas ficam muito ruins aqui[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_103_02_ [Morgana]]
-[s][vp 9 2 65535 42204 0 0]Ouvi dizer que eles estão aqui para[n]investigar o Sr. Kamoshida.[n][f 1 2 180][e]
+[s][vp 9 2 65535 42204 0 0]Ouvi dizer que estou aqui para[n]investigar o prof. Kamoshida...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_103_03_ [Morgana]]
-[s]0 [n][f 1 2 180][e]
+[s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_103_04_ [Morgana]]
-[s][vp 9 2 65535 44454 0 0]Os professores estão todos ocupados lidando[n]com a polícia.[n][f 1 2 180][e]
+[s][vp 9 2 65535 44454 0 0]Os professores estão todos ocupados[n]colaborando com a polícia...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_103_05_ [Morgana]]
-[s][vp 9 2 65535 42704 0 0]Parecia que eles estavam perguntando aos[n]outros professores um monte de coisas[n]também.[n][f 1 2 180][e]
+[s][vp 9 2 65535 42704 0 0]Há rumores de que eles[n]questionaram os outros professores também...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_103_06_ [Morgana]]
-[s][vp 9 2 65535 38551 0 0]A polícia está aqui.[n]Eu não posso deixar de me preocupar...[n][f 1 2 180][e]
+[s][vp 9 2 65535 38551 0 0]A polícia está aqui...[n]Como não me preocupar...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_104_01_ [Morgana]]
-[s][vp 9 2 65535 42655 0 0]Está quase na hora do meio do meio.[n]Eu preciso me concentrar.[n][f 1 2 180][e]
+[s][vp 9 2 65535 42655 0 0]Estamos quase no meio do semestre.[n]Preciso me concentrar.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_104_02_ [Morgana]]
-[s][vp 9 2 65535 42510 0 0]Midterms em breve, hein? Vou estar com[n]problemas se não fizer alguns estudos.[n][f 1 2 180][e]
+[s][vp 9 2 65535 42510 0 0]Em breve haverá intermediários,[n]eh? Haverá problemas se eu deixar de[n]estudar pelo menos um pouco.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_104_03_ [Morgana]]
-[s]0 [n][f 1 2 180][e]
+[s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_104_04_ [Morgana]]
-[s][vp 9 2 65535 40602 0 0]Já está na hora do meio do meio!?[n]Eu tenho estudado, mas ainda estou meio[n]preocupado.[n][f 1 2 180][e]
+[s][vp 9 2 65535 40602 0 0]Já está na hora dos exames intermediários!?![n]Estudei, mas ainda tenho[n]algumas dúvidas.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_104_05_ [Morgana]]
-[s][vp 9 2 65535 42552 0 0]Midterms, hein...[n]Eu tenho acompanhado, mas...[n][f 1 2 180][e]
+[s][vp 9 2 65535 42552 0 0]Exames intermediários, né...[n]Eu sempre acompanhei, mas...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_104_06_ [Morgana]]
-[s][vp 9 2 65535 43211 0 0]Eu esqueci completamente o meio do meio com[n]tudo o que está acontecendo.[n][f 1 2 180][e]
+[s][vp 9 2 65535 43211 0 0]E quem se lembrou dos[n]intermediários depois de tudo que[n]aconteceu...?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_105_01_ [Morgana]]
-[s][vp 9 2 65535 39402 0 0]Já é hora das finais...[n]Eu preciso levar a sério o estudo.[n][f 1 2 180][e]
+[s][vp 9 2 65535 39402 0 0]Já é hora dos exames finais...[n]preciso muito[n]estudar.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_105_02_ [Morgana]]
-[s][vp 9 2 65535 42658 0 0]Se você está estudando, não há razão para[n]você entrar em pânico.[n][f 1 2 180][e]
+[s][vp 9 2 65535 42658 0 0]Se você estudou,[n]você realmente não tem nada[n]a temer.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_105_03_ [Morgana]]
-[s]0 [n][f 1 2 180][e]
+[s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_105_04_ [Morgana]]
-[s][vp 9 2 65535 43610 0 0]Eu preciso obter melhores notas nas minhas[n]finais do que no meio do meio...[n][f 1 2 180][e]
+[s][vp 9 2 65535 43610 0 0]Nos exames finais devo[n]melhorar absolutamente a[n]nota intermediária...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_105_05_ [Morgana]]
-[s][vp 9 2 65535 42859 0 0]As pontuações que recebo nas minhas finais[n]afetarão minhas recomendações...[n][f 1 2 180][e]
+[s][vp 9 2 65535 42859 0 0]A pontuação que eu obtiver nos[n]exames finais afetará[n]minhas recomendações...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_105_06_ [Morgana]]
-[s][vp 9 2 65535 42609 0 0]Ugh, já é hora das finais?[n]Estudar é tão chato.[n][f 1 2 180][e]
+[s][vp 9 2 65535 42609 0 0]Ugh, já está na hora dos[n]exames finais? Estudar é tão chato...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_201_01_ [Morgana]]
-[s]0 [n][f 1 2 180][e]
+[s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_201_02_ [Morgana]]
-[s]0 [n][f 1 2 180][e]
+[s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_201_03_ [Morgana]]
-[s][vp 9 2 65535 42804 0 0]Você ouviu falar do famoso detetive? Ele não[n]é incrível?[n][f 1 2 180][e]
+[s][vp 9 2 65535 42804 0 0]Você já ouviu falar daquele detetive famoso?[n]Ele não é incrível?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_201_04_ [Morgana]]
-[s]0 [n][f 1 2 180][e]
+[s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_201_05_ [Morgana]]
-[s]0 [n][f 1 2 180][e]
+[s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_201_06_ [Morgana]]
-[s]0 [n][f 1 2 180][e]
+[s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_202_01_ [Morgana]]
-[s]0 [n][f 1 2 180][e]
+[s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_202_02_ [Morgana]]
-[s]0 [n][f 1 2 180][e]
+[s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_202_03_ [Morgana]]
-[s][vp 9 2 65535 43354 0 0]Como Akechi disse, é assustador que eles[n]possam mudar o coração das pessoas sempre[n]que quiserem.[n][f 1 2 180][e]
+[s][vp 9 2 65535 43354 0 0]Como Akechi disse, é assustador que eles possam[n]despertar o coração das pessoas à vontade.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_202_04_ [Morgana]]
-[s]0 [n][f 1 2 180][e]
+[s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_202_05_ [Morgana]]
-[s]0 [n][f 1 2 180][e]
+[s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_202_06_ [Morgana]]
-[s]0 [n][f 1 2 180][e]
+[s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_301_01_ [Morgana]]
-[s][vp 9 2 65535 42112 0 0]Suas pontuações estão muito altas lá em[n]cima, mas isso deve ser algum erro.[n][f 1 2 180][e]
+[s][vp 9 2 65535 42112 0 0]Suas notas são bastante altas,[n]mas certamente deve haver um[n]erro...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_301_02_ [Morgana]]
-[s][vp 9 2 65535 43151 0 0]Droga. Minhas pontuações foram piores do que[n]a de delinqüente...[n][f 1 2 180][e]
+[s][vp 9 2 65535 43151 0 0]Droga... Eu tenho pontuações mais baixas do que[n]aquele infrator...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_301_03_ [Morgana]]
-[s][vp 9 2 65535 42613 0 0]Ele deve ter ameaçado ou chantageado ou algo[n]assim. Como ele conseguiu essas pontuações?[n][f 1 2 180][e]
+[s][vp 9 2 65535 42613 0 0]Ele deve ter ameaçado ou chantageado[n]alguém. Como ele conseguiu[n]aquelas notas...?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_301_04_ [Morgana]]
-[s][vp 9 2 65535 42451 0 0]De jeito nenhum! Ele é realmente inteligente?[n][f 1 2 180][e]
+[s][vp 9 2 65535 42451 0 0]Impossível! Você está me dizendo que[n]ele é inteligente?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_301_05_ [Morgana]]
-[s][vp 9 2 65535 43702 0 0]Talvez ele tenha sido violento porque estuda[n]demais?[n][f 1 2 180][e]
+[s][vp 9 2 65535 43702 0 0]Talvez ele tenha se tornado violento[n]porque estuda demais...?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_301_06_ [Morgana]]
-[s][vp 9 2 65535 42363 0 0]Ele é um criminoso e estuda demais? Ele é[n]meio estranho...[n][f 1 2 180][e]
+[s][vp 9 2 65535 42363 0 0]Ele é um criminoso E ele estuda muito? Isso é[n]lindo...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_302_01_ [Morgana]]
-[s][vp 9 2 65535 44601 0 0]Esta é uma escola preparatória, certo?[n]Como um delinqüente pode estar no topo da[n]nossa classe?[n][f 1 2 180][e]
+[s][vp 9 2 65535 44601 0 0]Estamos em um colégio, certo?[n]Como pode um delinquente[n]ser o melhor da classe?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_302_02_ [Morgana]]
-[s][vp 9 2 65535 42851 0 0]Droga. Como alguém como ele conseguiu a[n]pontuação máxima?[n][f 1 2 180][e]
+[s][vp 9 2 65535 42851 0 0]Droga... Como um[n]como ele conseguiu a[n]melhor pontuação?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_302_03_ [Morgana]]
-[s][vp 9 2 65535 42963 0 0]Um criminoso inteligente não é ainda mais[n]perigoso...?[n][f 1 2 180][e]
+[s][vp 9 2 65535 42963 0 0]Um criminoso inteligente...não é[n]mais perigoso...?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_302_04_ [Morgana]]
-[s][vp 9 2 65535 39652 0 0]Estou tão frustrado. Como eu poderia perder[n]quando se trata de notas?[n][f 1 2 180][e]
+[s][vp 9 2 65535 39652 0 0]Que frustração... Como eu poderia[n]tirar notas[n]semelhantes?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_302_05_ [Morgana]]
-[s][vp 9 2 65535 43062 0 0]Eu realmente o respeitaria se ele não fosse[n]um criminoso...[n][f 1 2 180][e]
+[s][vp 9 2 65535 43062 0 0]Eu o respeitaria também, se[n]ele não fosse um criminoso...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_302_06_ [Morgana]]
-[s][vp 9 2 65535 38305 0 0]Você acha que ele é realmente um prodígio ou[n]algo assim?[n]Eu não posso acreditar...[n][f 1 2 180][e]
+[s][vp 9 2 65535 38305 0 0]Você acha que ele é algum tipo de[n]garoto prodígio ou algo assim?[n]Eu não posso acreditar...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_303_01_ [Morgana]]
-[s][vp 9 2 65535 41610 0 0]Mesmo que ele tenha um registro criminal,[n]acho que ele não desistiu de estudar...[n][f 1 2 180][e]
+[s][vp 9 2 65535 41610 0 0]Evidentemente, apesar da[n]ficha criminal,[n]nunca deixou de estudar...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_303_02_ [Morgana]]
-[s][vp 9 2 65535 42205 0 0]Talvez ele seja mais sério sobre estudar do[n]que eu pensava.[n]Ou ele é...?[n][f 1 2 180][e]
+[s][vp 9 2 65535 42205 0 0]Talvez ele esteja mais interessado[n]em estudar do que eu pensava...[n]Estou errado?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_303_03_ [Morgana]]
-[s][vp 9 2 65535 38304 0 0]Huh. Eu acho que ele está desesperado por um[n]novo começo.[n][f 1 2 180][e]
+[s][vp 9 2 65535 38304 0 0]Acho que ele está desesperado[n]à procura de um novo começo.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_303_04_ [Morgana]]
-[s][vp 9 2 65535 42962 0 0]Não é fácil chegar entre os dez primeiros.[n][f 1 2 180][e]
+[s][vp 9 2 65535 42962 0 0]Não é fácil terminar[n]entre os dez primeiros...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_303_05_ [Morgana]]
-[s][vp 9 2 65535 38752 0 0]Eu esqueci totalmente disso, mas ele é[n]aquele aluno transferido, não é?[n][f 1 2 180][e]
+[s][vp 9 2 65535 38752 0 0]Isso me escapou completamente, mas ele é aquele[n]aluno que foi transferido para cá, certo?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_303_06_ [Morgana]]
-[s][vp 9 2 65535 40802 0 0]Na verdade, ele aparece na aula como um[n]aluno comum. Ouvi dizer que as notas dos[n]testes também foram ótimas.[n][f 1 2 180][e]
+[s][vp 9 2 65535 40802 0 0]Ele frequenta as aulas como um[n]aluno normal. Eu também ouvi[n]que suas notas são excelentes.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_304_01_ [Morgana]]
-[s][vp 9 2 65535 42551 0 0]Acho que só tenho que aceitar que ele é[n]realmente o número um...[n][f 1 2 180][e]
+[s][vp 9 2 65535 42551 0 0]Eu só tenho que aceitar[n]que é realmente o melhor...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_304_02_ [Morgana]]
-[s][vp 9 2 65535 42260 0 0]Ele assumiu o primeiro lugar meu...[n]Eu preciso estudar mais.[n][f 1 2 180][e]
+[s][vp 9 2 65535 42260 0 0]Ele roubou minha primeira vaga...[n]tenho que estudar mais.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_304_03_ [Morgana]]
-[s][vp 9 2 65535 42152 0 0]Estou surpreso que suas notas sejam tão[n]altas.[n][f 1 2 180][e]
+[s][vp 9 2 65535 42152 0 0]É incrível que as notas dele[n]são tão altas...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_304_04_ [Morgana]]
-[s][vp 9 2 65535 44800 0 0]Nem alguém pode obter as pontuações mais[n]altas e estar à frente da classe.[n][f 1 2 180][e]
+[s][vp 9 2 65535 44800 0 0]Não é para todos tirarem as melhores notas e[n]serem os primeiros da turma.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_304_05_ [Morgana]]
-[s][vp 9 2 65535 38205 0 0]Lembras-te dele? Esse delinqüente tem as[n]principais pontuações.[n][f 1 2 180][e]
+[s][vp 9 2 65535 38205 0 0]Lembras-te dele? Esse[n]criminoso alcançou[n]a pontuação mais alta...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_304_06_ [Morgana]]
-[s][vp 9 2 65535 39605 0 0]Os professores não podem dizer nada sobre[n]ele se ele estiver no topo da aula.[n][f 1 2 180][e]
+[s][vp 9 2 65535 39605 0 0]Os professores não podem mais dizer nada a ele,[n]agora que ele é o melhor da turma...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_305_01_ [Morgana]]
-[s][vp 9 2 65535 40104 0 0]Eu tenho que admitir que ele tem algumas[n]inteligentes...[n][f 1 2 180][e]
+[s][vp 9 2 65535 40104 0 0]Tenho que admitir que ele é[n]inteligente...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_305_02_ [Morgana]]
-[s][vp 9 2 65535 40154 0 0]Ele está tão quieto... você acha que ele[n]pode estar planejando alguma coisa?[n][f 1 2 180][e]
+[s][vp 9 2 65535 40154 0 0]Ele é tão quieto...[n]Você acha que ele está tramando[n]alguma coisa?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_305_03_ [Morgana]]
-[s][vp 9 2 65535 38905 0 0]Você ainda pode entrar na faculdade se tiver[n]um registro criminal?[n][f 1 2 180][e]
+[s][vp 9 2 65535 38905 0 0]Eles admitem você na universidade[n]mesmo que você tenha antecedentes[n]criminais?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_305_04_ [Morgana]]
-[s][vp 9 2 65535 42954 0 0]Ele está realmente tentando muito...[n]Eu preciso dar tudo de mim também.[n][f 1 2 180][e]
+[s][vp 9 2 65535 42954 0 0]Não se pode dizer que ele não[n]está tentando... Eu também tenho que[n]tentar.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_305_05_ [Morgana]]
-[s][vp 9 2 65535 38155 0 0]Ele tem que estar tentando nos fazer largar[n]nossa guarda tirando boas notas...[n][f 1 2 180][e]
+[s][vp 9 2 65535 38155 0 0]Ele deve estar tirando boas[n]notas só para nos[n]abaixar a guarda...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_305_06_ [Morgana]]
-[s][vp 9 2 65535 43805 0 0]Isso significa que ele realmente se[n]reformou? Isso é inacreditavel...[n][f 1 2 180][e]
+[s][vp 9 2 65535 43805 0 0]Você está me dizendo que[n]realmente mudou?[n]É incrível...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_306_01_ [Morgana]]
-[s][vp 9 2 65535 40355 0 0]Quem se importa com rumores?[n]O fato é que ele está no topo da classe.[n][f 1 2 180][e]
+[s][vp 9 2 65535 40355 0 0]Quem se importa com rumores![n]A questão é que[n]é o melhor da classe.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_306_02_ [Morgana]]
-[s][vp 9 2 65535 38705 0 0]Você conhece aquele cara que obteve a[n]pontuação máxima? O que ele fez de novo?[n][f 1 2 180][e]
+[s][vp 9 2 65535 38705 0 0]Você conhece o cara que conseguiu a[n]melhor pontuação? O que ele[n]disse ter feito?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_306_03_ [Morgana]]
-[s][vp 9 2 65535 42810 0 0]Com esses tipos de notas, tenho certeza de[n]que os exames de admissão serão uma brisa...[n][f 1 2 180][e]
+[s][vp 9 2 65535 42810 0 0]Com essas notas, o[n]vestibular será uma[n]caminhada...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_306_04_ [Morgana]]
-[s][vp 9 2 65535 43802 0 0]Ele é muito inteligente. Eu nunca poderia[n]vencê-lo quando se trata de notas.[n][f 1 2 180][e]
+[s][vp 9 2 65535 43802 0 0]Ele é muito inteligente...[n]eu nunca vou vencê-lo[n]em notas.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_306_05_ [Morgana]]
-[s][vp 9 2 65535 38754 0 0]Ele está no topo da classe?[n]Ele deve ter chantageado um professor ou...[n]ou algo assim.[n][f 1 2 180][e]
+[s][vp 9 2 65535 38754 0 0]Ele é o melhor da turma!?![n]Ele deve ter chantageado a professora...[n]ou algo assim.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_306_06_ [Morgana]]
-[s][vp 9 2 65535 43262 0 0]Parece que ele é o verdadeiro negócio.[n]Talvez ele se torne algum tipo de mentora[n]criminosa.[n][f 1 2 180][e]
+[s][vp 9 2 65535 43262 0 0]Aparentemente, ele sabe das coisas.[n]Talvez ele seja algum[n]tipo de gênio do crime...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_030_01_ [Morgana]]
-[s][vp 9 2 65535 42303 0 0]Meu cotovelo? Sim, está tudo bem.[n][f 1 2 180][e]
+[s][vp 9 2 65535 42303 0 0]O cotovelo? Sim, tudo bem.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_030_02_ [Morgana]]
-[s][vp 9 2 65535 42705 0 0]Meu irmão é o que está na equipe de pista.[n][f 1 2 180][e]
+[s][vp 9 2 65535 42705 0 0]Meu irmão está na[n]equipe de atletismo.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_030_03_ [Morgana]]
-[s][vp 9 2 65535 37553 0 0]Você vai continuar o vôlei na faculdade,[n]certo? Talvez nos encontremos em uma partida![n][f 1 2 180][e]
+[s][vp 9 2 65535 37553 0 0]Na faculdade, você ainda[n]joga vôlei, certo?[n]Talvez a gente se encontre na quadra![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_030_04_ [Morgana]]
 [s][vp 9 2 65535 42701 0 0]Ele sempre será o treinador.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_030_05_ [Morgana]]
-[s][vp 9 2 65535 42955 0 0]De jeito nenhum! Você não bateu sua perna?[n]Bem, acho que está tudo bem se estiver[n]curado...[n][f 1 2 180][e]
+[s][vp 9 2 65535 42955 0 0]Impossível! E a lesão na perna? Bom, acho que[n]está tudo bem, se ele estiver curado...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_030_06_ [Morgana]]
-[s][vp 9 2 65535 43151 0 0]Você foi quem estragou o passe de bastão,[n]certo...?[n][f 1 2 180][e]
+[s][vp 9 2 65535 43151 0 0]Foi você quem errou[n]a passagem do bastão,[n]é verdade...?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_031_07_ [Morgana]]
-[s][vp 9 2 65535 42861 0 0]Estou participando de longa distância. Como[n]sempre.[n][f 1 2 180][e]
+[s][vp 9 2 65535 42861 0 0]Eu corro longas distâncias.[n]Como sempre.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_031_08_ [Morgana]]
-[s][vp 9 2 65535 43003 0 0]Vamos formar um duplo na faculdade![n][f 1 2 180][e]
+[s][vp 9 2 65535 43003 0 0]Vamos nos reunir na universidade![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_031_09_ [Morgana]]
-[s][vp 9 2 65535 43353 0 0]É bom que sua família venha torcer por você.[n][f 1 2 180][e]
+[s][vp 9 2 65535 43353 0 0]Que bom que sua família[n]veio torcer.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_031_10_ [Morgana]]
 [s][vp 9 2 65535 43300 0 0]Ela sempre foi a levantadora.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_031_11_ [Morgana]]
-[s][vp 9 2 65535 46255 0 0]Espere... hein? O seu ligamento não estava[n]rasgado?[n][f 1 2 180][e]
+[s][vp 9 2 65535 46255 0 0]Espere... uh?[n]E a lesão do ligamento?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_502_06_ [Morgana]]
-[s][vp 9 2 65535 42350 0 0]Todos os professores esperam grandes coisas[n]de Yoshizawa-san.[n][f 1 2 180][e]
+[s][vp 9 2 65535 42350 0 0]Os professores esperam[n]grandes coisas de Yoshizawa-san...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_502_07_ [Morgana]]
-[s][vp 9 2 65535 42950 0 0]Eu quero ser amigo desse primeiro ano.[n][f 1 2 180][e]
+[s][vp 9 2 65535 42950 0 0]Eu quero fazer amizade com aquela primeira garota.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_502_08_ [Morgana]]
-[s][vp 9 2 65535 43004 0 0]Essa garota de ginasta deveria ser muito boa![n][f 1 2 180][e]
+[s][vp 9 2 65535 43004 0 0]Parece que aquela ginasta[n]é muito boa![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_502_09_ [Morgana]]
-[s][vp 9 2 65535 42800 0 0]É incrível ser selecionado para a ginástica![n][f 1 2 180][e]
+[s][vp 9 2 65535 42800 0 0]Ser selecionado para[n]ginástica é incrível![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_502_10_ [Morgana]]
-[s][vp 9 2 65535 43100 0 0]Essa garota tem uma figura tão boa.[n][f 1 2 180][e]
+[s][vp 9 2 65535 43100 0 0]Essa garota tem[n]um corpo lindo.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_502_11_ [Morgana]]
-[s][vp 9 2 65535 43154 0 0]Esse aluno de honra tem uma vibração[n]distinta...[n][f 1 2 180][e]
+[s][vp 9 2 65535 43154 0 0]A aluna exemplar[n]tem um visual inconfundível...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_502_12_ [Morgana]]
-[s][vp 9 2 65535 43104 0 0]Gostaria de saber se ela vai se juntar a um[n]clube?[n][f 1 2 180][e]
+[s][vp 9 2 65535 43104 0 0]Quem sabe se ele entrará em algum clube?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_502_13_ [Morgana]]
-[s][vp 9 2 65535 43151 0 0]No mínimo, eu sei que ela quer parecer uma[n]boa elo.[n][f 1 2 180][e]
+[s][vp 9 2 65535 43151 0 0]Com certeza ela quer parecer[n]uma santinha.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_502_14_ [Morgana]]
-[s][vp 9 2 65535 42355 0 0]Estou no mesmo grupo do primeiro ano...[n][f 1 2 180][e]
+[s][vp 9 2 65535 42355 0 0]Estou no mesmo grupo[n]que aquele calouro...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_502_15_ [Morgana]]
-[s][vp 9 2 65535 43101 0 0]Ela não precisa fazer o exame? Sério? Oh,[n]eles apenas mudaram a data...[n][f 1 2 180][e]
+[s][vp 9 2 65535 43101 0 0]Você não precisa fazer o exame?[n]Sério? Oh, eles apenas[n]mudaram a data...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_502_16_ [Morgana]]
-[s][vp 9 2 65535 42905 0 0]Eu me pergunto se há algo que ela possa[n]fazer além da ginástica.[n][f 1 2 180][e]
+[s][vp 9 2 65535 42905 0 0]Será que além da ginástica[n]ele sabe fazer outras coisas...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_502_17_ [Morgana]]
-[s][vp 9 2 65535 42655 0 0]Ela vai estar em uma competição, certo?[n]Vamos assistir.[n][f 1 2 180][e]
+[s][vp 9 2 65535 42655 0 0]Ele vai entrar em uma corrida, certo? Vamos[n]assistir.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_502_18_ [Morgana]]
-[s][vp 9 2 65535 42602 0 0]Seu todo, "não estou incomodado", a rotina[n]realmente me irrita às vezes.[n][f 1 2 180][e]
+[s][vp 9 2 65535 42602 0 0]Esse ar de "non mi tange"[n]me deixa com raiva, às vezes.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_503_01_ [Morgana]]
-[s][vp 9 2 65535 42655 0 0]Esse novo conselheiro Maruki é tão popular[n]entre as meninas.[n][f 1 2 180][e]
+[s][vp 9 2 65535 42655 0 0]O novo consultor, Maruki,[n]é muito popular[n]com as meninas.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_503_02_ [Morgana]]
-[s][vp 9 2 65535 42353 0 0]Dr. Maruki parece tão bom em branco! E ele[n]parece muito bom...[n][f 1 2 180][e]
+[s][vp 9 2 65535 42353 0 0]O branco fica ótimo no[n]doutor Maruki! Ele parece[n]muito legal...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_503_03_ [Morgana]]
-[s][vp 9 2 65535 42603 0 0]Vou ver o Dr. Maruki mais tarde![n][f 1 2 180][e]
+[s][vp 9 2 65535 42603 0 0]Vou falar com o Dr. Maruki mais tarde![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_503_04_ [Morgana]]
-[s][vp 9 2 65535 42953 0 0]Esse conselheiro é o meu tipo![n][f 1 2 180][e]
+[s][vp 9 2 65535 42953 0 0]Esse consultor é meu tipo![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_503_05_ [Morgana]]
-[s][vp 9 2 65535 42705 0 0]Existe algo de bom em ir a sessões de[n]aconselhamento?[n][f 1 2 180][e]
+[s][vp 9 2 65535 42705 0 0]De que adianta[n]participar das sessões...?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_503_06_ [Morgana]]
-[s][vp 9 2 65535 42604 0 0]Então, os conselheiros gostam de pessoas com[n]quem você pode conversar?[n][f 1 2 180][e]
+[s][vp 9 2 65535 42604 0 0]Então consultores são pessoas[n]em quem você pode confiar?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_504_01_ [Morgana]]
-[s][vp 9 2 65535 42501 0 0]Por que diabos temos que limpar o parque[n]Inokashira...[n][f 1 2 180][e]
+[s][vp 9 2 65535 42501 0 0]Por que diabos nós[n]limpamos o Parque Inokashira...?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_504_02_ [Morgana]]
-[s][vp 9 2 65535 43052 0 0]30 dias... talvez eu apenas finge estar[n]doente...[n][f 1 2 180][e]
+[s][vp 9 2 65535 43052 0 0]30 dias... eu poderia fingir que estou doente...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_504_03_ [Morgana]]
-[s][vp 9 2 65535 42602 0 0]Por que temos que limpar... GUGH, isso é[n]péssimo.[n][f 1 2 180][e]
+[s][vp 9 2 65535 42602 0 0]Por que diabos nós[n]limpamos...? Ugh, que chatice...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_504_04_ [Morgana]]
-[s][vp 9 2 65535 42451 0 0]Por que temos que limpar?[n][f 1 2 180][e]
+[s][vp 9 2 65535 42451 0 0]Por que precisamos limpar?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_504_05_ [Morgana]]
-[s][vp 9 2 65535 42205 0 0]Eles estão desesperados para aumentar a[n]reputação da escola.[n][f 1 2 180][e]
+[s][vp 9 2 65535 42205 0 0]Querem a todo custo melhorar[n]a reputação da escola...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_504_06_ [Morgana]]
 [s][vp 9 2 65535 43105 0 0]Os professores deveriam fazer isso...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_601_01_ [Morgana]]
-[s][vp 9 2 65535 42554 0 0]Ela está jogando no nível nacional, certo?[n][f 1 2 180][e]
+[s][vp 9 2 65535 42554 0 0]Competir em[n]nível nacional, certo?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_601_02_ [Morgana]]
-[s][vp 9 2 65535 42655 0 0]Ela sempre carrega uma bolsa grande.[n][f 1 2 180][e]
+[s][vp 9 2 65535 42655 0 0]Sempre leve uma bolsa com você.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_601_03_ [Morgana]]
-[s][vp 9 2 65535 42604 0 0]Eu quero ver o desempenho de Yoshizawa-san.[n][f 1 2 180][e]
+[s][vp 9 2 65535 42604 0 0]Eu quero assistir[n]Yoshizawa-san se apresentar.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_601_04_ [Morgana]]
-[s][vp 9 2 65535 42350 0 0]É incrível que ela seja uma estudante de[n]honra. Eu tenho expectativas tão altas...[n][f 1 2 180][e]
+[s][vp 9 2 65535 42350 0 0]É incrível que ele tenha uma bolsa de estudos. Eu[n]espero grandes coisas...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_601_05_ [Morgana]]
-[s][vp 9 2 65535 42655 0 0]Que tipo de coisa você faz na ginástica?[n][f 1 2 180][e]
+[s][vp 9 2 65535 42655 0 0]Que tipo de coisas são[n]feitas na ginástica?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_601_06_ [Morgana]]
-[s][vp 9 2 65535 42950 0 0]A garota com a fita vermelha, certo? Ela tem[n]uma figura tão boa...[n][f 1 2 180][e]
+[s][vp 9 2 65535 42950 0 0]A garota com o laço vermelho,[n]certo? Ela tem um corpo lindo...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_505_01_ [Morgana]]
-[s][vp 9 2 65535 42551 0 0]Como ela é amiga do delinqüente? Vamos![n][f 1 2 180][e]
+[s][vp 9 2 65535 42551 0 0]Como é possível que ela seja[n]amiga daquele ofensor...?[n]Vamos lá![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_505_02_ [Morgana]]
-[s][vp 9 2 65535 42202 0 0]Eu teria sido popular entre as meninas se[n]fosse um gênio.[n][f 1 2 180][e]
+[s][vp 9 2 65535 42202 0 0]Se eu fosse um gênio[n]eu teria sucesso[n]com garotas...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_505_03_ [Morgana]]
-[s][vp 9 2 65535 42602 0 0]Ela é amiga desse cara...[n]Ela também é delinqüente?[n][f 1 2 180][e]
+[s][vp 9 2 65535 42602 0 0]Ela é amiga daquele cara... Será ela[n]uma delinquente também?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_505_04_ [Morgana]]
-[s][vp 9 2 65535 43101 0 0]Essa garota de ginástica está realmente[n]recebendo tratamento especial...[n][f 1 2 180][e]
+[s][vp 9 2 65535 43101 0 0]Garota da academia recebe[n]tratamento especial...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_505_05_ [Morgana]]
-[s][vp 9 2 65535 43004 0 0]Ouvi dizer que ela pratica todos os dias.[n][f 1 2 180][e]
+[s][vp 9 2 65535 43004 0 0]Ouvi dizer que ele treina[n]todos os dias.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_505_06_ [Morgana]]
-[s][vp 9 2 65535 43201 0 0]Eu sinto que Yoshizawa-san está sendo[n]tratado especialmente...[n][f 1 2 180][e]
+[s][vp 9 2 65535 43201 0 0]Eu sinto que[n]Yoshizawa-san recebe[n]tratamento especial...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_506_01_ [Morgana]]
-[s][vp 9 2 65535 43152 0 0]Ei, ela praticou muito. O que há de errado[n]com vocês...[n][f 1 2 180][e]
+[s][vp 9 2 65535 43152 0 0]Ei, ela treinou[n]duro. O que diabos[n]há de errado com você...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_506_02_ [Morgana]]
-[s][vp 9 2 65535 42852 0 0]Oh cara, as meninas certamente falarão sobre[n]isso.[n][f 1 2 180][e]
+[s][vp 9 2 65535 42852 0 0]Nossa, as meninas falam[n]muito dessa história...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_506_03_ [Morgana]]
-[s][vp 9 2 65535 42152 0 0]Estou surpreso, ela não era boa.[n][f 1 2 180][e]
+[s][vp 9 2 65535 42152 0 0]Que surpresa! Foi[n]muito ruim.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_506_04_ [Morgana]]
-[s][vp 9 2 65535 43113 0 0]Gostaria de saber se ela está envergonhada[n]por ser uma estudante de honra com suas[n]habilidades...[n][f 1 2 180][e]
+[s][vp 9 2 65535 43113 0 0]Eu me pergunto se ele tem vergonha de[n]ter uma bolsa,[n]com essas habilidades...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_506_05_ [Morgana]]
-[s][vp 9 2 65535 42752 0 0]Ela estava praticando. Eu vi![n][f 1 2 180][e]
+[s][vp 9 2 65535 42752 0 0]Ela treinou. Eu vi![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_506_06_ [Morgana]]
-[s][vp 9 2 65535 42602 0 0]Isso é ruim...[n]Estou muito decepcionado.[n][f 1 2 180][e]
+[s][vp 9 2 65535 42602 0 0]Que pena...[n]É uma grande decepção...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_603_01_ [Morgana]]
-[s][vp 9 2 65535 43002 0 0]Um verdadeiro suicídio!? Merda... quem?[n][f 1 2 180][e]
+[s][vp 9 2 65535 43002 0 0]Um verdadeiro suicídio!?! Merda... Quem?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_603_02_ [Morgana]]
-[s][vp 9 2 65535 42702 0 0]O rosto dela teve muitos ferimentos...[n]Saltar não é o caminho a seguir.[n][f 1 2 180][e]
+[s][vp 9 2 65535 42702 0 0]Seu rosto estava desfigurado...[n]Pular não é[n]a solução...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_603_03_ [Morgana]]
-[s][vp 9 2 65535 42152 0 0]Aquela roupa... de jeito nenhum...[n][f 1 2 180][e]
+[s][vp 9 2 65535 42152 0 0]Essas roupas... Absurdo...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_603_04_ [Morgana]]
-[s][vp 9 2 65535 43102 0 0]Talvez algo ruim tenha acontecido com ela?[n]Ei, pare de pisar nos meus pés![n][f 1 2 180][e]
+[s][vp 9 2 65535 43102 0 0]Algo[n]ruim aconteceu com ela? ...Pare de[n]pisar nos meus pés![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_603_05_ [Morgana]]
-[s][vp 9 2 65535 42851 0 0]Estava super lotado lá fora![n]Todo mundo é apenas um monte de[n]Rubberneckers![n][f 1 2 180][e]
+[s][vp 9 2 65535 42851 0 0]Estava cheio de gente lá fora![n]Eles são todos intrometidos![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_603_06_ [Morgana]]
-[s][vp 9 2 65535 42602 0 0]Por que agora... e ela teve que fazer isso[n]na escola?[n][f 1 2 180][e]
+[s][vp 9 2 65535 42602 0 0]Porque agora...? Ele[n]teve que fazer isso na escola...?[n][f 1 2 180][e]
 

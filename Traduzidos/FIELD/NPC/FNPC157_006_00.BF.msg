@@ -1,34 +1,34 @@
 [msg TEST_MES]
-[s]Teste [n][w][e]
+[s]Ele tenta[n][w][e]
 
 [sel YESNO_SEL top]
-[s]Sim [e]
-[s]Não [e]
+[s]Sim[e]
+[s]Não[e]
 
-[msg D06_06_MOB_MES_mes01 [Customer]]
-[s]Eu gostaria de poder ir até o piso limite[n]alto...[n][w][e]
+[msg D06_06_MOB_MES_mes01 [Cliente]]
+[s]Eu adoraria ir para o plano high stakes[n]...[n][w][e]
 
-[msg D06_06_MOB_MES_mes02 [Customer]]
-[s]Máquinas de dados e caça-níqueis... as[n]coisas aqui são muito diferentes do que[n]está abaixo![n][w][e]
+[msg D06_06_MOB_MES_mes02 [Cliente]]
+[s]Craps e máquinas caça-níqueis... Aqui[n]é bem diferente dos[n]pisos inferiores![n][w][e]
 
-[msg D06_06_MOB_MES_mes03 [Customer]]
-[s]A sorte da senhora está do meu lado hoje...[n]Eu já dobrei minha moeda no total![n][w][e]
+[msg D06_06_MOB_MES_mes03 [Cliente]]
+[s]Hoje a Sorte está do meu[n]lado... Já dobrei[n]minhas moedas![n][w][e]
 
-[msg D06_06_MOB_MES_mes04 [Customer]]
-[s]Droga, o que diabos!?[n]Eu não posso vencer![n][w][e]
+[msg D06_06_MOB_MES_mes04 [Cliente]]
+[s]Que diabos...[n]Não posso vencer![n][w][e]
 
-[msg D06_06_MOB_MES_mes05 [Customer]]
-[s]Eu finalmente ganhei! Yippeeeee![n][w][e]
+[msg D06_06_MOB_MES_mes05 [Cliente]]
+[s]Eu finalmente ganhei![n]Yuppieeee![n][w][e]
 
-[msg D06_06_MOB_MES_mes06 [Customer]]
-[s]Talvez eu deva desistir e ir para casa...[n]não, eu preciso tentar de novo![n][w][e]
+[msg D06_06_MOB_MES_mes06 [Cliente]]
+[s]Talvez eu devesse desistir e[n]ir para casa...[n]Não, quero tentar de novo![n][w][e]
 
-[msg D06_06_MOB_MES_mes07 [Customer]]
-[s]Acho que minhas habilidades realmente não[n]funcionam no chão dos membros...[n][w][e]
+[msg D06_06_MOB_MES_mes07 [Cliente]]
+[s]Minha habilidade é de pouca[n]utilidade neste andar[n]reservado para membros...[n][w][e]
 
-[msg D06_06_MOB_MES_mes08 [Customer]]
-[s]Mais... eu preciso de mais dinheiro...[n][w][e]
+[msg D06_06_MOB_MES_mes08 [Cliente]]
+[s]Mais dinheiro...[n]Preciso de mais dinheiro...[n][w][e]
 
-[msg D06_06_MOB_MES_mes09 [Customer]]
-[s]Ouvi dizer que a grande máquina caça-níqueis[n]custa 5.000 moedas para jogar...[n][w][e]
+[msg D06_06_MOB_MES_mes09 [Cliente]]
+[s]Para jogar nessa grande[n]caça-níqueis, você precisa de[n]5.000 moedas...[n][w][e]
 

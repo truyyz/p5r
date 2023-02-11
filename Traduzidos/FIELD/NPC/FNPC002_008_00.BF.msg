@@ -2,539 +2,539 @@
 [s]はい[e]
 [s]いいえ[e]
 
-[msg MSG_MAKOTO_UWASA_001_0_0 [Soft-Spoken Male Student]]
-[s][f 4 23 1 1 3 10 0 0][vp 8 2 1 0 1 0]Bem, há nosso presidente do Conselho[n]Estudantil.[n][w][e]
-[s][vp 8 2 1 0 1 0]Ela está lendo todos aqueles livros enormes[n]e complexos para estudar para os exames da[n]faculdade? Isso é realmente assustador.[n][w][e]
+[msg MSG_MAKOTO_UWASA_001_0_0 [Studente dal tono pacato]]
+[s][f 4 23 1 1 3 10 0 0][vp 8 2 1 0 1 0]Bem, ali está o presidente do nosso conselho[n]estudantil .[n][w][e]
+[s][vp 8 2 1 0 1 0]Ele está lendo aqueles volumes enormes e[n]complexos para seus exames[n]uni? É realmente intimidante.[n][w][e]
 
-[msg MSG_MAKOTO_UWASA_001_1_0 [Book-Loving Male Student]]
-[s][f 4 23 1 2 3 10 0 0][vp 8 2 1 0 2 0]Ela emprestou um livro de ficção científica[n]outro dia. Talvez tenhamos algo em comum.[n][w][e]
+[msg MSG_MAKOTO_UWASA_001_1_0 [Studente amante della lettura]]
+[s][f 4 23 1 2 3 10 0 0][vp 8 2 1 0 2 0]No outro dia, porém, ele pegou emprestado um[n]livro de ficção científica. Talvez tenhamos algo[n]em comum.[n][w][e]
 
-[msg MSG_MAKOTO_UWASA_001_2_0 [Soft-Spoken Male Student]]
-[s][f 4 23 1 1 3 10 0 0][vp 8 2 1 0 1 0]Oh, tenho certeza, mas ela nunca falaria com[n]pessoas como nós. Ela é muito motivada e[n]séria.[n][w][e]
-[s][vp 8 2 1 0 1 0]É por isso que ela está sempre recebendo as[n]melhores notas. Eu posso ver por que o[n]diretor colocou tanta esperança nela.[n][w][e]
+[msg MSG_MAKOTO_UWASA_001_2_0 [Studente dal tono pacato]]
+[s][f 4 23 1 1 3 10 0 0][vp 8 2 1 0 1 0]Ah, eu acredito, mas ela nunca[n]fala com caras como nós. Ela é muito[n]ligia e séria.[n][w][e]
+[s][vp 8 2 1 0 1 0]É por isso que ele sempre tira as notas máximas.[n]Não é de admirar que o diretor confie em você.[n][w][e]
 
-[msg MSG_MAKOTO_UWASA_002_0_0 [Soft-Spoken Male Student]]
-[s][f 4 23 1 1 3 10 0 0][vp 8 2 1 0 1 0]HM? O presidente do conselho estudantil não[n]está aqui hoje. Ela geralmente está sempre[n]lá, estudando.[n][w][e]
+[msg MSG_MAKOTO_UWASA_002_0_0 [Studente dal tono pacato]]
+[s][f 4 23 1 1 3 10 0 0][vp 8 2 1 0 1 0]Hum? O presidente do conselho estudantil não está[n]aqui hoje. Ele está normal lá, estudando.[n][w][e]
 
-[msg MSG_MAKOTO_UWASA_002_1_0 [Book-Loving Male Student]]
-[s][f 4 23 1 2 3 10 0 0][vp 8 2 1 0 2 0]Talvez ela esteja ocupada por causa dessa[n]coisa de Kamoshida. O diretor também é[n]sensível a respeito, eu ouvi.[n][w][e]
+[msg MSG_MAKOTO_UWASA_002_1_0 [Studente amante della lettura]]
+[s][f 4 23 1 2 3 10 0 0][vp 8 2 1 0 2 0]Talvez ela esteja envolvida no caso Kamoshida.[n]Dizem que até o diretor está em crise.[n][w][e]
 
-[msg MSG_MAKOTO_UWASA_002_2_0 [Soft-Spoken Male Student]]
-[s][f 4 23 1 1 3 10 0 0][vp 8 2 1 0 1 0]Eles provavelmente estão procurando quem[n]colocou esse panfleto, mas deveriam estar[n]cuidando mais de nós.[n][w][e]
+[msg MSG_MAKOTO_UWASA_002_2_0 [Studente dal tono pacato]]
+[s][f 4 23 1 1 3 10 0 0][vp 8 2 1 0 1 0]Eles estarão procurando por quem colocou[n]aquele panfleto, mas eles devem[n]preocupar-se conosco também.[n][w][e]
 
-[msg MSG_MAKOTO_UWASA_002_3_0 [Book-Loving Male Student]]
-[s][f 4 23 1 2 3 10 0 0][vp 8 2 1 0 2 0]Eu acho que é decepcionante que mesmo o[n]presidente do Conselho Estudantil esteja no[n]Beck e chamado do professor.[n][w][e]
+[msg MSG_MAKOTO_UWASA_002_3_0 [Studente amante della lettura]]
+[s][f 4 23 1 2 3 10 0 0][vp 8 2 1 0 2 0]É bastante decepcionante que[n]também o presidente esteja sob as[n]ordem dos profs.[n][w][e]
 
-[msg MSG_MAKOTO_UWASA_003_0_0 [Soft-Spoken Male Student]]
-[s][f 4 23 1 1 3 10 0 0][vp 8 2 1 0 1 0]O que o presidente do conselho estudantil[n]está fazendo? Ela está agindo de maneira[n]muito suspeita.[n][w][e]
-[s][vp 8 2 1 0 1 0]Escola errante, esgueirando-se...[n]Eu a vi saindo em Shibuya por algum motivo.[n][w][e]
+[msg MSG_MAKOTO_UWASA_003_0_0 [Studente dal tono pacato]]
+[s][f 4 23 1 1 3 10 0 0][vp 8 2 1 0 1 0]O que a presidente do conselho estudantil[n]está fazendo?[n]Ela está agindo de forma suspeita.[n][w][e]
+[s][vp 8 2 1 0 1 0]Ela vagueia pela escola, ela se esconde...[n]Eu também a vi filmando em Shibuya[n]sabe-se lá por qual razão.[n][w][e]
 
-[msg MSG_MAKOTO_UWASA_003_1_0 [Book-Loving Male Student]]
-[s][f 4 23 1 2 3 10 0 0][vp 8 2 1 0 2 0]Ela estava agindo como um detetive,[n]trabalhando em um caso. Talvez ela pense[n]que é uma?[n][w][e]
-[s][vp 8 2 1 0 2 0]Ela conferiu alguns romances de detetive[n]outro dia. Talvez ela esteja realmente em[n]detetives agora.[n][w][e]
+[msg MSG_MAKOTO_UWASA_003_1_0 [Studente amante della lettura]]
+[s][f 4 23 1 2 3 10 0 0][vp 8 2 1 0 2 0]Ela agiu como um[n]detetive em um caso.[n]Ela não está convencida que está?[n][w][e]
+[s][vp 8 2 1 0 2 0]Outro dia ele estava lá lendo[n]algumas histórias de detetive. Talvez agora[n]ele os esteja imitando na realidade.[n][w][e]
 
 [msg MSG_MAKOTO_LIBRARY_D01_0]
-[s]Ela deve estar realmente focada...[n]Ela não me notou nada.[n][w][e]
+[s]Ela não me notou...[n]Ela deve estar concentrada.[n][w][e]
 
-[msg MSG_MAKOTO_LIBRARY_D01_5 [Diligent-Looking Student]]
-[s][bup 0 6 3 65535 0][f 4 23 1 202 30 10 30 10][vp 8 2 1 2015 65535 0][f 4 10 65535 0 0]O Sr. Kamoshida se trancou depois daquela[n]brincadeira com aqueles "ladrões Phantom"...[n][w][e]
-[s][f 4 10 65535 0 0][vp 1 0 0 0 0 0]E, além disso, temos os intermediários[n]chegando após o intervalo. Eu me pergunto[n]como o próximo semestre vai ir...[n][w][e]
+[msg MSG_MAKOTO_LIBRARY_D01_5 [Studentessa dall'aria diligente]]
+[s][bup 0 6 3 65535 0][f 4 23 1 202 30 10 30 10][vp 8 2 1 2015 65535 0][f 4 10 65535 0 0]Após a brincadeira daqueles "ladrões fantasmas",[n]Kamoshida-sensei tornou-se inacessível...[n][w][e]
+[s][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Além disso, depois das férias há exames. Quem[n]sabe como será o próximo trimestre...[n][w][e]
 
-[msg MSG_GRT_main_All_001_01_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42912 0 0]Ei, esse não é o aluno transferido? O que[n]ele está fazendo aqui?[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_001_01_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42912 0 0]Ei, aquele não é o[n]novo aluno? O que você está fazendo aqui?[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_001_02_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 43162 0 0]Não é esse o garoto com o registro criminal?[n]O que diabos ele está fazendo em uma[n]biblioteca?[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_001_02_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 43162 0 0]Aquele cara não tem ficha[n]criminal? O que diabos está[n]fazendo aqui na biblioteca?[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_001_03_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 43112 0 0]Oh não, por que ele teve que coem aqui? Ele[n]é aterrorizante...[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_001_03_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 43112 0 0]Oh não, por que ele veio aqui?[n]É assustador...[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_001_04_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42862 0 0]Dizem que ele é um sádico do armário... e,[n]garoto, ele com certeza olha a parte.[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_001_04_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42862 0 0]Dizem que ele é um[n]sádico... e cara, isso[n]se encaixa perfeitamente nele.[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_101_01_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42112 0 0]Ele pode até ler?[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_101_01_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42112 0 0]Mas você sabe ler?[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_101_02_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42363 0 0]Os criminosos não vão à biblioteca- eles vão[n]para a cadeia![n][f 1 2 180][e]
+[msg MSG_GRT_main_All_101_02_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42363 0 0]Criminosos não vão para a biblioteca[n]mas para a prisão![n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_102_01_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42663 0 0]Oh porcaria, ele olhou totalmente para mim.[n]Espero que ele não venha aqui...[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_102_01_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42663 0 0]Droga, ele me viu.[n]Espero que ele não venha aqui...[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_102_02_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 43312 0 0]Ele age normal, mas você pode dizer que ele[n]está bagunçado...[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_102_02_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 43312 0 0]Ele se comporta normalmente,[n]mas mostra que ele não tem[n]todas as rodas no lugar...[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_102_03_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42712 0 0]Ele tem os olhos de um condenado...[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_102_03_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42712 0 0]Ele tem o[n]olhar criminoso...[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_104_04_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42413 0 0]Ele tem que sair antes que ele cause mais[n]problemas...[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_104_04_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42413 0 0]Ele teve que sair[n]antes de causar mais problemas...[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_002_01_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42262 0 0]Apenas seja expulso já...[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_002_01_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42262 0 0]Eles deveriam expulsá-lo...[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_002_02_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42762 0 0]Você acha que ele vai perder a merda antes[n]de ser expulso?[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_002_02_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42762 0 0]Você acha que ele vai surtar antes de ser expulso?[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_003_01_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 43013 0 0]Não importa como eles fazem isso. Esta[n]escola precisa se livrar dele.[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_003_01_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 43013 0 0]Não importa o caminho.[n]A escola deve se livrar[n]dele.[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_003_02_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 43213 0 0]Figuras ele seria amigo de[n]Sakamoto-kun-pássaros de uma pena e tudo[n]mais.[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_003_02_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 43213 0 0]Claro, ele é amigo de[n]Sakamoto-kun. Deus os faz[n]e então os une.[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_004_01_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42703 0 0]Eles são seriamente chamados de "Phantom[n]Thieves of Hearts"?[n]Isso é tão coxo que é engraçado![n][f 1 2 180][e]
+[msg MSG_GRT_main_All_004_01_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42703 0 0]Eles realmente se autodenominam[n]"Phantom Thieves of Hearts"?[n]Ele é tão idiota que é bonito![n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_004_02_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42755 0 0]Algumas pessoas têm muito[n]tempo em suas mãos.[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_004_02_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42755 0 0]Algumas pessoas realmente têm[n]tempo a perder.[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_004_03_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42905 0 0]Não é um pouco infantil demais para uma[n]brincadeira?[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_004_03_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42905 0 0]Isso não é uma piada infantil?[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_004_04_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42702 0 0]Um cartão de chamada?[n]Alguém está assistindo muito anime...[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_004_04_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42702 0 0]Uma carta de aviso?[n]Alguém assistiu[n]muitos animes...[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_005_01_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42104 0 0]Os ladrões fantasmas conheciam Kamoshida?[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_005_01_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42104 0 0]Os Phantom Thieves[n]conheciam Kamoshida?[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_005_02_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42352 0 0]Kamoshida é o mais baixo do baixo.[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_005_02_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42352 0 0]Kamoshida é o pior.[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_103_01_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42702 0 0]Estou ficando nervoso ao ver a polícia[n]andando por aí...[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_103_01_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42702 0 0]Ver a polícia por perto[n]me deixa nervoso...[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_103_02_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42602 0 0]A polícia está fazendo todas essas[n]perguntas... eles estão conduzindo[n]seriamente uma investigação?[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_103_02_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42602 0 0]A polícia está[n]fazendo muitas perguntas... Eles estão[n]realmente conduzindo uma investigação?[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_103_03_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 43352 0 0]Algo enorme está caindo na nossa escola.[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_103_03_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 43352 0 0]Algo grande está acontecendo na escola[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_103_04_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 43004 0 0]Eu vi a polícia parar aquele delinqüente[n]agora.[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_103_04_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 43004 0 0]Acabei de ver a polícia parar aquele bandido.[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_502_01_ [Diligent-Looking Student]]
+[msg MSG_GRT_main_All_502_01_ [Studentessa dall'aria diligente]]
 [s][vp 9 2 65535 42554 0 0]Como são as sessões de aconselhamento?[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_502_02_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42353 0 0]Estou cansado de estudar.[n]Acho que vou ver o Dr. Maruki.[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_502_02_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42353 0 0]Estou farto de estudar.[n]Acho que vou ao Dr. Maruki.[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_104_01_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42852 0 0]Fico com sono quando leio um livro.[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_104_01_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42852 0 0]Eu fico com sono quando leio[n]um livro didático.[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_104_02_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 43202 0 0]Isso não está parecendo bom...[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_104_02_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 43202 0 0]Não é bom...[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_006_01_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42513 0 0]Se você o irritar, ele pode retaliar...[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_006_01_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42513 0 0]Não o incomode, ou ele pode[n]se vingar...[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_006_02_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 43313 0 0]Melhor apenas ignorá-lo...[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_006_02_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 43313 0 0]Melhor ignorar...[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_007_01_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42655 0 0]O nosso time de vôlei ficou fraco.[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_007_01_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42655 0 0]Nosso time de vôlei[n]ficou fraco.[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_007_02_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42605 0 0]Eu não me importo com o que acontece, desde[n]que não prejudique minhas chances de ir[n]para a faculdade...[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_007_02_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42605 0 0]Eu não me importo com o que[n]aconteça, contanto que eu consiga[n]ir para a universidade...[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_204_01_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42205 0 0]Eu não tenho arte japonesa...[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_204_01_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42205 0 0]Eu nunca vou entender a arte japonesa...[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_204_02_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42804 0 0]Eu meio que quero conferir essa exposição em[n]Shibuya...[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_204_02_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42804 0 0]Eu gostaria de ir àquela exposição[n]em Shibuya...[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_205_01_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 43002 0 0]Shibuya sempre foi tão perigoso?[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_205_01_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 43002 0 0]Shibuya sempre[n]foi tão perigoso?[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_205_02_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 43354 0 0]Eu vi uma garota sendo assediada lá outro[n]dia...[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_205_02_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 43354 0 0]Eu vi uma garota[n]molestada outro dia...[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_008_01_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 43004 0 0]Phantom Thieves de novo?[n]Não foi uma brincadeira?[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_008_01_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 43004 0 0]Os Ladrões Fantasmas de novo? Mas não era só uma[n]piada?[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_008_02_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42604 0 0]Aparentemente, é o mesmo tipo de cartão de[n]visita que o Kamoshida obteve...[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_008_02_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42604 0 0]Parece ser a mesma[n]carta de aviso recebida[n]de Kamoshida...[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_008_03_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42104 0 0]Quem são os ladrões fantasmas...?[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_008_03_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42104 0 0]Quem são os Phantom Thieves?[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_009_01_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42202 0 0]Passo por Shibuya a caminho de casa! O que[n]devo fazer agora?[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_009_01_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42202 0 0]Passei por Shibuya no caminho de volta![n]O que faço agora?[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_009_02_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42352 0 0]Atacar os alunos está totalmente sujo...[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_009_02_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42352 0 0]Tirar vantagem dos alunos[n]é uma coisa horrível...[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_009_03_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42762 0 0]Oh sim! Aquela outra garota também teve[n]problemas...[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_009_03_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42762 0 0]Oh, certo! Aquela outra garota[n]teve problemas...[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_009_04_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 43052 0 0]Ah, cara, há esse lugar em Shibuya que eu[n]queria visitar...[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_009_04_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 43052 0 0]Ah cara, tem um lugar em[n]Shibuya onde eu gostaria de ir...[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_010_01_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42104 0 0]Então, esse cara de Kaneshiro é o chefão de[n]uma organização criminosa?[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_010_01_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42104 0 0]Então Kaneshiro é o chefe[n]de uma organização criminosa?[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_010_02_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42954 0 0]Eles com certeza têm coragem para enfrentar[n]a máfia.[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_010_02_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42954 0 0]Eles certamente têm coragem,[n]para atacar a máfia.[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_010_03_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42254 0 0]Sim, eu vi aquela filmagem do cartão de[n]visita...[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_010_03_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42254 0 0]Sim, eu vi as fotos[n]da carta de aviso...[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_010_04_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42903 0 0]Eu nem sabia que havia uma máfia no Japão![n][f 1 2 180][e]
+[msg MSG_GRT_main_All_010_04_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42903 0 0]Eu nem sabia que existia[n]a máfia no Japão![n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_011_01_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42706 0 0]Você acha que os ladrões fantasmas são[n]reais!?[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_011_01_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42706 0 0]Você acha que os Phantom Thieves[n]são reais?[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_011_02_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42606 0 0]O que diabos os policiais estão fazendo,[n]afinal?[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_011_02_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42606 0 0]Mas o que a polícia está fazendo?[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_012_01_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 43000 0 0]Basta olhar em volta![n]Não há nada além de coisas sobre os ladrões[n]Phantom![n][f 1 2 180][e]
+[msg MSG_GRT_main_All_012_01_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 43000 0 0]Olhe ao seu redor![n]Apenas coisas do Phantom Thieves![n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_012_02_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42800 0 0]Uau, os ladrões Phantom são loucos agora![n][f 1 2 180][e]
+[msg MSG_GRT_main_All_012_02_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42800 0 0]Os Phantom Thieves são[n]terrivelmente famosos.[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_105_01_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42200 0 0]Chega de amontoar na noite anterior! Eu juro![n][f 1 2 180][e]
+[msg MSG_GRT_main_All_105_01_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42200 0 0]Pare de estudar na noite anterior![n]Eu prometo![n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_105_02_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42452 0 0]Eu preciso fazer melhor do que no meu[n]meio-médio...[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_105_02_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42452 0 0]Eu absolutamente tenho que melhorar[n]a pontuação intermediária...[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_013_01_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42254 0 0]Como exatamente eles roubam o coração das[n]pessoas?[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_013_01_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42254 0 0]Como[n]despertar o coração das pessoas?[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_013_02_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42604 0 0]Eu gostaria de saber quem realmente são os[n]ladrões fantasmas![n][f 1 2 180][e]
+[msg MSG_GRT_main_All_013_02_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42604 0 0]Eu gostaria de saber quem eu realmente sou![n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_013_03_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42850 0 0]Eles são os mesmos ladrões fantasmas são os[n]envolvidos no incidente de Kamoshida?[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_013_03_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42850 0 0]Eles são os mesmos envolvidos[n]no incidente com Kamoshida?[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_013_04_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42950 0 0]O que? Os ladrões Phantom estão tão doentes![n][f 1 2 180][e]
+[msg MSG_GRT_main_All_013_04_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42950 0 0]O que? Os Phantom Thieves são[n]tão legais![n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_014_01_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42206 0 0]Não há como derrotar Medjed.[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_014_01_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42206 0 0]É impossível, eles nunca vão[n]derrotar Medjed.[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_014_02_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42956 0 0]É apenas um hacker, certo?[n]Deve ser fácil o suficiente para os ladrões[n]fantasmas.[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_014_02_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42956 0 0]Eles são apenas hackers, certo?[n]Deve ser fácil[n]para os Phantom Thieves.[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_015_01_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42254 0 0]Como eles vão enfrentar um hacker?[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_015_01_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42254 0 0]E como eles atingem um hacker?[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_015_02_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 43253 0 0]Espero que eles se apressem e vencessem[n]Medjed![n][f 1 2 180][e]
+[msg MSG_GRT_main_All_015_02_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 43253 0 0]Espero que eles se apressem[n]para abater Medjed![n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_016_01_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42106 0 0]Eles são tão legais![n]Eles são como heróis reais![n][f 1 2 180][e]
+[msg MSG_GRT_main_All_016_01_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42106 0 0]Eles são muito legais.[n]Eles parecem verdadeiros heróis![n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_016_02_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 43256 0 0]Você pode contar com os ladrões Phantom![n]Aposto que eles também são bonitos![n][f 1 2 180][e]
+[msg MSG_GRT_main_All_016_02_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 43256 0 0]Podemos contar com os Thieves[n]Phantom! E aposto que[n]eles também são fofos![n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_016_03_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 43106 0 0]Os ladrões Phantom tiveram sua grande chance[n]em nossa escola, não!??[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_016_03_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 43106 0 0]Os Phantom Thieves fizeram[n]sua estreia em nossa[n]escola, não fizeram?[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_016_04_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42256 0 0]Eu odeio admitir, mas na verdade eu acho que[n]os ladrões Phantom são bem legais...[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_016_04_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42256 0 0]Odeio admitir, mas acho que[n]os Phantom Thieves[n]são legais.[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_150_01_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42262 0 0]Não gosto de dizer às pessoas que sou[n]estudante em Shujin.[n]É muito embaraçoso...[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_150_01_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42262 0 0]Não gosto de dizer às pessoas[n]que estudo em Shujin.[n]É embaraçoso...[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_150_02_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42355 0 0]Isso não afetará minhas notas nos exames,[n]certo?[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_150_02_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42355 0 0]Isso não afetará minhas notas[n]nas provas, certo?[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_017_01_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42702 0 0]Não há nada além de problemas nesta escola...[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_017_01_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42702 0 0]Esta escola está cheia[n]de problemas...[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_017_02_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42802 0 0]Ele não teve que morrer...[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_017_02_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42802 0 0]Ele não deveria ter morrido...[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_017_03_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42762 0 0]Shujin continua se enredando nesses[n]incidentes...[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_017_03_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42762 0 0]Shujin continua[n]envolvido nesses incidentes...[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_017_04_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 43002 0 0]Você acredita nisso? Quero dizer, estamos[n]falando de nosso diretor aqui, certo?[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_017_04_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 43002 0 0]Você se dá conta? Quero dizer,[n]vamos falar sobre nosso[n]principal, certo?[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_018_01_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42506 0 0]Não precisamos da polícia, desde que[n]tenhamos os ladrões Phantom.[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_018_01_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42506 0 0]Não precisamos da polícia enquanto[n]os Phantom Thieves estiverem aqui![n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_018_02_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 43356 0 0]Onde me inscrevo para ser um ladrão fantasma?[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_018_02_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 43356 0 0]Onde devo me inscrever para me tornar[n]um Phantom Thief?[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_019_01_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42104 0 0]Existe apenas uma Okumura na escola?[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_019_01_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42104 0 0]Existe apenas um Okumura[n]na escola?[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_203_01_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 43254 0 0]Você acha que Okumura-senpai vive em uma[n]grande mansão?[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_203_01_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 43254 0 0]Você acha que Okumura-senpai[n]mora em uma casa grande?[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_020_01_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 43156 0 0]Espero que o próximo golpe deles também seja[n]realmente divertido![n][f 1 2 180][e]
+[msg MSG_GRT_main_All_020_01_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 43156 0 0]Espero que a próxima[n]missão seja interessante![n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_020_02_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42406 0 0]Os ladrões Phantom são os únicos em que[n]posso confiar.[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_020_02_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42406 0 0]Eu só confio em[n]Phantom Thieves.[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_021_01_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 43006 0 0]Eles estão indo atrás de Okumura em seguida?[n]Os ladrões Phantom com certeza sabem suas[n]coisas![n][f 1 2 180][e]
+[msg MSG_GRT_main_All_021_01_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 43006 0 0]Eles vão atacar Okumura depois?[n]Phantom Thieves sabem como se mover[n]como se mover![n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_021_02_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42156 0 0]Esqueça o cartão de visita![n]Apenas pegue-o![n][f 1 2 180][e]
+[msg MSG_GRT_main_All_021_02_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42156 0 0]Esqueça a carta![n]Apenas pegue![n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_021_03_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 43156 0 0]Recentemente, ninguém está dizendo nada de[n]bom sobre a Okumura Foods?[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_021_03_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 43156 0 0]Nada de bom foi dito ultimamente sobre[n]Okumura Foods...[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_021_04_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 43206 0 0]Oh cara, estou tão feliz![n]Eu me pergunto o que eles vão fazer a seguir![n][f 1 2 180][e]
+[msg MSG_GRT_main_All_021_04_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 43206 0 0]Estou chocado![n]Quem sabe o que eles vão fazer agora![n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_022_01_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42655 0 0]Aquela coisa com okumura...[n]Estava tudo encenado, certo?[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_022_01_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42655 0 0]Aquilo com Okumura...[n]foi falso, certo?[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_022_02_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42157 0 0]O que aconteceu na conferência de imprensa[n]foi tão nojento![n]Que raio foi aquilo?[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_022_02_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42157 0 0]Essa conferência de imprensa[n]foi horrível! Que diabos foi isso?[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_022_03_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42202 0 0]Eu não conseguia dormir depois de ver isso...[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_022_03_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42202 0 0]Depois de vê-la[n]acho que não vou conseguir dormir...[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_022_04_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42963 0 0]O que aconteceu com Okumura foi assustador[n]como o inferno.[n]O que foi isso?[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_022_04_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42963 0 0]O que aconteceu com Okumura foi[n]simplesmente horrível...[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_023_01_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 43007 0 0]Os ladrões fantasmas finalmente mostraram[n]seu verdadeiro eu- eles são psicóticos.[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_023_01_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 43007 0 0]Finalmente os Phantom Thieves[n]perderam a máscara... eles são loucos.[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_023_02_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42607 0 0]Espero que eles sofram o mesmo destino...[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_023_02_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42607 0 0]Espero que terminem[n]da mesma maneira.[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_023_03_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42257 0 0]Você quer dizer que eles foram criminosos o[n]tempo todo? Eu me sinto enganado...[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_023_03_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42257 0 0]Você quer dizer que eles sempre[n]foram criminosos?[n]Eu me sinto enganado...[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_023_04_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42957 0 0]Eles estavam em Shujin também![n]Isso não é assustador?[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_023_04_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42957 0 0]Eles também estavam em Shujin![n]Não é assustador?[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_024_01_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 43151 0 0]A polícia está com muito medo de fazer[n]alguma coisa?[n]Fale sobre inútil...[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_024_01_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 43151 0 0]Cadê a polícia...?[n]Eles têm que fazer alguma coisa![n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_024_02_ [Diligent-Looking Student]]
+[msg MSG_GRT_main_All_024_02_ [Studentessa dall'aria diligente]]
 [s][vp 9 2 65535 42402 0 0]Eu odeio essa escola...[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_024_02__2 [Diligent-Looking Student]]
-[s][vp 9 2 65535 42652 0 0]Eu não me importo se os policiais vêm para[n]Shujin. Eu só queria que eles pegassem os[n]ladrões Phantom.[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_024_02__2 [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42652 0 0]Não me importo se colocarmos a polícia na sala de[n]aula. O importante é que eles os peguem.[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_024_03_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 43352 0 0]O Japão pode realmente prender criminosos[n]tão cruéis?[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_024_03_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 43352 0 0]O Japão é capaz de deter[n]criminosos tão perigosos?[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_025_01_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42257 0 0]Seria ruim se eles fugissem para outro país.[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_025_01_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42257 0 0]Não seria ruim[n]se eles fugissem para o exterior.[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_025_02_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 43107 0 0]É melhor eles pegarem aqueles ladrões[n]fantasmas antes de matarem outra pessoa.[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_025_02_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 43107 0 0]É melhor pegá-los antes que[n]matem outra pessoa.[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_025_03_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 43007 0 0]A parte mais assustadora é que não sabemos[n]como eles matam...[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_025_03_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 43007 0 0]O mais assustador é que não[n]sabemos como eles matam...[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_025_04_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42762 0 0]Espero que os ladrões fantasmas sejam pegos[n]em breve.[n]Estou tão aterrorizado...[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_025_04_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42762 0 0]Espero que os Phantom Thieves sejam limitados em[n]breve. Estou com medo...[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_026_01_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42655 0 0]A palavra é o criminoso é desta escola...[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_026_01_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42655 0 0]Eles dizem que o culpado[n]está nesta escola...[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_026_02_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 43257 0 0]Eu não sabia que roubar um coração[n]significava matar uma pessoa...[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_026_02_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 43257 0 0]Não pensei que despertar o coração[n]significasse matar alguém...[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_027_01_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42852 0 0]Este país é feito para...[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_027_01_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42852 0 0]O país está condenado...[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_027_02_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42602 0 0]Eu tinha tanta certeza de que Shido não era[n]como os outros políticos...[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_027_02_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42602 0 0]Eu tinha certeza de que Shido era[n]diferente dos outros políticos...[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_027_03_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 43255 0 0]Eu vi essa notícia, mas...[n]Como sabemos que não foi fabricado?[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_027_03_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 43255 0 0]Eu vi a notícia, mas como[n]sabemos que não é falso?[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_027_04_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 43152 0 0]O Japão está tão além da salvação que até[n]corrompeu alguém como Shido...[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_027_04_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 43152 0 0]O Japão está condenado.[n]Ele conseguiu subornar até[n]alguém como Shido...[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_028_01_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42202 0 0]Estou cansado de ter que pensar o tempo[n]todo...[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_028_01_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42202 0 0]Estou cansado de ter que[n]pensar tanto...[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_028_02_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 43355 0 0]Isso realmente importa?[n]Apenas deixe alguém fazer isso...[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_028_02_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 43355 0 0]Isso realmente importa?[n]Deixe alguém pensar sobre isso.[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_028_03_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 43055 0 0]Apenas deixe isso em paz...[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_028_03_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 43055 0 0]Não importa...[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_028_04_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42955 0 0]Alguém fará algo algum dia...[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_028_04_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42955 0 0]Alguém fará alguma coisa,[n]um dia...[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_029_01_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42912 0 0]0 [n][f 1 2 180][e]
+[msg MSG_GRT_main_All_029_01_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42912 0 0]0[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_029_02_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 43162 0 0]0 [n][f 1 2 180][e]
+[msg MSG_GRT_main_All_029_02_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 43162 0 0]0[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_030_01_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42361 0 0]O que? Você está ligando para seu[n]namorado?... Tudo bem, mas não estou me[n]movendo.[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_030_01_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42361 0 0]Coisa? Ligando para o seu[n]namorado? ...OK,[n]mas não vou embora.[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_030_02_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42950 0 0]Você atirou isso também?[n]Uau, você é tão bom em tirar fotos![n][f 1 2 180][e]
+[msg MSG_GRT_main_All_030_02_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42950 0 0]Você fez isso! Uau![n]Você tem talento para a fotografia![n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_030_03_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 43052 0 0]Se você tiver suas esperanças, você só será[n]esmagado por decepção.[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_030_03_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 43052 0 0]Se você espera, a decepção[n]só será mais forte.[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_030_04_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42303 0 0]Nosso bebê é o mais fofo! Ela não é chamada[n]de Princesa do Mundo Shiba Inu por nada![n][f 1 2 180][e]
+[msg MSG_GRT_main_All_030_04_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42303 0 0]Nossa cachorrinha é muito meiga![n]Não é à toa que a chamam[n]de princesa dos Shiba Inu![n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_030_05_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42802 0 0]Huh? Você não está fazendo seus exames de[n]admissão?[n]Você está brincando certo?[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_030_05_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42802 0 0]Coisa? Você não presta vestibular?[n]Tá brincando, né?[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_030_06_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 43201 0 0]Mas você estava praticando tanto! Você está[n]realmente bem com isso...?[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_030_06_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 43201 0 0]Mas você estudou tanto![n]Temos certeza que você está bem com isso?[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_031_01_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42250 0 0]Olhar! Essa é minha sobrinha.[n]Ela não é a coisa mais fofa de todos os[n]tempos?[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_031_01_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42250 0 0]Olhar! Ela é minha neta. Não é a coisa mais fofa[n]do mundo?[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_031_02_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 43003 0 0]Estou me inscrevendo a este, não lá![n][f 1 2 180][e]
+[msg MSG_GRT_main_All_031_02_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 43003 0 0]Estou me inscrevendo para isso,[n]não para aquilo![n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_031_03_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42603 0 0]Você quer vir para o nosso próximo show?[n]Está no mesmo lugar que a última vez.[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_031_03_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42603 0 0]Queres vir ao próximo[n]concerto? Mesma hora,[n]mesmo lugar.[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_031_04_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42900 0 0]Ah, eu decidi usar minhas conexões, afinal.[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_031_04_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42900 0 0]Oh, eu decidi usar[n]meu conhecimento no final.[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_031_05_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42952 0 0]Você não disse que freqüentaria aquela[n]escola, não importa o quê? Oh, não foi você?[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_031_05_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42952 0 0]Você não disse que iria[n]continuar a escola até[n]o fim? Ou foi outro?[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_501_01_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42554 0 0]Vamos conferir essa garota de Yoshizawa mais[n]tarde.[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_501_01_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42554 0 0]Vamos dar uma olhada nesse[n]Yoshizawa a seguir.[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_501_02_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42702 0 0]Você ainda tem que estudar se é um aluno de[n]honra que está ocupado com esportes?[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_501_02_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42702 0 0]Os bolsistas[n]praticantes de esportes[n]devem estudar?[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_501_03_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42101 0 0]No final, os resultados são tudo o que[n]realmente importa- atender a essa honra do[n]aluno, por exemplo.[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_501_03_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42101 0 0]No final, apenas os resultados contam.[n]Vamos dar um exemplo[n]daquele sujeito.[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_501_04_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42950 0 0]Essa garota de ginástica é tão bonita! Ela[n]se parece com uma modelo![n][f 1 2 180][e]
+[msg MSG_GRT_main_All_501_04_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42950 0 0]Aquela garota que faz ginástica[n]é fofa! Ela se parece com[n]uma modelo![n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_503_01_ [Diligent-Looking Student]]
+[msg MSG_GRT_main_All_503_01_ [Studentessa dall'aria diligente]]
 [s][vp 9 2 65535 42554 0 0]Como são as sessões de aconselhamento?[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_503_02_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42353 0 0]Estou cansado de estudar.[n]Estou indo para o escritório da enfermeira![n][f 1 2 180][e]
+[msg MSG_GRT_main_All_503_02_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42353 0 0]Estou farto de estudar.[n]Vou para a enfermaria![n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_504_01_ [Diligent-Looking Student]]
+[msg MSG_GRT_main_All_504_01_ [Studentessa dall'aria diligente]]
 [s][vp 9 2 65535 42202 0 0]Como posso sair disso...?[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_504_02_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 43151 0 0]Esqueça. Não vou a algum evento de limpeza[n]coxo.[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_504_02_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 43151 0 0]Esqueça. Não vou participar da[n]grande limpeza, é chato.[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_504_03_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 43352 0 0]Qual é o ponto deste evento estúpido de[n]limpeza?[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_504_03_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 43352 0 0]Qual é o sentido dessas[n]grandes limpezas? É estúpido.[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_504_04_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42205 0 0]Limpe o Inokashira Park?[n]Que aborrecimento...[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_504_04_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42205 0 0]Limpar o Parque Inokashira?[n]Que trabalho...[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_504_05_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42255 0 0]Podemos simplesmente limpar o nosso campus[n]escolar...[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_504_05_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42255 0 0]Só podíamos limpar[n]nosso campus da escola...[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_504_06_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42452 0 0]Estou tirando o 30 de folga...[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_504_06_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42452 0 0]Eu não estou lá no dia 30...[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_505_01_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 41702 0 0]Yoshizawa-san deve ter uma vida fácil...[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_505_01_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 41702 0 0]A vida de Yoshizawa-san[n]deve ser fácil...[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_505_02_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 43105 0 0]Aposto que ela nunca teve que trabalhar duro[n]um dia em sua vida...[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_505_02_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 43105 0 0]Aposto que ela[n]nunca teve que se comprometer...[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_505_03_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42451 0 0]Vê-la receber tratamento especial me faz[n]estremecer.[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_505_03_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42451 0 0]Me dá calafrios vê-la receber[n]tratamento especial.[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_505_04_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42851 0 0]Que diabos? Ela age tão inocente, mas fica[n]em torno daquele delinqüente?[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_505_04_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42851 0 0]Que diabos... Ela é tão[n]santarellina, mas ela anda com[n]aquele delinquente?[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_506_01_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 43152 0 0]Vocês estão indo longe demais.[n]Ela não merece isso...[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_506_01_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 43152 0 0]Vocês estão exagerando.[n]Ele não merece isso...[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_506_02_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42602 0 0]Para um gênio, ela não é tão impressionante.[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_506_02_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42602 0 0]Para um gênio, não[n]é tão impressionante...[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_506_03_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 43105 0 0]Estou tão decepcionado com Yoshizawa-san...[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_506_03_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 43105 0 0]Que decepção Yoshizawa-san...[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_601_01_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 43150 0 0]Yoshizawa-san é tão fofo![n]Ela acabou de conseguir uma nova fã![n][f 1 2 180][e]
+[msg MSG_GRT_main_All_601_01_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 43150 0 0]Yoshizawa-san é muito fofo![n]Ele ganhou um novo fã![n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_601_02_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42150 0 0]Ela está em disputa por uma medalha? Uau...[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_601_02_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42150 0 0]Apontando para uma medalha? Uau...[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_601_03_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42900 0 0]Eu estava no mesmo trem que Yoshizawa-san[n]esta manhã![n][f 1 2 180][e]
+[msg MSG_GRT_main_All_601_03_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42900 0 0]Eu estava no mesmo trem que[n]Yoshizawa-san esta manhã![n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_301_01_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 43013 0 0]É meio assustador que alguém como ele também[n]seja louco e inteligente...[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_301_01_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 43013 0 0]É assustador que alguém[n]como ele também seja[n]muito inteligente...[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_301_02_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42963 0 0]Ele sempre foi um aluno sério?[n]De jeito nenhum, certo?[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_301_02_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42963 0 0]Você sempre foi[n]um aluno sério?[n]Impossível, certo?[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_301_03_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42863 0 0]Talvez ele esteja ameaçando os professores...[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_301_03_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42863 0 0]Talvez ameaçar[n]professores...[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_301_04_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42960 0 0]Você acha que ele está traindo?[n]...Huh? Você não?[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_301_04_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42960 0 0]Você acha que estou trapaceando?[n]...Uh? Não é você?[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_302_01_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 43002 0 0]Espere, esse cara está no topo da aula? Ele[n]deve ter estudado muito duro então...[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_302_01_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 43002 0 0]Aparentemente aquele cara é[n]o melhor da turma...ele deve ter[n]estudado muito.[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_302_02_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42412 0 0]A sério? Ele é o número um?[n]... como ele fez isso?[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_302_02_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42412 0 0]Sério? Ele está em primeiro lugar?[n]...Como ele fez isso?[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_302_03_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42860 0 0]Ele é realmente um wunderkind?[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_302_03_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42860 0 0]Impossível! Você está me dizendo que[n]ele é esperto!?![n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_302_04_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42363 0 0]Então ele é um durão que pode estudar? Isso[n]simplesmente não é justo![n][f 1 2 180][e]
+[msg MSG_GRT_main_All_302_04_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42363 0 0]Então ele é um bom criminoso de estudo? Que[n]injustiça![n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_303_01_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42302 0 0]Que tipo de livros de referência ele usa?[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_303_01_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42302 0 0]Que livros didáticos você usa?[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_303_02_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42802 0 0]De jeito nenhum... ele está classificado[n]mais alto do que eu...[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_303_02_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42802 0 0]Eu não posso acreditar...[n]Ele é mais alto que eu...[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_303_03_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42108 0 0]Ei, vá falar com ele.[n]Aparentemente, ele tem cérebro.[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_303_03_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42108 0 0]Ei, vá falar com ele.[n]Ele é um cérebro.[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_303_04_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42912 0 0]Você tem certeza que ele não traiu? Eu não[n]posso acreditar que ele obtém boas notas...[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_303_04_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42912 0 0]Temos certeza de que ele não trapaceou?[n]Não acredito que ele[n]tem notas tão altas...[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_304_01_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 43002 0 0]Não há como ele estar no topo da classe.[n]Deve haver algum tipo de erro.[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_304_01_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 43002 0 0]ELE é o melhor da[n]classe?!? Impossível...[n]Deve haver um erro.[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_304_02_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42762 0 0]Não há nada mais assustador do que um mentor[n]criminoso...[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_304_02_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42762 0 0]Não há nada mais assustador[n]do que um mestre do crime...[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_304_03_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42562 0 0]Ele provavelmente chantageou os professores[n]ou algo para torná-lo o topo da aula.[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_304_03_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42562 0 0]Ele deve ter chantageado os professores[n]ou algo[n]para estar lá...[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_304_04_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42963 0 0]Não é assustador que um condenado seja[n]realmente inteligente?[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_304_04_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42963 0 0]Não é assustador que um[n]criminoso seja tão esperto?[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_305_01_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42912 0 0]Ok, ele pode ser um gênio, mas duvido muito[n]que ele tenha uma recomendação estelar...[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_305_01_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42912 0 0]OK, talvez ele seja um gênio, mas duvido[n]que receba uma[n]recomendação estelar...[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_305_02_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42352 0 0]Talvez ele não seja tão assustador...[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_305_02_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42352 0 0]Talvez não seja tão ruim...[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_305_03_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42704 0 0]Honestamente, depois de ver como ele é[n]inteligente, isso faz você pensar duas[n]vezes nele...[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_305_03_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42704 0 0]Honestamente, dada a sua[n]inteligência, é permissível mudar[n]opiniões sobre ele...[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_305_04_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 43203 0 0]Eu acho muito legal que ele secretamente[n]coloque esse tipo de esforço.[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_305_04_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 43203 0 0]Eu gosto do fato de que[n]ele trabalhou tanto[n]em segredo.[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_306_01_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42851 0 0]Ele não pode estar no topo![n]Ele definitivamente traiu![n][f 1 2 180][e]
+[msg MSG_GRT_main_All_306_01_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42851 0 0]Ele não pode estar no topo![n]Ele trapaceou![n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_306_02_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42350 0 0]Uau, talvez ele seja realmente muito sério[n]sobre a escola...[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_306_02_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42350 0 0]Talvez na escola ele se comprometa...[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_306_03_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42261 0 0]Chegar ao topo da classe não é fácil. Ele[n]pode realmente ser um trabalhador esforçado.[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_306_03_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42261 0 0]Ser o primeiro não é fácil.[n]Talvez ele realmente se esforce.[n][f 1 2 180][e]
 
-[msg MSG_GRT_main_All_306_04_ [Diligent-Looking Student]]
-[s][vp 9 2 65535 42753 0 0]Huh... você sabe, eu acho que ele é meio[n]bonito...[n][f 1 2 180][e]
+[msg MSG_GRT_main_All_306_04_ [Studentessa dall'aria diligente]]
+[s][vp 9 2 65535 42753 0 0]Huh... Sabe, eu acho[n]muito fascinante...[n][f 1 2 180][e]
 
