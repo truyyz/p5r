@@ -1,3 +1,3 @@
 [msg ITEM_MSG [Penguin Sniper]]
-[s]permit massé and jump shots[n]Onde você jogou bilhar com Akechi. Algumas[n]lojas não usam, pois podem danificar o pano.[n][w][e]
+[s]Aqui você desafiou Akechi para o bilhar.[n]Algumas lojas proíbem[n]arremessos na vertical ou em salto, porque[n]põem o pano em risco.[n][w][e]
 

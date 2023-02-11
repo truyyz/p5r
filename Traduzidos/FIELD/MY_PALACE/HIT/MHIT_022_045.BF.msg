@@ -1,3 +1,3 @@
-[msg ITEM_MSG [Ore No Beko]]
-[s]A loja de bovinos Yoshida freqüenta após[n]seus discursos.[n]"Beko", vaca em Tohoku, vem do som que eles[n]fazem.[n][w][e]
+[msg ITEM_MSG [Ore no Beko]]
+[s]A Beef Bowl Shop frequentada por[n]Yoshida após seus discursos.[n]"Beko", vaca no dialeto[n]Tohoku, vem do som do animal.[n][w][e]
 

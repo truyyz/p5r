@@ -1,3 +1,3 @@
 [msg ITEM_MSG [Café Leblanc]]
-[s]Sojiro's café in Yongen-Jaya.[n]Um esconderijo para aqueles que estão[n]cansados de palestras e obrigações sociais.[n][w][e]
+[s]A casa de Sojiro em Yongen-Jaya.[n]Um ponto de encontro para pessoas cansadas[n]de tagarelice e[n]obrigações sociais.[n][w][e]
 

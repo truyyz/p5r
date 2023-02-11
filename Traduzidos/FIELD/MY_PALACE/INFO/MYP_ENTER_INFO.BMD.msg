@@ -1,21 +1,21 @@
 [msg MSG_INFO_AWARD]
-[s]Você obteve um novo prêmio.[n][w][e]
+[s]Ganhei um novo prêmio.[n][w][e]
 
 [msg MSG_INFO_TRANSFORM]
-[s]Um novo tipo de ladrilho de transformação[n]foi adicionado.[n][w][e]
+[s]Um novo tipo de Transform Tile foi adicionado.[n][w][e]
 
 [msg MSG_INFO_GET_MEDAL]
-[s]Você recebeu uma medalha P.[n]Por favor, aproveite os ladrões Den.[n][w][e]
+[s]Você recebeu medalhas P.[n]Enjoy Thieves' Den.[n][w][e]
 
-[msg MSG_INFO_UPDATE1 [An item was added to the content below.]]
+[msg MSG_INFO_UPDATE1 [È stato aggiunto un oggetto al contenuto qui sotto.]]
 [s] [var 0] [n][w][e]
 
-[msg MSG_INFO_UPDATE2 [An item was added to the contents below.]]
+[msg MSG_INFO_UPDATE2 [È stato aggiunto un oggetto ai contenuti qui sotto.]]
 [s] [var 0] [n] [var 1] [n][w][e]
 
-[msg MSG_INFO_UPDATE3 [An item was added to the contents below.]]
+[msg MSG_INFO_UPDATE3 [È stato aggiunto un oggetto ai contenuti qui sotto.]]
 [s] [var 0] [n] [var 1] [n] [var 2] [n][w][e]
 
-[msg MSG_INFO_UPDATE4 [An item was added to the contents below.]]
-[s] [var 0] [n] [var 1] [n] [var 2]   [var 3] [n][w][e]
+[msg MSG_INFO_UPDATE4 [È stato aggiunto un oggetto ai contenuti qui sotto.]]
+[s] [var 0] [n] [var 1] [n] [var 2] [n] [var 3] [n][w][e]
 

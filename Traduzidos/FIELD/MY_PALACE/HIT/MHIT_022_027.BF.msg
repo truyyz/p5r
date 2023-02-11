@@ -1,3 +1,3 @@
-[msg ITEM_MSG [The Infinite Spring]]
-[s]Como Madarame vê as pessoas que ele[n]sacrificou. Para ele, seus aprendizes eram[n]simplesmente uma parte de suas obras de[n]arte.[n][w][e]
+[msg ITEM_MSG [La Fonte infinita]]
+[s]Foi assim que Madarame viu aqueles que ele[n]sacrificou. Para ele, os alunos eram apenas[n]peças de sua coleção de arte.[n][w][e]
 

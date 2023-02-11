@@ -1,3 +1,3 @@
-[msg ITEM_MSG [Jose's Car]]
-[s]Um carro dirigido pelo menino misterioso,[n]José. Aparentemente, a baixa altura do[n]carro torna mais fácil sentir a velocidade.[n][w][e]
+[msg ITEM_MSG [Auto di Jose]]
+[s]Um carro dirigido por uma criança[n]misteriosa, José. Aparentemente,[n]compensação baixa ajuda a[n]sentir melhor a velocidade.[n][w][e]
 

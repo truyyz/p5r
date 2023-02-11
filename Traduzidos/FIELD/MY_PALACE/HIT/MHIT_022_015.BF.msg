@@ -1,3 +1,3 @@
-[msg ITEM_MSG [Johanna]]
-[s]A vontade de rebelião de Makoto se[n]manifestou. Ela inspirou o cartão Tarô da[n]Alta Sacerdotisa e é um símbolo do[n]anticatolicismo.[n][w][e]
+[msg ITEM_MSG [Ioanna]]
+[s]O espírito de rebelião de Makoto[n]se manifestou. Inspirou[n]o Arcano da Papisa e é[n]um símbolo do anticatolicismo.[n][w][e]
 

@@ -1,3 +1,3 @@
-[msg ITEM_MSG [Mona Copter]]
-[s]Uma das transformações especiais de Morgana.[n]Como o carro Morgana, diz-se que corre em[n]um mecanismo de meowtary.[n][w][e]
+[msg ITEM_MSG [Monacottero]]
+[s]Uma das transformações especiais de Morgana. Como[n]o Mona-móvel, equipa um motor felino.[n][w][e]
 

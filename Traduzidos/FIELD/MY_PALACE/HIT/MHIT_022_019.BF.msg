@@ -1,3 +1,3 @@
-[msg ITEM_MSG [Cendrillon]]
-[s]O coração de Sumire foi dado por sua vontade[n]rebelde. Cendrillon é uma forma francesa de[n]Cinderela, derivada dos franceses para[n]Cinders: "Cendre".[n][w][e]
+[msg ITEM_MSG [Cenerentola]]
+[s]A rebelião de Sumire moldou seu coração. O nome[n]Cinderela vem da palavra "cinzas".[n][w][e]
 

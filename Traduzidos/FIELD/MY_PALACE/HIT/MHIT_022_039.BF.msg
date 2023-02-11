@@ -1,3 +1,3 @@
-[msg ITEM_MSG [Kunikazu Mammon Okumura]]
-[s]A forma dos desejos distorcidos de Okumura.[n]Os sacrifícios que seus subordinados[n]fizeram para ele ir além de horas extras[n]não remuneradas.[n][w][e]
+[msg ITEM_MSG [Kunikazu Okumura Mammon]]
+[s]A forma dos desejos distorcidos de[n]Okumura. O sacrifício que seus[n]subordinados fizeram por ele vai[n]muito além de horas extras não remuneradas.[n][w][e]
 

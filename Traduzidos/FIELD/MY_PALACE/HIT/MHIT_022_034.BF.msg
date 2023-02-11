@@ -1,3 +1,3 @@
-[msg ITEM_MSG [The Reaper]]
-[s]Uma entidade misteriosa que percorre[n]lembranças. Ninguém sabe o que é ou quais[n]são seus motivos.[n][w][e]
+[msg ITEM_MSG [Il Mietitore]]
+[s]Uma entidade misteriosa que[n]vive nos Mementos. Ninguém sabe[n]o que é ou que objetivos tem.[n][w][e]
 

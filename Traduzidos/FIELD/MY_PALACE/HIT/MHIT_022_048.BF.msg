@@ -1,3 +1,3 @@
-[msg ITEM_MSG [Takemi Medical Clinic]]
-[s]Clínica de Takemi em Yongen-Jaya.[n]Costumava estar na lista negra, mas graças[n]ao seu avanço, está começando a receber[n]mais atenção.[n][w][e]
+[msg ITEM_MSG [Clinica Medica Takemi]]
+[s]A clínica de Takemi em Yongen-Jaya.[n]Estava na lista negra, mas[n]graças à sua descoberta[n]está recebendo cada vez mais atenção.[n][w][e]
 

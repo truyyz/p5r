@@ -1,3 +1,3 @@
 [msg ITEM_MSG [Untouchable]]
-[s]A Airsoft Shop de Iwai em Shibuya.[n]Tem uma reputação de vender réplicas tão[n]realistas que torna a polícia cética.[n][w][e]
+[s]A loja de airsoft de Iwai em[n]Shibuya. É famosa por vender[n]réplicas tão realistas que[n]a polícia está em apuros.[n][w][e]
 

@@ -1,3 +1,3 @@
-[msg ITEM_MSG [Holy Grail]]
-[s]Um Santo Graal encontrado nas profundezas[n]das lembranças. O Santo Graal geralmente se[n]refere ao copo que Jesus bebeu na Última[n]Ceia.[n][w][e]
+[msg ITEM_MSG [Santo Graal]]
+[s]Réplica do Santo Graal encontrada no[n]abismo dos Mementos. O Santo[n]Graal é o cálice do qual[n]Jesus bebeu na Última Ceia.[n][w][e]
 

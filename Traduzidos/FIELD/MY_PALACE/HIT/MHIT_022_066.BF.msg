@@ -1,3 +1,3 @@
 [msg ITEM_MSG [Loki]]
-[s]A vontade de rebelião de Akechi se[n]manifestou. Conhecido como o trapaceiro da[n]mitologia nórdica, sua especialidade é de[n]mudança de forma.[n][w][e]
+[s]O espírito de rebelião de Akechi[n]manifestado. Conhecido como o[n]Malandro na mitologia nórdica,[n]ele é capaz de mudar de forma.[n][w][e]
 

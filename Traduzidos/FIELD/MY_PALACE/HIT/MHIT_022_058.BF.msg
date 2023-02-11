@@ -1,3 +1,3 @@
 [msg ITEM_MSG [Shinmyoji]]
-[s]Um templo em Kichijoji. O templo real de[n]Kichijoji não está localizado em Kichijoji,[n]mas em Komagome.[n][w][e]
+[s]Un tempio a Kichijoji.Il vero[n]tempio di Kichijoji non è[n]a Kichijoji, ma a Komagome.[n][w][e]
 

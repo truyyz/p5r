@@ -1,3 +1,3 @@
 [msg ITEM_MSG [Goemon]]
-[s]O coração de Yusuke foi dado por sua vontade[n]rebelde.[n]Ele aparece em muitas histórias ambientadas[n]no período Edo, mas ele realmente viveu[n]durante uma era diferente.[n][w][e]
+[s]A rebelião de Yusuke moldou seu coração. Ele está[n]em muitas histórias da era Edo, mas viveu em uma[n]era diferente.[n][w][e]
 

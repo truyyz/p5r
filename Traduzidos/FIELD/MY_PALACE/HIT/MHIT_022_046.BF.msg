@@ -1,3 +1,3 @@
-[msg ITEM_MSG [Nurse's Office]]
-[s]O lugar onde Maruki trabalhou por meio ano.[n]Ele completou sua pesquisa, aconselhando os[n]alunos e conversando com Joker.[n][w][e]
+[msg ITEM_MSG [Infermeria]]
+[s]O lugar onde Maruki trabalhou por 6 meses. Ele[n]completou pesquisas graças a sessões com alunos[n]e confronto com Joker.[n][w][e]
 

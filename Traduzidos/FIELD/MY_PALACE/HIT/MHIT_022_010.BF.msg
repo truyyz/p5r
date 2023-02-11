@@ -1,7 +1,7 @@
 [msg ITEM_MSG [Arsène]]
-[s]O coração de Joker foi dado por sua vontade[n]rebelde.[n]Conhecido como mestre do disfarce, embora[n]tudo nasça de observação aguçada e imitação[n]comportamental.[n][w][e]
+[s]A rebelião do Joker moldou seu coração. Mestre[n]dos disfarces, observe e replique comportamentos.[n][w][e]
 
 [sel YESNO_SEL top]
-[s]Sim [e]
-[s]Não [e]
+[s]Sim[e]
+[s]Não[e]
 

@@ -1,3 +1,3 @@
-[msg ITEM_MSG [Classroom]]
-[s]Uma sala de aula na Academia Shujin.[n]Há um aluno que rabisca no quadro-negro, mas[n]ninguém sabe quem é.[n][w][e]
+[msg ITEM_MSG [Aula]]
+[s]Uma sala de aula na Shujin Academy.[n]Um aluno desenha no[n]quadro-negro, mas ninguém[n]sabe sua identidade.[n][w][e]
 

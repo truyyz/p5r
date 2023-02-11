@@ -1,3 +1,3 @@
-[msg ITEM_MSG [Beast of Human Sacrifice]]
-[s]Uma das formas de Shido que mostra sua[n]ganância. Todas as pessoas que compõem a[n]Besta poderiam ser aquelas que morreram por[n]sua ambição?[n][w][e]
+[msg ITEM_MSG [Bestia del sacrificio umano]]
+[s]Uma das formas de Shido, que[n]mostra sua ganância. São as pessoas[n]que compõem a besta[n]aquelas que morreram por sua ambição?[n][w][e]
 

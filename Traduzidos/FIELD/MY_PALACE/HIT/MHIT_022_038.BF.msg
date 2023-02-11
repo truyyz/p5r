@@ -1,3 +1,3 @@
-[msg ITEM_MSG [Cognitive Wakaba Isshiki]]
-[s]Um monstro nascido da cognição de Futaba[n]Sakura.[n]Como as esfinges normalmente guardam reis ou[n]deuses consagrados, ela pode estar[n]protegendo Futaba.[n][w][e]
+[msg ITEM_MSG [Wakaba Isshiki cognitiva]]
+[s]O monstro da cognição de Futaba[n]Sakura. Esfinges guardam reis e[n]deuses. Ela sempre protegeu Futaba.[n][w][e]
 

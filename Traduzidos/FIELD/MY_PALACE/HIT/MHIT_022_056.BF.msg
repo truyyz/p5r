@@ -1,3 +1,3 @@
-[msg ITEM_MSG [Church]]
-[s]Onde você aprendeu shogi com hifumi. Ela[n]resolveu ignorar aqueles que não gostam[n]dela e se tornaram um jogador profissional.[n][w][e]
+[msg ITEM_MSG [Chiesa]]
+[s]Aqui você aprendeu shogi com[n]Hifumi. Ela decidiu ignorar[n]as pessoas que a menosprezam[n]e se tornar uma profissional.[n][w][e]
 

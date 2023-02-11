@@ -1,3 +1,3 @@
-[msg ITEM_MSG [Press Conference Hall]]
-[s]Uma sala de conferência de imprensa que[n]estava na TV. Dependendo do ângulo do seu[n]arco, ele pode ser considerado casual ou[n]respeitoso.[n][w][e]
+[msg ITEM_MSG [Sala conferenza stampa]]
+[s]Sala de conferência de imprensa[n]apareceu na TV. O ângulo de[n]inclinação distingue o arco[n]formal do informal.[n][w][e]
 

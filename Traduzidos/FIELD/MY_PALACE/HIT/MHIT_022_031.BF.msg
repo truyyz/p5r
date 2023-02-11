@@ -1,3 +1,3 @@
-[msg ITEM_MSG [Giant Slot Machine]]
-[s]Uma máquina de caça-níqueis gigante[n]encontrada no palácio de Niijima. O símbolo[n]da barra é uma versão modificada de um[n]logotipo inicial de uma empresa de chiclete.[n][w][e]
+[msg ITEM_MSG [Slot Machine gigante]]
+[s]Uma máquina caça-níqueis gigante no[n]Niijima Palace. O símbolo BAR[n]é uma versão modificada do antigo[n]logo de uma empresa de pneus.[n][w][e]
 

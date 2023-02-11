@@ -1,9 +1,9 @@
 [msg dummy_mes]
 [s]…[n][w][e]
 
-[msg Attack_Tutorial [Attacking]]
-[s]Abordar um inimigo e pressionar [n][f 1 10 22]para começar uma batalha.[n][w][e]
+[msg Attack_Tutorial [Attaccare]]
+[s]Aproxime-se de um inimigo e pressione[n][f 1 10 22] para iniciar uma batalha.[n][w][e]
 
-[msg AI_change_Tutorial [Giving Orders to Teammates]]
-[s]Ally AI pode ser alterada sob [clr 2]FESTA [clr 27][n]no menu principal ou [clr 2]Táticas [clr 27]debaixo [n][clr 2]Ordens [clr 27]Na vez do protagonista.[n][w][e]
+[msg AI_change_Tutorial [Dare ordini ai compagni di squadra]]
+[s]Altere a IA dos aliados de [clr 2]BOLSA[clr 27][n]no menu principal ou de [clr 2]TÁTICAS[clr 27] para[n][clr 2]ORDENS[clr 27] no turno do herói do jogador .[n][w][e]
 

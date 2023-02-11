@@ -1,3 +1,3 @@
 [msg ITEM_MSG [Crossroads]]
-[s]Barra de Lala Escargot em Shinjuku.[n]Muitos de seus clientes são adultos[n]problemáticos, mas nunca se comportam[n]mal... provavelmente.[n][w][e]
+[s]O bar de Lala Escargot, em Shinjuku.[n]Muitos de seus clientes são[n]adultos problemáticos, mas nunca[n]se comportariam mal... talvez.[n][w][e]
 

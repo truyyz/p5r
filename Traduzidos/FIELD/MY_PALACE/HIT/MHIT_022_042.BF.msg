@@ -1,3 +1,3 @@
 [msg ITEM_MSG [Yaldabaoth]]
-[s]Deus do controle, nascido do subconsciente[n]humano.[n]A tradição gnóstica descreve Yaldabaoth como[n]um Deus falso e mau que criou esse mundo[n]físico.[n][w][e]
+[s]Deus do controle nascido do subconsciente humano.[n]Na tradição gnóstica, ele é um falso deus mal,[n]criador do mundo físico.[n][w][e]
 

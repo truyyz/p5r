@@ -1,3 +1,3 @@
-[msg ITEM_MSG [Vending Machine]]
-[s]Máquinas de venda automática podem ser[n]encontradas em todo o lugar. Alguns deles[n]vendem produtos superficiais, dependendo do[n]local.[n][w][e]
+[msg ITEM_MSG [Distributore automatico]]
+[s]Os distribuidores estão realmente[n]em todos os lugares. Alguns vendem produtos[n]absurdos, com base em sua localização.[n][w][e]
 

@@ -1,3 +1,3 @@
-[msg ITEM_MSG [Interrogation Room]]
-[s]Uma sala de interrogatório na delegacia. As[n]câmeras de segurança são instaladas, mas[n]não evitam métodos de interrogatório ilegal.[n][w][e]
+[msg ITEM_MSG [Sala interrogatori]]
+[s]A sala de interrogatório na[n]esquadra da polícia. Câmeras[n]de segurança não impedem[n]interrogações por métodos ilegais.[n][w][e]
 

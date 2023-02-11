@@ -1,3 +1,3 @@
-[msg ITEM_MSG [ATM Human]]
-[s]Como Kaneshiro vê as pessoas.[n]Se ele não puder mais extorquir dinheiro de[n]alguém, eles se transformam em caixas[n]eletrônicos quebrados.[n][w][e]
+[msg ITEM_MSG [ATM umano]]
+[s]É assim que Kaneshiro vê as pessoas.[n]Se ele não pode extorquir dinheiro[n]de alguém, ele o transforma em[n]um caixa eletrônico quebrado.[n][w][e]
 

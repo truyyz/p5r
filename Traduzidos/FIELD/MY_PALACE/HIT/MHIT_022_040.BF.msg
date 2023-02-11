@@ -1,3 +1,3 @@
-[msg ITEM_MSG [Shadow Sae]]
-[s]Uma parte de Sae Niijima criada por seu[n]subconsciente. Ela perdeu o senso de si[n]enquanto competia em uma sociedade[n]dominante para homens.[n][w][e]
+[msg ITEM_MSG [Ombra di Sae]]
+[s]Uma parte de Sae Niijima criada por[n]seu subconsciente. Ele perdeu sua[n]identidade ao competir[n]em uma sociedade dominada por homens.[n][w][e]
 

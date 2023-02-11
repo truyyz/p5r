@@ -1,3 +1,3 @@
 [msg ITEM_MSG [Milady]]
-[s]A vontade de rebelião de Haru se manifestou.[n]"Milady" às vezes é usado para abordar uma[n]nobre inglesa.[n][w][e]
+[s]O espírito de rebelião de Haru[n]se manifestou. Às vezes, "milady"[n]é usado para se referir a[n]nobres inglesas.[n][w][e]
 

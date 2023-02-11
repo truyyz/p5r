@@ -1,3 +1,3 @@
 [msg ITEM_MSG [Daruma]]
-[s]Um daruma gigante encontrado no palácio de[n]Shido. Quando você faz um desejo, desenhe[n]no olho esquerdo. Você desenha à direita[n]quando se torna realidade.[n][w][e]
+[s]Um daruma gigante no palácio de Shido.[n]Você faz um desejo e[n]pinta o olho esquerdo. O outro[n]é colorido quando o desejo se torna realidade.[n][w][e]
 

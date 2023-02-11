@@ -1,3 +1,3 @@
 [msg ITEM_MSG [Skytree]]
-[s]Uma torre em Asakusa que muitas vezes é[n]atingida por um raio. Um amperímetro mede[n]as correntes elétricas acima do deck de[n]observação.[n][w][e]
+[s]Uma torre em Asakusa que é atingida por raios com[n]frequência. Um amperímetro no mirante mede a[n]corrente elétrica.[n][w][e]
 

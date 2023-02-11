@@ -1,3 +1,3 @@
 [msg ITEM_MSG [Adam Kadmon]]
-[s]Persona evoluída de Maruki. A Cabala[n]descreve Adam Kadmon como um humano[n]primordial com uma forma deícida- um ideal[n]para que todos se esforcem.[n][w][e]
+[s]Persona Evoluído de Maruki. Para[n]a Cabala, ele é um humano primordial em[n]forma divina. Um ideal a ser almejado.[n][w][e]
 

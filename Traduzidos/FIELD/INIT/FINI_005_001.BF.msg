@@ -2,36 +2,36 @@
 [s]......[n][w][e]
 
 [msg MSG_QuestTarget_Notice_8 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1187 65535 0]Você se lembra do cara "Ai Maask"?[n]Vamos ver se podemos desenterrar algo em seu[n]nome verdadeiro.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1187 65535 0]Você se lembra de "AI Maask"?[n]Vamos tentar descobrir[n]seu nome verdadeiro.[n][w][e]
 
 [msg MSG_QuestTarget_Notice_8_2 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1187 65535 0]Temos um alvo que não identificamos, certo?[n]Vamos ao Harmony Alley e reunir algumas[n]informações sobre o velho.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1187 65535 0]Precisamos identificar um alvo,[n]certo? Vamos para Harmony Alley para[n]coletar informações sobre o velho.[n][w][e]
 
 [msg MSG_650_104_mes01 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1184 65535 0]Ooh, então isso é Kichijoji, hein...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Você pode dizer que não é nada como Shibuya,[n]apenas da atmosfera sozinha.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1184 65535 0]Oooh, então aqui é Kichijoji...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]É completamente diferente de Shibuya,[n]começando pela atmosfera.[n][f 1 3 65535][w][e]
 
 [msg MSG_650_104_mes02 [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Bem, sim. Parece que existem muitas lojas[n]aqui que você não consegue encontrar em[n]Shibuya.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]... Não que eu realmente soubesse.[n][f 1 3 65535][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Bem, sim. Aqui existem lojas[n]que não são encontradas em Shibuya.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]...Não que eu seja um especialista.[n][f 1 3 65535][w][e]
 
 [sel MSG_650_104_selA top]
 [s]Parece interessante.[e]
-[s]Vamos ir para o lounge dos dardos.[e]
+[s]Nós vamos para a sala de dardos.[e]
 
 [msg MSG_650_104_mes03 [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7082 65535 0]Oh, tem sua atenção agora, hein?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ann não está aqui porque ela está ocupada,[n]mas aposto que seria divertido vir aqui com[n]mais algumas pessoas.[n][f 1 3 65535][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7082 65535 0]Ah, agora você está interessado, hein?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ann está fora porque estava ocupada,[n]mas aposto que será divertido[n]vir aqui com outras pessoas.[n][f 1 3 65535][w][e]
 
 [msg MSG_650_104_mes04 [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 7048 65535 0]Whoa, alguém está rarando, não é?[n]Tudo bem, vamos dar certo![n][f 1 3 65535][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 7048 65535 0]Oooh, alguém[n]levantou para ir, hein?[n]OK, vamos indo![n][f 1 3 65535][w][e]
 
 [msg MSG_650_104_mes06 [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 0 65535 0]Eu acho que o lounge dos dardos é [clr 2]Uma quadra da rua principal [clr 27].[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7103 65535 0]Mas como estamos aqui, não vou dizer não[n]para verificar várias outras lojas a[n]caminho.[n][f 1 3 65535][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 0 65535 0]Acho que o salão de dardos[n]fica a [clr 2]um quarteirão da[n]rua principal[clr 27].[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7103 65535 0]Mas enquanto estamos nisso, eu também[n]vou verificar algumas outras[n]lojas ao longo do caminho.[n][f 1 3 65535][w][e]
 
 [msg MSG_650_104_mesTEST]
-[s]TESTE [n][w][e]
+[s]TESTE[n][w][e]
 
 [msg MSG_TestKichi_Start01 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0]へえ、ここが吉祥寺か...[n][w][e]
