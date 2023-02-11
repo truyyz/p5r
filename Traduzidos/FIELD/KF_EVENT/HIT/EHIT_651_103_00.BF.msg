@@ -1,24 +1,24 @@
 [sel YESNO_SEL top]
-[s]Sim [e]
-[s]Não [e]
+[s]Sim[e]
+[s]Não[e]
 
 [msg MSG_e651_103_01]
-[s][vp 1 0 0 0 0 0]Eu posso ouvir uma voz... quem é?[n][w][e]
+[s][vp 1 0 0 0 0 0]Eu ouço uma voz... Quem será?[n][w][e]
 
 [msg MSG_e651_103_02]
 [s][vp 1 0 0 0 0 0]Uma borboleta...?[n][w][e]
 
 [msg MSG_e651_103_03]
-[s][vp 1 0 0 0 0 0]Eu deveria segui-lo...[n][w][e]
+[s][vp 1 0 0 0 0 0]Eu faria bem em segui-lo...[n][w][e]
 
 [msg MSG_E651103_NG_00 [Lavenza]]
 [s][bup 0 100 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 24008 65535 0]......[n][w][e]
 
 [msg MND_E651103_NG_00]
-[s][vp 1 0 0 0 0 0]Não é assim...[n][w][e]
+[s][vp 1 0 0 0 0 0]Não é daqui...[n][w][e]
 
 [msg MND_651103_WARP_TO_START]
-[s][vp 1 0 0 0 0 0]Eu preciso ir para casa...[n][w][e]
+[s][vp 1 0 0 0 0 0]tenho que ir para casa...[n][w][e]
 
 [msg MSG_E651103_ANNE_000 [(SE)高巻 ¸]]
 [s][vp 1 0 0 0 0 0]あのことが全部、なくなって、[n]志帆とÜ緒に...[n][w][e]

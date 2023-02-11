@@ -1,62 +1,62 @@
 [msg MSG_NML08_01_FIND_01_01]
-[s]Que é aquele!?[n][f 1 2 65535][e]
+[s]Quem está aí!?![n][f 1 2 65535][e]
 
 [msg MSG_NML08_01_FIND_01_02]
-[s]Huh? Quem é Você!?[n][f 1 2 65535][e]
+[s]Hã? Quem é você!?![n][f 1 2 65535][e]
 
 [msg MSG_NML08_01_FIND_01_03]
 [s]O que você está fazendo aqui?[n][f 1 2 65535][e]
 
 [msg MSG_NML08_01_FIND_01_04]
-[s]Você é um fugitivo!?[n][f 1 2 65535][e]
+[s]Você é um dos fugitivos?!?[n][f 1 2 65535][e]
 
 [msg MSG_NML08_01_FIND_01_05]
 [s]Ei você![n][f 1 2 65535][e]
 
 [msg MSG_NML08_01_PURSUE_01_0]
-[s]Esperar![n][f 1 2 65535][e]
+[s]Pare![n][f 1 2 65535][e]
 
 [msg MSG_NML08_01_PURSUE_01_0_2]
-[s]Você acha que pode fugir!?[n][f 1 2 65535][e]
+[s]Acha que pode[n]escapar!?![n][f 1 2 65535][e]
 
 [msg MSG_NML08_01_PURSUE_01_0_3]
-[s]Faça como eu digo![n][f 1 2 65535][e]
+[s]Obedeça-me![n][f 1 2 65535][e]
 
 [msg MSG_NML08_01_PURSUE_01_0_4]
-[s]Você deve ser punido![n][f 1 2 65535][e]
+[s]Você será punido![n][f 1 2 65535][e]
 
 [msg MSG_NML08_01_PURSUE_01_0_5]
-[s]Pare bem aí![n][f 1 2 65535][e]
+[s]Pare onde estiver![n][f 1 2 65535][e]
 
 [msg MSG_NML08_01_LOST_01_01]
-[s]Eles desapareceram!?[n][f 1 2 65535][e]
+[s]Eles desapareceram?[n][f 1 2 65535][e]
 
 [msg MSG_NML08_01_LOST_01_02]
-[s]Acho que os perdi...[n][f 1 2 65535][e]
+[s]Acho que[n]eu os perdi...[n][f 1 2 65535][e]
 
 [msg MSG_NML08_01_LOST_01_03]
 [s]Você é rápido![n][f 1 2 65535][e]
 
 [msg MSG_NML08_01_LOST_01_04]
-[s]Para onde eles foram!?[n][f 1 2 65535][e]
+[s]Para onde eles foram!?![n][f 1 2 65535][e]
 
 [msg MSG_NML08_01_LOST_01_05]
-[s]Droga! Eles fugiram![n][f 1 2 65535][e]
+[s]Merda! Eles escaparam![n][f 1 2 65535][e]
 
 [msg MSG_NML08_01_MNLG_NML_01]
-[s]Tudo bem, nada de errado aqui.[n][f 1 2 65535][e]
+[s]Bem, tudo aqui[n]ok.[n][f 1 2 65535][e]
 
 [msg MSG_NML08_01_MNLG_NML_01_2]
-[s]Esteja vigilante em sua vigilância.[n][f 1 2 65535][e]
+[s]Tenha cuidado durante[n]vigília.[n][f 1 2 65535][e]
 
 [msg MSG_NML08_01_MNLG_NML_01_3]
-[s]Verificação da área completa![n]Tudo limpo![n][f 1 2 65535][e]
+[s]Verificação de zona concluída![n]Tudo limpo![n][f 1 2 65535][e]
 
 [msg MSG_NML08_01_MNLG_NML_01_4]
-[s]Ninguém está saindo da linha, não é?[n][f 1 2 65535][e]
+[s]Ninguém vai fazer um movimento[n]errado, não é?[n][f 1 2 65535][e]
 
 [msg MSG_NML08_01_MNLG_NML_01_5]
-[s]O que era esse som?[n]Huh. Deve ter sido minha imaginação.[n][f 1 2 65535][e]
+[s]Que barulho foi esse?[n]Uh, deve ter sido minha[n]imaginação.[n][f 1 2 65535][e]
 
 [msg MSG_NML08_01_MNLG_NML_01_6]
 [s]......[n][f 1 2 65535][e]
@@ -77,16 +77,16 @@
 [s]Para onde eles foram?[n][f 1 2 65535][e]
 
 [msg MSG_NML08_01_MNLG_ALT_01_2]
-[s]Droga, onde eles estão?[n][f 1 2 65535][e]
+[s]Droga, onde estou?[n][f 1 2 65535][e]
 
 [msg MSG_NML08_01_MNLG_ALT_01_3]
-[s]Se eu os encontrar, eles estarão mortos à[n]vista.[n][f 1 2 65535][e]
+[s]Se eu encontrá-los, vou matá-los[n]à primeira vista...[n][f 1 2 65535][e]
 
 [msg MSG_NML08_01_MNLG_ALT_01_4]
-[s]Eles estão perdendo meu tempo...[n]Não importa o que eles façam, é inútil de[n]qualquer maneira.[n][f 1 2 65535][e]
+[s]Eles apenas desperdiçam meu tempo...[n]Façam o que fizerem,[n]é tudo inútil agora...[n][f 1 2 65535][e]
 
 [msg MSG_NML08_01_MNLG_ALT_01_5]
-[s]Vou mandá-los direto para a sala de[n]punição...[n][f 1 2 65535][e]
+[s]Estou enviando-os imediatamente[n]para a câmara de tortura...[n][f 1 2 65535][e]
 
 [msg MSG_NML08_01_MNLG_ALT_01_6]
 [s]......[n][f 1 2 65535][e]
@@ -134,19 +134,19 @@
 [s]......[n][f 1 2 65535][e]
 
 [msg MSG_STG01_MNLG_DEFEND_01]
-[s]Alguém se infiltrou nas instalações! Esteja[n]em alerta![n][f 1 2 65535][e]
+[s]Alguém[n]se infiltrou! Cuidado![n][f 1 2 65535][e]
 
 [msg MSG_STG01_MNLG_DEFEND_01_2]
-[s]Alguém escapou![n]Todos, estejam alertas![n][f 1 2 65535][e]
+[s]Alguém escapou![n]Todo mundo fique alerta![n][f 1 2 65535][e]
 
 [msg MSG_STG01_MNLG_DEFEND_01_3]
-[s]Alguém está lá![n]Possível fugitivo![n]Fique atento![n][f 1 2 65535][e]
+[s]Alguém está aqui![n]Possível fugitivo![n]Cuidado![n][f 1 2 65535][e]
 
 [msg MSG_STG01_MNLG_DEFEND_01_4]
-[s]Emergência! Todo o pessoal deve procurar o[n]intruso![n][f 1 2 65535][e]
+[s]Emergência! Todos[n]funcionários procuram[n]o intruso![n][f 1 2 65535][e]
 
 [msg MSG_STG01_MNLG_DEFEND_01_5]
-[s]Alguém está quebrando as regras! Todo mundo[n]procura por eles![n][f 1 2 65535][e]
+[s]Eles invadiram! Procure por eles![n][f 1 2 65535][e]
 
 [msg MSG_NML08_01_MNLG_FREE_0]
 [s]......[n][f 1 2 65535][e]

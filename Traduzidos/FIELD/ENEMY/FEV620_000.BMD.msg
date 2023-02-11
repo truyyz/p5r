@@ -209,37 +209,37 @@
 [s]......[n][f 1 2 65535][e]
 
 [msg MSG_SPE09_01_FIND_01_01]
-[s]Ei! Você não deveria estar aqui![n][f 1 2 65535][e]
+[s]Ei! Você não deveria[n]estar aqui![n][f 1 2 65535][e]
 
 [msg MSG_SPE09_01_FIND_01_02]
-[s]Intruduzer avistado![n][f 1 2 65535][e]
+[s]Intruso detectado![n][f 1 2 65535][e]
 
 [msg MSG_SPE09_01_FIND_01_03]
-[s]Começando a perseguição![n][f 1 2 65535][e]
+[s]Em perseguição![n][f 1 2 65535][e]
 
 [msg MSG_SPE09_01_FIND_01_04]
-[s]Eu vou te pegar, ladrão![n][f 1 2 65535][e]
+[s]Eu vou pegar você ladrão![n][f 1 2 65535][e]
 
 [msg MSG_SPE09_01_FIND_01_05]
-[s]Huh!?[n][f 1 2 65535][e]
+[s]Hã!?![n][f 1 2 65535][e]
 
 [msg MSG_SPE09_01_PURSUE_01_0]
 [s]Morte ao intruso![n][f 1 2 65535][e]
 
 [msg MSG_SPE09_01_PURSUE_01_0_2]
-[s]Você não está fugindo![n][f 1 2 65535][e]
+[s]Você não vai fugir![n][f 1 2 65535][e]
 
 [msg MSG_SPE09_01_PURSUE_01_0_3]
 [s]Você não pode escapar![n][f 1 2 65535][e]
 
 [msg MSG_SPE09_01_PURSUE_01_0_4]
-[s]Pare![n][f 1 2 65535][e]
+[s]Alt![n][f 1 2 65535][e]
 
 [msg MSG_SPE09_01_PURSUE_01_0_5]
-[s]Desista agora![n][f 1 2 65535][e]
+[s]Renda-se![n][f 1 2 65535][e]
 
 [msg MSG_SPE09_01_LOST_01_01]
-[s]Ele desapareceu...[n][f 1 2 65535][e]
+[s]Desaparecido...[n][f 1 2 65535][e]
 
 [msg MSG_SPE09_01_LOST_01_02]
 [s]Para onde ele foi?[n][f 1 2 65535][e]
@@ -251,145 +251,145 @@
 [s]Ele deve ter escapado.[n][f 1 2 65535][e]
 
 [msg MSG_SPE09_01_LOST_01_05]
-[s]Acho que vou voltar...[n][f 1 2 65535][e]
+[s]Vou voltar...[n][f 1 2 65535][e]
 
 [msg MSG_SPE09_01_MNLG_NML_01]
-[s]Nada incomum aqui...[n][f 1 2 65535][e]
+[s]Nada estranho...[n][f 1 2 65535][e]
 
 [msg MSG_SPE09_01_MNLG_NML_01_2]
-[s]Tudo está quieto.[n][f 1 2 65535][e]
+[s]Tudo calmo.[n][f 1 2 65535][e]
 
 [msg MSG_SPE09_01_MNLG_NML_01_3]
-[s]Uma vez que o intruso é manchado, tenho que[n]pesquisar na área.[n]Nenhuma outra escolha...[n][f 1 2 65535][e]
+[s]Não tenho escolha[n]a não ser vasculhar a área,[n]se vir um intruso.[n][f 1 2 65535][e]
 
 [msg MSG_SPE09_01_MNLG_NML_01_4]
-[s]Não é como se eu pretenda decepcionar minha[n]guarda, mas fica tão chato...[n][f 1 2 65535][e]
+[s]Não que eu queira baixar a guarda, mas é tão[n]chato...[n][f 1 2 65535][e]
 
 [msg MSG_SPE09_01_MNLG_NML_01_5]
-[s]Meu turno está quase acabando...[n][f 1 2 65535][e]
+[s]O turno está quase acabando...[n][f 1 2 65535][e]
 
 [msg MSG_SPE09_01_MNLG_NML_01_6]
 [s]Mostre-se![n][f 1 2 65535][e]
 
 [msg MSG_SPE09_01_MNLG_NML_01_7]
-[s]Você não está saindo aqui vivo![n][f 1 2 65535][e]
+[s]Você não vai escapar vivo![n][f 1 2 65535][e]
 
 [msg MSG_SPE09_01_MNLG_NML_01_8]
-[s]Eu vou te encontrar e vou te matar.[n][f 1 2 65535][e]
+[s]Eu vou te encontrar[n]e te matar.[n][f 1 2 65535][e]
 
 [msg MSG_SPE09_01_MNLG_NML_01_9]
-[s]Depois de te encontrar, você está morto![n][f 1 2 65535][e]
+[s]Assim que eu te encontrar[n]você está morto![n][f 1 2 65535][e]
 
 [msg MSG_SPE09_01_MNLG_NML_01_10]
-[s]Nenhum intruso está se metendo por mim![n][f 1 2 65535][e]
+[s]Nenhum intruso[n]passa sob[n]nariz![n][f 1 2 65535][e]
 
 [msg MSG_SPE09_01_MNLG_ALT_01]
-[s]Meu mestre ordenou que eu permanecesse nesse[n]local exato.[n][f 1 2 65535][e]
+[s]O mestre mandou[n]ficar aqui.[n][f 1 2 65535][e]
 
 [msg MSG_SPE09_01_MNLG_ALT_01_2]
-[s]Vou proteger esta área com minha vida![n][f 1 2 65535][e]
+[s]Eu protegerei esta área[n]com minha vida![n][f 1 2 65535][e]
 
 [msg MSG_SPE09_01_MNLG_ALT_01_3]
-[s]As ordens do meu mestre são defender essa[n]área a todo custo.[n][f 1 2 65535][e]
+[s]O mestre ordenou[n]que esta área[n]seja defendida a qualquer custo.[n][f 1 2 65535][e]
 
 [msg MSG_SPE09_01_MNLG_ALT_01_4]
-[s]Apenas tente passar por mim...[n]Estou pronto para qualquer coisa![n][f 1 2 65535][e]
+[s]Tente passar...[n]e você vai ver! Esperando por você![n][f 1 2 65535][e]
 
 [msg MSG_SPE09_01_MNLG_ALT_01_5]
-[s]Tem que estar preparado para uma emboscada a[n]qualquer momento...[n][f 1 2 65535][e]
+[s]Eu poderia ser emboscado[n]a qualquer momento...[n][f 1 2 65535][e]
 
 [msg MSG_SPE09_01_MNLG_ALT_01_6]
-[s]Isto é uma emergência![n]Eu tenho que contar ao meu mestre![n][f 1 2 65535][e]
+[s]Emergência![n]Tenho que avisar o mestre![n][f 1 2 65535][e]
 
 [msg MSG_SPE09_01_MNLG_ALT_01_7]
-[s]Isso é ruim... Estou relatando meu mestre![n][f 1 2 65535][e]
+[s]Não é bom... Tenho que[n]notificar o mestre![n][f 1 2 65535][e]
 
 [msg MSG_SPE09_01_MNLG_ALT_01_8]
-[s]Um intruso foi visto![n]Solicitando assistência![n][f 1 2 65535][e]
+[s]Intruso detectado![n]Preciso de ajuda![n][f 1 2 65535][e]
 
 [msg MSG_SPE09_01_MNLG_ALT_01_9]
-[s]Eu avistei um intruso![n]O que devo fazer, meu LIEGE?[n][f 1 2 65535][e]
+[s]Intruso à vista![n]O que você pede, senhor?[n][f 1 2 65535][e]
 
 [msg MSG_SPE09_01_MNLG_ALT_01_10]
-[s]O intruso está no LAM.[n]Meu mestre vai me instruir sobre como lidar[n]com isso.[n][f 1 2 65535][e]
+[s]Intruso identificado.[n]O mestre me dirá[n]o que fazer.[n][f 1 2 65535][e]
 
 [msg MSG_SPE09_01_REPORT_01_0]
-[s]Qualquer ameaça ao meu mestre não será[n]tolerada aqui.[n][f 1 2 65535][e]
+[s]Nenhuma ameaça ao mestre[n]será tolerada.[n][f 1 2 65535][e]
 
 [msg MSG_SPE09_01_REPORT_01_0_2]
-[s]Que tipo de tolo nega este nirvana meu[n]mestre criado?[n][f 1 2 65535][e]
+[s]Quem é tolo o suficiente para rejeitar[n]nirvana criado por[n]meu mestre?[n][f 1 2 65535][e]
 
 [msg MSG_SPE09_01_REPORT_01_0_3]
-[s]Os ideais do meu mestre também são meus.[n][f 1 2 65535][e]
+[s]Eu compartilho os ideais[n]do meu mestre.[n][f 1 2 65535][e]
 
 [msg MSG_SPE09_01_REPORT_01_0_4]
-[s]Quem poderia discordar de um mestre tão[n]incrível como o meu?[n][f 1 2 65535][e]
+[s]Quem pode estar em conflito[n]com um mestre como o meu?[n][f 1 2 65535][e]
 
 [msg MSG_SPE09_01_REPORT_01_0_5]
-[s]Acredito que meu mestre nos levará a todos[n]os prometidos.[n][f 1 2 65535][e]
+[s]O mestre nos levará[n]à terra prometida,[n]não há dúvida.[n][f 1 2 65535][e]
 
 [msg MSG_SPE01_MNLG_GUARD_01_]
-[s]Sou muito grato ao meu mestre por me dar[n]esperança.[n][f 1 2 65535][e]
+[s]Sou grato ao mestre[n]por me dar esperança.[n][f 1 2 65535][e]
 
 [msg MSG_SPE01_MNLG_GUARD_01__2]
-[s]Devemos proteger nosso mestre generoso...[n][f 1 2 65535][e]
+[s]Devemos proteger nosso[n]generoso mestre...[n][f 1 2 65535][e]
 
 [msg MSG_SPE01_MNLG_GUARD_01__3]
-[s]Nosso mestre é tão atencioso...[n]Eu gostaria de poder ser mais assim.[n][f 1 2 65535][e]
+[s]Nosso mestre é tão[n]atencioso... eu gostaria de ser[n]como ele.[n][f 1 2 65535][e]
 
 [msg MSG_SPE01_MNLG_GUARD_01__4]
-[s]Não vou deixar ninguém interferir na criação[n]do meu mestre.[n][f 1 2 65535][e]
+[s]Não vou deixar ninguém[n]interferir na criação[n]do mestre.[n][f 1 2 65535][e]
 
 [msg MSG_SPE01_MNLG_GUARD_01__5]
-[s]Nosso mestre vê as coisas em um nível[n]completamente diferente.[n][f 1 2 65535][e]
+[s]O mestre vê as coisas[n]de uma maneira completamente[n]diferente.[n][f 1 2 65535][e]
 
 [msg MSG_SPE01_MNLG_DEFEND_01]
-[s]Você vai pagar por perturbar meu mestre![n][f 1 2 65535][e]
+[s]Você vai pagar por perturbar[n]meu mestre![n][f 1 2 65535][e]
 
 [msg MSG_SPE01_MNLG_DEFEND_01_2]
-[s]Nossa felicidade não é a coisa mais[n]importante?[n][f 1 2 65535][e]
+[s]Nossa felicidade[n]é o mais importante![n][f 1 2 65535][e]
 
 [msg MSG_SPE01_MNLG_DEFEND_01_3]
-[s]É muito sombrio por aqui... acho que vou ter[n]que limpar mais tarde.[n][f 1 2 65535][e]
+[s]Que miséria...[n]Vou ter que limpar depois.[n][f 1 2 65535][e]
 
 [msg MSG_SPE01_MNLG_DEFEND_01_4]
-[s]Eu espero que fique pacífico por aqui...[n][f 1 2 65535][e]
+[s]Espero que esta paz[n]não seja perturbada...[n][f 1 2 65535][e]
 
 [msg MSG_SPE01_MNLG_DEFEND_01_5]
-[s]Estou tendo uma sensação estranha...[n]Como algo ruim para acontecer...[n][f 1 2 65535][e]
+[s]Estou com um pressentimento ruim...[n]Como se algo[n]está para acontecer...[n][f 1 2 65535][e]
 
 [msg MSG_SPE09_01_MNLG_FREE_0]
-[s]Só uma vez, eu gostaria de ser o que está no[n]centro das atenções.[n][f 1 2 65535][e]
+[s]Pela primeira vez eu gostaria[n]de estar no centro das atenções.[n][f 1 2 65535][e]
 
 [msg MSG_SPE09_01_MNLG_FREE_0_2]
-[s]Meu mestre é criador e salvador! Eu não[n]poderia estar mais orgulhoso para servir.[n][f 1 2 65535][e]
+[s]Meu mestre é criador[n]e salvador! Servi-lo[n]é uma verdadeira honra.[n][f 1 2 65535][e]
 
 [msg MSG_SPE09_01_MNLG_FREE_0_3]
-[s]A glória do meu mestre brilhará sobre nós[n]por eras.[n][f 1 2 65535][e]
+[s]A glória do mestre[n]nos iluminará por séculos.[n][f 1 2 65535][e]
 
 [msg MSG_SPE09_01_MNLG_FREE_0_4]
-[s]Um intruso fez um chamado às armas... não[n]que eu tenha algum.[n][f 1 2 65535][e]
+[s]Um intruso lançou[n]o desafio...[n]e o que eu faço?[n][f 1 2 65535][e]
 
 [msg MSG_SPE09_01_MNLG_FREE_0_5]
-[s]Por mais forte que seja o invasor, eu me[n]recuso a ser derrotado.[n][f 1 2 65535][e]
+[s]Recuso-me a conceder[n]vitória, por mais forte[n]que o intruso seja.[n][f 1 2 65535][e]
 
 [msg MSG_SPE09_01_MNLG_FREE_0_6]
-[s]Eu odeio abandonar meu post, mas reportar ao[n]meu mestre vem primeiro![n][f 1 2 65535][e]
+[s]Odeio deixar[n]meu posto, mas[n]o mestre deve saber![n][f 1 2 65535][e]
 
 [msg MSG_SPE09_01_MNLG_FREE_0_7]
-[s]Devemos recuar por enquanto.[n]Venha, vamos relatar isso ao mestre![n][f 1 2 65535][e]
+[s]Devemos recuar por enquanto.[n]Deixe-nos reportar[n]ao mestre![n][f 1 2 65535][e]
 
 [msg MSG_SPE09_01_MNLG_FREE_0_8]
-[s]Devo relatar ao mestre pós-forte. Você vai[n]conseguir o seu![n][f 1 2 65535][e]
+[s]Eu tenho que voltar[n]para o mestre. Não é[n]aqui![n][f 1 2 65535][e]
 
 [msg MSG_SPE09_01_MNLG_FREE_0_9]
-[s]Devemos relatar isso ao nosso mestre. Retiro![n][f 1 2 65535][e]
+[s]Devemos reportar[n]ao mestre. Retiro![n][f 1 2 65535][e]
 
 [msg MSG_SPE09_01_MNLG_FREE_0_10]
-[s]Isto é uma emergência! Devo informar o[n]mestre![n][f 1 2 65535][e]
+[s]Emergência! Devo[n]informar o mestre![n][f 1 2 65535][e]
 
 [msg MSG_SPE09_01_MNLG_FREE_0_11]
-[s]Não... como eu poderia deixar isso[n]acontecer!?[n][f 1 2 65535][e]
+[s]Como... como você coloca isso?[n][f 1 2 65535][e]
 
 [msg MSG_SPE09_01_MNLG_FREE_0_12]
 [s]......[n][f 1 2 65535][e]

@@ -1,50 +1,50 @@
 [msg MSG_PC_01]
-[s]Os peixes em Ichigaya são ainda mais[n]animados do que eu pensava...![n][w][e]
+[s]Os peixes de Ichigaya são ainda mais vivos do que[n]eu pensava...![n][w][e]
 
 [msg MSG_MORU_01 [Morgana]]
-[s]Eu sinto que você ganhou "pensamento[n]flexível" de lutar com o peixe.[n][w][e]
+[s]Lidar com aquele peixe[n]ajudou você a desenvolver[n]seu "pensamento lateral".[n][w][e]
 
 [msg MSG_PC_01_02]
-[s]Sinto que ganhei ainda mais "pensamento[n]flexível" porque foi a primeira vez...![n][w][e]
+[s]Foi a primeira vez. Eu acho que[n]isso me fez[n]mais pensar lateralmente![n][w][e]
 
 [msg MSG_RYUJI_001 [Ryuji]]
-[s]Tudo bem! Pegou outro![n][w][e]
+[s]Yay! Eu tenho outro![n][w][e]
 
 [msg MSG_RYUJI_002 [Ryuji]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 0 1009 0]Esta é a primeira vez em muito tempo que[n]estive em um lago de pesca...[n][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 0 1009 0]Faz muito tempo[n]que não vou[n]ao lago de pesca...[n][w][e]
 
 [msg MSG_RYUJI_003 [Ryuji]]
-[s]Então, Protag. Vamos lutar para ver quem[n]pode pescar os minutos mais inten![n][w][e]
+[s]Vamos, vamos competir![n]Vamos ver quem pega[n]mais em dez minutos![n][w][e]
 
 [sel MSG_SEL000 top]
-[s]Certo.[e]
-[s]Que chatice...[e]
+[s]Seguro.[e]
+[s]Que bolas...[e]
 
 [msg MSG_RYUJI_004 [Ryuji]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 0 1009 0]Excelente. Você entendeu![n][w][e]
-[s]Tudo bem então... comece![n][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 0 1009 0]Excelente. É assim que se faz![n][w][e]
+[s]Tudo bem... Pronto... vai![n][w][e]
 
 [msg MSG_RYUJI_005 [Ryuji]]
-[s]Ei, o que há com o diss?[n][w][e]
-[s]Vamos. Esse material é mais divertido quando[n]você faz uma competição com isso...![n][w][e]
-[s]Tudo bem então... comece![n][w][e]
+[s]Vamos, não faça isso![n][w][e]
+[s]Essas coisas são mais divertidas,[n]se você fizer[n]uma competição saudável![n][w][e]
+[s]Tudo bem... Pronto... vai![n][w][e]
 
 [msg MSG_PC_02]
-[s]Eu decidi fazer uma competição de pesca com[n]Ryuji...![n][w][e]
+[s]Eu decidi fazer um concurso de pesca[n]com Ryuji![n][w][e]
 
 [msg MSG_RYUJI_006 [Ryuji]]
-[s]Hahaha! Eu ganhei![n][w][e]
-[s]Cara, eu deveria ter apostado algo.[n]Estou indo bem.[n][w][e]
+[s]Hahaha! Eu venci![n][w][e]
+[s]Cara, devíamos ter apostado.[n]Estou indo muito bem.[n][w][e]
 
 [msg MSG_MORU_02 [Morgana]]
-[s]Ryuji está ficando muito arrogante...[n][w][e]
+[s]Ryuji está se tornando muito seguro de si mesmo...[n][w][e]
 
 [msg MSG_RYUJI_007 [Ryuji]]
-[s]Desculpe, Sr. Protag. Melhor trem mais[n]difícil, hein?[n][w][e]
+[s]Desculpe, Senhor Protagonista.[n]Você precisa treinar mais, hein?[n][w][e]
 
 [msg MSG_RYUJI_008 [Ryuji]]
-[s]Estou me sentindo bem, então vamos sair um[n]pouco mais. Acho que voltaremos para[n]Shibuya primeiro.[n][w][e]
+[s]Ainda não estou cansado,[n]vamos esperar mais um pouco.[n]Mas primeiro vamos voltar para Shibuya.[n][w][e]
 
 [msg MSG_PC_03]
-[s]Fui para Shibuya com Ryuji...[n][w][e]
+[s]Eu fui até Shibuya[n]com Ryuji...[n][w][e]
 

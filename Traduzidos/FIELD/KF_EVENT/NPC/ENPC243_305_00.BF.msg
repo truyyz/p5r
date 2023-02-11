@@ -1,51 +1,51 @@
 [sel YESNO_SEL top]
-[s]Sim [e]
-[s]Não [e]
+[s]Sim[e]
+[s]Não[e]
 
 [msg MSG_000_000_00]
-[s]Fictício [n][w][e]
+[s]Fictício[n][w][e]
 
-[msg MSG_E24330100_MAN_001_00 [Tall Man]]
-[s][vp 8 2 1 0 850 0]Eu te disse, que a droga é perfeita![n]Entregue, rápido![n][w][e]
-[s][vp 8 2 1 0 850 0]Ouvi dizer que é super eficaz. Até os[n]desertos mais áridos se tornarão florestas[n]exuberantes de cabelo...[n][w][e]
+[msg MSG_E24330100_MAN_001_00 [Uomo alto]]
+[s][vp 8 2 1 0 850 0]Eu disse a você, essa droga[n]é uma bomba real! Você tem que tentar![n][w][e]
+[s][vp 8 2 1 0 850 0]É muito eficaz, confie em mim. Ele consegue[n]transformar as praças mais desertas[n]em exuberantes florestas de cabelos...[n][w][e]
 
 [msg MSG_E24330100_MAN_002_00 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]Então é isso que Ryuji estava falando.[n]Florestas exuberantes...[n][w][e]
-[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Eu realmente não quero saber. Acho que posso[n]ver como você o confundiria com o que[n]queremos.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]Ele é o cara de quem Ryuji estava falando.[n]Florestas exuberantes...[n][w][e]
+[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Melhor deixar como está.[n]Mas eu entendo porque[n]ele achou isso suspeito.[n][w][e]
 
 [msg MSG_E24330100_MAN_102_00 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1021 65535 0]Devemos esquecer esse cara...[n]Vamos procurar em outro lugar.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1021 65535 0]Vamos esquecer esse cara.[n]Vamos verificar em outro lugar.[n][w][e]
 
-[msg MSG_E24330100_RYUJI_001_ [Kind Old Woman]]
-[s][f 4 23 1 851 3 10 0 0][vp 8 2 1 0 851 0]Olá, jovem. Você saberia como eu poderia[n]embarcar na linha Inogami?[n][w][e]
+[msg MSG_E24330100_RYUJI_001_ [Vecchietta gentile]]
+[s][f 4 23 1 851 3 10 0 0][vp 8 2 1 0 851 0]Olá, jovem.[n]Talvez você possa me dizer[n]onde fica a linha Inogami?[n][w][e]
 
 [msg MSG_E24330100_RYUJI_002_ [Ryuji]]
-[s][f 4 23 1 65535 3 10 0 0][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 7021 65535 0]Uhhh... desça essas escadas e depois vire à[n]esquerda. Tenha cuidado, vovó.[n][w][e]
+[s][f 4 23 1 65535 3 10 0 0][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 7021 65535 0]Uh... Desça as escadas e vire à esquerda.[n]Cuide-se, avó.[n][w][e]
 
-[msg MSG_E24330100_RYUJI_003_ [Kind Old Woman]]
-[s][f 4 23 1 851 3 10 0 0][vp 8 2 1 0 851 0]Oh, Shibuya é tão complicado.[n]Esses ossos também não se movem como[n]costumavam fazer. Quão preocupante.[n][w][e]
+[msg MSG_E24330100_RYUJI_003_ [Vecchietta gentile]]
+[s][f 4 23 1 851 3 10 0 0][vp 8 2 1 0 851 0]Oh, Shibuya é tão complicado.[n]E então esses velhos ossos não[n]se movem como costumavam...[n][w][e]
 
 [msg MSG_E24330100_RYUJI_004_ [Ryuji]]
-[s][f 4 23 1 65535 3 10 0 0][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Arghhh, vamos lá...[n][w][e]
+[s][f 4 23 1 65535 3 10 0 0][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Arghhhh, vamos...[n][w][e]
 
 [msg MSG_E24330100_RYUJI_005_ [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 7088 65535 0]Oh, [f 4 2].[n][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 7088 65535 0]Ah, [f 4 2].[n][w][e]
 
 [msg MSG_E24330100_RYUJI_006_ [Ryuji]]
-[s][f 4 23 1 65535 3 10 0 0][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Desculpe, minha liderança não acabou sendo[n]nada.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Aquele cara na escada...[n]Muito enganado, hein?[n]Sheesh...[n][w][e]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Oh, que tal Ann e Yusuke?[n]Você deve ir checar-os.[n][w][e]
+[s][f 4 23 1 65535 3 10 0 0][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Sinto muito, minha pista não levou a nada.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Aquele cara na escada...[n]Muito duvidoso, não é?[n]Droga...[n][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ah, e Ann e Yusuke?[n]Talvez você os ouça.[n][w][e]
 
 [msg MSG_E24330100_RYUJI_007_ [Ryuji]]
-[s][f 4 23 1 65535 3 10 0 0][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ei, vovó, você está bem? Você está parecendo[n]muito instável, então eu não me importo de[n]dar uma mão para você.[n][w][e]
+[s][f 4 23 1 65535 3 10 0 0][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ei, vovó, você está bem?[n]Ela parece um pouco abalada:[n]precisa de uma mão?[n][w][e]
 
-[msg MSG_E24330100_RYUJI_101_ [Kind Old Woman]]
-[s][f 4 23 1 851 3 10 0 0][vp 8 2 1 0 851 0]Você tem cabelos tão elegantes, jovem.[n]E uma personalidade gentil também.[n][w][e]
+[msg MSG_E24330100_RYUJI_101_ [Vecchietta gentile]]
+[s][f 4 23 1 851 3 10 0 0][vp 8 2 1 0 851 0]Você tem um cabelo muito bonito, jovem. E você[n]também é gentil![n][w][e]
 
 [msg MSG_E24330100_RYUJI_102_ [Ryuji]]
-[s][f 4 23 1 65535 3 10 0 0][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 7022 65535 0]Uh, obrigado. Eu não sei o que estou até[n]fazendo aqui...[n][w][e]
+[s][f 4 23 1 65535 3 10 0 0][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 7022 65535 0]Obrigado. Eu nem sei o que estou fazendo aqui...[n][w][e]
 
 [msg MSG_E24330100_RYUJI_103_ [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 65535 1172 0 0]Ele disse que sua liderança não representou[n]nada. Devemos deixar essa área para ele, ok?[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Vamos lá, vamos ver Lady Ann e Yusuke.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 65535 1172 0 0]Ele disse que sua liderança não levou a nada.[n]Devemos deixá-lo nesta área, ok?[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Vamos lá, vamos perguntar[n]Lady Ann e Yusuke.[n][w][e]
 

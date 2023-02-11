@@ -1,3 +1,3 @@
 [msg CHAT_START [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]A propósito, você não recebeu uma mensagem[n]esta manhã?[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]De qualquer forma, você não recebeu[n]uma mensagem esta manhã?[n][f 1 3 65535][w][e]
 

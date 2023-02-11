@@ -1,131 +1,131 @@
 [sel YESNO_SEL top]
-[s]Sim [e]
-[s]Não [e]
+[s]Sim[e]
+[s]Não[e]
 
 [msg MSG_069_0_0 [Ryuji]]
-[s][bup 0 2 200 0 0][f 4 10 65535 0 0][vp 8 2 1 7001 65535 0]Você está no jornal, certo? Me dê os Deets[n]no time de vôlei.[n][w][e]
+[s][bup 0 2 200 0 0][f 4 10 65535 0 0][vp 8 2 1 7001 65535 0]Você é do jornal, certo?[n]Eu quero todos os detalhes do[n]time de vôlei.[n][w][e]
 
-[msg MSG_070_0_0 [Newspaper Club Member]]
-[s][f 4 23 1 854 0 10 0 0][vp 8 2 1 0 854 0]Eu não posso... toda vez que tento olhar[n]para eles, os superiores da nossa escola me[n]pressionam.[n][w][e]
+[msg MSG_070_0_0 [Membro del giornale scolastico]]
+[s][f 4 23 1 854 0 10 0 0][vp 8 2 1 0 854 0]Eu não posso. Se tento investigá-los, sempre[n]recebo pressão de cima para parar.[n][w][e]
 
 [msg MSG_071_0_0 [Ryuji]]
-[s][bup 0 2 200 0 0][f 4 10 65535 0 0][vp 8 2 1 7043 65535 0]O inferno!? Então, as cordas puxadas de[n]Kamoshida nos bastidores?[n][w][e]
+[s][bup 0 2 200 0 0][f 4 10 65535 0 0][vp 8 2 1 7043 65535 0]Mas o que...?!? Então Kamoshida[n]está fazendo lobby nos bastidores?[n][w][e]
 
-[msg MSG_071_5_0 [Newspaper Club Member]]
-[s][f 4 23 1 854 0 10 0 0][vp 8 2 1 0 854 0]... podemos parar isso?[n][w][e]
-[s][vp 8 2 1 0 854 0]Prefiro não ter problemas para conversar com[n]vocês...[n][w][e]
+[msg MSG_071_5_0 [Membro del giornale scolastico]]
+[s][f 4 23 1 854 0 10 0 0][vp 8 2 1 0 854 0]...Podemos parar aqui?[n][w][e]
+[s][vp 8 2 1 0 854 0]Não quero ter problemas[n]por falar com você...[n][w][e]
 
 [msg MSG_072_0_0 [Ryuji]]
-[s][bup 0 2 200 0 0][f 4 10 65535 0 0][vp 8 2 1 7044 65535 0]TCH, tudo bem...[n][w][e]
+[s][bup 0 2 200 0 0][f 4 10 65535 0 0][vp 8 2 1 7044 65535 0]Tsk, tudo bem...[n][w][e]
 
-[msg MSG_072_5_0 [Newspaper Club Member]]
-[s][f 4 23 1 854 0 10 0 0][vp 8 2 1 0 854 0]Os professores vão pensar mal de mim se me[n]virem falando com vocês...[n][w][e]
+[msg MSG_072_5_0 [Membro del giornale scolastico]]
+[s][f 4 23 1 854 0 10 0 0][vp 8 2 1 0 854 0]Se eles me virem falando com você,[n]os professores vão ter uma[n]má ideia de mim...[n][w][e]
 
 [msg MSG_E13710100_SINBUN_grt]
-[s][clr 2]Procurando tópicos [clr 27]é mais importante para mim do que o rali de[n]vôlei...[n][f 1 2 65535][e]
+[s]Para mim, a [clr 2]busca por bons[clr 27][n][clr 28]tópicos[clr 27] é mais importante[n]que o torneio de vôlei...[n][f 1 2 65535][e]
 
 [msg MSG_E13710100_SINBUN_grt_2]
-[s][clr 2]Procurando tópicos [clr 27]é mais importante para mim do que o rali de[n]vôlei...[n][f 1 2 65535][e]
+[s]Para mim, a [clr 2]busca por bons[clr 27][n][clr 28]tópicos[clr 27] é mais importante[n]que o torneio de vôlei...[n][f 1 2 65535][e]
 
-[msg MSG_073_0_0 [Newspaper Club Member]]
-[s][f 4 23 1 854 0 10 0 0][vp 8 2 1 0 854 0]Você precisa de algo? Eu realmente gostaria[n]que você não falasse comigo em um lugar tão[n]público...[n][w][e]
+[msg MSG_073_0_0 [Membro del giornale scolastico]]
+[s][f 4 23 1 854 0 10 0 0][vp 8 2 1 0 854 0]Você precisa de alguma coisa?[n]Eu não quero falar com você[n]na frente de todos...[n][w][e]
 
 [sel SEL_074_0_0 top]
-[s]Conte-me sobre vôlei.[e]
-[s]Eu quero sujeira em Kamoshida.[e]
+[s]Fale-me sobre o vôlei.[e]
+[s]Existem rumores sobre Kamoshida?[e]
 
-[msg MSG_075_0_0 [Newspaper Club Member]]
-[s][f 4 23 1 854 0 10 0 0][vp 8 2 1 0 854 0]Por que você não pergunta a Mishima-kun[n]sobre isso? Ele está na classe D com você,[n]não é?[n][w][e]
-[s][vp 8 2 1 0 854 0]Para ser sincero, ouvi alguns rumores sobre[n]ele e o Sr. Kamoshida...[n][w][e]
-[s][vp 8 2 1 0 854 0]Não me pergunte mais. Eu não quero que os[n]professores me vejam associando a você...[n][w][e]
+[msg MSG_075_0_0 [Membro del giornale scolastico]]
+[s][f 4 23 1 854 0 10 0 0][vp 8 2 1 0 854 0]Por que você não fala com Mishima-kun sobre isso?[n]Ele também está na classe D com você, não é?[n][w][e]
+[s][vp 8 2 1 0 854 0]Na verdade, ouvi alguns[n]rumores sobre ele e o Prof.[n]Kamoshida...[n][w][e]
+[s][vp 8 2 1 0 854 0]Mas não me pergunte mais nada.[n]Não quero que os professores[n]me vejam falando com você...[n][w][e]
 
-[msg MSG_076_0_0 [Newspaper Club Member]]
-[s][f 4 23 1 854 0 10 0 0][vp 8 2 1 0 854 0]Por que você não pergunta a Mishima-kun[n]sobre isso? Ele está na classe D com você,[n]não é?[n][w][e]
-[s][vp 8 2 1 0 854 0]Eu não posso te dizer nada além disso...[n][w][e]
+[msg MSG_076_0_0 [Membro del giornale scolastico]]
+[s][f 4 23 1 854 0 10 0 0][vp 8 2 1 0 854 0]Por que você não fala com Mishima-kun sobre isso?[n]Ele também está na classe D com você, não é?[n][w][e]
+[s][vp 8 2 1 0 854 0]Eu não posso te dizer mais...[n][w][e]
 
 [msg MSG_E13710100_SINBUN_grt_3]
-[s]Eu me pergunto se [clr 2]Mishima-kun [clr 27]esta bem...[n][f 1 2 65535][e]
+[s]Eu me pergunto como [clr 2]Mishima-kun[clr 27]...[n][f 1 2 65535] está[e]
 
 [msg MSG_E13710100_SINBUN_grt_4]
-[s]Eu me pergunto se [clr 28]Mishima-kun [clr 27]esta bem...[n][f 1 2 65535][e]
+[s]Eu me pergunto como [clr 28]Mishima-kun[clr 27]...[n][f 1 2 65535] está[e]
 
-[msg MSG_077_0_0 [Thin-Browed Student]]
-[s][f 4 23 1 858 3 10 0 0][vp 8 2 1 0 853 0]Eu vi o Sr. Kamoshida pedindo Takamaki no[n]salão ontem...[n][w][e]
-[s][vp 8 2 1 0 853 0]Mas ela acabou de atirar nele.[n]Ela é tão tensa.[n][w][e]
+[msg MSG_077_0_0 [Studentessa dall'aspetto curato]]
+[s][f 4 23 1 858 3 10 0 0][vp 8 2 1 0 853 0]Ontem eu vi o Prof. Kamoshida[n]no corredor pedindo ao Takamaki[n]para sair com ele...[n][w][e]
+[s][vp 8 2 1 0 853 0]Mas ela recusou.[n]Que raiva.[n][w][e]
 
-[msg MSG_078_0_0 [Duck-Faced Student]]
-[s][f 4 23 1 859 3 10 0 0][vp 8 2 1 0 859 0]Ela provavelmente teve um monte de[n]namorados. Eu acho que a popularidade foi à[n]sua cabeça.[n][w][e]
+[msg MSG_078_0_0 [Studentessa smorfiosa]]
+[s][f 4 23 1 859 3 10 0 0][vp 8 2 1 0 859 0]Ela provavelmente tem mais de um[n]namorado. Acho que a popularidade[n]subiu à cabeça dela.[n][w][e]
 
-[msg MSG_079_0_0 [Thin-Browed Student]]
-[s][f 4 23 1 858 3 10 0 0][vp 8 2 1 0 853 0]E ela está olhando para nós outras garotas,[n]certo? Como era de se esperar de um[n]estrangeiro...[n][w][e]
+[msg MSG_079_0_0 [Studentessa dall'aspetto curato]]
+[s][f 4 23 1 858 3 10 0 0][vp 8 2 1 0 853 0]E ele olha para nós com desdém,[n]não? O que mais esperar de um[n]estrangeiro...[n][w][e]
 
 [msg MSG_E13710100_JOSI_grt_0]
-[s]o [clr 2]Rally de vôlei [clr 27]é uma arrastada...[n][f 1 2 65535][e]
+[s]Que bola o [clr 2]torneio de vôlei[clr 27]...[n][f 1 2 65535][e]
 
 [msg MSG_E13710100_JOSI_grt_0_2]
-[s]o [clr 28]Rally de vôlei [clr 27]é uma arrastada...[n][f 1 2 65535][e]
+[s]Que bola o [clr 28]torneio de vôlei[clr 27]...[n][f 1 2 65535][e]
 
-[msg MSG_STUDENT_JIMI_000_00 [Well-Behaved Student]]
-[s][f 4 23 1 855 3 10 0 0][vp 8 2 1 0 855 0]Ah, o aluno transferido...[n][w][e]
-[s][vp 8 2 1 0 855 0]O que é isso...? Vou contar a você se você[n]tentar fazer algo comigo.[n][w][e]
+[msg MSG_STUDENT_JIMI_000_00 [Studente educato]]
+[s][f 4 23 1 855 3 10 0 0][vp 8 2 1 0 855 0]Ah, o novo aluno...[n][w][e]
+[s][vp 8 2 1 0 855 0]O que você quer...? Se você fizer[n]alguma coisa comigo, direi imediatamente[n]aos professores.[n][w][e]
 
 [sel SEL_STUDENT_JIMI_001_00 top]
-[s]Como o quê?[e]
-[s]Você está no time de vôlei?[e]
+[s]Tipo o que?[e]
+[s]Você joga vôlei?[e]
 
-[msg MSG_STUDENT_JIMI_002_00 [Well-Behaved Student]]
-[s][f 4 23 1 855 3 10 0 0][vp 8 2 1 0 855 0]Er... bem... eu não sei... por favor, não me[n]machuque...[n][w][e]
+[msg MSG_STUDENT_JIMI_002_00 [Studente educato]]
+[s][f 4 23 1 855 3 10 0 0][vp 8 2 1 0 855 0]Hum, bem... eu não sei...[n]Só não me machuque, por favor...[n][w][e]
 
-[msg MSG_STUDENT_JIMI_002_01 [Well-Behaved Student]]
-[s][f 4 23 1 855 3 10 0 0][vp 8 2 1 0 855 0]Huh? Eu não sou. Por que você está[n]bisbilhotando assim?[n][w][e]
-[s][vp 8 2 1 0 855 0]Oh... desculpe por isso. Por favor, não me[n]esfaqueie...[n][w][e]
+[msg MSG_STUDENT_JIMI_002_01 [Studente educato]]
+[s][f 4 23 1 855 3 10 0 0][vp 8 2 1 0 855 0]Huh? Não. Por que você sai por aí fazendo[n]perguntas assim?[n][w][e]
+[s][vp 8 2 1 0 855 0]Oh...Desculpe, eu não queria...[n]Por favor, não me esfaqueie...[n][w][e]
 
-[msg MSG_STUDENT_JIMI_100_00 [Well-Behaved Student]]
-[s][f 4 23 1 855 3 10 0 0][vp 8 2 1 0 855 0]Então o que é? Vou contar ao professor se[n]você tentar fazer algo comigo...[n][w][e]
+[msg MSG_STUDENT_JIMI_100_00 [Studente educato]]
+[s][f 4 23 1 855 3 10 0 0][vp 8 2 1 0 855 0]Nós iremos? O que você quer...? Se você fizer[n]alguma coisa comigo, direi imediatamente[n]aos professores.[n][w][e]
 
 [sel SEL_STUDENT_JIMI_101_00 top]
-[s]Como o quê?[e]
-[s]Você está no time de vôlei?[e]
+[s]Tipo o que?[e]
+[s]Você joga vôlei?[e]
 
-[msg MSG_STUDENT_JIMI_102_00 [Well-Behaved Student]]
-[s][f 4 23 1 855 3 10 0 0][vp 8 2 1 0 855 0]S-S-Sorry... P-por favor, não me coloque no[n]hospital...[n][w][e]
+[msg MSG_STUDENT_JIMI_102_00 [Studente educato]]
+[s][f 4 23 1 855 3 10 0 0][vp 8 2 1 0 855 0]D-desculpe, por favor... Não[n]me coloque no hospital...[n][w][e]
 
-[msg MSG_STUDENT_JIMI_102_01 [Well-Behaved Student]]
-[s][f 4 23 1 855 3 10 0 0][vp 8 2 1 0 855 0]Não... por favor, vá embora...[n][w][e]
+[msg MSG_STUDENT_JIMI_102_01 [Studente educato]]
+[s][f 4 23 1 855 3 10 0 0][vp 8 2 1 0 855 0]Não... Por favor, vá embora...[n][w][e]
 
 [msg MSG_E13710100_JIMI_grt_0]
-[s][clr 2]A professora [clr 27]está atrasado...[n][f 1 2 65535][e]
+[s][clr 2]Professor[clr 27] está atrasado...[n][f 1 2 65535][e]
 
 [msg MSG_E13710100_JIMI_grt_0_2]
-[s][clr 28]A professora [clr 27]está atrasado...[n][f 1 2 65535][e]
+[s][clr 28]Professor[clr 27] está atrasado...[n][f 1 2 65535][e]
 
-[msg MSG_090_0_0 [Bored Female Student]]
-[s][f 4 23 1 860 3 10 0 0][vp 8 2 1 0 860 0]Você acha que Suzui-san está agindo de forma[n]estranha ultimamente? Ela está suspirando[n]muito.[n][w][e]
-[s][vp 8 2 1 0 860 0]Ela costumava ser muito mais feliz quando éramos os[n]primeiros anos. Além disso, essas contusões...[n]acho que ela está com problemas.[n][w][e]
+[msg MSG_090_0_0 [Studentessa annoiata]]
+[s][f 4 23 1 860 3 10 0 0][vp 8 2 1 0 860 0]Você não acha que Suzui-san está[n]um pouco estranha ultimamente?[n]Eu sempre a vejo suspirar.[n][w][e]
+[s][vp 8 2 1 0 860 0]Em seu primeiro ano, ela era muito mais feliz. E[n]então, todas aquelas contusões... Acho que ele[n]tem um problema.[n][w][e]
 
-[msg MSG_091_0_0 [Resting Female Student]]
-[s][f 4 23 1 861 3 10 0 0][vp 8 2 1 0 861 0]Ela está tentando se tornar uma partida de vôlei,[n]não é? Ouvi dizer que ela faz aulas particulares[n] com o Sr. Kamoshida todos os dias.[n][w][e]
-[s][vp 8 2 1 0 861 0]Aparentemente, ela é uma jogadora muito boa[n]desde que estava no ensino médio.[n][w][e]
-[s][vp 8 2 1 0 861 0]De qualquer forma, agir triste assim,[n]mantendo o Sr. Kamoshida para si mesma é[n]meio arrogante, você não acha?[n][w][e]
+[msg MSG_091_0_0 [Studentessa in pausa]]
+[s][f 4 23 1 861 3 10 0 0][vp 8 2 1 0 861 0]Ela quer se tornar proprietária, certo?[n]Ouvi dizer que ela tem[n]aulas particulares com o Prof. Kamoshida.[n][w][e]
+[s][vp 8 2 1 0 861 0]Aparentemente, ela jogava bem desde o ensino[n]médio.[n][w][e]
+[s][vp 8 2 1 0 861 0]Enfim, toda essa[n]tristeza quando ele está sempre com o[n]Prof. Kamoshida... Que arrogância.[n][w][e]
 
 [msg NIGIYAKADANSI_grt_A_01]
-[s]Vamos matar algum tempo até começar a[n]partida.[n][f 1 2 65535][e]
+[s]Vamos fazer algo enquanto[n]esperamos o jogo começar.[n][f 1 2 65535][e]
 
 [msg NIGIYAKAJYOSI_grt_B_01]
-[s]Se não nos apressarmos, a partida do Sr.[n]Kamoshida vai acabar![n][f 1 2 65535][e]
+[s]Se não nos apressarmos, o jogo[n]do Prof. Kamoshida[n]já vai[n]acabar![n][f 1 2 65535][e]
 
 [msg TUKUEDANSI_grt_C_01]
-[s]Temos muita sorte de poder jogar contra um[n]ex-atleta olímpico.[n][f 1 2 65535][e]
+[s]Que sorte poder jogar[n]contra um ex-atleta olímpico.[n][f 1 2 65535][e]
 
 [msg KABEYORIDANSI_grt_D_01]
-[s]Eu queria jogar futebol ou basquete, não[n]vôlei...[n][f 1 2 65535][e]
+[s]Eu queria jogar futebol[n]ou basquete, não vôlei...[n][f 1 2 65535][e]
 
 [msg JYOSIGUMI_grt_E_01]
-[s]Que tal praticar nossos aplausos?[n]Ei, ei, vamos lá![n][f 1 2 65535][e]
+[s]Vamos treinar para torcer?[n]Vamos, vamos![n][f 1 2 65535][e]
 
-[msg JYOSIGUMI_01_0 [Concerned Female Student]]
-[s][f 4 23 1 834 3 10 0 0]Quando eu estava no primeiro andar agora, vi[n]alguém que estava com enfaixado...[n][w][e]
+[msg JYOSIGUMI_01_0 [Estudante preocupada]]
+[s][f 4 23 1 834 3 10 0 0]Há pouco, no primeiro andar, vi uma pessoa toda[n]coberta de bandagens.[n][w][e]
 
-[msg JYOSIGUMI_02_0 [Sluggish Female Student]]
-[s][f 4 23 1 835 3 10 0 0]Ah, aposto que era alguém do time de vôlei.[n]Até os terceiros anos são trabalhados[n]duro...[n][w][e]
+[msg JYOSIGUMI_02_0 [Studentessa apatica]]
+[s][f 4 23 1 835 3 10 0 0]Ah, acho que era do[n]time de vôlei. Mesmo os do terceiro[n]ano são forçados a escravizar...[n][w][e]
 

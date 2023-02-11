@@ -1,332 +1,332 @@
 [msg MSG_NML06_FIND_01_01]
-[s]Quem está aí!?[n][f 1 2 65535][e]
+[s]Quem está aí?[n][f 1 2 65535][e]
 
 [msg MSG_NML06_FIND_01_02]
 [s]Ei você![n][f 1 2 65535][e]
 
 [msg MSG_NML06_FIND_01_03]
-[s]Vocês bastardos![n][f 1 2 65535][e]
+[s]Bastardos![n][f 1 2 65535][e]
 
 [msg MSG_NML06_FIND_01_04]
-[s]Hum? Quem é Você!?[n][f 1 2 65535][e]
+[s]Hum? Onde você está!?![n][f 1 2 65535][e]
 
 [msg MSG_NML06_FIND_01_05]
-[s]Quem são vocês bastardos!?[n][f 1 2 65535][e]
+[s]E quem é você!?![n][f 1 2 65535][e]
 
 [msg MSG_NML06_PURSUE_01_01]
-[s]Ei! Esperar![n][f 1 2 65535][e]
+[s]Ei! Espere![n][f 1 2 65535][e]
 
 [msg MSG_NML06_PURSUE_01_02]
 [s]Pare![n][f 1 2 65535][e]
 
 [msg MSG_NML06_PURSUE_01_03]
-[s]Quem é Você!? Pare![n][f 1 2 65535][e]
+[s]Quem é Você? Pare![n][f 1 2 65535][e]
 
 [msg MSG_NML06_PURSUE_01_04]
 [s]Ei! Pare![n][f 1 2 65535][e]
 
 [msg MSG_NML06_PURSUE_01_05]
-[s]Espere, seus bastardos obscuros![n][f 1 2 65535][e]
+[s]Espere, seus desgraçados![n][f 1 2 65535][e]
 
 [msg MSG_NML06_LOST_01_01]
-[s]Droga! Para onde eles foram?[n][f 1 2 65535][e]
+[s]Condenação! Para onde[n]eles foram?[n][f 1 2 65535][e]
 
 [msg MSG_NML06_LOST_01_02]
 [s]Grrr![n][f 1 2 65535][e]
 
 [msg MSG_NML06_LOST_01_03]
-[s]Para onde eles foram!?[n][f 1 2 65535][e]
+[s]Para onde eles foram!?![n][f 1 2 65535][e]
 
 [msg MSG_NML06_LOST_01_04]
-[s]HM!? Para onde eles desapareceram!?[n][f 1 2 65535][e]
+[s]Hum!? Mas onde eles[n]desapareceram!?[n][f 1 2 65535][e]
 
 [msg MSG_NML06_LOST_01_05]
-[s]Para onde eles foram!? Droga![n][f 1 2 65535][e]
+[s]Onde eles foram?!? Droga![n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_NML_01_01]
-[s]Nada fora do comum aqui.[n][f 1 2 65535][e]
+[s]Nada de estranho[n]para relatar.[n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_NML_01_02]
-[s]Nenhum problema detectado.[n][f 1 2 65535][e]
+[s]Nenhum problema encontrado.[n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_NML_01_03]
-[s]Tudo claro aqui.[n][f 1 2 65535][e]
+[s]Tudo limpo aqui.[n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_NML_01_04]
-[s]Sem problemas no momento.[n][f 1 2 65535][e]
+[s]Sem problemas.[n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_NML_01_05]
-[s]Hmph, sem problemas.[n][f 1 2 65535][e]
+[s]Umpf, sem problemas.[n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_NML_01_06]
-[s]Nada anormal no momento. Vou continuar minha[n]patrulha agora.[n][f 1 2 65535][e]
+[s]Nada fora do comum[n]no momento. Eu continuo[n]a patrulha.[n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_NML_01_07]
-[s]Tudo está claro.[n]Continuando minha patrulha.[n][f 1 2 65535][e]
+[s]Tudo quieto.[n]Continuo minha patrulha.[n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_NML_01_08]
-[s]Se algum invasão pensa que pode superar[n]aqui, estão muito enganados...[n][f 1 2 65535][e]
+[s]Se eles realmente acham que podem me superar,[n]eles estão tão errados...[n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_NML_01_09]
-[s]Vou apenas fazer o meu trabalho, não importa[n]quem venha...[n][f 1 2 65535][e]
+[s]Farei meu trabalho[n]qualquer custo...[n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_NML_01_10]
-[s]Quando eles aprenderão o quão tolo é[n]desafiar o gerente.[n][f 1 2 65535][e]
+[s]Quando eles vão aprender[n]que desafiar a diretora[n]é para idiotas?[n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_ALT_01_01]
-[s]Intrusos... exatamente onde eles poderiam[n]estar?[n][f 1 2 65535][e]
+[s]Intrusos... Para onde[n]poderiam ter ido?[n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_ALT_01_02]
-[s]Onde você está se escondendo!?[n][f 1 2 65535][e]
+[s]Onde você está se escondendo!?![n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_ALT_01_03]
-[s]Eu vou te encontrar, e eu vou te derrotar...[n][f 1 2 65535][e]
+[s]Eu vou te encontrar[n]e bater em você[n]sangue...[n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_ALT_01_04]
-[s]Ei! Onde você está!?[n][f 1 2 65535][e]
+[s]Ei! Onde você está!?![n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_ALT_01_05]
-[s]Droga! Onde eles estão escondidos!?[n][f 1 2 65535][e]
+[s]Merda! Onde[n]eles estão se escondendo!?![n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_ALT_01_06]
-[s]Não mostrarei misericórdia a quem tentar[n]prejudicar o gerente.[n][f 1 2 65535][e]
+[s]Não terei piedade de[n]aqueles que querem prejudicar o diretor.[n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_ALT_01_07]
-[s]Hora de mostrar como é realmente a[n]habilidade de um profissional.[n][f 1 2 65535][e]
+[s]É hora de mostrar as[n]habilidades dos verdadeiros[n]profissionais.[n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_ALT_01_08]
-[s]Vou garantir que sua morte seja indolor[n]possível! Apenas saia![n][f 1 2 65535][e]
+[s]Farei com que[n]sua morte seja indolor![n]Mostre-se![n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_ALT_01_09]
-[s]Não importa o quanto você chore, alguns[n]pecados não podem ser perdoados.[n][f 1 2 65535][e]
+[s]Você pode chorar o quanto quiser, mas não será[n]perdoado.[n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_ALT_01_10]
-[s]Eles também não estão aqui... eles vão para[n]outro lugar?[n][f 1 2 65535][e]
+[s]Eles nem[n]estão aqui... Para onde eles[n]foram?[n][f 1 2 65535][e]
 
 [msg MSG_NML06_REPORT_01_01]
-[s]Há problemas.[n]Devo relatar isso ao gerente.[n][f 1 2 65535][e]
+[s]Problemas à frente.[n]Preciso relatar[n]ao diretor.[n][f 1 2 65535][e]
 
 [msg MSG_NML06_REPORT_01_02]
-[s]Vou relatar essa situação ao gerente de uma[n]só vez.[n][f 1 2 65535][e]
+[s]Vou relatar[n]a situação[n]ao diretor.[n][f 1 2 65535][e]
 
 [msg MSG_NML06_REPORT_01_03]
-[s]Há pessoas suspeitas por aqui... devo[n]alertar o gerente.[n][f 1 2 65535][e]
+[s]Há suspeitos[n]na área... Devo[n]alertar o diretor.[n][f 1 2 65535][e]
 
 [msg MSG_NML06_REPORT_01_04]
-[s]Devo contar ao gerente.[n]Esses ratos não podem simplesmente fazer o[n]que quiserem.[n][f 1 2 65535][e]
+[s]Eu tenho que dizer ao diretor.[n]Esses ratos não podem[n]fazer o que querem.[n][f 1 2 65535][e]
 
 [msg MSG_NML06_REPORT_01_05]
-[s]Por que você é um pouco... eu vou que o[n]gerente cuide de vocês ratos.[n][f 1 2 65535][e]
+[s]Pequeninos feios... A[n]dona cuidará[n]de vocês, ratos.[n][f 1 2 65535][e]
 
 [msg MSG_STG01_MNLG_GUARD_01_]
-[s]Não vou decepcionar minha guarda, não[n]importa o quê.[n][f 1 2 65535][e]
+[s]Estarei sempre vigilante,[n]não importa o que aconteça.[n][f 1 2 65535][e]
 
 [msg MSG_STG01_MNLG_GUARD_01__2]
-[s]Não importa quem vem... Não vou parar de[n]guardar este lugar![n][f 1 2 65535][e]
+[s]Não importa quem vem...[n]eu protegerei[n]este lugar![n][f 1 2 65535][e]
 
 [msg MSG_STG01_MNLG_GUARD_01__3]
-[s]Devo ter sucesso em proteger este lugar hoje[n]também.[n][f 1 2 65535][e]
+[s]Ainda hoje devo proteger[n]absolutamente[n]este lugar.[n][f 1 2 65535][e]
 
 [msg MSG_STG01_MNLG_GUARD_01__4]
-[s]Eu me pergunto se só eu é suficiente para[n]protegê-lo...[n][f 1 2 65535][e]
+[s]Quem sabe se eu[n]é o suficiente para protegê-lo...[n][f 1 2 65535][e]
 
 [msg MSG_STG01_MNLG_GUARD_01__5]
-[s]Essa responsabilidade é enorme... Por que eu[n]tenho que protegê-lo?[n][f 1 2 65535][e]
+[s]Quanta responsabilidade...[n]Por que eu[n]tenho que ficar de guarda aqui?[n][f 1 2 65535][e]
 
 [msg MSG_STG01_MNLG_DEFEND_01]
-[s]Gerente, eu descobri invasores! Por favor,[n]me dê suas instruções![n][f 1 2 65535][e]
+[s]Diretora, eu descobri[n]os intrusos! Aguardando[n]instruções![n][f 1 2 65535][e]
 
 [msg MSG_STG01_MNLG_DEFEND_01_2]
-[s]Eu vi os intrusos! Solicitando maior[n]segurança![n][f 1 2 65535][e]
+[s]Eu localizei[n]os intrusos! Solicito[n]vigilância intensificada![n][f 1 2 65535][e]
 
 [msg MSG_STG01_MNLG_DEFEND_01_3]
-[s]Eu vejo alguns clientes problemáticos. O que[n]devo fazer, gerente?[n][f 1 2 65535][e]
+[s]Vejo alguns[n]clientes problemáticos. O que devo[n]fazer, diretor?[n][f 1 2 65535][e]
 
 [msg MSG_STG01_MNLG_DEFEND_01_4]
-[s]Eu descobri alguns rouses de rabilhas.[n]Solicitando backup.[n][f 1 2 65535][e]
+[s]Eu descobri alguns[n]incomodos.[n]Solicitar backup.[n][f 1 2 65535][e]
 
 [msg MSG_STG01_MNLG_DEFEND_01_5]
-[s]Encontrei alguns convidados suspeitos! O que[n]devo fazer?[n][f 1 2 65535][e]
+[s]Encontrei alguns hóspedes indesejados![n]O que devo fazer?[n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_FREE_01_0]
-[s]Ufa... meu próximo trabalho é...[n][f 1 2 65535][e]
+[s]Ufa... Minha próxima[n]tarefa...[n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_FREE_01_0_2]
-[s]Vou mostrar a eles meus truques de cartas[n]impressionantes![n][f 1 2 65535][e]
+[s]Vou mostrar a eles[n]meus incríveis[n]truques com cartas![n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_FREE_01_0_3]
-[s]Intrusos? Acho que algumas pessoas não têm[n]maneiras...[n][f 1 2 65535][e]
+[s]Intrusos? Algumas pessoas[n]realmente não sabem[n]estar no mundo...[n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_FREE_01_0_4]
-[s]O gerente não precisa sujar as mãos com[n]intrusos! Vou destruí-los eu mesmo.[n][f 1 2 65535][e]
+[s]A diretora não deve[n]sujar as mãos com[n]intrusos! Eu os destruirei.[n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_FREE_01_0_5]
-[s]Não acredito que eles estão jogando suas[n]vidas fora.[n]É a perda deles...[n][f 1 2 65535][e]
+[s]Eu não posso acreditar que eles estão[n]esperando suas vidas.[n]Que pena para eles...[n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_FREE_01_0_6]
-[s]Quão interessante eles colocariam suas vidas[n]na mesa de apostas...[n][f 1 2 65535][e]
+[s]Interessante: eles pretendem[n]arriscar suas vidas[n]jogando...[n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_FREE_01_0_7]
-[s]Tenho tanta sorte que gasto meu tempo com[n]este jogo estimulante hoje...[n][f 1 2 65535][e]
+[s]Que sorte poder[n]passar tempo com[n]este jogo hoje...[n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_FREE_01_0_8]
-[s]Os humanos continuam acreditando no poder da[n]sorte...[n]até que eles morram.[n][f 1 2 65535][e]
+[s]Os humanos continuam[n]acreditando na sorte...[n]até morrerem.[n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_FREE_01_0_9]
-[s]Este é um trabalho diferente do normal, mas[n]ainda estou colocando minha vida em risco...[n][f 1 2 65535][e]
+[s]Pode ser um trabalho[n]diferente do normal, mas[n]minha vida está sempre em perigo.[n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_FREE_01_1]
-[s]Eu pensei ter ouvido algo... talvez fosse[n]apenas uma moeda caindo...[n][f 1 2 65535][e]
+[s]Acho que[n]ouvi algo...Talvez[n]apenas uma moeda no chão...[n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_FREE_01_1_2]
-[s]Vou levar tudo o que os intrusos possuem...[n]suas vidas incluíram.[n][f 1 2 65535][e]
+[s]Vou levar tudo[n]que eles têm...[n]Até suas vidas.[n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_FREE_01_1_3]
-[s]Espero me livrar desses invasores em breve[n]para poder voltar ao meu trabalho...[n][f 1 2 65535][e]
+[s]Espero me livrar[n]dos invasores em breve, para que eu possa[n]voltar ao meu trabalho...[n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_FREE_01_1_4]
-[s]Os intrusos estão jogando suas vidas, assim[n]como os outros pobres SAPS aqui.[n][f 1 2 65535][e]
+[s]Os invasores estão[n]apostando suas vidas,[n]como todos aqui.[n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_FREE_01_1_5]
-[s]Opa, todo esse estresse está tornando meu[n]rosto muito rígido.[n]Eu preciso sorrir mais.[n][f 1 2 65535][e]
+[s]Opa, todo esse estresse[n]está deixando meu rosto rígido.[n]Preciso sorrir mais.[n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_FREE_01_1_6]
-[s]Eles vão se arrepender de ter vindo aqui se[n]pensassem que era tudo divertido e jogos...[n][f 1 2 65535][e]
+[s]Se eles pensaram que encontrariam[n]entretenimento e jogos[n]eles estavam errados...[n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_FREE_01_1_7]
-[s]Vou fazê-los me arrepender de atravessar o[n]gerente...[n][f 1 2 65535][e]
+[s]Vou fazê-los se arrepender[n]de irritar o diretor...[n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_FREE_01_1_8]
-[s]A vida de um ladrão não vale nada... Espero[n]que sejam pelo menos divertidos.[n][f 1 2 65535][e]
+[s]A vida de um ladrão não vale[n]nada... Espero que sejam[n]pelo menos divertidas.[n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_FREE_01_1_9]
-[s]Esses invasores realmente valem a pena[n]arriscar minha vida?[n][f 1 2 65535][e]
+[s]Vale a pena arriscar[n]sua vida por esses[n]intrusos?[n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_FREE_01_1_10]
-[s]Aproveitar o caos é uma jogada tão covarde...[n][f 1 2 65535][e]
+[s]Aproveitar o[n]caos é uma estratégia[n]para verdadeiros covardes...[n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_FREE_01_2]
-[s]Vou mostrar a eles como uma verdadeira[n]jogada profissional.[n][f 1 2 65535][e]
+[s]Vou mostrar a eles como[n]os profissionais jogam.[n][f 1 2 65535][e]
 
 [msg MSG_NML06_FIND_02_01]
-[s]Quem é esse?[n][f 1 2 65535][e]
+[s]Quem é?[n][f 1 2 65535][e]
 
 [msg MSG_NML06_FIND_02_02]
 [s]Intrusos![n][f 1 2 65535][e]
 
 [msg MSG_NML06_FIND_02_03]
-[s]Há alguém lá![n][f 1 2 65535][e]
+[s]Tem alguém aí![n][f 1 2 65535][e]
 
 [msg MSG_NML06_FIND_02_04]
-[s]O que? Quem é esse!?[n][f 1 2 65535][e]
+[s]Coisa? Quem está aí?[n][f 1 2 65535][e]
 
 [msg MSG_NML06_FIND_02_05]
-[s]Ahhh! Intrusos!?[n][f 1 2 65535][e]
+[s]Aaah! Intrusos!?![n][f 1 2 65535][e]
 
 [msg MSG_NML06_PURSUE_02_01]
-[s]Esperar![n][f 1 2 65535][e]
+[s]Pare![n][f 1 2 65535][e]
 
 [msg MSG_NML06_PURSUE_02_02]
 [s]Eu não vou deixar você escapar![n][f 1 2 65535][e]
 
 [msg MSG_NML06_PURSUE_02_03]
-[s]Intrusos! Eu não vou deixar você ir![n][f 1 2 65535][e]
+[s]Intrusos! Eu não vou[n]deixar você ir![n][f 1 2 65535][e]
 
 [msg MSG_NML06_PURSUE_02_04]
-[s]Ei, invasores![n][f 1 2 65535][e]
+[s]Ei, intrusos![n][f 1 2 65535][e]
 
 [msg MSG_NML06_PURSUE_02_05]
-[s]Esperar! Bastardos![n][f 1 2 65535][e]
+[s]Parem, seus desgraçados![n][f 1 2 65535][e]
 
 [msg MSG_NML06_LOST_02_01]
-[s]Eu perdi eles!?[n][f 1 2 65535][e]
+[s]Eu os perdi?[n][f 1 2 65535][e]
 
 [msg MSG_NML06_LOST_02_02]
-[s]Onde você foi!?[n][f 1 2 65535][e]
+[s]Onde você foi?[n][f 1 2 65535][e]
 
 [msg MSG_NML06_LOST_02_03]
-[s]O que!? Eles desapareceram...[n][f 1 2 65535][e]
+[s]Coisa? Eles desapareceram...[n][f 1 2 65535][e]
 
 [msg MSG_NML06_LOST_02_04]
-[s]Eles não estão aqui!?[n]Onde eles poderiam estar!?[n][f 1 2 65535][e]
+[s]Eles não estão aqui?[n]Onde eles podem estar?[n][f 1 2 65535][e]
 
 [msg MSG_NML06_LOST_02_05]
-[s]Essas pequenas merdas![n]Onde eles estão!?[n][f 1 2 65535][e]
+[s]Esses merdas![n]Onde eles estão?[n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_NML_02_01]
 [s]Nada fora do comum.[n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_NML_02_02]
-[s]Não há pessoas de aparência sombria por aqui.[n][f 1 2 65535][e]
+[s]Nenhum[n]suspeito nas proximidades.[n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_NML_02_03]
-[s]Intrusos? Definitivamente não por aqui.[n][f 1 2 65535][e]
+[s]Intrusos? Definitivamente[n]não aqui na área.[n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_NML_02_04]
-[s]Huh? Essa pessoa... nah, deve ser minha[n]imaginação.[n][f 1 2 65535][e]
+[s]Hã? Essa pessoa... Nah,[n]será minha imaginação.[n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_NML_02_05]
-[s]HM? Não, sem invasores aqui.[n][f 1 2 65535][e]
+[s]Hum? Não, não há[n]intrusos aqui.[n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_NML_02_06]
-[s]Ughhh, minha meia foi presa...[n][f 1 2 65535][e]
+[s]Ughhh, minhas[n]meias de tricô...[n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_NML_02_07]
-[s]Eu posso sentir os olhos lascivos das[n]pessoas em mim...[n][f 1 2 65535][e]
+[s]Eu sinto[n]olhos das pessoas sempre em mim...[n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_NML_02_08]
-[s]Como você se atreve a brincar com mais[n]trabalho para mim![n]Droga![n][f 1 2 65535][e]
+[s]Seus idiotas, como ousam[n]tornar minha vida difícil?[n]Droga![n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_NML_02_09]
-[s]Punir as pessoas apenas me enche com o maior[n]prazer imaginável...[n][f 1 2 65535][e]
+[s]Punir as pessoas[n]me dá o maior[n]prazer de todos...[n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_NML_02_10]
-[s]Oh, intrusos! Estou bem aqui esperando por[n]você![n][f 1 2 65535][e]
+[s]Oh, intrusos! Estou aqui[n]esperando por você![n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_ALT_02_01]
-[s]Esses intrusos...[n]Onde eles estão?[n][f 1 2 65535][e]
+[s]Os invasores...[n]Onde eles estão?[n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_ALT_02_02]
-[s]Vou encontrar os intrusos, não importa o[n]quanto eu tenha que procurá-los.[n][f 1 2 65535][e]
+[s]Eu vou encontrar os intrusos,[n]não importa quanto tempo[n]demore.[n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_ALT_02_03]
-[s]Eu me pergunto onde eles estão...[n][f 1 2 65535][e]
+[s]Quem sabe onde eles estão...[n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_ALT_02_04]
-[s]Eu preciso manter meus olhos abertos por[n]intrusos...[n][f 1 2 65535][e]
+[s]Tenho que manter meus olhos[n]abertos se quiser encontrá-los...[n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_ALT_02_05]
-[s]Vou encontrá-los...[n][f 1 2 65535][e]
+[s]Eu os encontrarei...[n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_ALT_02_06]
-[s]Eu gostaria de poder ser tão frio e cruel[n]quanto o gerente.[n][f 1 2 65535][e]
+[s]Talvez seja frio e[n]cruel como o diretor.[n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_ALT_02_07]
-[s]Vou atendê-los tão bem, o puro êxtase vai[n]matá-los...[n][f 1 2 65535][e]
+[s]Eu cuidarei deles,[n]e o prazer que eu lhes der[n]irá matá-los...[n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_ALT_02_08]
-[s]Eles vão me implorar de joelhos e joelhos...[n]mas nunca vou perdoá-los.[n][f 1 2 65535][e]
+[s]Eles vão me implorar de joelhos... mas eu nunca[n]vou perdoá-los.[n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_ALT_02_09]
-[s]O que era aquele som!?[n]Isso é tão estressante...[n][f 1 2 65535][e]
+[s]O-o que foi isso?[n]Ah, que estresse...[n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_ALT_02_10]
-[s]O que é um bom castigo?[n]Talvez eu os faça obedecer no corpo e na[n]mente...[n][f 1 2 65535][e]
+[s]Um bom castigo?[n]Talvez eu subjugue sua[n]mente e corpo...[n][f 1 2 65535][e]
 
 [msg MSG_NML06_REPORT_02_01]
-[s]Vou relatar isso ao gerente![n][f 1 2 65535][e]
+[s]Vou[n]reportar ao diretor imediatamente![n][f 1 2 65535][e]
 
 [msg MSG_NML06_REPORT_02_02]
-[s]Apenas espere! Vou contar ao gerente sobre[n]isso![n][f 1 2 65535][e]
+[s]Espere e veja! O[n]diretor[n]vai descobrir![n][f 1 2 65535][e]
 
 [msg MSG_NML06_REPORT_02_03]
-[s]Vou relatar isso ao gerente para que ela[n]aperte nossa segurança![n][f 1 2 65535][e]
+[s]Vou me reportar à[n]diretora para ela reforçar[n]a vigilância![n][f 1 2 65535][e]
 
 [msg MSG_NML06_REPORT_02_04]
-[s]Isso é imperdoável![n]Vou denunciá-lo ao gerente![n][f 1 2 65535][e]
+[s]Isso é imperdoável![n]Vou denunciar[n]ao diretor imediatamente![n][f 1 2 65535][e]
 
 [msg MSG_NML06_REPORT_02_05]
-[s]Eu-eu devo relatar isso ao gerente de uma só[n]vez![n][f 1 2 65535][e]
+[s]D-Preciso reportar[n]ao diretor imediatamente![n][f 1 2 65535][e]
 
 [msg MSG_STG01_MNLG_GUARD_02_]
 [s]......[n][f 1 2 65535][e]
@@ -344,77 +344,77 @@
 [s]......[n][f 1 2 65535][e]
 
 [msg MSG_STG01_MNLG_DEFEND_02]
-[s]Gerente! Existem convidados problemáticos[n]aqui![n][f 1 2 65535][e]
+[s]Diretor! Há[n]convidados problemáticos aqui![n][f 1 2 65535][e]
 
 [msg MSG_STG01_MNLG_DEFEND_02_2]
-[s]Convidados estranhos avistados![n]Por favor, aumente a segurança![n][f 1 2 65535][e]
+[s]Hóspedes suspeitos avistados![n]Aumentar a vigilância![n][f 1 2 65535][e]
 
 [msg MSG_STG01_MNLG_DEFEND_02_3]
-[s]Existem alguns alvos problemáticos aqui! Por[n]favor, me dê alguns pedidos, gerente![n][f 1 2 65535][e]
+[s]Existem[n]alvos problemáticos aqui! Aguardo[n]ordens, diretor![n][f 1 2 65535][e]
 
 [msg MSG_STG01_MNLG_DEFEND_02_4]
-[s]Pessoas suspeitas encontradas![n]Por favor, aperte a segurança![n][f 1 2 65535][e]
+[s]Indivíduos suspeitos avistados![n]Reforce a segurança![n][f 1 2 65535][e]
 
 [msg MSG_STG01_MNLG_DEFEND_02_5]
-[s]Algumas pessoas estranhas estão causando[n]problemas aqui![n]Vamos aumentar a segurança![n][f 1 2 65535][e]
+[s]Alguns indivíduos estão[n]causando problemas aqui![n]Vamos aumentar a segurança![n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_FREE_02_0]
-[s]*suspiro* Estou meio cansado.[n][f 1 2 65535][e]
+[s]*suspiro* Tão cansado...[n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_FREE_02_0_2]
-[s]Todo o estresse desaparecerá da minha vida[n]assim que eu pegar esses intrusos![n][f 1 2 65535][e]
+[s]Todo esse estresse[n]vai acabar quando eu[n]pegar os intrusos![n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_FREE_02_0_3]
-[s]Eu posso sentir os olhos lascivos das[n]pessoas em mim...[n][f 1 2 65535][e]
+[s]Eu sinto[n]olhos das pessoas sempre em mim...[n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_FREE_02_0_4]
-[s]Esses intrusos precisam ser crianças idiotas[n]ou carecas. Bruto![n][f 1 2 65535][e]
+[s]Esses intrusos não devem ser crianças estúpidas[n]ou velhos sem pelos. Isso é péssimo![n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_FREE_02_0_5]
-[s]O gerente me dará um aumento totalmente[n]quando eu pegar esses intrusos![n][f 1 2 65535][e]
+[s]A gerente[n]com certeza vai me dar um aumento[n]se eu pegar os intrusos![n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_FREE_02_0_6]
-[s]Ugh... isso é uma drag...[n][f 1 2 65535][e]
+[s]Ugh... Dor[n]bolas...[n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_FREE_02_0_7]
-[s]Devo apenas pegar esses intrusos?[n]Eu posso matá-los, certo?[n][f 1 2 65535][e]
+[s]Eu só tenho que pegá-los,[n]esses intrusos?[n]eu posso matá-los, certo?[n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_FREE_02_0_8]
-[s]Como você se atreve a brincar com mais[n]trabalho para mim![n]Droga![n][f 1 2 65535][e]
+[s]Seus idiotas, como ousam[n]tornar minha vida difícil?[n]Droga![n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_FREE_02_0_9]
-[s]Ughhh, minha meia foi presa...[n][f 1 2 65535][e]
+[s]Ughhh, minhas[n]meias de tricô...[n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_FREE_02_1]
-[s]Vou atendê-los tão bem, o puro êxtase vai[n]matá-los...[n][f 1 2 65535][e]
+[s]Eu cuidarei deles,[n]e o prazer que eu lhes der[n]irá matá-los...[n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_FREE_02_1_2]
-[s]OWWW! Eu acho que meus calcanhares estão um[n]pouco altos demais...[n][f 1 2 65535][e]
+[s]Owww! Acho que meus saltos[n]são muito altos...[n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_FREE_02_1_3]
-[s]Eles vão me implorar de joelhos e joelhos...[n]mas nunca vou perdoá-los.[n][f 1 2 65535][e]
+[s]Eles vão me implorar de joelhos... mas eu nunca[n]vou perdoá-los.[n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_FREE_02_1_4]
-[s]O que era aquele som!?[n]Isso é tão estressante...[n][f 1 2 65535][e]
+[s]O-o que foi isso?[n]Ah, que estresse...[n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_FREE_02_1_5]
-[s]Existem realmente intrusos aqui? Aposto que[n]todo mundo é todo paranóico por nada.[n][f 1 2 65535][e]
+[s]Existem realmente[n]intrusos aqui? Aposto que[n]eles são todos apenas paranóicos.[n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_FREE_02_1_6]
-[s]Punir as pessoas apenas me enche com o maior[n]prazer imaginável...[n][f 1 2 65535][e]
+[s]Punir as pessoas[n]me dá o maior[n]prazer de todos...[n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_FREE_02_1_7]
-[s]Oh, intrusos! Estou bem aqui esperando por[n]você![n][f 1 2 65535][e]
+[s]Oh, intrusos! Estou aqui[n]esperando por você![n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_FREE_02_1_8]
-[s]Huh? Não há ninguém aqui![n]Se você vai entrar, apenas entre... Nossa...[n][f 1 2 65535][e]
+[s]Hã? Não tem ninguém aqui![n]Se você tem que aparecer,[n]se apresse... Foda-se...[n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_FREE_02_1_9]
-[s]Oh porcaria, minha maquiagem está[n]correndo... ughhh, eu vou matá-los![n][f 1 2 65535][e]
+[s]Ah Merda! Minha[n]maquiagem está pingando... Ughhh,[n]eu vou matar eles![n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_FREE_02_1_10]
-[s]O que é um bom castigo?[n]Talvez eu os faça obedecer no corpo e na[n]mente...[n][f 1 2 65535][e]
+[s]Um bom castigo?[n]Talvez eu subjugue sua[n]mente e corpo...[n][f 1 2 65535][e]
 
 [msg MSG_NML06_MNLG_FREE_02_2]
-[s]Eu gostaria de poder ser tão frio e cruel[n]quanto o gerente.[n][f 1 2 65535][e]
+[s]Talvez seja frio e[n]cruel como o diretor.[n][f 1 2 65535][e]
 

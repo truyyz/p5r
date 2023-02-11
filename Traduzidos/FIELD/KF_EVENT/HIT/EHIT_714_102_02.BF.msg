@@ -1,25 +1,25 @@
 [sel YESNO_SEL top]
-[s]Sim [e]
-[s]Não [e]
+[s]Sim[e]
+[s]Não[e]
 
 [msg MSG_TEST_800]
-[s]Para 3f Wing East [n][w][e]
+[s]Na Asa Leste 3P[n][w][e]
 
 [msg MSG_TEST_801]
-[s]To 2nd Floor (Courtyard Stairs)[n][w][e]
+[s]Al 2° piano (Scale del cortile)[n][w][e]
 
 [msg MSG_TEST_802]
-[s]To Rooftop Landing (Courtyard Stairs)[n][w][e]
+[s]Al pianerottolo del tetto (Scale del cortile)[n][w][e]
 
 [msg MSG_TEST_803]
-[s]To 2nd Floor (Courtyard Stairs)[n][w][e]
+[s]Al 2° piano (Scale del cortile)[n][w][e]
 
 [msg MSG_TEST_804]
-[s]Vá para o telhado [n][w][e]
+[s]Vá para o telhado[n][w][e]
 
 [msg MSG_TEST_805]
-[s]Para o 3 andar da terra do telhado [n][w][e]
+[s]Al 3° piano[n]dal pianerottolo tetto[n][w][e]
 
 [msg MND_NEED_FLAG]
-[s]O telhado já passou aqui, mas não tenho[n]nenhum motivo para ir lá agora.[n][w][e]
+[s]O telhado está além deste ponto,[n]mas no momento não tenho[n]razão para ir até lá.[n][w][e]
 

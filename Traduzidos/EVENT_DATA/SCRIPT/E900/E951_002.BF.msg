@@ -1,61 +1,61 @@
 [msg MSG_PC_01]
-[s]Macarrão... sopa... tudo está em harmonia...![n][w][e]
-[s]Sinto que ganhei "classe" ao vê-los alcançar[n]as alturas...![n][w][e]
+[s]O macarrão...a sopa...[n]É uma harmonia perfeita...![n][w][e]
+[s]Sinto que adquiri[n]mais "classe", usufruindo[n]destes patamares de excelência...![n][w][e]
 
 [msg MSG_RYUJI_001 [Ryuji]]
-[s]Mmm... yum...[n][w][e]
-[s]Eu não esperava nada menos de um lugar que[n]se destaque para o ramen. É um gosto que[n]essas outras lojas médias não puderam[n]replicar.[n][w][e]
-[s]É super popular, mas ficou de férias por um[n]longo tempo.[n][w][e]
-[s]Eles começaram novamente recentemente,[n]mas... eu me pergunto por quê?[n][w][e]
+[s]Hum... hum...[n][w][e]
+[s]Eu não esperava nada menos,[n]de um lugar tão famoso por seu[n]ramen. Realmente não tem comparação.[n][w][e]
+[s]É muito popular, mas está fechado há um bom tempo.[n][w][e]
+[s]Reabriu recentemente...[n]Sabe-se lá porquê.[n][w][e]
 
-[msg MSG_NPC_01 [Foodie Customer]]
-[s]Mmm, este é o sabor! Eu tenho que ter isso[n]uma vez por mês.[n][w][e]
-[s]Fiquei decepcionado quando eles fecharam[n]temporariamente, então estou feliz que eles[n]voltem a voltar![n][w][e]
-[s]Tudo isso é graças à Shujin Academy![n][w][e]
+[msg MSG_NPC_01 [Cliente buongustaio]]
+[s]Isso é bom! Eu deveria[n]vir aqui pelo menos uma vez por mês.[n][w][e]
+[s]Fiquei triste com esse[n]fechamento temporário. Estou muito[n]feliz por eles terem reaberto![n][w][e]
+[s]E tudo graças à Shujin Academy![n][w][e]
 
-[msg MSG_NPC_02 [Mellow Customer]]
-[s]Huh...? Por que Shujin?[n][w][e]
+[msg MSG_NPC_02 [Cliente pacato]]
+[s]Huh...? O que Shujin tem a ver com isso?[n][w][e]
 
-[msg MSG_NPC_03 [Foodie Customer]]
-[s]Bem, o proprietário decidiu tentar novamente[n]quando viu Kamoshida de Shujin...[n][w][e]
-[s]Ele ficou emocionado quando o viu[n]confessando seus crimes sem fugir.[n][w][e]
+[msg MSG_NPC_03 [Cliente buongustaio]]
+[s]Bem, o proprietário decidiu[n]tentar novamente quando viu[n]aquele Kamoshida de Shujin...[n][w][e]
+[s]Sentiu-se inspirado, quando[n]o o viu confessar seus crimes com[n]coragem, sem fugir.[n][w][e]
 
-[msg MSG_NPC_04 [Mellow Customer]]
-[s]Hmm, isso é interessante...[n][w][e]
+[msg MSG_NPC_04 [Cliente pacato]]
+[s]Hmm interessante...[n][w][e]
 
 [msg MSG_PC_02]
-[s]Parece que o incidente está afetando as[n]pessoas de maneiras inesperadas...[n][w][e]
+[s]Parece que esse incidente[n]afetou as pessoas[n]de formas inesperadas...[n][w][e]
 
 [msg MSG_RYUJI_002 [Ryuji]]
-[s]... Kamoshida? Você quer dizer, obrigado.[n][w][e]
+[s]...Kamoshida?[n]Quero dizer, graças a nós, então.[n][w][e]
 
 [msg MSG_RYUJI_003 [Ryuji]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 0 1009 0]Hehe... mas é bom.[n]É como se nossas atividades estivessem sendo[n]apreciadas/comprovadas.[n][w][e]
-[s]Este ramen também é bom.[n][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 0 1009 0]Eheh... Mas é bom saber[n]que o que fazemos[n]é apreciado.[n][w][e]
+[s]E então este ramen[n]é muito bom.[n][w][e]
 
 [msg MSG_RYUJI_004 [Ryuji]]
-[s]Você pensa também, certo?[n][w][e]
+[s]Você também acha, certo?[n][w][e]
 
 [sel MSG_SEL000 top]
-[s]Nada mal [e]
-[s]Este ramen é bom [e]
+[s]Nada mal.[e]
+[s]Sim, é um ótimo ramen.[e]
 
 [msg MSG_RYUJI_005 [Ryuji]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 0 1009 0]Heh, não seja tímido, líder.[n][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 0 1009 0]Vamos, líderes, não sejam tímidos.[n][w][e]
 
 [msg MSG_RYUJI_006 [Ryuji]]
-[s]Isso não foi o que eu quis dizer.[n]Você está sendo tímido?[n][w][e]
+[s]Não foi isso que eu quis dizer.[n]Você está sendo tímido?[n][w][e]
 
 [msg MSG_RYUJI_007 [Ryuji]]
-[s]Acho que nos concentraremos no ramen na[n]nossa frente...![n][w][e]
+[s]Bem, vamos nos concentrar[n]neste ramen...![n][w][e]
 
 [msg MSG_PC_03]
-[s]Eu bebi toda a sopa também porque era tão[n]bom...[n][w][e]
+[s]E também bebi a sopa[n]até a última gota.[n]Estava bom demais...[n][w][e]
 
 [msg MSG_RYUJI_008 [Ryuji]]
-[s]Ufa, estou satisfeito![n][w][e]
-[s]Vamos para Shibuya, eu quero sair um pouco[n]mais![n][w][e]
+[s]Fiuuu, agora estou cheia![n][w][e]
+[s]Vamos para Shibuya, eu quero[n]ficar um pouco mais![n][w][e]
 
 [msg MSG_PC_04]
-[s]Fui para Shibuya com Ryuji...[n][w][e]
+[s]Eu fui até Shibuya[n]com Ryuji...[n][w][e]
 

@@ -1,55 +1,55 @@
 [sel YESNO_SEL top]
-[s]Sim [e]
-[s]Não [e]
+[s]Sim[e]
+[s]Não[e]
 
-[msg MSG_141_307_00 [Scared Female Student]]
-[s][f 4 23 1 800 3 10 0 0][vp 8 2 1 0 800 0]Eu vi aquele novo aluno transferido saindo[n]com Sakamoto-kun.[n]Os dois são tão assustadores...[n][w][e]
+[msg MSG_141_307_00 [Studentessa spaventata]]
+[s][f 4 23 1 800 3 10 0 0][vp 8 2 1 0 800 0]Eu vi o novo aluno[n]junto com Sakamoto-kun.[n]Esses dois me assustam...[n][w][e]
 
-[msg MSG_141_307_01 [Female Student Heading Home]]
-[s][f 4 23 1 801 3 10 0 0][vp 8 2 1 0 801 0]Ele não se parece com o tipo de cara que[n]teria um registro criminal.[n]Talvez ele seja um desses?[n][w][e]
-[s][vp 8 2 1 0 801 0]Você sabe, as pessoas nesses acidentes.[n]Talvez ele de repente assuste e ataca as[n]pessoas.[n][w][e]
+[msg MSG_141_307_01 [Studentessa di ritorno verso casa]]
+[s][f 4 23 1 801 3 10 0 0][vp 8 2 1 0 801 0]Ele não se parece com alguém com[n]ficha criminal.[n]... Ele poderia ser um deles?[n][w][e]
+[s][vp 8 2 1 0 801 0]Dos envolvidos nos acidentes, quero dizer. Talvez[n]ele enlouqueça e fique violento de repente.[n][w][e]
 
-[msg MSG_141_307_02 [Scared Female Student]]
-[s][f 4 23 1 800 3 10 0 0][vp 8 2 1 0 800 0]Huh? Eu não acho. Ele está chegando à[n]escola. Na verdade, ele quase parece normal.[n][w][e]
-[s][vp 8 2 1 0 800 0]E pelo que ouço, depois de ter um colapso[n]psicótico, você fica com o cérebro e morre[n]ali.[n][w][e]
+[msg MSG_141_307_02 [Studentessa spaventata]]
+[s][f 4 23 1 800 3 10 0 0][vp 8 2 1 0 800 0]Huh? Eu não acredito. Ele vem para a escola,[n]quieto...[n]Ele parece bastante normal mesmo.[n][w][e]
+[s][vp 8 2 1 0 800 0]E então, se bem entendi, o[n]raptus é seguido pela morte cerebral[n]e depois pela morte real.[n][w][e]
 
-[msg MSG_141_307_03 [Scared Female Student]]
-[s][f 4 23 1 800 3 10 0 0][vp 8 2 1 0 800 0]Ele não vai atacar ninguém na escola, não é?[n]Alguém me disse que esconde facas em suas[n]roupas...[n][w][e]
+[msg MSG_141_307_03 [Studentessa spaventata]]
+[s][f 4 23 1 800 3 10 0 0][vp 8 2 1 0 800 0]Ele não vai atacar ninguém na escola,[n]ele vai? Não sei quem me disse que[n]anda com uma faca...[n][w][e]
 
-[msg MSG_141_307_04 [Female Student Heading Home]]
-[s][f 4 23 1 801 3 10 0 0][vp 8 2 1 0 801 0]Provavelmente é mais seguro não se aproximar[n]dele. Já há coisas estranhas demais[n]acontecendo ultimamente.[n][w][e]
+[msg MSG_141_307_04 [Studentessa di ritorno verso casa]]
+[s][f 4 23 1 801 3 10 0 0][vp 8 2 1 0 801 0]Provavelmente é melhor ficar[n]longe dele. Muitas coisas[n]estranhas estão acontecendo ultimamente.[n][w][e]
 
-[msg MSG_141_307_05 [Shujin Student Heading Home]]
-[s][f 4 23 1 802 3 10 0 0][vp 8 2 1 0 802 0]Sakamoto está fazendo perguntas sobre o time[n]de vôlei. Quem ele acha que é?[n][w][e]
+[msg MSG_141_307_05 [Studente della Shujin che va a casa]]
+[s][f 4 23 1 802 3 10 0 0][vp 8 2 1 0 802 0]Sakamoto sai por aí fazendo[n]perguntas sobre o[n]time de vôlei. Quem ele pensa que é?[n][w][e]
 
-[msg MSG_141_307_06 [Carefree Shujin Student]]
-[s][f 4 23 1 803 3 10 0 0][vp 8 2 1 0 803 0]O time de vôlei nunca vai contar nada a ele.[n]Eles são todos completamente leais a[n]Kamoshida.[n][w][e]
+[msg MSG_141_307_06 [Studente della Shujin spensierato]]
+[s][f 4 23 1 803 3 10 0 0][vp 8 2 1 0 803 0]Os membros da equipe nunca contarão nada a ele.[n]Eles são todos cegamente leais a Kamoshida.[n][w][e]
 
-[msg MSG_141_307_07 [Shujin Student Heading Home]]
-[s][f 4 23 1 802 3 10 0 0][vp 8 2 1 0 802 0]Bem, se Kamoshida gosta deles, seu futuro é[n]praticamente definido.[n]Claro que eles o apoiariam.[n][w][e]
-[s][vp 8 2 1 0 802 0]Falando nisso, ouço a nova garota favorita[n]de Kamoshida é alguém chamado Suzui.[n][w][e]
+[msg MSG_141_307_07 [Studente della Shujin che va a casa]]
+[s][f 4 23 1 802 3 10 0 0][vp 8 2 1 0 802 0]Bem, quem está em suas boas graças tem um futuro[n]garantido rosa. Claro que eles estão do lado[n]dele.[n][w][e]
+[s][vp 8 2 1 0 802 0]A propósito, ouvi dizer que[n]a nova favorita de Kamoshida[n]é uma garota chamada Suzui.[n][w][e]
 
-[msg MSG_141_307_08 [Carefree Shujin Student]]
-[s][f 4 23 1 803 3 10 0 0][vp 8 2 1 0 803 0]Oh, a garota que foi escolhida para ser[n]regular? Ah, seu rosto estava todo inchado.[n]Parecia muito ruim.[n][w][e]
+[msg MSG_141_307_08 [Studente della Shujin spensierato]]
+[s][f 4 23 1 803 3 10 0 0][vp 8 2 1 0 803 0]Ah, aquele que escolheu como dono? Seu rosto[n]inchado. História ruim.[n][w][e]
 
-[msg MSG_141_307_09 [Shujin Student Heading Home]]
-[s][f 4 23 1 802 3 10 0 0][vp 8 2 1 0 802 0]Sim, aquela garota Suzui parecia realmente[n]deprimida para alguém que está tão perto de[n]um local comum.[n][w][e]
+[msg MSG_141_307_09 [Studente della Shujin che va a casa]]
+[s][f 4 23 1 802 3 10 0 0][vp 8 2 1 0 802 0]Já. Ela parece bastante deprimida[n]para alguém tão perto de ter[n]um lugar permanente em campo.[n][w][e]
 
-[msg MSG_141_307_10 [Carefree Shujin Student]]
-[s][f 4 23 1 803 3 10 0 0][vp 8 2 1 0 803 0]Ela provavelmente está apenas deixando toda[n]a pressão chegar até ela. Bem, nós[n]realmente não a conhecemos, então...[n][w][e]
+[msg MSG_141_307_10 [Studente della Shujin spensierato]]
+[s][f 4 23 1 803 3 10 0 0][vp 8 2 1 0 803 0]Ele provavelmente sofre[n]a pressão. Enfim,[n]nós não a conhecemos muito bem, então...[n][w][e]
 
-[msg MSG_141_307_11 [Gossipy Female Student]]
-[s][f 4 23 1 804 3 10 0 0][vp 8 2 1 0 804 0]Takamaki sempre parece infeliz sempre que o[n]Sr. Kamoshida fala com ela.[n][w][e]
+[msg MSG_141_307_11 [Studentessa pettegola]]
+[s][f 4 23 1 804 3 10 0 0][vp 8 2 1 0 804 0]Takamaki sempre parece triste quando o Prof.[n]Kamoshida fala com ela.[n][w][e]
 
-[msg MSG_141_307_12 [Rude Female Student]]
-[s][f 4 23 1 805 3 10 0 0][vp 8 2 1 0 805 0]Talvez ela não queira falar com ele na[n]escola para mostrar como ela o deixou[n]enrolado em seu dedo? Ugh... nojento.[n][w][e]
+[msg MSG_141_307_12 [Studentessa sgarbata]]
+[s][f 4 23 1 805 3 10 0 0][vp 8 2 1 0 805 0]Talvez ela queira jogar atrás[n]e mostrar a todos que ela é a única a[n]segurá-lo. Nossa, nojento.[n][w][e]
 
-[msg MSG_141_307_13 [Gossipy Female Student]]
-[s][f 4 23 1 804 3 10 0 0][vp 8 2 1 0 804 0]Oh, então é isso que está acontecendo... eu[n]me pergunto até onde eles foram juntos...?[n][w][e]
+[msg MSG_141_307_13 [Studentessa pettegola]]
+[s][f 4 23 1 804 3 10 0 0][vp 8 2 1 0 804 0]Ah, então é assim que funciona...[n]Quem sabe... até onde[n]eles foram...[n][w][e]
 
-[msg MSG_141_307_14 [Gossipy Female Student]]
-[s][f 4 23 1 804 3 10 0 0][vp 8 2 1 0 804 0]Uau, um relacionamento professor-aluno?[n]Provavelmente seria ruim se isso saísse.[n][w][e]
+[msg MSG_141_307_14 [Studentessa pettegola]]
+[s][f 4 23 1 804 3 10 0 0][vp 8 2 1 0 804 0]Uau, uma relação entre um professor e um aluno,[n]hein? Seria ruim se isso se tornasse conhecido.[n][w][e]
 
-[msg MSG_141_307_15 [Rude Female Student]]
-[s][f 4 23 1 805 3 10 0 0][vp 8 2 1 0 805 0]Aposto que eles ainda funcionariam se isso[n]acontecesse. Eles não estariam juntos de[n]outra forma.[n][w][e]
+[msg MSG_141_307_15 [Studentessa sgarbata]]
+[s][f 4 23 1 805 3 10 0 0][vp 8 2 1 0 805 0]Aposto que eles iriam se safar de qualquer[n]maneira. Caso contrário, eles não seriam mesmo[n]juntos.[n][w][e]
 

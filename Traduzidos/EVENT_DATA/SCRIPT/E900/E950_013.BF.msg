@@ -2,61 +2,61 @@
 [s]スクリプトから発行した[n]メッセージです。[n][w][e]
 
 [msg MSG_000_0_0]
-[s]Eu também tenho testes amanhã. Eu deveria[n]estudar hoje...[n][w][e]
+[s]Eu também tenho provas amanhã.[n]Hoje eu deveria estudar...[n][w][e]
 [s]......?[n][w][e]
 
 [msg MSG_000_5_0 [Ann]]
-[s]Oi, estou entrando.[n][w][e]
+[s]Olá, aqui estou eu.[n][w][e]
 
 [sel SEL_000_5_0 top]
-[s]E aí?[e]
-[s]Deve ser a vez de Ann hoje.[e]
+[s]Como vai?[e]
+[s]Ah, hoje é a vez da Ann...[e]
 
 [msg MSG_000_5_1 [Ann]]
-[s]Desculpe por aparecer sem avisá-lo. Eu[n]estava por perto, então pensei em dizer oi.[n][w][e]
+[s]Desculpe por este improviso.[n]Eu estava passando e pensei[n]em vir e dizer olá.[n][w][e]
 
 [msg MSG_000_5_2 [Ann]]
-[s]Huh? O que isto quer dizer?[n][w][e]
+[s]Huh? E isso[n]o que significa?[n][w][e]
 
 [msg MSG_000_5_3 [Ann]]
-[s]... Eu não disse outro dia?[n]Vou trazer para você algo que não estou mais[n]usando.[n][w][e]
-[s]it might not match your décor...[n][w][e]
+[s]...Eu já não te disse?[n]Eu queria trazer para você algo[n]que não uso mais.[n][w][e]
+[s]Era um "Pegue um, compre um",[n]então em todo caso... Mas é rosa,[n]não sei se combina com sua decoração.[n][w][e]
 
 [msg MND_000_5_9]
-[s]Era um BOGO, então eu trouxe para você o[n]outro. É rosa, então Ann trouxe uma bolsa[n]bastante grande...[n][w][e]
-[s]É... uma bola de exercícios! Eu ouvi esses[n]treinar o núcleo...[n][w][e]
-[s]Eu obtive um [clr 2]bola de exercício [clr 27][n]de Ann.[n][w][e]
+[s]Ann tirou algo[n]de um grande saco...[n][w][e]
+[s]É... uma bola de exercício![n]Ouvi dizer que serve[n]para treinar a zona abdominal...[n][w][e]
+[s]Ann me deu[n]uma [clr 2]bola de ginástica[clr 27].[n][w][e]
 
 [msg MSG_001_0_0 [Ann]]
-[s]Então, você está ocupado agora?[n][w][e]
-[s]Os testes de amanhã são sobre japoneses[n]modernos, literatura antiga e literatura[n]chinesa clássica?[n][w][e]
-[s]Meus piores assuntos... Espero que você[n]possa me dar um curso intensivo. Parece bom?[n][w][e]
+[s]Então você está ocupado?[n][w][e]
+[s]Amanhã[n]as matérias do exame são Japonês Moderno,[n]Literatura Antiga e Literatura Chinesa, certo?[n][w][e]
+[s]As matérias que eu mais odeio...[n]Espero que você possa me dar um[n]curso intensivo. O que você diz?[n][w][e]
 
 [msg MSG_002_0_0]
-[s]Eu decidi estudar com Ann...[n][w][e]
+[s]Resolvi estudar com a Anne...[n][w][e]
 
 [msg MSG_003_0_0 [Ann]]
-[s]Ugh... eu não posso... sinto que meu cérebro[n]vai explodir...[n][w][e]
-[s]Como eu leio isso? Às vezes, as frases[n]começam na frente e às vezes por trás...[n][w][e]
+[s]Ugh... eu não aguento...[n]Meu cérebro está explodindo...[n][w][e]
+[s]Como devo ler essas coisas?[n]Às vezes deve ser lido de uma maneira,[n]às vezes de outra...[n][w][e]
 
 [sel SEL_004_0_0 top]
-[s]Eu sei o que você quer dizer.[e]
-[s]É uma diferença de cultura.[e]
+[s]Eu entendo você.[e]
+[s]É uma diferença cultural.[e]
 
 [msg MSG_005_0_0 [Ann]]
-[s]Sim... eu gostaria que eles decidissem em[n]que direção eles queriam ser lidos.[n][w][e]
+[s]Sim... eu só queria que[n]eles todos decidissem adotar[n]o mesmo método.[n][w][e]
 
 [msg MSG_006_0_0 [Ann]]
-[s]Sim, mas... por que nossas culturas são tão[n]diferentes?[n][w][e]
+[s]Sim, mas... Por que nossas[n]culturas são tão diferentes?[n][w][e]
 
 [msg MSG_007_0_0 [Ann]]
-[s]Você sabe, às vezes é péssimo ser[n]diferente...[n]Então você é escolhido...[n][w][e]
+[s]Sabe, às vezes não é legal ser[n]tão diferente... Acontece também que[n]eles tiram sarro de você, por isso...[n][w][e]
 [s]......[n][w][e]
-[s]Mas seria horrível se todos nós fossemos[n]como Ryuji. É bom que haja uma variedade de[n]personalidades.[n][w][e]
+[s]Mas seria ainda pior,[n]se fôssemos todos como Ryuji. É bom[n]que haja alguma variedade.[n][w][e]
 
 [msg MSG_008_0_0]
-[s]Eu sinto que ganhei [clr 1]Conhecimento [clr 27][n]de estudar com Ann...[n][w][e]
+[s]Sinto que ganhei mais[n][clr 1]Conhecimento[clr 27] estudando com Ann...[n][w][e]
 
 [msg MSG_009_0_0]
-[s]Vou trabalhar duro nos testes amanhã[n]também...[n][w][e]
+[s]Eu também farei o meu melhor[n]com os exames de amanhã...[n][w][e]
 

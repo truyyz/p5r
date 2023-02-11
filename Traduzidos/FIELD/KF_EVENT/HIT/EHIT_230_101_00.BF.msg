@@ -1,33 +1,33 @@
 [sel YESNO_SEL top]
-[s]Sim [e]
-[s]Não [e]
+[s]Sim[e]
+[s]Não[e]
 
 [msg MND_CO_INFO]
-[s][vp 1 0 0 0 0 0]Minha casa não é assim.[n]Eu deveria correr para casa...[n][w][e]
+[s][vp 1 0 0 0 0 0]Minha casa não é daqui.[n]Eu deveria me apressar e voltar...[n][w][e]
 
 [msg MND_HELP_LDAY_CALL]
-[s][vp 8 2 65535 21 0 0]Eu posso ouvir um homem e uma mulher[n]discutindo à distância...[n][w][e]
+[s][vp 8 2 65535 21 0 0]Eu ouço um homem e uma mulher discutindo à[n]distância...[n][w][e]
 
 [msg MND_HELP_LDAY_CALL_2]
-[s][vp 8 2 65535 0 0 0]Eu acho que eles estão logo à frente...[n][w][e]
+[s][vp 8 2 65535 0 0 0]Eu acho que eles estão um pouco à frente...[n][w][e]
 
-[msg MSG_E23010100_001_00 [Struggling Woman]]
+[msg MSG_E23010100_001_00 [mulher em perigo]]
 [s][vp 8 0 1 12 851 0]Não...![n][w][e]
 
-[msg MSG_E23010100_002_00 [Drunk Man]]
-[s][vp 8 0 1 25 65535 0]Não me dê essa merda...[n][w][e]
+[msg MSG_E23010100_002_00 [homem bêbado]]
+[s][vp 8 0 1 25 65535 0]Não brinque comigo...[n][w][e]
 
 [msg MND_E23010100_003_00]
-[s][vp 8 2 65535 0 0 0]Parece que aquele homem bêbado está[n]incomodando aquela mulher...[n][w][e]
+[s][vp 8 2 65535 0 0 0]Parece que um bêbado está incomodando aquela[n]mulher...[n][w][e]
 
-[msg MSG_E23010100_004_00 [Struggling Woman]]
-[s][vp 8 0 1 18 851 0]Ow! P-por favor, pare...![n][w][e]
+[msg MSG_E23010100_004_00 [mulher em perigo]]
+[s][vp 8 0 1 18 851 0]Ei! P-pare, por favor![n][w][e]
 
 [msg MND_E23010100_005_00]
 [s][vp 8 2 65535 0 0 0]Ela está em perigo...[n][w][e]
 
 [sel SEL_E23010100_006_00 top]
-[s]Eu não posso ignorar isso.[e]
+[s]Eu não posso ignorá-la.[e]
 [s]Eu tenho que salvá-la.[e]
 
 [msg MSG_KFEVT_000_OLD [酔っ払った男性]]

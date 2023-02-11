@@ -2,7 +2,7 @@
 [s]......[n][w][e]
 
 [msg MND_PHONE_NG_000_00]
-[s]Eu não tenho novas mensagens.[n][w][e]
+[s]Não tenho novas mensagens.[n][w][e]
 
 [msg MSG_TEST_FLD]
 [s]フィールド中□メニュー呼び出し。[n][w][e]
@@ -11,7 +11,7 @@
 [s]ダンジョン中□メニュー呼び出し。[n][w][e]
 
 [msg MSG_TEST_CELLPHONE_000]
-[s]Parece que não há uma nova Informação sobre quem[n]pode ter um palácio...[n][w][e]
+[s]Não há notícias sobre possíveis[n]novos senhores dos Palácios...[n][w][e]
 
 [msg MSG_TEST_CELLPHONE_001 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0]そうそうすぐにパレスを持ったヤツが[n]見つかるわけないにゃ。[n][w][e]
@@ -20,98 +20,98 @@
 [msg MSG_TEST_CELLPHONE_002 [Ryuji]]
 [s][f 5 14]そっち情報なんか見っかったか?[n][w][e]
 
-[msg HELP_MEMENTOS_MISSION_04 [Mission Occurrence!]]
-[s][clr 4]Memento Informação ganhou [clr 27][n]Agora você pode enviar um cartão de chamada[n]do [n][clr 2]esconderijo [clr 27]. Às vezes você ganha a Informação do seu [clr 3]companheiros de equipe [clr 27]assim.[n][w][e]
+[msg HELP_MEMENTOS_MISSION_04 [Missione disponibile!]]
+[s][clr 4]Informações de lembrança recebidas[clr 27][n]Agora você pode enviar uma carta de aviso[n]do [clr 2]Haunt[clr 27]. Às vezes, você obterá[n]informações de seus [clr 3]colegas[clr 27] dessa maneira.[n][w][e]
 
 [msg MSG_SPOT_AFTERNOON_ERROR]
-[s]Eu deveria ir até os portões de ingressos[n]por enquanto...[n][w][e]
+[s]Por enquanto, devo ir para as catracas...[n][w][e]
 
 [msg MSG_SPOT_NIGHT_ERROR]
-[s]Estou me sentindo muito cansado.[n]Eu deveria dormir...[n][w][e]
+[s]Estou muito cansado.[n]Devo ir para a cama...[n][w][e]
 
 [msg MSG_IN_KF_EVENT]
-[s]Agora não é a hora de ir para outro lugar.[n][w][e]
+[s]Este não é o momento para dar uma volta.[n][w][e]
 
 [msg MSG_IN_KF_EVENT_MORU [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Agora não é hora de ir para outro lugar.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Não é hora de[n]ir passear.[n][w][e]
 
 [msg MSG_NG_ROJIURA_OUT [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0]A cidade é perigosa à noite![n]Você precisará de um coração que não será[n]abalado por nada.[n][w][e]
-[s][f 4 10 65535 0 0]Se você quiser andar pela cidade à noite,[n]sugiro que você tenha o suficiente [n][f 4 11 3][clr 26][f 4 12 3][clr 27]Ter [clr 1]nervos de aço [clr 27].[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0]A cidade é perigosa nas[n]noites! Você deve ter uma alma[n]que não se deixa intimidar.[n][w][e]
+[s][f 4 10 65535 0 0]Para fazer uma caminhada noturna, você precisará[n]dos [f 4 11 3][clr 26][f 4 12 3][clr 27][n]necessários para ter [clr 1]nervos de aço[n][clr  27].[n][w][e]
 
 [msg MSG_NG_GO_OUT [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Tenho certeza que você está exausto.[n]Vamos apenas dormir.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Você certamente ficará exausto.[n]Vamos para a cama.[n][w][e]
 
 [msg MSG_GO_OUT_FRIEND [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Você realmente quer sair enquanto tem um[n]amigo?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Você realmente quer sair enquanto tem um amigo em[n]casa?[n][w][e]
 
 [sel SEL_GO_OUT_FRIEND top]
-[s]Saia [e]
-[s]Cancelar [e]
+[s]Você sai[e]
+[s]Cancelar[e]
 
 [msg MND_CHK_DOOR_playroom]
-[s]Meu companheiro de equipe veio sair para[n]fora...[n][w][e]
+[s]Meu parceiro está aqui para passar um tempo[n]comigo...[n][w][e]
 
 [sel SEL_PC_PLAYROOM_CHK top]
-[s]Saia [e]
-[s]Fique em casa [e]
+[s]Você sai[e]
+[s]Ficar em casa[e]
 
 [msg MND_MAIL_NG]
-[s]Estou muito cansado hoje. Eu deveria sair[n]outra vez...[n][w][e]
+[s]Estou muito cansado hoje.[n]Vou sair outra hora...[n][w][e]
 
 [msg MND_NG]
-[s]Agora não é a hora disso...[n][w][e]
+[s]não é a hora...[n][w][e]
 
 [msg MND_SAVE_NG_COMMON]
-[s]Agora não é a hora disso...[n][w][e]
+[s]não é a hora...[n][w][e]
 
 [msg STOP_OUTDOOR_DEFAULT_MOR [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Deveríamos ir para a cama para hoje, ok?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0]É melhor ir para a cama hoje, ok?[n][w][e]
 
 [msg STOP_OUTDOOR_DEFAULT]
-[s]Eu deveria apenas dormir...[n][w][e]
+[s]Eu deveria ir para a cama...[n][w][e]
 
 [msg MSG_GO_DUNGEON_TODAY_MOR [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0]Você não está exausto?[n]Você deveria descançar.[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0]Você não está morto de cansaço?[n]Você deveria descansar.[n][w][e]
 
 [msg MND_GO_DUNGEON_TODAY]
-[s]Estou cansado de ir para o metaverso mais[n]cedo. Eu deveria tentar descansar...[n][w][e]
+[s]Estou cansado de viajar para o[n]Metaverso mais cedo.[n]Preciso descansar...[n][w][e]
 
 [msg MND_GO_SPOT_TODAY]
-[s]Estou cansado de toda a diversão que tive[n]hoje. Eu deveria ir com calma e descansar[n]no meu quarto...[n][w][e]
+[s]Toda a diversão de hoje me deixou exausto. É[n]melhor eu ir descansar no meu quarto.[n][w][e]
 
 [msg MSG_STOP_NO_DEBUG2 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0]日常進行でイベントが発生するÈ[n]キーフリーが出来ない仕様です。[n][w][e]
 
 [msg MSG_QR_HIT]
-[s]Você ocasionalmente descobrirá [clr 2]Códigos QR [clr 27][n]Quando você usa o terceiro olho na cidade.[n][w][e]
-[s]Esses códigos podem ser usados para ganhar[n]pontos para convocar personas no " [n][clr 2]Persona O.A.[clr 27]" inscrição.[n][w][e]
-[s]Há um total de [clr 2]100 [clr 27]Códigos QR encontrados em vários lugares em[n]várias datas, [n][w][e]
-[s]Portanto, tente usar o terceiro olho em toda[n]a cidade para encontrar códigos QR.[n][w][e]
+[s]Ao passear pela cidade, às vezes você[n]descobrirá [clr 2]códigos QR[clr 27][n]usando o Terceiro Olho.[n][w][e]
+[s]Com esses códigos, você obterá pontos para[n]usar na convocação de Personae[n]no aplicativo "[clr 2]PERSONA O.A.[clr 27]".[n][w][e]
+[s]Existem até [clr 2]100[clr 27] códigos QR para escanear[n]em lugares diferentes e em datas diferentes.[n][w][e]
+[s]Portanto, ao explorar a cidade, tente[n]usar o Terceiro Olho para encontrá-los.[n][w][e]
 
 [msg MSG_SAVE_EPISODE_000_00 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 65535 1163 0 0]Mantendo seu diário atualizado, hein?[n]Bem, espero que as opiniões das pessoas de[n]você se virem em breve.[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 65535 1163 0 0]Você atualiza o diário, uh?[n]Bem, espero que as pessoas mudem[n]sua opinião sobre você em breve.[n][w][e]
 
 [msg MSG_SAVE_EPISODE_001_00 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 65535 1025 0 0]Mantendo seu diário atualizado, hein?[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Eu gostaria que fosse muito bom, como[n]cancelar seu registro criminal ou algo[n]assim...[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 65535 1025 0 0]Atualize o diário, hein?[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Espero que traga algo bom,[n]como o cancelamento dos anteriores[n]criminosos ou algo assim...[n][w][e]
 
 [msg MSG_SAVE_EPISODE_002_00 [Morgana]]
-[s][bup 0 3 1 65535 0][f 4 10 65535 0 0][vp 8 2 65535 1187 0 0]Mantendo seu diário atualizado, hein?[n]Inteligente. Talvez um dia você possa usá-lo[n]para provar-se bem em tudo isso...[n][w][e]
+[s][bup 0 3 1 65535 0][f 4 10 65535 0 0][vp 8 2 65535 1187 0 0]Atualize o diário, hein? Bravo.[n]Talvez um dia seja útil[n]para provar sua inocência...[n][w][e]
 
 [msg MSG_SAVE_EPISODE_003_00 [Morgana]]
-[s][bup 0 3 3 65535 0][f 4 10 65535 0 0][vp 8 2 65535 1178 0 0]Mantendo seu diário atualizado, hein?[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Você com certeza conseguiu um acordo bruto[n]em tudo isso, não é?[n][w][e]
+[s][bup 0 3 3 65535 0][f 4 10 65535 0 0][vp 8 2 65535 1178 0 0]Atualize o diário, hein?[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Essa coisa toda foi[n]uma injustiça grosseira, não foi?[n][w][e]
 
 [msg MSG_SAVE_EPISODE_004_00 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 65535 1192 0 0]Mantendo seu diário atualizado, hein?[n][w][e]
-[s][bup 0 3 1 65535 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Você sabe, agora que penso nisso, muito[n]mudou para nós dois, não?[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 65535 1192 0 0]Atualize o diário, hein?[n][w][e]
+[s][bup 0 3 1 65535 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Sabe, agora que penso nisso,[n]as coisas mudaram[n]muito para nós, certo?[n][w][e]
 
 [msg MSG_SAVE_EPISODE_005_00 [Morgana]]
-[s][bup 0 3 3 65535 0][f 4 10 65535 0 0][vp 8 2 65535 1170 0 0]Mantendo seu diário atualizado, hein?[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Eu gostaria que houvesse algo que pudéssemos[n]fazer sobre seu registro criminal...[n][w][e]
+[s][bup 0 3 3 65535 0][f 4 10 65535 0 0][vp 8 2 65535 1170 0 0]Atualize o diário, hein?[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Eu gostaria que pudéssemos fazer algo sobre o seu[n]registro criminal...[n][w][e]
 
 [msg MSG_SAVE_EPISODE_006_00 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 65535 1167 0 0]Mantendo seu diário atualizado, hein?[n][w][e]
-[s][bup 0 3 1 65535 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Pena que não limpa a lousa para você...[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 65535 1167 0 0]Atualize o diário, hein?[n][w][e]
+[s][bup 0 3 1 65535 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Pena que não é o suficiente para[n]resolver sua situação...[n][w][e]
 

@@ -1,23 +1,23 @@
 [sel YESNO_SEL top]
-[s]Sim [e]
-[s]Não [e]
+[s]Sim[e]
+[s]Não[e]
 
 [msg MND_E10920600_Crowd_Yama]
-[s][vp 1 0 0 0 0 0]Os portões de ingressos JL já estão aqui.[n][w][e]
-[s][vp 1 0 0 0 0 0]Eu deveria me transferir para a [clr 2]Linha de ginza [clr 27], no entanto.[n] Parece que estou do lado errado...[n][w][e]
+[s][vp 1 0 0 0 0 0]As catracas JL estão logo à frente.[n][w][e]
+[s][vp 1 0 0 0 0 0]Preciso pegar a[n][clr 2]linha de Ginza[clr 27], mas acho que[n]estou do lado errado.[n][w][e]
 
 [msg MND_E10920600_Crowd_Toky]
-[s][vp 1 0 0 0 0 0]Esta placa diz que eles estão limpando a[n]área agora.[n][w][e]
-[s][vp 1 0 0 0 0 0]Eu provavelmente deveria procurar uma[n]maneira de contornar...[n][w][e]
+[s][vp 1 0 0 0 0 0]Aparentemente, eles estão[n]limpando a área.[n][w][e]
+[s][vp 1 0 0 0 0 0]Eu tenho que encontrar o caminho para[n]atravessar...[n][w][e]
 
 [msg MND_E10920600_Crowd_Inok]
-[s][vp 1 0 0 0 0 0]Não há menção ao [clr 2]Linha de ginza [clr 27]na assinatura lá.[n][w][e]
-[s][vp 1 0 0 0 0 0]Eu deveria olhar para outro lugar...[n][w][e]
+[s][vp 1 0 0 0 0 0]Não vejo a [clr 2]linha Ginza[clr 27][n]na placa.[n][w][e]
+[s][vp 1 0 0 0 0 0]tenho que procurar em outro lugar...[n][w][e]
 
 [msg MND_E10920600_Crowd_Cent]
-[s][vp 1 0 0 0 0 0]Não há menção ao [clr 2]Linha de ginza [clr 27]na assinatura lá.[n][w][e]
-[s][vp 1 0 0 0 0 0]Eu deveria olhar para outro lugar...[n][w][e]
+[s][vp 1 0 0 0 0 0]Não vejo a [clr 2]linha Ginza[clr 27][n]na placa.[n][w][e]
+[s][vp 1 0 0 0 0 0]tenho que procurar em outro lugar...[n][w][e]
 
 [msg MND_E10920700_INFOBOAED]
-[s][vp 1 0 0 0 0 0]O Conselho está cheio de informações sobre[n]os tempos tardios do trem...[n][w][e]
+[s][vp 1 0 0 0 0 0]O tabuleiro está cheio de[n]trens atrasados...[n][w][e]
 

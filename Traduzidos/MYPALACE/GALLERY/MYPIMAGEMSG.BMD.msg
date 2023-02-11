@@ -1,603 +1,603 @@
 [msg MSG_BUY]
-[s]Comprar esta imagem?[n][e]
+[s]Quer comprar a imagem?[n][e]
 
 [msg MSG_000]
-[s]Folha modelo do protagonista em seu uniforme[n]no meio do inverno.[n][e]
+[s]Modelo do protagonista[n]no uniforme escolar[n]pesado inverno.[n][e]
 
 [msg MSG_001]
-[s]Folha modelo do protagonista em seu traje[n]casual no meio do inverno.[n][e]
+[s]Modelo da protagonista[n]com roupa casual de inverno[n]pesada.[n][e]
 
 [msg MSG_002]
-[s]Folha modelo da personalidade do[n]protagonista, Raoul.[n][e]
+[s]Modelo da Persona[n]do protagonista, Raoul.[n][e]
 
 [msg MSG_003]
-[s]Folha modelo de Morgana em seu traje de[n]ladrão fantasma.[n][e]
+[s]Modelo de Morgana na fantasia de[n]Phantom Thieves.[n][e]
 
 [msg MSG_004]
-[s]Folha modelo de Morgana em sua forma humana.[n][e]
+[s]Modelo de Morgana em[n]sua forma humana.[n][e]
 
 [msg MSG_005]
-[s]Folha modelo da terceira persona de evolução[n]de Morgana.[n][e]
+[s]Modelo da terceira evolução[n]da Persona de Morgana.[n][e]
 
 [msg MSG_006]
-[s]Folha modelo do carro Morgana.[n][e]
+[s]Modelo do carro de Morgana.[n][e]
 
 [msg MSG_007]
-[s]Folha de modelos do helicóptero Morgana.[n][e]
+[s]Modelo de helicóptero Morgana.[n][e]
 
 [msg MSG_008]
-[s]Folha modelo de Ryuji em seu uniforme no[n]meio do inverno.[n][e]
+[s]Modelo de Ryuji[n]no pesado uniforme escolar de inverno.[n][e]
 
 [msg MSG_009]
-[s]Folha modelo de Ryuji em seu traje casual no[n]meio-inverno.[n][e]
+[s]Ryuji[n]modelo em roupas casuais pesadas de inverno.[n][e]
 
 [msg MSG_010]
-[s]Folha modelo da terceira persona de evolução[n]de Ryuji.[n][e]
+[s]Modelo da terceira evolução[n]da Persona de Ryuji.[n][e]
 
 [msg MSG_011]
-[s]Folha modelo de Ann em seu uniforme no meio[n]do inverno.[n][e]
+[s]Ann modelo em um pesado uniforme escolar de[n]inverno.[n][e]
 
 [msg MSG_012]
-[s]Folha modelo de Ann em seu traje casual no[n]meio do inverno.[n][e]
+[s]Ann[n]modelo em roupas pesadas de inverno[n]casual.[n][e]
 
 [msg MSG_013]
-[s]Folha de modelos da terceira persona de[n]evolução de Ann.[n][e]
+[s]Modelo da terceira evolução[n]da Persona de Ann.[n][e]
 
 [msg MSG_014]
-[s]Folha modelo de Yusuke em seu uniforme no[n]meio do inverno.[n][e]
+[s]Modelo de Yusuke[n]no pesado uniforme escolar de inverno.[n][e]
 
 [msg MSG_015]
-[s]Folha modelo de Yusuke em seu traje casual[n]no meio do inverno.[n][e]
+[s]Modelo de Yusuke[n]com a roupa casual[n]pesada de inverno.[n][e]
 
 [msg MSG_016]
-[s]Folha de modelos da terceira persona de[n]evolução de Yusuke.[n][e]
+[s]Modelo da terceira evolução[n]da Persona de Yusuke.[n][e]
 
 [msg MSG_017]
-[s]Folha modelo de Makoto em seu uniforme no[n]meio do inverno.[n][e]
+[s]Modelo de Makoto[n]no pesado uniforme escolar de inverno.[n][e]
 
 [msg MSG_018]
-[s]Folha modelo de Makoto em seu traje casual[n]no meio do inverno.[n][e]
+[s]Modelo de Makoto[n]com a roupa casual[n]pesada de inverno.[n][e]
 
 [msg MSG_019]
-[s]Folha modelo da terceira persona de evolução[n]de Makoto.[n][e]
+[s]Modelo da terceira evolução[n]da Persona de Makoto.[n][e]
 
 [msg MSG_020]
-[s]Folha modelo de Futaba em seu traje casual[n]de inverno.[n][e]
+[s]Futaba[n]modelo com casual[n]wear de inverno.[n][e]
 
 [msg MSG_021]
-[s]Folha modelo de Futaba em seu traje casual[n]no meio-inverno.[n][e]
+[s]Modelo Futaba[n]em roupa casual pesada de inverno.[n][e]
 
 [msg MSG_022]
-[s]Folha modelo da terceira persona de evolução[n]de Futaba.[n][e]
+[s]Modelo da terceira evolução[n]da Persona de Futaba.[n][e]
 
 [msg MSG_023]
-[s]Folha modelo de Haru em seu uniforme no meio[n]do inverno.[n][e]
+[s]Modelo de Haru[n]no pesado uniforme escolar de inverno.[n][e]
 
 [msg MSG_024]
-[s]Folha modelo de Haru em seu traje casual no[n]meio do inverno.[n][e]
+[s]Modelo de Haru[n]com a roupa casual[n]pesada de inverno.[n][e]
 
 [msg MSG_025]
-[s]Folha de modelos da terceira persona de[n]evolução de Haru.[n][e]
+[s]Modelo da terceira evolução[n]da Persona de Haru.[n][e]
 
 [msg MSG_026]
-[s]Folha modelo de Akechi em seu uniforme no[n]meio do inverno.[n][e]
+[s]Akechi[n]modelo em pesado uniforme escolar de inverno.[n][e]
 
 [msg MSG_027]
-[s]Folha modelo de Akechi em seu traje casual[n]no meio-inverno.[n][e]
+[s]Modelo Akechi[n]em roupas casuais pesadas de inverno.[n][e]
 
 [msg MSG_028]
-[s]Folha de modelos da terceira persona de[n]evolução de Akechi.[n][e]
+[s]Modelo da terceira evolução[n]da Persona de Akechi.[n][e]
 
 [msg MSG_029]
-[s]Folha modelo do uniforme de verão de Sumire.[n][e]
+[s]Padrão uniforme de verão de Sumire.[n][e]
 
 [msg MSG_030]
-[s]Folha de modelos do traje casual de verão de[n]Sumire.[n][e]
+[s]Modelo casual de verão de Sumire.[n][e]
 
 [msg MSG_031]
-[s]Folha modelo do traje casual de inverno de[n]Sumire.[n][e]
+[s]Modelo para a roupa de inverno[n]casual de Sumire.[n][e]
 
 [msg MSG_032]
-[s]Folha de modelos do traje casual do[n]meio-inverno de Sumire.[n][e]
+[s]Modelo do[n]inverno pesado[n]casual de Sumire.[n][e]
 
 [msg MSG_033]
-[s]Folha modelo do traje de ladrão fantasma de[n]Sumire.[n][e]
+[s]Padrão de fantasia de Sumire[n]Phantom Thieves.[n][e]
 
 [msg MSG_034]
-[s]Folha modelo da persona de Sumire.[n][e]
+[s]Modelo Pessoa Sumire.[n][e]
 
 [msg MSG_035]
-[s]Folha de modelos da Segunda Persona da[n]Evolução de Sumire.[n][e]
+[s]Modelo da segunda evolução[n]da Persona de Sumire.[n][e]
 
 [msg MSG_036]
-[s]Folha de modelos da terceira persona de[n]evolução de Sumire.[n][e]
+[s]Modelo da terceira evolução[n]da Persona de Sumire.[n][e]
 
 [msg MSG_037]
-[s]Folha modelo de Takuto Maruki.[n][e]
+[s]Modelo de Takuto Maruki.[n][e]
 
 [msg MSG_038]
-[s]Folha modelo de Takuto Maruki.[n][e]
+[s]Modelo de Takuto Maruki.[n][e]
 
 [msg MSG_039]
-[s]Folha modelo de Takuto Maruki.[n][e]
+[s]Modelo de Takuto Maruki.[n][e]
 
 [msg MSG_040]
-[s]Folha modelo da personalidade de Maruki.[n][e]
+[s]Modelo da Persona Maruki.[n][e]
 
 [msg MSG_041]
-[s]Folha de modelos da persona evoluída de[n]Maruki.[n][e]
+[s]Persona[n]evoluído modelo de Maruki.[n][e]
 
 [msg MSG_042]
-[s]Folha de modelos de Sojiro Sakura.[n][e]
+[s]Modelo de Sojiro Sakura.[n][e]
 
 [msg MSG_043]
-[s]Folha de modelos de Chihaya Mifune.[n][e]
+[s]Modelo Chihaya Mifune.[n][e]
 
 [msg MSG_044]
-[s]Folha modelo de Munehisa iwai.[n][e]
+[s]Modelo de Munehisa Iwai.[n][e]
 
 [msg MSG_045]
-[s]Folha de modelos de Tae Takemi.[n][e]
+[s]Modelo de Tae Takemi.[n][e]
 
 [msg MSG_046]
-[s]Folha modelo de Sadayo Kawakami.[n][e]
+[s]Modelo Sadayo Kawakami.[n][e]
 
 [msg MSG_047]
-[s]Folha modelo de Ichiko Ohya.[n][e]
+[s]Modelo Ichiko Ohya.[n][e]
 
 [msg MSG_048]
-[s]Folha de modelos de Shinya Oda.[n][e]
+[s]Modelo Shinya Oda.[n][e]
 
 [msg MSG_049]
-[s]Folha de modelos de hifumi Togo.[n][e]
+[s]Modelo de Hifumi Togo.[n][e]
 
 [msg MSG_050]
-[s]Folha de modelos de Yuuki Mishima.[n][e]
+[s]Modelo de Yuuki Mishima.[n][e]
 
 [msg MSG_051]
-[s]Folha modelo de Toranosuke Yoshida.[n][e]
+[s]Modelo de Toranosuke Yoshida.[n][e]
 
 [msg MSG_052]
-[s]Folha modelo de SAE NIIJIMA.[n][e]
+[s]Modelo Sae Niijima.[n][e]
 
 [msg MSG_053]
 [s]Imagem de Igor.[n][e]
 
 [msg MSG_054]
-[s]Folha de modelos de Justine e Caroline.[n][e]
+[s]Modelo Justine e Caroline.[n][e]
 
 [msg MSG_055]
-[s]Folha de modelo de Lavenza.[n][e]
+[s]Modelo de Lavenza.[n][e]
 
 [msg MSG_056]
-[s]Folha de modelos de Jose.[n][e]
+[s]Modelo de José.[n][e]
 
 [msg MSG_057]
-[s]Folha modelo do governante do palácio de[n]Kamoshida.[n][e]
+[s]Modelo do senhor de[n]Kamoshida Palace.[n][e]
 
 [msg MSG_058]
-[s]Folha modelo do governante do palácio de[n]Madarame.[n][e]
+[s]Modelo do senhor de[n]Madarame Palace.[n][e]
 
 [msg MSG_059]
-[s]Folha modelo do governante do palácio de[n]Kaneshiro.[n][e]
+[s]Modelo do senhor de[n]Kaneshiro Palace.[n][e]
 
 [msg MSG_060]
-[s]Folha modelo do monstro do palácio de Futaba.[n][e]
+[s]Modelo monstro do[n]Palácio Futaba.[n][e]
 
 [msg MSG_061]
-[s]Folha modelo do governante do palácio de[n]Okumura.[n][e]
+[s]Modelo do senhor do Palácio de[n]Okumura.[n][e]
 
 [msg MSG_062]
-[s]Folha modelo do governante do palácio de[n]Niijima.[n][e]
+[s]Modelo do senhor de[n]Niijima Palace.[n][e]
 
 [msg MSG_063]
-[s]Folha modelo do governante do palácio de[n]Shido.[n][e]
+[s]Modelo do senhor de[n]Shido Palace.[n][e]
 
 [msg MSG_064]
-[s]Folha modelo do Santo Graal.[n][e]
+[s]Modelo do Santo Graal.[n][e]
 
 [msg MSG_065]
-[s]Folha modelo do deus do mal do mundo[n]qliphoth.[n][e]
+[s]Modelo do deus do mal[n]do Mundo de cliphoto.[n][e]
 
 [msg MSG_066]
-[s]A ilustração usada para a arte do Persona 5[n]Box.[n][e]
+[s]A ilustração usada para a arte da caixa Persona 5.[n][e]
 
 [msg MSG_067]
-[s]A ilustração criada para a imagem do herói[n]Persona 5.[n][e]
+[s]A ilustração criada[n]para o visual principal do Persona 5.[n][e]
 
 [msg MSG_068]
-[s]A ilustração usada para a jaqueta de edição[n]limitada Persona 5.[n][e]
+[s]A ilustração usada[n]para a jaqueta da edição limitada[n]de Persona 5.[n][e]
 
 [msg MSG_069]
-[s]A arte da capa usada para o livro incluída[n]na Persona 5 Limited Edition.[n][e]
+[s]A capa usada para o livro de arte incluído na[n]edição limitada de Persona 5.[n][e]
 
 [msg MSG_070]
-[s]A ilustração criada como um aviso logo antes[n]do lançamento do Persona 5.[n][e]
+[s]Ilustração criada para um anúncio[n]sobre o lançamento de Persona 5.[n][e]
 
 [msg MSG_071]
-[s]A ilustração criada em comemoração ao[n]lançamento da Persona 5.[n][e]
+[s]Arte criada para[n]celebrar o lançamento de Persona 5.[n][e]
 
 [msg MSG_072]
-[s]A ilustração criada em comemoração ao[n]lançamento ocidental da Persona 5.[n][e]
+[s]Arte criada para[n]celebrar o lançamento ocidental[n]de Persona 5.[n][e]
 
 [msg MSG_073]
-[s]Uma ilustração de agradecimento criada para[n]comemorar o Persona 5 vendendo mais de[n]550.000 cópias.[n][e]
+[s]Obrigado ilustração[n]por ultrapassar 550.000[n]cópias vendidas de Persona 5.[n][e]
 
 [msg MSG_074]
-[s]Uma ilustração de agradecimento criada para[n]comemorar o Persona 5 vendendo mais de 2[n]milhões de cópias.[n][e]
+[s]Art agradecendo[n]por Persona 5 ultrapassando 2 milhões[n]de cópias vendidas.[n][e]
 
 [msg MSG_075]
-[s]Ilustração usada como um tablóide extra.[n][e]
+[s]Ilustração usada como anexo de[n]revista.[n][e]
 
 [msg MSG_076]
-[s]Ilustração da imagem para Persona 5.[n][e]
+[s]Personagem 5 ilustração.[n][e]
 
 [msg MSG_077]
-[s]Ilustração usada para a arte da capa de[n]Dengeki PlayStation Volume 614.[n][e]
+[s]Arte usada para a capa de[n]Dengeki PlayStation volume 614.[n][e]
 
 [msg MSG_078]
-[s]Ilustração usada para a arte da capa de[n]Dengeki PlayStation Volume 622.[n][e]
+[s]Arte usada para a capa de[n]Dengeki PlayStation volume 622.[n][e]
 
 [msg MSG_079]
-[s]Ilustração usada para a arte da capa de[n]Dengeki PlayStation Volume 623.[n][e]
+[s]Arte usada para a capa de[n]Dengeki PlayStation volume 623.[n][e]
 
 [msg MSG_080]
-[s]Ilustração usada para comemorar o Ano Novo[n]em 2017.[n][e]
+[s]Ilustração usada para comemorar o ano novo em[n]2017.[n][e]
 
 [msg MSG_081]
-[s]Ilustração usada para comemorar o Ano Novo[n]em 2018.[n][e]
+[s]Ilustração usada para comemorar o ano novo em[n]2018.[n][e]
 
 [msg MSG_082]
-[s]Ilustração usada para comemorar o Natal.[n][e]
+[s]Ilustração usada para celebrar o[n]Natal.[n][e]
 
 [msg MSG_083]
-[s]Ilustração usada para a jaqueta da trilha[n]sonora.[n][e]
+[s]A arte usada para a sobrecapa da[n]trilha sonora.[n][e]
 
 [msg MSG_084]
-[s]Ilustração usada para a jaqueta do dia de[n]partida para a animação Persona 5.[n][e]
+[s]A ilustração usada para a[n]jaqueta de Persona 5 the[n]Animation: The Day Breakers.[n][e]
 
 [msg MSG_085]
-[s]Ilustração que foi mostrada em um fluxo no[n]Persona Channel Tokyo Game Show 2015.[n][e]
+[s]Arte mostrada durante um[n]stream no Persona Channel[n]TOKYO GAME SHOW 2015.[n][e]
 
 [msg MSG_086]
-[s]Corte protagonista que exibe durante a[n]batalha.[n][e]
+[s]Inserção do protagonista[n]que aparece durante a batalha.[n][e]
 
 [msg MSG_087]
-[s]Morgana cortou que exibe durante a batalha.[n][e]
+[s]Morgana[n]inserção que aparece durante a batalha.[n][e]
 
 [msg MSG_088]
-[s]Ryuji cortou que exibe durante a batalha.[n][e]
+[s]Ryuji[n]inserir que aparece durante a batalha.[n][e]
 
 [msg MSG_089]
-[s]Ann Cut-in que exibe durante a batalha.[n][e]
+[s]Ann[n]inserir que aparece durante a batalha.[n][e]
 
 [msg MSG_090]
-[s]Yusuke cortou que exibe durante a batalha.[n][e]
+[s]Inserção de Yusuke[n]que aparece durante a batalha.[n][e]
 
 [msg MSG_091]
-[s]Makoto cortou que exibe durante a batalha.[n][e]
+[s]Makoto[n]inserir que aparece durante a batalha.[n][e]
 
 [msg MSG_092]
-[s]Futaba Cut-in que exibe durante a batalha.[n][e]
+[s]Futaba[n]inserção que aparece durante a batalha.[n][e]
 
 [msg MSG_093]
-[s]Haru cortou que exibe durante a batalha.[n][e]
+[s]Haru[n]inserir que aparece durante a batalha.[n][e]
 
 [msg MSG_094]
-[s]Akechi corta que exibe durante a batalha.[n][e]
+[s]Inserção Akechi[n]que aparece durante a batalha.[n][e]
 
 [msg MSG_095]
-[s]Sumire cortou que exibe durante a batalha.[n][e]
+[s]Sumire[n]inserção que aparece durante a batalha.[n][e]
 
 [msg MSG_096]
-[s]Justine e Caroline cortaram que exibem[n]durante a batalha.[n][e]
+[s]Inserção de Justine e Caroline[n]que aparece durante a batalha.[n][e]
 
 [msg MSG_097]
-[s]O cartão de visita que os ladrões fantasmas[n]foram enviados para Kamoshida.[n][e]
+[s]A carta de aviso que[n]os Phantom Thieves[n]enviaram para Kamoshida.[n][e]
 
 [msg MSG_098]
-[s]O cartão de visita que os ladrões fantasmas[n]foram enviados para Madarame.[n][e]
+[s]A carta de aviso que[n]os Phantom Thieves enviaram[n]para Madarame.[n][e]
 
 [msg MSG_099]
-[s]O cartão de visita que os ladrões fantasmas[n]foram enviados para Kaneshiro.[n][e]
+[s]A carta de aviso que[n]os Phantom Thieves[n]enviaram para Kaneshiro.[n][e]
 
 [msg MSG_100]
-[s]O cartão de visita que os ladrões fantasmas[n]foram enviados para Futaba.[n][e]
+[s]A carta de aviso que[n]os Phantom Thieves[n]enviaram para Futaba.[n][e]
 
 [msg MSG_101]
-[s]O cartão de visita que os ladrões fantasmas[n]foram enviados para Okumura.[n][e]
+[s]A carta de aviso que[n]os Phantom Thieves[n]enviaram para Okumura.[n][e]
 
 [msg MSG_102]
-[s]O cartão de visita que os ladrões fantasmas[n]foram enviados para SAE.[n][e]
+[s]A carta de aviso que[n]os Phantom Thieves[n]enviaram para Sae.[n][e]
 
 [msg MSG_103]
-[s]Imagem de fundo do calendário de Tóquio[n]diurno.[n][e]
+[s][n]imagem de fundo do calendário com Tóquio durante[n]o dia.[n][e]
 
 [msg MSG_104]
-[s]Imagem de fundo do calendário de Tóquio[n]noturno.[n][e]
+[s][n]imagem de fundo do calendário com Tóquio à noite.[n][e]
 
 [msg MSG_105]
-[s]O mapa de lembranças.[n][e]
+[s]O mapa Memento.[n][e]
 
 [msg MSG_106]
-[s]O mapa de lembranças que foi afetado por[n]Maruki.[n][e]
+[s]O mapa de Memento[n]influenciado por Maruki.[n][e]
 
 [msg MSG_107]
-[s]O mapa de lembranças depois de ser afetado[n]pelos desejos atualizados das pessoas.[n][e]
+[s]O mapa de Mementos influenciado[n]pelos desejos realizados[n]das pessoas.[n][e]
 
 [msg MSG_108]
-[s]Ícones usados durante bate-papos e batalhas[n]telefônicas.[n][e]
+[s]Ícones usados durante o bate-papo[n]via smartphone e em batalha.[n][e]
 
 [msg MSG_109]
-[s]Arte de graffiti que é desenhada no[n]quadro-negro na sala de aula da Shujin[n]Academy.[n][e]
+[s]Desenho feito no[n]quadro de uma sala de aula da[n]Shujin Academy.[n][e]
 
 [msg MSG_110]
-[s]Uma foto comemorativa do Phantom Thieves,[n]completando seu primeiro emprego.[n][e]
+[s]Uma foto de lembrança dos[n]Phantom Thieves após completar[n]a primeira tarefa.[n][e]
 
 [msg MSG_111]
-[s]Uma foto comemorativa da festa acolhedora de[n]Yusuke.[n][e]
+[s][n]Foto comemorativa da festa de boas-vindas de[n]Yusuke.[n][e]
 
 [msg MSG_112]
-[s]Uma foto tirada a caminho do festival de[n]fogos de artifício.[n][e]
+[s]Uma foto tirada a caminho do festival de fogos de[n]artifício.[n][e]
 
 [msg MSG_113]
-[s]Uma foto tirada no final do festival de[n]verão.[n][e]
+[s]Uma foto tirada no final do[n]festival de verão.[n][e]
 
 [msg MSG_114]
-[s]Uma foto comemorativa tirada durante a[n]viagem de praia para se tornar melhor amigo[n]de Futaba.[n][e]
+[s]Foto comemorativa tirada[n]durante a viagem ao mar para[n]aprofundar a amizade com Futaba.[n][e]
 
 [msg MSG_115]
-[s]Uma foto tirada na praia de Waikiki durante[n]a viagem escolar ao Havaí.[n][e]
+[s]Uma foto tirada na praia de Waikiki[n]durante a viagem ao Havaí.[n][e]
 
 [msg MSG_116]
-[s]Uma foto tirada em uma loja de lembranças no[n]Havaí.[n][e]
+[s]Foto tirada na[n]loja de souvenirs no Havaí.[n][e]
 
 [msg MSG_117]
-[s]Uma foto tirada durante o festival escolar[n]enquanto desfruta de um pouco de Yakisoba[n]em um suporte de comida.[n][e]
+[s]Foto tirada enquanto comia[n]yakisoba em um quiosque[n]durante o festival da escola.[n][e]
 
 [msg MSG_118]
-[s]Uma foto tirada durante a celebração da[n]derrota de Shido.[n][e]
+[s]Foto tirada durante[n]as comemorações da derrota de[n]Shido.[n][e]
 
 [msg MSG_119]
-[s]Uma foto comemorativa tirada durante a festa[n]de Natal.[n][e]
+[s]Foto comemorativa tirada[n]durante a festa de Natal.[n][e]
 
 [msg MSG_120]
-[s]Uma foto comemorativa tirada das meninas no[n]dia de ano novo.[n][e]
+[s]Uma foto de lembrança das meninas[n]na véspera de Ano Novo.[n][e]
 
 [msg MSG_121]
-[s]Uma foto comemorativa da primeira visita do[n]santuário do par do par do ano.[n][e]
+[s]Uma foto de lembrança do casal[n]visitando o santuário com[n]o ano novo.[n][e]
 
 [msg MSG_122]
-[s]Uma foto comemorativa enviada por Sumire[n]para mostrar até onde ela chegou ao seu[n]caminho.[n][e]
+[s]Foto comemorativa enviada a[n]Sumire para mostrar a ela como[n]ele veio do passado.[n][e]
 
 [msg MSG_123]
-[s]Uma foto do protagonista e Morgana, tirada[n]por Sojiro.[n][e]
+[s]Foto do protagonista e[n]Morgana, tirada por Sojiro.[n][e]
 
 [msg MSG_124]
-[s]Akechi corta que exibe durante a batalha.[n][e]
+[s]Inserção Akechi[n]que aparece durante a batalha.[n][e]
 
 [msg MSG_125]
-[s]LAVENZA CORTE que exibe durante a batalha.[n][e]
+[s]Lavenza[n]inserir que aparece durante a batalha.[n][e]
 
 [msg MSG_126]
-[s]O cartão de visita que os ladrões fantasmas[n]foram enviados a Maruki.[n][e]
+[s]A carta de aviso que[n]os Phantom Thieves[n]enviaram para Maruki.[n][e]
 
 [msg MSG_127]
-[s]Folha modelo do uniforme de inverno de[n]Sumire.[n][e]
+[s]Modelo do uniforme de inverno de Sumire.[n][e]
 
 [msg MSG_128]
-[s]Folha de modelo do uniforme do meio-inverno[n]de Sumire.[n][e]
+[s]Modelo do[n]pesado uniforme de inverno de Sumire.[n][e]
 
 [msg MSG_129]
-[s]Protagonista corte que exibe durante um[n]ataque total.[n][e]
+[s]Inserção de protagonista[n]que aparece durante um assalto.[n][e]
 
 [msg MSG_130]
-[s]Imagem do protagonista que exibe após um[n]finalizador de ataque total.[n][e]
+[s]Imagem do protagonista[n]aparecendo após um[n]Coup de grace.[n][e]
 
 [msg MSG_131]
-[s]Morgana cortou que exibe durante um ataque[n]total.[n][e]
+[s]Morgana[n]encarte que aparece durante um golpe.[n][e]
 
 [msg MSG_132]
-[s]Imagem de Morgana que exibe após um[n]finalizador de ataque total.[n][e]
+[s]Imagem de Morgana[n]aparecendo após um[n]Coup de grace.[n][e]
 
 [msg MSG_133]
-[s]Ryuji cortou que exibe durante um ataque[n]total.[n][e]
+[s]Ryuji[n]inserção que aparece durante um Rush.[n][e]
 
 [msg MSG_134]
-[s]Imagem de Ryuji que exibe após um[n]finalizador de ataque total.[n][e]
+[s]Imagem de Ryuji[n]aparecendo após um[n]Coup de grace.[n][e]
 
 [msg MSG_135]
-[s]Ann Cut-in que exibe durante um ataque total.[n][e]
+[s]Inserção Ann[n]que aparece durante um assalto.[n][e]
 
 [msg MSG_136]
-[s]Imagem de Ann que exibe após um finalizador[n]de ataque total.[n][e]
+[s]Imagem de Ann[n]aparecendo após um[n]Coup de Grace.[n][e]
 
 [msg MSG_137]
-[s]Yusuke cortou que exibe durante um ataque[n]total.[n][e]
+[s]Inserção de Yusuke[n]que aparece durante um Rush.[n][e]
 
 [msg MSG_138]
-[s]Imagem de Yusuke que exibe após um[n]finalizador de ataque total.[n][e]
+[s]Imagem de Yusuke[n]aparecendo após um[n]Coup de grace.[n][e]
 
 [msg MSG_139]
-[s]Makoto corte que exibe durante um ataque[n]total.[n][e]
+[s]Inserção de Makoto[n]que aparece durante um assalto.[n][e]
 
 [msg MSG_140]
-[s]Imagem de Makoto que exibe após um[n]finalizador de ataque total.[n][e]
+[s]Imagem de Makoto[n]aparecendo após um[n]Coup de grace.[n][e]
 
 [msg MSG_141]
-[s]Imagem de Futaba que exibe em sua tela de[n]status.[n][e]
+[s]Imagem de Futaba aparecendo[n]em sua tela de status.[n][e]
 
 [msg MSG_142]
-[s]Imagem de Futaba que exibe após um[n]finalizador de ataque total.[n][e]
+[s]Imagem de Futaba[n]aparecendo após um[n]Coup de Grace.[n][e]
 
 [msg MSG_143]
-[s]Haru cortou que exibe durante um ataque[n]total.[n][e]
+[s]Inserção de Haru[n]que aparece durante um Rush.[n][e]
 
 [msg MSG_144]
-[s]Imagem de Haru que exibe após um finalizador[n]de ataque total.[n][e]
+[s]Imagem de Haru[n]aparecendo após um[n]Coup de grace.[n][e]
 
 [msg MSG_145]
-[s]Akechi corta que exibe durante um ataque[n]total.[n][e]
+[s]Inserção Akechi[n]que aparece durante um Rush.[n][e]
 
 [msg MSG_146]
-[s]Imagem de Akechi que exibe após um[n]finalizador de ataque total.[n][e]
+[s]Imagem de Akechi[n]aparecendo após um[n]Coup de Grace.[n][e]
 
 [msg MSG_147]
-[s]Akechi corta que exibe durante um ataque[n]total.[n][e]
+[s]Inserção Akechi[n]que aparece durante um Rush.[n][e]
 
 [msg MSG_148]
-[s]Imagem de Akechi que exibe após um[n]finalizador de ataque total.[n][e]
+[s]Imagem de Akechi[n]aparecendo após um[n]Coup de Grace.[n][e]
 
 [msg MSG_149]
-[s]Sumire reduziu que exibe durante um ataque[n]total.[n][e]
+[s]Inserção Sumire[n]que aparece durante um assalto.[n][e]
 
 [msg MSG_150]
-[s]Imagem de Sumire que exibe após um[n]finalizador de ataque total.[n][e]
+[s]Imagem de Sumire[n]aparecendo após um[n]Coup de Grace.[n][e]
 
 [msg MSG_151]
-[s]Justine e Caroline cortaram que exibem[n]durante um ataque total.[n][e]
+[s]Inserção de Justine e Caroline[n]aparecendo durante um assalto.[n][e]
 
 [msg MSG_152]
-[s]Imagem de Justine e Caroline que exibe após[n]um finalizador de ataque total.[n][e]
+[s]Imagem de Justine e Caroline[n]aparecendo após um[n]Coup de grace.[n][e]
 
 [msg MSG_153]
-[s]Imagem de Lavenza que exibe após um[n]finalizador de ataque total.[n][e]
+[s]Imagem de Lavenza[n]aparecendo após um[n]Coup de grace.[n][e]
 
 [msg MSG_154]
-[s]A ilustração usada para a arte real da[n]Persona 5 Royal.[n][e]
+[s]A ilustração usada para a arte da caixa Persona 5 Royal.[n][e]
 
 [msg MSG_155]
-[s]Ryuji usa seus companheiros de equipe antes[n]de um grande evento de pista. Não há[n]hesitação em sua expressão.[n][e]
+[s]Ryuji carrega com seus[n]companheiros de equipe antes de uma[n]competição atlética. Ele tem uma expressão determinada.[n][e]
 
 [msg MSG_156]
-[s]Morgana em uma viagem de compras com Ann.[n]Ele está preso carregando as malas, mas[n]parece tão feliz.[n][e]
+[s]Morgana leva Ann em uma viagem de compras. Ele[n]tem que trazer todos os envelopes, mas parece[n]feliz.[n][e]
 
 [msg MSG_157]
-[s]Ann e Shiho lado a lado. O passado que[n]Kamoshida destruiu não existe mais.[n][e]
+[s]Ann e Shiho lado a lado.[n]Os problemas criados por Kamoshida[n]são apenas uma lembrança.[n][e]
 
 [msg MSG_158]
-[s]Yusuke sendo instruído por Madarame. Nada[n]para manchar esse relacionamento perfeito[n]para aluno-professor.[n][e]
+[s]Yusuke recebe ensinamentos de[n]Madarame. Nada estraga o[n]relacionamento perfeito entre aluno e professor.[n][e]
 
 [msg MSG_159]
-[s]Makoto se preparando para comer com sua[n]família. Seu pai provavelmente está falando[n]sobre os valores da justiça.[n][e]
+[s]Makoto se prepara para comer com a família.[n]Provavelmente o pai fala dos valores da justiça.[n][e]
 
 [msg MSG_160]
-[s]Futaba a caminho da cerimônia de entrada do[n]ensino médio. A família que ela sempre[n]sonhava em ter está com ela.[n][e]
+[s]Futaba vai à cerimônia de inauguração do colégio.[n]Ele está junto com a família com que sempre[n]sonhou.[n][e]
 
 [msg MSG_161]
-[s]Haru abrindo um novo local de restaurante[n]com o homem que ela respeita, seu pai e[n]mentor, ao seu lado.[n][e]
+[s]Haru abre um novo restaurante[n]com seu pai e mentor,[n]um homem que ele respeita.[n][e]
 
 [msg MSG_162]
-[s]Akechi desfrutando de um jogo de xadrez.[n]Como ele gosta de sua rivalidade saudável,[n]não há vestígios de escuridão em sua[n]expressão.[n][e]
+[s]Akechi joga xadrez. Em seus olhos[n]não há traço de escuridão, enquanto[n]ele desfruta de uma competição saudável.[n][e]
 
 [msg MSG_163]
-[s]Com a dor e os arrependimentos apagados, ela[n]segue o caminho de seus sonhos para cumprir[n]a promessa feita à irmã.[n][e]
+[s]Sem mais dor ou arrependimentos,[n]ele vive seus sonhos para manter[n]sua promessa a sua irmã.[n][e]
 
 [msg MSG_164]
-[s]Um vislumbre de um mundo feliz transformado[n]em realidade. O que esse par poderia estar[n]olhando...?[n][e]
+[s]Um gostinho de um mundo feliz que se torna[n]realidade. O que está observando, esse casal...?[n][e]
 
 [msg MSG_165]
-[s]Msg_165 [n][e]
+[s]MSG_165[n][e]
 
 [msg MSG_166]
-[s]Msg_166 [n][e]
+[s]MSG_166[n][e]
 
 [msg MSG_167]
-[s]Msg_167 [n][e]
+[s]MSG_167[n][e]
 
 [msg MSG_168]
-[s]Msg_168 [n][e]
+[s]MSG_168[n][e]
 
 [msg MSG_169]
-[s]Msg_169 [n][e]
+[s]MSG_169[n][e]
 
 [msg MSG_170]
-[s]Msg_170 [n][e]
+[s]MSG_170[n][e]
 
 [msg MSG_171]
-[s]Msg_171 [n][e]
+[s]MSG_171[n][e]
 
 [msg MSG_172]
-[s]Msg_172 [n][e]
+[s]MSG_172[n][e]
 
 [msg MSG_173]
-[s]Msg_173 [n][e]
+[s]MSG_173[n][e]
 
 [msg MSG_174]
-[s]Msg_174 [n][e]
+[s]MSG_174[n][e]
 
 [msg MSG_175]
-[s]Msg_175 [n][e]
+[s]MSG_175[n][e]
 
 [msg MSG_176]
-[s]Msg_176 [n][e]
+[s]MSG_176[n][e]
 
 [msg MSG_177]
-[s]Msg_177 [n][e]
+[s]MSG_177[n][e]
 
 [msg MSG_178]
-[s]Msg_178 [n][e]
+[s]MSG_178[n][e]
 
 [msg MSG_179]
-[s]Msg_179 [n][e]
+[s]MSG_179[n][e]
 
 [msg MSG_180]
-[s]Msg_180 [n][e]
+[s]MSG_180[n][e]
 
 [msg MSG_181]
-[s]Msg_181 [n][e]
+[s]MSG_181[n][e]
 
 [msg MSG_182]
-[s]Msg_182 [n][e]
+[s]MSG_182[n][e]
 
 [msg MSG_183]
-[s]Msg_183 [n][e]
+[s]MSG_183[n][e]
 
 [msg MSG_184]
-[s]Msg_184 [n][e]
+[s]MSG_184[n][e]
 
 [msg MSG_185]
-[s]Msg_185 [n][e]
+[s]MSG_185[n][e]
 
 [msg MSG_186]
-[s]Msg_186 [n][e]
+[s]MSG_186[n][e]
 
 [msg MSG_187]
-[s]Msg_187 [n][e]
+[s]MSG_187[n][e]
 
 [msg MSG_188]
-[s]Msg_188 [n][e]
+[s]MSG_188[n][e]
 
 [msg MSG_189]
-[s]Msg_189 [n][e]
+[s]MSG_189[n][e]
 
 [msg MSG_190]
-[s]Msg_190 [n][e]
+[s]MSG_190[n][e]
 
 [msg MSG_191]
-[s]Msg_191 [n][e]
+[s]MSG_191[n][e]
 
 [msg MSG_192]
-[s]Msg_192 [n][e]
+[s]MSG_192[n][e]
 
 [msg MSG_193]
-[s]Msg_193 [n][e]
+[s]MSG_193[n][e]
 
 [msg MSG_194]
-[s]Msg_194 [n][e]
+[s]MSG_194[n][e]
 
 [msg MSG_195]
-[s]Msg_195 [n][e]
+[s]MSG_195[n][e]
 
 [msg MSG_196]
-[s]Msg_196 [n][e]
+[s]MSG_196[n][e]
 
 [msg MSG_197]
-[s]Msg_197 [n][e]
+[s]MSG_197[n][e]
 
 [msg MSG_198]
-[s]Msg_198 [n][e]
+[s]MSG_198[n][e]
 
 [msg MSG_199]
-[s]Msg_199 [n][e]
+[s]MSG_199[n][e]
 

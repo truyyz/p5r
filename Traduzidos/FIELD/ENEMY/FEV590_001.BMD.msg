@@ -2,263 +2,263 @@
 [s]Intrusos detectados.[n][f 1 2 65535][e]
 
 [msg MSG_NML07_FIND_01_02]
-[s]Intrusos detectados.[n]Eliminando.[n][f 1 2 65535][e]
+[s]Intrusos detectados.[n]Excluindo.[n][f 1 2 65535][e]
 
 [msg MSG_NML07_FIND_01_03]
-[s]Intrudadores confirmados.[n]Vai eliminar.[n][f 1 2 65535][e]
+[s]Intrusos detectados.[n]Vou excluí-los.[n][f 1 2 65535][e]
 
 [msg MSG_NML07_FIND_01_04]
-[s]Confirmado.[n]Eliminando.[n][f 1 2 65535][e]
+[s]Avistamento.[n]Exclusão.[n][f 1 2 65535][e]
 
 [msg MSG_NML07_FIND_01_05]
-[s]Pessoas suspeitas confirmaram. Iniciando a[n]operação.[n][f 1 2 65535][e]
+[s]Suspeitos[n]avistados. Iniciar[n]operação.[n][f 1 2 65535][e]
 
 [msg MSG_NML07_PURSUE_01_01]
-[s]Perseguindo o alvo.[n][f 1 2 65535][e]
+[s]Eu persigo o alvo.[n][f 1 2 65535][e]
 
 [msg MSG_NML07_PURSUE_01_02]
-[s]Perseguindo o alvo.[n]Eles são muito rápidos.[n][f 1 2 65535][e]
+[s]Eu sigo o alvo.[n]Mas é rápido.[n][f 1 2 65535][e]
 
 [msg MSG_NML07_PURSUE_01_03]
-[s]Estou em perseguição.[n]Não vou deixá-los escapar.[n][f 1 2 65535][e]
+[s]Eu os sigo.[n]Não os deixarei escapar.[n][f 1 2 65535][e]
 
 [msg MSG_NML07_PURSUE_01_04]
-[s]Captura o alvo.[n][f 1 2 65535][e]
+[s]Vou capturar o alvo.[n][f 1 2 65535][e]
 
 [msg MSG_NML07_PURSUE_01_05]
 [s]Pare.[n][f 1 2 65535][e]
 
 [msg MSG_NML07_LOST_01_01]
-[s]Eu perdi eles.[n][f 1 2 65535][e]
+[s]Eu os perdi.[n][f 1 2 65535][e]
 
 [msg MSG_NML07_LOST_01_02]
-[s]Eu acho que eles escaparam.[n][f 1 2 65535][e]
+[s]Receio que eles tenham escapado.[n][f 1 2 65535][e]
 
 [msg MSG_NML07_LOST_01_03]
-[s]Eu perdi de vista eles.[n][f 1 2 65535][e]
+[s]Eu os perdi de vista.[n][f 1 2 65535][e]
 
 [msg MSG_NML07_LOST_01_04]
-[s]Eu os perdi, mas não vou deixá-los escapar[n]novamente.[n][f 1 2 65535][e]
+[s]Eu os perdi, mas não os deixarei partir novamente.[n][f 1 2 65535][e]
 
 [msg MSG_NML07_LOST_01_05]
-[s]TCH... eu os perdi.[n][f 1 2 65535][e]
+[s]Tsk... eu os perdi.[n][f 1 2 65535][e]
 
 [msg MSG_NML07_MNLG_NML_01_01]
-[s]Nada a declarar.[n][f 1 2 65535][e]
+[s]Nada a relatar.[n][f 1 2 65535][e]
 
 [msg MSG_NML07_MNLG_NML_01_02]
-[s]Sem problemas do meu lado.[n][f 1 2 65535][e]
+[s]Nada a relatar aqui.[n][f 1 2 65535][e]
 
 [msg MSG_NML07_MNLG_NML_01_03]
-[s]Nada de errado com isso.[n][f 1 2 65535][e]
+[s]Eu não me importaria.[n][f 1 2 65535][e]
 
 [msg MSG_NML07_MNLG_NML_01_04]
-[s]Área limpa.[n][f 1 2 65535][e]
+[s]Área segura.[n][f 1 2 65535][e]
 
 [msg MSG_NML07_MNLG_NML_01_05]
-[s]A área é clara.[n]Movendo-se para o próximo.[n][f 1 2 65535][e]
+[s]A área é segura.[n]Prossiga para a próxima.[n][f 1 2 65535][e]
 
 [msg MSG_NML07_MNLG_NML_01_06]
-[s]Eu deveria ser paciente.[n]A pressa levará ao descuido.[n][f 1 2 65535][e]
+[s]Eu tenho que ser paciente.[n]A pressa leva a[n]erros.[n][f 1 2 65535][e]
 
 [msg MSG_NML07_MNLG_NML_01_07]
-[s]Por que esses pedaços de lixo continuam[n]entrando, um após o outro?[n][f 1 2 65535][e]
+[s]Por que esse[n]dejeto humano continua[n]chegando aqui?[n][f 1 2 65535][e]
 
 [msg MSG_NML07_MNLG_NML_01_08]
-[s]Vou me preocupar com suas identidades depois[n]de lidar com elas.[n][f 1 2 65535][e]
+[s]Vou pensar em suas identidades[n]depois de[n]espancá-los.[n][f 1 2 65535][e]
 
 [msg MSG_NML07_MNLG_NML_01_09]
-[s]Eu sinto o cheiro...[n]O cheiro da escória.[n][f 1 2 65535][e]
+[s]Eu sinto...[n]Tem cheiro de estrume.[n][f 1 2 65535][e]
 
 [msg MSG_NML07_MNLG_NML_01_10]
-[s]Tenho um mau pressentimento sobre isso...[n]vou ter que me preparar.[n][f 1 2 65535][e]
+[s]Estou com um pressentimento ruim... Precisamos[n]estar prontos.[n][f 1 2 65535][e]
 
 [msg MSG_NML07_MNLG_ALT_01_01]
-[s]Não vejo invasores.[n]Vou procurar em outro lugar.[n][f 1 2 65535][e]
+[s]Não vejo nenhum intruso.[n]Vou procurar em outro lugar.[n][f 1 2 65535][e]
 
 [msg MSG_NML07_MNLG_ALT_01_02]
-[s]Nada fora do comum. Eu não vejo intrusos.[n][f 1 2 65535][e]
+[s]Nada fora do comum[n]para relatar. Não vejo intrusos.[n][f 1 2 65535][e]
 
 [msg MSG_NML07_MNLG_ALT_01_03]
-[s]Não posso confirmar a localização do intruso.[n][f 1 2 65535][e]
+[s]Não foi possível confirmar a[n]localização do intruso.[n][f 1 2 65535][e]
 
 [msg MSG_NML07_MNLG_ALT_01_04]
-[s]Os intrusos não foram encontrados.[n][f 1 2 65535][e]
+[s]Os invasores ainda não[n]foram encontrados.[n][f 1 2 65535][e]
 
 [msg MSG_NML07_MNLG_ALT_01_05]
-[s]TCH! Onde ele está escondendo!?[n][f 1 2 65535][e]
+[s]Tsk! Onde ele está se escondendo?[n][f 1 2 65535][e]
 
 [msg MSG_NML07_MNLG_ALT_01_06]
-[s]Os preparativos são bons.[n]Vou esmagá-los como insetos.[n][f 1 2 65535][e]
+[s]Preparações concluídas.[n]Vou esmagá-los como[n]insetos.[n][f 1 2 65535][e]
 
 [msg MSG_NML07_MNLG_ALT_01_07]
-[s]Essa área sombria é suspeita... muito[n]suspeita...[n][f 1 2 65535][e]
+[s]Essa área escura[n]é suspeita...[n]Muito suspeita...[n][f 1 2 65535][e]
 
 [msg MSG_NML07_MNLG_ALT_01_08]
-[s]O alvo é meu.[n]Não vou deixar ninguém interferir.[n][f 1 2 65535][e]
+[s]O alvo é meu.[n]Ninguém interfere.[n][f 1 2 65535][e]
 
 [msg MSG_NML07_MNLG_ALT_01_09]
-[s]Estou vivendo a vida no limite! É assim que[n]parece![n][f 1 2 65535][e]
+[s]Eu vivo no[n]fio da navalha! É assim que[n]eu me sinto![n][f 1 2 65535][e]
 
 [msg MSG_NML07_MNLG_ALT_01_10]
-[s]Não vou ficar mais fácil para quem tem um[n]desejo de morte...[n][f 1 2 65535][e]
+[s]Não usarei mão leve[n]com aqueles que estão com pressa de morrer.[n][f 1 2 65535][e]
 
 [msg MSG_NML07_REPORT_01_01]
-[s]Alvo avistado.[n]Vou relatar isso à sede imediatamente.[n][f 1 2 65535][e]
+[s]Alvos à vista.[n]Relatório[n]ao HQ.[n][f 1 2 65535][e]
 
 [msg MSG_NML07_REPORT_01_02]
-[s]Eu vi o alvo.[n]Vou fazer um relatório e solicitar a[n]segurança apertada.[n][f 1 2 65535][e]
+[s]Encontrei o alvo.[n]Vou relatar e pedir[n]aumento da vigilância.[n][f 1 2 65535][e]
 
 [msg MSG_NML07_REPORT_01_03]
-[s]Voltarei à sede por enquanto.[n][f 1 2 65535][e]
+[s]Estou voltando para[n]sede.[n][f 1 2 65535][e]
 
 [msg MSG_NML07_REPORT_01_04]
-[s]Aguardando ordens da sede.[n]Retornando temporariamente.[n][f 1 2 65535][e]
+[s]Aguardando ordens do QG.[n]Devolução.[n][f 1 2 65535][e]
 
 [msg MSG_NML07_REPORT_01_05]
-[s]Relatando informações para a sede sobre o[n]alvo.[n][f 1 2 65535][e]
+[s]Relato informações[n]sobre o alvo ao QG.[n][f 1 2 65535][e]
 
 [msg MSG_STG01_MNLG_GUARD_01_]
-[s]Nada fora do comum na zona guardada.[n][f 1 2 65535][e]
+[s]Nada a relatar[n]na área patrulhada.[n][f 1 2 65535][e]
 
 [msg MSG_STG01_MNLG_GUARD_01__2]
-[s]Não há problemas com a defesa.[n][f 1 2 65535][e]
+[s]Sem problemas[n]com a defesa.[n][f 1 2 65535][e]
 
 [msg MSG_STG01_MNLG_GUARD_01__3]
-[s]Sem problemas em torno da área protegida.[n][f 1 2 65535][e]
+[s]Sem problemas com[n]área vigiada.[n][f 1 2 65535][e]
 
 [msg MSG_STG01_MNLG_GUARD_01__4]
-[s]Não vejo nada fora do comum.[n]Permanecendo em guarda.[n][f 1 2 65535][e]
+[s]Não vejo nada[n]estranho.[n]Continuo em guarda.[n][f 1 2 65535][e]
 
 [msg MSG_STG01_MNLG_GUARD_01__5]
-[s]Nada a declarar.[n]Retomando o dever de guarda.[n][f 1 2 65535][e]
+[s]Nada a relatar.[n]Estou de volta ao serviço.[n][f 1 2 65535][e]
 
 [msg MSG_STG01_MNLG_DEFEND_01]
-[s]Capitão. Eu descobri um intruso.[n][f 1 2 65535][e]
+[s]Capitão. Eu descobri[n]um intruso.[n][f 1 2 65535][e]
 
 [msg MSG_STG01_MNLG_DEFEND_01_2]
-[s]Reportando-se, capitão.[n]Intrusos detectados.[n][f 1 2 65535][e]
+[s]Reportando, capitão.[n]Intrusos detectados.[n][f 1 2 65535][e]
 
 [msg MSG_STG01_MNLG_DEFEND_01_3]
-[s]Eu tenho um relatório, Capitão: Intrudadores[n]avistados.[n][f 1 2 65535][e]
+[s]Reportando, Capitão:[n]intrusos avistados.[n][f 1 2 65535][e]
 
 [msg MSG_STG01_MNLG_DEFEND_01_4]
-[s]Eu vi invasores.[n]Por favor, seja cauteloso, capitão.[n][f 1 2 65535][e]
+[s]Eu avistei os intrusos.[n]Cuidado,[n]Capitão.[n][f 1 2 65535][e]
 
 [msg MSG_STG01_MNLG_DEFEND_01_5]
-[s]Existem intrusos, capitão.[n][f 1 2 65535][e]
+[s]Há intrusos,[n]Capitão.[n][f 1 2 65535][e]
 
 [msg MSG_NML07_MNLG_FREE_01_0]
-[s]Urgh... ugh... ufa.[n]Meus ombros estão rígidos.[n][f 1 2 65535][e]
+[s]Urgh... Ugh... Ufa.[n]Meus ombros doem.[n][f 1 2 65535][e]
 
 [msg MSG_NML07_MNLG_FREE_01_0_2]
-[s]Eu quero sair logo para poder beber.[n][f 1 2 65535][e]
+[s]Eu quero ir embora logo,[n]então vou beber.[n][f 1 2 65535][e]
 
 [msg MSG_NML07_MNLG_FREE_01_0_3]
-[s]Por que esses pedaços de lixo continuam[n]entrando, um após o outro?[n][f 1 2 65535][e]
+[s]Por que esse[n]dejeto humano continua[n]chegando aqui?[n][f 1 2 65535][e]
 
 [msg MSG_NML07_MNLG_FREE_01_0_4]
-[s]Não vou ficar mais fácil para quem tem um[n]desejo de morte...[n][f 1 2 65535][e]
+[s]Não usarei mão leve[n]com aqueles que estão com pressa de morrer.[n][f 1 2 65535][e]
 
 [msg MSG_NML07_MNLG_FREE_01_0_5]
-[s]Eu quero lutar em breve...[n]Será meu primeiro combate real...[n][f 1 2 65535][e]
+[s]Eu quero lutar...[n]Será minha primeira[n]batalha de verdade...[n][f 1 2 65535][e]
 
 [msg MSG_NML07_MNLG_FREE_01_0_6]
-[s]Espero que esses intrusos tenham[n]resistência. Eu não quero que eles morram[n]muito rápido.[n][f 1 2 65535][e]
+[s]Espero que os intrusos[n]estão em vigor. Não quero que[n]eles morram cedo demais.[n][f 1 2 65535][e]
 
 [msg MSG_NML07_MNLG_FREE_01_0_7]
-[s]Bom... eu amo essa tensão![n][f 1 2 65535][e]
+[s]Bem... eu amo[n]essa tensão![n][f 1 2 65535][e]
 
 [msg MSG_NML07_MNLG_FREE_01_0_8]
-[s]Vou me preocupar com suas identidades depois[n]de lidar com elas.[n][f 1 2 65535][e]
+[s]Vou pensar em suas identidades[n]depois de[n]espancá-los.[n][f 1 2 65535][e]
 
 [msg MSG_NML07_MNLG_FREE_01_0_9]
-[s]Os preparativos são bons.[n]Vou esmagá-los como insetos.[n][f 1 2 65535][e]
+[s]Preparações concluídas.[n]Vou esmagá-los como[n]insetos.[n][f 1 2 65535][e]
 
 [msg MSG_NML07_MNLG_FREE_01_1]
-[s]Essa área sombria é suspeita... muito[n]suspeita...[n][f 1 2 65535][e]
+[s]Essa área escura[n]é suspeita...[n]Muito suspeita...[n][f 1 2 65535][e]
 
 [msg MSG_NML07_MNLG_FREE_01_1_2]
-[s]Ei, general![n]Você está aí, não é?[n][f 1 2 65535][e]
+[s]Ei, General![n]Você está aí, não está?[n][f 1 2 65535][e]
 
 [msg MSG_NML07_MNLG_FREE_01_1_3]
-[s]O alvo é meu.[n]Não vou deixar ninguém interferir.[n][f 1 2 65535][e]
+[s]O alvo é meu.[n]Ninguém interfere.[n][f 1 2 65535][e]
 
 [msg MSG_NML07_MNLG_FREE_01_1_4]
-[s]Estou vivendo a vida no limite! É assim que[n]parece![n][f 1 2 65535][e]
+[s]Eu vivo no[n]fio da navalha! É assim que[n]eu me sinto![n][f 1 2 65535][e]
 
 [msg MSG_NML07_MNLG_FREE_01_1_5]
-[s]Tenho um mau pressentimento sobre isso...[n]vou ter que me preparar.[n][f 1 2 65535][e]
+[s]Estou com um pressentimento ruim... Precisamos[n]estar prontos.[n][f 1 2 65535][e]
 
 [msg MSG_NML07_MNLG_FREE_01_1_6]
-[s]Eu sinto o cheiro...[n]O cheiro da escória.[n][f 1 2 65535][e]
+[s]Eu sinto...[n]Tem cheiro de estrume.[n][f 1 2 65535][e]
 
 [msg MSG_NML07_MNLG_FREE_01_1_7]
-[s]Eles querem que eu espere por uma placa? Sem[n]chance. Eu não posso me controlar.[n][f 1 2 65535][e]
+[s]Eles querem que eu espere[n]por um sinal? Não existe.[n]Não consigo me controlar.[n][f 1 2 65535][e]
 
 [msg MSG_NML07_MNLG_FREE_01_1_8]
-[s]Depois deste trabalho, vou beber tanto que[n]posso tomar banho em álcool.[n][f 1 2 65535][e]
+[s]Depois desse trabalho, vou beber[n]tanto que[n]tomo banho de álcool.[n][f 1 2 65535][e]
 
 [msg MSG_NML07_MNLG_FREE_01_1_9]
-[s]Aquela escória está errada. Eles só[n]aprenderão esse fato na vida após a morte.[n][f 1 2 65535][e]
+[s]Esses idiotas estão errados.[n]Mas eles aprenderão[n]na vida após a morte.[n][f 1 2 65535][e]
 
 [msg MSG_NML07_MNLG_FREE_01_1_10]
-[s]Acho que vou brincar um pouco com eles, mas[n]não posso prometer que eles vão viver...[n][f 1 2 65535][e]
+[s]Acho que vou brincar[n]um pouco com eles, mas não posso[n]atestar por suas vidas...[n][f 1 2 65535][e]
 
 [msg MSG_NML07_MNLG_FREE_01_2]
-[s]Eu deveria ser paciente.[n]A pressa levará ao descuido.[n][f 1 2 65535][e]
+[s]Eu tenho que ser paciente.[n]A pressa leva a[n]erros.[n][f 1 2 65535][e]
 
 [msg MSG_NML07_FIND_02_01]
-[s]Woof![n]Woof woof![n][f 1 2 65535][e]
+[s]Woof![n]Woo Woof![n][f 1 2 65535][e]
 
 [msg MSG_NML07_FIND_02_02]
-[s]AWOOOOOO![n][f 1 2 65535][e]
+[s]Awoooooo![n][f 1 2 65535][e]
 
 [msg MSG_NML07_FIND_02_03]
-[s]Woof woof woof![n][f 1 2 65535][e]
+[s]Uau Uau Uau![n][f 1 2 65535][e]
 
 [msg MSG_NML07_PURSUE_02_01]
-[s]Woof![n]Woof woof![n][f 1 2 65535][e]
+[s]Woof![n]Woo Woof![n][f 1 2 65535][e]
 
 [msg MSG_NML07_PURSUE_02_02]
 [s]Grrrrrr...[n][f 1 2 65535][e]
 
 [msg MSG_NML07_PURSUE_02_03]
-[s]Woof![n]Grrr... woof![n][f 1 2 65535][e]
+[s]Woof![n]Grrr... Woof![n][f 1 2 65535][e]
 
 [msg MSG_NML07_LOST_02_01]
-[s]Woof! Woof![n][f 1 2 65535][e]
+[s]Uau! Woof![n][f 1 2 65535][e]
 
 [msg MSG_NML07_LOST_02_02]
-[s]ARF![n][f 1 2 65535][e]
+[s]Arf![n][f 1 2 65535][e]
 
 [msg MSG_NML07_LOST_02_03]
 [s]Grrrrr...[n][f 1 2 65535][e]
 
 [msg MSG_NML07_MNLG_NML_02_01]
-[s]*Onomatopeia de cheirar* [n][f 1 2 65535][e]
+[s]*sniff* *sniff*[n][f 1 2 65535][e]
 
 [msg MSG_NML07_MNLG_NML_02_02]
-[s]*Pant**Pant**Pant* [n][f 1 2 65535][e]
+[s]*anf* *anf* *anf*[n][f 1 2 65535][e]
 
 [msg MSG_NML07_MNLG_NML_02_03]
-[s]Rrr... rowr...[n][f 1 2 65535][e]
+[s]Rrr... Rowr...[n][f 1 2 65535][e]
 
 [msg MSG_NML07_MNLG_ALT_02_01]
-[s]*Sniff** Sniff* Woof... Rowr...[n][f 1 2 65535][e]
+[s]*sniff* *sniff*[n]Bau... Rowr...[n][f 1 2 65535][e]
 
 [msg MSG_NML07_MNLG_ALT_02_02]
-[s]AWOOOOOO![n][f 1 2 65535][e]
+[s]Awoooooo![n][f 1 2 65535][e]
 
 [msg MSG_NML07_MNLG_ALT_02_03]
-[s]Woof![n]*Onomatopeia de cheirar* [n][f 1 2 65535][e]
+[s]Uau![n]*sniff* *sniff*...[n][f 1 2 65535][e]
 
 [msg MSG_STG01_MNLG_GUARD_02_]
 [s]Grrrrr...[n][f 1 2 65535][e]
 
 [msg MSG_STG01_MNLG_GUARD_02__2]
-[s]*cheirar**cheirar**cheirar* [n][f 1 2 65535][e]
+[s]*sniff* *sniff* *sniff*[n][f 1 2 65535][e]
 
 [msg MSG_STG01_MNLG_GUARD_02__3]
-[s]Ruff Ruff Ruff![n][f 1 2 65535][e]
+[s]Ruff ruff ruff![n][f 1 2 65535][e]
 

@@ -1,26 +1,26 @@
 [sel YESNO_SEL top]
-[s]Sim [e]
-[s]Não [e]
+[s]Sim[e]
+[s]Não[e]
 
-[msg MSG_000_0_0 [Thin-Browed Student]]
-[s][f 4 23 1 852 3 10 0 0][vp 1 0 0 0 0 0]Finalmente, eu terminei. Agora eu posso ir a[n]Shibuya com meu namorado.[n][w][e]
+[msg MSG_000_0_0 [Studentessa dall'aspetto curato]]
+[s][f 4 23 1 852 3 10 0 0][vp 1 0 0 0 0 0]Finalmente terminei.[n]Agora posso ir para Shibuya[n]com meu namorado.[n][w][e]
 
-[msg MSG_001_0_0 [Duck-Faced Student]]
-[s][f 4 23 1 853 3 10 0 0][vp 1 0 0 0 0 0]Oh, tenha cuidado. Ouvi dizer que há pessoas[n]causando todos os tipos de incidentes[n]estranhos recentemente.[n][w][e]
+[msg MSG_001_0_0 [Studentessa smorfiosa]]
+[s][f 4 23 1 853 3 10 0 0][vp 1 0 0 0 0 0]Ah, cuidado. Eu ouvi[n]que ultimamente[n]estranhos incidentes têm acontecido lá.[n][w][e]
 
-[msg MSG_002_0_0 [Thin-Browed Student]]
-[s][f 4 23 1 852 3 10 0 0][vp 1 0 0 0 0 0]Oh, aquela coisa quando as pessoas saem e[n]saem do nada? Tenho certeza de que a[n]polícia pode lidar com isso.[n][w][e]
+[msg MSG_002_0_0 [Studentessa dall'aspetto curato]]
+[s][f 4 23 1 852 3 10 0 0][vp 1 0 0 0 0 0]Ah, você está se referindo a casos de[n]insanidade repentina? Tenho certeza que a[n]polícia tem tudo sob controle.[n][w][e]
 
-[msg MSG_003_0_0 [Duck-Faced Student]]
-[s][f 4 23 1 853 3 10 0 0][vp 1 0 0 0 0 0]Sim, não vamos nos preocupar com isso.[n]Talvez eu pare em algum lugar divertido a[n]caminho de casa também.[n][w][e]
+[msg MSG_003_0_0 [Studentessa smorfiosa]]
+[s][f 4 23 1 853 3 10 0 0][vp 1 0 0 0 0 0]Já. Não precisa se preocupar.[n]Talvez eu vá a algum lugar[n]antes de ir para casa.[n][w][e]
 
-[msg MSG_004_0_0 [Glaring Third-Year]]
-[s][f 4 23 1 854 3 10 0 0][vp 1 0 0 0 0 0]Você viu esse segundo ano no time de vôlei?[n]Ele deve ter dado um pico na cara.[n][w][e]
+[msg MSG_004_0_0 [Studente del terzo anno adirato]]
+[s][f 4 23 1 854 3 10 0 0][vp 1 0 0 0 0 0]Você viu o segundo ano no time de vôlei? Uma[n]paquera absurda na cara![n][w][e]
 
-[msg MSG_005_0_0 [Assertive Volleyball Player]]
-[s][f 4 23 1 855 3 10 0 0][vp 1 0 0 0 0 0]Oh, Mishima, certo? Ele é um verdadeiro[n]lento, então não estou surpreso.[n][w][e]
-[s][vp 1 0 0 0 0 0]É frustrante de assistir. Ele não está[n]ficando muito melhor, mesmo com o[n]treinamento de Kamoshida.[n][w][e]
+[msg MSG_005_0_0 [Pallavolista risoluto]]
+[s][f 4 23 1 855 3 10 0 0][vp 1 0 0 0 0 0]Ah, Mishima, você diz? Isso não[n]me surpreende. Ele é muito lento.[n][w][e]
+[s][vp 1 0 0 0 0 0]É frustrante assistir. Nem[n]parece melhorar, nem com os treinos do[n]Prof. Kamoshida.[n][w][e]
 
-[msg MSG_006_0_0 [Glaring Third-Year]]
-[s][f 4 23 1 854 3 10 0 0][vp 1 0 0 0 0 0]Oh, eu ouvi dizer que Kamoshida foi[n]convidado pelo Campeonato Nacional? Isso é[n]incrível.[n][w][e]
+[msg MSG_006_0_0 [Studente del terzo anno adirato]]
+[s][f 4 23 1 854 3 10 0 0][vp 1 0 0 0 0 0]Oh, parece que Kamoshida[n]recebeu um convite para o[n]campeonato nacional. Fantástico.[n][w][e]
 

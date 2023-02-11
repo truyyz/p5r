@@ -2,8 +2,8 @@
 [s]......[n][w][e]
 
 [sel YESNO_SEL top]
-[s]Sim [e]
-[s]Não [e]
+[s]Sim[e]
+[s]Não[e]
 
 [msg MSG_ALERT_UP [Morgana]]
 [s][bup 0 3 0 0 0]警戒度が上がっちまったな(仮)[n][w][e]
@@ -12,591 +12,581 @@
 [s][bup 0 3 0 0 0]警戒度が下がったな(仮)[n][w][e]
 
 [msg MAP_SEARCH0 [Morgana]]
-[s][vp 1 0 0 8273 0 0]Analisando o campo...[n][f 1 6 65535][e]
+[s][vp 1 0 0 8273 0 0]Analisando campo...[n][f 1 6 65535][e]
 
 [msg MAP_SEARCH1 [Morgana]]
-[s][vp 1 0 0 8274 0 0]Vamos ver aqui... como é?[n][f 1 6 65535][e]
+[s][vp 1 0 0 8274 0 0]Vamos ver aqui...[n]Como é?[n][f 1 6 65535][e]
 
 [msg MAP_SEARCH2 [Morgana]]
-[s][vp 1 0 0 8275 0 0]Iniciando a pesquisa![n][f 1 6 65535][e]
+[s][vp 1 0 0 8275 0 0]Pesquisa iniciada![n][f 1 6 65535][e]
 
 [msg MAP_SYSTEM]
-[s]A habilidade de verificação de lembranças de[n]Futaba identificou tudo neste andar.[n][w][e]
+[s][n]A habilidade Memento Scan de Futaba identificou[n]tudo no chão.[n][w][e]
 
 [msg COIN_GET0 [Ryuji]]
-[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Huh? É aquele...?[n][w][e]
+[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Hã? Mas é...?[n][w][e]
 
 [msg COIN_GET1 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ei, você acha que essa é a flor que a[n]criança estava falando?[n][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ei, essa poderia ser a flor de que aquele garoto[n]estava falando?[n][w][e]
 
 [msg COIN_GET2 [Ann]]
-[s][bup 0 4 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]É assim que vimos perto da entrada. Foi[n]José-kun, certo?[n][w][e]
-[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu acho que ele queria isso, para que ele[n]pudesse beber o... néctar, ou algo assim.[n]Você acha que é realmente bom?[n][w][e]
+[s][bup 0 4 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]É como o que vimos perto da entrada. José, certo?[n][w][e]
+[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Acho que ele queria beber[n]o ... néctar, ou algo assim. Vai ser bom?[n][w][e]
 
 [msg COIN_GET3 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Quem sabe...[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Mas ele parecia amigável o suficiente,[n]então...[n]Talvez tenhamos algo para o nosso problema.[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos nos apegar a isso, Joker![n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Mas parecia amigável, então...[n]talvez consigamos algo de volta.[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Mantenha-o seguro, Joker![n][w][e]
 
 [msg STAMP_GET1 [Ann]]
-[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ei, isso está aqui...[n][w][e]
+[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ei, isso aqui...[n][w][e]
 
 [msg STAMP_GET2 [Ryuji]]
-[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ei, parece que há uma coisa de selo aqui.[n]Pode ser que o material que José estava[n]falando.[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Basta olhar para isso está me fazendo querer[n]ficar com um louco.[n][w][e]
+[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ei, aqui está um acordo para selos.[n]Talvez seja disso que[n]Jose estava falando.[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Só de olhar já dá vontade de carimbar tudo.[n][w][e]
 
 [msg STAMP_GET3 [Morgana]]
-[s][bup 0 3 5 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Crânio... você é um homem das cavernas.[n][w][e]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ele disse para procurar por isso e também as[n]flores.[n][w][e]
+[s][bup 0 3 5 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Caveira... você é mesmo um troglodita.[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ele disse para procurar por isso também,[n]além das flores.[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos carimbá-lo, Joker![n][w][e]
 
 [msg Stamp_reaccess [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Parece que já temos esse carimbo.[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Já temos este selo.[n][w][e]
 
 [msg Stamp_now_floor]
-[s][clr 2][var 1][clr 27]Carimbos restantes neste andar.[n][w][e]
+[s]SELOS RESTANTES NESTE ANDAR: [clr 2][var 1][n][clr 27].[n][w][e]
 
 [msg Stamp_all_floor]
-[s]VOCÊ TEM ATUALMENTE [clr 2][var 2][clr 27]Selos.[n][w][e]
+[s]VOCÊ TEM ATUALMENTE [clr 2][var 2][clr 27] SELOS.[n][w][e]
 
 [sel SHORTCUT_SEL top]
-[s]Recuperação automática [ref 0 0][e]
-[s] [var 0][ref 1 103][e]
-[s] [clr 30][var 0][ref 2 103][clr 27][e]
-[s] [var 1][ref 3 105][e]
-[s] [clr 30][var 1][ref 4 105][clr 27][e]
-[s] [var 2][ref 5 340][e]
-[s] [clr 30][var 2][ref 6 340][clr 27][e]
-[s] [var 3][ref 7 101][e]
-[s] [clr 30][var 3][ref 8 101][clr 27][e]
-[s] [var 4][ref 9 106][e]
-[s] [clr 30][var 4][ref 10 106][clr 27][e]
+[s]Autocura[ref 0 0][e]
 
 [msg MSG_RETURN_ITEM_SEL]
-[s]Voltar para a entrada de lembranças?[n][e]
+[s]De volta à entrada do Memento?[n][e]
 
 [sel START_CHECK_SEL top]
-[s]Vá para o quarto seguro mais recente [e]
-[s]Infiltrar-se como está [e]
-[s]Não entre ainda [e]
+[s]Vá para a última sala segura[e]
+[s]A infiltração começa aqui[e]
+[s]Não entre por enquanto[e]
 
 [msg START_CHECK_MES [Morgana]]
-[s][bup 0 3 0 65535 0]Então, de onde você quer começar a explorar?[n][w][e]
+[s][bup 0 3 0 65535 0]Então, por onde você quer[n]começar a explorar?[n][w][e]
 
 [msg START_CHECK_MES_NEXT [Morgana]]
-[s][bup 0 3 0 65535 0]Certifique-se de escolher o seu local[n]inicial com cuidado.[n][w][e]
+[s][bup 0 3 0 65535 0]Escolha bem a sua[n]posição inicial.[n][w][e]
 
 [sel DUNGEON_EXIT_SEL top]
-[s]*Especial [e]
-[s]Voltar ao mundo real [e]
-[s]Não saia ainda [e]
+[s]*Especial[e]
+[s]Volte para o mundo real[e]
+[s]Não saia ainda[e]
 
 [sel DUNGEON_EXIT_154_SEL top]
-[s]Vá para a cidade [e]
-[s]Voltar ao mundo real [e]
-[s]Não saia ainda [e]
+[s]Alcance a cidade[e]
+[s]Volte para o mundo real[e]
+[s]Não saia ainda[e]
 
 [sel DUNGEON_EXIT_155_SEL top]
-[s]Vá para a cidade [e]
-[s]Voltar ao mundo real [e]
-[s]Não saia ainda [e]
+[s]Alcance a cidade[e]
+[s]Volte para o mundo real[e]
+[s]Não saia ainda[e]
 
-[msg D01_EXIT_MES [Metaverse Navigator]]
-[s]Agora retornando ao mundo real do palácio de[n]Kamoshida. Obrigado pelo seu trabalho duro.[n][w][e]
+[msg D01_EXIT_MES [Navigatore del Metaverso]]
+[s]Retorne ao mundo real do[n]Kamoshida Palace. Obrigado[n]pelo trabalho realizado.[n][w][e]
 
-[msg D02_EXIT_MES [Metaverse Navigator]]
-[s]Agora retornando ao mundo real do palácio de[n]Madarame. Obrigado pelo seu trabalho duro.[n][w][e]
+[msg D02_EXIT_MES [Navigatore del Metaverso]]
+[s]Retorne ao mundo real do Palácio de[n]Madarame. Obrigado[n]pelo trabalho realizado.[n][w][e]
 
-[msg D03_EXIT_MES [Metaverse Navigator]]
-[s]Agora retornando ao mundo real do palácio de[n]Kaneshiro. Obrigado pelo seu trabalho duro.[n][w][e]
+[msg D03_EXIT_MES [Navigatore del Metaverso]]
+[s]Retorne ao mundo real do[n]Kaneshiro Palace. Obrigado[n]pelo trabalho realizado.[n][w][e]
 
-[msg D04_EXIT_MES [Metaverse Navigator]]
-[s]Agora retornando ao mundo real do palácio de[n]Futaba. Obrigado pelo seu trabalho duro.[n][w][e]
+[msg D04_EXIT_MES [Navigatore del Metaverso]]
+[s]Retorne ao mundo real do[n]Futaba Palace. Obrigado[n]pelo trabalho realizado.[n][w][e]
 
-[msg D05_EXIT_MES [Metaverse Navigator]]
-[s]Agora retornando ao mundo real do palácio de[n]Okumura. Obrigado pelo seu trabalho duro.[n][w][e]
+[msg D05_EXIT_MES [Navigatore del Metaverso]]
+[s]Retorne ao mundo real do[n]Okumura Palace. Obrigado[n]pelo trabalho realizado.[n][w][e]
 
-[msg D06_EXIT_MES [Metaverse Navigator]]
-[s]Agora retornando ao mundo real do palácio de[n]Niijima. Obrigado pelo seu trabalho duro.[n][w][e]
+[msg D06_EXIT_MES [Navigatore del Metaverso]]
+[s]Retorne ao mundo real do[n]Niijima Palace. Obrigado[n]pelo trabalho realizado.[n][w][e]
 
-[msg D07_EXIT_MES [Metaverse Navigator]]
-[s]Agora retornando ao mundo real do palácio de[n]Shido. Obrigado pelo seu trabalho duro.[n][w][e]
+[msg D07_EXIT_MES [Navigatore del Metaverso]]
+[s]Retorne ao mundo real do[n]Shido Palace. Obrigado[n]pelo trabalho realizado.[n][w][e]
 
-[msg D08_EXIT_MES [Metaverse Navigator]]
-[s]Agora retornando ao mundo real de[n]lembranças. Obrigado pelo seu trabalho duro.[n][w][e]
+[msg D08_EXIT_MES [Navigatore del Metaverso]]
+[s]De volta ao mundo real[n]dai Memento. Obrigado[n]pelo trabalho realizado.[n][w][e]
 
-[msg D10_EXIT_MES [Metaverse Navigator]]
-[s]Agora retornando ao mundo real do palácio de[n]Maruki. Obrigado pelo seu trabalho duro.[n][w][e]
+[msg D10_EXIT_MES [Navigatore del Metaverso]]
+[s]Retorne ao mundo real do Palácio de[n]Maruki. Obrigado[n]pelo trabalho realizado.[n][w][e]
 
 [msg DUNGEON_ROUTE_COMP_PC03_ [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1185 65535 0]Nós garantimos nossa rota para o tesouro...[n]Você quer sair daqui?[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1185 65535 0]Nós encontramos nosso caminho[n]para o Tesouro... Você quer sair daqui?[n][w][e]
 
 [msg DUNGEON_ROUTE_COMP_PC04_ [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1174 65535 0]Acho que tudo o que podemos fazer agora é se[n]preparar para o dia do destino... Então, e[n]agora? Você quer voltar?[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1174 65535 0]Acho que tudo o que temos que fazer é[n]preparar para o[n]Destiny Day... Vamos voltar?[n][w][e]
 
 [msg DUNGEON_EXIT_NOT_01_PC02 [Ryuji]]
-[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Já estamos indo de volta? Não fizemos nada...[n][w][e]
+[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Já vamos voltar?[n]Não fizemos nada...[n][w][e]
 
 [msg DUNGEON_EXIT_NOT_01_PC03 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]O que há de errado, Joker? Ainda não fizemos[n]nada.[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Há algo errado, Joker? Ainda não[n]fizemos nada.[n][w][e]
 
 [msg DUNGEON_EXIT_NOT_01_PC04 [Ann]]
 [s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Huh? Você já quer ir para casa?[n]Mas não fizemos nada.[n][w][e]
 
 [msg DUNGEON_EXIT_NOT_01_PC05 [Yusuke]]
-[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]O que parece ser o problema? Ainda temos que[n]explorar hoje.[n][w][e]
+[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Qual é o problema? Hoje ainda não[n]exploramos nada.[n][w][e]
 
 [msg DUNGEON_EXIT_NOT_01_PC06 [Makoto]]
-[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]O que está errado- você quer voltar?[n]Apesar de não ter feito nada ainda?[n][w][e]
+[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]O que acontece? Você quer voltar[n]mesmo que ainda não tenhamos feito nada?[n][w][e]
 
 [msg DUNGEON_EXIT_NOT_01_PC07 [Futaba]]
-[s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Huh? Estamos indo para casa, Joker? Parece[n]que nem fizemos nada hoje.[n][w][e]
+[s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Huh? Devemos ir para casa, Joker?[n]Nós basicamente[n]não fizemos nada hoje.[n][w][e]
 
 [msg DUNGEON_EXIT_NOT_01_PC08 [Haru]]
-[s][bup 0 7 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Joker, qual é o problema? Não conseguimos[n]fazer nada até agora.[n][w][e]
+[s][bup 0 7 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]O que há de errado, Joker?[n]Hoje ainda não conseguimos[n]nada.[n][w][e]
 
 [msg DUNGEON_EXIT_NOT_01_PC09 [Akechi]]
-[s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]HM? Você deseja voltar? Mas ainda temos que[n]realizar algo significativo em nosso tempo[n]aqui.[n][w][e]
+[s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Hum? Você deseja voltar? Mas ainda não[n]resolvemos nada[n]por hoje.[n][w][e]
 
 [msg DUNGEON_EXIT_NOT_01_PC10 [[f 4 31 10 0]]]
-[s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Huh, estamos voltando? Eu sinto que ainda[n]não fizemos nada ainda...[n][w][e]
+[s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ei, vamos voltar? Eu tenho como[n]a impressão de que não[n]fiz muito hoje...[n][w][e]
 
 [msg DUNGEON_EXIT_01_PC02_mes [Ryuji]]
-[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7072 65535 0]E aí? Você quer voltar e se reagrupar?[n][w][e]
+[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7072 65535 0]E aí? Você quer que voltemos[n]e nos reagrupemos?[n][w][e]
 
 [msg DUNGEON_EXIT_01_PC03_mes [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1059 65535 0]HM? Você quer recuar, Joker?[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1059 65535 0]Hum? Você vai se aposentar, Joker?[n][w][e]
 
 [msg DUNGEON_EXIT_01_PC04_mes [Ann]]
-[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6072 65535 0]O que está errado? Você quer sair daqui?[n][w][e]
+[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6072 65535 0]Algo errado? Você quer[n]sair daqui?[n][w][e]
 
 [msg DUNGEON_EXIT_01_PC05_mes [Yusuke]]
-[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4072 65535 0]Deseja reconvender-se, Joker?[n][w][e]
+[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4072 65535 0]Quer que reorganizemos, Joker?[n][w][e]
 
 [msg DUNGEON_EXIT_01_PC06_mes [Makoto]]
-[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2120 65535 0]HM? Você quer voltar?[n][w][e]
+[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2120 65535 0]Hum? Você quer voltar?[n][w][e]
 
 [msg DUNGEON_EXIT_01_PC07_mes [Futaba]]
-[s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9136 65535 0]Pode ser uma boa ideia ir para casa e se[n]reagrupar.[n][w][e]
+[s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9136 65535 0]Não seria uma má ideia[n]ir para casa e se reagrupar.[n][w][e]
 
 [msg DUNGEON_EXIT_01_PC08_mes [Haru]]
-[s][bup 0 7 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 3001 65535 0]É hora de nos retirarmos?[n][w][e]
+[s][bup 0 7 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 3001 65535 0]É hora de se aposentar?[n][w][e]
 
 [msg DUNGEON_EXIT_01_PC09_mes [Akechi]]
 [s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 8130 65535 0]Oh? Estamos recuando?[n][w][e]
 
 [msg DUNGEON_EXIT_01_PC10_mes [[f 4 31 10 0]]]
-[s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 57089 65535 0]Oh, devemos nos reagrupar?[n][w][e]
+[s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 57089 65535 0]Oh, temos que reagrupar?[n][w][e]
 
 [msg DUNGEON_EXIT_01_PC11_mes [Akechi]]
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 8130 65535 0]Oh? Estamos recuando?[n][w][e]
 
 [msg ATD_EXIT_REMIND_FLOWER_V [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 53101 65535 0]José disse que as flores desaparecem quando[n]você sai de lembranças...[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 53101 65535 0]Jose disse que as flores[n]desaparecem quando você[n]deixa os Mementos...[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]......[n][w][e]
 
 [msg ATD_EXIT_REMIND_FLOWER_V_2 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 53101 65535 0]José disse que as flores desaparecem quando[n]você sai de lembranças...[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]A quantidade de flores que você coletou até[n]agora é [n][clr 2][var 0][clr 27]. Você ainda quer sair?[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 53101 65535 0]Jose disse que as flores[n]desaparecem quando você[n]deixa os Mementos...[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Você coletou [clr 2][var 0][clr 27] flores até agora.[n]Você realmente quer ir embora?[n][w][e]
 
 [msg ATD_EXIT_REMIND_FLOWER_V_3 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1185 65535 0]HM? Estamos voltando?[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]A quantidade de flores que você tem agora é [clr 2][var 0][clr 27]. Se você sair, eles desaparecerão.[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1185 65535 0]Hum? Vamos voltar?[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Atualmente você tem [clr 2][var 0][clr 27] flores.[n]Se você sair, elas desaparecerão.[n][w][e]
 
 [msg ATD_EXIT_CABLE_VANISHED_ [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1185 65535 0]Fizemos tudo o que precisávamos.[n]Quer chamar de dia?[n][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1185 65535 0]Fizemos tudo[n]que precisávamos. Vamos terminar aqui por hoje?[n][w][e]
 
 [msg ATD_EXIT_CANCEL_CABLE_VA [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1035 65535 0]Tudo bem. Vamos explorar um pouco mais.[n][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1035 65535 0]Concordar. Vamos explorar[n]um pouco mais.[n][w][e]
 
 [msg D_EXIT_OK_01_PC02_mes [Ryuji]]
-[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7050 65535 0]Mkay, vamos dar uma volta.[n][w][e]
+[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7050 65535 0]OK, vamos mover.[n][w][e]
 
 [msg D_EXIT_OK_01_PC03_mes [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1049 65535 0]MM, vamos voltar hoje.[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1049 65535 0]Mmm, estamos de volta por hoje.[n][w][e]
 
 [msg D_EXIT_OK_01_PC04_mes [Ann]]
-[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6049 65535 0]OK, vamos lá.[n][w][e]
+[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6049 65535 0]OK, vamos.[n][w][e]
 
 [msg D_EXIT_OK_01_PC05_mes [Yusuke]]
-[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4049 65535 0]HM, muito bem. Vamos voltar.[n][w][e]
+[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4049 65535 0]Muito bom. Nós voltamos.[n][w][e]
 
 [msg D_EXIT_OK_01_PC06_mes [Makoto]]
-[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2049 65535 0]Ok, podemos chamá-lo um dia.[n][w][e]
+[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2049 65535 0]OK, vamos parar por aqui por hoje.[n][w][e]
 
 [msg D_EXIT_OK_01_PC07_mes [Futaba]]
-[s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9050 65535 0]Ah, sim, vamos para casa![n][w][e]
+[s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9050 65535 0]OK, vamos para casa![n][w][e]
 
 [msg D_EXIT_OK_01_PC08_mes [Haru]]
 [s][bup 0 7 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 3049 65535 0]Muito bem. Vamos para casa.[n][w][e]
 
 [msg D_EXIT_OK_01_PC09_mes [Akechi]]
-[s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 8035 65535 0]Isso é uma boa ideia. Nesse caso, vamos sair[n]daqui.[n][w][e]
+[s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 8035 65535 0]Boa ideia. Nesse caso,[n]vamos sair daqui.[n][w][e]
 
 [msg D_EXIT_OK_01_PC10_mes [[f 4 31 10 0]]]
-[s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 57066 65535 0]Entendido. Vamos voltar naquela época?[n][w][e]
+[s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 57066 65535 0]Eu entendi. Vamos voltar, então?[n][w][e]
 
 [msg D_EXIT_OK_01_PC11_mes [Akechi]]
-[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 8138 65535 0]Isso é uma boa ideia. Nesse caso, vamos sair[n]daqui.[n][w][e]
+[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 8138 65535 0]Boa ideia. Nesse caso,[n]vamos sair daqui.[n][w][e]
 
 [sel DUNGEON_EXIT_151_EX_SEL top]
-[s]*Especial [e]
-[s]Ative o [clr 6]Metaverse Nav [clr 27][e]
-[s]Não ative o NAV [e]
+[s]*Especial[e]
+[s]Ative o [clr 6]navegador do metaverso[clr 27][e]
+[s]Não ative o Navi[e]
 
 [msg DUNGEON_EXIT_D01_EX_mes [Ryuji]]
-[s][bup 0 2 0 65535 0]Se usarmos essa coisa de navegação por aqui,[n]estou pensando que nos levará de volta ao[n]mundo real.[n][w][e]
+[s][bup 0 2 0 65535 0]Se usarmos esse navegador[n]por aqui, ele deve nos levar[n]de volta ao mundo real.[n][w][e]
 
 [msg D_EXIT_OK_D01_EX_mes [Ryuji]]
-[s][bup 0 2 0 65535 0]Doce, funcionou![n][w][e]
+[s][bup 0 2 0 65535 0]Ótimo, funcionou![n][w][e]
 
 [msg D_EXIT_NG_D01_EX_mes [Ryuji]]
-[s][bup 0 2 0 65535 0]O que você está fazendo? Vamos sair aqui![n][w][e]
+[s][bup 0 2 0 65535 0]O que você está fazendo?[n]Vamos sair daqui![n][w][e]
 
 [msg D_EXIT_CANCEL_PC02_mes [Ryuji]]
-[s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7080 65535 0]Mkay. Eu posso continuar indo para isso é[n]isso que você quer.[n][w][e]
+[s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7080 65535 0]OK. Posso continuar,[n]se é isso que você quer.[n][w][e]
 
 [msg D_EXIT_CANCEL_PC03_mes [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1096 65535 0]Direita. Bem, então, vamos continuar nossa[n]exploração.[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1096 65535 0]Bom. Então vamos continuar[n]explorar.[n][w][e]
 
 [msg D_EXIT_CANCEL_PC04_mes [Ann]]
-[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6096 65535 0]Ok, vamos olhar em volta aqui um pouco mais[n]do que.[n][w][e]
+[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6096 65535 0]OK, então vamos dar uma olhada[n]mais um pouco.[n][w][e]
 
 [msg D_EXIT_CANCEL_PC05_mes [Yusuke]]
-[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4052 65535 0]Concordo. Espero que ainda haja lugares[n]ainda não vistos.[n][w][e]
+[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4052 65535 0]Concordo. Acho que há[n]outros lugares para descobrir.[n][w][e]
 
 [msg D_EXIT_CANCEL_PC06_mes [Makoto]]
 [s][bup 0 6 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2081 65535 0]Direita. Vamos continuar.[n][w][e]
 
 [msg D_EXIT_CANCEL_PC07_mes [Futaba]]
-[s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9130 65535 0]Peguei vocês. Vamos ficar lá um pouco mais.[n][w][e]
+[s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9130 65535 0]Entendido. Vamos dar uma olhada em outro[n]bit.[n][w][e]
 
 [msg D_EXIT_CANCEL_PC08_mes [Haru]]
-[s][bup 0 7 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 3051 65535 0]Mm-hm. Bem, vamos voltar à nossa exploração.[n][w][e]
+[s][bup 0 7 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 3051 65535 0]Mm-hm. Bem, de volta à[n]nossa exploração.[n][w][e]
 
 [msg D_EXIT_CANCEL_PC09_mes [Akechi]]
-[s][bup 0 9 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 8070 65535 0]Muito bem, vamos avançar um pouco mais.[n][w][e]
+[s][bup 0 9 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 8070 65535 0]Muito bem, vamos continuar[n]um pouco mais.[n][w][e]
 
 [msg D_EXIT_CANCEL_PC10_mes [[f 4 31 10 0]]]
-[s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 57163 65535 0]Sim. Vamos um pouco mais longe.[n][w][e]
+[s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 57163 65535 0]Sim. Vamos um pouco mais adiante.[n][w][e]
 
 [msg D_EXIT_CANCEL_PC11_mes [Akechi]]
-[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 8137 65535 0]Muito bem. Mas não decepcione sua guarda.[n][w][e]
+[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 8137 65535 0]Muito bem. Mas não vamos baixar a guarda.[n][w][e]
 
 [msg ALERT_MAX_EXIT_mes00 [Morgana]]
-[s][bup 0 3 4 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1039 65535 0]NGH, isso é ruim! O nível de segurança aqui[n]é muito alto![n][w][e]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Nossas vidas estarão em perigo se[n]continuarmos explorando mais.[n][w][e]
-[s]Precisamos recuar, Joker![n][w][e]
+[s][bup 0 3 4 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1039 65535 0]Ngh, está indo mal! Aqui o nível de[n]alerta está muito alto![n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Se continuarmos a explorar,[n]iremos arriscar seriamente nossas vidas.[n][w][e]
+[s]Devemos recuar, Joker![n][w][e]
 
 [msg ALERT_MAX_EXIT_mes01 [Ryuji]]
-[s][bup 0 2 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7044 65535 0]J-apenas segure um segundo. Poderíamos[n]prolicamente ir um pouco- [n][w][e]
+[s][bup 0 2 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7044 65535 0]E-Espere um minuto. Talvez[n]pudéssemos continuar mais um...[n][w][e]
 
 [msg ALERT_MAX_EXIT_mes02 [Morgana]]
-[s][bup 0 3 3 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1082 65535 0]O número de sombras está aumentando[n]rapidamente! Precisamos sair! Pressa![n][w][e]
+[s][bup 0 3 3 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1082 65535 0]O número de Sombras está[n]aumentando rapidamente! Devemos[n]sair! Em breve![n][w][e]
 
 [msg D_EXIT_NG_ACTIVE_01_PC02 [Ryuji]]
-[s][bup 0 2 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7041 65535 0]Cara, o quê!? Já enviamos o cartão de visita![n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Todo esse trabalho duro não será por nada se[n]não roubarmos o tesouro hoje![n][w][e]
+[s][bup 0 2 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7041 65535 0]O que você diz, o que?!? Já[n]enviamos a carta de aviso![n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Todo esse trabalho duro vai virar fumaça se não[n]roubarmos o Tesouro hoje![n][w][e]
 
 [msg D_EXIT_NG_ACTIVE_01_PC03 [Morgana]]
-[s][bup 0 3 4 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1040 65535 0]O que? Você não estava ouvindo nada que eu[n]disse!?[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Se não tomarmos o tesouro hoje, tudo o que[n]fizemos agora será desperdiçado![n][w][e]
+[s][bup 0 3 4 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1040 65535 0]Coisa? Mas quando eu falo, você me ouve ou não?[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Se não pegarmos o Tesouro hoje,[n]tudo o que fizemos[n]até agora terá sido em vão![n][w][e]
 
 [msg D_EXIT_NG_ACTIVE_01_PC04 [Ann]]
-[s][bup 0 4 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6039 65535 0]Não! Não está acontecendo! Absolutamente,[n]definitivamente não![n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Toda a nossa preparação sairá pela janela se[n]não tomarmos o tesouro hoje![n][w][e]
+[s][bup 0 4 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6039 65535 0]Não! Absolutamente não![n]De jeito nenhum![n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Se não pegarmos o Tesouro[n]hoje, jogaremos fora todos[n]os nossos preparativos![n][w][e]
 
 [msg D_EXIT_NG_ACTIVE_01_PC05 [Yusuke]]
-[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4104 65535 0]Você quer voltar? Haha, é raro ouvir você[n]brincar dessa maneira durante uma missão.[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos voltar à tarefa em questão, Joker.[n][w][e]
+[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4104 65535 0]Você quer voltar...? Haha,[n]geralmente você não brinca[n]durante as missões.[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos voltar ao trabalho, Joker.[n][w][e]
 
 [msg D_EXIT_NG_ACTIVE_01_PC06 [Makoto]]
-[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2043 65535 0]Venha agora, sem reclamar. Você não é nosso[n]líder?[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Devemos levar o tesouro hoje, não importa o[n]custo![n][w][e]
+[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2043 65535 0]Vamos lá, não reclame.[n]Você é ou não é nosso líder?[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Devemos pegar o Tesouro[n]hoje, custe o que custar![n][w][e]
 
 [msg D_EXIT_NG_ACTIVE_01_PC07 [Futaba]]
-[s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]KK, vamos para casa...[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9100 65535 0]Uh... isso foi uma piada. Sem ir para casa[n]agora.[n][w][e]
+[s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Bom, vamos para casa...[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9100 65535 0]Ei... Brincadeirinha.[n]Agora não há como voltar atrás.[n][w][e]
 
 [msg D_EXIT_NG_ACTIVE_01_PC08 [Haru]]
-[s][bup 0 7 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu pensei que não poderíamos sair quando[n]enviarmos o cartão de visita...[n][w][e]
-[s][bup 0 7 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 3136 65535 0]Não se preocupe, Joker. Você tem todo o[n]nosso apoio![n][w][e]
+[s][bup 0 7 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Achei que não poderíamos[n]voltar atrás depois da carta de aviso...[n][w][e]
+[s][bup 0 7 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 3136 65535 0]Não se preocupe, Joker. Você tem[n]todo o nosso apoio![n][w][e]
 
 [msg D_EXIT_NG_ACTIVE_01_PC09 [Akechi]]
-[s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 8112 65535 0]Você deseja sair depois de vir até aqui?[n]Como você é diferente de você.[n][w][e]
-[s][bup 0 9 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Devemos tentar fazer isso hoje.[n]Vou lhe dar minha ajuda.[n][w][e]
+[s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 8112 65535 0]Você quer ir embora depois que chegamos até aqui?[n]Não é como você.[n][w][e]
+[s][bup 0 9 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Hoje, porém, devemos tentar.[n]Vou lhe dar minha ajuda.[n][w][e]
 
 [msg D_EXIT_NG_ACTIVE_01_PC10 [[f 4 31 10 0]]]
-[s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 57118 65535 0]Eu pensei que não poderíamos voltar quando o[n]cartão de visita foi enviado?[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos lá, Joker. Vou dar tudo de mim também.[n][w][e]
+[s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 57118 65535 0]Eu pensei que você nunca poderia voltar depois de[n]enviar a carta de aviso, certo?[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos, Joker.[n]Vou dar tudo de mim também.[n][w][e]
 
 [msg D_EXIT_NG_ACTIVE_01_PC11 [Akechi]]
-[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 8018 65535 0]Nós chegamos até aqui. Não podemos voltar[n]agora.[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos terminar isso.[n][w][e]
+[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 8018 65535 0]Nós viemos até aqui. Não podemos desistir[n]agora.[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos acabar com isso.[n][w][e]
 
 [msg SAFEROOM_EXIT_PC03_mes [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Você realmente quer voltar, Joker?[n][w][e]
 
 [msg SAFEROOM_EXIT_PC07_mes [Futaba]]
-[s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Nós realmente voltamos para casa, Joker?[n][w][e]
+[s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos mesmo para casa, Joker?[n][w][e]
 
 [msg D01_04_e166_015_mes01 [Ryuji]]
-[s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7103 65535 0]Mkay, tudo o que temos agora é roubar o[n]tesouro que aparece, sim? Finalmente chegou[n]a hora.[n][w][e]
+[s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7103 65535 0]OK, agora só temos que roubar[n]o tesouro que aparecerá,[n]não? Finalmente chegou a hora.[n][w][e]
 
 [msg D01_04_e166_015_mes02 [Ann]]
-[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Mas precisamos enviar o cartão de visita[n]primeiro. Quando devemos fazer isso?[n][w][e]
+[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Mas primeiro temos que enviar a[n]carta de aviso. Quando faremos isso?[n][w][e]
 
 [msg D01_04_e166_015_mes03 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Apenas segure. Vamos recuar por enquanto,[n]então podemos falar mais sobre essas coisas[n]no esconderijo.[n][w][e]
-[s][bup 0 3 1 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1030 65535 0]Ah, e muito bem hoje![n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos esperar. Vamos nos retirar por enquanto,[n]falaremos mais sobre isso[n]na reunião.[n][w][e]
+[s][bup 0 3 1 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1030 65535 0]Ah, e bom trabalho![n][w][e]
 
 [msg D02_MISSION_POINT_PC03_m [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1172 65535 0]Devemos sair e tentar desmembrar a segurança[n]do pátio.[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1172 65535 0]Devemos sair e[n]tentar desativar os sistemas de segurança[n]do pátio.[n][w][e]
 
 [msg D02_04_e210_240_mes01 [Ryuji]]
-[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7153 65535 0]Bem, ainda estou meio preocupado... mas[n]temos que fazer isso.[n][w][e]
+[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7153 65535 0]Ainda estou um pouco preocupado...[n]mas podemos fazer isso.[n][w][e]
 
 [msg D02_04_e210_240_mes02 [Yusuke]]
-[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4076 65535 0]Eu não posso nem começar a entender qual[n]pode ser o tesouro de Madarame...[n][w][e]
+[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4076 65535 0]Nem imagino o que pode ser o Tesouro de[n]Madarame...[n][w][e]
 
 [msg D02_04_e210_240_mes03 [Ann]]
-[s][bup 0 4 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]De qualquer forma, roubaremos com certeza.[n]Ah, e todos vocês fizeram muito bem hoje![n][w][e]
+[s][bup 0 4 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Seja o que for, vamos roubá-lo[n]com certeza. Oh, vocês foram ótimos hoje![n][w][e]
 
 [msg D03_FIRST_END_PC03_mes [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1172 65535 0]A porta cognitiva está fechada. Devemos[n]voltar?[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1172 65535 0]A porta do conhecimento está fechada.[n]Devemos voltar?[n][w][e]
 
 [msg D06_FIRST_END_PC06_mes [Makoto]]
-[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2118 65535 0]Precisamos nos reagrupar de volta no mundo[n]real por enquanto.[n][w][e]
+[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2118 65535 0]Por enquanto, temos que ir[n]para o mundo real.[n][w][e]
 
 [msg D07_FIRST_END_PC03_mes [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1174 65535 0]Tudo bem, Joker. Vamos recuar![n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1174 65535 0]Tudo bem, Joker! Retiro![n][w][e]
 
 [msg D01_EXIT_NG_EV01_mes01 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Para onde você está indo, Joker?[n][w][e]
-[s]Não checamos essas células o suficiente?[n]Vamos olhar mais para dentro do castelo a[n]seguir.[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Onde você está indo, Joker?[n][w][e]
+[s]Já não verificamos minuciosamente[n]essas celas? Vamos aprofundar[n]no castelo.[n][w][e]
 
 [msg D01_EXIT_NG_EV01_mes02 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Teremos que passar pelo hall de entrada para[n]chegar lá... mas a porta não estava[n]trancada?[n][w][e]
-[s]Será impossível, a menos que possamos[n]encontrar outra rota para o primeiro andar[n]daquele salão.[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Para chegar lá teremos que passar[n]pelo hall de entrada, mas...[n]a porta não estava fechada?[n][w][e]
+[s]Será impossível, a menos que[n]encontremos outra estrada que leve[n]ao primeiro andar daquela sala.[n][w][e]
 
 [msg D07_DUNGEON_EXIT_SC_mes0 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos lá, chegamos a todo esse caminho.[n]Vamos pelo menos tentar verificar um pouco[n]mais primeiro.[n][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos, chegamos até aqui.[n]Pelo menos vamos tentar[n]outra olhada primeiro.[n][w][e]
 
 [sel RARE_TBOX_YES_NO top]
-[s]Abra o peito [e]
-[s]Ignore por agora [e]
+[s]Abra o baú[e]
+[s]Ignorar por enquanto[e]
 
 [msg RARE_TBOX_MSG_M [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 0 1167 65535 0]Huh, está trancado...[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 0 1167 65535 0]Ah, está fechado...[n][w][e]
 
 [msg RARE_TBOX_MSG_NO_KEY_M [Morgana]]
-[s][bup 0 3 5 0 0][f 4 10 65535 0 0]É uma pena que não temos um [f 2 5 3 9999 0]agora mesmo.[n]Vamos fazer alguns mais tarde.[n][w][e]
+[s][bup 0 3 5 0 0][f 4 10 65535 0 0]Pena que não temos[n]a [f 2 5 3 9999 0] no momento.[n]Voltamos mais tarde.[n][w][e]
 
 [msg RARE_TBOX_MSG_KEY_CONF_M [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Precisa de um [f 2 5 3 9999 0]...[n]Nós temos [var 1]daqueles. Quer abri-lo?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Devemos usar [f 2 5 3 9999 0]...[n]Temos [var 1].[n]Deseja abri-lo?[n][w][e]
 
 [msg RARE_TBOX_MSG_F [Futaba]]
-[s][bup 0 8 100 0 0][f 4 10 65535 0 0][vp 8 2 0 9114 65535 0]Eh? Este baú do tesouro tem uma fechadura[n]agradável e pesada.[n][w][e]
+[s][bup 0 8 100 0 0][f 4 10 65535 0 0][vp 8 2 0 9114 65535 0]Huh? Este baú tem um[n]bom bloqueio resistente.[n][w][e]
 
 [msg RARE_TBOX_MSG_NO_KEY_F [Futaba]]
-[s][bup 0 8 100 0 0][f 4 10 65535 0 0]Mas o seu [f 2 5 3 9999 0]A contagem cai para zero. Talvez da próxima[n]vez lembre-se de trazer alguns.[n][w][e]
+[s][bup 0 8 100 0 0][f 4 10 65535 0 0]Mas você não tem nenhum [f 2 5 3 9999 0].[n]Talvez da próxima vez lembre-se[n]de trazer alguns.[n][w][e]
 
 [msg RARE_TBOX_MSG_CONF_F [Futaba]]
-[s][bup 0 8 100 0 0][f 4 10 65535 0 0]Parece que você realmente tem um [n][f 2 5 3 9999 0]![var 1], para ser exato.[n]Vamos abrir este bebê![n][w][e]
+[s][bup 0 8 100 0 0][f 4 10 65535 0 0]Mas você tem um[n][f 2 5 3 9999 0]! [var 1], para ser[n]exato. Vamos abrir nosso amigo![n][w][e]
 
 [msg RARE_TBOX_MSG_NO_KEY_1ST [Morgana]]
-[s][bup 0 3 11 0 0][f 4 10 65535 0 0]Para abrir esses baús de tesouro, você[n]precisa de uma ferramenta especial chamada[n]de  [f 2 5 3 9999 0].[n][w][e]
+[s][bup 0 3 11 0 0][f 4 10 65535 0 0]Para abrir esses baús[n]você precisa de uma ferramenta[n]chamada [f 2 5 3 9999 0].[n][w][e]
 
 [msg RARE_TBOX_MSG_NO_KEY_1ST_2 [Futaba]]
-[s][bup 0 8 104 0 0][f 4 10 65535 0 0]Um ladrão que não pode fazer um [f 2 5 3 9999 0][n]sozinhos? Isso é surpreendente.[n][w][e]
-[s][bup 0 8 100 0 0][f 4 10 65535 0 0]Faça com que Morgana ensine como quando você[n]chega em casa.[n][w][e]
+[s][bup 0 8 104 0 0][f 4 10 65535 0 0]Um ladrão que não consegue construir sozinho[n]apenas um [f 2 5 3 9999 0].[n]Que estranho.[n][w][e]
+[s][bup 0 8 100 0 0][f 4 10 65535 0 0]Quando você chegar em casa, deixe[n]morgana te ensinar.[n][w][e]
 
 [msg RARE_TBOX_MSG_NO_KEY_2ND [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Eu já mencionei isso antes, mas não me[n]importaria de ensinar a você como fazer um [n][f 2 5 3 9999 0]às vezes.[n][w][e]
-[s]Bem, acho que isso pode esperar até[n]chegarmos em casa.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Eu já mencionei... Uma[n]dessas gostaria de ensiná-lo a[n]criar um [f 2 5 3 9999 0].[n][w][e]
+[s]Bem, podemos adiá-lo até quando chegarmos em casa.[n][w][e]
 
 [msg RARE_TBOX_MSG_NO_KEY_2ND_2 [Futaba]]
-[s][bup 0 8 100 0 0][f 4 10 65535 0 0]Espere, você ainda não sabe como fazer um [f 2 5 3 9999 0]?[n][w][e]
-[s]Faça com que Morgana ensine como quando você[n]chega em casa.[n][w][e]
+[s][bup 0 8 100 0 0][f 4 10 65535 0 0]Espere um pouco, você ainda não sabe[n]como criar um [f 2 5 3 9999 0]?[n][w][e]
+[s]Quando você chegar em casa, deixe[n]morgana te ensinar.[n][w][e]
 
 [msg RARE_TBOX_MSG_NO_KEY_ADD [Morgana]]
-[s][vp 8 2 0 1169 65535 0][bup 0 3 3 0 0][f 4 10 65535 0 0]... Embora eu ache que sua mesa[n]provavelmente está muito confusa para isso[n]agora.[n][w][e]
+[s][vp 8 2 0 1169 65535 0][bup 0 3 3 0 0][f 4 10 65535 0 0]...Embora agora sua[n]mesa esteja provavelmente muito[n]bagunçada para essas coisas.[n][w][e]
 
 [msg RARE_TBOX_MSG_NO_KEY_ADD_2 [Futaba]]
-[s][bup 0 8 103 0 0][f 4 10 65535 0 0][vp 8 2 0 9197 65535 0]... Embora essa mesa no seu quarto possa[n]estar muito confusa para você fazer[n]qualquer coisa agora...[n][w][e]
+[s][bup 0 8 103 0 0][f 4 10 65535 0 0][vp 8 2 0 9197 65535 0]...Embora agora[n]sua mesa esteja muito[n]bagunçada...[n][w][e]
 
 [msg TBOX_MSG_DIRTYMAIL1ST_M [Morgana]]
-[s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 0 1029 65535 0]Ei... essas coisas são nojentas.[n]Você deve limpar em algum lugar...[n][w][e]
-[s]Venha para pensar sobre isso, lembro-me de[n]ver uma sombra com uma... talvez se[n]negociarmos corretamente, podemos conseguir[n]um.[n][w][e]
+[s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 0 1029 65535 0]Ei... Essa coisa é um pouco[n]assustadora... Você deveria levá-la[n]lavar.[n][w][e]
+[s]Agora que penso nisso, lembro-me de[n]ver uma sombra que o tinha.[n]Talvez possamos pegá-lo negociando.[n][w][e]
 
 [msg TBOX_MSG_DIRTYMAIL1ST_M2 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Espere, não havia uma roupa de moeda perto[n]de LeBlanc?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Espere, não há uma lavanderia perto do Leblanc?[n][w][e]
 
 [msg TBOX_MSG_DIRTYMAIL1ST_F [Futaba]]
-[s][bup 0 8 105 0 0][f 4 10 65535 0 0][vp 8 2 0 9029 65535 0]Ughhh... esse equipamento é nojento. Você[n]deve lavá-lo em algum lugar![n][w][e]
-[s]IIRC, há uma roupa de moeda perto de LeBlanc.[n][w][e]
+[s][bup 0 8 105 0 0][f 4 10 65535 0 0][vp 8 2 0 9029 65535 0]Ughh... Essa coisa está tão suja.[n]Você deveria levar para lavar![n][w][e]
+[s]Se bem me lembro, há uma lavanderia ao lado do Leblanc.[n][w][e]
 
 [msg TBOX_MSG_SKILL_ACCESSORY [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Este acessório parece ter algum poder[n]especial... aposto que será útil de alguma[n]forma![n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Este acessório parece[n]possuir um poder especial...[n]aposto que será útil![n][w][e]
 
 [msg TBOX_MSG_SKILL_ACCESSORY_2 [Akechi]]
-[s][bup 0 9 800 0 0][f 4 10 65535 0 0]Eu posso sentir algum tipo de poder especial[n]disso... Pode ser aconselhável segurá-lo.[n][w][e]
+[s][bup 0 9 800 0 0][f 4 10 65535 0 0]Eu sinto algum[n]poder especial dentro dele...[n]É melhor segurá-lo.[n][w][e]
 
 [msg RARE_TBOX_MSG_NO_KEY_SER [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Bem, acho que esta é a sua primeira vez.[n]Aqui, você pode ter este. É minha posse[n]valiosa.[n][w][e]
-[s]Mas da próxima vez você será responsável por[n]isso, tudo bem?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Acho que é sua primeira vez:[n]Pegue isso.[n]É algo que eu prezo.[n][w][e]
+[s]Mas da próxima vez[n]você cuida disso, entendeu?[n][w][e]
 
 [sel RARE_TBOX_NO_KEY_SERVICE top]
 [s]O que você quer dizer?[e]
 [s]Eu quero mais![e]
 
 [msg RARE_TBOX_MSG_NO_KEY_SER_2 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Você vai fazer o seu próprio. Eu posso te[n]ensinar como voltar ao seu quarto.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Você vai criar o seu próprio. Posso[n]ensiná-lo como, no seu quarto.[n][w][e]
 
 [msg RARE_TBOX_MSG_NO_KEY_SER_3 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Talvez, mas um ladrão como você deveria ser[n]capaz de fazer suas próprias ferramentas.[n]Eu posso te ensinar como no seu quarto.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Talvez, mas um ladrão como você deve[n]ser capaz de fazer isso sozinho.[n]Posso te ensinar, no seu quarto.[n][w][e]
 
 [msg RARE_TBOX_MSG_AQKEYPICK_ [Morgana]]
-[s][bup 0 3 8 0 0][f 4 10 65535 0 0][vp 8 2 0 1171 65535 0]Você tem a [f 2 5 3 9999 0]Com você, certo? Vamos aceitar isso![n][w][e]
+[s][bup 0 3 8 0 0][f 4 10 65535 0 0][vp 8 2 0 1171 65535 0]Serve [f 2 5 3 9999 0]. Você tem[n]um com você, certo? Vamos aproveitá-lo![n][w][e]
 
 [msg RARE_TBOX_MSG_AQKEYPICK__2 [Futaba]]
-[s][bup 0 8 104 0 0][f 4 10 65535 0 0][vp 8 2 0 9040 65535 0]Essa é a lendária ferramenta de infiltração,[n]o  [f 2 5 3 9999 0]![n][w][e]
-[s][bup 0 8 101 0 0][f 4 10 65535 0 0]Quero usá-lo para abrir isso!?[n][w][e]
+[s][bup 0 8 104 0 0][f 4 10 65535 0 0][vp 8 2 0 9040 65535 0]Essa é a [f 2 5 3 9999 0],[n]uma ferramenta lendária[n]muito útil para infiltração![n][w][e]
+[s][bup 0 8 101 0 0][f 4 10 65535 0 0]Você quer usá-lo?[n][w][e]
 
 [msg WEAPON_RYUJI_MSG [Ryuji]]
-[s][bup 0 2 101 0 0][f 4 10 65535 0 0][vp 8 2 1 7020 65535 0]Ooh, isso parece mais forte do que eu[n]consegui agora! Deixe-me usar já![n][w][e]
+[s][bup 0 2 101 0 0][f 4 10 65535 0 0][vp 8 2 1 7020 65535 0]Ooh, parece mais forte[n]do que o que tenho agora![n]Deixe-me usá-lo![n][w][e]
 
 [msg WEAPON_ANNE_MSG [Ann]]
-[s][bup 0 4 101 0 0][f 4 10 65535 0 0][vp 8 2 1 6159 65535 0]Isso parece mais promissor do que o que[n]estou usando agora... ei, posso tentar?[n][w][e]
+[s][bup 0 4 101 0 0][f 4 10 65535 0 0][vp 8 2 1 6159 65535 0]Parece melhor do que o que eu uso[n]agora. Posso tentar?[n][w][e]
 
 [msg WEAPON_MORGANA_MSG [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1167 65535 0]Oh, essa beleza parece que é apenas o meu[n]tamanho! Isso é meu agora, tudo bem?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1167 65535 0]Oh, essa beleza parece feita para mim! É meu[n]agora, certo?[n][w][e]
 
 [msg WEAPON_YUSUKE_MSG [Yusuke]]
-[s][bup 0 5 101 0 0][f 4 10 65535 0 0][vp 8 2 1 4135 65535 0]Temos nossas mãos na arma...[n]Eu adoraria ter uma idéia disso...[n][w][e]
+[s][bup 0 5 101 0 0][f 4 10 65535 0 0][vp 8 2 1 4135 65535 0]Temos em mãos[n]uma arma de excelência...[n]gostaria de testá-la...[n][w][e]
 
 [msg WEAPON_MAKOTO_MSG [Makoto]]
-[s][bup 0 6 101 0 0][f 4 10 65535 0 0][vp 8 2 1 2159 65535 0]Ah, parece que tem um desempenho melhor do[n]que o que eu tenho agora- seria tudo bem se[n]eu tentei usá-lo?[n][w][e]
+[s][bup 0 6 101 0 0][f 4 10 65535 0 0][vp 8 2 1 2159 65535 0]Oh, isso parece melhor[n]do que o meu... você se importa se[n]ão enviar uma mensagem de texto?[n][w][e]
 
 [msg WEAPON_HARU_MSG [Haru]]
-[s][bup 0 7 101 0 0][f 4 10 65535 0 0][vp 8 2 1 3159 65535 0]Ooooh, um novo machado? Eu gostaria de[n]experimentar imediatamente![n][w][e]
+[s][bup 0 7 101 0 0][f 4 10 65535 0 0][vp 8 2 1 3159 65535 0]Oooh, um novo machado?[n]Eu adoraria experimentá-lo agora![n][w][e]
 
 [msg WEAPON_AKECHI_MSG [Akechi]]
-[s][bup 0 9 101 0 0][f 4 10 65535 0 0][vp 8 2 1 8133 65535 0]Ah, essa arma parece vantajosa...[n]Você se importaria se eu usasse?[n][w][e]
+[s][bup 0 9 101 0 0][f 4 10 65535 0 0][vp 8 2 1 8133 65535 0]Essa arma parece útil.[n]Você se importa se eu pegar?[n][w][e]
 
 [msg WEAPON_KUROAKECHI_MSG [Akechi]]
-[s][bup 0 9 800 0 0][f 4 10 65535 0 0][vp 8 2 1 8133 65535 0]Isso parece ser uma arma superior para a[n]minha atual- eu vou usá-la sozinho, bem?[n][w][e]
+[s][bup 0 9 800 0 0][f 4 10 65535 0 0][vp 8 2 1 8133 65535 0]Essa arma parece superior[n]à minha... Você não se importa[n]se eu usá-la, não é?[n][w][e]
 
 [msg WEAPON_KASUMI_MSG [[f 4 31 10 0]]]
-[s][bup 0 10 101 0 0][f 4 10 65535 0 0][vp 8 2 1 57142 65535 0]Isso parece mais poderoso do que o que estou[n]usando atualmente... você se importaria se[n]eu tentasse?[n][w][e]
+[s][bup 0 10 101 0 0][f 4 10 65535 0 0][vp 8 2 1 57142 65535 0]Parece mais poderoso do que o que estou usando.[n]Você se importaria de me deixar tentar?[n][w][e]
 
 [sel WEAPON_EQUIP_YES_NO top]
 [s]Vá em frente.[e]
-[s]Não agora.[e]
+[s]Agora não.[e]
 
 [msg WEAPON_RYUJI_MSG_YES [Ryuji]]
-[s][bup 0 2 101 0 0][f 4 10 65535 0 0][vp 8 2 1 7103 65535 0]Alriiiight! Hora de gritar uma bunda![n][w][e]
+[s][bup 0 2 101 0 0][f 4 10 65535 0 0][vp 8 2 1 7103 65535 0]Peeerfect! É hora de chutar o traseiro![n][w][e]
 
 [msg WEAPON_RYUJI_MSG_NO [Ryuji]]
-[s][bup 0 2 101 0 0][f 4 10 65535 0 0][vp 8 2 1 7106 65535 0]TCH! Fiiiine...[n][w][e]
+[s][bup 0 2 101 0 0][f 4 10 65535 0 0][vp 8 2 1 7106 65535 0]Tsk! Uau bem...[n][w][e]
 
 [msg WEAPON_ANNE_MSG_YES [Ann]]
-[s][bup 0 4 101 0 0][f 4 10 65535 0 0][vp 8 2 1 6108 65535 0]Obrigado! Ok, vamos ver...[n]Sim, parecendo bem![n][w][e]
+[s][bup 0 4 101 0 0][f 4 10 65535 0 0][vp 8 2 1 6108 65535 0]Obrigado! OK, vamos ver...[n]Sim, é maravilhoso![n][w][e]
 
 [msg WEAPON_ANNE_MSG_NO [Ann]]
 [s][bup 0 4 101 0 0][f 4 10 65535 0 0][vp 8 2 1 6135 65535 0]Claro, sem problemas.[n][w][e]
 
 [msg WEAPON_MORGANA_MSG_YES [Morgana]]
-[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 1035 65535 0]*risada* Agora sou ainda mais uma ameaça![n][w][e]
+[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 1035 65535 0]Hehe, agora estou ainda mais forte![n][w][e]
 
 [msg WEAPON_MORGANA_MSG_NO [Morgana]]
-[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 1 1038 65535 0]Oh, ok... bem, eu já sou uma força a ser[n]reconhecida![n][w][e]
+[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 1 1038 65535 0]Oh, OK. Bem, eu já sou um verdadeiro poder de[n]qualquer maneira![n][w][e]
 
 [msg WEAPON_YUSUKE_MSG_YES [Yusuke]]
-[s][bup 0 5 101 0 0][f 4 10 65535 0 0][vp 8 2 1 4045 65535 0]... HM, isso me encaixa perfeitamente![n]Que excelente achado.[n][w][e]
+[s][bup 0 5 101 0 0][f 4 10 65535 0 0][vp 8 2 1 4045 65535 0]...Mmh, isso parece perfeito[n]para mim! Excelente saque.[n][w][e]
 
 [msg WEAPON_YUSUKE_MSG_NO [Yusuke]]
-[s][bup 0 5 101 0 0][f 4 10 65535 0 0][vp 8 2 1 4026 65535 0]Infelizmente... talvez mais tarde.[n][w][e]
+[s][bup 0 5 101 0 0][f 4 10 65535 0 0][vp 8 2 1 4026 65535 0]Que pena... Talvez outra hora.[n][w][e]
 
 [msg WEAPON_MAKOTO_MSG_YES [Makoto]]
-[s][bup 0 6 101 0 0][f 4 10 65535 0 0][vp 8 2 1 2090 65535 0]Obrigado... Ah, isso é ótimo.[n][w][e]
+[s][bup 0 6 101 0 0][f 4 10 65535 0 0][vp 8 2 1 2090 65535 0]Obrigada. É fantástico.[n][w][e]
 
 [msg WEAPON_MAKOTO_MSG_NO [Makoto]]
-[s][bup 0 6 101 0 0][f 4 10 65535 0 0][vp 8 2 1 2090 65535 0]Entendido.[n][w][e]
+[s][bup 0 6 101 0 0][f 4 10 65535 0 0][vp 8 2 1 2090 65535 0]Está bem.[n][w][e]
 
 [msg WEAPON_HARU_MSG_YES [Haru]]
-[s][bup 0 7 101 0 0][f 4 10 65535 0 0][vp 8 2 1 3020 65535 0]Yay! Vou trabalhar mais do que nunca![n][w][e]
+[s][bup 0 7 101 0 0][f 4 10 65535 0 0][vp 8 2 1 3020 65535 0]Sim! Vou me esforçar ainda mais![n][w][e]
 
 [msg WEAPON_HARU_MSG_NO [Haru]]
-[s][bup 0 7 101 0 0][f 4 10 65535 0 0][vp 8 2 1 3047 65535 0]Oh, tudo bem...[n][w][e]
+[s][bup 0 7 101 0 0][f 4 10 65535 0 0][vp 8 2 1 3047 65535 0]Oh, OK...[n][w][e]
 
 [msg WEAPON_AKECHI_MSG_YES [Akechi]]
-[s][bup 0 9 101 0 0][f 4 10 65535 0 0][vp 8 2 1 8059 65535 0]Obrigado. Eu prometo que vou contribuir[n]ainda mais agora.[n][w][e]
+[s][bup 0 9 101 0 0][f 4 10 65535 0 0][vp 8 2 1 8059 65535 0]Obrigada. Eu prometo que vou tentar[n]ainda mais.[n][w][e]
 
 [msg WEAPON_KUROAKECHI_MSG_YE [Akechi]]
-[s][bup 0 9 800 0 0][f 4 10 65535 0 0][vp 8 2 1 8059 65535 0]Ah, não muito surrado.[n][w][e]
+[s][bup 0 9 800 0 0][f 4 10 65535 0 0][vp 8 2 1 8059 65535 0]Ah, nada mal.[n][w][e]
 
 [msg WEAPON_AKECHI_MSG_NO [Akechi]]
-[s][bup 0 9 101 0 0][f 4 10 65535 0 0][vp 8 2 1 8021 65535 0]Tudo bem, você é o chefe aqui.[n][w][e]
+[s][bup 0 9 101 0 0][f 4 10 65535 0 0][vp 8 2 1 8021 65535 0]O que você quiser, você é o chefe.[n][w][e]
 
 [msg WEAPON_KUROAKECHI_MSG_NO [Akechi]]
-[s][bup 0 9 800 0 0][f 4 10 65535 0 0][vp 8 2 1 8021 65535 0]Ugh, se você diz isso... Vamos torcer para[n]que você não esteja estragando tudo.[n][w][e]
+[s][bup 0 9 800 0 0][f 4 10 65535 0 0][vp 8 2 1 8021 65535 0]OK, se você diz.[n]Espero que não seja um erro.[n][w][e]
 
 [msg WEAPON_KASUMI_MSG_YES [[f 4 31 10 0]]]
-[s][bup 0 10 101 0 0][f 4 10 65535 0 0][vp 8 2 1 57039 65535 0]Muito obrigado! Isso certamente será útil![n][w][e]
+[s][bup 0 10 101 0 0][f 4 10 65535 0 0][vp 8 2 1 57039 65535 0]Mil agradecimentos! Ele definitivamente será útil![n][w][e]
 
 [msg WEAPON_KASUMI_MSG_NO [[f 4 31 10 0]]]
-[s][bup 0 10 100 0 0][f 4 10 65535 0 0][vp 8 2 1 57055 65535 0]Tudo bem, entendido.[n][w][e]
+[s][bup 0 10 100 0 0][f 4 10 65535 0 0][vp 8 2 1 57055 65535 0]Concordar.[n][w][e]
 
 [msg HERO_WEAPON_RYUJI_MSG [Ryuji]]
-[s][bup 0 2 101 0 0][f 4 10 65535 0 0][vp 8 2 1 7020 65535 0]Oh! Essa coisa parece muito boa, Joker.[n]Por que não experimenta?[n][w][e]
+[s][bup 0 2 101 0 0][f 4 10 65535 0 0][vp 8 2 1 7020 65535 0]Oh! Isso não parece nada mal,[n]Joker. Por que você não tenta?[n][w][e]
 
 [msg HERO_WEAPON_ANNE_MSG [Ann]]
-[s][bup 0 4 101 0 0][f 4 10 65535 0 0][vp 8 2 1 6159 65535 0]Ei, Joker! Por que você não troca o seu[n]atual com isso?[n][w][e]
+[s][bup 0 4 101 0 0][f 4 10 65535 0 0][vp 8 2 1 6159 65535 0]Ei Joker! Por que você não[n]troca por aquele[n]equipado?[n][w][e]
 
 [msg HERO_WEAPON_MORGANA_MSG [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1167 65535 0]Que pontuação, Joker! Por que não tentar[n]agora?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1167 65535 0]Ótimo, Joker! Por que não[n]tentar agora?[n][w][e]
 
 [msg HERO_WEAPON_YUSUKE_MSG [Yusuke]]
-[s][bup 0 5 101 0 0][f 4 10 65535 0 0][vp 8 2 1 4135 65535 0]Parece que vai se adequar bem a você, Joker-[n]por que não experimentar?[n][w][e]
+[s][bup 0 5 101 0 0][f 4 10 65535 0 0][vp 8 2 1 4135 65535 0]Combina com você, Joker.[n]Por que você não tenta?[n][w][e]
 
 [msg HERO_WEAPON_MAKOTO_MSG [Makoto]]
-[s][bup 0 6 101 0 0][f 4 10 65535 0 0][vp 8 2 1 2159 65535 0]Parece algo que você pode lidar, Joker-[n]parece superior ao seu atual. Por que não[n]trocá-los?[n][w][e]
+[s][bup 0 6 101 0 0][f 4 10 65535 0 0][vp 8 2 1 2159 65535 0]Esse parece combinar com você,[n]Joker... e é ainda mais forte.[n]Por que você não o troca?[n][w][e]
 
 [msg HERO_WEAPON_FUTABA_MSG [Futaba]]
-[s][bup 0 8 101 0 0][f 4 10 65535 0 0][vp 8 2 1 9048 65535 0]Nova arma alerrrrrt! Joker, você quer[n]equipá-lo!?[n][w][e]
+[s][bup 0 8 101 0 0][f 4 10 65535 0 0][vp 8 2 1 9048 65535 0]Nova arma coletada![n]Joker, você quer equipá-la!?![n][w][e]
 
 [msg HERO_WEAPON_HARU_MSG [Haru]]
-[s][bup 0 7 101 0 0][f 4 10 65535 0 0][vp 8 2 1 3159 65535 0]Uau, isso é uma arma muito louca![n]Eu acho que será perfeito para você.[n][w][e]
+[s][bup 0 7 101 0 0][f 4 10 65535 0 0][vp 8 2 1 3159 65535 0]Uau, essa arma é realmente incrível! Eu acho que[n]você vai se sair muito bem com isso.[n][w][e]
 
 [msg HERO_WEAPON_AKECHI_MSG [Akechi]]
-[s][bup 0 9 101 0 0][f 4 10 65535 0 0][vp 8 2 1 8133 65535 0]Ah, essa é uma arma de aparência poderosa.[n]Experimente, Joker.[n][w][e]
+[s][bup 0 9 101 0 0][f 4 10 65535 0 0][vp 8 2 1 8133 65535 0]Parece uma arma muito poderosa.[n]Experimente, Joker.[n][w][e]
 
 [msg HERO_WEAPON_KUROAKECHI_M [Akechi]]
-[s][bup 0 9 800 0 0][f 4 10 65535 0 0][vp 8 2 1 8133 65535 0]Talvez isso seja mais útil que o seu[n]equipamento atual? Troque-os, Joker.[n][w][e]
+[s][bup 0 9 800 0 0][f 4 10 65535 0 0][vp 8 2 1 8133 65535 0]Talvez seja mais útil para você do que o[n]equipado?[n]Troque-os, Joker.[n][w][e]
 
 [sel HERO_WEAPON_EQUIP_YES_NO top]
-[s]Hora de mudar isso.[e]
-[s]Não agora.[e]
+[s]É hora de mudar.[e]
+[s]Agora não.[e]
 
 [msg MSG_AUTO_RECOVER_CONF]
-[s]Você gostaria de realizar uma recuperação[n]automática?[n][e]
+[s]Você quer realizar uma[n]autocura?[n][e]
 
 [msg MSG_AUTO_RECOVER_FULL]
-[s]Todo mundo já está no Max HP.[n][w][e]
+[s]Todo mundo já tem HP máximo.[n][w][e]
 
 [msg MSG_AUTO_RECOVER_NO_USER]
-[s]Ninguém no seu grupo pode usar uma[n]habilidade de cura.[n][w][e]
+[s]Ninguém do grupo pode usar[n]uma habilidade de cura.[n][w][e]
 
 [msg SOBJ_RECOVER0 [Akechi]]
-[s][vp 1 0 0 8259 0 0]Vou fazer isso na velocidade da luz.[n][f 1 6 65535][e]
+[s][vp 1 0 0 8259 0 0]Farei isso na velocidade da luz.[n][f 1 6 65535][e]
 
 [msg SOBJ_RECOVER1 [Akechi]]
 [s][vp 1 0 0 8260 0 0]Me dê um segundo.[n][f 1 6 65535][e]
 
 [msg SOBJ_RECOVER2 [Akechi]]
-[s][vp 1 0 0 8272 0 0]É aqui que eu brho![n][f 1 6 65535][e]
+[s][vp 1 0 0 8272 0 0]Essa é minha especialidade![n][f 1 6 65535][e]
 
 [msg SCHOBJ_SYSTEM]
-[s]Todos os objetos de pesquisa no metaverso[n]foram reabastecidos.[n][w][e]
+[s]Todos os itens encontrados no[n]Metaverse foram restaurados.[n][w][e]
 

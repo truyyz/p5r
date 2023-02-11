@@ -1,6 +1,6 @@
 [sel YESNO_SEL top]
-[s]Sim [e]
-[s]Não [e]
+[s]Sim[e]
+[s]Não[e]
 
 [msg MSG_651_102_00]
 [s]ゴール(チェック用)[n][w][e]

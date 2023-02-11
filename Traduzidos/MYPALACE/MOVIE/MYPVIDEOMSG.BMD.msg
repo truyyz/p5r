@@ -1,333 +1,333 @@
 [msg MSG_BUY]
-[s]Comprar este filme?[n][e]
+[s]Quer comprar este filme?[n][e]
 
 [msg MSG_000]
-[s]Introdução Vídeo para Persona 5.[n][e]
+[s]Persona 5 vídeo de introdução.[n][e]
 
 [msg MSG_001]
-[s]Introdução Vídeo para Persona 5 Royal.[n][e]
+[s]Persona 5 Royal vídeo de introdução.[n][e]
 
 [msg MSG_002]
-[s]O protagonista choca a multidão correndo[n]pelo cassino, zombando do caos abaixo.[n][e]
+[s]O protagonista choca a multidão[n]correndo pelo cassino,[n]tirando sarro do caos abaixo.[n][e]
 
 [msg MSG_003]
-[s]Depois de arrancar a máscara da guarda de[n]segurança que virou sombra, ela mostra seu[n]verdadeiro eu e ataca![n][e]
+[s]Depois de arrancar a máscara do guarda de[n]segurança das Sombras, ele mostra seu verdadeiro[n]eu e ataca![n][e]
 
 [msg MSG_004]
-[s]Como o protagonista é cercado por sombras,[n]uma jovem em uma máscara aparece diante[n]dele...[n][e]
+[s]Enquanto o protagonista é cercado por Sombras,[n]uma jovem mascarada entra em cena...[n][e]
 
 [msg MSG_005]
-[s]Enquanto o protagonista tenta fazer sua[n]grande fuga, ele é emboscado e preso.[n][e]
+[s]Enquanto o protagonista tenta uma grande fuga,[n]ele cai em uma emboscada e é preso.[n][e]
 
 [msg MSG_006]
-[s]Após sua prisão, o protagonista é informado[n]das acusações contra ele com uma surra[n]brutal.[n][e]
+[s]Após a prisão, o protagonista[n]é notificado das acusações[n]de forma contundente.[n][e]
 
 [msg MSG_007]
-[s]O protagonista lembra seu passado no trem[n]para Shibuya, onde ele experimenta algo[n]bizarro.[n][e]
+[s]O protagonista se lembra do passado[n]no trem para Shibuya, onde[n]uma coisa bizarra acontece com ele.[n][e]
 
 [msg MSG_008]
-[s]O protagonista acorda para se encontrar em[n]uma cela e conhece Igor, um velho[n]assustador.[n][e]
+[s]O protagonista acorda[n]em uma cela e conhece Igor,[n]um velho com um ar assustador.[n][e]
 
 [msg MSG_009]
-[s]Igor prevê a ruína do protagonista e[n]questiona sua determinação em assumir as[n]distorções do mundo.[n][e]
+[s]Igor profetiza a ruína do[n]protagonista e testa sua disposição[n]para enfrentar as distorções do mundo.[n][e]
 
 [msg MSG_010]
-[s]Um promotor discute a cadeia de incidentes[n]inexplicáveis e é visitado por um certo[n]jovem.[n][e]
+[s]Um promotor fala sobre uma série de incidentes[n]inexplicáveis e recebe a visita de um menino.[n][e]
 
 [msg MSG_011]
-[s]Por uma loja, o protagonista encontra uma[n]beleza de olhos azuis abrigo da chuva.[n][e]
+[s]O protagonista conhece uma linda[n]garota de olhos azuis protegida[n]da chuva em frente a uma loja.[n][e]
 
 [msg MSG_012]
-[s]No caminho para a escola, Ryuji e o[n]protagonista acabam em um lugar que parece[n]um castelo.[n][e]
+[s]No caminho para a escola, Ryuji e[n]o protagonista acabam em um[n]lugar parecido com um castelo.[n][e]
 
 [msg MSG_013]
-[s]Enquanto o protagonista se sente impotente[n]para ajudar Ryuji, uma borboleta azul[n]aparece com uma voz enigmática...[n][e]
+[s]O protagonista não sabe como[n]ajudar Ryuji, mas uma borboleta[n]azul aparece, com uma voz misteriosa...[n][e]
 
 [msg MSG_014]
-[s]contract and summoning Arsène.[n][e]
+[s]O protagonista se apega a seus[n]ideais e assina um contrato,[n]evocando Arsène.[n][e]
 
 [msg MSG_015]
-[s]O protagonista encontra suas convicções,[n]formando assim um partido que foge de[n]Kamoshida, mas à medida que mais sombras[n]atacam, Morgana convoca sua própria persona.[n][e]
+[s]O grupo escapa de Kamoshida, mas[n]quando mais Sombras chegam,[n]Morgana invoca sua Persona.[n][e]
 
 [msg MSG_016]
-[s]A festa usa o navegador Metaverse para se[n]aventurar de volta ao antigo castelo.[n][e]
+[s]O grupo usa o[n]Metaverse Navigator para se aventurar[n]novamente no antigo castelo.[n][e]
 
 [msg MSG_017]
-[s]Com seu amigo é perigo, Ryuji forma um[n]contrato com sua voz interior e convoca o[n]capitão Kidd.[n][e]
+[s]Vendo seu amigo em perigo, Ryuji[n]assina um contrato com sua[n]voz interior, convocando o Capitão Kidd.[n][e]
 
 [msg MSG_018]
-[s]Uma manifestação de vôlei entre estudantes e[n]professores dá errado.[n][e]
+[s]Um torneio de vôlei entre[n]alunos e professores termina mal.[n][e]
 
 [msg MSG_019]
-[s]Ann confessa ser abusada por Kamoshida em[n]troca da posição de sua amiga na equipe.[n][e]
+[s]Ann confessa que, para garantir[n]uma vaga no time para a amiga,[n]ela foi abusada por Kamoshida.[n][e]
 
 [msg MSG_020]
-[s]Tendo atingido seu limite, Ann forma um[n]contrato com sua voz interior e convoca[n]Carmen.[n][e]
+[s]Após atingir seu limite, Ann[n]assina um contrato com sua[n]voz interior, convocando Carmen.[n][e]
 
 [msg MSG_021]
-[s]Como Kamoshida admite a derrota, Ann chega a[n]uma decisão importante.[n][e]
+[s]Após a derrota de Kamoshida, Ann[n]toma uma decisão importante.[n][e]
 
 [msg MSG_022]
-[s]Os ladrões Phantom se esforçam para escapar[n]do antigo castelo quando ele começa a[n]desmoronar.[n][e]
+[s]Os Phantom Thieves correm para[n]deixar o velho castelo[n]enquanto ele desmorona.[n][e]
 
 [msg MSG_023]
-[s]Ann diz que sente que está sendo vigiada. Os[n]três eclodiram um plano para pegar o[n]agressor.[n][e]
+[s]Ann diz que se sente observada.[n]Os três preparam uma estratégia[n]para pegar o culpado.[n][e]
 
 [msg MSG_024]
-[s]Yusuke percebe a verdade sobre Madarame. Com[n]olhos afiados, ele forma um contrato com[n]Goemon.[n][e]
+[s]Yusuke entende a verdade sobre[n]Madarame. Com um olhar atento,[n]assina um contrato com Goemon.[n][e]
 
 [msg MSG_025]
-[s]Com sua verdadeira natureza exposta,[n]Madarame atacou os ladrões fantasmas.[n][e]
+[s]Mostrando sua verdadeira natureza,[n]Madarame desconta[n]nos Phantom Thieves.[n][e]
 
 [msg MSG_026]
-[s]Decidindo participar de seu falso eu, Makoto[n]forma um contrato com sua voz interior e[n]convoca Johanna.[n][e]
+[s]Makoto renuncia a sua[n]máscara e assina um contrato com sua[n]voz interior, convocando Ioanna.[n][e]
 
 [msg MSG_027]
-[s]Com sua verdadeira natureza exposta,[n]Kaneshiro ataca contra os ladrões fantasmas.[n][e]
+[s]Mostrando sua verdadeira natureza,[n]Kaneshiro vence[n]com os Phantom Thieves.[n][e]
 
 [msg MSG_028]
-[s]A festa está a caminho do festival de fogos[n]de artifício quando o evento é[n]repentinamente cancelado devido à chuva.[n][e]
+[s]O grupo vai ao festival de fogos de artifício,[n]mas o evento foi cancelado por causa da chuva.[n][e]
 
 [msg MSG_029]
-[s]Enquanto os ladrões fantasmas atravessam o[n]deserto no carro Morgana, eles vêem algo...[n][e]
+[s]Atravessando o deserto a bordo do[n]Mona-mobile, os Phantom Thieves veem[n]algo...[n][e]
 
 [msg MSG_030]
-[s]O partido é atacado pela semelhança da mãe[n]de Futaba, nascida de sua cognição[n]distorcida.[n][e]
+[s]O grupo é atacado por ela[n]que se parece com a mãe de Futaba,[n]nascida de suas cognições distorcidas.[n][e]
 
 [msg MSG_031]
-[s]Depois de encontrar a verdade em suas[n]ilusões, Futaba forma um contrato com[n]Necronomicon.[n][e]
+[s]Depois de descobrir a verdade sobre[n]suas ilusões, Futaba assina um[n]contrato com o Necronomicon.[n][e]
 
 [msg MSG_032]
-[s]O pensamento rápido de Ann salva o dia à[n]medida que os ladrões fantasmas escapam do[n]palácio implodente.[n][e]
+[s]O estado de alerta de Ann ajuda os[n]Phantom Thieves a escapar durante[n]a destruição do Palácio.[n][e]
 
 [msg MSG_033]
-[s]À medida que o fim das férias de verão se[n]aproxima, a festa decide chegar à praia.[n][e]
+[s]As férias de verão estão quase acabando e o grupo[n]decide ir à praia.[n][e]
 
 [msg MSG_034]
-[s]O protagonista e os amigos estão animados[n]por estar no Havaí para a viagem escolar.[n][e]
+[s]O protagonista e seus amigos[n]estão felizes por estar no Havaí[n]em uma viagem escolar.[n][e]
 
 [msg MSG_035]
-[s]O diretor decide ir para a delegacia, mas as[n]coisas dão uma virada estranha no caminho[n]para lá...[n][e]
+[s]A diretora decide ir até a[n]esquadra, mas as coisas[n]tomam um rumo inesperado...[n][e]
 
 [msg MSG_036]
-[s]O partido entra em um palácio misterioso que[n]parece ter aparecido do nada.[n][e]
+[s]O grupo se depara com um misterioso palácio que[n]parece ter surgido do nada.[n][e]
 
 [msg MSG_037]
-[s]Irritado pelas palavras da sombra, Kasumi[n]forma um contrato e convoca Cendrillon.[n][e]
+[s]Enfurecido com as palavras do corretor,[n]Kasumi assina um contrato[n]e convoca Cinderela.[n][e]
 
 [msg MSG_038]
-[s]Enquanto Haru decide se separar de seu pai,[n]seu verdadeiro despertar revela poderes[n]invisíveis.[n][e]
+[s]Quando Haru decide se separar de seu pai, seu[n]pleno despertar traz novos poderes à tona.[n][e]
 
 [msg MSG_039]
-[s]Okumura é encurralado pelos ladrões Phantom.[n]O confronto começa...[n][e]
+[s]Okumura é encurralado pelos[n]Phantom Thieves. A luta começa...[n][e]
 
 [msg MSG_040]
-[s]Okumura muda de coração, mas algo dá errado[n]durante sua conferência de imprensa...[n][e]
+[s]Os Phantom Thieves conseguem mudar o coração de[n]Okumura, mas algo dá errado durante a[n]conferência.[n][e]
 
 [msg MSG_041]
-[s]Kasumi Awes, espectadores com sua dança na[n]festa pós-festival.[n][e]
+[s]Kasumi impressiona o público com seu show no[n]pós-festival.[n][e]
 
 [msg MSG_042]
-[s]Os ladrões Phantom invadem o palácio de[n]Niijima para encontrar um cassino chamativo.[n][e]
+[s]Os Phantom Thieves invadem o Palácio Niijima,[n]onde encontram um cassino chamativo.[n][e]
 
 [msg MSG_043]
-[s]Makoto, perturbada pela próxima batalha,[n]convoca a coragem de enfrentar sua irmã.[n][e]
+[s]Makoto, preocupada com a batalha[n]iminente, encontra coragem[n]para enfrentar sua irmã.[n][e]
 
 [msg MSG_044]
-[s]Tendo já matado um policial de plantão,[n]Akechi aponta sua arma para o[n]protagonista...[n][e]
+[s]Após matar um[n]policial de serviço, Akechi aponta[n]sua arma para o protagonista...[n][e]
 
 [msg MSG_045]
-[s]Akechi faz a morte do protagonista parecer[n]um suicídio antes de fugir da cena.[n][e]
+[s]Antes de partir, Akechi faz a morte do[n]protagonista parecer um suicídio.[n][e]
 
 [msg MSG_046]
-[s]As notícias do suicídio do protagonista[n]lança uma nuvem negra sobre a festa.[n]Mas então...[n][e]
+[s]A notícia do suicídio do[n]protagonista lança nuvens negras[n]sobre o grupo. Mas então...[n][e]
 
 [msg MSG_047]
-[s]O protagonista parecia estar morto... mas[n]esse engano era o plano o tempo todo.[n][e]
+[s]O protagonista parecia[n]morto ... mas era tudo[n]parte do plano.[n][e]
 
 [msg MSG_048]
-[s]Os ladrões Phantom ficam sem palavras ao ver[n]o palácio de Shido.[n][e]
+[s]Os Phantom Thieves ficam sem palavras ao ver o[n]Palácio de Shido.[n][e]
 
 [msg MSG_049]
-[s]Akechi revela seu verdadeiro eu e fica[n]furioso contra os ladrões fantasmas.[n][e]
+[s]Akechi revela sua verdadeira natureza[n]e ataca os Phantom Thieves.[n][e]
 
 [msg MSG_050]
-[s]Os ladrões Phantom retiram seu maior golpe[n]ainda entregando um cartão de visita a[n]Shido.[n][e]
+[s]Os Phantom Thieves realizam um golpe perfeito e[n]entregam uma carta de aviso a Shido.[n][e]
 
 [msg MSG_051]
-[s]A fatídica batalha entre Shido e os ladrões[n]fantasmas está prestes a começar...[n][e]
+[s]A batalha entre Shido e os[n]Phantom Thieves está prestes a começar...[n][e]
 
 [msg MSG_052]
-[s]À medida que o navio de cruzeiro afunda,[n]Ryuji arrisca sua vida garantindo um barco[n]salva-vidas para a equipe.[n][e]
+[s]Enquanto o navio de cruzeiro afunda,[n]Ryuji arrisca sua vida para fornecer[n]ao grupo um bote salva-vidas.[n][e]
 
 [msg MSG_053]
-[s]Através do poder do Santo Graal, as[n]lembranças começam a se fundir no mundo[n]real...[n][e]
+[s]Graças ao poder do Santo Graal,[n]i Mementos começam a se fundir[n]com o mundo real...[n][e]
 
 [msg MSG_054]
-[s]À medida que o mundo real e as lembranças se[n]fundem, os ladrões fantasmas desaparecem da[n]cognição do público.[n][e]
+[s]Quando o mundo real se funde com i[n]Memento, os Phantom Thieves desaparecem[n]da cognição das pessoas.[n][e]
 
 [msg MSG_055]
-[s]Os guardas gêmeos, superando a vontade[n]malévola que os dividem, são fundidos[n]novamente...[n][e]
+[s]Superando o impulso malévolo que[n]os separou, os gêmeos guardiões[n]fundem-se novamente...[n][e]
 
 [msg MSG_056]
-[s]O Santo Graal, espancado pelos ladrões[n]fantasmas, se liberta para revelar sua[n]verdadeira forma...[n][e]
+[s]O Santo Graal, derrotado pelos[n]Phantom Thieves, revela[n]sua verdadeira natureza...[n][e]
 
 [msg MSG_057]
-[s]Quando Mishima aplaude os ladrões Phantom,[n]todos ao seu redor começam a se juntar.[n][e]
+[s]Quando Mishima começa a torcer pelos Phantom[n]Thieves, todos se juntam a ele.[n][e]
 
 [msg MSG_058]
-[s]O apoio aos ladrões Phantom continua a se[n]espalhar...[n][e]
+[s]O suporte para os Phantom Thieves[n]continua a crescer...[n][e]
 
 [msg MSG_059]
-[s]As vozes daqueles que acreditam nos ladrões[n]fantasmas se tornam uma força própria.[n][e]
+[s]As vozes daqueles que acreditam em[n]Phantom Thieves se tornam uma[n]força verdadeira.[n][e]
 
 [msg MSG_060]
-[s]Arsène evolves into Satanael.[n][e]
+[s]Graças às orações das massas,[n]Arsène evolui para Satanael.[n][e]
 
 [msg MSG_061]
-[s]Com as orações das massas, Satanael dispara[n]sua concha pecaminosa, penetrando[n]Yaldabaoth.[n][e]
+[s]Satanael explora a bala[n]do pecado, penetrando em Yaldabaoth.[n][e]
 
 [msg MSG_062]
-[s]As distorções na realidade desaparecem, e o[n]mundo começa a retornar à maneira como era[n]uma vez.[n][e]
+[s]As distorções da realidade[n]desaparecem, fazendo com que o[n]mundo volte ao que era antes.[n][e]
 
 [msg MSG_063]
-[s]Sobre a multidão de shibuya, a equipe[n]resolve resgatar o protagonista.[n][e]
+[s]Na multidão para o ano novo em Shibuya, o grupo[n]decide vir em auxílio do protagonista.[n][e]
 
 [msg MSG_064]
-[s]O protagonista é encontrado inocente e[n]liberado do Juvenile Hall, onde Sojiro vem[n]buscá-lo.[n][e]
+[s]O protagonista é reconhecido[n]inocente e sai da[n]prisão juvenil, onde Sojiro o busca.[n][e]
 
 [msg MSG_065]
-[s]O protagonista retorna, para o alívio de[n]seus companheiros de equipe.[n][e]
+[s]O protagonista reaparece, para grande alívio de[n]seus companheiros.[n][e]
 
 [msg MSG_066]
-[s]Os ladrões Phantom partiram para novos[n]horizontes.[n][e]
+[s]Os Phantom Thieves embarcam em[n]novas aventuras.[n][e]
 
 [msg MSG_067]
-[s]あいうえお[n]かきくけこ[n][e]
+[s]067[n]あいうえお[n]かきくけこ[n][e]
 
 [msg MSG_068]
-[s]067 Enquanto caminhava por Shibuya, o[n]protagonista encontra algo incomum.[n][e]
+[s]Caminhando por Shibuya,[n]o protagonista se depara[n]com algo incomum.[n][e]
 
 [msg MSG_069]
-[s]Enquanto visitava o santuário com Kasumi[n]para o ano novo, o protagonista encontra[n]seus amigos.[n][e]
+[s]Ao visitar o santuário do[n]ano novo com Kasumi, o[n]protagonista encontra seus amigos.[n][e]
 
 [msg MSG_070]
-[s]A verdade é revelada quando a tragédia de[n]Kasumi e Sumire vem à luz.[n][e]
+[s]A trágica[n]verdade da história de[n]Kasumi e Sumire é revelada.[n][e]
 
 [msg MSG_071]
-[s]O protagonista rejeita a proposta de Maruki[n]para uma realidade impecável.[n][e]
+[s]O protagonista rejeita a proposta de realidade[n]perfeita de Maruki.[n][e]
 
 [msg MSG_072]
-[s]Sumire, cego por seu desejo de uma realidade[n]melhor, é capacitado por Maruki.[n][e]
+[s]Sumire, cega pelo desejo de uma realidade melhor,[n]é fortalecida por Maruki.[n][e]
 
 [msg MSG_073]
-[s]Partindo com sua própria fraqueza, Sumire[n]tem um verdadeiro despertar e convoca[n]Cendrillon mais uma vez.[n][e]
+[s]Separando-se de suas próprias fraquezas,[n]Sumire desperta totalmente,[n]convocando Cinderela novamente.[n][e]
 
 [msg MSG_074]
-[s]Os ladrões fantasmas fogem do palácio em[n]colapso de Maruki no carro Morgana.[n][e]
+[s]Os Phantom Thieves escapam do[n]Palácio de Maruki no Mona-mobile.[n][e]
 
 [msg MSG_075]
-[s]Para satisfazer seu próprio conceito de[n]felicidade, Maruki evolui sua própria[n]persona.[n][e]
+[s]Para satisfazer sua ideia[n]de felicidade, Maruki evolui[n]sua Persona.[n][e]
 
 [msg MSG_076]
-[s]Encurdado pelos ladrões fantasmas, Maruki se[n]funde com sua persona e fica ainda mais[n]forte.[n][e]
+[s]Encurralado pelos Phantom Thieves,[n]Maruki se manifesta com sua Persona[n]e se torna ainda mais forte.[n][e]
 
 [msg MSG_077]
-[s]Enquanto seus aliados separam o ataque de[n]Maruki, o protagonista dispara o tiro final.[n][e]
+[s]Enquanto seus aliados se defendem dos ataques de[n]Maruki, o protagonista administra o ataque final.[n][e]
 
 [msg MSG_078]
-[s]Morgana se torna um helicóptero e a equipe[n]pega uma carona enquanto tentam escapar...[n][e]
+[s]Morgana se transforma em um helicóptero[n]e o grupo pega uma carona[n]para tentar escapar...[n][e]
 
 [msg MSG_079]
-[s]Enquanto Maruki aceita sua própria morte, o[n]protagonista estende a mão.[n][e]
+[s]Enquanto Maruki aceita a morte,[n]o protagonista estende a mão.[n][e]
 
 [msg MSG_080]
-[s]Com seus próprios caminhos escolhidos, o[n]protagonista e seus amigos dão seus[n]próximos passos no futuro.[n][e]
+[s]Uma vez escolhido o caminho, o[n]protagonista e seus amigos dão[n]os primeiros passos em direção ao futuro.[n][e]
 
 [msg MSG_081]
-[s]Quando ele parte, o protagonista reflete[n]sobre sua vida.[n][e]
+[s]Na iminência de partir, o[n]protagonista reflete sobre sua vida.[n][e]
 
 [msg MSG_082]
-[s]Com uma promessa em seu coração, o[n]protagonista parte em um novo caminho.[n][e]
+[s]Com uma promessa no coração, o[n]protagonista embarca em uma nova jornada.[n][e]
 
 [msg MSG_083]
-[s]Persona 5 A animação The Day Breakers[n]abrindo filme [n][e]
+[s]Persona 5 the Animation[n]Filme de abertura de "The Day Breakers"[n][e]
 
 [msg MSG_084]
-[s]Persona 5 A Animação O Trailer do Day[n]Breakers [n][e]
+[s]Persona 5 the Animation[n]Trailer "The Day Breakers"[n][e]
 
 [msg MSG_085]
-[s]Persona 5 Trailer No. 1 [n][e]
+[s]Persona 5[n]Trailer 1[n][e]
 
 [msg MSG_086]
-[s]Persona 5 Trailer No. 2 [n][e]
+[s]Persona 5[n]Trailer 2[n][e]
 
 [msg MSG_087]
-[s]Persona 5 Trailer No. 3 [n][e]
+[s]Persona 5[n]Trailer 3[n][e]
 
 [msg MSG_088]
-[s]Persona Music FES 2013 em Nippon Budokan [n][e]
+[s]Persona Music Fes 2013[n]no Nippon Budokan[n][e]
 
 [msg MSG_089]
-[s]Persona Music FES 2013 em Nippon Budokan [n][e]
+[s]Persona Music Fes 2013[n]no Nippon Budokan[n][e]
 
 [msg MSG_090]
-[s]Persona Music FES 2013 em Nippon Budokan [n][e]
+[s]Persona Music Fes 2013[n]no Nippon Budokan[n][e]
 
 [msg MSG_091]
-[s]Persona Super Live 2015 em Nippon Budokan-[n]Night of the Phantom- [n][e]
+[s]Persona Super Live 2015[n]no Nippon Budokan[n]-- Night of the Phantom --[n][e]
 
 [msg MSG_092]
-[s]Persona Super Live 2015 em Nippon Budokan-[n]Night of the Phantom- [n][e]
+[s]Persona Super Live 2015[n]no Nippon Budokan[n]-- Night of the Phantom --[n][e]
 
 [msg MSG_093]
-[s]Persona Super Live 2015 em Nippon Budokan-[n]Night of the Phantom- [n][e]
+[s]Persona Super Live 2015[n]no Nippon Budokan[n]-- Night of the Phantom --[n][e]
 
 [msg MSG_094]
-[s]Persona Super Live 2017 [n][e]
+[s]Pessoa Super Live 2017[n][e]
 
 [msg MSG_095]
-[s]Persona Super Live 2017 [n][e]
+[s]Pessoa Super Live 2017[n][e]
 
 [msg MSG_096]
-[s]Persona Super Live 2017 [n][e]
+[s]Pessoa Super Live 2017[n][e]
 
 [msg MSG_097]
-[s]O protagonista optou por permanecer na[n]realidade projetada por Maruki.[n][e]
+[s]O protagonista escolheu ficar na realidade[n]projetada por Maruki.[n][e]
 
 [msg MSG_098]
-[s]Showtime: Panther e Mona [n][e]
+[s]Especial: Pantera e Mona[n][e]
 
 [msg MSG_099]
-[s]Showtime: Queen and Skull [n][e]
+[s]Especial: Rainha e Caveira[n][e]
 
 [msg MSG_180]
-[s]Showtime: Skull e Fox [n][e]
+[s]Especial: Caveira e Raposa[n][e]
 
 [msg MSG_101]
-[s]Showtime: Fox e Pantera [n][e]
+[s]Especial: Raposa e Pantera[n][e]
 
 [msg MSG_102]
-[s]Showtime: Mona e Noir [n][e]
+[s]Especial: Mona e Noir[n][e]
 
 [msg MSG_103]
-[s]Showtime: noir e rainha [n][e]
+[s]Especial: Noir e Queen[n][e]
 
 [msg MSG_104]
-[s]Showtime: Crow and Joker [n][e]
+[s]Especial: Corvo e Joker[n][e]
 
 [msg MSG_105]
-[s]Showtime: Violet e Joker [n][e]
+[s]Especial: Violeta e Joker[n][e]
 
 [msg MSG_106]
-[s]あいうえお[n]かきくけこ[n][e]
+[s]106[n]あいうえお[n]かきくけこ[n][e]
 
 [msg MSG_107]
-[s]あいうえお[n]かきくけこ[n][e]
+[s]107[n]あいうえお[n]かきくけこ[n][e]
 
 [msg MSG_108]
-[s]あいうえお[n]かきくけこ[n][e]
+[s]108[n]あいうえお[n]かきくけこ[n][e]
 
 [msg MSG_109]
-[s]あいうえお[n]かきくけこ[n][e]
+[s]109[n]あいうえお[n]かきくけこ[n][e]
 

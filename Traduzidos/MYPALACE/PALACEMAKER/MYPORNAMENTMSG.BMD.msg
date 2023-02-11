@@ -1,36 +1,36 @@
 [msg MSG_001]
-[s]Basic décor for the Thieves Den.[n][e]
+[s]Decoração de base para[n]Coven of Thieves.[n][e]
 
 [msg MSG_002]
-[s]Décor themed after Kamoshida's[n]Palácio.[n][e]
+[s]Decoração inspirada no[n]Kamoshida Palace.[n][e]
 
 [msg MSG_003]
-[s]Décor themed after Madarame's[n]Palácio.[n][e]
+[s]Decoração inspirada no[n]Madarame Palace.[n][e]
 
 [msg MSG_004]
-[s]Décor themed after Kaneshiro's[n]Palácio.[n][e]
+[s]Decoração inspirada no[n]Kaneshiro Palace.[n][e]
 
 [msg MSG_005]
-[s]Décor themed after Futaba's[n]Palácio.[n][e]
+[s]Decoração inspirada no[n]Futaba Palace.[n][e]
 
 [msg MSG_006]
-[s]Décor themed after Okumura's[n]Palácio.[n][e]
+[s]Decoração inspirada no[n]Okumura Palace.[n][e]
 
 [msg MSG_007]
-[s]Décor themed after Niijima's[n]Palácio.[n][e]
+[s]Decoração inspirada no[n]Niijima Palace.[n][e]
 
 [msg MSG_008]
-[s]Décor themed after Shido's[n]Palácio.[n][e]
+[s]Decoração inspirada no[n]Shido Palace.[n][e]
 
 [msg MSG_009]
-[s]Décor themed after the Prison[n]da Acedia e Qliphoth World.[n][e]
+[s]Decoração inspirada na[n]Prisão Acedia e[n]no mundo da cliphoto.[n][e]
 
 [msg MSG_010]
-[s]Décor themed after Maruki's[n]Palácio.[n][e]
+[s]Decoração inspirada no Palácio[n]Maruki.[n][e]
 
 [msg MSG_011]
-[s]Décor themed after the Velvet[n]Quarto.[n][e]
+[s]Decoração inspirada no[n]Velvet Room.[n][e]
 
 [msg MSG_012]
-[s]Décor themed after Mementos.[n][e]
+[s]Decoração inspirada em Mementos.[n][e]
 

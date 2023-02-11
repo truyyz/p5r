@@ -1,10 +1,10 @@
 [sel YESNO_SEL top]
-[s]Sim [e]
-[s]Não [e]
+[s]Sim[e]
+[s]Não[e]
 
 [msg MSG_TEST_800]
-[s]Porta na cobertura [n][w][e]
+[s]porta do telhado[n][w][e]
 
 [msg MSG_TEST_801]
-[s]Olhe através da cerca [n][w][e]
+[s]Olhe por cima da cerca[n][w][e]
 

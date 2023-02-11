@@ -1,110 +1,110 @@
 [msg MSG_GREET_RESERVE_1]
-[s]Droga... eu quero ir para casa...[n][f 1 7 45][e]
+[s]Cara... eu quero ir pra casa...[n][f 1 7 45][e]
 
 [msg MSG_GREET_RESERVE_2]
-[s]Eu não quero ir para a escola...[n]Isso é péssimo...[n][f 1 7 45][e]
+[s]Eu não quero ir para a escola...[n]É uma bola...[n][f 1 7 45][e]
 
 [msg MSG_GREET_RESERVE_3]
-[s]Estou tão cansado todos os dias...[n][f 1 7 45][e]
+[s]Estou sempre muito cansado...[n][f 1 7 45][e]
 
 [msg MSG_GREET_RESERVE_4]
-[s]Eu não quero ir trabalhar...[n][f 1 7 45][e]
+[s]Não quero ir trabalhar...[n][f 1 7 45][e]
 
 [msg MSG_GREET_RESERVE_5]
-[s]Há algum intervalo chegando?[n][f 1 7 45][e]
+[s]Mas nunca fazemos uma pausa?[n][f 1 7 45][e]
 
 [msg MSG_GREET_0823_1]
-[s][vp 8 2 0 39104 65535 0]Você viu as notícias?[n][f 1 7 45][e]
+[s][vp 8 2 0 39104 65535 0]Você ouviu as notícias?[n][f 1 7 45][e]
 
 [msg MSG_GREET_0823_2]
-[s][vp 8 2 0 38150 65535 0]Os ladrões Phantom são incríveis.[n][f 1 7 45][e]
+[s][vp 8 2 0 38150 65535 0]Os Phantom Thieves são incríveis.[n][f 1 7 45][e]
 
 [msg MSG_GREET_0823_3]
 [s][vp 8 2 0 40503 65535 0]Eles derrotaram os hackers, certo?[n][f 1 7 45][e]
 
 [msg MSG_GREET_0823_4]
-[s][vp 8 2 0 37656 65535 0]Os ladrões Phantom também derrubaram[n]Madarame, certo?[n][f 1 7 45][e]
+[s][vp 8 2 0 37656 65535 0]Os Phantom Thieves derrubaram Madarame também,[n]não foi?[n][f 1 7 45][e]
 
 [msg MSG_GREET_0823_5]
-[s][vp 8 2 0 38004 65535 0]Eles são tão legais.[n][f 1 7 45][e]
+[s][vp 8 2 0 38004 65535 0]Eles são muito legais.[n][f 1 7 45][e]
 
 [msg MSG_GREET_0824_1]
-[s][vp 8 2 0 42852 65535 0]Eu gostaria que os ladrões fantasmas me[n]ajudassem também...[n][f 1 7 45][e]
+[s][vp 8 2 0 42852 65535 0]Eu gostaria que os Phantom Thieves[n]me ajudassem também...[n][f 1 7 45][e]
 
 [msg MSG_GREET_0824_2]
-[s][vp 8 2 0 42703 65535 0]Então foram os ladrões fantasmas que[n]derrubaram os hackers, afinal.[n][f 1 7 45][e]
+[s][vp 8 2 0 42703 65535 0]Então, no final, foram os Phantom[n]Thieves que pararam os hackers.[n][f 1 7 45][e]
 
 [msg MSG_GREET_0824_3]
-[s][vp 8 2 0 42953 65535 0]Eu tenho um dos cartões de visita deles que[n]eles colocaram em todo o Shibuya![n][f 1 7 45][e]
+[s][vp 8 2 0 42953 65535 0]Eu tenho uma das cartas[n]de desafio que eles espalharam[n]por Shibuya![n][f 1 7 45][e]
 
 [msg MSG_GREET_0824_4]
-[s][vp 8 2 0 42150 65535 0]Quem são eles? Eu quero saber quem eles são[n]na vida real![n][f 1 7 45][e]
+[s][vp 8 2 0 42150 65535 0]Mas quem são eles? Eu quero saber[n]quem eu sou na vida real![n][f 1 7 45][e]
 
 [msg MSG_GREET_0824_5]
-[s][vp 8 2 0 42554 65535 0]Eles têm empregos diurnos? Você acha que são[n]funcionários de escritório?[n][f 1 7 45][e]
+[s][vp 8 2 0 42554 65535 0]Eu me pergunto se eles trabalham durante o dia...[n]Você acha que eles são empregados?[n][f 1 7 45][e]
 
 [msg MSG_GREET_0825_1]
-[s][vp 8 2 0 42853 65535 0]Conheço alguém que conhece um amigo de[n]verdade dos ladrões Phantom![n][f 1 7 45][e]
+[s][vp 8 2 0 42853 65535 0]Eu conheço alguém que conhece o primo[n]de um amigo dos Phantom Thieves![n][f 1 7 45][e]
 
 [msg MSG_GREET_0825_2]
-[s][vp 8 2 0 43104 65535 0]Sério? Me apresente![n][f 1 7 45][e]
+[s][vp 8 2 0 43104 65535 0]Sério? Apresente-o para mim![n][f 1 7 45][e]
 
 [msg MSG_GREET_0825_3]
-[s][vp 8 2 0 41504 65535 0]É tão barulhento hoje em dia. É por causa[n]dos ladrões fantasmas?[n][f 1 7 45][e]
+[s][vp 8 2 0 41504 65535 0]Quanta confusão...[n]É por causa dos Phantom Thieves?[n][f 1 7 45][e]
 
 [msg MSG_GREET_0825_4]
-[s][vp 8 2 0 45451 65535 0]Os ladrões Phantom roubarão seu coração se[n]você continuar agindo egoísta.[n][f 1 7 45][e]
+[s][vp 8 2 0 45451 65535 0]Os Phantom Thieves vão roubar[n]seu coração, se você continuar[n]a ser tão egoísta.[n][f 1 7 45][e]
 
 [msg MSG_GREET_0825_5]
-[s][vp 8 2 0 40053 65535 0]Eu gostaria que eles pudessem mudar o[n]coração do meu marido...[n][f 1 7 45][e]
+[s][vp 8 2 0 40053 65535 0]Eu gostaria que eles despertassem o coração do[n]meu marido...[n][f 1 7 45][e]
 
 [msg MSG_GREET_0826_1]
-[s][vp 8 2 0 39703 65535 0]... Estou realmente curioso sobre as[n]identidades dos ladrões fantasmas.[n][f 1 7 45][e]
+[s][vp 8 2 0 39703 65535 0]...Eu realmente gostaria de saber qual é a[n]verdadeira identidade dos Phantom Thieves.[n][f 1 7 45][e]
 
 [msg MSG_GREET_0826_2]
-[s][vp 8 2 0 43900 65535 0]Perdi! Perdi! Quer que eu roube seu coração?[n][f 1 7 45][e]
+[s][vp 8 2 0 43900 65535 0]Perdi! Senhorita![n]Você quer que eu roube seu coração?[n][f 1 7 45][e]
 
 [msg MSG_GREET_0826_3]
-[s][vp 8 2 0 38903 65535 0]Essa é uma nova linha de coleta?[n][f 1 7 45][e]
+[s][vp 8 2 0 38903 65535 0]O que é isso? Uma nova tática[n]para rebocar?[n][f 1 7 45][e]
 
 [msg MSG_GREET_0826_4]
-[s][vp 8 2 0 40454 65535 0]Phantom Thieves... não Phantom Thief. Talvez[n]eles sejam um grupo enorme.[n][f 1 7 45][e]
+[s][vp 8 2 0 40454 65535 0]Phantom Thieves... Não Phantom[n]Thief. Talvez existam muitos deles.[n][f 1 7 45][e]
 
 [msg MSG_GREET_0826_5]
-[s][vp 8 2 0 40603 65535 0]Sério? Isso é insano![n][f 1 7 45][e]
+[s][vp 8 2 0 40603 65535 0]Sério? Coisas malucas![n][f 1 7 45][e]
 
 [msg MSG_GREET_0827_1]
-[s][vp 8 2 0 41101 65535 0]Ele é tão irritante. Espero que os ladrões[n]fantasmas se livrem dele em breve.[n][f 1 7 45][e]
+[s][vp 8 2 0 41101 65535 0]Ele é tão chato... Espero que[n]os Phantom Thieves[n]se livrem dele mais cedo ou mais tarde.[n][f 1 7 45][e]
 
 [msg MSG_GREET_0827_2]
-[s][vp 8 2 0 43250 65535 0]Eu sei! Eu quero fazê-los desaparecer.[n][f 1 7 45][e]
+[s][vp 8 2 0 43250 65535 0]Já! Eu gostaria que fosse embora.[n][f 1 7 45][e]
 
 [msg MSG_GREET_0827_3]
-[s][vp 8 2 0 42655 65535 0]Alguém que eu conheço disse que foi[n]recrutado pelos ladrões Phantom.[n][f 1 7 45][e]
+[s][vp 8 2 0 42655 65535 0]Conheço uma pessoa que diz[n]que foi recrutado[n]pelos Phantom Thieves.[n][f 1 7 45][e]
 
 [msg MSG_GREET_0827_4]
-[s][vp 8 2 0 42854 65535 0]De jeito nenhum! Isso é incrível![n][f 1 7 45][e]
+[s][vp 8 2 0 42854 65535 0]Vamos! Que legal![n][f 1 7 45][e]
 
 [msg MSG_GREET_0827_5]
-[s][vp 8 2 0 42656 65535 0]Eu gostaria que eles me recruíssem também...[n][f 1 7 45][e]
+[s][vp 8 2 0 42656 65535 0]Eu gostaria que eles me recrutassem também...[n][f 1 7 45][e]
 
 [msg MSG_GREET_0828_1]
-[s]Eu me pergunto como os ladrões fantasmas[n]estão se financiando.[n][f 1 7 45][e]
+[s]Quem sabe como[n]os Phantom Thieves são financiados.[n][f 1 7 45][e]
 
 [msg MSG_GREET_0828_2]
-[s]Talvez eles tenham um doador rico?[n][f 1 7 45][e]
+[s]Talvez eles tenham[n]um benfeitor rico?[n][f 1 7 45][e]
 
 [msg MSG_GREET_0828_3]
-[s]Você não pode ir a lugar nenhum deles sem[n]ouvir algo sobre esses ladrões fantasmas.[n][f 1 7 45][e]
+[s]Agora você não pode sair de casa[n]sem ouvir alguém mencionar[n]esses Phantom Thieves.[n][f 1 7 45][e]
 
 [msg MSG_GREET_0828_4]
-[s]Eu mesmo conheci bem-los com eles.[n][f 1 7 45][e]
+[s]Até agora eu também estou bastante informado[n]sobre eles.[n][f 1 7 45][e]
 
 [msg MSG_GREET_0828_5]
-[s]Minha filha está tão obcecada com os ladrões[n]Phantom...[n][f 1 7 45][e]
+[s]Minha filha é obcecada[n]por Phantom Thieves...[n][f 1 7 45][e]
 
 [msg MSG_GREET_0830_1]
-[s]Você não ouviu falar dos ladrões Phantom!?[n][f 1 7 45][e]
+[s]Você não ouviu[n]sobre os Phantom Thieves?!?[n][f 1 7 45][e]
 
 [msg MSG_GREET_0830_2]
 [s]Eles derrotaram os hackers, certo?[n][f 1 7 45][e]
@@ -113,13 +113,13 @@
 [s]Eles são super-heróis![n][f 1 7 45][e]
 
 [msg MSG_GREET_0830_4]
-[s]Eu quero que os ladrões fantasmas me[n]salvam...[n][f 1 7 45][e]
+[s]Eu gostaria que os Phantom Thieves[n]me salvassem...[n][f 1 7 45][e]
 
 [msg MSG_GREET_0830_5]
-[s]Eu me pergunto quem eles são?[n][f 1 7 45][e]
+[s]Quem sabe quem são...[n][f 1 7 45][e]
 
 [msg MSG_GREET_0831_1]
-[s]Você não ouviu falar dos ladrões Phantom!?[n][f 1 7 45][e]
+[s]Você não ouviu[n]sobre os Phantom Thieves?!?[n][f 1 7 45][e]
 
 [msg MSG_GREET_0831_2]
 [s]Eles derrotaram os hackers, certo?[n][f 1 7 45][e]
@@ -128,8 +128,8 @@
 [s]Eles são super-heróis![n][f 1 7 45][e]
 
 [msg MSG_GREET_0831_4]
-[s]Eu quero que os ladrões fantasmas me[n]salvam...[n][f 1 7 45][e]
+[s]Eu gostaria que os Phantom Thieves[n]me salvassem...[n][f 1 7 45][e]
 
 [msg MSG_GREET_0831_5]
-[s]Eu me pergunto quem eles são?[n][f 1 7 45][e]
+[s]Quem sabe quem são...[n][f 1 7 45][e]
 
