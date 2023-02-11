@@ -2,105 +2,105 @@
 [s]......[n][w][e]
 
 [msg DebugMsg_ERROR]
-[s](Error)[n][w][e]
+[s](Error) [n][w][e]
 
 [msg TalkMsg_EN_CONTACT_00]
-[s]Hahaha, desculpe Fer fazendo isso para seu[n]companheiro de equipe...[n][w][e]
-[s]Você concederá o desejo desse velho,[n]wontcha? Eu Loooove um brilhante [n][f 2 5 3 9999 3].[n][w][e]
+[s]Hahaha, perdoe-me pelo que estou fazendo com seu[n]colega soldado...[n][w][e]
+[s]Você concederá o desejo deste[n]velho? Eu gostaria deste[n]objeto brilhante: [f 2 5 3 9999 3].[n][w][e]
 
 [msg TalkMsg_EN_CONTACT_01]
-[s]Parece seu companheiro de equipe precioso em[n]uma pitada... se você me der [n][var 0] Yen, eu posso ajudá-lo.[n][w][e]
+[s]Parece que seu camarada[n]está em grave perigo... Se você me der[n][var 0] ienes, eu lhe darei uma mão.[n][w][e]
 
 [msg TalkMsg_EN_CONTACT_02]
-[s]Você quer salvar seu companheiro de equipe,[n]certo?[n]Então deixe-me tomar um gole de sua saúde.[n][w][e]
+[s]Você quer salvar seu[n]companheiro soldado, não é? Então[n]me dê uma pitada de sua saúde.[n][w][e]
 
 [msg TalkMsg_EN_CONTACT_03]
-[s]Seu companheiro de equipe mal está[n]pendurado...[n]Dê-me um pouco de sua resistência, e eu[n]farei algo sobre isso.[n][w][e]
+[s]A vida de seu camarada está[n]por um fio... Dê-me sua[n]energia e eu resolverei isso.[n][w][e]
 
 [sel TalkSel_EN_CONTACT top]
-[s]Tudo bem, você ganha.[e]
-[s]Não posso atender às suas demandas.[e]
-[s]Call Thieves Guild ([var 5] left).[e]
-[s][clr 2]Você está acordado, Pantera.[clr 27][e]
+[s]Tudo bem, você venceu.[e]
+[s]Não posso acomodar seus pedidos.[e]
+[s]Chiama Gilda dei Ladri ([var 5] restanti).[e]
+[s][clr 2]É a sua vez, Pantera.[clr 27][e]
 
 [msg TalkMsg_EN_DECLINE_00]
-[s]Você sabe, eu sou mais ganancioso do que[n]olho.[n][w][e]
-[s]Que preço barato para pagar por seu[n]companheiro de equipe, sim? Desta vez, me[n]dê um  [f 2 5 3 9999 3].[n][w][e]
+[s]Você sabe, eu sou mais ganancioso do que pareço.[n][w][e]
+[s]É um pequeno preço a pagar[n]pela vida de um colega soldado, não é?[n]Dê-me este item: [f 2 5 3 9999 3].[n][w][e]
 
 [msg TalkMsg_EN_DECLINE_01]
-[s]... isso não é suficiente me fazer.[n][w][e]
-[s]Me dê [var 0]Yen também.[n]Você não quer salvar seu companheiro de[n]equipe?[n][w][e]
+[s]... Não é o suficiente para mim.[n][w][e]
+[s]Também me dê [var 0] ienes.[n]Você quer salvar a vida de[n]seu colega soldado, não é?[n][w][e]
 
 [msg TalkMsg_EN_DECLINE_02]
-[s]... Você é tão jovem. Me faz querer brincar[n]com você um pouco mais.[n][w][e]
-[s]Dê-me sua saúde desta vez. Não é demais[n]pedir ao companheiro de equipe, sim?[n][w][e]
+[s]Você é tão novinho... tenho vontade[n]de brincar um pouco mais com você.[n][w][e]
+[s]Dê-me sua saúde, desta vez. É pedir demais pela[n]vida do seu colega soldado?[n][w][e]
 
 [msg TalkMsg_EN_DECLINE_03]
-[s]... Yer Young, então tenho certeza que você[n]pode dar um pouco mais a esse velho.[n][w][e]
-[s]Dê-me sua resistência desta vez.[n]A experiência é tudo neste mundo, afinal.[n][w][e]
+[s]Você é jovem, pode oferecer muito mais a um velho[n]como eu.[n][w][e]
+[s]Dê-me sua energia, desta vez. Em última análise,[n]experiência é tudo neste mundo.[n][w][e]
 
 [msg TalkMsg_EN_AGREE_00]
-[s]... Tudo bem, eu vou liberar seu companheiro[n]de equipe.[n]Bom esforço, Sonny.[n][w][e]
+[s]...Ok, vou libertar seu[n]companheiro no exército. Boa tentativa, filho.[n][w][e]
 
 [msg TalkMsg_EN_AGREE_01]
-[s]... Você aprendeu sua lição? Acho que vou te[n]devolver seu companheiro de equipe, agora.[n][w][e]
+[s]...Você aprendeu sua lição?[n]Então eu realmente acho que vou[n]devolvê-lo ao seu colega soldado.[n][w][e]
 
 [msg TalkMsg_EN_SLAY_00]
-[s]Você só vai abandonar seu companheiro de[n]equipe?[n]Muito bem. Vou conceder seu desejo, Sonny-[n]Diga adeus![n][w][e]
+[s]Você decidiu deixar seu companheiro no exército?[n]Tudo bem, eu concederei seu desejo. Diga adeus![n][w][e]
 
 [msg TalkMsg_EN_SLAY_01]
-[s]Entendo. Saiba que você só se deixou culpar[n]se seu companheiro de equipe te odeia fazer[n]isso...[n][w][e]
+[s]Entendo. Se ele acabar te odiando, tudo o que[n]você precisa fazer é se culpar...[n][w][e]
 
 [msg TalkMsg_EN_FORGIVE_00]
-[s]Você não se importa com a vida de seu[n]companheiro de equipe... parece não tão[n]diferente de nós sombras, Sonny.[n][w][e]
-[s]Ok, terminei de brincar com você, Sonny.[n]Faça o que quiser daqui...[n][w][e]
+[s]Você não se importa com a vida de[n]seus companheiros soldados... Você não é tão[n]diferente de nós, Sombras, filho.[n][w][e]
+[s]OK, acabei com você.[n]Faça o que quiser[n]daqui em diante...[n][w][e]
 
 [msg TalkMsg_EN_FORGIVE_01]
-[s]Sonny... você quer me dizer que não se[n]importa com seu companheiro de equipe?[n][w][e]
-[s]... Entendo, acho que os tempos mudaram.[n]Está na hora desse velho que vai embora.[n]Até mais...[n][w][e]
+[s]Filho... você está me dizendo que não[n]se preocupa com seu colega soldado?[n][w][e]
+[s]Outra vez, de outra maneira.[n]É hora desse velho fugir[n]de seu problema. Vê você...[n][w][e]
 
 [msg TalkMsg_EN_FLEE_00]
-[s]Até mais![n][w][e]
+[s]Nos veremos![n][w][e]
 
 [msg TalkMsg_EN_FLEE_01]
-[s]A sorte está do seu lado, Sonny. Bem então...[n]Até mais![n][w][e]
+[s]A sorte está do seu lado,[n]filho. Bem... até mais![n][w][e]
 
 [msg TalkMsg_EN_ACCEPT_00]
-[s]... Agora, vamos continuar de onde paramos.[n]Coloque seus duques![n][w][e]
+[s]Vamos, vamos retomar a conversa[n]de onde paramos.[n]Cuidado, jovem![n][w][e]
 
 [msg TalkMsg_EN_ACCEPT_01]
-[s]... Bem, então, vamos voltar a negócios de[n]TA. Você não se esqueceu, certo?[n][w][e]
+[s]Vamos lá, vamos[n]aos negócios. Você não terá[n]esquecido disso, não é?[n][w][e]
 
 [msg TalkMsg_EN_FALTER_00]
-[s]De quem diabos... de onde essas fotos[n]vieram!?[n][w][e]
+[s]Que diabos...?!?[n]De onde vieram esses[n]tiros...?!?[n][w][e]
 
 [msg TalkMsg_EN_FALTER_01]
-[s]Nngh! Existem outros!?[n][w][e]
+[s]Nngh! Há outros?!?[n][w][e]
 
 [msg TalkMsg_EN_FAKE_CRIED00]
-[s]H-hey, pare de chorar!... tudo bem, eu vou[n]deixar você ir, apenas me dê [n][f 2 5 3 9999 3].[n][w][e]
+[s]E-Ei, pare de chorar...![n]Ok, eu vou deixar você ir em[n]troca deste item: [f 2 5 3 9999 3].[n][w][e]
 
 [msg TalkMsg_EN_FAKE_CRIED01]
-[s]Eu não posso ser visto fazendo uma senhora[n]chorar.[n]Vou olhar para o outro lado se você me der [n][var 0]Yen![n][w][e]
+[s]Me aflige ver uma senhora chorar. Dê-me[n][var 0]ienes e fecharei os olhos para tudo.[n][w][e]
 
 [msg TalkMsg_EN_FAKE_CRIED02]
-[s]Quão sem vergonha... acalme-se, jovem. Vou[n]deixá-los ir se puder ter um pouco de saúde.[n][w][e]
+[s]Que pena... Calma, senhorita. Vou deixá-los ir em[n]troca de uma pitada de saúde.[n][w][e]
 
 [msg TalkMsg_EN_FAKE_CRIED03]
-[s]Tão barulhento! Pare de me dar um problema![n]Dê-me um pouco de sua resistência e pare de[n]Wailin '.[n][w][e]
+[s]Que barulho! Pare de me incomodar! Dê-me um pouco[n]da sua energia e pare de reclamar.[n][w][e]
 
 [msg TalkMsg_EN_FAKE_COUP00]
-[s]Eu não pretendia fazer uma garota chorar...[n]Tudo bem, eu terminei aqui! Estou indo[n]embora![n][w][e]
+[s]N-eu não queria fazer essa[n]garota chorar... Tudo bem,[n]aqui terminei! Estou indo embora...![n][w][e]
 
 [msg TalkMsg_EN_FAKE_COUP01]
-[s]Caramba... é ungentleman como uma senhora[n]chorar. Hoje não é o meu dia...[n]Estou saindo '.[n][w][e]
+[s]Caramba ... É falta de educação fazer[n]uma senhora chorar. Hoje não é realmente[n]dia... Estou indo embora.[n][w][e]
 
 [msg TalkMsg_NO_REQUIREMENT]
-[s]Você nem tem um?[n][w][e]
+[s]Não tem nem um?[n][w][e]
 
 [msg CharmActing [Ann]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 4 5 301 1]Não... como você poderia tirar isso de nós?[n][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 4 5 301 1]Não... Como você pode nos privar disso?[n][w][e]
 
 [msg NetEngo]
-[s]Outro bando de ladrões respondeu à ligação![n][w][e]
+[s]Outra gangue de ladrões[n]atendeu a chamada![n][w][e]
 

@@ -2,110 +2,110 @@
 [s]......[n][w][e]
 
 [msg DebugMsg_ERROR]
-[s](Error)[n][w][e]
+[s](Error) [n][w][e]
 
 [msg TalkMsg_EN_CONTACT_00]
-[s]Este cordeiro perdido está se contorcendo de[n]dor... Hahaha.[n][w][e]
-[s]Se você me conceder [f 2 5 3 9999 3], talvez a salvação venha...[n]Qual é a sua decisão?[n][w][e]
+[s]Esta pequena ovelhinha perdida está[n]se contorcendo de dor...[n]Ahahah.[n][w][e]
+[s]Dê-me este item: [f 2 5 3 9999 3].[n]E talvez a salvação venha.[n]Qual é a sua decisão?[n][w][e]
 
 [msg TalkMsg_EN_CONTACT_01]
-[s]Este cordeiro perdido está se contorcendo de[n]dor... Hahaha.[n][w][e]
-[s]Vamos ver... se você me conceder um dízimo[n]de [n][var 0]Yen, talvez eu esteja disposto a libertá-los.[n][w][e]
+[s]Esta pequena ovelhinha perdida está[n]se contorcendo de dor...[n]Ahahah.[n][w][e]
+[s]Vejamos... se você me der um[n]dízimo de [var 0] ienes, talvez[n]eu possa optar pela liberação.[n][w][e]
 
 [msg TalkMsg_EN_CONTACT_02]
-[s]Este cordeiro perdido está sofrendo uma[n]grande dor...[n]Você não concede a eles a salvação?[n][w][e]
-[s]Peço um dízimo da sua saúde. Só então devo[n]considerá-los liberá-los.[n][w][e]
+[s]Esta pequena ovelhinha perdida está[n]conhecendo um grande sofrimento.[n]Você não quer salvá-la?[n][w][e]
+[s]Peço uma doação[n]em saúde. E talvez eu opte pela libertação.[n][w][e]
 
 [msg TalkMsg_EN_CONTACT_03]
-[s]Este cordeiro perdido está sofrendo uma[n]grande dor...[n]Você não concede a eles a salvação?[n][w][e]
-[s]Peço um dízimo da sua resistência. Somente[n]então esse cordeiro se juntará ao rebanho.[n][w][e]
+[s]Esta pequena ovelhinha perdida está[n]conhecendo um grande sofrimento.[n]Você não quer salvá-la?[n][w][e]
+[s]Peço a vocês uma doação[n]em energia. Só então pode[n]juntar-se ao seu rebanho.[n][w][e]
 
 [sel TalkSel_EN_CONTACT top]
-[s]Tudo bem, você ganha.[e]
-[s]Não posso atender às suas demandas.[e]
-[s]Call Thieves Guild ([var 5] left).[e]
-[s][clr 2]Você está acordado, Pantera.[clr 27][e]
+[s]Tudo bem, você venceu.[e]
+[s]Não posso acomodar seus pedidos.[e]
+[s]Chiama Gilda dei Ladri ([var 5] restanti).[e]
+[s][clr 2]É a sua vez, Pantera.[clr 27][e]
 
 [msg TalkMsg_EN_DECLINE_00]
-[s]Você não tem sinceridade. Não vou liberar[n]este cordeiro, a menos que nosso pai o[n]deseje.[n][w][e]
-[s]... Desta vez, eu peço [f 2 5 3 9999 3].[n]Fique calmo e envie ao nosso pai.[n][w][e]
+[s]Pecados de sinceridade. Eu não vou[n]soltar esta ovelhinha até que[n]o Pai queira.[n][w][e]
+[s]... Desta vez, exijo este[n]item: [f 2 5 3 9999 3]. Acalme-se[n]e submeta-se ao Pai.[n][w][e]
 
 [msg TalkMsg_EN_DECLINE_01]
-[s]... Este dízimo não é suficiente. Esse[n]cordeiro não pode voltar ao rebanho com[n]isso.[n][w][e]
-[s]Desta vez, peço um dízimo de [var 0]Yen.[n]Permita-me verificar sua sinceridade...[n][w][e]
+[s]Este dízimo não é suficiente.[n]A ovelhinha ainda não[n]pode voltar para o seu rebanho.[n][w][e]
+[s]Desta vez, quero um[n]dízimo de [var 0] ienes. Permita-me[n]verificar sua sinceridade...[n][w][e]
 
 [msg TalkMsg_EN_DECLINE_02]
-[s]... Nosso Pai não está satisfeito. Talvez[n]devêssemos pedir mais.[n][w][e]
-[s]Desta vez, ele exige sua saúde.[n]Você deve estar disposto a se sacrificar[n]como nosso pai.[n][w][e]
+[s]O Pai não está satisfeito.[n]Talvez devêssemos pedir mais.[n][w][e]
+[s]Desta vez, Ele exige sua[n]saúde. Você deve estar disposto a[n]sacrificar, assim como Ele.[n][w][e]
 
 [msg TalkMsg_EN_DECLINE_03]
-[s]... Mais sacrifícios devem ser feitos se[n]quisermos provar nossa autoridade sobre[n]seus mortais.[n][w][e]
-[s]Desta vez, peço sua resistência. Vou[n]verificar quanto você está disposto a[n]sacrificar...[n][w][e]
+[s]Novos sacrifícios serão úteis[n]para fortalecer nossa autoridade[n]sobre vocês, mortais...[n][w][e]
+[s]Desta vez, exijo sua energia. Só então eu[n]verificarei quanto você está disposto a[n]sacrificar.[n][w][e]
 
 [msg TalkMsg_EN_AGREE_00]
-[s]...Muito bem. Já era hora de devolver esse[n]cordeiro perdido para se reunir.[n][w][e]
+[s]...Muito bem.[n]É hora desta[n]ovelha perdida retornar ao seu rebanho.[n][w][e]
 
 [msg TalkMsg_EN_AGREE_01]
-[s]... Eu realmente entendo sua determinação[n]agora. Vou devolver este cordeiro perdido para[n]rebanho.[n][w][e]
+[s]Agora eu entendo sua determinação. Vou entregar[n]esta ovelha perdida de volta ao seu rebanho.[n][w][e]
 
 [msg TalkMsg_EN_SLAY_00]
-[s]Você vai abandonar esse cordeiro?[n]Blasfêmia...[n][w][e]
-[s]Eu não desejei para esse fim... mas o[n]julgamento deve ser chamado.[n][w][e]
+[s]Você vai abandonar esta ovelhinha?[n]Que blasfêmia...[n][w][e]
+[s]Eu não queria tal epílogo[n]... mas o julgamento[n]deve ser realizado.[n][w][e]
 
 [msg TalkMsg_EN_SLAY_01]
-[s]Você não mostra clemência nem mesmo para[n]aqueles amados por nosso pai?[n][w][e]
-[s]Permita-me dissipar essa noção. Que o pai[n]lhes conceda misericórdia.[n][w][e]
+[s]Você não é misericordioso mesmo[n]para aqueles que são amados[n]pelo Pai?[n][w][e]
+[s]Deixe-me exorcizar esta ideia.[n]Que o Pai lhe conceda[n]sua misericórdia.[n][w][e]
 
 [msg TalkMsg_EN_FORGIVE_00]
-[s]Você vai abandonar esse cordeiro?[n]Blasfêmia...[n][w][e]
-[s]Não posso conversar com um capaz de tais[n]ações desprezíveis... adeus.[n][w][e]
+[s]Você vai abandonar esta ovelhinha?[n]Que blasfêmia...[n][w][e]
+[s]Não pretendo conversar com[n]alguém capaz de[n]ações tão ignóbeis. Tchau.[n][w][e]
 
 [msg TalkMsg_EN_FORGIVE_01]
-[s]Filho imundo do pecado. Arrependa-se de suas[n]maneiras impiedosas.[n][w][e]
-[s]Nosso pai está observando você o tempo todo.[n]Vou liberar este cordeiro e despedir.[n][w][e]
+[s]Filho imundo do pecado![n]Arrependa-se de seus caminhos impuros.[n][w][e]
+[s]O Pai observa você[n]constantemente. Vou libertar esta[n]ovelha e partir.[n][w][e]
 
 [msg TalkMsg_EN_FLEE_00]
-[s]Bem, então, vou me despedir. Bom dia para[n]você...[n][w][e]
+[s]Bem, então me despeço.[n]Bom dia.[n][w][e]
 
 [msg TalkMsg_EN_FLEE_01]
-[s]Não há mais necessidade de brigar com você[n]por mais tempo. Vou tirar minha despedida...[n][w][e]
+[s]Eu não tenho intenção de[n]discutir mais com você.[n]Eu me despeço...[n][w][e]
 
 [msg TalkMsg_EN_ACCEPT_00]
-[s]Bem, então, vamos terminar esta batalha.[n]Se prepare![n][w][e]
+[s]Bem, então vamos concluir esta batalha.[n]Prepare-se![n][w][e]
 
 [msg TalkMsg_EN_ACCEPT_01]
-[s]... isso vai ser suficiente. Agora, então,[n]vamos retomar.[n][w][e]
+[s]Isso é o suficiente.[n]Vamos lá, vamos indo.[n][w][e]
 
 [msg TalkMsg_EN_FALTER_00]
-[s]Pai! Pensar que essa criança seria isso[n]preparado![n][w][e]
+[s]Ah, padre! E pensar que esse[n]filho estaria preparado![n][w][e]
 
 [msg TalkMsg_EN_FALTER_01]
-[s]Quem ousa perturbar meu sermão!?[n][w][e]
+[s]Quem se atreve a arruinar meu sermão!?![n][w][e]
 
 [msg TalkMsg_EN_FAKE_CRIED00]
-[s]Pare isso de uma só vez! Vou te perdoar, mas[n]me conceda [n][f 2 5 3 9999 3].[n][w][e]
+[s]Pare com isso agora! Eu vou te perdoar,[n]em troca deste item:[n][f 2 5 3 9999 3].[n][w][e]
 
 [msg TalkMsg_EN_FAKE_CRIED01]
-[s]Filhos sem esperança do homem! Vou permitir[n]apenas tanta impudência por um dízimo de [n][var 0]Yen.[n][w][e]
+[s]Criatura sem esperança! Permitirei[n]tal atrevimento apenas em troca de[n]um décimo de [var 0] ienes.[n][w][e]
 
 [msg TalkMsg_EN_FAKE_CRIED02]
-[s]Pare isso de uma só vez! Tudo bem, vou[n]perdoá-lo se você me conceder sua saúde.[n][w][e]
+[s]Pare agora![n]Ok, eu vou te perdoar em[n]em troca de sua saúde.[n][w][e]
 
 [msg TalkMsg_EN_FAKE_CRIED03]
-[s]Tal imaturidade! Só permitirei tal[n]impudência se você me conceder sua[n]resistência.[n][w][e]
+[s]Quanta imaturidade! Concordarei[n]com tal atrevimento apenas em[n]troca de sua energia.[n][w][e]
 
 [msg TalkMsg_EN_FAKE_COUP00]
-[s]O-oh pai... eu era muito duro? Acalme-se e[n]não se importe com minhas palavras![n][w][e]
+[s]Oh, padre... Fui duro?[n]Acalme-se e ignore minhas palavras![n][w][e]
 
 [msg TalkMsg_EN_FAKE_COUP01]
-[s]Querido pai... pensar que eu esqueceria a[n]misericórdia. Talvez eu demiti minha[n]despedida...[n][w][e]
+[s]Oh, Pai... Acreditar que eu poderia[n]esquecer a misericórdia.[n]Talvez eu vá embora...[n][w][e]
 
 [msg TalkMsg_NO_REQUIREMENT]
-[s]Você não tem o que eu preciso.[n][w][e]
+[s]Você não tem o que eu quero.[n][w][e]
 
 [msg CharmActing [Ann]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 4 5 301 1]Não... como você poderia tirar isso de nós?[n][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 4 5 301 1]Não... Como você pode nos privar disso?[n][w][e]
 
 [msg NetEngo]
-[s]Outro bando de ladrões respondeu à ligação![n][w][e]
+[s]Outra gangue de ladrões[n]atendeu a chamada![n][w][e]
 

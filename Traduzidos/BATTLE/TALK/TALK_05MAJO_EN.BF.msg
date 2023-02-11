@@ -2,108 +2,108 @@
 [s]......[n][w][e]
 
 [msg DebugMsg_ERROR]
-[s](Error)[n][w][e]
+[s](Error) [n][w][e]
 
 [msg TalkMsg_EN_CONTACT_00]
-[s]*risada* Seu parceiro é tão fraco. Agora, o[n]que fazer...?[n][w][e]
-[s]Você não vai ouvir meu pedido? Eu exijo [n][f 2 5 3 9999 3].[n][w][e]
+[s]Eheheh, seu aliado é tão[n]fraco. O que você fará agora?[n][w][e]
+[s]Você vai ouvir meu pedido?[n]Eu quero este item: [f 2 5 3 9999 3].[n][w][e]
 
 [msg TalkMsg_EN_CONTACT_01]
-[s]Tal amador você tem para um parceiro.[n]É por isso que eles estão nesta posição[n]agora.[n][w][e]
-[s]... Você quer salvá-los? Então eu gostaria[n]de ter  [var 0]Yen.[n][w][e]
+[s]Que tipo de amadores você tem como aliados. É por[n]isso que eles se metem em certos problemas.[n][w][e]
+[s]Você quer salvá-los? Então eu gostaria que[n]você me desse [var 0] ienes.[n][w][e]
 
 [msg TalkMsg_EN_CONTACT_02]
-[s]A vida humana é tão frágil... seu parceiro[n]expirará em breve a esse ritmo...[n][w][e]
-[s]Se você deseja evitar o infortúnio, não[n]compartilhará parte de sua saúde comigo?[n][w][e]
+[s]A vida humana é tão frágil...[n]E a do seu aliado[n]se esgotará muito em breve...[n][w][e]
+[s]Se você quiser evitar esse desastre,[n]você se importaria de me passar um pouco[n]da sua saúde?[n][w][e]
 
 [msg TalkMsg_EN_CONTACT_03]
-[s]O destino do seu parceiro está em minhas[n]mãos...[n]Você entende a situação em que se encontra?[n][w][e]
-[s]Se você compartilhar parte de sua[n]resistência comigo, certamente entreterei[n]seu pedido.[n][w][e]
+[s]O destino de seus aliados está em[n]minhas mãos... Você entende a[n]situação em que está?[n][w][e]
+[s]Se você me der um pouco de sua[n]energia, ficarei feliz em atender[n]seu pedido.[n][w][e]
 
 [sel TalkSel_EN_CONTACT top]
-[s]Tudo bem, você ganha.[e]
-[s]Não posso atender às suas demandas.[e]
-[s]Call Thieves Guild ([var 5] left).[e]
-[s][clr 2]Você está acordado, Pantera.[clr 27][e]
+[s]Tudo bem, você venceu.[e]
+[s]Não posso acomodar seus pedidos.[e]
+[s]Chiama Gilda dei Ladri ([var 5] restanti).[e]
+[s][clr 2]É a sua vez, Pantera.[clr 27][e]
 
 [msg TalkMsg_EN_DECLINE_00]
-[s]... Você deve saber, isso não é suficiente[n]para me dar satisfação.[n][w][e]
-[s]Você não vai me dar [f 2 5 3 9999 3][n]desta vez? Mostre-me mais uma vez que você[n]se importa com seu parceiro.[n][w][e]
+[s]Eu tenho que te dizer, então não é o suficiente[n]para me satisfazer.[n][w][e]
+[s]Agora, você pode me dar este[n]item: [f 2 5 3 9999 3]? Mostre-me novamente[n]o quanto você se importa com seus aliados.[n][w][e]
 
 [msg TalkMsg_EN_DECLINE_01]
-[s]... Querido, isso ainda não é suficiente[n]para me satisfazer.[n][w][e]
-[s]Desta vez, me dê [var 0]Yen. Faça isso, e todos podem ser felizes.[n][w][e]
+[s]Pobre de mim, isso não é suficiente para me[n]satisfazer.[n][w][e]
+[s]Desta vez, dê-me [var 0] ienes.[n]Faça isso e seremos todos felizes.[n][w][e]
 
 [msg TalkMsg_EN_DECLINE_02]
-[s]... Você não vai se importar que eu pedisse[n]um pouco mais, certo?[n][w][e]
-[s]Queria um gole de sua saúde. Se for para o[n]seu parceiro, tenho certeza de que você[n]estará disposto a pagar o preço.[n][w][e]
+[s]Você não se importa se eu perguntar um pouco[n]mais, não é?[n][w][e]
+[s]Eu gostaria de uma pitada de sua saúde. Sendo seu[n]aliado, tenho certeza que você não hesitará em[n]pagar.[n][w][e]
 
 [msg TalkMsg_EN_DECLINE_03]
-[s]Hmm... não estou satisfeito.[n][w][e]
-[s]Isso é para o seu bem para formar uma[n]verdadeira amizade. Em seguida, peço um[n]pouco de sua resistência.[n][w][e]
+[s]Mmm... Não estou satisfeito.[n][w][e]
+[s]É pelo bem de suas[n]amizades, lembre-se disso. Agora eu quero[n]um pouco da sua energia.[n][w][e]
 
 [msg TalkMsg_EN_AGREE_00]
-[s]... você me deu o suficiente. Estou[n]satisfeito. Já era hora de liberar seu parceiro.[n][w][e]
+[s]Você já me deu o suficiente.[n]Estou satisfeito.[n]É hora de libertar seu aliado.[n][w][e]
 
 [msg TalkMsg_EN_AGREE_01]
-[s]... Eu me canso disso. Vou devolver seu[n]parceiro a você.[n][w][e]
+[s]Estou cansado.[n]Vou devolver seu aliado.[n][w][e]
 
 [msg TalkMsg_EN_SLAY_00]
-[s]Oh, você está abandonando seu parceiro?[n]Que homem de coração frio...[n][w][e]
+[s]Oh, você quer abandonar seu[n]aliado? Que homem sem coração...[n][w][e]
 
 [msg TalkMsg_EN_SLAY_01]
-[s]*risada* Essa é sua resposta? Então eu vou[n]jogar um pouco mais áspero com seu[n]parceiro...[n][w][e]
+[s]Eheheh, esta é a sua resposta? Então eu vou pegar[n]pesado com seu aliado...[n][w][e]
 
 [msg TalkMsg_EN_FORGIVE_00]
-[s]Os seres humanos são realmente criaturas[n]horríveis. Então, seus parceiros são[n]descartáveis?[n][w][e]
-[s]Perdi o interesse todo o interesse que tive.[n]Faça o que você quiser...[n][w][e]
+[s]Os seres humanos são criaturas realmente[n]repugnantes. E então seus aliados são[n]dispensáveis?[n][w][e]
+[s]Perdi todo o interesse.[n]Faça o que quiser...[n][w][e]
 
 [msg TalkMsg_EN_FORGIVE_01]
-[s]Você está abandonando seu parceiro? Parece[n]que vimos um vislumbre de sua verdadeira[n]natureza...[n][w][e]
-[s]... Pensar que eu havia sido investido em um[n]homem como você. Nós passamos! Adeus![n][w][e]
+[s]Você quer abandonar seus aliados?[n]Obrigado por este pequeno[n]gosto de sua verdadeira natureza...[n][w][e]
+[s]E pensar que eu iria me envolver com um homem[n]como você. Acabou! Adeus![n][w][e]
 
 [msg TalkMsg_EN_FLEE_00]
-[s]Bem, eu vou tirar minha despedida. Se você[n]se tornar mais homem algum dia, farei você[n]me manter em companhia novamente.[n][w][e]
+[s]Bem, estou fora de perigo.[n]Se algum dia eu ficar mais viril,[n]vou deixar você me fazer companhia.[n][w][e]
 
 [msg TalkMsg_EN_FLEE_01]
-[s]Eu sei que você me encontra atraente, mas[n]por favor, não venha mais depois de mim...[n][w][e]
+[s]Eu sei que você me acha atraente,[n]mas, por favor, nunca mais me siga[n]novamente...[n][w][e]
 
 [msg TalkMsg_EN_ACCEPT_00]
-[s]... É hora de voltarmos aos nossos lugares[n]legítimos.[n][w][e]
+[s]É hora de retornar[n]onde nos pertence.[n][w][e]
 
 [msg TalkMsg_EN_ACCEPT_01]
-[s]... Parece que nossos destinos não estavam[n]destinados a atravessar. Vamos voltar para[n]nossos lugares legítimos.[n][w][e]
+[s]Parece que nossos destinos não[n]estão destinados a se cruzar.[n]Vamos voltar para onde pertencemos.[n][w][e]
 
 [msg TalkMsg_EN_FALTER_00]
-[s]Espere, qual é o significado disso!? Há mais[n]de vocês!?[n][w][e]
+[s]Espere, o que isso significa?!?[n]Existem outros como você?!?[n][w][e]
 
 [msg TalkMsg_EN_FALTER_01]
-[s]Y-you! Vocês têm amigos covardes![n][w][e]
+[s]V-Você! Você tem alguns amigos bonitos[n]covardes![n][w][e]
 
 [msg TalkMsg_EN_FAKE_CRIED00]
-[s]O que há com essa mulher...? Tudo bem, vou[n]te perdoar por [n][f 2 5 3 9999 3].[n][w][e]
+[s]Mas o que há de errado com ela?...[n]Ok, eu te perdoo em[n]troca disso: [f 2 5 3 9999 3].[n][w][e]
 
 [msg TalkMsg_EN_FAKE_CRIED01]
-[s]Ugh, cale a boca! Vou deixar você sair se me[n]der  [var 0]Yen![n][w][e]
+[s]Ugh, cale a boca![n]Vou deixar você ir em troca de[n]por [var 0] ienes![n][w][e]
 
 [msg TalkMsg_EN_FAKE_CRIED02]
-[s]É por isso que não suporto meninas...[n]Vou deixá-lo sair do gancho se você me der[n]um pouco da sua saúde.[n][w][e]
+[s]É por isso que não suporto garotinhas... Deixo[n]você ir se você me der um pouco da sua saúde.[n][w][e]
 
 [msg TalkMsg_EN_FAKE_CRIED03]
-[s]É por isso que não suporto meninas...[n]Muito bem, vou deixá-los ir se puder ter um[n]pouco de sua resistência.[n][w][e]
+[s]É por isso que não suporto[n]garotinhas... Muito bem, sua[n]liberdade para um pouco de energia.[n][w][e]
 
 [msg TalkMsg_EN_FAKE_COUP00]
-[s]Caramba, ela é tocada na cabeça? Não quero[n]me envolver, então vou sair.[n][w][e]
+[s]Heck, é um pouco tarde por acaso?[n]Eu não quero me envolver,[n]então estou indo embora.[n][w][e]
 
 [msg TalkMsg_EN_FAKE_COUP01]
-[s]Ela é sempre assim?...Como eu me importo.[n]Tchau.[n][w][e]
+[s]É sempre assim? Como se eu me importasse. Tchau.[n][w][e]
 
 [msg TalkMsg_NO_REQUIREMENT]
-[s]Você não tem, não é? Ugh, seu mentiroso![n][w][e]
+[s]Você não tem, hein?[n]Ugh, seu mentiroso![n][w][e]
 
 [msg CharmActing [Ann]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 4 5 301 1]Não... como você poderia tirar isso de nós?[n][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 4 5 301 1]Não... Como você pode nos privar disso?[n][w][e]
 
 [msg NetEngo]
-[s]Outro bando de ladrões respondeu à ligação![n][w][e]
+[s]Outra gangue de ladrões[n]atendeu a chamada![n][w][e]
 

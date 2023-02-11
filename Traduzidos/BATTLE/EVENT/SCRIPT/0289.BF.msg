@@ -1,40 +1,40 @@
 [msg MSG_BTLSTART_001]
-[s]Ao emboscar com sucesso um inimigo, você[n]poderá realizar um ataque de armas[n]preventivo, chamado Bullet Hail.[n][f 1 3 65535][w][e]
-[s]Esmagando ou segurando o [clr 2]○ button[clr 27][n]Durante isso, pode derrubar inimigos,[n]independentemente de suas afinidades[n]elementares.[n][f 1 3 65535][w][e]
+[s]Se você emboscar um inimigo,[n]poderá realizar um ataque preventivo[n]com armas, uma chuva de balas.[n][f 1 3 65535][w][e]
+[s]Se in questa fase premi rapidamente[n]o tieni premuto il [clr 2]tasto ○[clr 27] potrai atterrare[n]i nemici a prescindere dalla loro affinità.[n][f 1 3 65535][w][e]
 
 [msg MSG_BTLSTART_002]
-[s]fictício [n][f 1 3 65535][w][e]
+[s]manequim[n][f 1 3 65535][w][e]
 
 [msg MSG_BTLSTART_003 [Ryuji]]
-[s][bup 0 2 0 65535 0]Isso aí! Eles estão todos deprimidos![n]Quer vencê-los?[n][f 1 3 65535][w][e]
+[s][bup 0 2 0 65535 0]Yay! Eles estão todos caídos![n]Vamos vencê-los bem?[n][f 1 3 65535][w][e]
 
 [msg MSG_BTLSTART_004 [Ryuji]]
-[s]Vamos todos atacá-los ao mesmo tempo![n][f 1 3 65535][w][e]
+[s]Vamos todos atacar[n]juntos![n][f 1 3 65535][w][e]
 
 [msg MSG_BTLSTART_005 [Morgana]]
-[s][bup 0 3 0 0 0]Ou poderíamos abordá-los em conversas e[n]exigir coisas delas.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0]Ou podemos tentar[n]uma conversa e esperar[n]que eles nos dêem algo.[n][f 1 3 65535][w][e]
 
 [msg MSG_BTLSTART_006 [Ryuji]]
-[s][bup 0 2 0 65535 0]De qualquer maneira, surpreende-os ou[n]assumindo suas fraquezas para derrubá-las é[n]uma coisa boa![n][f 1 3 65535][w][e]
+[s][bup 0 2 0 65535 0]De qualquer forma, pegá-los de surpresa[n]ou acertá-los onde eles são fracos para[n]derrubá-los é uma ótima ideia![n][f 1 3 65535][w][e]
 
 [msg MSG_BTLSTART_007 [Ryuji]]
-[s]fictício [n][f 1 3 65535][w][e]
+[s]manequim[n][f 1 3 65535][w][e]
 
 [msg MSG_BTLSTART_008]
-[s]Depois que todos os inimigos forem[n]derrubados, você poderá realizar um ataque[n]total.[n][f 1 3 65535][w][e]
-[s]Isso causará um grande dano ao Todo-Poderoso[n]a todos os inimigos.[n][f 1 3 65535][w][e]
-[s]Infligir danos pesados e obtenção de[n]personas são os principais propósitos de[n]retenção.[n][f 1 3 65535][w][e]
-[s]A exploração cuidadosa das fraquezas[n]inimigas fornecerá o caminho mais rápido[n]para a vitória.[n][f 1 3 65535][w][e]
+[s]Quando todos os inimigos estiverem derrotados,[n]você poderá realizar um[n]ataque em grupo chamado Rush.[n][f 1 3 65535][w][e]
+[s]Isso causará dano divino[n]pesado a todos os inimigos.[n][f 1 3 65535][w][e]
+[s]Infligir dano pesado e[n]ganhar Personae são os[n]principais objetivos dos Heists.[n][f 1 3 65535][w][e]
+[s]A exploração inteligente das fraquezas do[n]inimigo permitirá que[n]a vitória seja alcançada.[n][f 1 3 65535][w][e]
 
 [msg MSG_BTLSTART_009 [Ryuji]]
-[s]fictício [n][f 1 3 65535][w][e]
+[s]manequim[n][f 1 3 65535][w][e]
 
 [msg MSG_BTLSTART_010 [Ryuji]]
-[s]fictício [n][f 1 3 65535][w][e]
+[s]manequim[n][f 1 3 65535][w][e]
 
 [msg MSG_BTLSTART_011 [Ryuji]]
-[s]fictício [n][f 1 3 65535][w][e]
+[s]manequim[n][f 1 3 65535][w][e]
 
 [msg MSG_BTLSTART_012 [Ryuji]]
-[s][vp 8 2 2 7 65535 65535]A sugestão de Ryuji dá origem a um novo tipo[n]de ataque...![n][f 1 3 65535][w][e]
+[s][vp 8 2 2 7 65535 65535]A sugestão de Ryuji desbloqueou[n]um novo tipo de ataque...![n][f 1 3 65535][w][e]
 

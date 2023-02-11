@@ -2,1381 +2,1381 @@
 [s]......[n][w][e]
 
 [msg TalkMsg_GUY_CONTACT_01]
-[s]Ugh, você é muito forte...[n][w][e]
+[s]Ugh, você é muito legal...[n][w][e]
 
 [msg TalkMsg_GUY_CONTACT_02]
-[s]...O que? Você simplesmente não desiste.[n][w][e]
+[s]Coisa? Você realmente não quer desistir.[n][w][e]
 
 [msg TalkMsg_GUY_CONTACT_03]
-[s]Droga, isso dói... estou realmente levando[n]uma surra hoje...[n][w][e]
+[s]Merda, isso dói...[n]Hoje eu to tomando mesmo...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_01]
-[s]Você não tem idade para brincar de se vestir?[n][w][e]
-[s]Vamos lá, o que há com a máscara? Meio[n]maluco, não acha?[n][w][e]
+[s]Você não é um pouco velho demais para brincar de[n]se vestir?[n][w][e]
+[s]Oh vamos, por que a máscara?[n]Muito embaraçoso, você não acha?[n][w][e]
 
 [sel TalkSel_GUY_CHAT_FQ_01 top]
-[s]Claro que é.[e]
-[s]Cale-se...[e]
-[s]Eu sou secretamente uma criança.[e]
+[s]É claro.[e]
+[s]Pare com isso...[e]
+[s]Na verdade, sou uma criança.[e]
 
 [msg TalkMsg_GUY_CHAT_FQ_01_R]
-[s]Porra, você acabou de sair e disse isso![n]Você tentando tirar uma reação de mim?[n][w][e]
+[s]Cara, você realmente disse isso![n]E você espera que eu reaja de[n]alguma forma?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_01_R_2]
-[s]Não é como se eu me importe ou em qualquer[n]outro. Muito estranho de você ser tão[n]honesto, no entanto.[n][w][e]
+[s]Não que eu me importe. Muito[n]estranho da sua parte ser[n]tão honesto, no entanto.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_01_R_3]
-[s]Então você está ciente... e você está[n]fazendo de qualquer maneira. Isso é fodido,[n]cara.[n][w][e]
+[s]Então você sabe ... e você está fazendo isso[n]de qualquer maneira. É um absurdo, cara.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_01_R_4]
-[s]Ugh... cresça, cara.[n][w][e]
+[s]Ugh... Cresça um pouco, cara.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_01_R_5]
-[s]Cale-se? Sim, você deveria! Hahaha![n][w][e]
+[s]Cale-se? Sim,[n]você deveria! Hahaha![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_01_R_6]
-[s]Você está me brincando agora? Se alguém deve[n]ficar chateado, sou eu.[n][w][e]
+[s]Você está me fazendo de bobo? Se há[n]alguém que deveria[n]irritar, sou eu.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_01_R_7]
-[s]Chega dessa merda. Vá para casa e leia[n]alguns quadrinhos, perdedor.[n][w][e]
+[s]Chega dessa merda. Vá para casa e leia[n]quadrinhos, perdedor.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_01_R_8]
-[s]Você é louco mano? Por que você não tira[n]essa máscara e me mostra?[n][w][e]
+[s]Você está com raiva, cara? Por que você não[n]tira essa máscara e[n]me mostra?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_01_R_9]
-[s]Cara, você não deveria estar dando[n]informações pessoais para estranhos![n][w][e]
+[s]Cara, você provavelmente não deveria[n]fornecer informações pessoais[n]para estranhos![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_01_R_10]
-[s]Eu não preciso saber disso. Você está[n]perdendo o ponto de qualquer maneira.[n][w][e]
+[s]Eu não preciso saber. No entanto, esse não é o[n]ponto.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_01_R_11]
-[s]Oooh, acontece que eu tenho um bebê de[n]verdade nas minhas mãos![n][w][e]
+[s]Oooh, parece que tenho um bebê de verdade em[n]minhas mãos![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_01_R_12]
-[s]...E daí? Devo te perdoar?[n][w][e]
+[s]E daí? Devo te perdoar?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_01_R_13]
-[s]Ah, você é um atirador muito rápido...[n][w][e]
+[s]Ah, você é feliz no gatilho...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_01_R_14]
-[s]Ah, assim que você quer jogar?[n][w][e]
+[s]Ah, é assim que você quer jogar?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_01_R_15]
-[s]Porra, essa merda é alta! Cheira horrível[n]também![n][w][e]
+[s]Uau, essa coisa faz um barulho bestial! E também[n]fede![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_01_R_16]
-[s]Você deveria me dizer que você era o[n]verdadeiro negócio![n][w][e]
+[s]Você deveria ter me dito que queria ser sério![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_02]
-[s]... essa merda é hilária.[n][w][e]
+[s]Essa merda é para rir.[n][w][e]
 [s]Por que você está tão desesperado?[n][w][e]
 
 [sel TalkSel_GUY_CHAT_FQ_02 top]
 [s]Eu não quero morrer.[e]
-[s]Há algo que devo fazer.[e]
-[s]Eu quero que as meninas gostem de mim.[e]
+[s]Eu tenho uma missão.[e]
+[s]Eu quero gostar de garotas.[e]
 
 [msg TalkMsg_GUY_CHAT_FQ_02_R]
-[s]Bem, você está me lutando, mano. Se você não[n]sair, não é de jeito nenhum ganhar.[n][w][e]
+[s]Bem, você me desafiou.[n]Se você não se importar, não terá[n]nenhuma chance de vencer.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_02_R_2]
-[s]Você tem medo de dyin ', hein? Parece que eu[n]me vi uma galinha. Bwaaak, bwak, bwak![n][w][e]
+[s]Tá com medo de morrer, né?[n]A gente tem uma galinha aqui![n]Chicchirichì, chicchirichì![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_02_R_3]
-[s]Ninguém derramou uma única lágrima se você[n]fez, de qualquer maneira.[n][w][e]
+[s]De qualquer maneira, ninguém[n]derramaria uma única lágrima se você[n]tivesse feito isso.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_02_R_4]
-[s]Oh, mas você está bem comigo, dyin '?[n]Quão egoísta você pode ser!?[n][w][e]
+[s]Oh, mas você está bem se for eu para crepare?!?[n]Você parece um pouco egoísta para mim![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_02_R_5]
-[s]Sério? Isso soa tão... nobre e merda.[n][w][e]
+[s]A sério? Soa tão nobre ...[n]e merda assim.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_02_R_6]
-[s]Você roubou isso de algum tipo de anime,[n]certo? Eu juro que já ouvi essa merda antes.[n][w][e]
+[s]Você roubou isso de um anime?[n]eu juro que já ouvi[n]besteiras como essa antes![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_02_R_7]
-[s]Cara, ninguém se importa. Você só está aqui,[n]sufocando seu próprio ego.[n][w][e]
+[s]Legal, ninguém se importa. Você está[n]aqui apenas acariciando seu ego.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_02_R_8]
-[s]Okay, certo. Você é prolicamente um cara[n]comum que pensa que tem alguma besteira[n]"Destiny".[n][w][e]
+[s]Já. Você quase certamente é um daqueles idiotas[n]que acredita na besteira que ele é predestinado.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_02_R_9]
-[s]Garotas? Isso é um motivo para me machucar[n]assim?[n][w][e]
+[s]Garotas? Essa é uma razão para me machucar[n]assim?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_02_R_10]
-[s]Tentando ser um homem de verdade, hein?[n]Isso é rico![n][w][e]
+[s]Tentando ser um homem de verdade, né?[n]Que legal![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_02_R_11]
-[s]A sério? Você está me dizendo as garotas[n]hoje em dia cavar essa merda?[n][w][e]
+[s]Sério? Você está me dizendo que[n]garotas hoje em dia gostam[n]dessas coisas?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_02_R_12]
-[s]Acho que é melhor do que eu temer pela minha[n]vida aqui...[n][w][e]
+[s]Bem, melhor do que temer[n]pela sua vida aqui...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_02_R_13]
-[s]Eles ensinam você a responder a perguntas[n]com tiros naquela escola de sua?[n][w][e]
+[s]Em suas escolas eles[n]ensinam você a responder[n]perguntas com balas?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_02_R_14]
-[s]Ouvi falar do direito de portar armas, mas[n]ainda não significa que você pode dar a[n]volta por quem quiser![n][w][e]
+[s]Eu sei sobre o direito de portar armas, mas isso[n]não significa que você pode sair por aí atirando[n]aleatoriamente![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_02_R_15]
-[s]Você vai desativar!? Minha cabeça está me[n]matando! Eu mal dormi ontem à noite...[n][w][e]
+[s]Mas você quer acabar com isso!?![n]Minha cabeça está me matando![n]Eu mal consegui pregar o olho ontem à noite...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_02_R_16]
-[s]... Se você me bater com essa merda, eu[n]estou enviando a conta do hospital.[n]Percebido!?[n][w][e]
+[s]Se você me bater com essa merda,[n]eu mando a conta do hospital.[n]Você me entende?!?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_03]
-[s]... Ei, você não pode simplesmente valer por[n]aqui assim.[n][w][e]
-[s]Você está violando o código das armas ou o[n]que quer que seja, cara.[n][w][e]
+[s]Ei, você não pode andar por aí com essa coisa.[n][w][e]
+[s]Você está violando a lei[n]arma ou algo assim, cara.[n][w][e]
 
 [sel TalkSel_GUY_CHAT_FQ_03 top]
 [s]Eu não sabia.[e]
-[s]É para autodefesa.[e]
-[s]Muito legal, hein?[e]
+[s]É para legítima defesa.[e]
+[s]Forte, hein?[e]
 
 [msg TalkMsg_GUY_CHAT_FQ_03_R]
-[s]Uau, você é um cara estúpido...[n][w][e]
+[s]Porra, você é muito burro...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_03_R_2]
-[s]Acho que não importa, hein? Este não é o[n]mundo real.[n][w][e]
+[s]Na verdade, quem se importa?[n]Este não é o mundo real.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_03_R_3]
-[s]Você é tão sem noção, é assustador...[n][w][e]
+[s]Você é um tolo,[n]isso é perturbador...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_03_R_4]
-[s]O inferno? O que você aprendeu na escola?[n][w][e]
+[s]Que diabos...? O que eles te ensinam na escola[n]hoje em dia?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_03_R_5]
-[s]Cara, é isso que você chama de autodefesa?[n]Chutando um cara enquanto ele está deprimido?[n][w][e]
+[s]Cara, isso é legítima defesa para você? Para se[n]enfurecer com alguém em apuros?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_03_R_6]
-[s]Heh... se você diz isso. Eu não sou o tipo[n]de cara a quebrar suas ilusões.[n][w][e]
+[s]Ei, se você diz. Eu não sou o tipo[n]que destrói suas ilusões.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_03_R_7]
-[s]Defesa? Okay, certo. Você segura um banco em[n]legítima defesa também?[n][w][e]
+[s]Defesa? Sim, com certeza. Os[n]assaltos a banco também são para[n]defesa pessoal?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_03_R_8]
-[s]Não sei, o calor que você está fazendo é[n]muito bom para uma arma "defensiva".[n][w][e]
+[s]Não sei... será para "[n]defesa pessoal", mas a arma que você carrega[n]com você não é nada ruim.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_03_R_9]
-[s]... As pessoas que possuem armas não são[n]legais, cara.[n][w][e]
+[s]Quem anda por aí com arma não é nada legal, cara.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_03_R_10]
-[s]Seria ainda mais legal se você não fosse[n]apontar aquela maldita arma para mim.[n][w][e]
+[s]Seria ainda mais legal se você não apontasse para[n]mim.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_03_R_11]
-[s]Olha, você parece um cara swell e tudo, mas[n]isso é legal?[n][w][e]
+[s]Olha, você parece um cara legal,[n]mas isso é legal, pelo menos?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_03_R_12]
 [s]Não mude de assunto![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_03_R_13]
-[s]... você é um cara perigoso. Você também tem[n]uma pistola de atordoamento em algum lugar?[n][w][e]
+[s]Você é perigoso. Você também tem[n]uma arma de choque escondida[n]em algum lugar?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_03_R_14]
-[s]Você é louco, cara? Flyin 'no alto daquela[n]erva úmida?[n][w][e]
+[s]Voce está louco cara? Você[n]fica chapado com essa erva também?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_03_R_15]
-[s]Você tirou a segurança do maldito!?[n]Isso é perigoso, cara![n][w][e]
+[s]Você soltou a segurança!?![n]É perigoso, cara![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_03_R_16]
-[s]O inferno!? Foi uma piada, idiota![n][w][e]
+[s]Que diabos!?! Brincadeira, idiota![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_04]
-[s]Ei cara, por que não paramos essa merda e[n]vamos nos divertir em algum lugar?[n][w][e]
-[s]Inferno, eu tenho todas as garotas do[n]STENSA, se você gosta disso.[n][w][e]
+[s]Ei, por que não terminamos essa porcaria e nos[n]divertimos um pouco?[n][w][e]
+[s]Merda, eu tenho muitas garotas gostosas, se você[n]quiser.[n][w][e]
 
 [sel TalkSel_GUY_CHAT_FQ_04 top]
-[s]Sério?[e]
-[s]Você está tentando muito.[e]
+[s]A sério?[e]
+[s]Você está puxando.[e]
 [s]Eu não estou interessado.[e]
 
 [msg TalkMsg_GUY_CHAT_FQ_04_R]
-[s]Oh, com certeza. Eles não são as garotas que[n]você levará para casa para sua mãe, mas[n]farão.[n][w][e]
+[s]Ah com certeza. Claro, eles não são[n]o tipo de garotas que você apresenta[n]para sua mãe, mas são sexy.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_04_R_2]
-[s]Ooh, você está tomando a isca?[n][w][e]
+[s]Ooh, você caiu nessa?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_04_R_3]
-[s]Bem, isso não vai acontecer se você me matar[n]aqui.[n][w][e]
+[s]Sim, bem, isso não vai acontecer se você[n]me matar.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_04_R_4]
-[s]Você está com dúvida de mim!? Quem você acha[n]que eu sou? Eu conheço tantas garotas, você[n]nem consegue comparar![n][w][e]
+[s]Você não confia em mim!?! Mas por quem você me[n]toma? Eu conheço um monte de bonecas, você não[n]consegue entender![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_04_R_5]
-[s]É o que todos eles dizem, mas estou pensando[n]que é apenas o ciúme que fala.[n][w][e]
+[s]Todo mundo me fala isso, mas[n]acho que é só ciúme que[n]fala.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_04_R_6]
-[s]Você diz isso agora, mas você vai ser um[n]vevinho velho algum dia. Só você tem[n]esperança.[n][w][e]
+[s]Agora você diz isso, mas um dia[n]você se tornará um velho[n]porco. Confie em mim.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_04_R_7]
-[s]Não odeie em mim por isso. Estou colocando[n]algum esforço![n][w][e]
+[s]Não me odeie por isso.[n]Estou ficando ocupado![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_04_R_8]
-[s]Cale a boca, Dickbag![n][w][e]
+[s]Cala a boca, idiota![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_04_R_9]
-[s]Então o que diabos é sua ideia de diversão?[n]Eu não tenho ideia, cara.[n][w][e]
+[s]E como diabos você está se divertindo?[n]Eu realmente não sei, cara.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_04_R_10]
-[s]Entendo. Você está apenas apenas tentando[n]agir toda a borda reta ou o que seja.[n][w][e]
+[s]Entendo. Você só quer se passar por[n]uma pessoa séria[n]ou algo assim.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_04_R_11]
-[s]Você está brincando!? Eu penso em sexo uma[n]vez a cada quatro segundos![n][w][e]
+[s]Você está brincando comigo!?! Eu penso em[n]sexo a cada quatro segundos![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_04_R_12]
-[s]Você não está mentindo para o meu rosto,[n]máscara emo.[n][w][e]
+[s]Você não precisa mentir para mim[n]tão descaradamente, mate.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_04_R_13]
-[s]Peguei vocês. Vou encobrir algumas garotas[n]que vão para um passeio selvagem.[n][w][e]
+[s]Excelente. Vou pegar algumas pupa[n]prontas para um bom passeio.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_04_R_14]
-[s]Deixe-me adivinhar, você não gosta de sair?[n]Que tal enviar uma garota para a sua casa?[n][w][e]
+[s]Deixe-me adivinhar, você não sai com frequência,[n]hein? Que tal eu mandar para casa uma linda[n]potranca?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_04_R_15]
-[s]O que? Você não está interessado em meninas[n]ou algo assim?[n][w][e]
+[s]Coisa? Você não está interessado em[n]bebês e tudo?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_04_R_16]
-[s]Você está dizendo que eu não deveria[n]objetivar as mulheres?[n]Olhe para você, senhor durão.[n][w][e]
+[s]Quer dizer, eu não deveria tratar[n]mulheres como objetos?[n]Mas escute, senhor fanfarrão.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_05]
-[s]Ei, olhe o que você fez![n][w][e]
-[s]Você me derrubou, e agora meu maldito[n]relógio está quebrado![n][w][e]
+[s]Ei, olha o que você fez![n][w][e]
+[s]Você me empurrou para baixo e agora[n]meu maldito relógio quebrou![n][w][e]
 
 [sel TalkSel_GUY_CHAT_FQ_05 top]
 [s]Me desculpe.[e]
-[s]Como eu me importo.[e]
-[s]Você deve "assistir" sua boca.[e]
+[s]Não me importo.[e]
+[s]É "hora" de calar a boca.[e]
 
 [msg TalkMsg_GUY_CHAT_FQ_05_R]
-[s]Ahahaha, estou criança, estou criança.[n]Você é muito inocente, hein? Você realmente[n]acha que um cara como eu usa um relógio?[n][w][e]
+[s]Haha, só brincando! Você é todo casto e puro,[n]hein? Você realmente acha que eu preciso de um[n]relógio?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_05_R_2]
-[s]Dizer 'você está muito lamentado, você está[n]errado, você sabe. Tente ter um orgulho[n]maluco.[n][w][e]
+[s]Pedir desculpas é como uma admissão de culpa,[n]sabe? Tenha um pouco de orgulho, cristo.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_05_R_3]
-[s]Era um ditote, exclusivo![n]Não há nenhuma substituição disso![n][w][e]
+[s]Era uma peça única, idiota![n]É insubstituível![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_05_R_4]
-[s]Um pouco tarde demais para isso, imbecil.[n]Esta era a herança do meu avô...[n][w][e]
+[s]É um pouco tarde para isso, idiota.[n]Era herança do meu avô...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_05_R_5]
-[s]Primeiro você quebra meu relógio, então me[n]dá atitude? Você tem bolas, cara.[n][w][e]
+[s]Primeiro você quebra meu relógio, então você[n]atinge a crista? Você tem bolas, cara.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_05_R_6]
-[s]Você realmente vai falar comigo assim? Vamos[n]lá, cara.[n][w][e]
+[s]Você realmente quer me responder assim? Vamos lá,[n]cara.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_05_R_7]
-[s]Você não tem alguma consciência naquele[n]corpo minúsculo? Alguém não o educou?[n][w][e]
+[s]Você não tem uma consciência[n]nesse corpo frágil? Eles[n]nunca te ensinaram boas maneiras?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_05_R_8]
-[s]Bem, os relógios não significam merda de[n]qualquer maneira.[n]Sem uso chorando por leite derramado, certo?[n][w][e]
+[s]Bem, os relógios não são muito bons. Não adianta[n]chorar pelo leite derramado, né?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_05_R_9]
-[s]Ei, você assiste seu- espere, foi um[n]trocadilho agora? Eu não tenho "tempo" por[n]essa merda... desde que você quebrou meu[n]relógio! Hah![n][w][e]
+[s]Ei, AGORA você… Espere, isso foi um[n]trocadilho? Não tenho "tempo" para[n]isso, você quebrou meu relógio![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_05_R_10]
-[s]...Oh. "Assista" minha boca. Sim, entendi.[n]Você deve ter bolas de aço para brincar[n]assim agora.[n][w][e]
+[s]Oh, é "hora" de calar a boca.[n]Sim, eu entendo. Você deve ter coragem[n]para fazer piadas como essa agora.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_05_R_11]
-[s]Apenas Kiddin '. Eu nem tenho um relógio![n][w][e]
+[s]Piada. Eu nem tenho relógio![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_05_R_12]
-[s]O que? Isso deveria ser engraçado?[n][w][e]
+[s]O que, eu deveria rir?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_05_R_13]
-[s]Essa merda se chama terapia de choque, certo?[n]Um Zap e você está melhor.[n][w][e]
+[s]Essa merda se chama[n]eletrochoque, certo? Uma descarga[n]e ser bom.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_05_R_14]
-[s]Você tentando destruir as evidências?[n]Um tiro e é soprado para pedaços.[n][w][e]
+[s]Você está tentando se livrar das evidências?[n]Um golpe e ele se despedaça.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_05_R_15]
-[s]Você tentando fazer meu coração parar de[n]funcionar também? Você é um psicopata.[n][w][e]
+[s]Você está tentando quebrar[n]meu coração também? Tipo de psicopata.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_05_R_16]
-[s]Tudo bem se você não quiser ouvir minha[n]besteira- apenas não me assuste.[n][w][e]
+[s]Claro que você não quer ouvir minha besteira. Mas[n]não perca a porra da cabeça.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_06]
-[s]... Ei, não tem nada melhor para fazer?[n][w][e]
-[s]Sério, cosplay em um lugar como este? Você[n]está apenas entediado com sua mente?[n][w][e]
+[s]Ei, você não tem nada melhor[n]para fazer?[n][w][e]
+[s]Claro, fazer cosplay em um lugar[n]como este ... Você está entediado?[n][w][e]
 
 [sel TalkSel_GUY_CHAT_FQ_06 top]
 [s]Eu sou.[e]
-[s]Na verdade, estou muito ocupado.[e]
-[s]Cale-se![e]
+[s]Eu sou um cara ocupado.[e]
+[s]Silêncio![e]
 
 [msg TalkMsg_GUY_CHAT_FQ_06_R]
 [s]E é assim que você se diverte, hein?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_06_R_2]
-[s]Nah, você está muito ocupado com todo o[n]trabalho que deve ser feito para fazer esse[n]fantasma de fantasia.[n][w][e]
+[s]Nah, você provavelmente gasta muito[n]tempo com esse seu disfarce de rico.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_06_R_3]
-[s]... Se você está apenas matando o tempo[n]comigo, saia daqui. Não temos esse tipo de[n]relacionamento.[n][w][e]
+[s]Se você está aqui apenas para matar o tempo,[n]desapareça. Não temos esse tipo de[n]relacionamento.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_06_R_4]
-[s]Você está dizendo isso é o que você faz no[n]seu tempo livre? Ei, você cavalga o ônibus[n]curto para a escola ou algo assim?[n][w][e]
+[s]Então você faz isso no seu tempo livre? Yo, você[n]entra no ônibus das crianças especiais, não é?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_06_R_5]
-[s]Sim, tenho certeza de que o Getup é feito[n]sob medida.[n]Por que não se esforçou para estudar?[n][w][e]
+[s]Sim, e aposto que esse vestido é costurado à mão.[n]Por que você não se dedica a estudar também?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_06_R_6]
-[s]Então não venha descansar por aqui.[n]Você não tem tempo para pessoas como eu, sim?[n][w][e]
+[s]Então não venha aqui para[n]loit. Você não tem tempo[n]para pessoas como eu, tem?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_06_R_7]
-[s]Claro, é isso que todos eles dizem. Ninguém[n]está chegando aqui se eles estão ocupados.[n][w][e]
+[s]Sim, certo, todo mundo diz isso.[n]Quem diabos viria aqui se[n]ele estivesse muito ocupado?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_06_R_8]
-[s]Sim, você tem uma namorada de papelão em[n]casa, apenas esperando por você ferrá-la.[n][w][e]
+[s]Claro ... aposto que você tem uma garota de capa[n]dura em casa que estava apenas esperando para[n]ser montada.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_06_R_9]
-[s]Uau, ótimo retorno. É meio fofo o quão ruim[n]você é nessa merda.[n][w][e]
+[s]Uau, boa resposta. É quase terno[n]sua total incompetência.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_06_R_10]
-[s]Cara, era minha voz normal de falar.[n]Talvez você tenha algo errado com seus[n]ouvidos?[n][w][e]
+[s]Cara, esse foi meu tom de voz usual. Não é que[n]você tem alguns problemas de audição?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_06_R_11]
-[s]É assim que você vai falar comigo quando[n]estiver bravo? Você ainda está no jardim de[n]infância, mano?[n][w][e]
+[s]Ah, então é assim que você fala[n]quando está chateado?[n]Você ainda vai ao jardim de infância, mano?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_06_R_12]
-[s]Se for assim, deixe-me em paz. Eu não quero[n]lidar com você agora.[n][w][e]
+[s]Se for esse o caso, deixe-me[n]em paz. Eu não quero lidar com você.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_06_R_13]
-[s]Não consigo nem bater em um pato, hein?[n]E não tente me dizer que você perdeu de[n]propósito.[n][w][e]
+[s]Você não acertaria nem um pato sentado, hein? E[n]não venha me dizer que você fez isso de[n]propósito.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_06_R_14]
-[s]Whoa, whoa, whoa. Estamos falando aqui,[n]certo? Vamos usar nossas palavras.[n][w][e]
+[s]Freio, freio, freio. Estamos apenas conversando,[n]ok? Usamos palavras.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_06_R_15]
-[s]Então você é um figurino-figurino, muito[n]bem-sucedido da sociedade, hein...[n][w][e]
+[s]Então, você é um rejeitado da sociedade[n]que adora fantasias e armas, hein...?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_06_R_16]
-[s]O que está errado? Você não gosta de pessoas[n]apontando como você está solitário?[n][w][e]
+[s]E aí? Você não gosta quando[n]as pessoas te lembram como[n]você é solitário?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_07]
-[s]Então é esse o fim?[n][w][e]
-[s]Eu poderia ser uma estrela...[n][w][e]
+[s]E assim é o fim?[n][w][e]
+[s]Eu poderia ter sido uma estrela...[n][w][e]
 
 [sel TalkSel_GUY_CHAT_FQ_07 top]
 [s]Uma estrela?[e]
-[s]Isso não está acontecendo.[e]
-[s]Você está desistindo?[e]
+[s]Não vai acontecer.[e]
+[s]Você está jogando a toalha?[e]
 
 [msg TalkMsg_GUY_CHAT_FQ_07_R]
-[s]Sabe, como um deles, as pessoas que se[n]espalham pelo tapete vermelho.[n][w][e]
+[s]Sim, vamos lá, como aqueles caras que se enfeitam[n]no tapete vermelho.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_07_R_2]
-[s]Você sabe, como uma delas que a torna grande[n]publicando 'algum livro revelador sobre[n]celebridades ou algo assim'.[n][w][e]
+[s]Sim, qual é, como aquela garota[n]que ganhou dinheiro com aquele[n]livro de fofocas.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_07_R_3]
-[s]HM, o que é uma estrela? Prolly uma daquelas[n]pessoas que tem toneladas de fotos tocadas.[n][w][e]
+[s]Sim, uma estrela... Sabe aqueles caras cheios de[n]fotos adulteradas?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_07_R_4]
-[s]Você sabe, como uma delas que enganam o[n]público em pensar que se importam com a[n]merda.[n][w][e]
+[s]Vamos lá, como aqueles caras que enganam[n]os fãs fazendo-os pensar que eles[n]se importam com eles.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_07_R_5]
-[s]Você não pode dizer que eu sou uma[n]celebridade nascida? Eu acho que você[n]simplesmente não está de olho. Hahaha![n][w][e]
+[s]Você não pode ver que eu nasci uma celebridade?[n]Acho que você não tem olho. Ahahahah![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_07_R_6]
-[s]Não venha bater na minha porta quando eu sou[n]rico e famoso, Douche![n][w][e]
+[s]Não venha bater na minha porta quando eu for rico[n]e famoso, idiota![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_07_R_7]
-[s]Sim, você precisa ter conexões para fazê-lo[n]nesse mundo. Pena que nasci um gênio[n]solitário.[n][w][e]
+[s]Sim, você precisa ter as conexões certas para[n]fazer o seu caminho através desse mundo. Pena[n]que sou um gênio solitário.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_07_R_8]
-[s]Oh, entendi. Você acha que eu sou muito[n]humilde para fazer isso naquele mundo,[n]hein? Eu sei, sou bom demais para ser uma[n]estrela...[n][w][e]
+[s]Oh, entendi. Você acha que sou muito[n]humilde para ter sucesso nesse mundo?[n]Sou muito forte para ser uma estrela.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_07_R_9]
-[s]Você está certo, eu tenho que acreditar! Por[n]que estou limitando meu potencial?[n][w][e]
+[s]Você está certo, preciso acreditar mais![n]Por que estou limitando meu potencial?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_07_R_10]
-[s]Nah, estou bem, qualquer tipo de estrela da[n]mídia. Ainda há muitas opções para mim.[n][w][e]
+[s]Nah, estou bem em me tornar qualquer[n]estrela. Há um monte de possibilidades por aí.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_07_R_11]
-[s]Aguentar. Se eu morrer aqui, talvez eu seja[n]uma lenda... do tipo que é falado muito[n]tempo depois de estar morto.[n][w][e]
+[s]Espere. Se eu morrer aqui, talvez eu seja[n]uma lenda ... Do tipo que é[n]falado muito depois de suas mortes.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_07_R_12]
-[s]Não me dê essa merda! De quem você acha que[n]você acha que é!?[n][w][e]
+[s]Não me engane![n]Quem você acha que é o culpado!?![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_07_R_13]
-[s]O que você quer me ver em filmes de ação?[n]'Fraid Eu não posso te ajudar lá. Eu sou[n]mais um cara de novela.[n][w][e]
+[s]Aquele? Quer me ver em algum filme de ação?[n]Receio que seja impossível. É mais como uma[n]novela.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_07_R_14]
-[s]Eu acho que outras pessoas que odeiam você é[n]apenas o preço que você precisa pagar pelo[n]estrelato.[n][w][e]
+[s]O ódio das pessoas é o[n]preço a pagar pelo sucesso,[n]minha querida.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_07_R_15]
-[s]Ei, não vá tentar me unir![n]Você é apenas mais um rosto na multidão![n][w][e]
+[s]Ei, não tente me superar![n]Você é apenas um entre muitos por aí.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_07_R_16]
-[s]Deus fodendo caramba! Acabei de ter as[n]melhores letras malditas aparecendo na[n]minha cabeça e agora elas se foram, graças[n]a você![n][w][e]
+[s]Santo Deus! Eu tinha o texto mais legal[n]do mundo[n]na minha cabeça[n]e agora você me fez esquecer![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_08]
-[s]... então, por que você está vindo depois de[n]mim? Não há pessoas piores por aí?[n][w][e]
-[s]Que tipo de cara te irritam?[n][w][e]
+[s]...Então por que você está me perseguindo?[n]Não há pessoas piores[n]lá fora?[n][w][e]
+[s]Quem te deixa com raiva?[n][w][e]
 
 [sel TalkSel_GUY_CHAT_FQ_08 top]
-[s]Pissy pessoal.[e]
-[s]Caras sem senso de humor.[e]
-[s]Eu nunca fico bravo.[e]
+[s]Os tipos chateados.[e]
+[s]Quem não tem senso de humor.[e]
+[s]Eu nunca fico com raiva.[e]
 
 [msg TalkMsg_GUY_CHAT_FQ_08_R]
-[s]... você não está falando sobre mim, é você?[n][w][e]
+[s]Você não está falando de mim, está?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_08_R_2]
-[s]Eu ouvi você. Não há ajuda para um cara que[n]vá sobre tudo.[n][w][e]
+[s]Eu entendi. Não adianta alguém[n]que reclama de tudo[n]pequeno.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_08_R_3]
-[s]Eh, caras assim geralmente morrem sozinhos[n]de qualquer maneira.[n][w][e]
+[s]Heh, caras assim geralmente[n]morrem sozinhos de qualquer maneira.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_08_R_4]
-[s]Direita!? Esses idiotas derrubam todo mundo[n]sem nem perceber![n][w][e]
+[s]Direita! Esses idiotas arrastam todo mundo para[n]baixo sem nem perceber![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_08_R_5]
-[s]Bem... pode ser que você não seja muito[n]engraçado. Apenas dizendo'.[n][w][e]
+[s]Bem... Também pode ser que você não seja[n]engraçado. Eu jogo lá.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_08_R_6]
-[s]Eu conheço um cara assim! Eu tento jogar[n]burro, mas ele leva isso totalmente a sério![n][w][e]
+[s]Conheço caras como ele! Eu tento[n]ignorar, mas ele leva[n]muito a sério![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_08_R_7]
-[s]Talvez você não esteja batendo no tempo[n]cômico.[n][w][e]
+[s]Talvez você não seja bom[n]com timing cômico.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_08_R_8]
-[s]Apenas entre você e eu? Eu sou um dos caras[n]mais engraçados que conheço.[n][w][e]
+[s]Só entre você e eu? Sou um dos caras mais[n]engraçados que conheço.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_08_R_9]
-[s]Uau, de verdade? Você é como o Buda Freakin[n]'. Eu quero matar pessoas com tanta[n]frequência que perdi a conta.[n][w][e]
+[s]Nossa, sério? Você é como a porra do Buda. Em vez[n]disso, perdi a conta das pessoas que quero matar.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_08_R_10]
-[s]Isso também não é bom, cara. Se você deixar[n]as pessoas fora do gancho, elas nunca[n]melhorarão.[n][w][e]
+[s]Não é bom, cara. Se você os deixar[n]sozinhos, as pessoas nunca[n]melhorarão.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_08_R_11]
-[s]AHA, eu vejo o que você está chegando. Você[n]já "lidou com" todos os que te irritam,[n]hein?[n][w][e]
+[s]Haha, entendo o que você quer dizer.[n]Você já "lidou" com aqueles que[n]irritam você, hein?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_08_R_12]
-[s]Então, qual é o seu problema comigo!?[n]Se eu não te irritasse, você não estaria[n]falando comigo![n][w][e]
+[s]Mas então por que você está com raiva de mim!?![n]Se eu não tivesse te irritado de[n]alguma forma, você não falaria comigo![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_08_R_13]
-[s]Eu sou realmente tão ruim, cara? Bem, acho[n]que eles dizem que qualquer atenção é uma[n]boa atenção.[n][w][e]
+[s]Eu sou tão ruim assim? Bom, o importante é a[n]gente conversar sobre isso.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_08_R_14]
-[s]Cara, sabe como eles vendem facas no[n]supermercado? Lembre-me de não deixar você[n]perto dessa seção.[n][w][e]
+[s]Você sabia que eles vendem facas no supermercado?[n]Aqui, lembre-me de não deixar você passar por[n]esse departamento.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_08_R_15]
-[s]... Para mim, os verdadeiros mergulhos são[n]os que atiram sem a razão de ser por[n]sincera.[n][w][e]
+[s]Para mim, o pior de tudo[n]são os que atiram[n]sem motivo nenhum.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_08_R_16]
-[s]Cara, apenas me diga que sou nojento. Você[n]não tem que bater ao redor do maldito[n]arbusto.[n][w][e]
+[s]Olha, diga isso na minha cara se você me chupar.[n]Todas essas rodadas de palavras são inúteis.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_01]
-[s]... A propósito, pense que você pode tirar[n]essa máscara enquanto estamos falando?[n][w][e]
-[s]É muito rude, cara.[n][w][e]
+[s]De qualquer forma, você acha que pode tirar essa[n]máscara enquanto falamos?[n][w][e]
+[s]É muito rude, sabe?[n][w][e]
 
 [sel TalkSel_GUY_CHAT_SQ_01 top]
-[s]Não, não é.[e]
+[s]Não.[e]
 [s]Faz parte do meu rosto.[e]
 [s]Me desculpe.[e]
 
 [msg TalkMsg_GUY_CHAT_SQ_01_R]
-[s]Acho que temos que concordar em discordar[n]então! Hahaha![n][w][e]
+[s]Então só temos que concordar[n]concordar em discordar! Haha![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_01_R_2]
-[s]... É muito estranho, no entanto.[n][w][e]
+[s]É bem assustador, no entanto.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_01_R_3]
-[s]É o seu jeito ou a estrada, hein?[n]Isso não é legal, cara.[n][w][e]
+[s]Você quer que seja feito do seu jeito, né? Não é[n]justo, cara.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_01_R_4]
-[s]... Mas é, no entanto. Tem algum senso comum.[n][w][e]
+[s]... Mas é assim que é. Tenha algum[n]senso comum.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_01_R_5]
-[s]... Você não vai ter amigos se continuar[n]dizendo merda assim! Hahaha.[n][w][e]
+[s]Com certeza você não terá um pingo de[n]amigo, se sair por aí vomitando[n]certas besteiras! Haha![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_01_R_6]
-[s]Bem, caramba, se for esse o caso, sinto[n]muito por você.[n][w][e]
+[s]Droga, se sim, sinto muito por você.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_01_R_7]
-[s]Sim, o rosto por baixo tem que ser todo tipo[n]de fuga.[n][w][e]
+[s]Mmh, você deve ter um rosto realmente[n]feio.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_01_R_8]
-[s]... Então você é apenas um pobre miserável,[n]hein?[n][w][e]
+[s]Então você é um miserável[n]tanto faz, hein?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_01_R_9]
-[s]Acho que não há como provar o gosto.[n]Não se preocupe, não vou arrancar ou nada.[n][w][e]
+[s]Acho que gostos são gostos.[n]Não se preocupe, não vou roubar[n]sua ideia.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_01_R_10]
-[s]Uh... eu não sei o que dizer para isso.[n][w][e]
+[s]Hum... não sei mais o que pensar.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_01_R_11]
-[s]Então você admite, hein? Isso é um começo.[n][w][e]
+[s]Então você admite, hein?[n]Isso é alguma coisa.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_01_R_12]
-[s]Se você sente muito, tire a maldita máscara![n][w][e]
+[s]Se você realmente sente muito, então tire a[n]maldita máscara![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_01_R_13]
-[s]Você tinha o suficiente?[n][w][e]
+[s]Você já teve o suficiente?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_01_R_14]
-[s]É apenas bom senso, cara![n]O que você tem contra isso?[n][w][e]
+[s]É apenas senso comum, cara![n]Qual é o problema?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_01_R_15]
-[s]Huh, nunca soube que você era um saco de[n]merda.[n][w][e]
+[s]Eu não sabia que você era um[n]ack de merda.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_01_R_16]
-[s]Entendi, entendi! Não é como se eu desse a[n]mínima para sua máscara estúpida de[n]qualquer maneira![n][w][e]
+[s]Eu entendo, eu entendo! Então eu não[n]me importo muito com essa[n]maldita máscara.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_02]
-[s]Cara, estou Starvin '! Ei, isso é como um[n]daqueles questionamentos policiais na TV?[n][w][e]
-[s]Eles sempre dão um Katsudon ao cara![n]Você tem algo assim para mim!?[n][w][e]
+[s]Estou faminto! Ei, não funciona como aqueles[n]interrogatórios na TV?[n][w][e]
+[s]Você sabe, o cara sob pressão[n]eles sempre recebem um katsudon! Não[n]tem nada parecido para mim?[n][w][e]
 
 [sel TalkSel_GUY_CHAT_SQ_02 top]
-[s]Katsudon, chegando direto.[e]
-[s]Eu sou o interrogador aqui.[e]
-[s]Não tenho nada para você.[e]
+[s]Katsudon? Eles chegam imediatamente![e]
+[s]sou eu que estou perguntando aqui.[e]
+[s]Eu não tenho nada para você.[e]
 
 [msg TalkMsg_GUY_CHAT_SQ_02_R]
-[s]Ei, você não é tão ruim![n][w][e]
+[s]Ei, então você não é tão ruim![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_02_R_2]
-[s]Uau, tão fácil, hein? Você é um capacho.[n][w][e]
+[s]Nossa, foi fácil?[n]Você é um capacho.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_02_R_3]
-[s]Não importa, eu não estou com fome o[n]suficiente por toda aquela merda frita.[n][w][e]
+[s]Esqueça, não estou com fome o suficiente para[n]toda essa merda frita.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_02_R_4]
-[s]Uh-huh, você está dizendo isso agora, mas[n]você voltará a essa merda mais tarde.[n][w][e]
+[s]Sim, sim, agora você diz, mas depois[n]você definitivamente voltará a ser um cara mau.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_02_R_5]
-[s]Ugh, que furo. Tudo bem, vamos acabar com...[n][w][e]
+[s]Uh, que bolas. Ok,[n]despacha-te então...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_02_R_6]
-[s]Não posso responder merda quando estou com[n]fome, cara.[n][w][e]
+[s]Eu não posso responder[n]besteira quando estou com fome, cara.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_02_R_7]
-[s]Interro... O quê? Isso é um tipo de macarrão?[n][w][e]
+[s]Eu pergunto... o quê? Vamos almoçar?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_02_R_8]
-[s]Sim, acho que a comida é a última coisa com[n]a qual devo me preocupar.[n][w][e]
+[s]Sim, comida é a última coisa com que devo me[n]preocupar.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_02_R_9]
-[s]O que!? É um maldito warcrime negar uma[n]refeição a alguém, mesmo que seja seu[n]inimigo![n][w][e]
+[s]O que!?! É um maldito crime de guerra negar uma[n]refeição ao inimigo![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_02_R_10]
-[s]O inferno? Se você está chegando até aqui,[n]pelo menos venha preparado.[n][w][e]
+[s]Que diabos? Você está me dizendo[n]que veio até aqui[n]sem comida!?![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_02_R_11]
 [s]Você não vai me alimentar?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_02_R_12]
-[s]Oh, você de uma dieta ou algo assim?[n][w][e]
+[s]Ah, por acaso você está de dieta?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_02_R_13]
-[s]Olha, eu sei que você está irritado, mas[n]você não precisa tirar isso de mim.[n][w][e]
+[s]Olha, eu sei que você está com raiva,[n]mas você não tem que me culpar.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_02_R_14]
-[s]Cara, você está com fome ou algo assim?[n][w][e]
+[s]Cara, por acaso você está com fome?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_02_R_15]
-[s]Eu não estava pedindo um brinde, cara. Não[n]pegue sua maldita calcinha em um monte.[n][w][e]
+[s]Eu não queria vagabundear,[n]cara. Não aqueça muito.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_02_R_16]
-[s]Você acha legal falar com sua arma?[n][w][e]
+[s]O quê, você acha fofo[n]falar com sua arma?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_03]
-[s]... então, em vez de me matar, você começou[n]a me atirar...[n][w][e]
-[s]Você está tentando conseguir algo de mim?[n][w][e]
+[s]Então, hum... ao invés de me matar,[n]você começou a falar...[n][w][e]
+[s]Você talvez tenha alguma[n]intenção... em particular?[n][w][e]
 
 [sel TalkSel_GUY_CHAT_SQ_03 top]
-[s]Sim.[e]
-[s]Não... nada...[e]
+[s]Está certo.[e]
+[s]Absolutamente não.[e]
 [s]Dance para mim![e]
 
 [msg TalkMsg_GUY_CHAT_SQ_03_R]
-[s]Vamos, eu não consigo lidar com esse tipo de[n]pressão. A menos que você possa me dar algo[n]em troca...[n][w][e]
+[s]Vamos lá, não aguento toda essa pressão. A menos[n]que você me dê algo em troca...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_03_R_2]
-[s]Você vai ficar desapontado. Apenas avisando[n]você...[n][w][e]
+[s]Você ficará desapontado. Eu te aviso.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_03_R_3]
-[s]Isso é uma chatice. Eu não sou tão bom nessa[n]coisa de falar.[n][w][e]
+[s]Que pena. Falar não é o meu forte.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_03_R_4]
-[s]Usin 'outros para sua própria agenda?[n]Isso é BuUULLSHIT![n][w][e]
+[s]Usando outras pessoas para sua própria conta?[n]Isso é besteira![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_03_R_5]
-[s]Isso soa como porra. Se você não tomar[n]cuidado, eu vou voltar a você.[n][w][e]
+[s]Soa muito suspeito para mim. Se você não[n]prestar atenção, eu vou te esfaquear[n]pelas costas.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_03_R_6]
-[s]Bem, isso é bastante estranho, então, hein?[n][w][e]
+[s]Bem, então fica[n]muito embaraçoso...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_03_R_7]
-[s]Então, tal você guardou a arma?[n][w][e]
+[s]Então, que tal[n]guardar a arma?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_03_R_8]
-[s]Você pode me dar direto, cara.[n]Não tenho medo da verdade.[n][w][e]
+[s]Você pode me dizer na minha cara.[n]A verdade não me assusta.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_03_R_9]
-[s]Você está brincando? Isso é meio estranho da[n]sua parte dizer.[n][w][e]
+[s]Piadas? Isso é muito bizarro vindo de você.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_03_R_10]
-[s]Então você acha que eu posso dançar, não é?[n][w][e]
+[s]Então você acha que ele pode dançar, hein?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_03_R_11]
-[s]Oh, inferno, Naw. Você não pode me dizer o[n]que fazer.[n][w][e]
+[s]Oh inferno. Não pense que pode me dar ordens.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_03_R_12]
-[s]Huh? Vá agitar sua própria bunda![n][w][e]
+[s]Huh? Mova sua bunda![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_03_R_13]
-[s]O quê, então você quer me matar, afinal?[n][w][e]
+[s]Então, apesar de tudo, você quer me matar?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_03_R_14]
-[s]Oi, desculpe. Eu disse algo errado?[n][w][e]
+[s]Oh, desculpe. Eu disse algo[n]errado?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_03_R_15]
-[s]Uau! Eu estarei melhor a partir de agora, eu[n]juro![n][w][e]
+[s]Oooh! Vou me comportar[n]de agora em diante, eu juro![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_03_R_16]
-[s]Eu não estou procurando algum tipo de[n]deathmatch aqui![n][w][e]
+[s]Eu não estou procurando nenhuma[n]luta mortal![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_04]
-[s]... Então, hoje é o meu dia B e um dos meus[n]amigos foi e reservou uma mesa em uma[n]articulação chique para mim.[n][w][e]
-[s]Seria prolicamente um grande deprimente se o[n]menino do aniversário não aparecesse em sua[n]festa, tanto...[n][w][e]
+[s]Olha, hoje é meu aniversário,[n]e um dos meus amigos reservou[n]uma mesa em um lugarzinho chique.[n][w][e]
+[s]Seria muito rude não aparecer na festa de[n]aniversário de alguém, você não acha? Então...[n][w][e]
 
 [sel TalkSel_GUY_CHAT_SQ_04 top]
-[s]Feliz Aniversário.[e]
+[s]Feliz aniversário.[e]
 [s]Eu não fazia ideia.[e]
-[s]Este será o seu dia de morte também.[e]
+[s]Também é seu aniversário.[e]
 
 [msg TalkMsg_GUY_CHAT_SQ_04_R]
-[s]Ouvindo que realmente levanta meu ânimo, não[n]importa quem diga![n][w][e]
+[s]Ouvir isso eleva o espírito,[n]independentemente de quem diz isso![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_04_R_2]
-[s]Parece que já estou recebendo meus socos de[n]aniversário, hein?[n][w][e]
+[s]Parece que já estou recebendo[n]meus socos de aniversário, hein?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_04_R_3]
-[s]Sabe, você diz isso, mas essa situação não[n]combina com a sensação por trás disso.[n][w][e]
+[s]Sim, bem, você diz isso, mas a[n]situação em que nos encontramos[n]parece longe de ser festiva.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_04_R_4]
-[s]Acho que você é uma tarefa real se você está[n]mostrando a bondade para seus inimigos.[n][w][e]
+[s]Você é realmente mole[n]em mostrar bondade para[n]seus inimigos.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_04_R_5]
-[s]O mínimo que você poderia ter feito foi[n]lembrar meu aniversário.[n][w][e]
+[s]Não peço muito, mas pelo menos a[n]data do meu aniversário...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_04_R_6]
-[s]Uh-huh. Você é muito salgado porque não[n]recebeu um convite.[n][w][e]
+[s]Uh huh. Você provavelmente está com raiva[n]porque não recebeu o convite.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_04_R_7]
-[s]Uh, sim. Seria meio assustador se você[n]soubesse que era meu aniversário antes de[n]eu lhe contar.[n][w][e]
+[s]Sim. Seria assustador se você[n]soubesse sobre meu aniversário[n]antes de eu te contar.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_04_R_8]
-[s]Cara... você veio até aqui sem saber?[n][w][e]
+[s]Quero dizer... Você veio até aqui sem saber...?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_04_R_9]
-[s]Boa tentativa, mas se você vai contar uma[n]piada esfarrapada, pelo menos o torne[n]engraçado.[n][w][e]
+[s]Boa tentativa, mas se você quiser fazer uma[n]piada, pelo menos seja engraçado.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_04_R_10]
-[s]Sabe, eu não tenho nada contra essa atitude[n]de super-herói.[n][w][e]
+[s]Sabe, eu aprecio essa atitude de super-herói.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_04_R_11]
-[s]... você assiste muito anime?[n][w][e]
+[s]Você assiste muitos animes?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_04_R_12]
-[s]O que, você acha que parece legal ou algo[n]assim? Não me dê essa merda.[n][w][e]
+[s]E aí? Você acha legal?[n]Pare com essa besteira![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_04_R_13]
-[s]Huh? Você está tentando me durar alguns[n]fogos de artifício para comemorar?[n][w][e]
+[s]Hã? Os fogos de artifício são para comemorar?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_04_R_14]
-[s]Acho que não tenho escolha...[n][w][e]
+[s]Receio não ter escolha...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_04_R_15]
-[s]Eu pego...[n][w][e]
+[s]Entendo...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_04_R_16]
-[s]... você realmente vai me fazer cancelar no[n]último minuto?[n][w][e]
+[s]Você realmente quer que eu cancele[n]tudo no último minuto?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_05]
-[s]... ei, olhe para mim.[n][w][e]
-[s]Eu sei quando estou ficando suado.[n]Estou brilhando, não estou?[n][w][e]
+[s]Ei, olhe para mim por um segundo.[n][w][e]
+[s]Eu me reconheço quando começo a suar demais.[n]Estou brilhando, por acaso?[n][w][e]
 
 [sel TalkSel_GUY_CHAT_SQ_05 top]
-[s]Como uma bola de discoteca.[e]
-[s]De jeito nenhum.[e]
-[s]Por que isso importa?[e]
+[s]Como um estroboscópio.[e]
+[s]De jeito nenhum'.[e]
+[s]Quem se importa?[e]
 
 [msg TalkMsg_GUY_CHAT_SQ_05_R]
-[s]Sério!? Me dê uma toalha de rosto, pronto![n][w][e]
+[s]Sério!?! Dê-me uma[n]toalha, rápido![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_05_R_2]
-[s]A sério? Ninguém vai me aceitar assim.[n][w][e]
+[s]A sério? Ninguém vai[n]me querer neste estado.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_05_R_3]
-[s]Então você só me deixava inundar o lugar sem[n]dizer uma coisa maldita?[n][w][e]
+[s]Então você ia me deixar inundar o lugar sem me[n]dizer nada?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_05_R_4]
-[s]Ugh, isso é uma merda! Não há fotos![n][w][e]
+[s]Ugh... Isso é péssimo! Nenhuma foto![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_05_R_5]
-[s]Você tem certeza de que não está apenas[n]dizendo isso para ser legal?[n][w][e]
+[s]Tem certeza que você não está me dizendo[n]apenas para me agradar?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_05_R_6]
-[s]Ufa, agradeça às estrelas loucas.[n][w][e]
+[s]Nada mal, céus.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_05_R_7]
-[s]Então, por que me sinto tão maldito pegajoso?[n][w][e]
+[s]Então, por que tenho essa sensação terrível[n]pegajosa?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_05_R_8]
-[s]Você gosta de lyin 'para as pessoas, hein?[n][w][e]
+[s]Você é um mentiroso em série, hein...?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_05_R_9]
-[s]Você não sabe? Cara, você realmente não tem[n]gosto![n][w][e]
+[s]Huh? Você não sabe? Cara, você[n]não tem gosto nenhum![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_05_R_10]
-[s]...Acho que você está certo. Minha boa[n]aparência natural cobre de qualquer maneira.[n][w][e]
+[s]Talvez você esteja certo. Minha[n]beleza natural coloca[n]uma peça nisso de qualquer maneira.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_05_R_11]
-[s]Não diga isso. É realmente me buggin, cara.[n][w][e]
+[s]Nem diga isso como uma piada. Isso realmente[n]me irrita.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_05_R_12]
-[s]Estou implorando por ajuda aqui! Minhas[n]axilas estão fora do controle![n][w][e]
+[s]Estou implorando por sua ajuda![n]Minhas axilas estão uma bagunça![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_05_R_13]
-[s]Ei, vai ficar ainda pior se você fizer essa[n]merda.[n][w][e]
+[s]Ei, vai piorar se você continuar com essa merda![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_05_R_14]
-[s]Ah, cara, meus poços estão suando uma[n]tempestade![n][w][e]
+[s]Cara, estou suando pra caramba![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_05_R_15]
-[s]"Não posso se preocupar com o suor se você[n]estiver morto!" É isso que você está[n]pensando!?[n][w][e]
+[s]"Você não precisa se preocupar com[n]suor morto!" Você pensou nisso?!?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_05_R_16]
-[s]... Eu sou muito patético sentado aqui[n]suando assim, hein?[n][w][e]
+[s]Com todo esse suor eu pareço a foto do[n]desconforto, né?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_06]
-[s]... Então, posso te perguntar uma coisa? Não[n]tenho certeza se consegui o que está[n]acontecendo aqui.[n][w][e]
-[s]Eu... perdi?[n][w][e]
+[s]Hum, posso te perguntar uma coisa?[n]Porque eu não acho que[n]entendi bem a situação.[n][w][e]
+[s]Eu perdi...?[n][w][e]
 
 [sel TalkSel_GUY_CHAT_SQ_06 top]
-[s]Sim.[e]
-[s]Ainda não tenho certeza.[e]
-[s]Nah, você venceu totalmente.[e]
+[s]Já.[e]
+[s]Eu não sei ainda.[e]
+[s]Não, você venceu.[e]
 
 [msg TalkMsg_GUY_CHAT_SQ_06_R]
-[s]Vamos lá, você tem que me dizer essas coisas[n]mais cedo![n][w][e]
+[s]Oh vamos lá, algumas coisas[n]você deve me dizer primeiro![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_06_R_2]
-[s]Pegue esse olhar presunçoso.[n][w][e]
+[s]Limpe esse maldito sorriso[n]do seu rosto.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_06_R_3]
-[s]Você tem que estar infantil, certo?[n]Eu não posso perder...[n][w][e]
+[s]Você está brincando, não é?[n]Eu não posso perder.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_06_R_4]
-[s]Huh. Acho que devo aceitar prolicamente[n]minha derrota graciosamente...[n][w][e]
+[s]Oh. Suponho que devo aceitar a derrota com[n]dignidade.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_06_R_5]
-[s]Eu também não entendo. Quero dizer, Losin[n]'não é o meu estilo.[n][w][e]
+[s]Eu também não entendo.[n]Quero dizer, perder não é meu estilo.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_06_R_6]
-[s]Onde estão as regras para essa coisa!?[n]Eu não posso perder![n][w][e]
+[s]Quais são as regras que[n]o estabelecem!?! Eu nunca perco![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_06_R_7]
-[s]Você está certo... não acabou até acabar.[n][w][e]
+[s]Você está certo ... Não acabou[n]até que acabou.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_06_R_8]
-[s]Quero dizer, tudo bem se eu perdi... talvez[n]eu aprenda algo. Mas preciso saber se o fiz[n]ou não.[n][w][e]
+[s]Quero dizer, tudo bem se eu perder... Talvez eu[n]aprendesse alguma coisa. Mas eu preciso saber se[n]eu posso fazer isso ou não.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_06_R_9]
-[s]Meu mal... é como se eu exigisse essa[n]vitória.[n][w][e]
+[s]Oh, me desculpe... Quase parece[n]como se eu exigisse a vitória.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_06_R_10]
-[s]Sério? Awww yeahhh![n][w][e]
+[s]A sério? Evvaaaaai![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_06_R_11]
-[s]Não, você não vai me convencer disso.[n][w][e]
+[s]Nah, você não será capaz de[n]me convencer.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_06_R_12]
-[s]*suspiro* e agora você está me tratando[n]como uma dor na bunda também...[n][w][e]
+[s]*suspiro* Agora você vai tratar[n]você também como um pé no saco...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_06_R_13]
-[s]O que é que foi isso? Um sinal para uma[n]revanche?[n][w][e]
+[s]O que era? O sinal para a revanche?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_06_R_14]
-[s]Você estava tentando apontar para mim[n]enquanto eu pensava sobre merda?[n][w][e]
+[s]Você mexeu comigo enquanto eu estava pensando[n]nessa besteira?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_06_R_15]
-[s]... Eu realmente não posso colocar essa[n]merda em palavras, mas acho que a pego no[n]fundo.[n][w][e]
+[s]Não consigo explicar essa[n]merda em palavras, mas no fundo[n]acho que entendo.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_06_R_16]
-[s]Você me diz para parar de se preocupar e[n]seguir em frente? Ha![n][w][e]
+[s]Você está dizendo que eu deveria parar de irritar[n]e seguir em frente? Ah![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_07]
-[s]Ei você. O que você fez se eu dissesse que[n]sabia que poderia ganhar?[n][w][e]
-[s]Você não teria ideia de que eu estava[n]prestes a usar meu movimento final.[n][w][e]
+[s]Você aí. O que você faria se eu lhe dissesse que[n]sei como vencer?[n][w][e]
+[s]Você nunca imaginaria que ele[n]ainda não fez o finalizador.[n][w][e]
 
 [sel TalkSel_GUY_CHAT_SQ_07 top]
-[s]Sério!?[e]
-[s]Isso é preocupante...[e]
-[s]...Me teste.[e]
+[s]A sério!?![e]
+[s]Estou começando a ficar com medo...[e]
+[s]Me teste.[e]
 
 [msg TalkMsg_GUY_CHAT_SQ_07_R]
-[s]Hahahaha! Eu acho que não seria tão[n]engraçado se eu realmente fizesse isso. Eu[n]vou poupar a dor.[n][w][e]
+[s]Haha! Não seria tão[n]engraçado se você fosse[n]sério sobre isso. Vou poupá-lo da dor.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_07_R_2]
-[s]Eu não vou fazer isso apenas porque essa[n]reação.[n][w][e]
+[s]Não pense que seu espanto[n]me induz a mostrá-lo a você.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_07_R_3]
-[s]Eu acho que você me encurralou, então eu vou[n]deitar por enquanto.[n][w][e]
+[s]Acho que você me encurralou,[n]então vou parar por enquanto.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_07_R_4]
-[s]... Eu meio que me sinto mal agora depois de[n]ver você se encolher assim.[n][w][e]
+[s]Eu me sinto um pouco culpado vendo o quanto você[n]está se irritando.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_07_R_5]
-[s]Eu sei direito? Eu não gostaria de ter minha[n]vida interrompida também.[n][w][e]
+[s]Verdadeiro? Também não quero que minha vida acabe[n]tão cedo.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_07_R_6]
-[s]Eu sei direito? Eu também não gostaria de[n]perder minha memória.[n][w][e]
+[s]Eu sei direito? Eu também não gostaria de perder[n]todas as minhas memórias.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_07_R_7]
-[s]... heh, isso é bem engraçado. Acho que[n]ainda tenho um coração, afinal.[n][w][e]
+[s]Hehe, isso é meio engraçado.[n]Acho que ainda tenho[n]um coração no final.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_07_R_8]
-[s]Heh. Você está totalmente desmoralizado![n][w][e]
+[s]Ele Ele. Você está completamente deprimido![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_07_R_9]
-[s]Uau, essa é uma maneira foda de ameaçar[n]alguém.[n][w][e]
+[s]Uau, que maneira foda de[n]ameaçar.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_07_R_10]
-[s]Não aja como um pirralho.[n][w][e]
+[s]Não seja um pirralho, vamos lá.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_07_R_11]
-[s]Pare de ser um punk tão punk.[n][w][e]
+[s]Deixe de ser um hooligan.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_07_R_12]
-[s]Não, eu não quero explodir o mundo...[n][w][e]
+[s]Nah, eu não quero explodir o mundo.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_07_R_13]
-[s]Heh, você está pulando para me matar antes[n]que eu possa fazer isso?[n][w][e]
+[s]Heheh, você espera me matar[n]antes de mim?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_07_R_14]
-[s]Se você quer lutar, nenhum de nós vai sair[n]vivo...[n][w][e]
+[s]Se você pretende lutar, nenhum de vocês sairá[n]vivo.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_07_R_15]
-[s]Meu ameaçou que você me manteve vivo de[n]alguma forma?[n][w][e]
+[s]Ameaçar você salvou minha[n]vida...?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_07_R_16]
-[s]Meu movimento final não significa merda se[n]você estiver me vindo com isso![n][w][e]
+[s]Meu movimento final será em vão se você me atacar[n]com isso![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_08]
-[s]Ei, você está apenas porque nossos olhos se[n]conheceram ou algo assim?[n][w][e]
-[s]Isso é maluco, cara. Talvez você deva fazer[n]o check-out de sua cabeça.[n][w][e]
+[s]Ei, você está fazendo tudo isso só porque[n]nossos olhos se encontraram?[n][w][e]
+[s]Mas é uma loucura! Talvez você devesse verificar[n]seu cérebro.[n][w][e]
 
 [sel TalkSel_GUY_CHAT_SQ_08 top]
-[s]Eu provavelmente deveria.[e]
-[s]Sem chance.[e]
-[s]Estou indo selvagem![e]
+[s]Talvez eu deva.[e]
+[s]Absolutamente não.[e]
+[s]Estou enlouquecendo![e]
 
 [msg TalkMsg_GUY_CHAT_SQ_08_R]
-[s]Bem, desde que saiba que há espaço para[n]melhorar.[n][w][e]
+[s]Tudo bem, contanto que você saiba que[n]a melhoria é sempre possível.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_08_R_2]
-[s]Eu acho que você quer dizer definitivamente.[n]Seu cérebro é muito pequeno, mano.[n][w][e]
+[s]Você quer dizer: "É seguro"! Seu[n]cérebro é do tamanho de uma noz.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_08_R_3]
-[s]Cara, às vezes eu me assusto com o quão[n]certo eu posso estar.[n][w][e]
+[s]Eh, às vezes eu também fico maravilhado com tanta[n]sabedoria.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_08_R_4]
-[s]Provavelmente não, definitivamente![n][w][e]
+[s]Não é provável: é certo![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_08_R_5]
-[s]Então você está apenas aceitando sua vida[n]como um cara com um cérebro minúsculo?[n][w][e]
+[s]Então você se resignou a uma vida com um pouco de[n]cérebro?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_08_R_6]
-[s]Você sabe que isso é um problema sério...[n]certo?[n][w][e]
+[s]Você sabe que é um problema[n]sério, certo?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_08_R_7]
-[s]Isso é para um médico decidir![n][w][e]
+[s]Deixe o médico decidir![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_08_R_8]
-[s]Você acha que um cara normal andaria em uma[n]máscara assim?[n][w][e]
+[s]Você acha que um cara normal[n]andaria por aí com uma máscara dessas?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_08_R_9]
-[s]Uau. Você está bem aí, mano?[n][w][e]
+[s]Uau...! Tudo bem aí, tio?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_08_R_10]
-[s]Isso é bem linguagem quadril... Estou[n]impressionado.[n][w][e]
+[s]Isso é um jargão muito moderno...[n]Estou impressionado.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_08_R_11]
-[s]Droga, nunca pensei em ouvir isso aqui em[n]baixo.[n][w][e]
+[s]Cara, nunca pensei que ouviria isso aqui.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_08_R_12]
-[s]O que você é, um urso?[n][w][e]
+[s]O que é, você é um urso?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_08_R_13]
-[s]... Parece que é ainda pior do que eu[n]pensava.[n][w][e]
+[s]Receio que seja ainda pior[n]do que eu imaginava.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_08_R_14]
-[s]Se ao menos eu tivesse um bom médico, eu[n]poderia enviar sua bunda para...[n][w][e]
+[s]Se ao menos você conhecesse um bom médico para[n]quem enviar sua bunda...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_08_R_15]
-[s]Você nunca vai fazer isso na sociedade se[n]ficar bravo sempre que alguém o ofender.[n][w][e]
+[s]Você nunca sobreviverá na sociedade[n]se perder a paciência toda vez que[n]alguém o ofender.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_08_R_16]
-[s]Você não acha que está meio que exagerado?[n][w][e]
+[s]Você não acha que está exagerando?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_09]
-[s]... Você sabe se você pensa sobre isso, eu[n]sou basicamente o seu senpai.[n][w][e]
-[s]Apenas pense sobre a hierarquia... você[n]deveria estar me mostrando um pouco mais de[n]respeito, não deveria?[n][w][e]
+[s]Se você pensar sobre isso... eu sou um pouco como[n]o seu senpai.[n][w][e]
+[s]Considerando as hierarquias,[n]você deveria me mostrar um pouco[n]mais de respeito, não acha?[n][w][e]
 
 [sel TalkSel_GUY_CHAT_SQ_09 top]
-[s]Você está certo, Senpai.[e]
+[s]Você está certo, senpai.[e]
 [s]Eu nunca pensei sobre isso.[e]
-[s]Eu prefiro respeito mútuo.[e]
+[s]Respeito mútuo é melhor.[e]
 
 [msg TalkMsg_GUY_CHAT_SQ_09_R]
-[s]Você está realmente colocando algum esforço[n]nisso, hein?[n][w][e]
+[s]Essa coisa está realmente estimulando você, hein?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_09_R_2]
-[s]Você ainda não sabe nada...[n]Eu vou dar uma palestra para você.[n][w][e]
+[s]Você não sabe nada ainda, mas... Vou tentar[n]educá-lo.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_09_R_3]
-[s]Você só vai concordar comigo?[n]Você é um camaleão social ou algo assim?[n][w][e]
+[s]Você apenas concorda comigo? O que é, você é um[n]vira-casaca?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_09_R_4]
-[s]Você deveria estar dizendo que está[n]arrependido antes de qualquer outra coisa![n][w][e]
+[s]Você deve primeiro[n]pedir desculpas![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_09_R_5]
-[s]Acho que você nunca precisaria de um senpai[n]se estiver escondido no seu quarto o dia[n]todo...[n][w][e]
+[s]Se você continuar se trancando em seu quarto,[n]duvido que precise de um senpai.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_09_R_6]
-[s]Nesse caso, eu diria que você deveria pensar[n]muito sobre isso novamente.[n][w][e]
+[s]Nesse caso, eu o aconselharia a[n]pensar novamente.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_09_R_7]
-[s]... Não há sentido em argumentar com uma[n]decepção como você.[n][w][e]
+[s]Não adianta discutir com um andarilho como você.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_09_R_8]
-[s]Então você acha que é o único que importa[n]por aqui?[n][w][e]
+[s]Então você acha que é o único que[n]importa por aqui?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_09_R_9]
-[s]Você vai perder amigos se se concentrar na[n]semântica da besteira.[n][w][e]
+[s]Você ficará sozinho continuando[n]a se fixar nas coisas estúpidas.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_09_R_10]
-[s]Eu acho que ter uma ampla piscina de amigos[n]é boa, mesmo que seja meio superficial.[n][w][e]
+[s]Acho que ter um grande[n]grupo de amigos não é uma coisa ruim,[n]apesar de ser um pouco superficial.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_09_R_11]
-[s]Então você só vai ignorar meu ponto inteiro?[n][w][e]
+[s]Então você vai apenas[n]ignorar minha pergunta?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_09_R_12]
-[s]Claro, vamos ter respeito mútuo... que carga[n]de besteira.[n][w][e]
+[s]Oh sim, vamos nos respeitar.[n]Que monte de besteira.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_09_R_13]
-[s]Cara, isso é desagradável, mesmo que você[n]esteja impressionado com o quão incrível é[n]o seu senpai.[n][w][e]
+[s]Isso é repreensível,[n]mesmo que meu brilhantismo[n]da senpai surpreenda você.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_09_R_14]
-[s]Obter o sucesso onde dói é uma boa lição de[n]vida também, eu acho.[n][w][e]
+[s]Ser acertado é[n]outra boa lição de vida.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_09_R_15]
-[s]Estou começando a questionar seu personagem[n]depois dessa merda.[n][w][e]
+[s]Receio ter que duvidar de sua disposição.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_09_R_16]
-[s]... Estou preocupado com o tipo de pessoa[n]que você é se você está fazendo essa merda.[n][w][e]
+[s]Dado o que você faz, eu[n]me pergunto que tipo de pessoa você é.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_10]
-[s]Então você deve estar se sentindo bem,[n]olhando para mim...[n][w][e]
-[s]Que tal termos uma entrevista? Você é o[n]vencedor, afinal. Vou ouvir o que você[n]precisa dizer.[n][w][e]
+[s]Ei, deve ser ótimo poder[n]olhar para mim...[n][w][e]
+[s]Que tal uma entrevista?[n]Você é o vencedor, afinal.[n]Eu vou ouvir tudo o que você tem a dizer.[n][w][e]
 
 [sel TalkSel_GUY_CHAT_SQ_10 top]
-[s]Eu me sinto ótimo.[e]
-[s]Eu quero mirar mais alto.[e]
+[s]Eu sou bom.[e]
+[s]Eu gostaria de mirar mais alto.[e]
 [s]Lutar é inútil.[e]
 
 [msg TalkMsg_GUY_CHAT_SQ_10_R]
-[s]... Ei, pense em perdedores de nós, não vai?[n][w][e]
+[s]Eh, mas também se coloque no lugar de nós,[n]perdedores, ok?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_10_R_2]
-[s]Huh, então eu acho que não é tão ruim que eu[n]perdi.[n][w][e]
+[s]Bem, então minha derrota não foi em vão.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_10_R_3]
-[s]Parceiro! Você não precisa esfregar![n][w][e]
+[s]Amigo! Não precisa esfregar![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_10_R_4]
-[s]Ooh, isso é simples, mas realmente chega em[n]casa![n][w][e]
+[s]Oh, isso é normal, mas[n]ataca![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_10_R_5]
-[s]... É isso que os tolos que não sabem seus[n]limites pensam.[n][w][e]
+[s]É assim que pensam os tolos que não conhecem seus[n]limites.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_10_R_6]
-[s]Você é um pouco masoquista...?[n][w][e]
+[s]Você é algum tipo de masoquista...?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_10_R_7]
-[s]Então outras pessoas são apenas obstáculos[n]para você superar, hein?[n][w][e]
+[s]Então, para você, as pessoas não são nada além de[n]obstáculos a serem superados, hein?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_10_R_8]
-[s]Parceiro. Você está me assustando.[n][w][e]
+[s]Amigo. Você me assusta.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_10_R_9]
-[s]Uau, essa vibração filosófica é ótima.[n]Você é tão profundo...[n][w][e]
+[s]Uau, essa aura de filósofo é incrível. Quão[n]profundo...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_10_R_10]
-[s]Isso não me ouça bem que você agora.[n][w][e]
+[s]Ouvir você dizer isso não vai curar[n]minhas feridas.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_10_R_11]
-[s]Sabe, eu tinha ouvido falar de idiotas que[n]fingem ser inteligentes, mas eu nunca tinha[n]visto um antes![n][w][e]
+[s]Sabe, já ouvi falar daqueles idiotas[n]fingindo ser espertos, mas nunca[n]vi um![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_10_R_12]
-[s]Uau, você só vai ignorar tudo o que[n]aconteceu!?[n][w][e]
+[s]Uooo, você realmente vai ignorar[n]tudo o que aconteceu?!?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_10_R_13]
-[s]Que um substituto para minha saudação de[n]vinte e um de armas? Que bom.[n][w][e]
+[s]Seria essa a alternativa à[n]minha saudação militar? Tão fofo.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_10_R_14]
-[s]Hidin 'seu constrangimento como isso é meio[n]extremo.[n][w][e]
+[s]Então, esconder seu[n]constrangimento é um pouco extremo.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_10_R_15]
-[s]Isso deveria ser uma piada?[n]Porque bombardeado...[n][w][e]
+[s]O que é isso, uma piada?[n]Porque é terrível...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_10_R_16]
-[s]Maaan, você matou totalmente o clima nesta[n]vadia.[n][w][e]
+[s]Argh, você arruinou totalmente[n]o clima assim.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_11]
-[s]... Hum, isso está me buggin há um tempo,[n]mas...[n][w][e]
-[s]Sou só eu, ou algo fede?[n][w][e]
+[s]... Mmh, essa coisa está me incomodando[n]por um tempo, mas...[n][w][e]
+[s]Sou eu ou há algo fedorento?[n][w][e]
 
 [sel TalkSel_GUY_CHAT_SQ_11 top]
-[s]É só você.[e]
-[s]Está vindo de você.[e]
+[s]Não, é só você.[e]
+[s]Vem de você.[e]
 [s]Eu cheiro uma mentira.[e]
 
 [msg TalkMsg_GUY_CHAT_SQ_11_R]
-[s]... isso assim? Não sei, tenho um nariz[n]muito bom em mim.[n][w][e]
+[s]Você diz? Não sei, geralmente tenho um nariz[n]muito bom.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_11_R_2]
-[s]Você tenta mudar de assunto em mim?[n][w][e]
+[s]Você está tentando baixar[n]a coisa sobre mim?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_11_R_3]
-[s]Acho que deixamos por isso.[n][w][e]
+[s]Talvez seja melhor deixar para lá.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_11_R_4]
-[s]Bem, você pode se acostumar com a maioria[n]dos cheiros de qualquer maneira.[n][w][e]
+[s]Bem, somos capazes de acostumar-nos a quase todos[n]os cheiros de qualquer maneira.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_11_R_5]
-[s]...Huh!? Espere, mas... as sombras cheiram?[n][w][e]
+[s]Huh!?! Espere, m-mi ... você está dizendo[n]Sombras fedorentas?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_11_R_6]
-[s]De jeito nenhum! Para reais!?[n][w][e]
+[s]Impossível! Piadas!?![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_11_R_7]
-[s]... Você não vai suspeitar de mim quando não[n]tem provas, ouve?[n][w][e]
+[s]Não ouse suspeitar[n]de mim sem um pingo[n]de evidência, certo?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_11_R_8]
-[s]O que!? Você está me fazendo muito louco![n][w][e]
+[s]O que!?! Você está me deixando com raiva![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_11_R_9]
-[s]Os culpados sempre dizem que não cheiram[n]nada, hein?[n][w][e]
+[s]Os culpados são sempre os primeiros[n]a negar a coisa![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_11_R_10]
-[s]Ooh, eu quero poder dizer algo inteligente[n]assim![n][w][e]
+[s]Oh, eu gostaria de ser capaz de dizer essas[n]coisas espirituosas também![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_11_R_11]
-[s]Mentiras cheiram? Eu não sabia...[n][w][e]
+[s]As mentiras cheiram mal? Eu não sabia...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_11_R_12]
-[s]Você está tentando me dizer que não sinto[n]nada?[n][w][e]
+[s]Você está dizendo que[n]eu inventei...?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_11_R_13]
-[s]Bata! Eu já me canto onc- uhhh, não importa![n][w][e]
+[s]pare com isso! Eu já me sujei[n]uma vez com cacc... Ehm, deixa pra lá![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_11_R_14]
-[s]Porcaria, ouvindo isso apenas tornou ainda[n]pior...![n][w][e]
+[s]Merda, ouvir você dizer isso só piora as coisas![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_11_R_15]
-[s]Vamos, não é bom culpar um ao outro...[n][w][e]
+[s]Vamos lá, não é legal[n]culpar um ao outro...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_11_R_16]
-[s]Isso só aconteceu porque você estava olhando[n]para me matar.[n][w][e]
+[s]Tudo isso aconteceu apenas[n]porque você queria me matar![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_12]
-[s]Então... essa batalha entre nós vai cair na[n]história.[n][w][e]
-[s]O que você vai contar aos seus filhos sobre[n]essa merda?[n][w][e]
+[s]Então... essa nossa batalha[n]vai ficar para a história, né?[n][w][e]
+[s]O que você vai dizer aos seus filhos[n]sobre essa linda bagunça?[n][w][e]
 
 [sel TalkSel_GUY_CHAT_SQ_12 top]
 [s]Foi uma batalha dura.[e]
-[s]Foi uma vitória fácil.[e]
-[s]Eu vou esquecer que isso aconteceu.[e]
+[s]Ganhei facilmente.[e]
+[s]Eu nem vou lembrar.[e]
 
 [msg TalkMsg_GUY_CHAT_SQ_12_R]
-[s]...Direita? Foi muito intenso para mim[n]também.[n][w][e]
+[s]Verdadeiro? Foi muito intenso[n]para mim também.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_12_R_2]
-[s]Concordou. Eu estou pensando em você um[n]pouco mais por causa dessa luta.[n][w][e]
+[s]Concordo. Você sabe que eu pareço te entender um[n]pouco mais agora?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_12_R_3]
-[s]Isso não faz isso. Eu estava pulando, você[n]vestia um pouco mais ou algo assim.[n][w][e]
+[s]Não é o melhor. Eu esperava que você enriquecesse[n]a história um pouco mais do que isso.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_12_R_4]
-[s]Direita? Foi bastante difícil.[n][w][e]
+[s]Verdadeiro? Foi difícil.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_12_R_5]
-[s]Você está dizendo que não há problema em[n]dobrar a verdade?[n][w][e]
+[s]Você diz que não há problema em distorcer a[n]verdade?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_12_R_6]
-[s]Está falando sério? Quão forte você é?[n][w][e]
+[s]Sério? Mas[n]quão forte você é então?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_12_R_7]
-[s]Você não tem ideia do que isso significa,[n]não é?[n][w][e]
+[s]Você não tem ideia do que isso significa, não é?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_12_R_8]
-[s]Oh? Você deve tentar elaborar isso, bastardo.[n][w][e]
+[s]Huh? Talvez você devesse retrabalhar[n]isso, bastardo.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_12_R_9]
-[s]Oh, então você só vai tentar um 'age bem[n]legal agora?[n][w][e]
+[s]Ah, então você quer relaxar, hein?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_12_R_10]
-[s]Você está brincando para mim? Eu acho que[n]você é péssimo nas coisas de memorizin.[n][w][e]
+[s]Você está brincando comigo? Na minha opinião,[n]você é apenas um cachorro em memorizar coisas.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_12_R_11]
-[s]Totalmente. Eu não dou a mínima para o[n]passado de qualquer maneira.[n][w][e]
+[s]Já. Eu não dou a mínima para o passado também.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_12_R_12]
-[s]O que? Sabe se você esquecer, você nunca vai[n]se lembrar, certo?[n][w][e]
+[s]Coisa? Você sabe que se escapar da sua mente,[n]você nunca vai se lembrar, não é?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_12_R_13]
-[s]Você vai agir assim? Apenas me faz parecer[n]bom, Mkay?[n][w][e]
+[s]Você realmente tem que colocar assim?[n]Deixe-me ficar bem, ok?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_12_R_14]
-[s]Se você tem energia para mover essa arma,[n]poderá mover muito bem sua boca.[n][w][e]
+[s]Se você tem energia para usar a[n]arma, também tem energia para usar[n]a boca, caramba.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_12_R_15]
-[s]Se eu acabar dyin 'aqui, diga a todos o que[n]aconteceu comigo...[n][w][e]
+[s]Se eu morrer aqui, conte a[n]todos a minha história...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_12_R_16]
-[s]...Peguei vocês. Acho que vou viver para[n]contar minha própria história então.[n][w][e]
+[s]Entendo. Vou ter que contar[n]de mim, minha história.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_13]
-[s]Sabe, essa máscara está meio que me deixa[n]desconfortável...[n][w][e]
+[s]Você sabe, essa máscara[n]é um pouco assustador ...[n][w][e]
 [s]O que vai acontecer comigo?[n][w][e]
 
 [sel TalkSel_GUY_CHAT_SQ_13 top]
-[s]Vou fazer uma carne de você.[e]
-[s]Vou jogar bem.[e]
-[s]Eu serei seu Dominatrix.[e]
+[s]Eu vou te despedaçar.[e]
+[s]Serei bom.[e]
+[s]Eu vou dominar você.[e]
 
 [msg TalkMsg_GUY_CHAT_SQ_13_R]
-[s]Oh sim? Isso demoraria um pouco...[n]Apenas avisando você.[n][w][e]
+[s]Oh sim? Você pode levar[n]muito tempo... Estou avisando.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_13_R_2]
-[s]... Você não é tão bom em ameaçar pessoas,[n]está?[n][w][e]
+[s]Ameaças não são o seu forte, hein?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_13_R_3]
-[s]Não brinque com essa merda. As mulheres que[n]amam esse corpo vão sofrer se você fizer[n]isso.[n][w][e]
+[s]Não tire sarro de alguma merda.[n]As mulheres que apreciam meu[n]corpo iriam surtar.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_13_R_4]
-[s]... pelo menos me transforma em um[n]hambúrguer de grau.[n][w][e]
+[s]Pelo menos me use para alguns[n]hambúrgueres incríveis.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_13_R_5]
-[s]Sério? Eu quero confiar em você...[n][w][e]
+[s]Sério? quero confiar...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_13_R_6]
-[s]... você é o tipo de cara que conforta[n]alguém antes de trazê-lo?[n][w][e]
+[s]Você gosta de confortar alguém antes de transar[n]com ele, não é?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_13_R_7]
-[s]Sabe, eu estou meio que toda a coisa da[n]violência.[n][w][e]
+[s]Você sabe, na verdade violência[n]eu não me importo.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_13_R_8]
-[s]Você está dizendo que agora, afinal, você[n]fez comigo!?[n][w][e]
+[s]E você diz isso depois de tudo[n]o que você fez comigo!?![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_13_R_9]
-[s]Uhhhhhh, sou meio sensível. Desculpe, mas[n]acho que vou passar.[n][w][e]
+[s]Uhhhh, sou um tipo delicado.[n]Desculpe, mas acho que vou passar.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_13_R_10]
-[s]Cara... o que fez você inventar essa ideia?[n][w][e]
+[s]Mas como você teve uma ideia semelhante?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_13_R_11]
-[s]Ugh, não tenha o hábito de dizer uma merda[n]assustadora assim.[n][w][e]
+[s]Ugh, tente não se acostumar a dizer merdas[n]perversas como essa.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_13_R_12]
-[s]Você sabe que as pessoas que não podem fazer[n]essa merda parecem coxas quando então[n]tentam, certo?[n][w][e]
+[s]Você sabia que as pessoas que não têm coragem de[n]fazer certas coisas parecem patéticas quando[n]tentam?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_13_R_13]
-[s]Ah, você não precisa dizer isso na frente de[n]todos. Eu chego onde você está indo com[n]isso.[n][w][e]
+[s]Ah, você não precisa dizer isso na frente de todo[n]mundo. Eu entendo para onde você quer ir.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_13_R_14]
-[s]Você está apenas tentando comprar algum[n]tempo para pensar sobre isso?[n][w][e]
+[s]Tentando ganhar tempo para pensar sobre isso?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_13_R_15]
-[s]Apenas cuspe! Você tem uma boca, não não!?[n][w][e]
+[s]Fala! Você tem[n]a boca, não é!?![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_13_R_16]
-[s]... acho que as coisas vão ser bem normal.[n][w][e]
+[s]Então tudo será[n]normal.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_14]
-[s]... Ei, escute, eu tenho uma garota[n]esperando ser minha noiva quando voltar[n]para casa disso...[n][w][e]
-[s]E você? Você quer se casar algum dia?[n][w][e]
+[s]Ei, escute, em casa uma menina está esperando por[n]mim com quem eu vou casar assim que voltar[n]daqui...[n][w][e]
+[s]E você?[n]Você vai se casar um dia?[n][w][e]
 
 [sel TalkSel_GUY_CHAT_SQ_14 top]
-[s]Eu faço.[e]
-[s]Eu não.[e]
-[s]Isso é impossível.[e]
+[s]Eu farei.[e]
+[s]Eu não acredito.[e]
+[s]É impossível.[e]
 
 [msg TalkMsg_GUY_CHAT_SQ_14_R]
-[s]Oooh! Você já está noivo!?[n][w][e]
+[s]Oooh! Você já está noivo!?![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_14_R_2]
-[s]Minha garota queria tirar isso do caminho[n]enquanto ainda somos jovens...[n][w][e]
+[s]Minha namorada queria transar enquanto éramos[n]jovens...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_14_R_3]
-[s]Sério? Sabe que você vai precisar de muito[n]dinheiro para pagar por toda essa merda,[n]certo?[n][w][e]
+[s]A sério? Você sabe que vai precisar[n]de muito dinheiro[n]para pagar por toda essa merda, certo?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_14_R_4]
-[s]Você está bem cheio de si mesmo por um[n]pirralho tão jovem.[n][w][e]
+[s]Você é muito convencido por ser um pirralho.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_14_R_5]
-[s]Não tenha tanta certeza. Você ainda é jovem,[n]sabe. Você tem muito tempo para decidir[n]essa merda.[n][w][e]
+[s]Não tenha tanta certeza. Você ainda é jovem. Você[n]tem toda a sua vida para pensar sobre essa merda.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_14_R_6]
-[s]São punks como você que fazem as mulheres[n]chorarem![n][w][e]
+[s]São punks como você[n]que fazem as mulheres chorarem![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_14_R_7]
-[s]Sim. Quero dizer, não odeio minha namorada[n]ou qualquer coisa, mas o casamento é[n]totalmente diferente.[n][w][e]
+[s]Eu vejo. Quero dizer, eu não odeio minha[n]namorada, hein. Mas o casamento é[n]totalmente outra história.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_14_R_8]
-[s]Você tem tanta certeza sobre isso! Isso é[n]realmente legal...[n][w][e]
+[s]Você parece pensar assim![n]É muito legal, eu admito.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_14_R_9]
-[s]AHA! Você nunca teve uma namorada, não é?[n][w][e]
+[s]Haha! Você nunca teve uma namorada, não é?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_14_R_10]
-[s]... Então você está dizendo isso e apenas se[n]afasta de todos os seus problemas?[n][w][e]
+[s]Então você conta essa história para si mesmo e[n]foge de todos os seus problemas?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_14_R_11]
-[s]Você quer dizer porque você não quer ser[n]sobrecarregado pela vida inteira de outra[n]pessoa? Sim, eu entendo você...[n][w][e]
+[s]Você quer dizer por que não quer uma bola e uma[n]corrente para o resto da vida? Sim, eu te[n]entendo...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_14_R_12]
-[s]*suspiro* falando para pessoas negativas[n]sempre me derrubam...[n][w][e]
+[s]*suspiro* Pessoas negativas[n]sempre me deixam triste...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_14_R_13]
-[s]Você está tentando esconder algo embaraçoso[n]'? You got a fiancée?[n][w][e]
+[s]Você está escondendo algo[n]embaraçoso de mim? Você está noivo?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_14_R_14]
-[s]Oh, desculpe... isso deveria significar algo[n]bom?[n][w][e]
+[s]Oh, perdoe-me... E isso seria bom?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_14_R_15]
-[s]Então você está dizendo que você não vai[n]para todo o sistema de casamento?[n][w][e]
+[s]Então você está me dizendo que abomina todo o[n]sistema de casamento?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_14_R_16]
 [s]Eu não posso morrer aqui![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_15]
-[s]Sabe, apesar de estarmos nessa situação[n]agora, eu nasci totalmente sob uma estrela[n]da sorte.[n][w][e]
-[s]Tenho certeza que um milagre vai acontecer[n]comigo, certo?[n][w][e]
+[s]Você sabe, apesar da situação, sabe que uma[n]estrela da sorte sempre brilha em mim.[n][w][e]
+[s]Tenho certeza que um belo milagre vai acontecer[n]comigo, estou certo?[n][w][e]
 
 [sel TalkSel_GUY_CHAT_SQ_15 top]
 [s]Milagres não existem.[e]
-[s]Eu ficaria com ciúmes se isso acontecesse.[e]
-[s]Estou esperando.[e]
+[s]Eu ficaria com inveja.[e]
+[s]Eu estou esperando.[e]
 
 [msg TalkMsg_GUY_CHAT_SQ_15_R]
-[s]Uh-huh, com certeza não. Aposto que você[n]está apenas se arrependendo quando nasceu.[n][w][e]
+[s]Uhum, claro que não. Aposto que você[n]está apenas se arrependendo[n]do dia em que nasceu...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_15_R_2]
-[s]Eu sei eu sei. Eu não sou ninguém especial...[n][w][e]
+[s]Eu sei, eu sei.[n]Não sou nada especial...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_15_R_3]
-[s]Isso não é para você decidir. Você não pode[n]provar que não.[n][w][e]
+[s]Não cabe a você decidir. E você não pode provar[n]isso de qualquer maneira.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_15_R_4]
-[s]Oh vamos lá. Deixe um cara sonhar um pouco.[n][w][e]
+[s]Oh pare com isso...! Que ninguém sonhe um pouco.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_15_R_5]
-[s]O que você quer um pedaço da minha sorte?[n][w][e]
+[s]O que é, boi[n]da minha sorte?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_15_R_6]
-[s]Ei, não olhe para mim. Culpe seus pais.[n][w][e]
+[s]Ei, eu não tive nada a ver com isso.[n]Culpe seus pais.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_15_R_7]
-[s]Ugh, inveja é uma dor na bunda.[n][w][e]
+[s]Uh, a inveja é uma besta feia.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_15_R_8]
-[s]Você está fazendo um péssimo trabalho[n]fingindo como você se importa.[n][w][e]
+[s]Fingir que você se importa não é bom para você.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_15_R_9]
-[s]Está falando sério? Mesmo que seja[n]inconveniente para você?[n][w][e]
+[s]Você está falando sério? Mesmo que não seja do[n]seu interesse?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_15_R_10]
-[s]A sério? Obrigado, cara![n][w][e]
+[s]Sério? Obrigado amigo![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_15_R_11]
-[s]... você está zombando de mim, não é?[n][w][e]
+[s]Você está brincando comigo, não é?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_15_R_12]
-[s]Mkay... sim, eu ficaria muito triste se nada[n]acontecesse.[n][w][e]
+[s]pito. Sim, eu ficaria terrivelmente[n]triste se isso não acontecesse.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_15_R_13]
-[s]Oh, er... Estou girando sobre uma nova folha![n][w][e]
+[s]Oh, um... Estou[n]mudando meu estilo de vida![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_15_R_14]
-[s]Eu entendo você. Os milagres só vêm quando o[n]Goin fica duro, sim?[n][w][e]
+[s]Eu entendo você. Milagres só acontecem[n]quando as coisas dão errado, hein?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_15_R_15]
-[s]Ugh, agora eu me sinto uma merda...[n][w][e]
+[s]Nossa, me sinto uma merda...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_15_R_16]
-[s]Então você não apostou no destino?... Estou[n]com ciúmes disso.[n][w][e]
+[s]Então você não acredita em destino?[n]O quanto eu invejo você...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_16]
-[s]... Olha, eu terminei. Não há como eu sair[n]disso.[n][w][e]
-[s]A vida não é nada além de dor de qualquer[n]maneira. Apenas faça o que quiser.[n][w][e]
+[s]...Olha, acabou. Eu não tenho[n]escape.[n][w][e]
+[s]Afinal, a vida é apenas[n]dor. Faça o que você quiser.[n][w][e]
 
 [sel TalkSel_GUY_CHAT_SQ_16 top]
 [s]Como o quê?[e]
-[s]Eu vou te matar devagar.[e]
-[s]Vamos viver juntos.[e]
+[s]Eu vou te matar lentamente.[e]
+[s]Nós vivemos juntos.[e]
 
 [msg TalkMsg_GUY_CHAT_SQ_16_R]
-[s]Vamos, você pode simplesmente se apressar e[n]tomar uma decisão?[n][w][e]
+[s]Você poderia decidir rapidamente?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_16_R_2]
-[s]Cara, você não pode me manter pendurado[n]assim.[n][w][e]
+[s]Cara, você não pode me deixar assim.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_16_R_3]
-[s]Faça o que fizer, faça bem.[n][w][e]
+[s]Faça o que fizer, faça direito.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_16_R_4]
-[s]Se você vai ficar lá, por que não chuto sua[n]bunda?[n][w][e]
+[s]Se você quer ficar aí, por que eu não te dou uma[n]boa lição?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_16_R_5]
-[s]Heh, saia aqui com seus liners de uma[n]assassinato.[n][w][e]
+[s]Ei, saia daqui[n]com suas piadas estúpidas.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_16_R_6]
-[s]Pare de me provocar, seu sádico![n][w][e]
+[s]Pare de me provocar, seu sádico feio![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_16_R_7]
 [s]Nããão! Qualquer coisa menos isso![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_16_R_8]
-[s]Vá em frente. Estou pronto.[n][w][e]
+[s]Poder. Estou pronto.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_16_R_9]
 [s]Espere o que? Isso é realmente uma opção?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_16_R_10]
-[s]Você é divertido de sair?[n][w][e]
+[s]Você é pelo menos divertido de ficar por aí?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_16_R_11]
-[s]Não, obrigado, cara. Você é mais problemas[n]do que vale.[n][w][e]
+[s]Não, obrigado, cara. Você realmente não vale a[n]pena.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_16_R_12]
-[s]Não é exatamente o que eu quero ouvir de um[n]cara apontando uma arma na minha cabeça.[n][w][e]
+[s]Isso não é realmente o que eu quero ouvir de um[n]cara que aponta uma arma para minha cabeça.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_16_R_13]
-[s]Você não tem que esfregar. Eu já desisti.[n][w][e]
+[s]Não coloque o dedo na ferida.[n]Eu já perdi.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_16_R_14]
-[s]Sabe, mesmo que eu tenha dito que você[n]poderia fazer o que quiser, há um limite[n]para essa merda.[n][w][e]
+[s]Olha, embora eu tenha dito que você pode fazer o[n]que quiser, há um limite para a decência.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_16_R_15]
 [s]Você está me dizendo para não desistir?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_16_R_16]
-[s]Gettin 'morto também é doloroso...[n][w][e]
+[s]Até morrer é doloroso...[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_SURREND]
 [s](cut)[n][w][e]
@@ -1392,507 +1392,507 @@
 
 [sel TalkSel_GUY_NEGO_SURREND top]
 [s]Quero você.[e]
-[s]...Dê-me dinheiro.[e]
+[s]...Me dê algum dinheiro.[e]
 [s]Eu quero um item raro.[e]
-[s]Eu quero um pouco de Intel.[e]
-[s]Abaixe o nível de segurança.[e]
+[s]Eu quero informações.[e]
+[s]Diminua o alerta.[e]
 
 [msg TalkMsg_GUY_NEGO_FIFTYFI]
-[s]Parece muito peludo... você pode me dar [n][var 0]Yen, certo?[n][w][e]
+[s]Parece um bom desafio...[n]Você pode me dar [var 0] ienes, certo?[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_FIFTYFI_2]
-[s]Isso é muito arriscado. Eu vou precisar de[n]um novo [n][f 2 5 3 9999 3]...[n][w][e]
+[s]Muito arriscado. Vou precisar[n]desse incentivo: [f 2 5 3 9999 3]...[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_FIFTYFI_3]
-[s]Isso vai ser duro com minha saúde.[n]Vou precisar de parte da sua vitalidade para[n]fazer isso.[n][w][e]
+[s]Vai ser difícil para mim.[n]Vou precisar de um pouco da sua[n]força vital para fazer isso.[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_FIFTYFI_4]
-[s]Uau, essa é uma ponte perigosa para[n]atravessar. Não posso convocar o testamento[n]se você não estiver preparado.[n][w][e]
+[s]Calma, isso é uma grande aposta.[n]A força de vontade não é suficiente[n]se você não estiver preparado.[n][w][e]
 
 [sel TalkSel_GUY_NEGO_FIFTYFI top]
-[s]Tudo bem, eu vou dar para você.[e]
-[s]Não posso atender às suas demandas.[e]
+[s]Tudo bem, tudo seu.[e]
+[s]Eu não posso agradar você.[e]
 
 [msg TalkMsg_GUY_NEGO_REQUIRE]
-[s]... Ugh, eu me sinto terrível! É tão quente![n][w][e]
-[s]Eu adoraria uma bebida antes de você jogar[n]um boné em mim. Você ficou um bom resfriado [n][f 2 5 3 9999 4]?[n][w][e]
+[s]...Ugh, não consigo![n]Estamos morrendo de calor![n][w][e]
+[s]Como eu gostaria de uma boa bebida antes de você[n]atirar em mim. Não é que você tem este objeto:[n][f 2 5 3 9999 4]?[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_REQUIRE_2]
-[s]*tosse* acho que estou chegando com a[n]gripe...[n][w][e]
-[s]Eu recebi um pedido antes de você colocar um[n]boné em mim- você conseguiu um deles [n][f 2 5 3 9999 4] coisas?[n][w][e]
+[s]*coff* A gripe[n]está me matando...[n][w][e]
+[s]Antes de me matar, você poderia me dar[n]este objeto: [f 2 5 3 9999 4]?[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_REQUIRE_3]
-[s]...Tempo esgotado! Meus olhos estão super[n]com coceira de todo esse pólen efin '![n][w][e]
-[s]Eu recebi um pedido antes de você colocar um[n]boné em mim- você conseguiu um deles [n][f 2 5 3 9999 4] coisas?[n][w][e]
+[s]Tempo esgotado! Meus olhos coçam com[n]este maldito pólen![n][w][e]
+[s]Antes de me matar, você poderia me dar[n]este objeto: [f 2 5 3 9999 4]?[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_REQUIRE_4]
-[s]...Resistir. Você quer dizer que você me[n]quer até outras sombras?[n][w][e]
-[s]Eu estaria carne morta se eles[n]descobrissem... mas você poderia mudar de[n]idéia com um bom ol ' [f 2 5 3 9999 4].[n][w][e]
+[s]Espere. Você quer que eu minta para as outras[n]Sombras?[n][w][e]
+[s]Se eles me pegarem, é o fim... Mas eu poderia[n]convencer a mim mesmo em troca deste item:[n][f 2 5 3 9999 4].[n][w][e]
 
 [sel TalkSel_GUY_NEGO_REQUIRE top]
-[s]Entregue [e]
-[s]Não entregue [e]
+[s]Entregue[e]
+[s]Não entregue[e]
 
 [msg TalkMsg_GUY_NEGO_PAYFOR_]
-[s]Tudo bem, estou confiando em você... aqui[n]está  [var 0]Yen.[n][w][e]
+[s]Ok, eu tento[n]confiar... Aqui está você [var 0] iene.[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_PAYFOR__2]
-[s]Esse deveria ser o meu dinheiro para o[n]almoço, mas você sabe, que diabos.[n]Aqui está [var 0]Yen.[n][w][e]
+[s]Era o dinheiro do meu almoço,[n]que diabos![n]Aqui está [var 0] ienes.[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_PAYFOR__3]
-[s]Aqui está isso [f 2 5 3 9999 1]. Isso é tudo o que recebi agora.[n][w][e]
+[s]Pegue este item: [f 2 5 3 9999 1].[n]É tudo o que tenho.[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_PAYFOR__4]
-[s]Eu estive salvando isso há um dia chuvoso,[n]mas aqui. Você pode ter meu [n][f 2 5 3 9999 1].[n][w][e]
+[s]Eu costumava mantê-lo aquecido para os dias[n]chuvosos, mas não importa. Pegue este item: [n][f 2 5 3 9999 1].[n][w][e]
 
 [sel TalkSel_GUY_NEGO_PAYFOR top]
-[s]Eu vou levar.[e]
-[s][clr 2]Você pode fazer melhor do que isso.[clr 27][e]
+[s]Estou dentro.[e]
+[s][clr 2]Você pode fazer melhor.[clr 27][e]
 
 [msg TalkMsg_GUY_NEGO_Re_ACCE]
-[s]Então é assim que vai? Acho que não tenho[n]uma escolha...[n][w][e]
+[s]Então é assim que deve ser?[n]Receio não ter escolha...[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_Re_ACCE_2]
-[s]Você não está indo bem para mim, hein?[n]Bom...[n][w][e]
+[s]Você não vai pegar leve comigo, hein? Tudo bem[n]então...[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_Re_ACCE_3 [Ryuji]]
 
 [msg TalkMsg_GUY_RESULT_GET_P]
-[s]Eu não sou uma sombra que vive aqui! Eu sou[n]do mar de almas de vocês humanos![n][w][e]
-[s]Eu estou [clr 1][var 2][clr 27].[n]De agora em diante, eu sou você.[n][w][e]
+[s]Eu não sou uma sombra dessas[n]partes! Eu venho do mar de[n]almas humanas![n][w][e]
+[s]Eles são [clr 1][var 2][clr 27]. De agora em diante,[n]seremos um.[n][w][e]
 
 [msg TalkMsg_GUY_RESULT_GET_P_2]
-[s]Oh... você já sabe [n][clr 1][var 2][clr 27]?[n][w][e]
+[s]Ah... você já conhece[n][clr 1][var 2][clr 27]?[n][w][e]
 
 [msg TalkMsg_GUY_RESULT_GET_P_3]
-[s]O que- você é muito fraco, cara...[n]Apenas pegue isso [f 2 5 3 9999 1]e saia aqui.[n][w][e]
+[s]Mas o que!?! Você é muito fraco.[n]Pegue este item: [f 2 5 3 9999 1].[n]E vá embora.[n][w][e]
 
 [msg TalkMsg_GUY_RESULT_GET_M]
-[s]Olhar, [var 0]Yen. Não importa quantas vezes você conte,[n]sempre será a mesma quantidade.[n][w][e]
+[s]Olha, [var 0] ienes. Não perca tempo contando,[n]eles não vão se multiplicar.[n][w][e]
 
 [msg TalkMsg_GUY_RESULT_GET_I]
-[s]Aqui, pegue isso [f 2 5 3 9999 1].[n]Voltarei e assombro você se você o[n]desperdiçar![n][w][e]
+[s]Aqui, pegue este item: [f 2 5 3 9999 1].[n]Voltarei para assombrá-lo,[n]se você não fizer bom uso dele![n][w][e]
 
 [msg TalkMsg_GUY_RESULT_GET_S]
-[s]Olha, eu tenho algo para lhe dizer, mas você[n]não ouviu isso de mim. Percebido?[n]É muito louco...[n][w][e]
+[s]Ouça, eu posso te dizer uma coisa,[n]mas não diga que você ouviu isso[n]de mim. OK? É coisa difícil...[n][w][e]
 
 [msg TalkMsg_GUY_RESULT_ENEMY]
-[s]O que!? Nós não temos nada de falar![n][w][e]
+[s]O que?!? Não temos nada para discutir![n][w][e]
 
 [msg TalkMsg_GUY_RESULT_ENEMY_2]
-[s]Eu não tinha outra escolha...[n]Você se deixou aberto![n][w][e]
+[s]Eu não tive outra escolha...[n]Você se expôs demais![n][w][e]
 
 [msg TalkMsg_GUY_RESULT_ENEMY_3]
-[s]Huh? Isso ainda não é suficiente? Mkay,[n]estou trazendo um amigo para fora![n][w][e]
+[s]Hã? Isso nem chega...[n]'pito, é hora de chamar seus amigos![n][w][e]
 
 [msg TalkMsg_GUY_RESULT_ENEMY_4]
-[s]Estou com ashin 'Outta aqui![n][w][e]
+[s]Eu escorrego![n][w][e]
 
 [msg TalkMsg_GUY_RESULT_ENEMY_5]
-[s]Gente, aqui! Nossa nova vida é apenas assim![n][w][e]
+[s]Pessoal, aqui embaixo! Nossa nova vida acabou[n]aqui![n][w][e]
 
 [msg TalkMsg_GUY_RESULT_ENEMY_6]
-[s]Ah você...? Eu? Huh!? O que estamos fazendo?[n][w][e]
+[s]Ah você...? O? Eh!?![n]O que estamos fazendo...?[n][w][e]
 
 [msg TalkMsg_GUY_RESULT_ENEMY_7]
-[s]Ah! Voltam! Estou fora daqui![n][w][e]
+[s]Ah! Afaste-se! Estou de partida![n][w][e]
 
 [msg TalkMsg_GUY_RESULT_ENEMY_8]
 [s]......[n][w][e]
 
 [msg TalkMsg_GUY_RESULT_ENEMY_9]
-[s]Estou tão irritado agora! Eu não vou ouvir o[n]que você diz![n][w][e]
-[s]Espere, por que fiquei chateado? Talvez eu[n]deva ouvir você...[n][w][e]
+[s]Estou furioso! Não[n]ouvirei uma única palavra que[n]saia da sua boca![n][w][e]
+[s]Espere... por que eu estava gritando?[n]Talvez eu devesse ouvir você...[n][w][e]
 
 [msg TalkMsg_RESULT_GET_SECRE]
-[s]O que? Você já sabe... aqui, pegue essa[n]merda.[n][w][e]
+[s]Coisa? Você já sabe...[n]Então pegue isso.[n][w][e]
 
 [msg TalkMsg_SURRENDER_FROM_C]
-[s]Vamos desistir, sim? Eu já tive o suficiente[n]dessa merda de Tryhard.[n][w][e]
+[s]Vamos terminar isso rapidamente, OK? Eu já[n]o suficiente dessa merda.[n][w][e]
 
 [msg TalkMsg_SUCCESS_SKIMMING]
-[s]É isso que você está procurando? Você não[n]perde nada, hein?[n][w][e]
+[s]Você está procurando por isso, talvez?[n]Você não perde nada, hein?[n][w][e]
 
 [msg TalkMsg_RESULT_ENEMY_SHO]
-[s]Guh, Gah...[n][w][e]
+[s]Gu, ga...[n][w][e]
 
 [msg TalkMsg_RESULT_ENEMY_SLE]
-[s]ZZZ...[n][w][e]
+[s]Zzz...[n][w][e]
 
 [msg TalkMsg_RESULT_ENEMY_FLA]
-[s]Quente quente quente! Faça alguma coisa...![n][w][e]
-[s]Oh, espere, acho que estou acostumado com[n]esse calor. Acho que posso falar.[n][w][e]
+[s]Queimar! queimar! Faça alguma coisa![n][w][e]
+[s]Oh espere. Estou me acostumando.[n]Acho que posso falar com você.[n][w][e]
 
 [msg TalkMsg_RESULT_ENEMY_VER]
-[s]Minha cabeça está girando... se você tem[n]negócios comigo, faça-o rápido.[n][w][e]
-[s]Oh, espere, acho que estou me acostumando[n]com essa tontura. Acho que posso falar.[n][w][e]
+[s]Minha cabeça está girando... Se você tem[n]negócios inacabados comigo, se apresse.[n][w][e]
+[s]Oh espera, a vertigem...[n]Eu me acostumei com isso.[n]Acho que posso falar com você.[n][w][e]
 
 [msg TalkMsg_RESULT_ENEMY_FOR]
-[s]Estou esquecendo alguma coisa... bem, vou[n]ouvir você, mas vou esquecer o que você diz.[n][w][e]
-[s]Oh espere, acho que estou começando a[n]lembrar...[n]Acho que posso falar.[n][w][e]
+[s]Há algo que não está certo para mim...[n]Bem, vou ouvir você, mas provavelmente vou[n]esquecer tudo...[n][w][e]
+[s]...Oh, espere, talvez eu esteja começando a[n]lembrar...[n]Talvez possamos conversar.[n][w][e]
 
 [msg TalkMsg_RESULT_ENEMY_DES]
-[s]Minha vida acabou... por que você está[n]falando comigo?[n][w][e]
-[s]Oh espere, você precisa de mim por algo?[n]Então eu acho que é melhor ouvir.[n][w][e]
+[s]Eu não tenho escapatória... Por que diabos você[n]está falando comigo...?[n][w][e]
+[s]Oh espere, você precisa de mim para alguma coisa?[n]Então eu acho que é melhor você ouvir.[n][w][e]
 
 [msg TalkMsg_RESULT_ENEMY_BRA]
-[s]Alguém está... sussurrando para mim...[n]Dizer que eu sou meu melhor eu...[n][w][e]
+[s]Alguém... está sussurrando para mim...[n]para me tornar uma pessoa melhor.[n][w][e]
 
 [msg TalkMsg_RESULT_BRAINWASH]
-[s]Ooh, esse é o meu caminho canhão...[n][w][e]
-[s]...Oh maldito! Eu me lembro agora![n][w][e]
+[s]Esse é o meu caminho brilhante.[n][w][e]
+[s]... Ah Merda! Agora eu lembro![n][w][e]
 
 [msg TalkMsg_RESULT_BRAINWASH_2]
-[s]Espere, é meu...[n][w][e]
-[s]Espere não, isso não vai me fazer brilhar![n][w][e]
+[s]Espera, mas é...[n][w][e]
+[s]Não, espere, então não vou[n]elevar nada...![n][w][e]
 
 [msg TalkMsg_RESULT_BRAINWASH_3]
-[s]Talvez dando todo o meu dinheiro para[n]resolver meus problemas...[n][w][e]
-[s]Aqui está o pagamento por me ajudar.[n][w][e]
+[s]Talvez me despojar de meus pertences resolva[n]todos os meus problemas...[n][w][e]
+[s]Aqui está uma recompensa por sua ajuda.[n][w][e]
 
 [msg TalkMsg_RESULT_BRAINWASH_4]
-[s]Oh, então há outra maneira de eu estar[n]vivendo...[n][w][e]
-[s]Não, isso é burro como merda![n][w][e]
+[s]Oh, então eu poderia viver de outra[n]outra maneira...[n][w][e]
+[s]Não, o que estou dizendo!?![n][w][e]
 
 [msg TalkMsg_RESULT_BRAINWASH_5]
-[s]Oh, então há outra maneira de estar[n]vivendo...[n]Aqui, tome isso como obrigado por me ajudar.[n][w][e]
+[s]Ah, então tem outro jeito de[n]viver... Aqui, pegue. É meu[n]obrigado por sua ajuda.[n][w][e]
 
 [msg TalkMsg_RESULT_BRAINWASH_6]
-[s]Oh, então há outra maneira de eu estar[n]vivendo...[n][w][e]
-[s]Não, isso é burro como merda![n][w][e]
+[s]Oh, então eu poderia viver de outra[n]outra maneira...[n][w][e]
+[s]Não, o que estou dizendo!?![n][w][e]
 
 [msg TalkMsg_RESULT_BRAINWASH_7]
-[s]Então esse é o caminho que eu tenho que ir.[n]Obrigado por abrir meus olhos. Aqui, tenha[n]isso.[n][w][e]
+[s]Então esse é o caminho que eu[n]devo trilhar. Obrigado por[n]abrir meus olhos. Aqui, pegue.[n][w][e]
 
 [msg TalkMsg_CONTACT_11]
-[s]Hahaha! Algum ladrão de Skulkin nunca vai[n]derrubar o rei Kamoshida.[n][w][e]
+[s]Hahaha! Algum ladrão mesquinho do[n]zero nunca vencerá o[n]Rei Kamoshida.[n][w][e]
 
 [msg TalkMsg_CONTACT_12]
-[s]Hahaha! Algum ladrão de Skulkin nunca vai[n]derrubar Lord Madarame.[n][w][e]
+[s]Hahaha! Algum ladrão mesquinho de[n]rough nunca vencerá[n]Lord Madarame.[n][w][e]
 
 [msg TalkMsg_CONTACT_13]
-[s]Hahaha! Algum ladrão de Skulkin nunca vai[n]derrubar o Sr. Kaneshiro.[n][w][e]
+[s]Hahaha! Algum ladrão mesquinho de[n]rough nunca vencerá[n]Kaneshiro-sama.[n][w][e]
 
 [msg TalkMsg_CONTACT_14]
-[s]Hahaha! Algum ladrão de Skulkin nunca vai[n]derrubar o mestre deste lugar.[n][w][e]
+[s]Hahaha! Algum ladrão mesquinho de[n]rústica nunca vencerá[n]o senhor deste lugar.[n][w][e]
 
 [msg TalkMsg_CONTACT_15]
-[s]Hahaha! Algum ladrão de Skulkin nunca vai[n]derrubar Lord Okumura.[n][w][e]
+[s]Hahaha! Algum ladrão mesquinho de[n]rough nunca vencerá[n]Lord Okumura![n][w][e]
 
 [msg TalkMsg_CONTACT_16]
-[s]Hahaha! Algum ladrão de Skulkin nunca vai[n]derrubar Lady Niijima.[n][w][e]
+[s]Hahaha! Algum ladrão mesquinho de[n]rough nunca vencerá[n]Lady Niijima![n][w][e]
 
 [msg TalkMsg_CONTACT_17]
-[s]Hahaha! Algum ladrão de Skulkin nunca vai[n]derrubar o mestre Akechi.[n][w][e]
+[s]Hahaha! Algum ladrão mesquinho de[n]rough nunca vencerá[n]Mestre Akechi.[n][w][e]
 
 [msg TalkMsg_CONTACT_18]
-[s]Hahaha! Algum ladrão de Skulkin nunca vai[n]derrubar o Senhor Shido.[n][w][e]
+[s]Hahaha! Algum ladrão mesquinho de[n]rough nunca vencerá[n]Lord Shido![n][w][e]
 
 [msg TalkMsg_CONTACT_19]
-[s]Hahaha! Algum ladrão de Skulkin nunca vai[n]derrubar sua excelência.[n][w][e]
+[s]Hahaha! Algum ladrão mesquinho do[n]zero nunca vencerá[n]Sua Excelência![n][w][e]
 
 [msg TalkMsg_CONTACT_10]
-[s]Hahaha! Algum ladrão de Skulkin nunca vai[n]derrubar o chefe secreto![n][w][e]
+[s]Hahaha! Algum ladrão mesquinho da[n]rústica nunca vencerá[n]o chefe secreto.[n][w][e]
 
 [msg TalkMsg_CONTACT_MEMENTOS]
-[s]Y-you! O que você está planejando?[n][w][e]
+[s]V-Você! Que intenções você tem?[n][w][e]
 
 [msg TalkMsg_CONTACT_MEMENTOS_2]
-[s]Owww... você é terrível...[n][w][e]
+[s]Oooooh... Você é terrível...[n][w][e]
 
 [msg TalkMsg_CONTACT_MEMENTOS_3]
-[s]Ugh, você é muito forte...[n][w][e]
+[s]Ugh, você é muito legal...[n][w][e]
 
 [msg TalkMsg_GREET_POSSESSING]
-[s]...Huh? Você já tem uma máscara de [clr 1][var 2][clr 27]...[n]Então eu vou te tratar bem.[n][w][e]
+[s]...Hã? Você já tem a[n]máscara de [clr 1][var 2][clr 27]...[n]Então vou te tratar bem.[n][w][e]
 
 [msg TalkMsg_NEGO_POSSESSING_]
-[s]Você quer dinheiro? Isso o suficiente?[n][w][e]
+[s]Você quer algum dinheiro? São suficientes?[n][w][e]
 
 [msg TalkMsg_NEGO_POSSESSING__2]
-[s]Você quer itens, certo? Aqui, é seu.[n][w][e]
+[s]Ei, você quer alguns itens, certo?[n]Aqui, é seu.[n][w][e]
 
 [msg TalkMsg_GREET_POSSESSED]
-[s]Costumávamos estar juntos... mas agora não[n]somos. E ainda estamos nos encontrando aqui[n]de novo...[n][w][e]
+[s]Antes éramos camaradas ... mas[n]agora não mais. E, no entanto, aqui estamos[n]novamente ...[n][w][e]
 
 [msg TalkMsg_NEGO_POSSESSED]
-[s]Eu não vou segurar contra você. Lutar não[n]resolve merda.[n][w][e]
+[s]Não vou culpá-lo.[n]Discutir é inútil.[n][w][e]
 
 [msg TalkMsg_NEGO_POSSESSED_M]
-[s]... dinheiro está bem, certo? Eu só tenho[n]isso em mim.[n][w][e]
+[s]...Que tal o dinheiro? Eu tenho esta pequena[n]quantia comigo.[n][w][e]
 
 [msg TalkMsg_NEGO_POSSESSED_I]
-[s]... itens são bons, sim? Aqui, pegue isso.[n][w][e]
+[s]...Itens estão bem, não estão?[n]Aqui, pegue.[n][w][e]
 
 [msg TalkMsg_GREET_POSSESSED_]
-[s]Ei, quer começar de novo? Vamos conversar.[n][w][e]
+[s]Ei, quer começar de novo?[n]Vamos conversar sobre isso.[n][w][e]
 
 [msg TalkMsg_TALK_POSSESSED_B]
-[s]Cara, lembro-me dos bons e velhos dias.[n][w][e]
+[s]Oh, eu me lembro dos bons velhos tempos.[n][w][e]
 
 [msg TalkMsg_NEGO_POSSESSED_B]
-[s]Isso é verdade... não adianta se preocupar[n]com isso agora.[n][w][e]
+[s]Sim, é verdade... É inútil[n]pensar nisso agora.[n][w][e]
 
 [msg TalkMsg_NEGO_POSSESSED_B_2]
-[s]Aposto que você só quer algum dinheiro...[n]*suspiro* [n][w][e]
+[s]Aposto que você só se importa com[n]dinheiro... *suspiro*[n][w][e]
 
 [msg TalkMsg_NEGO_POSSESSED_B_3]
-[s]Você está olhando para isso? Aqui, pegue.[n][w][e]
+[s]Você está procurando por isso...? Aqui, pegue.[n][w][e]
 
 [msg TalkMsg_FIRST_CONTACT]
-[s]... Então vamos falar. Não posso[n]simplesmente emprestar meu poder a Joe[n]Shmoe.[n][w][e]
+[s]...Então vamos falar sobre isso. Não posso[n]conceder meu poder ao primeiro que passar.[n][w][e]
 
 [msg TalkMsg_PRE_QUESTION]
-[s]... na verdade, conversamos antes? Minha[n]memória não é tão boa... que tal falarmos[n]um pouco mais?[n][w][e]
+[s]Mmh, já não conversamos?[n]Minha memória está uma bagunça...[n]Gostaria de conversar de novo?[n][w][e]
 
 [msg TalkMsg_PRE_QUESTION_ACQ]
-[s]Esse é o espírito.[n][w][e]
+[s]Este é o espírito certo.[n][w][e]
 
 [msg TalkMsg_PRE_QUESTION_DEN]
-[s]Você está gelado, mano. Relacionável. Uau,[n]cara... está tudo voltando de volta![n][w][e]
+[s]Você está congelando, cara. Compreensível.[n]Nossa, legal... Agora tudo volta![n][w][e]
 
 [msg TalkMsg_TALK_TECH_ITEM]
-[s]Huh? Algo cheira a peixe aqui.[n]Eu não estou caindo por isso![n][w][e]
+[s]Hã? Algo me fede.[n]Eu não caio nessa![n][w][e]
 
 [msg TalkMsg_TALK_TECH_PERSON]
-[s]Você é um falador suave, assim como eu...[n]Uau, cara, eu me lembro agora![n][w][e]
+[s]Você é bom com as palavras, assim como eu... Ei,[n]agora eu me lembro![n][w][e]
 
 [msg TalkMsg_SETTLE_DOWN]
-[s]Eu era uma piada, cara. De qualquer forma,[n]ouça isso...[n][w][e]
+[s]E-isso foi uma piada, cara.[n]De qualquer forma, entenda isso.[n][w][e]
 
 [msg TalkMsg_RESULT_SHOT_1]
-[s]Uau, que diabos? Você já não está com[n]vontade de falar?[n][w][e]
-[s]Então é assim que você quer jogar!?[n][w][e]
+[s]Ei, que diabos? Você já se cansou de falar?[n][w][e]
+[s]Então é assim que você quer colocar?[n][w][e]
 
 [msg TalkMsg_RESULT_SHOT_2]
-[s]Wahhh, mamãe![n][w][e]
-[s]Huh? Oh, eu não sou atingido. Nesse caso...[n][w][e]
+[s]Wahhh, mamãeaaa![n][w][e]
+[s]Hã? Oh, eu não fui atingido.[n]Nesse caso...[n][w][e]
 
 [msg TalkMsg_RESULT_SHOT_3]
-[s]Eeek! Saia aqui, Shadow Killer![n][w][e]
+[s]Eeek! Saia daqui,[n]mate Shadows![n][w][e]
 
 [msg TalkMsg_RESULT_SHOT_4]
-[s]Irreal! H-Here, eu vou te dar isso.[n]Apenas me perdoe![n][w][e]
+[s]Incrível! A-Aqui, pegue.[n]Mas me perdoe![n][w][e]
 
 [msg TalkMsg_RESULT_GET_PERSO]
-[s]Eu não sou uma sombra que vive aqui! Eu sou[n]do mar de almas de vocês humanos![n][w][e]
-[s]Eu estou [clr 1][var 2][clr 27].[n]De agora em diante, eu sou você.[n][w][e]
+[s]Eu não sou uma sombra dessas[n]partes! Eu venho do mar de[n]almas humanas![n][w][e]
+[s]Eles são [clr 1][var 2][clr 27]. De agora em diante,[n]seremos um.[n][w][e]
 
 [msg TalkMsg_RESULT_GET_PERSO_2]
-[s]Eu não sou uma sombra que vive aqui! Eu sou[n]do mar de almas de vocês humanos![n][w][e]
-[s]Eu estou [clr 1][var 2][clr 27].[n]De agora em diante, eu sou você.[n][w][e]
+[s]Eu não sou uma sombra dessas[n]partes! Eu venho do mar de[n]almas humanas![n][w][e]
+[s]Eles são [clr 1][var 2][clr 27]. De agora em diante,[n]seremos um.[n][w][e]
 
 [msg TalkMsg_RESULT_GET_PERSO_3]
-[s]Eu não sou uma sombra que vive aqui! Eu sou[n]do mar de almas de vocês humanos![n][w][e]
-[s]Eu estou [clr 1][var 2][clr 27].[n]De agora em diante, eu sou você.[n][w][e]
+[s]Eu não sou uma sombra dessas[n]partes! Eu venho do mar de[n]almas humanas![n][w][e]
+[s]Eles são [clr 1][var 2][clr 27]. De agora em diante,[n]seremos um.[n][w][e]
 
 [msg TalkMsg_RESULT_GET_PERSO_4]
-[s]Eu não sou uma sombra que vive aqui! Eu sou[n]do mar de almas de vocês humanos![n][w][e]
-[s]Eu estou [clr 1][var 2][clr 27].[n]De agora em diante, eu sou você.[n][w][e]
+[s]Eu não sou uma sombra dessas[n]partes! Eu venho do mar de[n]almas humanas![n][w][e]
+[s]Eles são [clr 1][var 2][clr 27]. De agora em diante,[n]seremos um.[n][w][e]
 
 [msg TalkMsg_RESULT_GET_PERSO_5]
-[s]Eu não sou uma sombra que vive aqui! Eu sou[n]do mar de almas de vocês humanos![n][w][e]
-[s]Eu estou [clr 1][var 2][clr 27].[n]De agora em diante, eu sou você.[n][w][e]
+[s]Eu não sou uma sombra dessas[n]partes! Eu venho do mar de[n]almas humanas![n][w][e]
+[s]Eles são [clr 1][var 2][clr 27]. De agora em diante,[n]seremos um.[n][w][e]
 
 [msg TalkMsg_RESULT_GET_PERSO_6]
-[s]Eu não sou uma sombra que vive aqui! Eu sou[n]do mar de almas de vocês humanos![n][w][e]
-[s]Eu estou [clr 1][var 2][clr 27].[n]De agora em diante, eu sou você.[n][w][e]
+[s]Eu não sou uma sombra dessas[n]partes! Eu venho do mar de[n]almas humanas![n][w][e]
+[s]Eles são [clr 1][var 2][clr 27]. De agora em diante,[n]seremos um.[n][w][e]
 
 [msg TalkMsg_RESULT_GET_PERSO_7]
-[s]Eu não sou uma sombra que vive aqui! Eu sou[n]do mar de almas de vocês humanos![n][w][e]
-[s]Eu estou [clr 1][var 2][clr 27].[n]De agora em diante, eu sou você.[n][w][e]
+[s]Eu não sou uma sombra dessas[n]partes! Eu venho do mar de[n]almas humanas![n][w][e]
+[s]Eles são [clr 1][var 2][clr 27]. De agora em diante,[n]seremos um.[n][w][e]
 
 [msg TalkMsg_RESULT_GET_PERSO_8]
-[s]Eu não sou uma sombra que vive aqui! Eu sou[n]do mar de almas de vocês humanos![n][w][e]
-[s]Eu estou [clr 1][var 2][clr 27].[n]De agora em diante, eu sou você.[n][w][e]
+[s]Eu não sou uma sombra dessas[n]partes! Eu venho do mar de[n]almas humanas![n][w][e]
+[s]Eles são [clr 1][var 2][clr 27]. De agora em diante,[n]seremos um.[n][w][e]
 
 [msg TalkMsg_RESULT_GET_PERSO_9]
-[s]Eu não sou uma sombra que vive aqui! Eu sou[n]do mar de almas de vocês humanos![n][w][e]
-[s]Eu estou [clr 1][var 2][clr 27].[n]De agora em diante, eu sou você.[n][w][e]
+[s]Eu não sou uma sombra dessas[n]partes! Eu venho do mar de[n]almas humanas![n][w][e]
+[s]Eles são [clr 1][var 2][clr 27]. De agora em diante,[n]seremos um.[n][w][e]
 
 [msg TalkMsg_RESULT_GET_PERSO_10]
-[s]Eu não sou uma sombra que vive aqui! Eu sou[n]do mar de almas de vocês humanos![n][w][e]
-[s]Eu estou [clr 1][var 2][clr 27].[n]De agora em diante, eu sou você.[n][w][e]
+[s]Eu não sou uma sombra dessas[n]partes! Eu venho do mar de[n]almas humanas![n][w][e]
+[s]Eles são [clr 1][var 2][clr 27]. De agora em diante,[n]seremos um.[n][w][e]
 
 [msg TalkMsg_ED_bye_D01_01]
-[s]Hmph. Não importa o quão forte você pense[n]que você é... você não será uma combinação[n]para o rei Kamoshida.[n][w][e]
+[s]Tsk. Não importa o quão forte você pense que é...[n]Você não pode se opor ao rei Kamoshida.[n][w][e]
 
 [msg TalkMsg_ED_bye_D01_02]
-[s]Heh, você acha que o poder vai se sustentar[n]contra o rei Kamoshida?[n][w][e]
+[s]Eheh, você realmente acha que seu[n]poder é suficiente contra o Rei Kamoshida?[n][w][e]
 
 [msg TalkMsg_ED_bye_D01_03]
-[s]Vou te dizer agora, o caminho do rei[n]Kamoshida mais forte do que você.[n][w][e]
+[s]Confie em mim, o Rei Kamoshida é[n]muito mais forte do que vocês[n]dublês.[n][w][e]
 
 [msg TalkMsg_ED_bye_D02_01]
-[s]Hmph. Não importa o quão forte você pense[n]que você é... você não será uma combinação[n]para Lord Madarame.[n][w][e]
+[s]Tsk. Não importa o quão forte você pense que é...[n]Você não pode se opor a Lord Madarame.[n][w][e]
 
 [msg TalkMsg_ED_bye_D02_02]
-[s]Heh, você acha que o poder vai se manter[n]contra Lord Madarame?[n][w][e]
+[s]Heheh, você realmente acha que seu[n]poder é suficiente contra Lord Madarame?[n][w][e]
 
 [msg TalkMsg_ED_bye_D02_03]
-[s]Vou te dizer agora, o caminho de Lord[n]Madarame mais forte do que você.[n][w][e]
+[s]Confie em mim, Lord Madarame é[n]montes mais forte do que vocês[n]dublês.[n][w][e]
 
 [msg TalkMsg_ED_bye_D03_01]
-[s]Hmph. Não importa o quão forte você pense[n]que você é... você não será uma combinação[n]para o Sr. Kaneshiro.[n][w][e]
+[s]Tsk. Não importa o quão forte você pense que é...[n]Você não será capaz de resistir a Kaneshiro-sama.[n][w][e]
 
 [msg TalkMsg_ED_bye_D03_02]
-[s]Heh, você acha que o poder vai se manter[n]contra o Sr. Kaneshiro?[n][w][e]
+[s]Você realmente acha que seu poder[n]é suficiente contra Kaneshiro-sama?[n][w][e]
 
 [msg TalkMsg_ED_bye_D03_03]
-[s]Vou te dizer agora, o Sr. Kaneshiro é mais[n]forte do que você.[n][w][e]
+[s]Acredite em mim, Kaneshiro-sama é[n]muito mais forte do que seus merdinhas.[n][w][e]
 
 [msg TalkMsg_ED_bye_D04_01]
-[s]De qualquer forma, acho que você nem vai[n]chegar ao meu mestre.[n][w][e]
+[s]De qualquer forma, duvido que você consiga chegar[n]ao meu mestre.[n][w][e]
 
 [msg TalkMsg_ED_bye_D04_02]
-[s]Deixe-me dizer que seria do seu interesse[n]não ir atrás do meu mestre.[n][w][e]
+[s]Ouça-me com atenção, não é conveniente para você[n]colocar-se contra meu mestre.[n][w][e]
 
 [msg TalkMsg_ED_bye_D04_03]
-[s]Heh, acho que você não vai alcançar meu[n]mestre tão facilmente![n][w][e]
+[s]Não pense que você pode alcançar[n]meu mestre tão facilmente![n][w][e]
 
 [msg TalkMsg_ED_bye_D05_01]
-[s]Hmph. Não importa o quão forte você pense[n]que você é... você não será uma combinação[n]para Lord Okumura.[n][w][e]
+[s]Tsk. Não importa o quão forte você pense que é...[n]Você não pode se opor ao Senhor Okumura.[n][w][e]
 
 [msg TalkMsg_ED_bye_D05_02]
-[s]Heh, você acha que o poder vai se manter[n]contra Lord Okumura?[n][w][e]
+[s]Heheh, você realmente acha que seu[n]poder é suficiente contra Lord Okumura?[n][w][e]
 
 [msg TalkMsg_ED_bye_D05_03]
-[s]Vou te dizer agora, o caminho de Lord[n]Okumura mais forte do que você.[n][w][e]
+[s]Confie em mim, Lord Okumura é[n]montes mais forte do que vocês[n]dublês.[n][w][e]
 
 [msg TalkMsg_ED_bye_D06_01]
-[s]Hmph. Não importa o quão forte você pense[n]que você é... você não será uma combinação[n]para Lady Niijima.[n][w][e]
+[s]Tsk. Não importa o quão forte você pense que é...[n]Você não pode se opor a Lady Niijima.[n][w][e]
 
 [msg TalkMsg_ED_bye_D06_02]
-[s]Heh, você acha que o poder vai se sustentar[n]contra Lady Niijima?[n][w][e]
+[s]Hehe, você realmente acha que seu[n]poder é suficiente contra Lady Niijima?[n][w][e]
 
 [msg TalkMsg_ED_bye_D06_03]
-[s]Vou te dizer agora, o caminho mais forte de[n]Lady Niijima do que você.[n][w][e]
+[s]Acredite em mim, Lady Niijima é[n]muito mais forte do que vocês[n]dublês.[n][w][e]
 
 [msg TalkMsg_ED_bye_D07_01]
-[s]Hmph. Não importa o quão forte você pense[n]que você é... você não será uma combinação[n]para o mestre Akechi.[n][w][e]
+[s]Tsk. Não importa o quão forte você pense que é...[n]Você não pode se opor ao Mestre Akechi.[n][w][e]
 
 [msg TalkMsg_ED_bye_D07_02]
-[s]Heh, você acha que o poder vai se sustentar[n]contra o mestre Akechi?[n][w][e]
+[s]Hehe, você realmente acha que seu[n]poder é suficiente contra o Mestre Akechi?[n][w][e]
 
 [msg TalkMsg_ED_bye_D07_03]
-[s]Vou te dizer agora, mestre Akechi's muito[n]mais forte do que você.[n][w][e]
+[s]Acredite em mim, Mestre Akechi é[n]muito mais forte do que seus merdinhas.[n][w][e]
 
 [msg TalkMsg_ED_bye_D08_01]
-[s]Hmph. Não importa o quão forte você pense[n]que você é... você não será uma combinação[n]para Lord Shido.[n][w][e]
+[s]Tsk. Não importa o quão forte você pense que é...[n]Você não pode se opor ao Senhor Shido.[n][w][e]
 
 [msg TalkMsg_ED_bye_D08_02]
-[s]Heh, você acha que o poder vai se manter[n]contra o lorde Shido?[n][w][e]
+[s]Eheh, você realmente acha que seu[n]poder é suficiente contra Lord Shido?[n][w][e]
 
 [msg TalkMsg_ED_bye_D08_03]
-[s]Vou te dizer agora, o muito forte de Lord[n]Shido do que você.[n][w][e]
+[s]Acredite em mim, Lord Shido é[n]pesado mais forte do que vocês[n]acrobacias.[n][w][e]
 
 [msg TalkMsg_ED_bye_D09_01]
-[s]Hmph. Não importa o quão forte você pense[n]que você é... você não será uma combinação[n]para a excelência dele.[n][w][e]
+[s]Tsk. Não importa o quão forte você pense que é...[n]Você não será capaz de se opor a Sua Excelência.[n][w][e]
 
 [msg TalkMsg_ED_bye_D09_02]
-[s]Heh, você acha que o poder vai se sustentar[n]contra sua excelência?[n][w][e]
+[s]Eheh, você realmente acha que sua[n]força é suficiente contra Sua Excelência?[n][w][e]
 
 [msg TalkMsg_ED_bye_D09_03]
-[s]Vou te dizer agora, a excelência dele está[n]mais forte do que você.[n][w][e]
+[s]Acredite em mim, Sua Excelência é[n]enormemente mais forte do que vocês[n]besteiras.[n][w][e]
 
 [msg TalkMsg_ED_bye_D10_01]
-[s]Hmph. Não importa o quão forte você pense[n]que você é... você não será uma combinação[n]para o chefe secreto.[n][w][e]
+[s]Tsk. Não importa o quão forte você pense que é...[n]Você não será capaz de se opor ao chefe secreto.[n][w][e]
 
 [msg TalkMsg_ED_bye_D10_02]
-[s]Heh, você acha que o poder vai se manter[n]contra o chefe secreto?[n][w][e]
+[s]Heheh, você realmente acha que sua força é[n]suficiente contra o chefe secreto?[n][w][e]
 
 [msg TalkMsg_ED_bye_D10_03]
-[s]Vou te dizer agora, o chefe secreto é muito[n]mais forte do que você.[n][w][e]
+[s]Acredite em mim, o chefe secreto é[n]muito mais forte do que seus merdinhas.[n][w][e]
 
 [msg TalkMsg_CONTACT_11_1]
-[s]Esperar! Pare! Eu vou contar ao rei[n]Kamoshida![n][w][e]
+[s]Espere! Parado! Eu contarei a[n]a Rei Kamoshida![n][w][e]
 
 [msg TalkMsg_CONTACT_11_2]
-[s]Apenas me ajude! Eu juro que não vou contar[n]ao rei kamoshida...[n][w][e]
+[s]Ajude-me! Eu juro que não vou[n]contar ao Rei Kamoshida...[n][w][e]
 
 [msg TalkMsg_CONTACT_11_3]
-[s]Esperar! Vou te dar qualquer coisa![n][w][e]
+[s]Parado! Eu vou te dar qualquer coisa![n][w][e]
 
 [msg TalkMsg_CONTACT_12_1]
-[s]Esperar! Pare! Eu vou contar a Lord Madarame![n][w][e]
+[s]Espere! Parado! Eu direi[n]ao Senhor Madarame![n][w][e]
 
 [msg TalkMsg_CONTACT_12_2]
-[s]Apenas me ajude! Eu juro que não vou contar[n]a Senhor Madarame...[n][w][e]
+[s]Ajude-me! Eu juro que não vou[n]contar a Lord Madarame...[n][w][e]
 
 [msg TalkMsg_CONTACT_12_3]
-[s]Esperar! Vou te dar qualquer coisa![n][w][e]
+[s]Parado! Eu vou te dar qualquer coisa![n][w][e]
 
 [msg TalkMsg_CONTACT_13_1]
-[s]Esperar! Pare! Eu vou contar ao Sr.[n]Kaneshiro![n][w][e]
+[s]Espere! Parado! Eu direi a[n]Kaneshiro-sama![n][w][e]
 
 [msg TalkMsg_CONTACT_13_2]
-[s]Apenas me ajude! Eu juro que não vou contar[n]ao Sr. Kaneshiro...[n][w][e]
+[s]Ajude-me! Eu juro que não vou[n]contar a Kaneshiro-sama...[n][w][e]
 
 [msg TalkMsg_CONTACT_13_3]
-[s]Esperar! Vou te dar qualquer coisa![n][w][e]
+[s]Parado! Eu vou te dar qualquer coisa![n][w][e]
 
 [msg TalkMsg_CONTACT_14_1]
-[s]Esperar! Pare! Está certo... vamos negociar![n][w][e]
+[s]Espere! Parado! É verdade...[n]Vamos negociar![n][w][e]
 
 [msg TalkMsg_CONTACT_14_2]
-[s]Apenas me ajude! Vou te dar o que você[n]quiser![n][w][e]
+[s]Ajude-me! Eu darei a você[n]o que você quiser![n][w][e]
 
 [msg TalkMsg_CONTACT_14_3]
-[s]Esperar! Vou te dar qualquer coisa![n][w][e]
+[s]Parado! Eu vou te dar qualquer coisa![n][w][e]
 
 [msg TalkMsg_CONTACT_15_1]
-[s]Esperar! Pare! Eu vou contar a Lord Okumura![n][w][e]
+[s]Espere! Parado! Eu direi ao[n]Lorde Okumura![n][w][e]
 
 [msg TalkMsg_CONTACT_15_2]
-[s]Apenas me ajude! Eu juro que não vou contar[n]a Lord Okumura...[n][w][e]
+[s]Ajude-me! Eu juro que não vou[n]contar a Lord Okumura...[n][w][e]
 
 [msg TalkMsg_CONTACT_15_3]
-[s]Esperar! Vou te dar qualquer coisa![n][w][e]
+[s]Parado! Eu vou te dar qualquer coisa![n][w][e]
 
 [msg TalkMsg_CONTACT_16_1]
-[s]Esperar! Pare! Eu vou contar a Lady Niijima![n][w][e]
+[s]Espere! Parado! Vou contar a[n]a Lady Niijima![n][w][e]
 
 [msg TalkMsg_CONTACT_16_2]
-[s]Apenas me ajude! Eu juro que não vou contar[n]a Lady Niijima...[n][w][e]
+[s]Ajude-me! Eu juro que não vou[n]contar a Lady Niijima...[n][w][e]
 
 [msg TalkMsg_CONTACT_16_3]
-[s]Esperar! Vou te dar qualquer coisa![n][w][e]
+[s]Parado! Eu vou te dar qualquer coisa![n][w][e]
 
 [msg TalkMsg_CONTACT_17_1]
-[s]Esperar! Pare! Vou contar ao mestre Akechi![n][w][e]
+[s]Espere! Parado! Eu direi[n]ao Mestre Akechi![n][w][e]
 
 [msg TalkMsg_CONTACT_17_2]
-[s]Apenas me ajude! Eu juro que não vou contar[n]ao mestre akechi...[n][w][e]
+[s]Ajude-me! Eu juro que não vou[n]contar ao Mestre Akechi...[n][w][e]
 
 [msg TalkMsg_CONTACT_17_3]
-[s]Esperar! Vou te dar qualquer coisa![n][w][e]
+[s]Parado! Eu vou te dar qualquer coisa![n][w][e]
 
 [msg TalkMsg_CONTACT_18_1]
-[s]Esperar! Pare! Eu vou contar ao Senhor Shido![n][w][e]
+[s]Espere! Parado! Eu direi[n]ao Senhor Shido![n][w][e]
 
 [msg TalkMsg_CONTACT_18_2]
-[s]Apenas me ajude! Eu juro que não vou contar[n]ao Senhor Shido...[n][w][e]
+[s]Ajude-me! Eu juro que não vou[n]contar ao Senhor Shido...[n][w][e]
 
 [msg TalkMsg_CONTACT_18_3]
-[s]Esperar! Vou te dar qualquer coisa![n][w][e]
+[s]Parado! Eu vou te dar qualquer coisa![n][w][e]
 
 [msg TalkMsg_CONTACT_19_1]
-[s]Esperar! Pare! Eu vou contar a Excelência[n]dele![n][w][e]
+[s]Espere! Parado! Direi a Vossa Excelência![n][w][e]
 
 [msg TalkMsg_CONTACT_19_2]
-[s]Apenas me ajude! Eu juro que não vou contar[n]sua excelência...[n][w][e]
+[s]Ajude-me! Juro que não vou[n]dizer a Sua Excelência...[n][w][e]
 
 [msg TalkMsg_CONTACT_19_3]
-[s]Esperar! Vou te dar qualquer coisa![n][w][e]
+[s]Parado! Eu vou te dar qualquer coisa![n][w][e]
 
 [msg TalkMsg_CONTACT_10_1]
-[s]Esperar! Pare! Vou contar ao chefe secreto![n][w][e]
+[s]Espere! Parado! Vou contar[n]o chefe secreto![n][w][e]
 
 [msg TalkMsg_CONTACT_10_2]
-[s]Apenas me ajude! Eu juro que não vou contar[n]ao chefe secreto...[n][w][e]
+[s]Ajude-me! Eu juro que não vou contar ao chefe[n]secreto...[n][w][e]
 
 [msg TalkMsg_CONTACT_10_3]
-[s]Esperar! Vou te dar qualquer coisa![n][w][e]
+[s]Parado! Eu vou te dar qualquer coisa![n][w][e]
 
 [msg TalkMsg_FQ_REACT_GOODMOO]
 [s](cut)[n][w][e]
@@ -1907,149 +1907,149 @@
 [s](cut)[n][w][e]
 
 [msg TalkMsg_FQ_REACT_BROKEDO]
-[s]O inferno! Você chupa bolas, cara.[n][w][e]
+[s]Que diabos! Você é péssimo, cara.[n][w][e]
 
 [msg TalkMsg_HAVE_NO_SECRET]
-[s]Desculpe... mas não tenho nenhuma informação[n]que pareça útil.[n][w][e]
+[s]Desculpe... mas não tenho nenhuma[n]informação que possa ajudá-lo.[n][w][e]
 
 [msg TalkMsg_RESULT_ENEMY_REF]
-[s]Apenas venha me pegar! Não há sentido em[n]ameaças![n][w][e]
+[s]Vamos, apenas traga-o! Suas ameaças são inúteis![n][w][e]
 
 [msg TalkMsg_RESULT_ENEMY_REF_2]
-[s]Huh? Eu não quero falar com você.[n][w][e]
+[s]Hã? Eu não quero falar com você.[n][w][e]
 
 [msg TalkMsg_RESULT_ENEMY_REF_3]
-[s]Bro, estamos lutando aqui! Se você quiser[n]falar, você terá que me fazer![n][w][e]
+[s]Ei, estávamos brigando! Se você quer[n]falar, então você tem que me obrigar![n][w][e]
 
 [msg TalkMsg_SHOOT_REACTION01]
-[s]Você vai me atirar agora? Acho que sinto[n]esse sentimento...[n][w][e]
-[s]... Ei, espere! Isso me lembrou algo![n][w][e]
+[s]V-você vai atirar em mim agora?[n]Eu sinto que sim...[n][w][e]
+[s]Ei, espere! Uma coisa me veio à mente![n][w][e]
 
 [msg TalkMsg_SHOOT_REACTION02]
-[s]Wh-whoa!? Respondendo com um estrondo?[n]Eu entendo seu ato legal...[n][w][e]
-[s]... Ei, espere! Isso me lembrou algo![n][w][e]
+[s]E-Ei! Mas é assim que você responde, atirando? Eu[n]entendo tudo, mas...[n][w][e]
+[s]Ei, espere! Uma coisa me veio à mente![n][w][e]
 
 [msg TalkMsg_SHOOT_REACTION03]
-[s]Dane-se os detalhes, hein? É como se eu[n]estivesse olhando para um espelho...[n][w][e]
-[s]... Ei, espere! Isso me lembrou algo![n][w][e]
+[s]Para o inferno com os detalhes, hein? Eu pareço[n]me espelhar...[n][w][e]
+[s]Ei, espere! Uma coisa me veio à mente![n][w][e]
 
 [msg TalkMsg_SHOOT_REACTION04]
-[s]Y-your fusível é muito curto![n]As pessoas me dizem isso também- hm?[n][w][e]
-[s]... Ei, espere! Isso me lembrou algo![n][w][e]
+[s]H-Seu fusível é muito curto![n]Eles me disseram isso também... Mmm?[n][w][e]
+[s]Ei, espere! Uma coisa me veio à mente![n][w][e]
 
 [msg TalkMsg_PLEAD_SKIMMING]
-[s]E aí cara! Você continuou olhando assim,[n]certo? D-Don você não tem negócios comigo?[n][w][e]
+[s]Ei, amigo! Você está olhando para cá, não é?[n]V-Você tem algum negócio inacabado comigo?[n][w][e]
 
 [msg TalkMsg_PLEAD_NO_SKIMMIN]
-[s]Resistir! Eu me rendo...[n][w][e]
+[s]Espere! Desisto...[n][w][e]
 
 [msg TalkMsg_ACCEPT_ALERT_DOW]
-[s]Entendi, entendi...! Vou dizer que não havia[n]nada errado![n][w][e]
+[s]Tudo bem, tudo bem! Eu não[n]vejo nada de errado com isso![n][w][e]
 
 [msg TalkMsg_NO_REQUIREMENT]
-[s]... espere, você não tem nenhum![n][w][e]
+[s]Espere, você não tem nenhum![n][w][e]
 
 [msg TalkMsg_RESULT_SQ_ITEM1]
-[s]... Aqui, pegue isso e apenas esqueça de mim.[n][w][e]
+[s]...Aqui, pegue isso e[n]esqueça que eu existo.[n][w][e]
 
 [msg TalkMsg_RESULT_SQ_ITEM2]
-[s]... Desta vez, vou selar o acordo com isso.[n][w][e]
+[s]...Dessa vez fecharei o arquivo com isso.[n][w][e]
 
 [msg TalkMsg_RESULT_SQ_PERSON]
-[s]Cara, você me lembra Mysel- uau...[n]Está tudo vocando de volta![n][w][e]
+[s]Cara, você me lembra de mim mesmo...[n]Ei! Agora eu lembro![n][w][e]
 
 [msg TalkMsg_RESULT_SQ_PERSON_2]
-[s]Huh? Isso significa que somos iguais...[n]Whoa, cara. Está tudo vocando de volta![n][w][e]
+[s]Hã? Isso significa que somos[n]iguais....Ei! Agora eu lembro![n][w][e]
 
 [msg TalkMsg_RESULT_SQ_PAYFOR]
-[s]HM, eu ouço você e tudo... mas por enquanto,[n]pegue isso.[n][w][e]
+[s]Mmm, eu entendo você... mas por enquanto,[n]pegue isso.[n][w][e]
 
 [msg TalkMsg_RESULT_SQ_PAYFOR_2]
-[s]Entendo... eu sinto você, mas não posso[n]ficar por trás disso. Apenas pegue isso.[n][w][e]
+[s]Sim, eu entendo você, mas não posso fazer nada a[n]respeito. Pegue isso, vamos.[n][w][e]
 
 [msg TalkMsg_RESULT_SQ_AGAIN1]
-[s]Então, o que você quer dizer de novo?[n][w][e]
+[s]Então o que você queria me dizer?[n][w][e]
 
 [msg TalkMsg_RESULT_SQ_AGAIN2]
-[s]Então, o que você quer dizer de novo?[n][w][e]
+[s]Então o que você queria me dizer?[n][w][e]
 
 [msg TalkMsg_RESULT_SQ_CARD1]
-[s]Hmmm, acho que isso será mais útil para você[n]do que para mim.[n][w][e]
+[s]Hmm, acho que combina mais com você do que comigo.[n][w][e]
 
 [msg TalkMsg_RESULT_SQ_CARD2]
-[s]Acho que vou te dar isso. Por, uh...[n]fazendo o seu melhor.[n][w][e]
+[s]Acho que você vai conseguir em troca de,[n]uhm... Não sei, me surpreenda.[n][w][e]
 
 [msg TalkMsg_RESULT_SQ_COUNTE]
-[s]Y-you... eu estou te ding para te matar![n][w][e]
+[s]V-Você! Mal posso esperar para te matar![n][w][e]
 
 [msg TalkMsg_RESULT_SQ_COUNTE_2]
-[s]Você realmente me irritou agora![n][w][e]
+[s]Agora você realmente me irritou![n][w][e]
 
 [msg TalkMsg_RESULT_SQ_ALERT1]
-[s]... Apesar da aparência, tenho toneladas de[n]amigos. Quer que eu ligue para eles?[n][w][e]
+[s]Apesar da minha aparência,[n]tenho muitos amigos.[n]Quer que eu ligue para eles?[n][w][e]
 
 [msg TalkMsg_RESULT_SQ_ALERT2]
-[s]... Lembre-se se eu chame os cães em você?[n]Eles vão te dar uma batida![n][w][e]
+[s]Você se importa se eu enviar meus amigos contra[n]você? Eles vão fazer você pagar![n][w][e]
 
 [msg TalkMsg_RESULT_SQ_INFO1]
-[s]Pare com isso! Vou te dizer algumas[n]informações que vale a pena saber, ok?[n][w][e]
+[s]Pare com isso! Vou te dar algumas[n]informações interessantes, ok?[n][w][e]
 
 [msg TalkMsg_RESULT_SQ_INFO2]
-[s]Olha, eu vou te dar informações, então me[n]encontre no meio do caminho aqui, ok?[n][w][e]
+[s]Ouça, eu lhe darei as informações,[n]mas você vem até mim, ok?[n][w][e]
 
 [msg TalkMsg_RESULT_SQ_MONEY1]
-[s]... pegue isso pelo menos.[n][w][e]
+[s]...Pegue isso, pelo menos.[n][w][e]
 
 [msg TalkMsg_RESULT_SQ_MONEY2]
-[s]... E agora, eu vou passar por você. Então,[n]olhe para o outro lado para mim, faria?[n][w][e]
+[s]...Dito isso, vou te dar isso.[n]Nós nunca nos conhecemos.[n][w][e]
 
 [msg TalkMsg_RESULT_BRAINWASH_8]
-[s]Então esse é o caminho que eu tenho que ir.[n]Mas acho que você já tem a informação...[n][w][e]
-[s]Triste, realmente. Deixe-me oferecer isso [n][f 2 5 3 9999 1]em vez de...[n][w][e]
+[s]Então esse é o caminho que devo trilhar. Mas eu[n]acho que você já sabe de tudo...[n][w][e]
+[s]Que triste.[n]Permita-me oferecer-lhe esta[n]alternativa: [f 2 5 3 9999 1]...[n][w][e]
 
 [msg TalkMsg_RESULT_BRAINWASH_9]
-[s]Sabe, se tivéssemos paz mundial, não[n]teríamos que lutar...[n][w][e]
+[s]Sabe, se houvesse paz no mundo,[n]nós não teríamos que lutar...[n][w][e]
 
 [msg TalkMsg_RESULT_BRAINWASH_10]
-[s]Não, eu não vou deixar você me enganar.[n]Eu sou uma sombra![n][w][e]
+[s]Não, não vou me enganar.[n]Afinal, sou uma Sombra...![n][w][e]
 
 [msg TalkMsg_RESULT_BRAINWASH_11]
-[s]Ooh, esse é o meu caminho canhão...[n][w][e]
-[s]Segure um segundo, você já tem [n][clr 1][var 2][clr 27]... aqui, pegue isso [f 2 5 3 9999 1], em vez de.[n][w][e]
+[s]Esse é o meu caminho brilhante.[n][w][e]
+[s]Espere um segundo, você já possui[n][clr 1][var 2][clr 27]... Pegue este[n]item, então:[f 2 5 3 9999 1].[n][w][e]
 
 [msg TalkMsg_RESULT_BRAINWASH_12]
-[s]Ooh, esse é o meu caminho canhão...[n][w][e]
-[s]Mas você é muito fraco... aqui, eu vou te[n]dar isso [n][f 2 5 3 9999 1]em vez de.[n][w][e]
+[s]Esse é o meu caminho brilhante.[n][w][e]
+[s]Mas você é muito fraco... Aqui, pegue[n]este objeto então:[n][f 2 5 3 9999 1].[n][w][e]
 
 [msg TalkMsg_RESULT_BRAINWASH_13]
-[s]Eu tenho que saber... como encontrar o lindo[n]eu...[n][w][e]
+[s]Eu tenho que descobrir... como encontrar a beleza[n]interior...[n][w][e]
 
 [msg TalkMsg_RESULT_HACKING]
-[s]Você está muito profundo... aqui, eu tenho[n]economizado isso.[n][w][e]
+[s]Você é muito profundo...[n]Aqui, eu valorizei isso.[n][w][e]
 
 [msg TalkMsg_SKIMMING_BRAINWA]
-[s]Você tem um olho agudo, hein? Estou[n]impressionado que você pode sentir a[n]qualidade dessa coisa.[n][w][e]
+[s]Você tem um olho afiado, hein?[n]Surpreendentemente, você pode[n]sentir o valor dessa coisa.[n][w][e]
 
 [msg TalkMsg_RESULT_GET_PERSO_11]
-[s]Estou salvo! Obrigado cara, você é um[n]salvador de vida.[n]Uau... está tudo voltando de volta![n][w][e]
+[s]Eu estou seguro! Obrigado companheiro,[n]você é um herói...Ei! Agora eu lembro![n][w][e]
 
 [msg TalkMsg_CHARM_TECH_ITEM]
-[s]Huh? Algo fede. Você está tentando me[n]enganar, hein?[n][w][e]
+[s]Hã? Isso fede para mim. Você[n]está tentando me ferrar, hein?[n][w][e]
 
 [msg TalkMsg_CHARM_TECH_PERSO]
-[s]Y-y-yeah, isso foi minha culpa. Acho que vou[n]te perdoar.[n][w][e]
+[s]G-Sim, foi minha culpa.[n]Acho que vou te perdoar.[n][w][e]
 
 [msg TalkMsg_BONUS_CARD]
-[s]Você vai me perdoar se eu lhe der algo?[n]Então aqui, pegue isso![n][w][e]
+[s]Se eu lhe der algo em troca, você me perdoará?[n]Pois então, pegue![n][w][e]
 
 [msg TalkMsg_DONATION]
-[s]Oh, isso vai fazer você me perdoar?[n]Então pegue![n][w][e]
+[s]Oh, então você vai me perdoar?[n]Então pegue![n][w][e]
 
 [msg TalkMsg_UNTALKABLE]
-[s]W-wahhh![n][w][e]
+[s]W-Wahhh![n][w][e]
 
 [msg TalkMsg_GUY_OP_00_00]
-[s]Não me provere.[n][e]
+[s]Não brinque.[n][e]
 
 [msg TalkMsg_GUY_OP_00_01]
 [s]Eu vou chorar...[n][e]
@@ -2058,264 +2058,264 @@
 [s]Por que eu?[n][e]
 
 [msg TalkMsg_GUY_OP_01_01]
-[s]Eu não quero passar por isso...[n][e]
+[s]Eu não quero fazer isso...[n][e]
 
 [msg TalkMsg_GUY_OP_02_00]
-[s]Isso é arriscado.[n][e]
+[s]É arriscado.[n][e]
 
 [msg TalkMsg_GUY_OP_02_01]
-[s]Eu não estou preocupado.[n][e]
+[s]Não me toca.[n][e]
 
 [msg TalkMsg_GUY_OP_03_00]
-[s]Diabos é isso?[n][e]
+[s]Que diabos é isso?[n][e]
 
 [msg TalkMsg_GUY_OP_03_01]
-[s]Eu sou um patife.[n][e]
+[s]Eu sou um malandro.[n][e]
 
 [msg TalkMsg_GUY_EN_No_00]
-[s]Seeya, Sr. Hero! Você salvou minha bunda.[n][w][e]
+[s]Vejo você, senhor herói![n]Você salvou minha bunda.[n][w][e]
 
 [msg TalkMsg_GUY_EN_No_01]
-[s]... Ah, obrigado. Eu poderia jurar que[n]estava terminado.[n][w][e]
+[s]Obrigado. Eu poderia jurar que não conseguiria.[n][w][e]
 
 [msg TalkMsg_GUY_EN_No_02]
-[s]... heheheh, estou salvo! Coisas boas vão[n]vir do seu jeito com certeza. É karma.[n][w][e]
+[s]Hehehe, consegui! Você verá[n]que a vida sorrirá para você.[n]É carma.[n][w][e]
 
 [msg TalkMsg_GUY_EN_bye_00]
-[s]Estou de volta desta vez, mas não deixe isso[n]chegar à sua cabeça...[n][w][e]
+[s]Desta vez eu desisto,[n]mas não fique muito animado[n]em sua cabeça...[n][w][e]
 
 [msg TalkMsg_GUY_EN_bye_01]
-[s]Quanto tempo você vai durar assim?[n]Heheh.[n][w][e]
+[s]Quanto tempo você acha que vai durar[n]neste estado? Hehehe.[n][w][e]
 
 [msg TalkMsg_GUY_EN_bye_02]
-[s]Mais tarde. Da próxima vez que nos[n]encontrarmos, não vou dar nenhum soco.[n][w][e]
+[s]Tchau. Da próxima vez que nos encontrarmos, serei[n]legal.[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_GIVE_00]
-[s]... Oh, obrigado.[n][w][e]
+[s]... Ah, obrigado.[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_GIVE_01]
-[s]... Eu me sinto meio mal. Mas mkay, eu vou[n]aceitar.[n][w][e]
+[s]Isso me deixa um pouco[n]desconfortável. Mas tudo bem, eu aceito.[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_DECLINE]
-[s]Não barato de mim...[n][w][e]
+[s]Não seja mesquinho...[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_DECLINE_2]
-[s]...O que? Eu pensei que as coisas estavam[n]indo bem.[n][w][e]
+[s]O que? Eu pensei que[n]as coisas iriam se acalmar.[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_TAKE_00]
-[s]... isso vai te satisfazer, sim? Lembre-se[n]de mim quando você o usar.[n][w][e]
+[s]Atendi ao pedido?[n]Pense em mim, quando você vai usar.[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_TAKE_01]
-[s]Eu te disse, pegue. Você tem um olhar[n]ganancioso em seus olhos.[n][w][e]
+[s]Eu disse para você pegar.[n]Você sabe, seu olhar é ganancioso.[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_DOUBLEU]
-[s]Huh, você não está satisfeito? Esquisito...[n]Você está tentando me enganar?[n][w][e]
+[s]Ué, não está satisfeito? Estranho...[n]Você quer me enganar?[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_DOUBLEU_2]
-[s]Isso não é suficiente? Sério? Você não sabe[n]totalmente o que significa restrição, hein?[n][w][e]
+[s]Não é o suficiente para você? Sério?[n]Você não sabe sobre[n]moderação, hein?[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_AGREE_0]
-[s]Você é ótimo! Estou muito feliz.[n][w][e]
+[s]Você é ótimo![n]Estou muito feliz.[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_AGREE_0_2]
-[s]Ah bom. Acontece que você não é tão ruim.[n][w][e]
+[s]Ah, graças a Deus. Então[n]você não é tão mau.[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_REFUSE_]
-[s]... você é Borin '.[n][w][e]
+[s]... Você é chato.[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_REFUSE__2]
-[s]...Que pena. Todo mundo está decepcionando[n]hoje em dia.[n][w][e]
+[s]Que pena. Hoje em dia todo mundo te decepciona.[n][w][e]
 
 [msg TalkMsg_Coop_Reiji_00 [Ryuji]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 10 301 1]Ei, o que você está tentando puxar?[n]Use sua cabeça, cara![n][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 10 301 1]Ei, o que você está tentando fazer?[n]Tente pensar![n][w][e]
 
 [msg TalkMsg_Coop_Reiji_01 [Ryuji]]
-[s]Parece que a sombra reconsiderou...[n][w][e]
+[s]Parece que a Sombra[n]mudou de ideia...[n][w][e]
 
 [msg TalkMsg_Coop_Morgana_00 [Morgana]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 3 10 301 1]Não me mova! Sua própria vida está em jogo![n][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 3 10 301 1]Não se mexa! Seu[n]destino está em minhas... garras![n][w][e]
 
 [msg TalkMsg_Coop_Morgana_01 [Morgana]]
-[s]Parece que a sombra reconsiderou...[n][w][e]
+[s]Parece que a Sombra[n]mudou de ideia...[n][w][e]
 
 [msg TalkMsg_Coop_Ann_00 [Ann]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 4 3 301 1]Não se mova- a menos que você queira ficar[n]cheio de chumbo![n][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 4 3 301 1]Não se mova, a menos que você queira liderar![n][w][e]
 
 [msg TalkMsg_Coop_Ann_01 [Ann]]
-[s]Parece que a sombra reconsiderou...[n][w][e]
+[s]Parece que a Sombra[n]mudou de ideia...[n][w][e]
 
 [msg TalkMsg_Coop_Yugo_00 [Yusuke]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 5 3 301 1]Resistir é inútil! Considere bem a posição[n]em que você está.[n][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 5 3 301 1]É inútil resistir! Pense bem[n]sobre sua situação.[n][w][e]
 
 [msg TalkMsg_Coop_Yugo_01 [Yusuke]]
-[s]Parece que a sombra reconsiderou...[n][w][e]
+[s]Parece que a Sombra[n]mudou de ideia...[n][w][e]
 
 [msg TalkMsg_Coop_Makoto_00 [Makoto]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 6 3 301 1]Pare de resistir e trabalhe conosco aqui![n][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 6 3 301 1]Pare de resistir[n]e coopere![n][w][e]
 
 [msg TalkMsg_Coop_Makoto_01 [Makoto]]
-[s]Parece que a sombra reconsiderou...[n][w][e]
+[s]Parece que a Sombra[n]mudou de ideia...[n][w][e]
 
 [msg TalkMsg_Coop_Haruko_00 [Haru]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 7 3 301 1]Por favor, aguarde! Você entende a posição[n]em que se encontra?[n][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 7 3 301 1]Espere, por favor! Você entende o[n]problema em que está, certo?[n][w][e]
 
 [msg TalkMsg_Coop_Haruko_01 [Haru]]
-[s]Parece que a sombra reconsiderou...[n][w][e]
+[s]Parece que a Sombra[n]mudou de ideia...[n][w][e]
 
 [msg TalkMsg_Coop_Akechi_00 [Akechi]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 9 3 301 1]Esperar! Você seria aconselhável não tentar[n]nenhum movimento repentino.[n][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 9 3 301 1]Espere! É melhor você não fazer movimentos[n]bruscos.[n][w][e]
 
 [msg TalkMsg_Coop_Akechi_01 [Akechi]]
-[s]Parece que a sombra reconsiderou...[n][w][e]
+[s]Parece que a Sombra[n]mudou de ideia...[n][w][e]
 
 [msg TalkMsg_Sense_Sixthsense [Akechi]]
-[s]Iniciando o sexto sentido![n][f 1 3 65535][w][e]
-[s]Seu sentido elevado deixou claro uma opção[n]que não deve ser escolhida![n][w][e]
+[s]Inicie o Sexto Sentido![n][f 1 3 65535][w][e]
+[s]Seus sentidos aguçados[n]revelaram uma opção que você[n]não deveria escolher![n][w][e]
 
 [msg TalkMsg_Sense_Negotiatio [Akechi]]
-[s]Iniciando negociação![n][f 1 3 65535][w][e]
-[s]Com uma técnica de negociação aumentada,[n]agora você recebe maior cooperação![n][w][e]
+[s]Comece a negociar![n][f 1 3 65535][w][e]
+[s]Graças a técnicas de negociação avançadas, você[n]agora obterá muito mais cooperação![n][w][e]
 
 [msg TalkMsg_Sense_Gigolo_00 [Akechi]]
-[s]Iniciando Gigolo![n][f 1 3 65535][w][e]
-[s]Mostrar sua sedução refinada estimula os[n]corações e mentes das sombras femininas![n][w][e]
+[s]Iniciando o Gigolô![n][f 1 3 65535][w][e]
+[s]Seu charme incomparável[n]provoca os corações e mentes[n]das Sombras femininas![n][w][e]
 
 [msg TalkMsg_Sense_Performanc [Akechi]]
-[s]Inicie o desempenho![n][f 1 3 65535][w][e]
-[s]Suas esplêndidas travessuras cativam o[n]interesse da sombra inimiga![n][w][e]
+[s]Apresentação Inicial![n][f 1 3 65535][w][e]
+[s]Suas travessuras capturam o interesse das sombras[n]inimigas![n][w][e]
 
 [msg TalkMsg_Sense_Intelligen [Akechi]]
-[s]Inicie a inteligência![n][f 1 3 65535][w][e]
-[s]Sua ampla exibição de conhecimento ganha o[n]respeito das sombras masculinas![n][w][e]
+[s]Inteligência inicial![n][f 1 3 65535][w][e]
+[s]Suas travessuras capturam o interesse das sombras[n]inimigas![n][w][e]
 
 [msg TalkMsg_Tisei]
-[s]Você não tem inteligência suficiente para[n]escolher isso.[n][f 1 4][e]
+[s]Você não é inteligente o suficiente[n]para esta escolha.[n][f 1 4][e]
 
 [msg TalkMsg_Iroke]
-[s]Você não tem charme suficiente para escolher[n]isso.[n][f 1 4][e]
+[s]Você não tem charme suficiente[n]para esta escolha.[n][f 1 4][e]
 
 [msg TalkMsg_Ginou]
-[s]Você não tem proficiência suficiente para[n]escolher isso.[n][f 1 4][e]
+[s]Você não tem experiência suficiente[n]para esta escolha.[n][f 1 4][e]
 
 [msg TalkMsg_Hinsei]
-[s]Você não tem bondade suficiente para[n]escolher isso.[n][f 1 4][e]
+[s]Você não tem bondade suficiente[n]para esta escolha.[n][f 1 4][e]
 
 [msg TalkMsg_Yuuki]
-[s]Você não tem coragem suficiente para[n]escolher isso.[n][f 1 4][e]
+[s]Você não tem coragem suficiente[n]para esta escolha.[n][f 1 4][e]
 
 [sel Nego_Surrender_sel top]
-[s]Me dê seu poder.[e]
-[s]Mostre-me o dinheiro.[e]
+[s]Dê-me o seu poder.[e]
+[s]Dinheiro fora.[e]
 [s]Eu quero um item.[e]
-[s]Pantera, você lida com isso.[e]
+[s]Pantera, cuide disso.[e]
 
 [sel Nego_Surrender_sel_01 top]
 [s][clr 2]Junte-se à minha causa.[clr 27][e]
-[s]Mostre-me o dinheiro.[e]
+[s]Dinheiro fora.[e]
 [s]Eu quero um item.[e]
-[s]Pantera, você lida com isso.[e]
+[s]Pantera, cuide disso.[e]
 
 [sel Nego_Surrender_sel_02 top]
-[s]Me dê seu poder.[e]
-[s][clr 2]Mostre-me o dinheiro.[clr 27][e]
+[s]Dê-me o seu poder.[e]
+[s][clr 2]Dinheiro fora.[clr 27][e]
 [s]Eu quero um item.[e]
-[s]Pantera, você lida com isso.[e]
+[s]Pantera, cuide disso.[e]
 
 [sel Nego_Surrender_sel_03 top]
-[s]Me dê seu poder.[e]
-[s]Mostre-me o dinheiro.[e]
-[s][clr 2]Dê-me as mercadorias.[clr 27][e]
-[s]Pantera, você lida com isso.[e]
+[s]Dê-me o seu poder.[e]
+[s]Dinheiro fora.[e]
+[s][clr 2]Mercadoria fora.[clr 27][e]
+[s]Pantera, cuide disso.[e]
 
 [sel Nego_Surrender_sel_04 top]
-[s]Me dê seu poder.[e]
-[s]Mostre-me o dinheiro.[e]
-[s][clr 2]Dê-me as mercadorias.[clr 27][e]
-[s]Pantera, você lida com isso.[e]
+[s]Dê-me o seu poder.[e]
+[s]Dinheiro fora.[e]
+[s][clr 2]Mercadoria fora.[clr 27][e]
+[s]Pantera, cuide disso.[e]
 
 [sel Nego_Payfor_sel top]
-[s]Eu vou levar.[e]
-[s][clr 2]Você pode fazer melhor do que isso.[clr 27][e]
+[s]Estou dentro.[e]
+[s][clr 2]Você pode fazer melhor.[clr 27][e]
 
 [sel Nego_Brainwash_sel top]
 [s]Envie para mim.[e]
-[s]Dê-me uma doação.[e]
+[s]Eu quero algum dinheiro.[e]
 [s]Dê-me algo útil.[e]
-[s]Pantera, você lida com isso.[e]
+[s]Pantera, cuide disso.[e]
 
 [sel TalkSel_Greet_Possesed_B top]
-[s]Tudo bem, suponho.[e]
-[s]Eu não pedi isso.[e]
+[s]Tudo bem, tudo bem.[e]
+[s]Eu não queria isso.[e]
 
 [sel TalkSel_Pre_Question top]
-[s]Tudo bem, suponho.[e]
-[s]Não há necessidade disso.[e]
+[s]Tudo bem, eu diria.[e]
+[s]Não há necessidade.[e]
 
 [msg Talk_tech]
-[s]Impression Management! (Temp)[n][w][e]
+[s]Yoshida Toranosuke[n]Impression Management! (Temporaneo)[n][w][e]
 
 [sel TalkSel_Tech top]
-[s]Yoshida Toranosuke, por favor, ajude![e]
+[s]Por favor ajude![e]
 [s]......[e]
 
 [msg CharmTech [Ann]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 4 5 301 1]Venha agora, coisas quentes. Você não pode[n]ser um pouco mais gentil comigo?[n][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 4 5 301 1]Vamos beleza. Você não pode ser mais legal comigo?[n][w][e]
 
 [msg CharmActing [Ann]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 4 5 301 1]Wahhhh!!! Como C-Could você pergunta isso!?[n][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 4 5 301 1]Aaaa!!! Como d-você pode nos perguntar isso?!?[n][w][e]
 
 [msg RareBooster]
-[s]Impression Management! (Temp)[n][w][e]
+[s]Yoshida Toranosuke[n]Impression Management! (Temporaneo)[n][w][e]
 
 [msg CheapAct [Ann]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 4 5 300 1]Yoshida Toranosuke Joker, isso é muito[n]assustador... devemos sair daqui. Ei! Você[n]poderia dizer ao seu chefe que estamos[n]saindo agora?[n][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 4 5 300 1]Joker, isso é assustador... temos que[n]sair. Ei! Você pode dizer ao seu[n]chefe que estamos indo embora?[n][w][e]
 
 [msg TalkMsg_cnt_interruptE]
-[s]Um inimigo diferente cortou a conversa.[n][w][e]
+[s]Outro inimigo entrou na conversa.[n][w][e]
 
 [msg TalkMsg_cnt_interruptP]
-[s]speed things up (percent chance).[n][w][e]
+[s]Dopo aver parlato con un bersaglio,[n]i compagni possono intervenire per[n]accelerare le cose (% di chance).[n][w][e]
 
 [msg TalkMsg_cnt_refuse]
-[s]Depois de conversar com o Target uma vez, os[n]membros do partido podem cortar para o alvo[n]se recusaram a conversar.[n]→This happens if the result of[n]A conversa é uma recusa.[n][w][e]
+[s]Il bersaglio si rifiuta di parlare.[n]→Ciò accade se il risultato della[n]conversazione è un rifiuto.[n][w][e]
 
 [msg TalkMsg_cnt_anger]
-[s]→Bat case when the result of[n]Target está com raiva e contra-ataques a[n]conversa é recusa.[n][w][e]
+[s]Il bersaglio è irato e contrattacca[n]→Dà di matto se il risultato[n]della conversazione è un rifiuto.[n][w][e]
 
 [msg TalkMsg_cnt_unusual]
-[s]Não é possível conversar devido a efeitos de[n]status.[n][w][e]
+[s]Incapaz de conversar devido a efeitos de status.[n][w][e]
 
 [msg TalkMsg_EOF]
 [s]......[n][w][e]
 
 [msg DebugMsg_ERROR]
-[s](Error) →A variable is set to an invalid value.[n][w][e]
+[s](Error)[n]→A variable is set[n]to an invalid value.[n][w][e]
 
 [msg DebugMsg_CHARACTER]
-[s](Debug Mode)[n]Tipo de personalidade alvo [n][w][e]
+[s](Debug Mode)[n]Target Personality Type[n][w][e]
 
 [sel DebugSel_CHARACTER top]
-[s]Tipo A.[e]
-[s]Tipo B.[e]
-[s]Tipo c [e]
-[s]Tipo d [e]
-[s]Aleatória [e]
+[s]Tipo A[e]
+[s]Tipo B[e]
+[s]Tipo C[e]
+[s]Tipo D[e]
+[s]Aleatória[e]
 
 [msg DebugMsg_CHECK_VAR]
 [s][var 0].[n][w][e]
 
 [msg DebugMsg_ENEMY_LV]
-[s]ID inimigo [var 3][n]Nível inimigo [var 0][n]Nível de protag [var 1][n]AI_CHK_ENIDLV_O([var 0], 1) = [var 2][n][w][e]
+[s]ID Nemico [var 3][n]Livello Nemico [var 0][n]Livello protagonista [var 1][n]AI_CHK_ENIDLV_O([var 0], 1) = [var 2][n][w][e]
 
 [msg TalkMsg_GUY_RESULT_GET_P_4 [Ann]]
-[s]Nesse caso, trate-me bem dentro de você.[n][w][e]
+[s]Se assim for, trate bem[n]o eu dentro de você.[n][w][e]
 
 [msg TalkMsg_Coop_AkechiB_00 [Ann]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 9 3 301 1]Huh, eu não diria que é uma escolha sábia...[n]talvez você deva pensar mais.[n][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 9 3 301 1]Hum, acho que a sua não é uma escolha sábia.[n]Talvez você devesse pensar melhor sobre isso.[n][w][e]
 
 [msg TalkMsg_Coop_Kasumi_00 [Ann]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 11 3 301 1]Pare! Eu acho que você seria sábio para não[n]fazer movimentos descuidados.[n][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 11 3 301 1]pare! Seria sensato da sua parte não dar nenhum[n]passo em falso.[n][w][e]
 
 [msg TalkMsg_Coop_Sumire_00 [Ann]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 11 3 301 1]Pare! Eu acho que você seria sábio para não[n]fazer movimentos descuidados.[n][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 11 3 301 1]pare! Seria sensato da sua parte não dar nenhum[n]passo em falso.[n][w][e]
 

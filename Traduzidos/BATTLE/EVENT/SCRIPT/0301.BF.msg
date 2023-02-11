@@ -1,439 +1,439 @@
-[msg MSG_BTLSTART_000_000 [Shadow Kamoshida]]
-[s][vp 8 0 2 1001 1 201]Vocês, malditas, pirralhos de merda![n]Você não foi ensinado a não apontar para as[n]pessoas!? Huh!?[n][f 1 3 65535][w][e]
+[msg MSG_BTLSTART_000_000 [Ombra di Kamoshida]]
+[s][vp 8 0 2 1001 1 201]Malditos pirralhos imprestáveis![n]Eles não te ensinaram[n]a não incomodar os outros?!? Hã?[n][f 1 3 65535][w][e]
 
 [msg MSG_BTLSTART_010_003 [Ann]]
-[s][bup 0 4 102 65535 0][f 4 10 65535 0 0][vp 8 0 2 1002 0 4]Você vai parar de fazer isso todas as vezes!?[n][f 1 3 65535][w][e]
+[s][bup 0 4 102 65535 0][f 4 10 65535 0 0][vp 8 0 2 1002 0 4]Você vai parar[n]de fazer isso toda vez?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_BTLSTART_020_001 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1003 0 3]Olhar! O tesouro está ali![n][f 1 3 65535][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1003 0 3]Ver! O Tesouro está lá em cima![n][f 1 3 65535][w][e]
 
 [msg MSG_BTLSTART_030_001 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1005 0 3]Devemos pegá-lo desprevenido e roubá-lo![n][f 1 3 65535][w][e]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1004 0 3]Vamos atacá-lo e esperar por essa[n]oportunidade![n][f 1 3 65535][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1005 0 3]Devemos pegá-lo de surpresa[n]e roubá-lo![n][f 1 3 65535][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1004 0 3]Vamos atacá-lo e esperar[n]pelo momento certo![n][f 1 3 65535][w][e]
 
-[msg MSG_BTL_USETROPHY_000_00 [Shadow Kamoshida]]
-[s][vp 8 0 2 1006 1 201]Mmm. Mmm. Mmm. Isso atinge o local![n][f 1 3 65535][w][e]
-[s][vp 8 0 2 1007 1 201]Venha para mim, seus pedaços de merda![n]Eu não estou deixando você dormir esta noite![n][f 1 3 65535][w][e]
+[msg MSG_BTL_USETROPHY_000_00 [Ombra di Kamoshida]]
+[s][vp 8 0 2 1006 1 201]Hum. Hum. Mmm.[n]Ele acertou em cheio![n][f 1 3 65535][w][e]
+[s][vp 8 0 2 1007 1 201]Vamos, merda![n]Eu não vou deixar você dormir esta noite![n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_USETROPHY_020_00 [Morgana]]
-[s][bup 0 3 4 65535 0][f 4 10 65535 0 0][vp 8 0 2 1008 0 3]Ele se curou? É por comer uma dessas...[n]coisas no troféu?[n][f 1 3 65535][w][e]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1009 0 3]Então devemos destruir isso primeiro![n][f 1 3 65535][w][e]
+[s][bup 0 3 4 65535 0][f 4 10 65535 0 0][vp 8 0 2 1008 0 3]Ele cuidou de si mesmo? Talvez ele tenha feito[n]isso comendo uma daquelas... coisas dentro do[n]troféu?[n][f 1 3 65535][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1009 0 3]Então devemos primeiro[n]destruir isso![n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_USETROPHY_030_00 [Morgana]]
-[s][bup 0 3 4 65535 0][f 4 10 65535 0 0][vp 8 0 2 1008 0 3]Ele se curou? É por comer uma dessas...[n]coisas no troféu?[n][f 1 3 65535][w][e]
+[s][bup 0 3 4 65535 0][f 4 10 65535 0 0][vp 8 0 2 1008 0 3]Ele cuidou de si mesmo? Talvez ele tenha feito[n]isso comendo uma daquelas... coisas dentro do[n]troféu?[n][f 1 3 65535][w][e]
 
-[msg MSG_BTL_USETROP02_000_00 [Shadow Kamoshida]]
-[s][vp 8 0 2 1010 1 201]Mmmmm! Essa é a coisa boa![n]Agora estou de volta ao jogo![n][f 1 3 65535][w][e]
+[msg MSG_BTL_USETROP02_000_00 [Ombra di Kamoshida]]
+[s][vp 8 0 2 1010 1 201]Mmmmm! Ele acertou em cheio![n]Agora estou de volta à luta![n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_USETROP02_010_00 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1011 0 3]Não vamos durar se deixarmos esse troféu![n][f 1 3 65535][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1011 0 3]Não conseguiremos se[n]não tirarmos esse troféu dele![n][f 1 3 65535][w][e]
 
-[msg MSG_BTL_TROPHY99_000_000 [Shadow Kamoshida]]
-[s][vp 8 0 2 1012 1 201]*suspiro* Ei![n][f 1 3 65535][w][e]
-[s][vp 8 0 2 1013 1 201]Você não sabe o que vale isso, então pare de[n]tocá-lo! Não faça mais isso, entendeu? Eu[n]te avisei![n][f 1 3 65535][w][e]
+[msg MSG_BTL_TROPHY99_000_000 [Ombra di Kamoshida]]
+[s][vp 8 0 2 1012 1 201]Ei![n][f 1 3 65535][w][e]
+[s][vp 8 0 2 1013 1 201]Você não tem ideia de quanto vale,[n]então não toque! Não faça isso de novo,[n]entendeu? Eu avisei![n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_TROPHY99_010_001 [Morgana]]
-[s][bup 0 3 1 65535 0][f 4 10 65535 0 0][vp 8 0 2 1014 0 3]Quando alguém nos diz para não fazer algo,[n]isso nos faz querer fazer ainda mais![n][f 1 3 65535][w][e]
+[s][bup 0 3 1 65535 0][f 4 10 65535 0 0][vp 8 0 2 1014 0 3]Quando eles nos dizem[n]para não fazer algo, nós[n]queremos ainda mais fazer![n][f 1 3 65535][w][e]
 
-[msg MSG_BTL_TROPHYEND_000_00 [Shadow Kamoshida]]
-[s][vp 8 0 2 1015 1 201]... ACK![n][f 1 3 65535][w][e]
-[s][vp 8 0 2 1016 1 201]De jeito nenhum... isso foi de quando eu[n]ganhei o nacional...[n][f 1 3 65535][w][e]
+[msg MSG_BTL_TROPHYEND_000_00 [Ombra di Kamoshida]]
+[s][vp 8 0 2 1015 1 201]...Argh![n][f 1 3 65535][w][e]
+[s][vp 8 0 2 1016 1 201]Não é possível... Deram-me[n]por ganhar o campeonato...[n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_TROPHYEND_010_00 [Morgana]]
-[s][bup 0 3 1 65535 0][f 4 10 65535 0 0][vp 8 0 2 1017 0 3]Tudo bem![n][f 1 3 65535][w][e]
+[s][bup 0 3 1 65535 0][f 4 10 65535 0 0][vp 8 0 2 1017 0 3]Ótimo![n][f 1 3 65535][w][e]
 
-[msg MSG_BTL_HOLDUP01_000_000 [Shadow Kamoshida]]
-[s][vp 8 0 2 1018 1 201]Você acha que pode se safar de fazer uma[n]coisa dessas? Você percebe quem eu sou!?[n][f 1 3 65535][w][e]
-[s][vp 8 0 2 1019 1 201]Eu sou Kamoshida! Você não entende!?[n][f 1 3 65535][w][e]
+[msg MSG_BTL_HOLDUP01_000_000 [Ombra di Kamoshida]]
+[s][vp 8 0 2 1018 1 201]Você acha que pode se safar[n]desse jeito?[n]Você não entende quem eu sou?!?[n][f 1 3 65535][w][e]
+[s][vp 8 0 2 1019 1 201]...Eu sou Kamoshida![n]Você não entendeu?!?[n][f 1 3 65535][w][e]
 
 [sel SEL_BTL_HOLDUP01_010 top]
-[s]Sim, nós fazemos.[e]
-[s]E daí?[e]
+[s]É sim.[e]
+[s]Tão?[e]
 [s]Vou pensar nisso mais tarde.[e]
 
-[msg MSG_BTL_HOLDUP01_020_000 [Shadow Kamoshida]]
-[s][vp 8 0 2 1020 1 201]E ainda assim você faz isso!? Isso é ainda[n]pior![n][f 1 3 65535][w][e]
-[s][vp 8 0 2 1021 1 201]Vou fazer você se arrepender disso! Eu sou o[n]rei![n][f 1 3 65535][w][e]
+[msg MSG_BTL_HOLDUP01_020_000 [Ombra di Kamoshida]]
+[s][vp 8 0 2 1020 1 201]Você tenta de novo?!?[n]Pior![n][f 1 3 65535][w][e]
+[s][vp 8 0 2 1021 1 201]Eu vou fazer você se arrepender![n]Eu sou o rei![n][f 1 3 65535][w][e]
 
-[msg MSG_BTL_HOLDUP01_021_000 [Shadow Kamoshida]]
-[s][vp 8 0 2 1022 1 201]Huh!?[n][f 1 3 65535][w][e]
-[s][vp 8 0 2 1023 1 201]Como eu continuo dizendo- eu sou kamoshida![n]Eu sou o rei![n][f 1 3 65535][w][e]
+[msg MSG_BTL_HOLDUP01_021_000 [Ombra di Kamoshida]]
+[s][vp 8 0 2 1022 1 201]Hã?!?[n][f 1 3 65535][w][e]
+[s][vp 8 0 2 1023 1 201]Eu repito! Eu sou Kamoshida![n]Eu sou o rei![n][f 1 3 65535][w][e]
 
-[msg MSG_BTL_HOLDUP01_022_000 [Shadow Kamoshida]]
-[s][vp 8 0 2 1024 1 201]Besteira! Estou acima de tudo neste castelo![n][f 1 3 65535][w][e]
-[s][vp 8 0 2 1025 1 201]Eu sou Kamoshida! Eu sou o rei aqui![n][f 1 3 65535][w][e]
+[msg MSG_BTL_HOLDUP01_022_000 [Ombra di Kamoshida]]
+[s][vp 8 0 2 1024 1 201]Absurdo! Neste castelo[n]eu comando![n][f 1 3 65535][w][e]
+[s][vp 8 0 2 1025 1 201]Eu sou Kamoshida! Aqui eu sou o rei![n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_HOLDUP01_030_002 [Ryuji]]
-[s][bup 0 2 102 65535 0][f 4 10 65535 0 0][vp 8 0 2 1026 0 2]Eu sempre vi você como um hotshot[n]condescendente, mas agora... você é apenas[n]um perdedor patético.[n][f 1 3 65535][w][e]
+[s][bup 0 2 102 65535 0][f 4 10 65535 0 0][vp 8 0 2 1026 0 2]Sempre te vi como um balão arrogante[n]... Agora tudo[n]que vejo é um perdedor patético.[n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_HOLDUP01_040_003 [Ann]]
-[s][bup 0 4 102 65535 0][f 4 10 65535 0 0][vp 8 0 2 1027 0 4]Viemos todo esse caminho para roubar isso![n]Você vai desistir e entregar?[n][f 1 3 65535][w][e]
+[s][bup 0 4 102 65535 0][f 4 10 65535 0 0][vp 8 0 2 1027 0 4]Viemos até aqui para roubar aquela coisa! Agora[n]você só quer entregar?[n][f 1 3 65535][w][e]
 
-[msg MSG_BTL_HOLDUP01_045_000 [Shadow Kamoshida]]
-[s][vp 8 0 2 1028 1 201]Silêncio! Não vou deixar que você tenha isso![n][f 1 3 65535][w][e]
+[msg MSG_BTL_HOLDUP01_045_000 [Ombra di Kamoshida]]
+[s][vp 8 0 2 1028 1 201]Silêncio! Eu não vou deixar pessoas como você se[n]apossar disso![n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_HOLDUP01_050_001 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1029 0 3]Você ainda tem energia para dizer coisas[n]assim!?[n][f 1 3 65535][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1029 0 3]Você ainda tem força[n]para dizer algo assim?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_HOLDUP01_060_001 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1030 0 3]Então vamos aumentar nosso jogo também![n][f 1 3 65535][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1030 0 3]Então nós também colocaremos todas as nossas[n]forças em jogo![n][f 1 3 65535][w][e]
 
-[msg MSG_BTL_HOWTOSTEAL_000_0 [Shadow Kamoshida]]
-[s][vp 8 0 2 1031 1 201]Eu sou o rei! Se eu não estiver, então quem[n]é!?[n][f 1 3 65535][w][e]
+[msg MSG_BTL_HOWTOSTEAL_000_0 [Ombra di Kamoshida]]
+[s][vp 8 0 2 1031 1 201]Eu sou o rei...![n]Se não eu, então quem?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_HOWTOSTEAL_000_0_2 [Ryuji]]
-[s][bup 0 2 102 65535 0][f 4 10 65535 0 0][vp 8 0 2 1032 0 2]Ele é tão teimoso como sempre... Não há uma[n]maneira mais fácil de lidar com ele?[n][f 1 3 65535][w][e]
+[s][bup 0 2 102 65535 0][f 4 10 65535 0 0][vp 8 0 2 1032 0 2]Ele está mais teimoso do que nunca...[n]Não existe uma maneira mais fácil[n]de lidar com ele...?[n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_HOWTOSTEAL_010_0 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1033 0 3]Então vamos com o Plano B! Veja aquele[n]terraço ali!?[n][f 1 3 65535][w][e]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1034 0 3]Peça a alguém que vá lá enquanto os outros[n]estão atacando Kamoshida![n][f 1 3 65535][w][e]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1035 0 3]Vamos pegar Kamoshida de surpresa e roubar o[n]tesouro como os ladrões fantasmas que somos![n][f 1 3 65535][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1033 0 3]Vamos para o plano B![n]Tá vendo aquela varanda lá em cima?[n][f 1 3 65535][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1034 0 3]Envie-nos alguém enquanto os outros[n]atacam Kamoshida![n][f 1 3 65535][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1035 0 3]Vamos pegá-lo de surpresa[n]e roubar o Tesouro[n]dos verdadeiros Phantom Thieves que somos![n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_NORYUJI_000_001 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1036 0 3]Pensar que ele daria a alguém como eu um[n]tempo tão difícil... acho que é hora de[n]retirar o plano B...[n][f 1 3 65535][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1036 0 3]Eu não posso acreditar que ele está dando tanto[n]trabalho para alguém como eu... Eu diria que é[n]hora de passar para o plano B...[n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_HAKENNEW_990_001 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1037 0 3]Entendo... nesse caso, hora do Plano B![n][f 1 3 65535][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1037 0 3]Entendo... Vá em frente com o plano B, então![n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_HAKENNEW_010_001 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1038 0 3]Olhe para aquele terraço![n][f 1 3 65535][w][e]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1039 0 3]Enquanto os outros estão chamando a atenção[n]de Kamoshida, peça a alguém para lá![n][f 1 3 65535][w][e]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1040 0 3]Vamos roubar o tesouro sem que ele perceba![n][f 1 3 65535][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1038 0 3]Olha essa sacada![n][f 1 3 65535][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1039 0 3]Enquanto os outros chamam[n]a atenção de Kamoshida, mande[n]alguém até lá![n][f 1 3 65535][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1040 0 3]Roubamos o Tesouro[n]sem que ele perceba![n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_HOLDUP_HOW2STEAL]
-[s][f 4 2] Às vezes, pode ser capaz de dar ordens de[n]operação especiais aos colegas de equipe[n]por sua vez.[n][f 1 3 65535][w][e]
-[s]Considere as sugestões de seus colegas de[n]equipe e selecione o que você acha que[n]poderá concluir a operação.[n][f 1 3 65535][w][e]
-[s]No entanto, você terá que lutar contra um[n]homem enquanto seu companheiro de equipe[n]está fazendo a ação.[n][f 1 3 65535][w][e]
+[s]Por sua vez, ele pode às vezes [f 4 2][n]ordenar seus companheiros[n]para realizar ações especiais.[n][f 1 3 65535][w][e]
+[s]Ouça as sugestões de seus aliados[n]e escolha aquele que você acha que[n]poderá concluir a operação.[n][f 1 3 65535][w][e]
+[s]Enquanto seu companheiro escolhido estiver[n]ocupado executando a ação especial, você lutará[n]com um homem a menos.[n][f 1 3 65535][w][e]
 
 [sel SEL_BTL_HAKENOPEN01_010 top]
-[s]Vamos para a coroa.[e]
-[s]Devemos levar o tesouro.[e]
+[s]Nosso objetivo é a coroa.[e]
+[s]Vamos pegar o tesouro.[e]
 
-[msg MSG_BTL_HOWTOSTEAL_100_0 [Shadow Kamoshida]]
-[s][vp 8 0 2 1040 1 201]Vou dizer quantas vezes eu preciso: não me[n]desafie! Porque eu sou o rei![n][f 1 3 65535][w][e]
+[msg MSG_BTL_HOWTOSTEAL_100_0 [Ombra di Kamoshida]]
+[s][vp 8 0 2 1040 1 201]Vou repetir até que você[n]entenda: não me desafie![n]Eu sou o rei![n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_HOWTOSTEAL_011_0 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1042 0 3]Não vamos chegar a lugar nenhum com força[n]bruta...[n][f 1 3 65535][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1042 0 3]Com força bruta[n]não conseguiremos nada...[n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_HOWTOSTEAL_999_0 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1043 0 3]O que nós fazemos!?[n][f 1 3 65535][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1043 0 3]O que fazemos?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_HOWTOSTEAL_012_0 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1042 0 3]Então vamos com o Plano B! Veja aquele[n]terraço ali!?[n][f 1 3 65535][w][e]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1043 0 3]Peça a alguém que vá lá enquanto os outros[n]estão atacando Kamoshida![n][f 1 3 65535][w][e]
-[s][bup 0 3 1 65535 0][f 4 10 65535 0 0][vp 8 0 2 1044 0 3]Vamos pegar Kamoshida de surpresa e roubar o[n]tesouro como os ladrões fantasmas que somos![n][f 1 3 65535][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1042 0 3]Vamos para o plano B![n]Tá vendo aquela varanda lá em cima?[n][f 1 3 65535][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1043 0 3]Envie-nos alguém enquanto os outros[n]atacam Kamoshida![n][f 1 3 65535][w][e]
+[s][bup 0 3 1 65535 0][f 4 10 65535 0 0][vp 8 0 2 1044 0 3]Vamos pegá-lo de surpresa[n]e roubar o Tesouro[n]dos verdadeiros Phantom Thieves que somos![n][f 1 3 65535][w][e]
 
-[msg MSG_BTL_SPSPIKE_000_000 [Shadow Kamoshida]]
-[s][vp 8 0 2 1056 1 201]Como você ousa continuar me desafiando...[n]Parece que eu tenho que trazer à tona as[n]grandes armas![n][f 1 3 65535][w][e]
-[s][vp 8 0 2 1057 1 201]Escravos! Traga você-sabe o que![n][f 1 3 65535][w][e]
+[msg MSG_BTL_SPSPIKE_000_000 [Ombra di Kamoshida]]
+[s][vp 8 0 2 1056 1 201]Como você ousa continuar me desafiando...[n]Parece que eu tenho que[n]usar artilharia![n][f 1 3 65535][w][e]
+[s][vp 8 0 2 1057 1 201]Escravos! Traga o que você sabe![n][f 1 3 65535][w][e]
 
-[msg MSG_BTL_SPSPIKE_010_000 [Shadow Kamoshida]]
-[s][vp 8 0 2 1058 1 201]Hora de meu killshot de quando eu estava[n]ativo e arrasando![n][f 1 3 65535][w][e]
-[s][vp 8 0 2 1059 1 201]Killshot... como eu vou fazer a morte![n][f 1 3 65535][w][e]
+[msg MSG_BTL_SPSPIKE_010_000 [Ombra di Kamoshida]]
+[s][vp 8 0 2 1058 1 201]Vou usar o golpe mortal que me tornou[n]famoso durante minha carreira![n][f 1 3 65535][w][e]
+[s][vp 8 0 2 1059 1 201]Golpe mortal... porque[n]você não vai ficar vivo![n][f 1 3 65535][w][e]
 
-[msg MSG_BTL_SPSPIKE02_000_00 [Shadow Kamoshida]]
+[msg MSG_BTL_SPSPIKE02_000_00 [Ombra di Kamoshida]]
 [s][vp 8 0 2 1060 1 201]Você é bastante tenaz...[n][f 1 3 65535][w][e]
 
-[msg MSG_KAMOSHIDA_ATTENTION0 [Shadow Kamoshida]]
-[s][vp 8 0 2 1071 1 201]Agora ouça. Esta escola existe porque estou[n]por perto.[n][f 1 3 65535][w][e]
-[s][vp 8 0 2 1072 1 201]Vocês são os únicos que não me respeitam,[n]você sabe![n][f 1 3 65535][w][e]
+[msg MSG_KAMOSHIDA_ATTENTION0 [Ombra di Kamoshida]]
+[s][vp 8 0 2 1071 1 201]Ouça com atenção. Esta escola[n]existe apenas por minha causa.[n][f 1 3 65535][w][e]
+[s][vp 8 0 2 1072 1 201]Vocês são os únicos que não me respeitam, sabia?[n][f 1 3 65535][w][e]
 
 [msg MSG_KAMOSHIDA_ATTENTION0_2 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 2 1073 0 3]... tudo está indo como planejado.[n][f 1 3 65535][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 2 1073 0 3]...Tudo está indo como planejado.[n][f 1 3 65535][w][e]
 
 [msg MSG_KAMOSHIDA_ATTENTION0_3 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 2 1074 0 3]Hora de aproveitar esta oportunidade para[n]aproveitar o tesouro![n][f 1 3 65535][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 2 1074 0 3]Devemos aproveitar esta oportunidade[n]para pegar o Tesouro![n][f 1 3 65535][w][e]
 
 [msg MSG_KAMOSHIDA_ATTENTION0_4 [Ryuji]]
-[s][bup 0 2 102 65535 0][f 4 10 65535 0 0][vp 8 0 2 1077 0 2]Sim, tanto faz, cara...[n][f 1 3 65535][w][e]
+[s][bup 0 2 102 65535 0][f 4 10 65535 0 0][vp 8 0 2 1077 0 2]Sim, claro amigo...[n][f 1 3 65535][w][e]
 
 [msg MSG_KAMOSHIDA_ATTENTION0_5 [Ryuji]]
-[s][bup 0 2 102 65535 0][f 4 10 65535 0 0][vp 8 0 2 1078 0 2]Qualquer maneira. Agora é minha chance![n][f 1 3 65535][w][e]
+[s][bup 0 2 102 65535 0][f 4 10 65535 0 0][vp 8 0 2 1078 0 2]Tudo bem. É minha chance![n][f 1 3 65535][w][e]
 
-[msg MSG_KAMOSHIDA_ATTENTION0_6 [Shadow Kamoshida]]
-[s][vp 8 0 2 1083 1 201]Você está entendendo mal tudo![n]Eu não assediei sexualmente ninguém![n][f 1 3 65535][w][e]
+[msg MSG_KAMOSHIDA_ATTENTION0_6 [Ombra di Kamoshida]]
+[s][vp 8 0 2 1083 1 201]Você entendeu tudo errado![n]Eu não molestei ninguém![n][f 1 3 65535][w][e]
 
-[msg MSG_KAMOSHIDA_ATTENTION0_7 [Shadow Kamoshida]]
-[s][vp 8 0 2 1084 1 201]Eles vieram para mim porque queriam ficar do[n]meu lado bom![n][f 1 3 65535][w][e]
+[msg MSG_KAMOSHIDA_ATTENTION0_7 [Ombra di Kamoshida]]
+[s][vp 8 0 2 1084 1 201]Eles vieram até mim![n]Eles queriam cair nas minhas boas graças![n][f 1 3 65535][w][e]
 
 [msg MSG_KAMOSHIDA_ATTENTION0_8 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 2 1081 0 3]Ele não notou nada aqui.[n][f 1 3 65535][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 2 1081 0 3]Ele não percebeu nada.[n][f 1 3 65535][w][e]
 
 [msg MSG_KAMOSHIDA_ATTENTION0_9 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 2 1082 0 3]Bom. Só um pouco mais para o tesouro![n][f 1 3 65535][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 2 1082 0 3]Bom. Só mais um pouco de esforço[n]e o Tesouro será nosso![n][f 1 3 65535][w][e]
 
 [msg MSG_KAMOSHIDA_ATTENTION0_10 [Ryuji]]
 [s][bup 0 2 102 65535 0][f 4 10 65535 0 0][vp 8 0 2 1085 0 2]Que idiota total...[n][f 1 3 65535][w][e]
 
 [msg MSG_KAMOSHIDA_ATTENTION0_11 [Ryuji]]
-[s][bup 0 2 102 65535 0][f 4 10 65535 0 0][vp 8 0 2 1086 0 2]Mas pelo menos está me deixando mais perto[n]do tesouro.[n][f 1 3 65535][w][e]
+[s][bup 0 2 102 65535 0][f 4 10 65535 0 0][vp 8 0 2 1086 0 2]Mas assim pelo menos eu posso[n]chegar perto do Tesouro.[n][f 1 3 65535][w][e]
 
-[msg MSG_KAMOSHIDA_ATTENTION0_12 [Shadow Kamoshida]]
-[s][vp 8 0 2 1087 1 201]Há um menos de vocês?[n][f 1 3 65535][w][e]
+[msg MSG_KAMOSHIDA_ATTENTION0_12 [Ombra di Kamoshida]]
+[s][vp 8 0 2 1087 1 201]Você diminuiu em número?[n][f 1 3 65535][w][e]
 
-[msg MSG_KAMOSHIDA_ATTENTION0_13 [Shadow Kamoshida]]
-[s][vp 8 0 2 1088 1 201]Eu sabia! Eles estão faltando! Para onde[n]eles foram!?[n][f 1 3 65535][w][e]
+[msg MSG_KAMOSHIDA_ATTENTION0_13 [Ombra di Kamoshida]]
+[s][vp 8 0 2 1088 1 201]Eu sabia! Falta um![n]Para onde foi?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_KAMOSHIDA_ATTENTION0_14 [Morgana]]
-[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 0 2 1089 0 3]Já está checando e companheiro![n][f 1 3 65535][w][e]
+[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 0 2 1089 0 3]Xeque-mate![n][f 1 3 65535][w][e]
 
 [msg MSG_KAMOSHIDA_ATTENTION0_15 [Ryuji]]
-[s][bup 0 2 101 65535 0][f 4 10 65535 0 0][vp 8 0 2 1092 0 2]Demorou muito tempo para perceber, idiota![n][f 1 3 65535][w][e]
+[s][bup 0 2 101 65535 0][f 4 10 65535 0 0][vp 8 0 2 1092 0 2]Só agora você descobriu, idiota![n][f 1 3 65535][w][e]
 
-[msg MSG_ATTENTION_MORGANAMIS [Shadow Kamoshida]]
-[s][vp 8 0 2 1065 1 201]Ei! Seu gato... gosto! Vou fazer você correr[n]voltas pela escola se tentar algo engraçado![n][f 1 3 65535][w][e]
+[msg MSG_ATTENTION_MORGANAMIS [Ombra di Kamoshida]]
+[s][vp 8 0 2 1065 1 201]Você aí! Subespécie de gato... Se você tentar ser[n]esperto, farei você correr círculos pela escola![n][f 1 3 65535][w][e]
 
 [msg MSG_ATTENTION_MORGANAMIS_2 [Morgana]]
-[s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 0 2 1066 0 3]Que erro eu fiz...[n][f 1 3 65535][w][e]
+[s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 0 2 1066 0 3]Cometi um grande erro...![n][f 1 3 65535][w][e]
 
 [msg MSG_ATTENTION_MORGANAMIS_3 [Morgana]]
-[s][bup 0 3 7 0 0][f 4 10 65535 0 0][vp 8 0 2 1067 0 3]Você tem que atacar mais e chamar sua[n]atenção![n][f 1 3 65535][w][e]
+[s][bup 0 3 7 0 0][f 4 10 65535 0 0][vp 8 0 2 1067 0 3]Você tem que atacá-lo mais[n]para chamar sua atenção![n][f 1 3 65535][w][e]
 
-[msg MSG_ATTENTION_REIJIMISS_ [Shadow Kamoshida]]
-[s][vp 8 0 2 1068 1 201]Ei, Sakamoto! Por que diabos você não pode[n]se comportar, hein!?[n][f 1 3 65535][w][e]
+[msg MSG_ATTENTION_REIJIMISS_ [Ombra di Kamoshida]]
+[s][vp 8 0 2 1068 1 201]Oi Sakamoto! Por que diabos[n]você não age direito hein?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_ATTENTION_REIJIMISS__2 [Ryuji]]
-[s][bup 0 2 104 65535 0][f 4 10 65535 0 0][vp 8 0 2 1069 0 2]Porcaria![n][f 1 3 65535][w][e]
+[s][bup 0 2 104 65535 0][f 4 10 65535 0 0][vp 8 0 2 1069 0 2]Merda![n][f 1 3 65535][w][e]
 
 [msg MSG_ATTENTION_REIJIMISS__3 [Ryuji]]
-[s][bup 0 2 105 65535 0][f 4 10 65535 0 0][vp 8 0 2 1070 0 2]Se vocês não o atacarem mais, ele notará o[n]que estamos fazendo![n][f 1 3 65535][w][e]
+[s][bup 0 2 105 65535 0][f 4 10 65535 0 0][vp 8 0 2 1070 0 2]Se você não o atacar com mais força,[n]ele perceberá nosso plano![n][f 1 3 65535][w][e]
 
-[msg MSG_ATTENTION_ANNMISS_00 [Shadow Kamoshida]]
-[s][vp 8 0 2 1062 1 201]Para onde você acha que está indo, Takamaki?[n]Você e aquele seu corpo bom![n][f 1 3 65535][w][e]
+[msg MSG_ATTENTION_ANNMISS_00 [Ombra di Kamoshida]]
+[s][vp 8 0 2 1062 1 201]Onde você pensa que está indo,[n]Takamaki? Com esse corpo incrível que você tem![n][f 1 3 65535][w][e]
 
 [msg MSG_ATTENTION_ANNMISS_01 [Ann]]
-[s][bup 0 4 105 65535 0][f 4 10 65535 0 0][vp 8 0 2 1063 0 4]Ugh, ele continua olhando para mim...[n][f 1 3 65535][w][e]
+[s][bup 0 4 105 65535 0][f 4 10 65535 0 0][vp 8 0 2 1063 0 4]Ugh, continue olhando para mim...[n][f 1 3 65535][w][e]
 
 [msg MSG_ATTENTION_ANNMISS_02 [Ann]]
-[s][bup 0 4 103 65535 0][f 4 10 65535 0 0][vp 8 0 2 1064 0 4]Ei, eu não deveria ficar aqui?[n][f 1 3 65535][w][e]
+[s][bup 0 4 103 65535 0][f 4 10 65535 0 0][vp 8 0 2 1064 0 4]Ei, eu não deveria estar aqui?[n][f 1 3 65535][w][e]
 
-[msg MSG_BTLSTEALAFTER_000_00 [Shadow Kamoshida]]
-[s][vp 8 0 2 1093 1 201]Nããão! Meu... meu precioso...[n][f 1 3 65535][w][e]
+[msg MSG_BTLSTEALAFTER_000_00 [Ombra di Kamoshida]]
+[s][vp 8 0 2 1093 1 201]Nããão! Meu...precioso...![n][f 1 3 65535][w][e]
 
 [msg MSG_BTLSTEALAFTER_010_00 [Morgana]]
-[s][bup 0 3 1 65535 0][f 4 10 65535 0 0][vp 8 0 2 1094 0 3]Bom, Kamoshida está abalado![n][f 1 3 65535][w][e]
+[s][bup 0 3 1 65535 0][f 4 10 65535 0 0][vp 8 0 2 1094 0 3]Bem, Kamoshida está abalado![n][f 1 3 65535][w][e]
 
 [msg MSG_BTLSTEALAFTER_020_00 [Ann]]
-[s][bup 0 4 101 65535 0][f 4 10 65535 0 0][vp 8 0 2 1095 0 4]Eu acho que podemos fazer isso![n][f 1 3 65535][w][e]
+[s][bup 0 4 101 65535 0][f 4 10 65535 0 0][vp 8 0 2 1095 0 4]Nós podemos fazer isso...![n][f 1 3 65535][w][e]
 
-[msg MSG_BTLSTART_000_000EX [Shadow Kamoshida]]
-[s][vp 8 0 2 1001 1 201]Vocês, malditas, pirralhos de merda![n]Você não foi ensinado a não apontar para as[n]pessoas!? Huh!?[n][f 1 3 65535][w][e]
+[msg MSG_BTLSTART_000_000EX [Ombra di Kamoshida]]
+[s][vp 8 0 2 1001 1 201]Malditos pirralhos imprestáveis![n]Eles não te ensinaram[n]a não incomodar os outros?!? Hã?[n][f 1 3 65535][w][e]
 
 [msg MSG_BTLSTART_010_003EX [Ann]]
-[s][bup 0 4 102 65535 0][f 4 10 65535 0 0][vp 8 0 2 1002 0 4]Você vai parar de fazer isso todas as vezes!?[n][f 1 3 65535][w][e]
+[s][bup 0 4 102 65535 0][f 4 10 65535 0 0][vp 8 0 2 1002 0 4]Você vai parar[n]de fazer isso toda vez?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_BTLSTART_020_001EX [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1003 0 3]Olhar! O tesouro está ali![n][f 1 3 65535][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1003 0 3]Ver! O Tesouro está lá em cima![n][f 1 3 65535][w][e]
 
 [msg MSG_BTLSTART_030_001EX [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1005 0 3]Devemos pegá-lo desprevenido e roubá-lo![n][f 1 3 65535][w][e]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1004 0 3]Vamos atacá-lo e esperar por essa[n]oportunidade![n][f 1 3 65535][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1005 0 3]Devemos pegá-lo de surpresa[n]e roubá-lo![n][f 1 3 65535][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1004 0 3]Vamos atacá-lo e esperar[n]pelo momento certo![n][f 1 3 65535][w][e]
 
-[msg MSG_BTL_USETROPHY_000_00_2 [Shadow Kamoshida]]
-[s][vp 8 0 2 1006 1 201]Mmm. Mmm. Mmm. Isso atinge o local![n][f 1 3 65535][w][e]
-[s][vp 8 0 2 1007 1 201]Venha para mim, seus pedaços de merda![n]Eu não estou deixando você dormir esta noite![n][f 1 3 65535][w][e]
+[msg MSG_BTL_USETROPHY_000_00_2 [Ombra di Kamoshida]]
+[s][vp 8 0 2 1006 1 201]Hum. Hum. Mmm.[n]Ele acertou em cheio![n][f 1 3 65535][w][e]
+[s][vp 8 0 2 1007 1 201]Vamos, merda![n]Eu não vou deixar você dormir esta noite![n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_USETROPHY_020_00_2 [Morgana]]
-[s][bup 0 3 4 65535 0][f 4 10 65535 0 0][vp 8 0 2 1008 0 3]Ele se curou? É por comer uma dessas...[n]coisas no troféu?[n][f 1 3 65535][w][e]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1009 0 3]Então devemos destruir isso primeiro![n][f 1 3 65535][w][e]
+[s][bup 0 3 4 65535 0][f 4 10 65535 0 0][vp 8 0 2 1008 0 3]Ele cuidou de si mesmo? Talvez ele tenha feito[n]isso comendo uma daquelas... coisas dentro do[n]troféu?[n][f 1 3 65535][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1009 0 3]Então devemos primeiro[n]destruir isso![n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_USETROPHY_030_00_2 [Morgana]]
-[s][bup 0 3 4 65535 0][f 4 10 65535 0 0][vp 8 0 2 1008 0 3]Ele se curou? É por comer uma dessas...[n]coisas no troféu?[n][f 1 3 65535][w][e]
+[s][bup 0 3 4 65535 0][f 4 10 65535 0 0][vp 8 0 2 1008 0 3]Ele cuidou de si mesmo? Talvez ele tenha feito[n]isso comendo uma daquelas... coisas dentro do[n]troféu?[n][f 1 3 65535][w][e]
 
-[msg MSG_BTL_USETROP02_000_00_2 [Shadow Kamoshida]]
-[s][vp 8 0 2 1010 1 201]Mmmmm! Essa é a coisa boa![n]Agora estou de volta ao jogo![n][f 1 3 65535][w][e]
+[msg MSG_BTL_USETROP02_000_00_2 [Ombra di Kamoshida]]
+[s][vp 8 0 2 1010 1 201]Mmmmm! Ele acertou em cheio![n]Agora estou de volta à luta![n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_USETROP02_010_00_2 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1011 0 3]Não vamos durar se deixarmos esse troféu![n][f 1 3 65535][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1011 0 3]Não conseguiremos se[n]não tirarmos esse troféu dele![n][f 1 3 65535][w][e]
 
-[msg MSG_BTL_TROPHY99_000_000_2 [Shadow Kamoshida]]
-[s][vp 8 0 2 1012 1 201]*suspiro* Ei![n][f 1 3 65535][w][e]
-[s][vp 8 0 2 1013 1 201]Você não sabe o que vale isso, então pare de[n]tocá-lo! Não faça mais isso, entendeu? Eu[n]te avisei![n][f 1 3 65535][w][e]
+[msg MSG_BTL_TROPHY99_000_000_2 [Ombra di Kamoshida]]
+[s][vp 8 0 2 1012 1 201]Ei![n][f 1 3 65535][w][e]
+[s][vp 8 0 2 1013 1 201]Você não tem ideia de quanto vale,[n]então não toque! Não faça isso de novo,[n]entendeu? Eu avisei![n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_TROPHY99_010_001_2 [Morgana]]
-[s][bup 0 3 1 65535 0][f 4 10 65535 0 0][vp 8 0 2 1014 0 3]Quando alguém nos diz para não fazer algo,[n]isso nos faz querer fazer ainda mais![n][f 1 3 65535][w][e]
+[s][bup 0 3 1 65535 0][f 4 10 65535 0 0][vp 8 0 2 1014 0 3]Quando eles nos dizem[n]para não fazer algo, nós[n]queremos ainda mais fazer![n][f 1 3 65535][w][e]
 
-[msg MSG_BTL_TROPHYEND_000_00_2 [Shadow Kamoshida]]
-[s][vp 8 0 2 1015 1 201]... ACK![n][f 1 3 65535][w][e]
-[s][vp 8 0 2 1024 1 201]De jeito nenhum... isso foi de quando eu[n]ganhei o nacional...[n][f 1 3 65535][w][e]
+[msg MSG_BTL_TROPHYEND_000_00_2 [Ombra di Kamoshida]]
+[s][vp 8 0 2 1015 1 201]...Argh![n][f 1 3 65535][w][e]
+[s][vp 8 0 2 1024 1 201]Não é possível... Deram-me[n]por ganhar o campeonato...[n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_TROPHYEND_010_00_2 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1017 0 3]Tudo bem![n][f 1 3 65535][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1017 0 3]Ótimo![n][f 1 3 65535][w][e]
 
-[msg MSG_BTL_HOLDUP01_000_000_2 [Shadow Kamoshida]]
-[s][vp 8 0 2 1018 1 201]Você acha que pode se safar de fazer uma[n]coisa dessas? Você percebe quem eu sou!?[n][f 1 3 65535][w][e]
-[s][vp 8 0 2 1019 1 201]Eu sou Kamoshida! Você não entende!?[n][f 1 3 65535][w][e]
+[msg MSG_BTL_HOLDUP01_000_000_2 [Ombra di Kamoshida]]
+[s][vp 8 0 2 1018 1 201]Você acha que pode se safar[n]desse jeito?[n]Você não entende quem eu sou?!?[n][f 1 3 65535][w][e]
+[s][vp 8 0 2 1019 1 201]...Eu sou Kamoshida![n]Você não entendeu?!?[n][f 1 3 65535][w][e]
 
 [sel SEL_BTL_HOLDUP01_010EX top]
-[s]Sim, nós fazemos.[e]
-[s]E daí?[e]
+[s]É sim.[e]
+[s]Tão?[e]
 [s]Vou pensar nisso mais tarde.[e]
 
-[msg MSG_BTL_HOLDUP01_020_000_2 [Shadow Kamoshida]]
-[s][vp 8 0 2 1020 1 201]E ainda assim você faz isso!? Isso é ainda[n]pior![n][f 1 3 65535][w][e]
-[s][vp 8 0 2 1021 1 201]Vou fazer você se arrepender disso! Eu sou o[n]rei![n][f 1 3 65535][w][e]
+[msg MSG_BTL_HOLDUP01_020_000_2 [Ombra di Kamoshida]]
+[s][vp 8 0 2 1020 1 201]Você tenta de novo?!?[n]Pior![n][f 1 3 65535][w][e]
+[s][vp 8 0 2 1021 1 201]Eu vou fazer você se arrepender![n]Eu sou o rei![n][f 1 3 65535][w][e]
 
-[msg MSG_BTL_HOLDUP01_021_000_2 [Shadow Kamoshida]]
-[s][vp 8 0 2 1022 1 201]Huh!?[n][f 1 3 65535][w][e]
-[s][vp 8 0 2 1023 1 201]Como se eu continuasse dizendo! Eu sou[n]Kamoshida! Eu sou o rei![n][f 1 3 65535][w][e]
+[msg MSG_BTL_HOLDUP01_021_000_2 [Ombra di Kamoshida]]
+[s][vp 8 0 2 1022 1 201]Hã!?![n][f 1 3 65535][w][e]
+[s][vp 8 0 2 1023 1 201]Eu continuo dizendo isso![n]Eu sou Kamoshida! Eu sou o rei![n][f 1 3 65535][w][e]
 
-[msg MSG_BTL_HOLDUP01_022_000_2 [Shadow Kamoshida]]
-[s][vp 8 0 2 1024 1 201]Besteira! Estou acima de tudo neste castelo![n][f 1 3 65535][w][e]
-[s][vp 8 0 2 1025 1 201]Eu sou Kamoshida! Eu sou o rei aqui![n][f 1 3 65535][w][e]
+[msg MSG_BTL_HOLDUP01_022_000_2 [Ombra di Kamoshida]]
+[s][vp 8 0 2 1024 1 201]Absurdo! Neste castelo[n]eu comando![n][f 1 3 65535][w][e]
+[s][vp 8 0 2 1025 1 201]Eu sou Kamoshida! Aqui eu sou o rei![n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_HOLDUP01_030_002_2 [Ryuji]]
-[s][bup 0 2 102 65535 0][f 4 10 65535 0 0][vp 8 0 2 1026 0 2]Você olha para todos... mas é seriamente[n]coxo agora.[n][f 1 3 65535][w][e]
+[s][bup 0 2 102 65535 0][f 4 10 65535 0 0][vp 8 0 2 1026 0 2]Você menospreza todo mundo...[n]mas agora você é apenas um perdedor.[n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_HOLDUP01_040_003_2 [Ann]]
-[s][bup 0 4 102 65535 0][f 4 10 65535 0 0][vp 8 0 2 1027 0 4]Viemos todo esse caminho para roubar isso![n]Você vai desistir e entregar?[n][f 1 3 65535][w][e]
+[s][bup 0 4 102 65535 0][f 4 10 65535 0 0][vp 8 0 2 1027 0 4]Viemos até aqui para roubar aquela coisa! Agora[n]você só quer entregar?[n][f 1 3 65535][w][e]
 
-[msg MSG_BTL_HOLDUP01_045_000_2 [Shadow Kamoshida]]
-[s][vp 8 0 2 1028 1 201]Silêncio! Não vou deixar que você tenha isso![n][f 1 3 65535][w][e]
+[msg MSG_BTL_HOLDUP01_045_000_2 [Ombra di Kamoshida]]
+[s][vp 8 0 2 1028 1 201]Silêncio! Eu não vou deixar pessoas como você se[n]apossar disso![n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_HOLDUP01_050_001_2 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1029 0 3]Você ainda tem energia para dizer coisas[n]assim!?[n][f 1 3 65535][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1029 0 3]Você ainda tem força[n]para dizer algo assim?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_HOLDUP01_060_001_2 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1030 0 3]Então vamos aumentar nosso jogo também![n][f 1 3 65535][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1030 0 3]Então nós também colocaremos todas as nossas[n]forças em jogo![n][f 1 3 65535][w][e]
 
-[msg MSG_BTL_HOWTOSTEAL_000_0_3 [Shadow Kamoshida]]
-[s][vp 8 0 2 1031 1 201]Eu sou o rei! Se eu não estiver, então quem[n]é!?[n][f 1 3 65535][w][e]
+[msg MSG_BTL_HOWTOSTEAL_000_0_3 [Ombra di Kamoshida]]
+[s][vp 8 0 2 1031 1 201]Eu sou o rei...![n]Se não eu, então quem?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_HOWTOSTEAL_000_0_4 [Ryuji]]
-[s][bup 0 2 102 65535 0][f 4 10 65535 0 0][vp 8 0 2 1032 0 2]Ele é tão teimoso como sempre... Não há uma[n]maneira mais fácil de lidar com ele?[n][f 1 3 65535][w][e]
+[s][bup 0 2 102 65535 0][f 4 10 65535 0 0][vp 8 0 2 1032 0 2]Ele está mais teimoso do que nunca...[n]Não existe uma maneira mais fácil[n]de lidar com ele...?[n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_HOWTOSTEAL_010_0_2 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1033 0 3]Então vamos com o Plano B! Veja aquele[n]terraço ali!?[n][f 1 3 65535][w][e]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1034 0 3]Enquanto os outros estão chamando a atenção[n]de Kamoshida, peça a alguém para lá![n][f 1 3 65535][w][e]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1035 0 3]Vamos pegar Kamoshida de surpresa e roubar o[n]tesouro como os ladrões fantasmas que somos![n][f 1 3 65535][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1033 0 3]Vamos para o plano B![n]Tá vendo aquela varanda lá em cima?[n][f 1 3 65535][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1034 0 3]Enquanto os outros chamam[n]a atenção de Kamoshida, mande[n]alguém até lá![n][f 1 3 65535][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1035 0 3]Vamos pegá-lo de surpresa[n]e roubar o Tesouro[n]dos verdadeiros Phantom Thieves que somos![n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_NORYUJI_000_001E [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1036 0 3]Pensar que ele daria a alguém como eu um[n]tempo tão difícil... acho que é hora de[n]retirar o plano B...[n][f 1 3 65535][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1036 0 3]Eu não posso acreditar que ele está dando tanto[n]trabalho para alguém como eu... Eu diria que é[n]hora de passar para o plano B...[n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_HAKENNEW_990_001_2 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1037 0 3]Entendo... nesse caso, hora do Plano B![n][f 1 3 65535][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1037 0 3]Entendo... Vá em frente com o plano B, então![n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_HAKENNEW_010_001_2 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1038 0 3]Olhe para aquele terraço![n][f 1 3 65535][w][e]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1039 0 3]Peça a alguém que vá lá enquanto os outros[n]estão atacando Kamoshida![n][f 1 3 65535][w][e]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1040 0 3]Vamos roubar o tesouro sem que ele perceba![n][f 1 3 65535][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1038 0 3]Olha essa sacada![n][f 1 3 65535][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1039 0 3]Envie-nos alguém enquanto os outros[n]atacam Kamoshida![n][f 1 3 65535][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1040 0 3]Roubamos o Tesouro[n]sem que ele perceba![n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_HOLDUP_HOW2STEAL_2]
-[s][f 4 2] Às vezes, pode ser capaz de dar ordens de[n]operação especiais aos colegas de equipe[n]por sua vez.[n][f 1 3 65535][w][e]
-[s]Considere as sugestões de seus colegas de[n]equipe e selecione o que você acha que[n]poderá concluir a operação.[n][f 1 3 65535][w][e]
-[s]No entanto, você terá que lutar contra um[n]homem enquanto seu companheiro de equipe[n]está fazendo a ação.[n][f 1 3 65535][w][e]
+[s]Por sua vez, ele pode às vezes [f 4 2][n]ordenar seus companheiros[n]para realizar ações especiais.[n][f 1 3 65535][w][e]
+[s]Ouça as sugestões de seus aliados[n]e escolha aquele que você acha que[n]poderá concluir a operação.[n][f 1 3 65535][w][e]
+[s]Enquanto seu companheiro escolhido estiver[n]ocupado executando a ação especial, você lutará[n]com um homem a menos.[n][f 1 3 65535][w][e]
 
 [sel SEL_BTL_HAKENOPEN01_010E top]
-[s]Vamos para a coroa.[e]
-[s]Devemos levar o tesouro.[e]
+[s]Nosso objetivo é a coroa.[e]
+[s]Vamos pegar o tesouro.[e]
 
-[msg MSG_BTL_HOWTOSTEAL_100_0_2 [Shadow Kamoshida]]
-[s][vp 8 0 2 1041 1 201]Vou dizer quantas vezes eu preciso: não me[n]desafie! Porque eu sou o rei![n][f 1 3 65535][w][e]
+[msg MSG_BTL_HOWTOSTEAL_100_0_2 [Ombra di Kamoshida]]
+[s][vp 8 0 2 1041 1 201]Vou repetir até que você[n]entenda: não me desafie![n]Eu sou o rei![n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_HOWTOSTEAL_011_0_2 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1042 0 3]Não vamos chegar a lugar nenhum com força[n]bruta...[n][f 1 3 65535][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1042 0 3]Com força bruta[n]não conseguiremos nada...[n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_HOWTOSTEAL_999_0_2 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1043 0 3]O que nós fazemos!?[n][f 1 3 65535][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1043 0 3]O que fazemos!?![n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_HOWTOSTEAL_012_0_2 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1044 0 3]Então vamos com o Plano B! Veja aquele[n]terraço ali!?[n][f 1 3 65535][w][e]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1045 0 3]Peça a alguém que vá lá enquanto os outros[n]estão atacando Kamoshida![n][f 1 3 65535][w][e]
-[s][bup 0 3 1 65535 0][f 4 10 65535 0 0][vp 8 0 2 1046 0 3]Vamos pegar Kamoshida de surpresa e roubar o[n]tesouro como os ladrões fantasmas que somos![n][f 1 3 65535][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1044 0 3]Vamos para o plano B![n]Tá vendo aquela varanda lá em cima?[n][f 1 3 65535][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1045 0 3]Envie-nos alguém enquanto os outros[n]atacam Kamoshida![n][f 1 3 65535][w][e]
+[s][bup 0 3 1 65535 0][f 4 10 65535 0 0][vp 8 0 2 1046 0 3]Vamos pegá-lo de surpresa[n]e roubar o Tesouro[n]dos verdadeiros Phantom Thieves que somos![n][f 1 3 65535][w][e]
 
-[msg MSG_BTL_SPSPIKE_000_000E [Shadow Kamoshida]]
-[s][vp 8 0 2 1056 1 201]Como você ousa continuar me desafiando...[n]Parece que eu tenho que trazer à tona as[n]grandes armas![n][f 1 3 65535][w][e]
-[s][vp 8 0 2 1057 1 201]Escravos! Traga você-sabe o que![n][f 1 3 65535][w][e]
+[msg MSG_BTL_SPSPIKE_000_000E [Ombra di Kamoshida]]
+[s][vp 8 0 2 1056 1 201]Como você ousa continuar me desafiando...[n]Parece que eu tenho que[n]usar artilharia![n][f 1 3 65535][w][e]
+[s][vp 8 0 2 1057 1 201]Escravos! Traga o que você sabe![n][f 1 3 65535][w][e]
 
-[msg MSG_BTL_SPSPIKE_010_000E [Shadow Kamoshida]]
-[s][vp 8 0 2 1058 1 201]Hora de meu killshot de quando eu estava[n]ativo e arrasando![n][f 1 3 65535][w][e]
-[s][vp 8 0 2 1059 1 201]Killshot... como eu vou fazer a morte![n][f 1 3 65535][w][e]
+[msg MSG_BTL_SPSPIKE_010_000E [Ombra di Kamoshida]]
+[s][vp 8 0 2 1058 1 201]Vou usar o golpe mortal que me tornou[n]famoso durante minha carreira![n][f 1 3 65535][w][e]
+[s][vp 8 0 2 1059 1 201]Golpe mortal... porque[n]você não vai ficar vivo![n][f 1 3 65535][w][e]
 
-[msg MSG_BTL_SPSPIKE02_000_00_2 [Shadow Kamoshida]]
+[msg MSG_BTL_SPSPIKE02_000_00_2 [Ombra di Kamoshida]]
 [s][vp 8 0 2 1060 1 201]Você é bastante tenaz...[n][f 1 3 65535][w][e]
-[s][vp 8 0 2 1061 1 201]... Ah, eu entendo! Você quer ver meu[n]killshot de novo, não é?[n][f 1 3 65535][w][e]
+[s][vp 8 0 2 1061 1 201]...ah entendi! Você quer ver[n]meu golpe mortal de novo, não quer?[n][f 1 3 65535][w][e]
 
-[msg MSG_KAMOSHIDA_ATTENTION0_16 [Shadow Kamoshida]]
-[s][vp 8 0 2 1071 1 201]Agora ouça. Esta escola existe porque estou[n]por perto.[n][f 1 3 65535][w][e]
-[s][vp 8 0 2 1072 1 201]Vocês são os únicos que não me respeitam,[n]você sabe![n][f 1 3 65535][w][e]
+[msg MSG_KAMOSHIDA_ATTENTION0_16 [Ombra di Kamoshida]]
+[s][vp 8 0 2 1071 1 201]Ouça com atenção. Esta escola[n]existe apenas por minha causa.[n][f 1 3 65535][w][e]
+[s][vp 8 0 2 1072 1 201]Vocês são os únicos que não me respeitam, sabia?[n][f 1 3 65535][w][e]
 
 [msg MSG_KAMOSHIDA_ATTENTION0_17 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 2 1073 0 3]... tudo está indo como planejado.[n][f 1 3 65535][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 2 1073 0 3]...Tudo está indo como planejado.[n][f 1 3 65535][w][e]
 
 [msg MSG_KAMOSHIDA_ATTENTION0_18 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 2 1074 0 3]Hora de aproveitar esta oportunidade para[n]aproveitar o tesouro![n][f 1 3 65535][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 2 1074 0 3]Devemos aproveitar esta oportunidade[n]para pegar o Tesouro![n][f 1 3 65535][w][e]
 
 [msg MSG_KAMOSHIDA_ATTENTION0_19 [Ryuji]]
-[s][bup 0 2 102 65535 0][f 4 10 65535 0 0][vp 8 0 2 1077 0 2]Sim, tanto faz, cara...[n][f 1 3 65535][w][e]
+[s][bup 0 2 102 65535 0][f 4 10 65535 0 0][vp 8 0 2 1077 0 2]Sim, claro amigo...[n][f 1 3 65535][w][e]
 
 [msg MSG_KAMOSHIDA_ATTENTION0_20 [Ryuji]]
-[s][bup 0 2 102 65535 0][f 4 10 65535 0 0][vp 8 0 2 1078 0 2]Qualquer maneira. Agora é minha chance![n][f 1 3 65535][w][e]
+[s][bup 0 2 102 65535 0][f 4 10 65535 0 0][vp 8 0 2 1078 0 2]Tudo bem. É minha chance![n][f 1 3 65535][w][e]
 
-[msg MSG_KAMOSHIDA_ATTENTION0_21 [Shadow Kamoshida]]
-[s][vp 8 0 2 1083 1 201]Você está entendendo mal tudo![n]Eu não assediei sexualmente ninguém![n][f 1 3 65535][w][e]
+[msg MSG_KAMOSHIDA_ATTENTION0_21 [Ombra di Kamoshida]]
+[s][vp 8 0 2 1083 1 201]Você entendeu tudo errado![n]Eu não molestei ninguém![n][f 1 3 65535][w][e]
 
-[msg MSG_KAMOSHIDA_ATTENTION0_22 [Shadow Kamoshida]]
-[s][vp 8 0 2 1084 1 201]Eles vieram para mim porque queriam ficar do[n]meu lado bom![n][f 1 3 65535][w][e]
+[msg MSG_KAMOSHIDA_ATTENTION0_22 [Ombra di Kamoshida]]
+[s][vp 8 0 2 1084 1 201]Eles vieram até mim![n]Eles queriam cair nas minhas boas graças![n][f 1 3 65535][w][e]
 
 [msg MSG_KAMOSHIDA_ATTENTION0_23 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 2 1081 0 3]Ele não notou nada aqui.[n][f 1 3 65535][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 2 1081 0 3]Ele não percebeu nada.[n][f 1 3 65535][w][e]
 
 [msg MSG_KAMOSHIDA_ATTENTION0_24 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 2 1082 0 3]Bom. Só um pouco mais para o tesouro![n][f 1 3 65535][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 2 1082 0 3]Bom. Só mais um pouco de esforço[n]e o Tesouro será nosso![n][f 1 3 65535][w][e]
 
 [msg MSG_KAMOSHIDA_ATTENTION0_25 [Ryuji]]
 [s][bup 0 2 102 65535 0][f 4 10 65535 0 0][vp 8 0 2 1085 0 2]Que idiota total...[n][f 1 3 65535][w][e]
 
 [msg MSG_KAMOSHIDA_ATTENTION0_26 [Ryuji]]
-[s][bup 0 2 102 65535 0][f 4 10 65535 0 0][vp 8 0 2 1086 0 2]Mas pelo menos está me deixando mais perto[n]do tesouro.[n][f 1 3 65535][w][e]
+[s][bup 0 2 102 65535 0][f 4 10 65535 0 0][vp 8 0 2 1086 0 2]Mas assim pelo menos eu posso[n]chegar perto do Tesouro.[n][f 1 3 65535][w][e]
 
-[msg MSG_KAMOSHIDA_ATTENTION0_27 [Shadow Kamoshida]]
-[s][vp 8 0 2 1090 1 201]Há um menos de vocês?[n][f 1 3 65535][w][e]
+[msg MSG_KAMOSHIDA_ATTENTION0_27 [Ombra di Kamoshida]]
+[s][vp 8 0 2 1090 1 201]Você diminuiu em número?[n][f 1 3 65535][w][e]
 
-[msg MSG_KAMOSHIDA_ATTENTION0_28 [Shadow Kamoshida]]
-[s][vp 8 0 2 1091 1 201]Eu sabia! Eles estão faltando! Para onde[n]eles foram!?[n][f 1 3 65535][w][e]
+[msg MSG_KAMOSHIDA_ATTENTION0_28 [Ombra di Kamoshida]]
+[s][vp 8 0 2 1091 1 201]Eu sabia! Falta um![n]Para onde foi?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_KAMOSHIDA_ATTENTION0_29 [Morgana]]
-[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 0 2 1089 0 3]Já está checando e companheiro![n][f 1 3 65535][w][e]
+[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 0 2 1089 0 3]Xeque-mate![n][f 1 3 65535][w][e]
 
 [msg MSG_KAMOSHIDA_ATTENTION0_30 [Ryuji]]
-[s][bup 0 2 101 65535 0][f 4 10 65535 0 0][vp 8 0 2 1092 0 2]Demorou muito tempo para perceber, idiota![n][f 1 3 65535][w][e]
+[s][bup 0 2 101 65535 0][f 4 10 65535 0 0][vp 8 0 2 1092 0 2]Só agora você descobriu, idiota![n][f 1 3 65535][w][e]
 
-[msg MSG_ATTENTION_MORGANAMIS_4 [Shadow Kamoshida]]
-[s][vp 8 0 2 1065 1 201]Ei! Seu gato... gosto! Vou fazer você correr[n]voltas pela escola se tentar algo engraçado![n][f 1 3 65535][w][e]
+[msg MSG_ATTENTION_MORGANAMIS_4 [Ombra di Kamoshida]]
+[s][vp 8 0 2 1065 1 201]Você aí! Subespécie de gato... Se você tentar ser[n]esperto, farei você correr círculos pela escola![n][f 1 3 65535][w][e]
 
 [msg MSG_ATTENTION_MORGANAMIS_5 [Morgana]]
-[s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 0 2 1066 0 3]Eu realmente estraguei tudo...[n][f 1 3 65535][w][e]
+[s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 0 2 1066 0 3]Eu estraguei tudo...[n][f 1 3 65535][w][e]
 
 [msg MSG_ATTENTION_MORGANAMIS_6 [Morgana]]
-[s][bup 0 3 7 0 0][f 4 10 65535 0 0][vp 8 0 2 1067 0 3]Você tem que atacar mais e chamar sua[n]atenção![n][f 1 3 65535][w][e]
+[s][bup 0 3 7 0 0][f 4 10 65535 0 0][vp 8 0 2 1067 0 3]Você tem que atacá-lo mais[n]para chamar sua atenção![n][f 1 3 65535][w][e]
 
-[msg MSG_ATTENTION_REIJIMISS__4 [Shadow Kamoshida]]
-[s][vp 8 0 2 1068 1 201]Ei, Sakamoto! Por que diabos você não pode[n]se comportar, hein!?[n][f 1 3 65535][w][e]
+[msg MSG_ATTENTION_REIJIMISS__4 [Ombra di Kamoshida]]
+[s][vp 8 0 2 1068 1 201]Oi Sakamoto! Por que diabos[n]você não age direito hein?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_ATTENTION_REIJIMISS__5 [Ryuji]]
-[s][bup 0 2 104 65535 0][f 4 10 65535 0 0][vp 8 0 2 1069 0 2]Porcaria![n][f 1 3 65535][w][e]
+[s][bup 0 2 104 65535 0][f 4 10 65535 0 0][vp 8 0 2 1069 0 2]Merda![n][f 1 3 65535][w][e]
 
 [msg MSG_ATTENTION_REIJIMISS__6 [Ryuji]]
-[s][bup 0 2 105 65535 0][f 4 10 65535 0 0][vp 8 0 2 1070 0 2]Se vocês não o atacarem mais, ele notará o[n]que estamos fazendo![n][f 1 3 65535][w][e]
+[s][bup 0 2 105 65535 0][f 4 10 65535 0 0][vp 8 0 2 1070 0 2]Se você não o atacar com mais força,[n]ele perceberá nosso plano![n][f 1 3 65535][w][e]
 
-[msg MSG_ATTENTION_ANNMISS_00_2 [Shadow Kamoshida]]
-[s][vp 8 0 2 1062 1 201]Para onde você acha que está indo, Takamaki?[n]Você e aquele seu corpo bom![n][f 1 3 65535][w][e]
+[msg MSG_ATTENTION_ANNMISS_00_2 [Ombra di Kamoshida]]
+[s][vp 8 0 2 1062 1 201]Onde você pensa que está indo,[n]Takamaki? Com esse corpo incrível que você tem![n][f 1 3 65535][w][e]
 
 [msg MSG_ATTENTION_ANNMISS_01_2 [Ann]]
-[s][bup 0 4 105 65535 0][f 4 10 65535 0 0][vp 8 0 2 1063 0 4]Ugh, ele continua olhando para mim...[n][f 1 3 65535][w][e]
+[s][bup 0 4 105 65535 0][f 4 10 65535 0 0][vp 8 0 2 1063 0 4]Ugh, continue olhando para mim...[n][f 1 3 65535][w][e]
 
 [msg MSG_ATTENTION_ANNMISS_02_2 [Ann]]
-[s][bup 0 4 103 65535 0][f 4 10 65535 0 0][vp 8 0 2 1064 0 4]Ei, eu não deveria ficar aqui?[n][f 1 3 65535][w][e]
+[s][bup 0 4 103 65535 0][f 4 10 65535 0 0][vp 8 0 2 1064 0 4]Ei, eu não deveria estar aqui?[n][f 1 3 65535][w][e]
 
-[msg MSG_BTLSTEALAFTER_000_00_2 [Shadow Kamoshida]]
-[s][vp 8 0 2 1093 1 201]Nããão! Meu... meu precioso...[n][f 1 3 65535][w][e]
+[msg MSG_BTLSTEALAFTER_000_00_2 [Ombra di Kamoshida]]
+[s][vp 8 0 2 1093 1 201]Nããão! Meu...precioso...![n][f 1 3 65535][w][e]
 
 [msg MSG_BTLSTEALAFTER_010_00_2 [Morgana]]
-[s][bup 0 3 1 65535 0][f 4 10 65535 0 0][vp 8 0 2 1094 0 3]Bom, Kamoshida está abalado![n][f 1 3 65535][w][e]
+[s][bup 0 3 1 65535 0][f 4 10 65535 0 0][vp 8 0 2 1094 0 3]Bem, Kamoshida está abalado![n][f 1 3 65535][w][e]
 
 [msg MSG_BTLSTEALAFTER_020_00_2 [Ann]]
-[s][bup 0 4 101 65535 0][f 4 10 65535 0 0][vp 8 0 2 1095 0 4]Eu acho que podemos fazer isso![n][f 1 3 65535][w][e]
+[s][bup 0 4 101 65535 0][f 4 10 65535 0 0][vp 8 0 2 1095 0 4]Nós podemos fazer isso...![n][f 1 3 65535][w][e]
 
 [msg MSG_BTLSTART_010_100 [Ann]]
 [s][bup 0 4 101 65535 0][f 4 10 65535 0 0][vp 8 0 2 1002 0 4](未使用)モナ! その前にアレ、やってみる?[n][f 1 3 65535][w][e]
@@ -533,16 +533,16 @@
 [msg MSG_BTL_EX_PROVOKE03B [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1022 0 3](未使用)どこ見てる! こっちだ![n]そこの役立たずのデカブツ![n][f 1 3 65535][w][e]
 
-[msg MSG_KAMOSHIDA_EX_PROVOKE [Shadow Kamoshida]]
+[msg MSG_KAMOSHIDA_EX_PROVOKE [Ombra di Kamoshida]]
 [s][vp 8 0 2 1077 1 201](未使用)ああ? 調子に乗りやがってガキがぁッ![n]そこを動くな坂本ぉッ![n][f 1 3 65535][w][e]
 
-[msg MSG_KAMOSHIDA_EX_PROVOKE_2 [Shadow Kamoshida]]
+[msg MSG_KAMOSHIDA_EX_PROVOKE_2 [Ombra di Kamoshida]]
 [s][vp 8 0 2 1077 1 201](未使用)何だと~!? 言わせておけば![n]猫だかなんだか分からんヤツめ![n][f 1 3 65535][w][e]
 
-[msg MSG_KAMOSHIDA_EX_PROVOKE_3 [Shadow Kamoshida]]
+[msg MSG_KAMOSHIDA_EX_PROVOKE_3 [Ombra di Kamoshida]]
 [s][vp 8 0 2 1077 1 201](未使用)ああ? 高巻ぃ![n]たっぷりお仕置きが必要なようだな!![n][f 1 3 65535][w][e]
 
-[msg MSG_KAMOSHIDA_EX_PROVOKE_4 [Shadow Kamoshida]]
+[msg MSG_KAMOSHIDA_EX_PROVOKE_4 [Ombra di Kamoshida]]
 [s][vp 8 0 2 1077 1 201](未使用)まだ言うかぁ~![n]許さん![n][f 1 3 65535][w][e]
 
 [msg EXTRA_PROVOKE_RYUJI_10 [Ryuji]]
@@ -586,200 +586,200 @@
 [msg EXTRA_PROVOKE_ANN_12 [Ann]]
 [s][vp 8 0 2 1061 0 4](未使用)[n]じゃあオタカラのほうはよろしくね![n][f 1 3 65535][w][e]
 
-[msg ADD_TARGET_EVENT_0_0 [Shadow Kamoshida]]
-[s][vp 8 0 2 1096 1 201]Droga, caramba, caramba! Por que estou sem[n]bolas!? Escravos! Traga-me mais![n][f 1 3 65535][w][e]
+[msg ADD_TARGET_EVENT_0_0 [Ombra di Kamoshida]]
+[s][vp 8 0 2 1096 1 201]Foda-se, foda-se, foda-se! Por que[n]estou sem bolas?!? Escravos![n]Traga-me mais![n][f 1 3 65535][w][e]
 
-[msg ADD_TARGET_EVENT_0_0B [Shadow Kamoshida]]
-[s][vp 8 0 2 1097 1 201]Por que a demora? Onde está minha bola!?[n][f 1 3 65535][w][e]
+[msg ADD_TARGET_EVENT_0_0B [Ombra di Kamoshida]]
+[s][vp 8 0 2 1097 1 201]Bem... Cadê minha bola?!?[n][f 1 3 65535][w][e]
 
-[msg ADD_TARGET_EVENT_0_4 [Cognitive Yuuki Mishima]]
-[s][bup 0 111 905 65535 0][f 4 10 65535 0 0][vp 8 0 2 1098 1 507]Sinto muito, rei Kamoshida! Eu-eu tenho isso[n]aqui![n][f 1 3 65535][w][e]
+[msg ADD_TARGET_EVENT_0_4 [Yuuki Mishima cognitivo]]
+[s][bup 0 111 905 65535 0][f 4 10 65535 0 0][vp 8 0 2 1098 1 507]D-Desculpe, Rei Kamoshida![n]A-Aqui está![n][f 1 3 65535][w][e]
 
-[msg ADD_TARGET_EVENT_0_4B [Shadow Kamoshida]]
-[s][vp 8 0 2 1099 1 201]Muito lento, Mishima! Chump inútil![n][f 1 3 65535][w][e]
+[msg ADD_TARGET_EVENT_0_4B [Ombra di Kamoshida]]
+[s][vp 8 0 2 1099 1 201]Você é muito lento, Mishima![n]Seu idiota![n][f 1 3 65535][w][e]
 
 [msg ADD_TARGET_EVENT_0_1 [Ryuji]]
-[s][bup 0 2 104 65535 0][f 4 10 65535 0 0][vp 8 0 2 1100 0 2]M-Mishima!?[n][f 1 3 65535][w][e]
+[s][bup 0 2 104 65535 0][f 4 10 65535 0 0][vp 8 0 2 1100 0 2]M-Mishima?!?[n][f 1 3 65535][w][e]
 
 [msg ADD_TARGET_EVENT_0_6 [Ann]]
-[s][bup 0 4 104 65535 0][f 4 10 65535 0 0][vp 8 0 2 1101 0 4]Espere o que!? Por que ele está aqui?[n][f 1 3 65535][w][e]
+[s][bup 0 4 104 65535 0][f 4 10 65535 0 0][vp 8 0 2 1101 0 4]Espere um minuto... O quê?!? Por que ele está[n]aqui?[n][f 1 3 65535][w][e]
 
 [msg ADD_TARGET_EVENT_0_3 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1102 0 3]Acalmar. Essa é apenas a versão cognitiva de[n]Kamoshida! Não é o verdadeiro Mishima![n][f 1 3 65535][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1102 0 3]Vá com calma. Essa é apenas sua[n]versão cognitiva de Mishima![n]Essa não é a versão real![n][f 1 3 65535][w][e]
 
-[msg REMOVE_TARGET_EVENT_0_2 [Shadow Kamoshida]]
-[s][vp 8 0 2 1105 1 201]Você é uma merda boa para nada! Não é de[n]admirar que você apenas andasse no banco-[n]você nem consegue acertar![n][f 1 3 65535][w][e]
+[msg REMOVE_TARGET_EVENT_0_2 [Ombra di Kamoshida]]
+[s][vp 8 0 2 1105 1 201]Merda inútil! Não é de admirar que você esteja no[n]banco! Você não pode nem fazer isso![n][f 1 3 65535][w][e]
 
 [msg REMOVE_TARGET_EVENT_0_2B [Ann]]
-[s][bup 0 4 102 65535 0][f 4 10 65535 0 0][vp 8 0 2 1106 0 4]Sinto muito, Mishima-kun! Eu juro que vamos[n]ceder esse rei falso![n][f 1 3 65535][w][e]
+[s][bup 0 4 102 65535 0][f 4 10 65535 0 0][vp 8 0 2 1106 0 4]Perdoe-me, Mishima-kun![n]Eu juro que faremos[n]este falso rei pagar![n][f 1 3 65535][w][e]
 
 [msg REMOVE_TARGET_EVENT_0_2C [Ryuji]]
-[s][bup 0 2 102 65535 0][f 4 10 65535 0 0][vp 8 0 2 1107 0 2]Desculpe, Mishima... vamos dar ao Kamoshida[n]o dobro disso![n][f 1 3 65535][w][e]
+[s][bup 0 2 102 65535 0][f 4 10 65535 0 0][vp 8 0 2 1107 0 2]Sinto muito, Mishima... Garanto-lhe[n]que daremos a Kamoshida[n]o que ele merece![n][f 1 3 65535][w][e]
 
-[msg BALL_TARGET_MISHIMA_OUT0 [Cognitive Yuuki Mishima]]
-[s][vp 8 0 2 1108 1 507]*suspiro* minha bola![n][f 1 3 65535][w][e]
+[msg BALL_TARGET_MISHIMA_OUT0 [Yuuki Mishima cognitivo]]
+[s][vp 8 0 2 1108 1 507]Minha bola![n][f 1 3 65535][w][e]
 
-[msg RBALL_TARGET_MISHIMA_OUT [Shadow Kamoshida]]
-[s][vp 8 0 2 1109 1 201]Diabos você pensa que está fazendo!?[n]Quão mais inútil você pode ficar, Mishima!?[n][f 1 3 65535][w][e]
+[msg RBALL_TARGET_MISHIMA_OUT [Ombra di Kamoshida]]
+[s][vp 8 0 2 1109 1 201]Que diabos você pensa que está fazendo?!?[n]Como você pode ser tão inútil,[n]Mishima?!?[n][f 1 3 65535][w][e]
 
-[msg REMOVE_TARGET_EVENT_0_5 [Shadow Kamoshida]]
-[s][vp 8 0 2 1110 1 201]Bom, Mishima- agora passa para mim![n]Não me diga que você nem pode fazer algo tão[n]simples assim![n][f 1 3 65535][w][e]
+[msg REMOVE_TARGET_EVENT_0_5 [Ombra di Kamoshida]]
+[s][vp 8 0 2 1110 1 201]Bem, Mishima... agora passe para mim![n]Não me diga que você não pode[n]fazer algo tão simples![n][f 1 3 65535][w][e]
 
-[msg REMOVE_TARGET_EVENT_0_5B [Cognitive Yuuki Mishima]]
-[s][vp 8 0 2 1111 1 507]H-here vai...[n][f 1 3 65535][w][e]
+[msg REMOVE_TARGET_EVENT_0_5B [Yuuki Mishima cognitivo]]
+[s][vp 8 0 2 1111 1 507]A-Aqui...[n][f 1 3 65535][w][e]
 
-[msg REMOVE_TARGET_EVENT_0_5C [Shadow Kamoshida]]
-[s][vp 8 0 2 1112 1 201]Aqui está... o Killshot que me deu uma[n]medalha de ouro![n][f 1 3 65535][w][e]
+[msg REMOVE_TARGET_EVENT_0_5C [Ombra di Kamoshida]]
+[s][vp 8 0 2 1112 1 201]Aí vem... O golpe mortal[n]que me rendeu a medalha de ouro![n][f 1 3 65535][w][e]
 
-[msg REMOVE_TARGET_EVENT_0_7 [Shadow Kamoshida]]
-[s][vp 8 0 2 1113 1 201]Tudo bem! Vamos manter o calor![n]Vou te mostrar um Royal Killshot![n][f 1 3 65535][w][e]
+[msg REMOVE_TARGET_EVENT_0_7 [Ombra di Kamoshida]]
+[s][vp 8 0 2 1113 1 201]Bom! Vamos manter o ritmo![n]Agora vou mostrar a você um golpe mortal[n]adequado para um rei![n][f 1 3 65535][w][e]
 
-[msg REMOVE_TARGET_GO_OUT1 [Shadow Kamoshida]]
-[s][vp 8 0 2 1114 1 201]Eu sabia... eu não posso me esforçar com[n]Mishima, fornecendo o backup.[n][f 1 3 65535][w][e]
-[s][vp 8 0 2 1115 1 201]Ei, merda por cérebros! Saia da minha quadra![n][f 1 3 65535][w][e]
+[msg REMOVE_TARGET_GO_OUT1 [Ombra di Kamoshida]]
+[s][vp 8 0 2 1114 1 201]Eu sabia... Não posso dar meu[n]max se Mishima estiver no meu time.[n][f 1 3 65535][w][e]
+[s][vp 8 0 2 1115 1 201]Ei, seu idiota![n]Fora do meu alcance![n][f 1 3 65535][w][e]
 
-[msg REMOVE_TARGET_GO_OUT2 [Cognitive Yuuki Mishima]]
-[s][bup 0 111 905 65535 0][f 4 10 65535 0 0][vp 8 0 2 1116 1 507]Sinto muito, rei Kamoshida![n][f 1 2 80][e]
+[msg REMOVE_TARGET_GO_OUT2 [Yuuki Mishima cognitivo]]
+[s][bup 0 111 905 65535 0][f 4 10 65535 0 0][vp 8 0 2 1116 1 507]D-Desculpe, Rei Kamoshida![n][f 1 2 80][e]
 
-[msg ADD_TARGET_EVENT_1_0 [Shadow Kamoshida]]
-[s][vp 8 0 2 1117 1 201]Próximo escravo, saia aqui! Apresse-se com[n]minha maldita bola![n][f 1 3 65535][w][e]
+[msg ADD_TARGET_EVENT_1_0 [Ombra di Kamoshida]]
+[s][vp 8 0 2 1117 1 201]O próximo escravo! Venha aqui![n]Traga a porra da minha bola![n][f 1 3 65535][w][e]
 
-[msg ADD_TARGET_EVENT_1_5 [Cognitive Shiho Suzui]]
-[s][bup 0 212 900 65535 0][f 4 10 65535 0 0][vp 8 0 2 1118 1 508]King Kamoshida, eu trouxe sua bola, assim[n]como você perguntou.[n][f 1 3 65535][w][e]
+[msg ADD_TARGET_EVENT_1_5 [Shiho Suzui cognitiva]]
+[s][bup 0 212 900 65535 0][f 4 10 65535 0 0][vp 8 0 2 1118 1 508]Rei Kamoshida, aqui está sua bola,[n]como você pediu.[n][f 1 3 65535][w][e]
 
-[msg ADD_TARGET_EVENT_1_5B [Shadow Kamoshida]]
-[s][vp 8 0 2 1119 1 201]Agora há uma boa garota, Suzui.[n][f 1 3 65535][w][e]
-[s][vp 8 0 2 1120 1 201]Sim, todas as mulheres devem obedecer às[n]minhas ordens como essa- não é certo,[n]querida?[n][f 1 3 65535][w][e]
+[msg ADD_TARGET_EVENT_1_5B [Ombra di Kamoshida]]
+[s][vp 8 0 2 1119 1 201]Suzui, você realmente é uma[n]boa menina.[n][f 1 3 65535][w][e]
+[s][vp 8 0 2 1120 1 201]Sim, todas as mulheres devem[n]obedecer minhas ordens, então ...[n]Estou certo, querida?[n][f 1 3 65535][w][e]
 
 [msg ADD_TARGET_EVENT_1_1 [Ann]]
-[s][bup 0 4 104 65535 0][f 4 10 65535 0 0][vp 8 0 2 1121 0 4]N-Não acredito! O que Shiho está fazendo aqui!?[n][f 1 3 65535][w][e]
+[s][bup 0 4 104 65535 0][f 4 10 65535 0 0][vp 8 0 2 1121 0 4]N-Não é possível![n]O que Shiho está fazendo aqui?!?[n][f 1 3 65535][w][e]
 
 [msg ADD_TARGET_EVENT_1_3 [Morgana]]
-[s][bup 0 3 4 65535 0][f 4 10 65535 0 0][vp 8 0 2 1122 0 3]Pantera, acalme-se! Esse não é o verdadeiro![n][f 1 3 65535][w][e]
+[s][bup 0 3 4 65535 0][f 4 10 65535 0 0][vp 8 0 2 1122 0 3]Pantera, fique calmo![n]Não é o verdadeiro![n][f 1 3 65535][w][e]
 
 [msg ADD_TARGET_EVENT_1_4 [Ann]]
-[s][bup 0 4 105 65535 0][f 4 10 65535 0 0][vp 8 0 2 1123 0 4]Y-sim, você está certo... mas isso é[n]apenas...[n][f 1 3 65535][w][e]
+[s][bup 0 4 105 65535 0][f 4 10 65535 0 0][vp 8 0 2 1123 0 4]S-Sim, você está certo... É só que...[n][f 1 3 65535][w][e]
 
 [msg ADD_TARGET_EVENT_1_4B [Ryuji]]
-[s][bup 0 2 102 65535 0][f 4 10 65535 0 0][vp 8 0 2 1124 0 2]Droga, até Suzui também! Você foi longe[n]demais, seu pedaço de merda![n][f 1 3 65535][w][e]
+[s][bup 0 2 102 65535 0][f 4 10 65535 0 0][vp 8 0 2 1124 0 2]Porra, mesmo Suzuki! Agora[n]você foi longe demais, seu merda![n][f 1 3 65535][w][e]
 
-[msg REMOVE_TARGET_EVENT_1_2 [Shadow Kamoshida]]
-[s][vp 8 0 2 1125 1 201]Hmph, até Suzui era inútil. Parece que vou[n]ter que dar a ela algumas instruções[n]especiais mais tarde... individualmente![n][f 1 3 65535][w][e]
+[msg REMOVE_TARGET_EVENT_1_2 [Ombra di Kamoshida]]
+[s][vp 8 0 2 1125 1 201]Umpf, Suzui também foi inútil.[n]Depois terei que treiná-la[n]devidamente... em particular![n][f 1 3 65535][w][e]
 
 [msg REMOVE_TARGET_EVENT_1_2B [Ann]]
-[s][bup 0 4 102 65535 0][f 4 10 65535 0 0][vp 8 0 2 1127 0 4]Kamoshida, nunca vou te perdoar![n][f 1 3 65535][w][e]
+[s][bup 0 4 102 65535 0][f 4 10 65535 0 0][vp 8 0 2 1127 0 4]Kamoshida, eu nunca vou te perdoar![n][f 1 3 65535][w][e]
 
 [msg REMOVE_TARGET_EVENT_1_2C [Ryuji]]
-[s][bup 0 2 102 65535 0][f 4 10 65535 0 0][vp 8 0 2 1128 0 2]Desculpe, Suzui... eu juro que veremos a[n]bunda desse bastardo![n][f 1 3 65535][w][e]
+[s][bup 0 2 102 65535 0][f 4 10 65535 0 0][vp 8 0 2 1128 0 2]Me desculpe, Suzui... Nós vamos chutar[n]a bunda daquele bastardo,[n]eu juro![n][f 1 3 65535][w][e]
 
-[msg BALL_TARGET_SHIHO_OUT01 [Cognitive Shiho Suzui]]
-[s][vp 8 0 2 1129 1 508]Ah! Bola do rei Kamoshida![n][f 1 3 65535][w][e]
+[msg BALL_TARGET_SHIHO_OUT01 [Shiho Suzui cognitiva]]
+[s][vp 8 0 2 1129 1 508]Ah! Bola do Rei Kamoshida![n][f 1 3 65535][w][e]
 
-[msg BALL_TARGET_SHIHO_OUT02 [Shadow Kamoshida]]
-[s][vp 8 0 2 1130 1 201]Suzui! Vamos lá, você é tão inútil quanto[n]Mishima![n][f 1 3 65535][w][e]
+[msg BALL_TARGET_SHIHO_OUT02 [Ombra di Kamoshida]]
+[s][vp 8 0 2 1130 1 201]Suzuki! Resumindo, você é inútil[n]assim como Mishima![n][f 1 3 65535][w][e]
 
-[msg BALL_TARGET_SHIHO_OUT02B [Shadow Kamoshida]]
-[s][vp 8 0 2 1131 1 201]O que você está fazendo, Suzui!? Você não[n]pode fazer uma coisa simples, certo?[n][f 1 3 65535][w][e]
+[msg BALL_TARGET_SHIHO_OUT02B [Ombra di Kamoshida]]
+[s][vp 8 0 2 1131 1 201]O que você está fazendo, Suzuki?!? Não pode[n]fazer uma coisa tão simples?[n][f 1 3 65535][w][e]
 
-[msg REMOVE_TARGET_EVENT_1_6 [Shadow Kamoshida]]
-[s][vp 8 0 2 1132 1 201]Suzui! Jogue aqui! Se você fizer um bom[n]trabalho, eu vou recompensá-lo mais tarde...[n][f 1 3 65535][w][e]
+[msg REMOVE_TARGET_EVENT_1_6 [Ombra di Kamoshida]]
+[s][vp 8 0 2 1132 1 201]Suzuki! Jogue aqui![n]Faça um bom trabalho,[n]e eu te recompenso mais tarde...[n][f 1 3 65535][w][e]
 
-[msg REMOVE_TARGET_EVENT_1_6B [Cognitive Shiho Suzui]]
-[s][vp 8 0 2 1133 1 508]Sim, rei Kamoshida![n][f 1 3 65535][w][e]
+[msg REMOVE_TARGET_EVENT_1_6B [Shiho Suzui cognitiva]]
+[s][vp 8 0 2 1133 1 508]Sim, Rei Kamoshida![n][f 1 3 65535][w][e]
 
-[msg REMOVE_TARGET_EVENT_1_6C [Shadow Kamoshida]]
-[s][vp 8 0 2 1134 1 201]Vê isto! Um Killshot... Comin 'Up![n][f 1 3 65535][w][e]
+[msg REMOVE_TARGET_EVENT_1_6C [Ombra di Kamoshida]]
+[s][vp 8 0 2 1134 1 201]Dê uma olhada nisso![n]Golpe mortal... chegando![n][f 1 3 65535][w][e]
 
-[msg REMOVE_TARGET_EVENT_1_7B [Shadow Kamoshida]]
-[s][vp 8 0 2 1135 1 201]Boa garota, Suzui! Jogue-me uma bola![n]Vou te mostrar outro Scorcher![n][f 1 3 65535][w][e]
+[msg REMOVE_TARGET_EVENT_1_7B [Ombra di Kamoshida]]
+[s][vp 8 0 2 1135 1 201]Bem feito meu Suzuki! Me jogue uma bola! Vou te[n]mostrar outro tiro de canhão![n][f 1 3 65535][w][e]
 
-[msg REMOVE_TARGET_EVENT_1_6D [Shadow Kamoshida]]
-[s][vp 8 0 2 1136 1 201]Ser servido por uma garota do ensino médio[n]com certeza é emocionante! Agora, coma isso![n][f 1 3 65535][w][e]
+[msg REMOVE_TARGET_EVENT_1_6D [Ombra di Kamoshida]]
+[s][vp 8 0 2 1136 1 201]Belo ensaio de[n]uma colegial... Emocionante![n]Agora, pegue isso![n][f 1 3 65535][w][e]
 
-[msg REMOVE_TARGET_EVENT_1_7 [Shadow Kamoshida]]
-[s][vp 8 0 2 1137 1 201]Que sorte você tem por poder testemunhar[n]minha matar tantas vezes...[n]É melhor você se sentir honrado![n][f 1 3 65535][w][e]
+[msg REMOVE_TARGET_EVENT_1_7 [Ombra di Kamoshida]]
+[s][vp 8 0 2 1137 1 201]Você tem sorte de poder admirar meu[n]golpe mortal[n]tantas vezes! Você deveria se sentir honrado![n][f 1 3 65535][w][e]
 
-[msg REMOVE_TARGET_EVENT_4_0 [Shadow Kamoshida]]
-[s][vp 8 0 2 1138 1 201]TCH! Pedaço inútil![n][f 1 3 65535][w][e]
+[msg REMOVE_TARGET_EVENT_4_0 [Ombra di Kamoshida]]
+[s][vp 8 0 2 1138 1 201]Tsk! Merda inútil![n][f 1 3 65535][w][e]
 
 [msg REMOVE_TARGET_EVENT_2_0 [Ryuji]]
-[s][bup 0 2 102 65535 0][f 4 10 65535 0 0][vp 8 0 2 1139 0 2]Eu sei que ele não é o verdadeiro Mishima,[n]mas... Droga, isso torna as coisas difíceis![n][f 1 3 65535][w][e]
+[s][bup 0 2 102 65535 0][f 4 10 65535 0 0][vp 8 0 2 1139 0 2]Eu sei que não é o verdadeiro[n]Mishima, mas... caramba,[n]não é fácil mesmo![n][f 1 3 65535][w][e]
 
 [msg REMOVE_TARGET_EVENT_2_1 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1140 0 3]Esse é apenas um ser cognitivo- é melhor que[n]vocês não hesitaram sobre isso![n][f 1 3 65535][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1140 0 3]Ele é apenas um ser cognitivo...[n]Não hesite, pessoal![n][f 1 3 65535][w][e]
 
 [msg REMOVE_TARGET_EVENT_2_2 [Ann]]
-[s][bup 0 4 102 65535 0][f 4 10 65535 0 0][vp 8 0 2 1141 0 4]Como você ousa tratar alunos como escravos...[n]Você é uma escória! Nada além de escória![n][f 1 3 65535][w][e]
+[s][bup 0 4 102 65535 0][f 4 10 65535 0 0][vp 8 0 2 1141 0 4]Como você ousa tratar os alunos como[n]escravos... Você é apenas um verme![n]Nada além de um verme![n][f 1 3 65535][w][e]
 
 [msg REMOVE_TARGET_EVENT_3_0 [Ryuji]]
-[s][bup 0 2 107 65535 0][f 4 10 65535 0 0][vp 8 0 2 1142 0 2]Pantera, não se preocupe com isso. Vamos[n]cuidar disso para você![n][f 1 3 65535][w][e]
+[s][bup 0 2 107 65535 0][f 4 10 65535 0 0][vp 8 0 2 1142 0 2]Pantera, não se preocupe.[n]Nós cuidaremos disso![n][f 1 3 65535][w][e]
 
 [msg REMOVE_TARGET_EVENT_3_1 [Morgana]]
-[s][bup 0 3 7 65535 0][f 4 10 65535 0 0][vp 8 0 2 1143 0 3]Eu me sinto tão mal por Panther... mas,[n]temos que fazer isso![n][f 1 3 65535][w][e]
+[s][bup 0 3 7 65535 0][f 4 10 65535 0 0][vp 8 0 2 1143 0 3]Sinto muito pelo Panther, mas...[n]nós temos que fazer isso![n][f 1 3 65535][w][e]
 
 [msg REMOVE_TARGET_EVENT_3_2 [Ann]]
-[s][bup 0 4 105 65535 0][f 4 10 65535 0 0][vp 8 0 2 1144 0 4]Shiho... me desculpe![n][f 1 3 65535][w][e]
+[s][bup 0 4 105 65535 0][f 4 10 65535 0 0][vp 8 0 2 1144 0 4]Shiho... Perdoe-me![n][f 1 3 65535][w][e]
 
 [msg BALL_TAEGET_START01 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1145 0 3]Ei, se atacássemos a bola, isso não[n]impediria o grande ataque de Kamoshida?[n][f 1 3 65535][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1145 0 3]Ei, atacando a bola[n]não deveríamos ser capazes de impedir[n]o ataque de Kamoshida?[n][f 1 3 65535][w][e]
 
 [msg BALL_TAEGET_START02 [Ryuji]]
-[s][bup 0 2 102 65535 0][f 4 10 65535 0 0][vp 8 0 2 1146 0 2]Ei, entendi! Se Kamoshida não conseguir a[n]bola, isso não o impede de fazer o Killshot?[n][f 1 3 65535][w][e]
+[s][bup 0 2 102 65535 0][f 4 10 65535 0 0][vp 8 0 2 1146 0 2]Ei, existem! Se Kamoshida[n]não pegar a bola, ele[n]não poderia fazer aquele chute, certo?[n][f 1 3 65535][w][e]
 
 [msg BALL_TAEGET_START03 [Ann]]
-[s][bup 0 4 102 65535 0][f 4 10 65535 0 0][vp 8 0 2 1147 0 4]...Esperar! Kamoshida não será capaz de nos[n]atacar se ele não conseguir uma bola?[n][f 1 3 65535][w][e]
+[s][bup 0 4 102 65535 0][f 4 10 65535 0 0][vp 8 0 2 1147 0 4]Ei! Kamoshida não pode nos atacar[n]se não pegar a bola, certo?[n][f 1 3 65535][w][e]
 
-[msg NO_SLAVE_0_0 [Shadow Kamoshida]]
-[s][vp 8 0 2 1148 1 201]Qual é o problema, escravos!? Apresse-se e[n]me traga mais vôlei![n][f 1 3 65535][w][e]
-[s][vp 8 0 2 1149 1 201]Não posso servir meu killshot sem bolas![n][f 1 3 65535][w][e]
+[msg NO_SLAVE_0_0 [Ombra di Kamoshida]]
+[s][vp 8 0 2 1148 1 201]Qual é o problema, escravos?!?[n]Apresse-se e traga-me[n]mais bolas![n][f 1 3 65535][w][e]
+[s][vp 8 0 2 1149 1 201]Sem bolas não posso usar[n]meu golpe mortal![n][f 1 3 65535][w][e]
 
-[msg NO_SLAVE_0_1 [Shadow Kamoshida]]
-[s][vp 8 0 2 1150 1 201]Huh!? Eu só... estou realmente fora de[n]escravos!?[n][f 1 3 65535][w][e]
+[msg NO_SLAVE_0_1 [Ombra di Kamoshida]]
+[s][vp 8 0 2 1150 1 201]Huh?!? Não me diga que...[n]estou sem escravos?!?[n][f 1 3 65535][w][e]
 
 [msg NO_SLAVE_0_2GO [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1151 0 3]Parece que ele não pode mais usar esse[n]killshot- agora é nossa chance de atacá-lo[n]e chamar sua atenção![n][f 1 3 65535][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1151 0 3]Ele não pode mais usar seu[n]golpe mortal... Agora podemos atacá-lo[n]e chamar sua atenção![n][f 1 3 65535][w][e]
 
 [msg NO_SLAVE_0_2NOT_GO [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1152 0 3]Parece que ele não pode mais usar aquele[n]killshot! Hora de dar a ele tudo o que[n]temos![n][f 1 3 65535][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1152 0 3]Ele não pode mais usar seu[n]golpe mortal! É hora de atacá-lo[n]com todas as nossas forças![n][f 1 3 65535][w][e]
 
 [msg DECISION_MORGANA01 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 0 0 3]Ei, se atacássemos a bola, isso não[n]impediria o grande ataque de Kamoshida?[n][f 1 3 65535][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 0 0 3]Ei, atacando a bola[n]não deveríamos ser capazes de impedir[n]o ataque de Kamoshida?[n][f 1 3 65535][w][e]
 
 [msg DECISION_THINKING01]
-[s][vp 1 0 0 0 0 0]Como isso é apenas um mishima cognitivo,[n]atacá-lo não deve ter efeito no[n]verdadeiro...[n][f 1 3 65535][w][e]
-[s][vp 1 0 0 0 0 0]Se o levarmos para fora, poderíamos impedir[n]Kamoshida de usar seu Killshot...[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Sendo apenas o Mishima cognitivo,[n]atacá-lo não deve[n]ter efeito no Mishima real...[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Se nos livrarmos dele, poderíamos[n]impedir Kamoshida de usar seu[n]golpe mortal...[n][f 1 3 65535][w][e]
 
 [msg DECISION_Q [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1043 0 3]O que nós fazemos?[n][f 1 3 65535][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1043 0 3]O que fazemos?[n][f 1 3 65535][w][e]
 
 [sel SEL_DECISION_MISHIMA_TAR top]
 [s]Ignore Mishima.[e]
-[s]Vá para Mishima primeiro.[e]
+[s]Cuide de Mishima primeiro.[e]
 
 [msg DECISION_MORGANA02 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1154 0 3]Você tem que ir para a bola de novo![n][f 1 3 65535][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1154 0 3]Tente novamente com a bola![n][f 1 3 65535][w][e]
 
 [msg DECISION_THINKING02]
-[s][vp 1 0 0 0 0 0]Se continuarmos atacando Kamoshida enquanto[n]ele estiver focado no Killshot, poderíamos[n]impedi-lo...[n][f 1 3 65535][w][e]
-[s][vp 1 0 0 0 0 0]Ou devemos derrubar o suzui cognitivo para[n]que ele não consiga mais a bola...?[n][f 1 3 65535][w][e]
-[s][vp 1 0 0 0 0 0]Como isso é apenas um Suzui cognitivo,[n]atacá-lo não deve ter efeito no[n]verdadeiro...[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Se continuarmos a atacá-lo enquanto[n]ele estiver concentrado no golpe mortal,[n]poderemos detê-lo...[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Ou talvez devêssemos nos livrar do[n]Suzui cognitivo para que[n]ele não consiga mais pegar a bola...?[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Sendo apenas o Suzui cognitivo,[n]atacá-lo não deve[n]ter efeito no Suzui real...[n][f 1 3 65535][w][e]
 
 [sel SEL_DECISION_SHIHO_TARGE top]
-[s]Target Kamoshida.[e]
-[s]Concentre-se no Suzui falso.[e]
+[s]Ataque Kamoshida.[e]
+[s]Concentre-se na falsa Suzuki.[e]
 
 [msg DECISION_ANSWER [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1153 0 3]Tudo bem, vamos fazer isso![n][f 1 3 65535][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1153 0 3]Tudo bem, vamos indo![n][f 1 3 65535][w][e]
 
-[msg MSG_BTL_SPSPIKE02_000_00_3 [Shadow Kamoshida]]
-[s][vp 8 0 2 1061 1 201]... Ah, eu entendo! Você quer ver meu[n]killshot de novo, não é?[n][f 1 3 65535][w][e]
+[msg MSG_BTL_SPSPIKE02_000_00_3 [Ombra di Kamoshida]]
+[s][vp 8 0 2 1061 1 201]...ah entendi! Você quer ver[n]meu golpe mortal de novo, não quer?[n][f 1 3 65535][w][e]
 
 [msg DECISION_ANSWER2 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1155 0 3]Entendido![n][f 1 3 65535][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1155 0 3]Recebido![n][f 1 3 65535][w][e]
 
 [msg KAMOSIDA_DAMAGED01]
-[s][vp 1 0 0 0 0 0]Kamoshida parece funcionar com os danos que[n]ele sofreu...[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Kamoshida parece confuso com[n]o dano que ele sofreu...[n][f 1 3 65535][w][e]
 
-[msg KAMOSIDA_DAMAGED02 [Cognitive Shiho Suzui]]
+[msg KAMOSIDA_DAMAGED02 [Shiho Suzui cognitiva]]
 [s][vp 1 0 0 0 0 0]......[n][f 1 3 65535][w][e]
 

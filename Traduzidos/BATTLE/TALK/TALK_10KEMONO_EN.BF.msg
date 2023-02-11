@@ -2,107 +2,107 @@
 [s]......[n][w][e]
 
 [msg DebugMsg_ERROR]
-[s](Error)[n][w][e]
+[s](Error) [n][w][e]
 
 [msg TalkMsg_EN_CONTACT_00]
-[s]Amigo em perigo. Eles vivem ou morrem, isso[n]para mim.[n][w][e]
-[s]Eu quero [f 2 5 3 9999 3]. Dê-me se você quiser salvá-los.[n][w][e]
+[s]Aliado em perigo.[n]Ele vive ou morre?[n]Eu decido.[n][w][e]
+[s]Eu quero [f 2 5 3 9999 3].[n]Me dê, se você quiser salvar aliado.[n][w][e]
 
 [msg TalkMsg_EN_CONTACT_01]
-[s]Gwahahaha... seu amigo não pode se mover[n]assim.[n][w][e]
-[s]...Eu quero [var 0]Yen.[n]Então eu talvez salve um amigo.[n][w][e]
+[s]Muahahah...[n]Seu aliado[n]não pode se mover.[n][w][e]
+[s]...Eu quero [var 0] yen.[n]Então...talvez eu salve seu aliado.[n][w][e]
 
 [msg TalkMsg_EN_CONTACT_02]
-[s]Se você quer salvar amigo, ouça o que eu diz.[n][w][e]
-[s]Eu quero sua saúde. Deixe-me drenar alguns.[n][w][e]
+[s]Se você quiser salvar um aliado,[n]me escute.[n][w][e]
+[s]Eu quero sua saúde.[n]Deixe-me levar.[n][w][e]
 
 [msg TalkMsg_EN_CONTACT_03]
-[s]Amigo em perigo. O que você faz?[n][w][e]
-[s]Eu não tenho resistência ultimamente. Dê-me[n]alguns dos seus.[n][w][e]
+[s]Aliado em perigo.[n]O que você quer fazer?[n][w][e]
+[s]Falta-me energia hoje.[n]Me dê um pouco da sua.[n][w][e]
 
 [sel TalkSel_EN_CONTACT top]
-[s]Tudo bem, você ganha.[e]
-[s]Não posso atender às suas demandas.[e]
-[s]Call Thieves Guild ([var 5] left).[e]
-[s][clr 2]Você está acordado, Pantera.[clr 27][e]
+[s]Tudo bem, você venceu.[e]
+[s]Não posso acomodar seus pedidos.[e]
+[s]Chiama Gilda dei Ladri ([var 5] restanti).[e]
+[s][clr 2]É a sua vez, Pantera.[clr 27][e]
 
 [msg TalkMsg_EN_DECLINE_00]
-[s]... isso não é suficiente. Dê mais. Desta[n]vez eu quero [n][f 2 5 3 9999 3].[n][w][e]
+[s]Não é suficiente. Me dê mais. Desta vez[n]io quer [f 2 5 3 9999 3].[n][w][e]
 
 [msg TalkMsg_EN_DECLINE_01]
-[s]... isso não é suficiente. Eu ainda quero[n]mais.[n][w][e]
-[s]Dar [var 0]Yen desta vez. Você não se importa com o que[n]acontece com o amigo?[n][w][e]
+[s]Não é o suficiente.[n]Eu quero mais.[n][w][e]
+[s]Dê-me [var 0] ienes desta vez.[n]Você não se importa[n]com seu aliado?[n][w][e]
 
 [msg TalkMsg_EN_DECLINE_02]
-[s]... eu não está contente. Eu ainda quero[n]mais.[n][w][e]
-[s]Se você quer salvar um amigo... Oh![n]Eu sei, você dá saúde desta vez.[n][w][e]
+[s]Não é o suficiente.[n]Eu quero mais.[n][w][e]
+[s]Se você quiser salvar seu aliado...[n]Oh! Eu sei como fazê-lo. Dê-me[n]sua saúde desta vez.[n][w][e]
 
 [msg TalkMsg_EN_DECLINE_03]
-[s]Grrrr... isso ainda não é suficiente. Você[n]ainda parece calmo... dê mais.[n][w][e]
-[s]Desta vez, escorra sua resistência.[n]Você quer salvar um amigo?[n][w][e]
+[s]Grrr... Ainda não é o suficiente. Você ainda[n]parece muito calmo. Me dê mais.[n][w][e]
+[s]Eu gasto sua energia desta vez.[n]Você quer salvar um aliado, sim?[n][w][e]
 
 [msg TalkMsg_EN_AGREE_00]
-[s]Mwahahaha, eu contente. Eu devolve seu amigo.[n][w][e]
+[s]Muahahah, estou feliz.[n]Volto para você aliado.[n][w][e]
 
 [msg TalkMsg_EN_AGREE_01]
-[s]...Ok. Eu contente. Eu vou liberar amigo[n]agora.[n][w][e]
+[s]...OK. Io feliz.[n]Io retorna para seu aliado.[n][w][e]
 
 [msg TalkMsg_EN_SLAY_00]
-[s]Você descartando amigo? Human Heartless![n][w][e]
+[s]Você abandonou o aliado?[n]Humano sem coração...![n][w][e]
 
 [msg TalkMsg_EN_SLAY_01]
-[s]Eu vejo, você não se importa com o amigo.[n]Então, eu faço isso...![n][w][e]
+[s]Eu entendo: você não se importa com um aliado.[n]Então eu faço isso...![n][w][e]
 
 [msg TalkMsg_EN_FORGIVE_00]
-[s]... Eu vejo, eles não são amigos preciosos.[n]Que aborrecido.[n][w][e]
-[s]Eu devolva este humano e saio.[n]Eu vou agora.[n][w][e]
+[s]...Eu entendo: aliados não[n]preciosos. Muito chato.[n][w][e]
+[s]Io retorna humano[n]e depois vai embora.[n][w][e]
 
 [msg TalkMsg_EN_FORGIVE_01]
-[s]Você horrível. Pior que a besta.[n]Eu não quero me tornar como você.[n][w][e]
-[s]Eu devolva este humano e saio.[n]Eu vou agora.[n][w][e]
+[s]Você é horrível. Pior que besta.[n]Eu não quero me tornar como você.[n][w][e]
+[s]Io retorna humano[n]e depois vai embora.[n][w][e]
 
 [msg TalkMsg_EN_FLEE_00]
-[s]Isso é demais... eu saio agora...[n][w][e]
+[s]Muito trabalho...[n]eu vou embora...[n][w][e]
 
 [msg TalkMsg_EN_FLEE_01]
-[s]Eu cansado. Não há mais palavras. Eu saindo[n]agora.[n][w][e]
+[s]As palavras cansam. Isso é o suficiente.[n]Eu vou embora.[n][w][e]
 
 [msg TalkMsg_EN_ACCEPT_00]
-[s]... eu não tenho problemas. Voltamos a lutar[n]agora. Awooo![n][w][e]
+[s]Sem problemas.[n]Vamos lutar de novo.[n]U-uuuh![n][w][e]
 
 [msg TalkMsg_EN_ACCEPT_01]
-[s]... Eu acho que isso está bem? Bem, vamos[n]começar a lutar novamente.[n][w][e]
+[s]...Acho que sim, tá? Bem,[n]vamos voltar a lutar.[n][w][e]
 
 [msg TalkMsg_EN_FALTER_00]
-[s]Grrr! Que truque de covarde![n][w][e]
+[s]Grrr! Um truque de covarde![n][w][e]
 
 [msg TalkMsg_EN_FALTER_01]
-[s]Grrr! Seu covarde![n][w][e]
+[s]Grrr! Covarde![n][w][e]
 
 [msg TalkMsg_EN_FAKE_CRIED00]
-[s]Ei! Porque você chora!? Ugh, eu te perdoo[n]por  [f 2 5 3 9999 3].[n][w][e]
+[s]Ei! Por que você está chorando?!?[n]Ugh, eu te perdôo em troca de[n][f 2 5 3 9999 3].[n][w][e]
 
 [msg TalkMsg_EN_FAKE_CRIED01]
-[s]HRM!? O que está acontecendo!? Hrgh, eu[n]deixo você ir para [n][var 0]Yen.[n][w][e]
+[s]Hum?!? O que acontece?!? Ugh, eu[n]deixo você ir por [var 0] ienes.[n][w][e]
 
 [msg TalkMsg_EN_FAKE_CRIED02]
-[s]O que errado!? Por que regar do olho?[n]Tudo bem... eu deixo você sair do gancho[n]para a saúde.[n][w][e]
+[s]O que acontece?!? Água de seus olhos?[n]Bom... Vou deixar você ir[n]em troca de saúde.[n][w][e]
 
 [msg TalkMsg_EN_FAKE_CRIED03]
-[s]O que errado!? Por que regar do olho?[n]Hrgh, eu deixo você ir para sua resistência.[n][w][e]
+[s]O que acontece?!? Água de seus olhos?[n]Ugh, eu deixo você ir[n]em troca de energia.[n][w][e]
 
 [msg TalkMsg_EN_FAKE_COUP00]
-[s]Nngh, eu não sei o que faz quando a garota[n]chorar... eu desculpe... saindo![n][w][e]
+[s]Argh, eu não sei o que fazer[n]quando uma garota chora...[n]Desculpe, eu... eu vou embora![n][w][e]
 
 [msg TalkMsg_EN_FAKE_COUP01]
-[s]... Que sentimento? Eu não assim.[n]Eu saio agora.[n][w][e]
+[s]Esse sentimento... O que é isso?[n]Ruim. Eu não quero. Eu vou embora.[n][w][e]
 
 [msg TalkMsg_NO_REQUIREMENT]
-[s]Você não me engana! Eu sei que você não tem![n][w][e]
+[s]Você não me engana![n]Você não tem o que eu peço![n][w][e]
 
 [msg CharmActing [Ann]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 4 5 301 1]Não... como você poderia tirar isso de nós?[n][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 4 5 301 1]Não... Como você pode nos privar disso?[n][w][e]
 
 [msg NetEngo]
-[s]Outro bando de ladrões respondeu à ligação![n][w][e]
+[s]Outra gangue de ladrões[n]atendeu a chamada![n][w][e]
 

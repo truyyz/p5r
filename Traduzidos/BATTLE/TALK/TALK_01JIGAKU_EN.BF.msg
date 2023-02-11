@@ -2,103 +2,103 @@
 [s]......[n][w][e]
 
 [msg DebugMsg_ERROR]
-[s]Talk_01Jigaku Erro [n][w][e]
+[s]talk_01jigaku erro entalk[n][w][e]
 
 [msg TalkMsg_EN_CONTACT_00]
-[s]Dê uma olhada neste. Se você quiser[n]salvá-los, dê um bom [n][f 2 5 3 9999 3]![n][w][e]
+[s]Dê uma olhada aqui.[n]Se você quiser salvá-lo, você deve[n]me dar este item: [f 2 5 3 9999 3]![n][w][e]
 
 [msg TalkMsg_EN_CONTACT_01]
-[s]Hahaha! Seu amigo está em perigo aqui![n][w][e]
-[s]... honestamente, eu não me importo com eles[n]irem para [n][var 0]Yen.[n][w][e]
+[s]Hahaha! Seu amiguinho[n]está em apuros![n][w][e]
+[s]Honestamente, eu não negaria[n]sua liberdade em troca de [var 0] ienes.[n][w][e]
 
 [msg TalkMsg_EN_CONTACT_02]
-[s]Hahaha! Seu amigo está em perigo aqui![n][w][e]
-[s]Se você dê um pouco de sua saúde, eu poderia[n]deixá-los ficar seguros.[n][w][e]
+[s]Hahaha! Seu amiguinho[n]está em apuros![n][w][e]
+[s]Se você me der um pouco de sua saúde, posso ter[n]misericórdia.[n][w][e]
 
 [msg TalkMsg_EN_CONTACT_03]
-[s]Hahaha! Seu amigo está em perigo aqui![n][w][e]
-[s]Se você quer salvá-los... heh heh, dê um[n]pouco de sua resistência, sim?[n][w][e]
+[s]Hahaha! Seu amiguinho[n]está em apuros![n][w][e]
+[s]Se você se importa... hehe, me dê um pouco da sua[n]energia. Você está aí?[n][w][e]
 
 [sel TalkSel_EN_CONTACT top]
-[s]Tudo bem, você ganha.[e]
-[s]Não posso atender às suas demandas.[e]
-[s]Call Thieves Guild ([var 5] left).[e]
-[s][clr 2]Você está acordado, Pantera.[clr 27][e]
+[s]Tudo bem, você venceu.[e]
+[s]Não posso acomodar seus pedidos.[e]
+[s]Chiama Gilda dei Ladri ([var 5] restanti).[e]
+[s][clr 2]É a sua vez, Pantera.[clr 27][e]
 
 [msg TalkMsg_EN_DECLINE_00]
-[s]... isso não é suficiente. Que tal um bom [f 2 5 3 9999 3]desta vez?[n][w][e]
+[s]...Isto não é suficiente. Que tal[n]este objeto: [f 2 5 3 9999 3]?[n][w][e]
 
 [msg TalkMsg_EN_DECLINE_01]
-[s]Desta vez eu quero [var 0]Yen.[n]Vamos lá, seu precioso amigo não vale tanto?[n][w][e]
+[s]Desta vez eu quero [var 0] ienes.[n]Vamos lá, seus amiguinhos preciosos[n]eles não valem essa quantia...?[n][w][e]
 
 [msg TalkMsg_EN_DECLINE_02]
-[s]... Eu ainda não terminei. Posso obter um[n]pouco de sua saúde desta vez?[n][w][e]
+[s]Eu nao terminei ainda. Dê-me um pouco da sua[n]saúde desta vez, ok?[n][w][e]
 
 [msg TalkMsg_EN_DECLINE_03]
-[s]... Eu quero um pouco da sua resistência[n]também. Vamos lá, é por causa de sua amizade.[n][w][e]
+[s]...Eu também quero um pouco da sua energia. Vamos[n]lá, é para o bem de suas amizades.[n][w][e]
 
 [msg TalkMsg_EN_AGREE_00]
-[s]... Tudo bem, eu vou lançá-los.[n][w][e]
+[s]...Ok, é grátis.[n][w][e]
 
 [msg TalkMsg_EN_AGREE_01]
-[s]*Bocejo* Estou entediado. Vou deixar você[n]ter de volta.[n][w][e]
+[s]*bocejo* Que chato.[n]Você pode retirar.[n][w][e]
 
 [msg TalkMsg_EN_SLAY_00]
-[s]Ooh, tão frio. Você vai abandonar seu amigo?[n]Bem, não é o meu problema se eles te odeiam[n]por isso...[n][w][e]
+[s]Oh, que crueldade. Você despeja seus amigos[n]assim? Bem, não é problema meu se eles te odeiam[n]então...[n][w][e]
 
 [msg TalkMsg_EN_SLAY_01]
-[s]Oh sim? Então eu vou matá-los. Quero dizer,[n]você é bom com isso, muuuuito...[n][w][e]
+[s]Oh sim? Então eu vou matá-lo.[n]Você queria, afinal![n][w][e]
 
 [msg TalkMsg_EN_FORGIVE_00]
-[s]Atualmente, eu não posso fazer isso. Um[n]homem de verdade é bondoso, afinal...[n][w][e]
-[s]Estou cansado de lidar com você... vejo você.[n][w][e]
+[s]II Na verdade, não posso fazer isso. Afinal, um[n]homem de verdade é gentil.[n][w][e]
+[s]Já chega.[n]Saudações.[n][w][e]
 
 [msg TalkMsg_EN_FORGIVE_01]
-[s]Ohhh, então você odeia tanto seu amigo,[n]hein?... Eu não vou fazer seu trabalho sujo[n]para você.[n][w][e]
-[s]Estou cansado de lidar com você... vejo você.[n][w][e]
+[s]Ohhh, então você odeia tanto seus amigos, hein?[n]Eu não vou fazer o trabalho sujo para você.[n][w][e]
+[s]Já chega.[n]Saudações.[n][w][e]
 
 [msg TalkMsg_EN_FLEE_00]
-[s]Ahhh, isso é bom... bem, eu estarei indo[n]agora.[n][w][e]
+[s]Ahhh, tudo bem...[n]Tudo bem, estou saindo das cortinas.[n][w][e]
 
 [msg TalkMsg_EN_FLEE_01]
-[s]Eu me sinto melhor agora, então é hora de[n]começar...[n][w][e]
+[s]Aqui estamos nós,[n]posso sair...[n][w][e]
 
 [msg TalkMsg_EN_ACCEPT_00]
-[s]... Bem, então, hora de voltar aos negócios.[n][w][e]
+[s]...Bem, então, vamos[n]trabalhar de novo.[n][w][e]
 
 [msg TalkMsg_EN_ACCEPT_01]
-[s]... Welp, vamos dar isso novamente.[n]Hora de se matar![n][w][e]
+[s]...Bem, vamos indo.[n]É hora de derramar sangue![n][w][e]
 
 [msg TalkMsg_EN_FALTER_00]
-[s]...O inferno!? Ninguém me contou sobre isso![n][w][e]
+[s]... Que diabos!?![n]Ninguém me contou sobre isso![n][w][e]
 
 [msg TalkMsg_EN_FALTER_01]
-[s]TCH! Que diabos!?[n][w][e]
+[s]Tsk! Que diabos!?![n][w][e]
 
 [msg TalkMsg_EN_FAKE_CRIED00]
-[s]Ugh, você já cala a boca!?[n]... tudo bem, vou deixar você ir pelo preço[n]de um  [f 2 5 3 9999 3].[n][w][e]
+[s]Ugh, você pode calar a boca!?![n]Ok, eu vou deixar você[n]ir para este item: [f 2 5 3 9999 3].[n][w][e]
 
 [msg TalkMsg_EN_FAKE_CRIED01]
-[s]O que...? Tudo bem, vou deixar isso deslizar[n]se você me dê [n][var 0]Yen.[n][w][e]
+[s]Mas o que...!?! Tudo bem, vou fechar os olhos[n][var 0] ienes.[n][w][e]
 
 [msg TalkMsg_EN_FAKE_CRIED02]
-[s]Ugh, você já calou a boca!?[n]... Tudo bem, eu vou deixar você sair do[n]gancho se você dê um pouco de sua saúde.[n][w][e]
+[s]Ugh, você vai calar a boca!?![n]... Tudo bem, eu vou deixar você ir em[n]troca de um pouco de sua saúde.[n][w][e]
 
 [msg TalkMsg_EN_FAKE_CRIED03]
-[s]O que? Tudo bem, eu vou deixar isso deslizar[n]se você dê um pouco de sua resistência.[n][w][e]
+[s]Que diabos!?! Tudo bem, tudo bem, vou fechar os[n]olhos em troca de um pouco da sua energia.[n][w][e]
 
 [msg TalkMsg_EN_FAKE_COUP00]
-[s]O que há com esta garota!? Eu não posso[n]lidar com isso![n][w][e]
+[s]O que há de errado com essa garota...!?[n]Eu não aguento![n][w][e]
 
 [msg TalkMsg_EN_FAKE_COUP01]
-[s]Ugh... eu odeio seriamente esse ato patético[n]em que você está colocando. Estou fora[n]daqui...[n][w][e]
+[s]Ugh... Eu não suporto essas travessuras[n]patéticas. Eu lavo minhas mãos...[n][w][e]
 
 [msg TalkMsg_NO_REQUIREMENT]
-[s]... espere, você não tem nenhum![n][w][e]
+[s]Espere, você não tem nenhum![n][w][e]
 
 [msg CharmActing [Ann]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 4 5 301 1]Não... como você poderia aceitar isso?[n][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 4 5 301 1]Não... Como você pode aguentar isso?[n][w][e]
 
 [msg NetEngo]
-[s]Outro bando de ladrões respondeu à ligação![n][w][e]
+[s]Outra gangue de ladrões[n]atendeu a chamada![n][w][e]
 
