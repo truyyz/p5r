@@ -31,38 +31,38 @@
 [s]エレベーターに『ボス前』が追加されます。[n][w][e]
 
 [msg EV_57_011_Balancer]
-[s]A escala diminuirá para dez milhões de[n]moedas.[n][w][e]
+[s]O saldo cairá para[n]10 milhões de moedas.[n][w][e]
 
 [msg D157_011_miniEV_01_mes01 [Ann]]
-[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6165 65535 0]São essas regras? Umm...[n]"A Casa das Trevas"...?[n][w][e]
+[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6165 65535 0]Essas são as regras? Um...[n]"Dark Abode"?[n][w][e]
 
 [msg D157_011_miniEV_01_mes02 [Makoto]]
-[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos ver o que diz...[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]"Neste jogo, você tentará escapar de um[n]labirinto preto".[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]"Você está livre para sair em qualquer[n]momento e comece de novo. O jogo termina[n]quando você chega ao final." [n][w][e]
+[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos ver o que ele diz.[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]"O objetivo do jogo é escapar de um labirinto[n]escuro."[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]"É possível parar a qualquer[n]momento e começar de novo. O jogo[n]termina na linha de chegada."[n][w][e]
 
 [msg D157_011_miniEV_01_mes03 [Ryuji]]
-[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7177 65535 0]Espere, é isso? Isso não nos diz merda, pois[n]há um labirinto e está escuro.[n][w][e]
+[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7177 65535 0]Isso é tudo? Não diz nada,[n]apenas que existe um labirinto[n]e que está no escuro.[n][w][e]
 
 [msg D157_011_miniEV_01_mes04 [Akechi]]
-[s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Suponho que teremos que entrar e descobrir[n]por nós mesmos o que se trata.[n][w][e]
+[s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Para descobrir o que é,[n]teremos que entrar e ver[n]com nossos próprios olhos.[n][w][e]
 
 [msg D157_011_miniEV_02_mes01 [Haru]]
-[s][bup 0 7 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 3180 65535 0]Ah, essas são as regras para o que eles[n]chamam de "arena de batalha".[n][w][e]
+[s][bup 0 7 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 3180 65535 0]Oh, estas são as regras[n]para a "Arena de Luta".[n][w][e]
 
 [msg D157_011_miniEV_02_mes02 [Yusuke]]
-[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]HM, eu os leio.[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]"Esta é uma série de lutas justas e justas[n]nas quais suas habilidades são tudo em que[n]você pode confiar".[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Bem, aí está.[n][w][e]
+[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu os li em voz alta.[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]"Uma série de duelos em que um[n]confia apenas em[n]própria habilidade."[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Olha Você aqui.[n][w][e]
 
 [msg D157_011_miniEV_02_mes03 [Futaba]]
-[s][bup 0 8 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9191 65535 0]Então, é como toda a coisa de "Challenger se[n]aproximando" em Super Bash Bros![n]Você luta contra quem aparecer![n][w][e]
+[s][bup 0 8 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9191 65535 0]É como o "New Challenger"[n]do Super Bash Bros![n]Você luta contra quem aparecer![n][w][e]
 
 [msg D157_011_miniEV_02_mes04 [Makoto]]
-[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Suponho que um julgamento criminal é como[n]uma espécie de batalha. Isso pode ser um[n]pouco mais refrescante.[n][w][e]
+[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Suponho que um julgamento seja como uma batalha.[n]Mas isso deve ser mais agradável.[n][w][e]
 
 [msg D157_011_miniEV_02_mes05 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]HM, estou curioso para saber o que está nos[n]esperando lá dentro. Vamos verificar quando[n]você estiver pronto.[n][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Mmm, quem sabe o que nos espera aqui. Quando[n]estiver pronto, vamos dar uma olhada.[n][w][e]
 
 [msg EV_57_011_SAFE_EVENT]
 [s]セーフルーム仮処理[n][w][e]

@@ -1,9 +1,9 @@
 [msg D159_020_DUCT_NG]
-[s]Há um pequeno buraco aqui.[n]Acho que não posso caber dentro.[n][w][e]
+[s]Há um pequeno buraco aqui.[n]Acho que não vou passar por ele.[n][w][e]
 
 [msg D159_020_SWITCH_OFF]
-[s]O interruptor está desligado agora.[n][w][e]
+[s]Agora o interruptor está desligado.[n][w][e]
 
 [msg D159_020_SWITCH_ON]
-[s]O interruptor está agora ligado.[n][w][e]
+[s]Agora o interruptor está ligado.[n][w][e]
 

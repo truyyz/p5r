@@ -1,6 +1,6 @@
 [sel YESNO_SEL top]
-[s]Sim [e]
-[s]Não [e]
+[s]Sim[e]
+[s]Não[e]
 
 [msg DUMMY_MSG]
 [s]......[n][w][e]
@@ -27,7 +27,7 @@
 [s]坊ちゃんじゃ、見当Òいの[n]相手を選びそうだからね![n][w][e]
 
 [msg MSG_SPOT_TUTO_PC02]
-[s]Para onde devo ir...?[n][w][e]
+[s]Onde devo ir...?[n][w][e]
 
 [sel MSG_SPOT_TUTO_SEL01 top]
 [s]荻窪(ラーメン屋)[e]
@@ -79,293 +79,293 @@
 [s]ゆーじゅーふだん。[n]だニャ。[n][w][e]
 
 [msg DrugStore_NOTOPEN]
-[s]É a farmácia "Jutaro of Medicine".[n][w][e]
-[s]Este lugar não apenas vende medicamentos,[n]mas também detergentes e outras[n]necessidades diárias...[n][w][e]
-[s]Não há nada que eu queira comprar aqui[n]agora, no entanto...[n][w][e]
+[s]Esta é a[n]farmácia "Remédios do Jutaro".[n][w][e]
+[s]Aqui vendem-se não só[n]medicamentos, mas também detergentes[n]e outros produtos de uso diário.[n][w][e]
+[s]No momento não há nada[n]que eu gostaria de comprar...[n][w][e]
 
-[msg DrugStore_SELECT [Server]]
+[msg DrugStore_SELECT [Cameriere]]
 [s]Bem-vindo![n][w][e]
 
-[msg DrugStore_THANKS [Server]]
-[s]Muito obrigado! Esperamos vê-lo novamente[n]muito, muito em breve![n][w][e]
+[msg DrugStore_THANKS [Cameriere]]
+[s]Muito obrigado![n]Esperamos vê-lo novamente muito,[n]muito em breve![n][w][e]
 
-[msg DrugStore_NOT_BUY [Server]]
-[s]Por favor, apareça novamente![n][w][e]
+[msg DrugStore_NOT_BUY [Cameriere]]
+[s]Volte para nos visitar![n][w][e]
 
-[msg DrugStore_SOLDOUT [Server]]
-[s]Estou muito desculpe... estamos vendidos[n]atualmente... tudo.[n][w][e]
+[msg DrugStore_SOLDOUT [Cameriere]]
+[s]Sinto muito.[n]Estamos sem estoque[n]de...tudo.[n][w][e]
 
 [msg MSG_BATTING_CENTER_KF_01]
-[s]O segundo andar deste lugar parece estar[n]batendo gaiolas, mas é [n][clr 2]sob renovação [clr 27]agora mesmo.[n][w][e]
-[s]Parece que estará aberto novamente a partir[n]de maio. Vou vir aqui de novo então...[n][w][e]
+[s]No segundo andar deste lugar[n]há gaiolas de rebatidas, mas[n]elas estão atualmente [clr 2]reformando[clr 27].[n][w][e]
+[s]Parece que eles vão reabrir[n]em maio.[n]Eu voltarei...[n][w][e]
 
 [msg MSG_BATTING_CENTER_KF_02 [Morgana]]
-[s]Oh, o segundo andar tem algumas gaiolas.[n]Ouvi dizer que eles são [n][clr 2]sob renovação [clr 27][n]agora embora.[n][w][e]
-[s]Aparentemente, estará de volta aos negócios[n]em maio. Vamos voltar quando ele reabrir.[n][w][e]
+[s]Oh, existem gaiolas de rebatidas no segundo[n]andar. Eu ouvi que eles estão [n][clr 2]reformando[clr 27] agora, no entanto.[n][w][e]
+[s]Aparentemente, eles reabrirão[n]em maio. Voltaremos quando[n]eles reabrirem.[n][w][e]
 
 [msg MSG_BATTING_CENTER_NG [Morgana]]
-[s]Oh, há gaiolas de rebatidas no segundo[n]andar. Ouvi dizer que eles são [n][clr 2]sob renovação [clr 27]agora, no entanto.[n][w][e]
-[s]Aparentemente, estará de volta aos negócios[n]em maio. Vamos voltar quando ele reabrir.[n][w][e]
+[s]Oh, no segundo andar estão[n]as gaiolas de rebatidas. Eu ouvi que[n]eles estão [clr 2]reformando[clr 27] agora, no entanto.[n][w][e]
+[s]Aparentemente, eles reabrirão[n]em maio. Voltaremos quando[n]eles reabrirem.[n][w][e]
 
 [msg MSG_BATTING_CENTER [Morgana]]
-[s]Oh, há gaiolas de rebatidas no segundo[n]andar. Você pode melhorar seu [n][clr 1]Agilidade [clr 27][n]pagando [clr 2]500 ienes [clr 27].[n][w][e]
+[s]Oh, no segundo andar estão[n]as gaiolas de rebatidas. Você pode melhorar[n]sua [clr 1]Agilidade[clr 27] pagando [clr 2]500 ienes[clr 27].[n][w][e]
 
 [msg MSG_BATTING_CENTER_POLIS [Morgana]]
-[s]Além disso, você está em um rolo ultimamente.[n]Você pode até ter desenvolvido um [n][clr 2]Olho de rebate [clr 27]por enquanto.[n][w][e]
+[s]Além disso, você está indo muito bem.[n]Você já deve ter desenvolvido os[n][clr 2]reflexos de batalha[clr 27].[n][w][e]
 
 [msg MSG_BATTING_CENTER_NO_PO [Morgana]]
-[s]Se você trabalha duro o suficiente, você[n]formará um [n][clr 2]Olho de rebate [clr 27]e ser capaz de acertar um home run.[n][w][e]
+[s]Se você praticar o suficiente, desenvolverá[n]i [clr 2]reflexos de rebatida[clr 27] e será capaz[n]de acertar um home run.[n][w][e]
 
 [msg MSG_BATTING_CENTER_CHK [Morgana]]
-[s]Bem, você queria passar algum tempo aqui na[n]gaiola de rebatidas, então?[n][w][e]
+[s]Bem, quer passar algum tempo aqui na gaiola de[n]rebatidas?[n][w][e]
 
 [sel SEL_BATTING_CENTER_CHK top]
-[s]Jogar bola.[e]
-[s]Não, vamos lá.[e]
+[s]Tocam.[e]
+[s]Não, melhor ir.[e]
 
 [msg MSG_BATTING_CENTER_NO_MO [Morgana]]
-[s]... Espere, você não tem dinheiro suficiente.[n]Sheesh, já gastamos tudo?[n][w][e]
+[s]...Espere, você não tem dinheiro suficiente.[n]Heck, você já gastou todos eles?[n][w][e]
 
 [msg MND_OldCinema]
-[s]Parece um cinema antigo, mas acho que já foi[n]fechado...[n][w][e]
+[s]Parece um cinema antigo,[n]mas acho que já[n]fechou...[n][w][e]
 
 [msg MSG_OldCinema [Morgana]]
-[s]É um cinema antigo. Infelizmente, parece que[n]já está fechado.[n][w][e]
+[s]É um cinema antigo.[n]Infelizmente, parece que[n]já fechou.[n][w][e]
 
 [msg MSG_OldCinema_KF_01]
-[s]Parece um antigo cinema.[n][w][e]
-[s]Não tenho tempo agora para parar por aqui.[n]Vou voltar outra vez.[n][w][e]
+[s]Parece um cinema antigo.[n][w][e]
+[s]Não posso parar agora.[n]Voltarei com prazer[n]outra vez.[n][w][e]
 
 [msg MSG_OldCinema_KF_02 [Morgana]]
-[s]Oh, é um antigo cinema.[n][w][e]
-[s]Não temos tempo para conferir agora, no[n]entanto. Faremos isso em outra hora.[n][w][e]
+[s]Oh, é um cinema antigo.[n][w][e]
+[s]Agora não temos tempo para parar, infelizmente.[n]Faremos isso em outra ocasião.[n][w][e]
 
 [msg MSG_OldCinema_H_01]
-[s]É um cinema antigo.[n]Nesta semana, parece que o tema são filmes[n]de terror.[n][w][e]
-[s]Se eu pagar [clr 2]1.500 ienes [clr 27]Para assistir a um filme de terror, acho que[n]vou acabar tendo mais [n][clr 1]Estômago [clr 27]do que antes.[n][w][e]
+[s]É um cinema antigo.[n]O tema desta semana é[n]filmes de terror.[n][w][e]
+[s]Ao pagar [clr 2]1.500 ienes[clr 27] para assistir[n]a um filme de terror, eu poderia[n]aumentar minha [clr 1]Coragem[clr 27].[n][w][e]
 
 [msg MSG_OldCinema_H_02]
-[s]Acho que vou passar algum tempo aqui hoje...[n][w][e]
+[s]Vou passar algum[n]tempo aqui hoje...[n][w][e]
 
 [msg MSG_OldCinema_H_03 [Morgana]]
-[s]É um cinema antigo. Nesta semana, eles[n]exibirão filmes de terror especialmente[n]selecionados.[n][w][e]
-[s]Parece que você terá mais [f 4 11 3][clr 26][f 4 12 3][clr 27][n]se você pagar [clr 2]1.500 ienes [clr 27]Para assistir a um filme de terror.[n][w][e]
+[s]É um cinema antigo.[n]Eles estão exibindo[n]uma seleção de filmes de terror esta semana.[n][w][e]
+[s]Ao pagar [clr 2]1.500 ienes[clr 27] para assistir[n]a um filme de terror, você[n]aumentará[n]seu [f 4 11 3][clr 26][f 4 12 3][clr 27 ].[n][w][e]
 
 [msg MSG_OldCinema_H_04 [Morgana]]
-[s]Oh, você estava pensando em passar um tempo[n]aqui hoje?[n][w][e]
+[s]Oh, você estava pensando em passar[n]tempo aqui hoje?[n][w][e]
 
 [msg MSG_OldCinema_D_01]
-[s]É um cinema antigo.[n]Nesta semana, parece que o tema são os[n]filmes de ficção científica.[n][w][e]
-[s]Se eu pagar [clr 2]1.500 ienes [clr 27]Para assistir a um filme de ficção[n]científica, acho que poderei melhorar meu [n][clr 1]Entendimento [clr 27].[n][w][e]
+[s]É um cinema antigo.[n]Esta semana é dedicada[n]aos filmes de ficção científica.[n][w][e]
+[s]Ao pagar [clr 2]1.500 ienes[clr 27] para assistir[n]a um filme de ficção científica, eu poderia[n]melhorar minha [clr 1]Intuição[clr 27].[n][w][e]
 
 [msg MSG_OldCinema_D_02]
-[s]Acho que vou passar algum tempo aqui hoje...[n][w][e]
+[s]Vou passar algum[n]tempo aqui hoje...[n][w][e]
 
 [msg MSG_OldCinema_D_03 [Morgana]]
-[s]É um cinema antigo. Nesta semana, eles[n]exibirão filmes de ficção científica[n]especialmente selecionados.[n][w][e]
-[s]Parece que você pode refinar seu [clr 1]Entendimento [clr 27][n]se você pagar [clr 2]1.500 ienes [clr 27]Para assistir a um filme de ficção[n]científica.[n][w][e]
+[s]É um cinema antigo.[n]Esta semana eles estão exibindo[n]uma seleção de filmes de ficção científica.[n][w][e]
+[s]Ao pagar [clr 2]1.500 ienes[clr 27] para assistir[n]a um filme de ficção científica, você pode[n]melhorar sua [clr 1]Intuição[clr 27].[n][w][e]
 
 [msg MSG_OldCinema_D_04 [Morgana]]
-[s]Oh, você estava pensando em passar um tempo[n]aqui hoje?[n][w][e]
+[s]Oh, você estava pensando em passar[n]tempo aqui hoje?[n][w][e]
 
 [sel SEL_OldCinema_01 top]
 [s]Vamos assistir a um filme.[e]
-[s]Não importa, vamos lá.[e]
+[s]Não importa, vamos.[e]
 
 [msg MSG_OldCinema_NG_01]
-[s]...Esperar. Acho que não tenho dinheiro[n]suficiente.[n][w][e]
+[s]...Um momento. Receio não ter dinheiro suficiente.[n][w][e]
 
 [msg MSG_OldCinema_TICKET_02 [Morgana]]
-[s]Venha para pensar sobre isso, você não[n]recebeu um ingresso de cinema grátis do[n]chefe?[n][w][e]
-[s]Você pode assistir a um filme de graça[n]agora, então. Que sorte![n][w][e]
+[s]Agora que penso nisso, o patrão não[n]lhe deu um bilhete[n]para o cinema?[n][w][e]
+[s]Então você pode assistir a um filme sem pagar.[n]Sortudo![n][w][e]
 
 [msg MSG_OldCinema_TICKET_01]
-[s]Oh, isso mesmo, Boss me deu um ingresso de[n]cinema grátis.[n][w][e]
-[s]Parece que posso ir em frente e apenas[n]assistir a um filme de graça...[n][w][e]
+[s]Ah, certo, o chefe me deu um ingresso de cinema[n]grátis.[n][w][e]
+[s]Posso entrar e curtir um filme sem pagar...[n][w][e]
 
 [msg MSG_OldCinema_NG_02 [Morgana]]
-[s]... Espere, você não tem dinheiro suficiente.[n]Sheesh, já gastamos tudo?[n][w][e]
+[s]...Espere, você não tem dinheiro suficiente.[n]Heck, você já gastou todos eles?[n][w][e]
 
 [msg MSG_OldCinema_night_01]
-[s]Parece que este lugar está fechado à noite.[n]Eu deveria vir durante o dia da próxima[n]vez...[n][w][e]
+[s]Parece que este lugar[n]está fechado, à noite. Eu tenho que[n]passar durante o dia...[n][w][e]
 
 [msg MSG_OldCinema_night_02 [Morgana]]
-[s]Eu acho que este lugar está fechado à noite.[n]Por que você não volta durante o dia da[n]próxima vez?[n][w][e]
+[s]Eu acredito que este lugar está fechado,[n]noites. Por que você não[n]volta durante o dia da próxima vez?[n][w][e]
 
 [msg MSG_OldCinema_test_mes]
 [s] α5範¾外対応メッセージ。[n]4/18~24と4/25~31¹外はメッセージ対応していません。[n][w][e]
 
 [msg MSG_KARAOKE_KF_01]
-[s]É uma loja irmã de uma famosa loja de[n]karaokê, mas ainda está fechada. Parece[n]abrir ao anoitecer.[n][w][e]
+[s]É uma loja irmã de uma[n]famosa loja de karaokê, mas ainda está[n]fechada. Abre ao pôr do sol.[n][w][e]
 
 [msg MSG_KARAOKE_KF_02 [Morgana]]
-[s]200 ienes por meia hora? Eu acho que custa[n]dinheiro apenas para cantar.[n][w][e]
+[s]200 ienes por meia hora?[n]Até para cantar você[n]tem que pagar.[n][w][e]
 
 [msg MSG_KARAOKE_arbeit_no_ch [Morgana]]
-[s]200 ienes por meia hora? Eu acho que custa[n]dinheiro apenas para cantar.[n][w][e]
+[s]200 ienes por meia hora?[n]Até para cantar você[n]tem que pagar.[n][w][e]
 
 [msg MSG_KARAOKE_NG_night [Morgana]]
-[s]Se bem me lembro, você não se inscreveu no[n]trabalho aqui em meio período? Você vai[n]trabalhar hoje?[n][w][e]
-[s]Espere, ainda está muito cedo. Você precisa[n]vir aqui à noite, se quiser trabalhar.[n][w][e]
+[s]Lembrei-me corretamente ou você se inscreveu aqui[n]para trabalhar meio período? Você tem que[n]trabalhar hoje?[n][w][e]
+[s]Espere, ainda é cedo.[n]Para trabalhar você tem que vir[n]aqui à noite.[n][w][e]
 
 [msg MSG_KARAOKE_NG_shift [Morgana]]
-[s]Se bem me lembro, você não se inscreveu no[n]trabalho aqui em meio período? Você vai[n]trabalhar hoje?[n][w][e]
-[s]Oh, você não tem uma mudança hoje. Diz que[n]você trabalha aqui na terça, quinta-feira e[n]no sábado.[n][w][e]
+[s]Lembrei-me corretamente ou você se inscreveu aqui[n]para trabalhar meio período? Você tem que[n]trabalhar hoje?[n][w][e]
+[s]Oh, você não está no turno.[n]Diz que você trabalha às terças,[n]quintas e sábados.[n][w][e]
 
 [msg MSG_KARAOKE_CHK [Morgana]]
-[s]Você pode trabalhar aqui hoje.[n][w][e]
-[s]Eu vejo muitos clientes que seriam[n]irritantes de lidar, mas você melhoraria[n]seu  [clr 1]Agilidade [clr 27]um pouco.[n][w][e]
+[s]Hoje você pode trabalhar aqui.[n][w][e]
+[s]Existem vários clientes que[n]não[n]serão fáceis de lidar[n]mas você irá melhorar sua [clr 1]Agilidade[clr 27].[n][w][e]
 
 [msg MSG_KARAOKE_POLISH [Morgana]]
-[s]Além disso, você não terminou seu período de[n]treinamento? Talvez algo de bom aconteça.[n][w][e]
+[s]Além disso, você quase não terminou o[n]período de treinamento? Pode[n]algo bom acontecer.[n][w][e]
 
 [msg MSG_KARAOKE_NO_POLISH [Morgana]]
-[s]Se você continuar trabalhando, terminará seu[n]período de treinamento e, em seguida, algo[n]de bom pode acontecer.[n][w][e]
+[s]Se continuar trabalhando, terminará[n]o período de treinamento e[n]alguma coisa boa pode acontecer.[n][w][e]
 
 [msg MSG_KARAOKE_CHK_START [Morgana]]
-[s]Então o que você vai fazer? Você vai[n]trabalhar aqui hoje?[n][w][e]
+[s]Então o que você quer fazer? Hoje[n]você vai trabalhar aqui?[n][w][e]
 
 [sel SEL_KARAOKE_CHK top]
-[s]Vamos ao trabalho.[e]
-[s]Não vamos trabalhar hoje.[e]
+[s]Nós vamos trabalhar.[e]
+[s]Trabalhamos outro dia.[e]
 
 [msg MSG_KARAOKE_01]
-[s]Ah, então esses pôsteres são de ídolos e[n]bandas que são populares agora...[n][w][e]
+[s]Ah, então esses são pôsteres[n]de ídolos e bandas[n]famosas hoje em dia...[n][w][e]
 
 [msg MSG_KARAOKE_02 [Morgana]]
-[s]Ah, então esses pôsteres são de ídolos e[n]bandas que são populares agora...[n][w][e]
+[s]Ah, então esses são pôsteres[n]de ídolos e bandas[n]famosas hoje em dia...[n][w][e]
 
 [msg MSG_CHK_KEITAI_SHOP]
-[s]É uma loja de telefones celulares.[n]Para um pequeno espaço, com certeza tem[n]muitos telefones celulares.[n][w][e]
-[s]Huh? Um membro da equipe está olhando assim.[n]É melhor eu sair antes que alguém desconfia[n]de mim.[n][w][e]
+[s]É uma loja de celulares.[n]Mesmo sendo pequena, tem[n]muitos modelos.[n][w][e]
+[s]Huh? Um membro da equipe[n]está nos observando. Melhor ir embora,[n]antes que alguém suspeite.[n][w][e]
 
 [msg MSG_KONBINI_KF_01]
-[s]É uma loja irmã de uma loja de conveniência[n]que vejo com bastante frequência.[n][w][e]
+[s]É uma loja afiliada a uma[n]loja de conveniência que vejo com frequência.[n][w][e]
 
 [msg MSG_KONBINI_KF_02 [Morgana]]
-[s]Existem lojas de conveniência em todos os[n]lugares. Não há um logo atrás da sua casa[n]também?[n][w][e]
+[s]Está cheio de lojas de conveniência.[n]Não há uma também[n]ao redor da casa?[n][w][e]
 
 [msg MSG_KONBINI_arbeit_no_ch [Morgana]]
-[s]Existem lojas de conveniência em todos os[n]lugares. Não há um logo atrás da sua casa[n]também?[n][w][e]
+[s]Está cheio de lojas de conveniência.[n]Não tem uma também[n]perto de casa?[n][w][e]
 
 [msg MSG_KONBINI_NG_night [Morgana]]
-[s]Você se candidatou a um emprego aqui, se bem[n]me lembro. Você vai trabalhar aqui hoje?[n][w][e]
-[s]Espere, é tarde demais agora. Você terá que[n]voltar amanhã depois da escola.[n][w][e]
+[s]Se bem me lembro, você se candidatou[n]para trabalhar aqui.[n]Você tem que trabalhar hoje?[n][w][e]
+[s]Espere, agora é tarde demais.[n]Você tem que voltar amanhã[n]depois da escola.[n][w][e]
 
 [msg MSG_KONBINI_NG_shift [Morgana]]
-[s]Você se candidatou a um emprego aqui, se bem[n]me lembro. Você vai trabalhar aqui hoje?[n][w][e]
-[s]Espere, você não tem um turno hoje.[n]Diz que você trabalha na segunda, quarta e[n]sábado.[n][w][e]
+[s]Se bem me lembro, você se candidatou[n]para trabalhar aqui.[n]Você tem que trabalhar hoje?[n][w][e]
+[s]Espere, você não está no turno.[n]Aqui diz que você trabalha[n]segundas, quartas e sábados.[n][w][e]
 
 [msg MSG_KONBINI_CHK [Morgana]]
-[s]Você pode trabalhar aqui hoje.[n][w][e]
-[s]O gerente parece exausto. Sua [n][clr 1]Entendimento [clr 27]Pode se aprofundar se você vislumbrar a vida[n]adulta.[n][w][e]
+[s]Hoje você pode trabalhar aqui.[n][w][e]
+[s]O gerente parece abatido.[n]Sua [clr 1]Intuição[clr 27] pode se aguçar, com[n]um gostinho da vida adulta.[n][w][e]
 
 [msg MSG_KONBINI_POLISH [Morgana]]
-[s]Além disso, você não terminou seu período de[n]treinamento? Talvez algo de bom aconteça.[n][w][e]
+[s]Além disso, você quase não terminou o[n]período de treinamento? Pode[n]algo bom acontecer.[n][w][e]
 
 [msg MSG_KONBINI_NO_POLISH [Morgana]]
-[s]Se você continuar trabalhando, terminará seu[n]período de treinamento e, em seguida, algo[n]de bom pode acontecer.[n][w][e]
+[s]Se continuar trabalhando, terminará[n]o período de treinamento e[n]alguma coisa boa pode acontecer.[n][w][e]
 
 [msg MSG_KONBINI_CHK_START [Morgana]]
-[s]Então o que você vai fazer? Você vai[n]trabalhar aqui hoje?[n][w][e]
+[s]Então o que você quer fazer? Hoje[n]você vai trabalhar aqui?[n][w][e]
 
 [sel SEL_KONBINI_CHK top]
-[s]Vamos ao trabalho.[e]
-[s]Não vamos trabalhar hoje.[e]
+[s]Nós vamos trabalhar.[e]
+[s]Trabalhamos outro dia.[e]
 
 [msg MSG_CHK_KINKEN_SHOP]
-[s]Sacos e acessórios estão em exibição. Eles[n]também parecem vender bilhetes de loteria[n]aqui.[n][w][e]
-[s]Ele diz que você precisa ter pelo menos 18[n]anos para comprar um ingresso para esta[n]loteria.[n][w][e]
+[s]Há bolsas e acessórios em[n]display. Eles também vendem bilhetes de[n]loteria aqui.[n][w][e]
+[s]Para comprar um bilhete para[n]esta loteria, no entanto, você deve[n]ter pelo menos 18 anos.[n][w][e]
 
 [msg MSG_CHK_STAND_SOBA]
-[s]Vários clientes estão comendo Soba. O[n]delicioso aroma da sopa de Konbu flutua[n]dessa maneira.[n][w][e]
+[s]Os clientes locais comem[n]soba. O delicioso aroma de[n]sopa de missô enche o ar.[n][w][e]
 
 [msg MSG_CRAMMER_KF_01]
-[s]Parece que há uma escola Cram no segundo[n]andar deste lugar.[n][w][e]
+[s]Aparentemente, no segundo andar[n]deste lugar há[n]um curso particular.[n][w][e]
 
 [msg MSG_CRAMMER_KF_02 [Morgana]]
-[s]Parece que o segundo andar deste lugar é uma[n]escola de Cram, mas por que está tão perto[n]de um salão de Pachinko?[n][w][e]
+[s]No segundo andar deste[n]prédio há um curso particular, mas[n]por que está tão perto de um pachinko?[n][w][e]
 
 [msg MSG_CRAMMER_arbeit_no_ch [Morgana]]
-[s]Parece que o segundo andar deste lugar é uma[n]escola de Cram, mas por que está tão perto[n]de um salão de Pachinko?[n][w][e]
+[s]No segundo andar deste[n]prédio há um curso particular, mas[n]por que está tão perto de um pachinko?[n][w][e]
 
 [msg MSG_CRAMMER_arbeit_ng_ma [Morgana]]
-[s]Venha para pensar sobre isso, você se[n]candidatou a um emprego de meio período[n]aqui.[n][w][e]
-[s]Mas acho que a revista Job mencionou[n]requisitos adicionais para estudantes do[n]ensino médio.[n][w][e]
-[s]Bem, você deve entrar e perguntar a eles[n]sobre isso.[n][w][e]
+[s]Agora que penso nisso, você se inscreveu aqui[n]para um emprego de meio período.[n][w][e]
+[s]Na revista de anúncios[n]falava-se de requisitos extras[n]para alunos do ensino médio.[n][w][e]
+[s]Bem, você deve ir[n]pedir mais detalhes.[n][w][e]
 
-[msg MSG_CRAMMER_arbeit_ng_ma_2 [Chairman-esque Voice]]
-[s]Oh, você é [f 4 1]-kun? Ah, você se candidatou a um emprego[n]aqui?[n][w][e]
-[s]Temos uma necessidade desesperada de[n]instrutores. Estou muito agradecido por[n]você se inscrever, mas...[n][w][e]
-[s]Eu configurei algumas condições para os[n]alunos do ensino médio se encontrarem para[n]que eles possam ensinar nossos alunos do[n]ensino médio.[n][w][e]
-[s]Aqui, por favor, pegue estes [clr 2]exercícios básicos [clr 27]E depois volte quando você entender todos[n]eles.[n][w][e]
-[s]Você pode levar o tempo que quiser terminar.[n]Estamos muito pouco com a equipe aqui o ano[n]todo.[n][w][e]
+[msg MSG_CRAMMER_arbeit_ng_ma_2 [Voce dal tono presidenziale]]
+[s]Oh, você é [f 4 1]-kun?[n]Ah, você pediu para trabalhar aqui?[n][w][e]
+[s]Precisamos desesperadamente de professores.[n]Estamos felizes por sua inscrição, mas...[n][w][e]
+[s]Existem condições extras para alunos do ensino[n]médio poderem ensinar alunos do ensino médio.[n][w][e]
+[s]Aqui, faça estes[n][clr 2]exercícios básicos[clr 27] e[n]volte depois de entender todos eles.[n][w][e]
+[s]Leve todo o tempo necessário para finalizá-los.[n]Temos poucos funcionários durante todo o ano.[n][w][e]
 
 [msg MSG_CRAMMER_arbeit_ng_ma_3 [Morgana]]
-[s]... Então, que tipo de livro de perfuração é[n]esse? Não há nada que eu não possa resolver-[n]mostre para mim.[n][w][e]
+[s]...Então, qual pasta de trabalho é?[n]Estou indo muito bem.[n]Deixe-me ver.[n][w][e]
 
 [msg MSG_CRAMMER_arbeit_ng_ma_4]
-[s]Abro o livro de perfuração e vejo uma[n]pergunta pedindo a área de um diagrama[n]complicado...[n][w][e]
-[s]Não sei como usar essa fórmula. As crianças[n]do ensino fundamental podem realmente[n]resolver isso?[n][w][e]
+[s]Abro o livro e encontro um problema[n]sobre o cálculo da área de um[n]diagrama muito complexo...[n][w][e]
+[s]Não sei como usar esta fórmula. As crianças do[n]ensino fundamental podem realmente saber como[n]resolvê-lo?[n][w][e]
 
 [msg MSG_CRAMMER_arbeit_ng_ma_5 [Morgana]]
 [s]......[n][w][e]
-[s]HM. Você precisará de um [clr 2]lugar onde eles têm livros e você pode se[n]concentrar em estudar [n][clr 27]Para terminar esses exercícios...[n][w][e]
-[s]... de qualquer forma, você é [clr 2]Incapaz de trabalhar na Escola Cram [clr 27]até que você possa resolver todos esses[n]exercícios.[n][w][e]
-[s]Vamos. Não faz sentido ficar aqui.[n][w][e]
+[s]Hum. Você precisa encontrar um [clr 2]lugar[n]cheio de livros onde possa se concentrar[n]estudando[clr 27] os exercícios...[n][w][e]
+[s]...No entanto, [clr 2]você não poderá[n]trabalhar no curso particular[clr 27][n]até resolver os exercícios.[n][w][e]
+[s]Vamos. É inútil[n]ficar aqui.[n][w][e]
 
 [msg MSG_CRAMMER_arbeit_ng_ma_6 [Morgana]]
-[s]Você não terminou de resolver os exercícios[n]necessários para trabalhar aqui, certo?[n][w][e]
-[s]Vamos voltar quando você terminar de[n]resolvê-los.[n][w][e]
+[s]Você ainda não[n]terminou os exercícios[n]para trabalhar aqui, certo?[n][w][e]
+[s]Volte quando[n]você tiver resolvido todos eles.[n][w][e]
 
 [msg MSG_CRAMMER_NG_night [Morgana]]
-[s]A sua mudança não foi logo depois da escola?[n][w][e]
-[s]É tarde demais se você vier à noite. Vamos[n]parar novamente em outra hora.[n][w][e]
+[s]Você não tinha turno aqui,[n]logo depois da escola?[n][w][e]
+[s]Se você chegar à noite, será tarde demais. Vamos[n]parar outra vez.[n][w][e]
 
 [msg MSG_CRAMMER_NG_shift [Morgana]]
-[s]Seus turnos foram às segundas, quartas e[n]quintas-feiras, certo?[n][w][e]
-[s]Vamos voltar outra vez.[n][w][e]
+[s]Você está de plantão às segundas,[n]quartas e quintas, certo?[n][w][e]
+[s]Voltamos outra hora.[n][w][e]
 
 [msg MSG_CRAMMER_CHK [Morgana]]
-[s]Você pode trabalhar aqui hoje.[n][w][e]
-[s]Muitas dessas crianças são obviamente[n]idiotas, mas o ensino pode ajudá-lo a[n]ganhar mais  [clr 1]Entendimento [clr 27].[n][w][e]
+[s]Hoje você pode trabalhar aqui.[n][w][e]
+[s]Muitas dessas crianças são[n]insolentes, mas ensinando[n]você vai aguçar sua [clr 1]Intuição[clr 27].[n][w][e]
 
 [msg MSG_CRAMMER_POLISH [Morgana]]
-[s]Além disso, você não terminou seu período de[n]treinamento? Talvez algo de bom aconteça.[n][w][e]
+[s]Além disso, você quase não terminou o[n]período de treinamento? Pode[n]algo bom acontecer.[n][w][e]
 
 [msg MSG_CRAMMER_NO_POLISH [Morgana]]
-[s]Se você continuar trabalhando, terminará seu[n]período de treinamento e, em seguida, algo[n]de bom pode acontecer.[n][w][e]
+[s]Se continuar trabalhando, terminará[n]o período de treinamento e[n]alguma coisa boa pode acontecer.[n][w][e]
 
 [msg MSG_CRAMMER_CHK_START [Morgana]]
-[s]Então o que você vai fazer? Você vai[n]trabalhar aqui hoje?[n][w][e]
+[s]Então o que você quer fazer? Hoje[n]você vai trabalhar aqui?[n][w][e]
 
 [sel SEL_CRAMMER_CHK top]
-[s]Vamos ao trabalho.[e]
-[s]Não vamos trabalhar hoje.[e]
+[s]Nós vamos trabalhar.[e]
+[s]Trabalhamos outro dia.[e]
 
 [msg MSG_CHK_PACHINKO_SLOT]
-[s]Os adultos estão jogando Pachinko e slots,[n]mas todos têm expressões severas. Eles[n]estão se divertindo?[n][w][e]
+[s]Os adultos jogam pachinko[n]e caça-níqueis, mas todos eles[n]parecem enfadonhos. Eles vão se divertir?[n][w][e]
 
 [msg SuperMarket_NOTOPEN]
 [s]É o supermercado "Meet Masa".[n][w][e]
-[s]Ao contrário dos supermercados regulares,[n]este local vende produtos alimentícios em[n]grandes quantidades adequadas para[n]empresas...[n][w][e]
-[s]Não há nada que eu queira comprar aqui[n]agora, no entanto...[n][w][e]
+[s]Ao contrário de outros supermercados,[n]vende produtos alimentícios em[n]quantidades industriais...[n][w][e]
+[s]No momento não há nada[n]que eu gostaria de comprar...[n][w][e]
 
-[msg SuperMarket_SELECT [Server]]
+[msg SuperMarket_SELECT [Cameriere]]
 [s]Bem-vindo![n][w][e]
 
-[msg SuperMarket_THANKS [Server]]
-[s]Muito obrigado! Esperamos vê-lo novamente[n]muito, muito em breve![n][w][e]
+[msg SuperMarket_THANKS [Cameriere]]
+[s]Muito obrigado![n]Esperamos vê-lo novamente muito,[n]muito em breve![n][w][e]
 
-[msg SuperMarket_NOT_BUY [Server]]
-[s]Por favor, apareça novamente![n][w][e]
+[msg SuperMarket_NOT_BUY [Cameriere]]
+[s]Volte para nos visitar![n][w][e]
 
-[msg SuperMarket_SOLDOUT [Server]]
-[s]Estou muito desculpe... estamos vendidos[n]atualmente... tudo.[n][w][e]
+[msg SuperMarket_SOLDOUT [Cameriere]]
+[s]Sinto muito.[n]Estamos sem estoque[n]de...tudo.[n][w][e]
 
 [msg MSG_CRAMMER]
-[s]É a entrada da escola Cram.[n][w][e]
-[s]Diz aqui: "Aponte para a aceitação nas[n]melhores escolas de ensino médio!" [n][w][e]
+[s]É a entrada para o curso[n]particular.[n][w][e]
+[s]Diz[n]"Mire nas melhores[n]escolas de ensino médio!"[n][w][e]
 
 [msg MSG_BATTING_CENTER_OPEN_ [Morgana]]
 [s]バッティングセンターがあるよ、坊っちゃん。[n]結構人気みたいだね。[n][w][e]

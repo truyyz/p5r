@@ -2,163 +2,163 @@
 [s]......[n][w][e]
 
 [sel YESNO_SEL top]
-[s]Sim [e]
-[s]Não [e]
+[s]Sim[e]
+[s]Não[e]
 
 [msg MSG_NotUse_Table [Morgana]]
-[s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 1 1025 65535 0]Alguém está cochilando na mesa...[n]Alguma dessas crianças pensa em ser[n]atenciosa?[n][w][e]
+[s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 1 1025 65535 0]Tem alguém dormindo no balcão...[n]Mas esses caras não conseguem[n]colocar a cabeça no lugar?[n][w][e]
 
 [msg MSG_STUDY_START_1ST [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1164 65535 0]Ah, parece que você pode estudar aqui.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1164 65535 0]Ah, aqui você pode estudar.[n][w][e]
 
 [msg MSG_Sentou_ParamInfo_int [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Sua [f 4 11 0][clr 26][f 4 12 0][clr 27] Pode melhorar se você estudar em [n] uma das mesas abertas.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Estudar em uma mesa livre pode[n]melhorar seu [f 4 11 0][clr 26][f 4 12 0][clr 27].[n][w][e]
 
 [msg MSG_Study_Start_Kamo [Morgana]]
-[s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]Existem outras pessoas por perto, mas...[n]sua [f 4 11 3][clr 26][f 4 12 3][clr 27]pode melhorar por causa disso.[n][w][e]
+[s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]Existem algumas pessoas, mas...[n]isso pode permitir que você[n]melhore seu [f 4 11 3][clr 26][f 4 12 3][clr 27].[n][w][e]
 
 [msg MSG_Study_Start_Normal [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]O que você quer fazer, estudar aqui?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]O que você quer fazer? Estudar aqui?[n][w][e]
 
 [msg MSG_Study_Start_BadWeath [Morgana]]
-[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 1166 65535 0]Não há muitas pessoas hoje- talvez por causa[n]do clima...! Isso significa que você poderá[n]se concentrar em estudar hoje![n][w][e]
+[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 1166 65535 0]Não há muitas pessoas hoje. Vai ser por[n]tempo... Mas pelo menos[n]você vai poder estudar em paz![n][w][e]
 
 [sel STUDY_THINK_SEL top]
 [s]Vamos fazê-lo.[e]
-[s]Vou passar.[e]
+[s]Deixa para lá.[e]
 
 [msg MND_Study_ParamEndInfo]
-[s]Eu acho que tenho o suficiente [n][f 4 11 0][clr 26][f 4 12 0][clr 27]já...[n][w][e]
+[s]Eu deveria ter[n][f 4 11 0][clr 26][f 4 12 0][clr 27]...[n][w][e]
 
 [msg MND_Study_ParamUpInfo]
-[s]Eu me sinto como meu [f 4 11 0][clr 26][f 4 12 0][clr 27][n]vai melhorar em breve...[n][w][e]
+[s]Acho que minha [f 4 11 0][clr 26][f 4 12 0][clr 27][n]vai aumentar em breve...[n][w][e]
 
 [msg MSG_BOOK_SHELF_01 [Morgana]]
-[s][bup 0 3 7 0 0][f 4 10 65535 0 0][vp 8 2 1 1170 65535 0]Todos os livros aqui parecem muito[n]difíceis...[n][w][e]
+[s][bup 0 3 7 0 0][f 4 10 65535 0 0][vp 8 2 1 1170 65535 0]Os livros que estão aqui[n]parecem bastante difíceis...[n][w][e]
 
 [msg MSG_BOOK_SHELF_02 [Morgana]]
-[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 1 1177 65535 0]Eu não acho que muitas pessoas nunca[n]conferam esses livros. Eles estão todos[n]cobertos por uma espessa camada de poeira.[n][w][e]
+[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 1 1177 65535 0]Não acho que muitas pessoas leiam esses livros.[n]Eles são cobertos por uma espessa camada de[n]poeira.[n][w][e]
 
 [msg MSG_BOOK_SHELF_03 [Morgana]]
-[s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 1 1184 65535 0]O título deste livro é super chato... há[n]algo mais interessante aqui?[n][w][e]
+[s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 1 1184 65535 0]O título deste livro[n]é tão chato... Não há algo[n]mais interessante?[n][w][e]
 
 [msg MSG_BOOK_SHELF_04 [Morgana]]
-[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 1 1025 65535 0]Quem escolhe os livros que eles têm aqui?[n]Eles deveriam realmente investir em algo[n]mais emocionante...[n][w][e]
+[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 1 1025 65535 0]Quem cuida da seleção[n]desses livros? Deviam fazer[n]investimentos mais interessantes...[n][w][e]
 
 [msg MSG_BOOK_SHELF_05 [Morgana]]
-[s][bup 0 3 4 0 0][f 4 10 65535 0 0][vp 8 2 1 1170 65535 0]Cara, todos esses livros são gigantescos...[n]Ser atingido por um seria péssimo.[n][w][e]
+[s][bup 0 3 4 0 0][f 4 10 65535 0 0][vp 8 2 1 1170 65535 0]Esses livros são enormes...[n]Quase poderíamos usá-los como uma arma![n][w][e]
 
 [msg MSG_BOOK_SHELF_06 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1175 65535 0]Esta prateleira está cheia de livros.[n]A maioria deles parece um pouco sério demais[n]para meus gostos.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1175 65535 0]A estante está cheia de livros.[n]Mas a maioria deles é muito[n]sério para o meu gosto.[n][w][e]
 
 [msg MSG_BOOK_SHELF_07 [Morgana]]
-[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]Alguém realmente lê isso?[n]Bem, acho que eles estão aqui para estudar...[n][w][e]
+[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]Mas há alguém que os lê[n]pelo menos? Bem, acho que eles[n]estão aqui para fins educacionais...[n][w][e]
 
 [msg MSG_BOOK_SHELF_08 [Morgana]]
-[s][bup 0 3 7 0 0][f 4 10 65535 0 0][vp 8 2 1 1044 65535 0]Hmmm... nenhum deles parece muito atraente[n]para mim...[n][w][e]
+[s][bup 0 3 7 0 0][f 4 10 65535 0 0][vp 8 2 1 1044 65535 0]Hmm... Nada disso parece[n]interessante o suficiente para mim...[n][w][e]
 
 [msg MSG_BOOK_SHELF_09 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1021 65535 0]Esses livros parecem antigos... sinto que[n]eles se desmoronariam se você tentasse[n]virar as páginas.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1021 65535 0]Esses livros serão antigos. Parece[n]que eles podem desmoronar[n]a qualquer momento.[n][w][e]
 
 [msg MSG_BOOK_SHELF_10 [Morgana]]
-[s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 1 1170 65535 0]Esses livros cheiram... estranhos.[n][w][e]
+[s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 1 1170 65535 0]Esses livros cheiram... estranho.[n][w][e]
 
 [msg MSG_LastKeyfree [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1189 65535 0]Mal podemos esperar mais... temos que nos[n]preparar e rápido![n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1189 65535 0]Não podemos esperar mais...[n]Temos que nos preparar rapidamente![n][w][e]
 
 [msg MND_KFEVT_COMMON_NG]
-[s][vp 1 0 0 0 0 0]Não há nada que eu particularmente precise[n]fazer aqui agora.[n][w][e]
+[s][vp 1 0 0 0 0 0]Por enquanto não preciso fazer[n]nada em particular aqui...[n][w][e]
 
 [msg MSG_NotUse_GUIDE_DESK [Morgana]]
-[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 65535 1044 0 0]Você realmente precisa sentar e ler agora?[n]Salve isso para mais tarde.[n][w][e]
+[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 65535 1044 0 0]Você realmente precisa[n]ler agora?[n]Você pode fazer isso mais tarde.[n][w][e]
 
 [msg MSG_NotUse_TABLE_LEFT [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 65535 1170 0 0]Você não tem tempo para ler tranqüilidade[n]agora.[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 65535 1170 0 0]Agora não há tempo para[n]leitura recreativa.[n][w][e]
 
 [msg MSG_NotUse_STUDYDESK_CHA [Morgana]]
-[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 65535 1178 0 0]Salve os estudos para mais tarde.[n][w][e]
+[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 65535 1178 0 0]Você pode estudar mais tarde.[n][w][e]
 
 [msg MSG_NotUse_BOOK_SHELF [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 65535 1189 0 0]Você realmente precisa sentar e ler agora?[n]Salve isso para mais tarde.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 65535 1189 0 0]Você realmente precisa[n]ler agora?[n]Você pode fazer isso mais tarde.[n][w][e]
 
 [msg MND_RankUp_OK_Chishiki]
-[s]Eu me sinto como meu [f 4 11 1][clr 26][f 4 12 0][clr 27][n]vai melhorar em breve...[n][w][e]
+[s]Acho que minha [f 4 11 1][clr 26][f 4 12 0][clr 27][n]vai aumentar em breve...[n][w][e]
 
 [msg MND_RankUp_NG_Chishiki]
-[s]Eu não acho meu [f 4 11 1][clr 26][f 4 12 0][clr 27][n]vai melhorar ainda...[n][w][e]
+[s]Acho que [f 4 11 1][clr 26][f 4 12 0][clr 27][n]não vai aumentar tão cedo...[n][w][e]
 
 [msg MND_INC_PARAMCHK_L_TISIK]
-[s]Parece que ainda tenho muito espaço para[n]melhorias...[n][w][e]
+[s]Acho que ainda tenho muito[n]espaço para melhorar...[n][w][e]
 
 [msg MND_INC_PARAMCHK_M_TISIK]
-[s]Eu posso sentir algo vindo para mim...[n][w][e]
+[s]Eu sinto que algo está vindo...[n][w][e]
 
 [msg MND_INC_PARAMCHK_S_TISIK]
-[s]Eu acho que estou perto de um avanço com o[n]meu  [f 4 11 0][clr 26][f 4 12 0][clr 27]...[n][w][e]
+[s]Acho que estou a um passo de um avanço com meu [n][f 4 11 0][clr 26][f 4 12 0][clr 27]...[n][w][e]
 
 [msg MND_RankUp_OK_Miryoku]
-[s]Eu me sinto como meu [f 4 11 1][clr 26][f 4 12 0][clr 27][n]vai melhorar em breve...[n][w][e]
+[s]Acho que minha [f 4 11 1][clr 26][f 4 12 0][clr 27][n]vai aumentar em breve...[n][w][e]
 
 [msg MND_RankUp_NG_Miryoku]
-[s]Eu não acho meu [f 4 11 1][clr 26][f 4 12 0][clr 27][n]vai melhorar ainda...[n][w][e]
+[s]Acho que [f 4 11 1][clr 26][f 4 12 0][clr 27][n]não vai aumentar tão cedo...[n][w][e]
 
 [msg MND_INC_PARAMCHK_L_MIRYO]
-[s]Parece que ainda tenho muito espaço para[n]melhorias...[n][w][e]
+[s]Acho que ainda tenho muito[n]espaço para melhorar...[n][w][e]
 
 [msg MND_INC_PARAMCHK_M_MIRYO]
-[s]Eu posso sentir algo vindo para mim...[n][w][e]
+[s]Eu sinto que algo está vindo...[n][w][e]
 
 [msg MND_INC_PARAMCHK_S_MIRYO]
-[s]Eu acho que estou perto de um avanço com o[n]meu  [f 4 11 1][clr 26][f 4 12 1][clr 27]...[n][w][e]
+[s]Acho que estou a um passo de uma curva com [n][f 4 11 1][clr 26][f 4 12 1][clr 27]...[n][w][e]
 
 [msg MND_RankUp_OK_Kiyou]
-[s]Eu me sinto como meu [f 4 11 2][clr 26][f 4 12 2][clr 27][n]vai melhorar em breve...[n][w][e]
+[s]Acho que meu [f 4 11 2][clr 26][f 4 12 2][clr 27][n]vai aumentar em breve...[n][w][e]
 
 [msg MND_RankUp_NG_Kiyou]
-[s]Eu não acho meu [f 4 11 2][clr 26][f 4 12 2][clr 27][n]vai melhorar ainda...[n][w][e]
+[s]Acho que [f 4 11 2][clr 26][f 4 12 2][clr 27][n]não vai aumentar tão cedo...[n][w][e]
 
 [msg MND_RankUp_OK_Kiyou_Beef]
-[s]Se as coisas correrem bem, acho que meu [n][f 4 11 1][clr 26][f 4 12 1][clr 27]Pode melhorar...[n][w][e]
+[s]Espero que meu[n][f 4 11 1][clr 26][f 4 12 1][clr 27] possa melhorar...[n][w][e]
 
 [msg MND_INC_PARAMCHK_L_KIYOU]
-[s]Parece que ainda tenho muito espaço para[n]melhorias...[n][w][e]
+[s]Acho que ainda tenho muito[n]espaço para melhorar...[n][w][e]
 
 [msg MND_INC_PARAMCHK_M_KIYOU]
-[s]Eu posso sentir algo vindo para mim...[n][w][e]
+[s]Eu sinto que algo está vindo...[n][w][e]
 
 [msg MND_INC_PARAMCHK_S_KIYOU]
-[s]Eu acho que estou perto de um avanço com o[n]meu  [f 4 11 2][clr 26][f 4 12 2][clr 27]...[n][w][e]
+[s]Acho que estou a um passo de um avanço com meu [n][f 4 11 2][clr 26][f 4 12 2][clr 27]...[n][w][e]
 
 [msg MND_RankUp_OK_Dokyo]
-[s]Eu me sinto como meu [f 4 11 3][clr 26][f 4 12 3][clr 27][n]vão melhorar em breve...[n][w][e]
+[s]Acho que meu [f 4 11 3][clr 26][f 4 12 3][clr 27][n]vai aumentar em breve...[n][w][e]
 
 [msg MND_RankUp_NG_Dokyo]
-[s]Eu não acho meu [f 4 11 3][clr 26][f 4 12 3][clr 27][n]vai melhorar ainda...[n][w][e]
+[s]Acho que [f 4 11 3][clr 26][f 4 12 3][clr 27][n]não vai aumentar tão cedo...[n][w][e]
 
 [msg MND_INC_PARAMCHK_L_DOKYO]
-[s]Parece que ainda tenho muito espaço para[n]melhorias...[n][w][e]
+[s]Acho que ainda tenho muito[n]espaço para melhorar...[n][w][e]
 
 [msg MND_INC_PARAMCHK_M_DOKYO]
-[s]Eu posso sentir algo vindo para mim...[n][w][e]
+[s]Eu sinto que algo está vindo...[n][w][e]
 
 [msg MND_INC_PARAMCHK_S_DOKYO]
-[s]Eu acho que estou perto de um avanço com o[n]meu  [f 4 11 3][clr 26][f 4 12 3][clr 27]...[n][w][e]
+[s]Acho que estou a um passo de uma curva com [n][f 4 11 3][clr 26][f 4 12 3][clr 27]...[n][w][e]
 
 [msg MND_RankUp_OK_Yasasisa]
-[s]Eu me sinto como meu [f 4 11 4][clr 26][f 4 12 4][clr 27][n]vai melhorar em breve...[n][w][e]
+[s]Acho que meu [f 4 11 4][clr 26][f 4 12 4][clr 27][n]vai aumentar em breve...[n][w][e]
 
 [msg MND_RankUp_NG_Yasasisa]
-[s]Eu não acho meu [f 4 11 4][clr 26][f 4 12 4][clr 27][n]vai melhorar ainda...[n][w][e]
+[s]Acho que [f 4 11 4][clr 26][f 4 12 4][clr 27][n]não vai aumentar tão cedo...[n][w][e]
 
 [msg MND_RankUp_OK_Yasasisa_F]
-[s]Se as coisas correrem bem, acho que meu [n][f 4 11 4][clr 26][f 4 12 4][clr 27]Pode melhorar...[n][w][e]
+[s]Espero que meu[n][f 4 11 4][clr 26][f 4 12 4][clr 27] possa melhorar...[n][w][e]
 
 [msg MND_INC_PARAMCHK_L_YASAS]
-[s]Parece que ainda tenho muito espaço para[n]melhorias...[n][w][e]
+[s]Acho que ainda tenho muito[n]espaço para melhorar...[n][w][e]
 
 [msg MND_INC_PARAMCHK_M_YASAS]
-[s]Eu posso sentir algo vindo para mim...[n][w][e]
+[s]Eu sinto que algo está vindo...[n][w][e]
 
 [msg MND_INC_PARAMCHK_S_YASAS]
-[s]Eu acho que estou perto de um avanço com o[n]meu  [f 4 11 4][clr 26][f 4 12 4][clr 27]...[n][w][e]
+[s]Acho que estou a um passo de um avanço com [n][f 4 11 4][clr 26][f 4 12 4][clr 27]...[n][w][e]
 

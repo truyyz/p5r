@@ -1,5 +1,5 @@
 [msg NOT_OPEN_DOOR]
-[s]A porta está bem selada.[n][w][e]
+[s]A porta está completamente selada.[n][w][e]
 
 [msg LOCK_DOOR]
 [s]A porta está trancada.[n][w][e]
@@ -9,8 +9,8 @@
 [s](仮)この先へ進みますか?[n][w][e]
 
 [sel DOOR_SEL top]
-[s]Sim [e]
-[s]Não [e]
+[s]Sim[e]
+[s]Não[e]
 
 [msg DOOR_Dummy_MES]
 [s]ERROR! イベントをセットして下さい。[n][w][e]

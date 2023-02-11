@@ -1,109 +1,109 @@
 [msg e210_161_mes01 [Ann]]
-[s][bup 0 4 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6165 65535 0]W-Wait... estamos... de volta de onde[n]começamos?[n][w][e]
+[s][bup 0 4 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6165 65535 0]M-mas... voltamos ao[n]ponto de partida?[n][w][e]
 
 [msg e210_161_mes02 [Yusuke]]
-[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Parece que isso é um truque, afinal...[n]Ele não nos deixou prosseguir com tanta[n]facilidade...[n][w][e]
+[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Então é tudo um truque.[n]Ele nunca[n]nos deixaria passar tão facilmente...[n][w][e]
 
 [msg e210_161_mes03 [Ryuji]]
-[s][bup 0 2 105 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7044 65535 0]TCH, fomos enviados de volta...[n][w][e]
+[s][bup 0 2 105 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7044 65535 0]Tsk, nos mandou de volta.[n][w][e]
 
 [msg e210_161_mes04 [Ann]]
-[s][bup 0 4 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6165 65535 0]Este é o lugar de antes, certo...?[n][w][e]
+[s][bup 0 4 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6165 65535 0]Este é o lugar de[n]antes, não é?[n][w][e]
 
 [msg e210_161_mes05 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1169 65535 0]Este lugar parece familiar...[n]Acho que fomos enviados de volta...[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1169 65535 0]Este lugar parece familiar.[n]Ele nos mandou de volta...[n][w][e]
 
 [msg e210_161_mes06 [Ryuji]]
-[s][bup 0 2 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7047 65535 0]Arghhh, maldito! O que diabos está[n]acontecendo aqui!?[n][w][e]
+[s][bup 0 2 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7047 65535 0]Argh, droga! O que diabos[n]está acontecendo aqui?!?[n][w][e]
 
 [msg e210_161_mes07 [Yusuke]]
-[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vimos todas as imagens falsas. Algo deve ter[n]mudado em algum lugar...[n][w][e]
+[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Todos nós vimos as[n]imagens falsas. Algo deve ter mudado[n]algo em algum lugar.[n][w][e]
 
 [msg e210_161_mes08 [Ann]]
-[s][bup 0 4 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6166 65535 0]Voltamos de novo... o que devemos fazer[n]agora?[n][w][e]
+[s][bup 0 4 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6166 65535 0]Estamos de volta...[n]E agora o que fazemos?[n][w][e]
 
 [msg e210_164_mes06 [Ryuji]]
-[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7040 65535 0]Uau! Acabamos de deformar!?[n][w][e]
+[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7040 65535 0]Uau! Nós nos teletransportamos?!?[n][w][e]
 
 [msg e210_164_mes07 [Yusuke]]
-[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Parece até os caminhos além dessas aberturas[n]são distorcidos da mesma maneira que esta[n]sala...[n][w][e]
+[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Parece que mesmo os caminhos[n]além dessas aberturas são[n]distorcidos como a sala...[n][w][e]
 
 [msg e210_164_mes01 [Ann]]
-[s][bup 0 4 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6117 65535 0]Oh, isso não é um lugar novo!?[n][w][e]
+[s][bup 0 4 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6117 65535 0]Não é este um novo lugar?!?[n][w][e]
 
 [msg e210_164_mes02 [Yusuke]]
-[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vendo além da imagem falsa abriu um caminho[n]para a verdade...[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]HM, este lugar dourado cheio de trabalho[n]falsificado é um excelente exemplo da[n]alquimia do cérebro de Madarame.[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]lying façade...[n][w][e]
+[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Olhar além da falsa imagem[n]abriu um portal para a verdade.[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Este lugar dourado, cheio de[n]trabalho falsificado, é um[n]exemplo perfeito dos pensamentos de Madarame.[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Aqui, assim como na realidade,[n]ele prende aqueles que não podem ver[n]além de suas mentiras...[n][w][e]
 
 [msg e210_164_mes03 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]E aqui, assim como na realidade, ele aplaia[n]aqueles que não podem ver através dele,[n]você pode estar certo... não admira que a[n]distorção seja tão forte aqui.[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Talvez você esteja certo. É por isso que aqui[n]a distorção é tão intensa.[n][w][e]
 
 [msg e210_164_mes08 [Ryuji]]
-[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7192 65535 0]Ei, então... o que isso significa?[n][w][e]
+[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7192 65535 0]E o que isso significa?[n][w][e]
 
 [msg e210_164_mes09 [Ann]]
-[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu acho que isso significa encontrar o[n]verdadeiro "sayuri" deve romper a distorção[n]e abrir um caminho.[n][w][e]
+[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Acho que isso significa que encontrar a[n]verdadeira Sayuri deve quebrar a[n]distorção e abrir um caminho.[n][w][e]
 
 [msg e210_164_mes10 [Ryuji]]
-[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Então, precisamos ver todos eles?[n][w][e]
+[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Então, nós apenas[n]checamos todos eles?[n][w][e]
 
 [msg e210_164_mes11 [Ann]]
-[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Por que faríamos isso...?[n]Vamos apenas procurar o real...[n]Supondo que possamos diferenciá-lo.[n][w][e]
+[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Por que deveríamos? Buscamos[n]diretamente o real... se[n]o pudermos distinguir dos outros.[n][w][e]
 
 [msg e210_164_mes04 [Ann]]
-[s][bup 0 4 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6045 65535 0]Oh, isso não é um lugar novo!?[n][w][e]
+[s][bup 0 4 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6045 65535 0]Não é este um novo lugar?!?[n][w][e]
 
 [msg e210_164_mes05 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Apenas tenha cuidado, ok? A distorção está[n]ficando muito mais forte quanto mais[n]profundo...[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Preste atenção, ok?[n]Quanto mais fundo formos,[n]mais a distorção se intensifica.[n][w][e]
 
 [msg mini_EV_e210_160_01_mes0 [Ann]]
-[s][bup 0 4 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6159 65535 0]Huh...? Por que essa pintura está aqui...?[n][w][e]
+[s][bup 0 4 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6159 65535 0]Huh...? Por que aqui[n]está esta pintura?[n][w][e]
 
 [msg mini_EV_e210_160_01_mes0_2 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Provavelmente é algum tipo de ilusão.[n]Afinal, estamos em um palácio.[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Bem, acho que a pintura em si pode estar[n]correta.[n][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Será uma espécie de ilusão.[n]Não vamos esquecer que estamos[n]em um palácio.[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Embora, neste caso, a[n]pintura possa ser real.[n][w][e]
 
 [msg mini_EV_e210_160_01_mes0_3 [Ann]]
-[s][bup 0 4 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6038 65535 0]Você diz "correto", mas eles não são[n]falsificados? Embora talvez o verdadeiro[n]esteja aqui também...[n][w][e]
+[s][bup 0 4 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6038 65535 0]"Verdadeiro"? Mas eles não são todos falsos?[n]Embora, pensando bem, talvez haja o original[n]aqui também...[n][w][e]
 
 [msg mini_EV_e210_160_01_mes0_4 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu me pergunto...[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]De qualquer forma, o fato de isso estar aqui[n]pode significar que está conectado a esse[n]espaço de alguma forma.[n][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Mas, eu me pergunto...[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]No entanto, se estiver aqui, pode[n]significar que está relacionado[n]a este espaço de alguma forma.[n][w][e]
 
 [msg fev0153_008_200_01_01 [Yusuke]]
-[s][bup 0 5 105 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4047 65535 0]Eu pensei que tinha visto tudo o que havia[n]para ver sobre esse mundo distorcido. Mas[n]pensar que isso evocaria um lugar tão[n]bizarro...[n][w][e]
+[s][bup 0 5 105 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4047 65535 0]Eu pensei ter visto todo[n]este mundo distorcido. Em vez disso,[n]aqui está outro lugar bizarro...[n][w][e]
 
 [msg fev0153_008_200_01_02 [Ann]]
-[s][bup 0 4 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Então, como, para que caminho devemos ir? Eu[n]não vi outros caminhos a seguir, não é?[n][w][e]
+[s][bup 0 4 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Para onde você vai?[n]Não vejo outra maneira de continuar,[n]e você?[n][w][e]
 
 [msg fev0153_008_200_01_03 [Ryuji]]
-[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7190 65535 0]HM? O que é isso?[n][w][e]
+[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7190 65535 0]Hum? O que é isto?[n][w][e]
 
 [msg fev0153_008_200_01_03_01 [Ryuji]]
-[s][bup 0 2 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7041 65535 0]Whoa, parte da parede estava descascando,[n]então eu a tirei! Isso não era uma parede[n]de verdade!?[n][w][e]
+[s][bup 0 2 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7041 65535 0]Uooo, parte da parede[n]parecia descascando, então eu[n]puxei para fora! Era uma parede falsa!?![n][w][e]
 
 [msg fev0153_008_200_01_04 [Yusuke]]
-[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu vejo. Então foi camuflado. Podemos ter[n]sido presos aqui pela eternidade se você[n]não percebesse isso.[n][w][e]
+[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu vejo. Então foi disfarçado.[n]Teríamos ficado aqui[n]para sempre se você não tivesse notado.[n][w][e]
 
 [msg fev0153_008_200_01_05 [Morgana]]
-[s][bup 0 3 1 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1072 65535 0]Ooh! Bom trabalho, crânio! Você fez isso![n][w][e]
+[s][bup 0 3 1 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1072 65535 0]Oh! Crânio bem feito! Você fez isso![n][w][e]
 
 [msg fev0153_008_200_01_06 [Ryuji]]
-[s][bup 0 2 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Uh, claro... você sabe que eu tive sorte,[n]certo?[n][w][e]
+[s][bup 0 2 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ah com certeza. Você sabe que foi[n]apenas sorte, certo?[n][w][e]
 
 [msg fev0153_008_200_01_07 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1155 65535 0]Pode haver mais paredes como essa à frente.[n]Vamos ficar de olho.[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1155 65535 0]Pode haver mais[n]paredes como esta à frente. Olhos abertos.[n][w][e]
 
 [msg fev0153_008_200_02_01 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1159 65535 0]Existe algo com essa parede?[n]Tudo bem, vamos dar uma olhada mais de perto![n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1159 65535 0]O que há de errado com essa parede?[n]Venha, vamos dar uma olhada![n][w][e]
 
 [msg fev0153_008_200_02_02 [Yusuke]]
-[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4025 65535 0]Então havia uma sala escondida aqui...[n][w][e]
+[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4025 65535 0]E então havia uma sala escondida.[n][w][e]
 
 [msg fev0153_008_200_03_01 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1159 65535 0]Existe algo com essa parede?[n]Tudo bem, vamos dar uma olhada mais de perto![n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1159 65535 0]O que há com essa parede?[n]Venha, vamos dar uma olhada![n][w][e]
 
 [msg fev0153_008_200_03_02 [Ann]]
-[s][bup 0 4 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6045 65535 0]Você fez isso! Devemos dar uma olhada em[n]volta, então?[n][w][e]
+[s][bup 0 4 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6045 65535 0]Você fez! Então, vamos[n]dar uma olhada?[n][w][e]
 

@@ -2,446 +2,446 @@
 [s]......[n][w][e]
 
 [sel YESNO_SEL top]
-[s]Sim.[e]
-[s]Não.[e]
+[s]Sim[e]
+[s]Não[e]
 
 [msg MSG_LAST_GREETING_YAMANO [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1163 65535 0]Este lugar estava em construção por um ano[n]inteiro.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1163 65535 0]Este lugar está em construção há um ano inteiro.[n][w][e]
 
 [msg MSG_LAST_GREETING_KIOSUK [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1018 65535 0]Você estava com pressa de comprar alguma[n]coisa? Vamos ver todos.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1018 65535 0]Você estava com pressa para comprar[n]algo? Alcançamos os outros.[n][w][e]
 
 [msg MSG_LAST_GREETING_HIKARI [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1018 65535 0]Você não conhece ninguém que passaria aqui,[n]não é? Vamos a algum outro lugar.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1018 65535 0]Você não conhece ninguém que[n]iria aqui, não é? Vamos[n]para outro lugar.[n][w][e]
 
 [msg MSG_LAST_GREETING_JUICEB [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1028 65535 0]Você não tem tempo para fazer o desafio de[n]Aojiru. Vamos ver todos.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1028 65535 0]Não há tempo para aojiru.[n]Vamos encontrar os outros.[n][w][e]
 
 [msg MSG_LAST_GREETING_ADJUST [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1178 65535 0]Seu passe de passageiro está prestes a[n]expirar, mas acho que você não precisará[n]comprar um novo...[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1178 65535 0]Sua assinatura está quase[n]vencida, mas acho que você não[n]precisa de uma nova...[n][w][e]
 
 [msg MSG_LAST_GREETING_PHOTO_ [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1099 65535 0]Você tem lembranças que não podem ser[n]transformadas em fotos. Vamos conhecer[n]todos, uma última vez.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1099 65535 0]Há memórias que você não pode incluir em uma[n]imagem. Vamos aos outros, pela última vez.[n][w][e]
 
 [msg MSG_LAST_GREETING_NEXT_J [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]Ei, vamos dizer adeus a todos.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]Ei, vamos cumprimentar os outros.[n][w][e]
 
 [msg MSG_LAST_GREETING_BAITO_ [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1157 65535 0]Sim, devemos dizer adeus às pessoas com quem[n]você trabalhou.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1157 65535 0]Também devemos ir dizer oi para[n]as pessoas para quem você trabalhou.[n][w][e]
 
 [msg MSG_LAST_GREETING_BAITO__2 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1140 65535 0]Ei, você está saindo amanhã. Você não tem[n]trabalho, lembra?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1140 65535 0]Ei, você vai embora amanhã.[n]Você não precisa trabalhar, lembra?[n][w][e]
 
 [msg MSG_LAST_GREETING_place [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1171 65535 0]Você não precisa estar aqui agora, não é?[n]Vamos lá, vamos para outro lugar![n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1171 65535 0]No momento você não tem nada para fazer aqui,[n]certo? Vamos lá, vamos outro lugar![n][w][e]
 
 [msg MSG_LAST_GREETING_etc [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1171 65535 0]O que está errado? Vamos lá, devemos dizer[n]adeus aos outros![n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1171 65535 0]O que você tem? Vamos,[n]temos que dizer olá para os outros![n][w][e]
 
 [msg MND_0103]
-[s]Não há nada que eu precise fazer aqui...[n][w][e]
-[s]Eu deveria ir verificar todos...[n][w][e]
+[s]Não preciso fazer nada aqui...[n][w][e]
+[s]Melhor ir e[n]verificar os outros…[n][w][e]
 
 [msg MND_0103to0108_Error_Not]
-[s]Isso não é hora de fazer compras...[n][w][e]
-[s]Eu deveria ir verificar todos...[n][w][e]
+[s]Sem tempo para compras...[n][w][e]
+[s]Melhor ir e[n]verificar os outros…[n][w][e]
 
 [msg MND_0103to0108_Error_Not_2]
-[s]Isso não é hora de desvios...[n][w][e]
-[s]Eu deveria ir verificar todos...[n][w][e]
+[s]Não há tempo para desvios...[n][w][e]
+[s]Melhor ir e[n]verificar os outros…[n][w][e]
 
 [msg MSG_YAMANOTE_PARK_BUTTON [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1165 65535 0]Parece que a área está fechada para[n]construção. Vamos encontrar outra saída.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1165 65535 0]Parece que a área está[n]fechada para construção.[n]Vamos encontrar outra saída.[n][w][e]
 
 [msg MSG_YAMANOTE_PARK_BUTTON_2]
-[s]A área à frente é fechada para construção...[n][w][e]
+[s]A área mais adiante está fechada[n]para reformas...[n][w][e]
 
 [msg MSG_GOTO_Kichijoji [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1167 65535 0]A linha Inogami está aqui. Você está pagando[n]200 ienes para ir para Kichijoji?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1167 65535 0]A Linha Inogami está ali. Você quer[n]pagar 200 ienes para ir[n]para Kichijoji?[n][w][e]
 
 [sel SEL_GOTO_Kichijoji top]
-[s]Isso soa bem.[e]
-[s]Não vamos.[e]
+[s]Boa ideia.[e]
+[s]Melhor não.[e]
 
 [msg MSG_GOTO_Kichijoji_NoMon [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1171 65535 0]... Parece que você não tem dinheiro[n]suficiente.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1171 65535 0]...Parece que você não[n]tem dinheiro suficiente.[n][w][e]
 
 [msg MSG_GOTO_INOKASIRA_NG [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1171 65535 0]Não há nada que você precise fazer aqui,[n]certo? Vamos a algum outro lugar![n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1171 65535 0]Você não tem nada para fazer aqui, certo? Vamos[n]para outro lugar![n][w][e]
 
 [msg MND_GOTO_INOKASIRA_NG]
-[s]Não há nada que eu precise fazer aqui.[n]Eu deveria voltar...[n][w][e]
+[s]Não preciso fazer nada lá.[n]É melhor voltar...[n][w][e]
 
 [msg MND_GATE_0103]
-[s]Vamos para uma área diferente...[n][w][e]
+[s]Vamos por outro caminho...[n][w][e]
 
 [msg MSG_GATE_DEAFULT_MORU [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1020 65535 0]Você vai viajar para outra área?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1020 65535 0]Você quer se mudar para[n]outra área?[n][w][e]
 
 [sel SEL_GATE_YESNO_moru top]
-[s]Sim, vamos lá.[e]
+[s]Sim vamos.[e]
 [s]Não, ainda não.[e]
 
 [msg MSG_SCHOOL_1STDAY]
-[s]Se bem me lembro corretamente, a [clr 2]Linha de ginza [clr 27][n]Deve me levar a Aoyama-Titchome, onde a[n]escola está...[n][w][e]
+[s]Se bem me lembro, a[n][clr 2]Linha Ginza[clr 27] deve me levar[n]para Aoyama-Itchome, onde fica a escola...[n][w][e]
 
 [msg MSG_NG_CENTER]
-[s]Isso se conecta à Central Street, mas não há[n]nada que eu tenha que fazer lá agora...[n][w][e]
+[s]Daqui você chega à Central Street,[n]mas no momento não temos[n]nada para fazer lá...[n][w][e]
 
 [msg MSG_BAITO_MAGAZINE_NOTOP [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1168 65535 0]Uma revista com informações sobre empregos[n]de meio período, hein? Você pode acabar[n]precisando de um mais tarde.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1168 65535 0]Uma revista com info[n]sobre empregos de meio período, hein? Later[n]pode ser útil.[n][w][e]
 
 [msg MSG_BAITO_MAGAZINE_NOTOP_2]
-[s]É uma revista de informações de trabalho de[n]meio período. Eu deveria vir verificar de[n]vez em quando...[n][w][e]
+[s]É uma revista informativa sobre[n]trabalhos de meio período. De vez em quando[n]de vez em quando eu deveria consultá-la...[n][w][e]
 
 [msg KIOSUKU01_NOTOPEN]
-[s]Este local vende produtos voltados para os[n]passageiros.[n][w][e]
-[s]Eu deveria comprar algo depois de me[n]acostumar com o meu trajeto para a escola...[n][w][e]
+[s]Este lugar vende produtos[n]para passageiros.[n][w][e]
+[s]Posso comprar algo para ele,[n]assim que me sentir confortável[n]com o trajeto para a escola...[n][w][e]
 
-[msg KIOSUKU01_SELECT [Kiosk Attendant]]
-[s][f 4 23 1 4 3 5 65534 0][vp 8 2 1 0 4 0]Ei, bem-vindo. Sinta-se à vontade para[n]comprar o que quiser.[n][w][e]
+[msg KIOSUKU01_SELECT [Commessa del chiosco]]
+[s][f 4 23 1 4 3 5 65534 0][vp 8 2 1 0 4 0]Ei, seja bem-vindo. Compre[n]o que você precisa também.[n][w][e]
 
-[msg KIOSUKU01_THANKS [Kiosk Attendant]]
+[msg KIOSUKU01_THANKS [Commessa del chiosco]]
 [s][vp 8 2 1 0 4 0]Ok, obrigado.[n][w][e]
 
-[msg KIOSUKU01_NOT_BUY [Kiosk Attendant]]
-[s][vp 8 2 1 0 4 0]Tudo bem então. Volte novamente.[n][w][e]
+[msg KIOSUKU01_NOT_BUY [Commessa del chiosco]]
+[s][vp 8 2 1 0 4 0]Está bem. Volte logo.[n][w][e]
 
 [msg MSG_HikarieWayNG [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1168 65535 0]Esta passagem subterrânea parece continuar[n]continuando. Vamos voltar antes de nos[n]perdermos.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1168 65535 0]Esta passagem subterrânea é[n]muito longa. Vamos voltar,[n]antes que nos percamos.[n][w][e]
 
 [msg MND_HikarieWayNG]
-[s]Não há nada que eu precise fazer aqui.[n]Eu deveria voltar...[n][w][e]
+[s]Não preciso fazer nada lá.[n]É melhor voltar...[n][w][e]
 
 [msg MSG_ADJUSTMENT_MACHINE_M [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1020 65535 0]Você não precisa usar esta máquina, pois tem[n]um cartão de passageiro, certo?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1020 65535 0]Tendo o cartão de viagem[n]você não precisa usar a máquina[n]bilheteira, certo?[n][w][e]
 
 [msg MSG_ADJUSTMENT_MACHINE]
-[s]Eu não preciso ajustar as tarifas...[n][w][e]
+[s]Eu não preciso[n]ajustar a taxa...[n][w][e]
 
 [msg MSG_PHOTO_MACHINE_MORU [Morgana]]
-[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 1 1164 65535 0]Parece ter muitas funções para fazer as[n]pessoas parecerem melhores em suas fotos,[n]mas...[n][w][e]
-[s]É uma máquina de fotos de certificação,[n]certo?[n]Essas fotos não devem ser manipuladas...[n][w][e]
+[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 1 1164 65535 0]Existem tantas opções para[n]fazer as pessoas nas fotos parecerem melhores, mas…[n][w][e]
+[s]É uma máquina de foto para passaporte, certo?[n]Essas fotos não devem ser manipuladas...[n][w][e]
 
 [msg MSG_PHOTO_MACHINE]
-[s]É uma máquina de fotos de certificação.[n][w][e]
-[s]Parece ter funções diferentes, como o modo[n]de maquiagem, ou uma que diminui seu[n]rosto...[n][w][e]
+[s]É uma máquina para[n]tirar fotos para passaporte.[n][w][e]
+[s]Parece ter várias funções.[n]Pode adicionar efeitos ou[n]tornar o rosto mais fino...[n][w][e]
 
 [msg MSG_NextJuice_KFEVT [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1176 65535 0]Você está com sede ou algo assim? Espere,[n]você tem tempo para isso?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1176 65535 0]Por acaso você está com sede?[n]Ei, tem certeza que tem[n]tempo para isso?[n][w][e]
 
 [msg MND_NextJuice_KFEVT]
 [s]Não estou com sede agora...[n][w][e]
 
 [msg MND_NextJuice_NotOpen]
-[s]É uma máquina de venda automática que vem[n]com uma tela.[n][w][e]
+[s]É uma vending machine[n]com visor.[n][w][e]
 [s]Não estou com sede agora...[n][w][e]
 
 [msg MSG_NextJuice_Start [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1167 65535 0]Uma máquina de venda automática com uma[n]tela, hein?[n]As coisas que ele vende não são nada muito[n]especiais.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1167 65535 0]Uma máquina de venda automática, eh? O material à[n]venda não é nada de especial, no entanto.[n][w][e]
 
 [msg MSG_Juice_AllBuy [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1021 65535 0]Opa, tudo está esgotado. Vamos esperar que[n]seja reabastecido na próxima semana.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1021 65535 0]Ops, esgotado.[n]Espero que seja reabastecido[n]na próxima semana.[n][w][e]
 
 [msg MSG_Juice_SoldOut [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1021 65535 0]Tudo está esgotado... Vamos esperar que seja[n]reabastecido na próxima semana.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1021 65535 0]Esgotado...[n]Espere que seja reabastecido,[n]na próxima semana.[n][w][e]
 
 [msg MSG_Juice_HeatIsland [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1021 65535 0]... tudo está esgotado. Eu acho que não é[n]surpresa com o quão quente está agora...[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1021 65535 0]...Esgotado.[n]Não é surpresa,[n]com o calor está...[n][w][e]
 
 [msg MND_NoInfoBaitoMagazine]
-[s]Revistas de trabalho de meio período[n]grátis...[n][w][e]
-[s]Eles parecem principalmente para estudantes[n]universitários...[n][w][e]
+[s]Revistas gratuitas com anúncios de empregos de[n]meio período ...[n][w][e]
+[s]Parece que foram feitos para alunos do ensino[n]médio...[n][w][e]
 
 [msg MSG_NoInfoBaitoMagazine [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1021 65535 0]Revistas de trabalho de meio período, hein.[n]Tanta informação e é grátis... incrível.[n][w][e]
-[s][f 4 10 65535 0 0]Mas não parece muitas informações para[n]estudantes do ensino médio. Vamos conferir[n]outras revistas.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1021 65535 0]Revistas de publicação de empregos[n]meio período. Tanta informação,[n]totalmente gratuita. Incrível.[n][w][e]
+[s][f 4 10 65535 0 0]Mas parece não haver nada[n]adequado para alunos do ensino médio.[n]Vamos verificar outras revistas.[n][w][e]
 
 [msg MND_E14410100_NG_HIROBA_]
-[s][vp 8 2 65535 0 0 0]Por enquanto, é melhor me apressar e[n]encontrar Ann...[n][w][e]
+[s][vp 8 2 65535 0 0 0]Por enquanto, é melhor eu me apressar e encontrar[n]Ann...[n][w][e]
 
 [msg MND_E10920100_NG_DENENTO]
-[s][vp 8 2 65535 0 0 0]Se eu entrar neste trem agora, vou me[n]atrasar...[n][w][e]
-[s][vp 8 2 65535 0 0 0]Eu deveria ser transferido para o [clr 2]Linha de ginza [clr 27]em Shibuya...[n][w][e]
+[s][vp 8 2 65535 0 0 0]Se eu entrar neste trem[n]vou me atrasar...[n][w][e]
+[s][vp 8 2 65535 0 0 0]Preciso pegar a[n][clr 2]Linha Ginza[clr 27] para Shibuya...[n][w][e]
 
 [msg MND_E12710100_NG_DENENTO]
-[s][vp 8 2 65535 0 0 0]Se eu entrar neste trem agora, vou me[n]atrasar...[n][w][e]
-[s][vp 8 2 65535 0 0 0]É melhor eu me apressar e chegar à escola...[n][w][e]
+[s][vp 8 2 65535 0 0 0]Se eu entrar neste trem[n]vou me atrasar...[n][w][e]
+[s][vp 8 2 65535 0 0 0]É melhor eu me apressar[n]para chegar à escola...[n][w][e]
 
 [msg MND_E65010100_NG_DENENTO]
-[s][vp 8 2 65535 0 0 0]Se eu quiser ir para Kichijoji, tenho que[n]usar a linha Inogami...[n][w][e]
+[s][vp 8 2 65535 0 0 0]Para ir a Kichijoji tenho que pegar a Linha[n]Inogami...[n][w][e]
 
 [msg MND_E14410100_NG_YAMANOT]
-[s][vp 8 2 65535 0 0 0]Por enquanto, é melhor me apressar e[n]encontrar Ann...[n][w][e]
+[s][vp 8 2 65535 0 0 0]Por enquanto, é melhor eu me apressar e encontrar[n]Ann...[n][w][e]
 
 [msg MND_E10920100_CHK_KIOSUK]
-[s][vp 8 2 65535 0 0 0]Há uma grande variedade de mercadorias[n]alinhadas...[n][w][e]
-[s][vp 8 2 65535 0 0 0]Não tenho tempo para escolher o que eu[n]gostaria de aqui agora...[n][w][e]
+[s][vp 8 2 65535 0 0 0]Há muitos produtos de vários[n]tipos em exibição...[n][w][e]
+[s][vp 8 2 65535 0 0 0]Agora não tenho tempo[n]para começar a escolher algo...[n][w][e]
 
 [msg MND_E12710100_CHK_KIOSUK]
-[s][vp 8 2 65535 0 0 0]Há uma grande variedade de mercadorias[n]alinhadas...[n][w][e]
-[s][vp 8 2 65535 0 0 0]Não tenho tempo para escolher o que eu[n]gostaria de aqui agora...[n][w][e]
+[s][vp 8 2 65535 0 0 0]Há muitos produtos de vários[n]tipos em exibição...[n][w][e]
+[s][vp 8 2 65535 0 0 0]Agora não tenho tempo[n]para começar a escolher algo...[n][w][e]
 
 [msg MES_E650102000_CHK_KIOSU [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7020 65535 0]Esses tipos de lojas são pequenos, mas têm[n]coisas muito boas.[n][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7020 65535 0]Lojas como esta são pequenas,[n]mas têm muitas coisas interessantes.[n][w][e]
 
 [msg MES_E650102000_CHK_KIOSU_2 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7024 65535 0]Eles podem ter algo sobre Madarame no jornal[n]amanhã.[n][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7024 65535 0]No jornal de amanhã eles podem[n]dizer algo sobre Madarame.[n][w][e]
 
 [msg MND_COMMON_CHK_KIOSUKU_0]
-[s][vp 8 2 65535 0 0 0]Não tenho tempo para ir às compras agora...[n][w][e]
+[s][vp 8 2 65535 0 0 0]Agora não tenho tempo para[n]fazer compras...[n][w][e]
 
 [msg MND_E10920100_CHK_BAITO_]
-[s][vp 8 2 65535 0 0 0]Há todas essas revistas aqui que estão[n]cheias de listagens de empregos em período[n]parcial.[n][w][e]
-[s][vp 8 2 65535 0 0 0]Eu me pergunto que tipos de empregos estão[n]disponíveis para mim por aqui...[n][w][e]
+[s][vp 8 2 65535 0 0 0]Existem toneladas de revistas[n]cheias de anúncios para[n]empregos de meio período.[n][w][e]
+[s][vp 8 2 65535 0 0 0]Quem sabe que tipo de empregos eu posso[n]encontrar por aqui...[n][w][e]
 
 [msg MND_E12710100_CHK_BAITO_]
-[s][vp 8 2 65535 0 0 0]Há todas essas revistas aqui que estão[n]cheias de listagens de empregos em período[n]parcial.[n][w][e]
-[s][vp 8 2 65535 0 0 0]Eu me pergunto que tipos de empregos estão[n]disponíveis para mim por aqui...[n][w][e]
+[s][vp 8 2 65535 0 0 0]Existem toneladas de revistas[n]cheias de anúncios para[n]empregos de meio período.[n][w][e]
+[s][vp 8 2 65535 0 0 0]Quem sabe que tipo de empregos eu posso[n]encontrar por aqui...[n][w][e]
 
 [msg MND_E14410100_CHK_BAITO_]
-[s][vp 8 2 65535 0 0 0]Agora, preciso me apressar e encontrar Ann...[n][w][e]
+[s][vp 8 2 65535 0 0 0]Eu tenho que me apressar para encontrar Ann...[n][w][e]
 
 [msg MES_E650102000_CHK_BAITO [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7038 65535 0]Um emprego de meio período, hein... Estou[n]muito pouco em dinheiro. Talvez eu deva[n]pensar em conseguir um também.[n][w][e]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 0 65535 0]Mas, por enquanto, vamos para Kichijoji![n][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7038 65535 0]Um emprego de meio período, hein... Estou com[n]pouco dinheiro. Talvez eu devesse procurar um eu[n]mesmo.[n][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 0 65535 0]Por enquanto, vamos para Kichijoji![n][w][e]
 
 [msg MES_E650102000_CHK_BAITO_2 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7155 65535 0]Essas revistas de trabalho de meio período[n]são gratuitas, certo? Quem os está fazendo?[n][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7155 65535 0]Essas revistas com anúncios[n]para meio período são gratuitas,[n]certo? Quem os produz?[n][w][e]
 
 [msg MND_COMMON_CHK_BAITO_MAG]
-[s][vp 8 2 65535 0 0 0]Não tenho tempo para procurar empregos de[n]meio período agora...[n][w][e]
+[s][vp 8 2 65535 0 0 0]No momento, não tenho tempo para[n]procurar empregos de meio período...[n][w][e]
 
 [msg MND_E10920100_NG_SIBUTIK]
-[s][vp 8 2 65535 0 0 0]Parece que há um distrito comercial[n]subterrâneo logo à frente.[n][w][e]
-[s][vp 8 2 65535 0 0 0]Por enquanto, é melhor eu ir em direção ao [clr 2]Linha de ginza [clr 27]...[n][w][e]
+[s][vp 8 2 65535 0 0 0]Logo à frente parece haver um shopping[n]subterrâneo.[n][w][e]
+[s][vp 8 2 65535 0 0 0]Por enquanto, é melhor ir[n]para a [clr 2]linha de Ginza[clr 27]...[n][w][e]
 
 [msg MND_E12710100_NG_SIBUTIK]
-[s][vp 8 2 65535 0 0 0]Parece que há um distrito comercial[n]subterrâneo logo à frente.[n][w][e]
-[s][vp 8 2 65535 0 0 0]Por enquanto, eu deveria me apressar e ir[n]direto para a escola...[n][w][e]
+[s][vp 8 2 65535 0 0 0]Logo à frente parece haver um shopping[n]subterrâneo.[n][w][e]
+[s][vp 8 2 65535 0 0 0]Por enquanto eu deveria me apressar[n]e ir direto para a escola...[n][w][e]
 
 [msg MND_E14410100_NG_SIBUTIK]
-[s][vp 8 2 65535 0 0 0]Por enquanto, é melhor me apressar e[n]encontrar Ann...[n][w][e]
+[s][vp 8 2 65535 0 0 0]Por enquanto, é melhor eu me apressar e encontrar[n]Ann...[n][w][e]
 
 [msg MSG_E18010300_NG_SIBUTIK [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 65535 1190 0 0]Claro, existem lojas dessa maneira... mas[n]esses lugares só venderão coisas para nós,[n]certo?[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Precisamos encontrar um lugar que compre[n]coisas de nós...[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]...Oh sim! Essa loja de armas pagará pelas[n]coisas que as pessoas trazem, certo?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 65535 1190 0 0]Sim, tem lojas ali...[n]Mas esses lugares só[n]vendem, né?[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Precisamos encontrar um lugar[n]que compre de nós...[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Oh sim! Aquela loja de armas[n]compra itens, certo?[n]Vamos tentar![n][w][e]
 
 [msg MND_E65010100_NG_SIBUTIK]
-[s][vp 8 2 65535 0 0 0]Por enquanto, é melhor eu ir para o [clr 2]Linha inogami [clr 27]...[n][w][e]
+[s][vp 8 2 65535 0 0 0]Por enquanto, é melhor ir[n]para a [clr 2]Linha Inogami[clr 27]...[n][w][e]
 
 [msg MND_E10920100_NG_CENTER_]
-[s][vp 8 2 65535 0 0 0]O caminho a seguir parece se conectar à[n]Central Street.[n][w][e]
-[s][vp 8 2 65535 0 0 0]É melhor eu me apressar para o [clr 2]Linha de ginza [clr 27]por agora...[n][w][e]
+[s][vp 8 2 65535 0 0 0]A estrada à frente parece levar à Central Street.[n][w][e]
+[s][vp 8 2 65535 0 0 0]Por enquanto, é melhor ir[n]rapidamente para a [clr 2]linha de Ginza[clr 27]...[n][w][e]
 
 [msg MND_E12710100_NG_CENTER_]
-[s][vp 8 2 65535 0 0 0]O caminho a seguir parece se conectar à[n]Central Street.[n][w][e]
-[s][vp 8 2 65535 0 0 0]Por enquanto, eu deveria me apressar e ir[n]direto para a escola...[n][w][e]
+[s][vp 8 2 65535 0 0 0]A estrada à frente parece levar à Central Street.[n][w][e]
+[s][vp 8 2 65535 0 0 0]Por enquanto eu deveria me apressar[n]e ir direto para a escola...[n][w][e]
 
 [msg MND_E14410100_NG_CENTER_]
-[s][vp 8 2 65535 0 0 0]Ela não pode estar longe daqui.[n]Vou tentar pesquisar nesta área...[n][w][e]
+[s][vp 8 2 65535 0 0 0]Não deve estar longe.[n]Vou tentar dar uma olhada por aqui...[n][w][e]
 
 [msg MSG_E18010300_NG_CENTER_ [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 65535 1170 0 0]Havia alguma loja por aqui que comprará[n]coisas de nós?[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]...Oh sim! Essa loja de armas pagará pelas[n]coisas que as pessoas trazem, certo?[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 65535 1187 0 0]Vamos tentar esse lugar![n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 65535 1170 0 0]Há alguma loja por aqui[n]que compre algo[n]nosso?[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Oh sim! Aquela loja de armas[n]compra itens, certo?[n]Vamos tentar![n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 65535 1187 0 0]Vamos tentar![n][w][e]
 
 [msg MND_E10920100_CHK_JUICEB]
-[s][vp 8 2 65535 0 0 0]Parece que esta loja serve suco espremido na[n]hora.[n][w][e]
-[s][vp 8 2 65535 0 0 0]Vou tentar este lugar quando tiver tempo...[n][w][e]
+[s][vp 8 2 65535 0 0 0]Esta loja vende[n]suco feito na hora.[n][w][e]
+[s][vp 8 2 65535 0 0 0]Quando eu tiver um tempo[n]vou tentar...[n][w][e]
 
 [msg MND_E12710100_CHK_JUICEB]
-[s][vp 8 2 65535 0 0 0]Parece que esta loja serve suco espremido na[n]hora.[n][w][e]
-[s][vp 8 2 65535 0 0 0]Vou tentar este lugar quando tiver tempo...[n][w][e]
+[s][vp 8 2 65535 0 0 0]Esta loja vende[n]suco feito na hora.[n][w][e]
+[s][vp 8 2 65535 0 0 0]Quando eu tiver um tempo[n]vou tentar...[n][w][e]
 
 [msg MND_E14410100_CHK_JUICEB]
-[s][vp 8 2 65535 0 0 0]Agora, preciso me apressar e encontrar Ann...[n][w][e]
+[s][vp 8 2 65535 0 0 0]Eu tenho que me apressar para encontrar Ann...[n][w][e]
 
 [msg MND_COMMON_CHK_JUICEBAR_]
-[s][vp 8 2 65535 0 0 0]Não tenho tempo para comprar suco agora...[n][w][e]
+[s][vp 8 2 65535 0 0 0]Agora não tenho tempo para[n]comprar suco...[n][w][e]
 
 [msg MND_E10920100_CHK_OMIYAG]
-[s][vp 8 2 65535 0 0 0]Parece uma loja Manjuu.[n][w][e]
-[s][vp 8 2 65535 0 0 0]Parece que eles vendem uma variedade de[n]manjuus e Daifukus aqui...[n][w][e]
+[s][vp 8 2 65535 0 0 0]Parece uma loja de manjuu.[n][w][e]
+[s][vp 8 2 65535 0 0 0]Aqui eles vendem diferentes variedades[n]de manjuu e daifuku...[n][w][e]
 
 [msg MND_E12710100_CHK_OMIYAG]
-[s][vp 8 2 65535 0 0 0]Parece uma loja Manjuu.[n][w][e]
-[s][vp 8 2 65535 0 0 0]Parece que eles vendem uma variedade de[n]manjuus e Daifukus aqui...[n][w][e]
+[s][vp 8 2 65535 0 0 0]Parece uma loja de manjuu.[n][w][e]
+[s][vp 8 2 65535 0 0 0]Aqui eles vendem diferentes variedades[n]de manjuu e daifuku...[n][w][e]
 
 [msg MND_E14410100_CHK_OMIYAG]
-[s][vp 8 2 65535 0 0 0]No momento, preciso me apressar e chegar a[n]Ann...[n][w][e]
+[s][vp 8 2 65535 0 0 0]Eu tenho que me apressar e[n]chegar a Ann...[n][w][e]
 
 [msg MND_COMMON_CHK_OMIYAGE_S]
-[s][vp 8 2 65535 0 0 0]Não tenho tempo para ir às compras agora...[n][w][e]
+[s][vp 8 2 65535 0 0 0]Agora não tenho tempo para[n]fazer compras...[n][w][e]
 
 [msg MND_E10920100_NG_GATE_HI]
-[s][vp 8 2 65535 0 0 0]Eu deveria ser transferido para o [clr 2]Linha de ginza [clr 27]em Shibuya.[n]É melhor me apressar para a plataforma...[n][w][e]
+[s][vp 8 2 65535 0 0 0]Preciso pegar a[n][clr 2]Linha Ginza[clr 27] para Shibuya...[n]É melhor ir para a plataforma.[n][w][e]
 
 [msg MND_E12710100_NG_GATE_HI]
-[s][vp 8 2 65535 0 0 0]Não tenho tempo para voltar. É melhor[n]transferir para o [n][clr 2]Linha de ginza [clr 27]e vá para a escola...[n][w][e]
+[s][vp 8 2 65535 0 0 0]Eu não tenho tempo para voltar. Melhor pegar a[n][clr 2]linha de Ginza[clr 27] e ir para a escola...[n][w][e]
 
 [msg MND_E14410100_NG_DENENTO]
-[s][vp 8 2 65535 0 0 0]Ela não pode estar longe daqui.[n]Vou tentar pesquisar nesta área...[n][w][e]
+[s][vp 8 2 65535 0 0 0]Não deve estar longe.[n]Vou tentar dar uma olhada por aqui...[n][w][e]
 
 [msg MND_E65010100_NG_DENENTO_2]
-[s][vp 8 2 65535 0 0 0]Se eu quiser ir para Kichijoji, terei que[n]usar a linha Inogami...[n][w][e]
+[s][vp 8 2 65535 0 0 0]Para ir a Kichijoji[n]eu tenho que pegar a Linha Inogami...[n][w][e]
 
 [msg MND_E12710100_NG_GATE_IN]
-[s][vp 8 2 65535 0 0 0]Não tenho tempo para voltar. É melhor[n]transferir para o [n][clr 2]Linha de ginza [clr 27]e vá para a escola...[n][w][e]
+[s][vp 8 2 65535 0 0 0]Eu não tenho tempo para voltar. Melhor pegar a[n][clr 2]linha de Ginza[clr 27] e ir para a escola...[n][w][e]
 
 [msg MND_E10920100_NG_GATEOUT]
-[s][vp 8 2 65535 0 0 0]Eu deveria me transferir para a [clr 2]Linha de ginza [clr 27], no entanto.[n] Parece que estou do lado errado...[n][w][e]
+[s][vp 8 2 65535 0 0 0]Preciso pegar a[n][clr 2]Linha Ginza[clr 27], mas acho que[n]estou do lado errado.[n][w][e]
 
 [msg MND_E14410100_NG_TOKYU_0]
-[s][vp 8 2 65535 0 0 0]Por enquanto, é melhor me apressar e[n]encontrar Ann...[n][w][e]
+[s][vp 8 2 65535 0 0 0]Por enquanto, é melhor eu me apressar e encontrar[n]Ann...[n][w][e]
 
 [msg MND_E10920100_GOTO_INOKA]
-[s][vp 8 2 65535 0 0 0]Por enquanto, é melhor eu ir em direção ao [clr 2]Linha de ginza [clr 27]...[n][w][e]
+[s][vp 8 2 65535 0 0 0]Por enquanto, é melhor ir[n]para a [clr 2]linha de Ginza[clr 27]...[n][w][e]
 
 [msg MND_E12710100_GOTO_INOKA]
-[s][vp 8 2 65535 0 0 0]Por enquanto, é melhor eu ir em direção ao [clr 2]Linha de ginza [clr 27]...[n][w][e]
+[s][vp 8 2 65535 0 0 0]Por enquanto, é melhor ir[n]para a [clr 2]linha de Ginza[clr 27]...[n][w][e]
 
 [msg MSG_E65010300_OPEN_KICHI [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 0 7080 65535 0]Essas escadas o levarão à linha Inogami.[n]Este é o caminho para Kichijoji.[n][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 0 7080 65535 0]Essas escadas levam à linha Inogami. Estamos no[n]caminho certo para Kichijoji.[n][w][e]
 
 [msg MSG_E65010300_OPEN_KICHI_2 [Morgana]]
-[s][bup 0 3 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Estou ficando animado![n][w][e]
+[s][bup 0 3 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Que emoção![n][w][e]
 
 [msg MSG_E65010300_OPEN_KICHI_3 [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 0 7052 65535 0]Tudo bem vamos lá![n][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 0 7052 65535 0]Venha, vamos![n][w][e]
 
 [msg MSG_E65010300_OPEN_KICHI_4 [Makoto]]
 [s][bup 0 6 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 0 2100 65535 0]Aqueles dois...[n][w][e]
 
 [msg MSG_SPOT_OPEN_KICHIJOJI]
-[s]Agora você pode ir para [clr 2]Kichijoji [clr 27].[n][w][e]
+[s]Agora você pode ir para [clr 2]Kichijoji[clr 27].[n][w][e]
 
 [msg MSG_MONEY_MORGANA_CHK_00 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 0 1 3 65535 0]Agora, estamos indo para uma área que está[n]fora de onde funciona o seu passe de[n]passageiro, portanto, verifique se você tem[n]a tarifa.[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 0 1 3 65535 0]Então, estamos indo para uma área[n]não coberta pelo seu passe,[n]então você terá que pagar pela passagem.[n][w][e]
 
 [msg MSG_MONEY_MORGANA_CHK_01 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 0 1 4 65535 0]Uau agora... não me diga que você está com[n]pouco dinheiro?[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 1 5 65535 0]Tudo bem, vou cobri-lo com um pouco do meu[n]estoque secreto desta vez, mas daqui em[n]diante, a tarifa estará sobre você.[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 0 1 4 65535 0]Ei... Não me diga que você está sem dinheiro?[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 1 5 65535 0]Ok, desta vez vou pagar com[n]algum do meu estoque secreto,[n]mas da próxima vez é problema seu.[n][w][e]
 
 [msg MND_NG_GOTO_INOKASIRA_06 [Morgana]]
-[s][bup 0 3 4 65535 0][f 4 10 65535 0 0][vp 8 2 1 1029 65535 0]Ei, esse não é o caminho certo![n]Certifique-se de saber para onde está indo,[n]ok?[n][w][e]
+[s][bup 0 3 4 65535 0][f 4 10 65535 0 0][vp 8 2 1 1029 65535 0]Ei, não ali![n]Não ande por aí,[n]OK?[n][w][e]
 
 [msg MND_COMMON_GOTO_INOKASIR]
-[s][vp 8 2 65535 0 0 0]Não há nada que eu precise fazer aqui. Eu[n]deveria voltar...[n][w][e]
+[s][vp 8 2 65535 0 0 0]Não preciso fazer nada lá.[n]É melhor voltar...[n][w][e]
 
 [msg MND_E10920100_CHK_ADJUST]
-[s][vp 8 2 65535 0 0 0]É uma máquina para ajustar as tarifas de[n]bilhetes.[n][w][e]
-[s][vp 8 2 65535 0 0 0]Eu não preciso usá-lo agora, no entanto...[n][w][e]
+[s][vp 8 2 65535 0 0 0]É uma máquina para calcular[n]o preço do bilhete.[n][w][e]
+[s][vp 8 2 65535 0 0 0]Por enquanto não preciso[n]usá-lo...[n][w][e]
 
 [msg MND_E12710100_CHK_ADJUST]
-[s][vp 8 2 65535 0 0 0]É uma máquina para ajustar as tarifas de[n]bilhetes.[n][w][e]
-[s][vp 8 2 65535 0 0 0]Eu não preciso usá-lo agora, no entanto...[n][w][e]
+[s][vp 8 2 65535 0 0 0]É uma máquina para calcular[n]o preço do bilhete.[n][w][e]
+[s][vp 8 2 65535 0 0 0]Por enquanto não preciso[n]usá-lo...[n][w][e]
 
 [msg MND_COMMON_CHK_ADJUSTMEN]
-[s][vp 8 2 65535 0 0 0]É uma máquina para ajustar as tarifas de[n]bilhetes.[n][w][e]
-[s][vp 8 2 65535 0 0 0]Eu não preciso usá-lo agora, no entanto...[n][w][e]
+[s][vp 8 2 65535 0 0 0]É uma máquina para calcular[n]o preço do bilhete.[n][w][e]
+[s][vp 8 2 65535 0 0 0]Por enquanto não preciso[n]usá-lo...[n][w][e]
 
 [msg MND_E10920100_CHK_PHOTO_]
-[s][vp 8 2 65535 0 0 0]É uma máquina de fotos de certificação.[n][w][e]
-[s][vp 8 2 65535 0 0 0]Parece ter funções diferentes, como o modo[n]de maquiagem ou uma que diminui seu rosto...[n][w][e]
+[s][vp 8 2 65535 0 0 0]É uma máquina para[n]tirar fotos para passaporte.[n][w][e]
+[s][vp 8 2 65535 0 0 0]Parece ter várias funções.[n]Pode adicionar efeitos ou[n]tornar o rosto mais fino...[n][w][e]
 
 [msg MND_E12710100_CHK_PHOTO_]
-[s][vp 8 2 65535 0 0 0]É uma máquina de fotos de certificação.[n][w][e]
-[s][vp 8 2 65535 0 0 0]Parece ter funções diferentes, como o modo[n]de maquiagem ou uma que diminui seu rosto...[n][w][e]
+[s][vp 8 2 65535 0 0 0]É uma máquina para[n]tirar fotos para passaporte.[n][w][e]
+[s][vp 8 2 65535 0 0 0]Parece ter várias funções.[n]Pode adicionar efeitos ou[n]tornar o rosto mais fino...[n][w][e]
 
 [msg MND_E14410100_CHK_PHOTO_]
-[s][vp 8 2 65535 0 0 0]Agora, preciso me apressar e encontrar Ann...[n][w][e]
+[s][vp 8 2 65535 0 0 0]Eu tenho que me apressar para encontrar Ann...[n][w][e]
 
 [msg MND_COMMON_CHK_PHOTO_MAC]
-[s][vp 8 2 65535 0 0 0]É uma máquina de fotos de certificação.[n][w][e]
-[s][vp 8 2 65535 0 0 0]Parece ter funções diferentes, como o modo[n]de maquiagem ou uma que diminui seu rosto...[n][w][e]
+[s][vp 8 2 65535 0 0 0]É uma máquina para[n]tirar fotos para passaporte.[n][w][e]
+[s][vp 8 2 65535 0 0 0]Parece ter várias funções.[n]Pode adicionar efeitos ou[n]tornar o rosto mais fino...[n][w][e]
 
 [msg MND_E10920100_CHK_COIN_L]
-[s][vp 8 2 65535 0 0 0]Quase não restam nenhuma chave nos armários[n]da moeda. Muitos deles estão sendo usados[n]por outras pessoas...[n][w][e]
+[s][vp 8 2 65535 0 0 0]Vejo muito poucas chaves em armários. A maior[n]parte já é usada por outras pessoas...[n][w][e]
 
 [msg MND_E12710100_CHK_COIN_L]
-[s][vp 8 2 65535 0 0 0]Quase não restam nenhuma chave nos armários[n]da moeda. Muitos deles estão sendo usados[n]por outras pessoas...[n][w][e]
+[s][vp 8 2 65535 0 0 0]Vejo muito poucas chaves em armários. A maior[n]parte já é usada por outras pessoas...[n][w][e]
 
 [msg MND_E14410100_CHK_COIN_L]
-[s][vp 8 2 65535 0 0 0]Agora, preciso me apressar e encontrar Ann...[n][w][e]
+[s][vp 8 2 65535 0 0 0]Eu tenho que me apressar para encontrar Ann...[n][w][e]
 
 [msg MND_COMMON_CHK_COIN_LOCK]
-[s][vp 8 2 65535 0 0 0]Quase não restam nenhuma chave nos armários[n]da moeda. Muitos deles estão sendo usados[n]por outras pessoas...[n][w][e]
+[s][vp 8 2 65535 0 0 0]Vejo muito poucas chaves em armários. A maior[n]parte já é usada por outras pessoas...[n][w][e]
 
 [msg MND_E10920100_CHK_NEXT_J]
-[s][vp 8 2 65535 0 0 0]Há uma imagem de um produto mostrado na tela.[n][w][e]
-[s][vp 8 2 65535 0 0 0]Parece uma tela de toque onde você pode[n]tocar nos produtos exibidos para[n]comprá-los...[n][w][e]
+[s][vp 8 2 65535 0 0 0]Uma imagem de um produto é mostrada na tela.[n][w][e]
+[s][vp 8 2 65535 0 0 0]É touch screen, para comprar[n]os itens mostrados basta[n]tocá-los...[n][w][e]
 
 [msg MND_E12710100_CHK_NEXT_J]
-[s][vp 8 2 65535 0 0 0]Há uma imagem de um produto mostrado na tela.[n][w][e]
-[s][vp 8 2 65535 0 0 0]Parece uma tela de toque onde você pode[n]tocar nos produtos exibidos para[n]comprá-los...[n][w][e]
+[s][vp 8 2 65535 0 0 0]Uma imagem de um produto é mostrada na tela.[n][w][e]
+[s][vp 8 2 65535 0 0 0]É touch screen, para comprar[n]os itens mostrados basta[n]tocá-los...[n][w][e]
 
 [msg MND_E14410100_CHK_NEXT_J]
-[s][vp 8 2 65535 0 0 0]Agora, preciso me apressar e encontrar Ann...[n][w][e]
+[s][vp 8 2 65535 0 0 0]Eu tenho que me apressar para encontrar Ann...[n][w][e]
 
 [msg MND_COMMON_CHK_NEXT_JUIC]
-[s][vp 8 2 65535 0 0 0]Não tenho tempo para fazer uma pausa e[n]comprar bebidas agora...[n][w][e]
+[s][vp 8 2 65535 0 0 0]Agora não tenho tempo para[n]parar para comprar bebidas...[n][w][e]
 
 [msg MND_E10920100_CHK_FRUIT_]
-[s][vp 8 2 65535 0 0 0]Parece que essa máquina de venda automática[n]vende frutas.[n][w][e]
-[s][vp 8 2 65535 0 0 0]Há uma variedade de frutas diferentes,[n]embaladas em fileiras de sacolas...[n][w][e]
+[s][vp 8 2 65535 0 0 0]Esta máquina de venda automática[n]vende frutas.[n][w][e]
+[s][vp 8 2 65535 0 0 0]Existem diferentes tipos,[n]todos embalados em linhas...[n][w][e]
 
 [msg MND_E12710100_CHK_FRUIT_]
-[s][vp 8 2 65535 0 0 0]Parece que essa máquina de venda automática[n]vende frutas.[n][w][e]
-[s][vp 8 2 65535 0 0 0]Há uma variedade de frutas diferentes,[n]embaladas em fileiras de sacolas...[n][w][e]
+[s][vp 8 2 65535 0 0 0]Esta máquina de venda automática[n]vende frutas.[n][w][e]
+[s][vp 8 2 65535 0 0 0]Existem diferentes tipos,[n]todos embalados em linhas...[n][w][e]
 
 [msg MND_E14410100_CHK_FRUIT_]
-[s][vp 8 2 65535 0 0 0]Agora, preciso me apressar e encontrar Ann...[n][w][e]
+[s][vp 8 2 65535 0 0 0]Eu tenho que me apressar para encontrar Ann...[n][w][e]
 
 [msg MND_COMMON_CHK_FRUIT_MAC]
-[s][vp 8 2 65535 0 0 0]Acho que vou comprar algumas frutas outra[n]vez...[n][w][e]
+[s][vp 8 2 65535 0 0 0]Acho que vou comprar fruta[n]outra vez...[n][w][e]
 
 [msg MSG_SPOT_GO_YAMANOTE]
-[s]Eu deveria usar o [clr 6]Linha Yamanote [clr 0]...[n][w][e]
+[s]Eu deveria pegar a[n][clr 6]linha Yamanote[clr 0]...[n][w][e]
 
 [msg MSG_SPOT_GO_INOKASIRA]
-[s]Eu deveria usar o [clr 6]Linha Inokashira [clr 0]...[n][w][e]
+[s]Eu deveria pegar a[n][clr 6]Linha Inokashira[clr 0]...[n][w][e]
 
 [msg MSG_SPOT_GO_GINZALINE]
-[s]Eu deveria usar o [clr 6]Linha de ginza [clr 0]...[n][w][e]
+[s]Eu deveria pegar a[n][clr 6]linha Ginza[clr 0]...[n][w][e]
 
 [msg SPOT_GO_INOKASIRA_RYUJI [Ryuji]]
-[s]Aight, vamos para o Inokashira Park![n][w][e]
+[s]OK, vamos para o[n]Parque Inokashira![n][w][e]
 
 [msg MSG_BAITO_MAGAZINE_SPOT]
-[s]Existem algumas revistas de listagem de[n]empregos de meio período colocadas aqui...[n][w][e]
-[s]Não tenho tempo para lê-los agora, no[n]entanto...[n][w][e]
+[s]Aqui estão algumas revistas de[n]anúncios de empregos de meio período...[n][w][e]
+[s]Mas agora não tenho tempo[n]para lê-los...[n][w][e]
 
 [msg MSG_SPOT_KIOSUKU_RYUJI [Ryuji]]
-[s]Oh, confira este jornal.[n]Tem algo em Shujin.[n][w][e]
-[s]A maneira como eles brincam é uma piada. É[n]por isso que não confio em mídia de massa...[n][w][e]
+[s]Oh, olhe para este papel.[n]É sobre Shujin.[n][w][e]
+[s]Mas eles distorceram tudo de uma forma absurda. É[n]por isso que eu não confio na mídia de massa...[n][w][e]
 
 [msg MSG_SPOT_KIOSUKU_ANNE [Ann]]
-[s]Aquela revista... "Atriz super famosa[n]suspeita de cirurgia plástica!?" [n][w][e]
-[s]O que? Eu realmente gosto dela também. Seu[n]rosto e sua atuação não têm nada a ver um[n]com o outro...[n][w][e]
+[s]Aquela revista...[n]"Atriz super famosa suspeita[n]de cirurgia plástica"?!?[n][w][e]
+[s]O quê? Eu gosto muito.[n]Aparência e habilidades de atuação[n]são duas coisas diferentes...[n][w][e]
 
 [msg MSG_SPOT_KIOSUKU_YUSUKE [Yusuke]]
 [s]Aquele jornal...[n][w][e]
-[s]"O grande pintor do mundo da arte, do céu[n]para o inferno." Huh...[n][w][e]
-[s]Hmph. Por que eles se incomodariam em[n]escrever um artigo tão inútil?[n][w][e]
+[s]"O grande pintor[n]que caiu do céu[n]inferno." Oh...[n][w][e]
+[s]Umpf. Por que se preocupar em escrever um artigo[n]tão barato?[n][w][e]
 
 [msg MSG_SPOT_KIOSUKU_MAKOTO [Makoto]]
-[s]*Reproduza a mensagem para makoto [n][w][e]
+[s]*Mensagem para Makoto[n][w][e]
 
 [msg MSG_SPOT_JUICEBAR_RYUJI [Ryuji]]
-[s]O que, você está com sede?[n][w][e]
-[s]Eles vendem muito coisas aqui, mas eu sempre[n]acabo escolhendo o mesmo.[n][w][e]
+[s]Espere, você está com sede?[n][w][e]
+[s]Há tantas opções aqui,[n]mas sempre acabo[n]escolhendo a mesma coisa.[n][w][e]
 
 [msg MSG_SPOT_JUICEBAR_ANNE [Ann]]
-[s]Esperar! Você vai me tratar?[n][w][e]
-[s]Brincando, estou brincando. Eu estava apenas[n]mexendo com você.[n][w][e]
+[s]Espere! Você quer me oferecer[n]algo?[n][w][e]
+[s]Estou brincando, estou brincando.[n]Estou apenas brincando com você.[n][w][e]
 
 [msg MSG_SPOT_JUICEBAR_YUSUKE [Yusuke]]
-[s]Existem tantas frutas diferentes, e entre[n]todas...[n][w][e]
-[s]O kiwi é o meu favorito.[n][w][e]
-[s]Eu também gosto de figos, mas... não, devo[n]ter kiwis.[n][w][e]
+[s]Há tantas frutas diferentes,[n]mas entre todas...[n][w][e]
+[s]Eu prefiro o kiwi.[n][w][e]
+[s]Também gosto de figos, mas...[n]Não, não resisto aos kiwis.[n][w][e]
 
 [msg MSG_SPOT_JUICEBAR_MAKOTO [Makoto]]
-[s]*Reproduza a mensagem para makoto [n][w][e]
+[s]*Mensagem para Makoto[n][w][e]
 

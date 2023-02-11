@@ -2,65 +2,65 @@
 [s]......[n][w][e]
 
 [msg MSG_LAST_GREETING_LOTTER [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1187 65535 0]Não ganhei muito, mas ainda estou feliz.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1187 65535 0]Não ganhei muito, mas estou feliz do mesmo jeito.[n][w][e]
 
 [msg MSG_LAST_GREETING_HACHI_ [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1192 65535 0]Eu vou onde você vai. Eu não gosto de[n]esperar.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1192 65535 0]Eu irei aonde você for.[n]Eu não gosto de esperar.[n][w][e]
 
 [msg MSG_LAST_GREETING_SMOKE_ [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]Não saia sem contar a ninguém, ok? Vamos[n]dizer adeus a todos.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]Não saia sem dizer nada.[n]Vamos dizer olá a todos.[n][w][e]
 
 [msg MSG_LAST_GREETING_GOTO_M [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1018 65535 0]Você não conhece ninguém que passaria aqui,[n]não é? Vamos a algum outro lugar.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1018 65535 0]Você não conhece ninguém que[n]iria aqui, não é? Vamos[n]para outro lugar.[n][w][e]
 
 [msg MSG_LAST_GREETING_TICKET [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1178 65535 0]Seu passe de passageiro está prestes a[n]expirar, mas acho que você não precisará[n]comprar um novo...[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1178 65535 0]Sua assinatura está quase[n]vencida, mas acho que você não[n]precisa de uma nova...[n][w][e]
 
 [msg MSG_LAST_GREETING_STAIRS [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1018 65535 0]Você não conhece ninguém que passaria aqui,[n]não é? Vamos a algum outro lugar.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1018 65535 0]Você não conhece ninguém que[n]iria aqui, não é? Vamos[n]para outro lugar.[n][w][e]
 
 [msg MSG_LAST_GREETING_DEADEN [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1018 65535 0]Você não conhece ninguém que passaria aqui,[n]não é? Vamos a algum outro lugar.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1018 65535 0]Você não conhece ninguém que[n]iria aqui, não é? Vamos[n]para outro lugar.[n][w][e]
 
 [msg MSG_LAST_GREETING_LOTTER_2 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1188 65535 0]Este não é o momento certo para comprar uma[n]loteria de arranhões, é? Vamos ver todos![n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1188 65535 0]Não é hora de parar[n]e comprar uma raspadinha![n]Vamos aos outros![n][w][e]
 
 [msg MSG_LAST_GREETING_place [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1171 65535 0]Você não precisa estar aqui agora, não é?[n]Vamos lá, vamos para outro lugar![n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1171 65535 0]No momento você não tem nada para fazer aqui,[n]certo? Vamos lá, vamos outro lugar![n][w][e]
 
 [msg MSG_LAST_GREETING_etc [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1171 65535 0]O que está errado? Vamos lá, devemos dizer[n]adeus aos outros![n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1171 65535 0]O que você tem? Vamos,[n]temos que dizer olá para os outros![n][w][e]
 
 [msg MND_0103]
-[s]Não há nada que eu precise fazer aqui...[n][w][e]
-[s]Eu deveria verificar todos...[n][w][e]
+[s]Não preciso fazer nada aqui...[n][w][e]
+[s]Melhor ir e[n]verificar os outros…[n][w][e]
 
 [msg MND_0103to0108_Error_Not]
-[s]Isso não é hora de fazer compras...[n][w][e]
-[s]Eu deveria verificar todos...[n][w][e]
+[s]Sem tempo para compras...[n][w][e]
+[s]Melhor ir e[n]verificar os outros…[n][w][e]
 
 [msg MND_0103to0108_Error_Not_2]
-[s]Isso não é hora de desvios...[n][w][e]
-[s]Eu deveria verificar todos...[n][w][e]
+[s]Não há tempo para desvios...[n][w][e]
+[s]Melhor ir e[n]verificar os outros…[n][w][e]
 
 [msg MND_0103to0108_Error_Dog]
-[s]Há uma estátua de um cachorro leal...[n][w][e]
-[s]Eu deveria verificar todos...[n][w][e]
+[s]Há uma estátua de um cachorro fiel...[n][w][e]
+[s]Melhor ir e[n]verificar os outros…[n][w][e]
 
 [msg MSG_Yamanote_NotOpen [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1020 65535 0]E aí? Você não tem lugares que queria ver,[n]não é?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1020 65535 0]E aí? Não há nenhum lugar[n]que você queira visitar, certo?[n][w][e]
 
 [msg MSG_Yamanote_Shinjuku [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1165 65535 0]Oh, pegando um trem? Vamos para Shinjuku[n]enquanto estamos nisso.[n][w][e]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Você pode aprender muito em um lugar[n]colorido como esse. Os custos da tarifa [n][clr 2]190 [clr 27]Yen, embora...[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1165 65535 0]Oh, vamos pegar o trem?[n]Vamos para Shinjuku,[n]enquanto estamos nisso.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Em um lugar tão colorido[n]há muito o que aprender.[n]A tarifa é [clr 2]190[clr 27] ienes, mas...[n][w][e]
 
 [sel SEL_Yamanote_SINJUKU top]
 [s]Vamos para Shinjuku.[e]
 [s]Deixa para lá.[e]
 
 [msg MSG_Yamanote_AllGo [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1171 65535 0]Entrando em um trem? Você pode ir a[n]Shinjuku, que é o território adulto, ou[n]Akihabara, a terra dos geeks.[n][w][e]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Você pode aprender bastante nos dois lugares.[n]A tarifa para Shinjuku é [clr 2]190 [clr 27]Yen e Akihabara são [clr 2]240 [clr 27]Yen.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1171 65535 0]Pegamos o trem? Você pode ir[n]para Shinjuku, um lugar adulto,[n]ou para Akihabara, um paraíso geek.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Você pode aprender alguma coisa.[n]Ir para Shinjuku custa[n][clr 2]190[clr 27] ienes, enquanto ir para Akihabara custa [clr 2]240[clr 27] ienes.[n][w][e]
 
 [sel YAMANOTE_ALL_SEL top]
 [s]Vamos para Shinjuku.[e]
@@ -68,522 +68,522 @@
 [s]Deixa para lá.[e]
 
 [msg MSG_Yamanote_MoneyNG [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1173 65535 0]... Ei, espere um minuto. Você não tem[n]dinheiro suficiente.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1173 65535 0]...Ei, espere um minuto.[n]Você não tem dinheiro suficiente.[n][w][e]
 
 [msg MSG_Yamanote_GreetingDay [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1187 65535 0]Oh, você vai ver alguém?[n]Onde você está indo?[n][w][e]
 
 [msg MND_GATE_0103]
-[s]Vamos para uma área diferente...[n][w][e]
+[s]Vamos por outro caminho...[n][w][e]
 
 [msg MSG_GATE_DEAFULT_MORU [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1020 65535 0]Você vai viajar para outra área?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1020 65535 0]Você quer se mudar para[n]outra área?[n][w][e]
 
 [sel SEL_GATE_YESNO_moru top]
-[s]Sim, vamos lá.[e]
+[s]Sim vamos.[e]
 [s]Não, ainda não.[e]
 
 [msg MSG_CHK_LOTTERY_SHOP_01]
-[s]Não tenho tempo para comprar ingressos para[n]loteria...[n][w][e]
+[s]Não tenho tempo para comprar[n]bilhetes de loteria...[n][w][e]
 
-[msg MSG_LotShop_NG_Summer_Ha [Lottery Attendant]]
-[s]Você entrou na loteria gigantesca do verão,[n]sim? O resultado será anunciado em 8/22 ou[n]depois.[n][w][e]
+[msg MSG_LotShop_NG_Summer_Ha [Commessa della lotteria]]
+[s]Você participa do sorteio Summer Mammoth, certo?[n]Os vencedores serão anunciados a partir de 22 de[n]agosto.[n][w][e]
 
-[msg MSG_LOTSHOP_START_Shop1 [Lottery Attendant]]
-[s]Bem-vindo à nossa bilheteria de loteria![n]O que você gostaria de fazer?[n][w][e]
+[msg MSG_LOTSHOP_START_Shop1 [Commessa della lotteria]]
+[s]Bem-vindo ao[n]quiosque da loteria! O que você quer fazer?[n][w][e]
 
-[msg MSG_LOTSHOP_START_Shop2 [Lottery Attendant]]
-[s]Você está procurando comprar um bilhete de[n]loteria? Os alunos também podem comprar um![n][w][e]
+[msg MSG_LOTSHOP_START_Shop2 [Commessa della lotteria]]
+[s]Quer comprar um[n]bilhete de loteria? Alunos[n]podem obter um também![n][w][e]
 
-[msg MSG_LotShop_End_OnlyNorm [Lottery Attendant]]
-[s]Obrigado pela sua compra.[n][w][e]
-[s]O resultado será anunciado em uma semana, em [var 0]/ [var 1].[n]Por favor, ansioso por isso.[n][w][e]
+[msg MSG_LotShop_End_OnlyNorm [Commessa della lotteria]]
+[s]Obrigado por sua compra.[n][w][e]
+[s]Os resultados serão anunciados[n]em uma semana, em [var 1]/[var 0].[n]Aguarde ansiosamente.[n][w][e]
 
-[msg MSG_LotShop_End_OnlySumm [Lottery Attendant]]
-[s]Obrigado pela sua compra.[n][w][e]
-[s]O resultado será anunciado em 22/08![n]Lembre-se de passar por aqui![n][w][e]
+[msg MSG_LotShop_End_OnlySumm [Commessa della lotteria]]
+[s]Obrigado por sua compra.[n][w][e]
+[s]Os resultados serão anunciados[n]no dia 22 de agosto! Lembre-se de[n]passar![n][w][e]
 
-[msg MSG_LotShop_End_Double [Lottery Attendant]]
-[s]Obrigado pela sua compra.[n][w][e]
-[s]O resultado da loteria gigantesca do verão[n]será anunciado em 22/08![n][w][e]
-[s]O resultado do bilhete de loteria que você[n]acabou de comprar hoje será anunciado em[n]uma semana, em [var 0]/ [var 1].[n][w][e]
+[msg MSG_LotShop_End_Double [Commessa della lotteria]]
+[s]Obrigado por sua compra.[n][w][e]
+[s]Os resultados da Summer[n]Mammoth Lottery serão anunciados[n]no dia 22 de agosto![n][w][e]
+[s]Os resultados do ingresso que você[n]acabou de comprar serão[n]anunciados em uma semana, em [var 1]/[var 0].[n][w][e]
 
-[msg MSG_LotShop_SummerLotInf [Lottery Attendant]]
-[s][clr 2]Loteria gigantesca de verão [clr 27]Os ingressos já estão à venda! Venha e[n]compre um![n][w][e]
+[msg MSG_LotShop_SummerLotInf [Commessa della lotteria]]
+[s][clr 2]Summer Mammoth[clr 27][n]bilhetes de loteria disponíveis! Venha[n]comprar um![n][w][e]
 
-[msg MSG_LotShop_End_SummerM [Lottery Attendant]]
-[s]Obrigado por entrar na loteria gigantesca do[n]verão.[n][w][e]
-[s]Os resultados vencedores serão anunciados em[n]22/08. Esperamos que você esperamos por[n]isso.[n][w][e]
+[msg MSG_LotShop_End_SummerM [Commessa della lotteria]]
+[s]Obrigado por participar[n]do Summer Mammoth Sweepstakes.[n][w][e]
+[s]Os vencedores serão anunciados[n]em 22 de agosto. Esperamos que você[n]mal possa esperar.[n][w][e]
 
-[msg MSG_LotShop_ReStart [Lottery Attendant]]
-[s]O resultado será anunciado em uma semana, em [var 0]/ [var 1].[n]Por favor, ansioso por isso.[n][w][e]
+[msg MSG_LotShop_ReStart [Commessa della lotteria]]
+[s]Os resultados serão anunciados[n]em uma semana, em [var 1]/[var 0].[n]Aguarde ansiosamente.[n][w][e]
 
 [msg MSG_LOTSHOP_LOT_YET_MORU [Morgana]]
-[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 1020 65535 0]O resultado será anunciado em [var 0]/ [var 1], direita? Vamos voltar mais tarde.[n][w][e]
+[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 1020 65535 0]Os resultados serão anunciados[n]em [var 1]/[var 0], certo?[n]Vamos voltar outra hora.[n][w][e]
 
-[msg MSG_LOTSHOP_PUBLISH_SHOP [Lottery Attendant]]
-[s]Você tem um bilhete de loteria, sim?[n]Permita-me verificar o resultado![n][w][e]
+[msg MSG_LOTSHOP_PUBLISH_SHOP [Commessa della lotteria]]
+[s]Você tem um bilhete de loteria?[n]Confira o resultado![n][w][e]
 
-[msg MSG_LOTSHOP_PUBLISH_SHOP_2 [Lottery Attendant]]
-[s]Você tem um bilhete de loteria gigantesca de[n]verão, sim? Permita-me verificar o[n]resultado![n][w][e]
+[msg MSG_LOTSHOP_PUBLISH_SHOP_2 [Commessa della lotteria]]
+[s]Você tem um bilhete de loteria[n]Summer Mammoth?[n]Confira o resultado![n][w][e]
 
-[msg MSG_LOTSHOP_RESULT [Lottery Attendant]]
-[s]Seu resultado neste desenho é...[n][w][e]
+[msg MSG_LOTSHOP_RESULT [Commessa della lotteria]]
+[s]O resultado da extração é…[n][w][e]
 
-[msg MSG_LOTSHOP_RESULT_01 [Lottery Attendant]]
+[msg MSG_LOTSHOP_RESULT_01 [Commessa della lotteria]]
 [s]......[n][w][e]
-[s]...... é uma falta.[n][w][e]
+[s]......Nada mesmo.[n][w][e]
 
-[msg MSG_result_00 [Lottery Attendant]]
+[msg MSG_result_00 [Commessa della lotteria]]
 [s]......[n][w][e]
 [s]......![n][w][e]
 
-[msg MSG_LOTSHOP_RESULT_02 [Lottery Attendant]]
+[msg MSG_LOTSHOP_RESULT_02 [Commessa della lotteria]]
 [s]Parabéns![n][w][e]
-[s]Você ganhou 100 ienes. Deixe-me levar isso[n]para você agora.[n][w][e]
+[s]Você ganhou 100 ienes. Vou entregá-los a você[n]imediatamente.[n][w][e]
 
-[msg MSG_LOTSHOP_RESULT_03 [Lottery Attendant]]
+[msg MSG_LOTSHOP_RESULT_03 [Commessa della lotteria]]
 [s]Parabéns![n][w][e]
-[s]Você ganhou 300 ienes. Deixe-me levar isso[n]para você agora.[n][w][e]
+[s]Você ganhou 300 ienes. Vou entregá-los a você[n]imediatamente.[n][w][e]
 
-[msg MSG_LOTSHOP_RESULT_04 [Lottery Attendant]]
+[msg MSG_LOTSHOP_RESULT_04 [Commessa della lotteria]]
 [s]Parabéns![n][w][e]
-[s]Você ganhou 2.000 ienes. Deixe-me levar isso[n]para você agora.[n][w][e]
+[s]Você ganhou 2.000 ienes. Vou entregá-los a você[n]imediatamente.[n][w][e]
 
-[msg MSG_LOTSHOP_RESULT_05 [Lottery Attendant]]
+[msg MSG_LOTSHOP_RESULT_05 [Commessa della lotteria]]
 [s]Parabéns![n][w][e]
-[s]Você ganhou 5.000 ienes. Deixe-me levar isso[n]para você agora.[n][w][e]
+[s]Você ganhou 5.000 ienes. Vou entregá-los a você[n]imediatamente.[n][w][e]
 
-[msg MSG_LOTSHOP_RESULT_06 [Lottery Attendant]]
+[msg MSG_LOTSHOP_RESULT_06 [Commessa della lotteria]]
 [s]Parabéns![n][w][e]
-[s]Você ganhou 10.000 ienes. Deixe-me levar[n]isso para você agora.[n][w][e]
+[s]Você ganhou 10.000 ienes. Vou entregá-los a você[n]imediatamente.[n][w][e]
 
-[msg MSG_LOTSHOP_RESULT_07 [Lottery Attendant]]
+[msg MSG_LOTSHOP_RESULT_07 [Commessa della lotteria]]
 [s]Parabéns![n][w][e]
-[s]Você ganhou 100.000 ienes. Deixe-me levar[n]isso para você agora.[n][w][e]
+[s]Você ganhou 100.000 ienes. Vou entregá-los a você[n]imediatamente.[n][w][e]
 
-[msg MSG_LOTSHOP_RESULT_Summe [Lottery Attendant]]
+[msg MSG_LOTSHOP_RESULT_Summe [Commessa della lotteria]]
 [s]Parabéns![n][w][e]
-[s]Você ganhou 30.000 ienes. Deixe-me levar[n]isso para você agora.[n][w][e]
+[s]Você ganhou 30.000 ienes. Vou entregá-los a você[n]imediatamente.[n][w][e]
 
-[msg MSG_LOTSHOP_RESULT_Summe_2 [Lottery Attendant]]
+[msg MSG_LOTSHOP_RESULT_Summe_2 [Commessa della lotteria]]
 [s]Parabéns![n][w][e]
-[s]Você ganhou 50.000 ienes. Deixe-me levar[n]isso para você agora.[n][w][e]
+[s]Você ganhou 50.000 ienes. Vou entregá-los a você[n]imediatamente.[n][w][e]
 
-[msg MSG_LOTSHOP_RESULT_Summe_3 [Lottery Attendant]]
+[msg MSG_LOTSHOP_RESULT_Summe_3 [Commessa della lotteria]]
 [s]Parabéns![n][w][e]
-[s]Você ganhou 100.000 ienes. Deixe-me levar[n]isso para você agora.[n][w][e]
+[s]Você ganhou 100.000 ienes. Vou entregá-los a você[n]imediatamente.[n][w][e]
 
 [msg MSG_Lottery_ATARI_Small [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1168 65535 0]Você venceu, mas... bem, acho que é melhor[n]do que nada.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1168 65535 0]Você ganhou, mas...[n]Bem, é melhor do que[n]nada, eu acho.[n][w][e]
 
 [msg MSG_Lottery_ATARI_Big [Morgana]]
-[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 1184 65535 0]Você teve muita sorte! Use esse dinheiro com[n]sabedoria, tudo bem?[n][w][e]
+[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 1184 65535 0]Sortudo! Use bem esse dinheiro, ok?[n][w][e]
 
 [msg MSG_Lottery_ATARI_TooBig [Morgana]]
-[s][bup 0 3 11 0 0][f 4 10 65535 0 0][vp 8 2 1 53138 65535 0]Whoaaa! Você tem muita sorte!... Isso[n]significa que meu jantar amanhã será[n]incrível![n][w][e]
+[s][bup 0 3 11 0 0][f 4 10 65535 0 0][vp 8 2 1 53138 65535 0]Uau! A sorte te beijou![n]Amanhã à noite jantarei como um rei![n][w][e]
 
 [msg MSG_Lottery_Normal_Hazur [Morgana]]
-[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 1 1169 65535 0]... que decepcionante.[n][w][e]
+[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 1 1169 65535 0]...Que decepção.[n][w][e]
 
 [msg MSG_Lottery_ATARI_Small_ [Morgana]]
-[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 1072 65535 0]Oh, você entendeu! Eu posso lhe dar[n]conselhos sobre o que usá-lo![n][w][e]
+[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 1072 65535 0]Ah, você conseguiu! Eu poderia lhe dar algumas[n]ideias sobre como gastá-lo![n][w][e]
 
 [msg MSG_Lottery_ATARI_Big_Su [Morgana]]
-[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 1180 65535 0]Você tem muita sorte! Agora você pode pagar[n]um pouco de sushi para mim, certo?[n][w][e]
+[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 1180 65535 0]Você é realmente sortudo! Agora você pode[n]comprar para mim[n]sushi, certo?[n][w][e]
 
 [msg MSG_Lottery_ATARI_MostBi [Morgana]]
-[s][bup 0 3 4 0 0][f 4 10 65535 0 0][vp 8 2 1 1040 65535 0]Uau, de jeito nenhum! Se você ganhou isso...[n][w][e]
-[s][bup 0 3 11 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Isso significa que vou receber mais sushi do[n]que posso lidar! Mal posso esperar, [n][f 4 2]![n][w][e]
+[s][bup 0 3 4 0 0][f 4 10 65535 0 0][vp 8 2 1 1040 65535 0]Uau, louco! Se você ganhou[n]tanto…[n][w][e]
+[s][bup 0 3 11 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Significa que vou comer mais sushi[n]do que posso comer![n]Mal posso esperar, [f 4 2]![n][w][e]
 
-[msg MSG_LOTSHOP_NotBuy [Lottery Attendant]]
-[s]Por favor, venha de novo![n][w][e]
+[msg MSG_LOTSHOP_NotBuy [Commessa della lotteria]]
+[s]Volte logo![n][w][e]
 
-[msg MSG_LotShopSC_Start [Lottery Attendant]]
-[s]Bem-vindo. Você gostaria de experimentar[n]alguns scratchers? Eles são muito mais[n]rápidos que a loteria.[n][w][e]
+[msg MSG_LotShopSC_Start [Commessa della lotteria]]
+[s]Bem-vindo. Quer experimentar a raspadinha? Eles[n]são mais imediatos do que a loteria.[n][w][e]
 
-[msg MSG_LotShop_SC_Start [Lottery Attendant]]
-[s]Você receberá seus resultados de scratcher[n]instantaneamente.[n][w][e]
+[msg MSG_LotShop_SC_Start [Commessa della lotteria]]
+[s]O resultado da raspadinha[n]é instantâneo.[n][w][e]
 
 [msg MSG_LotShop_SC_Start02 [Morgana]]
-[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 1175 65535 0]Tudo bem, vamos arranhar![n][w][e]
+[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 1175 65535 0]OK, vamos dar uma boa arranhada![n][w][e]
 
 [msg MSG_Scratch_Info [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1172 65535 0]Vamos ver... Scratchers... há três pontos[n]que você pode arranhar e...[n][w][e]
-[s][f 4 10 65535 0 0]Parece que você vence se algum desses pontos[n]mostrar um valor em dinheiro como prêmio.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1172 65535 0]Vejamos... Raspadinhas...[n]Você tem que raspar em[n]três lugares e...[n][w][e]
+[s][f 4 10 65535 0 0]Você ganha se encontrar[n]uma das somas[n]de dinheiro em disputa.[n][w][e]
 
 [msg MSG_Scratch_Start01 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0]Eu acho que você pode simplesmente ir em[n]frente e arranhar todos eles. Qual você[n]quer arranhar primeiro?[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0]Enlouqueça e arranhe tudo. Com qual[n]você quer começar?[n][w][e]
 
 [msg MSG_Scratch_Start02 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0]Qual você quer arranhar a seguir?[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0]Qual é o próximo[n]que você quer arranhar?[n][w][e]
 
 [sel SEL_Scratch top]
-[s]O esquerdo.[e]
-[s]O do meio.[e]
-[s]Vamos com a direita.[e]
+[s]Para a esquerda.[e]
+[s]No meio de.[e]
+[s]Vamos tentar certo.[e]
 
 [msg MSG_Scratch_Happy01 [Morgana]]
 [s][bup 0 3 4 0 0][f 4 10 65535 0 0]Huh...?[n][w][e]
-[s][f 4 10 65535 0 0]Poderia ser...!?[n][w][e]
+[s][f 4 10 65535 0 0]Não é isso...[n][w][e]
 
 [msg MSG_Scratch_Happy_5000 [Morgana]]
-[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 1184 65535 0]Você ganhou! Você tem 5.000 ienes![n][w][e]
+[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 1184 65535 0]Você ganhou! São 5.000 ienes![n][w][e]
 
 [msg MSG_Scratch_Happy_1000 [Morgana]]
-[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 1184 65535 0]Você ganhou! Você tem 1.000 ienes![n][w][e]
+[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 1184 65535 0]Você ganhou! São 1.000 ienes![n][w][e]
 
 [msg MSG_Scratch_Happy_200 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1022 65535 0]Você ganhou... mas... são apenas 200 ienes.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1022 65535 0]Você ganhou...mas...[n]São apenas 200 ienes.[n][w][e]
 
 [msg MSG_Scratch_Error [Morgana]]
-[s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 1 1182 65535 0]M-Meh... é uma falta.[n][w][e]
+[s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 1 1182 65535 0]M-Meh... Você perdeu.[n][w][e]
 
 [msg MSG_Scratch_last [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1174 65535 0]Só mais um restante... agora, vamos ver o[n]que você tem![n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1174 65535 0]Uma esquerda...[n]Agora, vamos dar uma olhada![n][w][e]
 
-[msg MSG_Scratch_End_atari01 [Lottery Attendant]]
-[s]Parabéns! Deixe-me pegar seu prêmio em[n]dinheiro agora.[n][w][e]
+[msg MSG_Scratch_End_atari01 [Commessa della lotteria]]
+[s]Parabéns! Vou pegar[n]seu prêmio em dinheiro imediatamente.[n][w][e]
 
 [msg MSG_Scratch_End_atari02 [Morgana]]
-[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 1166 65535 0]Uau, você realmente ganhou! Vamos aqui[n]novamente em outra hora![n][w][e]
+[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 1166 65535 0]Uau, você realmente ganhou![n]Vamos voltar[n]de novo![n][w][e]
 
 [msg MSG_Scratch_End_hazure01 [Morgana]]
-[s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 1 1026 65535 0]Womp womp... são todos erros.[n][w][e]
+[s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 1 1026 65535 0]Que pena...[n]Você não ganhou nada.[n][w][e]
 
-[msg MSG_Scratch_End_hazure02 [Lottery Attendant]]
-[s]Muito obrigado. Estamos ansiosos para a sua[n]próxima visita.[n][w][e]
+[msg MSG_Scratch_End_hazure02 [Commessa della lotteria]]
+[s]Muito obrigado.[n]Volte em breve.[n][w][e]
 
 [msg MSG_LotShop_SC_ReTry [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1020 65535 0]Você arranhou o suficiente para hoje, certo?[n]Vamos voltar outra vez.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1020 65535 0]Você coçou[n]o suficiente por hoje, certo? Vamos voltar[n]outra vez.[n][w][e]
 
 [msg MSG_HACHI_KOU_MORU [Morgana]]
-[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 1 1163 65535 0]O cão fiel que esperou seu mestre até o fim,[n]hein? Estou tão emocionado com a lealdade[n]dele.[n][w][e]
-[s][f 4 10 65535 0 0]É melhor você não me abandonar, tudo bem?[n]Não é como eu ser o único esperando.[n][w][e]
+[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 1 1163 65535 0]O cão fiel que esperou[n]seu dono até o fim, hein?[n]Sua fidelidade é comovente.[n][w][e]
+[s][f 4 10 65535 0 0]Não me abandone, ok?[n]Eu não sou do tipo que[n]fica parado esperando.[n][w][e]
 
 [msg MSG_HACHI_KOU]
-[s]É a famosa estátua desse cachorro fiel...[n][w][e]
+[s]É a famosa estátua daquele cão fiel...[n][w][e]
 
 [msg MSG_SMOKE_SPACE_MORU [Morgana]]
-[s][bup 0 3 4 0 0][f 4 10 65535 0 0][vp 8 2 1 1175 65535 0]Ei... este não é lugar para um aluno como[n]você despertar.[n][w][e]
+[s][bup 0 3 4 0 0][f 4 10 65535 0 0][vp 8 2 1 1175 65535 0]Ei... Não é o lugar[n]adequado para um[n]aluno como você.[n][w][e]
 
 [msg MSG_SMOKE_SPACE]
-[s]Esta parece ser uma área de fumantes. Não é[n]lugar para os menores ficarem por aí...[n][w][e]
+[s]Parece uma área para fumantes.[n]Menores não devem[n]ficar lá...[n][w][e]
 
 [msg MSG_MIYASITA_NG_MORU [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1171 65535 0]Não há nada que você precise fazer aqui,[n]certo? Vamos a algum outro lugar![n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1171 65535 0]Você não tem nada para fazer aqui, certo? Vamos[n]para outro lugar![n][w][e]
 
 [msg MSG_MIYASITA_NG]
-[s]Não há nada que eu precise fazer aqui. Eu[n]deveria voltar...[n][w][e]
+[s]Não preciso fazer nada lá.[n]É melhor voltar...[n][w][e]
 
 [msg MSG_TICKET_MACHINE_MORU [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1020 65535 0]Se você cobrou seu cartão, não precisa[n]comprar um ingresso, certo?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1020 65535 0]Se você carregou o cartão,[n]não precisa comprar[n]a passagem, certo?[n][w][e]
 
 [msg MSG_TICKET_MACHINE]
-[s]Não preciso comprar um ingresso de linha[n]JL...[n][w][e]
+[s]Não preciso comprar[n]passagens da linha JL...[n][w][e]
 
 [msg MSG_STAIRS_LOT_SHOP_MORU [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1171 65535 0]Não há nada que você precise fazer à frente,[n]certo? Vamos a algum outro lugar![n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1171 65535 0]Você não tem nada para fazer[n]mais tarde, não é? Vamos[n]para outro lugar![n][w][e]
 
 [msg MSG_STAIRS_LOT_SHOP]
-[s]Não há nada à frente que eu precise[n]conferir...[n][w][e]
+[s]Não tenho nada para[n]ver pela frente...[n][w][e]
 
 [msg MSG_DEADEND01_MORU [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1171 65535 0]Não há nada que você precise fazer à frente,[n]certo? Vamos a algum outro lugar![n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1171 65535 0]Você não tem nada para fazer[n]mais tarde, não é? Vamos[n]para outro lugar![n][w][e]
 
 [msg MSG_DEADEND01]
-[s]Não há nada à frente que eu precise[n]conferir...[n][w][e]
+[s]Não tenho nada para[n]ver pela frente...[n][w][e]
 
 [msg MND_E10920100_NG_CENTER_]
-[s][vp 1 0 0 0 0 0]Eu posso ver a Central Street do outro lado[n]do cruzamento.[n][w][e]
-[s][vp 1 0 0 0 0 0]Por enquanto, é melhor me apressar e chegar[n]à escola...[n][w][e]
+[s][vp 1 0 0 0 0 0]Do outro lado do cruzamento, vejo a Central[n]Street.[n][w][e]
+[s][vp 1 0 0 0 0 0]Por enquanto é melhor eu me apressar[n]para chegar à escola...[n][w][e]
 
 [msg MND_E12710100_NG_CENTER_]
-[s][vp 1 0 0 0 0 0]Eu posso ver a Central Street do outro lado[n]do cruzamento.[n][w][e]
-[s][vp 1 0 0 0 0 0]Por enquanto, é melhor me apressar e chegar[n]à escola...[n][w][e]
+[s][vp 1 0 0 0 0 0]Do outro lado do cruzamento, vejo a Central[n]Street.[n][w][e]
+[s][vp 1 0 0 0 0 0]Por enquanto é melhor eu me apressar[n]para chegar à escola...[n][w][e]
 
 [msg MND_E14410100_NG_CENTER_]
-[s][vp 1 0 0 0 0 0]Por enquanto, é melhor me apressar e[n]encontrar Ann...[n][w][e]
+[s][vp 1 0 0 0 0 0]Por enquanto, é melhor eu me apressar e encontrar[n]Ann...[n][w][e]
 
 [msg MSG_E19310100_GOTO_MADAR [Ryuji]]
-[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 7115 65535 0]Você tem certeza que é assim? Não me lembro[n]de ver uma casa.[n][w][e]
+[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 7115 65535 0]Tem certeza que é daqui?[n]Não me lembro de ter visto nenhuma casa.[n][w][e]
 
 [msg MSG_E19310100_GOTO_MADAR_2 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 6127 65535 0]Deveria estar em uma área residencial[n]passando pela Central Street.[n][w][e]
-[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Teremos que andar um pouco. Ok, vamos ir![n][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 6127 65535 0]Deve estar em uma área[n]residencial na Central Street.[n][w][e]
+[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Teremos que andar um pouco.[n]OK, vamos andando![n][w][e]
 
 [msg MSG_E24420300_NG_CENTER_ [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 7018 65535 0]Vamos direto para lá. Aquele jornalista está[n]esperando por nós, certo?[n][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 7018 65535 0]Vamos por aqui.[n]Aquela repórter[n]está esperando por nós, não está?[n][w][e]
 
 [msg MND_E10920100_NG_UNDER_0]
-[s][vp 1 0 0 0 0 0]Não tenho tempo para voltar no subsolo. É[n]melhor eu me apressar para o [n][clr 2]Linha de ginza [clr 27]por agora...[n][w][e]
+[s][vp 1 0 0 0 0 0]Não tenho tempo de descer as escadas.[n]Por enquanto, é melhor ir[n]rapidamente para a [clr 2]linha de Ginza[clr 27]...[n][w][e]
 
 [msg MND_E12710100_NG_UNDER_0]
-[s][vp 1 0 0 0 0 0]Não tenho tempo para voltar no subsolo. É[n]melhor transferir para o [n][clr 2]Linha de ginza [clr 27]e ir para a escola...[n][w][e]
+[s][vp 1 0 0 0 0 0]Não tenho tempo de descer.[n]Melhor pegar a[n][clr 2]linha de Ginza[clr 27] e ir para a escola...[n][w][e]
 
 [msg MSG_E19310100_NG_UNDER_C [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 6001 65535 0]Algo errado? Vamos lá, vamos para a Central[n]Street.[n][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 6001 65535 0]Há algo errado?[n]Vamos, vamos para a[n]Central Street.[n][w][e]
 
 [msg MSG_E24420300_NG_UNDER_C [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 7018 65535 0]Não é esse o caminho para sua casa? Vamos[n]lá, temos que entrar no JL.[n][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 7018 65535 0]Não podemos ir para sua casa de lá?[n]Vamos, temos que pegar o JL.[n][w][e]
 
 [msg MSG_E19310100_NG_UNDER_Y [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 7114 65535 0]Uau, onde você vai?[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Já vamos ao lugar de Madarame.[n]Não é para a Central Street?[n][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 7114 65535 0]Ei onde você está indo?[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Vamos, vamos para a casa de[n]Madarame. Não é na[n]Central Street?[n][w][e]
 
 [msg MSG_E24420300_NG_UNDER_Y [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 7156 65535 0]Não temos que sair aqui. Está ao lado do[n]portão de ingressos.[n][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 7156 65535 0]Não precisamos descer aqui.[n]É bem perto[n]das catracas.[n][w][e]
 
 [msg MND_E10920100_NG_YAMANOT]
-[s][vp 1 0 0 0 0 0]Aí está o portão de ingressos da JL Line.[n][w][e]
-[s][vp 1 0 0 0 0 0]Se bem me lembro corretamente, eu deveria[n]ser transferido para o [n][clr 2]Linha de ginza [clr 27]para chegar à escola.[n][w][e]
+[s][vp 1 0 0 0 0 0]Aqui estão as catracas da linha JL.[n][w][e]
+[s][vp 1 0 0 0 0 0]Se bem me lembro, para chegar à[n]escola tenho que pegar[n]a [clr 2]linha de Ginza[clr 27].[n][w][e]
 
 [msg MND_E12710100_NG_YAMANOT]
-[s][vp 1 0 0 0 0 0]Aí está o portão de ingressos da JL Line.[n][w][e]
-[s][vp 1 0 0 0 0 0]Se bem me lembro corretamente, eu deveria[n]ser transferido para o [n][clr 2]Linha de ginza [clr 27]para chegar à escola.[n][w][e]
+[s][vp 1 0 0 0 0 0]Aqui estão as catracas da linha JL.[n][w][e]
+[s][vp 1 0 0 0 0 0]Se bem me lembro, para chegar à[n]escola tenho que pegar[n]a [clr 2]linha de Ginza[clr 27].[n][w][e]
 
 [msg MND_E14410100_NG_YAMANOT]
-[s][vp 1 0 0 0 0 0]Por enquanto, é melhor me apressar e[n]encontrar Ann...[n][w][e]
+[s][vp 1 0 0 0 0 0]Por enquanto, é melhor eu me apressar e encontrar[n]Ann...[n][w][e]
 
 [msg MSG_E18010400_NG_YAMANOT [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 65535 1183 0 0]Onde você está indo? Vamos olhar um pouco[n]mais para as lojas que podem comprar coisas[n]de nós...[n][w][e]
-[s][f 4 10 65535 0 0][vp 1 0 0 0 0 0]...Oh sim! Essa loja de armas pagará pelas[n]coisas que as pessoas trazem, certo?[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 65535 1187 0 0]Vamos tentar esse lugar![n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 65535 1183 0 0]Onde você está indo? Ainda estamos procurando[n]algumas lojas dispostas a[n]comprar algo de nós...[n][w][e]
+[s][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Oh sim! Aquela loja de armas[n]compra itens, certo?[n]Vamos tentar![n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 65535 1187 0 0]Vamos tentar![n][w][e]
 
 [msg MSG_E19310100_NG_YAMANOT [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 65535 1001 0 0]Onde você está indo? Não devemos estar indo[n]para a Central Street?[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 65535 1001 0 0]Onde você está indo?[n]Não deveríamos ir[n]para a Central Street?[n][w][e]
 
 [msg MSG_E24310100_NG_YAMANOT [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 65535 1001 0 0]Ei onde você está indo? Você não tentaria[n]encontrar mais informações?[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 65535 1001 0 0]Ei, onde você está indo?[n]Você não queria procurar[n]outras informações?[n][w][e]
 
 [msg MSG_E24330100_NG_YAMANOT [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 65535 1003 0 0]Onde você está indo? Eu pensei que você[n]deveria estar explorando Shibuya...[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 65535 1003 0 0]Onde você está indo? Achei que você deveria[n]explorar Shibuya...[n][w][e]
 
 [msg MSG_E24420300_YAMANOTE_0 [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 7045 65535 0]Aight, vamos para Shinjuku![n][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 7045 65535 0]Excelente! Vamos[n]para Shinjuku![n][w][e]
 
 [msg MSG_SPOT_OPEN_SHINJUKU]
-[s]Agora você pode ir para [clr 2]Shinjuku [clr 27].[n][w][e]
+[s]Agora você pode ir para [clr 2]Shinjuku[clr 27].[n][w][e]
 
 [msg MSG_MONEY_MORGANA_CHK_00 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 65535 1192 0 0]Shinjuku está fora da área onde seu passe de[n]passageiro funciona, certo?[n]Você terá que pagar uma tarifa.[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 65535 1192 0 0]Shinjuku está fora da área[n]coberta por sua assinatura,[n]certo? Você terá que comprar o ingresso.[n][w][e]
 
 [msg MSG_MONEY_MORGANA_CHK_01 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 65535 1001 0 0]Oh, você não tem dinheiro suficiente?[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Vou te dar um pouco do meu esconderijo[n]secreto por enquanto, mas certifique-se de[n]ter alguns com você na próxima vez.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Vou dar-lhe alguns dos meus fundos de[n]emergência, mas da próxima vez[n]lembre-se de trazê-los.[n][w][e]
 
 [msg MND_E65010100_NG_YAMANOT]
-[s][vp 8 2 65535 0 0 0]Se eu quiser ir para Kichijoji, terei que[n]usar a linha Inogami...[n][w][e]
+[s][vp 8 2 65535 0 0 0]Para ir a Kichijoji[n]eu tenho que pegar a Linha Inogami...[n][w][e]
 
 [msg MSG_E18010300_NG_HIROBA_ [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 65535 1027 0 0]Havia alguma loja por aqui que comprará[n]coisas de nós?[n][w][e]
-[s][f 4 10 65535 0 0][vp 1 0 0 0 0 0]...Oh sim! Essa loja de armas pagará pelas[n]coisas que as pessoas trazem, certo?[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 65535 1187 0 0]Vamos tentar esse lugar![n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 65535 1027 0 0]Há alguma loja por aqui[n]que compre algo[n]nosso?[n][w][e]
+[s][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Oh sim! Aquela loja de armas[n]compra itens, certo?[n]Vamos tentar![n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 65535 1187 0 0]Vamos tentar![n][w][e]
 
 [msg MSG_E19310100_NG_HIROBA_ [Ryuji]]
-[s][bup 0 2 4 65535 0][f 4 10 65535 0 0][vp 8 2 1 7190 65535 0]Isso não nos leva de volta do jeito que[n]chegamos? Eu ouço onde queremos ir além da[n]rua central.[n][w][e]
+[s][bup 0 2 4 65535 0][f 4 10 65535 0 0][vp 8 2 1 7190 65535 0]Então não vamos voltar?[n]Eu sei que o lugar que estamos procurando[n]é na Central Street.[n][w][e]
 
 [msg MSG_E24420300_NG_HIROBA_ [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 7197 65535 0]Por que voltamos do jeito que chegamos?[n]Temos que virar à direita quando chegarmos à[n]praça.[n][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 7197 65535 0]Por que estamos voltando?[n]Depois de chegar à praça[n]precisamos virar à direita.[n][w][e]
 
 [msg MSG_E65010300_NG_HIROBA_ [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 1188 65535 0]Ei onde você está indo? O portão de[n]ingressos para a linha Inogami está no[n]shopping underground.[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 1188 65535 0]Ei onde você está indo? As[n]catracas da Linha Inogami estão[n]no shopping subterrâneo.[n][w][e]
 
 [msg MND_E10920100_CHK_LOTTER]
-[s][vp 1 0 0 0 0 0]Este lugar aqui vende bilhetes de loteria.[n][w][e]
-[s][vp 1 0 0 0 0 0]É melhor eu me apressar para o [clr 2]Linha de ginza [clr 27]por agora...[n][w][e]
+[s][vp 1 0 0 0 0 0]Este lugar vende[n]bilhetes de loteria.[n][w][e]
+[s][vp 1 0 0 0 0 0]Por enquanto, é melhor ir[n]rapidamente para a [clr 2]linha de Ginza[clr 27]...[n][w][e]
 
 [msg MND_E12710100_CHK_LOTTER]
-[s][vp 1 0 0 0 0 0]Este lugar aqui vende bilhetes de loteria.[n][w][e]
-[s][vp 1 0 0 0 0 0]É melhor eu me apressar para o [clr 2]Linha de ginza [clr 27]por agora...[n][w][e]
+[s][vp 1 0 0 0 0 0]Este lugar vende[n]bilhetes de loteria.[n][w][e]
+[s][vp 1 0 0 0 0 0]Por enquanto, é melhor ir[n]rapidamente para a [clr 2]linha de Ginza[clr 27]...[n][w][e]
 
 [msg MND_E14410100_CHK_LOTTER]
-[s][vp 1 0 0 0 0 0]É melhor eu me apressar e encontrar Ann...[n][w][e]
+[s][vp 1 0 0 0 0 0]Preciso encontrar Ann rapidamente...[n][w][e]
 
 [msg MSG_E19310100_CHK_LOTTER [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 7048 65535 0]Oh, você pensa em comprar alguns ingressos[n]para loteria?[n][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 7048 65535 0]Oh, você quer comprar alguns[n]bilhetes de loteria?[n][w][e]
 
 [msg MSG_E19310100_CHK_LOTTER_2 [Morgana]]
-[s][bup 0 3 5 65535 0][f 4 10 65535 0 0][vp 8 2 65535 1190 0 0]Você ainda tem tempo para isso? Vamos nos[n]apressar e ir para a casa de Madarame![n][w][e]
+[s][bup 0 3 5 65535 0][f 4 10 65535 0 0][vp 8 2 65535 1190 0 0]E onde você consegue seu tempo?[n]Vamos nos apressar para a casa de[n]Madarame![n][w][e]
 
 [msg MSG_E24420300_CHK_LOTTER [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 7114 65535 0]Basta comprar essas coisas mais tarde. Temos[n]que nos correr para Shinjuku.[n][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 7114 65535 0]Compre essas coisas mais tarde.[n]Temos que ir para Shinjuku agora.[n][w][e]
 
 [msg MND_COMMON_CHK_LOTTERY_S]
-[s][vp 1 0 0 0 0 0]Isso não é hora de desvios...[n][w][e]
+[s][vp 1 0 0 0 0 0]Não há tempo para desvios...[n][w][e]
 
 [msg MND_E10920100_CHK_HACHI_]
-[s][vp 1 0 0 0 0 0]É aquela estátua famosa desse cão fiel.[n][w][e]
-[s][vp 1 0 0 0 0 0]Parece que as pessoas o usam como um marco[n]onde podem se encontrar...[n][w][e]
+[s][vp 1 0 0 0 0 0]É a famosa estátua daquele cão fiel.[n][w][e]
+[s][vp 1 0 0 0 0 0]Parece que as pessoas o usam[n]como um ponto de referência[n]para atender...[n][w][e]
 
 [msg MND_E12710100_CHK_HACHI_]
-[s][vp 1 0 0 0 0 0]É aquela estátua famosa desse cão fiel.[n][w][e]
-[s][vp 1 0 0 0 0 0]Parece que as pessoas o usam como um marco[n]onde podem se encontrar...[n][w][e]
+[s][vp 1 0 0 0 0 0]É a famosa estátua daquele cão fiel.[n][w][e]
+[s][vp 1 0 0 0 0 0]Parece que as pessoas o usam[n]como um ponto de referência[n]para atender...[n][w][e]
 
 [msg MND_E14410100_CHK_HACHI_]
-[s][vp 1 0 0 0 0 0]É melhor eu me apressar e encontrar Ann...[n][w][e]
+[s][vp 1 0 0 0 0 0]Preciso encontrar Ann rapidamente...[n][w][e]
 
 [msg MSG_E19310100_CHK_HACHI_ [Ryuji]]
-[s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 2 1 7115 65535 0]Esta estátua não está indo embora. Você pode[n]olhar para Buchiko em qualquer outro[n]momento. Vamos ir para Madarame.[n][w][e]
+[s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 2 1 7115 65535 0]Essa estátua não vai a lugar nenhum. Você vai[n]admirar Buchiko mais uma vez. Agora vamos ao[n]Madarame.[n][w][e]
 
 [msg MSG_E19310100_CHK_HACHI__2 [Ann]]
-[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 6166 65535 0]Eu acho que há mais pessoas por aqui do que[n]o habitual.[n][w][e]
+[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 6166 65535 0]Parece-me que por aqui tem mais gente do que o[n]normal.[n][w][e]
 
 [msg MSG_E19310100_CHK_HACHI__3 [Ryuji]]
-[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Talvez seja porque ele tem uma exposição em[n]andamento. Madarame é tão famosa, hein?[n][w][e]
+[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Talvez seja porque há[n]sua exposição. Madarame é[n]muito famoso, hein?[n][w][e]
 
 [msg MSG_E24420300_CHK_HACHI_ [Ryuji]]
-[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 7038 65535 0]Eu sabia que estaria lotado. Ainda bem que[n]decidimos nos encontrar no nível superior.[n][w][e]
+[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 7038 65535 0]Eu estava esperando essa multidão.[n]Graças a Deus decidimos[n]nos encontrar lá em cima.[n][w][e]
 
 [msg MND_COMMON_CHK_HACHI_KOU]
-[s][vp 1 0 0 0 0 0]É melhor eu me apressar no meu caminho...[n][w][e]
+[s][vp 1 0 0 0 0 0]é melhor eu me apressar...[n][w][e]
 
 [msg MND_E10920100_CHK_SMOKE_]
-[s][vp 1 0 0 0 0 0]Esta parece ser uma área de fumantes. Não é[n]lugar para os menores ficarem por aí...[n][w][e]
+[s][vp 1 0 0 0 0 0]Parece uma área para fumantes.[n]Menores não devem[n]ficar lá...[n][w][e]
 
 [msg MND_E12710100_CHK_SMOKE_]
-[s][vp 1 0 0 0 0 0]Esta parece ser uma área de fumantes. Não é[n]lugar para os menores ficarem por aí...[n][w][e]
+[s][vp 1 0 0 0 0 0]Parece uma área para fumantes.[n]Menores não devem[n]ficar lá...[n][w][e]
 
 [msg MND_E14410100_CHK_SMOKE_]
-[s][vp 1 0 0 0 0 0]É melhor eu me apressar e encontrar Ann...[n][w][e]
+[s][vp 1 0 0 0 0 0]Preciso encontrar Ann rapidamente...[n][w][e]
 
 [msg MSG_E19310100_CHK_SMOKE_ [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 65535 1190 0 0]Ei, não há nada que você precise fazer aqui,[n]certo?[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 65535 1190 0 0]Ei, você não tem nada para fazer aqui, certo?[n][w][e]
 
 [msg MSG_E24420300_CHK_SMOKE_ [Ryuji]]
-[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 7040 65535 0]Este lugar é fedorento de cigarro. Vamos[n]apenas entrar no trem.[n][w][e]
+[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 7040 65535 0]Este lugar cheira a[n]cigarros. Vamos para[n]entrar no trem.[n][w][e]
 
 [msg MND_COMMON_CHK_SMOKE_SPA]
-[s][vp 1 0 0 0 0 0]Não há nada que eu precise fazer aqui...[n][w][e]
+[s][vp 1 0 0 0 0 0]Não preciso fazer nada aqui...[n][w][e]
 
 [msg MND_E10920100_CHK_STREET]
-[s][vp 1 0 0 0 0 0]Parece que esta barraca de rua vende[n]revistas e jornais...[n][w][e]
+[s][vp 1 0 0 0 0 0]Parece que este quiosque vende[n]jornais e revistas...[n][w][e]
 
 [msg MND_E12710100_CHK_STREET]
-[s][vp 1 0 0 0 0 0]Parece que esta barraca de rua vende[n]revistas e jornais...[n][w][e]
+[s][vp 1 0 0 0 0 0]Parece que este quiosque vende[n]jornais e revistas...[n][w][e]
 
 [msg MND_E14410100_CHK_STREET]
-[s][vp 1 0 0 0 0 0]É melhor eu me apressar e encontrar Ann...[n][w][e]
+[s][vp 1 0 0 0 0 0]Preciso encontrar Ann rapidamente...[n][w][e]
 
 [msg MSG_E19310100_CHK_STREET [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 7088 65535 0]HM? Você está olhando para o mangá?[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu já li as coisas que saíram esta semana.[n]Já podemos ir ao lugar de Madarame?[n][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 7088 65535 0]Hum? Você está assistindo mangá?[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Já li os novos lançamentos[n]da semana. Resumindo, vamos[n]para a casa do Madarame?[n][w][e]
 
 [msg MSG_E24420300_CHK_STREET [Ryuji]]
-[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 7167 65535 0]Não há nada de que precisamos aqui. Já vamos[n]para Shinjuku.[n][w][e]
+[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 7167 65535 0]Não temos nada para fazer aqui.[n]Vamos, vamos para Shinjuku.[n][w][e]
 
 [msg MND_COMMON_CHK_STREET_SH]
-[s][vp 1 0 0 0 0 0]Isso não é hora de desvios...[n][w][e]
+[s][vp 1 0 0 0 0 0]Não há tempo para desvios...[n][w][e]
 
 [msg MND_E10920100_CHK_GUIDE_]
-[s][vp 1 0 0 0 0 0]Há um mapa-guia da área.[n][w][e]
-[s][vp 1 0 0 0 0 0]A plataforma para a linha Ginza é [clr 2]Dentro do edifício Teikyu, que fica ao lado[n]aqui  [clr 27]...[n][w][e]
+[s][vp 1 0 0 0 0 0]Existe um mapa da área.[n][w][e]
+[s][vp 1 0 0 0 0 0]A plataforma da Linha Ginza[n]é [clr 2]no Edifício Teikyu,[n]perto daqui[clr 27]...[n][w][e]
 
 [msg MND_E12710100_CHK_GUIDE_]
-[s][vp 1 0 0 0 0 0]Há um mapa-guia da área.[n][w][e]
-[s][vp 1 0 0 0 0 0]A plataforma para a linha Ginza é [clr 2]Dentro do edifício Teikyu, que fica ao lado[n]aqui  [clr 27]...[n][w][e]
+[s][vp 1 0 0 0 0 0]Existe um mapa da área.[n][w][e]
+[s][vp 1 0 0 0 0 0]A plataforma da Linha Ginza[n]é [clr 2]no Edifício Teikyu,[n]perto daqui[clr 27]...[n][w][e]
 
 [msg MND_E14410100_CHK_GUIDE_]
-[s][vp 1 0 0 0 0 0]É melhor eu me apressar e encontrar Ann...[n][w][e]
+[s][vp 1 0 0 0 0 0]Preciso encontrar Ann rapidamente...[n][w][e]
 
 [msg MSG_E19310100_CHK_GUIDE_ [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 7168 65535 0]Você perdeu? Eu sei que ele é famoso e tudo,[n]mas acho que eles não vão colocar a casa[n]dele naquele mapa.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Vamos começar a Headin 'para a Central[n]Street.[n][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 7168 65535 0]Você perdeu? Eu sei que ele é famoso,[n]mas não acho que eles colocaram[n]a casa dele naquele mapa.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Primeiro, vamos para a[n]Central Street.[n][w][e]
 
 [msg MSG_E24420300_CHK_GUIDE_ [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 7183 65535 0]O que está errado? Você vai ver os portões[n]de ingresso quando entrarmos nessa área.[n][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 7183 65535 0]O que há de errado?[n]No início dessa área, há[n]algumas catracas em exibição.[n][w][e]
 
 [msg MND_COMMON_CHK_GUIDE_BOA]
-[s][vp 1 0 0 0 0 0]É melhor eu me apressar no meu caminho...[n][w][e]
+[s][vp 1 0 0 0 0 0]é melhor eu me apressar...[n][w][e]
 
 [msg MND_E10920100_CHK_CM_BOA]
-[s][vp 1 0 0 0 0 0]É um outdoor enorme.[n]Não sei dizer qual é a imagem inteira se eu[n]ficar muito perto...[n][w][e]
+[s][vp 1 0 0 0 0 0]É um outdoor enorme.[n]Se eu ficar muito perto, não consigo[n]capturar a imagem inteira...[n][w][e]
 
 [msg MND_E12710100_CHK_CM_BOA]
-[s][vp 1 0 0 0 0 0]É um outdoor enorme.[n]Não sei dizer qual é a imagem inteira se eu[n]ficar muito perto...[n][w][e]
+[s][vp 1 0 0 0 0 0]É um outdoor enorme.[n]Se eu ficar muito perto, não consigo[n]capturar a imagem inteira...[n][w][e]
 
 [msg MND_E14410100_CHK_CM_BOA]
-[s][vp 1 0 0 0 0 0]É melhor eu me apressar e encontrar Ann...[n][w][e]
+[s][vp 1 0 0 0 0 0]Preciso encontrar Ann rapidamente...[n][w][e]
 
 [msg MSG_E19310100_CHK_CM_BOA [Ann]]
-[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 6168 65535 0]Não é mais fácil olhar para ele à distância[n]se for tão enorme?[n][w][e]
-[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ok, devemos ir para a casa de Madarame.[n][w][e]
+[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 6168 65535 0]Não é mais fácil olhar para coisas tão grandes de[n]afar?[n][w][e]
+[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]OK, devemos ir para a casa de[n]Madarame.[n][w][e]
 
 [msg MSG_E24420300_CHK_CM_BOA [Ryuji]]
-[s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 2 1 7196 65535 0]Whaddya parecendo? Isso não é nada especial.[n][w][e]
+[s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 2 1 7196 65535 0]O que você está olhando?[n]Não é nada especial.[n][w][e]
 
 [msg MND_COMMON_CHK_CM_BOARD_]
-[s][vp 1 0 0 0 0 0]Não tenho tempo para olhar de lazer em um[n]anúncio agora...[n][w][e]
+[s][vp 1 0 0 0 0 0]Agora não tenho tempo para[n]assistir[n]anúncios...[n][w][e]
 
 [msg MND_E10920100_CHK_TICKET]
-[s][vp 1 0 0 0 0 0]É uma fileira de máquinas de ingressos da JL[n]Line. Eu preciso transferir para o [n][clr 2]Linha de ginza [clr 27]para chegar à escola.[n][w][e]
+[s][vp 1 0 0 0 0 0]Máquinas automáticas de venda da linha JL. Para[n]chegar à escola tenho que pegar a [clr 2]linha[n]Ginza[clr 27].[n][w][e]
 
 [msg MND_E12710100_CHK_TICKET]
-[s][vp 1 0 0 0 0 0]É uma fileira de máquinas de ingressos da JL[n]Line. Eu preciso transferir para o [n][clr 2]Linha de ginza [clr 27]para chegar à escola.[n][w][e]
+[s][vp 1 0 0 0 0 0]Máquinas automáticas de venda da linha JL. Para[n]chegar à escola tenho que pegar a [clr 2]linha[n]Ginza[clr 27].[n][w][e]
 
 [msg MND_E14410100_CHK_TICKET]
-[s][vp 1 0 0 0 0 0]É melhor eu me apressar e encontrar Ann...[n][w][e]
+[s][vp 1 0 0 0 0 0]Preciso encontrar Ann rapidamente...[n][w][e]
 
 [msg MSG_E19310100_CHK_TICKET [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 6001 65535 0]O que está errado? Temos que passar por esse[n]ponto para chegar aonde estamos indo.[n][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 6001 65535 0]O que há de errado?[n]Precisamos passar por este ponto[n]para chegar ao nosso destino.[n][w][e]
 
 [msg MSG_E24420300_CHK_TICKET [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 7088 65535 0]Você realmente precisa carregar?[n][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 7088 65535 0]Você realmente tem que fazer isso?[n][w][e]
 
 [msg MND_COMMON_CHK_TICKET_MA]
-[s][vp 1 0 0 0 0 0]É uma fileira de máquinas de ingressos da JL[n]Line. Não preciso usá-los por enquanto.[n][w][e]
+[s][vp 1 0 0 0 0 0]Várias máquinas de bilhetes[n]na linha JL.[n]Não preciso delas agora.[n][w][e]
 
 [msg MND_E10920100_CHK_STAIRS]
-[s][vp 1 0 0 0 0 0]Essas escadas lideram o subsolo.[n]Não parece que vou encontrar o [clr 2]Linha de ginza [clr 27]indo por aqui...[n][w][e]
+[s][vp 1 0 0 0 0 0]Essas escadas descem.[n]Não penso assim[n]Vou encontrar a [clr 2]linha de Ginza[clr 27]...[n][w][e]
 
 [msg MND_E12710100_CHK_STAIRS]
-[s][vp 1 0 0 0 0 0]Não há nada que eu precise fazer à frente. É[n]melhor eu me apressar e seguir para a[n]escola...[n][w][e]
+[s][vp 1 0 0 0 0 0]Eu não tenho que fazer nenhuma das[n]acima. É melhor eu me apressar[n]para chegar à escola...[n][w][e]
 
 [msg MND_E14410100_CHK_STAIRS]
-[s][vp 1 0 0 0 0 0]É melhor eu me apressar e encontrar Ann...[n][w][e]
+[s][vp 1 0 0 0 0 0]Preciso encontrar Ann rapidamente...[n][w][e]
 
 [msg MSG_E19310100_CHK_STAIRS [Ann]]
-[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 6021 65535 0]Acho que devemos ir em direção à casa de[n]Madarame da Central Street.[n][w][e]
+[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 6021 65535 0]Acho que devemos ir[n]para a casa de Madarame[n]da Central Street.[n][w][e]
 
 [msg MSG_E24420300_CHK_STAIRS [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 7155 65535 0]Essa é a maneira de chegar ao metrô.[n]Vamos lá, o JL é assim.[n][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 7155 65535 0]Daquele lado você vai[n]em direção ao metrô.[n]Vamos, o JL é por aqui.[n][w][e]
 
 [msg MND_COMMON_CHK_STAIRS_LO]
-[s][vp 1 0 0 0 0 0]Não há nada que eu precise fazer à frente...[n][w][e]
+[s][vp 1 0 0 0 0 0]Não preciso fazer nada[n]depois...[n][w][e]
 
 [msg MND_E10920100_CHK_DEADEN]
-[s][vp 1 0 0 0 0 0]Não parece que vou encontrar o [clr 2]Linha de ginza [clr 27]indo por aqui...[n][w][e]
+[s][vp 1 0 0 0 0 0]Acho que não vou encontrar a [clr 2]linha de[n]Ginza[clr 27] assim ...[n][w][e]
 
 [msg MND_E12710100_CHK_DEADEN]
-[s][vp 1 0 0 0 0 0]Não há nada que eu precise fazer à frente. É[n]melhor eu me apressar e seguir para a[n]escola...[n][w][e]
+[s][vp 1 0 0 0 0 0]Eu não tenho que fazer nenhuma das[n]acima. É melhor eu me apressar[n]para chegar à escola...[n][w][e]
 
 [msg MND_E14410100_CHK_DEADEN]
-[s][vp 1 0 0 0 0 0]É melhor eu me apressar e encontrar Ann...[n][w][e]
+[s][vp 1 0 0 0 0 0]Preciso encontrar Ann rapidamente...[n][w][e]
 
 [msg MSG_E19310100_CHK_DEADEN [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 7156 65535 0]Não é esse o longo caminho? Temos que ir em[n]direção à Central Street.[n][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 7156 65535 0]Este não é o caminho mais longo? Temos que ir em[n]direção à Central Street.[n][w][e]
 
 [msg MSG_E24420300_CHK_DEADEN [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 7197 65535 0]Ei, você está indo do caminho errado.[n]JL está do outro lado.[n][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 7197 65535 0]Ei, não ali.[n]A linha JL fica do outro lado.[n][w][e]
 
 [msg MND_COMMON_CHK_DEADEND01]
-[s][vp 1 0 0 0 0 0]Não há nada que eu precise fazer à frente...[n][w][e]
+[s][vp 1 0 0 0 0 0]Não preciso fazer nada[n]depois...[n][w][e]
 
 [msg MSG_SPOT_GO_YAMANOTE]
-[s]Eu deveria usar o [clr 6]Linha Yamanote [clr 0]...[n][w][e]
+[s]Eu deveria pegar a[n][clr 6]linha Yamanote[clr 0]...[n][w][e]
 
 [msg MSG_SPOT_GO_INOKASIRA]
-[s]Eu deveria usar o [clr 6]Linha Inokashira [clr 0]...[n][w][e]
+[s]Eu deveria pegar a[n][clr 6]Linha Inokashira[clr 0]...[n][w][e]
 
 [msg MSG_SPOT_GO_GINZALINE]
-[s]Eu deveria usar o [clr 6]Linha de ginza [clr 0]...[n][w][e]
+[s]Eu deveria pegar a[n][clr 6]linha Ginza[clr 0]...[n][w][e]
 
 [msg MSG_SPOT_ACCESS_LOT]
-[s]Não tenho tempo para comprar ingressos para[n]loteria...[n][w][e]
+[s]Não tenho tempo para comprar[n]bilhetes de loteria...[n][w][e]
 
 [msg MSG_SPOT_ACCESS_HATIKO]
-[s]É aquela estátua famosa desse cão fiel.[n][w][e]
+[s]É a famosa estátua daquele cão fiel.[n][w][e]
 
 [msg MSG_SPOT_ACCESS_SMOKE]
-[s]Há muita fumaça nesta área de fumantes...[n][w][e]
+[s]Esta área para fumantes está[n]cheia de fumaça...[n][w][e]
 

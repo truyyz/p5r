@@ -12,5 +12,5 @@
 [s]1000万枚のコインを所持しなければ[n]天秤が動かず、先へ行けない。[n][w][e]
 
 [msg D6_16_EV_LOCK [Akechi]]
-[s]Devemos perseguir depois de nossa promotora[n]feminina por enquanto.[n][w][e]
+[s]Por enquanto, devemos ir atrás de nosso[n]procurador.[n][w][e]
 

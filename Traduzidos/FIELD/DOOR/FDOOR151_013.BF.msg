@@ -1,5 +1,5 @@
 [msg NOT_OPEN_DOOR]
-[s]A porta está bem selada.[n][w][e]
+[s]A porta está completamente selada.[n][w][e]
 
 [msg LOCK_DOOR]
 [s]A porta está trancada.[n][w][e]

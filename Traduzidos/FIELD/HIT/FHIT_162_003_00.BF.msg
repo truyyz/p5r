@@ -2,121 +2,121 @@
 [s]Fictício?[n][w][e]
 
 [msg D10_03_look_at_researche [Ann]]
-[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ei! Olhe para essa sombra.[n][w][e]
+[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ei! Olhe para aquela sombra.[n][w][e]
 
 [msg D10_10_CardCheck_denied [Akechi]]
-[s][bup 0 9 810 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu não acho que você terá nada útil ao[n]examinar isso.[n][w][e]
+[s][bup 0 9 810 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Você não obterá nada de útil[n]analisando essa coisa.[n][w][e]
 
 [msg D10_10_CardCheck_First_S [Akechi]]
-[s][bup 0 9 800 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 8127 65535 0]Parece ser algum tipo de dispositivo de[n]autenticação.[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos precisar do ID adequado para[n]prosseguir mais.[n][w][e]
+[s][bup 0 9 800 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 8127 65535 0]Parece algum tipo de[n]dispositivo de identificação.[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Precisamos do ID correto para[n]continuar.[n][w][e]
 
 [msg D10_10_CardCheck_First_E [Akechi]]
-[s][bup 0 9 800 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]De qualquer forma, não estamos indo dessa[n]maneira. Vamos esquecer por enquanto.[n][w][e]
+[s][bup 0 9 800 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Não precisamos ir por esse caminho.[n]Vamos deixar isso de lado, por enquanto.[n][w][e]
 
 [msg D10_03_look_at_researche_2 [[f 4 31 10 0]]]
-[s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 57047 65535 0]Aí está aquela sombra. Devemos ir em frente?[n][w][e]
+[s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 57047 65535 0]Existe aquela Sombra. Intervimos?[n][w][e]
 
 [sel D10_03_look_at_researche_3 top]
 [s]Vamos fazê-lo.[e]
 [s]Ainda não.[e]
 
 [msg D10_03_look_at_researche_4 [[f 4 31 10 0]]]
-[s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 57186 65535 0]OK. Avise-me quando estiver pronto.[n][w][e]
+[s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 57186 65535 0]OK. Avise-me quando estiver livre.[n][w][e]
 
 [msg D10_03_look_at_researche_5 [Futaba]]
-[s][bup 0 8 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Espere, aguarde! Ele está se comunicando com[n]outra sombra.[n][w][e]
-[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9089 65535 0]Eu poderia ser capaz de interceptar algumas[n]informações úteis.[n][w][e]
+[s][bup 0 8 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Um momento! Ele está conversando com outra sombra.[n][w][e]
+[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9089 65535 0]Eu deveria ser capaz de obter algumas[n]informações úteis.[n][w][e]
 
-[msg D10_03_look_at_researche_6 [Patrolman]]
-[s]Você deve voltar para sua postagem. Você[n]deveria estar na sala de observação.[n][w][e]
-[s]E fique com o plano- não vá agir por conta[n]própria.[n][w][e]
+[msg D10_03_look_at_researche_6 [Agente]]
+[s]Volte para seu lugar. Você deve estar na sala de[n]observação.[n][w][e]
+[s]Siga o plano. Não[n]aja por conta própria.[n][w][e]
 
-[msg D10_03_look_at_researche_7 [Guard]]
-[s]Estou apenas tentando eliminar riscos[n]potenciais para o nosso mestre.[n][w][e]
-[s]Mas acho que não deveria manter minha[n]identidade em mim lá fora... tudo bem.[n]Voltarei ao meu post.[n][w][e]
+[msg D10_03_look_at_researche_7 [Guardia]]
+[s]Estou apenas tentando eliminar[n]potenciais ameaças ao mestre.[n][w][e]
+[s]Mas acho melhor evitar[n]levar o cartão comigo,[n]aqui. OK. Estou de volta à posição.[n][w][e]
 
 [msg D10_03_look_at_researche_8 [Futaba]]
-[s][bup 0 8 3 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9040 65535 0]Wha-!? Desculpe, Joker...[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Essa sombra está prestes a sair![n]Emboscá-lo! Rápido! Vai! Vai! Vai![n][w][e]
+[s][bup 0 8 3 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9040 65535 0]O que..!? Desculpa Joker...[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Essa sombra está prestes a ir embora![n]Leve-o! Rápido! Vai! Vai! Vai![n][w][e]
 
 [msg D10_03_look_at_researche_9 [[f 4 31 10 0]]]
-[s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 57144 65535 0]Devemos, Joker-senpai?[n][w][e]
+[s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 57144 65535 0]O que você está dizendo, Joker-senpai?[n][w][e]
 
-[msg D10_03_researcher_battle [Guard]]
-[s]O que os ladrões Phantom![n]Devo ter sido seguido![n][w][e]
+[msg D10_03_researcher_battle [Guardia]]
+[s]Coisa? Os Ladrões Fantasmas![n]Eles devem ter me seguido![n][w][e]
 
-[msg D10_03_researcher_battle_2 [Patrolman]]
-[s]Droga! Eu te disse! Agora temos que[n]eliminá-los! Para o nosso Masterrr![n][w][e]
+[msg D10_03_researcher_battle_2 [Agente]]
+[s]Xingamento! Eu avisei![n]Agora temos que eliminá-los![n]Pelo mestreeeee![n][w][e]
 
-[msg D10_03_researcher_battle_3 [Guard]]
-[s]Então você está atrás da minha identidade,[n]hein? Bem, eu não vou entregar tão[n]facilmente![n][w][e]
+[msg D10_03_researcher_battle_3 [Guardia]]
+[s]Você quer meu cartão, hein? Bem,[n]você terá que merecê-lo![n][w][e]
 
 [msg D10_03_researcher_battle_4]
-[s]Não vou deixar você usar mal a pesquisa do[n]Dr. Maruki novamente! É aqui que seu[n]esquema termina![n][w][e]
+[s]Não vou deixar você explorar a pesquisa do[n]Doutor Maruki novamente! Você terminou![n][w][e]
 
 [msg D10_03_researcher_battle_5 [Yusuke]]
-[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Lá vem eles![n][w][e]
+[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eles chegaram![n][w][e]
 
 [msg D10_03_ID_Door_Open01 [[f 4 31 10 0]]]
-[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 57051 65535 0]Sim! Está aberto agora![n][w][e]
+[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 57051 65535 0]Sim, agora está aberto![n][w][e]
 
 [msg D10_03_ID_Door_Open02 [Morgana]]
-[s][bup 0 3 3 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Não exploramos nada além dessa porta...[n][w][e]
-[s]E esse scanner de ID tem que estar lá por um[n]motivo. Eles poderiam estar no passado de[n]alerta aqui.[n][w][e]
-[s]Vamos ter cuidado lá fora.[n]Certo, Violet?[n][w][e]
+[s][bup 0 3 3 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Nós não vimos o que[n]está atrás desta porta...[n][w][e]
+[s]Esse scanner deve estar aqui por[n]um motivo. Portanto, a vigilância[n]poderia ser mais rigorosa.[n][w][e]
+[s]Tenha cuidado lá fora.[n]OK, Violet?[n][w][e]
 
 [msg D10_03_ID_Door_Open03 [[f 4 31 10 0]]]
-[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 57026 65535 0]Oh! Ah, sim, Mona-senpai![n][w][e]
+[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 57026 65535 0]Oh! Ah sim, Mona-senpai![n][w][e]
 
 [msg D10_10_CardCheck_Second_ [[f 4 31 10 0]]]
-[s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Qual é o problema, Senpai?[n][w][e]
+[s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]O que está acontecendo, senpai?[n][w][e]
 
 [msg D10_10_CardCheck_Second__2 [[f 4 31 10 0]]]
-[s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Não parece que vai abrir para nós. Vamos[n]continuar pesquisando.[n][w][e]
+[s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Parece que não abre...[n]Vamos continuar procurando.[n][w][e]
 
 [msg D10_10_CardCheck_Party01 [Futaba]]
-[s][bup 0 8 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9127 65535 0]... dei uma olhada em volta, mas parece que[n]foi construído para que não pudesse ser[n]acessado em nenhum outro lugar.[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Você precisará de um ID para a porta.[n][w][e]
+[s][bup 0 8 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9127 65535 0]...Eu dei uma olhada, mas parece[n]feito para conceder[n]acesso apenas a partir daqui.[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Você precisa de um ID de porta.[n][w][e]
 
 [msg D10_10_CardCheck_Party01_2 [Ryuji]]
-[s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7048 65535 0]Essa fechadura significa que deve haver algo[n]importante lá![n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos pegar um ID![n][w][e]
+[s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7048 65535 0]Com uma fechadura dessas, deve[n]esconder algo importante![n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos encontrar uma identidade![n][w][e]
 
 [msg D10_10_CardCheck_Party01_3 [[f 4 31 10 0]]]
-[s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 0 65535 0]Mas primeiro, precisamos de algum tipo de[n]pista...[n][w][e]
+[s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 0 65535 0]Mas primeiro precisamos de uma dica...[n][w][e]
 
 [msg D10_10_CardCheck_Party01_4 [Futaba]]
 [s][bup 0 8 4 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9114 65535 0]Oh! Olhar![n][w][e]
 
-[msg D10_10_CardCheck_Party02 [Guard]]
-[s]Sim, a tentativa de emboscada falhou. Agora[n]eles estão examinando o dispositivo de[n]autenticação.[n][w][e]
-[s]Eles não estão chegando a lugar nenhum sem[n]esse ID, no entanto.[n][w][e]
-[s]Este é o fim da linha para eles.[n][w][e]
+[msg D10_10_CardCheck_Party02 [Guardia]]
+[s]Sim, a emboscada falhou. Agora[n]eles estão examinando o[n]dispositivo de autenticação.[n][w][e]
+[s]Sem um cartão, eles não irão a lugar nenhum.[n][w][e]
+[s]Este é o fim para eles.[n][w][e]
 
 [msg D10_10_CardCheck_Party03 [Ryuji]]
-[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Wassup, Oracle?[n][w][e]
+[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Oi Oráculo![n][w][e]
 
 [msg D10_10_CardCheck_Party03_2 [Futaba]]
-[s][bup 0 8 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9089 65535 0]Eu interceptei alguma comunicação entre as[n]sombras...[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 0 65535 0]Nossa ID Hunt finalmente chegou ao fim.[n]Essa sombra ali tem um.[n][w][e]
+[s][bup 0 8 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9089 65535 0]Eu interceptei a conversa[n]de algumas Sombras...[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 0 65535 0]A busca pelo distintivo[n]finalmente terminou.[n]Aquele Shade tem um.[n][w][e]
 
 [msg D10_10_CardCheck_Party03_3 [Ryuji]]
-[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7022 65535 0]Parece que você bisbilhota- quero dizer,[n]suas habilidades tecnológicas foram úteis[n]novamente.[n][w][e]
+[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7022 65535 0]Você está bisbilhotando ... er,[n]quero dizer, sua técnica[n]vem a calhar mais uma vez.[n][w][e]
 
 [msg D10_10_CardCheck_Party03_4 [Ryuji]]
-[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 0 65535 0]Eu nem identificei essa sombra.[n][w][e]
+[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 0 65535 0]Eu nem vi aquela Sombra.[n][w][e]
 
 [msg D10_10_CardCheck_Party03_5 [Futaba]]
-[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9081 65535 0]Eu não acho que ele sabe que eu o ouvi.[n]Por que você não o emboscou pela[n]identificação?[n][w][e]
-[s][bup 0 8 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Você não pode alcançá-lo daqui, no entanto.[n]Você terá que dar a volta nas costas e[n]através do auditório.[n][w][e]
+[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9081 65535 0]Duvido que ele saiba que eu ouvi.[n]Devemos emboscá-lo[n]para pegar seu distintivo?[n][w][e]
+[s][bup 0 8 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Você não pode alcançá-lo a partir daqui, embora.[n]Você tem que dar a volta por trás e passar pelo[n]auditório.[n][w][e]
 
 [msg D10_10_CardCheck_Party03_6 [[f 4 31 10 0]]]
-[s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 57186 65535 0]Entendido. Precisamos levar esse salão à[n]frente. Vamos![n][w][e]
+[s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 57186 65535 0]Eu entendi. Temos que cuidar disso.[n]Vamos lá![n][w][e]
 
 [msg D10_10_CardChecked_Party [[f 4 31 10 0]]]
-[s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos passar pelo auditório.[n][w][e]
+[s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Passamos pelo auditório.[n][w][e]
 
 [msg D10_10_CardChecked_Party_2 [[f 4 31 10 0]]]
-[s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Não parece que vai abrir para nós. Vamos[n]continuar pesquisando.[n][w][e]
+[s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Parece que não abre...[n]Vamos continuar procurando.[n][w][e]
 
