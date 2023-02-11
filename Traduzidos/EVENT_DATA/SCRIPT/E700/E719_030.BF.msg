@@ -2,5 +2,5 @@
 [s]コーポレーションランク 3[n][w][e]
 
 [msg HELP_YOSHIDA_FUNCTION [増税]]
-[s]Agora você pode obter duas a três vezes a[n]quantia normal de dinheiro das negociações.[n][f 1 3 65535][w][e]
+[s]Agora você pode obter o dobro[n]ou triplicar o dinheiro[n]ao negociar.[n][f 1 3 65535][w][e]
 

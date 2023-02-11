@@ -1,15 +1,15 @@
 [msg MSG_054_0_0 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 76 65535 0]Você é bom com isso?[n][f 1 3 65535][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 76 65535 0]Tudo bem para você?[n][f 1 3 65535][w][e]
 
 [sel SEL_055_0_0 top]
 [s]Por mim tudo bem.[e]
-[s]Eu quero ramen.[e]
-[s]Devemos economizar o dinheiro.[e]
+[s]Eu gostaria de um pouco de ramen.[e]
+[s]Melhor economizar.[e]
 
 [msg MSG_NOT_SELECT_PARA]
 [s]......[n][w][e]
 [s]ダメだ、この発言をするには[n][clr 26]そつがない[clr 27]くらいの[f 4 11 2][clr 26][f 4 12 2][clr 27]が必要だ...[n][w][e]
 
 [msg MSG_054_5_0 [Ryuji]]
-[s][bup 0 2 0 65535 0][vp 1 0 0 0 0 0][f 0 6 255 0]Você é bom com isso?[n][f 1 3 65535][e]
+[s][bup 0 2 0 65535 0][vp 1 0 0 0 0 0][f 0 6 255 0]Tudo bem para você?[n][f 1 3 65535][e]
 

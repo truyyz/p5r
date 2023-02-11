@@ -1,54 +1,54 @@
 [msg TEST_000 [Morgana]]
 [s]スクリプトから発行した[n]メッセージです。[n][w][e]
 
-[msg THINK_START_0_03 [Biology]]
-[s]Descreva como os sons são tocados através de[n]um telefone celular.[n][w][e]
+[msg THINK_START_0_03 [Biologia]]
+[s]Descreva como[n]os sons são tocados por[n]um telefone celular.[n][w][e]
 
 [msg THINK_START_1_03 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Eu acho que eles disseram que a voz que você[n]ouve através do telefone é...[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Você sabe o que eles dizem, certo? Que a voz[n]das pessoas, ao telefone,[n]sempre soa como...[n][w][e]
 
 [sel THINK_1_SEL_03 top]
 [s]Sua verdadeira voz.[e]
-[s]A voz deles apareceu.[e]
-[s]Não é a voz real deles.[e]
+[s]Sua voz, mas mais nítida.[e]
+[s]Uma voz diferente da deles.[e]
 
 [msg THINK_1A_03 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Sério? Eu não acho que foi isso...[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0]A sério? Não eu acho que não...[n][w][e]
 
 [msg THINK_1B_03 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Sério? Eu não acho que foi isso...[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0]A sério? Não eu acho que não...[n][w][e]
 
 [msg THINK_1C_03 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Haveria muitos dados a serem transmitidos,[n]por isso apenas parece um som semelhante à[n]sua voz, eu acho.[n][w][e]
-[s]Mas por que o ouvinte acha que a voz[n]sintética é a pessoa real?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Os dados a serem transmitidos seriam[n]muitos, então o telefone emite[n]apenas uma voz semelhante à real.[n][w][e]
+[s]Por que conseguimos[n]reconhecer o interlocutor,[n]se sua voz é filtrada?[n][w][e]
 
 [sel THINK_2_SEL_03 top]
-[s]Eles falam o mesmo.[e]
-[s]Os seres humanos têm uma audição ruim.[e]
-[s]Eles podem sentir sua aura.[e]
+[s]Graças à maneira de falar.[e]
+[s]A audição humana não é aguda.[e]
+[s]Nós percebemos sua aura.[e]
 
 [msg THINK_2A_03 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Sim. Todo mundo fala do seu jeito: o tom[n]deles, como enfatiza as palavras e assim[n]por diante.[n][w][e]
-[s]Mesmo que a voz seja diferente, desde que[n]falem o mesmo, o ouvinte irá[n]subconscientemente...[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Exatamente. Cada um tem seu jeito[n]de falar: tom de voz,[n]cadência e assim por diante.[n][w][e]
+[s]A voz também pode ser diferente,[n]mas se a forma de falar[n]é a mesma, então o ouvinte...[n][w][e]
 
 [msg THINK_2B_03 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Sério? Vamos, seja sério.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0]A sério? Vamos, não vamos brincar.[n][w][e]
 
 [msg THINK_2C_03 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Sério? Vamos, seja sério.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0]A sério? Vamos, não vamos brincar.[n][w][e]
 
 [sel THINK_3_SEL_03 top]
-[s]Acenar junto.[e]
-[s]Complementar a voz.[e]
-[s]Toque no pé deles.[e]
+[s]Ele vai acenar com a cabeça.[e]
+[s]Fará a diferença.[e]
+[s]Ele vai bater o pé na hora.[e]
 
 [msg THINK_3A_03 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Absolutamente... Quero dizer, não! Acalme-se[n]e vamos pensar isso.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Exatamente! ...Na verdade, não![n]Calma, calma. Vamos tentar[n]pensar melhor.[n][w][e]
 
 [msg THINK_3B_03 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0]É isso![n][w][e]
-[s]"Mesmo que o som difere da voz real, o[n]cérebro do ouvinte fará com que pareça a[n]voz deles".[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Exatamente![n][w][e]
+[s]"O cérebro do ouvinte[n]processará a voz filtrada[n]para dar a ela o som da voz real."[n][w][e]
 
 [msg THINK_3C_03 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Absolutamente... Quero dizer, não! Acalme-se[n]e vamos pensar isso.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Exatamente! ...Na verdade, não![n]Calma, calma. Vamos tentar[n]pensar melhor.[n][w][e]
 

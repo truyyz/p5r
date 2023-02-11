@@ -2,5 +2,5 @@
 [s]コーポレーションランク 6[n][w][e]
 
 [msg HELP_URANAI_FUNCTION [本日の占い]]
-[s]Seu vínculo com o contador da fortuna se[n]tornou mais profundo. Ela agora pode prever [n][clr 2]seu companheiro destinado [clr 27].[n][f 1 3 65535][w][e]
+[s]Seu vínculo com o vidente[n]está ficando mais forte. Você saberá[n]por ela quem é [clr 2]sua alma gêmea[clr 27].[n][f 1 3 65535][w][e]
 

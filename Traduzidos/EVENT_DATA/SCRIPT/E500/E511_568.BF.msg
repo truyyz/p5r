@@ -1,14 +1,14 @@
 [msg SYS_000_0_0]
-[s]Você gostaria de retomar o jogo?[n][w][e]
+[s]Deseja retomar o jogo?[n][w][e]
 
 [sel SEL_000_0_0 top]
-[s]Voltar para uma semana antes [e]
-[s]Retornar à tela do título [e]
+[s]De volta a uma semana atrás[e]
+[s]Voltar para a tela inicial[e]
 
 [msg SYS_001_0_0]
-[s]Isso o devolverá à tela do título. Qualquer[n]progresso não salvo será perdido. Está tudo[n]bem?[n][w][e]
+[s]Ao fazer isso, você retornará à[n]tela inicial e perderá todo[n]o progresso não salvo. Você confirma?[n][w][e]
 
 [sel SEL_YES_NO top]
-[s]Sim [e]
-[s]Não [e]
+[s]Sim[e]
+[s]Não[e]
 

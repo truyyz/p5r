@@ -2,5 +2,5 @@
 [s]スクリプトから発行した[n]メッセージです。[n][w][e]
 
 [msg SYS_039_0_0]
-[s][vp 1 0 0 0 0 0]A batalha levou [var 0]Turns...[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]A batalha durou [var 0] turnos...[n][f 1 3 65535][w][e]
 

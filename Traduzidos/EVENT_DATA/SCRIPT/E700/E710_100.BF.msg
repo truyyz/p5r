@@ -2,5 +2,5 @@
 [s]コーポレーションランク MAX[n][w][e]
 
 [msg HELP_URANAI_FUNCTION [占い強化]]
-[s]Seu vínculo com o contador da fortuna se[n]tornou mais profundo. Ela agora pode[n]realizar  [clr 2]W Fortunes [clr 27].[n][f 1 3 65535][w][e]
+[s]Seu vínculo com o vidente[n]está ficando mais forte. Agora ele pode[n]fazer [clr 2]previsões W[clr 27].[n][f 1 3 65535][w][e]
 

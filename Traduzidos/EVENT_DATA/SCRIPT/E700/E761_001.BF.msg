@@ -6,49 +6,49 @@
 [s][vp 8 0 0 0 65535 0]親父...優しさと小心はÒう。親父の優しさは、[n]きっと巡り巡って...誰かを死なせる。[n][f 1 3 65535][w][e]
 
 [msg MSG_MOVIE11_MORU_01 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Isso é tão profundo... realmente me faz[n]pensar.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]É tão profundo...[n]Isso realmente me faz pensar...[n][f 1 3 65535][w][e]
 
 [msg MSG_MOVIE11_MORU_02 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O que realmente é bondade, no final?[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Afinal, o que é a verdadeira bondade?[n][f 1 3 65535][w][e]
 
 [msg MSG_MOVIE11_MIND]
-[s][vp 8 0 0 0 65535 0][f 4 22 65535 1 41]Eu sinto que foi capaz de aprender a ser[n]mais compassivo com os outros...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 4 22 65535 1 41]Aprendi a ter[n]mais compaixão pelos outros...[n][f 1 3 65535][w][e]
 
 [msg MSG_MOVIE11_MIND_Book]
-[s][vp 8 0 0 0 65535 0]Eu sinto que foi capaz de aprender a ser[n]mais compassivo com os outros...[n][f 1 3 65535][w][e]
-[s][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Graças a [clr 3]O ofício do cinema [clr 27], Pude aproveitar o filme em um nível mais[n]profundo...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Aprendi a ter[n]mais compaixão pelos outros...[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Graças a [clr 3]Filmmaking Soul[clr 27],[n]gostou do filme[n]com mais atenção...[n][f 1 3 65535][w][e]
 
 [msg MSG_MOVIE12_VOICE_1 [師範ニンジャ]]
 [s][vp 8 0 0 0 65535 0]あっ、拙者のワラジのひもが...[n]...ビシッ!![n][f 1 3 65535][w][e]
 
-[msg MSG_MOVIE12_VOICE_2 [Protagonist]]
+[msg MSG_MOVIE12_VOICE_2 [Protagonista]]
 [s][vp 8 0 0 0 65535 0]グアーーッ![n][f 1 3 65535][w][e]
 
 [msg MSG_MOVIE12_VOICE_3 [師範ニンジャ]]
 [s][vp 8 0 0 0 65535 0]遅い! 光と同じくらい素早くならねば、[n]未来へは帰れぬでござるぞ...!![n][f 1 3 65535][w][e]
 
 [msg MSG_MOVIE12_MORU_01 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eles estão voltando sozinhos!? Como isso se[n]tornou um clássico cult?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Eu acho que é um pouco educacional com toda[n]a ciência mumbo jumbo...[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eles voltam por conta própria?[n]Como isso se tornou um culto?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]No mínimo é instrutivo, com todo esse[n]conhecimento científico...[n][f 1 3 65535][w][e]
 
 [msg MSG_MOVIE12_MORU_02 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Pode ser um nicho, mas está crescendo em mim.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Pode ser um nicho, mas[n]estou começando a gostar.[n][f 1 3 65535][w][e]
 
 [msg MSG_MOVIE12_MIND]
-[s][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Eu sinto que foi capaz de aprender sobre o[n]lado divertido da ciência...[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Acho que aprendi sobre[n]o lado divertido da ciência...[n][f 1 3 65535][w][e]
 
 [msg MSG_MOVIE12_MIND_Book]
-[s][vp 8 0 0 0 65535 0]Eu sinto que foi capaz de aprender sobre o[n]lado divertido da ciência...[n][f 1 3 65535][w][e]
-[s][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Graças a [clr 3]O ofício do cinema [clr 27], Pude aproveitar o filme em um nível mais[n]profundo...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Acho que aprendi sobre[n]o lado divertido da ciência...[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Graças a [clr 3]Filmmaking Soul[clr 27],[n]gostou do filme[n]com mais atenção...[n][f 1 3 65535][w][e]
 
 [msg MSG_MOVIE12_MIND_Friend]
-[s][vp 8 2 0 0 65535 0]Eu sinto que foi capaz de aprender sobre o[n]lado divertido da ciência...[n][f 1 3 65535][w][e]
-[s][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Com Futaba ao meu lado, o filme foi quase[n]tão fresco quanto a primeira vez que o vi...[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0]Acho que aprendi sobre[n]o lado divertido da ciência...[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Com Futaba ao meu lado,[n]assistir ao filme foi[n]quase tão divertido quanto da primeira vez...[n][f 1 3 65535][w][e]
 
 [msg MSG_MOVIE12_MIND_Book_Fr]
-[s][vp 8 0 0 0 65535 0]Eu sinto que foi capaz de aprender sobre o[n]lado divertido da ciência...[n][f 1 3 65535][w][e]
-[s][vp 8 2 0 0 65535 0][vp 8 0 0 0 65535 0]Com Futaba ao meu lado, o filme foi quase[n]tão fresco quanto a primeira vez que o vi...[n][f 1 3 65535][w][e]
-[s][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Graças a [clr 3]O ofício do cinema [clr 27], Pude aproveitar o filme em um nível mais[n]profundo...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Acho que aprendi sobre[n]o lado divertido da ciência...[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0][vp 8 0 0 0 65535 0]Com Futaba ao meu lado,[n]assistir ao filme foi[n]quase tão divertido quanto da primeira vez...[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Graças a [clr 3]Filmmaking Soul[clr 27],[n]gostou do filme[n]com mais atenção...[n][f 1 3 65535][w][e]
 
 [msg MSG_MOVIE13_VOICE_1 [デビッド少佐]]
 [s][vp 8 0 0 0 65535 0]メリークリスマス、軍曹?[n]特別メニューは捗っているかな?[n][f 1 3 65535][w][e]
@@ -63,96 +63,96 @@
 [s][vp 8 0 0 0 65535 0]に、日本軍人は、ぜったい、助けてなんて、[n]言わないのであります...![n][f 1 3 65535][w][e]
 
 [msg MSG_MOVIE13_MORU_01 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vamos! Apenas peça ajuda a ele![n]Nossa, esse personagem tem algumas tripas[n]loucas...[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vamos! Por que ele não pede ajuda?!?[n]Droga, esse personagem[n]é muito louco...[n][f 1 3 65535][w][e]
 
 [msg MSG_MOVIE13_MORU_02 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Fingir estoicismo e coragem não é saudável...[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Fingir estar inteiro[n]não é nada saudável...[n][f 1 3 65535][w][e]
 
 [msg MSG_MOVIE13_MIND]
-[s][vp 8 0 0 0 65535 0][f 4 22 65535 1 41]Eu sinto que entendi a vontade do sargento[n]para enfrentar dificuldades...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 4 22 65535 1 41]Sinto que entendi[n]a determinação do sargento[n]diante das dificuldades...[n][f 1 3 65535][w][e]
 
 [msg MSG_MOVIE13_MIND_Book]
-[s][vp 8 0 0 0 65535 0]Eu sinto que entendi a vontade do sargento[n]para enfrentar dificuldades...[n][f 1 3 65535][w][e]
-[s][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Graças a [clr 3]O ofício do cinema [clr 27], Pude aproveitar o filme em um nível mais[n]profundo...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Sinto que entendi[n]a determinação do sargento[n]diante das dificuldades...[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Graças a [clr 3]Filmmaking Soul[clr 27],[n]gostou do filme[n]com mais atenção...[n][f 1 3 65535][w][e]
 
 [msg MSG_MOVIE16_MORU_01 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Cara, esse é um psiquiatra assustador.[n]Mas eu tenho que admitir, ele parece saber[n]do que está falando.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Meu Deus, que psiquiatra assustador. Mas tenho[n]que admitir que ele parece conhecer suas coisas.[n][f 1 3 65535][w][e]
 
 [msg MSG_MOVIE16_MORU_02 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Espero que ele não venha para mim em[n]seguida...[n]Eu pegaria um resfriado sem meu pêlo![n][f 1 3 65535][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Espero não ser o[n]próximo... pegaria um[n]resfriado gostoso, sem pelos![n][f 1 3 65535][w][e]
 
 [msg MSG_MOVIE16_MIND]
-[s][vp 8 0 0 0 65535 0][f 4 22 65535 1 41]Sinto que aprendi um pouco sobre analisar[n]problemas com a compostura...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 4 22 65535 1 41]Acho que aprendi a analisar[n]problemas com temperança...[n][f 1 3 65535][w][e]
 
 [msg MSG_MOVIE16_MIND_Book]
-[s][vp 8 0 0 0 65535 0]Sinto que aprendi um pouco sobre analisar[n]problemas com a compostura...[n][f 1 3 65535][w][e]
-[s][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Graças a [clr 3]O ofício do cinema [clr 27], Pude aproveitar o filme em um nível mais[n]profundo...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Acho que aprendi a analisar[n]problemas com temperança...[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Graças a [clr 3]Filmmaking Soul[clr 27],[n]gostou do filme[n]com mais atenção...[n][f 1 3 65535][w][e]
 
 [msg MSG_MOVIE17_MORU_01 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não acredito que ele se enfrentaria contra o[n]reitor assim... todos nós poderíamos[n]aprender com seu sacrifício.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não acredito que ele[n]lidou com o reitor assim[n]... É um verdadeiro exemplo.[n][f 1 3 65535][w][e]
 
 [msg MSG_MOVIE17_MORU_02 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O reitor está agindo como um sargento...[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O Reitor se comporta como[n]um sargento instrutor...[n][f 1 3 65535][w][e]
 
 [msg MSG_MOVIE17_MIND]
-[s][vp 8 0 0 0 65535 0][f 4 22 65535 1 41]Eu sinto que foi capaz de aprender a ser[n]mais compassivo com os outros...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 4 22 65535 1 41]Aprendi a ter[n]mais compaixão pelos outros...[n][f 1 3 65535][w][e]
 
 [msg MSG_MOVIE17_MIND_Book]
-[s][vp 8 0 0 0 65535 0]Eu sinto que foi capaz de aprender a ser[n]mais compassivo com os outros...[n][f 1 3 65535][w][e]
-[s][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Graças a [clr 3]O ofício do cinema [clr 27], Pude aproveitar o filme em um nível mais[n]profundo...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Aprendi a ter[n]mais compaixão pelos outros...[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Graças a [clr 3]Filmmaking Soul[clr 27],[n]gostou do filme[n]com mais atenção...[n][f 1 3 65535][w][e]
 
 [msg MSG_MOVIE18_MORU_01 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Nunca desistindo, mesmo quando as coisas[n]parecem sem esperança... essa é uma atitude[n]admirável.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Nunca desista, mesmo quando[n]as coisas parecerem[n]sem esperança... Verdadeiramente admirável.[n][f 1 3 65535][w][e]
 
 [msg MSG_MOVIE18_MORU_02 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O circo está cheio de animais ferozes...[n]Não posso culpar Pierre por fugir.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O circo está cheio de animais selvagens...[n]Não posso culpar Pierre[n]por escapar.[n][f 1 3 65535][w][e]
 
 [msg MSG_MOVIE18_MIND]
-[s][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Eu sinto que aprendi muito mais sobre a[n]vida...[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Acho que aprendi muito[n]sobre a vida em geral...[n][f 1 3 65535][w][e]
 
 [msg MSG_MOVIE18_MIND_Book]
-[s][vp 8 0 0 0 65535 0]Eu sinto que aprendi muito mais sobre a[n]vida...[n][f 1 3 65535][w][e]
-[s][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Graças a [clr 3]O ofício do cinema [clr 27], Pude aproveitar o filme em um nível mais[n]profundo...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Acho que aprendi muito[n]sobre a vida em geral...[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Graças a [clr 3]Filmmaking Soul[clr 27],[n]gostou do filme[n]com mais atenção...[n][f 1 3 65535][w][e]
 
 [msg MSG_MOVIE_END_1]
-[s][vp 8 0 0 0 65535 0]Até assistimos aos créditos até o fim...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Também vimos os créditos[n]até o final...[n][f 1 3 65535][w][e]
 
 [msg MSG_MOVIE_END_2 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Tudo bem, vamos para casa.[n][f 1 3 65535][w][e]
 
 [msg MSG_FUTABA_1 [Futaba]]
-[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 9048 65535 0]Cara, eu já vi isso como cinquenta vezes,[n]mas o áudio no teatro ainda me impressiona![n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Sabe, a ficção científica é mais do que[n]apenas uma bobagem louca.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]É como... um sonho que pode acabar se[n]tornando realidade um dia. Eu acho que é[n]quase como a esperança! Você me pegou?[n][f 1 3 65535][w][e]
+[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 9048 65535 0]Já vi esse filme[n]pelo menos 50 vezes, mas o áudio do cinema[n]é sempre um arraso![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Você sabe, a ficção científica não é feita[n]apenas de ideias absurdas.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]É "esperança"! ...Entende?[n]É como...um sonho que um dia[n]pode se tornar realidade![n][f 1 3 65535][w][e]
 
 [sel SEL_FUTABA_1 top]
-[s]Eu penso que sim...[e]
-[s]Na verdade, não.[e]
+[s]Eu também acho...[e]
+[s]Eu não acredito.[e]
 
 [msg MSG_FUTABA_2 [Futaba]]
-[s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 9161 65535 0][f 5 13 10 10 8]Legal, você tem potencial![n][f 1 3 65535][w][e]
+[s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 9161 65535 0][f 5 13 10 10 8]Bem, você tem potencial![n][f 1 3 65535][w][e]
 
 [msg MSG_FUTABA_3 [Futaba]]
-[s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 9062 65535 0][f 5 13 10 5 8]Acho que você vai precisar de algum[n]treinamento então... hehe, isso realmente[n]parece divertido![n][f 1 3 65535][w][e]
+[s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 9062 65535 0][f 5 13 10 5 8]Aí você vai precisar de[n]treinamento...[n]Ihihih... Vai ser divertido![n][f 1 3 65535][w][e]
 
 [msg MSG_FUTABA_5 [Futaba]]
-[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 9030 65535 0]De qualquer forma, obrigado por relaxar![n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Hum... isso foi muito mais divertido do que[n]todas as vezes eu já vi isso sozinho.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Eu sei! Talvez possamos ter uma maratona de[n]ficção científica estrangeira em seu quarto[n]algum dia! Melhor ansioso por isso![n][f 1 3 65535][w][e]
+[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 9030 65535 0]De qualquer forma, obrigado pela companhia![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Hum... Foi mais engraçado[n]do que todas as vezes[n]que já vi isso sozinho.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Mmm... Talvez possamos organizar[n]uma maratona de ficção científica em[n]seu quarto! Vai ser ótimo![n][f 1 3 65535][w][e]
 
 [msg MSG_MOVIE_END [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Peculiar como sempre...[n][f 1 3 65535][w][e]
-[s][vp 8 2 0 1050 65535 0]Digamos que voltemos para casa também,[n]embora esteja ali.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Detalhado como sempre...[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 1050 65535 0]Vamos para casa,[n]é logo virando a esquina.[n][f 1 3 65535][w][e]
 
 [msg TEST_MONA2 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 47 65535 0]Você subiu uma classificação, não é?[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 47 65535 0]Você subiu na hierarquia, hein?[n][f 1 3 65535][w][e]
 
 [msg MSG_DEBUG [Debug]]
-[s]※April 1st Only Debug[n]Configuração de verificação de cena [n][f 1 3 65535][w][e]
+[s]※April 1st Only Debug[n]Scene check setting[n][f 1 3 65535][w][e]
 
 [sel SEL_DEBUG top]
-[s]Morgana [e]
-[s]Futaba [e]
-[s]Takemi [e]
-[s]Pare de depuração [e]
+[s]Morgana[e]
+[s]futaba[e]
+[s]leve-me[e]
+[s]Sair da depuração[e]
 

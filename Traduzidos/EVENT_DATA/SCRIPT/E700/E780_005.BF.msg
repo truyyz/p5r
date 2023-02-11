@@ -1,40 +1,40 @@
 [msg MSG_000_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Esta aula é tão chata...[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Essa aula é tão chata...[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ei, seu telefone está vibrando.[n][w][e]
 
 [msg MSG_002_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Hmmm, um convite para ir a algum lugar[n]depois da escola? Vamos ver aqui...[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mmm, um convite para sair[n]depois da escola?[n]Vamos ver...[n][w][e]
 
-[msg MSG_003_0_0 [Ms. Kawakami]]
-[s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 1]-kun? Os telefones celulares são proibidos[n]na aula, você sabe.[n][f 1 3 65535][w][e]
+[msg MSG_003_0_0 [Prof. Kawakami]]
+[s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 1]-kun? É proibido[n]usar o telefone na aula, sabia?[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Kawakami]]
-[s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 1]-kun? * tosse* hum...[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]J-apenas mantenha-o no mínimo, ok?[n][f 1 3 65535][w][e]
+[s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 1]-kun? *coff* Erm...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]A-Abaixe o[n]volume, OK?[n][f 1 3 65535][w][e]
 
-[msg MSG_005_0_0 [Ms. Chouno]]
-[s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Por falar nisso [f 4 2].[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]Eu apreciaria se você não jogasse com seu[n]telefone durante a minha aula.[n][f 1 3 65535][w][e]
+[msg MSG_005_0_0 [Prof. Chouno]]
+[s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Enfim, [f 4 2].[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Eu ficaria muito grato[n]se você não brincasse com o telefone[n]durante minhas aulas.[n][f 1 3 65535][w][e]
 
-[msg MSG_006_0_0 [Mr. Inui]]
+[msg MSG_006_0_0 [Prof. Inui]]
 [s][bup 0 302 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ei, [f 4 1]![n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]Você está no meio da aula! Pare de mexer com[n]seu telefone![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Estamos no meio da aula![n]Pare de se atrapalhar[n]com o telefone![n][f 1 3 65535][w][e]
 
-[msg MSG_007_0_0 [Ms. Usami]]
-[s][bup 0 305 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu posso ver você, [f 4 1]-san.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]Evite usar seu telefone durante a aula.[n][f 1 3 65535][w][e]
+[msg MSG_007_0_0 [Prof. Usami]]
+[s][bup 0 305 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vejo você, [f 4 1]-san.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Por favor, não use[n]o telefone durante a aula.[n][f 1 3 65535][w][e]
 
-[msg MSG_008_0_0 [Mr. Taihei]]
+[msg MSG_008_0_0 [Signor Taihei]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ei, [f 4 1]![n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]Você está no meio da aula! Pare de mexer com[n]seu telefone![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Estamos no meio da aula![n]Pare de se atrapalhar[n]com o telefone![n][f 1 3 65535][w][e]
 
-[msg MSG_009_0_0 [Mr. Hiruta]]
+[msg MSG_009_0_0 [Prof. Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ei, [f 4 1]-kun.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]Por favor, concentre-se na aula em vez de[n]brincar com seu telefone.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Concentre-se na lição em vez de brincar com o[n]telefone.[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Fomos pegos...[n][w][e]
-[s]Talvez seja melhor se concentrar por[n]enquanto e verificar novamente depois da[n]escola.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ele nos pegou...[n][w][e]
+[s]Talvez seja melhor seguir[n]a aula e verificar[n]novamente depois da aula.[n][w][e]
 

@@ -1,6 +1,6 @@
 [msg MSG_000_0_0 [Ryuji]]
-[s][f 5 14]O professor que está com ele também tem[n]merda em mim.[n][w][e]
-[s][f 5 14]Desculpe, mas eu vou ficar escondido no[n]banheiro.[n][w][e]
-[s][f 5 14]Por favor![n][w][e]
-[s][f 5 14]Basta deixar seu telefone para que eu possa[n]ouvir o que eles estão dizendo.[n][f 5 15][w][e]
+[s][f 5 14]A professora que está com ele[n]sabe coisas sobre mim.[n][w][e]
+[s][f 5 14]Desculpe, mas vou[n]ficar trancado no banheiro.[n][w][e]
+[s][f 5 14]Eu te imploro![n][w][e]
+[s][f 5 14]Deixe o telefone ligado para que eu possa ouvir o[n]que eles estão dizendo.[n][f 5 15][w][e]
 

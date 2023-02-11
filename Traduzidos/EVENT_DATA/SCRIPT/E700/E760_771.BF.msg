@@ -1,465 +1,465 @@
 [msg MSG_GAMESTART [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1174 65535 0]Vamos iniciar a lenda de Gambla Goemon.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1174 65535 0]Vamos começar a jogar Legend[n]of Gambla Goemon.[n][f 1 3 65535][w][e]
 
 [msg MSG_GAMESTART_NULL]
-[s][vp 8 2 0 91 65535 0]Hora de iniciar a lenda de Gambla Goemon...[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 91 65535 0]Vamos começar a jogar Legend[n]of Gambla Goemon...[n][f 1 3 65535][w][e]
 
 [msg MSG_READ_BOOK_URAWAZA_FI [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1172 65535 0]A propósito, você não leu esse livro de[n]técnicas secretas?[n][f 1 3 65535][w][e]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Se você ficar preso, Goemon reduzirá o[n]problema usando sua fraude especializada...[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1172 65535 0]A propósito, você não leu[n]aquele livro de técnicas secretas?[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Se você ficar preso, Goemon pode[n]cortar o obstáculo usando[n]seu... truque especial.[n][f 1 3 65535][w][e]
 
 [msg MSG_READ_BOOK_URAWAZA_NU]
-[s][vp 8 2 0 0 65535 0]Agora que penso nisso, eu realmente li um[n]livro sobre técnicas secretas de[n]videogame...[n][f 1 3 65535][w][e]
-[s][vp 8 2 0 0 65535 0]Ele disse que Goemon vai passar por qualquer[n]obstáculo em seu caminho com seu truque[n]especial...[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0]Agora que penso nisso, na verdade[n]li um livro sobre[n]técnicas secretas para finalizar videogames...[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0]Ele disse que Goemon iria[n]cortar qualquer obstáculo[n]usando um truque especial.[n][f 1 3 65535][w][e]
 
 [msg MSG_READ_BOOK_URAWAZA_FI_2 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Então, você quer usar o truque?[n]Isso facilitará o jogo.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Então, quer usar o cheat?[n]Vai facilitar o jogo.[n][f 1 3 65535][w][e]
 
 [msg MND_201_6_0]
 [s][vp 8 2 0 0 65535 0]Devo usar o truque?[n][f 1 3 65535][w][e]
 
 [sel SEL_001_0_0 top]
-[s]Use a técnica [e]
-[s]Jogue o jogo normalmente [e]
+[s]Use a técnica secreta[e]
+[s]Jogue normalmente[e]
 
 [msg MSG_READ_BOOK_URAWAZA_YE [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Faz sentido, desde que você aprendeu a[n]fazê-lo. Tudo bem, vamos fazer isso![n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Faz sentido, já que você[n]aprendeu. Está bem. Vamos lá.[n][f 1 3 65535][w][e]
 
 [msg MND_203_6_0]
-[s][vp 8 2 0 0 65535 0]Isso deve tornar o jogo um pouco menos[n]difícil...[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0]OK, isso deve tornar o jogo mais fácil...[n][f 1 3 65535][w][e]
 
 [msg MSG_READ_BOOK_URAWAZA_NO [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Uau, você está demitido! Tudo bem, vá em[n]frente![n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Uau, você está animado! Bem, é isso![n][f 1 3 65535][w][e]
 
 [msg MND_202_6_0]
-[s][vp 8 2 0 0 65535 0]Eu deveria tentar usar minhas próprias[n]habilidades para vencê-lo...[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0]Eu deveria tentar usar[n]minhas habilidades sozinho para fazer isso...[n][f 1 3 65535][w][e]
 
 [msg MSG_Ura01 [Morgana]]
-[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 0 1178 65535 0]Droga... você perdeu.[n][f 1 3 65535][w][e]
-[s][bup 0 3 4 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Espere, o que é isso? A mão de Goemon está[n]brilhando![n][f 1 3 65535][w][e]
+[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 0 1178 65535 0]Droga... Você estava errado.[n][f 1 3 65535][w][e]
+[s][bup 0 3 4 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]E ai, como vai? A mão de Goemon[n]está brilhando...![n][f 1 3 65535][w][e]
 
-[msg MSG_Ura_oni [Demon]]
-[s][vp 8 2 0 59555 65535 0]Hrgh... tão brilhante![n][f 1 3 65535][w][e]
+[msg MSG_Ura_oni [Demone]]
+[s][vp 8 2 0 59555 65535 0]Hrgh! Esta luz![n][f 1 3 65535][w][e]
 
-[msg MSG_Ura_enma [King Yama]]
-[s][vp 8 2 0 59555 65535 0]Harrumph! Luz tão poderosa![n][f 1 3 65535][w][e]
+[msg MSG_Ura_enma [Re Yama]]
+[s][vp 8 2 0 59555 65535 0]Aff...! Que luz poderosa![n][f 1 3 65535][w][e]
 
 [msg MSG_Ura02 [Morgana]]
-[s][bup 0 3 4 0 0][f 4 10 65535 0 0][vp 8 2 0 1040 65535 0]H-hey, os pips nos dados mudaram![n][f 1 3 65535][w][e]
+[s][bup 0 3 4 0 0][f 4 10 65535 0 0][vp 8 2 0 1040 65535 0]E-Ei, os pontos no dado[n]mudaram![n][f 1 3 65535][w][e]
 
-[msg MSG_Ura_oni02 [Demon]]
-[s][vp 8 2 0 59556 65535 0]HM? Eu pensei que era mesmo, mas devo ter[n]interpretado mal... o resultado é estranho.[n]Você ganha.[n][f 1 3 65535][w][e]
+[msg MSG_Ura_oni02 [Demone]]
+[s][vp 8 2 0 59556 65535 0]Hã? Achei que era par, mas devo[n]ter calculado mal...[n]O resultado é ímpar. Você ganha.[n][f 1 3 65535][w][e]
 
-[msg MSG_Ura_oni03 [Demon]]
-[s][vp 8 2 0 59556 65535 0]HM? Eu pensei que era estranho, mas devo ter[n]interpretado mal... o resultado é par.[n]Você ganha.[n][f 1 3 65535][w][e]
+[msg MSG_Ura_oni03 [Demone]]
+[s][vp 8 2 0 59556 65535 0]Hã? Achei estranho, mas devo[n]ter calculado mal...[n]O resultado é par. Você ganha.[n][f 1 3 65535][w][e]
 
-[msg MSG_Ura_enma02 [King Yama]]
-[s][vp 8 2 0 59556 65535 0]Harrumph... eu pensei que era um número[n]uniforme, mas acho que estava errado.[n]O resultado é estranho. Você ganha.[n][f 1 3 65535][w][e]
+[msg MSG_Ura_enma02 [Re Yama]]
+[s][vp 8 2 0 59556 65535 0]Umpf... Achei que era um número par,[n]mas me enganei.[n]O resultado é ímpar. Você ganha.[n][f 1 3 65535][w][e]
 
-[msg MSG_Ura_enma03 [King Yama]]
-[s][vp 8 2 0 59556 65535 0]Harrumph... eu pensei que era um número[n]estranho, mas acho que estava errado.[n]O resultado é uniforme. Você ganha.[n][f 1 3 65535][w][e]
+[msg MSG_Ura_enma03 [Re Yama]]
+[s][vp 8 2 0 59556 65535 0]Umpf... Achei que era um número[n]ímpar, mas me enganei.[n]O resultado é par. Você ganha.[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 1163 65535 0]Então, este jogo é sobre um ladrão notório[n]que caiu nas profundezas do inferno...[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 1163 65535 0]Aparentemente, este jogo é sobre[n]um ladrão famoso que acabou[n]nas profundezas do inferno...[n][f 1 3 65535][w][e]
 
 [msg MND_205_6_0]
-[s][vp 8 2 0 86 65535 0]Aparentemente, este jogo é sobre um ladrão[n]famoso que caiu nas profundezas do[n]inferno...[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 86 65535 0]Aparentemente, este jogo é sobre[n]um ladrão famoso que acabou[n]nas profundezas do inferno...[n][f 1 3 65535][w][e]
 
 [msg MSG_GAMBLE_TUTORIAL_2_MO [Morgana]]
-[s][bup 0 3 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]As costas do demônio. Você quer perguntar[n]sobre as regras?[n][f 1 3 65535][w][e]
+[s][bup 0 3 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]O demônio está de volta. Você quer perguntar[n]uma explicação sobre as regras?[n][f 1 3 65535][w][e]
 
 [msg MSG_GAMBLE_TUTORIAL_2_02]
-[s][vp 8 2 0 0 65535 0]O demônio está esperando à frente...[n]Devo ir perguntar as regras?[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0]O demônio está parado na minha frente.[n]Devo pedir[n]uma explicação sobre as regras?[n][f 1 3 65535][w][e]
 
 [sel GAMBLE_TUTORIAL_2_YES_NO top]
-[s]Pergunte sobre as regras [e]
-[s]Não pergunte [e]
+[s]Pergunte as regras[e]
+[s]Não pergunte[e]
 
 [msg MSG_110_0_0 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 1171 65535 0][f 4 22 65535 3 4]Espere, algo apareceu à frente... isso é um[n]demônio?[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 1171 65535 0][f 4 22 65535 3 4]Ei, tem algo lá em cima...[n]Isso é um demônio?[n][f 1 3 65535][w][e]
 
 [msg MND_225_6_0]
-[s][vp 8 2 0 62 65535 0]Um gigante apareceu na minha frente. Parece[n]um demônio...[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 62 65535 0]Uma enorme criatura apareceu diante de mim.[n]Parece um demônio...[n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_TUTORI [Demon]]
-[s][vp 8 2 0 59556 65535 0]Então, o ladrão enganoso que devastou o[n]mundo acima entrou descaradamente neste[n]domínio infernal...[n][f 1 3 65535][w][e]
-[s][vp 8 2 0 59556 65535 0]Vou te mostrar os horrores do inferno...[n][f 1 3 65535][w][e]
-[s][vp 8 2 0 59556 65535 0]Pelo menos, eu faria... mas seria chato[n]tratar o famoso Goemon da mesma forma que[n]qualquer pessoa idosa.[n][f 1 3 65535][w][e]
-[s][vp 8 2 0 59556 65535 0]Em vez disso, usaremos os dois dados na[n]minha mão para jogar um pequeno jogo. Eu[n]chamo isso... chances ou devens![n][f 1 3 65535][w][e]
+[msg MSG_JIGOKU_GAMBLE_TUTORI [Demone]]
+[s][vp 8 2 0 59556 65535 0]Assim, o ladrão ignóbil que[n]saqueou o mundo inteiro[n]entrou no inferno impunemente.[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 59556 65535 0]Eu vou te mostrar os horrores do inferno...[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 59556 65535 0]Embora, na verdade... seria[n]chato dar ao famoso[n]Goemon o tratamento usual...[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 59556 65535 0]Faremos isso. Usaremos esses[n]dois dados para jogar um jogo[n]que chamei... Par ou ímpar![n][f 1 3 65535][w][e]
 
 [msg MSG_GAMBLE_TUTORIAL_MORU [Morgana]]
-[s][bup 0 3 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]HM, parece que apenas temos que vencer esse[n]demônio em um jogo de dados...[n][f 1 3 65535][w][e]
+[s][bup 0 3 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Hum, acho que teremos que vencer[n]o demônio em um jogo de dados...[n][f 1 3 65535][w][e]
 
 [msg MSG_GAMBLE_TUTORIAL_02]
-[s][vp 8 2 0 0 65535 0]Acho que só preciso vencer esse demônio em[n]um jogo de dados...[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0]Eu só tenho que vencer esse demônio[n]em um jogo de dados...[n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_TUTORI_2 [Demon]]
-[s][vp 8 2 0 59555 65535 0]Primeiro, você terá que escolher par ou[n]ímpares.[n][f 1 3 65535][w][e]
-[s][vp 8 2 0 59556 65535 0]Até significa números como dois, seis e[n]oito, enquanto ímpares significa números[n]como três, sete e onze.[n][f 1 3 65535][w][e]
-[s][vp 8 2 0 59556 65535 0]Depois de escolher, vou rolar os dados.[n]Se você adivinhar o resultado corretamente,[n]você ganha. Caso contrário, você perde.[n][f 1 3 65535][w][e]
-[s][vp 8 2 0 59555 65535 0]E isso é tudo o que há para isso...[n]Você entende as regras?[n][f 1 3 65535][w][e]
+[msg MSG_JIGOKU_GAMBLE_TUTORI_2 [Demone]]
+[s][vp 8 2 0 59555 65535 0]Primeiro, você terá que escolher[n]entre duas opções: par ou ímpar.[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 59556 65535 0]Par indica números como dois,[n]seis, oito... Ímpar indica[n]outros, como três ou sete.[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 59556 65535 0]Depois de escolher, eu rolarei o dado. Se você[n]acertar, você vai ganhar. Caso contrário, você[n]terá perdido.[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 59555 65535 0]Bem, isso é tudo...[n]Você entende as regras?[n][f 1 3 65535][w][e]
 
 [sel GAMBLE_TUTORIAL_YES_NO top]
-[s]Absolutamente.[e]
+[s]Certamente.[e]
 [s]Não exatamente.[e]
 
-[msg MSG_JIGOKU_GAMBLE_START [Demon]]
-[s][vp 8 2 0 59555 65535 0]Bem, então... qual é a sua escolha: estranho[n]ou mesmo? Faça sua aposta![n][f 1 3 65535][w][e]
+[msg MSG_JIGOKU_GAMBLE_START [Demone]]
+[s][vp 8 2 0 59555 65535 0]Então... Faça a sua escolha.[n]Par ou ímpar? Aposte![n][f 1 3 65535][w][e]
 
 [sel MSG_JIGOKU_GAMBLE_START_ top]
 [s]Até.[e]
-[s]Ímpar.[e]
+[s]Tiros.[e]
 
-[msg MSG_JIGOKU_GAMBLE_TYOU [Demon]]
-[s][vp 8 2 0 59555 65535 0]HM, escolha interessante... você vencerá se[n]o número for par.[n][f 1 3 65535][w][e]
+[msg MSG_JIGOKU_GAMBLE_TYOU [Demone]]
+[s][vp 8 2 0 59555 65535 0]Hm, escolha interessante... Se[n]o número for par, você ganha.[n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_HAN [Demon]]
-[s][vp 8 2 0 59555 65535 0]HM, escolha interessante... você ganhará se[n]o número for estranho.[n][f 1 3 65535][w][e]
+[msg MSG_JIGOKU_GAMBLE_HAN [Demone]]
+[s][vp 8 2 0 59555 65535 0]Hum, escolha interessante... Se[n]o número for ímpar, você ganha.[n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_GO [Demon]]
-[s][vp 8 2 0 59554 65535 0]Bem, vamos descobrir os resultados![n][f 1 3 65535][w][e]
+[msg MSG_JIGOKU_GAMBLE_GO [Demone]]
+[s][vp 8 2 0 59554 65535 0]Bem, vamos descobrir como[n]isso termina![n][f 1 3 65535][w][e]
 
 [msg MSG_Stage01_Clear01 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 1181 65535 0]Ótimo, você ganhou a aposta![n][f 1 3 65535][w][e]
 
 [msg MND_Stage01_Clear01]
-[s][vp 8 2 0 0 65535 0]Eu ganhei a aposta...![n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0]Ganhei a aposta...![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAME_CLEAR02 [Demon]]
-[s][vp 8 2 0 59556 65535 0]Nghhh... que sorte incrível.[n]Eu deveria ter esperado nada menos do famoso[n]Goemon![n][f 1 3 65535][w][e]
-[s][vp 8 2 0 59555 65535 0]É sua vitória. Continue adiante...[n][f 1 3 65535][w][e]
+[msg MSG_JIGOKU_GAME_CLEAR02 [Demone]]
+[s][vp 8 2 0 59556 65535 0]Nghhh... que sorte idiota.[n]Eu não poderia esperar menos,[n]do famoso Goemon...![n][f 1 3 65535][w][e]
+[s][vp 8 2 0 59555 65535 0]Você ganha. Vamos continuar...[n][f 1 3 65535][w][e]
 
 [msg MSG_JIGOKU_GAME_CLEAR03_ [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Ei, o demônio se foi e o portão se abriu...[n]parece que você pode se mover agora![n][f 1 3 65535][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Ei, o demônio desapareceu[n]e os portões se abriram...[n]Você pode continuar![n][f 1 3 65535][w][e]
 
 [msg MSG_JIGOKU_GAME_CLEAR03]
-[s][vp 8 2 0 0 65535 0]O demônio desapareceu e o portão se abriu...[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0]O demônio desapareceu[n]e os portões se abriram...[n][f 1 3 65535][w][e]
 
 [msg MSG_JIGOKU_GAME_RESULT01 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 1174 65535 0]De alguma forma, você conseguiu limpar o[n]palco.[n][f 1 3 65535][w][e]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Eu amei essa atitude que você teve.[n]Sua persistência é tão legal![n][f 1 3 65535][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 1174 65535 0]Você conseguiu passar de nível...[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Eu gosto da sua abordagem.[n]Perseverança é uma boa qualidade![n][f 1 3 65535][w][e]
 
 [msg MSG_JIGOKU_GAME_RESULT01_2]
-[s][vp 8 2 0 0 65535 0]Consegui limpar o palco...[n][f 1 3 65535][w][e]
-[s][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Sinto que aprendi a continuar avançando sem[n]nunca desistir...[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0]Consegui passar de nível...[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Sinto que aprendi[n]a continuar sem[n]desistir... Ou pelo menos penso...[n][f 1 3 65535][w][e]
 
 [msg MSG_JIGOKU_GAME_RESULT_U [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 1166 65535 0]O livro da técnica secreta ajudou, hein?[n]Você está sempre procurando a maneira mais[n]eficiente de fazer as coisas. Eu admiro[n]isso por você![n][f 1 3 65535][w][e]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Eu amei essa atitude que você teve.[n]Sua persistência é tão legal![n][f 1 3 65535][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 1166 65535 0]O livro de técnicas secretas é[n]ajudado, hein? Você é sempre tão[n]eficiente. Eu te admiro![n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Eu gosto da sua abordagem.[n]Perseverança é uma boa qualidade![n][f 1 3 65535][w][e]
 
 [msg MSG_JIGOKU_GAME_RESULT_U_2]
-[s][vp 8 2 0 78 65535 0]Não foi realmente muito emocionante com essa[n]técnica...[n][f 1 3 65535][w][e]
-[s][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Sinto que aprendi a continuar avançando sem[n]nunca desistir...[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 78 65535 0]Não foi muito satisfatório,[n]usar aquela técnica...[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Sinto que aprendi[n]a continuar sem[n]desistir... Ou pelo menos penso...[n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAME_OVER [Demon]]
-[s][vp 8 2 0 59555 65535 0]Gwahaha, que lamentável.[n]Você perdeu![n][f 1 3 65535][w][e]
-[s][vp 8 2 0 59555 65535 0]Você deve gastar toda a eternidade nessas[n]profundidades ardentes![n][f 1 3 65535][w][e]
+[msg MSG_JIGOKU_GAME_OVER [Demone]]
+[s][vp 8 2 0 59555 65535 0]Gwahaha, azar.[n]Você perdeu![n][f 1 3 65535][w][e]
+[s][vp 8 2 0 59555 65535 0]Você passará o resto da eternidade[n]neste abismo infernal![n][f 1 3 65535][w][e]
 
 [msg MSG_STEP2_START_02_MORU [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 1171 65535 0]Isso é... um santuário? Há um cara demoníaco[n]gigante em roupas vermelhas de pé ali...[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 1171 65535 0]Isso é um santuário? Tem um[n]grande demônio vestido[n]de vermelho lá embaixo...[n][f 1 3 65535][w][e]
 
 [msg MND_STEP2_START_02]
-[s][vp 8 2 0 62 65535 0]Isso é um santuário...? Há um grande demônio[n]em roupas vermelhas ali...[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 62 65535 0]Isso é um santuário? Tem um grande[n]demônio vestido de vermelho ali...[n][f 1 3 65535][w][e]
 
 [msg MSG_GAMBLE_TUTORIAL_STEP [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]HM, o rei Yama ainda está lá.[n][f 1 3 65535][w][e]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Teremos que jogar outro jogo de jogo. Você[n]quer perguntar sobre as regras novamente?[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Hum, o Rei Yama ainda está aqui.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Teremos que jogar outro jogo.[n]Gostaria de perguntar[n]uma explicação das regras novamente?[n][f 1 3 65535][w][e]
 
 [msg MSG_GAMBLE_TUTORIAL_STEP_2]
-[s][vp 8 2 0 0 65535 0]O rei Yama está esperando por mim...[n][f 1 3 65535][w][e]
-[s][vp 8 2 0 0 65535 0]Estou prestes a enfrentar outro desafio de[n]jogo. Talvez eu deva pedir as regras[n]novamente...[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0]O Rei Yama está esperando por mim...[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0]Estou prestes a enfrentar outro desafio.[n]Talvez eu deva pedir novamente[n]uma explicação sobre as regras...[n][f 1 3 65535][w][e]
 
-[msg MSG_STEP2_START [King Yama]]
-[s][vp 8 2 0 59555 65535 0]Então você veio! Maravilhoso.[n][f 1 3 65535][w][e]
-[s][vp 8 2 0 59556 65535 0]Meu nome é o rei Yama. O que quer que[n]aconteça nesta terra de tormento está[n]fazendo.[n][f 1 3 65535][w][e]
+[msg MSG_STEP2_START [Re Yama]]
+[s][vp 8 2 0 59555 65535 0]Ah, aí está você! Magnífico.[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 59556 65535 0]Meu nome é Rei Yama. Tudo o que[n]acontece nestas terras[n]de tormento é obra minha.[n][f 1 3 65535][w][e]
 
 [msg MSG_STEP2_START_03_MORU [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Você acha que ele vai querer que jogamos[n]outro jogo de dados?[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Talvez ele queira jogar[n]outro jogo de dados?[n][f 1 3 65535][w][e]
 
 [msg MND_STEP2_START_03]
-[s][vp 8 2 0 0 65535 0]Gostaria de saber se precisaremos jogar[n]outro jogo de dados...[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0]Quem sabe se é hora de jogar[n]outro jogo de dados...[n][f 1 3 65535][w][e]
 
-[msg MSG_STEP2_START_02 [King Yama]]
-[s][vp 8 2 0 59556 65535 0]Agora, então, vamos jogar um jogo. Tenho[n]certeza que você já conhece as regras...[n]mas você precisa ouvi-las novamente?[n][f 1 3 65535][w][e]
+[msg MSG_STEP2_START_02 [Re Yama]]
+[s][vp 8 2 0 59556 65535 0]Então agora vamos jogar um jogo. Tenho[n]certeza de que você já conhece as regras.[n]Gostaria de ouvi-las novamente?[n][f 1 3 65535][w][e]
 
 [sel GAMBLE_TUTORIAL_STEP2_YE top]
-[s]Não há necessidade disso.[e]
-[s]Isso seria adorável.[e]
+[s]Não há necessidade.[e]
+[s]Isso seria bom.[e]
 
-[msg MSG_STEP2_START_03 [King Yama]]
-[s][vp 8 2 0 59555 65535 0]Primeiro, eu vou escolher ímpares ou[n]uniformes.[n][f 1 3 65535][w][e]
-[s][vp 8 2 0 59556 65535 0]Até significa números como dois, seis e[n]oito, enquanto ímpares significa números[n]como três, sete e onze.[n][f 1 3 65535][w][e]
-[s][vp 8 2 0 59556 65535 0]Depois disso, vou rolar os dados. Um palpite[n]correto é uma vitória, mas um palpite[n]incorreto é uma perda.[n][f 1 3 65535][w][e]
-[s][vp 8 2 0 59555 65535 0]E isso é tudo o que há para isso...[n]Você entende as regras?[n][f 1 3 65535][w][e]
+[msg MSG_STEP2_START_03 [Re Yama]]
+[s][vp 8 2 0 59555 65535 0]Em primeiro lugar, você terá que escolher[n]entre par e ímpar.[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 59556 65535 0]Par indica números como dois,[n]seis, oito... Ímpar indica[n]outros, como três ou sete.[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 59556 65535 0]Então eu vou rolar o dado.[n]Se você acertar, você ganha.[n]Se você errar, você perde.[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 59555 65535 0]Bem, isso é tudo...[n]Você entende as regras?[n][f 1 3 65535][w][e]
 
-[msg MSG_STEP2_START_04 [King Yama]]
-[s][vp 8 2 0 59555 65535 0]No entanto, meu jogo é muito mais rigoroso[n]que o do demônio anterior![n][f 1 3 65535][w][e]
-[s][vp 8 2 0 59556 65535 0]Você precisará ganhar os dois melhores em[n]cada três para realmente ter sucesso! Caso[n]contrário, você perde![n][f 1 3 65535][w][e]
+[msg MSG_STEP2_START_04 [Re Yama]]
+[s][vp 8 2 0 59555 65535 0]Saiba que jogar comigo[n]vai ser mais difícil![n][f 1 3 65535][w][e]
+[s][vp 8 2 0 59556 65535 0]Você precisa vencer dois dos três jogos[n]para obter um verdadeiro sucesso![n]Caso contrário, você será derrotado![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_START__2 [King Yama]]
-[s][vp 8 2 0 59556 65535 0]Agora, então, esta é a primeira rodada.[n]Mesmo ou estranho... qual você escolhe?[n][f 1 3 65535][w][e]
+[msg MSG_JIGOKU_GAMBLE_START__2 [Re Yama]]
+[s][vp 8 2 0 59556 65535 0]Bem, esta é a primeira rodada.[n]Par ou ímpar? Faça sua escolha.[n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_START__3 [King Yama]]
-[s][vp 8 2 0 59556 65535 0]Em seguida, vem a segunda rodada.[n]Mesmo ou estranho... qual você escolhe?[n][f 1 3 65535][w][e]
+[msg MSG_JIGOKU_GAMBLE_START__3 [Re Yama]]
+[s][vp 8 2 0 59556 65535 0]Certo, aqui está a segunda rodada.[n]Par ou ímpar? Faça sua escolha.[n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_START__4 [King Yama]]
-[s][vp 8 2 0 59556 65535 0]Na terceira e última rodada.[n]Mesmo ou estranho... qual você escolhe?[n][f 1 3 65535][w][e]
+[msg MSG_JIGOKU_GAMBLE_START__4 [Re Yama]]
+[s][vp 8 2 0 59556 65535 0]Terceira e última rodada.[n]Par ou ímpar? Faça sua escolha.[n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_TYOU_E [King Yama]]
-[s][vp 8 2 0 59556 65535 0]Então você está indo mesmo? Os dados[n]decidirão seu destino.[n][f 1 3 65535][w][e]
+[msg MSG_JIGOKU_GAMBLE_TYOU_E [Re Yama]]
+[s][vp 8 2 0 59556 65535 0]Você escolheu par?[n]Corte seu lote.[n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_HAN_EN [King Yama]]
-[s][vp 8 2 0 59556 65535 0]OHO, você escolheu estranho? Os dados[n]decidirão seu destino.[n][f 1 3 65535][w][e]
+[msg MSG_JIGOKU_GAMBLE_HAN_EN [Re Yama]]
+[s][vp 8 2 0 59556 65535 0]Oh-oh, você escolheu ímpar?[n]Os pontos nos dados[n]decidirão seu destino.[n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_START__5 [King Yama]]
-[s][vp 8 2 0 59554 65535 0]Agora, então, vamos começar![n][f 1 3 65535][w][e]
+[msg MSG_JIGOKU_GAMBLE_START__5 [Re Yama]]
+[s][vp 8 2 0 59554 65535 0]Muito bem, vamos começar![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAME_CLEAR02_ [King Yama]]
-[s][vp 8 2 0 59555 65535 0]Hrgh, você venceu!?[n][f 1 3 65535][w][e]
-[s][vp 8 2 0 59556 65535 0]Parece que seu destino...[n]ainda não chegou ao fim.[n][f 1 3 65535][w][e]
-[s][vp 8 2 0 59556 65535 0]O mundo dos vivos não passa de sofrimento...[n]Espero que você tenha forças para[n]sobreviver![n][f 1 3 65535][w][e]
+[msg MSG_JIGOKU_GAME_CLEAR02_ [Re Yama]]
+[s][vp 8 2 0 59555 65535 0]Argh, você w-ganhou?!?[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 59556 65535 0]Parece que seu destino...[n]ainda não foi cumprido.[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 59556 65535 0]O mundo dos vivos é apenas[n]sofrimento... Espero que você tenha forças[n]para atravessá-lo ileso![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAME_OVER_ROU [King Yama]]
-[s][vp 8 2 0 59555 65535 0]Agora... nossa batalha de três rodadas[n]chegou à sua conclusão...[n][f 1 3 65535][w][e]
-[s][vp 8 2 0 59556 65535 0]Mas parece que você não conseguiu o número[n]adequado de vitórias... você terminou![n][f 1 3 65535][w][e]
-[s][vp 8 2 0 59556 65535 0]Apenas relaxe enquanto você desce nos poços[n]infernais do inferno![n]Gahahahaha![n][f 1 3 65535][w][e]
+[msg MSG_JIGOKU_GAME_OVER_ROU [Re Yama]]
+[s][vp 8 2 0 59555 65535 0]Então... nossa batalha[n]em três rodadas chegou ao fim...[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 59556 65535 0]Mas parece que você falhou[n]para obter o suficiente[n]vitórias... É o seu fim![n][f 1 3 65535][w][e]
+[s][vp 8 2 0 59556 65535 0]Você também pode se sentir confortável,[n]ao começar sua descida...[n]aos Pits of Hell! Muahahah![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAME_OVER_ROU_2 [King Yama]]
-[s][vp 8 2 0 59556 65535 0]Bem, bem, bem... estamos apenas no meio do[n]caminho, mas apenas olhe para o estado das[n]coisas![n][f 1 3 65535][w][e]
-[s][vp 8 2 0 59556 65535 0]Parece que você não conseguiu o número[n]adequado de vitórias... você terminou![n][f 1 3 65535][w][e]
-[s][vp 8 2 0 59556 65535 0]Apenas relaxe enquanto você desce nos poços[n]infernais do inferno![n]Gahahahaha![n][f 1 3 65535][w][e]
+[msg MSG_JIGOKU_GAME_OVER_ROU_2 [Re Yama]]
+[s][vp 8 2 0 59556 65535 0]Bem, bem, bem... Estamos apenas[n]na metade do caminho, mas veja[n]como estão as coisas...![n][f 1 3 65535][w][e]
+[s][vp 8 2 0 59556 65535 0]Parece que você falhou[n]para obter o suficiente[n]vitórias... Isso é o seu fim![n][f 1 3 65535][w][e]
+[s][vp 8 2 0 59556 65535 0]Você também pode se sentir confortável,[n]ao começar sua descida...[n]aos Pits of Hell! Muahahah![n][f 1 3 65535][w][e]
 
 [msg MSG_JIGOKU_GAME_S2_CLEAR [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 1181 65535 0]Tudo bem, você terminou a lenda de Gambla[n]Goemon![n][f 1 3 65535][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 1181 65535 0]Muito bem, acabou[n]Legend of Gambla Goemon![n][f 1 3 65535][w][e]
 
 [msg MND_JIGOKU_GAME_S2_CLEAR]
-[s][vp 8 2 0 63 65535 0]Finalmente terminei a lenda de Gambla[n]Goemon...![n][f 1 3 65535][w][e]
+[s][vp 8 2 0 63 65535 0]Finalmente terminado[n]Legend of Gambla Goemon...![n][f 1 3 65535][w][e]
 
 [msg MSG_JIGOKU_GAMBLE_THINK_ [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 1171 65535 0]Legal, você acertou![n][f 1 3 65535][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 1171 65535 0]Você acertou![n][f 1 3 65535][w][e]
 
 [msg MND_JIGOKU_GAMBLE_THINK_]
-[s][vp 8 2 0 54 65535 0]Eu adivinhei corretamente...![n][f 1 3 65535][w][e]
+[s][vp 8 2 0 54 65535 0]Eu imaginei...![n][f 1 3 65535][w][e]
 
 [msg MSG_JIGOKU_GAMBLE_THINK__2 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 1067 65535 0]Assim como eu esperaria de Goemon.[n]Nosso oponente nem sequer notou nada![n][f 1 3 65535][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 1067 65535 0]Exatamente o que eu esperava[n]de Goemon. Nosso oponente[n]não percebeu nada![n][f 1 3 65535][w][e]
 
 [msg MND_JIGOKU_GAMBLE_THINK__2]
-[s][vp 8 2 0 54 65535 0]O inimigo não percebeu nosso truque...![n][f 1 3 65535][w][e]
+[s][vp 8 2 0 54 65535 0]O inimigo não percebeu[n]o truque que usamos![n][f 1 3 65535][w][e]
 
 [msg MSG_JIGOKU_GAMBLE_LOSE [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 1182 65535 0]Você entendeu errado...[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 1182 65535 0]Você estava errado...[n][f 1 3 65535][w][e]
 
 [msg MND_JIGOKU_GAMBLE_LOSE]
-[s][vp 8 2 0 20 65535 0]Eu adivinhei errado...[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 20 65535 0]Eu estava errado...[n][f 1 3 65535][w][e]
 
 [msg MSG_JIGOKU_GAME_OVER_COM [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]O que você acha que vai acontecer com o[n]protagonista agora?[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Agora, o que você acha que vai acontecer[n]com o protagonista...?[n][f 1 3 65535][w][e]
 
 [msg MSG_JIGOKU_GAME_OVER_COM_2]
-[s][vp 8 2 0 0 65535 0]Eu me pergunto o que vai acontecer com o[n]protagonista do jogo agora...[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0]Quem sabe agora o que vai acontecer[n]com o protagonista do jogo...[n][f 1 3 65535][w][e]
 
 [msg MSG_FAILED_UP [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Você pode não ter vencido...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Mas eu amei essa atitude que você teve.[n]Sua persistência é tão legal![n][f 1 3 65535][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Você pode ter perdido, mas...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Mas eu gosto da sua abordagem.[n]Perseverança é uma boa qualidade![n][f 1 3 65535][w][e]
 
 [msg MND_FAILED_UP]
 [s][vp 8 2 0 0 65535 0]Eu perdi...[n][f 1 3 65535][w][e]
-[s][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Mas sinto que aprendi a continuar avançando[n]sem nunca desistir... pelo menos um pouco...[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Mas sinto que aprendi[n]a seguir em frente sem[n]nunca desistir... Ou pelo menos eu acho...[n][f 1 3 65535][w][e]
 
 [msg MSG_JIGOKU_GAME_END_MORU [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 1035 65535 0]Bem, a vitória neste jogo realmente se[n]resume à sorte. Apenas aceite sua derrota[n]com dignidade.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 1035 65535 0]Bem, vencer este jogo[n]é uma questão de sorte.[n]Aceite a derrota com honra.[n][f 1 3 65535][w][e]
 
 [msg MSG_HINTO_BOOK_NO [Morgana]]
-[s][bup 0 3 5 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Eu gostaria que houvesse uma maneira de[n]tornar este jogo um pouco mais fácil...[n][f 1 3 65535][w][e]
+[s][bup 0 3 5 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Eu gostaria que houvesse uma maneira de tornar[n]este jogo mais fácil...[n][f 1 3 65535][w][e]
 
 [msg MND_HINTO_BOOK_NO]
-[s][vp 8 2 0 0 65535 0]Se ao menos houvesse uma maneira de diminuir[n]a dificuldade do jogo...[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0]Se ao menos houvesse uma maneira[n]de diminuir a dificuldade...[n][f 1 3 65535][w][e]
 
 [msg MSG_HINTO_BOOK00 [Morgana]]
-[s][bup 0 3 5 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Você não tem um livro sobre técnicas[n]secretas? Talvez você deva tentar fazer uma[n]leitura algum dia.[n][f 1 3 65535][w][e]
+[s][bup 0 3 5 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Não tem um livro sobre técnicas secretas? Talvez[n]você devesse tentar ler algum dia.[n][f 1 3 65535][w][e]
 
 [msg MND_HINTO_BOOK04]
-[s][vp 8 2 0 0 65535 0]Agora que penso nisso, tenho um livro sobre[n]técnicas secretas...[n]Talvez eu deva ler algum dia.[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0]Agora que penso nisso, tenho um livro[n]sobre técnicas secretas...Talvez[n]deva lê-lo algum dia.[n][f 1 3 65535][w][e]
 
 [msg MSG_BOOK_DONE_M [Morgana]]
-[s][bup 0 3 5 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]É muito difícil para você? Vamos apenas[n]tentar novamente na próxima vez![n][f 1 3 65535][w][e]
+[s][bup 0 3 5 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]É tão difícil? Devemos[n]tentar novamente, da próxima vez![n][f 1 3 65535][w][e]
 
 [msg MND_BOOK_DONE_N]
-[s][vp 8 2 0 0 65535 0]Isso é muito difícil... Vou ter que tentar[n]mais tarde.[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0]É bem difícil...[n]Vou tentar de novo mais tarde.[n][f 1 3 65535][w][e]
 
 [msg MSG_JIGOKU_GAME_END_MORU_2 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 1166 65535 0]Bem, está começando a ficar tarde.[n]Vamos dormir logo, ok?[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 1166 65535 0]Bem, está ficando tarde.[n]Vamos dormir, ok?[n][f 1 3 65535][w][e]
 
 [msg MSG_JIGOKU_GAME_END_MORU_3 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 1166 65535 0]Isso demorou muito tempo...[n]Provavelmente deveríamos parar de jogar por[n]enquanto, você não acha?[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 1166 65535 0]Demorou muito...[n]Deveríamos parar[n]de jogar por enquanto. O que você diz?[n][f 1 3 65535][w][e]
 
 [msg MND_JIGOKU_GAME_END]
 [s][vp 8 2 0 57 65535 0]Está ficando tarde...[n]Eu deveria ir para a cama.[n][f 1 3 65535][w][e]
 
 [msg MND_JIGOKU_GAME_END_DAY]
-[s][vp 8 2 0 57 65535 0]HM, eu provavelmente deveria fazer uma pausa[n]em todos os videogames...[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 57 65535 0]Hum, talvez eu deva fazer uma pausa.[n]Acho que joguei demais...[n][f 1 3 65535][w][e]
 
 [msg MSG_PASS_MORU [Morgana]]
-[s][bup 0 3 0 65535 0][vp 8 2 0 0 65535 0]Tudo bem, vamos aproveitar esse final![n][f 1 3 65535][w][e]
+[s][bup 0 3 0 65535 0][vp 8 2 0 0 65535 0]Bem, vamos aproveitar[n]este final![n][f 1 3 65535][w][e]
 
 [msg MND_PASS]
-[s][vp 8 2 0 0 65535 0]Hora de aproveitar o final...[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0]Vamos aproveitar o final...[n][f 1 3 65535][w][e]
 
 [msg MSG_053_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Então, este manual diz que se você enviar a[n]senha que você vê após o final... você[n]recebe um prêmio?[n][f 1 3 65535][w][e]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Esta é uma promoção de anos atrás, no[n]entanto. Provavelmente não faz sentido[n]fazer isso agora...[n][f 1 3 65535][w][e]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Mas acho que não faria mal escrever de[n]qualquer maneira. Talvez algumas lojas de[n]jogos antigas tenham esse tipo de coisa?[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]De acordo com este manual, quem enviar[n]a senha que aparece após a[n]final... ganha um prêmio?[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Mas é uma promoção de alguns[n]anos atrás. Provavelmente não faz sentido[n]tentar agora.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]No entanto, sempre posso anotar.[n]Pode ser do interesse de algumas[n]lojas de jogos retrô, quem sabe...[n][f 1 3 65535][w][e]
 
 [msg MND_053_1_0]
-[s][vp 8 2 0 0 65535 0]Supostamente, se eu enviar a senha mostrada[n]após o final, recebo algum tipo de prêmio.[n][f 1 3 65535][w][e]
-[s][vp 8 2 0 0 65535 0]Mas... esta é uma promoção muito antiga.[n]Provavelmente ainda não está correndo...[n][f 1 3 65535][w][e]
-[s][vp 8 2 0 0 65535 0]Talvez eu deva escrevê-lo, apenas por[n]precaução...[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0]Aparentemente, se eu enviar a[n]senha que aparece após o final,[n]ganho algum tipo de prêmio.[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0]Mas é uma promoção muito antiga. Provavelmente[n]não mais válido...[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0]Talvez seja melhor anotar,[n]só por precaução.[n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S1_1_1 [Demon]]
-[s][vp 8 2 0 59555 65535 0]Olhos de cobra... até![n][f 1 3 65535][w][e]
+[msg MSG_JIGOKU_GAMBLE_S1_1_1 [Demone]]
+[s][vp 8 2 0 59555 65535 0]Duplo um... Par![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S1_1_2 [Demon]]
-[s][vp 8 2 0 59554 65535 0]Um e um dois... estranhos![n][f 1 3 65535][w][e]
+[msg MSG_JIGOKU_GAMBLE_S1_1_2 [Demone]]
+[s][vp 8 2 0 59554 65535 0]Um um e um dois... Ímpar![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S1_1_3 [Demon]]
-[s][vp 8 2 0 59555 65535 0]Um e um três... até![n][f 1 3 65535][w][e]
+[msg MSG_JIGOKU_GAMBLE_S1_1_3 [Demone]]
+[s][vp 8 2 0 59555 65535 0]Um e um três... Par![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S1_1_4 [Demon]]
-[s][vp 8 2 0 59554 65535 0]Um e um quatro... estranhos![n][f 1 3 65535][w][e]
+[msg MSG_JIGOKU_GAMBLE_S1_1_4 [Demone]]
+[s][vp 8 2 0 59554 65535 0]Um e um quatro... Ímpar![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S1_1_5 [Demon]]
-[s][vp 8 2 0 59554 65535 0]Um e um cinco... até![n][f 1 3 65535][w][e]
+[msg MSG_JIGOKU_GAMBLE_S1_1_5 [Demone]]
+[s][vp 8 2 0 59554 65535 0]Um um e um cinco... Par![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S1_1_6 [Demon]]
-[s][vp 8 2 0 59555 65535 0]Um e um seis... estranhos![n][f 1 3 65535][w][e]
+[msg MSG_JIGOKU_GAMBLE_S1_1_6 [Demone]]
+[s][vp 8 2 0 59555 65535 0]Um e um seis... Ímpar![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S1_2_2 [Demon]]
-[s][vp 8 2 0 59554 65535 0]Dois dois... até![n][f 1 3 65535][w][e]
+[msg MSG_JIGOKU_GAMBLE_S1_2_2 [Demone]]
+[s][vp 8 2 0 59554 65535 0]Duplo Dois... Par![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S1_3_2 [Demon]]
-[s][vp 8 2 0 59554 65535 0]Um dois e um três... estranhos![n][f 1 3 65535][w][e]
+[msg MSG_JIGOKU_GAMBLE_S1_3_2 [Demone]]
+[s][vp 8 2 0 59554 65535 0]Um dois e um três... Ímpar![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S1_4_2 [Demon]]
-[s][vp 8 2 0 59554 65535 0]Um dois e um quatro... até![n][f 1 3 65535][w][e]
+[msg MSG_JIGOKU_GAMBLE_S1_4_2 [Demone]]
+[s][vp 8 2 0 59554 65535 0]Um dois e um quatro... Par![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S1_5_2 [Demon]]
-[s][vp 8 2 0 59554 65535 0]Um dois e um cinco... estranhos![n][f 1 3 65535][w][e]
+[msg MSG_JIGOKU_GAMBLE_S1_5_2 [Demone]]
+[s][vp 8 2 0 59554 65535 0]Um dois e um cinco... Ímpar![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S1_6_2 [Demon]]
-[s][vp 8 2 0 59554 65535 0]Dois e seis... até![n][f 1 3 65535][w][e]
+[msg MSG_JIGOKU_GAMBLE_S1_6_2 [Demone]]
+[s][vp 8 2 0 59554 65535 0]Um dois e um seis... Par![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S1_3_3 [Demon]]
-[s][vp 8 2 0 59555 65535 0]Double Threes... até![n][f 1 3 65535][w][e]
+[msg MSG_JIGOKU_GAMBLE_S1_3_3 [Demone]]
+[s][vp 8 2 0 59555 65535 0]Duplo três... Par![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S1_4_3 [Demon]]
-[s][vp 8 2 0 59554 65535 0]Um três e quatro... estranhos![n][f 1 3 65535][w][e]
+[msg MSG_JIGOKU_GAMBLE_S1_4_3 [Demone]]
+[s][vp 8 2 0 59554 65535 0]Um três e um quatro... Ímpar![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S1_5_3 [Demon]]
-[s][vp 8 2 0 59554 65535 0]Três e cinco... até![n][f 1 3 65535][w][e]
+[msg MSG_JIGOKU_GAMBLE_S1_5_3 [Demone]]
+[s][vp 8 2 0 59554 65535 0]Um três e um cinco... Par![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S1_6_3 [Demon]]
-[s][vp 8 2 0 59555 65535 0]Um três e seis... estranhos![n][f 1 3 65535][w][e]
+[msg MSG_JIGOKU_GAMBLE_S1_6_3 [Demone]]
+[s][vp 8 2 0 59555 65535 0]Um três e um seis... Ímpar![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S1_4_4 [Demon]]
-[s][vp 8 2 0 59554 65535 0]Duplo quatros... até![n][f 1 3 65535][w][e]
+[msg MSG_JIGOKU_GAMBLE_S1_4_4 [Demone]]
+[s][vp 8 2 0 59554 65535 0]Duplo Quatro... Par![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S1_5_4 [Demon]]
-[s][vp 8 2 0 59554 65535 0]Quatro e cinco... estranhos![n][f 1 3 65535][w][e]
+[msg MSG_JIGOKU_GAMBLE_S1_5_4 [Demone]]
+[s][vp 8 2 0 59554 65535 0]Um quatro e um cinco... Ímpar![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S1_6_4 [Demon]]
-[s][vp 8 2 0 59554 65535 0]Quatro e seis... até![n][f 1 3 65535][w][e]
+[msg MSG_JIGOKU_GAMBLE_S1_6_4 [Demone]]
+[s][vp 8 2 0 59554 65535 0]Um quatro e um seis... Par![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S1_5_5 [Demon]]
-[s][vp 8 2 0 59554 65535 0]Um par de cinco... até![n][f 1 3 65535][w][e]
+[msg MSG_JIGOKU_GAMBLE_S1_5_5 [Demone]]
+[s][vp 8 2 0 59554 65535 0]Double Five... Par![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S1_5_6 [Demon]]
-[s][vp 8 2 0 59554 65535 0]Cinco e seis... estranhos![n][f 1 3 65535][w][e]
+[msg MSG_JIGOKU_GAMBLE_S1_5_6 [Demone]]
+[s][vp 8 2 0 59554 65535 0]Um cinco e um seis... Ímpar![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S1_6_6 [Demon]]
-[s][vp 8 2 0 59555 65535 0]Um conjunto de seis... até![n][f 1 3 65535][w][e]
+[msg MSG_JIGOKU_GAMBLE_S1_6_6 [Demone]]
+[s][vp 8 2 0 59555 65535 0]Duplo Seis... Par![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S2_1_1 [King Yama]]
-[s][vp 8 2 0 59555 65535 0]Snake-eyes? É mesmo![n][f 1 3 65535][w][e]
+[msg MSG_JIGOKU_GAMBLE_S2_1_1 [Re Yama]]
+[s][vp 8 2 0 59555 65535 0]Duplo? Par![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S2_1_2 [King Yama]]
-[s][vp 8 2 0 59554 65535 0]Um e um dois? É estranho![n][f 1 3 65535][w][e]
+[msg MSG_JIGOKU_GAMBLE_S2_1_2 [Re Yama]]
+[s][vp 8 2 0 59554 65535 0]Um e dois? Ímpar![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S2_1_3 [King Yama]]
-[s][vp 8 2 0 59555 65535 0]Um e um três? É mesmo![n][f 1 3 65535][w][e]
+[msg MSG_JIGOKU_GAMBLE_S2_1_3 [Re Yama]]
+[s][vp 8 2 0 59555 65535 0]Um e três? Par![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S2_1_4 [King Yama]]
-[s][vp 8 2 0 59554 65535 0]Um e um quatro? É estranho![n][f 1 3 65535][w][e]
+[msg MSG_JIGOKU_GAMBLE_S2_1_4 [Re Yama]]
+[s][vp 8 2 0 59554 65535 0]Um e um quatro? Ímpar![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S2_1_5 [King Yama]]
-[s][vp 8 2 0 59554 65535 0]Um e um cinco? É mesmo![n][f 1 3 65535][w][e]
+[msg MSG_JIGOKU_GAMBLE_S2_1_5 [Re Yama]]
+[s][vp 8 2 0 59554 65535 0]Um e cinco? Par![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S2_1_6 [King Yama]]
-[s][vp 8 2 0 59555 65535 0]Um e um seis? É estranho![n][f 1 3 65535][w][e]
+[msg MSG_JIGOKU_GAMBLE_S2_1_6 [Re Yama]]
+[s][vp 8 2 0 59555 65535 0]Um e um seis? Ímpar![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S2_2_2 [King Yama]]
-[s][vp 8 2 0 59554 65535 0]Dois dois? É mesmo![n][f 1 3 65535][w][e]
+[msg MSG_JIGOKU_GAMBLE_S2_2_2 [Re Yama]]
+[s][vp 8 2 0 59554 65535 0]Duplo dois? Par![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S2_3_2 [King Yama]]
-[s][vp 8 2 0 59554 65535 0]Um dois e um três? É estranho![n][f 1 3 65535][w][e]
+[msg MSG_JIGOKU_GAMBLE_S2_3_2 [Re Yama]]
+[s][vp 8 2 0 59554 65535 0]Um dois e um três? Ímpar![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S2_4_2 [King Yama]]
-[s][vp 8 2 0 59554 65535 0]Um dois e um quatro? É mesmo![n][f 1 3 65535][w][e]
+[msg MSG_JIGOKU_GAMBLE_S2_4_2 [Re Yama]]
+[s][vp 8 2 0 59554 65535 0]Um dois e um quatro? Par![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S2_5_2 [King Yama]]
-[s][vp 8 2 0 59554 65535 0]Um dois e um cinco? É estranho![n][f 1 3 65535][w][e]
+[msg MSG_JIGOKU_GAMBLE_S2_5_2 [Re Yama]]
+[s][vp 8 2 0 59554 65535 0]Um dois e um cinco? Ímpar![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S2_6_2 [King Yama]]
-[s][vp 8 2 0 59554 65535 0]Um dois e um seis? É mesmo![n][f 1 3 65535][w][e]
+[msg MSG_JIGOKU_GAMBLE_S2_6_2 [Re Yama]]
+[s][vp 8 2 0 59554 65535 0]Um dois e um seis? Par![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S2_3_3 [King Yama]]
-[s][vp 8 2 0 59555 65535 0]Double Threes? É mesmo![n][f 1 3 65535][w][e]
+[msg MSG_JIGOKU_GAMBLE_S2_3_3 [Re Yama]]
+[s][vp 8 2 0 59555 65535 0]Duplo três? Par![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S2_4_3 [King Yama]]
-[s][vp 8 2 0 59554 65535 0]Um três e um quatro? É estranho![n][f 1 3 65535][w][e]
+[msg MSG_JIGOKU_GAMBLE_S2_4_3 [Re Yama]]
+[s][vp 8 2 0 59554 65535 0]Um três e um quatro? Ímpar![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S2_5_3 [King Yama]]
-[s][vp 8 2 0 59554 65535 0]Um três e um cinco? É mesmo![n][f 1 3 65535][w][e]
+[msg MSG_JIGOKU_GAMBLE_S2_5_3 [Re Yama]]
+[s][vp 8 2 0 59554 65535 0]Um três e um cinco? Par![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S2_6_3 [King Yama]]
-[s][vp 8 2 0 59555 65535 0]Três e seis? É estranho![n][f 1 3 65535][w][e]
+[msg MSG_JIGOKU_GAMBLE_S2_6_3 [Re Yama]]
+[s][vp 8 2 0 59555 65535 0]Um três e um seis? Ímpar![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S2_4_4 [King Yama]]
-[s][vp 8 2 0 59554 65535 0]Duplo quatros? É mesmo![n][f 1 3 65535][w][e]
+[msg MSG_JIGOKU_GAMBLE_S2_4_4 [Re Yama]]
+[s][vp 8 2 0 59554 65535 0]Duplo quatro? Par![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S2_5_4 [King Yama]]
-[s][vp 8 2 0 59554 65535 0]Um quatro e um cinco? É estranho![n][f 1 3 65535][w][e]
+[msg MSG_JIGOKU_GAMBLE_S2_5_4 [Re Yama]]
+[s][vp 8 2 0 59554 65535 0]Um quatro e um cinco? Ímpar![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S2_6_4 [King Yama]]
-[s][vp 8 2 0 59554 65535 0]Quatro e seis? É mesmo![n][f 1 3 65535][w][e]
+[msg MSG_JIGOKU_GAMBLE_S2_6_4 [Re Yama]]
+[s][vp 8 2 0 59554 65535 0]Um quatro e um seis? Par![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S2_5_5 [King Yama]]
-[s][vp 8 2 0 59554 65535 0]Um par de cinco? É mesmo![n][f 1 3 65535][w][e]
+[msg MSG_JIGOKU_GAMBLE_S2_5_5 [Re Yama]]
+[s][vp 8 2 0 59554 65535 0]Duplo cinco? Par![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S2_5_6 [King Yama]]
-[s][vp 8 2 0 59554 65535 0]Um cinco e um seis? É estranho![n][f 1 3 65535][w][e]
+[msg MSG_JIGOKU_GAMBLE_S2_5_6 [Re Yama]]
+[s][vp 8 2 0 59554 65535 0]Um cinco e um seis? Ímpar![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S2_6_6 [King Yama]]
-[s][vp 8 2 0 59555 65535 0]Um conjunto de seis? É mesmo![n][f 1 3 65535][w][e]
+[msg MSG_JIGOKU_GAMBLE_S2_6_6 [Re Yama]]
+[s][vp 8 2 0 59555 65535 0]Dupla é você? Par![n][f 1 3 65535][w][e]
 
 [msg MSG_DEBUG [for debug]]
-[s][vp 8 2 0 0 65535 0]Modo de depuração [n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0]Modo de Depuração[n][f 1 3 65535][w][e]
 
 [sel SEL_DEBUG top]
-[s]com Morgana [e]
-[s]Sem Morgana [e]
+[s]com morgana[e]
+[s]sem morgana[e]
 
 [msg MSG_DEBUG_2 [for debug]]
-[s][vp 8 2 0 0 65535 0]Modo de depuração [n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0]Modo de Depuração[n][f 1 3 65535][w][e]
 
 [sel SEL_DEBUG_2 top]
-[s]Estágio 1 [e]
-[s]Estágio 2 [e]
+[s]Estágio 1[e]
+[s]Estágio 2[e]
 
 [msg MSG_DEBUG_3 [for debug]]
-[s][vp 8 2 0 0 65535 0]Modo de depuração [n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0]Modo de Depuração[n][f 1 3 65535][w][e]
 
 [sel SEL_DEBUG_3 top]
-[s]1  vez [e]
-[s]2 vez [e]
+[s]Primeira vez[e]
+[s]Segundo tempo[e]
 

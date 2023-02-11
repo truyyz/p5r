@@ -1,27 +1,27 @@
 [msg MND_000_0_0]
-[s][vp 8 0 0 0 65535 0]Este é o meu último momento de tempo livre.[n]Com quem devo gastar?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Este é o último momento de[n]tempo livre que me resta.[n]Com quem devo passá-lo...?[n][f 1 3 65535][w][e]
 
 [sel SEL_001_0_0 top]
-[s]Dê um passeio com Makoto [e]
-[s]Vá para a praia com Ann [e]
-[s]Vá ver Kawakami [e]
-[s]Vá se encontrar com hifumi [e]
-[s]Sair com ryuji [e]
+[s]Passeie com Makoto[e]
+[s]Vá à praia com Ann[e]
+[s]Conheça Kawakami[e]
+[s]Conheça Hifumi[e]
+[s]Passe um tempo com Ryuji[e]
 
 [msg MND_002_0_0]
-[s][vp 8 0 0 0 65535 0]Estamos nos encontrando na praia.[n]Eu deveria me apressar e mudar para o meu[n]maiô...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Nos encontraremos na praia.[n]Eu deveria me apressar e ir[n]vestir meu traje de banho...[n][f 1 3 65535][w][e]
 
 [msg MND_003_0_0]
-[s][vp 8 0 0 0 65535 0]Estamos nos encontrando na praia.[n]Eu deveria me trocar de maiô e me encontrar[n]com Ryuji...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Nos encontraremos na praia.[n]Eu deveria colocar meu[n]maiô e ir para Ryuji...[n][f 1 3 65535][w][e]
 
 [msg MND_004_0_0]
 [s][vp 1 0 0 0 0 0]......[n][f 1 3 65535][w][e]
-[s][vp 1 0 0 0 0 0]Parece que foi meu alarme...[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Era meu despertador...[n][f 1 3 65535][w][e]
 
 [msg MND_005_0_0]
 [s][vp 1 0 0 0 0 0]......![n][f 1 3 65535][w][e]
 [s][vp 1 0 0 0 0 0]Recebi uma mensagem de Ryuji.[n][f 1 3 65535][w][e]
 
 [msg MND_999_0_0]
-[s][vp 8 0 0 0 65535 0]Parece que recebi algumas mensagens.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Recebi[n]algumas mensagens.[n][f 1 3 65535][w][e]
 

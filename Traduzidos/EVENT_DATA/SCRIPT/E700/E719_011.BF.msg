@@ -1,9 +1,9 @@
 [msg HELP_YOSHIDA_OPEN [太陽 総理]]
-[s]Você formou um contrato com o[n]primeiro-ministro do Sun Arcana![n][w][e]
+[s]Você firmou um contrato[n]com o primeiro-ministro[n]do Arcano - o Sol![n][w][e]
 
 [msg HELP_YOSHIDA_ARCANA_BONU [合体ボーナス]]
-[s][vp 8 0 0 0 65535 0]Agora você ganhará um bônus de experiência[n]toda vez que fundir uma persona do arcana[n]do sol![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]A partir de agora você receberá um bônus de[n]experiência toda vez que fundir[n]uma Persona do Arcano: o Sol![n][f 1 3 65535][w][e]
 
 [msg HELP_YOSHIDA_FUNCTION [追加交渉]]
-[s]Agora você pode obter cartões em branco como[n]um bônus adicional ao obter cartões de[n]habilidades através da negociação.[n][f 1 3 65535][w][e]
+[s]Agora você poderá receber cartas brancas além das[n]cartas de habilidade obtidas nas negociações.[n][f 1 3 65535][w][e]
 
