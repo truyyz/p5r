@@ -1,95 +1,95 @@
 [msg WEATHER_TUTO_mes01 [Morgana]]
-[s]Ah, sim... agora que estaremos visitando[n]lembranças, eu deveria falar sobre o clima.[n][w][e]
+[s]Oh sim! Já que vamos[n]explorar os Mementos, é apropriado[n]que eu fale sobre o clima.[n][w][e]
 
 [msg WEATHER_TUTO_mes02 [Ryuji]]
-[s]O que? O clima? E o clima?[n][w][e]
+[s]Coisa? O clima? O que o clima tem a ver com isso?[n][w][e]
 
 [msg WEATHER_TUTO_mes03 [Morgana]]
-[s]Você deve saber que lembranças e palácios[n]são influenciados pelo clima neste mundo.[n][w][e]
-[s]Para ser mais específico, quando o humor de[n]uma pessoa muda como resultado do clima,[n]isso afeta as sombras no metaverso.[n][w][e]
+[s]Você deve saber que Memento[n]e Palácios são afetados[n]pelo clima deste mundo.[n][w][e]
+[s]Se o humor de uma pessoa muda[n]devido ao clima, isso reflete[n]nas Sombras no Metaverso.[n][w][e]
 
 [msg WEATHER_TUTO_mes04 [Ryuji]]
-[s]Huh? Diabos você está falando?[n]Como o tempo bagunce as coisas assim?[n][w][e]
+[s]Huh? Do que diabos você está falando?[n]Como pode o clima[n]confundir tudo assim?[n][w][e]
 
 [msg WEATHER_TUTO_mes05 [Morgana]]
-[s]Você já teve aqueles dias em que está se[n]sentindo baixo porque o tempo está ruim?[n][w][e]
+[s]Você nunca fica deprimido por causa da chuva?[n][w][e]
 
 [msg WEATHER_TUTO_mes06 [Ryuji]]
-[s]HM? Eu?[n][w][e]
+[s]Hum? Eu devo?[n][w][e]
 
 [msg WEATHER_TUTO_mes07 [Ann]]
-[s]Sim, eu posso me relacionar com isso.[n][w][e]
+[s]Sim, acho que entendo.[n][w][e]
 
 [msg WEATHER_TUTO_mes08 [Morgana]]
-[s]Esse sentimento, por menor que seja,[n]influencia a maneira como a pessoa vê o[n]mundo.[n][w][e]
+[s]Esse sentimento, por menor que seja, afeta como[n]as pessoas veem o mundo.[n][w][e]
 
 [msg WEATHER_TUTO_mes9 [Ann]]
-[s]Oh... então é a nossa cognição que muda, é[n]certo?[n][w][e]
+[s]Ah...então é a nossa que[n]muda da cognição,[n]né?[n][w][e]
 
 [msg WEATHER_TUTO_mes10 [Morgana]]
-[s]Essa é minha senhora Ann. Você é tão nítido,[n]ao contrário de alguns doofus que eu[n]conheço...[n][w][e]
-[s]De qualquer forma, o clima tem um impacto em[n]muitas pessoas e, portanto, também tem um[n]impacto nas lembranças e palácios.[n][w][e]
+[s]Aqui está minha Lady Ann.[n]Você está acordado, ao contrário[n]de um idiota que conhecemos bem...[n][w][e]
+[s]No entanto, o clima afeta muitas[n]pessoas e, como resultado, tem um[n]impacto nos Mementos e nos Palácios.[n][w][e]
 
 [msg WEATHER_TUTO_mes11 [Ryuji]]
-[s]Naw, naw, naw, espere um minuto. Você está[n]falando sobre o clima estúpido, certo?[n][w][e]
-[s]Tivemos dias em que o tempo não estava[n]ótimo. Isso teve um impacto no outro mundo?[n][w][e]
+[s]Ei, ei, ei, espere.[n]Você está falando sobre o maldito[n]TEMPO, certo?[n][w][e]
+[s]Havia dias em que o tempo era péssimo. Então,[n]isso teve consequências sobrenaturais?[n][w][e]
 
 [msg WEATHER_TUTO_mes12 [Morgana]]
-[s]Bem, talvez nada muito dramático, mas ainda[n]houve um efeito, especialmente nas sombras.[n][w][e]
+[s]Bem, nada dramático,[n]mas houve um efeito.[n]Especialmente nas sombras.[n][w][e]
 
 [msg WEATHER_TUTO_mes13 [Ann]]
-[s]Nas sombras?[n][w][e]
+[s]Nas Sombras?[n][w][e]
 
 [msg WEATHER_TUTO_mes14 [Morgana]]
-[s]Quando o tempo está ruim neste mundo, você[n]pode ver sombras raras.[n][w][e]
-[s]Eles são chamados de demônios do tesouro.[n]E eles geralmente não estão em lembranças ou[n]palácios.[n][w][e]
+[s]Quando o tempo está ruim,[n]sombras raras[n]podem ser encontradas neste mundo.[n][w][e]
+[s]Eles são chamados de Demônios do Tesouro...[n]e geralmente não estão em[n]Mementos ou Palácios.[n][w][e]
 
 [msg WEATHER_TUTO_mes15 [Ryuji]]
-[s]...Sério?[n][w][e]
+[s]...A sério?[n][w][e]
 
 [msg WEATHER_TUTO_mes16 [Morgana]]
-[s]Com os palácios, as preferências do nosso[n]alvo também entram em jogo.[n][w][e]
-[s]Como se o alvo não goste do trovão, uma[n]tempestade do nosso lado teria um tremendo[n]impacto no palácio.[n][w][e]
+[s]No caso de Palaces, os gostos de nossos alvos[n]também entram em jogo.[n][w][e]
+[s]Se o alvo tem medo de trovões,[n]uma tempestade em nosso mundo[n]tem efeitos devastadores no Palácio.[n][w][e]
 
 [msg WEATHER_TUTO_mes17 [Ryuji]]
-[s]E é aí que os raros saem?[n][w][e]
+[s]E é nesses casos que[n]raras sombras aparecem?[n][w][e]
 
 [msg WEATHER_TUTO_mes18 [Morgana]]
-[s]Sim, mas nos palácios, isso não é tudo.[n]Também pode fazer com que mais sombras[n]apareçam e até afeta os tesouros que você[n]pode encontrar.[n][w][e]
+[s]Exatamente, mas outras coisas também acontecem[n]nos Palácios. Pode haver várias Sombras e até[n]mesmo tesouros diferentes...[n][w][e]
 
 [msg WEATHER_TUTO_mes19 [Ann]]
-[s]E tudo o que depende da cognição do mestre[n]do palácio...[n][w][e]
+[s]E tudo depende do conhecimento[n]do dono do Palácio...[n][w][e]
 
 [msg WEATHER_TUTO_mes20 [Ryuji]]
-[s]Hum...[n][w][e]
+[s]Mmm...[n][w][e]
 
 [msg WEATHER_TUTO_mes21 [Morgana]]
-[s]Você não está recebendo nada disso, é?[n][w][e]
+[s]Você não entendeu[n]uma única palavra, não é?[n][w][e]
 
 [msg WEATHER_TUTO_mes22 [Ryuji]]
-[s]Bem, espere, então é uma boa ideia ir ao[n]metaverso quando o tempo está ruim?[n]Ou é uma má ideia?[n][w][e]
+[s]Espere, então é uma boa ideia[n]ir para o Metaverso quando o[n]tempo está ruim? Ou não?[n][w][e]
 
 [msg WEATHER_TUTO_mes23 [Morgana]]
-[s]Penso que é uma boa ideia! Sombras raras às[n]vezes podem soltar itens raros.[n][w][e]
-[s]As batalhas também proporcionarão mais[n]experiência, e isso levará ao seu aumento[n]do crescimento.[n][w][e]
-[s]Não sei que tipo de mudança acontecerá no[n]palácio, mas talvez possamos adquirir algo[n]muito bom...[n][w][e]
+[s]Acho que é uma boa ideia![n]Às vezes, Sombras raras dropam[n]itens raros.[n][w][e]
+[s]Ao lutar você acumula[n]mais experiência e assim[n]você cresce mais.[n][w][e]
+[s]Não faço ideia do que pode[n]mudar no Palácio, mas podemos[n]encontrar algo legal...[n][w][e]
 
 [msg WEATHER_TUTO_mes24 [Ryuji]]
 [s]Então você recomenda?[n][w][e]
 
 [msg WEATHER_TUTO_mes25 [Morgana]]
-[s]Bem, essa é apenas a minha opinião. Se para[n]ir ou não, deixarei isso para o nosso líder.[n][w][e]
-[s]Lembre-se de que o mau tempo em nosso mundo[n]tem um impacto em lembranças e palácios.[n][w][e]
+[s]Bem, esse é apenas o meu ponto de vista.[n]A decisão sempre cabe[n]ao nosso líder.[n][w][e]
+[s]Apenas lembre-se de que o mau tempo[n]em nosso mundo afeta[n]Mementos e Palácios.[n][w][e]
 
 [msg WEATHER_TUTO_mes26 [Ryuji]]
-[s]Você deve nos dizer essas coisas importantes[n]mais cedo, seu gato idiota![n][w][e]
+[s]Algo tão importante[n]você deveria ter dito antes,[n]gato estúpido![n][w][e]
 
 [msg WEATHER_TUTO_mes27 [Morgana]]
-[s]NYA!? Eu te disse agora![n][w][e]
+[s]Miau!?! Acabei de te falar![n][w][e]
 
 [msg WEATHER_TUTO_mes28 [Ryuji]]
-[s]Sim, mas você deveria nos dizer mais cedo![n][w][e]
+[s]Sim, mas você deveria ter dito isso antes![n][w][e]
 
 [msg WEATHER_TUTO_mes29 [Morgana]]
-[s]Hmph![n][w][e]
+[s]Umpf![n][w][e]
 

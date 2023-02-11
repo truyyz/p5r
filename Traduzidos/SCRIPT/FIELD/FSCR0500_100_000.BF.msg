@@ -1,8 +1,8 @@
 [msg SAFE_EXIT_LOW_01_PC05_me [Yusuke]]
-[s][vp 1 0 0 5144 0 0][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Bem, então, vamos partir.[n][w][e]
+[s][vp 1 0 0 5144 0 0][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Muito bem, vamos.[n][w][e]
 
 [msg SAFE_EXIT_LOW_01_PC06_me [Makoto]]
-[s][vp 1 0 0 6144 0 0][bup 0 6 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]MM-HM, é hora de retomar nossa exploração.[n][w][e]
+[s][vp 1 0 0 6144 0 0][bup 0 6 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Mm-mh, hora de retomar a[n]exploração.[n][w][e]
 
 [msg DUMMY_mes01]
 [s]本多テスト終了。[n][w][e]

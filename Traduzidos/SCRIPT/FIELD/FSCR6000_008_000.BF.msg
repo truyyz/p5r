@@ -1,83 +1,83 @@
 [msg QUEST_08_ENTER_mes01 [Ryuji]]
-[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7183 65535 0]Ei, algo está lá![n][w][e]
+[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7183 65535 0]Ei, tem alguma coisa aí![n][w][e]
 
 [msg QUEST_08_ENTER_mes02 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Essa parece ser a sombra de Nakanohara.[n][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ele parece ser Shade[n]de Nakanohara.[n][w][e]
 
 [msg QUEST_08_ENTER_mes03 [Ryuji]]
-[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Deixa eu ver. Um cara da recepção na[n]prefeitura se tornou perseguidor, certo?[n][w][e]
+[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Nós vemos. Um cara que trabalha[n]na Prefeitura se tornou[n]um perseguidor, certo?[n][w][e]
 
 [msg QUEST_08_ENTER_mes04 [Ann]]
-[s][bup 0 4 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Não sei quanto mal ele fez, mas temos que[n]fazer algo se ele estiver incomodando[n]outras pessoas.[n][w][e]
+[s][bup 0 4 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Não sei quanto dano[n]causou, mas se incomoda alguém[n]temos que fazer algo a respeito.[n][w][e]
 
 [msg QUEST_08_ENTER_mes05 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Tudo bem, vamos conversar com ele.[n][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Tudo bem, vamos falar com ele.[n][w][e]
 
-[msg MEME_QUEST_08_e185_002_m [Shadow Nakanohara]]
-[s]Diabos vocês são, pessoal!?[n][w][e]
+[msg MEME_QUEST_08_e185_002_m [Ombra di Nakanohara]]
+[s]Quem diabos é você?!?[n][w][e]
 
 [msg MEME_QUEST_08_e185_002_m_2 [Ann]]
-[s][bup 0 4 0 65535 0]Você é aquele perseguidor!? Você nunca parou[n]para considerar como seu ex se sente?[n][w][e]
+[s][bup 0 4 0 65535 0]Você é aquele perseguidor!?![n]Você já se perguntou[n]como seu ex pode se sentir?[n][w][e]
 
-[msg MEME_QUEST_08_e185_002_m_3 [Shadow Nakanohara]]
-[s]Ela é minha propriedade! Eu posso fazer o[n]que eu quiser com ela![n][w][e]
-[s]Não é como se ela não me tratasse como um[n]brinquedo! O que há de errado comigo[n]fazendo o mesmo!?[n][w][e]
+[msg MEME_QUEST_08_e185_002_m_3 [Ombra di Nakanohara]]
+[s]Ela é minha propriedade![n]Eu faço dela o que eu quiser![n][w][e]
+[s]Ela me tratou como um brinquedo![n]Então, qual é o problema se eu fizer[n]o mesmo com ela!?![n][w][e]
 
 [msg MEME_QUEST_08_e185_002_m_4 [Ryuji]]
-[s][bup 0 2 0 65535 0]Você não pode tratar alguém como merda,[n]porque eles fizeram isso com você! Que[n]grande quantidade de porcaria![n][w][e]
-[s]Vamos mudar o coração de todos os bastardos[n]como você![n][w][e]
+[s][bup 0 2 0 65535 0]Você não pode cagar[n]alguém só porque eles fizeram o[n]o mesmo com você! É besteira![n][w][e]
+[s]Vamos despertar os corações de todos os[n]bastardos como você![n][w][e]
 
-[msg MEME_QUEST_08_e185_002_m_5 [Shadow Nakanohara]]
-[s]Há muitas pessoas por aí mais mal do que eu![n][w][e]
-[s]E quanto a Madarame? Ele roubou tudo de mim,[n]mas você está deixando-o fora do gancho!?[n][w][e]
+[msg MEME_QUEST_08_e185_002_m_5 [Ombra di Nakanohara]]
+[s]Há tantas pessoas mais más do que eu![n][w][e]
+[s]E o Madarame? Ele[n]tirou tudo de mim, mas você[n]vai deixá-lo escapar impune!?![n][w][e]
 
 [msg MEME_QUEST_08_e185_002_m_6 [Ryuji]]
-[s][bup 0 2 0 65535 0]... Madarame? Diabos esse cara está[n]acontecendo?[n][w][e]
+[s][bup 0 2 0 65535 0]...Madarame?[n]De quem diabos esse cara está falando?[n][w][e]
 
 [msg MEME_QUEST_08_e185_002_m_7 [Morgana]]
-[s][bup 0 3 0 65535 0]Prepare-se! Aqui vem ele![n][w][e]
+[s][bup 0 3 0 65535 0]Esteja pronto! Aqui vem![n][w][e]
 
 [sel MEME_QUEST_08_e185_002_s top]
-[s]Vamos resolver isso em um instante![e]
+[s]Nós vamos consertar isso imediatamente![e]
 [s]Não temos outra escolha![e]
 
-[msg MEME_QUEST_08_e185_002_s_2 [Shadow Nakanohara]]
-[s]Não fique arrogante, filhos![n][w][e]
+[msg MEME_QUEST_08_e185_002_s_2 [Ombra di Nakanohara]]
+[s]Não fiquem bravos, crianças![n][w][e]
 
-[msg MEME_QUEST_08_e185_002_s_3 [Shadow Nakanohara]]
-[s]Não fique arrogante, filhos![n][w][e]
+[msg MEME_QUEST_08_e185_002_s_3 [Ombra di Nakanohara]]
+[s]Não fiquem bravos, crianças![n][w][e]
 
 [msg MEME_QUEST_08_e185_002_s_4 [Morgana]]
 [s][bup 0 3 0 65535 0]......[n][w][e]
 
-[msg MSG_000_0_0 [Shadow Nakanohara]]
-[s][vp 1 0 0 0 0 0]Eu... me desculpe. Por favor me perdoe...[n][w][e]
-[s][vp 1 0 0 0 0 0]Aquele professor maligno me usou, depois me[n]jogou na rua. Foi isso que causou minha[n]fixação nela...[n][w][e]
+[msg MSG_000_0_0 [Ombra di Nakanohara]]
+[s][vp 1 0 0 0 0 0]Eu... me desculpe.[n]Por favor, me perdoe...[n][w][e]
+[s][vp 1 0 0 0 0 0]Aquele mestre perverso me usou e me jogou fora. É[n]por isso que minha obsessão por ela...[n][w][e]
 
 [sel SEL_001_0_0 top]
 [s]Que pessoa?[e]
-[s]Ainda culpando os outros?[e]
+[s]Você ainda culpa os outros?[e]
 [s]......[e]
 
 [msg MSG_002_0_0 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 0 0 0]Espere, você está falando sobre aquele cara[n]que você mencionou anteriormente? Madarame?[n][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 0 0 0]Espere, é essa pessoa[n]aquela de quem você estava falando antes?[n]Madarame?[n][w][e]
 
 [msg MSG_003_0_0 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 0 0 0]Você não precisa mais ser tão duro com ele.[n]Ele parece que está arrependido.[n][w][e]
-[s][vp 1 0 0 0 0 0]Então, essa pessoa em que você confia... é o[n]Madarame de que você estava falando antes?[n][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 0 0 0]Não há mais necessidade[n]de ser duro com ele.[n]Ele parece arrependido.[n][w][e]
+[s][vp 1 0 0 0 0 0]Então, essa pessoa...[n]É o Madarame que você[n]estava falando antes?[n][w][e]
 
-[msg MSG_004_0_0 [Shadow Nakanohara]]
-[s][vp 1 0 0 0 0 0]Eu tinha medo de ser jogado fora de novo,[n]como uma coisa inútil...[n][w][e]
-[s][vp 1 0 0 0 0 0]Não se preocupe, vou deixar de lado meu[n]amor, para sempre.[n][w][e]
+[msg MSG_004_0_0 [Ombra di Nakanohara]]
+[s][vp 1 0 0 0 0 0]Tive medo de ser abandonado[n]novamente como uma rejeição inútil...[n][w][e]
+[s][vp 1 0 0 0 0 0]Não se preocupe, vou deixar[n]ir meu amor.[n][w][e]
 
 [msg MSG_005_0_0 [Ann]]
-[s][bup 0 4 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 0 0 0]Tratado como uma coisa...? Que experiência[n]horrível.[n][w][e]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 0 0 0]Da próxima vez, ame seu parceiro não como[n]uma coisa, mas como ser humano, ok?[n][w][e]
+[s][bup 0 4 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 0 0 0]Tratado como uma coisa?[n]Que experiência horrível.[n][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 0 0 0]Da próxima vez, ame seu[n]parceiro não como uma coisa, mas[n]como um ser humano, ok?[n][w][e]
 
-[msg MSG_006_0_0 [Shadow Nakanohara]]
-[s][vp 1 0 0 0 0 0]Sim claro.[n][w][e]
+[msg MSG_006_0_0 [Ombra di Nakanohara]]
+[s][vp 1 0 0 0 0 0]Sim, claro.[n][w][e]
 
 [msg MSG_007_0_0 [Morgana]]
-[s][bup 0 3 4 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 0 0 0]Hum!? Esta luz... é o tesouro!?[n][w][e]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 0 0 0]Vamos aceitar, Joker![n][w][e]
+[s][bup 0 3 4 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 0 0 0]Hum?!? Esta luz...[n]É o Tesouro?!?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 0 0 0]Vamos pegá-lo, Joker![n][w][e]
 

@@ -1,13 +1,13 @@
 [msg meme_1224_target_lost_me [Futaba]]
 [s][bup 0 8 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9038 65535 0]Huh...? O que está acontecendo...?[n][w][e]
-[s][bup 0 8 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Algo é diferente aqui...[n]Não consigo sentir nenhum alvo.[n][w][e]
-[s]Isso nunca aconteceu, nem mesmo em um[n]palácio...[n][w][e]
+[s][bup 0 8 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Há algo diferente aqui...[n]Não estou sentindo nenhum alvo.[n][w][e]
+[s]Isso nunca aconteceu,[n]nem mesmo nos Palácios...[n][w][e]
 
 [msg meme_1224_target_lost_me_2 [Ryuji]]
-[s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Isto é perfeito. De qualquer forma, não[n]temos tempo para lidar com aqueles caras[n]fracos![n][w][e]
+[s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Perfeito. Não temos tempo a perder com meias[n]voltas![n][w][e]
 
 [msg meme_1224_target_lost_me_3 [Yusuke]]
-[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4083 65535 0]Sim, quanto menos obstáculos nos encontramos[n]em nossa descida, melhor.[n][w][e]
+[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4083 65535 0]Sim, quanto menos problemas tivermos durante a[n]descida, melhor.[n][w][e]
 
 [msg DUMMY_mes01]
 [s]高橋テスト終了。[n][w][e]

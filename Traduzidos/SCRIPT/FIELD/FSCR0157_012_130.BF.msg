@@ -1,13 +1,13 @@
 [msg EV_012_DUCT_DISCOVERY_UP [Ryuji]]
-[s]Yo, Joker, há algum tipo de desabafar por[n]aqui também.[n][w][e]
+[s]Yo, Joker, há[n]algum tipo de canal aqui também.[n][w][e]
 
 [msg EV_012_DUCT_DISCOVERY_UP_2 [Ryuji]]
-[s]Pode muito bem levar a carta de jogo conosco![n][w][e]
+[s]Melhor trazer[n]a carta de baralho conosco![n][w][e]
 
 [msg EV_012_DUCT_DISCOVERY_DO [Akechi]]
-[s]HM? Joker, olhe lá.[n][w][e]
+[s]Hã? Joker, olhe ali.[n][w][e]
 
 [msg EV_012_DUCT_DISCOVERY_DO_2 [Akechi]]
-[s]Essa decoração parece semelhante a onde[n]encontramos a ventilação mais cedo...[n][w][e]
-[s]É difícil saber se eles estão relacionados,[n]mas talvez devêssemos examiná-lo e[n]descobrir.[n][w][e]
+[s]A decoração é semelhante àquela[n]onde encontramos[n]uma conduta...[n][w][e]
+[s]Não sei se as coisas estão[n]conectadas, mas talvez[n]devêssemos dar uma olhada.[n][w][e]
 

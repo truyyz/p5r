@@ -1,12 +1,12 @@
-[msg D159_10_npc_01_mes01 [Man in a Swimsuit]]
-[s]Tais roupas boorish. Esta é uma piscina,[n]você sabe. Vá mudar para roupas de banho se[n]quiser estar aqui.[n][w][e]
-[s]Vamos se expandir, olhar para o céu e perder[n]o tempo no paraíso de lazer.[n][w][e]
+[msg D159_10_npc_01_mes01 [Uomo in costume da bagno]]
+[s]Que roupas ásperas. Isso é uma piscina, sabe? Se[n]você quiser ficar aqui, use um maiô.[n][w][e]
+[s]Deite-se, olhe para o[n]céu e relaxe neste[n]paraíso relaxante.[n][w][e]
 
-[msg D159_10_npc_02_mes01 [Man in a Swimsuit]]
-[s]Este lugar é ótimo. Não importa quando eu[n]venho, sempre me vejo cercado por belas[n]curvas![n][w][e]
-[s]Não fique envergonhado. Essa é a verdadeira[n]razão pela qual você também está aqui, não[n]é?[n][w][e]
+[msg D159_10_npc_02_mes01 [Uomo in costume da bagno]]
+[s]Este lugar é incrível. Não há[n]momento em que você não me encontre[n]rodeado por curvas de tirar o fôlego![n][w][e]
+[s]Não fique envergonhado. É por isso que você[n]está aqui também,[n]não é?[n][w][e]
 
-[msg D159_10_npc_03_mes01 [Woman in a Swimsuit]]
-[s]Tem sido tão pacífico ultimamente.[n][w][e]
-[s]É tudo graças ao Sr. Shido que podemos[n]passar dias em luxo como este! HMHMHM![n][w][e]
+[msg D159_10_npc_03_mes01 [Donna in costume da bagno]]
+[s]Tem estado quieto ultimamente.[n][w][e]
+[s]É para o crédito do Sr. Shido que nós[n]podemos passar nossos dias[n]no meio do luxo! Ele Ele![n][w][e]
 

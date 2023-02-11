@@ -2,13 +2,13 @@
 [s]四軒茶屋のアナウンスを聞いたあと[n]自動で階段を上っていく。[n][w][e]
 
 [msg fev0409_01_greet]
-[s]Yongen-Jaya. Este é Yongen-Jaya.[n][w][e]
+[s]Yongen-Jaya.[n]Yongen-Jaya pare.[n][w][e]
 
 [msg fev0409_02_mes01]
-[s]Então este lugar é [clr 2]Yongen-Jaya [clr 27]...[n][w][e]
+[s]Então este lugar é [clr 2]Yongen-Jaya[clr 27]...[n][w][e]
 
 [msg fev0409_02_mes02]
-[s]O endereço para o qual estou indo ainda está[n]um pouco mais longe...[n][w][e]
+[s]O endereço para onde estou indo é um pouco mais[n]adiante...[n][w][e]
 
 [msg fev0409_03_mes01]
 [s]路地裏を見せる絵[n][w][e]
@@ -17,64 +17,64 @@
 [s]イベントキーフリー開始[n][w][e]
 
 [msg fev0411_02_mes01]
-[s]Vou precisar usar o [clr 2]Ginza [clr 27][n][clr 2]Linha [clr 27]Para chegar à minha escola em[n]Aoyama-Titchome...[n][w][e]
+[s]Para chegar à escola[n]em Aoyama-Itchome[n]eu tenho que pegar a [clr 2]linha[clr 27] [clr 2]Ginza[clr 27]...[n][w][e]
 
 [msg fev0411_03_mes01]
-[s]Isso é [clr 2]Aoyama-Titchome [clr 27]...[n][w][e]
-[s]Demorou algum tempo, mas finalmente[n]consegui...[n][w][e]
+[s]Estou em [clr 2]Aoyama-Itchome[clr 27]...[n][w][e]
+[s]Demorou um pouco, mas finalmente consegui...[n][w][e]
 
 [msg MSG_CATBED_01 [Morgana]]
-[s][bup 0 3 0 0 0]Oh, eu apenas me lembrei...![n][w][e]
-[s]Você não comprou uma cama de gato?... mesmo[n]que fosse de segunda mão.[n][w][e]
-[s]Eh, tudo bem. Vamos decidir onde colocá-lo![n][w][e]
+[s][bup 0 3 0 0 0]Ah, acabei de lembrar…![n][w][e]
+[s]Você não comprou uma casa para gatos? Mesmo[n]quando usado...[n][w][e]
+[s]Vamos, não importa. Vamos decidir[n]onde colocá-lo![n][w][e]
 
 [msg MSG_CATBED_SET_1ST_01 [Morgana]]
-[s][bup 0 3 0 0 0]O que você acha deste local incrível?[n]O centro morto da sala![n][w][e]
+[s][bup 0 3 0 0 0]O que você acha deste[n]lugar fantástico? Bem no[n]meio da sala![n][w][e]
 
 [sel SEL_CATBED_SET_1ST top]
-[s]Sem chance.[e]
-[s]Você está falando sério?[e]
+[s]Absolutamente não.[e]
+[s]Você está brincando?[e]
 
 [msg MSG_CATBED_SET_1ST_02 [Morgana]]
-[s][bup 0 3 0 0 0]Não se preocupe, estou apenas brincando.[n]Ficaria no caminho, certo?[n][w][e]
+[s][bup 0 3 0 0 0]Não se preocupe, estou brincando.[n]Seria irritante,[n]sempre por perto, certo?[n][w][e]
 
 [msg MSG_CATBED_SET_1ST_03 [Morgana]]
-[s][bup 0 3 0 0 0]Claro que sou! Embora... eu acho que[n]atrapalharia por aqui.[n][w][e]
+[s][bup 0 3 0 0 0]É claro! Embora... talvez[n]aqui no meio possa[n]difícil de passar.[n][w][e]
 
 [msg MSG_CATBED_SET_1ST_LAST [Morgana]]
-[s][bup 0 3 0 0 0]Então, que tal aqui?[n][w][e]
+[s][bup 0 3 0 0 0]O que você acha deste lugar?[n][w][e]
 
 [msg MSG_CATBED_SET_2ND_01 [Morgana]]
-[s][bup 0 3 0 0 0]Ele tem uma excelente vista da sala, e[n]também não precisarei me preocupar com a[n]poeira no chão...[n][w][e]
+[s][bup 0 3 0 0 0]Daqui você pode ver toda a sala[n]e eu não deveria ter que me preocupar com[n]poeira no chão...[n][w][e]
 
 [sel SEL_CATBED_SET_2ND top]
-[s]Isso não vai funcionar... isso é algum tipo[n]de [n][e]
-[s]Piada?[e]
+[s]Isso não é bom...[e]
+[s]Você está me fazendo de bobo?[e]
 
 [msg MSG_CATBED_SET_2ND_02 [Morgana]]
-[s][bup 0 3 0 0 0]Nada de bom? Eu pensei que era um ótimo[n]local...[n]Então, novamente, você não poderia usar o[n]sofá se o colocássemos aqui.[n][w][e]
+[s][bup 0 3 0 0 0]Isso não é bom? Parecia um local[n]perfeito... Mas se colocássemos[n]aqui, você não conseguiria usar o sofá.[n][w][e]
 
 [msg MSG_CATBED_SET_2ND_03 [Morgana]]
-[s][bup 0 3 0 0 0]Hahaha, é claro que é! Quero dizer, você não[n]seria capaz de usar o sofá se o colocarmos[n]aqui, certo?[n][w][e]
+[s][bup 0 3 0 0 0]Hahaha, claro! Se o colocássemos ela aqui, você[n]não poderia usar o sofá, certo?[n][w][e]
 
 [msg MSG_CATBED_SET_2ND_LAST [Morgana]]
-[s][bup 0 3 0 0 0]HM, isso é mais difícil do que eu[n]esperava... tenho certeza de que essa[n]próxima ideia funcionará.[n][w][e]
+[s][bup 0 3 0 0 0]Uhm, é mais difícil do que o esperado... mas[n]tenho certeza que você vai gostar da próxima[n]proposta.[n][w][e]
 
 [msg MSG_CATBED_SET_3RD_01 [Morgana]]
-[s][bup 0 3 0 0 0]Tudo bem, que tal aqui!?[n][w][e]
-[s]Não vai atrapalhar. Além disso, tenho[n]certeza de que você se sentiria mais seguro[n]se eu estiver dormindo perto de você também.[n][w][e]
+[s][bup 0 3 0 0 0]OK, você gosta daqui?[n][w][e]
+[s]Não está no meio do quarto.[n]E como estou perto de você,[n]você pode dormir tranquilo.[n][w][e]
 
 [sel SEL_CATBED_SET_3RD top]
-[s]Soa bem.[e]
-[s]Não sei...[e]
+[s]Nada mal.[e]
+[s]Eu não saberia...[e]
 
 [msg MSG_CATBED_SET_3RD_02 [Morgana]]
-[s][bup 0 3 0 0 0]Sim, eu acho que este é o melhor lugar![n][w][e]
+[s][bup 0 3 0 0 0]Sim, é definitivamente[n]o lugar ideal![n][w][e]
 
 [msg MSG_CATBED_SET_3RD_03 [Morgana]]
-[s][bup 0 3 0 0 0]Que pena, já está decidido! Este será o[n]local.[n][w][e]
+[s][bup 0 3 0 0 0]Que pena, já está decidido![n]Vamos colocar aqui.[n][w][e]
 
 [msg MSG_CATBED_SET_END [Morgana]]
-[s][bup 0 3 0 0 0]Eu finalmente tenho um lugar para ligar para[n]minha própria cama...[n]Eu não tenho que dormir em cima de você de[n]qualquer um- [n][w][e]
-[s]Eu-eu quero dizer, ha, hahaha! Eu nunca fiz[n]nada assim![n][w][e]
+[s][bup 0 3 0 0 0]Finalmente tenho minha[n]cama... não vou mais ter que[n]dormir em cima de você...[n][w][e]
+[s]Eu nunca fiz nada[n]como isso ...[n][w][e]
 

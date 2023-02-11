@@ -1,115 +1,115 @@
 [msg MY_ROOM_TV_YET_PLAY_0411]
-[s]Quando tenho tempo, devo tentar limpar o[n]resto da sala também.[n][w][e]
+[s]Quando eu tiver tempo, devo[n]tentar limpar[n]o resto da sala também.[n][w][e]
 
 [msg MY_ROOM_TV_YET_PLAY_MONA [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 1192 65535 0]Não, não lá. Vamos colocá-lo na mesa de[n]trabalho.[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 1192 65535 0]Não, não ali.[n]Na bancada.[n][w][e]
 
 [msg MSG_NotSetTV_NothingHave [Morgana]]
-[s][bup 0 3 5 65535 0][f 4 10 65535 0 0][vp 8 2 1 1021 65535 0]Poderíamos utilizar melhor esse espaço.[n][w][e]
-[s][f 4 10 65535 0 0]Olhe para todo esse lixo, no entanto...[n]aposto que você encontraria uma TV aqui se[n]você se limpasse um pouco.[n][w][e]
+[s][bup 0 3 5 65535 0][f 4 10 65535 0 0][vp 8 2 1 1021 65535 0]Poderíamos fazer melhor uso deste[n]espaço.[n][w][e]
+[s][f 4 10 65535 0 0]Quantos lixos. Aposto que[n]talvez, limpando,[n]você pode colocar uma TV aqui.[n][w][e]
 
 [msg MND_NotSetTV_NothingHave]
-[s]Pode ser uma boa ideia conseguir uma TV para[n]o meu quarto...[n][w][e]
+[s]Não seria uma má ideia[n]conseguir uma TV para colocar[n]no meu quarto.[n][w][e]
 
 [msg MSG_Myroom_TVNotSet_Have [Morgana]]
-[s][bup 0 3 5 65535 0][f 4 10 65535 0 0][vp 8 2 1 1021 65535 0]Você tem um jogador de DVD, mas... você não[n]pode fazer muito com isso, pois não tem uma[n]TV.[n][w][e]
-[s][f 4 10 65535 0 0]Olhe para todo esse lixo, no entanto...[n]aposto que você encontraria uma TV aqui se[n]você se limpasse um pouco.[n][w][e]
+[s][bup 0 3 5 65535 0][f 4 10 65535 0 0][vp 8 2 1 1021 65535 0]Você tem um DVD player, mas[n]não pode fazer muito a respeito[n]já que não tem TV.[n][w][e]
+[s][f 4 10 65535 0 0]Quantos lixos. Aposto que[n]talvez se você limpar,[n]você pode encontrar uma TV nele.[n][w][e]
 
 [msg MND_Myroom_TVNotSet_Have]
-[s]Comprei um console de jogo, mas não tenho[n]uma TV...[n][w][e]
+[s]Comprei um console,[n]mas não tenho TV...[n][w][e]
 
 [msg MSG_Myroom_TVNotSet_Have_2 [Morgana]]
-[s][bup 0 3 5 65535 0][f 4 10 65535 0 0][vp 8 2 1 1021 65535 0]Você tem um console de jogo, mas... você não[n]pode fazer muito com isso, pois não tem uma[n]TV.[n][w][e]
-[s][f 4 10 65535 0 0]Olhe para todo esse lixo, no entanto...[n]aposto que você encontraria uma TV aqui se[n]você se limpasse um pouco.[n][w][e]
+[s][bup 0 3 5 65535 0][f 4 10 65535 0 0][vp 8 2 1 1021 65535 0]Você tem um console de jogos,[n]mas não há muito o que fazer sobre isso[n]já que você não tem uma TV.[n][w][e]
+[s][f 4 10 65535 0 0]Quantos lixos. Aposto que[n]talvez se você limpar,[n]você pode encontrar uma TV nele.[n][w][e]
 
 [msg MND_Myroom_TVNotSet_Have_2]
-[s]Comprei um console de jogo, mas não tenho[n]uma TV...[n][w][e]
+[s]Comprei um console,[n]mas não tenho TV...[n][w][e]
 
 [msg MSG_Myroom_TVNotSet_Have_3 [Morgana]]
-[s][bup 0 3 5 65535 0][f 4 10 65535 0 0][vp 8 2 1 1021 65535 0]Você tem um console de jogo e um jogador de[n]DVD, mas... você não pode fazer muito com[n]eles, pois não tem uma TV.[n][w][e]
-[s][f 4 10 65535 0 0]Olhe para todo esse lixo, no entanto...[n]aposto que você encontraria uma TV aqui se[n]você se limpasse um pouco.[n][w][e]
+[s][bup 0 3 5 65535 0][f 4 10 65535 0 0][vp 8 2 1 1021 65535 0]Você tem um console de jogos e[n]um reprodutor de DVD, mas não pode[n]fazer muito, pois não tem TV.[n][w][e]
+[s][f 4 10 65535 0 0]Quantos lixos. Aposto que[n]talvez se você limpar,[n]você pode encontrar uma TV nele.[n][w][e]
 
 [msg MND_Myroom_TVNotSet_Have_3]
-[s]Eu comprei um monte de coisas, mas não tenho[n]uma TV...[n][w][e]
+[s]Comprei várias coisas,[n]mas não tenho TV...[n][w][e]
 
 [msg MSG_SetTV_NoIdea [Morgana]]
-[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 1 1025 65535 0]Mesmo que você tenha uma TV, é velho demais[n]para assistir a qualquer coisa.[n][w][e]
-[s][f 4 10 65535 0 0]Quer procurar algo na loja de segunda mão?[n]Está por perto.[n][w][e]
+[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 1 1025 65535 0]Mesmo se você tiver uma TV, ela é muito[n]velha para assistir qualquer coisa nela.[n][w][e]
+[s][f 4 10 65535 0 0]Quer dar uma olhada no brechó?[n]É bem perto daqui.[n][w][e]
 
 [msg MND_SetTV_NoIdea]
-[s]Não posso fazer nada com a TV no momento...[n][w][e]
+[s]Por enquanto não posso fazer nada[n]com a TV...[n][w][e]
 
 [msg MSG_DVDTutorial [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]Ah, sim, você tem um jogador de DVD.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]Ah, sim, você tem um DVD player.[n][w][e]
 
 [msg MND_DVDTutorial]
-[s]Eu comprei um DVD Player...[n][w][e]
+[s]Comprei um DVD...[n][w][e]
 
 [msg MSG_GameTutorial [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1187 65535 0]Venha para pensar sobre isso, você comprou[n]um console de jogo, certo?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1187 65535 0]Agora que penso nisso, você[n]comprou um console, certo?[n][w][e]
 
 [msg MND_GameTutorial]
-[s]Oh, isso mesmo, comprei um console de jogo...[n][w][e]
+[s]Ah sim. Eu comprei[n]um console de videogame...[n][w][e]
 
 [msg MSG_GameSetUP [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Tudo bem, agora podemos jogar![n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Ótimo, agora podemos jogar![n][w][e]
 
 [msg MSG_GameTutorial_irreg [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1187 65535 0]O último jogo que jogamos foi muito[n]divertido...[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1187 65535 0]O último jogo que[n]testamos foi muito[n]divertido...[n][w][e]
 
 [msg MND_GameTutorial_irreg]
-[s]O jogo que joguei da última vez foi muito[n]divertido...[n][w][e]
+[s]O jogo que joguei da outra vez foi bem[n]divertido...[n][w][e]
 
 [msg MSG_MyRoomTable_Q [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1167 65535 0]Então o que você vai fazer?[n][w][e]
 
 [sel SEL_MyRoomTable_Think top]
-[s]Vamos assistir a um DVD.[e]
-[s]Vamos jogar um jogo.[e]
+[s]Assistimos a um DVD.[e]
+[s]Vamos jogar um videogame.[e]
 [s]Nada por enquanto.[e]
 
 [msg MSG_MyRoomTable_DvdQ [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1167 65535 0]Ah, sim, você alugou alguma coisa, certo?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1167 65535 0]Ah sim, você aluga[n]alguma coisa, certo?[n][w][e]
 
 [msg MSG_DVDNotHave [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1165 65535 0]Você tem um jogador de DVD, então que tal[n]alugar um DVD em algum momento?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1165 65535 0]Você tem um DVD player. Por que[n]você não aluga um DVD[n]algum dia?[n][w][e]
 
 [msg MSG_ThisDVD_END [Morgana]]
-[s][bup 0 3 1 0 0][f 4 10 65535 0 0]Esse foi um bom filme. Vamos devolvê-lo e[n]alugar outra coisa![n][w][e]
+[s][bup 0 3 1 0 0][f 4 10 65535 0 0]Foi um bom filme. Vamos devolvê-lo[n]e alugar outra coisa![n][w][e]
 
 [msg MND_ThisDVD_END [Morgana]]
-[s]Eu já vi este DVD...[n][w][e]
+[s]Eu já vi esse DVD antes...[n][w][e]
 
 [msg MSG_AllDVD_END [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Nós assistimos muitos DVDs nesta sala...[n]Vamos fazer outra coisa agora.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Assistimos a muitos DVDs.[n]Agora vamos fazer outra coisa.[n][w][e]
 
 [msg MSG_DvdBoosBook [Morgana]]
-[s][bup 0 3 1 0 0][f 4 10 65535 0 0]Desde que você terminou de ler [clr 3]O ofício do cinema [clr 27]Aposto que você poderá apreciar ainda mais[n]este filme.[n][w][e]
+[s][bup 0 3 1 0 0][f 4 10 65535 0 0]Já que você terminou de ler[n][clr 3]A Filmmaker's Soul[clr 27], aposto que[n]gosta ainda mais do filme.[n][w][e]
 
 [msg MSG_MyRoomTable_GameQ [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1167 65535 0]Você comprou algo, certo?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1167 65535 0]Você comprou alguma coisa, certo?[n][w][e]
 
 [msg MSG_GAME_NO_SOFT [Morgana]]
-[s][bup 0 3 3 0 0][f 4 10 65535 0 0]Ei, você não tem jogos que podemos jogar...[n][w][e]
+[s][bup 0 3 3 0 0][f 4 10 65535 0 0]Ei, você não tem nenhum jogo[n]que possamos jogar...[n][w][e]
 
 [msg MSG_GAME_ALL_CLEAR]
-[s]Eu venci todos os jogos que tenho...[n][w][e]
+[s]Concluí todos os[n]jogos que possuo...[n][w][e]
 
 [msg MSG_Complete [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Huh? Você já venceu esse.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Huh? Você já completou isso.[n][w][e]
 
 [msg MND_Complete]
-[s]Eu já venci este jogo...[n][w][e]
+[s]Eu já completei esse jogo...[n][w][e]
 
 [msg MSG_TableNG_OnlySleep [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0]Você deve descansar para amanhã.[n][w][e]
 
 [msg MND_TableNG_OnlySleep]
-[s]Eu deveria descansar para amanhã...[n][w][e]
+[s]Devo descansar para amanhã...[n][w][e]
 
 [msg MSG_TableNG_BadTime [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Você tem outras coisas que você precisa[n]fazer agora, não é?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Agora você tem outras coisas[n]para fazer, não é?[n][w][e]
 
 [msg MND_TableNG_BadTime]
-[s]Eu tenho outras coisas que preciso fazer[n]agora...[n][w][e]
+[s]Por enquanto tenho outras coisas[n]para fazer...[n][w][e]
 

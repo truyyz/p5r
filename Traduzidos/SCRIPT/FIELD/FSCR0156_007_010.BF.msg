@@ -1,47 +1,47 @@
 [msg D156_07_CONSOLE_SYS_mes0]
-[s]Painel de operação de fábrica de 24 horas.[n][w][e]
+[s]Painel de gerenciamento de fábrica[n]em 24 horas.[n][w][e]
 
 [sel D156_07_CONSOLE_SYS_sel top]
-[s]Defina-o para "quebrar" [e]
-[s]Defina-o como "almoço" [e]
-[s]Defina-o como "horas extras não remuneradas" [e]
-[s]Não mude nada [e]
+[s]Selecione "Pausar"[e]
+[s]Selecione "Almoço"[e]
+[s]Selecione "Horas extras"[e]
+[s]Não mude nada[e]
 
-[msg D156_07_CONSOLE_SYS_A_me [Factory Announcement]]
-[s]Agora é hora de interrupção![n][w][e]
+[msg D156_07_CONSOLE_SYS_A_me [Avviso della fabbrica]]
+[s]É HORA DO INTERVALO![n][w][e]
 
-[msg D156_07_CONSOLE_SYS_A_me_2 [Factory Announcement]]
-[s]Vamos descansar e restaurar nossos espíritos[n]cansados![n][w][e]
+[msg D156_07_CONSOLE_SYS_A_me_2 [Avviso della fabbrica]]
+[s]VAMOS DESCANSAR PARA RECARREGAR O ESPÍRITO[n]CANSADO![n][w][e]
 
-[msg D156_07_CONSOLE_SYS_A_me_3 [Factory Announcement]]
-[s]O tempo de interrupção durará[n]aproximadamente cinco segundos![n][w][e]
+[msg D156_07_CONSOLE_SYS_A_me_3 [Avviso della fabbrica]]
+[s]A PAUSA VAI DURAR[n]APROXIMADAMENTE CINCO SEGUNDOS![n][w][e]
 
-[msg D156_07_CONSOLE_SYS_B_me [Factory Announcement]]
-[s]Agora é hora de interrupção![n][w][e]
+[msg D156_07_CONSOLE_SYS_B_me [Avviso della fabbrica]]
+[s]É HORA DO INTERVALO![n][w][e]
 
-[msg D156_07_CONSOLE_SYS_B_me_2 [Factory Announcement]]
-[s]Vamos consumir nosso slop e reenergizar[n]alegremente![n][w][e]
+[msg D156_07_CONSOLE_SYS_B_me_2 [Avviso della fabbrica]]
+[s]VAMOS CONSUMIR NOSSA SAFRA[n]E RECHEAR DE ALEGRIA![n][w][e]
 
-[msg D156_07_CONSOLE_SYS_B_me_3 [Factory Announcement]]
-[s]A hora do almoço durará aproximadamente[n]trinta segundos![n][w][e]
+[msg D156_07_CONSOLE_SYS_B_me_3 [Avviso della fabbrica]]
+[s]O INTERVALO PARA O ALMOÇO VAI DURAR[n]APROXIMADAMENTE TRINTA SEGUNDOS![n][w][e]
 
-[msg D156_07_CONSOLE_SYS_C_me [Factory Announcement]]
-[s]Atualmente, estamos em um estado de[n]prorrogação não remunerado constante![n][w][e]
-[s]Vamos nos esforçar para trabalhar duro o[n]tempo todo![n][w][e]
+[msg D156_07_CONSOLE_SYS_C_me [Avviso della fabbrica]]
+[s]ESTAMOS EM UM ESTADO CONSTANTE DE[n]HORAS EXTRAS NÃO PAGOS![n][w][e]
+[s]VAMOS COMPROMETER-NOS A TRABALHAR DURO DIA E[n]NOITE![n][w][e]
 
 [msg D156_07_CONSOLE_SUB_mes0]
-[s]Se eu invadir esse terminal, posso parar a[n]fábrica temporariamente.[n][w][e]
+[s]Hackeando este terminal[n]posso bloquear momentaneamente[n]a fábrica.[n][w][e]
 
 [sel D156_07_CONSOLE_SUB_sel top]
-[s]Hack [e]
-[s]Não hackear [e]
+[s]Tolet[e]
+[s]não viole[e]
 
 [msg D156_07_CONSOLE_WORK_mes]
-[s]O tempo de interrupção acabou![n][w][e]
+[s]A PAUSA ACABOU![n][w][e]
 
 [msg D156_07_CONSOLE_WORK_mes_2]
-[s]Vamos compensar o tempo perdido![n][w][e]
+[s]VAMOS RECUPERAR O TEMPO PERDIDO![n][w][e]
 
 [msg D156_07_CONSOLE_NG_mes01]
-[s]Atualmente em tempo de interrupção.[n][w][e]
+[s]Pausa.[n][w][e]
 

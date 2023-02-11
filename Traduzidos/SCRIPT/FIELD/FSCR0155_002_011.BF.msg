@@ -1,14 +1,14 @@
 [msg D04_03_e296_231_mes03 [Ryuji]]
-[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 3 0 0]Oh, ei, veio. Este é meio difícil de dizer.[n][w][e]
+[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 3 0 0]Ei, aí está. Isso[n]é mais difícil, no entanto.[n][w][e]
 
 [msg D04_03_e296_231_mes04 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 4 0 0]Deve ser mexido também. Vamos usar os[n]controles para montá-lo novamente.[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 4 0 0]Isso também é codificado.[n]Usamos os comandos para[n]colocá-lo novamente.[n][w][e]
 
 [msg GMC_PUZZLE_EXIT_CHECK_ms [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 14 0 0]O que há de errado, Joker? Você precisa[n]pensar nisso?[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 14 0 0]O que está acontecendo, Joker? Você tem que[n]pensar sobre isso um pouco?[n][w][e]
 
 [sel YESNO_SEL top]
-[s]Sim por favor.[e]
+[s]Sim, obrigado.[e]
 [s]Ainda não.[e]
 
 [msg GMC_PUZZLE_INIT_msg_03 [Makoto]]
@@ -32,5 +32,5 @@
 [s]それぞれの壁画を左ôの型枠の[n]どちらに当てはめるか考察しなければな。[n][w][e]
 
 [msg GMC_PUZZLE_HINT_02_msg_0_2 [注釈]]
-[s]※絵の内容は全て仮のため、[n] 絵の内容が変われば型枠モデルやヒント、[n] 誘導の内容が大きく変わります。[n][w][e]
+[s]※絵の内容は全て仮のため、[n]絵の内容が変われば型枠モデルやヒント、[n]誘導の内容が大きく変わります。[n][w][e]
 

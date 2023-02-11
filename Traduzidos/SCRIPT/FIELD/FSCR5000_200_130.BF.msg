@@ -1,49 +1,49 @@
 [msg SHINYA_EV_mes01 [Ann]]
-[s]Nossa pontaria não tem requinte.[n][w][e]
-[s]Sim, é muito... brusco.[n][w][e]
+[s]Nosso objetivo não é muito.[n][w][e]
+[s]Sim, é muito... bruto.[n][w][e]
 
 [msg SHINYA_EV_mes02 [Ryuji]]
-[s]O inferno que você está falando?[n][w][e]
+[s]Que diabos você está falando?[n][w][e]
 
 [msg SHINYA_EV_mes03 [Ann]]
-[s]Eu pensava ao assistir "Doronko Billy" outro[n]dia.[n][w][e]
-[s]Você sabe que filmagem de truques é?[n][w][e]
+[s]Assistindo "Doronko[n]Billy" outro dia, pensei em algo.[n][w][e]
+[s]Você sabe o que é skill shot?[n][w][e]
 
 [msg SHINYA_EV_mes04 [Yusuke]]
-[s]Você quer dizer como atirar em um vaso da[n]cabeça de alguém ou um prato para fora do[n]ar?[n][w][e]
-[s]Qual é o sentido de fazer isso durante uma[n]luta real?[n][w][e]
+[s]Você quer atirar em um vaso na cabeça de[n]alguém, ou em algo[n]jogado no ar?[n][w][e]
+[s]Qual é o sentido de fazer isso durante uma luta[n]real?[n][w][e]
 
 [msg SHINYA_EV_mes05 [Ann]]
-[s]Bem, não quero dizer que devemos fazer um[n]show ou qualquer coisa...[n][w][e]
-[s]Mas talvez devêssemos aprender a atirar com[n]precisão em vez de apenas disparar inimigos.[n][w][e]
+[s]Não quero dizer que temos que[n]fazer um show...[n][w][e]
+[s]Mas talvez seja melhor aprender[n]como atirar com precisão em vez[n]tentar apenas acertar os inimigos.[n][w][e]
 
 [msg SHINYA_EV_mes06 [Morgana]]
-[s]Não é uma má ideia, Lady Ann.[n][w][e]
-[s]Se melhorarmos nossa pontaria, teremos uma[n]melhor chance de atingir os sinais vitais[n]de um inimigo.[n][w][e]
-[s]Ou, podemos ferir inimigos de maneiras[n]específicas.[n][w][e]
-[s]Como imobilizá-los, em vez de apenas causar[n]danos.[n][w][e]
+[s]Boa ideia, Lady Ann.[n][w][e]
+[s]Se melhorarmos nossa mira,[n]teremos mais chances de acertar[n]pontos fracos dos inimigos...[n][w][e]
+[s]Ou para ferir pontos específicos...[n][w][e]
+[s]Por exemplo, em vez de apenas causar[n]danos, poderíamos imobilizá-los.[n][w][e]
 
 [msg SHINYA_EV_mes07 [Yusuke]]
-[s]Poderíamos mantê-los vivos para atrair uma[n]equipe de resgate.[n][w][e]
+[s]Poderíamos mantê-los vivos para atrair ajuda.[n][w][e]
 
 [msg SHINYA_EV_mes08 [Ryuji]]
-[s]Bem, quando você coloca dessa maneira, Ann[n]pode estar em algo.[n][w][e]
-[s]Boa sorte em encontrar uma maneira de[n]aumentar suas habilidades de tiro, [n][f 4 2].[n][w][e]
+[s]Coloque dessa forma,[n]Ann pode estar certa.[n][w][e]
+[s]Espero que você encontre uma maneira de[n]atirar melhor, [f 4 2].[n][w][e]
 
 [sel SHINYA_EV_SEL01 top]
-[s]Você está jogando isso em mim?[e]
+[s]Você baixa tudo sobre mim?[e]
 [s]Por que eu?[e]
 
 [msg SHINYA_EV_mes09 [Ryuji]]
-[s]... eu uso uma espingarda.[n][w][e]
+[s]...Eu uso uma espingarda.[n][w][e]
 
 [msg SHINYA_EV_mes10 [Ann]]
-[s]Eu uso uma pistola de submacheres.[n][w][e]
+[s]Eu uso uma metralhadora.[n][w][e]
 
 [msg SHINYA_EV_mes11 [Yusuke]]
-[s]E eu uso um rifle de assalto.[n][w][e]
-[s]Você é o único que usa uma arma que é boa[n]para atirar em truques.[n][w][e]
+[s]E eu tenho um rifle de assalto.[n][w][e]
+[s]Você é o único usando uma arma[n]adequada para o teste de habilidade.[n][w][e]
 
 [msg SHINYA_EV_mes12 [Morgana]]
-[s]Será uma habilidade útil para você, então[n]vamos ver se não conseguimos encontrar[n]maneiras de melhorar sua pontaria.[n][w][e]
+[s]Será uma habilidade útil para você.[n]Vamos ver se podemos encontrar uma[n]maneira de melhorar sua pontaria.[n][w][e]
 

@@ -2,5 +2,5 @@
 [s](仮)入口まで戻ってきた2人。[n][w][e]
 
 [msg D153_02_LOCK01_mes01 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1190 65535 0]Ei, precisamos sair daqui por enquanto.[n][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1190 65535 0]Ei, por enquanto nós[n]só temos que sair daqui.[n][w][e]
 

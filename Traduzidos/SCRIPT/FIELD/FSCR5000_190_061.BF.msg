@@ -1,35 +1,35 @@
 [msg AT_D_BF_D06_010_mes01 [Makoto]]
-[s][bup 0 6 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2162 65535 0]Honestamente, é difícil acreditar em um[n]espaço tão vasto que isso existe sob as[n]ruas de Shibuya...[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Mesmo vendo isso com meus próprios dois[n]olhos não ajuda a fazer mais sentido...[n][w][e]
+[s][bup 0 6 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2162 65535 0]É difícil acreditar que[n]um espaço tão vasto exista[n]sob as ruas de Shibuya...[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Mesmo vendo com meus[n]olhos não me ajuda[n]a acreditar que é possível...[n][w][e]
 
 [msg AT_D_BF_D06_010_mes02 [Ryuji]]
-[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Você sabe que isso é um palácio, certo? Na[n]verdade, não está sob Shibuya.[n][w][e]
+[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Mas este é um palácio, lembra?[n]Não é realmente sob Shibuya.[n][w][e]
 
 [msg AT_D_BF_D06_010_mes03 [Makoto]]
-[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Suponho que isso é verdade...[n][w][e]
+[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]De fato você está certo...[n][w][e]
 
 [msg AT_D_BF_D06_010_mes04 [Yusuke]]
-[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4129 65535 0]HM, a escala de um palácio é proporcional[n]aos desejos e distorções de seu governante?[n][w][e]
+[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4129 65535 0]Hum, o tamanho dos Palácios[n]é proporcional aos desejos[n]e distorções de seu senhor?[n][w][e]
 
 [msg AT_D_BF_D06_010_mes05 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Basicamente. Portanto, quanto maior o alvo,[n]mais tempo necessário para garantir nossa[n]rota de infiltração.[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Na prática, sim. É por isso que quanto maior[n]o alvo, mais[n]tempo leva para se infiltrar.[n][w][e]
 
 [msg AT_D_BF_D06_010_mes06 [Yusuke]]
-[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Sim, mas o tamanho deste lugar substitui[n]facilmente o de qualquer palácio que[n]visitamos até agora.[n][w][e]
+[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Sim, mas as dimensões deste[n]lugar excedem em muito as[n]das dos Palácios anteriores.[n][w][e]
 
 [msg AT_D_BF_D06_010_mes07 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1165 65535 0]Isso porque este é o palácio do público. É[n]incomparável para qualquer coisa em um[n]nível individual.[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1165 65535 0]Porque é o Palácio de[n]todos. Não é comparável a[n]nada individual.[n][w][e]
 
 [msg AT_D_BF_D06_010_mes08 [Makoto]]
-[s][bup 0 6 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Portanto, o tamanho deste lugar reflete as[n]distorções do público... que pensamento[n]deprimente...[n][w][e]
+[s][bup 0 6 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Portanto, as dimensões deste[n]lugar refletem as distorções[n]das massas. Que pensamento deprimente.[n][w][e]
 
 [msg AT_D_BF_D06_010_mes09 [Ryuji]]
-[s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]É por isso que temos que a Sociedade de[n]Reforma, sim? Toda essa merda aqui faz isso[n]ainda mais vale a pena![n][w][e]
+[s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Para isso a gente tem que mudar a[n]sociedade, né? Toda essa porcaria[n]torna ainda mais importante![n][w][e]
 
 [msg AT_D_BF_D06_010_mes10 [Ann]]
-[s][bup 0 4 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6028 65535 0]Você sabe, às vezes eu invejo essa[n]personalidade sua, crânio...[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]... apenas às vezes, no entanto.[n][w][e]
+[s][bup 0 4 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6028 65535 0]Sabe, Caveira, às vezes eu invejo sua[n]personalidade...[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Só as vezes.[n][w][e]
 
 [msg AT_D_BF_D06_010_mes11 [Ryuji]]
-[s][bup 0 2 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Você não foi acrescentar essa última parte![n][w][e]
+[s][bup 0 2 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Não há necessidade de adicionar[n]a última parte![n][w][e]
 

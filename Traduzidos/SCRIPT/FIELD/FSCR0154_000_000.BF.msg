@@ -2,88 +2,88 @@
 [s]......[n][w][e]
 
 [msg D01_03_PT_30000_01_PC02_ [Ryuji]]
-[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos lá, vamos encontrar essa coisa do[n]tesouro![n][w][e]
+[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos lá, vamos encontrar[n]aquele tesouro![n][w][e]
 
 [msg D01_03_PT_30000_01_PC03_ [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos continuar em busca do tesouro![n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos nos ocupar e encontrar[n]aquele tesouro![n][w][e]
 
 [msg D01_03_PT_30000_02_PC02_ [Ryuji]]
-[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Cara, toda essa merda com as figurinos e os[n]nomes de código me deixou bastante animado.[n][w][e]
+[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Cara, toda essa coisa de[n]fantasias e codinomes[n]me deixou tão animado.[n][w][e]
 
 [msg D01_03_PT_30000_02_PC03_ [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos garantir que tenhamos cuidado com as[n]sombras à medida que avançamos.[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Preste atenção nas Sombras[n]enquanto estiver viajando.[n][w][e]
 
 [msg D01_03_PT_30000_03_PC02_ [Ryuji]]
-[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Você pode deixar a luta para mim![n][w][e]
+[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Deixe a[n]luta comigo![n][w][e]
 
 [msg D01_03_PT_30000_03_PC03_ [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Skull na verdade não é tão ruim em lutar.[n]Ele pode ser apenas um diamante em bruto.[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Skull não é um lutador ruim.[n]Ele poderia ser o que é chamado[n]um diamante bruto.[n][w][e]
 
 [msg D01_04_PT_40000_01_PC02_ [Ryuji]]
-[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos lá, vamos encontrar essa coisa do[n]tesouro![n][w][e]
+[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos lá, vamos encontrar[n]aquele tesouro![n][w][e]
 
 [msg D01_04_PT_40000_01_PC03_ [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos continuar em busca do tesouro![n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos nos ocupar e encontrar[n]aquele tesouro![n][w][e]
 
 [msg D01_04_PT_40000_01_PC04_ [Ann]]
-[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Queremos procurar o tesouro, certo? Vamos[n]explorar.[n][w][e]
+[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Temos que procurar[n]o Tesouro, certo? Vamos explorar.[n][w][e]
 
 [msg D01_04_PT_40000_02_PC02_ [Ryuji]]
-[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Cara, toda essa merda com as figurinos e os[n]nomes de código me deixou bastante animado.[n][w][e]
+[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Cara, toda essa coisa de[n]fantasias e codinomes[n]me deixou tão animado.[n][w][e]
 
 [msg D01_04_PT_40000_02_PC03_ [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos garantir que tenhamos cuidado com as[n]sombras à medida que avançamos.[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Preste atenção nas Sombras[n]enquanto estiver viajando.[n][w][e]
 
 [msg D01_04_PT_40000_02_PC04_ [Ann]]
-[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Então, este é o mundo de Kamoshida... mas na[n]verdade é a escola, certo?[n][w][e]
+[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]E então este é o mundo de[n]Kamoshida... Mas na verdade é[n]escola, certo?[n][w][e]
 
 [msg D01_04_PT_40000_03_PC02_ [Ryuji]]
-[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Você pode deixar a luta para mim![n][w][e]
+[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Deixe a[n]luta comigo![n][w][e]
 
 [msg D01_04_PT_40000_03_PC03_ [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Skull na verdade não é tão ruim em lutar.[n]Ele pode ser apenas um diamante em bruto.[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Skull não é um lutador ruim.[n]Ele poderia ser o que é chamado[n]um diamante bruto.[n][w][e]
 
 [msg D01_04_PT_40000_03_PC04_ [Ann]]
-[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Pantera, hein... acho que posso me acostumar[n]com isso.[n][w][e]
+[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Pantera, hein... Acho que[n]poderia me acostumar com isso.[n][w][e]
 
 [msg D01_ex_PT_60000_01_PC02_ [Ryuji]]
-[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Temos que roubar esse tesouro, não importa o[n]quê![n][w][e]
+[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Devemos roubar esse tesouro[n]a qualquer custo![n][w][e]
 
 [msg D01_ex_PT_60000_01_PC03_ [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]O tesouro deve ser o nosso foco principal[n]hoje![n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Tesouraria deve ser nosso foco principal hoje![n][w][e]
 
 [msg D01_ex_PT_60000_01_PC04_ [Ann]]
-[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Precisamos fazer isso![n][w][e]
+[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Temos que fazer isso![n][w][e]
 
 [msg D01_ex_PT_60000_02_PC02_ [Ryuji]]
-[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Parece o controle de segurança da[n]segurança...[n]Mas nós conseguimos isso![n][w][e]
+[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Parece que a segurança está fora de[n]controle... mas nós podemos fazer isso![n][w][e]
 
 [msg D01_ex_PT_60000_02_PC03_ [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Tenho certeza de que podemos ter sucesso se[n]apenas usarmos a rota de infiltração![n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Tenho certeza de que podemos fazer isso se[n]usarmos o caminho de infiltração![n][w][e]
 
 [msg D01_ex_PT_60000_02_PC04_ [Ann]]
-[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos nos apressar e seguir para o tesouro![n][w][e]
+[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos nos apressar e ir[n]para o Tesouro![n][w][e]
 
 [msg D01_ex_PT_60000_03_PC02_ [Ryuji]]
-[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Não temos que lutar hoje. Vamos apenas ir[n]para o tesouro![n][w][e]
+[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Hoje não temos que lutar.[n]Vamos chegar ao Tesouro![n][w][e]
 
 [msg D01_ex_PT_60000_03_PC03_ [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Não perca tempo lutando hoje, entende?[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Não vamos perder tempo[n]brigando, ok?[n][w][e]
 
 [msg D01_ex_PT_60000_03_PC04_ [Ann]]
-[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Nós só precisamos ir para o tesouro, certo?[n]Vamos nos apressar para onde está![n][w][e]
+[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Só temos que pegar o Treasure, certo? Vamos nos[n]apressar para alcançá-lo![n][w][e]
 
 [msg D03_01_target_mes10_mes0 [Ryuji]]
-[s][bup 0 2 0 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Bem, vamos entrar.[n][w][e]
+[s][bup 0 2 0 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos entrar.[n][w][e]
 
 [msg D03_02_target_mes10_mes0 [Ryuji]]
-[s][bup 0 2 0 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Gostaria de saber se o tesouro está aqui.[n]Bem, vamos começar a olhar.[n][w][e]
+[s][bup 0 2 0 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu me pergunto se o Tesouro está aqui.[n]Vamos dar uma olhada.[n][w][e]
 
 [msg D03_03_target_mes10_mes0 [Ryuji]]
-[s][bup 0 2 0 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Tenho que passar por aqui de alguma forma...[n][w][e]
+[s][bup 0 2 0 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Temos que passar por aqui...[n][w][e]
 
 [msg D03_ex_target_mes10_mes0 [Ryuji]]
-[s][bup 0 2 0 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos conferir o Hall do Tesouro.[n][w][e]
+[s][bup 0 2 0 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos dar uma olhada na[n]Sala do Tesouro.[n][w][e]
 
 [msg D03_dummy_mes01]
 [s]>D03:銀行(進行カウンタ0)エラー[n]>現在の進行度に合わせた会話[n][w][e]

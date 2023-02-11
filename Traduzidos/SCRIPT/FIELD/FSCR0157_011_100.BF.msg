@@ -1,71 +1,71 @@
 [msg EVENT_temp_mes01]
 [s][clr 2]このイベントはCランクイベント化します。[clr 27][n][w][e]
 
-[msg e382_120_mes01 [Mechanical Voice]]
-[s]Cartão de membro da autenticação...[n][w][e]
-[s]O número necessário de moedas para ativar a[n]ponte do julgamento é [n][clr 2]100.000 moedas [clr 27].[n][w][e]
+[msg e382_120_mes01 [Voce meccanica]]
+[s]Leitura do cartão de sócio...[n][w][e]
+[s]Número de moedas necessárias para[n]ativar a Ponte da Justiça:[n][clr 2]100.000 moedas[clr 27].[n][w][e]
 
 [msg e382_120_mes02 [Haru]]
-[s][bup 0 7 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 3040 65535 0]O que...? Nós precisamos [clr 2]100.000 moedas [clr 27][n]Só para atravessar lá!?[n][w][e]
+[s][bup 0 7 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 3040 65535 0]O que...? Leva [clr 2]100.000 moedas[clr 27][n]só para passar?!?[n][w][e]
 
 [msg e382_120_mes03 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Está ficando mais claro que ela não tem[n]intenção de nos deixar seguir em frente.[n][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]É claro que ele[n]não quer que[n]nós vámos mais longe.[n][w][e]
 
 [msg e382_120_mes04 [Akechi]]
-[s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Não acredito que haja necessidade de[n]pessimismo.[n][w][e]
+[s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Não há necessidade de ser tão pessimista.[n][w][e]
 
 [msg e382_120_mes05 [Ann]]
-[s][bup 0 4 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6187 65535 0]Mas pense em quanto é isso![n]Estávamos desesperados apenas para colocar[n]nossas mãos em 50.000...[n][w][e]
+[s][bup 0 4 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6187 65535 0]Mas é um número absurdo![n]Nós lutamos para[n]arrecadar 50.000...[n][w][e]
 
 [msg e382_120_mes06 [Akechi]]
-[s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Mas ainda os obtivemos no final.[n]Podemos ter sucesso se fizermos isso[n]novamente e dobrar o nosso total.[n][w][e]
+[s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Mas no final nós os pegamos. Basta fazê-lo[n]novamente e dobrar o total.[n][w][e]
 
 [msg e382_120_mes07 [Makoto]]
-[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Suponho que este é o piso limite alto...[n][w][e]
+[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Bem, na verdade, estamos no andar de apostas[n]altas...[n][w][e]
 
 [msg e382_120_mes08 [Yusuke]]
-[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]De fato, deve haver um jogo de alto risco de[n]alto risco em algum lugar aqui.[n]Embora precisemos vencer também...[n][w][e]
+[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Aliás: aqui deve haver um jogo arriscado, mas[n]recompensador. Mesmo se for preciso vencer...[n][w][e]
 
 [msg e382_120_mes09 [Akechi]]
-[s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Nossa primeira ordem de negócios deve ser[n]ver que tipo de jogos existem neste andar.[n][w][e]
+[s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Antes de tudo, temos que[n]entender quais jogos existem[n]neste andar.[n][w][e]
 
-[msg e382_120_mes10 [Mechanical Voice]]
-[s]O número necessário de moedas para ativar a[n]ponte do julgamento é [n][clr 2]100.000 moedas [clr 27].[n][w][e]
+[msg e382_120_mes10 [Voce meccanica]]
+[s]Número de moedas necessárias para[n]ativar a Ponte da Justiça:[n][clr 2]100.000 moedas[clr 27].[n][w][e]
 
 [msg e382_120_mes11 [Ryuji]]
-[s][bup 0 2 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7044 65535 0]Apenas espere! Vamos ganhar muito e[n]empurrá-lo na sua cara de ponte estúpida![n][w][e]
+[s][bup 0 2 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7044 65535 0]Espere e veja! Nós vamos ganhar[n]essa quantia e bater[n]na frente da sua ponte estúpida![n][w][e]
 
-[msg e382_400_mes01 [Mechanical Voice]]
-[s]Cartão de membro da autenticação...[n][w][e]
-[s]O número necessário de moedas para ativar a[n]ponte do julgamento é [n][clr 2]100.000 moedas [clr 27].[n][w][e]
+[msg e382_400_mes01 [Voce meccanica]]
+[s]Leitura do cartão de sócio...[n][w][e]
+[s]Número de moedas necessárias para[n]ativar a Ponte da Justiça:[n][clr 2]100.000 moedas[clr 27].[n][w][e]
 
 [msg e382_400_mes02 [Ryuji]]
-[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Você é estúpido? Nos os temos.[n]Agora podemos atravessar o— [n][w][e]
+[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Você é burro? Nós os temos aqui. Agora[n]podemos atravessar...[n][w][e]
 
 [msg e382_400_mes03 [???]]
-[s]Parece que você trabalhou duro para[n]economizar todas essas moedas.[n][w][e]
+[s]Aparentemente, você trabalhou duro para acumular[n]as moedas.[n][w][e]
 
 [msg e382_400_mes04 [Akechi]]
-[s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Essa voz... é Sae-san.[n][w][e]
+[s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Essa voz... É Sae-san![n][w][e]
 
-[msg e382_400_mes05 [Shadow Sae]]
-[s]Eu não esperava que você chegasse até aqui.[n]Suponho que devo elogiar seus esforços.[n][w][e]
+[msg e382_400_mes05 [Ombra di Sae]]
+[s]Não pensei que você chegaria tão longe. Acho que[n]devo elogios a você.[n][w][e]
 
 [msg e382_400_mes06 [Ann]]
-[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Você disse que nos reconheceria se[n]chegássemos ao chão do gerente![n]Bem, estamos aqui![n][w][e]
+[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Você disse que se chegássemos à Gerência, você[n]reconheceria nossas habilidades Bem, aqui[n]estamos nós![n][w][e]
 
-[msg e382_400_mes07 [Shadow Sae]]
-[s]Infelizmente, isso é impossível.[n]Você nunca chegará ao chão do gerente.[n][w][e]
+[msg e382_400_mes07 [Ombra di Sae]]
+[s]Infelizmente, isso é impossível.[n]Você nunca alcançará[n]o Diretório.[n][w][e]
 
 [msg e382_400_mes08 [Makoto]]
-[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]O que você faz- [n][w][e]
+[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]O que...[n][w][e]
 
-[msg e382_400_mes09 [Shadow Sae]]
-[s]Eu te disse, as regras consideram que eu sou[n]o vencedor![n][w][e]
-[s]De agora em diante, você precisa [clr 2]1.000.000 [clr 27][n]Moedas para ativar esta ponte![n][w][e]
+[msg e382_400_mes09 [Ombra di Sae]]
+[s]Eu te disse: de acordo com as regras,[n]sou o vencedor![n][w][e]
+[s]De agora em diante, você precisará de [clr 2]1.000.000[clr 27] moedas para ativar a ponte![n][w][e]
 
-[msg e382_400_mes10 [Mechanical Voice]]
-[s]Cartão de membro da autenticação.[n]O número necessário de moedas para ativar a[n]ponte do julgamento é...[n][w][e]
+[msg e382_400_mes10 [Voce meccanica]]
+[s]Lendo o cartão de membro.[n]Número de moedas necessárias para[n]ativar a Ponte da Justiça:[n][w][e]
 [s][clr 2]1.000.000 [clr 27].[n][w][e]
 
 [msg e382_400_mes11 [Ryuji]]
@@ -74,7 +74,7 @@
 [msg e382_400_mes12 [Yusuke]]
 [s]100万だと!? 不可能だ...![n][w][e]
 
-[msg e382_400_mes13 [Shadow Sae]]
+[msg e382_400_mes13 [Ombra di Sae]]
 [s]アハハハハハ! そう不可能よ![n]あなた達には絶対に勝たせない![n][w][e]
 [s]勝つのはこの私よっ![n][w][e]
 
@@ -94,7 +94,7 @@
 [s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]...そろそろかな。[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]ジョーカー、その機械で[n]カードを認証してみてくれないか。[n][w][e]
 
-[msg e382_400_mes19 [Mechanical Voice]]
+[msg e382_400_mes19 [Voce meccanica]]
 [s]カードヲ認証シマシタ。[n]現在ノ『デポジット』ハ[clr 2][var 0]枚[clr 27]デス。[n][w][e]
 
 [msg e382_400_mes20 [Ann]]
@@ -134,25 +134,25 @@
 [msg e382_400_mes29 [Yusuke]]
 [s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]しかし『45万枚』だぞ...貯まるのか!?[n][w][e]
 
-[msg e382_400_mes30 [Shadow Sae]]
+[msg e382_400_mes30 [Ombra di Sae]]
 [s]フ、フフフ...バカが![n]驚かされたけど大した事ないじゃない![n][w][e]
 [s]残りは『45万枚』、そしてお前たちには、[n]それを稼ぐゲームすらない![n][w][e]
 [s]例え貯めて来た所で、今度も橋の起動に必要な[n]枚数を釣り上げてやるだけよ![n][w][e]
 
-[msg e382_400_mes31 [Shadow Sae]]
+[msg e382_400_mes31 [Ombra di Sae]]
 [s]今この場に『100万枚』のコインがない限り、[n]お前たちの負けは決まってるのよ![n][w][e]
 
 [msg e382_400_mes32 [Akechi]]
 [s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]...現実ならここは法廷、嘘は偽証罪に問われる。[n]冴さん、今の言葉に偽りはありませんね?[n][w][e]
 
-[msg e382_400_mes33 [Shadow Sae]]
+[msg e382_400_mes33 [Ombra di Sae]]
 [s]何...?[n][w][e]
 
 [msg e382_400_mes34 [Akechi]]
 [s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]ジョーカー、このカードを機械に。[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]ルールとして『カードを合算してはならない』、[n]とは言われていないからね。[n][w][e]
 
-[msg e382_400_mes35 [Mechanical Voice]]
+[msg e382_400_mes35 [Voce meccanica]]
 [s]カードヲ認証シマシタ。[n]デポジット、『45万1000枚』ヲ追加。[n][w][e]
 [s]現在ノ『デポジット』ハ[n][clr 2][var 0]枚[clr 27]デス。[n][w][e]
 
@@ -168,7 +168,7 @@
 [msg e382_400_mes39 [Akechi]]
 [s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]そう、今僕の使ったカードは『タナカタロウ』さ。[n][w][e]
 
-[msg e382_400_mes40 [Shadow Sae]]
+[msg e382_400_mes40 [Ombra di Sae]]
 [s]バカな...貴様。[n]ダメだ! そもそも偽名のカードなんて...![n][w][e]
 
 [msg e382_400_mes41 [Akechi]]
@@ -181,7 +181,7 @@
 [s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]僕を偽名として訴追するのなら、[n]あなたには挙証責任がある。[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]僕が『タナカタロウ』じゃないというなら、[n]...どうぞ、証拠を持って来て下さい。[n][w][e]
 
-[msg e382_400_mes44 [Shadow Sae]]
+[msg e382_400_mes44 [Ombra di Sae]]
 [s]うぐっ...![n][w][e]
 
 [msg e382_400_mes45 [Akechi]]
@@ -216,19 +216,19 @@
 [msg e382_400_mes49 [Akechi]]
 [s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]はは、少しは怪盗団に貢献できたかな。[n]さあ橋をかけよう、オタカラは目の前だよ。[n][w][e]
 
-[msg e382_400_01_mes01 [Mechanical Voice]]
-[s]Autorização do cartão completo.[n]Seu total atual é [clr 2][var 0][clr 27]moedas.[n][w][e]
-[s]Deseja ativar a ponte do julgamento?[n][w][e]
+[msg e382_400_01_mes01 [Voce meccanica]]
+[s]Autorização do cartão concluída.[n]Total é [clr 2][var 0][clr 27] moedas.[n][w][e]
+[s]Deseja ativar a[n]Ponte da Justiça?[n][w][e]
 
 [sel e382_400_01_selA top]
-[s]Ative a ponte [e]
-[s]Ainda não [e]
+[s]Ative a ponte[e]
+[s]Ainda não[e]
 
 [msg e382_400_01_selA_0_mes01 [Ryuji]]
-[s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7045 65535 0]Inferno, sim, estamos quase lá![n][w][e]
+[s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7045 65535 0]Sim, droga! Estamos quase lá![n][w][e]
 
 [msg e382_400_01_selA_0_mes02 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]É melhor estarmos prontos para o que está[n]por vir![n][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Melhor se preparar[n]para o que nos espera![n][w][e]
 
 [msg e382_400_01_selA_1_mes01 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]......[n][w][e]

@@ -1,67 +1,67 @@
 [msg HIHUMI_EV2ND_mes01 [Yusuke]]
-[s][clr 2](temp msg event)[clr 27][n]... Aprenda táticas de mão-de-obra de um bom[n]jogador de shogi...?[n][w][e]
+[s][clr 2](temp msg event)[clr 27][n]...Imparare tattiche di rinforzi da[n]una campionessa di shogi?[n][w][e]
 
 [msg HIHUMI_EV2ND_mes02 [Ryuji]]
-[s]Bem, claro, acho que não é como se ninguém[n]tivesse pensado nisso antes...[n][w][e]
+[s]Bem, não é como se ninguém tivesse pensado nisso[n]antes...[n][w][e]
 
 [msg HIHUMI_EV2ND_mes03 [Ann]]
 [s]Mas pode funcionar para nós.[n][w][e]
-[s]Você precisa de muitos cérebros para jogar[n]shogi, não?[n][w][e]
+[s]É preciso muito cérebro para jogar shogi, certo?[n][w][e]
 
 [msg HIHUMI_EV2ND_mes04 [Yusuke]]
-[s]Formações, seqüências, o que fazer com os[n]membros na espera... certamente há um[n]terreno comum na maneira como lutamos.[n][w][e]
+[s]Formações, sequências, o que fazer com[n]membros em espera... Vejo muito em[n]comum com nosso estilo de luta.[n][w][e]
 
 [msg HIHUMI_EV2ND_mes05 [Morgana]]
-[s]É uma boa ideia, vindo de [n][f 4 2].[n][w][e]
+[s]É uma ótima ideia, a de[n][f 4 2].[n][w][e]
 
 [msg HIHUMI_EV2ND_mes06 [Ann]]
-[s]... Mas duvido que algum de nós esteja[n]convenientemente familiarizado com um[n]especialista em shogi.[n][w][e]
+[s]...Mas duvido que qualquer um de nós conheça um[n]especialista em shogi.[n][w][e]
 
 [msg HIHUMI_EV2ND_mes07 [Ryuji]]
-[s]Sim, isso.[n][w][e]
+[s]Ah, exatamente.[n][w][e]
 
 [msg HIHUMI_EV2ND_mes08 [Yusuke]]
-[s]Familiarizado, talvez não. Mas eu tenho[n]exatamente uma liderança.[n][w][e]
+[s]Sabe, talvez não. Mas eu sei quem[n]poderia ser o certo para nós.[n][w][e]
 
 [msg HIHUMI_EV2ND_mes09 [Ryuji]]
-[s]Uau, eu não estava esperando isso![n][w][e]
+[s]Nossa, eu não esperava isso![n][w][e]
 
 [msg HIHUMI_EV2ND_mes10 [Yusuke]]
-[s]Ela é uma estudante de Kosei como eu.[n]Eu acho que o nome dela é Hifumi Shindo.[n][w][e]
-[s]Ela é uma boa- bem, aparentemente é uma[n]jogadora profissional de shogi.[n][w][e]
+[s]Ela é uma estudante Kosei como[n]eu. Acho que o nome dele é Hifumi Togo.[n][w][e]
+[s]Ela é muito boa... Bem, aparentemente, ela é uma[n]jogadora profissional de shogi.[n][w][e]
 
 [msg HIHUMI_EV2ND_mes11 [Ryuji]]
-[s]Vocês têm algum interesse em seus[n]personagens na sua escola![n][w][e]
-[s]Então, podemos contá-la para trabalhar[n]conosco?[n][w][e]
+[s]Claro que sua escola tem alguns personagens[n]interessantes![n][w][e]
+[s]Então você acha que ele vai colaborar[n]com a gente?[n][w][e]
 
 [msg HIHUMI_EV2ND_mes12 [Yusuke]]
-[s]Quem sabe? Talvez se um acordo puder ser[n]fechado com ela.[n][w][e]
+[s]Quem sabe? Talvez possamos encontrar um acordo.[n][w][e]
 
 [msg HIHUMI_EV2ND_mes13 [Ryuji]]
-[s]O que, você não pode simplesmente trazê-la[n]aqui?[n][w][e]
+[s]Você não pode simplesmente trazê-la aqui?[n][w][e]
 
 [msg HIHUMI_EV2ND_mes14 [Yusuke]]
-[s]Eu não a conheço. Nunca conversei com ela.[n]Ouvi dizer que ela é um pouco estranha.[n][w][e]
-[s]Mas não acho que meu relacionamento com os[n]assuntos dela neste caso.[n][w][e]
-[s]É nosso líder destemido, [f 4 1], que tem que aprender as táticas, afinal.[n][w][e]
-[s]Eu penso [f 4 1]deve entrar em contato diretamente com o[n]Togo e negociar com ela.[n][w][e]
+[s]Eu não conheço ela. Eu nunca falei com ele, na[n]verdade. Ouvi dizer que é um pouco estranho.[n][w][e]
+[s]Mas não acho que meu relacionamento[n]com ela importe, neste caso.[n][w][e]
+[s]É o nosso chefe, [f 4 1],[n]quem tem que aprender as táticas,[n]afinal.[n][w][e]
+[s]Acho que [f 4 1] deveria[n]contatar Togo diretamente e[n]negociar com ela.[n][w][e]
 
 [msg HIHUMI_EV2ND_mes15 [Ryuji]]
-[s]HM. Sim, acho que você está certo...[n][w][e]
-[s]O que quer fazer, [f 4 2]?[n][w][e]
+[s]Hum. Sim, acho que você tem razão...[n][w][e]
+[s]O que você quer fazer, [f 4 2]?[n][w][e]
 
 [sel HIHUMI_EV2ND_SEL01 top]
-[s]Eu vou me encontrar com ela.[e]
-[s]Vou olhar para isso.[e]
+[s]Eu irei até ela.[e]
+[s]Eu vou verificar.[e]
 
 [msg HIHUMI_EV2ND_A_mes01 [Yusuke]]
-[s]É por isso que você é o líder. As coisas se[n]movem tão rapidamente com você.[n][w][e]
+[s]É por isso que você é o chefe. As coisas[n]vão rápido, com você.[n][w][e]
 
 [msg HIHUMI_EV2ND_B_mes01 [Yusuke]]
-[s]Não que tenhamos certeza de aprender[n]qualquer tática dela, mas talvez quanto[n]mais cedo melhor.[n][w][e]
+[s]Não temos certeza de que vamos aprender[n]qualquer tática com ela, mas talvez[n]quanto mais cedo aprendermos, melhor.[n][w][e]
 
 [msg HIHUMI_EV2ND_mes16 [Yusuke]]
-[s]Eu ouço Togo caminhar por Shibuya em seu[n]uniforme escolar.[n][w][e]
-[s]A maioria dos jogadores de shogi não é[n]conhecida por ser visivelmente[n]impressionante, o que torna encontrá-la[n]reconhecidamente difícil...[n][w][e]
-[s]Mas se você tiver uma vibração de alguém,[n]tente conversar com eles.[n][w][e]
+[s]Ouvi dizer que Togo anda por[n]Shibuya em seu uniforme escolar.[n][w][e]
+[s]Sabe-se que os jogadores de Shogi[n]não são muito chamativos, o que[n]a torna difícil de encontrar.[n][w][e]
+[s]Mas se alguém lhe dá[n]um sentimento particular,[n]você deve tentar falar com essa pessoa.[n][w][e]
 

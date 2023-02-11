@@ -5,14 +5,14 @@
 [s]★仮テキスト[n]絞首刑解禁イベント・終了[n][w][e]
 
 [msg D02_HANG_COMBINE_START_0_2 [Justine]]
-[s][bup 0 101 2 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 12046 65535 0]Saiba seu lugar.[n][w][e]
+[s][bup 0 101 2 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 12046 65535 0]Fique no seu lugar.[n][w][e]
 
 [msg D02_HANG_COMBINE_START_0_3 [Justine]]
-[s][bup 0 101 0 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 55232 65535 0]Entre- temos muito a discutir.[n][w][e]
+[s][bup 0 101 0 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 55232 65535 0]Entre... Temos muito[n]para discutir.[n][w][e]
 
 [msg D02_HANG_COMBINE_END_01 [Ryuji]]
-[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7018 65535 0]Ei, Joker![n][w][e]
+[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7018 65535 0]Ei Joker![n][w][e]
 
 [msg D02_HANG_COMBINE_END_02 [Ryuji]]
-[s][bup 0 2 107 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Não acredito que você está bem, apenas[n]espacial nesse calor. Estou sendo morto[n]aqui![n][w][e]
+[s][bup 0 2 107 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Absurda a tranquilidade com que[n]você fica parado nessa[n]seca. Estou quebrando![n][w][e]
 

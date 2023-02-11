@@ -1,233 +1,233 @@
 [msg SYSTEM_GET_COSTUME_P4]
-[s]Obteve o [clr 4]Uniformes de Yasogami [clr 27][n]e [clr 4][var 0][clr 27].[n][w][e]
+[s]Você obteve os uniformes [clr 4][n]Yasogami[clr 27] e [clr 4][var 0][clr 27].[n][w][e]
 
 [msg SYSTEM_GET_COSTUME_P3]
-[s]Obteve o [clr 4]Uniformes Gekkoukan [clr 27][n]e [clr 4][var 0][clr 27].[n][w][e]
+[s]Você obteve os [clr 4]uniformes[n]do Gekkoukan[clr 27] e [clr 4][var 0][clr 27].[n][w][e]
 
 [msg SYSTEM_GET_COSTUME_P2]
-[s]Obteve o [clr 4]Sete uniformes da irmã [clr 27]e [clr 4][var 0][clr 27].[n][w][e]
+[s]Você obteve os [clr 4]uniformes[n]das Sete Irmãs[clr 27] e [clr 4][var 0][clr 27].[n][w][e]
 
 [msg SYSTEM_GET_COSTUME_IBUNR]
-[s]Obteve o [clr 4]Uniformes de St. Hermelin [clr 27]e [clr 4][var 0][clr 27].[n][w][e]
+[s]Obteve os [clr 4]uniformes de[n]St. Hermelin[clr 27] e [clr 4][var 0][clr 27].[n][w][e]
 
 [msg SYSTEM_GET_COSTUME_IF]
-[s]Obteve o [clr 4]Uniformes de Karukozaka [clr 27]e [clr 4][var 0][clr 27].[n][w][e]
+[s]Você obteve os uniformes [clr 4][n]Karukozaka[clr 27] e [clr 4][var 0][clr 27].[n][w][e]
 
 [msg SYSTEM_GET_COSTUME_P4D]
-[s]Obteve o [clr 4]Roupas de dança [clr 27][n]e [clr 4][var 0][clr 27].[n][w][e]
+[s]Você obteve o [clr 4]vestido de baile[clr 27][n]e [clr 4][var 0][clr 27].[n][w][e]
 
 [msg SYSTEM_GET_COSTUME_P4U]
-[s]Obteve o [clr 4]Sombra Ops uniformes [clr 27]e [clr 4][var 0][clr 27].[n][w][e]
+[s]Você obteve [clr 4]uniforme[n]operações especiais[clr 27] e [clr 4][var 0][clr 27].[n][w][e]
 
 [msg SYSTEM_GET_COSTUME_MEGAM]
-[s]Obteve o [clr 4]Garb Samurai [clr 27][n]e [clr 4][var 0][clr 27].[n][w][e]
+[s]Você obteve o [clr 4]manto samurai[clr 27][n]e [clr 4][var 0][clr 27].[n][w][e]
 
 [msg SYSTEM_GET_COSTUME_RAIDO]
-[s]Obteve o [clr 4]Uniformes estudantis [clr 27][n]e [clr 4][var 0][clr 27].[n][w][e]
+[s]Você obteve [clr 4]uniformes estudantis[clr 27][n]e [clr 4][var 0][clr 27].[n][w][e]
 
 [msg SYSTEM_GET_COSTUME_CATHE]
-[s]Obteve o [clr 4]Roupas de adultos perdidos [clr 27]e [clr 4][var 0][clr 27].[n][w][e]
+[s]Você obteve os trajes [clr 4]de[n]adultos perdidos[clr 27] e [clr 4][var 0][clr 27].[n][w][e]
 
 [msg SYSTEM_GET_COSTUME_P5]
-[s]Obteve o [clr 4]Roupas normais [clr 27], Assim, [n][clr 4]Uniformes escolares [clr 27], e [clr 4]Loungewear [clr 27].[n][w][e]
+[s]Você obteve [clr 4]roupas normais[clr 27],[n][clr 4]uniformes escolares[clr 27] e [clr 4]roupas confortáveis[clr 27].[n][w][e]
 
 [msg SYSTEM_GET_COSTUME_SWIM]
-[s]Obteve o [clr 4]Maiôs [clr 27].[n][w][e]
+[s]Você obteve os [clr 4]maiôs[clr 27].[n][w][e]
 
 [msg SYSTEM_GET_COSTUME_BUTLE]
-[s]Obteve o [clr 4]Roupas de empregada doméstica e mordomo [clr 27].[n][w][e]
+[s]Você obteve as [clr 4]trajes de empregada[n]doméstica e mordomo[clr 27].[n][w][e]
 
 [msg SYSTEM_GET_COSTUME_XMAS]
-[s]Obteve o [clr 4]Roupas de Natal [clr 27].[n][w][e]
+[s]Você obteve a [clr 4]roupa de Natal[clr 27].[n][w][e]
 
 [msg SYSTEM_GET_ITEM_NG]
-[s]Não foi possível receber alguns itens porque[n]você não pode mais segurar.[n][w][e]
+[s]Você não recebeu alguns itens[n]porque não pode levar[n]outros.[n][w][e]
 
 [msg SYSTEM_GET_MONEY_NG]
-[s]Não pode receber mais porque a quantia[n]máxima de dinheiro está sendo mantida.[n][w][e]
+[s]Você atingiu a quantia máxima[n]de dinheiro, não pode receber[n]mais.[n][w][e]
 
 [msg SYSTEM_GET_PERSONA_ORPHE]
-[s]Obteve o Orfeu DLC, [n][clr 4][var 0][clr 27], e [n][clr 3][var 1][clr 27].[n][w][e]
+[s]Obteve o DLC Orpheus,[n][clr 4][var 0][clr 27] e[n][clr 3][var 1][clr 27].[n][w][e]
 
 [msg SYSTEM_GET_PERSONA_ORPHE_2]
-[s]Falhou em receber o Orpheus DLC.[n][w][e]
+[s]Não foi possível receber o DLC[n]Orpheus.[n][w][e]
 
 [msg SYSTEM_GET_PERSONA_IZANA]
-[s]Obteve o izanagi dlc, [n][clr 4][var 0][clr 27], e [n][clr 3][var 1][clr 27].[n][w][e]
+[s]Você obteve o DLC Izanagi,[n][clr 4][var 0][clr 27] e[n][clr 3][var 1][clr 27].[n][w][e]
 
 [msg SYSTEM_GET_PERSONA_IZANA_2]
-[s]Falhou em receber o Izanagi DLC.[n][w][e]
+[s]Não foi possível receber o DLC[n]Izanagi.[n][w][e]
 
 [msg SYSTEM_GET_PERSONA_THANA]
-[s]Obteve o DLC Thanatos, [n][clr 4][var 0][clr 27], e [n][clr 3][var 1][clr 27].[n][w][e]
+[s]Você obteve o DLC Thanatos,[n][clr 4][var 0][clr 27] e[n][clr 3][var 1][clr 27].[n][w][e]
 
 [msg SYSTEM_GET_PERSONA_THANA_2]
-[s]Falha ao receber o DLC Thanatos.[n][w][e]
+[s]Não é possível receber o DLC[n]Thanatos.[n][w][e]
 
 [msg SYSTEM_GET_PERSONA_MAGAT]
-[s]Obteve o dlc magatsu-izanagi, [clr 4][var 0][clr 27], e [n][clr 3][var 1][clr 27].[n][w][e]
+[s]Você obteve o DLC Magatsu-Izanagi,[n][clr 4][var 0][clr 27] e[n][clr 3][var 1][clr 27].[n][w][e]
 
 [msg SYSTEM_GET_PERSONA_MAGAT_2]
-[s]Falhou em receber o DLC Magatsu-Izanagi.[n][w][e]
+[s]Não foi possível receber o DLC[n]Magatsu-Izanagi.[n][w][e]
 
 [msg SYSTEM_GET_PERSONA_KAGUY]
-[s]Obteve o Kaguya DLC, [n][clr 4][var 0][clr 27], e [n][clr 3][var 1][clr 27].[n][w][e]
+[s]Obteve Kaguya,[n][clr 4][var 0][clr 27] e[n][clr 3][var 1][clr 27] DLC.[n][w][e]
 
 [msg SYSTEM_GET_PERSONA_KAGUY_2]
-[s]Falha ao receber o Kaguya DLC.[n][w][e]
+[s]Não foi possível receber o DLC[n]Kaguya.[n][w][e]
 
 [msg SYSTEM_GET_PERSONA_ARIAD]
-[s]Obteve o Ariadne DLC, [n][clr 4][var 0][clr 27], e [n][clr 3][var 1][clr 27].[n][w][e]
+[s]Você obteve o DLC Ariadne,[n][clr 4][var 0][clr 27] e[n][clr 3][var 1][clr 27].[n][w][e]
 
 [msg SYSTEM_GET_PERSONA_ARIAD_2]
-[s]Falhou em receber o Ariadne DLC.[n][w][e]
+[s]Não foi possível receber o DLC[n]Arianna.[n][w][e]
 
 [msg SYSTEM_GET_PERSONA_ASTER]
-[s]Obteve o Asterius DLC, [n][clr 4][var 0][clr 27], e [n][clr 3][var 1][clr 27].[n][w][e]
+[s]Você obteve o DLC Asterius,[n][clr 4][var 0][clr 27] e[n][clr 3][var 1][clr 27].[n][w][e]
 
 [msg SYSTEM_GET_PERSONA_ASTER_2]
-[s]Falhou em receber o Asterius DLC.[n][w][e]
+[s]Não foi possível receber o DLC[n]Asterius.[n][w][e]
 
 [msg SYSTEM_GET_PERSONA_TUKIY]
-[s]Obteve o Tsukiyomi DLC, [n][clr 4][var 0][clr 27], e [n][clr 3][var 1][clr 27].[n][w][e]
+[s]Obteve o DLC Tsukiyomi,[n][clr 4][var 0][clr 27] e[n][clr 3][var 1][clr 27].[n][w][e]
 
 [msg SYSTEM_GET_PERSONA_TUKIY_2]
-[s]Falha ao receber o Tsukiyomi DLC.[n][w][e]
+[s]Não foi possível receber o DLC[n]Tsukiyomi.[n][w][e]
 
 [msg SYSTEM_GET_PERSONA_MESSI]
-[s]Obteve o Messias DLC, [n][clr 4][var 0][clr 27], e [n][clr 3][var 1][clr 27].[n][w][e]
+[s]Obteve o DLC do Messias,[n][clr 4][var 0][clr 27] e[n][clr 3][var 1][clr 27].[n][w][e]
 
 [msg SYSTEM_GET_PERSONA_MESSI_2]
-[s]Falhou em receber o Messias DLC.[n][w][e]
+[s]Não foi possível receber o DLC[n]Messiah.[n][w][e]
 
 [msg SYSTEM_GET_ITEM_START01]
-[s]Obteve o [clr 3]Conjunto de itens de cura [clr 27].[n][w][e]
+[s]Você obteve o [clr 3]conjunto de itens de[n]cura[clr 27].[n][w][e]
 
 [msg SYSTEM_GET_ITEM_START01_]
-[s]Falhou em receber o [n][clr 3]Conjunto de itens de cura [clr 27]DLC.[n][w][e]
+[s]Não foi possível receber o[n]DLC [clr 3]Conjunto de itens de cura[clr 27].[n][w][e]
 
 [msg SYSTEM_GET_ITEM_START02]
-[s]Obteve o [clr 3]Conjunto de cartões de habilidade [clr 27].[n][w][e]
+[s]Você obteve o [clr 3]conjunto de cartas de[n]habilidade[clr 27].[n][w][e]
 
 [msg SYSTEM_GET_ITEM_START02_]
-[s]Falhou em receber o [n][clr 3]Conjunto de cartões de habilidade [clr 27]DLC.[n][w][e]
+[s]Não foi possível receber[n]DLC [clr 3]Skill Card Set[clr 27].[n][w][e]
 
 [msg SYSTEM_GET_COSTUME_P5_DA]
-[s]Obteve o [clr 4]Roupa da luz das estrelas [clr 27][n]e [clr 4][var 0][clr 27].[n][w][e]
+[s]Você obteve o [clr 4]Vestido de[n]starlight[clr 27] e [clr 4][var 0][clr 27].[n][w][e]
 
 [msg SYSTEM_GET_COSTUME_VELVE]
-[s]Obteve o [clr 4]roupa ultramarina [n][clr 27]e [clr 4][var 0][clr 27].[n][w][e]
+[s]Você obteve o [clr 4]Ultrasmarine Suit[clr 27][n]e [clr 4][var 0][clr 27].[n][w][e]
 
 [msg SYSTEM_GET_COSTUME_FEATG]
-[s]Obtido [clr 4]máscara de penas [clr 27][n]e [clr 4][var 0][clr 27].[n][w][e]
+[s]Você obteve [clr 4]Máscara de penas[clr 27][n]e [clr 4][var 0][clr 27].[n][w][e]
 
 [msg SYSTEM_GET_COSTUME_DEEPS]
-[s]Obtido [clr 4]Demonica com capacete [clr 27][n]e [clr 4]Demonica sem capacete [clr 27].[n][w][e]
+[s]Você tem [clr 4]Demonica com capacete[clr 27][n]e [clr 4]Demonica sem capacete[clr 27].[n][w][e]
 
 [msg SYSTEM_GET_COSTUME_JERSE]
-[s]Obtido [clr 4]Recurso rebelde [clr 27].[n][w][e]
+[s]Você obteve [clr 4]traje de insurgente[clr 27].[n][w][e]
 
 [msg SYSTEM_GET_COSTUME_PQ2]
-[s]Obteve o [clr 4]Novo desgaste do cinema [clr 27][n]e [clr 4][var 0][clr 27].[n][w][e]
+[s]Você obteve [clr 4]Roupas[n]Novo Cinema[clr 27] e [clr 4][var 0][clr 27].[n][w][e]
 
 [msg SYSTEM_GET_COSTUME_VIOLE]
-[s][clr 4]> [var 0][clr 27], Assim, [n][clr 4]> [var 1][clr 27], Assim, [n][clr 4]> [var 2][clr 27], e [n][w][e]
-[s][clr 4]> [var 3][clr 27], Assim, [n][clr 4]> [var 4][clr 27], Assim, [n][clr 4]> [var 5][clr 27], e [n][w][e]
-[s][clr 4][var 6][clr 27]e [n][clr 4][var 7][clr 27]obtido.[n][w][e]
+[s][clr 4]>[var 0][clr 27],[n][clr 4] >[var 1][clr 27],[n][clr 4] >[var 2][clr 27] e[n][w][e]
+[s][clr 4]>[var 3][clr 27],[n][clr 4] >[var 4][clr 27],[n][clr 4] >[var 5][clr 27] e[n][w][e]
+[s]Você obteve [clr 4][var 6][clr 27] e[n][clr 4][var 7][clr 27].[n][w][e]
 
 [msg SYSTEM_GET_COSTUME_VIOLE_2]
-[s][clr 4]> [var 0][clr 27], Assim, [n][clr 4]> [var 1][clr 27], Assim, [n][clr 4]> [var 2][clr 27], e [n][w][e]
-[s][clr 4]> [var 3][clr 27], Assim, [n][clr 4]> [var 4][clr 27], Assim, [n][clr 4]> [var 5][clr 27], e [n][w][e]
-[s][clr 4]> [var 6][clr 27], Assim, [n][clr 4]> [var 7][clr 27], e [n][clr 4]> [var 8][clr 27], obtido.[n][w][e]
+[s][clr 4]>[var 0][clr 27],[n][clr 4] >[var 1][clr 27],[n][clr 4] >[var 2][clr 27] e[n][w][e]
+[s][clr 4]>[var 3][clr 27],[n][clr 4] >[var 4][clr 27],[n][clr 4] >[var 5][clr 27] e[n][w][e]
+[s][clr 4]>[var 6][clr 27],[n][clr 4] >[var 7][clr 27] e[n][clr 4] >[var 8][clr 27] obtidos.[n][w][e]
 
 [msg SYSTEM_GET_COSTUME_VIOLE_3]
-[s][clr 4]> [var 0][clr 27], Assim, [n][clr 4]> [var 1][clr 27], Assim, [n][clr 4]> [var 2][clr 27], e [n][w][e]
-[s][clr 4]> [var 3][clr 27], Assim, [n][clr 4]> [var 4][clr 27], Assim, [n][clr 4]> [var 5][clr 27], e [n][w][e]
-[s][clr 4][var 6][clr 27]e [n][clr 4][var 7][clr 27]obtido.[n][w][e]
+[s][clr 4]>[var 0][clr 27],[n][clr 4] >[var 1][clr 27],[n][clr 4] >[var 2][clr 27] e[n][w][e]
+[s][clr 4]>[var 3][clr 27],[n][clr 4] >[var 4][clr 27],[n][clr 4] >[var 5][clr 27] e[n][w][e]
+[s]Você obteve [clr 4][var 6][clr 27] e[n][clr 4][var 7][clr 27].[n][w][e]
 
 [msg SYSTEM_GET_COSTUME_VIOLE_4]
-[s][clr 4]> [var 0][clr 27], Assim, [n][clr 4]> [var 1][clr 27], Assim, [n][clr 4]> [var 2][clr 27], e [n][w][e]
-[s][clr 4]> [var 3][clr 27], Assim, [n][clr 4]> [var 4][clr 27], Assim, [n][clr 4]> [var 5][clr 27], e [n][w][e]
-[s][clr 4]> [var 6][clr 27], Assim, [n][clr 4]> [var 7][clr 27], Assim, [n][clr 4]> [var 8][clr 27], e [n][w][e]
-[s][clr 4][var 9][clr 27], e [n][clr 4][var 10][clr 27]obtido.[n][w][e]
+[s][clr 4]>[var 0][clr 27],[n][clr 4] >[var 1][clr 27],[n][clr 4] >[var 2][clr 27] e[n][w][e]
+[s][clr 4]>[var 3][clr 27],[n][clr 4] >[var 4][clr 27],[n][clr 4] >[var 5][clr 27] e[n][w][e]
+[s][clr 4]>[var 6][clr 27],[n][clr 4] >[var 7][clr 27],[n][clr 4] >[var 8][clr 27] e[n][w][e]
+[s]Você obteve [clr 4][var 9][clr 27] e[n][clr 4][var 10][clr 27].[n][w][e]
 
 [msg SYSTEM_GET_PERSONA_IZANA_3]
-[s]Obteve izanagi-no-okami dlc, [clr 4][var 0][clr 27], e [clr 3][var 1][clr 27].[n][w][e]
+[s]Você obteve o DLC[n]Izanagi-no-Okami, [clr 4][var 0][clr 27][n]e [clr 3][var 1][clr 27].[n][w][e]
 
 [msg SYSTEM_GET_PERSONA_IZANA_4]
-[s]Falhou em receber o DLC Izanagi-No-Okami.[n][w][e]
+[s]Não foi possível receber o DLC[n]Izanagi-no-Okami.[n][w][e]
 
 [msg SYSTEM_GET_PERSONA_ORPHE_3]
-[s]Obteve o Orfeu DLC, [n][clr 4][var 0][clr 27], e [n][clr 3][var 1][clr 27].[n][w][e]
+[s]Obteve o DLC Orpheus,[n][clr 4][var 0][clr 27] e[n][clr 3][var 1][clr 27].[n][w][e]
 
 [msg SYSTEM_GET_PERSONA_ORPHE_4]
-[s]Falhou em receber o Orpheus DLC.[n][w][e]
+[s]Não foi possível receber o DLC[n]Orpheus.[n][w][e]
 
 [msg SYSTEM_GET_PERSONA_ATENA]
-[s]Obteve o Athena DLC, [n][clr 4][var 0][clr 27], e [n][clr 3][var 1][clr 27].[n][w][e]
+[s]Você obteve o DLC Athena,[n][clr 4][var 0][clr 27] e[n][clr 3][var 1][clr 27].[n][w][e]
 
 [msg SYSTEM_GET_PERSONA_ATENA_2]
-[s]Falhou em receber o Athena DLC.[n][w][e]
+[s]Não foi possível receber o DLC[n]Athena.[n][w][e]
 
 [msg SYSTEM_GET_PERSONA_RAULU]
-[s]Obtido Raoul DLC [n][clr 4][var 0][clr 27].[n][w][e]
+[s]Você obteve o DLC Raoul[n][clr 4][var 0][clr 27].[n][w][e]
 
 [msg SYSTEM_GET_PERSONA_RAULU_2]
-[s]Falha ao receber o Raoul DLC.[n][w][e]
+[s]Não foi possível receber o DLC[n]Raoul.[n][w][e]
 
 [msg SYSTEM_GET_ITEM_DUNGEON_]
-[s]Obtido [clr 3]Pacote de assistência de exploração [clr 27].[n][w][e]
+[s]Você obteve assistência de exploração de [n][clr 3]Pacote [clr 27].[n][w][e]
 
 [msg SYSTEM_GET_ITEM_DUNGEON__2]
-[s]Falhou em receber o [n][clr 3]Pacote de assistência de exploração [clr 27].[n][w][e]
+[s]Não foi possível receber o[n][clr 3]Pacote de Assistência à Exploração[clr 27].[n][w][e]
 
 [msg SYSTEM_GET_ITEM_DUNGEON__3]
-[s]Não pode receber mais porque a quantia[n]máxima de dinheiro está sendo mantida.[n][w][e]
+[s]Você atingiu a quantia máxima[n]de dinheiro, não pode receber[n]mais.[n][w][e]
 
 [msg SYSTEM_GET_ITEM_BATTLE_P]
-[s]Obteve o [clr 3]Battle Assist Pack [clr 27].[n][w][e]
+[s]Você obteve o[n][clr 3]Battle Care Pack[clr 27].[n][w][e]
 
 [msg SYSTEM_GET_ITEM_BATTLE_P_2]
-[s]Obteve o [clr 3]Battle Assist Pack [clr 27].[n][w][e]
+[s]Você obteve o[n][clr 3]Battle Care Pack[clr 27].[n][w][e]
 
 [msg SYSTEM_GET_P5_SAVEDATA]
-[s]Recebido [clr 3]Persona 5 Salvar Dados Presente Especial [clr 27].[n][w][e]
+[s]Você recebeu o presente especial[n][clr 3]Persona 5 save data[clr 27].[n][w][e]
 
 [msg SYSTEM_CHECK_P5_SAVEDATA]
-[s]Se você possui o Persona 5 Save Data, poderá[n]receber vários benefícios.[n][w][e]
-[s]Usar os benefícios?[n][w][e]
+[s]Com os dados do Persona 5[n]salvar, você pode obter[n]vários benefícios.[n][w][e]
+[s]Quer usar os benefícios?[n][w][e]
 
 [msg SYSTEM_CHECK_P5_SAVEDATA_2]
-[s]Não é possível adquirir dados de salvamento.[n]Você gostaria de tentar de novo?[n][w][e]
+[s]Não foi possível obter dados salvos.[n]Você quer tentar novamente?[n][w][e]
 
 [msg SYSTEM_CHECK_P5_SAVEDATA_3]
-[s]Você pode acessar os benefícios de dados[n]salvar a qualquer momento, acessando a[n]caixa de papelão no seu quarto.[n][w][e]
+[s]Você pode acessar os benefícios de salvar dados[n]a qualquer momento[n]da caixa em seu quarto.[n][w][e]
 
 [msg SYSTEM_CHECK_P5_SAVEDATA_4]
-[s]Obtained 〇〇.[n][w][e]
+[s]Hai ottenuto 〇〇.[n][w][e]
 
 [sel SYSTEM_CHECK_P5_SAVEDATA_5 top]
-[s]Sim [e]
-[s]Não [e]
+[s]Sim[e]
+[s]Não[e]
 
 [msg SYSTEM_DLC_GET_TOP]
-[s]Recebido [clr 3]DLC [clr 27].[n][w][e]
+[s]Você recebeu [clr 3]DLC[clr 27].[n][w][e]
 
 [msg SYSTEM_DLC_GET_TOP_Fiber]
-[s]Você recebeu o seu [clr 3]conteúdo de bônus [clr 27].[n][w][e]
+[s]Você recebeu o [clr 3]conteúdo adicional[clr 27].[n][w][e]
 
 [msg MIND_MYPALACE_COMPLETE]
-[s]Algo está na caixa de papelão...[n][w][e]
+[s]Tem alguma coisa na caixa...[n][w][e]
 
 [msg SYSTEM_MYPALACE_COMPLETE]
-[s]Recebido [clr 3]Recompensa de conclusão do prêmio [clr 27].[n][w][e]
+[s]Você recebeu [clr 3]Recompensa[n]Recompensa de conclusão[clr 27].[n][w][e]
 
 [msg SYSTEM_GET_GENERAL_UPPER]
-[s]Você não pode segurar mais [n][clr 3][var 0][clr 27]. O item não pôde ser recebido.[n][w][e]
+[s]Você está carregando o número máximo de[n][clr 3][var 0][clr 27].[n]Você não recebeu o item.[n][w][e]
 
 [msg SYSTEM_GET_GENERAL_UPPER_2]
-[s]Você não pode segurar mais [n][clr 4][var 0][clr 27]. O item não pôde ser recebido.[n][w][e]
+[s]Você está carregando o número máximo de[n][clr 4][var 0][clr 27].[n]Você não recebeu o item.[n][w][e]
 
 [msg SYSTEM_GET_ITEM_UPPER_LI]
-[s]Você não pode segurar mais [n][clr 3][var 0][clr 27]. O item não pôde ser recebido.[n][w][e]
+[s]Você está carregando o número máximo de[n][clr 3][var 0][clr 27].[n]Você não recebeu o item.[n][w][e]
 

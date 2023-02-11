@@ -1,24 +1,24 @@
 [msg D01_02_e129_204_mes01 [Morgana]]
-[s][bup 0 3 0 65535 0]Essa é a porta que leva à sala de[n]treinamento.[n][w][e]
+[s][bup 0 3 0 65535 0]Essa porta leva ao[n]ginásio.[n][w][e]
 
 [msg D01_02_e129_204_mes02 [Ryuji]]
-[s][bup 0 2 0 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]"Hall do amor de treinamento", minha bunda.[n]Ele é um verdadeiro pedaço de merda.[n][w][e]
+[s][bup 0 2 0 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Merda de "academia do amor".[n]Ele é um verdadeiro idiota.[n][w][e]
 
 [msg D01_02_e129_204_mes03 [Ryuji]]
-[s][bup 0 2 3 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7047 65535 0]Parece que esses caras foram enviados para o[n]corredor de trens também...[n][w][e]
+[s][bup 0 2 3 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7047 65535 0]Aparentemente, esses[n]caras também estão na academia...[n][w][e]
 
 [msg D01_02_e129_204_mes04 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1170 65535 0]Esta célula também está vazia.[n][w][e]
 
 [msg D01_02_e129_204_mes05]
-[s]Não há ninguém na célula.[n][w][e]
+[s]Não há ninguém na cela.[n][w][e]
 
 [msg D01_02_LOCK_BRIDGE_mes01 [Morgana]]
 [s][bup 0 3 0 65535 0]Espera espera![n][w][e]
 
 [msg D01_02_LOCK_BRIDGE_mes02 [Morgana]]
-[s][bup 0 3 0 65535 0]O que você está fazendo? Você não quer ir[n]para a sala de treinamento?[n][w][e]
-[s]Mantenha as mãos fora de tudo o que não é[n]vital. Não queremos chamar atenção[n]desnecessária para nós.[n][w][e]
+[s][bup 0 3 0 65535 0]O que você está fazendo? Não quer ir[n]para a academia?[n][w][e]
+[s]Esqueça as[n]coisas supérfluas. Não queremos[n]atenção.[n][w][e]
 
 [msg D01_02_HoldTutorial_mes9 [Morgana]]
 [s][bup 0 3 0 65535 0]ムッ! 待てっ![n][w][e]

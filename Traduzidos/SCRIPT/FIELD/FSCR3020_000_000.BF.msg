@@ -5,54 +5,54 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0]Então o que você vai fazer?[n][w][e]
 
 [sel MSG_DESK_START_THINK_SEL top]
-[s]Vamos fazer algumas ferramentas.[e]
-[s]Vamos consertar este laptop.[e]
-[s]Vamos verificar commodities obscuras.[e]
-[s]Nenhuma coisa.[e]
+[s]Faça ferramentas.[e]
+[s]Conserte o notebook.[e]
+[s]Veja negócios obscuros.[e]
+[s]Nada.[e]
 
 [msg MSG_REPAIR_NotePc_00 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Venha para pensar sobre isso, você comprou[n]um laptop.[n]Está quebrado embora...[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Pensando bem, você[n]comprou um laptop. Mas está quebrado...[n][w][e]
 
 [msg MSG_REPAIR_NotePc_NoItem [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Você precisará de algumas ferramentas[n]especializadas para repará-lo. Eu me[n]pergunto onde eles vendem coisas assim...[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Você precisará de ferramentas especiais para[n]repará-lo. Quem sabe onde eles os vendem...[n][w][e]
 
 [msg MSG_REPAIR_NotePc_NoItem_2 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Você não vai consertar esse laptop sem[n]algumas ferramentas especializadas. Talvez[n]eles tenham coisas assim em Akihabara?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Você não pode consertá-lo sem[n]ferramentas especiais.[n]Talvez eles os vendam em Akihabara?[n][w][e]
 
 [msg MSG_REPAIR_NotePc_HaveIt [Morgana]]
-[s][bup 0 3 1 0 0][f 4 10 65535 0 0]Bem, reparar esse laptop parece uma tarefa[n]assustadora. Experimente quando você sentir[n]vontade![n][w][e]
+[s][bup 0 3 1 0 0][f 4 10 65535 0 0]Bem, consertar o laptop parece[n]não é tarefa fácil.[n]Você deve tentar se quiser![n][w][e]
 
 [msg MSG_NotePc_Tool_NoItem_N [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1164 65535 0]Você precisará de ferramentas especiais para[n]corrigir isso.[n]Eles podem vendê-los em algum lugar que você[n]pode encontrar eletrônicos em casa...[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1164 65535 0]Você precisará de ferramentas para repará-lo.[n]Eles podem vendê-los em uma loja de[n]eletrônicos...[n][w][e]
 
 [msg MSG_NotePc_Tool_NoItem_Y [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1164 65535 0]Você precisará de ferramentas especiais para[n]corrigir isso. Você provavelmente pode[n]obter o que precisa em Akihabara.[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1164 65535 0]Você precisará de ferramentas[n]para repará-lo. Eles poderiam[n]vender alguns em Akihabara.[n][w][e]
 
 [msg MSG_NotePc_Tool_HaveItem [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1174 65535 0]Fazer com que essa coisa funcione não será[n]fácil. Corrigir isso levará bastante tempo.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1174 65535 0]Fazer este acordo[n]funcionar não será fácil. E vai demorar muito.[n][w][e]
 
 [sel SEL_Repair_Q top]
-[s]Vamos tentar consertar isso.[e]
-[s]Talvez façamos isso mais tarde.[e]
+[s]Vamos tentar consertar.[e]
+[s]Talvez mais tarde.[e]
 
 [msg MSG_WorkDesk_NG_NotToolO [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1021 65535 0]... agora realmente não é a hora disso.[n]Não se preocupe, te ensinarei mais tarde.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1021 65535 0]Agora não é o melhor momento,[n]embora. Não se preocupe,[n]eu vou te ensinar outra hora.[n][w][e]
 
 [msg MSG_WorkDesk_NG_GoAfterD [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0]... Você deve estar bastante exausto agora,[n]no entanto. Não se preocupe, te ensinarei[n]mais tarde.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Você estará exausto agora.[n]Não se preocupe,[n]vou te ensinar outra hora.[n][w][e]
 
 [msg MSG_CHK_WORKBENCH_NG_DNG [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Você não está cansado? Vamos fazer isso em[n]outra hora.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Você não está cansado? Vamos fazê-lo[n]mais uma vez.[n][w][e]
 
 [msg MSG_ActNg_OnlySave [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1171 65535 0]Devemos descansar para amanhã.[n][w][e]
 
 [msg MSG_CHK_WORKBENCH_NG_SPO [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Ei, você não está exausto? Você[n]provavelmente deve descansar primeiro.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Ei, você não está assustado?[n]Você deveria descansar primeiro.[n][w][e]
 
 [msg MSG_DESK_NG_DEFAULT]
-[s]Existem todos esses livros empilhados na[n]mesa...[n][w][e]
+[s]Há todos esses livros empilhados na mesa...[n][w][e]
 
 [msg MSG_ActNg_0505 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1192 65535 0]Você está cheio, certo? Vamos lá, vamos[n]dormir um pouco.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1192 65535 0]Você está cheio, não está?[n]Vamos, vamos dormir.[n][w][e]
 

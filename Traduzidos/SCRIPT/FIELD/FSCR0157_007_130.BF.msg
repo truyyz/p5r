@@ -1,11 +1,11 @@
 [msg e380_121_mes01 [Makoto]]
-[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2128 65535 0]Não acredito que há uma instalação como essa[n]aqui... SIS deve realmente querer ganhar...[n][w][e]
+[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2128 65535 0]Absurdo que[n]existe um lugar assim aqui... Minha irmã[n]quer ganhar a qualquer custo...[n][w][e]
 
 [msg e380_121_mes02 [Futaba]]
-[s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos, devemos parar o aparelho.[n][w][e]
+[s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos, vamos bloquear a manipulação.[n][w][e]
 
 [msg e380_121_mes03 [Akechi]]
-[s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 8148 65535 0]Segure um momento, tenho uma ideia de que[n]gostaria de discutir.[n][w][e]
+[s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 8148 65535 0]Um momento. Há uma ideia[n]sobre a qual gostaria de falar.[n][w][e]
 
 [msg test_mes01 [Ryuji]]
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7020 65535 0]んだよ、話って。[n][w][e]
@@ -59,33 +59,33 @@
 [s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]...君は、Ü緒に来てくれ。[n][w][e]
 
 [msg D6_SAIKORO_TrickRoom_01 [Akechi]]
-[s]Então é aqui que eles estavam fraudando o[n]resultado do jogo de dados...[n][w][e]
+[s]Então foi aqui que eles[n]manipularam o resultado[n]do jogo de dados…[n][w][e]
 
 [msg D6_SAIKORO_TrickRoom_02 [Futaba]]
-[s]Onde está a diversão em ganhar 100% das[n]vezes?[n][w][e]
+[s]Que graça tem se você ganha[n]100% das vezes?[n][w][e]
 
 [msg D6_SAIKORO_TrickRoom_03 [Makoto]]
-[s]Não é divertido... ela só quer ganhar a[n]qualquer custo. Não importa o método...[n][w][e]
+[s]Não se trata de diversão...[n]Ele quer vencer, não importa o quê. Não[n]importa como…[n][w][e]
 
 [msg D6_SAIKORO_TrickRoom_04 [Ryuji]]
-[s]Bem, isso não é totalmente legal. O que quer[n]fazer, Joker?[n][w][e]
+[s]Bem, isso não é nada legal.[n]O que você quer fazer, Joker?[n][w][e]
 
 [msg D6_SAIKORO_TrickRoom_05 [Akechi]]
-[s]Na verdade, você poderia deixar isso para[n]mim?[n]Eu gostaria que todos vocês jogassem o jogo[n]mais uma vez.[n][w][e]
-[s]Enquanto isso, usarei isso para nos ajudar a[n]ganhar muito.[n][w][e]
+[s]Você poderia me deixar pensar sobre isso? Vocês[n]todos vão novamente e jogam um jogo.[n][w][e]
+[s]Enquanto isso, ajudarei você a vencer daqui.[n][w][e]
 
 [msg D6_SAIKORO_TrickRoom_06 [Ryuji]]
-[s]Droga, essa é uma ótima ideia![n]Vamos continuar![n][w][e]
+[s]Merda, que ótima ideia![n]Vamos lá, vamos fazer isso![n][w][e]
 
 [msg D6_SAIKORO_TrickRoom_07 [Akechi]]
-[s]Considerando o layout desta área, espero que[n]haja uma porta para a frente próxima. Eu[n]recomendo isso.[n][w][e]
+[s]Devido ao layout da área, deve haver uma porta[n]para a entrada[n]perto daqui. Vai ficar tudo bem.[n][w][e]
 
 [msg D6_SAIKORO_TrickRoom_Chi [Akechi]]
-[s]Além disso... você jogou fora todas as suas[n]moedas, não é?[n][w][e]
-[s]Para sua sorte, encontrei 500 aqui.[n]Podemos também adicioná-los ao seu cartão de[n]identificação.[n][w][e]
+[s]Além disso... você queimou todas as suas moedas,[n]não foi?[n][w][e]
+[s]Para sua sorte, tenho 500[n]bem aqui. Podemos adicioná-los[n]ao seu cartão.[n][w][e]
 
 [msg D6_SAIKORO_TrickRoom_Chi_2 [Akechi]]
-[s]Aqui vamos nós.[n][w][e]
-[s]Pode ser apenas 500 moedas, mas isso deve[n]ser suficiente. Você não perderá mais,[n]afinal.[n][w][e]
-[s]Bem, então, acredito que você está pronto[n]agora.[n][w][e]
+[s]Vamos.[n][w][e]
+[s]São apenas 500 moedas, mas[n]devem ser suficientes. Por outro[n]lado, você nunca mais perderá.[n][w][e]
+[s]Vamos, acho que[n]está tudo pronto.[n][w][e]
 

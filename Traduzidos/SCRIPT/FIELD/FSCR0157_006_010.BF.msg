@@ -1,52 +1,52 @@
 [msg f157_06_EV_YET_SAFE [Makoto]]
-[s]Por que não vamos para a sala segura[n]primeiro?[n][w][e]
+[s]Por que não vamos[n]para a sala segura primeiro?[n][w][e]
 
 [msg f157_06_EV_FIRST_CHECK_m [Yusuke]]
-[s]HM... parece que realmente somos incapazes[n]de subir.[n][w][e]
+[s]Hum... Aparentemente é verdade[n]que não podemos subir.[n][w][e]
 
 [msg f157_06_EV_FIRST_CHECK_m_2 [Akechi]]
-[s]Sim, é difícil acreditar que o atendente[n]estava mentindo.[n][w][e]
-[s][clr 2]50.000 moedas [clr 27]...[n][w][e]
+[s]Sim, difícil de acreditar que[n]aquela atendente estava mentindo.[n][w][e]
+[s][clr 2]50.000 moedas[clr 27]...[n][w][e]
 
 [msg f157_06_EV_FIRST_CHECK_m_3 [Futaba]]
-[s]Welp, vamos nos apressar e acabar com isso.[n][w][e]
+[s]OK, vamos nos apressar e[n]fechar isso rapidamente.[n][w][e]
 
 [msg D06_06_e380_300_mes01 [Ryuji]]
-[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Tudo bem! O andar superior está totalmente[n]mostrando agora![n][w][e]
+[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]OK! Agora podemos ver[n]todo o andar superior![n][w][e]
 
 [msg D06_06_e380_300_mes02 [Akechi]]
-[s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Parece que não era uma mentira.[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Bem, então, vamos continuar depois de[n]Sae-san.[n][w][e]
+[s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Aparentemente era a verdade.[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Bem, vamos continuar a[n]seguir Sae-san.[n][w][e]
 
 [msg f157_06_EV_YET_MISSION_C [Yusuke]]
-[s]Então, conseguimos reunir 50.000 moedas.[n][w][e]
-[s]Tudo o que resta agora é tê-la [clr 2]reconhecer [clr 27]nós.[n][w][e]
+[s]Então, conseguimos[n]acumular 50.000 moedas.[n][w][e]
+[s]Agora só temos que fazer[n][clr 2]nos reconhecer[clr 27] dela.[n][w][e]
 
 [msg f157_06_EV_YET_MISSION_C_2 [Akechi]]
-[s]Sim.[n][w][e]
-[s]Deveríamos ser capazes de passar por aqui se[n]nos mostrarmos no julgamento de Sae-san.[n][w][e]
-[s]Isto é, assumindo que minha dedução está[n]correta.[n][w][e]
+[s]Exatamente.[n][w][e]
+[s]Ao aparecer no julgamento de[n]Sae-san, devemos[n]fazer isso.[n][w][e]
+[s]Obviamente assumindo[n]que minha dedução está correta.[n][w][e]
 
 [msg f157_06_EV_YET_MISSION_C_3 [Ryuji]]
-[s]Bem, não vamos saber até tentarmos, sim?[n]Vamos![n][w][e]
+[s]Bem, se não tentarmos, nunca saberemos, certo?[n]Vamos![n][w][e]
 
 [msg f157_06_EV_YET_CHIP_CLEA [Haru]]
-[s]Parece que conseguimos que ela nos[n]reconheça! Nós fizemos isso, pessoal![n][w][e]
+[s]Aparentemente, conseguimos[n]ser reconhecidos![n]Fomos ótimos, pessoal![n][w][e]
 
 [msg f157_06_EV_YET_CHIP_CLEA_2 [Akechi]]
-[s]Ah, então meu insight estava correto. Tudo o[n]que precisamos fazer agora é colocar nossas[n]mãos  [clr 2]50.000 [clr 27]moedas...[n][w][e]
-[s]De acordo com esse atendente, teremos que[n]enfrentar o [n][clr 2]jogo de dados [clr 27]Para conquistá-los.[n][w][e]
+[s]Ah, meus palpites estavam certos.[n]Agora só precisamos colocar[n]as mãos em[n][clr 2]50.000[clr 27] moedas...[n][w][e]
+[s]Segundo a atendente,[n]para ganhá-los temos que participar[n]do [clr 2]jogo de dados[clr 27].[n][w][e]
 
 [msg f157_06_EV_YET_CHIP_CLEA_3 [Ryuji]]
-[s]Essa merda vai ser uma brisa! Vamos lá,[n]vamos fazer isso![n][w][e]
+[s]Vai ser fácil![n]Venha, vamos nos ocupar![n][w][e]
 
-[msg EV_SEL_MES_157_006_mes01 [Mechanical Voice]]
-[s]Selecione o piso desejado.[n][w][e]
+[msg EV_SEL_MES_157_006_mes01 [Voce meccanica]]
+[s]Selecione o plano desejado.[n][w][e]
 
 [sel EV_SEL_MES_157_006_selA top]
-[s]Vá para o piso limite alto [e]
-[s]Vá para o piso padrão [e]
-[s]Deixa para lá [e]
+[s]Plano de alto risco[e]
+[s]plano padrão[e]
+[s]Deixa para lá[e]
 
 [msg EV_SEL_MES_157_006_selA_ [Morgana]]
 [s][bup 0 3 0 65535 0]......[n][w][e]
