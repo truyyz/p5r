@@ -45,6 +45,6 @@
 [s][f 5 14]それでは。[n][w][e]
 
 [msg MSG_014_0_0 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 1174 65535 0]Estou aliviado ao ouvir Haru esquivar-se[n]dessa bala.[n][f 1 3 65535][w][e]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Tudo o que resta agora é o desligamento[n]mental...[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 1174 65535 0]Fico feliz em saber que Haru[n]não precisou se casar.[n][f 1 3 65535][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Agora tudo o que resta é a conversa[n]sobre as paradas mentais...[n][f 1 3 65535][w][e]
 
