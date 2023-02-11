@@ -1,57 +1,57 @@
 [msg MSG_000_0_0 [Mishima]]
-[s][f 5 14]Ei, uma garota acabou de me enviar uma[n]mensagem dizendo que você contou a ela[n]sobre mim?[n][w][e]
+[s][f 5 14]Ei, uma garota me mandou uma mensagem[n]dizendo que você contou a ela sobre mim?[n][w][e]
 
 [msg MSG_001_0_0 [Mishima]]
-[s][f 5 14]Ela disse que está interessada em mim![n]Isso é sobre o quê!?[n][w][e]
+[s][f 5 14]Ele diz que quer me conhecer![n]O que está acontecendo?[n][w][e]
 
 [msg MSG_002_0_0 [Mishima]]
-[s][f 5 14]E que tipo de garota é Ohya-san?[n]Ela é fofa ou é gostosa?[n][w][e]
+[s][f 5 14]E que tipo de garota é Ohya-san?[n]Ela é inocente ou é uma bomba?[n][w][e]
 
 [sel SEL_003_0_0 top]
-[s][f 5 14]Totalmente fofo.[e]
-[s]Definitivamente quente.[e]
-[s]Você vai ver.[e]
+[s][f 5 14]Inocente.[e]
+[s]Uma bomba sexy.[e]
+[s]Você verá.[e]
 
 [msg MSG_004_0_0 [Mishima]]
-[s][f 5 14]A sério!?[n][w][e]
+[s][f 5 14]Sério?!?[n][w][e]
 
 [msg MSG_005_0_0 [Mishima]]
-[s][f 5 14]Sério!? Você não está puxando minha[n]perna, certo?[n][w][e]
+[s][f 5 14]Sério? Você não está brincando comigo,[n]está?[n][w][e]
 
 [msg MSG_006_0_0 [Mishima]]
-[s][f 5 14]Não me provere! Vou perder o sono por[n]causa disso![n][w][e]
+[s][f 5 14]Não tire sarro de mim![n]Não vou dormir nele à noite![n][w][e]
 
 [msg MSG_007_0_0 [Mishima]]
 [s][f 5 14]Ohya-san...[n][w][e]
 
 [msg MSG_008_0_0 [Mishima]]
-[s][f 5 14]Ela disse que queria falar. Quanto mais a[n]adiante uma garota pode obter?[n][w][e]
+[s][f 5 14]Ele disse que quer conversar.[n]Não pode ser mais direto.[n][w][e]
 
 [msg MSG_009_0_0 [Mishima]]
-[s][f 5 14]É isso realmente o que eu acho que é?[n]Poderia ser?[n][w][e]
+[s][f 5 14]Isso está realmente acontecendo?[n]Não estou fazendo um filme?[n][w][e]
 
 [sel SEL_010_0_0 top]
-[s][f 5 14]Sim. Bom para você.[e]
+[s][f 5 14]Já. Bom para você.[e]
 [s]Você descobrirá.[e]
 
 [msg MSG_011_0_0 [Mishima]]
-[s][f 5 14]Parece que o meu tempo no centro das[n]atenções feminino finalmente chegou...[n][w][e]
+[s][f 5 14]Aparentemente meu tempo com as mulheres[n]chegou também...[n][w][e]
 
 [msg MSG_012_0_0 [Mishima]]
-[s][f 5 14]Cara, estou tão ansioso por isso![n][w][e]
+[s][f 5 14]Aaah, mal posso esperar![n][w][e]
 
 [msg MSG_013_0_0 [Mishima]]
-[s][f 5 14]Tudo isso é graças a você.[n][w][e]
+[s][f 5 14]Tudo graças a você.[n][w][e]
 
 [msg MSG_014_0_0 [Mishima]]
-[s][f 5 14]Eu sinto que começar o local do Phan[n]realmente me mudou.[n][w][e]
+[s][f 5 14]Configurar o Phan-Site[n]realmente me mudou.[n][w][e]
 
 [msg MSG_015_0_0 [Mishima]]
-[s][f 5 14]Enfim, eu posso lidar com isso.[n][w][e]
+[s][f 5 14]Sim eu posso fazer isso.[n][w][e]
 
 [msg MSG_016_0_0 [Mishima]]
-[s][f 5 14]Você me apresentou, então vou me[n]certificar de que não o envergonha.[n][w][e]
+[s][f 5 14]Eu não vou deixar você para baixo. Afinal, você[n]me apresentou![n][w][e]
 
 [msg MSG_017_0_0 [Mishima]]
-[s][f 5 14][f 5 15]E vou informar totalmente se acabarmos se[n]conectando![n][w][e]
+[s][f 5 14][f 5 15]E eu vou deixar você saber se acabarmos[n]namorando.[n][w][e]
 

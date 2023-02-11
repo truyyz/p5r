@@ -1,41 +1,41 @@
 [msg MSG_000_0_0 [Ryuji]]
-[s][f 5 14]Sem sorte este ano também...[n][w][e]
+[s][f 5 14]Esse ano também está ruim para mim...[n][w][e]
 
 [sel SEL_001_0_0 top]
-[s][f 5 14]Do que você está falando?[e]
-[s]Isso é ruim.[e]
-[s]Você quer dizer com chocolate?[e]
+[s][f 5 14]O que você está falando?[e]
+[s]Que pena.[e]
+[s]Você quer dizer chocolate?[e]
 
 [msg MSG_002_0_0 [Ryuji]]
-[s][f 5 14]Dia dos Namorados, duh![n][w][e]
+[s][f 5 14]Dia dos Namorados, uau![n][w][e]
 
 [msg MSG_003_0_0 [Ryuji]]
-[s][f 5 14]Sim. Eu não recebi nem um chocolate.[n][w][e]
+[s][f 5 14]Já. Não recebi nem um chocolate.[n][w][e]
 
 [msg MSG_004_0_0 [Ryuji]]
 [s][f 5 14]Não diga isso![n][w][e]
 
 [msg MSG_005_0_0 [Ryuji]]
-[s][f 5 14]Yusuke pelo menos tem sua aparência,[n]certo? Ele é realmente um ímã de garota.[n][w][e]
-[s][f 5 14][f 5 15]Droga, eu deveria ser um herói também...[n][w][e]
+[s][f 5 14]Pelo menos Yusuke é bonito, não é?[n]Na verdade, ele é uma espécie de[n]ímã para garotas.[n][w][e]
+[s][f 5 14][f 5 15]Cara, teoricamente eu deveria ser um[n]herói também...[n][w][e]
 
 [msg MSG_021_0_0 [Ryuji]]
-[s][f 5 14]E aí? Você está demorando muito para[n]responder. Algo aconteceu?[n][w][e]
+[s][f 5 14]O que acontece? Você está demorando muito[n]para responder. Aconteceu alguma coisa?[n][w][e]
 
 [sel SEL_022_0_0 top]
-[s][f 5 14]Estou comendo com a família esta noite.[e]
-[s]Alguém me perguntou em um encontro.[e]
+[s][f 5 14]Esta noite janto com a família.[e]
+[s]Eu vou a um encontro.[e]
 [s]Não é nada.[e]
 
 [msg MSG_023_0_0 [Ryuji]]
-[s][f 5 14]Ooh, isso realmente parece bom.[n][w][e]
+[s][f 5 14]Oooh, isso parece apenas uma coisa[n]fofa.[n][w][e]
 
 [msg MSG_024_0_0 [Ryuji]]
-[s][f 5 14]Cara, eu não estou me apaixonando por[n]essa merda! Isso é impossível![n][w][e]
+[s][f 5 14]Não, não estou caindo nessa![n]É impossível![n][w][e]
 
 [msg MSG_025_0_0 [Ryuji]]
-[s][f 5 14]Heh, eu estava pensando que alguém lhe[n]perguntou um encontro ou algo assim. Não[n]mexa comigo assim.[n][w][e]
+[s][f 5 14]Eh, eu pensei que alguém te convidou para[n]sair ou algo assim. Não me provoque[n]assim.[n][w][e]
 
 [msg MSG_026_0_0 [Ryuji]]
-[s][f 5 14][f 5 15]Vamos nos esforçar mais no próximo ano.[n][w][e]
+[s][f 5 14][f 5 15]Vamos tentar novamente no próximo ano.[n][w][e]
 

@@ -1,38 +1,38 @@
 [msg MSG_000_0_0 [Mishima]]
-[s][f 5 14]Fiquei realmente surpreso quando vi[n]aquele cartão de visita![n][w][e]
+[s][f 5 14]Fiquei realmente surpreso[n]ao ver aquela carta de aviso![n][w][e]
 
 [msg MSG_000_1_0 [Mishima]]
-[s][f 5 14]Eu gostaria que você tivesse pelo menos[n]me avisasse de antemão.[n][w][e]
+[s][f 5 14]Eu pensei que você pelo menos[n]me avisaria com antecedência.[n][w][e]
 
 [msg MSG_000_2_0 [Mishima]]
-[s][f 5 14]Bem, acho que você provavelmente não teve[n]tempo para isso.[n]Deve ter sido difícil, certo?[n][w][e]
+[s][f 5 14]Acho que você não[n]tem tempo.[n]Deve ter sido difícil...[n][w][e]
 
 [msg MSG_000_3_0 [Mishima]]
-[s][f 5 14]Ei, você tem algum tempo hoje?[n]Há algo que eu quero falar com você.[n][w][e]
+[s][f 5 14]Ei, você tem algum tempo hoje?[n]Há algo que eu gostaria[n]de contar a você.[n][w][e]
 
 [msg MSG_001_0_0 [Mishima]]
-[s][f 5 14]É realmente muito assustador...[n][w][e]
+[s][f 5 14]É uma coisa assustadora...[n][w][e]
 
 [msg MSG_002_0_0 [Mishima]]
-[s][f 5 14]De qualquer forma, estarei em Akihabara,[n]então me avise quando estiver aqui![n][w][e]
+[s][f 5 14]De qualquer forma, estarei em Akihabara.[n]Me avise se passar por aqui![n][w][e]
 
 [msg CHAT_NOREACTION_MSG [Mishima]]
-[s][f 5 14]Foi um momento ruim?[n]Vou convidá-lo outra vez.[n][w][e]
+[s][f 5 14]Esta é a hora errada?[n]Vou convidá-lo outra hora.[n][w][e]
 
 [msg CHAT_REACTION_MSG [Mishima]]
-[s][f 5 14]Obrigado! Eu estarei esperando aqui![n][w][e]
+[s][f 5 14]Obrigado! Eu esperarei aqui![n][w][e]
 
 [msg MSG_MORUGANA [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Bem, você vai aceitar o convite de[n]Mishima?[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Você vai aceitar[n]o convite de Mishima?[n][f 1 3 65535][w][e]
 
 [sel SEL_001 top]
-[s]Acesse imediatamente [e]
-[s]Verifique o vínculo com mishima [e]
-[s]Responda mais tarde [e]
+[s]Vá agora[e]
+[s]Verifique o link com Mishima[e]
+[s]Responder mais tarde[e]
 
 [sel SEL_002 top]
-[s][f 5 14]Vou ir agora.[e]
+[s][f 5 14]Eu irei imediatamente.[e]
 
 [msg MND_COOP_DOUZOKUSEI]
-[s]Eu deveria ser capaz de aprofundar nosso[n]vínculo, já que tenho [n][clr 1][var 5][clr 27][n]do [var 2]Arcana...[n][w][e]
+[s]Eu deveria ser capaz de fortalecer[n]nosso vínculo, já que tenho [clr 1][var 5][clr 27][n]do arcano [var 2]...[n][w][e]
 

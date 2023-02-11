@@ -1,154 +1,154 @@
 [msg MSG_000_0_0 [Ryuji]]
-[s][f 5 14]Parece que eles realmente vão trazer de[n]volta o time de pista... o treinador vai[n]ser yamauchi também...[n][w][e]
+[s][f 5 14]Aparentemente, eles realmente querem[n]reformar a equipe de atletismo...[n]E o treinador será Yamauchi...[n][w][e]
 
 [msg MSG_001_0_0 [Ryuji]]
-[s][f 5 14]Esse cara é basicamente júnior de[n]Kamoshida. Eu juro que ele está[n]planejando alguma coisa.[n][w][e]
+[s][f 5 14]Ele é basicamente um pouco Kamoshida.[n]Aposto que ele tem algo em mente.[n][w][e]
 
 [msg MSG_002_0_0 [Ryuji]]
-[s][f 5 14]Bem, acho que posso olhar para isso...[n][w][e]
+[s][f 5 14]Vou me certificar de[n]ficar de olho nisso ...[n][w][e]
 
 [msg MSG_003_0_0 [Ryuji]]
-[s][f 5 14]De qualquer forma, o que você pensa em[n]treinar hoje?[n][f 5 15][w][e]
+[s][f 5 14]De qualquer forma, que tal[n]nós treinarmos hoje?[n][f 5 15][w][e]
 
 [msg MSG_003_1_0 [Ryuji]]
-[s][f 5 14]De qualquer forma, o que você pensa em[n]treinar hoje?[n][w][e]
+[s][f 5 14]De qualquer forma, que tal treinarmos[n]hoje?[n][w][e]
 
 [msg MSG_004_0_0 [Ryuji]]
-[s][f 5 14]Eu sei que isso não é o melhor momento[n]para você, mas você precisa manter as[n]articulações em movimento.[n][f 5 15][w][e]
+[s][f 5 14]Eu sei que não é o melhor momento[n]para você, mas você ainda precisa[n]manter a forma.[n][f 5 15][w][e]
 
 [msg CHAT_REACTION_01 [Ryuji]]
-[s][f 5 14]Vamos ver, onde você quer praticar...?[n][w][e]
+[s][f 5 14]Vamos ver, onde[n]você quer treinar?[n][w][e]
 
 [msg CHAT_REACTION_02 [Ryuji]]
-[s][f 5 14]Eh, vamos descobrir![n][w][e]
+[s][f 5 14]Bem, vamos descobrir![n][w][e]
 
 [msg CHAT_REACTION_03 [Ryuji]]
-[s][f 5 14]De qualquer forma, vá mudar! Eu vou[n]correr para ver quem se prepara primeiro![n][f 5 15][w][e]
+[s][f 5 14]Vamos, mude! Vamos ver[n]quanto tempo leva![n][f 5 15][w][e]
 
 [msg CHAT_REACTION_04 [Ryuji]]
-[s][f 5 14]Tivemos o dia de folga, então seria muito[n]bom fazer isso na escola.[n][w][e]
+[s][f 5 14]Hoje somos livres, então podemos treinar[n]na escola.[n][w][e]
 
 [msg CHAT_REACTION_05 [Ryuji]]
-[s][f 5 14]Vamos esgueirar-se no portão dos fundos e[n]nos encontrar atrás da academia! Não se[n]esqueça de uma mudança de roupa![n][f 5 15][w][e]
+[s][f 5 14]Vamos entrar pelos fundos e nos encontrar[n]atrás do ginásio! Não esqueça o estepe![n][f 5 15][w][e]
 
 [sel SEL_001 top]
-[s]Vá praticar [e]
-[s]Verifique o vínculo com Ryuji [e]
-[s]Decidir depois [e]
+[s]Dar certo[e]
+[s]Verifique o vínculo com Ryuji[e]
+[s]Decidir depois[e]
 
 [sel SEL_002 top]
-[s][f 5 14]Vamos fazer isso.[e]
+[s][f 5 14]É claro.[e]
 
 [msg MSG_CORP_PLAY_CHECK1 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Então, o que você planeja fazer? Quer[n]sair com Ryuji?[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Então, o que você vai fazer?[n]Você quer passar um tempo com Ryuji?[n][f 1 3 65535][w][e]
 
 [msg MSG_CORP_PLAY_CHECK2 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Ninguém pensa que você está vivo neste[n]momento, então deve ficar bem, desde que[n]você seja cuidadoso.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Então, o que você planeja fazer? Quer[n]sair com Ryuji?[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Ninguém pensa que você está vivo.[n]Se você tomar cuidado,[n]tudo deve ficar bem.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Então, o que você vai fazer?[n]Você quer passar um tempo com Ryuji?[n][f 1 3 65535][w][e]
 
 [msg ERROR_MSG_000_0_0 [Sojiro]]
-[s][bup 0 103 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ei, estou prestes a abrir a loja.[n]Você pode adiar a mexer com seu telefone[n]por enquanto?[n][w][e]
+[s][bup 0 103 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ei, estou abrindo uma loja.[n]Você se importaria de parar[n]de jogar no seu telefone?[n][w][e]
 
 [msg ERROR_MSG_001_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]O chefe ficou bravo com você...[n]Talvez você deva responder mais tarde.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]O chefe ficou bravo com você... Talvez[n]você devesse responder mais tarde.[n][w][e]
 
 [msg MND_CHAT_INVITE_STOP]
-[s]Estou comendo agora. Talvez eu deva[n]responder mais tarde...[n][w][e]
+[s]estou comendo. Talvez eu deva[n]responder mais tarde...[n][w][e]
 
 [msg MND_COOP_RANK_UP_OK]
-[s]Eu me sinto como meu vínculo com [var 7][n]Vai ficar mais forte em breve...[n][w][e]
+[s]Sinto que em breve meu vínculo[n]com [var 7] se fortalecerá...[n][w][e]
 
 [msg MND_COOP_RANK_UP_ROCK]
-[s]Eu me sinto como meu vínculo com [var 7][n]Vai ficar mais forte em breve, mas...[n][w][e]
+[s]Sinto que em breve meu vínculo[n]com [var 7] se fortalecerá, mas...[n][w][e]
 
 [msg MND_COOP_RANKUP_2]
-[s]Esta pode ser uma boa oportunidade para[n]fortalecer meu vínculo com [n][var 7]...[n][w][e]
+[s]Pode ser uma boa oportunidade para[n]reforçar meu vínculo com [var 7]...[n][w][e]
 
 [msg MND_COOP_DOUZOKUSEI_HAVE]
-[s]Eu sinto que posso me aproximar [n][var 7]Graças ao [var 2][n]Persona [clr 1][var 5][clr 27]...[n][w][e]
+[s]Sinto que posso chegar mais perto de[n][var 7] graças a Persona[n][var 2] [clr 1][var 5][clr 27]...[n][w][e]
 
 [msg MSG_SPOT_OPEN_KANDA]
-[s]Agora você pode ir para [clr 2]Kanda [clr 27].[n][w][e]
+[s]Agora você pode ir para [clr 2]Kanda[n][clr 27].[n][w][e]
 
 [msg MSG_SPOT_OPEN_SHINJUKU]
-[s]Agora você pode ir para [clr 2]Shinjuku [clr 27].[n][w][e]
+[s]Agora você pode ir para [n][clr 2]Shinjuku[clr 27].[n][w][e]
 
 [msg MSG_SPOT_OPEN_AKIHABARA]
-[s]Agora você pode ir para [clr 2]Akihabara [clr 27].[n][w][e]
-[s]Você também pode convidar pessoas que[n]gostam lá para sair com você.[n][w][e]
+[s]Agora você pode ir para [n][clr 2]Akihabara[clr 27].[n][w][e]
+[s]Se você conhece alguém que[n]pode gostar do lugar,[n]tente convidá-lo aqui.[n][w][e]
 
 [msg MSG_SPOT_OPEN_INOKASHIRA]
-[s]Agora você tem informações sobre um novo[n]ponto de encontro: [n][clr 2]Parque Inokashira [clr 27].[n][w][e]
-[s]Você também pode convidar pessoas que[n]gostam lá para sair com você.[n][w][e]
+[s]Você descobriu um novo[n]local de encontro:[n][clr 2]Inokashira Park[clr 27].[n][w][e]
+[s]Se você conhece alguém que[n]pode gostar do lugar,[n]tente convidá-lo aqui.[n][w][e]
 
 [msg MSG_SPOT_OPEN_OGIKUBO]
-[s]Agora você tem informações sobre um novo[n]ponto de encontro: [n][clr 2]Ogikubo Ramen [clr 27].[n][w][e]
-[s]Você também pode convidar pessoas que[n]podem comer ramen para sair com você lá.[n][w][e]
+[s]Você descobriu um novo[n]local de encontro:[n][clr 2]Ogikubo Ramen[clr 27].[n][w][e]
+[s]Se você conhece alguém[n]que gosta de ramen,[n]tente convidá-lo aqui.[n][w][e]
 
 [msg MSG_SPOT_OPEN_ODAIBA]
-[s]Agora você tem informações sobre um novo[n]ponto de encontro: [n][clr 2]Parque Seasa de Odaiba [clr 27].[n][w][e]
-[s]Você também pode convidar pessoas que[n]podem gostar desses parques para sair[n]com você lá.[n][w][e]
+[s]Você descobriu um novo[n]ponto de encontro:[n][clr 2]Odaiba's Seaside Park[clr 27].[n][w][e]
+[s]Se você conhece alguém que[n]gosta de parques aquáticos,[n]tente convidá-lo aqui.[n][w][e]
 
 [msg MSG_SPOT_OPEN_UENO]
-[s]Agora você tem informações sobre um novo[n]ponto de encontro: [n][clr 2]Museu Ueno [clr 27].[n][w][e]
-[s]Você também pode convidar pessoas que[n]possam desfrutar de museus de arte para[n]sair com você lá.[n][w][e]
+[s]Você descobriu um novo[n]ponto de encontro:[n][clr 2]Museu Ueno[clr 27].[n][w][e]
+[s]Se você conhece alguém que[n]pode gostar de arte,[n]tente convidá-lo aqui.[n][w][e]
 
 [msg MSG_SPOT_OPEN_TSUKISHIMA]
-[s]Agora você tem informações sobre um novo[n]ponto de encontro: [n][clr 2]Tsukishima Monja [clr 27].[n][w][e]
-[s]Você também pode convidar pessoas que[n]podem comer Monjayaki para sair com você[n]lá.[n][w][e]
+[s]Você descobriu um novo[n]local de encontro:[n][clr 2]Tsukishima Monja[clr 27].[n][w][e]
+[s]Se você conhece alguém que[n]gosta de comer monjayaki,[n]tente convidá-lo aqui.[n][w][e]
 
 [msg MSG_SPOT_OPEN_HARAJUKU]
-[s]Agora você tem informações sobre um novo[n]ponto de encontro: [n][clr 2]Harajuku Takenoko Street [clr 27].[n][w][e]
-[s]Você também pode convidar pessoas que[n]possam desfrutar da Takeko Street para[n]sair com você lá.[n][w][e]
+[s]Você descobriu um novo[n]local de encontro:[n][clr 2]Harajuku Takenoko[clr 27].[n][w][e]
+[s]Se você conhece alguém que gosta da Rua[n]Takenoko, tente[n]convidá-lo aqui.[n][w][e]
 
 [msg MSG_SPOT_OPEN_TYUKAGAI]
-[s]Agora você tem informações sobre um novo[n]ponto de encontro: [n][clr 2]Motomachi Chinatown [clr 27].[n][w][e]
-[s]Você também pode convidar pessoas que[n]gostam lá para sair com você.[n][w][e]
+[s]Você descobriu um novo[n]ponto de encontro:[n][clr 2]Chinatown de Motomachi[clr 27].[n][w][e]
+[s]Se você conhece alguém que[n]pode gostar do lugar,[n]tente convidá-lo aqui.[n][w][e]
 
 [msg MSG_SPOT_OPEN_MAIHAMA]
-[s]Agora você tem informações sobre um novo[n]ponto de encontro: [n][clr 2]Maihama Destinyland [clr 27].[n][w][e]
-[s]Você também pode convidar pessoas que[n]gostam lá para sair com você.[n][w][e]
+[s]Você descobriu um novo[n]local de encontro:[n][clr 2]Maihama's Destinyland[clr 27].[n][w][e]
+[s]Se você conhece alguém que[n]pode gostar do lugar,[n]tente convidá-lo aqui.[n][w][e]
 
 [msg MSG_SPOT_OPEN_ASAKUSA]
-[s]Agora você tem informações sobre um novo[n]ponto de encontro: [n][clr 2]Asakusa [clr 27].[n][w][e]
-[s]Você também pode convidar pessoas que[n]possam apreciar a rua Skytree ou[n]Nakamise para sair com você lá.[n][w][e]
+[s]Você descobriu um novo[n]local de encontro:[n][clr 2]Asakusa[clr 27].[n][w][e]
+[s]Se você conhece alguém que gosta de[n]Skytree ou Nakamise Street, tente[n]convidá-los aqui.[n][w][e]
 
 [msg MSG_SPOT_OPEN_IKEBUKURO]
-[s]Agora você tem informações sobre um novo[n]ponto de encontro: [n][clr 2]Ikebukuro Planetarium [clr 27].[n][w][e]
-[s]Você também pode convidar pessoas que[n]gostam lá para sair com você.[n][w][e]
+[s]Você descobriu um novo[n]local de encontro:[n][clr 2]Ikebukuro Planetarium[clr 27].[n][w][e]
+[s]Se você conhece alguém que[n]pode gostar do lugar,[n]tente convidá-lo aqui.[n][w][e]
 
 [msg MSG_SPOT_OPEN_MEIJIJINGU]
-[s]Agora você tem informações sobre um novo[n]ponto de encontro: [n][clr 2]Santuário Meiji [clr 27].[n][w][e]
-[s]Você também pode convidar pessoas que[n]gostam lá para sair com você.[n][w][e]
-[s]Além disso, você pode ir sozinho para[n]prestar homenagem ao santuário, se[n]desejar.[n][w][e]
+[s]Você descobriu um novo[n]local de encontro:[n][clr 2]Santuário Meiji[clr 27].[n][w][e]
+[s]Se você conhece alguém que[n]pode gostar do lugar,[n]tente convidá-lo aqui.[n][w][e]
+[s]Se você quiser, também pode[n]ir lá sozinho para[n]orar no santuário.[n][w][e]
 
 [msg MSG_SPOT_OPEN_SUIDOUBASH]
-[s]Agora você tem informações sobre um novo[n]ponto de encontro: [n][clr 2]Cidade de Suidobashi Dome [clr 27].[n][w][e]
-[s]Você também pode convidar pessoas que[n]gostam lá para sair com você.[n][w][e]
+[s]Você descobriu um novo[n]local de encontro:[n][clr 2]Dome Town of Suidobashi[clr 27].[n][w][e]
+[s]Se você conhece alguém que[n]pode gostar do lugar,[n]tente convidá-lo aqui.[n][w][e]
 
 [msg MSG_SPOT_OPEN_SHIBUYA]
-[s]Agora você tem informações sobre um novo[n]ponto de encontro: [n][clr 2]Shibuya Wilton Hotel [clr 27].[n][w][e]
-[s]Você também pode convidar pessoas que[n]gostam lá para sair com você.[n][w][e]
+[s]Você descobriu um novo[n]local de encontro:[n][clr 2]Wilton Hotel em Shibuya[clr 27].[n][w][e]
+[s]Se você conhece alguém que[n]pode gostar do lugar,[n]tente convidá-lo aqui.[n][w][e]
 
 [msg MSG_SPOT_OPEN_GINZA]
-[s]Agora você tem informações sobre um novo[n]ponto de encontro: [n][clr 2]Barra de sushi de ginza [clr 27].[n][w][e]
-[s]Você também pode convidar pessoas que[n]podem comer sushi caro para sair com[n]você lá.[n][w][e]
+[s]Você descobriu um novo[n]ponto de encontro:[n][clr 2]Sushi Bar em Ginza[clr 27].[n][w][e]
+[s]Se você conhece alguém que gosta de[n]comer sushi caro,[n]tente convidá-lo aqui.[n][w][e]
 
 [msg MSG_SPOT_OPEN_JINBOCHO]
-[s]Agora você tem informações sobre um novo[n]ponto de encontro: [n][clr 2]Cidade do Livro JinboCho [clr 27].[n][w][e]
-[s]Você também pode convidar pessoas que[n]gostam lá para sair com você.[n][w][e]
-[s]Além disso, você pode ir sozinho para[n]fazer compras, se desejar.[n][w][e]
+[s]Você descobriu um novo[n]local de encontro:[n][clr 2]Jinbocho's Book Town[clr 27].[n][w][e]
+[s]Se você conhece alguém que[n]pode gostar do lugar,[n]tente convidá-lo aqui.[n][w][e]
+[s]Se você quiser, também pode[n]ir lá sozinho para fazer[n]algumas compras.[n][w][e]
 
 [msg MSG_SPOT_OPEN_ICHIGAYA]
-[s]Agora você tem informações sobre um novo[n]ponto de encontro: [n][clr 2]Ichigaya Pisca de pesca [clr 27].[n][w][e]
-[s]Você também pode convidar pessoas que[n]podem gostar de pescar para sair com[n]você lá.[n][w][e]
-[s]Além disso, você pode ir sozinho e tentar[n]pescar, se assim escolher.[n][w][e]
+[s]Você descobriu um novo[n]local de encontro:[n][clr 2]Lago Ichigaya[clr 27].[n][w][e]
+[s]Se você conhece alguém que[n]gosta de pescar, tente[n]convidá-lo aqui.[n][w][e]
+[s]Além disso, se você quiser, pode ir lá[n]sozinho e experimentar alguns peixes.[n][w][e]
 
 [msg MSG_SPOT_OPEN_SHINAGAWA]
-[s]Agora você tem informações sobre um novo[n]ponto de encontro: [n][clr 2]Aquário Shinagawa [clr 27].[n][w][e]
-[s]Você também pode convidar pessoas que[n]possam desfrutar do aquário para sair[n]com você lá.[n][w][e]
+[s]Você descobriu um novo[n]local de encontro:[n][clr 2]Shinagawa Aquarium[clr 27].[n][w][e]
+[s]Se você conhece alguém[n]que pode gostar do aquário,[n]tente convidá-lo aqui.[n][w][e]
 
 [msg MSG_SPOT_OPEN_NAKANO]
-[s]Agora você tem informações sobre um novo[n]ponto de encontro: [n][clr 2]Distrito de construção de comércio de[n]Nakano  [clr 27].[n][w][e]
-[s]Você também pode convidar pessoas que[n]possam desfrutar desse local para sair[n]com você lá.[n][w][e]
+[s]Você descobriu um novo[n]ponto de encontro:[n][clr 2]Área do Complexo Comercial, Nakano[clr 27].[n][w][e]
+[s]Se você conhece alguém[n]que pode gostar do lugar,[n]tente convidá-lo aqui.[n][w][e]
 

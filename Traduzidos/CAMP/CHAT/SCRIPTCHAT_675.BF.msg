@@ -1,35 +1,35 @@
 [msg MSG_000_0_0 [Makoto]]
-[s][f 5 14]Eiko disse que me deixou conhecer o[n]anfitrião que está namorando...[n][w][e]
+[s][f 5 14]Eiko disse que vai me encontrar com o[n]anfitrião que ela está namorando...[n][w][e]
 
 [msg MSG_001_0_0 [Makoto]]
-[s][f 5 14]É um pouco ruim perguntar isso, mas você[n]se importaria de vir comigo?[n][w][e]
+[s][f 5 14]Eu sei que soa um pouco[n]estranho, mas você não poderia[n]acompanhar-me?[n][w][e]
 
 [msg MSG_002_0_0 [Makoto]]
-[s][f 5 14]Será reconfortante tê-lo lá.[n][w][e]
+[s][f 5 14]Seria muito[n]bom ter você por perto.[n][w][e]
 
 [msg MSG_003_0_0 [Makoto]]
-[s][f 5 14]Se você tiver tempo, estou pensando em[n]conhecê-los hoje.[n][w][e]
+[s][f 5 14]Se você tiver tempo, eu estava pensando em[n]conhecê-los hoje.[n][w][e]
 
 [msg MSG_004_0_0 [Makoto]]
-[s][f 5 14]Estarei esperando em frente à entrada da[n]escola.[n][w][e]
+[s][f 5 14]Eu vou esperar por você na frente[n]na entrada da escola.[n][w][e]
 
 [msg CHAT_NOREACTION_MSG [Makoto]]
-[s][f 5 14]Eu te peguei em um momento ruim?[n]Eu esperei o dia todo também... bem, vou[n]convidá-lo novamente mais tarde.[n][w][e]
+[s][f 5 14]Este é um horário inconveniente? Eu[n]estive esperando o dia todo... Bem, eu[n]te convido mais tarde, então.[n][w][e]
 
 [msg CHAT_REACTION_MSG [Makoto]]
-[s][f 5 14]Então vamos nos encontrar imediatamente.[n][w][e]
+[s][f 5 14]Então, vamos nos encontrar imediatamente.[n][w][e]
 
 [msg MSG_MORUGANA [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]O que você vai fazer?[n][f 1 3 65535][w][e]
 
 [sel SEL_001 top]
-[s]Acesse imediatamente [e]
-[s]Verifique o vínculo com makoto [e]
-[s]Responda mais tarde [e]
+[s]Vá agora[e]
+[s]Verifique o vínculo com Makoto[e]
+[s]Responder mais tarde[e]
 
 [sel SEL_002 top]
-[s][f 5 14]Estou pronto para isso.[e]
+[s][f 5 14]Tudo bem, estou dentro.[e]
 
 [msg MND_COOP_DOUZOKUSEI]
-[s]Eu deveria ser capaz de aprofundar nosso[n]vínculo, já que tenho [n][clr 1][var 5][clr 27][n]do [var 2]Arcana...[n][w][e]
+[s]Eu deveria ser capaz de fortalecer[n]nosso vínculo, já que tenho [clr 1][var 5][clr 27][n]do arcano [var 2]...[n][w][e]
 

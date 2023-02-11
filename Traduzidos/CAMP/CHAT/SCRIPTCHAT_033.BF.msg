@@ -1,49 +1,49 @@
 [msg MSG_000_0_0 [Haru]]
-[s][f 5 14]Por favor, desculpe-me por enviar[n]mensagens a você tão tarde da noite.[n][w][e]
+[s][f 5 14]Perdoe-me se escrevo para você[n]tarde da noite.[n][w][e]
 
 [msg MSG_001_0_0 [Haru]]
-[s][f 5 14]Eu realmente peço desculpas pelo que[n]aconteceu neste caso.[n][w][e]
+[s][f 5 14]Lamento profundamente[n]o que aconteceu.[n][w][e]
 
 [msg MSG_002_0_0 [Futaba]]
-[s][f 5 14]Tão formal![n][w][e]
+[s][f 5 14]Que formalidade![n][w][e]
 
 [msg MSG_003_0_0 [Yusuke]]
-[s][f 5 14]Ela parece ser uma pessoa particularmente[n]consciente.[n][w][e]
+[s][f 5 14]Ele deve ser uma pessoa[n]muito rígida.[n][w][e]
 
 [msg MSG_004_0_0 [Ann]]
-[s][f 5 14]Parece que essa formalidade está[n]colocando alguma distância entre nós.[n][w][e]
+[s][f 5 14]Formalidades como essa, no entanto,[n]colocam alguma distância[n]entre nós.[n][w][e]
 
 [sel SEL_005_0_0 top]
-[s][f 5 14]Somos companheiros de equipe, Haru.[e]
-[s]Não seja tão rígido.[e]
+[s][f 5 14]Somos camaradas, Haru.[e]
+[s]Vá com calma.[e]
 
 [msg MSG_006_0_0 [Haru]]
-[s][f 5 14]Mas eu sou o mais novo membro.[n]Eu preciso agir respeitosamente.[n][w][e]
+[s][f 5 14]Eu sou o último a chegar. Eu devo[n]agir de acordo.[n][w][e]
 
 [msg MSG_007_0_0 [Makoto]]
-[s][f 5 14]Nós realmente não temos mente para esse[n]tipo de coisa.[n][w][e]
+[s][f 5 14]Essas não são coisas que nos interessam[n]muito.[n][w][e]
 
 [msg MSG_008_0_0 [Makoto]]
-[s][f 5 14]Além disso, você já é um de nós.[n][w][e]
+[s][f 5 14]Além disso, você já é[n]um de nós.[n][w][e]
 
 [msg MSG_009_0_0 [Haru]]
-[s][f 5 14]Obrigado, mako-chan.[n][w][e]
+[s][f 5 14]Obrigado Mako-chan.[n][w][e]
 
 [msg MSG_010_0_0 [Makoto]]
-[s][f 5 14]... você quer dizer-me?[n][w][e]
+[s][f 5 14]...Como, desculpe?[n][w][e]
 
 [msg MSG_011_0_0 [Haru]]
-[s][f 5 14]Desculpe, acho que meus dedos digitaram[n]isso subconscientemente...[n][w][e]
+[s][f 5 14]Desculpe, acho que[n]escrevi inconscientemente...[n][w][e]
 
 [msg MSG_012_0_0 [Haru]]
-[s][f 5 14]Estou tão feliz por ter encontrado um[n]amigo da minha idade.[n][w][e]
+[s][f 5 14]Estou feliz por ter um amigo da minha[n]idade.[n][w][e]
 
 [msg MSG_013_0_0 [Makoto]]
-[s][f 5 14]Não é um problema. Esse toque pessoal é[n]realmente refrescante.[n][w][e]
+[s][f 5 14]Não se preocupe, é bom ver você[n]ganhando confiança.[n][w][e]
 
 [msg MSG_014_0_0 [Ryuji]]
-[s][f 5 14]Excelente. Espero que sejamos os melhores[n]amigos, Mako-chan.[n][w][e]
+[s][f 5 14]Excelente! Nós nos tornaremos bons amigos,[n]Mako-chan.[n][w][e]
 
 [msg MSG_015_0_0 [Ryuji]]
-[s][f 5 14][f 5 15]Uh, desculpe, sobre isso. Eu meio que me[n]empolguei...[n][w][e]
+[s][f 5 14][f 5 15]Desculpe. Eu[n]me empolguei...[n][w][e]
 

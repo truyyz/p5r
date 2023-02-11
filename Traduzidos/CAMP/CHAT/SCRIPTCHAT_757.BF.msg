@@ -1,63 +1,63 @@
 [msg MSG_000_0_0 [Futaba]]
-[s][f 5 14]Você tem amanhã de folga, certo? Eu vou[n]estar em espera no esconderijo.[n][w][e]
+[s][f 5 14]Você está de férias amanhã, certo? Vou esperar[n]na reunião.[n][w][e]
 
 [msg MSG_001_0_0 [Futaba]]
-[s][f 5 14]Tããão...[n][w][e]
+[s][f 5 14]Entãoiii...?[n][w][e]
 
 [msg MSG_002_0_0 [Futaba]]
-[s][f 5 14]Temos que jogar jogos![n][w][e]
+[s][f 5 14]Devemos jogar juntos![n][w][e]
 
 [msg MSG_003_0_0 [Futaba]]
-[s][f 5 14]Vou trazer um incrível amanhã.[n][w][e]
+[s][f 5 14]Vou trazer-lhe um grande amanhã.[n][w][e]
 
 [msg MSG_004_0_0 [Futaba]]
-[s][f 5 14]Vou mostrar as cordas, para que você[n]possa usá-lo para deixar seu estresse![n][w][e]
+[s][f 5 14]Vou mostrar a você como jogar,[n]para que você possa jogar[n]para relaxar![n][w][e]
 
 [msg MSG_004_1_0 [Futaba]]
-[s][f 5 14]Ah, mas se você estiver ocupado, faça[n]isso primeiro e eu vou esperar![n][f 5 15][w][e]
+[s][f 5 14]Ah, mas se você estiver ocupado[n]eu posso esperar![n][f 5 15][w][e]
 
 [msg MSG_004_2_0 [Futaba]]
-[s][f 5 14]Ah, mas se você estiver ocupado, faça[n]isso primeiro e eu vou esperar![n][w][e]
+[s][f 5 14]Ah, mas se você estiver ocupado[n]eu posso esperar![n][w][e]
 
 [sel SEL_005_0_0 top]
 [s][f 5 14]Eu não tenho um console.[e]
-[s]Eu sou muito pobre para isso.[e]
-[s]Eu não tenho uma TV.[e]
+[s]Eu não tenho dinheiro suficiente.[e]
+[s]Eu não tenho uma televisão.[e]
 
 [sel SEL_005_0_0_nonTV top]
-[s][f 5 14]Eu sou muito pobre para isso.[e]
-[s]Eu não tenho uma TV.[e]
+[s][f 5 14]Eu não tenho dinheiro suficiente.[e]
+[s]Eu não tenho uma televisão.[e]
 
 [sel SEL_005_0_0_nonGame top]
 [s][f 5 14]Eu não tenho um console.[e]
-[s]Eu sou muito pobre para isso.[e]
+[s]Eu não tenho dinheiro suficiente.[e]
 
 [msg MSG_006_0_0 [Futaba]]
 [s][f 5 14]Estou sem palavras.[n][w][e]
 
 [msg MSG_007_0_0 [Futaba]]
-[s][f 5 14]E você se chama de homem moderno?[n][w][e]
+[s][f 5 14]E você seria um homem[n]moderno?[n][w][e]
 
 [msg MSG_008_0_0 [Futaba]]
-[s][f 5 14]Hora de fazer como uma árvore![n][f 5 15][w][e]
+[s][f 5 14]Tudo bem, estou saindo![n][f 5 15][w][e]
 
 [msg MSG_MORGANA_GAME [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1192 65535 0]As pessoas tendem a se reunir em seu[n]lugar, então você pode querer pelo menos[n]investir em um console de jogo...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Talvez a loja de segunda mão na rua tenha[n]uma. Você deve verificar lá quando tiver[n]tempo.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1192 65535 0]Já que seus amigos[n]estão sempre aqui, seria bom ter um[n]console de jogo...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Talvez o brechó[n]na rua tenha um.[n]Você pode querer parar e verificar.[n][f 1 3 65535][w][e]
 
 [msg MSG_MORGANA_TV_NotSet [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Espero que a TV que você pediu chegue[n]aqui em breve...[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Espero que a TV que você encomendou[n]chegue logo...[n][f 1 3 65535][w][e]
 
 [msg MSG_MORGANA_NoHaveTV [Morgana]]
-[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 0 1170 65535 0]Uma TV, hein... pena que não podemos usar[n]o do primeiro andar.[n][f 1 3 65535][w][e]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Olhe para todo esse lixo, no entanto...[n]talvez você encontre uma TV aqui se você[n]se limpasse um pouco.[n][f 1 3 65535][w][e]
+[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 0 1170 65535 0]Uma televisão, né? É uma pena que você[n]não possa usar o andar térreo.[n][f 1 3 65535][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Quantas porcarias... Quem sabe,[n]talvez limpando[n]você encontre uma TV.[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Futaba]]
-[s][f 5 14]É um jogo retrô chamado "Intuição de[n]Power". Espero por isso.[n][w][e]
+[s][f 5 14]É um jogo antigo chamado[n]"Power Intuition".[n]É super legal.[n][w][e]
 
 [msg MSG_010_0_0 [Futaba]]
-[s][f 5 14]Hora de fazer como uma árvore![n][f 5 15][w][e]
+[s][f 5 14]Tudo bem, estou saindo![n][f 5 15][w][e]
 
 [msg MSG_999_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1020 65535 0]Devemos dormir um pouco se Futaba estiver[n]aqui durante o dia amanhã.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1020 65535 0]Devemos descansar um pouco[n]se Futaba estará aqui o dia todo[n]amanhã.[n][f 1 3 65535][w][e]
 

@@ -1,42 +1,42 @@
 [msg MSG_000_0_0 [Futaba]]
-[s][f 5 14]Estamos com apenas um dia restante do ano.[n][w][e]
-[s][f 5 14]Eu sei que é repentino, mas vamos dar uma[n]festa de final de ano amanhã.[n][w][e]
+[s][f 5 14]Falta apenas um dia para o final do[n]ano.[n][w][e]
+[s][f 5 14]Eu sei que é do nada, mas amanhã[n]teremos uma festa de fim de ano.[n][w][e]
 
 [msg MSG_001_0_0 [Ryuji]]
-[s][f 5 14]Arrebentar![n][w][e]
+[s][f 5 14]Parece legal![n][w][e]
 
 [msg MSG_002_0_0 [Haru]]
-[s][f 5 14]Você está organizando isso, Futabahan?[n]Obrigado por nos informar.[n][w][e]
+[s][f 5 14]Você organiza, Futaba-chan?[n]Obrigado por nos avisar.[n][w][e]
 
 [msg MSG_003_0_0 [Futaba]]
-[s][f 5 14]Sojiro está fazendo macarrão de Ano Novo[n]Soba para nós.[n][w][e]
+[s][f 5 14]Sojiro vai fazer macarrão[n]soba de Réveillon para nós.[n][w][e]
 
 [msg MSG_004_0_0 [Yusuke]]
-[s][f 5 14]Nesse caso, ficaria tudo bem se nos[n]encontrássemos à noite?[n][w][e]
+[s][f 5 14]Se sim, tudo bem se[n]nos encontrarmos à noite?[n][w][e]
 
 [msg MSG_005_0_0 [Makoto]]
 [s][f 5 14]Posso convidar minha irmã?[n][w][e]
 
 [msg MSG_006_0_0 [Futaba]]
-[s][f 5 14]Vá em frente. Todo o local é reservado de[n]qualquer maneira.[n][w][e]
+[s][f 5 14]É claro. No entanto, todo o local[n]está reservado.[n][w][e]
 
 [msg MSG_007_0_0 [Ryuji]]
-[s][f 5 14]Então devemos chamar Yoshizawa também?[n][w][e]
-[s][f 5 14]Morgana e Futaba já o cobriram, mas...[n][w][e]
-[s][f 5 14]Ela realmente o ajudou naquele palácio[n]antes.[n][w][e]
-[s][f 5 14]E é a véspera de Ano Novo, então não é[n]como se ela estivesse ocupada no treino.[n][w][e]
+[s][f 5 14]Então, devemos convidar[n]yoshizawa também?[n][w][e]
+[s][f 5 14]Morgana e[n]Futaba já pensaram nisso, mas...[n][w][e]
+[s][f 5 14]Ela foi muito prestativa naquele[n]Palácio.[n][w][e]
+[s][f 5 14]E então é véspera de ano novo,[n]ele não terá treinamento.[n][w][e]
 
 [msg MSG_008_0_0 [Haru]]
 [s][f 5 14]Concordo![n][w][e]
 
 [msg MSG_010_0_0 [Futaba]]
-[s][f 5 14]Então, [f 4 2], você é oficialmente nosso coordenador[n]de eventos.[n][w][e]
-[s][f 5 14]É seu trabalho entrar em contato com ela.[n][w][e]
+[s][f 5 14]Então, [f 4 2], você é[n]oficialmente nosso[n]Coordenador de Eventos.[n][w][e]
+[s][f 5 14]Cabe a você entrar em contato com[n]ela.[n][w][e]
 
 [sel SEL_011_0_0 top]
-[s][f 5 14]Nele.[e]
-[s]Ela ficará emocionada.[e]
+[s][f 5 14]Tudo bem.[e]
+[s]Ele ficará emocionado.[e]
 
 [msg MSG_012_0_0 [Ann]]
-[s][f 5 14][f 5 15]Tudo bem, até amanhã![n][w][e]
+[s][f 5 14][f 5 15]OK vejo você amanhã![n][w][e]
 

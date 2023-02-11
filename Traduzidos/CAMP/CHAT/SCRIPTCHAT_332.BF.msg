@@ -1,51 +1,51 @@
 [msg MSG_000_0_0 [Haru]]
-[s][f 5 14]Desculpe enviar uma mensagem tão cedo de[n]manhã.[n][w][e]
+[s][f 5 14]Desculpe-me por escrever tão cedo de[n]manhã.[n][w][e]
 
 [msg MSG_001_0_0 [Haru]]
-[s][f 5 14]Eu era capaz de falar com meu pai, então[n]eu queria pelo menos informá-lo sobre[n]isso.[n][w][e]
+[s][f 5 14]Consegui falar com[n]meu pai e queria que você soubesse[n]como foi.[n][w][e]
 
 [msg MSG_002_0_0 [Haru]]
-[s][f 5 14]Ele honestamente parecia uma pessoa[n]mudada.[n][w][e]
+[s][f 5 14]Honestamente, ele parecia uma pessoa[n]diferente.[n][w][e]
 
 [msg MSG_003_0_0 [Haru]]
-[s][f 5 14]Ele prometeu eliminar o plano de noivado.[n][w][e]
+[s][f 5 14]Ele prometeu abandonar os planos de[n]casamento.[n][w][e]
 
 [sel SEL_004_0_0 top]
-[s][f 5 14]Fico feliz em ouvir isso.[e]
-[s]Algo mais?[e]
+[s][f 5 14]Estou satisfeito.[e]
+[s]Tem mais?[e]
 
 [msg MSG_005_0_0 [Haru]]
-[s][f 5 14]Oh, certo. E os desligamentos mentais...[n][w][e]
+[s][f 5 14]Oh, certo. Sobre[n]prisões mentais…[n][w][e]
 
 [msg MSG_006_0_0 [Haru]]
-[s][f 5 14]Ele disse que ainda não pode falar sobre[n]eles.[n][w][e]
+[s][f 5 14]Por enquanto ele não é capaz de falar[n]sobre isso.[n][w][e]
 
 [sel SEL_007_0_0 top]
 [s][f 5 14]Eu vejo.[e]
 [s]Por que não?[e]
 
 [msg MSG_008_0_0 [Haru]]
-[s][f 5 14]Ele mencionou que falará sobre isso[n]durante a conferência de imprensa hoje.[n][w][e]
+[s][f 5 14]Ele disse que vai falar sobre isso[n]durante hoje[n]conferência de imprensa.[n][w][e]
 
 [msg MSG_009_0_0 [Haru]]
-[s][f 5 14]Ele parecia ser especialmente pensativo...[n][w][e]
+[s][f 5 14]Ele parecia particularmente[n]pensativo...[n][w][e]
 
 [sel SEL_010_0_0 top]
-[s][f 5 14]Provavelmente é apenas choque.[e]
-[s]Algo está errado?[e]
+[s][f 5 14]Talvez seja apenas o choque.[e]
+[s]Algo errado?[e]
 
 [msg MSG_011_0_0 [Haru]]
-[s][f 5 14]Eu espero que você esteja certo...[n][w][e]
+[s][f 5 14]Espero que você esteja certo...[n][w][e]
 
 [msg MSG_012_0_0 [Haru]]
-[s][f 5 14]Não tenho certeza. Ele parecia um pouco[n]fora...[n][w][e]
+[s][f 5 14]Não tenho certeza. Ele parecia[n]um pouco chateado...[n][w][e]
 
 [msg MSG_013_0_0 [Haru]]
-[s][f 5 14]Ele se trancou em seu quarto por[n]enquanto. Eu acho que ele tem medo de[n]alguma coisa.[n][w][e]
+[s][f 5 14]No momento ele está trancado em seu[n]quarto. Acho que ele tem medo de alguma[n]coisa.[n][w][e]
 
 [msg MSG_014_0_0 [Haru]]
-[s][f 5 14]Pedi que ele fosse vigiado por enquanto.[n][w][e]
+[s][f 5 14]Por enquanto, pedi que ele ficasse de[n]olho.[n][w][e]
 
 [msg MSG_015_0_0 [Haru]]
-[s][f 5 14][f 5 15]Vou vir quando as coisas se acalmarem.[n][w][e]
+[s][f 5 14][f 5 15]Eu irei assim que a situação[n]se acalmar.[n][w][e]
 

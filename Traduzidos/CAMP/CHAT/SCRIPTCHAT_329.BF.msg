@@ -1,114 +1,114 @@
 [msg MSG_000_0_0 [Ann]]
-[s][f 5 14]Encontrei outro pedido online que foi[n]resolvido...[n][w][e]
+[s][f 5 14]Encontrei outro pedido[n]que foi atendido...[n][w][e]
 
 [msg MSG_001_0_0 [Makoto]]
-[s][f 5 14]Eu estava me perguntando sobre isso.[n][w][e]
+[s][f 5 14]Eu estava pensando sobre isso.[n][w][e]
 
 [msg MSG_001_5_0 [Makoto]]
-[s][f 5 14]O problema parece ter sido realmente[n]corrigido. Não pode ser falso.[n][w][e]
+[s][f 5 14]Parece que o problema foi realmente[n]corrigido. Ele não pode ser um[n]mitomaníaco.[n][w][e]
 
 [msg MSG_002_0_0 [Yusuke]]
-[s][f 5 14]Isso significa que há alguém indo para[n]lembranças.[n][w][e]
+[s][f 5 14]Isso significa que outra pessoa[n]está visitando os Mementos.[n][w][e]
 
 [msg MSG_003_0_0 [Ryuji]]
-[s][f 5 14]Isso me faz pensar quando estávamos[n]começando como os ladrões fantasmas.[n][w][e]
+[s][f 5 14]Isso me lembra de quando[n]começamos a atuar[n]como Phantom Thieves.[n][w][e]
 
 [msg MSG_003_5_0 [Ryuji]]
-[s][f 5 14]De repente, Morgana apenas decidiu nos[n]levar a lembranças.[n][w][e]
+[s][f 5 14]De repente, Morgana decidiu nos trazer[n]para Memento.[n][w][e]
 
 [msg MSG_004_0_0 [Makoto]]
-[s][f 5 14]Espere um segundo, poderia ser...[n][w][e]
+[s][f 5 14]Espere, isso significa...[n][w][e]
 
 [sel SEL_005_0_0 top]
 [s][f 5 14]Morgana e Haru.[e]
-[s]É apenas uma brincadeira.[e]
-[s]Não podemos perder para eles.[e]
+[s]É só uma brincadeira.[e]
+[s]Não podemos ser derrotados.[e]
 
 [msg MSG_006_0_0 [Makoto]]
 [s][f 5 14]Sim, essa é a única conclusão lógica.[n][w][e]
 
 [msg MSG_007_0_0 [Makoto]]
-[s][f 5 14]É difícil pensar mais nisso. Os pedidos[n]estão realmente sendo resolvidos, lembra?[n][w][e]
+[s][f 5 14]É difícil de acreditar agora.[n]Alguém está completando[n]os pedidos, lembra?[n][w][e]
 
 [msg MSG_007_5_0 [Makoto]]
-[s][f 5 14]Talvez Morgana esteja levando Okumura-san[n]para lembranças.[n][w][e]
+[s][f 5 14]Talvez Morgana esteja trazendo[n]Okumura-san para os Mementos.[n][w][e]
 
 [msg MSG_008_0_0 [Makoto]]
-[s][f 5 14]De que é o bem competir?[n][w][e]
+[s][f 5 14]Que sentido[n]entraria em competição?[n][w][e]
 
 [msg MSG_008_5_0 [Makoto]]
-[s][f 5 14]O que quero dizer é que acho que Morgana[n]está levando Okumura-san com ele em[n]lembranças.[n][w][e]
+[s][f 5 14]Em outras palavras, acho que Morgana[n]está trazendo Okumura-san com ela[n]para os Mementos.[n][w][e]
 
 [msg MSG_009_0_0 [Ryuji]]
-[s][f 5 14]Sério? As pessoas não vão descobrir o que[n]está acontecendo?[n][w][e]
+[s][f 5 14]Sério? Mas as pessoas não vão entender[n]o que está acontecendo?[n][w][e]
 
 [msg MSG_009_5_0 [Ryuji]]
-[s][f 5 14]Nunca deixamos respostas ou merda assim.[n]Eles estão totalmente se destacando.[n][w][e]
+[s][f 5 14]Nós nunca escrevemos respostas[n]ou algo assim.[n]Então eles realmente se destacam.[n][w][e]
 
 [msg MSG_010_0_0 [Ann]]
-[s][f 5 14]Eu não acho que ninguém tenha notado[n]ainda, mas seria ruim se eles tentassem[n]investir nele.[n][w][e]
+[s][f 5 14]Eu não acho que eles[n]sabem disso, mas se eles começassem[n]sabendo disso, seria ruim.[n][w][e]
 
 [msg MSG_011_0_0 [Futaba]]
-[s][f 5 14]Morgana e Haru podem ser facilmente[n]rastreados através do log de rede.[n][w][e]
+[s][f 5 14]Seria muito fácil[n]rastrear Morgana e Haru[n]através de registros de rede.[n][w][e]
 
 [msg MSG_011_5_0 [Futaba]]
-[s][f 5 14]Eu não acho que nenhum deles realmente[n]entenda como isso funciona.[n][w][e]
+[s][f 5 14]Eu não acho que esses dois realmente entendam[n]como tudo[n]essa coisa funciona.[n][w][e]
 
 [msg MSG_012_0_0 [Yusuke]]
-[s][f 5 14]Se os deixarmos, nossas identidades[n]viriam à tona além da deles.[n][w][e]
+[s][f 5 14]Se deixássemos, além de suas identidades,[n]a nossa também poderia vir à tona.[n][w][e]
 
 [msg MSG_013_0_0 [Ryuji]]
-[s][f 5 14]Temos que pará-los então. Makoto, você[n]não pode entrar em contato com[n]Okumura-san ou algo assim?[n][w][e]
+[s][f 5 14]Temos que detê-los. Makoto,[n]você não pode falar com[n]Okumura-san de alguma forma?[n][w][e]
 
 [msg MSG_014_0_0 [Makoto]]
-[s][f 5 14]Eu não tenho informações de contato dela.[n][w][e]
+[s][f 5 14]Eu não tenho os contatos dele.[n][w][e]
 
 [msg MSG_014_5_0 [Makoto]]
-[s][f 5 14]E graças à lei de proteção de informações[n]pessoais, seu número de casa é privado.[n][w][e]
+[s][f 5 14]E, devido à[n]lei de proteção de dados pessoais,[n]seu número residencial é privado.[n][w][e]
 
 [msg MSG_015_0_0 [Yusuke]]
-[s][f 5 14]Então precisaremos esperar até[n]segunda-feira? Seria melhor para[n]lidarmos com isso em breve...[n][w][e]
+[s][f 5 14]Então temos que esperar até[n]até segunda-feira? Seria melhor se[n]pudéssemos lidar com isso mais cedo...[n][w][e]
 
 [sel SEL_016_0_0 top]
-[s][f 5 14]Vamos para a casa dela.[e]
-[s]Vamos esperar em lembranças.[e]
+[s][f 5 14]Vamos para a casa dele.[e]
+[s]Vamos aos Mementos.[e]
 
 [msg MSG_017_0_0 [Ann]]
-[s][f 5 14]Mas esse também é o lar do presidente.[n]Provavelmente haverá guardas e câmeras e[n]outras coisas...[n][w][e]
+[s][f 5 14]Mas também é a casa do presidente.[n]Provavelmente haverá guardas,[n]câmeras e assim por diante...[n][w][e]
 
 [msg MSG_018_0_0 [Makoto]]
-[s][f 5 14]Além disso, não temos certeza de que[n]Morgana e Haru ainda estão por trás[n]disso.[n][w][e]
+[s][f 5 14]Além disso, ainda não temos certeza de[n]que Morgana e Haru estão por trás de[n]toda essa história.[n][w][e]
 
 [msg MSG_018_5_0 [Ryuji]]
-[s][f 5 14]Então quer apenas apostar em lembranças[n]até pegá-las?[n][w][e]
+[s][f 5 14]Então você quer que nos espreitemos nos[n]Mementos até que os peguemos?[n][w][e]
 
 [msg MSG_018_7_0 [Makoto]]
-[s][f 5 14]Essa seria a maneira mais segura...[n][w][e]
+[s][f 5 14]Essa seria a solução mais fácil...[n][w][e]
 
 [msg MSG_019_0_0 [Ann]]
-[s][f 5 14]Você está brincando certo? Você só quer[n]ficar lá até que eles decidam aparecer?[n][w][e]
+[s][f 5 14]Você está brincando certo? Você quer[n]ficar por aqui até que eles[n]decidam aparecer?[n][w][e]
 
 [msg MSG_020_0_0 [Ryuji]]
-[s][f 5 14]Eu acho que é tudo o que podemos fazer...[n]se queremos pegá-los, essa é a melhor[n]maneira.[n][w][e]
+[s][f 5 14]Mas isso é tudo que podemos fazer...[n]Se quisermos encontrá-los, esta[n]é provavelmente a melhor maneira.[n][w][e]
 
 [msg MSG_021_0_0 [Futaba]]
-[s][f 5 14]Cara, isso parece super divertido.[n][w][e]
+[s][f 5 14]Cara, isso parece hilário.[n][w][e]
 
 [msg MSG_021_5_0 [Futaba]]
-[s][f 5 14]Traga-me alguns jogos, lanches,[n]refrigerante e alguns Yakisoba[n]instantâneos![n][w][e]
+[s][f 5 14]Traga-me jogos, salgadinhos, refrigerantes e[n]um pouco de yakisoba instantâneo![n][w][e]
 
 [msg MSG_022_0_0 [Yusuke]]
-[s][f 5 14]Vou deixar o cozimento para você.[n]Peço um prato de sopa emparelhado com[n]cinco pratos de vegetais.[n][w][e]
+[s][f 5 14]Vou deixar você cozinhar.[n]Quero um prato de sopa[n]e cinco acompanhamentos de legumes.[n][w][e]
 
 [msg MSG_023_0_0 [Ann]]
-[s][f 5 14]Alguma loção para a pele também seria[n]ótima. Eu quero me manter hidratado.[n][w][e]
+[s][f 5 14]Ah, um creme hidratante também ajudaria.[n]Eu manteria a pele macia.[n][w][e]
 
 [msg MSG_024_0_0 [Ryuji]]
-[s][f 5 14]Traga essa merda![n][w][e]
+[s][f 5 14]Traga esse material você mesmo![n][w][e]
 
 [msg MSG_025_0_0 [Makoto]]
-[s][f 5 14]De qualquer forma, vamos todos nos reunir[n]em lembranças amanhã de manhã.[n][w][e]
+[s][f 5 14]De qualquer forma, vejo todos vocês no[n]Mementos pela manhã.[n][w][e]
 
 [msg MSG_025_5_0 [Makoto]]
-[s][f 5 14][f 5 15]Isso pode não ser fácil, mas vamos fazer[n]o que pudermos.[n][w][e]
+[s][f 5 14][f 5 15]Não será fácil, mas vamos fazer[n]o nosso melhor.[n][w][e]
 

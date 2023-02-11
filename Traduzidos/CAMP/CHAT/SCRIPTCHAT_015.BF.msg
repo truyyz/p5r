@@ -1,26 +1,26 @@
 [msg MSG_004_0_0 [Ryuji]]
-[s][f 5 14]Ei, vocês vão ir em frente?[n][w][e]
+[s][f 5 14]Ei, você vai lá?[n][w][e]
 
 [msg MSG_005_0_0 [Ann]]
-[s][f 5 14]O que, o aconselhamento?[n][w][e]
-[s][f 5 14]Parece que estamos sendo forçados.[n][w][e]
+[s][f 5 14]Em que, na sessão de aconselhamento?[n][w][e]
+[s][f 5 14]Quase parece ser forçado.[n][w][e]
 
 [msg MSG_006_0_0 [Ryuji]]
-[s][f 5 14]Eu disse a Maruki que eu faria, mas...[n][w][e]
-[s][f 5 14]Não sei se realmente sou assim, sabe?[n][w][e]
+[s][f 5 14]Eu disse a Maruki[n]que iria, mas...[n][w][e]
+[s][f 5 14]Eu não sei se eu realmente gosto[n]como uma ideia, sabe?[n][w][e]
 
 [sel SEL_007_0_0 top]
 [s][f 5 14]Vamos fazê-lo.[e]
 [s]Não há muita escolha.[e]
-[s]Quer pular?[e]
+[s]Quer ignorá-lo?[e]
 
 [msg MSG_008_0_0 [Ann]]
-[s][f 5 14]Sim.[n][w][e]
-[s][f 5 14]Provavelmente melhor não chamar mais[n]atenção para nós mesmos.[n][w][e]
+[s][f 5 14]Já.[n][w][e]
+[s][f 5 14]Melhor não chamar mais atenção para nós,[n]de qualquer maneira.[n][w][e]
 
 [msg MSG_009_0_0 [Ann]]
-[s][f 5 14]Eu não acho que podemos nos dar ao luxo[n]de, já que a escola está de olho em nós.[n][w][e]
+[s][f 5 14]Não podemos pagar, já que a escola fica de[n]olho em nós.[n][w][e]
 
 [msg MSG_010_0_0 [Ann]]
-[s][f 5 14][f 5 15]Acho que vou tentar ir hoje.[n][w][e]
+[s][f 5 14][f 5 15]Acho que vou lá hoje.[n][w][e]
 

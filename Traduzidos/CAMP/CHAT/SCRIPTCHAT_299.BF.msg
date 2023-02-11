@@ -1,54 +1,54 @@
 [msg MSG_000_0_0 [Ryuji]]
-[s][f 5 14]Aquela coisa no seu telefone era um ícone do[n]globo ocular vermelho, certo?[n][w][e]
+[s][f 5 14]Aquilo no seu telefone[n]era algum tipo de ícone com[n]um grande olho vermelho, certo?[n][w][e]
 
 [sel SEL_001_0_0 top]
-[s][f 5 14]O quê?[e]
+[s][f 5 14]O que?[e]
 [s]Direita.[e]
 
 [msg MSG_002_0_0 [Ryuji]]
-[s][f 5 14]Aquela coisa estranha de navegação! O[n]aplicativo que nos levou a um lugar[n]estranho.[n][w][e]
+[s][f 5 14]Aquele navegador estranho![n]O aplicativo que nos transportou[n]para aquele lugar bizarro.[n][w][e]
 
 [msg MSG_003_0_0 [Ryuji]]
-[s][f 5 14]Acabamos naquele lugar estranho quando[n]usamos esse aplicativo NAV, certo?[n][w][e]
+[s][f 5 14]Quando usamos esse[n]aplicativo de navegação, acabamos[n]nesse lugar estranho, certo?[n][w][e]
 
 [msg MSG_004_0_0 [Ryuji]]
-[s][f 5 14]Eu encontrei no meu telefone também...[n][w][e]
+[s][f 5 14]Eu também encontrei[n]no meu telefone...[n][w][e]
 
 [msg MSG_005_0_0 [Ryuji]]
-[s][f 5 14]Eu nem me lembro de instalá-lo![n][w][e]
+[s][f 5 14]Eu nem me lembro[n]de instalá-lo![n][w][e]
 
 [sel SEL_006_0_0 top]
-[s][f 5 14]Isso é assustador.[e]
-[s]Exclua-o imediatamente.[e]
+[s][f 5 14]Horripilante.[e]
+[s]Cancele agora.[e]
 
 [msg MSG_007_0_0 [Ryuji]]
-[s][f 5 14]Sério. O que é esta coisa?[n][w][e]
+[s][f 5 14]Seriamente. O que é isso...?[n][w][e]
 
 [msg MSG_008_0_0 [Ryuji]]
-[s][f 5 14]Eu apaguei antes, mas voltou...[n][w][e]
+[s][f 5 14]Eu apaguei,[n]mas está de volta...[n][w][e]
 
 [msg MSG_009_0_0 [Ryuji]]
-[s][f 5 14]Acha que está sendo baixado por si só de[n]alguma forma?[n][w][e]
+[s][f 5 14]Você acha que de alguma forma[n]capaz de descarregar-se?[n][w][e]
 
 [msg MSG_010_0_0 [Ryuji]]
-[s][f 5 14]É perigoso usar algo sem saber o que é...[n][w][e]
+[s][f 5 14]É perigoso usar algo[n]que você não conhece...[n][w][e]
 
 [msg MSG_011_0_0 [Ryuji]]
-[s][f 5 14]Mas com isso, podemos ir para aquele lugar[n]estranho, certo?[n][w][e]
+[s][f 5 14]Mas com isso podemos ir[n]para aquele lugar maluco, certo?[n][w][e]
 
 [sel SEL_012_0_0 top]
-[s][f 5 14]Parece isso.[e]
+[s][f 5 14]É assim que parece.[e]
 [s]Sério?[e]
 
 [msg MSG_013_0_0 [Ryuji]]
-[s][f 5 14]Quero dizer, essa é a única coisa que faz[n]sentido...[n][w][e]
+[s][f 5 14]Quero dizer, é a única coisa que parece[n]fazer algum sentido...[n][w][e]
 
 [msg MSG_014_0_0 [Ryuji]]
-[s][f 5 14]Basicamente, vai depender de como o usamos.[n][w][e]
+[s][f 5 14]Basicamente, vai depender[n]de como o usamos.[n][w][e]
 
 [msg MSG_015_0_0 [Ryuji]]
-[s][f 5 14]Mas primeiro temos que encontrar evidências[n]para os espancamentos.[n][w][e]
+[s][f 5 14]Primeiro, precisamos encontrar evidências[n]de maus-tratos.[n][w][e]
 
 [msg MSG_016_0_0 [Ryuji]]
-[s][f 5 14][f 5 15]Estou contando com você, tudo bem?[n]Não vá para abandonar a escola em mim.[n][w][e]
+[s][f 5 14][f 5 15]Estou contando com você, entendeu?[n]Não falte à escola[n]só quando estou esperando por você.[n][w][e]
 

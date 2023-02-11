@@ -2,41 +2,41 @@
 [s][f 5 14]Faltam apenas onze dias...[n][w][e]
 
 [msg MSG_001_0_0 [Ann]]
-[s][f 5 14]As demandas ainda estão chegando?[n][w][e]
+[s][f 5 14]Os pedidos continuam chegando?[n][w][e]
 
 [msg MSG_002_0_0 [Makoto]]
-[s][f 5 14]Sim. Ultimamente, tenho recebido ligações[n]de homens que nem conheço.[n][w][e]
+[s][f 5 14]Sim. Ultimamente tenho recebido ligações[n]de pessoas que nem conheço.[n][w][e]
 
 [msg MSG_003_0_0 [Makoto]]
-[s][f 5 14]Parece que eles mudaram sua estratégia,[n]certamente de acordo com as ordens de[n]Kaneshiro.[n][w][e]
+[s][f 5 14]Com certeza Kaneshiro[n]ordenou mudar[n]estratégia.[n][w][e]
 
 [msg MSG_004_0_0 [Ann]]
-[s][f 5 14]Você vai ficar bem?[n][w][e]
+[s][f 5 14]Como você está se sentindo? Você está[n]bem?[n][w][e]
 
 [msg MSG_005_0_0 [Makoto]]
-[s][f 5 14]Eu sou. Eu não posso dizer que parece[n]particularmente bom.[n][w][e]
+[s][f 5 14]Sim. Eu definitivamente[n]poderia me sentir melhor, no entanto.[n][w][e]
 
 [msg MSG_006_0_0 [Makoto]]
-[s][f 5 14]Mas enquanto ele me considere uma[n]mercadoria valiosa...[n][w][e]
+[s][f 5 14]Mas enquanto ele me considerar[n]ainda útil...[n][w][e]
 
 [msg MSG_007_0_0 [Makoto]]
-[s][f 5 14]Eu acredito que ele não fará nada demais.[n][w][e]
+[s][f 5 14]Eu não acho que ele fará nada muito[n]precipitado.[n][w][e]
 
 [msg MSG_008_0_0 [Yusuke]]
-[s][f 5 14]Não podemos ter certeza de esse fato.[n][w][e]
+[s][f 5 14]Mas não podemos ter muita certeza.[n][w][e]
 
 [msg MSG_009_0_0 [Yusuke]]
-[s][f 5 14]Quem sabe quando ele pode decidir[n]recorrer à violência?[n][w][e]
+[s][f 5 14]Quem sabe quando ele decidirá[n]recorrer à violência?[n][w][e]
 
 [msg MSG_010_0_0 [Ann]]
 [s][f 5 14]Yusuke está certo.[n][w][e]
 
 [msg MSG_011_0_0 [Makoto]]
-[s][f 5 14]Espero que isso aconteça quando o prazo[n]tiver passado.[n][w][e]
+[s][f 5 14]Isso certamente acontecerá quando o prazo[n]terminar.[n][w][e]
 
 [msg MSG_012_0_0 [Ryuji]]
-[s][f 5 14]Então, novamente, quem sabe se ele vai[n]cumprir sua promessa em primeiro lugar.[n][w][e]
+[s][f 5 14]Mas também temos que considerar[n]a possibilidade de que ele não cumpra[n]sua promessa.[n][w][e]
 
 [msg MSG_013_0_0 [Ryuji]]
-[s][f 5 14][f 5 15]Vamos lá, temos que cuidar dele antes que[n]a merda atinja o fã![n][w][e]
+[s][f 5 14][f 5 15]Precisamos consertar isso antes que[n]comece a chover merda.[n][w][e]
 

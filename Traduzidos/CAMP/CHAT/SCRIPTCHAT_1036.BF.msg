@@ -1,25 +1,25 @@
 [msg MSG_000_0_0 [Haru]]
-[s][f 5 14]Os exames estão chegando perto.[n]Você tem estudado?[n][w][e]
+[s][f 5 14]Os exames estão se aproximando.[n]Você estudou?[n][w][e]
 
 [msg MSG_001_0_0 [Haru]]
-[s][f 5 14]É fácil relaxar quando você está fazendo[n]isso sozinho. Você gostaria de estudar[n]juntos?[n][w][e]
+[s][f 5 14]Você corre o risco de não se concentrar[n]se estudar sozinho. Você quer[n]estudar juntos?[n][w][e]
 
 [msg MSG_002_0_0 [Haru]]
-[s][f 5 14]Estarei no telhado, então fique à vontade[n]para me chamar.[n][f 5 15][w][e]
+[s][f 5 14]Estarei no telhado, se você quiser[n]venha.[n][f 5 15][w][e]
 
 [msg MSG_REACTION [Haru]]
-[s][f 5 14]Tudo bem. Estarei esperando.[n][f 5 15][w][e]
+[s][f 5 14]Tudo bem. Vou esperar.[n][f 5 15][w][e]
 
 [msg MSG_MORUGANA [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Então, o que vai ser? Você quer ir ver[n]Haru?[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Então, você decidiu?[n]Você quer ir para Haru?[n][f 1 3 65535][w][e]
 
 [sel SEL_001 top]
-[s]Vá imediatamente [e]
-[s]Responda mais tarde [e]
+[s]Vá agora[e]
+[s]Decidir depois[e]
 
 [sel SEL_002 top]
-[s][f 5 14]Eu estarei lá.[e]
+[s][f 5 14]Nós estamos lá.[e]
 
 [msg MND_COOP_DOUZOKUSEI]
-[s]Eu deveria ser capaz de aprofundar nosso[n]vínculo, já que tenho [n][clr 1][var 5][clr 27][n]do [var 2]Arcana...[n][w][e]
+[s]Eu deveria ser capaz de fortalecer[n]nosso vínculo, já que tenho [clr 1][var 5][clr 27][n]do arcano [var 2]...[n][w][e]
 

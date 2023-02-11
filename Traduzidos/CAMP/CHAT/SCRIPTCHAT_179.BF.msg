@@ -1,31 +1,31 @@
 [msg MSG_000_0_0 [Mishima]]
-[s][f 5 14]Alguma coisa não está certa.[n][w][e]
+[s][f 5 14]Há algo errado.[n][w][e]
 
 [msg MSG_001_0_0 [Mishima]]
-[s][f 5 14]O site aficionado da Phantom não está[n]ocupado...[n][w][e]
+[s][f 5 14]Não há praticamente nenhuma atividade no[n]site Phantom Aficionado ...[n][w][e]
 
 [msg MSG_002_0_0 [Mishima]]
-[s][f 5 14]Isso não faz sentido.[n][w][e]
+[s][f 5 14]Não faz o menor sentido.[n][w][e]
 
 [sel SEL_003_0_0 top]
 [s][f 5 14]Porque?[e]
-[s]Não interessado.[e]
+[s]Eu não me importo.[e]
 
 [msg MSG_004_0_0 [Mishima]]
 [s][f 5 14]Quero dizer...[n][w][e]
 
 [msg MSG_005_0_0 [Mishima]]
-[s][f 5 14]Vamos lá, pelo menos pense sobre isso.[n][w][e]
+[s][f 5 14]Vamos lá, isso merece alguma reflexão.[n][w][e]
 
 [msg MSG_006_0_0 [Mishima]]
-[s][f 5 14]Masayoshi Shido foi derrubado![n][w][e]
+[s][f 5 14]Masayoshi Shido foi derrotado![n][w][e]
 
 [msg MSG_007_0_0 [Mishima]]
-[s][f 5 14]As pessoas devem postar comentários à[n]esquerda e à direita sobre isso! O[n]silêncio não faz sentido![n][w][e]
+[s][f 5 14]Normalmente todos estariam lá para[n]comentar! Esse silêncio[n]é totalmente absurdo![n][w][e]
 
 [msg MSG_008_0_0 [Mishima]]
-[s][f 5 14]É porque não fez as notícias?[n][w][e]
+[s][f 5 14]É porque as notícias[n]não mencionaram isso?[n][w][e]
 
 [msg MSG_009_0_0 [Mishima]]
-[s][f 5 14][f 5 15]Ugh, é tão óbvio que os ladrões fantasmas[n]são responsáveis...![n][w][e]
+[s][f 5 14][f 5 15]Mas é óbvio que os Ladrões Fantasmas são[n]os responsáveis...![n][w][e]
 

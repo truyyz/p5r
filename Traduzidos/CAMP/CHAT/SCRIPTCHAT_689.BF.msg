@@ -1,29 +1,29 @@
 [msg MSG_000_0_0 [Ann]]
-[s][f 5 14]Ei, [f 4 2].[n]Você tem algum tempo hoje?[n][w][e]
+[s][f 5 14]Ei, [f 4 2].[n]Você está livre hoje?[n][w][e]
 
 [msg MSG_001_0_0 [Ann]]
-[s][f 5 14]Eu gostaria que você viesse comigo um[n]pouco...[n][w][e]
+[s][f 5 14]Eu gostaria de passar algum tempo com[n]você...[n][w][e]
 
 [msg MSG_002_0_0 [Ann]]
-[s][f 5 14]Estarei esperando no shopping underground.[n][w][e]
+[s][f 5 14]Vou esperar por você no shopping[n]underground.[n][w][e]
 
 [msg CHAT_NOREACTION_MSG [Makoto]]
-[s][f 5 14]Eu te peguei em um momento ruim?[n]Eu esperei o dia todo também... bem, vou[n]convidá-lo novamente mais tarde.[n][w][e]
+[s][f 5 14]Este é um horário inconveniente? Eu[n]estive esperando o dia todo... Bem, eu[n]te convido mais tarde, então.[n][w][e]
 
 [msg CHAT_REACTION_MSG [Ann]]
-[s][f 5 14]Obrigado. Você se importaria de vir para[n]onde eu estou?[n][w][e]
+[s][f 5 14]Obrigada. Você se importaria[n]de se juntar a mim?[n][w][e]
 
 [msg MSG_MORUGANA [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Bem, você quer aceitar o convite de Lady[n]Ann?[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Você aceita[n]o convite de Lady Ann?[n][f 1 3 65535][w][e]
 
 [sel SEL_001 top]
-[s]Acesse imediatamente [e]
-[s]Verifique o vínculo com Ann [e]
-[s]Responda mais tarde [e]
+[s]Vá agora[e]
+[s]Verifique a conexão com Ann[e]
+[s]Responder mais tarde[e]
 
 [sel SEL_002 top]
-[s][f 5 14]Eu estarei certo.[e]
+[s][f 5 14]Eu estarei lá.[e]
 
 [msg MND_COOP_DOUZOKUSEI]
-[s]Eu deveria ser capaz de aprofundar nosso[n]vínculo, já que tenho [n][clr 1][var 5][clr 27][n]do [var 2]Arcana...[n][w][e]
+[s]Eu deveria ser capaz de fortalecer[n]nosso vínculo, já que tenho [clr 1][var 5][clr 27][n]do arcano [var 2]...[n][w][e]
 

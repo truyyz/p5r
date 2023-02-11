@@ -1,52 +1,52 @@
 [msg MSG_000_0_0 [Ryuji]]
-[s][f 5 14]Cara, nossa reputação é incrível![n]As pessoas não se cansam de nós![n][w][e]
+[s][f 5 14]Nossa reputação é excelente![n]As pessoas sempre querem mais![n][w][e]
 
 [msg MSG_001_0_0 [Ann]]
-[s][f 5 14]O site de Mishima-Kun também está sendo[n]inundado com comentários![n][w][e]
+[s][f 5 14]E o site do Mishima-kun está cheio de[n]comentários![n][w][e]
 
 [msg MSG_002_0_0 [Yusuke]]
-[s][f 5 14]Ouvi rumores sobre os ladrões Phantom,[n]mesmo quando voltei para casa.[n][w][e]
+[s][f 5 14]Eu ouvi rumores sobre os Phantom Thieves[n]mesmo no meu caminho para casa.[n][w][e]
 
 [msg MSG_003_0_0 [Makoto]]
-[s][f 5 14]Nem todos os rumores são bons.[n][w][e]
+[s][f 5 14]Mas nem todos os rumores são positivos.[n][w][e]
 
 [sel SEL_004_0_0 top]
-[s][f 5 14]Eu culpo Akechi por isso.[e]
+[s][f 5 14]Culpa de Akechi.[e]
 [s]O que você quer dizer?[e]
 
 [msg MSG_005_0_0 [Ann]]
-[s][f 5 14]Você quer dizer porque ele disse que[n]estamos fabricando crimes, certo?[n][w][e]
+[s][f 5 14]Você está se referindo ao discurso de que nós[n]inventamos crimes?[n][w][e]
 
 [msg MSG_006_0_0 [Ann]]
-[s][f 5 14]Urghhh, ele é tão irritante![n][w][e]
+[s][f 5 14]Como isso me incomoda![n][w][e]
 
 [msg MSG_007_0_0 [Yusuke]]
-[s][f 5 14]Certamente deve haver alguns comentários[n]sujos por aí devido ao que Akechi disse[n]sobre nós.[n][w][e]
+[s][f 5 14]Claro que há comentários negativos[n]por causa do que Akechi[n]disse sobre nós.[n][w][e]
 
 [msg MSG_008_0_0 [Yusuke]]
-[s][f 5 14]"Evitar a lei" não é "diferente do que os[n]criminosos fazem"...[n][w][e]
+[s][f 5 14]"Ignorar a lei não é muito[n]diferente do que[n]criminosos fazem"...[n][w][e]
 
 [msg MSG_009_0_0 [Yusuke]]
-[s][f 5 14]Ele tem uma língua nítida.[n][w][e]
+[s][f 5 14]Ele tem alguma habilidade com as[n]palavras.[n][w][e]
 
 [msg MSG_010_0_0 [Ryuji]]
-[s][f 5 14]O inferno está com aquele bastardo!?[n][w][e]
+[s][f 5 14]Que porra esse desgraçado quer?[n][w][e]
 
 [msg MSG_011_0_0 [Ryuji]]
-[s][f 5 14]Ele só teve que subir bem no meio da[n]nossa celebração![n][w][e]
+[s][f 5 14]Ele forçou a entrada no meio da festa![n][w][e]
 
 [msg MSG_012_0_0 [Ryuji]]
-[s][f 5 14]E o público idiota acompanha o que ele[n]diz![n][w][e]
+[s][f 5 14]E o que quer que ele diga,[n]as pessoas vão atrás dele![n][w][e]
 
 [msg MSG_013_0_0 [Makoto]]
-[s][f 5 14]Acalme-se, Ryuji. Nossos apoiadores[n]certamente estão aumentando em número.[n][w][e]
+[s][f 5 14]Acalme-se, Ryuji. O número de[n]nossos fãs continua a aumentar.[n][w][e]
 
 [msg MSG_014_0_0 [Yusuke]]
-[s][f 5 14]Só precisamos continuar ajudando os[n]fracos e provando nossa justiça.[n][w][e]
+[s][f 5 14]Nós apenas temos que continuar a[n]defender os fracos e[n]fazer justiça.[n][w][e]
 
 [msg MSG_015_0_0 [Ryuji]]
-[s][f 5 14]Eu sei disso! Vamos colocar as pessoas do[n]nosso lado eventualmente.[n][w][e]
+[s][f 5 14]Eu sei isso! Eventualmente, todos ficarão[n]do nosso lado.[n][w][e]
 
 [msg MSG_016_0_0 [Yusuke]]
-[s][f 5 14][f 5 15]Por enquanto, devemos esperar e ver o que[n]acontece a seguir.[n][w][e]
+[s][f 5 14][f 5 15]Por enquanto, vamos esperar para ver.[n][w][e]
 

@@ -1,60 +1,60 @@
 [msg MSG_000_0_0 [Ann]]
-[s][f 5 14]Temos roupas de banho! Estamos totalmente[n]prontos para chegar à praia![n][w][e]
+[s][f 5 14]Nós temos os trajes! Estamos[n]prontos para a praia![n][w][e]
 
 [msg MSG_001_0_0 [Makoto]]
-[s][f 5 14]Tudo o que resta é que Futaba se prepare[n]mentalmente.[n][w][e]
+[s][f 5 14]Apenas Futaba[n]se prepara mentalmente.[n][w][e]
 
 [msg MSG_002_0_0 [Futaba]]
-[s][f 5 14]Eu posso fazer isso. Eu posso...[n]Eu penso.[n][w][e]
+[s][f 5 14]Eu posso fazer isso. Eu realmente posso...[n]eu acho.[n][w][e]
 
 [msg MSG_003_0_0 [Futaba]]
-[s][f 5 14]Pode ser.[n][w][e]
+[s][f 5 14]Possivelmente.[n][w][e]
 
 [msg MSG_004_0_0 [Yusuke]]
-[s][f 5 14]Então você não está confiante.[n][w][e]
+[s][f 5 14]Então você não tem certeza.[n][w][e]
 
 [msg MSG_005_0_0 [Futaba]]
-[s][f 5 14]Shuddup, Inari.[n][w][e]
+[s][f 5 14]Cale a boca, Inari.[n][w][e]
 
 [msg MSG_006_0_0 [Ryuji]]
-[s][f 5 14]Ahhh, finalmente está começando a parecer[n]férias de verão.[n][w][e]
+[s][f 5 14]Aaah, agora parece que estamos de[n]férias.[n][w][e]
 
 [msg MSG_007_0_0 [Makoto]]
-[s][f 5 14]Ainda assim, tenho pensado em algumas[n]coisas agora que importantes se[n]acalmaram um pouco mais...[n][w][e]
+[s][f 5 14]No entanto, agora que a poeira[n]acalmou, pensei[n]um pouco sobre algumas coisas...[n][w][e]
 
 [sel SEL_008_0_0 top]
-[s][f 5 14]Como o quê?[e]
-[s]Apenas diga isso.[e]
+[s][f 5 14]Por exemplo?[e]
+[s]Apenas diga.[e]
 
 [msg MSG_009_0_0 [Makoto]]
-[s][f 5 14]As quebras psicóticas, psiências[n]cognitivas...[n][w][e]
+[s][f 5 14]Raptus,[n]ciência psicocognitiva...[n][w][e]
 
 [msg MSG_010_0_0 [Makoto]]
-[s][f 5 14]E o da máscara preta.[n][w][e]
+[s][f 5 14]E o cara da máscara preta.[n][w][e]
 
 [sel SEL_011_0_0 top]
-[s][f 5 14]Eu me pergunto quem eles são.[e]
-[s]Eu me pergunto o que eles querem.[e]
-[s]Eles são perigosos de qualquer maneira.[e]
+[s][f 5 14]Eu me pergunto quem é.[e]
+[s]Eu me pergunto o que ele quer.[e]
+[s]Ainda é perigoso embora.[e]
 
 [msg MSG_012_0_0 [Ann]]
-[s][f 5 14]Você acha que eles estão indo para a[n]mesma coisa que somos?[n][w][e]
+[s][f 5 14]Você acha que nossos objetivos[n]são os mesmos?[n][w][e]
 
 [msg MSG_013_0_0 [Yusuke]]
-[s][f 5 14]Duvido que seja algo bom.[n][w][e]
+[s][f 5 14]Duvido que esteja indo bem.[n][w][e]
 
 [msg MSG_014_0_0 [Makoto]]
-[s][f 5 14]Direita. Precisamos prosseguir com[n]extrema cautela no futuro.[n][w][e]
+[s][f 5 14]Direita. De agora em diante, procederemos[n]com extrema cautela.[n][w][e]
 
 [msg MSG_015_0_0 [Makoto]]
-[s][f 5 14]Dito isto, não temos informações[n]suficientes agora... precisamos[n]investigar mais.[n][w][e]
+[s][f 5 14]Dito isso, não temos informações[n]suficientes no momento... teremos que[n]investigar mais a fundo.[n][w][e]
 
 [msg MSG_016_0_0 [Futaba]]
-[s][f 5 14]Vou ajudar também.[n][w][e]
+[s][f 5 14]Vou dar uma mão também.[n][w][e]
 
 [msg MSG_017_0_0 [Ryuji]]
-[s][f 5 14]Podemos falar sobre isso em outra hora?[n]Estou tão sonolento...[n][w][e]
+[s][f 5 14]Podemos conversar de novo?[n]Estou com sono...[n][w][e]
 
 [msg MSG_018_0_0 [Ann]]
-[s][f 5 14][f 5 15]Ok, boa noite então! Futaba-chan, boa[n]sorte amanhã também![n][w][e]
+[s][f 5 14][f 5 15]OK, então boa noite![n]Futaba-chan, boa sorte amanhã![n][w][e]
 

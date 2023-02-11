@@ -1,40 +1,40 @@
 [msg MSG_000_0_0 [Haru]]
-[s][f 5 14]Apenas uma semana restante.[n][w][e]
+[s][f 5 14]Falta apenas uma semana.[n][w][e]
 
 [msg MSG_001_0_0 [Ryuji]]
-[s][f 5 14]Sim, é quanto tempo chegamos a prender[n]esse tesouro.[n][w][e]
+[s][f 5 14]Isso mesmo, esse é o tempo que temos para[n]furtar aquele tesouro.[n][w][e]
 
 [msg MSG_002_0_0 [Haru]]
-[s][f 5 14]Aqui está isso, mas também é quanto tempo[n]ficaremos para ficar como os ladrões[n]fantasmas.[n][w][e]
+[s][f 5 14]Sim, mas também é o tempo[n]que nos resta[n]como Phantom Thieves.[n][w][e]
 
 [msg MSG_003_0_0 [Ann]]
-[s][f 5 14]Sim.[n][w][e]
+[s][f 5 14]Já.[n][w][e]
 
 [msg MSG_004_0_0 [Yusuke]]
-[s][f 5 14]Agora que você menciona isso, é uma[n]sensação bastante estranha.[n][w][e]
+[s][f 5 14]Agora que você mencionou, é um sentimento[n]muito estranho.[n][w][e]
 
 [msg MSG_005_0_0 [Makoto]]
-[s][f 5 14]Eu tenho tentado evitar pensar nisso até[n]que o tempo realmente chegue.[n][w][e]
+[s][f 5 14]Tentei não pensar nisso até chegar a[n]hora.[n][w][e]
 
 [msg MSG_006_0_0 [Futaba]]
-[s][f 5 14]Você se lembrou, [f 4 2]?[n][w][e]
+[s][f 5 14]Você se lembra, [f 4 2]?[n][w][e]
 
 [sel SEL_007_0_0 top]
-[s][f 5 14]Eu fiz.[e]
+[s][f 5 14]Sim.[e]
 [s]Não.[e]
-[s]Vamos fazer o nosso melhor.[e]
+[s]Vamos dar tudo de nós.[e]
 
 [msg MSG_008_0_0 [Futaba]]
-[s][f 5 14]Incrível.[n][w][e]
+[s][f 5 14]Fantástico.[n][w][e]
 
 [msg MSG_009_0_0 [Futaba]]
-[s][f 5 14]Eu te entendo. É um fato da vida que você[n]simplesmente não quer aceitar.[n][w][e]
+[s][f 5 14]Eu entendo você. É um fato[n]da vida que você não[n]quer aceitar.[n][w][e]
 
 [msg MSG_010_0_0 [Futaba]]
-[s][f 5 14]Isso não é realmente uma resposta para[n]minha pergunta, mas é uma boa motivação![n][w][e]
+[s][f 5 14]Esta não é uma resposta[n]à minha pergunta, mas ainda[n]serve como uma motivação![n][w][e]
 
 [msg MSG_011_0_0 [Ryuji]]
-[s][f 5 14]Bem, acho que tudo o que podemos fazer[n]agora é fazer essa merda como sempre[n]fazemos.[n][w][e]
+[s][f 5 14]Bem, neste ponto, só temos[n]que fazer nosso trabalho[n]como sempre.[n][w][e]
 
 [msg MSG_012_0_0 [Ann]]
 [s][f 5 14]Sim. Para a irmã de Makoto.[n][w][e]

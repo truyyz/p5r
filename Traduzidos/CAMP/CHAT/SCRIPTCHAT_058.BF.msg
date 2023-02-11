@@ -1,92 +1,92 @@
 [msg MSG_001_0_0 [Makoto]]
-[s][f 5 14]Um criminoso que usa o metaverso para[n]realizar seus crimes...[n][w][e]
+[s][f 5 14]Um criminoso que usa o Metaverso[n]para cometer crimes...[n][w][e]
 
 [msg MSG_002_0_0 [Makoto]]
-[s][f 5 14]Isso não é mais um assunto que podemos[n]ignorar.[n][w][e]
+[s][f 5 14]Não podemos mais[n]ignorá-lo.[n][w][e]
 
 [msg MSG_003_0_0 [Ryuji]]
-[s][f 5 14]Especialmente porque eles podem ser quem[n]matou a mãe de Futaba.[n][w][e]
+[s][f 5 14]Também porque ele pode ser o assassino da[n]mãe de Futaba.[n][w][e]
 
 [msg MSG_004_0_0 [Yusuke]]
-[s][f 5 14]Para ser sincero, eu havia considerado a[n]ideia de que eles poderiam estar por[n]trás apenas dos rumores de falhas[n]psicóticas...[n][w][e]
+[s][f 5 14]No começo eu pensei que[n]ele era o único responsável pelo[n]raptus mencionado...[n][w][e]
 
 [msg MSG_005_0_0 [Yusuke]]
-[s][f 5 14]Mas agora parece que essa pessoa está[n]matando pessoas também.[n][w][e]
+[s][f 5 14]Mas agora parece estar matando pessoas[n]também.[n][w][e]
 
 [msg MSG_006_0_0 [Futaba]]
-[s][f 5 14]Tecnicamente, eles estão fazendo as[n]pessoas terem desligamentos mentais, o[n]que as faz morrer.[n][w][e]
+[s][f 5 14]Tecnicamente, as pessoas morrem[n]de paradas mentais[n]que causam…[n][w][e]
 
 [msg MSG_007_0_0 [Ryuji]]
-[s][f 5 14]É o que acontece quando você mata a[n]sombra de alguém, sim?[n][w][e]
+[s][f 5 14]Isso é o que acontece quando você[n]mata a sombra de alguém, certo?[n][w][e]
 
 [msg MSG_008_0_0 [Ann]]
-[s][f 5 14]Mm-hm. Estávamos preocupados com isso de[n]volta com Kamoshida e Madarame, lembra?[n][w][e]
+[s][f 5 14]Já. Estávamos preocupados com[n]sobre isso com Kamoshida e[n]Madarame, lembra?[n][w][e]
 
 [msg MSG_009_0_0 [Futaba]]
-[s][f 5 14]Avarias psicóticas e desligamentos[n]mentais... faria sentido se a mesma[n]pessoa estivesse atrás deles.[n][w][e]
+[s][f 5 14]Arrebatamentos e prisões mentais...[n]Faria sentido se[n]a mesma pessoa estivesse por trás disso.[n][w][e]
 
 [msg MSG_010_0_0 [Futaba]]
-[s][f 5 14]As notícias nunca falam sobre as vítimas[n]morrendo, então as pessoas só sabem[n]sobre as falhas.[n][w][e]
+[s][f 5 14]Os jornalistas não dizem que[n]as vítimas morrem, então[n]as pessoas só sabem das convulsões...[n][w][e]
 
 [msg MSG_011_0_0 [Ryuji]]
-[s][f 5 14]Então essa merda é seriamente um caso![n]Se isso é real, quem está fazendo é algum[n]tipo de assassino![n][w][e]
+[s][f 5 14]Então é um assunto sério![n]Se você está certo, quem está[n]fazendo isso é um assassino![n][w][e]
 
 [msg MSG_012_0_0 [Futaba]]
-[s][f 5 14]Eu vou vencer a porcaria delas...[n][w][e]
+[s][f 5 14]Vou fazê-lo cuspir sangue[n]com os punhos...[n][w][e]
 
 [msg MSG_013_0_0 [Yusuke]]
-[s][f 5 14]Eu sugeriria que também seja mais[n]cauteloso daqui para frente.[n][w][e]
+[s][f 5 14]Eu sugeriria que tomássemos cuidado de[n]agora em diante.[n][w][e]
 
 [msg MSG_014_0_0 [Yusuke]]
-[s][f 5 14]Ainda não sabemos muito, mesmo sobre o[n]nosso Metaverse Nav.[n][w][e]
+[s][f 5 14]Também não sabemos muito[n]sobre nossas Naves do Metaverso.[n][w][e]
 
 [msg MSG_015_0_0 [Makoto]]
-[s][f 5 14]Isso é verdade.[n][w][e]
+[s][f 5 14]Verdadeiro.[n][w][e]
 
 [msg MSG_016_0_0 [Ryuji]]
-[s][f 5 14]Eu me pergunto por que essa coisa[n]existe...[n][w][e]
+[s][f 5 14]Quem sabe por que essa coisa existe...[n][w][e]
 
 [sel SEL_017_0_0 top]
-[s][f 5 14]Havia um homem no meu sonho...[e]
+[s][f 5 14]Um homem... no meu sonho...[e]
 [s]Não sei.[e]
 
 [msg MSG_018_0_0 [Ryuji]]
-[s][f 5 14]Um sonho? Você ainda está meio[n]adormecido, cara?[n][w][e]
+[s][f 5 14]Um sonho? Você ainda[n]está dormindo, cara?[n][w][e]
 
 [msg MND_019_0_0]
-[s]Ainda seria difícil para mim explicar[n]sobre Igor...[n][w][e]
+[s]Ainda é difícil para mim[n]explicar Igor...[n][w][e]
 
 [msg MSG_020_0_0 [Ann]]
-[s][f 5 14]Gostaria de saber se esse criminoso[n]também está usando o aplicativo...[n][w][e]
+[s][f 5 14]Será que esse[n]criminoso também usa o app...[n][w][e]
 
 [msg MSG_021_0_0 [Makoto]]
-[s][f 5 14]Futaba, isso parece ser sua área de[n]especialização. Você sabe alguma coisa[n]sobre isso?[n][w][e]
+[s][f 5 14]Futaba, você é o especialista[n]neste campo.[n]Você sabe alguma coisa sobre isso?[n][w][e]
 
 [msg MSG_022_0_0 [Futaba]]
-[s][f 5 14]Não, eu nunca tinha ouvido falar disso[n]antes. Quero dizer, não é realmente um[n]aplicativo.[n][w][e]
+[s][f 5 14]Não, nunca ouvi nada parecido. Não é nem[n]realmente um aplicativo.[n][w][e]
 
 [msg MSG_023_0_0 [Futaba]]
-[s][f 5 14]É mais como... uma coisa misteriosa[n]semelhante a um aplicativo.[n][w][e]
+[s][f 5 14]É mais um tipo de aplicativo misterioso.[n][w][e]
 
 [msg MSG_024_0_0 [Makoto]]
-[s][f 5 14]Eu vejo...[n][w][e]
+[s][f 5 14]Bom...[n][w][e]
 
 [msg MSG_025_0_0 [Futaba]]
-[s][f 5 14]Está tudo bem.[n][w][e]
+[s][f 5 14]Não é um problema, no entanto.[n][w][e]
 
 [msg MSG_026_0_0 [Futaba]]
-[s][f 5 14]Talvez eu não saiba muito sobre o NAV,[n]mas ainda posso navegar por vocês no[n]caminho da vitória![n][w][e]
+[s][f 5 14]Posso não saber muito sobre Navi,[n]mas ainda posso guiá-lo[n]para a vitória![n][w][e]
 
 [msg MSG_027_0_0 [Futaba]]
-[s][f 5 14]Vou guiá-lo para qualquer criminoso que[n]você esteja procurando.[n][w][e]
+[s][f 5 14]Vou levá-lo para qualquer[n]criminoso que você está procurando.[n][w][e]
 
 [msg MSG_028_0_0 [Futaba]]
-[s][f 5 14]Mwehehe... você pode confiar em mim![n][w][e]
+[s][f 5 14]Muahahah... Conte comigo![n][w][e]
 
 [msg MSG_029_0_0 [Ryuji]]
-[s][f 5 14][f 5 15]Incrível, cara! Você é muito mais[n]confiável que Mona![n][w][e]
+[s][f 5 14][f 5 15]Irmã mais velha! Você é muito[n]mais confiável do que Mona![n][w][e]
 
 [msg MSG_CHAT_MORUEND_00 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 1 0 0 1 0 0]Droga, Ryuji...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 1 0 0 2 0 0]Você sempre encontra as piores coisas[n]possíveis a dizer![n][f 1 3 65535][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 1 0 0 1 0 0]Droga Ryuji...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 1 0 0 2 0 0]Ele sempre diz a[n]pior coisa possível![n][f 1 3 65535][w][e]
 

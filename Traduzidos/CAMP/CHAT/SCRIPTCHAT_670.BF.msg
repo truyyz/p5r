@@ -1,23 +1,23 @@
 [msg GENERIC_HELP_01]
-[s]Acho que vou gritar: "Eu te amo, Ann[n]Takamaki!" [n][e]
+[s]Acho que vou gritar[n]"Eu te amo, Ann Takamaki!"[n][e]
 
 [msg GENERIC_HELP_02]
-[s]Acho que vou gritar: "Eu te amo, Makoto[n]niijima!" [n][e]
+[s]Acho que vou gritar[n]"Eu te amo, Makoto Niijima!"[n][e]
 
 [msg GENERIC_HELP_03]
-[s]Acho que vou gritar: "Eu te amo, Futaba[n]Sakura!" [n][e]
+[s]Acho que vou gritar[n]"Eu te amo, Futaba Sakura!"[n][e]
 
 [msg GENERIC_HELP_04]
-[s]Acho que vou gritar: "Eu te amo, Haru[n]Okumura!" [n][e]
+[s]Acho que vou gritar[n]"Eu te amo, Haru Okumura!"[n][e]
 
 [msg GENERIC_HELP_05]
-[s]Acho que vou gritar: "Eu te amo, Ryuji[n]Sakamoto!" [n][e]
+[s]Acho que vou gritar[n]"Eu te amo, Ryuji Sakamoto!"[n][e]
 
 [msg GENERIC_HELP_06]
-[s]Acho que vou gritar: "Eu te amo, Yusuke[n]Kitagawa!" [n][e]
+[s]Acho que vou gritar[n]"Eu te amo, Yusuke Kitagawa!"[n][e]
 
 [msg GENERIC_HELP_07]
-[s]Acho que vou gritar: "Eu te amo,[n]Morgana!" [n][e]
+[s]Acho que vou gritar[n]"Eu te amo, Morgana!"[n][e]
 
 [msg MND_000_0_0]
 [s][vp 8 0 0 0 65535 0]O que devo gritar...?[n][f 1 3 65535][w][e]
@@ -32,27 +32,27 @@
 [s]Eu amo Morgana![ref 6 6][e]
 
 [msg MSG_000_0_0 [Ryuji]]
-[s][f 5 14]O que você vai dizer!?[n][f 5 15][w][e]
+[s][f 5 14]O que você vai dizer?!?[n][f 5 15][w][e]
 
 [msg MSG_001_0_0 [Ryuji]]
-[s][f 5 14]Corte, seu idiota![n][w][e]
-[s][f 5 14]Você vai arruinar tudo se disser coisas[n]assim![n][w][e]
-[s][f 5 14]OK? Devolva o [n][f 4 2] Eu sei![n][f 5 15][w][e]
+[s][f 5 14]E pare com isso, idiota![n][w][e]
+[s][f 5 14]Você vai estragar tudo com uma coisa[n]dessas![n][w][e]
+[s][f 5 14]Eu entendi? Devolva-me o[n][f 4 2] que eu sei![n][f 5 15][w][e]
 
 [msg MSG_002_0_0 [Ryuji]]
-[s][f 5 14]Você é estúpido!?[n][w][e]
-[s][f 5 14]Eu não preciso desse rótulo em mim![n]Não poderei voltar aqui amanhã![n][w][e]
-[s][f 5 14]Há algo mais frio que isso?[n][w][e]
-[s][f 5 14]Vamos lá, basta desistir.[n]Por favor![n][f 5 15][w][e]
+[s][f 5 14]Você é burro!?![n][w][e]
+[s][f 5 14]Não preciso dessa atenção![n]E não vou ter coragem de voltar[n]amanhã![n][w][e]
+[s][f 5 14]Pode ser mais frio do que isso?[n][w][e]
+[s][f 5 14]Vamos, acabe com isso.[n]Por favor![n][f 5 15][w][e]
 
 [msg MSG_003_0_0 [Ryuji]]
-[s][f 5 14]Oh, nesse caso- [n][w][e]
-[s][f 5 14]Não, seu idiota![n][w][e]
-[s][f 5 14]Ninguém nos conhece, e esse humor está[n]ficando muito estranho![n][w][e]
-[s][f 5 14]Vamos lá, basta desistir.[n]Por favor![n][f 5 15][w][e]
+[s][f 5 14]Ah, nesse caso...[n][w][e]
+[s][f 5 14]Não, cretino![n][w][e]
+[s][f 5 14]Ninguém nos conhece e as coisas[n]estão tomando um rumo estranho![n][w][e]
+[s][f 5 14]Vamos, acabe com isso.[n]Por favor![n][f 5 15][w][e]
 
 [sel SEL_001 top]
-[s][f 5 14]Eu amo Ann.[e]
+[s][f 5 14]Eu amo a Anne.[e]
 [s]Eu amo Makoto.[e]
 [s]Eu amo Futaba.[e]
 [s]Eu amo Haru.[e]
