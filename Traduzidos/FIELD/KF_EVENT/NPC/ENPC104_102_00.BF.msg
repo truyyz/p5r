@@ -3,20 +3,20 @@
 [s]Não[e]
 
 [msg MSG_E10410200_POLICE_000 [Oficial antipático]]
-[s][f 4 23 1 850 3 10 0 0][vp 8 2 1 0 850 0]O que foi?[n][w][e]
+[s][f 4 23 1 850 3 10 0 0][vp 8 2 1 0 850 0]Pois não?[n][w][e]
 
 [msg MSG_E10410200_POLICE_100 [Oficial antipático]]
 [s][f 4 23 1 850 3 10 0 0][vp 8 2 1 0 850 0]Você precisa de mais alguma coisa?[n][w][e]
 
 [msg MSG_E10410200_POLICE_200 [Oficial antipático]]
-[s][f 4 23 1 850 3 10 0 0][vp 8 2 1 0 850 0]Você novamente. E aí?[n][w][e]
+[s][f 4 23 1 850 3 10 0 0][vp 8 2 1 0 850 0]Você novamente, pode falar?[n][w][e]
 
 [sel SEL_E10410200_POLICE_001 top]
 [s]Preciso de ajuda para achar um local.[e]
 [s]Desculpa, não é nada.[e]
 
 [msg MSG_E10410200_POLICE_002 [Oficial antipático]]
-[s][f 4 23 1 850 3 10 0 0][vp 8 2 1 0 850 0]Hm, você quer chegar a essa[n]casa nesse endereço...?[n][w][e]
+[s][f 4 23 1 850 3 10 0 0][vp 8 2 1 0 850 0]Hm, você quer chegar ir a essa[n]casa nesse endereço...?[n][w][e]
 [s][vp 8 2 1 0 850 0]É em um beco aqui atrás.[n]Pegue a primeira à direita[n]depois daquele prédio com as escadas.[n][w][e]
 
 [msg MSG_E10410200_POLICE_102 [Oficial antipático]]
@@ -55,7 +55,7 @@
 
 [sel SEL_001_0_0 top]
 [s]Interrompi alguma coisa? Eu preciso de[e]
-[s]das indicações.[e]
+[s]informações.[e]
 
 [msg MSG_002_0_0 [Oficial antipático]]
 [s][f 4 23 1 850 3 10 0 0][vp 8 2 1 0 850 0]Tem[n]muitos acidentes[n]estranhos acontecendo ultimamente, então aumentamos[n]a segurança.[n][w][e]
@@ -72,7 +72,7 @@
 [s][f 4 23 1 850 3 10 0 0][vp 8 2 1 0 850 0]E aí? Você esqueceu algo?[n][w][e]
 
 [msg MSG_003_5_0 [Oficial antipático]]
-[s][vp 8 2 1 0 850 0]Para esse endereço, vire à direita[n]imediatamente após o prédio com as escadas.[n]A casa fica no final do beco, eu acho.[n][w][e]
+[s][vp 8 2 1 0 850 0]Para esse endereço, vire à direita[n]depois do prédio com as escadas.[n]A casa fica no final do beco, eu acho.[n][w][e]
 
 [msg MSG_004_0_0 [Oficial antipático]]
 [s][f 4 23 1 850 3 10 0 0][vp 8 2 1 0 850 0]Ei, não ali.[n]Em direção ao supermercado, do outro[n]lado...[n][w][e]
