@@ -71,7 +71,7 @@
 
 [msg MES_GROUP4_02 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 4020 65535 0]Óbvio. Observar a manifestação física[n]da imagem interior[n]dos outros é um luxo sem igual.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Nenhum artista pode alegar ter[n]visto coisas como[n]Personae ou Mementos.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Nenhum artista pode alegar ter[n]visto coisas como[n]Personas  ou Mementos.[n][w][e]
 [s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 42 10 0 10]Seria tolice não usar esta[n]oportunidade para incorporar esses[n]conceitos em uma obra de arte.[n][w][e]
 
 [msg MES_GROUP4_03 [Akechi]]
@@ -131,7 +131,7 @@
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 42 10 0 10]Veja como ele está em forma. Ele tem um físico[n]perfeito! Ao contrário ele que representa.[n][w][e]
 
 [msg MES_GROUP8_01 [Yusuke]]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 3 10 0 10]Personae são a manifestação[n]do coração, certo? A aparência física[n]de Morgana não tem nada a ver com isso.[n][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 3 10 0 10]Personas  são a manifestação[n]do coração, certo? A aparência física[n]de Morgana não tem nada a ver com isso.[n][w][e]
 
 [msg MES_GROUP8_02 [Morgana]]
 [s][bup 0 3 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 4 10 0 10][vp 8 2 1 1048 65535 0]Yusuke está certo! Posso ser[n]pequeno, mas tenho um grande[n]coração! Grande e nobre![n][w][e]

@@ -2,7 +2,7 @@
 [s]Fictício[n][w][e]
 
 [msg CMB00_MSG_001 [Igor]]
-[s][bup 0 201 0 0 0][f 4 10 65535 0 0][vp 1 0 0 5001 0 0]*risos* Não se preocupe. As[n]Personae nascem do eu interior.[n][w][e]
+[s][bup 0 201 0 0 0][f 4 10 65535 0 0][vp 1 0 0 5001 0 0]*risos* Não se preocupe. As[n]Personas  nascem do eu interior.[n][w][e]
 
 [msg CMB00_MSG_002 [Igor]]
 [s][bup 0 201 0 0 0][f 4 10 65535 0 0][vp 1 0 0 5002 0 0]Ao rejeitar sua antiga identidade, você[n]engendra uma nova. Portanto,[n]nós chamamos esse rito de "execução".[n][w][e]
@@ -11,7 +11,7 @@
 [s][bup 0 201 0 0 0][f 4 10 65535 0 0][vp 1 0 0 5003 0 0]Pense nisso como um amálgama[n]de suas Personas.[n][w][e]
 
 [msg CMB00_MSG_004 [Igor]]
-[s][bup 0 201 0 0 0][f 4 10 65535 0 0][vp 1 0 0 5004 0 0]E agora, vamos testar uma[n]verdadeira fusão Personae.[n][w][e]
+[s][bup 0 201 0 0 0][f 4 10 65535 0 0][vp 1 0 0 5004 0 0]E agora, vamos testar uma[n]verdadeira fusão Personas .[n][w][e]
 
 [msg CMB00_MSG_005 [Igor]]
 [s][bup 0 201 0 0 0][f 4 10 65535 0 0][vp 1 0 0 5005 0 0]Para começar, selecione a primeira[n]pessoa que deseja mesclar.[n][w][e]
@@ -23,7 +23,7 @@
 [s][bup 0 201 0 0 0][f 4 10 65535 0 0][vp 1 0 0 5007 0 0]Lembra quando mencionei o[n]valor dos títulos com Confidants?[n][w][e]
 
 [msg CMB00_MSG_008 [Igor]]
-[s][bup 0 201 0 0 0][f 4 10 65535 0 0][vp 1 0 0 5008 0 0]Personae são o poder do coração. Quanto mais[n]fortes forem esses laços, mais fortes serão suas[n]Personas.[n][w][e]
+[s][bup 0 201 0 0 0][f 4 10 65535 0 0][vp 1 0 0 5008 0 0]Personas  são o poder do coração. Quanto mais[n]fortes forem esses laços, mais fortes serão suas[n]Personas.[n][w][e]
 
 [msg CMB00_MSG_015 [Igor]]
 [s][bup 0 201 0 0 0][f 4 10 65535 0 0][vp 1 0 0 5009 0 0]Resumindo, os efeitos de seus vínculos[n]na execução... ou fusão,[n]se preferir, são consideráveis.[n][w][e]
@@ -68,7 +68,7 @@
 [s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 1 0 0 5048 0 0]O mestre ainda não acabou![n]Ouça-o, Prisioneiro![n][w][e]
 
 [msg CMB00_MSG_TUTORIAL_ELECT [Caroline]]
-[s][bup 0 102 0 0 0][f 4 10 65535 0 0]Este ritual permite que você[n]sacrifique Personae e os transforme[n]em itens de alto nível![n][w][e]
+[s][bup 0 102 0 0 0][f 4 10 65535 0 0]Este ritual permite que você[n]sacrifique Personas  e os transforme[n]em itens de alto nível![n][w][e]
 [s][f 4 10 65535 0 0]Você perderá a Persona, mas ganhará[n]itens úteis, como armas e[n]acessórios.[n][w][e]
 [s][f 4 10 65535 0 0]Registraremos os resultados das[n]transmutações no Registro[n]do prisioneiro. Obrigado![n][w][e]
 [s][f 4 10 65535 0 0]Para cada sacrifício, você precisará usar[n]um material especial com algum[n]potencial transmutativo.[n][w][e]
@@ -76,17 +76,17 @@
 [s][f 4 10 65535 0 0]Você também deve encontrá-los em[n]sua realidade, mas não na outra.[n]Faça o seu melhor![n][w][e]
 
 [msg CMB00_MSG_TUTORIAL_ELECT_2 [Lavenza]]
-[s][bup 0 100 0 0 0][f 4 10 65535 0 0]Este ritual permite que você[n]sacrifique Personae e os transforme[n]em itens de alto nível![n][w][e]
+[s][bup 0 100 0 0 0][f 4 10 65535 0 0]Este ritual permite que você[n]sacrifique Personas  e os transforme[n]em itens de alto nível![n][w][e]
 [s][f 4 10 65535 0 0]Você perderá a Persona, mas em troca[n]irá obter itens úteis como[n]armas e acessórios.[n][w][e]
-[s][f 4 10 65535 0 0]Vou registrar cada transmutação[n]no Grimório de Personae.[n]Espero que seja útil.[n][w][e]
+[s][f 4 10 65535 0 0]Vou registrar cada transmutação[n]no Grimório de Personas .[n]Espero que seja útil.[n][w][e]
 [s][f 4 10 65535 0 0]Quando você oferece um sacrifício, você[n]precisa de um material especial[n]que tenha potencial transmutativo.[n][w][e]
 [s][f 4 10 65535 0 0]...Vê-lo em ação será mais útil para você do que[n]a explicação, então vou fornecer-lhe uma para a[n]ocasião.[n][w][e]
 [s][f 4 10 65535 0 0]Você deve ser capaz de encontrar esses[n]materiais em ambas as realidades.[n]Então fique de olho![n][w][e]
 
 [msg CMB00_MSG_CELL_001 [Caroline]]
-[s][bup 0 102 0 0 0][f 4 10 65535 0 0]Se você colocar uma de suas[n]Personae na célula, daremos "atenção[n]especial" para melhorá-la.[n][w][e]
+[s][bup 0 102 0 0 0][f 4 10 65535 0 0]Se você colocar uma de suas[n]Personas  na célula, daremos "atenção[n]especial" para melhorá-la.[n][w][e]
 [s][f 4 10 65535 0 0]No entanto, você só pode bloquear[n]uma pessoa por vez em uma cela.[n][w][e]
-[s][f 4 10 65535 0 0]Além disso, você não poderá explorar[n]Personae bloqueado em batalha ou[n]fusões. Tente se lembrar![n][w][e]
+[s][f 4 10 65535 0 0]Além disso, você não poderá explorar[n]Personas  bloqueado em batalha ou[n]fusões. Tente se lembrar![n][w][e]
 [s][f 4 10 65535 0 0]Com o passar dos dias, sua[n]Persona se fortalecerá e[n]ganhará uma nova resistência.[n][w][e]
 [s][f 4 10 65535 0 0]Mas isso não é tudo... se[n]você queimar incenso, a[n]Pessoa crescerá ainda mais![n][w][e]
 [s][f 4 10 65535 0 0]Se você quiser mais detalhes, terá que[n]perguntar mais tarde. Por enquanto,[n]coloque uma pessoa em isolamento.[n][w][e]
@@ -100,7 +100,7 @@
 [s][f 4 10 65535 0 0]Agora escolha uma Persona para[n]trancar e queimar o incenso![n]Então volte em alguns dias![n][w][e]
 
 [msg CMB00_MSG_CELL_001_L [Lavenza]]
-[s][bup 0 100 0 0 0][f 4 10 65535 0 0]Se você trancar uma de suas[n]Personae em uma cela, nós a submeteremos a[n]treinamento especial de crescimento.[n][w][e]
+[s][bup 0 100 0 0 0][f 4 10 65535 0 0]Se você trancar uma de suas[n]Personas  em uma cela, nós a submeteremos a[n]treinamento especial de crescimento.[n][w][e]
 [s][f 4 10 65535 0 0]No entanto, você só pode bloquear[n]uma pessoa por vez em uma cela.[n][w][e]
 [s][f 4 10 65535 0 0]Lembre-se, Personas bloqueadas[n]não podem ser usadas[n]em batalha ou para fusões.[n][w][e]
 [s][f 4 10 65535 0 0]Com o passar dos dias, sua[n]Persona se fortalecerá e[n]ganhará uma nova resistência.[n][w][e]

@@ -5,7 +5,7 @@
 [s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Umpf... OK, eu aceito.[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Caroline]]
-[s][bup 0 102 1 0 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]No entanto, seu Personae[n]é muito fraco... Não que[n]isso me surpreenda, Prisioneiro.[n][f 1 3 65535][w][e]
+[s][bup 0 102 1 0 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]No entanto, seu Personas [n]é muito fraco... Não que[n]isso me surpreenda, Prisioneiro.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][f 4 24 0 5 0 0 5 100][vp 8 0 0 4 65535 0]Mas acho que você merece[n]pelo menos um pouco de elogio por[n]completo trabalho duro.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][f 4 24 0 5 0 36 3 100][f 4 24 0 5 0 9 3 100][vp 8 0 0 5 65535 0]Talvez você consiga concluir a[n]reabilitação...[n][f 1 3 65535][w][e]
 

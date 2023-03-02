@@ -127,7 +127,7 @@
 
 [msg MSG_032_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 56 65535 0]Bem, a partir de hoje[n]irei com você onde quer que você vá.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 57 65535 0]Personae são a força que[n]brota do coração de um indivíduo.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 57 65535 0]Personas  são a força que[n]brota do coração de um indivíduo.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 58 65535 0]Suas experiências de vida[n]afetarão esse poder também,[n]eu aposto![n][f 1 3 65535][w][e]
 
 [msg MSG_033_0_0 [Morgana]]

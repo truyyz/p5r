@@ -683,7 +683,7 @@
 [s][f 4 10 65535 0 0]Se você tentar criar algo[n]novo, será mais provável[n]que algo dê errado.[n][w][e]
 
 [msg SYS_C10_UNSEI_31_02]
-[s]Só que hoje é mais provável[n]que algo dê errado[n]durante a fusão da Personae.[n][w][e]
+[s]Só que hoje é mais provável[n]que algo dê errado[n]durante a fusão da Personas .[n][w][e]
 
 [msg MSG_C10_UNSEI_31_03 [Chihaya]]
 [s][bup 0 113 0 65535 0][f 4 10 65535 0 0][f 4 23 1 210 14 10 13 10]Se você tentar criar algo[n]novo, será mais provável[n]que algo dê errado.[n][w][e]
@@ -695,7 +695,7 @@
 [s][f 4 10 65535 0 0]Se você criar algo novo,[n]uma qualidade já existente[n]será aprimorada.[n][w][e]
 
 [msg SYS_C10_UNSEI_32_02]
-[s]Só hoje, ao fundir[n]Personae, uma habilidade vai melhorar.[n][w][e]
+[s]Só hoje, ao fundir[n]Personas , uma habilidade vai melhorar.[n][w][e]
 
 [msg MSG_C10_UNSEI_32_03 [Chihaya]]
 [s][bup 0 113 0 65535 0][f 4 10 65535 0 0][f 4 23 1 210 14 10 13 10]Se você criar algo novo,[n]uma qualidade já existente[n]será aprimorada.[n][w][e]
@@ -707,7 +707,7 @@
 [s][f 4 10 65535 0 0]Quando você cria algo novo,[n]alterações ocorrerão.[n][w][e]
 
 [msg SYS_C10_UNSEI_33_02]
-[s]Se você fundir[n]Personae hoje, uma habilidade sofrerá mutação.[n][w][e]
+[s]Se você fundir[n]Personas  hoje, uma habilidade sofrerá mutação.[n][w][e]
 
 [msg MSG_C10_UNSEI_33_03 [Chihaya]]
 [s][bup 0 113 0 65535 0][f 4 10 65535 0 0][f 4 23 1 210 14 10 13 10]Quando você cria algo novo,[n]alterações ocorrerão.[n][w][e]

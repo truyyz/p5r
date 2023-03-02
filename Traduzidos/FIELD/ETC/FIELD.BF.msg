@@ -85,7 +85,7 @@
 
 [msg MSG_QR_HIT]
 [s]Ao passear pela cidade, às vezes você[n]descobrirá [clr 2]códigos QR[clr 27][n]usando o Terceiro Olho.[n][w][e]
-[s]Com esses códigos, você obterá pontos para[n]usar na convocação de Personae[n]no aplicativo "[clr 2]PERSONA O.A.[clr 27]".[n][w][e]
+[s]Com esses códigos, você obterá pontos para[n]usar na convocação de Personas [n]no aplicativo "[clr 2]PERSONA O.A.[clr 27]".[n][w][e]
 [s]Existem até [clr 2]100[clr 27] códigos QR para escanear[n]em lugares diferentes e em datas diferentes.[n][w][e]
 [s]Portanto, ao explorar a cidade, tente[n]usar o Terceiro Olho para encontrá-los.[n][w][e]
 

@@ -132,7 +132,7 @@
 [s][bup 0 7 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 35 10 0 10][vp 8 2 1 3048 65535 0]Ryuji realmente gosta de sua[n]Persona. Quando ele fala sobre isso,[n]ele sempre fica muito orgulhoso.[n][w][e]
 
 [msg MES_GROUP10_01 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 3 10 0 10]Personae refletem a[n]alma de alguém, afinal. É bom[n]que ele goste tanto.[n][w][e]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 3 10 0 10]Personas  refletem a[n]alma de alguém, afinal. É bom[n]que ele goste tanto.[n][w][e]
 
 [msg MES_GROUP10_02 [Futaba]]
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 35 10 0 10][vp 8 2 1 9076 65535 0]Ou você poderia dizer que ele é um grande[n]narcisista.[n][w][e]

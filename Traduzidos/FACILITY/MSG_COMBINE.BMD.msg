@@ -15,10 +15,10 @@
 [s][clr 1][var 0][clr 27]está atualmente em[n]Reclusão. Você não pode fundi-lo[n]quando estiver nesta condição.[n][w][e]
 
 [msg FCL_MSG_COMBINE_STOCK_OV [Igor]]
-[s]Você não pode acolher outras[n]Personae dentro de você.[n][w][e]
+[s]Você não pode acolher outras[n]Personas  dentro de você.[n][w][e]
 
 [msg FCL_MSG_COMBINE_STOCK_EM [Igor]]
-[s]Parece que você não tem[n]Personae para usar na fusão...[n][w][e]
+[s]Parece que você não tem[n]Personas  para usar na fusão...[n][w][e]
 
 [msg FCL_MSG_COMBINE_MONEY [Igor]]
 [s]Oh? Parece que você não[n]tem o dinheiro solicitado...[n][w][e]
@@ -118,7 +118,7 @@
 [s]Esta Persona já tem boost[n]máximo. Escolha outro.[n][w][e]
 
 [msg FCL_MSG_COMBINE_CELL_NOT [Caroline]]
-[s][bup 0 102 0 0 0][f 4 10 65535 0 0]Não seja estúpido.[n]No momento, nenhum de seus[n]Personae está aqui conosco.[n][w][e]
+[s][bup 0 102 0 0 0][f 4 10 65535 0 0]Não seja estúpido.[n]No momento, nenhum de seus[n]Personas  está aqui conosco.[n][w][e]
 
 [msg FCL_MSG_COMBINE_CELL_NOT_2 [Caroline]]
 [s][bup 0 102 0 0 0][f 4 10 65535 0 0]Você não tem incenso para usar.[n][w][e]
@@ -129,7 +129,7 @@
 [sel FCL_MSG_COMBINE_CELL_ITE_2 top]
 [s]Queime um.[e]
 [s]Não, vamos deixar para lá.[e]
-[s]Vamos mudar Personae.[e]
+[s]Vamos mudar Personas .[e]
 
 [msg FCL_MSG_COMBINE_CELL_OVE [Caroline]]
 [s][bup 0 102 0 0 0][f 4 10 65535 0 0][f 2 5 3 9999 0]ainda está queimando.[n]Você quer queimar outro incenso?[n][w][e]
@@ -179,7 +179,7 @@
 
 [msg FCL_MSG_COMBINE_PUB_TUTO [Caroline]]
 [s][bup 0 102 0 0 0][f 4 10 65535 0 0]Em primeiro lugar, escolha uma de[n]suas Personas para fusão![n][w][e]
-[s][f 4 10 65535 0 0]Em seguida, escolha uma das Personae[n]de outro mundo.[n][w][e]
+[s][f 4 10 65535 0 0]Em seguida, escolha uma das Personas [n]de outro mundo.[n][w][e]
 [s][f 4 10 65535 0 0]Nesse ponto, o rest[n]é o mesmo que as outras[n]execuções da guilhotina.[n][w][e]
 [s][f 4 10 65535 0 0]NO ENTANTO, existem habilidades raras[n]que você só pode obter com[n]este ritual. Faça bom uso dele![n][w][e]
 
@@ -205,7 +205,7 @@
 [s]Level too low error (not used)[n][w][e]
 
 [msg FCL_MSG_BOOK_REGIST_HELP [Justine]]
-[s]Mmm, essas Personae parecem[n]diferentes das já registradas.[n][w][e]
+[s]Mmm, essas Personas  parecem[n]diferentes das já registradas.[n][w][e]
 
 [msg FCL_MSG_BOOK_ACCEPTANCE [Justine]]
 [s]Você quer convocar esta Persona?[n]Vai custar [var 0] ienes.[n][w][e]
@@ -226,7 +226,7 @@
 [s]Você não pode controlar esta Pessoa[n]em seu nível atual.[n][w][e]
 
 [msg FCL_MSG_BOOK_MAX [Justine]]
-[s]Você não pode acolher outras[n]Personae dentro de você.[n][w][e]
+[s]Você não pode acolher outras[n]Personas  dentro de você.[n][w][e]
 
 [msg FCL_MSG_BOOK_WRITE [Justine]]
 [s]Como você solicitou, excluí o registro antigo de[n]sua pessoa em favor do novo.[n][w][e]
@@ -385,13 +385,13 @@
 [s][f 4 10 65535 0 0]É um ritual sagrado no qual suas Personas[n]são[n]fundidas para criar uma nova.[n][w][e]
 [s][f 4 10 65535 0 0]É também a morte do seu velho[n]ego, que por sua vez gera[n]um novo estado de existência.[n][w][e]
 [s][f 4 10 65535 0 0]Quando você usa blend, a Person[n]resultante quase sempre será[n]maior que as iniciais.[n][w][e]
-[s][f 4 10 65535 0 0]No entanto, é importante notar[n]que as Personae empregadas[n]na fusão serão perdidas.[n][w][e]
-[s][f 4 10 65535 0 0]É claro que usar múltiplas[n]Personaes para moldar uma[n]irá reduzir seu pool...[n][w][e]
+[s][f 4 10 65535 0 0]No entanto, é importante notar[n]que as Personas  empregadas[n]na fusão serão perdidas.[n][w][e]
+[s][f 4 10 65535 0 0]É claro que usar múltiplas[n]Personas s para moldar uma[n]irá reduzir seu pool...[n][w][e]
 [s][f 4 10 65535 0 0]Portanto, pese cuidadosamente os prós e os[n]contras desse processo...[n][w][e]
 
 [msg msg_combine_HELP001 [Igor]]
 [s][bup 0 201 0 0 0][f 4 10 65535 0 0]Reflita por um momento sobre os[n]Confidentes que lhe oferecem ajuda[n]em sua vida diária…[n][w][e]
-[s][f 4 10 65535 0 0]Esses laços têm uma conexão[n]íntima com as Personae[n]que habitam seu coração.[n][w][e]
+[s][f 4 10 65535 0 0]Esses laços têm uma conexão[n]íntima com as Personas [n]que habitam seu coração.[n][w][e]
 [s][f 4 10 65535 0 0]Uma Persona fundida ganhará grande[n]poder se você estabelecer um vínculo[n]com o Confidente de seu Arcano.[n][w][e]
 [s][f 4 10 65535 0 0]Esse vínculo não apenas lhe dará experiência, mas[n]pode até mesmo aumentá-la imediatamente.[n][w][e]
 [s][f 4 10 65535 0 0]Obviamente, quanto maior a classificação[n]do Confidant, mais experiência a Persona[n]mesclada ganhará.[n][w][e]
@@ -405,7 +405,7 @@
 [s]Lembre-se disso quando participar de um ritual de[n]fusão.[n][w][e]
 
 [msg msg_combine_HELP003 [Igor]]
-[s][bup 0 201 0 0 0]Os "traços" são as capacidades individuais[n]do Personae. Existem vários[n]tipos e com múltiplos efeitos...[n][w][e]
+[s][bup 0 201 0 0 0]Os "traços" são as capacidades individuais[n]do Personas . Existem vários[n]tipos e com múltiplos efeitos...[n][w][e]
 [s]Você pode transmitir uma característica,[n]não mais, durante as fusões.[n]Escolha com cuidado.[n][w][e]
 [s]Em casos raros, as características não podem[n]ser transmitidas, ou no processo[n]novas podem aparecer.[n][w][e]
 [s]Da experiência vem o conhecimento.[n]Com o tempo, você entenderá totalmente[n]a transmissão de características.[n][w][e]
@@ -420,7 +420,7 @@
 [s][bup 0 201 0 0 0][f 4 10 65535 0 0]Personas nascidos de uma fusão[n]podem às vezes herdar algumas[n]habilidades dos originais.[n][w][e]
 [s][f 4 10 65535 0 0]Assim, você pode aproveitar[n]fusões para criar Personas com habilidades[n]impossíveis de aprender de outra forma.[n][w][e]
 [s][f 4 10 65535 0 0]Você mesmo precisará se aprofundar nessas[n]regras, mas ainda há[n]alguns conselhos gerais...[n][w][e]
-[s][f 4 10 65535 0 0]Primeiro, quanto mais habilidades a[n]Personae inicial tiver, mais habilidades[n]podem ser herdadas.[n][w][e]
+[s][f 4 10 65535 0 0]Primeiro, quanto mais habilidades a[n]Personas  inicial tiver, mais habilidades[n]podem ser herdadas.[n][w][e]
 [s][f 4 10 65535 0 0]Além disso, você poderá[n]selecionar livremente[n]quais habilidades transmitir.[n][w][e]
 [s][f 4 10 65535 0 0]No entanto, tenha em mente que[n]existem habilidades que[n]personas fundidas não podem herdar.[n][w][e]
 [s][f 4 10 65535 0 0]Esta informação será vital[n]se você quiser criar Personas poderosas.[n]Tenha isso em mente.[n][w][e]
@@ -439,7 +439,7 @@
 [msg msg_combine_HELP009 [Igor]]
 [s][bup 0 201 0 0 0][f 4 10 65535 0 0]Deixe-me explicar o método[n]fusão do Grupo Guilhotina.[n][w][e]
 [s][f 4 10 65535 0 0]Em vez de escolher as Personas[n]que deseja combinar, você seleciona[n]uma fusão predeterminada.[n][w][e]
-[s][f 4 10 65535 0 0]Cada uma dessas fusões requer[n]três ou mais Personae, mas elas resultam[n]em algo muito especial.[n][w][e]
+[s][f 4 10 65535 0 0]Cada uma dessas fusões requer[n]três ou mais Personas , mas elas resultam[n]em algo muito especial.[n][w][e]
 [s][f 4 10 65535 0 0]As Personas que você receberá são[n]todas, sem exceção,[n]extraordinariamente fortes.[n][w][e]
 [s][f 4 10 65535 0 0]Aconselho-te a aceitar este[n]desafio, para bem da tua[n]reabilitação...[n][w][e]
 
@@ -447,7 +447,7 @@
 [s][bup 0 201 0 0 0][f 4 10 65535 0 0]Além do nosso mundo, existem[n]outros onde inúmeros ladrões[n]enfrentam suas mesmas provações.[n][w][e]
 [s][f 4 10 65535 0 0]Ao cooperar com eles, você pode[n]realizar uma fusão[n]chamada Execução Pública.[n][w][e]
 [s][f 4 10 65535 0 0]Você deve selecionar uma Persona de[n]seu pool e mesclá-la com uma[n]Persona oferecida por outro ladrão.[n][w][e]
-[s][f 4 10 65535 0 0]Mesclar Personae que você não[n]possui tem vantagens[n]claras...[n][w][e]
+[s][f 4 10 65535 0 0]Mesclar Personas  que você não[n]possui tem vantagens[n]claras...[n][w][e]
 [s][f 4 10 65535 0 0]Além disso, algumas habilidades muito[n]poderosas só podem ser obtidas[n]através da Execução Pública.[n][w][e]
 [s][f 4 10 65535 0 0]No entanto, é um ritual muito[n]especial. Por causa disso, ele não pode[n]ser executado repetidamente.[n][w][e]
 [s][f 4 10 65535 0 0]Você só pode realizar uma[n]Execução Pública por dia.[n]Não se esqueça.[n][w][e]
@@ -486,8 +486,8 @@
 [s][f 4 10 65535 0 0]Quanto mais batalhas você enfrentar, mais[n]provável que o alarme soe.[n][w][e]
 [s][f 4 10 65535 0 0]Durante o alarme, a Guillotine[n]melhora as Personas novamente e pode[n]aprender habilidades.[n][w][e]
 [s][f 4 10 65535 0 0]Os efeitos de outras[n]Execuções também foram aprimorados.[n][w][e]
-[s][f 4 10 65535 0 0]Mas cuidado: não convoque[n]Personae apenas para sacrificá-los,[n]abusando do alarme.[n][w][e]
-[s][f 4 10 65535 0 0]Dessa forma, você[n]muitas vezes obteria Personae longe[n]do que você precisa.[n][w][e]
+[s][f 4 10 65535 0 0]Mas cuidado: não convoque[n]Personas  apenas para sacrificá-los,[n]abusando do alarme.[n][w][e]
+[s][f 4 10 65535 0 0]Dessa forma, você[n]muitas vezes obteria Personas  longe[n]do que você precisa.[n][w][e]
 [s][f 4 10 65535 0 0]No entanto... graças a acidentes[n]milagres podem acontecer.[n]Você será capaz de entender seus segredos?[n][w][e]
 [s][f 4 10 65535 0 0]Fale com os guardiões para parar o alarme. Ajude[n]a reabilitação usando-o com sabedoria.[n][w][e]
 
@@ -501,21 +501,21 @@
 [s][f 4 10 65535 0 0]Testemunhe seu[n]esplendor com seus próprios olhos.[n][w][e]
 
 [msg msg_combine_HELP017 [Caroline]]
-[s][bup 0 102 0 0 0][f 4 10 65535 0 0]Se você jogar uma de suas[n]Personae em uma cela, nós a submeteremos a[n]treinamento especial de crescimento.[n][w][e]
+[s][bup 0 102 0 0 0][f 4 10 65535 0 0]Se você jogar uma de suas[n]Personas  em uma cela, nós a submeteremos a[n]treinamento especial de crescimento.[n][w][e]
 [s][f 4 10 65535 0 0]Enquanto você está relaxando,[n]sua Persona ficará mais forte.[n]Você está de bom humor, Prisioneiro![n][w][e]
 [s][f 4 10 65535 0 0]Oh, o Confinamento só pode hospedar uma pessoa[n]por vez. Afinal, é um confinamento solitário.[n][w][e]
 [s][f 4 10 65535 0 0]E, claro, você não poderá usar[n]aquela Persona em batalha ou in[n]fusões. Lembre-se disso, prisioneiro![n][w][e]
 
 [msg msg_combine_HELP018 [Caroline]]
 [s][bup 0 102 0 0 0][f 4 10 65535 0 0]Quando uma pessoa passa um dia na solitária, seu[n]poder aumenta.[n][w][e]
-[s][f 4 10 65535 0 0]Depois de um período de tempo adequado[n]no isolamento, Personae aprende[n]a "superar suas fraquezas".[n][w][e]
+[s][f 4 10 65535 0 0]Depois de um período de tempo adequado[n]no isolamento, Personas  aprende[n]a "superar suas fraquezas".[n][w][e]
 [s][f 4 10 65535 0 0]Quanto maior o Rank do Confidant[n]para o Person Arcanum,[n]mais rápido o crescimento.[n][w][e]
 [s][f 4 10 65535 0 0]Não se esqueça das palavras do Mestre.[n]Os laços com os Confidentes[n]ajudarão na sua reabilitação.[n][w][e]
 
 [msg msg_combine_HELP006 [Caroline]]
 [s][bup 0 102 0 0 0][f 4 10 65535 0 0]No isolamento, você pode olhar para dentro e[n]fortalecer o espírito. Queime incenso e aumente[n]a concentração![n][w][e]
 [s][f 4 10 65535 0 0]O incenso só tem efeito no final[n]do dia. Você só pode gravar[n]um de cada vez, não se esqueça disso.[n][w][e]
-[s][f 4 10 65535 0 0]Terminado um incenso, você pode queimar[n]outro. Então seu Personae[n]ficará muito mais forte.[n][w][e]
+[s][f 4 10 65535 0 0]Terminado um incenso, você pode queimar[n]outro. Então seu Personas [n]ficará muito mais forte.[n][w][e]
 [s][f 4 10 65535 0 0]Você pode encontrar incenso no[n]Metaverso, mas também no[n]mundo real.[n][w][e]
 [s][f 4 10 65535 0 0]Tente estocar, ok?!?[n]Fique atento![n][w][e]
 
@@ -544,7 +544,7 @@
 
 [msg msg_combine_MHELP002 [Justine]]
 [s][bup 0 101 0 0 0][f 4 10 65535 0 0]Embora seja[n]possível convocar uma Persona do[n]Grimorium durante o alarme, você deve fazê-lo com cautela.[n][w][e]
-[s][f 4 10 65535 0 0]O motivo não é claro, mas quanto mais[n]Personae você convocar, mais[n]risco de acidentes de fusão aumenta.[n][w][e]
+[s][f 4 10 65535 0 0]O motivo não é claro, mas quanto mais[n]Personas  você convocar, mais[n]risco de acidentes de fusão aumenta.[n][w][e]
 [s][f 4 10 65535 0 0]Use o Grimoire[n]cuidadosamente durante o Merge Alert.[n][w][e]
 
 [msg combine_conquest_questio [Igor]]
@@ -602,7 +602,7 @@
 [s]Você pode se conectar à rede e[n]mesclar Personas por meio de[n]correspondência aleatória.[n][w][e]
 
 [msg msg_combine_kousyu_a6 [Caroline]]
-[s]Ao sacrificar vários Personae para um único[n]Persona, você pode aumentar suas estatísticas.[n][w][e]
+[s]Ao sacrificar vários Personas  para um único[n]Persona, você pode aumentar suas estatísticas.[n][w][e]
 
 [msg msg_combine_denki_a6 [Caroline]]
 [s]Você só pode executar um Persona[n]e depois transformá-lo em um objeto.[n][w][e]

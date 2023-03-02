@@ -23,7 +23,7 @@
 [msg MSG_BTLSTART_008]
 [s]Quando todos os inimigos estiverem derrotados,[n]você poderá realizar um[n]ataque em grupo chamado Rush.[n][f 1 3 65535][w][e]
 [s]Isso causará dano divino[n]pesado a todos os inimigos.[n][f 1 3 65535][w][e]
-[s]Infligir dano pesado e[n]ganhar Personae são os[n]principais objetivos dos Heists.[n][f 1 3 65535][w][e]
+[s]Infligir dano pesado e[n]ganhar Personas  são os[n]principais objetivos dos Heists.[n][f 1 3 65535][w][e]
 [s]A exploração inteligente das fraquezas do[n]inimigo permitirá que[n]a vitória seja alcançada.[n][f 1 3 65535][w][e]
 
 [msg MSG_BTLSTART_009 [Ryuji]]

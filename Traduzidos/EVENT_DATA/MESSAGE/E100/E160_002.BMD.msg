@@ -34,7 +34,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]...Para isso, devemos[n]sacrificar sua Persona.[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Igor]]
-[s][bup 0 201 0 0 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Hehehe, não se assuste. As[n]Personae são personalidades que[n]habitam em sua interioridade...[n][f 1 3 65535][w][e]
+[s][bup 0 201 0 0 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Hehehe, não se assuste. As[n]Personas  são personalidades que[n]habitam em sua interioridade...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Portanto, você não fará nada além de descartar[n]velhas personalidades para fazê-las[n]renascer como novas.[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Justine]]
@@ -44,6 +44,6 @@
 [s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]Algumas coisas só podem ser ganhas[n]perdendo-as. Essa perda será nova[n]carne renascida dentro de você.[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Igor]]
-[s][bup 0 201 0 0 0][f 4 10 65535 0 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Pense nisso como uma[n]"fusão" de Personae.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Parece que, apropriadamente, você[n]tem alguns Personae com você. Muito[n]bom. Você entenderá melhor observando.[n][f 1 3 65535][w][e]
+[s][bup 0 201 0 0 0][f 4 10 65535 0 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Pense nisso como uma[n]"fusão" de Personas .[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Parece que, apropriadamente, você[n]tem alguns Personas  com você. Muito[n]bom. Você entenderá melhor observando.[n][f 1 3 65535][w][e]
 

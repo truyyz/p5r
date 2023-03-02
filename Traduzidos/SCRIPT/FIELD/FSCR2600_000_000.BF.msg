@@ -66,7 +66,7 @@
 [s][bup 0 102 0 0 0][f 4 23 1 200 3 10 0 10][vp 8 2 1 11103 65535 0]uh...? Você não tem a pessoa que lhe pedimos?[n]Você poderia pelo menos tentar, Prisioneiro.[n][w][e]
 
 [msg MSG_PER_CHK_02_200 [Caroline]]
-[s][bup 0 102 0 0 0][f 4 10 65535 0 0][f 4 23 1 200 3 10 0 10][vp 8 2 1 11093 65535 0]Hum, você nos trouxe outro dos[n]Personae que pedimos.[n][w][e]
+[s][bup 0 102 0 0 0][f 4 10 65535 0 0][f 4 23 1 200 3 10 0 10][vp 8 2 1 11093 65535 0]Hum, você nos trouxe outro dos[n]Personas  que pedimos.[n][w][e]
 
 [msg MSG_PER_CHK_02_201 [Justine]]
 [s][bup 0 101 0 0 0][f 4 23 1 211 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 12090 65535 0]Na verdade, você trouxe um [clr 1]Flauros[clr 27] com[n]a habilidade [clr 1]Tarukaja[clr 27].[n][w][e]
@@ -266,7 +266,7 @@
 [s][bup 0 100 0 0 0][f 4 23 1 211 3 10 0 10][vp 1 0 0 2001 0 0][f 4 10 65535 0 0]Eu acredito que você é o primeiro que[n]salvou meu mestre...[n][w][e]
 
 [msg MSG_LAVENZA_WIN_MIN_1 [Lavenza]]
-[s][bup 0 100 0 0 0][f 4 23 1 211 3 10 0 10][vp 1 0 0 2006 0 0][f 4 10 65535 0 0]Aquele marcador que eu[n]dei a você antes era para o[n]Grimoire of Personae.[n][w][e]
+[s][bup 0 100 0 0 0][f 4 23 1 211 3 10 0 10][vp 1 0 0 2006 0 0][f 4 10 65535 0 0]Aquele marcador que eu[n]dei a você antes era para o[n]Grimoire of Personas .[n][w][e]
 [s][vp 1 0 0 2007 0 0][f 4 10 65535 0 0]Ainda me lembro bem...[n]seu triunfo sobre nós.[n][w][e]
 
 [msg MSG_LAVENZA_WIN_MIN_2 [Lavenza]]

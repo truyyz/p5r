@@ -37,8 +37,8 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Em troca, expandir esse[n]círculo o ajudará a amadurecer.[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Justine]]
-[s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Personae são a[n]força do coração...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]Quanto mais fortes forem os laços com os quais[n]você se cerca, mais poder sua Personae ganhará.[n][f 1 3 65535][w][e]
+[s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Personas  são a[n]força do coração...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]Quanto mais fortes forem os laços com os quais[n]você se cerca, mais poder sua Personas  ganhará.[n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Caroline]]
 [s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 26 65535 0]Tantas pessoas na cidade[n]possuem talentos que carecem[n]de um fraco como você.[n][f 1 3 65535][w][e]

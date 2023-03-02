@@ -34,14 +34,14 @@
 [s][bup 0 9 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 54418 65535 0]Ele Ele. Você está tirando sarro de mim?[n][w][e]
 
 [msg MES_GROUP6_01 [Ryuji]]
-[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 7028 65535 0]Não é justo que ele tenha[n]dois Personae.[n][w][e]
+[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 7028 65535 0]Não é justo que ele tenha[n]dois Personas .[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Você não está com um pouco de ciúme?[n][w][e]
 
 [msg MES_GROUP6_02 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 6081 65535 0]As vezes. Isso é algo que você[n]pode treinar?[n][w][e]
 
 [msg MES_GROUP6_03 [Akechi]]
-[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 51 10 50 10]Personae são parte de sua personalidade, não são?[n]Por que você não tenta agir como o que você não[n]é?[n][w][e]
+[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 51 10 50 10]Personas  são parte de sua personalidade, não são?[n]Por que você não tenta agir como o que você não[n]é?[n][w][e]
 
 [msg MES_GROUP6_04 [Ryuji]]
 [s][bup 0 2 2 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 31 10 0 10][vp 8 2 1 7043 65535 0]Porra, Akechi![n][w][e]
@@ -85,5 +85,5 @@
 
 [msg MES_GROUP9_04 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 0 65535 0]Sim, acho que todos sabíamos a resposta.[n][w][e]
-[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 41 10 0 10][vp 8 2 1 6127 65535 0]Para o bem ou para o mal, eu diria que[n]somos muito sinceros conosco[n]para termos duas Personae.[n][w][e]
+[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 41 10 0 10][vp 8 2 1 6127 65535 0]Para o bem ou para o mal, eu diria que[n]somos muito sinceros conosco[n]para termos duas Personas .[n][w][e]
 

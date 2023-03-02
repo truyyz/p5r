@@ -5,7 +5,7 @@
 [s]Completou [var 1]% de[n]Registro do Prisioneiro.[n][e]
 
 [msg MSG_002]
-[s]Aprimorou um dos Personae[n]protagonistas para o Nível [var 1].[n][e]
+[s]Aprimorou um dos Personas [n]protagonistas para o Nível [var 1].[n][e]
 
 [msg MSG_003]
 [s]Aumentou as estatísticas[n]de uma das Personas[n]do protagonista para o nível 99.[n][e]
@@ -41,7 +41,7 @@
 [s]Você invadiu[n][var 1] vezes.[n][e]
 
 [msg MSG_014]
-[s]Obteve um total de [var 1][n]Personae com negociação.[n][e]
+[s]Obteve um total de [var 1][n]Personas  com negociação.[n][e]
 
 [msg MSG_015]
 [s]Realizou um[n]Golpe Acrobático [var 1] vezes.[n][e]

@@ -1,5 +1,5 @@
 [msg MES_GROUP0_01 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 1019 65535 0]Eu expliquei a todos vocês a natureza[n]do Personae. Você já não[n]esqueceu, Ryuji?[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 1019 65535 0]Eu expliquei a todos vocês a natureza[n]do Personas . Você já não[n]esqueceu, Ryuji?[n][w][e]
 
 [msg MES_GROUP0_02 [Ryuji]]
 [s][bup 0 2 12 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 3 10 0 10]Não seja bobo! Claro que eu sei![n][w][e]

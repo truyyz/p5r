@@ -86,7 +86,7 @@
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas um dia eu gostaria de poder[n]nem deixar[n]me tocar por tais ofensas.[n][f 1 3 65535][w][e]
 
 [msg MSG_016_5_0 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 6155 65535 0]Ei... Personae são[n]o poder do coração, certo?[n][f 1 3 65535][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 6155 65535 0]Ei... Personas  são[n]o poder do coração, certo?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Isso significa que se meu coração fica mais[n]forte, minha Persona também fica mais forte,[n]certo?[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Ann]]
