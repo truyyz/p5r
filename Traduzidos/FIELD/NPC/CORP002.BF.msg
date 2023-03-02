@@ -455,7 +455,7 @@
 
 [msg MSG_C02_YES_02_01 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][f 4 23 1 202 3 10 0 10][vp 8 2 1 2060 65535 0]Obrigada. Ter você perto de mim enquanto estou[n]conversando com ela me fará sentir mais seguro.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Vamos encontrá-la na sala do conselho estudantil.[n]Vou deixar a porta dos fundos aberta para você.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Vamos encontrá-la na sala do conselho estudantil.[n]Vou deixar a porta [n]dos fundos aberta para você.[n][w][e]
 
 [msg MSG_C02_YES_03_00 [Makoto]]
 [s][bup 0 6 3 65535 0][f 4 10 65535 0 0][f 4 23 1 202 3 10 0 10][vp 8 2 1 2199 65535 0]Parece-me que não sei[n]mais nada...[n][w][e]
