@@ -31,7 +31,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Se sim,[n]não há problema.[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Ryuji]]
-[s][bup 0 2 104 65535 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]S-você sabe como ganhar tantos?[n][f 1 3 65535][w][e]
+[s][bup 0 2 104 65535 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]V-você sabe como ganhar tantos?[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Akechi]]
 [s][bup 0 9 100 65535 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Não exatamente. Já temos[n]as moedas solicitadas.[n][f 1 3 65535][w][e]

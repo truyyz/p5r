@@ -37,7 +37,7 @@
 [s][bup 0 105 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Pediram-me para[n]lidar com a situação.[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Guardia della sala interrogatori]]
-[s][vp 8 0 0 10 4 0]L-ela? Mas...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 10 4 0]E-ela? Mas...[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Sae]]
 [s][bup 0 105 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]Você sabe... se você ficar aqui,[n]eles provavelmente irão eliminá-lo[n]para apagar qualquer evidência.[n][f 1 3 65535][w][e]

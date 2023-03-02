@@ -6,7 +6,7 @@
 [s][bup 0 2 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7046 65535 0]O que você disse, bastardo?!?[n][w][e]
 
 [msg e382_240_mes03 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Espero que você esteja pronto. Não gostamos nada[n]do trap.[n][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Espero que você esteja pronto. Não gostamos nada[n]dessa sua armadilha.[n][w][e]
 
 [msg e382_240_mes04 [Ann]]
 [s][bup 0 4 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ele tem razão! Você nunca teve[n]qualquer intenção de nós[n]passarmos pelo labirinto![n][w][e]

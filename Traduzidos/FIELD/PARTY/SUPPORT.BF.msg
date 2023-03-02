@@ -4523,7 +4523,7 @@
 [s][vp 1 0 0 7101 0 0]Argh... Estou quase sem ação...[n][f 1 6 65535][e]
 
 [msg D_DANGER_SP_PC07_mes01]
-[s][vp 1 0 0 7102 0 0]S-Estou um pouco cansado...[n][f 1 6 65535][e]
+[s][vp 1 0 0 7102 0 0]E-Estou um pouco cansado...[n][f 1 6 65535][e]
 
 [msg D_DANGER_SP_PC07_mes02]
 [s][vp 1 0 0 7103 0 0]Minhas energias... não são suficientes...[n][f 1 6 65535][e]

@@ -121,7 +121,7 @@
 [s][vp 8 0 0 0 65535 0]Ei, crianças, o seu[n]chat interno[n]está acontecendo por muito mais tempo?[n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Makoto]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 6 7 300 1][vp 8 2 0 2181 65535 0]C-Com licença. Foi grosseiro[n]ossa parte ficar tanto tempo[n]só pedindo chá...[n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 6 7 300 1][vp 8 2 0 2181 65535 0]D-Desculpe. Foi grosseria[n]de nossa parte ficar tanto tempo[n]só pedindo chá...[n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [Lala Escargot]]
 [s][vp 8 0 0 0 65535 0]Não se preocupe. Assistir[n]à sua comédia sentimental[n]é suficiente como compensação.[n][f 1 3 65535][w][e]

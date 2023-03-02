@@ -212,7 +212,7 @@
 
 [msg MSG_055_0_0 [Makoto]]
 [s][bup 0 6 0 65535 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Sim, ajudou. Acho que posso[n]falar normalmente com Eiko agora.[n][f 1 3 65535][w][e]
-[s][bup 0 6 6 65535 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Acho que f-namorados...[n]um, podem ser...[n]confiáveis...[n][f 1 3 65535][w][e]
+[s][bup 0 6 6 65535 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Acho que n-namorados...[n]um, podem ser...[n]confiáveis...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]......[n][f 1 3 65535][w][e]
 [s][bup 0 6 7 65535 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Oh, hum... Te ligo mais tarde.[n]OK, tchau![n][f 1 3 65535][w][e]
 

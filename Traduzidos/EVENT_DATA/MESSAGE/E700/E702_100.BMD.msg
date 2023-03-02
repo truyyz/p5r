@@ -91,7 +91,7 @@
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 32 65535 0]Em vez disso, estou surpreso por[n]encontrar o significado dos meus estudos...[n]fora dos meus estudos.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 40 65535 0]Agora me sinto capaz de[n]olhar o mundo com novos olhos.[n][f 1 3 65535][w][e]
 [s][bup 0 6 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 33 65535 0][f 4 24 0 4 0 36 5 100]...Obrigado por me ajudar.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 34 65535 0]Deve ter sido difícil[n]babysitting "Miss[n]President Know-It-All"...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 34 65535 0]Deve ter sido difícil tomar[n]conta da Senhora[n]Presidente, né?[n][f 1 3 65535][w][e]
 
 [sel SEL_024_0_0 top]
 [s]Talvez um pouco.[e]

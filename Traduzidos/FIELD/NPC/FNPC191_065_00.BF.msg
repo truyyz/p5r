@@ -227,7 +227,7 @@
 [s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 3179 65535 0]Dr. Maruki… nós estamos[n]fazendo a coisa certa, não estamos?[n][w][e]
 
 [msg SAFETY_MES_HUTABA_04_01 [Futaba]]
-[s][bup 0 8 4 65535 0][f 4 10 65535 0 0][vp 8 2 1 9029 65535 0]U-uau... Om-Sombras por toda parte![n]S-Estou bem, eu...[n][w][e]
+[s][bup 0 8 4 65535 0][f 4 10 65535 0 0][vp 8 2 1 9029 65535 0]U-uau... Om-Sombras por toda parte![n]E-Estou bem, eu...[n][w][e]
 
 [msg SAFETY_MES_HUTABA_05_01 [Futaba]]
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 9137 65535 0]Não importa quão grande[n]este labirinto seja, eu posso ver[n]através dele... eu acho! ... De vez em quando![n][w][e]

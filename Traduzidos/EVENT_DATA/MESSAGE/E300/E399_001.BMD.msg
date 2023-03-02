@@ -1,5 +1,5 @@
 [msg MSG_000_0_0 [Locutor]]
-[s][vp 8 0 0 1 65535 0]Próximas notícias: a[n]eleição repentina da[n]Câmara[n]dos Deputados.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 1 65535 0]Próximas notícias: a[n]eleição repentina da[n]Câmara dos Deputados.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 2 65535 0]O prazo para enviar[n]indicações potenciais está[n]se aproximando em meio a controvérsias.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 3 65535 0]Os indicados serão anunciados no[n]23 deste mês e a votação[n]será realizada no dia 18 do próximo mês.[n][f 1 3 65535][w][e]
 

@@ -134,7 +134,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 50 65535 0]O objetivo é o mesmo...[n]Trazer à luz o mal[n]espreitando nas sombras...[n][f 1 3 65535][w][e]
 
 [msg MSG_032_0_0 [Makoto]]
-[s][bup 0 6 7 65535 0][f 4 10 65535 0 0][vp 8 0 0 51 65535 0]Q-então...aqui...[n][f 1 3 65535][w][e]
+[s][bup 0 6 7 65535 0][f 4 10 65535 0 0][vp 8 0 0 51 65535 0]E-Então...aqui...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 56 65535 0]Hmm...[n][f 1 3 65535][w][e]
 
 [sel SEL_032_5_0 top]

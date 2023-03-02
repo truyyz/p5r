@@ -19,5 +19,5 @@
 [s][bup 0 9 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu confio na sua capacidade.[n][w][e]
 
 [msg D157_009_miniEV_02_mes07 [Ryuji]]
-[s][bup 0 2 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]B-tudo bem, vamos encontrar aquela[n]máquina caça-níqueis legal![n][w][e]
+[s][bup 0 2 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]T-tudo bem, vamos encontrar aquela[n]máquina caça-níqueis legal![n][w][e]
 

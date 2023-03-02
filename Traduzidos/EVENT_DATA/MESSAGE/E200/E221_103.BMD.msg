@@ -27,7 +27,7 @@
 [s][bup 0 6 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Mas... recebemos[n]um pedido de ajuda...[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Diretor]]
-[s][bup 0 204 4 0 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]S-Estou bastante ocupado,[n]no momento. Se você quiser fazer algo,[n]terá que agir por conta própria.[n][f 1 3 65535][w][e]
+[s][bup 0 204 4 0 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]E-Estou bastante ocupado,[n]no momento. Se você quiser fazer algo,[n]terá que agir por conta própria.[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Makoto]]
 [s][f 4 16 6 7 301 1 65535][vp 8 0 0 14 65535 0]...Senhor?!?[n][f 1 3 65535][w][e]

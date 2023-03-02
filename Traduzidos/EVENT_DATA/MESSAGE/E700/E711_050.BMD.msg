@@ -62,7 +62,7 @@
 [s][bup 0 101 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Parece que você estava bastante[n]impaciente para receber as[n]visitas do prisioneiro.[n][f 1 3 65535][w][e]
 
 [msg MSG_015_7_0 [Caroline]]
-[s][bup 0 102 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Isso não importa! S-estou falando[n]sobre a caligrafia de[n]pedidos![n][f 1 3 65535][w][e]
+[s][bup 0 102 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Isso não importa! E-estou falando[n]sobre a caligrafia de[n]pedidos![n][f 1 3 65535][w][e]
 [s][bup 0 102 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Pare de me provocar![n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Justine]]

@@ -2,7 +2,7 @@
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 54442 65535 0]Mesmo jogando em desvantagem,[n]estou surpreso que você[n]ganhou de mim. Você se tornou bom.[n][f 1 3 65535][w][e]
 
 [sel SEL_001_0_0 top]
-[s]È solo (de)merito tuo.[e]
+[s]Isso graças a você.[e]
 [s][f 0 8 2 1 2217]Não tolerarei a derrota.[clr 27][e]
 
 [msg MSG_002_0_0 [Akechi]]

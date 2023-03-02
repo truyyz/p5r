@@ -1,6 +1,6 @@
 [msg MSG_000_0_0 [Akechi]]
 [s][bup 0 9 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 8018 65535 0]Bilhar é um jogo[n]fascinante, não acha?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não basta acertar a bola com o forehand direto.[n]Você tem que ser indireto, mas preciso, para[n]mandá-la para o buraco...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não basta acertar a bola que você está mirando.[n]Você tem que ser indireto, mas preciso, para[n]mandá-la para o buraco...[n][f 1 3 65535][w][e]
 
 [sel SEL_001_0_0 top]
 [s]Sim, é complicado...[e]

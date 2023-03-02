@@ -360,7 +360,7 @@
 [s][bup 0 6 0 65535 0][f 4 23 1 202 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]...Mmm, se você tiver tempo, eu gostaria de falar[n]sobre Eiko.[n][w][e]
 
 [msg MSG_C02_COOP_05_00 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 23 1 202 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 2071 65535 0]Ah, eu conversei com a Eiko e ela[n]me disse que[n]está tudo bem para o namorado dela se sairmos todos juntos.[n][w][e]
+[s][bup 0 6 0 65535 0][f 4 23 1 202 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 2071 65535 0]Ah, eu conversei com a Eiko e ela me disse que[n]está tudo bem para o namorado dela[n]se sairmos todos juntos.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ela me pediu para mostrar a ela sua foto, mas...[n][w][e]
 [s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ele acha você um pouco... manco.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ele me disse que seu Tsukasa[n]vence sem dúvida.[n][w][e]
