@@ -163,7 +163,7 @@
 
 [msg MSG_041_0_0 [Maruki]]
 [s][bup 0 216 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 59 65535 0]...De nada.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 60 65535 0]Você tem princípios morais inquebrantáveis,[n]você nunca perde de vista sua ideia[n]de justiça.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 60 65535 0]Você tem princípios morais inquebráveis,[n]você nunca perde de vista sua ideia[n]de justiça.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 61 65535 0]Estou feliz por ter encontrado[n]um jovem como você.[n][f 1 3 65535][w][e]
 
 [msg MSG_042_0_0 [Maruki]]

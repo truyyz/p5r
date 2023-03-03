@@ -101,7 +101,7 @@
 [s]Eu chamo a polícia.[e]
 
 [msg MSG_020_0_0 [Tsukasa]]
-[s][vp 8 0 0 0 65535 0]L-Como você disse, bastardo...?!?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]O-O que você disse, bastardo...?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Makoto]]
 [s][bup 0 6 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 3 10 6][f 4 2]...[n][f 1 3 65535][w][e]

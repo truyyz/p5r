@@ -360,7 +360,7 @@
 [s][bup 0 6 0 65535 0][f 4 23 1 202 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]...Mmm, se você tiver tempo, eu gostaria de falar[n]sobre Eiko.[n][w][e]
 
 [msg MSG_C02_COOP_05_00 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 23 1 202 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 2071 65535 0]Ah, eu conversei com a Eiko e ela[n]me disse que[n]está tudo bem para o namorado dela se sairmos todos juntos.[n][w][e]
+[s][bup 0 6 0 65535 0][f 4 23 1 202 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 2071 65535 0]Ah, eu conversei com a Eiko e ela me disse que[n]está tudo bem para o namorado dela[n]se sairmos todos juntos.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ela me pediu para mostrar a ela sua foto, mas...[n][w][e]
 [s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ele acha você um pouco... manco.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ele me disse que seu Tsukasa[n]vence sem dúvida.[n][w][e]
@@ -455,7 +455,7 @@
 
 [msg MSG_C02_YES_02_01 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][f 4 23 1 202 3 10 0 10][vp 8 2 1 2060 65535 0]Obrigada. Ter você perto de mim enquanto estou[n]conversando com ela me fará sentir mais seguro.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Vamos encontrá-la na sala do conselho estudantil.[n]Vou deixar a porta dos fundos aberta para você.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Vamos encontrá-la na sala do conselho estudantil.[n]Vou deixar a porta [n]dos fundos aberta para você.[n][w][e]
 
 [msg MSG_C02_YES_03_00 [Makoto]]
 [s][bup 0 6 3 65535 0][f 4 10 65535 0 0][f 4 23 1 202 3 10 0 10][vp 8 2 1 2199 65535 0]Parece-me que não sei[n]mais nada...[n][w][e]

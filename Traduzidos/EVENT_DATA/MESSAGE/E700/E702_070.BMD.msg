@@ -8,7 +8,7 @@
 
 [msg MSG_002_0_0 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu não saberia. Se ele me convidasse para sair[n]com certeza eu contaria a Eiko...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Por enquanto a situação parece bastante normal[n]para mim. Normalmente ele pergunta "km é seu[n]namorado" ou "tudo bem?"[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Por enquanto a situação parece bastante normal[n]para mim. Normalmente ele pergunta "como está[n]seu namorado" ou "tudo bem?"[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Você acha que o relacionamento deles[n]pode ser sério?[n][f 1 3 65535][w][e]
 [s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 38 5 100]Meu medo de que ele só queira[n]o dinheiro de Eiko é motivado[n]apenas por preconceito?[n][f 1 3 65535][w][e]
 

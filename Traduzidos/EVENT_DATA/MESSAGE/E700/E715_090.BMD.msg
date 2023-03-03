@@ -186,7 +186,7 @@
 [s]Estou brincando.[e]
 
 [msg MSG_045_0_0 [Ohya]]
-[s][bup 0 107 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Urgh, n-você não deveria ser[n]tão direto...![n][f 1 3 65535][w][e]
+[s][bup 0 107 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Urgh, v-você não deveria ser[n]tão direto...![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][f 4 24 0 4 0 1 6 100][vp 8 0 0 0 65535 0]M-Mas, eu…um…eu…[n][f 1 3 65535][w][e]
 
 [msg MSG_045_5_0 [Ohya]]

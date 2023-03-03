@@ -7,7 +7,7 @@
 [s][bup 0 6 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 2185 65535 0]S-Sim, um... Sim...[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Tsukasa]]
-[s][vp 8 0 0 0 65535 0]E Quattrocchi-kun é[n]seu namorado, certo?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]O Quatro-Olhos aí é[n]seu namorado, certo?[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]S-Sim...[n][f 1 3 65535][w][e]
@@ -32,7 +32,7 @@
 [s][bup 0 6 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Que diabos! Achei que[n]concordamos em não tocar[n]neste assunto na frente de Eiko![n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Makoto]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 6 1 300 1][vp 8 2 0 2029 65535 0][f 5 13 3 10 6]G-Sim! Ele não gosta que eu esteja muito perto[n]dele...[n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 6 1 300 1][vp 8 2 0 2029 65535 0][f 5 13 3 10 6]C-Certo! Ele não gosta que eu esteja muito[n]perto dele...[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Tsukasa]]
 [s][vp 8 0 0 0 65535 0]Ah, entendi. Seu amor[n]não é comparável[n]ao nosso.[n][f 1 3 65535][w][e]
@@ -59,7 +59,7 @@
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 2198 65535 0]Há algo que eu gostaria de perguntar a você.[n]Suas intenções em relação a Eiko[n]são sérias?[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Tsukasa]]
-[s][vp 8 0 0 0 65535 0]H-Há! Eu só queria saber:[n]quando nosso aluno[n]modelo vai mostrar as cartas?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Aha! Eu estava me perguntando quando[n]nossa aluna de honra mostraria[n] as cartas![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Agora que me lembro, Eiko[n]me disse que você realmente queria[n]me conhecer. Por quê?[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Makoto]]
@@ -67,7 +67,7 @@
 
 [msg MSG_020_0_0 [Tsukasa]]
 [s][vp 8 0 0 0 65535 0]Droga, você realmente se preocupa com[n]seus amigos![n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]Excelente. Como eu sempre digo, amigos[n]são superimportantes etc. etc.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Excelente. Como eu sempre digo, amigos[n]são superimportantes etc.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]E, de fato, os amigos da minha namorada[n]também são meus amigos.[n]Por que você não me dá seu número?[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Makoto]]
@@ -77,7 +77,7 @@
 [s][vp 8 0 0 0 65535 0]E aí? Vá em frente, me dê[n]seu número.[n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Makoto]]
-[s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]II, um...[n][f 1 3 65535][w][e]
+[s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E-Eu, um...[n][f 1 3 65535][w][e]
 
 [sel SEL_023_5_0 top]
 [s]Não insista.[e]
@@ -92,7 +92,7 @@
 [s][bup 0 6 2 65535 0][f 4 10 65535 0 0][vp 8 2 0 2100 65535 0]Eu tenho outra pergunta para você...[n]Você não pretende trazer Eiko[n]para o seu clube, não é?[n][f 1 3 65535][w][e]
 
 [msg MSG_026_0_0 [Tsukasa]]
-[s][vp 8 0 0 0 65535 0]Coisa? Você acha que eu faria[n]coisa assim? Nem por um sonho.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Clube? Você acha que eu faria[n]coisa assim? Nem por um sonho.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]É uma pena que todos pensem que[n]pessoas como eu são apenas[n]caçadores de aventuras.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Meu amor por Eiko é puro como a neve. É a verdade.[n][f 1 3 65535][w][e]
 
@@ -107,7 +107,7 @@
 [s][vp 8 0 0 0 65535 0]Ah, eu tenho que ir também![n][f 1 3 65535][w][e]
 
 [msg MSG_029_5_0 [Eiko]]
-[s][vp 8 0 0 0 65535 0]Hellooo![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Olááá![n][f 1 3 65535][w][e]
 
 [msg MSG_030_0_0 [Makoto]]
 [s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 2128 65535 0]Vamos torcer para que ele não esteja enganando[n]você...[n][f 1 3 65535][w][e]
@@ -130,8 +130,8 @@
 [msg MSG_034_0_0 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O anfitrião já[n]me enviou uma mensagem.[n][f 1 3 65535][w][e]
 [s][bup 0 6 5 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 44 5 100]...O que isso quer dizer?[n]Está cheio de emojis.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]"É iooo, Tsukasa. *emoji de coração*[n]Eu sei que acabamos de nos conhecer, mas[n]nn eu resisti *emoji de telefone*."[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]"Estou feliz por ser seu amigo,[n]MakoC. *emoji clap* *emoji[n]clap* *emoji spa*"[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]"Sou euu, Tsukasa. *emoji de coração*[n]Eu sei que acabamos de nos conhecer, mas[n]nn eu resisti *emoji de telefone*."[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]"Estou feliz por ser seu amigo,[n]MakoC. *clapping emoji* *clapping[n]emoji* *hot springs emoji*"[n][f 1 3 65535][w][e]
 
 [msg MSG_035_0_0 [Makoto]]
 [s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]A mensagem era quase[n]compreensível, mas se eu quiser ajudar[n]Eiko terei que me acostumar...[n][f 1 3 65535][w][e]
@@ -146,5 +146,5 @@
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 2051 65535 0]É melhor irmos também.[n]Se houver alguma novidade, eu aviso.[n][f 1 3 65535][w][e]
 
 [msg MSG_039_0_0 [Makoto]]
-[s][vp 8 2 0 2053 65535 0]Olá.[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 2053 65535 0]Adeus.[n][f 1 3 65535][w][e]
 
