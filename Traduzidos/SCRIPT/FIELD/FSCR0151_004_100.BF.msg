@@ -142,10 +142,10 @@
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Se quisermos voltar,[n]temos que passar por esse cara...[n]Vamos seguir nosso caminho![n][w][e]
 
 [msg D01_04_e159_061_mes01 [Ann]]
-[s][bup 0 4 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6162 65535 0]Eu nunca vi uma Sombra[n]tão trêmula...[n][w][e]
+[s][bup 0 4 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6162 65535 0]Eu nunca vi uma Sombra[n]ficar tão intensa...[n][w][e]
 
 [msg D01_04_e159_061_mes02 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu os chamo de "Ombre[n]sciagura".[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu chamo aqueles assustadores de[n]Sombras do Desastre.[n][w][e]
 
 [msg D01_04_e159_061_mes03 [Ryuji]]
 [s][bup 0 2 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eles são realmente assustadores...[n][w][e]

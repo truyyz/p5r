@@ -5,7 +5,7 @@
 [s][bup 0 3 2 0 0][vp 8 0 2 1003 0 3][f 4 10 65535 0 0]Cuidado. Se meus cálculos estiverem[n]corretos, isso será um pouco[n]problemático.[n][f 1 3 65535][w][e]
 
 [msg MSG_BTLREACTION_003 [Ryuji]]
-[s][bup 0 2 104 0 0][vp 8 0 2 1002 0 2][f 4 10 65535 0 0]Mas o que há de errado com eles? Ele fala consigo[n]mesmo e consigo mesmo, mas... não faz nenhum[n]movimento.[n][f 1 3 65535][w][e]
+[s][bup 0 2 104 0 0][vp 8 0 2 1002 0 2][f 4 10 65535 0 0]O que há com aquele? Está resmungando consigo[n]mesmo, mas... não está fazendo[n]nenhum movimento.[n][f 1 3 65535][w][e]
 
 [msg MSG_BTLREACTION_004 [Ryuji]]
 [s][bup 0 2 102 0 0][vp 8 0 2 1004 0 0][f 4 10 65535 0 0]Tudo bem, então eu cuido disso![n][f 1 3 65535][w][e]
