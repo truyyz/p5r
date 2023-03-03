@@ -72,7 +72,7 @@
 [s][vp 8 0 0 0 65535 0]Pare de olhar para mim e peça![n]Você quer que eu te cutuque com um[n]desses garfos?!? Fale logo![n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Caroline]]
-[s][bup 0 102 4 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]S-Ela se libertou do jugo[n]da opressão...![n][f 1 3 65535][w][e]
+[s][bup 0 102 4 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E-Ela se libertou do jugo[n]da opressão...![n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [Clara]]
 [s][vp 8 0 0 0 65535 0]FORÇA! Pedido! Você quer um menu?[n]Desde que você saiba ler! É[n]assim? As meninas não sabem ler?[n][f 1 3 65535][w][e]

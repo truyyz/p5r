@@ -28,7 +28,7 @@
 [s][vp 8 2 1 46517 65535 0]Que idiota eu fui.[n][w][e]
 
 [msg MSG_QUEST80_BATTLE_AFTER_3 [Ombra di Amasaki]]
-[s][vp 8 2 1 46516 65535 0]G-Sim...[n][w][e]
+[s][vp 8 2 1 46516 65535 0]S-Sim...[n][w][e]
 [s]Eu bati nele com muita força e disse[n]coisas horríveis para meus pais...[n][w][e]
 [s][vp 8 2 1 46517 65535 0]Vou pedir desculpas a todos...[n][w][e]
 

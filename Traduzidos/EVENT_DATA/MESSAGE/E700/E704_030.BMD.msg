@@ -68,7 +68,7 @@
 [s][f 0 8 2 1 2217]Ignore.[clr 27][e]
 
 [msg MSG_015_0_0 [Yusuke]]
-[s][bup 0 5 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]G-Sim...[n][f 1 3 65535][w][e]
+[s][bup 0 5 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]S-Sim...[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Yusuke]]
 [s][bup 0 5 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não... Às vezes é difícil[n]agüentar, mas quem observa[n]tem direito à sua própria opinião...[n][f 1 3 65535][w][e]

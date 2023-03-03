@@ -53,7 +53,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Em que sentido?[n][f 1 3 65535][w][e]
 
 [msg MSG_010_5_0 [Yusuke]]
-[s][bup 0 5 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 5 5 5]...G-sim. Eu estava me perguntando[n]a mesma coisa.[n][f 1 3 65535][w][e]
+[s][bup 0 5 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 5 5 5]...S-sim. Eu estava me perguntando[n]a mesma coisa.[n][f 1 3 65535][w][e]
 
 [msg MSG_010_7_0 [Kawanabe]]
 [s][vp 8 0 0 0 5 0]Com um corpo tão esguio,[n]ele é um modelo perfeito, não acha?[n][f 1 3 65535][w][e]

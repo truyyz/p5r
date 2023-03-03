@@ -11,7 +11,7 @@
 [s][bup 0 7 0 4 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]E como se isso não bastasse, você veio[n]para me salvar... Você realmente é[n]uma pessoa incrível, Joker.[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Haru]]
-[s][bup 0 7 0 4 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]G-Sim...[n][f 1 3 65535][w][e]
+[s][bup 0 7 0 4 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]S-Sim...[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Haru]]
 [s][bup 0 7 3 4 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Dado o que aconteceu[n]à cidade, eu me pergunto[n]e os cidadãos...[n][f 1 3 65535][w][e]

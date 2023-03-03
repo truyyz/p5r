@@ -119,7 +119,7 @@
 
 [msg MSG_027_5_0 [Kawakami]]
 [s][bup 0 109 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Eu nunca[n]poderei mudar.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]G-Sim, haha...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]S-Sim, haha...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]As aulas estão começando.[n]Eu tenho que ir.[n][f 1 3 65535][w][e]
 
 [msg MND_028_0_0]

@@ -1,5 +1,5 @@
 [msg MSG_000_0_0 [Sumire]]
-[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 57053 65535 0]Q-este é[n][f 4 2]-o quarto do senpai...[n][f 1 3 65535][w][e]
+[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 57053 65535 0]E-Este é[n][f 4 2]-o quarto do senpai...[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Sumire]]
 [s][bup 0 10 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Estou muito tenso... O que eu faço?[n][f 1 3 65535][w][e]

@@ -33,7 +33,7 @@
 [s]Exatamente.[e]
 
 [msg MSG_009_0_0 [Chihaya]]
-[s][bup 0 113 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]L-Eu sabia![n][f 1 3 65535][w][e]
+[s][bup 0 113 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]E-Eu sabia![n][f 1 3 65535][w][e]
 [s][bup 0 113 3 65535 0][f 4 10 65535 0 0][f 4 24 0 4 6 38 5 100][vp 8 0 0 13 65535 0]Depois que não nos vimos no[n]dia dos namorados fiquei preocupada...[n][f 1 3 65535][w][e]
 [s][bup 0 113 1 65535 0][f 4 10 65535 0 0][f 4 24 0 4 6 42 3 100][vp 8 0 0 14 65535 0]Talvez tenha sido o destino afinal![n][f 1 3 65535][w][e]
 

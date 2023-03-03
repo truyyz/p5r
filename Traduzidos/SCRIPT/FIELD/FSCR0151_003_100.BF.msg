@@ -20,7 +20,7 @@
 [s][bup 0 2 0 65535 0]Ué, você não viu? Parecia[n]um dos corredores[n]da escola.[n][w][e]
 
 [msg D01_03_e161_330_selA_2_m [Ryuji]]
-[s][bup 0 2 0 65535 0]G-Sim...[n][w][e]
+[s][bup 0 2 0 65535 0]S-Sim...[n][w][e]
 [s]Ver tudo tão distorcido[n]me dá arrepios...[n][w][e]
 
 [msg D01_03_e161_330_mes04 [Morgana]]

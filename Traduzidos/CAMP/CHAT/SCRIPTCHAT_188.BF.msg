@@ -32,7 +32,7 @@
 [s][f 5 14]Mas por que o prédio dele é uma estação[n]espacial…?[n][w][e]
 
 [msg MSG_010_0_0 [Ryuji]]
-[s][f 5 14]G-Sim! Porque seu coração é uma estação[n]espacial![n][w][e]
+[s][f 5 14]S-Sim! Porque seu coração é uma estação[n]espacial![n][w][e]
 
 [msg MSG_011_0_0 [Yusuke]]
 [s][f 5 14]O quê dele? Eu entendo as metáforas,[n]mas... qual é o ponto?[n][w][e]

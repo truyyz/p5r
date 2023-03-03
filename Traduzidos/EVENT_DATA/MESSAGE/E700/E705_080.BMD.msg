@@ -80,7 +80,7 @@
 [s][vp 8 0 0 0 65535 0]Hrgh... Urgh...[n][f 1 3 65535][w][e]
 
 [msg MSG_025_0_0 [Zio di Futaba]]
-[s][vp 8 0 0 0 65535 0]Q-Este é um ataque completo![n]Vou denunciá-lo![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]E-Este é um ataque completo![n]Vou denunciá-lo![n][f 1 3 65535][w][e]
 
 [msg MSG_026_0_0 [Sojiro]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 103 3 300 1][vp 8 2 0 5046 65535 0]Do que você está falando?[n]Você caiu sozinho.[n][f 1 3 65535][w][e]
