@@ -8,7 +8,7 @@
 [s][bup 0 9 800 0 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Você ainda parece estar com dor.[n]Você está bem?[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Kasumi]]
-[s][bup 0 10 105 0 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]S-estou bem![n][f 1 3 65535][w][e]
+[s][bup 0 10 105 0 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]E-estou bem![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]É que... não consigo parar[n]de pensar naquele filme...[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Akechi]]

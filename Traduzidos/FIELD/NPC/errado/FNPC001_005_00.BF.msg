@@ -937,7 +937,7 @@
 
 [msg MSG_HAGEOTOKO_018_3_0 [Donna dall'aspetto giovane]]
 [s][f 4 23 1 9 3 10 0 10][vp 8 2 1 0 9 0]Uau...[n][w][e]
-[s][vp 8 2 1 0 9 0]S-Estou um pouco surpreso, claro,[n]mas eu te amo mesmo assim.[n][w][e]
+[s][vp 8 2 1 0 9 0]E-Estou um pouco surpreso, claro,[n]mas eu te amo mesmo assim.[n][w][e]
 
 [msg MSG_HAGEOTOKO_018_4_0 [Uomo alto]]
 [s][f 4 23 1 6 3 10 0 10][vp 8 2 1 0 6 0]Eu sou baixinha e careca...[n]Mas case comigo, por favor![n][w][e]

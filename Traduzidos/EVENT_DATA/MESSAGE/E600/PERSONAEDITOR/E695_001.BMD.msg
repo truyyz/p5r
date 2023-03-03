@@ -377,7 +377,7 @@
 [s][vp 8 0 0 0 65535 0]Ele é o tipo de líder que[n]nossa nação precisa,[n]especialmente em tempos como estes.[n][f 1 3 65535][w][e]
 
 [msg MSG_098_0_0 [Giovane impiegato]]
-[s][vp 8 0 0 0 65535 0]Shido lidera o movimento[n]"Unite for the Future", certo?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Shido lidera o movimento[n]Futuro Unificado, certo?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Ele estava certo. Se não tivéssemos[n]subestimado os Phantom Thieves,[n]eles já estariam na prisão.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]O que você acha que vai acontecer primeiro?[n]Uma mudança de governo ou a prisão[n]dos Phantom Thieves?[n][f 1 3 65535][w][e]
 

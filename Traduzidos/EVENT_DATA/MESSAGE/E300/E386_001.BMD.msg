@@ -47,7 +47,7 @@
 [s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]Irmã...[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]S-estou do seu lado![n][f 1 3 65535][w][e]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]E-estou do seu lado![n][f 1 3 65535][w][e]
 [s][bup 0 6 5 65535 0][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Eu não vou deixar ninguém[n]te machucar![n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [(SE)新島 真]]

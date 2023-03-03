@@ -14,7 +14,7 @@
 [s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]É uma carta de aviso, não é?[n]Pesquisei na internet.[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Futaba]]
-[s][bup 0 8 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]S-Você entrou no meu quarto[n]sem permissão?[n][f 1 3 65535][w][e]
+[s][bup 0 8 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]V-Você entrou no meu quarto[n]sem permissão?[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Sojiro]]
 [s][bup 0 103 2 0 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Mais tarde eu pedirei desculpas[n]o quanto você quiser.[n][f 1 3 65535][w][e]

@@ -19,7 +19,7 @@
 
 [msg MSG_006_0_0 [Kasumi]]
 [s][bup 0 10 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0][f 4 1]-senpai?!?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]N-Você não é um dublê[n]ou algo assim, é?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]V-Você não é um dublê[n]ou algo assim, é?[n][f 1 3 65535][w][e]
 
 [sel SEL_007_0_0 top]
 [s]Quanto tempo.[e]

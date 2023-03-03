@@ -8,7 +8,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1172 65535 0]Aparentemente, eles foram[n]todos para recuperar informações.[n][w][e]
 
 [msg D07_01_e407_040_mes02 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Não há dúvida... Eu ouço[n]Treasure além desta porta.[n][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Não há dúvida... Eu ouço[n]o tesouro além desta porta.[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Aparentemente, já fizemos[n]Bingo. Vamos contar aos outros![n][w][e]
 
 [msg D07_01_e407_041_mes01 [Morgana]]

@@ -372,7 +372,7 @@
 [s][vp 8 0 2 1061 1 288]Cale a boca... CALA A BOCA![n][f 1 3 65535][w][e]
 
 [msg MSG_SECONDMODE_000_005 [Makoto]]
-[s][bup 0 6 104 65535 0][f 4 10 65535 0 0][vp 8 0 2 1082 0 6]Y-Irmã?!?[n][f 1 3 65535][w][e]
+[s][bup 0 6 104 65535 0][f 4 10 65535 0 0][vp 8 0 2 1082 0 6]I-Irmã?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_SECONDMODE_000_006 [Futaba]]
 [s][bup 0 8 604 65535 0][f 4 10 65535 0 0][vp 8 0 2 1083 0 6]Mas o que...?!?[n][f 1 3 65535][w][e]
@@ -817,7 +817,7 @@
 [s][vp 8 0 2 1117 1 288]EXうるさい黙れぇっ!![n][f 1 3 65535][w][e]
 
 [msg MSG_SECONDMODE_000_005EX [Makoto]]
-[s][bup 0 6 104 65535 0][f 4 10 65535 0 0][vp 8 0 2 1118 0 6]Y-Irmã?!?[n][f 1 3 65535][w][e]
+[s][bup 0 6 104 65535 0][f 4 10 65535 0 0][vp 8 0 2 1118 0 6]I-Irmã?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_SECONDMODE_000_006EX [Futaba]]
 [s][bup 0 8 604 65535 0][f 4 10 65535 0 0][vp 8 0 2 1119 0 6]Mas o que...?!?[n][f 1 3 65535][w][e]

@@ -62,7 +62,7 @@
 [s][bup 0 2 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Melhor não! Dever dinheiro[n]a um cassino absurdo na cabeça de[n]alguém é assustador![n][w][e]
 
 [msg D157_006_miniEV_01_mes21 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Bem... Parados aqui não vamos conseguir nada.[n]Shall ir para o jogo de dados?[n][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Bem... Parados aqui não vamos conseguir nada.[n]Então, devemos ir para o jogo de dados?[n][w][e]
 
 [msg D157_006_miniEV_01_mes22 [Akechi]]
 [s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Na verdade, você se importa se[n]conversarmos primeiro?[n]Tenho algo em mente.[n][w][e]
