@@ -15,7 +15,7 @@
 [s][clr 1][var 0][clr 27][n]parece estar em isolamento.[n][w][e]
 
 [msg FCL_MSG_COMBINE_STOCK_OV [Igor]]
-[s]Parece que você não pode[n]trazer outros Personas  com você...[n][w][e]
+[s]Parece que você não pode[n]trazer outros Personas com você...[n][w][e]
 
 [msg FCL_MSG_COMBINE_STOCK_EM [Igor]]
 [s]No momento você não parece ter Personas [n]suficiente para empregar na fusão...[n][w][e]
@@ -230,7 +230,7 @@
 [s]Peço desculpas, mas duvido[n]que você possa lidar com o poder[n]deste Persona em seu nível.[n][w][e]
 
 [msg FCL_MSG_BOOK_MAX [Lavenza]]
-[s]Eu sinto que acolher mais[n]Personas  em você seria[n]muito difícil no momento…[n][w][e]
+[s]Eu sinto que acolher mais[n]Personas em você seria[n]muito difícil no momento…[n][w][e]
 
 [msg FCL_MSG_BOOK_WRITE [Lavenza]]
 [s]Conforme solicitado, substituí o[n]registro anterior pelo status[n]atual da sua Persona.[n][w][e]
@@ -239,7 +239,7 @@
 [s]Deseja que ele registre[n][clr 1][var 0][clr 27]?[n][w][e]
 
 [msg FCL_MSG_BOOK_WRITE_OK_AL [Lavenza]]
-[s]Você quer que eu registre todas as[n]Personas  em sua posse[n]no Grimório, correto?[n][w][e]
+[s]Você quer que eu registre todas as[n]Personas em sua posse[n]no Grimório, correto?[n][w][e]
 
 [msg FCL_MSG_BOOK_WRITE_OK_MA [Lavenza]]
 [s]Você quer que eu registre todas as[n]Pessoas Selecionadas[n]no Grimório, correto?[n][w][e]
@@ -375,7 +375,7 @@
 
 [msg msg_combine_HELP000 [Igor]]
 [s][bup 0 201 0 0 0][f 4 10 65535 0 0]O maior recurso que podemos[n]oferecer a você é o Persona Fusion.[n][w][e]
-[s][f 4 10 65535 0 0]É um ritual antigo no qual as[n]Personas  em sua posse são[n]combinadas para formar outra.[n][w][e]
+[s][f 4 10 65535 0 0]É um ritual antigo no qual as[n]Personas em sua posse são[n]combinadas para formar outra.[n][w][e]
 [s][f 4 10 65535 0 0]Um ritual que incorpora o nascimento[n]de um novo você e o desempenho[n]de sua existência anterior.[n][w][e]
 [s][f 4 10 65535 0 0]A Persona nascida dessa fusão[n]sem dúvida será mais forte[n]que os originais.[n][w][e]
 [s][f 4 10 65535 0 0]No entanto, qualquer Pessoa sacrificada[n]no ritual será perdida para sempre.[n][w][e]
@@ -411,12 +411,12 @@
 
 [msg msg_combine_HELP005 [Igor]]
 [s][bup 0 201 0 0 0][f 4 10 65535 0 0]Fusion Personas[n]podem herdar certas habilidades[n]das Personas originais.[n][w][e]
-[s][f 4 10 65535 0 0]Em essência, você pode criar[n]Personas  com habilidades que eles[n]não poderiam aprender de outra forma.[n][w][e]
+[s][f 4 10 65535 0 0]Em essência, você pode criar[n]Personas com habilidades que eles[n]não poderiam aprender de outra forma.[n][w][e]
 [s][f 4 10 65535 0 0]A prática ajudará você[n]a entender melhor, mas vou[n]fornecer algumas orientações.[n][w][e]
-[s][f 4 10 65535 0 0]Primeiro, quanto mais habilidades[n]o Personas  original tiver,[n]mais habilidades você poderá transmitir.[n][w][e]
+[s][f 4 10 65535 0 0]Primeiro, quanto mais habilidades[n]o Personas original tiver,[n]mais habilidades você poderá transmitir.[n][w][e]
 [s][f 4 10 65535 0 0]Você terá várias habilidades[n]conteúdo para escolher.[n][w][e]
 [s][f 4 10 65535 0 0]No entanto, esteja ciente de que existem[n]Pessoas e Habilidades que não podem[n]ser entrelaçadas...[n][w][e]
-[s][f 4 10 65535 0 0]Eu aconselho você a não esquecer,[n]se você deseja criar[n]Personas  com poder irreprimível.[n][w][e]
+[s][f 4 10 65535 0 0]Eu aconselho você a não esquecer,[n]se você deseja criar[n]Personas com poder irreprimível.[n][w][e]
 
 [msg msg_combine_HELP007 [Igor]]
 [s][bup 0 201 0 0 0][f 4 10 65535 0 0]Peço desculpas, mas mesmo[n]nosso ritual não é infalível.[n][w][e]
@@ -495,11 +495,11 @@
 [msg msg_combine_HELP017 [Lavenza]]
 [s][bup 0 100 0 0 0][f 4 10 65535 0 0]Você pode decidir enviar suas[n]Pessoas para Isolamento para[n]"treinamento" especial.[n][w][e]
 [s][f 4 10 65535 0 0]No entanto, você só pode enviar[n]uma pessoa para isolamento por vez.[n][w][e]
-[s][f 4 10 65535 0 0]Além disso, Personas  in Isolation[n]não pode ser usado[n]em batalha ou para fusões.[n][w][e]
+[s][f 4 10 65535 0 0]Além disso, Personas in Isolation[n]não pode ser usado[n]em batalha ou para fusões.[n][w][e]
 
 [msg msg_combine_HELP018 [Lavenza]]
 [s][bup 0 100 0 0 0][f 4 10 65535 0 0]Depois de um dia passado em[n]Isolamento, as Personas[n]ficam mais fortes.[n][w][e]
-[s][f 4 10 65535 0 0]Depois de um período de tempo apropriado,[n]Personas  também aprende[n]como "superar suas fraquezas".[n][w][e]
+[s][f 4 10 65535 0 0]Depois de um período de tempo apropriado,[n]Personas também aprende[n]como "superar suas fraquezas".[n][w][e]
 [s][f 4 10 65535 0 0]Quanto mais alto o Grau do Confidente[n]para o Arcano da Pessoa,[n]mais rápido o crescimento.[n][w][e]
 [s][f 4 10 65535 0 0]Ao cultivar o vínculo com os outros[n]você concederá força adicional ao[n]Personas . Não esqueça.[n][w][e]
 
@@ -510,7 +510,7 @@
 [s][f 4 10 65535 0 0]O incenso é encontrado no Metaverso,[n]mas também em seu próprio mundo.[n]Fique atento.[n][w][e]
 
 [msg msg_combine_HELP019 [Lavenza]]
-[s][bup 0 100 0 0 0][f 4 10 65535 0 0]Mesmo quando estão presos, os[n]Personas  fazem parte do seu coração.[n][w][e]
+[s][bup 0 100 0 0 0][f 4 10 65535 0 0]Mesmo quando estão presos, os[n]Personas fazem parte do seu coração.[n][w][e]
 [s][f 4 10 65535 0 0]Deixá-los por muito tempo em[n]isolamento, eles também podem[n]se dissolver.[n][w][e]
 [s][f 4 10 65535 0 0]Antes do desaparecimento, vou avisá-lo[n]uma vez. Se você não intervir,[n]você pagará as consequências.[n][w][e]
 
@@ -532,7 +532,7 @@
 
 [msg msg_combine_MHELP002 [Lavenza]]
 [s][bup 0 100 0 0 0][f 4 10 65535 0 0]Durante o alarme é possível[n]convocar uma Persona do Grimório,[n]mas você deve fazê-lo com cuidado.[n][w][e]
-[s][f 4 10 65535 0 0]O motivo exato é desconhecido, mas a[n]retirada do Personas  parece[n]causar acidentes com frequência.[n][w][e]
+[s][f 4 10 65535 0 0]O motivo exato é desconhecido, mas a[n]retirada do Personas parece[n]causar acidentes com frequência.[n][w][e]
 [s][f 4 10 65535 0 0]Por esta razão, muito cuidado é[n]necessário ao usar o Grimoire[n]durante o Fusion Alert.[n][w][e]
 
 [msg combine_conquest_questio [Igor]]
@@ -589,7 +589,7 @@
 [s]Você pode se conectar à rede e[n]mesclar Personas por meio de[n]correspondência aleatória.[n][w][e]
 
 [msg msg_combine_kousyu_a6 [Lavenza]]
-[s]Ao sacrificar vários Personas  para um único[n]Persona, você pode aumentar suas estatísticas.[n][w][e]
+[s]Ao sacrificar vários Personas para um único[n]Persona, você pode aumentar suas estatísticas.[n][w][e]
 
 [msg msg_combine_denki_a6 [Lavenza]]
 [s]Você só pode executar um Persona[n]e depois transformá-lo em um objeto.[n][w][e]

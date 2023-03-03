@@ -11,7 +11,7 @@
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 7048 65535 0]Bem, um se foi![n]Continue assim, Joker![n][w][e]
 
 [msg SAFE_MES_ryuzi4 [Ryuji]]
-[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 7038 65535 0]Não podemos usar nosso[n]Personas  na forma de mouse, hein...?[n][w][e]
+[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 7038 65535 0]Não podemos usar nosso[n]Personas na forma de mouse, hein...?[n][w][e]
 [s][f 4 10 65535 0 0]Vamos evitar confrontos se[n]cairmos em outra[n]armadilha semelhante, OK?[n][w][e]
 
 [msg SAFE_MES_ryuzi5 [Ryuji]]

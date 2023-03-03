@@ -707,7 +707,7 @@
 [s][f 4 10 65535 0 0]Quando você cria algo novo,[n]alterações ocorrerão.[n][w][e]
 
 [msg SYS_C10_UNSEI_33_02]
-[s]Se você fundir[n]Personas  hoje, uma habilidade sofrerá mutação.[n][w][e]
+[s]Se você fundir[n]Personas hoje, uma habilidade sofrerá mutação.[n][w][e]
 
 [msg MSG_C10_UNSEI_33_03 [Chihaya]]
 [s][bup 0 113 0 65535 0][f 4 10 65535 0 0][f 4 23 1 210 14 10 13 10]Quando você cria algo novo,[n]alterações ocorrerão.[n][w][e]

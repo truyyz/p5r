@@ -41,7 +41,7 @@
 [s]Você invadiu[n][var 1] vezes.[n][e]
 
 [msg MSG_014]
-[s]Obteve um total de [var 1][n]Personas  com negociação.[n][e]
+[s]Obteve um total de [var 1][n]Personas com negociação.[n][e]
 
 [msg MSG_015]
 [s]Realizou um[n]Golpe Acrobático [var 1] vezes.[n][e]

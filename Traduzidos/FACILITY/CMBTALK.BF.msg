@@ -14,7 +14,7 @@
 [s]Seja grato, prisioneiro![n][w][e]
 [s]Explicaremos a fusão para torná-la clara até[n]mesmo para um cretino como você.[n][w][e]
 [s]Assim, a fusão é um ritual no qual você[n]mata seu velho eu[n]para gerar um novo.[n][w][e]
-[s]Essencialmente, você executará várias[n]Personas  para criar uma[n]nova com o sangue deles.[n][w][e]
+[s]Essencialmente, você executará várias[n]Personas para criar uma[n]nova com o sangue deles.[n][w][e]
 
 [msg msg_cmbtalk_syokei_1st_2 [Justine]]
 [s]Cada Pessoa pertence a um[n]Arcanum, que rege as[n]combinações e o resultado final.[n][w][e]

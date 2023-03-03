@@ -10,7 +10,7 @@
 
 [msg MSG_003_0_0 [Justine]]
 [s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]É um ritual onde você seleciona uma[n]Persona de outro Ladrão e[n]combina-os para seu benefício.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Ouvimos dizer que alguns[n]poderes especiais de Personas  podem[n]ser obtidos apenas dessa maneira.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Ouvimos dizer que alguns[n]poderes especiais de Personas podem[n]ser obtidos apenas dessa maneira.[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Caroline]]
 [s][bup 0 102 2 0 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Só depende de você fazer bom uso dele[n]ou não! É melhor trabalhar duro,[n]Prisioneiro![n][f 1 3 65535][w][e]

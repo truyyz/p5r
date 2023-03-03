@@ -41,7 +41,7 @@
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 6081 65535 0]As vezes. Isso é algo que você[n]pode treinar?[n][w][e]
 
 [msg MES_GROUP6_03 [Akechi]]
-[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 51 10 50 10]Personas  são parte de sua personalidade, não são?[n]Por que você não tenta agir como o que você não[n]é?[n][w][e]
+[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 51 10 50 10]Personas são parte de sua personalidade, não são?[n]Por que você não tenta agir como o que você não[n]é?[n][w][e]
 
 [msg MES_GROUP6_04 [Ryuji]]
 [s][bup 0 2 2 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 31 10 0 10][vp 8 2 1 7043 65535 0]Porra, Akechi![n][w][e]

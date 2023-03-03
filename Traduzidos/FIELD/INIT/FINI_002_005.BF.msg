@@ -33,7 +33,7 @@
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][f 4 23 1 3 3 5 11 5][vp 8 0 1 5 65535 0]Não subestime o perigo[n]daquele lugar. Devemos nos preparar.[n][f 1 3 65535][w][e]
 
 [msg KAMOSHIDA_FIRST_mes05 [Ryuji]]
-[s][bup 0 2 2 65535 0][f 4 10 65535 0 0][f 4 23 1 2 3 5 11 5][vp 8 0 1 6 65535 0]Essas Personas  não são suficientes para lidar com[n]o assunto?[n][f 1 3 65535][w][e]
+[s][bup 0 2 2 65535 0][f 4 10 65535 0 0][f 4 23 1 2 3 5 11 5][vp 8 0 1 6 65535 0]Essas Personas não são suficientes para lidar com[n]o assunto?[n][f 1 3 65535][w][e]
 
 [msg KAMOSHIDA_FIRST_mes06 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][f 4 23 1 3 3 5 11 5][vp 8 0 1 7 65535 0]Isso é exatamente o que quero dizer quando digo[n]não subestime isso. Lá dentro, um erro pode ser[n]fatal.[n][f 1 3 65535][w][e]

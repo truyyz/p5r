@@ -205,7 +205,7 @@
 [msg MSG_VELVET_TUTORIAL_09 [Justine]]
 [s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 2 1 12069 65535 0]As Sombras do Palácio retornam à sua forma[n]natural durante a batalha para liberar seu poder.[n][w][e]
 [s][f 4 10 65535 0 0]Não muda sua forma,[n]quanto mais a aparência[n]que eles tinham antes é distorcida.[n][w][e]
-[s][f 4 10 65535 0 0]Suas formas naturais se parecem com[n]Personas  porque há[n]diferença entre elas.[n][w][e]
+[s][f 4 10 65535 0 0]Suas formas naturais se parecem com[n]Personas porque há[n]diferença entre elas.[n][w][e]
 [s][f 4 10 65535 0 0]Eles aparecem como deuses e demônios devido[n]às imagens culturais de poder[n]compartilhadas pela humanidade em geral.[n][w][e]
 
 [msg MSG_VELVET_TUTORIAL_10 [Justine]]
@@ -273,7 +273,7 @@
 
 [msg MSG_Discount_025_01 [Justine]]
 [s][bup 0 101 0 0 0][f 4 10 65535 0 0]Você chegou...[n]Tenho que te contar uma coisa.[n][w][e]
-[s][f 4 10 65535 0 0]Graças aos seus esforços diários, o número de[n]Personas  no Registro do Prisioneiro aumentou.[n][w][e]
+[s][f 4 10 65535 0 0]Graças aos seus esforços diários, o número de[n]Personas no Registro do Prisioneiro aumentou.[n][w][e]
 [s][f 4 10 65535 0 0]Nosso mestre está satisfeito com sua reabilitação[n]e concedeu a você um privilégio especial.[n][w][e]
 
 [msg MSG_Discount_025_02 [Caroline]]
@@ -285,7 +285,7 @@
 
 [msg MSG_Discount_Lav_100_01 [Lavenza]]
 [s][bup 0 100 4 0 0][f 4 10 65535 0 0]E se...?[n][w][e]
-[s][f 4 10 65535 0 0]Cada página do Personas  Grimoire[n]está cheia.[n][w][e]
+[s][f 4 10 65535 0 0]Cada página do Personas Grimoire[n]está cheia.[n][w][e]
 [s][bup 0 100 1 0 0][f 4 10 65535 0 0]Maravilhoso...[n][w][e]
 [s][f 4 10 65535 0 0]Como habitante desta Sala,[n]é meu maior prazer ver[n]o Grimório completo.[n][w][e]
 [s][f 4 10 65535 0 0]Desejo expressar todo o[n]meu respeito por seus[n]esforços, que quero recompensar.[n][w][e]
@@ -299,7 +299,7 @@
 [s][f 4 10 65535 0 0]Para mostrar o respeito que[n]seu esforço merece, deixe-me[n]oferecer-lhe uma recompensa.[n][w][e]
 [s][f 4 10 65535 0 0]O desconto para retirar Personas[n]do Grimório agora[n]será ainda maior.[n][w][e]
 [s][f 4 10 65535 0 0]Talvez você seja capaz de[n]preencher este Grimório,[n]um dia.[n][w][e]
-[s][f 4 10 65535 0 0]Seu inimigo é aquele deus do mal.[n]Treine Personas  como quiser.[n]Você nunca está preparado demais.[n][w][e]
+[s][f 4 10 65535 0 0]Seu inimigo é aquele deus do mal.[n]Treine Personas como quiser.[n]Você nunca está preparado demais.[n][w][e]
 [s][f 4 10 65535 0 0]Lembre-se disso.[n][w][e]
 
 [msg MSG_Discount_Lav_050_01 [Lavenza]]
@@ -307,8 +307,8 @@
 [s][f 4 10 65535 0 0]Aparentemente, preenchi metade[n]as páginas do meu Grimório[n]de Personas.[n][w][e]
 [s][f 4 10 65535 0 0]Deixe-me conceder-lhe uma recompensa por seus[n]esforços.[n][w][e]
 [s][f 4 10 65535 0 0]A partir de agora, o desconto para remover[n]Pessoas do Grimório[n]será maior.[n][w][e]
-[s][f 4 10 65535 0 0]Se você registrar outra[n]Personas  no Grimório, eu[n]irei conceder a você mais benefícios.[n][w][e]
-[s][f 4 10 65535 0 0]Seu inimigo é aquele deus do mal.[n]Treine Personas  como quiser.[n]Você nunca está preparado demais.[n][w][e]
+[s][f 4 10 65535 0 0]Se você registrar outra[n]Personas no Grimório, eu[n]irei conceder a você mais benefícios.[n][w][e]
+[s][f 4 10 65535 0 0]Seu inimigo é aquele deus do mal.[n]Treine Personas como quiser.[n]Você nunca está preparado demais.[n][w][e]
 [s][f 4 10 65535 0 0]Lembre-se disso.[n][w][e]
 
 [msg MSG_Discount_Lav_025_01 [Lavenza]]
@@ -316,13 +316,13 @@
 [s][f 4 10 65535 0 0]Só agora percebo quantos Personas [n]estão neste Grimório.[n][w][e]
 [s][f 4 10 65535 0 0]Deixe-me conceder-lhe uma recompensa por seus[n]esforços.[n][w][e]
 [s][f 4 10 65535 0 0]A partir de agora, você terá um desconto[n]na retirada de Personas[n]do Grimório.[n][w][e]
-[s][f 4 10 65535 0 0]Se você registrar outra[n]Personas  no Grimório, eu[n]irei conceder a você mais benefícios.[n][w][e]
-[s][f 4 10 65535 0 0]Seu inimigo é aquele deus do mal.[n]Treine Personas  como quiser.[n]Você nunca está preparado demais.[n][w][e]
+[s][f 4 10 65535 0 0]Se você registrar outra[n]Personas no Grimório, eu[n]irei conceder a você mais benefícios.[n][w][e]
+[s][f 4 10 65535 0 0]Seu inimigo é aquele deus do mal.[n]Treine Personas como quiser.[n]Você nunca está preparado demais.[n][w][e]
 [s][f 4 10 65535 0 0]Lembre-se disso.[n][w][e]
 
 [msg MSG_Discount_Lav_100_R1 [Lavenza]]
 [s][bup 0 100 4 0 0][f 4 10 65535 0 0]E se...?[n][w][e]
-[s][f 4 10 65535 0 0]Cada página do Personas  Grimoire[n]está cheia.[n][w][e]
+[s][f 4 10 65535 0 0]Cada página do Personas Grimoire[n]está cheia.[n][w][e]
 [s][bup 0 100 1 0 0][f 4 10 65535 0 0]Maravilhoso...[n][w][e]
 [s][f 4 10 65535 0 0]Como habitante desta Sala,[n]é meu maior prazer ver[n]o Grimório completo.[n][w][e]
 [s][f 4 10 65535 0 0]Desejo expressar todo o[n]meu respeito por seus[n]esforços, que quero recompensar.[n][w][e]
@@ -343,7 +343,7 @@
 [s][f 4 10 65535 0 0]Aparentemente, preenchi metade[n]as páginas do meu Grimório[n]de Personas.[n][w][e]
 [s][f 4 10 65535 0 0]Deixe-me conceder-lhe uma recompensa por seus[n]esforços.[n][w][e]
 [s][f 4 10 65535 0 0]A partir de agora, o desconto para remover[n]Pessoas do Grimório[n]será maior.[n][w][e]
-[s][f 4 10 65535 0 0]Se você registrar outra[n]Personas  no Grimório, eu[n]irei conceder a você mais benefícios.[n][w][e]
+[s][f 4 10 65535 0 0]Se você registrar outra[n]Personas no Grimório, eu[n]irei conceder a você mais benefícios.[n][w][e]
 [s][f 4 10 65535 0 0]Libertar o poder de realização[n]não será fácil. Para vencer, você precisa[n]temperar mais suas Personas.[n][w][e]
 [s][f 4 10 65535 0 0]Lembre-se disso.[n][w][e]
 
@@ -352,7 +352,7 @@
 [s][f 4 10 65535 0 0]Só agora percebo quantos Personas [n]estão neste Grimório.[n][w][e]
 [s][f 4 10 65535 0 0]Deixe-me conceder-lhe uma recompensa por seus[n]esforços.[n][w][e]
 [s][f 4 10 65535 0 0]A partir de agora, você terá um desconto[n]na retirada de Personas[n]do Grimório.[n][w][e]
-[s][f 4 10 65535 0 0]Se você registrar outra[n]Personas  no Grimório, eu[n]irei conceder a você mais benefícios.[n][w][e]
+[s][f 4 10 65535 0 0]Se você registrar outra[n]Personas no Grimório, eu[n]irei conceder a você mais benefícios.[n][w][e]
 [s][f 4 10 65535 0 0]Libertar o poder de realização[n]não será fácil. Para vencer, você precisa[n]temperar mais suas Personas.[n][w][e]
 [s][f 4 10 65535 0 0]Lembre-se disso.[n][w][e]
 

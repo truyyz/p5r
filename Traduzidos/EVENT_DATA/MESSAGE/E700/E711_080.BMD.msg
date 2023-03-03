@@ -92,7 +92,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você obterá acesso[n]ao amplificador guilhotina.[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Caroline]]
-[s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]É uma forma de aumentar[n]o número de Personas  obtidos[n]com o grupo Guillotine.[n][f 1 3 65535][w][e]
+[s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]É uma forma de aumentar[n]o número de Personas obtidos[n]com o grupo Guillotine.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Além disso, agora você pode realizar[n]fusões muito poderosas com[n]cinco ou seis Personas.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Com um pouco de esforço você deve[n]entender, Prisioneiro. Afinal,[n]você chegou até aqui, certo?[n][f 1 3 65535][w][e]
 
