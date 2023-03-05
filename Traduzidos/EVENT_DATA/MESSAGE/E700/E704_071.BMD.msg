@@ -53,7 +53,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Em que sentido?[n][f 1 3 65535][w][e]
 
 [msg MSG_010_5_0 [Yusuke]]
-[s][bup 0 5 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 5 5 5]...G-sim. Eu estava me perguntando[n]a mesma coisa.[n][f 1 3 65535][w][e]
+[s][bup 0 5 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 5 5 5]...S-sim. Eu estava me perguntando[n]a mesma coisa.[n][f 1 3 65535][w][e]
 
 [msg MSG_010_7_0 [Kawanabe]]
 [s][vp 8 0 0 0 5 0]Com um corpo tão esguio,[n]ele é um modelo perfeito, não acha?[n][f 1 3 65535][w][e]
@@ -102,7 +102,7 @@
 [msg MSG_021_0_0 [Kawanabe]]
 [s][vp 8 0 0 0 5 0]Oh sim? Então eu tenho apenas[n]a oportunidade certa para você.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 5 0]A fundação organizará em breve um[n]concurso nacional para[n]jovens artistas.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 5 0]Nosso apoio está em jogo.[n]Connoisseurs de todo o país[n]virão conhecer o vencedor.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 5 0]Nosso apoio está em jogo.[n]Os clientes de todo o país[n]virão conhecer o vencedor.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 5 0]Caso você queira participar,[n]a pressão seria enorme.[n]Mas talvez você esteja com muito medo...[n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Yusuke]]

@@ -269,7 +269,7 @@
 [s](ハルがÇ子の裏から登場するシーン)[n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_ADD_HARU_EP_03 [Haru Okumura cognitiva]]
-[s][vp 8 0 2 1050 1 609]Sim, padre![n][f 1 3 65535][w][e]
+[s][vp 8 0 2 1050 1 609]Sim, pai![n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_ADD_HARU_EP_03B [Haru]]
 [s][bup 0 7 104 65535 0][f 4 10 65535 0 0][vp 8 0 2 1051 0 7]Huh?!? II?!?[n][f 1 3 65535][w][e]

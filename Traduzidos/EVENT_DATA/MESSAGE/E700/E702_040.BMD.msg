@@ -52,7 +52,7 @@
 
 [msg MSG_011_0_0 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 2193 65535 0]Mas desde que entrei para os[n]Phantom Thieves, tudo mudou.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Percebi que existem[n]coisas mais importantes na vida do que ser um(a) aluno modelo sem culpa.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Percebi que existem coisas mais importantes na vida[n]do que ser um estudante modelo sem culpa.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Para dizer a verdade, no passado eu desprezaria o[n]modo de pensar de Eiko, mas agora...[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Makoto]]
@@ -87,7 +87,7 @@
 [msg MSG_014_0_0 [Makoto]]
 [s][bup 0 6 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 2195 65535 0]Quando criança, eu dizia a ele que queria[n]ser policial,[n]igual a ele.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ele ficou feliz em ouvir isso de mim, mas[n]definitivamente não queria[n]que eu corresse tais riscos.[n][f 1 3 65535][w][e]
-[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Para falar a verdade, eu tinha[n]esquecido[n]completamente[n]desse desejo meu...[n][f 1 3 65535][w][e]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Para falar a verdade, eu tinha[n]esquecido completamente desse[n]desejo meu...[n][f 1 3 65535][w][e]
 
 [sel SEL_015_0_0 top]
 [s]Você ainda tem esse sonho?[e]

@@ -121,7 +121,7 @@
 [s][vp 8 0 0 0 6 0]Investir em jovens artistas promissores como[n]você, Yusuke-kun, é o meu trabalho.[n][f 1 3 65535][w][e]
 
 [msg MSG_030_0_0 [Yusuke]]
-[s][bup 0 5 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 4135 65535 0]Akio Kawanabe... Diretor da[n]Japan Foundation for[n]Support for the Arts...?[n][f 1 3 65535][w][e]
+[s][bup 0 5 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 4135 65535 0]Akio Kawanabe... Diretor da[n]Fundação Japonesa para[n]o Apoio às Artes...?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas... por que ele está se dirigindo a mim?[n]Ele me criticou tão duramente,[n]na exposição...[n][f 1 3 65535][w][e]
 
 [msg MSG_031_0_0 [Kawanabe]]
@@ -131,7 +131,7 @@
 [s][vp 8 0 0 0 6 0]Tenho alguns negócios para resolver hoje,[n]mas espero ter notícias suas o mais[n]breve.[n][f 1 3 65535][w][e]
 
 [msg MSG_032_0_0 [Yusuke]]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 4088 65535 0]The Japan Foundation[n]for the Support of the Arts...[n][f 1 3 65535][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 4088 65535 0]Fundação Japonesa para[n]o Apoio às Artes...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Finalmente[n]minha chance chegou...[n][f 1 3 65535][w][e]
 
 [msg MSG_033_0_0 [Yusuke]]

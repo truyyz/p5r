@@ -97,7 +97,7 @@
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Essa coisa não é minha mãe.[n]Ela era mais gentil,[n]e MUITO mais bonita.[n][w][e]
 
 [msg MES_GROUP7_03 [Sojiro]]
-[s][bup 0 103 5 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 3 10 0 10]G-Sim...[n][w][e]
+[s][bup 0 103 5 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 3 10 0 10]S-Sim...[n][w][e]
 [s][bup 0 103 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 5099 65535 0]É claro. O Wakaba que eu conheço era cem vezes[n]melhor que este.[n][w][e]
 
 [msg MES_GROUP8_01 [Kawakami]]

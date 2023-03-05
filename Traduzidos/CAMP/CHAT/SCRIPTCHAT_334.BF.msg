@@ -27,6 +27,6 @@
 [s][f 5 14][f 5 15]É melhor nos encontrarmos no ponto de[n]encontro depois da escola.[n][w][e]
 
 [msg MSG_CHAT_MORUEND_00 [Morgana]]
-[s][bup 0 3 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]Parece que Haru é[n]althing… de alguma forma.[n][f 1 3 65535][w][e]
+[s][bup 0 3 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]Parece que Haru está[n]conseguindo… de alguma forma.[n][f 1 3 65535][w][e]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Tudo bem, então vamos nos encontrar[n]todos depois da escola.[n][f 1 3 65535][w][e]
 

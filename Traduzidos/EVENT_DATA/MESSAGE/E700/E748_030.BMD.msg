@@ -36,7 +36,7 @@
 
 [msg MSG_011_0_0 [Presentatore dello spettacolo]]
 [s][vp 8 0 0 21 65535 0]Hmm... Onde está "esse cara"?[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 23 65535 0]Eu não consigo ver! Oh, vabbeh![n]Você, loirinha, suba no palco![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 23 65535 0]Eu não consigo ver! Enfim![n]Você, loirinha, suba no palco![n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Ryuji]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 7 301 1][vp 8 0 0 24 65535 0]O quê?!?[n][f 1 3 65535][w][e]
@@ -202,7 +202,7 @@
 [s][vp 8 0 0 63 65535 0]Sério?[n][f 1 3 65535][w][e]
 
 [msg MSG_057_0_0 [Presentatore dello spettacolo]]
-[s][vp 8 0 0 51 65535 0]Vabbeh, acho que termina aqui! Vamos passar para[n]a próxima pessoa, certo?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 51 65535 0]Enfim, acho que termina aqui! Vamos passar para[n]a próxima pessoa, certo?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 67 65535 0]Vamos todos dar[n]uma grande salva de palmas![n][f 1 3 65535][w][e]
 
 [msg MSG_058_0_0 [(SE)秀尽学園生徒]]

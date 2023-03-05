@@ -170,7 +170,7 @@
 [s][vp 1 0 0 0 0 0]Deve ser uma farsa![n]Ladrões Fantasmas não[n]são assim...[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_1014_3]
-[s][vp 1 0 0 0 0 0]Eles têm que suportar esse treinamento duro todos[n]os dias? Sinto um pouco de pena deles...[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Eles têm que suportar esse treinamento[n]duro todos os dias? Sinto um pouco[n]de pena deles...[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_1014_4]
 [s][vp 1 0 0 0 0 0]Eu acredito em Thieves[n]Phantom! Eles[n]nunca...[n][f 1 3 65535][w][e]
@@ -185,7 +185,7 @@
 [s][vp 1 0 0 0 0 0]Ela é tão sortuda. É como se[n]suas pontuações nos testes[n]não importassem.[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_1017_3]
-[s][vp 1 0 0 0 0 0]Eu me pergunto se eles realmente frequentam[n]nossa escola...[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Eu me pergunto se eles realmente[n]frequentam nossa escola...[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_1017_4]
 [s][vp 1 0 0 0 0 0]Os professores mudaram[n]completamente sua opinião sobre o[n]aluno modelo...[n][f 1 3 65535][w][e]

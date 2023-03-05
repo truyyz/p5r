@@ -2037,7 +2037,7 @@
 [s]Hã? Isso fede para mim. Você[n]está tentando me ferrar, hein?[n][w][e]
 
 [msg TalkMsg_CHARM_TECH_PERSO]
-[s]G-Sim, foi minha culpa.[n]Acho que vou te perdoar.[n][w][e]
+[s]S-Sim, foi minha culpa.[n]Acho que vou te perdoar.[n][w][e]
 
 [msg TalkMsg_BONUS_CARD]
 [s]Se eu lhe der algo em troca, você me perdoará?[n]Pois então, pegue![n][w][e]

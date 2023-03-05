@@ -606,7 +606,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Me desculpe, eu roubei tanto[n]tempo de você. Até breve.[n][f 1 3 65535][w][e]
 
 [msg MSG_154_0_0 [Yusuke]]
-[s][bup 0 5 0 65535 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 2]Obrigado por me ajudar tanto hoje. Percebi[n]minha falta de experiência.[n][f 1 3 65535][w][e]
+[s][bup 0 5 0 65535 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 2], obrigado por me ajudar tanto hoje. Percebi[n]minha falta de experiência.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Parece que no fundo eu não[n]sei nada sobre o amor.[n][f 1 3 65535][w][e]
 
 [msg MSG_155_0_0 [Yusuke]]
@@ -3989,7 +3989,7 @@
 [s][bup 0 106 1 65535 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Então vamos lá... vamos nos comprometer[n]com nossos objetivos.[n]Até breve.[n][f 1 3 65535][w][e]
 
 [msg MSG_1008_0_0 [Hifumi]]
-[s][bup 0 106 0 65535 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Preparar? Eu sou Hifumi.[n][f 1 3 65535][w][e]
+[s][bup 0 106 0 65535 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Alô, é a Hifumi.[n][f 1 3 65535][w][e]
 
 [msg MSG_1009_0_0 [Hifumi]]
 [s][bup 0 106 1 65535 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Obrigado por me acompanhar[n]hoje. Eu precisava me distrair.[n][f 1 3 65535][w][e]

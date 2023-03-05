@@ -192,7 +192,7 @@
 [s][bup 0 9 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 65 65535 0]Oh, vocês estão todos aqui.[n][f 1 3 65535][w][e]
 
 [msg MSG_063_0_0 [Makoto]]
-[s][bup 0 6 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 66 65535 0]L-Mas a reunião[n]é amanhã...[n][f 1 3 65535][w][e]
+[s][bup 0 6 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 66 65535 0]M-Mas a reunião[n]é amanhã...[n][f 1 3 65535][w][e]
 
 [msg MSG_064_0_0 [Akechi]]
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 67 65535 0]Eu vim dar uma olhada[n]no lugar. Não tem como errar,[n]vendo quantas pessoas estarão lá.[n][f 1 3 65535][w][e]

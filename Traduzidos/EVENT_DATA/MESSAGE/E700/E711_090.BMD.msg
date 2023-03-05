@@ -12,7 +12,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu não sei como dizer isso... mas apesar de[n]estarmos tão próximos,[n]não nos conhecemos.[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Justine]]
-[s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Percebemos que um[n]compensa[n]perfeitamente[n]os defeitos do outro...[n][f 1 3 65535][w][e]
+[s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Percebemos que um compensa[n]perfeitamente os defeitos[n]do outro...[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Caroline]]
 [s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 2 0 11020 65535 0]Acho que nunca tive uma conversa tão profunda[n]antes.[n][f 1 3 65535][w][e]

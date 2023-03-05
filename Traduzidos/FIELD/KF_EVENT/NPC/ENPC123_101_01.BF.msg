@@ -24,7 +24,7 @@
 [s][bup 0 111 505 65535 0][f 4 10 65535 0 0][vp 8 2 1 19027 853 0]Você precisava de mais alguma coisa?[n][w][e]
 
 [msg MSG_006_0_0 [Studente educato]]
-[s][bup 0 111 503 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 853 0]G-Sim...[n][w][e]
+[s][bup 0 111 503 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 853 0]S-Sim...[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 853 0]Eu... hum, desculpe, mas eu tenho que ir[n]para o clube da escola...[n][w][e]
 
 [msg MSG_E12310100_MISHIMA_gr]

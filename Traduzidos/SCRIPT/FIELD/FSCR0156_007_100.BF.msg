@@ -2,7 +2,7 @@
 [s][bup 0 4 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 1 0 0]É realmente uma fábrica, como o nome sugere. Quem[n]sabe o que eles produzem aqui...[n][w][e]
 
 [msg D05_02_e341_061_mes02 [Futaba]]
-[s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 2 0 0]Você acha que tem a ver com[n]aquele "Escape to Utopia"?[n][w][e]
+[s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 2 0 0]Você acha que tem a ver com[n]aquele "Fuga para a Utopia"?[n][w][e]
 
 [msg D05_02_e341_061_mes03 [Ryuji]]
 [s][bup 0 2 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 3 0 0]Um momento. Não parece que todos eles[n]se movem de forma estranha?[n][w][e]

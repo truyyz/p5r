@@ -113,7 +113,7 @@
 [s][bup 0 5 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 5 10 5]Coisa? Essa feiúra[n]me faria amadurecer...?[n][f 1 3 65535][w][e]
 
 [msg MSG_036_0_0 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 7035 65535 0][f 4 2]ele está certo.[n][f 1 3 65535][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 7035 65535 0][f 4 2] está certo, cara.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não há nada de errado em fazer[n]o que se pode para[n]ganhar a vida.[n][f 1 3 65535][w][e]
 
 [msg MSG_037_0_0 [Ann]]

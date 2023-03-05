@@ -1246,7 +1246,7 @@
 [s][f 4 23 1 81 3 10 0 10][vp 8 2 1 0 81 0]Aquele professor tem um esmagamento alucinante.[n]Ei, é sempre assim? Isso não é um pouco[n]assustador?[n][w][e]
 
 [msg MSG_VALLEY_NPC02_1_0 [Pallavolista]]
-[s][f 4 23 1 80 3 10 0 10][vp 8 2 1 0 80 0]G-Sim. Mas só até[n]você se acostumar com isso ...[n][w][e]
+[s][f 4 23 1 80 3 10 0 10][vp 8 2 1 0 80 0]S-Sim. Mas só até[n]você se acostumar com isso ...[n][w][e]
 
 [msg MSG_VALLEY_NPC02_2_0 [Studentessa in divisa sportiva]]
 [s][f 4 23 1 81 3 10 0 10][vp 8 2 1 0 81 0]Mas os jogadores de vôlei sempre se machucam[n]assim? Cara, isso deve ser difícil para vocês.[n][w][e]

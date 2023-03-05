@@ -7,7 +7,7 @@
 [s]Você não está perdido?[e]
 
 [msg MSG_002_0_0 [Futaba]]
-[s][bup 0 8 6 65535 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]G-Sim...[n][f 1 3 65535][w][e]
+[s][bup 0 8 6 65535 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]S-Sim...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Hoje é um dia especial, hein...[n]estou mais nervoso do que de costume.[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Futaba]]

@@ -110,7 +110,7 @@
 [s][vp 8 0 0 0 9 0]Hum...por que você está interessado?[n]O que você pretende fazer?[n][f 1 3 65535][w][e]
 
 [msg MSG_026_0_0 [Chihaya]]
-[s][bup 0 113 2 65535 0][f 4 10 65535 0 0][vp 8 2 0 10044 65535 0]G-Sim! O que você vai fazer[n]com tão pouca informação...?[n][f 1 3 65535][w][e]
+[s][bup 0 113 2 65535 0][f 4 10 65535 0 0][vp 8 2 0 10044 65535 0]S-Sim! O que você vai fazer[n]com tão pouca informação...?[n][f 1 3 65535][w][e]
 
 [sel SEL_027_0_0 top]
 [s]Eu vou mudar o destino.[e]

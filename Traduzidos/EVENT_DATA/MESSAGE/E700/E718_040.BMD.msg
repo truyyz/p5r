@@ -10,7 +10,7 @@
 
 [msg MSG_002_0_0 [Mishima]]
 [s][bup 0 111 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 19 10 1011]Sério? Carne é perfeita[n]para caras durões como nós![n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]De qualquer forma, este lugar é um[n]all-you-can-eat, então vamos[n]garantir que seja um dinheiro bem gasto.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]De qualquer forma, este lugar é um[n] restaurante buffet, então vamos[n]garantir que seja um dinheiro bem gasto.[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Mishima]]
 [s][bup 0 111 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Isso mesmo, um corpo saudável é tudo[n]para um Phantom Thief...[n]É melhor você tomar cuidado com isso.[n][f 1 3 65535][w][e]

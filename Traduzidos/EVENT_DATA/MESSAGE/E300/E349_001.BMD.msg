@@ -27,7 +27,7 @@
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 7 1 301 1][vp 8 0 0 9 65535 0]Bem, vamos começar![n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Yusuke]]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Os snapdragons dois milímetros[n]à esquerda, por favor...[n][f 1 3 65535][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Os snapdragons devem ir dois milímetros[n]à esquerda, por favor...[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Ann]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 4 7 300 1][vp 8 0 0 11 65535 0]Você pode me dizer o que muda?[n][f 1 3 65535][w][e]
