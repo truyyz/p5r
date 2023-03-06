@@ -82,7 +82,7 @@
 [s][vp 8 0 0 0 65535 0]Você verá tudo o que[n]aconteceu aqui hoje.[n][f 1 3 65535][w][e]
 
 [msg MND_019_5_0]
-[s][vp 8 0 0 0 65535 0]Não quero estar aqui quando os[n]investigadores virem o vídeo[n]mim com aquela medalha de ouro...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Não quero estar aqui quando os[n]detetives virem a minha filmagem[n]com aquela medalha de ouro...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Eu deveria sair...[n][f 1 3 65535][w][e]
 
 [msg MSG_019_7_0 [Detective volgare]]

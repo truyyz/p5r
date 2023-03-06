@@ -47,7 +47,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]...Uh, eu meio que invejo ele.[n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Ryuji]]
-[s][bup 0 2 0 2 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]Você é pego.[n][f 1 3 65535][w][e]
+[s][bup 0 2 0 2 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]Até mais.[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Mishima]]
 [s][bup 0 111 1 2 0][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]Oh espere! Saka... Hahahaha![n][f 1 3 65535][w][e]

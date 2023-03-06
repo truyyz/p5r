@@ -1462,7 +1462,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 1 13 65535 0]De qualquer forma, estou feliz por você[n]ter atendido.[n][w][e]
 
 [msg fev0410_06_mes03 [Sojiro]]
-[s][bup 0 103 600 0 1][f 4 10 65535 0 0][vp 8 0 1 14 65535 0]De qualquer forma, eu vou deixar[n]a placa da [clr 2]loja[clr 27]por sua conta.[n][w][e]
+[s][bup 0 103 600 0 1][f 4 10 65535 0 0][vp 8 0 1 14 65535 0]De qualquer forma, eu vou deixar[n]a placa da [clr 2]loja[clr 27] por sua conta.[n][w][e]
 
 [msg fev0410_06_mes04]
 [s][vp 1 0 0 0 0 0]Ele quer que eu vire a placa[n]na porta da frente.[n][w][e]

@@ -25,7 +25,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Não pense que alguém vai[n]simpatizar com você...[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Sojiro]]
-[s][bup 0 103 603 0 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Se as coias são assim lá,[n]as pessoas podem começar a falar mal[n]de mim também no futuro...[n][f 1 3 65535][w][e]
+[s][bup 0 103 603 0 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Se as coisas são assim lá,[n]as pessoas podem começar a falar mal[n]de mim também no futuro...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Que tipo de jovem problemático[n]eu tenho em casa...[n][f 1 3 65535][w][e]
 
 [sel SEL_008_0_0 top]

@@ -25,7 +25,7 @@
 [s][bup 0 204 0 0 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Ele é o único responsável[n]por suas ações.[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Kawakami]]
-[s][bup 0 109 3 0 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Sim, mas por que eu...?[n]Deve ter havido alguns[n]candidatos melhores.[n][f 1 3 65535][w][e]
+[s][bup 0 109 3 0 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Sim, mas por que eu...?[n]Deve ter tido alguns[n]candidatos melhores.[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Diretor]]
 [s][bup 0 204 3 0 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Foi uma[n]transferência repentina, e sua turma era[n]a única com vaga disponível.[n][f 1 3 65535][w][e]
@@ -39,7 +39,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Não o faça criar[n]nenhum problema quando ele estiver fora...[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Sojiro]]
-[s][bup 0 103 500 65535 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Bem, eu definitivamente vou dar a ele um bom[n]discurso sobre a situação[n]ele está.[n][f 1 3 65535][w][e]
+[s][bup 0 103 500 65535 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Bem, eu definitivamente vou dar a ele um bom[n]discurso sobre a situação[n]em que ele está.[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [(SE)川上 貞代]]
 [s][vp 8 0 0 19 65535 0](ため息)[n][f 1 3 65535][w][e]

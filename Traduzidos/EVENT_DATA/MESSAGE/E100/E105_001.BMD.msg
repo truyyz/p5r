@@ -92,7 +92,7 @@
 [s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 0 0 33 4 0]Você defendeu uma mulher de um homem que queria[n]estuprá-la, ele se machucou e processou você.[n]Certo?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 35 4 0]Isso é o que acontece quando você mete o nariz em[n]questões entre adultos. E aí você machucou ele,[n]né?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 36 4 0]E agora que você tem antecedentes[n]criminais... você foi expulso[n]da sua escola.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 37 4 0]O tribunal ordenaram que você se transferisse[n]e mudasse para cá, o que seus pais[n]também concordaram.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 37 4 0]Os tribunais ordenou que você se transferisse[n]e se mudasse para cá, o que seus pais[n]também aprovaram.[n][f 1 3 65535][w][e]
 
 [msg MSG_029_0_0 [Sojiro]]
 [s][bup 0 103 1 0 0][f 4 10 65535 0 0][vp 8 0 0 38 4 0]Em outras palavras, eles se livraram de você[n]porque você é um pé no saco.[n][f 1 3 65535][w][e]
