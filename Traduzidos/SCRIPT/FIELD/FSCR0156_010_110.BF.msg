@@ -5,7 +5,7 @@
 [s][bup 0 8 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ooooh, é um OVNI![n][w][e]
 
 [msg D05_03_e343_001_mes03 [Morgana]]
-[s][bup 0 3 4 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]É por acaso... o Frisbee Skull[n]estava falando? É isto,[n]que eles estão construindo?[n][w][e]
+[s][bup 0 3 4 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Isso é... o frisbee que o Skull[n]estava falando? É isto que[n]eles estão construindo?[n][w][e]
 
 [msg D05_03_e343_001_mes04 [Altoparlante]]
 [s]A sequência de lançamento do SS Utopia[n]começará no Estaleiro[n]em breve.[n][w][e]
@@ -15,7 +15,7 @@
 [s][bup 0 4 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6183 65535 0]A Utopia SS?!?[n][w][e]
 
 [msg D05_03_e343_001_mes06 [Makoto]]
-[s][bup 0 6 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Projeto: Escape to Utopia...[n]Então é disso que se trata.[n][w][e]
+[s][bup 0 6 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Projeto: Fuga Para a Utopia...[n]Então é disso que se trata.[n][w][e]
 
 [msg D05_03_e343_001_mes07 [Haru]]
 [s][bup 0 7 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 3178 65535 0]Meu pai disse que[n]entraria na política...[n][w][e]

@@ -14,7 +14,7 @@
 [s][f 5 14]Ao fazer isso, o núcleo distorcido[n]de desejos do[n]senhor do Palácio assumirá forma física.[n][w][e]
 
 [msg MSG_005_0_0 [Akechi]]
-[s][f 5 14]Ao tomar este núcleo, ocorrerá o despertar do coração.[n][w][e]
+[s][f 5 14]Ao tomar este núcleo, o coração será despertado.[n][w][e]
 
 [msg MSG_006_0_0 [Akechi]]
 [s][f 5 14]Acho que essas serão as etapas, certo?[n][w][e]

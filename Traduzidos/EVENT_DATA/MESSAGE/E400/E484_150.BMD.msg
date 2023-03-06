@@ -3,7 +3,7 @@
 
 [sel SEL_009_0_0 top]
 [s]Não há nada que possamos fazer.[e]
-[s]Talvez devêssemos perguntar a ele novamente.[n][e]
+[s]Talvez devêssemos perguntá-la denovo.[n][e]
 
 [msg MSG_010_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1020 65535 0]Sim, não devemos insistir.[n][f 1 3 65535][w][e]

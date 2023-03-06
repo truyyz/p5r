@@ -102,7 +102,7 @@
 [msg MSG_021_0_0 [Kawanabe]]
 [s][vp 8 0 0 0 5 0]Oh sim? Então eu tenho apenas[n]a oportunidade certa para você.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 5 0]A fundação organizará em breve um[n]concurso nacional para[n]jovens artistas.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 5 0]Nosso apoio está em jogo.[n]Connoisseurs de todo o país[n]virão conhecer o vencedor.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 5 0]Nosso apoio está em jogo.[n]Os clientes de todo o país[n]virão conhecer o vencedor.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 5 0]Caso você queira participar,[n]a pressão seria enorme.[n]Mas talvez você esteja com muito medo...[n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Yusuke]]

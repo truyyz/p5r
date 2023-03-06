@@ -106,7 +106,7 @@
 [s]Por que, você quer desistir?[e]
 
 [msg MSG_024_0_0 [Yusuke]]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 5 10 5]...Direita. Se eu não confiar em[n]minhas habilidades, nunca[n]conseguirei nada.[n][f 1 3 65535][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 5 10 5]...De fato. Se eu não confiar em[n]minhas habilidades, nunca[n]conseguirei nada.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Hmm...[n][f 1 3 65535][w][e]
 
 [msg MSG_025_0_0 [Yusuke]]

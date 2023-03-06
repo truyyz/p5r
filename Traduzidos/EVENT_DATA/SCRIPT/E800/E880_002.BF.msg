@@ -254,7 +254,7 @@
 [s][vp 1 0 0 0 0 0]Esses pôsteres com as[n]cartas de desafio se tornaram[n]itens de colecionador![n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_1013_1]
-[s][vp 1 0 0 0 0 0]Não me diga que foram os Ladrões Fantasmas que[n]fizeram isso com Okumura...[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Não me diga que foram os Ladrões[n]Fantasmas que fizeram isso[n]com Okumura...[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_1013_2]
 [s][vp 1 0 0 0 0 0]Eles são heróis! Eles[n]nunca fariam isso![n][f 1 3 65535][w][e]

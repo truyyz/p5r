@@ -236,7 +236,7 @@
 
 [msg MSG_074_0_0 [Akechi]]
 [s][bup 0 9 1 2 0][f 4 10 65535 0 0][vp 8 0 0 97 65535 0]Aguardarei ansiosamente[n]sua resposta.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 98 65535 0]Definitivamente valeu[n]a pena[n]vir aqui hoje...[n]por muitas razões.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 98 65535 0]Definitivamente valeu a pena[n]vir aqui hoje...[n]por muitas razões.[n][f 1 3 65535][w][e]
 
 [msg MSG_075_0_0 [Akechi]]
 [s][bup 0 9 0 2 0][f 4 10 65535 0 0][vp 8 0 0 99 65535 0]Devemos voltar, no entanto.[n][f 1 3 65535][w][e]

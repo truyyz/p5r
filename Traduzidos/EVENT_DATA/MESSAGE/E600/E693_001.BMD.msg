@@ -37,7 +37,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu gostaria de falar um pouco sobre a viagem... E[n]eu quero que você me fale sobre o Havaí![n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]É claro! Começo com todos os feitos[n]heróicos que eu fiz e o que[n]fiz pelo povo do Havaí?[n][f 1 3 65535][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]É claro! Devo começar com todos os[n]feitos heróicos que eu e ele fizemos[n]pelo povo do Havaí?[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Kasumi]]
 [s][bup 0 10 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 57026 65535 0]Hum... Sim, isso parece ótimo![n][f 1 3 65535][w][e]
