@@ -15,7 +15,7 @@
 [s][f 5 14]Uau, estou dentro! E você,[n][f 4 2]?[n][f 5 15][w][e]
 
 [msg MSG_101_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]O que você quer fazer? Você quer namorar[n]com Lady Ann e Ryuji?[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]O que você quer fazer? Você quer sair[n]com Lady Ann e Ryuji?[n][f 1 3 65535][w][e]
 
 [sel SEL_111_0_0 top]
 [s]Aceitar[e]

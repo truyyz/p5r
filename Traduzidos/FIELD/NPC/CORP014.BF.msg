@@ -75,14 +75,14 @@
 
 [msg MSG_C14_PRECOOP_20_07 [Prof. Chouno]]
 [s][bup 0 304 0 0 0][f 4 10 65535 0 0][f 4 23 1 264 3 10 0 10][vp 8 2 1 0 65535 0]Então você dá aulas particulares[n]fora do horário escolar, né?[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Que dedicação![n]Você é o professor ideal![n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Um professor tão entusiasmado[n]é exatamente o que precisamos.[n]Desculpe se suspeitei de você.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Que dedicação![n]Você é a professora ideal![n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Uma professora tão entusiasmada[n]é exatamente o que precisamos.[n]Desculpe se suspeitei de você.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Bem, então...[n]Bom trabalho para vocês dois.[n][w][e]
 
 [msg MSG_C14_PRECOOP_20_08 [Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][f 4 23 1 214 3 10 0 10][vp 8 2 1 15090 65535 0]Parece que ela[n]se convenceu...[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Bem, isso serviu para dissipar as suspeitas dela,[n]então... Obrigado.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Você pode me seguir[n]um momento?[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Bem, isso serviu para dissipar as suspeitas dela,[n]então... Obrigada.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Você pode vir comigo[n]um momento?[n][w][e]
 
 [msg MSG_C14_PRECOOP_20_09 [Kawakami]]
 [s][bup 0 109 3 0 0][f 4 10 65535 0 0][f 4 23 1 214 3 10 0 10][vp 8 2 1 0 65535 0]Não posso falar dessas coisas na escola...[n][w][e]

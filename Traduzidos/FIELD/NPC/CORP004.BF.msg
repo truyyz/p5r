@@ -466,7 +466,7 @@
 [s]Eu tenho um vínculo sólido[n]com Yusuke...[n][w][e]
 
 [msg MSG_COOP_CHECK_DUNGEON [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Fazer uma pausa de vez em quando é bom para você.[n]Você quer namorar com Yusuke?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Fazer uma pausa de vez em quando é bom para você.[n]Você quer sair com Yusuke?[n][w][e]
 
 [msg MSG_COOP_CHECK_DAY [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Então, o que você decidiu? Você vai passar[n]tempo com Yusuke?[n][w][e]

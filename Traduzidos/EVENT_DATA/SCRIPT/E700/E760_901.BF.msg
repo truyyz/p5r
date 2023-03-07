@@ -28,7 +28,7 @@
 [s][bup 0 109 603 0 0][f 4 10 65535 0 0][vp 8 2 0 15146 65535 0]Uma massagem para um aluno meu...[n]Não é nada estranho,[n]mas se descobrirmos...[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Kawakami]]
-[s][bup 0 109 600 0 0][f 4 10 65535 0 0][vp 8 2 0 15147 65535 0]Oh, você está bem em forma,[n]apesar de sua aparência.[n]As roupas vão fazer você parecer mais magra.[n][f 1 3 65535][w][e]
+[s][bup 0 109 600 0 0][f 4 10 65535 0 0][vp 8 2 0 15147 65535 0]Oh, você está bem em forma,[n]apesar de sua aparência.[n]As suas roupas fazem você parecer mais magro.[n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Kawakami]]
 [s][bup 0 109 601 0 0][f 4 10 65535 0 0][vp 8 2 0 15146 65535 0]Oh, pressionando aqui[n]você deve sentir uma dor aguda.[n][f 1 3 65535][w][e]
@@ -44,7 +44,7 @@
 [s][vp 8 2 0 0 65535 0]Eu me sinto muito mais leve.[n]O cansaço que eu havia acumulado[n]desapareceu completamente...[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Kawakami]]
-[s][bup 0 109 601 0 0][f 4 10 65535 0 0][vp 8 2 0 15069 65535 0]Fiuuu... Isso deveria ir...[n][f 1 3 65535][w][e]
+[s][bup 0 109 601 0 0][f 4 10 65535 0 0][vp 8 2 0 15069 65535 0]Ufa... Isso deve bastar...[n][f 1 3 65535][w][e]
 
 [msg MND_018_0_0]
 [s][vp 8 2 0 0 65535 0]Eu sinto meu corpo muito[n]mais leve... eu posso me mover[n]com muita facilidade...[n][f 1 3 65535][w][e]

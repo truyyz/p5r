@@ -12,7 +12,7 @@
 [s][vp 1 0 0 0 0 0]Agora posso enfrentar[n]desafios maiores![n][w][e]
 
 [msg MSG_E10920100_000_00 [Sojiro]]
-[s][f 4 23 1 65535 3 10 0 0][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 0 1 2 65535 0]Então você quer dizer ir para a escola, hein?[n][w][e]
+[s][f 4 23 1 65535 3 10 0 0][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 0 1 2 65535 0]Então, você realmente vai para a escola, né?[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 3 65535 0][f 4 25 1 65535 0 0]Aqui, vou te dar algo para comer.[n]Mas termine antes[n]que os clientes cheguem.[n][w][e]
 
 [sel SEL_E10920100_001_00 top]
@@ -20,10 +20,10 @@
 [s]Seria meu café da manhã?[e]
 
 [msg MSG_E10920100_002_00 [Sojiro]]
-[s][f 4 23 1 65535 3 10 0 0][bup 0 103 2 0 0][f 4 10 65535 0 0][vp 8 0 1 4 65535 0][f 4 25 1 65535 0 0]Que cara é essa? Ele come.[n][w][e]
+[s][f 4 23 1 65535 3 10 0 0][bup 0 103 2 0 0][f 4 10 65535 0 0][vp 8 0 1 4 65535 0][f 4 25 1 65535 0 0]Que cara é essa? Vamos Coma.[n][w][e]
 
 [msg MSG_E10920100_002_02 [Sojiro]]
-[s][f 4 23 1 65535 3 10 0 0][bup 0 103 2 0 0][f 4 10 65535 0 0][vp 8 0 1 5 65535 0][f 4 25 1 65535 0 0]Não reclame. Ele come.[n][w][e]
+[s][f 4 23 1 65535 3 10 0 0][bup 0 103 2 0 0][f 4 10 65535 0 0][vp 8 0 1 5 65535 0][f 4 25 1 65535 0 0]Não reclame. Só coma.[n][w][e]
 
 [msg MND_E10920100_003_00]
 [s][vp 1 0 0 0 0 0]......?!?[n][w][e]

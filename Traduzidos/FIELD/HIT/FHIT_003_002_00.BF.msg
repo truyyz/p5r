@@ -2241,7 +2241,7 @@
 
 [msg MSG_C14_MASSAGE_00_03 [Kawakami]]
 [s][bup 0 109 0 65535 1][f 4 10 65535 0 0][vp 8 2 1 15040 65535 0]Oh, você está realmente me pedindo uma[n]massagem...?[n][w][e]
-[s][f 4 10 65535 0 0]Tudo bem... Saiba que eu[n]aprendi trabalhando na[n]Victoria. Eu sou muito bom.[n][w][e]
+[s][f 4 10 65535 0 0]Tudo bem... Saiba que eu aprendi[n]trabalhando na Victoria.[n]Minhas habilidades são incríveis..[n][w][e]
 [s][f 4 10 65535 0 0]OK, eu estarei lá. Espere por mim.[n][w][e]
 
 [msg MND_C14_MASSAGE_00_04]
