@@ -15,5 +15,5 @@
 [s][vp 8 2 1 1099 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Provavelmente está nas mãos de[n]outro capitão da guarda.[n]Vamos explorar os outros andares, Joker![n][w][e]
 
 [msg D01_04_e165_055_mes01 [Ryuji]]
-[s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7103 65535 0]Legal, nós dois temos[n]olhos bastardos! Vamos[n]bloquear esses negócios![n][w][e]
+[s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7103 65535 0]Legal, temos os dois olhos[n]daquele bastardo! Vamos[n]parar esses negócios![n][w][e]
 
