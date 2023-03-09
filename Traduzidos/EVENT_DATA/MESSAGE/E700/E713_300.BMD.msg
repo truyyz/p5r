@@ -2,7 +2,7 @@
 [s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 2 0 14018 65535 0]Oh sim. Entrarei em contato com você quando[n]terminar a preparação do próximo[n]ensaio clínico.[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Takemi]]
-[s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vou preparar uma recompensa,[n]pelo esforço de hoje. Mas[n]você nunca o lerá em preto e branco.[n][f 1 3 65535][w][e]
+[s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E eu vou preparar alguma compensação até[n]lá, por todos os seus esforços hoje.[n]Mas você não está recebendo isso por escrito.[n][f 1 3 65535][w][e]
 [s][bup 0 108 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 36 5 100]Com base nos resultados de hoje,[n]próxima vez teremos a nova[n]droga. Apareça quando estiver pronto.[n][f 1 3 65535][w][e]
 
 [sel SEL_002_0_0 top]

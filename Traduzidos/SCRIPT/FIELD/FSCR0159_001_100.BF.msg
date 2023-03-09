@@ -3,7 +3,7 @@
 [s][bup 0 2 1 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Falando nisso, [f 4 2] alguém não deveria[n]ter se disfarçado,[n]vindo aqui?[n][w][e]
 
 [msg D07_01_e407_010_mes02 [Ann]]
-[s][bup 0 4 3 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Uh, um travesti[n]com um grupo de alunos[n]uniformes seria um absurdo...[n][w][e]
+[s][bup 0 4 3 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ver alguém disfarçado com um[n]bando de crianças de uniforme[n]escolar seria super estranho...[n][w][e]
 
 [msg D07_01_e407_010_mes03 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1165 65535 0]Bem, assim que o tesouro for roubado não[n]precisaremos mais nos preocupar com isso...[n]Vamos trabalhar![n][w][e]

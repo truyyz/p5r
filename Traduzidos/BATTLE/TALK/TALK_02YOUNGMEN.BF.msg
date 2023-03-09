@@ -1897,16 +1897,16 @@
 [s]Espere! O que você quer? Eu posso te dar qualquer[n]coisa, exceto minha vida.[n][w][e]
 
 [msg TalkMsg_FQ_REACT_GOODMOO]
-[s](cut) Eheheh, sei veramente il top.[n]Sei proprio un tipo divertente![n][w][e]
+[s](corta) Heheheh, você realmente é o melhor.[n]Você é um cara tão engraçado![n][w][e]
 
 [msg TalkMsg_FQ_REACT_INTERES]
-[s](cut) ...Lascia che ti faccia un'altra[n]domanda. Conversare con te[n]è intrigante.[n][w][e]
+[s](corta) ...Deixe-me fazer outra[n]pergunta. Conversar com você[n]é intrigante.[n][w][e]
 
 [msg TalkMsg_FQ_REACT_DISPLEA]
-[s](cut) ...Andiamo avanti. Il prossimo![n]Tu non mi piaci granché.[n][w][e]
+[s](corta) ...Vamos em frente. Próximo![n]Eu não gosto muito de você.[n][w][e]
 
 [msg TalkMsg_FQ_REACT_ANGER]
-[s](cut) ...Mi fai incazzare. Se non fossi[n]in questa situazione, ti salterei[n]al collo.[n][w][e]
+[s](corta) ...Você me irrita. Se eu não estivesse[n]nessa situação, pularia no seu pescoço.[n][w][e]
 
 [msg TalkMsg_FQ_REACT_BROKEDO]
 [s]Está tudo bem. Para dizer a verdade,[n]minhas expectativas eram[n]bastante baixas.[n][w][e]
@@ -2255,7 +2255,7 @@
 [s]Não há necessidade.[e]
 
 [msg Talk_tech]
-[s]Yoshida Toranosuke[n]Impression Management! (Provisional)[n][w][e]
+[s]Yoshida Toranosuke[n]Gerenciamento de impressão! (Provisório)[n][w][e]
 
 [sel TalkSel_Tech top]
 [s]Por favor ajude![e]
@@ -2268,7 +2268,7 @@
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 4 5 301 1]Não... Como você pode nos privar disso?[n][w][e]
 
 [msg RareBooster]
-[s]Yoshida Toranosuke[n]Impression Management! (Provisional)[n][w][e]
+[s]Yoshida Toranosuke[n]Gerenciamento de impressão! (Provisório)[n][w][e]
 
 [msg CheapAct [Ann]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 4 5 300 1]Joker, isso é assustador... temos que[n]sair. Ei! Você pode dizer ao seu[n]chefe que estamos indo embora?[n][w][e]
@@ -2277,7 +2277,7 @@
 [s]Outro inimigo entrou na conversa.[n][w][e]
 
 [msg TalkMsg_cnt_interruptP]
-[s]Dopo aver parlato con un bersaglio,[n]i compagni possono intervenire per[n]accelerare le cose (% di chance).[n][w][e]
+[s]Depois de falar com um alvo,[n]companheiros de equipe podem intervir para[n]acelerar as coisas (% de chance).[n][w][e]
 
 [msg TalkMsg_cnt_refuse]
 [s]Il bersaglio si rifiuta di parlare.[n]→Ciò accade se il risultato della[n]conversazione è un rifiuto.[n][w][e]
@@ -2292,10 +2292,10 @@
 [s]......[n][w][e]
 
 [msg DebugMsg_ERROR]
-[s](Error)[n]→A variable is set[n]to an invalid value.[n][w][e]
+[s](Erro)[n]→Uma variável está definida[n]para um valor inválido.[n][w][e]
 
 [msg DebugMsg_CHARACTER]
-[s](Debug Mode)[n]Target Personality Type[n][w][e]
+[s](Modo de depuração)[n]Tipo de personalidade de destino[n][w][e]
 
 [sel DebugSel_CHARACTER top]
 [s]Tipo A[e]
@@ -2308,7 +2308,7 @@
 [s][var 0].[n][w][e]
 
 [msg DebugMsg_ENEMY_LV]
-[s]ID Nemico [var 3][n]Livello Nemico [var 0][n]Livello protagonista [var 1][n]AI_CHK_ENIDLV_O([var 0], 1) = [var 2][n][w][e]
+[s]ID do inimigo [var 3][n]Nível do inimigo [var 0][n]Nível do protagonista [var 1][n]AI_CHK_ENIDLV_O([var 0], 1) = [var 2][n][w][e]
 
 [msg TalkMsg_GUY_RESULT_GET_P_4 [Ann]]
 [s]Bom. Então viverei dentro de você[n]e compartilharemos essa experiência.[n][w][e]

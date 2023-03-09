@@ -50,7 +50,7 @@
 [s][vp 8 0 0 23 17 0]Ele Ele. Eu nunca dei um para[n]garotas bobas como você.[n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Haru]]
-[s][bup 0 7 303 65535 0][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Sciacquette...?[n][f 1 3 65535][w][e]
+[s][bup 0 7 303 65535 0][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Um ninguém?[n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Ombra Ex nobile]]
 [s][vp 8 0 0 25 17 0]Recomendo apenas aqueles[n]que têm uma linhagem[n]vestigiosa.[n][f 1 3 65535][w][e]
@@ -104,7 +104,7 @@
 
 [msg MSG_037_0_0 [Ann]]
 [s][bup 0 4 301 65535 0][f 4 10 65535 0 0][vp 8 0 0 42 65535 0]As pessoas tendem a ter uma ideia errada[n]mas esse certamente não é[n]o seu caso.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 43 65535 0]Meu passatempo é a cerimônia do chá.[n]D'altva pavte, meu padve[n]ha me custou um pico para impavave este avte.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 43 65535 0]Meus hobbies incluem cerimônias do chá.[n]Por outro lado, meu pai me obrigou a[n]aprender essa arte.[n][f 1 3 65535][w][e]
 
 [msg MSG_038_0_0 [Ombra Ex nobile]]
 [s][vp 8 0 0 44 17 0]Eu vejo. Percebo uma uva nobre[n]diferente da[n]dos seus sete.[n][f 1 3 65535][w][e]
