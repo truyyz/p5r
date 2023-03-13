@@ -30,10 +30,10 @@
 [s][vp 8 0 0 10 7 0]Com licença, mas por que você está tão[n]interessado? Não é algo com que ele deva se[n]preocupar...[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Uomo raffinato]]
-[s][bup 0 206 2 0 0][f 4 10 65535 0 0][vp 8 0 0 11 6 0]Eu não me importo com a sua opinião,[n]Joker incompetente! Quando eu[n]dizer para você atirar, você atira![n][f 1 3 65535][w][e]
+[s][bup 0 206 2 0 0][f 4 10 65535 0 0][vp 8 0 0 11 6 0]Eu não me importo com a sua opinião,[n]seu palhaço incompetente! Quando eu[n]dizer para você atirar, você atira![n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Ryuji]]
-[s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Ei, tem fila para atender![n][f 1 3 65535][w][e]
+[s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Ei, você está furando a fila![n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Homem de terno e gravata]]
 [s][vp 8 0 0 14 7 0]Estamos com pressa.[n][f 1 3 65535][w][e]

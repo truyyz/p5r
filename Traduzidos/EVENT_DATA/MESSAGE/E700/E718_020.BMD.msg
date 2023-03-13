@@ -15,9 +15,9 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Você precisa de um nome cativante se quiser[n]impressionar as pessoas. É tudo[n]propaganda para Fantasy Thieves![n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Mishima]]
-[s][bup 0 111 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Basicamente, não adianta espancar[n]bandidos se ninguém descobrir[n]aware.[n][f 1 3 65535][w][e]
+[s][bup 0 111 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Basicamente, não há sentido em derrotar[n]bandidos se ninguém vai saber disso.[n][f 1 3 65535][w][e]
 [s][bup 0 111 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]É por isso que criei um blog para as[n]postagens daqueles que você salvou,[n]obviamente filtrando os haters.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Precisamos que os Ladrões sejam vistos[n]da perspectiva certa se[n]queremos que eles se tornem populares, certo?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Precisamos que os Phantom Thieves sejam[n]vistos da perspectiva certa se[n]queremos que eles se tornem populares, certo?[n][f 1 3 65535][w][e]
 
 [sel SEL_004_0_0 top]
 [s][f 0 8 2 1 2217]Ótimo trabalho, garoto.[clr 27][e]
