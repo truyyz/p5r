@@ -78,7 +78,7 @@
 [s][bup 0 5 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 54 65535 0]Só podemos atingir indivíduos...[n]Que chance temos contra[n]toda a nação?[n][f 1 3 65535][w][e]
 
 [msg MSG_040_0_0 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 55 65535 0]...I Memento.[n][f 1 3 65535][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 55 65535 0]...Mementos.[n][f 1 3 65535][w][e]
 
 [msg MSG_041_0_0 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 56 65535 0]Se aproveitarmos os Mementos, podemos[n]ser capazes de fazer algo.[n][f 1 3 65535][w][e]
@@ -87,7 +87,7 @@
 [s][bup 0 2 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 57 65535 0]E o que poderíamos fazer lá?[n][f 1 3 65535][w][e]
 
 [msg MSG_043_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 58 65535 0]Como já lhe disse,[n]i Memento são o Palácio[n]da opinião pública.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 58 65535 0]Como já lhe disse,[n]Mementos são o Palácio[n]da opinião pública.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 59 65535 0]Eles são a fonte de toda distorção,[n]sustentada pelo "inconsciente[n]coletivo" das pessoas...[n][f 1 3 65535][w][e]
 
 [msg MSG_044_0_0 [Makoto]]

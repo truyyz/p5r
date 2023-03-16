@@ -6,7 +6,7 @@
 
 [msg MSG_002_0_0 [Ryuji]]
 [s][bup 0 2 101 65535 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Hum... Bom dia hoje hein?[n][f 1 3 65535][w][e]
-[s][bup 0 2 103 65535 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]...bem f-talvez não.[n][f 1 3 65535][w][e]
+[s][bup 0 2 103 65535 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]...bem t-talvez não.[n][f 1 3 65535][w][e]
 [s][bup 0 2 105 65535 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Eu, uh... eu gostaria de[n]um bom mergulho! Sim![n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Ryuji]]
@@ -25,7 +25,7 @@
 [s][bup 0 7 104 65535 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Por favor, senhor.[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Ombra Ex nobile]]
-[s][vp 8 0 0 11 65535 0]Por favor, deixe-me em paz.[n]Não tenho tempo para ser vdeve[n]com vocês, crianças turbulentas.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 11 65535 0]Por favor, deixe-me em paz.[n]Eu não tenho tempo para vocês, [n]crianças rudes.[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Ryuji]]
 [s][f 4 16 2 3 300 1 65535][vp 8 0 0 12 65535 0]Ei, vadia feia...![n][f 1 3 65535][w][e]

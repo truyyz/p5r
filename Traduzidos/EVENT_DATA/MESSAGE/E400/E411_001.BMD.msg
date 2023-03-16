@@ -41,10 +41,10 @@
 [s][vp 8 0 0 14 65535 0]Mas o que?!? Quem diabos é você?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Futaba]]
-[s][bup 0 8 100 65535 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]S-D-Desculpe pela entrada repentina![n][f 1 3 65535][w][e]
+[s][bup 0 8 100 65535 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]D-D-Desculpe pela entrada repentina![n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Ombra Presidente IT]]
-[s][vp 8 0 0 16 65535 0]Essas roupas... D-quero dizer, por que[n]você entrou pela janela?!?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 16 65535 0]Essas roupas... Q-Quero dizer, por que[n]você entrou pela janela?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Futaba]]
 [s][bup 0 8 100 65535 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]B-Bem, a porta estava fechada e você[n]não me respondeu! Como[n]eu poderia entrar, senão?[n][f 1 3 65535][w][e]
@@ -61,7 +61,7 @@
 [s][f 4 14 4 12 4316 0][vp 8 0 0 56 65535 0]Huh!?! Esse é o seu laptop?[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Futaba]]
-[s][bup 0 8 101 65535 0][f 4 10 65535 0 0][vp 8 0 0 57 65535 0]Eheheh... Esse berloque[n]brincou ela, hein?[n]Eu montei com minhas próprias mãos![n][f 1 3 65535][w][e]
+[s][bup 0 8 101 65535 0][f 4 10 65535 0 0][vp 8 0 0 57 65535 0]Eheheh... Esse carinha[n]te chamou a atenção, hein?[n]Eu montei com minhas próprias mãos![n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Ombra Presidente IT]]
 [s][vp 8 0 0 58 65535 0]É uma loucura... Pensar que você[n]pode fazer certas coisas[n]em um simples laptop...[n][f 1 3 65535][w][e]
@@ -99,7 +99,7 @@
 [s][vp 8 0 0 28 65535 0]Caramba… Quem teria pensado que[n]o nosso site[n]seria derrubado por uma garotinha…[n][f 1 3 65535][w][e]
 
 [msg MSG_032_0_0 [Futaba]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 8 7 301 1][vp 8 0 0 29 65535 0]Huh? L-Você mesmo programou?[n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 8 7 301 1][vp 8 0 0 29 65535 0]Huh? V-Você mesmo programou?[n][f 1 3 65535][w][e]
 
 [msg MSG_033_0_0 [Ombra Presidente IT]]
 [s][vp 8 0 0 30 65535 0]Está certo. Por que você teve que[n]destruir nosso trabalho?[n][f 1 3 65535][w][e]
@@ -168,13 +168,13 @@
 [s][vp 8 0 0 49 65535 0]Por que eu iria?[n][f 1 3 65535][w][e]
 
 [msg MSG_051_0_0 [Futaba]]
-[s][bup 0 8 100 65535 0][f 4 10 65535 0 0][vp 8 0 0 50 65535 0]E-Que tal jogá-lo em[n]um desafio de computador?!?[n][f 1 3 65535][w][e]
+[s][bup 0 8 100 65535 0][f 4 10 65535 0 0][vp 8 0 0 50 65535 0]Q-Que tal jogá-lo em[n]um desafio de computador?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_052_0_0 [Ombra Presidente IT]]
 [s][vp 8 0 0 51 65535 0]Huh? Não seja ridículo![n]Prefiro matar você![n][f 1 3 65535][w][e]
 
 [msg MSG_053_0_0 [Futaba]]
-[s][bup 0 8 100 65535 0][f 4 10 65535 0 0][vp 8 0 0 52 65535 0]R-Gente![n][f 1 3 65535][w][e]
+[s][bup 0 8 100 65535 0][f 4 10 65535 0 0][vp 8 0 0 52 65535 0]G-Gente![n][f 1 3 65535][w][e]
 
 [msg MSG_054_0_0 [Haru]]
 [s][bup 0 7 100 65535 0][f 4 10 65535 0 0][vp 8 0 0 68 65535 0]No final, sempre vai[n]assim...[n][f 1 3 65535][w][e]

@@ -14,7 +14,7 @@
 [s][bup 0 2 100 65535 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]E assim, estamos a um passo[n]do Tesouro do povo, né?[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Morgana]]
-[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Agora que penso nisso, faz sentido que[n]i Memento se conecte a um[n]local abaixo de Shibuya.[n][f 1 3 65535][w][e]
+[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Agora que penso nisso, faz sentido que[n]o Mementos se conecte a um[n]local abaixo de Shibuya.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Todo mundo, todos os dias, entra[n]naquelas caixas lotadas[n]do metrô sem dizer uma palavra...[n][f 1 3 65535][w][e]
 
 [msg MSG_006_5_0 [Morgana]]

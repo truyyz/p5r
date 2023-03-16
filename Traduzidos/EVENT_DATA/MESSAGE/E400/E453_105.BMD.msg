@@ -91,11 +91,11 @@
 
 [msg MSG_018_0_0 [Futaba]]
 [s][bup 0 8 100 65535 0][f 4 10 65535 0 0][vp 8 0 0 36 65535 0]No entanto, vamos[n]enfrentar um deus.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 37 5 0]Eu nem saí do meu quarto antes! E agora estou[n]prestes a lutar com um deus! Estou tão carregado![n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 38 5 0]E espere! Saí[n]daqui fazendo tudo sozinha![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 37 5 0]Eu nem saí do meu quarto antes! E agora estou[n]prestes a lutar com um deus! Estou tão animada![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 38 5 0]E espere um segundo... Eu saí[n]daqui sozinha![n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Futaba]]
-[s][bup 0 8 100 65535 0][f 4 10 65535 0 0][vp 8 0 0 39 5 0]Ta-da! Uma fuga total da prisão![n][f 1 3 65535][w][e]
+[s][bup 0 8 100 65535 0][f 4 10 65535 0 0][vp 8 0 0 39 5 0]Ta-da! Uma verdadeira fuga da prisão![n][f 1 3 65535][w][e]
 
 [sel SEL_020_0_0 top]
 [s]Temos de ir.[e]

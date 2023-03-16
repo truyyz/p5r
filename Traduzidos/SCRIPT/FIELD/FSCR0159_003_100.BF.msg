@@ -11,7 +11,7 @@
 [s][bup 0 4 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Um restaurante reservado para sócios...[n]"Restaurante...Elite"?[n][w][e]
 
 [msg D07_02_e408_025_mes03 [Ryuji]]
-[s][bup 0 2 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Você não consegue ler sozinho?[n]Mas você não era a Miss English[n]ou algo assim?[n][w][e]
+[s][bup 0 2 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Você não consegue ler sozinho?[n]Mas você não era a Pequena Miss[n]Inglês ou algo assim?[n][w][e]
 
 [msg D07_02_e408_025_mes04 [Ann]]
 [s][bup 0 4 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6037 65535 0]O que você está dizendo, Ryuji? Isso não é[n]inglês, é francês. Portanto...[n][w][e]

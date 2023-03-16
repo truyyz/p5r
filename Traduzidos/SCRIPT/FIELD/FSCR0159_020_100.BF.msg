@@ -2,7 +2,7 @@
 [s][bup 0 8 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 1 0 0]Oh. Espere um minuto.[n][w][e]
 
 [msg D07_02_e409_011_mes02 [Ryuji]]
-[s][vp 1 0 0 2 0 0]Espere, que porra é essa?[n]S-Nós nos tornamos... ratos?[n][w][e]
+[s][vp 1 0 0 2 0 0]Espere, que porra é essa?[n]N-Nós nos tornamos... ratos?[n][w][e]
 
 [msg D07_02_e409_011_mes03 [Yusuke]]
 [s][vp 1 0 0 3 0 0]Estou com muita raiva![n]Ou algo assim...[n][w][e]

@@ -63,7 +63,7 @@
 [s][bup 0 2 107 65535 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]Uh... eu sou muito indeciso.[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Makoto]]
-[s][bup 0 6 100 65535 0][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]Estou comendo foie gras.[n][f 1 3 65535][w][e]
+[s][bup 0 6 100 65535 0][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]Eu vou querer um foie gras.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Uma salada de trufas...[n]e cordeiro assado, por favor.[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Ryuji]]
@@ -117,7 +117,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 40 65535 0]Claro, o mesmo pode[n]ser dito de você, Sr. Ooe.[n][f 1 3 65535][w][e]
 
 [msg MSG_036_0_0 [Ombra di politico]]
-[s][vp 8 0 0 41 65535 0]Você tem um bom gab por ser[n]tão jovem ... não que eu[n]me importe. Você é um estudante do ensino médio?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 41 65535 0]Você tem um bom paladar para alguém[n]tão jovem... não que eu[n]me importe. Você é um estudante do ensino médio?[n][f 1 3 65535][w][e]
 
 [msg MSG_037_0_0 [Makoto]]
 [s][bup 0 6 101 65535 0][f 4 10 65535 0 0][vp 8 0 0 42 65535 0]Sim senhor.[n][f 1 3 65535][w][e]
@@ -163,7 +163,7 @@
 
 [msg MSG_050_0_0 [Makoto]]
 [s][bup 0 6 101 65535 0][f 4 10 65535 0 0][vp 8 0 0 58 65535 0]Na verdade, minha irmã[n]trabalha na[n]Procuradoria.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 59 65535 0]Eu poderia te contar o que você[n]acabou de me dizer... O que você acha? Will[n]nos dará essa recomendação?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 59 65535 0]Eu poderia contar o que você[n]acabou de falar para ela... O que você acha?[n]Você nos dará essa carta derecomendação?[n][f 1 3 65535][w][e]
 
 [msg MSG_051_0_0 [Ombra di politico]]
 [s][vp 8 0 0 60 65535 0]Você está me ameaçando?[n]Quem são vocês dois?[n][f 1 3 65535][w][e]

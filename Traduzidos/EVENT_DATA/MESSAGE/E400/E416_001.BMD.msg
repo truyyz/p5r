@@ -3,7 +3,7 @@
 [s][vp 8 0 0 2 65535 0]O que eles queriam dizer quando[n]disseram "ninguém morreu"?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_000_5_0 [Capo della polizia]]
-[s][vp 8 0 0 3 5 0]Eles elegeram um novo[n]líder apenas para ameaçar[n]us e Shido?!?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 3 5 0]Eles elegeram um novo[n]líder apenas para ameaçar[n]a nós e Shido?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Detective capo]]
 [s][vp 8 0 0 4 7 0]Estamos verificando com[n]vários departamentos...[n][f 1 3 65535][w][e]

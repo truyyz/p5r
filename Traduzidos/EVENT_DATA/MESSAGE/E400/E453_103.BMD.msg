@@ -9,7 +9,7 @@
 [s]Venha comigo.[e]
 
 [msg MSG_002_0_0 [Yusuke]]
-[s][bup 0 5 0 4 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]The Velvet Room?[n]Acho que não entendi...[n][f 1 3 65535][w][e]
+[s][bup 0 5 0 4 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]A Velvet Room?[n]Acho que não entendi...[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Yusuke]]
 [s][bup 0 5 3 4 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Sim... Desculpe se fiz você[n]preocupar-se...[n][f 1 3 65535][w][e]

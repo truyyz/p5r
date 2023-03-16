@@ -98,7 +98,7 @@
 [s][vp 1 0 0 0 0 0]Parece haver algum hype...[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_YOKOKUGO_1217__4]
-[s][vp 1 0 0 0 0 0]Parece que será de fato uma vitória esmagadora.[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Parece que será uma grande vitória.[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_YOKOKUGO_1217__5]
 [s][vp 1 0 0 0 0 0]Finalmente chegou a hora de[n]um novo primeiro-ministro.[n]A história será feita![n][f 1 3 65535][w][e]

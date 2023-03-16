@@ -34,7 +34,7 @@
 [s][bup 0 2 100 65535 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Se você não se apressar,[n]ele irá para outro lugar![n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Makoto]]
-[s][bup 0 6 300 65535 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]S-Olá...[n][f 1 3 65535][w][e]
+[s][bup 0 6 300 65535 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]O-Olá...[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Haru]]
 [s][bup 0 7 300 65535 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Lindo dia, não?[n][f 1 3 65535][w][e]
@@ -47,10 +47,10 @@
 
 [msg MSG_021_0_0 [Ombra Ex nobile]]
 [s][vp 8 0 0 22 17 0]Uma carta de recomendação?[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 23 17 0]Ele Ele. Eu nunca dei um para[n]garotas bobas como você.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 23 17 0]Hehe. Eu nunca daria uma para[n]garotas quaisquer como vocês.[n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Haru]]
-[s][bup 0 7 303 65535 0][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Sciacquette...?[n][f 1 3 65535][w][e]
+[s][bup 0 7 303 65535 0][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Quaisquer...?[n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Ombra Ex nobile]]
 [s][vp 8 0 0 25 17 0]Recomendo apenas aqueles[n]que têm uma linhagem[n]vestigiosa.[n][f 1 3 65535][w][e]
@@ -66,14 +66,14 @@
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 4 14 300 1][vp 8 0 0 0 65535 0][f 1 3 65535][w][e]
 
 [msg MSG_026_0_0 [Ann]]
-[s][bup 0 4 300 65535 0][f 4 10 65535 0 0][vp 8 0 0 29 65535 0]É uma hora imensurável[n]fave seu conhecimento, senhor.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 30 65535 0]Sou Ann Windsov.[n][f 1 3 65535][w][e]
+[s][bup 0 4 300 65535 0][f 4 10 65535 0 0][vp 8 0 0 29 65535 0]É uma honra imensurável[n]conhecê-lo, senhor.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 30 65535 0]Sou Ann Windsor.[n][f 1 3 65535][w][e]
 
 [msg MSG_027_0_0 [Makoto]]
 [s][bup 0 6 304 65535 0][f 4 10 65535 0 0][vp 8 0 0 31 65535 0]Ann Windsor?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_028_0_0 [Ann]]
-[s][bup 0 4 300 65535 0][f 4 10 65535 0 0][vp 8 0 0 32 65535 0]Meu padve é descendente[n]da vitela inglesa.[n][f 1 3 65535][w][e]
+[s][bup 0 4 300 65535 0][f 4 10 65535 0 0][vp 8 0 0 32 65535 0]Meu pai é descendente[n]da realeza inglesa.[n][f 1 3 65535][w][e]
 
 [msg MSG_029_0_0 [Ombra Ex nobile]]
 [s][vp 8 0 0 33 17 0]...Como você disse?[n][f 1 3 65535][w][e]
@@ -88,7 +88,7 @@
 [s][bup 0 6 300 65535 0][f 4 10 65535 0 0][vp 8 0 0 36 65535 0]Oh sim. Lady Ann[n]realmente nos trata com luvas de pelica.[n][f 1 3 65535][w][e]
 
 [msg MSG_033_0_0 [Ombra Ex nobile]]
-[s][vp 8 0 0 37 17 0]Aaah... Você é meio[n]bvitannic, Ann-chan?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 37 17 0]Aaah... Você é meia[n]britânica, Ann-chan?[n][f 1 3 65535][w][e]
 
 [msg MSG_034_0_0 [Ann]]
 [s][bup 0 4 300 65535 0][f 4 10 65535 0 0][vp 8 0 0 38 65535 0]Sim, isso mesmo.[n][f 1 3 65535][w][e]
@@ -104,10 +104,10 @@
 
 [msg MSG_037_0_0 [Ann]]
 [s][bup 0 4 301 65535 0][f 4 10 65535 0 0][vp 8 0 0 42 65535 0]As pessoas tendem a ter uma ideia errada[n]mas esse certamente não é[n]o seu caso.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 43 65535 0]Meu passatempo é a cerimônia do chá.[n]D'altva pavte, meu padve[n]ha me custou um pico para impavave este avte.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 43 65535 0]Meus passatempos inclue cerimônia do chá.[n]Novamente, meu pai me obrigou[n]a eu aprender essa arte.[n][f 1 3 65535][w][e]
 
 [msg MSG_038_0_0 [Ombra Ex nobile]]
-[s][vp 8 0 0 44 17 0]Eu vejo. Percebo uma uva nobre[n]diferente da[n]dos seus sete.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 44 17 0]Entendo. Percebo uma uva nobre[n]diferente da[n]dos seus sete.[n][f 1 3 65535][w][e]
 
 [msg MSG_039_0_0 [Haru]]
 [s][bup 0 7 303 65535 0][f 4 10 65535 0 0][vp 8 0 0 45 65535 0]Precisa?[n][f 1 3 65535][w][e]
@@ -122,24 +122,24 @@
 [s][bup 0 8 204 65535 0][f 4 10 65535 0 0][vp 8 0 0 48 65535 0]O quê?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_043_0_0 [Ann]]
-[s][bup 0 4 300 65535 0][f 4 10 65535 0 0][vp 8 0 0 49 65535 0]Sobre aquela carta[n]vcommandation...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 50 65535 0]Se você fosse tão generoso a ponto de me dar una,[n]eu poderia considerar a ideia de deixá-lo[n]conhecer meu padve.[n][f 1 3 65535][w][e]
+[s][bup 0 4 300 65535 0][f 4 10 65535 0 0][vp 8 0 0 49 65535 0]Sobre aquela carta[n]de recomendação...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 50 65535 0]Se você fosse tão generoso a ponto de me dar uma,[n]eu poderia considerar a ideia de deixá-lo[n]conhecer meu pai.[n][f 1 3 65535][w][e]
 
 [msg MSG_044_0_0 [Ombra Ex nobile]]
-[s][vp 8 0 0 51 17 0]Oh...? Allova considera minha[n]forma de enviar lembranças a ele.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 51 17 0]Oh...? Então considere isso minha[n]forma de enviar lembranças a ele.[n][f 1 3 65535][w][e]
 
 [msg MSG_045_0_0 [Ann]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 4 10 300 1][vp 8 0 0 52 65535 0]Desejo-lhe sinceramente.[n][f 1 3 65535][w][e]
 
 [msg MSG_046_0_0 [Ombra Ex nobile]]
 [s][vp 8 0 0 53 17 0]Mas caramba, você está tão[n]linda nessa fantasia.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 54 17 0]E que covpo fabuloso.[n]Você quase parecia uma modelo.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 54 17 0]E que corpo fabuloso.[n]Você quase parecia uma modelo.[n][f 1 3 65535][w][e]
 
 [msg MSG_047_0_0 [Ann]]
 [s][bup 0 4 304 65535 0][f 4 10 65535 0 0][vp 8 0 0 55 65535 0]Oh não...[n][f 1 3 65535][w][e]
 
 [msg MSG_048_0_0 [Ombra Ex nobile]]
-[s][vp 8 0 0 56 17 0]Você se certificou de colocar[n]o único pvote em você?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 56 17 0]Você se certificou de colocar[n] protetor solar em você?[n][f 1 3 65535][w][e]
 
 [msg MSG_049_0_0 [Ann]]
 [s][bup 0 4 303 65535 0][f 4 10 65535 0 0][vp 8 0 0 57 65535 0]Ei, uhm...[n][f 1 3 65535][w][e]
@@ -151,7 +151,7 @@
 [s][bup 0 4 302 65535 0][f 4 10 65535 0 0][vp 8 0 0 59 65535 0]Com licença?[n][f 1 3 65535][w][e]
 
 [msg MSG_052_0_0 [Ombra Ex nobile]]
-[s][vp 8 0 0 60 17 0]Vamos lá, você, se você pvovincialotte[n]onde você sai do caminho. Você[n]está envergonhando ela.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 60 17 0]Vamos lá, vocês servos plebeus[n]devem sair. Vocês[n]estão envergonhando ela.[n][f 1 3 65535][w][e]
 
 [msg MSG_053_0_0 [Ann]]
 [s][bup 0 4 302 65535 0][f 4 10 65535 0 0][vp 8 0 0 61 65535 0]Você se importa de terminar isso?[n][f 1 3 65535][w][e]
