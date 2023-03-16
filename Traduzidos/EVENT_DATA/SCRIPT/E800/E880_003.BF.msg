@@ -287,7 +287,7 @@
 [s][vp 1 0 0 0 0 0]As urnas foram embaladas...[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_1218_2]
-[s][vp 1 0 0 0 0 0]Aqui estão as últimas pesquisas de boca de urna.[n]Era de se esperar...[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Aqui estão as últimas pesquisas de boca[n]de urna. Era de se esperar...[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_1218_3]
 [s][vp 1 0 0 0 0 0]Estou muito curioso para[n]ouvir os comentários.[n][f 1 3 65535][w][e]

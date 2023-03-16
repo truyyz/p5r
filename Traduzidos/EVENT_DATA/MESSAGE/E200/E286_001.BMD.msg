@@ -17,7 +17,7 @@
 [s][bup 0 103 504 65535 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Espere um minuto, vocês dois estão juntos?[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Makoto]]
-[s][bup 0 6 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]S-nós somos apenas amigos![n][f 1 3 65535][w][e]
+[s][bup 0 6 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]N-nós somos apenas amigos![n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Sojiro]]
 [s][bup 0 103 500 65535 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Os amigos hoje em dia[n]tão próximos uns dos outros?[n][f 1 3 65535][w][e]

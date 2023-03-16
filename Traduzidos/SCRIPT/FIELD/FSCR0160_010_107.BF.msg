@@ -7,7 +7,7 @@
 
 [msg D08_02_e453_105_AF01_sel_2 [Futaba]]
 [s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9196 65535 0]Você deve salvá-los, Joker.[n]Vou esperar aqui.[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Não aviso Ombre, tenho certeza de que ficarei[n]bem. Em vez disso, estou preocupado com os[n]outros.[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Não sinto nenhuma Sombra, tenho certeza de que ficarei[n]bem. Em vez disso, estou preocupado com os[n]outros.[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eles... podem precisar da sua ajuda, assim como[n]eu...[n][w][e]
 [s][bup 0 8 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9137 65535 0]Provavelmente é melhor se você[n]falar com eles sozinho...[n][w][e]
 

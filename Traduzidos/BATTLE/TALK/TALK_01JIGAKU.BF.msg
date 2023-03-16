@@ -839,7 +839,7 @@
 [s]Hehe, isso é meio engraçado.[n]Acho que ainda tenho[n]um coração no final.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_07_R_8]
-[s]Ele Ele. Você está completamente deprimido![n][w][e]
+[s]Heh. Você está completamente deprimido![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_07_R_9]
 [s]Uau, que maneira foda de[n]ameaçar.[n][w][e]

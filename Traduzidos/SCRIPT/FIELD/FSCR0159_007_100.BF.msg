@@ -48,7 +48,7 @@
 [s][bup 0 8 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Atenção, eles estão chegando![n][w][e]
 
 [msg D07_02_e410_026_mes01 [Yusuke]]
-[s][bup 0 5 105 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4028 65535 0]C-Somos vitoriosos.[n][w][e]
+[s][bup 0 5 105 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4028 65535 0]S-Somos vitoriosos.[n][w][e]
 
 [msg D07_02_e410_026_mes02 [Ryuji]]
 [s][bup 0 2 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Não foi divertido pra caralho![n]Eles realmente queriam nos matar![n][w][e]

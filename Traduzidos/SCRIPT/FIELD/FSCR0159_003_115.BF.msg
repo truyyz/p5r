@@ -62,7 +62,7 @@
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1066 65535 0]É a nossa chance. Vamos[n]pedir antes dele![n][w][e]
 
 [msg D159_03_npc_04_mes01 [Ospite mascherato]]
-[s]Você conhece o restaurante exclusivo,[n]ahead? Quem sabe como[n]alguém se torna um membro.[n][w][e]
+[s]Você conhece o restaurante exclusivo,[n]à frente? Quem sabe como[n]alguém se torna um membro.[n][w][e]
 
 [msg D159_03_npc_04_mes02 [Ospite mascherato]]
 [s]Não faço a menor ideia...[n][w][e]

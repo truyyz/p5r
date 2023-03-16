@@ -92,7 +92,7 @@
 [s][bup 0 8 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ugh...a escola é terrível...[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Makoto]]
-[s][bup 0 6 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]F-Talvez seja hora de continuar...?[n][f 1 3 65535][w][e]
+[s][bup 0 6 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]T-Talvez seja hora de continuar...?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Restam apenas as salas de aula...[n]pelo contrário, pensando bem,[n]porque hoje é melhor evitar.[n][f 1 3 65535][w][e]
 [s][vp 8 2 65535 2100 0 0]......[n][f 1 3 65535][w][e]
 [s][f 4 23 0 5 3 10 0 10][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vamos voltar para a entrada?[n][f 1 3 65535][w][e]

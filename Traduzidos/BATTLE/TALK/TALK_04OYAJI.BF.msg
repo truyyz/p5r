@@ -419,7 +419,7 @@
 [s]Você quer se juntar a nos?[e]
 
 [msg TalkMsg_GUY_CHAT_FQ_08_R]
-[s]Ele Ele. Aposto que a internet[n]teve uma mão nisso. Cristo, a[n]tecnologia de hoje é uma loucura.[n][w][e]
+[s]Hehe. Aposto que a internet[n]teve uma mão nisso. Cristo, a[n]tecnologia de hoje é uma loucura.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_08_R_2]
 [s]Cristo, isso não é um jogo![n]Você poderia voltar à realidade e[n]deixar de lado a ficção?[n][w][e]
@@ -563,7 +563,7 @@
 [s]Não sou sujo, mas honesto.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_02_R_11]
-[s]Ele Ele. Você sabia que[n]mulheres realmente não têm nada[n]a dizer?[n][w][e]
+[s]Heh. Você sabia que[n]mulheres realmente não têm nada[n]a dizer?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_02_R_12]
 [s]Ei Cale a boca. Eu não deixo um pirralho[n]como você me repreender.[n][w][e]
@@ -629,7 +629,7 @@
 [s]Oh vamos lá. Não comece a ficar desesperado. O[n]futuro não pode ser tão ruim assim... eu acho.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_03_R_14]
-[s]Ele Ele. Acho que o futuro[n]você se preocupa.[n][w][e]
+[s]Hehe. Acho que o futuro[n]você se preocupa.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_03_R_15]
 [s]Mah. Receio que você seja do tipo que[n]não pensa nas coisas.[n][w][e]
