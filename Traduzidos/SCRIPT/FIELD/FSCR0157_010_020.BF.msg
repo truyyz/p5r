@@ -56,7 +56,7 @@
 
 [msg mini_ev_mes_02_selA_0_me_14 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Isso mesmo... Temos[n][clr 2]50.000[clr 27] moedas![n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos trocá-los pelo cartão do plano high stakes![n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos trocá-los pelo cartão dos andares superiores![n][w][e]
 
 [msg mini_ev_mes_02_selA_1_me [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]......[n][w][e]

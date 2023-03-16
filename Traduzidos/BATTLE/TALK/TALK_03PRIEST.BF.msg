@@ -1927,7 +1927,7 @@
 [s]Esta negociação é apenas um desperdício de[n]palavras.[n][w][e]
 
 [msg TalkMsg_SHOOT_REACTION01]
-[s]S-Explorando o prestígio dos[n]poderosos... eu vejo[n]já com você...[n][w][e]
+[s]E-Explorando o prestígio dos[n]poderosos... eu vejo[n]já com você...[n][w][e]
 [s]Ah! Os últimos momentos passados[n]juntos despertaram[n]a verdade em mim.[n][w][e]
 
 [msg TalkMsg_SHOOT_REACTION02]

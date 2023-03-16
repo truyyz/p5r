@@ -20,7 +20,7 @@
 
 [msg MSG_007_0_0 [Diretor da UIS]]
 [s][bup 0 213 2 0 0][f 4 10 65535 0 0][vp 8 0 0 12 4 0]Bem, isso é um problema.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 13 4 0]Se as coisas continuarem assim,[n]esqueça a promoção...[n]realmente, teremos que demiti-lo.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 13 4 0]Se as coisas continuarem assim,[n]esqueça a promoção...[n]realmente, teremos que demiti-la.[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Sae]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 105 7 300 1][vp 8 0 0 14 65535 0]Mas senhor...[n][f 1 3 65535][w][e]
@@ -54,7 +54,7 @@
 [s][bup 0 105 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 30 65535 0]...Senhor?[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Diretor da UIS]]
-[s][bup 0 213 0 0 0][f 4 10 65535 0 0][vp 8 0 0 31 4 0]...Como eu disse, falência[n]não será permitida.[n][f 1 3 65535][w][e]
+[s][bup 0 213 0 0 0][f 4 10 65535 0 0][vp 8 0 0 31 4 0]...Como eu disse, falhas[n]não será permitida.[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Diretor da UIS]]
 [s][bup 0 213 6 0 0][f 4 10 65535 0 0][vp 8 0 0 32 4 0]...Sim. Tudo está ocorrendo[n]de acordo com o planejado.[n][f 1 3 65535][w][e]

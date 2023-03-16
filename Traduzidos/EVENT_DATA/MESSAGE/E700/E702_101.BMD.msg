@@ -90,7 +90,7 @@
 [msg MSG_023_0_0 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 32 65535 0]Em vez disso, estou surpreso por[n]encontrar o significado dos meus estudos...[n]fora dos meus estudos.[n][f 1 3 65535][w][e]
 [s][bup 0 6 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 33 65535 0]...Obrigado por me ajudar.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 34 65535 0]Deve ter sido difícil[n]babysitting "Miss[n]President Know-It-All"...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 34 65535 0]Deve ter sido difícil ficar[n]de babá da "Srta. Presidente Sabe-tudo",[n]certo?[n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [Makoto]]
 [s][bup 0 6 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 35 65535 0]...brincadeirinha.[n][f 1 3 65535][w][e]

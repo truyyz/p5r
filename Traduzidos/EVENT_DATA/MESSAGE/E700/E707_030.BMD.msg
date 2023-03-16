@@ -50,7 +50,7 @@
 [s][bup 0 2 203 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Acho que vocês ainda não[n]tiveram a chance[n]de se conhecerem...[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Nakaoka]]
-[s][vp 8 0 0 0 65535 0]Espere um minuto, você não é aquele aluno[n]novo...? Você realmente quer namorar esse[n]perdedor?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Espere aí, você não é aquele aluno[n]transferido? Você realmente vai sair com[n]esse perdedor?[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Ex membro della squadra di atletica]]
 [s][vp 8 0 0 0 65535 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 12 300 65535]É melhor você tomar cuidado.[n]Se você irritá-lo, ele vai bater em você.[n][f 1 3 65535][w][e]

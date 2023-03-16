@@ -23,7 +23,7 @@
 [s]Tocado durante[n]cenas tensas.[n][e]
 
 [msg MSG_007]
-[s]Jogado quando os[n]personagens principais despertam suas[n]Personae.[n][e]
+[s]Jogado quando os[n]personagens principais despertam suas[n]Personas .[n][e]
 
 [msg MSG_008]
 [s]Jogado quando as pessoas[n]contam sobre as dificuldades do passado.[n][e]

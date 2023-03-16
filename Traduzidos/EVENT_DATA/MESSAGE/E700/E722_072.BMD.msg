@@ -192,7 +192,7 @@
 [msg MSG_047_7_0 [Sumire]]
 [s][bup 0 10 821 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Direita? Talvez eu precise melhorar minha[n]rotina![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Se a chave aqui é mostrar o que[n]eu posso fazer, então preciso[n]que você olhe para mim de novo...![n][f 1 3 65535][w][e]
-[s][bup 0 10 820 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 6 35 5 100]Senpai, você quer namorar comigo de novo?[n][f 1 3 65535][w][e]
+[s][bup 0 10 820 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 6 35 5 100]Senpai, você quer sair comigo de novo?[n][f 1 3 65535][w][e]
 
 [sel SEL_048_0_0 top]
 [s][f 0 8 2 1 2217]Claro.[clr 27][e]

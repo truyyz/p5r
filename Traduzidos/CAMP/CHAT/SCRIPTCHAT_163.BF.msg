@@ -2,7 +2,7 @@
 [s][f 5 14]Parece que Sae-san[n]participará de[n]um julgamento amanhã.[n][w][e]
 
 [msg MSG_001_0_0 [Haru]]
-[s][f 5 14]Estou surpreso que ele vá ao tribunal em[n]um momento como este...[n][w][e]
+[s][f 5 14]Estou surpresa que ela vá ao tribunal em[n]um momento como este...[n][w][e]
 
 [msg MSG_002_0_0 [Haru]]
 [s][f 5 14]Ela também deve estar ocupada com a[n]investigação dos Ladrões Fantasmas...[n][w][e]
@@ -20,7 +20,7 @@
 [s][f 5 14]Nosso inimigo...[n][w][e]
 
 [msg MSG_007_0_0 [Akechi]]
-[s][f 5 14]Oh, me desculpe. Eu não quis dizer[n]quis dizer isso.[n][w][e]
+[s][f 5 14]Oh, me desculpe. Eu não quis dizer[n]isso.[n][w][e]
 
 [msg MSG_008_0_0 [Makoto]]
 [s][f 5 14]Não se preocupe. Você estava apenas[n]dizendo a verdade.[n][w][e]

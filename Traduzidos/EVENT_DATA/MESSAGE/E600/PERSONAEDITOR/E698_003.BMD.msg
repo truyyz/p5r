@@ -10,10 +10,10 @@
 [s][vp 8 0 0 5 4 0]Veja como o time de vôlei[n]é pequeno. O que diabos acontece[n]durante o treinamento?[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Ragazza amante della moda]]
-[s][vp 8 2 0 39602 4 0]Ugh, eu gastei muito em roupas este mês e agora[n]estou sem dinheiro...[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 39602 4 0]Ugh, eu comprei muitas roupas este mês e agora[n]estou sem dinheiro...[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Ragazza dall'aria matura]]
-[s][vp 8 0 0 0 5 0]Por que você não procura um emprego? As [n][clr 2]revistas publicitárias[clr 27] que você[n]encontra na estação podem ser úteis para você.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 5 0]Por que você não procura um emprego? As [n][clr 2]revistas publicitárias[clr 27] que você encontra[n]na estação podem ser úteis para você.[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Ragazza amante della moda]]
 [s][vp 8 0 0 0 4 0]Talvez eu[n]passe no metrô [clr 2][n]Shibuya[clr 27] depois da escola para pegar uma cópia.[n][f 1 3 65535][w][e]

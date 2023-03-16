@@ -141,7 +141,7 @@
 [s][bup 0 6 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 39 65535 0]Olhando para o interrogatório…[n]Não acredito no que eles[n]fizeram com [f 4 2].[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 40 65535 0][f 4 10 65535 0 0]Tal uso de violência e[n]drogas é anormal.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 41 65535 0]Ele teria morrido se perdesse a consciência sem[n]contar a Sae sobre o telefone...[n][f 1 3 65535][w][e]
-[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 42 65535 0]Estou... feliz por você estar de volta[n]sã e salva, [f 4 2].[n][f 1 3 65535][w][e]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 42 65535 0]Estou... realmente feliz por você ter voltado[n]são e salvo, [f 4 2].[n][f 1 3 65535][w][e]
 
 [sel SEL_040_0_0 top]
 [s]Foi por pouco.[e]
@@ -171,7 +171,7 @@
 [s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 50 65535 0]Eu queria ter confiança... mas[n]considerando nossos adversários...[n][f 1 3 65535][w][e]
 
 [msg MSG_048_0_0 [Morgana]]
-[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 0 0 51 65535 0]Ryuji é um pouco duro de[n]senso, mas alegre.[n][f 1 3 65535][w][e]
+[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 0 0 51 65535 0]Ryuji é um pouco pouco insensivel[n], mas é uma pessoa alegre.[n][f 1 3 65535][w][e]
 
 [msg MSG_049_0_0 [Ryuji]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 3 301 1][vp 8 0 0 52 65535 0]Pare com isso, gato![n][f 1 3 65535][w][e]

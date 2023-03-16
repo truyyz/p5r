@@ -110,7 +110,7 @@
 [s]Oooh, eu sei que você é estúpido,[n]mas não se preocupe, não é um[n]problema. Mas diga a verdade...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_02_R_12]
-[s]Por que você está gritando?[n]S-Eu estava falando baixinho...[n][w][e]
+[s]Por que você está gritando?[n]E-Eu estava falando baixinho...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_02_R_13]
 [s]Ei! Você está tentando me assustar,[n]mas eu sei que[n]você é apenas um tolo![n][w][e]

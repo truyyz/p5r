@@ -61,7 +61,7 @@
 [s][bup 0 2 104 0 0][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Ele está muito à sua frente ou estou errado?[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Morgana]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 3 11 301 1][vp 8 0 0 23 65535 0]S-Estamos quase no mesmo nível![n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 3 11 301 1][vp 8 0 0 23 65535 0]E-Estamos quase no mesmo nível![n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Então... isso significa que neste[n]mundo, em algum lugar, existe uma[n]versão ATM de mim mesmo?[n][f 1 3 65535][w][e]

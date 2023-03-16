@@ -3,7 +3,7 @@
 
 [msg MSG_001_0_0 [Makoto]]
 [s][bup 0 6 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Vamos ao trabalho.[n]Os carros da polícia estão patrulhando,[n]não podemos ficar aqui por muito tempo.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Já temos "Masayoshi Shido" e[n]"Diet Palace". Sentimos falta[n]"o que" você acha deste lugar.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Já temos "Masayoshi Shido" e[n]"Diet Building". Tudo o que precisamos é "o que" ele[n]pensa deste lugar.[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Ryuji]]
 [s][bup 0 2 11 65535 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]Talvez "Monte Fuji", já que[n]é o lugar mais alto do país?[n][f 1 3 65535][w][e]

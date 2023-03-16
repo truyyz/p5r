@@ -2,7 +2,7 @@
 [s][vp 8 0 0 0 65535 0](ざわつく声)[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Presentatore dello spettacolo]]
-[s][vp 8 0 0 1 65535 0]Brilhante, realmente uma apresentação esplêndida[n]da boate![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 1 65535 0]Brilhante, essa foi uma ótima apresentação do[n]clube de dança![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 2 65535 0]Vamos lá, vamos dar a ele outra[n]grande salva de palmas![n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [(SE)秀尽学園生徒]]

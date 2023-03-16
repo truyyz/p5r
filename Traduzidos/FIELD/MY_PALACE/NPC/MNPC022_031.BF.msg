@@ -120,7 +120,7 @@
 [s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 32 10 0 10]É ilegal, Ryuji.[n][w][e]
 
 [msg MES_GROUP8_06 [Ryuji]]
-[s][bup 0 2 4 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 30 10 0 10][vp 8 2 1 7040 65535 0]L-eu sei muito bem![n][w][e]
+[s][bup 0 2 4 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 30 10 0 10][vp 8 2 1 7040 65535 0]E-Eu sei muito bem![n][w][e]
 
 [msg MES_GROUP9_01 [Futaba]]
 [s][bup 0 8 3 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 33 10 0 10][vp 8 2 1 9098 65535 0]Aquele palácio era um turbilhão[n]de emoções, mas o labirinto[n]escuro era tremendo.[n][w][e]

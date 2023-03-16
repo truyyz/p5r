@@ -28,7 +28,7 @@
 
 [msg MSG_007_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*anf*... Merda... Minhas[n]pernas estão tremendo... Não caia[n]no chão caminhando para casa...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você é pego.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Até mais.[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]竜司差込イベント ランク●[n]メッセージ1[n][f 1 3 65535][w][e]

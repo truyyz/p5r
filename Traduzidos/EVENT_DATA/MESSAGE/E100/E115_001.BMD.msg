@@ -45,7 +45,7 @@
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 3 301 1][vp 8 0 0 18 65535 0]Deus, isso é loucura![n][f 1 3 65535][w][e]
 
 [msg MSG_018_5_0 [Sakamoto]]
-[s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]De qualquer forma, vamos dar o sair daqui![n]Você vai na frente[n][f 1 3 65535][w][e]
+[s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]De qualquer forma, vamos dar o fora daqui![n]Você vai na frente[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Sakamoto]]
 [s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]Hrah![n][f 1 2 53][w][e]

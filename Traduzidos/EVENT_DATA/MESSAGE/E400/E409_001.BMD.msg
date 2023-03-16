@@ -104,7 +104,8 @@
 
 [msg MSG_037_0_0 [Ann]]
 [s][bup 0 4 301 65535 0][f 4 10 65535 0 0][vp 8 0 0 42 65535 0]As pessoas tendem a ter uma ideia errada[n]mas esse certamente não é[n]o seu caso.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 43 65535 0]Meus passatempos inclue cerimônia do chá.[n]Novamente, meu pai me obrigou[n]a eu aprender essa arte.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 43 65535 0]Meus hobbies incluem cerimônias do chá.[n]Por outro lado, meu pai me obrigou a[n]aprender essa arte.[n][f 1 3 65535][w][e]
+
 
 [msg MSG_038_0_0 [Ombra Ex nobile]]
 [s][vp 8 0 0 44 17 0]Entendo. Percebo uma uva nobre[n]diferente da[n]dos seus sete.[n][f 1 3 65535][w][e]

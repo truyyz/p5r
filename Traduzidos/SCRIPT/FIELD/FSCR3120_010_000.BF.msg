@@ -243,7 +243,7 @@
 
 [msg MSG_KAWAKAMI_SPOT_UENO_0_2 [Kawakami]]
 [s][bup 0 109 0 65535 1]O museu de arte em Ueno,[n]eh? Interessante.[n][w][e]
-[s]Andiamo, Padrone! ☆[n][w][e]
+[s]Vamos, mestre! ☆[n][w][e]
 
 [msg MSG_KAWAKAMI_SPOT_UENO_0_3 [Kawakami]]
 [s][bup 0 109 0 65535 1]Ah, não seja um estraga-prazeres...[n][w][e]

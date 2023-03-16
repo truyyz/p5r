@@ -2,8 +2,8 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1172 65535 0]Nós temos os dois olhos.[n]Tente inseri-los, Joker![n][w][e]
 
 [sel D01_04_e165_058_selA top]
-[s]Use seus olhos[e]
-[s]Espere um momento[e]
+[s]Usar os olhos[e]
+[s]Espere por enquanto[e]
 
 [msg D01_04_e165_058_selA_0_m [Ryuji]]
 [s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7052 65535 0]Excelente! Podemos passar![n][w][e]

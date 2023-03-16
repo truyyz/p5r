@@ -27,7 +27,7 @@
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]O que as Sombras estão fazendo aqui?[n]Não é como se eles tivessem que pegar[n]o trem ou...[n][w][e]
 
 [msg MSG_FIRST_02_04_mes05 [Ryuji]]
-[s][bup 0 2 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7183 65535 0]S-Ele parou...?[n][w][e]
+[s][bup 0 2 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7183 65535 0]E-Ele parou...?[n][w][e]
 
 [msg MSG_FIRST_02_04_mes06 [Ann]]
 [s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6186 65535 0]Eles subiram...[n][w][e]

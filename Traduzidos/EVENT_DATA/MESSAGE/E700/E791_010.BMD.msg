@@ -18,7 +18,7 @@
 
 [msg MSG_005_0_0 [Caroline]]
 [s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]As execuções serão muito mais[n]severas com o alarme ativo![n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]O resultado é que o Personae[n]obtido será ainda[n]fortalecido![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]O resultado é que o Personas [n]obtido será ainda[n]fortalecido![n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Justine]]
 [s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]No entanto, quanto mais execuções você realizar[n]durante o alarme, mais provável[n]é que ocorra um acidente.[n][f 1 3 65535][w][e]

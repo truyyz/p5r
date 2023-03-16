@@ -8,7 +8,7 @@
 [s][f 5 14]Seria uma pena[n]não aproveitar, né?[n]Vamos juntos?[n][f 5 15][w][e]
 
 [msg MSG_101_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]O que você quer fazer?[n]Você quer namorar Akechi?[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]O que você quer fazer?[n]Você quer sair com Akechi?[n][f 1 3 65535][w][e]
 
 [sel SEL_111_0_0 top]
 [s]Aceitar[e]

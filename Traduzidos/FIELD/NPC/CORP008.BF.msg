@@ -251,7 +251,7 @@
 [s]Eu tenho um vínculo forte[n]com Akechi...[n][w][e]
 
 [msg MSG_COOP_CHECK_DUNGEON [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Fazer uma pausa de vez em quando é bom para você.[n]Você quer um encontro com Akechi?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Fazer uma pausa de vez em quando é bom para você.[n]Você quer sair com Akechi?[n][w][e]
 
 [msg MSG_COOP_CHECK_DAY [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1185 65535 0]O que você quer fazer?[n]Você quer sair com Akechi?[n][w][e]

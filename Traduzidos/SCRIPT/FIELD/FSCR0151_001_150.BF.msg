@@ -28,5 +28,5 @@
 [s]Dummy fscr0151_001_150[n][w][e]
 
 [msg e168_102_mes01 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1172 65535 0]Andiamo! E occhi aperti![n][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1172 65535 0]Vamos! E fique de olho![n][w][e]
 

@@ -172,7 +172,7 @@
 [s][bup 0 222 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 5 0]Visto? Ele também gosta.[n][f 1 3 65535][w][e]
 
 [msg MSG_051_0_0 [Maruki]]
-[s][bup 0 216 303 65535 0][f 4 10 65535 0 0][vp 8 2 0 57450 65535 0][f 5 13 35 10 1014]L-Eu aprecio isso, mas, eu tenho[n]admitidamente, tenho[n]sentimentos confusos sobre isso...[n][f 1 3 65535][w][e]
+[s][bup 0 216 303 65535 0][f 4 10 65535 0 0][vp 8 2 0 57450 65535 0][f 5 13 35 10 1014]E-Eu aprecio isso, mas, eu tenho[n]admitidamente, tenho[n]sentimentos confusos sobre isso...[n][f 1 3 65535][w][e]
 
 [msg MSG_052_0_0 [Shibusawa]]
 [s][bup 0 222 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 5 0]Aí você ouviu o garoto.[n]Ele concorda comigo.[n][f 1 3 65535][w][e]

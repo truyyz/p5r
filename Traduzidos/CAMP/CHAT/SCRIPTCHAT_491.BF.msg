@@ -20,7 +20,7 @@
 [s][f 5 14]Não tema. Em mim, claro.[n][f 5 15][w][e]
 
 [msg MSG_MORUGANA_PLAY_CHECK [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]O que você quer fazer? Você quer namorar[n]Akechi?[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]O que você quer fazer? Você quer sair com[n]Akechi?[n][f 1 3 65535][w][e]
 
 [sel SEL_COOP_PLAY_CHECK top]
 [s]Vá com ele[e]

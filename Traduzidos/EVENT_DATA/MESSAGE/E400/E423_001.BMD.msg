@@ -42,7 +42,7 @@
 [s][bup 0 5 100 65535 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Mas quando você conseguiu o poder[n]para fazê-lo, acabou usando-o[n]para seu próprio ganho.[n][f 1 3 65535][w][e]
 
 [msg MSG_010_3_0 [Futaba]]
-[s][bup 0 8 100 65535 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Se você é capaz de usar múltiplas[n]Personae, provavelmente tem[n]o mesmo talento que o Joker.[n][f 1 3 65535][w][e]
+[s][bup 0 8 100 65535 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Se você é capaz de usar múltiplas[n]Personas , provavelmente tem[n]o mesmo talento que o Joker.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Mas porque você enfrentou a vida[n]sozinho, o poder que você[n]despertou estava cheio de ódio e mentiras.[n][f 1 3 65535][w][e]
 [s][bup 0 8 103 65535 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]Ainda assim, você pensou que era[n]o suficiente, não é? Entendo[n]completamente como você se sentiu.[n][f 1 3 65535][w][e]
 

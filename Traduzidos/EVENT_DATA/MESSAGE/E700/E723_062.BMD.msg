@@ -35,7 +35,7 @@
 [s][bup 0 216 301 65535 0][f 4 10 65535 0 0][vp 8 2 0 57434 65535 0][f 5 13 35 5 1014]Obrigado! Estou contando muito com[n]você, [f 4 1]-kun.[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Maruki]]
-[s][bup 0 216 303 65535 0][f 4 10 65535 0 0][vp 8 2 0 57458 65535 0]L-Eu sei, mas por favor, estou[n]implorando! Não posso contar[n]com mais ninguém![n][f 1 3 65535][w][e]
+[s][bup 0 216 303 65535 0][f 4 10 65535 0 0][vp 8 2 0 57458 65535 0]E-Eu sei, mas por favor, estou[n]implorando! Não posso contar[n]com mais ninguém![n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Maruki]]
 [s][bup 0 216 300 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Investigando o funcionamento do[n]coração, eu queria encontrar uma maneira de[n]ajudar vítimas de traumas...[n][f 1 3 65535][w][e]

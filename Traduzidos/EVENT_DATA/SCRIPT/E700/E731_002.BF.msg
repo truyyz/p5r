@@ -106,7 +106,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas o "tipo" alemão é pronunciado[n]de forma diferente. Não sei...[n]Vamos tentar pensar melhor.[n][f 1 3 65535][w][e]
 
 [sel THINK_3_SEL_01 top]
-[s]Quem faz uso de Personae.[e]
+[s]Quem faz uso de Personas .[e]
 [s]Uma criança curiosa.[e]
 [s]Um prodígio.[e]
 

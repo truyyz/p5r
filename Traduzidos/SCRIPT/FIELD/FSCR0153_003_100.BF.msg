@@ -36,6 +36,6 @@
 
 [msg D02_02_e200_149_mes05 [Demoni del Tesoro]]
 [s]Às vezes, os [clr 2]Demônios do Tesouro[clr 27] se escondem[n]em objetos quebráveis[n]dentro dos Palácios.[n][w][e]
-[s]Vencê-los dá a você muitos pontos de experiência[n]e eles são um excelente material para a fusão de[n]Personae.[n][w][e]
+[s]Vencê-los dá a você muitos pontos de experiência[n]e eles são um excelente material para a fusão de[n]Personas .[n][w][e]
 [s]É altamente recomendável que você[n]os persiga, sempre que[n]tiver a chance.[n][w][e]
 

@@ -69,7 +69,7 @@
 [s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Mas há uma maneira de superá-los, não é?[n]Vamos dar uma olhada, Joker.[n][w][e]
 
 [msg D151_15_GIM_02_mes01 [Ann]]
-[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6165 65535 0]Cara, não tem um pouco[n]muitos bares aqui, para ser ...[n]uma sala de jantar?[n][w][e]
+[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6165 65535 0]Cara, não tem muitos[n] bares aqui, para ser...[n]uma sala de jantar?[n][w][e]
 
 [msg D151_15_GIM_02_mes02 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Sim, também acho. Agora,[n]de acordo com o mapa...[n][w][e]

@@ -12,7 +12,7 @@
 
 [msg MSG_003_0_0 [Igor]]
 [s][bup 0 201 0 0 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Hehe, não se preocupe. Você está[n]aproximando-se constantemente[n]da realização de seu objetivo.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Não considere isso um teste, mas[n]vou aumentar o número de Personae[n]que você pode levar com você.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Não considere isso um teste, mas[n]vou aumentar o número de Personas [n]que você pode levar com você.[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Igor]]
 [s][bup 0 201 0 0 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]De agora em diante, sua história[n]vai avançar...[n][f 1 3 65535][w][e]

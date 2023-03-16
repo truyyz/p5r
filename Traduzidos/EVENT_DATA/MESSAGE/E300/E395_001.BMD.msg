@@ -51,7 +51,7 @@
 [s][bup 0 6 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]É um alívio vê-lo novamente.[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Ryuji]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 1 301 1][vp 8 0 0 20 65535 0]Aposto que Akechi ainda não sabe[n]que transamos com ele, aquele[n]filho de...[n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 1 301 1][vp 8 0 0 20 65535 0]Aposto que aquele idiota do Akechi[n]ainda nem sabe que fodemos com o[n]plano dele, aquele filho da ...[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Sojiro]]
 [s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]Mas como você fez isso?[n][f 1 3 65535][w][e]

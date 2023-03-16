@@ -2,7 +2,7 @@
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1158 65535 0]Espere, Jokers![n][w][e]
 
 [msg D01_04_e160_084_mes02 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Este lugar é enorme... mas não há guardas? Cheiro[n]de queimado...[n][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Este lugar é enorme... mas não há guardas?[n]Isso parece suspeito...[n][w][e]
 
 [msg D01_04_e160_084_mes03 [Ryuji]]
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Mas o Tesouro é mais adiante, né? Podemos fazer[n]além de continuar.[n][w][e]
@@ -22,16 +22,16 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1158 65535 0]Você está pronto, Joker?[n][w][e]
 
 [msg D01_04_e160_087_mes01 [Ann]]
-[s][bup 0 4 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 1 0 0]Espere, isso foi ...[n]o ginásio?[n][w][e]
+[s][bup 0 4 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 1 0 0]Espere, isso é...[n]o ginásio?[n][w][e]
 
 [msg D01_04_e160_087_mes02 [Ryuji]]
-[s][bup 0 2 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 2 0 0]Eu entendo... para ele o ginásio[n]é um lugar sagrado.[n]Aqui está algum tipo de divindade.[n][w][e]
+[s][bup 0 2 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 2 0 0]Eu entendo... para ele o ginásio[n]é um lugar sagrado.[n]Ele é um deus lá.[n][w][e]
 
 [msg D01_04_e160_087_mes03 [Ann]]
 [s][bup 0 4 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 3 0 0]Eu não posso acreditar que você pensa tal coisa.[n]Especialmente depois do que ele fez com Shiho...[n][w][e]
 
 [msg D01_04_e160_087_mes04 [Ryuji]]
-[s][bup 0 2 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 4 0 0]Deus, aquele bastardo me faz[n]voke! Prepare-se,[n]Kamoshida![n][w][e]
+[s][bup 0 2 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 4 0 0]Deus, aquele bastardo me dá nojo![n]Apenas espere, Kamoshida![n][w][e]
 
 [msg D01_04_e160_087_mes05 [Voz misteriosa]]
 [s][vp 1 0 0 5 0 0]Entendo... foi você quem[n]colocou as mãos na biblioteca.[n][w][e]

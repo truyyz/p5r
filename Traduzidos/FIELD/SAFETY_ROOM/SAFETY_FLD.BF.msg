@@ -2859,7 +2859,7 @@
 
 [msg MADARAME_YUSUKE_mes08 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][f 4 23 1 3 3 5 11 5][vp 8 0 1 10 65535 0]Além disso,[n]Mansão não pode existir em invocadores. É[n]impossível para eles se formarem.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 1 11 65535 0]Os Personae, de fato, representam[n]os sentimentos do coração daqueles que[n]aceitaram sua própria Sombra interior.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 1 11 65535 0]Os Personas , de fato, representam[n]os sentimentos do coração daqueles que[n]aceitaram sua própria Sombra interior.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 12 65535 0]Como eles têm controle total[n]de suas emoções, eles não podem[n]ter desejos distorcidos.[n][w][e]
 
 [msg MADARAME_YUSUKE_mes09 [Ann]]

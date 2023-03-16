@@ -2,7 +2,7 @@
 [s][vp 8 0 0 1 9 0]Uma carta de aviso?[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Studente entusiasta]]
-[s][vp 8 0 0 2 8 0]Ouvi dizer que eles já estavam enforcados[n]antes[n]que alguém apareceu esta manhã.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 2 8 0]Ouvi dizer que já estavam aqui quando todos[n]chegaram aqui esta manhã.[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Senhor Suguru Kamoshida, o[n]grande bastardo da luxúria...[n][f 1 3 65535][w][e]

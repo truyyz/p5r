@@ -2019,7 +2019,7 @@
 
 [msg TalkMsg_RESULT_BRAINWASH_11]
 [s]Ah, então este é o meu destino.[n][w][e]
-[s][clr 1][var 2][clr 27]já está[n]entre seus Personae. Então aceite[n]isto: [f 2 5 3 9999 1].[n][w][e]
+[s][clr 1][var 2][clr 27]já está[n]entre seus Personas . Então aceite[n]isto: [f 2 5 3 9999 1].[n][w][e]
 
 [msg TalkMsg_RESULT_BRAINWASH_12]
 [s]Ah, então este é o meu destino.[n][w][e]

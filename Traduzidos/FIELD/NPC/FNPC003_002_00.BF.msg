@@ -449,7 +449,7 @@
 [s]Strong Robot está prestes a atacar![n]Precisamos de reforços![n][f 1 2 180][e]
 
 [msg MSG_TVANIME_grt_001_0_1]
-[s]S-Ele se move três vezes mais rápido[n]do que o normal! É por isso que[n]eles o chamam de "Meteoro Rosa"...[n][f 1 2 180][e]
+[s]E-Ele se move três vezes mais rápido[n]do que o normal! É por isso que[n]eles o chamam de "Meteoro Rosa"...[n][f 1 2 180][e]
 
 [msg MSG_TVANIME_grt_001_0_2]
 [s]Muito bem. Mostre-me o que[n]o Strong Robot pode fazer...[n][f 1 2 180][e]

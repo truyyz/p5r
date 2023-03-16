@@ -80,8 +80,8 @@
 
 [msg TalkMsg_20]
 [s]Durante um Heist, você pode ameaçar Shadow[n]inimigos.[n][w][e]
-[s]Isso permite que você recrute[n]sombras inimigas como Personae[n]e adquira itens e informações.[n][w][e]
+[s]Isso permite que você recrute[n]sombras inimigas como Personas [n]e adquira itens e informações.[n][w][e]
 [s]Ameaças nem sempre funcionam. Analise as[n]respostas do inimigo e escolha a sua com cuidado.[n][w][e]
-[s]Você também pode alterar livremente as[n]Personae obtidas.[n][w][e]
+[s]Você também pode alterar livremente as[n]Personas obtidas.[n][w][e]
 [s]Quando você altera sua Persona, suas[n]estatísticas, afinidades elementais e as[n]habilidades disponíveis para você mudarão para[n]corresponder à Persona selecionada.[n][w][e]
 
