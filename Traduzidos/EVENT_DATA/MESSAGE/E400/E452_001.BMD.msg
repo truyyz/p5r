@@ -42,7 +42,7 @@
 [s][bup 0 8 103 65535 0][f 4 10 65535 0 0][vp 8 0 0 72 65535 0]Mona?[n][f 1 3 65535][w][e]
 
 [msg MSG_003_8_4 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 82 65535 0]Meu papel era encontrar o[n]Malandro e ajudá-lo[n]a derrotá-la.[n][f 1 3 65535][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 82 65535 0]Meu papel era encontrar o[n]Trickster e ajudá-lo[n]a derrotá-la.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 83 65535 0]Foi por isso que meu[n]mestre me criou.[n][f 1 3 65535][w][e]
 
 [msg MSG_003_8_6 [Igor]]
@@ -59,10 +59,10 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 89 65535 0]Esta é a ruína da humanidade[n]desejada por este deus maligno.[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Ryuji]]
-[s][bup 0 2 103 0 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]I...um...acho que[n]não entendi nada...[n][f 1 3 65535][w][e]
+[s][bup 0 2 103 0 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Eu...um...acho que[n]não entendi nada...[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Lavenza]]
-[s][bup 0 100 2 0 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Cale a boca e ouça![n]Não temos muito tempo![n][f 1 3 65535][w][e]
+[s][bup 0 100 2 0 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Fique quieto e ouça![n]Não temos muito tempo![n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Makoto]]
 [s][bup 0 6 104 0 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]Espere um segundo.[n]O Santo Graal é um "deus"?[n][f 1 3 65535][w][e]

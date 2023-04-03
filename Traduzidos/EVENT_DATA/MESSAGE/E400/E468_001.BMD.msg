@@ -28,7 +28,7 @@
 [s][bup 0 7 105 65535 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Você deseja nos aniquilar[n]a tal ponto?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Morgana]]
-[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]R-Gente![n][f 1 3 65535][w][e]
+[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]G-Gente![n][f 1 3 65535][w][e]
 
 [msg DVL_016_0_0 [Yaldabaoth]]
 [s][vp 8 0 0 29 65535 0]O mundo te abandonou.[n]Não há mais lugar para você.[n][f 1 3 65535][w][e]

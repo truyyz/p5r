@@ -12,7 +12,7 @@
 [s]Boneco[n][f 1 3 65535][w][e]
 
 [msg MSG_BTLSTART02_000_000 [Caroline]]
-[s][vp 8 0 2 1010 1 245]Ele Ele. Parabéns por[n]não desistir.[n][f 1 3 65535][w][e]
+[s][vp 8 0 2 1010 1 245]Heh. Parabéns por[n]não desistir.[n][f 1 3 65535][w][e]
 
 [msg MSG_BTLSTART02_010_000 [Justine]]
 [s][vp 8 0 2 1011 1 244]No entanto, não pense que[n]nós pegaremos leve com você.[n][f 1 3 65535][w][e]

@@ -81,7 +81,7 @@
 [s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 43 65535 0]Por que não paramos em algum lugar[n]antes de irmos para casa?[n][f 1 3 65535][w][e]
 
 [msg MSG_042_0_0 [Futaba]]
-[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 44 65535 0]Então eu quero foie gras![n][f 1 3 65535][w][e]
+[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 44 65535 0]Então eu quero um foie gras![n][f 1 3 65535][w][e]
 
 [msg MSG_043_0_0 [Makoto]]
 [s][bup 0 6 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 45 65535 0]Estamos de volta à realidade[n]agora você sabe.[n][f 1 3 65535][w][e]

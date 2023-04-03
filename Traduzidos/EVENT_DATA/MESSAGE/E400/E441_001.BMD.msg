@@ -27,7 +27,7 @@
 [s][bup 0 6 102 65535 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Masayoshi Shido![n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Ryuji]]
-[s][bup 0 2 102 65535 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]O que está acontecendo?!? Eles deveriam[n]ter despertado[n]o coração[n]após o desaparecimento dos Palácios.[n][f 1 3 65535][w][e]
+[s][bup 0 2 102 65535 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]O que está acontecendo?!? Eles deveriam[n]ter despertado o coração[n]após o desaparecimento dos Palácios.[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Ombra di Kamoshida]]
 [s][bup 0 202 0 0 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Mmh, seu corpo é sempre um[n]conto de fadas. Aproxime-se, venha.[n][f 1 3 65535][w][e]

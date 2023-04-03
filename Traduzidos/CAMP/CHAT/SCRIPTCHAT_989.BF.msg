@@ -1,5 +1,5 @@
 [msg MSG_001_0_0 [Futaba]]
-[s][f 5 14]E os Phantom Thieves levam a vitória! O mal foi derrotado![n]Créditos finais![n][w][e]
+[s][f 5 14]E os Phantom Thieves levam a vitória![n]O mal foi derrotado!Créditos finais![n][w][e]
 
 [msg MSG_002_0_0 [Futaba]]
 [s][f 5 14]... Ops. Eu esqueci[n]de tirar algumas fotos.[n][w][e]

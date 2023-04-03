@@ -203,7 +203,7 @@
 [s][bup 0 5 103 65535 0][f 4 10 65535 0 0][vp 8 0 0 77 65535 0]Por que numa hora[n]assim...?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_066_0_0 [Akechi]]
-[s][bup 0 217 602 65535 0][f 4 10 65535 0 0][vp 8 0 0 78 65535 0]Desperte o coração de Shido...[n]em meu lugar...Coloque[n]um fim[n]seus crimes...[n][f 1 3 65535][w][e]
+[s][bup 0 217 602 65535 0][f 4 10 65535 0 0][vp 8 0 0 78 65535 0]Desperte o coração de Shido...[n]em meu lugar...Coloque[n]um fim em seus crimes...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 79 65535 0]Por favor![n][f 1 3 65535][w][e]
 
 [sel SEL_066_3_0 top]

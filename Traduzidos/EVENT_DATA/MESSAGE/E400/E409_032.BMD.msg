@@ -6,7 +6,7 @@
 
 [msg MSG_002_0_0 [Ryuji]]
 [s][bup 0 2 101 65535 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Hum... Bom dia hoje hein?[n][f 1 3 65535][w][e]
-[s][bup 0 2 103 65535 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]...bem f-talvez não.[n][f 1 3 65535][w][e]
+[s][bup 0 2 103 65535 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]...bem t-talvez não.[n][f 1 3 65535][w][e]
 [s][bup 0 2 105 65535 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Eu, uh... eu gostaria de[n]um bom mergulho! Sim![n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Ryuji]]

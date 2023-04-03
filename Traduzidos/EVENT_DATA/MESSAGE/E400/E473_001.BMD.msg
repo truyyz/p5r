@@ -119,7 +119,7 @@
 [s][bup 0 4 4 4 0][f 4 10 65535 0 0][vp 8 0 0 37 65535 0]O que você está fazendo aqui?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_038_0_0 [Ann]]
-[s][bup 0 4 4 4 0][f 4 10 65535 0 0][vp 8 0 0 39 65535 0]D-quero dizer, você não tinha ido?!?[n][f 1 3 65535][w][e]
+[s][bup 0 4 4 4 0][f 4 10 65535 0 0][vp 8 0 0 39 65535 0]Q-quero dizer, você não tinha ido?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_039_0_0 [Morgana]]
 [s][bup 0 3 600 0 0][f 4 10 65535 0 0][vp 8 0 0 40 65535 0]Aparentemente,[n]só desapareci no Metaverso.[n][f 1 3 65535][w][e]
