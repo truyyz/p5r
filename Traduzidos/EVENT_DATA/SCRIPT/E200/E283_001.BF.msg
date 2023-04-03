@@ -21,6 +21,6 @@
 [s]Não, para poder dizer isso, meu[n][f 4 11 0][clr 26][f 4 12 0][clr 27] deve ter pelo menos[n]level [clr 26][f 4 13 0 2] [clr 27]...[n][w][e]
 
 [msg MSG_NOT_SELECT_PARA_BOTH]
-[s]não sei dizer agora...[n][w][e]
+[s]Não posso dizer isso agora...[n][w][e]
 [s]Para fazer isso, meu [f 4 11 3][clr 26][n][f 4 12 3][clr 27] deve estar no nível [clr 26][n][f 4 13 3 2][clr 27] e meu [n ][f 4 11 0][n][clr 26][f 4 12 0][clr 27] nível [clr 26][n][f 4 13 0 2][clr 27]...[n][w][e]
 

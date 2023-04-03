@@ -1,11 +1,11 @@
 [msg MSG_000_0_0 [[f 7 1]]]
-[s][bup 0 221 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 56756 3 0]Que erro. Eu confundi[n]o acelerador com o freio. Absurdo.[n][f 1 3 65535][w][e]
+[s][bup 0 221 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 56756 3 0]Eu estraguei tudo. Não acredito que[n]misturei o acelerador com o freio. Absurdo.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 3 0]Bem...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 3 0]Primeiro de tudo[n]tenho que consertar isso...[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [[f 7 1]]]
 [s][bup 0 221 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 4 0]É assim que deve ser.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 56789 4 0]OK![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 56789 4 0]Ok![n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [[f 7 1]]]
 [s][bup 0 221 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 4 0]Então, você precisa de mim?[n][f 1 3 65535][w][e]
@@ -26,7 +26,7 @@
 
 [msg MSG_005_0_0 [[f 7 1]]]
 [s][bup 0 221 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 56793 4 0]Este é um lugar criado pelo[n]conhecimento de pessoas como você...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 4 0]É aqui que suas memórias e[n]emoções são coletadas e[n]formadas.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 4 0]É aqui que suas memórias e[n]emoções são coletadas e[n]dão forma.[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [[f 7 1]]]
 [s][bup 0 221 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 4 0]Cara, eu estava certo em[n]vir aqui! Aposto que[n]vou aprender muitas coisas novas.[n][f 1 3 65535][w][e]
