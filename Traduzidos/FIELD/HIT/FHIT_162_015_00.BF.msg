@@ -66,7 +66,7 @@
 [s][bup 0 9 800 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Não há dúvida de que precisamos encontrar[n]um para poder continuar.[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos começar a procurar.[n][w][e]
 
-[msg D10_15_3rd_passcode_lock [Voce meccanica]]
+[msg D10_15_3rd_passcode_lock [Voz mecânica]]
 [s]Bloqueio de segurança ativo.[n]Responda à seguinte[n]pergunta de autenticação:[n][w][e]
 [s]"Como os adolescentes reagem,[n]quando estão perto de alguém[n]muito mais talentoso?"[n][w][e]
 
@@ -80,7 +80,7 @@
 [msg D10_15_3rd_passcode_lock_4 [Akechi]]
 [s][bup 0 9 800 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 8158 65535 0]Precisamos encontrar uma[n]dica para a resposta primeiro, Joker![n][w][e]
 
-[msg D10_15_3rd_passcode_lock_5 [Voce meccanica]]
+[msg D10_15_3rd_passcode_lock_5 [Voz mecânica]]
 [s]Bloqueio de segurança ativo.[n]Responda à seguinte[n]pergunta de autenticação:[n][w][e]
 [s]"Como os adolescentes reagem,[n]quando estão perto de alguém[n]muito mais talentoso?"[n][w][e]
 
@@ -90,13 +90,13 @@
 [s]Esperando que falhe.[e]
 [s]Desejando que você fosse essa pessoa.[e]
 
-[msg D10_15_3rd_passcode_lock_7 [Voce meccanica]]
+[msg D10_15_3rd_passcode_lock_7 [Voz mecânica]]
 [s]Resposta errada.[n]Dispositivo de bloqueio ativo.[n][w][e]
 
 [msg D10_15_3rd_passcode_lock_8 [[f 4 31 10 0]]]
 [s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 57033 65535 0]Acho que não é o[n]certo... Tente novamente,[n]Joker-senpai.[n][w][e]
 
-[msg D10_15_3rd_passcode_lock_9 [Voce meccanica]]
+[msg D10_15_3rd_passcode_lock_9 [Voz mecânica]]
 [s]Autenticação concluída.[n]Bloquear.[n][w][e]
 
 [msg D10_15_3rd_passcode_lock_10 [[f 4 31 10 0]]]
@@ -116,10 +116,10 @@
 [msg D10_15_something_check_n [Morgana]]
 [s][bup 0 3 3 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1028 65535 0]Não há nada aqui...[n]Vamos procurar em outro lugar.[n][w][e]
 
-[msg D10_15_enemies_left_room [Ricercatore]]
+[msg D10_15_enemies_left_room [Investigador]]
 [s]Vamos nos juntar à patrulha. Parece que[n]intrusos recusaram[n]terapia. Estou nas instalações.[n][w][e]
 
-[msg D10_15_enemies_left_room_2 [Esaminatore]]
+[msg D10_15_enemies_left_room_2 [Examinador]]
 [s]Se eles recusaram a salvação[n]do mestre, eles não têm esperança.[n]Devemos pegá-los rapidamente.[n][w][e]
 [s]Não se esqueça de trancar esta porta.[n][w][e]
 
@@ -155,13 +155,13 @@
 [msg D162_015_mini_EV_01_mes0_2 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1035 65535 0]Entendido. Vamos nos preparar para o melhor.[n][w][e]
 
-[msg D162_015_BOSS_EV_Start [Sentinella]]
+[msg D162_015_BOSS_EV_Start [Sentinela]]
 [s]Vocês são... os Ladrões Fantasmas?[n][w][e]
 
 [msg D162_015_BOSS_EV_01 [Akechi]]
 [s][bup 0 9 810 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 54502 65535 0]Estamos aqui para destruir a utopia hipócrita de[n]seu chefe. Você se importaria de sair do caminho?[n][w][e]
 
-[msg D162_015_BOSS_EV_End [Sentinella]]
+[msg D162_015_BOSS_EV_End [Sentinela]]
 [s]Tolos rebeldes! Daqui[n]não passe![n][w][e]
 
 [msg D10_15_look_videoroom_st [Futaba]]
@@ -180,7 +180,7 @@
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 54703 65535 0]Acabamos de passar por uma sala.[n]Lembra?[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Por que não damos uma olhada neles?[n][w][e]
 
-[msg D10_15_urge_check_3rd_vi [Voce meccanica]]
+[msg D10_15_urge_check_3rd_vi [Voz mecânica]]
 [s]Bloqueio de segurança ativo.[n]Responda à seguinte[n]pergunta de autenticação:[n][w][e]
 [s]"Como os adolescentes reagem,[n]quando estão perto de alguém[n]muito mais talentoso?"[n][w][e]
 
@@ -199,7 +199,7 @@
 [msg D10_FindGate_start [Ann]]
 [s][bup 0 4 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eles estão passando[n]aquela parede estranha...[n]O que é isso?!?[n][w][e]
 
-[msg D10_FindGate_01 [Avviso]]
+[msg D10_FindGate_01 [Eu notifico]]
 [s]Para os pacientes que têm[n]o tratamento: por favor,[n]passe pelos portões brilhantes.[n][w][e]
 [s]Seu paraíso espera por você[n]do outro lado.[n][w][e]
 
@@ -217,7 +217,7 @@
 [msg D10_FindGate_04 [Ann]]
 [s][bup 0 4 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6028 65535 0]NÃO diga isso nem de brincadeira![n][w][e]
 
-[msg D10_FindGate_05 [Avviso]]
+[msg D10_FindGate_05 [Eu notifico]]
 [s]Os pacientes não podem passar sem terapia. Para[n]recebê-lo, siga as instruções dadas em outro[n]lugar.[n][w][e]
 
 [msg D10_FindGate_end [Makoto]]

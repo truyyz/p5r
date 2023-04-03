@@ -10,7 +10,7 @@
 [s]Sim[e]
 [s]Não[e]
 
-[msg MSG_KITCHEN_WOMAN_INFO [Cameriera]]
+[msg MSG_KITCHEN_WOMAN_INFO [Garçonete]]
 [s]Se você deseja fazer o pedido, deve comprar[n]o recibo dessa[n]máquina.[n][w][e]
 
 [msg MSG_KITCHEN_THINK [Morgana]]
@@ -20,7 +20,7 @@
 [s]Eu vou comer aqui.[e]
 [s]Eu não vou comer aqui.[e]
 
-[msg MSG_KITCHEN_WOMAN_START [Cameriera]]
+[msg MSG_KITCHEN_WOMAN_START [Garçonete]]
 [s]OK, você tem que esperar um pouco.[n][w][e]
 
 [msg MSG_KITCHEN_INFO_KAMO_BF [Morgana]]
@@ -36,7 +36,7 @@
 [msg MSG_KITCHEN_INFO_KAMO_AF [Morgana]]
 [s][bup 0 3 0 0 0]Há uma cozinha lá dentro.[n]Parece que você precisa de recibos[n]para fazer seu pedido.[n][w][e]
 
-[msg MSG_KITCHEN_WOMAN_NO [Cameriera]]
+[msg MSG_KITCHEN_WOMAN_NO [Garçonete]]
 [s]Nós limpamos depois da escola,[n]então volte outra hora.[n][w][e]
 
 [msg MSG_TICKET_START [Morgana]]

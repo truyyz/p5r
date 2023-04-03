@@ -14,7 +14,7 @@
 [msg MSG_NIGHTNEWS_002_00 [Locutor]]
 [s]Resumo da notícia[n][w][e]
 
-[msg MSG_NIGHTNEWS_003_00 [Intervistatrice]]
+[msg MSG_NIGHTNEWS_003_00 [Entrevistador]]
 [s]Fim das novidades[n][w][e]
 
 [msg MSG_NIGHTNEWS_004_00 [Morgana]]

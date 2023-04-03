@@ -18,7 +18,7 @@
 [msg D05_05_EX3BOSS_selA_2_01 [Haru]]
 [s][bup 0 7 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 3035 65535 0]OK. Devemos voltar quando tivermos certeza de que[n]estamos prontos.[n][w][e]
 
-[msg D05_05_EX3BOSS_before_ba [Guardia robot]]
+[msg D05_05_EX3BOSS_before_ba [Robô Guarda]]
 [s]É preciso coragem para ignorar seus próprios[n]deveres e acreditar...[n][w][e]
 [s]APARENTEMENTE TEMOS[n]TRABALHADORES IMUDENTES QUE PRECISAM[n]TREINAMENTO EXTRA![n][w][e]
 
@@ -29,6 +29,6 @@
 [msg D05_05_EX3BOSS_After_win [Haru]]
 [s][bup 0 7 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 3048 65535 0]Conseguimos![n][w][e]
 
-[msg DUMMY_mes01 [ERROR]]
+[msg DUMMY_mes01 [ERRO]]
 [s]Fictício[n][w][e]
 

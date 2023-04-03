@@ -5,18 +5,18 @@
 [msg MSG_180_105_00]
 [s]Fictício[n][w][e]
 
-[msg MSG_POLICE_180105_00 [Uomo bruto]]
+[msg MSG_POLICE_180105_00 [Homem brutal]]
 [s][vp 8 2 1 0 801 0]O lugar é este...[n][w][e]
 
-[msg MSG_POLICE_180105_01 [Uomo sospetto]]
+[msg MSG_POLICE_180105_01 [Homem suspeito]]
 [s][vp 8 2 1 0 800 0]Parece tão. Vamos[n]trabalhar.[n][w][e]
 
-[msg MSG_POLICE_180105_02 [Uomo bruto]]
+[msg MSG_POLICE_180105_02 [Homem brutal]]
 [s][vp 8 2 1 0 801 0]Espere! Ainda não temos um[n]mandado de busca.[n][w][e]
 [s][vp 8 2 1 0 801 0]Seja paciente. Tenho certeza que[n]teremos isso em breve.[n][w][e]
 [s][vp 8 2 1 0 801 0]E ninguém jamais pensaria em[n]escapar por um beco tão estreito.[n][w][e]
 
-[msg MSG_CATCH_001_00 [Uomo minaccioso]]
+[msg MSG_CATCH_001_00 [Homem ameaçador]]
 [s][f 4 23 1 850 3 10 0 10][vp 8 2 1 0 850 0]Ei, você é estudante?[n][w][e]
 [s]Você gostaria de ganhar bem[n]sem se matar de trabalho?[n][w][e]
 
@@ -37,6 +37,6 @@
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1035 65535 0]Já. Se parece bom demais para[n]ser verdade, provavelmente é falso.[n]Além disso, eu já vi esse cara antes...[n][w][e]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Enfim, agora nossa[n]prioridade é dar a[n]medalha de ouro. Vamos![n][w][e]
 
-[msg MSG_CATCH_GREETING_00 [Venditore]]
+[msg MSG_CATCH_GREETING_00 [Vendedor]]
 [s][f 4 23 1 850 3 10 0 10][vp 8 2 1 0 850 0]Ei! Você quer jogar?[n][w][e]
 

@@ -5,25 +5,25 @@
 [msg MSG_401_102_00]
 [s]Fictício[n][w][e]
 
-[msg MSG_NPC_800_00 [Vecchietto sorpreso]]
+[msg MSG_NPC_800_00 [Velho surpreso]]
 [s][f 4 23 1 800 3 10 0 0][vp 8 2 1 0 800 0]Shido? É ESSE Shido?!?[n][w][e]
 
-[msg MSG_NPC_801_00 [Casalinga emozionata]]
+[msg MSG_NPC_801_00 [Dona de casa animada]]
 [s][f 4 23 1 801 3 10 0 0][vp 8 2 1 0 801 0]Está aqui?!? Cadê?!? Onde?!?[n][w][e]
 
-[msg MSG_NPC_802_00 [Ragazzo entusiasta]]
+[msg MSG_NPC_802_00 [Menino entusiasmado]]
 [s][f 4 23 1 802 3 10 0 0][vp 8 2 1 0 802 0]Uau, incrível![n]Vamos ver![n][w][e]
 
-[msg MSG_NPC_Family_00 [Bambino curioso]]
+[msg MSG_NPC_Family_00 [Criança curiosa]]
 [s][f 4 23 1 803 3 10 0 0][vp 8 2 1 0 803 0]Aquele senhor é Shido?[n][w][e]
 
-[msg MSG_NPC_Family_01 [Giovane madre]]
+[msg MSG_NPC_Family_01 [Jovem mãe]]
 [s][f 4 23 1 804 3 10 0 0][vp 8 2 1 0 804 0]Está certo. Ele é um homem forte e admirável![n][w][e]
 
-[msg MSG_NPC_Family_02 [Bambino curioso]]
+[msg MSG_NPC_Family_02 [Criança curiosa]]
 [s][f 4 23 1 803 3 10 0 0][vp 8 2 1 0 803 0]Mais do que pai?[n][w][e]
 
-[msg MSG_NPC_Family_03 [Padre silenzioso]]
+[msg MSG_NPC_Family_03 [Pai silencioso]]
 [s][f 4 23 1 805 3 10 0 0][vp 8 2 1 0 805 0]Mmm, bem... sim, eu diria que sim.[n]Shido é uma pessoa maravilhosa.[n][w][e]
 
 [msg MSG_NPC_YUSUKE_00 [Yusuke]]

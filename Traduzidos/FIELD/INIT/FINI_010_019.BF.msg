@@ -1,68 +1,68 @@
-[msg MSG_000_0_0 [Dipendente]]
+[msg MSG_000_0_0 [Funcionário]]
 [s][vp 1 0 0 0 0 0]Bem-vindo ao Big Bang Burguer! Estamos[n]sempre abertos porque no espaço[n]não existe dia e noite![n][w][e]
 
-[msg MSG_BigBangCH_TUTO [Dipendente]]
+[msg MSG_BigBangCH_TUTO [Funcionário]]
 [s][vp 1 0 0 0 0 0]No momento, estamos oferecendo um desafio[n]chamado de [clr 2]Desafio do Big Bang[clr 27]![n][w][e]
 [s][vp 1 0 0 0 0 0]Se você conseguir consumir nosso[n]hambúrguer especial dentro[n]do prazo, você ganha![n][w][e]
 [s]E temos um grande prêmio[n]para os que tiverem sucesso![n][w][e]
 
-[msg MSG_BigBangCH_TUTO_end [Dipendente]]
+[msg MSG_BigBangCH_TUTO_end [Funcionário]]
 [s][vp 1 0 0 0 0 0]Por que você não aceita o desafio?[n]O universo espera![n][w][e]
 
 [msg MSG_BigBangCH_TUTO_Add01 [Morgana]]
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 1058 65535 0]Um desafio, né? Que tal tentarmos?[n][w][e]
 
-[msg MSG_BigBangCH_TUTO_Add02 [Dipendente]]
+[msg MSG_BigBangCH_TUTO_Add02 [Funcionário]]
 [s][vp 1 0 0 0 0 0]À noite, o Big Bang Challenge[n]vai custar aos nossos intrépidos[n]viajantes apenas 500 ienes![n][w][e]
 
-[msg MSG_CONVINI_GREETING_HAR [Dipendente]]
+[msg MSG_CONVINI_GREETING_HAR [Funcionário]]
 [s][vp 1 0 0 0 0 0]Temos uma nova adição[n]ao cardápio: o [clr 3]Sanduíche Supernova[clr 27]![n][w][e]
 
-[msg MSG_CONVINI_GREETING_4_5 [Dipendente]]
+[msg MSG_CONVINI_GREETING_4_5 [Funcionário]]
 [s][vp 1 0 0 0 0 0]No momento, temos[n]uma oferta por tempo limitado[n]primavera no menu: o [clr 3]Sanduíche da Terra[clr 27]![n][w][e]
 
-[msg MSG_CONVINI_GREETING_10_ [Dipendente]]
+[msg MSG_CONVINI_GREETING_10_ [Funcionário]]
 [s][vp 1 0 0 0 0 0]No momento, temos[n]uma oferta de outono[n]limitada por tempo no menu: o [clr 3]Moon Bun[clr 27]![n][w][e]
 
-[msg MSG_CONVINI_GREETING_MON [Dipendente]]
+[msg MSG_CONVINI_GREETING_MON [Funcionário]]
 [s][vp 1 0 0 0 0 0]Há uma oferta especial[n]para comemorar o início[n]do Big Bang Challenge![n][w][e]
 [s][vp 1 0 0 0 0 0]À noite, o Big Bang Challenge[n]vai custar aos nossos intrépidos[n]viajantes apenas 500 ienes![n][w][e]
 
-[msg MSG_CONVINI_GREETING_MON_2 [Dipendente]]
+[msg MSG_CONVINI_GREETING_MON_2 [Funcionário]]
 [s][vp 1 0 0 0 0 0]Este mês há outra[n]oferta especial para celebrar o[n]sucesso do Big Bang Challenge![n][w][e]
 [s][vp 1 0 0 0 0 0]À noite, o Big Bang Challenge[n]vai custar aos nossos intrépidos[n]viajantes apenas 500 ienes![n][w][e]
 
-[msg MSG_CONVINI_GREETING_MON_3 [Dipendente]]
+[msg MSG_CONVINI_GREETING_MON_3 [Funcionário]]
 [s][vp 1 0 0 0 0 0]Este mês há outra[n]oferta especial para celebrar o[n]sucesso do Big Bang Challenge![n][w][e]
 [s][vp 1 0 0 0 0 0]À noite, o Big Bang Challenge[n]vai custar aos nossos intrépidos[n]viajantes apenas 500 ienes![n][w][e]
 
-[msg MSG_CONVINI_GREETING_MON_4 [Dipendente]]
+[msg MSG_CONVINI_GREETING_MON_4 [Funcionário]]
 [s][vp 1 0 0 0 0 0]Estamos celebrando o sucesso[n]do Big Bang Challenge com uma[n]oferta especial de verão![n][w][e]
 [s][vp 1 0 0 0 0 0]À noite, o Big Bang Challenge[n]vai custar aos nossos intrépidos[n]viajantes apenas 500 ienes![n][w][e]
 
-[msg MSG_CONVINI_GREETING_MON_5 [Dipendente]]
+[msg MSG_CONVINI_GREETING_MON_5 [Funcionário]]
 [s][vp 1 0 0 0 0 0]Estamos celebrando o sucesso[n]do Big Bang Challenge com[n]uma oferta especial de outono![n][w][e]
 [s][vp 1 0 0 0 0 0]À noite, o Big Bang Challenge[n]vai custar aos nossos intrépidos[n]viajantes apenas 500 ienes![n][w][e]
 
-[msg MSG_CONVINI_GREETING_MON_6 [Dipendente]]
+[msg MSG_CONVINI_GREETING_MON_6 [Funcionário]]
 [s][vp 1 0 0 0 0 0]Estamos celebrando o sucesso[n]do Big Bang Challenge com[n]outra oferta especial![n][w][e]
 [s][vp 1 0 0 0 0 0]À noite, o Big Bang Challenge[n]vai custar aos nossos intrépidos[n]viajantes apenas 500 ienes![n][w][e]
 
-[msg MSG_CONVINI_GREETING_MON_7 [Dipendente]]
+[msg MSG_CONVINI_GREETING_MON_7 [Funcionário]]
 [s][vp 1 0 0 0 0 0]Estamos comemorando o sucesso[n]do Big Bang Challenge com[n]nossa última oferta especial![n][w][e]
 [s][vp 1 0 0 0 0 0]À noite, o Big Bang Challenge[n]vai custar aos nossos intrépidos[n]viajantes apenas 500 ienes![n][w][e]
 
-[msg MSG_CONVINI_GREETING_MON_8 [Dipendente]]
+[msg MSG_CONVINI_GREETING_MON_8 [Funcionário]]
 [s][vp 1 0 0 0 0 0]Para comemorar o sucesso[n]do Big Bang Challenge, estamos[n]reproduzindo uma oferta especial![n][w][e]
 [s][vp 1 0 0 0 0 0]À noite, o Big Bang Challenge[n]vai custar aos nossos intrépidos[n]viajantes apenas 500 ienes![n][w][e]
 
-[msg MSG_BurgerYesBuy [Dipendente]]
+[msg MSG_BurgerYesBuy [Funcionário]]
 [s][vp 1 0 0 0 0 0]Mil agradecimentos![n][w][e]
 
-[msg MSG_004_0_0 [Dipendente]]
+[msg MSG_004_0_0 [Funcionário]]
 [s][vp 1 0 0 0 0 0]Olá e bem-vindo[n]ao Big Bang Burger![n][w][e]
 
-[msg MSG_005_0_0 [Dipendente]]
+[msg MSG_005_0_0 [Funcionário]]
 [s][vp 1 0 0 0 0 0]O que posso servir para você?[n][w][e]
 
 [sel SEL_Act_Think top]
@@ -70,30 +70,30 @@
 [s]Aceite o desafio[e]
 [s]Vá embora[e]
 
-[msg MSG_010_0_0 [Dipendente]]
+[msg MSG_010_0_0 [Funcionário]]
 [s][vp 1 0 0 0 0 0]Espero te ver em breve![n][w][e]
 
-[msg MSG_015_0_0 [Dipendente]]
+[msg MSG_015_0_0 [Funcionário]]
 [s][vp 1 0 0 0 0 0]Há mais alguma coisa que eu[n]posso fazer por você?[n][w][e]
 
-[msg MSG_Challenge_Start_NIGH [Dipendente]]
+[msg MSG_Challenge_Start_NIGH [Funcionário]]
 [s][vp 1 0 0 0 0 0]No momento, você pode enfrentar[n]o Big Bang Challenge por apenas[n]500 ienes. você quer tentar?[n][w][e]
 
-[msg MSG_Challenge_Start [Dipendente]]
+[msg MSG_Challenge_Start [Funcionário]]
 [s][vp 1 0 0 0 0 0]Quer enfrentar o[n]Big Bang Challenge?[n][w][e]
 
-[msg MSG_011_0_0 [Dipendente]]
+[msg MSG_011_0_0 [Funcionário]]
 [s][vp 1 0 0 0 0 0]O desafio custará [var 0] ienes.[n][w][e]
 
-[msg MSG_013_0_0 [Dipendente]]
+[msg MSG_013_0_0 [Funcionário]]
 [s][vp 1 0 0 0 0 0]Como você é Segundo Oficial,[n]a dificuldade da missão[n]aumentará.[n][w][e]
 [s][vp 1 0 0 0 0 0]O desafio custará [var 0] ienes.[n][w][e]
 
-[msg MSG_016_0_0 [Dipendente]]
+[msg MSG_016_0_0 [Funcionário]]
 [s][vp 1 0 0 0 0 0]Já que você é o Primeiro Oficial,[n]a missão final espera por você![n][w][e]
 [s][vp 1 0 0 0 0 0]O desafio custará [var 0] ienes.[n][w][e]
 
-[msg MSG_019_0_0 [Dipendente]]
+[msg MSG_019_0_0 [Funcionário]]
 [s][vp 1 0 0 0 0 0]Oh... você já é o capitão.[n][w][e]
 [s]Não há outras classificações.[n]O desafio custará [var 0] ienes.[n]Tudo bem?[n][w][e]
 
@@ -104,11 +104,11 @@
 [s]Eu encaro o desafio.[e]
 [s]Deixa para lá.[e]
 
-[msg MSG_024_0_0 [Dipendente]]
+[msg MSG_024_0_0 [Funcionário]]
 [s][vp 1 0 0 0 0 0]Certamente.[n][w][e]
 [s][vp 1 0 0 0 0 0]Por favor, sente-se![n]E boa sorte![n][w][e]
 
-[msg MSG_024_1_0 [Dipendente]]
+[msg MSG_024_1_0 [Funcionário]]
 [s][vp 1 0 0 0 0 0]Certamente.[n][w][e]
 [s]Por favor, sente-se![n]E boa sorte![n][w][e]
 

@@ -11,7 +11,7 @@
 [s]Vamos fazê-lo.[e]
 [s]Temos que nos preparar.[e]
 
-[msg D05_12_Ex3Battle_Before_ [Guardiano]]
+[msg D05_12_Ex3Battle_Before_ [Guardião]]
 [s]E quem é você!?![n]Você não vai avançar mais![n][w][e]
 
 [msg D05_12_Check_lock_door_0 [Makoto]]

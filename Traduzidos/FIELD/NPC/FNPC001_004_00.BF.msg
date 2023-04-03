@@ -8,256 +8,256 @@
 [msg NPC_01]
 [s]会話[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_001_0_0 [Studente elegante]]
+[msg MSG_GARAKEIJYOSI_001_0_0 [Estudante elegante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Você usa um flip phone?[n]Mas arranje um smartphone.[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_001_1_0 [Ragazza della Shujin alla mano]]
+[msg MSG_GARAKEIJYOSI_001_1_0 [Shujin garota na mão]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Meh, isso é o suficiente para mim.[n]Smartphones são complicados[n]e custam muito...[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_001_2_0 [Studente elegante]]
+[msg MSG_GARAKEIJYOSI_001_2_0 [Estudante elegante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Então você se tornará um pária.[n]A propósito, há realmente um novo[n]aluno terrível em Shujin?[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_001_3_0 [Ragazza della Shujin alla mano]]
+[msg MSG_GARAKEIJYOSI_001_3_0 [Shujin garota na mão]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Sim, dizem que ele é violento,[n]com ficha criminal.[n]Você sabe muito sobre minha escola.[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_002_0_0 [Studente elegante]]
+[msg MSG_GARAKEIJYOSI_002_0_0 [Estudante elegante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Recebi uma mensagem sobre os[n]Phantom Thieves. É verdade?[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_002_1_0 [Ragazza della Shujin alla mano]]
+[msg MSG_GARAKEIJYOSI_002_1_0 [Shujin garota na mão]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]A carta de aviso, você diz?[n]Aparentemente, eles a postaram[n]no quadro de avisos da escola...[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_002_2_0 [Studente elegante]]
+[msg MSG_GARAKEIJYOSI_002_2_0 [Estudante elegante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Você tirou uma foto?[n]Até o seu telefone pode[n]fazer isso, certo?[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_002_3_0 [Ragazza della Shujin alla mano]]
+[msg MSG_GARAKEIJYOSI_002_3_0 [Shujin garota na mão]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]É velho, a câmera não é[n]ótima... mas não me importo.[n]Eu só preciso ser capaz de enviar mensagens de texto.[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_003_0_0 [Studente elegante]]
+[msg MSG_GARAKEIJYOSI_003_0_0 [Estudante elegante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Ouvi dizer que prenderam aquele seu professor[n]pervertido. Há uma foto da carta de aviso[n]online.[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_003_1_0 [Ragazza della Shujin alla mano]]
+[msg MSG_GARAKEIJYOSI_003_1_0 [Shujin garota na mão]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Uh, eu não sabia que você[n]poderia encontrar certas coisas[n]na Internet.[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_003_2_0 [Studente elegante]]
+[msg MSG_GARAKEIJYOSI_003_2_0 [Estudante elegante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]O que você é, um homem das cavernas?[n][w][e]
 [s][vp 8 2 1 0 1 0][n]Os alunos de Shujin também estão falando sobre[n]isso online. A história de Kamoshida é forte.[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_004_0_0 [Ragazza della Shujin alla mano]]
+[msg MSG_GARAKEIJYOSI_004_0_0 [Shujin garota na mão]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Você sabe quem é Ichiryusai Madarame?[n]Estou curioso desde que[n]o vi na TV.[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_004_1_0 [Studente elegante]]
+[msg MSG_GARAKEIJYOSI_004_1_0 [Estudante elegante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Claro que eu sei. Um de seus alunos é[n]meu colega de classe.[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_004_2_0 [Ragazza della Shujin alla mano]]
+[msg MSG_GARAKEIJYOSI_004_2_0 [Shujin garota na mão]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Como? Sério?!? Uau![n]Que tipo de pessoa ele é?[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_004_3_0 [Studente elegante]]
+[msg MSG_GARAKEIJYOSI_004_3_0 [Estudante elegante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Quem sabe? Ele é um estudioso de arte.[n]Dizem que ele é muito excêntrico.[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_005_0_0 [Studente elegante]]
+[msg MSG_GARAKEIJYOSI_005_0_0 [Estudante elegante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Você sabia que eles postaram uma[n]carta de aviso para a exposição[n]quando fomos lá?[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_005_1_0 [Ragazza della Shujin alla mano]]
+[msg MSG_GARAKEIJYOSI_005_1_0 [Shujin garota na mão]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Coisa? Sério?!?[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_005_2_0 [Studente elegante]]
+[msg MSG_GARAKEIJYOSI_005_2_0 [Estudante elegante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]A Internet inteira fala sobre isso.[n]Parece que Madarame roubou[n]obras de outras pessoas.[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_005_3_0 [Ragazza della Shujin alla mano]]
+[msg MSG_GARAKEIJYOSI_005_3_0 [Shujin garota na mão]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Você sabe de tudo isso?[n]A Internet é incrível...[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_006_0_0 [Ragazza della Shujin alla mano]]
+[msg MSG_GARAKEIJYOSI_006_0_0 [Shujin garota na mão]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Então a história do roubo de arte[n]era verdade! Onde você encontra[n]esta informação?[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_006_1_0 [Studente elegante]]
+[msg MSG_GARAKEIJYOSI_006_1_0 [Estudante elegante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Em um fórum chamado "Phan-Site".[n]Agora é trafegado[n]absurdamente.[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_006_2_0 [Ragazza della Shujin alla mano]]
+[msg MSG_GARAKEIJYOSI_006_2_0 [Shujin garota na mão]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Este é um site seguro?[n]Não estou encontrando um monte de[n]anúncios tentando me enganar?[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_006_3_0 [Studente elegante]]
+[msg MSG_GARAKEIJYOSI_006_3_0 [Estudante elegante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Você se preocupa demais![n]Essas coisas devem ser ignoradas.[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_007_0_0 [Studente elegante]]
+[msg MSG_GARAKEIJYOSI_007_0_0 [Estudante elegante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Ei, você acredita em[n]Phantom Thieves?[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_007_1_0 [Ragazza della Shujin alla mano]]
+[msg MSG_GARAKEIJYOSI_007_1_0 [Shujin garota na mão]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Mmm, eu diria que sim.[n]Akechi-san também mencionou isso na televisão.[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_007_2_0 [Studente elegante]]
+[msg MSG_GARAKEIJYOSI_007_2_0 [Estudante elegante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Foi como[n]Kamoshida. Na minha opinião, a chave[n]é a carta de aviso.[n][w][e]
 [s][vp 8 2 1 0 1 0]Você tem alguma ideia de quem[n]o colocou lá?[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_007_3_0 [Ragazza della Shujin alla mano]]
+[msg MSG_GARAKEIJYOSI_007_3_0 [Shujin garota na mão]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]A identidade dos culpados ainda é desconhecida.[n]Eu me pergunto se é realmente alguém da minha[n]escola.[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_008_0_0 [Studente elegante]]
+[msg MSG_GARAKEIJYOSI_008_0_0 [Estudante elegante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Ei, tem uma ótima notícia. Eles dizem[n]que Junya Kaneshiro recebeu[n]uma carta de aviso.[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_008_1_0 [Ragazza della Shujin alla mano]]
+[msg MSG_GARAKEIJYOSI_008_1_0 [Shujin garota na mão]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Gosta?!? Os Phantom Thieves[n]estão de volta em ação?[n][w][e]
 [s][vp 8 2 1 0 0 0]A propósito, quem é Kaneshiro?[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_008_2_0 [Studente elegante]]
+[msg MSG_GARAKEIJYOSI_008_2_0 [Estudante elegante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]O chefe da máfia que governa Shibuya. Na Internet[n]não falamos de outra coisa![n][w][e]
 
-[msg MSG_GARAKEIJYOSI_009_0_0 [Ragazza della Shujin alla mano]]
+[msg MSG_GARAKEIJYOSI_009_0_0 [Shujin garota na mão]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Foram mesmo os[n]Phantom Thieves? A polícia[n]negou, não é?[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_009_1_0 [Studente elegante]]
+[msg MSG_GARAKEIJYOSI_009_1_0 [Estudante elegante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Não confie na polícia.[n]Eles postaram a verdadeira[n]carta de aviso online![n][w][e]
 
-[msg MSG_GARAKEIJYOSI_009_2_0 [Ragazza della Shujin alla mano]]
+[msg MSG_GARAKEIJYOSI_009_2_0 [Shujin garota na mão]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Não importa quem fez isso, desde que ele nos[n]livre desses criminosos.[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_009_3_0 [Studente elegante]]
+[msg MSG_GARAKEIJYOSI_009_3_0 [Estudante elegante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Você sempre leva isso filosoficamente...[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_010_0_0 [Studente elegante]]
+[msg MSG_GARAKEIJYOSI_010_0_0 [Estudante elegante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Uma luta entre os Phantom Thieves[n]e Medjed, heh...[n]Não podemos perder.[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_010_1_0 [Ragazza della Shujin alla mano]]
+[msg MSG_GARAKEIJYOSI_010_1_0 [Shujin garota na mão]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Huh? Será que os Phantom Thieves[n]enfrentarão hackers?[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_010_2_0 [Studente elegante]]
+[msg MSG_GARAKEIJYOSI_010_2_0 [Estudante elegante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]É claro! Medjed é um bando[n]de criminosos. Era apenas uma questão de tempo.[n][w][e]
 [s][vp 8 2 1 0 1 0]Tecnicamente, eles estão "cracking".[n]Se você os chamar de "hackers", na[n]internet eles vão pular na sua garganta.[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_011_0_0 [Studente elegante]]
+[msg MSG_GARAKEIJYOSI_011_0_0 [Estudante elegante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Que chatice, a viagem escolar.[n]Não podemos simplesmente olhar[n]nos mapas online?[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_011_1_0 [Ragazza della Shujin alla mano]]
+[msg MSG_GARAKEIJYOSI_011_1_0 [Shujin garota na mão]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Eu não posso esperar. Será[n]minha primeira viagem ao exterior.[n][w][e]
 [s][vp 8 2 1 0 0 0]Dizem que o Big Bang Burger tem um cardápio[n]secreto no Havaí![n][w][e]
 
-[msg MSG_GARAKEIJYOSI_011_2_0 [Studente elegante]]
+[msg MSG_GARAKEIJYOSI_011_2_0 [Estudante elegante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Não acredite no marketing.[n]Só os simplórios[n]caem nessa.[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_012_0_0 [Studente elegante]]
+[msg MSG_GARAKEIJYOSI_012_0_0 [Estudante elegante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]O diretor da sua escola está[n]morto, não está? Que tipo era?[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_012_1_0 [Ragazza della Shujin alla mano]]
+[msg MSG_GARAKEIJYOSI_012_1_0 [Shujin garota na mão]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Hum... é terrível, mas não sinto nada em[n]particular.[n][w][e]
 [s][vp 8 2 1 0 0 0]Eu nunca nem falei com ele...[n]é como quando as celebridades morrem.[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_012_2_0 [Studente elegante]]
+[msg MSG_GARAKEIJYOSI_012_2_0 [Estudante elegante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Eu vejo. Muita coisa aconteceu na sua escola este[n]ano.[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_013_0_0 [Ragazza della Shujin alla mano]]
+[msg MSG_GARAKEIJYOSI_013_0_0 [Shujin garota na mão]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]A carta de aviso era para o pai de[n]Okumura-senpai. Eu não[n]sabia. Deve ser difícil para ela.[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_013_1_0 [Studente elegante]]
+[msg MSG_GARAKEIJYOSI_013_1_0 [Estudante elegante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Você acabou de descobrir agora?[n]Está escrito em toda a internet.[n]Todo mundo está atacando ele online.[n][w][e]
 [s][vp 8 2 1 0 1 0]Empresas corruptas são uma merda! Os Phantom[n]Thieves cuidarão disso![n][w][e]
 
-[msg MSG_GARAKEIJYOSI_014_0_0 [Ragazza della Shujin alla mano]]
+[msg MSG_GARAKEIJYOSI_014_0_0 [Shujin garota na mão]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Os Phantom Thieves não eram super-heróis? Eles[n]eram muito cruéis...[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_014_1_0 [Studente elegante]]
+[msg MSG_GARAKEIJYOSI_014_1_0 [Estudante elegante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Você diz? Houve pessoas que[n]cometeram suicídio por causa de[n]aquele cara.[n][w][e]
 [s][vp 8 2 1 0 1 0]Você não sente pena disso?[n]Dois pesos e duas medidas.[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_014_2_0 [Ragazza della Shujin alla mano]]
+[msg MSG_GARAKEIJYOSI_014_2_0 [Shujin garota na mão]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Sim, mas ainda tinha que[n]ser uma maneira melhor...[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_015_0_0 [Ragazza della Shujin alla mano]]
+[msg MSG_GARAKEIJYOSI_015_0_0 [Shujin garota na mão]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Estamos no meio dos exames,[n]ainda continuamos falando[n]sobre os Phantom Thieves...[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_015_1_0 [Studente elegante]]
+[msg MSG_GARAKEIJYOSI_015_1_0 [Estudante elegante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Polícia de Shujin, hein...[n][w][e]
 [s][vp 8 2 1 0 1 0]Eles devem estar observando ela desde[n]a primeira carta de aviso apareceu.[n][w][e]
 [s][vp 8 2 1 0 1 0]Mas já é uma notícia datada na Internet... e os[n]Phantom Thieves assassinaram alguém.[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_016_0_0 [Studente elegante]]
+[msg MSG_GARAKEIJYOSI_016_0_0 [Estudante elegante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]A Internet inteira está procurando[n]os Ladrões Fantasmas.[n]Eu não durmo com eles à noite.[n][w][e]
 [s][vp 8 2 1 0 1 0]Muitos argumentam que[n]eles estão de alguma forma relacionados[n]a Shujin. Você sabe alguma coisa sobre isso?[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_016_1_0 [Ragazza della Shujin alla mano]]
+[msg MSG_GARAKEIJYOSI_016_1_0 [Shujin garota na mão]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Eu não... eu nem quero pensar que[n]eles frequentam a minha escola...[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_016_2_0 [Studente elegante]]
+[msg MSG_GARAKEIJYOSI_016_2_0 [Estudante elegante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Tente descobrir algo enquanto pode. Se você for[n]vítima de um ataque, será tarde demais...[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_017_0_0 [Ragazza della Shujin alla mano]]
+[msg MSG_GARAKEIJYOSI_017_0_0 [Shujin garota na mão]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Os Phantom Thieves serão presos? Existe alguma[n]informação online?[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_017_1_0 [Studente elegante]]
+[msg MSG_GARAKEIJYOSI_017_1_0 [Estudante elegante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Apenas um monte de coisas falsas.[n]Assim que você menciona os Phantom Thieves,[n]os trolls vêm.[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_017_2_0 [Ragazza della Shujin alla mano]]
+[msg MSG_GARAKEIJYOSI_017_2_0 [Shujin garota na mão]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Eles eram tão populares…[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_017_3_0 [Studente elegante]]
+[msg MSG_GARAKEIJYOSI_017_3_0 [Estudante elegante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Coisas antigas. O público[n]não aceitou bem quando[n]soube que eles são assassinos.[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_018_0_0 [Studente elegante]]
+[msg MSG_GARAKEIJYOSI_018_0_0 [Estudante elegante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Akechi é um gênio.[n]Incrível que ele ainda[n]é um colegial como eu.[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_018_1_0 [Ragazza della Shujin alla mano]]
+[msg MSG_GARAKEIJYOSI_018_1_0 [Shujin garota na mão]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]O mais surpreendente[n]é que os Phantom Thieves[n]são menores de idade...[n][w][e]
 [s][vp 8 2 1 0 0 0]Eles têm mais ou menos a nossa idade,[n]são? Eles são alunos do ensino médio?[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_018_2_0 [Studente elegante]]
+[msg MSG_GARAKEIJYOSI_018_2_0 [Estudante elegante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Normalmente, essas coisas são postadas na[n]Internet, mas não consigo encontrar nada...[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_019_0_0 [Ragazza della Shujin alla mano]]
+[msg MSG_GARAKEIJYOSI_019_0_0 [Shujin garota na mão]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Minha TV enlouqueceu de repente.[n]Isso me pegou de surpresa.[n][w][e]
 [s][vp 8 2 1 0 0 0]Então o criminoso era Shido[n]e os Phantom Thieves estavam[n]certos o tempo todo?[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_019_1_0 [Studente elegante]]
+[msg MSG_GARAKEIJYOSI_019_1_0 [Estudante elegante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Talvez não seja tão simples.[n][w][e]
 [s][vp 8 2 1 0 1 0]Na Internet, eles especulam[n]que é um truque pregado em Shido[n]por seus oponentes políticos.[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_020_0_0 [Ragazza della Shujin alla mano]]
+[msg MSG_GARAKEIJYOSI_020_0_0 [Shujin garota na mão]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Os Phantom Thieves nunca existiram? Nós apenas[n]sonhamos com eles todo esse tempo?[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_020_1_0 [Studente elegante]]
+[msg MSG_GARAKEIJYOSI_020_1_0 [Estudante elegante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Pelo que vi na[n]Internet, parece que sim. Não há[n]qualquer evidência concreta.[n][w][e]
 [s][vp 8 2 1 0 1 0]Quem acreditou foi[n]aqui um idiota. Como[n]ão roubar um coração?[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_020_2_0 [Ragazza della Shujin alla mano]]
+[msg MSG_GARAKEIJYOSI_020_2_0 [Shujin garota na mão]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Posso ser um idiota, mas seria bom se eles[n]realmente existissem.[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_020_3_0 [Studente elegante]]
+[msg MSG_GARAKEIJYOSI_020_3_0 [Estudante elegante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]É, é. Acho que sim.[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_021_0_0 [Studente elegante]]
+[msg MSG_GARAKEIJYOSI_021_0_0 [Estudante elegante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Você não acha que desde o início do ano[n]as coisas andam meio estranhas?[n]Todo mundo parece animado...[n][w][e]
 [s][vp 8 2 1 0 1 0]Como vai? Você teve alguma boa notícia[n]ultimamente?[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_021_1_0 [Ragazza della Shujin alla mano]]
+[msg MSG_GARAKEIJYOSI_021_1_0 [Shujin garota na mão]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Não tenho certeza. Eu não tenho um desejo real...[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_021_2_0 [Studente elegante]]
+[msg MSG_GARAKEIJYOSI_021_2_0 [Estudante elegante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Isso não me surpreende, já que estou falando[n]com alguém que ainda usa um[n]telefone antigo.[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_022_0_0 [Ragazza della Shujin alla mano]]
+[msg MSG_GARAKEIJYOSI_022_0_0 [Shujin garota na mão]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Eu me pergunto se os Phantom Thieves[n]não são apenas um sonho...[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_022_1_0 [Studente elegante]]
+[msg MSG_GARAKEIJYOSI_022_1_0 [Estudante elegante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Você ainda fala sobre eles? Eles são[n]águas passadas.[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_022_2_0 [Ragazza della Shujin alla mano]]
+[msg MSG_GARAKEIJYOSI_022_2_0 [Shujin garota na mão]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Eu ainda penso neles... Acho que eles[n]ainda estão por aí,[n]aqui em algum lugar...[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_022_3_0 [Studente elegante]]
+[msg MSG_GARAKEIJYOSI_022_3_0 [Estudante elegante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]E então, por que você não compra um[n]smartphone? Esse telefone não[n]faz você parecer bem.[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_023_0_0 [Studente elegante]]
+[msg MSG_GARAKEIJYOSI_023_0_0 [Estudante elegante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Pense só, em apenas[n]um ano terminaremos o ensino médio...[n][w][e]
 [s][vp 8 2 1 0 1 0]Ano passado conversamos muito[n]e muita coisa aconteceu.[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_023_1_0 [Ragazza della Shujin alla mano]]
+[msg MSG_GARAKEIJYOSI_023_1_0 [Shujin garota na mão]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Você se lembra dos Phantom Thieves?[n]Este ano eu também tentarei[n]roubar um coração.[n][w][e]
 
-[msg MSG_GARAKEIJYOSI_023_2_0 [Studente elegante]]
+[msg MSG_GARAKEIJYOSI_023_2_0 [Estudante elegante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]...O que?!?[n][w][e]
 [s][vp 8 2 1 0 1 0]Quero dizer... meu...?[n][w][e]
 
 [msg MSG_BIKOU01_001_0_0 [Makoto]]
 [s][f 4 23 1 65535 3 10 0 0][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 2018 65535 0]Vá direto para casa.[n]Entendo que a[n]segurança aqui deixa a desejar.[n][w][e]
 
-[msg MSG_BIKOU01_002_0_0 [Studentessa della Shujin]]
+[msg MSG_BIKOU01_002_0_0 [Estudante Shujin]]
 [s][f 4 23 1 22 3 10 0 0][vp 8 2 1 0 22 0]Hã? Você é... Niijima-san?[n]O presidente do[n]conselho estudantil?[n][w][e]
 [s][vp 8 2 1 0 22 0]Posso pelo menos fazer compras?[n]Se você também está aqui, não pode[n]ser tão perigoso, pode?[n][w][e]
 
@@ -268,7 +268,7 @@
 [msg MSG_BIKOU01_004_0_0 [Makoto]]
 [s][f 4 23 1 65535 3 10 0 0][bup 0 6 5 65535 0][f 4 10 65535 0 0][vp 8 2 1 2029 65535 0]E-Enfim, tenha cuidado. Agora[n]vou para casa também.[n][w][e]
 
-[msg MSG_BIKOU01_005_0_0 [Studentessa della Shujin]]
+[msg MSG_BIKOU01_005_0_0 [Estudante Shujin]]
 [s][f 4 23 1 22 3 10 0 0][vp 8 2 1 0 22 0]Sim, sim, estou indo para casa.[n]Não quero que você[n]delacione, senhorita presidente.[n][w][e]
 
 [msg MSG_BIKOU02_001_0_0 [Makoto]]
@@ -1831,22 +1831,22 @@
 [msg MSG_GRT_main_Lim_401_08_ [Shiho]]
 [s][vp 9 2 65535 41652 0 0]Vou ter outro jogo neste fim de semana! Eu não[n]aguento mais...[n][f 1 2 180][e]
 
-[msg quest11_hint_talk_00 [Ragazzo infuriato]]
+[msg quest11_hint_talk_00 [Menino bravo]]
 [s]Maldito seja! Eu vou prendê-lo por isso![n][w][e]
 
-[msg quest11_hint_talk_01 [Donna dagli occhi lucidi]]
+[msg quest11_hint_talk_01 [Mulher de olhos brilhantes]]
 [s]Não, Sho-chan...[n]É tudo culpa minha.[n][w][e]
 
-[msg quest11_hint_talk_02 [Ragazzo infuriato]]
+[msg quest11_hint_talk_02 [Menino bravo]]
 [s]Piadas? Você não fez[n]nada, mãe![n][w][e]
 [s]Que desculpa idiota para aquele bêbado.[n]Ele é o mesmo que foi demitido e[n]bebe o dia todo![n][w][e]
 [s]Você tenta ajudá-lo e ele[n]o que ele faz? Ele bate em você e vai embora![n][w][e]
 [s]Não podemos continuar assim![n]Mais cedo ou mais tarde você terá que[n]virar a página...[n][w][e]
 
-[msg quest11_hint_talk_03 [Donna dagli occhi lucidi]]
+[msg quest11_hint_talk_03 [Mulher de olhos brilhantes]]
 [s]Você tem que entender que lá no fundo ele é...[n][w][e]
 
-[msg quest11_hint_talk_04 [Ragazzo infuriato]]
+[msg quest11_hint_talk_04 [Menino bravo]]
 [s]Isso nunca vai mudar! Você só[n]sofrerá cada vez mais enquanto[n]espera por uma mudança![n][w][e]
 [s]Aposto que ele está no bar da Central Street. Vou[n]fazer aquele babaca provar do próprio remédio![n][w][e]
 

@@ -51,34 +51,34 @@
 [msg D154_002_mini_EV_02_mes0_7 [Morgana]]
 [s][bup 0 3 1 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1052 65535 0]OK, vamos lá![n][w][e]
 
-[msg D03_02_mini_EV_01_mes01 [Guardia della security]]
+[msg D03_02_mini_EV_01_mes01 [Segurança]]
 [s]A recepção está além desta porta.[n][w][e]
 
-[msg D03_02_mini_EV_01_mes02 [Guardia della security]]
+[msg D03_02_mini_EV_01_mes02 [Segurança]]
 [s]Ei, não por aí! Está além[n]desta porta. Poder.[n][w][e]
 
-[msg D03_02_mini_EV_01_mes03 [Guardia della security]]
+[msg D03_02_mini_EV_01_mes03 [Segurança]]
 [s]A recepção fica à direita.[n]Não vá a nenhum outro lugar.[n][w][e]
 
-[msg D03_02_mini_EV_01_mes04 [Guardia della security]]
+[msg D03_02_mini_EV_01_mes04 [Segurança]]
 [s]Ali não! Vamos,[n]para a direita![n][w][e]
 
-[msg D03_02_mini_EV_01_mes05 [Guardia della security]]
+[msg D03_02_mini_EV_01_mes05 [Segurança]]
 [s]Esta é a recepção.[n]Apresse-se para dentro.[n][w][e]
 
-[msg D03_02_mini_EV_01_mes06 [Guardia della security]]
+[msg D03_02_mini_EV_01_mes06 [Segurança]]
 [s]Não dessa forma.[n]Volte![n][w][e]
 
-[msg D03_02_mini_EV_01_mes07 [Guardia della security]]
+[msg D03_02_mini_EV_01_mes07 [Segurança]]
 [s]Ei, não por aí! Está além[n]desta porta, corra[n]para entrar![n][w][e]
 
-[msg D03_02_mini_EV_01_mes08 [Guardia della security]]
+[msg D03_02_mini_EV_01_mes08 [Segurança]]
 [s]A recepção fica à direita,[n]atrás.[n][w][e]
 
-[msg D03_02_mini_EV_01_mes09 [Guardia della security]]
+[msg D03_02_mini_EV_01_mes09 [Segurança]]
 [s]A recepção fica à direita.[n]Apresse-se.[n][w][e]
 
-[msg D03_02_mini_EV_01_mes10 [Guardia della security]]
+[msg D03_02_mini_EV_01_mes10 [Segurança]]
 [s]Aqui é a recepção. Vamos, entre.[n][w][e]
 
 [msg D03_02_mini_EV_03_mes01 [Ryuji]]

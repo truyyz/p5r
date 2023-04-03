@@ -98,13 +98,13 @@
 [s]Este lugar vende produtos[n]para passageiros.[n][w][e]
 [s]Posso comprar algo para ele,[n]assim que me sentir confortável[n]com o trajeto para a escola...[n][w][e]
 
-[msg KIOSUKU01_SELECT [Commessa del chiosco]]
+[msg KIOSUKU01_SELECT [Vendedora de quiosque]]
 [s][f 4 23 1 4 3 5 65534 0][vp 8 2 1 0 4 0]Ei, seja bem-vindo. Compre[n]o que você precisa também.[n][w][e]
 
-[msg KIOSUKU01_THANKS [Commessa del chiosco]]
+[msg KIOSUKU01_THANKS [Vendedora de quiosque]]
 [s][vp 8 2 1 0 4 0]Ok, obrigado.[n][w][e]
 
-[msg KIOSUKU01_NOT_BUY [Commessa del chiosco]]
+[msg KIOSUKU01_NOT_BUY [Vendedora de quiosque]]
 [s][vp 8 2 1 0 4 0]Está bem. Volte logo.[n][w][e]
 
 [msg MSG_HikarieWayNG [Morgana]]

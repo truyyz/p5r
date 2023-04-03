@@ -1,7 +1,7 @@
 [msg MSG_000_000_00]
 [s]......[n][w][e]
 
-[msg MSG_14610100_TAKEMI_000_ [Donna punk-rock]]
+[msg MSG_14610100_TAKEMI_000_ [Mulher punk rock]]
 [s][bup 0 108 500 65535 0][f 4 10 65535 0 0][vp 8 0 1 2 65535 0]...Sim?[n][w][e]
 
 [msg MSG_14610100_TAKEMI_000__2 [Sojiro]]
@@ -10,7 +10,7 @@
 [msg MSG_14610100_TAKEMI_000__3 [Sojiro]]
 [s][f 4 23 1 816 3 10 0 0][bup 0 103 3 0 0][f 4 10 65535 0 0][vp 8 0 1 4 65535 0]Doutor, desculpe[n]se isso foi rude.[n][w][e]
 
-[msg MSG_14610100_TAKEMI_000__4 [Donna punk-rock]]
+[msg MSG_14610100_TAKEMI_000__4 [Mulher punk rock]]
 [s][bup 0 108 500 65535 0][f 4 10 65535 0 0][vp 8 0 1 5 65535 0]...Sem problemas.[n][w][e]
 
 [msg MSG_14610100_TAKEMI_000__5 [Sojiro]]
@@ -26,7 +26,7 @@
 [msg MSG_14610100_MASTER_100__2 [Sojiro]]
 [s][f 4 23 1 816 3 10 0 0][bup 0 103 2 0 0][f 4 10 65535 0 0][vp 8 2 1 5080 816 0]Depois de. O café[n]está aberto.[n][w][e]
 
-[msg MSG_14620100_200_01 [Donna punk-rock]]
+[msg MSG_14620100_200_01 [Mulher punk rock]]
 [s][bup 0 108 500 65535 0][f 4 10 65535 0 0][f 4 23 1 821 3 10 0 0][vp 8 0 1 9 65535 0][f 4 25 1 821 0 0]...Obrigado. Nós nos veremos.[n][w][e]
 
 [msg MSG_14620100_200_02 [Sojiro]]

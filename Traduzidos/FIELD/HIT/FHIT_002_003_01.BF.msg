@@ -95,7 +95,7 @@
 [msg MND_Turtle]
 [s][vp 1 0 0 0 0 0]A tartaruga está tentando esticar o pescoço...[n][w][e]
 
-[msg MSG_POLICEMAN_02_003_01 [Agente distaccato]]
+[msg MSG_POLICEMAN_02_003_01 [Agente independente]]
 [s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Desculpe, mas estamos investigando dentro. Você[n]poderia se afastar dessa área por um tempo?[n][w][e]
 [s][vp 8 2 1 0 6 0]Desculpe por assustá-lo.[n]Eu apreciaria sua cooperação.[n][w][e]
 

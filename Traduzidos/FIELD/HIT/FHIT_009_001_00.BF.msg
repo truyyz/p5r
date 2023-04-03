@@ -83,16 +83,16 @@
 [s]Aqui vendem-se não só[n]medicamentos, mas também detergentes[n]e outros produtos de uso diário.[n][w][e]
 [s]No momento não há nada[n]que eu gostaria de comprar...[n][w][e]
 
-[msg DrugStore_SELECT [Cameriere]]
+[msg DrugStore_SELECT [Garçom]]
 [s]Bem-vindo![n][w][e]
 
-[msg DrugStore_THANKS [Cameriere]]
+[msg DrugStore_THANKS [Garçom]]
 [s]Muito obrigado![n]Esperamos vê-lo novamente muito,[n]muito em breve![n][w][e]
 
-[msg DrugStore_NOT_BUY [Cameriere]]
+[msg DrugStore_NOT_BUY [Garçom]]
 [s]Volte para nos visitar![n][w][e]
 
-[msg DrugStore_SOLDOUT [Cameriere]]
+[msg DrugStore_SOLDOUT [Garçom]]
 [s]Sinto muito.[n]Estamos sem estoque[n]de...tudo.[n][w][e]
 
 [msg MSG_BATTING_CENTER_KF_01]
@@ -294,7 +294,7 @@
 [s]Na revista de anúncios[n]falava-se de requisitos extras[n]para alunos do ensino médio.[n][w][e]
 [s]Bem, você deve ir[n]pedir mais detalhes.[n][w][e]
 
-[msg MSG_CRAMMER_arbeit_ng_ma_2 [Voce dal tono presidenziale]]
+[msg MSG_CRAMMER_arbeit_ng_ma_2 [Voz presidencial]]
 [s]Oh, você é [f 4 1]-kun?[n]Ah, você pediu para trabalhar aqui?[n][w][e]
 [s]Precisamos desesperadamente de professores.[n]Estamos felizes por sua inscrição, mas...[n][w][e]
 [s]Existem condições extras para alunos do ensino[n]médio poderem ensinar alunos do ensino médio.[n][w][e]
@@ -351,16 +351,16 @@
 [s]Ao contrário de outros supermercados,[n]vende produtos alimentícios em[n]quantidades industriais...[n][w][e]
 [s]No momento não há nada[n]que eu gostaria de comprar...[n][w][e]
 
-[msg SuperMarket_SELECT [Cameriere]]
+[msg SuperMarket_SELECT [Garçom]]
 [s]Bem-vindo![n][w][e]
 
-[msg SuperMarket_THANKS [Cameriere]]
+[msg SuperMarket_THANKS [Garçom]]
 [s]Muito obrigado![n]Esperamos vê-lo novamente muito,[n]muito em breve![n][w][e]
 
-[msg SuperMarket_NOT_BUY [Cameriere]]
+[msg SuperMarket_NOT_BUY [Garçom]]
 [s]Volte para nos visitar![n][w][e]
 
-[msg SuperMarket_SOLDOUT [Cameriere]]
+[msg SuperMarket_SOLDOUT [Garçom]]
 [s]Sinto muito.[n]Estamos sem estoque[n]de...tudo.[n][w][e]
 
 [msg MSG_CRAMMER]

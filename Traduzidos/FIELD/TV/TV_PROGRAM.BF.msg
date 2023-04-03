@@ -135,13 +135,13 @@
 [msg TV_NEWS_0422_100_00 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1019 65535 0][f 4 25 1 65535 0 0]Vítimas jovens?[n]Ah, é melhor[n]ter cuidado.[n][w][e]
 
-[msg TV_MACHI_0423_000_00 [Reporter]]
+[msg TV_MACHI_0423_000_00 [Repórter]]
 [s]Edição especial de[n]"Descobrindo a cidade!"[n][w][e]
 [s]Nessas transmissões especiais[n]em frequência variável, você pode[n]comprar itens altamente solicitados![n][w][e]
 [s]Hoje vamos falar sobre...[n][clr 2]Recovery Oil[clr 27]![n][w][e]
 [s]Está na moda entre[n]as mulheres jovens, e agora[n]está à venda na Body Chop![n][w][e]
 
-[msg TV_MACHI_0423_100_00 [Opinionista]]
+[msg TV_MACHI_0423_100_00 [Comentarista]]
 [s]Acho que há um Body Chop[n]no shopping subterrâneo[n]em Shibuya.[n][w][e]
 [s]Sempre tive uma queda por[n]itens de edição limitada.[n]Quero aquele [clr 2]Oil of Recovery[clr 27]...[n][w][e]
 
@@ -154,22 +154,22 @@
 [msg TV_NEWS_0425_100_00 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1027 65535 0][f 4 25 1 65535 0 0]Parece que ninguém gosta[n]deste governo. Ocupar uma posição[n]de poder não pode ser fácil.[n][w][e]
 
-[msg TV_SHOUGI_0426_000_00 [Intervistatrice]]
+[msg TV_SHOUGI_0426_000_00 [Entrevistador]]
 [s]Peão em 5-6? Inesperado,[n]como um primeiro movimento. Talvez antecipe[n]a... Radiant Central Tower.[n][w][e]
 [s]A propósito, há uma razão específica[n]por trás desse nome?[n][w][e]
 
-[msg TV_SHOUGI_0426_100_00 [Giocatore di shogi professionista]]
+[msg TV_SHOUGI_0426_100_00 [Jogador profissional de shogi]]
 [s]Bem, o primeiro jogador a[n]usar esse movimento foi um cara[n]muito sorridente.[n][w][e]
 [s]O nome vem disso.[n]Não tem nada a ver[n]com a estratégia em si.[n][w][e]
 
-[msg TV_SHOUGI_0426_200_00 [Intervistatrice]]
+[msg TV_SHOUGI_0426_200_00 [Entrevistador]]
 [s]Ah, então o nome não dá[n]pistas da estratégia. É[n]simplesmente baseado em um jogador…[n][w][e]
 
-[msg TV_MACHI_0427_000_00 [Reporter]]
+[msg TV_MACHI_0427_000_00 [Repórter]]
 [s]Hoje, para "Explorando a cidade!", estamos[n]falando sobre o [clr 2]Parque Inokashira[clr 27][n]em Kichijoji.[n][w][e]
 [s]Está vendo as flores de cerejeira?[n]É um lugar muito popular[n]entre casais e famílias![n][w][e]
 
-[msg TV_MACHI_0427_100_00 [Opinionista]]
+[msg TV_MACHI_0427_100_00 [Comentarista]]
 [s]É um local muito frequentado por[n]desportistas e artistas. Em suma,[n]o lugar perfeito para relaxar.[n][w][e]
 
 [msg TV_NEWS_0428_000_00 [Locutor]]
@@ -179,14 +179,14 @@
 [msg TV_NEWS_0428_100_00 [Morgana]]
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 1167 65535 0][f 4 25 1 65535 0 0]É a Golden Week, hein? Eu quero ir a algum lugar[n]com Lady Ann.[n][w][e]
 
-[msg TV_WIDESHOW_0429_000_00 [Presentatore]]
+[msg TV_WIDESHOW_0429_000_00 [Locutor]]
 [s]Ei! Temos uma reportagem especial[n]sobre o garoto destinado a se tornar[n]o próximo Detetive Prince![n][w][e]
 [s]O primeiro Detetive Prince foi[n]Naoto Shirogane, mas agora o público[n]dota o recém-chegado![n][w][e]
 
-[msg TV_WIDESHOW_0429_100_00 [Partecipante]]
+[msg TV_WIDESHOW_0429_100_00 [Participante]]
 [s]Minha filha é uma grande fã[n]do novo Detetive Prince.[n]Ele é tão jovem e bonito![n][w][e]
 
-[msg TV_ANIME_0430_000_00 [Commentatore]]
+[msg TV_ANIME_0430_000_00 [Comentarista]]
 [s]Liderados por uma figura misteriosa,[n]os Feathermen se reúnem, mas[n]alguém roubou suas memórias![n][w][e]
 [s]Eles encontrarão uma maneira de recuperar a[n]memória? Levante-se e lute, Phoenix Rangers![n][w][e]
 [s]No próximo episódio...[n]"Não dê três passos[n]ou perderá a memória!"[n][w][e]
@@ -199,13 +199,13 @@
 [msg TV_NEWS_0501_100_00 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1019 65535 0][f 4 25 1 65535 0 0]O incidente aconteceu[n]logo depois que você[n]se mudou para a cidade, não foi?[n][w][e]
 
-[msg TV_DRAMA_0502_000_00 [Detective perspicace]]
+[msg TV_DRAMA_0502_000_00 [Detetive perspicaz]]
 [s]Admite. Ele estava no local do crime quando[n]aconteceu, não é?[n][w][e]
 
-[msg TV_DRAMA_0502_100_00 [Donna turbata]]
+[msg TV_DRAMA_0502_100_00 [Mulher chateada]]
 [s]Eu... eu tenho um álibi! Eu não estava perto,[n]estava tão longe que nem ouvi o tiro![n][w][e]
 
-[msg TV_DRAMA_0502_200_00 [Detective perspicace]]
+[msg TV_DRAMA_0502_200_00 [Detetive perspicaz]]
 [s]...Curioso. Eu nunca[n]falei sobre um tiro.[n][w][e]
 
 [msg TV_MORGANA_0502 [Morgana]]
@@ -233,14 +233,14 @@
 [msg TV_NEWS_0505_100_00 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1020 65535 0][f 4 25 1 65535 0 0]A polícia virá[n]à sua escola. Você terá que[n]fingir que não sabe de nada.[n][w][e]
 
-[msg TV_WIDESHOW_0506_000_00 [Presentatore]]
+[msg TV_WIDESHOW_0506_000_00 [Locutor]]
 [s]Ei! Temos um recurso especial[n]dedicado ao artista japonês[n]Ichiryusai Madarame![n][w][e]
 [s]Suas obras muito caras também são apreciadas no[n]exterior. Ele é um artista de renome mundial.[n][w][e]
 
-[msg TV_WIDESHOW_0506_100_00 [Partecipante]]
+[msg TV_WIDESHOW_0506_100_00 [Participante]]
 [s]Madarame leva sob sua proteção filhos sem[n]família, dando-lhes um lar. Ele é um santo![n][w][e]
 
-[msg TV_NEWS_0507_000_00 [Pubblicità]]
+[msg TV_NEWS_0507_000_00 [Anúncio]]
 [s]Este programa é[n]trazido a você por KJ Mobile.[n][w][e]
 [s]Amanhã no Good Morning Japan[n]vamos receber o artista japonês[n]Ichiryusai Madarame.[n][w][e]
 [s]Um mestre capaz de dar vida a composições[n]fantásticas. O que você vai nos contar sobre sua[n]última exposição?[n][w][e]
@@ -257,7 +257,7 @@
 [s]Examinamos o escândalo de[n]violência e indecência do Professor[n]Kamoshida com especialistas.[n][w][e]
 [s]Segundo eles, esse episódio é[n]emblemático de todos os problemas do[n]sistema educacional japonês.[n][w][e]
 
-[msg TV_NEWS_0510_050_00 [Partecipante]]
+[msg TV_NEWS_0510_050_00 [Participante]]
 [s]Possivelmente. Eu sou da Finlândia, onde[n]eles garantem a todos os alunos[n]a mesma educação.[n][w][e]
 [s]As escolas de ensino médio são praticamente[n]gratuitas. Além disso, todos os professores têm[n]doutorado.[n][w][e]
 
@@ -268,7 +268,7 @@
 [s]Examinamos o escândalo de[n]violência e indecência do Professor[n]Kamoshida com especialistas.[n][w][e]
 [s]Segundo eles, esse episódio é[n]emblemático de todos os problemas do[n]sistema educacional japonês.[n][w][e]
 
-[msg TV_NEWS_0511_050_00 [Esperto]]
+[msg TV_NEWS_0511_050_00 [Especialista]]
 [s]Possivelmente. Eu sou da Finlândia, onde[n]eles garantem a todos os alunos[n]a mesma educação.[n][w][e]
 [s]As escolas de ensino médio são praticamente[n]gratuitas. Além disso, todos os professores têm[n]doutorado.[n][w][e]
 
@@ -279,7 +279,7 @@
 [s]Em relação ao escândalo de violência e indecência[n]do Professor Kamoshida, aqui está o histórico[n]dele.[n][w][e]
 [s]A frase "Mens sana in corpore[n]sano"... Gostaria da sua opinião[n]sobre ela.[n][w][e]
 
-[msg TV_NEWS_0512_050_00 [Esperto]]
+[msg TV_NEWS_0512_050_00 [Especialista]]
 [s]Eu considero errado. Eu acredito[n]que a alma e a mente são[n]duas coisas distintas.[n][w][e]
 [s]Juvenal disse que "devemos orar[n]por uma mente sã em um corpo[n]são". O resto é superficial.[n][w][e]
 
@@ -304,10 +304,10 @@
 [msg TV_NEWS_0514_100_00 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1040 65535 0][f 4 25 1 65535 0 0]É aquele velho![n]Eu não achava que ele era[n]realmente famoso...[n][w][e]
 
-[msg TV_DRAMA_0516_000_00 [Detective perspicace]]
+[msg TV_DRAMA_0516_000_00 [Detetive perspicaz]]
 [s]Suas impressões digitais estavam na arma do crime.[n]É a prova inegável de sua culpa. Render.[n][w][e]
 
-[msg TV_DRAMA_0516_100_00 [Donna mortificata]]
+[msg TV_DRAMA_0516_100_00 [Mulher mortificada]]
 [s]Detetives...[n][w][e]
 [s]Tudo bem, ele me pegou.[n]Eu o matei...[n][w][e]
 
@@ -331,7 +331,7 @@
 [msg TV_NEWS_0518_100_00 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1040 65535 0][f 4 25 1 65535 0 0]Então alguém roubou[n]as informações pessoais de[n]todas essas pessoas? Uau...[n][w][e]
 
-[msg TV_QUIZ_0519_000_00 [Presentatore del game show]]
+[msg TV_QUIZ_0519_000_00 [Apresentador de game show]]
 [s]Se você atingir alguém ferindo-o,[n]você cometeu uma "lesão".[n]Agora, considere estes dois casos:[n][w][e]
 [s]A: Corte o tufo de alguém.[n]B: Faça barulhos irritantes.[n][w][e]
 [s]Qual dos dois poderia[n]ser classificado como lesão?[n]A sentença é sua![n][w][e]
@@ -340,10 +340,10 @@
 [s]Corte o tufo de alguém.[e]
 [s]Fazendo barulhos irritantes.[e]
 
-[msg TV_QUIZ_0519_100_00 [Presentatore del game show]]
+[msg TV_QUIZ_0519_100_00 [Apresentador de game show]]
 [s]A resposta correta é... a B![n]Você causou estresse fazendo[n]barulho? Conta como lesão![n][w][e]
 
-[msg TV_QUIZ_0519_200_00 [Avvocato]]
+[msg TV_QUIZ_0519_200_00 [Advogado]]
 [s]É uma lesão mesmo que não haja contato físico[n]pois debilita algumas funções do corpo![n][w][e]
 [s]O cabelo cresce de novo, então[n]não pode ser uma[n]lesão, apenas uma agressão.[n][w][e]
 
@@ -378,11 +378,11 @@
 [msg TV_NEWS_0523_100_00 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1019 65535 0][f 4 25 1 65535 0 0]De terno, as pessoas[n]tendem a ficar parecidas.[n]Deve ser difícil encontrar um emprego.[n][w][e]
 
-[msg TV_SHOUGI_0524_000_00 [Giocatore di shogi professionista]]
+[msg TV_SHOUGI_0524_000_00 [Jogador profissional de shogi]]
 [s]Oh, não... Um nifu... Poderia facilmente ser[n]evitado. Com certeza ele já saberá e se[n]arrependerá...[n][w][e]
 [s]Deve ser uma derrota difícil de aceitar. Talvez[n]ele queira tirar um momento para ficar sozinho...[n][w][e]
 
-[msg TV_SHOUGI_0524_100_00 [Intervistatrice]]
+[msg TV_SHOUGI_0524_100_00 [Entrevistador]]
 [s]Bem, então... Vamos para o pós-jogo. Vamos[n]analisar o que aconteceu nesta partida.[n][w][e]
 
 [msg TV_NEWS_0525_000_00 [Locutor]]
@@ -393,7 +393,7 @@
 [msg TV_NEWS_0525_100_00 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1019 65535 0][f 4 25 1 65535 0 0]Parece que outras pessoas foram vítimas dos[n]golpes. Sinto muito por eles.[n][w][e]
 
-[msg TV_QUIZ_0526_000_00 [Presentatore del game show]]
+[msg TV_QUIZ_0526_000_00 [Apresentador de game show]]
 [s]Nos tempos antigos, uma confissão[n]como a de Kamoshida merecia[n]este antigo apelido:[n][w][e]
 [s]A confissão é...[n]A: "A Rainha" da Evidência.[n]B: "A Joia" da Evidência.[n][w][e]
 [s]Qual é a resposta correta?[n]A frase é com você![n][w][e]
@@ -402,11 +402,11 @@
 [s]A "rainha" das provações.[e]
 [s]A "jóia" das provas.[e]
 
-[msg TV_QUIZ_0526_100_00 [Ragazzino]]
+[msg TV_QUIZ_0526_100_00 [Garotinho]]
 [s]A resposta correta é A,[n]"rainha". É uma expressão[n]famosa no meio jurídico.[n][w][e]
 [s]Confissões são provas excelentes. A tortura[n]também foi usada para obtê-los.[n][w][e]
 
-[msg TV_QUIZ_0526_200_00 [Avvocato]]
+[msg TV_QUIZ_0526_200_00 [Advogado]]
 [s]Aqui está um estudante prodígio.[n]Extorquir uma confissão[n]é proibido por lei...[n][w][e]
 
 [msg TV_MORGANA_0526_a [Morgana]]
@@ -422,7 +422,7 @@
 [msg TV_NEWS_0527_100_00 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1040 65535 0][f 4 25 1 65535 0 0]Um grande sucesso, hein?[n]O que eles farão quando[n]descobrirem sobre seus erros?[n][w][e]
 
-[msg TV_ANIME_0528_000_00 [Commentatore]]
+[msg TV_ANIME_0528_000_00 [Comentarista]]
 [s]Red Eagle e Feather Hawk[n]entram em uma discussão acalorada.[n]Quem é o verdadeiro líder?!?[n][w][e]
 [s]Herói contra herói em uma batalha épica[n]shiritori! Levantem-se e lutem, Phoenix Rangers![n][w][e]
 [s]No próximo episódio...[n]"Ter a última palavra[n]leva à derrota!"[n][w][e]
@@ -434,11 +434,11 @@
 [msg TV_NEWS_0530_100_00 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1019 65535 0][f 4 25 1 65535 0 0]Parece que não são só os japoneses que apreciam.[n]Eu realmente não entendo de arte.[n][w][e]
 
-[msg TV_SHOUGI_0531_000_00 [Giocatore di shogi professionista]]
+[msg TV_SHOUGI_0531_000_00 [Jogador profissional de shogi]]
 [s]Bem, aqui o movimento mais natural é o peão em[n]4-3.[n][w][e]
 [s]Como você disse? Peão em 9-5?[n]Pessoalmente, eu nunca faria tal[n]movimento. Seria inviável...[n][w][e]
 
-[msg TV_SHOUGI_0531_100_00 [Intervistatrice]]
+[msg TV_SHOUGI_0531_100_00 [Entrevistador]]
 [s]Oh, ele acabou de mover o peão para 9-5...[n][w][e]
 
 [msg TV_NEWS_0601_000_00 [Locutor]]
@@ -449,7 +449,7 @@
 [msg TV_NEWS_0601_100_00 [Morgana]]
 [s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 1 1025 65535 0][f 4 25 1 65535 0 0]Por que alguém faria[n]coisa assim? Ele achou[n]isso engraçado?[n][w][e]
 
-[msg TV_QUIZ_0602_000_00 [Presentatore del game show]]
+[msg TV_QUIZ_0602_000_00 [Apresentador de game show]]
 [s]Falando em crime juvenil, muitas vezes se ouve[n]falar em liberdade condicional.[n][w][e]
 [s]Em casos de liberdade condicional...[n]A: É proibido sair do país.[n]B: Os tutores não são pagos.[n][w][e]
 [s]Qual das afirmações acima[n]é verdadeira? A frase é sua![n][w][e]
@@ -458,10 +458,10 @@
 [s]É proibido sair do país.[e]
 [s]Os tutores não são pagos.[e]
 
-[msg TV_QUIZ_0602_100_00 [Ragazzino]]
+[msg TV_QUIZ_0602_100_00 [Garotinho]]
 [s]A resposta correta é... B![n]Os guardiões não recebem[n]nenhuma compensação![n][w][e]
 
-[msg TV_QUIZ_0602_200_00 [Avvocato]]
+[msg TV_QUIZ_0602_200_00 [Advogado]]
 [s]Os guardiões são voluntários.[n]Eles só são pagos[n]por seus relatórios.[n][w][e]
 [s]Como a liberdade condicional serve[n]para encorajar a reabilitação,[n]a saída do país não é proibida.[n][w][e]
 
@@ -479,7 +479,7 @@
 [msg TV_NEWS_0603_100_00 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1102 65535 0][f 4 25 1 65535 0 0]A exposição vai acabar logo, hein?[n]Quem sabe o que vai acontecer.[n][w][e]
 
-[msg TV_ANIME_0604_000_00 [Commentatore]]
+[msg TV_ANIME_0604_000_00 [Comentarista]]
 [s]Feather Hawk recuperou[n]memória, mas um novo inimigo[n]aparece![n][w][e]
 [s]É a entrada chocante de um novo líder![n]Levantem-se e lutem, Phoenix Rangers![n][w][e]
 [s]No próximo episódio...[n]"O nome dela é Feather Red."[n][w][e]
@@ -508,11 +508,11 @@
 [msg TV_NEWS_0607_100_00 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1020 65535 0][f 4 25 1 65535 0 0]As pessoas que compraram as obras de[n]Madarame já devem ter[n]entendido com quem estão lidando...[n][w][e]
 
-[msg TV_MACHI_0608_000_00 [Reporter]]
+[msg TV_MACHI_0608_000_00 [Repórter]]
 [s]Em "Descobrindo a cidade!"[n]falamos sobre [clr 2]Chinatown de Motomachi[clr 27],[n]lugar famoso por comida![n][w][e]
 [s]Você pode encontrar muitos[n]restaurantes chineses de alto nível![n][w][e]
 
-[msg TV_MACHI_0608_100_00 [Opinionista]]
+[msg TV_MACHI_0608_100_00 [Comentarista]]
 [s]Os aromas que você respira[n]neste lugar são inebriantes.[n]Você experimentará sabores excepcionais.[n][w][e]
 
 [msg TV_NEWS_0609_000_00 [Locutor]]
@@ -522,13 +522,13 @@
 [msg TV_NEWS_0609_100_00 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1020 65535 0][f 4 25 1 65535 0 0]Assim como aconteceu com Kamoshida,[n]eh? Ele não percebe o que[n]aconteceu com ele.[n][w][e]
 
-[msg TV_MACHI_0610_000_00 [Reporter]]
+[msg TV_MACHI_0610_000_00 [Repórter]]
 [s]Edição especial de[n]"Descobrindo a cidade!"[n][w][e]
 [s]Nessas transmissões especiais[n]em frequência variável, você pode[n]comprar itens altamente solicitados![n][w][e]
 [s]Hoje falamos de... [clr 2]Soba[n]calmante[clr 27], um prato que te vai ajudar[n]a resistir ao calor do verão![n][w][e]
 [s]Está à venda nas lojas de conveniência de Tóquio[n]e temos certeza de que vai literalmente esgotar![n][w][e]
 
-[msg TV_MACHI_0610_100_00 [Opinionista]]
+[msg TV_MACHI_0610_100_00 [Comentarista]]
 [s]Isso embaraçaria até os melhores chefs chineses.[n]E você pode encontrá-lo em lojas de conveniência![n][w][e]
 
 [msg TV_NEWS_0611_000_00 [Locutor]]
@@ -563,11 +563,11 @@
 [msg TV_NEWS_0614_100_00 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1156 65535 0][f 4 25 1 65535 0 0]Até a polícia está com problemas.[n]Não podemos baixar a guarda.[n][w][e]
 
-[msg TV_MACHI_0615_000_00 [Reporter]]
+[msg TV_MACHI_0615_000_00 [Repórter]]
 [s]Em "Descobrindo a cidade!"[n]falamos sobre o [clr 2]Seaside Park[clr 27], um local[n]muito popular entre os jovens.[n][w][e]
 [s]Você pode relaxar no parque, e[n]a vista da roda-gigante[n]é realmente espetacular![n][w][e]
 
-[msg TV_MACHI_0615_100_00 [Opinionista]]
+[msg TV_MACHI_0615_100_00 [Comentarista]]
 [s]A roda-gigante é muito popular[n]entre os casais jovens. Eu também[n]gostava de lá ir... e acompanhado![n][w][e]
 
 [msg TV_NEWS_0616_000_00 [Locutor]]
@@ -596,11 +596,11 @@
 [msg TV_NEWS_0618_100_00 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1019 65535 0][f 4 25 1 65535 0 0]Há muitos[n]acidentes acontecendo… Os incêndios são[n]muito assustadores.[n][w][e]
 
-[msg TV_DRAMA_0620_000_00 [Detective perspicace]]
+[msg TV_DRAMA_0620_000_00 [Detetive perspicaz]]
 [s]Crimes não acontecem[n]em salas de reunião.[n][w][e]
 [s]Eles acontecem lá fora, no mundo[n]real. Você entende isso?[n][w][e]
 
-[msg TV_DRAMA_0620_100_00 [Sospetto in stato confusionale]]
+[msg TV_DRAMA_0620_100_00 [Suspeito confuso]]
 [s]Hum. Por que ele está me dizendo isso?[n][w][e]
 
 [msg TV_MORGANA_0620 [Morgana]]
@@ -614,14 +614,14 @@
 [msg TV_NEWS_0621_100_00 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1156 65535 0][f 4 25 1 65535 0 0]Você também deve ter cuidado.[n]Mesmo os Phantom Thieves podem[n]ser derrotados por dores de estômago.[n][w][e]
 
-[msg TV_MACHI_0622_000_00 [Reporter]]
+[msg TV_MACHI_0622_000_00 [Repórter]]
 [s]Em "Explorando a cidade!"[n]nós visitamos a Sky Tower, o novo[n]marco de [clr 2]Asakusa[clr 27]![n][w][e]
 [s]Uau, estamos muito chapados![n]Do ponto de vista[n]é como andar no ar![n][w][e]
 
-[msg TV_MACHI_0622_100_00 [Opinionista]]
+[msg TV_MACHI_0622_100_00 [Comentarista]]
 [s]Eu sofro de vertigem, então...[n]prefiro as barracas[n]de Asakusa...Ahaha.[n][w][e]
 
-[msg TV_QUIZ_0623_000_00 [Presentatore del game show]]
+[msg TV_QUIZ_0623_000_00 [Apresentador de game show]]
 [s]Aqui está uma pergunta relacionada[n]à fraude perpetrada[n]pelo confesso Madarame.[n][w][e]
 [s]Considere as opções... A: adulterar uma máquina[n]de venda automática. B: pedir comida sem[n]dinheiro.[n][w][e]
 [s]Qual dos dois representa[n]a fraude? A frase é sua![n][w][e]
@@ -630,10 +630,10 @@
 [s]Adulterar um dispensador.[e]
 [s]Pedir comida sem dinheiro.[e]
 
-[msg TV_QUIZ_0623_100_00 [Presentatore del game show]]
+[msg TV_QUIZ_0623_100_00 [Apresentador de game show]]
 [s]A resposta correta é... B![n]Pedir comida sem[n]poder pagar![n][w][e]
 
-[msg TV_QUIZ_0623_200_00 [Avvocato]]
+[msg TV_QUIZ_0623_200_00 [Advogado]]
 [s]A fraude envolve enganar uma pessoa. É por isso[n]que pedir comida sem dinheiro conta como fraude.[n][w][e]
 [s]Adulterar uma máquina de venda automática[n]para aceitar dinheiro falso é[n]outro tipo de crime.[n][w][e]
 
@@ -651,7 +651,7 @@
 [msg TV_NEWS_0624_100_00 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1019 65535 0][f 4 25 1 65535 0 0]Uma das vítimas apareceu na TV.[n]Kaneshiro deve ter[n]aproveitado dele também.[n][w][e]
 
-[msg TV_ANIME_0625_000_00 [Commentatore]]
+[msg TV_ANIME_0625_000_00 [Comentarista]]
 [s]Cisne Azul e Argus Rosa falam... de amor?!? Eles[n]também são acompanhados por Feather Argus e Swan![n][w][e]
 [s]Nenhum inimigo aguenta uma conversa entre[n]mulheres! Levantem-se e lutem, Phoenix Rangers![n][w][e]
 [s]No próximo episódio...[n]"Eu quero um amor tão poderoso[n]que possa ressuscitar os mortos!"[n][w][e]
@@ -664,14 +664,14 @@
 [msg TV_NEWS_0627_100_00 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1102 65535 0][f 4 25 1 65535 0 0]Aquele Kaneshiro...[n]É o fim para ele.[n][w][e]
 
-[msg TV_SHOUGI_0628_000_00 [Intervistatrice]]
+[msg TV_SHOUGI_0628_000_00 [Entrevistador]]
 [s]É ótimo ver todos esses[n]jogadores hoje em dia.[n]notou algum deles em particular?[n][w][e]
 
-[msg TV_SHOUGI_0628_100_00 [Giocatore di shogi professionista]]
+[msg TV_SHOUGI_0628_100_00 [Jogador profissional de shogi]]
 [s]Ah com certeza. Um que chamou minha atenção é[n]Hifumi Togo.[n][w][e]
 [s]Ele é muito bom em equilibrar[n]ataque e defesa. E eu vou te dizer...[n]Ela também é muito fofa.[n][w][e]
 
-[msg TV_SHOUGI_0628_200_00 [Intervistatrice]]
+[msg TV_SHOUGI_0628_200_00 [Entrevistador]]
 [s]Sim, ouvi dizer que ela também começou a[n]trabalhar como modelo.[n][w][e]
 
 [msg TV_NEWS_0629_000_00 [Locutor]]
@@ -690,11 +690,11 @@
 [msg TV_NEWS_0630_100_00 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1028 65535 0][f 4 25 1 65535 0 0]Eles estão muito ocupados planejando[n]esses golpes. Eles poderiam fazer[n]melhor uso de sua criatividade.[n][w][e]
 
-[msg TV_WIDESHOW_0701_000_00 [Presentatore]]
+[msg TV_WIDESHOW_0701_000_00 [Locutor]]
 [s]Ei! Vamos para as notícias de entretenimento![n][w][e]
 [s]O próximo single[n]do Idol Rise Kujikawa foi lançado! Desta[n]vez falaremos sobre "amor maduro"![n][w][e]
 
-[msg TV_WIDESHOW_0701_100_00 [Opinionista]]
+[msg TV_WIDESHOW_0701_100_00 [Comentarista]]
 [s]Ela se tornou muito atraente desde[n]que completou 20 anos.[n]E seu visual é tão sexy...[n][w][e]
 
 [msg TV_NEWS_0702_000_00 [Locutor]]
@@ -704,11 +704,11 @@
 [msg TV_NEWS_0702_100_00 [Morgana]]
 [s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 1 1043 65535 0][f 4 25 1 65535 0 0]Eu me sinto desconfortável quando[n]há tanta umidade.[n]Como sinto falta do sol...[n][w][e]
 
-[msg TV_DRAMA_0704_000_00 [Detective perspicace]]
+[msg TV_DRAMA_0704_000_00 [Detetive perspicaz]]
 [s]Há uma mensagem estranha na cena do crime. Esta[n]deve ser sua mensagem de inicialização.[n][w][e]
 [s]...eu quis dizer "mensagem de despedida".[n][w][e]
 
-[msg TV_DRAMA_0704_100_00 [Sospetto]]
+[msg TV_DRAMA_0704_100_00 [Suspeito]]
 [s]Você cometeu um deslize freudiano,[n]demen…um…detetive?[n][w][e]
 
 [msg TV_MORGANA_0704 [Morgana]]
@@ -730,13 +730,13 @@
 [msg TV_NEWS_0706_100_00 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1102 65535 0][f 4 25 1 65535 0 0]Um ataque de hacker?[n]Essas coisas acontecem com frequência?[n][w][e]
 
-[msg TV_MACHI_0707_000_00 [Reporter]]
+[msg TV_MACHI_0707_000_00 [Repórter]]
 [s]Edição especial de[n]"Descobrindo a cidade!"[n][w][e]
 [s]Nessas transmissões especiais[n]em frequência variável, você pode[n]comprar itens altamente solicitados![n][w][e]
 [s]Hoje vamos falar sobre... [clr 2]panela de melão[clr 27],[n]que é preparada com[n]melões exclusivamente sazonais![n][w][e]
 [s]É a principal padaria de[n]Yon-Germain[n]na estação de Shibuya![n][w][e]
 
-[msg TV_MACHI_0707_100_00 [Opinionista]]
+[msg TV_MACHI_0707_100_00 [Comentarista]]
 [s]Oh, realmente parece um[n]lanche de luxo... Vamos tentar,[n]da próxima vez que estivermos em Shibuya.[n][w][e]
 
 [msg TV_NEWS_0708_000_00 [Locutor]]
@@ -800,20 +800,20 @@
 [s]Três grandes empresas[n]organizaram um evento de[n]degustação das novas cervejas.[n][w][e]
 [s]Funcionários que trabalharam no evento disseram…[n][w][e]
 
-[msg TV_NEWS_0715_050_00 [Birraio capo]]
+[msg TV_NEWS_0715_050_00 [Chefe Cervejeiro]]
 [s]Como você melhora o sabor da[n]cerveja? Ouvir os funcionários.[n]Sua experiência é valiosa...[n][w][e]
 
 [msg TV_NEWS_0715_100_00 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1019 65535 0][f 4 25 1 65535 0 0]A experiência é valiosa, hein...[n]Esse é um ótimo conselho.[n][w][e]
 
-[msg TV_NEWS_0716_000_00 [Pubblicità]]
+[msg TV_NEWS_0716_000_00 [Anúncio]]
 [s]É hora do sorteio Summer Mammoth! A premiação[n]total deste ano é de 800 milhões de ienes![n][w][e]
 [s]Só comprando um ingresso você terá uma chance! Os[n]ingressos estão disponíveis apenas até 31 de[n]julho![n][w][e]
 
 [msg TV_NEWS_0716_100_00 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1170 65535 0]Sim, você não pode ganhar[n]se não comprar um ingresso...[n]Quer tentar a sorte?[n][w][e]
 
-[msg TV_NEWS_0717_000_00 [Presentatore spensierato]]
+[msg TV_NEWS_0717_000_00 [Apresentador alegre]]
 [s]Hoje falaremos sobre eventos de verão.[n][w][e]
 [s]Ótima carne suculenta! Vamos ver[n]como foi o festival de verão![n]Aqui está o vídeo![n][w][e]
 
@@ -906,20 +906,20 @@
 [msg TV_NEWS_0726_100_00 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1161 65535 0][f 4 25 1 65535 0 0]O assunto começa a[n]ficar sério. Seria legal[n]nocautear Medjed, mas…[n][w][e]
 
-[msg TV_MACHI_0727_000_00 [Reporter]]
+[msg TV_MACHI_0727_000_00 [Repórter]]
 [s]Em "Descobrir a cidade!"[n]falaremos sobre os locais ideais[n]para passar as férias![n][w][e]
 [s]Agora estamos[n]no planetário [clr 2]Ikebukuro[clr 27]![n][w][e]
 [s]É tão romântico erguer[n]o olhar para observar o[n]céu estrelado. E que ambiente mágico![n][w][e]
 
-[msg TV_MACHI_0727_100_00 [Opinionista]]
+[msg TV_MACHI_0727_100_00 [Comentarista]]
 [s]Realmente adorável. Se você está procurando o[n]lugar perfeito para um encontro romântico, é[n]isso.[n][w][e]
 
-[msg TV_MACHI_0727_200_00 [Presentatore]]
+[msg TV_MACHI_0727_200_00 [Locutor]]
 [s]Temos outro lugar[n]para apresentar nosso especial de verão![n][w][e]
 [s]É quase impossível que[n]você nunca tenha ouvido falar dele.[n]É Destinyland em [clr 2]Maihama[clr 27]![n][w][e]
 [s]Como sempre, está lotado[n]de visitantes. É um lugar lindo[n]que inspira sonhos e esperanças![n][w][e]
 
-[msg TV_MACHI_0727_300_00 [Opinionista]]
+[msg TV_MACHI_0727_300_00 [Comentarista]]
 [s]Sempre sonhei em ir para lá com minha namorada.[n]Parece um lugar onde ninguém encontra seu[n]destino.[n][w][e]
 
 [msg TV_NEWS_0728_000_00 [Locutor]]
@@ -941,14 +941,14 @@
 [msg TV_NEWS_0729_200_00 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1156 65535 0][f 4 25 1 65535 0 0]Acertou em cheio...[n]Mas vamos vencê-los![n][w][e]
 
-[msg TV_NEWS_0729_000_00_HIRU [Narratore]]
+[msg TV_NEWS_0729_000_00_HIRU [Narrador]]
 [s]Hoje no "A verdade! Documentos do Japão 24"...[n][w][e]
 [s]O famoso detetive Prince falará sobre a[n]rivalidade entre the Phantom Thieves e Medjed.[n][w][e]
 
 [msg TV_NEWS_0729_100_00_HIRU [Akechi]]
 [s][bup 0 9 0 2 0][f 4 10 65535 0 0][vp 8 2 1 54436 65535 0][f 4 25 1 65535 0 0]Bem, aqui está como eu vejo isso...[n][w][e]
 
-[msg TV_ANIME_0730_000_00 [Commentatore]]
+[msg TV_ANIME_0730_000_00 [Comentarista]]
 [s]O inimigo assumiu o controle do corpo de[n]Feather Owl, forçando-o[n]a comer um delicioso curry![n][w][e]
 [s]A coruja amarela dominará o curry ou explodirá[n]primeiro? Levantem-se e lutem, Phoenix Rangers![n][w][e]
 [s]No próximo episódio...[n]"Quando se trata de curry,[n]ninguém supera Yellow."[n][w][e]
@@ -979,22 +979,22 @@
 [msg TV_NEWS_0802_100_00 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1156 65535 0][f 4 25 1 65535 0 0]As pessoas nos amam. Não podemos[n]dar ao luxo de estragar[n]tudo.[n][w][e]
 
-[msg TV_MACHI_0803_000_00 [Reporter]]
+[msg TV_MACHI_0803_000_00 [Repórter]]
 [s]Edição especial de "Descubra[n]a cidade!". Hoje vamos falar sobre os[n]melhores lugares até hoje![n][w][e]
 [s]Estamos localizados na Cidade do Livro de [n][clr 2]Jinbocho[clr 27], uma verdadeira meca para[n]todos os entusiastas da literatura.[n][w][e]
 [s]Ver! Livros, livros e[n]livros até onde a vista alcança.[n]Estou sem palavras![n][w][e]
 
-[msg TV_MACHI_0803_100_00 [Opinionista]]
+[msg TV_MACHI_0803_100_00 [Comentarista]]
 [s]Nesta era digital, é[n]tão maravilhoso poder[n]folhear um livro de papel.[n][w][e]
 
-[msg TV_MACHI_0803_200_00 [Presentatore]]
+[msg TV_MACHI_0803_200_00 [Locutor]]
 [s]Agora vamos falar sobre a lagoa de pesca de [clr 2]Ichigaya[clr 27].[n][w][e]
 [s]Você pode pescar[n]no coração da cidade[n]e em total relaxamento.[n][w][e]
 
-[msg TV_MACHI_0803_300_00 [Opinionista]]
+[msg TV_MACHI_0803_300_00 [Comentarista]]
 [s]Ah, eu vou lá com frequência.[n]Esses dias, porém, não[n]consegui pescar nada. haha...[n][w][e]
 
-[msg TV_QUIZ_0804_000_00 [Presentatore del game show]]
+[msg TV_QUIZ_0804_000_00 [Apresentador de game show]]
 [s]Os batedores de carteira e assaltantes são[n]acusados de roubo, mas o que[n]ocê acha dos seguintes casos?[n][w][e]
 [s]A: Tomar posse de bens perdidos.[n]B: Roubar um carro e devolvê-lo.[n][w][e]
 [s]Qual dos dois pode ser[n]considerado roubo?[n]Sua sentença![n][w][e]
@@ -1003,10 +1003,10 @@
 [s]Tomar posse de bens perdidos.[e]
 [s]Roubar um carro e devolvê-lo.[e]
 
-[msg TV_QUIZ_0804_100_00 [Presentatore del game show]]
+[msg TV_QUIZ_0804_100_00 [Apresentador de game show]]
 [s]A resposta correta é… o B![n]Dizer que você pretendia devolvê-lo[n]não conta no tribunal![n][w][e]
 
-[msg TV_QUIZ_0804_200_00 [Avvocato]]
+[msg TV_QUIZ_0804_200_00 [Advogado]]
 [s]Dirigir o carro de outra pessoa sem permissão é[n]roubo, devido ao consumo de combustível e pneus.[n][w][e]
 [s]Tomar posse de uma propriedade perdida[n]é uma ofensa muito menos grave.[n][w][e]
 [s]A propósito, Phantom Thieves[n]"roubam" corações, mas infelizmente[n]isso não conta como roubo.[n][w][e]
@@ -1017,11 +1017,11 @@
 [msg TV_MORGANA_0804_b [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1072 65535 0][f 4 25 1 65535 0 0]Ah, você adivinhou. Mesmo[n]devolvendo a mercadoria roubada,[n]sempre é roubo, né?[n][w][e]
 
-[msg TV_WIDESHOW_0805_000_00 [Presentatore]]
+[msg TV_WIDESHOW_0805_000_00 [Locutor]]
 [s]Ei! Hoje vamos falar[n]sobre o misterioso mundo[n]do retrogaming![n][w][e]
 [s]É um fenômeno em constante crescimento! E você?[n]Você não quer reviver as emoções de sua infância?[n][w][e]
 
-[msg TV_WIDESHOW_0805_100_00 [Commentatore]]
+[msg TV_WIDESHOW_0805_100_00 [Comentarista]]
 [s]Isso realmente me traz de volta com[n]memórias, quando eu brincava[n]escondido dos meus pais...[n][w][e]
 [s]Muitas pessoas procuram [clr 2]consoles[clr 27][n]antigos[clr 27] em [clr 2]brechós[clr 27] e[n]compram eles por pura nostalgia.[n][w][e]
 
@@ -1033,7 +1033,7 @@
 [msg TV_NEWS_0806_100_00 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0][f 4 25 1 65535 0 0]Todos os olhos estão sobre nós![n]Devemos agir logo.[n][w][e]
 
-[msg TV_NEWS_0808_000_00 [Telecronista]]
+[msg TV_NEWS_0808_000_00 [Apresentador]]
 [s]E aqui está a sereia! O[n]torneio de beisebol[n]interescolar do ensino médio começou oficialmente![n][w][e]
 [s]Neste primeiro jogo temos[n]uma equipa de apenas 13[n]elementos de uma escola pública...[n][w][e]
 
@@ -1055,7 +1055,7 @@
 [msg TV_NEWS_0809_100_00 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1156 65535 0][f 4 25 1 65535 0 0]A polícia não pode fazer nada nesta situação.[n]Temos que pensar sobre isso.[n][w][e]
 
-[msg TV_NEWS_0810_000_00 [Telecronista]]
+[msg TV_NEWS_0810_000_00 [Apresentador]]
 [s]No clímax da terceira partida,[n]ace novato Tanaka toma[n]posse do monte![n][w][e]
 [s]Apesar de uma lesão grave[n]pouco antes do torneio, ele voltou[n]poderoso à ação![n][w][e]
 
@@ -1082,7 +1082,7 @@
 [msg TV_NEWS_0812_100_00 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1019 65535 0][f 4 25 1 65535 0 0]Mesmo no exterior[n]eles falam sobre nós. Acho que[n]deveríamos ficar lisonjeados...[n][w][e]
 
-[msg TV_NEWS_0813_000_00 [Telecronista]]
+[msg TV_NEWS_0813_000_00 [Apresentador]]
 [s]Estou passando por momentos difíceis. Eles[n]terminaram o quinto jogo da segunda rodada com[n]uma diferença de 23 pontos.[n][w][e]
 [s]Mas não estou afim de desistir! Eles vão ter que[n]dar tudo de si nos playoffs da liga menor![n][w][e]
 
@@ -1095,7 +1095,7 @@
 [msg TV_NEWS_0813_200_00 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1156 65535 0][f 4 25 1 65535 0 0]Eles são imbatíveis...[n]Futaba realmente é nossa[n]última esperança...[n][w][e]
 
-[msg TV_NEWS_0815_000_00 [Telecronista]]
+[msg TV_NEWS_0815_000_00 [Apresentador]]
 [s]Prestes a cair na frente do[n]campo central... Não,[n]ele pegou! Que jogada![n][w][e]
 [s]Ele não é muito alto, mas fez uma jogada incrível.[n][w][e]
 
@@ -1134,7 +1134,7 @@
 [msg TV_NEWS_0818_100_00 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1028 65535 0][f 4 25 1 65535 0 0]As pessoas realmente apostam[n]nessas coisas?[n]E nós seríamos os azarões?[n][w][e]
 
-[msg TV_NEWS_0819_000_00 [Telecronista]]
+[msg TV_NEWS_0819_000_00 [Apresentador]]
 [s]Todas as bases estão ocupadas,[n]eles parecem realmente com problemas.[n]Será que eles conseguirão escapar?[n][w][e]
 [s]Aí vem o arremesso...[n]Terceiro golpe! É a décima[n]eliminação dele hoje![n][w][e]
 [s]É realmente uma guerra[n]entre os arremessadores, nenhum[n]time marcou uma corrida ainda![n][w][e]
@@ -1183,11 +1183,11 @@
 [msg TV_NEWS_0823_100_00 [Morgana]]
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 1167 65535 0][f 4 25 1 65535 0 0]Uau, ótimo! Nós ganhamos![n][w][e]
 
-[msg TV_NEWS_0824_000_00 [Reporter]]
+[msg TV_NEWS_0824_000_00 [Repórter]]
 [s]Hoje, na nossa coluna[n]"Descobrir a cidade!"[n]trataremos das férias de verão![n][w][e]
 [s]Não é tarde para um dia na praia! É perto o[n]suficiente para que você possa visitá-lo e[n]voltar à noite![n][w][e]
 
-[msg TV_NEWS_0824_100_00 [Opinionista]]
+[msg TV_NEWS_0824_100_00 [Comentarista]]
 [s]É uma boa ideia. Realmente não é[n]verão sem uma ida à praia.[n]Talvez eu compre um maiô novo.[n][w][e]
 
 [msg TV_NEWS_0825_000_00 [Locutor]]
@@ -1198,11 +1198,11 @@
 [msg TV_NEWS_0825_100_00 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1020 65535 0][f 4 25 1 65535 0 0]A polícia realmente perdeu credibilidade. Embora,[n]no fundo, nem seja culpa deles.[n][w][e]
 
-[msg TV_NEWS_0826_000_00 [Presentatore]]
+[msg TV_NEWS_0826_000_00 [Locutor]]
 [s]Bem-vindo a esta edição estendida[n]do nosso show, onde vamos[n]detalhar[n]detalhar[n]sobre os Phantom Thieves![n][w][e]
 [s]Após o comercial vamos revelar[n]algumas curiosidades sobre os[n]personagens mais comentados do momento![n][w][e]
 
-[msg TV_NEWS_0826_100_00 [Partecipante]]
+[msg TV_NEWS_0826_100_00 [Participante]]
 [s]Os Phantom Thieves são muito[n]populares entre os mais jovens.[n]Alguns os adoram como deuses![n][w][e]
 
 [msg TV_NEWS_0827_000_00 [Locutor]]
@@ -1230,22 +1230,22 @@
 [msg TV_NEWS_0829_100_00 [Morgana]]
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 1167 65535 0][f 4 25 1 65535 0 0]Viramos moda![n]Estou tão orgulhoso[n]de nossa equipe![n][w][e]
 
-[msg TV_SHOUGI_0830_000_00 [Giocatore di shogi professionista]]
+[msg TV_SHOUGI_0830_000_00 [Jogador profissional de shogi]]
 [s]Adicione 2-6...[n]Hum, não sei. Este movimento[n]não me diz nada de bom.[n][w][e]
 [s]É uma técnica que tende a provocar[n]o adversário, a fazê-lo agir[n]agressivamente.[n][w][e]
 
-[msg TV_SHOUGI_0830_100_00 [Intervistatrice]]
+[msg TV_SHOUGI_0830_100_00 [Entrevistador]]
 [s]Não parece um movimento tão terrível para mim,[n]mas... eu confio na sua experiência.[n][w][e]
 
-[msg TV_SHOUGI_0830_200_00 [Giocatore di shogi professionista]]
+[msg TV_SHOUGI_0830_200_00 [Jogador profissional de shogi]]
 [s]Além disso, depois de[n]irritar o oponente,[n]é impossível voltar atrás.[n][w][e]
 [s]Você não pode entender quantas vezes eu...[n]Não, esqueça.[n][w][e]
 
-[msg TV_MACHI_0831_000_00 [Reporter]]
+[msg TV_MACHI_0831_000_00 [Repórter]]
 [s]Edição especial de "Descubra[n]a cidade!". Hoje vamos falar[n]sobre [clr 2]Akihabara[clr 27]![n][w][e]
 [s]Akihabara é um destino turístico muito famoso.[n]O que fascina[n]é sobretudo a atmosfera caótica.[n][w][e]
 
-[msg TV_MACHI_0831_100_00 [Opinionista]]
+[msg TV_MACHI_0831_100_00 [Comentarista]]
 [s]Sou apaixonado por jogos retrô[n]e costumo visitar brechós[n]em Akihabara.[n][w][e]
 [s]Fico animado como uma criança[n]cada vez que encontro um console de jogos[n][clr 2]antigo[clr 27]! Hahaha...[n][w][e]
 
@@ -1266,7 +1266,7 @@
 [msg TV_NEWS_0902_100_00 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1020 65535 0][f 4 25 1 65535 0 0]Uau, eles estão todos interessados em Phantom[n]Thieves... Tente não estragar seu disfarce, ok?[n][w][e]
 
-[msg TV_ANIME_0903_000_00 [Commentatore]]
+[msg TV_ANIME_0903_000_00 [Comentarista]]
 [s]Apenas quando Featherman[n]parece o fim, um novo aliado[n]aparece![n][w][e]
 [s]Envolto em um manto de vento, uma flecha vai[n]lamber o céu! Levantem-se e lutem, Phoenix[n]Rangers![n][w][e]
 [s]No próximo episódio...[n]"Feather Pink's Victory".[n][w][e]
@@ -1294,10 +1294,10 @@
 [msg TV_NEWS_0906_100_00 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0][f 4 25 1 65535 0 0]No auge da popularidade, hein?[n]Melhor se evitarmos[n]ficar muito grandes em nossas cabeças...[n][w][e]
 
-[msg TV_NEWS_0907_000_00 [Intervistatrice]]
+[msg TV_NEWS_0907_000_00 [Entrevistador]]
 [s]Você pode nos contar mais sobre seu grupo de pesquisa Phantom Thieves?[n][w][e]
 
-[msg TV_NEWS_0907_050_00 [Studente universitario intervistato]]
+[msg TV_NEWS_0907_050_00 [Estudante universitário entrevistado]]
 [s]A sério? Tenho um pouco de vergonha de falar[n]sobre isso...[n][w][e]
 [s]Bem, era um clube misterioso, mas nós[n]nos interessamos por Phantom Thieves[n]quando as coisas esquentaram…[n][w][e]
 
@@ -1305,7 +1305,7 @@
 [s][bup 0 3 4 0 0][f 4 10 65535 0 0][vp 8 2 1 1043 65535 0][f 4 25 1 65535 0 0]O que!?! Eles estão tentando descobrir quem somos?[n][w][e]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 25 1 65535 0 0]Eles falam sobre os Phantom Thieves[n]comendo porcaria na universidade?[n]Ufff... Fiquei com medo por um momento.[n][w][e]
 
-[msg TV_NEWS_0908_000_00 [Presentatore spensierato]]
+[msg TV_NEWS_0908_000_00 [Apresentador alegre]]
 [s]Em breve, nosso artigo especial[n]sobre o Havaí, EUA![n][w][e]
 [s]Se você mencionar o Havaí, muitos[n]pensam na estátua do rei Kamehameha.[n]No entanto, o modelo é muito diferente![n][w][e]
 [s]O modelo original era um oficial[n]do rei Kalakaua, escolhido porque[n]atraente, embora não se parecesse com o rei.[n][w][e]
@@ -1321,7 +1321,7 @@
 [msg TV_NEWS_0909_100_00 [Morgana]]
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 1167 65535 0][f 4 25 1 65535 0 0]Oh, assim como eu.[n]Esse cara não é ruim![n][w][e]
 
-[msg TV_NEWS_0910_000_00 [Pubblicità]]
+[msg TV_NEWS_0910_000_00 [Anúncio]]
 [s]Mãe, olha! Que laranja[n]suculenta![n][w][e]
 [s]Duh-dun! Eu não sou uma laranja![n]Mas as taxas são realmente[n]suculentas![n][w][e]
 [s]Mil e oitenta! Mil e oitenta![n]Com KJ Mobile, apenas 1580 por mês![n][w][e]
@@ -1343,15 +1343,15 @@
 [msg TV_NEWS_0912_100_00 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1156 65535 0][f 4 25 1 65535 0 0]Existem pessoas que ganham[n]de nós? Onde está[n]nossa fatia?[n][w][e]
 
-[msg TV_SHOUGI_0913_000_00 [Intervistatrice]]
+[msg TV_SHOUGI_0913_000_00 [Entrevistador]]
 [s]Depois daquela jogada devastadora de[n]peão para 6-4, fizemos uma pausa para o jantar.[n][w][e]
 [s]Mas aqui estamos nós de novo, e... Atenção,[n]o adversário decidiu recuar[n]sem ter feito um único movimento.[n][w][e]
 
-[msg TV_SHOUGI_0913_100_00 [Giocatore di shogi professionista]]
+[msg TV_SHOUGI_0913_100_00 [Jogador profissional de shogi]]
 [s]Estou bastante surpreso.[n][w][e]
 [s]Ele deve ter percebido[n]que estava desesperado[n]enquanto comia...[n][w][e]
 
-[msg TV_SHOUGI_0913_200_00 [Intervistatrice]]
+[msg TV_SHOUGI_0913_200_00 [Entrevistador]]
 [s]Aparentemente, ele estava comendo curry. Deve ter[n]sido difícil engolir, com a disposição no chão.[n][w][e]
 
 [msg TV_NEWS_0914_000_00 [Locutor]]
@@ -1421,7 +1421,7 @@
 [msg TV_NEWS_0921_100_00 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1156 65535 0][f 4 25 1 65535 0 0]Ele realmente é um sujeito mau...[n]e nós somos os únicos que[n]podemos derrotá-lo.[n][w][e]
 
-[msg TV_QUIZ_0922_000_00 [Presentatore del game show]]
+[msg TV_QUIZ_0922_000_00 [Apresentador de game show]]
 [s]O Estatuto do Trabalhador define os direitos dos[n]trabalhadores e as penalidades para quem violar[n]essas normas.[n][w][e]
 [s]Então, qual é a pena prevista[n]para quem obrigar[n]alguém a trabalhos forçados?[n][w][e]
 [s]A: Dez anos de prisão[n]B: Uma multa de vinte milhões.[n][w][e]
@@ -1430,10 +1430,10 @@
 [s]Dez anos de prisão.[e]
 [s]Uma multa de vinte milhões.[e]
 
-[msg TV_QUIZ_0922_100_00 [Presentatore del game show]]
+[msg TV_QUIZ_0922_100_00 [Apresentador de game show]]
 [s]A resposta correta é... A![n]Um chefe que adota métodos desumanos[n]deve cumprir 10 anos de prisão![n][w][e]
 
-[msg TV_QUIZ_0922_200_00 [Avvocato]]
+[msg TV_QUIZ_0922_200_00 [Advogado]]
 [s]É provável que a Okumura Foods[n]simplesmente não tenha pago[n]horas extras, uma ofensa menos grave.[n][w][e]
 [s]Muitos dizem que a pena para este[n]caso é muito branda: seis[n]meses de prisão ou trezentos mil ienes.[n][w][e]
 
@@ -1475,14 +1475,14 @@
 [msg TV_NEWS_0927_100_00 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0][f 4 25 1 65535 0 0]Oh, eles se uniram.[n]É difícil conseguir grandes[n]conquistas sozinho.[n][w][e]
 
-[msg TV_MACHI_0928_000_00 [Reporter]]
+[msg TV_MACHI_0928_000_00 [Repórter]]
 [s]Em "Descobrindo a Cidade!"[n]visitamos um lugar cheio de[n]espiritualidade, o [clr 2]Santuário Meiji[clr 27].[n][w][e]
 [s]Apreciado por aqueles que amam[n]belezas naturais e por aqueles que rezam por[n]mais sorte no amor...[n][w][e]
 
-[msg TV_MACHI_0928_100_00 [Opinionista]]
+[msg TV_MACHI_0928_100_00 [Comentarista]]
 [s]É o santuário mais popular para a véspera de ano[n]novo e conhecido por sua proximidade com a Rua[n]Takenoko.[n][w][e]
 
-[msg TV_QUIZ_0929_000_00 [Presentatore del game show]]
+[msg TV_QUIZ_0929_000_00 [Apresentador de game show]]
 [s]A era da informação é certamente insidiosa. Você[n]pode ter cometido um crime cibernético sem saber![n][w][e]
 [s]Considere as seguintes opções...[n]A: Publicar um registro criminal.[n]B: Insultar alguém na Internet.[n][w][e]
 [s]Qual das opções acima é[n]difamação? A frase é sua![n][w][e]
@@ -1491,10 +1491,10 @@
 [s]Publicar um registo criminal.[e]
 [s]Insultar alguém online.[e]
 
-[msg TV_QUIZ_0929_100_00 [Presentatore del game show]]
+[msg TV_QUIZ_0929_100_00 [Apresentador de game show]]
 [s]A resposta correta é… o A![n]Divulgar a ficha criminal de alguém[n]… é crime![n][w][e]
 
-[msg TV_QUIZ_0929_200_00 [Avvocato]]
+[msg TV_QUIZ_0929_200_00 [Advogado]]
 [s]Se você disser publicamente algo[n]que prejudique[n]a reputação de alguém, você está caluniando essa pessoa![n][w][e]
 [s]Insultos não são considerados[n]difamação, mas é outro[n]tipo de crime.[n][w][e]
 
@@ -1512,13 +1512,13 @@
 [msg TV_NEWS_0930_100_00 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1019 65535 0][f 4 25 1 65535 0 0]Mammamia, ter um emprego parece muito cansativo.[n]E o que você quer ser quando crescer?[n][w][e]
 
-[msg TV_MACHI_1001_000_00 [Reporter]]
+[msg TV_MACHI_1001_000_00 [Repórter]]
 [s]Edição especial de[n]"Descobrindo a cidade!"[n][w][e]
 [s]Nessas transmissões especiais[n]em frequência variável, você pode[n]comprar itens altamente solicitados![n][w][e]
 [s]Hoje falamos de... [clr 2]Aroma[n]refrescante[clr 27], um perfume com[n]propriedades curativas e relaxantes![n][w][e]
 [s]Com sua mistura especial de[n]ingredientes de outono, este[n]item realmente esgotou![n][w][e]
 
-[msg TV_MACHI_1001_100_00 [Opinionista]]
+[msg TV_MACHI_1001_100_00 [Comentarista]]
 [s]É um item do Body Chop, não é?[n]Espero que ainda tenham alguns no[n]shopping subterrâneo em Shibuya.[n][w][e]
 
 [msg TV_NEWS_1002_000_00 [Locutor]]
@@ -1528,11 +1528,11 @@
 [msg TV_NEWS_1002_100_00 [Morgana]]
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 1167 65535 0][f 4 25 1 65535 0 0]A colheita de arroz foi[n]excelente este ano![n]Aqui... Agora estou com vontade de comer sushi.[n][w][e]
 
-[msg TV_DRAMA_1003_000_00 [Detective perspicace]]
+[msg TV_DRAMA_1003_000_00 [Detetive perspicaz]]
 [s]Gostaria de fazer algumas perguntas.[n]Sou a detetive Sakyo Hinoshita,[n]Polícia Metropolitana de Tóquio...[n][w][e]
 [s]...Esquadrão de Operações Especiais[n]da Quinta Seção de Contramedidas[n]contra o Crime Organizado.[n][w][e]
 
-[msg TV_DRAMA_1003_100_00 [Testimone chiave]]
+[msg TV_DRAMA_1003_100_00 [Testemunha chave]]
 [s]...Oh, um policial, você sabe.[n][w][e]
 
 [msg TV_MORGANA_1003 [Morgana]]
@@ -1562,14 +1562,14 @@
 [msg TV_NEWS_1006_100_00 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1020 65535 0][f 4 25 1 65535 0 0]A notícia está falando sobre o pai de Haru. Ele[n]parece ser um personagem bastante influente...[n][w][e]
 
-[msg TV_WIDESHOW_1007_000_00 [Presentatore]]
+[msg TV_WIDESHOW_1007_000_00 [Locutor]]
 [s]Ei! A tendência dos Phantom Thieves[n]nunca foi[n]tão desenfreada![n][w][e]
 [s]Você pode conseguir um visual misterioso[n]e sofisticado ao mesmo tempo![n]As meninas gostam muito, não é?[n][w][e]
 
-[msg TV_WIDESHOW_1007_100_00 [Opinionista]]
+[msg TV_WIDESHOW_1007_100_00 [Comentarista]]
 [s]Seguro! Se eu fosse vinte anos mais jovem,[n]certamente teria meu coração roubado pelos[n]Phantom Thieves. Haha![n][w][e]
 
-[msg TV_ANIME_1008_000_00 [Commentatore]]
+[msg TV_ANIME_1008_000_00 [Comentarista]]
 [s]O inimigo que reuniu os[n]Phoenix Rangers finalmente[n]fez sua jogada![n][w][e]
 [s]O que haverá na bandeja que ele preparou para[n]eles?!? Levantem-se e lutem, Phoenix Rangers![n][w][e]
 [s]No próximo episódio...[n]"Adoro entranhas grelhadas...[n]Ei! Mas é uma armadilha!"[n][w][e]
@@ -1638,13 +1638,13 @@
 [msg TV_NEWS_1016_100_00 [Morgana]]
 [s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 1 1027 65535 0][f 4 25 1 65535 0 0]Haru não está tendo um momento fácil. Estou um[n]pouco preocupado com ela.[n][w][e]
 
-[msg TV_DRAMA_1017_000_00 [Detective perspicace]]
+[msg TV_DRAMA_1017_000_00 [Detetive perspicaz]]
 [s]Hahaha...tudo bem. Atire, vamos![n][w][e]
 
-[msg TV_DRAMA_1017_050_00 [Colpevole]]
+[msg TV_DRAMA_1017_050_00 [Culpado]]
 [s]Não é uma pistola vazia.[n]É uma magnum![n][w][e]
 
-[msg TV_DRAMA_1017_100_00 [Detective perspicace]]
+[msg TV_DRAMA_1017_100_00 [Detetive perspicaz]]
 [s]Um momento! N-Não atire![n][w][e]
 
 [msg TV_DRAMA_1017_150_00 [Morgana]]
@@ -1658,7 +1658,7 @@
 [msg TV_NEWS_1018_100_00 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1102 65535 0][f 4 25 1 65535 0 0]Claro que não! Muito menos![n][w][e]
 
-[msg TV_NEWS_1019_000_00 [Presentatore spensierato]]
+[msg TV_NEWS_1019_000_00 [Apresentador alegre]]
 [s]É hora da moda! Hoje[n]vamos falar sobre um dos[n]objetos-chave do outono: o suéter.[n][w][e]
 [s]Você conhece as bolas peludas[n]que aparecem depois que você tira[n]ou coloca? Veja como tirá-los![n][w][e]
 [s]Esfregue as bolas de pelo[n]levemente com uma esponja úmida e[n]remova-as sem consequências![n][w][e]
@@ -1715,11 +1715,11 @@
 [msg TV_NEWS_1025_100_00 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0][f 4 25 1 65535 0 0]Não entendo muito de política, mas parece haver[n]muita coisa acontecendo lá em cima.[n][w][e]
 
-[msg TV_MACHI_1026_000_00 [Reporter]]
+[msg TV_MACHI_1026_000_00 [Repórter]]
 [s]Para "Descobrir a cidade!"[n]estamos em [clr 2]Shibuya[clr 27] para o renomado[n]buffet no Wilton Hotel![n][w][e]
 [s]A comida é tão boa...[n]você é mimado pela escolha![n]Sim, a boa vida é vivida em Shibuya![n][w][e]
 
-[msg TV_MACHI_1026_100_00 [Opinionista]]
+[msg TV_MACHI_1026_100_00 [Comentarista]]
 [s]Ouvi dizer que até VIPs e[n]políticos escolhem este lugar.[n]E eles se disfarçam![n][w][e]
 [s]Até o favorito[n]candidato presidencial é regular![n]eu também quero ir![n][w][e]
 
@@ -1739,7 +1739,7 @@
 [msg TV_NEWS_1028_100_00 [Morgana]]
 [s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 1 1028 65535 0][f 4 25 1 65535 0 0]O Halloween pode ser[n]divertido, mas ouvir essas coisas[n]desanima meu espírito...[n][w][e]
 
-[msg TV_ANIME_1029_000_00 [Commentatore]]
+[msg TV_ANIME_1029_000_00 [Comentarista]]
 [s]Red Eagle fica chocado com a[n]traição de Black Falcon.[n][w][e]
 [s]Mas isso não é tudo... Há outro[n]traidor! Levantem-se e lutem, Phoenix Rangers![n][w][e]
 [s]No próximo episódio...[n]"Ainda você, Hawk?"[n][w][e]
@@ -1785,11 +1785,11 @@
 [msg TV_NEWS_1103_100_00 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1161 65535 0][f 4 25 1 65535 0 0]Pior e pior...[n]O que mais eles estarão dispostos a fazer,[n]para nos capturar?[n][w][e]
 
-[msg TV_WIDESHOW_1104_000_00 [Presentatore]]
+[msg TV_WIDESHOW_1104_000_00 [Locutor]]
 [s]Ei! Hoje vamos falar[n]sobre o Príncipe Detetive mais popular[n]do momento, Goro Akechi![n][w][e]
 [s]Discutiremos sua vida privada[n]e...sua mulher ideal![n]Contém apenas 80% de palpites![n][w][e]
 
-[msg TV_WIDESHOW_1104_100_00 [Opinionista]]
+[msg TV_WIDESHOW_1104_100_00 [Comentarista]]
 [s]Existem muitas mulheres que[n]o definem como o homem ideal.[n]Ele é mais apreciado do que certos ídolos.[n][w][e]
 
 [msg TV_NEWS_1105_000_00 [Locutor]]
@@ -1813,10 +1813,10 @@
 [s][bup 0 3 3 0 0][vp 8 2 1 0 65535 0]......[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 25 1 65535 0 0]Também prometemos[n]fazê-lo, uma vez que o plano fosse concluído[n]...[n][w][e]
 
-[msg TV_SHOUGI_1108_000_00 [Intervistatrice]]
+[msg TV_SHOUGI_1108_000_00 [Entrevistador]]
 [s]Diz-se que os jogadores de Shogi[n]estão no auge dos[n]20 aos 30 anos de idade. O que você acha disso?[n][w][e]
 
-[msg TV_SHOUGI_1108_100_00 [Giocatore di shogi professionista]]
+[msg TV_SHOUGI_1108_100_00 [Jogador profissional de shogi]]
 [s]Bem, com certeza eu era muito mais rápido[n]analisando o quadro quando[n]eu tinha vinte e poucos anos.[n][w][e]
 [s]Para a geração mais jovem[n]é muito mais fácil vencer[n]no speed shogi.[n][w][e]
 [s]Embora... eu acho que[n]existe uma exceção...[n][w][e]
@@ -1829,7 +1829,7 @@
 [msg TV_NEWS_1109_100_00 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1020 65535 0][f 4 25 1 65535 0 0]Seu índice de aprovação está no nível mais baixo[n]de todos os tempos. Mas mesmo o nosso não é[n]brincadeira...[n][w][e]
 
-[msg TV_QUIZ_1110_000_00 [Presentatore del game show]]
+[msg TV_QUIZ_1110_000_00 [Apresentador de game show]]
 [s]A próxima pergunta é muito[n]simples. Quem detém o poder[n]neste país?[n][w][e]
 [s]A: O primeiro-ministro.[n]B: Vocês, os espectadores.[n][w][e]
 [s]Para quem acabou de sintonizar, você[n]está assistindo "La Legge in[n]ao vivo!". Bem, o veredicto é seu![n][w][e]
@@ -1838,10 +1838,10 @@
 [s]O primeiro ministro.[e]
 [s]Nós, os espectadores.[e]
 
-[msg TV_QUIZ_1110_100_00 [Presentatore del game show]]
+[msg TV_QUIZ_1110_100_00 [Apresentador de game show]]
 [s]A resposta correta é... B![n]Nós governamos[n]nosso país![n][w][e]
 
-[msg TV_QUIZ_1110_200_00 [Avvocato]]
+[msg TV_QUIZ_1110_200_00 [Advogado]]
 [s]O artigo 1º da Constituição[n]diz que o poder soberano reside[n]no povo. O poder é seu![n][w][e]
 [s]Eu poderia ser criticado por isso,[n]mas acredito que todo indivíduo tem[n]o poder de mudar a sociedade.[n][w][e]
 
@@ -1860,7 +1860,7 @@
 [msg TV_NEWS_1111_100_00 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1019 65535 0][f 4 25 1 65535 0 0]Ah, vai ter novas[n]eleições. Quem sabe quem vai ganhar.[n][w][e]
 
-[msg TV_ANIME_1112_000_00 [Commentatore]]
+[msg TV_ANIME_1112_000_00 [Comentarista]]
 [s]O objetivo do maligno Daimaho[n]é eliminar todos[n]pássaros da face da terra![n][w][e]
 [s]Será que os Feathermen, exaustos pela gripe[n]aviária, escaparão vivos?!?[n][w][e]
 [s]Descobriremos no próximo[n]episódio... "Broken Wings".[n][w][e]
@@ -1880,12 +1880,12 @@
 [msg TV_NEWS_1115_100_00 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0][f 4 25 1 65535 0 0]A gripe, hein? É melhor você[n]cobrir, se você não quer[n]passar também.[n][w][e]
 
-[msg TV_MACHI_1116_000_00 [Reporter]]
+[msg TV_MACHI_1116_000_00 [Repórter]]
 [s]Edição especial de[n]"Descobrindo a cidade!"[n][w][e]
 [s]Nessas transmissões especiais[n]em frequência variável, você pode[n]comprar itens altamente solicitados![n][w][e]
 [s]Hoje falamos[n]sobre... [clr 2]Angel Tart[clr 27] da Taisho[n]Store! Disponível até o Natal![n][w][e]
 
-[msg TV_MACHI_1116_100_00 [Opinionista]]
+[msg TV_MACHI_1116_100_00 [Comentarista]]
 [s]Ah, eu amo [clr 2]Angel Tarts[clr 27].[n]Eu compraria mesmo se tivesse que[n]ficar na fila por quilômetros.[n][w][e]
 [s]Sempre que os vejo nas[n]prateleiras das lojas[n]já parece Natal.[n][w][e]
 
@@ -1897,11 +1897,11 @@
 [msg TV_NEWS_1117_100_00 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1102 65535 0][f 4 25 1 65535 0 0]Eles vão nos usar para[n]gerar consenso? Eles fariam[n]qualquer coisa por seus próprios interesses...[n][w][e]
 
-[msg TV_WIDESHOW_1118_000_00 [Presentatore]]
+[msg TV_WIDESHOW_1118_000_00 [Locutor]]
 [s]Ei! Com a dissolução da[n]Câmara dos Deputados,[n]o que vai acontecer com a Dieta?[n][w][e]
 [s]Hoje falaremos sobre Masayoshi[n]Shido, que pode se tornar[n]o nosso próximo primeiro-ministro.[n][w][e]
 
-[msg TV_WIDESHOW_1118_100_00 [Opinionista]]
+[msg TV_WIDESHOW_1118_100_00 [Comentarista]]
 [s]Shido-san é muito popular[n]entre os eleitores. Ele tem grandes[n]expectativas para atender.[n][w][e]
 
 [msg TV_NEWS_1119_000_00 [Locutor]]
@@ -1936,7 +1936,7 @@
 [msg TV_NEWS_1123_100_00 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1020 65535 0][f 4 25 1 65535 0 0]As pessoas gostam daquele bastardo?[n]Você não acreditaria...[n][w][e]
 
-[msg TV_QUIZ_1124_000_00 [Presentatore del game show]]
+[msg TV_QUIZ_1124_000_00 [Apresentador de game show]]
 [s]As eleições se aproximam, e talvez[n]nem todos saibam dessa[n]curiosidade sobre a Dieta...[n][w][e]
 [s]A Dieta decide com base na[n]maioria de votos, mas quem tem a última[n]palavra se a votação for de 50%?[n][w][e]
 [s]A: O Presidente da Câmara[n]B: O lançamento de uma moeda.[n][w][e]
@@ -1945,10 +1945,10 @@
 [s]O Presidente da Câmara.[e]
 [s]O lançamento de uma moeda.[e]
 
-[msg TV_QUIZ_1124_100_00 [Presentatore del game show]]
+[msg TV_QUIZ_1124_100_00 [Apresentador de game show]]
 [s]A resposta correta é... A![n]É o Presidente da Câmara quem[n]decide! Vamos ouvir a explicação![n][w][e]
 
-[msg TV_QUIZ_1124_200_00 [Avvocato]]
+[msg TV_QUIZ_1124_200_00 [Advogado]]
 [s]A decisão cabe ao presidente[n]da Câmara, nos termos do[n]art. 56, cap. 2 da Constituição.[n][w][e]
 [s]Após a eleição geral, o primeiro[n]ato da Dieta será[n]a nomeação do primeiro-ministro.[n][w][e]
 
@@ -1989,23 +1989,23 @@
 [msg TV_NEWS_1128_200_00 [Morgana]]
 [s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 1 53106 65535 0][f 4 25 1 65535 0 0]Espere um minuto… Shido[n]é o favorito? O que está acontecendo?[n][w][e]
 
-[msg TV_SHOUGI_1129_000_00 [Intervistatrice]]
+[msg TV_SHOUGI_1129_000_00 [Entrevistador]]
 [s]Peão em 3-6, mas parece[n]que não será suficiente[n]para chegar ao xeque-mate...[n][w][e]
 
-[msg TV_SHOUGI_1129_100_00 [Giocatore di shogi professionista]]
+[msg TV_SHOUGI_1129_100_00 [Jogador profissional de shogi]]
 [s]Sim, não é qualquer movimento. Acho que reverti a[n]situação.[n][w][e]
 [s]Espere um pouco... Hã?[n][w][e]
 [s]Se eu pegar este e o oponente[n]pegar este... ainda terei[n]peões suficientes...?[n][w][e]
 [s]Oh não! fica ruim...[n][w][e]
 
-[msg TV_SHOUGI_1129_200_00 [Intervistatrice]]
+[msg TV_SHOUGI_1129_200_00 [Entrevistador]]
 [s]Huh...?[n][w][e]
 
-[msg TV_MACHI_1130_000_00 [Reporter]]
+[msg TV_MACHI_1130_000_00 [Repórter]]
 [s]Hoje, para a coluna "Descobrindo[n]a cidade!" nós levamos você para Yasoinaba![n][w][e]
 [s]Estamos diante de Marukyu[n]Tofu, que também é a casa[n]do famoso ídolo Risette![n][w][e]
 
-[msg TV_MACHI_1130_100_00 [Opinionista]]
+[msg TV_MACHI_1130_100_00 [Comentarista]]
 [s]Rise Kujikawa descansou, mas... quem sabe,[n]talvez ela deva seu charme ao tofu![n][w][e]
 
 [msg TV_NEWS_1201_000_00 [Locutor]]
@@ -2016,14 +2016,14 @@
 [msg TV_NEWS_1201_100_00 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0][f 4 25 1 65535 0 0]Eu também quero um bônus![n]Se eu trabalhar duro,[n]você vai me dar um extra?[n][w][e]
 
-[msg TV_WIDESHOW_1202_000_00 [Presentatore]]
+[msg TV_WIDESHOW_1202_000_00 [Locutor]]
 [s]Ei! Para nossa coluna[n]"Mulheres atraentes que têm sucesso[n]em condições difíceis"...[n][w][e]
 [s]A convidada de hoje é Yukari Takeba,[n]estudante universitária e[n]atriz de sucesso em um programa de TV![n][w][e]
 
-[msg TV_WIDESHOW_1202_100_00 [Opinionista]]
+[msg TV_WIDESHOW_1202_100_00 [Comentarista]]
 [s]Oh, é aquele que interpreta[n]Pink Argus naquele programa, certo?[n][w][e]
 
-[msg TV_ANIME_1203_000_00 [Commentatore]]
+[msg TV_ANIME_1203_000_00 [Comentarista]]
 [s]Acelerando pelo[n]espaço-tempo, os Phoenix Rangers[n]unam suas forças![n][w][e]
 [s]Eles serão capazes de retornar ao seu mundo?!?[n]Levantem-se e lutem, Phoenix Rangers![n][w][e]
 [s]No próximo episódio...[n]"O Retorno dos Phoenix Rangers".[n][w][e]
@@ -2045,21 +2045,21 @@
 [msg TV_NEWS_1204_101_01 [Morgana]]
 [s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 1 1028 65535 0][f 4 25 1 65535 0 0]Eu não seria capaz de suportar[n]sua vitória depois de todo o esforço[n]que colocamos...[n][w][e]
 
-[msg TV_DRAMA_1205_000_00 [Detective perspicace]]
+[msg TV_DRAMA_1205_000_00 [Detetive perspicaz]]
 [s]Você estava certo em confessar.[n][w][e]
 [s]Isso garantirá a mitigação[n]durante o processo.[n][w][e]
 [s]Mas ... por que[n]ele de repente decidiu me contar tudo?[n][w][e]
 
-[msg TV_DRAMA_1205_100_00 [Donna rea confessa]]
+[msg TV_DRAMA_1205_100_00 [Rea mulher confessa]]
 [s]Porque... eu gosto de laranjas.[n][w][e]
 
 [msg TV_MORGANA_1205 [Morgana]]
 [s][bup 0 3 4 0 0][f 4 10 65535 0 0][vp 8 2 1 1040 65535 0][f 4 25 1 65535 0 0]E a razão seria essa?!?[n]Ei, quando você estava na prisão[n]eles trouxeram laranjas para você?[n][w][e]
 
-[msg TV_SHOUGI_1206_000_00 [Intervistatrice]]
+[msg TV_SHOUGI_1206_000_00 [Entrevistador]]
 [s]General de prata em 9-1?[n]Sua mão estava tremendo[n]ao fazer aquele movimento.[n][w][e]
 
-[msg TV_SHOUGI_1206_100_00 [Giocatore di shogi professionista]]
+[msg TV_SHOUGI_1206_100_00 [Jogador profissional de shogi]]
 [s]Oh sério? Provavelmente,[n]neste ponto, não tenho outra[n]escolha a não ser me retirar.[n][w][e]
 [s]Eu nunca vi nenhum[n]dos meus oponentes tremer, então...[n]eu sinto um pouco de inveja.[n][w][e]
 
@@ -2071,7 +2071,7 @@
 [msg TV_NEWS_1207_100_00 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1167 65535 0][f 4 25 1 65535 0 0]Ele não é um pouco velho demais para ser um[n]novato? Estou quase torcendo por ele.[n][w][e]
 
-[msg TV_QUIZ_1208_000_00 [Presentatore del game show]]
+[msg TV_QUIZ_1208_000_00 [Apresentador de game show]]
 [s]Digamos que você atira em um homem com a intenção[n]de matá-lo, mas erra e fere um espectador.[n][w][e]
 [s]Se sim, que tipo de[n]crime você teria cometido?[n][w][e]
 [s]A: Tentativa de homicídio[n]B: Homicídio culposo.[n][w][e]
@@ -2081,10 +2081,10 @@
 [s]Tentativa de homicídio.[e]
 [s]Homicídio culposo.[e]
 
-[msg TV_QUIZ_1208_100_00 [Presentatore del game show]]
+[msg TV_QUIZ_1208_100_00 [Apresentador de game show]]
 [s]A resposta correta é... A![n]Por que ferir um espectador[n]não conta como agressão?[n][w][e]
 
-[msg TV_QUIZ_1208_200_00 [Avvocato]]
+[msg TV_QUIZ_1208_200_00 [Advogado]]
 [s]Foi uma pergunta capciosa.[n]A resposta correta é A, mas esses[n]são ambos casos de homicídio.[n][w][e]
 [s]Você seria indiciado pelo mesmo[n]crime, mesmo que alguém estivesse[n]envolvido por engano.[n][w][e]
 
@@ -2094,11 +2094,11 @@
 [msg TV_MORGANA_1208_b [Morgana]]
 [s][bup 0 3 4 0 0][f 4 10 65535 0 0][vp 8 2 1 1028 65535 0][f 4 25 1 65535 0 0]Espere o que? Você pode ser[n]indiciado pelo mesmo crime[n]duas vezes? Que pergunta esquisita...[n][w][e]
 
-[msg TV_WIDESHOW_1209_000_00 [Presentatore]]
+[msg TV_WIDESHOW_1209_000_00 [Locutor]]
 [s]Ei! O especial de hoje é[n]dedicado aos heróis da[n]aplicação da lei! Falaremos sobre tudo…[n][w][e]
 [s]Do belo detetive com[n]óculos de sol ao lendário[n]detetive que derrotou um urso![n][w][e]
 
-[msg TV_WIDESHOW_1209_100_00 [Opinionista]]
+[msg TV_WIDESHOW_1209_100_00 [Comentarista]]
 [s]Tem uma durona na academia.[n]Ela pode não ser policial ainda,[n]mas ela é um prodígio do kung fu![n][w][e]
 
 [msg TV_NEWS_1210_000_00 [Locutor]]
@@ -2109,13 +2109,13 @@
 [msg TV_NEWS_1210_100_00 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1156 65535 0][f 4 25 1 65535 0 0]O partido de Shido vai ganhar a eleição?!? fica[n]ruim...[n][w][e]
 
-[msg TV_DRAMA_1212_000_00 [Detective perspicace]]
+[msg TV_DRAMA_1212_000_00 [Detetive perspicaz]]
 [s]Por que ele pendurou aqueles[n]cadáveres em antenas de TV[n]e postes de telefone?[n][w][e]
 
-[msg TV_DRAMA_1212_100_00 [Sospetto sotto interrogatorio]]
+[msg TV_DRAMA_1212_100_00 [Suspeito sob interrogatório]]
 [s]Porque o mundo é uma merda...[n]eu acho.[n][w][e]
 
-[msg TV_DRAMA_1212_200_00 [Detective perspicace]]
+[msg TV_DRAMA_1212_200_00 [Detetive perspicaz]]
 [s]E ele os matou por isso?!?[n]E ele não sente remorso?!?[n][w][e]
 
 [msg TV_MORGANA_1212 [Morgana]]
@@ -2129,14 +2129,14 @@
 [msg TV_NEWS_1213_100_00 [Morgana]]
 [s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 1 1028 65535 0][f 4 25 1 65535 0 0]É louco. Alguém ainda[n]acredita... Ei, nós já não vimos aquele cara[n]ainda?[n][w][e]
 
-[msg TV_MACHI_1214_000_00 [Reporter]]
+[msg TV_MACHI_1214_000_00 [Repórter]]
 [s]Hoje, para a coluna "Descobrindo[n]a cidade!" nós levamos você para Yasoinaba![n][w][e]
 [s]A pousada Amagi tem longa[n]tradição, e é conhecida por sua[n]comida deliciosa e águas termais![n][w][e]
 
-[msg TV_MACHI_1214_100_00 [Opinionista]]
+[msg TV_MACHI_1214_100_00 [Comentarista]]
 [s]Devo dizer que a jovem[n]proprietária é realmente bonita![n]É um prazer olhar para ela...[n][w][e]
 
-[msg TV_QUIZ_1215_000_00 [Presentatore del game show]]
+[msg TV_QUIZ_1215_000_00 [Apresentador de game show]]
 [s]Hoje vamos fazer uma pergunta[n]sobre o ato de se entregar a[n]autoridades, tão visto nas séries de TV.[n][w][e]
 [s]Rendição...[n]A: Concede clemência.[n]B: Não dá vantagens às pessoas procuradas.[n][w][e]
 [s]Qual das afirmações acima[n]é verdadeira? A frase é sua![n][w][e]
@@ -2145,10 +2145,10 @@
 [s]Concede clemência.[e]
 [s]Não dá vantagens aos desejados.[e]
 
-[msg TV_QUIZ_1215_100_00 [Presentatore del game show]]
+[msg TV_QUIZ_1215_100_00 [Apresentador de game show]]
 [s]A resposta correta é b! Você não pode[n]dizer que "se rendeu"[n]se for procurado pela polícia![n][w][e]
 
-[msg TV_QUIZ_1215_200_00 [Avvocato]]
+[msg TV_QUIZ_1215_200_00 [Advogado]]
 [s]Caso seja uma pessoa[n]queria se render,[n]isso é chamado de "rendição".[n][w][e]
 [s]Em todo caso, ao entregar-se às[n]autoridades, é o juiz quem estabelece[n]se alguém tem direito à indulgência.[n][w][e]
 
@@ -2309,7 +2309,7 @@
 [s]Casos[n]de pessoas idosas morrendo[n]de asfixia por mochi aumentaram recentemente.[n][w][e]
 [s]Agora vamos conversar com um[n]profissional, para entender como[n]prevenir o problema.[n][w][e]
 
-[msg TV_NEWS_0105_100_00 [Specialista]]
+[msg TV_NEWS_0105_100_00 [Especialista]]
 [s]O ideal é cortá-lo em pedaços bem pequenos, ou[n]comê-lo devagar...[n][w][e]
 [s]O ideal seria evitar[n]comer mochi completamente.[n][w][e]
 
@@ -2356,7 +2356,7 @@
 [msg TV_NEWS_0111_100_00 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1019 65535 0][f 4 25 1 65535 0 0]Como eles comem muito[n]rápido sem engasgar...[n][w][e]
 
-[msg TV_QUIZ_0112_000_00 [Presentatore del game show]]
+[msg TV_QUIZ_0112_000_00 [Apresentador de game show]]
 [s]Conforme o ano novo se aproxima, diz-se[n]que os idosos tendem a[n]acidentalmente engasgar com mochi.[n][w][e]
 [s]Em caso afirmativo, o chef que[n]preparou o mochi é legalmente[n]responsável pelo que aconteceu?[n][w][e]
 [s]A: Ele é culpado.[n]B: Ele não é culpado.[n][w][e]
@@ -2365,10 +2365,10 @@
 [s]Eles são culpados.[e]
 [s]Eles não são culpados.[e]
 
-[msg TV_QUIZ_0112_100_00 [Presentatore del game show]]
+[msg TV_QUIZ_0112_100_00 [Apresentador de game show]]
 [s]A resposta correta é... B![n]Continue com calma[n]fazendo o mochi![n][w][e]
 
-[msg TV_QUIZ_0112_200_00 [Avvocato]]
+[msg TV_QUIZ_0112_200_00 [Advogado]]
 [s]É importante questionar se é[n]obrigação comunicar os riscos de[n]engasgo relacionados ao mochi...[n][w][e]
 [s]O bom senso se aplica a essas coisas no Japão.[n]Não explicar os perigos do mochi não é crime.[n][w][e]
 [s]No entanto, se os pedaços de mochi forem[n]muito grandes e não[n]relatados antes de comer…[n][w][e]
@@ -2380,15 +2380,15 @@
 [msg TV_MORGANA_0112_b [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1072 65535 0][f 4 25 1 65535 0 0]Ah, você adivinhou! Simplificando, basta um pouco[n]de bom senso para ficar bem.[n][w][e]
 
-[msg TV_NEWS_0113_000_00 [Presentatore]]
+[msg TV_NEWS_0113_000_00 [Locutor]]
 [s]Ei ei! Como foi a loteria Mammoth?!?[n][w][e]
 [s]Hoje falaremos com uma pessoa[n]que ganhou 800 milhões de ienes![n][w][e]
 
-[msg TV_NEWS_0113_100_00 [Partecipante]]
+[msg TV_NEWS_0113_100_00 [Participante]]
 [s]800 milhões, certo? São tantos que parece[n]incrível![n][w][e]
 [s]Mesmo esses sonhos podem se tornar realidade.[n]Quem sabe como é...[n][w][e]
 
-[msg TV_NEWS_0114_000_00 [Commentatore]]
+[msg TV_NEWS_0114_000_00 [Comentarista]]
 [s]Más notícias para nossos heróis![n]Depois de sua farra de férias,[n]suas fantasias estão apertadas![n][w][e]
 [s]Para voltar à forma terão que...[n]dançar?!? Levante-se e dance,[n]Phoenix Rangers![n][w][e]
 [s]No próximo episódio...[n]"Dançando nas penas!"[n][w][e]
@@ -2396,7 +2396,7 @@
 [msg TV_NEWS_0115_000_00 [Locutor]]
 [s]No documentário de hoje, episódio 3 de "[n]vidas marcadas", falaremos sobre[n]comediantes que vivem para a comédia.[n][w][e]
 
-[msg TV_NEWS_0115_050_00 [Commentatore]]
+[msg TV_NEWS_0115_050_00 [Comentarista]]
 [s]Quando eram pobres, só o riso os tornava felizes.[n][w][e]
 [s]"Mãe, estou indo para Tóquio! Vou fazer[n]rir o mundo inteiro"! Mas[n]a vida não tem sido gentil...[n][w][e]
 
@@ -2410,23 +2410,23 @@
 [msg TV_NEWS_0116_100_00 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0][f 4 25 1 65535 0 0]As lembranças mudam de acordo com o[n]clima. Vamos ter cuidado.[n][w][e]
 
-[msg TV_NEWS_0117_000_00 [Intervistatrice]]
+[msg TV_NEWS_0117_000_00 [Entrevistador]]
 [s]Depois daquela jogada devastadora de[n]peão para 6-4, fizemos uma pausa para o jantar.[n][w][e]
 [s]Mas aqui estamos nós de novo, e... Atenção,[n]o adversário decidiu recuar[n]sem ter feito um único movimento.[n][w][e]
 
-[msg TV_NEWS_0117_100_00 [Giocatore di shogi professionista]]
+[msg TV_NEWS_0117_100_00 [Jogador profissional de shogi]]
 [s]Estou bastante surpreso.[n][w][e]
 [s]Ele deve ter percebido[n]que estava desesperado[n]enquanto comia...[n][w][e]
 
-[msg TV_NEWS_0117_200_00 [Intervistatrice]]
+[msg TV_NEWS_0117_200_00 [Entrevistador]]
 [s]Aparentemente, ele estava comendo curry. Deve ter[n]sido difícil engolir, com o clima no chão.[n][w][e]
 
-[msg TV_NEWS_0118_000_00 [Reporter]]
+[msg TV_NEWS_0118_000_00 [Repórter]]
 [s]Edição especial de "Descubra[n]a cidade!". Hoje falaremos[n]sobre Odaiba no inverno![n][w][e]
 [s]Depois do Natal, as decorações foram[n]desmontadas, mas a nevada Odaiba[n]ainda é um espetáculo.[n][w][e]
 [s]O estádio está em construção,[n]mas quando estiver pronto[n]vai atrair muitos visitantes.[n][w][e]
 
-[msg TV_NEWS_0118_100_00 [Opinionista]]
+[msg TV_NEWS_0118_100_00 [Comentarista]]
 [s]Ainda estará em construção, mas[n]tem um ar misterioso...[n][w][e]
 
 [msg TV_NEWS_0118_200_00 [Morgana]]
@@ -2455,31 +2455,31 @@
 [msg TV_NEWS_0121_100_00 [Morgana]]
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 1067 65535 0][f 4 25 1 65535 0 0]Não estou surpreso que[n]esteja tão frio... eu quero[n]me enterrar sob o kotatsu...[n][w][e]
 
-[msg TV_NEWS_0123_000_00 [Detective perspicace]]
+[msg TV_NEWS_0123_000_00 [Detetive perspicaz]]
 [s]Havia uma pegada na[n]neve... Era uma prova.[n][w][e]
 [s]Achei graças[n]ao seu formato...[n][w][e]
 
-[msg TV_NEWS_0123_100_00 [Sospetto]]
+[msg TV_NEWS_0123_100_00 [Suspeito]]
 [s]...Você está de brincadeira?[n][w][e]
 
-[msg TV_NEWS_0123_200_00 [Detective perspicace]]
+[msg TV_NEWS_0123_200_00 [Detetive perspicaz]]
 [s]Ah, desculpe-me. Era uma piada.[n][w][e]
 [s]Meu senso de humor[n]não está ... em forma.[n][w][e]
 
-[msg TV_NEWS_0123_300_00 [Sospetto]]
+[msg TV_NEWS_0123_300_00 [Suspeito]]
 [s]Hum... posso ir para casa?[n][w][e]
 
 [msg TV_NEWS_0123_400_00 [Morgana]]
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 1067 65535 0][f 4 25 1 65535 0 0]Deixando pegadas na neve...[n]Amador! Jamais cometeríamos tal erro.[n][w][e]
 
-[msg TV_NEWS_0124_000_00 [Intervistatrice]]
+[msg TV_NEWS_0124_000_00 [Entrevistador]]
 [s]Ele moveu o rei para 5-7... Nesta situação, eu[n]nunca pensaria em tal movimento.[n][w][e]
 
-[msg TV_NEWS_0124_100_00 [Giocatore di shogi professionista]]
+[msg TV_NEWS_0124_100_00 [Jogador profissional de shogi]]
 [s]Sim é fantástico. Proteja[n]o peão com o rei...[n][w][e]
 [s]Vendo as coisas melhor,[n]lembra daquele castelo voador...[n][w][e]
 
-[msg TV_NEWS_0124_200_00 [Intervistatrice]]
+[msg TV_NEWS_0124_200_00 [Entrevistador]]
 [s]Mas eventualmente o castelo desmoronou, não[n]foi...?[n][w][e]
 
 [msg TV_NEWS_0126_000_00 [Locutor]]
@@ -2498,27 +2498,27 @@
 [msg TV_NEWS_0125_100_00 [Morgana]]
 [s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 1 1025 65535 0][f 4 25 1 65535 0 0]Excessos nunca são bons,[n]independente do tipo de clima...[n][w][e]
 
-[msg TV_NEWS_0127_000_00 [Presentatore]]
+[msg TV_NEWS_0127_000_00 [Locutor]]
 [s]Ei! O tema de hoje é[n]amor para o ano novo![n][w][e]
 [s]Com a aproximação do ano novo, a vida de muitas[n]pessoas melhorou![n][w][e]
 
-[msg TV_NEWS_0127_100_00 [Partecipante]]
+[msg TV_NEWS_0127_100_00 [Participante]]
 [s]Para ser honesto, muitas das[n]pessoas ao meu redor[n]estão na mesma situação.[n][w][e]
 [s]No ano passado não havia como[n]encontrar um emprego, mas este ano[n]as coisas mudaram![n][w][e]
 
-[msg TV_NEWS_0128_000_00 [Commentatore]]
+[msg TV_NEWS_0128_000_00 [Comentarista]]
 [s]Os Phoenix Rangers realizaram[n]o ataque especial para impedir[n]a destruição do espaço e do tempo![n][w][e]
 [s]Em troca, porém, eles não podem mais ficar. Eles[n]têm que voltar para seu mundo, desta vez para[n]sempre.[n][w][e]
 [s]Sua determinação inabalável incendiará os céus![n]Levantem-se e lutem, Phoenix Rangers![n][w][e]
 [s]Último episódio... "Até mais"![n][w][e]
 
-[msg TV_NEWS_0130_000_00 [Detective perspicace]]
+[msg TV_NEWS_0130_000_00 [Detetive perspicaz]]
 [s]É uma pena que no final ela tenha cometido um[n]erro crucial...[n][w][e]
 
-[msg TV_NEWS_0130_100_00 [Sospetto giovane]]
+[msg TV_NEWS_0130_100_00 [Eu suspeito jovem]]
 [s]É impossível... Era um plano perfeito...[n][w][e]
 
-[msg TV_NEWS_0130_200_00 [Detective perspicace]]
+[msg TV_NEWS_0130_200_00 [Detetive perspicaz]]
 [s]Ele não viu a falha em seu plano porque viveu em[n]sua realidade ideal, não é?[n][w][e]
 [s]Isso a impediu de pensar na pior situação.[n][w][e]
 
@@ -2895,85 +2895,85 @@
 [msg TV_CH02_DEFAULT]
 [s]Per i prossimi tre giorni,[n]sembra che il clima[n]sarà ○○××△△...[n][w][e]
 
-[msg TV_WEATHER_PATTERN01 [Meteorologo]]
+[msg TV_WEATHER_PATTERN01 [Meteorologista]]
 [s]Amanhã o tempo estará ensolarado o dia todo. É[n]ideal para secar roupas ao ar livre.[n][w][e]
 
-[msg TV_WEATHER_PATTERN02 [Meteorologo]]
+[msg TV_WEATHER_PATTERN02 [Meteorologista]]
 [s]Amanhã será um dia[n]de sol, com fenômenos nublados[n]somente no final da tarde.[n][w][e]
 
-[msg TV_WEATHER_PATTERN03 [Meteorologo]]
+[msg TV_WEATHER_PATTERN03 [Meteorologista]]
 [s]Amanhã um lindo sol vai brilhar o dia todo,[n]exceto por alguma precipitação à noite.[n][w][e]
 
-[msg TV_WEATHER_PATTERN04 [Meteorologo]]
+[msg TV_WEATHER_PATTERN04 [Meteorologista]]
 [s]Para amanhã, espera-se chuva[n]durante todo o dia, mas[n]o tempo vai melhorar à noite.[n][w][e]
 
-[msg TV_WEATHER_PATTERN05 [Meteorologo]]
+[msg TV_WEATHER_PATTERN05 [Meteorologista]]
 [s]Para a tarde, são esperadas nuvens que tornarão o[n]céu um pouco sombrio.[n][w][e]
 
-[msg TV_WEATHER_PATTERN06 [Meteorologo]]
+[msg TV_WEATHER_PATTERN06 [Meteorologista]]
 [s]Durante a tarde, são esperadas[n]nuvens. Esperamos[n]alguma precipitação à noite.[n][w][e]
 
-[msg TV_WEATHER_PATTERN07 [Meteorologo]]
+[msg TV_WEATHER_PATTERN07 [Meteorologista]]
 [s]O céu tende a ficar nublado[n]por volta do meio-dia, com risco[n]de chuvas antes da noite.[n][w][e]
 
-[msg TV_WEATHER_PATTERN08 [Meteorologo]]
+[msg TV_WEATHER_PATTERN08 [Meteorologista]]
 [s]Um céu nublado repentino por volta das 12h, que[n]durará a noite toda, pode causar precipitação.[n][w][e]
 
-[msg TV_WEATHER_PATTERN09 [Meteorologo]]
+[msg TV_WEATHER_PATTERN09 [Meteorologista]]
 [s]Espera-se uma manhã ensolarada,[n]com nuvens à tarde e[n]chuva no resto do dia.[n][w][e]
 
-[msg TV_WEATHER_PATTERN10 [Meteorologo]]
+[msg TV_WEATHER_PATTERN10 [Meteorologista]]
 [s]A manhã estará nublada, mas o[n]céu vai clarear à tarde.[n]O resto do dia será ensolarado.[n][w][e]
 
-[msg TV_WEATHER_PATTERN11 [Meteorologo]]
+[msg TV_WEATHER_PATTERN11 [Meteorologista]]
 [s]Haverá algum céu claro durante[n]a tarde, mas o céu permanecerá[n]nublado pelo resto do dia.[n][w][e]
 
-[msg TV_WEATHER_PATTERN12 [Meteorologo]]
+[msg TV_WEATHER_PATTERN12 [Meteorologista]]
 [s]Amanhã o tempo estará instável,[n]com sol à tarde[n]e chuva à noite.[n][w][e]
 
-[msg TV_WEATHER_PATTERN13 [Meteorologo]]
+[msg TV_WEATHER_PATTERN13 [Meteorologista]]
 [s]Amanhã o céu estará nublado o dia todo, exceto à[n]noite, quando você poderá admirar as estrelas.[n][w][e]
 
-[msg TV_WEATHER_PATTERN14 [Meteorologo]]
+[msg TV_WEATHER_PATTERN14 [Meteorologista]]
 [s]Amanhã o céu ficará nublado o dia todo. Não vai[n]chover, mas não haverá feitiços claros.[n][w][e]
 
-[msg TV_WEATHER_PATTERN15 [Meteorologo]]
+[msg TV_WEATHER_PATTERN15 [Meteorologista]]
 [s]Uma manhã nublada nos espera,[n]com chuva ao anoitecer. Não[n]esqueça seu guarda-chuva![n][w][e]
 
-[msg TV_WEATHER_PATTERN16 [Meteorologo]]
+[msg TV_WEATHER_PATTERN16 [Meteorologista]]
 [s]Teremos uma manhã nublada,[n]com provável chuva à tarde.[n]À noite, o céu estará limpo.[n][w][e]
 
-[msg TV_WEATHER_PATTERN17 [Meteorologo]]
+[msg TV_WEATHER_PATTERN17 [Meteorologista]]
 [s]Será uma manhã nublada, com[n]chuvas até a tarde. Não[n]espere um céu estrelado.[n][w][e]
 
-[msg TV_WEATHER_PATTERN18 [Meteorologo]]
+[msg TV_WEATHER_PATTERN18 [Meteorologista]]
 [s]Amanhã a manhã será nublada, com[n]chuva no restante do[n]dia. Lembre-se do guarda-chuva![n][w][e]
 
-[msg TV_WEATHER_PATTERN19 [Meteorologo]]
+[msg TV_WEATHER_PATTERN19 [Meteorologista]]
 [s]Amanhã vai chover pela manhã, com[n]claro à tarde. Um bom[n]tempo para uma caminhada.[n][w][e]
 
-[msg TV_WEATHER_PATTERN20 [Meteorologo]]
+[msg TV_WEATHER_PATTERN20 [Meteorologista]]
 [s]Amanhã de manhã vai chover, com[n]claro à tarde[n]e nuvens à noite.[n][w][e]
 
-[msg TV_WEATHER_PATTERN21 [Meteorologo]]
+[msg TV_WEATHER_PATTERN21 [Meteorologista]]
 [s]Amanhã de manhã vai chover, com[n]claro à tarde, exceto[n]então vai chover novamente à noite.[n][w][e]
 
-[msg TV_WEATHER_PATTERN22 [Meteorologo]]
+[msg TV_WEATHER_PATTERN22 [Meteorologista]]
 [s]Amanhã vai chover até a tarde.[n]À noite, porém, você pode admirar[n]um lindo céu estrelado.[n][w][e]
 
-[msg TV_WEATHER_PATTERN23 [Meteorologo]]
+[msg TV_WEATHER_PATTERN23 [Meteorologista]]
 [s]Amanhã deve chover até[n]a tarde, com céu encoberto[n]pelo resto do dia.[n][w][e]
 
-[msg TV_WEATHER_PATTERN24 [Meteorologo]]
+[msg TV_WEATHER_PATTERN24 [Meteorologista]]
 [s]Vai chover amanhã de manhã, com alguns períodos[n]de céu claro à tarde, e depois chover novamente[n]à noite.[n][w][e]
 
-[msg TV_WEATHER_PATTERN25 [Meteorologo]]
+[msg TV_WEATHER_PATTERN25 [Meteorologista]]
 [s]Amanhã vai chover o dia todo,[n]com períodos de céu claro apenas[n]no final da tarde.[n][w][e]
 
-[msg TV_WEATHER_PATTERN26 [Meteorologo]]
+[msg TV_WEATHER_PATTERN26 [Meteorologista]]
 [s]Será um dia chuvoso amanhã.[n]A chuva vai parar ao anoitecer,[n]mas o céu permanecerá nublado.[n][w][e]
 
-[msg TV_WEATHER_PATTERN27 [Meteorologo]]
+[msg TV_WEATHER_PATTERN27 [Meteorologista]]
 [s]Amanhã vai chover de manhã à noite.[n]Você deve manter seu guarda-chuva[n]à mão.[n][w][e]
 
 [msg MSG_TV_SHOPPING_TUTO [Morgana]]
@@ -2982,18 +2982,18 @@
 [msg MND_TV_SHOPPING_TUTO]
 [s]O canal de televendas[n]está transmitindo.[n][w][e]
 
-[msg TV_SHOPPING_START_00 [Presentatore]]
+[msg TV_SHOPPING_START_00 [Locutor]]
 [s]Olá pessoas! Hora de fazer[n]algumas compras![n][w][e]
 [s]Aqui está o que temos reservado[n]para você hoje![n][w][e]
 
-[msg TV_SHOPPING_START_01 [Presentatore]]
+[msg TV_SHOPPING_START_01 [Locutor]]
 [s]É um produto de edição limitada![n]Estará disponível apenas hoje![n][w][e]
 [s]Claro, o preço é justo![n]Você nunca mais verá um negócio como este![n][w][e]
 
-[msg TV_SHOPPING_START_02 [Presentatrice]]
+[msg TV_SHOPPING_START_02 [Apresentador]]
 [s]Oh, os telefones já estão tocando sem parar![n][w][e]
 
-[msg TV_SHOPPING_START_03 [Presentatore]]
+[msg TV_SHOPPING_START_03 [Locutor]]
 [s]Restam poucos! É sua[n]última chance de comprar,[n]comprar, comprar![n][w][e]
 
 [msg TV_SHOPPING_START_04 [Morgana]]
@@ -3002,17 +3002,17 @@
 [msg TV_SHOPPING_START_04_2nd [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1168 65535 0][f 4 25 1 65535 0 0]Produtos populares, né? Desse[n]passo poderemos dar[n]apenas um dos dois...[n][w][e]
 
-[msg TV_SHOPPING_BUY_00 [Presentatrice]]
+[msg TV_SHOPPING_BUY_00 [Apresentador]]
 [s]Ah, outro comprador entrou em contato conosco![n]Muito obrigado![n][w][e]
 
-[msg TV_SHOPPING_BUY_00_0 [Presentatrice]]
+[msg TV_SHOPPING_BUY_00_0 [Apresentador]]
 [s]Oh! Ambos estão esgotados!?![n]O último cliente teve[n]muita sorte![n][w][e]
 
-[msg TV_SHOPPING_BUY_01 [Presentatore]]
+[msg TV_SHOPPING_BUY_01 [Locutor]]
 [s]Seu pedido será entregue a você[n]o mais rápido possível![n][w][e]
 [s]Até logo então! E até a próxima,[n]com mais um de nossos[n]fantásticos produtos![n][w][e]
 
-[msg TV_SHOPPING_BUY_02 [Presentatrice]]
+[msg TV_SHOPPING_BUY_02 [Apresentador]]
 [s]Nós falaremos![n][w][e]
 
 [msg MSG_TV_SHOPPING_NotBuy [Morgana]]
@@ -3033,10 +3033,10 @@
 [msg MND_TV_SHOPPING_KYANSERU]
 [s]Melhor não dar[n]presentes, por enquanto...[n][w][e]
 
-[msg TV_SHOPPING_ITEM_Woman_C [Presentatrice]]
+[msg TV_SHOPPING_ITEM_Woman_C [Apresentador]]
 [s]Uau! São dois objetos fantásticos,[n]não saberia qual escolher![n][w][e]
 
-[msg TV_SHOPPING_ITEM_0424_01 [Presentatore]]
+[msg TV_SHOPPING_ITEM_0424_01 [Locutor]]
 [s]Aqui está o primeiro, conheça o[n][clr 3]Spring Wake Up Set[clr 27]![n]Adeus, durma![n][w][e]
 [s]Você receberá com: [clr 2][var 8][clr 27] [f 2 5 3 9999 0],[n][clr 2][var 9][clr 27] [f 2 5 3 9999 1] e[n][w][e]
 [s][clr 2][var 10][clr 27][f 2 5 3 9999 2]![n]Que negócio![n][w][e]
@@ -3045,7 +3045,7 @@
 [s][clr 2][var 12][clr 27][f 2 5 3 9999 4],[n][clr 2][var 13][clr 27] [f 2 5 3 9999 5] e...[n][w][e]
 [s][clr 2][var 14][clr 27][f 2 5 3 9999 6]! Tudo em um![n][w][e]
 
-[msg TV_SHOPPING_ITEM_0501_01 [Presentatore]]
+[msg TV_SHOPPING_ITEM_0501_01 [Locutor]]
 [s]Vamos começar com isso: O conjunto de rações [n][clr 3]militar [clr 27]! Você não luta com o[n]estômago vazio![n][w][e]
 [s][clr 2][var 8][clr 27][f 2 5 3 9999 0],[n][clr 2][var 9][clr 27] [f 2 5 3 9999 1] e...[n][w][e]
 [s][clr 2][var 10][clr 27][f 2 5 3 9999 2], tudo em um![n]Que negócio![n][w][e]
@@ -3054,7 +3054,7 @@
 [s][clr 2][var 12][clr 27][f 2 5 3 9999 4] e[n][clr 2][var 13][clr 27] [f 2 5 3 9999 5]![n][w][e]
 [s]Eu não posso acreditar que eles estão[n]em um conjunto! Que acordo![n][w][e]
 
-[msg TV_SHOPPING_ITEM_0508_01 [Presentatore]]
+[msg TV_SHOPPING_ITEM_0508_01 [Locutor]]
 [s]Apresentamos o [clr 3]conjunto relaxante[clr 27]![n]Tudo o que você precisa quando[n]não está se sentindo bem![n][w][e]
 [s][clr 2][var 8][clr 27][f 2 5 3 9999 0],[n][clr 2][var 9][clr 27] [f 2 5 3 9999 1] e...[n][w][e]
 [s][clr 2][var 10][clr 27][f 2 5 3 9999 2]! Viu?[n]Isso é uma loucura![n][w][e]
@@ -3063,7 +3063,7 @@
 [s][clr 2][var 12][clr 27][f 2 5 3 9999 4] e[n][clr 2][var 13][clr 27] [f 2 5 3 9999 5]![n][w][e]
 [s]Eles fazem parte de um[n]conjunto! Incrível![n][w][e]
 
-[msg TV_SHOPPING_ITEM_0515_01 [Presentatore]]
+[msg TV_SHOPPING_ITEM_0515_01 [Locutor]]
 [s]Em primeiro lugar, o [clr 3]pacote anti-alérgico[clr 27],[n]para quem está cansado de passar mal![n][w][e]
 [s][clr 2][var 8][clr 27][f 2 5 3 9999 0] e[n][clr 2][var 9][clr 27] [f 2 5 3 9999 1]![n][w][e]
 [s]Tudo em um conjunto! Incrível![n][w][e]
@@ -3072,7 +3072,7 @@
 [s][clr 2][var 12][clr 27][f 2 5 3 9999 4] e[n][clr 2][var 13][clr 27] [f 2 5 3 9999 5]![n][w][e]
 [s]Eles fazem parte de um[n]conjunto! Incrível![n][w][e]
 
-[msg TV_SHOPPING_ITEM_0522_01 [Presentatore]]
+[msg TV_SHOPPING_ITEM_0522_01 [Locutor]]
 [s]Aqui estamos! Vamos começar com o [clr 3]Muscle[n]Set Plus[clr 27]! Ideal antes de ir trabalhar![n][w][e]
 [s][clr 2][var 8][clr 27][f 2 5 3 9999 0],[n][clr 2][var 9][clr 27] [f 2 5 3 9999 1] e...[n][w][e]
 [s][clr 2][var 10][clr 27][f 2 5 3 9999 2]! Em um conjunto![n][w][e]
@@ -3081,7 +3081,7 @@
 [s][clr 2][var 12][clr 27][f 2 5 3 9999 4],[n][clr 2][var 13][clr 27] [f 2 5 3 9999 5] e...[n][w][e]
 [s][clr 2][var 14][clr 27][f 2 5 3 9999 6], em um conjunto![n]Não é incrível?!?[n][w][e]
 
-[msg TV_SHOPPING_ITEM_0529_01 [Presentatore]]
+[msg TV_SHOPPING_ITEM_0529_01 [Locutor]]
 [s]Apresentando o [clr 3]Conjunto de presentes[n]japoneses[clr 27]! Mostre seu amor pelo Japão![n][w][e]
 [s][clr 2][var 8][clr 27][f 2 5 3 9999 0],[n][clr 2][var 9][clr 27] [f 2 5 3 9999 1] e...[n][w][e]
 [s][clr 2][var 10][clr 27][f 2 5 3 9999 2]! Tudo em um conjunto,[n]amigos! Imperdível![n][w][e]
@@ -3090,7 +3090,7 @@
 [s][clr 2][var 12][clr 27][f 2 5 3 9999 4] e[n][clr 2][var 13][clr 27] [f 2 5 3 9999 5]![n][w][e]
 [s]Eles fazem parte de um[n]conjunto! Incrível![n][w][e]
 
-[msg TV_SHOPPING_ITEM_0619_01 [Presentatore]]
+[msg TV_SHOPPING_ITEM_0619_01 [Locutor]]
 [s]O primeiro é o [clr 3]conjunto de presentes de[n]suporte[clr 27]! ofereça a pessoas ocupadas e[n]você definitivamente se dará bem![n][w][e]
 [s][clr 2][var 8][clr 27][f 2 5 3 9999 0] e[n][clr 2][var 9][clr 27] [f 2 5 3 9999 1]![n][w][e]
 [s]Ambos os itens em[n]um conjunto! Incrível![n][w][e]
@@ -3099,7 +3099,7 @@
 [s][clr 2][var 12][clr 27][f 2 5 3 9999 4] e[n][clr 2][var 13][clr 27] [f 2 5 3 9999 5]![n][w][e]
 [s]Eles fazem parte de um[n]conjunto! Incrível![n][w][e]
 
-[msg TV_SHOPPING_ITEM_0626_01 [Presentatore]]
+[msg TV_SHOPPING_ITEM_0626_01 [Locutor]]
 [s]Primeiro, aqui está o [clr 3]Conjunto de Dark Power[clr 27]![n]Que caminhos esses[n]poderes misteriosos abrirão?!?[n][w][e]
 [s][clr 2][var 8][clr 27][f 2 5 3 9999 0] e[n][clr 2][var 9][clr 27] [f 2 5 3 9999 1]![n][w][e]
 [s]Ambos os itens em[n]um conjunto! Incrível![n][w][e]
@@ -3108,7 +3108,7 @@
 [s][clr 2][var 12][clr 27][f 2 5 3 9999 4] e[n][clr 2][var 13][clr 27] [f 2 5 3 9999 5]![n][w][e]
 [s]Estes fazem parte de um conjunto[n]único! Incrível![n][w][e]
 
-[msg TV_SHOPPING_ITEM_0703_01 [Presentatore]]
+[msg TV_SHOPPING_ITEM_0703_01 [Locutor]]
 [s]Dê uma boa olhada! O [clr 3]Conjunto de Musculação[clr 27]![n]O mundo é um lugar difícil.[n]Seja forte e musculoso![n][w][e]
 [s][clr 2][var 8][clr 27][f 2 5 3 9999 0],[n][clr 2][var 9][clr 27] [f 2 5 3 9999 1] e...[n][w][e]
 [s][clr 2][var 10][clr 27][f 2 5 3 9999 2]! Tudo em um![n]Isso não é loucura?[n][w][e]
@@ -3117,7 +3117,7 @@
 [s][clr 2][var 12][clr 27][f 2 5 3 9999 4],[n][clr 2][var 13][clr 27] [f 2 5 3 9999 5] e...[n][w][e]
 [s][clr 2][var 14][clr 27][f 2 5 3 9999 6]! Você acreditaria?[n]Não é um negócio incrível?[n][w][e]
 
-[msg TV_SHOPPING_ITEM_0807_01 [Presentatore]]
+[msg TV_SHOPPING_ITEM_0807_01 [Locutor]]
 [s]Apresentando o [clr 3]Phantom Thief Set[clr 27]![n]Com isso, você pode se tornar um[n]Phantom Thief e roubar corações![n][w][e]
 [s][clr 2][var 8][clr 27][f 2 5 3 9999 0],[n][clr 2][var 9][clr 27] [f 2 5 3 9999 1] e...[n][w][e]
 [s][clr 2][var 10][clr 27][f 2 5 3 9999 2]! Com uma única compra![n][w][e]
@@ -3126,7 +3126,7 @@
 [s][clr 2][var 12][clr 27][f 2 5 3 9999 4],[n][clr 2][var 13][clr 27] [f 2 5 3 9999 5] e...[n][w][e]
 [s][clr 2][var 14][clr 27][f 2 5 3 9999 6]! Em um conjunto![n]FE-NO-ME-NA-LE![n][w][e]
 
-[msg TV_SHOPPING_ITEM_0814_01 [Presentatore]]
+[msg TV_SHOPPING_ITEM_0814_01 [Locutor]]
 [s]Agora temos o [clr 3]conjunto de bebidas[clr 27]![n]Enfrente o calor do verão com[n]estas bebidas refrescantes![n][w][e]
 [s][clr 2][var 8][clr 27][f 2 5 3 9999 0] e[n][clr 2][var 9][clr 27] [f 2 5 3 9999 1]![n][w][e]
 [s]Ambos os itens em[n]um conjunto! Incrível![n][w][e]
@@ -3135,7 +3135,7 @@
 [s][clr 2][var 12][clr 27][f 2 5 3 9999 4] e[n][clr 2][var 13][clr 27] [f 2 5 3 9999 5]![n][w][e]
 [s]Ambos os itens em[n]um conjunto! Incrível![n][w][e]
 
-[msg TV_SHOPPING_ITEM_0925_01 [Presentatore]]
+[msg TV_SHOPPING_ITEM_0925_01 [Locutor]]
 [s]Primeiro, aqui está o [clr 3]Rogue Set[n]Phantom 2[clr 27]! Coloque a máscara[n]para ser Phantom Thieves![n][w][e]
 [s][clr 2][var 8][clr 27][f 2 5 3 9999 0],[n][clr 2][var 9][clr 27] [f 2 5 3 9999 1] e...[n][w][e]
 [s][clr 2][var 10][clr 27][f 2 5 3 9999 2]! Tudo[n]em um conjunto![n][w][e]
@@ -3144,7 +3144,7 @@
 [s][clr 2][var 12][clr 27][f 2 5 3 9999 4] e[n][clr 2][var 13][clr 27] [f 2 5 3 9999 5]![n][w][e]
 [s]Ambos os itens em[n]um conjunto! Incrível![n][w][e]
 
-[msg TV_SHOPPING_ITEM_1002_01 [Presentatore]]
+[msg TV_SHOPPING_ITEM_1002_01 [Locutor]]
 [s]Vamos começar com isso: o [clr 3]conjunto de[n]abóbora assombrada[clr 27]! Prepare-se para o[n]Halloween![n][w][e]
 [s][clr 2][var 8][clr 27][f 2 5 3 9999 0] e[n][clr 2][var 9][clr 27] [f 2 5 3 9999 1]![n][w][e]
 [s]Ambos os itens em[n]um conjunto! Incrível![n][w][e]
@@ -3153,7 +3153,7 @@
 [s][clr 2][var 12][clr 27][f 2 5 3 9999 4] e[n][clr 2][var 13][clr 27] [f 2 5 3 9999 5]![n][w][e]
 [s]Eles fazem parte de um[n]conjunto! Incrível![n][w][e]
 
-[msg TV_SHOPPING_ITEM_1106_01 [Presentatore]]
+[msg TV_SHOPPING_ITEM_1106_01 [Locutor]]
 [s]Primeiro, aqui está a pomada [clr 3]set[n]resistente[clr 27]! Cure suas feridas,[n]antes que seja tarde![n][w][e]
 [s][clr 2][var 8][clr 27][f 2 5 3 9999 0] e[n][clr 2][var 9][clr 27] [f 2 5 3 9999 1]![n][w][e]
 [s]Tudo em um conjunto! Incrível![n][w][e]
@@ -3162,7 +3162,7 @@
 [s][clr 2][var 12][clr 27][f 2 5 3 9999 4] e[n][clr 2][var 13][clr 27] [f 2 5 3 9999 5]![n][w][e]
 [s]Ambos os itens em[n]um conjunto! Incrível![n][w][e]
 
-[msg TV_SHOPPING_ITEM_1113_01 [Presentatore]]
+[msg TV_SHOPPING_ITEM_1113_01 [Locutor]]
 [s]Vamos continuar com o [clr 3]set spray[n]instant[clr 27]! Adeus, germes! Cace-os para[n]sempre com este conjunto![n][w][e]
 [s][clr 2][var 8][clr 27][f 2 5 3 9999 0],[n][clr 2][var 9][clr 27] [f 2 5 3 9999 1] e...[n][w][e]
 [s][clr 2][var 10][clr 27][f 2 5 3 9999 2]! Estou sonhando?!?[n]É uma chance muito boa[n]para ser verdade![n][w][e]
@@ -3171,7 +3171,7 @@
 [s][clr 2][var 12][clr 27][f 2 5 3 9999 4],[n][clr 2][var 13][clr 27] [f 2 5 3 9999 5] e...[n][w][e]
 [s][clr 2][var 14][clr 27][f 2 5 3 9999 6]! Impossível![n]Vendo que negócio, telespectadores?!?[n][w][e]
 
-[msg TV_SHOPPING_ITEM_1127_01 [Presentatore]]
+[msg TV_SHOPPING_ITEM_1127_01 [Locutor]]
 [s]Primeiro, o conjunto [clr 3]Yaki-Imo[clr 27]![n]Dedicado ao outono, senhores![n]Aproveitem o imo e recarreguem suas energias![n][w][e]
 [s][clr 2][var 8][clr 27][f 2 5 3 9999 0] e[n][clr 2][var 9][clr 27] [f 2 5 3 9999 1]![n][w][e]
 [s]Ambos os itens em[n]um conjunto! Incrível![n][w][e]
@@ -3180,7 +3180,7 @@
 [s][clr 2][var 12][clr 27][f 2 5 3 9999 4] e[n][clr 2][var 13][clr 27] [f 2 5 3 9999 5]![n][w][e]
 [s]Ambos os itens em[n]um conjunto! Incrível![n][w][e]
 
-[msg TV_SHOPPING_ITEM_1211_01 [Presentatore]]
+[msg TV_SHOPPING_ITEM_1211_01 [Locutor]]
 [s]Vamos começar com o [clr 3]Pacote Super Detox[clr 27]![n]Limpe seu corpo de toxinas![n][w][e]
 [s][clr 2][var 8][clr 27][f 2 5 3 9999 0] e[n][clr 2][var 9][clr 27] [f 2 5 3 9999 1]![n][w][e]
 [s]Ambos os itens em[n]um conjunto! Incrível![n][w][e]
@@ -3190,7 +3190,7 @@
 [s][clr 2][var 14][clr 27][f 2 5 3 9999 6] E[n][clr 2][var 15][clr 27] [f 2 5 3 9999 7]![n][w][e]
 [s]Todos esses itens em um conjunto?!?[n]Que negócio incrível![n][w][e]
 
-[msg TV_SHOPPING_ITEM_0115_01 [Presentatore]]
+[msg TV_SHOPPING_ITEM_0115_01 [Locutor]]
 [s]Primeiro, a [clr 3]bolsa da sorte do[n]trabalhador[clr 27]! Torne-se livre de estresse![n]Levante-se com a bolsa da sorte![n][w][e]
 [s][clr 2][var 8][clr 27][f 2 5 3 9999 0],[n][clr 2][var 9][clr 27] [f 2 5 3 9999 1] e...[n][w][e]
 [s][clr 2][var 10][clr 27][f 2 5 3 9999 2], em um conjunto![n][w][e]
@@ -3199,7 +3199,7 @@
 [s][clr 2][var 12][clr 27][f 2 5 3 9999 4],[n][clr 2][var 13][clr 27] [f 2 5 3 9999 5] e...[n][w][e]
 [s][clr 2][var 14][clr 27][f 2 5 3 9999 6]! Tudo isso por um preço ridículo! A não perder![n][w][e]
 
-[msg TV_SHOPPING_ITEM_0122_01 [Presentatore]]
+[msg TV_SHOPPING_ITEM_0122_01 [Locutor]]
 [s]Primeiro, aqui está o [clr 3]conjunto de[n]talismãs[clr 27]! Um conjunto de amuletos de boa[n]sorte só para você![n][w][e]
 [s][clr 2][var 8][clr 27][f 2 5 3 9999 0],[n][clr 2][var 9][clr 27] [f 2 5 3 9999 1] e...[n][w][e]
 [s][clr 2][var 10][clr 27][f 2 5 3 9999 2]! Tudo[n]em um conjunto![n][w][e]
@@ -3208,7 +3208,7 @@
 [s][clr 2][var 12][clr 27][f 2 5 3 9999 4],[n][clr 2][var 13][clr 27] [f 2 5 3 9999 5] e...[n][w][e]
 [s][clr 2][var 14][clr 27][f 2 5 3 9999 6]! Dá para acreditar!?![n]Tudo isso, em apenas um conjunto![n][w][e]
 
-[msg TV_SHOPPING_ITEM_0129_01 [Presentatore]]
+[msg TV_SHOPPING_ITEM_0129_01 [Locutor]]
 [s][clr 3]Conjunto de Energia[clr 27]! Acorde seu corpo![n]Viva seus sonhos![n][w][e]
 [s][clr 2][var 8][clr 27][f 2 5 3 9999 0],[n][clr 2][var 9][clr 27] [f 2 5 3 9999 1]...[n][w][e]
 [s][clr 2][var 10][clr 27][f 2 5 3 9999 2] E[n][clr 2][var 11][clr 27] [f 2 5 3 9999 3]![n][w][e]
@@ -3233,15 +3233,15 @@
 [msg CAFE_TV_KAMOSIDA_NEWS00]
 [s]Parece haver notícias[n]sobre Kamoshida.[n][w][e]
 
-[msg CAFE_TV_KAMOSIDA_NEWS01 [Presentatore]]
+[msg CAFE_TV_KAMOSIDA_NEWS01 [Locutor]]
 [s]Vamos a outras novidades...[n][w][e]
 [s]Um ex-campeão olímpico, além de[n]professor estimado, teria[n]várias vezes agredido seus alunos.[n][w][e]
 [s]Muitos recorreram[n]ao Ministério da Educação[n]para expressar sua indignação.[n][w][e]
 
-[msg CAFE_TV_KAMOSIDA_NEWS02 [Uomo altezzoso]]
+[msg CAFE_TV_KAMOSIDA_NEWS02 [Homem arrogante]]
 [s]E não só. Vários cidadãos estão[n]perplexos com a posição do[n]governo em relação à educação.[n][w][e]
 
-[msg CAFE_TV_KAMOSIDA_NEWS03 [Donna altezzosa]]
+[msg CAFE_TV_KAMOSIDA_NEWS03 [Mulher altiva]]
 [s]Sim, o que o governo está fazendo?!?[n][w][e]
 
 [msg CAFE_TV_KAMOSIDA_NEWS04 [Morgana]]

@@ -20,7 +20,7 @@
 [msg D10_16_PasswardDoor_look_2 [Ryuji]]
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]O que você quer fazer? Por[n]agora podemos dar[n]uma olhada, certo?[n][w][e]
 
-[msg D10_16_2nd_passcode_lock [Voce meccanica]]
+[msg D10_16_2nd_passcode_lock [Voz mecânica]]
 [s]Bloqueio de segurança ativo.[n]Responda à seguinte[n]pergunta de autenticação:[n][w][e]
 [s]Qual foi o elemento faltante[n]que causou a interrupção da[n]pesquisa da ciência psicológica?[n][w][e]
 
@@ -30,13 +30,13 @@
 [s]Sustentabilidade.[e]
 [s]Demonstração.[e]
 
-[msg D10_16_2nd_passcode_lock_3 [Voce meccanica]]
+[msg D10_16_2nd_passcode_lock_3 [Voz mecânica]]
 [s]Resposta errada.[n]Dispositivo de bloqueio ativo.[n][w][e]
 
 [msg D10_16_2nd_passcode_lock_4 [Morgana]]
 [s][bup 0 3 3 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1021 65535 0]Parece que ela não era a pessoa certa, Joker.[n]Vamos tentar de novo.[n][w][e]
 
-[msg D10_16_2nd_passcode_lock_5 [Voce meccanica]]
+[msg D10_16_2nd_passcode_lock_5 [Voz mecânica]]
 [s]Autenticação concluída.[n]Bloquear.[n][w][e]
 
 [msg D10_16_2nd_passcode_lock_6 [[f 4 31 10 0]]]
@@ -48,7 +48,7 @@
 [msg D10_16_2nd_passcode_lock_8 [Akechi]]
 [s][bup 0 9 803 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Oh vamos lá. A próxima pergunta[n]será "qual é o lanche favorito de Maruki[n]", ou algo assim?[n][w][e]
 
-[msg D10_16_2nd_passcode_lock_9 [Voce meccanica]]
+[msg D10_16_2nd_passcode_lock_9 [Voz mecânica]]
 [s]Bloqueio de segurança ativo.[n]Responda à seguinte[n]pergunta de autenticação:[n][w][e]
 [s]Qual foi o elemento faltante[n]que causou a interrupção da[n]pesquisa da ciência psicológica?[n][w][e]
 

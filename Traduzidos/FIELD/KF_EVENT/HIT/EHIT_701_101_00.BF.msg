@@ -61,7 +61,7 @@
 [msg MSG_FLD_ACT_011_NG [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]Você deve seguir Ryuji.[n]O que você fará se o perder de vista?[n][w][e]
 
-[msg MSG_FLD_ACT_015_YOSHIDA_ [Oratore di strada]]
+[msg MSG_FLD_ACT_015_YOSHIDA_ [Orador de rua]]
 [s][bup 0 112 0 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 0 1 3 65535 0]Abra os olhos![n]Este país é corrupto![n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Embora a sociedade japonesa pareça estar[n]florescendo, muitos jovens não têm a mesma sorte[n]de seus pais.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Eles não têm emprego, nem poupança,[n]nenhuma segurança financeira...[n][w][e]

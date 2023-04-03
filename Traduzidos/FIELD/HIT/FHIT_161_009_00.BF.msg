@@ -1,4 +1,4 @@
-[msg D08_01_NPC_TALK_21_mes01 [Uomo d'affari distaccato]]
+[msg D08_01_NPC_TALK_21_mes01 [Empresário indiferente]]
 [s]Tsk. Acho até sua própria existência irritante.[n][w][e]
 
 [msg D08_01_NPC_TALK_21_mes02 [Yusuke]]

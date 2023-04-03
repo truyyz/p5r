@@ -8,571 +8,571 @@
 [msg NPC_01]
 [s]会話[n][w][e]
 
-[msg MSG_NARAIGOTO_001_0_0 [Madre irritata]]
+[msg MSG_NARAIGOTO_001_0_0 [Mãe irritada]]
 [s][f 4 23 1 12 3 10 0 0][vp 8 2 1 0 12 0]Se você não se apressar, vai se[n]atrasar para a aula![n]Pare de brincar![n][w][e]
 
-[msg MSG_NARAIGOTO_001_1_0 [Figlia triste]]
+[msg MSG_NARAIGOTO_001_1_0 [Filha triste]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Eu não estou brincando.[n][w][e]
 [s][vp 8 2 1 0 11 0]Por que eu tenho que fazer aulas de piano?[n]Eu não quero ser um pianista...[n][w][e]
 
-[msg MSG_NARAIGOTO_001_2_0 [Madre irritata]]
+[msg MSG_NARAIGOTO_001_2_0 [Mãe irritada]]
 [s][f 4 23 1 12 3 10 0 0][vp 8 2 1 0 12 0]Absurdo! Você precisa levar[n]as aulas mais a sério![n]É para o seu futuro![n][w][e]
 
-[msg MSG_NARAIGOTO_001_3_0 [Figlia triste]]
+[msg MSG_NARAIGOTO_001_3_0 [Filha triste]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]OK vejo você mais tarde...[n][w][e]
 
-[msg MSG_NARAIGOTO_002_0_0 [Figlia timida]]
+[msg MSG_NARAIGOTO_002_0_0 [Filha tímida]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Mãe, você sabia que os Phantom Thieves[n]mudam o coração das pessoas?[n][w][e]
 [s][vp 8 2 1 0 11 0]Eu me pergunto se isso[n]os muda ...[n][w][e]
 
-[msg MSG_NARAIGOTO_002_1_0 [Madre irritata]]
+[msg MSG_NARAIGOTO_002_1_0 [Mãe irritada]]
 [s][f 4 23 1 12 3 10 0 0][vp 8 2 1 0 12 0]O suficiente. Se você tem tempo para essas[n]tolices, também tem tempo para aprender uma nova[n]música.[n][w][e]
 [s][vp 8 2 1 0 12 0]A competição está chegando![n]Se você não jogar bem,[n]sem jantar![n][w][e]
 
-[msg MSG_NARAIGOTO_002_2_0 [Figlia triste]]
+[msg MSG_NARAIGOTO_002_2_0 [Filha triste]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Não quero mais brincar...[n]Gostaria que minha mãe se tornasse[n]outra pessoa...[n][w][e]
 
-[msg MSG_NARAIGOTO_003_0_0 [Figlia timida]]
+[msg MSG_NARAIGOTO_003_0_0 [Filha tímida]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Meus amigos me convidaram para jogar vôlei em[n]nosso dia de folga.[n][w][e]
 
-[msg MSG_NARAIGOTO_003_1_0 [Madre irritata]]
+[msg MSG_NARAIGOTO_003_1_0 [Mãe irritada]]
 [s][f 4 23 1 12 3 10 0 0][vp 8 2 1 0 12 0]Você não pode! Como você vai tocar piano se se[n]machucar?!?[n][w][e]
 
-[msg MSG_NARAIGOTO_003_2_0 [Figlia timida]]
+[msg MSG_NARAIGOTO_003_2_0 [Filha tímida]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Então, por que não vamos juntos para algum lugar?[n]Meus amigos fazem viagens em família...[n][w][e]
 
-[msg MSG_NARAIGOTO_003_3_0 [Madre irritata]]
+[msg MSG_NARAIGOTO_003_3_0 [Mãe irritada]]
 [s][f 4 23 1 12 3 10 0 0][vp 8 2 1 0 12 0]Quando você é um pianista,[n]você vai viajar por todo o mundo.[n]Você só tem que continuar praticando.[n][w][e]
 [s][vp 8 2 1 0 12 0]A competição está chegando.[n]Você absolutamente tem que vencer,[n]você entende?[n][w][e]
 
-[msg MSG_NARAIGOTO_004_0_0 [Madre isterica]]
+[msg MSG_NARAIGOTO_004_0_0 [Mãe histérica]]
 [s][f 4 23 1 12 3 10 0 0][vp 8 2 1 0 12 0]Que performance vergonhosa![n]Foi sua grande chance![n][w][e]
 [s][vp 8 2 1 0 12 0]Porque? Por que você não pode?[n]Você DEVE se tornar um pianista![n][w][e]
 [s][vp 8 2 1 0 12 0]É tudo culpa sua, que você não[n]volte! Não me escute!![n][w][e]
 
-[msg MSG_NARAIGOTO_004_1_0 [Figlia con gli occhi lucidi]]
+[msg MSG_NARAIGOTO_004_1_0 [Filha de olhos brilhantes]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Desculpa... Desculpa...[n]Vou ter mais aulas...[n]*soluço*[n][w][e]
 
-[msg MSG_NARAIGOTO_004_2_0 [Madre isterica]]
+[msg MSG_NARAIGOTO_004_2_0 [Mãe histérica]]
 [s][f 4 23 1 12 3 10 0 0][vp 8 2 1 0 12 0]Quem deveria[n]chorar sou eu! É tudo culpa sua![n][w][e]
 
 [msg MSG_quest30_morgana_01 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Parece que encontramos nosso objetivo! Vamos[n]falar sobre isso com os outros na reunião![n][w][e]
 
-[msg MSG_NARAIGOTO_005_0_0 [Madre mortificata]]
+[msg MSG_NARAIGOTO_005_0_0 [Mãe mortificada]]
 [s][f 4 23 1 12 3 10 0 0][vp 8 2 1 0 12 0]Quando eu era jovem, queria ser pianista. Eu[n]estudei e pratiquei muito, mas...[n][w][e]
 [s][vp 8 2 1 0 12 0]Sinto muito por ter forçado[n]você a perseguir meu sonho.[n]Você é livre para fazer o que quiser.[n][w][e]
 
-[msg MSG_NARAIGOTO_005_1_0 [Figlia gentile]]
+[msg MSG_NARAIGOTO_005_1_0 [Filha bondosa]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Não gosto quando você fica com raiva,[n]mas gosto de piano.[n]Quero continuar tocando.[n][w][e]
 [s][vp 8 2 1 0 11 0]Um dia serei pianista[n]e faremos uma turnê pelo mundo juntos.[n][w][e]
 
-[msg MSG_NARAIGOTO_005_2_0 [Madre mortificata]]
+[msg MSG_NARAIGOTO_005_2_0 [Mãe mortificada]]
 [s][f 4 23 1 12 3 10 0 0][vp 8 2 1 0 12 0]Sinto muito... Obrigado.[n]Obrigado...[n][w][e]
 
-[msg MSG_NARAIGOTO_006_0_0 [Madre affettuosa]]
+[msg MSG_NARAIGOTO_006_0_0 [Mãe amorosa]]
 [s][f 4 23 1 12 3 10 0 0][vp 8 2 1 0 12 0]Você gostaria de fazer algo juntos[n]no seu dia de folga?[n]Eu, você e seu pai.[n][w][e]
 
-[msg MSG_NARAIGOTO_006_1_0 [Figlia contenta]]
+[msg MSG_NARAIGOTO_006_1_0 [Filha feliz]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Eu quero ir às compras com você,[n]então brincar com o papai...[n][w][e]
 [s][vp 8 2 1 0 11 0]Ah, e também quero ver algumas partituras! Eu[n]quero aprender uma nova música![n][w][e]
 
-[msg MSG_NARAIGOTO_006_2_0 [Madre affettuosa]]
+[msg MSG_NARAIGOTO_006_2_0 [Mãe amorosa]]
 [s][f 4 23 1 12 3 10 0 0][vp 8 2 1 0 12 0]É claro. Ok, tenha cuidado.[n][w][e]
 
-[msg MSG_NARAIGOTO_006_3_0 [Figlia contenta]]
+[msg MSG_NARAIGOTO_006_3_0 [Filha feliz]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Obrigado mãe! Farei o meu[n]melhor na aula![n][w][e]
 
-[msg MSG_TUMAARASOI_001_0_0 [Casalinga arrogante]]
+[msg MSG_TUMAARASOI_001_0_0 [Dona de casa arrogante]]
 [s][f 4 23 1 19 3 10 0 0][vp 8 2 1 0 19 0]Esses incidentes me apavoram.[n]Meu marido acabou de ser[n]promovido... ele não pode morrer.[n][w][e]
 
-[msg MSG_TUMAARASOI_001_1_0 [Casalinga modesta]]
+[msg MSG_TUMAARASOI_001_1_0 [Dona de casa modesta]]
 [s][f 4 23 1 20 3 10 0 0][vp 8 2 1 0 20 0]Vivemos tempos terríveis...[n]só peço que meu marido[n]esteja bem.[n][w][e]
 
-[msg MSG_TUMAARASOI_001_2_0 [Casalinga arrogante]]
+[msg MSG_TUMAARASOI_001_2_0 [Dona de casa arrogante]]
 [s][f 4 23 1 19 20 20 0 10][vp 8 2 1 0 19 0]Ohoh, ela vai se sair bem sob a supervisão do[n]meu marido...[n]contanto que ela faça sua parte.[n][w][e]
 [s][vp 8 2 1 0 19 0]Mica pode ter suas asas cortadas por[n]algum preguiçoso. Oh oh oh...[n][w][e]
 
-[msg MSG_TUMAARASOI_002_0_0 [Casalinga arrogante]]
+[msg MSG_TUMAARASOI_002_0_0 [Dona de casa arrogante]]
 [s][f 4 23 1 19 3 10 0 0][vp 8 2 1 0 19 0]Por acaso seu filho frequenta Shujin? Ouvi dizer[n]que é uma escola bastante rígida.[n][w][e]
 [s][vp 8 2 1 0 19 0]Deve ser difícil, com todos os alunos[n]rudes ... ohoho, quero dizer[n]único" lá.[n][w][e]
 
-[msg MSG_TUMAARASOI_002_1_0 [Casalinga modesta]]
+[msg MSG_TUMAARASOI_002_1_0 [Dona de casa modesta]]
 [s][f 4 23 1 20 3 10 0 0][vp 8 2 1 0 20 0]É verdade, ele não está indo muito bem na escola.[n]Ele terá tirado de seu pai. É difícil.[n][w][e]
 
-[msg MSG_TUMAARASOI_002_2_0 [Casalinga arrogante]]
+[msg MSG_TUMAARASOI_002_2_0 [Dona de casa arrogante]]
 [s][f 4 23 1 19 20 10 0 10][vp 8 2 1 0 19 0]Bem, por trás de todo grande homem há uma grande[n]mulher, e por trás de todo filho há uma grande[n]mãe. Ooh.[n][w][e]
 
-[msg MSG_TUMAARASOI_003_0_0 [Casalinga arrogante]]
+[msg MSG_TUMAARASOI_003_0_0 [Dona de casa arrogante]]
 [s][f 4 23 1 19 3 10 0 0][vp 8 2 1 0 19 0]Meu marido recebeu um[n]convite para a exposição de Madarame.[n]Gostaria de se juntar a nós?[n][w][e]
 
-[msg MSG_TUMAARASOI_003_1_0 [Casalinga modesta]]
+[msg MSG_TUMAARASOI_003_1_0 [Dona de casa modesta]]
 [s][f 4 23 1 20 3 10 0 0][vp 8 2 1 0 20 0]Oh não. Nenhum de nós pode[n]distinguir uma obra de arte[n]de uma crosta.[n][w][e]
 
-[msg MSG_TUMAARASOI_003_2_0 [Casalinga arrogante]]
+[msg MSG_TUMAARASOI_003_2_0 [Dona de casa arrogante]]
 [s][f 4 23 1 19 20 10 0 10][vp 8 2 1 0 19 0]Bem, você nunca será[n]culto se não se acostumar a[n]apreciar coisas bonitas.[n][w][e]
 
-[msg MSG_TUMAARASOI_004_0_0 [Casalinga arrogante]]
+[msg MSG_TUMAARASOI_004_0_0 [Dona de casa arrogante]]
 [s][f 4 23 1 19 3 10 0 0][vp 8 2 1 0 19 0]A exibição de Madarame foi[n]incrível.[n][w][e]
 [s][vp 8 2 1 0 19 0]Quando me assumi, me senti tão[n]orgulhoso de ser japonês. Ooh...[n][w][e]
 
-[msg MSG_TUMAARASOI_004_1_0 [Casalinga modesta]]
+[msg MSG_TUMAARASOI_004_1_0 [Dona de casa modesta]]
 [s][f 4 23 1 20 3 10 0 0][vp 8 2 1 0 20 0]Mas então foi você que eu vi na TV durante o[n]noticiário.[n][w][e]
 
-[msg MSG_TUMAARASOI_004_2_0 [Casalinga arrogante]]
+[msg MSG_TUMAARASOI_004_2_0 [Dona de casa arrogante]]
 [s][f 4 23 1 19 20 10 0 10][vp 8 2 1 0 19 0]Oh Deus, sério?[n]Eu não tinha ideia. Ohhoho...[n][w][e]
 
-[msg MSG_TUMAARASOI_005_0_0 [Casalinga arrogante]]
+[msg MSG_TUMAARASOI_005_0_0 [Dona de casa arrogante]]
 [s][f 4 23 1 19 3 10 0 0][vp 8 2 1 0 19 0]Madarame acabou por ser um vigarista nojento![n]Aquele se preocupa somente consigo mesmo.[n][w][e]
 
-[msg MSG_TUMAARASOI_005_1_0 [Casalinga modesta]]
+[msg MSG_TUMAARASOI_005_1_0 [Dona de casa modesta]]
 [s][f 4 23 1 20 3 10 0 0][vp 8 2 1 0 20 0]Plágio, né? E de seu próprio[n]aluno também.[n][w][e]
 
-[msg MSG_TUMAARASOI_005_2_0 [Casalinga arrogante]]
+[msg MSG_TUMAARASOI_005_2_0 [Dona de casa arrogante]]
 [s][f 4 23 1 19 3 10 0 0][vp 8 2 1 0 19 0]Ah, tem gente por aí,[n]ele assim... que se faz passar por seu[n]o trabalho árduo dos outros.[n][w][e]
 
-[msg MSG_TUMAARASOI_005_3_0 [Casalinga modesta]]
+[msg MSG_TUMAARASOI_005_3_0 [Dona de casa modesta]]
 [s][f 4 23 1 20 3 10 0 0][vp 8 2 1 0 20 0]Ohoho... Sim, meu marido também estava[n]muito chateado.[n][w][e]
 
-[msg MSG_TUMAARASOI_006_0_0 [Casalinga arrogante]]
+[msg MSG_TUMAARASOI_006_0_0 [Dona de casa arrogante]]
 [s][f 4 23 1 19 3 10 0 0][vp 8 2 1 0 19 0]Eu continuo ouvindo sobre essas histórias de[n]chantagem... é melhor seu marido tomar cuidado.[n][w][e]
 
-[msg MSG_TUMAARASOI_006_1_0 [Casalinga modesta]]
+[msg MSG_TUMAARASOI_006_1_0 [Dona de casa modesta]]
 [s][f 4 23 1 20 3 10 0 0][vp 8 2 1 0 20 0]Felizmente, seu salário é[n]tão escasso que não[n]precisamos nos preocupar com tal ocorrência.[n][w][e]
 
-[msg MSG_TUMAARASOI_006_2_0 [Casalinga arrogante]]
+[msg MSG_TUMAARASOI_006_2_0 [Dona de casa arrogante]]
 [s][f 4 23 1 19 3 10 0 0][vp 8 2 1 0 19 0]Como você é corajoso. Nós[n]temos muito mais medo de[n]correr o risco.[n][w][e]
 
-[msg MSG_TUMAARASOI_006_3_0 [Casalinga modesta]]
+[msg MSG_TUMAARASOI_006_3_0 [Dona de casa modesta]]
 [s][f 4 23 1 20 3 10 0 0][vp 8 2 1 0 20 0]Acho que há coisas que[n]uma família rica como a sua[n]nunca consegue entender...[n][w][e]
 
-[msg MSG_TUMAARASOI_007_0_0 [Casalinga arrogante]]
+[msg MSG_TUMAARASOI_007_0_0 [Dona de casa arrogante]]
 [s][f 4 23 1 19 3 10 0 0][vp 8 2 1 0 19 0]Não posso permitir que meu filho seja[n]chantageado! Por que a polícia não faz mais[n]sobre isso!?![n][w][e]
 
-[msg MSG_TUMAARASOI_007_1_0 [Casalinga modesta]]
+[msg MSG_TUMAARASOI_007_1_0 [Dona de casa modesta]]
 [s][f 4 23 1 20 3 10 0 0][vp 8 2 1 0 20 0]Deve ter sido terrível.[n]O que aconteceu?[n][w][e]
 
-[msg MSG_TUMAARASOI_007_2_0 [Casalinga arrogante]]
+[msg MSG_TUMAARASOI_007_2_0 [Dona de casa arrogante]]
 [s][f 4 23 1 19 3 10 0 0][vp 8 2 1 0 19 0]Mais do que terrível! Por sorte,[n]ele perdeu apenas uma[n]carteira barata. Coisas de 100.000 ienes.[n][w][e]
 
-[msg MSG_TUMAARASOI_007_3_0 [Casalinga modesta]]
+[msg MSG_TUMAARASOI_007_3_0 [Dona de casa modesta]]
 [s][f 4 23 1 20 3 10 0 0][vp 8 2 1 0 20 0]Teria sido uma tragédia para nós.[n]Mas esperamos[n]menos de sua família. Ohhoho...[n][w][e]
 
-[msg MSG_TUMAARASOI_008_0_0 [Casalinga arrogante]]
+[msg MSG_TUMAARASOI_008_0_0 [Dona de casa arrogante]]
 [s][f 4 23 1 19 3 10 0 0][vp 8 2 1 0 19 0]Os Phantom Thieves consertaram a[n]máfia, não é? Então eles aprendem a[n]machucar meu filho.[n][w][e]
 [s][vp 8 2 1 0 19 0]Agora vou apoiar totalmente os Ladrões.[n]Vamos torcer para que eles entreguem[n]justiça mais maçãs podres![n][w][e]
 
-[msg MSG_TUMAARASOI_008_1_0 [Casalinga modesta]]
+[msg MSG_TUMAARASOI_008_1_0 [Dona de casa modesta]]
 [s][f 4 23 1 20 3 10 0 0][vp 8 2 1 0 20 0]Eu só posso imaginar o que a polícia está[n]fazendo. Eles não parecem muito confiáveis para[n]mim.[n][w][e]
 
-[msg MSG_TUMAARASOI_008_2_0 [Casalinga arrogante]]
+[msg MSG_TUMAARASOI_008_2_0 [Dona de casa arrogante]]
 [s][f 4 23 1 19 3 10 0 0][vp 8 2 1 0 19 0]Concordo. Embora eu tenha certeza de que eles[n]estão repensando como lidam com a prevenção do[n]crime.[n][w][e]
 
-[msg MSG_TUMAARASOI_009_0_0 [Casalinga arrogante]]
+[msg MSG_TUMAARASOI_009_0_0 [Dona de casa arrogante]]
 [s][f 4 23 1 19 3 10 0 0][vp 8 2 1 0 19 0]Ouviu sobre aquela história sobre Medjed?[n]É hora dos Phantom Thieves fazerem[n]outra de suas mágicas![n][w][e]
 
-[msg MSG_TUMAARASOI_009_1_0 [Casalinga modesta]]
+[msg MSG_TUMAARASOI_009_1_0 [Dona de casa modesta]]
 [s][f 4 23 1 20 3 10 0 0][vp 8 2 1 0 20 0]Nós certamente não podemos fazer nada sobre isso.[n]Seria terrível se Medjed tivesse como alvo nossa[n]empresa.[n][w][e]
 
-[msg MSG_TUMAARASOI_009_2_0 [Casalinga arrogante]]
+[msg MSG_TUMAARASOI_009_2_0 [Dona de casa arrogante]]
 [s][f 4 23 1 19 3 10 0 0][vp 8 2 1 0 19 0]Exatamente. São os figurões como[n]meu marido que precisam[n]intervir se as coisas derem errado.[n][w][e]
 
-[msg MSG_TUMAARASOI_009_3_0 [Casalinga modesta]]
+[msg MSG_TUMAARASOI_009_3_0 [Dona de casa modesta]]
 [s][f 4 23 1 20 3 10 0 0][vp 8 2 1 0 20 0]Às vezes, agradeço a Deus por meu marido não ter[n]subido na hierarquia da sociedade.[n][w][e]
 
-[msg MSG_TUMAARASOI_010_0_0 [Casalinga arrogante]]
+[msg MSG_TUMAARASOI_010_0_0 [Dona de casa arrogante]]
 [s][f 4 23 1 19 3 10 0 0][vp 8 2 1 0 19 0]Os Phantom Thieves conseguiram![n]E eu estava torcendo por eles[n]o tempo todo.[n][w][e]
 
-[msg MSG_TUMAARASOI_010_1_0 [Casalinga modesta]]
+[msg MSG_TUMAARASOI_010_1_0 [Dona de casa modesta]]
 [s][f 4 23 1 20 3 10 0 0][vp 8 2 1 0 20 0]É tudo sobre os[n]Phantom Thieves agora.[n]Eles falam sobre isso em todos os talk shows.[n][w][e]
 
-[msg MSG_TUMAARASOI_010_2_0 [Casalinga arrogante]]
+[msg MSG_TUMAARASOI_010_2_0 [Dona de casa arrogante]]
 [s][f 4 23 1 19 3 10 0 0][vp 8 2 1 0 19 0]Eu disse ao meu marido para colocar à venda um[n]sanduíche inspirado neles.[n][w][e]
 [s][vp 8 2 1 0 19 0]Você não acha que seria um blockbuster? É sempre[n]bom estar pronto para pegar a onda.[n][w][e]
 
-[msg MSG_TUMAARASOI_011_0_0 [Casalinga modesta]]
+[msg MSG_TUMAARASOI_011_0_0 [Dona de casa modesta]]
 [s][f 4 23 1 20 3 10 0 0][vp 8 2 1 0 20 0]Como está seu marido? A empresa[n]estará tentando conter os[n]prejuízos, após as últimas notícias.[n][w][e]
 
-[msg MSG_TUMAARASOI_011_1_0 [Casalinga arrogante]]
+[msg MSG_TUMAARASOI_011_1_0 [Dona de casa arrogante]]
 [s][f 4 23 1 19 3 10 0 0][vp 8 2 1 0 19 0]São todas mentiras! Eles têm[n]isso na Okumura Foods apenas[n]porque invejam seu sucesso![n][w][e]
 
-[msg MSG_TUMAARASOI_011_2_0 [Casalinga modesta]]
+[msg MSG_TUMAARASOI_011_2_0 [Dona de casa modesta]]
 [s][f 4 23 1 20 3 10 0 0][vp 8 2 1 0 20 0]Tem certeza? Porque meu marido[n]nunca viu um centavo por[n]todas as horas extras, então...[n][w][e]
 [s][vp 8 2 1 0 20 0]Quem sabe se eles vão culpar o CEO. Talvez fosse[n]melhor se ele confessasse a verdade. Ohhoho...[n][w][e]
 
-[msg MSG_TUMAARASOI_012_0_0 [Casalinga arrogante]]
+[msg MSG_TUMAARASOI_012_0_0 [Dona de casa arrogante]]
 [s][f 4 23 1 19 3 10 0 0][vp 8 2 1 0 19 0]Parece que Okumura está[n]inalcançável... Meu marido[n]tem que trabalhar até tarde.[n][w][e]
 
-[msg MSG_TUMAARASOI_012_1_0 [Casalinga modesta]]
+[msg MSG_TUMAARASOI_012_1_0 [Dona de casa modesta]]
 [s][f 4 23 1 20 3 10 0 0][vp 8 2 1 0 20 0]Bem, os Phantom Thieves[n]enviaram uma carta de aviso.[n]Os executivos vão entrar em pânico.[n][w][e]
 
-[msg MSG_TUMAARASOI_012_2_0 [Casalinga arrogante]]
+[msg MSG_TUMAARASOI_012_2_0 [Dona de casa arrogante]]
 [s][f 4 23 1 19 3 10 0 0][vp 8 2 1 0 19 0]A polícia tem que[n]agir e prender esses[n]criminosos![n][w][e]
 
-[msg MSG_TUMAARASOI_012_3_0 [Casalinga modesta]]
+[msg MSG_TUMAARASOI_012_3_0 [Dona de casa modesta]]
 [s][f 4 23 1 20 3 10 0 0][vp 8 2 1 0 20 0]Você não era fã de Phantom[n]Thieves? Ohoho, eu sei que é um[n]mau momento, mas...[n][w][e]
 
-[msg MSG_TUMAARASOI_013_0_0 [Casalinga arrogante]]
+[msg MSG_TUMAARASOI_013_0_0 [Dona de casa arrogante]]
 [s][f 4 23 1 19 3 10 0 0][vp 8 2 1 0 19 0]Não acredito que Okumura[n]desabou! O que será da empresa?[n][w][e]
 
-[msg MSG_TUMAARASOI_013_1_0 [Casalinga modesta]]
+[msg MSG_TUMAARASOI_013_1_0 [Dona de casa modesta]]
 [s][f 4 23 1 20 3 10 0 0][vp 8 2 1 0 20 0]Você tem que se acalmar. Tenho certeza de que[n]a empresa ficará bem.[n][w][e]
 [s][vp 8 2 1 0 20 0]Quero dizer, deve haver um bom[n]downsizing, para não mencionar o[n]downsizing...[n][w][e]
 
-[msg MSG_TUMAARASOI_013_2_0 [Casalinga arrogante]]
+[msg MSG_TUMAARASOI_013_2_0 [Dona de casa arrogante]]
 [s][f 4 23 1 19 3 10 0 0][vp 8 2 1 0 19 0]Mas... Mas... Meu marido[n]ACABOU de ser promovido![n]Malditos, Ladrões Fantasmas![n][w][e]
 
-[msg MSG_TUMAARASOI_014_0_0 [Casalinga modesta]]
+[msg MSG_TUMAARASOI_014_0_0 [Dona de casa modesta]]
 [s][f 4 23 1 20 3 10 0 0][vp 8 2 1 0 20 0]Okumura Foods realmente teve um momento ruim. O[n]salário do seu marido cortou muito, certo?[n][w][e]
 
-[msg MSG_TUMAARASOI_014_1_0 [Casalinga arrogante]]
+[msg MSG_TUMAARASOI_014_1_0 [Dona de casa arrogante]]
 [s][f 4 23 1 19 3 10 0 0][vp 8 2 1 0 19 0]O importante é que a empresa[n]está de pé... e que minha[n]família tem muita economia.[n][w][e]
 [s][vp 8 2 1 0 19 0]A propósito, como está o seu? Oh,[n]com licença... ponto dolorido?[n][w][e]
 
-[msg MSG_TUMAARASOI_014_2_0 [Casalinga modesta]]
+[msg MSG_TUMAARASOI_014_2_0 [Dona de casa modesta]]
 [s][f 4 23 1 20 3 10 0 0][vp 8 2 1 0 20 0]Bem, na verdade, como ele[n]deu uma ajuda substancial,[n]ele foi promovido a CEO. Ohhoho...[n][w][e]
 
-[msg MSG_TUMAARASOI_015_0_0 [Casalinga arrogante]]
+[msg MSG_TUMAARASOI_015_0_0 [Dona de casa arrogante]]
 [s][f 4 23 1 19 3 10 0 0][vp 8 2 1 0 19 0]Os Phantom Thieves ainda estão em liberdade, não[n]estão? Tenho medo de ficar sozinha quando meu[n]marido não está por perto.[n][w][e]
 
-[msg MSG_TUMAARASOI_015_1_0 [Casalinga modesta]]
+[msg MSG_TUMAARASOI_015_1_0 [Dona de casa modesta]]
 [s][f 4 23 1 20 3 10 0 0][vp 8 2 1 0 20 0]Sozinho? E sua empregada? Você[n]mandou aquela pobre garota embora?[n][w][e]
 
-[msg MSG_TUMAARASOI_015_2_0 [Casalinga arrogante]]
+[msg MSG_TUMAARASOI_015_2_0 [Dona de casa arrogante]]
 [s][f 4 23 1 19 3 10 0 0][vp 8 2 1 0 19 0]Nós tivemos que. Devemos[n]cortar todos os gastos desnecessários[n]neste momento de crise, certo?[n][w][e]
 
-[msg MSG_TUMAARASOI_015_3_0 [Casalinga modesta]]
+[msg MSG_TUMAARASOI_015_3_0 [Dona de casa modesta]]
 [s][f 4 23 1 20 3 10 0 0][vp 8 2 1 0 20 0]Que mulher admirável você se tornou. Bem, como[n]dizem... orgulho precede a ruína.[n][w][e]
 
-[msg MSG_TUMAARASOI_016_0_0 [Casalinga non così modesta]]
+[msg MSG_TUMAARASOI_016_0_0 [Dona de casa não tão modesta]]
 [s][f 4 23 1 20 3 10 0 0][vp 8 2 1 0 20 0]Aquele Shido...o cara do United[n]para o futuro...parece legal.[n]Ele deveria ser primeiro-ministro.[n][w][e]
 
-[msg MSG_TUMAARASOI_016_1_0 [Casalinga arrogante]]
+[msg MSG_TUMAARASOI_016_1_0 [Dona de casa arrogante]]
 [s][f 4 23 1 19 3 10 0 0][vp 8 2 1 0 19 0]Ohoho... Sabe, eu realmente o conheci, por meio[n]de uma das tarefas do meu marido.[n][w][e]
 
-[msg MSG_TUMAARASOI_016_2_0 [Casalinga non così modesta]]
+[msg MSG_TUMAARASOI_016_2_0 [Dona de casa não tão modesta]]
 [s][f 4 23 1 20 3 10 0 0][vp 8 2 1 0 20 0]Sério? Nós o conhecemos[n]outro dia, na associação[n]de seus torcedores.[n][w][e]
 [s][vp 8 2 1 0 20 0]Parece muito legal.[n]Você estava no evento também?[n][w][e]
 
-[msg MSG_TUMAARASOI_017_0_0 [Casalinga arrogante]]
+[msg MSG_TUMAARASOI_017_0_0 [Dona de casa arrogante]]
 [s][f 4 23 1 19 3 10 0 0][vp 8 2 1 0 20 0]Você viu? O líder dos Thieves[n]Phantom ainda está vivo![n][w][e]
 
-[msg MSG_TUMAARASOI_017_1_0 [Casalinga non così modesta]]
+[msg MSG_TUMAARASOI_017_1_0 [Dona de casa não tão modesta]]
 [s][f 4 23 1 20 3 10 0 0][vp 8 2 1 0 19 0]Aposto que é um truque para de alguma forma[n]desacreditar Shido![n][w][e]
 [s][vp 8 2 1 0 19 0]Isso é o que os programas de entrevistas dizem...[n]que é tudo calúnia na corrida para a eleição.[n][w][e]
 
-[msg MSG_TUMAARASOI_018_0_0 [Casalinga arrogante]]
+[msg MSG_TUMAARASOI_018_0_0 [Dona de casa arrogante]]
 [s][f 4 23 1 19 3 10 0 0][vp 8 2 1 0 19 0]Estou preocupado com a saúde de Shido-san.[n][w][e]
 
-[msg MSG_TUMAARASOI_018_1_0 [Casalinga non così modesta]]
+[msg MSG_TUMAARASOI_018_1_0 [Dona de casa não tão modesta]]
 [s][f 4 23 1 20 3 10 0 0][vp 8 2 1 0 20 0]Sim, ele absolutamente precisa reformar este[n]país. Meu filho vai fazer o vestibular.[n][w][e]
 [s][vp 8 2 1 0 20 0]Eu quero que haja um Japão melhor esperando por[n]ele.[n][w][e]
 
-[msg MSG_TUMAARASOI_019_0_0 [Casalinga non così modesta]]
+[msg MSG_TUMAARASOI_019_0_0 [Dona de casa não tão modesta]]
 [s][f 4 23 1 20 3 10 0 0][vp 8 2 1 0 20 0]Oh, feliz ano novo.[n]O ano passado foi cheio[n]de surpresas, não foi...?[n][w][e]
 
-[msg MSG_TUMAARASOI_019_1_0 [Casalinga arrogante]]
+[msg MSG_TUMAARASOI_019_1_0 [Dona de casa arrogante]]
 [s][f 4 23 1 19 3 10 0 0][vp 8 2 1 0 19 0]Sim, realmente. Estou surpreso,[n]na verdade...[n][w][e]
 [s][vp 8 2 1 0 19 0]...Os negócios correram tão bem[n]que[n]a estabilidade financeira de nossa família melhorou ainda mais.[n][w][e]
 [s][vp 8 2 1 0 19 0]Além disso, meu marido[n]foi promovido e tem estado[n]muito ocupado...[n][w][e]
 
-[msg MSG_TUMAARASOI_019_2_0 [Casalinga non così modesta]]
+[msg MSG_TUMAARASOI_019_2_0 [Dona de casa não tão modesta]]
 [s][f 4 23 1 20 3 10 0 0][vp 8 2 1 0 20 0]O que...? O-Oh? É tão...[n][w][e]
 [s][vp 8 2 1 0 20 0]Meu marido também foi promovido,[n]então imagino que eles continuarão[n]a trabalhar juntos com frequência.[n][w][e]
 
-[msg MSG_TUMAARASOI_020_0_0 [Casalinga arrogante]]
+[msg MSG_TUMAARASOI_020_0_0 [Dona de casa arrogante]]
 [s][f 4 23 1 19 3 10 0 0][vp 8 2 1 0 19 0]Ouvi dizer que o inverno[n]será particularmente rigoroso...[n][w][e]
 [s][vp 8 2 1 0 19 0]É por isso que decidimos[n]passá-lo em uma praia particular[n]no Havaí, a partir do próximo mês.[n][w][e]
 [s][vp 8 2 1 0 19 0]O inverno lá deve ser bem mais ameno, então...[n][w][e]
 
-[msg MSG_TUMAARASOI_020_1_0 [Casalinga non così modesta]]
+[msg MSG_TUMAARASOI_020_1_0 [Dona de casa não tão modesta]]
 [s][f 4 23 1 20 3 10 0 0][vp 8 2 1 0 20 0]W-W-O quê?!? Você vai ficar fora por muito[n]tempo...[n][w][e]
 [s][vp 8 2 1 0 20 0]M-Mas ei, também planejamos ir a uma praia[n]particular em Guam no próximo mês![n][w][e]
 [s][vp 8 2 1 0 20 0]Meu marido ganhou um aumento, então podemos[n]pagar...[n][w][e]
 
-[msg MSG_TUMAARASOI_020_2_0 [Casalinga arrogante]]
+[msg MSG_TUMAARASOI_020_2_0 [Dona de casa arrogante]]
 [s][f 4 23 1 19 3 10 0 0][vp 8 2 1 0 19 0]Uau, isso parece ótimo! Estou[n]bom em saber que sua[n]família está bem.[n][w][e]
 [s][vp 8 2 1 0 19 0]Eu realmente acredito que este será[n]outro ano maravilhoso.[n][w][e]
 
-[msg MSG_TUMAARASOI_020_3_0 [Casalinga non così modesta]]
+[msg MSG_TUMAARASOI_020_3_0 [Dona de casa não tão modesta]]
 [s][f 4 23 1 20 3 10 0 0][vp 8 2 1 0 20 0]S-sim... concordo...[n][w][e]
 
-[msg MSG_TUMAARASOI_021_0_0 [Casalinga arrogante]]
+[msg MSG_TUMAARASOI_021_0_0 [Dona de casa arrogante]]
 [s][f 4 23 1 19 3 10 0 0][vp 8 2 1 0 19 0]Oh. Meu marido disse que[n]foi escolhido como membro chave[n]para o próximo projeto![n][w][e]
 [s][vp 8 2 1 0 19 0]Não houve nada além de ótimas notícias[n]ultimamente.[n][w][e]
 
-[msg MSG_TUMAARASOI_021_1_0 [Casalinga non così modesta]]
+[msg MSG_TUMAARASOI_021_1_0 [Dona de casa não tão modesta]]
 [s][f 4 23 1 20 3 10 0 0][vp 8 2 1 0 20 0]E-Estou feliz em ouvir isso.[n][w][e]
 [s][vp 8 2 1 0 20 0]O negócio do meu marido também está crescendo.[n]Ele acabou de fechar um grande negócio...[n][w][e]
 [s][vp 8 2 1 0 20 0]V-Estamos até pensando em construir uma nova casa![n][w][e]
 [s][vp 8 2 1 0 20 0]Eu sinto que estou em uma grande[n]Felicidade Venda, você não acha?!?[n][w][e]
 
-[msg MSG_TUMAARASOI_021_2_0 [Casalinga arrogante]]
+[msg MSG_TUMAARASOI_021_2_0 [Dona de casa arrogante]]
 [s][f 4 23 1 19 3 10 0 0][vp 8 2 1 0 19 0]Uau. Então você fez isso.[n][w][e]
 
-[msg MSG_TUMAARASOI_021_3_0 [Casalinga non così modesta]]
+[msg MSG_TUMAARASOI_021_3_0 [Dona de casa não tão modesta]]
 [s][f 4 23 1 20 3 10 0 0][vp 8 2 1 0 20 0]O que...?[n][w][e]
 
-[msg MSG_TUMAARASOI_021_4_0 [Casalinga arrogante]]
+[msg MSG_TUMAARASOI_021_4_0 [Dona de casa arrogante]]
 [s][f 4 23 1 19 3 10 0 0][vp 8 2 1 0 19 0]Quer dizer, você está dizendo que as coisas[n]estão tão boas que não há nada mais[n]a desejar, certo?[n][w][e]
 [s][vp 8 2 1 0 19 0]...Mas talvez você deva[n]oferecê-lo.[n][w][e]
 [s][vp 8 2 1 0 19 0]Talvez você pergunte demais? Tudo depende de como[n]você o vê.[n][w][e]
 [s][vp 8 2 1 0 19 0]Talvez você seja capaz de me entender, quando[n]experimentar a verdadeira felicidade.[n]Ohohoh...[n][w][e]
 
-[msg MSG_TUMAARASOI_022_0_0 [Casalinga non così modesta]]
+[msg MSG_TUMAARASOI_022_0_0 [Dona de casa não tão modesta]]
 [s][f 4 23 1 20 3 10 0 0][vp 8 2 1 0 20 0]Ouvi dizer que seu marido foi[n]forçado a se aposentar.[n]Deve ser difícil para vocês dois.[n][w][e]
 
-[msg MSG_TUMAARASOI_022_1_0 [Casalinga non così arrogante]]
+[msg MSG_TUMAARASOI_022_1_0 [Dona de casa não tão arrogante]]
 [s][f 4 23 1 19 3 10 0 0][vp 8 2 1 0 19 0]Sim... Podemos ter que nos mudar[n]com meus pais. Temporariamente,[n]claramente.[n][w][e]
 
-[msg MSG_TUMAARASOI_022_2_0 [Casalinga non così modesta]]
+[msg MSG_TUMAARASOI_022_2_0 [Dona de casa não tão modesta]]
 [s][f 4 23 1 20 3 10 0 0][vp 8 2 1 0 20 0]Bem, se você quiser que eu traga algo da cidade,[n]por favor, não hesite em pedir.[n][w][e]
 [s][vp 8 2 1 0 20 0]Tenho certeza que você sentirá muita falta da[n]cidade . Ohhoho...[n][w][e]
 
-[msg MSG_TUMAARASOI_0504_0_0 [Casalinga arrogante]]
+[msg MSG_TUMAARASOI_0504_0_0 [Dona de casa arrogante]]
 [s][f 4 23 1 19 3 10 0 0][vp 8 2 1 0 19 0]Seu filho vai para Shujin, certo?[n]Onde estava[n]aquela professora famosa presa...[n][w][e]
 [s][vp 8 2 1 0 19 0]Se eu soubesse, teria[n]imediatamente transferido meu filho[n]para outra escola.[n][w][e]
 [s][vp 8 2 1 0 19 0]Eu sempre me certifico de que[n]meu filho mantenha um diário.[n][w][e]
 [s][vp 8 2 1 0 19 0]Então eu sei o que acontece na escola deles.[n][w][e]
 
-[msg MSG_TUMAARASOI_0504_1_0 [Casalinga modesta]]
+[msg MSG_TUMAARASOI_0504_1_0 [Dona de casa modesta]]
 [s][f 4 23 1 20 3 10 0 0][vp 8 2 1 0 20 0]Bem, meu filho não está no time de vôlei[n]então não vejo a[n]necessidade de um diário...[n][w][e]
 
-[msg MSG_TUMAARASOI_0504_2_0 [Casalinga arrogante]]
+[msg MSG_TUMAARASOI_0504_2_0 [Dona de casa arrogante]]
 [s][f 4 23 1 19 20 10 0 10][vp 8 2 1 0 19 0]Você sabe, nós, donas de casa, temos que criar[n]filhos bem-sucedidos. Não podemos ir com calma,[n]ohohoh...[n][w][e]
 
-[msg MSG_TOKAISOMARU_001_0_0 [Donna deliziosa]]
+[msg MSG_TOKAISOMARU_001_0_0 [Mulher encantadora]]
 [s][f 4 23 1 21 3 10 0 0][vp 8 2 1 0 21 0]Hã? O que você tem?[n][w][e]
 
-[msg MSG_TOKAISOMARU_001_1_0 [Ragazzo di campagna]]
+[msg MSG_TOKAISOMARU_001_1_0 [Menino do campo]]
 [s][f 4 23 1 22 3 10 0 0][vp 8 2 1 0 22 0]Eu sou seu namorado. Não posso deixar você[n]sozinho, com os trens descarrilando a torto e a[n]direito![n][w][e]
 [s][vp 8 2 1 0 22 0]Não posso deixar de me preocupar! Não quero que a[n]cidade te engula de uma só vez![n][w][e]
 
-[msg MSG_TOKAISOMARU_001_2_0 [Donna deliziosa]]
+[msg MSG_TOKAISOMARU_001_2_0 [Mulher encantadora]]
 [s][f 4 23 1 21 3 10 0 0][vp 8 2 1 0 21 0]Pare de fazer uma cena![n]Você está me envergonhando![n][w][e]
 
-[msg MSG_TOKAISOMARU_002_0_0 [Ragazzo di campagna]]
+[msg MSG_TOKAISOMARU_002_0_0 [Menino do campo]]
 [s][f 4 23 1 22 3 10 0 0][vp 8 2 1 0 22 0]Esta cidade está cheia de pervertidos[n]e criminosos. Não é para nós.[n]Vamos para casa.[n][w][e]
 
-[msg MSG_TOKAISOMARU_002_1_0 [Donna deliziosa]]
+[msg MSG_TOKAISOMARU_002_1_0 [Mulher encantadora]]
 [s][f 4 23 1 21 3 10 0 0][vp 8 2 1 0 21 0]Mas sempre foi meu sonho morar aqui! Acabar logo![n][w][e]
 
-[msg MSG_TOKAISOMARU_002_2_0 [Ragazzo di campagna]]
+[msg MSG_TOKAISOMARU_002_2_0 [Menino do campo]]
 [s][f 4 23 1 22 3 10 0 0][vp 8 2 1 0 22 0]Então você vai jogar tudo fora?[n]Seu legado? sua casa?[n][w][e]
 
-[msg MSG_TOKAISOMARU_002_3_0 [Donna deliziosa]]
+[msg MSG_TOKAISOMARU_002_3_0 [Mulher encantadora]]
 [s][f 4 23 1 21 3 10 0 0][vp 8 2 1 0 21 0]Não estou "jogando" nada fora. Eu já disse a você[n]que voltaremos para casa uma vez por ano. Não é[n]o suficiente para você?[n][w][e]
 
-[msg MSG_TOKAISOMARU_003_0_0 [Donna deliziosa]]
+[msg MSG_TOKAISOMARU_003_0_0 [Mulher encantadora]]
 [s][f 4 23 1 21 3 10 0 0][vp 8 2 1 0 21 0]As lojas de conveniência aqui são...[n]Bem, conveniente.[n][w][e]
 
-[msg MSG_TOKAISOMARU_003_1_0 [Ragazzo di campagna]]
+[msg MSG_TOKAISOMARU_003_1_0 [Menino do campo]]
 [s][f 4 23 1 22 3 10 0 0][vp 8 2 1 0 22 0]Mesmo na aldeia podes encontrar[n]tudo o que precisas...[n]é só perguntares aos vizinhos![n][w][e]
 [s][vp 8 2 1 0 22 0]E podemos enlouquecer![n]Uma volta de carro! Como em[n]limousine ou um carro de luxo![n][w][e]
 
-[msg MSG_TOKAISOMARU_003_2_0 [Donna deliziosa]]
+[msg MSG_TOKAISOMARU_003_2_0 [Mulher encantadora]]
 [s][f 4 23 1 21 3 10 0 0][vp 8 2 1 0 21 0]Você quer dizer em um trator ou uma[n]pick-up. Uh, não, obrigado...[n]Não estou interessado.[n][w][e]
 
-[msg MSG_TOKAISOMARU_004_0_0 [Donna deliziosa]]
+[msg MSG_TOKAISOMARU_004_0_0 [Mulher encantadora]]
 [s][f 4 23 1 21 3 10 0 0][vp 8 2 1 0 21 0]Fiz de tudo para ir à[n]exposição, dada a sua fama,[n]mas acabou por ser um plagiador![n][w][e]
 
-[msg MSG_TOKAISOMARU_004_1_0 [Ragazzo di campagna]]
+[msg MSG_TOKAISOMARU_004_1_0 [Menino do campo]]
 [s][f 4 23 1 22 3 10 0 0][vp 8 2 1 0 22 0]Eu sabia! Nesta cidade[n]todos são mentirosos em série![n][w][e]
 [s][vp 8 2 1 0 22 0]Eu até ouvi dizer que há um bando de ladrões à[n]solta! Vamos, deixe-me levá-lo para casa.[n][w][e]
 
-[msg MSG_TOKAISOMARU_004_2_0 [Donna deliziosa]]
+[msg MSG_TOKAISOMARU_004_2_0 [Mulher encantadora]]
 [s][f 4 23 1 21 3 10 0 0][vp 8 2 1 0 21 0]Você está exagerando. Além disso, os[n]Phantom Thieves estão do nosso lado![n][w][e]
 
-[msg MSG_TOKAISOMARU_005_0_0 [Ragazzo di campagna]]
+[msg MSG_TOKAISOMARU_005_0_0 [Menino do campo]]
 [s][f 4 23 1 22 3 10 0 0][vp 8 2 1 0 22 0]Disseram na TV que há[n]bandidos à solta. Feche bem a porta à noite.[n][w][e]
 
-[msg MSG_TOKAISOMARU_005_1_0 [Donna deliziosa]]
+[msg MSG_TOKAISOMARU_005_1_0 [Mulher encantadora]]
 [s][f 4 23 1 21 3 10 0 0][vp 8 2 1 0 21 0]Sim, sim... a máfia. Relaxe,[n]a cidade é absolutamente segura.[n][w][e]
 
-[msg MSG_TOKAISOMARU_005_2_0 [Ragazzo di campagna]]
+[msg MSG_TOKAISOMARU_005_2_0 [Menino do campo]]
 [s][f 4 23 1 22 3 10 0 0][vp 8 2 1 0 22 0]Mas a aldeia também, graças ao Taro vizinho![n][w][e]
 
-[msg MSG_TOKAISOMARU_005_3_0 [Donna deliziosa]]
+[msg MSG_TOKAISOMARU_005_3_0 [Mulher encantadora]]
 [s][f 4 23 1 21 3 10 0 0][vp 8 2 1 0 21 0]Você quer dizer aquele cachorro idiota que[n]joga todo mundo que chega perto?[n]Cão de guarda bonito.[n][w][e]
 
-[msg MSG_TOKAISOMARU_006_0_0 [Donna deliziosa]]
+[msg MSG_TOKAISOMARU_006_0_0 [Mulher encantadora]]
 [s][f 4 23 1 21 3 10 0 0][vp 8 2 1 0 21 0]Eu quero ir a um clube e[n]dançar a noite toda ... e talvez[n]tomar alguns coquetéis também.[n][w][e]
 
-[msg MSG_TOKAISOMARU_006_1_0 [Ragazzo di campagna]]
+[msg MSG_TOKAISOMARU_006_1_0 [Menino do campo]]
 [s][f 4 23 1 22 3 10 0 0][vp 8 2 1 0 22 0]Eu estava em um bar legal[n]não muito tempo atrás, em Shinjuku.[n][w][e]
 [s][vp 8 2 1 0 22 0]O dono era muito simpático.[n]Foi como estar no céu...[n][w][e]
 
-[msg MSG_TOKAISOMARU_006_2_0 [Donna deliziosa]]
+[msg MSG_TOKAISOMARU_006_2_0 [Mulher encantadora]]
 [s][f 4 23 1 21 3 10 0 0][vp 8 2 1 0 21 0]Você já foi... a um clube de recepcionistas?[n][w][e]
 
-[msg MSG_TOKAISOMARU_007_0_0 [Donna deliziosa]]
+[msg MSG_TOKAISOMARU_007_0_0 [Mulher encantadora]]
 [s][f 4 23 1 21 3 10 0 0][vp 8 2 1 0 21 0]Com a máfia na prisão, posso[n]finalmente dormir em paz[n]e aproveitar a cidade sempre que quiser.[n][w][e]
 
-[msg MSG_TOKAISOMARU_007_1_0 [Ragazzo di campagna]]
+[msg MSG_TOKAISOMARU_007_1_0 [Menino do campo]]
 [s][f 4 23 1 22 3 10 0 0][vp 8 2 1 0 22 0]Este lugar não é seguro! Existem[n]aqueles nojentos Phantom Thieves ou[n]o que quer que eles se chamem por aí.[n][w][e]
 [s][vp 8 2 1 0 22 0]E se eles te atacassem no meio da noite? Vamos,[n]vamos, vamos para casa.[n][w][e]
 
-[msg MSG_TOKAISOMARU_007_2_0 [Donna deliziosa]]
+[msg MSG_TOKAISOMARU_007_2_0 [Mulher encantadora]]
 [s][f 4 23 1 21 3 10 0 0][vp 8 2 1 0 21 0]Eu já disse para você parar![n]Estou farto de ouvir você[n]falar sobre o país![n][w][e]
 
-[msg MSG_TOKAISOMARU_008_0_0 [Ragazzo di campagna]]
+[msg MSG_TOKAISOMARU_008_0_0 [Menino do campo]]
 [s][f 4 23 1 22 3 10 0 0][vp 8 2 1 0 22 0]Se você ficar aqui, esses preguiçosos vão quebrar[n]seu computador![n][w][e]
 
-[msg MSG_TOKAISOMARU_008_1_0 [Donna deliziosa]]
+[msg MSG_TOKAISOMARU_008_1_0 [Mulher encantadora]]
 [s][f 4 23 1 21 3 10 0 0][vp 8 2 1 0 21 0]Eles são chamados de Medjed e são[n]hackers! E eles só visam[n]empresas de qualquer maneira.[n][w][e]
 
-[msg MSG_TOKAISOMARU_008_2_0 [Ragazzo di campagna]]
+[msg MSG_TOKAISOMARU_008_2_0 [Menino do campo]]
 [s][f 4 23 1 22 3 10 0 0][vp 8 2 1 0 22 0]Você terá problemas se for tão imprudente. Se[n]você quiser, posso ficar de guarda esta noite.[n][w][e]
 
-[msg MSG_TOKAISOMARU_008_3_0 [Donna deliziosa]]
+[msg MSG_TOKAISOMARU_008_3_0 [Mulher encantadora]]
 [s][f 4 23 1 21 3 10 0 0][vp 8 2 1 0 21 0]Sim Sim...[n][w][e]
 
-[msg MSG_TOKAISOMARU_009_0_0 [Ragazzo di campagna]]
+[msg MSG_TOKAISOMARU_009_0_0 [Menino do campo]]
 [s][f 4 23 1 22 3 10 0 0][vp 8 2 1 0 22 0]Você deveria ir para casa em Obon. E então, a[n]cidade não é segura por causa de Medjeb.[n][w][e]
 
-[msg MSG_TOKAISOMARU_009_1_0 [Donna deliziosa]]
+[msg MSG_TOKAISOMARU_009_1_0 [Mulher encantadora]]
 [s][f 4 23 1 21 3 10 0 0][vp 8 2 1 0 21 0]Geografia não conta com[n]internet. E os Thieves[n]Phantoms irão consertá-los de qualquer maneira.[n][w][e]
 
-[msg MSG_TOKAISOMARU_009_2_0 [Ragazzo di campagna]]
+[msg MSG_TOKAISOMARU_009_2_0 [Menino do campo]]
 [s][f 4 23 1 22 3 10 0 0][vp 8 2 1 0 22 0]Os Phantom Thieves são apenas um mito! É por isso[n]que eles não responderam![n][w][e]
 [s][vp 8 2 1 0 22 0]Acordar. Esta cidade é fundada[n]em mentiras![n][w][e]
 
-[msg MSG_TOKAISOMARU_010_0_0 [Ragazzo di campagna]]
+[msg MSG_TOKAISOMARU_010_0_0 [Menino do campo]]
 [s][f 4 23 1 22 3 10 0 0][vp 8 2 1 0 22 0]Perdoe-me por dizer que os[n]Ladrões Fantasmas eram uma[n]mentira...[n][w][e]
 [s][vp 8 2 1 0 22 0]Eles são realmente especiais, esses.[n]Eu gostaria de me tornar como eles.[n][w][e]
 
-[msg MSG_TOKAISOMARU_010_1_0 [Donna deliziosa]]
+[msg MSG_TOKAISOMARU_010_1_0 [Mulher encantadora]]
 [s][f 4 23 1 21 3 10 0 0][vp 8 2 1 0 21 0]Estou feliz que você[n]finalmente descobriu.[n][w][e]
 
-[msg MSG_TOKAISOMARU_010_2_0 [Ragazzo di campagna]]
+[msg MSG_TOKAISOMARU_010_2_0 [Menino do campo]]
 [s][f 4 23 1 22 3 10 0 0][vp 8 2 1 0 22 0]Já. Para mostrar que sinto muito, vou comprar[n]algo para você na loja de beleza da cidade.[n][w][e]
 
-[msg MSG_TOKAISOMARU_010_3_0 [Donna deliziosa]]
+[msg MSG_TOKAISOMARU_010_3_0 [Mulher encantadora]]
 [s][f 4 23 1 21 3 10 0 0][vp 8 2 1 0 21 0]Eu pego tudo de volta. Você ainda não[n]entendeu porra nenhuma![n][w][e]
 
-[msg MSG_TOKAISOMARU_011_0_0 [Ragazzo di campagna]]
+[msg MSG_TOKAISOMARU_011_0_0 [Menino do campo]]
 [s][f 4 23 1 22 3 10 0 0][vp 8 2 1 0 22 0]Aquele CEO é o próprio mal.[n]Ele não dá a mínima para nada[n]exceto para si mesmo![n][w][e]
 
-[msg MSG_TOKAISOMARU_011_1_0 [Donna deliziosa]]
+[msg MSG_TOKAISOMARU_011_1_0 [Mulher encantadora]]
 [s][f 4 23 1 21 3 10 0 0][vp 8 2 1 0 21 0]Os Phantom Thieves irão consertar isso. Você não[n]precisa se preocupar. Eu só espero que eles[n]façam isso o mais rápido possível.[n][w][e]
 
-[msg MSG_TOKAISOMARU_011_2_0 [Ragazzo di campagna]]
+[msg MSG_TOKAISOMARU_011_2_0 [Menino do campo]]
 [s][f 4 23 1 22 3 10 0 0][vp 8 2 1 0 22 0]O corpo de bombeiros da vila[n]resolveria a situação[n]num piscar de olhos.[n][w][e]
 
-[msg MSG_TOKAISOMARU_011_3_0 [Donna deliziosa]]
+[msg MSG_TOKAISOMARU_011_3_0 [Mulher encantadora]]
 [s][f 4 23 1 21 3 10 0 0][vp 8 2 1 0 21 0]Eeeeeee a conversa acabou.[n][w][e]
 
-[msg MSG_TOKAISOMARU_012_1_0 [Donna deliziosa]]
+[msg MSG_TOKAISOMARU_012_1_0 [Mulher encantadora]]
 [s][f 4 23 1 21 3 10 0 0][vp 8 2 1 0 21 0]Eles entregaram uma nova carta[n]de desafio.[n][w][e]
 [s][vp 8 2 1 0 21 0]Se o CEO despertar[n]o coração, você acha que os sanduíches[n]ficarão mais baratos?[n][w][e]
 
-[msg MSG_TOKAISOMARU_012_2_0 [Ragazzo di campagna]]
+[msg MSG_TOKAISOMARU_012_2_0 [Menino do campo]]
 [s][f 4 23 1 22 3 10 0 0][vp 8 2 1 0 22 0]Eles abriram um no país recentemente. Não vou te[n]contar as falas... parecia uma feira.[n][w][e]
 [s][vp 8 2 1 0 22 0]Eu não sabia que o Bangarang Burgers[n]era tão espetacular.[n][w][e]
 
-[msg MSG_TOKAISOMARU_013_1_0 [Donna deliziosa]]
+[msg MSG_TOKAISOMARU_013_1_0 [Mulher encantadora]]
 [s][f 4 23 1 21 3 10 0 0][vp 8 2 1 0 21 0]Eu poderia realmente usar um sanduíche,[n]mas depois de tudo isso...[n][w][e]
 
-[msg MSG_TOKAISOMARU_013_2_0 [Ragazzo di campagna]]
+[msg MSG_TOKAISOMARU_013_2_0 [Menino do campo]]
 [s][f 4 23 1 22 3 10 0 0][vp 8 2 1 0 22 0]Você está falando de Bangarang? Aposto que toda a[n]empresa está prestes a falir.[n][w][e]
 [s][vp 8 2 1 0 22 0]O rosto daquele CEO era...[n]aterrorizante. Aqueles Phantom Thieves[n]são implacáveis.[n][w][e]
 
-[msg MSG_TOKAISOMARU_014_0_0 [Donna deliziosa]]
+[msg MSG_TOKAISOMARU_014_0_0 [Mulher encantadora]]
 [s][f 4 23 1 21 3 10 0 0][vp 8 2 1 0 21 0]Os Phantom Thieves estão fugindo,[n]verdade? É assustador pensar que[n]eles podem estar escondidos por perto.[n][w][e]
 
-[msg MSG_TOKAISOMARU_014_1_0 [Ragazzo di campagna]]
+[msg MSG_TOKAISOMARU_014_1_0 [Menino do campo]]
 [s][f 4 23 1 22 3 10 0 0][vp 8 2 1 0 22 0]Isso significa que você finalmente[n]decidiu voltar para o país?[n][w][e]
 
-[msg MSG_TOKAISOMARU_014_2_0 [Donna deliziosa]]
+[msg MSG_TOKAISOMARU_014_2_0 [Mulher encantadora]]
 [s][f 4 23 1 21 3 10 0 0][vp 8 2 1 0 21 0]Não. Trabalhei muito para vir[n]aqui, não posso sair assim.[n]Só espero que eles sejam pegos logo.[n][w][e]
 
-[msg MSG_TOKAISOMARU_014_3_0 [Ragazzo di campagna]]
+[msg MSG_TOKAISOMARU_014_3_0 [Menino do campo]]
 [s][f 4 23 1 22 3 10 0 0][vp 8 2 1 0 22 0]Eu cuidarei de você. Estamos todos[n]muito preocupados, sabe.[n][w][e]
 
-[msg MSG_TOKAISOMARU_015_0_0 [Ragazzo di campagna]]
+[msg MSG_TOKAISOMARU_015_0_0 [Menino do campo]]
 [s][f 4 23 1 22 3 10 0 0][vp 8 2 1 0 22 0]Você já ouviu? Um cara que veio[n]para a escola primária conosco[n]concorre à eleição.[n][w][e]
 
-[msg MSG_TOKAISOMARU_015_1_0 [Donna deliziosa]]
+[msg MSG_TOKAISOMARU_015_1_0 [Mulher encantadora]]
 [s][f 4 23 1 21 3 10 0 0][vp 8 2 1 0 21 0]O que, sério!?! Quem? Eu me pergunto[n]se nós fôssemos amigos...[n][w][e]
 
-[msg MSG_TOKAISOMARU_015_2_0 [Ragazzo di campagna]]
+[msg MSG_TOKAISOMARU_015_2_0 [Menino do campo]]
 [s][f 4 23 1 22 3 10 0 0][vp 8 2 1 0 22 0]Bem, ele sempre disse que queria[n]melhorar a aldeia. Mas eu[n]ouvi dizer que é uma tarefa difícil.[n][w][e]
 
-[msg MSG_TOKAISOMARU_016_0_0 [Ragazzo di campagna]]
+[msg MSG_TOKAISOMARU_016_0_0 [Menino do campo]]
 [s][f 4 23 1 22 3 10 0 0][vp 8 2 1 0 22 0]Não me importa o quão ruim as coisas fiquem, o[n]suicídio nunca é a solução.[n][w][e]
 [s][vp 8 2 1 0 22 0]Dar tanto desprazer à mãe e ao pai... Não é uma[n]boa maneira de ir embora.[n][w][e]
 
-[msg MSG_TOKAISOMARU_016_1_0 [Donna deliziosa]]
+[msg MSG_TOKAISOMARU_016_1_0 [Mulher encantadora]]
 [s][f 4 23 1 21 3 10 0 0][vp 8 2 1 0 21 0]Sim, eu realmente não entendo.[n]Ele não tinha motivos para se matar.[n][w][e]
 
-[msg MSG_TOKAISOMARU_016_2_0 [Ragazzo di campagna]]
+[msg MSG_TOKAISOMARU_016_2_0 [Menino do campo]]
 [s][f 4 23 1 22 3 10 0 0][vp 8 2 1 0 22 0]A culpa também é nossa! Depois de todas as coisas[n]ruins que dissemos sobre ele![n][w][e]
 
-[msg MSG_TOKAISOMARU_016_3_0 [Donna deliziosa]]
+[msg MSG_TOKAISOMARU_016_3_0 [Mulher encantadora]]
 [s][f 4 23 1 21 3 10 0 0][vp 8 2 1 0 21 0]Você está certo, desculpe...[n]É a primeira vez que alguém fica[n]bravo assim, comigo.[n][w][e]
 
-[msg MSG_TOKAISOMARU_017_0_0 [Ragazzo di campagna]]
+[msg MSG_TOKAISOMARU_017_0_0 [Menino do campo]]
 [s][f 4 23 1 22 3 10 0 0][vp 8 2 1 0 22 0]Shido é um homem mau? Devemos[n]acreditar nos ladrões fantasmas?[n][w][e]
 
-[msg MSG_TOKAISOMARU_017_1_0 [Donna deliziosa]]
+[msg MSG_TOKAISOMARU_017_1_0 [Mulher encantadora]]
 [s][f 4 23 1 21 3 10 0 0][vp 8 2 1 0 21 0]Ainda assim, temos que esperar para ver. Não[n]podemos fazer mais nada.[n][w][e]
 
-[msg MSG_TOKAISOMARU_017_2_0 [Ragazzo di campagna]]
+[msg MSG_TOKAISOMARU_017_2_0 [Menino do campo]]
 [s][f 4 23 1 22 3 10 0 0][vp 8 2 1 0 22 0]...Eu não sei o que é esperado de[n]mim... Eu realmente me sinto perdido[n]esta selva de concreto.[n][w][e]
 
-[msg MSG_TOKAISOMARU_017_3_0 [Donna deliziosa]]
+[msg MSG_TOKAISOMARU_017_3_0 [Mulher encantadora]]
 [s][f 4 23 1 21 3 10 0 0][vp 8 2 1 0 21 0]Estou surpreso que você se sinta perdido.[n][w][e]
 
-[msg MSG_TOKAISOMARU_018_0_0 [Ragazzo di campagna]]
+[msg MSG_TOKAISOMARU_018_0_0 [Menino do campo]]
 [s][f 4 23 1 22 3 10 0 0][vp 8 2 1 0 22 0]Escute, pensei em voltar para[n]país. Quer ficar na cidade?[n][w][e]
 
-[msg MSG_TOKAISOMARU_018_1_0 [Donna deliziosa]]
+[msg MSG_TOKAISOMARU_018_1_0 [Mulher encantadora]]
 [s][f 4 23 1 21 3 10 0 0][vp 8 2 1 0 21 0]Hã? Sim... Por que essa decisão repentina?[n][w][e]
 
-[msg MSG_TOKAISOMARU_018_2_0 [Ragazzo di campagna]]
+[msg MSG_TOKAISOMARU_018_2_0 [Menino do campo]]
 [s][f 4 23 1 22 3 10 0 0][vp 8 2 1 0 22 0]Eu entendi morando lá. Tóquio não é para mim.[n]Além disso, quero apoiar nosso colega de escola[n]nas eleições.[n][w][e]
 
-[msg MSG_TOKAISOMARU_018_3_0 [Donna deliziosa]]
+[msg MSG_TOKAISOMARU_018_3_0 [Mulher encantadora]]
 [s][f 4 23 1 21 3 10 0 0][vp 8 2 1 0 21 0]...Oh. Eu vejo.[n][w][e]
 
-[msg MSG_TOKAISOMARU_019_0_0 [Donna deliziosa]]
+[msg MSG_TOKAISOMARU_019_0_0 [Mulher encantadora]]
 [s][f 4 23 1 21 3 10 0 0][vp 8 2 1 0 21 0]D-Desculpe... Você pode repetir[n]o que acabou de dizer?[n][w][e]
 
-[msg MSG_TOKAISOMARU_019_1_0 [Ragazzo di campagna]]
+[msg MSG_TOKAISOMARU_019_1_0 [Menino do campo]]
 [s][f 4 23 1 22 3 10 0 0][vp 8 2 1 0 22 0]Eu disse que deveríamos morar juntos em Tóquio.[n][w][e]
 [s][vp 8 2 1 0 22 0]Você gosta do lugar, e eu também.[n][w][e]
 [s]E então temos os mesmos valores.[n]Você não acha que é uma boa ideia?[n][w][e]
 
-[msg MSG_TOKAISOMARU_019_2_0 [Donna deliziosa]]
+[msg MSG_TOKAISOMARU_019_2_0 [Mulher encantadora]]
 [s][f 4 23 1 21 3 10 0 0][vp 8 2 1 0 21 0]OK, primeira coisa: o que há de errado com você?[n][w][e]
 [s][vp 8 2 1 0 21 0]Você fala e age[n]diferente... Estou tão confuso.[n][w][e]
 
-[msg MSG_TOKAISOMARU_020_0_0 [Donna deliziosa]]
+[msg MSG_TOKAISOMARU_020_0_0 [Mulher encantadora]]
 [s][f 4 23 1 21 3 10 0 0][vp 8 2 1 0 21 0]Desculpe, você pode repetir[n]o que você disse?[n][w][e]
 
-[msg MSG_TOKAISOMARU_020_1_0 [Ragazzo di campagna]]
+[msg MSG_TOKAISOMARU_020_1_0 [Menino do campo]]
 [s][f 4 23 1 22 3 10 0 0][vp 8 2 1 0 22 0]OK, eu digo que devemos morar em[n]uma dessas casas chiques.[n][w][e]
 [s][vp 8 2 1 0 22 0]Podemos adicionar muitas[n]decorações femininas... Não é[n]o que você quer?[n][w][e]
 
-[msg MSG_TOKAISOMARU_020_2_0 [Donna deliziosa]]
+[msg MSG_TOKAISOMARU_020_2_0 [Mulher encantadora]]
 [s][f 4 23 1 21 3 10 0 0][vp 8 2 1 0 21 0]B-Bem, sim, isso é o que sempre quis, mas...[n][w][e]
 [s][vp 8 2 1 0 21 0]Como você sabe tudo isso?[n][w][e]
 
-[msg MSG_TOKAISOMARU_020_3_0 [Ragazzo di campagna]]
+[msg MSG_TOKAISOMARU_020_3_0 [Menino do campo]]
 [s][f 4 23 1 22 3 10 0 0][vp 8 2 1 0 22 0]Hoje é importante alargar[n]horizontes e nunca parar[n]de aprender.[n][w][e]
 [s][vp 8 2 1 0 22 0]É assim que eu gosto dessa[n]feliz vida na cidade, junto com vocês.[n][w][e]
 
-[msg MSG_TOKAISOMARU_021_0_0 [Donna deliziosa]]
+[msg MSG_TOKAISOMARU_021_0_0 [Mulher encantadora]]
 [s][f 4 23 1 21 3 10 0 0]......[n][w][e]
 [s][vp 8 2 1 0 21 0]Sempre sonhei em morar em[n]Tóquio. E agora posso fazer isso com ele...[n][w][e]
 [s][vp 8 2 1 0 21 0]Tudo ótimo, mas…[n][w][e]
 [s][vp 8 2 1 0 21 0]*suspiro* Por que me sinto tão triste, de[n]repente...?[n][w][e]
 
-[msg MSG_TOKAISOMARU_021_1_0 [Donna deliziosa]]
+[msg MSG_TOKAISOMARU_021_1_0 [Mulher encantadora]]
 [s][f 4 23 1 21 3 10 0 0][vp 8 2 1 0 21 0]Todo mundo parece tão feliz desde que o ano novo[n]começou...[n][w][e]
 [s][vp 8 2 1 0 21 0]Mas então, por que estou tão triste?[n][w][e]
 
-[msg MSG_TOKAISOMARU_022_0_0 [Donna deliziosa]]
+[msg MSG_TOKAISOMARU_022_0_0 [Mulher encantadora]]
 [s][f 4 23 1 21 3 10 0 0][vp 8 2 1 0 21 0]Tóquio parece tão quieta[n]agora...[n][w][e]
 [s][vp 8 2 1 0 21 0]Ou talvez... foi ele quem fez[n]muito barulho...[n][w][e]
 [s][vp 8 2 1 0 21 0]Uh. Talvez haja coisas que eu não posso fazer só na cidade, mas… há outra coisa que eu sinto falta.[n][w][e]
@@ -589,7 +589,7 @@
 [msg MSG_quest05_morgana_01 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Eu diria que temos nosso[n]objetivo. Hora de discutir[n]um plano no Hangout![n][w][e]
 
-[msg HELP_MEMENTOS_MISSION_02 [Aggiornamento missione!]]
+[msg HELP_MEMENTOS_MISSION_02 [Atualização da missão!]]
 [s][clr 4]Conflito de lembrança[clr 27]"[n]O alvo foi identificado.[n]Discuta os detalhes com a[n]equipe no "[clr 2]esconderijo[clr 27]".[n][w][e]
 
 [msg Quest05_target_01_00 [Mitsumi Kure]]
@@ -606,19 +606,19 @@
 [s][vp 8 2 1 0 600 0]O curry aqui supera[n]por algumas mãos que[n]de qualquer outro restaurante.[n][w][e]
 [s][vp 8 2 1 0 600 0]Espero que você adicione[n]outros pratos ao menu em breve.[n][w][e]
 
-[msg Quest09_target_00_00 [Sachiko Kuwai]]
+[msg Quest09_target_00_00 [Sachiko Kuwaiti]]
 [s][f 4 23 1 601 3 10 0 0][vp 8 2 1 0 601 0]Eu disse a você, acabei de ver! Eu nunca trairia[n]você.[n][w][e]
 
-[msg Quest09_target_00_01 [Uomo in procinto di fare causa]]
+[msg Quest09_target_00_01 [Homem prestes a processar]]
 [s][f 4 23 1 602 3 10 0 0][vp 8 2 1 0 602 0]Não finja! Você me traiu[n]com tantas pessoas...[n]mesmo com meus amigos![n][w][e]
 [s][vp 8 2 1 0 602 0]Tenho os vídeos[n]da agência de detetives[n]que contratei como prova![n][w][e]
 
-[msg Quest09_target_00_02 [Sachiko Kuwai]]
+[msg Quest09_target_00_02 [Sachiko Kuwaiti]]
 [s][f 4 23 1 601 3 10 0 0][vp 8 2 65535 0 0 0]......[n][w][e]
 [s][vp 8 2 1 0 601 0]O que há de errado com uma mulher[n]que anseia por amor? É você quem[n]não me abraça o suficiente![n][w][e]
 [s][vp 8 2 1 0 601 0]E tudo bem, vá em frente. Denuncie-me.[n]Na família somos todos advogados.[n]Você nunca vai ganhar.[n][w][e]
 
-[msg Quest09_target_00_03 [Uomo in procinto di fare causa]]
+[msg Quest09_target_00_03 [Homem prestes a processar]]
 [s][f 4 23 1 602 3 10 0 0][vp 8 2 1 0 602 0]Huh? Você está brincando?!?[n]Não pense que você pode se safar![n][w][e]
 
 [msg Quest09_target_sinjyo_00]
@@ -627,32 +627,32 @@
 [msg MSG_quest09_morgana_01 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Parece que encontramos nosso[n]objetivo! Vamos voltar ao esconderijo e[n]discutir com os outros![n][w][e]
 
-[msg Quest09_target_01_00 [Sachiko Kuwai]]
+[msg Quest09_target_01_00 [Sachiko Kuwaiti]]
 [s][f 4 23 1 601 3 10 0 0][vp 8 2 1 0 601 0]É este?!? Já que no tribunal[n]você não tem esperança, você usa truques[n]como esta carta de aviso?[n][w][e]
 
-[msg Quest09_target_01_01 [Uomo in procinto di fare causa]]
+[msg Quest09_target_01_01 [Homem prestes a processar]]
 [s][f 4 23 1 602 3 10 0 0][vp 8 2 1 0 602 0]O-o quê? N-não, não fui eu![n][w][e]
 [s][vp 8 2 1 0 602 0]Devem ser aqueles Ladrões Fantasmas! Eles estão[n]todos falando sobre como eles despertam o[n]coração das pessoas![n][w][e]
 
-[msg Quest09_target_01_02 [Sachiko Kuwai]]
+[msg Quest09_target_01_02 [Sachiko Kuwaiti]]
 [s][f 4 23 1 601 3 10 0 0][vp 8 2 1 0 601 0]Como você ousa mentir para mim?!?[n]Eles não culpam apenas aqueles que[n]cometem crimes reais?[n][w][e]
 [s][vp 8 2 1 0 601 0]Eu não fiz nada de errado.[n]Eu não sou uma pessoa má![n][w][e]
 
 [msg Quest09_target_sinjyo_01]
 [s][vp 8 2 65535 0 0 0]Parece que a carta de contestação[n]foi entregue com sucesso.[n][w][e]
 
-[msg Quest09_target_02_00 [Sachiko Kuwai]]
+[msg Quest09_target_02_00 [Sachiko Kuwaiti]]
 [s][f 4 23 1 601 3 10 0 0][vp 8 2 1 0 601 0]U-Uhm...[n]Por favor, me escute...[n][w][e]
 
-[msg Quest09_target_02_01 [Uomo dallo sguardo freddo]]
+[msg Quest09_target_02_01 [Homem de olhos frios]]
 [s][f 4 23 1 602 3 10 0 0][vp 8 2 1 0 602 0]Huh? O que você quer?!?[n]Se você acha que pode me enganar[n]fingindo chorar, eu não vou cair nessa![n][w][e]
 
-[msg Quest09_target_02_02 [Sachiko Kuwai]]
+[msg Quest09_target_02_02 [Sachiko Kuwaiti]]
 [s][f 4 23 1 601 3 10 0 0][vp 8 2 1 0 601 0]Não é assim! Me desculpe[n]por trair você.[n][w][e]
 [s][vp 8 2 1 0 601 0]Eu concederei a você qualquer indenização que[n]você quiser. Farei o que for preciso, custe o[n]que custar![n][w][e]
 [s][vp 8 2 1 0 601 0]Por favor me perdoe.[n][w][e]
 
-[msg Quest09_target_02_03 [Uomo dallo sguardo freddo]]
+[msg Quest09_target_02_03 [Homem de olhos frios]]
 [s][f 4 23 1 602 3 10 0 0][vp 8 2 1 0 602 0]Que diabos...?[n]É um pouco tarde para dizer[n]certas coisas...[n][w][e]
 [s][vp 8 2 1 0 602 0]Entendo. Os Phantom Thieves[n]realmente mudaram seu coração.[n]Agora que eles salvaram você...[n][w][e]
 [s][vp 8 2 1 0 602 0]Eu só quero que você encontre um bom companheiro.[n]Seja fiel e faça-o feliz.[n][w][e]
@@ -676,7 +676,7 @@
 [msg Quest14_target_01_00 [Daichi Nakamura]]
 [s][vp 8 2 1 0 605 0]carta de aviso...?[n]Que diabos é isso?[n][w][e]
 
-[msg Quest14_target_01_01 [Uomo in procinto di fare causa]]
+[msg Quest14_target_01_01 [Homem prestes a processar]]
 [s][vp 8 2 1 0 605 0]Foi endereçado a você, então...[n][w][e]
 
 [msg Quest14_target_01_02 [Daichi Nakamura]]
@@ -690,7 +690,7 @@
 [s][vp 8 2 1 0 605 0]Mãe, decidi arranjar um emprego de au pair.[n][w][e]
 [s][vp 8 2 1 0 605 0]Expliquei a situação[n]ao meu patrão, ele disse que[n]vai cuidar de mim.[n][w][e]
 
-[msg Quest14_target_02_01 [Madre di Daichi]]
+[msg Quest14_target_02_01 [Mãe de Daichi]]
 [s][vp 8 2 1 0 605 0]Sério? Estou feliz em ouvir isso.[n][w][e]
 [s][vp 8 2 1 0 605 0]Mesmo que isso me entristeça um pouco.[n]Não haverá mais ninguém[n]em casa...[n][w][e]
 
@@ -698,7 +698,7 @@
 [s][vp 8 2 1 0 605 0]Eu irei ver você.[n][w][e]
 [s][vp 8 2 1 0 605 0]E não se preocupe, vou devolver todo o dinheiro[n]que devo a você...[n][w][e]
 
-[msg Quest14_target_02_03 [Madre di Daichi]]
+[msg Quest14_target_02_03 [Mãe de Daichi]]
 [s][vp 8 2 1 0 605 0]Deixar.[n][w][e]
 [s][vp 8 2 1 0 605 0]Eu só queria que você fosse feliz.[n][w][e]
 
@@ -711,19 +711,19 @@
 [msg Quest15_target_00_00 [Muneo Horiguchi]]
 [s][f 4 23 1 603 3 10 0 0][vp 8 2 1 0 603 0]Eu disse a eles para se moverem e[n]aqueles respondem mal. A juventude de hoje[n]não tem esperança.[n][w][e]
 
-[msg Quest15_target_00_01 [Nipote di Muneo]]
+[msg Quest15_target_00_01 [Sobrinho de Muneo]]
 [s][f 4 23 1 604 3 10 0 0][vp 8 2 1 0 604 0]Vovô, você me ouviu? Eu disse[n]que posso ficar de pé.[n][w][e]
 
 [msg Quest15_target_00_02 [Muneo Horiguchi]]
 [s][vp 8 2 1 0 603 0]Esse não é o ponto.[n]Se eu pedir para eles desistirem,[n]eles deveriam.[n][w][e]
 
-[msg Quest15_target_00_03 [Nipote di Muneo]]
+[msg Quest15_target_00_03 [Sobrinho de Muneo]]
 [s][vp 8 2 1 0 604 0]Mas papai diz que não devemos gritar com as[n]pessoas...[n][w][e]
 
 [msg Quest15_target_00_04 [Muneo Horiguchi]]
 [s][vp 8 2 1 0 603 0]Não, é uma questão de educação[n]e disciplina! Alguém deve[n]ensiná-lo algumas maneiras.[n][w][e]
 
-[msg Quest15_target_00_05 [Nipote di Muneo]]
+[msg Quest15_target_00_05 [Sobrinho de Muneo]]
 [s][vp 8 2 1 0 604 0]Mas as pessoas por aqui[n]estão olhando para nós errado...[n][w][e]
 
 [msg Quest15_target_00_06 [Muneo Horiguchi]]
@@ -747,7 +747,7 @@
 [s][vp 8 2 1 0 603 0]Ele se cansou das minhas constantes[n]reclamações sobre qualquer coisa...[n][w][e]
 [s][vp 8 2 1 0 603 0]A família do meu filho também diz[n]que eu sou teimosa, que[n]as crianças precisam ser melhor educadas.[n][w][e]
 
-[msg Quest15_target_02_01 [Anziano sorridente]]
+[msg Quest15_target_02_01 [Sênior sorridente]]
 [s][f 4 23 1 604 3 10 0 0][vp 8 2 1 0 604 0]Bem, a sabedoria vem com a idade,[n]mas conforme você envelhece, você não[n]se torna perfeito.[n][w][e]
 [s][vp 8 2 1 0 604 0]E aí você sempre teve um jeito brusco de falar...[n][w][e]
 [s][vp 8 2 1 0 604 0]Para ser sincero, eu também[n]pensei em me afastar[n]de você no passado.[n][w][e]
@@ -845,21 +845,21 @@
 [msg Quest46_target_sinjyo_02]
 [s]クエスト46のテスト心情メッセージです。[n][w][e]
 
-[msg JUICE_SHOP_NOTOPEN [Dipendente]]
+[msg JUICE_SHOP_NOTOPEN [Funcionário]]
 [s][vp 8 2 1 0 2 0]Desculpe, ainda estamos[n]renovando.[n][w][e]
 [s][vp 8 2 1 0 2 0]○日になったらオープンしますので[n]また来てください![n][w][e]
 
-[msg JUICE_SHOP_SELECT [Dipendente]]
+[msg JUICE_SHOP_SELECT [Funcionário]]
 [s][vp 8 2 1 0 2 0]Bem-vindo! Hoje o suco misto[n]está em oferta a[n]preço bem baixo![n][w][e]
 [s][vp 8 2 1 0 2 0]Quer encomendar um?[n][w][e]
 
-[msg JUICE_SHOP_THANKS [Dipendente]]
+[msg JUICE_SHOP_THANKS [Funcionário]]
 [s][vp 8 2 1 0 2 0]Muito obrigado![n]Esperamos vê-lo novamente muito,[n]muito em breve![n][w][e]
 
-[msg JUICE_SHOP_NOT_BUY [Dipendente]]
+[msg JUICE_SHOP_NOT_BUY [Funcionário]]
 [s][vp 8 2 1 0 2 0]Volte logo![n][w][e]
 
-[msg JUICE_SHOP_SOLDOUT [Dipendente]]
+[msg JUICE_SHOP_SOLDOUT [Funcionário]]
 [s][vp 8 2 1 0 2 0]Sinto muito.[n]Estamos sem estoque[n]de...tudo.[n][w][e]
 
 [msg MSG_01030108_MAKOTO_01 [Sae]]
@@ -2908,29 +2908,29 @@
 [msg MSG_GRT_main_Lim_401_16_ [Makoto]]
 [s][vp 9 2 65535 40952 0 0]Caramba, você poderia pelo menos[n]lavar seu uniforme...[n][f 1 2 180][e]
 
-[msg MSG_HOMELESS_DAY_001_0_0 [Senzatetto]]
+[msg MSG_HOMELESS_DAY_001_0_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]Algo errado? Embora seja legal[n]que você preste atenção em[n]alguém como eu.[n][w][e]
 [s][vp 8 2 1 0 30 0]Você é jovem, então obtenha aconselhamento. Tenha[n]cuidado para não acabar como eu.[n][w][e]
 [s][vp 8 2 1 0 30 0]Não quero assustar você, mas[n]qualquer um pode acabar assim[n]se não tomar cuidado.[n][w][e]
 
-[msg MSG_HOMELESS_DAY_002_0_0 [Senzatetto]]
+[msg MSG_HOMELESS_DAY_002_0_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]Hum? Você precisa de algo?[n][w][e]
 
 [sel SEL_HOMELESS_DAY_002_0_0 top]
 [s]Eu estava apenas dando uma olhada.[e]
 [s]É difícil viver assim?[e]
 
-[msg MSG_HOMELESS_DAY_002_1_0 [Senzatetto]]
+[msg MSG_HOMELESS_DAY_002_1_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]Mmm, acho que você não vê[n]pessoas como eu com frequência.[n]Talvez eu pareça estranho para você.[n][w][e]
 [s][vp 8 2 1 0 30 0]Estou bem, escolhi[n]esta vida... mas você tenta[n]ser cuidadoso.[n][w][e]
 [s][vp 8 2 1 0 30 0]Conheço pessoas que[n]acabaram assim por causa de[n]pessoas de má reputação.[n][w][e]
 
-[msg MSG_HOMELESS_DAY_002_2_0 [Senzatetto]]
+[msg MSG_HOMELESS_DAY_002_2_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]Haha, é bom ver que[n]você se importa comigo. Não se preocupe,[n]eu estou acostumado com isso. Eu vou ficar bem.[n][w][e]
 [s][vp 8 2 1 0 30 0]Eu tenho vivido esta vida desde que posso[n]memória. Minhas lembranças são[n]um pouco confusas, mas...[n][w][e]
 [s][vp 8 2 1 0 30 0]Na verdade, tenho problemas para lembrar[n]o que acontece à noite...[n]Bem, isso não é grande coisa.[n][w][e]
 
-[msg MSG_HOMELESS_NIGHT_002_0 [Senzatetto]]
+[msg MSG_HOMELESS_NIGHT_002_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 0 10 0 10]O que você quer? Vá para casa,[n]se não quiser se machucar.[n][w][e]
 
 [sel SEL_HOMELESS_NIGHT_002_0 top]
@@ -2938,20 +2938,20 @@
 [s]Sinto muito.[e]
 [s]O que você está fazendo?[e]
 
-[msg MSG_HOMELESS_NIGHT_002_1 [Senzatetto]]
+[msg MSG_HOMELESS_NIGHT_002_1 [Morador de rua]]
 [s][vp 8 2 1 0 30 0]Tsk, então você só quer irritá-lo. Bah.[n][w][e]
 [s][vp 8 2 1 0 30 0]Você ouviu sobre aquele enorme[n]acidente outro dia?[n]Coisa muito engraçada![n][w][e]
 [s][vp 8 2 1 0 30 0]Isso deixou todo mundo nervoso.[n]Eu adoro ver suas[n]expressões apavoradas.[n][w][e]
 
-[msg MSG_HOMELESS_NIGHT_002_2 [Senzatetto]]
+[msg MSG_HOMELESS_NIGHT_002_2 [Morador de rua]]
 [s][vp 8 2 1 0 30 0]Muito bem, é melhor se crianças como você forem[n]boas.[n][w][e]
 [s][vp 8 2 1 0 30 0]Na cidade você corre o risco de se machucar[n]se se intrometer nos assuntos dos[n]outros, sabe? Fique ligado.[n][w][e]
 
-[msg MSG_HOMELESS_NIGHT_002_3 [Senzatetto]]
+[msg MSG_HOMELESS_NIGHT_002_3 [Morador de rua]]
 [s][vp 8 2 1 0 30 0]O que você se importa?[n]A maneira como eu vivo[n]não diz respeito a você, garoto.[n][w][e]
 [s][vp 8 2 1 0 30 0]Na cidade você corre o risco de se machucar[n]se se intrometer nos assuntos dos[n]outros, sabe? Fique ligado.[n][w][e]
 
-[msg MSG_HOMELESS_DAY_003_0_0 [Senzatetto]]
+[msg MSG_HOMELESS_DAY_003_0_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]Ei, há algo que eu[n]quero perguntar a você.[n][w][e]
 [s][vp 8 2 1 0 30 0]Eu ouvi falar de um "Madarame", um[n]com uma certa reputação.[n]Ele é um homem tão bom?[n][w][e]
 
@@ -2959,21 +2959,21 @@
 [s]É bem famoso.[e]
 [s]Ele é uma pessoa má.[e]
 
-[msg MSG_HOMELESS_DAY_003_1_0 [Senzatetto]]
+[msg MSG_HOMELESS_DAY_003_1_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]Eu vejo. Ele deve ser muito bom em fazer os[n]outros acreditarem no que ele quer.[n][w][e]
 
-[msg MSG_HOMELESS_DAY_003_2_0 [Senzatetto]]
+[msg MSG_HOMELESS_DAY_003_2_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]Oh sim? Existe algum[n]rumor sobre ele?[n][w][e]
 
-[msg MSG_HOMELESS_DAY_003_3_0 [Senzatetto]]
+[msg MSG_HOMELESS_DAY_003_3_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0]Um amigo meu diz que é um ex-aluno dele. Ouvir[n]isso, foi uma experiência terrível.[n][w][e]
 [s][vp 8 2 1 0 30 0]Eu não queria me aprofundar nisso.[n]Eu não queria me intrometer[n]em sua vida.[n][w][e]
 
-[msg MSG_HOMELESS_NIGHT_003_0 [Senzatetto]]
+[msg MSG_HOMELESS_NIGHT_003_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 3 10 0 10]Como eu pensei, eles estão todos[n]animados com[n]as cenas daquele velho bastardo.[n][w][e]
 [s][vp 8 2 1 0 30 0]Quem sabe quantas pessoas[n]sofreram por causa dele.[n]Mas eu não dou a mínima de qualquer maneira.[n][w][e]
 
-[msg MSG_HOMELESS_DAY_004_0_0 [Senzatetto]]
+[msg MSG_HOMELESS_DAY_004_0_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]Encontrei mais dinheiro[n]no meu bolso. A coisa é, eu não sei[n]como eles chegaram lá ...[n][w][e]
 
 [sel SEL_HOMELESS_DAY_004_0_0 top]
@@ -2981,22 +2981,22 @@
 [s]Você está ficando burro?[e]
 [s]O que aconteceu?[e]
 
-[msg MSG_HOMELESS_DAY_004_1_0 [Senzatetto]]
+[msg MSG_HOMELESS_DAY_004_1_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]Eu penso que não. É assustador[n]encontrar dinheiro no bolso sem[n]saber de onde veio.[n][w][e]
 [s][vp 8 2 1 0 30 0]Não sei o que fazer com eles, então sempre os[n]deixo em uma caixa de doações.[n][w][e]
 [s][vp 8 2 1 0 30 0]Seria interessante ver[n]aquele detetive genial lutando[n]com esse mistério.[n][w][e]
 
-[msg MSG_HOMELESS_DAY_004_2_0 [Senzatetto]]
+[msg MSG_HOMELESS_DAY_004_2_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]Para ser honesto, não posso refutar com certeza.[n][w][e]
 [s][vp 8 2 1 0 30 0]Talvez eu seja uma coruja da noite?[n]No meio da noite eu sempre acabo[n]em outro lugar.[n][w][e]
 [s][vp 8 2 1 0 30 0]Você não acha que Shibuya é[n]perigoso à noite? E se eu tiver[n]um desses ataques?[n][w][e]
 
-[msg MSG_HOMELESS_DAY_004_3_0 [Senzatetto]]
+[msg MSG_HOMELESS_DAY_004_3_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]Comecei a ter esse[n]problema há algum tempo.[n]Não conseguia me lembrar das coisas.[n][w][e]
 [s][vp 8 2 1 0 30 0]As lembranças do que acontece à[n]noite são particularmente nebulosas.[n]Isso me assusta muito, na verdade.[n][w][e]
 [s][vp 8 2 1 0 30 0]Seria interessante ver[n]aquele detetive genial lutando[n]com esse mistério.[n][w][e]
 
-[msg MSG_HOMELESS_NIGHT_004_0 [Senzatetto]]
+[msg MSG_HOMELESS_NIGHT_004_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 0 10 0 10]Tsk, ainda tenho[n]esta alteração? Depois de todo o[n]esforço que fiz.[n][w][e]
 
 [sel SEL_HOMELESS_NIGHT_004_0 top]
@@ -3004,21 +3004,21 @@
 [s]Arrume um emprego.[e]
 [s]O que você está fazendo aqui?[e]
 
-[msg MSG_HOMELESS_NIGHT_004_1 [Senzatetto]]
+[msg MSG_HOMELESS_NIGHT_004_1 [Morador de rua]]
 [s][vp 8 2 1 0 30 0]Cale-se. Quebra, garoto.[n][w][e]
 [s][vp 8 2 1 0 30 0]Shibuya é uma bela cidade[n]à noite. Hehehe. Um garotinho[n]como você não consegue entender.[n][w][e]
 
-[msg MSG_HOMELESS_NIGHT_004_2 [Senzatetto]]
+[msg MSG_HOMELESS_NIGHT_004_2 [Morador de rua]]
 [s][vp 8 2 1 0 30 0]Não se preocupe, eu tenho[n]um emprego. E eu amo isso. À noite,[n]Shibuya é o meu reino...[n][w][e]
 
-[msg MSG_HOMELESS_NIGHT_004_3 [Senzatetto]]
+[msg MSG_HOMELESS_NIGHT_004_3 [Morador de rua]]
 [s][vp 8 2 1 0 30 0]Isso eu deveria perguntar.[n][w][e]
 [s][vp 8 2 1 0 30 0]Cuidado, garoto. Nesta cidade[n]você não pode se intrometer[n]nos assuntos dos outros.[n][w][e]
 
-[msg MSG_HOMELESS_NIGHT_004_4 [Senzatetto]]
+[msg MSG_HOMELESS_NIGHT_004_4 [Morador de rua]]
 [s][vp 8 2 1 0 30 0]Bem, hora de ir[n]ear algum dinheiro. Se eu estiver com[n]minhas mãos, vou enferrujar.[n][w][e]
 
-[msg MSG_HOMELESS_DAY_005_0_0 [Senzatetto]]
+[msg MSG_HOMELESS_DAY_005_0_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]F-pare... Não tenho nada[n]de valor! Por favor,[n]não tenho nada. Eu não tenho nada...[n][w][e]
 [s][vp 8 2 1 0 30 0]Huh? Você não quer me roubar? Por favor,[n]não me assuste mais assim.[n][w][e]
 
@@ -3027,19 +3027,19 @@
 [s]Sinto muito.[e]
 [s]O que acontece?[e]
 
-[msg MSG_HOMELESS_DAY_005_1_0 [Senzatetto]]
+[msg MSG_HOMELESS_DAY_005_1_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]É que tem havido vários[n]assaltos e assédios ultimamente...[n]Aconteceu com alguns amigos meus.[n][w][e]
 [s][vp 8 2 1 0 30 0]Eles dizem que alguém dirige[n]tudo das sombras. Tente[n]ser cuidadoso, jovem.[n][w][e]
 
-[msg MSG_HOMELESS_DAY_005_2_0 [Senzatetto]]
+[msg MSG_HOMELESS_DAY_005_2_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]Não, minha culpa. Eu pulei[n]rapidamente para conclusões.[n][w][e]
 [s][vp 8 2 1 0 30 0]Como sempre, Shibuya é um lugar traiçoeiro à[n]noite.[n][w][e]
 
-[msg MSG_HOMELESS_DAY_005_3_0 [Senzatetto]]
+[msg MSG_HOMELESS_DAY_005_3_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]Você ouviu sobre o caso Madarame?[n]Parece que[n]uma organização de Shibuya estava envolvida.[n][w][e]
 [s][vp 8 2 1 0 30 0]Com esse movimento de[n]lavagem de dinheiro nas sombras,[n]Shibuya será perigoso por um tempo.[n][w][e]
 
-[msg MSG_HOMELESS_NIGHT_005_0 [Senzatetto]]
+[msg MSG_HOMELESS_NIGHT_005_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 0 10 0 10]O que você quer, garoto?[n]Se você ficar aqui à noite[n]muitas vezes, você vai se machucar.[n][w][e]
 
 [sel SEL_HOMELESS_NIGHT_005_0 top]
@@ -3047,19 +3047,19 @@
 [s]Eu vou tomar cuidado.[e]
 [s]Shibuya é perigoso?[e]
 
-[msg MSG_HOMELESS_NIGHT_005_1 [Senzatetto]]
+[msg MSG_HOMELESS_NIGHT_005_1 [Morador de rua]]
 [s][vp 8 2 1 0 30 0]Há cada vez mais pirralhos[n]que querem brigar[n]com pessoas como eu.[n][w][e]
 [s][vp 8 2 1 0 30 0]O último que tentou[n]passou muito mal.[n]É melhor você tomar cuidado. Haha![n][w][e]
 
-[msg MSG_HOMELESS_NIGHT_005_2 [Senzatetto]]
+[msg MSG_HOMELESS_NIGHT_005_2 [Morador de rua]]
 [s][vp 8 2 1 0 30 0]Sim, você diz, mas não tem nenhuma intenção de[n]fazer isso, tem?[n][w][e]
 [s][vp 8 2 1 0 30 0]Vocês todos falam bem, então[n]acabam fazendo[n]coisas tremendas. Como Madarame.[n][w][e]
 
-[msg MSG_HOMELESS_NIGHT_005_3 [Senzatetto]]
+[msg MSG_HOMELESS_NIGHT_005_3 [Morador de rua]]
 [s][vp 8 2 1 0 30 0]Digamos que galhos como você[n]tenham que ter cuidado. Este lugar[n]fez muita gente chorar...[n][w][e]
 [s][vp 8 2 1 0 30 0]Falando em chorar, você viu aquele Madarame? Ele[n]choramingou como uma criança. Que divertido![n][w][e]
 
-[msg MSG_HOMELESS_DAY_006_0_0 [Senzatetto]]
+[msg MSG_HOMELESS_DAY_006_0_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]Hum? O que é?[n]Procurando uma maneira de[n]matar o tempo?[n][w][e]
 
 [sel SEL_HOMELESS_DAY_006_0_0 top]
@@ -3067,39 +3067,39 @@
 [s]Eu não tenho tempo.[e]
 [s]Estou apenas olhando.[e]
 
-[msg MSG_HOMELESS_DAY_006_1_0 [Senzatetto]]
+[msg MSG_HOMELESS_DAY_006_1_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]Vá para a passagem subterrânea da estação de[n]Shibuya, encontre anúncios de emprego perto das[n]escadas.[n][w][e]
 [s][vp 8 2 1 0 30 0]Eu pensei em procurar[n]trabalho também, mas eles nunca vão dar[n]um assim... Haha.[n][w][e]
 
-[msg MSG_HOMELESS_DAY_006_2_0 [Senzatetto]]
+[msg MSG_HOMELESS_DAY_006_2_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]Que bom para você. Não tenho dúvidas de que[n]as pessoas da sua idade preferem[n]se divertir do que se ocupar.[n][w][e]
 
-[msg MSG_HOMELESS_DAY_006_3_0 [Senzatetto]]
+[msg MSG_HOMELESS_DAY_006_3_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]Ouça, eu quero te perguntar uma coisa.[n]Muitas pessoas falam sobre os[n]Phantom Thieves.[n][w][e]
 [s][vp 8 2 1 0 30 0]Que truque eles usam para roubar o coração das[n]pessoas? Haha, como se você soubesse...[n][w][e]
 
-[msg MSG_HOMELESS_DAY_006_4_0 [Senzatetto]]
+[msg MSG_HOMELESS_DAY_006_4_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]Ah, por falar nisso. Se acontecer de você me ver[n]à noite, você poderia manter uma distância[n]segura?[n][w][e]
 
-[msg MSG_HOMELESS_NIGHT_006_0 [Senzatetto]]
+[msg MSG_HOMELESS_NIGHT_006_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 0 10 0 10]O que você quer? Estou de bom humor,[n]então você pode me fazer companhia.[n][w][e]
 
 [sel SEL_HOMELESS_NIGHT_006_0 top]
 [s]Como está o seu negócio?[e]
 [s]Eu não tenho nada a dizer.[e]
 
-[msg MSG_HOMELESS_NIGHT_006_1 [Senzatetto]]
+[msg MSG_HOMELESS_NIGHT_006_1 [Morador de rua]]
 [s][vp 8 2 1 0 30 0]Conheço um trabalho que te deixa rico.[n]Posso te dizer como entrar, mas[n]você vai ter que sumir de circulação.[n][w][e]
 [s][vp 8 2 1 0 30 0]Naah, só brincando... Eheh.[n][w][e]
 
-[msg MSG_HOMELESS_NIGHT_006_2 [Senzatetto]]
+[msg MSG_HOMELESS_NIGHT_006_2 [Morador de rua]]
 [s][vp 8 2 1 0 30 0]Então vá para casa, garoto.[n]Se você bisbilhotar e[n]algo acontecer com você, não é da minha conta.[n][w][e]
 [s][vp 8 2 1 0 30 0]À noite, este é[n]o nosso mundo... Eheh.[n][w][e]
 
-[msg MSG_HOMELESS_NIGHT_006_4 [Senzatetto]]
+[msg MSG_HOMELESS_NIGHT_006_4 [Morador de rua]]
 [s][vp 8 2 1 0 30 0]Eu amo a noite.[n]À noite estou livre.[n][w][e]
 
-[msg MSG_HOMELESS_DAY_007_0_0 [Senzatetto]]
+[msg MSG_HOMELESS_DAY_007_0_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]Mmm?[n]Você precisa de alguma coisa?[n][w][e]
 
 [sel SEL_HOMELESS_DAY_007_0_0 top]
@@ -3107,19 +3107,19 @@
 [s]Nada realmente.[e]
 [s]Como está a cidade ultimamente?[e]
 
-[msg MSG_HOMELESS_DAY_007_1_0 [Senzatetto]]
+[msg MSG_HOMELESS_DAY_007_1_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]Vejamos... Você sabe que os Phantom Thieves[n]enviaram uma carta[n]de desafio, certo?[n][w][e]
 [s][vp 8 2 1 0 30 0]Tenho certeza que a atmosfera[n]vai esquentar bastante[n]por aqui.[n][w][e]
 
-[msg MSG_HOMELESS_DAY_007_2_0 [Senzatetto]]
+[msg MSG_HOMELESS_DAY_007_2_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]Ah, sim.[n]Você viu?[n][w][e]
 [s][vp 8 2 1 0 30 0]Você já viu a carta de aviso dos Phantom[n]Thieves ? Eles têm uma maneira interessante de[n]se comportar.[n][w][e]
 
-[msg MSG_HOMELESS_DAY_007_3_0 [Senzatetto]]
+[msg MSG_HOMELESS_DAY_007_3_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]Continuamos falando sobre a[n]carta de aviso enviada[n]pelos Phantom Thieves.[n][w][e]
 [s][vp 8 2 1 0 30 0]O submundo se tornou um bando de bandidos.[n]Patético. O que aconteceu com o código de honra[n]deles?[n][w][e]
 
-[msg MSG_HOMELESS_NIGHT_007_0 [Senzatetto]]
+[msg MSG_HOMELESS_NIGHT_007_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 0 10 0 10]Ainda a criança sem sono.[n]O que você quer?[n][w][e]
 
 [sel SEL_HOMELESS_NIGHT_007_0 top]
@@ -3127,37 +3127,37 @@
 [s]Nada realmente.[e]
 [s]Como está a cidade ultimamente?[e]
 
-[msg MSG_HOMELESS_NIGHT_007_1 [Senzatetto]]
+[msg MSG_HOMELESS_NIGHT_007_1 [Morador de rua]]
 [s][vp 8 2 1 0 30 0]Eles dizem que agora os Phantom Thieves[n]vão descontar na máfia. Eh,[n]para mim eles são apenas crianças.[n][w][e]
 [s][vp 8 2 1 0 30 0]Bastaria eu brandir uma faca[n]para fazê-los fugir com o rabo[n]entre as pernas. Hahaha![n][w][e]
 
-[msg MSG_HOMELESS_NIGHT_007_2 [Senzatetto]]
+[msg MSG_HOMELESS_NIGHT_007_2 [Morador de rua]]
 [s][vp 8 2 1 0 30 0]Por causa daqueles Phantom Thieves[n]agora há mais[n]policiais por aqui.[n][w][e]
 [s][vp 8 2 1 0 30 0]Tsk. Essa maldita[n]carta de aviso está[n]tornando minha vida difícil.[n][w][e]
 
-[msg MSG_HOMELESS_NIGHT_007_3 [Senzatetto]]
+[msg MSG_HOMELESS_NIGHT_007_3 [Morador de rua]]
 [s][vp 8 2 1 0 30 0]Desde que os Phantom Thieves[n]enviaram a carta de aviso, o[n]submundo de Shibuya está em crise.[n][w][e]
 [s][vp 8 2 1 0 30 0]Inferno, não é tão ruim assim.[n]Eu vou me divertir fazendo[n]alguns deles... Eheheh.[n][w][e]
 
-[msg MSG_HOMELESS_DAY_008_0_0 [Senzatetto]]
+[msg MSG_HOMELESS_DAY_008_0_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]Eu sinto que meus[n]amigos me evitam...[n]Talvez por causa... disso?[n][w][e]
 
 [sel SEL_HOMELESS_DAY_008_0_0 top]
 [s]O que você quer dizer com isso"?[e]
 [s]Eles te odeiam?[e]
 
-[msg MSG_HOMELESS_DAY_008_1_0 [Senzatetto]]
+[msg MSG_HOMELESS_DAY_008_1_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]Qualquer um que vê meu rosto[n]foge,[n]mas eu não entendo porque...[n][w][e]
 
-[msg MSG_HOMELESS_DAY_008_2_0 [Senzatetto]]
+[msg MSG_HOMELESS_DAY_008_2_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]Haha... Acho que não[n]fiz nada que justifique[n]vazamentos como esse.[n][w][e]
 
-[msg MSG_HOMELESS_DAY_008_4_0 [Senzatetto]]
+[msg MSG_HOMELESS_DAY_008_4_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0]Posso te fazer uma pergunta?[n][w][e]
 [s][vp 8 2 1 0 30 0]Você acha que é possível[n]alguém mudar[n]de repente sua personalidade?[n][w][e]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]Não, desculpe. Deixar...[n][w][e]
 
-[msg MSG_HOMELESS_NIGHT_008_0 [Senzatetto]]
+[msg MSG_HOMELESS_NIGHT_008_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 0 10 0 10]Umpf... O que você quer, garoto?[n][w][e]
 
 [sel SEL_HOMELESS_NIGHT_008_0 top]
@@ -3165,177 +3165,177 @@
 [s]Nada.[e]
 [s]Você não vai dormir?[e]
 
-[msg MSG_HOMELESS_NIGHT_008_1 [Senzatetto]]
+[msg MSG_HOMELESS_NIGHT_008_1 [Morador de rua]]
 [s][vp 8 2 1 0 30 0]Sim, as coisas se acalmaram[n]após a prisão de Kaneshiro.[n]Os Phantom Thieves fizeram isso.[n][w][e]
 [s][vp 8 2 1 0 30 0]Despertar corações parece absurdo, mas quer[n]saber? Isso torna o jogo da vida mais[n]interessante.[n][w][e]
 
-[msg MSG_HOMELESS_NIGHT_008_2 [Senzatetto]]
+[msg MSG_HOMELESS_NIGHT_008_2 [Morador de rua]]
 [s][vp 8 2 1 0 30 0]Desde que os Phantom Thieves[n]lidaram com Kaneshiro, a cidade[n]de repente se acalmou.[n][w][e]
 [s][vp 8 2 1 0 30 0]Tsk, não há[n]aviso de perigo[n]no ar de Shibuya.[n][w][e]
 
-[msg MSG_HOMELESS_NIGHT_008_3 [Senzatetto]]
+[msg MSG_HOMELESS_NIGHT_008_3 [Morador de rua]]
 [s][vp 8 2 1 0 30 0]Hehehe. Eu trabalho à noite.[n]Se você tem um emprego para mim,[n]deixe uma carta nessa lixeira.[n][w][e]
 [s][vp 8 2 1 0 30 0]Se você tiver algum problema[n]com lixo, eu[n]resolvo para você. Hahaha![n][w][e]
 
-[msg MSG_HOMELESS_DAY_009_0_0 [Senzatetto]]
+[msg MSG_HOMELESS_DAY_009_0_0 [Morador de rua]]
 [s][f 4 23 1 30 5 10 4 10][vp 8 2 1 0 30 0]O? Bater nos meus amigos?[n]Impossível. Mas à noite...[n]lembro-me pouco da noite.[n][w][e]
 
 [sel SEL_HOMELESS_DAY_009_0_0 top]
 [s]Tudo está bem?[e]
 [s]Não me lembro?[e]
 
-[msg MSG_HOMELESS_DAY_009_1_0 [Senzatetto]]
+[msg MSG_HOMELESS_DAY_009_1_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]S-sim, estou bem...[n][w][e]
 [s][vp 8 2 1 0 30 0]Quando eu acordo de manhã eu fico com medo. Eu me[n]sinto como ... eu sou diferente.[n][w][e]
 
-[msg MSG_HOMELESS_DAY_009_2_0 [Senzatetto]]
+[msg MSG_HOMELESS_DAY_009_2_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]É como se minhas memórias fossem confusas. Como[n]se você estivesse em um sonho.[n][w][e]
 [s][vp 8 2 1 0 30 0]Como se meu cérebro,[n]ou o próprio mundo,[n]foi reescrito...[n][w][e]
 
-[msg MSG_HOMELESS_DAY_009_3_0 [Senzatetto]]
+[msg MSG_HOMELESS_DAY_009_3_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]Talvez os Phantom Thieves[n]fizeram algo para mim?[n]Não, impossível...[n][w][e]
 
-[msg MSG_HOMELESS_NIGHT_009_0 [Senzatetto]]
+[msg MSG_HOMELESS_NIGHT_009_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 0 10 0 10]O que você quer?[n]Estou muito chateado.[n][w][e]
 
 [sel SEL_HOMELESS_NIGHT_009_0 top]
 [s]Porque?[e]
 [s]Calmo.[e]
 
-[msg MSG_HOMELESS_NIGHT_009_1 [Senzatetto]]
+[msg MSG_HOMELESS_NIGHT_009_1 [Morador de rua]]
 [s][vp 8 2 1 0 30 0]Não é da sua conta.[n][w][e]
 [s][vp 8 2 1 0 30 0]Se eu jogar bem minhas cartas,[n]posso transferir a culpa pelo meu[n]trabalho para os Ladrões Fantasmas...[n][w][e]
 [s][vp 8 2 1 0 30 0]Ei, que porra é essa?!?[n]Vá embora, faça fila em outro lugar,[n]saia daqui![n][w][e]
 
-[msg MSG_HOMELESS_NIGHT_009_2 [Senzatetto]]
+[msg MSG_HOMELESS_NIGHT_009_2 [Morador de rua]]
 [s][vp 8 2 1 0 30 0]Umpf, um velho bastardo[n]tentou invadir meu[n]território. Eu o silenciei.[n][w][e]
 [s][vp 8 2 1 0 30 0]Se você não quer acabar assim também, fique longe[n]dessa lixeira.[n][w][e]
 [s][vp 8 2 1 0 30 0]Mas se você tem um pedido para mim,[n]é outra história... Eheh.[n][w][e]
 
-[msg MSG_HOMELESS_DAY_010_0_0 [Senzatetto]]
+[msg MSG_HOMELESS_DAY_010_0_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]Que coisas terríveis eu fiz...[n]Nesse ritmo, seria[n]melhor se eu morresse...[n][w][e]
 
 [sel SEL_HOMELESS_DAY_010_0_0 top]
 [s]O que aconteceu?[e]
 [s]Volte a sí mesmo.[e]
 
-[msg MSG_HOMELESS_DAY_010_1_0 [Senzatetto]]
+[msg MSG_HOMELESS_DAY_010_1_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]Nao e nada. Eu pareço[n]ainda ... eu mesmo.[n][w][e]
 [s][vp 8 2 1 0 30 0]Ei, você acha que é possível mudar o coração de[n]alguém?[n][w][e]
 
-[msg MSG_HOMELESS_DAY_010_2_0 [Senzatetto]]
+[msg MSG_HOMELESS_DAY_010_2_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]Não, eu estou bem. Acho que ainda sou... eu mesmo.[n][w][e]
 [s][vp 8 2 1 0 30 0]Os ladrões fantasmas despertam[n]corações? Eu gostaria que eles fizessem isso[n]com o coração de ... você sabe quem.[n][w][e]
 
-[msg MSG_HOMELESS_DAY_010_4_0 [Senzatetto]]
+[msg MSG_HOMELESS_DAY_010_4_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0]Vou tentar convencê-lo a[n]escrever outra carta.[n]Melhor do que não fazer nada...[n][w][e]
 
-[msg MSG_HOMELESS_NIGHT_010_0 [Senzatetto]]
+[msg MSG_HOMELESS_NIGHT_010_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 0 10 0 10]Aquele cara deixou outra[n]carta em nosso bolso? Eu nunca[n]mudarei de ideia. Ele pode esquecer.[n][w][e]
 
 [sel SEL_HOMELESS_NIGHT_010_0 top]
 [s]Uma letra?[e]
 [s]"Aquele cara"? O que você quer dizer?[e]
 
-[msg MSG_HOMELESS_NIGHT_010_1 [Senzatetto]]
+[msg MSG_HOMELESS_NIGHT_010_1 [Morador de rua]]
 [s][vp 8 2 1 0 30 0]Você estava ouvindo, hein? Esteja ciente de que[n]se você enfiar o nariz onde não precisa,[n]você pode se machucar.[n][w][e]
 [s][vp 8 2 1 0 30 0]Você sabe, cartas e notas escritas[n]são muito úteis. Queimaduras e[n]julgamentos desaparecem.[n][w][e]
 [s][vp 8 2 1 0 30 0]A Internet deixa um rastro[n]Na minha indústria você tem que[n]usar papel.[n][w][e]
 [s][vp 8 2 1 0 30 0]Eh, mesmo Medjed nunca descobrirá o que está[n]escrito aqui. Haha![n][w][e]
 
-[msg MSG_HOMELESS_NIGHT_010_2 [Senzatetto]]
+[msg MSG_HOMELESS_NIGHT_010_2 [Morador de rua]]
 [s][vp 8 2 1 0 30 0]Você estava ouvindo, hein? Smamma[n]se você não quer se machucar.[n][w][e]
 [s][vp 8 2 1 0 30 0]Quanto mais você se agita e resiste,[n]mais você sofre, sabia?[n][w][e]
 [s][vp 8 2 1 0 30 0]Mesmo que seja sempre mais engraçado[n]para mim quando é[n]o outro que fica animado... Eheheh.[n][w][e]
 
-[msg MSG_HOMELESS_DAY_011_0_0 [Senzatetto]]
+[msg MSG_HOMELESS_DAY_011_0_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]*suspiro* Você precisa de alguma coisa, jovem?[n][w][e]
 
 [sel SEL_HOMELESS_DAY_011_0_0 top]
 [s]Como você está?[e]
 [s]Algo está te preocupando?[e]
 
-[msg MSG_HOMELESS_DAY_011_1_0 [Senzatetto]]
+[msg MSG_HOMELESS_DAY_011_1_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]Onde quer que eu vá, ouço sobre os Phantom[n]Thieves. Eles os chamam de heróis contemporâneos.[n][w][e]
 [s][vp 8 2 1 0 30 0]Se eu pedisse aos Phantom Thieves[n]para me ajudar, talvez eles ajudassem[n]a clarear minha cabeça. *suspirar*[n][w][e]
 
-[msg MSG_HOMELESS_DAY_011_2_0 [Senzatetto]]
+[msg MSG_HOMELESS_DAY_011_2_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]Algo parecido. Talvez eu devesse[n]perguntar aos Fan Thieves...[n][w][e]
 [s][vp 8 2 1 0 30 0]Oh, esqueça.[n]Não é nada. Esqueça o que eu disse.[n][w][e]
 
-[msg MSG_HOMELESS_DAY_011_3_0 [Senzatetto]]
+[msg MSG_HOMELESS_DAY_011_3_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]Encontrei em minhas roupas[n]dinheiro e uma faca manchada[n]de sangue. E mais de uma vez...[n][w][e]
 [s][vp 8 2 1 0 30 0]Os períodos que não consigo lembrar[n]são sempre mais longos.[n]Ninguém entende meu problema...[n][w][e]
 
-[msg MSG_HOMELESS_NIGHT_011_0 [Senzatetto]]
+[msg MSG_HOMELESS_NIGHT_011_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 0 10 0 10]No momento estou de bom humor.[n]Se você quiser conversar,[n]eu vou acompanhá-lo.[n][w][e]
 
 [sel SEL_HOMELESS_NIGHT_011_0 top]
 [s]Eu não sei o que falar.[e]
 [s]Aconteceu alguma coisa?[e]
 
-[msg MSG_HOMELESS_NIGHT_011_1 [Senzatetto]]
+[msg MSG_HOMELESS_NIGHT_011_1 [Morador de rua]]
 [s][vp 8 2 1 0 30 0]Sim, graças à confusão[n]feita pelos Phantom Thieves.[n]Vamos torcer para que continuem assim.[n][w][e]
 [s][vp 8 2 1 0 30 0]Quando a polícia se concentra[n]neles, a vida fica mais fácil para mim.[n]Brincadeirinha. Hehehe.[n][w][e]
 
-[msg MSG_HOMELESS_NIGHT_011_2 [Senzatetto]]
+[msg MSG_HOMELESS_NIGHT_011_2 [Morador de rua]]
 [s][vp 8 2 1 0 30 0]Aquele? Então pare de me incomodar[n]e vá embora. Xô[n][w][e]
 [s][vp 8 2 1 0 30 0]Por que você não pede para a mamãe[n]comprar fantoches para você[n]Phantom Thieves, garoto?[n][w][e]
 
-[msg MSG_HOMELESS_NIGHT_011_3 [Senzatetto]]
+[msg MSG_HOMELESS_NIGHT_011_3 [Morador de rua]]
 [s][vp 8 2 1 0 30 0]O trabalho está indo bem.[n]Você também quer me contratar[n]para algum trabalho?[n][w][e]
 [s][vp 8 2 1 0 30 0]Deixe as informações e o dinheiro[n]no lixo. Desaparecimentos, acidentes,[n]o que você quiser.[n][w][e]
 [s][vp 8 2 1 0 30 0]Eu não deixo a menor evidência,[n]assim como[n]os Phantom Thieves fazem! Haha![n][w][e]
 
-[msg MSG_HOMELESS_DAY_012_0_0 [Senzatetto]]
+[msg MSG_HOMELESS_DAY_012_0_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]E-eu quero conhecer os Thieves[n]Phantom. Eu quero que eles mudem o[n]coração de alguém...[n][w][e]
 
 [sel SEL_HOMELESS_DAY_012_0_0 top]
 [s]Coração de quem?[e]
 [s]Me deixe fazê-lo.[e]
 
-[msg MSG_HOMELESS_DAY_012_1_0 [Senzatetto]]
+[msg MSG_HOMELESS_DAY_012_1_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]É uma pergunta que...[n]eu gostaria de me fazer.[n][w][e]
 [s][vp 8 2 1 0 30 0]Talvez eu encontrasse essa pessoa[n]se esperasse na[n]Okumura Foods?[n][w][e]
 
-[msg MSG_HOMELESS_DAY_012_2_0 [Senzatetto]]
+[msg MSG_HOMELESS_DAY_012_2_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]Haha, agradeço a ideia.[n]Você parece um daqueles[n]heróis, os Phantom Thieves.[n][w][e]
 [s][vp 8 2 1 0 30 0]Mas... eu nem sei quem[n]estou mirando...[n]Desculpe, eu estava pensando em voz alta.[n][w][e]
 
-[msg MSG_HOMELESS_NIGHT_012_0 [Senzatetto]]
+[msg MSG_HOMELESS_NIGHT_012_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 0 10 0 10]O que você quer? Tenho muito tempo,[n]então, se precisar de alguma coisa,[n]posso ouvi-lo.[n][w][e]
 
 [sel SEL_HOMELESS_NIGHT_012_0 top]
 [s]É chato para você?[e]
 [s]Deixa para lá.[e]
 
-[msg MSG_HOMELESS_NIGHT_012_1 [Senzatetto]]
+[msg MSG_HOMELESS_NIGHT_012_1 [Morador de rua]]
 [s][vp 8 2 1 0 30 0]Sim, agora tenho muito mais tempo.[n]Devagar, consegui ficar[n]acordado mais tempo.[n][w][e]
 [s][vp 8 2 1 0 30 0]Em breve estarei livre.[n]O coração daquele que me comanda[n]está enfraquecendo.[n][w][e]
 [s][vp 8 2 1 0 30 0]De quem estou falando?[n]Alguém muito próximo! Haha![n][w][e]
 
-[msg MSG_HOMELESS_NIGHT_012_2 [Senzatetto]]
+[msg MSG_HOMELESS_NIGHT_012_2 [Morador de rua]]
 [s][vp 8 2 1 0 30 0]Vamos, não faça isso. Olha,[n]tantas[n]coisas interessantes estão acontecendo. Por exemplo...[n][w][e]
 [s][vp 8 2 1 0 30 0]Você ouviu sobre a carta de aviso[n]para aquele bastardo pomposo? Finalmente[n]os Ladrões Fantasmas notaram.[n][w][e]
 [s][vp 8 2 1 0 30 0]Eles punem os ímpios a quem a lei não pode tocar.[n]Eles são como eu, hahaha![n][w][e]
 
-[msg MSG_HOMELESS_DAY_013_0_0 [Senzatetto]]
+[msg MSG_HOMELESS_DAY_013_0_0 [Morador de rua]]
 [s][vp 8 2 65535 0 0 0]......[n][w][e]
 
 [sel SEL_HOMELESS_DAY_013_0_0 top]
 [s]Você está bem?[e]
 [s]Tu estás doente?[e]
 
-[msg MSG_HOMELESS_DAY_013_1_0 [Senzatetto]]
+[msg MSG_HOMELESS_DAY_013_1_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]Huh? Oh...[n]Você precisa de alguma coisa?[n][w][e]
 [s][vp 8 2 1 0 30 0]Não tenho estado muito lúcido ultimamente.[n]Receio que isso possa levar[n]a vantagem se eu dormir...[n][w][e]
 
-[msg MSG_HOMELESS_DAY_013_2_0 [Senzatetto]]
+[msg MSG_HOMELESS_DAY_013_2_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]Doente? Doente, né...[n][w][e]
 [s][vp 8 2 1 0 30 0]Talvez seja disso que as pessoas falam. Eles[n]dizem que você perde a cabeça...[n][w][e]
 [s][vp 8 2 1 0 30 0]Não parece tão ruim.[n]Apenas deixe[n]o outro cara desaparecer também...[n][w][e]
 
-[msg MSG_HOMELESS_NIGHT_013_0 [Senzatetto]]
+[msg MSG_HOMELESS_NIGHT_013_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 0 10 0 10]Eheheh, que noite linda.[n]Eu tenho que aproveitar[n]essa liberdade ao máximo...[n][w][e]
 [s][vp 8 2 1 0 30 0]E você?[n]Você também está curtindo a vida?[n][w][e]
 
@@ -3344,75 +3344,75 @@
 [s]Sim definitivamente.[e]
 [s]O mundo é uma merda.[e]
 
-[msg MSG_HOMELESS_NIGHT_013_1 [Senzatetto]]
+[msg MSG_HOMELESS_NIGHT_013_1 [Morador de rua]]
 [s][vp 8 2 1 0 30 0]Mais ou menos? Ah, que mediocridade.[n]O mundo inteiro é um jogo[n]e nós somos jogadores ou peões.[n][w][e]
 [s][vp 8 2 1 0 30 0]Você é um jogador ou um[n]peão manipulado por alguém?[n]Pense nisso.[n][w][e]
 
-[msg MSG_HOMELESS_NIGHT_013_2 [Senzatetto]]
+[msg MSG_HOMELESS_NIGHT_013_2 [Morador de rua]]
 [s][vp 8 2 1 0 30 0]Esse sorriso diz tudo. Você entende. A vida é[n]apenas um jogo e você sabe jogar.[n][w][e]
 [s][vp 8 2 1 0 30 0]Se você se cansar da[n]vida honesta, posso ensiná-lo[n]como se divertir mais.[n][w][e]
 
-[msg MSG_HOMELESS_NIGHT_013_3 [Senzatetto]]
+[msg MSG_HOMELESS_NIGHT_013_3 [Morador de rua]]
 [s][vp 8 2 1 0 30 0]Quer saber?[n]Você está certo.[n]É realmente uma merda.[n][w][e]
 [s][vp 8 2 1 0 30 0]Enxames de adultos corruptos[n]Em volta como moscas.[n]E eu sou o mata-moscas.[n][w][e]
 
-[msg MSG_HOMELESS_DAY_014_0_0 [Senzatetto]]
+[msg MSG_HOMELESS_DAY_014_0_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]Se eu soubesse o nome dele,[n]poderia ter pedido ajuda aos Phantom Thieves[n]antes![n][w][e]
 [s][vp 8 2 1 0 30 0]Por mais que tente, não consigo me lembrar. Por[n]aqui ninguém conhece meu passado. O que eu faço?[n][w][e]
 [s][vp 8 2 1 0 30 0]Talvez ele... saiba? Mas para mim[n]é impossível conhecê-lo...[n][w][e]
 [s][vp 8 2 1 0 30 0]Alguém...[n]Alguém me ajude, por favor...[n][w][e]
 
-[msg MSG_HOMELESS_NIGHT_014_0 [Senzatetto]]
+[msg MSG_HOMELESS_NIGHT_014_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 3 10 0 10]Merda! Aquele bastardo...[n]Por que ele fez[n]nosso corpo assim?!?[n][w][e]
 [s][vp 8 2 1 0 30 0]Ele queria me impedir com suicídio ou algo assim?[n]Eh, parece que ele não tem coragem.[n][w][e]
 [s][vp 8 2 1 0 30 0]Isso não importa. Aquele cara vai desaparecer[n]logo, então nesse corpo[n]estarei apenas eu. Hehehe.[n][w][e]
 
-[msg MSG_HOMELESS_DAY_015_0_0 [Senzatetto]]
+[msg MSG_HOMELESS_DAY_015_0_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]Nome... Meu nome...[n][w][e]
 [s][vp 8 2 1 0 30 0]Perguntei à polícia e ao homem[n]de preto outro dia,[n]mas ninguém sabe...[n][w][e]
 [s][vp 8 2 1 0 30 0]Alguém me diga,[n]por favor. O que...[n]Qual é o meu nome...?[n][w][e]
 
-[msg MSG_HOMELESS_NIGHT_015_0 [Senzatetto]]
+[msg MSG_HOMELESS_NIGHT_015_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 0 10]Eu não disse para você não falar[n]durante o dia? Se precisar de mim,[n]deixe uma carta no lixo.[n][w][e]
 
-[msg MSG_HOMELESS_NIGHT_015_1 [Agente in completo]]
+[msg MSG_HOMELESS_NIGHT_015_1 [Agente de terno]]
 [s][vp 8 2 1 0 31 0][f 4 23 1 31 5 10 4 10]Sinto muito, mas tive que verificar[n]que o ex-mercenário "Yohei[n]Kiritani" perdeu a memória.[n][w][e]
 
-[msg MSG_HOMELESS_NIGHT_015_2 [Senzatetto]]
+[msg MSG_HOMELESS_NIGHT_015_2 [Morador de rua]]
 [s][vp 8 2 1 0 30 0]Nunca diga esse nome amaldiçoado! Você quer que[n]eu me livre de você também?!?[n][w][e]
 
-[msg MSG_HOMELESS_NIGHT_015_3 [Agente in completo]]
+[msg MSG_HOMELESS_NIGHT_015_3 [Agente de terno]]
 [s][vp 8 2 1 0 31 0]C-claro que não.[n]Eu estaria condenado se ele[n]me visse...[n][w][e]
 
 [msg MSG_quest29_morgana_01 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Eu diria que temos nosso[n]objetivo. Hora de discutir[n]um plano no Hangout![n][w][e]
 
-[msg MSG_YOKOKUJYOU_GET_HIRU [Senzatetto]]
+[msg MSG_YOKOKUJYOU_GET_HIRU [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]Yohei Kiritani?[n]Yohei... Há algo sobre[n]esse nome que...[n][w][e]
 [s][vp 8 2 1 0 30 0]Esse é... meu nome?!?[n]Então significa que[n]os Ladrões Fantasmas...?[n][w][e]
 
-[msg MSG_YOKOKUJYOU_GET_YORU [Senzatetto]]
+[msg MSG_YOKOKUJYOU_GET_YORU [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 0 10]Merda, como eles descobriram[n]meu nome?[n][w][e]
 [s][vp 8 2 1 0 30 0]Eles vão tentar me cancelar?[n]Deixe-os tentar.[n]Vou cancelá-los...[n][w][e]
 
-[msg MSG_HOMELESS_DAY_016_0_0 [Senzatetto]]
+[msg MSG_HOMELESS_DAY_016_0_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]Agora eu me lembro de tudo...Tudo[n]que eu fiz.[n]Aaah...que dor de cabeça...[n][w][e]
 
 [sel SEL_HOMELESS_DAY_016_0_0 top]
 [s]Você está bem?[e]
 [s]Vá ao hospital.[e]
 
-[msg MSG_HOMELESS_DAY_016_1_0 [Senzatetto]]
+[msg MSG_HOMELESS_DAY_016_1_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]Sim, obrigado. Eu me senti[n]mal quando as memórias[n]começaram a vir à tona.[n][w][e]
 
-[msg MSG_HOMELESS_DAY_016_2_0 [Senzatetto]]
+[msg MSG_HOMELESS_DAY_016_2_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]Obrigado pelo pensamento, mas...[n]eu não mereço ser[n]tratado em um hospital.[n][w][e]
 
-[msg MSG_HOMELESS_DAY_016_3_0 [Senzatetto]]
+[msg MSG_HOMELESS_DAY_016_3_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0]Eu fiz coisas terríveis para[n]muitas pessoas por[n]pouco salário.[n][w][e]
 [s][vp 8 2 1 0 30 0]Os Phantom Thieves me salvaram?[n]Não pode ser. Eles são...[n][w][e]
 
-[msg MSG_HOMELESS_DAY_017_0_0 [Senzatetto]]
+[msg MSG_HOMELESS_DAY_017_0_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]Ei, há[n]algumas coisas no seu passado que...[n]gostaria que você pudesse apagar?[n][w][e]
 
 [sel SEL_HOMELESS_DAY_017_0_0 top]
@@ -3420,26 +3420,26 @@
 [s]Não.[e]
 [s]E você?[e]
 
-[msg MSG_HOMELESS_DAY_017_1_0 [Senzatetto]]
+[msg MSG_HOMELESS_DAY_017_1_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]Ainda há tempo.[n]Conserte essas coisas[n]de uma vez por todas.[n][w][e]
 
-[msg MSG_HOMELESS_DAY_017_2_0 [Senzatetto]]
+[msg MSG_HOMELESS_DAY_017_2_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]Eu vejo. Deixar. Mas no futuro[n]você pode entender que cometeu[n]erros ou se arrepender de algo.[n][w][e]
 
-[msg MSG_HOMELESS_DAY_017_3_0 [Senzatetto]]
+[msg MSG_HOMELESS_DAY_017_3_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]Sim, eu gostaria de poder esquecer certas coisas.[n]Eu pensei que os excluiu, mas eu estava errado.[n][w][e]
 
-[msg MSG_HOMELESS_DAY_017_4_0 [Senzatetto]]
+[msg MSG_HOMELESS_DAY_017_4_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0]Eu decidi enfrentar[n]meus crimes. Os Phantom Thieves[n]me salvaram.[n][w][e]
 [s][vp 8 2 1 0 30 0]É por isso que estou feliz[n]por eles estarem vivos.[n]A notícia me deixou feliz.[n][w][e]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]Você ainda é jovem. Viva[n]sua vida ao máximo, ou[n]você terá arrependimentos como eu.[n][w][e]
 
-[msg MSG_HOMELESS_DAY_018_0_0 [Senzatetto]]
+[msg MSG_HOMELESS_DAY_018_0_0 [Morador de rua]]
 [s][vp 8 2 1 0 65535 0]Ei, você não acha que há algo...[n]estranho nessa cidade?[n][w][e]
 [s][vp 8 2 1 0 65535 0]De repente, eles parecem[n]todos tão felizes.[n][w][e]
 [s][vp 8 2 1 0 65535 0]O que diabos está acontecendo?[n]É quase assustador...[n][w][e]
 
-[msg MSG_HOMELESS_DAY_019_0_0 [Senzatetto]]
+[msg MSG_HOMELESS_DAY_019_0_0 [Morador de rua]]
 [s][vp 8 2 1 0 65535 0]Superficialmente, não parece haver[n]nada de bom na[n]vida sem-teto.[n][w][e]
 [s][vp 8 2 1 0 65535 0]Mas a liberdade torna[n]muito divertido.[n][w][e]
 
@@ -3448,43 +3448,43 @@
 [s]O que acontece?[e]
 [s]Tem certeza?[e]
 
-[msg MSG_HOMELESS_DAY_019_1_0 [Senzatetto]]
+[msg MSG_HOMELESS_DAY_019_1_0 [Morador de rua]]
 [s][vp 8 2 1 0 65535 0]Não, não me lembro de nada.[n]Absolutamente nada do passado.[n][w][e]
 [s][vp 8 2 1 0 65535 0]Mas... o que aconteceu[n]no passado não importa,[n]certo? Hahaha...[n][w][e]
 
-[msg MSG_HOMELESS_DAY_019_2_0 [Senzatetto]]
+[msg MSG_HOMELESS_DAY_019_2_0 [Morador de rua]]
 [s][vp 8 2 1 0 65535 0]Eu gostaria de perguntar a você a mesma coisa.[n]Nós nos conhecemos?[n][w][e]
 [s][vp 8 2 1 0 65535 0]...Quero dizer, não me lembro de nada sobre[n]meu passado. Hahaha![n][w][e]
 
-[msg MSG_HOMELESS_DAY_019_3_0 [Senzatetto]]
+[msg MSG_HOMELESS_DAY_019_3_0 [Morador de rua]]
 [s][vp 8 2 1 0 65535 0]Sim, é bom não ter que se preocupar com nada. Não[n]me lembro do passado, mas é por isso que me[n]sinto livre![n][w][e]
 [s][vp 8 2 1 0 65535 0]É a demonstração de que para viver não é preciso[n]passado. Você concorda comigo? Hahaha![n][w][e]
 
-[msg MSG_HOMELESS_DAY_020_0_0 [Senzatetto]]
+[msg MSG_HOMELESS_DAY_020_0_0 [Morador de rua]]
 [s][vp 8 2 1 0 65535 0]Você não me parece feliz.[n][w][e]
 [s][vp 8 2 1 0 65535 0]Na cidade sempre encontro alguém[n]com essa expressão, vagando[n]num mar de gente feliz.[n][w][e]
 [s][vp 8 2 1 0 65535 0]Mas com o que[n]todos vocês estão se preocupando?[n][w][e]
 [s][vp 8 2 1 0 65535 0]Seria melhor se você esquecesse as[n]coisas negativas e vivesse como eu...[n][w][e]
 
-[msg MSG_HOMELESS_DAY_021_0_0 [Senzatetto]]
+[msg MSG_HOMELESS_DAY_021_0_0 [Morador de rua]]
 [s][vp 8 2 1 0 65535 0]As coisas estão mudando.[n]Estou um pouco triste com a ideia de[n]ir embora.[n][w][e]
 
 [sel SEL_HOMELESS_DAY_021_0_0 top]
 [s]Onde você irá?[e]
 [s]Espero ver-te de novo.[e]
 
-[msg MSG_HOMELESS_DAY_021_1_0 [Senzatetto]]
+[msg MSG_HOMELESS_DAY_021_1_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]Não posso expiar meus pecados pendurados por[n]aqui. Vou encontrar um emprego em um lugar[n]tranquilo.[n][w][e]
 
-[msg MSG_HOMELESS_DAY_021_2_0 [Senzatetto]]
+[msg MSG_HOMELESS_DAY_021_2_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]É bom ter alguém[n]se despedindo.[n]Obrigado. Significa muito para mim.[n][w][e]
 
-[msg MSG_HOMELESS_DAY_021_3_0 [Senzatetto]]
+[msg MSG_HOMELESS_DAY_021_3_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]Já que sou tão tolo, não sei se poderei expiar[n]meus pecados.[n][w][e]
 [s][vp 8 2 1 0 30 0]No entanto, continuarei a pensar em uma[n]maneira de fazer isso. Adeus, jovem.[n][w][e]
 [s][vp 8 2 1 0 30 0]Espero vê-lo novamente...[n]Se eu puder me tornar[n]uma pessoa respeitável.[n][w][e]
 
-[msg MSG_Q83_HINT_HOMELESS_00 [Senzatetto]]
+[msg MSG_Q83_HINT_HOMELESS_00 [Morador de rua]]
 [s][vp 1 0 0 0 0 0]Hum? Você precisa de algo?[n][w][e]
 [s][vp 1 0 0 0 0 0]Combinação de resultados para[n]apostas esportivas? Sim... Já ouvi falar.[n][w][e]
 [s][vp 8 2 1 0 65535 0]Parece que eles são administrados por[n]uma organização que frequentemente faz[n]negócios com máfias estrangeiras.[n][w][e]
@@ -3494,7 +3494,7 @@
 [s]Por exemplo?[e]
 [s]Ameaças?[e]
 
-[msg MSG_Q83_HINT_HOMELESS_02 [Senzatetto]]
+[msg MSG_Q83_HINT_HOMELESS_02 [Morador de rua]]
 [s][vp 1 0 0 0 0 0]Eles os ameaçam de morte em caso de derrota,[n]embora eu duvide que eles realmente os matem.[n][w][e]
 [s][vp 1 0 0 0 0 0]Como é uma partida fixa,[n]eles não podem ir à polícia.[n]Eles têm que seguir suas regras.[n][w][e]
 
@@ -3504,7 +3504,7 @@
 [msg MSG_CHK_Q83_HINT_HOMELES_2 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Parece que temos informações suficientes! Vamos[n]voltar ao esconderijo e falar sobre o plano![n][w][e]
 
-[msg MSG_BACKGROUND_EKIIN_001 [Funcionário da estação sério]]
+[msg MSG_BACKGROUND_EKIIN_001 [Oficial da estação serial]]
 [s][vp 8 2 1 0 17 0]Para a Linha Inogami, saia[n]no lado oposto[n]e continue.[n][w][e]
 [s][vp 8 2 1 0 17 0]Para as linhas JL e Ginza,[n]saia deste lado[n]e siga para a saída número 8.[n][w][e]
 

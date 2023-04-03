@@ -8,7 +8,7 @@
 [msg MSG_BLDGA1F_BLDGB1F_00 [Ryuji]]
 [s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 0 1 1 65535 0]Ei, deixe-me passar![n][w][e]
 
-[msg MSG_BLDGA1F_BLDGB1F_01 [Studente]]
+[msg MSG_BLDGA1F_BLDGB1F_01 [Estudante]]
 [s][vp 8 0 1 2 65535 0]Que diabos?!?[n][w][e]
 
 [msg MSG_BLDGA1F_BLDGB1F_02 [Ryuji]]

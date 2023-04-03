@@ -91,31 +91,31 @@
 [s]Volte para o mundo real[e]
 [s]Não saia ainda[e]
 
-[msg D01_EXIT_MES [Navigatore del Metaverso]]
+[msg D01_EXIT_MES [Navegador do Metaverso]]
 [s]Retorne ao mundo real do[n]Kamoshida Palace. Obrigado[n]pelo trabalho realizado.[n][w][e]
 
-[msg D02_EXIT_MES [Navigatore del Metaverso]]
+[msg D02_EXIT_MES [Navegador do Metaverso]]
 [s]Retorne ao mundo real do Palácio de[n]Madarame. Obrigado[n]pelo trabalho realizado.[n][w][e]
 
-[msg D03_EXIT_MES [Navigatore del Metaverso]]
+[msg D03_EXIT_MES [Navegador do Metaverso]]
 [s]Retorne ao mundo real do[n]Kaneshiro Palace. Obrigado[n]pelo trabalho realizado.[n][w][e]
 
-[msg D04_EXIT_MES [Navigatore del Metaverso]]
+[msg D04_EXIT_MES [Navegador do Metaverso]]
 [s]Retorne ao mundo real do[n]Futaba Palace. Obrigado[n]pelo trabalho realizado.[n][w][e]
 
-[msg D05_EXIT_MES [Navigatore del Metaverso]]
+[msg D05_EXIT_MES [Navegador do Metaverso]]
 [s]Retorne ao mundo real do[n]Okumura Palace. Obrigado[n]pelo trabalho realizado.[n][w][e]
 
-[msg D06_EXIT_MES [Navigatore del Metaverso]]
+[msg D06_EXIT_MES [Navegador do Metaverso]]
 [s]Retorne ao mundo real do[n]Niijima Palace. Obrigado[n]pelo trabalho realizado.[n][w][e]
 
-[msg D07_EXIT_MES [Navigatore del Metaverso]]
+[msg D07_EXIT_MES [Navegador do Metaverso]]
 [s]Retorne ao mundo real do[n]Shido Palace. Obrigado[n]pelo trabalho realizado.[n][w][e]
 
-[msg D08_EXIT_MES [Navigatore del Metaverso]]
+[msg D08_EXIT_MES [Navegador do Metaverso]]
 [s]De volta ao mundo real[n]dai Memento. Obrigado[n]pelo trabalho realizado.[n][w][e]
 
-[msg D10_EXIT_MES [Navigatore del Metaverso]]
+[msg D10_EXIT_MES [Navegador do Metaverso]]
 [s]Retorne ao mundo real do Palácio de[n]Maruki. Obrigado[n]pelo trabalho realizado.[n][w][e]
 
 [msg DUNGEON_ROUTE_COMP_PC03_ [Morgana]]

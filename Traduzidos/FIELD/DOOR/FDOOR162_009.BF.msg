@@ -10,10 +10,10 @@
 [msg FLD162_009_LookEnemy_02 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]...É melhor dar uma olhada.[n][w][e]
 
-[msg FLD162_009_LookEnemy_03 [Ombra con camice]]
+[msg FLD162_009_LookEnemy_03 [Sombra com camisa]]
 [s]Huh?!? Eu pensei ter sentido a presença de[n]alguém...[n][w][e]
 
-[msg FLD162_009_LookEnemy_04 [Ombra con camice]]
+[msg FLD162_009_LookEnemy_04 [Sombra com camisa]]
 [s]Talvez eu precise de uma pausa. Eu tenho ajudado[n]pacientes por uma eternidade. Certamente não é[n]bom para mim...[n][w][e]
 
 [msg FLD162_009_LookEnemy_05 [Yusuke]]

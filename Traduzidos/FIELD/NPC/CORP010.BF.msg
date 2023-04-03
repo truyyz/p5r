@@ -89,7 +89,7 @@
 [s]Sim.[e]
 [s]Não.[e]
 
-[msg MSG_C10_PRE_FACILITY_02 [Veggente cordiale]]
+[msg MSG_C10_PRE_FACILITY_02 [Vidente amigável]]
 [s][bup 0 113 1 65535 0][f 4 10 65535 0 0][f 4 23 1 210 14 10 13 10][vp 8 2 1 10003 210 0]Olá! Por favor sente-se.[n][w][e]
 
 [msg MSG_C10_PRE_FACILITY_03 [Morgana]]

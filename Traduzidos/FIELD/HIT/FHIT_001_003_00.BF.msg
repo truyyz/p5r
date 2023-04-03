@@ -217,21 +217,21 @@
 [msg MSG_Juice_HeatIsland [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1021 65535 0]...Esgotado.[n]Não é surpresa,[n]com o calor está...[n][w][e]
 
-[msg BOOKSTORE_NOTOPEN_TYPE01 [Personale]]
+[msg BOOKSTORE_NOTOPEN_TYPE01 [Pessoal]]
 [s]Entre funcionários de escritório e estudantes,[n]este lugar é[n]muito lotado.[n][w][e]
 [s]Melhor voltar quando estiver mais tranquilo...[n][w][e]
 
-[msg BOOKSTORE_NOTOPEN_TYPE02 [Cameriere]]
+[msg BOOKSTORE_NOTOPEN_TYPE02 [Garçom]]
 [s]Este lugar está lotado.[n]Há uma feira de livros para novos[n]recrutas e alunos do primeiro ano.[n][w][e]
 [s]Melhor voltar quando estiver mais tranquilo...[n][w][e]
 
-[msg BOOKSTORE_SELECT [Commesso della libreria]]
+[msg BOOKSTORE_SELECT [Funcionário da biblioteca]]
 [s]Bem-vindo. Os livros mais vendidos[n]estão deste lado.[n][w][e]
 
-[msg BOOKSTORE_THANKS [Commesso della libreria]]
+[msg BOOKSTORE_THANKS [Funcionário da biblioteca]]
 [s]Mil obrigados.[n][w][e]
 
-[msg BOOKSTORE_NOT_BUY [Commesso della libreria]]
+[msg BOOKSTORE_NOT_BUY [Funcionário da biblioteca]]
 [s]Volte para nos visitar.[n][w][e]
 
 [msg MSG_SYSTEM_SHORTCUT_CONV]
@@ -273,13 +273,13 @@
 [s]Aqui vendem-se não só[n]medicamentos, mas também detergentes[n]e outros produtos de uso diário.[n][w][e]
 [s]Eu irei quando[n]i precisar de algo...[n][w][e]
 
-[msg DrugStore_SELECT [Farmacista]]
+[msg DrugStore_SELECT [Farmacêutico]]
 [s]Bem-vindo. Você está procurando algo[n]em particular?[n][w][e]
 
-[msg DrugStore_THANKS [Farmacista]]
+[msg DrugStore_THANKS [Farmacêutico]]
 [s]Muito obrigado.[n]Volte para nos ver![n][w][e]
 
-[msg DrugStore_NOT_BUY [Farmacista]]
+[msg DrugStore_NOT_BUY [Farmacêutico]]
 [s]Volte para nos visitar![n][w][e]
 
 [msg MSG_DRUGSTORE_KAMOSHIDA_ [Morgana]]
@@ -415,18 +415,18 @@
 [msg MSG_M79_GYU_DON_001_00_0 [Morgana]]
 [s][vp 8 2 1 1167 65535 0][bup 0 3 0 0 0][f 4 10 65535 0 0]Ah, é ele?[n][w][e]
 
-[msg MSG_M79_GYU_DON_002_00_0 [Uomo timido]]
+[msg MSG_M79_GYU_DON_002_00_0 [Homem tímido]]
 [s][f 4 25 1 500 0 0]Aaah! M-Me desculpe![n][w][e]
 
 [sel SEL_M79_GYU_DON_003_00_0 top]
 [s]Eu tenho uma pergunta.[e]
 [s]Não, vamos esquecer.[e]
 
-[msg MSG_M79_GYU_DON_004_01_0 [Uomo timido]]
+[msg MSG_M79_GYU_DON_004_01_0 [Homem tímido]]
 [s][f 4 25 1 500 0 0]Ah... Não, tudo bem.[n][w][e]
 [s][f 4 25 1 65535 0 0]Hum, você poderia se mover?[n][w][e]
 
-[msg MSG_M79_GYU_DON_005_00_0 [Uomo timido]]
+[msg MSG_M79_GYU_DON_005_00_0 [Homem tímido]]
 [s][f 4 25 1 500 0 0]Q-Quem é você...? Eu já disse[n]ele para a polícia ...[n][w][e]
 [s][f 4 25 1 500 0 0]Normalmente, esta loja é administrada[n]por uma pessoa.[n]Você não vê nenhum outro funcionário...[n][w][e]
 [s][f 4 25 1 500 0 0]E mesmo que eu o veja de vez em quando, raramente[n]conversamos...[n][w][e]
@@ -435,31 +435,31 @@
 [s]Queremos provar a inocência dele.[e]
 [s]Diga-nos o que sabe, por favor.[e]
 
-[msg MSG_M79_GYU_DON_007_00_0 [Uomo timido]]
+[msg MSG_M79_GYU_DON_007_00_0 [Homem tímido]]
 [s][f 4 25 1 500 0 0]Ei, por acaso você é... amigo de Toji-kun?[n][w][e]
 [s][f 4 25 1 500 0 0]...Eu também acho que ele é inocente. Ele é um[n]menino animado e inteligente.[n][w][e]
 
-[msg MSG_M79_GYU_DON_008_00_0 [Uomo timido]]
+[msg MSG_M79_GYU_DON_008_00_0 [Homem tímido]]
 [s][f 4 25 1 500 0 0]Ele tem dois empregos de meio período.[n]Deve ser difícil para ele,[n]mas ele está sempre sorrindo...[n][w][e]
 
 [sel SEL_M79_GYU_DON_009_00_0 top]
 [s]Nada mais?[e]
 [s]Conte-nos mais.[e]
 
-[msg MSG_M79_GYU_DON_010_00_0 [Uomo timido]]
+[msg MSG_M79_GYU_DON_010_00_0 [Homem tímido]]
 [s][f 4 25 1 500 0 0]Oh...? Bem, eu não falava[n]frequentemente com ele...[n][w][e]
 [s][f 4 25 1 500 0 0]Ah, mas nós conversamos sobre seu sobrenome,[n]Karataki, e seu nome incomum.[n][w][e]
 [s][f 4 25 1 500 0 0]Ele disse que o sobrenome da família de seu[n]pai também é único...[n][w][e]
 [s][f 4 25 1 500 0 0]Acho que foi... Ushiwata?[n][w][e]
 
-[msg MSG_M79_GYU_DON_011_00_0 [Uomo timido]]
+[msg MSG_M79_GYU_DON_011_00_0 [Homem tímido]]
 [s][f 4 25 1 500 0 0]Conversamos sobre como[n]parecia um nome perfeito[n]para um Beef Bowl…[n][w][e]
 [s][f 4 25 1 500 0 0]Mas isso é tudo que eu sei...[n][w][e]
 
 [msg MSG_M79_GYU_DON_012_00_0 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1021 65535 0]Mmh, Toji Karataki...[n]Nós descobrimos o nome dele.[n][w][e]
 
-[msg MSG_M79_GYU_DON_013_00_0 [Uomo timido]]
+[msg MSG_M79_GYU_DON_013_00_0 [Homem tímido]]
 [s][f 4 25 1 500 0 0]Isso é tudo que sei, desculpe.[n]Posso ir agora...?[n][w][e]
 
 [msg MSG_E24330100_NG_GOTO_ST [Morgana]]

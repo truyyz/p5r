@@ -98,7 +98,7 @@
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Quando trocamos as luzes[n]temos que ter cuidado, ou[n]será ainda mais difícil avançar.[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Dê uma boa olhada antes de[n]decidir quais luzes[n]ligar ou desligar.[n][w][e]
 
-[msg D10_11_Light_Camera_Expl_2 [Gestire visuale con interruttori]]
+[msg D10_11_Light_Camera_Expl_2 [Gerenciar visualização com interruptores]]
 [s]Ao ajustar o brilho, pressione [f 1 10 31] para[n][clr 2]mudar a visualização[clr 27].[n][w][e]
 [s]Conforme você [clr 2]olha ao redor[clr 27], você[n]pode observar os interruptores ao seu redor[n]pressionando [f 1 10 47] ou [f 1 10 48].[n][w][e]
 
@@ -141,7 +141,7 @@
 [s][bup 0 6 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]As fitas parecem ficar cada vez mais novas.[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]O que nos espera desta vez...?[n][w][e]
 
-[msg D10_11_4th_passcode_lock [Voce meccanica]]
+[msg D10_11_4th_passcode_lock [Voz mecânica]]
 [s]Bloqueio de segurança ativo.[n]Responda à seguinte[n]pergunta de autenticação:[n][w][e]
 [s]O que aconteceu com Maruki no dia em que o céu[n]ficou vermelho?[n][w][e]
 
@@ -155,20 +155,20 @@
 [s]Ele desafiou o Deus do Controle.[e]
 [s]Sua Persona despertou totalmente.[e]
 
-[msg D10_11_4th_passcode_lock_4 [Voce meccanica]]
+[msg D10_11_4th_passcode_lock_4 [Voz mecânica]]
 [s]Resposta errada.[n]Dispositivo de bloqueio ativo.[n][w][e]
 
 [msg D10_11_4th_passcode_lock_5 [Haru]]
 [s][bup 0 7 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 3021 65535 0]Parece que não era o[n]certo. Vamos tentar de novo.[n][w][e]
 
-[msg D10_11_4th_passcode_lock_6 [Voce meccanica]]
+[msg D10_11_4th_passcode_lock_6 [Voz mecânica]]
 [s]Autenticação concluída.[n]Bloquear.[n][w][e]
 
 [msg D10_11_4th_passcode_lock_7 [Akechi]]
 [s][bup 0 9 800 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Está aberto.[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos continuar? O Tesouro está próximo.[n][w][e]
 
-[msg D10_11_4th_passcode_lock_8 [Voce meccanica]]
+[msg D10_11_4th_passcode_lock_8 [Voz mecânica]]
 [s]Bloqueio de segurança ativo.[n]Responda à seguinte[n]pergunta de autenticação:[n][w][e]
 [s]O que aconteceu com Maruki no dia em que o céu[n]ficou vermelho?[n][w][e]
 
@@ -196,7 +196,7 @@
 [msg D10_11_EX3BOSS_selA_2_01 [[f 4 31 10 0]]]
 [s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 57123 65535 0]OK, vamos encerrar por enquanto.[n][w][e]
 
-[msg D10_11_EX3BOSS_before_ba [Guardia Ombra]]
+[msg D10_11_EX3BOSS_before_ba [Guarda sombra]]
 [s]Umpf! Aqui estão os loucos que[n]recusaram a generosa[n]realidade de seu mestre...[n][w][e]
 [s]Você não dará mais nenhum passo. Volte se você[n]valoriza sua vida.[n][w][e]
 
@@ -246,7 +246,7 @@
 [msg D10_11_Boss03_Confirmati_4 [Futaba]]
 [s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9023 65535 0]OK! Que todos ocupem seus lugares antes de entrar![n][w][e]
 
-[msg D10_11_Boss03_mes_start [Guardia Ombra]]
+[msg D10_11_Boss03_mes_start [Guarda sombra]]
 [s]Vocês!? Não acredito que você[n]chegou tão longe![n][w][e]
 
 [msg D10_11_Boss03_mes_01 [Yusuke]]
@@ -255,7 +255,7 @@
 [msg D10_11_Boss03_mes_02 [[f 4 31 10 0]]]
 [s][bup 0 10 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Nós não vamos voltar.[n]Deixe-nos entrar![n][w][e]
 
-[msg D10_11_Boss03_mes_end [Guardia Ombra]]
+[msg D10_11_Boss03_mes_end [Guarda sombra]]
 [s]A hora da salvação está quase chegando.[n]Não vou deixar você interferir![n][w][e]
 
 [msg D10_11_This_is_Ishi_Rout [Haru]]
