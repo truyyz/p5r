@@ -1,5 +1,5 @@
 [msg MSG_060_030_00_01_01 [Lavenza]]
-[s][bup 0 100 4 0 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]É assim mesmo, Malandro![n][f 1 3 65535][w][e]
+[s][bup 0 100 4 0 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]Esse é o meu, Trapaceiro![n][f 1 3 65535][w][e]
 
 [msg MSG_060_030_00_02_01 [Lavenza]]
 [s][bup 0 100 1 0 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Eu estava certo em esperar grandes[n]coisas de você.[n][f 1 3 65535][w][e]
