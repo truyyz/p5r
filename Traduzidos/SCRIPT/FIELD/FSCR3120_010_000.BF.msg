@@ -254,7 +254,7 @@
 
 [msg MSG_KAWAKAMI_SPOT_ODAIBA [Kawakami]]
 [s][bup 0 109 0 65535 1]Ei, por que não vamos[n]a algum lugar juntos?[n][w][e]
-[s]Você certamente conhece alguns lugares legais[n]para namorar, certo?[n][w][e]
+[s]Você certamente conhece alguns lugares legais[n]para sair, certo?[n][w][e]
 
 [sel SEL_KAWAKAMI_SPOT_ODAIBA top]
 [s]Vamos para Odaiba.[e]

@@ -3,7 +3,7 @@
 [s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Não há sequer uma dica de um[n]dica sobre um novo Palácio.[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Ann]]
-[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Não podemos obter tudo da[n]rede... Encontrar uma postagem com um nome[n]e um local é esperar demais...[n][f 1 3 65535][w][e]
+[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Não podemos conseguir tudo online...[n]Encontrar uma postagem com um nome[n]e um local é esperar demais...[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Ryuji]]
 [s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]Então acho que teremos que[n]encontrar nós mesmos![n][f 1 3 65535][w][e]

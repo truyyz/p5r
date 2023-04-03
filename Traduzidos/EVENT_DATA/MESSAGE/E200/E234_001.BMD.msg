@@ -12,9 +12,9 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]O que você acha de Ann?[n]Como uma garota, quero dizer.[n][f 1 3 65535][w][e]
 
 [sel SEL_006_0_0 top]
-[s]É um slam dunk.[e]
-[s]Eu não saberia.[e]
-[s]É um ótimo item.[e]
+[s]Ela é de tirar o fôlego.[e]
+[s]Eu não tenho certeza.[e]
+[s]Ela é uma ótima colega de equipe.[e]
 
 [msg MSG_007_0_0 [Ryuji]]
 [s][bup 0 2 301 65535 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Oooh, você disse isso![n][f 1 3 65535][w][e]

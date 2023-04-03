@@ -209,10 +209,10 @@
 [s][f 0 4 128]Penalidades de estatísticas canceladas![n][e]
 
 [msg jyokyohelp_POWERCHARGE_P]
-[s][f 0 4 128][var 0]ele carrega![n][e]
+[s][f 0 4 128][var 0] carrega![n][e]
 
 [msg jyokyohelp_POWERCHARGE_E]
-[s][f 0 4 128][var 0]ele carrega![n][e]
+[s][f 0 4 128][var 0] carrega![n][e]
 
 [msg jyokyohelp_MINDCHARGE_PL]
 [s][f 0 4 128][var 0]foca![n][e]
@@ -782,13 +782,13 @@
 [s][f 0 4 128]O nariz do artista estremece...[n][e]
 
 [msg jyokyohelp_UNUSABLE_PERS]
-[s][f 0 4 128]Ele não se lembra de como usar Personas![n][e]
+[s][f 0 4 128] não se lembra de como usar Personas![n][e]
 
 [msg jyokyohelp_ALLCANCEL]
-[s][f 0 4 128]Ergue uma barreira contra ataques. físico![n][e]
+[s][f 0 4 128]Ergue uma barreira contra ataques físicos![n][e]
 
 [msg jyokyohelp_P_CHANGE]
-[s][f 0 4 128]Mudança de Pessoa.[n][e]
+[s][f 0 4 128]Mudança de Persona.[n][e]
 
 [msg jyokyohelp_OUT_AMMO]
 [s][f 0 4 128]Sem munição![n][e]
@@ -857,7 +857,7 @@
 [s][f 0 4 128]A aparência do Santo Graal mudou...![n][e]
 
 [msg jyokyohelp_BOSS_WAIT_1]
-[s][f 0 4 128][var 0]ele carrega...[n][e]
+[s][f 0 4 128][var 0] carrega...[n][e]
 
 [msg jyokyohelp_ENEMY_PRE_ESC]
 [s][f 0 4 128][var 0]pânico![n][e]
@@ -992,91 +992,91 @@
 [s][f 0 4 128]Obter máscara [clr 1][var 0][clr 27]![n][e]
 
 [msg jyokyohelp_TRELEASED_PAR]
-[s][f 0 4 128][var 0]seja livre...[n][e]
+[s][f 0 4 128][var 0] seja livre...[n][e]
 
 [msg jyokyohelp_SHIDO_GANKOH_]
 [s][f 0 4 128]A contagem de estoque de Shido aumentou![n][e]
 
 [msg jyokyohelp_DOUBLE_SUMMON]
-[s][f 0 4 128]Ele convocou [var 0]![n][e]
+[s][f 0 4 128] invocou [var 0]![n][e]
 
 [msg jyokyohelp_LOOK_AN]
-[s][f 0 4 128][var 0]Olha Ann...[n][e]
+[s][f 0 4 128][var 0] encara Ann...[n][e]
 
 [msg jyokyohelp_UMEKI]
-[s][f 0 4 128][var 0]gemidos...[n][e]
+[s][f 0 4 128][var 0] gemidos...[n][e]
 
 [msg jyokyohelp_HURUE]
-[s][f 0 4 128][var 0]ele está tremendo...[n][e]
+[s][f 0 4 128][var 0] está tremendo...[n][e]
 
 [msg jyokyohelp_NIYANIYA]
-[s][f 0 4 128][var 0]sorriso...[n][e]
+[s][f 0 4 128][var 0] sorri...[n][e]
 
 [msg jyokyohelp_YOUSUMI]
-[s][f 0 4 128][var 0]observar...[n][e]
+[s][f 0 4 128][var 0] observa...[n][e]
 
 [msg jyokyohelp_HATE_UP]
-[s][f 0 4 128][var 0]é ber. fácil![n][e]
+[s][f 0 4 128][var 0] é ber. fácil![n][e]
 
 [msg jyokyohelp_BULLET_ZERO]
-[s][f 0 4 128]Sem munição![n][e]
+[s][f 0 4 128] Sem munição![n][e]
 
 [msg jyokyohelp_ALL_WEAK]
-[s][f 0 4 128]Ele agora é fraco para todas as afinidades![n][e]
+[s][f 0 4 128] agora é fraco para todas as afinidades![n][e]
 
 [msg jyokyohelp_HATE_OVER]
-[s][f 0 4 128]Ele não é mais um alvo fácil...[n][e]
+[s][f 0 4 128] não é mais um alvo fácil...[n][e]
 
 [msg jyokyohelp_WARAI_TAIKI]
-[s][f 0 4 128][var 0]risos...[n][e]
+[s][f 0 4 128][var 0] risos...[n][e]
 
 [msg jyokyohelp_INOTIGOI]
-[s][f 0 4 128][var 0]fala...[n][e]
+[s][f 0 4 128][var 0] fala...[n][e]
 
 [msg jyokyohelp_OTAKARA_SKI]
-[s][f 0 4 128][var 0]tem obj. cru![n][e]
+[s][f 0 4 128][var 0] tem obj. cru![n][e]
 
 [msg jyokyohelp_USONAKI_ENEMY]
-[s][f 0 4 128][var 0]ele está hesitante![n][e]
+[s][f 0 4 128][var 0] ele está hesitante![n][e]
 
 [msg jyokyohelp_NOUSATSU_ENEM]
-[s][f 0 4 128]A moral do inimigo melhorou![n][e]
+[s][f 0 4 128] A moral do inimigo melhorou![n][e]
 
 [msg jyokyohelp_STRING]
-[s][f 0 4 128]ATK [var 0] cai muito![n][e]
+[s][f 0 4 128] ATK [var 0] cai muito![n][e]
 
 [msg jyokyohelp_AKECHI]
-[s][f 0 4 128]As Sombras estão furiosas...![n][e]
+[s][f 0 4 128] As Sombras estão furiosas...![n][e]
 
 [msg jyokyohelp_SKIMMING]
-[s][f 0 4 128]Item raro encontrado no inimigo![n][e]
+[s][f 0 4 128] Item raro encontrado no inimigo![n][e]
 
 [msg jyokyohelp_HACK]
-[s][f 0 4 128]A cognição mudou a seu favor![n][e]
+[s][f 0 4 128] A cognição mudou a seu favor![n][e]
 
 [msg jyokyohelp_TENKI_HIT_INF]
-[s][f 0 4 128]A gripe causa desespero![n][e]
+[s][f 0 4 128] A gripe causa desespero![n][e]
 
 [msg jyokyohelp_TENKI_HIT_TYP]
-[s][f 0 4 128]Maior suscetibilidade a alterações![n][e]
+[s][f 0 4 128] Maior suscetibilidade a alterações![n][e]
 
 [msg jyokyohelp_TENKI_HIT_HEA]
-[s][f 0 4 128]A onda de calor queima o inimigo![n][e]
+[s][f 0 4 128] A onda de calor queima o inimigo![n][e]
 
 [msg jyokyohelp_DUMMY_01]
-[s][f 0 4 128][var 0]Preparando-se...[n][e]
+[s][f 0 4 128][var 0] Preparando-se...[n][e]
 
 [msg jyokyohelp_DUMMY_02]
-[s][f 0 4 128][var 0]olhar fixamente![n][e]
+[s][f 0 4 128][var 0] olhar fixamente![n][e]
 
 [msg jyokyohelp_DUMMY_03]
-[s][f 0 4 128][var 0]mostra calma.[n][e]
+[s][f 0 4 128][var 0] mostra calma.[n][e]
 
 [msg jyokyohelp_BIGBODY]
-[s][f 0 4 128]HP não diminui![n][e]
+[s][f 0 4 128] HP não diminui![n][e]
 
 [msg jyokyohelp_BOTTOMLESS]
-[s][f 0 4 128]SP não diminui![n][e]
+[s][f 0 4 128] SP não diminui![n][e]
 
 [msg jyokyohelp_ANALYZE_SINGL]
 [s][f 0 4 128]Deb. [var 0] revelado![n][e]
@@ -1424,22 +1424,22 @@
 [s][f 0 4 128][var 0]ele carrega...[n][e]
 
 [msg jyokyohelp_ANUBIS_ONLY1]
-[s][f 0 4 128][var 0]na maldição.[n][e]
+[s][f 0 4 128][var 0] na maldição.[n][e]
 
 [msg jyokyohelp_ANUBIS_ONLY2]
-[s][f 0 4 128][var 0]no Santo.[n][e]
+[s][f 0 4 128][var 0] no Santo.[n][e]
 
 [msg jyokyohelp_ANUBIS_ONLY3]
-[s][f 0 4 128][var 0]em equilíbrio.[n][e]
+[s][f 0 4 128][var 0] em equilíbrio.[n][e]
 
 [msg jyokyohelp_BLACKU_1]
-[s][f 0 4 128][var 0]iniciar. distância automática[n][e]
+[s][f 0 4 128][var 0] iniciar. distância automática[n][e]
 
 [msg jyokyohelp_BLACKU_2]
-[s][f 0 4 128][var 0]não resiste.[n][e]
+[s][f 0 4 128][var 0] não resiste.[n][e]
 
 [msg jyokyohelp_BLACKU_3]
-[s][f 0 4 128][var 0]está explodindo![n][e]
+[s][f 0 4 128][var 0] está explodindo![n][e]
 
 [msg jyokyohelp_ADAMU_DMG_CUT]
 [s][f 0 4 128]Dano a Maruki bastante reduzido![n][e]
@@ -1766,10 +1766,10 @@
 [s][f 0 4 128]Bônus de prevenção estendido![n][e]
 
 [msg jyokyohelp_EXBOSS_02_FAK]
-[s][f 0 4 128][var 0]contemplar![n][e]
+[s][f 0 4 128][var 0] contemplar![n][e]
 
 [msg jyokyohelp_JIIKFLE_SENYO]
-[s][f 0 4 128][var 0]mudar expr.![n][e]
+[s][f 0 4 128][var 0] mudar expr.![n][e]
 
 [msg jyokyohelp_SPECIFIC_AZAT]
 [s][f 0 4 128]Dano bastante reduzido em [clr 1]Shield[n]Tentáculo[clr 27]![n][e]
