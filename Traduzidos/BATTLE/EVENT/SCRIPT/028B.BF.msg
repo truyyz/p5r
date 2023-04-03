@@ -4,13 +4,13 @@
 [msg MSG_BTLSTART_002 [Ann]]
 [s][bup 0 4 122 0 0][vp 8 0 2 1003 0 4][f 4 10 65535 0 0]Vamos, Carmen![n]Vamos mostrar a eles![n][f 1 3 65535][w][e]
 
-[msg MSG_BTLSTART_003 [Capitão da Guarda]]
+[msg MSG_BTLSTART_003 [Capitão da guarda]]
 [s][vp 8 0 2 1001 1 257]Como você ousa negar seu amor ao Rei Kamoshida,[n]donzela egoísta?!? Você pagará[n]por esta insolência com sua vida![n][f 1 3 65535][w][e]
 
-[msg MSG_BTLSTART_004 [Capitão da Guarda]]
+[msg MSG_BTLSTART_004 [Capitão da guarda]]
 [s]※カット[n][f 1 3 65535][w][e]
 
-[msg MSG_BTLSTART_005 [Capitão da Guarda]]
+[msg MSG_BTLSTART_005 [Capitão da guarda]]
 [s][vp 8 0 2 1006 1 257]E pensar...que uma mulher...[n]conseguiu desafiar[n]a vontade do Rei Kamoshida...[n][f 1 3 65535][w][e]
 
 [msg MSG_BTLSTART_006 [Ann]]

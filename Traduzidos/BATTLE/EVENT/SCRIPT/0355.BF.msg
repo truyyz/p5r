@@ -1,7 +1,7 @@
 [msg MSG_BTLSTART_001]
 [s]仮メッセージ[n][f 1 3 65535][w][e]
 
-[msg MSG_CINDERELLA_B01_ENTRY [Cenerentola]]
+[msg MSG_CINDERELLA_B01_ENTRY [Cinderela]]
 [s][vp 8 0 2 1001 1 490]Eu me recuso a voltar![n]Eu nunca mais serei um patético,[n]rejeito imundo de novo![n][f 1 3 65535][w][e]
 
 [msg MSG_CINDERELLA_B01_ENTRY_2 [Maruki]]

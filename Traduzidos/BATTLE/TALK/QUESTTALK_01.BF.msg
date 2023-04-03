@@ -1,25 +1,25 @@
-[msg TalkMsg_01 [Ombra di Fukurai]]
+[msg TalkMsg_01 [Sombra de Fukurai]]
 [s]Você consegue me ouvir?[n][w][e]
 
-[msg TalkMsg_02 [Ombra di Fukurai]]
+[msg TalkMsg_02 [Sombra de Fukurai]]
 [s]Ei, você está me ouvindo ou não?[n][w][e]
 
-[msg TalkMsg_03 [Ombra di Fukurai]]
+[msg TalkMsg_03 [Sombra de Fukurai]]
 [s]Por que eu iria te contar sobre isso?!?[n][w][e]
 
-[msg TalkMsg_04 [Ombra di Fukurai]]
+[msg TalkMsg_04 [Sombra de Fukurai]]
 [s]Oh? Você não prefere[n]falar sobre algo[n]que pode ser mais útil para você?[n][w][e]
 
-[msg TalkMsg_05 [Ombra di Fukurai]]
+[msg TalkMsg_05 [Sombra de Fukurai]]
 [s]O Tesouro...?[n][w][e]
 
-[msg TalkMsg_06 [Ombra di Fukurai]]
+[msg TalkMsg_06 [Sombra de Fukurai]]
 [s]É o mesmo![n][w][e]
 
-[msg TalkMsg_07 [Ombra di Fukurai]]
+[msg TalkMsg_07 [Sombra de Fukurai]]
 [s]Espere! Eu te imploro![n][w][e]
 
-[msg TalkMsg_08 [Ombra di Fukurai]]
+[msg TalkMsg_08 [Sombra de Fukurai]]
 [s]Ei, você vai dizer alguma coisa?[n][w][e]
 
 [sel TalkSel_01 top]

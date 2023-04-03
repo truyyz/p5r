@@ -1,7 +1,7 @@
-[msg MSG_BTLSTART01_000_000 [La bestia del palazzo]]
+[msg MSG_BTLSTART01_000_000 [A fera do palácio]]
 [s][vp 8 0 2 1001 1 218]Não se aproxime do túmulo do faraó![n][f 1 3 65535][w][e]
 
-[msg MSG_BTLSTART01_010_000 [La bestia del palazzo]]
+[msg MSG_BTLSTART01_010_000 [A fera do palácio]]
 [s][vp 8 0 2 1002 1 218]O infortúnio cairá sobre você![n][f 1 3 65535][w][e]
 
 [msg MSG_BTLSTART01_020_001 [Morgana]]
@@ -44,10 +44,10 @@
 [msg MSG_BTLFLY04_020_001 [Morgana]]
 [s][bup 0 3 5 65535 0][f 4 10 65535 0 0][vp 8 0 2 1015 0 3]Não consigo evitar![n]Há coisas que também não[n]posso fazer![n][f 1 3 65535][w][e]
 
-[msg MSG_BTLSTART01_000_000EX [La bestia del palazzo]]
+[msg MSG_BTLSTART01_000_000EX [A fera do palácio]]
 [s][vp 8 0 2 1001 1 218]Não se aproxime do túmulo do faraó![n][f 1 3 65535][w][e]
 
-[msg MSG_BTLSTART01_010_000EX [La bestia del palazzo]]
+[msg MSG_BTLSTART01_010_000EX [A fera do palácio]]
 [s][vp 8 0 2 1002 1 218]O infortúnio cairá sobre você![n][f 1 3 65535][w][e]
 
 [msg MSG_BTLSTART01_020_001EX [Morgana]]
