@@ -581,7 +581,7 @@
 [s][vp 8 0 0 0 65535 0]Minha filha é solteira, mas meu marido é muito[n]rígido. Ela fica com raiva assim que um menino[n]se aproxima dela.[n][f 1 3 65535][w][e]
 
 [msg MSG_177_0_0 [Mulher tímida em traje de banho]]
-[s][vp 8 0 0 0 65535 0]È colpa di papà se non ho[n]un ragazzo. Hanno tutti paura[n]della sua cintura nera 8° dan...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]É culpa do papai eu não ter namorado. Eles estão todos com medo[n]de sua faixa preta 8º dan…[n][f 1 3 65535][w][e]
 
 [msg MSG_178_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sério...?[n][f 1 3 65535][w][e]

@@ -23,7 +23,7 @@
 
 [msg MSG_004_0_0 [Futaba]]
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 9199 65535 0][f 5 13 10 10 8]E então você descobriu...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Se isso o deixar confortável,[n]concederei a você o privilégio de[n]continuar a namorar comigo.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Se isso o deixar confortável,[n]concederei a você o privilégio de[n]continuar a sair comigo.[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Futaba]]
 [s][bup 0 8 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Oooh! Olha esses trens![n][f 1 3 65535][w][e]

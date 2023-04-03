@@ -186,7 +186,7 @@
 [s][bup 0 10 700 0 0][f 4 10 65535 0 0][vp 8 0 0 57 65535 0][f 5 13 33 5 10]Hehehe... você é um verdadeiro cavalheiro.[n][f 1 3 65535][w][e]
 
 [msg MSG_045_5_0 [Sumire]]
-[s][bup 0 10 700 0 0][f 4 10 65535 0 0][vp 8 0 0 58 65535 0]Perdoe-me por repetir ad[n]áusea, mas sinto que devo dizer...[n][f 1 3 65535][w][e]
+[s][bup 0 10 700 0 0][f 4 10 65535 0 0][vp 8 0 0 58 65535 0]Perdoe-me por repetir, [n]mas sinto que devo dizer...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 59 65535 0]Estou tão feliz por ter conhecido você, [n][f 4 2]-senpai.[n][f 1 3 65535][w][e]
 
 [msg MSG_045_7_0 [Sumire]]

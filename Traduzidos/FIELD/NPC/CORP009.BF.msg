@@ -386,7 +386,7 @@
 
 [msg MSG_COOP_CHECK_SHIDOU [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ninguém pensa que você está vivo.[n]Se você for cuidadoso,[n]tudo ficará bem.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]O que você quer fazer? Você vai namorar[n]futaba?[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]O que você quer fazer? Você vai sair com[n]futaba?[n][w][e]
 
 [sel SEL_COOP_CHECK top]
 [s]sair com ela[e]

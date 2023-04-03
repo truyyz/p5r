@@ -1,6 +1,6 @@
 [msg MND_000_0_0]
 [s][vp 8 0 0 0 65535 0]Todos os camaradas que vi hoje[n]parecem felizes...[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]Amanhã devo ir aos outros...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Amanhã devo ir ver os outros...[n][f 1 3 65535][w][e]
 
 [msg MND_001_0_0]
 [s][vp 8 0 0 0 65535 0]Ryuji parecia genuinamente feliz[n]por poder correr com[n]o resto da equipe de atletismo...[n][f 1 3 65535][w][e]

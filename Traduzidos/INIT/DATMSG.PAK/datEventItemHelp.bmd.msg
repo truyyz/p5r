@@ -143,10 +143,10 @@
 [s]não usado[n][e]
 
 [msg Item_030]
-[s]Permite fundir[n]Frost Black.[n][e]
+[s]Permite fundir[n]Black Frost.[n][e]
 
 [msg Item_031]
-[s]Permite fundir[n]Babau.[n][e]
+[s]Permite fundir[n]Bugs.[n][e]
 
 [msg Item_032]
 [s]Um marcador de página dupla[n]usado por Justine.[n][e]
@@ -155,46 +155,46 @@
 [s]não usado[n][e]
 
 [msg Item_034]
-[s]Símbolo do Amor de Kawakami.[n]Aproxime-se se você tiver uma[n]Pessoa do mesmo Arcano.[n][e]
+[s]Símbolo do Amor de Kawakami.[n]Fique mais íntimo se você tiver uma[n]Persona de mesma Arcana.[n][e]
 
 [msg Item_035]
-[s]Promessa de amor de Takemi.[n]Aproxime-se se você tiver uma[n]Pessoa do mesmo Arcano.[n][e]
+[s]Promessa de amor de Takemi.[n]Fique mais íntimo se você tiver uma[n]Persona de mesma Arcana.[n][e]
 
 [msg Item_036]
-[s]Promessa de amor de Chihaya.[n]Aproxime-se se você tiver uma[n]Pessoa do mesmo Arcano.[n][e]
+[s]Promessa de amor de Chihaya.[n]Fique mais íntimo se você tiver uma[n]Persona de mesma Arcana.[n][e]
 
 [msg Item_037]
-[s]A promessa de amor de Ohya.[n]Aproxime-se se você tiver uma[n]Pessoa do mesmo Arcano.[n][e]
+[s]A promessa de amor de Ohya.[n]Fique mais íntimo se você tiver uma[n]Persona de mesma Arcana.[n][e]
 
 [msg Item_038]
-[s]Juramento de Amor de Hifumi.[n]Aproxime-se se você tiver uma[n]Pessoa do mesmo Arcano.[n][e]
+[s]Juramento de Amor de Hifumi.[n]Fique mais íntimo se você tiver uma[n]Persona de mesma Arcana.[n][e]
 
 [msg Item_039]
-[s]A promessa de amor de Makoto.[n]Aproxime-se se você tiver uma[n]Pessoa do mesmo Arcano.[n][e]
+[s]A promessa de amor de Makoto.[n]Fique mais íntimo se você tiver uma[n]Persona de mesma Arcana.[n][e]
 
 [msg Item_03A]
-[s]A promessa de amor de Haru.[n]Aproxime-se se você tiver uma[n]Pessoa do mesmo Arcano.[n][e]
+[s]A promessa de amor de Haru.[n]Fique mais íntimo se você tiver uma[n]Persona de mesma Arcana.[n][e]
 
 [msg Item_03B]
-[s]A promessa de amor de Ann.[n]Aproxime-se se você tiver uma[n]Pessoa do mesmo Arcano.[n][e]
+[s]A promessa de amor de Ann.[n]Fique mais íntimo se você tiver uma[n]Persona de mesma Arcana.[n][e]
 
 [msg Item_03C]
-[s]A promessa de amor de Futaba.[n]Aproxime-se se você tiver uma[n]Pessoa do mesmo Arcano.[n][e]
+[s]A promessa de amor de Futaba.[n]Fique mais íntimo se você tiver uma[n]Persona de mesma Arcana.[n][e]
 
 [msg Item_03D]
 [s]VAZIO[n][e]
 
 [msg Item_03E]
-[s]Calculadora de Makoto.[n]Fatoração de sombra[n]desbloqueada.[n][e]
+[s]Calculadora de Makoto.[n]Fatoração de Sombra[n]desbloqueada.[n][e]
 
 [msg Item_03F]
-[s]Pintado pelo próprio Haru.[n]Melhoria do Solo[n]desbloqueado.[n][e]
+[s]Pintado pela própria Haru.[n]Melhoria do Solo[n]desbloqueado.[n][e]
 
 [msg Item_040]
-[s]Há Ann na capa. Técnica[n]sexy[f 1 9 0] e Lágrimas de[n]crocodilo desbloqueadas.[n][e]
+[s]Há Ann na capa. Técnica[n]Sexy[f 1 9 0] e Lágrimas de[n]Crocodilo desbloqueadas.[n][e]
 
 [msg Item_041]
-[s]Promessas de Futaba. Reinicialize[n]aureo e Scan Memento[n]desbloqueado.[n][e]
+[s]Promessas de Futaba. Reinicializar[n]Tesouros e Scan de Mementos[n]desbloqueado.[n][e]
 
 [msg Item_042]
 [s][n]Cupom exclusivo Kawakami. Massagem[n]especial desbloqueada.[n][e]
@@ -203,7 +203,7 @@
 [s]A gravura é de Takemi.[n]Permite o acesso a[n]itens vendidos na clínica.[n][e]
 
 [msg Item_044]
-[s]Extraído de Chihaya.[n]Algumas previsões desbloqueadas.[n][e]
+[s]Divinado de Chihaya.[n]Algumas previsões desbloqueadas.[n][e]
 
 [msg Item_045]
 [s]Notas pessoais de Ohya.[n]Todos os furos desbloqueados.[n][e]
@@ -212,10 +212,10 @@
 [s]A peça favorita de Hifumi.[n]Touryou desbloqueado.[n][e]
 
 [msg Item_047]
-[s]O mesmo que Ryuji.[n]Ryuji's Regenerative Harisen[n]e Sneak Dash desbloqueado.[n][e]
+[s]O mesmo de Ryuji.[n]Recuperação Harisen de Ryuji[n]e Dash Furtivo desbloqueado.[n][e]
 
 [msg Item_048]
-[s]O cachecol usado por Morgana.[n]Robing desbloqueado.[n][e]
+[s]O cachecol usado por Morgana.[n]Roubar desbloqueado.[n][e]
 
 [msg Item_049]
 [s]A receita preciosa de Sojiro.[n]Sempre faça o melhor café[n]e curry.[n][e]
@@ -239,13 +239,13 @@
 [s]Controlador de Shinya.[n]Todas as técnicas de pistola[n]desbloqueadas.[n][e]
 
 [msg Item_050]
-[s]Diz o número de Sae.[n]Diz "advogado" em vez[n]de "promotor".[n][e]
+[s]Diz o número de Sae.[n]Diz "advogada" em vez[n]de "promotora".[n][e]
 
 [msg Item_051]
 [s]Luvas usadas por Akechi.[n]Permite que você veja[n]propriedades inimigas.[n][e]
 
 [msg Item_052]
-[s]Um clube de Sumire.[n]Exalta a graça dos[n]movimentos.[n][e]
+[s]Bastão de Sumire.[n]Exalta a graça dos[n]movimentos.[n][e]
 
 [msg Item_053]
 [s]Caderno contendo as[n]notas de pesquisa de Maruki.[n]Para melhorar a si mesmo.[n][e]
@@ -308,7 +308,7 @@
 [s]Um mapa antigo mostrando a planta do Castelo Velho.[n][e]
 
 [msg Item_067]
-[s]Um mapa antigo mostrando a planta da torre.[n][e]
+[s]Um mapa antigo mostrando a planta da Torre.[n][e]
 
 [msg Item_068]
 [s]VAZIO[n][e]
@@ -362,22 +362,22 @@
 [s]Ele diz o seguinte:[n]R = C = 0, I = 1, H = 2[n][e]
 
 [msg Item_079]
-[s]Encontrado no Vault. P = eu[n][e]
+[s]Encontrado no Cofre. P = I[n][e]
 
 [msg Item_07A]
-[s]Encontrado no Vault. E = 9, A = 3[n][e]
+[s]Encontrado no Cofre. E = 9, A = 3[n][e]
 
 [msg Item_07B]
-[s]Encontrado no Vault. U = A[n][e]
+[s]Encontrado no Cofre. U = A[n][e]
 
 [msg Item_07C]
-[s]Encontrado no Vault. G = P[n][e]
+[s]Encontrado no Cofre. G = P[n][e]
 
 [msg Item_07D]
-[s]Encontrado no Vault. O + H = 10[n][e]
+[s]Encontrado no Cofre. O + H = 10[n][e]
 
 [msg Item_07E]
-[s]Encontrado no Vault.[n]L = U + G, D = G[n][e]
+[s]Encontrado no Cofre.[n]L = U + G, D = G[n][e]
 
 [msg Item_07F]
 [s]Uma gema de aura escura[n]encontrada na Pirâmide.[n][e]
@@ -398,7 +398,7 @@
 [s]Um monte de cartas que você[n]roubou dos bandidos[n]na cidade deserta.[n][e]
 
 [msg Item_085]
-[s]Um mapa de cada andar do[n]Futaba Palace.[n][e]
+[s]Um mapa de cada andar do[n]Palácio de Futaba.[n][e]
 
 [msg Item_086]
 [s]Um mapa parcial do[n]Palácio de Niijima.[n][e]
@@ -425,10 +425,10 @@
 [s]O crachá corporativo de um[n] Diretor-Chefe.[n][e]
 
 [msg Item_08E]
-[s]A brochura do museu.[n]Vista da entrada[n]para o jardim central.[n][e]
+[s]O panfleto do museu.[n]Mostra a entrada[n]para o Jardim Central.[n][e]
 
 [msg Item_08F]
-[s]A brochura do museu.[n]Mostra o que se encontra a partir do[n]jardim central.[n][e]
+[s]O panfleto do museu.[n]Mostra o que se encontra a partir do[n]Jardim Central.[n][e]
 
 [msg Item_090]
 [s]Mapa do Palácio de Kaneshiro.[n]Mostra o andar térreo[n]e os andares inferiores.[n][e]
@@ -653,7 +653,7 @@
 [s]Um livro de José para[n]colecionar selos.[n][e]
 
 [msg Item_0DA]
-[s]CD:[n]"He's a Trickster☆"[n][e]
+[s]CD:[n]"Ele é um Trapaceiro☆"[n][e]
 
 [msg Item_0DB]
 [s]Uma chave simples[n]solta.[n][e]
@@ -668,7 +668,7 @@
 [s]Uma tigela de água[n]feita por José para[n]cultivar flores.[n][e]
 
 [msg Item_0DF]
-[s]Um documento que permite[n] convocar uma Pessoa[n] gratuitamente.[n][e]
+[s]Um documento que permite[n] convocar uma Persona[n] gratuitamente.[n][e]
 
 [msg Item_0E0]
 [s]Um bilhete que permite jogar dardos gratuitamente.[n][e]

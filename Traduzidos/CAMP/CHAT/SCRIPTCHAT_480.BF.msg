@@ -39,7 +39,7 @@
 [s][f 5 14]Até lá,[n]os treinos estão suspensos.[n]Conto com você![n][f 5 15][w][e]
 
 [msg MSG_5R_TICKET_6521 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1035 65535 0]Parece que não vamos namorar Ryuji[n]por um tempo. Suponho que[n]você precisará ser paciente.[n][f 5 15][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1035 65535 0]Parece que não vamos sair com Ryuji[n]por um tempo. Suponho que[n]você precisará ser paciente.[n][f 5 15][f 1 3 65535][w][e]
 
 [msg ERROR_MSG_000_0_0 [Sojiro]]
 [s][bup 0 103 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ei, estou abrindo uma loja.[n]Você se importaria de parar[n]de jogar no seu telefone?[n][w][e]

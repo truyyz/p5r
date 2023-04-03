@@ -34,9 +34,9 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Qual era o significado original dessa[n]frase? Como você se sente sobre[n]seu país?[n][f 1 3 65535][w][e]
 
 [sel THINK_1_SEL_05 top]
-[s]Suporte a qualquer custo.[e]
-[s]Suspeitar é mau.[e]
-[s]Não se preocupe com isso.[e]
+[s]Apoio a qualquer custo.[e]
+[s]Suspeita que ele é mau.[e]
+[s]Você não liga pra ele.[e]
 
 [msg THINK_1A_05 [Morgana]]
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Exatamente.[n][f 1 3 65535][w][e]
@@ -44,15 +44,15 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas a citação original tem um significado[n]diferente, certo? Então[n]deve soar como...[n][f 1 3 65535][w][e]
 
 [msg THINK_1B_05 [Morgana]]
-[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]A sério? Não, acho que não[n]este é o caso...[n][f 1 3 65535][w][e]
+[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ah, sério? Eu não acho que[n]isso esteja certo...[n][f 1 3 65535][w][e]
 
 [msg THINK_1C_05 [Morgana]]
-[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]A sério? Não, acho que não[n]este é o caso...[n][f 1 3 65535][w][e]
+[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ah, sério? Eu não acho que[n]isso esteja certo...[n][n][f 1 3 65535][w][e]
 
 [sel THINK_2_SEL_05 top]
-[s]Deixe o país.[e]
-[s]Vacile na lealdade.[e]
-[s]Admita sua corrupção.[e]
+[s]Abandonar o país.[e]
+[s]Ser inseguro quanto a lealdade.[e]
+[s]Reconheça sua corrupção.[e]
 
 [msg THINK_2A_05 [Morgana]]
 [s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você diz?[n]Vamos pensar melhor sobre isso.[n][f 1 3 65535][w][e]
@@ -142,7 +142,7 @@
 [s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não... não acho bom. Acho que tinha a ver com[n]repetir alguma coisa...[n][f 1 3 65535][w][e]
 
 [msg THINK_1C_0523_04 [Morgana]]
-[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Exatamente! "Pecado" significa "juntos".[n][f 1 3 65535][w][e]
+[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Exatamente! "Syn" significa "juntos".[n][f 1 3 65535][w][e]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Enquanto "aisthesis"? Hm.[n]É semelhante à palavra "estética".[n]Eu me pergunto se significa...[n][f 1 3 65535][w][e]
 
 [sel THINK_2_SEL_0523_05 top]

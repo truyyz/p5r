@@ -32,7 +32,7 @@
 
 [msg MSG_009_0_0 [Takemi]]
 [s][bup 0 108 500 65535 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Você se acostumou com o[n]mundo real de novo, não é?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]O período no reformatório não é[n]desculpável com relatório[n]ex post facto, sabe?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]O período no reformatório não é[n]desculpável com um relatório,[n]sabe?[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Takemi]]
 [s][bup 0 108 500 65535 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Enfim, você sabe[n]por que estou aqui?[n][f 1 3 65535][w][e]
