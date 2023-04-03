@@ -26,7 +26,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Só você deveria ter esse poder.[n]Se mais alguém[n]descobrisse, seria ruim.[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Akechi]]
-[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]...Wakaba Isshiki, certo? Aquele[n]pesquisador. Ela não teria morrido se[n]tivesse apenas cooperado.[n][f 1 3 65535][w][e]
+[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]...Wakaba Isshiki, certo? Aquela[n]pesquisadora. Ela não teria morrido se[n]tivesse apenas cooperado.[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Shido]]
 [s][bup 0 206 0 0 0][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Qualquer suspeita deve ser abafada. Mesmo a menor[n]dúvida deve ser erradicada.[n][f 1 3 65535][w][e]
@@ -69,7 +69,7 @@
 [s][bup 0 206 1 0 0][f 4 10 65535 0 0][vp 8 0 0 30 65535 0]Mas, uma vez que investigamos, nós[n]encontramos apenas um bando de pirralhos.[n]Nós apenas os culpamos.[n][f 1 3 65535][w][e]
 
 [msg MSG_030_0_0 [Akechi]]
-[s][bup 0 9 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 31 65535 0]Quando ela me contou, foi quando eu soube que ela[n]era o homem certo.[n][f 1 3 65535][w][e]
+[s][bup 0 9 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 31 65535 0]Quando ela me contou, foi quando eu soube que ele[n]era o homem certo.[n][f 1 3 65535][w][e]
 
 [msg MSG_031_0_0 [Shido]]
 [s][bup 0 206 0 0 0][f 4 10 65535 0 0][vp 8 0 0 32 65535 0]A popularidade deles me abalou um pouco, mas[n]virar isso contra eles fortaleceu a imprensa[n]hostil.[n][f 1 3 65535][w][e]

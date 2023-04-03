@@ -1183,7 +1183,7 @@
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]De agora em diante, sinta-se à vontade[n]para me tratar como se eu fosse seu[n]namorado. Espero que nos demos bem.[n][f 1 3 65535][w][e]
 
 [msg MSG_360_0_0 [Ragazza affascinante in costume]]
-[s][vp 8 0 0 0 65535 0]F-Namorado?!?[n]E quando isso aconteceria?!?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]N-Namorado?!?[n]E quando isso aconteceria?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_361_0_0 [Ragazza straniera in costume]]
 [s][vp 8 0 0 0 65535 0]Hahaha, bem direto.[n]Eu gosto de caras[n]que tomam a iniciativa![n][f 1 3 65535][w][e]

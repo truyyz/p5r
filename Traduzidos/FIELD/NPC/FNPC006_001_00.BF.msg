@@ -367,7 +367,7 @@
 [s][f 4 23 1 7 3 10 0 10][vp 8 2 1 0 7 0]Sinto muito, mas seu filho está em[n]estado muito precário e[n]ele pode precisar de outra operação.[n][w][e]
 
 [msg MSG_GYAKUSAGI_005_2_0 [Anziano gentile]]
-[s][f 4 23 1 5 3 10 0 10][vp 8 2 1 0 5 0]S-Ele realmente se machucou tanto?[n]Não são 3 milhões de ienes[n]que eu te dei outro dia o suficiente?[n][w][e]
+[s][f 4 23 1 5 3 10 0 10][vp 8 2 1 0 5 0]E-Ele realmente se machucou tanto?[n]Não são 3 milhões de ienes[n]que eu te dei outro dia o suficiente?[n][w][e]
 
 [msg MSG_GYAKUSAGI_005_3_0 [Ragazzo disinvolto]]
 [s][f 4 23 1 7 3 10 0 10][vp 8 2 1 0 7 0]Na realidade... Dada a dificuldade[n]da operação, ele vai precisar[n]de mais 5 milhões...[n][w][e]

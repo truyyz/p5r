@@ -177,7 +177,7 @@
 [msg MSG_043_0_0 [Sumire]]
 [s][bup 0 10 907 2 0][f 4 10 65535 0 0][vp 8 2 0 57065 65535 0]Mas o que...?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E-Eu... você também me ama?!?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Oh. Huh? Q-Então... isso significa[n]que meus sentimentos são[n]retribuídos?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Oh. Huh? E-Então... isso significa[n]que meus sentimentos são[n]retribuídos?[n][f 1 3 65535][w][e]
 
 [msg MSG_044_0_0 [Sumire]]
 [s][bup 0 10 907 2 0][f 4 10 65535 0 0][vp 8 2 0 57097 65535 0]Então, hum... O-o que vai acontecer agora?[n][f 1 3 65535][w][e]

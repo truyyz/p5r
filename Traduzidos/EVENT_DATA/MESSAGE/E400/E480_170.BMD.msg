@@ -38,7 +38,7 @@
 [s][bup 0 4 100 0 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Então, o que fazemos com isso?[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Nós aceitamos.[n][f 1 3 65535][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Vamos pegar.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Não será tão valioso quanto um Tesouro,[n]mas ainda é bastante raro.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Tomar posse dele só pode[n]vir a calhar... eu acho.[n][f 1 3 65535][w][e]
 
@@ -46,11 +46,11 @@
 [s][bup 0 4 104 0 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Uhm, temos certeza de que é[n]apropriado fazer isso?[n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Ryuji]]
-[s][bup 0 2 100 0 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]É melhor que nada[n]mau aconteça conosco... como ficar preso[n]ou ser amaldiçoado.[n][f 1 3 65535][w][e]
+[s][bup 0 2 100 0 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]É melhor nada de merda acontecer quando[n]você pega, como alguma armadilha acontecendo,[n]ou todos nós acabamos amaldiçoados...[n][f 1 3 65535][w][e]
 
 [sel SEL_015_0_0 top]
-[s]Eu tentei.[e]
-[s]Temos que conseguir.[e]
+[s]Vou tentar de qualquer maneira.[e]
+[s]Acho que devemos tentar.[e]
 
 [msg MSG_016_0_0 [Morgana]]
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]Bom! A Semente da Luxúria é[n]nossa![n][f 1 3 65535][w][e]
@@ -59,11 +59,11 @@
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Não aconteceu nada, certo?[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Morgana]]
-[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Deve haver mais aqui[n]por aí...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Tanto quanto eu posso dizer,[n]dois estão faltando.[n][f 1 3 65535][w][e]
+[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Há mais desses por aqui[n]em algum lugar...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Até onde posso dizer,[n]restam dois deles.[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Ryuji]]
-[s][bup 0 2 100 0 0][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]Huh? Como você sabe? Você[n]sente isso ou algo assim?[n][f 1 3 65535][w][e]
+[s][bup 0 2 100 0 0][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]Huh? Como você sabe? Você sente o cheiro[n]deles ou algo assim?[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Ann]]
 [s][bup 0 4 104 0 0][f 4 10 65535 0 0][vp 8 0 0 26 65535 0]Sim, como aqueles cachorros que podem...[n][f 1 3 65535][w][e]

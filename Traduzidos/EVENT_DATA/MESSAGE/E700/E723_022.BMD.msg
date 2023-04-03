@@ -69,7 +69,7 @@
 [s][bup 0 216 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 36 5 100]Gostaria de salientar... que é realmente[n]notável. Mesmo entre os adultos, há[n]poucos que conseguem.[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Maruki]]
-[s][bup 0 216 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Como dizer... você sabe que todos nós temos uma[n]realidade interior? Um ideal de nós ós mesmos ao[n]qual aspiramos?[n][f 1 3 65535][w][e]
+[s][bup 0 216 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Como dizer... Você sabe como todo mundo tem uma[n]realidade interna? Eles estão lutando por[n]alguma concepção de si mesmos?[n][f 1 3 65535][w][e]
 [s][bup 0 216 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 57511 65535 0][f 4 24 0 4 0 36 5 100]Como ser um excelente aluno, ou[n]ser amado e valorizado...[n]Esse tipo de coisa.[n][f 1 3 65535][w][e]
 
 [msg MSG_020_5_0 [Maruki]]

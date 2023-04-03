@@ -36,7 +36,7 @@
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Sair para passear foi...[n]muito divertido.[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Futaba]]
-[s][bup 0 8 7 65535 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Q-Então... eu não posso ajudar[n]uh, hum, e-estar perto de você...[n][f 1 3 65535][w][e]
+[s][bup 0 8 7 65535 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]E-Então... eu não posso ajudar[n]uh, hum, e-estar perto de você...[n][f 1 3 65535][w][e]
 
 [sel SEL_010_0_0 top]
 [s]Eu sei isso.[e]
@@ -186,7 +186,7 @@
 [s][f 4 7 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 8 10 300 1][vp 8 0 0 66 65535 0]Eu nunca disse que[n]desistiria da recompensa![n][f 1 3 65535][w][e]
 
 [msg MSG_045_0_0 [Futaba]]
-[s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 67 65535 0]Q-Então... ao invés de treinar[n]ficar longe de você...[n][f 1 3 65535][w][e]
+[s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 67 65535 0]E-Então... ao invés de treinar[n]ficar longe de você...[n][f 1 3 65535][w][e]
 [s][bup 0 8 6 65535 0][f 4 10 65535 0 0][vp 8 0 0 68 65535 0]...Eu quero ter o direito[n]de nunca deixar você.[n][f 1 3 65535][w][e]
 
 [msg MSG_046_0_0 [Futaba]]

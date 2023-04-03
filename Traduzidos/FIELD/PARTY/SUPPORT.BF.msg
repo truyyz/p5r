@@ -12140,7 +12140,7 @@
 [s][vp 1 0 0 14527 0 0]Você acredita? Eles certamente não são muito[n]difíceis para o Joker.[n][f 1 6 65535][e]
 
 [msg D_CAR_PC04_mes10528]
-[s][vp 1 0 0 14528 0 0]O não! Aqui, nosso[n]Personae não pode[n]nos ajudar.[n][f 1 6 65535][e]
+[s][vp 1 0 0 14528 0 0]O não! Aqui, nosso[n]Personas não pode[n]nos ajudar.[n][f 1 6 65535][e]
 
 [msg D_CAR_PC04_mes10529]
 [s][vp 1 0 0 14529 0 0]Sim eu concordo. Ah... Mas[n]combina muito bem com você![n][f 1 6 65535][e]

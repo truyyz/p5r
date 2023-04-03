@@ -8,7 +8,7 @@
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Bem, nós fizemos notícia nacional. Talvez eles[n]façam isso para não arruinar completamente sua[n]imagem.[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Ryuji]]
-[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]E aquele médico, um... Doutor[n]qualéonome.[n][f 1 3 65535][w][e]
+[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]E aquele médico, um... Doutor[n]Sei-lá-o-nome.[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Maruki.[n][f 1 3 65535][w][e]

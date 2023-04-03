@@ -374,7 +374,7 @@
 [s][vp 8 2 0 0 65535 0]Eu não me importo se ele é humano ou zumbi![n]Se não sabemos quem ele é,[n]ele ainda é um inimigo![n][f 1 3 65535][w][e]
 
 [msg MSG_DVD09_Start_2nd_Dram_2 [Uomo ferito]]
-[s][vp 8 2 0 0 65535 0]P-Por favor![n]S-Eu sou humano![n]Eu juro...![n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0]P-Por favor![n]E-Eu sou humano![n]Eu juro...![n][f 1 3 65535][w][e]
 
 [msg MND_DVD09_Start_2nd]
 [s][vp 8 2 0 0 65535 0]É a história de um grupo de pessoas[n]tentando sobreviver[n]em uma cidade invadida por zumbis...[n][f 1 3 65535][w][e]

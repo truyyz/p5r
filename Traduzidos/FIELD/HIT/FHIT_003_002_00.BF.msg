@@ -1462,7 +1462,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 1 13 65535 0]De qualquer forma, estou feliz por você[n]ter atendido.[n][w][e]
 
 [msg fev0410_06_mes03 [Sojiro]]
-[s][bup 0 103 600 0 1][f 4 10 65535 0 0][vp 8 0 1 14 65535 0]De qualquer forma, eu vou deixar[n]a placa da [clr 2]loja[clr 27]por sua conta.[n][w][e]
+[s][bup 0 103 600 0 1][f 4 10 65535 0 0][vp 8 0 1 14 65535 0]De qualquer forma, eu vou deixar[n]a placa da [clr 2]loja[clr 27] por sua conta.[n][w][e]
 
 [msg fev0410_06_mes04]
 [s][vp 1 0 0 0 0 0]Ele quer que eu vire a placa[n]na porta da frente.[n][w][e]
@@ -2241,7 +2241,7 @@
 
 [msg MSG_C14_MASSAGE_00_03 [Kawakami]]
 [s][bup 0 109 0 65535 1][f 4 10 65535 0 0][vp 8 2 1 15040 65535 0]Oh, você está realmente me pedindo uma[n]massagem...?[n][w][e]
-[s][f 4 10 65535 0 0]Tudo bem... Saiba que eu[n]aprendi trabalhando na[n]Victoria. Eu sou muito bom.[n][w][e]
+[s][f 4 10 65535 0 0]Tudo bem... Saiba que eu aprendi[n]trabalhando na Victoria.[n]Minhas habilidades são incríveis..[n][w][e]
 [s][f 4 10 65535 0 0]OK, eu estarei lá. Espere por mim.[n][w][e]
 
 [msg MND_C14_MASSAGE_00_04]

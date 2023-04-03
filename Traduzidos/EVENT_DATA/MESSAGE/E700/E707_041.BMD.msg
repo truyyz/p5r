@@ -78,5 +78,5 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Hum, tenho que pensar nisso. Enquanto isso,[n]no entanto, não vamos relaxar, ok?[n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Ryuji]]
-[s][vp 8 2 0 7062 65535 0]Você é pego.[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 7062 65535 0]Até mais tarde, cara.[n][f 1 3 65535][w][e]
 

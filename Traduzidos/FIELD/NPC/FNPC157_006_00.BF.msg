@@ -6,7 +6,7 @@
 [s]Não[e]
 
 [msg D06_06_MOB_MES_mes01 [Cliente]]
-[s]Eu adoraria ir para o plano high stakes[n]...[n][w][e]
+[s]Quem me dera poder ir até os[n]andares superiores...[n]...[n][w][e]
 
 [msg D06_06_MOB_MES_mes02 [Cliente]]
 [s]Craps e máquinas caça-níqueis... Aqui[n]é bem diferente dos[n]pisos inferiores![n][w][e]

@@ -33,7 +33,7 @@
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 3 301 1][vp 8 0 0 10 65535 0]Que merda![n][f 1 3 65535][w][e]
 
 [msg MSG_008_5_0 [Ryuji]]
-[s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]"As crianças são o futuro", a[n]foda-se! Ele prega bem, mas[n]avaliando mal![n][f 1 3 65535][w][e]
+[s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]"As crianças são o futuro", é o[n]caralho! Ele prega bem, mas[n]fazendo o mal![n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Ann]]
 [s][bup 0 4 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Mas agora que descobrimos quem[n]faz isso, não podemos fazer nada[n]sobre os precedentes de [f 4 2]?[n][f 1 3 65535][w][e]

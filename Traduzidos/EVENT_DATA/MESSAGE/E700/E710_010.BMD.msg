@@ -2,7 +2,7 @@
 [s][bup 0 113 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 10018 65535 0]...Como você está se sentindo?[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Donna inquieta]]
-[s][vp 8 0 0 0 9 0]S-eu estou bem. De qualquer forma, é[n]minha culpa, Yuya disse isso ...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 9 0]E-Eu estou bem. De qualquer forma, é[n]minha culpa, Yuya disse isso ...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 9 0]Ele diz que não quer me bater, mas[n]eu faço ele perder o controle...[n][f 1 3 65535][w][e]
 
 [msg MND_002_0_0]

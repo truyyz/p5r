@@ -65,7 +65,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sinto algo fervendo em mim...![n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Prete tranquillo]]
-[s][vp 8 0 0 0 5 0]R-Crianças! O que você está fazendo?!?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 5 0]C-Crianças! O que vocês estão fazendo?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Yusuke]]
 [s][bup 0 5 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 4027 65535 0]Ah, aqui...[n][f 1 3 65535][w][e]

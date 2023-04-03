@@ -76,7 +76,7 @@
 [s][bup 0 4 105 0 0][f 4 10 65535 0 0][vp 8 0 0 28 65535 0]É pesado...[n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 29 65535 0]Quem esperava que fosse tão bem? Até encontrei[n]três invocadores Personae...[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 29 65535 0]Quem esperava que fosse tão bem? Até encontrei[n]três invocadores Personas ...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 30 65535 0]Eu estava certo.[n]Fiz a melhor escolha[n]para fazer um acordo com você![n][f 1 3 65535][w][e]
 
 [msg MSG_022_5_0 [Morgana]]

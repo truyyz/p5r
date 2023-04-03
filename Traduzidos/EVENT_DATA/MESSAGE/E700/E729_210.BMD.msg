@@ -15,7 +15,7 @@
 [s][bup 0 101 5 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Pare de falar alto.[n]As placas proíbem.[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Caroline]]
-[s][bup 0 102 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]L-Eu sei... Seja como for,[n]apresse-se para apreciar[n]esta arte.[n][f 1 3 65535][w][e]
+[s][bup 0 102 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E-Eu sei... Seja como for,[n]apresse-se para apreciar[n]esta arte.[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Justine]]
 [s][bup 0 101 3 0 0][f 4 10 65535 0 0][vp 8 2 0 12066 65535 0]... Fiuuu. O número de trabalhos na[n]exposição superou em muito[n]as minhas expectativas.[n][f 1 3 65535][w][e]

@@ -6,7 +6,7 @@
 [s]Não[e]
 
 [msg D06_06_MOB_MES_mes01 [Cliente]]
-[s]Eu realmente gostaria de ir para o plano high[n]stakes ...[n][w][e]
+[s]Eu realmente gostaria de ir para andares[n]superiores...[n][w][e]
 
 [msg D06_06_MOB_MES_mes02 [Cliente]]
 [s]Craps e máquinas caça-níqueis... Aqui[n]é bem diferente dos[n]pisos inferiores![n][w][e]

@@ -39,7 +39,7 @@
 [s][f 5 14]E, no fundo, estou feliz por termos[n]resolvido o caso do perseguidor.[n][w][e]
 
 [msg MSG_013_0_0 [Ryuji]]
-[s][f 5 14]Além disso, para que servem nossas[n]Personae se não as usamos[n]para o bem?[n][w][e]
+[s][f 5 14]Além disso, para que servem nossas[n]Personas se não as usamos[n]para o bem?[n][w][e]
 
 [msg MSG_014_0_0 [Ryuji]]
 [s][f 5 14]O que você diz, [f 4 2]?[n][w][e]

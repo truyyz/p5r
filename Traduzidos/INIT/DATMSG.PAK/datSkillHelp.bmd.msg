@@ -551,7 +551,7 @@
 [s]Recuperação moderada de HP[n]para um aliado e reforço[n]ataque por 3 turnos.[n][e]
 
 [msg skill_0B8]
-[s]Forma una barriera che[n]può assorbire un attacco[n](non divino).[n][e]
+[s]Forma uma barreira que[n]pode absorver um ataque[n](não-divino).[n][e]
 
 [msg skill_0B9]
 [s]Aumenta a defesa[n]de todos os aliados por[n]3 turnos.[n][e]
@@ -896,7 +896,7 @@
 [s]Dano físico grave[n]a um inimigo 2 vezes.[n][e]
 
 [msg skill_12B]
-[s]Attacco che atterra tutti i[n]nemici (utilizzabile solo[n]nelle Imboscate).[n][e]
+[s]Ataque que derruba todos[n]inimigos (utilizável apenas[n]em emboscadas).[n][e]
 
 [msg skill_12C]
 [s]Restaura uma quantidade[n]reduzida de HP[n]para um aliado.[n][e]
@@ -2837,7 +2837,7 @@
 [s]Aumenta[n]a chance de crítico quando cercado.[n][e]
 
 [msg skill_3B2]
-[s]Se circondati, dimin. molto[n]la Precisione di ogni att.[n]nemico (ecc. divini).[n][e]
+[s]Se cercado, diminui. muito[n]a Precisão de cada [n]inimigo att. (divina etc.).[n][e]
 
 [msg skill_3B3]
 [s]Restaura 5% do[n]max HP e 10 SP a cada turno[n]em uma emboscada.[n][e]

@@ -1,5 +1,5 @@
 [msg MSG_000_0_0 [Caroline]]
-[s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 2 0 11001 65535 0]Uhm, você nos trouxe outro dos[n]Personae que pedimos.[n][f 1 3 65535][w][e]
+[s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 2 0 11001 65535 0]Uhm, você nos trouxe outro dos[n]Personas que pedimos.[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Justine]]
 [s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ele é um Matador com a habilidade[n]Magaru... eu verifiquei.[n][f 1 3 65535][w][e]

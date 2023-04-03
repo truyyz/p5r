@@ -1250,7 +1250,7 @@
 [s]Uma salada digna de uma[n]dea. Restaura 30 HP[n]de um aliado.[n][e]
 
 [msg Item_1A1]
-[s]Restaura 50 HP de um[n]alado e reduz a precisão[n]e a evasão.[n][e]
+[s]Restaura 50 HP de um[n]aliado e reduz a precisão[n]e a evasão.[n][e]
 
 [msg Item_1A2]
 [s]Restaura 100 HP de um[n]aliado e reduz o ataque.[n][e]

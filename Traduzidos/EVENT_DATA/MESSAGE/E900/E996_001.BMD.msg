@@ -49,7 +49,7 @@
 [s][vp 6 0 0 15 6 0]Não há leis aqui que protejam criminosos como[n]você![n][f 1 2 140][e]
 
 [msg MSG_015_0_0 [スーツの男A]]
-[s][vp 6 0 0 16 6 0]Você não ouviu minha pergunta? Responder![n][f 1 2 90][e]
+[s][vp 6 0 0 16 6 0]Você não ouviu minha pergunta? Responda![n][f 1 2 90][e]
 
 [msg MSG_016_0_0 [(SE)主人公]]
 [s][vp 8 0 0 17 65535 0]*coff* Nngh...! *anf*[n][f 1 2 90][e]

@@ -135,7 +135,7 @@
 [msg NETOSUTO_talk_01 [Studentessa inquietante]]
 [s][vp 8 2 1 0 24 0]Oh, Ikesugi-kun, você deve estar muito cansado.[n]Não se preocupe, eu vou cuidar de você...[n][w][e]
 [s][vp 8 2 1 0 24 0]*haha* Vou postar online, então todos saberão o[n]que Ikesugi-kun e eu compartilhamos. *haha*[n][w][e]
-[s][vp 8 2 1 0 24 0]Scriverò "Sembrava stanco... perciò[n]gli ho fatto un bel massaggio[n]alle spalle ☆". *ahah*[n][w][e]
+[s][vp 8 2 1 0 24 0]Vou escrever "Ele parecia cansado... então eu[n] dei a ele uma boa massagem no[n]ombro ☆". *ahah*[n][w][e]
 
 [msg NETOSUTO_talk_02 [Studentessa inquietante]]
 [s][vp 8 2 1 0 24 0]Ele está falando sobre o Prof. Kamoshida.[n]Eu me pergunto se aqueles "Ladrões Fantasmas[n]de Corações" realmente existem...[n][w][e]

@@ -25,7 +25,7 @@
 [s][bup 0 7 104 65535 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Por favor, senhor.[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Ombra Ex nobile]]
-[s][vp 8 0 0 11 65535 0]Por favor, deixe-me em paz.[n]Eu não tenho tempo para vocês, [n]crianças rudes.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 11 65535 0]Desculpe, mas por favor me deixe[n]em paz. Não tenho tempo para[n]vocês, crianças bagunceiras.[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Ryuji]]
 [s][f 4 16 2 3 300 1 65535][vp 8 0 0 12 65535 0]Ei, vadia feia...![n][f 1 3 65535][w][e]

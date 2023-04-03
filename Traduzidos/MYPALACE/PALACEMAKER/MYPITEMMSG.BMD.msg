@@ -38,7 +38,7 @@
 [s]Réplica da escrivaninha e poltrona[n]do dono do Velvet Room.[n][e]
 
 [msg MSG_013]
-[s]Réplica da guilhotina usada[n]para as execuções de Personae.[n][e]
+[s]Réplica da guilhotina usada[n]para as execuções de Personas .[n][e]
 
 [msg MSG_014]
 [s]Réplica da van Morgana[n]transformada.[n][e]

@@ -49,7 +49,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bem, eu percorri a cidade[n]com uma mala. Qualquer um poderia[n]entender isso, né...?[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Chihaya]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 113 7 300 1][vp 8 2 0 10108 65535 0]L-Eu sabia![n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 113 7 300 1][vp 8 2 0 10108 65535 0]E-Eu sabia![n][f 1 3 65535][w][e]
 [s][bup 0 113 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu estava muito frágil na época, eu sei...[n]mas ainda é constrangedor que[n]um médium tenha acreditado nisso![n][f 1 3 65535][w][e]
 [s][bup 0 113 0 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 59 5 100][vp 8 0 0 0 65535 0]Eu acho...alguns homens sabem[n]como saber se uma mulher é vulnerável.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E você por acaso é esse[n]tipo de homem, [f 4 1]-san...?[n][f 1 3 65535][w][e]
