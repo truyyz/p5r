@@ -20,22 +20,22 @@
 [msg MSG_004_0_0 [Shinya]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 110 5 300 1][vp 8 2 0 17018 65535 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 110 7 300 65535][f 4 1]-san, eu...![n][f 1 3 65535][w][e]
 
-[msg MSG_005_0_0 [Donna appariscente]]
+[msg MSG_005_0_0 [Mulher chamativa]]
 [s][vp 8 0 0 0 5 0]Shinya, o que você está fazendo?[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Shinya]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 110 7 300 1][vp 8 2 0 17066 65535 0]M-Mãe!?![n][f 1 3 65535][w][e]
 
-[msg MSG_007_0_0 [Madre di Shinya]]
+[msg MSG_007_0_0 [Mãe de Shinya]]
 [s][vp 8 0 0 0 5 0]Eu sabia...[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Shinya]]
 [s][bup 0 110 4 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O-O quê?[n][f 1 3 65535][w][e]
 
-[msg MSG_009_0_0 [Madre di Shinya]]
+[msg MSG_009_0_0 [Mãe de Shinya]]
 [s][vp 8 0 0 0 5 0]Você estava agindo estranho recentemente. E, como[n]eu suspeitava, alguém está enganando você.[n][f 1 3 65535][w][e]
 
-[msg MSG_010_0_0 [Madre di Shinya]]
+[msg MSG_010_0_0 [Mãe de Shinya]]
 [s][vp 8 0 0 0 5 0]E então toda vez que você[n]me responde errado... eu sabia que[n]havia a mão de alguém...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 5 0]Nós iremos? É você quem está influenciando[n]Shinya tão negativamente?[n][f 1 3 65535][w][e]
 
@@ -44,28 +44,28 @@
 [s]Acalmar.[e]
 [s]Negativamente?[e]
 
-[msg MSG_012_0_0 [Madre di Shinya]]
+[msg MSG_012_0_0 [Mãe de Shinya]]
 [s][vp 8 0 0 0 5 0]O quê, você não acha que[n]mudou?[n][f 1 3 65535][w][e]
 
-[msg MSG_013_0_0 [Madre di Shinya]]
+[msg MSG_013_0_0 [Mãe de Shinya]]
 [s][vp 8 0 0 0 5 0]Isso é totalmente inaceitável![n]O que você pensa sobre[n]sobre isso!?![n][f 1 3 65535][w][e]
 
-[msg MSG_014_0_0 [Madre di Shinya]]
+[msg MSG_014_0_0 [Mãe de Shinya]]
 [s][vp 8 0 0 0 5 0]Como posso ficar calmo[n]com alguém que está desencaminhando[n]meu filho?[n][f 1 3 65535][w][e]
 
-[msg MSG_015_0_0 [Madre di Shinya]]
+[msg MSG_015_0_0 [Mãe de Shinya]]
 [s][vp 8 0 0 0 5 0]Estou furioso por causa do seu[n]mau comportamento![n]O que você vai fazer?[n][f 1 3 65535][w][e]
 
-[msg MSG_016_0_0 [Madre di Shinya]]
+[msg MSG_016_0_0 [Mãe de Shinya]]
 [s][vp 8 0 0 0 5 0]Sim. As crianças devem[n]obedecer aos pais.[n][f 1 3 65535][w][e]
 
-[msg MSG_017_0_0 [Madre di Shinya]]
+[msg MSG_017_0_0 [Mãe de Shinya]]
 [s][vp 8 0 0 0 5 0]Mas ele não! Eu quero[n]de volta meu obediente Shinya![n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Shinya]]
 [s][bup 0 110 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]P-Pare com isso...![n][f 1 3 65535][w][e]
 
-[msg MSG_019_0_0 [Madre di Shinya]]
+[msg MSG_019_0_0 [Mãe de Shinya]]
 [s][vp 8 0 0 0 5 0]Você vai assumir a culpa[n]se meu Shinya se tornar[n]um bandido mesquinho?[n][f 1 3 65535][w][e]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 110 5 300 65535][vp 8 0 0 0 5 0]Todo aquele tempo e dinheiro[n]gasto com ele, foi desperdiçado![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 5 0]O que você vai fazer[n]sobre ISSO, hein?[n][f 1 3 65535][w][e]
@@ -73,7 +73,7 @@
 [msg MSG_020_0_0 [Shinya]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 110 5 300 1][vp 8 2 0 17047 65535 0]M-Mãe![n][f 4 1]-san é...[n][f 1 3 65535][w][e]
 
-[msg MSG_021_0_0 [Madre di Shinya]]
+[msg MSG_021_0_0 [Mãe de Shinya]]
 [s][vp 8 0 0 0 5 0][f 4 1]-san, mmh?[n]Vou me lembrar de você.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 5 0]Você é um estudante do ensino médio, não é?[n]Hmm, talvez eu devesse contar[n]sua escola...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 5 0]...Que um de seus alunos[n]está molestando meu filho.[n][f 1 3 65535][w][e]
@@ -81,20 +81,20 @@
 [msg MSG_022_0_0 [Shinya]]
 [s][bup 0 110 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Pare...Mãe...[n][f 1 3 65535][w][e]
 
-[msg MSG_023_0_0 [Madre di Shinya]]
+[msg MSG_023_0_0 [Mãe de Shinya]]
 [s][vp 8 0 0 0 5 0]Vamos, Shinya,[n]vamos para casa![n][f 1 3 65535][w][e]
 
 [sel SEL_024_0_0 top]
 [s]Não o trate assim.[e]
 [s]Pense sobre seus sentimentos.[e]
 
-[msg MSG_025_0_0 [Madre di Shinya]]
+[msg MSG_025_0_0 [Mãe de Shinya]]
 [s][vp 8 0 0 0 5 0]Ele é meu filho. Eu faço o que[n]quero com ele![n][f 1 3 65535][w][e]
 
-[msg MSG_026_0_0 [Madre di Shinya]]
+[msg MSG_026_0_0 [Mãe de Shinya]]
 [s][vp 8 0 0 0 5 0]Sentimentos!?! Ele é apenas um bebê![n][f 1 3 65535][w][e]
 
-[msg MSG_027_0_0 [Madre di Shinya]]
+[msg MSG_027_0_0 [Mãe de Shinya]]
 [s][vp 8 0 0 0 5 0]Se você se intrometer de novo,[n]vou chamar a polícia![n][f 1 3 65535][w][e]
 
 [sel SEL_028_0_0 top]
@@ -102,19 +102,19 @@
 [s]Eu não fiz nada.[e]
 [s]Isso não seria legal.[e]
 
-[msg MSG_029_0_0 [Madre di Shinya]]
+[msg MSG_029_0_0 [Mãe de Shinya]]
 [s][vp 8 0 0 0 5 0]... Tudo bem então. Saiba disso,[n]: não pretendo perder.[n][f 1 3 65535][w][e]
 
-[msg MSG_030_0_0 [Madre di Shinya]]
+[msg MSG_030_0_0 [Mãe de Shinya]]
 [s][vp 8 0 0 0 5 0]Umpf. Então fique longe dele.[n][f 1 3 65535][w][e]
 
-[msg MSG_031_0_0 [Madre di Shinya]]
+[msg MSG_031_0_0 [Mãe de Shinya]]
 [s][vp 8 0 0 0 5 0]Agora vamos lá![n][f 1 3 65535][w][e]
 
 [msg MSG_032_0_0 [Shinya]]
 [s][bup 0 110 4 0 0][f 4 10 65535 0 0][vp 8 2 0 17055 65535 0]Mas...[n][f 1 3 65535][w][e]
 
-[msg MSG_033_0_0 [Madre di Shinya]]
+[msg MSG_033_0_0 [Mãe de Shinya]]
 [s][vp 8 0 0 0 5 0]Shinya...? Você REALMENTE é[n]meu Shinya, não é!?![n][f 1 3 65535][w][e]
 
 [msg MSG_034_0_0 [Shinya]]

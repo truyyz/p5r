@@ -1,7 +1,7 @@
 [msg MSG_000_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O Palácio[n]está começando a tremer...[n][f 1 3 65535][w][e]
 
-[msg MSG_001_0_0 [Ombra di Kaneshiro]]
+[msg MSG_001_0_0 [Sombra de Kaneshiro]]
 [s][bup 0 207 100 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Nããão! Piggytron![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Merda, por que[n]eu...?!?[n][f 1 3 65535][w][e]
 

@@ -8,7 +8,7 @@
 [msg MSG_003_0_0 [Ann]]
 [s][bup 0 4 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Que diabos?!?[n][f 1 3 65535][w][e]
 
-[msg MSG_003_5_0 [Uomo con piercing]]
+[msg MSG_003_5_0 [Homem com piercing]]
 [s][vp 8 0 0 37 65535 0]E quem diabos é você?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Yusuke]]
@@ -29,10 +29,10 @@
 [msg MSG_009_0_0 [Kaneshiro]]
 [s][bup 0 207 0 0 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]A bolsa que você viu outro[n]dia, a do crocodilo.[n]Quanto custou?[n][f 1 3 65535][w][e]
 
-[msg MSG_010_0_0 [Donna rozza]]
+[msg MSG_010_0_0 [Mulher rude]]
 [s][vp 8 0 0 12 12 0]Tipo... três milhões?[n][f 1 3 65535][w][e]
 
-[msg MSG_011_0_0 [Donna rozza]]
+[msg MSG_011_0_0 [Mulher rude]]
 [s][vp 8 0 0 13 12 0]OOOH! Sério?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Kaneshiro]]

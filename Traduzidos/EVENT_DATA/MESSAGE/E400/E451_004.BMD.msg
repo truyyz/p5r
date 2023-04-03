@@ -1,4 +1,4 @@
-[msg MSG_000_0_0 [Ragazza in blu]]
+[msg MSG_000_0_0 [Menina de azul]]
 [s][bup 0 100 0 0 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]Meu nome... é Lavenza.[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Lavenza]]
@@ -42,20 +42,20 @@
 [msg MSG_012_0_0 [Igor?]]
 [s][bup 0 201 0 0 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]De fato, seria mais correto dizer que[n]eu sou um deus que atende[n]desejo e domina o homem.[n][f 1 3 65535][w][e]
 
-[msg MSG_015_0_0 [Dio del Controllo]]
+[msg MSG_015_0_0 [Deus do controle]]
 [s][vp 8 0 0 25 65535 0]Eu esperava que um ladrão justo pudesse[n]vencer o mal e incitar o homem a[n]acordar seu coração preguiçoso.[n][f 1 3 65535][w][e]
 
-[msg MSG_016_0_0 [Dio del Controllo]]
+[msg MSG_016_0_0 [Deus do controle]]
 [s][vp 8 0 0 29 65535 0]No entanto... você sabe como foi...[n]as massas garantiram que[n]nada disso acontecesse.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 30 65535 0]Os humanos encontrarão[n]ruína, e o culpado é apenas você.[n][f 1 3 65535][w][e]
 
-[msg MSG_018_0_0 [Dio del Controllo]]
+[msg MSG_018_0_0 [Deus do controle]]
 [s][vp 8 0 0 32 65535 0]Mas, com toda a honestidade, Prisioneiro,[n]acho que é justo reavaliá-lo.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 68 65535 0]Um humano que alcançou[n]o Santo Graal e expôs[n]minha verdadeira identidade...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 69 65535 0]Você me surpreendeu, um deus,[n]repetidamente. Elas não são as[n]ações de um homem comum.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 70 65535 0]Você tem sido um prisioneiro muito[n]capaz de me entreter.[n][f 1 3 65535][w][e]
 
-[msg MSG_019_0_0 [Dio del Controllo]]
+[msg MSG_019_0_0 [Deus do controle]]
 [s][vp 8 0 0 33 65535 0]Talvez observar você um pouco mais[n]pode ser divertido.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 34 65535 0]Darei a você a oportunidade de[n]fazer um acordo comigo.[n][f 1 3 65535][w][e]
 
@@ -63,7 +63,7 @@
 [s]Que tipo de acordo?[e]
 [s]Onde você quer ir?[e]
 
-[msg MSG_021_0_0 [Dio del Controllo]]
+[msg MSG_021_0_0 [Deus do controle]]
 [s][vp 8 0 0 35 65535 0]Se você quiser, posso restaurar[n]o mundo ao seu estado anterior...[n]um cheio de massas distorcidas.[n][f 1 3 65535][w][e]
 
 [msg MND_021_5_0]
@@ -75,7 +75,7 @@
 [msg MSG_022_7_0 [Lavenza]]
 [s][bup 0 100 2 0 0][f 4 10 65535 0 0][vp 8 0 0 82 65535 0]Mesmo assim, você ainda quer[n]zoar dele?!?[n][f 1 3 65535][w][e]
 
-[msg MSG_023_0_0 [Dio del Controllo]]
+[msg MSG_023_0_0 [Deus do controle]]
 [s][vp 8 0 0 38 65535 0]Os Phantom Thieves ganharão elogios e fama. Além[n]disso, o mundo escapará da ruína.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 39 65535 0]...O que você acha?[n][f 1 3 65535][w][e]
 
@@ -88,7 +88,7 @@
 [s]Eu recuso.[e]
 [s]Concordar...[e]
 
-[msg MSG_026_5_0 [Dio del Controllo]]
+[msg MSG_026_5_0 [Deus do controle]]
 [s][vp 8 0 0 74 65535 0]Heheheh. Nosso contrato[n]está concluído, então.[n][f 1 3 65535][w][e]
 
 [sel SEL_027_0_0 top]
@@ -99,7 +99,7 @@
 [s][bup 0 100 3 0 0][f 4 10 65535 0 0][vp 8 0 0 83 65535 0]Um pacto entre um falso deus e um humano no qual[n]depositávamos nossas esperanças. Quem diria.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 84 65535 0]Você até rejeitou o[n]desejo do meu mestre... Você é um[n]Malandro, afinal...[n][f 1 3 65535][w][e]
 
-[msg MSG_030_0_0 [Dio del Controllo]]
+[msg MSG_030_0_0 [Deus do controle]]
 [s][vp 8 0 0 43 65535 0]Ele Ele. Você é verdadeiramente um filho[n]do homem... Incapaz de[n]opor-se aos seus próprios desejos.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 44 65535 0]Não há nada do que se envergonhar.[n]Eu concederei seu desejo...[n][f 1 3 65535][w][e]
 
@@ -109,22 +109,22 @@
 [msg MSG_033_0_0 [Lavenza]]
 [s][bup 0 100 0 0 0][f 4 10 65535 0 0][vp 8 0 0 85 65535 0]Muito bem.[n][f 1 3 65535][w][e]
 
-[msg MSG_034_0_0 [Dio del Controllo]]
+[msg MSG_034_0_0 [Deus do controle]]
 [s][vp 8 0 0 47 65535 0]Que loucura irremediável... Você[n]escolheu morrer? Muito bem.[n]Não preciso mais de você.[n][f 1 3 65535][w][e]
 
 [msg MSG_035_0_0 [Lavenza]]
 [s][bup 0 100 4 0 0][f 4 10 65535 0 0][vp 8 0 0 49 65535 0]Mestre![n][f 1 3 65535][w][e]
 
-[msg MSG_035_7_0 [Anziano strampalato]]
+[msg MSG_035_7_0 [Velho louco]]
 [s][bup 0 201 0 0 0][f 4 10 65535 0 0][vp 8 0 0 95 65535 0]Hmm...[n][f 1 3 65535][w][e]
 
-[msg MSG_036_0_0 [Anziano strampalato]]
+[msg MSG_036_0_0 [Velho louco]]
 [s][bup 0 201 0 0 0][f 4 10 65535 0 0][vp 8 0 0 52 65535 0]Puxa... Faz uma vida[n]desde a última vez que pus[n]o pé aqui...[n][f 1 3 65535][w][e]
 
-[msg MSG_037_5_0 [Anziano strampalato]]
+[msg MSG_037_5_0 [Velho louco]]
 [s][bup 0 201 0 0 0][f 4 10 65535 0 0][vp 8 0 0 57 65535 0]Bem-vindo ao Velvet Room.[n][f 1 3 65535][w][e]
 
-[msg MSG_038_0_0 [Anziano strampalato]]
+[msg MSG_038_0_0 [Velho louco]]
 [s][bup 0 201 0 0 0][f 4 10 65535 0 0][vp 8 0 0 54 65535 0]Meu nome é Igor. Estou honrado[n]em conhecê-lo.[n][f 1 3 65535][w][e]
 
 [msg MSG_038_5_0 [Lavenza]]

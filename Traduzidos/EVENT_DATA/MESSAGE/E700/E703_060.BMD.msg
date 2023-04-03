@@ -89,10 +89,10 @@
 [msg MSG_021_0_0 [Haru]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 7 7 300 1][vp 8 2 0 3040 65535 0]S-Sugimura-san...?!?[n]O que você está fazendo aqui?[n][f 1 3 65535][w][e]
 
-[msg MSG_022_0_0 [Fidanzato di Haru]]
+[msg MSG_022_0_0 [Namorado da Haru]]
 [s][bup 0 211 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu estava voltando de uma reunião de negócios[n]para casa e vi você pela janela do carro.[n][f 1 3 65535][w][e]
 
-[msg MSG_023_0_0 [Fidanzato di Haru]]
+[msg MSG_023_0_0 [Namorado da Haru]]
 [s][bup 0 211 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Hum...? Já nos conhecemos antes[n]em algum lugar?[n][f 1 3 65535][w][e]
 [s][vp 1 0 0 0 0 0]......![n][f 1 3 65535][w][e]
 [s][bup 0 211 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você é um daqueles pirralhos de...[n][f 1 3 65535][w][e]
@@ -103,27 +103,27 @@
 [msg MSG_025_0_0 [Haru]]
 [s][bup 0 7 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]De qualquer forma, agora temos que[n]voltar ao trabalho. Desculpe,[n]nós temos que ir.[n][f 1 3 65535][w][e]
 
-[msg MSG_026_0_0 [Fidanzato di Haru]]
+[msg MSG_026_0_0 [Namorado da Haru]]
 [s][bup 0 211 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Ei, Haru! Você acha que pode namorar[n]outro cara e abandonar[n]sua noiva?[n][f 1 3 65535][w][e]
 
 [msg MSG_027_0_0 [Haru]]
 [s][bup 0 7 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você não é meu noivo.[n]Eu já disse a você, eu não[n]caso.[n][f 1 3 65535][w][e]
 
-[msg MSG_028_0_0 [Fidanzato di Haru]]
+[msg MSG_028_0_0 [Namorado da Haru]]
 [s][bup 0 211 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Oh sim? E o contrato que[n]assinei com seu pai?[n][f 1 3 65535][w][e]
 
 [msg MSG_029_0_0 [Haru]]
 [s][bup 0 7 5 65535 0][f 4 10 65535 0 0][vp 8 2 0 3029 65535 0]M-Meu pai não existe mais...[n]E então, nós nos casamos por nossa[n]livre escolha...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Um contrato nunca poderia[n]ter o mesmo valor...[n][f 1 3 65535][w][e]
 
-[msg MSG_030_0_0 [Fidanzato di Haru]]
+[msg MSG_030_0_0 [Namorado da Haru]]
 [s][bup 0 211 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você tem certeza? Releia[n]a cláusula de indenização.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Se você desistir agora, perderá tudo o que[n]possui. A Okumura Foods, suas propriedades...[n][f 1 3 65535][w][e]
 
 [msg MSG_031_0_0 [Haru]]
 [s][bup 0 7 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Apesar disso, eu...[n][f 1 3 65535][w][e]
 
-[msg MSG_032_0_0 [Fidanzato di Haru]]
+[msg MSG_032_0_0 [Namorado da Haru]]
 [s][bup 0 211 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E seus funcionários? Você realmente quer[n]pôr em risco o lugar deles[n]por sua escolha egoísta?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Além disso, este casamento é[n]exatamente o que a Okumura Foods precisa[n]agora.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Meu pai não teria dificuldade[n]em lidar com seu estoque e limpar[n]a imagem manchada da empresa.[n][f 1 3 65535][w][e]
@@ -131,24 +131,24 @@
 [msg MSG_033_0_0 [Haru]]
 [s][bup 0 7 3 65535 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 7 7 300 65535][vp 1 0 0 0 0 0]......[n][f 1 3 65535][w][e]
 
-[msg MSG_034_0_0 [Fidanzato di Haru]]
+[msg MSG_034_0_0 [Namorado da Haru]]
 [s][bup 0 211 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Por falar nisso. Takakura-san[n]falou sobre o salão de recepção? Será[n]o Phoenix Wing em Wilton.[n][f 1 3 65535][w][e]
 
 [msg MSG_035_0_0 [Haru]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 7 7 300 1][vp 8 2 0 3040 65535 0]O-O quê?!?[n][f 1 3 65535][w][e]
 
-[msg MSG_036_0_0 [Fidanzato di Haru]]
+[msg MSG_036_0_0 [Namorado da Haru]]
 [s][bup 0 211 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ele reservou provisoriamente cerca de[n]dez dias nesta primavera.[n]Afinal, quanto mais cedo melhor.[n][f 1 3 65535][w][e]
 
 [msg MSG_036_1_0 [Haru]]
 [s][bup 0 7 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E-Espere um minuto![n][f 1 3 65535][w][e]
 
-[msg MSG_036_2_0 [Fidanzato di Haru]]
+[msg MSG_036_2_0 [Namorado da Haru]]
 [s][bup 0 211 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Também teremos que enquadrá-lo com os[n]compromissos dos convidados. Não vai ser[n]fácil, serão mais de trezentos.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Durante esse período, Takakura-san[n]estará pensando na empresa. Em vez disso,[n]por que você não vai para a academia, Haru?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Quero dizer, se você tem tempo para[n]perder com esse idiota, então[n]você também tem tempo para voltar à linha.[n][f 1 3 65535][w][e]
 
-[msg MSG_036_3_0 [Fidanzato di Haru]]
+[msg MSG_036_3_0 [Namorado da Haru]]
 [s][bup 0 211 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Tô indo, tchau.[n][f 1 3 65535][w][e]
 
 [msg MSG_037_0_0 [Haru]]

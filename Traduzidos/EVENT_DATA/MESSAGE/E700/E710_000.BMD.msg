@@ -1,4 +1,4 @@
-[msg MSG_000_0_0 [Veggente cordiale]]
+[msg MSG_000_0_0 [Vidente amigável]]
 [s][bup 0 113 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 10002 4 0]Olá. É sua primeira vez[n]aqui, não é? Não é sempre que[n]algumas crianças passam por aqui.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 4 0]Enfim, meu nome é Chihaya Mifune.[n]Hoje vou prever seu futuro.[n][f 1 3 65535][w][e]
 

@@ -59,7 +59,7 @@
 [msg MSG_015_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]...Você disse alguma coisa?[n][f 1 3 65535][w][e]
 
-[msg MSG_016_0_0 [Gatto nero]]
+[msg MSG_016_0_0 [Gato preto]]
 [s][vp 8 0 0 20 7 0]Você não vai acreditar que pode[n]sair sem me retribuir[n]pela ajuda que lhe dei...[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Ryuji]]
@@ -126,13 +126,13 @@
 [msg MSG_036_0_0 [Ryuji]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 11 301 1][vp 8 0 0 41 65535 0]Argh...! Abaixe sua voz![n][f 1 3 65535][w][e]
 
-[msg MSG_037_0_0 [Insegnante della commissione]]
+[msg MSG_037_0_0 [Professor de comissão]]
 [s][vp 8 0 0 42 5 0]Nós realmente temos que procurar um gato[n]em momentos ruins como este?[n][f 1 3 65535][w][e]
 
-[msg MSG_038_0_0 [Membro della commissione]]
+[msg MSG_038_0_0 [Membro da comissão]]
 [s][vp 8 0 0 43 6 0]Acabei de ouvir um "miau" aqui em algum lugar.[n]Não é você?[n][f 1 3 65535][w][e]
 
-[msg MSG_039_0_0 [Insegnante della commissione]]
+[msg MSG_039_0_0 [Professor de comissão]]
 [s][vp 8 0 0 44 5 0]Verifique cuidadosamente em cada canto.[n][f 1 3 65535][w][e]
 
 [msg MSG_040_0_0 [Ryuji]]

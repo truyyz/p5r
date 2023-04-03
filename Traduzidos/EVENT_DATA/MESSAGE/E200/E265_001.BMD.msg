@@ -13,19 +13,19 @@
 [msg MSG_004_0_0 [Makoto]]
 [s][bup 0 6 102 65535 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Kaneshiro![n][f 1 3 65535][w][e]
 
-[msg MSG_005_0_0 [Ombra di Kaneshiro]]
+[msg MSG_005_0_0 [Sombra de Kaneshiro]]
 [s][bup 0 207 105 0 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Não vou deixar para ninguém...[n]Esse dinheiro é meu...[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Makoto]]
 [s][bup 0 6 102 65535 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Você os tirou dos bolsos[n]dos inocentes![n][f 1 3 65535][w][e]
 
-[msg MSG_007_0_0 [Ombra di Kaneshiro]]
+[msg MSG_007_0_0 [Sombra de Kaneshiro]]
 [s][bup 0 207 105 0 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Tudo bem... vou cancelar[n]sua dívida...[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Ryuji]]
 [s][bup 0 2 102 0 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Hã? Você ainda parece[n]muito esnobe.[n][f 1 3 65535][w][e]
 
-[msg MSG_009_0_0 [Ombra di Kaneshiro]]
+[msg MSG_009_0_0 [Sombra de Kaneshiro]]
 [s][bup 0 207 105 0 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Você está certo... eu sou um horrível...[n]pequeno... idiota...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Como eu poderia[n]viver uma vida normal?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]É tudo culpa da empresa! Por mais[n]que tentem, os fracos não[n]podem ter uma vida feliz![n][f 1 3 65535][w][e]
@@ -34,7 +34,7 @@
 [msg MSG_010_0_0 [Yusuke]]
 [s][bup 0 5 102 0 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Quanto mais você fala, mais patético você se[n]torna.[n][f 1 3 65535][w][e]
 
-[msg MSG_011_0_0 [Ombra di Kaneshiro]]
+[msg MSG_011_0_0 [Sombra de Kaneshiro]]
 [s][bup 0 207 105 0 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Eu só queria ter meu lugar[n]no mundo! Você me entende, não é?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Ann]]
@@ -57,21 +57,21 @@
 [s][bup 0 5 100 0 0][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]Fico feliz que você entenda.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 26 65535 0]Agora vá e volte[n]para o verdadeiro Kaneshiro.[n][f 1 3 65535][w][e]
 
-[msg MSG_017_0_0 [Ombra di Kaneshiro]]
+[msg MSG_017_0_0 [Sombra de Kaneshiro]]
 [s][bup 0 207 100 0 0][f 4 10 65535 0 0][vp 8 0 0 27 65535 0]A sério? Você realmente é[n]inexperiente. Com esse poder[n]que você tem, então...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 28 65535 0]Esses palácios podem render muito dinheiro para[n]você! Você pode fazer o que quiser com o coração[n]dos outros![n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Ryuji]]
 [s][bup 0 2 102 0 0][f 4 10 65535 0 0][vp 8 0 0 29 65535 0]Não somos como você![n][f 1 3 65535][w][e]
 
-[msg MSG_019_0_0 [Ombra di Kaneshiro]]
+[msg MSG_019_0_0 [Sombra de Kaneshiro]]
 [s][bup 0 207 100 0 0][f 4 10 65535 0 0][vp 8 0 0 30 65535 0]O que você faz com esse ingênuo[n]senso de justiça?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 31 65535 0]Sabe, tem alguém por aí que[n]já está aproveitando tudo[n]que os Palácios têm a oferecer...[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Makoto]]
 [s][bup 0 6 104 65535 0][f 4 10 65535 0 0][vp 8 0 0 32 65535 0]O quê?!?[n][f 1 3 65535][w][e]
 
-[msg MSG_021_0_0 [Ombra di Kaneshiro]]
+[msg MSG_021_0_0 [Sombra de Kaneshiro]]
 [s][bup 0 207 101 0 0][f 4 10 65535 0 0][vp 8 0 0 33 65535 0]Vou te contar um segredinho...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 34 65535 0]Há um criminoso que usa[n]palácios do povo para fazer o que[n]quiser.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 35 65535 0]E ele não é do tipo que se importa com as[n]consequências. Paradas mentais,[n]raptus... Sem problemas.[n][f 1 3 65535][w][e]
@@ -82,7 +82,7 @@
 [msg MSG_023_0_0 [Ryuji]]
 [s][bup 0 2 102 0 0][f 4 10 65535 0 0][vp 8 0 0 37 65535 0]Venha limpo![n]De quem você está falando?!?[n][f 1 3 65535][w][e]
 
-[msg MSG_024_0_0 [Ombra di Kaneshiro]]
+[msg MSG_024_0_0 [Sombra de Kaneshiro]]
 [s][bup 0 207 101 0 0][f 4 10 65535 0 0][vp 8 0 0 38 65535 0]Heheheh... Esquece.[n]Comparado a ele você não é nada...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 39 65535 0]É melhor você tomar cuidado...[n]Encontrar essa pessoa[n]pode ser fatal...[n][f 1 3 65535][w][e]
 

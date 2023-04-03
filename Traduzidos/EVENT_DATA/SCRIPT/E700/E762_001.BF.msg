@@ -1,7 +1,7 @@
-[msg MSG_000_0_0 [Direttore del convenience store]]
+[msg MSG_000_0_0 [Gerente de loja de conveniência]]
 [s][vp 8 2 0 58401 14 0]Oh, você é [f 4 3]? Você se inscreveu para o[n]emprego de meio período, certo?[n][f 1 3 65535][w][e]
 
-[msg MSG_000_0_5 [Direttore del convenience store]]
+[msg MSG_000_0_5 [Gerente de loja de conveniência]]
 [s][vp 8 2 0 0 14 0]Você terá que trabalhar no caixa.[n]Olhe atentamente para seus colegas[n]para aprender o básico.[n][f 1 3 65535][w][e]
 
 [sel SEL_001_0_0 top]
@@ -9,10 +9,10 @@
 [s]Mil obrigados.[e]
 [s]Conte comigo.[e]
 
-[msg MSG_002_0_0 [Direttore del convenience store]]
+[msg MSG_002_0_0 [Gerente de loja de conveniência]]
 [s][vp 8 2 0 0 14 0]Muito bem, espero que[n]você se esforce bastante.[n][f 1 3 65535][w][e]
 
-[msg MSG_003_0_0 [Direttore del convenience store]]
+[msg MSG_003_0_0 [Gerente de loja de conveniência]]
 [s][vp 8 2 0 0 14 0]Ah sim... Quando você trabalhar duro[n]você receberá um bônus.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 58404 14 0]Bem, boa sorte.[n][f 1 3 65535][w][e]
 
@@ -684,7 +684,7 @@
 [s][bup 0 111 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Desculpe, estou fazendo besteira, hein?[n]A falta de sono[n]me deixa chapado...[n][f 1 3 65535][w][e]
 [s][bup 0 111 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0][f 5 13 19 2 1011]Boa sorte com o trabalho! Até mais![n][f 1 3 65535][w][e]
 
-[msg MSG_DEBUG [for debug]]
+[msg MSG_DEBUG [Para depuração]]
 [s][vp 8 2 0 0 65535 0]NPC Appearance Debug[n]Quem aparecerá?[n][f 1 3 65535][w][e]
 
 [sel SEL_DEBUG top]
@@ -697,7 +697,7 @@
 [s]カスミ[e]
 [s]誰もこない[e]
 
-[msg MSG_DEBUG_2 [for debug]]
+[msg MSG_DEBUG_2 [Para depuração]]
 [s][vp 8 2 0 0 65535 0]modo de depuração[n][f 1 3 65535][w][e]
 
 [sel SEL_DEBUG_2 top]
@@ -705,7 +705,7 @@
 [s]passeio na hora do rush[e]
 [s]passeio solo[e]
 
-[msg MSG_DEBUG_4 [Counter debug]]
+[msg MSG_DEBUG_4 [Contador de depuração]]
 [s][vp 8 2 0 0 65535 0]Depuração do contador[n][f 1 3 65535][w][e]
 
 [sel SEL_DEBUG_4 top]

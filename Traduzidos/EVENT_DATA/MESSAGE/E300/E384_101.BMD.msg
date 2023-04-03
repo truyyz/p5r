@@ -2,7 +2,7 @@
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Aparentemente, esta é sua[n]base de operações. Acho que o Tesouro[n]aparecerá naquele pedestal.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Apesar de tudo, conseguimos[n]subir até aqui! As horas da senhorita[n]diretora estão contadas![n][f 1 3 65535][w][e]
 
-[msg MSG_000_3_0 [Voce dell'Ombra di Sae]]
+[msg MSG_000_3_0 [Voz da Sombra de Sae]]
 [s][vp 8 0 0 18 65535 0]Que incivilidade atacar aqui.[n]Mesmo na vitória requer[n]elegância, sabe?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 19 65535 0]Eu o entretenho com todos[n]os meus "jogos", mas aparentemente[n]você não está satisfeito.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 20 65535 0]Muito bem. Fiz[n]preparações especiais até mesmo para uma[n]possibilidade semelhante.[n][f 1 3 65535][w][e]

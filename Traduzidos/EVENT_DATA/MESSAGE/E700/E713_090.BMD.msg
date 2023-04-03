@@ -2,20 +2,20 @@
 [s][bup 0 108 500 65535 0][f 4 10 65535 0 0][vp 8 2 0 14133 65535 0]Todos os dados e amostras[n]do medicamento estão[n]nesse caso.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Avise-me se precisar de mais alguma coisa.[n][f 1 3 65535][w][e]
 
-[msg MSG_001_0_0 [Signore di mezza età]]
+[msg MSG_001_0_0 [Cavalheiro de meia idade]]
 [s][vp 8 0 0 0 5 0]Com base no que li[n]no relatório que ele me enviou,[n]os resultados são incríveis.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Faremos um último teste com[n]nosso equipamento e estaremos[n]prontos para o tratamento em Miwa-chan.[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Takemi]]
 [s][bup 0 108 500 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Perfeito. Agora está tudo[n]em suas mãos.[n][f 1 3 65535][w][e]
 
-[msg MSG_003_0_0 [Signore di mezza età]]
+[msg MSG_003_0_0 [Cavalheiro de meia idade]]
 [s][vp 8 0 0 0 5 0]E então, ele é o menino[n]de seus estudos?[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Takemi]]
 [s][bup 0 108 501 65535 0][f 4 10 65535 0 0][vp 8 2 0 14110 65535 0]Sim, ela é minha doce cobaia.[n][f 1 3 65535][w][e]
 
-[msg MSG_005_0_0 [Signore di mezza età]]
+[msg MSG_005_0_0 [Cavalheiro de meia idade]]
 [s][vp 8 0 0 0 5 0]Ele tomou um caminho arriscado,[n]mas tenho certeza que ele seguiu[n]todos os protocolos de segurança.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 5 0]Considere a oferta[n]sobre a qual conversamos, ok...?[n]OK, ligo para você mais tarde.[n][f 1 3 65535][w][e]
 

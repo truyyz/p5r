@@ -34,10 +34,10 @@
 [msg MSG_009_0_0 [Kasumi]]
 [s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas não justifica as reações[n]que testemunhei. Ele pode ser[n]um criminoso, mas...[n][f 1 3 65535][w][e]
 
-[msg MSG_010_0_0 [Donna cliente]]
+[msg MSG_010_0_0 [Cliente mulher]]
 [s][vp 8 0 0 0 65535 0]Aquele homem não estava no "Good Morning[n]Japan"? Da próxima vez você pode[n]ir a um show de comédia![n][f 1 3 65535][w][e]
 
-[msg MSG_011_0_0 [Studente rozzo]]
+[msg MSG_011_0_0 [Estudante rude]]
 [s][vp 8 0 0 0 65535 0]Uau, os Phantom Thieves sabem[n]como fazer um bom show.[n]Continue assim![n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Kasumi]]

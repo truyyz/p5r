@@ -11,7 +11,7 @@
 [msg MSG_002_0_0 [Haru]]
 [s][bup 0 7 103 65535 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]É terrível...[n][f 1 3 65535][w][e]
 
-[msg MSG_003_0_0 [Santo Graal]]
+[msg MSG_003_0_0 [Cálice Sagrado]]
 [s][vp 8 0 0 3 65535 0]Seus imbecis estão bêbados[n]com uma "justiça" indesejada...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 4 65535 0]Esta é a vontade dos[n]preguiçosos filhos do homem.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 5 65535 0]Meu brilho é a prova de que[n]eles anseiam por minha existência.[n][f 1 3 65535][w][e]
@@ -49,10 +49,10 @@
 [msg MSG_009_8_0 [Ann]]
 [s][bup 0 4 101 65535 0][f 4 10 65535 0 0][vp 8 0 0 60 65535 0]Ele está certo![n][f 1 3 65535][w][e]
 
-[msg MSG_023_0_0 [Santo Graal]]
+[msg MSG_023_0_0 [Cálice Sagrado]]
 [s][vp 8 0 0 30 65535 0]A humanidade já deseja que[n]distorções se tornem realidade.[n][f 1 3 65535][w][e]
 
-[msg MSG_023_5_0 [Santo Graal]]
+[msg MSG_023_5_0 [Cálice Sagrado]]
 [s][vp 8 0 0 31 65535 0]Eu não sou outro senão a entidade[n]que concederá esses desejos.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 32 65535 0]Agora, é hora de abandonar[n]meu lugar neste mundo e[n]começar a invadir a realidade.[n][f 1 3 65535][w][e]
 
@@ -75,13 +75,13 @@
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 67 65535 0]...Eu não sei quem você é, mas você[n]não pode continuar a decidir[n]arbitrariamente tudo isso.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 68 65535 0]Nem todos os humanos são[n]tão estúpidos quanto você diz![n][f 1 3 65535][w][e]
 
-[msg MSG_033_0_0 [Santo Graal]]
+[msg MSG_033_0_0 [Cálice Sagrado]]
 [s][vp 8 0 0 33 65535 0]Umpf. Humanos tolos e preguiçosos.[n]Ofereçam-me seus corações...[n][f 1 3 65535][w][e]
 
 [msg MSG_034_0_0 [(SE)仲間たち]]
 [s][vp 8 0 0 45 65535 0]うわぁぁぁ/キャアアア(うめき)[n][f 1 3 65535][w][e]
 
-[msg MSG_037_0_0 [Santo Graal]]
+[msg MSG_037_0_0 [Cálice Sagrado]]
 [s][vp 8 0 0 48 65535 0]Agora, chegou a hora da[n]fusão...[n][f 1 3 65535][w][e]
 
 [msg MSG_037_2_0 [Yusuke]]

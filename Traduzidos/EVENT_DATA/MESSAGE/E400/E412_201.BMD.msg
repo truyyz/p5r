@@ -1,14 +1,14 @@
-[msg MSG_000_0_0 [Ombra dello Spazzino]]
+[msg MSG_000_0_0 [Sombra do varredor de rua]]
 [s][vp 8 0 0 1 65535 0]Haha, vocês punks são durões![n]Gostei![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 2 65535 0]Você tem coragem.[n]Ok, vou te dar minha carta.[n][f 1 3 65535][w][e]
 
-[msg MSG_001_0_0 [Ombra dello Spazzino]]
+[msg MSG_001_0_0 [Sombra do varredor de rua]]
 [s][vp 8 0 0 3 65535 0]Normalmente, eu teria que "limpá-lo" para[n]o caos desencadeado no navio, mas...[n]isso não faz mais sentido.[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Yusuke]]
 [s][bup 0 5 100 65535 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]Ele vai nos deixar ir?[n][f 1 3 65535][w][e]
 
-[msg MSG_003_0_0 [Ombra dello Spazzino]]
+[msg MSG_003_0_0 [Sombra do varredor de rua]]
 [s][vp 8 0 0 5 65535 0]Este lugar terá vida curta se[n]poderosos guerreiros como você[n]foram capazes de se infiltrar a bordo.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 6 65535 0]É hora de fugir. O capitão tem[n]sido ótimo, é claro, mas ele[n]afundará seu navio sozinho.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 7 65535 0]Vejo vocês.[n][f 1 3 65535][w][e]

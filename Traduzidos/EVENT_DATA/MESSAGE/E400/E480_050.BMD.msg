@@ -2,7 +2,7 @@
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Os sinais dos inimigos diminuíram?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas acima de tudo... quem está aí[n]com você, Joker?[n][f 1 3 65535][w][e]
 
-[msg MSG_001_0_0 [voz de criança]]
+[msg MSG_001_0_0 [Voz de criança]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bem...[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Garota misteriosa]]

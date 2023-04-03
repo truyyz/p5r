@@ -4,15 +4,15 @@
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]No entanto, ninguém ainda veio[n]para vê-la ...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Talvez eles tenham tanto medo[n]da verdade que ela contém que[n]não ousam abordá-la.[n][f 1 3 65535][w][e]
 
-[msg MSG_001_0_0 [Signora di mezza età]]
+[msg MSG_001_0_0 [Senhora de meia idade]]
 [s][vp 8 0 0 0 65535 0]E o que isso representa...?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Emite uma aura escura, quase sinistra.[n][f 1 3 65535][w][e]
 
-[msg MSG_002_0_0 [Signore di mezza età]]
+[msg MSG_002_0_0 [Cavalheiro de meia idade]]
 [s][vp 8 0 0 0 65535 0]Mmh, chama-se... "Desejo". Hã?[n]Não vejo nenhum desejo aqui.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Ah, agora eu entendo. Esta é a área[n]dedicada aos alunos. Terá sido[n]pintado de uma só vez.[n][f 1 3 65535][w][e]
 
-[msg MSG_003_0_0 [Signora di mezza età]]
+[msg MSG_003_0_0 [Senhora de meia idade]]
 [s][vp 8 0 0 0 65535 0]Já. Esta foto é totalmente[n]carente de elegância e emoção.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Venha querido. Há[n]mais pinturas bem conservadas por lá.[n][f 1 3 65535][w][e]
 
@@ -24,36 +24,36 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eram apenas chavões falados por pessoas comuns e[n]ignorantes. Não preciso me preocupar com eles.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 5 1 300 65535][vp 8 0 0 0 65535 0]Desde que os especialistas[n]entendam meu trabalho,[n]posso me considerar feliz.[n][f 1 3 65535][w][e]
 
-[msg MSG_006_0_0 [Gentiluomo anziano]]
+[msg MSG_006_0_0 [Senhor idoso]]
 [s][vp 8 0 0 0 65535 0]Isto é... Mmm...[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Yusuke]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 5 1 300 1][vp 8 2 0 4105 65535 0]Olhar! Aqui está um especialista.[n][f 1 3 65535][w][e]
 
-[msg MSG_008_0_0 [Gentiluomo anziano]]
+[msg MSG_008_0_0 [Senhor idoso]]
 [s][vp 8 0 0 0 65535 0]Hum?[n][f 1 3 65535][w][e]
 
 [msg MSG_008_5_0 [Yusuke]]
 [s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Senhor, gostaria de sua opinião...[n]O que você acha deste trabalho?[n][f 1 3 65535][w][e]
 
-[msg MSG_008_7_0 [Gentiluomo anziano]]
+[msg MSG_008_7_0 [Senhor idoso]]
 [s][vp 8 0 0 0 65535 0]Está claro por que ela foi admitida[n]para esta exposição.[n]A técnica é excelente.[n][f 1 3 65535][w][e]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 5 3 301 65535][vp 8 0 0 0 65535 0]No entanto... no geral, a[n]composição pode ser julgada[n]medíocre na melhor das hipóteses.[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Yusuke]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 5 3 301 1][vp 8 2 0 4046 65535 0]Como você ousa...![n][f 1 3 65535][w][e]
 
-[msg MSG_010_0_0 [Gentiluomo anziano]]
+[msg MSG_010_0_0 [Senhor idoso]]
 [s][vp 8 0 0 0 65535 0]Ah, você é o autor?[n][f 1 3 65535][w][e]
 
-[msg MSG_011_0_0 [Gentiluomo anziano]]
+[msg MSG_011_0_0 [Senhor idoso]]
 [s][vp 8 0 0 0 65535 0]O título é "Desejo"...[n]mas é uma ideia francamente superutilizada.[n]Alguns diriam até obsoleto.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Uma obra abstrata com um tema tão[n]comum deve ser infundida[n]com uma personalidade forte.[n][f 1 3 65535][w][e]
 
 [msg MSG_011_5_0 [Yusuke]]
 [s][bup 0 5 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O que...?[n][f 1 3 65535][w][e]
 
-[msg MSG_012_0_0 [Gentiluomo anziano]]
+[msg MSG_012_0_0 [Senhor idoso]]
 [s][vp 8 0 0 0 65535 0]Tente observar a pintura[n]sem se deixar influenciar por[n]ser seu autor.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Considerando sua idade, a técnica[n]é superfina, mas essa[n]pintura realmente diz alguma coisa?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Está vazio, sem sentido.[n][f 1 3 65535][w][e]
@@ -148,6 +148,6 @@
 [msg MSG_034_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 4050 65535 0]Vamos para casa.[n]Quero recomeçar.[n][f 1 3 65535][w][e]
 
-[msg MSG_035_0_0 [Gentiluomo anziano]]
+[msg MSG_035_0_0 [Senhor idoso]]
 [s][vp 8 0 0 0 65535 0]...Um quarteirão, né?[n][f 1 3 65535][w][e]
 

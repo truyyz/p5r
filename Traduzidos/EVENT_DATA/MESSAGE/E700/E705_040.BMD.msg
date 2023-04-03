@@ -43,7 +43,7 @@
 [s][bup 0 103 4 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ela...[n][f 1 3 65535][w][e]
 [s][f 4 7 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 103 3 300 1][f 4 23 0 4 9 10 0 10][vp 8 2 0 5047 65535 0]Já não te disse que não tenho dinheiro? Olhe ao[n]redor. Você vê multidões de clientes?[n][f 1 3 65535][w][e]
 
-[msg MSG_009_0_0 [Anziano allegro]]
+[msg MSG_009_0_0 [Velho alegre]]
 [s][vp 8 0 0 0 65535 0]Não brinque comigo, Sakura-san![n]Quem sabe quanto ele economizou[n]trabalhando para o governo.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]E ele não está cuidando[n]daquela funcionária dele por puro[n]espírito de caridade?[n][f 1 3 65535][w][e]
 [s][f 4 23 0 6 3 10 0 10][vp 8 0 0 0 65535 0]Eu gostaria que você fosse legal[n]comigo também.[n][f 1 3 65535][w][e]
@@ -52,7 +52,7 @@
 [s][bup 0 103 2 0 0][f 4 10 65535 0 0][vp 8 2 0 5028 65535 0]Se você não pretende pedir nada,[n]poderia sair?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Estou esperando uma ligação[n]e não tenho tempo para conversar.[n][f 1 3 65535][w][e]
 
-[msg MSG_011_0_0 [Anziano allegro]]
+[msg MSG_011_0_0 [Velho alegre]]
 [s][vp 8 0 0 0 65535 0]Você também pode responder comigo[n]presente. Nesse ínterim, eu poderia[n]falar com seu jovem amigo.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Até o telefone tocar[n]podemos bater um papo, não podemos?[n]Ou isso te causa problemas?[n][f 1 3 65535][w][e]
 
@@ -74,7 +74,7 @@
 [s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ah, aqui está a ligação do[n]serviço social que eu estava esperando.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eles vêm aqui com bastante frequência para[n]garantir que nosso amigo fique longe de[n]problemas. Posso apresentá-los a você?[n][f 1 3 65535][w][e]
 
-[msg MSG_019_0_0 [Anziano allegro]]
+[msg MSG_019_0_0 [Velho alegre]]
 [s][vp 8 0 0 0 65535 0]...Oh, certo! Na verdade[n]tenho algumas coisas para fazer também.[n]Volto outra hora![n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Sojiro]]

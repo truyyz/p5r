@@ -78,10 +78,10 @@
 [s][vp 8 2 0 74 65535 0]Eu consegui...[n]Felizmente, foi mais fácil[n]consertar do que eu pensava.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Sinto que adquiri[n]mais [f 4 11 2][clr 26][f 4 12 2][clr 27]...[n][f 1 3 65535][w][e]
 
-[msg MSG_YAMI_NET [Affari loschi di Tanaka]]
+[msg MSG_YAMI_NET [Os negócios obscuros de Tanaka]]
 [s][bup 0 210 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Saudações! Você está no Shady Business de Tanaka![n]Repito, você está no Shady Business de[n]Tanakaaa![n][f 1 3 65535][w][e]
 
-[msg MSG_YAMI_NET_2 [Affari loschi di Tanaka]]
+[msg MSG_YAMI_NET_2 [Os negócios obscuros de Tanaka]]
 [s][bup 0 210 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Aqui vendemos itens raros[n]e maravilhosos não disponíveis[n]para o público em geral![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Algo desperta sua curiosidade?[n]Você está no lugar certo! Você quer[n]algo? Você está no lugar certo![n][f 1 3 65535][w][e]
 

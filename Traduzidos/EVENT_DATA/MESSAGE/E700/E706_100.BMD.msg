@@ -1,4 +1,4 @@
-[msg MSG_000_0_0 [Impiegato dell'agenzia]]
+[msg MSG_000_0_0 [Funcionário da agência]]
 [s][vp 8 0 0 0 65535 0]E não faça mais coisas assim,[n]entendeu?[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Mika]]
@@ -7,23 +7,23 @@
 [msg MSG_002_0_0 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 6001 65535 0]O que está acontecendo?[n][f 1 3 65535][w][e]
 
-[msg MSG_003_0_0 [Impiegato dell'agenzia]]
+[msg MSG_003_0_0 [Funcionário da agência]]
 [s][vp 8 0 0 0 65535 0]Ah, hum...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Ah sim. Você também está entre[n]as vítimas. Posso te contar,[n]Mika-chan?[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Mika]]
 [s][bup 0 215 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sim...[n][f 1 3 65535][w][e]
 
-[msg MSG_005_0_0 [Impiegato dell'agenzia]]
+[msg MSG_005_0_0 [Funcionário da agência]]
 [s][vp 8 0 0 0 65535 0]Você se lembra, antigamente, quando acontecia[n]que as modelos não apareciam[n]para as sessões?[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ah, sim, eu me lembro.[n][f 1 3 65535][w][e]
 
-[msg MSG_007_0_0 [Impiegato dell'agenzia]]
+[msg MSG_007_0_0 [Funcionário da agência]]
 [s][vp 8 0 0 0 65535 0]Bom. Aparentemente, foi Mika-chan quem[n]os contatou em nome da agência,[n]dizendo que o local havia mudado.[n][f 1 3 65535][w][e]
 
-[msg MSG_008_0_0 [Impiegato dell'agenzia]]
+[msg MSG_008_0_0 [Funcionário da agência]]
 [s][vp 8 0 0 0 65535 0]Houve rumores de que[n]poderia ser ela, mas pensamos que[n]era ciúme.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Afinal, os serviços que ela prestou como[n]substituta aumentaram muito sua visibilidade.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Hoje eu perguntei a ela se ela sabia[n]algo sobre isso... E ela respondeu[n]apenas: "Sinto muito."[n][f 1 3 65535][w][e]
@@ -32,7 +32,7 @@
 [s][bup 0 215 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu fiz uma coisa realmente[n]terrível. Criei tantos[n]problemas para todos...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas a partir de agora vou tentar[n]ainda mais, eu prometo...[n][f 1 3 65535][w][e]
 
-[msg MSG_010_0_0 [Impiegato dell'agenzia]]
+[msg MSG_010_0_0 [Funcionário da agência]]
 [s][vp 8 0 0 0 65535 0]*suspiro*[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]De qualquer forma, vamos começar.[n]Você está pronto, não está?[n][f 1 3 65535][w][e]
 
@@ -86,31 +86,31 @@
 [s][vp 8 0 0 0 65535 0]A sessão de fotos começou...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Ann e Mika sorrindo[n]para a câmera...[n][f 1 3 65535][w][e]
 
-[msg MSG_025_0_0 [Fotografo]]
+[msg MSG_025_0_0 [Eu fotografo]]
 [s][vp 8 0 0 0 65535 0]Sim como isso! Por aqui![n][f 1 3 65535][w][e]
 
-[msg MSG_026_0_0 [Uomo dai capelli castani]]
+[msg MSG_026_0_0 [Homem de cabelo castanho]]
 [s][vp 8 0 0 0 10 0]Ei, não é a Mika?[n]Uau, ela é ainda mais fofa na vida real.[n][f 1 3 65535][w][e]
 
-[msg MSG_027_0_0 [Studentessa universitaria]]
+[msg MSG_027_0_0 [Estudante universitário]]
 [s][vp 8 0 0 0 13 0]É Mika! Oh, Ann está aqui também![n]Eles são fofos...![n][f 1 3 65535][w][e]
 
-[msg MSG_028_0_0 [Donna dai capelli lunghi]]
+[msg MSG_028_0_0 [Mulher de cabelos compridos]]
 [s][vp 8 0 0 0 12 0]Quem sabe o que eles comem para ter[n]corpos iguais... Como o mundo é injusto![n][f 1 3 65535][w][e]
 
-[msg MSG_029_0_0 [Studentessa universitaria]]
+[msg MSG_029_0_0 [Estudante universitário]]
 [s][vp 8 0 0 0 13 0]Elas podem ter nascido lindas,[n]mas pra ter um corpo assim[n]tem que ir pra academia![n][f 1 3 65535][w][e]
 
-[msg MSG_030_0_0 [Fotografo]]
+[msg MSG_030_0_0 [Eu fotografo]]
 [s][vp 8 0 0 0 65535 0]Nossa, que pose! Faça-me algum[n]outro, assim![n][f 1 3 65535][w][e]
 
-[msg MSG_031_0_0 [Impiegato della redazione]]
+[msg MSG_031_0_0 [Funcionário editorial]]
 [s][vp 8 0 0 0 7 0]Algo mudou[n]em Ann-chan, hein?[n][f 1 3 65535][w][e]
 
 [msg MSG_032_0_0 [Assistente]]
 [s][vp 8 0 0 0 9 0]Sim. Agora ela é... muito mais sexy.[n]Talvez ela tenha ganhado mais[n]confiança em seus meios.[n][f 1 3 65535][w][e]
 
-[msg MSG_033_0_0 [Assistente fotografo]]
+[msg MSG_033_0_0 [Assistente de fotógrafo]]
 [s][vp 8 0 0 0 65535 0]OK, vamos fazer uma pausa.[n]Vá se trocar, Mika-chan.[n][f 1 3 65535][w][e]
 
 [msg MSG_034_0_0 [Ann]]
@@ -159,7 +159,7 @@
 [msg MSG_045_0_0 [Ann]]
 [s][bup 0 4 600 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 2], você é minha luz.[n][f 1 3 65535][w][e]
 
-[msg MSG_046_0_0 [Assistente fotografo]]
+[msg MSG_046_0_0 [Assistente de fotógrafo]]
 [s][vp 8 0 0 0 11 0]OK, pausa![n]Ann-chan, esta sessão[n]vamos focar em você![n][f 1 3 65535][w][e]
 
 [msg MSG_047_0_0 [Ann]]

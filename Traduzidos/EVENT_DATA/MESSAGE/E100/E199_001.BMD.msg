@@ -87,19 +87,19 @@
 [msg SYS_030_0_0]
 [s][vp 8 0 0 0 65535 0]O local foi transferido do[n]Rooftop da Shujin Academy[n]para o [clr 2]Corridor Teikyu Building, Shibuya[clr 27].[n][f 1 3 65535][w][e]
 
-[msg MSG_031_0_0 [Mulher com uma câmera]]
+[msg MSG_031_0_0 [Mulher com um quarto]]
 [s][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 35 65535 0]Ei, posso falar com vocês por um[n]segundo?[n][f 1 3 65535][w][e]
 
 [msg MSG_032_0_0 [Ryuji]]
 [s][bup 0 2 3 65535 0][vp 1 0 0 48 0 0]Hã?[n][f 1 3 65535][w][e]
 
-[msg MSG_033_0_0 [Mulher com uma câmera]]
+[msg MSG_033_0_0 [Mulher com um quarto]]
 [s][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 36 65535 0]Pelo que vejo,[n]você não é o fã clássico[n]um pouco perseguidor.[n][f 1 3 65535][w][e]
 
 [msg MSG_034_0_0 [Ann]]
 [s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 49 65535 0]Uh...[n][f 1 3 65535][w][e]
 
-[msg MSG_035_0_0 [Mulher com uma câmera]]
+[msg MSG_035_0_0 [Mulher com um quarto]]
 [s][bup 0 107 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 37 65535 0]Oh, com licença. Eu deveria ter sido[n]mais explícito. Estou procurando pessoas que[n]conheçam os alunos de Madarame.[n][f 1 3 65535][w][e]
 [s][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 38 65535 0]Existe esta pintura, "Sayuri",[n]que foi pensado para ter[n]roubado no passado.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 39 65535 0]Mas dizem que ele foi roubado[n]por um de seus alunos, para[n]vingar-se dos abusos que sofreu.[n][f 1 3 65535][w][e]
@@ -109,7 +109,7 @@
 [s]Não estamos interessados em arte.[e]
 [s]Ryuji sabe algo sobre isso.[e]
 
-[msg MSG_037_0_0 [Mulher com uma câmera]]
+[msg MSG_037_0_0 [Mulher com um quarto]]
 [s][bup 0 107 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 41 65535 0]Eu entendo...[n][f 1 3 65535][w][e]
 
 [msg MSG_038_0_0 [Ryuji]]
@@ -118,19 +118,19 @@
 [msg MSG_038_5_0 [Ryuji]]
 [s][bup 0 2 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 51 65535 0]Eu não sei porra nenhuma![n][f 1 3 65535][w][e]
 
-[msg MSG_039_0_0 [Mulher com uma câmera]]
+[msg MSG_039_0_0 [Mulher com um quarto]]
 [s][bup 0 107 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 43 65535 0]Eu entendo...[n][f 1 3 65535][w][e]
 
-[msg MSG_040_0_0 [Mulher com uma câmera]]
+[msg MSG_040_0_0 [Mulher com um quarto]]
 [s][bup 0 107 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 44 65535 0]Nenhuma vítima, nenhum caso. E se[n]não houver evidência de abuso,[n]nem posso escrever sobre isso.[n][f 1 3 65535][w][e]
 
-[msg MSG_040_5_0 [Mulher com uma câmera]]
+[msg MSG_040_5_0 [Mulher com um quarto]]
 [s][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 45 65535 0]Parece que estou de volta[n]onde comecei. Desculpe[n]pelo inconveniente.[n][f 1 3 65535][w][e]
 
-[msg MSG_040_7_0 [Mulher com uma câmera]]
+[msg MSG_040_7_0 [Mulher com um quarto]]
 [s][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 46 65535 0]Eu sou jornalista. Se você[n]encontrar alguma pista,[n]poderia entrar em contato comigo?[n][f 1 3 65535][w][e]
 
-[msg MSG_041_0_0 [Mulher com uma câmera]]
+[msg MSG_041_0_0 [Mulher com um quarto]]
 [s][bup 0 107 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 47 65535 0]Até mais.[n][f 1 3 65535][w][e]
 
 [msg MSG_042_0_0 [Ryuji]]

@@ -1,4 +1,4 @@
-[msg MSG_000_0_0 [Ombra di Nakanohara]]
+[msg MSG_000_0_0 [Sombra de Nakanohara]]
 [s][bup 0 214 501 0 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]S-Sinto muito...[n]Por favor, me perdoe...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Perdi a cabeça desde que uma[n]pessoa em quem eu confiava me usou[n]e depois se livrou de mim...[n][f 1 3 65535][w][e]
 
@@ -16,17 +16,17 @@
 [msg MSG_003_5_0 [Ann]]
 [s][bup 0 4 100 65535 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Então, essa pessoa...[n]É o Madarame que você[n]estava falando antes?[n][f 1 3 65535][w][e]
 
-[msg MSG_004_0_0 [Ombra di Nakanohara]]
+[msg MSG_004_0_0 [Sombra de Nakanohara]]
 [s][bup 0 214 501 0 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Tive medo de ser jogado fora[n]novamente, como algo inútil.[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Ann]]
 [s][bup 0 4 103 65535 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Então você também sofreu[n]por causa de um bastardo egoísta...[n][f 1 3 65535][w][e]
 [s][bup 0 4 100 65535 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Mas você não deveria ter[n]envolvido uma mulher[n]que não teve nada a ver com isso.[n][f 1 3 65535][w][e]
 
-[msg MSG_006_0_0 [Ombra di Nakanohara]]
+[msg MSG_006_0_0 [Sombra de Nakanohara]]
 [s][bup 0 214 501 0 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Sim, agora eu entendo. Porei[n]um fim ao meu amor por ela...[n][f 1 3 65535][w][e]
 
-[msg MSG_006_1_0 [Ombra di Nakanohara]]
+[msg MSG_006_1_0 [Sombra de Nakanohara]]
 [s][bup 0 214 501 0 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]...Ei, você pode despertar[n]o coração das pessoas, não pode?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Se sim...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Você poderia despertar o coração[n]de Madarame? Antes que eu faça[n]mais vítimas...[n][f 1 3 65535][w][e]

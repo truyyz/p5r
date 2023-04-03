@@ -34,7 +34,7 @@
 [msg MSG_011_0_0 [Ann]]
 [s][vp 6 0 0 12 7 0]Você sabe oquê? Eu não sou uma garotinha[n]nada para se divertir... merda.[n][f 1 2 142][e]
 
-[msg MSG_012_0_0 [Ombra di Kamoshida]]
+[msg MSG_012_0_0 [Sombra de Kamoshida]]
 [s][vp 1 0 0 13 0 0]Cadela...![n][f 1 2 32][e]
 
 [msg MSG_013_0_0 [Ann]]
@@ -43,7 +43,7 @@
 [msg MSG_014_0_0 [Ann]]
 [s][vp 1 0 0 15 0 0]Vou tirar tudo de você...![n][f 1 2 70][e]
 
-[msg MSG_015_0_0 [Capitão da Guarda]]
+[msg MSG_015_0_0 [Capitão da guarda]]
 [s][vp 1 0 0 16 0 0]Como você ousa! Chega dessa insolência![n][f 1 2 90][e]
 
 [msg MSG_016_0_0 [Ann]]

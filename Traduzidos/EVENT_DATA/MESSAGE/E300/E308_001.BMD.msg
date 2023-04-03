@@ -7,7 +7,7 @@
 [msg MSG_002_0_0 [Ann]]
 [s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Ficamos à vontade.[n][f 1 3 65535][w][e]
 
-[msg MSG_003_0_0 [Reporter]]
+[msg MSG_003_0_0 [Repórter]]
 [s][vp 8 0 0 4 65535 0]Segundo várias fontes, ontem à noite o site do[n]grupo hacker Medjed foi invadido.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 5 65535 0]A página principal do site,[n]por enquanto, carrega o que parece[n]ser o logotipo dos Phantom Thieves.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 6 65535 0]Além disso, a[n]identidade de um japonês,[n]um possível membro Medjed, foi publicada.[n][f 1 3 65535][w][e]
@@ -15,7 +15,7 @@
 [msg MSG_004_0_0 [Sojiro]]
 [s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Eles não são aqueles caras dos quais[n]as pessoas vivem reclamando?[n][f 1 3 65535][w][e]
 
-[msg MSG_005_0_0 [Reporter]]
+[msg MSG_005_0_0 [Repórter]]
 [s][vp 8 0 0 8 65535 0]Medjed ainda não[n]emitiu uma declaração oficial.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 9 65535 0]Além disso, a "purificação" do[n]Japão que foi anunciada[n]não parece ter sido implementada.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 10 65535 0]Segundo alguns rumores, Medjed[n]teria levado o assunto a sério,[n]até cancelar seus planos.[n][f 1 3 65535][w][e]
@@ -42,7 +42,7 @@
 [msg MSG_006_7_0 [Sojiro]]
 [s][bup 0 103 2 0 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Bem, pare com isso. Você vai[n]acabar fazendo meus clientes fugirem.[n][f 1 3 65535][w][e]
 
-[msg MSG_007_0_0 [Reporter]]
+[msg MSG_007_0_0 [Repórter]]
 [s][vp 8 0 0 13 65535 0]Após a interrupção da publicidade,[n]pediremos aos nossos convidados[n]sua opinião sobre os últimos eventos.[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Ryuji]]
@@ -91,7 +91,7 @@
 [msg MSG_020_5_0 [Sojiro]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 103 15 301 1][vp 1 0 0 45 0 0]......[n][f 1 3 65535][w][e]
 
-[msg MSG_021_0_0 [Reporter]]
+[msg MSG_021_0_0 [Repórter]]
 [s][vp 8 0 0 31 65535 0]O que você quer dizer?[n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Shido]]
@@ -101,13 +101,13 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 35 65535 0]Acho que devo arriscar[n]minha carreira política e espero[n]que possa criar uma nova realidade.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 36 65535 0]Um novo sistema político, livre[n]de facções ou partidos... Um país[n]onde reinam a paz e a ordem.[n][f 1 3 65535][w][e]
 
-[msg MSG_023_0_0 [Cliente Idoso]]
+[msg MSG_023_0_0 [Cliente inadimplente]]
 [s][vp 8 0 0 37 5 0]Este político parece[n]muito promissor.[n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [Cliente Idosa]]
 [s][vp 8 0 0 38 11 0]Eu tenho que concordar com você. Espero poder[n]fazer algo para tranquilizar[n]os anciãos.[n][f 1 3 65535][w][e]
 
-[msg MSG_025_0_0 [Cliente Idoso]]
+[msg MSG_025_0_0 [Cliente inadimplente]]
 [s][vp 8 0 0 39 5 0]O que você acha, chefe?[n][f 1 3 65535][w][e]
 
 [msg MSG_026_0_0 [Sojiro]]

@@ -1,36 +1,36 @@
-[msg MSG_000_0_0 [Donna entusiasta]]
+[msg MSG_000_0_0 [Mulher entusiasmada]]
 [s][vp 8 0 0 0 6 0]...Está certo. Seu próximo[n]oponente finalmente[n]será um profissional.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 6 0]Um cliente meu é um figurão[n]da Associação dos Profissionais,[n]eu trabalhei bem com ele.[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Hifumi]]
 [s][bup 0 106 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 18044 65535 0]Mas...[n][f 1 3 65535][w][e]
 
-[msg MSG_002_0_0 [Donna entusiasta]]
+[msg MSG_002_0_0 [Mulher entusiasmada]]
 [s][vp 8 0 0 0 6 0]Hum? Esse cara[n]é seu fã, Hifumi?[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Hifumi]]
 [s][bup 0 106 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Não, mãe.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ele é meu amigo shogi...[n]Eu te falei sobre ele,[n]você não se lembra?[n][f 1 3 65535][w][e]
 
-[msg MSG_004_0_0 [Madre di Hifumi]]
+[msg MSG_004_0_0 [Mãe de Hifumi]]
 [s][vp 8 0 0 0 65535 0]Um amigo de shogi, mmh?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Deixe-me dizer uma coisa:[n]Espero que você não esteja escondendo alguns[n]sentimentos bizarros por Hifumi.[n][f 1 3 65535][w][e]
 
 [msg MSG_004_5_0 [Hifumi]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 106 5 301 1][vp 8 2 0 18042 65535 0]Mãe...![n][f 1 3 65535][w][e]
 
-[msg MSG_005_0_0 [Madre di Hifumi]]
+[msg MSG_005_0_0 [Mãe de Hifumi]]
 [s][vp 8 0 0 0 65535 0]Tenho certeza que você já sabe,[n]mas você não tem permissão para namorar[n]ninguém, mocinha.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Você está atraindo muitos[n]novos fãs do sexo masculino graças a[n]suas fotos.[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Hifumi]]
 [s][bup 0 106 5 65535 0][f 4 10 65535 0 0][vp 8 2 0 18123 65535 0]...Sim, mãe.[n][f 1 3 65535][w][e]
 
-[msg MSG_007_0_0 [Madre di Hifumi]]
+[msg MSG_007_0_0 [Mãe de Hifumi]]
 [s][vp 8 0 0 0 65535 0]Você pode ter cinquenta caras[n]como ele quando ficar famoso.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Quero que você tenha sucesso[n]em tudo em que falhei.[n][f 1 3 65535][w][e]
 
-[msg MSG_008_0_0 [Madre di Hifumi]]
+[msg MSG_008_0_0 [Mãe de Hifumi]]
 [s][vp 8 0 0 0 65535 0]Agora vou trabalhar.[n]Não espere por mim.[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Hifumi]]

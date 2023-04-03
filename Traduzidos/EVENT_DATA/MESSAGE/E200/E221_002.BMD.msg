@@ -1,13 +1,13 @@
-[msg MSG_000_0_0 [Studente entusiasta]]
+[msg MSG_000_0_0 [Estudante entusiasta]]
 [s][vp 8 0 0 1 7 0]Você viu a entrevista coletiva de Madarame?[n][f 1 3 65535][w][e]
 
-[msg MSG_001_0_0 [Studente gentile]]
+[msg MSG_001_0_0 [Aluno gentil]]
 [s][vp 8 0 0 2 8 0]Você quer dizer aquele cara reclamando[n]"Como vou... me desculpar pelo[n]que eu fiz... Aaaah..."?[n][f 1 3 65535][w][e]
 
-[msg MSG_002_0_0 [Studente entusiasta]]
+[msg MSG_002_0_0 [Estudante entusiasta]]
 [s][vp 8 0 0 3 7 0]Você realmente acha que foram aqueles Phantom[n]Thieves? Você sabe, não, toda a coisa do roubo[n]do coração.[n][f 1 3 65535][w][e]
 
-[msg MSG_003_0_0 [Studente gentile]]
+[msg MSG_003_0_0 [Aluno gentil]]
 [s][vp 8 0 0 4 8 0]Isso... Impossível. Mas, por outro lado[n]mão... seria muito conveniente[n]se fosse tudo uma coincidência.[n][f 1 3 65535][w][e]
 
 [msg MSG_003_5_0]

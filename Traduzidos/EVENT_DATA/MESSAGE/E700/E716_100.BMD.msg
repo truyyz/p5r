@@ -29,7 +29,7 @@
 [msg MSG_007_0_0 [Shinya]]
 [s][bup 0 110 0 0 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Oh, lá estão eles.[n][f 1 3 65535][w][e]
 
-[msg MSG_008_0_0 [Ragazzo sprezzante]]
+[msg MSG_008_0_0 [Menino desdenhoso]]
 [s][vp 8 0 0 12 65535 0]Bem, sobre o que você quer[n]falar?[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Shinya]]
@@ -41,10 +41,10 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Eu entenderia se você não quisesse, mas...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]...Prometo que devolverei[n]dinheiro assim que puder[n]guardar.[n][f 1 3 65535][w][e]
 
-[msg MSG_013_0_0 [Ragazzo sprezzante]]
+[msg MSG_013_0_0 [Menino desdenhoso]]
 [s][vp 8 0 0 20 65535 0]...bem, tem mais alguma coisa?[n][f 1 3 65535][w][e]
 
-[msg MSG_014_0_0 [Ragazzino tranquillo]]
+[msg MSG_014_0_0 [Menino quieto]]
 [s][vp 1 0 0 21 0 0]......[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Shinya]]
@@ -54,10 +54,10 @@
 [msg MSG_016_0_0 [Shinya]]
 [s][bup 0 110 0 0 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Vamos.[n][f 1 3 65535][w][e]
 
-[msg MSG_017_0_0 [Ragazzino tranquillo]]
+[msg MSG_017_0_0 [Menino quieto]]
 [s][vp 8 0 0 24 65535 0]Pare![n][f 1 3 65535][w][e]
 
-[msg MSG_018_0_0 [Ragazzino tranquillo]]
+[msg MSG_018_0_0 [Menino quieto]]
 [s][vp 8 0 0 25 65535 0]Eu sou péssimo em Gun[n]Sobre... Por que você não me ensina[n]como melhorar?[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Shinya]]
@@ -66,7 +66,7 @@
 [msg MSG_022_0_0 [Takekuma]]
 [s][vp 8 0 0 29 65535 0]Desculpe pessoal, eu não queria interrompê-los...[n][f 1 3 65535][w][e]
 
-[msg MSG_023_0_0 [Ragazzino tranquillo]]
+[msg MSG_023_0_0 [Menino quieto]]
 [s][vp 8 0 0 31 65535 0]Ei, é o jogador profissional...[n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [Takekuma]]
@@ -94,10 +94,10 @@
 [msg MSG_030_0_0 [Takekuma]]
 [s][vp 8 0 0 42 65535 0]... Tsk! Que merda é essa!?![n][f 1 3 65535][w][e]
 
-[msg MSG_031_0_0 [Spettatore]]
+[msg MSG_031_0_0 [Visualizador]]
 [s][vp 8 0 0 43 65535 0]Uau, o campeão não consegue[n]nem atirar![n][f 1 3 65535][w][e]
 
-[msg MSG_032_0_0 [Spettatore chiassoso]]
+[msg MSG_032_0_0 [Espectador barulhento]]
 [s][vp 8 0 0 44 65535 0]Takekuma está prestes a perder![n]O Rei vai vencer![n][f 1 3 65535][w][e]
 
 [msg MSG_033_0_0 [Takekuma]]
@@ -125,10 +125,10 @@
 [s][vp 8 0 0 56 65535 0]Palavras sábias... para um garotinho...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 57 65535 0]Vou desistir do torneio.[n]Até a próxima.[n][f 1 3 65535][w][e]
 
-[msg MSG_039_0_0 [Ragazzo sprezzante]]
+[msg MSG_039_0_0 [Menino desdenhoso]]
 [s][vp 8 0 0 58 65535 0]...Você foi incrível![n]Você venceu um profissional![n][f 1 3 65535][w][e]
 
-[msg MSG_040_0_0 [Ragazzino tranquillo]]
+[msg MSG_040_0_0 [Menino quieto]]
 [s][vp 8 0 0 59 65535 0]O Rei é o novo campeão![n][f 1 3 65535][w][e]
 
 [msg MSG_041_0_0 [Shinya]]

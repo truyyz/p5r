@@ -1,7 +1,7 @@
 [msg TEST_000]
 [s]スクリプトから発行した[n]メッセージです。[n][w][e]
 
-[msg MSG_CHALK_START [Studentessa]]
+[msg MSG_CHALK_START [Estudante]]
 [s]Ei, ele realmente vai fazer isso?[n][w][e]
 [s][f 1 5]Aluno[n]Aqui está! Arremesso de Giz de Ushimaru![n]Nunca está errado![n][w][e]
 

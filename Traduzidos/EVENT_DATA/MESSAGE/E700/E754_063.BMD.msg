@@ -52,7 +52,7 @@
 [msg MSG_014_0_0 [Kawakami]]
 [s][bup 0 109 501 65535 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]...Com licença.[n][f 1 3 65535][w][e]
 
-[msg MSG_015_0_0 [Presentatore]]
+[msg MSG_015_0_0 [Locutor]]
 [s][vp 8 0 0 16 65535 0]Senhoras e senhores, obrigado por[n]se juntarem a nós neste[n]dia especial.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 17 65535 0]Desejamos-lhe uma noite[n]inesquecível, com um pequeno[n]toque final nosso...[n][f 1 3 65535][w][e]
 

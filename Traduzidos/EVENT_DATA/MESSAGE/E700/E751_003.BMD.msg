@@ -27,20 +27,20 @@
 [s][bup 0 6 3 4 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Parece que não sobrou nada[n]...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Que pena.[n]Vamos procurar outro lugar.[n][f 1 3 65535][w][e]
 
-[msg MSG_007_0_0 [Membro dello staff allegro]]
+[msg MSG_007_0_0 [Funcionário alegre]]
 [s][f 4 10 65535 0 0][vp 8 0 0 11 8 0]Você está procurando um bolo de Natal,[n]por acaso?[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Makoto]]
 [s][bup 0 6 4 4 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]O-Oh, um... Na verdade, sim.[n][f 1 3 65535][w][e]
 
-[msg MSG_009_0_0 [Membro dello staff allegro]]
+[msg MSG_009_0_0 [Funcionário alegre]]
 [s][f 4 10 65535 0 0][vp 8 0 0 13 8 0]Ah, ótimo...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 14 8 0]Eles cancelaram um pedido[n]no último minuto.[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Makoto]]
 [s][bup 0 6 4 4 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Ele está brincando![n][f 1 3 65535][w][e]
 
-[msg MSG_011_0_0 [Membro dello staff allegro]]
+[msg MSG_011_0_0 [Funcionário alegre]]
 [s][f 4 10 65535 0 0][vp 8 0 0 16 8 0]Deve ser sua[n]noite de sorte! Então,[n]quer comprar?[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Makoto]]
@@ -49,7 +49,7 @@
 [msg MSG_013_0_0 [Makoto]]
 [s][bup 0 6 0 4 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Aí sim a gente pega.[n][f 1 3 65535][w][e]
 
-[msg MSG_014_0_0 [Membro dello staff allegro]]
+[msg MSG_014_0_0 [Funcionário alegre]]
 [s][f 4 10 65535 0 0][vp 8 0 0 19 8 0]Excelente! Eu irei um segundo[n]para prepará-lo para você![n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Makoto]]

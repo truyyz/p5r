@@ -10,10 +10,10 @@
 [msg MSG_003_0_0 [(SE)街頭ビジョン見物人]]
 [s][vp 8 0 0 0 65535 0]*viva*[n][f 1 3 65535][w][e]
 
-[msg MSG_004_0_0 [Uomo soddisfatto]]
+[msg MSG_004_0_0 [Homem satisfeito]]
 [s][vp 8 0 0 2 65535 0]Era óbvio que Shido venceria.[n][f 1 3 65535][w][e]
 
-[msg MSG_005_0_0 [Donna euforica]]
+[msg MSG_005_0_0 [Mulher eufórica]]
 [s][vp 8 0 0 3 65535 0]Não houve necessidade de[n]organizar eleições.[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Shido]]
@@ -33,7 +33,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Aquele que controlou os corações[n]dos outros e causou incontáveis[n]vítimas... sou eu.[n][f 1 3 65535][w][e]
 [s][bup 0 206 5 0 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Fiz isso para minha promoção...[n]para meu ganho pessoal.[n][f 1 3 65535][w][e]
 
-[msg MSG_010_0_0 [Voce dell'uomo curioso]]
+[msg MSG_010_0_0 [Voz de homem curioso]]
 [s][vp 8 0 0 10 65535 0]O que está acontecendo?[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Shido]]
@@ -44,10 +44,10 @@
 [s][bup 0 206 2 0 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Vou confessar tudo![n]Mas eu imploro, você deve passar[n]seu julgamento sobre mim...[n][f 1 3 65535][w][e]
 [s][bup 0 206 5 0 0][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Se eu puder pagar com minha vida[n]pelo que fiz,[n]peço que me julgue imediatamente...[n][f 1 3 65535][w][e]
 
-[msg MSG_012_0_0 [Donna sconvolta]]
+[msg MSG_012_0_0 [Mulher chateada]]
 [s][vp 8 0 0 15 65535 0]Hã?[n][f 1 3 65535][w][e]
 
-[msg MSG_013_0_0 [Uomo in preda al panico]]
+[msg MSG_013_0_0 [Homem em pânico]]
 [s][vp 8 0 0 16 65535 0]Isso não pode ser verdade![n]Shido-san![n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [(SE)街頭ビジョン見物人]]

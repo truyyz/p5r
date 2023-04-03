@@ -43,16 +43,16 @@
 [msg MSG_013_0_0 [Ryuji]]
 [s][bup 0 2 11 1 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Mas cale a boca, estamos ambos[n]totalmente fora do lugar.[n][f 1 3 65535][w][e]
 
-[msg MSG_014_0_0 [Studentessa alta]]
+[msg MSG_014_0_0 [Estudante alto]]
 [s][vp 8 0 0 18 10 0]Takamaki-san, você decidiu[n]em que quarto ficar?[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Ann]]
 [s][bup 0 4 4 1 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Não, ainda não.[n][f 1 3 65535][w][e]
 
-[msg MSG_016_0_0 [Studentessa alta]]
+[msg MSG_016_0_0 [Estudante alto]]
 [s][vp 8 0 0 20 10 0]Você gostaria de vir comigo então?[n][f 1 3 65535][w][e]
 
-[msg MSG_017_0_0 [Studentessa occhialuta]]
+[msg MSG_017_0_0 [Estudante com óculos]]
 [s][vp 8 0 0 21 11 0]E se estiver tudo bem para você, gostaria de[n]ir dar uma volta juntos quando[n]temos permissão?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 22 11 0]Nunca estivemos no exterior,[n]ter alguém que fala inglês[n]ajudaria.[n][f 1 3 65535][w][e]
 

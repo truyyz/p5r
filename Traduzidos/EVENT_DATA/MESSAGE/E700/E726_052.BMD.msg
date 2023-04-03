@@ -25,10 +25,10 @@
 [msg MSG_005_0_0 [Akechi]]
 [s][bup 0 9 0 65535 0][vp 8 0 0 0 65535 0]......[n][f 1 3 65535][w][e]
 
-[msg MSG_006_0_0 [Ragazzo esuberante]]
+[msg MSG_006_0_0 [Menino exuberante]]
 [s][vp 8 0 0 0 9 0]Cara, que objetivo. Aquele cara[n]com o cabelo castanho não[n]está perdendo tempo.[n][f 1 3 65535][w][e]
 
-[msg MSG_007_0_0 [Giovane rozzo]]
+[msg MSG_007_0_0 [Jovem rude]]
 [s][vp 8 0 0 0 7 0]Até o de quatro olhos está se dando bem,[n]embora esteja visivelmente perdendo terreno...[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Akechi]]

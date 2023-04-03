@@ -1,13 +1,13 @@
 [msg MSG_000_0_0 [Sojiro]]
 [s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 2 0 5001 65535 0]Desculpe, estamos fechados...[n][f 1 3 65535][w][e]
 
-[msg MSG_001_0_0 [Donna severa]]
+[msg MSG_001_0_0 [Mulher rígida]]
 [s][vp 8 0 0 0 8 0]Sojiro Sakura, estou certo?[n][f 1 3 65535][w][e]
 
-[msg MSG_002_0_0 [Uomo mite]]
+[msg MSG_002_0_0 [Homem leve]]
 [s][vp 8 0 0 0 6 0]Desculpe a hora tardia, mas[n]somos inspetores do[n]juizado juvenil.[n][f 1 3 65535][w][e]
 
-[msg MSG_003_0_0 [Investigatrice intransigente]]
+[msg MSG_003_0_0 [Investigador intransigente]]
 [s][vp 8 0 0 0 8 0]De acordo com um relatório, um[n]de seus clientes foi atacado[n]pelo menino sob sua custódia.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 8 0]Ainda de acordo com o relatório,[n]ela está maltratando sua[n]filha... Futaba-san.[n][f 1 3 65535][w][e]
 
@@ -15,21 +15,21 @@
 [s][bup 0 8 5 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]N-Não... Nós falhamos...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Tio nos denunciou à[n]polícia antes que pudéssemos[n]acordar seu coração...![n][f 1 3 65535][w][e]
 
-[msg MSG_005_0_0 [Investigatore mite]]
+[msg MSG_005_0_0 [Investigador leve]]
 [s][vp 8 0 0 0 6 0]No entanto, a credibilidade do[n]relato é relativa, visto que[n]era anônimo. Podemos conversar?[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Sojiro]]
 [s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...É claro. Não tenho[n]nada a esconder.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Por favor, sente-se.[n][f 1 3 65535][w][e]
 
-[msg MSG_007_0_0 [Investigatrice intransigente]]
+[msg MSG_007_0_0 [Investigador intransigente]]
 [s][vp 8 0 0 0 8 0]Então você afirma que o[n]relatório é falso?[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Sojiro]]
 [s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 2 0 5035 65535 0]É verdade que Futaba viveu por um[n]tempo reclusa na casa, mas[n]ela finalmente superou isso.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 8 3 301 65535][vp 8 0 0 0 65535 0]E... eu nunca a maltrataria.[n]Ela é como uma filha para mim.[n][f 1 3 65535][w][e]
 
-[msg MSG_009_0_0 [Investigatrice intransigente]]
+[msg MSG_009_0_0 [Investigador intransigente]]
 [s][vp 8 0 0 0 8 0]Quanto à suposta agressão?[n]O menino tem história[n]nesse sentido...[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Futaba]]
@@ -38,11 +38,11 @@
 [msg MSG_011_0_0 [Sojiro]]
 [s][bup 0 103 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O garoto realmente não tocou nisso, aquele cara.[n]Ele apenas se meteu no caminho para proteger[n]Futaba.[n][f 1 3 65535][w][e]
 
-[msg MSG_012_0_0 [Investigatore mite]]
+[msg MSG_012_0_0 [Investigador leve]]
 [s][vp 8 0 0 0 6 0]Para ser justo, [f 4 1]-kun,[n]nós investigamos sua[n]reputação na escola...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 6 0]Parece que você nunca[n]veio nenhum tipo de problema.[n][f 1 3 65535][w][e]
 
-[msg MSG_013_0_0 [Investigatore mite]]
+[msg MSG_013_0_0 [Investigador leve]]
 [s][vp 8 0 0 0 6 0]Nosso trabalho é garantir que[n]menores como você vivam[n]em um ambiente seguro.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 6 0]Como é viver com Sakura-san?[n]Você pode falar com sinceridade.[n][f 1 3 65535][w][e]
 
@@ -56,7 +56,7 @@
 [msg MSG_017_0_0 [Sojiro]]
 [s][bup 0 103 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 6 5 1003]Ufa... cru como sempre.[n][f 1 3 65535][w][e]
 
-[msg MSG_018_0_0 [Investigatrice intransigente]]
+[msg MSG_018_0_0 [Investigador intransigente]]
 [s][vp 8 0 0 0 8 0]E você, Futaba-san?[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Futaba]]
@@ -72,20 +72,20 @@
 [msg MSG_021_0_0 [Sojiro]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 103 7 300 1][vp 8 2 0 5123 65535 0]Futaba...[n][f 1 3 65535][w][e]
 
-[msg MSG_022_0_0 [Investigatore mite]]
+[msg MSG_022_0_0 [Investigador leve]]
 [s][vp 8 0 0 0 6 0]Eu entendo.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 6 0]Parece claro para mim. O relatório[n]era completamente falso.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 6 0]E não acho que[n]exames adicionais[n]são necessários[n]para [f 4 1]-kun.[n][f 1 3 65535][w][e]
 
-[msg MSG_023_0_0 [Investigatrice intransigente]]
+[msg MSG_023_0_0 [Investigador intransigente]]
 [s][vp 8 0 0 0 8 0]...Tem certeza?[n][f 1 3 65535][w][e]
 
-[msg MSG_024_0_0 [Investigatore mite]]
+[msg MSG_024_0_0 [Investigador leve]]
 [s][vp 8 0 0 0 6 0]Se eles quisessem nos enganar,[n]eles não teriam sido tão[n]honestos.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 6 0]Além disso, esse encontro apenas[n]confirmou minhas suspeitas...[n]As verdadeiras vítimas são esses menores.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 6 0]Com um pouco mais de experiência,[n]você também será capaz[n]de aprender essas coisas imediatamente.[n][f 1 3 65535][w][e]
 
-[msg MSG_025_0_0 [Investigatore mite]]
+[msg MSG_025_0_0 [Investigador leve]]
 [s][vp 8 0 0 0 6 0]De qualquer forma, obrigado por[n]sua cooperação. Não é necessário[n]que você nos acompanhe até a porta.[n][f 1 3 65535][w][e]
 
 [msg MSG_026_0_0 [Futaba]]

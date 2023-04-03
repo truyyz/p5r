@@ -15,7 +15,7 @@
 [s][bup 0 205 2 0 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Não me faça repetir. Dê para a[n]polícia. Isso é uma ordem.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Esses criminosos me ameaçam.[n]A polícia não protege[n]os cidadãos cumpridores da lei?[n][f 1 3 65535][w][e]
 
-[msg MSG_003_5_0 [Ombra di Okumura]]
+[msg MSG_003_5_0 [Sombra de Okumura]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 211 3 301 1][vp 8 0 0 14 5 0]Não serei abatido![n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Okumura]]

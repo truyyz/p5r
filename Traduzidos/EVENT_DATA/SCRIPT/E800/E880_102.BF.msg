@@ -30,15 +30,15 @@
 [msg EV880102_TV_NEWS_0830_20 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 10 0 0]Uau... Mas isso é loucura...[n]Então é verdade, o mundo inteiro[n]sabe sobre nós agora![n][f 1 3 65535][w][e]
 
-[msg TV_NEWS_UENO_001_00 [Reporter]]
+[msg TV_NEWS_UENO_001_00 [Repórter]]
 [s][vp 1 0 0 0 0 0]Hoje, para a coluna "Descobrindo[n]a cidade!" levamos você[n]para Ueno![n][f 1 3 65535][w][e]
 [s][vp 1 0 0 0 0 0]Muitas obras de arte estão atualmente[n]exibidas neste museu![n][f 1 3 65535][w][e]
 
-[msg TV_NEWS_UENO_002_00 [Opinionista]]
+[msg TV_NEWS_UENO_002_00 [Comentarista]]
 [s][vp 1 0 0 0 0 0]Bem, Ueno é um lugar que prospera[n]na arte...[n][f 1 3 65535][w][e]
 [s][vp 1 0 0 0 0 0]Poderíamos nos encontrar diante de[n]uma obra capaz de distorcer[n]nossas percepções.[n][f 1 3 65535][w][e]
 
-[msg TV_NEWS_UENO_003_00 [Presentatore del game show]]
+[msg TV_NEWS_UENO_003_00 [Apresentador de game show]]
 [s][vp 1 0 0 0 0 0]Se você é um amante da arte,[n]é o lugar certo para você![n][f 1 3 65535][w][e]
 
 [msg TV_NEWS_UENO_004_00]

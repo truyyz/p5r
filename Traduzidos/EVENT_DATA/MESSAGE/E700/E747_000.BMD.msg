@@ -74,25 +74,25 @@
 [msg MND_019_5_0]
 [s][vp 8 0 0 0 65535 0]Nós olhamos para o oceano,[n]aproveitando os sabores delicados de[n]um país estrangeiro...[n][f 1 3 65535][w][e]
 
-[msg MSG_020_0_0 [Venditore di gamberi]]
+[msg MSG_020_0_0 [Vendedor de camarão]]
 [s][vp 8 0 0 24 65535 0]Vocês dois são do Japão?[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Makoto]]
 [s][bup 0 6 300 65535 0][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]Oh. Sim, é.[n][f 1 3 65535][w][e]
 
-[msg MSG_022_0_0 [Venditore di gamberi]]
+[msg MSG_022_0_0 [Vendedor de camarão]]
 [s][vp 8 0 0 26 65535 0]E aqueles Ladrões Fantasmas,[n]heh? Aqueles que roubam corações![n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Makoto]]
 [s][bup 0 6 304 65535 0][f 4 10 65535 0 0][vp 8 0 0 27 65535 0]Como você os conhece?[n][f 1 3 65535][w][e]
 
-[msg MSG_024_0_0 [Venditore di gamberi]]
+[msg MSG_024_0_0 [Vendedor de camarão]]
 [s][vp 8 0 0 28 65535 0]Eu ouvi sobre isso no noticiário! Eles estão na[n]moda no Japão, não estão?[n][f 1 3 65535][w][e]
 
 [msg MSG_025_0_0 [Makoto]]
 [s][bup 0 6 300 65535 0][f 4 10 65535 0 0][vp 8 0 0 29 65535 0]Aparentemente, fazemos[n]notícia até no exterior.[n][f 1 3 65535][w][e]
 
-[msg MSG_026_0_0 [Venditore di gamberi]]
+[msg MSG_026_0_0 [Vendedor de camarão]]
 [s][vp 8 0 0 30 65535 0]Bem, se você os encontrar,[n]envie-lhes meus cumprimentos.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 31 65535 0]E diga a ele para despertar o coração[n]das pessoas, para que todos[n]amem o lagostim![n][f 1 3 65535][w][e]
 

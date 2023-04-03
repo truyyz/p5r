@@ -95,7 +95,7 @@
 [msg MSG_027_0_0 [Yusuke]]
 [s][bup 0 5 104 65535 0][f 4 10 65535 0 0][vp 8 0 0 33 65535 0]Uma máscara negra![n][f 1 3 65535][w][e]
 
-[msg MSG_027_1_0 [Ombra di Madarame]]
+[msg MSG_027_1_0 [Sombra de Madarame]]
 [s][vp 8 0 0 35 65535 0]M-Mas, e aquela outra pessoa?[n]Aquela com a máscara preta?[n][f 1 3 65535][w][e]
 
 [msg MSG_027_2_0 [Ann]]
@@ -108,10 +108,10 @@
 [msg MSG_027_4_0 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 39 65535 0]Então, o que ele disse[n]Kaneshiro...[n][f 1 3 65535][w][e]
 
-[msg MSG_027_5_0 [Ombra di Kaneshiro]]
+[msg MSG_027_5_0 [Sombra de Kaneshiro]]
 [s][vp 8 0 0 40 65535 0]Esses palácios podem render muito dinheiro para[n]você! Você pode fazer o que quiser com o coração[n]dos outros![n][f 1 3 65535][w][e]
 
-[msg MSG_027_6_0 [Ombra di Kaneshiro]]
+[msg MSG_027_6_0 [Sombra de Kaneshiro]]
 [s][vp 8 0 0 41 65535 0]Vou te contar um segredinho...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 42 65535 0]Há um criminoso que usa[n]palácios do povo para fazer o que[n]quiser.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 43 65535 0]E ele não é do tipo que se importa com as[n]consequências. Paradas mentais,[n]raptus... Sem problemas.[n][f 1 3 65535][w][e]

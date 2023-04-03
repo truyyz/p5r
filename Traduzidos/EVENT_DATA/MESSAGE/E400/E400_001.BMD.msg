@@ -2,7 +2,7 @@
 [s][bup 0 206 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 3]...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]...Parece familiar...[n][f 1 3 65535][w][e]
 
-[msg MSG_001_0_0 [Voce di Akechi]]
+[msg MSG_001_0_0 [A voz de Akechi]]
 [s][vp 8 0 0 2 65535 0]Sou eu, Akechi.[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Shido]]

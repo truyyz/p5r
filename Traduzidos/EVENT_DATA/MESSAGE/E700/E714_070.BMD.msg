@@ -6,22 +6,22 @@
 [s][bup 0 109 703 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 6 0 0 5 100]Ugh, como eu poderia desmaiar em tal momento? Eu[n]realmente preciso desse dinheiro...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Como vou pagar a taxa de hoje[n]...?[n][f 1 3 65535][w][e]
 
-[msg MSG_006_0_0 [Uomo sgarbato]]
+[msg MSG_006_0_0 [Homem rude]]
 [s][vp 8 0 0 0 4 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 109 7 301 65535]Tsk, chegou![n][f 1 3 65535][w][e]
 
-[msg MSG_006_5_0 [Uomo sgarbato]]
+[msg MSG_006_5_0 [Homem rude]]
 [s][vp 8 0 0 0 4 0]O que está acontecendo, Prof. Kawakami?!?[n]Liguei para a escola,[n]mas ninguém atendeu.[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Kawakami]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 109 7 301 1][vp 8 2 0 15040 65535 0]Takase-san![n][f 1 3 65535][w][e]
 [s][bup 0 109 704 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você entrou em contato com a escola...?!?[n][f 1 3 65535][w][e]
 
-[msg MSG_008_0_0 [Uomo sgarbato]]
+[msg MSG_008_0_0 [Homem rude]]
 [s][vp 8 0 0 0 4 0]Bem, ele não atendeu[n]o telefone![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 4 0]E quando finalmente pensei que ela[n]atendeu, foi uma enfermeira[n]que me disse onde encontrá-la.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 4 0]Quando ele perde um pagamento[n]ele nos coloca em sérios problemas,[n]ele sabe disso muito bem.[n][f 1 3 65535][w][e]
 
-[msg MSG_009_0_0 [Donna sgradevole]]
+[msg MSG_009_0_0 [Mulher desagradável]]
 [s][vp 8 0 0 0 5 0]Acima, acima. Duvido que[n]ele quisesse desmaiar de propósito...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Mas logo temos que pagar[n]a fatura do cartão de crédito[n]e precisamos da sua transferência.[n][f 1 3 65535][w][e]
 
@@ -31,20 +31,20 @@
 [msg MSG_011_0_0 [Kawakami]]
 [s][bup 0 109 700 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eles são os guardiões de Takase-kun,[n]as pessoas de quem falei.[n]Eles cuidaram dele...[n][f 1 3 65535][w][e]
 
-[msg MSG_012_0_0 [Parente di Takase]]
+[msg MSG_012_0_0 [Parente de Takase]]
 [s][vp 8 0 0 0 65535 0]E quem é ele...?[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Kawakami]]
 [s][bup 0 109 700 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ele é um dos meus alunos.[n]Ele veio me ver...[n][f 1 3 65535][w][e]
 
-[msg MSG_014_0_0 [Parente di Takase]]
+[msg MSG_014_0_0 [Parente de Takase]]
 [s][vp 8 0 0 0 65535 0]Irritando[n]outro aluno, né? Hahaha,[n]nunca aprende né?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Tsk, tsk... E afinal[n]o que ela fez com ele...[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Kawakami]]
 [s][bup 0 109 703 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sinto muito...[n][f 1 3 65535][w][e]
 
-[msg MSG_016_0_0 [Parente di Takase]]
+[msg MSG_016_0_0 [Parente de Takase]]
 [s][vp 8 0 0 0 65535 0]Então? Quando você[n]vai nos dar o dinheiro?[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Kawakami]]
@@ -58,22 +58,22 @@
 [msg MSG_019_0_0 [Kawakami]]
 [s][bup 0 109 700 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 15 5 1009][f 4 1]-kun...[n][f 1 3 65535][w][e]
 
-[msg MSG_020_0_0 [Parente di Takase]]
+[msg MSG_020_0_0 [Parente de Takase]]
 [s][vp 8 0 0 0 65535 0]Não estamos perguntando[n]nada diferente do normal...[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Kawakami]]
 [s][bup 0 109 703 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Uh...[n][f 1 3 65535][w][e]
 
-[msg MSG_022_0_0 [Parente di Takase]]
+[msg MSG_022_0_0 [Parente de Takase]]
 [s][vp 8 0 0 0 65535 0]Sim, como[n]irá lidar com o pagamento[n]neste estado?[n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Kawakami]]
 [s][bup 0 109 700 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 15 10 1009][f 4 1]-kun...[n][f 1 3 65535][w][e]
 
-[msg MSG_024_0_0 [Parente di Takase]]
+[msg MSG_024_0_0 [Parente de Takase]]
 [s][vp 8 0 0 0 65535 0]Não se intrometa![n][f 1 3 65535][w][e]
 
-[msg MSG_026_0_0 [Parente di Takase]]
+[msg MSG_026_0_0 [Parente de Takase]]
 [s][vp 8 0 0 0 65535 0]Não seja duro, garoto.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Nosso amado filho adotivo,[n]Taiki, morreu por causa[n]desta mulher.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Honestamente, eles[n]deveriam tê-la demitido.[n][f 1 3 65535][w][e]
@@ -81,7 +81,7 @@
 [msg MSG_027_0_0 [Kawakami]]
 [s][bup 0 109 703 0 0][f 4 10 65535 0 0][vp 8 2 0 15095 65535 0]Não é...[n][f 1 3 65535][w][e]
 
-[msg MSG_028_0_0 [Parente di Takase]]
+[msg MSG_028_0_0 [Parente de Takase]]
 [s][vp 8 0 0 0 65535 0]Em vez disso, ele ainda não[n]entendeu... e continua[n]ensinando.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Precisamos[n]vê-la se arrepender[n]pelo que ela fez...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]...possivelmente de[n]forma concreta e inegável![n][f 1 3 65535][w][e]
@@ -91,13 +91,13 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu vou te pagar...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Então...![n][f 1 3 65535][w][e]
 
-[msg MSG_031_0_0 [Parente di Takase]]
+[msg MSG_031_0_0 [Parente de Takase]]
 [s][vp 8 0 0 0 65535 0]Nós certamente não queremos[n]extorquir dinheiro de você.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Mas quem foi que convenceu[n]Taiki a estudar quando[n]ele já tinha que trabalhar?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Os estudos e[n]trabalhos de meio período o esgotaram,[n]causando o acidente...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Pobre Taiki... é como se ele[n]foi assassinado![n][f 1 3 65535][w][e]
 
-[msg MSG_031_5_0 [Parente di Takase]]
+[msg MSG_031_5_0 [Parente de Takase]]
 [s][vp 8 0 0 0 65535 0]Você não sente mais remorso?[n]Nesse caso, talvez devêssemos[n]processar o Ministério da Educação...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Ou devemos falar com a escola dele? Em ambos[n]casos, ele não poderia mais lecionar.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Bem, estaremos esperando impacientemente[n]pelo seu pagamento.[n][f 1 3 65535][w][e]

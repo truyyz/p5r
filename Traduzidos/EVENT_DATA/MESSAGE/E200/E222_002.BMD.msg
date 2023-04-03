@@ -62,13 +62,13 @@
 [msg MSG_016_0_0 [Morgana]]
 [s][bup 0 3 7 0 0][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Erm... Acho que vou pular[n]a parte do passeio de vômito...[n][f 1 3 65535][w][e]
 
-[msg MSG_017_0_0 [Ragazzo affabile]]
+[msg MSG_017_0_0 [Menino afável]]
 [s][bup 0 9 0 2 0][f 4 10 65535 0 0][vp 8 0 0 25 6 0]Desculpe, não pude deixar de notar seus[n]uniformes. Vocês são alunos da Shujin Academy?[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 26 65535 0]Sim, o que você quer?[n][f 1 3 65535][w][e]
 
-[msg MSG_019_0_0 [Ragazzo affabile]]
+[msg MSG_019_0_0 [Menino afável]]
 [s][bup 0 9 0 2 0][f 4 10 65535 0 0][vp 8 0 0 27 6 0]Eu estava passando, me pareceu educado[n]olá. Afinal,[n]teremos que filmar juntos.[n][f 1 3 65535][w][e]
 [s][bup 0 9 1 2 0][f 4 10 65535 0 0][vp 8 0 0 28 65535 0]Oh, que rude. Deixe-me apresentar-me,[n]meu nome é Goro Akechi.[n][f 1 3 65535][w][e]
 

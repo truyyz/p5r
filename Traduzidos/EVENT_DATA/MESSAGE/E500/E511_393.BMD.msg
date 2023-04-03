@@ -31,10 +31,10 @@
 [msg MSG_010_0_0 [Maruki]]
 [s][vp 6 0 0 11 0 0]Agora, seja o guia dela...[n]E juntos, escapem do pesadelo![n][f 1 2 167][e]
 
-[msg MSG_011_0_0 [Cenerentola]]
+[msg MSG_011_0_0 [Cinderela]]
 [s][vp 6 0 0 12 0 0]Não, eu... eu não posso...[n][f 1 2 95][e]
 
-[msg MSG_013_0_0 [Cenerentola]]
+[msg MSG_013_0_0 [Cinderela]]
 [s][vp 6 0 0 14 0 0]Eu nunca quero[n]voltar para minha vida de cinzas![n][f 1 2 140][e]
 
 [msg MSG_014_0_0 [Akechi]]
@@ -49,6 +49,6 @@
 [msg MSG_016_0_0 [Akechi]]
 [s][vp 6 0 0 18 0 0]Vamos rápido.[n][f 1 2 30][e]
 
-[msg MSG_017_0_0 [Cenerentola]]
+[msg MSG_017_0_0 [Cinderela]]
 [s][vp 6 0 0 19 0 0]Eu me recuso a voltar! Estou[n]feliz aqui... ESTE é o meu lugar![n][f 1 2 170][e]
 

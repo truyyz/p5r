@@ -33,7 +33,7 @@
 [msg MSG_009_0_0 [Sojiro]]
 [s][bup 0 103 4 0 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Ei, tudo bem?[n][f 1 3 65535][w][e]
 
-[msg MSG_010_0_0 [Cliente borioso]]
+[msg MSG_010_0_0 [Cliente arrogante]]
 [s][vp 8 0 0 13 7 0]O de sempre, chefe. Extra forte.[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Sojiro]]
@@ -56,14 +56,14 @@
 [msg MSG_017_0_0 [Futaba]]
 [s][f 4 16 8 7 300 1 65535][vp 8 0 0 18 65535 0]S-Sim senhor![n][f 1 3 65535][w][e]
 
-[msg MSG_018_0_0 [Cliente borioso]]
+[msg MSG_018_0_0 [Cliente arrogante]]
 [s][vp 8 0 0 19 8 0]Ela é uma nova ajudante de meio período?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 20 8 0]Você nunca perde o contato, hein?[n]Até quantos, chefe?[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Sojiro]]
 [s][bup 0 103 3 0 0][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]Não é o que você pensa.[n][f 1 3 65535][w][e]
 
-[msg MSG_020_0_0 [Cliente borioso]]
+[msg MSG_020_0_0 [Cliente arrogante]]
 [s][vp 8 0 0 22 8 0]Você geralmente gosta deles maduros, certo? Às[n]vezes é normal querer alguém mais jovem.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 23 8 0]É como Guatemala Peaberry.[n]Sua doçura ácida é como[n]uma lufada de ar fresco.[n][f 1 3 65535][w][e]
 
@@ -73,7 +73,7 @@
 [msg MSG_022_0_0 [Sojiro]]
 [s][bup 0 103 2 0 0][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]Ei acorde. Apresse-se[n]e pegue o café para ele,[n]antes que esfrie.[n][f 1 3 65535][w][e]
 
-[msg MSG_023_0_0 [Cliente borioso]]
+[msg MSG_023_0_0 [Cliente arrogante]]
 [s][vp 8 0 0 26 8 0]A-Aaaaah![n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [Futaba]]
@@ -87,7 +87,7 @@
 [msg MSG_026_0_0 [Futaba]]
 [s][bup 0 8 800 0 0][f 4 10 65535 0 0][vp 8 0 0 31 65535 0]A-A-Aqui está seu café...[n]senhor.[n][f 1 3 65535][w][e]
 
-[msg MSG_027_0_0 [Cliente borioso]]
+[msg MSG_027_0_0 [Cliente arrogante]]
 [s][vp 8 0 0 32 8 0]A-Ah... Obrigado.[n][f 1 3 65535][w][e]
 
 [msg MSG_028_0_0 [Futaba]]

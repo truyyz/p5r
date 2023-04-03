@@ -19,10 +19,10 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Eu estava preocupado, então[n]eu decidi segui-la. Mas ela[n]conseguiu comprar tudo sozinha.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Eu diria que ele está indo muito bem agora. E[n]então... ela fez malabarismos bem com aquele[n]detetive.[n][f 1 3 65535][w][e]
 
-[msg MSG_023_0_0 [Voce di Futaba]]
+[msg MSG_023_0_0 [Voz da Futaba]]
 [s][vp 8 0 0 11 65535 0]Sojiró! Apresse-se, vamos lá![n]Estamos prestes a ter[n]um festival de fogos de artifício![n][f 1 3 65535][w][e]
 
-[msg MSG_024_0_0 [Voce di Sojiro]]
+[msg MSG_024_0_0 [A voz do sojiro]]
 [s][vp 8 0 0 12 65535 0]Espere, Futaba. Deixe-me pelo menos[n]apagar o cigarro...[n][f 1 3 65535][w][e]
 
 [msg MSG_025_0_0 [Morgana]]

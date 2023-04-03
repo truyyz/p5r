@@ -1,16 +1,16 @@
 [msg MSG_000_0_0 [Akechi]]
 [s][bup 0 9 812 65535 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]Tsk... Não podemos perder[n]tempo com essa merda![n][f 1 3 65535][w][e]
 
-[msg MSG_001_0_0 [Cenerentola]]
+[msg MSG_001_0_0 [Cinderela]]
 [s][vp 8 0 0 2 65535 0]Nngh... Aaaaaaaaaagh![n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Akechi]]
 [s][bup 0 9 812 65535 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Lá vem ele![n][f 1 2 15][e]
 
-[msg MSG_003_0_0 [voz de jovem]]
+[msg MSG_003_0_0 [Voz de jovem]]
 [s][vp 8 0 0 4 4 0]Acho que não![n][f 1 2 50][e]
 
-[msg MSG_004_0_0 [voz de criança]]
+[msg MSG_004_0_0 [Voz de criança]]
 [s][vp 8 0 0 5 5 0]Porra, Skull, eu[n]falei para você não entrar[n]na briga sozinho![n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Voz de menina]]

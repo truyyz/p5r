@@ -1,7 +1,7 @@
 [msg MSG_000_0_0 [Ryuji]]
 [s][bup 0 2 102 65535 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]Fora do caminho.[n][f 1 3 65535][w][e]
 
-[msg MSG_001_0_0 [Ombra in nero]]
+[msg MSG_001_0_0 [Sombra em preto]]
 [s][vp 8 0 0 2 65535 0]Além deste ponto[n]a entrada é reservada.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 3 65535 0]Você tem uma reserva?[n][f 1 3 65535][w][e]
 
@@ -11,7 +11,7 @@
 [msg MSG_003_0_0 [Haru]]
 [s][bup 0 7 100 65535 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Não vamos fazer uma cena...[n][f 1 3 65535][w][e]
 
-[msg MSG_004_0_0 [Ombra in nero]]
+[msg MSG_004_0_0 [Sombra em preto]]
 [s][vp 8 0 0 6 65535 0]Você tem uma reserva?[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Yusuke]]

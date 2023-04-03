@@ -1,4 +1,4 @@
-[msg MSG_000_0_0 [Prof. Ushimaru]]
+[msg MSG_000_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]Então, presumo que todos[n]sabem sobre separação de[n]poderes? O governo é tripartido.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]O Gabinete é o órgão executivo,[n]o legislativo da Dieta Nacional[n]e o Supremo Tribunal Judicial.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Essa divisão de poder garante[n]cheque e equilíbrio, de modo que[n]nenhum ramo se torne imparável.[n][f 1 3 65535][w][e]
@@ -11,13 +11,13 @@
 [s]Por que você está aí?[e]
 [s]Não fale.[e]
 
-[msg MSG_003_0_0 [Prof. Ushimaru]]
+[msg MSG_003_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Hum? Isso é um gato que acabei de ouvir?[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Morgana]]
 [s][bup 0 3 4 0 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]M-M-Miau![n][f 1 3 65535][w][e]
 
-[msg MSG_005_0_0 [Prof. Ushimaru]]
+[msg MSG_005_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Hum... Talvez aquele gato[n]sobre o qual todos estão falando esteja aqui[n]em algum lugar?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Acalmar! Estamos no meio[n]de uma lição importante![n][f 1 3 65535][w][e]
 
@@ -36,13 +36,13 @@
 [msg MSG_015_0_0 [Morgana]]
 [s][bup 0 3 7 0 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Se ele soubesse[n]que eu também estou lendo...[n][f 1 3 65535][w][e]
 
-[msg MSG_016_0_0 [Studente in piedi]]
+[msg MSG_016_0_0 [Aluno em pé]]
 [s][vp 8 0 0 11 65535 0]Ei... E aí...!?![n][f 1 3 65535][w][e]
 
-[msg MSG_017_0_0 [Prof. Ushimaru]]
+[msg MSG_017_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Silêncio! Estamos em aula![n][f 1 3 65535][w][e]
 
-[msg MSG_018_0_0 [Studentessa impacciata]]
+[msg MSG_018_0_0 [Aluno desajeitado]]
 [s][vp 8 0 0 13 65535 0]Ai meu Deus... Ele se joga...![n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Mishima]]
@@ -57,7 +57,7 @@
 [msg MSG_021_0_0 [(SE)男子生徒C]]
 [s][vp 8 0 0 16 65535 0]おい、行こーぜ!![n][f 1 3 65535][w][e]
 
-[msg MSG_022_0_0 [Prof. Ushimaru]]
+[msg MSG_022_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Ei! Fique em seus lugares! Não[n]você se atreva a sair deste tribunal![n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [(SE)女子生徒C]]

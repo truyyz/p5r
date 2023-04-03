@@ -1,31 +1,31 @@
-[msg MSG_RUNNING_FIRST_1 [Personal Trainer]]
+[msg MSG_RUNNING_FIRST_1 [Treinador pessoal]]
 [s][vp 8 2 0 58581 5 0]Ei, bom dia![n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 5 0]Você passou por aqui com seu amigo[n]outro dia, não foi?[n]Prazer em vê-lo novamente![n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 5 0]Então... eu sugiro que você use[n]isso, já que é[n]sua primeira vez.[n][f 1 3 65535][w][e]
 
-[msg MSG_RUNNING_FIRST_2 [Personal Trainer]]
+[msg MSG_RUNNING_FIRST_2 [Treinador pessoal]]
 [s][vp 8 2 0 58582 5 0]Esta é uma esteira.[n]Ela vai melhorar sua[n]resistência física.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 5 0]Ao verificar sua frequência cardíaca[n]regularmente, você melhorará seu controle mental.[n][f 1 3 65535][w][e]
 
-[msg MSG_PRESS_FIRST_1 [Personal Trainer]]
+[msg MSG_PRESS_FIRST_1 [Treinador pessoal]]
 [s][vp 8 2 0 58583 5 0]Parece que você tem estado ocupado.[n]Quer tentar[n]treinar com isso hoje?[n][f 1 3 65535][w][e]
 
-[msg MSG_PRESS_FIRST_2 [Personal Trainer]]
+[msg MSG_PRESS_FIRST_2 [Treinador pessoal]]
 [s][vp 8 2 0 58582 5 0]Este é um banco[n]para levantamento de peso.[n]Ele aumentará sua força.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 5 0]Ter que manter[n]ritmo e forma constantes também treinará[n]sua concentração.[n][f 1 3 65535][w][e]
 
-[msg MSG_GIKOCHI_MOKU_FIRST_1 [Personal Trainer]]
+[msg MSG_GIKOCHI_MOKU_FIRST_1 [Treinador pessoal]]
 [s][vp 8 2 0 58583 5 0]Você melhorou muito[n]desde a última vez. Quer tentar[n]treinar com isso hoje?[n][f 1 3 65535][w][e]
 
-[msg MSG_GIKOCHI_MOKU_FIRST_2 [Personal Trainer]]
+[msg MSG_GIKOCHI_MOKU_FIRST_2 [Treinador pessoal]]
 [s][vp 8 2 0 58582 5 0]Este é um manequim de madeira.[n]Ótimo para artes marciais.[n]Sai, karate, judô, sloshi...[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 5 0]Você ataca com kata[n]e desenvolve resistência.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 5 0]Você também treina mentalmente,[n]focando na forma[n]e no fluxo do movimento.[n][f 1 3 65535][w][e]
 
-[msg MSG_SUISUI_MOKU_FIRST_1 [Personal Trainer]]
+[msg MSG_SUISUI_MOKU_FIRST_1 [Treinador pessoal]]
 [s][vp 8 2 0 58583 5 0]Ei, você ainda está triste.[n]Você está ficando bom.[n][f 1 3 65535][w][e]
 
-[msg MSG_SUISUI_MOKU_FIRST_2 [Personal Trainer]]
+[msg MSG_SUISUI_MOKU_FIRST_2 [Treinador pessoal]]
 [s][vp 8 2 0 58584 5 0]Se você pensar neste manequim como[n]um amigo e não apenas uma ferramenta,[n]você obterá melhores resultados.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 5 0]Bem, acho que não há muito[n]que eu possa te ensinar agora.[n]Continue assim, você está indo muito bem![n][f 1 3 65535][w][e]
 

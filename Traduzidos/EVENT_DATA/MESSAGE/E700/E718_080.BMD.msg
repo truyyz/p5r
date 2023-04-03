@@ -4,7 +4,7 @@
 [msg MSG_001_0_0 [Akiyama]]
 [s][vp 8 0 0 0 65535 0]Mishima...?[n][f 1 3 65535][w][e]
 
-[msg MSG_002_0_0 [Ragazzo dall'aria malvagia]]
+[msg MSG_002_0_0 [Garoto mal-encarado]]
 [s][vp 8 0 0 0 6 0]Ahhh, aqui está o nosso homem.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 6 0]Akiyama-kun nos disse que[n]ele não vai pagar este mês.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 6 0]Por que você não cobre?[n]É isso que amigos fazem, certo?[n][f 1 3 65535][w][e]
@@ -12,24 +12,24 @@
 [msg MSG_003_0_0 [Mishima]]
 [s][bup 0 111 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]A-Friends?[n][f 1 3 65535][w][e]
 
-[msg MSG_004_0_0 [Ragazzo dall'aria malvagia]]
+[msg MSG_004_0_0 [Garoto mal-encarado]]
 [s][vp 8 0 0 0 6 0]uh...? Vocês não são amigos?[n][f 1 3 65535][w][e]
 
-[msg MSG_005_0_0 [Ragazzo losco]]
+[msg MSG_005_0_0 [Garoto obscuro]]
 [s][vp 8 0 0 0 7 0]Não brinque com a gente, Akiyama.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 7 0]Este perdedor não é o "amigo"[n]que deveria ajudá-lo!?![n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Akiyama]]
 [s][vp 1 0 0 0 0 0]......[n][f 1 3 65535][w][e]
 
-[msg MSG_007_0_0 [Ragazzo dall'aria malvagia]]
+[msg MSG_007_0_0 [Garoto mal-encarado]]
 [s][vp 8 0 0 0 6 0]Se você não tem nada a ver com[n]esse merdinha do Akiyama,[n]sugiro que saia daqui.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 6 0]... Vamos, Tohru. Parece que[n]precisamos bater um papo[n]com a namorada dele.[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Akiyama]]
 [s][vp 8 0 0 0 65535 0]N-Não, por favor! Por favor...![n][f 1 3 65535][w][e]
 
-[msg MSG_009_0_0 [Ragazzo dall'aria malvagia]]
+[msg MSG_009_0_0 [Garoto mal-encarado]]
 [s][vp 8 0 0 0 6 0]Sinto muito, mas você quebrou a[n]promessa. Agora cabe a ela[n]pagar-nos de volta, se é que você me entende.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 6 0]Isso é o que acontece com[n]aqueles que tentam nos foder.[n][f 1 3 65535][w][e]
 

@@ -36,7 +36,7 @@
 [msg MSG_007_0_0 [Maruki]]
 [s][bup 0 216 502 0 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Sinto muito, mas ao custo de usar[n]força... Vai[n]ter que acabar assim.[n][f 1 3 65535][w][e]
 
-[msg MSG_008_0_0 [Voce di Maruki]]
+[msg MSG_008_0_0 [A voz de Maruki]]
 [s][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Em uma semana nos encontraremos[n]novamente. 9 de janeiro.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Espero que você[n]tenha mudado de ideia até lá.[n][f 1 3 65535][w][e]
 

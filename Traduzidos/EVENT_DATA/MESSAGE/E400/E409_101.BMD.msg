@@ -16,7 +16,7 @@
 [msg MSG_005_0_0 [Ann]]
 [s][bup 0 4 100 65535 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Você também pediu a Shido para[n]acionar paradas mentais?[n][f 1 3 65535][w][e]
 
-[msg MSG_006_0_0 [Ombra Ex nobile]]
+[msg MSG_006_0_0 [Sombra Ex nobre]]
 [s][vp 8 0 0 7 65535 0]Ao contrário do passado, acumular[n]ativos com apenas[n]linhagem tornou-se difícil.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 8 65535 0]É por isso que implorei para ser[n]admitido no navio de Lovd Shido.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 9 65535 0]Tendo apresentado a ele alguns[n]nobres ricos, pedi-lhe que realizasse[n]certas ações mentais para mim.[n][f 1 3 65535][w][e]
@@ -24,7 +24,7 @@
 [msg MSG_007_0_0 [Yusuke]]
 [s][bup 0 5 103 65535 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Eu entendo... Portanto, este sistema de[n]recomendações ocorre[n]também na realidade.[n][f 1 3 65535][w][e]
 
-[msg MSG_008_0_0 [Ombra Ex nobile]]
+[msg MSG_008_0_0 [Sombra Ex nobre]]
 [s][vp 8 0 0 11 65535 0]Lovd Shido é muito cauteloso[n]sobre sua escolha de caminhantes.[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Makoto]]

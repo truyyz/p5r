@@ -5,25 +5,25 @@
 [msg MSG_001_0_0 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Ei, aquelas garotas...[n][f 1 3 65535][w][e]
 
-[msg MSG_002_0_0 [Studentessa dai capelli lunghi]]
+[msg MSG_002_0_0 [Estudante de cabelos compridos]]
 [s][vp 8 0 0 4 8 0]Você conhece aquele boato sobre[n]Phantom Thieves roubando o coração de[n]Kamoshida? Eu me pergunto se isso é verdade.[n][f 1 3 65535][w][e]
 
-[msg MSG_003_0_0 [Studentessa dai capelli corti]]
+[msg MSG_003_0_0 [Estudante de cabelo curto]]
 [s][vp 8 0 0 5 7 0]Tudo deve ser encenado.[n]Você realmente acredita que eles existem?[n][f 1 3 65535][w][e]
 
-[msg MSG_004_0_0 [Studentessa dai capelli lunghi]]
+[msg MSG_004_0_0 [Estudante de cabelos compridos]]
 [s][vp 8 0 0 6 8 0]Bem, veja o que[n]aconteceu com Kamoshida.[n][f 1 3 65535][w][e]
 
-[msg MSG_005_0_0 [Studentessa dai capelli corti]]
+[msg MSG_005_0_0 [Estudante de cabelo curto]]
 [s][vp 8 0 0 7 7 0]Ele provavelmente estava cansado de[n]se esconder depois que[n]garota tentou suicídio.[n][f 1 3 65535][w][e]
 
-[msg MSG_006_0_0 [Studentessa dai capelli lunghi]]
+[msg MSG_006_0_0 [Estudante de cabelos compridos]]
 [s][vp 8 0 0 8 8 0]Sim, você pode estar certo.[n]Não acho que seja possível[n]que eles realmente existam.[n][f 1 3 65535][w][e]
 
-[msg MSG_007_0_0 [Studentessa dai capelli corti]]
+[msg MSG_007_0_0 [Estudante de cabelo curto]]
 [s][vp 8 0 0 9 7 0]Mas, acima de tudo, é uma pena que[n]nossa escola acabe na boca de[n]todos por questões semelhantes![n][f 1 3 65535][w][e]
 
-[msg MSG_008_0_0 [Studentessa dai capelli lunghi]]
+[msg MSG_008_0_0 [Estudante de cabelos compridos]]
 [s][vp 8 0 0 10 8 0]Vamos esperar que isso não afete[n]nossas admissões na universidade...[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Ryuji]]

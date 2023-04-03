@@ -92,7 +92,7 @@
 [msg MSG_029_0_0 [Ryuji]]
 [s][bup 0 2 301 65535 0][f 4 10 65535 0 0][vp 8 0 0 32 65535 0]O-Olá![n][f 1 3 65535][w][e]
 
-[msg MSG_030_0_0 [Signora snella]]
+[msg MSG_030_0_0 [Senhora magra]]
 [s][vp 8 0 0 33 9 0]Oh, você é japonês?[n][f 1 3 65535][w][e]
 
 [msg MSG_031_0_0 [Ryuji]]
@@ -108,10 +108,10 @@
 [msg MSG_035_0_0 [Mishima]]
 [s][bup 0 111 302 65535 0][f 4 10 65535 0 0][vp 8 0 0 39 65535 0]Por favor... mostre-nos o Havaí![n][f 1 3 65535][w][e]
 
-[msg MSG_036_0_0 [Signora snella]]
+[msg MSG_036_0_0 [Senhora magra]]
 [s][vp 8 0 0 40 9 0]Desculpe, não estamos interessados em crianças.[n]Eu só quero homens maduros, ricos e refinados.[n][f 1 3 65535][w][e]
 
-[msg MSG_037_0_0 [Signora formosa]]
+[msg MSG_037_0_0 [Senhora bem torneada]]
 [s][vp 8 0 0 41 10 0]Eu teria feito vista grossa se[n]fosse aqueles Phantom Thieves...[n][f 1 3 65535][w][e]
 
 [msg MSG_038_0_0 [Ryuji]]
@@ -123,19 +123,19 @@
 [msg MSG_040_0_0 [Ryuji]]
 [s][bup 0 2 304 65535 0][f 4 10 65535 0 0][vp 8 0 0 44 65535 0]Uhhh...[n][f 1 3 65535][w][e]
 
-[msg MSG_041_0_0 [Signora snella]]
+[msg MSG_041_0_0 [Senhora magra]]
 [s][vp 8 0 0 45 9 0]Tchau tchau.[n][f 1 3 65535][w][e]
 
-[msg MSG_042_0_0 [Signora formosa]]
+[msg MSG_042_0_0 [Senhora bem torneada]]
 [s][vp 8 0 0 46 10 0]Volte em dez anos.[n][f 1 3 65535][w][e]
 
 [msg MSG_043_0_0 [Mishima]]
 [s][bup 0 111 305 65535 0][f 4 10 65535 0 0][vp 8 0 0 47 65535 0]Eles nos rejeitaram sem[n]pensar duas vezes...[n][f 1 3 65535][w][e]
 
-[msg MSG_044_0_0 [Venditore di gamberi]]
+[msg MSG_044_0_0 [Vendedor de camarão]]
 [s][vp 8 0 0 48 65535 0]Por que você não pede ajuda aos[n]Phantom Thieves, hein?[n]Eles podem mudar corações, certo?[n][f 1 3 65535][w][e]
 
-[msg MSG_046_0_0 [Venditore di gamberi]]
+[msg MSG_046_0_0 [Vendedor de camarão]]
 [s][vp 8 0 0 50 65535 0]Você poderia fazer aqueles bebês...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 51 65535 0]Tenha um despertar do coração![n][f 1 3 65535][w][e]
 

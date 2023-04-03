@@ -30,7 +30,7 @@
 [s][bup 0 105 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Exatamente. Uma sala para[n]interrogatórios especiais,[n]subterrâneo.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]O tempo será curto, mas farei[n]o que for necessário para forçá-los[n]a revelar seus segredos![n][f 1 3 65535][w][e]
 
-[msg MSG_007_5_0 [Ombra di Sae]]
+[msg MSG_007_5_0 [Sombra de Sae]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 212 3 301 1][vp 8 0 0 34 7 0]Vamos jogar limpo![n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Sae]]

@@ -41,7 +41,7 @@
 [msg MSG_010_0_0 [Chihaya]]
 [s][bup 0 113 3 65535 0][f 4 10 65535 0 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 113 7 300 65535][vp 8 0 0 0 65535 0]B-Bem, aqui...[n][f 1 3 65535][w][e]
 
-[msg MSG_011_0_0 [Uomo insicuro]]
+[msg MSG_011_0_0 [Homem inseguro]]
 [s][vp 8 0 0 0 65535 0]Perturbação?[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Chihaya]]

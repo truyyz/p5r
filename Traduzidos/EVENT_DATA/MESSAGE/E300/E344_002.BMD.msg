@@ -22,7 +22,7 @@
 [msg MSG_001_9_5 [Morgana]]
 [s][vp 6 0 0 8 6 0]Você sabe o que isso significa? Que sua oferta[n]não vale nada.[n][f 1 2 125][e]
 
-[msg MSG_002_0_0 [Ombra di Okumura]]
+[msg MSG_002_0_0 [Sombra de Okumura]]
 [s][vp 8 0 0 9 65535 0]O quê?!?[n][f 1 2 30][e]
 
 [msg MSG_003_0_0 [Morgana]]
@@ -37,10 +37,10 @@
 [msg MSG_006_0_0 [Haru]]
 [s][vp 6 0 0 13 10 0]Pai...[n][f 1 2 30][e]
 
-[msg MSG_007_0_0 [Ombra di Okumura]]
+[msg MSG_007_0_0 [Sombra de Okumura]]
 [s][vp 1 0 0 14 0 0]Sem negociações, portanto...[n][f 1 2 60][e]
 
-[msg MSG_007_5_0 [Ombra di Okumura]]
+[msg MSG_007_5_0 [Sombra de Okumura]]
 [s][vp 1 0 0 15 0 0]Umpf, rebeldes! Ainda falta tempo antes da[n]partida... Vou esmagar todos vocês![n][f 1 2 185][e]
 
 [msg MSG_008_0_0 [Yusuke]]
@@ -49,9 +49,9 @@
 [msg MSG_009_0_0 [Ann]]
 [s][vp 6 0 0 17 7 0]Que venha![n][f 1 2 33][e]
 
-[msg MSG_010_0_0 [Ombra di Okumura]]
+[msg MSG_010_0_0 [Sombra de Okumura]]
 [s][vp 6 0 0 18 12 0]Raça de...[n][f 1 2 54][e]
 
-[msg MSG_011_0_0 [Ombra di Okumura]]
+[msg MSG_011_0_0 [Sombra de Okumura]]
 [s][vp 1 0 0 19 0 0]Você não vai conseguir sair vivo![n][f 1 2 50][e]
 

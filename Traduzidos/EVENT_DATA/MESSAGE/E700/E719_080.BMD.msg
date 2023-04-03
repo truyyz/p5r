@@ -1,60 +1,60 @@
 [msg MSG_000_0_0 [Yoshida]]
 [s][bup 0 112 500 0 0][f 4 10 65535 0 0][vp 8 2 0 20002 65535 0]Você me fez vir aqui[n]para discutir o quê?[n][f 1 3 65535][w][e]
 
-[msg MSG_001_0_0 [Membro della Dieta Matsushita]]
+[msg MSG_001_0_0 [Membro da Dieta Matsushita]]
 [s][vp 8 0 0 0 65535 0]...Eu entendo que você se encontrou[n]com o sobrinho de Kuramoto.[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Yoshida]]
 [s][bup 0 112 500 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você tem ouvidos em todos os lugares,[n]eh?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Se eu acho que ele é o candidato[n]escolhido pelo partido para arruinar[n]minhas chances de ganhar...[n][f 1 3 65535][w][e]
 
-[msg MSG_003_0_0 [Membro della Dieta Matsushita]]
+[msg MSG_003_0_0 [Membro da Dieta Matsushita]]
 [s][vp 8 0 0 0 65535 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 112 7 301 65535]Serei totalmente honesto com você,[n]já que já lhe pedi para[n]tornar-se meu braço direito.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]No momento, estamos lutando[n]contra o grupo de Kuramoto.[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Yoshida]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 112 7 301 1][vp 8 2 0 20040 65535 0]Você está lutando contra o[n]Sr. Kuramoto!?![n][f 1 3 65535][w][e]
 
-[msg MSG_005_0_0 [Membro della Dieta Matsushita]]
+[msg MSG_005_0_0 [Membro da Dieta Matsushita]]
 [s][vp 8 0 0 0 65535 0]Eu também tenho minhas ambições,[n]sai.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Devo muito a ele pelo que ele fez[n]por mim, mas não quero sofrer[n]sua influência para sempre.[n][f 1 3 65535][w][e]
 
-[msg MSG_006_0_0 [Membro della Dieta Matsushita]]
+[msg MSG_006_0_0 [Membro da Dieta Matsushita]]
 [s][vp 8 0 0 0 65535 0]Além disso, ele agora está[n]trabalhando em segredo com[n]Die membros de outros partidos.[n][f 1 3 65535][w][e]
 
-[msg MSG_007_0_0 [Membro della Dieta Matsushita]]
+[msg MSG_007_0_0 [Membro da Dieta Matsushita]]
 [s][vp 8 0 0 0 65535 0]Além disso, ele agora está[n]trabalhando em segredo com[n]membros da Dieta de Shido.[n][f 1 3 65535][w][e]
 
-[msg MSG_008_0_0 [Membro della Dieta Matsushita]]
+[msg MSG_008_0_0 [Membro da Dieta Matsushita]]
 [s][vp 8 0 0 0 65535 0]Sei que ele pediu para você entrar no grupo dele,[n]mas acho que você deveria recusar a oferta.[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Yoshida]]
 [s][bup 0 112 500 0 0][vp 8 2 0 20021 0 0]......[n][f 1 3 65535][w][e]
 
-[msg MSG_010_0_0 [Membro della Dieta Matsushita]]
+[msg MSG_010_0_0 [Membro da Dieta Matsushita]]
 [s][vp 8 0 0 0 65535 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 112 7 301 65535]Eles querem mantê-lo sob controle,[n]para que você não revele[n]informações comprometedoras.[n][f 1 3 65535][w][e]
 
-[msg MSG_011_0_0 [Membro della Dieta Matsushita]]
+[msg MSG_011_0_0 [Membro da Dieta Matsushita]]
 [s][vp 8 0 0 0 65535 0]O verdadeiro culpado no[n]caso de peculato do qual você[n]foi acusado… é Kuramoto.[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Yoshida]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 112 7 301 1][vp 8 2 0 20039 65535 0]O que...!?![n][f 1 3 65535][w][e]
 
-[msg MSG_013_0_0 [Membro della Dieta Matsushita]]
+[msg MSG_013_0_0 [Membro da Dieta Matsushita]]
 [s][vp 8 0 0 0 65535 0]Eu vi os relatos não oficiais da festa que datam[n]de 20 anos atrás. Não há dúvida.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Você ainda pode perdoá-lo? Ele[n]recebeu você no mundo da política[n]e depois o expulsou da pior maneira![n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Yoshida]]
 [s][bup 0 112 503 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas por que...?[n][f 1 3 65535][w][e]
 
-[msg MSG_015_0_0 [Membro della Dieta Matsushita]]
+[msg MSG_015_0_0 [Membro da Dieta Matsushita]]
 [s][vp 8 0 0 0 65535 0]Ele aparentemente comprou sua[n]popularidade e, como resultado, teve[n]sérios problemas financeiros.[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Yoshida]]
 [s][bup 0 112 500 0 0][f 4 10 65535 0 0][vp 8 2 0 20044 65535 0]Você quase parece sugerir que[n]esta é minha oportunidade de[n]provar minha inocência...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...E então você precisa da minha resposta sobre[n]se eu concordo ou não em ser seu braço direito?[n][f 1 3 65535][w][e]
 
-[msg MSG_017_0_0 [Membro della Dieta Matsushita]]
+[msg MSG_017_0_0 [Membro da Dieta Matsushita]]
 [s][vp 8 0 0 0 65535 0]O sobrinho dele já tentou[n]convencê-lo. Portanto,[n]não posso esperar mais.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Se você se juntar a mim, poderá acusar[n]Kuramoto de seu crime.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Você será capaz de reabilitar e deixar para trás[n]"Tora bom para nada". É sua última e melhor[n]chance![n][f 1 3 65535][w][e]
@@ -80,37 +80,37 @@
 [s][bup 0 112 500 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Matsushita.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Agradeço a oferta,[n]mas tenho que recusar.[n][f 1 3 65535][w][e]
 
-[msg MSG_024_0_0 [Membro della Dieta Matsushita]]
+[msg MSG_024_0_0 [Membro da Dieta Matsushita]]
 [s][vp 8 0 0 0 65535 0]Você não tem[n]MOTIVO plausível para recusar![n][f 1 3 65535][w][e]
 
 [msg MSG_025_0_0 [Yoshida]]
 [s][bup 0 112 500 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Meu objetivo é me tornar um membro[n]da Dieta, não um braço direito.[n]Não trairei minhas crenças.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu sou inflexível sobre isso.[n][f 1 3 65535][w][e]
 
-[msg MSG_026_0_0 [Membro della Dieta Matsushita]]
+[msg MSG_026_0_0 [Membro da Dieta Matsushita]]
 [s][vp 8 0 0 0 65535 0]Esta informação seria[n]o fator decisivo para[n]derrotar Kuramoto...[n][f 1 3 65535][w][e]
 
 [msg MSG_027_0_0 [Yoshida]]
 [s][bup 0 112 500 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sinto muito.[n][f 1 3 65535][w][e]
 
-[msg MSG_028_0_0 [Membro della Dieta Matsushita]]
+[msg MSG_028_0_0 [Membro da Dieta Matsushita]]
 [s][vp 8 0 0 0 65535 0]Não se preocupe. Eu estava[n]apenas oferecendo a você um acordo.[n]Eu estava pronto para uma rejeição.[n][f 1 3 65535][w][e]
 
-[msg MSG_029_0_0 [Membro della Dieta Matsushita]]
+[msg MSG_029_0_0 [Membro da Dieta Matsushita]]
 [s][vp 8 0 0 0 65535 0]...Muito bem. Esqueça tudo.[n]Perdoe-me por trazer isso à tona[n]de repente.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Vou falar com o grupo e obter suporte para seu[n]próximo discurso sobre os Phantom Thieves.[n][f 1 3 65535][w][e]
 
 [msg MSG_030_0_0 [Yoshida]]
 [s][bup 0 112 504 0 0][f 4 10 65535 0 0][vp 8 2 0 20038 65535 0]Por que você está fazendo isso?[n][f 1 3 65535][w][e]
 
-[msg MSG_031_0_0 [Membro della Dieta Matsushita]]
+[msg MSG_031_0_0 [Membro da Dieta Matsushita]]
 [s][vp 8 0 0 0 65535 0]Não quero um debate sobre os Phantom Thieves. Eu só[n]quero chamar a atenção para eles.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]E você poderá aproveitar uma[n]etapa importante para afirmar[n]sua inocência.[n][f 1 3 65535][w][e]
 
-[msg MSG_032_0_0 [Membro della Dieta Matsushita]]
+[msg MSG_032_0_0 [Membro da Dieta Matsushita]]
 [s][vp 8 0 0 0 65535 0]Francamente, ficarei feliz enquanto a influência[n]do grupo de Kuramoto diminuir.[n][f 1 3 65535][w][e]
 
-[msg MSG_033_0_0 [Membro della Dieta Matsushita]]
+[msg MSG_033_0_0 [Membro da Dieta Matsushita]]
 [s][vp 8 0 0 0 65535 0][f 4 1]-kun... Não mencione isso[n]a ninguém, pelo bem[n]de ambos.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Perfeito, então.[n][f 1 3 65535][w][e]
 

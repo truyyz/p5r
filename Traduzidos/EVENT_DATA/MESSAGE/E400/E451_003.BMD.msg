@@ -101,10 +101,10 @@
 [msg MSG_046_0_0 [Caroline]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 102 15 300 1][vp 8 0 0 57 65535 0]É hora de você nos retribuir por[n]ajudá-lo a crescer.[n]Cuidado![n][f 1 3 65535][w][e]
 
-[msg MSG_047_0_0 [Caroline e Justine]]
+[msg MSG_047_0_0 [Carolina e Justine]]
 [s][vp 1 0 0 58 0 0][f 4 25 0 4 0 0][f 4 25 0 5 0 0]Agora, junte-nos![n][f 1 3 65535][w][e]
 
-[msg MSG_048_0_0 [Caroline e Justine]]
+[msg MSG_048_0_0 [Carolina e Justine]]
 [s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 59 65535 0]Agora, junte-nos![n][f 1 3 65535][w][e]
 
 [sel SEL_049_0_0 top]

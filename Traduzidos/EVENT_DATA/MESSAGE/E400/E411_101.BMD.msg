@@ -17,13 +17,13 @@
 [s][bup 0 8 102 65535 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Criar aquele Medjed falso não foi[n]seu único crime, foi?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Quero saber o[n]maior segredo dele.[n][f 1 3 65535][w][e]
 
-[msg MSG_006_0_0 [Ombra Presidente IT]]
+[msg MSG_006_0_0 [Presidente de TI Sombra]]
 [s][vp 8 0 0 8 65535 0]Pesquisa sobre[n]ciência psi-cognitiva...[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Futaba]]
 [s][f 4 16 8 3 301 1 65535][vp 8 0 0 9 65535 0]O que ele fez?!? Fale logo![n][f 1 3 65535][w][e]
 
-[msg MSG_008_0_0 [Ombra Presidente IT]]
+[msg MSG_008_0_0 [Presidente de TI Sombra]]
 [s][vp 8 0 0 10 65535 0]Depois de extrair os[n]resultados da pesquisa, destruí[n]o último byte dos dados originais.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Então, criptografei o que tínhamos[n]e armazenei em um domínio[n]inacessível a meros mortais.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Mas não me interpretem mal.[n]Não sei nada sobre todas[n]essas paradas mentais.[n][f 1 3 65535][w][e]

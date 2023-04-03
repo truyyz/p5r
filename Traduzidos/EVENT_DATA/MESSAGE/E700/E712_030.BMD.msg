@@ -78,13 +78,13 @@
 [msg MND_990_0_0]
 [s][vp 8 0 0 0 65535 0]Sinto que meu vínculo[n]com Iwai está ficando mais forte...[n][f 1 3 65535][w][e]
 
-[msg MSG_016_0_0 [voz de jovem]]
+[msg MSG_016_0_0 [Voz de jovem]]
 [s][vp 8 0 0 0 65535 0]O-Olá...[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Iwai]]
 [s][bup 0 104 2 0 0][f 4 10 65535 0 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 104 3 300 65535][vp 8 2 0 13101 65535 0]Huh...? Eu pensei que[n]disse para você não aparecer novamente.[n][f 1 3 65535][w][e]
 
-[msg MSG_018_0_0 [Ragazzo dall'aria seria]]
+[msg MSG_018_0_0 [Menino de cara séria]]
 [s][vp 8 0 0 0 65535 0]Mas...[n][f 1 3 65535][w][e]
 
 [sel SEL_019_0_0 top]

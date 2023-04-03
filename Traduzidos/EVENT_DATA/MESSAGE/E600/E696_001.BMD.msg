@@ -1857,10 +1857,10 @@
 [s][vp 8 0 0 55 65535 0][bup 0 4 0 65535 0][f 4 10 65535 0 0]Mas agora a única coisa que posso fazer[n]é confiar... e esperar.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 56 65535 0][f 4 10 65535 0 0]...Peço desculpas. Obrigado[n]por ouvir.[n][f 1 3 65535][w][e]
 
-[msg MSG_430_0_0 [Mulher com uma câmera]]
+[msg MSG_430_0_0 [Mulher com um quarto]]
 [s][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 16002 65535 0]Ei, é você![n][f 1 3 65535][w][e]
 
-[msg MSG_431_0_0 [Mulher com uma câmera]]
+[msg MSG_431_0_0 [Mulher com um quarto]]
 [s][vp 8 0 0 0 65535 0][bup 0 107 0 65535 0][f 4 10 65535 0 0]'Dia! Você está indo para a escola?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Estou voltando para casa! O sol[n]da manhã está muito forte...[n][f 1 3 65535][w][e]
 
@@ -1868,11 +1868,11 @@
 [s]Que trabalho você faz?[e]
 [s]Desculpe, você seria...?[e]
 
-[msg MSG_433_0_0 [Mulher com uma câmera]]
+[msg MSG_433_0_0 [Mulher com um quarto]]
 [s][bup 0 107 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 16036 65535 0]Ichiko Ohya, repórter! Venho[n]de uma noite de muito trabalho. Eu não sou[n]um para relaxar, sabe?[n][f 1 3 65535][w][e]
 [s][bup 0 107 0 65535 0][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Bem, ocupe-se estudando.[n][f 1 3 65535][w][e]
 
-[msg MSG_434_0_0 [Mulher com uma câmera]]
+[msg MSG_434_0_0 [Mulher com um quarto]]
 [s][bup 0 107 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 16044 65535 0]Ei! Como você esqueceu[n]uma garota adorável como eu?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Ichiko Ohya. Sou jornalista.[n]entrevistei você na frente[n]da casa do Madarame, lembra?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]*bocejo* Malditos turnos noturnos...[n]Bem, ocupe-se com seus estudos.[n][f 1 3 65535][w][e]

@@ -4,27 +4,27 @@
 [msg MSG_001_0_0 [Morgana]]
 [s][bup 0 3 4 0 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Uma pessoa?!? Aqui no Memento?!?[n][f 1 3 65535][w][e]
 
-[msg MSG_002_0_0 [Ragazzino vestito di bianco]]
+[msg MSG_002_0_0 [Garotinho vestido de branco]]
 [s][bup 0 221 3 0 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Hmm...[n][f 1 3 65535][w][e]
 
-[msg MSG_003_0_0 [Ragazzino vestito di bianco]]
+[msg MSG_003_0_0 [Garotinho vestido de branco]]
 [s][bup 0 221 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]Talvez seja isso...[n][f 1 3 65535][w][e]
 
-[msg MSG_004_0_0 [Ragazzino vestito di bianco]]
+[msg MSG_004_0_0 [Garotinho vestido de branco]]
 [s][bup 0 221 1 0 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Oooh![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Delicioso![n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Ryuji]]
 [s][bup 0 2 104 0 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Ei, o que você está bebendo?[n][f 1 3 65535][w][e]
 
-[msg MSG_006_0_0 [Ragazzino vestito di bianco]]
+[msg MSG_006_0_0 [Garotinho vestido de branco]]
 [s][bup 0 221 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Oh? Mmm, eu pensei que[n]senti algo estranho[n]por um momento...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Então, quem é você?[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Morgana]]
 [s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Deveria ser NÓS[n]fazendo esta pergunta![n][f 1 3 65535][w][e]
 
-[msg MSG_008_0_0 [Ragazzino vestito di bianco]]
+[msg MSG_008_0_0 [Garotinho vestido de branco]]
 [s][bup 0 221 4 0 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Você não está totalmente errado.[n]Peço desculpas.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]É costume os humanos se apresentarem antes de[n]perguntar a outro humano qual é o nome deles.[n][f 1 3 65535][w][e]
 [s][bup 0 221 1 0 0][f 4 10 65535 0 0][f 4 24 0 4 6 36 3 100][vp 8 0 0 13 65535 0]Obrigado por me lembrar,[n]sr... um... tanuki?[n]Não, um... Mmm... Senhor gato?[n][f 1 3 65535][w][e]
@@ -35,7 +35,7 @@
 [msg MSG_010_0_0 [Ryuji]]
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Sim, hum, não me parece tão[n]estranho ficar confuso sobre certas coisas.[n][f 1 3 65535][w][e]
 
-[msg MSG_011_0_0 [Ragazzino vestito di bianco]]
+[msg MSG_011_0_0 [Garotinho vestido de branco]]
 [s][bup 0 221 0 0 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Meu nome é Jose.[n]Estou procurando flores.[n][f 1 3 65535][w][e]
 
 [msg MSG_011_5_0 [Jose]]

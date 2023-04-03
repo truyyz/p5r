@@ -44,14 +44,14 @@
 [s][vp 8 2 0 0 65535 0]Primeiro, lembre-se dos comandos que[n]exibem na tela.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]Em seguida, digite os comandos cuidadosamente[n]dentro do limite de tempo.[n][f 1 3 65535][w][e]
 
-[msg MSG_Stage01_start_1st_00 [Narratore]]
+[msg MSG_Stage01_start_1st_00 [Narrador]]
 [s][vp 8 2 0 59553 65535 0]Conforme a destruição se aproxima,[n]um novo poder abre suas asas![n][f 1 3 65535][w][e]
 
 [msg MSG_Stage01_start_1st_00_2 [Morgana]]
 [s][bup 0 3 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 1184 65535 0]Uau, eles sabem como te abastecer![n][f 1 3 65535][w][e]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]É um... laboratório? A pessoa na frente do[n]computador parece um cientista.[n][f 1 3 65535][w][e]
 
-[msg MSG_Stage01_start_1st_00_3 [Donna in camice da laboratorio]]
+[msg MSG_Stage01_start_1st_00_3 [Mulher em um jaleco]]
 [s][vp 8 2 0 59553 65535 0]...Você já acordou.[n]É um bom sinal.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 59553 65535 0]Meu nome é... Bem, me chame de[n]Osagiri. Eu supervisionarei seu[n]treinamento.[n][f 1 3 65535][w][e]
 
@@ -70,7 +70,7 @@
 [msg MSG_Stage01_start_1st_00_8 [Osagiri]]
 [s][vp 8 2 0 59553 65535 0]Vamos começar o aquecimento.[n]Tente controlar sua[n]força conforme as instruções.[n][f 1 3 65535][w][e]
 
-[msg MSG_Stage02_01_000 [Narratore]]
+[msg MSG_Stage02_01_000 [Narrador]]
 [s][vp 8 2 0 59553 65535 0]Pigeon chega à Terra...[n]para enfrentar sua primeira[n]batalha real contra um Aberrante![n][f 1 3 65535][w][e]
 
 [msg MSG_Stage02_01_001 [Morgana]]
@@ -111,7 +111,7 @@
 [msg MSG_Stage02_01_101 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 1175 65535 0]Nosso campo de batalha[n]será a cidade. Devemos[n]derrotar este Aberrante![n][f 1 3 65535][w][e]
 
-[msg MSG_Stage03_01_000 [Narratore]]
+[msg MSG_Stage03_01_000 [Narrador]]
 [s][vp 8 2 0 59553 65535 0]Batalha após batalha, Pigeon[n]fica mais forte. E ele está pronto[n]para mergulhar no próximo desafio...[n][f 1 3 65535][w][e]
 
 [msg MSG_Stage03_01_002 [Osagiri]]
@@ -150,24 +150,24 @@
 [msg MSG_Stage01_01_NO2 [Osagiri]]
 [s][vp 8 2 0 59553 65535 0]Talvez você não estivesse preparado o suficiente.[n]Tente um desafio diferente.[n][f 1 3 65535][w][e]
 
-[msg MSG_Stage02_01_051 [Telefocronico]]
+[msg MSG_Stage02_01_051 [Telefônico]]
 [s][vp 8 2 0 59555 65535 0]Driiin! Prove meu feixe[n]de ondas de rádio![n][f 1 3 65535][w][e]
 
 [msg MSG_Stage02_01_OK1 [Morgana]]
 [s][bup 0 3 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 1184 65535 0]Uau, bela esquiva![n][f 1 3 65535][w][e]
 
-[msg MSG_Stage02_01_OK2 [Telefocronico]]
+[msg MSG_Stage02_01_OK2 [Telefônico]]
 [s][vp 8 2 0 59555 65535 0]Impossível! Você conseguiu esquivar[n]meu ataque... Você não é[n]um humano comum![n][f 1 3 65535][w][e]
 [s][vp 8 2 0 59555 65535 0]Que tal agora? Cabo Emaranhado![n][f 1 3 65535][w][e]
 
 [msg MSG_Stage02_01_OK3 [Morgana]]
 [s][bup 0 3 5 65535 0][f 4 10 65535 0 0][vp 8 2 0 1044 65535 0]Isso não é bom. O pombo caiu no buraco e não pode[n]se mover![n][f 1 3 65535][w][e]
 
-[msg MSG_Stage02_01_OK4 [Telefocronico]]
+[msg MSG_Stage02_01_OK4 [Telefônico]]
 [s][vp 8 2 0 59555 65535 0]Ha ha ha ha! Que[n]vista maravilhosa![n][f 1 3 65535][w][e]
 [s][vp 8 2 0 59555 65535 0]Você não tem chance contra o meu Rrraggio[n]a Onde Rrradio![n][f 1 3 65535][w][e]
 
-[msg MSG_Stage02_01_NO1 [Telefocronico]]
+[msg MSG_Stage02_01_NO1 [Telefônico]]
 [s][vp 8 2 0 59555 65535 0]Ee ee ee! Como eu queria![n][f 1 3 65535][w][e]
 
 [msg MSG_Stage02_01_NO2 [Osagiri]]
@@ -205,7 +205,7 @@
 [msg MSG_Stage03_01_NO3 [Morgana]]
 [s][bup 0 3 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 1182 65535 0]Não... Você está morto...[n][f 1 3 65535][w][e]
 
-[msg MSG_Stage02_02_001 [Telefocronico]]
+[msg MSG_Stage02_02_001 [Telefônico]]
 [s][vp 8 2 0 59555 65535 0]Aqui está! Drrrin! RrRadio Waves Rrradio![n][f 1 3 65535][w][e]
 
 [msg MSG_Stage02_02_002 [Morgana]]
@@ -236,10 +236,10 @@
 [msg MSG_Stage02_02_OK1 [Morgana]]
 [s][bup 0 3 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 1180 65535 0]Bom! Nos libertamos do[n]cabo e desviamos da trave![n][f 1 3 65535][w][e]
 
-[msg MSG_Stage02_02_OK2 [Telefocronico]]
+[msg MSG_Stage02_02_OK2 [Telefônico]]
 [s][vp 8 2 0 59555 65535 0]O-o quê? Como você fez isso?[n][f 1 3 65535][w][e]
 
-[msg MSG_Stage02_02_NO1 [Telefocronico]]
+[msg MSG_Stage02_02_NO1 [Telefônico]]
 [s][vp 8 2 0 59556 65535 0]Brrahahahah! Muito lento![n]Você é fácil de superar.[n]Agora eu peguei você![n][f 1 3 65535][w][e]
 
 [msg MSG_Stage02_02_NO2 [Osagiri]]
@@ -282,22 +282,22 @@
 [msg MSG_Stage01_03_006 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 1174 65535 0]Portanto, esse treinamento nos prepara para o[n]combate real. Bem, vamos pegar o Aberrante![n][f 1 3 65535][w][e]
 
-[msg MSG_Stage01_03_007 [Ferrocronico]]
+[msg MSG_Stage01_03_007 [Ferrocrônico]]
 [s][vp 8 2 0 59556 65535 0]Klangete klang! Eu sou Ferrocrônico,[n]o Aberrante come sucata, klang![n][f 1 3 65535][w][e]
 
-[msg MSG_Stage01_03_008 [Ferrocronico]]
+[msg MSG_Stage01_03_008 [Ferrocrônico]]
 [s][vp 8 2 0 59556 65535 0]Há muitas pessoas na Terra, klang![n]Vou esmagá-los e tornar este[n]lugar mais habitável, klang![n][f 1 3 65535][w][e]
 
 [msg MSG_Stage01_03_009 [Morgana]]
 [s][bup 0 3 5 65535 0][f 4 10 65535 0 0][vp 8 2 0 1027 65535 0]...Ele parece muito animado por[n]ser uma ameaça para[n]o mundo, hein?[n][f 1 3 65535][w][e]
 
-[msg MSG_Stage01_03_010 [Ferrocronico]]
+[msg MSG_Stage01_03_010 [Ferrocrônico]]
 [s][vp 8 2 0 59556 65535 0]Você ousa ficar no meu caminho, klang?[n]Eu vou te esmagar, klang![n][f 1 3 65535][w][e]
 
 [msg MSG_Stage01_03_011 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 2 0 1156 65535 0]Está chegando![n]Prepare seu controle![n][f 1 3 65535][w][e]
 
-[msg MSG_Stage01_03_012 [Ferrocronico]]
+[msg MSG_Stage01_03_012 [Ferrocrônico]]
 [s][vp 8 2 0 59554 65535 0]Pegue isso! Imprensa de contenção![n][f 1 3 65535][w][e]
 
 [msg MSG_Stage02_03_001 [Osagiri]]
@@ -312,19 +312,19 @@
 [msg MSG_Stage03_03_002 [Morgana]]
 [s][bup 0 3 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 1022 65535 0]Quem está aí? Espere... Vejo cinco silhuetas...[n][f 1 3 65535][w][e]
 
-[msg MSG_Stage03_03_003 [Red Eagle]]
+[msg MSG_Stage03_03_003 [Águia vermelha]]
 [s][vp 8 2 0 59551 65535 0]Aqui estamos! Os Feathermen estão aqui![n][f 1 3 65535][w][e]
 
-[msg MSG_Stage03_03_004 [Blue Swan]]
+[msg MSG_Stage03_03_004 [Cisne azul]]
 [s][vp 8 2 0 59553 65535 0]O que está acontecendo? Não vejo Aberrantes...[n][f 1 3 65535][w][e]
 
-[msg MSG_Stage03_03_005 [Yellow Owl]]
+[msg MSG_Stage03_03_005 [Coruja amarela]]
 [s][vp 8 2 0 59552 65535 0]E o cinza ali?[n][f 1 3 65535][w][e]
 
-[msg MSG_Stage03_03_006 [Pink Argus]]
+[msg MSG_Stage03_03_006 [Argus Rosa]]
 [s][vp 8 2 0 59552 65535 0]Mas isso parece um Featherman...[n][f 1 3 65535][w][e]
 
-[msg MSG_Stage03_03_007 [Black Falcon]]
+[msg MSG_Stage03_03_007 [Falcão negro]]
 [s][vp 8 2 0 59552 65535 0]Não pode ser... As previsões sobre o Infinibug[n]vem daqueles homens de penas![n][f 1 3 65535][w][e]
 
 [msg MSG_Stage03_03_008 [Morgana]]
@@ -334,32 +334,32 @@
 [msg MSG_Stage03_03_009 [Osagiri]]
 [s][vp 8 2 0 59553 65535 0]Você os ouviu, Pombo? Eles acreditam que[n]você é um Aberrante. Você vai ficar aí[n]empalado para ser morto...?[n][f 1 3 65535][w][e]
 
-[msg MSG_Stage03_03_010 [Red Eagle]]
+[msg MSG_Stage03_03_010 [Águia vermelha]]
 [s][vp 8 2 0 59552 65535 0]Você é um Phoenix Ranger?[n]Eu exijo uma explicação![n][f 1 3 65535][w][e]
 
 [msg MSG_Stage03_03_011 [Morgana]]
 [s][bup 0 3 5 65535 0][f 4 10 65535 0 0][vp 8 2 0 1044 65535 0]Aqui as coisas estão degenerando... mas[n]o jogo não nos deixa outra escolha.[n][f 1 3 65535][w][e]
 
-[msg MSG_Stage03_03_012 [Red Eagle]]
+[msg MSG_Stage03_03_012 [Águia vermelha]]
 [s][vp 8 2 0 59552 65535 0]Mh... Você vai lutar? Você não me parece um[n]Aberrante...[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 59553 65535 0]Mas se você nos desafiar, não vacilaremos![n]Ataque! Feather Phoenix![n][f 1 3 65535][w][e]
 
 [msg MSG_Stage03_03_013 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 2 0 1021 65535 0]Vamos liberar a artilharia![n]Bazuca em chamas![n][f 1 3 65535][w][e]
 
-[msg MSG_Stage01_03_OK1 [Ferrocronico]]
+[msg MSG_Stage01_03_OK1 [Ferrocrônico]]
 [s][vp 8 2 0 59556 65535 0]Hum!?! Como esse[n]pirralho insolente evitou[n]meu ataque? Porco de ferro![n][f 1 3 65535][w][e]
 
 [msg MSG_Stage01_03_OK2 [Morgana]]
 [s][bup 0 3 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 1171 65535 0]É a nossa chance! Punho de Vento![n][f 1 3 65535][w][e]
 
-[msg MSG_Stage01_03_NG1 [Ferrocronico]]
+[msg MSG_Stage01_03_NG1 [Ferrocrônico]]
 [s][vp 8 2 0 59556 65535 0]Hahaha! Centro, klang! Você não deveria ter[n]me subestimado![n][f 1 3 65535][w][e]
 
 [msg MSG_Stage01_03_NG2 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 2 0 1181 65535 0]É hora de vingança! Punho de Vento![n][f 1 3 65535][w][e]
 
-[msg MSG_Stage02_03_OK1 [Telefocronico]]
+[msg MSG_Stage02_03_OK1 [Telefônico]]
 [s][vp 8 2 0 59556 65535 0]Gah! C-Como você sabe... meus[n]pontos fracos...? Um momento! Você não é...![n][f 1 3 65535][w][e]
 [s][vp 8 2 0 59555 65535 0]Grrr... Glorrria to the Zylams![n][f 1 3 65535][w][e]
 
@@ -371,7 +371,7 @@
 [s][vp 8 2 0 59553 65535 0]Muito notável, Pombo. Mas[n]você ainda não parece ter todo o seu[n]potencial. Ainda há espaço...[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 59553 65535 0]Você deve tentar aprender como esse poder é[n]acessado. Será de grande benefício para você.[n][f 1 3 65535][w][e]
 
-[msg MSG_Stage02_03_NG1 [Telefocronico]]
+[msg MSG_Stage02_03_NG1 [Telefônico]]
 [s][vp 8 2 0 59556 65535 0]Muah ha ha ha! Perdeu![n]E agora você descobriu demais![n]Feixe de ondas de rádio![n][f 1 3 65535][w][e]
 
 [msg MSG_Stage02_03_NG2 [Osagiri]]
@@ -380,13 +380,13 @@
 [msg MSG_Stage02_03_NG3 [Morgana]]
 [s][bup 0 3 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 1182 65535 0]Não... Você está morto...[n][f 1 3 65535][w][e]
 
-[msg MSG_Stage03_03_OK1 [Red Eagle]]
+[msg MSG_Stage03_03_OK1 [Águia vermelha]]
 [s][vp 8 2 0 59553 65535 0]Urgh... Que poder! Eles[n]nos derrotaram, como isso é possível?[n][f 1 3 65535][w][e]
 
 [msg MSG_Stage03_03_OK2 [Osagiri]]
 [s][vp 8 2 0 59552 65535 0]Hahahaha! Hahahaha! A experiência foi[n]bem-sucedida![n][f 1 3 65535][w][e]
 
-[msg MSG_Stage03_03_NG1 [Red Eagle]]
+[msg MSG_Stage03_03_NG1 [Águia vermelha]]
 [s][vp 8 2 0 59552 65535 0]Conseguimos derrotá-los antes...[n][f 1 3 65535][w][e]
 
 [msg MSG_Stage03_03_NG2 [Osagiri]]
@@ -401,7 +401,7 @@
 [msg MSG_Stage03_04_003 [Morgana]]
 [s][bup 0 3 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 1043 65535 0]Poltrona do líder supremo?[n]Do que ele está falando?[n][f 1 3 65535][w][e]
 
-[msg MSG_Stage03_04_004 [Red Eagle]]
+[msg MSG_Stage03_04_004 [Águia vermelha]]
 [s][vp 8 2 0 59552 65535 0]Grrr... Quem é você?[n][f 1 3 65535][w][e]
 
 [msg MSG_Stage03_04_006 [Osagiri?]]
@@ -418,13 +418,13 @@
 [msg MSG_Stage03_04_009 [Alya]]
 [s][vp 8 2 0 59553 65535 0]Agora, Pombo Cinzento! Elimine os[n]Feathermen de uma vez por todas[n]e reivindique a vitória![n][f 1 3 65535][w][e]
 
-[msg MSG_Stage03_04_010 [Red Eagle]]
+[msg MSG_Stage03_04_010 [Águia vermelha]]
 [s][vp 8 2 0 59553 65535 0]Pombo Cinzento, ouça-me! Tu também serás um[n]Aberrante, mas tu és mal. Há justiça em você![n][f 1 3 65535][w][e]
 
 [msg MSG_Stage03_04_011 [Alya]]
 [s][vp 8 2 0 59552 65535 0]O que você está esperando, Pombo?[n]Destrua-os, agora![n][f 1 3 65535][w][e]
 
-[msg MSG_Stage03_04_012 [Narratore]]
+[msg MSG_Stage03_04_012 [Narrador]]
 [s][vp 8 2 0 59553 65535 0]Foi então que o fogo da justiça ardeu no coração[n]de Pigeon ... Alya era sua verdadeira inimiga![n][f 1 3 65535][w][e]
 
 [msg MSG_Stage03_04_013 [Morgana]]
@@ -439,13 +439,13 @@
 [msg MSG_Stage03_04_052 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 2 0 1181 65535 0]Temos que derrubar Alya![n]Feather Phoenix![n][f 1 3 65535][w][e]
 
-[msg MSG_Stage01_04_OK1 [Ferrocronico]]
+[msg MSG_Stage01_04_OK1 [Ferrocrônico]]
 [s][vp 8 2 0 59555 65535 0]Eu não posso acreditar... Eu perdi... Glória a[n]Zylam! ...klang...[n][f 1 3 65535][w][e]
 
 [msg MSG_Stage01_04_OK2 [Morgana]]
 [s][bup 0 3 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 1180 65535 0]Oh sim! Uma grande vitória![n][f 1 3 65535][w][e]
 
-[msg MSG_Stage01_04_NG1 [Ferrocronico]]
+[msg MSG_Stage01_04_NG1 [Ferrocrônico]]
 [s][vp 8 2 0 59556 65535 0]Você não pode me bater, klang![n]Agora é minha vez![n][f 1 3 65535][w][e]
 
 [msg MSG_Stage01_04_NG2 [Morgana]]
@@ -481,7 +481,7 @@
 [s][vp 8 2 0 59553 65535 0]Opa, você está desmaiado? Foi[n]talvez eu fui muito rápido? Agora[n]vou corrigir sua insubordinação.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 59553 65535 0]Quando você acordar, você será meu[n]escravo obediente... Ahaha...[n]Ahahahahah![n][f 1 3 65535][w][e]
 
-[msg MSG_Stage03_05_001 [Narratore]]
+[msg MSG_Stage03_05_001 [Narrador]]
 [s][vp 8 2 0 59553 65535 0]A destruição era iminente... Mas a[n]justiça em Pigeon[n]heart pediu que ele não se rendesse![n][f 1 3 65535][w][e]
 
 [msg MSG_Stage03_05_002 [Alya]]
@@ -493,7 +493,7 @@
 [msg MSG_Stage03_05_004 [Alya]]
 [s][vp 8 2 0 59553 65535 0]O que...? Essa energia que você emite...[n]É o seu despertar total!?![n][f 1 3 65535][w][e]
 
-[msg MSG_Stage03_05_005 [Narratore]]
+[msg MSG_Stage03_05_005 [Narrador]]
 [s][vp 8 2 0 59553 65535 0]A hora chegou! Desperte seus[n]poderes adormecidos, Grey Pigeon![n][f 1 3 65535][w][e]
 
 [msg MSG_Stage03_05_006 [Morgana]]
@@ -514,10 +514,10 @@
 [msg MSG_Stage04_05_OK4 [Morgana]]
 [s][bup 0 3 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 1162 65535 0]Acabou. O sacrifício do pombo[n]salvou os Homens-Pena...[n]De fato, a Terra.[n][f 1 3 65535][w][e]
 
-[msg MSG_Stage04_05_OK5 [Narratore]]
+[msg MSG_Stage04_05_OK5 [Narrador]]
 [s][vp 8 2 0 59551 65535 0]Enquanto isso, na Terra...[n][f 1 3 65535][w][e]
 
-[msg MSG_Stage04_05_OK6 [Red Eagle]]
+[msg MSG_Stage04_05_OK6 [Águia vermelha]]
 [s][vp 8 2 0 59553 65535 0]Ele mostrou uma coragem incrível[n]em seus últimos momentos. Ele[n]poderia ter se tornado um de nós...[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 59553 65535 0]Obrigado, Pombo Cinzento. A justiça[n]em seu coração nos salvou.[n]Nunca te esqueceremos...[n][f 1 3 65535][w][e]
 

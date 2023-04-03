@@ -1,4 +1,4 @@
-[msg MSG_001_0_0 [Insegnante in preda al panico]]
+[msg MSG_001_0_0 [Professor em pânico]]
 [s][vp 8 0 0 1 10 0]A aula ainda não acabou![n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Ann]]
@@ -7,19 +7,19 @@
 [msg MSG_003_0_0 [Ryuji]]
 [s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]O que há de errado com[n]essas pessoas...!?![n][f 1 3 65535][w][e]
 
-[msg MSG_004_0_0 [Paramedico]]
+[msg MSG_004_0_0 [Paramédico]]
 [s][vp 8 0 0 4 7 0]Precisamos que alguém venha com ela... Tem algum[n]professor?[n][f 1 3 65535][w][e]
 
-[msg MSG_005_0_0 [Insegnante in preda al panico]]
+[msg MSG_005_0_0 [Professor em pânico]]
 [s][vp 8 0 0 5 10 0]II, mas não sou responsável[n]pela aula dele...[n][f 1 3 65535][w][e]
 
-[msg MSG_006_0_0 [Insegnante titubante]]
+[msg MSG_006_0_0 [Professor hesitante]]
 [s][vp 8 0 0 6 11 0]D-Deve ser[n]Diretor Kobayakawa...[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Ann]]
 [s][bup 0 4 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Estou chegando![n][f 1 3 65535][w][e]
 
-[msg MSG_008_0_0 [Paramedico]]
+[msg MSG_008_0_0 [Paramédico]]
 [s][vp 8 0 0 8 7 0]Rápido![n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Ann]]
@@ -63,7 +63,7 @@
 [msg MSG_018_0_0 [Ryuji]]
 [s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]O time de vôlei...[n][f 1 3 65535][w][e]
 
-[msg MSG_019_0_0 [Insegnante in preda al panico]]
+[msg MSG_019_0_0 [Professor em pânico]]
 [s][vp 8 0 0 21 10 0]Retorne imediatamente para suas salas de aula![n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Mishima]]

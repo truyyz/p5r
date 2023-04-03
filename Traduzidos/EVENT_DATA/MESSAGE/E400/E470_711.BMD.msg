@@ -5,13 +5,13 @@
 [msg MSG_001_0_0 [Sumire]]
 [s][bup 0 10 804 0 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Erm... Treinador?[n][f 1 3 65535][w][e]
 
-[msg MSG_002_0_0 [Coach Higurachi]]
+[msg MSG_002_0_0 [Treinador Higurachi]]
 [s][bup 0 218 502 0 0][f 4 10 65535 0 0][vp 8 0 0 4 4 0]...Não fale sobre isso.[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Sumire]]
 [s][bup 0 10 803 0 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Mas...[n][f 1 3 65535][w][e]
 
-[msg MSG_004_0_0 [Coach Higurachi]]
+[msg MSG_004_0_0 [Treinador Higurachi]]
 [s][bup 0 218 500 0 0][f 4 10 65535 0 0][vp 8 0 0 6 4 0]Tenho alguns contatos que[n]provavelmente serão muito mais úteis[n]do que qualquer um de seus esforços.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 7 4 0]Também farei alguns telefonemas[n]para ver se algum dos meus[n]outros alunos sabe de alguma coisa...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 8 4 0]Isso significa que você continuará a[n]treinar como planejado, ok?[n]Com certeza ele também gostaria.[n][f 1 3 65535][w][e]

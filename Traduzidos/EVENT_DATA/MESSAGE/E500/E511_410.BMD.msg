@@ -70,11 +70,11 @@
 [msg MSG_020_0_0 [Haru]]
 [s][bup 0 7 102 0 0][f 4 10 65535 0 0][vp 8 0 0 26 65535 0]Yoshizawa-san![n][f 1 3 65535][w][e]
 
-[msg MSG_021_0_0 [Voce di Maruki]]
+[msg MSG_021_0_0 [A voz de Maruki]]
 [s][f 4 10 65535 0 0][vp 8 0 0 27 65535 0]...Ainda dá tempo.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 28 65535 0]...No dia 3 de fevereiro. É a[n]última data em que aguardarei[n]sua decisão final.[n][f 1 3 65535][w][e]
 
-[msg MSG_022_0_0 [Voce di Maruki]]
+[msg MSG_022_0_0 [A voz de Maruki]]
 [s][vp 8 0 0 30 65535 0]Se até então nossas opiniões[n]não forem reconciliadas, não teremos[n]escolha a não ser lutar.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 36 65535 0]Por mais que eu odeie,[n]ainda não consigo desistir[n]do que comecei...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 37 65535 0]Ao que jurei fazer...[n]no dia em que perdi tudo[n]que era importante para mim.[n][f 1 3 65535][w][e]

@@ -22,10 +22,10 @@
 [msg MSG_057_5_0 [Voz misteriosa]]
 [s][vp 8 0 0 20 65535 0]A caveira da rebelião será sua bandeira a partir[n]de agora![n][f 1 2 125][e]
 
-[msg MSG_058_0_0 [Capitão da Guarda]]
+[msg MSG_058_0_0 [Capitão da guarda]]
 [s][vp 8 0 0 8 65535 0]Umpf. O que você vai fazer...?[n][f 1 2 80][e]
 
-[msg MSG_059_0_0 [Capitão da Guarda]]
+[msg MSG_059_0_0 [Capitão da guarda]]
 [s][vp 8 0 0 9 65535 0]Trema de terror e observe![n][f 1 2 70][e]
 
 [msg MSG_060_0_0 [Ryuji]]
@@ -34,7 +34,7 @@
 [msg MSG_061_0_0 [Ryuji]]
 [s][vp 1 0 0 11 0 0]Nnnngh... Hraaaaaaaaaagh...![n][f 1 2 230][e]
 
-[msg MSG_062_0_0 [Ombra di Kamoshida]]
+[msg MSG_062_0_0 [Sombra de Kamoshida]]
 [s][vp 1 0 0 12 0 0]Ugh... Ele também!?![n][f 1 2 55][e]
 
 [msg MSG_063_0_0 [Ryuji]]
@@ -52,7 +52,7 @@
 [msg MSG_067_0_0 [Ryuji]]
 [s][vp 6 0 0 17 31 0]Que venha![n][f 1 2 53][e]
 
-[msg MSG_068_0_0 [Capitão da Guarda]]
+[msg MSG_068_0_0 [Capitão da guarda]]
 [s][vp 8 0 0 18 65535 0]Ngh... Não me faça rir, pirralho![n][f 1 2 92][e]
 
 [msg MSG_069_0_0 [Ryuji]]

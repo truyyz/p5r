@@ -19,10 +19,10 @@
 [s][bup 0 5 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Perdi a oportunidade de retratar[n]um assunto maravilhoso...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]De qualquer forma, além disso, muito obrigado por[n]sua ajuda hoje. Aqui com certeza encontrarei um[n]novo motivo.[n][f 1 3 65535][w][e]
 
-[msg MSG_005_0_0 [Giovane donna]]
+[msg MSG_005_0_0 [Mulher jovem]]
 [s][vp 8 0 0 0 6 0]Olha quantos patos![n]Que fofos![n][f 1 3 65535][w][e]
 
-[msg MSG_006_0_0 [Ragazzo]]
+[msg MSG_006_0_0 [Rapaz]]
 [s][vp 8 0 0 0 5 0]Hahaha, não fique muito animado[n]ou vai acabar caindo na água.[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Yusuke]]
@@ -52,49 +52,49 @@
 [msg MSG_012_0_0 [Yusuke]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 5 3 300 1][vp 8 2 0 4018 65535 0]Ele poderia ficar parado?!?[n][f 1 3 65535][w][e]
 
-[msg MSG_013_0_0 [Giovane donna]]
+[msg MSG_013_0_0 [Mulher jovem]]
 [s][vp 8 0 0 0 6 0]O quê?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Yusuke]]
 [s][bup 0 5 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vire-se como antes![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Tenho que imortalizar o perfil dele![n][f 1 3 65535][w][e]
 
-[msg MSG_015_0_0 [Ragazzo]]
+[msg MSG_015_0_0 [Rapaz]]
 [s][vp 8 0 0 0 5 0]Q-Que diabos você está fazendo?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Yusuke]]
 [s][bup 0 5 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Alegrem-se, pois tornarei[n]imortal a glória do seu[n]amor pelas gerações vindouras.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Quando eu terminar, vocês se tornarão[n]lendas no mundo da arte.[n]Adão e Eva modernos![n][f 1 3 65535][w][e]
 
-[msg MSG_017_0_0 [Giovane donna]]
+[msg MSG_017_0_0 [Mulher jovem]]
 [s][vp 8 0 0 0 6 0]L-Legends? Arte...?[n][f 1 3 65535][w][e]
 
-[msg MSG_018_0_0 [Ragazzo]]
+[msg MSG_018_0_0 [Rapaz]]
 [s][vp 8 0 0 0 5 0]Este está fora de si...[n]Vamos denunciá-lo.[n][f 1 3 65535][w][e]
 
-[msg MSG_019_0_0 [Ragazzo]]
+[msg MSG_019_0_0 [Rapaz]]
 [s][vp 8 0 0 0 5 0]Espere um pouco... Você está nos retratando?!?[n][f 1 3 65535][w][e]
 
-[msg MSG_020_0_0 [Giovane donna]]
+[msg MSG_020_0_0 [Mulher jovem]]
 [s][vp 8 0 0 0 6 0]Coisa? Você está nos usando como modelo?[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Yusuke]]
 [s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 4020 65535 0]Um homem e uma mulher balançando[n]em um lago de sonhos... O rubor[n]nas bochechas, os olhares tímidos...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sim, este é exatamente o amor[n]que eu estava procurando![n][f 1 3 65535][w][e]
 
-[msg MSG_022_0_0 [Ragazzo]]
+[msg MSG_022_0_0 [Rapaz]]
 [s][vp 8 0 0 0 5 0]...Amor?[n][f 1 3 65535][w][e]
 
-[msg MSG_023_0_0 [Giovane donna]]
+[msg MSG_023_0_0 [Mulher jovem]]
 [s][vp 8 0 0 0 6 0]Hum, sim, também poderíamos chamá-lo[n]assim, mas... isso seria um pouco estranho.[n][f 1 3 65535][w][e]
 
-[msg MSG_024_0_0 [Ragazzo]]
+[msg MSG_024_0_0 [Rapaz]]
 [s][vp 8 0 0 0 5 0]Sim, nós nos amamos.[n]Mas ela é minha irmã.[n][f 1 3 65535][w][e]
 
-[msg MSG_024_5_0 [Ragazzo]]
+[msg MSG_024_5_0 [Rapaz]]
 [s][vp 8 0 0 0 5 0]Ugh... Eu disse que não queria vir aqui com você.[n]Nós apenas casais vêm.[n][f 1 3 65535][w][e]
 
-[msg MSG_025_0_0 [Giovane donna]]
+[msg MSG_025_0_0 [Mulher jovem]]
 [s][vp 8 0 0 0 6 0]Mas sempre sonhei em vir para[n]Tóquio e alugar um barco![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 6 0]Embora eu sonhasse em fazer isso com meu[n]namorado e não com meu irmão![n][f 1 3 65535][w][e]
 
@@ -127,14 +127,14 @@
 [msg MND_990_0_0]
 [s][vp 8 0 0 0 65535 0]Eu sinto que Yusuke é movido[n]por uma calma determinação...[n][f 1 3 65535][w][e]
 
-[msg MSG_032_0_0 [Giovane donna]]
+[msg MSG_032_0_0 [Mulher jovem]]
 [s][vp 8 0 0 0 6 0]Espere um minuto... você estava dizendo que aqui[n]só vêm casais...?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 6 0]Então esses dois...[n][f 1 3 65535][w][e]
 
-[msg MSG_033_0_0 [Ragazzo]]
+[msg MSG_033_0_0 [Rapaz]]
 [s][vp 8 0 0 0 5 0]Shhh! Na cidade há[n]pessoas de todos os tipos.[n][f 1 3 65535][w][e]
 
-[msg MSG_034_0_0 [Giovane donna]]
+[msg MSG_034_0_0 [Mulher jovem]]
 [s][vp 8 0 0 0 6 0]Oooh, diga...[n][f 1 3 65535][w][e]
 
 [msg MSG_035_0_0 [Yusuke]]

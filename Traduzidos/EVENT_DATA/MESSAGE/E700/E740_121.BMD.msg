@@ -34,7 +34,7 @@
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 8 10 2]Sim, está decidido![n][f 1 3 65535][w][e]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 59 5 100]Mas onde termina a linha...?[n][f 1 3 65535][w][e]
 
-[msg MSG_010_0_0 [Dipendente della friggitoria]]
+[msg MSG_010_0_0 [Funcionário da loja de frituras]]
 [s][vp 8 0 0 0 65535 0]Atenção, quente.[n][f 1 3 65535][w][e]
 
 [msg MSG_010_5_0 [Ann]]
@@ -43,7 +43,7 @@
 [msg MSG_011_0_0 [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu também tomo menchi-katsu![n][f 1 3 65535][w][e]
 
-[msg MSG_012_0_0 [Dipendente della friggitoria]]
+[msg MSG_012_0_0 [Funcionário da loja de frituras]]
 [s][vp 8 0 0 0 65535 0]Oh, desculpe. Essa foi a última.[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Ryuji]]

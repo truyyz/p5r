@@ -17,10 +17,10 @@
 [msg MSG_004_0_0 [Makoto]]
 [s][bup 0 6 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Não condiz com[n]o que minha irmã disse.[n][f 1 3 65535][w][e]
 
-[msg MSG_005_0_0 [Uomo apatico]]
+[msg MSG_005_0_0 [Homem apático]]
 [s][vp 8 0 0 8 65535 0]Ouvi dizer que ele se estressou demais durante a[n]campanha eleitoral. Eu não o culpo.[n][f 1 3 65535][w][e]
 
-[msg MSG_006_0_0 [Uomo preoccupato]]
+[msg MSG_006_0_0 [Homem preocupado]]
 [s][vp 8 0 0 9 14 0]Não é como se ele fosse renunciar,[n]é? Que futuro[n]este país teria sem Shido?[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Yusuke]]
@@ -46,10 +46,10 @@
 [s][bup 0 8 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Mas o autor da postagem é um[n]pesquisador famoso.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]E o próprio ministério afirma[n]que foi assim[n]...[n][f 1 3 65535][w][e]
 
-[msg MSG_014_0_0 [Uomo spensierato]]
+[msg MSG_014_0_0 [Homem despreocupado]]
 [s][vp 8 0 0 19 65535 0]Quando Shido vai se recuperar?[n][f 1 3 65535][w][e]
 
-[msg MSG_015_0_0 [Uomo ampolloso]]
+[msg MSG_015_0_0 [Homem bombástico]]
 [s][vp 8 0 0 20 15 0]Francamente, sinto que ninguém[n]além de Shido pode lidar com[n]um período da história como este.[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Haru]]

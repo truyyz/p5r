@@ -61,13 +61,13 @@
 [msg MSG_022_0_0 [Caroline]]
 [s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eles jogam uma variante[n]do vôlei de praia lá?[n]Eles também jogam bola...[n][f 1 3 65535][w][e]
 
-[msg MSG_023_0_0 [Uomo bendato]]
+[msg MSG_023_0_0 [Homem de olhos vendados]]
 [s][vp 8 0 0 0 65535 0]Cadê a melancia?[n][f 1 3 65535][w][e]
 
-[msg MSG_024_0_0 [Uomo in abiti sgargianti]]
+[msg MSG_024_0_0 [Homem em roupas extravagantes]]
 [s][vp 8 0 0 0 65535 0]Em linha reta, em linha reta! Certo, certo![n][f 1 3 65535][w][e]
 
-[msg MSG_025_0_0 [Donna in bikini]]
+[msg MSG_025_0_0 [Mulher de biquíni]]
 [s][vp 8 0 0 0 65535 0]Muito longe! De volta![n]Não, lá não![n][f 1 3 65535][w][e]
 
 [msg MSG_026_0_0 [Justine]]

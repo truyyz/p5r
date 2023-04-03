@@ -4,13 +4,13 @@
 [msg MSG_007_0_0 [Futaba]]
 [s][bup 0 8 104 0 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Existem slots para inserir[n]subespécies de cartões de acesso.[n]Ah, são cinco![n][f 1 3 65535][w][e]
 
-[msg MSG_008_0_0 [Voce dal tono presidenziale]]
+[msg MSG_008_0_0 [Voz presidencial]]
 [s][vp 8 0 0 9 65535 0]...Quatrocentos e setenta e cinco[n]pessoas a favor, zero contra.[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Ei, eu ouvi algo.[n][f 1 3 65535][w][e]
 
-[msg MSG_010_0_0 [Voce dal tono presidenziale]]
+[msg MSG_010_0_0 [Voz presidencial]]
 [s][vp 8 0 0 11 65535 0]Como ninguém é contra o[n]plano, esta lei é aprovada[n]como foi redigida.[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Ryuji]]

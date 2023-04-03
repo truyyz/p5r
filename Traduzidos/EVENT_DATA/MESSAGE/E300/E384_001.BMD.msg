@@ -1,7 +1,7 @@
-[msg MSG_000_0_0 [Ombra di Sae]]
+[msg MSG_000_0_0 [Sombra de Sae]]
 [s][bup 0 105 100 0 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]...Bando de perdedores.[n][f 1 3 65535][w][e]
 
-[msg MSG_001_0_0 [Ombra di Sae]]
+[msg MSG_001_0_0 [Sombra de Sae]]
 [s][bup 0 105 102 0 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Os julgamentos são uma aposta para[n]vencer, e nós, promotores,[n]somos o banco.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Portanto, perder não é[n]aceitável! Devemos vencer,[n]mesmo que com falsas acusações![n][f 1 3 65535][w][e]
 
@@ -14,7 +14,7 @@
 [msg MSG_004_0_0 [Haru]]
 [s][bup 0 7 103 0 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Mako-chan...[n][f 1 3 65535][w][e]
 
-[msg MSG_005_0_0 [Ombra di Sae]]
+[msg MSG_005_0_0 [Sombra de Sae]]
 [s][bup 0 105 100 0 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Não pense que tal[n]truque pode me derrotar.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Eu reconhecerei suas[n]habilidades como tal... se você conseguir[n]chegar ao Diretório.[n][f 1 3 65535][w][e]
 

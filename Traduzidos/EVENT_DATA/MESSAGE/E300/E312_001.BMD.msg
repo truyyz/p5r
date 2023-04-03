@@ -44,7 +44,7 @@
 [msg MSG_013_5_0 [Sojiro]]
 [s][bup 0 103 500 65535 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]A conta, por favor![n][f 1 3 65535][w][e]
 
-[msg MSG_014_0_0 [Commesso]]
+[msg MSG_014_0_0 [Atendente]]
 [s][vp 8 0 0 17 65535 0]Lá vem![n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Futaba]]

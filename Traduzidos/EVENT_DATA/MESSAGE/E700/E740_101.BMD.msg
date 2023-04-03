@@ -55,7 +55,7 @@
 [msg MSG_017_0_0 [Ryuji]]
 [s][bup 0 2 11 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sopa de cebola francesa[n]ou uma montanha de batatas fritas?[n][f 1 3 65535][w][e]
 
-[msg MSG_018_0_0 [Cameriere]]
+[msg MSG_018_0_0 [Garçom]]
 [s][vp 8 0 0 0 65535 0]Você está pronto para pedir?[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Ann]]
@@ -71,13 +71,13 @@
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Essa é a beleza disso.[n][f 1 3 65535][w][e]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Espera, mudei de ideia. Sem caril. Eu vou querer[n]atum com batatas raladas.[n][f 1 3 65535][w][e]
 
-[msg MSG_023_0_0 [Cameriere]]
+[msg MSG_023_0_0 [Garçom]]
 [s][vp 8 0 0 0 65535 0]Com certeza...[n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [Morgana]]
 [s][bup 0 3 8 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Atum!?![n][f 1 3 65535][w][e]
 
-[msg MSG_025_0_0 [Cameriere]]
+[msg MSG_025_0_0 [Garçom]]
 [s][vp 8 0 0 0 65535 0]O-O que foi isso!?![n][f 1 3 65535][w][e]
 
 [sel SEL_026_0_0 top]
@@ -90,13 +90,13 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu gostaria de um parfait de chá verde![n]E uma salada mediterrânea, por favor![n][f 1 3 65535][w][e]
 [s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Fiuuu.[n][f 1 3 65535][w][e]
 
-[msg MSG_028_0_0 [Cameriere]]
+[msg MSG_028_0_0 [Garçom]]
 [s][vp 8 0 0 0 65535 0]Ah claro...[n][f 1 3 65535][w][e]
 
 [msg MSG_029_0_0 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Fiuuu.[n][f 1 3 65535][w][e]
 
-[msg MSG_030_0_0 [Cameriere]]
+[msg MSG_030_0_0 [Garçom]]
 [s][vp 8 0 0 0 65535 0]...Hein?[n][f 1 3 65535][w][e]
 
 [msg MSG_031_0_0 [Ann]]

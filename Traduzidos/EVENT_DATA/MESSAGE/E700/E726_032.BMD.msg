@@ -19,13 +19,13 @@
 [s][bup 0 9 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 54458 65535 0]Hum. Estava delicioso, afinal...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Para ser sincero,[n]gostei mais do que[n]esperava.[n][f 1 3 65535][w][e]
 
-[msg MSG_006_0_0 [Donna modaiola]]
+[msg MSG_006_0_0 [Mulher elegante]]
 [s][vp 8 0 0 0 6 0]Ei, olhe! Não é ele?[n][f 1 3 65535][w][e]
 
-[msg MSG_007_0_0 [Donna smemorata]]
+[msg MSG_007_0_0 [Mulher esquecida]]
 [s][vp 8 0 0 0 5 0]Oh, você quer dizer o cara que está sempre[n]na TV hoje em dia...[n]Qual era o nome dele?[n][f 1 3 65535][w][e]
 
-[msg MSG_008_0_0 [Donna modaiola]]
+[msg MSG_008_0_0 [Mulher elegante]]
 [s][vp 8 0 0 0 6 0]Ele se parece com Akechi-kun para mim, certo?[n][w][e]
 [s][vp 8 0 0 0 6 0]Devemos pedir a ele um autógrafo?[n]Talvez algo[n]para se gabar...[n][f 1 3 65535][w][e]
 
@@ -47,10 +47,10 @@
 [msg MSG_013_0_0 [Akechi]]
 [s][bup 0 9 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Haha, não acho que seja uma boa[n]ideia. Tenho uma imagem pública[n]para salvaguardar.[n][f 1 3 65535][w][e]
 
-[msg MSG_014_0_0 [Passante]]
+[msg MSG_014_0_0 [Transeunte]]
 [s][vp 8 0 0 0 15 0]Huh? Existe alguém importante?[n][f 1 3 65535][w][e]
 
-[msg MSG_015_0_0 [Donna pettegola]]
+[msg MSG_015_0_0 [Mulher fofoqueira]]
 [s][vp 8 0 0 0 16 0]Quem é?[n]*gulp* Ele é uma celebridade!?![n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Akechi]]
@@ -83,20 +83,20 @@
 [msg MSG_023_5_0 [Akechi]]
 [s][bup 0 9 460 65535 0][vp 8 0 0 0 65535 0]......[n][f 1 3 65535][w][e]
 
-[msg MSG_024_0_0 [Donna modaiola]]
+[msg MSG_024_0_0 [Mulher elegante]]
 [s][vp 8 0 0 0 6 0]Ah, ele voltou. Desta vez,[n]vou pegar o autógrafo dele...[n][f 1 3 65535][w][e]
 
-[msg MSG_025_0_0 [Donna smemorata]]
+[msg MSG_025_0_0 [Mulher esquecida]]
 [s][vp 8 0 0 0 5 0]Ei, você tem certeza que é Akechi-kun?[n][f 1 3 65535][w][e]
 
-[msg MSG_026_0_0 [Donna modaiola]]
+[msg MSG_026_0_0 [Mulher elegante]]
 [s][vp 8 0 0 0 6 0]Olha... Agora que vi de perto, surgiu a dúvida...[n][f 1 3 65535][w][e]
 
-[msg MSG_027_0_0 [Donna smemorata]]
+[msg MSG_027_0_0 [Mulher esquecida]]
 [s][vp 8 0 0 0 5 0]Isso não é apenas imaginação?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 5 0]Não me lembro exatamente da transmissão,[n]mas tenho certeza que[n]não foi assim.[n][f 1 3 65535][w][e]
 
-[msg MSG_028_0_0 [Donna modaiola]]
+[msg MSG_028_0_0 [Mulher elegante]]
 [s][vp 8 0 0 0 6 0]Ufa! Se fosse realmente ele,[n]eu poderia ter me gabado[n]de tê-lo conhecido.[n][f 1 3 65535][w][e]
 
 [msg MSG_029_0_0 [Akechi]]

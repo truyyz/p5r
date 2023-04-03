@@ -30,14 +30,14 @@
 [msg MSG_007_0_0 [Kawakami]]
 [s][bup 0 109 500 65535 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Com licença... Por acaso você ainda tem[n]bolos de Natal?[n][f 1 3 65535][w][e]
 
-[msg MSG_008_0_0 [Dipendente allegra]]
+[msg MSG_008_0_0 [Empregado alegre]]
 [s][vp 8 0 0 14 8 0]Na verdade sim![n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Kawakami]]
 [s][bup 0 109 503 65535 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Sim, eu esperava isso...[n][f 1 3 65535][w][e]
 [s][bup 0 109 504 65535 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Espera, o quê?!?[n][f 1 3 65535][w][e]
 
-[msg MSG_010_0_0 [Dipendente allegra]]
+[msg MSG_010_0_0 [Empregado alegre]]
 [s][vp 8 0 0 17 8 0]Eles cancelaram nosso pedido[n]no último minuto. Este é[n]o último restante![n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Kawakami]]
@@ -47,7 +47,7 @@
 [msg MSG_012_0_0 [Kawakami]]
 [s][bup 0 109 500 65535 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]Gostaríamos de comprá-lo![n][f 1 3 65535][w][e]
 
-[msg MSG_013_0_0 [Dipendente allegra]]
+[msg MSG_013_0_0 [Empregado alegre]]
 [s][vp 8 0 0 21 8 0]É claro! Eu irei um segundo[n]para prepará-lo para você![n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Kawakami]]

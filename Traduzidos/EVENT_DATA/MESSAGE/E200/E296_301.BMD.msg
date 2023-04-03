@@ -33,19 +33,19 @@
 [msg MSG_009_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Então, todos esses episódios se somaram com o[n]tempo, levando a mãe ao suicídio?[n][f 1 3 65535][w][e]
 
-[msg MSG_010_0_0 [Ombra di Futaba]]
+[msg MSG_010_0_0 [Sombra de Futaba]]
 [s][bup 0 8 500 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...eu devo morrer.[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Hã?[n][f 1 3 65535][w][e]
 
-[msg MSG_012_0_0 [Ombra di Futaba]]
+[msg MSG_012_0_0 [Sombra de Futaba]]
 [s][bup 0 8 500 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu a matei... É por isso que[n]estou neste túmulo...[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não diga isso![n][f 1 3 65535][w][e]
 
-[msg MSG_014_0_0 [Ombra di Futaba]]
+[msg MSG_014_0_0 [Sombra de Futaba]]
 [s][bup 0 8 500 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu vou morrer...[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Ann]]

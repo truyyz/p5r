@@ -1,10 +1,10 @@
 [msg TEST_000]
 [s]スクリプトから発行した[n]メッセージです。[n][w][e]
 
-[msg MSG_001_0_0 [Prof. Ushimaru]]
+[msg MSG_001_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ei![n][f 1 3 65535][w][e]
 
-[msg MSG_002_0_0 [Prof. Ushimaru]]
+[msg MSG_002_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vocês! Preste atenção! Ouça,[n]quando alguém fala com você![n][f 1 3 65535][w][e]
 
 [msg MSG_CHALK_START]

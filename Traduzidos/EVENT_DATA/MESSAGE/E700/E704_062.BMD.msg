@@ -83,13 +83,13 @@
 [msg MSG_016_0_0 [Yusuke]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 5 15 300 1][vp 8 2 0 4065 65535 0]Hum? Poderia ser a polícia?!?[n][f 1 3 65535][w][e]
 
-[msg MSG_017_0_0 [Gentiluomo anziano]]
+[msg MSG_017_0_0 [Senhor idoso]]
 [s][vp 8 0 0 0 6 0]Oh. Eu queria saber quem poderia[n]ter entrado...[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Yusuke]]
 [s][bup 0 5 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você é... você é aquele cavalheiro com quem eu[n]falei na exposição?[n][f 1 3 65535][w][e]
 
-[msg MSG_021_0_0 [Gentiluomo anziano]]
+[msg MSG_021_0_0 [Senhor idoso]]
 [s][vp 8 0 0 0 6 0]Está certo. Obrigado por[n]pedir minha opinião[n]então.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 6 0]Mas acima de tudo... o que você está fazendo[n]aqui? Chegando em casa do trabalho, reparei na[n]porta aberta.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 6 0]Ainda lutando[n]com seu bloqueio?[n][f 1 3 65535][w][e]
@@ -97,7 +97,7 @@
 [msg MSG_023_0_0 [Yusuke]]
 [s][bup 0 5 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 4022 65535 0]Como ele sabe?[n][f 1 3 65535][w][e]
 
-[msg MSG_024_0_0 [Gentiluomo anziano]]
+[msg MSG_024_0_0 [Senhor idoso]]
 [s][vp 8 0 0 0 6 0]Ah, mas eu sei muito sobre você,[n]Yusuke-kun.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 6 0]Você fez seu nome inspirando[n]sua arte para a maravilhosa[n]"Sayuri"...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 6 0]Mas a pintura exposta na exposição[n]era… muito diferente. Você começou a[n]experimentar novos estilos?[n][f 1 3 65535][w][e]
@@ -105,18 +105,18 @@
 [msg MSG_025_0_0 [Yusuke]]
 [s][bup 0 5 3 65535 0][vp 1 0 0 0 0 0]......[n][f 1 3 65535][w][e]
 
-[msg MSG_026_0_0 [Gentiluomo anziano]]
+[msg MSG_026_0_0 [Senhor idoso]]
 [s][vp 8 0 0 0 6 0]Posso lhe dar alguns conselhos,[n]se quiser.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 6 0]Materiais, temas etc.[n]Agora parece que alguém[n]precisa de ajuda.[n][f 1 3 65535][w][e]
 
 [msg MSG_027_0_0 [Yusuke]]
 [s][bup 0 5 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu...[n][f 1 3 65535][w][e]
 
-[msg MSG_028_0_0 [Gentiluomo anziano]]
+[msg MSG_028_0_0 [Senhor idoso]]
 [s][vp 8 0 0 0 6 0]Você fez a maioria[n]das suas pinturas quando morou[n]nesta residência, certo?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 6 0]Provavelmente é o fato de você não ter mais[n]um patrono.[n][f 1 3 65535][w][e]
 
-[msg MSG_029_0_0 [Gentiluomo anziano]]
+[msg MSG_029_0_0 [Senhor idoso]]
 [s][vp 8 0 0 0 6 0]Aqui, pegue meu cartão[n]negócio.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 6 0]Investir em jovens artistas promissores como[n]você, Yusuke-kun, é o meu trabalho.[n][f 1 3 65535][w][e]
 

@@ -46,13 +46,13 @@
 [msg MSG_015_0_0 [Morgana]]
 [s][vp 6 0 0 15 26 0]Uau, impressionante![n][f 1 2 65][e]
 
-[msg MSG_016_0_0 [Ombra di Madarame]]
+[msg MSG_016_0_0 [Sombra de Madarame]]
 [s][vp 1 0 0 16 0 0]Umpf... Quem você pensa que é!?![n][f 1 2 76][e]
 
-[msg MSG_017_0_0 [Ombra di Madarame]]
+[msg MSG_017_0_0 [Sombra de Madarame]]
 [s][vp 1 0 0 17 0 0]A penalidade por sua insolência será a morte![n][f 1 2 103][e]
 
-[msg MSG_018_0_0 [Ombra di Madarame]]
+[msg MSG_018_0_0 [Sombra de Madarame]]
 [s][vp 1 0 0 18 0 0]Cadê meus guardas!?! Mate todos eles![n][f 1 2 70][e]
 
 [msg MSG_019_0_0 [Yusuke]]

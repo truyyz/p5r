@@ -9,19 +9,19 @@
 [s][bup 0 106 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Há também um restaurante de curry[n]ao virar da esquina. Eles fazem[n]um caril katsu de sonho.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu sempre como antes de[n]cada reunião importante...[n]como um bom presságio.[n][f 1 3 65535][w][e]
 
-[msg MSG_006_0_0 [Ragazza dagli occhi a mandorla]]
+[msg MSG_006_0_0 [Menina de olhos amendoados]]
 [s][vp 8 0 0 0 65535 0]Hifumi...[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Hifumi]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 106 7 300 1][vp 8 2 0 18001 65535 0]...Olá. Espero que a reunião de hoje[n]tenha corrido bem...[n][f 1 3 65535][w][e]
 
-[msg MSG_008_0_0 [Ragazza dagli occhi a mandorla]]
+[msg MSG_008_0_0 [Menina de olhos amendoados]]
 [s][vp 8 0 0 0 65535 0]Do que você está falando?[n]Hoje é nosso dia de folga.[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Hifumi]]
 [s][bup 0 106 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Me desculpe. Esqueci[n]que não havia reuniões[n]agendadas para hoje.[n][f 1 3 65535][w][e]
 
-[msg MSG_012_0_0 [Giocatrice di shogi]]
+[msg MSG_012_0_0 [Jogador de shogi]]
 [s][vp 8 0 0 0 65535 0]Você vai às compras com seu namorado?[n]Umpf, fico feliz por você.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Nada surpreendente, no entanto.[n]VOCÊ É um jogador famoso...[n]Bem, não estou me incomodando. Olá...[n][f 1 3 65535][w][e]
 

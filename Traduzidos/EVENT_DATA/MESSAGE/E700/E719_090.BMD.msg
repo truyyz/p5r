@@ -1,26 +1,26 @@
-[msg MSG_000_0_0 [Membro della Dieta Matsushita]]
+[msg MSG_000_0_0 [Membro da Dieta Matsushita]]
 [s][vp 8 0 0 0 65535 0]O cenário está montado.[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Yoshida]]
 [s][bup 0 112 0 0 0][f 4 10 65535 0 0][vp 8 2 0 20030 65535 0]Obrigada. Eu realmente aprecio isso,[n]mas...[n][f 1 3 65535][w][e]
 
-[msg MSG_002_0_0 [Membro della Dieta Matsushita]]
+[msg MSG_002_0_0 [Membro da Dieta Matsushita]]
 [s][vp 8 0 0 0 65535 0]Eu sei isso. Você não vai ser meu braço direito,[n]vai? Não se preocupe, não vou pregar peças em[n]você.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Sinta-se à vontade para falar sobre as[n]falsas alegações. Eu lidarei com[n]quaisquer consequências.[n][f 1 3 65535][w][e]
 
-[msg MSG_003_0_0 [Membro della Dieta Matsushita]]
+[msg MSG_003_0_0 [Membro da Dieta Matsushita]]
 [s][vp 8 0 0 0 65535 0]Eu vi o sobrinho de Kuramoto por aqui. Ele ficará[n]especialmente interessado na palestra de hoje.[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Yoshida]]
 [s][bup 0 112 0 0 0][f 4 10 65535 0 0][vp 8 2 0 20064 65535 0]Não falo com ele desde a última reunião.[n][f 1 3 65535][w][e]
 
-[msg MSG_005_0_0 [Membro della Dieta Matsushita]]
+[msg MSG_005_0_0 [Membro da Dieta Matsushita]]
 [s][vp 8 0 0 0 65535 0]Este discurso deve[n]servir como sua resposta.[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Voz masculina]]
 [s][vp 8 0 0 0 65535 0]Achei que nenhum[n]partido apoiaria[n]"Tora covarde".[n][f 1 3 65535][w][e]
 
-[msg MSG_007_0_0 [Voce di un altro uomo]]
+[msg MSG_007_0_0 [Voz de outro homem]]
 [s][vp 8 0 0 0 65535 0]Ele vai falar sobre os Phantom Thieves,[n]certo?[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Voz masculina]]
@@ -46,7 +46,7 @@
 [msg MSG_014_0_0 [Yoshida]]
 [s][bup 0 112 0 0 0][f 4 10 65535 0 0][vp 8 2 0 20088 65535 0]Tenho certeza de que todos vocês sabem sobre os[n]Phantom Thieves e seu suposto[n]link para incidentes recentes.[n][f 1 3 65535][w][e]
 
-[msg MSG_015_0_0 [Membro della Dieta Matsushita]]
+[msg MSG_015_0_0 [Membro da Dieta Matsushita]]
 [s][vp 8 0 0 0 65535 0]O que você está fazendo, Toranosuke...?[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Yoshida]]
@@ -55,7 +55,7 @@
 [msg MSG_017_0_0 [Yoshida]]
 [s][bup 0 112 0 0 0][f 4 10 65535 0 0][vp 8 2 0 20088 65535 0]A razão pela qual eles criam tanto[n]um burburinho é que eles estão resolvendo[n]os problemas do mundo.[n][f 1 3 65535][w][e]
 
-[msg MSG_018_0_0 [Membro della Dieta Matsushita]]
+[msg MSG_018_0_0 [Membro da Dieta Matsushita]]
 [s][vp 8 0 0 0 65535 0]O que você está fazendo, Toranosuke...?[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Yoshida]]
@@ -89,14 +89,14 @@
 [msg MSG_025_0_0 [Yoshida]]
 [s][bup 0 112 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Obrigado pela atenção.[n][f 1 3 65535][w][e]
 
-[msg MSG_026_0_0 [Membro della Dieta Matsushita]]
+[msg MSG_026_0_0 [Membro da Dieta Matsushita]]
 [s][vp 8 0 0 0 65535 0]Eu preparo o palco para nada.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Então você não vai[n]acusar o velho Kuramoto?[n][f 1 3 65535][w][e]
 
 [msg MSG_027_0_0 [Yoshida]]
 [s][bup 0 112 0 0 0][f 4 10 65535 0 0][vp 8 2 0 20023 65535 0]Exatamente.[n][f 1 3 65535][w][e]
 
-[msg MSG_028_0_0 [Membro della Dieta Matsushita]]
+[msg MSG_028_0_0 [Membro da Dieta Matsushita]]
 [s][vp 8 0 0 0 65535 0]Cristo... um discurso sincero,[n]para alguém da sua idade.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Todo mundo vai estar rindo de você,[n]enquanto falamos. Duvido que suas[n]palavras tenham pegado.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]...Talvez eu seja o único nesta[n]cidade que ficou impressionado...[n][f 1 3 65535][w][e]
@@ -104,7 +104,7 @@
 [msg MSG_029_0_0 [Yoshida]]
 [s][bup 0 112 4 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Matsushita...[n][f 1 3 65535][w][e]
 
-[msg MSG_030_0_0 [Membro della Dieta Matsushita]]
+[msg MSG_030_0_0 [Membro da Dieta Matsushita]]
 [s][vp 8 0 0 0 65535 0]Prossiga como preferir com sua[n]aplicação. Farei com que[n]o partido apoie você.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Dentro das minhas possibilidades,[n]claro.[n]...Até mais.[n][f 1 3 65535][w][e]
 

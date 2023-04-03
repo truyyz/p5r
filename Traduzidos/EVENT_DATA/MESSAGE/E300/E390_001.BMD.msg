@@ -417,13 +417,13 @@
 [msg MSG_130_0_0 [Sae]]
 [s][bup 0 105 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 276 65535 0]O verdadeiro culpado!?![n][f 1 3 65535][w][e]
 
-[msg MSG_131_0_0 [voz de jovem]]
+[msg MSG_131_0_0 [Voz de jovem]]
 [s][vp 8 0 0 321 65535 0]Poderíamos dizer que ele roubou a arma[n]do guarda e cometeu suicídio[n]durante seu cativeiro... o que você acha?[n][f 1 3 65535][w][e]
 
-[msg MSG_133_0_0 [voz de jovem]]
+[msg MSG_133_0_0 [Voz de jovem]]
 [s][vp 8 0 0 322 65535 0]O interrogatório de[n]segurança pública será o primeiro dia... e[n]nessa sala terei um jogo fácil.[n][f 1 3 65535][w][e]
 
-[msg MSG_134_0_0 [voz de jovem]]
+[msg MSG_134_0_0 [Voz de jovem]]
 [s][vp 8 0 0 323 65535 0]E assim, o criminoso perigoso[n]responsável pelas prisões mentais[n]acabará com sua vida.[n][f 1 3 65535][w][e]
 
 [msg MSG_135_0_0 [Sae]]

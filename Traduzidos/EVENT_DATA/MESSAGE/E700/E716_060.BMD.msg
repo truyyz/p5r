@@ -22,39 +22,39 @@
 [msg MSG_002_0_0 [Voz desconhecida]]
 [s][vp 8 0 0 0 6 0]Ei![n][f 1 3 65535][w][e]
 
-[msg MSG_003_0_0 [Ragazzo sprezzante]]
+[msg MSG_003_0_0 [Menino desdenhoso]]
 [s][vp 8 0 0 0 65535 0]Devolva-lhe o dinheiro.[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Shinya]]
 [s][bup 0 110 2 0 0][f 4 10 65535 0 0][vp 8 2 0 17063 65535 0]Mas o que...? Ignore-os.[n][f 1 3 65535][w][e]
 
-[msg MSG_009_0_0 [Ragazzo sprezzante]]
+[msg MSG_009_0_0 [Menino desdenhoso]]
 [s][vp 8 0 0 0 65535 0]Oda![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Você pegou o[n]dinheiro do almoço dele, não foi?[n][f 1 3 65535][w][e]
 
-[msg MSG_010_0_0 [Ragazzo sprezzante]]
+[msg MSG_010_0_0 [Menino desdenhoso]]
 [s][vp 8 0 0 0 65535 0]Ele desafiou você,[n]ele não o fez?[n][f 1 3 65535][w][e]
 
-[msg MSG_011_0_0 [Ragazzino tranquillo]]
+[msg MSG_011_0_0 [Menino quieto]]
 [s][vp 8 0 0 0 65535 0]...Sim.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]E quando eu perdi... Ele[n]me disse que eu devia dinheiro a ele.[n][f 1 3 65535][w][e]
 
-[msg MSG_013_0_0 [Ragazzo sprezzante]]
+[msg MSG_013_0_0 [Menino desdenhoso]]
 [s][vp 8 0 0 0 65535 0]Quem você pensa que é!?![n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Shinya]]
 [s][bup 0 110 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...O Rei.[n][f 1 3 65535][w][e]
 
-[msg MSG_015_0_0 [Ragazzo sprezzante]]
+[msg MSG_015_0_0 [Menino desdenhoso]]
 [s][vp 8 0 0 0 65535 0]Hã?[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Shinya]]
 [s][bup 0 110 2 0 0][f 4 10 65535 0 0][vp 8 2 0 17037 65535 0]Eu não os peguei... Eu os venci.[n]São os fundos para minha guerra,[n]para me tornar mais forte.[n][f 1 3 65535][w][e]
 
-[msg MSG_017_0_0 [Ragazzo riservato]]
+[msg MSG_017_0_0 [Menino reservado]]
 [s][vp 8 0 0 0 7 0]Do que diabos você está falando?[n]Você é louco, igual[n]como sua mãe.[n][f 1 3 65535][w][e]
 
-[msg MSG_018_0_0 [Ragazzo riservato]]
+[msg MSG_018_0_0 [Menino reservado]]
 [s][vp 8 0 0 0 7 0]Ouvi dizer que ela também[n]estava agindo de forma estranha[n]no restaurante outro dia.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 7 0]Um garçom a pegou saindo[n]sair sem pagar e ela[n]disse que havia esquecido.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 7 0]Ele até gritou com o[n]gerente, dizendo-lhe para treinar melhor[n]seus funcionários.[n][f 1 3 65535][w][e]
@@ -62,7 +62,7 @@
 [msg MSG_019_0_0 [Shinya]]
 [s][bup 0 110 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]C-Cala a boca...![n][f 1 3 65535][w][e]
 
-[msg MSG_020_0_0 [Ragazzo sprezzante]]
+[msg MSG_020_0_0 [Menino desdenhoso]]
 [s][vp 8 0 0 0 65535 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 110 3 301 65535]Minha mãe diz que o seu é[n]um valentão![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]E você é igualzinho a ela![n][f 1 3 65535][w][e]
 
@@ -70,19 +70,19 @@
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 110 3 301 1][vp 8 2 0 17046 65535 0]Cale-se! Cale-se! Cale-se! Eu sou o[n]mais forte! O melhor! O Rei![n][f 1 3 65535][w][e]
 [s][bup 0 110 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Se quiser seu dinheiro de volta,[n]vai ter que me vencer![n][f 1 3 65535][w][e]
 
-[msg MSG_022_0_0 [Ragazzo sprezzante]]
+[msg MSG_022_0_0 [Menino desdenhoso]]
 [s][vp 8 0 0 0 65535 0]Ele fala besteira...[n][f 1 3 65535][w][e]
 
-[msg MSG_024_0_0 [Ragazzo sprezzante]]
+[msg MSG_024_0_0 [Menino desdenhoso]]
 [s][vp 8 0 0 0 65535 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 110 7 301 65535]De alguma forma, não sei[n]como, mas você vai pagar![n][f 1 3 65535][w][e]
 
-[msg MSG_025_0_0 [Ragazzino tranquillo]]
+[msg MSG_025_0_0 [Menino quieto]]
 [s][vp 8 0 0 0 65535 0]Você só é capaz de jogar[n]videogames...[n][f 1 3 65535][w][e]
 
 [msg MSG_026_0_0 [Shinya]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 110 7 301 1][vp 8 2 0 17055 65535 0]Hã?[n][f 1 3 65535][w][e]
 
-[msg MSG_027_0_0 [Ragazzino tranquillo]]
+[msg MSG_027_0_0 [Menino quieto]]
 [s][vp 8 0 0 0 65535 0]Você é como aqueles vilões[n]dos filmes![n][f 1 3 65535][w][e]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 110 5 300 65535][vp 8 0 0 0 65535 0]Espero que os Phantom Thieves[n]consertem você![n][f 1 3 65535][w][e]
 

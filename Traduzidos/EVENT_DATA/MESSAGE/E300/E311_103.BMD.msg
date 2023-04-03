@@ -1,4 +1,4 @@
-[msg MSG_000_0_0 [Navigatore del Metaverso]]
+[msg MSG_000_0_0 [Navegador do Metaverso]]
 [s][vp 8 0 0 20 65535 0]Uma nova área foi detectada[n]nas profundezas. Informações atualizadas[n]de orientação.[n][f 1 3 65535][w][e]
 
 [msg MSG_000_5_0 [Morgana]]

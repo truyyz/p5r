@@ -31,19 +31,19 @@
 [msg MSG_009_0_0 [Yusuke]]
 [s][bup 0 5 0 4 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Agora que penso nisso, o que aconteceu com os[n]cidadãos? Conseguimos acordar seus corações?[n][f 1 3 65535][w][e]
 
-[msg MSG_010_0_0 [Donna ben vestita]]
+[msg MSG_010_0_0 [Mulher bem vestida]]
 [s][vp 8 0 0 11 65535 0]Vou me atrasar para meu compromisso...[n][f 1 3 65535][w][e]
 
-[msg MSG_011_0_0 [Ragazzo squattrinato]]
+[msg MSG_011_0_0 [Menino sem dinheiro]]
 [s][vp 8 0 0 12 65535 0]Tem que passar o natal sozinho né?[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Ann]]
 [s][bup 0 4 3 4 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Não sei.[n][f 1 3 65535][w][e]
 
-[msg MSG_013_0_0 [Uomo di mezza età con completo]]
+[msg MSG_013_0_0 [Homem de meia idade com terno]]
 [s][vp 8 0 0 14 65535 0]Então, o novo ano começará[n]sem um primeiro-ministro?[n]Como este país se sairá?[n][f 1 3 65535][w][e]
 
-[msg MSG_014_0_0 [Ragazzo in giacca e cravatta]]
+[msg MSG_014_0_0 [Cara de terno e gravata]]
 [s][vp 8 0 0 15 65535 0]Eh, com certeza não será Shido.[n]Há muitos[n]rumores ruins sobre ele, sabia?[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Haru]]

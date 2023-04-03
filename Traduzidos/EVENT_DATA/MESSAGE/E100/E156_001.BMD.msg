@@ -49,16 +49,16 @@
 [msg MSG_015_0_0 [Morgana]]
 [s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Não pode ser...[n][f 1 3 65535][w][e]
 
-[msg MSG_018_0_0 [Voz do guarda]]
+[msg MSG_018_0_0 [Voz, olhe]]
 [s][vp 8 0 0 21 65535 0]Mas por que a princesa[n]encontrada em um lugar tão estranho?[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Ryuji]]
 [s][bup 0 2 104 0 0][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Princesa...?[n][f 1 3 65535][w][e]
 
-[msg MSG_020_0_0 [Voz do guarda]]
+[msg MSG_020_0_0 [Voz, olhe]]
 [s][vp 8 0 0 23 65535 0]Eu poderia jurar que estávamos[n]rastreando[n]um intruso...[n][f 1 3 65535][w][e]
 
-[msg MSG_021_0_0 [Voce dell'altra guardia]]
+[msg MSG_021_0_0 [Voz do outro guarda]]
 [s][vp 8 0 0 24 65535 0]Não importa agora.[n]Temos que levá-la de volta ao Rei[n]Kamoshida![n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Ryuji]]

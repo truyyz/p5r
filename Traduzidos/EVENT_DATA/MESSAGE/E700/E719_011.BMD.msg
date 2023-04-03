@@ -3,10 +3,10 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Eles não têm trabalho,[n]segurança, poupança...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]A próxima geração deve[n]nos levar para o futuro, mas eles ainda não[n]têm um plano para chegar lá.[n][f 1 3 65535][w][e]
 
-[msg MSG_001_0_0 [Voce di uomo di mezza età]]
+[msg MSG_001_0_0 [Voz de homem de meia idade]]
 [s][vp 8 0 0 4 7 0]...Cuidado por onde anda, seu pedaço[n]de merda![n][f 1 3 65535][w][e]
 
-[msg MSG_002_0_0 [voz de jovem]]
+[msg MSG_002_0_0 [Voz de jovem]]
 [s][vp 8 0 0 5 6 0]Foi ela que veio pra cima de mim,[n]cabra velha![n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Yoshida]]
@@ -32,29 +32,29 @@
 [msg MSG_009_0_0 [Yoshida]]
 [s][bup 0 112 2 0 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Qual é o sentido de discutir sobre[n]um assunto tão trivial?[n][f 1 3 65535][w][e]
 
-[msg MSG_010_0_0 [Signore di mezza età]]
+[msg MSG_010_0_0 [Cavalheiro de meia idade]]
 [s][vp 8 0 0 13 7 0]Não é da sua conta![n][f 1 3 65535][w][e]
 
-[msg MSG_011_0_0 [Ragazzo]]
+[msg MSG_011_0_0 [Rapaz]]
 [s][vp 8 0 0 14 6 0]Sim, realmente. Cale a boca![n][f 1 3 65535][w][e]
 
-[msg MSG_013_0_0 [Signore di mezza età]]
+[msg MSG_013_0_0 [Cavalheiro de meia idade]]
 [s][vp 8 0 0 16 7 0]Quem ele pensa que é...?[n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Yoshida]]
 [s][bup 0 112 0 0 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]...Agora, se você não se importa,[n]eu tenho um discurso para continuar.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Juntos, podemos criar um[n]futuro brilhante para a próxima[n]geração.[n][f 1 3 65535][w][e]
 
-[msg MSG_015_0_0 [Uomo in abiti sgargianti]]
+[msg MSG_015_0_0 [Homem em roupas extravagantes]]
 [s][vp 8 0 0 20 65535 0]Ugh, que moralista...[n]Isso só me irrita.[n][f 1 3 65535][w][e]
 
-[msg MSG_016_0_0 [Uomo in abiti sgargianti]]
+[msg MSG_016_0_0 [Homem em roupas extravagantes]]
 [s][vp 8 0 0 21 65535 0]Estamos fartos de sua arrogância,[n]"Tora não serve para nada"![n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Yoshida]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 112 7 300 1][vp 8 0 0 22 65535 0]O quê...!?![n][f 1 3 65535][w][e]
 
-[msg MSG_018_0_0 [Uomo in abiti sgargianti]]
+[msg MSG_018_0_0 [Homem em roupas extravagantes]]
 [s][vp 8 0 0 23 65535 0]Como se alguém[n]realmente votasse nela![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 24 65535 0]Você já está planejando seu próximo roubo de[n]fundos? Ou talvez como insultar outro eleitor?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 25 65535 0]Meio criminoso![n][f 1 3 65535][w][e]

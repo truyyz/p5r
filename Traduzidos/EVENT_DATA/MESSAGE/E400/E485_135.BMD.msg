@@ -14,10 +14,10 @@
 [msg MSG_003_0_0 [Kasumi]]
 [s][bup 0 10 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Obrigado.[n][f 1 3 65535][w][e]
 
-[msg MSG_004_0_0 [Studente sbalordito]]
+[msg MSG_004_0_0 [Aluno atordoado]]
 [s][f 4 10 65535 0 0][vp 8 0 0 4 5 0]Uau! Aquela dança era espaço...[n][f 1 3 65535][w][e]
 
-[msg MSG_005_0_0 [Studentessa sbalordita]]
+[msg MSG_005_0_0 [Aluno atordoado]]
 [s][f 4 10 65535 0 0][vp 8 0 0 5 9 0]Verdadeiro? Chocante.[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Kasumi]]

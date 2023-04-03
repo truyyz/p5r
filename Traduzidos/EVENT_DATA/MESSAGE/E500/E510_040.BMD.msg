@@ -134,11 +134,11 @@
 [msg MSG_040_0_0 [Futaba]]
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 50 65535 0]Incrível! Um final feliz[n]no mundo real![n][f 1 3 65535][w][e]
 
-[msg MSG_041_0_0 [Pubblicità]]
+[msg MSG_041_0_0 [Anúncio]]
 [s][vp 8 0 0 51 65535 0]Seguido por um final de[n]ano especial[n]de duas horas em "Tokyo Vice"![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 52 65535 0]Uma história cativante[n]com os rostos[n]mais famosos deste canal![n][f 1 3 65535][w][e]
 
-[msg MSG_042_0_0 [Attore affascinante]]
+[msg MSG_042_0_0 [Ator fascinante]]
 [s][vp 8 0 0 53 65535 0]Eu nunca vou desistir...![n][f 1 3 65535][w][e]
 
 [msg MSG_043_0_0 [Futaba]]

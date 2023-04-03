@@ -61,22 +61,22 @@
 [msg MSG_018_0_0 [Ann]]
 [s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]Viagem escolar hein?[n]Parece que não podemos[n]agir como Ladrões...[n][f 1 3 65535][w][e]
 
-[msg MSG_019_0_0 [Ragazza perspicace]]
+[msg MSG_019_0_0 [Garota perspicaz]]
 [s][vp 8 0 0 21 25 0]Takamaki-san.[n][f 1 3 65535][w][e]
 
-[msg MSG_020_0_0 [Ragazza perspicace]]
+[msg MSG_020_0_0 [Garota perspicaz]]
 [s][vp 8 0 0 22 25 0]Você fala inglês, certo?[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Sim, bastante.[n][f 1 3 65535][w][e]
 
-[msg MSG_022_0_0 [Ragazza solidale]]
+[msg MSG_022_0_0 [Garota solidária]]
 [s][vp 8 0 0 24 17 0]Que legal![n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Ann]]
 [s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]Eu morava lá,[n]não é nada de especial.[n][f 1 3 65535][w][e]
 
-[msg MSG_024_0_0 [Ragazza perspicace]]
+[msg MSG_024_0_0 [Garota perspicaz]]
 [s][vp 8 0 0 26 25 0]Se houver algo em inglês[n]que não entendemos, podemos[n]perguntar, certo?[n][f 1 3 65535][w][e]
 
 [msg MSG_025_0_0 [Ann]]

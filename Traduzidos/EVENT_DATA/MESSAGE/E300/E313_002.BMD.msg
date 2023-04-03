@@ -32,7 +32,7 @@
 [msg MSG_013_0_0 [Locutor]]
 [s][vp 8 0 0 13 65535 0]O primeiro-ministro realizou[n]uma conferência de imprensa em[n]sua residência.[n][f 1 3 65535][w][e]
 
-[msg MSG_014_0_0 [Primo ministro]]
+[msg MSG_014_0_0 [Primeiro ministro]]
 [s][vp 8 0 0 14 65535 0]O governo está ciente dos rumores[n]sobre um grupo chamado[n]Phantom Thieves.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 15 65535 0]A polícia está investigando[n]os fatos e esperamos poder[n]reagir em breve com uma resposta adequada...[n][f 1 3 65535][w][e]
 

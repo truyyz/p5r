@@ -1,23 +1,23 @@
 [msg TEST_000 [Morgana]]
 [s]スクリプトから発行した[n]メッセージです。[n][f 1 3 65535][w][e]
 
-[msg MSG_002_0_0 [Studentessa dai capelli neri]]
+[msg MSG_002_0_0 [Estudante de cabelo preto]]
 [s][vp 8 0 0 0 65535 0]Ele é muito bom![n][f 1 3 65535][w][e]
 
-[msg MSG_003_0_0 [Studentessa dai capelli castani]]
+[msg MSG_003_0_0 [Estudante de cabelo castanho]]
 [s][vp 8 0 0 0 65535 0]Eu não esperava.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Bem, talvez não seja tão ruim...[n][f 1 3 65535][w][e]
 
-[msg MSG_004_0_0 [Studentessa dai capelli neri]]
+[msg MSG_004_0_0 [Estudante de cabelo preto]]
 [s][vp 8 0 0 0 65535 0]Só não dá, né?[n][f 1 3 65535][w][e]
 
-[msg MSG_005_0_0 [Studentessa dai capelli castani]]
+[msg MSG_005_0_0 [Estudante de cabelo castanho]]
 [s][vp 8 0 0 0 65535 0]É uma visão constrangedora...[n][f 1 3 65535][w][e]
 
-[msg MSG_006_0_0 [Studentessa dai capelli neri]]
+[msg MSG_006_0_0 [Estudante de cabelo preto]]
 [s][vp 8 0 0 0 65535 0]Ela nem era uma das[n]difíceis, era? Ele deveria ser[n]mais cuidadoso na aula.[n][f 1 3 65535][w][e]
 
-[msg MSG_007_0_0 [Studentessa dai capelli castani]]
+[msg MSG_007_0_0 [Estudante de cabelo castanho]]
 [s][vp 8 0 0 0 65535 0]Sério. Mas isso não é problema meu...[n][f 1 3 65535][w][e]
 
 [msg PARAM_UP [Morgana]]

@@ -14,13 +14,13 @@
 [s][bup 0 110 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Provavelmente é porque[n]eles acham que sou fraco.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Se ao menos eu fosse tão forte quanto[n]os Phantom Thieves...[n][f 1 3 65535][w][e]
 
-[msg MSG_005_0_0 [Ragazzo dall'aria familiare]]
+[msg MSG_005_0_0 [Garoto familiar]]
 [s][vp 8 0 0 0 5 0]Ei menino. Você pode ser pequeno,[n]mas brinca de deus.[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Shinya]]
 [s][bup 0 110 2 0 0][f 4 10 65535 0 0][vp 8 2 0 17064 65535 0]Por que ser grande é melhor?[n][f 1 3 65535][w][e]
 
-[msg MSG_007_0_0 [Ragazzo dall'aria familiare]]
+[msg MSG_007_0_0 [Garoto familiar]]
 [s][vp 8 0 0 0 5 0]Haha, que pena.[n]Não foi isso que eu quis dizer.[n][f 1 3 65535][w][e]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 110 7 300 65535][vp 8 0 0 0 5 0]Eu apenas pensei que poderíamos nos tornar[n]amigos, já que ambos somos[n]jogadores.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 5 0]Meu nome é Takekuma. Eu ganho a vida jogando,[n]mais ou menos. Já ouviu falar de mim?[n][f 1 3 65535][w][e]
@@ -49,16 +49,16 @@
 [msg MSG_013_0_0 [Shinya]]
 [s][bup 0 110 4 0 0][f 4 10 65535 0 0][vp 8 2 0 17047 65535 0]Mas como...?[n][f 1 3 65535][w][e]
 
-[msg MSG_014_0_0 [Spettatore]]
+[msg MSG_014_0_0 [Visualizador]]
 [s][vp 8 0 0 0 65535 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 110 7 300 65535]O Rei os está levando...[n][f 1 3 65535][w][e]
 
-[msg MSG_015_0_0 [Spettatore chiassoso]]
+[msg MSG_015_0_0 [Espectador barulhento]]
 [s][vp 8 0 0 0 65535 0]Esse é Takekuma, não é?[n]Isso é incrível![n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Shinya]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 110 7 300 1][vp 8 2 0 17066 65535 0]...eu perdi!?![n][f 1 3 65535][w][e]
 
-[msg MSG_017_0_0 [Spettatore]]
+[msg MSG_017_0_0 [Visualizador]]
 [s][vp 8 0 0 0 65535 0]O Rei perdeu![n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Shinya]]
@@ -67,10 +67,10 @@
 [msg MSG_019_0_0 [Takekuma]]
 [s][vp 8 0 0 0 65535 0]Como quiser.[n][f 1 3 65535][w][e]
 
-[msg MSG_020_0_0 [Spettatore]]
+[msg MSG_020_0_0 [Visualizador]]
 [s][vp 8 0 0 0 65535 0]Uau. Dez derrotas seguidas.[n][f 1 3 65535][w][e]
 
-[msg MSG_021_0_0 [Spettatore chiassoso]]
+[msg MSG_021_0_0 [Espectador barulhento]]
 [s][vp 8 0 0 0 65535 0]O rei foi massacrado![n]Ah! Engraçado demais![n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Shinya]]

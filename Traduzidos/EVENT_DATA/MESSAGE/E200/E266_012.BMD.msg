@@ -5,7 +5,7 @@
 [msg MSG_001_0_0 [Diretor da UIS]]
 [s][bup 0 213 2 0 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]O incidente ocorreu[n]na escola que você dirige...[n][f 1 3 65535][w][e]
 
-[msg MSG_003_0_0 [Procuratore]]
+[msg MSG_003_0_0 [Promotor]]
 [s][vp 8 0 0 5 65535 0]Sinto muito, senhor.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 6 65535 0]Devemos discutir imediatamente[n]esta organização criminosa baseada em Shibuya[n]dedicada a phishing…[n][f 1 3 65535][w][e]
 

@@ -68,13 +68,13 @@
 [msg MSG_011_0_0 [Ryuji]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 12 301 1][vp 8 2 0 7167 65535 0]Shhh![n][f 1 3 65535][w][e]
 
-[msg MSG_012_0_0 [Dipendente dell'impresa Victoria]]
+[msg MSG_012_0_0 [Empregado da empresa vitoria]]
 [s][vp 8 0 0 0 65535 0]Então ele está interessado em[n]nossos serviços, certo?[n][f 1 3 65535][w][e]
 
 [msg MSG_012_3_0 [Mishima]]
 [s][bup 0 111 4 3 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]S-Serviços...![n][f 1 3 65535][w][e]
 
-[msg MSG_012_5_0 [Dipendente dell'impresa Victoria]]
+[msg MSG_012_5_0 [Empregado da empresa vitoria]]
 [s][vp 8 0 0 0 65535 0]Você gostaria de solicitar uma[n]menina em particular?[n][f 1 3 65535][w][e]
 
 [msg MSG_012_7_0 [Ryuji]]
@@ -84,11 +84,11 @@
 [s]Eu não tenho preferências.[e]
 [s]Envie qualquer.[e]
 
-[msg MSG_014_0_0 [Dipendente dell'impresa Victoria]]
+[msg MSG_014_0_0 [Empregado da empresa vitoria]]
 [s][vp 8 0 0 0 65535 0]Muito bom![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Vejamos...[n][f 1 3 65535][w][e]
 
-[msg MSG_015_0_0 [Dipendente dell'impresa Victoria]]
+[msg MSG_015_0_0 [Empregado da empresa vitoria]]
 [s][vp 8 0 0 0 65535 0]Podemos enviar-lhe uma empregada[n]em... 20 minutos.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Posso pedir seu endereço?[n][f 1 3 65535][w][e]
 
@@ -135,14 +135,14 @@
 [msg MSG_027_0_0 [Mishima]]
 [s][bup 0 111 2 3 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Se o seu número de telefone[n]apareceu no[n]display deles, estamos ferrados...[n][f 1 3 65535][w][e]
 
-[msg MSG_028_0_0 [Voce femminile]]
+[msg MSG_028_0_0 [Voz feminina]]
 [s][vp 8 0 0 0 65535 0]Boa noite... Sou do[n]serviço doméstico.[n][f 1 3 65535][w][e]
 
 [msg MSG_029_0_0 [Mishima]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 111 7 300 1][vp 8 2 0 19040 65535 0]O que?!? Já?!?[n]É cinco minutos adiantado![n][f 1 3 65535][w][e]
 [s][bup 0 111 4 3 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O que estamos fazendo? Não estou[n]mentalmente pronto![n][f 1 3 65535][w][e]
 
-[msg MSG_030_0_0 [Voce femminile]]
+[msg MSG_030_0_0 [Voz feminina]]
 [s][vp 8 0 0 0 65535 0]Oh, a porta está aberta...?[n]Hum, é permitido...?[n][f 1 3 65535][w][e]
 
 [msg MSG_031_0_0 [Ryuji]]
@@ -210,19 +210,19 @@
 [s][vp 8 0 0 0 65535 0]Uhmmm, para os outros "serviços"[n]você terá que esperar até que esteja[n]maduro o suficiente, Pequeno Mestre. [clr 2][f 1 9 0][clr 27][n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Ooora... eu tenho que ir. [clr 2][f 1 9 0][clr 27][n][f 1 3 65535][w][e]
 
-[msg MSG_043_0_0 [Voce di Ryuji]]
+[msg MSG_043_0_0 [A voz de Ryuji]]
 [s][bup 0 2 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 7043 65535 0]O-O quê?!? Não![n][f 1 3 65535][w][e]
 
-[msg MSG_044_0_0 [Voce di Mishima]]
+[msg MSG_044_0_0 [A voz de Mishima]]
 [s][bup 0 111 4 3 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Cale a boca...![n][f 1 3 65535][w][e]
 
 [msg MSG_045_0_0 [Becky]]
 [s][vp 8 0 0 0 65535 0]T-Tem alguém aí?!?[n][f 1 3 65535][w][e]
 
-[msg MSG_046_0_0 [Voce di Mishima]]
+[msg MSG_046_0_0 [A voz de Mishima]]
 [s][bup 0 111 5 3 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ah, não...![n][f 1 3 65535][w][e]
 
-[msg MSG_047_0_0 [Voce di Ryuji]]
+[msg MSG_047_0_0 [A voz de Ryuji]]
 [s][bup 0 2 11 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Merda! Corra, Mishima![n][f 1 3 65535][w][e]
 
 [msg MSG_048_0_0 [Becky]]

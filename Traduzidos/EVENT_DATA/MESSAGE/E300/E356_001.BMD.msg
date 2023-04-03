@@ -4,7 +4,7 @@
 [msg MSG_001_0_0 [Ryuji]]
 [s][bup 0 2 7 65535 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]*suspiro* Estou realmente fodido dessa vez. Eu[n]não conseguia concentrar...[n][f 1 3 65535][w][e]
 
-[msg MSG_002_0_0 [Voce da fuori]]
+[msg MSG_002_0_0 [Voz de fora]]
 [s][vp 8 0 0 3 65535 0]...reúna as opiniões de todos[n]e aja de acordo...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 4 65535 0]Para que as coisas tomem[n]o rumo certo, eu...[n][f 1 3 65535][w][e]
 

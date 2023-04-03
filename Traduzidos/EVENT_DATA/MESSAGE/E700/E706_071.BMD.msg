@@ -44,22 +44,22 @@
 [msg MSG_011_0_0 [Mika]]
 [s][bup 0 215 503 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eeek! Ann-senpai, pare com isso![n]Você me assusta![n][f 1 3 65535][w][e]
 
-[msg MSG_012_0_0 [Fotografo]]
+[msg MSG_012_0_0 [Eu fotografo]]
 [s][vp 8 0 0 0 65535 0]Mika-chan! Está tudo bem?...[n][f 1 3 65535][w][e]
 
-[msg MSG_013_0_0 [Personale della redazione]]
+[msg MSG_013_0_0 [Equipe editorial]]
 [s][vp 8 0 0 0 10 0]Quando as mulheres discutem...[n]Elas são terríveis...[n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Ann]]
 [s][bup 0 4 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 18 0]Grrr...[n][f 1 3 65535][w][e]
 
-[msg MSG_015_0_0 [Fotografo]]
+[msg MSG_015_0_0 [Eu fotografo]]
 [s][vp 8 0 0 0 65535 0]Por aqui, Mika-chan.[n]Sim, perfeito. Exatamente a expressão[n]que eu estava procurando.[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Mika]]
 [s][bup 0 215 501 65535 0][vp 8 0 0 0 65535 0]Heheheh.[n][f 1 3 65535][w][e]
 
-[msg MSG_017_0_0 [Fotografo]]
+[msg MSG_017_0_0 [Eu fotografo]]
 [s][vp 8 0 0 0 65535 0]Ótimo, ótimo![n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Ann]]
@@ -69,13 +69,13 @@
 [msg MSG_018_5_0 [Ann]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 4 10 300 1][vp 8 2 0 6088 65535 0]Heheheheh! [clr 2][f 1 9 0][clr 27][n][f 1 3 65535][w][e]
 
-[msg MSG_019_0_0 [Fotografo]]
+[msg MSG_019_0_0 [Eu fotografo]]
 [s][vp 8 0 0 0 65535 0]Hm, Ann-chan... você poderia tentar[n]ser um pouco mais... sexy?[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Mika]]
 [s][bup 0 215 501 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 4 3 301 65535]Você quer dizer assim?[n][f 1 3 65535][w][e]
 
-[msg MSG_021_0_0 [Fotografo]]
+[msg MSG_021_0_0 [Eu fotografo]]
 [s][vp 8 0 0 0 65535 0]Oooh, incrível![n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Ann]]
@@ -85,7 +85,7 @@
 [s][bup 0 215 507 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você deveria ter percebido que[n]eu estava mentindo... Obviamente, você[n]é realmente ingênuo.[n][f 1 3 65535][w][e]
 [s][bup 0 215 502 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]De qualquer forma, um amador estúpido como você[n]me irrita. Tente não estragar meu serviço, ok?[n][f 1 3 65535][w][e]
 
-[msg MSG_024_0_0 [Fotografo]]
+[msg MSG_024_0_0 [Eu fotografo]]
 [s][vp 8 0 0 0 65535 0]Oh, você está incrível, Mika-chan![n][f 1 3 65535][w][e]
 
 [msg MSG_025_0_0 [Ann]]

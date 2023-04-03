@@ -34,24 +34,24 @@
 [msg MSG_009_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Acho que depende do fato[n]de ter recuperado minha memória.[n]Agora sei qual é o meu trabalho.[n][f 1 3 65535][w][e]
 
-[msg MSG_012_0_0 [Uomo dai capelli castani]]
+[msg MSG_012_0_0 [Homem de cabelo castanho]]
 [s][vp 8 0 0 20 65535 0]Hã? Ei, você vê algo também...[n]brilhando?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 21 65535 0]Espere, quem são esses caras[n]vestidos de maneira estranha?[n][f 1 3 65535][w][e]
 
-[msg MSG_013_0_0 [Donna con il cappotto]]
+[msg MSG_013_0_0 [Mulher com casaco]]
 [s][vp 8 0 0 22 65535 0]Sinto como se já tivesse visto[n]essas fantasias antes...[n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [(SE)大衆]]
 [s][vp 8 0 0 0 65535 0](ヒソヒソとしたざわめき)[n][f 1 3 65535][w][e]
 
-[msg MSG_015_0_0 [Uomo in abito elegante]]
+[msg MSG_015_0_0 [Homem de terno elegante]]
 [s][vp 8 0 0 23 65535 0]Oh! Eles não são...[n]os Phantom Thieves?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 24 65535 0]Se bem me lembro...[n]devo ter visto a silhueta deles[n]em uma tela gigante...[n][f 1 3 65535][w][e]
 
-[msg MSG_016_0_0 [Donna con il cappotto]]
+[msg MSG_016_0_0 [Mulher com casaco]]
 [s][vp 8 0 0 25 65535 0]Os Ladrões Fantasmas?[n][f 1 3 65535][w][e]
 
-[msg MSG_017_0_0 [Uomo dai capelli castani]]
+[msg MSG_017_0_0 [Homem de cabelo castanho]]
 [s][vp 8 0 0 26 65535 0]Sim, é verdade! Eu tinha[n]esquecido completamente deles![n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [(SE)大衆]]

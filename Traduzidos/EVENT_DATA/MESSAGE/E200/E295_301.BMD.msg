@@ -1,4 +1,4 @@
-[msg MSG_000_0_0 [Reporter]]
+[msg MSG_000_0_0 [Repórter]]
 [s][vp 8 0 0 39 65535 0]21 de agosto não está longe,[n]a data que Medjed estabeleceu[n]para sua suposta purificação.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 2 65535 0]Seus rivais, os Phantom Thieves,[n]parecem[n]ainda não reagiram.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 3 65535 0]Será que Medjed realmente executará[n]seu plano ciberterrorista?[n][f 1 3 65535][w][e]

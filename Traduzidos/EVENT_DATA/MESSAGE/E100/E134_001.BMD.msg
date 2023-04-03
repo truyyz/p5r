@@ -18,13 +18,13 @@
 [msg MSG_006_0_0 [Ryuji]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 3 300 1][vp 8 0 0 6 65535 0]Que diabos!?! É m-muito mais[n]legal do que o seu truque![n][f 1 3 65535][w][e]
 
-[msg MSG_007_0_0 [Voce di un inseguitore]]
+[msg MSG_007_0_0 [Voz de um perseguidor]]
 [s][vp 8 0 0 7 65535 0]Você os encontrou!?![n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Morgana]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 3 12 301 1][vp 8 0 0 8 65535 0]Silêncio![n][f 1 3 65535][w][e]
 
-[msg MSG_009_0_0 [Voce di un altro inseguitore]]
+[msg MSG_009_0_0 [Voz de outro perseguidor]]
 [s][vp 8 0 0 9 65535 0]Não. Vamos olhar para lá![n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Ryuji]]

@@ -77,7 +77,7 @@
 [s][f 4 24 0 6 0 38 5 100][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 53 65535 0]...Piada. Eu não seria capaz[n]de lidar com tal coisa.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 54 65535 0]Sabe, ultimamente tenho me sentido[n]tão sozinho... todas as vezes[n]que não estava com você.[n][f 1 3 65535][w][e]
 
-[msg MSG_021_0_0 [Avviso]]
+[msg MSG_021_0_0 [Eu notifico]]
 [s][vp 8 0 0 55 65535 0]Obrigado por entrar na[n]nossa roda gigante.[n]O passeio terminará em breve.[n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Ann]]

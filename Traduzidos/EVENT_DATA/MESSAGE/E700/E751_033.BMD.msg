@@ -29,13 +29,13 @@
 [msg MSG_007_0_0 [Futaba]]
 [s][bup 0 8 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Hum, desculpe-me?[n]Por acaso você ainda tem[n]bolos de Natal?[n][f 1 3 65535][w][e]
 
-[msg MSG_008_0_0 [Dipendente allegra]]
+[msg MSG_008_0_0 [Empregado alegre]]
 [s][vp 8 0 0 11 8 0]Na verdade sim![n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Futaba]]
 [s][bup 0 8 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Sim, jogo... acabou?[n][f 1 3 65535][w][e]
 
-[msg MSG_010_0_0 [Dipendente allegra]]
+[msg MSG_010_0_0 [Empregado alegre]]
 [s][vp 8 0 0 13 8 0]Eles cancelaram um pedido[n]no último minuto. Este é[n]o último restante![n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Futaba]]
@@ -44,7 +44,7 @@
 [msg MSG_012_0_0 [Futaba]]
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Claro que sim! Nós queremos![n][f 1 3 65535][w][e]
 
-[msg MSG_013_0_0 [Dipendente allegra]]
+[msg MSG_013_0_0 [Empregado alegre]]
 [s][vp 8 0 0 16 8 0]Excelente! Eu irei um segundo[n]para prepará-lo para você![n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Futaba]]

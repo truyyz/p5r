@@ -18,13 +18,13 @@
 [msg MSG_005_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Um palácio da máfia, hein?[n]Está ficando intrigante.[n][f 1 3 65535][w][e]
 
-[msg MSG_006_0_0 [Crossdresser B]]
+[msg MSG_006_0_0 [Crossdresser b]]
 [s][vp 8 0 0 0 65535 0]Oooh, o que te intriga tanto?[n]Estamos curiosos, por que você não nos conta[n]seu segredinho?[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Huh? Oh, eu, aqui...[n][f 1 3 65535][w][e]
 
-[msg MSG_008_0_0 [Crossdresser A]]
+[msg MSG_008_0_0 [Crossdresser um]]
 [s][vp 8 0 0 0 65535 0]Você e seu amigo poderiam[n]vir comer algo[n]conosco, o que você acha?[n][f 1 3 65535][w][e]
 
 [sel SEL_009_0_0 top]
@@ -34,13 +34,13 @@
 [msg MSG_010_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Uma resposta perfeita![n][f 1 3 65535][w][e]
 
-[msg MSG_011_0_0 [Crossdresser B]]
+[msg MSG_011_0_0 [Crossdresser b]]
 [s][vp 8 0 0 0 65535 0]Oh, isso é azar.[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Isso mesmo, isso fica para outra hora.[n]Desculpe...[n][f 1 3 65535][w][e]
 
-[msg MSG_013_0_0 [Crossdresser A]]
+[msg MSG_013_0_0 [Crossdresser um]]
 [s][vp 8 0 0 0 65535 0]Oh, você não vai a lugar nenhum[n]lugar nenhum! Mas sério, olhe para você...[n]Você é um espécime perfeito![n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Ryuji]]

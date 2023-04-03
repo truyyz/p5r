@@ -1,4 +1,4 @@
-[msg MSG_000_0_0 [Altoparlanti della scuola]]
+[msg MSG_000_0_0 [Palestrantes escolares]]
 [s][vp 8 0 0 1 65535 0]O pós-festival[n]está prestes a começar no ginásio. Vocês[n]todos, por favor, juntem-se a nós.[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Morgana]]

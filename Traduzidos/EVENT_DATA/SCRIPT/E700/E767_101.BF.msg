@@ -293,17 +293,17 @@
 [msg MSG_HumanParam_Dokyo [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 1168 65535 0][f 4 22 65535 1 41]Jogando sinuca, acho que você[n]aprendeu a fazer[n]escolhas corajosas em momentos cruciais![n][f 1 3 65535][w][e]
 
-[msg MSG_TenchoInfo_1st_000 [Uomo in abiti casual]]
+[msg MSG_TenchoInfo_1st_000 [Homem em roupas casuais]]
 [s][vp 8 2 0 0 65535 0]Ei. Desculpe interromper sua diversão.[n][f 1 3 65535][w][e]
 
-[msg MSG_TenchoInfo_1st_001 [Uomo in abiti casual]]
+[msg MSG_TenchoInfo_1st_001 [Homem em roupas casuais]]
 [s][vp 8 2 0 0 65535 0]Bilhar é muito complexo, não é?[n]Fico feliz que você goste do jogo.[n][f 1 3 65535][w][e]
 
-[msg MSG_TenchoInfo_1st_002 [Uomo in abiti casual]]
+[msg MSG_TenchoInfo_1st_002 [Homem em roupas casuais]]
 [s][vp 8 2 0 0 65535 0]Se você quiser saber mais, eu[n]recomendo este livro.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]Chama-se [clr 3][var 0][clr 27].[n]Ele explica tudo, desde o[n]básico até a aplicação prática.[n][f 1 3 65535][w][e]
 
-[msg MSG_TenchoInfo_1st_003 [Uomo in abiti casual]]
+[msg MSG_TenchoInfo_1st_003 [Homem em roupas casuais]]
 [s][vp 8 2 0 0 65535 0]O único problema é que é um livro[n]muito raro. Você não encontra facilmente.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]Você pode ter mais sorte em uma[n][clr 2]loja especializada[clr 27] em artigos esportivos[n]do que em uma livraria.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]Ops, não era minha intenção[n]segurar você enquanto você[n]estava saindo. Volte quando quiser.[n][f 1 3 65535][w][e]
@@ -311,17 +311,17 @@
 [msg MSG_TenchoInfo_1st_010 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 1133 65535 0]Um livro sobre bilhar, hein...? Na[n]primeira oportunidade, devemos[n]procurá-lo em uma loja de esportes.[n][f 1 3 65535][w][e]
 
-[msg MSG_TenchoInfo_2nd_000 [Uomo in abiti casual]]
+[msg MSG_TenchoInfo_2nd_000 [Homem em roupas casuais]]
 [s][vp 8 2 0 0 65535 0]Ei. Desculpe interromper sua diversão.[n][f 1 3 65535][w][e]
 
-[msg MSG_TenchoInfo_2nd_001 [Uomo in abiti casual]]
+[msg MSG_TenchoInfo_2nd_001 [Homem em roupas casuais]]
 [s][vp 8 2 0 0 65535 0]Você parece estar tentando[n]aprender golpes técnicos.[n][f 1 3 65535][w][e]
 
-[msg MSG_TenchoInfo_2nd_002 [Uomo in abiti casual]]
+[msg MSG_TenchoInfo_2nd_002 [Homem em roupas casuais]]
 [s][vp 8 2 0 0 65535 0]Vejamos... Acho que você é[n]capaz de rolar[n]bastante avançado.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]É chamado de "tiro em massa". Faça[n]a bola de gude ficar bonita...[n]Opa.[n][f 1 3 65535][w][e]
 
-[msg MSG_TenchoInfo_2nd_003 [Uomo in abiti casual]]
+[msg MSG_TenchoInfo_2nd_003 [Homem em roupas casuais]]
 [s][vp 8 2 0 0 65535 0]Acho que não faz muito sentido explicar isso para[n]você agora.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]Guarde este livro. Será muito útil para você.[n][f 1 3 65535][w][e]
 

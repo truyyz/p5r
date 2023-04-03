@@ -1,7 +1,7 @@
-[msg MSG_000_0_0 [Voce di Sumire]]
+[msg MSG_000_0_0 [A voz de sumire]]
 [s][vp 8 2 0 57165 65535 0]Ooh. Isto é...[n][f 1 3 65535][w][e]
 
-[msg MSG_001_0_0 [Personale del negozio di abiti]]
+[msg MSG_001_0_0 [Funcionários de loja de roupas]]
 [s][vp 8 0 0 0 7 0]Oh, isso combina tanto com você![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 7 0]Você disse que queria que as pessoas notassem[n]você, então optei por um emparelhamento mais[n]chamativo.[n][f 1 3 65535][w][e]
 
@@ -11,7 +11,7 @@
 [msg MSG_003_0_0 [Sumire]]
 [s][bup 0 10 984 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 4 0]Uau... É como se eu fosse uma pessoa[n]diferente.[n][f 1 3 65535][w][e]
 
-[msg MSG_004_0_0 [Personale del negozio di abiti]]
+[msg MSG_004_0_0 [Funcionários de loja de roupas]]
 [s][vp 8 0 0 0 7 0]A energia dos carnívoros e uma pitada[n]da mansidão dos herbívoros.[n]O estilo da savana rouba a atenção![n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Sumire]]

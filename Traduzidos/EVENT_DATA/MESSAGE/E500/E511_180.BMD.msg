@@ -1,4 +1,4 @@
-[msg MSG_000_0_0 [Presentatore dello stadio]]
+[msg MSG_000_0_0 [Apresentador de estádio]]
 [s][vp 8 0 0 0 65535 0]E aqui estão os vencedores de hoje![n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [(SE)スタジアムの歓声]]
@@ -7,13 +7,13 @@
 [msg MSG_002_0_0 [Kasumi]]
 [s][bup 0 10 103 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vencedores?[n][f 1 3 65535][w][e]
 
-[msg MSG_003_0_0 [Presentatore dello stadio]]
+[msg MSG_003_0_0 [Apresentador de estádio]]
 [s][vp 8 0 0 0 65535 0]Depois de viverem em uma realidade horrível, eles[n]estão prestes a receber um prêmio por bravura![n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Akechi]]
 [s][bup 0 9 802 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O que acontece agora?[n][f 1 3 65535][w][e]
 
-[msg MSG_005_0_0 [Presentatore dello stadio]]
+[msg MSG_005_0_0 [Apresentador de estádio]]
 [s][vp 8 0 0 0 65535 0]Nosso glorioso líder também participará do[n]desfile![n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Kasumi]]

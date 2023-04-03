@@ -29,7 +29,7 @@
 [msg MSG_008_0_0 [Ohya]]
 [s][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]O que você diz?!? Ele[n]tem bolo sobrando?[n]Talvez precisemos desistir...[n][f 1 3 65535][w][e]
 
-[msg MSG_009_0_0 [Dipendente allegra]]
+[msg MSG_009_0_0 [Empregado alegre]]
 [s][f 4 10 65535 0 0][vp 8 0 0 9 8 0]Na verdade sim![n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Ohya]]
@@ -38,7 +38,7 @@
 [msg MSG_010_5_0 [Ohya]]
 [s][bup 0 107 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Espera aí, sério?!?[n][f 1 3 65535][w][e]
 
-[msg MSG_011_0_0 [Dipendente allegra]]
+[msg MSG_011_0_0 [Empregado alegre]]
 [s][f 4 10 65535 0 0][vp 8 0 0 12 8 0]Eles cancelaram um pedido[n]no último minuto.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 13 8 0]Um segundo, vou[n]prepará-lo para você![n][f 1 3 65535][w][e]
 

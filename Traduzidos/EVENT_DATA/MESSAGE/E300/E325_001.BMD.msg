@@ -1,16 +1,16 @@
 [msg MSG_000_0_0 [Morgana]]
 [s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]Eu estraguei tudo...[n][f 1 3 65535][w][e]
 
-[msg MSG_001_0_0 [Voce dell'Ombra]]
+[msg MSG_001_0_0 [Voz da sombra]]
 [s][vp 8 0 0 2 65535 0]DEVEMOS EXCLUIR?[n][f 1 3 65535][w][e]
 
-[msg MSG_002_0_0 [Voce di un'altra Ombra]]
+[msg MSG_002_0_0 [Voz de outra sombra]]
 [s][vp 8 0 0 3 65535 0]VAMOS DEIXAR ISSO. NÃO VAMOS PERDER TEMPO[n]COM UM GATO SOLITÁRIO.[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Morgana]]
 [s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]É realmente...[n]impossível... sozinho?[n][f 1 3 65535][w][e]
 
-[msg MSG_003_5_0 [Persona misteriosa]]
+[msg MSG_003_5_0 [Pessoa misteriosa]]
 [s][vp 8 0 0 9 65535 0]É terrível...[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [(SE)モルガナ]]
