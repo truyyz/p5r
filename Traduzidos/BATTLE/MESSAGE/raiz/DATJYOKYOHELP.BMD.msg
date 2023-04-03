@@ -782,10 +782,10 @@
 [s][f 0 4 128]O nariz do artista estremece...[n][e]
 
 [msg jyokyohelp_UNUSABLE_PERS]
-[s][f 0 4 128]Ele não se lembra de como usar Personas![n][e]
+[s][f 0 4 128] não se lembra de como usar Personas![n][e]
 
 [msg jyokyohelp_ALLCANCEL]
-[s][f 0 4 128]Ergue uma barreira contra ataques. físico![n][e]
+[s][f 0 4 128]Ergue uma barreira contra ataques físicos![n][e]
 
 [msg jyokyohelp_P_CHANGE]
 [s][f 0 4 128]Mudança de Persona.[n][e]
