@@ -1,4 +1,4 @@
-[msg MSG_000_0_0 [Ombra Agente della security]]
+[msg MSG_000_0_0 [Agente de segurança de sombra]]
 [s][vp 8 0 0 0 65535 0]Nngh... R-Solicitando reforço...[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Ryuji]]

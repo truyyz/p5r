@@ -5,7 +5,7 @@
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Sempre defendi, entre as[n]críticas, que os Phantom Thieves não[n]agiram de acordo com a justiça.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Mas acredito que a recente[n]cadeia de mortes suspeitas[n]não está relacionada a suas ações.[n][f 1 3 65535][w][e]
 
-[msg MSG_002_0_0 [Intervistatrice]]
+[msg MSG_002_0_0 [Entrevistador]]
 [s][vp 8 0 0 4 65535 0]O-o quê? Eu ouvi direito?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 5 65535 0]Mas Akechi-san, você foi[n]o primeiro a nos avisar[n]sobre Phantom Thieves, não foi?[n][f 1 3 65535][w][e]
 

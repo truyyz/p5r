@@ -90,9 +90,9 @@
 [msg MSG_020_0_0 [Justine]]
 [s][bup 0 101 2 0 0][f 4 10 65535 0 0][vp 8 0 0 29 65535 0]...Existem.[n][f 1 3 65535][w][e]
 
-[msg MSG_021_0_0 [Caroline e Justine]]
+[msg MSG_021_0_0 [Carolina e Justine]]
 [s][vp 8 0 0 33 65535 0]Morte ao criminoso![n][f 1 3 65535][w][e]
 
-[msg MSG_022_0_0 [Caroline e Justine]]
+[msg MSG_022_0_0 [Carolina e Justine]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 101 10 300 1][vp 8 0 0 33 65535 0]Morte ao criminoso![n][f 1 3 65535][w][e]
 

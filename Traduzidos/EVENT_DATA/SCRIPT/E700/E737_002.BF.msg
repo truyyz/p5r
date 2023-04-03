@@ -59,7 +59,7 @@
 [msg MISS_LAST_ALL_00 [Morgana]]
 [s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 0 1170 65535 0]Não, acho que não...[n][f 1 3 65535][w][e]
 
-[msg THINK_START_0_01 [Storia]]
+[msg THINK_START_0_01 [História]]
 [s][vp 8 0 0 0 65535 0]Por que Ishikawa Goemon[n]tornou-se um personagem tão popular[n]após sua morte?[n][f 1 3 65535][w][e]
 
 [msg THINK_START_1_01 [Morgana]]
@@ -110,7 +110,7 @@
 [msg THINK_3C_01 [Morgana]]
 [s][vp 8 0 0 0 65535 0][bup 0 3 0 0 0][f 4 10 65535 0 0]Não. Se não me engano, também deu[n]origem a um ditado famoso.[n]Tente pensar melhor sobre isso.[n][f 1 3 65535][w][e]
 
-[msg THINK_START_0_02 [Storia]]
+[msg THINK_START_0_02 [História]]
 [s][vp 8 0 0 0 65535 0]Explique por que,[n]durante a Revolução Francesa,[n]a guilhotina foi usada.[n][f 1 3 65535][w][e]
 
 [msg THINK_START_1_02 [Morgana]]
@@ -197,7 +197,7 @@
 [msg THINK_3C_03 [Morgana]]
 [s][vp 8 0 0 0 65535 0][bup 0 3 0 0 0][f 4 10 65535 0 0]Exatamente! ...Na verdade, não![n]Calma, calma. Vamos tentar[n]pensar melhor.[n][f 1 3 65535][w][e]
 
-[msg THINK_START_0512_00 [Storia]]
+[msg THINK_START_0512_00 [História]]
 [s][vp 8 0 0 0 65535 0]Explique por que[n]Minamoto no Yoshitsune é[n]visto como um herói.[n][f 1 3 65535][w][e]
 
 [msg THINK_START_0512_01 [Morgana]]
@@ -266,7 +266,7 @@
 [s][vp 8 0 0 0 65535 0][bup 0 3 3 0 0][f 4 10 65535 0 0]Sério?!?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Tente pensar melhor.[n][f 1 3 65535][w][e]
 
-[msg THINK_START_0713_00 [Storia]]
+[msg THINK_START_0713_00 [História]]
 [s][vp 8 0 0 0 65535 0]Explique a origem do baozi.[n][f 1 3 65535][w][e]
 
 [msg THINK_START_0713_01 [Morgana]]
@@ -327,7 +327,7 @@
 [s][vp 8 0 0 0 65535 0][bup 0 3 0 0 0][f 4 10 65535 0 0]Então a pergunta é sobre a origem[n]do baozi.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Eles explicaram para a gente na aula,[n]certo? Alguém o inventou[n]de Romance of the Three Kingdoms...[n][f 1 3 65535][w][e]
 
-[msg THINK_START_1017_00 [Matematica]]
+[msg THINK_START_1017_00 [Matemática]]
 [s][vp 8 0 0 0 65535 0]Explique por que a[n]bola de futebol é colorida apenas[n]preto e branco.[n][f 1 3 65535][w][e]
 
 [msg THINK_START_1017_01 [Morgana]]
@@ -372,7 +372,7 @@
 [msg THINK_2C_1017_09 [Morgana]]
 [s][vp 8 0 0 0 65535 0][bup 0 3 3 0 0][f 4 10 65535 0 0]Você ouviu isso na aula?[n]Pense novamente.[n][f 1 3 65535][w][e]
 
-[msg THINK_START_1220_00 [Storia]]
+[msg THINK_START_1220_00 [História]]
 [s][vp 8 0 0 0 65535 0]Explica por que o notório ladrão[n]Nezumi Kozo foi inventado[n]antes de sua execução.[n][f 1 3 65535][w][e]
 
 [msg THINK_START_1220_01 [Morgana]]

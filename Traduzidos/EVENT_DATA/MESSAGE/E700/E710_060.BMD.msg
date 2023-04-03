@@ -6,7 +6,7 @@
 [s][bup 0 113 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Evidentemente uma vontade de ferro é suficiente[n]para mudar destino, como o seu.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 113 7 300 65535][vp 8 0 0 0 65535 0]Mas eu gostaria de poder fazer mais...[n][f 1 3 65535][w][e]
 
-[msg MSG_002_0_0 [Uomo borioso di mezza età]]
+[msg MSG_002_0_0 [Homem arrogante de meia idade]]
 [s][vp 8 0 0 0 11 0]Você está de folga,[n]Mifune-kun?[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Chihaya]]

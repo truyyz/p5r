@@ -1,4 +1,4 @@
-[msg DVL_000_0_0 [Purificatore del Paradiso]]
+[msg DVL_000_0_0 [Purificador do céu]]
 [s][vp 8 0 0 1 65535 0]Parem, rebeldes! Não vou deixar você[n]ir mais longe![n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Morgana]]

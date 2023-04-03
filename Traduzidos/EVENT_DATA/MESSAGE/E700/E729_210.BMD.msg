@@ -108,10 +108,10 @@
 [msg MSG_032_0_0 [Justine]]
 [s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas acho que você está apenas[n]evitando a pergunta... Tudo bem,[n]vamos considerar um empate, por enquanto.[n][f 1 3 65535][w][e]
 
-[msg MSG_033_0_0 [Donna sorpresa]]
+[msg MSG_033_0_0 [Mulher surpresa]]
 [s][vp 8 0 0 0 65535 0]Ei, você viu a pintura que parece[n]um novelo de rabiscos?[n]Dizem que vale 500 milhões de ienes![n][f 1 3 65535][w][e]
 
-[msg MSG_034_0_0 [Mamma intellettuale]]
+[msg MSG_034_0_0 [Mãe intelectual]]
 [s][vp 8 0 0 0 65535 0]Coisa? Até meu bebê[n]poderia fazer algo assim.[n][f 1 3 65535][w][e]
 
 [msg MSG_035_0_0 [Caroline]]

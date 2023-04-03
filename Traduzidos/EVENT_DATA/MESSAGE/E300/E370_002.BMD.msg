@@ -31,7 +31,7 @@
 [msg MSG_010_0_0 [Ryuji]]
 [s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Quem se importa? Não há nada[n]normal aqui agora.[n][f 1 3 65535][w][e]
 
-[msg MSG_011_0_0 [Maid studentessa]]
+[msg MSG_011_0_0 [Empregada estudante]]
 [s][vp 8 0 0 12 65535 0]Bem-vindo![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 13 65535 0]O que você pede?[n][f 1 3 65535][w][e]
 
@@ -44,7 +44,7 @@
 [msg MSG_014_0_0 [Ryuji]]
 [s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Atenha-se ao tradicional.[n]Aposto que...[n][f 1 3 65535][w][e]
 
-[msg MSG_015_0_0 [Maid studentessa]]
+[msg MSG_015_0_0 [Empregada estudante]]
 [s][vp 8 0 0 17 65535 0]Sinto muito. O último tradicional[n]foi encomendado pelo cliente[n]anterior.[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Ryuji]]
@@ -53,13 +53,13 @@
 [msg MSG_017_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Então... eu gostaria de pedir takoyaki de queijo[n]mentai.[n][f 1 3 65535][w][e]
 
-[msg MSG_018_0_0 [Maid studentessa]]
+[msg MSG_018_0_0 [Empregada estudante]]
 [s][vp 8 0 0 20 65535 0]Sinto muito. Ficamos sem[n]ovas de bacalhau.[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Haru]]
 [s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]Então, a lula...[n][f 1 3 65535][w][e]
 
-[msg MSG_020_0_0 [Maid studentessa]]
+[msg MSG_020_0_0 [Empregada estudante]]
 [s][vp 8 0 0 22 65535 0]Uh...ainda estamos procurando por ele.[n]Vai levar cinco ou seis horas...[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Ryuji]]
@@ -78,13 +78,13 @@
 [msg MSG_025_0_0 [Haru]]
 [s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 28 65535 0]O que você recomendaria então entre[n]os pratos disponíveis?[n][f 1 3 65535][w][e]
 
-[msg MSG_026_0_0 [Maid studentessa]]
+[msg MSG_026_0_0 [Empregada estudante]]
 [s][vp 8 0 0 29 65535 0]Takoyaki russo.[n][f 1 3 65535][w][e]
 
 [msg MSG_027_0_0 [Haru]]
 [s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 30 65535 0]Tudo bem, obrigado, vamos levar.[n][f 1 3 65535][w][e]
 
-[msg MSG_028_0_0 [Maid studentessa]]
+[msg MSG_028_0_0 [Empregada estudante]]
 [s][vp 8 0 0 31 65535 0]Isso vai demorar um pouco.[n][f 1 3 65535][w][e]
 
 [msg MSG_029_0_0 [Ryuji]]
@@ -131,7 +131,7 @@
 [msg MSG_043_0_0 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 46 65535 0]No entanto, não temos ideia[n]do que[n]Akechi-kun tem em mente.[n][f 1 3 65535][w][e]
 
-[msg MSG_044_0_0 [Maid studentessa]]
+[msg MSG_044_0_0 [Empregada estudante]]
 [s][vp 8 0 0 47 65535 0]Desculpe a espera.[n][f 1 3 65535][w][e]
 
 [msg MSG_045_0_0 [Ann]]
@@ -147,7 +147,7 @@
 [msg MSG_048_0_0 [Haru]]
 [s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 52 65535 0]Talvez o ingrediente secreto[n]seja geléia? Isso seria[n]delicioso.[n][f 1 3 65535][w][e]
 
-[msg MSG_049_0_0 [Maid studentessa]]
+[msg MSG_049_0_0 [Empregada estudante]]
 [s][vp 8 0 0 53 65535 0]Bem, um deles é... especial.[n][f 1 3 65535][w][e]
 
 [msg MSG_050_0_0 [Morgana]]

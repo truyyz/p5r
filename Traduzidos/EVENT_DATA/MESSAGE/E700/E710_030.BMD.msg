@@ -2,13 +2,13 @@
 [s][bup 0 113 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 10006 65535 0]Boa noite.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Esta é sua primeira vez[n]no meu banquete, não é?[n][f 1 3 65535][w][e]
 
-[msg MSG_001_0_0 [Uomo timido]]
+[msg MSG_001_0_0 [Homem tímido]]
 [s][vp 8 0 0 0 9 0]S-Sim, um... Foi[n]recomendado a mim por um colega. Ele disse[n]que iria me ajudar...é verdade?[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Chihaya]]
 [s][bup 0 113 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 10035 65535 0]É claro! O destino é... absoluto...[n][f 1 3 65535][w][e]
 
-[msg MSG_003_0_0 [Uomo timido]]
+[msg MSG_003_0_0 [Homem tímido]]
 [s][vp 8 0 0 0 9 0]A-Aqui, uhm, você vê...[n]Estou noivo e tenho que me casar.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 9 0]Na primavera, vou mergulhar[n]com um amigo que conheço[n]desde o jardim de infância...[n][f 1 3 65535][w][e]
 
@@ -16,7 +16,7 @@
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 113 1 300 1][vp 8 2 0 10094 65535 0]Mas é ótimo! Parabéns![n][f 1 3 65535][w][e]
 [s][bup 0 113 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Então qual é o problema? Talvez[n]a data da cerimônia ou[n]destino da lua de mel?[n][f 1 3 65535][w][e]
 
-[msg MSG_005_0_0 [Uomo timido]]
+[msg MSG_005_0_0 [Homem tímido]]
 [s][vp 8 0 0 0 9 0]O-Oh, hum... Não, nada disso.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 9 0]O problema é... eu não[n]acho que posso me casar.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 9 0]O presidente de um dos nossos mais[n]importantes parceiros de negócios[n]me ofereceu a mão de sua filha.[n][f 1 3 65535][w][e]
@@ -24,7 +24,7 @@
 [msg MSG_006_0_0 [Chihaya]]
 [s][bup 0 113 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 10026 65535 0]Ah... Isso é[n]sofrer o peso das[n]obrigações sociais...[n][f 1 3 65535][w][e]
 
-[msg MSG_007_0_0 [Uomo timido]]
+[msg MSG_007_0_0 [Homem tímido]]
 [s][vp 8 0 0 0 9 0]Você, hum... você acha que eu[n]recusaria erroneamente a oferta do[n]presidente...? Haha...Hahaha...[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Chihaya]]
@@ -34,7 +34,7 @@
 [s][bup 0 113 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sim, já vi de tudo...[n][f 1 3 65535][w][e]
 [s][bup 0 113 3 65535 0][f 4 24 0 4 0 38 5 50][vp 8 2 0 10091 65535 0]Infelizmente... se recusar[n]acabará arruinado...[n][f 1 3 65535][w][e]
 
-[msg MSG_010_0_0 [Uomo timido]]
+[msg MSG_010_0_0 [Homem tímido]]
 [s][vp 8 0 0 0 9 0]N-Não... Então quebrar o[n]noivado é a única opção...?[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Chihaya]]
@@ -83,15 +83,15 @@
 [s][bup 0 113 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 10028 65535 0]Acho que ele já sabe.[n][f 1 3 65535][w][e]
 [s][bup 0 113 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Pense em outra resposta...[n]a menos que você queira[n]uma boa maldição.[n][f 1 3 65535][w][e]
 
-[msg MSG_023_0_0 [Uomo timido]]
+[msg MSG_023_0_0 [Homem tímido]]
 [s][vp 8 0 0 0 9 0]E-Espera, você realmente acha que[n]alguém poderia sair?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 9 0]Eu acho que os homens[n]fariam fila para uma garota assim ...[n][f 1 3 65535][w][e]
 
-[msg MSG_024_0_0 [Uomo timido]]
+[msg MSG_024_0_0 [Homem tímido]]
 [s][vp 8 0 0 0 9 0]Bem, eu nunca nunca permitirei isso! Eu sou o[n]único que pode fazê-la feliz![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 9 0]Fui estúpido em hesitar,[n]mesmo que por um instante...![n][f 1 3 65535][w][e]
 
-[msg MSG_025_0_0 [Uomo timido]]
+[msg MSG_025_0_0 [Homem tímido]]
 [s][vp 8 0 0 0 9 0]O... eu vou casar com ela![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 9 0]Muito obrigado![n][f 1 3 65535][w][e]
 

@@ -291,7 +291,7 @@
 [msg MND_ThanksSojiro]
 [s][vp 8 2 0 0 65535 0]Eu deveria contar a Sojiro...[n][f 1 3 65535][w][e]
 
-[msg MSG_DEBUG [Debug]]
+[msg MSG_DEBUG [Depurando]]
 [s]Modo de Depuração[n][f 1 3 65535][w][e]
 
 [sel SEL_DEBUG top]
@@ -299,14 +299,14 @@
 [s]Yusuke Kitagawa[e]
 [s]Futaba Sakura[e]
 
-[msg MSG_DEBUG_YUSUKE [Debug]]
+[msg MSG_DEBUG_YUSUKE [Depurando]]
 [s]Assistir pela primeira ou segunda vez?[n][f 1 3 65535][w][e]
 
 [sel SEL_DEBUG_YUSUKE top]
 [s]Primeira vez[e]
 [s]Segundo tempo[e]
 
-[msg MSG_DEBUG_02 [Debug]]
+[msg MSG_DEBUG_02 [Depurando]]
 [s][vp 8 2 0 0 65535 0]Cenário para cenas de curry e café.[n][f 1 3 65535][w][e]
 
 [sel SEL_DEBUG_02 top]

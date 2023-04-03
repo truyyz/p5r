@@ -81,12 +81,12 @@
 [msg MSG_024_0_0 [Justine]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 102 15 301 65535][bup 0 101 4 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Isso também é para treinamento?[n][f 1 3 65535][w][e]
 
-[msg MSG_025_0_0 [Allenatore]]
+[msg MSG_025_0_0 [Treinador]]
 [s][vp 8 0 0 0 65535 0]Ei, você está interessado no[n]manequim de madeira?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Uhm...não parecia adequado[n]para iniciantes, mas você suou[n]muito, então...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Aqui, mostro como usá-lo.[n][f 1 3 65535][w][e]
 
-[msg MSG_026_0_0 [Allenatore]]
+[msg MSG_026_0_0 [Treinador]]
 [s][vp 8 0 0 0 65535 0]Você treina com o[n]boneco de madeira? Tente não se machucar.[n][f 1 3 65535][w][e]
 
 [msg MSG_027_0_0 [Caroline]]

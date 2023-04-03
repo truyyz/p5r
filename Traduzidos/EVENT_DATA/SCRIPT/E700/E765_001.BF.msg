@@ -1,4 +1,4 @@
-[msg MSG_004_0_0 [Maid]]
+[msg MSG_004_0_0 [Empregada doméstica]]
 [s][vp 8 2 0 58351 4 0]Bem-vindo ao lar, Mestre! Eu sou[n]Clara, sua empregada bagunceira![n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Clara]]

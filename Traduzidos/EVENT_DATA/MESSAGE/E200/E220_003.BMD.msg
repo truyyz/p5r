@@ -25,10 +25,10 @@
 [msg MSG_007_0_0 [Diretor da UIS]]
 [s][bup 0 213 2 0 0][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]Nós só precisávamos que[n]maldito se metesse[n]nesta história![n][f 1 3 65535][w][e]
 
-[msg MSG_008_0_0 [Membro del partito al governo]]
+[msg MSG_008_0_0 [Membro do partido no poder]]
 [s][vp 8 0 0 14 65535 0]...E eu entendo que esses[n]incidentes anômalos causaram agitação[n]em todo o nosso país.[n][f 1 3 65535][w][e]
 
-[msg MSG_008_5_0 [Membro del partito al governo]]
+[msg MSG_008_5_0 [Membro do partido no poder]]
 [s][bup 0 206 0 0 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Levaremos este assunto[n]com a maior seriedade.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Continuarei a fazer o meu[n]melhor para que todos os cidadãos[n]possam viver em paz.[n][f 1 3 65535][w][e]
 

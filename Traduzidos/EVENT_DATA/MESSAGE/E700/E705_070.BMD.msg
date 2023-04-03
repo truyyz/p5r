@@ -128,7 +128,7 @@
 [msg MSG_039_0_0 [Futaba]]
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Acho que peguei dele.[n][f 1 3 65535][w][e]
 
-[msg MSG_039_1_0 [Voce di Sojiro]]
+[msg MSG_039_1_0 [A voz do sojiro]]
 [s][vp 8 0 0 0 65535 0]Futaba... Posso entrar?[n][f 1 3 65535][w][e]
 
 [msg MSG_039_3_0 [Futaba]]

@@ -340,7 +340,7 @@
 [s][bup 0 8 703 65535 0][f 4 10 65535 0 0][vp 8 0 0 169 65535 0]...Portanto, removeremos[n]todos os seus[n]desejos distorcidos.[n][f 1 3 65535][w][e]
 [s][vp 1 0 0 172 0 0]......[n][f 1 3 65535][w][e]
 
-[msg MSG_148_0_0 [Ombra di Futaba]]
+[msg MSG_148_0_0 [Sombra de Futaba]]
 [s][bup 0 8 900 0 0][f 4 10 65535 0 0][vp 8 0 0 173 14 0]Não. Eu vou morrer...[n][f 1 3 65535][w][e]
 
 [msg MSG_149_0_0 [Morgana]]

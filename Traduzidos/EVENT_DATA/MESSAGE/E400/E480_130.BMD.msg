@@ -1,9 +1,9 @@
-[msg MSG_000_0_0 [Ragazza con uniforme della Shujin]]
+[msg MSG_000_0_0 [Garota com uniforme Shujin]]
 [s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ah, você acabou de mudar de escola.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Então estamos no mesmo barco...[n]Mudei-me para cá este mês.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas sou um ano mais novo.[n][f 1 3 65535][w][e]
 
-[msg MSG_001_0_0 [Ragazza con uniforme della Shujin]]
+[msg MSG_001_0_0 [Garota com uniforme Shujin]]
 [s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu sou Yoshizawa.[n][f 1 3 65535][w][e]
 
 [sel SEL_002_0_0 top]

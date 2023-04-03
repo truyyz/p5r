@@ -1,4 +1,4 @@
-[msg MSG_007_0_0 [Guardia con camice]]
+[msg MSG_007_0_0 [Guarda com casaco]]
 [s][vp 8 0 0 11 65535 0]Você está fora do caminho.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 12 65535 0]Não persiga a dor.[n]Daqui em diante[n]apenas o infortúnio espera por você.[n][f 1 3 65535][w][e]
 

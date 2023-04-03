@@ -3,7 +3,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Oh, você já está indo para casa?[n]Se você tiver tempo, gostaria[n]de ficar e comer uma maçã?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]É um presente de um dos meus pacientes idosos.[n]Ele me trouxe muitos...[n][f 1 3 65535][w][e]
 
-[msg MSG_001_0_0 [Signore di mezza età]]
+[msg MSG_001_0_0 [Cavalheiro de meia idade]]
 [s][vp 8 0 0 0 65535 0]...Oi Dr. Takemi...[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Takemi]]

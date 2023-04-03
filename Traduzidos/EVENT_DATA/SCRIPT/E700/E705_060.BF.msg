@@ -1,7 +1,7 @@
 [msg MSG_000_0_0]
 [s][vp 8 0 0 0 65535 0]スクリプトから発行された[n]メッセージです。[n][f 1 3 65535][w][e]
 
-[msg MSG_010_0_0 [Anziano allegro]]
+[msg MSG_010_0_0 [Velho alegre]]
 [s][vp 8 0 0 0 65535 0]Resumindo, no final temos um[n]"pai" que não deixa ela ir[n]à escola e um bandido em casa...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Não parece o ambiente mais ideal[n]para o Futaba, não é?[n][f 1 3 65535][w][e]
 

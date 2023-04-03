@@ -62,7 +62,7 @@
 [sel SEL_017_0_0 top]
 [e]
 
-[msg MSG_018_0_0 [Vecchietto con bastone]]
+[msg MSG_018_0_0 [Velho com bengala]]
 [s][vp 8 0 0 0 65535 0]Com licença...[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Justine]]
@@ -122,10 +122,10 @@
 [s]Pare de brigar.[e]
 [s]Eu não me importaria.[e]
 
-[msg MSG_035_0_0 [Donna gentile]]
+[msg MSG_035_0_0 [Mulher amável]]
 [s][vp 8 0 0 0 65535 0]Ei, o que essas[n]garotas estão fazendo? Onde estão os pais?[n][f 1 3 65535][w][e]
 
-[msg MSG_035_5_0 [Uomo di buon umore]]
+[msg MSG_035_5_0 [Homem de bom humor]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 102 15 300 65535][vp 8 0 0 0 65535 0]Ah, eles estão apenas brincando. Vê?[n]Aquele menino está com eles.[n][f 1 3 65535][w][e]
 
 [msg MSG_036_0_0 [Caroline]]

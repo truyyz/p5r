@@ -1,4 +1,4 @@
-[msg MSG_000_0_0 [Dipendente]]
+[msg MSG_000_0_0 [Funcionário]]
 [s][vp 8 0 0 0 65535 0]Sinto muito, mas no momento[n]não podemos contratá-lo. Suas[n]habilidades sociais são insuficientes.[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Ann]]

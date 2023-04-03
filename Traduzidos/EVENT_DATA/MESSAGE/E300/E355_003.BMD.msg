@@ -1,4 +1,4 @@
-[msg MSG_000_0_0 [Discorso]]
+[msg MSG_000_0_0 [Discurso]]
 [s][vp 8 0 0 1 65535 0]Devemos construir uma sociedade onde[n]os jovens possam esperar por um[n]futuro melhor, e...[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Ryuji]]

@@ -10,7 +10,7 @@
 [msg MSG_003_0_0 [Morgana]]
 [s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]Seu...[n][f 1 3 65535][w][e]
 
-[msg MSG_004_0_0 [Presentatrice]]
+[msg MSG_004_0_0 [Apresentador]]
 [s][vp 8 0 0 5 9 0]...e olha a galera! Há[n]muitos rostos sorridentes![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 6 9 0]Dito isso, vamos perguntar rapidamente[n]a qualquer visitante por aqui[n]se eles estão se divertindo![n][f 1 3 65535][w][e]
 
@@ -24,7 +24,7 @@
 [msg MSG_006_0_0 [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][f 4 24 0 4 6 36 5 100][f 4 24 0 4 2 12 5 100][vp 8 0 0 10 65535 0]Melhor pegar nossos kebabs e[n]fugir.[n][f 1 3 65535][w][e]
 
-[msg MSG_007_0_0 [Presentatrice]]
+[msg MSG_007_0_0 [Apresentador]]
 [s][vp 8 0 0 11 9 0]Ah, vamos entrevistar esses três.[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Yusuke]]
@@ -53,24 +53,24 @@
 [s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Droga...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]OK, vou fazer papel de bobo[n]fazendo alguns comentários embaraçosos para[n]eles não poderem usar o filme.[n][f 1 3 65535][w][e]
 
-[msg MSG_017_0_0 [Presentatrice]]
+[msg MSG_017_0_0 [Apresentador]]
 [s][vp 8 0 0 21 9 0]Saudações! Dia quente, hein?[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Claro, sim![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]E se está tão quente em julho, você pode[n]imaginar o tempo louco[n]que estará em dezembro?[n][f 1 3 65535][w][e]
 
-[msg MSG_019_0_0 [Presentatrice]]
+[msg MSG_019_0_0 [Apresentador]]
 [s][vp 8 0 0 24 9 0]A propósito... Se você está aqui no[n]festival, isso significa que você é[n]grande amante de carne, certo?[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Ryuji]]
 [s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]Ah...[n][f 1 3 65535][w][e]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][f 4 24 0 4 6 36 5 100][f 4 24 0 4 2 12 5 100][vp 8 0 0 26 65535 0]Mais do que tudo, eu diria que amamos[n]frutas! Ah, e doces![n]Doces são o FIM DO MUNDO![n][f 1 3 65535][w][e]
 
-[msg MSG_021_0_0 [Presentatrice]]
+[msg MSG_021_0_0 [Apresentador]]
 [s][vp 8 0 0 27 9 0]Heheheh...[n][f 1 3 65535][w][e]
 
-[msg MSG_022_0_0 [Presentatrice]]
+[msg MSG_022_0_0 [Apresentador]]
 [s][vp 8 0 0 28 9 0]Bem, hum... Muito obrigado por[n]sua disponibilidade![n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Ryuji]]

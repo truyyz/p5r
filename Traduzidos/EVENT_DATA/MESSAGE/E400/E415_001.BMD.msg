@@ -7,6 +7,6 @@
 [msg MSG_000_5_0 [Shido]]
 [s][bup 0 206 2 0 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Ele deve ter escapado ciente de seu[n]fracasso! Traga-o para cá assim que[n]o encontrar! Claro?!?[n][f 1 2 170][e]
 
-[msg MSG_001_0_0 [Ombra di Shido]]
+[msg MSG_001_0_0 [Sombra de Shido]]
 [s][vp 8 0 0 4 8 0]Vou eliminar qualquer um que ficar no meu[n]caminho... como sempre fiz![n][f 1 3 65535][w][e]
 

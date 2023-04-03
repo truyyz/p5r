@@ -8,7 +8,7 @@
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Considerando que não tenho[n]nenhuma desculpa para justificar[n]sua presença aqui...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]Temos muita, muita sorte.[n][f 1 3 65535][w][e]
 
-[msg MSG_003_0_0 [Voce di Akechi]]
+[msg MSG_003_0_0 [A voz de Akechi]]
 [s][vp 8 0 0 5 65535 0]Contanto que você seja legal,[n]você basicamente pode enganar[n]qualquer um...[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Akechi]]

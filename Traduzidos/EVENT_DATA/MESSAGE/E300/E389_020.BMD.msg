@@ -14,10 +14,10 @@
 [s][vp 8 0 0 5 5 0]Niijima-san, receio que o caso não esteja mais[n]sob sua jurisdição.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 6 5 0]Também...[n][f 1 3 65535][w][e]
 
-[msg MSG_005_0_0 [Detetive chefe]]
+[msg MSG_005_0_0 [Chef detetive]]
 [s][vp 8 0 0 7 6 0]Você é o promotor Sae Niijima?[n][f 1 3 65535][w][e]
 
-[msg MSG_006_0_0 [Detetive chefe]]
+[msg MSG_006_0_0 [Chef detetive]]
 [s][vp 8 0 0 8 6 0]Uma chamada está chegando de seu gerente.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 9 6 0]Apresse-se e vamos acabar com isso.[n]Francamente, você[n]está nos incomodando aqui.[n][f 1 3 65535][w][e]
 
@@ -38,16 +38,16 @@
 [s][bup 0 213 0 0 1][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]*suspiro* Boa sorte então.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Não espero muito[n]mas...[n][f 1 3 65535][w][e]
 
-[msg MSG_012_0_0 [Detetive chefe]]
+[msg MSG_012_0_0 [Chef detetive]]
 [s][vp 8 0 0 17 6 0]Ah, promotor, esqueci[n]de te falar uma coisa importante.[n][f 1 3 65535][w][e]
 
-[msg MSG_013_0_0 [Detetive chefe]]
+[msg MSG_013_0_0 [Chef detetive]]
 [s][vp 8 0 0 18 6 0]Ele não terá muito tempo.[n]Não podemos deixá-lo[n]falar com ele por muito tempo.[n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Sae]]
 [s][bup 0 105 3 65535 0][vp 1 0 0 19 0 0]......[n][f 1 3 65535][w][e]
 
-[msg MSG_015_0_0 [Detetive chefe]]
+[msg MSG_015_0_0 [Chef detetive]]
 [s][vp 8 0 0 20 6 0]É para o bem dele.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 21 6 0]Seus métodos ainda são desconhecidos.[n]Nós nem sabemos se é seguro[n]entrar lá e falar com ele.[n][f 1 3 65535][w][e]
 

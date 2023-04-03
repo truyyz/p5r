@@ -2,7 +2,7 @@
 [s][bup 0 2 205 0 0][f 4 10 65535 0 0][vp 8 2 0 7170 65535 0]Droga! Eu gostaria de ser[n]mais rápido, mas não consigo...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 6 300 65535][vp 8 0 0 0 65535 0]Na época eu estava treinando para[n]campeonatos nacionais... Agora[n]eu sou péssimo.[n][f 1 3 65535][w][e]
 
-[msg MSG_001_0_0 [Voce infastidita]]
+[msg MSG_001_0_0 [Voz irritada]]
 [s][vp 8 0 0 0 65535 0]O que diabos você pensa que está fazendo?[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Ryuji]]
@@ -52,7 +52,7 @@
 [msg MSG_015_0_0 [Nakaoka]]
 [s][vp 8 0 0 0 65535 0]Espere aí, você não é aquele aluno[n]transferido? Você realmente vai sair com[n]esse perdedor?[n][f 1 3 65535][w][e]
 
-[msg MSG_016_0_0 [Ex membro della squadra di atletica]]
+[msg MSG_016_0_0 [Ex-integrante da equipe de atletismo]]
 [s][vp 8 0 0 0 65535 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 12 300 65535]É melhor você tomar cuidado.[n]Se você irritá-lo, ele vai bater em você.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Dizem que o pai dele também era assim. Tal pai,[n]tal filho, certo? É assustador dizer.[n][f 1 3 65535][w][e]
 

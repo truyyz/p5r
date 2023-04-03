@@ -128,6 +128,6 @@
 [msg MSG_COOP_SAE_000_00 [Sae]]
 [s]Por que você não atende o telefone?[n][w][e]
 
-[msg MSG_COOP_WORLD_000_00 [Mondo]]
+[msg MSG_COOP_WORLD_000_00 [Mundo]]
 [s]Por que você não atende o telefone?[n][w][e]
 

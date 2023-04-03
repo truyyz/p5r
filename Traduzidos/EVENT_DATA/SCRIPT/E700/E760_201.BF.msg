@@ -220,7 +220,7 @@
 [s][bup 0 103 505 65535 0][f 4 10 65535 0 0][vp 8 2 0 5038 65535 0]Este aroma, rico e delicado[n]ao mesmo tempo...[n][f 1 3 65535][w][e]
 [s][bup 0 103 500 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Você usou Blue Mountain hein?[n][f 1 3 65535][w][e]
 
-[msg SYS_050_1_0 [Giamaica Blue Mountain]]
+[msg SYS_050_1_0 [Jamaica Montanha Azul]]
 [s][vp 8 2 0 0 65535 0]As Montanhas Azuis da Jamaica, com seu[n]clima único e solo vulcânico, são[n]ideais para o cultivo deste café.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]Coletado em pequenas quantidades e submetido a[n]rigorosos controles, o resultado é um café de[n]alta qualidade e aroma completo.[n][f 1 3 65535][w][e]
 
@@ -236,7 +236,7 @@
 [s][bup 0 103 505 65535 0][f 4 10 65535 0 0][vp 8 2 0 5038 65535 0]Esse gosto...[n][f 1 3 65535][w][e]
 [s][bup 0 103 501 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Deve ser Colombia Nariño.[n][f 1 3 65535][w][e]
 
-[msg SYS_052_1_0 [Colombia Nariño]]
+[msg SYS_052_1_0 [Colômbia Narino]]
 [s][vp 8 2 0 0 65535 0]A altitude, o clima chuvoso e o solo[n]das montanhas colombianas são a receita[n]ideal para um café de alta qualidade.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]O café Nariño tem um corpo espesso[n]e cremoso, que envolve o paladar[n]com aromas frutados e notas de nozes.[n][f 1 3 65535][w][e]
 
@@ -252,7 +252,7 @@
 [s][bup 0 103 505 65535 0][f 4 10 65535 0 0][vp 8 2 0 5038 65535 0]Essa iguaria...[n][f 1 3 65535][w][e]
 [s][bup 0 103 501 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Não há dúvida sobre isso.[n]Aqui é Hawaii Kona.[n][f 1 3 65535][w][e]
 
-[msg SYS_054_1_0 [Hawaii Kona]]
+[msg SYS_054_1_0 [Havaí Kona]]
 [s][vp 8 2 0 0 65535 0]Uma especialidade havaiana. Devido à raridade[n]e ao preço do feijão Kona, uma mistura[n]Kona contém apenas 10% de feijão Kona.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]Um Kona 100% pode obter preços bastante altos. Um[n]bom Kona tem um sabor rico, uma acidez forte e[n]um aroma complexo.[n][f 1 3 65535][w][e]
 
@@ -260,7 +260,7 @@
 [s][bup 0 103 505 65535 0][f 4 10 65535 0 0][vp 8 2 0 5038 65535 0]Esse gosto...[n][f 1 3 65535][w][e]
 [s][bup 0 103 501 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]...É a Etiópia Moka Harrar, não é?[n][f 1 3 65535][w][e]
 
-[msg SYS_055_1_0 [Etiopia Moka Harrar]]
+[msg SYS_055_1_0 [Etiópia Moka Harrar]]
 [s][vp 8 2 0 0 65535 0]Mokha é uma cidade portuária no Iêmen[n]da qual tanto o[n]café iemenita quanto o etíope Moka Harrar são exportados.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]O café desta região foi[n]apelidado de "Moka". Tem um sabor picante[n]e um aroma forte com notas de amora.[n][f 1 3 65535][w][e]
 
@@ -268,7 +268,7 @@
 [s][bup 0 103 505 65535 0][f 4 10 65535 0 0][vp 8 2 0 5038 65535 0]Hmm...[n][f 1 3 65535][w][e]
 [s][bup 0 103 501 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]...Este é o Moka Matari.[n][f 1 3 65535][w][e]
 
-[msg SYS_056_1_0 [Moka Matari]]
+[msg SYS_056_1_0 [Mocha Matari]]
 [s][vp 8 2 0 0 65535 0]Mokha é uma cidade portuária no Iêmen[n]da qual tanto o[n]café iemenita quanto o etíope Moka Harrar são exportados.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]Moka Matari tem um perfil de sabor complexo. É[n]picante, tem notas de chocolate e tons quase[n]"vinosos".[n][f 1 3 65535][w][e]
 
@@ -276,7 +276,7 @@
 [s][bup 0 103 505 65535 0][f 4 10 65535 0 0][vp 8 2 0 5038 65535 0]Este aroma fragrante...[n][f 1 3 65535][w][e]
 [s][bup 0 103 501 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]É Mexico Altura.[n][f 1 3 65535][w][e]
 
-[msg SYS_057_1_0 [Mexico Altura]]
+[msg SYS_057_1_0 [México Altura]]
 [s][vp 8 2 0 0 65535 0]Diz-se que o café chegou ao México no século[n]XVIII graças aos espanhóis. Hoje, o México é um[n]dos maiores produtores de café do mundo.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]Altura ("altezza" in spagnolo) sta a indicare[n]l'altitudine alla quale crescono i chicchi di[n]questo caffè dai toni aciduli e di nocciola.[n][f 1 3 65535][w][e]
 
@@ -292,7 +292,7 @@
 [s][bup 0 103 505 65535 0][f 4 10 65535 0 0][vp 8 2 0 5038 65535 0]Um sabor muito rico...[n][f 1 3 65535][w][e]
 [s][bup 0 103 501 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]...É a Colômbia[n]Bucaramanga Supremo.[n][f 1 3 65535][w][e]
 
-[msg SYS_059_1_0 [Colombia Bucaramanga Supremo]]
+[msg SYS_059_1_0 [Colômbia Bucaramanga Supremo]]
 [s][vp 8 2 0 0 65535 0]A altitude, o clima chuvoso e o solo[n]das montanhas colombianas são a receita[n]ideal para um café de alta qualidade.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]"Supremo" representa o tamanho do grão,[n]enquanto "Bucamaranga" indica a origem.[n]Tem sabor doce e acidez moderada.[n][f 1 3 65535][w][e]
 
@@ -308,7 +308,7 @@
 [s][bup 0 103 505 65535 0][f 4 10 65535 0 0][vp 8 2 0 5038 65535 0]Sim...[n][f 1 3 65535][w][e]
 [s][bup 0 103 501 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]...Aqui é o AA do Quênia.[n][f 1 3 65535][w][e]
 
-[msg SYS_061_1_0 [Kenya AA]]
+[msg SYS_061_1_0 [Quênia AA]]
 [s][vp 8 2 0 0 65535 0]As plantações de café do Quênia são[n]estritamente controladas e são conhecidas[n]por seus grãos da mais alta qualidade.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]Kenya AA é cultivada em altitudes elevadas.[n]AA significa qualidade.[n]Tem um aroma completo e acidez moderada.[n][f 1 3 65535][w][e]
 
@@ -316,7 +316,7 @@
 [s][bup 0 103 505 65535 0][f 4 10 65535 0 0][vp 8 2 0 5038 65535 0]Entendi...[n][f 1 3 65535][w][e]
 [s][bup 0 103 501 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Brasil Bourbon. Não há dúvida.[n][f 1 3 65535][w][e]
 
-[msg SYS_062_1_0 [Brasile Bourbon]]
+[msg SYS_062_1_0 [Brasil Bourbon]]
 [s][vp 8 2 0 0 65535 0]O Brasil é o maior produtor de café[n]do mundo. O feijão brasileiro é de alta[n]qualidade, amargo e ácido na medida certa.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]O Brasil Bourbon é um café raro, pois[n]é produzido apenas em pequenas quantidades.[n]É doce e tem uma nota final muito limpa.[n][f 1 3 65535][w][e]
 
@@ -324,7 +324,7 @@
 [s][bup 0 103 505 65535 0][f 4 10 65535 0 0][vp 8 2 0 5038 65535 0]Esse frescor...[n][f 1 3 65535][w][e]
 [s][bup 0 103 501 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]...É a Colômbia 100% típica.[n][f 1 3 65535][w][e]
 
-[msg SYS_063_1_0 [Colombia 100% Typica]]
+[msg SYS_063_1_0 [Colombiano 100% Típico]]
 [s][vp 8 2 0 0 65535 0]A altitude, o clima chuvoso e o solo[n]das montanhas colombianas são a receita[n]ideal para um café de alta qualidade.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]Este café é produzido com[n]100% grãos Typica e é muito raro, mas dá[n]uma frescura cítrica e um aroma perfumado.[n][f 1 3 65535][w][e]
 
@@ -340,7 +340,7 @@
 [s][bup 0 103 505 65535 0][f 4 10 65535 0 0][vp 8 2 0 5038 65535 0]Este aroma cítrico...[n][f 1 3 65535][w][e]
 [s][bup 0 103 501 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]...Sim, é Guatemala Antigua.[n][f 1 3 65535][w][e]
 
-[msg SYS_065_1_0 [Guatemala Antigua]]
+[msg SYS_065_1_0 [Guatemala Antígua]]
 [s][vp 8 2 0 0 65535 0]O solo vulcânico da Guatemala é ideal para o[n]café. O feijão é classificado segundo a altitude[n]das lavouras.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]Devido aos minerais e substâncias presentes[n]no solo, o café Antigua tem uma[n]acidez suave e um sabor fresco.[n][f 1 3 65535][w][e]
 
@@ -356,7 +356,7 @@
 [s][bup 0 103 505 65535 0][f 4 10 65535 0 0][vp 8 2 0 5038 65535 0]Este aroma floral...[n][f 1 3 65535][w][e]
 [s][bup 0 103 501 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]...Deve ser Panamá[n]Esmeralda Geisha.[n][f 1 3 65535][w][e]
 
-[msg SYS_067_1_0 [Panama Esmeralda Geisha]]
+[msg SYS_067_1_0 [Panamá Esmeralda Gueixa]]
 [s][vp 8 2 0 0 65535 0]Esta variedade muito procurada detém[n]o recorde de preço mais alto[n]no Leilão Internacional de Café no Panamá.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]É um café muito apreciado, mas muito raro,[n]devido ao cultivo limitado.[n]Tem um aroma floral e um sabor doce.[n][f 1 3 65535][w][e]
 
@@ -365,7 +365,7 @@
 [s][bup 0 103 504 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]...Aqui é a Indonésia Kopi Luwak.[n][f 1 3 65535][w][e]
 [s][bup 0 103 502 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Ei, esses feijões são caros.[n]Não os desperdice.[n][f 1 3 65535][w][e]
 
-[msg SYS_068_1_0 [Indonesia Kopi Luwak]]
+[msg SYS_068_1_0 [Kopi Luwak indonésio]]
 [s][vp 8 2 0 0 65535 0]Este café raro é feito de bagas de café que[n]passaram pelo trato digestivo da civeta asiática.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]Apesar de ser muito caro, Kopi Luwak[n]tem um aroma completo e um sabor rico,[n]graças às enzimas digestivas da civeta.[n][f 1 3 65535][w][e]
 
@@ -498,7 +498,7 @@
 [msg MND_135_1_0]
 [s][vp 8 2 0 94 65535 0]Acho que pratiquei o suficiente por hoje...[n][f 1 3 65535][w][e]
 
-[msg MSG_DEBUG [Debug]]
+[msg MSG_DEBUG [Depurando]]
 [s]Modo de Depuração[n][f 1 3 65535][w][e]
 
 [sel SEL_DEBUG top]
@@ -508,7 +508,7 @@
 [s]Morgana[e]
 [s]Sozinho[e]
 
-[msg MSG_DEBUG_2 [Debug]]
+[msg MSG_DEBUG_2 [Depurando]]
 [s]sojiro debug[n][f 1 3 65535][w][e]
 
 [sel SEL_DEBUG_2 top]

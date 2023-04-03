@@ -15,19 +15,19 @@
 [msg MSG_007_0_0 [Ryuji]]
 [s][bup 0 2 11 65535 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Ei! Ei, Shido-san![n][f 1 3 65535][w][e]
 
-[msg MSG_008_0_0 [Guardia del corpo]]
+[msg MSG_008_0_0 [Escolta]]
 [s][vp 8 0 0 12 10 0]Afaste-se![n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Ryuji]]
 [s][bup 0 2 11 65535 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Eu só quero falar com ele um segundo![n][f 1 3 65535][w][e]
 
-[msg MSG_010_0_0 [Guardia del corpo]]
+[msg MSG_010_0_0 [Escolta]]
 [s][vp 8 0 0 14 10 0]Ele é um homem ocupado![n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Ryuji]]
 [s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Que diabos?!? Ele não deveria[n]ouvir a opinião dos cidadãos?!?[n][f 1 3 65535][w][e]
 
-[msg MSG_012_0_0 [Guardia del corpo]]
+[msg MSG_012_0_0 [Escolta]]
 [s][vp 8 0 0 16 10 0]Chega, pirralho![n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Ryuji]]
@@ -36,7 +36,7 @@
 [msg MSG_014_0_0 [Ryuji]]
 [s][vp 8 0 0 18 65535 0]Oh, com licença. Então você pode[n]passar por todos porque[n]você está com pressa?[n][f 1 3 65535][w][e]
 
-[msg MSG_016_0_0 [Guardia del corpo]]
+[msg MSG_016_0_0 [Escolta]]
 [s][vp 8 0 0 20 10 0]Do que você está falando?[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Morgana]]
@@ -55,13 +55,13 @@
 [msg MND_020_5_0]
 [s][vp 8 0 0 0 65535 0]Essa voz...[n][f 1 3 65535][w][e]
 
-[msg MSG_020_7_0 [Uomo raffinato]]
+[msg MSG_020_7_0 [Homem refinado]]
 [s][vp 8 0 0 41 65535 0]A clientela diminuiu muito[n]desde a última vez que estive[n]aqui. Virou jardim de infância?[n][f 1 3 65535][w][e]
 
-[msg MSG_021_0_0 [homem bêbado]]
+[msg MSG_021_0_0 [Homem bêbado]]
 [s][vp 8 0 0 42 65535 0]Não há nada aqui para ver.[n]Cai fora, rapaz.[n][f 1 3 65535][w][e]
 
-[msg MSG_022_0_0 [homem bêbado]]
+[msg MSG_022_0_0 [Homem bêbado]]
 [s][vp 8 0 0 28 65535 0]Maldito pirralho! Estou processando você![n][f 1 3 65535][w][e]
 
 [msg MND_023_0_0]

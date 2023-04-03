@@ -53,13 +53,13 @@
 [msg MSG_017_0_0 [Ann]]
 [s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Com licença... Sou membro do[n]jornal escolar da minha escola.[n]Posso falar com você um segundo?[n][f 1 3 65535][w][e]
 
-[msg MSG_018_0_0 [Legislatore di mezza età]]
+[msg MSG_018_0_0 [Legislador de meia-idade]]
 [s][vp 8 0 0 20 15 0]Claro.[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Ann]]
 [s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]Que tipo de pessoa é[n]Rep. Shido? Qual é[n]sua opinião sobre a Dieta Nacional?[n][f 1 3 65535][w][e]
 
-[msg MSG_020_0_0 [Legislatore di mezza età]]
+[msg MSG_020_0_0 [Legislador de meia-idade]]
 [s][vp 8 0 0 22 15 0]Seu lema é "o país antes de[n]tudo", foi assim que ele[n]ganhou elogios.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 23 15 0]Ele é um admirável homem de ação com[n]uma determinação de aço.[n]Ele é um político modelo.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 24 15 0]Acredito que ele será capaz de criar um futuro[n]maravilhoso onde jovens como você possam viver[n]em paz.[n][f 1 3 65535][w][e]

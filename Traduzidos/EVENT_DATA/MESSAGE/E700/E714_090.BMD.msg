@@ -10,34 +10,34 @@
 [s][bup 0 109 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Obrigado por me dar[n]ótimos conselhos.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 109 7 300 65535][vp 8 0 0 0 65535 0]Achei que você deveria ser[n]o primeiro a saber...[n][f 1 3 65535][w][e]
 
-[msg MSG_003_0_0 [Voce di un'insegnante]]
+[msg MSG_003_0_0 [Voz de um professor]]
 [s][vp 8 0 0 0 65535 0]Senhorita Kawakami, você tem visitas.[n]Os Takases vieram...[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Kawakami]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 109 7 301 1][vp 8 2 0 15040 65535 0]Aqui? Na escola...?!?[n][f 1 3 65535][w][e]
 
-[msg MSG_005_0_0 [Parente di Takase]]
+[msg MSG_005_0_0 [Parente de Takase]]
 [s][vp 8 0 0 0 65535 0]Quanto tempo ele achou que[n]nos deixaria esperando?!?[n][f 1 3 65535][w][e]
 
-[msg MSG_006_0_0 [Parente di Takase]]
+[msg MSG_006_0_0 [Parente de Takase]]
 [s][vp 8 0 0 0 65535 0]Tsk, ele de novo?[n][f 1 3 65535][w][e]
 
 [sel SEL_007_0_0 top]
 [s]Estamos falando.[e]
 [s]Você pode jurar, bruxa.[e]
 
-[msg MSG_008_0_0 [Parente di Takase]]
+[msg MSG_008_0_0 [Parente de Takase]]
 [s][vp 8 0 0 0 65535 0]Que rude...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Tal professor, tal[n]aluno. É claro que[n]você não tem nenhuma educação.[n][f 1 3 65535][w][e]
 
-[msg MSG_009_0_0 [Parente di Takase]]
+[msg MSG_009_0_0 [Parente de Takase]]
 [s][vp 8 0 0 0 65535 0]Você achou que poderia nos ligar[n]como se nada tivesse acontecido e parar[n]de pagar? Quem ele pensa que é?[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Kawakami]]
 [s][bup 0 109 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 15165 65535 0]A decisão é minha,[n]pelo bem de Takase-kun.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vou garantir que não haja[n]outros alunos[n]como ele, que...[n][f 1 3 65535][w][e]
 
-[msg MSG_011_0_0 [Parente di Takase]]
+[msg MSG_011_0_0 [Parente de Takase]]
 [s][vp 8 0 0 0 65535 0]Então você quer lavar suas[n]mãos? Aposto que ela[n]nunca se interessou por Taiki![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Como ele ainda pode ensinar?[n]Talvez devêssemos[n]processar o Ministério da Educação![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Ela não se importa? Um professor[n]responsável pela morte de um[n]aluno causaria um escândalo.[n][f 1 3 65535][w][e]
@@ -48,7 +48,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]É a melhor maneira de[n]desculpar-se com Takase-kun.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Certamente[n]dar-lhe dinheiro[n]não é uma solução![n][f 1 3 65535][w][e]
 
-[msg MSG_013_0_0 [Parente di Takase]]
+[msg MSG_013_0_0 [Parente de Takase]]
 [s][vp 8 0 0 0 65535 0]Hmm...[n][f 1 3 65535][w][e]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 109 7 300 65535][vp 8 0 0 0 65535 0]Além de processá-la, talvez[n]eu devesse contar a todos[n]seu segredinho...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]...Sabe, estou falando do seu trabalho[n]no comércio sexual.[n][f 1 3 65535][w][e]
@@ -56,20 +56,20 @@
 [msg MSG_014_0_0 [Kawakami]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 109 7 301 1][vp 8 2 0 15040 65535 0]Como ele...?!?[n][f 1 3 65535][w][e]
 
-[msg MSG_015_0_0 [Parente di Takase]]
+[msg MSG_015_0_0 [Parente de Takase]]
 [s][vp 8 0 0 0 65535 0]Oh? Então estou certo, hein?[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Kawakami]]
 [s][bup 0 109 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O quê?!?[n][f 1 3 65535][w][e]
 
-[msg MSG_017_0_0 [Parente di Takase]]
+[msg MSG_017_0_0 [Parente de Takase]]
 [s][vp 8 0 0 0 65535 0]Vamos lá, o dinheiro que ela está nos pagando é[n]muito para o salário de um professor.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Então? Queremos ir para a[n]sala dos professores?[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Kawakami]]
 [s][bup 0 109 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Pare... por favor.[n][f 1 3 65535][w][e]
 
-[msg MSG_019_0_0 [Parente di Takase]]
+[msg MSG_019_0_0 [Parente de Takase]]
 [s][vp 8 0 0 0 65535 0]Ah! Um professor que trabalha na indústria do[n]sexo? Este tempo não tem esperança.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Pena que ele pensou[n]que poderia deixar[n]a questão do Taiki sem solução...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Agora você sabe o que tem que[n]fazer, não sabe?[n][f 1 3 65535][w][e]

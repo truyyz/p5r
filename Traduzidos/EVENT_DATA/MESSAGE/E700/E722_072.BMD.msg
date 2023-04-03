@@ -35,7 +35,7 @@
 [msg MSG_008_0_0 [Sumire]]
 [s][bup 0 10 820 0 0][f 4 10 65535 0 0][vp 8 2 0 57001 65535 0]Olá Treinador Higurachi![n][f 1 3 65535][w][e]
 
-[msg MSG_009_0_0 [Coach Higurachi]]
+[msg MSG_009_0_0 [Treinador Higurachi]]
 [s][bup 0 218 500 0 0][f 4 10 65535 0 0][vp 8 0 0 0 5 0]Sumire...?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 5 0]Talvez seja minha imaginação, mas...[n]você parece como costumava ser.[n][f 1 3 65535][w][e]
 
@@ -43,7 +43,7 @@
 [s][bup 0 10 823 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sim... Desculpe se te preocupei.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Hum, eu estava... eu estava fugindo do que[n]aconteceu com minha irmã.[n][f 1 3 65535][w][e]
 
-[msg MSG_011_0_0 [Coach Higurachi]]
+[msg MSG_011_0_0 [Treinador Higurachi]]
 [s][bup 0 218 500 0 0][f 4 10 65535 0 0][vp 8 0 0 0 5 0]...E então você percebeu.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 5 0]Você está bem agora?[n][f 1 3 65535][w][e]
 
@@ -52,30 +52,30 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu quero me tornar o melhor[n]do mundo...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Então, de agora em diante, farei o meu melhor[n]como Sumire.[n][f 1 3 65535][w][e]
 
-[msg MSG_013_0_0 [Coach Higurachi]]
+[msg MSG_013_0_0 [Treinador Higurachi]]
 [s][bup 0 218 501 0 0][f 4 10 65535 0 0][vp 8 0 0 0 5 0]Eu entendo...[n][f 1 3 65535][w][e]
 [s][bup 0 218 500 0 0][f 4 10 65535 0 0][vp 8 0 0 0 5 0]Enfim, quem é?[n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Sumire]]
 [s][bup 0 10 824 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Oh, uhm, ele é um senpai da escola.[n]Estamos aqui para uma aula.[n][f 1 3 65535][w][e]
 
-[msg MSG_015_0_0 [Coach Higurachi]]
+[msg MSG_015_0_0 [Treinador Higurachi]]
 [s][bup 0 218 500 0 0][f 4 10 65535 0 0][vp 8 0 0 0 5 0]Ah, então você é...[n][f 1 3 65535][w][e]
 
-[msg MSG_016_0_0 [Coach Higurachi]]
+[msg MSG_016_0_0 [Treinador Higurachi]]
 [s][bup 0 218 500 0 0][f 4 10 65535 0 0][vp 8 0 0 0 5 0]Bom. Você começa, Sumire. Você pode[n]começar com sua própria combinação.[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Sumire]]
 [s][bup 0 10 822 0 0][f 4 10 65535 0 0][vp 8 2 0 57174 65535 0]S-Sim senhora![n][f 1 3 65535][w][e]
 
-[msg MSG_018_0_0 [Uomo alto]]
+[msg MSG_018_0_0 [Homem alto]]
 [s][vp 8 0 0 0 7 0]Que lances espetaculares...[n][f 1 3 65535][w][e]
 
-[msg MSG_019_0_0 [Uomo in forma]]
+[msg MSG_019_0_0 [Homem em forma]]
 [s][vp 8 0 0 0 6 0]Que velocidade louca... Ela conseguiu[n]dominar aqueles[n]movimentos agressivos.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 6 0]Ela é igualzinha à irmã...[n][f 1 3 65535][w][e]
 
-[msg MSG_020_0_0 [Coach Higurachi]]
+[msg MSG_020_0_0 [Treinador Higurachi]]
 [s][bup 0 218 500 0 0][vp 1 0 0 0 0 0]......[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 5 0]OK, faça uma pausa.[n]Continuaremos mais tarde.[n][f 1 3 65535][w][e]
 
@@ -86,17 +86,17 @@
 [s][bup 0 10 820 0 0][f 4 10 65535 0 0][vp 8 2 0 57169 65535 0]Hum, treinador Higurachi... Obrigado[n]por me ajudar hoje.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Então... como eu fiz? Eu[n]tentei dar[n]força à combinação.[n][f 1 3 65535][w][e]
 
-[msg MSG_023_0_0 [Coach Higurachi]]
+[msg MSG_023_0_0 [Treinador Higurachi]]
 [s][bup 0 218 502 0 0][vp 1 0 0 0 0 0]......[n][f 1 3 65535][w][e]
 
-[msg MSG_024_0_0 [Coach Higurachi]]
+[msg MSG_024_0_0 [Treinador Higurachi]]
 [s][bup 0 218 502 0 0][f 4 10 65535 0 0][vp 8 0 0 0 5 0]Você disse que desta vez[n]iria atuar como Sumire.[n]Não parecia nem um pouco.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 5 0]Eu só vi Kasumi...[n]A sombra dela, pelo menos.[n][f 1 3 65535][w][e]
 
 [msg MSG_025_0_0 [Sumire]]
 [s][bup 0 10 823 0 0][f 4 10 65535 0 0][vp 8 2 0 57181 65535 0]O-O quê...?[n][f 1 3 65535][w][e]
 
-[msg MSG_026_0_0 [Coach Higurachi]]
+[msg MSG_026_0_0 [Treinador Higurachi]]
 [s][bup 0 218 502 0 0][f 4 10 65535 0 0][vp 8 0 0 0 5 0]As performances de Kasumi foram[n]brass, sim. Mas[n]não é algo que pertence a você.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 5 0]Veio da energia dentro dela.[n]Foi isso que a tornou Kasumi.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 5 0]Eu disse para você pensar sobre quem você[n]realmente é. Parece que você ainda não acertou.[n][f 1 3 65535][w][e]
@@ -104,14 +104,14 @@
 [msg MSG_027_0_0 [Sumire]]
 [s][bup 0 10 823 0 0][vp 1 0 0 0 0 0]......[n][f 1 3 65535][w][e]
 
-[msg MSG_028_0_0 [Coach Higurachi]]
+[msg MSG_028_0_0 [Treinador Higurachi]]
 [s][bup 0 218 502 0 0][f 4 10 65535 0 0][vp 8 0 0 0 5 0]Você precisa parar de se esconder[n]atrás de Kasumi.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 5 0]Se você continuar negando a si mesmo,[n]como você pode se considerar seu rival?[n][f 1 3 65535][w][e]
 
 [msg MSG_029_0_0 [Sumire]]
 [s][bup 0 10 824 0 0][f 4 10 65535 0 0][vp 8 2 0 57064 65535 0]Huh? E o que você gostaria com isso...?[n][f 1 3 65535][w][e]
 
-[msg MSG_030_0_0 [Coach Higurachi]]
+[msg MSG_030_0_0 [Treinador Higurachi]]
 [s][bup 0 218 501 0 0][f 4 10 65535 0 0][vp 8 0 0 0 5 0]Eu nunca quis apontar isso,[n]mas Kasumi era muito competitiva.[n]Ela odiava perder.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 5 0]Ele sempre me disse...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 5 0]Ela invejava o estilo delicado e elegante de sua[n]irmãzinha. "Não posso perder para ela", dizia[n]ele. Ele queria que eu o visse.[n][f 1 3 65535][w][e]
@@ -120,13 +120,13 @@
 [s][bup 0 10 824 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ela... Ela disse isso?[n][f 1 3 65535][w][e]
 [s][bup 0 10 823 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 6 38 5 100]I-impossível. Kasumi era capaz[n]de qualquer coisa, e eu...eu não era nada...[n][f 1 3 65535][w][e]
 
-[msg MSG_032_0_0 [Coach Higurachi]]
+[msg MSG_032_0_0 [Treinador Higurachi]]
 [s][bup 0 218 500 0 0][f 4 10 65535 0 0][vp 8 0 0 0 5 0]Eu disse tudo o que queria dizer a você. Mas[n]sugiro que você pense mais sobre isso.[n][f 1 3 65535][w][e]
 
 [msg MSG_033_0_0 [Sumire]]
 [s][bup 0 10 823 0 0][vp 1 0 0 0 0 0]......[n][f 1 3 65535][w][e]
 
-[msg MSG_034_0_0 [Coach Higurachi]]
+[msg MSG_034_0_0 [Treinador Higurachi]]
 [s][bup 0 218 500 0 0][f 4 10 65535 0 0][vp 8 0 0 0 5 0]OK, é a sua vez agora! Prepare-se![n][f 1 3 65535][w][e]
 
 [msg MSG_035_0_0 [Sumire]]

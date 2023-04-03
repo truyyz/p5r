@@ -1,10 +1,10 @@
-[msg MSG_000_0_0 [Impiegato stanco]]
+[msg MSG_000_0_0 [Empregado cansado]]
 [s][vp 8 0 0 1 19 0]O que foi isso?!?[n][f 1 3 65535][w][e]
 
-[msg MSG_002_0_0 [Uomo alla moda]]
+[msg MSG_002_0_0 [Homem estiloso]]
 [s][vp 8 0 0 3 13 0]A-A cidade...[n][f 1 3 65535][w][e]
 
-[msg MSG_003_0_0 [Impiegato stanco]]
+[msg MSG_003_0_0 [Empregado cansado]]
 [s][vp 8 0 0 4 19 0]O-O que está acontecendo?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Yusuke]]

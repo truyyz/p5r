@@ -16,14 +16,14 @@
 [msg MSG_004_0_0 [(SE)主人公]]
 [s][vp 8 0 0 6 65535 0]ハァ、ハァ、ハァ(ひどく荒い息遣い)[n][f 1 3 65535][w][e]
 
-[msg MSG_005_0_0 [Uomo misterioso]]
+[msg MSG_005_0_0 [Homem misterioso]]
 [s][vp 8 0 0 7 65535 0]...Deixe-me esclarecer uma coisa.[n][f 1 3 65535][w][e]
 
-[msg MSG_006_0_0 [Uomo misterioso]]
+[msg MSG_006_0_0 [Homem misterioso]]
 [s][vp 8 0 0 8 65535 0]Aquele senso de justiça vazio que[n]você estava exibindo...?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 9 65535 0]Este é o fim de[n]tamanha idiotice.[n][f 1 3 65535][w][e]
 
-[msg MSG_007_0_0 [Uomo misterioso]]
+[msg MSG_007_0_0 [Homem misterioso]]
 [s][vp 8 0 0 10 65535 0]...Adeus.[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Igor]]

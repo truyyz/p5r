@@ -11,7 +11,7 @@
 [msg MSG_003_0_0 [Ann]]
 [s][bup 0 4 104 65535 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Abriu![n][f 1 3 65535][w][e]
 
-[msg MSG_004_0_0 [Navigatore del Metaverso]]
+[msg MSG_004_0_0 [Navegador do Metaverso]]
 [s][vp 8 0 0 6 65535 0]Uma nova área foi detectada[n]nas profundezas. Informações atualizadas[n]de orientação.[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Morgana]]

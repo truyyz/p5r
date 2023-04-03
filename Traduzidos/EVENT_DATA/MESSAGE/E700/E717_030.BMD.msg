@@ -1,29 +1,29 @@
-[msg MSG_000_0_0 [Fan insistente]]
+[msg MSG_000_0_0 [Fã insistente]]
 [s][vp 8 0 0 0 65535 0]Obrigado pelo aperto de mão![n]Não vou mais lavar![n][f 1 3 65535][w][e]
 
 [msg MSG_000_5_0 [Hifumi]]
 [s][bup 0 106 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 18024 65535 0]...Hã? Hum, lave, por favor.[n][f 1 3 65535][w][e]
 
-[msg MSG_001_0_0 [Fan insistente]]
+[msg MSG_001_0_0 [Fã insistente]]
 [s][vp 8 0 0 0 65535 0]Não acredito que você[n]está realmente aqui, em uma igreja...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Eu li online que você confia em Deus para vencer.[n]É isso mesmo?[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Hifumi]]
 [s][bup 0 106 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não...[n][f 1 3 65535][w][e]
 
-[msg MSG_003_0_0 [Fan insistente]]
+[msg MSG_003_0_0 [Fã insistente]]
 [s][vp 8 0 0 0 65535 0]Posso tirar uma selfie com[n]você e postar online?[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Hifumi]]
 [s][bup 0 106 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Me desculpe, mas eu sempre recuso[n]esse tipo de pedido...[n][f 1 3 65535][w][e]
 
-[msg MSG_005_0_0 [Fan insistente]]
+[msg MSG_005_0_0 [Fã insistente]]
 [s][vp 8 0 0 0 65535 0]De qualquer forma, é verdade que você está[n]tentando se tornar um[n]jogador shogi profissional?[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Hifumi]]
 [s][bup 0 106 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bem, isso ainda é tudo...[n][f 1 3 65535][w][e]
 
-[msg MSG_007_0_0 [Fan insistente]]
+[msg MSG_007_0_0 [Fã insistente]]
 [s][vp 8 0 0 0 65535 0]Vou torcer pela sua qualificação![n]Você seria a primeira mulher a passar[n]3º dan![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Eu acredito em você![n][f 1 3 65535][w][e]
 

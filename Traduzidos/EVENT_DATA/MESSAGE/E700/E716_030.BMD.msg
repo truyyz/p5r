@@ -30,20 +30,20 @@
 [s][bup 0 110 3 0 0][f 4 10 65535 0 0][vp 8 2 0 17026 65535 0]É chato ter que[n]cuidar de você o tempo todo,[n]mas...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Talvez eu pudesse pedir aos[n]Phantom Thieves para lidar com eles...[n][f 1 3 65535][w][e]
 
-[msg MSG_012_0_0 [Bambino in lacrime]]
+[msg MSG_012_0_0 [Criança em lágrimas]]
 [s][vp 8 0 0 0 65535 0]*soluço* *soluço*[n][f 1 3 65535][w][e]
 
-[msg MSG_013_0_0 [Madre affettuosa]]
+[msg MSG_013_0_0 [Mãe amorosa]]
 [s][vp 8 0 0 0 65535 0]A comida está na mesa,[n]querida.[n][f 1 3 65535][w][e]
 
-[msg MSG_014_0_0 [Madre affettuosa]]
+[msg MSG_014_0_0 [Mãe amorosa]]
 [s][vp 8 0 0 0 65535 0]Bem, hoje você perdeu...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Isso significa que da próxima[n]vez você terá que se esforçar mais.[n]Agora coma e você se sentirá melhor.[n][f 1 3 65535][w][e]
 
-[msg MSG_015_0_0 [Bambino in lacrime]]
+[msg MSG_015_0_0 [Criança em lágrimas]]
 [s][vp 8 0 0 0 65535 0]...Você não está bravo?[n][f 1 3 65535][w][e]
 
-[msg MSG_016_0_0 [Madre affettuosa]]
+[msg MSG_016_0_0 [Mãe amorosa]]
 [s][vp 8 0 0 0 65535 0]Claro que não. Você deu o seu[n]melhor, isso é o que importa.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Agora pare de chorar.[n][f 1 3 65535][w][e]
 

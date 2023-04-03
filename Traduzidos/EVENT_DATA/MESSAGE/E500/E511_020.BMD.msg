@@ -12,7 +12,7 @@
 [msg MSG_003_0_0 [Sojiro]]
 [s][bup 0 103 1 0 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]E também espero que você continue[n]se dando bem[n]com Futaba e comigo.[n][f 1 3 65535][w][e]
 
-[msg MSG_004_0_0 [Cliente Idoso]]
+[msg MSG_004_0_0 [Cliente inadimplente]]
 [s][vp 8 0 0 5 6 0]Estamos muito gratos[n]por abrir o restaurante[n]novamente hoje.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 6 6 0]As coisas que passam na TV[n]no réveillon são sempre as mesmas[n]velhas...[n][f 1 3 65535][w][e]
 
@@ -22,7 +22,7 @@
 [msg MSG_006_0_0 [Sojiro]]
 [s][bup 0 103 1 0 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Eu poderia cozinhar um pouco, contanto que você[n]se sirva e pague sua conta antes de sair.[n][f 1 3 65535][w][e]
 
-[msg MSG_007_0_0 [Cliente Idoso]]
+[msg MSG_007_0_0 [Cliente inadimplente]]
 [s][vp 8 0 0 9 6 0]Ah certo, haha. Você certamente não pode[n]fazer planos quando[n]já existem clientes.[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Cliente Idosa]]
@@ -31,20 +31,20 @@
 [msg MSG_009_0_0 [Sojiro]]
 [s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Escolha sábia.[n][f 1 3 65535][w][e]
 
-[msg MSG_011_0_0 [Tipo muscoloso]]
+[msg MSG_011_0_0 [Tipo musculoso]]
 [s][bup 0 3 801 65535 0][f 4 10 65535 0 0][vp 8 0 0 13 8 0]Feliz Ano Novo! É assim[n]que você diz hoje, certo?[n][f 1 3 65535][w][e]
 
 [sel SEL_012_0_0 top]
 [s]Me desculpe, mas quem é você?[e]
 [s]É um prazer conhecer você.[e]
 
-[msg MSG_013_0_0 [Tipo muscoloso]]
+[msg MSG_013_0_0 [Tipo musculoso]]
 [s][bup 0 3 804 0 0][f 4 10 65535 0 0][vp 8 0 0 14 8 0]Quem sou eu?[n][f 1 3 65535][w][e]
 
-[msg MSG_014_0_0 [Tipo muscoloso]]
+[msg MSG_014_0_0 [Tipo musculoso]]
 [s][bup 0 3 803 0 0][f 4 10 65535 0 0][vp 8 0 0 15 8 0]Foi um prazer... Ei, do que[n]você está falando?[n][f 1 3 65535][w][e]
 
-[msg MSG_015_0_0 [Tipo muscoloso]]
+[msg MSG_015_0_0 [Tipo musculoso]]
 [s][bup 0 3 801 0 0][f 4 10 65535 0 0][vp 8 0 0 16 8 0]Você ainda está meio dormindo[n]ou o quê?[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Futaba]]
@@ -68,7 +68,7 @@
 [s][bup 0 8 252 65535 0][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Me desculpe, eu não quero me atrasar[n]no santuário. Continuaremos mais tarde.[n][f 1 3 65535][w][e]
 [s][bup 0 8 251 65535 0][f 4 10 65535 0 0][f 4 24 0 9 6 36 5 100][vp 8 0 0 23 65535 0]Bem, hora de fazer as malas![n][f 1 3 65535][w][e]
 
-[msg MSG_022_0_0 [Cliente Idoso]]
+[msg MSG_022_0_0 [Cliente inadimplente]]
 [s][vp 8 0 0 24 6 0]Primeira visita do ano[n]ao santuário, hein? Na sua opinião[n]o que devemos fazer?[n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Cliente Idosa]]

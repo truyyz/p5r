@@ -78,7 +78,7 @@
 [msg MSG_024_0_0 [Makoto]]
 [s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 28 65535 0]Desculpe, desculpe, desculpe![n]Irmã, salve-me, por favor...[n][f 1 3 65535][w][e]
 
-[msg MSG_025_0_0 [Voce di Sojiro]]
+[msg MSG_025_0_0 [A voz do sojiro]]
 [s][vp 8 0 0 29 65535 0]Tudo bem, Futaba?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_026_0_0 [Ryuji]]

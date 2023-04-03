@@ -22,20 +22,20 @@
 [s][f 4 10 65535 0 0][f 4 24 0 4 0 37 3 100][f 4 24 0 4 0 0 5 100][vp 8 0 0 0 65535 0]O que mais, senão como fazer[n]café? Sou muito exigente[n]sobre como fazemos isso aqui.[n][f 1 3 65535][w][e]
 [s][bup 0 103 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E se você servir um café ruim,[n]eu te chuto para fora do caminho sem[n]criar muito problema, ok?[n][f 1 3 65535][w][e]
 
-[msg MSG_005_0_0 [Cliente rozza]]
+[msg MSG_005_0_0 [Cliente áspero]]
 [s][vp 8 0 0 0 65535 0]So-chan com certeza sabe como[n]fazer café.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]O que também vai muito bem com seu[n]caril especial... Tanto que[n]eu sempre peço o menu fixo.[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Sojiro]]
 [s][bup 0 103 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O que posso dizer... Para meus[n]clientes regulares, reservo uma experiência[n]sob medida.[n][f 1 3 65535][w][e]
 
-[msg MSG_007_0_0 [Cliente rozza]]
+[msg MSG_007_0_0 [Cliente áspero]]
 [s][vp 8 0 0 0 65535 0]Qual é o segredo desse gosto[n]celestial, So-chan? Eu gostaria[n]de fazer assim em casa.[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Sojiro]]
 [s][bup 0 103 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sinto muito, é um[n]segredo comercial. Mas você pode[n]adivinhar pelo sabor.[n][f 1 3 65535][w][e]
 
-[msg MSG_008_1_0 [Cliente rozza]]
+[msg MSG_008_1_0 [Cliente áspero]]
 [s][vp 8 0 0 0 65535 0]Não está certo. Você sabe que sua comida[n]roubou meu coração e ainda assim[n]você a esconde de mim.[n][f 1 3 65535][w][e]
 
 [msg MSG_008_3_0 [Sojiro]]
@@ -51,17 +51,17 @@
 [msg MSG_010_0_0 [Sojiro]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 103 7 300 1][vp 8 2 0 5041 65535 0]Ela...![n][f 1 3 65535][w][e]
 
-[msg MSG_011_0_0 [Anziano allegro]]
+[msg MSG_011_0_0 [Velho alegre]]
 [s][vp 8 0 0 0 65535 0]Ei! Há muito tempo[n]não vejo, Sakura-san![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Ouvi dizer que ele abriu[n]um clube, então...aqui estou![n]Ele poderia ter me contado.[n][f 1 3 65535][w][e]
 
-[msg MSG_012_0_0 [Anziano allegro]]
+[msg MSG_012_0_0 [Velho alegre]]
 [s][vp 8 0 0 0 65535 0]Uh, que lugarzinho legal.[n]Também perto da estação...[n]Bom, bom.[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Sojiro]]
 [s][bup 0 103 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O que você pede?[n][f 1 3 65535][w][e]
 
-[msg MSG_014_0_0 [Anziano allegro]]
+[msg MSG_014_0_0 [Velho alegre]]
 [s][vp 8 0 0 0 65535 0]Sem gentilezas? De que maneiras.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Ah, esse perfume... Quantas[n]memórias! Ainda fazendo seu[n]curry, hein?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Acho que ele ainda não[n]esqueceu aquela mulher...[n][f 1 3 65535][w][e]
@@ -69,7 +69,7 @@
 [msg MSG_015_0_0 [Sojiro]]
 [s][bup 0 103 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Pedir algo senhor?[n][f 1 3 65535][w][e]
 
-[msg MSG_016_0_0 [Anziano allegro]]
+[msg MSG_016_0_0 [Velho alegre]]
 [s][vp 8 0 0 0 65535 0]Haha, como estamos mal-humorados.[n]Eu só vim dizer olá...[n]Mas volto em breve. Adeus![n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Sojiro]]

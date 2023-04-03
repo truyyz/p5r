@@ -26,7 +26,7 @@
 [s][bup 0 10 100 0 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]A Sombra que nos confrontou[n]na entrada nos perguntou[n]"Por que você persegue o sofrimento?"[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Eu me lembro, da última vez que[n]estive aqui, ouvi[n]palavras semelhantes de outra Sombra.[n][f 1 3 65535][w][e]
 
-[msg DVL_008_0_0 [Entità mostruosa]]
+[msg DVL_008_0_0 [Entidade monstruosa]]
 [s][vp 8 0 0 11 65535 0]Aceite-se... Nosso[n]senhor lamenta a loucura[n]nascida de sua dor.[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Kasumi]]

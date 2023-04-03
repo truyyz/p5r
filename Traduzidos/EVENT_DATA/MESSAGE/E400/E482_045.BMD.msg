@@ -1,4 +1,4 @@
-[msg MSG_000_0_0 [Assistente alla regia esperto]]
+[msg MSG_000_0_0 [Assistente de direção experiente]]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Lá vem o Sr. Akechi![n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [(SE)女子高生の声A]]
@@ -10,11 +10,11 @@
 [msg MSG_003_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não é o cara que vimos ontem?[n][f 1 3 65535][w][e]
 
-[msg MSG_004_0_0 [Assistente alla regia esperto]]
+[msg MSG_004_0_0 [Assistente de direção experiente]]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Retomamos a linha![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sete, seis, cinco segundos[n]em movimento, quatro, três...[n][f 1 3 65535][w][e]
 
-[msg MSG_005_0_0 [Presentatrice carina]]
+[msg MSG_005_0_0 [Linda apresentadora]]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]É hora da nossa coluna[n]Conheça uma estrela...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Após o sucesso da última vez,[n]decidimos hospedar[n]novamente um verdadeiro cavalheiro...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Estamos falando do estudante[n]detetive, Goro Akechi![n][f 1 3 65535][w][e]
@@ -22,26 +22,26 @@
 [msg MSG_006_0_0 [Akechi]]
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Olá a todos.[n][f 1 3 65535][w][e]
 
-[msg MSG_007_0_0 [Presentatore brillante]]
+[msg MSG_007_0_0 [Brilhante apresentador]]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Obrigado por estar aqui[n]conosco, Akechi-kun.[n]Sua popularidade está disparando.[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Akechi]]
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Acho bastante[n]surpreendente... E também[n]um pouco embaraçoso...[n][f 1 3 65535][w][e]
 
-[msg MSG_009_0_0 [Presentatrice carina]]
+[msg MSG_009_0_0 [Linda apresentadora]]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas vamos direto ao ponto. Nós[n]entendemos que você está[n]em um caso. Quer nos contar sobre isso?[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Akechi]]
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Oh sim. Este é o escândalo[n]que envolveu o grande[n]artista Madarame.[n][f 1 3 65535][w][e]
 
-[msg MSG_011_0_0 [Presentatore brillante]]
+[msg MSG_011_0_0 [Brilhante apresentador]]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ah, aqui! O hype em torno dos[n]Phantom Thieves chamou[n]sua atenção também, Akechi-kun![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Deixe-me fazer uma pergunta.[n]O que você acha desses Phantom[n]Thievess dedicados à justiça?[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Akechi]]
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Se eles realmente são heróis[n]a serviço da justiça, espero que[n]eles realmente existam. Sério.[n][f 1 3 65535][w][e]
 
-[msg MSG_013_0_0 [Presentatore brillante]]
+[msg MSG_013_0_0 [Brilhante apresentador]]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Oooh, então você não nega a[n]possibilidade de que eles sejam reais?[n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Akechi]]
@@ -55,7 +55,7 @@
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]No entanto, pensando em um[n]nível hipotético, se esses Phantom Thieves[n]realmente existissem...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu acho que eles deveriam[n]ir a julgamento.[n][f 1 3 65535][w][e]
 
-[msg MSG_017_0_0 [Presentatore brillante]]
+[msg MSG_017_0_0 [Brilhante apresentador]]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Uma afirmação forte. Então[n]eles estão cometendo crimes?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Alguns até afirmam que[n]ladrões estão ajudando[n]suas vítimas a se redimirem.[n][f 1 3 65535][w][e]
 
@@ -64,7 +64,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]No entanto, esses indivíduos[n]arrogaram-se o direito de[n]julgá-lo. Isso não é justiça.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas acima de tudo, nunca se deve[n]obrigar ninguém a se arrepender,[n]a ter um "despertar do coração".[n][f 1 3 65535][w][e]
 
-[msg MSG_019_0_0 [Presentatore brillante]]
+[msg MSG_019_0_0 [Brilhante apresentador]]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você não está totalmente errado. Por outro lado[n]essas pessoas se autodenominam[n]"Phantom Thieves".[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Fantástico como sempre, Akechi-kun![n]Eu poderia ouvir você por horas![n]Você tem um carisma extraordinário![n][f 1 3 65535][w][e]
 
@@ -72,21 +72,21 @@
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]No entanto, admito que seria[n]embaraçoso, se descobrisse que[n]Phantom Thieves não existem.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Nesse caso, eu resumiria tudo[n]em um relatório para publicar[n]como um projeto escolar.[n][f 1 3 65535][w][e]
 
-[msg MSG_021_0_0 [Presentatrice carina]]
+[msg MSG_021_0_0 [Linda apresentadora]]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bem, agora vamos perguntar aos alunos de[n]Akechi-kun colegas por sua opinião sobre os[n]Phantom Thieves![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Aperte o botão se você acredita[n]na existência de Phantom Thieves![n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Claro que existem![n][f 1 3 65535][w][e]
 
-[msg MSG_023_0_0 [Presentatore brillante]]
+[msg MSG_023_0_0 [Brilhante apresentador]]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]30%?[n]O que você acha, Akechi-kun?[n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [Akechi]]
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Estou surpreso. Eu não esperava[n]uma porcentagem tão alta.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu gostaria de ouvir uma[n]opinião mais aprofundada[n]sobre as ações dos Phantom Thieves.[n][f 1 3 65535][w][e]
 
-[msg MSG_025_0_0 [Presentatrice carina]]
+[msg MSG_025_0_0 [Linda apresentadora]]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bem, vamos tentar perguntar[n]este aluno.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O que você acha desses[n]Phantom Thieves, se eles[n]existirem?[n][f 1 3 65535][w][e]
 
@@ -104,7 +104,7 @@
 [msg MSG_029_0_0 [Akechi]]
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Hahaha.[n][f 1 3 65535][w][e]
 
-[msg MSG_030_0_0 [Presentatore brillante]]
+[msg MSG_030_0_0 [Brilhante apresentador]]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Esta opinião parece[n]discordar[n]da sua, Akechi-kun.[n][f 1 3 65535][w][e]
 
 [msg MSG_031_0_0 [Akechi]]
@@ -130,7 +130,7 @@
 [msg MSG_036_0_0 [Akechi]]
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Quer as ações dos Ladrões sejam boas[n]ou não, acho que[n]o verdadeiro problema é outro.[n][f 1 3 65535][w][e]
 
-[msg MSG_037_0_0 [Presentatore brillante]]
+[msg MSG_037_0_0 [Brilhante apresentador]]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Hum? O que você quer dizer?[n][f 1 3 65535][w][e]
 
 [msg MSG_038_0_0 [Akechi]]
@@ -138,7 +138,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Se eles realmente tivessem essa[n]habilidade... eles também poderiam usá-la[n]para fazer algo diferente.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Pode ser que crimes que[n]parecem normais para nós sejam realmente[n]cometidos dessa maneira...[n][f 1 3 65535][w][e]
 
-[msg MSG_039_0_0 [Presentatore brillante]]
+[msg MSG_039_0_0 [Brilhante apresentador]]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você tem toda razão, sabia?[n][f 1 3 65535][w][e]
 
 [msg MSG_040_0_0 [Akechi]]

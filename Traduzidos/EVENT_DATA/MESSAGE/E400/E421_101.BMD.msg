@@ -7,10 +7,10 @@
 [msg MSG_002_0_0 [Hifumi]]
 [s][bup 0 106 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Você tem a vitória em seu bolso.[n][f 1 3 65535][w][e]
 
-[msg MSG_003_0_0 [Studentessa entusiasta]]
+[msg MSG_003_0_0 [Estudante entusiasta]]
 [s][vp 8 0 0 4 5 0]Isso não é loucura?!? Os Phantom Thieves[n]são loucos![n][f 1 3 65535][w][e]
 
-[msg MSG_004_0_0 [Amica della studentessa]]
+[msg MSG_004_0_0 [Amigo do aluno]]
 [s][vp 8 0 0 5 6 0]Ufa, eu deveria ter vindo para casa[n]imediatamente! Então eu o veria pessoalmente em[n]Shibuya![n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Kawakami]]
@@ -19,11 +19,11 @@
 [msg MSG_006_0_0 [Chihaya]]
 [s][bup 0 113 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]É quase como se estivéssemos todos[n]orando pelos Phantom Thieves.[n][f 1 3 65535][w][e]
 
-[msg MSG_007_0_0 [Uomo esigente]]
+[msg MSG_007_0_0 [Homem exigente]]
 [s][vp 8 0 0 8 65535 0]Ei, não havia um boato de que[n]os Phantom Thieves[n]estavam matando pessoas?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 9 65535 0]Eu sabia que eles eram maus[n]assim que a história saiu.[n]Aposto que eles são criminosos.[n][f 1 3 65535][w][e]
 
-[msg MSG_008_0_0 [Fidanzata frivola]]
+[msg MSG_008_0_0 [Namorada frívola]]
 [s][vp 8 0 0 10 65535 0]Oooh, claro. É terrível![n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Takemi]]

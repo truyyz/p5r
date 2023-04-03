@@ -1,4 +1,4 @@
-[msg MSG_000_0_0 [Navigatore del Metaverso]]
+[msg MSG_000_0_0 [Navegador do Metaverso]]
 [s][vp 8 0 0 1 65535 0]Você voltou ao mundo real.[n]Bem-vindo de volta.[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Ryuji]]

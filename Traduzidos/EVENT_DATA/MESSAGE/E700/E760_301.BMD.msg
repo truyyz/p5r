@@ -10,6 +10,6 @@
 [msg MSG_304_0_0 [Futaba]]
 [s][vp 8 2 0 9053 65535 0]Vejo você amanhã! Aquele curry[n]foi a bomba![n][f 1 3 65535][w][e]
 
-[msg MSG_000_0_0 [DEBUG]]
+[msg MSG_000_0_0 [DEPURAR]]
 [s]デバッグ機能使用中[n]ジャンプします。[n][f 1 3 65535][w][e]
 

@@ -102,7 +102,7 @@
 [msg MSG_024_0_0 [Maruki]]
 [s][bup 0 216 904 65535 0][f 4 10 65535 0 0][vp 8 0 0 42 65535 0]Não se preocupe,[n]pedi ajuda![n][f 1 3 65535][w][e]
 
-[msg MSG_025_0_0 [Dottore]]
+[msg MSG_025_0_0 [Doutor]]
 [s][vp 8 0 0 43 5 0]...Acho que foi[n]uma crise pós-traumática.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 44 5 0]Alguma memória do acidente deve ter ressurgido[n]como resultado de algum estímulo visual ou[n]verbal.[n][f 1 3 65535][w][e]
 

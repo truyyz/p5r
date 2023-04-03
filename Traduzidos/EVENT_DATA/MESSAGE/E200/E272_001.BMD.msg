@@ -1,4 +1,4 @@
-[msg MSG_000_0_0 [Reporter]]
+[msg MSG_000_0_0 [Repórter]]
 [s][vp 8 0 0 1 65535 0]...Aqui está a mensagem que foi[n]publicada no site Medjed.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 2 65535 0]"Para os Phantom Thieves, que[n]estão transformando o Japão em turbulência:[n]a sua é uma falsa justiça."[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 3 65535 0]"Não precisamos de suas mentiras. Somos os[n]verdadeiros executores da justiça".[n][f 1 3 65535][w][e]
@@ -6,7 +6,7 @@
 [msg MSG_000_5_0 [Sojiro]]
 [s][bup 0 103 2 0 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]Os ladrões fantasmas de novo...?[n][f 1 3 65535][w][e]
 
-[msg MSG_004_5_0 [Reporter]]
+[msg MSG_004_5_0 [Repórter]]
 [s][vp 8 0 0 5 65535 0]"No entanto, seremos magnânimos.[n]Daremos a você a oportunidade[n]de se arrepender."[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 6 65535 0]"Se você concorda com um despertar[n]do coração, pode se juntar a nós."[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 7 65535 0]"Mas se você recusar, o martelo[n]da justiça cairá sobre você".[n][f 1 3 65535][w][e]
@@ -14,7 +14,7 @@
 [msg MSG_005_0_0 [Sojiro]]
 [s][bup 0 103 2 0 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Justiça, né?[n][f 1 3 65535][w][e]
 
-[msg MSG_006_0_0 [Reporter]]
+[msg MSG_006_0_0 [Repórter]]
 [s][vp 8 0 0 9 65535 0]"Somos Medjed.[n]Somos invisíveis. Somos[n]aqueles que eliminarão o mal".[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 10 65535 0]Akechi-san, o que você acha?[n]Por que postar este anúncio[n]agora?[n][f 1 3 65535][w][e]
 
@@ -23,7 +23,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Não sei dizer se é[n]rivalidade ou simples busca[n]de popularidade...[n][f 1 3 65535][w][e]
 [s][bup 0 9 2 2 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]De qualquer maneira, é uma verdadeira dor de[n]cabeça.[n][f 1 3 65535][w][e]
 
-[msg MSG_007_3_0 [Reporter]]
+[msg MSG_007_3_0 [Repórter]]
 [s][vp 8 0 0 14 65535 0]Um aborrecimento?[n][f 1 3 65535][w][e]
 
 [msg MSG_007_5_0 [Akechi]]

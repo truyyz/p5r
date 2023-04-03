@@ -31,22 +31,22 @@
 [msg MSG_009_0_0 [Ryuji]]
 [s][bup 0 2 2 3 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Pare com isso![n]A-Ainda não sabemos![n][f 1 3 65535][w][e]
 
-[msg MSG_010_0_0 [Donna con yukata rosa]]
+[msg MSG_010_0_0 [Mulher com yukata rosa]]
 [s][vp 8 0 0 12 65535 0]Você vai ao[n]festival de fogos de artifício?[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Yusuke]]
 [s][bup 0 5 400 65535 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Isso mesmo.[n][f 1 3 65535][w][e]
 
-[msg MSG_012_0_0 [Donna con yukata nero]]
+[msg MSG_012_0_0 [Mulher com yukata preto]]
 [s][vp 8 0 0 14 65535 0]Nós também! Vamos juntos?[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Ryuji]]
 [s][bup 0 2 4 3 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Estamos... ficando viciados?!?[n][f 1 3 65535][w][e]
 
-[msg MSG_014_0_0 [Donna con yukata rosa]]
+[msg MSG_014_0_0 [Mulher com yukata rosa]]
 [s][vp 8 0 0 16 65535 0]Venha, venha conosco.[n][f 1 3 65535][w][e]
 
-[msg MSG_015_0_0 [Donna con yukata nero]]
+[msg MSG_015_0_0 [Mulher com yukata preto]]
 [s][vp 8 0 0 17 65535 0]Por acaso você é modelo?[n]Você fica linda nesse yukata.[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Ryuji]]

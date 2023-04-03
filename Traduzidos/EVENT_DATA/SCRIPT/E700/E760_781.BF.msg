@@ -557,14 +557,14 @@
 [msg MND_GAME_END_NULL_DAY]
 [s][vp 8 2 0 57 65535 0]Hum, talvez eu deva fazer uma pausa.[n]Acho que joguei demais...[n][f 1 3 65535][w][e]
 
-[msg MSG_DEBUG [for debug]]
+[msg MSG_DEBUG [Para depuração]]
 [s][vp 8 2 0 0 65535 0]Modo de Depuração[n][f 1 3 65535][w][e]
 
 [sel SEL_DEBUG top]
 [s]com morgana[e]
 [s]sem morgana[e]
 
-[msg MSG_DEBUG_2 [for debug]]
+[msg MSG_DEBUG_2 [Para depuração]]
 [s][vp 8 2 0 0 65535 0]Modo de Depuração[n][f 1 3 65535][w][e]
 
 [sel SEL_DEBUG_2 top]
@@ -573,7 +573,7 @@
 [s]Rota 3[e]
 [s]Caminho 4[e]
 
-[msg MSG_DEBUG_3 [for debug]]
+[msg MSG_DEBUG_3 [Para depuração]]
 [s][vp 8 2 0 0 65535 0]Modo de Depuração[n][f 1 3 65535][w][e]
 
 [sel SEL_DEBUG_3 top]

@@ -22,14 +22,14 @@
 [msg MSG_007_0_0 [Ryuji]]
 [s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]O que...[n][f 1 3 65535][w][e]
 
-[msg MSG_008_0_0 [Uomo raffinato]]
+[msg MSG_008_0_0 [Homem refinado]]
 [s][bup 0 206 0 0 0][f 4 10 65535 0 0][vp 8 0 0 8 6 0]Ainda não há atualização[n]sobre o caso?[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Homem de terno e gravata]]
 [s][vp 8 0 0 9 7 0]A-Ainda não...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 10 7 0]Com licença, mas por que você está tão[n]interessado? Não é algo com que ele deva se[n]preocupar...[n][f 1 3 65535][w][e]
 
-[msg MSG_010_0_0 [Uomo raffinato]]
+[msg MSG_010_0_0 [Homem refinado]]
 [s][bup 0 206 2 0 0][f 4 10 65535 0 0][vp 8 0 0 11 6 0]Eu não me importo com a sua opinião,[n]seu palhaço incompetente! Quando eu[n]dizer para você atirar, você atira![n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Ryuji]]
@@ -41,7 +41,7 @@
 [msg MSG_015_0_0 [Ryuji]]
 [s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Oh, com licença. Então você pode[n]passar por todos porque[n]você está com pressa?[n][f 1 3 65535][w][e]
 
-[msg MSG_021_0_0 [Uomo raffinato]]
+[msg MSG_021_0_0 [Homem refinado]]
 [s][bup 0 206 0 0 0][f 4 10 65535 0 0][vp 8 0 0 17 6 0]A clientela diminuiu muito[n]desde a última vez que estive[n]aqui. Virou jardim de infância?[n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Ryuji]]
@@ -50,10 +50,10 @@
 [msg MSG_024_0_0 [Homem de terno e gravata]]
 [s][vp 8 0 0 19 7 0]Senhor, não temos tempo[n]a perder.[n][f 1 3 65535][w][e]
 
-[msg MSG_025_0_0 [Uomo raffinato]]
+[msg MSG_025_0_0 [Homem refinado]]
 [s][bup 0 206 0 0 0][f 4 10 65535 0 0][vp 8 0 0 20 6 0]Eu sei.[n][f 1 3 65535][w][e]
 
-[msg MSG_026_0_0 [Uomo raffinato]]
+[msg MSG_026_0_0 [Homem refinado]]
 [s][bup 0 206 2 0 0][f 4 10 65535 0 0][vp 8 0 0 21 6 0]Deixe-os em paz![n][f 1 3 65535][w][e]
 
 [msg MND_026_5_0]

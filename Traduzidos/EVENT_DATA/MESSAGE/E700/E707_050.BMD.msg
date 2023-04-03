@@ -4,7 +4,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Estou ficando em forma...[n]Mas não tenho resistência...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 6 301 65535][vp 8 0 0 0 65535 0]*coff*...[n][f 1 3 65535][w][e]
 
-[msg MSG_001_0_0 [Studente iscritto alla palestra]]
+[msg MSG_001_0_0 [Aluno matriculado na academia]]
 [s][vp 8 0 0 0 65535 0]Sakamoto?[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Ryuji]]

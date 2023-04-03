@@ -1,4 +1,4 @@
-[msg MSG_000_0_0 [Ombra di Sae]]
+[msg MSG_000_0_0 [Sombra de Sae]]
 [s][vp 6 0 0 1 12 0]Agora, vamos começar![n][f 1 2 78][e]
 
 [msg MSG_001_0_0 [Morgana]]
@@ -10,7 +10,7 @@
 [msg MSG_003_0_0 [Yusuke]]
 [s][vp 6 0 0 4 7 0]Estamos em um...?[n][f 1 2 35][e]
 
-[msg MSG_004_0_0 [Ombra di Sae]]
+[msg MSG_004_0_0 [Sombra de Sae]]
 [s][vp 6 0 0 5 12 0]Um confronto de força não é para este lugar.[n][f 1 2 125][e]
 
 [msg MSG_005_0_0 [Akechi]]
@@ -19,16 +19,16 @@
 [msg MSG_006_0_0 [Ryuji]]
 [s][vp 1 0 0 7 0 0]Chega de moedas e jogos! Não seguimos mais suas[n]regras![n][f 1 2 135][e]
 
-[msg MSG_007_0_0 [Ombra di Sae]]
+[msg MSG_007_0_0 [Sombra de Sae]]
 [s][vp 6 0 0 8 12 0]Ah, e sim. Não há espaço para discussão.[n][f 1 2 100][e]
 
-[msg MSG_008_0_0 [Ombra di Sae]]
+[msg MSG_008_0_0 [Sombra de Sae]]
 [s][vp 6 0 0 9 12 0]Você logo entenderá.[n][f 1 2 70][e]
 
 [msg MSG_009_0_0 [Makoto]]
 [s][vp 6 0 0 10 8 0]O que foi isso?!?[n][f 1 2 28][e]
 
-[msg MSG_010_0_0 [Ombra di Sae]]
+[msg MSG_010_0_0 [Sombra de Sae]]
 [s][vp 6 0 0 11 12 0]E agora... manda ver![n][f 1 2 35][e]
 
 [msg MSG_011_0_0 [Akechi]]

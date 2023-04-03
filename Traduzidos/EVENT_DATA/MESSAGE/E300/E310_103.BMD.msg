@@ -18,45 +18,45 @@
 [msg MSG_007_0_0 [Ryuji]]
 [s][bup 0 2 301 0 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]E-Ei... Talvez haja alguma garota[n]quem quer flertar com a gente?!?[n][f 1 3 65535][w][e]
 
-[msg MSG_008_0_0 [Influencer affascinante]]
+[msg MSG_008_0_0 [Influenciador fascinante]]
 [s][vp 8 0 0 13 65535 0]Droga![n]É o próprio menino de ouro![n][f 1 3 65535][w][e]
 
-[msg MSG_009_0_0 [Squallido romanticone]]
+[msg MSG_009_0_0 [Romântico desprezível]]
 [s][vp 8 0 0 14 65535 0]E ele já tem sua pequena torcida![n]A gente ensinou bem, né?[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Ryuji]]
 [s][bup 0 2 304 0 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Vocês!?! Oh não...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]O que VOCÊ está fazendo aqui?!?[n][f 1 3 65535][w][e]
 
-[msg MSG_011_0_0 [Angel]]
+[msg MSG_011_0_0 [Anjo]]
 [s][vp 8 0 0 17 65535 0]Às vezes você tem que sair da cidade![w][e]
 
-[msg MSG_012_0_0 [Julian]]
+[msg MSG_012_0_0 [Juliano]]
 [s][vp 8 0 0 18 65535 0]Pensávamos que tínhamos perdido nosso[n]protegido! Em vez disso, o feriado foi[n]um sinal do destino![n][f 1 3 65535][w][e]
 
-[msg MSG_014_0_0 [Angel]]
+[msg MSG_014_0_0 [Anjo]]
 [s][vp 8 0 0 19 65535 0]Oh, o que é esse olhar? Não acredita em destino?[n]Ou você realmente não se divertiu da última vez?[n][f 1 3 65535][w][e]
 
-[msg MSG_015_0_0 [Julian]]
+[msg MSG_015_0_0 [Juliano]]
 [s][vp 8 0 0 20 65535 0]Você quer que acreditemos que você[n]não sentiu nada, embrulhado em[n]todo aquele chiffon?[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Ryuji]]
 [s][bup 0 2 304 0 0][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]A-Acho que não senti o que você esperava...[n][f 1 3 65535][w][e]
 
-[msg MSG_018_0_0 [Angel]]
+[msg MSG_018_0_0 [Anjo]]
 [s][vp 8 0 0 22 65535 0]Oh querida, eu entendo você.[n]Todo mundo fica nervoso no começo,[n]mas confie em mim.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 23 65535 0]Você vai deixar todos sem palavras![n][f 1 3 65535][w][e]
 
-[msg MSG_020_0_0 [Julian]]
+[msg MSG_020_0_0 [Juliano]]
 [s][vp 8 0 0 24 65535 0]Uma hora de esteticista e três horas[n]na boutique, e continuamos[n]de onde paramos.[n][f 1 3 65535][w][e]
 
-[msg MSG_022_0_0 [Julian]]
+[msg MSG_022_0_0 [Juliano]]
 [s][vp 8 0 0 25 65535 0]Diga-me... você está pronto para[n]roubar alguns corações?[n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Ryuji]]
 [s][bup 0 2 304 0 0][f 4 10 65535 0 0][vp 8 0 0 26 65535 0]Temos que ir! Sinto muito![n][f 1 3 65535][w][e]
 
-[msg MSG_024_0_0 [Julian]]
+[msg MSG_024_0_0 [Juliano]]
 [s][vp 8 0 0 27 65535 0]Eu disse algo errado...?[n]Ugh, que tragédia. Outra estrela[n]escapa entre nossos dedos.[n][f 1 3 65535][w][e]
 
 [msg MSG_025_0_0 [Ryuji]]
@@ -89,11 +89,11 @@
 [msg MSG_037_0_0 [Makoto]]
 [s][bup 0 6 300 0 0][f 4 10 65535 0 0][vp 8 0 0 39 65535 0]Estamos aqui com alguns amigos.[n][f 1 3 65535][w][e]
 
-[msg MSG_038_0_0 [Uomo presuntuoso]]
+[msg MSG_038_0_0 [Homem presunçoso]]
 [s][vp 8 0 0 40 10 0]Vamos querida... Não minta.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 41 10 0]Que tal um belo passeio[n]no nosso barco?[n][f 1 3 65535][w][e]
 
-[msg MSG_039_0_0 [Uomo altezzoso]]
+[msg MSG_039_0_0 [Homem arrogante]]
 [s][vp 8 0 0 42 11 0]Também teremos uma festa. Haverá[n]muitas celebridades e pessoas[n]do mundo do entretenimento.[n][f 1 3 65535][w][e]
 
 [msg MSG_040_0_0 [Ann]]
@@ -102,25 +102,25 @@
 [msg MSG_041_0_0 [Ryuji]]
 [s][bup 0 2 301 65535 0][f 4 10 65535 0 0][vp 8 0 0 44 65535 0]Desculpe a espera.[n][f 1 3 65535][w][e]
 
-[msg MSG_042_0_0 [Uomo presuntuoso]]
+[msg MSG_042_0_0 [Homem presunçoso]]
 [s][vp 8 0 0 45 10 0]Ah, então é verdade[n]que você está aqui com alguns amigos.[n][f 1 3 65535][w][e]
 
 [msg MSG_043_0_0 [Ann]]
 [s][bup 0 4 302 65535 0][f 4 10 65535 0 0][vp 8 0 0 46 65535 0]Isso é o que estamos tentando[n]dizer a você desde o início![n][f 1 3 65535][w][e]
 
-[msg MSG_044_0_0 [Uomo altezzoso]]
+[msg MSG_044_0_0 [Homem arrogante]]
 [s][vp 8 0 0 47 11 0]Você não está entediado de passar seu tempo com[n]crianças como eles?[n][f 1 3 65535][w][e]
 
 [msg MSG_051_0_0 [Makoto]]
 [s][bup 0 6 302 0 0][f 4 10 65535 0 0][vp 8 0 0 48 65535 0]É muito mais interessante[n]do que estar com você.[n][f 1 3 65535][w][e]
 
-[msg MSG_052_0_0 [Uomo presuntuoso]]
+[msg MSG_052_0_0 [Homem presunçoso]]
 [s][vp 8 0 0 49 10 0]Como se diz...?[n][f 1 3 65535][w][e]
 
-[msg MSG_053_0_0 [Uomo altezzoso]]
+[msg MSG_053_0_0 [Homem arrogante]]
 [s][vp 8 0 0 50 11 0]Bah, esqueça.[n]Eles são apenas um bando de pirralhos.[n][f 1 3 65535][w][e]
 
-[msg MSG_053_5_0 [Uomo altezzoso]]
+[msg MSG_053_5_0 [Homem arrogante]]
 [s][vp 8 0 0 51 11 0]Adeus![n][f 1 3 65535][w][e]
 
 [msg MSG_054_0_0 [Ann]]

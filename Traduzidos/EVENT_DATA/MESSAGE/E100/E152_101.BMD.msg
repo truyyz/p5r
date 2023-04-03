@@ -1,11 +1,11 @@
-[msg MSG_000_0_0 [Habitué arrogante]]
+[msg MSG_000_0_0 [Regular arrogante]]
 [s][vp 8 0 0 0 65535 0]Chefe, você ouviu?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Eles dizem que o motorista daquele[n]metro se comportou de[n]forma estranha durante o depoimento.[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Sojiro]]
 [s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você está se referindo àqueles raptus[n]o como eles são chamados,[n]que todo mundo fala o tempo todo?[n][f 1 3 65535][w][e]
 
-[msg MSG_002_0_0 [Habitué arrogante]]
+[msg MSG_002_0_0 [Regular arrogante]]
 [s][vp 8 0 0 0 65535 0]Sim, ouvi dizer que eles alteram[n]a personalidade completamente.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Os noticiários dizem que[n]o motorista não conseguiu nem[n]responder às perguntas.[n][f 1 3 65535][w][e]
 
@@ -13,14 +13,14 @@
 [s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]É impossível que uma história tão improvável seja[n]verdadeira.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Ah, desculpe,[n]mas estamos fechando.[n][f 1 3 65535][w][e]
 
-[msg MSG_004_0_0 [Habitué arrogante]]
+[msg MSG_004_0_0 [Regular arrogante]]
 [s][vp 8 0 0 0 65535 0]Umpf, que rude. Deve ser por isso que[n]ele não tem muitos clientes.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Na verdade, seu café não é[n]ruim, mas seus grãos reclamam[n]da tristeza deste lugar...[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Sojiro]]
 [s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Obrigado pela visita.[n]Volte em breve.[n][f 1 3 65535][w][e]
 
-[msg MSG_006_0_0 [Habitué arrogante]]
+[msg MSG_006_0_0 [Regular arrogante]]
 [s][vp 8 0 0 0 65535 0]Umpf, estou mencionando isso apenas como uma[n]mera cortesia, mas...[n]obrigado pelo café.[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Sojiro]]

@@ -64,10 +64,10 @@
 [s][vp 8 0 0 0 65535 0]Quando zangado[n]parece uma pessoa diferente.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Suas instruções são[n]precisas, mas espartanas...[n][f 1 3 65535][w][e]
 
-[msg MSG_017_0_0 [Spettatore]]
+[msg MSG_017_0_0 [Visualizador]]
 [s][vp 8 0 0 29 65535 0]O Rei está[n]reclamando muito...[n][f 1 3 65535][w][e]
 
-[msg MSG_018_0_0 [Spettatore chiassoso]]
+[msg MSG_018_0_0 [Espectador barulhento]]
 [s][vp 8 0 0 30 65535 0]Sempre acontece quando[n]joga junto com outro jogador.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 31 65535 0]E é por isso que[n]todo mundo apenas olha para ele...[n][f 1 3 65535][w][e]
 

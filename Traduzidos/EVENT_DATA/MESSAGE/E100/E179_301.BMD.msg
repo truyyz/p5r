@@ -11,15 +11,15 @@
 [msg MSG_002_0_0 [Sojiro]]
 [s][bup 0 103 4 0 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Hum? Não é...?[n][f 1 3 65535][w][e]
 
-[msg MSG_003_0_0 [Voce di uno studente]]
+[msg MSG_003_0_0 [Voz de um aluno]]
 [s][vp 8 0 0 8 65535 0]Meus amigos sempre[n]voltam do treino[n]cobertos de hematomas...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 9 65535 0]Foi assustador,[n]mas estou feliz que esta história[n]do abuso vai acabar agora.[n][f 1 3 65535][w][e]
 
-[msg MSG_004_0_0 [Voce di una studentessa]]
+[msg MSG_004_0_0 [Voz de um aluno]]
 [s][vp 8 0 0 10 65535 0]Isso me tocou o tempo todo...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 11 65535 0]Estou feliz por não ter[n]mais que suportar seu[n]assédio sexual...[n][f 1 3 65535][w][e]
 
-[msg MSG_005_0_0 [Voce di una studentessa]]
+[msg MSG_005_0_0 [Voz de um aluno]]
 [s][vp 8 0 0 12 65535 0]Rumores circularam, é claro.[n]Mas poucos acreditaram neles.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 13 65535 0]Quero dizer... Estou realmente chocado com o fato[n]de serem verdadeiros. Mas agora pelo menos posso[n]ir para a escola sem medo.[n][f 1 3 65535][w][e]
 

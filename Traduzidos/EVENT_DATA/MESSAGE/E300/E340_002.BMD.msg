@@ -1,10 +1,10 @@
-[msg MSG_000_0_0 [Fidanzato di Haru]]
+[msg MSG_000_0_0 [Namorado da Haru]]
 [s][vp 1 0 0 1 0 0]Agora, por que você não vem à minha casa?[n][f 1 2 149][e]
 
-[msg MSG_001_0_0 [Fidanzato di Haru]]
+[msg MSG_001_0_0 [Namorado da Haru]]
 [s][vp 8 0 0 2 65535 0]Vamos nos divertir! Vou brincar com você até o[n]tédio![n][f 1 2 124][e]
 
-[msg MSG_020_0_0 [Fidanzato di Haru]]
+[msg MSG_020_0_0 [Namorado da Haru]]
 [s][vp 8 0 0 3 65535 0]Uma namorada adolescente...que excitante![n][f 1 2 130][e]
 
 [msg MSG_021_0_0 [Haru]]
@@ -19,7 +19,7 @@
 [msg MSG_004_0_0 [Futaba]]
 [s][vp 6 0 0 7 11 0]Seu verdadeiro poder ainda não despertou, só isso![n][f 1 2 96][e]
 
-[msg MSG_005_0_0 [Fidanzato di Haru]]
+[msg MSG_005_0_0 [Namorado da Haru]]
 [s][vp 8 0 0 8 65535 0]Como você ousa...![n][f 1 2 65][e]
 
 [msg MSG_006_0_0 [Milady]]
@@ -55,13 +55,13 @@
 [msg MSG_016_0_0 [Haru]]
 [s][vp 1 0 0 19 0 0]Não sou mais seu fantoche obediente![n][f 1 2 70][e]
 
-[msg MSG_017_0_0 [Ombra di Okumura]]
+[msg MSG_017_0_0 [Sombra de Okumura]]
 [s][vp 1 0 0 20 0 0]E seja... você é inútil.[n][f 1 2 98][e]
 
-[msg MSG_017_5_0 [Ombra di Okumura]]
+[msg MSG_017_5_0 [Sombra de Okumura]]
 [s][vp 6 0 0 25 12 0]Umpf. Livre-se dele como quiser.[n][f 1 2 75][e]
 
-[msg MSG_018_0_0 [Fidanzato di Haru]]
+[msg MSG_018_0_0 [Namorado da Haru]]
 [s][vp 8 0 0 21 65535 0]Pobre bebê... Vou brincar com você até quebrá-lo![n][f 1 2 125][e]
 
 [msg MSG_022_0_0 [Yusuke]]

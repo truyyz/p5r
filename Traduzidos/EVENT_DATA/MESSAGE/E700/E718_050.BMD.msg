@@ -77,10 +77,10 @@
 [s][vp 8 0 0 0 65535 0]Do que não podemos ver, nulidade.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Nós estivemos sentados lá[n]até agora e nós[n]não notamos você![n][f 1 3 65535][w][e]
 
-[msg MSG_018_0_0 [Studente dai capelli corti]]
+[msg MSG_018_0_0 [Estudante de cabelo curto]]
 [s][vp 8 0 0 0 11 0]Você é exatamente o mesmo[n]no ensino médio, Mishima.[n][f 1 3 65535][w][e]
 
-[msg MSG_019_0_0 [Studente dall'aspetto curato]]
+[msg MSG_019_0_0 [Estudante bem preparado]]
 [s][vp 8 0 0 0 12 0]Uma vez nulidade, para sempre[n]nulidade.[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Mishima]]

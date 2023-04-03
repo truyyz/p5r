@@ -25,13 +25,13 @@
 [msg MSG_007_0_0 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Enquanto você estava fora[n]se divertindo, aqui a situação[n]complicou por um momento.[n][f 1 3 65535][w][e]
 
-[msg MSG_008_0_0 [Presentatore]]
+[msg MSG_008_0_0 [Locutor]]
 [s][vp 8 0 0 9 65535 0]Ouvi dizer que os itens mais quentes[n]do momento são[n]"máscaras" e "cartas de desafio"?[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Assistente]]
 [s][vp 8 0 0 10 65535 0]Aqui está um gráfico dos lucros das[n]lojas que vendem esses itens.[n][f 1 3 65535][w][e]
 
-[msg MSG_010_0_0 [Presentatore]]
+[msg MSG_010_0_0 [Locutor]]
 [s][vp 8 0 0 11 65535 0]Dobrou desde o ano passado!?![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Parece haver uma alta demanda por[n]mercadoria dos Ladrões Fantasmas.[n][f 1 3 65535][w][e]
 
@@ -60,7 +60,7 @@
 [msg MSG_017_0_0 [Assistente]]
 [s][vp 8 0 0 20 65535 0]Eu me pergunto o que nossos convidados pensam[n]sobre esse fenômeno.[n][f 1 3 65535][w][e]
 
-[msg MSG_018_0_0 [Presentatore]]
+[msg MSG_018_0_0 [Locutor]]
 [s][vp 8 0 0 21 65535 0]Sua opinião, Akechi-kun?[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Akechi]]
@@ -78,13 +78,13 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 27 65535 0]Eles dão as boas-vindas à raiva silenciosa do[n]público e dão alívio a ela. Isso é inteligente.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 28 65535 0]Estou convencido de que este é o[n]segredo de sua popularidade.[n][f 1 3 65535][w][e]
 
-[msg MSG_023_0_0 [Presentatore]]
+[msg MSG_023_0_0 [Locutor]]
 [s][vp 8 0 0 29 65535 0]Estou surpreso. Sua posição[n]parece ter suavizado.[n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [Akechi]]
 [s][bup 0 9 3 2 0][f 4 10 65535 0 0][vp 8 0 0 30 65535 0]No entanto, eles continuam perigosos.[n]Por outro lado... não, não vou dizer mais nada.[n][f 1 3 65535][w][e]
 
-[msg MSG_025_0_0 [Presentatore]]
+[msg MSG_025_0_0 [Locutor]]
 [s][vp 8 0 0 31 65535 0]Vamos, não se segure.[n][f 1 3 65535][w][e]
 
 [msg MSG_026_0_0 [Akechi]]

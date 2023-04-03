@@ -61,19 +61,19 @@
 [msg DVL_026_0_0 [Voz misteriosa]]
 [s][vp 6 0 0 21 0 0]Que tenacidade...[n][f 1 2 65][e]
 
-[msg DVL_027_0_0 [Cenerentola]]
+[msg DVL_027_0_0 [Cinderela]]
 [s][vp 6 0 0 22 0 0]Parece que combina com você ainda mais[n]do que antes.[n][f 1 2 120][e]
 
-[msg DVL_028_0_0 [Cenerentola]]
+[msg DVL_028_0_0 [Cinderela]]
 [s][vp 6 0 0 23 0 0]Sapatos são um ícone[n]de glória...[n][f 1 2 120][e]
 
-[msg DVL_029_0_0 [Cenerentola]]
+[msg DVL_029_0_0 [Cinderela]]
 [s][vp 6 0 0 24 0 0]Não só para você, mas também para[n]a outra garota dentro de você...[n][f 1 2 131][e]
 
-[msg DVL_030_0_0 [Cenerentola]]
+[msg DVL_030_0_0 [Cinderela]]
 [s][vp 6 0 0 25 0 0]Eu sou você, você sou eu...[n][f 1 2 95][e]
 
-[msg DVL_031_0_0 [Cenerentola]]
+[msg DVL_031_0_0 [Cinderela]]
 [s][vp 6 0 0 26 0 0]Você está pronto para sua estreia?[n]O grande baile espera por você.[n][f 1 2 115][e]
 
 [msg MSG_032_0_0 [Sumire]]

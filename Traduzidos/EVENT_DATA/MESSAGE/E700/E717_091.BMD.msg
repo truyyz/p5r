@@ -1,32 +1,32 @@
 [msg MND_000_5_0]
 [s][vp 8 0 0 0 65535 0]É uma transmissão online[n]da partida... Os locutores[n]estão comentando as jogadas.[n][f 1 3 65535][w][e]
 
-[msg MSG_000_0_0 [Giornalista della rivista di shogi]]
+[msg MSG_000_0_0 [Repórter da revista Shogi]]
 [s][vp 8 0 0 0 65535 0]Será este o fim da estrada[n]para a Princesa Falsa?[n][f 1 3 65535][w][e]
 
-[msg MSG_001_0_0 [Editore della rivista di shogi]]
+[msg MSG_001_0_0 [Editora da revista shogi]]
 [s][vp 8 0 0 0 65535 0]Foi rejeitado com muita[n]frequência. É apenas uma questão[n]de tempo agora...[n][f 1 3 65535][w][e]
 
 [msg MND_001_5_0]
 [s][vp 8 0 0 0 65535 0]Hifumi está mordendo o lábio.[n]Não parece que ela está indo[n]muito bem...[n][f 1 3 65535][w][e]
 
-[msg MSG_002_0_0 [Editore della rivista di shogi]]
+[msg MSG_002_0_0 [Editora da revista shogi]]
 [s][vp 8 0 0 0 65535 0]Oh, ISSO foi[n]uma jogada magistral![n][f 1 3 65535][w][e]
 
-[msg MSG_003_0_0 [Giornalista della rivista di shogi]]
+[msg MSG_003_0_0 [Repórter da revista Shogi]]
 [s][vp 8 0 0 0 65535 0]Talvez suas habilidades[n]SEJAM realmente autênticas?[n][f 1 3 65535][w][e]
 
-[msg MSG_004_0_0 [Editore della rivista di shogi]]
+[msg MSG_004_0_0 [Editora da revista shogi]]
 [s][vp 8 0 0 0 65535 0]Oh, não, esse não é o caminho.[n]O próximo movimento certamente[n]levará a um xeque-mate.[n][f 1 3 65535][w][e]
 
 [msg MND_004_5_0]
 [s][vp 8 0 0 0 65535 0]Hifumi parece preocupado,[n]ele está sob pressão em todas[n]áreas da diretoria...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Ele não fez nenhum movimento...[n][f 1 3 65535][w][e]
 
-[msg MSG_005_0_0 [Giornalista della rivista di shogi]]
+[msg MSG_005_0_0 [Repórter da revista Shogi]]
 [s][vp 8 0 0 0 65535 0]Já tenho em mente o título do[n]próximo artigo: "[n]Princesa Fake, Royal Defeat".[n][f 1 3 65535][w][e]
 
-[msg MSG_005_5_0 [Voce di Hifumi]]
+[msg MSG_005_5_0 [Voz de Hifumi]]
 [s][vp 8 0 0 0 65535 0]...Eu concordo.[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Hifumi]]

@@ -16,6 +16,6 @@
 [msg MSG_005_0_0 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Três![n][f 1 3 65535][w][e]
 
-[msg MSG_006_0_0 [Ombra di Kaneshiro]]
+[msg MSG_006_0_0 [Sombra de Kaneshiro]]
 [s][bup 0 207 100 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Saudações. Bem-vindo[n]ao meu banco pessoal.[n][f 1 3 65535][w][e]
 

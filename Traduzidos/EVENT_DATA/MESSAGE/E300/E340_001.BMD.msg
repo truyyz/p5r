@@ -49,7 +49,7 @@
 [msg MSG_013_0_0 [Haru]]
 [s][bup 0 7 101 0 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Heheheh...[n][f 1 3 65535][w][e]
 
-[msg MSG_015_0_0 [Ombra di Okumura]]
+[msg MSG_015_0_0 [Sombra de Okumura]]
 [s][vp 8 0 0 19 65535 0]O que diabos você está fazendo aqui?[n][f 1 3 65535][w][e]
 
 [msg MSG_015_3_0 [Haru]]
@@ -58,7 +58,7 @@
 [msg MSG_015_5_0 [Ann]]
 [s][bup 0 4 104 65535 0][f 4 10 65535 0 0][vp 8 0 0 53 65535 0]Estamos realmente exagerando aqui![n][f 1 3 65535][w][e]
 
-[msg MSG_016_0_0 [Ombra di Okumura]]
+[msg MSG_016_0_0 [Sombra de Okumura]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 211 3 301 1][vp 8 0 0 20 65535 0]Eu disse para você não[n]namorar pessoas vulgares![n][f 1 3 65535][w][e]
 
 [msg MSG_016_1_0 [Ryuji]]
@@ -76,7 +76,7 @@
 [msg MSG_016_6_0 [Haru]]
 [s][bup 0 7 100 0 0][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Essa coisa de cognição?[n][f 1 3 65535][w][e]
 
-[msg MSG_016_8_0 [Ombra di Okumura]]
+[msg MSG_016_8_0 [Sombra de Okumura]]
 [s][bup 0 205 100 0 0][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]O que você está murmurando?[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Haru]]
@@ -85,17 +85,17 @@
 [msg MSG_017_5_0 [Haru]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 7 13 300 1][vp 8 0 0 27 65535 0]Aqui está minha resposta![n][f 1 3 65535][w][e]
 
-[msg MSG_018_0_0 [Ombra di Okumura]]
+[msg MSG_018_0_0 [Sombra de Okumura]]
 [s][bup 0 205 100 0 0][f 4 10 65535 0 0][vp 8 0 0 28 65535 0]Eles são... os famosos[n]Phantom Thieves?[n][f 1 3 65535][w][e]
 
-[msg MSG_018_5_0 [Ombra di Okumura]]
+[msg MSG_018_5_0 [Sombra de Okumura]]
 [s][bup 0 205 100 0 0][f 4 10 65535 0 0][vp 8 0 0 29 65535 0]...Ah, entendi![n][f 1 3 65535][w][e]
 
-[msg MSG_019_0_0 [Ombra di Okumura]]
+[msg MSG_019_0_0 [Sombra de Okumura]]
 [s][bup 0 205 101 0 0][f 4 10 65535 0 0][vp 8 0 0 30 65535 0]Você os está dando para mim[n]para obter meu perdão![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 31 65535 0]"Triunfo sobre o fracasso sempre,[n]mesmo ao custo da traição"...[n]Você é fiel ao lema de Okumura![n][f 1 3 65535][w][e]
 
-[msg MSG_019_5_0 [Ombra di Okumura]]
+[msg MSG_019_5_0 [Sombra de Okumura]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 211 10 301 1][vp 8 0 0 32 65535 0]Muito bem. Junte-se a mim![n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Haru]]
@@ -104,27 +104,27 @@
 [msg MSG_020_5_0 [Haru]]
 [s][bup 0 7 102 0 0][f 4 10 65535 0 0][vp 8 0 0 34 65535 0]Como resultado, a empresa tem[n]má reputação... Você trata[n]as pessoas como um meio para um fim![n][f 1 3 65535][w][e]
 
-[msg MSG_021_0_0 [Ombra di Okumura]]
+[msg MSG_021_0_0 [Sombra de Okumura]]
 [s][bup 0 205 105 0 0][f 4 10 65535 0 0][vp 8 0 0 35 65535 0]Você tem que dar para ganhar...[n]e se destaca da multidão[n]quem mais se sacrifica.[n][f 1 3 65535][w][e]
 [s][bup 0 205 102 0 0][f 4 10 65535 0 0][vp 8 0 0 36 65535 0]Estamos em patamares imensuráveis,[n]e em breve subirei mais[n]degrau, no mundo político![n][f 1 3 65535][w][e]
 
-[msg MSG_021_5_0 [Ombra di Okumura]]
+[msg MSG_021_5_0 [Sombra de Okumura]]
 [s][bup 0 205 101 0 0][f 4 10 65535 0 0][vp 8 0 0 58 65535 0]Rebaixar os outros faz parte[n]do negócio! A virtude e os sentimentos[n]são o caminho para o fracasso.[n][f 1 3 65535][w][e]
 
-[msg MSG_021_7_0 [Ombra di Okumura]]
+[msg MSG_021_7_0 [Sombra de Okumura]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 211 10 301 1][vp 8 0 0 57 65535 0]Heheheh... Okumura Foods será[n]a base do meu império![n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Makoto]]
 [s][bup 0 6 104 0 0][f 4 10 65535 0 0][vp 8 0 0 37 65535 0]Sua empresa é[n]apenas o começo...[n][f 1 3 65535][w][e]
 
-[msg MSG_026_0_0 [Fidanzato di Haru]]
+[msg MSG_026_0_0 [Namorado da Haru]]
 [s][bup 0 211 501 0 0][f 4 10 65535 0 0][vp 8 0 0 41 65535 0]Sr. Okumura, não precisamos de uma garota[n]corrompida por ladrões.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 42 65535 0]Não posso apresentá-la a meu pai,[n]a menos que ele proponha[n]um bom acordo.[n][f 1 3 65535][w][e]
 
-[msg MSG_027_5_0 [Ombra di Okumura]]
+[msg MSG_027_5_0 [Sombra de Okumura]]
 [s][bup 0 205 100 0 0][f 4 10 65535 0 0][vp 8 0 0 54 65535 0]Ela não precisa ser sua[n]esposa dedicada... faça dela sua amante,[n]ou o que quer que você pense.[n][f 1 3 65535][w][e]
 
-[msg MSG_029_0_0 [Fidanzato di Haru]]
+[msg MSG_029_0_0 [Namorado da Haru]]
 [s][bup 0 211 501 0 0][f 4 10 65535 0 0][vp 8 0 0 45 65535 0]Muito bom... Aceito.[n][f 1 3 65535][w][e]
 
 [msg MSG_030_0_0 [Haru]]
@@ -137,7 +137,7 @@
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 7 17 300 1][vp 8 0 0 48 65535 0]Esses não eram os acordos![n][f 1 3 65535][w][e]
 [s][bup 0 7 102 0 0][f 4 10 65535 0 0][vp 8 0 0 49 65535 0]Pai! Você quer que eu seja[n]o brinquedo daquele homem[n]apenas para sua ambição?[n][f 1 3 65535][w][e]
 
-[msg MSG_032_0_0 [Ombra di Okumura]]
+[msg MSG_032_0_0 [Sombra de Okumura]]
 [s][bup 0 205 100 0 0][f 4 10 65535 0 0][vp 8 0 0 50 65535 0]Por que se preocupar? Você deveria estar[n]orgulhosa de cumprir[n]o papel de filha do Okumura.[n][f 1 3 65535][w][e]
 [s][bup 0 205 102 0 0][f 4 10 65535 0 0][vp 8 0 0 51 65535 0]Você só serve para isso,[n]você não vale nada além disso.[n][f 1 3 65535][w][e]
 

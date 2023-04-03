@@ -1,8 +1,8 @@
-[msg MSG_000_0_0 [Apresentador de jornal]]
+[msg MSG_000_0_0 [Locutor de jornal]]
 [s][vp 8 0 0 1 65535 0]Um ônibus de transporte público[n]estacionou na estrada errada[n]com todos os passageiros a bordo![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 2 65535 0]Os cidadãos não podem viver em[n]paz se isso continuar.[n][f 1 3 65535][w][e]
 
-[msg MSG_001_0_0 [Cliente Idoso]]
+[msg MSG_001_0_0 [Cliente inadimplente]]
 [s][vp 8 0 0 3 6 0]Mas é assustador.[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Cliente Idosa]]
@@ -17,25 +17,25 @@
 [msg MSG_005_0_0 [Gerente]]
 [s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 0 0 7 4 0]Disseram que era hoje.[n][f 1 3 65535][w][e]
 
-[msg MSG_006_0_0 [Cliente Idoso]]
+[msg MSG_006_0_0 [Cliente inadimplente]]
 [s][vp 8 0 0 9 6 0]Nós estamos indo.[n]O dinheiro está na mesa.[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Gerente]]
 [s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 0 0 10 4 0]Obrigado por ter vindo.[n][f 1 3 65535][w][e]
 
-[msg MSG_008_0_0 [Cliente Idoso]]
+[msg MSG_008_0_0 [Cliente inadimplente]]
 [s][vp 8 0 0 11 65535 0]Este lugar fica em um beco,[n]então não há perigo de[n]um carro entrar aqui.[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Gerente]]
 [s][bup 0 103 4 0 0][f 4 10 65535 0 0][vp 8 0 0 12 4 0]Um o quê?[n][f 1 3 65535][w][e]
 
-[msg MSG_010_0_0 [Cliente Idoso]]
+[msg MSG_010_0_0 [Cliente inadimplente]]
 [s][vp 8 0 0 13 6 0]Teve uma série daqueles incidentes[n]loucos, sabe? Eu só espero que[n]você não pegue um por aqui.[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Gerente]]
 [s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 0 0 14 4 0]Isso não me preocupa.[n][f 1 3 65535][w][e]
 
-[msg MSG_012_0_0 [Cliente Idoso]]
+[msg MSG_012_0_0 [Cliente inadimplente]]
 [s][vp 8 0 0 15 6 0]Haha, até à proxima.[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Gerente]]

@@ -1,10 +1,10 @@
 [msg MSG_000_0_0 [Menina de aparência maligna]]
 [s][vp 8 0 0 1 65535 0]Você finalmente acordou,[n]Prisioneiro.[n][f 1 2 75][w][e]
 
-[msg MSG_001_0_0 [Menina calma]]
+[msg MSG_001_0_0 [Acalmar]]
 [s][vp 8 0 0 2 65535 0]Seu verdadeiro eu[n]dorme profundamente.[n][f 1 2 82][w][e]
 
-[msg MSG_001_5_0 [Menina calma]]
+[msg MSG_001_5_0 [Acalmar]]
 [s][vp 8 0 0 3 65535 0]Você está vivendo tudo isso[n]como um sonho.[n][f 1 2 85][w][e]
 
 [msg MSG_002_0_0 [Menina de aparência maligna]]
@@ -13,16 +13,16 @@
 [msg MSG_004_0_0 [Menina de aparência maligna]]
 [s][vp 8 0 0 0 65535 0]Chega desse barulho! Pare com isso.[n][f 1 2 60][w][e]
 
-[msg MSG_005_0_0 [Velho estranho]]
+[msg MSG_005_0_0 [Velho afastado]]
 [s][vp 6 0 0 6 6 0]Bem-vindo. È um prazer[n]te conhecê-lo.[n][f 1 2 120][w][e]
 
-[msg MSG_006_0_0 [Velho estranho]]
+[msg MSG_006_0_0 [Velho afastado]]
 [s][vp 6 0 0 7 6 0]Este lugar existe entre o sonho e a[n]realidade, entre o pensamento e a matéria.[n][f 1 2 145][w][e]
 
-[msg MSG_007_0_0 [Velho estranho]]
+[msg MSG_007_0_0 [Velho afastado]]
 [s][vp 6 0 0 8 6 0]É uma sala que apenas aqueles[n]vinculados a um "contrato" podem acessar.[n][f 1 2 135][w][e]
 
-[msg MSG_008_0_0 [Velho estranho]]
+[msg MSG_008_0_0 [Velho afastado]]
 [s][vp 6 0 0 9 6 0]Eu sou Igor, o mestre deste lugar.[n]Lembre-se bem disso.[n][f 1 2 145][w][e]
 
 [msg MSG_009_0_0 [Igor]]

@@ -29,17 +29,17 @@
 [msg MSG_008_0_0 [Maruki]]
 [s][bup 0 216 304 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Shibusawa?[n][f 1 3 65535][w][e]
 
-[msg MSG_009_0_0 [Uomo di nome Shibusawa]]
+[msg MSG_009_0_0 [Homem chamado Shibusawa]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 114 7 300 65535][bup 0 222 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 5 0]Huh? Maruki!?![n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Maruki]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 114 7 300 1][f 4 10 65535 0 0][vp 8 2 0 57460 65535 0]Eu sabia![n]Shibusawa, em carne e osso![n][f 1 3 65535][w][e]
 [s][bup 0 216 301 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 36 5 100]O que você está fazendo aqui?[n][f 1 3 65535][w][e]
 
-[msg MSG_011_0_0 [Uomo di nome Shibusawa]]
+[msg MSG_011_0_0 [Homem chamado Shibusawa]]
 [s][bup 0 222 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 5 0]Eu deveria perguntar a você. É raro[n]ver você em um restaurante[n]como este.[n][f 1 3 65535][w][e]
 
-[msg MSG_012_0_0 [Uomo di nome Shibusawa]]
+[msg MSG_012_0_0 [Homem chamado Shibusawa]]
 [s][bup 0 222 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 5 0]...Oh? E quem é ele?[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Maruki]]
@@ -50,7 +50,7 @@
 [s]É complicado...[e]
 [s][f 0 8 2 1 2217]Temos um acordo.[clr 27][e]
 
-[msg MSG_015_0_0 [Uomo di nome Shibusawa]]
+[msg MSG_015_0_0 [Homem chamado Shibusawa]]
 [s][bup 0 222 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 5 0]Aluna...? Você começou a[n]ensinar, por acaso?[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Maruki]]
@@ -59,7 +59,7 @@
 [msg MSG_017_0_0 [Shibusawa]]
 [s][bup 0 222 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 5 0]Muito prazer.[n]Sou Shibusawa.[n][f 1 3 65535][w][e]
 
-[msg MSG_018_0_0 [Uomo di nome Shibusawa]]
+[msg MSG_018_0_0 [Homem chamado Shibusawa]]
 [s][bup 0 222 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 5 0]Espere, por que você[n]está namorando um colegial?[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Maruki]]
@@ -68,7 +68,7 @@
 [msg MSG_020_0_0 [Shibusawa]]
 [s][bup 0 222 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 5 0]Muito prazer.[n]Sou Shibusawa.[n][f 1 3 65535][w][e]
 
-[msg MSG_021_0_0 [Uomo di nome Shibusawa]]
+[msg MSG_021_0_0 [Homem chamado Shibusawa]]
 [s][bup 0 222 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 5 0]Um... negócio?[n]Espero que nada obscuro, certo?[n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Maruki]]

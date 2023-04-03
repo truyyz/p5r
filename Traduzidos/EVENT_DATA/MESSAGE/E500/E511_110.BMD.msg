@@ -1,11 +1,11 @@
-[msg MSG_000_0_0 [Guardia con camice]]
+[msg MSG_000_0_0 [Guarda com casaco]]
 [s][vp 8 0 0 1 65535 0]Esses disfarces...[n]Você não é um daqueles[n]que desejam a salvação.[n][f 1 3 65535][w][e]
 
 [sel SEL_001_0_0 top]
 [s]Temos coisas para fazer.[e]
 [s]Leve-nos ao seu senhor.[e]
 
-[msg MSG_002_0_0 [Guardia con camice]]
+[msg MSG_002_0_0 [Guarda com casaco]]
 [s][vp 8 0 0 2 65535 0]Vá embora. Vocês não passam de intrusos[n]indesejados.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Não perturbe a busca[n]de nosso senhor:[n]a salvação deste mundo.[n][f 1 3 65535][w][e]
 
@@ -15,10 +15,10 @@
 [msg MSG_004_0_0 [Akechi]]
 [s][bup 0 9 810 0 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Desculpe, mas temos que ir.[n]Não temos tempo a perder[n]com ninguém como você.[n][f 1 3 65535][w][e]
 
-[msg MSG_005_0_0 [Guardia con camice]]
+[msg MSG_005_0_0 [Guarda com casaco]]
 [s][vp 8 0 0 6 65535 0]Por que você busca espontaneamente[n]sofrimento?[n][f 1 3 65535][w][e]
 
-[msg MSG_006_0_0 [Guardia con camice]]
+[msg MSG_006_0_0 [Guarda com casaco]]
 [s][vp 8 0 0 7 65535 0]Por que você está alcançando sua própria dor?[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Kasumi]]

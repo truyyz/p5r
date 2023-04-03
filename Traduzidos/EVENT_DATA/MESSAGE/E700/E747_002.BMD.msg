@@ -59,32 +59,32 @@
 [msg MND_014_5_0]
 [s][vp 8 0 0 0 65535 0]Nós olhamos para o oceano,[n]aproveitando os sabores delicados de[n]um país estrangeiro...[n][f 1 3 65535][w][e]
 
-[msg MSG_015_0_0 [Venditore di gamberi]]
+[msg MSG_015_0_0 [Vendedor de camarão]]
 [s][vp 8 0 0 17 65535 0]Vocês dois são do Japão?[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Kawakami]]
 [s][bup 0 109 300 0 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Sim, isso mesmo.[n][f 1 3 65535][w][e]
 
-[msg MSG_017_0_0 [Venditore di gamberi]]
+[msg MSG_017_0_0 [Vendedor de camarão]]
 [s][vp 8 0 0 19 65535 0]E aqueles Ladrões Fantasmas,[n]heh? Aqueles que roubam corações![n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Kawakami]]
 [s][bup 0 109 301 0 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]Uau, você é muito experiente.[n][f 1 3 65535][w][e]
 
-[msg MSG_019_0_0 [Venditore di gamberi]]
+[msg MSG_019_0_0 [Vendedor de camarão]]
 [s][vp 8 0 0 21 65535 0]Eu ouvi sobre isso no noticiário! Eles estão na[n]moda no Japão, não estão?[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Kawakami]]
 [s][bup 0 109 300 0 0][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Agora você é uma celebridade.[n][f 1 3 65535][w][e]
 
-[msg MSG_021_0_0 [Venditore di gamberi]]
+[msg MSG_021_0_0 [Vendedor de camarão]]
 [s][vp 8 0 0 23 65535 0]Bem, se você os encontrar,[n]envie-lhes meus cumprimentos.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 24 65535 0]E diga a ele para despertar o coração[n]das pessoas, para que todos[n]amem o lagostim![n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Kawakami]]
 [s][bup 0 109 300 0 0][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]OK, eu vou dizer a ele.[n][f 1 3 65535][w][e]
 
-[msg MSG_023_0_0 [Venditore di gamberi]]
+[msg MSG_023_0_0 [Vendedor de camarão]]
 [s][vp 8 0 0 26 65535 0]Enfim, você está aqui na[n]lua de mel?[n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [Kawakami]]

@@ -7,7 +7,7 @@
 [msg MSG_002_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mmm, um convite para sair[n]depois da escola?[n]Vamos ver...[n][w][e]
 
-[msg MSG_003_0_0 [Prof. Kawakami]]
+[msg MSG_003_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 1]-kun? É proibido[n]usar o telefone na aula, sabia?[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Kawakami]]
@@ -30,7 +30,7 @@
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ei, [f 4 1]![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Estamos no meio da aula![n]Pare de se atrapalhar[n]com o telefone![n][f 1 3 65535][w][e]
 
-[msg MSG_009_0_0 [Prof. Hiruta]]
+[msg MSG_009_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ei, [f 4 1]-kun.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Concentre-se na lição em vez de brincar com o[n]telefone.[n][f 1 3 65535][w][e]
 

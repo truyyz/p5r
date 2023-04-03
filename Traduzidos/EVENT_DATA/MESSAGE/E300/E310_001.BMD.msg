@@ -10,10 +10,10 @@
 [msg MSG_003_0_0 [Ann]]
 [s][bup 0 4 300 65535 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]É quase hora do almoço.[n][f 1 3 65535][w][e]
 
-[msg MSG_004_0_0 [Donna in costume da bagno]]
+[msg MSG_004_0_0 [Mulher de maiô]]
 [s][vp 8 0 0 5 65535 0]Nãooo, aquela lula está olhando para mim.[n][f 1 3 65535][w][e]
 
-[msg MSG_005_0_0 [Uomo in costume da bagno]]
+[msg MSG_005_0_0 [Homem de calção de banho]]
 [s][vp 8 0 0 6 65535 0]Está cozido, não se preocupe.[n]Nunca comeu[n]uma lula antes?[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Ann]]

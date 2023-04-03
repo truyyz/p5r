@@ -10,7 +10,7 @@
 [msg MSG_002_0_0 [Ryuji]]
 [s][bup 0 2 102 0 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]Mesmo se eu tivesse que me desculpar agora...[n]eu nunca vou te perdoar![n][f 1 3 65535][w][e]
 
-[msg MSG_003_0_0 [Ombra di Kamoshida]]
+[msg MSG_003_0_0 [Sombra de Kamoshida]]
 [s][bup 0 202 101 0 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Eu já te disse que este[n]é o meu castelo. Você ainda não[n]entendeu...[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Ryuji]]
@@ -39,11 +39,11 @@
 [msg MSG_010_0_0 [Ryuji]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 3 301 1][vp 8 0 0 13 65535 0]Ei! Não toque nela, seu pervertido![n][f 1 3 65535][w][e]
 
-[msg MSG_011_0_0 [Ombra di Kamoshida]]
+[msg MSG_011_0_0 [Sombra de Kamoshida]]
 [s][bup 0 202 101 0 0][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Quantas vezes eu tenho que te dizer[n]antes de você entender?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Este é o MEU castelo, um lugar[n]onde posso fazer o que quiser.[n]Todo mundo quer meu amor aqui.[n][f 1 3 65535][w][e]
 
-[msg MSG_011_5_0 [Ombra di Kamoshida]]
+[msg MSG_011_5_0 [Sombra de Kamoshida]]
 [s][bup 0 202 102 0 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]...Isto é, todos exceto ladrões[n]estúpidos como você.[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Ryuji]]
@@ -55,14 +55,14 @@
 [msg MSG_014_0_0 [Morgana]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 3 12 301 1][vp 8 0 0 19 65535 0]Ela é como aquelas escravas... a sendo moldada[n]pelo conhecimento de Kamoshida sobre ela![n][f 1 3 65535][w][e]
 
-[msg MSG_015_0_0 [Ombra di Kamoshida]]
+[msg MSG_015_0_0 [Sombra de Kamoshida]]
 [s][bup 0 202 101 0 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]Você está com inveja?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]Bem, isso não me surpreende. As mulheres não são[n]atraídas por bandidos problemáticos como você.[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Ryuji]]
 [s][bup 0 2 102 0 0][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Caramba...[n][f 1 3 65535][w][e]
 
-[msg MSG_017_0_0 [Ombra di Kamoshida]]
+[msg MSG_017_0_0 [Sombra de Kamoshida]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 208 3 300 1][vp 8 0 0 23 65535 0]Retire-os agora![n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Morgana]]
@@ -84,10 +84,10 @@
 [msg MSG_023_0_0 [Ryuji]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 13 301 1][vp 8 0 0 28 65535 0]Vamos revelar a todos o que você realmente é! É[n]melhor preparar-se![n][f 1 3 65535][w][e]
 
-[msg MSG_024_0_0 [Ombra di Kamoshida]]
+[msg MSG_024_0_0 [Sombra de Kamoshida]]
 [s][bup 0 202 106 0 0][f 4 10 65535 0 0][vp 8 0 0 29 65535 0]Hahaha! Eu estava começando a ficar entediado[n]torturando quem já está aqui![n][f 1 3 65535][w][e]
 
-[msg MSG_024_5_0 [Ombra di Kamoshida]]
+[msg MSG_024_5_0 [Sombra de Kamoshida]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 208 10 300 1][vp 8 0 0 30 65535 0]Voltem sempre que quiserem,[n]se não se importam com suas vidas![n]Ahahahahahah![n][f 1 3 65535][w][e]
 
 [msg MSG_025_0_0 [Morgana]]

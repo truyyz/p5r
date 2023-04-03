@@ -60,13 +60,13 @@
 [msg MSG_014_0_0 [Lala Escargot]]
 [s][vp 8 0 0 0 65535 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 107 7 301 65535]A-Pelo menos é um passo à frente![n]Nós nem sabíamos se Kayo-chan[n]ainda estava viva, então...[n][f 1 3 65535][w][e]
 
-[msg MSG_015_0_0 [Capo]]
+[msg MSG_015_0_0 [Chefe]]
 [s][vp 8 0 0 0 11 0]Pare onde estiver.[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Ohya]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 107 7 300 1][vp 8 2 0 16029 65535 0]Hã...?!?[n][f 1 3 65535][w][e]
 
-[msg MSG_017_0_0 [Capo]]
+[msg MSG_017_0_0 [Chefe]]
 [s][vp 8 0 0 0 11 0]Eu sabia. Você estava investigando[n]o caso de Kayo pelas minhas costas.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 11 0]Bem, isso é tudo.[n]Cortei seus recursos.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 11 0]Aconselho você a parar[n]a investigação, se não quiser[n]sofrer as consequências![n][f 1 3 65535][w][e]
@@ -74,7 +74,7 @@
 [msg MSG_018_0_0 [Ohya]]
 [s][bup 0 107 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Espera... foi você que[n]pressionou meu contato?[n][f 1 3 65535][w][e]
 
-[msg MSG_019_0_0 [Capo]]
+[msg MSG_019_0_0 [Chefe]]
 [s][vp 8 0 0 0 11 0]Eu avisei... Sua[n]busca inútil termina aqui.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 11 0]Oh, vou dobrar sua taxa novamente.[n]Chega dessas[n]indagações pessoais. Claro?[n][f 1 3 65535][w][e]
 
@@ -84,10 +84,10 @@
 [msg MSG_021_0_0 [Lala Escargot]]
 [s][vp 8 0 0 0 65535 0]Vamos senhor chefe...[n]Você realmente acha que faz isso?[n][f 1 3 65535][w][e]
 
-[msg MSG_022_0_0 [Capo]]
+[msg MSG_022_0_0 [Chefe]]
 [s][vp 8 0 0 0 11 0]Ninguém perguntou[n]sua opinião, vadia.[n][f 1 3 65535][w][e]
 
-[msg MSG_022_5_0 [Capo]]
+[msg MSG_022_5_0 [Chefe]]
 [s][vp 8 0 0 0 11 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 107 3 300 65535]Ouça-me com atenção, Ohya. Se você não[n]quer acabar como seu[n]amigo estúpido, pare agora![n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Ohya]]
@@ -97,13 +97,13 @@
 [msg MSG_024_0_0 [Ohya]]
 [s][bup 0 107 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Se você ousar falar mal de Kayo de novo, ninguém[n]vai me impedir de quebrar sua cara![n][f 1 3 65535][w][e]
 
-[msg MSG_025_0_0 [Capo]]
+[msg MSG_025_0_0 [Chefe]]
 [s][vp 8 0 0 0 11 0]Uau espera...[n][f 1 3 65535][w][e]
 
 [msg MSG_026_0_0 [Lala Escargot]]
 [s][vp 8 0 0 0 65535 0]Retire o que você[n]disse... ou farei pior.[n][f 1 3 65535][w][e]
 
-[msg MSG_027_0_0 [Capo]]
+[msg MSG_027_0_0 [Chefe]]
 [s][vp 8 0 0 0 11 0]Agora é tarde! Os figurões[n]queriam encobrir essa[n]história, e nós fizemos![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 11 0]Você entendeu?!?[n][f 1 3 65535][w][e]
 

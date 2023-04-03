@@ -4,30 +4,30 @@
 [msg MND_001_0_0]
 [s][vp 8 0 0 0 65535 0]Dar a resposta certa[n]me faz sentir mais brilhante...[n][f 1 3 65535][w][e]
 
-[msg MSG_002_0_0 [Prof. Kawakami]]
+[msg MSG_002_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15026 65535 0]Eu estava lendo as redações que você[n]entregou outro dia. Escreva[n]a todos tão superficialmente![n][f 1 3 65535][w][e]
 
-[msg MSG_003_0_0 [Prof. Kawakami]]
+[msg MSG_003_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]"Eu poderia estar menos interessado"[n]significa que você ainda se importa![n]É "Eu NÃO poderia estar menos..."![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Hoje em dia, há uma tendência de usar[n]certas frases de forma inconsistente[n]com relação ao seu verdadeiro significado.[n][f 1 3 65535][w][e]
 
-[msg MSG_004_0_0 [Prof. Kawakami]]
+[msg MSG_004_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Isso me lembra uma frase que ouço[n]alguns políticos dizerem: "É meu[n]país, certo ou errado".[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Eles não o pronunciariam de forma tão[n]teimosa, se soubessem como[n]era usado originalmente...[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 15116 65535 0][f 4 10 65535 0 0]Você sabe como isso mudou,[n][f 4 1]-kun?[n][f 1 3 65535][w][e]
 
-[msg MSG_005_0_0 [Prof. Kawakami]]
+[msg MSG_005_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15121 65535 0]Isso mesmo.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]A sentença deveria levar a[n]assumir a responsabilidade de[n]manter o país no caminho certo.[n][f 1 3 65535][w][e]
 
-[msg MSG_006_0_0 [Prof. Kawakami]]
+[msg MSG_006_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15124 65535 0]Mmh... Você está demorando um pouco demais.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]A sentença deveria levar a[n]assumir a responsabilidade de[n]manter o país no caminho certo.[n][f 1 3 65535][w][e]
 
-[msg MSG_007_0_0 [Prof. Kawakami]]
+[msg MSG_007_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Falta a citação: "Se estiver certo,[n]devemos mantê-lo assim; se estiver[n]errado, devemos corrigi-lo."[n][f 1 3 65535][w][e]
 
-[msg MSG_008_0_0 [Prof. Kawakami]]
+[msg MSG_008_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Como você pode ver, o original era[n]mais sobre assumir a responsabilidade[n]pelo futuro do seu país.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Infelizmente, hoje é usado[n]para justificar a inação[n]diante de questões sociais...[n][f 1 3 65535][w][e]
 
@@ -130,34 +130,34 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1038 65535 0]Você acha que um dia[n]chegará ao ponto em que poderemos[n]ler a mente um do outro?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]...Eu ficaria feliz sem ele.[n][f 1 3 65535][w][e]
 
-[msg MSG_034_0_0 [Prof. Kawakami]]
+[msg MSG_034_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*bocejo* OK, abra os livros...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Vejamos... Hoje falaremos sobre...[n][f 1 3 65535][w][e]
 
-[msg MSG_035_0_0 [Prof. Kawakami]]
+[msg MSG_035_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]"História de um cortador de bambu"...[n]Uh? Uh, tudo bem...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Vamos, vamos começar. Quem quer[n]começar a ler?[n]Ei! Não seja burro![n][f 1 3 65535][w][e]
 
-[msg MSG_036_0_0 [Prof. Kawakami]]
+[msg MSG_036_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O começo de "História de um[n]cortador de bambu" é simples, não é?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Você poderia ler para mim,[n][f 4 1]-kun?[n][f 1 3 65535][w][e]
 
-[msg MSG_037_0_0 [Prof. Kawakami]]
+[msg MSG_037_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Direita. Há muito tempo,[n]havia um velho que cortava[n]bambu e...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]...Espere. Mas este é o livro[n]do primeiro ano![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Você leu tão bem que eu não[n]percebi nada...[n][f 1 3 65535][w][e]
 
-[msg MSG_038_0_0 [Prof. Kawakami]]
+[msg MSG_038_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O que acontece? Mesmo um[n]primeiro ano deve saber[n]História de um... Oh![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Droga, mas esse é o livro[n]do primeiro ano![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]OPA, desculpe! Não estou surpreso[n]por não saber o que dizer.[n][f 1 3 65535][w][e]
 
-[msg MSG_039_0_0 [Prof. Kawakami]]
+[msg MSG_039_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Se todos vocês notaram algo[n]estranho, devem[n]aconselhá-lo.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Agora eu lembro. Hoje deveríamos[n]deveríamos ter lido "Heike monogatari".[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Meu livro está na[n]sala dos professores, mas... vou inventar[n]alguma coisa.[n][f 1 3 65535][w][e]
 
-[msg MSG_040_0_0 [Prof. Kawakami]]
+[msg MSG_040_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]No toque dos sinos do mosteiro[n]jetavana ecoa[n]a transitoriedade de todas as coisas.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]I fiori degli alberi di s♀la...[n]Com'era... Chi è orgoglioso...[n]No, i sogni di primavera...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Hahaha...Esquece.[n]Vou pegar meu livro.[n]Espera.[n][f 1 3 65535][w][e]
@@ -165,7 +165,7 @@
 [msg MSG_041_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Cristo... ele vai ficar bem?[n][f 1 3 65535][w][e]
 
-[msg MSG_042_0_0 [Insegnante pomposo]]
+[msg MSG_042_0_0 [Professor pomposo]]
 [s][vp 8 0 0 0 65535 0]Olá pessoal![n]Meu nome é Yuri Tsubakiyama...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Maaaa eu te disse no ano passado,[n]então é inútil... Mmh?[n]Mas aqui está o novo aluno.[n][f 1 3 65535][w][e]
 
@@ -234,34 +234,34 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Tsk. Vamos dar-lhes a fantasia![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Vamos provar nossa existência com[n]nossas ações! Não podemos[n]falhar com o próximo alvo![n][f 1 3 65535][w][e]
 
-[msg MSG_058_0_0 [Prof. Kawakami]]
+[msg MSG_058_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]※α2対応のダミー内容です。[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Vejamos... Hoje falaremos sobre...[n][f 1 3 65535][w][e]
 
-[msg MSG_059_0_0 [Prof. Kawakami]]
+[msg MSG_059_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]"História de um cortador de bambu"...[n]Uh? Uh, tudo bem...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Vamos, vamos começar. Quem quer[n]começar a ler?[n]Ei! Não seja burro![n][f 1 3 65535][w][e]
 
-[msg MSG_060_0_0 [Prof. Kawakami]]
+[msg MSG_060_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O começo de "História de um[n]cortador de bambu" é simples, não é?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Você poderia ler para mim,[n][f 4 1]-kun?[n][f 1 3 65535][w][e]
 
-[msg MSG_061_0_0 [Prof. Kawakami]]
+[msg MSG_061_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Direita. Há muito tempo,[n]havia um velho que cortava[n]bambu e...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]...Espere. Mas este é o livro[n]do primeiro ano![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Você leu tão bem que eu não[n]percebi nada...[n][f 1 3 65535][w][e]
 
-[msg MSG_062_0_0 [Prof. Kawakami]]
+[msg MSG_062_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O que acontece? Mesmo um[n]primeiro ano deve saber[n]História de um... Oh![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Droga, mas esse é o livro[n]do primeiro ano![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]OPA, desculpe! Não estou surpreso[n]por não saber o que dizer.[n][f 1 3 65535][w][e]
 
-[msg MSG_063_0_0 [Prof. Kawakami]]
+[msg MSG_063_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Se todos vocês notaram algo[n]estranho, devem[n]aconselhá-lo.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Agora eu lembro. Hoje deveríamos[n]deveríamos ter lido "Heike monogatari".[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Meu livro está na[n]sala dos professores, mas... vou inventar[n]alguma coisa.[n][f 1 3 65535][w][e]
 
-[msg MSG_064_0_0 [Prof. Kawakami]]
+[msg MSG_064_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]No toque dos sinos do mosteiro[n]jetavana ecoa[n]a transitoriedade de todas as coisas.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]I fiori degli alberi di s♀la...[n]Com'era... Chi è orgoglioso...[n]No, i sogni di primavera...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Hahaha...Esquece.[n]Vou pegar meu livro.[n]Espera.[n][f 1 3 65535][w][e]
@@ -377,15 +377,15 @@
 [msg MSG_089_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1038 65535 0]Inimigos, hein? Eu já tive o suficiente[n]de golpes baixos.[n][f 1 3 65535][w][e]
 
-[msg MSG_999_0_1 [Studentessa dai capelli neri]]
+[msg MSG_999_0_1 [Estudante de cabelo preto]]
 [s][vp 8 0 0 0 65535 0]Ele é tão calmo.[n][f 1 3 65535][w][e]
 
-[msg MSG_999_5_1 [Studentessa dai capelli castani]]
+[msg MSG_999_5_1 [Estudante de cabelo castanho]]
 [s][vp 8 0 0 0 65535 0]Tem algo de maduro nisso...[n]eu gosto.[n][f 1 3 65535][w][e]
 
-[msg MSG_999_0_0 [Studentessa dai capelli neri]]
+[msg MSG_999_0_0 [Estudante de cabelo preto]]
 [s][vp 8 0 0 0 65535 0]Ele também não sabia como responder[n]esta? É muito ruim.[n][f 1 3 65535][w][e]
 
-[msg MSG_999_5_0 [Studentessa dai capelli castani]]
+[msg MSG_999_5_0 [Estudante de cabelo castanho]]
 [s][vp 8 0 0 0 65535 0]Já. Estou envergonhado[n]por ele.[n][f 1 3 65535][w][e]
 

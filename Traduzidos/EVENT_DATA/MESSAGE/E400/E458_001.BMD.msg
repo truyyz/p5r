@@ -1,4 +1,4 @@
-[msg DVL_000_5_0 [Trasformazione del Santo Graal]]
+[msg DVL_000_5_0 [Transformação do Santo Graal]]
 [s][vp 8 0 0 5 65535 0]Eu sou o administrador gerado[n]pelo inconsciente humano coletivo.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 6 65535 0]Eu sou Yaldabaoth, deus do controle.[n][f 1 3 65535][w][e]
 

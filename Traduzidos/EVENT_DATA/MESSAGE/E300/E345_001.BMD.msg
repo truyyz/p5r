@@ -1,13 +1,13 @@
-[msg MSG_000_0_0 [Ombra di Okumura]]
+[msg MSG_000_0_0 [Sombra de Okumura]]
 [s][bup 0 205 105 0 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]No final, sou apenas o último[n]numa linha de fracassos...[n][f 1 3 65535][w][e]
 
-[msg MSG_001_0_0 [Ombra di Okumura]]
+[msg MSG_001_0_0 [Sombra de Okumura]]
 [s][bup 0 205 103 0 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Entrarei em contato com seu noivo e[n]cancelarei o pedido de casamento.[n][f 1 3 65535][w][e]
 
-[msg MSG_002_5_0 [Ombra di Okumura]]
+[msg MSG_002_5_0 [Sombra de Okumura]]
 [s][bup 0 205 100 0 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Pode ser o fim da[n]Okumura Foods...[n][f 1 3 65535][w][e]
 
-[msg MSG_002_7_0 [Ombra di Okumura]]
+[msg MSG_002_7_0 [Sombra de Okumura]]
 [s][bup 0 205 105 0 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Perdoe-me, Haru...[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [(SE)シャドウ奥村]]
@@ -19,13 +19,13 @@
 [msg MSG_005_0_0 [Ryuji]]
 [s][bup 0 2 111 0 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Você estava por trás das paradas mentais[n]e do raptus, certo?[n][f 1 3 65535][w][e]
 
-[msg MSG_006_0_0 [Ombra di Okumura]]
+[msg MSG_006_0_0 [Sombra de Okumura]]
 [s][bup 0 205 103 0 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Gastei grandes somas de dinheiro[n]aumentando minha empresa[n]e esmagando a concorrência...[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Ryuji]]
 [s][bup 0 2 102 0 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Me responda caramba![n]Você fez isso ou não?[n][f 1 3 65535][w][e]
 
-[msg MSG_008_0_0 [Ombra di Okumura]]
+[msg MSG_008_0_0 [Sombra de Okumura]]
 [s][bup 0 205 102 0 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]N-não pessoalmente! Eu tinha um[n]contrato. Eu apenas solicitei[n]a eliminação deles![n][f 1 3 65535][w][e]
 
 [msg MSG_009_3_0 [Morgana]]
@@ -91,7 +91,7 @@
 [msg MSG_026_5_0 [Haru]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 7 5 301 1][e]
 
-[msg MSG_027_0_0 [Ombra di Okumura]]
+[msg MSG_027_0_0 [Sombra de Okumura]]
 [s][bup 0 205 105 0 0][f 4 10 65535 0 0][vp 8 0 0 32 65535 0]Meu... meu... carro... pi...[n][f 1 3 65535][w][e]
 
 [msg MSG_028_0_0 [Figura misteriosa]]

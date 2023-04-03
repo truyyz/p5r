@@ -34,7 +34,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1184 65535 0]Tomar um banho apenas lhe deu uma boa[n]refrescância. Esses banhos medicinais parecem[n]funcionar.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Oh, você cheira bem também...[n]Você está incrível.[n][f 1 3 65535][w][e]
 
-[msg MSG_DEBUG [Debug]]
+[msg MSG_DEBUG [Depurando]]
 [s]Modo de Depuração[n][f 1 3 65535][w][e]
 
 [sel SEL_DEBUG top]
@@ -43,7 +43,7 @@
 [s]Superlotado[e]
 [s]Sazonal[e]
 
-[msg MSG_DEBUG_2 [Debug]]
+[msg MSG_DEBUG_2 [Depurando]]
 [s]Modo de Seleção de Temporada[n][f 1 3 65535][w][e]
 
 [sel SEL_DEBUG_2 top]

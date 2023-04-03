@@ -1,4 +1,4 @@
-[msg MSG_000_0_0 [Voce di Kawakami]]
+[msg MSG_000_0_0 [Voz de Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 1]-kun, por favor vá[n]ao orientador estudantil.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 1]-kun, por favor vá[n]ao orientador estudantil.[n][f 1 3 65535][w][e]
 

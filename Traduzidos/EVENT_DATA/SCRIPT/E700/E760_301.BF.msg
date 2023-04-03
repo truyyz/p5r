@@ -221,7 +221,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]...Esse curry tem muitos[n]ingredientes, né?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Por acaso você colocou[n]frutas também?[n][f 1 3 65535][w][e]
 
-[msg SYS_026_5_0 [Ingrediente segreto del curry: mele]]
+[msg SYS_026_5_0 [O ingrediente secreto do curry: maçãs]]
 [s][vp 8 2 0 0 65535 0]A fruta ralada é frequentemente usada[n]como um toque secreto em caril.[n]Um toque bem-vindo de doçura.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]Recomenda-se o uso de maçãs cozidas, capazes[n]de adicionar doçura e equilibrar[n]o sabor fortemente picante do curry.[n][f 1 3 65535][w][e]
 
@@ -231,7 +231,7 @@
 [msg MSG_028_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]A propósito... O que era aquele[n]molho pegajoso que você adicionou?[n][f 1 3 65535][w][e]
 
-[msg SYS_028_5_0 [Ingrediente segreto del curry: miele]]
+[msg SYS_028_5_0 [Ingrediente secreto do curry: mel]]
 [s][vp 8 2 0 0 65535 0]O mel é um néctar floral coletado pelas abelhas.[n]Como ingrediente secreto do curry, ele amacia a[n]carne e adiciona doçura.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]O mel confere profundidade ao[n]perfil de sabor do caril sem[n]enfraquecer os seus aromas. Excelente.[n][f 1 3 65535][w][e]
 
@@ -241,7 +241,7 @@
 [msg MSG_030_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]A propósito... O que foi esse[n]molho branco que você adicionou?[n][f 1 3 65535][w][e]
 
-[msg SYS_030_5_0 [Ingrediente segreto del curry: yogurt]]
+[msg SYS_030_5_0 [Ingrediente secreto do curry: iogurte]]
 [s][vp 8 2 0 0 65535 0]Este produto lácteo é usado para adicionar[n]acidez, riqueza e doçura ao curry,[n]equilibrando o sabor picante.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]Comum na Índia, lar do curry,[n]ogurte é conhecido por seus probióticos que[n]estimulam o sistema imunológico.[n][f 1 3 65535][w][e]
 
@@ -251,7 +251,7 @@
 [msg MSG_032_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]A propósito... O que foi esse[n]molho marrom que você adicionou?[n][f 1 3 65535][w][e]
 
-[msg SYS_032_5_0 [Ingrediente segreto del curry: salsa Worcester]]
+[msg SYS_032_5_0 [Ingrediente secreto do curry: molho Worcestershire]]
 [s][vp 8 2 0 0 65535 0]Este tempero simples acrescenta riqueza e acidez,[n]dando ao curry um sabor ligeiramente diferente.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]Um molho de ostra também pode ser usado. O sabor[n]resultante será semelhante ao curry preparado no[n]dia anterior.[n][f 1 3 65535][w][e]
 
@@ -261,7 +261,7 @@
 [msg MSG_034_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]A propósito... O que foi essa[n]coisa marrom que você adicionou?[n][f 1 3 65535][w][e]
 
-[msg SYS_034_5_0 [Ingrediente segreto del curry: cioccolato]]
+[msg SYS_034_5_0 [Ingrediente secreto do curry: chocolate]]
 [s][vp 8 2 0 0 65535 0]O chocolate, em pequenas quantidades, pode ser[n]usado como ingrediente secreto no curry para[n]aumentar o tempero e enriquecer o sabor.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]Cuidado para não exagerar nas quantidades, senão[n]o equilíbrio gustativo do curry será destruído[n][f 1 3 65535][w][e]
 
@@ -271,7 +271,7 @@
 [msg MSG_036_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]A propósito... O que era aquele[n]pó marrom que você adicionou?[n][f 1 3 65535][w][e]
 
-[msg SYS_036_5_0 [Ingrediente segreto del curry: caffè]]
+[msg SYS_036_5_0 [Ingrediente secreto do curry: café]]
 [s][vp 8 2 0 0 65535 0]Quando usado em caril, o café instantâneo pode[n]tornar o prato mais complexo e mais amargo.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]O café tem propriedades antioxidantes e[n]emagrecedoras, mas em grandes quantidades pode[n]tornar o caril excessivamente amargo.[n][f 1 3 65535][w][e]
 
@@ -281,7 +281,7 @@
 [msg MSG_038_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]A propósito... O que era aquele[n]líquido vermelho que você adicionou?[n][f 1 3 65535][w][e]
 
-[msg SYS_038_5_0 [Ingrediente segreto del curry: vino rosso]]
+[msg SYS_038_5_0 [Ingrediente secreto do curry: vinho tinto]]
 [s][vp 8 2 0 0 65535 0]Essa bebida alcoólica, quando usada como[n]ingrediente secreto no curry, acrescenta[n]riqueza, acidez e maciez à carne.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]O álcool de cozinha libera antioxidantes que[n]protegem a pele e reduzem[n]sinais de envelhecimento.[n][f 1 3 65535][w][e]
 
@@ -291,7 +291,7 @@
 [msg MSG_040_0_0 [Morgana]]
 [s][bup 0 3 4 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Enfim... vejo que você[n]passa um pouco de pó também, né?[n][f 1 3 65535][w][e]
 
-[msg SYS_040_5_0 [Spezia: cumino]]
+[msg SYS_040_5_0 [Tempero: cominho]]
 [s][vp 8 2 0 0 65535 0]Esta especiaria milenar é uma das principais[n]protagonistas do caril. Cominho é o que[n]dá ao curry seu aroma tentador.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]Também é conhecido por sua cura,[n]digestivo, aliviando[n]dor de estômago e saúde do fígado.[n][f 1 3 65535][w][e]
 
@@ -301,7 +301,7 @@
 [msg MSG_042_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]A propósito... O que foi aquele[n]pó que você adicionou?[n][f 1 3 65535][w][e]
 
-[msg SYS_042_5_0 [Spezia: cardamomo]]
+[msg SYS_042_5_0 [Especiaria: cardamomo]]
 [s][vp 8 2 0 0 65535 0]O cardamomo é uma das principais especiarias[n]usadas no caril. Possui aroma picante,[n]refrescante e levemente amargo.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]Comumente usado para refrescar o hálito, o[n]cardamomo também é famoso por suas propriedades[n]digestivas e emagrecedoras.[n][f 1 3 65535][w][e]
 
@@ -311,7 +311,7 @@
 [msg MSG_044_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]A propósito... O que era aquele[n]pó marrom que você adicionou?[n][f 1 3 65535][w][e]
 
-[msg SYS_044_5_0 [Spezia: chiodo di garofano]]
+[msg SYS_044_5_0 [Especiaria: cravo]]
 [s][vp 8 2 0 0 65535 0]Uma das especiarias usadas no garam masala.[w][e]
 [s][vp 8 2 0 0 65535 0]Diz-se que na Europa medieval o cravo[n]era usado para afastar[n]demônios graças ao seu cheiro muito forte.[n][f 1 3 65535][w][e]
 
@@ -321,7 +321,7 @@
 [msg MSG_046_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]A propósito... O que foi aquele[n]pó que você adicionou?[n][f 1 3 65535][w][e]
 
-[msg SYS_046_5_0 [Spezia: coriandolo]]
+[msg SYS_046_5_0 [Especiaria: coentro]]
 [s][vp 8 2 0 0 65535 0]Um tempero usado em muitos curries.[n]Coentro adiciona uma doçura sutil ao prato[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]A planta do coentro é totalmente comestível. As[n]sementes são secas e usadas como tempero e as[n]folhas como erva aromática.[n][f 1 3 65535][w][e]
 
@@ -333,7 +333,7 @@
 [s][bup 0 3 4 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Miau-hoo!!![n][f 1 3 65535][w][e]
 [s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Era... era pimenta-do-reino, né?[n][f 1 3 65535][w][e]
 
-[msg SYS_048_5_0 [Spezia: pepe nero]]
+[msg SYS_048_5_0 [Especiaria: pimenta preta]]
 [s][vp 8 2 0 0 65535 0]A pimenta-do-reino é um tempero comum com aroma[n]refrescante e sabor forte. Em curry[n]sa adiciona profundidade ao tempero.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]Preto, verde ou branco, são variedades da mesma[n]planta. O sabor muda de acordo com o[n]processamento da pimenta.[n][f 1 3 65535][w][e]
 
@@ -343,7 +343,7 @@
 [msg MSG_050_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]A propósito... O que eram aqueles galhos[n]que você adicionou?[n][f 1 3 65535][w][e]
 
-[msg SYS_050_5_0 [Spezia: cannella]]
+[msg SYS_050_5_0 [Especiaria: canela]]
 [s][vp 8 2 0 0 65535 0]Um tempero com um aroma refinado e refrescante.[n]Sua combinação de doçura e tempero[n]adiciona grande profundidade ao curry.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]A canela é feita a partir da casca seca da árvore[n]da canela. É usado para a preparação de doces e[n]especiarias.[n][f 1 3 65535][w][e]
 
@@ -353,7 +353,7 @@
 [msg MSG_052_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]A propósito... O que foi aquele[n]pó amarelo que você adicionou?[n][f 1 3 65535][w][e]
 
-[msg SYS_052_5_0 [Spezia: curcuma]]
+[msg SYS_052_5_0 [Especiaria: açafrão]]
 [s][vp 8 2 0 0 65535 0]Um tempero de curry essencial. É obtido[n]de uma planta da família do gengibre[n]e é frequentemente usado como corante.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]A cúrcuma tem um sabor ligeiramente[n]amargo. No Sri Lanka é usado em vez de[n]açafrão para tingir roupas.[n][f 1 3 65535][w][e]
 
@@ -363,7 +363,7 @@
 [msg MSG_054_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]A propósito... O que foi aquele[n]pó que você adicionou?[n][f 1 3 65535][w][e]
 
-[msg SYS_054_5_0 [Spezia: noce moscata]]
+[msg SYS_054_5_0 [Especiaria: noz-moscada]]
 [s][vp 8 2 0 0 65535 0]De aroma doce e refrescante, é uma das[n]espécies mais utilizadas no mundo, além de[n]um dos principais ingredientes do garam masala.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]Conhecida por seu efeito aquecedor, a noz moscada[n]é excelente para quem tem problemas estomacais e[n]principalmente para quem sofre de resfriado.[n][f 1 3 65535][w][e]
 
@@ -381,7 +381,7 @@
 [msg MSG_102_0_0 [Futaba]]
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 9196 65535 0]Mal posso esperar![n][f 1 3 65535][w][e]
 
-[msg MSG_DEBUG [Debug]]
+[msg MSG_DEBUG [Depurando]]
 [s]Modo de Depuração[n][f 1 3 65535][w][e]
 
 [sel SEL_DEBUG top]
@@ -391,7 +391,7 @@
 [s]Morgana[e]
 [s]Sozinho[e]
 
-[msg MSG_DEBUG_2 [Debug]]
+[msg MSG_DEBUG_2 [Depurando]]
 [s]Modo de Depuração[n][f 1 3 65535][w][e]
 
 [sel SEL_DEBUG_2 top]

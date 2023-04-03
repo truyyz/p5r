@@ -39,21 +39,21 @@
 [s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Não, não venho trabalhar hoje...[n]Não... não estou me sentindo muito bem...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Desculpe... Oi.[n][f 1 3 65535][w][e]
 
-[msg MSG_013_0_0 [Studente annoiato]]
+[msg MSG_013_0_0 [Estudante entediado]]
 [s][vp 8 0 0 15 6 0]Ei, não era Takamaki?[n][f 1 3 65535][w][e]
 
-[msg MSG_014_0_0 [Studente pettegolo]]
+[msg MSG_014_0_0 [Aluno fofoqueiro]]
 [s][vp 8 0 0 16 5 0]Há rumores de que ele está namorando[n]com Kamoshida.[n][f 1 3 65535][w][e]
 
-[msg MSG_015_0_0 [Studente annoiato]]
+[msg MSG_015_0_0 [Estudante entediado]]
 [s][vp 8 0 0 17 6 0]Sério?[n][f 1 3 65535][w][e]
 
-[msg MSG_016_0_0 [Studente pettegolo]]
+[msg MSG_016_0_0 [Aluno fofoqueiro]]
 [s][vp 8 0 0 18 5 0]Ouvi dizer que alguém os viu[n]juntos em seu carro.[n][f 1 3 65535][w][e]
 
-[msg MSG_017_0_0 [Studente annoiato]]
+[msg MSG_017_0_0 [Estudante entediado]]
 [s][vp 8 0 0 19 6 0]Ei ... ela parece uma garota fácil,[n]eh? Você acha que eu também tenho[n]uma chance?[n][f 1 3 65535][w][e]
 
-[msg MSG_018_0_0 [Studente pettegolo]]
+[msg MSG_018_0_0 [Aluno fofoqueiro]]
 [s][vp 8 0 0 20 5 0]Vamos cara, você não pode abanar[n]atrás da cadela de Kamoshida![n][f 1 3 65535][w][e]
 

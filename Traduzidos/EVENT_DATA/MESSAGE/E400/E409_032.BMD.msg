@@ -1,7 +1,7 @@
 [msg MSG_000_0_0 [Ryuji]]
 [s][bup 0 2 101 65535 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]Ei cara, você tem um segundo?[n][f 1 3 65535][w][e]
 
-[msg MSG_001_0_0 [Ombra Ex nobile]]
+[msg MSG_001_0_0 [Sombra Ex nobre]]
 [s][vp 8 0 0 2 65535 0]......[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Ryuji]]
@@ -24,7 +24,7 @@
 [msg MSG_007_0_0 [Haru]]
 [s][bup 0 7 104 65535 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Por favor, senhor.[n][f 1 3 65535][w][e]
 
-[msg MSG_008_0_0 [Ombra Ex nobile]]
+[msg MSG_008_0_0 [Sombra Ex nobre]]
 [s][vp 8 0 0 11 65535 0]Desculpe, mas por favor me deixe[n]em paz. Não tenho tempo para[n]vocês, crianças bagunceiras.[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Ryuji]]

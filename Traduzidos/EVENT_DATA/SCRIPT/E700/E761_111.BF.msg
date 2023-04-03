@@ -84,7 +84,7 @@
 [msg MSG_YUUSUKE_end [Yusuke]]
 [s][vp 8 2 0 4054 65535 0]Bem, até mais tarde.[n][f 1 3 65535][w][e]
 
-[msg MSG_DEBUG [Debug]]
+[msg MSG_DEBUG [Depurando]]
 [s]Modo de Depuração[n][f 1 3 65535][w][e]
 
 [sel SEL_DEBUG top]
@@ -93,7 +93,7 @@
 [s]Yusuke (1º)[e]
 [s]Yusuke (normale)[e]
 
-[msg MSG_DEBUG_2 [Debug]]
+[msg MSG_DEBUG_2 [Depurando]]
 [s]Modo de Seleção de Temporada[n][f 1 3 65535][w][e]
 
 [sel SEL_DEBUG_2 top]

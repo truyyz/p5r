@@ -1111,14 +1111,14 @@
 [msg MSG_CRAFT_RE_UP [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1018 65535 0][f 4 22 65535 1 41]Você fez o que tinha que fazer?[n][f 1 3 65535][w][e]
 
-[msg MSG_DEBUG [Debug]]
+[msg MSG_DEBUG [Depurando]]
 [s][vp 8 2 0 0 65535 0]Modo de Depuração[n][f 1 3 65535][w][e]
 
 [sel SEL_DEBUG top]
 [s]Usar[e]
 [s]Não use[e]
 
-[msg MSG_DEBUG_2 [Debug]]
+[msg MSG_DEBUG_2 [Depurando]]
 [s][vp 8 2 0 0 65535 0]Escolher professor[n][f 1 3 65535][w][e]
 
 [sel SEL_DEBUG_2 top]

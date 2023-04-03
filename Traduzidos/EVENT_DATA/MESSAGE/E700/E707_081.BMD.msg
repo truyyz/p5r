@@ -29,13 +29,13 @@
 [msg MSG_008_0_0 [Ryuji]]
 [s][bup 0 2 11 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ouça. Aqui está a verdade[n]sobre a nova equipe de atletismo.[n][f 1 3 65535][w][e]
 
-[msg MSG_009_0_0 [Voce di Yamauchi]]
+[msg MSG_009_0_0 [Voz de Yamauchi]]
 [s][vp 8 0 0 0 65535 0]Será o renascimento de um grupo[n]acabado no abismo do[n]desespero. Que história linda![n][f 1 3 65535][w][e]
 
-[msg MSG_010_0_0 [Voce di Yamauchi]]
+[msg MSG_010_0_0 [Voz de Yamauchi]]
 [s][vp 8 0 0 0 65535 0]E a melhor parte é que[n]Takeishi não é apenas rico, mas sua mãe[n]preside a associação de pais.[n][f 1 3 65535][w][e]
 
-[msg MSG_011_0_0 [Voce di Yamauchi]]
+[msg MSG_011_0_0 [Voz de Yamauchi]]
 [s][vp 8 0 0 0 65535 0]Até então, no entanto, isso me ajudará[n]demonstrar aos outros[n]os benefícios da obediência.[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Takeishi]]

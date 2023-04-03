@@ -1,15 +1,15 @@
-[msg MSG_000_0_0 [Capitão da Guarda]]
+[msg MSG_000_0_0 [Capitão da guarda]]
 [s][vp 8 0 0 1 65535 0]Alegre-se, sua[n]sentença foi definida.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 2 65535 0]Você é acusado de[n]"invasão".[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 3 65535 0]Portanto, você será[n]condenado à morte.[n][f 1 3 65535][w][e]
 
-[msg MSG_001_0_0 [Jovem grosseiro]]
+[msg MSG_001_0_0 [Jovem Grosseiro]]
 [s][bup 0 2 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]O quê!?![n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Voz familiar]]
 [s][vp 8 0 0 5 65535 0]Ninguém tem permissão para vagar[n]livremente em meu castelo.[n][f 1 3 65535][w][e]
 
-[msg MSG_003_0_0 [Jovem grosseiro]]
+[msg MSG_003_0_0 [Jovem Grosseiro]]
 [s][bup 0 2 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Hã? Espere...[n]É você, Kamoshida?[n][f 1 3 65535][w][e]
 
 [sel SEL_004_0_0 top]

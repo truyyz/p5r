@@ -1,25 +1,25 @@
-[msg MSG_001_0_0 [Giovane rozzo]]
+[msg MSG_001_0_0 [Jovem rude]]
 [s][vp 8 0 0 0 65535 0]Ei, você viu a mulher[n]que acabou de passar?[n]Que maravilha, né?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Se ela tem um jaleco branco, ela deve[n]ser médica.[n]Uau, bem meu tipo![n][f 1 3 65535][w][e]
 
-[msg MSG_002_0_0 [Ragazzo saputello]]
+[msg MSG_002_0_0 [Menino sabe-tudo]]
 [s][vp 8 0 0 0 65535 0]Ei, cara, espere um minuto.[n]Ela pode ser aquele charlatão[n]que eles estão falando.[n][f 1 3 65535][w][e]
 
-[msg MSG_003_0_0 [Giovane rozzo]]
+[msg MSG_003_0_0 [Jovem rude]]
 [s][vp 8 0 0 0 65535 0]Ah, um daqueles médicos que nem te examinam? Você[n]pede medicamentos e ela prescreve?[n][f 1 3 65535][w][e]
 
-[msg MSG_004_0_0 [Ragazzo saputello]]
+[msg MSG_004_0_0 [Menino sabe-tudo]]
 [s][vp 8 0 0 0 65535 0]Exatamente. Aparentemente, ele dirige uma clínica[n]isolada em algum lugar aqui na área.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Um amigo meu queria uns soníferos[n]e deram para ele lá[n]sem problemas.[n][f 1 3 65535][w][e]
 
-[msg MSG_005_0_0 [Giovane rozzo]]
+[msg MSG_005_0_0 [Jovem rude]]
 [s][vp 8 0 0 0 65535 0]Mas que caralho? Parece uma coisa obscura. Ela é[n]uma charlatã ou nem mesmo licenciada?[n][f 1 3 65535][w][e]
 
-[msg MSG_006_0_0 [Ragazzo saputello]]
+[msg MSG_006_0_0 [Menino sabe-tudo]]
 [s][vp 8 0 0 0 65535 0]Pesquisei online, ela é uma médica registrada.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Eu nunca irei lá de qualquer maneira.[n]Parece muito arriscado...[n][f 1 3 65535][w][e]
 
-[msg ``MSG_0**_0_0`` [Ragazzo saputello]]
+[msg ``MSG_0**_0_0`` [Menino sabe-tudo]]
 [s][vp 8 0 0 0 65535 0][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Morgana]]

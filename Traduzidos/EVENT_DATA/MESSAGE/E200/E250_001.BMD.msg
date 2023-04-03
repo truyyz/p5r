@@ -1,10 +1,10 @@
-[msg MSG_001_0_0 [Uomo minaccioso]]
+[msg MSG_001_0_0 [Homem ameaçador]]
 [s][vp 8 0 0 1 65535 0]Ele quer conhecê-lo.[n]Suba.[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Makoto]]
 [s][bup 0 6 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Sem brincadeiras,[n]leve-me para Kaneshiro.[n][f 1 3 65535][w][e]
 
-[msg MSG_003_0_0 [Uomo con piercing]]
+[msg MSG_003_0_0 [Homem com piercing]]
 [s][vp 8 0 0 3 65535 0]Ela disse "Levante-se!"[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Ryuji]]
@@ -17,16 +17,16 @@
 [msg MSG_005_0_0 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Ele ainda está no telefone?!?[n][f 1 3 65535][w][e]
 
-[msg MSG_014_0_0 [Voce maschile minacciosa]]
+[msg MSG_014_0_0 [Voz masculina ameaçadora]]
 [s][vp 8 0 0 8 65535 0]Ligue para Kaneshiro-san.[n]Diga a ele que temos um.[n][f 1 3 65535][w][e]
 
-[msg MSG_015_0_0 [Voce di Makoto]]
+[msg MSG_015_0_0 [A voz de Makoto]]
 [s][vp 8 0 0 9 65535 0]Para onde estamos indo?[n][f 1 3 65535][w][e]
 
-[msg MSG_016_0_0 [Voce dell'uomo con piercing]]
+[msg MSG_016_0_0 [Voz do homem com piercings]]
 [s][vp 8 0 0 10 65535 0]Não podemos fazer nada com ela, podemos?[n]Ela é uma cliente de Kaneshiro-san...[n][f 1 3 65535][w][e]
 
-[msg MSG_017_0_0 [Voce di Makoto]]
+[msg MSG_017_0_0 [A voz de Makoto]]
 [s][vp 8 0 0 11 65535 0]Ei, eu te fiz uma pergunta.[n]Para onde estamos indo?[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Ann]]

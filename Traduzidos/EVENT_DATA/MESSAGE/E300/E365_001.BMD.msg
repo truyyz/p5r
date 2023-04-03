@@ -1,11 +1,11 @@
-[msg MSG_000_0_0 [Voce di Sae]]
+[msg MSG_000_0_0 [Voz de Sae]]
 [s][bup 0 105 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]...estou em casa.[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Olá, irmã.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Posso esquentar seu jantar?[n][f 1 3 65535][w][e]
 
-[msg MSG_004_0_0 [Voce di Sae]]
+[msg MSG_004_0_0 [Voz de Sae]]
 [s][bup 0 105 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Não, está tudo bem.[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Makoto]]

@@ -1,4 +1,4 @@
-[msg MSG_025_0_0 [Presentatrice carina]]
+[msg MSG_025_0_0 [Linda apresentadora]]
 [s][vp 8 0 0 37 12 0]Bem, vamos tentar perguntar[n]a este aluno.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 38 12 0]Hipotéticamente falando. O que você[n]acha desses Phantom Thieves, se eles[n]forem reais?[n][f 1 3 65535][w][e]
 
@@ -11,7 +11,7 @@
 [s]......[n][w][e]
 [s]Não, meu[n][f 4 11 0][clr 26][f 4 12 0][clr 27] deve ter pelo menos[n]nível [clr 26]Acadêmico[clr 27].. .[n][w][e]
 
-[msg MSG_025_5_0 [Presentatrice carina]]
+[msg MSG_025_5_0 [Linda apresentadora]]
 [s][vp 1 0 0 0 0 0][f 0 6 255 0]Hipotéticamente falando. O que você[n]acha desses Phantom Thieves, se eles[n]forem reais?[n][f 1 3 65535][e]
 
 [msg TEST_MINE]

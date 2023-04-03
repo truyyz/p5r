@@ -25,10 +25,10 @@
 [msg MSG_007_0_0 [Morgana]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 3 12 300 1][vp 8 0 0 9 65535 0]Suba![n][f 1 3 65535][w][e]
 
-[msg MSG_008_0_0 [Ombra di Kaneshiro]]
+[msg MSG_008_0_0 [Sombra de Kaneshiro]]
 [s][bup 0 207 100 0 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Então você se oporá apesar de[n]tudo. Muito bem. Vou esperar por você.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]No mundo real você não terá escapatória.[n]E nem aqui, graças ao[n]meu sistema de segurança.[n][f 1 3 65535][w][e]
 
-[msg MSG_008_5_0 [Ombra di Kaneshiro]]
+[msg MSG_008_5_0 [Sombra de Kaneshiro]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 210 3 300 1][vp 8 0 0 12 65535 0]Não importa o que você faça![n]Você pode dizer adeus ao seu futuro![n][f 1 3 65535][w][e]
 

@@ -4,44 +4,44 @@
 [msg MND_001_0_0]
 [s][vp 8 0 0 0 65535 0]Dar a resposta certa[n]me faz sentir mais brilhante...[n][f 1 3 65535][w][e]
 
-[msg MSG_002_0_0 [Studentessa dai capelli neri]]
+[msg MSG_002_0_0 [Estudante de cabelo preto]]
 [s][vp 8 0 0 0 65535 0]Nossa, sério?[n][f 1 3 65535][w][e]
 
-[msg MSG_003_0_0 [Studentessa dai capelli castani]]
+[msg MSG_003_0_0 [Estudante de cabelo castanho]]
 [s][vp 8 0 0 0 65535 0][f 4 1] parece um cara[n]esperto, não é?[n][f 1 3 65535][w][e]
 
-[msg MSG_004_0_0 [Studentessa dai capelli neri]]
+[msg MSG_004_0_0 [Estudante de cabelo preto]]
 [s][vp 8 0 0 0 65535 0]Eu sabia que ele não[n]acertaria...[n][f 1 3 65535][w][e]
 
-[msg MSG_005_0_0 [Studentessa dai capelli castani]]
+[msg MSG_005_0_0 [Estudante de cabelo castanho]]
 [s][vp 8 0 0 0 65535 0]Óbvio. Quer dizer, ele é...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Merda, ele está olhando para nós![n][f 1 3 65535][w][e]
 
-[msg MSG_006_0_0 [Studentessa dai capelli neri]]
+[msg MSG_006_0_0 [Estudante de cabelo preto]]
 [s][vp 8 0 0 0 65535 0]その5[n][f 1 3 65535][w][e]
 
-[msg MSG_007_0_0 [Studentessa dai capelli castani]]
+[msg MSG_007_0_0 [Estudante de cabelo castanho]]
 [s][vp 8 0 0 0 65535 0]その6[n][f 1 3 65535][w][e]
 
-[msg MSG_008_0_0 [Studentessa dai capelli neri]]
+[msg MSG_008_0_0 [Estudante de cabelo preto]]
 [s][vp 8 0 0 0 65535 0]Ah, não é? Parecia[n]certo...[n][f 1 3 65535][w][e]
 
-[msg MSG_009_0_0 [Studentessa dai capelli castani]]
+[msg MSG_009_0_0 [Estudante de cabelo castanho]]
 [s][vp 8 0 0 0 65535 0]Direita? Estou feliz por não ter sido escalado.[n][f 1 3 65535][w][e]
 
-[msg MSG_010_0_0 [Giovane insegnante]]
+[msg MSG_010_0_0 [Professor jovem]]
 [s][vp 8 2 0 37150 65535 0][bup 0 303 0 0 0][f 4 10 65535 0 0]Olá pessoal...[n]sou o Prof. Hiruta, seu[n]professor de biologia.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Vocês todos ficarão chocados depois do que[n]aconteceu com Suzui-san.[n]Foi um choque para mim também.[n][f 1 3 65535][w][e]
 
-[msg MSG_011_0_0 [Prof. Hiruta]]
+[msg MSG_011_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Embora eu ache que entendo[n]como ele se sentiu.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Seus olhos estavam sem vida[n]enquanto repousavam sobre este[n]mundo triste e sem esperança.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Bem, acho que todo mundo[n]tem sua própria visão do mundo.[n]Vamos fazer um teste.[n][f 1 3 65535][w][e]
 
-[msg MSG_012_0_0 [Prof. Hiruta]]
+[msg MSG_012_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37157 65535 0]Você, aí![n]Dê uma olhada neste[n]diagrama.[n][f 1 3 65535][w][e]
 
-[msg MSG_013_0_0 [Prof. Hiruta]]
+[msg MSG_013_0_0 [Prof Hiruta]]
 [s][vp 8 0 0 0 65535 0]A linha que se estende de A[n]conecta a B ou C?[n]Qual?[n][f 1 3 65535][w][e]
 
 [sel SEL_014_0_0 top]
@@ -49,20 +49,20 @@
 [s]C.[f 2 7 0 0 25 1][e]
 [s]Nenhum dos dois.[e]
 
-[msg MSG_015_0_0 [Prof. Hiruta]]
+[msg MSG_015_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37161 65535 0]Correto.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Parece que seus olhos[n]não escapam da verdade.[n][f 1 3 65535][w][e]
 
-[msg MSG_016_0_0 [Prof. Hiruta]]
+[msg MSG_016_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37164 65535 0]Então você não pode ver...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]A resposta correta é[n]ele se conecta à linha C.[n][f 1 3 65535][w][e]
 
-[msg MSG_017_0_0 [Prof. Hiruta]]
+[msg MSG_017_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]É uma ilusão de ótica.[n]Alguns veem corretamente,[n]alguns não.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Não é estranho ver diferentemente[n]a mesma imagem?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Os humanos não veem o mundo como[n]é. Nós simplesmente processamos[n]impulsos visuais com o cérebro.[n][f 1 3 65535][w][e]
 
-[msg MSG_018_0_0 [Prof. Hiruta]]
+[msg MSG_018_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]A maneira como você percebe o mundo[n]não passa de um engano da[n]mente... Tudo é mera cognição.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Não há evidências que certifiquem[n]que o mundo que vemos[n]é o mesmo para todos.[n][f 1 3 65535][w][e]
 
@@ -234,20 +234,20 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1035 65535 0]Vamos garantir que as pessoas não[n]nos considerem uma mera ilusão.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Mas primeiro, você precisa estudar[n]para os exames que começam[n]amanhã.[n][f 1 3 65535][w][e]
 
-[msg MSG_060_0_0 [Prof. Ushimaru]]
+[msg MSG_060_0_0 [Prof Ushimaru]]
 [s][vp 8 0 0 0 65535 0]※授業内容はα2用のダミーです。[n][f 1 3 65535][w][e]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E amanhã você terá a[n]viagem de campo de ciências sociais...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]É uma chance de pensar no[n]seu futuro.[n]Tente ser cuidadoso.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]...E não se deixe reconhecer.[n]Nós nos entendemos? Daria uma[n]imagem ruim da escola.[n][f 1 3 65535][w][e]
 
-[msg MSG_061_0_0 [Prof. Ushimaru]]
+[msg MSG_061_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Oh sim. Esse ano temos[n]um grupo que vai[n]para a emissora, né?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Certamente há[n]alguém nesta classe interessado em[n]trabalhar com mídia.[n][f 1 3 65535][w][e]
 
-[msg MSG_062_0_0 [Prof. Ushimaru]]
+[msg MSG_062_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 1]. Você vai lá também?[n]Então é melhor revisar, para[n]não causar uma impressão estúpida.[n][f 1 3 65535][w][e]
 
-[msg MSG_063_0_0 [Prof. Ushimaru]]
+[msg MSG_063_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Que prédio foi construído[n]após a Segunda Guerra Mundial para[n]transmitir ondas de rádio em Kanto?[n][f 1 3 65535][w][e]
 
 [sel SEL_064_0_0 top]
@@ -255,20 +255,20 @@
 [s]Torre de Rádio do Japão.[f 2 7 0 0 25 1][e]
 [s]Torre do Sol.[e]
 
-[msg MSG_065_0_0 [Prof. Ushimaru]]
+[msg MSG_065_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Exatamente.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Embora todos a chamem de Torre de Tóquio, seu[n]nome formal é Torre de Rádio do Japão.[n][f 1 3 65535][w][e]
 
-[msg MSG_066_0_0 [Prof. Ushimaru]]
+[msg MSG_066_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]As crianças de hoje...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]O nome formal da Tokyo[n]Tower é Japan Radio Tower.[n]Tente se lembrar disso.[n][f 1 3 65535][w][e]
 
-[msg MSG_067_0_0 [Prof. Ushimaru]]
+[msg MSG_067_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]No entanto, o nome "Torre de Tóquio"[n]foi decidido em um referendo.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]No entanto, o nome mais votado[n]foi "Torre Showa"...que[n]soa muito melhor.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Uma torre vermelha ardente que[n]toca o céu... Um símbolo de[n]nossa prosperidade econômica.[n][f 1 3 65535][w][e]
 
-[msg MSG_068_0_0 [Prof. Ushimaru]]
+[msg MSG_068_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Dito isso, hoje todos eles[n]transmitem shows sem alma...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Umpf. Talvez a juventude de hoje[n]falte criatividade[n]e desejo.[n][f 1 3 65535][w][e]
 
@@ -317,19 +317,19 @@
 [msg MSG_079_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1028 65535 0]Contanto que façam seu trabalho,[n]quem se importa se são mulheres ou[n]homens? Cara, gente...[n][f 1 3 65535][w][e]
 
-[msg MSG_080_0_0 [Prof. Kawakami]]
+[msg MSG_080_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15028 65535 0]Achei que ia me atrasar.[n]Esta manhã, alguns clientes estavam[n]discutindo na loja de conveniência.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Uma mulher muito elegante[n]e um velho com[n]acessórios de ouro.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Ambos gritavam de seu[n]pedestal e, embora bem vestidos,[n]pareciam o "nouveau riche".[n][f 1 3 65535][w][e]
 
-[msg MSG_081_0_0 [Prof. Kawakami]]
+[msg MSG_081_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]A propósito, as palavras japonesas[n]"pedestal" e "nouveau riche"[n]ambas vêm de shogi.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Muitos não conhecem[n]shogi, mas é sempre[n]bom aprender algo sobre isso.[n][f 1 3 65535][w][e]
 
-[msg MSG_082_0_0 [Prof. Kawakami]]
+[msg MSG_082_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Então, [f 4 1]-kun.[n]Você já viu esta peça?[n][f 1 3 65535][w][e]
 
-[msg MSG_083_0_0 [Prof. Kawakami]]
+[msg MSG_083_0_0 [Prof Kawakami]]
 [s][vp 8 2 0 15118 65535 0]Este caractere é a forma[n]cursiva de um[n]kanji específico. Você pode me dizer qual?[n][f 1 3 65535][w][e]
 
 [sel SEL_084_0_0 top]
@@ -337,19 +337,19 @@
 [s]Adivinhação.[e]
 [s]Ouro.[f 2 7 0 0 25 1][e]
 
-[msg MSG_085_0_0 [Prof. Kawakami]]
+[msg MSG_085_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15121 65535 0]Isso mesmo.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]É a forma cursiva do[n]kanji "ouro", que está[n]escrito na parte de trás do peão.[n][f 1 3 65535][w][e]
 
-[msg MSG_086_0_0 [Prof. Kawakami]]
+[msg MSG_086_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15125 65535 0]Não, que pena.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]É a forma cursiva do[n]kanji "ouro", que está[n]escrito na parte de trás do peão.[n][f 1 3 65535][w][e]
 
-[msg MSG_087_0_0 [Prof. Kawakami]]
+[msg MSG_087_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]No shogi, você pode optar por[n]"promover" suas peças[n]sob certas condições.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Uma peça fraca como um peão pode transformar-se[n]em ouro se você invadir o campo do inimigo,[n]portanto, "nouveau riche".[n][f 1 3 65535][w][e]
 
-[msg MSG_088_0_0 [Prof. Kawakami]]
+[msg MSG_088_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]No entanto, o "nouveau riche" tende a[n]usar roupas caras porque[n]quer ser reconhecível.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Uma vez atendidas as necessidades básicas, como[n]comida, abrigo e roupas, o primeiro desejo é o[n]reconhecimento.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]É por isso que as pessoas tentam[n]parecer mais velhas[n]mostrando seu poder por meio do dinheiro.[n][f 1 3 65535][w][e]
@@ -649,20 +649,20 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1175 65535 0]Você a ouviu, Joker.[n]Seu nome combina perfeitamente com você,[n]se assim posso dizer.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Eu também deveria ter escolhido[n]um nome legal...[n][f 1 3 65535][w][e]
 
-[msg MSG_160_0_0 [Prof. Kawakami]]
+[msg MSG_160_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15115 65535 0]*bocejo*[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Por que você está me encarando? Não é minha culpa[n]que eu esteja com tanto sono, sabe.[n][f 1 3 65535][w][e]
 
-[msg MSG_161_0_0 [Prof. Kawakami]]
+[msg MSG_161_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Meus vizinhos têm sido descuidados[n]com o lixo... Os corvos[n]festejaram esta manhã.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Os cestos de lixo do município apenas[n]os mantiveram afastados no início.[n]Esses corvos aprendem rápido.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]A propósito, você sabe como se escreve o kanji[n]para "corvo"?[n][f 1 3 65535][w][e]
 
-[msg MSG_162_0_0 [Prof. Kawakami]]
+[msg MSG_162_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Os caracteres para "pássaro" e "corvo"[n]são semelhantes, mas o último tem[n]algumas linhas a menos.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]E quanto a, [f 4 1]-kun?[n]Não é fácil confundi-lo[n]com "pássaro"?[n][f 1 3 65535][w][e]
 
-[msg MSG_163_0_0 [Prof. Kawakami]]
+[msg MSG_163_0_0 [Prof Kawakami]]
 [s][vp 8 2 0 15118 65535 0]Você sabe o que representa a linha[n]em "bird" mas não[n]em "crow"?[n][f 1 3 65535][w][e]
 
 [sel SEL_164_0_0 top]
@@ -671,17 +671,17 @@
 [s]Um olho.[f 2 7 0 0 25 1][e]
 [s]Buracos de nariz.[e]
 
-[msg MSG_165_0_0 [Prof. Kawakami]]
+[msg MSG_165_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15122 65535 0]Exatamente.[n][f 1 3 65535][w][e]
 
-[msg MSG_166_0_0 [Prof. Kawakami]]
+[msg MSG_166_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15125 65535 0]Não, desculpe.[n][f 1 3 65535][w][e]
 
-[msg MSG_167_0_0 [Prof. Kawakami]]
+[msg MSG_167_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]A linha representa um olho.[n]Como o corpo do corvo é preto,[n]é difícil ver o olho.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Apesar da ausência da linha[n]olho no kanji, os corvos na verdade[n]têm uma visão muito boa.[n][f 1 3 65535][w][e]
 
-[msg MSG_168_0_0 [Prof. Kawakami]]
+[msg MSG_168_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]No entanto, existe um kanji[n]alternativo ao de "corvo", ou seja, "ga",[n]para imitar seu crocitar.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]O caractere para "pombo" é o[n]mesmo. É baseado em seu verso e[n]pronuncia-se "ku".[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Os corvos são muito inteligentes,[n]ergo é melhor você estudar[n]para não ser derrotado.[n][f 1 3 65535][w][e]
@@ -731,20 +731,20 @@
 [msg MSG_179_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1169 65535 0]Sinceramente, acho que lutar contra[n]demônios é mais fácil do que[n]entender esses gráficos...[n][f 1 3 65535][w][e]
 
-[msg MSG_180_0_0 [Prof. Hiruta]]
+[msg MSG_180_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37153 65535 0]A sociedade ficou chocada[n]com os crimes cometidos por[n]aquele famoso artista.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Ele era um representante do Japão.[n]Eles provavelmente só confiaram[n]ele por causa de seu nome.[n][f 1 3 65535][w][e]
 
-[msg MSG_181_0_0 [Prof. Hiruta]]
+[msg MSG_181_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]De fato, o homem tende a ser[n]manipulado por nomes.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]No entanto, muitos dos nomes neste mundo são[n]falsos.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Como esta criatura, que todos vocês[n]conhecem bem.[n][f 1 3 65535][w][e]
 
-[msg MSG_182_0_0 [Prof. Hiruta]]
+[msg MSG_182_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]É chamado de caranguejo gigante,[n]mas sua forma é diferente de[n]outros caranguejos.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0][f 4 1]-kun, olhe a foto.[n][f 1 3 65535][w][e]
 
-[msg MSG_183_0_0 [Prof. Hiruta]]
+[msg MSG_183_0_0 [Prof Hiruta]]
 [s][vp 8 2 0 37156 65535 0]Do que biologicamente falando, os caranguejos[n]gigantes estão mais próximos?[n][f 1 3 65535][w][e]
 
 [sel SEL_184_0_0 top]
@@ -753,19 +753,19 @@
 [s]Peixe-lua.[e]
 [s]Caranguejo eremita.[f 2 7 0 0 25 1][e]
 
-[msg MSG_185_0_0 [Prof. Hiruta]]
+[msg MSG_185_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37159 65535 0]Hehe... Nada mal.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Resposta correta.[n][f 1 3 65535][w][e]
 
-[msg MSG_186_0_0 [Prof. Hiruta]]
+[msg MSG_186_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37163 65535 0]Aparentemente, você foi enganado pelos nomes.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]A resposta correta era[n]caranguejos eremitas.[n][f 1 3 65535][w][e]
 
-[msg MSG_187_0_0 [Prof. Hiruta]]
+[msg MSG_187_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Os caranguejos têm cinco pares[n]de pernas, mas os caranguejos gigantes[n]têm apenas quatro.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]A direção das patas[n]também é diferente. No gigante eles estão[n]voltados para trás.[n][f 1 3 65535][w][e]
 
-[msg MSG_188_0_0 [Prof. Hiruta]]
+[msg MSG_188_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]A propósito, a substância verde do[n]caranguejo não é seu cérebro,[n]como muitos dizem.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Eu sou seu fígado e seu[n]pâncreas. Como você vê,[n]o mundo está cheio de enganos.[n][f 1 3 65535][w][e]
 
@@ -773,18 +773,18 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1112 65535 0]Existe tal coisa na geladeira do[n]Leblanc, mas você raramente pode encontrar[n]carne de caranguejo real nela.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Ei, por que não compramos[n]sushi para a próxima festa?[n][f 1 3 65535][w][e]
 
-[msg MSG_190_0_0 [Prof. Ushimaru]]
+[msg MSG_190_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37067 65535 0]Ei! Chega de dormir por lá![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Inferno... Você parece um cardume[n]de peixes mortos.[n][f 1 3 65535][w][e]
 
-[msg MSG_191_0_0 [Prof. Ushimaru]]
+[msg MSG_191_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O que é que foi isso? O celular? Os[n]videogames? Eu sei que você está[n]acordado até tarde.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Eu sempre acordo de madrugada.[n]Enquanto vocês hoje...[n][f 1 3 65535][w][e]
 
-[msg MSG_192_0_0 [Prof. Ushimaru]]
+[msg MSG_192_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ei, [f 4 1]! Você está acordado!?![n]Olhe para este mapa![n][f 1 3 65535][w][e]
 
-[msg MSG_193_0_0 [Prof. Ushimaru]]
+[msg MSG_193_0_0 [Prof Ushimaru]]
 [s][vp 8 2 0 37054 65535 0]Em qual desses lugares[n]você pode ver o nascer do sol mais cedo?[n][f 1 3 65535][w][e]
 
 [sel SEL_194_0_0 top]
@@ -793,20 +793,20 @@
 [s]Chefe Satanás.[e]
 [s]Um é tão bom quanto o outro.[e]
 
-[msg MSG_195_0_0 [Prof. Ushimaru]]
+[msg MSG_195_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37060 65535 0]Exatamente.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]A resposta correta é o[n]pico do Monte Fuji.[n][f 1 3 65535][w][e]
 
-[msg MSG_196_0_0 [Prof. Ushimaru]]
+[msg MSG_196_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37063 65535 0]Você ainda está meio dormindo!?![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]A resposta correta é o[n]pico do Monte Fuji.[n][f 1 3 65535][w][e]
 
-[msg MSG_197_0_0 [Prof. Ushimaru]]
+[msg MSG_197_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Quanto mais a sudeste você for,[n]mais cedo o sol nasce.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]No entanto, o parâmetro mais[n]importante é a altitude.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Portanto, excluindo as ilhas periféricas,[n]o sol nasce mais cedo no Monte Fuji.[n][f 1 3 65535][w][e]
 
-[msg MSG_198_0_0 [Prof. Ushimaru]]
+[msg MSG_198_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Dito isso, quem sabe[n]quando este país se levantará novamente.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]O governo e a polícia são[n]completamente incompetentes.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Lidar com os Phantom Thieves[n]é a primeira coisa a fazer.[n][f 1 3 65535][w][e]
@@ -815,21 +815,21 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1176 65535 0]Espere e veja...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Mostraremos quem está certo.[n][f 1 3 65535][w][e]
 
-[msg MSG_190_0_1 [Prof. Ushimaru]]
+[msg MSG_190_0_1 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37067 65535 0]おい、騒がしいぞ!今は授業中![n]修学旅行は明日だ...ったく。[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]いいか、旅行はくれぐれも時間厳守だ。[n]自分たちの旅程ぐらい覚えてるよな?[n][f 1 3 65535][w][e]
 
-[msg MSG_191_0_1 [Prof. Ushimaru]]
+[msg MSG_191_0_1 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]明日の夜、お前たちは空港から日本を発つ。[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]ハワイまで約7時間。着く頃には翌朝だが...[n]お前たち、ちゃんとしおりを読んでるか?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]お前たちは7日の夜に出発し、[n]7日の朝に現地に着く予定になってるはずだ。[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]なにが原èか分かるな?[n]...そう、時差だ。[n][f 1 3 65535][w][e]
 
-[msg MSG_192_0_1 [Prof. Ushimaru]]
+[msg MSG_192_0_1 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]時差について理解しているか、[n]ちょっとテストだ[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0][f 4 1]、この地図を見ろ。[n][f 1 3 65535][w][e]
 
-[msg MSG_193_0_1 [Prof. Ushimaru]]
+[msg MSG_193_0_1 [Prof Ushimaru]]
 [s][vp 8 2 0 37054 65535 0]この中で、最も早く朝日を拝めるのは[n]どこだ? 答えてみろ。[n][f 1 3 65535][w][e]
 
 [sel SEL_194_0_1 top]
@@ -838,37 +838,37 @@
 [s]Chefe Satanás.[e]
 [s]Um é tão bom quanto o outro.[e]
 
-[msg MSG_195_0_1 [Prof. Ushimaru]]
+[msg MSG_195_0_1 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37060 65535 0]その通り。[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]正解は富士山山頂だ。[n][f 1 3 65535][w][e]
 
-[msg MSG_196_0_1 [Prof. Ushimaru]]
+[msg MSG_196_0_1 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37063 65535 0]その程度か...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]正解は富士山山頂だ。[n][f 1 3 65535][w][e]
 
-[msg MSG_197_0_1 [Prof. Ushimaru]]
+[msg MSG_197_0_1 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]ただし、標高が同じであれば[n]東に行くほど日の出は早い。[n][f 1 3 65535][w][e]
 
-[msg MSG_198_0_1 [Prof. Ushimaru]]
+[msg MSG_198_0_1 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]ハワイは日本の東にある...が、[n]ハワイと日本の間には日付変更線があるからな。[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]ハワイは日本より19時間遅れている。[n]だから7日の夜に出発しても7日の朝に到着する。[n][f 1 3 65535][w][e]
 
 [msg MSG_199_0_1 [Morgana]]
 [s][bup 0 3 0 0 0][vp 8 2 65535 1176 0 0]......[n][f 1 3 65535][w][e]
 
-[msg MSG_210_0_0 [Giovane insegnante]]
+[msg MSG_210_0_0 [Professor jovem]]
 [s][vp 8 2 0 37150 65535 0][bup 0 303 0 0 0][f 4 10 65535 0 0]Olá pessoal...[n]sou o Prof. Hiruta, seu[n]professor de biologia.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Vocês todos ficarão chocados depois do que[n]aconteceu com Suzui-san.[n]Foi um choque para mim também.[n][f 1 3 65535][w][e]
 
-[msg MSG_211_0_0 [Prof. Hiruta]]
+[msg MSG_211_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Embora eu ache que entendo[n]como ele se sentiu.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Seus olhos estavam sem vida[n]enquanto repousavam sobre este[n]mundo triste e sem esperança.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Bem, acho que todo mundo[n]tem sua própria visão do mundo.[n]Vamos fazer um teste.[n][f 1 3 65535][w][e]
 
-[msg MSG_212_0_0 [Prof. Hiruta]]
+[msg MSG_212_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37157 65535 0]Você, aí![n]Dê uma olhada aqui.[n][f 1 3 65535][w][e]
 
-[msg MSG_213_0_0 [Prof. Hiruta]]
+[msg MSG_213_0_0 [Prof Hiruta]]
 [s][vp 8 0 0 0 65535 0]Entre A e B... qual linha[n]parece mais longa...?[n][f 1 3 65535][w][e]
 
 [sel SEL_214_0_0 top]
@@ -876,20 +876,20 @@
 [s]b.[e]
 [s]Eles são iguais.[f 2 7 0 0 25 1][e]
 
-[msg MSG_215_0_0 [Prof. Hiruta]]
+[msg MSG_215_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37161 65535 0]Hehe, isso mesmo.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Parece que seus olhos[n]não escapam da verdade.[n][f 1 3 65535][w][e]
 
-[msg MSG_216_0_0 [Prof. Hiruta]]
+[msg MSG_216_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37164 65535 0]Acho que é impossível para você[n]a verdade...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Na verdade, eles têm o mesmo comprimento.[n][f 1 3 65535][w][e]
 
-[msg MSG_217_0_0 [Prof. Hiruta]]
+[msg MSG_217_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]É uma ilusão de ótica.[n]Alguns veem corretamente,[n]alguns não.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Não é estranho ver diferentemente[n]a mesma imagem?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Os humanos não veem o mundo como[n]é. Nós simplesmente processamos[n]impulsos visuais com o cérebro.[n][f 1 3 65535][w][e]
 
-[msg MSG_218_0_0 [Prof. Hiruta]]
+[msg MSG_218_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]A maneira como você percebe o mundo[n]não passa de um engano da[n]mente... Tudo é mera cognição.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Não há evidências que certifiquem[n]que o mundo que vemos[n]é o mesmo para todos.[n][f 1 3 65535][w][e]
 
@@ -1017,20 +1017,20 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1133 65535 0]É verdade que os mascotes têm[n]rostos muito arredondados...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Huh? Por que você[n]está me olhando assim?[n][f 1 3 65535][w][e]
 
-[msg MSG_250_0_0 [Prof. Hiruta]]
+[msg MSG_250_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37153 65535 0]A sociedade ficou chocada[n]com os crimes cometidos por[n]aquele famoso artista.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Ele era um representante do Japão.[n]Eles provavelmente só confiaram[n]ele por causa de seu nome.[n][f 1 3 65535][w][e]
 
-[msg MSG_251_0_0 [Prof. Hiruta]]
+[msg MSG_251_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]De fato, o homem tende a ser[n]manipulado por nomes.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]No entanto, muitos dos nomes neste mundo são[n]falsos.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Como esta criatura, que todos vocês[n]conhecem bem.[n][f 1 3 65535][w][e]
 
-[msg MSG_252_0_0 [Prof. Hiruta]]
+[msg MSG_252_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]É chamado de caranguejo gigante,[n]mas sua forma é diferente de[n]outros caranguejos.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0][f 4 1]-kun, olhe a foto.[n][f 1 3 65535][w][e]
 
-[msg MSG_253_0_0 [Prof. Hiruta]]
+[msg MSG_253_0_0 [Prof Hiruta]]
 [s][vp 8 2 0 37156 65535 0]Biologicamente falando, o caranguejo[n]gigante está próximo do caranguejo eremita.[n]O que o diferencia de um caranguejo?[n][f 1 3 65535][w][e]
 
 [sel SEL_254_0_0 top]
@@ -1039,19 +1039,19 @@
 [s]O número de olhos.[e]
 [s]O número de pernas.[f 2 7 0 0 25 1][e]
 
-[msg MSG_255_0_0 [Prof. Hiruta]]
+[msg MSG_255_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37159 65535 0]Hehe... Nada mal.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Isso mesmo.[n][f 1 3 65535][w][e]
 
-[msg MSG_256_0_0 [Prof. Hiruta]]
+[msg MSG_256_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37163 65535 0]Aparentemente, você foi enganado pelos nomes.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Em comparação com os caranguejos, eles têm[n]um número diferente de patas.[n][f 1 3 65535][w][e]
 
-[msg MSG_257_0_0 [Prof. Hiruta]]
+[msg MSG_257_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Os caranguejos têm cinco pares[n]de pernas, mas os caranguejos gigantes[n]têm apenas quatro.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]A direção das patas[n]também é diferente. No gigante eles estão[n]voltados para trás.[n][f 1 3 65535][w][e]
 
-[msg MSG_258_0_0 [Prof. Hiruta]]
+[msg MSG_258_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]A propósito, a substância verde do[n]caranguejo não é seu cérebro,[n]como muitos dizem.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Eu sou seu fígado e seu[n]pâncreas. Como você vê,[n]o mundo está cheio de enganos.[n][f 1 3 65535][w][e]
 
@@ -1101,19 +1101,19 @@
 [msg MSG_269_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1028 65535 0]Contanto que façam seu trabalho,[n]quem se importa se são mulheres ou[n]homens? Cara, gente...[n][f 1 3 65535][w][e]
 
-[msg MSG_270_0_0 [Prof. Kawakami]]
+[msg MSG_270_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15028 65535 0]Achei que ia me atrasar.[n]Esta manhã, alguns clientes estavam[n]discutindo na loja de conveniência.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Uma mulher muito elegante[n]e um velho com[n]acessórios de ouro.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Ambos gritavam de seu[n]pedestal e, embora bem vestidos,[n]pareciam o "nouveau riche".[n][f 1 3 65535][w][e]
 
-[msg MSG_271_0_0 [Prof. Kawakami]]
+[msg MSG_271_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]A propósito, as palavras japonesas[n]"pedestal" e "nouveau riche"[n]ambas vêm de shogi.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Muitos não conhecem[n]shogi, mas é sempre[n]bom aprender algo sobre isso.[n][f 1 3 65535][w][e]
 
-[msg MSG_272_0_0 [Prof. Kawakami]]
+[msg MSG_272_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Então, [f 4 1]-kun.[n]Você já viu esta peça?[n][f 1 3 65535][w][e]
 
-[msg MSG_273_0_0 [Prof. Kawakami]]
+[msg MSG_273_0_0 [Prof Kawakami]]
 [s][vp 8 2 0 15118 65535 0]O que você acha que está escrito por trás[n]esta peça?[n][f 1 3 65535][w][e]
 
 [sel SEL_274_0_0 top]
@@ -1121,23 +1121,23 @@
 [s]Ouro.[f 2 7 0 0 25 1][e]
 [s]O caractere hiragana "para".[e]
 
-[msg MSG_275_0_0 [Prof. Kawakami]]
+[msg MSG_275_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15121 65535 0]Bom.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]A lança prata e o general também têm o kanji para[n]"ouro" no verso.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]No entanto, o "To"[n]no verso da peça do bispo é considerado[n]uma forma cursiva de "ouro".[n][f 1 3 65535][w][e]
 
-[msg MSG_276_0_0 [Prof. Kawakami]]
+[msg MSG_276_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15125 65535 0]Que pena.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]A parte de trás da peça do cavalo tem[n]o kanji para "ouro".[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]A lança prata e o general também têm o kanji para[n]"ouro" no verso.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]No entanto, o "To"[n]no verso da peça do bispo é considerado[n]uma forma cursiva de "ouro".[n][f 1 3 65535][w][e]
 
-[msg MSG_277_0_0 [Prof. Kawakami]]
+[msg MSG_277_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]No shogi, você pode optar por[n]"promover" suas peças[n]sob certas condições.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Se um cavaleiro entrar em território inimigo, por[n]exemplo, ele pode ser promovido a general de[n]ouro.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Uma peça fraca como um peão pode transformar-se[n]em ouro se você invadir o campo do inimigo,[n]portanto, "nouveau riche".[n][f 1 3 65535][w][e]
 
-[msg MSG_278_0_0 [Prof. Kawakami]]
+[msg MSG_278_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]No entanto, o "nouveau riche" tende a[n]usar roupas caras porque[n]quer ser reconhecível.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Uma vez atendidas as necessidades básicas, como[n]comida, abrigo e roupas, o primeiro desejo é o[n]reconhecimento.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]É por isso que as pessoas tentam[n]parecer mais velhas[n]mostrando seu poder por meio do dinheiro.[n][f 1 3 65535][w][e]
@@ -1496,20 +1496,20 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1175 65535 0]Você a ouviu, Joker.[n]Seu nome combina perfeitamente com você,[n]se assim posso dizer.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Eu também deveria ter escolhido[n]um nome legal...[n][f 1 3 65535][w][e]
 
-[msg MSG_360_0_0 [Prof. Kawakami]]
+[msg MSG_360_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15115 65535 0]*bocejo*[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Por que você está me encarando? Não é minha culpa[n]que eu esteja com tanto sono, sabe.[n][f 1 3 65535][w][e]
 
-[msg MSG_361_0_0 [Prof. Kawakami]]
+[msg MSG_361_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Meus vizinhos têm sido descuidados[n]com o lixo... Os corvos[n]festejaram esta manhã.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Os cestos de lixo do município apenas[n]os mantiveram afastados no início.[n]Esses corvos aprendem rápido.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]A propósito, você sabe como se escreve o kanji[n]para "corvo"?[n][f 1 3 65535][w][e]
 
-[msg MSG_362_0_0 [Prof. Kawakami]]
+[msg MSG_362_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Os caracteres para "pássaro" e "corvo"[n]são semelhantes, mas o último tem[n]algumas linhas a menos.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]E quanto a, [f 4 1]-kun?[n]Não é fácil confundi-lo[n]com "pássaro"?[n][f 1 3 65535][w][e]
 
-[msg MSG_363_0_0 [Prof. Kawakami]]
+[msg MSG_363_0_0 [Prof Kawakami]]
 [s][vp 8 2 0 15118 65535 0]O caractere "pássaro" tem uma linha[n]que o caractere "corvo"[n]não tem. Representa o olho, mas...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Você sabe por que falta o caractere[n]para "corvo"?[n][f 1 3 65535][w][e]
 
@@ -1518,17 +1518,17 @@
 [s]Os olhos dos corvos não são vistos.[f 2 7 0 0 25 1][e]
 [s]Não há nenhuma razão específica.[e]
 
-[msg MSG_365_0_0 [Prof. Kawakami]]
+[msg MSG_365_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15122 65535 0]Bom.[n][f 1 3 65535][w][e]
 
-[msg MSG_366_0_0 [Prof. Kawakami]]
+[msg MSG_366_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15125 65535 0]Não, desculpe.[n][f 1 3 65535][w][e]
 
-[msg MSG_367_0_0 [Prof. Kawakami]]
+[msg MSG_367_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Os corvos têm plumagem preta,[n]obviamente, então é difícil ver[n]seus olhos negros.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Mas o corvo tem uma visão muito boa.[n]Ele também parece ver[n]raios ultravioleta.[n][f 1 3 65535][w][e]
 
-[msg MSG_368_0_0 [Prof. Kawakami]]
+[msg MSG_368_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]No entanto, existe um kanji[n]alternativo ao de "corvo", ou seja, "ga",[n]para imitar seu crocitar.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]O caractere para "pombo" é o[n]mesmo. É baseado em seu verso e[n]pronuncia-se "ku".[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Os corvos são muito inteligentes,[n]ergo é melhor você estudar[n]para não ser derrotado.[n][f 1 3 65535][w][e]
@@ -1578,18 +1578,18 @@
 [msg MSG_379_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1169 65535 0]Sinceramente, acho que lutar contra[n]demônios é mais fácil do que[n]entender esses gráficos...[n][f 1 3 65535][w][e]
 
-[msg MSG_380_0_0 [Prof. Ushimaru]]
+[msg MSG_380_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37067 65535 0]Ei! Chega de dormir por lá![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Inferno... Você parece um cardume[n]de peixes mortos.[n][f 1 3 65535][w][e]
 
-[msg MSG_381_0_0 [Prof. Ushimaru]]
+[msg MSG_381_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O que é que foi isso? O celular? Os[n]videogames? Eu sei que você está[n]acordado até tarde.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Eu sempre acordo de madrugada.[n]Enquanto vocês hoje...[n][f 1 3 65535][w][e]
 
-[msg MSG_382_0_0 [Prof. Ushimaru]]
+[msg MSG_382_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ei, [f 4 1]! Você está acordado!?![n]Olhe para este mapa![n][f 1 3 65535][w][e]
 
-[msg MSG_383_0_0 [Prof. Ushimaru]]
+[msg MSG_383_0_0 [Prof Ushimaru]]
 [s][vp 8 2 0 37054 65535 0]Você sabe que o sol nasce mais cedo[n]no topo do Monte Fuji, certo?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Diga-me por quê.[n][f 1 3 65535][w][e]
 
@@ -1598,19 +1598,19 @@
 [s]Porque é perto do oceano.[e]
 [s]Por causa da altitude.[f 2 7 0 0 25 1][e]
 
-[msg MSG_385_0_0 [Prof. Ushimaru]]
+[msg MSG_385_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37060 65535 0]Bom.[n][f 1 3 65535][w][e]
 
-[msg MSG_386_0_0 [Prof. Ushimaru]]
+[msg MSG_386_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37063 65535 0]Você ainda está meio dormindo!?![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Claro que depende da altitude[n]considerável.[n][f 1 3 65535][w][e]
 
-[msg MSG_387_0_0 [Prof. Ushimaru]]
+[msg MSG_387_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Quanto mais a sudeste você for,[n]mais cedo o sol nasce.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]No entanto, o parâmetro mais[n]importante é a altitude.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Portanto, excluindo as ilhas periféricas,[n]o sol nasce mais cedo no Monte Fuji.[n][f 1 3 65535][w][e]
 
-[msg MSG_388_0_0 [Prof. Ushimaru]]
+[msg MSG_388_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Dito isso, quem sabe[n]quando este país se levantará novamente.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]O governo e a polícia são[n]completamente incompetentes.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Lidar com os Phantom Thieves[n]é a primeira coisa a fazer.[n][f 1 3 65535][w][e]
@@ -1619,20 +1619,20 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1176 65535 0]Nós mostraremos a você...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Mostraremos quem está certo.[n][f 1 3 65535][w][e]
 
-[msg MSG_390_0_0 [Prof. Ushimaru]]
+[msg MSG_390_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37050 65535 0]Ei, você... Você está dormindo?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]...Não, está tudo bem. Deixe-o dormir.[n]Os alunos estão ocupados.[n]É normal que eles estejam cansados.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Estou com sono também. Ontem eu fingi[n]que era Featherman com meu sobrinho[n]e me empolguei...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Coisa? Você não conhece Featherman?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]É uma série sentai que transmite[n]ideais de justiça. Mais cedo ou[n]tarde veremos isso na aula.[n][f 1 3 65535][w][e]
 
-[msg MSG_391_0_0 [Prof. Ushimaru]]
+[msg MSG_391_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]A propósito, você sabia que o conceito[n]de justiça é diferente nas culturas[n]ocidental e oriental?[n][f 1 3 65535][w][e]
 
-[msg MSG_392_0_0 [Prof. Ushimaru]]
+[msg MSG_392_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 1], dê uma olhada aqui.[n][f 1 3 65535][w][e]
 
-[msg MSG_393_0_0 [Prof. Ushimaru]]
+[msg MSG_393_0_0 [Prof Ushimaru]]
 [s][vp 8 0 0 0 65535 0]Esta é uma estátua da deusa[n]Themis. Ela é comumente considerada[n]a deusa da justiça.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Ele segura uma espada e balança[n]enquanto pisa em algo...[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 37057 65535 0][f 4 10 65535 0 0]Você sabe o que ele está prestes a pisar?[n][f 1 3 65535][w][e]
@@ -1642,20 +1642,20 @@
 [s]Uma cobra.[f 2 7 0 0 25 1][e]
 [s]Uma tartaruga.[e]
 
-[msg MSG_395_0_0 [Prof. Ushimaru]]
+[msg MSG_395_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37058 65535 0]Muito bem. Isso mesmo.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Freqüentemente, a serpente é retratada[n]como um símbolo do pecado, ou[n]uma espécie de emissário do mal.[n][f 1 3 65535][w][e]
 
-[msg MSG_396_0_0 [Prof. Ushimaru]]
+[msg MSG_396_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Quase. A resposta é uma cobra.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Freqüentemente, a serpente é retratada[n]como um símbolo do pecado, ou[n]uma espécie de emissário do mal.[n][f 1 3 65535][w][e]
 
-[msg MSG_397_0_0 [Prof. Ushimaru]]
+[msg MSG_397_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Na cultura ocidental[n]a justiça é baseada[n]na aplicação de regras.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Para viver em harmonia,[n]regras são indispensáveis.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Portanto, qualquer um que transgredir[n]essas regras pode acabar como[n]aquela cobra.[n][f 1 3 65535][w][e]
 
-[msg MSG_398_0_0 [Prof. Ushimaru]]
+[msg MSG_398_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]A cultura oriental,[n]ao contrário, associa[n]justiça à ética.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Isso existe na dimensão[n]indivíduo.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Em outras palavras... todo[n]ser humano tem seu próprio[n]senso de justiça.[n][f 1 3 65535][w][e]

@@ -21,7 +21,7 @@
 [msg MSG_MOVIE12_VOICE_1 [師範ニンジャ]]
 [s][vp 8 0 0 0 65535 0]あっ、拙者のワラジのひもが...[n]...ビシッ!![n][f 1 3 65535][w][e]
 
-[msg MSG_MOVIE12_VOICE_2 [Protagonista]]
+[msg MSG_MOVIE12_VOICE_2 [Herói]]
 [s][vp 8 0 0 0 65535 0]グアーーッ![n][f 1 3 65535][w][e]
 
 [msg MSG_MOVIE12_VOICE_3 [師範ニンジャ]]
@@ -147,7 +147,7 @@
 [msg TEST_MONA2 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 47 65535 0]Você subiu na hierarquia, hein?[n][f 1 3 65535][w][e]
 
-[msg MSG_DEBUG [Debug]]
+[msg MSG_DEBUG [Depurando]]
 [s]※April 1st Only Debug[n]Scene check setting[n][f 1 3 65535][w][e]
 
 [sel SEL_DEBUG top]

@@ -1,4 +1,4 @@
-[msg MSG_000_0_0 [Presentatrice carina]]
+[msg MSG_000_0_0 [Linda apresentadora]]
 [s][vp 8 0 0 1 65535 0]É hora da nossa coluna[n]Conheça uma estrela...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 2 65535 0]Após o sucesso da última vez,[n]decidimos hospedar[n]novamente um verdadeiro cavalheiro...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 3 65535 0]Estamos falando do estudante[n]detetive, Goro Akechi![n][f 1 3 65535][w][e]
@@ -18,7 +18,7 @@
 [s][bup 0 9 0 2 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]No entanto, pensando em um[n]nível hipotético, se esses Phantom Thieves[n]realmente existissem...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Eu acho que eles deveriam[n]ir a julgamento.[n][f 1 3 65535][w][e]
 
-[msg MSG_005_0_0 [Presentatore brillante]]
+[msg MSG_005_0_0 [Brilhante apresentador]]
 [s][vp 8 0 0 11 65535 0]Uma afirmação forte. Então[n]eles estão cometendo crimes?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 12 65535 0]Alguns até afirmam que[n]ladrões estão ajudando[n]suas vítimas a se redimirem.[n][f 1 3 65535][w][e]
 

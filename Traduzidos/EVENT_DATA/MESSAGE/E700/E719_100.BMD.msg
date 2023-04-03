@@ -72,10 +72,10 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 33 65535 0]Obrigado por tudo.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 34 65535 0]Bem, é hora de começar![n][f 1 3 65535][w][e]
 
-[msg MSG_018_0_0 [voz de jovem]]
+[msg MSG_018_0_0 [Voz de jovem]]
 [s][vp 8 0 0 35 5 0]O discurso de Yoshida está[n]prestes a começar![n][f 1 3 65535][w][e]
 
-[msg MSG_019_0_0 [Voce di giovane donna]]
+[msg MSG_019_0_0 [Voz de uma jovem]]
 [s][vp 8 0 0 36 9 0]Interrompi meu[n]compromisso para estar aqui![n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Yoshida]]
@@ -99,7 +99,7 @@
 [msg MSG_024_0_0 [Voz masculina]]
 [s][vp 8 0 0 47 7 0]Muito bem, Toranosuke![n][f 1 3 65535][w][e]
 
-[msg MSG_025_0_0 [Voce femminile]]
+[msg MSG_025_0_0 [Voz feminina]]
 [s][vp 8 0 0 48 8 0]Eu confio em você![n][f 1 3 65535][w][e]
 
 [msg MND_025_5_0]

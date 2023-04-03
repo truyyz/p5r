@@ -1,10 +1,10 @@
-[msg MSG_000_0_0 [Voce minacciosa]]
+[msg MSG_000_0_0 [Voz ameaçadora]]
 [s][vp 8 0 0 0 65535 0]Sua loja é ótima, como[n]sempre. Boa mercadoria, Iwai![n][f 1 3 65535][w][e]
 
-[msg MSG_001_0_0 [Voce di Iwai]]
+[msg MSG_001_0_0 [Voz de Iwai]]
 [s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 2 0 13022 65535 0]É bom ouvir você dizer isso,[n]Tsuda-san.[n][f 1 3 65535][w][e]
 
-[msg MSG_002_0_0 [Voce di Tsuda]]
+[msg MSG_002_0_0 [A voz de Tsuda]]
 [s][vp 8 0 0 0 65535 0]Aposto que com modelos tão[n]realistas você poderia começar[n]uma guerra.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Sério, eles são loucos.[n]Eu tenho que ir agora, no entanto.[n][f 1 3 65535][w][e]
 

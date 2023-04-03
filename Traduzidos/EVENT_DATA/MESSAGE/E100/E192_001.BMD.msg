@@ -57,7 +57,7 @@
 [msg MSG_017_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]É aquele velho do outro dia.[n][f 1 3 65535][w][e]
 
-[msg MSG_018_0_0 [Intervistatrice]]
+[msg MSG_018_0_0 [Entrevistador]]
 [s][vp 8 0 0 20 11 0]Cada vez ficamos maravilhados com[n]sua imaginação.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 21 65535 0]Ele tem um estilo tão dinâmico,[n]é difícil acreditar que é tudo[n]obra de uma pessoa...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 22 11 0]De onde você tira[n]sua inspiração?[n][f 1 3 65535][w][e]
@@ -66,7 +66,7 @@
 [s][bup 0 203 0 0 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Bem...É muito difícil[n]colocar em palavras...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Cada obra flui naturalmente[n]do fundo do meu coração, como[n]os jatos espumosos de uma fonte.[n][f 1 3 65535][w][e]
 
-[msg MSG_020_0_0 [Intervistatrice]]
+[msg MSG_020_0_0 [Entrevistador]]
 [s][vp 8 0 0 25 11 0]Claro, ele diz?[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Madarame]]
@@ -76,7 +76,7 @@
 [msg MSG_021_5_0 [Ryuji]]
 [s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 28 65535 0]...Um barraco?[n][f 1 3 65535][w][e]
 
-[msg MSG_022_0_0 [Intervistatrice]]
+[msg MSG_022_0_0 [Entrevistador]]
 [s][vp 8 0 0 29 11 0]Entendo... Portanto, esvaziar[n]a mente permite que a[n]beleza interior emerja.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 30 11 0]No entanto, é incrível ouvir a palavra "cabana"[n]do próprio grande artista Madarame.[n][f 1 3 65535][w][e]
 
@@ -86,13 +86,13 @@
 [msg MSG_023_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 32 65535 0]A palavra "cabana"[n]me lembra algo...[n][f 1 3 65535][w][e]
 
-[msg MSG_024_0_0 [Visitatrice attenta]]
+[msg MSG_024_0_0 [Visitante cuidadoso]]
 [s][vp 8 0 0 33 65535 0]Madarame-san está mesmo aqui!?![n][f 1 3 65535][w][e]
 
-[msg MSG_025_0_0 [Visitatore entusiasta]]
+[msg MSG_025_0_0 [Visitante entusiasta]]
 [s][vp 8 0 0 34 65535 0]Por aqui![n][f 1 3 65535][w][e]
 
-[msg MSG_026_0_0 [Ammiratrice]]
+[msg MSG_026_0_0 [Admirador]]
 [s][vp 8 0 0 35 65535 0]Por sorte, vim[n]no dia da inauguração![n][f 1 3 65535][w][e]
 
 [msg MSG_027_0_0 [Ryuji]]

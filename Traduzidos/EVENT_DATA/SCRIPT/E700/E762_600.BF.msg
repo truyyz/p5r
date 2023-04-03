@@ -70,7 +70,7 @@
 [msg HELP_FLOWER_BOOK_12]
 [s]Uma pequena flor branca com um[n]aroma quase imperceptível.[n]Usado para confessar o amor.[n][e]
 
-[msg MSG_001_0_0 [Negoziante]]
+[msg MSG_001_0_0 [Lojista]]
 [s][vp 8 2 0 58504 6 0]Prazer em conhecê-lo. Sou[n]Megumi Hanasaki, a proprietária.[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Hanasaki]]
@@ -492,7 +492,7 @@
 [s]特別版8[e]
 [s]特別版9[e]
 
-[msg MSG_DEBUG_4 [Counter debug]]
+[msg MSG_DEBUG_4 [Contador de depuração]]
 [s][vp 8 2 0 0 65535 0]Depuração do contador[n][f 1 3 65535][w][e]
 
 [sel SEL_DEBUG_4 top]

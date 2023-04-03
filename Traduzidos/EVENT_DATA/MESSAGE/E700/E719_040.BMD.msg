@@ -3,22 +3,22 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]No entanto, a atual administração[n]se recusa a discutir seus[n]planos para o futuro...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Podemos realmente tolerar[n]tamanha falta de transparência!?![n][f 1 3 65535][w][e]
 
-[msg MSG_001_0_0 [Donna dall'aria esausta]]
+[msg MSG_001_0_0 [Mulher de aparência exausta]]
 [s][vp 8 0 0 0 7 0]Tenho ouvido esse[n]tipo de acusação contra o governo[n]com bastante frequência recentemente.[n][f 1 3 65535][w][e]
 
-[msg MSG_002_0_0 [Uomo dall'aria annoiata]]
+[msg MSG_002_0_0 [Homem de aparência entediada]]
 [s][vp 8 0 0 0 6 0]Isso porque o membro do Diet[n]Shido está ganhando popularidade[n]dizendo as mesmas coisas.[n][f 1 3 65535][w][e]
 
-[msg MSG_003_0_0 [Donna dall'aria esausta]]
+[msg MSG_003_0_0 [Mulher de aparência exausta]]
 [s][vp 8 0 0 0 7 0]Então ele está apenas copiando as alegações do[n]governo de outro político?[n][f 1 3 65535][w][e]
 
-[msg MSG_004_0_0 [Uomo dall'aria annoiata]]
+[msg MSG_004_0_0 [Homem de aparência entediada]]
 [s][vp 8 0 0 0 6 0]Pelo visto. Tsk, vabbeh...[n][f 1 3 65535][w][e]
 
-[msg MSG_005_0_0 [Detrattore di Yoshida]]
+[msg MSG_005_0_0 [Detrator de Yoshida]]
 [s][vp 8 0 0 0 65535 0]Então, depois de roubar[n]fundos do partido, agora você também rouba[n]ideias, "Tora covarde"!?![n][f 1 3 65535][w][e]
 
-[msg MSG_006_0_0 [Detrattore di Yoshida]]
+[msg MSG_006_0_0 [Detrator de Yoshida]]
 [s][vp 8 0 0 0 65535 0]Deixa de ser puritano,[n]ex condenado![n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Yoshida]]
@@ -31,14 +31,14 @@
 [s]Está incomodando todo mundo.[e]
 [s]Cala-te e ouve.[e]
 
-[msg MSG_009_0_0 [Detrattore di Yoshida]]
+[msg MSG_009_0_0 [Detrator de Yoshida]]
 [s][vp 8 0 0 0 65535 0]Desculpe? Tem algo[n]para me dizer garoto!?![n][f 1 3 65535][w][e]
 
 [sel SEL_011_0_0 top]
 [s]Sim.[e]
 [s]O que você acha?[e]
 
-[msg MSG_012_0_0 [Detrattore di Yoshida]]
+[msg MSG_012_0_0 [Detrator de Yoshida]]
 [s][vp 8 0 0 0 65535 0]O-O que há de errado com esse garoto?[n][f 1 3 65535][w][e]
 
 [sel SEL_013_0_0 top]
@@ -46,7 +46,7 @@
 [s]Você ouve o que ele diz.[e]
 [s]"Tora não serve para nada"... e daí?[e]
 
-[msg MSG_014_0_0 [Detrattore di Yoshida]]
+[msg MSG_014_0_0 [Detrator de Yoshida]]
 [s][vp 8 0 0 0 65535 0]Ei bandido...[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Yoshida]]
@@ -77,14 +77,14 @@
 [msg MSG_024_0_0 [Yoshida]]
 [s][bup 0 112 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...OK, é isso por hoje.[n][f 1 3 65535][w][e]
 
-[msg MSG_025_0_0 [Detrattore di Yoshida]]
+[msg MSG_025_0_0 [Detrator de Yoshida]]
 [s][vp 8 0 0 0 65535 0]Vocês dois são incríveis...[n][f 1 3 65535][w][e]
 
-[msg MSG_026_0_0 [Detrattore di Yoshida]]
+[msg MSG_026_0_0 [Detrator de Yoshida]]
 [s][vp 8 0 0 0 65535 0]...Eu fui tão estúpido...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Só porque alguém cometeu[n]errado no passado, não[n]significa que não pode tentar novamente.[n][f 1 3 65535][w][e]
 
-[msg MSG_027_0_0 [Detrattore di Yoshida]]
+[msg MSG_027_0_0 [Detrator de Yoshida]]
 [s][vp 8 0 0 0 65535 0]S-Só queria te dizer isso![n][f 1 3 65535][w][e]
 
 [msg MSG_028_0_0 [Yoshida]]
@@ -93,7 +93,7 @@
 [msg MSG_029_0_0 [Yoshida]]
 [s][bup 0 112 1 0 0][f 4 10 65535 0 0][vp 8 2 0 20030 65535 0]Obrigado!...[n]Só queria te dizer isso.[n][f 1 3 65535][w][e]
 
-[msg MSG_030_0_0 [Detrattore di Yoshida]]
+[msg MSG_030_0_0 [Detrator de Yoshida]]
 [s][vp 8 0 0 0 65535 0]Ela é esquisita.[n]Assim como aquela criança.[n][f 1 3 65535][w][e]
 
 [msg MSG_031_0_0 [Yoshida]]

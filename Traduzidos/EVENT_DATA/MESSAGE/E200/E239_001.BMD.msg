@@ -17,10 +17,10 @@
 [msg MSG_008_0_0 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Ouça isto.[n][f 1 3 65535][w][e]
 
-[msg MSG_009_0_0 [Voce di Ryuji]]
+[msg MSG_009_0_0 [A voz de Ryuji]]
 [s][vp 8 0 0 7 65535 0]Se alguém ajudasse essas[n]pessoas, não haveria[n]necessidade dos Phantom Thieves![n][f 1 3 65535][w][e]
 
-[msg MSG_011_0_0 [Voce di Ann]]
+[msg MSG_011_0_0 [Voz de Ana]]
 [s][vp 8 0 0 8 65535 0]Então você acha que é verdade?[n]Mesmo se continuarmos com essa[n]história... tudo vai ficar bem, certo?[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Makoto]]

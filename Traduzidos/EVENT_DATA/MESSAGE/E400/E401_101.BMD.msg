@@ -9,7 +9,7 @@
 [msg MSG_001_0_0 [Velhote]]
 [s][vp 8 0 0 0 65535 0]Shido? ISSO é Shido?!?[n][f 1 3 65535][w][e]
 
-[msg MSG_002_0_0 [Casalinga]]
+[msg MSG_002_0_0 [Dona de casa]]
 [s][vp 8 0 0 0 65535 0]Está aqui?!? Cadê?!? Onde fica?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [若者]]
@@ -23,13 +23,13 @@
 [msg MSG_004_5_0 [(SE)群衆]]
 [s][vp 8 0 0 0 65535 0](SE)歓声[n][f 1 3 65535][w][e]
 
-[msg MSG_005_0_0 [Bambino]]
+[msg MSG_005_0_0 [Criança]]
 [s][vp 8 0 0 0 65535 0]Aquele senhor é Shido?[n][f 1 3 65535][w][e]
 
-[msg MSG_006_0_0 [Madre]]
+[msg MSG_006_0_0 [Mãe]]
 [s][vp 8 0 0 0 65535 0]Está certo. Ele é um homem forte e admirável![n][f 1 3 65535][w][e]
 
-[msg MSG_007_0_0 [Bambino]]
+[msg MSG_007_0_0 [Criança]]
 [s][vp 8 0 0 0 65535 0]Mais que o pai?[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Padre]]

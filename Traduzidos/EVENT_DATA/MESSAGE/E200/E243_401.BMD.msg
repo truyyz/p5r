@@ -21,25 +21,25 @@
 [msg MSG_006_0_0 [Voz masculina]]
 [s][vp 8 0 0 6 65535 0]Ei, você tem um minuto?[n]Tenho um bom trabalho para você.[n][f 1 3 65535][w][e]
 
-[msg MSG_006_5_0 [Tipo squallido]]
+[msg MSG_006_5_0 [Cara desprezível]]
 [s][vp 8 0 0 7 65535 0]É muito simples. É[n]só uma questão de entregar as coisas.[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Makoto]]
 [s][bup 0 6 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Bem, aparentemente[n]não foi tão difícil.[n][f 1 3 65535][w][e]
 
-[msg MSG_008_0_0 [Tipo squallido]]
+[msg MSG_008_0_0 [Cara desprezível]]
 [s][vp 8 0 0 9 65535 0]Vocês são estudantes do ensino médio, hein?[n]Você não quer mais[n]do que sua mesada?[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Uhm... Quando você fala sobre entregas,[n]você está se referindo a... produtos suspeitos?[n][f 1 3 65535][w][e]
 
-[msg MSG_010_0_0 [Tipo squallido]]
+[msg MSG_010_0_0 [Cara desprezível]]
 [s][vp 8 0 0 11 65535 0]Eh... Legal, a garota.[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Portanto? Você não vai me responder?[n]Então eu estava certo...[n][f 1 3 65535][w][e]
 
-[msg MSG_012_0_0 [Tipo squallido]]
+[msg MSG_012_0_0 [Cara desprezível]]
 [s][vp 8 0 0 13 65535 0]Hã?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 14 65535 0]Qual é o seu problema?[n]Por que todas essas perguntas, hein?[n][f 1 3 65535][w][e]
 
@@ -50,14 +50,14 @@
 [msg MSG_014_0_0 [Makoto]]
 [s][bup 0 6 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Ah...[n][f 1 3 65535][w][e]
 
-[msg MSG_015_0_0 [Tipo squallido]]
+[msg MSG_015_0_0 [Cara desprezível]]
 [s][vp 8 0 0 16 65535 0]...estou brincando. Bah,[n]mas por que estou perdendo meu tempo[n]com crianças estúpidas?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 17 65535 0]De qualquer forma eu tenho que correr. Até mais![n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]U-Hum, se você não quiser lidar[n]com a gente, podemos falar[n]com seu chefe pessoalmente.[n][f 1 3 65535][w][e]
 
-[msg MSG_017_0_0 [Tipo squallido]]
+[msg MSG_017_0_0 [Cara desprezível]]
 [s][vp 8 0 0 19 65535 0]Você está falando sério? Mesmo sabendo[n]de quem estamos falando?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 20 65535 0]Bah, não acredito.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 21 65535 0]OK, estou indo embora.[n]Você me quebrou.[n][f 1 3 65535][w][e]

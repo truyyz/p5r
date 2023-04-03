@@ -64,19 +64,19 @@
 [msg MSG_017_0_0 [Haru]]
 [s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Já. Este bar, junto com[n]Lala-san... é como[n]todo Shinjuku deveria ser.[n][f 1 3 65535][w][e]
 
-[msg MSG_018_0_0 [Cliente abituale ubriaco]]
+[msg MSG_018_0_0 [Cliente bêbado regular]]
 [s][vp 8 0 0 0 65535 0]Lala-chaaaan! *hic* outra bebida![n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Lala Escargot]]
 [s][vp 8 0 0 0 65535 0]Ei, nem estamos abertos![n][f 1 3 65535][w][e]
 
-[msg MSG_020_0_0 [Cliente abituale ubriaco]]
+[msg MSG_020_0_0 [Cliente bêbado regular]]
 [s][vp 8 0 0 0 65535 0]Mas... *hic* As luzes estavam acesas[n]Posso dar uma... URGH.[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Lala Escargot]]
 [s][vp 8 0 0 0 65535 0]EI! Se tiver que vomitar, faça no[n]banheiro! Eu juro, suje meu contador[n]e eu vou te banir para sempre![n][f 1 3 65535][w][e]
 
-[msg MSG_021_5_0 [Cliente abituale ubriaco]]
+[msg MSG_021_5_0 [Cliente bêbado regular]]
 [s][vp 8 0 0 0 65535 0]S-Sim senhora...[n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Lala Escargot]]

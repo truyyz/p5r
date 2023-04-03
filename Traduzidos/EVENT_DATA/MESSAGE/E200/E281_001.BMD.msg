@@ -85,10 +85,10 @@
 [msg MSG_030_0_0 [Ann]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 4 1 301 1][vp 8 0 0 35 65535 0]S-Sim! Este peixe é tão fresco![n][f 1 3 65535][w][e]
 
-[msg MSG_030_3_0 [Donna arrogante]]
+[msg MSG_030_3_0 [Mulher arrogante]]
 [s][vp 8 0 0 55 65535 0]Umpf onde quer que vamos, ouvimos[n]sobre esses Phantom Thieves.[n][f 1 3 65535][w][e]
 
-[msg MSG_030_6_0 [Uomo altezzoso]]
+[msg MSG_030_6_0 [Homem arrogante]]
 [s][vp 8 0 0 56 65535 0]Que bobagem.[n][f 1 3 65535][w][e]
 
 [msg MSG_031_0_0 [Ann]]

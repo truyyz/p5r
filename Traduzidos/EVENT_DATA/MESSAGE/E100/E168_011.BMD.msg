@@ -1,7 +1,7 @@
-[msg MSG_000_0_0 [Studente pettegolo]]
+[msg MSG_000_0_0 [Aluno fofoqueiro]]
 [s][vp 8 0 0 1 9 0]Uma carta de aviso?[n][f 1 3 65535][w][e]
 
-[msg MSG_001_0_0 [Studente entusiasta]]
+[msg MSG_001_0_0 [Estudante entusiasta]]
 [s][vp 8 0 0 2 8 0]Ouvi dizer que já estavam aqui quando todos[n]chegaram aqui esta manhã.[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Ann]]
@@ -27,16 +27,16 @@
 [msg MSG_008_0_0 [Ryuji]]
 [s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]OK, você sabe o que? I-Isso não é verdade![n][f 1 3 65535][w][e]
 
-[msg MSG_009_0_0 [Studentessa timida]]
+[msg MSG_009_0_0 [Aluno tímido]]
 [s][vp 8 0 0 14 10 0]O Prof. Kamoshida fez[n]algo errado...?[n][f 1 3 65535][w][e]
 
-[msg MSG_010_0_0 [Studentessa pettegola]]
+[msg MSG_010_0_0 [Aluno fofoqueiro]]
 [s][vp 8 0 0 15 11 0]Isso significa que os rumores eram[n]verdadeiros!?![n][f 1 3 65535][w][e]
 
-[msg MSG_011_0_0 [Studente pettegolo]]
+[msg MSG_011_0_0 [Aluno fofoqueiro]]
 [s][vp 8 0 0 16 9 0]Espere um minuto... Alguém[n]tentará roubar algo[n]do Prof. Kamoshida...?[n][f 1 3 65535][w][e]
 
-[msg MSG_012_0_0 [Studente entusiasta]]
+[msg MSG_012_0_0 [Estudante entusiasta]]
 [s][vp 8 0 0 17 8 0]O que é esse logotipo estranho?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 18 8 0]E quem são esses Ladrões[n]Phantom of Hearts...?[n][f 1 3 65535][w][e]
 
@@ -71,7 +71,7 @@
 [msg MSG_026_0_0 [Kamoshida]]
 [s][bup 0 202 2 0 0][f 4 10 65535 0 0][vp 8 0 0 28 65535 0]Mas está tudo bem. Muito[n]em breve você será expulso, no entanto.[n][f 1 3 65535][w][e]
 
-[msg MSG_027_0_0 [Ombra di Kamoshida]]
+[msg MSG_027_0_0 [Sombra de Kamoshida]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 208 3 301 1][vp 8 0 0 29 23 0]Vamos... Roube, se puder![n][f 1 3 65535][w][e]
 
 [msg MSG_029_0_0 [Morgana]]

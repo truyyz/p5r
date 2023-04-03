@@ -64,23 +64,23 @@
 [s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 4048 65535 0]Agora eu entendo... Este é[n]o sofrimento da Paixão...![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sinto algo fervendo em mim...![n][f 1 3 65535][w][e]
 
-[msg MSG_014_0_0 [Prete tranquillo]]
+[msg MSG_014_0_0 [Padre quieto]]
 [s][vp 8 0 0 0 5 0]C-Crianças! O que vocês estão fazendo?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Yusuke]]
 [s][bup 0 5 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 4027 65535 0]Ah, aqui...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Este é um estúdio de arte.[n][f 1 3 65535][w][e]
 
-[msg MSG_016_0_0 [Prete tranquillo]]
+[msg MSG_016_0_0 [Padre quieto]]
 [s][vp 8 0 0 0 5 0]Arte? ...Isso?[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu tento retratar o sofrimento,[n]então pensei em me inspirar[n]na crucificação de Cristo...[n][f 1 3 65535][w][e]
 
-[msg MSG_018_0_0 [Prete tranquillo]]
+[msg MSG_018_0_0 [Padre quieto]]
 [s][vp 8 0 0 0 5 0]Ah, você está interessado no sofrimento[n]da crucificação?[n][f 1 3 65535][w][e]
 
-[msg MSG_019_0_0 [Prete tranquillo]]
+[msg MSG_019_0_0 [Padre quieto]]
 [s][vp 8 0 0 0 5 0]Hum. Embora seja verdade que[n]a crucificação de Jesus é um[n]símbolo de grande sofrimento...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 5 0]Traz também uma[n]mensagem positiva, uma mensagem[n]de ressurreição, de perdão.[n][f 1 3 65535][w][e]
 
@@ -88,7 +88,7 @@
 [s][bup 0 5 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 4135 65535 0]Ressurreição? Perdão?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não entendo... São noções[n]completamente contrastantes com[n]minha ideia de sofrimento...[n][f 1 3 65535][w][e]
 
-[msg MSG_021_0_0 [Prete tranquillo]]
+[msg MSG_021_0_0 [Padre quieto]]
 [s][vp 8 0 0 0 5 0]Entendo que não é fácil[n]entender, mas...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 5 0]Tente refletir sobre o fato[n]de que o sofrimento de hoje pode[n]dar vida à esperança de amanhã.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 5 0]Mais uma coisa... Seria melhor se você[n]mantivesse uma atitude mais[n]assentada. Você pode chatear alguém.[n][f 1 3 65535][w][e]

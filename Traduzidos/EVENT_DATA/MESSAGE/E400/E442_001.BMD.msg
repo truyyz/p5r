@@ -50,7 +50,7 @@
 [msg MSG_018_0_0 [Ryuji]]
 [s][bup 0 2 100 65535 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]Ouvir você falar só me faz[n]querer descobrir o que[n]está lá dentro.[n][f 1 3 65535][w][e]
 
-[msg MSG_019_0_0 [Capitão da Guarda]]
+[msg MSG_019_0_0 [Capitão da guarda]]
 [s][vp 8 0 0 21 65535 0]Nós os encontramos! Os fugitivos estão[n]na frente da cela de isolamento![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 22 65535 0]Alarme! Alarme! Vamos pegá-los[n]agora![n][f 1 3 65535][w][e]
 

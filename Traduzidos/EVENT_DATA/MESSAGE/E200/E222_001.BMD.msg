@@ -1,4 +1,4 @@
-[msg MSG_000_0_0 [PR donna]]
+[msg MSG_000_0_0 [Relações públicas]]
 [s][vp 8 0 0 1 10 0]...E é por isso que envolvemos[n]patrocinadores na produção[n]de programas de televisão.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 2 10 0]Você já ouviu falar de break[n]ads, certo? É aí que[n]patrocinadores entram em ação.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 3 10 0]Basicamente, os telespectadores[n]são de vital importância para[n]financiar um canal de TV e...[n][f 1 3 65535][w][e]
@@ -20,7 +20,7 @@
 [msg MSG_005_0_0 [Ryuji]]
 [s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Ele nem está ouvindo...[n][f 1 3 65535][w][e]
 
-[msg MSG_006_0_0 [PR donna]]
+[msg MSG_006_0_0 [Relações públicas]]
 [s][vp 8 0 0 8 10 0]Por exemplo, durante o dia[n]novelas são exibidas, à noite os programas[n]com os apresentadores mais atraentes.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 9 10 0]Portanto, os horários de exibição dos diversos[n]programas são decididos na secretaria de[n]programação.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 10 10 0]Em suma, é o local[n]onde é planejado o[n]agendamento de nossa rede.[n][f 1 3 65535][w][e]
@@ -42,7 +42,7 @@
 [msg MSG_011_0_0 [Ann]]
 [s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Uau...Ele não está me ouvindo também...[n][f 1 3 65535][w][e]
 
-[msg MSG_012_0_0 [PR donna]]
+[msg MSG_012_0_0 [Relações públicas]]
 [s][vp 8 0 0 15 10 0]Em seguida, as melhores partes são extraídas da[n]filmagem, para criar um episódio com a duração[n]desejada.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 16 10 0]O local onde os vários[n]segmentos são editados é a sala de edição.[n][f 1 3 65535][w][e]
 
@@ -55,34 +55,34 @@
 [msg MSG_015_0_0 [Morgana]]
 [s][bup 0 3 4 0 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Hrgh...[n][f 1 3 65535][w][e]
 
-[msg MSG_016_0_0 [Giornalista famoso]]
+[msg MSG_016_0_0 [Jornalista famoso]]
 [s][vp 8 0 0 20 8 0]O que acontece? Este[n]ruído é insuportável.[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Ryuji]]
 [s][bup 0 2 11 65535 0][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]Ei, sua vadia...[n][f 1 3 65535][w][e]
 
-[msg MSG_018_0_0 [PR donna]]
+[msg MSG_018_0_0 [Relações públicas]]
 [s][vp 8 0 0 22 10 0]Peço desculpas! Eu os faço sair imediatamente![n][f 1 3 65535][w][e]
 
-[msg MSG_019_0_0 [PR donna]]
+[msg MSG_019_0_0 [Relações públicas]]
 [s][vp 8 0 0 35 65535 0]Então, é hora de obter[n]alguma experiência prática![n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Ryuji]]
 [s][bup 0 2 11 65535 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Droga... Quem ele[n]pensa que é, aquele babaca?[n][f 1 3 65535][w][e]
 
-[msg MSG_022_0_0 [Assistente alla regia prepotente]]
+[msg MSG_022_0_0 [Diretor assistente dominador]]
 [s][vp 8 0 0 24 9 0]Ei. Gosta de trabalhar na TV?[n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Ann]]
 [s][bup 0 4 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]Hã?[n][f 1 3 65535][w][e]
 
-[msg MSG_024_0_0 [Assistente alla regia prepotente]]
+[msg MSG_024_0_0 [Diretor assistente dominador]]
 [s][vp 8 0 0 26 9 0]Você sabe, você tem um corpo incrível. Heheheh...[n][f 1 3 65535][w][e]
 
 [msg MSG_025_0_0 [Ann]]
 [s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 27 65535 0]Erm... Estou em uma viagem escolar...[n][f 1 3 65535][w][e]
 
-[msg MSG_026_0_0 [Assistente alla regia prepotente]]
+[msg MSG_026_0_0 [Diretor assistente dominador]]
 [s][vp 8 0 0 28 9 0]Bem, se você estiver interessado entre em contato[n]comigo. Você pode me enviar uma mensagem quando[n]quiser, ficarei muito feliz.[n][f 1 3 65535][w][e]
 
 [msg MSG_026_5_0 [Ann]]
@@ -99,10 +99,10 @@
 [msg MSG_029_0_0 [Kawakami]]
 [s][bup 0 109 502 65535 0][f 4 10 65535 0 0][vp 8 0 0 34 65535 0]Eu entendo que você está entediado, mas tente não[n]causar problemas. OK?[n][f 1 3 65535][w][e]
 
-[msg MSG_031_0_0 [Assistente alla regia prepotente]]
+[msg MSG_031_0_0 [Diretor assistente dominador]]
 [s][vp 8 0 0 36 9 0]Então, eeehm...[n][f 1 3 65535][w][e]
 
-[msg MSG_032_0_0 [Assistente alla regia prepotente]]
+[msg MSG_032_0_0 [Diretor assistente dominador]]
 [s][vp 8 0 0 37 9 0]Agora mostraremos[n]como funciona o trabalho[n]do operador assistente.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 38 9 0]Quando movemos as câmeras,[n]alguém tem que cuidar dos cabos,[n]para evitar que fiquem emaranhados...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 39 9 0]O loiro serve.[n]Ele parece ter energia de sobra.[n][f 1 3 65535][w][e]

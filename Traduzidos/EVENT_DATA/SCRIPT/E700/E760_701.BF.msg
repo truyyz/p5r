@@ -272,7 +272,7 @@
 [msg MND_ThanksSojiro]
 [s][vp 8 2 0 0 65535 0]Eu deveria contar a Sojiro...[n][f 1 3 65535][w][e]
 
-[msg MSG_DEBUG [for debug]]
+[msg MSG_DEBUG [Para depuração]]
 [s]modo de depuração[n][f 1 3 65535][w][e]
 
 [sel SEL_DEBUG top]
@@ -294,7 +294,7 @@
 [s]primeira vez[e]
 [s]em geral[e]
 
-[msg MSG_DEBUG_4 [for debug]]
+[msg MSG_DEBUG_4 [Para depuração]]
 [s][vp 8 2 0 0 65535 0]Configuração para curry[n]e extensão de café.[n][f 1 3 65535][w][e]
 
 [sel SEL_DEBUG_4 top]

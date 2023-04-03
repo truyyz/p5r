@@ -4,7 +4,7 @@
 [msg MSG_001_0_0 [Morgana]]
 [s][bup 0 3 4 0 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Que é aquele? Um ser cognitivo?[n][f 1 3 65535][w][e]
 
-[msg MSG_002_0_0 [Ragazza con il body]]
+[msg MSG_002_0_0 [Menina com collant]]
 [s][bup 0 10 993 0 0][f 4 10 65535 0 0][vp 8 0 0 3 6 0]Eu...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 4 6 0]A culpa é minha...[n][f 1 3 65535][w][e]
 
@@ -14,7 +14,7 @@
 [msg MSG_004_0_0 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Vamos![n][f 1 3 65535][w][e]
 
-[msg MSG_005_0_0 [Ragazza con il body]]
+[msg MSG_005_0_0 [Menina com collant]]
 [s][bup 0 10 993 0 0][f 4 10 65535 0 0][vp 8 0 0 7 6 0]Kasumi...Devi...[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Kasumi]]
@@ -23,13 +23,13 @@
 [msg MSG_007_0_0 [Kasumi]]
 [s][bup 0 10 5 65535 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Nnngh![n][f 1 3 65535][w][e]
 
-[msg MSG_008_0_0 [Ragazza con il body]]
+[msg MSG_008_0_0 [Menina com collant]]
 [s][bup 0 10 995 0 0][f 4 10 65535 0 0][vp 8 0 0 10 6 0]Você deve...[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Morgana]]
 [s][bup 0 3 4 0 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Em breve! Yoshizawa está em perigo![n][f 1 3 65535][w][e]
 
-[msg MSG_010_0_0 [Entità mostruosa]]
+[msg MSG_010_0_0 [Entidade monstruosa]]
 [s][vp 8 0 0 13 65535 0]...Heresia.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 14 65535 0]Você ousa desdenhar a misericórdia[n]de nosso senhor...[n][f 1 3 65535][w][e]
 
@@ -52,7 +52,7 @@
 [msg MSG_016_0_0 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Umpf! Essa coisa parece[n]pronta para lutar.[n][f 1 3 65535][w][e]
 
-[msg DVL_017_0_0 [Voce dell'Ombra]]
+[msg DVL_017_0_0 [Voz da sombra]]
 [s][vp 8 0 0 19 65535 0]Aceite-se... Nosso[n]senhor lamenta a loucura[n]nascida de sua dor.[n][f 1 3 65535][w][e]
 
 [msg MSG_017_5_0 [Kasumi]]
