@@ -1,4 +1,4 @@
-[msg D01_03_e161_011_mes01 [Navigatore del Metaverso]]
+[msg D01_03_e161_011_mes01 [Navegador do Metaverso]]
 [s]Este é o ponto de retorno[n]do Palácio Kamoshida.[n][w][e]
 
 [msg D01_03_e161_011_mes02 [Ryuji]]

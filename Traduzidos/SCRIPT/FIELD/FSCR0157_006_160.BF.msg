@@ -1,4 +1,4 @@
-[msg e380_300_mes01 [Voce meccanica]]
+[msg e380_300_mes01 [Voz mecânica]]
 [s]Autenticação concluída.[n][w][e]
 [s]Você pode acessar os[n]seguintes andares:[n][w][e]
 [s]Os andares padrão.[n]Os andares exclusivo para membros.[n]Os andares superiores.[n][w][e]

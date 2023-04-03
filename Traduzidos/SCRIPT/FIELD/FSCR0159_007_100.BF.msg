@@ -19,7 +19,7 @@
 [msg D07_02_e410_025_mes01 [???]]
 [s]Ei, pare aí.[n][w][e]
 
-[msg D07_02_e410_025_mes02 [Uomo molto volgare]]
+[msg D07_02_e410_025_mes02 [Homem muito vulgar]]
 [s]Estou falando com você.[n]Venha aqui por um momento.[n][w][e]
 
 [msg D07_02_e410_025_mes03 [Ann]]
@@ -28,13 +28,13 @@
 [msg D07_02_e410_025_mes04 [Futaba]]
 [s][bup 0 8 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9029 65535 0]Parece super perigoso! Eu não quero[n]nada a ver com isso, mesmo que[n]é a coisa cognitiva usual![n][w][e]
 
-[msg D07_02_e410_025_mes05 [Uomo molto volgare]]
+[msg D07_02_e410_025_mes05 [Homem muito vulgar]]
 [s]Do que diabos você está falando, seus idiotas?[n]Você faz muita bagunça aqui.[n][w][e]
 
 [msg D07_02_e410_025_mes06 [Morgana]]
 [s][bup 0 3 4 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Aaah...! N-Não, não estamos brincando[n]nada, nós juramos![n]Mas quem é você?[n][w][e]
 
-[msg D07_02_e410_025_mes07 [Uomo molto volgare]]
+[msg D07_02_e410_025_mes07 [Homem muito vulgar]]
 [s]Umpf! Aqui eu faço as perguntas.[n]Agora beba um pouco de água salgada[n]e reflita sobre suas ações.[n][w][e]
 [s]Vou deixar para vocês.[n]Não tenho tempo a perder[n]com esses merdinhas.[n][w][e]
 

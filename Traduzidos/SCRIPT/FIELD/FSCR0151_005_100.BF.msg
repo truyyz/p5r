@@ -37,11 +37,11 @@
 [s][vp 1 0 0 5 0 0]Entendo... foi você quem[n]colocou as mãos na biblioteca.[n][w][e]
 [s][vp 1 0 0 6 0 0]Aparentemente fiz bem[n]em esperar aqui...[n][w][e]
 
-[msg D01_04_e160_087_mes06 [Capitão da Guarda]]
+[msg D01_04_e160_087_mes06 [Capitão da guarda]]
 [s][vp 1 0 0 7 0 0]Como disse o macaco,[n]este é um lugar sagrado[n]para nosso grande Rei Kamoshida.[n][w][e]
 [s][vp 1 0 0 8 0 0]É inaceitável que incrédulos[n]como você invadam[n]essa maneira![n][w][e]
 
-[msg D01_04_e160_087_mes07 [Castigatore divino]]
+[msg D01_04_e160_087_mes07 [Justiceiro Divino]]
 [s][vp 1 0 0 9 0 0]Por desafiar estupidamente[n]Rei Kamoshida, você pagará...[n]com sua vida![n][w][e]
 
 [msg D01_04_e160_087_mes08 [Morgana]]

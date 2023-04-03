@@ -24,7 +24,7 @@
 [msg D08_01_e441_030_selA_1_m [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1136 65535 0]Certo, não devemos ser imprudentes. Vamos fazer[n]todos os preparativos para o caso![n][w][e]
 
-[msg D08_01_e441_031_mes01 [Custode]]
+[msg D08_01_e441_031_mes01 [Guardador]]
 [s]Umpf... Vocês devem ser os[n]intrusos de que[n]falam... Estava esperando por vocês.[n][w][e]
 
 [sel D08_01_e441_031_selA top]
@@ -32,17 +32,17 @@
 [s]Dê-nos o que você protege.[f 2 7 0 0 106 1][e]
 [s]Desculpe a espera.[f 2 7 0 0 106 1][e]
 
-[msg D08_01_e441_031_selA_0_m [Custode]]
+[msg D08_01_e441_031_selA_0_m [Guardador]]
 [s]Então o que você é? Rebeldes que[n]querem perturbar a felicidade[n]dos cidadãos deste mundo?[n][w][e]
 [s]Não importa, enquanto existirmos[n]você não terá sucesso em seu propósito.[n][w][e]
 [s]Vou mandá-lo de volta para suas celas,[n]onde você aguardará o inevitável[n]fim![n][w][e]
 
-[msg D08_01_e441_031_selA_1_m [Custode]]
+[msg D08_01_e441_031_selA_1_m [Guardador]]
 [s]Umpf. Você precisa disso para continuar,[n]não vou negar.[n][w][e]
 [s]Mas tenha certeza de que[n]você não colocará as mãos nele.[n][w][e]
 [s]Afinal, você teria que[n]me derrotar para fazer isso![n][w][e]
 
-[msg D08_01_e441_031_selA_2_m [Custode]]
+[msg D08_01_e441_031_selA_2_m [Guardador]]
 [s]Umpf, que atrevimento. Como você se atreve a[n]falar comigo assim depois de tal intrusão.[n][w][e]
 [s]Isso não importa. Seus esforços inúteis[n]não farão diferença.[n][w][e]
 [s]É hora de voltar para a cela[n]e ser acorrentado![n][w][e]

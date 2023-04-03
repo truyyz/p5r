@@ -91,7 +91,7 @@
 [msg D01_01_miniEV01_mes00 [Ryuji]]
 [s][bup 0 2 0 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Merda... abaixe-se![n][w][e]
 
-[msg D01_01_miniEV01_mes01 [Capitão da Guarda]]
+[msg D01_01_miniEV01_mes01 [Capitão da guarda]]
 [s]O rei Kamoshida ainda não voltou! Eu quero a[n]confirmação de seu status![n][w][e]
 
 [msg D01_01_miniEV01_mes02 [Ryuji]]

@@ -1,4 +1,4 @@
-[msg D02_mi_e206_112_mes01 [Terminale]]
+[msg D02_mi_e206_112_mes01 [Terminal]]
 [s]Desativando protocolos de segurança[n]...[n][w][e]
 
 [msg D02_mi_e206_112_mes02 [Ryuji]]

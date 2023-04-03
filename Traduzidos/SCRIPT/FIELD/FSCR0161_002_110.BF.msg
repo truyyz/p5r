@@ -33,7 +33,7 @@
 [msg D08_01_e440_016_mes04 [Yusuke]]
 [s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4021 65535 0]É normal que numa prisão[n]a vigilância seja apertada... Mesmo que[n]os presos não queiram fugir.[n][w][e]
 
-[msg D08_01_e440_016_mes05 [Voce del custode]]
+[msg D08_01_e440_016_mes05 [Voz do zelador]]
 [s]Eles passaram nas medidas de segurança! Dirija-se[n]ao local! Não os deixe escapar![n][w][e]
 
 [msg D08_01_e440_016_mes06 [Ryuji]]

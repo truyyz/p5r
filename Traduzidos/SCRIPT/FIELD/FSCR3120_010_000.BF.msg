@@ -24,13 +24,13 @@
 [msg MSG_PUB_TELEPHONE_NG [Morgana]]
 [s][bup 0 3 0 0 0]Você está cansado, não está?[n]Os telefonemas podem esperar.[n]Vamos dormir.[n][w][e]
 
-[msg MSG_PHONE_DAY_TIME_NOT [Voce di Kawakami]]
+[msg MSG_PHONE_DAY_TIME_NOT [Voz de Kawakami]]
 [s]Alô, aqui é a Becky![n][w][e]
 [s]Sinto muito, mestre, mas no momento estou de[n]folga.[n][w][e]
 [s]Eu posso ser sua empregada[n]apenas à noite.[n][w][e]
 [s]Além disso, há outras empregadas disponíveis[n]nas [clr 2]sextas e sábados[clr 27], então tente[n]ligar no fim de semana.[n][w][e]
 
-[msg MSG_PHONE_NIGHT_NOT [Voce di Kawakami]]
+[msg MSG_PHONE_NIGHT_NOT [Voz de Kawakami]]
 [s]Alô, aqui é a Becky![n][w][e]
 [s]Me desculpe, mestre, mas eu já estou trabalhando[n]duro.[n][w][e]
 [s]Há outras empregadas disponíveis[n]nas [clr 2]sextas e sábados[clr 27], então tente[n]ligar no fim de semana.[n][w][e]
@@ -59,12 +59,12 @@
 [s][bup 0 3 0 0 0]A partir daqui você pode ligar[n]pacificamente para o serviço de empregada[n]em casa, sem deixar rastros.[n][w][e]
 [s]Quer ligar para Kawakami?[n][w][e]
 
-[msg MSG_COOP_NG [Voce di Kawakami]]
+[msg MSG_COOP_NG [Voz de Kawakami]]
 [s]Alô, aqui é a Becky![n][w][e]
 [s]Me desculpe, mestre, mas eu já estou trabalhando[n]duro.[n][w][e]
 [s]Há outras empregadas disponíveis[n]nas [clr 2]sextas e sábados[clr 27], então tente[n]ligar no fim de semana.[n][w][e]
 
-[msg MSG_COOP_NG_RANK_8 [Voce di Kawakami]]
+[msg MSG_COOP_NG_RANK_8 [Voz de Kawakami]]
 [s]Hellooo, aqui é Becky![n]Estou em uma pausa para um cocô'.[n][w][e]
 [s]Espero que você ligue de volta[n]em breve![n][w][e]
 
@@ -101,7 +101,7 @@
 [s]Você sabe oquê? Hoje tenho[n]uma oferta especial só para você![n][w][e]
 [s]Meus serviços custam[n]5.000 ienes, com tudo incluído.[n]Que tal?[n][w][e]
 
-[msg MSG_KAWAKAMI_CORP_C06_00 [Infermiera]]
+[msg MSG_KAWAKAMI_CORP_C06_00 [Enfermeira]]
 [s]Olá, é o Hospital Aoyama.[n]Estou falando com [f 4 1]-san?[n][w][e]
 [s]Kawakami-san desmaiou[n]e foi internado[n]em nosso hospital.[n][w][e]
 [s]Ela está delirando, mas continua[n]repetindo seu nome.[n]Você pode vir vê-la?[n][w][e]
@@ -110,7 +110,7 @@
 [s][bup 0 109 0 65535 1]Alô, aqui é a Becky! Eu estarei lá.[n]Tudo bem, Mestre?[n][w][e]
 [s]Hum, vou adicionar alguns serviços de[n]bônus. O preço[n]é de 5.000 ienes, ok?[n][w][e]
 
-[msg MSG_KAWAKAMI_CORP_C08_00 [Voce di Kawakami]]
+[msg MSG_KAWAKAMI_CORP_C08_00 [Voz de Kawakami]]
 [s]Hellooo, aqui é Becky![n]Estou em uma pausa para um cocô'.[n][w][e]
 [s]Espero que você ligue de volta[n]em breve![n][w][e]
 
@@ -148,7 +148,7 @@
 [s][bup 0 109 0 65535 1]Ufa... Tudo bem, vou ter que fazer[n]algumas ligações e ver se[n]alguém está interessado.[n][w][e]
 [s]Ah, e leve seus[n]estudos a sério, ok?[n][w][e]
 
-[msg MSG_KAWAKAMI_COOP_CANCEL_2 [Infermiera]]
+[msg MSG_KAWAKAMI_COOP_CANCEL_2 [Enfermeira]]
 [s]Você é um membro da família, não é?[n]Venha aqui o mais rápido possível,[n]por favor.[n][w][e]
 [s]Tudo bem, esperamos por você.[n][w][e]
 
@@ -173,7 +173,7 @@
 [s][bup 0 109 0 65535 1]OK! Obrigado por me solicitar.[n][w][e]
 [s]Eu estarei aí, então[n]limpe sua mesa[n]e espere por mim.[n][w][e]
 
-[msg MSG_KAWAKAMI_K_YES_RANK6 [Infermiera]]
+[msg MSG_KAWAKAMI_K_YES_RANK6 [Enfermeira]]
 [s]OK. Você sabe onde fica o hospital?[n]O número do quarto é...[n][w][e]
 
 [msg MSG_KAWAKAMI_K_YES_RANK7 [Kawakami]]

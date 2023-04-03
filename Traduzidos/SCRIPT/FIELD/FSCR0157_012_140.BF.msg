@@ -5,7 +5,7 @@
 [s]Está bom para mim.[e]
 [s]Eu não sinto como se.[e]
 
-[msg e382_230_selA_0_mes01 [Un'Ombra!?!]]
+[msg e382_230_selA_0_mes01 [Uma sombra!?!]]
 [s]Uh?!? Quem é Você?!?[n][w][e]
 
 [msg e382_230_selA_0_mes02 [Ryuji]]

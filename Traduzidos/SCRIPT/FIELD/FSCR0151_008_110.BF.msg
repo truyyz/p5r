@@ -12,7 +12,7 @@
 [msg D01_04_e165_062_re_mes01 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Você está pronto, Joker?[n][w][e]
 
-[msg D01_04_e165_063_mes01 [Capitão da Guarda]]
+[msg D01_04_e165_063_mes01 [Capitão da guarda]]
 [s]A majestosa torre que penetra[n]o céu é o lugar mais sagrado[n]para o maravilhoso Rei Kamoshida...[n][w][e]
 [s]Não é lugar para[n]crianças como você! Prepare-se para ser punido![n][w][e]
 

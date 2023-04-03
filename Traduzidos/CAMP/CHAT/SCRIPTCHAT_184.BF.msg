@@ -22,6 +22,6 @@
 [msg MND_007_0_0]
 [s][vp 1 0 0 0 0 0]Informações sobre um alvo...[n]Talvez eu deva ir ao esconderijo[n]e contar aos outros sobre isso.[n][f 1 3 65535][w][e]
 
-[msg HELP_MEMENTOS_MISSION_04 [Richiesta ricevuta!]]
+[msg HELP_MEMENTOS_MISSION_04 [Pedido recebido!]]
 [s][clr 4]Informações do alvo coletadas[clr 27][n]Você pode enviar uma carta de aviso[n]do [clr 2]esquálido[clr 27]. Você poderá obter mais[n]informações de seus [clr 3]colegas[clr 27].[n][w][e]
 

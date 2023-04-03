@@ -1,4 +1,4 @@
-[msg D08_02_e454_015_mes01 [Voce di Lavenza]]
+[msg D08_02_e454_015_mes01 [Voz de Lavenza]]
 [s]Parece que você conseguiu[n]salvar todos os seus camaradas...[n][w][e]
 [s]Então, por favor, reúnam-se imediatamente nesta[n]sala.[n][w][e]
 

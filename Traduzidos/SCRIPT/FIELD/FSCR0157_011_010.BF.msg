@@ -1,4 +1,4 @@
-[msg EV_SEL_MES_157_011_mes01 [Voce meccanica]]
+[msg EV_SEL_MES_157_011_mes01 [Voz mecânica]]
 [s]Selecione o plano desejado.[n][w][e]
 
 [sel EV_SEL_MES_157_011_selA top]

@@ -59,7 +59,7 @@
 [s]Para fazer isso, você precisará coletar[n]informações no mundo real.[n][f 1 3 65535][w][e]
 [s]Fale com os habitantes e colete[n]informações que possam[n]ajudá-lo a despertar seu coração.[n][f 1 3 65535][w][e]
 
-[msg HELP_MEMENTOS_MISSION_04 [Richiesta ricevuta!]]
+[msg HELP_MEMENTOS_MISSION_04 [Pedido recebido!]]
 [s][clr 4]Informações do alvo coletadas[clr 27][n]Você pode enviar uma carta de aviso[n]do [clr 2]esquálido[clr 27]. Você poderá obter mais[n]informações de seus [clr 3]colegas[clr 27].[n][w][e]
 
 [msg SYS_000_0_0]

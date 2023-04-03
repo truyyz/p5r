@@ -40,7 +40,7 @@
 [msg f157_06_EV_YET_CHIP_CLEA_3 [Ryuji]]
 [s]Vai ser fácil![n]Venha, vamos nos ocupar![n][w][e]
 
-[msg EV_SEL_MES_157_006_mes01 [Voce meccanica]]
+[msg EV_SEL_MES_157_006_mes01 [Voz mecânica]]
 [s]Selecione o plano desejado.[n][w][e]
 
 [sel EV_SEL_MES_157_006_selA top]

@@ -33,7 +33,7 @@
 [msg D04_03_e296_301_mes06 [Ann]]
 [s][bup 0 4 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 12 0 0]A garotinha que se apega à[n]mãe seria Futaba-chan, certo?[n][w][e]
 
-[msg D04_03_e296_301_mes07 [Voce di giovane donna]]
+[msg D04_03_e296_301_mes07 [Voz de uma jovem]]
 [s][vp 1 0 0 13 0 0]Não seja tão egoísta![n][w][e]
 [s][vp 1 0 0 14 0 0]Você sabe que eu tenho que trabalhar[n]duro para apoiá-lo?!?[n][w][e]
 [s][vp 1 0 0 15 0 0]Eca![n][w][e]
@@ -51,19 +51,19 @@
 [msg D04_03_e296_301_mes11 [Yusuke]]
 [s][bup 0 5 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 20 0 0]Então, todos esses episódios[n]se somaram ao longo do tempo, levando[n]a mãe ao suicídio?[n][w][e]
 
-[msg D04_03_e296_301_mes12 [Ombra di Futaba]]
+[msg D04_03_e296_301_mes12 [Sombra de Futaba]]
 [s][bup 0 8 900 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 21 0 0]...Eu tenho que morrer.[n][w][e]
 
 [msg D04_03_e296_301_mes13 [Ann]]
 [s][bup 0 4 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 22 0 0]Huh?[n][w][e]
 
-[msg D04_03_e296_301_mes14 [Ombra di Futaba]]
+[msg D04_03_e296_301_mes14 [Sombra de Futaba]]
 [s][bup 0 8 900 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 23 0 0]Eu a matei... É por isso que[n]estou neste túmulo...[n][w][e]
 
 [msg D04_03_e296_301_mes15 [Ann]]
 [s][bup 0 4 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 24 0 0]Não diga isso![n][w][e]
 
-[msg D04_03_e296_301_mes16 [Ombra di Futaba]]
+[msg D04_03_e296_301_mes16 [Sombra de Futaba]]
 [s][bup 0 8 900 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 25 0 0]Eu vou morrer...[n][w][e]
 
 [msg D04_03_e296_301_mes17 [Ann]]

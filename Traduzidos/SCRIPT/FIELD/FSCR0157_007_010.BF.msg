@@ -1,7 +1,7 @@
-[msg mini_ev_mes_01_GAME_04_m [Cassiere Ombra]]
+[msg mini_ev_mes_01_GAME_04_m [Caixa sombra]]
 [s]A soma dos dados é [clr 2][var 0][clr 27].[n][w][e]
 
-[msg mini_ev_mes_01_GAME_03_m [Cassiere Ombra]]
+[msg mini_ev_mes_01_GAME_03_m [Caixa sombra]]
 [s]Bem-vindo à sala de dados![n][w][e]
 [s]Aproveite este jogo simples[n]para adivinhar o total[n]que sairá do lançamento de três dados.[n][w][e]
 [s]Com uma previsão correta, você[n]dobra sua aposta, enquanto com[n]três dados idênticos, você a triplica.[n][w][e]
@@ -18,7 +18,7 @@
 [msg mini_ev_mes_01_GAME_03_s_3 [Morgana]]
 [s][bup 0 3 0 65535 0]......[n][w][e]
 
-[msg mini_ev_mes_01_GAME_03_m_2 [Cassiere Ombra]]
+[msg mini_ev_mes_01_GAME_03_m_2 [Caixa sombra]]
 [s]Bem, declare o total que[n]sairá do lançamento dos três dados.[n][w][e]
 
 [sel mini_ev_mes_01_GAME_03_s_4 top]
@@ -34,23 +34,23 @@
 [msg mini_ev_mes_01_GAME_03_s_7 [Morgana]]
 [s][bup 0 3 0 65535 0]......[n][w][e]
 
-[msg mini_ev_mes_01_GAME_03_m_3 [Cassiere Ombra]]
+[msg mini_ev_mes_01_GAME_03_m_3 [Caixa sombra]]
 [s]Você ganhou! O pagamento é [clr 2]o dobro[clr 27][n]da aposta inicial.[n][w][e]
 
-[msg mini_ev_mes_01_GAME_03_m_4 [Cassiere Ombra]]
+[msg mini_ev_mes_01_GAME_03_m_4 [Caixa sombra]]
 [s]Parabéns, dados iguais![n]Ganho é [clr 2]triplo[clr 27]sua aposta inicial![n][w][e]
 
-[msg mini_ev_mes_01_GAME_03_m_5 [Cassiere Ombra]]
+[msg mini_ev_mes_01_GAME_03_m_5 [Caixa sombra]]
 [s]Incrível! Três Seis![n]A vitória é [clr 2]cinco vezes[clr 27]a aposta inicial.[n][w][e]
 
-[msg mini_ev_mes_01_GAME_03_m_6 [Cassiere Ombra]]
+[msg mini_ev_mes_01_GAME_03_m_6 [Caixa sombra]]
 [s]No momento, nesta sala,[n]moedas estão esgotadas.[n][w][e]
 [s]Pedimos desculpas pelo inconveniente[n]e gentilmente convidamos você[n]a se mudar para outra sala.[n][w][e]
 
-[msg mini_ev_mes_01_GAME_03_m_7 [Cassiere Ombra]]
+[msg mini_ev_mes_01_GAME_03_m_7 [Caixa sombra]]
 [s]Você não acertou, senhor.[n]Que pena. O dealer coleta[n]sua aposta inicial.[n][w][e]
 
-[msg mini_ev_mes_01_GAME_03_m_8 [Cassiere Ombra]]
+[msg mini_ev_mes_01_GAME_03_m_8 [Caixa sombra]]
 [s]Deseja continuar[n]jogando?[n][w][e]
 
 [sel mini_ev_mes_01_GAME_03_s_8 top]

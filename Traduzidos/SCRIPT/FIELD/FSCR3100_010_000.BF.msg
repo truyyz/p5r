@@ -86,28 +86,28 @@
 [msg MSG_EatParamOK]
 [s]Talvez mais tarde eu leve uma bronca, mas...[n][w][e]
 
-[msg MSG_LetterNum_01 [Nota di Sojiro]]
+[msg MSG_LetterNum_01 [Nota de Sojiro]]
 [s]"Não coma aqueles com[n]o rótulo Leblanc".[n][w][e]
 
-[msg MSG_LetterNum_02 [Nota di Sojiro]]
+[msg MSG_LetterNum_02 [Nota de Sojiro]]
 [s]"Você comeu a comida do restaurante de novo, não[n]é? Você não viu o rótulo do Leblanc?"[n][w][e]
 [s]"Não toque em nada que tenha escrito LEBLANC,[n]entendeu?"[n][w][e]
 
-[msg MSG_LetterNum_03 [Nota di Sojiro]]
+[msg MSG_LetterNum_03 [Nota de Sojiro]]
 [s]"Ei, não coma a comida do[n]local. Se você estiver com fome, coma o que[n]eu fiz para o jantar."[n][w][e]
 [s]"Eu disse que você pode pegar o que quiser da[n]geladeira, mas não roube a comida do clube."[n][w][e]
 [s]"Você não está em posição de[n]escapar impune de infrações[n]desse tipo, está?"[n][w][e]
 
-[msg MSG_LetterNum_04 [Nota di Sojiro]]
+[msg MSG_LetterNum_04 [Nota de Sojiro]]
 [s]"Você fez de novo, não foi?[n]Foi bom?"[n][w][e]
 [s]"Bem, saiba que ele foi envenenado.[n]Você só tem mais três[n]dias de vida."[n][w][e]
 [s]"Bem, não realmente, mas se algo acontecer, não[n]me culpe. Não toque na comida do restaurante[n]novamente."[n][w][e]
 
-[msg MSG_LetterNum_05 [Nota di Sojiro]]
+[msg MSG_LetterNum_05 [Nota de Sojiro]]
 [s]"Estou cansado de escrever essas[n]mensagens toda vez que você rouba[n]comida."[n][w][e]
 [s]"É o último aviso!"[n][w][e]
 
-[msg MSG_LetterNum_06 [Nota di Sojiro]]
+[msg MSG_LetterNum_06 [Nota de Sojiro]]
 [s]"Achei que a última vez[n]era a última vez, mas decidi[n]escrever outra."[n][w][e]
 [s]"Quando você fizer carreira,[n]você teria que me reembolsar por tudo[n]tudo que você comeu, entendeu?"[n][w][e]
 

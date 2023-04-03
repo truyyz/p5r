@@ -13,33 +13,33 @@
 [s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 1 1168 65535 0]Uma barraca de bebidas, hein? É um pouco mais[n]caro do que em outros lugares.[n][w][e]
 [s][f 4 10 65535 0 0]Se eles tiverem alguma bebida especial,[n]não faria mal experimentá-los ...[n][w][e]
 
-[msg MSG_1stInfo_Aojiru_02 [Commessa del chiosco delle bevande]]
+[msg MSG_1stInfo_Aojiru_02 [Vendedora de quiosque de bebidas]]
 [s][f 4 23 1 2 3 5 65534 0][vp 8 2 1 0 2 0]Bem-vindo! Temos suco fresco![n][w][e]
 [s][vp 8 2 1 0 2 0]Gosta? Bebidas especiais?[n]Sim, temos hoje![n][w][e]
 
 [msg MSG_1stInfo_Aojiru_03 [Morgana]]
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0]Oooh, quem sabe o que são.[n][w][e]
 
-[msg MSG_1stInfo_Aojiru_NotSe [Commessa del chiosco delle bevande]]
+[msg MSG_1stInfo_Aojiru_NotSe [Vendedora de quiosque de bebidas]]
 [s][f 4 23 1 2 3 5 65534 0][vp 8 2 1 0 2 0]Bem-vindo! Como?[n]Bebidas especiais?[n][w][e]
 [s][vp 8 2 1 0 2 0]Bom, no [clr 2]domingo[clr 27] temos um[n]suco especial de vegetais...[n][w][e]
 
 [msg MSG_1stInfo_Aojiru_NotSe_2 [Morgana]]
 [s][bup 0 3 3 0 0][f 4 10 65535 0 0]Então hoje nada, né? Que pena.[n]Vamos tentar voltar no domingo?[n][w][e]
 
-[msg MSG_1stInfo_Aojiru_04 [Commessa del chiosco delle bevande]]
+[msg MSG_1stInfo_Aojiru_04 [Vendedora de quiosque de bebidas]]
 [s][f 4 23 1 2 3 5 65534 0][vp 8 2 1 0 2 0]É muito amargo, mas[n]fortalece o corpo.[n][w][e]
 [s][vp 8 2 1 0 2 0]O nome dele é Aojiru![n][w][e]
 [s][vp 8 2 1 0 2 0]Temos um tipo diferente de aojiru[n]toda semana.[n][w][e]
 
-[msg MSG_NotSale_Aojiru_01 [Commessa del chiosco delle bevande]]
+[msg MSG_NotSale_Aojiru_01 [Vendedora de quiosque de bebidas]]
 [s][f 4 23 1 2 3 5 65534 0][vp 8 2 1 0 2 0]Me desculpe, mas hoje não temos aojiru...[n][w][e]
 [s][vp 8 2 1 0 2 0]Vendemos apenas aos [clr 2]domingos[clr 27].[n][w][e]
 
 [msg MSG_NotSale_Aojiru_02 [Morgana]]
 [s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 1 1021 65535 0]Que pena. Vamos voltar[n]outra vez![n][w][e]
 
-[msg MSG_Sale_Aojiru_01 [Commessa del chiosco delle bevande]]
+[msg MSG_Sale_Aojiru_01 [Vendedora de quiosque de bebidas]]
 [s][f 4 23 1 2 3 5 65534 0][vp 8 2 1 0 2 0]Bem-vindo! Quer um pouco de suco espremido na[n]hora?[n][w][e]
 [s][vp 8 2 1 0 2 0]Hoje é [clr 2]domingo[clr 27], então[n]também temos aojiru![n][w][e]
 

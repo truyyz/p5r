@@ -1,4 +1,4 @@
-[msg e379_204_mes01 [Voce meccanica]]
+[msg e379_204_mes01 [Voz mecânica]]
 [s]Autenticação necessária.[n]Insira o cartão de membro.[n][w][e]
 
 [msg e379_204_mes02 [Haru]]
@@ -30,7 +30,7 @@
 [msg e379_204_mes10 [Yusuke]]
 [s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ela nos desafia, nos empurrando para enfrentar[n]a segurança deste lugar[n]para finalmente alcançá-la.[n][w][e]
 
-[msg e379_204_mes11 [Ombra Guardia della security]]
+[msg e379_204_mes11 [Guarda de segurança sombra]]
 [s]Aqui estão eles! As ordens são para atirar à[n]vista![n][w][e]
 
 [msg e379_204_mes12 [Ryuji]]
@@ -65,7 +65,7 @@
 [msg e379_204_mes18 [Ryuji]]
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Então vamos sair daqui por enquanto.[n]Voltaremos quando estivermos prontos![n][w][e]
 
-[msg e379_204_mes19 [Voce meccanica]]
+[msg e379_204_mes19 [Voz mecânica]]
 [s]Autenticação necessária.[n]Insira o cartão de membro.[n][w][e]
 
 [msg e379_204_mes20 [Akechi]]
@@ -74,7 +74,7 @@
 [msg e379_204_mes21 [Akechi]]
 [s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Mmm, não adianta perder tempo[n]aqui. Vamos, vamos prosseguir.[n][w][e]
 
-[msg EV_SEL_MES_157_004_mes01 [Voce meccanica]]
+[msg EV_SEL_MES_157_004_mes01 [Voz mecânica]]
 [s]Selecione o plano desejado.[n][w][e]
 
 [sel EV_SEL_MES_157_004_selA top]
@@ -94,7 +94,7 @@
 [msg e379_230_mes01 [Ann]]
 [s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6127 65535 0]Então, com a digitalização do[n]cartão de sócio, o elevador[n]deve funcionar, certo?[n][w][e]
 
-[msg e379_230_mes02 [Voce meccanica]]
+[msg e379_230_mes02 [Voz mecânica]]
 [s]Autenticação concluída.[n][w][e]
 [s]Você pode acessar os[n]seguintes planos:[n][w][e]
 [s]O plano padrão.[n]O plano exclusivo para membros.[n][w][e]

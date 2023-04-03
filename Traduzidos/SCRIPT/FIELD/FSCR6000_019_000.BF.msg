@@ -21,13 +21,13 @@
 [s]Saia de Yongen.[e]
 [s]Eu não sei como responder.[e]
 
-[msg MSG_016_0_0 [Ombra di Jochi]]
+[msg MSG_016_0_0 [Sombra de Jochi]]
 [s][vp 8 2 1 46810 65535 0]Ah, e os Thieves[n]Phantom também. Eu não sei o que você[n]quer de mim, no entanto.[n][w][e]
 
 [msg MSG_017_0_0 [Makoto]]
 [s][bup 0 6 2 65535 0][vp 1 0 0 0 0 0]Você não está forçando[n]as pessoas a deixar[n]suas casas?[n][w][e]
 
-[msg MSG_018_0_0 [Ombra di Jochi]]
+[msg MSG_018_0_0 [Sombra de Jochi]]
 [s][vp 1 0 0 0 0 0]O desenvolvimento da terra é importante.[n]Livrar-se de pessoas teimosas[n]faz parte do meu trabalho.[n][w][e]
 [s][vp 1 0 0 0 0 0]Eu não passo meus dias jogando,[n]como vocês![n][w][e]
 
@@ -35,10 +35,10 @@
 [s][bup 0 6 2 65535 0][vp 1 0 0 0 0 0]Sejamos sérios. Não podemos[n]deixar que aqueles que[n]criam problemas para os outros saiam impunes.[n][w][e]
 [s][vp 1 0 0 0 0 0]E isso também se aplica a[n]aqueles como você, que usam[n]bullying para conseguir o que querem.[n][w][e]
 
-[msg MSG_020_0_0 [Ombra di Jochi]]
+[msg MSG_020_0_0 [Sombra de Jochi]]
 [s][vp 1 0 0 0 0 0]Vocês são apenas pirralhos que se sentem[n]crescidos. Só as crianças do jardim de infância[n]brincam de heróis![n][w][e]
 
-[msg MSG_022_0_0 [Ombra di Jochi]]
+[msg MSG_022_0_0 [Sombra de Jochi]]
 [s][vp 1 0 0 0 0 0]*soluço* Mas se eles não derem[n]terra eu vou[n]ser demitido...[n][w][e]
 [s][vp 1 0 0 0 0 0]Por favor, não há uma maneira de conseguir esse[n]cinema?[n][w][e]
 
@@ -56,13 +56,13 @@
 [msg MSG_026_0_0 [Ryuji]]
 [s][bup 0 2 11 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7157 65535 0]Sim, você deveria ter conversado[n]gentilmente com as pessoas[n]do distrito comercial.[n][w][e]
 
-[msg MSG_027_0_0 [Ombra di Jochi]]
+[msg MSG_027_0_0 [Sombra de Jochi]]
 [s][vp 1 0 0 0 0 0]Oh, desculpe. Eu desisto.[n]Por favor, me perdoe...[n][w][e]
 
 [msg MSG_028_0_0 [Makoto]]
 [s][bup 0 6 2 65535 0][vp 1 0 0 0 0 0]Espero que a partir de agora você pense nos[n]sentimentos daqueles cujas[n]coisas são expropriadas.[n][w][e]
 
-[msg MSG_029_0_0 [Ombra di Jochi]]
+[msg MSG_029_0_0 [Sombra de Jochi]]
 [s][vp 8 2 1 46817 65535 0]E-eu entendi...[n][w][e]
 [s][vp 1 0 0 0 0 0]Serei honesto com meus superiores.[n]Vou dizer a eles que ninguém quer[n]sair de Yongen...[n][w][e]
 

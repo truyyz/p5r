@@ -16,13 +16,13 @@
 [msg MSG_e296_330_AF_000 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Então, Joker, o que fazemos?[n][w][e]
 
-[msg D04_03_e296_331_mes01 [Ombra di Futaba]]
+[msg D04_03_e296_331_mes01 [Sombra de Futaba]]
 [s][bup 0 8 900 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Você está atrasado. Eu pensei[n]que vocês estavam todos mortos.[n][w][e]
 
 [msg D04_03_e296_331_mes02 [Ryuji]]
 [s][bup 0 2 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7026 65535 0]Estávamos perto por sua causa![n]Ouça, você realmente quer nos ajudar?[n]Tome sua decisão![n][w][e]
 
-[msg D04_03_e296_331_mes03 [Ombra di Futaba]]
+[msg D04_03_e296_331_mes03 [Sombra de Futaba]]
 [s][bup 0 8 900 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]...Não sei. Neste ponto,[n]no entanto, não resta muito.[n][w][e]
 
 [msg D04_03_e296_331_mes04 [Ann]]

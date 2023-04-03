@@ -16,21 +16,21 @@
 [msg QUEST_27_ENTER_mes05 [Ann]]
 [s][bup 0 4 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6034 65535 0]Vamos.[n][w][e]
 
-[msg quest27_00 [Ombra di Nejima]]
+[msg quest27_00 [Sombra de Nejima]]
 [s][vp 8 2 1 46810 65535 0]Eheheheh... é inútil.[n][w][e]
 [s][vp 1 0 0 0 0 0]No mundo de Gun About,[n]ninguém pode me vencer![n][w][e]
 [s][vp 1 0 0 0 0 0]Trapaça?[n]Eu não sei do que[n]você está falando...[n][w][e]
 [s][vp 1 0 0 0 0 0]Os vencedores estão sempre[n]certos! São os vencedores que[n]decidem o que é certo![n][w][e]
 [s][vp 1 0 0 0 0 0]E talvez haja um vencedor[n]melhor do que eu? Eu sou o deus[n]do mundo de Gun About![n][w][e]
 
-[msg quest27_01 [Ombra di Nejima]]
+[msg quest27_01 [Sombra de Nejima]]
 [s][vp 1 0 0 0 0 0]Eu sou o deus do mundo de Gun About![n]Eu sou invencível! Ninguém pode[n]mesmo esperar me vencer![n][w][e]
 [s][vp 1 0 0 0 0 0]Não importa quantos mi[n]ataques. Você não será capaz de [clr 2]me machucar[clr 27]![n][w][e]
 
 [msg quest27_02 [Ryuji]]
 [s][bup 0 2 11 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7044 65535 0]Tsk! Idiota! Vamos derrubá-lo![n][w][e]
 
-[msg quest27_07 [Ombra di Nejima]]
+[msg quest27_07 [Sombra de Nejima]]
 [s][vp 8 2 1 46810 65535 0]Eheheheh... é inútil.[n][w][e]
 [s][vp 1 0 0 0 0 0]No mundo de Gun About,[n]ninguém pode me derrotar![n][w][e]
 [s][vp 1 0 0 0 0 0]Hum? Ainda é você?[n]Eu não pensei que você voltaria.[n]A essa altura você deveria ter entendido...[n][w][e]
@@ -41,7 +41,7 @@
 [s][bup 0 2 11 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7158 65535 0]Joker, você tem um plano, certo?[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 0 65535 0]Estou contando com você![n]Desta vez vamos transar com ele![n][w][e]
 
-[msg quest27_08 [Ombra di Nejima]]
+[msg quest27_08 [Sombra de Nejima]]
 [s][vp 8 2 1 46815 65535 0]Eu-não poderia...[n]Como meus[n]cheats podem ter sido frustrados?[n][w][e]
 [s][vp 1 0 0 0 0 0]N-Não... Não é minha culpa![n][w][e]
 [s][vp 1 0 0 0 0 0]A empresa que me demitiu...[n]A culpa é deles![n][w][e]
@@ -56,19 +56,19 @@
 [s]Acorde seu coração![e]
 [s]Expie seus pecados![e]
 
-[msg quest27_10 [Ombra di Nejima]]
+[msg quest27_10 [Sombra de Nejima]]
 [s][vp 1 0 0 0 0 0]Porra![n][w][e]
 
 [msg quest27_11 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 0 65535 0]Bem, nós temos o Tesouro![n][w][e]
 
-[msg quest27_12 [Ombra di Nejima]]
+[msg quest27_12 [Sombra de Nejima]]
 [s][vp 1 0 0 0 0 0]Me desculpe...[n]eu cometi um erro...[n][w][e]
 
 [msg quest27_13 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 0 65535 0]Não faça isso de novo![n]Lembre-se de reparar[n]o mal que você fez![n][w][e]
 
-[msg MEMENTOS_MISSION_27_CLEA [Missione compiuta!]]
+[msg MEMENTOS_MISSION_27_CLEA [Missão cumprida!]]
 [s]Você despertou com sucesso o coração do alvo.[n]Aguarde por novas atualizações de aliados.[n][w][e]
 
 [msg QUEST_27_ENTER_mes01_2nd [Morgana]]

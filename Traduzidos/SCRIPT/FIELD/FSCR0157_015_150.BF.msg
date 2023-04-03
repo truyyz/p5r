@@ -1,20 +1,20 @@
-[msg e382_300_mes01 [Ombra]]
+[msg e382_300_mes01 [Sombra]]
 [s]Bem-vindo à Fighting Arena,[n]o campo de batalha infernal onde[n]as brasas da vida queimam.[n][w][e]
 [s]Oh, é você... O diretor[n]nos contou sobre você.[n][w][e]
 
 [msg e382_300_mes02 [Ryuji]]
 [s][bup 0 2 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7043 65535 0]Hã? O que diabos eles[n]te contaram sobre nós!?[n][w][e]
 
-[msg e382_300_mes03 [Ombra]]
+[msg e382_300_mes03 [Sombra]]
 [s]Nossa, que cabeça quente.[n]Ótimo. Seria tudo mais[n]chato sem elementos como esse.[n][w][e]
 
-[msg e382_300_mes04 [Ombra]]
+[msg e382_300_mes04 [Sombra]]
 [s]Antes de começar a explicação,[n]Gostaria de ter certeza de uma coisa...[n]Você tem [clr 2]10.000[clr 27] moedas disponíveis?[n][w][e]
 
 [msg e382_300_mes05 [Ryuji]]
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Uuuh, o que? Nós não os temos.[n][w][e]
 
-[msg e382_300_mes06 [Ombra]]
+[msg e382_300_mes06 [Sombra]]
 [s]Bem, então de jeito nenhum. Se você não[n]possuir a taxa de participação,[n]não será comentado.[n][w][e]
 [s]Ouça com atenção: volte quando[n]tiver o valor solicitado.[n][w][e]
 
@@ -30,7 +30,7 @@
 [msg e382_300_mes10 [Haru]]
 [s][bup 0 7 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 3164 65535 0]Oh! Sim, claro![n][w][e]
 
-[msg e382_300_mes11 [Ombra]]
+[msg e382_300_mes11 [Sombra]]
 [s]Oh, você tem estado ocupado.[n]Muito bem, deixe-me[n]explicar o jogo para você.[n][w][e]
 [s]Aqui você provará sua força[n]em um trio de batalhas violentas[n]um contra um.[n][w][e]
 [s]Afinal... este é o[n]diamante do nosso cassino, o[n]piso de apostas altas.[n][w][e]
@@ -51,7 +51,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1190 65535 0]Ei, para o outro jogo[n]não precisávamos disso![n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Provavelmente será[n]o mesmo aqui.[n][w][e]
 
-[msg e382_300_mes16 [Ombra]]
+[msg e382_300_mes16 [Sombra]]
 [s]Por mais irritante que seja,[n]é preciso. Por favor, participe.[n][w][e]
 [s]As inscrições são feitas no[n]balcão ali.[n][w][e]
 

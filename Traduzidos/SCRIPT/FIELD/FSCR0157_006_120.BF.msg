@@ -1,19 +1,19 @@
 [msg D157_006_miniEV_01_mes01 [Voz masculina]]
 [s]... Por favor, desculpem-me, senhores.[n][w][e]
 
-[msg D157_006_miniEV_01_mes02 [Cassiere Ombra]]
+[msg D157_006_miniEV_01_mes02 [Caixa sombra]]
 [s]Você ainda não[n]se registrou. Esse caminho por favor.[n][w][e]
 
 [msg D157_006_miniEV_01_mes03 [Akechi]]
 [s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 8127 65535 0]Parece que não temos escolha a não ser fazer o[n]que ele diz. Vamos.[n][w][e]
 
-[msg D157_006_miniEV_01_mes04 [Cassiere Ombra]]
+[msg D157_006_miniEV_01_mes04 [Caixa sombra]]
 [s]Bem-vindo ao andar exclusivo para[n]membros. Sabíamos que você viria.[n][w][e]
 
 [msg D157_006_miniEV_01_mes05 [Yusuke]]
 [s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Tudo está indo de acordo com seu plano... Não[n]posso deixar de me sentir manipulado.[n][w][e]
 
-[msg D157_006_miniEV_01_mes06 [Cassiere Ombra]]
+[msg D157_006_miniEV_01_mes06 [Caixa sombra]]
 [s]Primeiro, queremos[n]oferecer a você um presente de boas-vindas.[n][w][e]
 
 [msg D157_006_miniEV_01_mes07 [Ann]]
@@ -22,27 +22,27 @@
 [msg D157_006_miniEV_01_mes08 [Akechi]]
 [s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Talvez seja para mostrar[n]confiança. Aparentemente ele não[n]tem a menor intenção de perder.[n][w][e]
 
-[msg D157_006_miniEV_01_mes09 [Cassiere Ombra]]
+[msg D157_006_miniEV_01_mes09 [Caixa sombra]]
 [s]Agora, à esquerda do balcão[n]está a área de craps, enquanto[n]à direita estão os slots.[n][w][e]
 [s]Sinta-se à vontade para visitar a área que[n]mais lhe convier.[n][w][e]
 
-[msg D157_006_miniEV_01_mes10 [Cassiere Ombra]]
+[msg D157_006_miniEV_01_mes10 [Caixa sombra]]
 [s]Acreditamos, no entanto, que a área de [clr 2]dados[clr 27][n]está mais de acordo com as necessidades[n]dos iniciantes.[n][w][e]
 
-[msg D157_006_miniEV_01_mes11 [Cassiere Ombra]]
+[msg D157_006_miniEV_01_mes11 [Caixa sombra]]
 [s]Além disso... este é o mapa[n]do andar exclusivo para membros.[n]Por favor, aceite-o.[n][w][e]
 
 [msg D157_006_miniEV_01_mes12 [Haru]]
 [s][bup 0 7 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 3178 65535 0]Então seria melhor começar[n]com o jogo de dados... certo?[n][w][e]
 
-[msg D157_006_miniEV_01_mes13 [Cassiere Ombra]]
+[msg D157_006_miniEV_01_mes13 [Caixa sombra]]
 [s]Ah, mais uma coisa. Neste balcão[n]as moedas do cassino podem ser[n][clr 2]trocadas por prêmios[clr 27].[n][w][e]
 [s]É um serviço que você pode[n]usar a qualquer momento.[n][w][e]
 
 [msg D157_006_miniEV_01_mes14 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Prêmios? O que pode ser ganho?[n][w][e]
 
-[msg D157_006_miniEV_01_mes15 [Cassiere Ombra]]
+[msg D157_006_miniEV_01_mes15 [Caixa sombra]]
 [s]O prémio mais cobiçado é o[n][clr 2]cartão de membro[clr 27] para aceder ao plano[n]high stakes.[n][w][e]
 [s]No entanto, o preço para[n]obtê-lo é [clr 2]50.000 moedas[clr 27].[n][w][e]
 
@@ -55,7 +55,7 @@
 [msg D157_006_miniEV_01_mes18 [Yusuke]]
 [s][bup 0 5 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Mas é um absurdo! [clr 2]50.000 moedas[clr 27]?!?[n][w][e]
 
-[msg D157_006_miniEV_01_mes19 [Cassiere Ombra]]
+[msg D157_006_miniEV_01_mes19 [Caixa sombra]]
 [s]Hehehe. Se necessário, oferecemos[n]empréstimos até o equivalente[n]do valor do cartão.[n][w][e]
 
 [msg D157_006_miniEV_01_mes20 [Ryuji]]

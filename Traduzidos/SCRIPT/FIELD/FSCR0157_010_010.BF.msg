@@ -4,7 +4,7 @@
 [msg D157_007_miniEV_06_mes01 [Akechi]]
 [s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]As moedas estão começando a acabar.[n]Precisamos parar de jogar[n]tão levianamente.[n][w][e]
 
-[msg mini_ev_mes_02_02_01_mes [Voce meccanica]]
+[msg mini_ev_mes_02_02_01_mes [Voz mecânica]]
 [s]Ganhos: [clr 2]20 moedas[clr 27] para[n]cerejas, [clr 2]120 moedas[clr 27] para BARs[n]e [clr 2]200 moedas[clr 27] para um 777.[n][w][e]
 [s]Taxa de inscrição: [clr 2]20 moedas[clr 27].[n]Quer jogar?[n][w][e]
 
@@ -18,19 +18,19 @@
 [msg mini_ev_mes_02_02_01_sel_3 [Morgana]]
 [s][bup 0 3 0 65535 0]......[n][w][e]
 
-[msg mini_ev_mes_02_02_02_mes [Voce meccanica]]
+[msg mini_ev_mes_02_02_02_mes [Voz mecânica]]
 [s]Cerejas! Você ganhou [clr 2]20 moedas[clr 27]![n][w][e]
 
-[msg mini_ev_mes_02_02_02_mes_2 [Voce meccanica]]
+[msg mini_ev_mes_02_02_02_mes_2 [Voz mecânica]]
 [s]CAFETERIA! Você ganhou [clr 2]120 moedas[clr 27]![n][w][e]
 
-[msg mini_ev_mes_02_02_02_mes_3 [Voce meccanica]]
+[msg mini_ev_mes_02_02_02_mes_3 [Voz mecânica]]
 [s]777! Você ganhou [clr 2]200 moedas[clr 27]![n][w][e]
 
-[msg mini_ev_mes_02_02_02_mes_4 [Voce meccanica]]
+[msg mini_ev_mes_02_02_02_mes_4 [Voz mecânica]]
 [s]Nenhuma combinação. Deseja[n]tentar novamente?[n][w][e]
 
-[msg mini_ev_mes_02_02_02_mes_5 [Voce meccanica]]
+[msg mini_ev_mes_02_02_02_mes_5 [Voz mecânica]]
 [s]Você quer tentar novamente?[n][w][e]
 
 [sel mini_ev_mes_02_02_02_sel top]
@@ -43,7 +43,7 @@
 [msg mini_ev_mes_02_02_02_sel_3 [Morgana]]
 [s][bup 0 3 0 65535 0]......[n][w][e]
 
-[msg mini_ev_mes_02_02_02_mes_6 [Voce meccanica]]
+[msg mini_ev_mes_02_02_02_mes_6 [Voz mecânica]]
 [s]Erro! Erro! Esta máquina[n]está sem moedas![n][w][e]
 
 [msg SLOT_S_FIRST]
@@ -59,17 +59,17 @@
 [msg SLOT_S_BERU]
 [s]ベルが成立! [clr 2]2000枚[clr 27]獲得。[n]現在残り所持コイン:[clr 2][var 0][clr 27][n][w][e]
 
-[msg SLOT_S_SUIKA [Voce meccanica]]
+[msg SLOT_S_SUIKA [Voz mecânica]]
 [s]スイカが成立! [clr 2]3000枚[clr 27]獲得。[n]現在残り所持コイン:[clr 2][var 0][clr 27][n][w][e]
 
 [sel SLOT_S_RE_SEL top]
 [s]もう1度やる[e]
 [s]やめる[e]
 
-[msg SLOT_S_TARINAI [Voce meccanica]]
+[msg SLOT_S_TARINAI [Voz mecânica]]
 [s]手持ちのコインが足りない。[n]現在残り所持コイン:[clr 2][var 0][clr 27][n][w][e]
 
-[msg SLOT_SMALL_EMPTY [Voce meccanica]]
+[msg SLOT_SMALL_EMPTY [Voz mecânica]]
 [s]エラー! エラー![n][w][e]
 
 [msg SLOT_S_FIRST_CHECK_GIM_N [Ryuji]]

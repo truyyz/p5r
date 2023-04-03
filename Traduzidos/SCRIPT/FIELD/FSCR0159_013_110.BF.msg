@@ -20,7 +20,7 @@
 [s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4017 65535 0]O varredor e seus homens[n]estão lá. Saindo daqui chegaremos[n]bem na frente deles.[n][w][e]
 [s][bup 0 5 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Uma vez lá, não teremos rota de fuga[n]… Você está pronto?[n][w][e]
 
-[msg D07_02_e412_045_mes01 [Uomo molto volgare]]
+[msg D07_02_e412_045_mes01 [Homem muito vulgar]]
 [s]...O que você quer? Você está procurando[n]problemas?[n][w][e]
 
 [sel D07_02_e412_045_selA top]
@@ -28,19 +28,19 @@
 [s]Ouça nos.[e]
 [s]Por que você diz isso?[e]
 
-[msg D07_02_e412_045_selA_0_m [Uomo molto volgare]]
+[msg D07_02_e412_045_selA_0_m [Homem muito vulgar]]
 [s]Eu disse que você pode ir, certo?[n]Você tem coragem, você.[n][w][e]
 
-[msg D07_02_e412_045_selA_1_m [Uomo molto volgare]]
+[msg D07_02_e412_045_selA_1_m [Homem muito vulgar]]
 [s]Silêncio! Este lugar é[n]fora dos limites, idiota![n][w][e]
 
-[msg D07_02_e412_045_selA_2_m [Uomo molto volgare]]
+[msg D07_02_e412_045_selA_2_m [Homem muito vulgar]]
 [s]Silêncio! Este lugar é[n]fora dos limites, idiota![n][w][e]
 
 [msg D07_02_e412_045_mes02 [Ann]]
 [s][bup 0 4 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6199 65535 0]Cara, esse cara pode ser um conhecimento, mas ele[n]é simplesmente assustador![n][w][e]
 
-[msg D07_02_e412_045_mes03 [Uomo molto volgare]]
+[msg D07_02_e412_045_mes03 [Homem muito vulgar]]
 [s]Estou muito ocupado para pensar em seus lenços.[n]Deixo vocês para meus homens.[n][w][e]
 
 [msg D07_02_e412_045_mes04 [Ryuji]]
@@ -58,6 +58,6 @@
 [msg D07_02_e412_047_mes01 [Ryuji]]
 [s][bup 0 2 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7044 65535 0]Espere! Ei! Ouça, porra![n][w][e]
 
-[msg D07_02_e412_047_mes02 [Uomo molto volgare]]
+[msg D07_02_e412_047_mes02 [Homem muito vulgar]]
 [s]Vocês merdinhas realmente gostam de bagunçar. Que[n]incômodo.[n][w][e]
 

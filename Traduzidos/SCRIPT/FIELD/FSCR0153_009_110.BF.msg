@@ -27,16 +27,16 @@
 [msg D02_04_e210_221_mes05 [Yusuke]]
 [s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Hum, aparentemente nós não[n]temos uma maneira de[n]desligar os lasers infravermelhos...[n][w][e]
 
-[msg D02_04_e210_222_mes01 [Ombra di Madarame]]
+[msg D02_04_e210_222_mes01 [Sombra de Madarame]]
 [s][bup 0 203 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 1 65535 49 0 0]O-O que tudo isso significa?!?[n][w][e]
 
-[msg D02_04_e210_222_mes02 [Ombra Guardia della security]]
+[msg D02_04_e210_222_mes02 [Guarda de segurança sombra]]
 [s]N-eu não sei! Parece que[n]o poder está fora ...[n][w][e]
 
-[msg D02_04_e210_222_mes03 [Ombra Guardia della security]]
+[msg D02_04_e210_222_mes03 [Guarda de segurança sombra]]
 [s]Os geradores de backup devem[n]resolver a situação rapidamente![n][w][e]
 
-[msg D02_04_e210_222_mes04 [Ombra di Madarame]]
+[msg D02_04_e210_222_mes04 [Sombra de Madarame]]
 [s][bup 0 203 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Que surpresa desagradável...[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Uhm... É ópera...?[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ei, escute![n][w][e]

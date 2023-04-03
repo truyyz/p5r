@@ -27,7 +27,7 @@
 [msg D04_03_e296_113_selA_0_m [Ryuji]]
 [s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7045 65535 0]Legal, ok. Vamos.[n][w][e]
 
-[msg D04_03_e296_113_selA_0_m_2 [Voce profonda]]
+[msg D04_03_e296_113_selA_0_m_2 [Voz grave]]
 [s]Você será atingido por uma maldição...[n][w][e]
 
 [msg D04_03_e296_113_selA_1_m [Ann]]
@@ -121,7 +121,7 @@
 [s]Pegue a gema[e]
 [s]Deixe a joia[e]
 
-[msg MSG_e296_118_AF02_002 [Voce profonda]]
+[msg MSG_e296_118_AF02_002 [Voz grave]]
 [s]Você será atingido por uma maldição...[n][w][e]
 
 [msg MSG_e296_118_AF02_003 [Yusuke]]

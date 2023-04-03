@@ -1,7 +1,7 @@
 [msg D01_02_e130_110_mes01 [Ryuji]]
 [s][bup 0 2 0 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]OK, aqui estamos nós de novo.[n]Agora vamos sair, rápido![n][w][e]
 
-[msg D01_02_e130_110_mes02 [Voce di soldato]]
+[msg D01_02_e130_110_mes02 [Voz de soldado]]
 [s]O posto de guarda perto do[n]ginásio não responde![n][w][e]
 [s]É provável que seja obra dos[n]intrusos! A todos os funcionários,[n]aumentem as medidas de segurança![n][w][e]
 

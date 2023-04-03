@@ -7,7 +7,7 @@
 [msg D05_02_e341_034_end_mes0_3 [Ryuji]]
 [s][bup 0 2 105 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7025 65535 0]Então aquele era... o gerente da[n]seção? Ugh, por que o[n]big boss não está vindo até nós...?[n][w][e]
 
-[msg D05_02_e341_034_end_mes0_4 [Altoparlanti]]
+[msg D05_02_e341_034_end_mes0_4 [Caixas de som]]
 [s]TRABALHADORES NÃO PRECISAM COMER![n]TRABALHADORES NÃO PRECISAM COMER![n][w][e]
 [s]QUERIDO, É HORA DA MUDANÇA DE[n]SHIFT! CONTINUE TRABALHANDO,[n]MESMO AO CUSTO DE SE DESTRUIR![n][w][e]
 

@@ -1,7 +1,7 @@
 [msg EVENT_temp_mes01]
 [s][clr 2]このイベントはCランクイベント化します。[clr 27][n][w][e]
 
-[msg e382_120_mes01 [Voce meccanica]]
+[msg e382_120_mes01 [Voz mecânica]]
 [s]Leitura do cartão de sócio...[n][w][e]
 [s]Número de moedas necessárias para[n]ativar a Ponte da Justiça:[n][clr 2]100.000 moedas[clr 27].[n][w][e]
 
@@ -29,13 +29,13 @@
 [msg e382_120_mes09 [Akechi]]
 [s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Antes de tudo, temos que[n]entender quais jogos existem[n]neste andar.[n][w][e]
 
-[msg e382_120_mes10 [Voce meccanica]]
+[msg e382_120_mes10 [Voz mecânica]]
 [s]Número de moedas necessárias para[n]ativar a Ponte da Justiça:[n][clr 2]100.000 moedas[clr 27].[n][w][e]
 
 [msg e382_120_mes11 [Ryuji]]
 [s][bup 0 2 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7044 65535 0]Espere e veja! Nós vamos ganhar[n]essa quantia e bater[n]na frente da sua ponte estúpida![n][w][e]
 
-[msg e382_400_mes01 [Voce meccanica]]
+[msg e382_400_mes01 [Voz mecânica]]
 [s]Leitura do cartão de sócio...[n][w][e]
 [s]Número de moedas necessárias para[n]ativar a Ponte da Justiça:[n][clr 2]100.000 moedas[clr 27].[n][w][e]
 
@@ -48,23 +48,23 @@
 [msg e382_400_mes04 [Akechi]]
 [s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Essa voz... É Sae-san![n][w][e]
 
-[msg e382_400_mes05 [Ombra di Sae]]
+[msg e382_400_mes05 [Sombra de Sae]]
 [s]Não pensei que você chegaria tão longe. Acho que[n]devo elogios a você.[n][w][e]
 
 [msg e382_400_mes06 [Ann]]
 [s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Você disse que se chegássemos à Gerência, você[n]reconheceria nossas habilidades Bem, aqui[n]estamos nós![n][w][e]
 
-[msg e382_400_mes07 [Ombra di Sae]]
+[msg e382_400_mes07 [Sombra de Sae]]
 [s]Infelizmente, isso é impossível.[n]Você nunca alcançará[n]o Diretório.[n][w][e]
 
 [msg e382_400_mes08 [Makoto]]
 [s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]O que...[n][w][e]
 
-[msg e382_400_mes09 [Ombra di Sae]]
+[msg e382_400_mes09 [Sombra de Sae]]
 [s]Eu te disse: de acordo com as regras,[n]sou o vencedor![n][w][e]
 [s]De agora em diante, você precisará de [clr 2]1.000.000[clr 27] moedas para ativar a ponte![n][w][e]
 
-[msg e382_400_mes10 [Voce meccanica]]
+[msg e382_400_mes10 [Voz mecânica]]
 [s]Lendo o cartão de membro.[n]Número de moedas necessárias para[n]ativar a Ponte da Justiça:[n][w][e]
 [s][clr 2]1.000.000 [clr 27].[n][w][e]
 
@@ -74,7 +74,7 @@
 [msg e382_400_mes12 [Yusuke]]
 [s]100万だと!? 不可能だ...![n][w][e]
 
-[msg e382_400_mes13 [Ombra di Sae]]
+[msg e382_400_mes13 [Sombra de Sae]]
 [s]アハハハハハ! そう不可能よ![n]あなた達には絶対に勝たせない![n][w][e]
 [s]勝つのはこの私よっ![n][w][e]
 
@@ -94,7 +94,7 @@
 [s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]...そろそろかな。[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]ジョーカー、その機械で[n]カードを認証してみてくれないか。[n][w][e]
 
-[msg e382_400_mes19 [Voce meccanica]]
+[msg e382_400_mes19 [Voz mecânica]]
 [s]カードヲ認証シマシタ。[n]現在ノ『デポジット』ハ[clr 2][var 0]枚[clr 27]デス。[n][w][e]
 
 [msg e382_400_mes20 [Ann]]
@@ -134,25 +134,25 @@
 [msg e382_400_mes29 [Yusuke]]
 [s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]しかし『45万枚』だぞ...貯まるのか!?[n][w][e]
 
-[msg e382_400_mes30 [Ombra di Sae]]
+[msg e382_400_mes30 [Sombra de Sae]]
 [s]フ、フフフ...バカが![n]驚かされたけど大した事ないじゃない![n][w][e]
 [s]残りは『45万枚』、そしてお前たちには、[n]それを稼ぐゲームすらない![n][w][e]
 [s]例え貯めて来た所で、今度も橋の起動に必要な[n]枚数を釣り上げてやるだけよ![n][w][e]
 
-[msg e382_400_mes31 [Ombra di Sae]]
+[msg e382_400_mes31 [Sombra de Sae]]
 [s]今この場に『100万枚』のコインがない限り、[n]お前たちの負けは決まってるのよ![n][w][e]
 
 [msg e382_400_mes32 [Akechi]]
 [s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]...現実ならここは法廷、嘘は偽証罪に問われる。[n]冴さん、今の言葉に偽りはありませんね?[n][w][e]
 
-[msg e382_400_mes33 [Ombra di Sae]]
+[msg e382_400_mes33 [Sombra de Sae]]
 [s]何...?[n][w][e]
 
 [msg e382_400_mes34 [Akechi]]
 [s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]ジョーカー、このカードを機械に。[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]ルールとして『カードを合算してはならない』、[n]とは言われていないからね。[n][w][e]
 
-[msg e382_400_mes35 [Voce meccanica]]
+[msg e382_400_mes35 [Voz mecânica]]
 [s]カードヲ認証シマシタ。[n]デポジット、『45万1000枚』ヲ追加。[n][w][e]
 [s]現在ノ『デポジット』ハ[n][clr 2][var 0]枚[clr 27]デス。[n][w][e]
 
@@ -168,7 +168,7 @@
 [msg e382_400_mes39 [Akechi]]
 [s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]そう、今僕の使ったカードは『タナカタロウ』さ。[n][w][e]
 
-[msg e382_400_mes40 [Ombra di Sae]]
+[msg e382_400_mes40 [Sombra de Sae]]
 [s]バカな...貴様。[n]ダメだ! そもそも偽名のカードなんて...![n][w][e]
 
 [msg e382_400_mes41 [Akechi]]
@@ -181,7 +181,7 @@
 [s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]僕を偽名として訴追するのなら、[n]あなたには挙証責任がある。[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]僕が『タナカタロウ』じゃないというなら、[n]...どうぞ、証拠を持って来て下さい。[n][w][e]
 
-[msg e382_400_mes44 [Ombra di Sae]]
+[msg e382_400_mes44 [Sombra de Sae]]
 [s]うぐっ...![n][w][e]
 
 [msg e382_400_mes45 [Akechi]]
@@ -216,7 +216,7 @@
 [msg e382_400_mes49 [Akechi]]
 [s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]はは、少しは怪盗団に貢献できたかな。[n]さあ橋をかけよう、オタカラは目の前だよ。[n][w][e]
 
-[msg e382_400_01_mes01 [Voce meccanica]]
+[msg e382_400_01_mes01 [Voz mecânica]]
 [s]Autorização do cartão concluída.[n]Total é [clr 2][var 0][clr 27] moedas.[n][w][e]
 [s]Deseja ativar a[n]Ponte da Justiça?[n][w][e]
 

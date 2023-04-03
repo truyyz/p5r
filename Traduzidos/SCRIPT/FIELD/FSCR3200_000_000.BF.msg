@@ -64,19 +64,19 @@
 [msg CAFE_TV_CHANGE_05ch]
 [s]Sintonizei o canal de televisão[n]Tokai.[n][w][e]
 
-[msg TV_SHOPPING_START_00 [Presentatore]]
+[msg TV_SHOPPING_START_00 [Locutor]]
 [s]Olá pessoas! Hora de fazer[n]algumas compras![n][w][e]
 [s]Aqui está o que temos[n]reservado para você hoje![n][w][e]
 
-[msg TV_SHOPPING_START_01 [Presentatore]]
+[msg TV_SHOPPING_START_01 [Locutor]]
 [s]Este é um produto especial![n]Estará disponível apenas por um[n]tempo limitado![n][w][e]
 [s]E pode ser seu...[n]Pelo preço incrível de[n][var 0] ienes![n][w][e]
 [s]Estamos oferecendo a você por apenas[n][var 0] ienes, porque só poderá ser comprado[n]por um curto período de tempo![n][w][e]
 
-[msg TV_SHOPPING_START_02 [Presentatrice]]
+[msg TV_SHOPPING_START_02 [Apresentador]]
 [s]Oh, já [var 1] compradores[n]ligaram para comprá-lo![n][w][e]
 
-[msg TV_SHOPPING_START_03 [Presentatore]]
+[msg TV_SHOPPING_START_03 [Locutor]]
 [s]Assim que esgotar, puf! Não[n]perca esta oferta![n][w][e]
 
 [msg MSG_TV_SHOPPING_00 [Morgana]]
@@ -89,31 +89,31 @@
 [s]OK.[e]
 [s]Eu não preciso.[e]
 
-[msg TV_SHOPPING_BUY_00 [Presentatrice]]
+[msg TV_SHOPPING_BUY_00 [Apresentador]]
 [s]Ah, outro comprador entrou em contato conosco![n]Muito obrigado![n][w][e]
 
-[msg TV_SHOPPING_BUY_01 [Presentatore]]
+[msg TV_SHOPPING_BUY_01 [Locutor]]
 [s]Isso é tudo por hoje! Até a próxima[n]consulta com outro[n]produto fantástico![n][w][e]
 
-[msg TV_SHOPPING_BUY_02 [Presentatrice]]
+[msg TV_SHOPPING_BUY_02 [Apresentador]]
 [s]Até logo então![n][w][e]
 
 [msg MND_TV_SHOPPING_01]
 [s]Eu paguei [var 0] ienes. Agora só tenho que[n]esperar chegar.[n][w][e]
 
-[msg TV_SHOPPING_BUY_03 [Presentatore]]
+[msg TV_SHOPPING_BUY_03 [Locutor]]
 [s]Eeeeeee por hoje é só![n]Muito obrigado por[n]suas ligações![n][w][e]
 
-[msg TV_SHOPPING_BUY_04 [Presentatrice]]
+[msg TV_SHOPPING_BUY_04 [Apresentador]]
 [s][n]este produto estará disponível novamente?[n][w][e]
 
-[msg TV_SHOPPING_BUY_05 [Presentatore]]
+[msg TV_SHOPPING_BUY_05 [Locutor]]
 [s]Enquanto as pessoas quiserem,[n]vamos fazer de tudo para[n]realizar esse sonho![n][w][e]
 
-[msg TV_SHOPPING_BUY_06 [Presentatrice]]
+[msg TV_SHOPPING_BUY_06 [Apresentador]]
 [s]Pois bem, no próximo[n]encontro com outro[n]produto fabuloso![n][w][e]
 
-[msg TV_SHOPPING_BUY_07 [Presentatore]]
+[msg TV_SHOPPING_BUY_07 [Locutor]]
 [s]Até nos encontrarmos novamente![n][w][e]
 
 [msg MND_ALLREADY_BUY_00]
@@ -140,132 +140,132 @@
 [msg MND_NOT_MONEY]
 [s]Não tenho dinheiro suficiente...[n]Talvez eu devesse encontrar[n]um emprego de meio período.[n][w][e]
 
-[msg TV_SHOPPING_ITEM_01_00 [Presentatore]]
+[msg TV_SHOPPING_ITEM_01_00 [Locutor]]
 [s]Esta é uma vara de pesca de fibra de carbono! Os[n]profissionais adoram![n][w][e]
 
-[msg TV_SHOPPING_ITEM_01_01 [Presentatrice]]
+[msg TV_SHOPPING_ITEM_01_01 [Apresentador]]
 [s]O design é muito legal![n][w][e]
 
-[msg TV_SHOPPING_ITEM_02_00 [Presentatore]]
+[msg TV_SHOPPING_ITEM_02_00 [Locutor]]
 [s]Este é um lindo sofá[n]feito à mão com[n]couro de primeira qualidade![n][w][e]
 
-[msg TV_SHOPPING_ITEM_02_01 [Presentatrice]]
+[msg TV_SHOPPING_ITEM_02_01 [Apresentador]]
 [s]Oooh, isso é tão confortável![n][w][e]
 
-[msg TV_SHOPPING_ITEM_03_00 [Presentatore]]
+[msg TV_SHOPPING_ITEM_03_00 [Locutor]]
 [s]Este é um inseticida que[n]usa uma nova tecnologia[n]para afastar insetos![n][w][e]
 
-[msg TV_SHOPPING_ITEM_03_01 [Presentatrice]]
+[msg TV_SHOPPING_ITEM_03_01 [Apresentador]]
 [s]Parece um produto realmente promissor![n][w][e]
 
-[msg TV_SHOPPING_ITEM_04_00 [Presentatore]]
+[msg TV_SHOPPING_ITEM_04_00 [Locutor]]
 [s]As cores incríveis desta[n]capa de sofá foram recriadas[n]por uma máquina![n][w][e]
 
-[msg TV_SHOPPING_ITEM_04_01 [Presentatrice]]
+[msg TV_SHOPPING_ITEM_04_01 [Apresentador]]
 [s]Impossível resistir a cores tão vivas![n][w][e]
 
-[msg TV_SHOPPING_ITEM_05_00 [Presentatore]]
+[msg TV_SHOPPING_ITEM_05_00 [Locutor]]
 [s]Temos uma oferta especial[n]nesta capa de couro para sofá![n]Também é resistente à água![n][w][e]
 
-[msg TV_SHOPPING_ITEM_05_01 [Presentatrice]]
+[msg TV_SHOPPING_ITEM_05_01 [Apresentador]]
 [s]Que maravilha![n]A qualidade deste produto[n]é incrível![n][w][e]
 
-[msg TV_SHOPPING_ITEM_06_00 [Presentatore]]
+[msg TV_SHOPPING_ITEM_06_00 [Locutor]]
 [s]As flores coloridas nesta capa de sofá foram[n]bordadas à mão por um mestre artesão![n][w][e]
 
-[msg TV_SHOPPING_ITEM_06_01 [Presentatrice]]
+[msg TV_SHOPPING_ITEM_06_01 [Apresentador]]
 [s]O estilo floral é lindo demais![n][w][e]
 
-[msg TV_SHOPPING_ITEM_07_00 [Presentatore]]
+[msg TV_SHOPPING_ITEM_07_00 [Locutor]]
 [s]Quem não conhece Neo Featherman?[n]Esta capa de sofá vai enlouquecer[n]as crianças![n][w][e]
 
-[msg TV_SHOPPING_ITEM_07_01 [Presentatrice]]
+[msg TV_SHOPPING_ITEM_07_01 [Apresentador]]
 [s]Sim, seus filhos vão adorar![n]Quem pode resistir a Featherman?[n][w][e]
 
-[msg TV_SHOPPING_ITEM_08_00 [Presentatore]]
+[msg TV_SHOPPING_ITEM_08_00 [Locutor]]
 [s]Esta couraça foi feita[n]de acordo com técnicas precisas[n]históricas. É até usável![n][w][e]
 
-[msg TV_SHOPPING_ITEM_08_01 [Presentatrice]]
+[msg TV_SHOPPING_ITEM_08_01 [Apresentador]]
 [s]O design é muito legal![n][w][e]
 
-[msg TV_SHOPPING_ITEM_09_00 [Presentatore]]
+[msg TV_SHOPPING_ITEM_09_00 [Locutor]]
 [s]Afaste os assediadores com este[n]Nuke Stick! É portátil e[n]você pode colocá-lo na bolsa![n][w][e]
 
-[msg TV_SHOPPING_ITEM_09_01 [Presentatrice]]
+[msg TV_SHOPPING_ITEM_09_01 [Apresentador]]
 [s]Quase compro também![n][w][e]
 
-[msg TV_SHOPPING_ITEM_10_00 [Presentatore]]
+[msg TV_SHOPPING_ITEM_10_00 [Locutor]]
 [s]Importamos este totem[n]feito à mão de tribos indígenas[n]da América do Sul![n][w][e]
 
-[msg TV_SHOPPING_ITEM_10_01 [Presentatrice]]
+[msg TV_SHOPPING_ITEM_10_01 [Apresentador]]
 [s]U-Uau. Só eu sinto isso?[n]Você não sente a[n]aura poderosa que o envolve?[n][w][e]
 
-[msg TV_SHOPPING_ITEM_11_00 [Presentatore]]
+[msg TV_SHOPPING_ITEM_11_00 [Locutor]]
 [s]O design místico e as[n]decorações rúnicas deste vestido[n]encantarão qualquer um![n][w][e]
 
-[msg TV_SHOPPING_ITEM_11_01 [Presentatrice]]
+[msg TV_SHOPPING_ITEM_11_01 [Apresentador]]
 [s]Oooh, isso parece um lindo vestido de elfo![n][w][e]
 
-[msg TV_SHOPPING_ITEM_12_00 [Presentatore]]
+[msg TV_SHOPPING_ITEM_12_00 [Locutor]]
 [s]Um mestre ferreiro dedicou[n]sua vida a criar esta Soul[n]Armor! Vista-o e domine![n][w][e]
 
-[msg TV_SHOPPING_ITEM_12_01 [Presentatrice]]
+[msg TV_SHOPPING_ITEM_12_01 [Apresentador]]
 [s]Sim, esta armadura exala[n]toda a paixão investida por[n]aquele ferreiro em sua criação![n][w][e]
 
 [msg HOLIDAY_TV_MASTER_000_00 [Sojiro]]
 [s][bup 0 103 0 0 0]Ei. O clube ainda está aberto.[n]Não mude de canal.[n][w][e]
 
-[msg HOLIDAY_TV_0417_000_00 [Telecronista]]
+[msg HOLIDAY_TV_0417_000_00 [Apresentador]]
 [s]Preto, peão em 6-4...[n][w][e]
 
-[msg HOLIDAY_TV_0417_001_00 [Telecronista]]
+[msg HOLIDAY_TV_0417_001_00 [Apresentador]]
 [s]Foi um jogo de mão única e ela não para de atacar.[n][w][e]
 
-[msg HOLIDAY_TV_0417_002_00 [Aiuto cronista]]
+[msg HOLIDAY_TV_0417_002_00 [Ajuda do repórter]]
 [s]Os jovens jogadores continuam melhorando. As[n]jogadoras de shogi também estão em ascensão.[n][w][e]
 
-[msg HOLIDAY_TV_0424_000_00 [Telecronista]]
+[msg HOLIDAY_TV_0424_000_00 [Apresentador]]
 [s]De qualquer forma, Katou-san, há algum[n]jogador que tenha chamado[n]sua atenção ultimamente?[n][w][e]
 
-[msg HOLIDAY_TV_0424_001_00 [Aiuto cronista]]
+[msg HOLIDAY_TV_0424_001_00 [Ajuda do repórter]]
 [s]Ah, estou de olho em[n]Togo-san! Ela é uma excelente tocadora de[n]shogi...[n][w][e]
 
-[msg HOLIDAY_TV_0424_002_00 [Telecronista]]
+[msg HOLIDAY_TV_0424_002_00 [Apresentador]]
 [s]Ah, sim, eles a chamam de "A Vênus de Shogi",[n]certo?[n][w][e]
 
-[msg HOLIDAY_TV_0429_000_00 [Presentatrice]]
+[msg HOLIDAY_TV_0429_000_00 [Apresentador]]
 [s]O fim de semana prolongado começou[n]e o céu está claro.[n][w][e]
 [s]As pessoas lotam os parques[n]e muitas famílias[n]trazem seus filhos para brincar.[n][w][e]
 
-[msg HOLIDAY_TV_0429_001_00 [Opinionista]]
+[msg HOLIDAY_TV_0429_001_00 [Comentarista]]
 [s]Temos um repórter ao vivo[n]do Parque Inokashira.[n]Tanabe-san, você está nos ouvindo?[n][w][e]
 
-[msg HOLIDAY_TV_0501_000_00 [Presentatore]]
+[msg HOLIDAY_TV_0501_000_00 [Locutor]]
 [s]A renúncia do ministro[n]chocou o governo. O que[n]acontecerá com os cidadãos?[n][w][e]
 [s]Hoje, faremos um debate aprofundado[n]sobre uma situação política[n]cheia de incertezas.[n][w][e]
 [s]No estúdio conosco está o[n]Representante Matsushita, do partido[n]Unidos pelo futuro...[n][w][e]
 
-[msg HOLIDAY_TV_0508_000_00 [Presentatore]]
+[msg HOLIDAY_TV_0508_000_00 [Locutor]]
 [s]Um professor e ex-campeão olímpico[n]desencadeou um escândalo[n]que chocou o mundo inteiro.[n][w][e]
 [s]O que está acontecendo com nosso sistema educacional? Ouviremos[n]algumas opiniões sobre isso…[n][w][e]
 [s]Agora apresento a vocês o convidado de hoje,[n]o crítico educacional...[n][w][e]
 
-[msg HOLIDAY_TV_0522_000_00 [Commissario di gara]]
+[msg HOLIDAY_TV_0522_000_00 [Comissário de corrida]]
 [s]Branco, peão em 7-2...[n][w][e]
 
-[msg HOLIDAY_TV_0522_001_00 [Telecronista]]
+[msg HOLIDAY_TV_0522_001_00 [Apresentador]]
 [s]Oh! Esse movimento decidirá o jogo? Que[n]esplêndida estratégia. Verdadeiramente magistral.[n][w][e]
 
-[msg HOLIDAY_TV_0522_002_00 [Aiuto cronista]]
+[msg HOLIDAY_TV_0522_002_00 [Ajuda do repórter]]
 [s]Eles são habilidosos no uso de[n]peças capturadas e mostraram[n]algumas jogadas interessantes.[n][w][e]
 
-[msg HOLIDAY_TV_0529_000_00 [Commissario di gara]]
+[msg HOLIDAY_TV_0529_000_00 [Comissário de corrida]]
 [s]Branco, peão em 5-6...[n]As pretas o capturam com prata.[n][w][e]
 
-[msg HOLIDAY_TV_0529_001_00 [Telecronista]]
+[msg HOLIDAY_TV_0529_001_00 [Apresentador]]
 [s]Ainda é cedo, mas[n]eles já começaram[n]pegar os cacos![n][w][e]
 
-[msg HOLIDAY_TV_0529_002_00 [Aiuto cronista]]
+[msg HOLIDAY_TV_0529_002_00 [Ajuda do repórter]]
 [s]É fantástico. As caras e os movimentos[n]transmitem todo o seu[n]espírito de luta.[n][w][e]
 
 [msg HOLIDAY_TV_0612_000_00 [Locutor]]
@@ -273,29 +273,29 @@
 [s]Como a escola e os pais devem educar os filhos?[n][w][e]
 [s]Com alguns especialistas, hoje[n]iremos realizar um debate…[n][w][e]
 
-[msg HOLIDAY_TV_0626_000_00 [Telecronista]]
+[msg HOLIDAY_TV_0626_000_00 [Apresentador]]
 [s]O tempo é curto para ambos...[n]Cada movimento deve ser feito[n]em menos de trinta segundos.[n][w][e]
 
-[msg HOLIDAY_TV_0626_001_00 [Aiuto cronista]]
+[msg HOLIDAY_TV_0626_001_00 [Ajuda do repórter]]
 [s]Qual será o próximo passo?[n]Oh, ele trouxe o Rei[n]para o território inimigo?!?[n][w][e]
 
-[msg HOLIDAY_TV_0626_002_00 [Telecronista]]
+[msg HOLIDAY_TV_0626_002_00 [Apresentador]]
 [s]Estamos na fase final do[n]jogo, mas nenhum jogador[n]dá um passo para trás.[n][w][e]
 
-[msg HOLIDAY_TV_0703_000_00 [Telecronista]]
+[msg HOLIDAY_TV_0703_000_00 [Apresentador]]
 [s]Agora a jogada de Takahashi-meijin...[n]Uau, Prata em 5-2![n][w][e]
 
-[msg HOLIDAY_TV_0703_001_00 [Aiuto cronista]]
+[msg HOLIDAY_TV_0703_001_00 [Ajuda do repórter]]
 [s]Eles terminaram...![n]É incrível...[n][w][e]
 
-[msg HOLIDAY_TV_0703_002_00 [Telecronista]]
+[msg HOLIDAY_TV_0703_002_00 [Apresentador]]
 [s]Oh, isso... foi uma jogada notável.[n]Estou maravilhado...[n][w][e]
 
-[msg HOLIDAY_TV_0717_000_00 [Telecronista]]
+[msg HOLIDAY_TV_0717_000_00 [Apresentador]]
 [s]O recém-chegado enfrenta[n]Takahashi-meijin.[n][w][e]
 [s]Estamos na fase avançada do jogo. Que movimento o[n]novato fará? Oh! E o que?!?[n][w][e]
 
-[msg HOLIDAY_TV_0717_001_00 [Aiuto cronista]]
+[msg HOLIDAY_TV_0717_001_00 [Ajuda do repórter]]
 [s]Um nifu...! É uma derrota[n]numa questão técnica...[n]Ah, ele deve estar arrependido...[n][w][e]
 
 [msg HOLIDAY_TV_0724_000_00 [Locutor]]
@@ -303,228 +303,228 @@
 [s]As contramedidas do governo[n]são adequadas? O que deve[n]deve ser feito no momento?[n][w][e]
 [s]O político do Partido Liberal da Co-Prosperidade[n]está conosco...[n][w][e]
 
-[msg HOLIDAY_TV_0729_000_00 [Reporter]]
+[msg HOLIDAY_TV_0729_000_00 [Repórter]]
 [s]O grupo de hackers chamado Medjed[n]divulgou um comunicado.[n][w][e]
 [s]Fala-se de um[n]"confisco de bens".[n]Eles estão interessados em dinheiro?[n][w][e]
 
-[msg HOLIDAY_TV_0729_001_00 [Opinionista]]
+[msg HOLIDAY_TV_0729_001_00 [Comentarista]]
 [s]Para dinheiro ou informações privadas. Eles[n]também podem se referir a objetos de jogos[n]online.[n][w][e]
 
-[msg HOLIDAY_TV_0729_002_00 [Reporter]]
+[msg HOLIDAY_TV_0729_002_00 [Repórter]]
 [s]Itens de jogos online...?[n]Vivemos em tempos estranhos.[n][w][e]
 
-[msg HOLIDAY_TV_0801_000_00 [Reporter]]
+[msg HOLIDAY_TV_0801_000_00 [Repórter]]
 [s]O grupo de hackers chamado Medjed[n]divulgou os detalhes de[n]seu ataque.[n][w][e]
 
-[msg HOLIDAY_TV_0801_001_00 [Opinionista]]
+[msg HOLIDAY_TV_0801_001_00 [Comentarista]]
 [s]Se eles atacarem grandes empresas,[n]todos nós sofreremos.[n][w][e]
 
-[msg HOLIDAY_TV_0801_002_00 [Reporter]]
+[msg HOLIDAY_TV_0801_002_00 [Repórter]]
 [s]Só espero que os Phantom Thieves[n]e a polícia façam o que puderem[n]para responder à ameaça.[n][w][e]
 
-[msg HOLIDAY_TV_0802_000_00 [Presentatrice]]
+[msg HOLIDAY_TV_0802_000_00 [Apresentador]]
 [s]Em vez de aproveitar as férias de verão,[n]essas crianças ficaram[n]presas na escola de verão.[n][w][e]
 
-[msg HOLIDAY_TV_0802_001_00 [Opinionista]]
+[msg HOLIDAY_TV_0802_001_00 [Comentarista]]
 [s]Deve ser difícil... Nunca estudei quando era[n]jovem.[n][w][e]
 
-[msg HOLIDAY_TV_0803_000_00 [Reporter]]
+[msg HOLIDAY_TV_0803_000_00 [Repórter]]
 [s]O grupo Medjed declarou guerra ao Japão. Como[n]isso afetará grandes empresas?[n][w][e]
 
-[msg HOLIDAY_TV_0803_001_00 [Opinionista]]
+[msg HOLIDAY_TV_0803_001_00 [Comentarista]]
 [s]Bem, julgando por sua[n]ideologia e métodos,[n]eles provavelmente irão optar por um…[n][w][e]
 
-[msg HOLIDAY_TV_0804_000_00 [Telecronaca]]
+[msg HOLIDAY_TV_0804_000_00 [Comentário]]
 [s]A sirene tocou![n]O Torneio Interescolar de Beisebol[n]começou oficialmente![n][w][e]
 [s]Neste primeiro jogo temos[n]uma equipa de apenas 13[n]elementos, de uma escola pública...[n][w][e]
 
-[msg HOLIDAY_TV_0805_000_00 [Telecronaca]]
+[msg HOLIDAY_TV_0805_000_00 [Comentário]]
 [s]Aí vem o lançamento...[n]Oh! Que queda linda![n]Realmente notável![n][w][e]
 [s]Após avançar[n]os corredores, ele retorna ao banco[n]com um sorriso satisfeito...[n][w][e]
 
-[msg HOLIDAY_TV_0806_000_00 [Telecronaca]]
+[msg HOLIDAY_TV_0806_000_00 [Comentário]]
 [s]O time está em apuros.[n]Ah, o capitão grita alguma coisa[n]do banco de reservas...[n][w][e]
 [s]Ele sofreu uma lesão grave pouco antes do[n]torneio...[n][w][e]
 [s]Sim... ele também luta[n]sua própria batalha...[n][w][e]
 
-[msg HOLIDAY_TV_0807_000_00 [Telecronaca]]
+[msg HOLIDAY_TV_0807_000_00 [Comentário]]
 [s]E o último jogador... está fora![n][w][e]
 [s]Eles acabaram de ganhar[n]seu primeiro jogo desde[n]sua fundação há 80 anos![n][w][e]
 [s]E agora, o hino da[n]escola. É um[n]momento inesquecível...[n][w][e]
 
-[msg HOLIDAY_TV_0808_000_00 [Telecronaca]]
+[msg HOLIDAY_TV_0808_000_00 [Comentário]]
 [s]E está eliminado! O arremessador[n]está em sua 16ª eliminação do dia![n][w][e]
 [s]Com seus arremessos, ele evitou que[n]oponentes fossem além da primeira base,[n]e também é um rebatedor decente...[n][w][e]
 [s]Claro que estou me referindo a[n]Hirakawa! É um excelente jogador,[n]com grande potencial![n][w][e]
 
-[msg HOLIDAY_TV_0809_000_00 [Telecronaca]]
+[msg HOLIDAY_TV_0809_000_00 [Comentário]]
 [s]Depois de mais uma rebatida, perdi 23 pontos![n]Eles são forçados a pedir um tempo limite...[n][w][e]
 [s]Os jogadores caminham até o monte... e[n]sorriem...?!?[n][w][e]
 [s]Sim assim mesmo. Apesar[n]da enorme lacuna, o jogo[n]ainda não acabou...[n][w][e]
 
-[msg HOLIDAY_TV_0810_000_00 [Telecronaca]]
+[msg HOLIDAY_TV_0810_000_00 [Comentário]]
 [s]O capitão entra na[n]área do batedor... Aqui está o[n]arremesso... e o impacto![n][w][e]
 [s]A bola está voando...[n]aqui estamos nós! A partida acabou...![n][w][e]
 [s]...Eles têm que entrar na fila,[n]mas o capitão...[n]não consegue se levantar...[n][w][e]
 
-[msg HOLIDAY_TV_0811_000_00 [Telecronaca]]
+[msg HOLIDAY_TV_0811_000_00 [Comentário]]
 [s]Prestes a cair na frente do[n]campo central... Não,[n]ele pegou! Que jogada![n][w][e]
 [s]Ele não é muito alto, mas fez uma jogada incrível.[n][w][e]
 
-[msg HOLIDAY_TV_0812_000_00 [Telecronaca]]
+[msg HOLIDAY_TV_0812_000_00 [Comentário]]
 [s]Ele bateu nela! O batedor cerra seu[n]punho triunfante! Sua equipe[n]ganhou com um grande retorno![n][w][e]
 [s]Todo o Alps Stand aplaude em êxtase! Seu falecido pai[n]teria pulado de alegria…[n][w][e]
 
-[msg HOLIDAY_TV_0813_000_00 [Telecronaca]]
+[msg HOLIDAY_TV_0813_000_00 [Comentário]]
 [s]É o turno do ás[n]Hirakawa, número quatro.[n][w][e]
 [s]O lançamento começa...[n]e o atinge! A bola[n]voa alto no céu...[n][w][e]
 [s]O torneio será dominado por Hirakawa?!?[n][w][e]
 
-[msg HOLIDAY_TV_0814_000_00 [Telecronaca]]
+[msg HOLIDAY_TV_0814_000_00 [Comentário]]
 [s]Eles estão encurralados com[n]dois eliminados. Estamos no fim?[n][w][e]
 [s]O arremessador lança a bola...[n]que é rebatida! A bola...[n]passa pelos zagueiros![n][w][e]
 [s]Graças a esta peça, o verão deles ainda não[n]acabou![n][w][e]
 
-[msg HOLIDAY_TV_0815_000_00 [Telecronaca]]
+[msg HOLIDAY_TV_0815_000_00 [Comentário]]
 [s]O arremesso começa... e lá está o golpe![n]Mas é um rebote fraco[n]em direção à terceira base...[n][w][e]
 [s]É o fim do par... O quê?!?[n][w][e]
 [s]Ele a rejeitou! O homem da terceira base[n]bloqueou a bola![n]O corredor está no home plate![n][w][e]
 [s]Até agora a defesa deles foi[n]impecável... Ainda não[n]acredito...[n][w][e]
 
-[msg HOLIDAY_TV_0816_000_00 [Telecronaca]]
+[msg HOLIDAY_TV_0816_000_00 [Comentário]]
 [s]É uma situação difícil, com as bases cheias. Será[n]que o ás do segundo ano virará o jogo?[n][w][e]
 [s]Aaah, é nojento! Eles foram derrotados[n]no final da nona entrada...![n][w][e]
 [s]O arremessador começa a chorar, enquanto[n]os jogadores do terceiro ano cercam[n]seu parceiro para carregá-lo em triunfo...[n][w][e]
 
-[msg HOLIDAY_TV_0817_000_00 [Telecronaca]]
+[msg HOLIDAY_TV_0817_000_00 [Comentário]]
 [s]Hirakawa, governante do torneio, está no bastão,[n]mas o arremessador não o deixa balançar o bastão![n][w][e]
 [s]Esta é a quarta bola intencional[n]recebida em sucessão. O público[n]rumores nas arquibancadas...[n][w][e]
 
-[msg HOLIDAY_TV_0818_000_00 [Telecronaca]]
+[msg HOLIDAY_TV_0818_000_00 [Comentário]]
 [s]Hirakawa lançou solo durante todo o jogo. Ele fez[n]mais de 500 arremessos no torneio...[n][w][e]
 [s]Alguns fãs temem que ele esteja jogando demais.[n][w][e]
 [s]Mas ele lançou hoje também![n]E agora eles avançam para as[n]semifinais![n][w][e]
 
-[msg HOLIDAY_TV_0819_000_00 [Telecronaca]]
+[msg HOLIDAY_TV_0819_000_00 [Comentário]]
 [s]Hirakawa, com uma grande corda,[n]arremessa... e é um strike![n]O rebatedor está fora! A partida acabou![n][w][e]
 [s]Ainda hoje ele arremessou até[n]o último... O número de arremessos[n]no torneio subiu para 613.[n][w][e]
 [s]Eu me pergunto se ele também lançará[n]na final de amanhã...[n][w][e]
 
-[msg HOLIDAY_TV_0820_000_00 [Telecronaca]]
+[msg HOLIDAY_TV_0820_000_00 [Comentário]]
 [s]Vemos Hirakawa no monte[n]pitch para o último jogo ... mas um[n]hit mudaria as coisas.[n][w][e]
 [s]Agora, com uma grande corda,[n]ele rola... e é atingido! Seu[n]time perde para uma defesa estourada![n][w][e]
 [s]Ele colocou sua alma em[n]772 moldes, mas o resultado[n]é realmente brutal...[n][w][e]
 [s]No entanto... de todo o estádio[n]e do time adversário...[n]aí vem uma grande salva de palmas...[n][w][e]
 
-[msg HOLIDAY_TV_0830_000_00 [Reporter]]
+[msg HOLIDAY_TV_0830_000_00 [Repórter]]
 [s]Depois que os Phantom Thieves[n]bateram os hackers em seu próprio jogo,[n]a internet foi inundada de elogios.[n][w][e]
 
-[msg HOLIDAY_TV_0830_001_00 [Opinionista]]
+[msg HOLIDAY_TV_0830_001_00 [Comentarista]]
 [s]Afinal, eles enfrentaram Medjed.[n]É realmente incrível como[n]eles superaram as adversidades…[n][w][e]
 
-[msg HOLIDAY_TV_0904_000_00 [Aiuto cronista]]
+[msg HOLIDAY_TV_0904_000_00 [Ajuda do repórter]]
 [s]Que movimento fantástico. O[n]desafio ainda não acabou.[n][w][e]
 
-[msg HOLIDAY_TV_0904_001_00 [Telecronista]]
+[msg HOLIDAY_TV_0904_001_00 [Apresentador]]
 [s]Peço desculpas aos espectadores pelo[n]inconveniente durante uma partida tão intensa,[n]mas...[n][w][e]
 [s]... o tempo de transmissão está se esgotando,[n]então resumiremos os próximos 30 movimentos.[n][w][e]
 
-[msg HOLIDAY_TV_0919_000_00 [Reporter]]
+[msg HOLIDAY_TV_0919_000_00 [Repórter]]
 [s]Rumores se espalharam sobre[n]práticas questionáveis da Okumura Foods, mas[n]a verdade ainda não é certa.[n][w][e]
 
-[msg HOLIDAY_TV_0919_001_00 [Opinionista]]
+[msg HOLIDAY_TV_0919_001_00 [Comentarista]]
 [s]Com tantos funcionários participando, ficaria[n]surpreso em saber que eles não estão escondendo[n]mais nada.[n][w][e]
 
-[msg HOLIDAY_TV_0919_002_00 [Reporter]]
+[msg HOLIDAY_TV_0919_002_00 [Repórter]]
 [s]Sim, eu gostaria que eles fossem mais[n]transparentes sobre como eles[n]lidam com o problema.[n][w][e]
 
-[msg HOLIDAY_TV_0922_000_00 [Reporter]]
+[msg HOLIDAY_TV_0922_000_00 [Repórter]]
 [s]A Okumura Foods esteve envolvida em[n]uma disputa trabalhista, mas nega[n]as reclamações sobre nossos microfones.[n][w][e]
 
-[msg HOLIDAY_TV_0922_001_00 [Opinionista]]
+[msg HOLIDAY_TV_0922_001_00 [Comentarista]]
 [s]Neste ponto... é hora dos[n]Phantom Thieves de que todos[n]estão falando, entrarem em ação.[n][w][e]
 
-[msg HOLIDAY_TV_0922_002_00 [Reporter]]
+[msg HOLIDAY_TV_0922_002_00 [Repórter]]
 [s]É uma vergonha não poder[n]contar com o governo, para resolver[n]um problema como esse.[n][w][e]
 
-[msg HOLIDAY_TV_0925_000_00 [Presentatore]]
+[msg HOLIDAY_TV_0925_000_00 [Locutor]]
 [s]Problemas de trabalho na Okumura[n]Foods estão na boca de todos...[n][w][e]
 [s]Por que eles parecem não parar?[n]Nossa nação está fazendo[n]algo para resolvê-los?[n][w][e]
 [s]Convidei o Ministro da[n]Saúde, Trabalho e Previdência[n]para falar sobre a situação...[n][w][e]
 
-[msg HOLIDAY_TV_1002_000_00 [Presentatore]]
+[msg HOLIDAY_TV_1002_000_00 [Locutor]]
 [s]Longos turnos, horas extras não pagas,[n]morte por excesso de trabalho...[n]são apenas alguns dos problemas.[n][w][e]
 [s]A culpa é das empresas?[n]Ou é[n]a culpa do governo...?[n][w][e]
 [s]Reunimos políticos de[n]grandes e pequenos partidos, para[n]entender o que o país pode fazer.[n][w][e]
 
-[msg HOLIDAY_TV_1009_000_00 [Aiuto cronista]]
+[msg HOLIDAY_TV_1009_000_00 [Ajuda do repórter]]
 [s]Ryu-oh não é chamado sem motivo. A calma que ele[n]demonstra em tal momento é incrível.[n][w][e]
 
-[msg HOLIDAY_TV_1009_001_00 [Telecronista]]
+[msg HOLIDAY_TV_1009_001_00 [Apresentador]]
 [s]Uau... O Ryu-oh levou[n]um leque dobrável com[n]a inscrição "majestoso"...[n][w][e]
 
-[msg HOLIDAY_TV_1009_002_00 [Aiuto cronista]]
+[msg HOLIDAY_TV_1009_002_00 [Ajuda do repórter]]
 [s]Hum... Desculpe, mas a caligrafia[n]no ventilador é aproximada.[n]Não é "majestoso" de forma alguma...[n][w][e]
 
-[msg HOLIDAY_TV_1010_000_00 [Reporter]]
+[msg HOLIDAY_TV_1010_000_00 [Repórter]]
 [s]Hoje é o Dia do Esporte e Saúde, e muitos eventos[n]esportivos acontecem no fim de semana.[n][w][e]
 
-[msg HOLIDAY_TV_1010_001_00 [Opinionista]]
+[msg HOLIDAY_TV_1010_001_00 [Comentarista]]
 [s]Na escola do meu filho havia o Festival de[n]Esportes. Faz um tempo que não corro e tudo dói.[n][w][e]
 
-[msg HOLIDAY_TV_1010_002_00 [Reporter]]
+[msg HOLIDAY_TV_1010_002_00 [Repórter]]
 [s]Você alongou antes de começar?[n]Ele está ficando mais velho agora,[n]ele deveria ter mais cuidado.[n][w][e]
 
-[msg HOLIDAY_TV_1016_000_00 [Presentatore]]
+[msg HOLIDAY_TV_1016_000_00 [Locutor]]
 [s]Com todos os problemas do Japão,[n]qual é exatamente o papel[n]do governo?[n][w][e]
 [s]Hoje damos as boas-vindas a um político[n]do partido xx, para lhe perguntar como[n]o governo vai agir daqui para frente.[n][w][e]
 
-[msg HOLIDAY_TV_1023_000_00 [Presentatore]]
+[msg HOLIDAY_TV_1023_000_00 [Locutor]]
 [s]Acidentes ainda acontecem com[n]causas desconhecidas, e o[n]misterioso grupo de Phantom Thieves apareceu.[n][w][e]
 [s]A polícia está quebrando a cabeça[n]sobre esses casos... mas eles são realmente[n]problemas que podem resolver?[n][w][e]
 [s]Aqui conosco está o presidente da[n]Comissão de Segurança Nacional,[n]cuja opinião sobre o governo vamos saber...[n][w][e]
 
-[msg HOLIDAY_TV_1030_000_00 [Presentatore]]
+[msg HOLIDAY_TV_1030_000_00 [Locutor]]
 [s]O Japão está passando por[n]tempos conturbados...[n][w][e]
 [s]Para onde nossa nação está indo?[n]O governo pode[n]fazer algo sobre isso...?[n][w][e]
 [s]Hoje recebemos políticos de[n]partidos maiores ou menores,[n]para fazer um debate...[n][w][e]
 
-[msg HOLIDAY_TV_1103_000_00 [Reporter]]
+[msg HOLIDAY_TV_1103_000_00 [Repórter]]
 [s]A polícia está desesperada[n]para rastrear os Phantom Thieves.[n]Que tipo de grupo eles são?[n][w][e]
 
-[msg HOLIDAY_TV_1103_001_00 [Opinionista]]
+[msg HOLIDAY_TV_1103_001_00 [Comentarista]]
 [s]Se eles fugiram da autoridade por tanto tempo,[n]acho que são profissionais experientes.[n][w][e]
 
-[msg HOLIDAY_TV_1103_002_00 [Reporter]]
+[msg HOLIDAY_TV_1103_002_00 [Repórter]]
 [s]Não podemos saber onde eles[n]escondem, então todo mundo[n]tenha cuidado quando você sair.[n][w][e]
 
-[msg HOLIDAY_TV_1106_000_00 [Presentatore]]
+[msg HOLIDAY_TV_1106_000_00 [Locutor]]
 [s]Mais e mais pessoas[n]questionam as capacidades do partido[n]majoritário e a oposição cresce…[n][w][e]
 [s]O que o governo deve fazer,[n]na situação atual?[n][w][e]
 [s]Temos aqui representantes[n]de cada parte, a quem[n]vamos fazer algumas perguntas...[n][w][e]
 
-[msg HOLIDAY_TV_1113_000_00 [Presentatore]]
+[msg HOLIDAY_TV_1113_000_00 [Locutor]]
 [s]A[n]dissolução[n]da[n]câmara dos representantes foi anunciada...[n][w][e]
 [s]Com as eleições se aproximando,[n]estaremos abordando os possíveis[n]problemas que possam surgir…[n][w][e]
 [s]Temos aqui representantes[n]de cada partido,[n]para fazer um debate...[n][w][e]
 
-[msg HOLIDAY_TV_1120_000_00 [Presentatore]]
+[msg HOLIDAY_TV_1120_000_00 [Locutor]]
 [s]Durante a turbulência da campanha eleitoral, um[n]novo partido político foi criado...[n][w][e]
 [s]Então hoje temos o[n]Representante Shido, pronto para[n]dar voz a essa nova realidade...[n][w][e]
 [s]Gostaria de perguntar a ele por que[n]ele fundou um novo partido[n]e quais são seus objetivos...[n][w][e]
 
-[msg HOLIDAY_TV_1218_000_00 [Presentatore]]
+[msg HOLIDAY_TV_1218_000_00 [Locutor]]
 [s]Hoje votamos para a eleição da[n]Câmara dos Deputados...[n][w][e]
 [s]Por esse motivo, gostaria de falar sobre[n]questões delicadas,[n]comparando as várias partes.[n][w][e]
 [s]Hoje está aqui connosco um[n]observador político...[n][w][e]
 
-[msg HOLIDAY_TV_1223_000_00 [Reporter]]
+[msg HOLIDAY_TV_1223_000_00 [Repórter]]
 [s]Todos esperavam que o representante[n]Shido se tornasse o novo primeiro[n]ministro, mas ele ainda não se recuperou.[n][w][e]
 
-[msg HOLIDAY_TV_1223_001_00 [Opinionista]]
+[msg HOLIDAY_TV_1223_001_00 [Comentarista]]
 [s]Bem, ele provavelmente não descansou o suficiente[n]entre a formação do novo partido e a campanha[n]eleitoral.[n][w][e]
 
-[msg HOLIDAY_TV_1223_002_00 [Reporter]]
+[msg HOLIDAY_TV_1223_002_00 [Repórter]]
 [s]Espero que ele se recupere o mais rápido possível.[n][w][e]
 
 [msg TV_CH01_DEFAULT]
@@ -2193,99 +2193,99 @@
 [msg TV_CH02_DEFAULT]
 [s]Per i prossimi tre giorni,[n]sembra che il clima[n]sarà ○○××△△...[n][w][e]
 
-[msg TV_WEATHER_PATTERN01 [Meteorologo]]
+[msg TV_WEATHER_PATTERN01 [Meteorologista]]
 [s]Amanhã, o tempo estará ensolarado o dia todo. É[n]ideal para secar roupas ao ar livre.[n][w][e]
 
-[msg TV_WEATHER_PATTERN02 [Meteorologo]]
+[msg TV_WEATHER_PATTERN02 [Meteorologista]]
 [s]Amanhã será um dia[n]de sol, com fenômenos nublados[n]somente no final da tarde.[n][w][e]
 
-[msg TV_WEATHER_PATTERN03 [Meteorologo]]
+[msg TV_WEATHER_PATTERN03 [Meteorologista]]
 [s]Amanhã um lindo sol vai brilhar o dia todo,[n]exceto por alguma precipitação à noite.[n][w][e]
 
-[msg TV_WEATHER_PATTERN04 [Meteorologo]]
+[msg TV_WEATHER_PATTERN04 [Meteorologista]]
 [s]Para amanhã, espera-se chuva[n]durante todo o dia, mas[n]o tempo vai melhorar à noite.[n][w][e]
 
-[msg TV_WEATHER_PATTERN05 [Meteorologo]]
+[msg TV_WEATHER_PATTERN05 [Meteorologista]]
 [s]Para a tarde, são esperadas nuvens que tornarão o[n]céu um pouco sombrio.[n][w][e]
 
-[msg TV_WEATHER_PATTERN06 [Meteorologo]]
+[msg TV_WEATHER_PATTERN06 [Meteorologista]]
 [s]Durante a tarde, são esperadas[n]nuvens. Esperamos[n]alguma precipitação à noite.[n][w][e]
 
-[msg TV_WEATHER_PATTERN07 [Meteorologo]]
+[msg TV_WEATHER_PATTERN07 [Meteorologista]]
 [s]O céu tende a ficar nublado[n]por volta do meio-dia, com risco[n]de chuvas antes da noite.[n][w][e]
 
-[msg TV_WEATHER_PATTERN08 [Meteorologo]]
+[msg TV_WEATHER_PATTERN08 [Meteorologista]]
 [s]Um céu nublado repentino por volta das 12h, que[n]durará a noite toda, pode causar precipitação.[n][w][e]
 
-[msg TV_WEATHER_PATTERN09 [Meteorologo]]
+[msg TV_WEATHER_PATTERN09 [Meteorologista]]
 [s]Espera-se uma manhã ensolarada,[n]com nuvens à tarde e[n]chuva no resto do dia.[n][w][e]
 
-[msg TV_WEATHER_PATTERN10 [Meteorologo]]
+[msg TV_WEATHER_PATTERN10 [Meteorologista]]
 [s]A manhã estará nublada, mas o[n]céu vai clarear à tarde.[n]O resto do dia será ensolarado.[n][w][e]
 
-[msg TV_WEATHER_PATTERN11 [Meteorologo]]
+[msg TV_WEATHER_PATTERN11 [Meteorologista]]
 [s]Haverá alguns períodos de céu claro durante[n]a tarde, mas o céu permanecerá[n]nublado nas horas restantes.[n][w][e]
 
-[msg TV_WEATHER_PATTERN12 [Meteorologo]]
+[msg TV_WEATHER_PATTERN12 [Meteorologista]]
 [s]Amanhã o tempo estará instável,[n]com sol à tarde[n]e chuva à noite.[n][w][e]
 
-[msg TV_WEATHER_PATTERN13 [Meteorologo]]
+[msg TV_WEATHER_PATTERN13 [Meteorologista]]
 [s]Amanhã o céu estará nublado o dia todo, exceto à[n]noite, onde você poderá admirar as estrelas.[n][w][e]
 
-[msg TV_WEATHER_PATTERN14 [Meteorologo]]
+[msg TV_WEATHER_PATTERN14 [Meteorologista]]
 [s]Amanhã o céu ficará nublado o dia todo. Não vai[n]chover, mas não haverá feitiços claros.[n][w][e]
 
-[msg TV_WEATHER_PATTERN15 [Meteorologo]]
+[msg TV_WEATHER_PATTERN15 [Meteorologista]]
 [s]Uma manhã nublada nos espera,[n]com chuva ao anoitecer. Não[n]esqueça seu guarda-chuva![n][w][e]
 
-[msg TV_WEATHER_PATTERN16 [Meteorologo]]
+[msg TV_WEATHER_PATTERN16 [Meteorologista]]
 [s]Teremos uma manhã nublada,[n]com provável chuva à tarde.[n]À noite, o céu estará limpo.[n][w][e]
 
-[msg TV_WEATHER_PATTERN17 [Meteorologo]]
+[msg TV_WEATHER_PATTERN17 [Meteorologista]]
 [s]Será uma manhã nublada, com[n]chuvas até a tarde. Não[n]espere um céu estrelado.[n][w][e]
 
-[msg TV_WEATHER_PATTERN18 [Meteorologo]]
+[msg TV_WEATHER_PATTERN18 [Meteorologista]]
 [s]Amanhã a manhã será nublada, com[n]chuva no restante do[n]dia. Lembre-se do guarda-chuva![n][w][e]
 
-[msg TV_WEATHER_PATTERN19 [Meteorologo]]
+[msg TV_WEATHER_PATTERN19 [Meteorologista]]
 [s]Amanhã choverá pela manhã, com[n]claro à tarde, onde[n]poderás sair serenamente.[n][w][e]
 
-[msg TV_WEATHER_PATTERN20 [Meteorologo]]
+[msg TV_WEATHER_PATTERN20 [Meteorologista]]
 [s]Amanhã de manhã vai chover, com[n]claro à tarde[n]e nuvens à noite.[n][w][e]
 
-[msg TV_WEATHER_PATTERN21 [Meteorologo]]
+[msg TV_WEATHER_PATTERN21 [Meteorologista]]
 [s]Amanhã de manhã vai chover, com[n]claro à tarde, exceto[n]então vai chover novamente à noite.[n][w][e]
 
-[msg TV_WEATHER_PATTERN22 [Meteorologo]]
+[msg TV_WEATHER_PATTERN22 [Meteorologista]]
 [s]Amanhã de manhã vai chover até[n]tarde. À noite, no entanto,[n]haverá um lindo céu estrelado.[n][w][e]
 
-[msg TV_WEATHER_PATTERN23 [Meteorologo]]
+[msg TV_WEATHER_PATTERN23 [Meteorologista]]
 [s]Amanhã deve chover até[n]a tarde, com céu encoberto[n]pelo resto do dia.[n][w][e]
 
-[msg TV_WEATHER_PATTERN24 [Meteorologo]]
+[msg TV_WEATHER_PATTERN24 [Meteorologista]]
 [s]Vai chover amanhã de manhã, com uma[n]pequena pausa à tarde antes[n]da chuva voltar à noite.[n][w][e]
 
-[msg TV_WEATHER_PATTERN25 [Meteorologo]]
+[msg TV_WEATHER_PATTERN25 [Meteorologista]]
 [s]Amanhã vai chover o dia todo,[n]com períodos de céu claro apenas[n]no final da tarde.[n][w][e]
 
-[msg TV_WEATHER_PATTERN26 [Meteorologo]]
+[msg TV_WEATHER_PATTERN26 [Meteorologista]]
 [s]Será um dia chuvoso amanhã.[n]A chuva vai parar ao anoitecer,[n]mas o céu permanecerá nublado.[n][w][e]
 
-[msg TV_WEATHER_PATTERN27 [Meteorologo]]
+[msg TV_WEATHER_PATTERN27 [Meteorologista]]
 [s]Amanhã vai chover de manhã à noite.[n]Você deve manter seu guarda-chuva[n]à mão.[n][w][e]
 
 [msg CAFE_TV_KAMOSIDA_NEWS00]
 [s]Parece haver notícias[n]sobre Kamoshida.[n][w][e]
 
-[msg CAFE_TV_KAMOSIDA_NEWS01 [Presentatore]]
+[msg CAFE_TV_KAMOSIDA_NEWS01 [Locutor]]
 [s]Vamos a outras notícias.[n][w][e]
 [s]Um ex-campeão olímpico, além de[n]professor estimado, teria[n]várias vezes agredido seus alunos.[n][w][e]
 [s]Muitos recorreram[n]ao Ministério da Educação[n]para expressar sua indignação.[n][w][e]
 
-[msg CAFE_TV_KAMOSIDA_NEWS02 [Uomo altezzoso]]
+[msg CAFE_TV_KAMOSIDA_NEWS02 [Homem arrogante]]
 [s]E não só. Vários cidadãos estão[n]perplexos com a posição do[n]governo em relação à educação.[n][w][e]
 
-[msg CAFE_TV_KAMOSIDA_NEWS03 [Donna altezzosa]]
+[msg CAFE_TV_KAMOSIDA_NEWS03 [Mulher altiva]]
 [s]Sim, o que o governo está fazendo?!?[n][w][e]
 
 [msg CAFE_TV_KAMOSIDA_NEWS04 [Morgana]]

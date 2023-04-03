@@ -17,7 +17,7 @@
 [msg D07_02_e412_050_AF_mes01 [Ann]]
 [s][bup 0 4 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ali está ele! Desta vez nós[n]o encurralamos![n][w][e]
 
-[msg D07_02_e412_051_mes01 [Uomo molto volgare]]
+[msg D07_02_e412_051_mes01 [Homem muito vulgar]]
 [s]Você... ainda está aqui?!?[n][w][e]
 
 [msg D07_02_e412_060_mes01 [Morgana]]

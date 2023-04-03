@@ -1,4 +1,4 @@
-[msg e382_105_mes01 [Cassiere Ombra]]
+[msg e382_105_mes01 [Caixa sombra]]
 [s]Bem-vindo ao andar de apostas altas, o paraíso[n]dos jogos de azar.[n][w][e]
 [s]Primeiro, queremos[n]oferecer a você um presente de boas-vindas.[n][w][e]
 
@@ -8,20 +8,20 @@
 [msg e382_105_mes03 [Futaba]]
 [s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Apenas 1.000, no entanto. Pelo menos[n]dê 1.000 cada, corda bamba.[n][w][e]
 
-[msg e382_105_mes04 [Cassiere Ombra]]
+[msg e382_105_mes04 [Caixa sombra]]
 [s]Desculpe, mas apenas um presente de boas-vindas[n]pode ser ativado por cartão.[n][w][e]
 [s]Além disso... aqui está o mapa[n]do plano de apostas altas.[n][w][e]
 
 [msg e382_105_mes05 [Makoto]]
 [s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]OK, mostre-nos os prêmios.[n]Queremos trocar as moedas[n]por um cartão de sócio.[n][w][e]
 
-[msg e382_105_mes06 [Cassiere Ombra]]
+[msg e382_105_mes06 [Caixa sombra]]
 [s]Hehehe. Temos prêmios,[n]mas infelizmente[n]não há telha.[n][w][e]
 
 [msg e382_105_mes07 [Makoto]]
 [s][bup 0 6 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2194 65535 0]Coisa? Então, como[n]acessamos o Diretório...?[n][w][e]
 
-[msg e382_105_mes08 [Cassiere Ombra]]
+[msg e382_105_mes08 [Caixa sombra]]
 [s]Nenhum cartão é necessário.[n]Siga-me, por favor...[n][w][e]
 
 [msg e382_105_mes09 [Futaba]]

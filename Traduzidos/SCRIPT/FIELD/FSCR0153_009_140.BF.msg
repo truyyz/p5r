@@ -29,15 +29,15 @@
 [msg D02_ex_e211_051_mes02 [Ryuji]]
 [s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Foi incrível Mona![n][w][e]
 
-[msg D02_ex_e211_051_mes03 [Ombra Guardia della security]]
+[msg D02_ex_e211_051_mes03 [Guarda de segurança sombra]]
 [s]Lord Madarame![n]A-A ópera acabou![n][w][e]
 
-[msg D02_ex_e211_051_mes04 [Ombra di Madarame]]
+[msg D02_ex_e211_051_mes04 [Sombra de Madarame]]
 [s][bup 0 203 106 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ngh... Como ousam aqueles vermes...[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]É hora de prendê-los, como os ratos imundos que[n]eles são![n][w][e]
 [s][bup 0 203 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Tranque todas as portas![n]Eles não conseguirão escapar![n][w][e]
 
-[msg D02_ex_e211_051_mes05 [Ombra di Madarame]]
+[msg D02_ex_e211_051_mes05 [Sombra de Madarame]]
 [s][bup 0 203 106 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Tranque todas as portas![n]Eles não conseguirão escapar![n][w][e]
 
 [msg D02_ex_e211_051_mes06 [Ryuji]]

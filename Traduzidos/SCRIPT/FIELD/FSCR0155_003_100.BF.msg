@@ -1,10 +1,10 @@
-[msg D04_03_e296_210_mes01 [Ombra di Futaba]]
+[msg D04_03_e296_210_mes01 [Sombra de Futaba]]
 [s][bup 0 8 900 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Você está atrasado. Por que[n]demorou tanto?[n][w][e]
 
 [msg D04_03_e296_210_mes02 [Ryuji]]
 [s][bup 0 2 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7044 65535 0]Urghhh, isso é demais![n]Já estou farto dela![n][w][e]
 
-[msg D04_03_e296_211_mes01 [Ombra di Futaba]]
+[msg D04_03_e296_211_mes01 [Sombra de Futaba]]
 [s]Olho para cima...[n][w][e]
 
 [msg D04_03_e296_211_mes02 [Ryuji]]

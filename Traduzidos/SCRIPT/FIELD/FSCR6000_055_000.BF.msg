@@ -16,7 +16,7 @@
 [msg QUEST_55_ENTER_mes05 [Ryuji]]
 [s][bup 0 2 11 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7198 65535 0]Já. Nós devemos fazer algo![n][w][e]
 
-[msg MSG_000_0_0 [Ombra di Oyamada]]
+[msg MSG_000_0_0 [A sombra de Oyamada]]
 [s][vp 8 2 1 47010 65535 0]Hahahaha! Vocês são todos lixo![n][w][e]
 [s][vp 1 0 0 0 0 0]Como diretor da equipe médica, sou superior a[n]ninguém! Você me deve respeito![n][w][e]
 [s][vp 1 0 0 0 0 0]Você deveria me implorar para visitá-lo![n]E me agradeça se eu tiver a[n]compaixão para curar você, recuse![n][w][e]
@@ -25,7 +25,7 @@
 [s]Apenas desista.[e]
 [s]É o bastante.[e]
 
-[msg MSG_002_0_0 [Ombra di Oyamada]]
+[msg MSG_002_0_0 [A sombra de Oyamada]]
 [s][vp 1 0 0 0 0 0]Ah, você é o garoto que era de[n]Takemi. Diga-me, como ele está?[n][w][e]
 [s][vp 1 0 0 0 0 0]Ela ficou tão deprimida quando soube que seu[n]paciente havia morrido. Oh, coitada, estou[n]preocupada com ela.[n][w][e]
 [s][vp 1 0 0 0 0 0]Eheh... Eheheheh...[n][w][e]
@@ -36,12 +36,12 @@
 [s]Eu o impedirei.[e]
 [s]Você é quem tem que parar.[e]
 
-[msg MSG_004_0_0 [Ombra di Oyamada]]
+[msg MSG_004_0_0 [A sombra de Oyamada]]
 [s][vp 8 2 1 47011 65535 0]O que?!? Você se atreve a falar comigo, a[n]seu superior, assim?!?[n][w][e]
 [s][vp 1 0 0 0 0 0]Grrr... Seu diagnóstico é[n]"arrogância sem possibilidade[n]de recuperação".[n][w][e]
 [s][vp 1 0 0 0 0 0]Devo "curar" você imediatamente![n]E vou culpar sua morte[n]em mais uma falha de Takemi.[n][w][e]
 
-[msg MSG_005_0_0 [Ombra di Oyamada]]
+[msg MSG_005_0_0 [A sombra de Oyamada]]
 [s][vp 8 2 1 47016 65535 0]*suspiro* Por que...? Por que não sou bom o[n]suficiente?[n][w][e]
 [s][vp 1 0 0 0 0 0]Eu quero salvar vidas. E eu quero[n]fazer algo grande e[n]marcar a história da medicina.[n][w][e]
 [s][vp 1 0 0 0 0 0]Mas eu sou apenas um médico medíocre.[n]Fui promovido por causa[n]do meu conhecimento universitário.[n][w][e]
@@ -53,12 +53,12 @@
 [s]Você é nojento.[e]
 [s]Você tinha outras soluções.[e]
 
-[msg MSG_007_0_0 [Ombra di Oyamada]]
+[msg MSG_007_0_0 [A sombra de Oyamada]]
 [s][vp 1 0 0 0 0 0]Ah... Ahah... Se ao menos[n]existisse um remédio para[n]curar a inveja...[n][w][e]
 [s][vp 1 0 0 0 0 0]......[n][w][e]
 [s][vp 1 0 0 0 0 0]O paciente de Takemi não está morto.[n][w][e]
 
-[msg MSG_008_0_0 [Ombra di Oyamada]]
+[msg MSG_008_0_0 [A sombra de Oyamada]]
 [s][vp 1 0 0 0 0 0]Eu pensei que ela não iria se recuperar,[n]então eu a transferi para a ala do hospício[n]para o hospício.[n][w][e]
 [s][vp 1 0 0 0 0 0]Mas aquela paciente não acreditou[n]nos meus diagnósticos e no final[n]conseguiu ser transferida para outro lugar.[n][w][e]
 [s][vp 1 0 0 0 0 0]Naturalmente, essa transferência[n]traria descrédito[n]no hospital e na universidade.[n][w][e]

@@ -40,13 +40,13 @@
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 4 0 0]Hum, muitas vezes as emoções do artista[n]transpiram nas[n]obras que ele cria...[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 5 0 0]Em seu coração... eu sinto uma dor profunda.[n][w][e]
 
-[msg D04_03_e296_101_mes03 [Voce di uomo adulto]]
+[msg D04_03_e296_101_mes03 [Voz de um homem adulto]]
 [s][vp 1 0 0 6 0 0]"Futaba nunca deveria ter nascido..."[n][w][e]
 
 [msg D04_03_e296_101_mes04 [Makoto]]
 [s][bup 0 6 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 7 0 0]Essa voz vem do mural?[n][w][e]
 
-[msg D04_03_e296_101_mes05 [Voce di uomo adulto]]
+[msg D04_03_e296_101_mes05 [Voz de um homem adulto]]
 [s][vp 1 0 0 8 0 0]"Não foi nada além de um incômodo."[n][w][e]
 [s][vp 1 0 0 9 0 0]Você parece ter dado[n]muitos problemas para sua mãe,[n]Futaba-chan...[n][w][e]
 [s][vp 1 0 0 10 0 0]Ela deve ter desenvolvido algum tipo de neurose[n]materna...[n][w][e]

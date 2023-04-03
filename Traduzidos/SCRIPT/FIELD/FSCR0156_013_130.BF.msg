@@ -11,10 +11,10 @@
 [msg D05_02_e341_030_mes04 [Morgana]]
 [s][bup 0 3 4 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1158 65535 0]Joker, olha! São eles![n][w][e]
 
-[msg D05_02_e341_030_robomes0 [Robot in preda al panico]]
+[msg D05_02_e341_030_robomes0 [Robôs em pânico]]
 [s]MUITO EM BREVE![n][w][e]
 
-[msg D05_02_e341_030_robomes0_2 [Robot di corsa]]
+[msg D05_02_e341_030_robomes0_2 [Robôs em execução]]
 [s]FORÇA! NÃO PODEMOS ATRASAR![n][w][e]
 
 [msg D05_02_e341_030_mes05 [Ann]]

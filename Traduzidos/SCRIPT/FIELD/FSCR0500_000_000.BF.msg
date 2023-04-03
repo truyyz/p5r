@@ -16,28 +16,28 @@
 [s]モルガナカー内で作戦会議[e]
 [s]潜入を続ける[e]
 
-[msg D01_EXIT_MES [Navigatore del Metaverso]]
+[msg D01_EXIT_MES [Navegador do Metaverso]]
 [s]Este é o [clr 2]ponto de retorno[clr 27][n]para o mundo real a partir da[n]localização atual no Palácio Kamoshida.[n][w][e]
 
-[msg D02_EXIT_MES [Navigatore del Metaverso]]
+[msg D02_EXIT_MES [Navegador do Metaverso]]
 [s]Este é o [clr 2]ponto de retorno[clr 27][n]para o mundo real a partir da localização[n]atual no Palácio de Madarame.[n][w][e]
 
-[msg D03_EXIT_MES [Navigatore del Metaverso]]
+[msg D03_EXIT_MES [Navegador do Metaverso]]
 [s]Este é o [clr 2]ponto de retorno[clr 27][n]para o mundo real a partir da localização[n]atual no Palácio de Kaneshiro.[n][w][e]
 
-[msg D04_EXIT_MES [Navigatore del Metaverso]]
+[msg D04_EXIT_MES [Navegador do Metaverso]]
 [s]Este é o [clr 2]ponto de retorno[clr 27][n]para o mundo real a partir da localização[n]atual no Futaba Palace.[n][w][e]
 
-[msg D05_EXIT_MES [Navigatore del Metaverso]]
+[msg D05_EXIT_MES [Navegador do Metaverso]]
 [s]Este é o [clr 2]ponto de retorno[clr 27][n]para o mundo real a partir da localização[n]atual no Okumura Palace.[n][w][e]
 
-[msg D06_EXIT_MES [Navigatore del Metaverso]]
+[msg D06_EXIT_MES [Navegador do Metaverso]]
 [s]Este é o [clr 2]ponto de retorno[clr 27][n]para o mundo real a partir da localização[n]atual no Palácio de Niijima.[n][w][e]
 
-[msg D07_EXIT_MES [Navigatore del Metaverso]]
+[msg D07_EXIT_MES [Navegador do Metaverso]]
 [s]Este é o [clr 2]ponto de retorno[clr 27][n]para o mundo real a partir da localização[n]atual no Shido Palace.[n][w][e]
 
-[msg D08_EXIT_MES [Navigatore del Metaverso]]
+[msg D08_EXIT_MES [Navegador do Metaverso]]
 [s]Este é o [clr 2]ponto de retorno[clr 27][n]para o mundo real a partir da[n]posição atual nos Mementos.[n][w][e]
 
 [msg DUNGEON_EXIT_01_PC02_mes [Ryuji]]

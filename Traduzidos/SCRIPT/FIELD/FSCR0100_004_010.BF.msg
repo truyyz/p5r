@@ -11,14 +11,14 @@
 [msg fev0410_02_mes04 [Sojiro]]
 [s][bup 0 103 600 0 0]Obrigado.[n][w][e]
 
-[msg fev0410_02_mes05 [Presentatore]]
+[msg fev0410_02_mes05 [Locutor]]
 [s]...esse tipo de golpe está[n]aumentando. A polícia aconselha[n]os cidadãos a terem cuidado.[n][w][e]
 [s]Passando para o próximo relatório...[n]Recebemos uma atualização[n]sobre o descarrilamento de hoje.[n][w][e]
 
 [msg fev0410_03_mes01]
 [s]Ele me disse para manter um diário[n]com minhas atividades diárias...[n][w][e]
 
-[msg fev0410_03_mes02 [Salvare]]
+[msg fev0410_03_mes02 [Salvar]]
 [s]Você pode economizar verificando o sofá.[n][w][e]
 
 [msg fev0410_03_STEP_mes01]
@@ -154,27 +154,27 @@
 [msg fev0409_01_mes01]
 [s]路地裏を見せる絵[n][w][e]
 
-[msg fev0410_03_mes02_Fiber_N [Come salvare]]
+[msg fev0410_03_mes02_Fiber_N [Como salvar]]
 [s]Você pode salvar o progresso do jogo[n]no sofá.[n][w][e]
 
-[msg fev0410_03_mes02_Fiber_P [Come salvare]]
+[msg fev0410_03_mes02_Fiber_P [Como salvar]]
 [s]Você pode salvar dados[n]no sofá.[n][w][e]
 
-[msg fev0410_03_mes02_Fiber_X [Come salvare]]
+[msg fev0410_03_mes02_Fiber_X [Como salvar]]
 [s]Você pode economizar[n]no sofá.[n][w][e]
 
-[msg fev0410_03_mes02_Fiber_S [Come salvare]]
+[msg fev0410_03_mes02_Fiber_S [Como salvar]]
 [s]Você pode economizar[n]no sofá.[n][w][e]
 
-[msg fev0410_03_mes03_Fiber_N [Salvare]]
+[msg fev0410_03_mes03_Fiber_N [Salvar]]
 [s]Ao sentar no "[clr 2]sofá[clr 27]" e escrever um diário[n]no caderno, você pode salvar os dados do jogo.[n][w][e]
 
-[msg fev0410_03_mes03_Fiber_P [Salvare]]
+[msg fev0410_03_mes03_Fiber_P [Salvar]]
 [s]Ao sentar no "[clr 2]sofá[clr 27]" e escrever um diário[n]no caderno, você pode salvar os dados do jogo.[n][w][e]
 
-[msg fev0410_03_mes03_Fiber_X [Salvare]]
+[msg fev0410_03_mes03_Fiber_X [Salvar]]
 [s]Ao sentar no "[clr 2]sofá[clr 27]" e escrever um diário[n]no caderno, você pode salvar os dados do jogo.[n][w][e]
 
-[msg fev0410_03_mes03_Fiber_S [Salvare]]
+[msg fev0410_03_mes03_Fiber_S [Salvar]]
 [s]Ao sentar no "[clr 2]sofá[clr 27]" e escrever um diário[n]no caderno, você pode salvar os dados do jogo.[n][w][e]
 

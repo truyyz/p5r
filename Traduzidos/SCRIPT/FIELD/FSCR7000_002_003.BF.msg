@@ -34,13 +34,13 @@
 [msg MSG_SELECT_END_BOOK [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1192 65535 0]Você ainda não leu este?[n]Escolha outro.[n][w][e]
 
-[msg MSG_BOOK_SYS_NEW_BOOK_IN [Studentessa bibliotecaria]]
+[msg MSG_BOOK_SYS_NEW_BOOK_IN [Estudante bibliotecário]]
 [s][vp 8 2 1 0 0 0]Acabamos de adicionar alguns[n]novos livros. Se você estiver interessado,[n]confira.[n][w][e]
 
-[msg MSG_BOOK_SYS_START [Studentessa bibliotecaria]]
+[msg MSG_BOOK_SYS_START [Estudante bibliotecário]]
 [s][vp 8 2 1 58604 0 0]Preciso de algo?[n][w][e]
 
-[msg MSG_BOOK_SYS_START_RE [Studentessa bibliotecaria]]
+[msg MSG_BOOK_SYS_START_RE [Estudante bibliotecário]]
 [s][vp 8 2 1 0 0 0]Precisa de mais alguma coisa?[n][w][e]
 
 [sel SEL_StartThink top]
@@ -48,28 +48,28 @@
 [s]Quero devolver um livro.[f 2 7 0 0 106 1][e]
 [s]Não, agora não.[f 2 7 0 0 106 1][e]
 
-[msg MSG_BOOK_SYS_USE_1ST [Studentessa bibliotecaria]]
+[msg MSG_BOOK_SYS_USE_1ST [Estudante bibliotecário]]
 [s][vp 8 2 1 0 0 0]Você só pode pegar emprestado[n]um livro por vez. Lembre-se de[n]devolvê-lo depois de lê-lo.[n][w][e]
 
-[msg MSG_BookListOpen [Studentessa bibliotecaria]]
+[msg MSG_BookListOpen [Estudante bibliotecário]]
 [s][vp 8 2 1 0 0 0]Aqui estão todos os livros que você pode[n]emprestar agora.[n][w][e]
 
-[msg MSG_BOOK_SYS_RENTAL_INFO [Studentessa bibliotecaria]]
+[msg MSG_BOOK_SYS_RENTAL_INFO [Estudante bibliotecário]]
 [s][vp 8 2 1 58605 0 0]Isso, certo? Trate-o com cuidado.[n][w][e]
 
-[msg MSG_Error_RentalOver [Studentessa bibliotecaria]]
+[msg MSG_Error_RentalOver [Estudante bibliotecário]]
 [s][vp 8 2 1 0 0 0]Você só pode pegar emprestado[n]um livro por vez.[n][w][e]
 
-[msg MSG_Error_NotHaveRentalB [Studentessa bibliotecaria]]
+[msg MSG_Error_NotHaveRentalB [Estudante bibliotecário]]
 [s][vp 8 2 1 58607 0 0]Você ainda não pegou[n]nenhum livro.[n][w][e]
 
-[msg MSG_Return_BookTitleConf [Studentessa bibliotecaria]]
+[msg MSG_Return_BookTitleConf [Estudante bibliotecário]]
 [s][vp 8 2 1 0 0 0]Você está retornando[n][clr 3][var 0][clr 27], ok?[n][w][e]
 
-[msg MSG_Return_BookThanks [Studentessa bibliotecaria]]
+[msg MSG_Return_BookThanks [Estudante bibliotecário]]
 [s][vp 8 2 1 58606 0 0]Obrigada.[n][w][e]
 
-[msg MSG_BOOK_SYS_BACK [Studentessa bibliotecaria]]
+[msg MSG_BOOK_SYS_BACK [Estudante bibliotecário]]
 [s][vp 8 2 1 0 0 0]Qual livro você gostaria de devolver?[n][w][e]
 
 [sel MSG_BOOK_SYS_BACK_SEL top]
@@ -79,7 +79,7 @@
 [msg MSG_Return_NotFinBook [Morgana]]
 [s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 1 1171 65535 0]Deseja devolvê-lo?[n]Você ainda não terminou[n]de lê-lo, não é?[n][w][e]
 
-[msg MSG_BOOK_RETURN_STOP_NPC [Studentessa bibliotecaria]]
+[msg MSG_BOOK_RETURN_STOP_NPC [Estudante bibliotecário]]
 [s][vp 8 2 1 0 0 0]Deseja devolver este livro?[n][w][e]
 
 [sel MSG_BOOK_RETURN_STOP_SEL top]
@@ -90,16 +90,16 @@
 [s]Retorno[f 2 7 0 0 106 1][e]
 [s]Não volte [f 2 7 0 0 106 1][e]
 
-[msg MSG_BOOK_RETURN_BOOK_A_G [Studentessa bibliotecaria]]
+[msg MSG_BOOK_RETURN_BOOK_A_G [Estudante bibliotecário]]
 [s][vp 8 2 1 0 0 0]Então eu recebo[n][clr 3][var 1][clr 27].[n][w][e]
 
-[msg MSG_BOOK_RETURN_BOOK_B_G [Studentessa bibliotecaria]]
+[msg MSG_BOOK_RETURN_BOOK_B_G [Estudante bibliotecário]]
 [s][vp 8 2 1 0 0 0]Então eu recebo[n][clr 3][var 1][clr 27].[n][w][e]
 
-[msg MSG_BOOK_RETURN_CANCEL [Studentessa bibliotecaria]]
+[msg MSG_BOOK_RETURN_CANCEL [Estudante bibliotecário]]
 [s][vp 8 2 1 0 0 0]Você mudou de ideia?[n]Qual livro[n]você quer devolver?[n][w][e]
 
-[msg MSG_BOOK_SYS_NOT_USE [Studentessa bibliotecaria]]
+[msg MSG_BOOK_SYS_NOT_USE [Estudante bibliotecário]]
 [s][vp 8 2 1 0 0 0]Eu vejo. Se precisar de[n]outro, volte.[n][w][e]
 
 [msg MSG_TEST]
@@ -132,12 +132,12 @@
 [msg MSG_BOOK_SYS_RENTAL_TITL [Morgana]]
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 1020 65535 0][clr 3][var 20][clr 27], hein?[n]Parece interessante![n][w][e]
 
-[msg MSG_BOOK_SpeedBook_NG_1s [Studentessa bibliotecaria]]
+[msg MSG_BOOK_SpeedBook_NG_1s [Estudante bibliotecário]]
 [s][vp 8 2 1 58602 0 0]Oh aquilo...[n][w][e]
 [s][vp 8 2 1 0 0 0]Infelizmente não posso[n]dê-lo a você... Alguém já[n]o pegou emprestado.[n][w][e]
 [s][vp 8 2 1 0 0 0]É surpreendentemente popular.[n]Eles pegam emprestado[n]assim que é devolvido...[n][w][e]
 
-[msg MSG_BOOK_SpeedBook_NG_Co [Studentessa bibliotecaria]]
+[msg MSG_BOOK_SpeedBook_NG_Co [Estudante bibliotecário]]
 [s][vp 8 2 1 58602 0 0]Desculpe, esse livro já está[n]em empréstimo...[n][w][e]
 
 [msg MSG_SpeedBook_SetRemind [Morgana]]
@@ -150,7 +150,7 @@
 [s]Devolva o livro[e]
 [s]Pense de novo[e]
 
-[msg MSG_BOOK_Change_Seito [Studentessa bibliotecaria]]
+[msg MSG_BOOK_Change_Seito [Estudante bibliotecário]]
 [s][vp 8 2 1 0 0 0]Obrigado por reportar[n][clr 3][var 0][clr 27].[n][w][e]
 [s][vp 8 2 1 0 0 0]Quer pegar emprestado[n]outro livro?[n][w][e]
 

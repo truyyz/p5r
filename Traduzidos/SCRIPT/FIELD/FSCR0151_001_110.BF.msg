@@ -15,12 +15,12 @@
 [s][bup 0 4 0 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]...Que diabos é esse aplicativo?[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Foi o suficiente para eu repetir as[n]palavras que Sakamoto[n]disse e me vi...[n][w][e]
 
-[msg D01_03_e160_601_mes03 [Capitão da Guarda]]
+[msg D01_03_e160_601_mes03 [Capitão da guarda]]
 [s]Princesa!?![n][w][e]
 
 [msg D01_03_e160_601_mes04 [Ann]]
 [s][bup 0 4 0 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Hum?[n][w][e]
 
-[msg D01_03_e160_601_mes05 [Capitão da Guarda]]
+[msg D01_03_e160_601_mes05 [Capitão da guarda]]
 [s]Princesa![n][w][e]
 

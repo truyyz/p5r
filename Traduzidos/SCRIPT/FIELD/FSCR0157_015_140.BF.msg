@@ -1,13 +1,13 @@
-[msg e382_350_mes01 [Presentatore]]
+[msg e382_350_mes01 [Locutor]]
 [s][vp 1 0 0 19 0 0]......[n][w][e]
 
 [msg e382_350_mes02 [Akechi]]
 [s][bup 0 9 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 20 0 0]A justiça ainda prevaleceu.[n][w][e]
 
-[msg e382_350_mes03 [Presentatore]]
+[msg e382_350_mes03 [Locutor]]
 [s][vp 1 0 0 21 0 0]A-Agora os[n]ganhos serão pagos... Por favor, aguarde...[n][w][e]
 
-[msg e382_350_mes04 [Cassiere Ombra]]
+[msg e382_350_mes04 [Caixa sombra]]
 [s][vp 1 0 0 22 0 0]...Parabéns. Aqui está[n]seu prêmio, [clr 2]100.000[clr 27] moedas.[n][w][e]
 
 [msg e382_350_mes05 [Ryuji]]

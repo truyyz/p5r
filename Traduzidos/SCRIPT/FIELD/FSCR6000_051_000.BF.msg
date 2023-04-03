@@ -16,7 +16,7 @@
 [msg QUEST_51_ENTER_mes05 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1023 65535 0]Vamos pessoal![n][w][e]
 
-[msg MSG_000_0_0 [Ombra di Oda]]
+[msg MSG_000_0_0 [Sombra de Oda]]
 [s][vp 8 2 1 47360 65535 0]Você não pode sobreviver neste mundo frio e[n]implacável se for muito fraco![n][w][e]
 [s][vp 1 0 0 0 0 0]Ninguém jamais ajudará uma mãe solteira![n]Todos me olham com desprezo![n][w][e]
 [s][vp 1 0 0 0 0 0]Eles são todos meus inimigos! Eu devo[n]combatê-los! Eu tenho que esmagá-los antes de[n]ser esmagado![n][w][e]
@@ -25,12 +25,12 @@
 [s]Apenas faça o papel de vítima.[e]
 [s]Shinya está com dor.[e]
 
-[msg MSG_002_0_0 [Ombra di Oda]]
+[msg MSG_002_0_0 [Sombra de Oda]]
 [s][vp 1 0 0 0 0 0]O que você sabe sobre isso?!?[n]Você não me conhece![n][w][e]
 [s][vp 1 0 0 0 0 0]Devemos ser fortes![n]Não temos um pára-quedas[n]para nos salvar se cairmos![n][w][e]
 [s][vp 1 0 0 0 0 0]Estou apenas lutando pela[n]minha felicidade! Não quero mais que[n]outros zombem de nós![n][w][e]
 
-[msg MSG_003_0_0 [Ombra di Oda]]
+[msg MSG_003_0_0 [Sombra de Oda]]
 [s][vp 1 0 0 0 0 0]Eu perdi. Vou acabar[n]sendo levado[n]tudo de novo...[n][w][e]
 [s][vp 1 0 0 0 0 0]A sociedade me vê como um perdedor. Eu não tenho[n]dinheiro. Não tenho nada do que me orgulhar...[n][w][e]
 [s][vp 1 0 0 0 0 0]O que diabos eu devo fazer...?[n][w][e]
@@ -39,7 +39,7 @@
 [s]Mude sua mentalidade.[e]
 [s]Você tem seu filho.[e]
 
-[msg MSG_005_0_0 [Ombra di Oda]]
+[msg MSG_005_0_0 [Sombra de Oda]]
 [s][vp 1 0 0 0 0 0]Shiny...[n][w][e]
 [s][vp 1 0 0 0 0 0]Ho Shinya...[n][w][e]
 [s][vp 1 0 0 0 0 0]Sim... Agora eu entendo.[n]Minha maior felicidade...[n]sempre esteve ao meu lado...[n][w][e]

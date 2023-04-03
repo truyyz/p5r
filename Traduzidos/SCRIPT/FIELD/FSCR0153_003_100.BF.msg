@@ -34,7 +34,7 @@
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eles são fantásticos. Eles concedem[n]muita experiência e podem ser[n]úteis também para Personas.[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]No entanto, eles são muito rápidos[n]e resistem bem[n]a ataques.[n][w][e]
 
-[msg D02_02_e200_149_mes05 [Demoni del Tesoro]]
+[msg D02_02_e200_149_mes05 [Demônios do tesouro]]
 [s]Às vezes, os [clr 2]Demônios do Tesouro[clr 27] se escondem[n]em objetos quebráveis[n]dentro dos Palácios.[n][w][e]
 [s]Vencê-los dá a você muitos pontos de experiência[n]e eles são um excelente material para a fusão de[n]Personas .[n][w][e]
 [s]É altamente recomendável que você[n]os persiga, sempre que[n]tiver a chance.[n][w][e]

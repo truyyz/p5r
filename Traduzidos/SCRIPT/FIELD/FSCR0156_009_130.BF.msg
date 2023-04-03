@@ -24,7 +24,7 @@
 [msg D05_02_e341_084_mes01 [Ann]]
 [s][bup 0 4 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6183 65535 0]Que diabos...?!?[n][w][e]
 
-[msg D05_02_e341_084_mes02 [Voce guida]]
+[msg D05_02_e341_084_mes02 [Voz guia]]
 [s]ADICIONAR COMBUSTÍVEL AUMENTOU A PRODUÇÃO![n]EFICÁCIA DO INCINERADOR APROXIMADAMENTE DE 270%![n][w][e]
 
 [msg D05_02_e341_084_mes03 [Yusuke]]

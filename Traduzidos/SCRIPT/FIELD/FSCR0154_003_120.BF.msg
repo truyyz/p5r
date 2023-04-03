@@ -1,4 +1,4 @@
-[msg e259_240_mes01 [Ombra aggressiva]]
+[msg e259_240_mes01 [Sombra agressiva]]
 [s]Por que ele não volta?!?[n]Algo deve ter acontecido?!?[n][w][e]
 
 [msg e259_240_mes02 [Morgana]]
@@ -11,13 +11,13 @@
 [msg e259_240_selA_0_mes01 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1181 65535 0]OK, vamos lá![n][w][e]
 
-[msg e259_240_selA_0_mes02 [Ombra aggressiva]]
+[msg e259_240_selA_0_mes02 [Sombra agressiva]]
 [s]Hã? Quem é Você?!?[n][w][e]
 
 [msg e259_240_selA_0_mes03 [Ryuji]]
 [s][bup 0 2 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Estamos aqui pela outra chave![n][w][e]
 
-[msg e259_240_selA_0_mes04 [Ombra aggressiva]]
+[msg e259_240_selA_0_mes04 [Sombra agressiva]]
 [s]O que?!? Então, a transmissão[n]há pouco... Como você ousa![n][w][e]
 
 [msg e259_240_selA_1_mes01 [Morgana]]
@@ -57,10 +57,10 @@
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1179 65535 0]Bem, até agora tudo bem.[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Parece que há Shadows[n]lá dentro. Vamos nos esconder e[n]ouvir o que eles dizem.[n][w][e]
 
-[msg e259_210_mes02 [Ombra prudente]]
+[msg e259_210_mes02 [Sombra cautelosa]]
 [s]Sobre aqueles intrusos...[n][w][e]
 
-[msg e259_210_mes03 [Ombra aggressiva]]
+[msg e259_210_mes03 [Sombra agressiva]]
 [s]Oh? Eles te preocupam tanto?[n][w][e]
 [s]Calmo. Nós temos as chaves[n]que eles precisam, então enquanto nós[n]os protegermos, tudo ficará bem.[n][w][e]
 

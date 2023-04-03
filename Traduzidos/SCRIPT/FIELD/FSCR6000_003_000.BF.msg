@@ -16,7 +16,7 @@
 [msg QUEST_03_ENTER_mes05 [Ryuji]]
 [s][bup 0 2 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7172 65535 0]Vamos.[n][w][e]
 
-[msg MSG_033_0_0 [Ombra di Takanashi]]
+[msg MSG_033_0_0 [Sombra de Takanashi]]
 [s][vp 8 2 1 46513 65535 0]Não é minha culpa! São eles[n]quem não reagem![n][w][e]
 
 [msg MSG_034_0_0 [Ryuji]]
@@ -25,20 +25,20 @@
 [msg MSG_035_0_0 [Ann]]
 [s][bup 0 4 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 0 0 0]Você é um covarde.[n]Você intimida os mais fracos[n]só porque eles não podem revidar![n][w][e]
 
-[msg MSG_036_0_0 [Ombra di Takanashi]]
+[msg MSG_036_0_0 [Sombra de Takanashi]]
 [s][vp 8 2 1 46514 65535 0]O que? Vocês são muitos[n]e eu apenas um! Vocês são Phantom Thieves[n]algum tipo de gangue?!?[n][w][e]
 [s][vp 1 0 0 0 0 0]Protetores da justiça, porra! Você se gaba tanto,[n]mas não sabe do que está falando![n][w][e]
 
 [msg MSG_037_0_0 [Ryuji]]
 [s][bup 0 2 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 0 0 0]Você é quem não sabe![n]Em mim![n][w][e]
 
-[msg MSG_039_0_0 [Ombra di Takanashi]]
+[msg MSG_039_0_0 [Sombra de Takanashi]]
 [s][vp 8 2 1 46515 65535 0]M-Mas se eu não fizer isso, eles vão[n]me machucar. Não quero que[n]mais dinheiro seja tirado de mim![n][w][e]
 
 [msg MSG_040_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 0 7182 65535 0]O que você está falando?[n][w][e]
 
-[msg MSG_041_0_0 [Ombra di Takanashi]]
+[msg MSG_041_0_0 [Sombra de Takanashi]]
 [s][vp 1 0 0 0 0 0]Se eu não fizer isso, serei eu[n]a sofrer bullying![n]Eu não quero![n][w][e]
 
 [msg MSG_042_0_0 [Ann]]
@@ -47,7 +47,7 @@
 [msg MSG_043_0_0 [Ryuji]]
 [s][bup 0 2 7 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 0 0 0]Ei! Você não acabou de dizer que a culpa é de[n]quem não se rebela?[n][w][e]
 
-[msg MSG_044_0_0 [Ombra di Takanashi]]
+[msg MSG_044_0_0 [Sombra de Takanashi]]
 [s][vp 1 0 0 0 0 0]Isso... hum. Por favor me ajude![n][w][e]
 
 [sel SEL_045_0_0 top]
@@ -55,25 +55,25 @@
 [s]Porra, o que fazemos?[e]
 [s]Eu não vou ajudá-lo.[e]
 
-[msg MSG_046_0_0 [Ombra di Takanashi]]
+[msg MSG_046_0_0 [Sombra de Takanashi]]
 [s][vp 1 0 0 0 0 0]Obrigado! Oh, obrigado,[n]incríveis Phantom Thieves![n][w][e]
 
 [msg MSG_047_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 0 0 0]Esse cara...[n]é muito inconstante, não é?[n][w][e]
 
-[msg MSG_048_0_0 [Ombra di Takanashi]]
+[msg MSG_048_0_0 [Sombra de Takanashi]]
 [s][vp 1 0 0 0 0 0]Eu te imploro! Por favor, pense nisso![n]Eu também sou uma vítima![n][w][e]
 
 [msg MSG_049_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 0 0 0]Vamos fazê-lo. Pode nos levar a um tesouro melhor.[n][w][e]
 
-[msg MSG_050_0_0 [Ombra di Takanashi]]
+[msg MSG_050_0_0 [Sombra de Takanashi]]
 [s][vp 1 0 0 0 0 0]P-por favor! Eu imploro de joelhos se você quiser![n][w][e]
 
 [msg MSG_051_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 0 0 0]Vamos fazê-lo. Pode nos levar a um tesouro melhor.[n][w][e]
 
-[msg MSG_052_0_0 [Ombra di Takanashi]]
+[msg MSG_052_0_0 [Sombra de Takanashi]]
 [s][vp 1 0 0 0 0 0]Estou contando com você.[n]Você me prometeu.[n][w][e]
 
 [msg MSG_053_0_0 [Ryuji]]

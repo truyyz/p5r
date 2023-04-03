@@ -1,7 +1,7 @@
 [msg D07_02_e409_045_mes01 [Ryuji]]
 [s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7001 65535 0]E aí, hein?[n][w][e]
 
-[msg D07_02_e409_045_mes02 [Ombra Ex nobile]]
+[msg D07_02_e409_045_mes02 [Sombra Ex nobre]]
 [s]......[n][w][e]
 
 [msg D07_02_e409_045_mes03 [Ryuji]]

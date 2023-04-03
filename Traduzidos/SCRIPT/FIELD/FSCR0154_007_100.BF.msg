@@ -16,7 +16,7 @@
 [msg e259_502_mes06 [Makoto]]
 [s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos ver. Por que não[n]verificamos as informações[n]que temos disponíveis?[n][w][e]
 
-[msg e259_502_mes07 [Voce meccanica]]
+[msg e259_502_mes07 [Voz mecânica]]
 [s]O bloqueio está ativo.[n]Digite seu PIN.[n][w][e]
 
 [msg e259_502_mes08 [Ann]]
@@ -41,14 +41,14 @@
 [msg e259_502_01_mes02_007 [Ryuji]]
 [s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Certo, funcionou![n][w][e]
 
-[msg e259_502_01_mes03 [Voce di Kaneshiro]]
+[msg e259_502_01_mes03 [Voz de Kaneshiro]]
 [s][bup 0 207 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 1 65535 41 0 0]Tsk... Nem perto[n]da sua cota para o mês.[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Não quero ouvir desculpas. Você deve[n]colher até a última moeda![n][w][e]
 
 [msg e259_502_01_mes04 [Yusuke]]
 [s][bup 0 5 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Essa voz de novo...[n][w][e]
 
-[msg e259_502_01_mes05 [Voce di Kaneshiro]]
+[msg e259_502_01_mes05 [Voz de Kaneshiro]]
 [s][bup 0 207 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 1 65535 36 0 0]Se você não chegar lá, eu te explico... Pessoas[n]que não podem ganhar dinheiro são inúteis![n][w][e]
 
 [msg e259_502_01_mes06 [Ann]]

@@ -4,7 +4,7 @@
 [msg mini_EV_e210_143_mes02 [Ryuji]]
 [s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]OOOK, hora de desligar essas coisas![n][w][e]
 
-[msg mini_EV_e210_143_mes03 [Terminale]]
+[msg mini_EV_e210_143_mes03 [Terminal]]
 [s]Coloque sua senha.[n][w][e]
 
 [msg mini_EV_e210_143_mes04 [Ryuji]]
@@ -23,7 +23,7 @@
 [msg mini_EV_e210_143_mes08 [Morgana]]
 [s][bup 0 3 1 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1181 65535 0]OK, vamos tentar a[n]senha que encontramos![n][w][e]
 
-[msg mini_EV_e210_143_mes09 [Terminale]]
+[msg mini_EV_e210_143_mes09 [Terminal]]
 [s]Senha aceita...[n]Desativar protocolos de segurança[n]...[n][w][e]
 
 [msg mini_EV_e210_143_mes10 [Ryuji]]

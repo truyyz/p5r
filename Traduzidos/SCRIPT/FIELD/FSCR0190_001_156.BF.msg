@@ -1,7 +1,7 @@
 [msg D190_01_OPEN_EV05_01_mes]
 [s]O Meta-Nav está reagindo...[n][w][e]
 
-[msg D190_01_OPEN_EV05_02_mes [Navigatore del Metaverso]]
+[msg D190_01_OPEN_EV05_02_mes [Navegador do Metaverso]]
 [s]Uma nova área foi detectada[n]nas profundezas. Atualize[n]informações para orientação.[n][w][e]
 
 [msg D190_01_OPEN_EV05_02_mes_2 [Morgana]]
