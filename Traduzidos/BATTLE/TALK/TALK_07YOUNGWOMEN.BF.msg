@@ -377,7 +377,7 @@
 [s]Você diz isso porque não consegue pensar em mais[n]nada, não é?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_07_R_6]
-[s]Entãoiiii... Basicamente, você[n]está dizendo que não pode[n]me avaliar?[n][w][e]
+[s]Entãoi... Basicamente, você[n]está dizendo que não pode[n]me avaliar?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_07_R_7]
 [s]verdade!?! Meu potencial[n]é ilimitado![n][w][e]

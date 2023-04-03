@@ -3370,7 +3370,7 @@
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 5 11 5][vp 8 2 0 9190 65535 0]Acho que você perdeu a chance de se tornar um[n]senpai, Ryuji.[n][w][e]
 
 [msg MARUKI_MEMENTOS_mes08 [Ryuji]]
-[s][bup 0 2 2 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 5 11 5][vp 8 2 0 7182 65535 0]Z-Cala a boca! Eu não estava mirando nisso, de[n]qualquer maneira![n][w][e]
+[s][bup 0 2 2 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 5 11 5][vp 8 2 0 7182 65535 0]C-Cala a boca! Eu não estava mirando nisso, de[n]qualquer maneira![n][w][e]
 
 [msg MARUKI_MEMENTOS_mes09 [Sumire]]
 [s][bup 0 10 3 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 5 11 5][vp 8 2 1 0 65535 0]Oh, desculpe! Eu não queria estragar sua chance[n]de se tornar um senpai.[n][w][e]

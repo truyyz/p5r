@@ -181,7 +181,7 @@
 
 [msg MND_GIFT_002_010 [Makoto]]
 [s][bup 0 6 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 39 5 100]Para mim?[n][f 1 3 65535][w][e]
-[s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 2128 65535 0][f 4 24 0 4 0 35 5 100]G-obrigado. No final[n]é o pensamento que conta...[n][f 1 3 65535][w][e]
+[s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 2128 65535 0][f 4 24 0 4 0 35 5 100]O-obrigado. No final[n]é o pensamento que conta...[n][f 1 3 65535][w][e]
 
 [msg MND_GIFT_002_011]
 [s][vp 8 0 0 0 65535 0]Receio ter falhado[n]impressionar Makoto com[n]o presente que dei a ela...[n][f 1 3 65535][w][e]
@@ -792,7 +792,7 @@
 
 [msg MND_GIFT_017_010 [Hifumi]]
 [s][bup 0 106 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 35 5 100]Uh... O que é isso?[n]O que devo fazer com isso?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 18065 65535 0]G-obrigado.[n]Boa ideia...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 18065 65535 0]O-obrigado.[n]Boa ideia...[n][f 1 3 65535][w][e]
 
 [msg MND_GIFT_017_011]
 [s][vp 8 0 0 0 65535 0]Receio ter falhado[n]impressionar Hifumi com[n]o presente que dei a ela...[n][f 1 3 65535][w][e]

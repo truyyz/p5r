@@ -2,7 +2,7 @@
 [s][f 5 14]Você está de férias amanhã, certo? Vou esperar[n]na reunião.[n][w][e]
 
 [msg MSG_001_0_0 [Futaba]]
-[s][f 5 14]Entãoiii...?[n][w][e]
+[s][f 5 14]Então...?[n][w][e]
 
 [msg MSG_002_0_0 [Futaba]]
 [s][f 5 14]Devemos jogar juntos![n][w][e]

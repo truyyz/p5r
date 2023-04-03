@@ -43,7 +43,7 @@
 
 [msg MSG_012_0_0 [Makoto]]
 [s][bup 0 6 100 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]A propósito, Lavenza nos contou...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Dr. Maruki está usando[n]i Memento para distorcer[n]toda a realidade.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Dr. Maruki está usando[n]o Mementos para distorcer[n]toda a realidade.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]No entanto... O que são todos esses[n]cabos de dados?[n][f 1 3 65535][w][e]
 
 [sel SEL_013_0_0 top]

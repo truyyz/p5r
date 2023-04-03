@@ -37,7 +37,7 @@
 
 [msg MSG_009_5_0 [Sumire]]
 [s][f 5 14]Obrigado![n][w][e]
-[s][f 5 14]Oh, per domani... andiamo tutti in[n]quel posto, i Memento? (Si chiamava[n]così, vero?)[n][w][e]
+[s][f 5 14]Oh, sobre amanhã... vamos todos[n]para aquele tal Mementos?(Acho que[n]é assim que se chama, certo?)[n][w][e]
 
 [msg MSG_010_0_0 [Yusuke]]
 [s][f 5 14]É uma possibilidade.[n][w][e]

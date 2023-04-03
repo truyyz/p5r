@@ -12,7 +12,7 @@
 
 [msg MSG_004_0_0 [Ann]]
 [s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Dr. Maruki é um homem com[n]um desejo distorcido, mas...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Esse desejo é apenas um[n]omen de felicidade para todos[n]ós, ou estou errado?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Esse desejo é apenas um[n]pedido de felicidade para todos[n]nós, certo?[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Eu tenho que admitir, não é nada[n]como os desejos de escória[n]como Shido e Kamoshida.[n][f 1 3 65535][w][e]
@@ -31,7 +31,7 @@
 [msg MSG_009_0_0 [Ryuji]]
 [s][bup 0 2 5 65535 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]No entanto, ainda estamos todos[n]com a impressão de que essa realidade[n]está errada, estou certo?[n][f 1 3 65535][w][e]
 [s][bup 0 2 13 65535 0][f 4 10 65535 0 0][f 4 24 0 4 6 37 5 100][vp 8 0 0 17 65535 0]Nós decidimos o que é certo.[n]Então concordamos[n]seguindo [f 4 2] no Palácio.[n][f 1 3 65535][w][e]
-[s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Se acordar o coração de Doc[n]consertará nossa realidade,[n]então devo tentar.[n][f 1 3 65535][w][e]
+[s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Se acordar o coração do Doutor[n]consertará nossa realidade,[n]então devo tentar.[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Ryuji]]
 [s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Hum, então... Alguém diga[n]algo...[n][f 1 3 65535][w][e]

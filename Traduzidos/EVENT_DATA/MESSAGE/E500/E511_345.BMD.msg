@@ -52,7 +52,7 @@
 
 [msg MSG_014_0_0 [Ryuji]]
 [s][bup 0 2 5 65535 0][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]É um pensamento que está girando[n]na minha cabeça há algum tempo...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Talvez [f 4 2] palavras machuquem tanto porque[n]ele está certo...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Talvez as palavras de [f 4 2] machuquem tanto[n]porque ele está certo...[n][f 1 3 65535][w][e]
 [s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Mas eu estava com muito medo de[n]admitir isso, por algum motivo.[n]Então eu fingi não entender...[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Haru]]

@@ -68,7 +68,7 @@
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7106 65535 0]Eh, um pouco como fazer lição de casa.[n]Vamos, vamos.[n][w][e]
 
 [msg memen_weather_01_mes01 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1170 65535 0]Agora que penso nisso, está chovendo hoje.[n]Isso pode afetar[n]i Memento...[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1170 65535 0]Agora que penso nisso, está chovendo hoje.[n]Isso pode afetar[n]o Mementos...[n][w][e]
 
 [msg memen_weather_01_mes06 [Ryuji]]
 [s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7045 65535 0]Então hoje é nossa chance[n]de seguir em frente![n][w][e]
@@ -297,7 +297,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1185 65535 0]Nós encontramos nosso caminho[n]para o Tesouro... Você quer sair daqui?[n][w][e]
 
 [msg DUNGEON_ROUTE_COMP_PC04_ [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1174 65535 0]Acho que tudo o que temos que fazer é[n]preparar para o[n]Destiny Day... Vamos voltar?[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1174 65535 0]Acho que tudo o que temos que fazer é[n]preparar para o Dia do Destino...[n] Vamos voltar?[n][w][e]
 
 [msg DUNGEON_EXIT_NOT_01_PC02 [Ryuji]]
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Já vamos voltar?[n]Não fizemos nada...[n][w][e]
@@ -434,7 +434,7 @@
 [s][bup 0 6 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2081 65535 0]Direita. Vamos continuar.[n][w][e]
 
 [msg D_EXIT_CANCEL_PC07_mes [Futaba]]
-[s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9130 65535 0]Entendido. Vamos dar uma olhada em outro[n]bit.[n][w][e]
+[s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9130 65535 0]Entendido. Vamos dar uma olhada um pouquinho [n]mais então.[n][w][e]
 
 [msg D_EXIT_CANCEL_PC08_mes [Haru]]
 [s][bup 0 7 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 3051 65535 0]Mm-hm. Bem, de volta à[n]nossa exploração.[n][w][e]

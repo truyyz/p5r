@@ -2,7 +2,7 @@
 [s][bup 0 10 100 0 0][f 4 10 65535 0 0][vp 8 2 0 57113 65535 0]Então, este é o palácio de[n]alguém?[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Ann]]
-[s][bup 0 4 104 0 0][f 4 10 65535 0 0][vp 8 2 0 54001 65535 0]Ah sim... esta é a primeira vez[n]em Mementos for Violet.[n][f 1 3 65535][w][e]
+[s][bup 0 4 104 0 0][f 4 10 65535 0 0][vp 8 2 0 54001 65535 0]Ah sim... esta é a primeira vez[n]no Mementos para a Violet.[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Ryuji]]
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Bem, olhe para isso... este lugar ruim é o[n]Palácio de todos.[n][f 1 3 65535][w][e]

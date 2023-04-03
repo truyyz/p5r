@@ -48,7 +48,7 @@
 [s][vp 6 0 0 14 0 0]Uma pena... Mas eu entendo.[n][f 1 2 80][e]
 
 [msg MSG_016_0_0 [Akechi]]
-[s][vp 6 0 0 15 0 0]Bem, parece que devemos usar[n]force agora, certo?[n][f 1 2 130][e]
+[s][vp 6 0 0 15 0 0]Bem, parece que devemos recorrer à[n]força agora, certo?[n][f 1 2 130][e]
 
 [msg MSG_017_0_0 [Maruki]]
 [s][vp 6 0 0 16 0 0]Violência não combina comigo...[n][f 1 2 100][e]

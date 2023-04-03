@@ -305,7 +305,7 @@
 [s][vp 1 0 0 0 0 0]Não me lembro de ter[n]vestidos tão elegantes. Eles parecem[n]adequados para trabalho noturno...[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_0116_3]
-[s][vp 1 0 0 0 0 0]Huh? Você não trabalha aqui? Vamos lá,[n]eu sei que você trabalhou aqui no ano passado.[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Huh? Você não trabalha aqui? Vamos lá,[n]sei que você trabalhou ano passado.[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_0116_4]
 [s][vp 1 0 0 0 0 0]Vamos com calma, em vez de[n]enlouquecer para atingir[n]nossas cotas, ok?[n][f 1 3 65535][w][e]

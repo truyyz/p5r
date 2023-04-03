@@ -26,7 +26,7 @@
 [s]Uma nova droga desenvolvida pela TMC. Restaura 100 HP[n]de todos os aliados.[n][e]
 
 [msg Item_009]
-[s]Uma nova droga desenvolvida pela TMC. Restaura 200 HP[n]de todos os aliados.[n][e]
+[s]Uma nova droga desenvolvida pela TMC.[n]Restaura 200 HP[n]de todos os aliados.[n][e]
 
 [msg Item_00A]
 [s]Restaura totalmente o HP dos aliados.[n][e]
@@ -92,7 +92,7 @@
 [s]não usado[n][e]
 
 [msg Item_01F]
-[s]Forma una barriera intorno a[n]un alleato. Respinge tutte le[n]magie (non divine) 1 volta.[n][e]
+[s]Forma uma barriera para um[n]aliado. Repele toda[n]magia (não divina) 1 vez.[n][e]
 
 [msg Item_020]
 [s]Forma uma barreira para um[n]aliado que empurra para trás uma vez[n]atx. fis. e como arma.[n][e]

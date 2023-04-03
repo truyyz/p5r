@@ -2678,7 +2678,7 @@
 [s]Reflete[n]ataques sagrados.[n][e]
 
 [msg skill_37D]
-[s]Absorve o dano causado por Ataques Sagrados.[n][e]
+[s]Absorve o dano causado por[n]Ataques Sagrados.[n][e]
 
 [msg skill_37E]
 [s]Reduz as chances de[n]ser alvo de inimigos.[n][e]
