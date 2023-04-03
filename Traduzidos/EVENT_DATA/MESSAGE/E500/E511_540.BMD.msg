@@ -63,7 +63,7 @@
 
 [msg MSG_017_0_0 [Sumire]]
 [s][bup 0 10 903 2 0][f 4 10 65535 0 0][vp 8 0 0 24 23 0]Como eu estava dizendo, eu entendi uma[n]coisa, vendo[n]todos vocês empenhados em seguir em frente...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 25 23 0]Eu não posso mais escapar[n]desse jeito.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 25 23 0]Eu não posso mais escapar assim[n]way.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 26 23 0]Mas, agora que Kasumi se foi,[n]não tenho ideia do que fazer...[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Sumire]]

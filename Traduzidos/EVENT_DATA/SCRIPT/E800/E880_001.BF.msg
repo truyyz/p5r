@@ -539,7 +539,7 @@
 [s][vp 1 0 0 0 0 0]Dinheiro de ano novo? Vou usá-los[n]para a mamãe, claro![n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_0104_5]
-[s][vp 1 0 0 0 0 0]Eu preciso ter meu trabalho verificad[n]pelo meu professor o quanto antes...[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Eu preciso ter meu trabalho verificado pelo meu[n]professor o mais rápido possível...[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_0119_1]
 [s][vp 1 0 0 0 0 0]Meu pai? Nós nos damos bem.[n]Muitas vezes saímos para beber.[n][f 1 3 65535][w][e]

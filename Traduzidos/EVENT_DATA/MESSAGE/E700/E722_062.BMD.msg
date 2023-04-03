@@ -194,7 +194,7 @@
 [s][bup 0 10 904 65535 0][f 4 10 65535 0 0][vp 8 2 0 57039 65535 0]S-Sério? Muito obrigado...[n][f 1 3 65535][w][e]
 
 [msg MSG_048_0_0 [Sumire]]
-[s][bup 0 10 904 65535 0][f 4 10 65535 0 0][vp 8 2 0 57039 65535 0]O-obrigado. Vou aceitar sua[n]oferta então.[n][f 1 3 65535][w][e]
+[s][bup 0 10 904 65535 0][f 4 10 65535 0 0][vp 8 2 0 57039 65535 0]G-obrigado. Vou aceitar sua[n]oferta então.[n][f 1 3 65535][w][e]
 
 [msg MSG_049_0_0 [Sumire]]
 [s][bup 0 10 904 65535 0][f 4 10 65535 0 0][vp 8 2 0 57039 65535 0]O-Obrigado... Vou garantir que não seja uma perda[n]de tempo.[n][f 1 3 65535][w][e]

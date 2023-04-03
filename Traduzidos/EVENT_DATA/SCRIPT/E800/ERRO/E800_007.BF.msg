@@ -792,7 +792,7 @@
 
 [msg MND_GIFT_017_010 [Hifumi]]
 [s][bup 0 106 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 35 5 100]Uh... O que é isso?[n]O que devo fazer com isso?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 18065 65535 0]O-obrigado.[n]Boa ideia...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 18065 65535 0]G-obrigado.[n]Boa ideia...[n][f 1 3 65535][w][e]
 
 [msg MND_GIFT_017_011]
 [s][vp 8 0 0 0 65535 0]Receio ter falhado[n]impressionar Hifumi com[n]o presente que dei a ela...[n][f 1 3 65535][w][e]

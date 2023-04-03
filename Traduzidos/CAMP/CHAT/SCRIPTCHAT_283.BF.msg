@@ -1,5 +1,5 @@
 [msg MSG_001_0_0 [Ryuji]]
-[s][f 5 14]Cara, tem DEFINITIVAMENTE[n] algo errado com Ushimaru.[n][w][e]
+[s][f 5 14]Heck, que Ushimaru é[n]DEFINITIVAMENTE errado com alguma coisa.[n][w][e]
 
 [msg MSG_002_0_0 [Makoto]]
 [s][f 5 14]O que você quer dizer?[n][w][e]

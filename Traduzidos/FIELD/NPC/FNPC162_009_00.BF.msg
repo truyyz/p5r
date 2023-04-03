@@ -166,7 +166,7 @@
 [s][bup 0 5 3 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4129 65535 0]Então você faz isso por dinheiro...[n][w][e]
 
 [msg D10_09_NPC_04_reason_mes_3 [Ragazzo energico]]
-[s]Maaas, não foi tão simples[n]quanto eu esperava...[n][w][e]
+[s]Maaaa, não foi tão simples[n]quanto eu esperava...[n][w][e]
 [s]Eu estava postando vídeos todos os dias, mas as[n]visualizações eram baixas.[n][w][e]
 [s]Mas então encontrei uma verdadeira mina de ouro![n][w][e]
 [s]Teve um vídeo desse cara[n]criticando muito mal uma celebridade,[n]coisas realmente cruéis...[n][w][e]
@@ -181,7 +181,7 @@
 
 [msg D10_09_NPC_04_reason_mes_6 [Ragazzo energico]]
 [s]Ha ha, você nos pegou![n][w][e]
-[s]As pessoas me odeiam noite e dia[n]nos comentários...até[n]gritam comigo na rua![n][w][e]
+[s]Odiadores me dizem todas as[n]cores nos comentários ... até[n]gritam comigo na rua![n][w][e]
 [s]Mas eu não estou fazendo nada[n]ilegal... na verdade, eu poderia ter[n]acabado muito pior![n][w][e]
 [s]Larguei meu emprego por causa do[n]estresse, mas me tornei um fardo[n]para meus pais...[n][w][e]
 [s]Como um streamer de sucesso, eu[n]ganho o suficiente para viver E[n]para pagar o meu, certo? Não!?![n][w][e]
@@ -323,7 +323,7 @@
 [msg D10_09_NPC_07_reason_mes_6 [Akechi]]
 [s][bup 0 9 810 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Portanto, ele ama sua família e[n]não quer mais nada em sua[n]vida...[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Não faz mal a ninguém[n]e, acima de tudo,[n]não há riscos ou perigos particulares.[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Se esses são os elementos decisivos, esse cara parece[n]bem… mas o que Maruki vai pensar?[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Se esses são os elementos[n]decisivos, esse cara parece bem… mas o que Maruki vai pensar?[n][w][e]
 
 [msg D10_09_NPC_07_reason_mes_7 [Uomo pacato]]
 [s]Eu vou agora![n][w][e]

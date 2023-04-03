@@ -84,7 +84,7 @@
 
 [msg MSG_025_0_0 [Akechi]]
 [s][bup 0 9 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 32 65535 0]A parte "nome"[n]foi meio censurada...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 33 65535 0]Seria obra do senhor[n]do Palácio?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 33 65535 0]Seria obra do senhor[n]do Paço?[n][f 1 3 65535][w][e]
 
 [msg MSG_026_0_0 [Kasumi]]
 [s][bup 0 10 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 34 65535 0]Isso significa que não podemos[n]entrar no Palácio?[n][f 1 3 65535][w][e]

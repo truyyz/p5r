@@ -582,7 +582,7 @@
 
 [msg ALL_RESEARCH_END_mes_3rd [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2019 65535 0]Não é muito, mas pelo menos temos algumas[n]informações.[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0][n]qual seria a resposta que o[n]doutor Maruki consideraria[n]correta?[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Por que não pensamos sobre[n]qual seria a resposta que o[n]doutor Maruki consideraria[n]correta?[n][w][e]
 
 [msg D10_09_question_not_answ [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1038 65535 0]Se tivermos todas as informações,[n]vamos voltar para a sala e[n][clr 2]falar sobre as respostas[clr 27].[n][w][e]
@@ -650,11 +650,11 @@
 [s]Isso é o que o Dr. Maruki[n]faz na vida real, na[n]forma do Palácio.[n][w][e]
 
 [msg D10_09_acceptance_check__13 [Ann]]
-[s][bup 0 4 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6029 65535 0]Então... se cometermos um erro, eles mudarão[n]nossa cognição?[n][w][e]
+[s][bup 0 4 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6029 65535 0]Entãoiii... se cometermos um erro, eles mudarão[n]nossa cognição?[n][w][e]
 
 [msg D10_09_acceptance_check__14 [Futaba]]
 [s][bup 0 8 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Isso só acontece no mundo real. Aqui eles[n]bagunçam a cabeça das pessoas de outras[n]maneiras, eu acho.[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Tipo, eles prendem você em alguma[n]máquina e só BZZZZZT![n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Tipo, eles ligam você para um[n]truque estranho e ... BZZZZZT![n][w][e]
 
 [msg D10_09_acceptance_check__15 [Ryuji]]
 [s][bup 0 2 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7176 65535 0]Ei! Não me assuste tanto...[n][w][e]

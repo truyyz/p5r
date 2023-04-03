@@ -38,7 +38,7 @@
 [s]Eu ainda não decidi.[e]
 
 [msg MSG_C22_ACTION_D09_31_10 [Sumire]]
-[s][bup 0 10 4 65535 0][f 4 10 65535 0 0][f 4 23 1 222 3 10 0 10][vp 8 2 1 57065 65535 0]S-sair? Mas temos que fazer algo[n]antes que seja tarde demais![n][w][e]
+[s][bup 0 10 4 65535 0][f 4 10 65535 0 0][f 4 23 1 222 3 10 0 10][vp 8 2 1 57065 65535 0]vc-sair? Mas temos que fazer algo[n]antes que seja tarde demais![n][w][e]
 
 [sel SEL_C22_ACTION_D09_31_10 top]
 [s]Não pense muito sobre isso.[e]
@@ -281,10 +281,10 @@
 [s][bup 0 10 2 65535 0][f 4 10 65535 0 0][vp 8 2 1 57095 65535 0]Se você tiver algum tempo para mim[n]faça isso, por favor![n][w][e]
 
 [msg MND_COOP_DOUZOKUSEI]
-[s]Sinto que posso me aproximar da [n][f 4 31 10 1] graças ao[n]Persona [clr 1][var 5][clr 27] ([var 2])...[n][w][e]
+[s]Sento di potermi avvicinare a[n][f 4 31 10 1] grazie alla[n]Persona [clr 1][var 5][clr 27] ([var 2])...[n][w][e]
 
 [msg MND_COOP_DOUZOKUSEI_SMR]
-[s]Sinto que posso me aproximar da [n][f 4 31 10 1] graças ao[n]Persona [clr 1][var 5][clr 27] ([var 2])...[n][w][e]
+[s]Sento di potermi avvicinare a[n][f 4 31 10 1] grazie alla[n]Persona [clr 1][var 5][clr 27] ([var 2])...[n][w][e]
 
 [msg MND_COOP_RANKUP_OK_FIRST]
 [s]Pode ser uma boa[n]oportunidade para fortalecer[n]minha ligação com Kasumi...[n][w][e]
@@ -374,7 +374,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 57058 65535 0]Iremos para as gaiolas de rebatidas.[n]Espero que gostem![n][w][e]
 
 [msg MSG_C22_YES_05_00 [Sumire]]
-[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][f 4 23 1 222 3 10 0 10][vp 8 2 1 0 65535 0]O-obrigado![n][w][e]
+[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][f 4 23 1 222 3 10 0 10][vp 8 2 1 0 65535 0]G-obrigado![n][w][e]
 [s][bup 0 10 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 57075 65535 0]Hum, podemos ir para outro lugar?[n]É difícil falar aqui...[n][w][e]
 
 [msg MSG_C22_YES_06_00 [Sumire]]
@@ -419,11 +419,11 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Hum, se for viável,[n]eu iria lá.[n][w][e]
 
 [msg MSG_C22_YES_09_00 [Sumire]]
-[s][bup 0 10 1 65535 0][f 4 10 65535 0 0][f 4 23 1 222 3 10 0 10][vp 8 2 1 57039 65535 0]O-obrigado![n][w][e]
+[s][bup 0 10 1 65535 0][f 4 10 65535 0 0][f 4 23 1 222 3 10 0 10][vp 8 2 1 57039 65535 0]G-obrigado![n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Então vamos nos preparar e ir[n]para a academia![n][w][e]
 
 [msg MSG_C22_YES_09_01 [Sumire]]
-[s][bup 0 10 1 65535 0][f 4 10 65535 0 0][f 4 23 1 222 3 10 0 10][vp 8 2 1 57039 65535 0]O-obrigado![n][w][e]
+[s][bup 0 10 1 65535 0][f 4 10 65535 0 0][f 4 23 1 222 3 10 0 10][vp 8 2 1 57039 65535 0]G-obrigado![n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Então vamos nos preparar e ir[n]para a academia![n][w][e]
 
 [msg MSG_MORGANA_COOP_ESCAPE [Morgana]]

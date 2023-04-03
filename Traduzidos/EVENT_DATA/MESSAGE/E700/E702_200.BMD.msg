@@ -26,7 +26,7 @@
 [s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 2019 65535 0]Você se lembra, antes de me juntar aos[n]Phantom Thieves, quando chamei você[n]para a sala do conselho estudantil?[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Makoto]]
-[s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu questionei seus ideais,[n]ameacei processar você... mas[n]não tinha ideia da situação.[n][f 1 3 65535][w][e]
+[s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu questionei seus ideais,[n]amacei processar você... mas[n]não tinha ideia da situação.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Mas desde então, aprendi muito[n]com os Phantom Thieves. De você.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Perdi a conta de quantas vezes[n]você me salvou.[n][f 1 3 65535][w][e]
 

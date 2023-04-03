@@ -18,7 +18,7 @@
 
 [msg telop_004]
 [s]25 de março.[n]Hoje tive uma sessão com[n]uma pessoa realmente interessante.[n]Ela perdeu a irmã mais velha em um[n]acidente e está devastada pela dor.[n][ n] Não posso sentar aqui e vê-la[n]sofrer pelo resto de[n]sua vida. O propósito da minha pesquisa[n]é salvar pessoas como ela.[n]Meus experimentos[n]ensinaram-me que posso modificar[n]qualquer cognição que surja em meu caminho.[n][w][e]
-[s]Se ela não consegue se livrar da dor[n]e da culpa, apenas faça-a[n]pensar que é sua irmã.[n]Seria o tratamento mais direto[n]e eficaz.[n]Dito isso, eu tive que alterar[n]sua cognição bastante para[n]o efeito se manifestar.[n]Eu nunca alterei uma cognição tão[n]tão radicalmente.[n]Vou ter que ficar de olho nisso[n]para ver como as coisas se desenvolvem.[n][w][e]
+[s]Se ela não consegue se livrar da[n]dor e da culpa,[n]apenas faça-a pensar que é[n]sua irmã.[n]Seria o tratamento mais direto[n]e eficaz.[n]Dito isso, eu tive que alterar[n]sua cognição bastante para[n]o efeito se manifestar.[n]Eu nunca alterei uma cognição tão[n]tão radicalmente.[n]Vou ter que ficar de olho nisso para ver como as coisas se desenvolvem.[n][w][e]
 
 [msg telop_005]
 [s]1º de janeiro[n]Finalmente consegui...[n]com resultados muito melhores do que[n]o que eu esperava.[n]De acordo com meus dados, a realidade e o[n]mundo cognitivo são fusão.[n]Pode parecer absurdo, mas...[n]eu sou o arquiteto de tudo isso.[n]Eu nunca esperei isso:[n]realidade como um todo[n]está provando minha tese.[n][w][e]
