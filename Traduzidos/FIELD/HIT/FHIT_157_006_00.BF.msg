@@ -1,17 +1,17 @@
 [msg Dummy]
 [s]......[n][w][e]
 
-[msg test_COUNTER_mes01 [Coniglietta Ombra]]
+[msg test_COUNTER_mes01 [Coelho das sombras]]
 [s]Você gostaria de trocar 50.000 moedas por[n]uma peça de apostas altas?[n][w][e]
 
 [sel test_COUNTER_selA top]
 [s]Sim, obrigado.[e]
 [s]Não, obrigado.[e]
 
-[msg test_COUNTER_selA_0_mes0 [Coniglietta Ombra]]
+[msg test_COUNTER_selA_0_mes0 [Coelho das sombras]]
 [s]Em seguida, procedemos[n]com a troca.[n][w][e]
 
-[msg test_COUNTER_selA_0_mes0_2 [Coniglietta Ombra]]
+[msg test_COUNTER_selA_0_mes0_2 [Coelho das sombras]]
 [s]Ele não tem moedas suficientes.[n][w][e]
 
 [msg test_COUNTER_selA_1_mes0 [Morgana]]
@@ -66,19 +66,19 @@
 [s][clr 4]セーフルーム内で作戦会議。[n]この後のやる事として、¹下を説明。[clr 27][n][w][e]
 [s]コインを[clr 2]5万枚稼ぐÈに[n]サイコロゲーム[clr 27]から攻略する。[n][w][e]
 
-[msg e383_005_mes01 [Ombra di Sae]]
+[msg e383_005_mes01 [Sombra de Sae]]
 [s]Que truque engenhoso.[n][w][e]
 
 [msg e383_005_mes02 [Akechi]]
 [s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Nós seguimos suas regras.[n][w][e]
 
-[msg e383_005_mes03 [Ombra di Sae]]
+[msg e383_005_mes03 [Sombra de Sae]]
 [s]Umpf! Eu sou o gerente[n]deste cassino, e as regras dizem[n]que eu venço![n][w][e]
 
 [msg e383_005_mes04 [Akechi]]
 [s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Parece que tanto o Sae-san deste[n]mundo quanto o do mundo[n]real são frutíferos...[n][w][e]
 
-[msg e383_005_mes05 [Ombra di Sae]]
+[msg e383_005_mes05 [Sombra de Sae]]
 [s]...Acho que nossos convidados[n]vão se despedir agora.[n][w][e]
 
 [msg e383_005_mes06 [Ryuji]]
@@ -90,7 +90,7 @@
 [msg D157_006_miniEV_01_mes01 [Voz masculina]]
 [s]... Por favor, desculpem-me, senhores.[n][w][e]
 
-[msg D157_006_miniEV_01_mes02 [Cassiere Ombra]]
+[msg D157_006_miniEV_01_mes02 [Caixa sombra]]
 [s]Você ainda não[n]se registrou. Esse caminho por favor.[n][w][e]
 
 [msg D157_006_miniEV_01_mes03 [Akechi]]

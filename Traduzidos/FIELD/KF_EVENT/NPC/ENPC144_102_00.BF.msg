@@ -24,13 +24,13 @@
 [msg MSG_E14410200_Anne_grt_0]
 [s]Que [clr 2]o[clr 27] está ocupado...?[n][f 1 2 65535][e]
 
-[msg MSG_E14410200_Men_000_00 [Ragazzo appariscente]]
+[msg MSG_E14410200_Men_000_00 [Garoto chamativo]]
 [s][f 4 23 1 855 3 10 0 0][vp 8 2 1 0 855 0]Ei... Não era aquela[n]garota fofa que passou correndo?[n][w][e]
 
-[msg MSG_E14410200_Men_001_00 [Uomo tranquillo]]
+[msg MSG_E14410200_Men_001_00 [Homem quieto]]
 [s][f 4 23 1 856 3 10 0 0][vp 8 2 1 0 856 0]O que eu sei? Eu não[n]olho no rosto de todos aqueles[n]que passam por mim.[n][w][e]
 
-[msg MSG_E14410200_Men_000_01 [Ragazzo appariscente]]
+[msg MSG_E14410200_Men_000_01 [Garoto chamativo]]
 [s][f 4 23 1 855 3 10 0 0][vp 8 2 1 0 855 0]Quão bonita era a garota que[n]passou correndo. Se ela fosse[n]minha namorada, eu me gabaria disso...[n][w][e]
 
 [msg MSG_E14410200_Men_grt_00]
@@ -39,16 +39,16 @@
 [msg MSG_E14410200_Men_grt_00_2]
 [s]Que fofa aquela garota![n][f 1 2 65535][e]
 
-[msg MSG_E14410200_Women_000_ [Donna dai capelli castani]]
+[msg MSG_E14410200_Women_000_ [Mulher de cabelo castanho]]
 [s][f 4 23 1 857 3 10 0 0][vp 8 2 1 0 857 0]Olhe para aquela garota... Ela não está chorando?[n][w][e]
 
-[msg MSG_E14410200_Women_001_ [Donna distaccata]]
+[msg MSG_E14410200_Women_001_ [Mulher distante]]
 [s][f 4 23 1 858 3 10 0 0][vp 8 2 1 0 858 0]Provavelmente foi deixado[n]ou algo assim. Vamos, deixe-a em paz.[n][w][e]
 
-[msg MSG_E14410200_Women_000__2 [Donna distaccata]]
+[msg MSG_E14410200_Women_000__2 [Mulher distante]]
 [s][f 4 23 1 858 3 10 0 0][vp 8 2 1 0 858 0]Deixa a em paz.[n][w][e]
 
-[msg MSG_E14410200_Women_001__2 [Donna dai capelli castani]]
+[msg MSG_E14410200_Women_001__2 [Mulher de cabelo castanho]]
 [s][f 4 23 1 857 3 10 0 0][vp 8 2 1 0 857 0]Sim, você está certo.[n]Não é da nossa conta...[n][w][e]
 
 [msg MSG_E14410200_Women_grt_]

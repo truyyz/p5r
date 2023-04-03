@@ -574,91 +574,91 @@
 [msg MND_CrossWord_NG]
 [s]O Leblanc ainda está aberto...[n][w][e]
 
-[msg MSG_CrossWord_Trivia01 [SEMESTRI]]
+[msg MSG_CrossWord_Trivia01 [SEMESTRES]]
 [s]Muitas escolas dividem o ano em dois semestres ou[n]três semestres. No Japão, o ano letivo começa em[n]abril.[n][w][e]
 [s]No entanto, o governo japonês divide o ano de[n]maneira diferente . Por exemplo, o período de[n]julho a junho é "o ano do grão".[n][w][e]
 
-[msg MSG_CrossWord_Trivia02 [FIORITURA]]
+[msg MSG_CrossWord_Trivia02 [FLORAÇÃO]]
 [s]Literalmente "admirar as flores", hanami é uma[n]antiga tradição japonesa de apreciar as flores[n]das cerejeiras e a chegada da primavera.[n][w][e]
 [s]A "flor" mencionada na poesia tradicional[n]japonesa é a flor da ameixeira. Durante o[n]período heian tornou-se a flor de cerejeira.[n][w][e]
 
-[msg MSG_CrossWord_Trivia03 [GOLDEN]]
+[msg MSG_CrossWord_Trivia03 [DOURADO]]
 [s]A Golden Week geralmente vai do final de abril ao[n]início de maio e também inclui sábados e[n]domingos.[n][w][e]
 [s]"Golden" vem do termo da televisão japonesa[n]"golden time" e refere-se ao horário com as[n]maiores avaliações diárias.[n][w][e]
 
-[msg MSG_CrossWord_Trivia04 [MALUMORE]]
+[msg MSG_CrossWord_Trivia04 [Mau humor]]
 [s]No Japão, "May Blues" é definido como aquele mau[n]humor derivado da mudança de estação e do[n]aumento de doenças após os feriados prolongados[n]no início de abril.[n][w][e]
 [s]No resto do mundo usam-se expressões semelhantes.[n]Por exemplo, na América falamos sobre "September[n]Blues" ao retornar das férias de verão.[n][w][e]
 
-[msg MSG_CrossWord_Trivia05 [GALLERIA]]
+[msg MSG_CrossWord_Trivia05 [GALERIA]]
 [s]A galeria é o espaço onde as obras arte são[n]expostas ou onde o público se reúne para[n]assistir a os eventos, como concertos ou peças[n]de teatro.[n][w][e]
 [s]Também pode se referir a um túnel de mina ou[n]uma passagem criada por um animal, como[n]exemplo as tocas subterrâneas de toupeiras.[n][w][e]
 
-[msg MSG_CrossWord_Trivia06 [POLLINOSI]]
+[msg MSG_CrossWord_Trivia06 [POLENOSE]]
 [s]Reação alérgica causada pelo pólen que entra em[n]contato com as membranas mucosas do nariz ou dos[n]olhos. Causa espirros, corrimento nasal e[n]coceira nos olhos.[n][w][e]
 [s]Esses sintomas freqüentemente se manifestavam[n]quando os fazendeiros ingleses estavam colhendo[n]suas pastagens, daí o nome comum "febre do feno".[n][w][e]
 
-[msg MSG_CrossWord_Trivia07 [NIPPONICA]]
+[msg MSG_CrossWord_Trivia07 [JAPONÊS]]
 [s]Ao contrário dos estilos de arte ocidentais[n]importados, pinturas produzidas depois de 1900[n]com técnicas japonesas são chamadas de "Nihonga".[n][w][e]
 [s]Durante il periodo Meiji i turisti in Giappone[n]chiamavano queste opere "dipinti giapponesi",[n]letteralmente "Nihon" (Giappone) e "ga" (opera).[n][w][e]
 
-[msg MSG_CrossWord_Trivia08 [MAESTRO]]
+[msg MSG_CrossWord_Trivia08 [MESTRE]]
 [s]A expressão "mestre da arte" é um título[n]reservado para artistas de incrível talento e[n]técnica, que se tornaram muito influentes em[n]seus campos e gêneros específicos.[n][w][e]
 [s]Um dos mestres mais prolíficos da pintura, Pablo[n]Picasso, também tem um dos nomes completos mais[n]longos da história da arte: impressionantes 103[n]letras![n][w][e]
 
-[msg MSG_CrossWord_Trivia09 [CONFERENZA]]
+[msg MSG_CrossWord_Trivia09 [CONFERÊNCIA]]
 [s]É quando a imprensa se reúne para ouvir e relatar[n]as informações que se tornam públicas. Pode ser[n]agendada ou de última hora.[n][w][e]
 [s]Em uma coletiva de imprensa, geralmente[n]estabelecem-se entradas e saídas diferentes,[n]para evitar assaltos da imprensa na saída.[n][w][e]
 
-[msg MSG_CrossWord_Trivia10 [GUARDAROBA]]
+[msg MSG_CrossWord_Trivia10 [GUARDA-ROUPA]]
 [s]Estudantes japoneses trocam de guarda-roupa duas[n]vezes por ano para ficarem mais confortáveis.[n]Cada uniforme escolar tem uma versão de verão e[n]outra de inverno.[n][w][e]
 [s]Diz-se que a mudança de guarda-roupa se originou[n]na China. No período Edo, as pessoas tinham que[n]mudar de guarda-roupa quatro vezes por ano.[n][w][e]
 
-[msg MSG_CrossWord_Trivia11 [DENARO]]
+[msg MSG_CrossWord_Trivia11 [DINHEIRO]]
 [s]Termo genérico para dinheiro, "money" vem do[n]latim "denarius", que significava uma moeda do[n]valor de dez asses.[n][w][e]
 [s]Ao longo da história, uma variedade incrível de[n]objetos foi usada como moeda:[n]rochas, conchas, gado, penas, sal.[n][w][e]
 
-[msg MSG_CrossWord_Trivia12 [FRONTE]]
+[msg MSG_CrossWord_Trivia12 [TESTA]]
 [s]Quando as correntes de ar frio e quente colidem,[n]o limite é chamado de frente estacionária. Por[n]exemplo, a frente de chuva dura da primavera ao[n]verão.[n][w][e]
 [s]A estação chuvosa no Japão é chamada de "tsuyu",[n]cujos caracteres são "ameixa" e "chuva". Talvez[n]porque coincide com o amadurecimento das ameixas.[n][w][e]
 
-[msg MSG_CrossWord_Trivia13 [NARCOTICI]]
+[msg MSG_CrossWord_Trivia13 [NARCÓTICOS]]
 [s]Refere-se a qualquer droga que induz à[n]sonolência, mas mais frequentemente é usada como[n]um termo para drogas usadas legal e ilegalmente.[n][w][e]
 [s]A morfina, um narcótico comum usado como[n]analgésico em muitas instalações médicas, deve[n]seu nome a Morfeu, o deus grego do sono.[n][w][e]
 
-[msg MSG_CrossWord_Trivia14 [VACANZE]]
+[msg MSG_CrossWord_Trivia14 [FÉRIAS]]
 [s]As férias mais comuns para escolas e empresas são[n]no verão. Sua duração depende da prefeitura, mas[n]é sempre uma pausa longa e esperada.[n][w][e]
 [s]O Japão tem outro período de férias no outono.[n]Dura de três a sete dias, bem menos que[n]o verão, mas é sempre bem-vindo.[n][w][e]
 
-[msg MSG_CrossWord_Trivia15 [ESAMI]]
+[msg MSG_CrossWord_Trivia15 [EXAMES]]
 [s]Os exames são realizados no final do semestre ou[n]período para determinar a proficiência dos[n]alunos em cada matéria.[n][w][e]
 [s]No Japão, "O" e "X" são usados em avaliações,[n]cujo significado varia de outros países.[n]"O" nem sempre significa que a resposta está certa![n][w][e]
 
-[msg MSG_CrossWord_Trivia16 [ARTIFICIO]]
+[msg MSG_CrossWord_Trivia16 [ARTIFICIAÇÃO]]
 [s]Este show ao ar livre é popular há séculos.[n]Contêineres são preenchidos com explosivos e[n]compostos químicos para criar sons de cor, fumaça e explosão.[n][w][e]
 [s]Você sabia que os fogos de artifício não apitam[n]depois de lançados? O apito de um foguete é o[n]resultado de um componente dedicado.[n][w][e]
 
-[msg MSG_CrossWord_Trivia17 [ISOLA]]
+[msg MSG_CrossWord_Trivia17 [ILHA]]
 [s]Ilhas de calor são áreas mais quentes do que seus[n]arredores, resultantes de pouca retenção de água[n]e alta absorção de calor.[n][w][e]
 [s]I giorni in cui la massima supera i 25 gradi sono detti[n]"natsubi" (estate), oltre i 30 "manatsubi" (mezza estate)[n]e oltre i 35 sono i "moushoubi" (molto caldi).[n][w][e]
 
-[msg MSG_CrossWord_Trivia18 [CORAGGIO]]
+[msg MSG_CrossWord_Trivia18 [CORAGEM]]
 [s]Um teste comum de coragem é entrar em lugares[n]assustadores ou sinistros. No Japão, esses[n]lugares costumam ser cemitérios ou templos[n]escuros.[n][w][e]
 [s]O antigo jogo de coragem "100 Contos Fantásticos"[n]começou no período Edo e tornou-se popular entre[n]os samurais para testar seus nervos.[n][w][e]
 
-[msg MSG_CrossWord_Trivia19 [USTIONE]]
+[msg MSG_CrossWord_Trivia19 [QUEIMAR]]
 [s]Inflamação da pele causada por[n]raios ultravioleta do sol, resultando em uma[n]alteração temporária na pigmentação da pele.[n][w][e]
 [s]Os raios UV são refletidos de muitas superfícies,[n]incluindo água, areia e neve. Isso pode causar[n]queimaduras mesmo durante o esqui.[n][w][e]
 
-[msg MSG_CrossWord_Trivia20 [TORRIDO]]
+[msg MSG_CrossWord_Trivia20 [QUENTE]]
 [s]No Japão, um dia é considerado escaldante quando[n]a temperatura mínima ultrapassa 25 graus. Isso[n]se deve ao efeito de ilha de calor.[n][w][e]
 [s]Antes que o termo "insolação" se tornasse comum,[n]acreditava-se que as mortes causadas por ele[n]eram causadas por causas não naturais.[n][w][e]
 
-[msg MSG_CrossWord_Trivia21 [HACKER]]
+[msg MSG_CrossWord_Trivia21 [HACKERS]]
 [s]Embora usado para significar um criminoso, um[n]"hacker" é qualquer pessoa que entra em qualquer[n]sistema protegido, seja com intenção maliciosa[n]ou não.[n][w][e]
 [s]Um "chapéu branco" é definido como um hacker que[n]ajuda a revelar vulnerabilidades nos sistemas,[n]em oposição ao "chapéu preto" que os viola[n]ilegalmente com efeitos nocivos.[n][w][e]
 
-[msg MSG_CrossWord_Trivia22 [TIFONE]]
+[msg MSG_CrossWord_Trivia22 [TUFÃO]]
 [s]Refere-se a ciclones tropicais com ventos[n]sustentados de velocidades de pelo menos 118[n]km/h soprando na região do noroeste do Pacífico.[n][w][e]
 [s]A escala de intensidade do ciclone no Japão tem[n]mais de oito categorias, incluindo: "Tufão",[n]"Tufão Muito Forte" e "Tufão Violento".[n][w][e]
 
@@ -666,27 +666,27 @@
 [s]Tsukimi é um festival tradicional de contemplação[n]da lua no outono. Também existem termos para[n]olhar para a lua quando chove ou quando é nova.[n][w][e]
 [s]Para preparar o "Tsukimi dango", o número certo[n]de peças depende da data. Se o Tsukimi cair no[n]dia 15, as peças serão 15; se cair no dia 13,[n]será 13.[n][w][e]
 
-[msg MSG_CrossWord_Trivia24 [CLASSIFICA]]
+[msg MSG_CrossWord_Trivia24 [CLASSIFICAÇÃO]]
 [s]Com uma tabela de classificação, é mais fácil[n]classificar vários itens, independentemente de[n]seu tamanho. Ao escolher um fator específico, a[n]classificação se torna mais fácil.[n][w][e]
 [s]A votação pode ser complexa. O método de Borda[n]permite que os eleitores classifiquem suas[n]escolhas, que são contadas em vez de votos.[n][w][e]
 
-[msg MSG_CrossWord_Trivia25 [NERO]]
+[msg MSG_CrossWord_Trivia25 [PRETO]]
 [s]Essa cor aparece em inúmeras expressões e[n]metáforas com significados negativos, como[n]"lista negra", "mercado negro" e "ovelha negra".[n][w][e]
 [s]Vários países têm uma bandeira que contém preto,[n]mas há muitos significados por trás dessa cor,[n]como batalhas ou o passado de uma nação.[n][w][e]
 
-[msg MSG_CrossWord_Trivia26 [HALLOWEEN]]
+[msg MSG_CrossWord_Trivia26 [DIA DAS BRUXAS]]
 [s]Festa de origens conflitantes realizada em 31 de[n]outubro. É afirmado ser um festival celta da[n]colheita ou um festival cristão em homenagem aos[n]santos.[n][w][e]
 [s]O termo "jack-o'-lantern" também tem origens[n]diferentes, mas todos concordam que a escultura[n]em cabaça se originou na Irlanda.[n][w][e]
 
-[msg MSG_CrossWord_Trivia27 [STAND]]
+[msg MSG_CrossWord_Trivia27 [FICAR]]
 [s]Essas lojinhas costumam ser montadas em feiras ou[n]mesmo em eventos escolares pelos próprios[n]alunos. Você encontra ali todo tipo de comida e[n]outros produtos.[n][w][e]
 [s]A equipe do estande deve atender a certos[n]requisitos para ser capaz de operar, como enviar[n]relatórios ao departamento de saúde e cumprir[n]certas normas de segurança.[n][w][e]
 
-[msg MSG_CrossWord_Trivia28 [RICOMPENSA]]
+[msg MSG_CrossWord_Trivia28 [RECOMPENSA]]
 [s]Dinheiro concedido a quem fornecer informações[n]decisivas sobre um caso, satisfazendo os pedidos[n]de quem coleta as informações.[n][w][e]
 [s]No caso de múltiplos informantes, a recompensa[n]concedida pelo Sistema de Incentivo de[n]Investigação Especial do Japão varia de acordo[n]com o grau de utilidade.[n][w][e]
 
-[msg MSG_CrossWord_Trivia29 [ATTACCO]]
+[msg MSG_CrossWord_Trivia29 [ATAQUE]]
 [s]Hoje, "ataque" não está apenas no contexto[n]militar, mas também é usado para indicar[n]a crítica a uma pessoa ou grupo.[n][w][e]
 [s]O termo também pode se referir à parte ofensiva[n]de uma equipe esportiva, ao início de uma peça[n]musical ou mesmo a uma crise aguda de uma doença.[n][w][e]
 
@@ -694,31 +694,31 @@
 [s]A habilidade de atrair ou encantar os outros.[n]Derivado do grego "cháris", que significa[n]"graça" ou "presente".[n][w][e]
 [s]O carisma não depende da bondade ou maldade de[n]uma pessoa. Um homem, bom ou mau, é carismático[n]se tem o poder de atrair os outros.[n][w][e]
 
-[msg MSG_CrossWord_Trivia31 [INFLUENZA]]
+[msg MSG_CrossWord_Trivia31 [INFLUÊNCIA]]
 [s]Doença infecciosa que causa febre alta e dor nas[n]articulações. Esse vírus pode sobreviver fora do[n]corpo humano por vários dias.[n][w][e]
 [s]Mentre l'influenza è difficile da combattere a causa[n]della sua mutazione genetica, altre malattie simili[n]sono state debellate, come la peste bovina (2001).[n][w][e]
 
-[msg MSG_CrossWord_Trivia32 [ILLUMINA]]
+[msg MSG_CrossWord_Trivia32 [ILUMINAR]]
 [s]Chiamate "denshoku" ("luci decorative"), luci come[n]strisce a LED o lampadine illuminano cartelli o[n]altro per attirare l'attenzione su una pubblicità.[n][w][e]
 [s]No passado, as únicas luzes LED coloridas eram[n]vermelhas. Depois que o verde, o azul e o branco[n]foram desenvolvidos, o espectro completo[n]tornou-se disponível para os anunciantes.[n][w][e]
 
-[msg MSG_CrossWord_Trivia33 [CONSENSO]]
+[msg MSG_CrossWord_Trivia33 [CONSENTIMENTO]]
 [s]Um valor numérico que indica a opinião opinião da[n]sociedade sobre algo, como o líder de uma nação[n]ou um partido político. Consenso e capacidade[n]política não estão conectados.[n][w][e]
 [s]Os dados são calculados com uma pesquisa[n]realizada em uma amostra de pessoas, não em toda[n]a população, portanto os resultados podem não[n]ser precisos.[n][w][e]
 
-[msg MSG_CrossWord_Trivia34 [NATALE]]
+[msg MSG_CrossWord_Trivia34 [NATAL]]
 [s]25 de dezembro de acordo com o calendário[n]gregoriano, o dia do nascimento de Jesus Cristo[n]e o dia após o trabalho de cair o queixo do[n]Papai Noel.[n][w][e]
 [s]O governo dos EUA tem um programa que rastreia o[n]Papai Noel todos os anos. Segundo dados, viaja[n]100 vezes mais rápido que o Shinkansen.[n][w][e]
 
-[msg MSG_CrossWord_Trivia35 [PROPOSITI]]
+[msg MSG_CrossWord_Trivia35 [PROPOSTAS]]
 [s]Metas pessoais para o próximo ano. Eles são[n]formulados antes ou no início do ano novo.[n]Muitas pessoas tentam fazê-los o ano todo.[n][w][e]
 [s]Um dos kanji para "propósito" significa "fardo",[n]mas o próprio termo não é usado com um[n]significado negativo: é um simples[n]reconhecimento de responsabilidade.[n][w][e]
 
-[msg MSG_CrossWord_Trivia36 [DIONISO]]
+[msg MSG_CrossWord_Trivia36 [DIONÍSIO]]
 [s]Um deus na mitologia grega, cujo nome significa[n]"jovem Zeus". Ele viajou para vários lugares,[n]construindo um culto de fanáticos devotos.[n][w][e]
 [s]O filósofo Nietzsche apontou para os dois[n]princípios centrais da antiga cultura grega,[n]"apolínea" e "dionisíaca", em sua obra "O[n]Nascimento da Tragédia".[n][w][e]
 
-[msg MSG_CrossWord_Trivia37 [LACHESI]]
+[msg MSG_CrossWord_Trivia37 [LACHESIS]]
 [s]Ela é uma das três deusas gregas do destino, com[n]sua irmã mais velha Clotho e sua irmã mais nova[n]Atropos. É a deusa quem mede o fio do destino[n]para cortar.[n][w][e]
 [s]"Lachesis" também é o nome de um gênero de[n]víboras, mais comumente conhecido como "terror[n]da floresta". Elas são as cobras venenosas mais[n]longas do Ocidente.[n][w][e]
 
@@ -975,7 +975,7 @@
 [s]Panamá Esmeralda Gueixa[e]
 [s]Indonésia Kopi Luwak[e]
 
-[msg SYS_050_1_0 [Giamaica Blue Mountain]]
+[msg SYS_050_1_0 [Jamaica Montanha Azul]]
 [s][vp 8 2 65535 0 0 0]As Montanhas Azuis da Jamaica, com seu[n]clima único e solo vulcânico, são[n]ideais para o cultivo deste café.[n][w][e]
 [s][vp 8 2 65535 0 0 0]Recolhido em pequenas quantidades e submetido a[n]controlos muito rigorosos, o resultado é um café[n]de alta qualidade e aroma pleno.[n][w][e]
 
@@ -983,7 +983,7 @@
 [s][vp 8 2 65535 0 0 0]O solo vulcânico da Guatemala é ideal para o[n]café. Os feijões são classificados de acordo com[n]a altitude das lavouras.[n][w][e]
 [s][vp 8 2 65535 0 0 0]I chicchi SHB (Strictly Hard Bean), che[n]crescono a oltre 1.300 metri, hanno[n]un'acidità simile a quella degli agrumi.[n][w][e]
 
-[msg SYS_052_1_0 [Colombia Nariño]]
+[msg SYS_052_1_0 [Colômbia Narino]]
 [s][vp 8 2 65535 0 0 0]A altitude, o clima chuvoso e o solo[n]das montanhas colombianas são a receita[n]ideal para um café de alta qualidade.[n][w][e]
 [s][vp 8 2 65535 0 0 0]O café Nariño tem um corpo espesso[n]e cremoso, que envolve o paladar[n]com aromas frutados e notas de avelã.[n][w][e]
 
@@ -991,19 +991,19 @@
 [s][vp 8 2 65535 0 0 0]Cuba é a maior ilha do Caribe.[n]O café cubano é conhecido por seu[n]aroma e sabor encorpado.[n][w][e]
 [s][vp 8 2 65535 0 0 0]Crystal Mountain é feito usando[n]apenas os maiores kernels. Tem um sabor[n]doce, ligeiramente ácido e com notas de avelã.[n][w][e]
 
-[msg SYS_054_1_0 [Hawaii Kona]]
+[msg SYS_054_1_0 [Havaí Kona]]
 [s][vp 8 2 65535 0 0 0]Uma especialidade havaiana. Devido à raridade[n]e ao preço dos grãos Kona, uma mistura[n]Kona contém apenas 10% desses grãos.[n][w][e]
 [s][vp 8 2 65535 0 0 0]Um Kona 100% pode obter preços bastante altos. Um[n]bom Kona tem um sabor rico, uma forte acidez e[n]um aroma complexo.[n][w][e]
 
-[msg SYS_055_1_0 [Etiopia Moka Harrar]]
+[msg SYS_055_1_0 [Etiópia Moka Harrar]]
 [s][vp 8 2 65535 0 0 0]Mokha é uma cidade portuária no Iêmen[n]de onde tanto o café[n]iemenita quanto o etíope Moka Harrar são exportados.[n][w][e]
 [s][vp 8 2 65535 0 0 0]O café desta região foi[n]apelidado de "Moka". Tem um sabor picante[n]e um aroma forte com notas de amora.[n][w][e]
 
-[msg SYS_056_1_0 [Moka Matari]]
+[msg SYS_056_1_0 [Mocha Matari]]
 [s][vp 8 2 65535 0 0 0]Mokha é uma cidade portuária no Iêmen[n]de onde tanto o café[n]iemenita quanto o etíope Moka Harrar são exportados.[n][w][e]
 [s][vp 8 2 65535 0 0 0]Moka Matari tem um perfil de sabor complexo. É[n]picante, tem notas de chocolate e tons quase[n]"vinosos".[n][w][e]
 
-[msg SYS_057_1_0 [Mexico Altura]]
+[msg SYS_057_1_0 [México Altura]]
 [s][vp 8 2 65535 0 0 0]Diz-se que o café chegou ao México no século[n]XVIII graças aos espanhóis. Hoje, o México é um[n]dos maiores produtores mundiais de café.[n][w][e]
 [s][vp 8 2 65535 0 0 0]Altura ("altezza" in spagnolo) sta a indicare[n]l'altitudine alla quale crescono i chicchi di[n]questo caffè dai toni aciduli e di nocciola.[n][w][e]
 
@@ -1011,7 +1011,7 @@
 [s][vp 8 2 65535 0 0 0]O Brasil é o maior produtor de café[n]do mundo. O feijão brasileiro é de alta[n]qualidade, amargo e ácido na medida certa.[n][w][e]
 [s][vp 8 2 65535 0 0 0]Noto anche come Santos, il N° 2/18 è uno dei[n]caffè brasiliani più apprezzati. Il 2 indica[n]la qualità, il 18 le dimensioni del chicco.[n][w][e]
 
-[msg SYS_059_1_0 [Colombia Bucaramanga Supremo]]
+[msg SYS_059_1_0 [Colômbia Bucaramanga Supremo]]
 [s][vp 8 2 65535 0 0 0]A altitude, o clima chuvoso e o solo[n]das montanhas colombianas são a receita[n]ideal para um café de alta qualidade.[n][w][e]
 [s][vp 8 2 65535 0 0 0]"Supremo" representa o tamanho do grão,[n]enquanto "Bucamaranga" indica a origem.[n]Tem sabor doce e acidez moderada.[n][w][e]
 
@@ -1019,15 +1019,15 @@
 [s][vp 8 2 65535 0 0 0]A Costa Rica, país dotado de imensas[n]riquezas naturais, há séculos exporta[n]café para todo o mundo.[n][w][e]
 [s][vp 8 2 65535 0 0 0]SHB é uma classificação atribuída aos cafés que[n]crescem a cerca de 1300 metros de altitude. É um[n]café doce com sabor refinado.[n][w][e]
 
-[msg SYS_061_1_0 [Kenya AA]]
+[msg SYS_061_1_0 [Quênia AA]]
 [s][vp 8 2 65535 0 0 0]As plantações de café do Quênia são[n]estritamente controladas e são conhecidas[n]por seus grãos da mais alta qualidade.[n][w][e]
 [s][vp 8 2 65535 0 0 0]Kenya AA é cultivada em altitudes elevadas.[n]AA significa qualidade.[n]Tem um aroma completo e acidez moderada.[n][w][e]
 
-[msg SYS_062_1_0 [Brasile Bourbon]]
+[msg SYS_062_1_0 [Brasil Bourbon]]
 [s][vp 8 2 65535 0 0 0]O Brasil é o maior produtor de café[n]do mundo. O feijão brasileiro é de alta[n]qualidade, amargo e ácido na medida certa.[n][w][e]
 [s][vp 8 2 65535 0 0 0]O Brasil Bourbon é um café raro, pois[n]é produzido apenas em pequenas quantidades.[n]É doce e tem uma nota final muito limpa.[n][w][e]
 
-[msg SYS_063_1_0 [Colombia 100% Typica]]
+[msg SYS_063_1_0 [Colombiano 100% Típico]]
 [s][vp 8 2 65535 0 0 0]A altitude, o clima chuvoso e o solo[n]das montanhas colombianas são a receita[n]ideal para um café de alta qualidade.[n][w][e]
 [s][vp 8 2 65535 0 0 0]Este café é produzido a partir de[n]grãos 100% Typica e é muito raro, mas dá[n]uma frescura cítrica e um aroma perfumado.[n][w][e]
 
@@ -1035,7 +1035,7 @@
 [s][vp 8 2 65535 0 0 0]Honduras é um país predominantemente montanhoso.[n]A classificação de seu café é determinada pela[n]altitude em que é cultivado.[n][w][e]
 [s][vp 8 2 65535 0 0 0]Il caffè SHG (Strictly High Grown), come l'SHB,[n]cresce ad altezze elevate. Ha un aroma[n]ricco, fruttato, e una delicata acidità.[n][w][e]
 
-[msg SYS_065_1_0 [Guatemala Antigua]]
+[msg SYS_065_1_0 [Guatemala Antígua]]
 [s][vp 8 2 65535 0 0 0]O solo vulcânico da Guatemala é ideal para o[n]café. Os feijões são classificados de acordo com[n]a altitude das lavouras.[n][w][e]
 [s][vp 8 2 65535 0 0 0]Devido aos minerais e substâncias presentes no[n]solo, o café Antigua tem uma acidez suave e um[n]sabor fresco.[n][w][e]
 
@@ -1043,11 +1043,11 @@
 [s][vp 8 2 65535 0 0 0]Hoje, o café representa mais de 50% das[n]exportações de El Salvador. Seu Pacamara[n]é um café híbrido específico para esta região.[n][w][e]
 [s][vp 8 2 65535 0 0 0]Pacamara é feito de uma planta híbrida[n]que produz grãos grandes.[n]Tem um corpo denso, com notas de chocolate.[n][w][e]
 
-[msg SYS_067_1_0 [Panama Esmeralda Geisha]]
+[msg SYS_067_1_0 [Panamá Esmeralda Gueixa]]
 [s][vp 8 2 65535 0 0 0]Essa variedade muito procurada detém[n]o recorde de preço de leilão mais alto[n]no Leilão Internacional de Café no Panamá.[n][w][e]
 [s][vp 8 2 65535 0 0 0]É um café muito valorizado, mas muito raro,[n]devido ao cultivo limitado.[n]Tem um aroma floral e um sabor doce.[n][w][e]
 
-[msg SYS_068_1_0 [Indonesia Kopi Luwak]]
+[msg SYS_068_1_0 [Kopi Luwak indonésio]]
 [s][vp 8 2 65535 0 0 0]Este café raro é feito de bagas de café que[n]passaram pelo trato digestivo da civeta asiática.[n][w][e]
 [s][vp 8 2 65535 0 0 0]Apesar de ser muito caro, Kopi Luwak[n]é dito ter um aroma completo e sabor rico,[n]graças às enzimas digestivas da civeta.[n][w][e]
 
@@ -1632,7 +1632,7 @@
 [s][bup 0 109 600 65535 1][f 4 10 65535 0 0]Hum...[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 15032 65535 0]Desculpa, estou[n]trabalhando agora, então...[n]Ligue-me outra hora.[n][w][e]
 
-[msg MSG_C14_PRECOOP_NG_00 [Voce di Kawakami]]
+[msg MSG_C14_PRECOOP_NG_00 [Voz de Kawakami]]
 [s][vp 8 2 1 15091 65535 0]Sinto muito, Mestre.[n]No momento, estou de folga.[n][w][e]
 [s]Eu posso ser sua empregada[n]apenas à noite.[n][w][e]
 [s]OK, aguardo sua[n]próxima ligação.[n][w][e]
@@ -1921,14 +1921,14 @@
 [msg MSG_C14_CORP_06_01 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1021 65535 0]Kawakami não atendeu.[n]Tente ligar para ela.[n][w][e]
 
-[msg MSG_C14_CORP_06_00 [Voce femminile sconosciuta]]
+[msg MSG_C14_CORP_06_00 [Voz feminina desconhecida]]
 [s]Oi... Oh, por acaso você[n]fala [f 4 1]-san?[n][w][e]
 
 [msg MSG_C14_CORP_07_00 [Kawakami]]
 [s][bup 0 109 601 65535 1][f 4 10 65535 0 0]Eu tenho que limpar seu quarto[n]ou você quer que eu cozinhe para você?[n]Eu ofereço todos os tipos de serviços![n][w][e]
 [s][bup 0 109 600 65535 1][f 4 10 65535 0 0]Mas, hum... eu tenho que falar com você sobre[n]algumas coisas, então você se importaria de me[n]perguntar?[n][w][e]
 
-[msg MSG_C14_CORP_08_00 [Voce di Kawakami]]
+[msg MSG_C14_CORP_08_00 [Voz de Kawakami]]
 [s][vp 8 2 1 15002 65535 0]Hellooo, aqui é Becky![n]Estou em uma pausa para um cocô'.[n][w][e]
 [s]Espero que você ligue de volta[n]em breve![n][w][e]
 
@@ -2027,7 +2027,7 @@
 [s][f 4 10 65535 0 0]Por favor, espere[n]até que eu esteja lá![n][w][e]
 [s][bup 0 109 603 65535 1][f 4 10 65535 0 0]*café* *café*[n][w][e]
 
-[msg MSG_C14_YES_06_00 [Infermiera]]
+[msg MSG_C14_YES_06_00 [Enfermeira]]
 [s]Olá, sou enfermeira[n]no Hospital Aoyama.[n]Estou falando em nome de Kawakami-san.[n][w][e]
 [s]Kawakami-san desmaiou[n]e foi internado[n]em nosso hospital.[n][w][e]
 [s]Você sabe o endereço do hospital?[n]O número do quarto é...[n][w][e]
@@ -2132,7 +2132,7 @@
 [s][bup 0 109 600 65535 1][f 4 10 65535 0 0]Bom, isso é o melhor.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 15127 65535 0]Espero que você comece a levar[n]as lições mais a sério[n]a partir de agora.[n][w][e]
 
-[msg MSG_C14_COOP_CANCEL_06 [Infermiera]]
+[msg MSG_C14_COOP_CANCEL_06 [Enfermeira]]
 [s]Gosta? Achei que fosse[n]um parente dele. Desculpe o mal-entendido.[n][w][e]
 
 [msg MSG_C14_COOP_CANCEL_09 [Kawakami]]

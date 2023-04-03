@@ -34,7 +34,7 @@
 [msg D03_MONEY_DOOR_FIRST_02 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Hum. Há também um porco esquisito.[n]Talvez devêssemos fazer[n]reconhecimento primeiro.[n][w][e]
 
-[msg D03_MONEY_DOOR_NAVI_01 [Voce meccanica]]
+[msg D03_MONEY_DOOR_NAVI_01 [Voz mecânica]]
 [s]Bom Dia. Esta entrada[n]é apenas para funcionários do banco[n]de Kaneshiro.[n][w][e]
 [s]Para entrar, mostre[n]seu cartão de acesso e[n]pague [clr 2][var 0] ienes[clr 27].[n][w][e]
 
@@ -76,7 +76,7 @@
 [msg D03_MONEY_DOOR_BACK_FIRS_2 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Hum. Há também um porco esquisito.[n]Talvez devêssemos fazer[n]reconhecimento primeiro.[n][w][e]
 
-[msg D03_MONEY_DOOR_NAVI_02 [Voce meccanica]]
+[msg D03_MONEY_DOOR_NAVI_02 [Voz mecânica]]
 [s]Bom Dia. Esta entrada[n]é apenas para funcionários do banco[n]de Kaneshiro.[n][w][e]
 [s]Com este terminal é[n]possível definir o preço de entrada.[n][w][e]
 

@@ -1,11 +1,11 @@
-[msg D157_009_miniEV_01_mes01 [Ombra]]
+[msg D157_009_miniEV_01_mes01 [Sombra]]
 [s]Bem-vindo à sala de caça-níqueis![n][w][e]
 [s]O objetivo do jogo é[n]obter combinações correspondentes[n]nos rolos giratórios.[n][w][e]
 
 [msg D157_009_miniEV_01_mes02 [Makoto]]
 [s][bup 0 6 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2037 65535 0]Estamos aqui para ganhar dinheiro,[n]não jogos![n][w][e]
 
-[msg D157_009_miniEV_01_mes03 [Ombra]]
+[msg D157_009_miniEV_01_mes03 [Sombra]]
 [s]Eu sei muito bem.[n][w][e]
 [s]Para dizer a verdade...[n]recebi permissão para[n]matar todos vocês.[n][w][e]
 

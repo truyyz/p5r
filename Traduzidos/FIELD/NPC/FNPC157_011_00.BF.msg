@@ -47,6 +47,6 @@
 [msg CAMERA_ROOM_NPC_GREETING_5]
 [s]Mantenha o foco![n][w][e]
 
-[msg D157_NPC_TALK_mes03 [Guardia della security]]
+[msg D157_NPC_TALK_mes03 [Segurança]]
 [s]Sem moedas? Invente[n]algo. Lembre-se do que o diretor[n]disse.[n][w][e]
 

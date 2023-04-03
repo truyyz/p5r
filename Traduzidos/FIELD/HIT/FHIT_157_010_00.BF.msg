@@ -49,7 +49,7 @@
 [msg mini_ev_mes_02_02_mes02 [Akechi]]
 [s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos jogar o slot grande primeiro.[n]Temos que fazer isso antes que[n]alguns outros convidados tentem.[n][w][e]
 
-[msg mini_ev_mes_02_02_mes03 [Voce meccanica]]
+[msg mini_ev_mes_02_02_mes03 [Voz mecânica]]
 [s]Pagamentos: 20 moedas para[n]cerejas, 120 moedas para BAR[n]e 200 moedas para um 777.[n][w][e]
 [s]Taxa de entrada: 20 moedas.[n]Gostaria de jogar?[n][w][e]
 
@@ -72,7 +72,7 @@
 [msg D07_10_BIG_SLOT_mes03 [Ann]]
 [s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Fique ocupado, Joker![n][w][e]
 
-[msg D07_10_BIG_SLOT_mes04 [Voce meccanica]]
+[msg D07_10_BIG_SLOT_mes04 [Voz mecânica]]
 [s]Pagamentos: 20.000 moedas para[n]cerejas, 30.000 para BAR[n]e 50.000 para um 777.[n][w][e]
 [s]Taxa de inscrição: 5000 moedas.[n]Gostaria de jogar?[n][w][e]
 

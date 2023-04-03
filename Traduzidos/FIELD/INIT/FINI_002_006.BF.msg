@@ -1,7 +1,7 @@
 [msg TEST_DUMMY]
 [s]......[n][w][e]
 
-[msg HELP_AFTERSCHOOL_CHASE [Aggirarsi per la scuola]]
+[msg HELP_AFTERSCHOOL_CHASE [Rondando pela escola]]
 [s]Kamoshida e os jogadores de vôlei guardam os[n]corredores. Se você for descoberto, não será[n]liberado até a noite.[n][w][e]
 [s]Se eles te virem, eles vão te perseguir. Use o[n]botão [clr 2]L1[clr 27] para descobrir quem está[n]perseguindo você. Encontre um abrigo para não[n]ser pego![n][w][e]
 
@@ -9,7 +9,7 @@
 [s]Ao pressionar o botão [clr 2]R1[clr 27] enquanto se move,[n]você pode usar a habilidade[clr 1]Stealth[clr 27]'[n]dos Phantom Thieves para correr sem levantar suspeitas.[n][w][e]
 [s]Não é possível filmar [clr 2]em espaços confinados,[n]como em uma sala de aula.[clr 27][n]Tente filmar em áreas maiores.[n][w][e]
 
-[msg MES_DVD_RENTAL_01 [Negozio di videonoleggio]]
+[msg MES_DVD_RENTAL_01 [Locadora de vídeo]]
 [s]Saudações. Fale sobre o aluguel de vídeo.[n][w][e]
 [s]Ele está cerca de três dias[n]atrasado na entrega do DVD[n]aluguel na semana passada.[n][w][e]
 [s]Você será cobrado pelo[n]pagamento atrasado, portanto,[n]devolva o DVD o mais rápido possível.[n][w][e]
@@ -20,7 +20,7 @@
 [s]Tenho certeza de que o castelo[n]será difícil de conquistar, mas[n]não podemos esperar mais.[n][w][e]
 [s]Vamos nos preparar e entrar em ação[n]antes que Kamoshida coloque[n]suas mãos sujas em Lady Ann![n][w][e]
 
-[msg HELP_MORNING_0417 [Prima di infiltrarsi in un Palácio]]
+[msg HELP_MORNING_0417 [Antes de se infiltrar num Palácio]]
 [s]O Tesouro aparece apenas no dia[n]em que você envia a [clr 2]carta de aviso[clr 27].[n]Você tem apenas uma chance[n]de executar o assalto.[n][w][e]
 [s]É uma boa ideia limpar [clr 2]todos os obstáculos[n]no caminho de infiltração[clr 27][n]antes de notificar[n]do ataque.[n][w][e]
 
@@ -85,16 +85,16 @@
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]A sala do conselho estudantil está localizada no[n][clr 27]terceiro andar[clr 27]. Se apresse.[n][w][e]
 [s][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]*bocejo* A essa hora[n]eu sempre fico com sono...[n][w][e]
 
-[msg msg_tutorial_save_NX [Come salvare]]
+[msg msg_tutorial_save_NX [Como salvar]]
 [s]Você pode salvar o progresso do jogo[n]em sua área de trabalho.[n][w][e]
 
-[msg msg_tutorial_save_PS5 [Come salvare]]
+[msg msg_tutorial_save_PS5 [Como salvar]]
 [s]Você pode salvar os dados[n]em sua área de trabalho.[n][w][e]
 
-[msg msg_tutorial_save_Xbox [Come salvare]]
+[msg msg_tutorial_save_Xbox [Como salvar]]
 [s]Você pode salvar[n]em sua área de trabalho.[n][w][e]
 
-[msg msg_tutorial_save_Steam [Come salvare]]
+[msg msg_tutorial_save_Steam [Como salvar]]
 [s]Você pode salvar[n]em sua área de trabalho.[n][w][e]
 
 [msg RESERVE]
@@ -365,11 +365,11 @@
 [msg MSG_NIGHT_0517_000_00 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1178 65535 0]Eu ainda não consigo perdoá-lo![n]Pedindo para pintar Lady Ann[n]nua e ameaçando nos processar...[n][w][e]
 
-[msg MSG_NIGHT_0517_MISHIMA_T [Voce di Mishima]]
+[msg MSG_NIGHT_0517_MISHIMA_T [A voz de Mishima]]
 [s][bup 0 111 1 65535 1][f 4 10 65535 0 0][vp 1 0 0 1 0 0]Olá sou eu. Você tem um minuto?[n][w][e]
 [s][f 4 10 65535 0 0][vp 1 0 0 2 0 0]Há notícias interessantes.[n][w][e]
 
-[msg MSG_NIGHT_0517_MISHIMA_T_2 [Voce di Mishima]]
+[msg MSG_NIGHT_0517_MISHIMA_T_2 [A voz de Mishima]]
 [s][bup 0 111 1 65535 1][f 4 10 65535 0 0][vp 1 0 0 3 0 0]Fui contatado no Phan-Site[n]por alguém que teve um[n]despertar do coração.[n][w][e]
 [s][f 4 10 65535 0 0][vp 1 0 0 4 0 0]Ele diz que quer ver você para[n]falar sobre outra pessoa para[n]despertar seu coração.[n][w][e]
 
@@ -377,19 +377,19 @@
 [s]Um despertar do coração?[e]
 [s]Por que eu?[e]
 
-[msg MSG_NIGHT_0517_MISHIMA_T_3 [Voce di Mishima]]
+[msg MSG_NIGHT_0517_MISHIMA_T_3 [A voz de Mishima]]
 [s][bup 0 111 0 65535 1][f 4 10 65535 0 0][vp 1 0 0 5 0 0]Se você quiser os detalhes, é melhor[n]falar com ele pessoalmente.[n][w][e]
 [s][f 4 10 65535 0 0][vp 1 0 0 6 0 0]Eu só sei que seu alvo[n]é uma pessoa terrível…[n][w][e]
 [s][f 4 10 65535 0 0][vp 1 0 0 7 0 0]Ele diz que seria melhor[n]não postar seu nome online.[n][w][e]
 
-[msg MSG_NIGHT_0517_MISHIMA_T_4 [Voce di Mishima]]
+[msg MSG_NIGHT_0517_MISHIMA_T_4 [A voz de Mishima]]
 [s][bup 0 111 0 65535 1][f 4 10 65535 0 0][vp 1 0 0 8 0 0]Vou dizer a ele para esperar por você na estação[n]shibuya depois da escola.[n][w][e]
 [s][f 4 10 65535 0 0][vp 1 0 0 9 0 0]É chamado de "Nakanohara".[n][w][e]
 
 [msg MSG_NIGHT_0517_MISHIMA_T_5 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 10 0 0]Nakanohara... Ele é aluno de Madarame.[n][w][e]
 
-[msg MSG_NIGHT_0517_MISHIMA_T_6 [Voce di Mishima]]
+[msg MSG_NIGHT_0517_MISHIMA_T_6 [A voz de Mishima]]
 [s][bup 0 111 1 65535 1][f 4 10 65535 0 0][vp 1 0 0 11 0 0]Eu disse a ele para vir até você.[n][w][e]
 [s][f 4 10 65535 0 0][vp 1 0 0 12 0 0]Boa sorte.[n][w][e]
 

@@ -5,13 +5,13 @@
 [s]Sim[e]
 [s]Não[e]
 
-[msg D03_01_e246_110_re_mes01 [ATM umano]]
+[msg D03_01_e246_110_re_mes01 [Caixa eletrônico humano]]
 [s]uau![n][w][e]
 
 [msg D03_01_e246_110_re_mes02 [Ryuji]]
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Não vamos conseguir nada com isso.[n]Devemos tentar outra pessoa?[n][w][e]
 
-[msg D03_01_e246_111_re_mes01 [ATM umano]]
+[msg D03_01_e246_111_re_mes01 [Caixa eletrônico humano]]
 [s]......[n][w][e]
 
 [msg D03_01_e246_111_re_mes02 [Morgana]]

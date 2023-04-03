@@ -52,7 +52,7 @@
 [msg MSG_TUTORIAL_SAVE_INFO]
 [s]A longa jornada me cansou.[n]Deveria escrever em meu diário[n]e ir para a cama...[n][w][e]
 
-[msg msg_tutorial_save [Salvare]]
+[msg msg_tutorial_save [Salvar]]
 [s]Ao sentar no sofá e escrever[n]o diário, você pode salvar[n]seu progresso.[n][w][e]
 
 [msg MSG_DESK_CLEAN_INFO_01 [Morgana]]
@@ -76,7 +76,7 @@
 [s][bup 0 3 0 65535 0]Muito bem! Uma resposta positiva. eu poderia me[n]acostumar com isso[n][w][e]
 [s]Vamos, quem tem tempo não espera o tempo.[n]Comece a limpar já![n][w][e]
 
-[msg MSG_PHONE_0417_000_00 [Voce di Ryuji]]
+[msg MSG_PHONE_0417_000_00 [A voz de Ryuji]]
 [s][bup 0 2 0 65535 0]Ei, sou eu! Lembrei-me de onde fica a loja de[n]airsoft em Shibuya![n][w][e]
 [s]Estás livre hoje? Vamos ver?[n]Poderíamos ir mais tarde, mas...[n][w][e]
 
@@ -85,20 +85,20 @@
 [s]Vamos logo.[e]
 [s]Vou pensar sobre isso.[e]
 
-[msg MSG_PHONE_0417_002_00 [Voce di Ryuji]]
+[msg MSG_PHONE_0417_002_00 [A voz de Ryuji]]
 [s][bup 0 2 0 65535 0]Quer perguntar ao gato?[n][w][e]
 [s]De qualquer forma, se você quiser ir, eu espero[n]por você.[n][w][e]
 
 [msg MSG_PHONE_0417_002_01 [Morgana]]
 [s][bup 0 3 0 0 0]Você falou sobre mim? É melhor[n]não manchar meu[n]bom nome.[n][w][e]
 
-[msg MSG_PHONE_0417_003_00 [Voce di Ryuji]]
+[msg MSG_PHONE_0417_003_00 [A voz de Ryuji]]
 [s][bup 0 2 0 65535 0]OK! Estou indo para Shibuya imediatamente.[n]Espero por você na frente da estação.[n][w][e]
 
 [msg MSG_PHONE_0417_003_01 [Morgana]]
 [s][bup 0 3 0 0 0]Hum? Você vai a algum lugar?[n]Eu vou com você![n][w][e]
 
-[msg MSG_PHONE_0417_004_00 [Voce di Ryuji]]
+[msg MSG_PHONE_0417_004_00 [A voz de Ryuji]]
 [s][bup 0 2 0 65535 0]É claro! Eu entendo que eu[n]perguntei de repente...[n][w][e]
 [s]Estou bem com amanhã também.[n]Deixe-me saber quando você quer ir![n][w][e]
 
@@ -336,24 +336,24 @@
 [msg MSG_14620100_200_01 [Sojiro]]
 [s][bup 0 103 0 0 0][f 4 10 65535 0 0][f 4 23 1 816 3 10 0 0][vp 8 2 1 0 65535 0]Você esteve ocupado?[n][w][e]
 
-[msg MSG_14620100_200_02 [Donna punk-rock]]
+[msg MSG_14620100_200_02 [Mulher punk rock]]
 [s][bup 0 108 500 0 0][f 4 10 65535 0 0][vp 8 2 1 0 821 0]Ei, eu estou bem...[n][w][e]
 
 [msg MSG_14620100_200_03 [Sojiro]]
 [s][bup 0 103 0 0 0][f 4 10 65535 0 0][f 4 23 1 816 3 10 0 0][vp 8 2 1 0 65535 0]Fiquei sabendo de um médico[n]que prescreve remédios[n]sem exames minuciosos.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eles dizem[n]coisas bastante desagradáveis sobre você.[n]Tenha cuidado.[n][w][e]
 
-[msg MSG_14620100_200_04 [Donna punk-rock]]
+[msg MSG_14620100_200_04 [Mulher punk rock]]
 [s][bup 0 108 500 0 0][vp 1 0 0 0 0 0]......[n][w][e]
 
-[msg MSG_E152101_000_00 [Habitué arrogante]]
+[msg MSG_E152101_000_00 [Regular arrogante]]
 [s][f 4 23 1 850 3 10 0 0][vp 8 2 1 0 850 0]Chefe, você ouviu?[n][w][e]
 [s][vp 8 2 1 0 850 0]Eles dizem que o motorista daquele[n]metro se comportou de maneira[n]estranha durante o depoimento.[n][w][e]
 
 [msg MSG_E152101_001_00 [Sojiro]]
 [s][bup 0 103 0 0 0][f 4 10 65535 0 0][f 4 23 1 816 3 10 0 0][vp 8 2 1 0 65535 0]Você está se referindo àqueles raptus[n]o como eles são chamados,[n]que todo mundo fala o tempo todo?[n][w][e]
 
-[msg MSG_E152101_002_00 [Habitué arrogante]]
+[msg MSG_E152101_002_00 [Regular arrogante]]
 [s][f 4 23 1 850 3 10 0 0][vp 8 2 1 0 850 0]Sim, ouvi dizer que eles alteram completamente a[n]personalidade.[n][w][e]
 [s][vp 8 2 1 0 850 0]Os noticiários dizem que[n]o motorista não conseguiu nem[n]responder a perguntas.[n][w][e]
 
@@ -361,14 +361,14 @@
 [s][bup 0 103 0 0 0][f 4 10 65535 0 0][f 4 23 1 816 3 10 0 0][vp 8 2 1 0 65535 0]Só um idiota acreditaria em uma história tão[n]absurda.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ah, desculpe,[n]mas estamos fechando.[n][w][e]
 
-[msg MSG_E152101_004_00 [Habitué arrogante]]
+[msg MSG_E152101_004_00 [Regular arrogante]]
 [s][f 4 23 1 850 3 10 0 0][vp 8 2 1 0 850 0]Umpf, que rude. Deve ser por isso que ele não tem[n]muitos clientes.[n][w][e]
 [s][vp 8 2 1 0 850 0]Na verdade, seu café não é[n]mau, mas seus grãos reclamam[n]da tristeza deste lugar...[n][w][e]
 
 [msg MSG_E152101_005_00 [Sojiro]]
 [s][bup 0 103 0 0 0][f 4 10 65535 0 0][f 4 23 1 816 3 10 0 0][vp 8 2 1 0 65535 0]Obrigado pela visita.[n]Volte em breve.[n][w][e]
 
-[msg MSG_E152101_006_00 [Habitué arrogante]]
+[msg MSG_E152101_006_00 [Regular arrogante]]
 [s][f 4 23 1 850 3 10 0 0][vp 8 2 1 0 850 0]Estou apenas tentando ajudá-la a melhorar seu[n]negócio. Bem, obrigado pelo café, pelo menos.[n][w][e]
 
 [msg MSG_GOODMORNING0417_000_ [Morgana]]
@@ -432,7 +432,7 @@
 [s][vp 1 0 0 0 0 0]Eu deveria encontrar o repórter[n]no bar em Shinjuku...[n][w][e]
 [s][vp 1 0 0 0 0 0]Primeiro de tudo, eu tenho que encontrar[n]Ryuji no ponto de encontro de Shibuya...[n][w][e]
 
-[msg MSG_e31120101_000_00 [Voce di Sojiro]]
+[msg MSG_e31120101_000_00 [A voz do sojiro]]
 [s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Você está livre hoje?[n][w][e]
 [s][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Já que as férias de verão estão[n]acabando, pensei que você, eu e[n]Futaba poderíamos comer fora.[n][w][e]
 [s][f 4 10 65535 0 0][vp 1 0 0 0 0 0]É um sushi bar de primeira qualidade. Até um[n]presidente comeu. Futaba recomenda, então...[n][w][e]
@@ -794,11 +794,11 @@
 [msg MSG_NIGHT_0517_000_00 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1178 65535 0]Eu ainda não consigo perdoá-lo![n]Pedindo para pintar Lady Ann[n]nua e ameaçando nos processar...[n][w][e]
 
-[msg MSG_NIGHT_0517_MISHIMA_T [Voce di Mishima]]
+[msg MSG_NIGHT_0517_MISHIMA_T [A voz de Mishima]]
 [s][bup 0 111 1 65535 1][f 4 10 65535 0 0][vp 1 0 0 1 0 0]Olá sou eu. Você tem um minuto?[n][w][e]
 [s][f 4 10 65535 0 0][vp 1 0 0 2 0 0]Há notícias interessantes.[n][w][e]
 
-[msg MSG_NIGHT_0517_MISHIMA_T_2 [Voce di Mishima]]
+[msg MSG_NIGHT_0517_MISHIMA_T_2 [A voz de Mishima]]
 [s][bup 0 111 1 65535 1][f 4 10 65535 0 0][vp 1 0 0 3 0 0]Fui contatado no Phan-Site[n]por alguém que teve um[n]despertar do coração.[n][w][e]
 [s][f 4 10 65535 0 0][vp 1 0 0 4 0 0]Ele diz que quer ver você para[n]falar sobre outra pessoa para[n]despertar seu coração.[n][w][e]
 
@@ -806,19 +806,19 @@
 [s]Um despertar do coração?[e]
 [s]Por que eu?[e]
 
-[msg MSG_NIGHT_0517_MISHIMA_T_3 [Voce di Mishima]]
+[msg MSG_NIGHT_0517_MISHIMA_T_3 [A voz de Mishima]]
 [s][bup 0 111 0 65535 1][f 4 10 65535 0 0][vp 1 0 0 5 0 0]Se você quiser os detalhes, é melhor[n]falar com ele pessoalmente.[n][w][e]
 [s][f 4 10 65535 0 0][vp 1 0 0 6 0 0]Eu só sei que seu alvo[n]é uma pessoa terrível…[n][w][e]
 [s][f 4 10 65535 0 0][vp 1 0 0 7 0 0]Ele diz que seria melhor[n]não postar seu nome online.[n][w][e]
 
-[msg MSG_NIGHT_0517_MISHIMA_T_4 [Voce di Mishima]]
+[msg MSG_NIGHT_0517_MISHIMA_T_4 [A voz de Mishima]]
 [s][bup 0 111 0 65535 1][f 4 10 65535 0 0][vp 1 0 0 8 0 0]Vou dizer a ele para esperar por você na estação[n]shibuya depois da escola.[n][w][e]
 [s][f 4 10 65535 0 0][vp 1 0 0 9 0 0]É chamado de "Nakanohara".[n][w][e]
 
 [msg MSG_NIGHT_0517_MISHIMA_T_5 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 10 0 0]Nakanohara... Ele é aluno de Madarame.[n][w][e]
 
-[msg MSG_NIGHT_0517_MISHIMA_T_6 [Voce di Mishima]]
+[msg MSG_NIGHT_0517_MISHIMA_T_6 [A voz de Mishima]]
 [s][bup 0 111 1 65535 1][f 4 10 65535 0 0][vp 1 0 0 11 0 0]Eu disse a ele para vir até você.[n][w][e]
 [s][f 4 10 65535 0 0][vp 1 0 0 12 0 0]Boa sorte.[n][w][e]
 

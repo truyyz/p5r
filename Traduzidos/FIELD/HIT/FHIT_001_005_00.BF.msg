@@ -88,16 +88,16 @@
 [s]Eu sinto o cheiro do pão fresco.[n]Comer[n]eu ficaria cheio de energia...[n][w][e]
 [s]...Eles também vendem[n]produtos de edição limitada.[n]Eu deveria voltar...[n][w][e]
 
-[msg BAKERY_SELECT [Commessa della panetteria]]
+[msg BAKERY_SELECT [Vendedora de padaria]]
 [s][f 4 23 1 5 3 5 65534 0][vp 8 2 1 0 5 0]Bem-vindo! Tudo o que vendemos[n]é fresquinho![n]Aproveite![n][w][e]
 
-[msg BAKERY_THANKS [Commessa della panetteria]]
+[msg BAKERY_THANKS [Vendedora de padaria]]
 [s][vp 8 2 1 0 5 0]Muito obrigado.[n]Esperamos vê-lo novamente em breve![n][w][e]
 
-[msg BAKERY_NOT_BUY [Commessa della panetteria]]
+[msg BAKERY_NOT_BUY [Vendedora de padaria]]
 [s][vp 8 2 1 0 5 0]Volte logo![n][w][e]
 
-[msg BAKERY_AME [Commessa della panetteria]]
+[msg BAKERY_AME [Vendedora de padaria]]
 [s][f 4 23 1 5 3 5 65534 0][vp 8 2 1 0 5 0]Hoje, nosso menu especial para dias chuvosos[n]apresenta [f 2 5 3 9999 0].[n][w][e]
 
 [msg MSG_PMAPH_MONTH04_PC]

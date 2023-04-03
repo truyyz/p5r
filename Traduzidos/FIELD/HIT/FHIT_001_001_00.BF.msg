@@ -86,91 +86,91 @@
 [msg MSG_CHK_LOTTERY_SHOP_01]
 [s]Não tenho tempo para comprar[n]bilhetes de loteria...[n][w][e]
 
-[msg MSG_LotShop_NG_Summer_Ha [Commessa della lotteria]]
+[msg MSG_LotShop_NG_Summer_Ha [Vendedora de loteria]]
 [s]Você participa do sorteio Summer Mammoth, certo?[n]Os vencedores serão anunciados a partir de 22 de[n]agosto.[n][w][e]
 
-[msg MSG_LOTSHOP_START_Shop1 [Commessa della lotteria]]
+[msg MSG_LOTSHOP_START_Shop1 [Vendedora de loteria]]
 [s]Bem-vindo ao[n]quiosque da loteria! O que você quer fazer?[n][w][e]
 
-[msg MSG_LOTSHOP_START_Shop2 [Commessa della lotteria]]
+[msg MSG_LOTSHOP_START_Shop2 [Vendedora de loteria]]
 [s]Quer comprar um[n]bilhete de loteria? Alunos[n]podem obter um também![n][w][e]
 
-[msg MSG_LotShop_End_OnlyNorm [Commessa della lotteria]]
+[msg MSG_LotShop_End_OnlyNorm [Vendedora de loteria]]
 [s]Obrigado por sua compra.[n][w][e]
 [s]Os resultados serão anunciados[n]em uma semana, em [var 1]/[var 0].[n]Aguarde ansiosamente.[n][w][e]
 
-[msg MSG_LotShop_End_OnlySumm [Commessa della lotteria]]
+[msg MSG_LotShop_End_OnlySumm [Vendedora de loteria]]
 [s]Obrigado por sua compra.[n][w][e]
 [s]Os resultados serão anunciados[n]no dia 22 de agosto! Lembre-se de[n]passar![n][w][e]
 
-[msg MSG_LotShop_End_Double [Commessa della lotteria]]
+[msg MSG_LotShop_End_Double [Vendedora de loteria]]
 [s]Obrigado por sua compra.[n][w][e]
 [s]Os resultados da Summer[n]Mammoth Lottery serão anunciados[n]no dia 22 de agosto![n][w][e]
 [s]Os resultados do ingresso que você[n]acabou de comprar serão[n]anunciados em uma semana, em [var 1]/[var 0].[n][w][e]
 
-[msg MSG_LotShop_SummerLotInf [Commessa della lotteria]]
+[msg MSG_LotShop_SummerLotInf [Vendedora de loteria]]
 [s][clr 2]Summer Mammoth[clr 27][n]bilhetes de loteria disponíveis! Venha[n]comprar um![n][w][e]
 
-[msg MSG_LotShop_End_SummerM [Commessa della lotteria]]
+[msg MSG_LotShop_End_SummerM [Vendedora de loteria]]
 [s]Obrigado por participar[n]do Summer Mammoth Sweepstakes.[n][w][e]
 [s]Os vencedores serão anunciados[n]em 22 de agosto. Esperamos que você[n]mal possa esperar.[n][w][e]
 
-[msg MSG_LotShop_ReStart [Commessa della lotteria]]
+[msg MSG_LotShop_ReStart [Vendedora de loteria]]
 [s]Os resultados serão anunciados[n]em uma semana, em [var 1]/[var 0].[n]Aguarde ansiosamente.[n][w][e]
 
 [msg MSG_LOTSHOP_LOT_YET_MORU [Morgana]]
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 1020 65535 0]Os resultados serão anunciados[n]em [var 1]/[var 0], certo?[n]Vamos voltar outra hora.[n][w][e]
 
-[msg MSG_LOTSHOP_PUBLISH_SHOP [Commessa della lotteria]]
+[msg MSG_LOTSHOP_PUBLISH_SHOP [Vendedora de loteria]]
 [s]Você tem um bilhete de loteria?[n]Confira o resultado![n][w][e]
 
-[msg MSG_LOTSHOP_PUBLISH_SHOP_2 [Commessa della lotteria]]
+[msg MSG_LOTSHOP_PUBLISH_SHOP_2 [Vendedora de loteria]]
 [s]Você tem um bilhete de loteria[n]Summer Mammoth?[n]Confira o resultado![n][w][e]
 
-[msg MSG_LOTSHOP_RESULT [Commessa della lotteria]]
+[msg MSG_LOTSHOP_RESULT [Vendedora de loteria]]
 [s]O resultado da extração é…[n][w][e]
 
-[msg MSG_LOTSHOP_RESULT_01 [Commessa della lotteria]]
+[msg MSG_LOTSHOP_RESULT_01 [Vendedora de loteria]]
 [s]......[n][w][e]
 [s]......Nada mesmo.[n][w][e]
 
-[msg MSG_result_00 [Commessa della lotteria]]
+[msg MSG_result_00 [Vendedora de loteria]]
 [s]......[n][w][e]
 [s]......![n][w][e]
 
-[msg MSG_LOTSHOP_RESULT_02 [Commessa della lotteria]]
+[msg MSG_LOTSHOP_RESULT_02 [Vendedora de loteria]]
 [s]Parabéns![n][w][e]
 [s]Você ganhou 100 ienes. Vou entregá-los a você[n]imediatamente.[n][w][e]
 
-[msg MSG_LOTSHOP_RESULT_03 [Commessa della lotteria]]
+[msg MSG_LOTSHOP_RESULT_03 [Vendedora de loteria]]
 [s]Parabéns![n][w][e]
 [s]Você ganhou 300 ienes. Vou entregá-los a você[n]imediatamente.[n][w][e]
 
-[msg MSG_LOTSHOP_RESULT_04 [Commessa della lotteria]]
+[msg MSG_LOTSHOP_RESULT_04 [Vendedora de loteria]]
 [s]Parabéns![n][w][e]
 [s]Você ganhou 2.000 ienes. Vou entregá-los a você[n]imediatamente.[n][w][e]
 
-[msg MSG_LOTSHOP_RESULT_05 [Commessa della lotteria]]
+[msg MSG_LOTSHOP_RESULT_05 [Vendedora de loteria]]
 [s]Parabéns![n][w][e]
 [s]Você ganhou 5.000 ienes. Vou entregá-los a você[n]imediatamente.[n][w][e]
 
-[msg MSG_LOTSHOP_RESULT_06 [Commessa della lotteria]]
+[msg MSG_LOTSHOP_RESULT_06 [Vendedora de loteria]]
 [s]Parabéns![n][w][e]
 [s]Você ganhou 10.000 ienes. Vou entregá-los a você[n]imediatamente.[n][w][e]
 
-[msg MSG_LOTSHOP_RESULT_07 [Commessa della lotteria]]
+[msg MSG_LOTSHOP_RESULT_07 [Vendedora de loteria]]
 [s]Parabéns![n][w][e]
 [s]Você ganhou 100.000 ienes. Vou entregá-los a você[n]imediatamente.[n][w][e]
 
-[msg MSG_LOTSHOP_RESULT_Summe [Commessa della lotteria]]
+[msg MSG_LOTSHOP_RESULT_Summe [Vendedora de loteria]]
 [s]Parabéns![n][w][e]
 [s]Você ganhou 30.000 ienes. Vou entregá-los a você[n]imediatamente.[n][w][e]
 
-[msg MSG_LOTSHOP_RESULT_Summe_2 [Commessa della lotteria]]
+[msg MSG_LOTSHOP_RESULT_Summe_2 [Vendedora de loteria]]
 [s]Parabéns![n][w][e]
 [s]Você ganhou 50.000 ienes. Vou entregá-los a você[n]imediatamente.[n][w][e]
 
-[msg MSG_LOTSHOP_RESULT_Summe_3 [Commessa della lotteria]]
+[msg MSG_LOTSHOP_RESULT_Summe_3 [Vendedora de loteria]]
 [s]Parabéns![n][w][e]
 [s]Você ganhou 100.000 ienes. Vou entregá-los a você[n]imediatamente.[n][w][e]
 
@@ -196,13 +196,13 @@
 [s][bup 0 3 4 0 0][f 4 10 65535 0 0][vp 8 2 1 1040 65535 0]Uau, louco! Se você ganhou[n]tanto…[n][w][e]
 [s][bup 0 3 11 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Significa que vou comer mais sushi[n]do que posso comer![n]Mal posso esperar, [f 4 2]![n][w][e]
 
-[msg MSG_LOTSHOP_NotBuy [Commessa della lotteria]]
+[msg MSG_LOTSHOP_NotBuy [Vendedora de loteria]]
 [s]Volte logo![n][w][e]
 
-[msg MSG_LotShopSC_Start [Commessa della lotteria]]
+[msg MSG_LotShopSC_Start [Vendedora de loteria]]
 [s]Bem-vindo. Quer experimentar a raspadinha? Eles[n]são mais imediatos do que a loteria.[n][w][e]
 
-[msg MSG_LotShop_SC_Start [Commessa della lotteria]]
+[msg MSG_LotShop_SC_Start [Vendedora de loteria]]
 [s]O resultado da raspadinha[n]é instantâneo.[n][w][e]
 
 [msg MSG_LotShop_SC_Start02 [Morgana]]
@@ -242,7 +242,7 @@
 [msg MSG_Scratch_last [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1174 65535 0]Uma esquerda...[n]Agora, vamos dar uma olhada![n][w][e]
 
-[msg MSG_Scratch_End_atari01 [Commessa della lotteria]]
+[msg MSG_Scratch_End_atari01 [Vendedora de loteria]]
 [s]Parabéns! Vou pegar[n]seu prêmio em dinheiro imediatamente.[n][w][e]
 
 [msg MSG_Scratch_End_atari02 [Morgana]]
@@ -251,7 +251,7 @@
 [msg MSG_Scratch_End_hazure01 [Morgana]]
 [s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 1 1026 65535 0]Que pena...[n]Você não ganhou nada.[n][w][e]
 
-[msg MSG_Scratch_End_hazure02 [Commessa della lotteria]]
+[msg MSG_Scratch_End_hazure02 [Vendedora de loteria]]
 [s]Muito obrigado.[n]Volte em breve.[n][w][e]
 
 [msg MSG_LotShop_SC_ReTry [Morgana]]

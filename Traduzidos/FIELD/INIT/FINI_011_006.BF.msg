@@ -1,7 +1,7 @@
 [msg TEST_DUMMY]
 [s]......[n][w][e]
 
-[msg MSG_STATION_STAFF001 [Altoparlante]]
+[msg MSG_STATION_STAFF001 [Palestrante]]
 [s]Yongen-Jaya. Estamos em Yongen-Jaya.[n]Conexão com a[n]Linha Setagaya.[n][f 1 2 90][e]
 
 [msg MSG_E19310100_000_00 [Ryuji]]

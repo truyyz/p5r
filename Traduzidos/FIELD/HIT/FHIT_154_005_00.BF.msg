@@ -82,7 +82,7 @@
 [s]Você pode apostar.[e]
 [s]Espere.[e]
 
-[msg D154_005_mini_EV_04_selA_2 [Ombra Agente della security]]
+[msg D154_005_mini_EV_04_selA_2 [Agente de segurança de sombra]]
 [s]Umpf, você deve ser o camundongo[n]de quem se fala.[n][w][e]
 [s]Bem, Kaneshiro-sama ordenou que eu[n]não deixasse ninguém passar[n]além deste ponto.[n][w][e]
 [s]Resigne-se a morrer![n][w][e]

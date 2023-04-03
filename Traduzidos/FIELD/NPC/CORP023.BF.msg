@@ -182,7 +182,7 @@
 [msg MSG_C23_YES_03_01]
 [s]Eu ouço vozes vindo[n]da enfermaria.[n][w][e]
 
-[msg MSG_C23_YES_03_02 [Studentessa infastidita]]
+[msg MSG_C23_YES_03_02 [Aluno irritado]]
 [s]Doutor, ele mentiu para mim![n]Por que você não consegue me entender!?![n][w][e]
 
 [msg MSG_C23_YES_03_03 [Maruki]]
@@ -195,14 +195,14 @@
 [s][f 4 23 1 223 3 10 0 10][bup 0 216 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 57435 65535 0]Ah, maravilhoso![n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Entre. Sinta-se a vontade.[n][w][e]
 
-[msg MSG_C23_YES_04_01 [Studentessa in forma]]
+[msg MSG_C23_YES_04_01 [Aluno apto]]
 [s]E então ele não tem tempo para Oshima,[n]mas ele quer ouvir aquele criminoso?[n][w][e]
 
 [msg MSG_C23_YES_04_02 [Maruki]]
 [s][f 4 23 1 223 3 10 0 10][bup 0 216 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Espere, eu não entendi muito bem[n]a situação.[n][w][e]
 [s]O que você entende por criminoso? Você[n]está falando sobre [f 4 1]-kun?[n]Você não deveria chamá-lo assim.[n][w][e]
 
-[msg MSG_C23_YES_04_03 [Studentessa arrogante]]
+[msg MSG_C23_YES_04_03 [Estudante arrogante]]
 [s]Então você vai ouvir Oshima, certo?[n][w][e]
 
 [msg MSG_C23_YES_04_04 [Maruki]]

@@ -2,14 +2,14 @@
 [s]Sim[e]
 [s]Não[e]
 
-[msg MSG_137201_000_00 [Pallavolista risoluto]]
+[msg MSG_137201_000_00 [Determinada jogadora de vôlei]]
 [s][f 4 23 1 850 3 10 0 0][vp 8 2 1 0 850 0]A limpeza depois do[n]torneio de vôlei vai ser[n]um sofrimento imenso...[n][w][e]
 
-[msg MSG_137201_001_00 [Studente del terzo anno adirato]]
+[msg MSG_137201_001_00 [Estudante do terceiro ano com raiva]]
 [s][vp 8 2 1 0 851 0]Hum? O que você está olhando?[n][w][e]
 [s][vp 8 2 1 0 851 0]Oh, você é aquele novo aluno[n]que costumava ficar com Sakamoto...[n][w][e]
 
-[msg MSG_137201_002_00 [Pallavolista risoluto]]
+[msg MSG_137201_002_00 [Determinada jogadora de vôlei]]
 [s][f 4 23 1 850 3 10 0 0][vp 8 2 1 0 850 0]Ouvi dizer que você está bisbilhotando[n]por aí... embora eu não entenda[n]por quê.[n][w][e]
 [s][vp 8 2 1 0 850 0]Então o que você quer?[n][w][e]
 
@@ -17,7 +17,7 @@
 [s]Você viu Mishima?[e]
 [s]Como você se machucou?[e]
 
-[msg MSG_137201_004_00 [Pallavolista risoluto]]
+[msg MSG_137201_004_00 [Determinada jogadora de vôlei]]
 [s][f 4 23 1 850 3 10 0 0][vp 8 2 1 0 850 0]Mishima? Não, eu não o vi.[n][w][e]
 [s][vp 8 2 1 0 850 0]Ah, espere, ele não foi levado para a[n]enfermaria...?[n][w][e]
 
@@ -25,37 +25,37 @@
 [s]O que são essas contusões?[e]
 [s]Você foi abusado fisicamente?[e]
 
-[msg MSG_137201_006_00 [Pallavolista risoluto]]
+[msg MSG_137201_006_00 [Determinada jogadora de vôlei]]
 [s][f 4 23 1 850 3 10 0 0][vp 8 2 1 42555 850 0]...Eu tive[n]no treinamento.[n][w][e]
 
-[msg MSG_137201_006_01 [Pallavolista risoluto]]
+[msg MSG_137201_006_01 [Determinada jogadora de vôlei]]
 [s][f 4 23 1 850 3 10 0 0][vp 8 2 1 40105 850 0]O-o que você está dizendo![n][w][e]
 [s][vp 8 2 1 0 850 0]Eu me machuquei no treinamento, só isso.[n][w][e]
 
-[msg MSG_137201_004_01 [Pallavolista risoluto]]
+[msg MSG_137201_004_01 [Determinada jogadora de vôlei]]
 [s][f 4 23 1 850 3 10 0 0][vp 8 2 1 42555 850 0]...Eu tive[n]no treinamento.[n][w][e]
 
 [sel SEL_137201_005_01 top]
 [s]Você viu Mishima?[e]
 [s]Você sabe onde fica Mishima?[e]
 
-[msg MSG_137201_006_02 [Pallavolista risoluto]]
+[msg MSG_137201_006_02 [Determinada jogadora de vôlei]]
 [s][f 4 23 1 850 3 10 0 0][vp 8 2 1 0 850 0]Ah, espere, ele não foi levado para a[n]enfermaria...?[n][w][e]
 
-[msg MSG_137201_006_03 [Pallavolista risoluto]]
+[msg MSG_137201_006_03 [Determinada jogadora de vôlei]]
 [s][f 4 23 1 850 3 10 0 0][vp 8 2 1 0 850 0]Olha, nossa equipe de vôlei é classificada[n]nacionalmente. Claro, a prática é difícil.[n][w][e]
 [s][vp 8 2 1 0 850 0]O Prof. Kamoshida só quer nos treinar da melhor[n]maneira possível. Não acredite em tudo que[n]Sakamoto diz.[n][w][e]
 [s][vp 8 2 1 0 850 0]Mishima só levou esse[n]esmago na cara porque[n]ele foi muito lento, ok?[n][w][e]
 [s][vp 8 2 1 0 850 0]De qualquer forma, não entendo[n]por que você está procurando por isso.[n]De qualquer forma, tente perguntar a outras pessoas.[n][w][e]
 
-[msg MSG_048_0_0 [Studente del terzo anno adirato]]
+[msg MSG_048_0_0 [Estudante do terceiro ano com raiva]]
 [s][f 4 23 1 851 3 10 0 0][vp 8 2 1 0 851 0]Você viu o segundo ano no time de vôlei? Uma[n]paquera absurda na cara![n][w][e]
 
-[msg MSG_049_0_0 [Pallavolista risoluto]]
+[msg MSG_049_0_0 [Determinada jogadora de vôlei]]
 [s][f 4 23 1 850 3 10 0 0][vp 8 2 1 0 850 0]Ah, Mishima, você diz? Isso não me surpreende.[n]Ele é a pessoa mais lenta que conheço.[n][w][e]
 [s][vp 8 2 1 0 850 0]É frustrante assistir. Nem[n]parece melhorar, mesmo com os treinos do[n]Prof. Kamoshida.[n][w][e]
 
-[msg MSG_050_0_0 [Studente del terzo anno adirato]]
+[msg MSG_050_0_0 [Estudante do terceiro ano com raiva]]
 [s][f 4 23 1 851 3 10 0 0][vp 8 2 1 0 851 0]A propósito, parece que Kamoshida[n]recebeu um convite para o[n]campeonato nacional. Fantástico.[n][w][e]
 
 [msg MSG_E13710100_BUIN_C_grt]

@@ -1,14 +1,14 @@
 [msg D157_007_miniEV_01_mes01 [Makoto]]
 [s][bup 0 6 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Uma sombra...![n][w][e]
 
-[msg D157_007_miniEV_01_mes02 [Ombra]]
+[msg D157_007_miniEV_01_mes02 [Sombra]]
 [s]Bem-vindo à sala de dados![n][w][e]
 [s]É um jogo muito simples, no qual[n]você aposta na soma[n]resultante dos dados lançados.[n][w][e]
 
 [msg D157_007_miniEV_01_mes03 [Ryuji]]
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Sim, é por isso que estamos aqui.[n][w][e]
 
-[msg D157_007_miniEV_01_mes04 [Ombra]]
+[msg D157_007_miniEV_01_mes04 [Sombra]]
 [s]Mas primeiro você tem que[n]me derrotar![n][w][e]
 
 [msg D157_007_miniEV_01_mes05 [Yusuke]]

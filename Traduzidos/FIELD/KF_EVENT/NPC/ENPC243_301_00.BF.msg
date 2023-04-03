@@ -5,19 +5,19 @@
 [msg MSG_000_000_00]
 [s]Fictício[n][w][e]
 
-[msg MSG_E24330100_STUDENT_F_ [Studentessa della Kosei]]
+[msg MSG_E24330100_STUDENT_F_ [Estudante Kosei]]
 [s][f 4 23 1 854 3 10 0 0][vp 8 2 1 0 854 0]Ei, eu estava em um fórum outro dia[n]e de repente vi este post:[n]"10K Piece at HQ".[n][w][e]
 
-[msg MSG_E24330100_STUDENT_F__2 [Studentessa in divisa da marinaio]]
+[msg MSG_E24330100_STUDENT_F__2 [Colegial em uniforme de marinheiro]]
 [s][f 4 23 1 853 3 10 0 0][vp 8 2 1 0 853 0]Huh? Mas o que é isso? Um código?[n]Parece um pouco suspeito...[n][w][e]
 
-[msg MSG_E24330100_STUDENT_F__3 [Studentessa della Kosei]]
+[msg MSG_E24330100_STUDENT_F__3 [Estudante Kosei]]
 [s][f 4 23 1 854 3 10 0 0][vp 8 2 1 0 854 0]Já. Muitas pessoas têm[n]conversas assim,[n]online...[n][w][e]
 
-[msg MSG_E24330100_STUDENT_F__4 [Studentessa in divisa da marinaio]]
+[msg MSG_E24330100_STUDENT_F__4 [Colegial em uniforme de marinheiro]]
 [s][f 4 23 1 853 3 10 0 0][vp 8 2 1 0 853 0]O que ele estava dizendo?[n][w][e]
 
-[msg MSG_E24330100_STUDENT_F__5 [Studentessa della Kosei]]
+[msg MSG_E24330100_STUDENT_F__5 [Estudante Kosei]]
 [s][f 4 23 1 854 3 10 0 0][vp 8 2 1 0 854 0]Talvez esta seja terminologia específica? De[n]qualquer forma, não tem nada a ver conosco.[n][w][e]
 
 [msg MSG_E24330100_ANN_001_00 [Ann]]
@@ -31,14 +31,14 @@
 [msg MSG_E24330100_ANN_102_00 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Este não é o lugar certo.[n]Vamos, vamos perguntar aos outros[n]o que eles descobriram.[n][w][e]
 
-[msg MSG_E24330100_SCOUT_001_ [Talent scout spensierato]]
+[msg MSG_E24330100_SCOUT_001_ [Caçador de talentos despreocupado]]
 [s][f 4 23 1 850 3 10 0 0][vp 8 2 1 0 850 0]Quinhentos mil ienes por um vídeo.[n]E você pode até ganhar mais,[n]se ficar famoso...[n][w][e]
 
 [sel SEL_E24330100_SCOUT_002_ top]
 [s]Eu poderia fazer vídeos.[e]
 [s]Me diga mais.[e]
 
-[msg MSG_E24330100_SCOUT_003_ [Talent scout spensierato]]
+[msg MSG_E24330100_SCOUT_003_ [Caçador de talentos despreocupado]]
 [s][f 4 23 1 850 3 10 0 0][vp 8 2 1 0 850 0]Huh? Você quer... aparecer[n]em um de nossos vídeos?[n][w][e]
 [s][vp 8 2 1 0 850 0]Acho que alguns podem[n]gostar, mas ... nós só contratamos[n]meninas. Sinto muito.[n][w][e]
 
@@ -49,13 +49,13 @@
 [msg MSG_E24330100_SCOUT_102_ [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1170 65535 0]Ele não é a pessoa que estamos procurando. Vamos[n]verificar em outro lugar.[n][w][e]
 
-[msg MSG_E24330100_TELLADY_00 [Donna al telefono]]
+[msg MSG_E24330100_TELLADY_00 [Mulher ao telefone]]
 [s][vp 8 2 1 0 852 0]Preparar? Cheguei em Shibuya[n]sem problemas...[n][w][e]
 [s][vp 8 2 1 0 852 0]Mas havia um sem-teto[n]em nosso ponto de encontro.[n]Eu tive que fugir.[n][w][e]
 [s][vp 8 2 1 0 852 0]Sim, uma vez ele desceu as escadas[n]após as catracas do JL... Estou[n]na praça agora. Eu estava com medo...[n][w][e]
 [s][vp 8 2 1 0 852 0]Ele estava sentado perto da parede...[n]S-sim, hmm...[n][w][e]
 
-[msg MSG_E24330100_TELLADY_10 [Donna al telefono]]
+[msg MSG_E24330100_TELLADY_10 [Mulher ao telefone]]
 [s][vp 8 2 1 0 852 0]Sim, você o vê sentado lá[n]enquanto descia as escadas...[n]É assustador...[n][w][e]
 
 [msg MSG_E24330100_MAKOTO_001 [Makoto]]

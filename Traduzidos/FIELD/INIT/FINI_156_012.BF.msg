@@ -1,4 +1,4 @@
-[msg DUMMY_mes01 [ERROR]]
+[msg DUMMY_mes01 [ERRO]]
 [s]開発エラー:ギミックIDがズレてます![n][w][e]
 
 [msg D05_12_Ex3Battle_After_0 [Haru]]

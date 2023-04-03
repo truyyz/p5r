@@ -2,26 +2,26 @@
 [s]Sim[e]
 [s]Não[e]
 
-[msg MSG_000_0_0 [Studentessa dall'aspetto curato]]
+[msg MSG_000_0_0 [Estudante bem preparado]]
 [s][f 4 23 1 852 3 10 0 0][vp 1 0 0 0 0 0]Finalmente terminei.[n]Agora posso ir para Shibuya[n]com meu namorado.[n][w][e]
 
-[msg MSG_001_0_0 [Studentessa smorfiosa]]
+[msg MSG_001_0_0 [Estudante fazendo careta]]
 [s][f 4 23 1 853 3 10 0 0][vp 1 0 0 0 0 0]Ah, cuidado. Eu ouvi[n]que ultimamente eles param e[n]roubam casais.[n][w][e]
 
-[msg MSG_002_0_0 [Studentessa dall'aspetto curato]]
+[msg MSG_002_0_0 [Estudante bem preparado]]
 [s][f 4 23 1 852 3 10 0 0][vp 1 0 0 0 0 0]Coisa? Não terei problemas, certo?[n]A polícia definitivamente fará[n]alguma coisa.[n][w][e]
 
-[msg MSG_003_0_0 [Studentessa smorfiosa]]
+[msg MSG_003_0_0 [Estudante fazendo careta]]
 [s][f 4 23 1 853 3 10 0 0][vp 1 0 0 0 0 0]Já. Talvez eu vá a algum lugar[n]também antes de ir para casa.[n]Não me importo com a universidade...[n][w][e]
 
-[msg MSG_004_0_0 [Studente del terzo anno adirato]]
+[msg MSG_004_0_0 [Estudante do terceiro ano com raiva]]
 [s][f 4 23 1 850 3 10 0 0][vp 1 0 0 0 0 0]Você viu o segundo ano no time de vôlei? Uma[n]paquera absurda na cara![n][w][e]
 
-[msg MSG_005_0_0 [Pallavolista risoluto]]
+[msg MSG_005_0_0 [Determinada jogadora de vôlei]]
 [s][f 4 23 1 851 3 10 0 0][vp 1 0 0 0 0 0]Ah, Mishima, você diz? Isso não[n]me surpreende. Ele é muito lento.[n][w][e]
 [s][vp 1 0 0 0 0 0]É frustrante assistir. Nem[n]parece melhorar, mesmo com os treinos do[n]Prof. Kamoshida.[n][w][e]
 
-[msg MSG_006_0_0 [Studente del terzo anno adirato]]
+[msg MSG_006_0_0 [Estudante do terceiro ano com raiva]]
 [s][f 4 23 1 850 3 10 0 0][vp 1 0 0 0 0 0]Oh, parece que Kamoshida[n]recebeu um convite para o[n]campeonato nacional. Fantástico.[n][w][e]
 [s][vp 1 0 0 0 0 0]Amanhã ele será definitivamente eleito o melhor[n]jogador do torneio de vôlei da escola.[n][w][e]
 

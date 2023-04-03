@@ -1,14 +1,14 @@
-[msg MSG_BillStart1st_01 [Uomo in abiti casual]]
+[msg MSG_BillStart1st_01 [Homem em roupas casuais]]
 [s][vp 8 2 1 58641 1 0]Bem-vindo![n][w][e]
 
 [msg MSG_BillStart1st_02 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]Ei, você esqueceu?[n]Você também pode jogar sinuca aqui.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Bem, depende de você jogar[n]dardos ou[n]bilhar.[n][w][e]
 
-[msg MSG_DB_Start_common [Uomo in abiti casual]]
+[msg MSG_DB_Start_common [Homem em roupas casuais]]
 [s][vp 8 2 1 58641 1 0]Bem-vindo![n][w][e]
 
-[msg MSG_DB_Start_common_loop [Uomo in abiti casual]]
+[msg MSG_DB_Start_common_loop [Homem em roupas casuais]]
 [s][vp 8 2 1 58642 1 0]Você quer jogar dardos ou[n]bilhar? Por 800 ienes você pode[n]jogar o que quiser.[n][w][e]
 
 [sel SEL_DB top]
@@ -28,7 +28,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1023 65535 0]Expliquei a todos como[n]jogar dardos[n]pode ser útil para nós.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ei, eu não te disse? Fico pensando no que seria[n]melhor para os Phantom Thieves.[n][w][e]
 
-[msg MSG_DB_PayMoney [Uomo in abiti casual]]
+[msg MSG_DB_PayMoney [Homem em roupas casuais]]
 [s][vp 8 2 1 58645 1 0]Obrigado, são 800 ienes![n]Aproveite.[n][w][e]
 
 [msg MSG_Darts_OKorNG [Morgana]]
@@ -118,11 +118,11 @@
 [msg MSG_BillChat_Start [Morgana]]
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 1181 65535 0]Bem, aqui estamos nós![n]Agora é só esperar pelos outros![n][w][e]
 
-[msg MSG_Billi_BookRemind_Not [Uomo in abiti casual]]
+[msg MSG_Billi_BookRemind_Not [Homem em roupas casuais]]
 [s][vp 8 2 1 0 1 0]Oh, certo. Você encontrou o livro que eu[n]recomendei? Encontre-o[n]na [clr 2]loja de esportes[clr 27].[n][w][e]
 [s]Você não precisa de um livro para jogar,[n]mas faria você gostar[n]mais do jogo. Tente procurá-lo.[n][w][e]
 
-[msg MSG_Billi_BookRemind_Not_2 [Uomo in abiti casual]]
+[msg MSG_Billi_BookRemind_Not_2 [Homem em roupas casuais]]
 [s][vp 8 2 1 0 1 0]Oh, [clr 3][var 0][clr 27]! Você comprou![n]...Ah, mas você ainda não leu.[n][w][e]
 [s]É uma leitura interessante.[n]Ele fala sobre tiros giratórios[n]e coisas do gênero...![n][w][e]
 

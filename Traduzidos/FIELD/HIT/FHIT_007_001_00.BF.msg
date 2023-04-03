@@ -151,13 +151,13 @@
 [msg MSG_SYSTEM_SHORTCUT_AKIB]
 [s][vp 1 0 0 0 0 0]Agora você pode viajar rapidamente[n][clr 6]para o fliperama[clr 0] em Akihabara.[n][w][e]
 
-[msg MSG_ELECTRO_SHOP_START [Commesso del negozio di elettronica]]
+[msg MSG_ELECTRO_SHOP_START [Balconista de loja de eletrônicos]]
 [s][f 4 23 1 9 3 5 65534 0][vp 8 2 1 0 9 0]Bem-vindo! Temos o que há de mais moderno em[n]eletrônicos de consumo,[n]senhor. Dê uma olhada.[n][w][e]
 
-[msg MSG_ELECTRO_SHOP_THANKS [Commesso del negozio di elettronica]]
+[msg MSG_ELECTRO_SHOP_THANKS [Balconista de loja de eletrônicos]]
 [s][vp 8 2 1 0 9 0]Muito obrigado![n]Venha nos ver novamente![n][w][e]
 
-[msg MSG_ELECTRO_SHOP_NOTBUY [Commesso del negozio di elettronica]]
+[msg MSG_ELECTRO_SHOP_NOTBUY [Balconista de loja de eletrônicos]]
 [s][vp 8 2 1 0 9 0]Volte logo![n][w][e]
 
 [msg MSG_ElectroShop_Close [Morgana]]
@@ -166,13 +166,13 @@
 [msg MND_ElectroShop_Close]
 [s]A loja de eletrônicos está fechada.[n]Tenho que voltar durante o dia...[n][w][e]
 
-[msg MSG_OTAKU_SHOP_START [Commessa del negozio Otaku]]
+[msg MSG_OTAKU_SHOP_START [Balconista de Loja Otaku]]
 [s][vp 1 0 0 0 0 0]Bem-vindo ao lar... quero dizer,[n]bem-vindo! Está procurando algo, senhor?[n][w][e]
 
-[msg MSG_OTAKU_SHOP_THANKS [Commessa del negozio Otaku]]
+[msg MSG_OTAKU_SHOP_THANKS [Balconista de Loja Otaku]]
 [s][vp 1 0 0 0 0 0]Muito obrigado.[n][w][e]
 
-[msg MSG_OTAKU_SHOP_NOTBUY [Commessa del negozio Otaku]]
+[msg MSG_OTAKU_SHOP_NOTBUY [Balconista de Loja Otaku]]
 [s][vp 1 0 0 0 0 0]Volte para nos visitar.[n][w][e]
 
 [msg MSG_OtakuShop_Close [Morgana]]
@@ -181,13 +181,13 @@
 [msg MND_OtakuShop_Close]
 [s]Parece fechado agora.[n]Vou ter que voltar a ele mais tarde.[n][w][e]
 
-[msg MSG_TOOL_SHOP_START [Commesso del negozio di componenti]]
+[msg MSG_TOOL_SHOP_START [Balconista da loja de componentes]]
 [s][vp 1 0 0 0 0 0]Bem-vindo. Aqui vendemos[n]produtos de qualidade. Tenha cuidado ao[n]usá-lo, ok?[n][w][e]
 
-[msg MSG_TOOL_SHOP_END [Commesso del negozio di componenti]]
+[msg MSG_TOOL_SHOP_END [Balconista da loja de componentes]]
 [s][vp 1 0 0 0 0 0]Volte logo![n][w][e]
 
-[msg MSG_TOOL_SHOP_END_NOTBUY [Commesso del negozio di componenti]]
+[msg MSG_TOOL_SHOP_END_NOTBUY [Balconista da loja de componentes]]
 [s][vp 1 0 0 0 0 0]Ah, então você não compra[n]nada...[n][w][e]
 
 [msg MSG_ToolShop_Close [Morgana]]
@@ -210,65 +210,65 @@
 [s]Uma loja de jogos retrô.[n]Eles vendem videogames antigos...[n][w][e]
 [s]Mas não tenho nada para brincar.[n]Preciso de uma TV e um console...[n][w][e]
 
-[msg GAMESHOP_SELECT [Commesso del negozio di videogiochi]]
+[msg GAMESHOP_SELECT [Balconista de loja de videogame]]
 [s][vp 1 0 0 0 0 0]Bem-vindo! Ei garoto, você parece[n]muito jovem. Interessado em[n]jogos históricos?[n][w][e]
 
-[msg GAMESHOP_THANKS [Commesso del negozio di videogiochi]]
+[msg GAMESHOP_THANKS [Balconista de loja de videogame]]
 [s][vp 1 0 0 0 0 0]Muito obrigado.[n]Espero que goste de jogá-los.[n][w][e]
 
-[msg GAMESHOP_NOT_BUY [Commesso del negozio di videogiochi]]
+[msg GAMESHOP_NOT_BUY [Balconista de loja de videogame]]
 [s][vp 1 0 0 0 0 0]Volte para me ver.[n][w][e]
 
-[msg GAMESHOP_GAME_POSTC_GOU [Commesso del negozio di videogiochi]]
+[msg GAMESHOP_GAME_POSTC_GOU [Balconista de loja de videogame]]
 [s][vp 1 0 0 0 0 0]Aquele cartão postal e a senha...![n]Já terminou "Power Intuition"?!?[n][w][e]
 [s][vp 1 0 0 0 0 0]Oooh, esse enredo profundo e[n]caracterização![n][w][e]
 [s][vp 1 0 0 0 0 0]Com áudio incrível e um sistema de batalha único![n][w][e]
 [s][vp 1 0 0 0 0 0]É um título pioneiro,[n]entre os jogos de luta![n]Uma obra-prima![n][w][e]
 [s][vp 1 0 0 0 0 0]Ah, ainda restam alguns prêmios da época. Posso[n]trocá-los por aquele cartão postal![n][w][e]
 
-[msg GAMESHOP_GAME_POSTC_PUN [Commesso del negozio di videogiochi]]
+[msg GAMESHOP_GAME_POSTC_PUN [Balconista de loja de videogame]]
 [s][vp 1 0 0 0 0 0]Aquele cartão postal e a senha...![n]Terminou com "Punch Ouch"?!?[n][w][e]
 [s][vp 1 0 0 0 0 0]Por ser antigo tem[n]gráficos datados, mas o sistema de jogo[n]é realmente realista...[n][w][e]
 [s][vp 1 0 0 0 0 0]Ao jogá-lo, você notará que o[n]sistema de luta simula[n]táticas reais de boxe![n][w][e]
 [s][vp 1 0 0 0 0 0]É um grampo para[n]jogos de boxe. Sim, uma obra-prima![n][w][e]
 [s][vp 1 0 0 0 0 0]Ah, ainda restam alguns prêmios da época. Posso[n]trocá-los por aquele cartão postal![n][w][e]
 
-[msg GAMESHOP_GAME_POSTC_GOE [Commesso del negozio di videogiochi]]
+[msg GAMESHOP_GAME_POSTC_GOE [Balconista de loja de videogame]]
 [s][vp 1 0 0 0 0 0]Aquele cartão postal e a senha...![n]Você terminou "Legend of Gambla[n]Goemon"?!?[n][w][e]
 [s][vp 1 0 0 0 0 0]Os gráficos...[n]Transmitem perfeitamente[n]o cenário infernal...![n][w][e]
 [s][vp 1 0 0 0 0 0]Quando você toca, os sons e a música[n]criam um suspense incrível![n][w][e]
 [s][vp 1 0 0 0 0 0]É uma aposta fantástica.[n]Uma obra-prima![n][w][e]
 [s][vp 1 0 0 0 0 0]Ah, ainda restam alguns prêmios da época. Posso[n]trocá-los por aquele cartão postal![n][w][e]
 
-[msg GAMESHOP_GAME_POSTC_AKA [Commesso del negozio di videogiochi]]
+[msg GAMESHOP_GAME_POSTC_AKA [Balconista de loja de videogame]]
 [s][vp 1 0 0 0 0 0]Aquele cartão postal e a senha...![n]Já terminou "Trem da Vida"?!?[n][w][e]
 [s][vp 1 0 0 0 0 0]Fantástico! Eles não apenas adicionaram[n]movimento de dados,[n]mas também gerenciamento de recursos![n][w][e]
 [s][vp 1 0 0 0 0 0]E esses personagens de obstáculo[n]transmitem o ódio e o amor com que[n]os desenvolvedores encaram a vida![n][w][e]
 [s][vp 1 0 0 0 0 0]É inspirado em sugoroku, mas é[n]um jogo revolucionário,[n]à sua maneira. É uma obra-prima![n][w][e]
 [s][vp 1 0 0 0 0 0]Ah, ainda restam alguns prêmios da época. Posso[n]trocá-los por aquele cartão postal![n][w][e]
 
-[msg GAMESHOP_GAME_POSTC_REN [Commesso del negozio di videogiochi]]
+[msg GAMESHOP_GAME_POSTC_REN [Balconista de loja de videogame]]
 [s][vp 1 0 0 0 0 0]Aquele cartão postal e a senha...![n]Uooooo... Você terminou[n]"Star Forneus"?!?[n][w][e]
 [s][vp 1 0 0 0 0 0]Este é o primeiro jogo com o recurso[n]rapid fire! Ah, e[n]lançou a mania dos discos![n][w][e]
 [s][vp 1 0 0 0 0 0]Sim, os jogadores estavam procurando todos os[n]segredos da[n]mecânica do jogo, para superar uns aos outros![n][w][e]
 [s][vp 1 0 0 0 0 0]É o jogo que definiu[n]o gênero shooter![n]É uma obra-prima![n][w][e]
 [s][vp 1 0 0 0 0 0]Ah, ainda restam alguns prêmios da época. Posso[n]trocá-los por aquele cartão postal![n][w][e]
 
-[msg GAMESHOP_GAME_POSTC_GOL [Commesso del negozio di videogiochi]]
+[msg GAMESHOP_GAME_POSTC_GOL [Balconista de loja de videogame]]
 [s][vp 1 0 0 0 0 0]Aquele cartão postal e a senha...![n]Você terminou o "Pro Golfer[n]Sarutahiko"?!?[n][w][e]
 [s][vp 1 0 0 0 0 0]Antes de ser lançado, pensava-se que[n]um videogame sobre golfe era impossível.[n]Isso chocou a todos![n][w][e]
 [s][vp 1 0 0 0 0 0]A música, os efeitos sonoros...[n]O golfe real não tem efeitos sonoros[n]tão bons![n][w][e]
 [s][vp 1 0 0 0 0 0]É um pioneiro no gênero[n]de simulador de golfe. Uma obra-prima![n][w][e]
 [s][vp 1 0 0 0 0 0]Ah, ainda restam alguns prêmios da época. Posso[n]trocá-los por aquele cartão postal![n][w][e]
 
-[msg GAMESHOP_GAME_POSTC_MAN [Commesso del negozio di videogiochi]]
+[msg GAMESHOP_GAME_POSTC_MAN [Balconista de loja de videogame]]
 [s][vp 1 0 0 0 0 0]Aquele cartão postal e[n]a senha...! Você terminou[n]"Featherman Seeker"?!?[n][w][e]
 [s][vp 1 0 0 0 0 0]Um sistema inovador onde você não[n]apenas controla o herói,[n]mas você mesmo se torna o herói![n][w][e]
 [s][vp 1 0 0 0 0 0]Tornou-se mais do que apenas um jogo do[n]Featherman e conquistou muitos fãs![n][w][e]
 [s][vp 1 0 0 0 0 0]Um jogo verdadeiramente inconformista.[n]Uma obra-prima... isto é, uma obra-prima![n][w][e]
 [s][vp 1 0 0 0 0 0]Ah, ainda restam alguns prêmios da época. Posso[n]trocá-los por aquele cartão postal![n][w][e]
 
-[msg GAMESHOP_GiftInfoEnd [Commesso del negozio di videogiochi]]
+[msg GAMESHOP_GiftInfoEnd [Balconista de loja de videogame]]
 [s][vp 1 0 0 0 0 0]...Oh, desculpe. Eu me exaltei sem[n]perceber. Quer ver[n]alguns jogos?[n][w][e]
 
 [msg MSG_CAPSULE_MACHINE_STAR [Morgana]]
@@ -418,7 +418,7 @@
 [msg MSG_SYSTEM_SHORTCUT_VELV]
 [s]Agora você pode viajar rapidamente[n][clr 6]para o Velvet Room[clr 0].[n][w][e]
 
-[msg DUMMY_000 [dummy]]
+[msg DUMMY_000 [Bobos]]
 [s]テスト[n][w][e]
 
 [sel D_VELVET_IN_SEL top]

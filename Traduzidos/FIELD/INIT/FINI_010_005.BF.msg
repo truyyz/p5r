@@ -7,14 +7,14 @@
 [msg HELP_GIM_03]
 [s]Custo: 100.000 ienes[n]Sempre utilizável[n][e]
 
-[msg MSG_005_0_0 [Personal Trainer]]
+[msg MSG_005_0_0 [Treinador pessoal]]
 [s][vp 1 0 0 0 0 0]Bem-vindo![n][w][e]
 [s]Este é o Protein Lovers, um[n]ginásio para quem quer[n]um corpo saudável.[n][w][e]
 
-[msg MSG_009_0_0 [Personal Trainer]]
+[msg MSG_009_0_0 [Treinador pessoal]]
 [s][vp 1 0 0 0 0 0]Você ainda não está registrado.[n]Você deveria considerar fazer isso![n][w][e]
 
-[msg MSG_016_0_0 [Personal Trainer]]
+[msg MSG_016_0_0 [Treinador pessoal]]
 [s][vp 1 0 0 0 0 0]Então, qual pacote[n]você quer?[n][w][e]
 
 [sel SEL_017_0_0 top]
@@ -25,17 +25,17 @@
 [msg MSG_NO_MONEY [Morgana]]
 [s][bup 0 3 2 0 0][vp 8 2 0 1029 65535 0]Você não tem dinheiro[n]para isso...[n][w][e]
 
-[msg MSG_018_0_0 [Personal Trainer]]
+[msg MSG_018_0_0 [Treinador pessoal]]
 [s][vp 1 0 0 0 0 0]Oh, você não quer participar?[n]Você realmente deveria![n]Poderíamos suar juntos![n][w][e]
 
 [sel SEL_019_0_0 top]
 [s]Agora que penso nisso...[e]
 [s]Talvez outra hora.[e]
 
-[msg MSG_020_0_0 [Personal Trainer]]
+[msg MSG_020_0_0 [Treinador pessoal]]
 [s][vp 1 0 0 0 0 0]Eu vejo. Espero ver-te de novo![n][w][e]
 
-[msg MSG_021_0_0 [Personal Trainer]]
+[msg MSG_021_0_0 [Treinador pessoal]]
 [s][vp 1 0 0 0 0 0]Eu entendi. Isso, hein? Venha[n]quando quiser![n][w][e]
 [s][vp 1 0 0 0 0 0]Agora, para comemorar[n]sua adesão, hoje você pode treinar[n]independente do passe que escolher.[n][w][e]
 [s][vp 1 0 0 0 0 0]Já que você chegou até aqui,[n]por que não?[n][w][e]
@@ -44,20 +44,20 @@
 [s]Eu treino.[e]
 [s]Etapa.[e]
 
-[msg MSG_023_0_0 [Personal Trainer]]
+[msg MSG_023_0_0 [Treinador pessoal]]
 [s][vp 1 0 0 0 0 0]Depois de sair, você pode[n]voltar apenas nos[n]horários agendados. Fica bem em você?[n][w][e]
 
 [sel SEL_024_0_0 top]
 [s]Eu não sinto muito.[e]
 [s]Eu treino.[e]
 
-[msg MSG_025_0_0 [Personal Trainer]]
+[msg MSG_025_0_0 [Treinador pessoal]]
 [s][vp 1 0 0 0 0 0]Eu vejo. Bem, volte[n]quando quiser![n][w][e]
 
-[msg MSG_026_0_0 [Personal Trainer]]
+[msg MSG_026_0_0 [Treinador pessoal]]
 [s][vp 1 0 0 0 0 0]Tudo bem então! Vá e treine o quanto quiser![n][w][e]
 
-[msg MSG_027_0_0 [Personal Trainer]]
+[msg MSG_027_0_0 [Treinador pessoal]]
 [s][vp 1 0 0 0 0 0]Ooh, não pensei que você escolheria esse. Você[n]deve ter em mente um treino desafiador.[n][w][e]
 [s][vp 1 0 0 0 0 0]Considere a academia como uma[n]segunda casa! Venha treinar[n]sempre que quiser![n][w][e]
 [s][vp 1 0 0 0 0 0]Então, quer começar[n]a treinar agora?[n][w][e]
@@ -66,16 +66,16 @@
 [s]Eu treino.[e]
 [s]Etapa.[e]
 
-[msg MSG_029_0_0 [Personal Trainer]]
+[msg MSG_029_0_0 [Treinador pessoal]]
 [s][vp 1 0 0 0 0 0]Eu vejo. Bem, volte[n]quando quiser![n][w][e]
 
-[msg MSG_030_0_0 [Personal Trainer]]
+[msg MSG_030_0_0 [Treinador pessoal]]
 [s][vp 1 0 0 0 0 0]Tudo bem então! Vá e treine o quanto quiser![n][w][e]
 
-[msg MSG_031_0_0 [Personal Trainer]]
+[msg MSG_031_0_0 [Treinador pessoal]]
 [s][vp 1 0 0 0 0 0]Oi bom dia![n][w][e]
 
-[msg MSG_032_0_0 [Personal Trainer]]
+[msg MSG_032_0_0 [Treinador pessoal]]
 [s][vp 1 0 0 0 0 0]Então porque você está aqui?[n][w][e]
 
 [sel SEL_033_0_0 top]
@@ -84,14 +84,14 @@
 [s]Eu quero treinar.[e]
 [s]Não preciso de nada.[e]
 
-[msg MSG_034_0_0 [Personal Trainer]]
+[msg MSG_034_0_0 [Treinador pessoal]]
 [s][vp 1 0 0 0 0 0]É claro! Em qual passe[n]você está interessado?[n][w][e]
 
 [sel SEL_035_0_0 top]
 [s]Passe de Prata[ref 0 1][e]
 [s]Passe de Ouro[ref 1 2][e]
 
-[msg MSG_036_0_0 [Personal Trainer]]
+[msg MSG_036_0_0 [Treinador pessoal]]
 [s][vp 1 0 0 0 0 0]Eu vejo. Bem, volte[n]quando quiser![n][w][e]
 
 [msg MND_EVENT_NEXT_000_00]

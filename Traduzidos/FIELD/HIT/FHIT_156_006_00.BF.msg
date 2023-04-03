@@ -4,7 +4,7 @@
 [msg D156_06_miniEV01_mes02 [Makoto]]
 [s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]As comportas parecem ter mudado.[n]Procedemos com cautela.[n][w][e]
 
-[msg DUMMY_mes01 [ERROR]]
+[msg DUMMY_mes01 [ERRO]]
 [s]開発エラー:ギミックIDがズレてます![n][w][e]
 
 [msg DUMMY_EV_mes01 [仮]]

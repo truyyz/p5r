@@ -4,13 +4,13 @@
 [msg D154_003_mini_EV_03_mes0 [Ryuji]]
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7183 65535 0]Então estamos na masmorra?[n][w][e]
 
-[msg D154_003_mini_EV_03_mes0_2 [Altoparlante]]
+[msg D154_003_mini_EV_03_mes0_2 [Palestrante]]
 [s]A toda vigilância![n][w][e]
 
 [msg D154_003_mini_EV_03_mes0_3 [Makoto]]
 [s][bup 0 6 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]É Kaneshiro?!?[n][w][e]
 
-[msg D154_003_mini_EV_03_mes0_4 [Ombra di Kaneshiro]]
+[msg D154_003_mini_EV_03_mes0_4 [Sombra de Kaneshiro]]
 [s][bup 0 207 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Parece haver uma infestação de ratos![n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Você não deve deixá-lo sair por qualquer motivo![n]Reforce a vigilância o máximo possível, entendeu?[n][w][e]
 
@@ -81,16 +81,16 @@
 [msg D154_003_ENTRY_HOLE_MES__3 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1021 65535 0]De acordo com o mapa, daqui[n]devemos poder descer.[n][w][e]
 
-[msg D154_003_ENTRY_HOLE_MES__4 [Ombra prudente]]
+[msg D154_003_ENTRY_HOLE_MES__4 [Sombra cautelosa]]
 [s]Ei, você ouviu? Parece que[n]intrusos estão causando[n]caos por aqui.[n][w][e]
 
 [msg D154_003_ENTRY_HOLE_MES__5 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1190 65535 0]Huh? Cale-se! Eu ouço alguém falando![n][w][e]
 
-[msg D154_003_ENTRY_HOLE_MES__6 [Ombra prudente]]
+[msg D154_003_ENTRY_HOLE_MES__6 [Sombra cautelosa]]
 [s]Portanto, este plano é... e[n]Kaneshiro-sama nos ordenou...[n][w][e]
 
-[msg D154_003_ENTRY_HOLE_MES__7 [Ombra aggressiva]]
+[msg D154_003_ENTRY_HOLE_MES__7 [Sombra agressiva]]
 [s]Sim, mas... Ou seja, com essas duas[n]chaves... acontece?[n][w][e]
 
 [msg D154_003_ENTRY_HOLE_MES__8 [Ryuji]]

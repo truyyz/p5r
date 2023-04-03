@@ -14,7 +14,7 @@
 [msg MND_HELP_LDAY_CALL]
 [s][vp 1 0 0 0 0 0]Eu ouço um homem e uma mulher discutindo à[n]distância...[n][w][e]
 
-[msg MSG_GREETING_HELP [mulher gritando]]
+[msg MSG_GREETING_HELP [Ele ponderou gritando]]
 [s][vp 8 0 1 27 851 0]Socorro![n][f 1 2 90][e]
 
 [msg MSG_GREETING_00 [???]]

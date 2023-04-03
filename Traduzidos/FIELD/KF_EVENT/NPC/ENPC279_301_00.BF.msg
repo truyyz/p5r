@@ -2,15 +2,15 @@
 [s]Sim[e]
 [s]Não[e]
 
-[msg MSG_NPC_850 [Uomo del vicinato]]
+[msg MSG_NPC_850 [Homem da vizinhança]]
 [s][vp 8 2 1 0 850 0]Futaba...?[n][w][e]
 [s][vp 8 2 1 0 850 0]Não. Não sei quem é.[n][w][e]
 
-[msg MSG_NPC_851 [Vecchietto saggio]]
+[msg MSG_NPC_851 [Velho sábio]]
 [s][vp 8 2 1 0 851 0]Futaba...? E quem é ele?[n]Parece que não conheço[n]ninguém com esse nome.[n][w][e]
 [s][vp 8 2 1 0 851 0]Mas essa Futaba não vai ficar brava[n]descobrindo que você sai por aí perguntando[n]sobre o negócio dela?[n][w][e]
 
-[msg MSG_NPC_852 [Vecchietto frastornato]]
+[msg MSG_NPC_852 [Velho atordoado]]
 [s][vp 8 2 1 0 852 0]Futaba? Futaba...[n]Sim, o nome me diz algo...[n]eu ouvi em algum lugar...[n][w][e]
 [s][vp 1 0 0 0 0 0]......[n][w][e]
 [s][vp 8 2 1 0 852 0]Oh sim! Na escola primária, eu[n]tinha uma queda por um professor[n]cujo nome era apenas isso![n][w][e]
@@ -18,10 +18,10 @@
 [msg MSG_NPC_852_MOR [Morgana]]
 [s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 65535 1178 0 0]関係ねえな。[n][w][e]
 
-[msg MSG_NPC_853 [Casalinga del vicinato]]
+[msg MSG_NPC_853 [Dona de casa do bairro]]
 [s][vp 8 2 1 0 853 0]Sakura-san é solteira, não é?[n]Eu não achava que ela tinha filhos.[n][w][e]
 
-[msg MSG_NPC_854_00 [Acquirente]]
+[msg MSG_NPC_854_00 [Comprador]]
 [s][vp 8 2 1 0 854 0]Futaba? Pode ser...[n][w][e]
 [s][vp 8 2 1 0 854 0]A propósito, você come muito?[n][w][e]
 
@@ -30,13 +30,13 @@
 [s]Ei, eu tenho que crescer.[e]
 [s]Eu não diria.[e]
 
-[msg MSG_NPC_854_01a [Acquirente]]
+[msg MSG_NPC_854_01a [Comprador]]
 [s][vp 8 2 1 0 854 0]Cada vez que o patrão[n]compra comida, é o suficiente[n]para alimentar três pessoas.[n][w][e]
 
-[msg MSG_NPC_854_01b [Acquirente]]
+[msg MSG_NPC_854_01b [Comprador]]
 [s][vp 8 2 1 0 854 0]Se são só vocês dois, são[n]dois de vocês para comer.[n]Você deve estar com muita fome.[n][w][e]
 
-[msg MSG_NPC_854_02 [Acquirente]]
+[msg MSG_NPC_854_02 [Comprador]]
 [s][vp 8 2 1 0 854 0]Coisa? Quer dizer que você não come tanto? Aí vai[n]ser o patrão que come muito...[n][w][e]
 
 [msg MSG_NPC_855 [Entregador]]

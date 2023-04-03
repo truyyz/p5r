@@ -1,7 +1,7 @@
 [msg MSG_C02_BEGIN_D01_00]
 [s]Ela não me notou...[n]Ela deve estar concentrada.[n][w][e]
 
-[msg MSG_C02_BEGIN_D01_50 [Studente serioso]]
+[msg MSG_C02_BEGIN_D01_50 [Estudante sério]]
 [s][bup 0 6 3 65535 0][f 4 23 1 202 30 10 30 10][vp 8 2 1 2015 65535 0][f 4 10 65535 0 0]Após a brincadeira daqueles "ladrões fantasmas",[n]Kamoshida-sensei tornou-se inacessível...[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 202 0]Além disso, depois das férias há exames. Quem[n]sabe como será o próximo trimestre...[n][w][e]
 
