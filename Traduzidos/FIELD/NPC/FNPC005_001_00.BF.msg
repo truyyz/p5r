@@ -2264,7 +2264,7 @@
 [s][f 4 23 1 41 3 10 0 10][vp 8 2 1 0 41 0]Ah, você está espinhosa como sempre.[n][w][e]
 [s][vp 8 2 1 0 41 0]Bem, devo dizer que você encontrou sua verdadeira[n]vocação: ganhar a vida saindo para beber.[n][w][e]
 
-[msg MSG_NOMIYA_010_030_000 [Sommelier del sake]]
+[msg MSG_NOMIYA_010_030_000 [Saquê Sommelier]]
 [s][f 4 23 1 40 3 10 0 10][vp 8 2 1 0 40 0]Hehe. É o melhor trabalho do mundo.[n]Enquanto eu escrever os artigos,[n]posso beber o quanto quiser. É grátis![n][w][e]
 [s][vp 8 2 1 0 40 0]Enfim... Você ouviu falar daquele[n]professor do ensino médio que tocou[n]as alunas? Que idiota![n][w][e]
 
