@@ -88,11 +88,11 @@
 [s]Eu quero ir lá.[e]
 [s]Eu não estou interessado.[e]
 
-[msg MSG_JYORENKYAKU_002_1_0 [Cliente borioso]]
+[msg MSG_JYORENKYAKU_002_1_0 [Cliente arrogante]]
 [s][f 4 23 1 0 3 10 0 0][vp 8 2 1 0 0 0]Hehe. Você não precisa liberar seu estresse[n]assim. Não até que você sofra as dores da vida[n]adulta.[n][w][e]
 [s][vp 8 2 1 0 0 0]E você está muito velho para ser um jogador de[n]beisebol. Mas ainda é uma distração agradável.[n][w][e]
 
-[msg MSG_JYORENKYAKU_002_3_0 [Cliente borioso]]
+[msg MSG_JYORENKYAKU_002_3_0 [Cliente arrogante]]
 [s][f 4 23 1 0 3 10 0 0][vp 8 2 1 0 0 0]Hehe. Eu te invejo. Se você não quer[n]ir, isso significa que você não tem[n]stress para desabafar.[n][w][e]
 [s][vp 8 2 1 0 0 0]Eu sofro muita dificuldade com[n]trabalho, sabe. A maldição do[n]talento é ser objeto de inveja.[n][w][e]
 
