@@ -42,7 +42,7 @@
 [s][f 5 14][f 5 15]Vamos conversar mais no esconderijo, ok?[n][w][e]
 
 [msg MSG_009_0_0 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Bem, se o encontramos em[n]Memento, não podemos[n]simplesmente ignorá-lo.[n][f 1 3 65535][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Bem, se o encontramos em[n]Mementos, não podemos[n]simplesmente ignorá-lo.[n][f 1 3 65535][w][e]
 [s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 1 1021 65535 0]E a julgar pelas postagens,[n]a vítima aqui é uma criança...[n][f 1 3 65535][w][e]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ainda há muitas pessoas que[n]precisam de nós. Vamos ver o que[n]podemos fazer por eles![n][f 1 3 65535][w][e]
 

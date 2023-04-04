@@ -228,7 +228,7 @@
 [s][bup 0 302 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]No entanto, ainda não está claro se Goemon era[n]realmente um ladrão cavalheiro.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]A rebelião contra Hideyoshi, cuja campanha[n]falhou; a propaganda do governo para[n]denegri-lo...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]O ladrão cavalheiro Goemon poderia[n]ser uma mera ilusão[n]criada por uma série de razões.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]De fato, muitos heróis e malandros[n]cavalheiros da história[n]são semelhantes a ele.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]De fato, muitos heróis e Trapaceiros[n]cavalheiros da história[n]são semelhantes a ele.[n][f 1 3 65535][w][e]
 
 [msg MSG_059_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1035 65535 0]Vamos garantir que as pessoas não[n]nos considerem uma mera ilusão.[n][f 1 3 65535][w][e]
@@ -1229,7 +1229,7 @@
 [s][bup 0 302 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]No entanto, ainda não está claro se Goemon era[n]realmente um ladrão cavalheiro.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]A rebelião contra Hideyoshi, cuja campanha[n]falhou; a propaganda do governo para[n]denegri-lo...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]O ladrão cavalheiro Goemon poderia[n]ser uma mera ilusão[n]criada por uma série de razões.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]De fato, muitos heróis e malandros[n]cavalheiros da história[n]são semelhantes a ele.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]De fato, muitos heróis e Trapaceiros[n]cavalheiros da história[n]são semelhantes a ele.[n][f 1 3 65535][w][e]
 
 [msg MSG_299_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1035 65535 0]Vamos garantir que as pessoas não[n]nos considerem uma mera ilusão.[n][f 1 3 65535][w][e]

@@ -146,7 +146,7 @@
 [s]O que aconteceu com Maruki no dia em que o céu[n]ficou vermelho?[n][w][e]
 
 [msg D10_11_4th_passcode_lock_2 [Haru]]
-[s][bup 0 7 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]"Quando o céu ficou vermelho"?[n]Referindo-se a quando Memento[n]se fundiu com o mundo real?[n][w][e]
+[s][bup 0 7 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]"Quando o céu ficou vermelho"?[n]Referindo-se a quando Mementos[n]se fundiu com o mundo real?[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Deixamos a resposta para você, Joker.[n][w][e]
 
 [sel D10_11_4th_passcode_lock_3 top]

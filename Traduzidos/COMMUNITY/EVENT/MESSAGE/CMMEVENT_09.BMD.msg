@@ -6,7 +6,7 @@
 [msg CMM_EVENT_RANKUP_2]
 [s][vp 1 0 0 0 0 0]O Confidente do Arcano: O Eremita[n]alcançou [clr 2]Nível 2[clr 27]![n][f 1 3 65535][w][e]
 [s][vp 1 0 0 0 0 0]Agora você ganhará mais XP[n]do Arcanum Surge ao fundir[n]Personas Arcanas: O Eremita![n][f 1 3 65535][w][e]
-[s][vp 1 0 0 0 0 0]Futaba agora pode usar [clr 1]Memento Scan[n][clr 27]![n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Futaba agora pode usar [clr 1]Mementos Scan[n][clr 27]![n][f 1 3 65535][w][e]
 
 [msg CMM_EVENT_RANKUP_3]
 [s][vp 1 0 0 0 0 0]O Confidente do Arcano: O Eremita[n]alcançou [clr 2]Rank 3[clr 27]![n][f 1 3 65535][w][e]

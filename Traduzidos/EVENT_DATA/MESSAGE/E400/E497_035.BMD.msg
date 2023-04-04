@@ -25,7 +25,7 @@
 [s][bup 0 6 104 0 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]E aquele céu vermelho... Será que foi[n]o dia em que[n]enfrentamos o Deus do Controle?[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]De fato, Lady Lavenza[n]revelou para nós que a realidade e o Memento[n]se fundiram naquele momento...[n][f 1 3 65535][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]De fato, Lady Lavenza[n]revelou para nós que a realidade e o Mementos[n]se fundiram naquele momento...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]E como você bem sabe, o despertar[n]de uma Persona só pode ocorrer[n]no Metaverso.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Isso significa que a Pessoa de Maruki[n]despertou[n]apenas durante aquela cena.[n][f 1 3 65535][w][e]
 

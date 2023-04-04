@@ -209,7 +209,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Lá ninguém pode se intrometer.[n][w][e]
 
 [msg MSG_AKECHI_COOP_C07_00_2 [Akechi]]
-[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 208 3 10 0 10]Você está pronto para vir comigo no Memento?[n][w][e]
+[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 208 3 10 0 10]Você está pronto para vir comigo no Mementos?[n][w][e]
 
 [msg MSG_AKECHI_COOP_C07_00_L [Akechi]]
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 208 3 10 0 10]Um confronto, hein?[n]Ok, eu vou te dar isso.[n][w][e]

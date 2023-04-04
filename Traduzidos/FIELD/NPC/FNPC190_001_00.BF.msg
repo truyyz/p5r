@@ -31,7 +31,7 @@
 [s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 2 1 11064 65535 0][f 4 23 1 121 4 3 0 3]Não vamos relaxar na reabilitação, certo?[n][w][e]
 
 [msg BTL_PRE_MES_03 [Caroline]]
-[s][bup 0 102 1 0 0][f 4 10 65535 0 0][vp 8 2 1 11067 65535 0][f 4 23 1 121 3 3 0 3]Quando ouvimos sobre[n]sua aparição em Memento,[n]corremos imediatamente.[n][w][e]
+[s][bup 0 102 1 0 0][f 4 10 65535 0 0][vp 8 2 1 11067 65535 0][f 4 23 1 121 3 3 0 3]Quando ouvimos sobre[n]sua aparição em Mementos,[n]corremos imediatamente.[n][w][e]
 
 [msg BTL_EVT_ONCE_MES_01 [Caroline]]
 [s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 2 1 11065 65535 0][f 4 23 1 121 3 3 0 3]Se precisar de ajuda com[n]fusões, fale com Justine.[n][w][e]

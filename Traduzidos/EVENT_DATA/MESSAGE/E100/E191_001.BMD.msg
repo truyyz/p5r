@@ -66,7 +66,7 @@
 
 [msg MSG_022_0_0 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]É que, no especial que eu vi[n]na TV, o trabalho dele foi incrível.[n]E aí temos ingressos grátis.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Além disso, poderíamos aproveitar a oportunidade[n]para saber mais sobre o que ouvimos no Memento.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Além disso, poderíamos aproveitar a oportunidade[n]para saber mais sobre o que ouvimos no Mementos.[n][f 1 3 65535][w][e]
 
 [msg MSG_022_1_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 38 65535 0]...Madarame, certo?[n][f 1 3 65535][w][e]

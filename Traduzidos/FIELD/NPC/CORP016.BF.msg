@@ -186,7 +186,7 @@
 
 [msg MND_C16_COOP_08_01]
 [s]Shinya deu a sua mãe[n]a carta de aviso.[n][w][e]
-[s]Vamos ao Memento[n]e despertar seu coração...[n][w][e]
+[s]Vamos ao Mementos[n]e despertar seu coração...[n][w][e]
 
 [msg MSG_C16_COOP_08_02 [Shinya]]
 [s][bup 0 110 1 0 0][f 4 10 65535 0 0][f 4 23 1 216 3 10 0 10][vp 8 2 1 17002 65535 0][f 4 1]-san...! Ei escute![n][w][e]

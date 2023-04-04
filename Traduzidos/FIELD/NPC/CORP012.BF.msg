@@ -322,7 +322,7 @@
 
 [msg MND_C12_COOP_07_12]
 [s]Eu adquiri o nome de Tsuda.[n]Ao despertar seu coração, eu poderia[n]influenciar o negócio.[n][w][e]
-[s]Vamos ao Memento para[n]despertar o coração de Tsuda...[n][w][e]
+[s]Vamos ao Mementos para[n]despertar o coração de Tsuda...[n][w][e]
 
 [msg MSG_C12_COOP_07_02 [Iwai]]
 [s][bup 0 104 0 0 0][f 4 10 65535 0 0][f 4 23 1 212 49 10 40 10][vp 8 2 1 0 65535 0]Tsuda me ligou.[n]Eu gostaria de deixar você saber[n]todos os detalhes. Tens tempo?[n][w][e]

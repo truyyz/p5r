@@ -616,7 +616,7 @@
 [s]Quem estava lá com Morgana?[n][w][e]
 
 [msg MND_StopAct_Common_0916]
-[s]Se eu fosse para Memento[n]talvez conhecesse aqueles dois.[n][w][e]
+[s]Se eu fosse para Mementos[n]talvez conhecesse aqueles dois.[n][w][e]
 
 [msg MSG_StopAct_Common_0917 [Morgana]]
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 1035 65535 0]Este lugar é insípido[n]como sempre... Mas eu acho[n]quente o suficiente.[n][w][e]

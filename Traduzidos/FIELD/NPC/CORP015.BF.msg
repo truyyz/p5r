@@ -181,7 +181,7 @@
 
 [msg MND_C15_COOP_07_02]
 [s]Ohya parece terrivelmente cansada...[n][w][e]
-[s]Eu tenho o nome de seu chefe.[n]Vamos para Memento[n]e despertar seu coração...[n][w][e]
+[s]Eu tenho o nome de seu chefe.[n]Vamos para Mementos[n]e despertar seu coração...[n][w][e]
 
 [msg MSG_C15_COOP_07_03 [Ohya]]
 [s][bup 0 107 4 65535 0][f 4 10 65535 0 0][f 4 23 1 215 14 10 13 10][vp 8 2 1 0 65535 0]Olha, você não consegue entender[n]como o comportamento do chefe[n]tem sido estranho ultimamente![n][w][e]

@@ -35,7 +35,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eles não podem nem usar os equipamentos da[n]escola. Eles se exercitam dando a volta no[n]quarteirão.[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Ryuji]]
-[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Não há lugar para[n]párias como eles.[n][f 1 3 65535][w][e]
+[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Não há lugar para[n]excluídos como eles.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E eu deveria saber[n]melhor do que ninguém...[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Ryuji]]
@@ -54,17 +54,17 @@
 [s][vp 1 0 0 0 0 0]......[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Ryuji]]
-[s][bup 0 2 5 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 8 10 2]Ah, sim... Nós dois somos párias, hein?[n][f 1 3 65535][w][e]
+[s][bup 0 2 5 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 8 10 2]Ah, sim... Nós dois somos excluídos, hein?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Com os rumores circulando sobre você,[n]deve ser difícil[n]para você aparecer na escola.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eh, estamos sempre fora do lugar...[n]Mas quer saber? Talvez[n]não seja tão ruim assim.[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Agora que penso nisso, tentar[n]encaixar-se é uma grande dor.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 10 300 65535][vp 8 0 0 0 65535 0]Além disso, se eu não fosse um pária,[n]eu nunca teria conhecido[n]vocês, não é?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 10 300 65535][vp 8 0 0 0 65535 0]Além disso, se eu não fosse um excluído,[n]eu nunca teria conhecido[n]vocês, não é?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Então... ótimo![n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Ryuji]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 10 300 1][vp 8 2 0 7048 65535 0]Realmente, porém, estou[n]tendo uma explosão! Estar[n]com você é muito legal![n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 10 300 1][vp 8 2 0 7048 65535 0]Realmente, porém, estou[n]me divertindo pra caralho! Sair[n]com vocês é muito maneiro![n][f 1 3 65535][w][e]
 
 [msg MND_990_0_0]
 [s][vp 8 0 0 0 65535 0]Eu sinto meu vínculo[n]com Ryuji ficando mais forte...[n][f 1 3 65535][w][e]

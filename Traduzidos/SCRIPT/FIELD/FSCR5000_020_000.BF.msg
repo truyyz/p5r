@@ -152,7 +152,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1139 65535 0](仮)ラスダン専用メッセージ。[n][w][e]
 
 [msg QUEST_TALK_D7_PLAYABLE1 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Huh? Gostaria de ir ao Memento?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Huh? Gostaria de ir ao Mementos?[n][w][e]
 [s]Concordo. Não faz sentido deixar passar o tempo[n]desnecessariamente até o dia do golpe.[n][w][e]
 
 [msg QUEST_TALK_D7_PLAYABLE2 [Ryuji]]

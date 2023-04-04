@@ -102,7 +102,7 @@
 [s][bup 0 201 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Aproveite este novo vínculo[n]para fortalecer seu[n]círculo de apoio.[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]A propósito, perseguir Kaneshiro acabou no[n]distrito da luz vermelha, não foi?[n][f 1 3 65535][w][e]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]A propósito, perseguir Kaneshiro acabou no[n]distrito da Luz Vermelha, não foi?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Eu gostaria de ir lá também.[n]Não! N-não por motivos pessoais...[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Makoto]]

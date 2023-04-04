@@ -11,7 +11,7 @@
 [s][f 5 14]Obrigada.[n][w][e]
 
 [msg CHAT_REACTION_02 [Yoshida]]
-[s][f 5 14]Venha para a frente da estação[n]shibuya.[n][w][e]
+[s][f 5 14]Venha para a frente da estação[n]Shibuya.[n][w][e]
 
 [msg CHAT_REACTION_03 [Yoshida]]
 [s][f 5 14]Eu vou esperar por você.[n][f 5 15][w][e]

@@ -115,7 +115,7 @@
 [s]Espero que você ligue de volta[n]em breve![n][w][e]
 
 [msg MSG_KAWAKAMI_CORP_C08_01 [Morgana]]
-[s][bup 0 3 0 0 0]Nós temos um nome, então[n]nós entramos em Memento.[n][w][e]
+[s][bup 0 3 0 0 0]Nós temos um nome, então[n]nós entramos em Mementos.[n][w][e]
 
 [msg MSG_KAWAKAMI_CORP_C08_03 [Kawakami]]
 [s][bup 0 109 0 65535 1]Alô, aqui é a Becky![n][w][e]

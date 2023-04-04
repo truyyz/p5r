@@ -15,7 +15,7 @@
 [s][bup 0 3 3 0 0]......[n][w][e]
 
 [msg AT_D_BF_D10_BEFORE_LOWES [Yusuke]]
-[s][bup 0 5 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4028 65535 0]O retorno ao Memento foi uma[n]surpresa, mas ver como eles[n]mudaram foi ainda mais.[n][w][e]
+[s][bup 0 5 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4028 65535 0]O retorno ao Mementos foi uma[n]surpresa, mas ver como eles[n]mudaram foi ainda mais.[n][w][e]
 
 [msg AT_D_BF_D10_BEFORE_LOWES_2 [Futaba]]
 [s][bup 0 8 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Sim, há movimentos estranhos[n]e das profundezas recebo sinais[n]estranhamente poderosos.[n][w][e]
@@ -25,7 +25,7 @@
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1021 65535 0]De qualquer forma, parece que teremos que[n]mergulhar nas profundezas e descobrir o que está[n]acontecendo.[n][w][e]
 
 [msg AT_D_BF_D10_BEFORE_CABLE [Haru]]
-[s][bup 0 7 3 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 3178 65535 0]A maneira como as profundezas do[n]Memento[n]mudaram é incrível…[n][w][e]
+[s][bup 0 7 3 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 3178 65535 0]A maneira como as profundezas do[n]Mementos[n]mudaram é incrível…[n][w][e]
 
 [msg AT_D_BF_D10_BEFORE_CABLE_2 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]É normal que eles mudem tanto?[n]quer dizer, já é um absurdo pensar[n]que tudo isso é normal...[n][w][e]

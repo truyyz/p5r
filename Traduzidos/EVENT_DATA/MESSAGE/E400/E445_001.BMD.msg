@@ -95,7 +95,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 61 65535 0]E se nós roubarmos...[n][f 1 3 65535][w][e]
 
 [msg MSG_045_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 127 65535 0]O colapso do Memento afetaria toda a população. O[n]estado da sociedade também mudaria.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 127 65535 0]O colapso do Mementos afetaria toda a população. O[n]estado da sociedade também mudaria.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 128 65535 0]Se todos, em seus corações,[n]responsabilizassem Shido,[n]as coisas nos favoreceriam.[n][f 1 3 65535][w][e]
 
 [msg MSG_046_0_0 [Yusuke]]

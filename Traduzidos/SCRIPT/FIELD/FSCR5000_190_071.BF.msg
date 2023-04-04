@@ -5,7 +5,7 @@
 [s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6194 65535 0]O que você está falando?[n][w][e]
 
 [msg AT_D_BF_D07_010_mes03 [Ryuji]]
-[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Oh, hum... Sombras em[n]trens em Memento.[n][w][e]
+[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Oh, hum... Sombras em[n]trens em Mementos.[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eles se alinham no[n]cais e os levam embora.[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Isso significa que ele está bem em[n]ir para as profundezas?[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Mas por que...?[n][w][e]

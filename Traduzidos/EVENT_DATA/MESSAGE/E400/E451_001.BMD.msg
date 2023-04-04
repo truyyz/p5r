@@ -26,7 +26,7 @@
 
 [msg MSG_004_0_0 [Igor]]
 [s][bup 0 201 0 0 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Você perdeu o jogo.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Você deveria trazer mudanças para a humanidade[n]como o Malandro, mas foi demais para você.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Você deveria trazer mudanças para a humanidade[n]como o Trapaceiro, mas foi demais para você.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]De acordo com as regras do[n]jogo, o derrotado tem um preço[n]a pagar.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Sua vida está condenada.[n][f 1 3 65535][w][e]
 

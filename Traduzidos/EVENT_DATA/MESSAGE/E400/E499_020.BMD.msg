@@ -2,7 +2,7 @@
 [s][bup 0 4 104 0 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]Ei, olha![n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Morgana]]
-[s][bup 0 3 4 0 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Uma pessoa?!? Aqui no Memento?!?[n][f 1 3 65535][w][e]
+[s][bup 0 3 4 0 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Uma pessoa?!? Aqui no Mementos?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Garotinho vestido de branco]]
 [s][bup 0 221 3 0 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Hmm...[n][f 1 3 65535][w][e]

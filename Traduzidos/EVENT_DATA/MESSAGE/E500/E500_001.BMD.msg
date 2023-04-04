@@ -7,7 +7,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]Vejo que você está ciente de sua situação. Eu[n]gosto da sua atitude.[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Justine]]
-[s][bup 0 101 2 0 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]De qualquer forma, como você[n]descobriu o Memento...?[n][f 1 3 65535][w][e]
+[s][bup 0 101 2 0 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]De qualquer forma, como você[n]descobriu o Mementos...?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Talvez ele seja mais inteligente[n]do que imaginávamos.[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Caroline]]

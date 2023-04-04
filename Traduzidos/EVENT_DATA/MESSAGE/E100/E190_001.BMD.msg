@@ -56,7 +56,7 @@
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]Eles o apresentaram como um artista japonês[n]superfamoso e mundialmente famoso.[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Ann]]
-[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Mas é o mesmo nome que[n]ouvimos outro dia[n]no Memento...[n][f 1 3 65535][w][e]
+[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Mas é o mesmo nome que[n]ouvimos outro dia[n]no Mementos...[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Madarame]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 203 1 301 1][vp 8 0 0 23 65535 0]Yusuke![n][f 1 3 65535][w][e]

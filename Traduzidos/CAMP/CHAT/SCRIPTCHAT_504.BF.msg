@@ -12,5 +12,5 @@
 [s][f 5 14][f 5 15]Bem, vejo você.[n][w][e]
 
 [msg MSG_MORUGANA [Morgana]]
-[s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Vingança...? O que você estava fazendo[n]em Memento...?[n][f 1 3 65535][w][e]
+[s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Vingança...? O que você estava fazendo[n]em Mementos...?[n][f 1 3 65535][w][e]
 

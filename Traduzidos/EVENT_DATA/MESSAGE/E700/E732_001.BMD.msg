@@ -15,7 +15,7 @@
 
 [msg MSG_004_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Houve alguns incidentes estranhos este ano. Não[n]faça bobagens durante o intervalo.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Eu entendi? Não vá a lugares com sombra[n]como o distrito da luz vermelha.[n]E não vá à praia à noite.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Eu entendi? Não vá a lugares com sombra[n]como o distrito da Luz Vermelha.[n]E não vá à praia à noite.[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu quero ir à praia...[n]Eu quero um[n]banho refrescante...[n][f 1 3 65535][w][e]

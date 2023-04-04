@@ -704,7 +704,7 @@
 [s][f 4 23 1 32 3 10 0 0][vp 8 2 1 0 32 0]Espero que os jovens nunca[n]esqueçam as lições[n]que aprendemos este ano.[n][w][e]
 
 [msg MSG_TEREBIKAMERA_KF_1029 [Repórter]]
-[s][f 4 23 1 46 5 10 4 0][vp 8 2 1 0 46 0]Estamos ao vivo da estação[n]shibuya.[n][w][e]
+[s][f 4 23 1 46 5 10 4 0][vp 8 2 1 0 46 0]Estamos ao vivo da estação[n]Shibuya.[n][w][e]
 [s][vp 8 2 1 0 46 0]O descarrilamento de ontem[n]teve repercussões[n]em todos os transportes.[n][w][e]
 [s][vp 8 2 1 0 46 0]A série de acidentes não tem conhecimento dos[n]passageiros...[n][w][e]
 
@@ -4119,7 +4119,7 @@
 [s][f 4 23 1 605 3 10 0 0][vp 8 2 1 0 605 0]Imediatamente![n][w][e]
 
 [msg Quest49_target_sinjyo_01 [Morgana]]
-[s][bup 0 3 5 65535 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Devemos nos apressar para mudar[n]seu coração para Memento.[n][w][e]
+[s][bup 0 3 5 65535 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Devemos nos apressar para mudar[n]seu coração para Mementos.[n][w][e]
 
 [msg Quest49_target_02_00 [Homem impassível]]
 [s][f 4 23 1 605 3 10 0 0][vp 8 2 1 0 605 0]É verdade que você decidiu[n]não fugir para o exterior?!?[n][w][e]

@@ -748,7 +748,7 @@
 [msg MSG_181_0_0 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Enfim, junho está quase acabando.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Derrotamos Kaneshiro,[n]para que possamos descansar[n]um pouco... Pelo menos eu acho.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O que você pretende fazer hoje?[n]Talvez um passeio em Memento?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O que você pretende fazer hoje?[n]Talvez um passeio em Mementos?[n][f 1 3 65535][w][e]
 
 [sel SEL_182_0_0 top]
 [s]É uma boa ideia.[f 2 7 0 1 971 1][e]
@@ -1156,7 +1156,7 @@
 [msg MSG_281_0_0 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O dia em que Haru será levado está se[n]aproximando...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Temos o Tesouro agora,[n]então só temos que esperar.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ainda assim, gostaria que fizéssemos algo,[n]enquanto esperamos. Por que não vamos ao Memento[n]hoje?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ainda assim, gostaria que fizéssemos algo,[n]enquanto esperamos. Por que não vamos ao Mementos[n]hoje?[n][f 1 3 65535][w][e]
 
 [sel SEL_282_0_0 top]
 [s]OK, vamos lá.[f 2 7 0 1 971 1][e]
@@ -1947,7 +1947,7 @@
 [s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 57005 65535 0]Bom dia, senpai.[n][f 1 3 65535][w][e]
 
 [msg MSG_451_0_0 [Sumire]]
-[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vamos visitar Memento hoje?[n]Estou sempre pronto para ir.[n][f 1 3 65535][w][e]
+[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vamos visitar Mementos hoje?[n]Estou sempre pronto para ir.[n][f 1 3 65535][w][e]
 
 [sel SEL_452_0_0 top]
 [s]Vamos.[f 2 7 0 1 971 1][e]
@@ -1984,7 +1984,7 @@
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 8005 65535 0]Bom dia [f 4 2].[n][f 1 3 65535][w][e]
 
 [msg MSG_461_0_0 [Akechi]]
-[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você está livre depois da escola?[n]Eu estava pensando em visitar o Memento.[n][f 1 3 65535][w][e]
+[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você está livre depois da escola?[n]Eu estava pensando em visitar o Mementos.[n][f 1 3 65535][w][e]
 
 [sel SEL_462_0_0 top]
 [s]OK, vamos embora.[f 2 7 0 1 971 1][e]
@@ -2002,7 +2002,7 @@
 
 [msg MSG_466_0_0 [Sumire]]
 [s][bup 0 10 2 65535 0][f 4 10 65535 0 0][vp 8 2 0 57142 65535 0]Hum, tenho certeza que você sabe,[n]mas não resta muito tempo.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Temos que consertar o mundo,[n]caso contrário... Vamos para o Memento[n]hoje, certo?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Temos que consertar o mundo,[n]caso contrário... Vamos para o Mementos[n]hoje, certo?[n][f 1 3 65535][w][e]
 
 [sel SEL_467_0_0 top]
 [s]Claro.[f 2 7 0 1 971 1][e]
@@ -2394,7 +2394,7 @@
 [msg MSG_566_0_0 [Sumire]]
 [s][bup 0 10 903 65535 0][f 4 10 65535 0 0][vp 8 2 0 57113 65535 0]Encontramos um caminho para o[n]Treasure. Agora é só esperar...[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]Eu entendo, mas ainda não consigo[n]me acalmar.[n][f 1 3 65535][w][e]
-[s][bup 0 10 900 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Hum, se tivermos tempo, podemos[n]ir ao Memento?[n][f 1 3 65535][w][e]
+[s][bup 0 10 900 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Hum, se tivermos tempo, podemos[n]ir ao Mementos?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Eu gostaria de ter mais dicas sobre[n]como lutar no Metaverso...[n][f 1 3 65535][w][e]
 
 [sel SEL_567_0_0 top]
@@ -2417,7 +2417,7 @@
 [msg MSG_571_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 7184 65535 0]O grande dia está quase chegando.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Fizemos tudo[n]que podíamos. Agora temos que[n]esperar...[n][f 1 3 65535][w][e]
-[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Você está ocupado hoje? Se você for treinar[n]em Memento, eu irei com você.[n][f 1 3 65535][w][e]
+[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Você está ocupado hoje? Se você for treinar[n]em Mementos, eu irei com você.[n][f 1 3 65535][w][e]
 
 [sel SEL_572_0_0 top]
 [s]Sim, vamos treinar.[f 2 7 0 1 971 1][e]

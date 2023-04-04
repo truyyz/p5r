@@ -2483,7 +2483,7 @@
 [msg MSG_quest52_morgana_02 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Esse cara parece um verdadeiro pesadelo.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Acho que o nome dele é Yuya Uchimura.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Vamos voltar ao Memento o mais rápido[n]possível... esse bastardo[n]merece um bom despertar do coração![n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Vamos voltar ao Mementos o mais rápido[n]possível... esse bastardo[n]merece um bom despertar do coração![n][w][e]
 
 [msg quest52_hint_talk_02_00 [Amante de fofocas]]
 [s][vp 8 2 1 0 600 0]Ei, você ouviu sobre aquela[n]mulher? Aquele com o menino[n]violento.[n][w][e]

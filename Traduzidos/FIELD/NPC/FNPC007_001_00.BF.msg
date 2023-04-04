@@ -1060,7 +1060,7 @@
 [s][f 4 23 1 604 3 10 0 10][vp 8 2 1 0 604 0]Sim, você é um golpista profissional![n]Piada. Hahaha![n][w][e]
 
 [msg Quest50_target_sinjyo_01 [Morgana]]
-[s][bup 0 3 5 65535 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Devemos nos apressar para mudar[n]seu coração para Memento.[n][w][e]
+[s][bup 0 3 5 65535 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Devemos nos apressar para mudar[n]seu coração para Mementos.[n][w][e]
 
 [msg Quest50_target_02_00 [Yoshihito Wakasa]]
 [s][f 4 23 1 605 3 10 0 10][vp 8 2 1 0 605 0]Pare com isso, mãe. Eu quero compensar o que fiz.[n][w][e]

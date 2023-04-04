@@ -241,7 +241,7 @@
 
 [msg MND_C17_COOP_07_11]
 [s]Hifumi está preocupada.[n]Ela não sabe o que fazer...[n][w][e]
-[s]Eu tenho o nome de sua mãe.[n]Vamos para Memento[n]e despertar seu coração...[n][w][e]
+[s]Eu tenho o nome de sua mãe.[n]Vamos para Mementos[n]e despertar seu coração...[n][w][e]
 
 [msg MSG_C17_COOP_07_20 [Hifumi]]
 [s][bup 0 106 0 65535 0][f 4 10 65535 0 0][f 4 23 1 217 14 10 13 10][vp 8 2 1 0 65535 0]...O fato é que... algo[n]inesperado aconteceu...[n][w][e]

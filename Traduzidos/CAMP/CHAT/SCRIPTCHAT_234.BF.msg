@@ -24,7 +24,7 @@
 
 [msg MSG_034_0_0 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Outro trabalho bem feito![n]Agora você parece ter conseguido[n]a mão com o despertar do coração.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Mas...devemos investigar o[n]Memento.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Mas...devemos investigar o[n]Mementos.[n][f 1 3 65535][w][e]
 
 [msg MND_quest31_CLEAR_SELF]
 [s][vp 8 2 65535 0 0 0]Parece que conseguimos[n]acordar o coração[n]do alvo...[n][f 1 3 65535][w][e]

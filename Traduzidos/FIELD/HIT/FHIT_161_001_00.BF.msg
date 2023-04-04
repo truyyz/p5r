@@ -1,5 +1,5 @@
 [msg D09_EXIT_mes01 [Futaba]]
-[s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]E aí? Deseja retornar[n]Memento?[n][w][e]
+[s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]E aí? Deseja retornar[n]Mementos?[n][w][e]
 
 [sel D09_EXIT_SEL top]
 [s]Devemos voltar.[e]
@@ -62,7 +62,7 @@
 [s]Retorne ao mundo real do[n]Shido Palace. Obrigado[n]pelo trabalho realizado.[n][w][e]
 
 [msg D08_EXIT_MES [Navegador do Metaverso]]
-[s]De volta ao mundo real[n]dai Memento. Obrigado[n]pelo trabalho realizado.[n][w][e]
+[s]De volta ao mundo real[n]dai Mementos. Obrigado[n]pelo trabalho realizado.[n][w][e]
 
 [msg D10_EXIT_MES [Navegador do Metaverso]]
 [s]Retorne ao mundo real do Palácio de[n]Maruki. Obrigado[n]pelo trabalho realizado.[n][w][e]

@@ -35,7 +35,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Sou muito grato por[n]ter podido testemunhar o caminho[n]que você se propôs a trilhar.[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Lavenza]]
-[s][bup 0 100 1 0 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Muito obrigado... meu Malandro.[n][f 1 3 65535][w][e]
+[s][bup 0 100 1 0 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Muito obrigado... meu Trapaceiro.[n][f 1 3 65535][w][e]
 
 [sel SEL_011_0_0 top]
 [s]Sou eu que tenho que agradecer.[e]

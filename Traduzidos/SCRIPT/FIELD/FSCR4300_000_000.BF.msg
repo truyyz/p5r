@@ -253,7 +253,7 @@
 
 [msg MSG_NIGHT_0514_000_00 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1174 65535 0]Amanhã temos que ir àquela exposição com Lady Ann.[n][w][e]
-[s][f 4 10 65535 0 0]Eu realmente quero descobrir se Madarame[n]tem algo a ver com o nome[n]que ouvimos em Memento...[n][w][e]
+[s][f 4 10 65535 0 0]Eu realmente quero descobrir se Madarame[n]tem algo a ver com o nome[n]que ouvimos em Mementos...[n][w][e]
 [s][f 4 10 65535 0 0]Não devemos nos atrasar amanhã.[n]É melhor não sair.[n][w][e]
 
 [msg MSG_NIGHT_0515_000_00 [Morgana]]
@@ -284,7 +284,7 @@
 [s][f 4 10 65535 0 0][vp 1 0 0 7 0 0]Ele diz que seria melhor[n]não postar o nome online.[n][w][e]
 
 [msg MSG_NIGHT_0517_MISHIMA_T_4 [A voz de Mishima]]
-[s][bup 0 111 0 65535 1][f 4 10 65535 0 0][vp 1 0 0 8 0 0]Vou dizer a ele para esperar por você na estação[n]shibuya depois da escola.[n][w][e]
+[s][bup 0 111 0 65535 1][f 4 10 65535 0 0][vp 1 0 0 8 0 0]Vou dizer a ele para esperar por você na estação[n]Shibuya depois da escola.[n][w][e]
 [s][f 4 10 65535 0 0][vp 1 0 0 9 0 0]É chamado de "Nakanohara".[n][w][e]
 
 [msg MSG_NIGHT_0517_MISHIMA_T_5 [Morgana]]
@@ -1023,7 +1023,7 @@
 
 [msg MSG_DAYTIME_SUGGEST_CHIH [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]Não podemos ignorar[n]esse caso de abuso.[n][w][e]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0]O destino deve ser nei[n]Memento. Vamos cuidar disso rapidamente.[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0]O destino deve ser nei[n]Mementos. Vamos cuidar disso rapidamente.[n][w][e]
 
 [msg MSG_DAYTIME_SUGGEST_WEAT [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1021 65535 0]Está chovendo...[n][w][e]
@@ -2111,7 +2111,7 @@
 [s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 1 1032 65535 0]Não é apenas sua culpa... Eu também[n]deveria ter sido mais[n]confiável... Me desculpe...[n][w][e]
 
 [msg MSG_DAYTIME_010_00 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1027 65535 0]Vamos lá, vamos ao Memento hoje.[n]O tempo está quase acabando![n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1027 65535 0]Vamos lá, vamos ao Mementos hoje.[n]O tempo está quase acabando![n][w][e]
 
 [msg MSG_DAYTIME_Remind_Speed [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1187 65535 0]Certo... Será que a[n]biblioteca trouxe de volta aquele[n]famoso livro.[n][w][e]

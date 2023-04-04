@@ -32,7 +32,7 @@
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ei, não. É muito cedo para pensar nisso.[n]Vamos, Joker![n][w][e]
 
 [msg SAFE_MES_ANN_01 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6162 65535 0]Essas subespécies de veias no[n]Memento se reuniram[n]todos aqui na prisão, hein...?[n][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6162 65535 0]Essas subespécies de veias no[n]Mementos se reuniram[n]todos aqui na prisão, hein...?[n][w][e]
 
 [msg SAFE_MES_ANN_02 [Ann]]
 [s][bup 0 4 3 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6190 65535 0]A "liberdade de não tomar decisões"...[n]Você pode chamar isso de liberdade?[n][w][e]

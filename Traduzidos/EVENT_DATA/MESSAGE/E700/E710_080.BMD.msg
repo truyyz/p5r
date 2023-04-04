@@ -54,7 +54,7 @@
 
 [msg MSG_009_0_0 [Chihaya]]
 [s][bup 0 113 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Uhm, que estranho... Parece que[n]as cartas mudaram...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Meu futuro está alinhado com o[n]do Malandro... O que isso significa...?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Meu futuro está alinhado com o[n]do Trapaceiro... O que isso significa...?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]No entanto, meu destino não muda.[n]Estou destinado a ser um monstro.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 10021 65535 0]Hmm...[n][f 1 3 65535][w][e]
 

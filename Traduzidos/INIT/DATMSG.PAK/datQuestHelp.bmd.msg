@@ -365,7 +365,7 @@
 [s]Iwai tem um acordo com seu[n]ex-parceiro Tsuda para réplicas[n]de armas, mas agora ele está em apuros...[n][w][e]
 
 [msg quest54_1]
-[s]Vamos despertar o coração de Tsuda no[n]Memento e ajudar Iwai.[n][w][e]
+[s]Vamos despertar o coração de Tsuda no[n]Mementos e ajudar Iwai.[n][w][e]
 
 [msg quest54_2]
 [s]O ex-parceiro de Iwai quer modificar réplicas de[n]armas. Nós temos um nome; Vejo você na reunião![n][w][e]
@@ -389,7 +389,7 @@
 [s]Os guardiões de uma ex-aluna de[n]Kawakami a culpam pela[n]morte do menino para extorquir dinheiro dela.[n][w][e]
 
 [msg quest56_1]
-[s]Vamos despertar os corações do guardião do ex-aluno[n]em Memento[n]para ajudar Kawakami.[n][w][e]
+[s]Vamos despertar os corações do guardião do ex-aluno[n]em Mementos[n]para ajudar Kawakami.[n][w][e]
 
 [msg quest56_2]
 [s]Eu quero punir o casal guardião[n]que ameaça Kawakami. Eu tenho seus[n]nomes, encontre-me na reunião![n][w][e]
@@ -413,7 +413,7 @@
 [s]Mitsuyo Togo é uma mãe opressiva que controla sua filha Hifumi...[n][w][e]
 
 [msg quest58_1]
-[s]Vamos despertar o coração da mãe de Hifumi[n]em Memento[n]para resolver o problema.[n][w][e]
+[s]Vamos despertar o coração da mãe de Hifumi[n]em Mementos[n]para resolver o problema.[n][w][e]
 
 [msg quest58_2]
 [s]Hifumi está ansiosa porque sua mãe[n]ordenou que ela participasse de uma[n]reunião. Vejo você na reunião![n][w][e]
@@ -425,7 +425,7 @@
 [s]Kana, a melhor amiga de Futaba,[n]é aproveitada por seus pais...[n][w][e]
 
 [msg quest59_1]
-[s]Vamos despertar os corações dos pais de Kana[n]em Memento[n]e ajudar Futaba.[n][w][e]
+[s]Vamos despertar os corações dos pais de Kana[n]em Mementos[n]e ajudar Futaba.[n][w][e]
 
 [msg quest59_2]
 [s]Eu quero salvar o melhor amigo de Futaba.[n]Temos seus nomes agora,[n]vejo você no ponto de encontro.[n][w][e]
@@ -437,7 +437,7 @@
 [s]O tio de Futaba quer tirar[n]sua custódia[n]do patrão...[n][w][e]
 
 [msg quest60_1]
-[s]Vamos despertar o coração do tio de Futaba[n]em Memento[n]e resolver o problema de Sojiro.[n][w][e]
+[s]Vamos despertar o coração do tio de Futaba[n]em Mementos[n]e resolver o problema de Sojiro.[n][w][e]
 
 [msg quest60_2]
 [s]Eu tenho que fazer o tio de[n]Futaba parar de ameaçar[n]Leblanc. Conversamos com Futaba e encontramos uma solução.[n][w][e]
@@ -563,7 +563,7 @@
 [s]Reuni informações sobre o famoso[n]doujin artista acusado de plágio.[n]Vamos nos encontrar no ponto de encontro e ir[n]Lembrança![n][w][e]
 
 [msg quest76_3]
-[s]Reuni informações sobre o famoso mangaká suspeito[n]de plágio. É hora de despertar seu coração em[n]Memento![n][w][e]
+[s]Reuni informações sobre o famoso mangaká suspeito[n]de plágio. É hora de despertar seu coração em[n]Mementos![n][w][e]
 
 [msg quest76_4]
 [s]Despertei o coração do famoso mangaka[n]suspeito de plágio. Melhor voltar para o[n]mundo real e ver o que acontece.[n][w][e]
@@ -599,7 +599,7 @@
 [s]Reuni informações sobre o homem[n]que é excessivamente obcecado por[n]ídolos em Akihabara. Vamos nos encontrar na reunião e entrar nos Mementos![n][w][e]
 
 [msg quest78_3]
-[s]Reuni informações sobre o homem com uma obsessão exagerada por ídolos em Akihabara. É hora de despertar seu coração em Memento![n][w][e]
+[s]Reuni informações sobre o homem com uma obsessão exagerada por ídolos em Akihabara. É hora de despertar seu coração em Mementos![n][w][e]
 
 [msg quest78_4]
 [s]Eu despertei o coração do homem com uma obsessão exagerada por ídolos. Melhor voltar para o[n]mundo real e ver o que acontece.[n][w][e]
@@ -632,7 +632,7 @@
 [s]Eu ouvi sobre AIMaask OUZI.[n]Devo perguntar aos alunos que frequentam[n]Kichijoji à tarde![n][w][e]
 
 [msg quest80_2]
-[s]Reuni informações sobre[n]AIMask OUZI.[n]Vamos nos encontrar no ponto de encontro e ir[n]Memento![n][w][e]
+[s]Reuni informações sobre[n]AIMask OUZI.[n]Vamos nos encontrar no ponto de encontro e ir[n]Mementos![n][w][e]
 
 [msg quest80_3]
 [s]Coletei informações sobre[n]AIMask OUZI.[n]Vamos despertar o[n]coração do alvo em Mementos![n][w][e]
@@ -653,7 +653,7 @@
 [s]Ann me contou sobre o mulherengo cruel. Vamos nos[n]encontrar no ponto de encontro e ir aos Mementos![n][w][e]
 
 [msg quest81_3]
-[s]Ann me contou sobre o mulherengo cruel.[n]Despertando o coração do alvo[n]em Memento![n][w][e]
+[s]Ann me contou sobre o mulherengo cruel.[n]Despertando o coração do alvo[n]em Mementos![n][w][e]
 
 [msg quest81_4]
 [s]Eu despertei o coração do cruel[n]mulherengo.[n]É melhor voltar para o mundo real[n]e ver o que acontece.[n][w][e]
@@ -689,7 +689,7 @@
 [s]Reuni informações sobre o jogador de pingue-pongue[n]que foi acusado[n]de viciação de resultados.[n]Vamos nos encontrar no ponto de encontro e vamos[n]aos Mementos![n][w][e]
 
 [msg quest83_3]
-[s]Reuni informações sobre a jogadora de pingue-pongue[n]acusada de participar de partidas fixas.[n]É hora de despertar o coração dela em Memento![n][w][e]
+[s]Reuni informações sobre a jogadora de pingue-pongue[n]acusada de participar de partidas fixas.[n]É hora de despertar o coração dela em Mementos![n][w][e]
 
 [msg quest83_4]
 [s]Despertei o coração do jogador de pingue-pongue[n]acusado de participar de partidas fixas.[n]Melhor voltar ao mundo real e ver o que acontece.[n][w][e]
@@ -707,7 +707,7 @@
 [s]Mishima me contou sobre o menino[n]que o deseja morto.[n]Vamos nos encontrar na reunião e ir[n]Lembrança![n][w][e]
 
 [msg quest84_3]
-[s]Reuni informações sobre o menino[n]que deseja a própria morte. É hora[n]de despertar seu coração em Memento![n][w][e]
+[s]Reuni informações sobre o menino[n]que deseja a própria morte. É hora[n]de despertar seu coração em Mementos![n][w][e]
 
 [msg quest84_4]
 [s]Eu despertei o coração do menino.[n]É melhor voltar para o mundo real[n]e ver o que acontece.[n][w][e]

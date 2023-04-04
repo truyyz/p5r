@@ -164,7 +164,7 @@
 [s]Graças ao poder do Santo Graal,[n]i Mementos começam a se fundir[n]com o mundo real...[n][e]
 
 [msg MSG_054]
-[s]Quando o mundo real se funde com i[n]Memento, os Phantom Thieves desaparecem[n]da cognição das pessoas.[n][e]
+[s]Quando o mundo real se funde com i[n]Mementos, os Phantom Thieves desaparecem[n]da cognição das pessoas.[n][e]
 
 [msg MSG_055]
 [s]Superando o impulso malévolo que[n]os separou, os gêmeos guardiões[n]fundem-se novamente...[n][e]

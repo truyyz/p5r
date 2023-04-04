@@ -291,7 +291,7 @@
 [s][f 4 10 65535 0 0]Desejo expressar todo o[n]meu respeito por seus[n]esforços, que quero recompensar.[n][w][e]
 [s][f 4 10 65535 0 0]Aplicarei o desconto máximo[n]que meu mestre permitir[n]à convocação de Personas .[n][w][e]
 [s][bup 0 100 0 0 0][f 4 10 65535 0 0]Você se opõe a um deus maligno,[n]mas certamente será capaz[n]de derrotá-lo com esse poder.[n][w][e]
-[s][f 4 10 65535 0 0]A você, que é o Malandro encarnado,[n]faço este pedido:[n]salve o mundo![n][w][e]
+[s][f 4 10 65535 0 0]A você, que é o Trapaceiro encarnado,[n]faço este pedido:[n]salve o mundo![n][w][e]
 
 [msg MSG_Discount_Lav_075_01 [Lavenza]]
 [s][bup 0 100 0 0 0][f 4 10 65535 0 0]Oh meu Deus...[n][w][e]
@@ -327,7 +327,7 @@
 [s][f 4 10 65535 0 0]Como habitante desta Sala,[n]é meu maior prazer ver[n]o Grimório completo.[n][w][e]
 [s][f 4 10 65535 0 0]Desejo expressar todo o[n]meu respeito por seus[n]esforços, que quero recompensar.[n][w][e]
 [s][f 4 10 65535 0 0]Aplicarei o desconto máximo[n]que meu mestre permitir[n]à convocação de Personas .[n][w][e]
-[s][f 4 10 65535 0 0]Não há dúvidas. Você é o maior Malandro.[n]Aproveite esse poder para nos devolver nosso[n]verdadeiro mundo.[n][w][e]
+[s][f 4 10 65535 0 0]Não há dúvidas. Você é o maior Trapaceiro.[n]Aproveite esse poder para nos devolver nosso[n]verdadeiro mundo.[n][w][e]
 
 [msg MSG_Discount_Lav_075_R1 [Lavenza]]
 [s][bup 0 100 0 0 0][f 4 10 65535 0 0]Oh meu Deus...[n][w][e]

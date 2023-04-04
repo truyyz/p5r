@@ -286,7 +286,7 @@
 [s][bup 0 100 1 0 0][f 4 23 1 211 3 10 0 10][vp 1 0 0 2006 0 0][f 4 10 65535 0 0]Aquele marcador que eu[n]dei a você antes era para o[n]Grimoire of Personas.[n][f 1 3 65535][w][e]
 [s][vp 1 0 0 2007 0 0][f 4 10 65535 0 0]Ainda me lembro bem...[n]seu triunfo sobre nós.[n][f 1 3 65535][w][e]
 [s][vp 1 0 0 2008 0 0][f 4 10 65535 0 0]Além disso, eu sei o que eles sentem por você.[n]Na verdade, agora que nos unimos,[n]as emoções são duplicadas...[n][f 1 3 65535][w][e]
-[s][vp 1 0 0 2009 0 0][f 4 10 65535 0 0]Eu te amo, meu Malandro. Você é um homem[n]sem igual no mundo.[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 2009 0 0][f 4 10 65535 0 0]Eu te amo, meu Trapaceiro. Você é um homem[n]sem igual no mundo.[n][f 1 3 65535][w][e]
 
 [msg MSG_LAVENZA_WIN_MAX_3 [Lavenza]]
 [s][bup 0 100 0 0 0][f 4 23 1 211 3 10 0 10][vp 1 0 0 2001 0 0][f 4 10 65535 0 0]Eu acredito que você é o primeiro que[n]salvou meu mestre...[n][f 1 3 65535][w][e]
@@ -340,7 +340,7 @@
 
 [msg MSG_LAVENZA_QuestCheckSt_4 [Lavenza]]
 [s][bup 0 100 0 0 0][f 4 23 1 211 3 10 0 10][f 4 10 65535 0 0][vp 8 2 0 55458 65535 0]Concluiu todas as tarefas.[n]Muito bem.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Estou ansioso para ver você[n]realizar todo o seu potencial[n]como Malandro.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Estou ansioso para ver você[n]realizar todo o seu potencial[n]como Trapaceiro.[n][f 1 3 65535][w][e]
 
 [msg MSG_LAVENZA_QuestCheckSt_5 [Lavenza]]
 [s][bup 0 100 0 0 0][f 4 23 1 211 3 10 0 10][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Hum? Você não tem? Você está tentando[n]zoar de mim?[n][f 1 3 65535][w][e]

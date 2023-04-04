@@ -21,7 +21,7 @@
 [s][vp 1 0 0 8275 0 0]Pesquisa iniciada![n][f 1 6 65535][e]
 
 [msg MAP_SYSTEM]
-[s][n]A habilidade Memento Scan de Futaba identificou[n]tudo no chão.[n][w][e]
+[s][n]A habilidade Mementos Scan de Futaba identificou[n]tudo no chão.[n][w][e]
 
 [msg COIN_GET0 [Ryuji]]
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Hã? Mas é...?[n][w][e]
@@ -63,7 +63,7 @@
 [s]Autocura[ref 0 0][e]
 
 [msg MSG_RETURN_ITEM_SEL]
-[s]De volta à entrada do Memento?[n][e]
+[s]De volta à entrada do Mementos?[n][e]
 
 [sel START_CHECK_SEL top]
 [s]Vá para a última sala segura[e]
@@ -113,7 +113,7 @@
 [s]Retorne ao mundo real do[n]Shido Palace. Obrigado[n]pelo trabalho realizado.[n][w][e]
 
 [msg D08_EXIT_MES [Navegador do Metaverso]]
-[s]De volta ao mundo real[n]dai Memento. Obrigado[n]pelo trabalho realizado.[n][w][e]
+[s]De volta ao mundo real[n]dai Mementos. Obrigado[n]pelo trabalho realizado.[n][w][e]
 
 [msg D10_EXIT_MES [Navegador do Metaverso]]
 [s]Retorne ao mundo real do Palácio de[n]Maruki. Obrigado[n]pelo trabalho realizado.[n][w][e]

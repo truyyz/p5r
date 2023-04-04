@@ -39,7 +39,7 @@
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7159 65535 0]Então aqui está também uma pintura[n]desse cara...[n][w][e]
 
 [msg FIRST_PICTURE_CHECK_EVEN_10 [Ryuji]]
-[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Não estou surpreso que ele tenha acabado em[n]Memento, se ele passou por toda essa porcaria...[n][w][e]
+[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Não estou surpreso que ele tenha acabado em[n]Mementos, se ele passou por toda essa porcaria...[n][w][e]
 
 [msg FIRST_PICTURE_CHECK_EVEN_11 [Yusuke]]
 [s][bup 0 5 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4040 65535 0]Esse...[n][w][e]
@@ -125,7 +125,7 @@
 [s]Retorne ao mundo real do[n]Shido Palace. Obrigado[n]pelo trabalho realizado.[n][w][e]
 
 [msg D08_EXIT_MES [Navegador do Metaverso]]
-[s]De volta ao mundo real[n]dai Memento. Obrigado[n]pelo trabalho realizado.[n][w][e]
+[s]De volta ao mundo real[n]dai Mementos. Obrigado[n]pelo trabalho realizado.[n][w][e]
 
 [msg D10_EXIT_MES [Navegador do Metaverso]]
 [s]Retorne ao mundo real do Palácio de[n]Maruki. Obrigado[n]pelo trabalho realizado.[n][w][e]

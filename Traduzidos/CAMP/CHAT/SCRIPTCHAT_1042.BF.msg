@@ -8,7 +8,7 @@
 [s][f 5 14]E, a propósito, esperar é chato.[n][w][e]
 
 [msg MSG_003_0_0 [Futaba]]
-[s][f 5 14]Na minha opinião, hoje devemos[n]ir para Memento.[n][f 5 15][w][e]
+[s][f 5 14]Na minha opinião, hoje devemos[n]ir para Mementos.[n][f 5 15][w][e]
 
 [msg MSG_MORUGANA [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Sim, ainda não atendemos[n]o pedido de Mishima.[n][f 1 3 65535][w][e]

@@ -22,7 +22,7 @@
 
 [msg MSG_035_0_0 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 1175 65535 0]Também desta vez conseguimos[n]atender às expectativas de[n]pessoas! Estou tão orgulhoso de nós.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Acho que em breve também poderemos[n]resolver o mistério de Memento...[n]estou começando a ficar um pouco nervoso...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Acho que em breve também poderemos[n]resolver o mistério de Mementos...[n]estou começando a ficar um pouco nervoso...[n][f 1 3 65535][w][e]
 
 [msg MND_quest50_CLEAR_SELF]
 [s][vp 8 2 65535 0 0 0]Parece que conseguimos[n]despertar o coração do alvo.[n][f 1 3 65535][w][e]

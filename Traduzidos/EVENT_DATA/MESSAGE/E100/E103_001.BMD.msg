@@ -14,9 +14,9 @@
 
 [msg MSG_002_5_0 [Voz misteriosa]]
 [s][vp 8 0 0 7 65535 0]Diz-se que o homem tem o poder de resistir mesmo[n]nas situações mais desesperadoras.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 8 65535 0]Aqueles que se opõem ao destino e[n]ansiam por mudanças, através[n]eras, são conhecidos como Malandros.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 8 65535 0]Aqueles que se opõem ao destino e[n]ansiam por mudanças, através[n]eras, são conhecidos como Trapaceiros.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 9 65535 0]O mundo não é como deveria ser.[n]Está cheio de distorções e a ruína[n]não pode mais ser evitada.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 10 65535 0]Você é o Malandro...[n]É hora de se levantar contra[n]o abismo da distorção.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 10 65535 0]Você é o Trapaceiro...[n]É hora de se levantar contra[n]o abismo da distorção.[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Voz misteriosa]]
 [s][vp 8 0 0 11 65535 0]...Entendo.[n][f 1 3 65535][w][e]
