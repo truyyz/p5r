@@ -10,7 +10,7 @@
 [s][vp 1 0 0 35 0 0]...[n][f 1 3 65535][w][e]
 
 [sel SEL_002_1_0 top]
-[s]você quer tentar?[e]
+[s]Você quer tentar?[e]
 [s]Você consegue.[e]
 [s]Será uma experiência.[e]
 
@@ -25,7 +25,7 @@
 [s][bup 0 6 5 65535 0][f 4 10 65535 0 0][vp 8 0 0 30 65535 0]Aaah![n][f 1 3 65535][w][e]
 
 [msg MND_002_4_0]
-[s][vp 8 0 0 0 65535 0]Os gritos de Makoto enquanto joga[n]está chamando a atenção...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Os gritos de Makoto enquanto joga[n]estão chamando a atenção...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Mas ela parece muito envolvida no jogo[n]para notar...[n][f 1 3 65535][w][e]
 
 [msg MSG_002_5_0 [Makoto]]
@@ -33,8 +33,8 @@
 
 [sel SEL_002_6_0 top]
 [s]Bem, o que você acha?[e]
-[s]Você estava muito ocupado...[e]
-[s]Você é um gamer nato.[e]
+[s]Você estava muito ocupada...[e]
+[s]Você é uma gamer nata.[e]
 
 [msg MSG_003_0_0 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Claro que era só um jogo, mas...[n][f 1 3 65535][w][e]
@@ -84,7 +84,7 @@
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Talvez não imediatamente...[n]mas tenho certeza que posso[n]ser útil.[n][f 1 3 65535][w][e]
 
 [msg MND_990_0_0]
-[s][vp 8 0 0 0 65535 0]Sinto que Makoto é movido[n]por uma grande determinação...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Sinto que Makoto é movida[n]por uma grande determinação...[n][f 1 3 65535][w][e]
 
 [msg MSG_015_4_0 [Sae]]
 [s][vp 8 0 0 800 65535 0]Deve ter havido alguém com a intenção[n]de inibir sua[n]atividade do Phantom Thieves.[n][f 1 3 65535][w][e]
@@ -93,7 +93,7 @@
 [s][vp 8 0 0 801 65535 0]Se você o venceu é porque tinha[n]com você uma pessoa especializada[n]em analisar inimigos.[n][f 1 3 65535][w][e]
 
 [msg MSG_015_6_0 [Sae]]
-[s][vp 8 0 0 802 65535 0]...Estou certo?!?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 802 65535 0]...Estou certa?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_015_7_0 [Igor]]
 [s][bup 0 201 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você firmou um novo contrato.[n]Excelente.[n][f 1 3 65535][w][e]
@@ -107,7 +107,7 @@
 
 [msg MSG_017_0_0 [Makoto]]
 [s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]É que recentemente recebi um[n]anúncio. Alguém da nossa escola foi visto lá[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 26 65535 0]Estou cético, mas... prefiro[n]verificar por mim mesmo.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 26 65535 0]Estou cética, mas... prefiro[n]verificar por mim mesma.[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 27 65535 0]Bem, está ficando tarde.[n]Hora de ir para casa.[n][f 1 3 65535][w][e]

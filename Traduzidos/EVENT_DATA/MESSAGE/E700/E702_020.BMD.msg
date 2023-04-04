@@ -4,9 +4,9 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E parece que também abrigou[n]vários bordéis.[n][f 1 3 65535][w][e]
 
 [sel SEL_001_0_0 top]
-[s][f 0 8 2 1 2217]Você está muito bem informado.[clr 27][e]
+[s][f 0 8 2 1 2217]Você está muito bem informada.[clr 27][e]
 [s]Você já esteve aqui antes?[e]
-[s]Fica perto de mim.[e]
+[s]Fique perto de mim.[e]
 
 [msg MSG_002_0_0 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 2035 65535 0][f 5 13 3 5 6]Bem, meu pai[n]me falou muito sobre isso ...[n][f 1 3 65535][w][e]
@@ -23,7 +23,7 @@
 [msg MSG_005_0_0 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]No entanto, hoje é um lugar muito mais seguro[n]do que no passado.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Naturalmente[n]as câmeras de vigilância desempenharam[n]um papel fundamental.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas essencial foi o trabalho[n]do expurgo da polícia.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas tudo graças ao esforço[n]da polícia para limpar esta área.[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Makoto]]
 [s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 2182 65535 0]No entanto, erradicar[n]o crime completamente é impossível.[n][f 1 3 65535][w][e]
@@ -38,18 +38,18 @@
 [s][vp 8 0 0 0 65535 0]Inúmeros homens tentaram[n]abordá-la...[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Makoto]]
-[s][bup 0 6 5 65535 0][f 4 10 65535 0 0][vp 8 2 0 2028 65535 0]...Perdemos?[n][f 1 3 65535][w][e]
+[s][bup 0 6 5 65535 0][f 4 10 65535 0 0][vp 8 2 0 2028 65535 0]...Nós despistamos ele?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Aquele cara era tão insistente...[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Makoto]]
 [s][bup 0 6 2 65535 0][f 4 10 65535 0 0][vp 8 2 0 2043 65535 0]Ele deveria ser um recrutador de[n]artistas. "Suas garotas"[n]ganham um bom dinheiro, ele disse.[n][f 1 3 65535][w][e]
-[s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 45 5 100][f 4 24 0 4 0 0 0 0]Eu só queria perguntar se[n]alguém de Shujin trabalha lá...[n]Ele quase me arrastou.[n][f 1 3 65535][w][e]
+[s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 45 5 100][f 4 24 0 4 0 0 0 0]Eu só queria perguntar se[n]alguém de Shujin trabalha lá...[n]Mas ele quase me arrastou pra dentro com ele.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Se você não estivesse lá para me salvar, eu...[n][f 1 3 65535][w][e]
 
 [sel SEL_010_0_0 top]
 [s]Você foi imprudente.[e]
-[s][f 0 8 2 1 2217]Pode ser perigoso.[clr 27][e]
-[s]Pouco barulho, hein?[e]
+[s][f 0 8 2 1 2217]Isso foi perigoso.[clr 27][e]
+[s]Você fica nervosa fácil, hein?[e]
 
 [msg MSG_011_0_0 [Makoto]]
 [s][bup 0 6 5 65535 0][f 4 10 65535 0 0][vp 8 2 0 2029 65535 0][f 5 13 3 5 6]S-Sim, ele parecia suspeito...[n][f 1 3 65535][w][e]
@@ -71,7 +71,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Um dia espero[n]possar retribuir.[n][f 1 3 65535][w][e]
 
 [msg MND_990_0_0]
-[s][vp 8 0 0 0 65535 0]Eu sinto que Makoto é movido[n]por uma calma determinação...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Eu sinto que Makoto é movida[n]por uma calma determinação...[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 2100 65535 0]Dito isso...[n][f 1 3 65535][w][e]
@@ -87,13 +87,13 @@
 
 [msg MSG_017_0_0 [Makoto]]
 [s][bup 0 6 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 2161 65535 0]Eu costumava estar na aula com ela![n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas por que ele está aqui...?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas por que ela está aqui...?[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Makoto]]
 [s][bup 0 6 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]"After School Salon"...?[n][f 1 3 65535][w][e]
 
 [sel SEL_019_0_0 top]
-[s]Por que se chama Salão?[e]
+[s]Por que é chamado de Salão?[e]
 [s]Que tipo de lugar é este?[e]
 
 [msg MSG_020_0_0 [Makoto]]
@@ -105,5 +105,5 @@
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bem, estamos aqui há um tempo.[n]Podemos voltar para a estação.[n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Makoto]]
-[s][vp 8 2 0 2053 65535 0]Obrigado por hoje.[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 2053 65535 0]Obrigada por hoje.[n][f 1 3 65535][w][e]
 
