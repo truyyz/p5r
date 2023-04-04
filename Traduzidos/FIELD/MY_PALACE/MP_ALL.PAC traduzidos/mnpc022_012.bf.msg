@@ -117,7 +117,7 @@
 
 [msg MES_GROUP9_00 [Ann]]
 [s][bup 0 4 3 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 32 10 0 10][vp 8 2 1 6028 65535 0]Entre isso e minha roupa Phantom Thieves,[n]hum... É tarde demais para mudar alguma[n]coisa?[n][w][e]
-[s][bup 0 4 7 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Tipo... quanta pHehes estão aparecendo?[n][w][e]
+[s][bup 0 4 7 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Tipo... quanta pele está aparecendo?[n][w][e]
 
 [msg MES_GROUP9_01 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 40 10 0 10][vp 8 2 1 2022 65535 0]Eu posso relacionar. Bem, não é[n]necessariamente a própria pele, mas...[n][w][e]
