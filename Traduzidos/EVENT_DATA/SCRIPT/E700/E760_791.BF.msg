@@ -525,7 +525,7 @@
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 2 0 1190 65535 0]Ei! Não desista agora![n]Você ainda tem uma chance de[n]ganhar, então dê tudo de si![n][f 1 3 65535][w][e]
 
 [msg MSG_Stage04_05_NOover1 [Alya]]
-[s][vp 8 2 0 59553 65535 0]Ele Ele. Você me surpreendeu, mas seu[n]despertar foi um fracasso.[n]É hora de morrer. Adeus.[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 59553 65535 0]Hehe. Você me surpreendeu, mas seu[n]despertar foi um fracasso.[n]É hora de morrer. Adeus.[n][f 1 3 65535][w][e]
 
 [msg MSG_Stage04_05_NOover2 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Pombo!!![n][f 1 3 65535][w][e]

@@ -134,7 +134,7 @@
 [s][bup 0 8 102 65535 0][f 4 10 65535 0 0][vp 8 0 0 61 65535 0]Raça de...[n][f 1 3 65535][w][e]
 
 [msg MSG_041_0_0 [Ombra Presidente IT]]
-[s][vp 8 0 0 62 65535 0]Ele Ele. Tenho certeza que você[n]me entende. Afinal, você é Medjed.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 62 65535 0]Hehe. Tenho certeza que você[n]me entende. Afinal, você é Medjed.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 63 65535 0]Não é maravilhoso[n]que possamos manipular todos esses[n]analfabetos de computador estúpidos?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_042_0_0 [Futaba]]

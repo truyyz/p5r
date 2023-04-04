@@ -52,7 +52,7 @@
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Eheh, eu entendo que não é fácil de entender.[n]Heróis são de outra categoria...[n][w][e]
 
 [msg MSG_AKOGAREDANSI_002_2_0 [Studente sognatore]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Ele Ele. Acho que você não sabe[n]nada sobre isso. Será solitário ser[n]heróis e o mais legal de todos.[n][w][e]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Hehe. Acho que você não sabe[n]nada sobre isso. Será solitário ser[n]heróis e o mais legal de todos.[n][w][e]
 
 [msg MSG_AKOGAREDANSI_002_3_0 [Studente sognatore]]
 [s][vp 8 2 1 0 11 0]"Vou roubar seus desejos distorcidos e[n]fazer você confessar seus crimes"[n][w][e]

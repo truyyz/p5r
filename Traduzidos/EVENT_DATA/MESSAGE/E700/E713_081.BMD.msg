@@ -123,7 +123,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bem, o que você quiser.[n][f 1 3 65535][w][e]
 
 [msg MSG_034_0_0 [Takemi]]
-[s][bup 0 108 1 0 0][f 4 10 65535 0 0][vp 8 2 0 14048 65535 0][f 5 13 14 10 1008]Ele Ele. Bem, você é um verdadeiro bajulador.[n][f 1 3 65535][w][e]
+[s][bup 0 108 1 0 0][f 4 10 65535 0 0][vp 8 2 0 14048 65535 0][f 5 13 14 10 1008]Hehe. Bem, você é um verdadeiro bajulador.[n][f 1 3 65535][w][e]
 
 [msg MSG_035_0_0 [Takemi]]
 [s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vamos, vamos[n]para a sala de exames.[n][f 1 3 65535][w][e]

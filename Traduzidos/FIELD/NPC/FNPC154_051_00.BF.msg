@@ -81,7 +81,7 @@
 [s][bup 0 4 2 65535 0][f 4 10 65535 0 0][vp 8 2 1 6115 65535 0]Ele age como se fosse o arquiteto de suas[n]riquezas, mas é obra de seus lacaios. Ridículo![n][w][e]
 
 [msg SAFETY_MES_ANN_04_01 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 6021 65535 0]Aquele elevador perto de Kaneshiro...[n]Quem sabe onde ele leva.[n][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 6021 65535 0]AquHehevador perto de Kaneshiro...[n]Quem sabe onde ele leva.[n][w][e]
 
 [msg SAFETY_MES_ANN_05_01 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 6155 65535 0]O que você tem? Vamos entrar neste[n]elevador![n][w][e]

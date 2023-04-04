@@ -31,7 +31,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Você sabe, "Muahahahah! Vocês todos vão morrer![n]Sayonara, seus otários!"[n][w][e]
 
 [msg MES_GROUP2_04 [Akechi]]
-[s][bup 0 9 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 54418 65535 0]Ele Ele. Você está tirando sarro de mim?[n][w][e]
+[s][bup 0 9 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 54418 65535 0]Hehe. Você está tirando sarro de mim?[n][w][e]
 
 [msg MES_GROUP6_01 [Ryuji]]
 [s][bup 0 2 3 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 7028 65535 0]Não é justo que ele tenha[n]dois Personas .[n][w][e]

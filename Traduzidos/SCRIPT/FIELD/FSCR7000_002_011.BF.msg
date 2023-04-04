@@ -62,7 +62,7 @@
 [s][bup 0 7 1 65535 0]Oh, olhe para isso![n]Explode de saúde![n][w][e]
 
 [msg MSG_GetPlant_Pattern03 [Haru]]
-[s][bup 0 7 1 65535 0]Ele Ele! Eles estão indo muito bem![n]Trate-os com cuidado e respeito, ok?[n][w][e]
+[s][bup 0 7 1 65535 0]Hehe! Eles estão indo muito bem![n]Trate-os com cuidado e respeito, ok?[n][w][e]
 
 [msg MSG_RePlant_Think [Haru]]
 [s][bup 0 7 0 65535 0]Agora este vaso está livre.[n]Você quer plantar outra coisa?[n][w][e]

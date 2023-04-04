@@ -100,7 +100,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 84 65535 0]Você até rejeitou o[n]desejo do meu mestre... Você é um[n]Malandro, afinal...[n][f 1 3 65535][w][e]
 
 [msg MSG_030_0_0 [Dio del Controllo]]
-[s][vp 8 0 0 43 65535 0]Ele Ele. Você é verdadeiramente um filho[n]do homem... Incapaz de[n]opor-se aos seus próprios desejos.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 43 65535 0]Hehe. Você é verdadeiramente um filho[n]do homem... Incapaz de[n]opor-se aos seus próprios desejos.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 44 65535 0]Não há nada do que se envergonhar.[n]Eu concederei seu desejo...[n][f 1 3 65535][w][e]
 
 [msg MSG_031_0_0 [(SE)統制の神]]

@@ -984,7 +984,7 @@
 [s][bup 0 103 1 0 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 6 5 1003]Um pai de verdade, né...? Sappy[n]como o inferno, mas não posso negar.[n][f 1 3 65535][w][e]
 
 [msg MSG_251_0_0 [Sojiro]]
-[s][bup 0 103 1 0 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ele Ele. Mas o que eu faço? Eu ligo para um cara[n]para desabafar sobre meus sentimentos...[n][f 1 3 65535][w][e]
+[s][bup 0 103 1 0 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Hehe. Mas o que eu faço? Eu ligo para um cara[n]para desabafar sobre meus sentimentos...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Eh, acho que você não[n]é qualquer cara.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Tudo bem, vou largar enquanto ainda tenho minha[n]dignidade. Até amanhã.[n][f 1 3 65535][w][e]
 
@@ -2894,7 +2894,7 @@
 [s][f 0 8 2 1 2217]Qualquer coisa para você.[clr 27][e]
 
 [msg MSG_731_0_0 [Takemi]]
-[s][bup 0 108 1 0 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 14 5 1008]Ele Ele. Bem, você é bastante[n]empreendedor.[n][f 1 3 65535][w][e]
+[s][bup 0 108 1 0 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 14 5 1008]Hehe. Bem, você é bastante[n]empreendedor.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Se te excita tanto assim,[n]posso dar-te uma amostra de tudo[n]e ver o que acontece.[n][f 1 3 65535][w][e]
 
 [msg MSG_732_0_0 [Takemi]]
