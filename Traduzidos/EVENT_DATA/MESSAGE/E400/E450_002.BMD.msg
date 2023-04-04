@@ -34,19 +34,19 @@
 [msg MSG_031_0_0 [Morgana]]
 [s][vp 1 0 0 12 0 0]Não me diga isso...[n][f 1 2 60][e]
 
-[msg MSG_032_0_0 [Santo Graal]]
+[msg MSG_032_0_0 [Cálice Sagrado]]
 [s][vp 8 0 0 13 65535 0]Certamente. É obra minha.[n][f 1 2 140][e]
 
-[msg MSG_033_0_0 [Santo Graal]]
+[msg MSG_033_0_0 [Cálice Sagrado]]
 [s][vp 8 0 0 14 65535 0]Seus imbecis estão prestes a desaparecer do[n]conhecimento das pessoas.[n][f 1 2 135][e]
 
 [msg MSG_034_0_0 [Ryuji]]
 [s][vp 6 0 0 15 16 0]Que merda de voz![n][f 1 2 50][e]
 
-[msg MSG_035_0_0 [Santo Graal]]
+[msg MSG_035_0_0 [Cálice Sagrado]]
 [s][vp 8 0 0 16 65535 0]Lembranças e realidade tornaram-se um só...[n][f 1 2 115][e]
 
-[msg MSG_036_0_0 [Santo Graal]]
+[msg MSG_036_0_0 [Cálice Sagrado]]
 [s][vp 8 0 0 17 65535 0]Portanto, aqueles que desapareceram da[n]cognição não têm mais um lugar para existir.[n][f 1 2 156][e]
 
 [msg MSG_037_0_0 [Ryuji]]

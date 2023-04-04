@@ -72,7 +72,7 @@
 [msg MND_104_1_1]
 [s][vp 8 2 0 95 65535 0]Uma silhueta familiar se contorce[n]ao se aproximar...[n][f 1 3 65535][w][e]
 
-[msg MSG_103_0_0 [Octavius]]
+[msg MSG_103_0_0 [Otávio]]
 [s][vp 8 2 0 59555 65535 0]blep! Meu nome é Octavius![n][f 1 3 65535][w][e]
 [s][vp 8 2 0 59556 65535 0]Vou deixar você passar, mas apenas se[n]você puder atender ao meu pedido,[n]blorp! Você tem três opções, blorp![n][f 1 3 65535][w][e]
 
@@ -88,7 +88,7 @@
 [msg MND_Stage01_BossStart_Co]
 [s][vp 8 2 0 0 65535 0]Otávio de novo...[n][f 1 3 65535][w][e]
 
-[msg MSG_105_0_0 [Octavius]]
+[msg MSG_105_0_0 [Otávio]]
 [s][vp 8 2 0 59556 65535 0]Se você quiser passar, role[n]dado um número igual ou superior a[n]meu número secreto, blorp![n][f 1 3 65535][w][e]
 [s][vp 8 2 0 59556 65535 0]Você pode rolar o dado três vezes,[n]se quiser, blorp![n][f 1 3 65535][w][e]
 [s][vp 8 2 0 59556 65535 0]Mas você nunca vai adivinhar[n]qual é o meu[n]número secreto... blorp![n][f 1 3 65535][w][e]
@@ -100,28 +100,28 @@
 [msg MND_106_1_0]
 [s][vp 8 2 0 0 65535 0]Um número secreto...? Na ausência[n]de sugestões, tentarei[n]o maior número possível.[n][f 1 3 65535][w][e]
 
-[msg MSG_113_0_0 [Octavius]]
+[msg MSG_113_0_0 [Otávio]]
 [s][vp 8 2 0 59554 65535 0]Bem, aqui está[n]sua primeira baforada, blorp![n][f 1 3 65535][w][e]
 
-[msg MSG_120_0_0 [Octavius]]
+[msg MSG_120_0_0 [Otávio]]
 [s][vp 8 2 0 59555 65535 0]Hmm... [var 0], blorp...[n]Deseja prosseguir com este[n]número, blorp?[n][f 1 3 65535][w][e]
 
 [sel SEL_122_0_0 top]
 [s]Use este número[e]
 [s]Role novamente[e]
 
-[msg MSG_123_0_0 [Octavius]]
+[msg MSG_123_0_0 [Otávio]]
 [s][vp 8 2 0 59555 65535 0]Então, tchau, tiro número [var 0], blorp.[n]Vamos para o tiro número [var 1], blorp![n][f 1 3 65535][w][e]
 
-[msg MSG_Step01_NoChance [Octavius]]
+[msg MSG_Step01_NoChance [Otávio]]
 [s][vp 8 2 0 59556 65535 0]Mmm... [var 0], blorp... Você[n]fica sem tentativas, então[n]você vai ter que usar esse número, blorp![n][f 1 3 65535][w][e]
 
-[msg MSG_150_0_0 [Octavius]]
+[msg MSG_150_0_0 [Otávio]]
 [s][vp 8 2 0 59554 65535 0]OK, você fez [var 0], blorp![n][f 1 3 65535][w][e]
 [s][vp 8 2 0 59555 65535 0]Quanto ao número secreto...[n]Lembra meu nome, blorp?[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 59555 65535 0]Octavius... onde octa[n]representa oito! Gluhuhuhu![n][f 1 3 65535][w][e]
 
-[msg MSG_151_0_0 [Octavius]]
+[msg MSG_151_0_0 [Otávio]]
 [s][vp 8 2 0 59556 65535 0]Glorg, você passou no[n]teste do número secreto.[n]Estou me aposentando, blorp![n][f 1 3 65535][w][e]
 
 [msg MSG_152_0_0 [Morgana]]
@@ -130,7 +130,7 @@
 [msg MND_152_1_0]
 [s][vp 8 2 0 0 65535 0]Octavius se afastou[n]desaparecendo além do horizonte...[n][f 1 3 65535][w][e]
 
-[msg MSG_155_0_0 [Octavius]]
+[msg MSG_155_0_0 [Otávio]]
 [s][vp 8 2 0 59555 65535 0]Gluuuuhuhu! Você perdeu, blorp![n][f 1 3 65535][w][e]
 [s][vp 8 2 0 59556 65535 0]Vou ter que mandar você[n]de volta à estaca zero, blorp![n][f 1 3 65535][w][e]
 
@@ -195,7 +195,7 @@
 [msg MND_202_1_1]
 [s][vp 8 2 0 85 65535 0]Algo está subindo[n]do chão...[n][f 1 3 65535][w][e]
 
-[msg MSG_Stage02_BossArrive [Alligater]]
+[msg MSG_Stage02_BossArrive [Jacaré]]
 [s][vp 8 2 0 59556 65535 0]Yum Yum Yum! Eu sou[n]Alligater, o jacaré que guarda[n]este portão![n][f 1 3 65535][w][e]
 [s][vp 8 2 0 59556 65535 0]Role um dos números que[n]abre o portão, yum![n]Vou te dar três chances, yum![n][f 1 3 65535][w][e]
 
@@ -211,7 +211,7 @@
 [msg MND_Stage02_AboutBoss_Co]
 [s][vp 8 2 0 0 65535 0]Novamente Jacaré...[n][f 1 3 65535][w][e]
 
-[msg MSG_Stage02_BossInfo [Alligater]]
+[msg MSG_Stage02_BossInfo [Jacaré]]
 [s][vp 8 2 0 59556 65535 0]Os números que abrem o[n]portão são três, cinco,[n]sete e nove, yum![n][f 1 3 65535][w][e]
 [s][vp 8 2 0 59556 65535 0]Jogue dois dados. A soma[n]deve ser igual a um[n]desses números, yum![n][f 1 3 65535][w][e]
 [s][vp 8 2 0 59555 65535 0]Vou te dar três chances, yum![n][f 1 3 65535][w][e]
@@ -222,7 +222,7 @@
 [msg MND_St02_AboutBossInfo]
 [s][vp 8 2 0 0 65535 0]Eu tenho que dar tudo de mim...[n][f 1 3 65535][w][e]
 
-[msg MSG_Stage02_BattleStart [Alligater]]
+[msg MSG_Stage02_BattleStart [Jacaré]]
 [s][vp 8 2 0 59554 65535 0]Primeira tentativa, yum![n][f 1 3 65535][w][e]
 
 [msg MSG_322_0_0 [Morgana]]
@@ -231,10 +231,10 @@
 [msg MND_322_1_0]
 [s][vp 8 2 0 0 65535 0][var 0]...! Existem...![n][f 1 3 65535][w][e]
 
-[msg MSG_320_0_0 [Alligater]]
+[msg MSG_320_0_0 [Jacaré]]
 [s][vp 8 2 0 59556 65535 0]Esse não é um dos meus[n]números, yum! Você[n]tem [var 0] tentativas restantes, yum![n][f 1 3 65535][w][e]
 
-[msg MSG_250_0_0 [Alligater]]
+[msg MSG_250_0_0 [Jacaré]]
 [s][vp 8 2 0 59556 65535 0]Muito impressionante, yum![n]Vou deixar você passar, yum![n][f 1 3 65535][w][e]
 
 [msg MSG_251_0_0 [Morgana]]
@@ -243,7 +243,7 @@
 [msg MND_251_1_0]
 [s][vp 8 2 0 100 65535 0]O portão está abrindo...![n][f 1 3 65535][w][e]
 
-[msg MSG_253_0_0 [Alligater]]
+[msg MSG_253_0_0 [Jacaré]]
 [s][vp 8 2 0 59555 65535 0]Yum Yum Yum! Você perdeu, hum![n][f 1 3 65535][w][e]
 [s][vp 8 2 0 59556 65535 0]Bem, agora eu durmo,[n]yum! Boa noite...Sim...[n][f 1 3 65535][w][e]
 

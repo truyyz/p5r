@@ -1,4 +1,4 @@
-[msg e382_240_mes01 [Custode Ombra]]
+[msg e382_240_mes01 [Guardião das Sombras]]
 [s]Inconcebível. Como você[n]chegou aqui...?[n][w][e]
 [s]Vocês são como baratas... Você[n]se convence de que foi esmagado,[n]mas sempre volta para a carga.[n][w][e]
 
@@ -11,7 +11,7 @@
 [msg e382_240_mes04 [Ann]]
 [s][bup 0 4 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ele tem razão! Você nunca teve[n]qualquer intenção de nós[n]passarmos pelo labirinto![n][w][e]
 
-[msg e382_240_mes05 [Custode Ombra]]
+[msg e382_240_mes05 [Guardião das Sombras]]
 [s]Ah, você está certo! É assim que[n]as coisas deveriam ser.[n]Você não merece vencer.[n][w][e]
 [s]Você faria a gentileza de cair no chão em[n]derrota? O meu não é um trabalho fácil, você[n]sabe.[n][w][e]
 
@@ -19,10 +19,10 @@
 [s]Não vamos desistir.[e]
 [s]Absolutamente não.[e]
 
-[msg e382_240_selA_0_mes01 [Custode Ombra]]
+[msg e382_240_selA_0_mes01 [Guardião das Sombras]]
 [s]Uau, é isso? Então não[n]me deixe outra escolha...![n][w][e]
 
-[msg e382_240_selA_1_mes01 [Custode Ombra]]
+[msg e382_240_selA_1_mes01 [Guardião das Sombras]]
 [s]Oh, que pena... infelizmente[n]não tenho outra escolha...![n][w][e]
 
 [msg e382_240_selA_2_mes01 [Morgana]]

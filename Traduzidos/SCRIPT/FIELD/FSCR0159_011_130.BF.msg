@@ -17,7 +17,7 @@
 [msg D07_159_11_ex_chk_re_mes [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1158 65535 0]É hora de agir, Joker![n][w][e]
 
-[msg D07_159_11_ex_btl_mes01 [Ombra]]
+[msg D07_159_11_ex_btl_mes01 [Sombra]]
 [s]Você vai parar com isso[n]você-sabe-o-que...?[n]Oooh, ratos gigantes![n][w][e]
 [s]Agora eu faço você sabe o que para[n]todos![n][w][e]
 

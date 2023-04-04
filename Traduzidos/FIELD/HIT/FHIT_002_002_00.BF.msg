@@ -8,22 +8,22 @@
 [msg MSG_LAST_GREETING_etc [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1171 65535 0]O que você tem? Vamos,[n]temos que dizer olá para os outros![n][w][e]
 
-[msg KOUBAIBU_NOTOPEN [Signora del negozio scolastico]]
+[msg KOUBAIBU_NOTOPEN [Senhora da loja da escola]]
 [s][f 4 23 1 20 21 5 20 0][vp 8 2 1 0 20 0]Desculpe, mas ainda estamos configurando.[n]Volte mais tarde.[n][w][e]
 
-[msg KOUBAIBU_SELECT [Signora del negozio scolastico]]
+[msg KOUBAIBU_SELECT [Senhora da loja da escola]]
 [s][f 4 23 1 20 21 5 20 0][vp 8 2 1 0 20 0]Oi Ola. Vê algo[n]que você gosta?[n][w][e]
 
-[msg KOUBAIBU_THANKS [Signora del negozio scolastico]]
+[msg KOUBAIBU_THANKS [Senhora da loja da escola]]
 [s][vp 8 2 1 0 20 0]Mil obrigados.[n][w][e]
 
-[msg KOUBAIBU_NOT_BUY [Signora del negozio scolastico]]
+[msg KOUBAIBU_NOT_BUY [Senhora da loja da escola]]
 [s][vp 8 2 1 0 20 0]Tudo bem, volte para nos ver.[n][w][e]
 
-[msg KOUBAIBU_YAKISOBA_INFO [Signora del negozio scolastico]]
+[msg KOUBAIBU_YAKISOBA_INFO [Senhora da loja da escola]]
 [s][f 4 23 1 20 21 5 20 0][vp 8 2 1 0 20 0]O [f 2 5 3 9999 0] aqui vai[n]muito... mas geralmente na [clr 2]sexta[clr 27][n]temos mais alguns.[n][w][e]
 
-[msg KOUBAIBU_YAKISOBA_INFO_0 [Signora del negozio scolastico]]
+[msg KOUBAIBU_YAKISOBA_INFO_0 [Senhora da loja da escola]]
 [s][f 4 23 1 20 21 5 20 0][vp 8 2 1 0 20 0]Ambos [f 2 5 3 9999 0] e[n][f 2 5 3 9999 1] são muito procurados aqui...[n][w][e]
 [s][vp 8 2 1 0 20 0]Mas, estranhamente, na [clr 2]sexta-feira[clr 27][n]temos um pouco de sobra.[n][w][e]
 
@@ -286,7 +286,7 @@
 [msg MSG_E13710100_CHK_School_2 [Ryuji]]
 [s][bup 0 2 200 65535 0][f 4 10 65535 0 0][vp 8 2 1 7194 65535 0]Vamos, da próxima vez eu vou pegar alguma coisa[n]para você! Agora temos que ir para sua aula.[n][w][e]
 
-[msg MSG_E13710100_CHK_School_3 [Dipendente demotivato]]
+[msg MSG_E13710100_CHK_School_3 [Funcionário desmotivado]]
 [s][vp 1 0 0 0 0 0]Ainda estamos em construção...[n]Volte outra hora...[n][w][e]
 
 [msg MSG_E13910100_CHK_School [Ryuji]]

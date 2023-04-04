@@ -123,10 +123,10 @@
 [msg MSG_031_0_0 [Makoto]]
 [s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 39 65535 0]...Por que não fazemos uma pausa?[n][f 1 3 65535][w][e]
 
-[msg MSG_032_0_0 [Reporter]]
+[msg MSG_032_0_0 [Repórter]]
 [s][vp 8 0 0 40 65535 0]...E essas foram as últimas[n]atualizações sobre o caso de Junya[n]Kaneshiro. Bem, Akechi-san...[n][f 1 3 65535][w][e]
 
-[msg MSG_032_5_0 [Reporter]]
+[msg MSG_032_5_0 [Repórter]]
 [s][vp 8 0 0 41 65535 0]Diz-se que este[n]caso foi trazido à tona pelas ações dos[n]Phantom Thieves, mas... isso é verdade?[n][f 1 3 65535][w][e]
 
 [msg MSG_033_0_0 [Akechi]]
@@ -134,7 +134,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 43 65535 0]A verdadeira questão é: o que os Phantom Thieves[n]realmente fizeram?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 44 65535 0]Eles manipularam o coração do suspeito? Em caso[n]afirmativo, quão verdadeira pode sua confissão[n]ser?[n][f 1 3 65535][w][e]
 
-[msg MSG_034_0_0 [Reporter]]
+[msg MSG_034_0_0 [Repórter]]
 [s][vp 8 0 0 45 65535 0]Então, ao violar corações, os[n]Phantom Thieves também poderiam inventar[n]do zero crimes inexistentes?[n][f 1 3 65535][w][e]
 
 [msg MSG_035_0_0 [Akechi]]
@@ -142,13 +142,13 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 47 65535 0]É verdade, os Phantom Thieves estão[n]descobrindo injustiças[n]que permaneceram nas sombras até hoje.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 48 65535 0]No entanto, essas ações ignoram o sistema legal.[n]Sua forma de pensar é muito perigosa.[n][f 1 3 65535][w][e]
 
-[msg MSG_035_3_0 [Reporter]]
+[msg MSG_035_3_0 [Repórter]]
 [s][vp 8 0 0 49 65535 0]Então, em certo sentido,[n]eles são foras da lei.[n][f 1 3 65535][w][e]
 
 [msg MSG_035_5_0 [Akechi]]
 [s][bup 0 9 0 2 0][f 4 10 65535 0 0][vp 8 0 0 50 65535 0]Exatamente. Eles não são diferentes dos[n]criminosos que caçam. É[n]algo que não podemos ignorar.[n][f 1 3 65535][w][e]
 
-[msg MSG_036_0_0 [Reporter]]
+[msg MSG_036_0_0 [Repórter]]
 [s][vp 8 0 0 51 65535 0]Eu entendo.[n][f 1 3 65535][w][e]
 
 [msg MSG_037_0_0 [Ryuji]]

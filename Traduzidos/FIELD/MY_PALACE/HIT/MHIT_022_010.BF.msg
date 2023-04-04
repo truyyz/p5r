@@ -1,4 +1,4 @@
-[msg ITEM_MSG [Arsène]]
+[msg ITEM_MSG [Arsene]]
 [s]A rebelião do Joker moldou seu coração. Mestre[n]dos disfarces, observe e replique comportamentos.[n][w][e]
 
 [sel YESNO_SEL top]

@@ -133,14 +133,14 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 61 65535 0]Sobre como toda a empresa[n]cobriu cada parte[n]desse escândalo.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 62 65535 0]Por tudo isso, peço desculpas.[n][f 1 3 65535][w][e]
 
-[msg MSG_039_6_0 [Giornalista mite]]
+[msg MSG_039_6_0 [Jornalista leve]]
 [s][vp 8 0 0 65 65535 0]Você está dizendo que você[n]cuidou de tudo?[n][f 1 3 65535][w][e]
 
 [msg MSG_039_9_0 [Okumura]]
 [s][bup 0 205 3 0 0][f 4 10 65535 0 0][vp 8 0 0 66 65535 0]...Sim.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 64 65535 0]Eu sou... o único responsável...[n][f 1 3 65535][w][e]
 
-[msg MSG_040_0_0 [Giornalista mite]]
+[msg MSG_040_0_0 [Jornalista leve]]
 [s][vp 8 0 0 69 65535 0]Há rumores de que dezenas de[n]seus funcionários se demitiram[n]devido a uma doença misteriosa.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 70 65535 0]E que se opuseram abertamente[n]à sua proposta[n]de expansão para o exterior.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 71 65535 0]Isso também aconteceu com executivos[n]de empresas concorrentes em[n]planos de expansão semelhantes.[n][f 1 3 65535][w][e]
@@ -149,10 +149,10 @@
 [msg MSG_041_0_0 [Okumura]]
 [s][bup 0 205 0 0 0][f 4 10 65535 0 0][vp 8 0 0 73 65535 0]Sim.[n][f 1 3 65535][w][e]
 
-[msg MSG_042_0_0 [Giornalista mite]]
+[msg MSG_042_0_0 [Jornalista leve]]
 [s][vp 8 0 0 74 65535 0]Foi coincidência?[n][f 1 3 65535][w][e]
 
-[msg MSG_043_0_0 [Giornalista mite]]
+[msg MSG_043_0_0 [Jornalista leve]]
 [s][vp 8 0 0 75 65535 0]Dê-nos algumas respostas.[n][f 1 3 65535][w][e]
 
 [msg MSG_044_0_0 [Okumura]]

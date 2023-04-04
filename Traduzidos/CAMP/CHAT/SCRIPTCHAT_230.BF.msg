@@ -22,7 +22,7 @@
 
 [msg MSG_039_0_0 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 1175 65535 0]Aparentemente, seu coração[n]despertou! Eu me pergunto se ela e[n]aquele menino vão se tornar amigos...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]...Você acha que em Memento existem[n]reis reais e rainhas reais?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]...Você acha que em Mementos existem[n]reis reais e rainhas reais?[n][f 1 3 65535][w][e]
 
 [msg MND_quest21_CLEAR_SELF]
 [s][vp 8 2 65535 0 0 0]Parece que conseguimos[n]acordar o coração[n]do alvo...[n][f 1 3 65535][w][e]

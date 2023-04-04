@@ -39,7 +39,7 @@
 [msg MSG_013_0_0 [Ryuji]]
 [s][bup 0 2 11 65535 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Idiota! Eles são agentes de plantão![n][f 1 3 65535][w][e]
 
-[msg MSG_014_0_0 [Agente con occhiali da sole]]
+[msg MSG_014_0_0 [Agente com óculos de sol]]
 [s][vp 8 0 0 16 10 0]Saudações. Posso falar com[n]você por um momento?[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Ann]]
@@ -48,7 +48,7 @@
 [msg MSG_016_0_0 [Morgana]]
 [s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Essa[n]atuação de um tom dele nunca para de[n]me arrepiar.[n][f 1 3 65535][w][e]
 
-[msg MSG_017_0_0 [Agente con occhiali da sole]]
+[msg MSG_017_0_0 [Agente com óculos de sol]]
 [s][vp 8 0 0 19 10 0]O que você está fazendo aqui?[n]Vocês são amigos?[n][f 1 3 65535][w][e]
 
 [sel SEL_018_0_0 top]
@@ -68,7 +68,7 @@
 [msg MSG_022_0_0 [Ann]]
 [s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]H-Haha! E-foi uma piada! Não[n]dormi muito na noite passada.[n][f 1 3 65535][w][e]
 
-[msg MSG_024_0_0 [Agente con occhiali da sole]]
+[msg MSG_024_0_0 [Agente com óculos de sol]]
 [s][vp 8 0 0 25 10 0]Bem, tudo bem. Apenas tente[n]chegar em casa antes que[n]seja tarde demais, ok?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 26 10 0]Coisas estranhas têm acontecido ultimamente,[n]e as notícias sobre esse artista[n]têm causado grande rebuliço.[n][f 1 3 65535][w][e]
 

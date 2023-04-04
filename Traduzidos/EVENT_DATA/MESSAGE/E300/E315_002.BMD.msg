@@ -29,7 +29,7 @@
 [msg MSG_006_5_0 [Ryuji]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 7 301 1][vp 8 0 0 10 65535 0]Oooh![n][f 1 3 65535][w][e]
 
-[msg MSG_007_0_0 [Ragazza con annaffiatoio]]
+[msg MSG_007_0_0 [Menina com regador]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 7 5 300 1][vp 8 0 0 11 65535 0]Com licença![n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Ryuji]]

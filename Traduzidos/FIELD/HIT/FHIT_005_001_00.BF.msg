@@ -1,20 +1,20 @@
 [msg DUMMY_MSG]
 [s]Eu vendi [var 0].[n][w][e]
 
-[msg MSG_LAST_GREETING_InfoCe [Signora del banco informazioni]]
+[msg MSG_LAST_GREETING_InfoCe [Senhora do balcão de informações]]
 [s][vp 8 2 1 58671 1 0]Oh Deus, você é o garoto de antes, certo? Aquele[n]que ouviu com atenção todas as informações.[n][w][e]
 [s][vp 8 2 1 0 1 0]Você conseguiu descobrir[n]mais sobre Kichijoji?[n][w][e]
 
 [msg MSG_LAST_GREETING_InfoCe_2 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]Ei, você está saindo da cidade em breve, então[n]você deveria dizer olá para aquela[n]simpática senhora de informações também.[n][w][e]
 
-[msg MSG_LAST_GREETING_InfoCe_3 [Signora del banco informazioni]]
+[msg MSG_LAST_GREETING_InfoCe_3 [Senhora do balcão de informações]]
 [s][vp 8 2 1 58675 1 0]Huh? Você está se movendo?!?[n][w][e]
 [s][vp 8 2 1 0 1 0]Entendo... aposto que sua cidade também é linda.[n][w][e]
 [s][vp 8 2 1 0 1 0]Mas você não acha que Kichijoji[n]também era um bom lugar para[n]sentir-se em casa?[n][w][e]
 [s][vp 8 2 1 0 1 0]É por isso que espero que você não esqueça esta[n]cidade. Volte logo. Você vai me encontrar aqui.[n][w][e]
 
-[msg MSG_LAST_GREETING_InfoCe_4 [Signora del banco informazioni]]
+[msg MSG_LAST_GREETING_InfoCe_4 [Senhora do balcão de informações]]
 [s][vp 8 2 1 58673 1 0]É por isso que espero que você não esqueça esta[n]cidade. Volte logo. Você vai me encontrar aqui.[n][w][e]
 
 [msg MSG_LAST_GREETING_InfoCe_5 [Morgana]]
@@ -317,7 +317,7 @@
 [msg MSG_KF794101_InfoCenter [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0]Um balcão de informações? Eles não são vistos com[n]frequência em outras cidades.[n][w][e]
 
-[msg MSG_InfoCenter [Signora del banco informazioni]]
+[msg MSG_InfoCenter [Senhora do balcão de informações]]
 [s][vp 8 2 1 58671 1 0]Saudações! Teremos todo o gosto em fornecer[n]informações detalhadas sobre esta área![n][w][e]
 
 [msg MSG_InfoCenter02 [Morgana]]
@@ -326,7 +326,7 @@
 [msg MND_InfoCenter02]
 [s]O que eu quero saber sobre Kichijoji...?[n][w][e]
 
-[msg MSG_InfoCenter_start [Signora del banco informazioni]]
+[msg MSG_InfoCenter_start [Senhora do balcão de informações]]
 [s][vp 8 2 1 58672 1 0]O que você quer saber?[n][w][e]
 
 [sel SEL_InfoCenter top]
@@ -336,7 +336,7 @@
 [s]Algo que eu deveria saber?[e]
 [s]Nada.[e]
 
-[msg MSG_InfoCenter01_01 [Signora del banco informazioni]]
+[msg MSG_InfoCenter01_01 [Senhora do balcão de informações]]
 [s][vp 8 2 1 58673 1 0]É claro! Deixe-me explicar![n][w][e]
 [s][vp 8 2 1 0 1 0]Existem quatro zonas diferentes…[n][w][e]
 [s][vp 8 2 1 0 1 0]Na galeria, há uma loja de chips,[n]uma papelaria,[n]loja de roupas usadas e um templo.[n][w][e]
@@ -349,7 +349,7 @@
 [s]Vá em frente.[e]
 [s]Acho que é o bastante.[e]
 
-[msg MSG_InfoCenter01_02 [Signora del banco informazioni]]
+[msg MSG_InfoCenter01_02 [Senhora do balcão de informações]]
 [s][vp 8 2 1 58676 1 0]É claro![n][w][e]
 [s][vp 8 2 1 0 1 0]Depois da Retro Street, fica a[n]Rue De Chouchou,[n]palhada de lojas da moda.[n][w][e]
 [s][vp 8 2 1 0 1 0]Há também uma loja de[n]pedras de poder conhecidas por sua[n]eficácia.[n][w][e]
@@ -359,7 +359,7 @@
 [s][vp 8 2 1 0 1 0]Muita informação para[n]a menor?[n][w][e]
 [s][vp 8 2 1 0 1 0]E isso é praticamente tudo para a cidade.[n]Há mais alguma coisa que eu possa fazer[n]por você?[n][w][e]
 
-[msg MSG_InfoCenter02_01 [Signora del banco informazioni]]
+[msg MSG_InfoCenter02_01 [Senhora do balcão de informações]]
 [s][vp 8 2 1 58673 1 0]Eu cuido disso! Eu explico tudo![n]Você é menor de idade, certo?[n]Nesse caso...[n][w][e]
 [s][vp 8 2 1 0 1 0]Se você passar pelo bairro da bebida e pela Rue[n]De Chouchou, encontrará uma sala de sinuca e[n]dardos.[n][w][e]
 [s][vp 8 2 1 0 1 0]É um lugar muito legal, e[n]as pessoas da sua idade podem[n]acessá-lo sem problemas.[n][w][e]
@@ -368,19 +368,19 @@
 [s]E para adultos?[e]
 [s]Algum lugar especial?[e]
 
-[msg MSG_InfoCenter02_02 [Signora del banco informazioni]]
+[msg MSG_InfoCenter02_02 [Senhora do balcão de informações]]
 [s][vp 8 2 1 58675 1 0]Huh?!? Bem, você veio até aqui...[n][w][e]
 [s][vp 8 2 1 0 1 0]Se procura um espaço para adultos,[n]existe o clube de jazz...[n][w][e]
 [s][vp 8 2 1 0 1 0]E ACREDITO que menores de idade são[n]permitidos... Desculpe se não posso[n]confirmar 100%.[n][w][e]
 [s][vp 8 2 1 0 1 0]Quer saber outra coisa?[n][w][e]
 
-[msg MSG_InfoCenter02_03 [Signora del banco informazioni]]
+[msg MSG_InfoCenter02_03 [Senhora do balcão de informações]]
 [s][vp 8 2 1 58677 1 0]Oh sim! Um dos tesouros escondidos da cidade é o[n]templo da galeria.[n][w][e]
 [s][vp 8 2 1 0 1 0]Também é popular entre os jovens que buscam[n]conselhos.[n][w][e]
 [s][vp 8 2 1 0 1 0]Ah, mas talvez isso não inclua[n]alunos como você, hein? Haha.[n]Se você estiver interessado, apareça.[n][w][e]
 [s][vp 8 2 1 0 1 0]Há mais alguma coisa que você[n]quer perguntar?[n][w][e]
 
-[msg MSG_InfoCenter03_01 [Signora del banco informazioni]]
+[msg MSG_InfoCenter03_01 [Senhora do balcão de informações]]
 [s][vp 8 2 1 58673 1 0]É claro! Deixe-me explicar![n][w][e]
 [s][vp 8 2 1 0 1 0]Há também uma loja de roupas muito[n]estranha[n]... hum, isto é, única.[n][w][e]
 [s][vp 8 2 1 0 1 0]Fica na avenida.[n]O diretor sempre me cumprimenta[n]pela manhã, mas...[n][w][e]
@@ -389,7 +389,7 @@
 [s][vp 8 2 1 0 1 0]Eles têm um incenso muito[n]especial e muitas vezes desconhecido.[n]Mas é absolutamente certificado.[n][w][e]
 [s][vp 8 2 1 0 1 0]Há mais alguma coisa que você[n]quer perguntar?[n][w][e]
 
-[msg MSG_InfoCenter04_01 [Signora del banco informazioni]]
+[msg MSG_InfoCenter04_01 [Senhora do balcão de informações]]
 [s][vp 8 2 1 58678 1 0]Algo que você deveria saber...[n]Na verdade, sim. Há um boato que[n]ouviu recentemente.[n][w][e]
 [s][vp 8 2 1 0 1 0]É sobre a loja de chips na[n]gallery. Dizem que é[n]uma fila exaustiva...[n][w][e]
 [s][vp 8 2 1 0 1 0]E quando chega a noite, eles já esgotaram tudo.[n]Eu me pergunto o que você tem que fazer para[n]comê-lo ...[n][w][e]
@@ -397,10 +397,10 @@
 [s][vp 8 2 1 0 1 0]Então, basicamente, é melhor você[n]ir lá em uma noite de domingo ...[n]Isso é tudo que eu ouvi.[n][w][e]
 [s][vp 8 2 1 0 1 0]Quer saber mais?[n][w][e]
 
-[msg MSG_InfoCenter05_01 [Signora del banco informazioni]]
+[msg MSG_InfoCenter05_01 [Senhora do balcão de informações]]
 [s][vp 8 2 1 58680 1 0]Se você quiser saber mais sobre Kichijoji,[n]apareça a qualquer momento![n][w][e]
 
-[msg MSG_InfoCenter_00 [Signora del banco informazioni]]
+[msg MSG_InfoCenter_00 [Senhora do balcão de informações]]
 [s][vp 8 2 1 58679 1 0]Você queria perguntar mais?[n][w][e]
 
 [msg MSG_InfoCenter_ParamUp [Morgana]]
@@ -428,20 +428,20 @@
 [s]O cheiro é ótimo, mas...[n][w][e]
 [s]Que fila longa...[n]Melhor tentar novamente mais tarde.[n][w][e]
 
-[msg MSG_FriedShop_NG_Night [Personale della friggitoria]]
+[msg MSG_FriedShop_NG_Night [Pessoal de fritura]]
 [s][vp 8 2 1 0 2 0]Oh, você está aqui para o nosso famoso[n][clr 3]Big Chunk Katsu[clr 27]? Me desculpe,[n]mas hoje acabou...[n][w][e]
 [s][vp 8 2 1 0 2 0]Passe outro dia.[n]Talvez você tenha mais sorte.[n][w][e]
 
-[msg MSG_FriedShop_OK [Personale della friggitoria]]
+[msg MSG_FriedShop_OK [Pessoal de fritura]]
 [s][vp 8 2 1 0 2 0]Bem-vindo. Aqui está o seu [clr 3]Katsu em[n]grandes pedaços[clr 27]. Aliás, é o último.[n][w][e]
 
-[msg MSG_FriedShop_Thanks [Personale della friggitoria]]
+[msg MSG_FriedShop_Thanks [Pessoal de fritura]]
 [s][vp 8 2 1 0 2 0]Obrigado! Atenção, quente.[n][w][e]
 
-[msg MSG_FriedShop_NotBuy [Personale della friggitoria]]
+[msg MSG_FriedShop_NotBuy [Pessoal de fritura]]
 [s][vp 8 2 1 0 2 0]Você não gosta de hoje?[n][w][e]
 
-[msg MSG_FriedShop_SoldOut [Personale della friggitoria]]
+[msg MSG_FriedShop_SoldOut [Pessoal de fritura]]
 [s][vp 8 2 1 0 2 0]Desculpe, esse foi o último.[n]Volte e prove, ok?[n][w][e]
 
 [msg MSG_SYSTEM_SHORTCUT_DART]
@@ -575,25 +575,25 @@
 [msg MSG_JazzClub_Alpha [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]※本来は明智コープランク3で解禁しますが、[n]α1では強制的に解禁状態にします[n][w][e]
 
-[msg MSG_Accessories_Start [Cristalloterapeuta]]
+[msg MSG_Accessories_Start [Cristalterapeuta]]
 [s][vp 8 2 1 0 4 0]Bem-vindo! Confira[n]nossa mercadoria![n][w][e]
 
-[msg MSG_Accessories_THANKS [Cristalloterapeuta]]
+[msg MSG_Accessories_THANKS [Cristalterapeuta]]
 [s][vp 8 2 1 0 4 0]Obrigado! Volte logo![n][w][e]
 
-[msg MSG_Accessories_NOT_BUY [Cristalloterapeuta]]
+[msg MSG_Accessories_NOT_BUY [Cristalterapeuta]]
 [s][vp 8 2 1 0 4 0]Oh sério? Volte para nos visitar![n][w][e]
 
 [msg MSG_KF794101_Variety [Ryuji]]
 [s][bup 0 2 5 65535 0][f 4 10 65535 0 0][vp 8 2 1 7038 65535 0]Uma loja de incenso?[n]Parece suspeito para mim.[n][w][e]
 
-[msg MSG_Variety_Start [Personale del negozio di incensi]]
+[msg MSG_Variety_Start [Funcionários da loja de incenso]]
 [s][vp 8 2 1 0 3 0]Ah, um cliente! Por favor, experimente[n]nossos perfumes também![n][w][e]
 
-[msg MSG_Variety_THANKS [Personale del negozio di incensi]]
+[msg MSG_Variety_THANKS [Funcionários da loja de incenso]]
 [s][vp 8 2 1 0 3 0]Obrigado novamente![n][w][e]
 
-[msg MSG_Variety_NOT_BUY [Personale del negozio di incensi]]
+[msg MSG_Variety_NOT_BUY [Funcionários da loja de incenso]]
 [s][vp 8 2 1 0 3 0]Volte logo![n][w][e]
 
 [msg MSG_Variety_NotOpen [Morgana]]
@@ -610,46 +610,46 @@
 [s]Aparentemente, eles vendem principalmente[n]produtos importados.[n][w][e]
 [s]Eu não preciso de nenhuma dessas coisas.[n][w][e]
 
-[msg MSG_FoodShop_Start [Funcionário do supermercado]]
+[msg MSG_FoodShop_Start [Oficial de supermercado]]
 [s][vp 8 2 1 0 4 0]Bem-vindo! Sinta-se à vontade para provar os[n]sabores de todo o mundo![n][w][e]
 
-[msg MSG_FoodShop_THANKS [Funcionário do supermercado]]
+[msg MSG_FoodShop_THANKS [Oficial de supermercado]]
 [s][vp 8 2 1 0 4 0]Muito obrigado![n]Volte para nos ver![n][w][e]
 
-[msg MSG_FoodShop_NOT_BUY [Funcionário do supermercado]]
+[msg MSG_FoodShop_NOT_BUY [Oficial de supermercado]]
 [s][vp 8 2 1 0 4 0]Obrigado novamente![n][w][e]
 
-[msg MSG_Stationer_Start [Dipendente della cartoleria]]
+[msg MSG_Stationer_Start [Empregado de papelaria]]
 [s]Olá e bem-vindo. Temos[n]muitas peças ideais para[n]presentear.[n][w][e]
 
-[msg MSG_Stationer_THANKS [Dipendente della cartoleria]]
+[msg MSG_Stationer_THANKS [Empregado de papelaria]]
 [s]Obrigado pela sua compra![n]Volte em breve.[n][w][e]
 
-[msg MSG_Stationer_NOT_BUY [Dipendente della cartoleria]]
+[msg MSG_Stationer_NOT_BUY [Empregado de papelaria]]
 [s]Volte para nos visitar.[n][w][e]
 
-[msg MSG_OldClothe_NotOpen_No [Commesso del negozio di vestiti usati]]
+[msg MSG_OldClothe_NotOpen_No [Balconista de loja de roupas usadas]]
 [s]Olá... Você está aqui para vender algumas roupas?[n][w][e]
 [s]Hum...eles parecem bem normais...[n]Já temos vestidos[n]como este na loja.[n][w][e]
 
 [msg MSG_OldClothe_NotOpen_No_2 [Morgana]]
 [s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 1 1026 65535 0]Gosta? Não quer comprar de nós?[n]Você tem algo diferente?[n][w][e]
 
-[msg MSG_OldClothe_NotOpen_No_3 [Commesso del negozio di vestiti usati]]
+[msg MSG_OldClothe_NotOpen_No_3 [Balconista de loja de roupas usadas]]
 [s]Eu procuro principalmente por [clr 2]roupas[n]sujas[clr 27]... Sabe, elas parecem que deveriam[n]ser jogadas fora. Se ao menos eu pudesse[n]encontrar algumas...[n][w][e]
 
 [msg MSG_OldClothe_NotOpen_No_4 [Morgana]]
 [s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 1 1027 65535 0]Pois bem, dizem que o tempero[n]melhora a carne. Talvez seja o mesmo[n]para roupas também?[n][w][e]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0]Ele mencionou [clr 2]roupas sujas[clr 27]...[n]Volte quando tivermos algumas.[n][w][e]
 
-[msg MSG_OldClothe_NotOpen_Ye [Commesso del negozio di vestiti usati]]
+[msg MSG_OldClothe_NotOpen_Ye [Balconista de loja de roupas usadas]]
 [s]Bem-vindo. Se você quer vender algumas[n]roupas... E-espere, o que é isso?[n][w][e]
 [s]Posso assistir? Não se preocupe,[n]não vou roubá-lo.[n][w][e]
 
 [msg MSG_OldClothe_NotOpen_Ye_2 [Morgana]]
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 1166 65535 0]Ele está reagindo às roupas que recebemos das[n]Sombras... Ele parece saber do que está falando.[n][w][e]
 
-[msg MSG_OldClothe_NotOpen_Ye_3 [Commesso del negozio di vestiti usati]]
+[msg MSG_OldClothe_NotOpen_Ye_3 [Balconista de loja de roupas usadas]]
 [s]Estou aqui há 40 anos, mas[n]nunca vi roupas que pudessem[n]congelar meu coração...[n][w][e]
 [s]Tudo bem, vou comprá-los. Mas apenas[n]pelo valor que eles merecem.[n][w][e]
 [s]Então, aqui usamos um bloco de[n]ponto. Cada [clr 2]roupa[clr 27] que você vende[n]dá [clr 2]10 pontos[clr 27].[n][w][e]
@@ -658,10 +658,10 @@
 [msg MSG_OldClothe_NotOpen_Ye_4 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1163 65535 0]Então, eles não apenas os compram para nós,[n]mas também nos dão pontos?[n]Nós absolutamente temos que voltar.[n][w][e]
 
-[msg MSG_OldClothe_Start [Commesso del negozio di vestiti usati]]
+[msg MSG_OldClothe_Start [Balconista de loja de roupas usadas]]
 [s]O que posso fazer para você?[n][w][e]
 
-[msg MSG_OldClothe_Start_loop [Commesso del negozio di vestiti usati]]
+[msg MSG_OldClothe_Start_loop [Balconista de loja de roupas usadas]]
 [s]Tem mais?[n][w][e]
 
 [sel SEL_OldClothe_bunki top]
@@ -669,27 +669,27 @@
 [s]Mostre-me os prêmios.[e]
 [s]Nada.[e]
 
-[msg MSG_OldClothe_SelCancel [Commesso del negozio di vestiti usati]]
+[msg MSG_OldClothe_SelCancel [Balconista de loja de roupas usadas]]
 [s]Não? Que pena...[n][w][e]
 
 [msg MSG_OldClothe_Start_NotH [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]Ei, você atualmente não tem[n]roupas para vender.[n][w][e]
 
-[msg MSG_OldClothe_AnySell [Commesso del negozio di vestiti usati]]
+[msg MSG_OldClothe_AnySell [Balconista de loja de roupas usadas]]
 [s]Então, você vendeu [var 2] roupas...[n]Hmm, são [clr 2][var 0][clr 27] pontos.[n][w][e]
 [s]E agora você tem [clr 2][var 1][clr 27] pontos.[n][w][e]
 
-[msg MSG_OldClothe_give_end [Commesso del negozio di vestiti usati]]
+[msg MSG_OldClothe_give_end [Balconista de loja de roupas usadas]]
 [s]Se quiser mais pontos, venda[n]suas roupas.[n][w][e]
 
-[msg MSG_OldClothe_give_end_s [Commesso del negozio di vestiti usati]]
+[msg MSG_OldClothe_give_end_s [Balconista de loja de roupas usadas]]
 [s]Espero que você tenha gostado da nossa mercadoria.[n][w][e]
 [s]Se quiser mais pontos, venda[n]suas roupas.[n][w][e]
 
-[msg MSG_OldClothe_Bey [Commesso del negozio di vestiti usati]]
+[msg MSG_OldClothe_Bey [Balconista de loja de roupas usadas]]
 [s]Que roupas fantásticas...[n]Volte e nos veja, ok?[n][w][e]
 
-[msg MSG_OldClothe_Bey_Nosell [Commesso del negozio di vestiti usati]]
+[msg MSG_OldClothe_Bey_Nosell [Balconista de loja de roupas usadas]]
 [s]Volte e nos venda mais, OK?[n]Espero por você.[n][w][e]
 
 [msg MSG_Hurugi_Start [Morgana]]
@@ -1172,13 +1172,13 @@
 [msg MND_Tobari05]
 [s]É um bar que também serve sushi.[n][w][e]
 
-[msg ChineseMan_Start [Dipendente del negozio di baozi]]
+[msg ChineseMan_Start [Funcionário da loja Baozi]]
 [s][vp 8 2 1 0 5 0]Ei, seja bem-vindo! Vendemos baozi[n]quente e frio aqui![n][w][e]
 
-[msg ChineseMan_NOT_BUY [Dipendente del negozio di baozi]]
+[msg ChineseMan_NOT_BUY [Funcionário da loja Baozi]]
 [s][vp 8 2 1 0 5 0]Volte logo![n][w][e]
 
-[msg ChineseMan_THANKS [Dipendente del negozio di baozi]]
+[msg ChineseMan_THANKS [Funcionário da loja Baozi]]
 [s][vp 8 2 1 0 5 0]Obrigado! Volte novamente![n][w][e]
 
 [msg MSG_Tobari07 [Morgana]]
@@ -1423,7 +1423,7 @@
 [msg MSG_KF_MeatFryShop_mes02 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Oh, que cheiro... Aparentemente[n]seu prato mais famoso é[n]o "menchi-katsu especial".[n][w][e]
 
-[msg MSG_KF_MeatFryShop_mes03 [Personale della friggitoria]]
+[msg MSG_KF_MeatFryShop_mes03 [Pessoal de fritura]]
 [s][vp 8 2 1 0 2 0]Desculpe, mas ainda temos [clr 3]menchi-katsu[n][clr 27] suficientes apenas para as pessoas que[n]já estão na fila.[n][w][e]
 [s][vp 8 2 1 0 2 0]Tente aparecer à noite.[n][w][e]
 
@@ -1776,13 +1776,13 @@
 [msg MND_COMMON_CHK_000_00]
 [s][vp 1 0 0 0 0 0]Não preciso fazer nada[n]depois...[n][w][e]
 
-[msg EX_0103_0108_LOCK_mes01 [Donna col cappello]]
+[msg EX_0103_0108_LOCK_mes01 [Mulher com chapéu]]
 [s][vp 1 0 0 0 0 0]Este é o lugar do[n]carismático perfumista de quem[n]falam nas revistas?[n][w][e]
 
-[msg EX_0103_0108_LOCK_mes02 [Donna]]
+[msg EX_0103_0108_LOCK_mes02 [Mulher]]
 [s][vp 1 0 0 0 0 0]Oh sim. Seus produtos são usados por muitas[n]atrizes e modelos famosas.[n][w][e]
 
-[msg EX_0103_0108_LOCK_mes03 [Donna col cappello]]
+[msg EX_0103_0108_LOCK_mes03 [Mulher com chapéu]]
 [s][vp 1 0 0 0 0 0]Parece que o gerente da[n]loja também é um tipo misterioso![n]Todo mundo está falando sobre isso![n][w][e]
 [s][vp 1 0 0 0 0 0]Espero poder apertar a mão dele enquanto faço[n]compras![n][w][e]
 

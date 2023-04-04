@@ -11,16 +11,16 @@
 [msg MND_HELP_LDAY_CALL_2]
 [s][vp 8 2 65535 0 0 0]Eu acho que eles estão um pouco à frente...[n][w][e]
 
-[msg MSG_E23010100_001_00 [mulher em perigo]]
+[msg MSG_E23010100_001_00 [Mulher em perigo]]
 [s][vp 8 0 1 12 851 0]Não...![n][w][e]
 
-[msg MSG_E23010100_002_00 [homem bêbado]]
+[msg MSG_E23010100_002_00 [Homem bêbado]]
 [s][vp 8 0 1 25 65535 0]Não brinque comigo...[n][w][e]
 
 [msg MND_E23010100_003_00]
 [s][vp 8 2 65535 0 0 0]Parece que um bêbado está incomodando aquela[n]mulher...[n][w][e]
 
-[msg MSG_E23010100_004_00 [mulher em perigo]]
+[msg MSG_E23010100_004_00 [Mulher em perigo]]
 [s][vp 8 0 1 18 851 0]Ei! P-pare, por favor![n][w][e]
 
 [msg MND_E23010100_005_00]

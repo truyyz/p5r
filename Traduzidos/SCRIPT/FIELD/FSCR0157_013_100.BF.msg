@@ -1,7 +1,7 @@
 [msg e382_230_mes01 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1171 65535 0]Hã? Esse é o cara[n]na recepção ...[n][w][e]
 
-[msg e382_230_mes02 [Custode Ombra]]
+[msg e382_230_mes02 [Guardião das Sombras]]
 [s]Incrível...! Estou surpreso que[n]você tenha chegado tão longe![n][w][e]
 
 [msg e382_230_mes03 [Haru]]

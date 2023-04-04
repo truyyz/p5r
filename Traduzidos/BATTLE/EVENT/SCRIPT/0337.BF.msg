@@ -4,7 +4,7 @@
 [msg MSG_BTLSTART_002 [Voz de menina]]
 [s][bup 0 8 154 0 0][vp 8 0 2 1001 0 8][f 4 10 65535 0 0]Os sinais dos inimigos diminuíram?[n][f 1 3 65535][w][e]
 
-[msg MSG_BTLSTART_003 [voz de criança]]
+[msg MSG_BTLSTART_003 [Voz de criança]]
 [s][vp 8 0 2 1003 0 3]Bem...[n][f 1 3 65535][w][e]
 
 [msg MSG_ACT_START_001 [Garota misteriosa]]

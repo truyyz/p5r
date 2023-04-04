@@ -3,16 +3,16 @@
 [s]SE VOCÊ NÃO FIZER SEU TRABALHO,[n]EU SEREI O ÚNICO A SER LIBERADO[n]PELO GERENTE DE SEÇÃO![n][w][e]
 [s]ESTOU CANSADO DE SER[n]DEFINIDO "[clr 2]INÚTIL[clr 27]"![n]ENTENDIDO!?![n][w][e]
 
-[msg D05_02_kakari_battle02 [Dipendente umile]]
+[msg D05_02_kakari_battle02 [Empregado humilde]]
 [s]ARGH! SIM, SR. CAP OFFICE![n][w][e]
 
-[msg D05_02_kakari_battle03 [Dipendente svogliato]]
+[msg D05_02_kakari_battle03 [Funcionário preguiçoso]]
 [s]ELE ESTÁ CERTO... O DIRETOR DE[n]SEÇÃO ME LIGOU [clr 2]BOM PARA[n]NADA[clr 27] VÁRIAS VEZES...[n][w][e]
 
-[msg D05_02_kakari_battle04 [Dipendente assonnato]]
+[msg D05_02_kakari_battle04 [Empregado sonolento]]
 [s]ISSO NÃO DÁ A ELE O DIREITO[n]de desabafar SOBRE NÓS...[n][w][e]
 
-[msg D05_02_kakari_battle05 [Dipendente svogliato]]
+[msg D05_02_kakari_battle05 [Funcionário preguiçoso]]
 [s]SIM, ME DIZER QUE SÃO [clr 2]INÚTEIS[clr 27]NÃO[n]IRÁ MELHORAR AS COISAS.[n][w][e]
 [s]TRABALHAR MAIS DO QUE JÁ[n]FAÇO ME DESTRUÍRIA. ENTÃO[n]SIM EU SERIA REALMENTE INÚTIL.[n][w][e]
 

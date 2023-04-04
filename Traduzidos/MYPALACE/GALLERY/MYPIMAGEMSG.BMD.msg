@@ -317,10 +317,10 @@
 [s][n]imagem de fundo do calendário com Tóquio à noite.[n][e]
 
 [msg MSG_105]
-[s]O mapa Memento.[n][e]
+[s]O mapa Mementos.[n][e]
 
 [msg MSG_106]
-[s]O mapa de Memento[n]influenciado por Maruki.[n][e]
+[s]O mapa de Mementos[n]influenciado por Maruki.[n][e]
 
 [msg MSG_107]
 [s]O mapa de Mementos influenciado[n]pelos desejos realizados[n]das pessoas.[n][e]

@@ -113,7 +113,7 @@
 [msg MSG_033_5_0 [Caroline]]
 [s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ah?[n][f 1 3 65535][w][e]
 
-[msg MSG_034_0_0 [Altoparlante dell'acquario]]
+[msg MSG_034_0_0 [Alto falante aquário]]
 [s][vp 8 0 0 0 65535 0]Um show gratuito de pinguins começará no palco em[n]breve.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Venha curtir o show![n][f 1 3 65535][w][e]
 

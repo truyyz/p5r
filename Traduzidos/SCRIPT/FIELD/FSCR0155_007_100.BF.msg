@@ -8,7 +8,7 @@
 [msg MSG_e296_111_000 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6189 65535 0]...Futaba-chan?!?[n][w][e]
 
-[msg MSG_e296_111_001 [Ombra di Futaba]]
+[msg MSG_e296_111_001 [Sombra de Futaba]]
 [s][bup 0 8 900 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]E assim, você veio. Me siga.[n][w][e]
 
 [msg MSG_e296_112_000 [Ryuji]]
@@ -23,19 +23,19 @@
 [msg MSG_e296_112_003 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Nossa, que pé no saco![n][w][e]
 
-[msg D155_07_miniEV01_mes01 [Ombra di Futaba]]
+[msg D155_07_miniEV01_mes01 [Sombra de Futaba]]
 [s]順調みたいだな。[n][w][e]
 
 [msg D155_07_miniEV01_mes02 [Makoto]]
 [s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]おかげさまでね。[n][w][e]
 
-[msg D155_07_miniEV01_mes03 [Ombra di Futaba]]
+[msg D155_07_miniEV01_mes03 [Sombra de Futaba]]
 [s]『光を繋げ』[n][w][e]
 
 [msg D155_07_miniEV01_mes04 [Ryuji]]
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]あ? 急にどうした?[n][w][e]
 
-[msg D155_07_miniEV01_mes05 [Ombra di Futaba]]
+[msg D155_07_miniEV01_mes05 [Sombra de Futaba]]
 [s]アレを見てみろ。[n][w][e]
 
 [msg D155_07_miniEV01_mes06 [Ann]]
@@ -45,13 +45,13 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]大型の♀砲、『[clr 2]バリスタ[clr 27]』というヤツか。[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]アレと比べたら、[n]ワガハイの投石機なんて可‰いモンだぜ...[n][w][e]
 
-[msg D155_07_miniEV01_mes08 [Ombra di Futaba]]
+[msg D155_07_miniEV01_mes08 [Sombra de Futaba]]
 [s]アレが光を繋ぐ鍵だ。[n][w][e]
 
 [msg D155_07_miniEV01_mes9 [Yusuke]]
 [s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]相変わらず、要領を得ない言い方だな。[n][w][e]
 
-[msg D155_07_miniEV01_mes10 [Ombra di Futaba]]
+[msg D155_07_miniEV01_mes10 [Sombra de Futaba]]
 [s]まあ、わざとだしな。[n]お前たちも、その方が楽しいだろ?[n][w][e]
 [s]とにかく、[n]今回も期待しないで待ってるぞ...[n][w][e]
 

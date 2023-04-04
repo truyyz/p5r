@@ -8,13 +8,13 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1171 65535 0]Comprar um refrigerante[n]por 100 ienes era uma pechincha.[n][w][e]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0]Esperamos que também haja[n]em sua cidade.[n][w][e]
 
-[msg MSG_LAST_GREETING_RECYCL [Gestore del negozio dell'usato]]
+[msg MSG_LAST_GREETING_RECYCL [Gerente de brechó]]
 [s][f 4 23 1 150 3 10 0 0]Bem-vindo.[n][w][e]
 
 [msg MSG_LAST_GREETING_RECYCL_2 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1019 65535 0]O velho sempre foi bom para nós. Você deveria[n]agradecê-lo.[n][w][e]
 
-[msg MSG_LAST_GREETING_RECYCL_3 [Gestore del negozio dell'usato]]
+[msg MSG_LAST_GREETING_RECYCL_3 [Gerente de brechó]]
 [s][f 4 23 1 150 3 10 0 0]Oh sério...? Bem, sentiremos sua falta.[n]Cuide-se, ok?[n][w][e]
 
 [msg MSG_LAST_GREETING_RECYCL_4 [Morgana]]
@@ -313,13 +313,13 @@
 [msg MSG_RECYCLE_CLOSE_NotIte [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1035 65535 0]Eles vendem muitas coisas aqui,[n]mas nada de interessante.[n]Vamos dar uma olhada de vez em quando.[n][w][e]
 
-[msg RECYCLE_SHOP_SELECT [Gestore del negozio dell'usato]]
+[msg RECYCLE_SHOP_SELECT [Gerente de brechó]]
 [s][f 4 23 1 150 3 10 0 0]Bem-vindo.[n][w][e]
 
-[msg RECYCLE_SHOP_THANKS [Gestore del negozio dell'usato]]
+[msg RECYCLE_SHOP_THANKS [Gerente de brechó]]
 [s][f 4 23 1 150 6 5 0 0]...Obrigado.[n][w][e]
 
-[msg RECYCLE_SHOP_NOT_BUY [Gestore del negozio dell'usato]]
+[msg RECYCLE_SHOP_NOT_BUY [Gerente de brechó]]
 [s]É um daqueles dias...[n][w][e]
 
 [msg MSG_RECYCLE_DvdPlayerBuy [Morgana]]
@@ -372,10 +372,10 @@
 [msg SuperMarket_NOT_BUY [Morgana]]
 [s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 1 1177 65535 0]Você veio aqui só para olhar?[n][w][e]
 
-[msg MSG_SUPER_SALE [Funcionário do supermercado]]
+[msg MSG_SUPER_SALE [Oficial de supermercado]]
 [s]Bem-vindo![n]Temos ofertas todo[n]sábado e domingo![n][w][e]
 
-[msg MSG_SUPER_THANKS [Funcionário do supermercado]]
+[msg MSG_SUPER_THANKS [Oficial de supermercado]]
 [s]Mil agradecimentos![n][w][e]
 
 [msg MSG_CHK_SUPER_ITEM01_MOR [Morgana]]
@@ -763,7 +763,7 @@
 [s][vp 1 0 0 0 0 0]Isso parece um[n]brechó.[n][w][e]
 [s][vp 1 0 0 0 0 0]No entanto, eu não tenho tempo para dar[n]uma olhada. É melhor eu me apressar e ir[n]para a escola...[n][w][e]
 
-[msg MSG_E18010100_NG_RECYCLE [Gestore del negozio dell'usato]]
+[msg MSG_E18010100_NG_RECYCLE [Gerente de brechó]]
 [s][vp 1 0 0 0 0 0]Huh? Você quer me vender uma[n]medalha de ouro?[n][w][e]
 [s][vp 1 0 0 0 0 0]É verdade que vendemos bijuterias de todo tipo,[n]mas não trabalhamos com medalhas ...[n][w][e]
 [s][vp 1 0 0 0 0 0]Sinto muito, mas não posso[n]comprá-lo. Por que você não tenta[n]em outro lugar?[n][w][e]
@@ -818,7 +818,7 @@
 [msg MSG_E27930100_SuperMarke [Morgana]]
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 0 1 4 65535 0]Este lugar é perto de[n]Leblanc, talvez descubramos[n]algo aqui![n][w][e]
 
-[msg MSG_E27930100_SuperMarke_2 [Commesso]]
+[msg MSG_E27930100_SuperMarke_2 [Atendente]]
 [s][vp 8 0 1 5 65535 0]Bem-vindo![n][w][e]
 [s][vp 8 0 1 6 65535 0]......[n][w][e]
 [s][vp 8 0 1 7 65535 0]Futaba? De Sakura-san?[n][w][e]
@@ -1212,7 +1212,7 @@
 [msg MSG_E79310100_NG_RUBURAN [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 65535 1112 0 0]Mmm, parece que ele ainda não está no clube...[n][w][e]
 
-[msg MSG_E79310100_RECYCLE_SE [Gestore del negozio dell'usato]]
+[msg MSG_E79310100_RECYCLE_SE [Gerente de brechó]]
 [s][vp 1 0 0 0 0 0]Mmm...[n][w][e]
 [s][vp 1 0 0 0 0 0]Tenho que me livrar dessa TV...[n][w][e]
 [s][vp 1 0 0 0 0 0]Seria melhor se você[n]vendê-lo, em vez[n]jogá-lo fora...[n][w][e]
@@ -1221,34 +1221,34 @@
 [msg MSG_E79310100_RECYCLE_SE_2 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]Eles parecem ter muitas[n]coisas... Mas primeiro, precisamos[n]encontrar aquela clínica.[n][w][e]
 
-[msg MSG_E27930100_RECYCLE_SE_2 [Gestore del negozio dell'usato]]
+[msg MSG_E27930100_RECYCLE_SE_2 [Gerente de brechó]]
 [s][vp 1 0 0 0 0 0]Mmm...[n][w][e]
 [s][vp 1 0 0 0 0 0]Uma velha consola de jogos.[n][w][e]
 [s][vp 1 0 0 0 0 0]Talvez eu pudesse vendê-lo se[n]adicionasse alguns jogos?[n][w][e]
 [s][vp 1 0 0 0 0 0]Não sei quem iria querer[n]um [clr 2]console de jogos[clr 27][n]tão antigo, mas...[n][w][e]
 
-[msg MSG_E27930100_RECYCLE_SE_3 [Gestore del negozio dell'usato]]
+[msg MSG_E27930100_RECYCLE_SE_3 [Gerente de brechó]]
 [s][vp 1 0 0 0 0 0]...mmm? Posso ajudar?[n][w][e]
 
 [sel MSG_E27930100_RECYCLE_SE_4 top]
 [s]Você conhece Futaba Sakura?[e]
 [s]Conte-me sobre Futaba Sakura.[e]
 
-[msg MSG_E27930100_RECYCLE_SE_5 [Gestore del negozio dell'usato]]
+[msg MSG_E27930100_RECYCLE_SE_5 [Gerente de brechó]]
 [s][vp 1 0 0 0 0 0]Futaba...?[n][w][e]
 [s][vp 1 0 0 0 0 0]De vez em quando, os jovens vêm bisbilhotar...[n]mas infelizmente não os conheço pelo nome.[n][w][e]
 
 [msg MSG_E27930100_RECYCLE_SE_6 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1021 65535 0]Nada a ver aqui também, hein?[n]Vamos perguntar para outras pessoas.[n][w][e]
 
-[msg MSG_E27930100_RECYCLE_GA [Gestore del negozio dell'usato]]
+[msg MSG_E27930100_RECYCLE_GA [Gerente de brechó]]
 [s][vp 1 0 0 0 0 0]...mmm? Posso ajudar?[n][w][e]
 
 [sel MSG_E27930100_RECYCLE_GA_2 top]
 [s]Você conhece Futaba Sakura?[e]
 [s]Conte-me sobre Futaba Sakura.[e]
 
-[msg MSG_E27930100_RECYCLE_GA_3 [Gestore del negozio dell'usato]]
+[msg MSG_E27930100_RECYCLE_GA_3 [Gerente de brechó]]
 [s][vp 1 0 0 0 0 0]Futaba? Mmm...[n][w][e]
 [s][vp 1 0 0 0 0 0]De vez em quando, os jovens vêm bisbilhotar...[n]mas infelizmente não os conheço pelo nome.[n][w][e]
 

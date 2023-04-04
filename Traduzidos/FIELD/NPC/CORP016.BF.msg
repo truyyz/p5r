@@ -1,4 +1,4 @@
-[msg MSG_ODA_NPC_00 [Ragazzo con il cappello]]
+[msg MSG_ODA_NPC_00 [Menino com chapéu]]
 [s][bup 0 110 0 0 0][f 4 10 65535 0 0][f 4 23 1 216 3 10 0 10][vp 8 2 1 17001 216 0]Este fliperama é um lugar ruim.[n]Poucas pessoas vêm[n]aqui para jogar Gun About.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 216 0]E você? Você está aqui para Gun About?[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 216 0]...Eu não acredito. Olhando para você,[n]você parece um otário.[n][w][e]
@@ -186,7 +186,7 @@
 
 [msg MND_C16_COOP_08_01]
 [s]Shinya deu a sua mãe[n]a carta de aviso.[n][w][e]
-[s]Vamos ao Memento[n]e despertar seu coração...[n][w][e]
+[s]Vamos ao Mementos[n]e despertar seu coração...[n][w][e]
 
 [msg MSG_C16_COOP_08_02 [Shinya]]
 [s][bup 0 110 1 0 0][f 4 10 65535 0 0][f 4 23 1 216 3 10 0 10][vp 8 2 1 17002 65535 0][f 4 1]-san...! Ei escute![n][w][e]

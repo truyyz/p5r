@@ -1,4 +1,4 @@
-[msg GMC_PUZZLE_INIT_msg_02 [Monumento di pietra]]
+[msg GMC_PUZZLE_INIT_msg_02 [Monumento de pedra]]
 [s]Servindo à rainha esmeralda[n]estão as crianças ébano,[n]escarlate e azul.[n][w][e]
 
 [msg GMC_PUZZLE_EXIT_CHECK_ms [Morgana]]

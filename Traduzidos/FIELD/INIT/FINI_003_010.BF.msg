@@ -9,7 +9,7 @@
 [s]Agora eu entendo... Vai ser meio[n]triste aqui sem meus braços de camarada[n]s, sabe?[n][w][e]
 [s]Bem...foi bom trabalhar[n]com você! Espero que tudo corra[n]bem![n][w][e]
 
-[msg MSG_CONVINI_GREETING [Commessa del convenience store]]
+[msg MSG_CONVINI_GREETING [Balconista de loja de conveniência]]
 [s][f 4 23 1 1 3 5 65534 0][vp 8 2 1 0 1 0]Bem-vindo! Oferecemos grandes descontos[n]em todas as comidas quentes![n][w][e]
 
 [msg MSG_CONVINI_GREETING_nam [Nanami]]
@@ -37,13 +37,13 @@
 [msg MSG_CONVINI_GREETING_RE [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1185 65535 0]Você já terminou?[n][w][e]
 
-[msg MSG_CONVINI_GREETING_6_8 [Commessa del convenience store]]
+[msg MSG_CONVINI_GREETING_6_8 [Balconista de loja de conveniência]]
 [s][f 4 23 1 1 3 5 65534 0][vp 8 2 1 0 1 0]Bem-vindo! Fique legal[n]neste verão! [f 2 5 3 9999 0][n]está em oferta![n][w][e]
 
 [msg MSG_CONVINI_GREETING_6_8_2 [Nanami]]
 [s][f 4 23 1 1 3 5 65534 0][vp 8 2 1 0 1 0]Bem-vindo! Fique legal[n]neste verão! [f 2 5 3 9999 0][n]está em oferta![n][w][e]
 
-[msg MSG_CONVINI_GREETING_9 [Commessa del convenience store]]
+[msg MSG_CONVINI_GREETING_9 [Balconista de loja de conveniência]]
 [s][f 4 23 1 1 3 5 65534 0][vp 8 2 1 0 1 0]Bem-vindo! Um clássico para o outono[n]inverno! [f 2 5 3 9999 0],[n]está em oferta![n][w][e]
 
 [msg MSG_CONVINI_GREETING_9_n [Nanami]]
@@ -65,13 +65,13 @@
 [s]Eu quero trabalhar.[e]
 [s]Tenho que pensar.[e]
 
-[msg MSG_CONVINI_OK_BAITO_1ST [Commessa del convenience store]]
+[msg MSG_CONVINI_OK_BAITO_1ST [Balconista de loja de conveniência]]
 [s][f 4 23 1 1 3 5 65534 0][vp 8 2 1 58554 1 0]Oh, foi você quem ligou sobre o trabalho de meio[n]período? Estou ligando para o gerente, aguarde[n]um momento.[n][w][e]
 
 [msg MSG_CONVINI_OK_BAITO_NOR [Nanami]]
 [s][f 4 23 1 1 3 5 65534 0][vp 8 2 1 58555 1 0]Você está aqui hoje?[n]Você seria de grande ajuda![n][w][e]
 
-[msg MSG_CONVINI_END [Commessa del convenience store]]
+[msg MSG_CONVINI_END [Balconista de loja de conveniência]]
 [s][f 4 23 1 1 3 5 65534 0][vp 8 2 1 0 1 0]Mil agradecimentos![n][w][e]
 
 [msg MSG_CONVINI_END_named [Nanami]]

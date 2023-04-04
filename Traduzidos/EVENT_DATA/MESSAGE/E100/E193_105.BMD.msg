@@ -13,13 +13,13 @@
 [msg MSG_004_0_0 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Eu sou aquele que te guia![n]Você deveria me chamar de "Mestre"![n][f 1 3 65535][w][e]
 
-[msg MSG_005_0_0 [Bambina ingenua]]
+[msg MSG_005_0_0 [Garotinha ingênua]]
 [s][vp 8 0 0 6 6 0]Oooh, gatinho![n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Ann]]
 [s][bup 0 4 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Nossa...![n][f 1 3 65535][w][e]
 
-[msg MSG_007_0_0 [Bambina ingenua]]
+[msg MSG_007_0_0 [Garotinha ingênua]]
 [s][vp 8 0 0 8 6 0]É o seu animal de estimação, senhor?[n]Eu ouvi ele miando![n][f 1 3 65535][w][e]
 
 [sel SEL_008_0_0 top]
@@ -30,13 +30,13 @@
 [msg MSG_009_0_0 [Ann]]
 [s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Sim, é apenas um brinquedo.[n]Se você esmagar a cabeça dele, ele miará.[n][f 1 3 65535][w][e]
 
-[msg MSG_010_0_0 [Bambina ingenua]]
+[msg MSG_010_0_0 [Garotinha ingênua]]
 [s][vp 8 0 0 10 6 0]Mas eu vi a cabeça saindo[n]do saco... Não é um gatinho?[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Ann]]
 [s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]É... hum... só um brinquedo![n]Se você esmagar a cabeça dele, ele vai miar.[n][f 1 3 65535][w][e]
 
-[msg MSG_012_0_0 [Bambina ingenua]]
+[msg MSG_012_0_0 [Garotinha ingênua]]
 [s][vp 8 0 0 12 6 0]Que monstro...?[n]Não é um gatinho?[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Ann]]
@@ -51,7 +51,7 @@
 [msg MSG_014_0_0 [Morgana]]
 [s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]M-Miau...[n][f 1 3 65535][w][e]
 
-[msg MSG_015_0_0 [Bambina ingenua]]
+[msg MSG_015_0_0 [Garotinha ingênua]]
 [s][vp 8 0 0 17 6 0]Wowweeeee! Ainda! De novo![n][f 1 3 65535][w][e]
 
 [sel SEL_016_0_0 top]
@@ -65,7 +65,7 @@
 [msg MSG_017_5_0 [Morgana]]
 [s][bup 0 3 8 0 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Mia... Miao...[n][f 1 3 65535][w][e]
 
-[msg MSG_018_0_0 [Bambina ingenua]]
+[msg MSG_018_0_0 [Garotinha ingênua]]
 [s][vp 8 0 0 20 6 0]Hahaha, que fofo![n]Quero ouvir de novo![n][f 1 3 65535][w][e]
 
 [msg MSG_018_5_0 [Ryuji]]
@@ -77,7 +77,7 @@
 [msg MSG_019_5_0 [Morgana]]
 [s][bup 0 3 10 0 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]...Bleahhh![n][f 1 3 65535][w][e]
 
-[msg MSG_020_0_0 [Bambina ingenua]]
+[msg MSG_020_0_0 [Garotinha ingênua]]
 [s][vp 8 0 0 24 6 0]Hahaha, que gritinho engraçado![n]quero ouvir de novo![n][f 1 3 65535][w][e]
 
 [msg MSG_020_5_0 [Morgana]]
@@ -93,7 +93,7 @@
 [msg MSG_021_5_0 [Morgana]]
 [s][bup 0 3 10 0 0][f 4 10 65535 0 0][vp 8 0 0 29 65535 0]...Bleahhh![n][f 1 3 65535][w][e]
 
-[msg MSG_022_0_0 [Bambina ingenua]]
+[msg MSG_022_0_0 [Garotinha ingênua]]
 [s][vp 8 0 0 30 6 0]Hahaha, que hilário![n]Quero ouvir de novo![n][f 1 3 65535][w][e]
 
 [msg MSG_022_5_0 [Morgana]]
@@ -102,13 +102,13 @@
 [msg MSG_022_7_0 [Ryuji]]
 [s][bup 0 2 7 65535 0][f 4 10 65535 0 0][vp 8 0 0 32 65535 0]Sério...?[n][f 1 3 65535][w][e]
 
-[msg MSG_023_0_0 [Annuncio ferroviario]]
+[msg MSG_023_0_0 [Anúncio ferroviário]]
 [s][vp 8 0 0 33 65535 0]Próxima parada: Shibuya.[n]As portas abrem à esquerda.[n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [Ann]]
 [s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 34 65535 0]Oh, é a nossa parada![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 35 65535 0]Bem, até mais! Tchau tchau![n][f 1 3 65535][w][e]
 
-[msg MSG_025_0_0 [Bambina ingenua]]
+[msg MSG_025_0_0 [Garotinha ingênua]]
 [s][vp 8 0 0 36 65535 0]Mm-mh! Tchau tchau![n][f 1 3 65535][w][e]
 

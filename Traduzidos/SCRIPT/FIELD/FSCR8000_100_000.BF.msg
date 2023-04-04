@@ -1,7 +1,7 @@
-[msg DRESSTALK_DLC_NONE [NESSUNO]]
+[msg DRESSTALK_DLC_NONE [NINGUÉM]]
 [s]DLCÐ装装備者なし[n][w][e]
 
-[msg DRESSTALK_ERROR [NESSUNO]]
+[msg DRESSTALK_ERROR [NINGUÉM]]
 [s]Erro[n][w][e]
 
 [msg DRESSTALK_UNI_SUMMER_PC0 [Ryuji]]

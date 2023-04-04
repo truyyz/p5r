@@ -7838,7 +7838,7 @@
 [s]......[n][f 1 6 65535][e]
 
 [msg D_CAR__PC03_mes507]
-[s][vp 1 0 0 3507 0 0]Às vezes, em Memento...[n]você pode ouvir alguém[n]chorando ao longe...[n][f 1 6 65535][e]
+[s][vp 1 0 0 3507 0 0]Às vezes, em Mementos...[n]você pode ouvir alguém[n]chorando ao longe...[n][f 1 6 65535][e]
 
 [msg D_CAR__PC03_mes508]
 [s][vp 1 0 0 3508 0 0]Você pode ouvir muitas[n]vozes no vento.[n][f 1 6 65535][e]
@@ -9458,7 +9458,7 @@
 [s][vp 1 0 0 6541 0 0]Chegaremos ao final desse[n]labirinto, eu sinto! Vamos![n][f 1 6 65535][e]
 
 [msg D_CAR__PC06_mes542]
-[s][vp 1 0 0 6542 0 0]Memento, Palazzi... É uma terminologia[n]bastante[n]interessante.[n][f 1 6 65535][e]
+[s][vp 1 0 0 6542 0 0]Mementos, Palazzi... É uma terminologia[n]bastante[n]interessante.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC06_mes543]
 [s][vp 1 0 0 6543 0 0]Quando você percebe que pode fazer[n]qualquer coisa, você percebe[n]que não sabe o que quer fazer...[n][f 1 6 65535][e]

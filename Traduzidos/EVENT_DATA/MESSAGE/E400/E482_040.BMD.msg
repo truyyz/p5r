@@ -4,13 +4,13 @@
 [msg MSG_001_0_0 [Kasumi]]
 [s][bup 0 10 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Não sei como agradecer por hoje.[n]Prometo que retribuirei o[n]favor assim que...[n][f 1 3 65535][w][e]
 
-[msg MSG_002_0_0 [Studente del primo anno scontroso]]
+[msg MSG_002_0_0 [Aluno mal-humorado do primeiro ano]]
 [s][vp 8 0 0 3 65535 0]Ei, aquele não é o Yoshizawa?[n][f 1 3 65535][w][e]
 
-[msg MSG_003_0_0 [Studentessa del primo anno interessata]]
+[msg MSG_003_0_0 [Aluno do primeiro ano interessado]]
 [s][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]Você quer dizer a ginasta modelo?[n][f 1 3 65535][w][e]
 
-[msg MSG_004_0_0 [Studentessa del primo anno interessata]]
+[msg MSG_004_0_0 [Aluno do primeiro ano interessado]]
 [s][vp 8 0 0 25 65535 0]Aquela que é tratada como VIP na escola E tem um[n]namorado que a leva para todo lugar?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 26 65535 0]Para a senhorita princesinha[n]a vida é uma caminhada...[n][f 1 3 65535][w][e]
 

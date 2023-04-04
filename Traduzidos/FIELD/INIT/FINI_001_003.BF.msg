@@ -42,7 +42,7 @@
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 1 1 65535 0]Bem, vamos lá![n]Como esperado![n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 2 65535 0]Podemos acabar nos deparando com a máfia. Esteja[n]pronto para qualquer coisa![n][w][e]
 
-[msg MSG_E24330100_OUTLOW_000 [Uomo minaccioso]]
+[msg MSG_E24330100_OUTLOW_000 [Homem ameaçador]]
 [s][vp 1 0 0 0 0 0]......[n][w][e]
 [s][f 4 23 1 858 3 10 0 0][vp 1 0 0 0 0 0]Você sabe o que é um modelador de cachos?[n]Aquela engenhoca que as garotas usam[n]para deixar o cabelo cacheado, entendeu?[n][w][e]
 [s][vp 1 0 0 0 0 0]Eu estava pensando... Se um cara[n]jogar uma daquelas coisas tão[n]quentes na cara dele... o que poderia acontecer?[n][w][e]
@@ -52,19 +52,19 @@
 [s]Não entendo.[e]
 [s]Mas aquele trabalho de meio período...[e]
 
-[msg MSG_E24330100_OUTLOW_002 [Uomo minaccioso]]
+[msg MSG_E24330100_OUTLOW_002 [Homem ameaçador]]
 [s][f 4 23 1 858 3 10 0 0][vp 1 0 0 0 0 0]Hahaha, exatamente![n]Acho que nem os médicos[n]poderiam consertar.[n][w][e]
 [s][vp 1 0 0 0 0 0]Eu tentei, sabe? Na cara de um cara. E como ele[n]gritou... eu tirei uma foto dele. Você quer ver?[n][w][e]
 
-[msg MSG_E24330100_OUTLOW_002_2 [Uomo minaccioso]]
+[msg MSG_E24330100_OUTLOW_002_2 [Homem ameaçador]]
 [s][f 4 23 1 858 3 10 0 0][vp 1 0 0 0 0 0]Oh? Você não sabe o que responder?[n]Ihihih, bem, a resposta é...[n][w][e]
 [s][vp 1 0 0 0 0 0]"Aquele cara iria[n]chorar e pedir desculpas."[n]Eu tirei uma foto dele. Você quer ver?[n][w][e]
 
-[msg MSG_E24330100_OUTLOW_002_3 [Uomo minaccioso]]
+[msg MSG_E24330100_OUTLOW_002_3 [Homem ameaçador]]
 [s][f 4 23 1 858 3 10 0 0][vp 1 0 0 0 0 0]Desculpe, garoto. As inscrições[n]estão encerradas, então fique de olho.[n]Sou um cara muito ocupado.[n][w][e]
 [s][vp 1 0 0 0 0 0]Você sabe, se você brincar com fogo, mais cedo ou[n]mais tarde você se queima. E eu não acho que[n]você queira, estou certo?[n][w][e]
 
-[msg MSG_E24330100_OUTLOW_003 [Uomo minaccioso]]
+[msg MSG_E24330100_OUTLOW_003 [Homem ameaçador]]
 [s][f 4 23 1 858 3 10 0 0][vp 1 0 0 0 0 0]Eu memorizei seu rosto, então pare de bisbilhotar.[n][w][e]
 [s][vp 1 0 0 0 0 0]O meu é apenas um aviso.[n]É melhor você tirar vantagem[n]da minha bondade.[n][w][e]
 

@@ -809,16 +809,16 @@
 [msg MSG_GRT_main_Lim_306_06_]
 [s][vp 9 2 65535 43262 0 0]Aparentemente, ele sabe das coisas.[n]Talvez ele seja realmente algum[n]tipo de gênio do crime...[n][f 1 2 180][e]
 
-[msg MSG_VALLEY_NPC01_001_00_ [Pallavolista arrogante]]
+[msg MSG_VALLEY_NPC01_001_00_ [Jogador de vôlei arrogante]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Desapareça, perdedor. Não precisamos[n]de um babaca expulso[n]roubando nosso oxigênio![n][w][e]
 
-[msg MSG_VALLEY_NPC01_001_01_ [Pallavolista agguerrito]]
+[msg MSG_VALLEY_NPC01_001_01_ [Jogador de voleibol habilidoso]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Perdedores como você não precisam de[n]vale-refeição. Dê o fora.[n][w][e]
 
-[msg MSG_VALLEY_NPC01_001_02_ [Pallavolista arrogante]]
+[msg MSG_VALLEY_NPC01_001_02_ [Jogador de vôlei arrogante]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Não queremos que um criminoso[n]estrague nosso humor durante a refeição.[n]Vá comer no banheiro.[n][w][e]
 
-[msg MSG_VALLEY_NPC01_001_03_ [Pallavolista agguerrito]]
+[msg MSG_VALLEY_NPC01_001_03_ [Jogador de voleibol habilidoso]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Uma alimentação saudável é essencial[n]para nosso treinamento, portanto[n]assegure-se de não nos incomodar.[n][w][e]
 
 [msg MSG_VALLEY_NPC01_001_04_ [Morgana]]
@@ -833,62 +833,62 @@
 [s][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Quero dizer, Kamoshida abusa[n]deles e os trata como escravos.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Talvez isso passe quando[n]Kamoshida tiver seu coração despertado.[n]Estou confiante.[n][w][e]
 
-[msg MSG_VALLEY_NPC01_002_00_ [Pallavolista arrogante]]
+[msg MSG_VALLEY_NPC01_002_00_ [Jogador de vôlei arrogante]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Eu disse que não há lugar para[n]um perdedor anônimo como você,[n]então cai fora![n][w][e]
 
 [msg MSG_VALLEY_NPC01_002_01_ [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Eu sei que é difícil, mas tente[n]segurar um pouco mais.[n]É tudo culpa de Kamoshida![n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Você receberá o que merece,[n]Kamoshida![n][w][e]
 
-[msg MSG_VALLEY_NPC01_002_02_ [Pallavolista arrogante]]
+[msg MSG_VALLEY_NPC01_002_02_ [Jogador de vôlei arrogante]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Ter você por perto faz comida parecer ruim. Você[n]está estragando nossa refeição, vá para casa.[n][w][e]
 
 [msg MSG_VALLEY_NPC01_002_03_ [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Eu sei que é chato, mas não há nada[n]que você possa fazer sobre isso no momento.[n]Eles não sabem o que está acontecendo...[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Fizemos o que pudemos.[n]Só temos que esperar.[n][w][e]
 
-[msg MSG_VALLEY_NPC01_003_00_ [Pallavolista agguerrito]]
+[msg MSG_VALLEY_NPC01_003_00_ [Jogador de voleibol habilidoso]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]O que você quer, criminoso?[n][w][e]
 
-[msg MSG_VALLEY_NPC01_003_01_ [Pallavolista arrogante]]
+[msg MSG_VALLEY_NPC01_003_01_ [Jogador de vôlei arrogante]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Não temos tempo a perder com[n]esse cara, não agora que[n]Prof. Kamoshida se foi.[n][w][e]
 [s][vp 8 2 1 0 2 0]O que queremos fazer?[n]A competição está chegando,[n]mas estamos sem treinador...[n][w][e]
 
-[msg MSG_VALLEY_NPC01_003_02_ [Pallavolista agguerrito]]
+[msg MSG_VALLEY_NPC01_003_02_ [Jogador de voleibol habilidoso]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Temos que inventar algo,[n]então... pare de reclamar e[n]vamos direto ao assunto.[n][w][e]
 
-[msg MSG_VALLEY_NPC02_001_00_ [Pallavolista sgarbato]]
+[msg MSG_VALLEY_NPC02_001_00_ [Jogador de vôlei rude]]
 [s][f 4 23 1 3 14 10 13 10][vp 8 2 1 0 3 0]Ei, você tem um problema? Pare de me encarar...[n]você é assustador.[n][w][e]
 
-[msg MSG_VALLEY_NPC02_001_01_ [Pallavolista prepotente]]
+[msg MSG_VALLEY_NPC02_001_01_ [Jogador de vôlei agressor]]
 [s][f 4 23 1 4 14 10 13 10][vp 8 2 1 0 4 0]Essas vagas são reservadas para[n]jogadores de vôlei, não para malucos que[n]são expulsos da escola.[n][w][e]
 
-[msg MSG_VALLEY_NPC02_001_02_ [Pallavolista antipatico]]
+[msg MSG_VALLEY_NPC02_001_02_ [Jogador de vôlei antipático]]
 [s][f 4 23 1 5 14 10 13 10][vp 8 2 1 0 5 0]A reputação de Shujin depende[n]de nós. Temos o direito de[n]relaxar antes do treino.[n][w][e]
 
-[msg MSG_VALLEY_NPC02_001_03_ [Pallavolista sgarbato]]
+[msg MSG_VALLEY_NPC02_001_03_ [Jogador de vôlei rude]]
 [s][f 4 23 1 3 14 10 13 10][vp 8 2 1 0 3 0]Então desça. Caso contrário,[n]vou contar ao Prof. Kamoshida.[n][w][e]
 
-[msg MSG_VALLEY_NPC03_001_00_ [Studente serioso]]
+[msg MSG_VALLEY_NPC03_001_00_ [Estudante sério]]
 [s][f 4 23 1 6 3 10 0 10][vp 8 2 1 0 6 0]A cantina está deserta...[n]O que está acontecendo?[n][w][e]
 
-[msg MSG_VALLEY_NPC03_001_01_ [Studentessa dai capelli neri]]
+[msg MSG_VALLEY_NPC03_001_01_ [Estudante de cabelo preto]]
 [s][f 4 23 1 7 3 10 0 10][vp 8 2 1 0 7 0]Não há time de vôlei monopolizando todas as[n]cadeiras.[n][w][e]
 
-[msg MSG_VALLEY_NPC03_001_02_ [Studente serioso]]
+[msg MSG_VALLEY_NPC03_001_02_ [Estudante sério]]
 [s][f 4 23 1 6 3 10 0 10][vp 8 2 1 0 6 0]Bem, você não pode culpá-los se eles não querem[n]mais ser vistos depois daquela confusão com[n]Kamoshida.[n][w][e]
 
-[msg MSG_VALLEY_NPC03_001_03_ [Studentessa dai capelli neri]]
+[msg MSG_VALLEY_NPC03_001_03_ [Estudante de cabelo preto]]
 [s][f 4 23 1 7 3 10 0 10][vp 8 2 1 0 7 0]E aqueles que pensavam que governavam a escola.[n]Bem, não há mais estresse em ir ao refeitório.[n][w][e]
 
-[msg MSG_VALLEY_NPC03_002_00_ [Studente serioso]]
+[msg MSG_VALLEY_NPC03_002_00_ [Estudante sério]]
 [s][f 4 23 1 6 3 10 0 10][vp 8 2 1 0 6 0]Agora que os testes acabaram,[n]vamos fazer uma viagem para Shibuya.[n][w][e]
 [s][vp 8 2 1 0 6 0]Podemos ir às compras, beber[n]chá... E talvez dar uma passada[n]chat na exposição de Madarame?[n][w][e]
 
-[msg MSG_VALLEY_NPC03_002_01_ [Studentessa dai capelli neri]]
+[msg MSG_VALLEY_NPC03_002_01_ [Estudante de cabelo preto]]
 [s][f 4 23 1 7 3 10 0 10][vp 8 2 1 0 7 0]Mas Shibuya não é perigoso?[n]Eu continuo ouvindo sobre todos[n]esses crimes cometidos na área.[n][w][e]
 
-[msg MSG_VALLEY_NPC03_002_02_ [Studente serioso]]
+[msg MSG_VALLEY_NPC03_002_02_ [Estudante sério]]
 [s][f 4 23 1 6 3 10 0 10][vp 8 2 1 0 6 0]Oh, sim... você está se referindo a golpes[n]e chantagem, certo? Eu[n]ouvi sobre isso no noticiário.[n][w][e]
 [s][vp 8 2 1 0 6 0]Também parece que existem alguns[n]caras obscuros procurando contratar[n]garotas para ... quem sabe o quê.[n][w][e]
 

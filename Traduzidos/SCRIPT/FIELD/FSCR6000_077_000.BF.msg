@@ -19,13 +19,13 @@
 [msg MSG_QST_077_06 [Takeo Saburi]]
 [s][vp 1 0 0 0 0 0]Como ousa me acusar de trapacear![n]Você não vai sabotar meus negócios![n][w][e]
 
-[msg MSG_QST_077_07 [Ombra di Saburi]]
+[msg MSG_QST_077_07 [Sombra de Saburi]]
 [s][vp 1 0 0 0 0 0]Como você disse, eu só comecei a chamar isso de "milagre" depois…[n][w][e]
 
 [msg MSG_QST_077_08 [Haru]]
 [s][bup 0 7 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 0 0 0]Os produtos ainda são bons, não são?[n]Por que você cometeu[n]tal erro?[n][w][e]
 
-[msg MSG_QST_077_09 [Ombra di Saburi]]
+[msg MSG_QST_077_09 [Sombra de Saburi]]
 [s][vp 1 0 0 0 0 0]Meus pais foram enganados,[n]então pensei que[n]deveria fazer isso também.[n][w][e]
 [s][vp 1 0 0 0 0 0]E quando acrescentei alguns[n]ingredientes desconhecidos no Japão,[n]todos acreditaram em mim...[n][w][e]
 
@@ -34,7 +34,7 @@
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 0 0 0]A comida não é apenas para nutrição,[n]ela também pode colocar um sorriso[n]no rosto das pessoas.[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 0 0 0]Você não ficou feliz que as pessoas[n]ficaram saudáveis?[n][w][e]
 
-[msg MSG_QST_077_11 [Ombra di Saburi]]
+[msg MSG_QST_077_11 [Sombra de Saburi]]
 [s][vp 1 0 0 0 0 0]Sim. Eu tinha esquecido o verdadeiro[n]significado de vender[n]alimentos.[n][w][e]
 [s][vp 1 0 0 0 0 0]Phantom Thieves, limpe meu[n]coração corrompido ...[n][w][e]
 
@@ -42,6 +42,6 @@
 [s]Como quiser.[e]
 [s]Nós vamos curar você.[e]
 
-[msg MSG_QST_077_13 [Ombra di Saburi]]
+[msg MSG_QST_077_13 [Sombra de Saburi]]
 [s][vp 1 0 0 0 0 0]Obrigada. Estou feliz por ter entendido meu erro.[n][w][e]
 

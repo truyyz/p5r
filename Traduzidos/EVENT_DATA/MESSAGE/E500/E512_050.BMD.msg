@@ -1,4 +1,4 @@
-[msg MSG_000_0_0 [Navigatore del Metaverso]]
+[msg MSG_000_0_0 [Navegador do Metaverso]]
 [s][vp 1 0 0 37 0 0]Uma nova área foi detectada.[n]Atualizando informações[n]para orientação.[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Ryuji]]

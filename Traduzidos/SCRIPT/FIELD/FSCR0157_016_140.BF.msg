@@ -1,4 +1,4 @@
-[msg e382_500_mes01 [Ombra]]
+[msg e382_500_mes01 [Sombra]]
 [s]Coisa? Como você[n]chegou aqui?[n][w][e]
 
 [msg e382_500_mes02 [Ryuji]]

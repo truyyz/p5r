@@ -7,7 +7,7 @@
 [msg e259_504_mes03 [Yusuke]]
 [s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu acho que você está certo. Só espero[n]que seja possível, com[n]as pistas que temos.[n][w][e]
 
-[msg e259_504_mes04 [Voce meccanica]]
+[msg e259_504_mes04 [Voz mecânica]]
 [s]O bloqueio está ativo.[n]Digite seu PIN.[n][w][e]
 
 [msg e259_504_mes05 [Ann]]

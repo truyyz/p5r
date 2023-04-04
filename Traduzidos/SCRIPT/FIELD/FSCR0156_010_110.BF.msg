@@ -7,7 +7,7 @@
 [msg D05_03_e343_001_mes03 [Morgana]]
 [s][bup 0 3 4 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Isso é... o frisbee que o Skull[n]estava falando? É isto que[n]eles estão construindo?[n][w][e]
 
-[msg D05_03_e343_001_mes04 [Altoparlante]]
+[msg D05_03_e343_001_mes04 [Palestrante]]
 [s]A sequência de lançamento do SS Utopia[n]começará no Estaleiro[n]em breve.[n][w][e]
 [s]A sequência começará após a[n]recuperação do núcleo principal.[n][w][e]
 

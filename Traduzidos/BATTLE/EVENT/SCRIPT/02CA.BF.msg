@@ -1,4 +1,4 @@
-[msg MSG_BTL_START_000 [Ombra di Amasaki]]
+[msg MSG_BTL_START_000 [Sombra de Amasaki]]
 [s][vp 8 2 2 50608 1 424]Deixe-me mostrar minha popularidade![n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_ZOUEN_000 [Futaba]]

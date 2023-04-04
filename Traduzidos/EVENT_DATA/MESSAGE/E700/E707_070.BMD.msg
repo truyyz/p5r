@@ -3,7 +3,7 @@
 [s][vp 8 0 0 0 65535 0][f 5 14]Desculpe, mas vou[n]me trancar no banheiro.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 5 14]Deixe o telefone ligado para que eu possa ouvir o[n]que eles estão dizendo.[n][f 1 3 65535][w][e]
 
-[msg MSG_001_0_0 [Collega insegnante]]
+[msg MSG_001_0_0 [Colega professor]]
 [s][vp 8 0 0 0 9 0]Uau, você aguenta bem[n]álcool, Yamauchi.[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Yamauchi]]
@@ -13,10 +13,10 @@
 [msg MSG_003_0_0 [Yamauchi]]
 [s][vp 8 0 0 0 65535 0]Admito, porém... ultimamente[n]sake está mais doce.[n][f 1 3 65535][w][e]
 
-[msg MSG_004_0_0 [Collega insegnante]]
+[msg MSG_004_0_0 [Colega professor]]
 [s][vp 8 0 0 0 9 0]Isso não me surpreende. Sem[n]Kamoshida o ar[n]mais sereno.[n][f 1 3 65535][w][e]
 
-[msg MSG_005_0_0 [Collega insegnante]]
+[msg MSG_005_0_0 [Colega professor]]
 [s][vp 8 0 0 0 9 0]Foi uma época ruim[n]para Shujin, hein?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 9 0]Mas agora que ele se foi,[n]você finalmente teve a chance[n]que você merece, Yamauchi![n][f 1 3 65535][w][e]
 
@@ -26,7 +26,7 @@
 [s][vp 8 0 0 0 65535 0]A única coisa a fazer é[n]derretê-lo completamente.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]No entanto, deve haver uma maneira de[n]trazer Shujin de volta aos holofotes.[n]E aqui vou eu...[n][f 1 3 65535][w][e]
 
-[msg MSG_007_0_0 [Collega insegnante]]
+[msg MSG_007_0_0 [Colega professor]]
 [s][vp 8 0 0 0 9 0]Você quer dizer a[n]equipe de atletismo, certo?[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Yamauchi]]
@@ -37,14 +37,14 @@
 [s][vp 8 0 0 0 65535 0]E, claro, todo o crédito pelo renascimento irá[n]para seu treinador incrivelmente amoroso.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Para fazer isso, no entanto, terei que[n]contratar um excelente treinador.[n][f 1 3 65535][w][e]
 
-[msg MSG_026_0_0 [Collega insegnante]]
+[msg MSG_026_0_0 [Colega professor]]
 [s][vp 8 0 0 0 9 0]Então você será o treinador, mas o[n]trabalho real será outra pessoa?[n]Brilhante, Yamauchi![n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Yamauchi]]
 [s][vp 8 0 0 0 65535 0]E na hora de[n]atribuir os bônus, esta empresa[n]vai pagar um bom dinheiro...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Mas não vou parar por aí.[n]Vou publicar livros, realizar[n]conferências motivacionais...[n][f 1 3 65535][w][e]
 
-[msg MSG_010_0_0 [Collega insegnante]]
+[msg MSG_010_0_0 [Colega professor]]
 [s][vp 8 0 0 0 9 0]E os encrenqueiros da[n]equipe? Fui informado[n]muito mal sobre aquele Nakaoka.[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Yamauchi]]
@@ -57,14 +57,14 @@
 [s][vp 8 0 0 0 65535 0]Eu também devo ter mencionado[n]que Nakaoka[n]colaborou com Kamoshida...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]...Sutilmente, obviamente.[n][f 1 3 65535][w][e]
 
-[msg MSG_012_0_0 [Collega insegnante]]
+[msg MSG_012_0_0 [Colega professor]]
 [s][vp 8 0 0 0 9 0]E? Como acabou?[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Yamauchi]]
 [s][vp 8 0 0 0 65535 0]Aparentemente, Takeishi o expulsou. O plano[n]funcionou perfeitamente![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]E a melhor parte é que[n]Takeishi não é apenas rico, mas sua mãe[n]preside a associação de pais.[n][f 1 3 65535][w][e]
 
-[msg MSG_014_0_0 [Collega insegnante]]
+[msg MSG_014_0_0 [Colega professor]]
 [s][vp 8 0 0 0 9 0]Eu vejo. Um peão perfeito![n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Yamauchi]]
@@ -72,7 +72,7 @@
 [s][vp 8 0 0 0 65535 0]Um dia ele deve ter[n]um "acidente" no treinamento.[n][f 1 3 65535][w][e]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 3 300 65535][vp 8 0 0 0 65535 0]Até então, no entanto, isso me ajudará[n]demonstrar aos outros[n]os benefícios da obediência.[n][f 1 3 65535][w][e]
 
-[msg MSG_016_0_0 [Collega insegnante]]
+[msg MSG_016_0_0 [Colega professor]]
 [s][vp 8 0 0 0 9 0]Hahaha... Você é incrível![n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Ryuji]]

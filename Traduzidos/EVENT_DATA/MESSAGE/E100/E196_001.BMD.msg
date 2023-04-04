@@ -37,8 +37,8 @@
 [s][vp 8 0 0 15 65535 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 17 300 1]Sim, mas...![n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Ann]]
-[s][bup 0 4 103 65535 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Quando estávamos na mostra,[n]felicitei[n]uma das obras expostas.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Mas... Kitagawa-kun[n]se comportou estranho.[n][f 1 3 65535][w][e]
+[s][bup 0 4 103 65535 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Quando estávamos na exibição,[n]admirei uma das obras expostas.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Mas... Kitagawa-kun[n]se comportou de forma estranha.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Talvez essa pintura também[n]seja um plágio...[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Ryuji]]

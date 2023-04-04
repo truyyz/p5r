@@ -17,10 +17,10 @@
 [msg D03_07_SHUTTER_OPEN02 [Ann]]
 [s][bup 0 4 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6045 65535 0]Ver! A veneziana sumiu.[n]Podemos continuar![n][w][e]
 
-[msg D03_07_SHUTTER_OPEN03 [Altoparlante]]
+[msg D03_07_SHUTTER_OPEN03 [Palestrante]]
 [s]Chamando todos os guardas![n]Chamando todos os guardas![n][w][e]
 
-[msg D03_07_SHUTTER_OPEN04 [Altoparlante]]
+[msg D03_07_SHUTTER_OPEN04 [Palestrante]]
 [s]Os ratos conseguiram subir até o último andar![n]Fortaleça a segurança em todos os níveis![n][w][e]
 [s]Eles não devem ir mais longe![n]Proteja o porquinho dourado[n]não importa o quê![n][w][e]
 

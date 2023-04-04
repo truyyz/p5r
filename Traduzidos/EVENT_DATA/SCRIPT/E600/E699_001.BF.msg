@@ -1,22 +1,22 @@
 [msg MSG_BOOK_TRAIN_0416 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1167 65535 0]Mesmo que esteja muito cheio, com[n]um pouco de sorte você[n]conseguirá encontrar um lugar...[n][f 1 3 65535][w][e]
 [s][vp 1 0 0 0 0 0]......[n][f 1 3 65535][w][e]
-[s][vp 8 2 0 1020 65535 0][f 4 10 65535 0 0]Durante a viagem de trem,[n]temos algum tempo livre. Quem sabe[n]se podemos aproveitá-la...[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 1020 65535 0][f 4 10 65535 0 0]Durante a viagem de trem,[n]temos algum tempo livre. Quem sabe[n]podemos aproveitá-la...[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Morgana]]
 [s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 1 1178 65535 0]Conseguimos nos sentar, mas você já[n]leu todos os seus livros...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Talvez devêssemos comprar[n]algo novo para ler...[n][f 1 3 65535][w][e]
 
 [msg MSG_021_1_0 [Morgana]]
-[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 1 1027 65535 0]Conseguimos sentar, mas além[n]descansar, não tem muito[n]outra coisa para fazer...[n][f 1 3 65535][w][e]
+[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 1 1027 65535 0]Conseguimos sentar, mas além[n]de descansar, não tem muita[n] coisa para fazer...[n][f 1 3 65535][w][e]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]OK, estou tirando uma soneca.[n]Acorde-me quando[n]chegarmos ao nosso destino.[n][f 1 3 65535][w][e]
 
 [msg MSG_021_2_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1192 65535 0]Você não tem[n]novos livros para ler, não é?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Tudo o que você precisa fazer é esperar[n]sonhar acordado.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Tudo o que você precisa fazer é esperar.[n]Chegaremos lá.[n][f 1 3 65535][w][e]
 
 [msg MSG_021_3_0 [Morgana]]
-[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 1 1027 65535 0]Você não tem nenhum livro[n]acabado,[n]no momento...[n][f 1 3 65535][w][e]
+[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 1 1027 65535 0]Você não tem nenhum livro[n]inacabado,[n]no momento...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]É uma vergonha. Não há mais nada[n]para fazermos a não ser sentar aqui.[n][f 1 3 65535][w][e]
 
 [msg MND_READ_BOOK_FIRST_TRAI [Morgana]]
@@ -31,26 +31,26 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1190 65535 0]Você já terminou[n]de ler aquele livro...[n][f 1 3 65535][w][e]
 
 [msg MSG_NG_Atama [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1170 65535 0]Esse livro pode ser um pouco[n]muito difícil em seu nível[n]atual de [f 4 11 0][clr 26][f 4 12 0][clr 27]...[n][f 1 3 65535 ][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1170 65535 0]Esse livro pode ser um pouco[n]difícil em seu nível[n]atual de [f 4 11 0][clr 26][f 4 12 0][clr 27]...[n][f 1 3 65535 ][w][e]
 
 [msg SYS_NG_Atama]
-[s]Seu [f 4 11 0][clr 26][f 4 12 0][clr 27] deve ser[n]pelo menos nível [clr 2][f 4 13 0 3][clr 27] para[n]ler clássico literatura.[n][w][e]
+[s]Seu [f 4 11 0][clr 26][f 4 12 0][clr 27] deve ser[n]pelo menos nível [clr 2][f 4 13 0 3][clr 27] para[n]ler literatura clássica.[n][w][e]
 
 [msg SYS_NG_Atama_rank2]
-[s]Seu [f 4 11 0][clr 26][f 4 12 0][clr 27] deve ser[n]pelo menos nível [clr 2][f 4 13 0 2][clr 27] para[n]ler clássico literatura.[n][w][e]
+[s]Seu [f 4 11 0][clr 26][f 4 12 0][clr 27] deve ser[n]pelo menos nível [clr 2][f 4 13 0 2][clr 27] para[n]ler literatura clássica.[n][w][e]
 
 [msg MSG_BATU_001_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1059 65535 0]Um momento. Você conseguiu sentar[n]mas não vai ler?[n][f 1 3 65535][w][e]
 
 [sel SEL_BATU_001_0_0 top]
 [s]Não estou com vontade de ler.[e]
-[s]vou ler alguma coisa.[e]
+[s]Vou ler alguma coisa.[e]
 
 [msg MSG_BATU_003_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu vejo. Então vamos[n]sentar aqui e descansar até[n]chegar lá...[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Entendi. Então vamos[n]sentar aqui e descansar até[n]chegar lá...[n][f 1 3 65535][w][e]
 
 [msg MND_BOOK_NORMAL_SOKUDOKU]
-[s][vp 1 0 0 0 0 0]Graças a esse livro sobre[n]leitura rápida, devo terminar este[n]rápido.[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Graças ao livro sobre[n]leitura rápida, devo terminar este[n]rapidamente.[n][f 1 3 65535][w][e]
 
 [msg MND_BookID_02_Start]
 [s][vp 1 0 0 0 0 0]"Um coração que não demora[n]é a própria essência do bushido".[n][f 1 3 65535][w][e]
@@ -95,7 +95,7 @@
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 0 1168 65535 0]Eu gosto de como a palavra[n]"chefe" soa. Eu gostaria que alguém[n]me chamasse assim um dia.[n][f 1 3 65535][w][e]
 
 [msg MND_BookID_09_Start]
-[s][vp 1 0 0 0 0 0]"Os princípios fundamentais do[n]karakuri residem nos complexos[n]mecanismos típicos da relojoaria".[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]"Os princípios fundamentais do[n]Karakuri residem nos complexos[n]mecanismos típicos da relojoaria".[n][f 1 3 65535][w][e]
 
 [msg MND_BookID_09_Start_02]
 [s][vp 1 0 0 0 0 0]"Karakuri é complexo e[n]deve ser manuseado com cuidado."[n][f 1 3 65535][w][e]
@@ -104,7 +104,7 @@
 [s][vp 1 0 0 0 0 0]"Karakuri requer atenção[n]aos mínimos detalhes."[n][f 1 3 65535][w][e]
 
 [msg MSG_BookID_09_Start [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1168 65535 0]Eles os chamam de karakuri,[n]mas não são apenas bonecos?[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1168 65535 0]Eles os chamam de Karakuri,[n]mas não são apenas bonecos?[n][f 1 3 65535][w][e]
 
 [msg MND_BookID_10_Start]
 [s][vp 1 0 0 0 0 0]"Abandone a modéstia[n]e ame com todo o seu coração[n]e toda a sua alma".[n][f 1 3 65535][w][e]
@@ -131,7 +131,7 @@
 [s][vp 1 0 0 0 0 0]"Encontre a postura que faz você se sentir mais[n]estável."[n][f 1 3 65535][w][e]
 
 [msg MSG_BookID_17_Start [Morgana]]
-[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 0 1166 65535 0]Verdade... Seria impossível[n]mirar sem[n]uma boa pose.[n][f 1 3 65535][w][e]
+[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 0 1166 65535 0]Verdade... Seria impossível[n]mirar sem[n]uma boa postura.[n][f 1 3 65535][w][e]
 
 [msg MND_BookID_18_Start]
 [s][vp 1 0 0 0 0 0]"Tente imaginar uma[n]linha invisível!"[n][f 1 3 65535][w][e]
@@ -155,7 +155,7 @@
 [s][vp 1 0 0 0 0 0]"Gerenciando[n]olhos e cérebro separadamente, sua[n]eficiência..."[n][f 1 3 65535][w][e]
 
 [msg MSG_BookID_22_Start [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1021 65535 0]Uau, abordagem muito científica.[n]Sorte as imagens[n]facilitaram a compreensão.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1021 65535 0]Uau, abordagem muito científica.[n]Ainda bem que as imagens[n]facilitam a compreensão.[n][f 1 3 65535][w][e]
 
 [msg MND_BookID_23_Start]
 [s][vp 1 0 0 0 0 0]"Os filmes se tornam mais divertidos[n]depois que você entende a[n]mise en scène!"[n][f 1 3 65535][w][e]
@@ -180,10 +180,10 @@
 [s][vp 1 0 0 0 0 0][f 4 10 65535 0 0]Eu nunca seria capaz de ir lá[n]sozinho. É melhor você convidar alguém[n]ou não vai ser muito divertido.[n][f 1 3 65535][w][e]
 
 [msg MND_BookID_27_Start]
-[s][vp 1 0 0 0 0 0]"Hoje à noite eu farei[n]o diamante fantasma para mim..."[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]"Hoje à noite, eu roubarei[n]o diamante fantasma..."[n][f 1 3 65535][w][e]
 
 [msg MND_BookID_27_Start_02]
-[s][vp 1 0 0 0 0 0]"A sala do tesouro[n]já foi limpa..."[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]"A sala do tesouro[n]já foi esvaziada..."[n][f 1 3 65535][w][e]
 
 [msg MSG_BookID_27_Start [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1164 65535 0]Arsène, o famoso ladrão cavalheiro.[n]É difícil não fazer dele um ídolo. Ele é uma[n]figura de autoridade em nosso campo.[n][f 1 3 65535][w][e]
@@ -195,10 +195,10 @@
 [s][vp 1 0 0 0 0 0]"Para comemorar a vitória, os[n]piratas se juntaram às festividades,[n]brindando e bebendo o máximo que podiam."[n][f 1 3 65535][w][e]
 
 [msg MSG_BookID_28_Start [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1168 65535 0]Capitão Kidd the Pirate, hein?[n]Ryuji deveria[n]ler este livro.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1168 65535 0]Capitão Kidd o Pirata, hein?[n]Ryuji deveria[n]ler este livro.[n][f 1 3 65535][w][e]
 
 [msg MND_BookID_29_Start]
-[s][vp 1 0 0 0 0 0]"O mascarado lutou[n]pelos mais fracos e lutou[n]heroicamente contra a injustiça".[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]"O mascarado lutou[n]pelos mais fracos e batalhou[n]heroicamente contra a injustiça".[n][f 1 3 65535][w][e]
 
 [msg MND_BookID_29_Start_02]
 [s][vp 1 0 0 0 0 0]"Embora seu oponente fosse[n]um canalha, ele[n]sempre se comportou como um perfeito cavalheiro..."[n][f 1 3 65535][w][e]
@@ -249,7 +249,7 @@
 [s][vp 1 0 0 0 0 0]"Às vezes ele usava nomes diferentes,[n]escondido nas sombras[n]sua verdadeira identidade..."[n][f 1 3 65535][w][e]
 
 [msg MSG_BookID_34_Start [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1038 65535 0]Os talentos dessa mulher eram[n]incríveis... Embora sua[n]atrevimento me desconcerte um pouco.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1038 65535 0]Os talentos dessa mulher eram[n]incríveis... Embora seu[n]atrevimento me desconcerte um pouco.[n][f 1 3 65535][w][e]
 
 [msg MND_BookID_35_Start]
 [s][vp 1 0 0 0 0 0]"Com olho aguçado e[n]pontaria firme, ele atirou uma flecha[n]que perfurou o inimigo".[n][f 1 3 65535][w][e]
@@ -261,10 +261,10 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1186 65535 0]Este Robin era o líder[n]de um grupo de bandidos...[n]Um pouco como você.[n][f 1 3 65535][w][e]
 
 [msg MND_BookID_36_Start]
-[s][vp 1 0 0 0 0 0]"Bom ou ruim? A[n]ameaça Medjed atinge todos[n]cantos do mundo!"[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]"Boa ou má? A[n]ameaça Medjed atinge todos[n]cantos do mundo!"[n][f 1 3 65535][w][e]
 
 [msg MND_BookID_36_Start_02]
-[s][vp 1 0 0 0 0 0]"Você tem proteção antivírus adequada?[n]Aqui está todo[n]o software mais recente!"[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]"Você tem proteção antivírus adequada?[n]Apresento a você[n]o software mais recente!"[n][f 1 3 65535][w][e]
 
 [msg MSG_BookID_36_Start [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1186 65535 0]Até o mundo da rede parece[n]ameaçado por vários perigos.[n][f 1 3 65535][w][e]
@@ -273,7 +273,7 @@
 [s][vp 1 0 0 0 0 0]"O ABC dos Trailers".[n][f 1 3 65535][w][e]
 
 [msg MND_BookID_37_Start_02]
-[s][vp 1 0 0 0 0 0]"Você deve ter se perguntado: e XYZ?[n]sempre aja com indiferença, mesmo[n]depois de cometer um erro".[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]"Os XYZ das técnicas de coleta.[n]Sempre aja com indiferença, mesmo[n]depois de cometer um erro".[n][f 1 3 65535][w][e]
 
 [msg MSG_BookID_37_Start [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1021 65535 0]A foto do autor... Esse[n]sorriso arrogante me irrita.[n][f 1 3 65535][w][e]
@@ -282,7 +282,7 @@
 [s][vp 1 0 0 0 0 0]"Não é um bug...[n]É uma técnica secreta!"[n][f 1 3 65535][w][e]
 
 [msg MSG_BookID_38_Start [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1168 65535 0]Técnicas secretas, hein?[n]Parece algo para[n]Phantom Thieves... Pelo menos eu acho.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1168 65535 0]Técnicas secretas, hein?[n]Parece algo para[n]os Phantom Thieves... Pelo menos eu acho.[n][f 1 3 65535][w][e]
 
 [msg MND_BookID_44_Start]
 [s][vp 1 0 0 0 0 0]"Qual você prefere: Nakamise Street[n]ou Skytree?"[n][f 1 3 65535][w][e]
@@ -432,10 +432,10 @@
 [s][f 4 10 65535 0 0][vp 1 0 0 0 0 0]...Nós iremos? A que distância você chegou?[n][f 1 3 65535][w][e]
 
 [msg MND_BookRead_Process_Spe]
-[s][vp 1 0 0 0 0 0]Eu era capaz de ler muito rápido. Acho que é por[n]causa daquele livro de leitura dinâmica.[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Eu fui capaz de ler muito rápido. Acho que é por[n]causa daquele livro de leitura dinâmica...[n][f 1 3 65535][w][e]
 
 [msg MSG_BookRead_Process_Nor [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1019 65535 0]Hã? Oh, nós nos perdemos[n]lendo. Então,[n]até onde você chegou?[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1019 65535 0]Hã? Oh, nós nos perdemos[n]enquanto liamos. Então,[n]até onde você chegou?[n][f 1 3 65535][w][e]
 
 [msg MND_BookRead_Process_Nor]
 [s][vp 8 0 0 0 65535 0]Já faz mais tempo[n]do que eu pensava...[n][f 1 3 65535][w][e]

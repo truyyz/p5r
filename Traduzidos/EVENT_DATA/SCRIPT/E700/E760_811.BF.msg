@@ -348,7 +348,7 @@
 [msg MND_ThanksSojiro]
 [s][vp 8 2 0 0 65535 0]Eu deveria contar a Sojiro...[n][f 1 3 65535][w][e]
 
-[msg MSG_DEBUG [Debug]]
+[msg MSG_DEBUG [Depurando]]
 [s]Assistir evento de quem?[n][f 1 3 65535][w][e]
 
 [sel SEL_DEBUG top]
@@ -356,7 +356,7 @@
 [s]Yusuke Kitagawa[e]
 [s]Futaba Sakura[e]
 
-[msg MSG_DEBUG_02 [Debug]]
+[msg MSG_DEBUG_02 [Depurando]]
 [s][vp 8 2 0 0 65535 0]Cenário para cenas de curry e café.[n][f 1 3 65535][w][e]
 
 [sel SEL_DEBUG_02 top]
@@ -364,7 +364,7 @@
 [s]A cena do curry ocorre[e]
 [s]cena do café ocorre[e]
 
-[msg MSG_DEBUG_3 [Debug]]
+[msg MSG_DEBUG_3 [Depurando]]
 [s][vp 8 2 0 0 65535 0]Qual versão? NOTAS: Yusuke é o[n]único com uma 3ª opção.[n][f 1 3 65535][w][e]
 
 [sel SEL_DEBUG_3 top]

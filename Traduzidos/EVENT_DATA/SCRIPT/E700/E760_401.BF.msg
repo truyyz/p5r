@@ -172,14 +172,14 @@
 [msg SYS_063_0_0]
 [s][vp 8 2 0 0 65535 0]Seu [clr 2]max HP[clr 27] aumentou[n]em [clr 2][var 0][clr 27].[n][f 1 3 65535][w][e]
 
-[msg MSG_DEBUG [for debug]]
+[msg MSG_DEBUG [Para depuração]]
 [s]modo de depuração[n][f 1 3 65535][w][e]
 
 [sel SEL_DEBUG top]
 [s]Usar[e]
 [s]Não use[e]
 
-[msg MSG_DEBUG_2 [for debug]]
+[msg MSG_DEBUG_2 [Para depuração]]
 [s]tipos de treinamento[n][f 1 3 65535][w][e]
 
 [sel SEL_DEBUG_2 top]
@@ -188,7 +188,7 @@
 [s]pullups morgana[e]
 [s]pullups pendurados[e]
 
-[msg MSG_DEBUG_3 [for debug]]
+[msg MSG_DEBUG_3 [Para depuração]]
 [s]proteína[n][f 1 3 65535][w][e]
 
 [sel SEL_DEBUG_3 top]
@@ -196,7 +196,7 @@
 [s]Que nojento[e]
 [s]Não use[e]
 
-[msg MSG_DEBUG_4 [for debug]]
+[msg MSG_DEBUG_4 [Para depuração]]
 [s]Morgan[n][f 1 3 65535][w][e]
 
 [sel SEL_DEBUG_4 top]

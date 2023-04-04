@@ -1,7 +1,7 @@
 [msg MSG_000_0_0 [Futaba]]
 [s][vp 8 0 0 0 65535 0][f 5 14]Namastê![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 5 14]***BOMB NEWS***[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0][f 5 14]Procurei meu tio e...[n]encontrei-o em Memento![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 5 14]Procurei meu tio e...[n]encontrei-o em Mementos![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 5 14][f 5 15]Você se importaria[n]de me ajudar?[n][f 1 3 65535][w][e]
 
 [sel SEL_001_0_0 top]
@@ -23,7 +23,7 @@
 
 [msg MSG_002_0_0 [Futaba]]
 [s][vp 8 0 0 0 65535 0][f 5 14]Sério?!?[n]Muito obrigado![n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0][f 5 14]O nome do meu tio é Youji[n]Isshiki. Vamos ao Memento[n]e despertar seu coração.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 5 14]O nome do meu tio é Youji[n]Isshiki. Vamos ao Mementos[n]e despertar seu coração.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 5 14]Mas, uh... eu tenho um favor para te pedir.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 5 14]Eu não quero que ninguém[n]saiba sobre o tempo que eu[n]vivi com ele...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 5 14]Talvez um dia eu conte...[n]mas não agora.[n][f 1 3 65535][w][e]

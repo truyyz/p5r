@@ -100,10 +100,10 @@
 [s][bup 0 2 0 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Espere! Nós não somos os únicos que foram pegos,[n]certo!?![n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Nas celas estão outros[n]meninos da nossa escola...[n][w][e]
 
-[msg D01_01_GIMMICK_EV02_mes0_4 [Voce di soldato]]
+[msg D01_01_GIMMICK_EV02_mes0_4 [Voz de soldado]]
 [s]Há fugitivos![n][w][e]
 
-[msg D01_01_GIMMICK_EV02_mes0_5 [Voce di soldato]]
+[msg D01_01_GIMMICK_EV02_mes0_5 [Voz de soldado]]
 [s]O capitão dos guardas permanecerá como uma[n]proteção do rei Kamoshida.[n][w][e]
 [s]Todos os outros: encontrem os[n]fugitivos. Se eles resistirem,[n]mate-os![n][w][e]
 [s]Aumente a vigilância![n][w][e]

@@ -17,7 +17,7 @@
 [s][f 5 14]Eu sei que você está passando por um[n]momento difícil, mas eu realmente[n]preciso da sua ajuda.[n][f 5 15][w][e]
 
 [msg CHAT_REACTION_01 [Yusuke]]
-[s][f 5 14]Obrigado! Então hoje[n]devemos ir para Memento.[n][w][e]
+[s][f 5 14]Obrigado! Então hoje[n]devemos ir para Mementos.[n][w][e]
 
 [msg CHAT_REACTION_02 [Yusuke]]
 [s][f 5 14]Esse será um ótimo[n]ponto de partida...[n][w][e]

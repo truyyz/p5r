@@ -37,7 +37,7 @@
 [s][bup 0 113 1 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 42 5 100][f 4 24 0 4 0 1 5 0][vp 8 0 0 0 65535 0]Sim, agora me lembro. A única maneira de[n]mudar o destino é[n]ser determinado.[n][f 1 3 65535][w][e]
 
 [msg MSG_025_0_0 [Chihaya]]
-[s][bup 0 113 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 10043 65535 0]Agora que penso nisso, de acordo com minhas[n]previsões, eu deveria ter alcançado[n]a meta graças ao Malandro...[n][f 1 3 65535][w][e]
+[s][bup 0 113 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 10043 65535 0]Agora que penso nisso, de acordo com minhas[n]previsões, eu deveria ter alcançado[n]a meta graças ao Trapaceiro...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas eu não tenho ideia do que isso[n]significa... É um verdadeiro mistério...[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Chihaya]]

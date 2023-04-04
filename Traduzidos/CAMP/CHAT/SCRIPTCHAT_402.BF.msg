@@ -1,5 +1,5 @@
 [msg MSG_000_0_0 [Makoto]]
-[s][f 5 14]Eu identifiquei o aluno[n]do distrito da luz vermelha.[n][w][e]
+[s][f 5 14]Eu identifiquei o aluno[n]do distrito da Luz Vermelha.[n][w][e]
 
 [msg MSG_001_0_0 [Makoto]]
 [s][f 5 14]É um terceiro ano, Eiko Takao.[n][w][e]

@@ -22,7 +22,7 @@
 [msg D02_ex_e211_053_mes02 [Morgana]]
 [s][bup 0 3 4 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Sério?!?[n][w][e]
 
-[msg D02_ex_e211_053_mes03 [Ombra Guardia della security]]
+[msg D02_ex_e211_053_mes03 [Guarda de segurança sombra]]
 [s]Eu ouvi o barulho do guindaste![n]Verifique lá em cima![n][w][e]
 
 [msg D02_ex_e211_053_mes04 [Morgana]]
@@ -58,7 +58,7 @@
 [msg D153_09_c_11_LOCK_mes02 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]O que você está fazendo!?! Devemos[n]nos apressar, ou...[n][w][e]
 
-[msg D153_09_c_11_LOCK_mes03 [Ombra Guardia della security]]
+[msg D153_09_c_11_LOCK_mes03 [Guarda de segurança sombra]]
 [s]Aqui estão eles! Os intrusos estão lá em cima![n]Bloqueie a sala de controle[n]e pegue-os![n][w][e]
 
 [msg D153_09_c_11_LOCK_mes04 [Morgana]]

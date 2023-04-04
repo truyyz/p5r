@@ -36,7 +36,7 @@
 [msg D07_02_e409_033_AF_mes01 [Ryuji]]
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7192 65535 0]E aí, cara? Você[n]mudou de ideia?[n][w][e]
 
-[msg D07_02_e409_033_AF_mes02 [Ombra Ex nobile]]
+[msg D07_02_e409_033_AF_mes02 [Sombra Ex nobre]]
 [s]Umpf...[n][w][e]
 
 [msg D07_02_e409_033_AF_mes03 [Ryuji]]

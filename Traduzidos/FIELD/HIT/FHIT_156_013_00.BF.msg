@@ -95,16 +95,16 @@
 [s]SE VOCÊ NÃO FIZER SEU TRABALHO,[n]EU SEREI O ÚNICO A SER LIBERADO[n]PELO GERENTE DE SEÇÃO![n][w][e]
 [s]ESTOU CANSADO DE SER[n]DEFINIDO [clr 2]INÚTIL[clr 27]![n][w][e]
 
-[msg D05_02_kakari_battle02 [Dipendente umile]]
+[msg D05_02_kakari_battle02 [Empregado humilde]]
 [s]ARGH! SIM, SR. CAP OFFICE![n][w][e]
 
-[msg D05_02_kakari_battle03 [Dipendente svogliato]]
+[msg D05_02_kakari_battle03 [Funcionário preguiçoso]]
 [s]ELE ESTÁ CERTO... O DIRETOR DE[n]SEÇÃO ME LIGOU [clr 2]BOM PARA[n]NADA[clr 27] VÁRIAS VEZES...[n][w][e]
 
-[msg D05_02_kakari_battle04 [Dipendente assonnato]]
+[msg D05_02_kakari_battle04 [Empregado sonolento]]
 [s]CARA, EU QUERO QUE ELE NÃO GRITE[n]CONOSCO PARTICULARMENTE...[n][w][e]
 
-[msg D05_02_kakari_battle05 [Dipendente svogliato]]
+[msg D05_02_kakari_battle05 [Funcionário preguiçoso]]
 [s]O QUE VOCÊ ESPERA DEPOIS QUE ELE[n]ME CHAMOU [clr 2]NOLLIKE[clr 27]...[n][w][e]
 [s]SE EU TRABALHE AINDA MAIS, ISSO ME QUEBRARIA.[n][w][e]
 
@@ -157,7 +157,7 @@
 [msg D05_02_e341_034_end_mes0_3 [Ryuji]]
 [s][bup 0 2 105 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7025 65535 0]Então aquele era... o gerente da[n]seção? Ugh, por que o[n]big boss não está vindo até nós...?[n][w][e]
 
-[msg D05_02_e341_034_end_mes0_4 [Altoparlanti]]
+[msg D05_02_e341_034_end_mes0_4 [Caixas de som]]
 [s]TRABALHADORES NÃO PRECISAM COMER![n]TRABALHADORES NÃO PRECISAM COMER![n][w][e]
 [s]QUERIDO, É HORA DA MUDANÇA DE[n]SHIFT! CONTINUE TRABALHANDO,[n]MESMO AO CUSTO DE SE DESTRUIR![n][w][e]
 

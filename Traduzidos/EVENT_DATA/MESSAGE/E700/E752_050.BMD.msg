@@ -49,7 +49,7 @@
 [s][bup 0 108 501 6 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Essa piada é minha.[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Takemi]]
-[s][bup 0 108 502 6 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Suicídio na prisão? E o Ano Novo[n]no reformatório? Você não sairá impune com[n]um relatório ex post facto.[n][f 1 3 65535][w][e]
+[s][bup 0 108 502 6 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Suicídio na prisão? E o Ano Novo[n]no reformatório? Você não sairá impune com[n]um relatório.[n][f 1 3 65535][w][e]
 
 [sel SEL_016_0_0 top]
 [s]Desculpe.[e]

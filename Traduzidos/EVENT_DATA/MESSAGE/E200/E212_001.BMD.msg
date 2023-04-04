@@ -1,4 +1,4 @@
-[msg MSG_001_0_0 [Personale della mostra]]
+[msg MSG_001_0_0 [Pessoal da exposição]]
 [s][vp 8 0 0 1 10 0]Peço desculpas, senhor. Há um[n]problema sobre o qual devemos falar com você.[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Madarame]]
@@ -7,16 +7,16 @@
 [msg MSG_003_0_0 [Madarame]]
 [s][bup 0 203 0 0 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Do que se trata?[n][f 1 3 65535][w][e]
 
-[msg MSG_004_0_0 [Personale della mostra]]
+[msg MSG_004_0_0 [Pessoal da exposição]]
 [s][vp 8 0 0 4 10 0]Encontramos isso lá fora.[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Madarame]]
 [s][bup 0 203 0 0 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Uma carta?[n][f 1 3 65535][w][e]
 
-[msg MSG_006_0_0 [Personale della mostra]]
+[msg MSG_006_0_0 [Pessoal da exposição]]
 [s][vp 8 0 0 6 10 0]É...um...[n][f 1 3 65535][w][e]
 
-[msg MSG_007_0_0 [Personale della mostra]]
+[msg MSG_007_0_0 [Pessoal da exposição]]
 [s][vp 8 0 0 40 10 0]"Sr. Ichiryusai Madarame,[n]vil pecador da vaidade cujo[n]talento há muito desapareceu."[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 41 10 0]"Você é um artista que abusa de sua[n]autoridade para roubar impunemente[n]as idéias de seus alunos".[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 42 10 0]"É nossa intenção específica induzi-lo a[n]confessar seus crimes."[n][f 1 3 65535][w][e]
@@ -26,40 +26,40 @@
 [msg MSG_008_0_0 [Madarame]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 203 3 301 1][vp 8 0 0 13 65535 0]Quem é o responsável!?![n][f 1 3 65535][w][e]
 
-[msg MSG_009_0_0 [Personale della mostra]]
+[msg MSG_009_0_0 [Pessoal da exposição]]
 [s][vp 8 0 0 14 10 0]Nós não sabemos! A mesma[n]carta foi postada em...[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Madarame]]
 [s][bup 0 203 2 0 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]E as câmeras de segurança!?![n][f 1 3 65535][w][e]
 
-[msg MSG_011_0_0 [Personale della mostra]]
+[msg MSG_011_0_0 [Pessoal da exposição]]
 [s][vp 8 0 0 16 10 0]Não havia sinal do culpado...[n]Só vimos um gato[n]nas gravações...[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Madarame]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 203 3 301 1][vp 8 0 0 17 65535 0]Faça-os desaparecer instantaneamente![n][f 1 3 65535][w][e]
 
-[msg MSG_013_0_0 [Personale della mostra]]
+[msg MSG_013_0_0 [Pessoal da exposição]]
 [s][vp 8 0 0 18 10 0]Claro![n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [(SE)斑目 Ü流斎]]
 [s][vp 8 0 0 19 65535 0]フン...[n][f 1 3 65535][w][e]
 
-[msg MSG_015_0_0 [Personale della mostra]]
+[msg MSG_015_0_0 [Pessoal da exposição]]
 [s][vp 8 0 0 20 10 0]Hum...[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Madarame]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 203 12 301 1][vp 8 0 0 21 65535 0]...O que é agora!?![n][f 1 3 65535][w][e]
 
-[msg MSG_017_0_0 [Personale della mostra]]
+[msg MSG_017_0_0 [Pessoal da exposição]]
 [s][vp 8 0 0 22 10 0]Eu estava pensando no efeito que teria[n]na exposição... Acreditamos que[n]é uma piada, mas a mídia de massa?[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Madarame]]
 [s][bup 0 203 2 0 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Você está insinuando que[n]essa calúnia é verdadeira?[n][f 1 3 65535][w][e]
 
-[msg MSG_019_0_0 [Personale della mostra]]
+[msg MSG_019_0_0 [Pessoal da exposição]]
 [s][vp 8 0 0 24 10 0]Claro que não![n][f 1 3 65535][w][e]
 
-[msg MSG_022_0_0 [Ombra di Madarame]]
+[msg MSG_022_0_0 [Sombra de Madarame]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 209 3 301 1][vp 8 0 0 25 5 0]Foram aqueles pirralhos vis,[n]não foi?[n][f 1 3 65535][w][e]
 [s][bup 0 203 102 0 0][f 4 10 65535 0 0][vp 8 0 0 26 5 0]Bom, tanto faz...[n]O tempo livre só vai durar[n]até o final da exposição...[n][f 1 3 65535][w][e]
 

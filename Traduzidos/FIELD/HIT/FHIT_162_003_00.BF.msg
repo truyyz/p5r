@@ -32,7 +32,7 @@
 [s]Volte para seu lugar. Você deve estar na sala de[n]observação.[n][w][e]
 [s]Siga o plano. Não[n]aja por conta própria.[n][w][e]
 
-[msg D10_03_look_at_researche_7 [Guardia]]
+[msg D10_03_look_at_researche_7 [Guarda]]
 [s]Estou apenas tentando eliminar[n]potenciais ameaças ao mestre.[n][w][e]
 [s]Mas acho melhor evitar[n]levar o cartão comigo,[n]aqui. OK. Estou de volta à posição.[n][w][e]
 
@@ -43,13 +43,13 @@
 [msg D10_03_look_at_researche_9 [[f 4 31 10 0]]]
 [s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 57144 65535 0]O que você está dizendo, Joker-senpai?[n][w][e]
 
-[msg D10_03_researcher_battle [Guardia]]
+[msg D10_03_researcher_battle [Guarda]]
 [s]Coisa? Os Ladrões Fantasmas![n]Eles devem ter me seguido![n][w][e]
 
 [msg D10_03_researcher_battle_2 [Agente]]
 [s]Xingamento! Eu avisei![n]Agora temos que eliminá-los![n]Pelo mestreeeee![n][w][e]
 
-[msg D10_03_researcher_battle_3 [Guardia]]
+[msg D10_03_researcher_battle_3 [Guarda]]
 [s]Você quer meu cartão, hein? Bem,[n]você terá que merecê-lo![n][w][e]
 
 [msg D10_03_researcher_battle_4]
@@ -89,7 +89,7 @@
 [msg D10_10_CardCheck_Party01_4 [Futaba]]
 [s][bup 0 8 4 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9114 65535 0]Oh! Olhar![n][w][e]
 
-[msg D10_10_CardCheck_Party02 [Guardia]]
+[msg D10_10_CardCheck_Party02 [Guarda]]
 [s]Sim, a emboscada falhou. Agora[n]eles estão examinando o[n]dispositivo de autenticação.[n][w][e]
 [s]Sem um cartão, eles não irão a lugar nenhum.[n][w][e]
 [s]Este é o fim para eles.[n][w][e]

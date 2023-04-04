@@ -10,7 +10,7 @@
 [msg e259_503_mes03 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Portanto, isso também deve ser convertido[n]em números. Espero que seja viável[n]com as pistas que temos...[n][w][e]
 
-[msg e259_503_mes04 [Voce meccanica]]
+[msg e259_503_mes04 [Voz mecânica]]
 [s]O bloqueio está ativo.[n]Digite seu PIN.[n][w][e]
 
 [msg e259_503_mes05 [Ryuji]]

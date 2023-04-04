@@ -36,7 +36,7 @@
 
 [msg MSG_quest29_MORGANA_SAY [Morgana]]
 [s][bup 0 3 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 1021 65535 0]Às vezes, Mishima nos dá informações[n]realmente incríveis ...[n][f 1 3 65535][w][e]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Nossa reputação sofreu um duro golpe com[n]a morte de Okumura, mas podemos[n]compensar isso em Memento.[n][f 1 3 65535][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Nossa reputação sofreu um duro golpe com[n]a morte de Okumura, mas podemos[n]compensar isso em Mementos.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Devemos discuti-lo com outras pessoas,[n]quando tivermos algum tempo.[n][f 1 3 65535][w][e]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Ah, e antes de irmos, devemos[n]encontrar Haru![n][f 1 3 65535][w][e]
 

@@ -5,19 +5,19 @@
 [s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Cara, as coisas ficaram[n]tensas...[n][f 1 3 65535][w][e]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 59 5 100]Bem, acho que podemos dizer com segurança que[n]já vimos como é Shinjuku.[n]É melhor irmos para casa...[n][f 1 3 65535][w][e]
 
-[msg MSG_002_0_0 [Voce profonda]]
+[msg MSG_002_0_0 [Voz grave]]
 [s][vp 8 0 0 0 65535 0]O. Meu. Deus. Não é o[n]menino de ouro?[n][f 1 3 65535][w][e]
 
-[msg MSG_003_0_0 [Voce virile]]
+[msg MSG_003_0_0 [Voz viril]]
 [s][vp 8 0 0 0 65535 0]E ELE! Como um raio de sol[n]loiro em nossas vidas![n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Ryuji]]
 [s][bup 0 2 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 7176 65535 0]Huh? Eu conheço essas vozes...[n][f 1 3 65535][w][e]
 
-[msg MSG_005_0_0 [Angel]]
+[msg MSG_005_0_0 [Anjo]]
 [s][vp 8 0 0 0 65535 0]Eu sabia! A terceira vez[n]é a boa![n][f 1 3 65535][w][e]
 
-[msg MSG_006_0_0 [Julian]]
+[msg MSG_006_0_0 [Juliano]]
 [s][vp 8 0 0 0 65535 0]E que CHARME![n]Olha essa estrela, como ele[n]anda na rua![n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Ryuji]]
@@ -26,28 +26,28 @@
 [msg MSG_007_5_0 [Ryuji]]
 [s][bup 0 2 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]G-pessoas? Talvez devêssemos[n]ir embora![n][f 1 3 65535][w][e]
 
-[msg MSG_008_0_0 [Julian]]
+[msg MSG_008_0_0 [Juliano]]
 [s][vp 8 0 0 0 65535 0]Bom, mas olha![n][f 1 3 65535][w][e]
 
-[msg MSG_009_0_0 [Angel]]
+[msg MSG_009_0_0 [Anjo]]
 [s][vp 8 0 0 0 65535 0]Não é apenas a nossa[n]estrelinha... temos[n]uma constelação inteira aqui![n][f 1 3 65535][w][e]
 
-[msg MSG_010_0_0 [Julian]]
+[msg MSG_010_0_0 [Juliano]]
 [s][vp 8 0 0 0 65535 0]Olhe para eles! Oh, eles são quase[n]bons demais para esta cidade![n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Yusuke]]
 [s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Céu. Gentil da sua parte...[n][f 1 3 65535][w][e]
 
-[msg MSG_012_0_0 [Julian]]
+[msg MSG_012_0_0 [Juliano]]
 [s][vp 8 0 0 0 65535 0]Especialmente VOCÊ, querida![n]Oh, um belo vestido de cetim azul[n]traria aqueles olhos grandes![n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Yusuke]]
 [s][bup 0 5 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 4173 65535 0]M-mas eu gosto dos meus olhos[n]onde eles estão...[n][f 1 3 65535][w][e]
 
-[msg MSG_014_0_0 [Julian]]
+[msg MSG_014_0_0 [Juliano]]
 [s][vp 8 0 0 0 65535 0]Como resistir a esses[n]cílios divinos? Fique comigo,[n]bebê, e esta cidade será sua![n][f 1 3 65535][w][e]
 
-[msg MSG_015_0_0 [Angel]]
+[msg MSG_015_0_0 [Anjo]]
 [s][vp 8 0 0 0 65535 0]Aposto que TODOS vocês têm o[n]poder de roubar corações![n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Ryuji]]
@@ -73,7 +73,7 @@
 [msg MSG_021_1_0 [Ryuji]]
 [s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não preciso de sorte,[n]preciso de AJUDA![n][f 1 3 65535][w][e]
 
-[msg MSG_023_3_0 [Angel]]
+[msg MSG_023_3_0 [Anjo]]
 [s][vp 8 0 0 0 65535 0]Bem, tenha certeza de que estamos aqui para[n]ajudar TODOS a torná-lo grande neste bairro![n]Vamos indo![n][f 1 3 65535][w][e]
 
 [msg MSG_023_5_0 [Ryuji]]
@@ -82,7 +82,7 @@
 [msg MSG_023_7_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]S-Sim![n][f 1 3 65535][w][e]
 
-[msg MSG_023_9_0 [Julian]]
+[msg MSG_023_9_0 [Juliano]]
 [s][vp 8 0 0 0 65535 0]Hehehe! Espere, crianças,[n]pense em seus adorados fãs![n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Haru]]

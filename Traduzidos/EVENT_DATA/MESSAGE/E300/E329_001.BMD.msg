@@ -17,7 +17,7 @@
 [msg MSG_005_0_0 [Ryuji]]
 [s][bup 0 2 104 65535 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Q-quem é esse...?[n][f 1 3 65535][w][e]
 
-[msg MSG_006_0_0 [Misteriosa ragazza mascherata]]
+[msg MSG_006_0_0 [Garota mascarada misteriosa]]
 [s][bup 0 7 102 65535 0][vp 1 0 0 8 0 0]......[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Makoto]]
@@ -30,7 +30,7 @@
 [msg MSG_009_0_0 [Ryuji]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 3 300 1][vp 8 0 0 12 65535 0]Ela está por trás da morte cerebral[n]de todas aquelas pessoas?[n]Uma garota?[n][f 1 3 65535][w][e]
 
-[msg MSG_010_0_0 [Misteriosa ragazza mascherata]]
+[msg MSG_010_0_0 [Garota mascarada misteriosa]]
 [s][bup 0 7 103 65535 0][vp 1 0 0 13 0 0]......[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Yusuke]]
@@ -75,7 +75,7 @@
 [msg MSG_024_0_0 [Morgana]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 3 3 301 1][vp 8 0 0 27 65535 0]Ela também é uma invocadora,[n]saiba disso![n][f 1 3 65535][w][e]
 
-[msg MSG_025_0_0 [Splendida Ladra]]
+[msg MSG_025_0_0 [Lindo ladrão]]
 [s][bup 0 7 102 65535 0][f 4 10 65535 0 0][vp 8 0 0 28 9 0]Eu sou o Ladrão Lindo![n][f 1 3 65535][w][e]
 
 [msg MSG_026_0_0 [Ann]]
@@ -84,20 +84,20 @@
 [msg MSG_027_0_0 [Yusuke]]
 [s][bup 0 5 103 65535 0][f 4 10 65535 0 0][vp 8 0 0 30 65535 0]Toda a tensão de repente[n]desapareceu no ar...[n][f 1 3 65535][w][e]
 
-[msg MSG_028_0_0 [Splendida Ladra]]
+[msg MSG_028_0_0 [Lindo ladrão]]
 [s][bup 0 7 102 65535 0][f 4 10 65535 0 0][vp 8 0 0 31 9 0]Vamos pegar o tesouro![n][f 1 3 65535][w][e]
 
 [msg MSG_029_0_0 [Futaba]]
 [s][bup 0 8 100 65535 0][f 4 10 65535 0 0][vp 8 0 0 32 65535 0]Mona já disse isso...[n][f 1 3 65535][w][e]
 
-[msg MSG_030_0_0 [Splendida Ladra]]
+[msg MSG_030_0_0 [Lindo ladrão]]
 [s][bup 0 7 102 65535 0][f 4 10 65535 0 0][vp 8 0 0 33 9 0]Você não tem o direito de ser[n]Phantom Thieves![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 34 9 0]Você ao menos tem ideia do que significa ser um[n]Ladrão Fantasma? Um nobre Ladrão Fantasma é...[n][f 1 3 65535][w][e]
 
 [msg MSG_031_0_0 [Morgana]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 3 10 300 1][vp 8 0 0 35 65535 0]Sim, diga a ele![n][f 1 3 65535][w][e]
 
-[msg MSG_032_0_0 [Splendida Ladra]]
+[msg MSG_032_0_0 [Lindo ladrão]]
 [s][bup 0 7 102 65535 0][f 4 10 65535 0 0][vp 8 0 0 36 9 0]Vocês! Quem você pensa que é?[n][f 1 3 65535][w][e]
 
 [sel SEL_033_0_0 top]
@@ -105,16 +105,16 @@
 [s]Aqueles que procuram emoções fortes.[e]
 [s]Eu não penso nessas coisas.[e]
 
-[msg MSG_034_0_0 [Splendida Ladra]]
+[msg MSG_034_0_0 [Lindo ladrão]]
 [s][bup 0 7 102 65535 0][f 4 10 65535 0 0][vp 8 0 0 37 9 0]Sim, é...[n][f 1 3 65535][w][e]
 
-[msg MSG_035_0_0 [Splendida Ladra]]
+[msg MSG_035_0_0 [Lindo ladrão]]
 [s][bup 0 7 104 65535 0][f 4 10 65535 0 0][vp 8 0 0 38 9 0]Eu entendo![n][f 1 3 65535][w][e]
 
-[msg MSG_036_0_0 [Splendida Ladra]]
+[msg MSG_036_0_0 [Lindo ladrão]]
 [s][bup 0 7 102 65535 0][f 4 10 65535 0 0][vp 8 0 0 39 9 0]Resposta errada![n][f 1 3 65535][w][e]
 
-[msg MSG_037_0_0 [Splendida Ladra]]
+[msg MSG_037_0_0 [Lindo ladrão]]
 [s][bup 0 7 102 65535 0][f 4 10 65535 0 0][vp 8 0 0 40 9 0]Chega de conversa inútil![n][f 1 3 65535][w][e]
 
 [msg MSG_038_0_0 [Ann]]
@@ -126,28 +126,28 @@
 [msg MSG_040_0_0 [Morgana]]
 [s][bup 0 3 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 43 65535 0]Espere! Vou consertar...[n][f 1 3 65535][w][e]
 
-[msg MSG_041_0_0 [Splendida Ladra]]
+[msg MSG_041_0_0 [Lindo ladrão]]
 [s][bup 0 7 102 65535 0][f 4 10 65535 0 0][vp 8 0 0 44 9 0]Você![n][f 1 3 65535][w][e]
 
 [msg MSG_042_0_0 [Yusuke]]
 [s][bup 0 5 104 65535 0][f 4 10 65535 0 0][vp 8 0 0 45 65535 0]Eu?[n][f 1 3 65535][w][e]
 
-[msg MSG_043_0_0 [Splendida Ladra]]
+[msg MSG_043_0_0 [Lindo ladrão]]
 [s][bup 0 7 102 65535 0][f 4 10 65535 0 0][vp 8 0 0 46 9 0]Seja mais esperto![n][f 1 3 65535][w][e]
 
 [msg MSG_044_0_0 [Yusuke]]
 [s][bup 0 5 104 65535 0][f 4 10 65535 0 0][vp 8 0 0 47 65535 0]Hã?[n][f 1 3 65535][w][e]
 
-[msg MSG_045_0_0 [Splendida Ladra]]
+[msg MSG_045_0_0 [Lindo ladrão]]
 [s][bup 0 7 102 65535 0][f 4 10 65535 0 0][vp 8 0 0 48 9 0]E você! Você é vulgar...[n]e muito estúpido![n][f 1 3 65535][w][e]
 
 [msg MSG_046_0_0 [Ryuji]]
 [s][bup 0 2 104 65535 0][f 4 10 65535 0 0][vp 8 0 0 49 65535 0]Mas o que...?[n][f 1 3 65535][w][e]
 
-[msg MSG_047_0_0 [Splendida Ladra]]
+[msg MSG_047_0_0 [Lindo ladrão]]
 [s][bup 0 7 103 65535 0][f 4 10 65535 0 0][vp 8 0 0 50 9 0]Hum...[n][f 1 3 65535][w][e]
 
-[msg MSG_048_0_0 [Splendida Ladra]]
+[msg MSG_048_0_0 [Lindo ladrão]]
 [s][bup 0 7 105 65535 0][f 4 10 65535 0 0][vp 8 0 0 51 9 0]Como foi...?[n][f 1 3 65535][w][e]
 
 [msg MSG_049_0_0 [Makoto]]
@@ -156,7 +156,7 @@
 [msg MSG_050_0_0 [Ryuji]]
 [s][bup 0 2 103 65535 0][f 4 10 65535 0 0][vp 8 0 0 53 65535 0]Não sei, não parece[n]perigoso de jeito nenhum...[n][f 1 3 65535][w][e]
 
-[msg MSG_051_0_0 [Splendida Ladra]]
+[msg MSG_051_0_0 [Lindo ladrão]]
 [s][bup 0 7 102 65535 0][f 4 10 65535 0 0][vp 8 0 0 54 9 0]Vamos pegar o tesouro![n][f 1 3 65535][w][e]
 
 [msg MSG_052_0_0 [Futaba]]
@@ -177,7 +177,7 @@
 [msg MSG_057_0_0 [Yusuke]]
 [s][bup 0 5 102 65535 0][f 4 10 65535 0 0][vp 8 0 0 60 65535 0]Lá vêm eles![n][f 1 3 65535][w][e]
 
-[msg MSG_058_0_0 [Splendida Ladra]]
+[msg MSG_058_0_0 [Lindo ladrão]]
 [s][bup 0 7 104 65535 0][f 4 10 65535 0 0][vp 8 0 0 61 9 0]Huh? O quê?[n][f 1 3 65535][w][e]
 
 [msg MSG_059_0_0 [Morgana]]

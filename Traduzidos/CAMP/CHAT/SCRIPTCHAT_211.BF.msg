@@ -30,6 +30,6 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 1 0 0 41 0 0]Um jogador trapaceiro... claro que[n]possível estar nos Mementos.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 1 0 0 42 0 0]Mishima disse que frequenta o fliperama[n]na Central Street, é verdade? Vamos dar[n]uma olhada.[n][f 1 3 65535][w][e]
 
-[msg HELP_MEMENTOS_MISSION_27 [Missione compiuta!]]
+[msg HELP_MEMENTOS_MISSION_27 [Missão cumprida!]]
 [s][clr 4]Informações de lembrança recebidas[n][clr 27] Agora você pode enviar uma Carta[n]de Desafio do [clr 2]Haunt[clr 27]. Às[n]vezes, você obterá informações de seus[n][clr 3]colegas[clr 27] dessa maneira.[n][w][e]
 

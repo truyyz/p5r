@@ -26,11 +26,11 @@
 [s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Haha, uma ideia digna da irmã de[n]Sae-san. Estou bem com[n]qualquer plano que você escolher.[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]A decisão é sua, Joker.[n][w][e]
 
-[msg BattleNumber_SETUMEI_01 [Reception]]
+[msg BattleNumber_SETUMEI_01 [Recepção]]
 [s]Boa noite.[n][w][e]
 [s]Neste jogo[n][clr 2]você deve escolher uma das duas portas[clr 27][n]que estão à sua frente.[n][w][e]
 
-[msg BattleNumber_SETUMEI_02 [Reception]]
+[msg BattleNumber_SETUMEI_02 [Recepção]]
 [s]Haverá[n]um [clr 2]baú[clr 27]no caminho escolhido. Pegue a[n][clr 2]carta de baralho[clr 27] dentro.[n][w][e]
 [s]Depois de passar pela sala,[n]você terá que travar uma [clr 2]batalha[clr 27][n]usando essa carta.[n][w][e]
 [s]As regras são simples: todos[n]mostram suas cartas. Quem tiver[n]aquele com o [clr 2]maior número[clr 27] vence.[n][w][e]

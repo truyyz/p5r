@@ -32,6 +32,6 @@
 [msg D06_06_MOB_MES_mes09 [Cliente]]
 [s]Para jogar nessa grande[n]caça-níqueis, você precisa de[n]5.000 moedas...[n][w][e]
 
-[msg D157_NPC_TALK_mes03 [Guardia della security]]
+[msg D157_NPC_TALK_mes03 [Segurança]]
 [s]Sem moedas? Invente[n]algo. Lembre-se do que o diretor[n]disse.[n][w][e]
 

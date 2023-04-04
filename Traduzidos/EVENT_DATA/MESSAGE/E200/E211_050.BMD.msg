@@ -16,7 +16,7 @@
 [msg MSG_005_0_0 [Ryuji]]
 [s][bup 0 2 102 65535 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Ehiii, tem alguns muffins feios por aqui! Heyyy,[n]preciso de ajuda![n][f 1 3 65535][w][e]
 
-[msg MSG_006_0_0 [Ombra Agente della security]]
+[msg MSG_006_0_0 [Agente de segurança de sombra]]
 [s][vp 8 0 0 7 65535 0]Hum!?! O que está acontecendo!?![n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Ann]]

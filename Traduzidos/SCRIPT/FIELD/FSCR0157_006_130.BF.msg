@@ -1,14 +1,14 @@
-[msg test_COUNTER_mes01 [Coniglietta Ombra]]
+[msg test_COUNTER_mes01 [Coelho das sombras]]
 [s]Você gostaria de trocar 50.000 moedas por[n]uma peça de apostas altas?[n][w][e]
 
 [sel test_COUNTER_selA top]
 [s]Sim, obrigado.[e]
 [s]Não, obrigado.[e]
 
-[msg test_COUNTER_selA_0_mes0 [Coniglietta Ombra]]
+[msg test_COUNTER_selA_0_mes0 [Coelho das sombras]]
 [s]Em seguida, procedemos[n]com a troca.[n][w][e]
 
-[msg test_COUNTER_selA_0_mes0_2 [Coniglietta Ombra]]
+[msg test_COUNTER_selA_0_mes0_2 [Coelho das sombras]]
 [s]Ele não tem moedas suficientes.[n][w][e]
 
 [msg test_COUNTER_selA_1_mes0 [Morgana]]

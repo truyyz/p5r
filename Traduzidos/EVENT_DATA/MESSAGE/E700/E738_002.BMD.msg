@@ -17,7 +17,7 @@
 [msg MSG_005_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Hoje é o primeiro dia de exames.[n]Faça o seu melhor![n][f 1 3 65535][w][e]
 
-[msg MSG_006_0_0 [Matematica]]
+[msg MSG_006_0_0 [Matemática]]
 [s][vp 8 0 0 0 65535 0]Qual das opções a seguir é chamada de curva do[n]diabo?[n][f 1 3 65535][w][e]
 
 [sel SEL_007_0_0 top]
@@ -26,6 +26,6 @@
 [s]c.[e]
 [s]D.[f 2 7 0 0 25 1][e]
 
-[msg MSG_008_0_0 [Prof. Kawakami]]
+[msg MSG_008_0_0 [Prof Kawakami]]
 [s][vp 8 2 0 15132 65535 0]Tempo esgotado. OK, é só escrever.[n][f 1 3 65535][w][e]
 

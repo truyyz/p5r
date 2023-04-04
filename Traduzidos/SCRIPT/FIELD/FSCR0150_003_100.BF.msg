@@ -1,7 +1,7 @@
 [msg D00_01_e100_301_mes01 [Voz de menina]]
 [s][bup 0 8 150 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 1 0 0]Você deve conseguir sair por ali![n]Rápido![n][w][e]
 
-[msg D00_01_e100_301_mes02 [voz de jovem]]
+[msg D00_01_e100_301_mes02 [Voz de jovem]]
 [s][bup 0 2 150 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 2 0 0]Cara, ele pode nos ouvir?!?[n][w][e]
 
 [msg D00_01_e100_301_mes03 [Voz de menina]]

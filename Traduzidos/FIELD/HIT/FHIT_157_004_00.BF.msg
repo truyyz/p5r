@@ -17,7 +17,7 @@
 [msg D157_004_miniEV_02_selA__2 [Akechi]]
 [s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]OK, vamos começar quando[n]você se sentir pronto.[n][w][e]
 
-[msg e380_255_mes01 [Voce meccanica]]
+[msg e380_255_mes01 [Voz mecânica]]
 [s]Operação sendo adiada.[n]Aguarde.[n][w][e]
 
 [msg EV_MOVE_57_04_MENU]

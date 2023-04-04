@@ -4,17 +4,17 @@
 [msg MND_001_0_0]
 [s][vp 8 0 0 0 65535 0]Dar a resposta certa[n]me faz sentir mais brilhante...[n][f 1 3 65535][w][e]
 
-[msg MSG_002_0_0 [Prof. Ushimaru]]
+[msg MSG_002_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37050 65535 0]eu sou o prof. de Ciências Sociais,[n]Sr. Ushimaru. Este ano, eu[n]ensino as regras da sociedade.[n][f 1 3 65535][w][e]
 
-[msg MSG_003_0_0 [Prof. Ushimaru]]
+[msg MSG_003_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Umpf... Vocês parecem um bando de crianças[n]mimadas.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Antes de ensinar a você as regras da[n]sociedade, talvez eu deva começar por[n]essas para ser um humano decente.[n][f 1 3 65535][w][e]
 
-[msg MSG_004_0_0 [Prof. Ushimaru]]
+[msg MSG_004_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ei garoto novo.[n][f 1 3 65535][w][e]
 
-[msg MSG_005_0_0 [Prof. Ushimaru]]
+[msg MSG_005_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O filósofo grego Platão[n]tripartite a alma humana.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 37057 65535 0][f 4 10 65535 0 0]Uma alma consiste em apetite,[n]espírito e o que mais?[n][f 1 3 65535][w][e]
 
@@ -23,19 +23,19 @@
 [s]Lógica.[f 2 7 0 0 25 1][e]
 [s]Amor.[e]
 
-[msg MSG_007_0_0 [Prof. Ushimaru]]
+[msg MSG_007_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37058 65535 0]Correto.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Então você sabia, né?[n][f 1 3 65535][w][e]
 
-[msg MSG_008_0_0 [Prof. Ushimaru]]
+[msg MSG_008_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37064 65535 0]Umpf... Eu esperava isso.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]A resposta correta é lógica.[n]Certifique-se de lembrá-la.[n][f 1 3 65535][w][e]
 
-[msg MSG_009_0_0 [Prof. Ushimaru]]
+[msg MSG_009_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O professor de Platão Sócrates[n]disse que o diabo é fruto[n]da ignorância.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Aqueles que foram mimados e acreditam que[n]o mal surge do indivíduo[n]só podem se tornar escória social.[n][f 1 3 65535][w][e]
 
-[msg MSG_010_0_0 [Prof. Ushimaru]]
+[msg MSG_010_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Talvez você tenha lidado com[n]escória assim. Bem, os recentes[n]acidentes são culpa deles.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Não precisamos dessa escória[n]nesta escola, ok?[n][f 1 3 65535][w][e]
 
@@ -82,19 +82,19 @@
 [msg MSG_021_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1139 65535 0]Que bobagem.[n]Kamoshida é o verdadeiro déspota.[n][f 1 3 65535][w][e]
 
-[msg MSG_022_0_0 [Prof. Kawakami]]
+[msg MSG_022_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Tudo bem, fique quieto. Os exames[n]começam na próxima quarta-feira.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Uma carta de aviso? Os[n]Phantom Thieves que roubam corações? Você[n]só gosta de fofoca.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Também tivemos coisas semelhantes quando eu era[n]jovem. Hanako-san, também conhecido como[n]Manto...Mestre Joker...[n][f 1 3 65535][w][e]
 
-[msg MSG_023_0_0 [Prof. Kawakami]]
+[msg MSG_023_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ah, e os tabuleiros ouija! Eles[n]os vendiam como brinquedos[n]para crianças. Você se lembra deles?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]É aquela coisa em que você coloca o[n]dedo em um quadro com[n]letras e faz uma pergunta.[n][f 1 3 65535][w][e]
 
-[msg MSG_024_0_0 [Prof. Kawakami]]
+[msg MSG_024_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ouça, [f 4 1]-kun.[n]Vamos ver se você está preparado.[n][f 1 3 65535][w][e]
 
-[msg MSG_025_0_0 [Prof. Kawakami]]
+[msg MSG_025_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]De acordo com rumores, o que[n]poderia ser contatado com[n]essas tábuas ouija?[n][f 1 3 65535][w][e]
 
 [sel SEL_026_0_0 top]
@@ -102,17 +102,17 @@
 [s]Sombras.[e]
 [s]Morto.[f 2 7 0 0 25 1][e]
 
-[msg MSG_027_0_0 [Prof. Kawakami]]
+[msg MSG_027_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Exatamente![n][f 1 3 65535][w][e]
 
-[msg MSG_028_0_0 [Prof. Kawakami]]
+[msg MSG_028_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não. É usado para se comunicar[n]com os espíritos dos mortos.[n][f 1 3 65535][w][e]
 
-[msg MSG_029_0_0 [Prof. Kawakami]]
+[msg MSG_029_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Veja bem, além das[n]marcas registradas, eles também eram[n]chamados de spirit boards.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Hoje eles são considerados[n]coisas pequenas, mas no passado eram[n]usados para necromancia.[n][f 1 3 65535][w][e]
 
-[msg MSG_030_0_0 [Prof. Kawakami]]
+[msg MSG_030_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Também contará como adivinhação, mas[n]não espere obter respostas de[n]fantasmas em um pedaço de madeira.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Eles não sabem as respostas de[n]suas provas, garanto.[n][f 1 3 65535][w][e]
 
@@ -200,17 +200,17 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1133 65535 0]Sinestesia, hein...[n]Fascinante.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Embora, a razão pela qual[n]Madarame veja o mundo dessa[n]maneira são seus desejos distorcidos.[n][f 1 3 65535][w][e]
 
-[msg MSG_052_0_0 [Prof. Kawakami]]
+[msg MSG_052_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15115 65535 0]*bocejo* Uh... Abra seus livros.[n][f 1 3 65535][w][e]
 
-[msg MSG_053_0_0 [Prof. Kawakami]]
+[msg MSG_053_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ontem, estávamos conversando sobre[n]"Hell Scene"[n]de Ryunosuke Autagawa.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Mas antes de resumir[n]a história até agora...[n][f 1 3 65535][w][e]
 
-[msg MSG_054_0_0 [Prof. Kawakami]]
+[msg MSG_054_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 1]-kun. Seu cabelo[n]semelhante ao de Akutagawa,[n]então quero fazer uma pergunta.[n][f 1 3 65535][w][e]
 
-[msg MSG_055_0_0 [Prof. Kawakami]]
+[msg MSG_055_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15117 65535 0]Qual foi o nome do aniversário de morte de[n]Ryuunosuke Akutagawa?[n][f 1 3 65535][w][e]
 
 [sel SEL_056_0_0 top]
@@ -219,18 +219,18 @@
 [s]Dia Kappa.[f 2 7 0 0 25 1][e]
 [s]Dia da Lembrança.[e]
 
-[msg MSG_057_0_0 [Prof. Kawakami]]
+[msg MSG_057_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15120 65535 0]Isso mesmo.[n]Então você não usa seu[n]penteado apenas por esporte.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Você provavelmente já sabe disso,[n]mas o nome vem de seu[n]trabalho mais famoso, "Kappa".[n][f 1 3 65535][w][e]
 
-[msg MSG_058_0_0 [Prof. Kawakami]]
+[msg MSG_058_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15126 65535 0]Não, que pena.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]A resposta é Kappa Day, de[n]sua obra mais famosa, "Kappa".[n][f 1 3 65535][w][e]
 
-[msg MSG_059_0_0 [Prof. Kawakami]]
+[msg MSG_059_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]É tão famoso quanto o Dia de Sakuranbo,[n]o dia da morte de Osamu[n]Dazai.[n][f 1 3 65535][w][e]
 
-[msg MSG_060_0_0 [Prof. Kawakami]]
+[msg MSG_060_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Agora, vamos voltar para[n]"A Cena do Inferno".[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Como o nosso se comporta quando[n]ele tem que escolher entre[n]a perfeição artística e a vida de sua filha?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]*bocejo* Desculpe. Desculpe...[n]Não tenho dormido muito ultimamente, haha.[n][f 1 3 65535][w][e]
@@ -276,18 +276,18 @@
 [msg MSG_071_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1044 65535 0]Não que seja uma coisa ruim.[n]Acho o preto muito elegante.[n][f 1 3 65535][w][e]
 
-[msg MSG_072_0_0 [Prof. Hiruta]]
+[msg MSG_072_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37153 65535 0]Sem perceber, já é[n]metade de junho.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]É o único mês do ano sem[n]feriados, e chove muito...[n]que estação infernal.[n][f 1 3 65535][w][e]
 
-[msg MSG_073_0_0 [Prof. Hiruta]]
+[msg MSG_073_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você acha que estou exagerando?[n]Ahah. Você é apenas ignorante...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]A chuva que cai é[n]ácida, suficiente para[n]liquefazer o metal.[n][f 1 3 65535][w][e]
 
-[msg MSG_074_0_0 [Prof. Hiruta]]
+[msg MSG_074_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 1]-kun. Vamos ver se você está[n]preparado e tem imaginação.[n][f 1 3 65535][w][e]
 
-[msg MSG_075_0_0 [Prof. Hiruta]]
+[msg MSG_075_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37156 65535 0]O que aconteceria se você continuasse a[n]lavar o cabelo com água[n]contaminada por metais?[n][f 1 3 65535][w][e]
 
 [sel SEL_076_0_0 top]
@@ -295,21 +295,21 @@
 [s]Eles mudariam de cor.[f 2 7 0 0 25 1][e]
 [s]Eles começariam a brilhar.[e]
 
-[msg MSG_077_0_0 [Prof. Hiruta]]
+[msg MSG_077_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37159 65535 0]Exatamente.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Seu cabelo ficaria verde,[n]se o metal fosse cobre, ou[n]vermelho na presença de ferrugem.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]No entanto, a chuva ácida não pode liquefazer[n]ouro ou prata. Para a tonalidade ouro, use[n]moedas de bronze.[n][f 1 3 65535][w][e]
 
-[msg MSG_078_0_0 [Prof. Hiruta]]
+[msg MSG_078_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37162 65535 0]Ideia interessante, mas não.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]A resposta é que eles mudariam de cor. O cobre os[n]tornaria verdes, enquanto a ferrugem os tornaria[n]vermelhos.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]No entanto, a chuva ácida não pode liquefazer[n]ouro ou prata. Para a tonalidade ouro, use[n]moedas de bronze.[n][f 1 3 65535][w][e]
 
-[msg MSG_079_0_0 [Prof. Hiruta]]
+[msg MSG_079_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você já está pensando em economizar[n]dinheiro do cabeleireiro?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Receio que você não entenda bem[n]os horrores da chuva ácida.[n][f 1 3 65535][w][e]
 
-[msg MSG_080_0_0 [Prof. Hiruta]]
+[msg MSG_080_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Em Londres, a chuva ácida caiu[n]tanto quanto os sucos gástricos.[n]Mais de 4.000 pessoas morreram.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Talvez um dia essa chuva[n]letal caia também no Japão...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Meu coração está sombrio, assim[n]como a chuva que banha[n]a cidade... Oh, chuva![n][f 1 3 65535][w][e]
@@ -317,19 +317,19 @@
 [msg MSG_081_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1028 65535 0]...Que barba[n]esses comentários espirituosos.[n][f 1 3 65535][w][e]
 
-[msg MSG_082_0_0 [Prof. Ushimaru]]
+[msg MSG_082_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37063 65535 0]Eu estava prestes a pagar na loja de conveniência[n]e eles me disseram que não aceitam moedas[n]estrangeiras...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Mas eu dei a ele uma cédula japonesa genuína.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Não me diga que a juventude de hoje[n]não consegue reconhecer[n]Hirobumi Ito.[n][f 1 3 65535][w][e]
 
-[msg MSG_083_0_0 [Prof. Ushimaru]]
+[msg MSG_083_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Estremeço só de pensar que[n]essas pessoas vão assumir[n]a economia do Japão...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Espero que você seja mais inteligente.[n]Aqui está um teste para ter certeza.[n][f 1 3 65535][w][e]
 
-[msg MSG_084_0_0 [Prof. Ushimaru]]
+[msg MSG_084_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ei, [f 4 1].[n][f 1 3 65535][w][e]
 
-[msg MSG_085_0_0 [Prof. Ushimaru]]
+[msg MSG_085_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37056 65535 0]As notas são emitidas[n]pelo Banco do Japão, mas[n]quem emite as moedas?[n][f 1 3 65535][w][e]
 
 [sel SEL_086_0_0 top]
@@ -338,20 +338,20 @@
 [s]O governo.[f 2 7 0 0 25 1][e]
 [s]O Banco da Criança.[e]
 
-[msg MSG_087_0_0 [Prof. Ushimaru]]
+[msg MSG_087_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37060 65535 0]Isso mesmo.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Ao contrário das cédulas,[n]moedas são emitidas[n]pelo governo.[n][f 1 3 65535][w][e]
 
-[msg MSG_088_0_0 [Prof. Ushimaru]]
+[msg MSG_088_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37062 65535 0]Umpf. Então você também é[n]um jovem ignorante.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Ao contrário das cédulas,[n]moedas são emitidas[n]pelo governo.[n][f 1 3 65535][w][e]
 
-[msg MSG_089_0_0 [Prof. Ushimaru]]
+[msg MSG_089_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Originalmente, o governo produzia tanto cédulas[n]quanto moedas.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]No entanto, sendo capaz de produzir[n]à vontade e sem controle,[n]a economia entrou em colapso.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Desde então, uma[n]organização autônoma - o Banco do Japão -[n]empreendeu a impressão das notas.[n][f 1 3 65535][w][e]
 
-[msg MSG_090_0_0 [Prof. Ushimaru]]
+[msg MSG_090_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Moedas, que[n]têm menos impacto na economia,[n]ainda são produzidas pelo governo.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Você não pode confiar suas finanças[n]a idiotas. Esses, no máximo,[n]podem lidar com algumas moedas.[n][f 1 3 65535][w][e]
 
@@ -395,19 +395,19 @@
 [msg MSG_101_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1043 65535 0]Umpf! O valor de um tesouro não pode[n]ser medido em dinheiro![n][f 1 3 65535][w][e]
 
-[msg MSG_102_0_0 [Prof. Hiruta]]
+[msg MSG_102_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37152 65535 0]Será a mudança das estações,[n]mas este calor...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Deve ser[n]aquecimento global.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Estamos destinados a derreter[n]como o gelo do Pólo Sul.[n][f 1 3 65535][w][e]
 
-[msg MSG_103_0_0 [Prof. Hiruta]]
+[msg MSG_103_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Falando em gelo, granita[n]é um símbolo do verão.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Normalmente vendidos em festivais,[n]existem muitas variedades, incluindo[n]melão e morango.[n][f 1 3 65535][w][e]
 
-[msg MSG_104_0_0 [Prof. Hiruta]]
+[msg MSG_104_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 1]-kun.[n]Deixe-me fazer uma pergunta.[n][f 1 3 65535][w][e]
 
-[msg MSG_105_0_0 [Prof. Hiruta]]
+[msg MSG_105_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37155 65535 0]Qual é a característica comum de[n]quase todos os xaropes para[n]slush do mercado?[n][f 1 3 65535][w][e]
 
 [sel SEL_106_0_0 top]
@@ -415,21 +415,21 @@
 [s]Eles os colorem com insetos.[e]
 [s]Eles têm o mesmo gosto.[f 2 7 0 0 25 1][e]
 
-[msg MSG_107_0_0 [Prof. Hiruta]]
+[msg MSG_107_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37158 65535 0]Exatamente.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]A verdade é que quase todos os[n]xaropes têm gosto parecido.[n][f 1 3 65535][w][e]
 
-[msg MSG_108_0_0 [Prof. Hiruta]]
+[msg MSG_108_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37163 65535 0]Desculpe, isso está errado.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Quase todos os xaropes para[n]slush têm um sabor semelhante.[n][f 1 3 65535][w][e]
 
-[msg MSG_109_0_0 [Prof. Hiruta]]
+[msg MSG_109_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Os ingredientes são[n]xarope de milho, aromatizantes e corantes...[n]É essencialmente água com açúcar.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Tente fechar os olhos,[n]tape o nariz e prove[n]a granita usando apenas o sabor.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Você provavelmente não seria capaz[n]de distinguir o sabor.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Aquele aroma fresco e doce[n]de morango é apenas uma[n]alucinação de verão desencadeada por cheiro e cor...[n][f 1 3 65535][w][e]
 
-[msg MSG_110_0_0 [Prof. Hiruta]]
+[msg MSG_110_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas antes que você possa desfrutar das doces[n]ilusões do verão,[n]mais do que exames concretos esperam por você.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Eles começarão na próxima semana,[n]dia 13. Bem, boa sorte.[n][f 1 3 65535][w][e]
 
@@ -477,19 +477,19 @@
 [msg MSG_121_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1156 65535 0]Quarta que vem, hein...[n]É melhor se preparar.[n][f 1 3 65535][w][e]
 
-[msg MSG_122_0_0 [Prof. Hiruta]]
+[msg MSG_122_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37153 65535 0]Os Ladrões Fantasmas...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Nesta sociedade da internet,[n]até a menor idiotice[n]tem 5 minutos de visibilidade.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Mas, assim como um fugaz[n]fogo de artifício, ele desaparece[n]no esquecimento quando o verão termina.[n][f 1 3 65535][w][e]
 
-[msg MSG_123_0_0 [Prof. Hiruta]]
+[msg MSG_123_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Pensando bem, existe um[n]organismo que emite[n]um brilho fugaz.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Isso mesmo: vagalumes. Para vocês[n]crianças da cidade, eles parecerão[n]criaturas mágicas...[n][f 1 3 65535][w][e]
 
-[msg MSG_124_0_0 [Prof. Hiruta]]
+[msg MSG_124_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 1]-kun. Você ainda não[n]foi contaminado pela[n]vida da cidade, então aqui está uma pergunta para você.[n][f 1 3 65535][w][e]
 
-[msg MSG_125_0_0 [Prof. Hiruta]]
+[msg MSG_125_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37156 65535 0]Qual é o nome da substância[n]que produz o brilho intenso[n]nos vaga-lumes?[n][f 1 3 65535][w][e]
 
 [sel SEL_126_0_0 top]
@@ -497,19 +497,19 @@
 [s]Luminarina.[e]
 [s]Luciferina.[f 2 7 0 0 25 1][e]
 
-[msg MSG_127_0_0 [Prof. Hiruta]]
+[msg MSG_127_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37160 65535 0]Exatamente.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Quando a luciferina se mistura[n]com o oxigênio, gera oxidação[n]que emite luz.[n][f 1 3 65535][w][e]
 
-[msg MSG_128_0_0 [Prof. Hiruta]]
+[msg MSG_128_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37162 65535 0]Nº[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]A resposta é luciferina.[n]Emite luz quando entra[n]em contato com o oxigênio.[n][f 1 3 65535][w][e]
 
-[msg MSG_129_0_0 [Prof. Hiruta]]
+[msg MSG_129_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Um vagalume não pode chorar,[n]então ele queima seu corpo...[n]ou é o que dizem.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]A luz deles é na verdade uma[n]reação química chamada[n]luz fria: ela não gera calor.[n][f 1 3 65535][w][e]
 
-[msg MSG_130_0_0 [Prof. Hiruta]]
+[msg MSG_130_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Agora que penso nisso, haverá um show de fogos de[n]artifício na próxima semana. Você deveria ir.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Mas tente não ficar tão cego pelas luzes[n]distantes que não consiga ver os exames à sua[n]frente.[n][f 1 3 65535][w][e]
 
@@ -599,19 +599,19 @@
 [s][vp 8 0 0 0 65535 0]Eu me pergunto o que Morgana está[n]fazendo...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]......[n][f 1 3 65535][w][e]
 
-[msg MSG_152_0_0 [Prof. Kawakami]]
+[msg MSG_152_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Então, a peça que esse[n]dramaturgo tcheco escreveu...[n][f 1 3 65535][w][e]
 [s][f 1 5]Aluno de cabelo castanho. [f 4 7 65535][n][vp 8 2 0 38107 4 0]O que você acha que os[n]Phantom Thieves farão com Okumura?[n][f 1 3 65535][w][e]
 
-[msg MSG_153_0_0 [Prof. Kawakami]]
+[msg MSG_153_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...é uma obra literária histórica porque introduz[n]a palavra "robô" pela primeira vez.[n][f 1 3 65535][w][e]
 [s][f 1 5]Aluno de Cabelos Pretos [vp 8 0 0 0 65535 0][n][f 4 7 65535]Eles desencadearão o despertar de[n]seu coração. Essas empresas corruptas merecem[n]apenas a falência![n][f 1 3 65535][w][e]
 
-[msg MSG_154_0_0 [Prof. Kawakami]]
+[msg MSG_154_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15129 65535 0]Ei! Você está na aula![n]Pare de falar sobre Okumura[n]e os Phantom Thieves![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Inferno...[n][f 4 1]-kun! Pelo menos você estava[n]ouvindo, não estava?[n][f 1 3 65535][w][e]
 
-[msg MSG_155_0_0 [Prof. Kawakami]]
+[msg MSG_155_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15117 65535 0]A palavra "robô" não vem do inglês. Então, de[n]qual país ela é?[n][f 1 3 65535][w][e]
 
 [sel SEL_156_0_0 top]
@@ -620,19 +620,19 @@
 [s]Eslovênia.[e]
 [s]Áustria.[e]
 
-[msg MSG_157_0_0 [Prof. Kawakami]]
+[msg MSG_157_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15122 65535 0]Isso mesmo.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Ela é originalmente da Tchecoslováquia, um país[n]europeu. Não foi fácil, bravo.[n][f 1 3 65535][w][e]
 
-[msg MSG_158_0_0 [Prof. Kawakami]]
+[msg MSG_158_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15124 65535 0]Nº[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]A resposta correta é o[n]país europeu da Tchecoslováquia.[n]Talvez tenha sido muito difícil.[n][f 1 3 65535][w][e]
 
-[msg MSG_159_0_0 [Prof. Kawakami]]
+[msg MSG_159_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]A palavra "robô" vem[n]da palavra tcheca "robota".[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]"Robota" significa[n]"trabalho forçado".[n][f 1 3 65535][w][e]
 
-[msg MSG_160_0_0 [Prof. Kawakami]]
+[msg MSG_160_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]É usado apenas neste contexto...[n]Basta a origem do nome para você[n]perceber a miséria dos robôs.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Bem, não que seja melhor para nós,[n]já que somos forçados a[n]trabalhar para sobreviver...[n][f 1 3 65535][w][e]
 
@@ -640,18 +640,18 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1027 65535 0]Ela parece cansada...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]No entanto, se Okumura não[n]ver os outros como pessoas,[n]teremos que despertar seu coração![n][f 1 3 65535][w][e]
 
-[msg MSG_162_0_0 [Prof. Ushimaru]]
+[msg MSG_162_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37052 65535 0]Ontem, fui comprar um[n]presente para minha sobrinha e à venda[n]havia uma fantasia de Ladrão Fantasma.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Seria o fim deste país se[n]as crianças começassem a querer[n]ser como elas.[n][f 1 3 65535][w][e]
 
-[msg MSG_163_0_0 [Prof. Ushimaru]]
+[msg MSG_163_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você já está no segundo ano do ensino médio.[n]Você deve ter uma visão[n]clara sobre o seu futuro.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Se você deseja segurança e estabilidade,[n]um emprego no governo é uma[n]das melhores opções.[n][f 1 3 65535][w][e]
 
-[msg MSG_164_0_0 [Prof. Ushimaru]]
+[msg MSG_164_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ei, [f 4 1].[n][f 1 3 65535][w][e]
 
-[msg MSG_165_0_0 [Prof. Ushimaru]]
+[msg MSG_165_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37054 65535 0]Nem todos os funcionários do governo[n]trabalham em escritórios do governo.[n]Qual desses empregos é civil?[n][f 1 3 65535][w][e]
 
 [sel SEL_166_0_0 top]
@@ -659,22 +659,22 @@
 [s]Xamãs do Monte Osore.[e]
 [s]Pescadores de Nagaragawa.[f 2 7 0 0 25 1][e]
 
-[msg MSG_167_0_0 [Prof. Ushimaru]]
+[msg MSG_167_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37061 65535 0]Oh... Estou surpreso que você saiba disso.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Apenas os pescadores de cormorão de[n]Nagaragawa são[n]oficialmente empregados pela casa imperial.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Eles têm um assento garantido[n]no Conselho de Cerimônias[n]da Agência da Casa Imperial.[n][f 1 3 65535][w][e]
 
-[msg MSG_168_0_0 [Prof. Ushimaru]]
+[msg MSG_168_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37065 65535 0]Errado.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]A resposta correta é[n]pescadores de cormorão, mas apenas os[n]de Nagaragawa.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Apenas os pescadores de cormorão de[n]Nagaragawa são[n]oficialmente empregados pela casa imperial.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Eles têm um assento garantido[n]no Conselho de Cerimônias[n]da Agência da Casa Imperial.[n][f 1 3 65535][w][e]
 
-[msg MSG_169_0_0 [Prof. Ushimaru]]
+[msg MSG_169_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Saiba, porém, que é um setor[n]inacessível, já que o emprego[n]é hereditário.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Para um emprego público, aposte[n]na Dieta... embora muitos[n]digam que ela também é hereditária.[n][f 1 3 65535][w][e]
 
-[msg MSG_170_0_0 [Prof. Ushimaru]]
+[msg MSG_170_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sinceramente, preenchi[n]as caixas dos políticos de hoje.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]É possível que não haja ninguém[n]que pense no bem do país?[n][f 1 3 65535][w][e]
 
@@ -682,19 +682,19 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1020 65535 0]Sim, as notícias dizem que o[n]índice de aprovação do gabinete[n]caiu novamente.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eles são o oposto de nós. Nossa[n]popularidade aumenta mão[n]passo com o gosto.[n][f 1 3 65535][w][e]
 
-[msg MSG_172_0_0 [Prof. Hiruta]]
+[msg MSG_172_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37167 65535 0]Francamente... Já estou farto dessa histeria em[n]massa.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Roubar corações? Reforma social?[n]Chega de bobagem dos Ladrões[n]Phantom. Não é científico.[n][f 1 3 65535][w][e]
 
-[msg MSG_173_0_0 [Prof. Hiruta]]
+[msg MSG_173_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Quero dizer, como ousa[n]bater no Big Bang Burger e Okumura[n]Foods? Eles são criminosos![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Aquele sabor maravilhosamente[n]artificial... Grande o suficiente[n]para preencher um pequeno universo.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Os Phantom Thieves estão tentando[n]roubar esta bela galáxia[n]de junk food de mim!?![n][f 1 3 65535][w][e]
 
-[msg MSG_174_0_0 [Prof. Hiruta]]
+[msg MSG_174_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37154 65535 0]Dito isso... [f 4 1]-kun.[n][f 1 3 65535][w][e]
 
-[msg MSG_175_0_0 [Prof. Hiruta]]
+[msg MSG_175_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]No céu noturno é possível[n]observar inúmeras galáxias...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]...mas qual dessas[n]metáforas melhor descreve a densidade de[n]estrelas em todo o universo?[n][f 1 3 65535][w][e]
 
@@ -707,16 +707,16 @@
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37159 65535 0]Hehe. Eu não esperava nada menos de você.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Sim. A resposta correta é três[n]melancias ao sol. Mas três[n]apis em toda a Europa também funcionam.[n][f 1 3 65535][w][e]
 
-[msg MSG_178_0_0 [Prof. Hiruta]]
+[msg MSG_178_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37164 65535 0]Que pena... Receio ter superestimado você.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]A resposta correta é três melancias[n]ao sol. Mas até três abelhas em[n]toda a Europa funcionam.[n][f 1 3 65535][w][e]
 
-[msg MSG_179_0_0 [Prof. Hiruta]]
+[msg MSG_179_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Em outras palavras, o universo é[n]essencialmente vazio.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Existem inúmeras estrelas no[n]céu, mas o universo é realmente[n]muito maior do que isso.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Mesmo em nossa própria galáxia, as[n]estrelas estão separadas por anos-luz,[n]embora possamos ver tantas.[n][f 1 3 65535][w][e]
 
-[msg MSG_180_0_0 [Prof. Hiruta]]
+[msg MSG_180_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Perto, mas longe...[n]Eheh,[n]o mesmo poderia ser dito de nossos corações.[n][f 1 3 65535][w][e]
 
 [msg MSG_181_0_0 [Morgana]]
@@ -809,18 +809,18 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1133 65535 0]Já ouvi muitos adolescentes,[n]mas não me lembro[n]de ouvi-los dizer "tranche"...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]...De qualquer forma, ele é tão apaixonado[n]que seria cruel argumentar de volta.[n][f 1 3 65535][w][e]
 
-[msg MSG_202_0_0 [Prof. Ushimaru]]
+[msg MSG_202_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37051 65535 0]Da última vez vimos como[n]processos funcionam.[n]Hoje vamos aprender...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Coisa? Você está perguntando se os[n]Phantom Thieves iriam a julgamento[n]se fossem pegos?[n][f 1 3 65535][w][e]
 
-[msg MSG_203_0_0 [Prof. Ushimaru]]
+[msg MSG_203_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Claro que sim. No entanto,[n]uma ligação entre[n]suas atividades e a série de mortes deve ser demonstrada.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Em resumo, eles[n]seriam julgados por assassinato.[n][f 1 3 65535][w][e]
 
-[msg MSG_204_0_0 [Prof. Ushimaru]]
+[msg MSG_204_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ei, [f 4 1].[n][f 1 3 65535][w][e]
 
-[msg MSG_205_0_0 [Prof. Ushimaru]]
+[msg MSG_205_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37056 65535 0]Você sabe quantos anos você deve ter para[n]participar de um julgamento?[n][f 1 3 65535][w][e]
 
 [sel SEL_206_0_0 top]
@@ -828,21 +828,21 @@
 [s]Quinze.[e]
 [s]Ventos.[e]
 
-[msg MSG_207_0_0 [Prof. Ushimaru]]
+[msg MSG_207_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37060 65535 0]Isso mesmo.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Não há limite de idade.[n]Eles são abertos ao público,[n]exceto para menores infratores.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Basicamente, você pode ajudar[n]com facilidade.[n][f 1 3 65535][w][e]
 
-[msg MSG_208_0_0 [Prof. Ushimaru]]
+[msg MSG_208_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37064 65535 0]Errado.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Não há limite de idade.[n]Eles são abertos ao público,[n]exceto para menores infratores.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Basicamente, você pode ajudar[n]com facilidade.[n][f 1 3 65535][w][e]
 
-[msg MSG_209_0_0 [Prof. Ushimaru]]
+[msg MSG_209_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bem, acho que os assentos para[n]visitantes estariam cheios se[n]os Ladrões fossem a julgamento.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Eles estão todos morrendo de vontade de[n]conhecer as identidades dos[n]culpados e seus truques.[n][f 1 3 65535][w][e]
 
-[msg MSG_210_0_0 [Prof. Ushimaru]]
+[msg MSG_210_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas, para condená-los, é preciso provar seu[n]método e como isso se relaciona com os[n]assassinatos.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]As técnicas dos Phantom Thieves[n]além da compreensão humana.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Suponho que para prová-los,[n]eles tenham que ser pegos em[n]flagrante de crime. Hmm...[n][f 1 3 65535][w][e]
@@ -850,18 +850,18 @@
 [msg MSG_211_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][vp 8 2 65535 1027 0 0]......[n][f 1 3 65535][w][e]
 
-[msg MSG_212_0_0 [Prof. Hiruta]]
+[msg MSG_212_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37152 65535 0]Você gosta de ouvir sua própria voz?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Você já ouviu sua[n]gravação? Ficou estranho?[n][f 1 3 65535][w][e]
 
-[msg MSG_213_0_0 [Prof. Hiruta]]
+[msg MSG_213_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Isso ocorre porque quando você ouve[n]normalmente sua voz, você ouve[n]através de seus ossos.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]A voz que você ouve em uma[n]gravação, e que te deixa[n]inquieto, ainda é sua.[n][f 1 3 65535][w][e]
 
-[msg MSG_214_0_0 [Prof. Hiruta]]
+[msg MSG_214_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bem, [f 4 1]-kun.[n][f 1 3 65535][w][e]
 
-[msg MSG_215_0_0 [Prof. Hiruta]]
+[msg MSG_215_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você acha estranho ouvir a voz de alguém[n]através de um telefone?[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 37155 65535 0][f 4 10 65535 0 0]Você sabe por que essa voz[n]parece diferente da[n]real?[n][f 1 3 65535][w][e]
 
@@ -870,19 +870,19 @@
 [s]O tom é mais baixo.[e]
 [s]É fortemente retrabalhado.[f 2 7 0 0 25 1][e]
 
-[msg MSG_217_0_0 [Prof. Hiruta]]
+[msg MSG_217_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37160 65535 0]Estou impressionado.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Resposta correta.[n]Basicamente, não é mais[n]a voz deles.[n][f 1 3 65535][w][e]
 
-[msg MSG_218_0_0 [Prof. Hiruta]]
+[msg MSG_218_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37163 65535 0]Eheh... Essa foi uma[n]pergunta difícil.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Na verdade, a voz que você ouve[n]através de um telefone é um[n]tipo de imitação.[n][f 1 3 65535][w][e]
 
-[msg MSG_219_0_0 [Prof. Hiruta]]
+[msg MSG_219_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Para transmitir dados, os telefones celulares[n]realizam uma[n]decodificação digital especial de vozes.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]E quando o telefone usa esses[n]dados para reconstruí-los, você pode[n]obter melhor qualidade.[n][f 1 3 65535][w][e]
 
-[msg MSG_220_0_0 [Prof. Hiruta]]
+[msg MSG_220_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Hum? Acha que consegue[n]distinguir uma voz[n]recriada no computador?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Contanto que o tom e o timbre correspondam,[n]o cérebro do ouvinte[n]faz a ponte entre as outras diferenças.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Quase todas as nossas comunicações[n]são baseadas em[n]suposições simples.[n][f 1 3 65535][w][e]
@@ -972,18 +972,18 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1028 65535 0]...As pessoas realmente gostam[n]de pensar em certas coisas?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Insuportável...[n][f 1 3 65535][w][e]
 
-[msg MSG_242_0_0 [Prof. Ushimaru]]
+[msg MSG_242_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37052 65535 0]E amanhã você terá a[n]viagem de campo de ciências sociais...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]É uma chance de pensar no[n]seu futuro.[n]Tente ser cuidadoso.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]...E não se deixe reconhecer.[n]Nós nos entendemos? Daria uma[n]imagem ruim da escola.[n][f 1 3 65535][w][e]
 
-[msg MSG_243_0_0 [Prof. Ushimaru]]
+[msg MSG_243_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vai ter um[n]grupo indo[n]para a emissora esse ano, né?[n][f 1 3 65535][w][e]
 
-[msg MSG_244_0_0 [Prof. Ushimaru]]
+[msg MSG_244_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 1]. Aqui está uma[n]pergunta para você.[n][f 1 3 65535][w][e]
 
-[msg MSG_245_0_0 [Prof. Ushimaru]]
+[msg MSG_245_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37057 65535 0]Com o advento da TV em cores,[n]algo mais começou a aparecer[n]em cores. Você pode me dizer o que?[n][f 1 3 65535][w][e]
 
 [sel SEL_246_0_0 top]
@@ -992,21 +992,21 @@
 [s]Roupas íntimas.[e]
 [s]Sonhos.[f 2 7 0 0 25 1][e]
 
-[msg MSG_247_0_0 [Prof. Ushimaru]]
+[msg MSG_247_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37060 65535 0]Você está certo.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Anteriormente, a maioria[n]dos sonhos eram em preto e branco.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Mas a pesquisa diz que[n]as transmissões de cores também mudaram a[n]percepção dos sonhos.[n][f 1 3 65535][w][e]
 
-[msg MSG_248_0_0 [Prof. Ushimaru]]
+[msg MSG_248_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37065 65535 0]Errado.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]A resposta correta é sonhos.[n]Antes, os sonhos das pessoas[n]eram preto e branco.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Mas a pesquisa diz que[n]as transmissões de cores também mudaram a[n]percepção dos sonhos.[n][f 1 3 65535][w][e]
 
-[msg MSG_249_0_0 [Prof. Ushimaru]]
+[msg MSG_249_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O fascinante é que[n]sempre vimos o[n]mundo em cores.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]No entanto, até o advento da[n]TV em cores, nossos sonhos[n]permaneciam em preto e branco.[n][f 1 3 65535][w][e]
 
-[msg MSG_250_0_0 [Prof. Ushimaru]]
+[msg MSG_250_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]No futuro, se as TVs 3D[n]permitissem perceber[n]sabores, cheiros e calor…[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]...Talvez os sonhos se tornem[n]indistinguíveis da realidade.[n][f 1 3 65535][w][e]
 
@@ -1054,18 +1054,18 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1035 65535 0]Eu não sabia que estrategistas[n]lidam com culinária, assim como[n]estrategistas...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Makoto é nosso estrategista.[n]Você não está curioso para saber[n]como ela cozinha?[n][f 1 3 65535][w][e]
 
-[msg MSG_262_0_0 [Prof. Kawakami]]
+[msg MSG_262_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15114 65535 0]Oh, hoje celebramos[n]Tanabata, o festival das estrelas.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Mas não pense que vou pendurar[n]enfeites de bambu ou escrever[n]meus desejos em um pedaço de papel.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Este ano, não estou com disposição.[n][f 1 3 65535][w][e]
 
-[msg MSG_263_0_0 [Prof. Kawakami]]
+[msg MSG_263_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ah, mas existe uma comida tradicional[n]associada ao Tanabata, assim[n]como chocolate no Dia dos Namorados.[n][f 1 3 65535][w][e]
 
-[msg MSG_264_0_0 [Prof. Kawakami]]
+[msg MSG_264_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15116 65535 0]OK, [f 4 1]-kun![n][f 1 3 65535][w][e]
 
-[msg MSG_265_0_0 [Prof. Kawakami]]
+[msg MSG_265_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Qual é a comida tradicional[n]do Tanabata?[n][f 1 3 65535][w][e]
 
 [sel SEL_266_0_0 top]
@@ -1074,19 +1074,19 @@
 [s]Chirashi sushi.[e]
 [s]Brotos de bambu.[e]
 
-[msg MSG_267_0_0 [Prof. Kawakami]]
+[msg MSG_267_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15120 65535 0]Você está certo.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Uau. Estou um pouco surpreso.[n]Você está realmente interessado em[n]férias sazonais e tal?[n][f 1 3 65535][w][e]
 
-[msg MSG_268_0_0 [Prof. Kawakami]]
+[msg MSG_268_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15126 65535 0]Não, que pena.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]A resposta é Somen.[n]Bem, você não parece o tipo de[n]interesse em festividades sazonais.[n][f 1 3 65535][w][e]
 
-[msg MSG_269_0_0 [Prof. Kawakami]]
+[msg MSG_269_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Originalmente, um prato[n]chamado de[n]sakubei era comido na China para apaziguar os demônios.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Com o tempo, a pronúncia mudou de sakubei para[n]sakumen e finalmente para Somen, um prato[n]totalmente diferente.[n][f 1 3 65535][w][e]
 
-[msg MSG_270_0_0 [Prof. Kawakami]]
+[msg MSG_270_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Continuando no assunto de demônios e[n]satanasses, o Somen também é[n]chamado de "coragem demoníaca".[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Tente se refrescar com alguma[n]boa comida sazonal e[n]prepare-se para os exames.[n][f 1 3 65535][w][e]
 
@@ -1094,21 +1094,21 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1021 65535 0]Sim, os exames estão próximos...[n]Eles vão começar no dia 13, certo?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Falta menos de uma semana.[n]Você acha que estará pronto?[n][f 1 3 65535][w][e]
 
-[msg MSG_272_0_0 [Prof. Kawakami]]
+[msg MSG_272_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15114 65535 0]Oh sim, exames vão começar na quarta-feira. Não[n]me diga que você esqueceu.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 15113 65535 0][f 4 10 65535 0 0]Enfim, hoje vamos falar sobre[n]a "História de um cortador de bambu".[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Muitos acreditam que seja o conto mais antigo do[n]Japão; para outros, é a mais antiga história de[n]ficção científica.[n][f 1 3 65535][w][e]
 
-[msg MSG_273_0_0 [Prof. Kawakami]]
+[msg MSG_273_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas, na minha opinião, é a mais antiga[n]história japonesa sobre uma[n]mulher terrível.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Quero dizer, a princesa Kaguya[n]atribuiu as tarefas mais absurdas a[n]seus pretendentes.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Alguns perderam suas fortunas, outros foram[n]humilhados, enquanto outros ainda foram feridos[n]ou cegos.[n][f 1 3 65535][w][e]
 
-[msg MSG_274_0_0 [Prof. Kawakami]]
+[msg MSG_274_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mulheres como a princesa Kaguya[n]na verdade existem em vários[n]contos de todo o mundo.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Bem, [f 4 1]-kun.[n][f 1 3 65535][w][e]
 
-[msg MSG_275_0_0 [Prof. Kawakami]]
+[msg MSG_275_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15118 65535 0]Como é geralmente chamada uma[n]mulher encantadora que leva[n]homens à perdição?[n][f 1 3 65535][w][e]
 
 [sel SEL_276_0_0 top]
@@ -1116,21 +1116,21 @@
 [s]Uma femme fatale.[f 2 7 0 0 25 1][e]
 [s]Isabel.[e]
 
-[msg MSG_277_0_0 [Prof. Kawakami]]
+[msg MSG_277_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15121 65535 0]Exatamente.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]A resposta correta é[n]mulher irresistível.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Traduzido literalmente[n]para "mulher fatal".[n][f 1 3 65535][w][e]
 
-[msg MSG_278_0_0 [Prof. Kawakami]]
+[msg MSG_278_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15124 65535 0]...Foi tão difícil assim?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]A resposta correta é[n]femme fatale.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Traduzido literalmente[n]para "mulher fatal".[n][f 1 3 65535][w][e]
 
-[msg MSG_279_0_0 [Prof. Kawakami]]
+[msg MSG_279_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Exemplos famosos são a fata Morgana[n]da lenda arturiana e a[n]Rainha Salomé da Bíblia.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Sem mencionar a selvagem e sedutora dançarina de[n]ópera, Carmen.[n][f 1 3 65535][w][e]
 
-[msg MSG_280_0_0 [Prof. Kawakami]]
+[msg MSG_280_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Saiba que os exames não serão[n]fáceis para que você possa passar[n]revisando tudo na noite anterior.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Organize-se bem e certifique-se de[n]entender os[n]argumentos corretamente, ok?[n][f 1 3 65535][w][e]
 
@@ -1138,20 +1138,20 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1020 65535 0]... Você ouviu isso. Deve ser[n]difícil ser um estudante.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Bem, certamente não vai doer revisar. Dê tudo de[n]si.[n][f 1 3 65535][w][e]
 
-[msg MSG_282_0_0 [Prof. Kawakami]]
+[msg MSG_282_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15026 65535 0]Às vezes eu leio[n]exatamente as mesmas coisas em[n]temas de diferentes autores.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Não pense que você pode se safar[n]copiando coisas da web.[n]Eu vou descobrir isso. Claro?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Roubar ideias de outras pessoas é plágio.[n]Um crime igual a roubar[n]qualquer outra coisa.[n][f 1 3 65535][w][e]
 
-[msg MSG_283_0_0 [Prof. Kawakami]]
+[msg MSG_283_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Copyright é um grande negócio[n]nos dias de hoje...[n]Ah, você sabia?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]E você sabe como Sir Arthur[n]Conan Doyle obteve o uso exclusivo[n]do personagem Sherlock Holmes?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Um dia, outro autor usou[n]Holmes em sua história sem[n]permissão e Doyle reclamou.[n][f 1 3 65535][w][e]
 
-[msg MSG_284_0_0 [Prof. Kawakami]]
+[msg MSG_284_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bem... [f 4 1]-kun.[n][f 1 3 65535][w][e]
 
-[msg MSG_285_0_0 [Prof. Kawakami]]
+[msg MSG_285_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15118 65535 0]Qual era o nome do outro[n]famoso romance em que[n]Sherlock Holmes apareceu?[n][f 1 3 65535][w][e]
 
 [sel SEL_286_0_0 top]
@@ -1160,19 +1160,19 @@
 [s]"Chushingura".[e]
 [s]"O Conde de Monte Cristo".[e]
 
-[msg MSG_287_0_0 [Prof. Kawakami]]
+[msg MSG_287_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15123 65535 0]Ah, você gosta de histórias de detetive?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Você tem razão. É o confronto final[n]entre o ladrão cavalheiro e o[n]famoso detetive.[n][f 1 3 65535][w][e]
 
-[msg MSG_288_0_0 [Prof. Kawakami]]
+[msg MSG_288_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15124 65535 0]Acho que literatura estrangeira[n]não é o seu forte...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]A resposta é "Arsène Lupin, ladrão[n]cavalheiro". O confronto final[n]entre ele e o famoso detetive.[n][f 1 3 65535][w][e]
 
-[msg MSG_289_0_0 [Prof. Kawakami]]
+[msg MSG_289_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mais tarde, porém, Maurice Leblanc - o autor de[n]Lupin - mudou o nome de Sherlock em seus livros.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Ele se tornou "Herlock Sholmes".[n]Ele apenas mudou o S[n]início do sobrenome.[n][f 1 3 65535][w][e]
 
-[msg MSG_290_0_0 [Prof. Kawakami]]
+[msg MSG_290_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Lupin e Holmes[n]continuaram a aparecer[n]em muitas outras obras...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Mas eram presentes,[n]não plágio.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Agora, Lupin incorpora a metáfora do "ladrão[n]fantasma". Ele é conhecido em todo o mundo.[n][f 1 3 65535][w][e]
@@ -1260,21 +1260,21 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1035 65535 0]Tesouro Secreto de Kidd, hein...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Independentemente de seu valor,[n]é bom que tantas[n]pessoas ainda acreditem na lenda.[n][f 1 3 65535][w][e]
 
-[msg MSG_312_0_0 [Prof. Hiruta]]
+[msg MSG_312_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37152 65535 0]Então, amanhã você vai no[n]gita... Posso entender por que[n]você está tão animado.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Você partirá do Japão à noite.[n]Oito a nove horas depois[n]depois você chegará ao Havaí.[n][f 1 3 65535][w][e]
 
-[msg MSG_313_0_0 [Prof. Hiruta]]
+[msg MSG_313_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não se esqueça da diferença de fuso horário.[n]O Havaí está dezenove horas[n]atrasado no Japão.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Portanto, você chegará na[n]manhã do dia 7.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Você partirá na noite do dia 7 e[n]chegará na manhã do dia 7...[n]Seus corpos vão enlouquecer.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]O jet lag faz você perder a[n]percepção do tempo.[n][f 1 3 65535][w][e]
 
-[msg MSG_314_0_0 [Prof. Hiruta]]
+[msg MSG_314_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você já teve a sensação de que[n]o ponteiro dos segundos de um[n]relógio dura mais tempo?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Aqui está uma pergunta para você,[n][f 4 1]-kun.[n][f 1 3 65535][w][e]
 
-[msg MSG_315_0_0 [Prof. Hiruta]]
+[msg MSG_315_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37156 65535 0]Como é chamado o fenômeno[n]em que o ponteiro dos segundos parece[n]parar de se mover?[n][f 1 3 65535][w][e]
 
 [sel SEL_316_0_0 top]
@@ -1283,18 +1283,18 @@
 [s]O mundo.[e]
 [s]Cronógrafo.[e]
 
-[msg MSG_317_0_0 [Prof. Hiruta]]
+[msg MSG_317_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37159 65535 0]Exatamente.[n][f 1 3 65535][w][e]
 
-[msg MSG_318_0_0 [Prof. Hiruta]]
+[msg MSG_318_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37162 65535 0]Que pena.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]A resposta correta é cronostase.[n][f 1 3 65535][w][e]
 
-[msg MSG_319_0_0 [Prof. Hiruta]]
+[msg MSG_319_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Quando os olhos se movem e o[n]cérebro processa as imagens,[n]uma breve desconexão ocorre.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]O cérebro tenta preencher esse[n]buraco com uma percepção fictícia,[n]causando cronostase.[n][f 1 3 65535][w][e]
 
-[msg MSG_320_0_0 [Prof. Hiruta]]
+[msg MSG_320_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você partirá no dia 7 e ficará fora por quatro[n]noites, portanto partirá[n]do Havaí no dia 11.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Mas, quando você chegar ao Japão,[n]um dia inteiro terá passado.[n]Ergo, você chegará no dia 12.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Vejo você então. O[n]sol tropical é muito brilhante[n]para meus olhos, infelizmente...[n][f 1 3 65535][w][e]
@@ -1302,18 +1302,18 @@
 [msg MSG_321_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1028 65535 0]Ele vai ficar aqui, né?[n][f 1 3 65535][w][e]
 
-[msg MSG_322_0_0 [Prof. Ushimaru]]
+[msg MSG_322_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37050 65535 0]eu sou o prof. de Ciências Sociais,[n]Sr. Ushimaru. Este ano, eu[n]ensino as regras da sociedade.[n][f 1 3 65535][w][e]
 
-[msg MSG_323_0_0 [Prof. Ushimaru]]
+[msg MSG_323_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Umpf... Você parece um bando de[n]crianças mimadas. Mal posso esperar para[n]ver qual de vocês me decepciona mais.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Existe um dicionário que define[n]ano como "um período de[n]365 decepções".[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]O título do livro é tão cínico quanto o resto. É[n]o "Dicionário do Diabo de Ambrose Bierce".[n][f 1 3 65535][w][e]
 
-[msg MSG_324_0_0 [Prof. Ushimaru]]
+[msg MSG_324_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ei garoto novo.[n][f 1 3 65535][w][e]
 
-[msg MSG_325_0_0 [Prof. Ushimaru]]
+[msg MSG_325_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37057 65535 0]Qual foi o fator determinante[n]para o progresso da humanidade,[n]segundo o Devil's Dictionary?[n][f 1 3 65535][w][e]
 
 [sel SEL_326_0_0 top]
@@ -1322,19 +1322,19 @@
 [s]Inimigos.[f 2 7 0 0 25 1][e]
 [s]Experiência.[e]
 
-[msg MSG_327_0_0 [Prof. Ushimaru]]
+[msg MSG_327_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37058 65535 0]Exatamente. "Malfeitores", para ser[n]precisamente.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Ele sabia responder, né?[n][f 1 3 65535][w][e]
 
-[msg MSG_328_0_0 [Prof. Ushimaru]]
+[msg MSG_328_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37064 65535 0]Umpf... Eu esperava isso.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]A resposta correta é inimigos ou[n]"malfeitores". Lembre-se disso.[n][f 1 3 65535][w][e]
 
-[msg MSG_329_0_0 [Prof. Ushimaru]]
+[msg MSG_329_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Os vilões podem influenciar[n]história. Mas lembre-se que esta[n]definição é uma piada sarcástica.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Aqui no mundo real, os malfeitores[n]não promovem a humanidade,[n]mas espalham o caos e o conflito.[n][f 1 3 65535][w][e]
 
-[msg MSG_330_0_0 [Prof. Ushimaru]]
+[msg MSG_330_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sei que todos vocês já ouviram as notícias sobre[n]esses encrenqueiros.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Não temos lugar para criminosos.[n]Nem na escola nem na sociedade.[n]Fui claro?[n][f 1 3 65535][w][e]
 
@@ -1381,21 +1381,21 @@
 [msg MSG_341_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1139 65535 0]Que bobagem.[n]Kamoshida é o verdadeiro déspota.[n][f 1 3 65535][w][e]
 
-[msg MSG_342_0_0 [Prof. Kawakami]]
+[msg MSG_342_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15114 65535 0]Oh sim, exames vão começar na quarta-feira. Não[n]me diga que você esqueceu.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 15113 65535 0][f 4 10 65535 0 0]Enfim, hoje vamos falar sobre[n]a "História de um cortador de bambu".[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Muitos acreditam que seja o conto mais antigo do[n]Japão; para outros, é a mais antiga história de[n]ficção científica.[n][f 1 3 65535][w][e]
 
-[msg MSG_343_0_0 [Prof. Kawakami]]
+[msg MSG_343_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas, na minha opinião, é a mais antiga[n]história japonesa sobre uma[n]mulher terrível.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Quero dizer, a princesa Kaguya[n]atribuiu as tarefas mais absurdas a[n]seus pretendentes.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Alguns perderam suas fortunas, outros foram[n]humilhados, enquanto outros ainda foram feridos[n]ou cegos.[n][f 1 3 65535][w][e]
 
-[msg MSG_344_0_0 [Prof. Kawakami]]
+[msg MSG_344_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mulheres como a princesa Kaguya[n]na verdade existem em vários[n]contos de todo o mundo.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Bem, [f 4 1]-kun.[n][f 1 3 65535][w][e]
 
-[msg MSG_345_0_0 [Prof. Kawakami]]
+[msg MSG_345_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15118 65535 0]Você deve ter ouvido que uma mulher[n]que leva à ruína usando[n]astúcia é uma femme fatale.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Então, qual é a[n]tradução literal da expressão[n]"femme fatale"?[n][f 1 3 65535][w][e]
 
@@ -1405,19 +1405,19 @@
 [s]Mulher irresistível.[f 2 7 0 0 25 1][e]
 [s]Alma gémea.[e]
 
-[msg MSG_347_0_0 [Prof. Kawakami]]
+[msg MSG_347_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15121 65535 0]Isso está correto.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]A resposta é "mulher irresistível".[n]Em francês, claro.[n][f 1 3 65535][w][e]
 
-[msg MSG_348_0_0 [Prof. Kawakami]]
+[msg MSG_348_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15124 65535 0]...Foi tão difícil assim?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]A resposta é "mulher irresistível".[n]"Femme fatale" é francês, claro.[n][f 1 3 65535][w][e]
 
-[msg MSG_349_0_0 [Prof. Kawakami]]
+[msg MSG_349_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Exemplos famosos são a fata Morgana[n]da lenda arturiana e a[n]Rainha Salomé da Bíblia.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Sem mencionar a selvagem e sedutora dançarina de[n]ópera, Carmen.[n][f 1 3 65535][w][e]
 
-[msg MSG_350_0_0 [Prof. Kawakami]]
+[msg MSG_350_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Saiba que os exames não serão[n]fáceis para que você possa passar[n]revisando tudo na noite anterior.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Organize-se bem e certifique-se de[n]entender os[n]argumentos corretamente, ok?[n][f 1 3 65535][w][e]
 
@@ -1508,20 +1508,20 @@
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 0 1176 65535 0]Ele rouba o trabalho de seus alunos,[n]fazendo-os sofrer! Ele não é um[n]professor. Ele é um maldito vigarista![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Temos que pegá-lo, custe o que custar.[n][f 1 3 65535][w][e]
 
-[msg MSG_372_0_0 [Prof. Kawakami]]
+[msg MSG_372_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15026 65535 0]Às vezes eu leio[n]exatamente as mesmas coisas em[n]temas de diferentes autores.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Não pense que você pode se safar[n]copiando coisas da web.[n]Eu vou descobrir isso. Claro?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Roubar ideias de outras pessoas é plágio.[n]Um crime igual a roubar[n]qualquer outra coisa.[n][f 1 3 65535][w][e]
 
-[msg MSG_373_0_0 [Prof. Kawakami]]
+[msg MSG_373_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Copyright é um grande negócio[n]nos dias de hoje...[n]Ah, você sabia?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Você conhece a série Arsène[n]Lupin de Maurice Leblanc?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Leblanc uma vez teve um detetive de outra série[n]aparecendo em uma história de Lupin[n][f 1 3 65535][w][e]
 
-[msg MSG_374_0_0 [Prof. Kawakami]]
+[msg MSG_374_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bem... [f 4 1]-kun.[n][f 1 3 65535][w][e]
 
-[msg MSG_375_0_0 [Prof. Kawakami]]
+[msg MSG_375_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15118 65535 0]Você sabe qual autor foi inspirado por[n]Leblanc?[n][f 1 3 65535][w][e]
 
 [sel SEL_376_0_0 top]
@@ -1529,21 +1529,21 @@
 [s]Arthur Conan Doyle.[f 2 7 0 0 25 1][e]
 [s]Edgar Walace.[e]
 
-[msg MSG_377_0_0 [Prof. Kawakami]]
+[msg MSG_377_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15123 65535 0]Ah, você gosta de histórias de detetive?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Sim, a resposta é o autor de[n]Sherlock Holmes, Arthur Conan[n]Doyle.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]É o confronto final entre o[n]ladrão cavalheiro e o famoso detetive.[n][f 1 3 65535][w][e]
 
-[msg MSG_378_0_0 [Prof. Kawakami]]
+[msg MSG_378_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15124 65535 0]Acho que literatura estrangeira[n]não é o seu forte...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]A resposta é Arthur Conan Doyle, autor de[n]Sherlock Holmes.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Sherlock Holmes e Lupin... O desafio[n]entre um detetive brilhante e o[n]rei dos ladrões cavalheiros.[n][f 1 3 65535][w][e]
 
-[msg MSG_379_0_0 [Prof. Kawakami]]
+[msg MSG_379_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Parece que, após reclamações de[n]Doyle, Leblanc mudou o nome[n]para "seu" Sherlock Holmes.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Ele se tornou "Herlock Sholmes".[n]Ele apenas mudou o S[n]início do sobrenome.[n][f 1 3 65535][w][e]
 
-[msg MSG_380_0_0 [Prof. Kawakami]]
+[msg MSG_380_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Lupin e Holmes[n]continuaram a aparecer[n]em muitas outras obras...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Mas eram presentes,[n]não plágio.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Agora, Lupin incorpora a metáfora do "ladrão[n]fantasma". Ele é conhecido em todo o mundo.[n][f 1 3 65535][w][e]
@@ -1685,18 +1685,18 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1021 65535 0]Um forte senso de identidade, hein...?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Nós também devemos ter certeza de que[n]não perdemos de vista o que[n]acreditamos.[n][f 1 3 65535][w][e]
 
-[msg MSG_412_0_0 [Prof. Hiruta]]
+[msg MSG_412_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37153 65535 0]Sem perceber, já é[n]metade de junho.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]É o único mês do ano sem[n]feriados, e chove muito...[n]que estação infernal.[n][f 1 3 65535][w][e]
 
-[msg MSG_413_0_0 [Prof. Hiruta]]
+[msg MSG_413_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você acha que estou exagerando?[n]Ahah. Você é apenas ignorante...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]A chuva que cai é[n]ácida, suficiente para[n]liquefazer o metal.[n][f 1 3 65535][w][e]
 
-[msg MSG_414_0_0 [Prof. Hiruta]]
+[msg MSG_414_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 1]-kun. Vamos ver se você está[n]preparado e tem imaginação.[n][f 1 3 65535][w][e]
 
-[msg MSG_415_0_0 [Prof. Hiruta]]
+[msg MSG_415_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37156 65535 0]Lavando o cabelo com[n]cobre dissolvido, você verá que ele muda[n]de cor.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]...De que cor você acha que eles vão ficar?[n][f 1 3 65535][w][e]
 
@@ -1705,21 +1705,21 @@
 [s]Verde.[f 2 7 0 0 25 1][e]
 [s]Isso não muda.[e]
 
-[msg MSG_417_0_0 [Prof. Hiruta]]
+[msg MSG_417_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37159 65535 0]Isso está correto.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]A propósito, o magnésio torna o cabelo[n]branco e[n]a ferrugem o torna vermelho.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]No entanto, a chuva ácida não pode liquefazer[n]ouro ou prata. Para a tonalidade ouro, use[n]moedas de bronze.[n][f 1 3 65535][w][e]
 
-[msg MSG_418_0_0 [Prof. Hiruta]]
+[msg MSG_418_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37162 65535 0]Receio que seja a resposta errada...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]A resposta certa é verde. Cobre[n]os tornaria verdes, enquanto[n]ferrugem os tornaria vermelhos.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]No entanto, a chuva ácida não pode liquefazer[n]ouro ou prata. Para a tonalidade ouro, use[n]moedas de bronze.[n][f 1 3 65535][w][e]
 
-[msg MSG_419_0_0 [Prof. Hiruta]]
+[msg MSG_419_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você já está pensando em economizar[n]dinheiro do cabeleireiro?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Receio que você não entenda bem[n]os horrores da chuva ácida.[n][f 1 3 65535][w][e]
 
-[msg MSG_420_0_0 [Prof. Hiruta]]
+[msg MSG_420_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Em Londres, a chuva ácida caiu[n]tanto quanto os sucos gástricos.[n]Mais de 4.000 pessoas morreram.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Talvez um dia essa chuva[n]letal caia também no Japão...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Meu coração está sombrio, assim[n]como a chuva que banha[n]a cidade... Oh, chuva![n][f 1 3 65535][w][e]
@@ -1727,19 +1727,19 @@
 [msg MSG_421_0_0 [Morgana]]
 [s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 0 1028 65535 0]...Que barba[n]esses comentários espirituosos.[n][f 1 3 65535][w][e]
 
-[msg MSG_422_0_0 [Prof. Ushimaru]]
+[msg MSG_422_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37063 65535 0]Eu estava prestes a pagar na loja de conveniência[n]e eles me disseram que não aceitam moedas[n]estrangeiras...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Mas eu dei a ele uma cédula japonesa genuína.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Não me diga que a juventude de hoje[n]não consegue reconhecer[n]Hirobumi Ito.[n][f 1 3 65535][w][e]
 
-[msg MSG_423_0_0 [Prof. Ushimaru]]
+[msg MSG_423_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Estremeço só de pensar que[n]essas pessoas vão assumir[n]a economia do Japão...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Espero que você seja mais inteligente.[n]Aqui está um teste para ter certeza.[n][f 1 3 65535][w][e]
 
-[msg MSG_424_0_0 [Prof. Ushimaru]]
+[msg MSG_424_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ei, [f 4 1].[n][f 1 3 65535][w][e]
 
-[msg MSG_425_0_0 [Prof. Ushimaru]]
+[msg MSG_425_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Dentre as cédulas e moedas, quais[n]são emitidas pelo governo?[n][f 1 3 65535][w][e]
 
 [sel SEL_426_0_0 top]
@@ -1748,20 +1748,20 @@
 [s]Nenhum dos dois.[e]
 [s]Ambos.[e]
 
-[msg MSG_427_0_0 [Prof. Ushimaru]]
+[msg MSG_427_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37060 65535 0]Bom.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]As notas são emitidas pelo[n]banco e as moedas são cunhadas[n]pelo governo.[n][f 1 3 65535][w][e]
 
-[msg MSG_428_0_0 [Prof. Ushimaru]]
+[msg MSG_428_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37062 65535 0]Umpf. Então você também é[n]um jovem ignorante.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]As notas são emitidas pelo[n]banco e as moedas são cunhadas[n]pelo governo.[n][f 1 3 65535][w][e]
 
-[msg MSG_429_0_0 [Prof. Ushimaru]]
+[msg MSG_429_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Originalmente, o governo produzia tanto cédulas[n]quanto moedas.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]No entanto, sendo capaz de produzir[n]à vontade e sem controle,[n]a economia entrou em colapso.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Desde então, uma[n]organização autônoma - o Banco do Japão -[n]empreendeu a impressão das notas.[n][f 1 3 65535][w][e]
 
-[msg MSG_430_0_0 [Prof. Ushimaru]]
+[msg MSG_430_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Moedas, que[n]têm menos impacto na economia,[n]ainda são produzidas pelo governo.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Você não pode confiar suas finanças[n]a idiotas. Esses, no máximo,[n]podem lidar com algumas moedas.[n][f 1 3 65535][w][e]
 
@@ -2020,19 +2020,19 @@
 [s][vp 8 0 0 0 65535 0]Quem sabe o que Morgana está fazendo[n]agora...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]......[n][f 1 3 65535][w][e]
 
-[msg MSG_492_0_0 [Prof. Kawakami]]
+[msg MSG_492_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Então, a peça que esse[n]dramaturgo tcheco escreveu...[n][f 1 3 65535][w][e]
 [s][f 1 5]Aluno de cabelo castanho. [f 4 7 65535][n][vp 8 2 0 38107 4 0]O que você acha que os[n]Phantom Thieves farão com Okumura?[n][f 1 3 65535][w][e]
 
-[msg MSG_493_0_0 [Prof. Kawakami]]
+[msg MSG_493_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...é uma obra literária histórica porque introduz[n]a palavra "robô" pela primeira vez.[n][f 1 3 65535][w][e]
 [s][f 1 5]Aluno de Cabelos Pretos [vp 8 2 0 38206 4 0][n][f 4 7 65535]Eles desencadearão o despertar de[n]seu coração. Essas empresas corruptas merecem[n]apenas a falência![n][f 1 3 65535][w][e]
 
-[msg MSG_494_0_0 [Prof. Kawakami]]
+[msg MSG_494_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15129 65535 0]Ei! Você está na aula![n]Pare de falar sobre Okumura[n]e os Phantom Thieves![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Inferno...[n][f 4 1]-kun! Pelo menos você estava[n]ouvindo, não estava?[n][f 1 3 65535][w][e]
 
-[msg MSG_495_0_0 [Prof. Kawakami]]
+[msg MSG_495_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15117 65535 0]Robot vem de uma palavra tcheca...[n]Mas onde fica, na Europa,[n]a República Tcheca?[n][f 1 3 65535][w][e]
 
 [sel SEL_496_0_0 top]
@@ -2040,19 +2040,19 @@
 [s]Europa Central.[f 2 7 0 0 25 1][e]
 [s]Sudoeste da Europa.[e]
 
-[msg MSG_497_0_0 [Prof. Kawakami]]
+[msg MSG_497_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15122 65535 0]Bom.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]A República Tcheca está localizada na[n]parte central da Europa.[n][f 1 3 65535][w][e]
 
-[msg MSG_498_0_0 [Prof. Kawakami]]
+[msg MSG_498_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15124 65535 0]Nº[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]A República Tcheca é um país[n]na Europa central.[n]Essa pergunta foi muito difícil?[n][f 1 3 65535][w][e]
 
-[msg MSG_499_0_0 [Prof. Kawakami]]
+[msg MSG_499_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]A palavra "robô" vem[n]da palavra tcheca "robota".[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]"Robota" significa[n]"trabalho forçado".[n][f 1 3 65535][w][e]
 
-[msg MSG_500_0_0 [Prof. Kawakami]]
+[msg MSG_500_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]É usado apenas neste contexto...[n]Basta a origem do nome para você[n]perceber a miséria dos robôs.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Bem, não que seja melhor para nós,[n]já que somos forçados a[n]trabalhar para sobreviver...[n][f 1 3 65535][w][e]
 
@@ -2060,18 +2060,18 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1027 65535 0]Kawakami parece cansado...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]No entanto, se Okumura não[n]ver os outros como pessoas,[n]teremos que despertar seu coração![n][f 1 3 65535][w][e]
 
-[msg MSG_502_0_0 [Prof. Ushimaru]]
+[msg MSG_502_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37052 65535 0]Ontem, fui comprar um[n]presente para minha sobrinha e à venda[n]havia uma fantasia de Ladrão Fantasma.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Seria o fim deste país se[n]as crianças começassem a querer[n]ser como elas.[n][f 1 3 65535][w][e]
 
-[msg MSG_503_0_0 [Prof. Ushimaru]]
+[msg MSG_503_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você já está no segundo ano do ensino médio.[n]Você deve ter uma visão[n]clara sobre o seu futuro.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Se você deseja segurança e estabilidade,[n]um cargo público é uma[n]das melhores opções.[n][f 1 3 65535][w][e]
 
-[msg MSG_504_0_0 [Prof. Ushimaru]]
+[msg MSG_504_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ei, [f 4 1].[n][f 1 3 65535][w][e]
 
-[msg MSG_505_0_0 [Prof. Ushimaru]]
+[msg MSG_505_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37054 65535 0]Aposto que você acha que[n]trabalhos públicos são[n]todos empregos de escritório...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas os pescadores de Nagaragawa[n]também são empregados do estado. Diga-me[n]a qual setor eles pertencem.[n][f 1 3 65535][w][e]
 
@@ -2080,22 +2080,22 @@
 [s]Agência da Casa Imperial.[f 2 7 0 0 25 1][e]
 [s]Escritório municipal.[e]
 
-[msg MSG_507_0_0 [Prof. Ushimaru]]
+[msg MSG_507_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37061 65535 0]Oh... Estou surpreso que você saiba disso.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Apenas os pescadores de cormorão de[n]Nagaragawa são[n]oficialmente empregados pela casa imperial.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Eles têm um assento garantido[n]no Conselho de Cerimônias[n]da Agência da Casa Imperial.[n][f 1 3 65535][w][e]
 
-[msg MSG_508_0_0 [Prof. Ushimaru]]
+[msg MSG_508_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37065 65535 0]Errado.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]A resposta é House Agency[n]Imperiale.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Apenas os pescadores de cormorão de[n]Nagaragawa são[n]oficialmente empregados pela casa imperial.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Eles têm um assento garantido[n]no Conselho de Cerimônias[n]da Agência da Casa Imperial.[n][f 1 3 65535][w][e]
 
-[msg MSG_509_0_0 [Prof. Ushimaru]]
+[msg MSG_509_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Saiba, porém, que é um setor[n]inacessível, já que o emprego[n]é hereditário.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Para um emprego público, aposte[n]na Dieta... embora muitos[n]digam que ela também é hereditária.[n][f 1 3 65535][w][e]
 
-[msg MSG_510_0_0 [Prof. Ushimaru]]
+[msg MSG_510_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sinceramente, preenchi[n]as caixas dos políticos de hoje.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]É possível que não haja ninguém[n]que pense no bem do país?[n][f 1 3 65535][w][e]
 
@@ -2103,19 +2103,19 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1020 65535 0]Sim, as notícias dizem que o[n]índice de aprovação do gabinete[n]caiu novamente.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eles são o oposto de nós. Nossa[n]popularidade aumenta mão[n]passo com o gosto.[n][f 1 3 65535][w][e]
 
-[msg MSG_512_0_0 [Prof. Hiruta]]
+[msg MSG_512_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37167 65535 0]Francamente... Já estou farto dessa histeria em[n]massa.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Roubar corações? Reforma social?[n]Chega de bobagem dos Ladrões[n]Phantom. Não é científico.[n][f 1 3 65535][w][e]
 
-[msg MSG_513_0_0 [Prof. Hiruta]]
+[msg MSG_513_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Quero dizer, como ousa[n]bater no Big Bang Burger e Okumura[n]Foods? Eles são criminosos![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Aquele sabor maravilhosamente[n]artificial... Grande o suficiente[n]para preencher um pequeno universo.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Os Phantom Thieves estão tentando[n]roubar esta bela galáxia[n]de junk food de mim!?![n][f 1 3 65535][w][e]
 
-[msg MSG_514_0_0 [Prof. Hiruta]]
+[msg MSG_514_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37154 65535 0]Dito isso... [f 4 1]-kun.[n][f 1 3 65535][w][e]
 
-[msg MSG_515_0_0 [Prof. Hiruta]]
+[msg MSG_515_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você acha que entende a vastidão[n]do universo, com suas incontáveis[n]galáxias, mas considere isso...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Imagine três melancias dentro[n]do sol: se o sol fosse todo[n]universo, o que seriam as melancias?[n][f 1 3 65535][w][e]
 
@@ -2124,21 +2124,21 @@
 [s]Estrelas.[f 2 7 0 0 25 1][e]
 [s]Pessoas.[e]
 
-[msg MSG_517_0_0 [Prof. Hiruta]]
+[msg MSG_517_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37159 65535 0]haha. Eu esperava isso de você.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Ilustra a densidade das estrelas no[n]espaço profundo. Três abelhas em[n]toda a Europa também é uma boa metáfora[n][f 1 3 65535][w][e]
 
-[msg MSG_518_0_0 [Prof. Hiruta]]
+[msg MSG_518_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37164 65535 0]Que pena... Receio ter superestimado você.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]A resposta é as estrelas...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Ilustra a densidade das estrelas no[n]espaço profundo. Três abelhas em[n]toda a Europa também é uma boa metáfora[n][f 1 3 65535][w][e]
 
-[msg MSG_519_0_0 [Prof. Hiruta]]
+[msg MSG_519_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Em outras palavras, o universo é[n]essencialmente vazio.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Existem inúmeras estrelas no[n]céu, mas o universo é realmente[n]muito maior do que isso.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Mesmo em nossa própria galáxia, as[n]estrelas estão separadas por anos-luz,[n]embora possamos ver tantas.[n][f 1 3 65535][w][e]
 
-[msg MSG_520_0_0 [Prof. Hiruta]]
+[msg MSG_520_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Perto, mas longe...[n]Eheh,[n]o mesmo poderia ser dito de nossos corações.[n][f 1 3 65535][w][e]
 
 [msg MSG_521_0_0 [Morgana]]
@@ -2226,18 +2226,18 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1133 65535 0]Já ouvi muitos adolescentes,[n]mas não me lembro de[n]ouvi-los dizer "tranche"...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]...De qualquer forma, ele é tão apaixonado[n]que seria cruel argumentar de volta.[n][f 1 3 65535][w][e]
 
-[msg MSG_542_0_0 [Prof. Ushimaru]]
+[msg MSG_542_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37051 65535 0]Da última vez vimos como[n]processos funcionam.[n]Hoje vamos aprender...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Coisa? Você está perguntando se os[n]Phantom Thieves iriam a julgamento[n]se fossem pegos?[n][f 1 3 65535][w][e]
 
-[msg MSG_543_0_0 [Prof. Ushimaru]]
+[msg MSG_543_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Claro que sim. No entanto,[n]uma ligação entre[n]suas atividades e a série de mortes deve ser demonstrada.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Em resumo, eles[n]seriam julgados por assassinato.[n][f 1 3 65535][w][e]
 
-[msg MSG_544_0_0 [Prof. Ushimaru]]
+[msg MSG_544_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ei, [f 4 1].[n][f 1 3 65535][w][e]
 
-[msg MSG_545_0_0 [Prof. Ushimaru]]
+[msg MSG_545_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37056 65535 0]Diga-me quantos anos você deve ter para[n]ser capaz de comparecer a um julgamento.[n][f 1 3 65535][w][e]
 
 [sel SEL_546_0_0 top]
@@ -2245,19 +2245,19 @@
 [s]65.[e]
 [s]80.[e]
 
-[msg MSG_547_0_0 [Prof. Ushimaru]]
+[msg MSG_547_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37060 65535 0]Está certo. Para participar de um[n]julgamento não há[n]limites de idade: você pode ter 0 ou 85 anos.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Crimes juvenis são uma exceção,[n]mas fora isso eles são abertos[n]ao público, inclusive a você.[n][f 1 3 65535][w][e]
 
-[msg MSG_548_0_0 [Prof. Ushimaru]]
+[msg MSG_548_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37064 65535 0]Enganado. Não há[n]limite de idade para participar de um teste:[n]você pode ter 0 ou 85 anos.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Crimes juvenis são uma exceção,[n]mas fora isso eles são abertos[n]ao público, inclusive a você.[n][f 1 3 65535][w][e]
 
-[msg MSG_549_0_0 [Prof. Ushimaru]]
+[msg MSG_549_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bem, acho que os assentos para[n]visitantes estariam cheios se[n]os Ladrões fossem a julgamento.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Eles estão todos morrendo de vontade de[n]conhecer as identidades dos[n]culpados e seus truques.[n][f 1 3 65535][w][e]
 
-[msg MSG_550_0_0 [Prof. Ushimaru]]
+[msg MSG_550_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas, para condená-los, é preciso provar seu[n]método e como isso se relaciona com os[n]assassinatos.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]As técnicas dos Phantom Thieves[n]além da compreensão humana.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Suponho que para prová-los,[n]eles tenham que ser pegos em[n]flagrante de crime. Hmm...[n][f 1 3 65535][w][e]
@@ -2265,18 +2265,18 @@
 [msg MSG_551_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][vp 8 2 65535 1027 0 0]......[n][f 1 3 65535][w][e]
 
-[msg MSG_552_0_0 [Prof. Hiruta]]
+[msg MSG_552_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37152 65535 0]Você gosta de ouvir sua própria voz?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Você já ouviu sua[n]gravação? Ficou estranho?[n][f 1 3 65535][w][e]
 
-[msg MSG_553_0_0 [Prof. Hiruta]]
+[msg MSG_553_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Isso ocorre porque quando você ouve[n]normalmente sua voz, você ouve[n]através de seus ossos.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]A voz que você ouve em uma[n]gravação, e que te deixa[n]inquieto, ainda é sua.[n][f 1 3 65535][w][e]
 
-[msg MSG_554_0_0 [Prof. Hiruta]]
+[msg MSG_554_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bem, [f 4 1]-kun.[n][f 1 3 65535][w][e]
 
-[msg MSG_555_0_0 [Prof. Hiruta]]
+[msg MSG_555_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você acha estranho ouvir a voz de alguém[n]através de um telefone?[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 37155 65535 0][f 4 10 65535 0 0]Nós vemos. Você sabe por que as vozes[n]soam diferentes das reais?[n][f 1 3 65535][w][e]
 
@@ -2285,19 +2285,19 @@
 [s]Porque a voz é sintética.[f 2 7 0 0 25 1][e]
 [s]Voce esta conversando com outra pessoa.[e]
 
-[msg MSG_557_0_0 [Prof. Hiruta]]
+[msg MSG_557_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37160 65535 0]Direita. Estou surpreso que você saiba[n]a resposta.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]O som é sintético. Basicamente,[n]não é mais a voz deles.[n][f 1 3 65535][w][e]
 
-[msg MSG_558_0_0 [Prof. Hiruta]]
+[msg MSG_558_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37163 65535 0]Eh... Talvez tenha sido muito difícil.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Na realidade, o que você ouve não é[n]a voz do interlocutor, mas uma[n]reconstrução sintética digital.[n][f 1 3 65535][w][e]
 
-[msg MSG_559_0_0 [Prof. Hiruta]]
+[msg MSG_559_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Para transmitir dados, os telefones celulares[n]realizam uma[n]decodificação digital especial de vozes.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]E quando o telefone usa esses[n]dados para reconstruí-los, você pode[n]obter melhor qualidade.[n][f 1 3 65535][w][e]
 
-[msg MSG_560_0_0 [Prof. Hiruta]]
+[msg MSG_560_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Hum? Acha que consegue[n]distinguir uma voz[n]recriada no computador?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Contanto que o tom e o timbre correspondam,[n]o cérebro do ouvinte[n]faz a ponte entre as outras diferenças.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Quase todas as nossas comunicações[n]são baseadas em[n]suposições simples.[n][f 1 3 65535][w][e]
@@ -2350,19 +2350,19 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1028 65535 0]...As pessoas realmente gostam[n]de pensar em certas coisas?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Insuportável...[n][f 1 3 65535][w][e]
 
-[msg MSG_572_0_0 [Prof. Kawakami]]
+[msg MSG_572_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 55901 65535 0]Eu estava limpando meu quarto outro dia[n]e encontrei uma coleção de histórias[n]que comprei quando era estudante.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Todos vocês já ouviram falar de[n]"O restaurante de muitos pedidos"[n]de Kenji Miyazawa, não é?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Era para crianças,[n]mas mesmo lendo agora,[n]como adulto, ainda consegue cativar você.[n][f 1 3 65535][w][e]
 
-[msg MSG_573_0_0 [Prof. Kawakami]]
+[msg MSG_573_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]A propósito, um dos pontos fortes de Miyazawa[n]são os nomes que ele[n]dá aos seus lugares imaginários.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]"Ihatov" é o mais famoso de todos.[n]O nome deste lugar é inspirado[n]na cidade natal do autor.[n][f 1 3 65535][w][e]
 
-[msg MSG_574_0_0 [Prof. Kawakami]]
+[msg MSG_574_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Então... [f 4 1]-kun.[n][f 1 3 65535][w][e]
 
-[msg MSG_575_0_0 [Prof. Kawakami]]
+[msg MSG_575_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15117 65535 0]O que inspirou a fantástica terra[n]de "Ihatov"?[n][f 1 3 65535][w][e]
 
 [sel SEL_576_0_0 top]
@@ -2371,18 +2371,18 @@
 [s]Tóquio.[e]
 [s]Nova york.[e]
 
-[msg MSG_577_0_0 [Prof. Kawakami]]
+[msg MSG_577_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15122 65535 0]Sim, isso mesmo.[n][f 1 3 65535][w][e]
 
-[msg MSG_578_0_0 [Prof. Kawakami]]
+[msg MSG_578_0_0 [Prof Kawakami]]
 [s][bup 0 109 3 0 0][f 4 10 65535 0 0][vp 8 2 0 15124 65535 0]Que pena.[n][f 1 3 65535][w][e]
 [s][bup 0 109 0 0 0][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]A resposta é Iwate.[n][f 1 3 65535][w][e]
 
-[msg MSG_579_0_0 [Prof. Kawakami]]
+[msg MSG_579_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]"Ihatov" é o mundo de fantasia de Kenji Miyazawa[n]... sua utopia.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Uma utopia é um mundo ideal,[n]dissociado do nosso mundo.[n][f 1 3 65535][w][e]
 
-[msg MSG_580_0_0 [Prof. Kawakami]]
+[msg MSG_580_0_0 [Prof Kawakami]]
 [s][bup 0 109 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Um pequeno paraíso pessoal, né?[n]Seria ótimo se[n]existisse mesmo.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Carne e álcool à vontade![n][f 1 3 65535][w][e]
 [s][bup 0 109 3 0 0][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Ah, mas aí eu engordava tanto.[n]E ficava bêbado o tempo todo. Mmh, talvez[n]a nossa realidade não seja tão ruim.[n][f 1 3 65535][w][e]
@@ -2436,20 +2436,20 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 53101 65535 0]...Bem, uma coisa é certa:[n]você é definitivamente incrível.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]"Dormência" talvez seja demais,[n]mas... sei que posso contar com você.[n][f 1 3 65535][w][e]
 
-[msg MSG_592_0_0 [Prof. Hiruta]]
+[msg MSG_592_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37152 65535 0]Numerosas epidemias devastaram[n]nosso mundo. Cólera,[n]sarampo, peste...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Todas as doenças devastadoras,[n]capazes de resistir a qualquer cura,[n]e sim, algumas até letais...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Mas há uma "doença" que não[n]tememos. De fato, queremos.[n]Alguma ideia?[n][f 1 3 65535][w][e]
 
-[msg MSG_593_0_0 [Prof. Hiruta]]
+[msg MSG_593_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]É a doença que chamamos de felicidade...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Ei, acha que eu estava apenas[n]fazendo um show?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Um estudo científico afirma[n]que a emoção da felicidade pode[n]se espalhar quase como uma doença.[n][f 1 3 65535][w][e]
 
-[msg MSG_594_0_0 [Prof. Hiruta]]
+[msg MSG_594_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37154 65535 0]Bem, [f 4 1]-kun.[n][f 1 3 65535][w][e]
 
-[msg MSG_595_0_0 [Prof. Hiruta]]
+[msg MSG_595_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Até que ponto a felicidade pessoal pode se[n]espalhar, de acordo com este estudo?[n][f 1 3 65535][w][e]
 
 [sel SEL_596_0_0 top]
@@ -2457,19 +2457,19 @@
 [s]Aos amigos dos amigos dos amigos.[f 2 7 0 0 25 1][e]
 [s]Aos amigos dos amigos.[e]
 
-[msg MSG_597_0_0 [Prof. Hiruta]]
+[msg MSG_597_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37160 65535 0]Muito bem. Isso mesmo.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Parece que sua felicidade pode[n]afetar o humor de amigos[n]amigos de seus amigos.[n][f 1 3 65535][w][e]
 
-[msg MSG_598_0_0 [Prof. Hiruta]]
+[msg MSG_598_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37163 65535 0]Não, errado...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Aparentemente, sua felicidade[n]pode se espalhar para amigos de[n]amigos de seus amigos.[n][f 1 3 65535][w][e]
 
-[msg MSG_599_0_0 [Prof. Hiruta]]
+[msg MSG_599_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]De acordo com pesquisas, a felicidade[n]se espalha por meio da união e[n]proximidade física.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]De acordo com esses princípios... talvez[n]não seja impossível criar um mundo[n]no qual todos possam ser felizes.[n][f 1 3 65535][w][e]
 
-[msg MSG_600_0_0 [Prof. Hiruta]]
+[msg MSG_600_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Mesmo que eu não pudesse[n]suportá-lo. Um mundo de paz[n]eterna e inalterável...?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Uma ideia assustadora! Onde está a[n]emoção em um mundo sem[n]conflito, dor e desespero!?![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Sem infelicidade, não pode existir[n]felicidade verdadeira... Eu não quero[n]viver em um mundo tão monótono...[n][f 1 3 65535][w][e]
@@ -2477,54 +2477,54 @@
 [msg MSG_601_0_0 [Morgana]]
 [s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Este nunca muda.[n][f 1 3 65535][w][e]
 
-[msg MSG_999_0_0 [Studentessa dai capelli neri]]
+[msg MSG_999_0_0 [Estudante de cabelo preto]]
 [s][vp 8 0 0 0 65535 0]Ei, você sabia disso?[n]Eu não, de jeito nenhum![n][f 1 3 65535][w][e]
 
-[msg MSG_999_0_1 [Studentessa dai capelli castani]]
+[msg MSG_999_0_1 [Estudante de cabelo castanho]]
 [s][vp 8 0 0 0 65535 0]Talvez ele seja um cara inteligente para[n]realmente. Estou surpreso...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Oh cara, o professor[n]está nos observando![n][f 1 3 65535][w][e]
 
-[msg MSG_999_0_2 [Studentessa dai capelli neri]]
+[msg MSG_999_0_2 [Estudante de cabelo preto]]
 [s][vp 8 0 0 0 65535 0]Ele não sabia?[n]Mas é verdade que ele não[n]estuda nada.[n][f 1 3 65535][w][e]
 
-[msg MSG_999_0_3 [Studentessa dai capelli castani]]
+[msg MSG_999_0_3 [Estudante de cabelo castanho]]
 [s][vp 8 0 0 0 65535 0]Shhhh! E se ele ouvir você?[n]Quem sabe o que ele poderia fazer sobre isso![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Vamos, vire-se![n][f 1 3 65535][w][e]
 
-[msg MSG_999_1_0 [Studentessa dai capelli neri]]
+[msg MSG_999_1_0 [Estudante de cabelo preto]]
 [s][vp 8 0 0 0 65535 0]Uau, ele acertou em cheio...[n]Mas ele é mesmo um criminoso?[n][f 1 3 65535][w][e]
 
-[msg MSG_999_1_1 [Studentessa dai capelli castani]]
+[msg MSG_999_1_1 [Estudante de cabelo castanho]]
 [s][vp 8 0 0 0 65535 0]Ele parece um punk, mas[n]talvez esteja ocupado[n]com seus estudos.[n][f 1 3 65535][w][e]
 
-[msg MSG_999_1_2 [Studentessa dai capelli neri]]
+[msg MSG_999_1_2 [Estudante de cabelo preto]]
 [s][vp 8 0 0 0 65535 0]Ele é apenas um encrenqueiro que[n]não estuda merda nenhuma...[n][f 1 3 65535][w][e]
 
-[msg MSG_999_1_3 [Studentessa dai capelli castani]]
+[msg MSG_999_1_3 [Estudante de cabelo castanho]]
 [s][vp 8 0 0 0 65535 0]O que um cara como ele está fazendo[n]na nossa escola?[n][f 1 3 65535][w][e]
 
-[msg MSG_999_2_0 [Studentessa dai capelli neri]]
+[msg MSG_999_2_0 [Estudante de cabelo preto]]
 [s][vp 8 0 0 0 65535 0]Uau, ele conseguiu responder...?[n][f 1 3 65535][w][e]
 
-[msg MSG_999_2_1 [Studentessa dai capelli castani]]
+[msg MSG_999_2_1 [Estudante de cabelo castanho]]
 [s][vp 8 0 0 0 65535 0]Talvez eu deva pedir a ele[n]que me empreste suas anotações...[n][f 1 3 65535][w][e]
 
-[msg MSG_999_2_2 [Studentessa dai capelli neri]]
+[msg MSG_999_2_2 [Estudante de cabelo preto]]
 [s][vp 8 0 0 0 65535 0]Foi super fácil, vamos lá.[n][f 1 3 65535][w][e]
 
-[msg MSG_999_2_3 [Studentessa dai capelli castani]]
+[msg MSG_999_2_3 [Estudante de cabelo castanho]]
 [s][vp 8 0 0 0 65535 0]Por que ele vem para a aula se não[n]se preocupa em estudar?[n][f 1 3 65535][w][e]
 
-[msg MSG_999_3_0 [Studentessa dai capelli neri]]
+[msg MSG_999_3_0 [Estudante de cabelo preto]]
 [s][vp 8 0 0 0 65535 0]Uau, ele estava realmente ouvindo.[n][f 1 3 65535][w][e]
 
-[msg MSG_999_3_1 [Studentessa dai capelli castani]]
+[msg MSG_999_3_1 [Estudante de cabelo castanho]]
 [s][vp 8 0 0 0 65535 0]Que surpresa.[n]Ele sempre parece estar[n]ali com um olhar perdido.[n][f 1 3 65535][w][e]
 
-[msg MSG_999_3_2 [Studentessa dai capelli neri]]
+[msg MSG_999_3_2 [Estudante de cabelo preto]]
 [s][vp 8 0 0 0 65535 0]Ela não sabia? Mas a professora[n]quase disse a ele...[n][f 1 3 65535][w][e]
 
-[msg MSG_999_3_3 [Studentessa dai capelli castani]]
+[msg MSG_999_3_3 [Estudante de cabelo castanho]]
 [s][vp 8 0 0 0 65535 0]Talvez ele consiga dormir[n]com os olhos abertos.[n][f 1 3 65535][w][e]
 
 [msg MSG_999_5_0 [Prof. Inui]]

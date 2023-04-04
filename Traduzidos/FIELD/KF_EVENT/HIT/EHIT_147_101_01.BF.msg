@@ -5,7 +5,7 @@
 [msg MSG_BLDGA2F_BLDGB2F_00 [Ryuji]]
 [s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 0 1 13 65535 0]Ei, eu tenho que passar![n][w][e]
 
-[msg MSG_BLDGA2F_BLDGB2F_01 [Studentessa]]
+[msg MSG_BLDGA2F_BLDGB2F_01 [Estudante]]
 [s][vp 8 0 1 14 65535 0]Hã? Não empurre![n][w][e]
 
 [msg MSG_BLDGA2F_BLDGB2F_02 [Ryuji]]

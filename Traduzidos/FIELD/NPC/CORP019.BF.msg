@@ -1,4 +1,4 @@
-[msg MSG_C19_ENZETHU_01_00 [Oratore di strada]]
+[msg MSG_C19_ENZETHU_01_00 [Orador de rua]]
 [s][bup 0 112 0 0 0][f 4 10 65535 0 0][vp 8 2 1 20088 65535 0]...[n]estranhos incidentes estão acontecendo.[n]O que os causa?[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]O louco acidente de trem,[n]esses ataques misteriosos...[n][w][e]
 [s][bup 0 112 2 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Todos eles são sinais que apontam para o fim de[n]nossa paz diária.[n][w][e]
@@ -10,7 +10,7 @@
 [s][bup 0 112 2 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Todos eles são sinais que apontam para o fim de[n]nossa paz diária.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]É o momento em que os políticos são[n]chamados a colocar em campo[n]suas forças, e ainda assim...[n][w][e]
 
-[msg MSG_C19_ENZETHU_02_00 [Oratore di strada]]
+[msg MSG_C19_ENZETHU_02_00 [Orador de rua]]
 [s][bup 0 112 2 0 0][f 4 10 65535 0 0][vp 8 2 1 20066 65535 0]...Houve muitos incidentes[n]para ignorá-los! Alguém[n]tem coragem de negar?!?[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]O trem louco, o misterioso raptus, uma escola com[n]um professor depravado...[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]E a verdade por trás desses fatos[n]ainda está escondida![n][w][e]
@@ -22,7 +22,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]E a verdade por trás desses fatos[n]ainda está escondida![n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]A apatia que permeia a sociedade[n]não passa de fruto do[n]descaso do governo e da mídia.[n][w][e]
 
-[msg MSG_C19_ENZETHU_03_00 [Oratore di strada]]
+[msg MSG_C19_ENZETHU_03_00 [Orador de rua]]
 [s][bup 0 112 0 0 0][f 4 10 65535 0 0][vp 8 2 1 20088 65535 0]...Muitos de vocês sofrem[n]as injustiças deste[n]mundo distorcido e suas desigualdades.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Saiba que você pode encaminhar todas as suas[n]críticas para mim ![n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu, Toranosuke Yoshida, encontrarei[n]uma maneira de suas palavras chegarem[n]Nagatacho...[n][w][e]
@@ -32,7 +32,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Saiba que você pode encaminhar todas as suas[n]críticas para mim ![n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu, Toranosuke Yoshida, encontrarei[n]uma maneira de suas palavras chegarem[n]Nagatacho...[n][w][e]
 
-[msg MSG_C19_ENZETHU_04_00 [Oratore di strada]]
+[msg MSG_C19_ENZETHU_04_00 [Orador de rua]]
 [s][bup 0 112 0 0 0][f 4 10 65535 0 0][vp 8 2 1 20088 65535 0]Diante de tal desordem cívica[n]e incerteza econômica...[n]os cidadãos se encontram no caos.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]É imperativo que essa situação[n]seja resolvida com uma reforma social[n]implementada pelo governo.[n][w][e]
 [s][bup 0 112 2 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]No entanto, quem são as pessoas[n]confiando em...?[n]Sim, os Ladrões Fantasmas![n][w][e]
@@ -46,7 +46,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]O fato de serem os novos[n]campeões do povo diz muito[n]sobre os erros do executivo![n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]A má governança das personalidades[n]no poder é o que nos levou[n]a esta terrível situação...[n][w][e]
 
-[msg MSG_C19_ENZETHU_05_00 [Oratore di strada]]
+[msg MSG_C19_ENZETHU_05_00 [Orador de rua]]
 [s][bup 0 112 0 0 0][f 4 10 65535 0 0][vp 8 2 1 20088 65535 0]Pobreza, baixos salários... O mercado de trabalho[n]neste país é uma coisa terrível.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Os casos de suicídio estão aumentando,[n]e os jovens trabalhadores são[n]explorados o tempo todo.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]O mal que permeia o[n]mundo corporativo está se infiltrando[n]dentro da sociedade...[n][w][e]
@@ -56,7 +56,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Os casos de suicídio estão aumentando,[n]e os jovens trabalhadores são[n]explorados o tempo todo.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]O mal que permeia o[n]mundo corporativo está se infiltrando[n]dentro da sociedade...[n][w][e]
 
-[msg MSG_C19_ENZETHU_06_00 [Oratore di strada]]
+[msg MSG_C19_ENZETHU_06_00 [Orador de rua]]
 [s][bup 0 112 2 0 0][f 4 10 65535 0 0][vp 8 2 1 20066 65535 0]...A taxa de natalidade em constante declínio[n]exige que nós, adultos, redefinamos[n]nosso papel na sociedade.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Devemos criar um país[n]capaz de gerar vida.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]E acima de tudo um país que[n]é capaz de "crescer" essa vida.[n][w][e]
@@ -68,7 +68,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]E acima de tudo um país que[n]é capaz de "crescer" essa vida.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]A verdadeira força desta nação[n]está em seu povo…[n][w][e]
 
-[msg MSG_C19_ENZETHU_07_00 [Oratore di strada]]
+[msg MSG_C19_ENZETHU_07_00 [Orador de rua]]
 [s][bup 0 112 2 0 0][f 4 10 65535 0 0][vp 8 2 1 20066 65535 0]...O futuro de nossa juventude[n]estará em perigo, se aderirmos aos[n]princípios desta nova aliança![n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]O projeto que proponho pode[n]ser a base sobre a qual[n]edificar o futuro do país.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Yoshida, Toranosuke Yoshida,[n]irão entrar em campo[n]pelo bem de nossa juventude![n][w][e]
@@ -78,7 +78,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]O projeto que proponho pode[n]ser a base sobre a qual[n]edificar o futuro do país.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Yoshida, Toranosuke Yoshida,[n]irão entrar em campo[n]pelo bem de nossa juventude![n][w][e]
 
-[msg MSG_C19_ENZETHU_08_00 [Oratore di strada]]
+[msg MSG_C19_ENZETHU_08_00 [Orador de rua]]
 [s][bup 0 112 0 0 0][f 4 10 65535 0 0][vp 8 2 1 20088 65535 0]Obrigado por seu apoio[n]e desculpas por não ser capaz[n]de alcançar os resultados pretendidos.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Analisarei este resultado cuidadosamente,[n]para valorizá-lo e obter[n]benefício dele para meus esforços futuros.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]E confesso que tenho aprendido muito,[n]principalmente com os jovens que lutam por[n]justiça.[n][w][e]
@@ -96,13 +96,13 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu queria agradecer mais uma vez[n]uma vez por todo o seu apoio.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Junto com as novas gerações,[n]vou mudar este país e fazê-lo[n]transbordar de justiça![n][w][e]
 
-[msg MSG_C19_ENZETHU_00_00 [Oratore di strada]]
+[msg MSG_C19_ENZETHU_00_00 [Orador de rua]]
 [s][bup 0 112 0 0 0][f 4 10 65535 0 0][vp 8 2 1 20081 65535 0]O futuro deste país[n]está nas mãos dos jovens…[n][w][e]
 
 [msg MSG_C19_ENZETHU_00_01 [Yoshida]]
 [s][bup 0 112 0 0 0][f 4 10 65535 0 0][vp 8 2 1 20081 65535 0]O futuro deste país[n]está nas mãos dos jovens…[n][w][e]
 
-[msg MSG_C19_HIRU_00_00 [Oratore di strada]]
+[msg MSG_C19_HIRU_00_00 [Orador de rua]]
 [s][bup 0 112 0 0 0][f 4 10 65535 0 0][f 4 23 1 239 3 10 0 10][vp 8 2 1 20001 65535 0]Eu pretendo [clr 2]fazer[n]um discurso esta noite. Bem aqui [clr 27].[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Venha e ouça, se estiver interessado.[n]Gostaria que jovens como você[n]ouvissem minhas palavras.[n][w][e]
 
@@ -116,7 +116,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ele parece um homem muito[n]experiente, talvez seja bom nisso...[n]Acho que devemos participar.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Embora... o discurso será realizado à noite.[n]Voltamos mais tarde.[n][w][e]
 
-[msg MSG_C19_MGK_00_00 [Uomo con fascia]]
+[msg MSG_C19_MGK_00_00 [Homem com faixa]]
 [s][bup 0 112 0 0 0][f 4 10 65535 0 0][f 4 23 1 219 3 10 0 10][vp 8 2 1 20018 65535 0]...Vejo que você está ouvindo[n]com alguma atenção.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Você se interessa por política?[n][w][e]
 
@@ -128,11 +128,11 @@
 [s]Estou muito interessado.[e]
 [s]Eu estava apenas de passagem.[e]
 
-[msg MSG_C19_MGK_00_03 [Oratore di strada]]
+[msg MSG_C19_MGK_00_03 [Orador de rua]]
 [s][bup 0 112 0 0 0][f 4 10 65535 0 0][f 4 23 1 219 3 10 0 10][vp 8 2 1 0 65535 0]Você é estudante?[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Estou feliz por ter despertado o interesse de[n]alguém da sua idade.[n][w][e]
 
-[msg MSG_C19_MGK_00_04 [Oratore di strada]]
+[msg MSG_C19_MGK_00_04 [Orador de rua]]
 [s][bup 0 112 3 0 0][f 4 10 65535 0 0][f 4 23 1 219 3 10 0 10][vp 8 2 1 20021 65535 0]Mmm, a ajuda de um jovem pode ser adequada para[n]mim, mas não posso contratá-lo se você não tiver[n]experiência.[n][w][e]
 [s][bup 0 112 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu realmente sinto muito. Em todo caso,[n]me agradará se você parar e ouvir[n]outro de meus discursos.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]...Bem, acho que[n]isso é tudo por hoje.[n]Eu estou indo para o Beef Bowl Shop...[n][w][e]
@@ -148,14 +148,14 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]Ei, você notou? Aquele cara[n]estava no Beef Bowl Shop agora há pouco.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Talvez ele deixe você ajudá-lo,[n][clr 2]se você trabalhar meio período[n]no Beef Bowl Shop[clr 27].[n][w][e]
 
-[msg MSG_C19_MGK_00_06 [Oratore di strada]]
+[msg MSG_C19_MGK_00_06 [Orador de rua]]
 [s][bup 0 112 0 0 0][f 4 10 65535 0 0][f 4 23 1 219 3 10 0 10][vp 8 2 1 20038 65535 0]...Hã? Por acaso, eu já vi você[n]em algum lugar...?[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Oh sim. Você estava trabalhando na Beef[n]Bowl Shop! Você parece ter caráter,[n]para alguém tão jovem.[n][w][e]
 
-[msg MSG_C19_MGK_00_07 [Oratore di strada]]
+[msg MSG_C19_MGK_00_07 [Orador de rua]]
 [s][bup 0 112 0 0 0][f 4 10 65535 0 0][f 4 23 1 219 3 10 0 10][vp 8 2 1 20064 65535 0]É assim mesmo? Bem, por favor, desculpe-me.[n][w][e]
 
-[msg MSG_C19_MGK_00_08 [Oratore di strada]]
+[msg MSG_C19_MGK_00_08 [Orador de rua]]
 [s][bup 0 112 1 0 0][f 4 10 65535 0 0][f 4 23 1 219 3 10 0 10][vp 8 2 1 20058 65535 0]Bem, se você estiver interessado, saiba que[n]sua ajuda pode ser útil.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Quero trazer mudanças[n]a este país e, para isso,[n]preciso de jovens.[n][w][e]
 [s][bup 0 112 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]No entanto, devido a alguns[n]regulamentos, não posso[n]oferecer um emprego a um aluno.[n][w][e]
@@ -165,15 +165,15 @@
 [s]Eu adoraria.[e]
 [s]Não, obrigado.[e]
 
-[msg MSG_C19_MGK_00_10 [Oratore di strada]]
+[msg MSG_C19_MGK_00_10 [Orador de rua]]
 [s][bup 0 112 1 0 0][f 4 10 65535 0 0][f 4 23 1 219 3 10 0 10][vp 8 2 1 0 65535 0]Sério?!? Isso[n]me ajudaria muito![n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Bem, então... posso[n]pedir seu nome[n]e informações de contato?[n][w][e]
 
-[msg MSG_C19_MGK_00_11 [Oratore di strada]]
+[msg MSG_C19_MGK_00_11 [Orador de rua]]
 [s][bup 0 112 0 0 0][f 4 10 65535 0 0][f 4 23 1 219 3 10 0 10][vp 8 2 1 20064 65535 0]Que pena...[n]Eu posso entender, no entanto.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Vou dar outra palestra amanhã,[n]bem aqui. Ficarei muito satisfeito,[n]se você vier para ajudar.[n][w][e]
 
-[msg MSG_C19_MGK_00_12 [Oratore di strada]]
+[msg MSG_C19_MGK_00_12 [Orador de rua]]
 [s][bup 0 112 0 0 0][f 4 10 65535 0 0][f 4 23 1 219 3 10 0 10][vp 8 2 1 0 65535 0]Você é aluno da Shujin[n]Academy? Prazer em conhecê-lo.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Meu nome é Toranosuke Yoshida.[n][w][e]
 

@@ -1,4 +1,4 @@
-[msg D05_02_e341_064_ng_mes01 [Voce guida]]
+[msg D05_02_e341_064_ng_mes01 [Voz guia]]
 [s]ATUALIZAÇÃO DO SISTEMA EM ANDAMENTO[n]PAINEL DE CONTROLE DO[n]BRAÇO MECÂNICO.[n][w][e]
 [s]POR FAVOR, AGUARDE.[n][w][e]
 
@@ -12,7 +12,7 @@
 [msg D05_02_e341_064_mes03 [Ann]]
 [s][bup 0 4 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6038 65535 0]Aposto que bloqueá-lo por muito tempo em 10x irá[n]quebrá-lo.[n][w][e]
 
-[msg D05_02_e341_064_mes04 [Voce guida]]
+[msg D05_02_e341_064_mes04 [Voz guia]]
 [s]MUDE A VELOCIDADE DO BRAÇO![n][w][e]
 
 [sel D05_02_e341_064_selA top]
@@ -49,7 +49,7 @@
 [s][bup 0 7 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 3019 65535 0]Espere, não poderia[n]andar no[n]braço danificado?[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos conferir, Joker![n][w][e]
 
-[msg D05_02_e341_064_af_mes01 [Voce guida]]
+[msg D05_02_e341_064_af_mes01 [Voz guia]]
 [s]MUDE A VELOCIDADE DO BRAÇO![n][w][e]
 
 [sel D05_02_e341_064_selB top]

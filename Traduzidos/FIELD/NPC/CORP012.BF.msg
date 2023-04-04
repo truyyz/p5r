@@ -1,24 +1,24 @@
-[msg MSG_C12_PRECOOP_FACILITY [Manager scontroso]]
+[msg MSG_C12_PRECOOP_FACILITY [Gerente mal-humorado]]
 [s][bup 0 104 0 0 0][f 4 10 65535 0 0][f 4 23 1 212 49 10 40 10][vp 8 2 1 13043 65535 0]Você esclareceu suas ideias?[n][w][e]
 
-[msg MSG_C12_PRECOOP_UI_00 [Manager scontroso]]
+[msg MSG_C12_PRECOOP_UI_00 [Gerente mal-humorado]]
 [s][bup 0 104 0 0 0][f 4 10 65535 0 0][f 4 23 1 212 49 10 40 10][vp 8 2 1 13043 65535 0]...Essa é praticamente a única[n]coisa que posso vender[n]a uma criança.[n][w][e]
 
-[msg MSG_C12_PRECOOP_UI_01 [Manager scontroso]]
+[msg MSG_C12_PRECOOP_UI_01 [Gerente mal-humorado]]
 [s][bup 0 104 0 0 0][f 4 10 65535 0 0][f 4 23 1 212 49 10 40 10][vp 8 2 1 0 65535 0]Volte novamente.[n][w][e]
 
-[msg MSG_C12_PRECOOP_KFEEVT_0 [Manager scontroso]]
+[msg MSG_C12_PRECOOP_KFEEVT_0 [Gerente mal-humorado]]
 [s][bup 0 104 0 0 0][f 4 10 65535 0 0][f 4 23 1 212 49 10 40 10][vp 8 2 1 13073 65535 0]...Huh? Você novamente?[n]O que você quer?[n][w][e]
 
 [sel SEL_C12_PRECOOP_KFEEVT_0 top]
 [s]Eu gostaria de te vender isso.[e]
 [s]Eu preciso de dinheiro.[e]
 
-[msg MSG_C12_PRECOOP_KFEEVT_0_2 [Manager scontroso]]
+[msg MSG_C12_PRECOOP_KFEEVT_0_2 [Gerente mal-humorado]]
 [s][bup 0 104 0 0 0][f 4 10 65535 0 0][f 4 23 1 212 49 10 40 10][vp 8 2 1 0 65535 0]Huh? Uma medalha de ouro?[n]Como você consegue?[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Não compramos coisas falsas ou roubadas, garoto.[n][w][e]
 
-[msg MSG_C12_PRECOOP_KFEEVT_0_3 [Manager scontroso]]
+[msg MSG_C12_PRECOOP_KFEEVT_0_3 [Gerente mal-humorado]]
 [s][bup 0 104 0 0 0][f 4 23 1 212 49 10 40 10][f 4 10 65535 0 0][vp 8 2 1 13018 65535 0]...Espere um segundo. Deixe-me ver...[n][w][e]
 
 [msg MSG_C12_PRECOOP_00_00 [Iwai]]
@@ -322,7 +322,7 @@
 
 [msg MND_C12_COOP_07_12]
 [s]Eu adquiri o nome de Tsuda.[n]Ao despertar seu coração, eu poderia[n]influenciar o negócio.[n][w][e]
-[s]Vamos ao Memento para[n]despertar o coração de Tsuda...[n][w][e]
+[s]Vamos ao Mementos para[n]despertar o coração de Tsuda...[n][w][e]
 
 [msg MSG_C12_COOP_07_02 [Iwai]]
 [s][bup 0 104 0 0 0][f 4 10 65535 0 0][f 4 23 1 212 49 10 40 10][vp 8 2 1 0 65535 0]Tsuda me ligou.[n]Eu gostaria de deixar você saber[n]todos os detalhes. Tens tempo?[n][w][e]

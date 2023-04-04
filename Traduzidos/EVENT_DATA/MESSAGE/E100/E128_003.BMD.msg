@@ -105,7 +105,7 @@
 [msg MSG_034_0_0 [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 36 65535 0]Então eu irei.[n][f 1 3 65535][w][e]
 
-[msg MSG_035_0_0 [Navigatore del Metaverso]]
+[msg MSG_035_0_0 [Navegador do Metaverso]]
 [s][vp 8 0 0 37 65535 0]Kamoshida...Academia Shujin...[n]Pervertido...Castelo...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 38 65535 0]Iniciando a navegação.[n][f 1 3 65535][w][e]
 
@@ -124,6 +124,6 @@
 [msg MSG_040_0_0 [Ryuji]]
 [s][bup 0 2 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 43 65535 0]Que diabos?!?[n][f 1 3 65535][w][e]
 
-[msg MSG_041_0_0 [Navigatore del Metaverso]]
+[msg MSG_041_0_0 [Navegador do Metaverso]]
 [s][vp 8 0 0 44 65535 0]Você chegou ao seu[n]destino. Terminar a navegação.[n][f 1 3 65535][w][e]
 

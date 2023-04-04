@@ -40,13 +40,13 @@
 [msg MSG_011_0_0 [Hifumi]]
 [s][bup 0 106 0 4 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Com licença... Por acaso você ainda tem[n]bolos de Natal?[n][f 1 3 65535][w][e]
 
-[msg MSG_012_0_0 [Dipendente allegra]]
+[msg MSG_012_0_0 [Empregado alegre]]
 [s][f 4 10 65535 0 0][vp 8 0 0 14 8 0]Na verdade sim![n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Hifumi]]
 [s][bup 0 106 4 4 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Assim como você pensa... Hã?[n][f 1 3 65535][w][e]
 
-[msg MSG_014_0_0 [Dipendente allegra]]
+[msg MSG_014_0_0 [Empregado alegre]]
 [s][f 4 10 65535 0 0][vp 8 0 0 16 8 0]Eles cancelaram um pedido[n]no último minuto.[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Hifumi]]
@@ -55,7 +55,7 @@
 [msg MSG_016_0_0 [Hifumi]]
 [s][bup 0 106 1 4 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Gostaríamos de comprá-lo.[n][f 1 3 65535][w][e]
 
-[msg MSG_017_0_0 [Dipendente allegra]]
+[msg MSG_017_0_0 [Empregado alegre]]
 [s][f 4 10 65535 0 0][vp 8 0 0 19 8 0]É claro! Eu irei um segundo[n]para prepará-lo para você![n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Hifumi]]

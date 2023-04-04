@@ -10,7 +10,7 @@
 [s]Togo-san?[e]
 [s]Hifumi-chan?[e]
 
-[msg MSG_C17_PREOPEN_00_10 [Studentessa giocatrice di shogi]]
+[msg MSG_C17_PREOPEN_00_10 [Aluno jogador shogi]]
 [s][bup 0 106 3 65535 0][f 4 23 1 217 14 10 13 10][vp 8 2 1 18028 65535 0]......[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]...Você me confundiu com outra pessoa.[n][w][e]
 
@@ -21,13 +21,13 @@
 [msg MND_C17_PREOPEN_00_12]
 [s]Se meu [f 4 11 1][clr 26][f 4 12 1][clr 27] fosse[n]nível [clr 26][f 4 13 1 3][clr 27], talvez eu[n]ouviria ...[n][w][e]
 
-[msg MSG_C17_PREOPEN_01_00 [Studentessa giocatrice di shogi]]
+[msg MSG_C17_PREOPEN_01_00 [Aluno jogador shogi]]
 [s][bup 0 106 4 65535 0][f 4 10 65535 0 0][f 4 23 1 217 14 10 13 10][vp 8 2 1 18040 65535 0]Hum... Sim...?[n][w][e]
 
 [msg MND_C17_PREOPEN_01_00_1]
 [s]Meu indiscutível [f 4 11 1][clr 26][f 4 12 1][n][clr 27] parece impressionar Hifumi.[n][w][e]
 
-[msg MSG_C17_PREOPEN_01_00_2 [Studentessa giocatrice di shogi]]
+[msg MSG_C17_PREOPEN_01_00_2 [Aluno jogador shogi]]
 [s][bup 0 106 4 65535 0][f 4 10 65535 0 0][f 4 23 1 217 14 10 13 10][vp 8 2 1 0 65535 0]Eu sou Hifumi Togo...[n][w][e]
 
 [sel SEL_C17_PREOPEN_01_01 top]
@@ -241,7 +241,7 @@
 
 [msg MND_C17_COOP_07_11]
 [s]Hifumi está preocupada.[n]Ela não sabe o que fazer...[n][w][e]
-[s]Eu tenho o nome de sua mãe.[n]Vamos para Memento[n]e despertar seu coração...[n][w][e]
+[s]Eu tenho o nome de sua mãe.[n]Vamos para Mementos[n]e despertar seu coração...[n][w][e]
 
 [msg MSG_C17_COOP_07_20 [Hifumi]]
 [s][bup 0 106 0 65535 0][f 4 10 65535 0 0][f 4 23 1 217 14 10 13 10][vp 8 2 1 0 65535 0]...O fato é que... algo[n]inesperado aconteceu...[n][w][e]

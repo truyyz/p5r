@@ -16,13 +16,13 @@
 [msg MSG_005_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Na verdade, será a primeira vez que[n]falo com uma mulher sem[n]pedir que ela me modele.[n][f 1 3 65535][w][e]
 
-[msg MSG_006_0_0 [Donna timida in costume]]
+[msg MSG_006_0_0 [Mulher tímida em traje de banho]]
 [s][vp 8 0 0 0 65535 0]Nadar tanto me deixou exausto.[n]Talvez seja hora[n]de deitar um pouco...[n][f 1 3 65535][w][e]
 
-[msg MSG_007_0_0 [Donna sexy in costume]]
+[msg MSG_007_0_0 [Mulher sexy em traje de banho]]
 [s][vp 8 0 0 0 65535 0]Eheheh... Você realmente precisa[n]de um menino bonito, sabe?[n][f 1 3 65535][w][e]
 
-[msg MSG_008_0_0 [Donna timida in costume]]
+[msg MSG_008_0_0 [Mulher tímida em traje de banho]]
 [s][vp 8 0 0 0 65535 0]Não vamos tocar nesse assunto![n]Não posso pensar[n]em um namorado agora...[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Ryuji]]
@@ -56,7 +56,7 @@
 [msg MSG_017_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vamos! Você pode comprar essas coisas no[n]supermercado também! Que diabos![n][f 1 3 65535][w][e]
 
-[msg MSG_018_0_0 [Donna sexy in costume]]
+[msg MSG_018_0_0 [Mulher sexy em traje de banho]]
 [s][vp 8 0 0 0 65535 0]Oh...? Precisa de alguma coisa?[n][f 1 3 65535][w][e]
 
 [sel SEL_019_0_0 top]
@@ -64,26 +64,26 @@
 [s]Você é linda.[e]
 [s]Vamos dar um mergulho?[e]
 
-[msg MSG_020_0_0 [Donna timida in costume]]
+[msg MSG_020_0_0 [Mulher tímida em traje de banho]]
 [s][vp 8 0 0 0 65535 0]E quem são esses?[n]Você os conhece?[n][f 1 3 65535][w][e]
 
-[msg MSG_021_0_0 [Donna sexy in costume]]
+[msg MSG_021_0_0 [Mulher sexy em traje de banho]]
 [s][vp 8 0 0 0 65535 0]Parece que eles querem nos conhecer.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Eheheh... Bem, já que você está ocupado[n]tanto... OK, vamos conversar.[n][f 1 3 65535][w][e]
 
-[msg MSG_022_0_0 [Donna sexy in costume]]
+[msg MSG_022_0_0 [Mulher sexy em traje de banho]]
 [s][vp 8 0 0 0 65535 0]Oooh, sério?[n]É bom ouvir você dizer isso.[n][f 1 3 65535][w][e]
 
-[msg MSG_023_0_0 [Donna timida in costume]]
+[msg MSG_023_0_0 [Mulher tímida em traje de banho]]
 [s][vp 8 0 0 0 65535 0]Ei, eles estão tentando[n]nos pegar...?[n][f 1 3 65535][w][e]
 
-[msg MSG_024_0_0 [Donna sexy in costume]]
+[msg MSG_024_0_0 [Mulher sexy em traje de banho]]
 [s][vp 8 0 0 0 65535 0]É provável. Bem, parece que[n]eles estão se esforçando muito,[n]vamos satisfazê-los por um tempo.[n][f 1 3 65535][w][e]
 
-[msg MSG_025_0_0 [Donna timida in costume]]
+[msg MSG_025_0_0 [Mulher tímida em traje de banho]]
 [s][vp 8 0 0 0 65535 0]Hum, talvez não agora... Eu estava apenas[n]dizendo o quão cansado eu estava...[n][f 1 3 65535][w][e]
 
-[msg MSG_026_0_0 [Donna sexy in costume]]
+[msg MSG_026_0_0 [Mulher sexy em traje de banho]]
 [s][vp 8 0 0 0 65535 0]Não é por isso que você está aqui,[n]ou estou errado? Vamos, cuspa.[n][f 1 3 65535][w][e]
 
 [msg MSG_027_0_0 [Ryuji]]
@@ -175,40 +175,40 @@
 [s]Sim, nós fazemos isso.[e]
 [s]Não, quero pensar melhor.[e]
 
-[msg MSG_052_0_0 [Donna timida in costume]]
+[msg MSG_052_0_0 [Mulher tímida em traje de banho]]
 [s][vp 8 0 0 0 65535 0]M-Mas é assustador... Por que[n]você está me olhando assim...?[n][f 1 3 65535][w][e]
 
-[msg MSG_053_0_0 [Donna sexy in costume]]
+[msg MSG_053_0_0 [Mulher sexy em traje de banho]]
 [s][vp 8 0 0 0 65535 0]Você está tentando[n]tonificar a si mesmo ou o quê?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Olha, foi você quem se aproximou de você,[n]mas não adianta[n]se você não abrir a boca.[n][f 1 3 65535][w][e]
 
 [msg MSG_054_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ei, eles estão perdendo o interesse![n]Não deveríamos tentar[n]algo diferente?[n][f 1 3 65535][w][e]
 
-[msg MSG_055_0_0 [Donna timida in costume]]
+[msg MSG_055_0_0 [Mulher tímida em traje de banho]]
 [s][vp 8 0 0 0 65535 0]Oh, você é de Shujin! Segundo[n]ano, certo? Ano passado eu[n]estive no seu festival cultural.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Eu invejo você, sua escola é tão perto de[n]Shibuya! Explorar essa área será fácil para[n]você...[n][f 1 3 65535][w][e]
 
-[msg MSG_056_0_0 [Donna sexy in costume]]
+[msg MSG_056_0_0 [Mulher sexy em traje de banho]]
 [s][vp 8 0 0 0 65535 0]Você não estava me dizendo antes o quanto[n]gostaria de fazer amizade com alguém de Shujin?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Por que vocês não trocam contatos?[n][f 1 3 65535][w][e]
 
-[msg MSG_057_0_0 [Donna timida in costume]]
+[msg MSG_057_0_0 [Mulher tímida em traje de banho]]
 [s][vp 8 0 0 0 65535 0]Não sei...[n]tenho um pouco de vergonha...[n][f 1 3 65535][w][e]
 
 [msg MSG_058_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você acertou, cara! A partir desta[n]etapa iremos ao gol![n][f 1 3 65535][w][e]
 
-[msg MSG_059_0_0 [Donna timida in costume]]
+[msg MSG_059_0_0 [Mulher tímida em traje de banho]]
 [s][vp 8 0 0 0 65535 0]U-Um namorado?!? Hum, bem...[n][f 1 3 65535][w][e]
 
-[msg MSG_060_0_0 [Donna sexy in costume]]
+[msg MSG_060_0_0 [Mulher sexy em traje de banho]]
 [s][vp 8 0 0 0 65535 0]Você me disse que estava[n]procurando por um, lembra?[n][f 1 3 65535][w][e]
 
-[msg MSG_061_0_0 [Donna timida in costume]]
+[msg MSG_061_0_0 [Mulher tímida em traje de banho]]
 [s][vp 8 0 0 0 65535 0]N-Não deixe escapar assim![n]Você, melhor...?[n][f 1 3 65535][w][e]
 
-[msg MSG_062_0_0 [Donna sexy in costume]]
+[msg MSG_062_0_0 [Mulher sexy em traje de banho]]
 [s][vp 8 0 0 0 65535 0]Bem, eu também não estou noivo.[n]Eheheh...[n][f 1 3 65535][w][e]
 
 [msg MSG_063_0_0 [Ryuji]]
@@ -218,13 +218,13 @@
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E-Ei, um... Sooora...[n]Bem, meninas,[n]se estiver tudo bem para vocês... vocês gostariam de...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Não, não é assim...[n]Não posso simplesmente perguntar[n]se eles querem vir conosco...[n][f 1 3 65535][w][e]
 
-[msg MSG_065_0_0 [Donna timida in costume]]
+[msg MSG_065_0_0 [Mulher tímida em traje de banho]]
 [s][vp 8 0 0 0 65535 0]U-Uh? Esse cara é assustador...[n][f 1 3 65535][w][e]
 
 [msg MSG_066_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Urgh, para o inferno com essa besteira![n]Então, você quer vir conosco ou não?[n][f 1 3 65535][w][e]
 
-[msg MSG_067_0_0 [Donna sexy in costume]]
+[msg MSG_067_0_0 [Mulher sexy em traje de banho]]
 [s][vp 8 0 0 0 65535 0]Hmm...?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Você faz meu coração disparar, sabia...?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Você é mais viril do que aparenta, e... você está[n]com sorte. Eu tenho uma penetração para homens[n]agressivos.[n][f 1 3 65535][w][e]
@@ -235,19 +235,19 @@
 [msg MSG_069_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Meninas, eeehm... vocês ficam muito[n]bem de maiô, não é?[n][f 1 3 65535][w][e]
 
-[msg MSG_070_0_0 [Donna timida in costume]]
+[msg MSG_070_0_0 [Mulher tímida em traje de banho]]
 [s][vp 8 0 0 0 65535 0]O que era? Uma pergunta?[n][f 1 3 65535][w][e]
 
 [msg MSG_071_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Q-Quero dizer, uh... Absolutamente.[n]Você também tem panturrilhas bonitas,[n]quem sabe o quão rápido você é.[n][f 1 3 65535][w][e]
 
-[msg MSG_072_0_0 [Donna sexy in costume]]
+[msg MSG_072_0_0 [Mulher sexy em traje de banho]]
 [s][vp 8 0 0 0 65535 0]Quer dizer que temos[n]pernas grossas?[n][f 1 3 65535][w][e]
 
 [msg MSG_073_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não, eu não disse isso! Erm...[n]Você tem um bronzeado muito bom![n]Sim, ótimo![n][f 1 3 65535][w][e]
 
-[msg MSG_074_0_0 [Donna timida in costume]]
+[msg MSG_074_0_0 [Mulher tímida em traje de banho]]
 [s][vp 8 0 0 0 65535 0]Mas se eu sempre uso[n]protetor solar...[n][f 1 3 65535][w][e]
 
 [msg MSG_075_0_0 [Ryuji]]
@@ -259,25 +259,25 @@
 [msg MSG_077_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]OK, vou perguntar sem muitas[n]meios de palavras... Que tipo[n]de caras você gosta?[n][f 1 3 65535][w][e]
 
-[msg MSG_078_0_0 [Donna sexy in costume]]
+[msg MSG_078_0_0 [Mulher sexy em traje de banho]]
 [s][vp 8 0 0 0 65535 0]Bem... Esses Ladrões Fantasmas, por exemplo. Eles[n]chamaram minha atenção. E aí todo mundo fala[n]sobre isso.[n][f 1 3 65535][w][e]
 
 [msg MSG_079_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]S-Sério? E o que[n]você gosta neles?!?[n][f 1 3 65535][w][e]
 
-[msg MSG_080_0_0 [Donna sexy in costume]]
+[msg MSG_080_0_0 [Mulher sexy em traje de banho]]
 [s][vp 8 0 0 0 65535 0]O charme que exalam. É tudo[n]tão misterioso...aventureiro...[n]eu adoraria sair com eles.[n][f 1 3 65535][w][e]
 
-[msg MSG_081_0_0 [Donna timida in costume]]
+[msg MSG_081_0_0 [Mulher tímida em traje de banho]]
 [s][vp 8 0 0 0 65535 0]Sim, eles são tão legais! Eu gostaria[n]de poder conhecer um deles...[n][f 1 3 65535][w][e]
 
 [msg MSG_082_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]B-Bem, então... por que não[n]sai com um de nós?!?[n]Não somos pelo menos um pouco parecidos com ele?[n][f 1 3 65535][w][e]
 
-[msg MSG_083_0_0 [Donna sexy in costume]]
+[msg MSG_083_0_0 [Mulher sexy em traje de banho]]
 [s][vp 8 0 0 0 65535 0]Mmm ... Eu realmente não acho que[n]você tem esse charme. Ladrões de verdade[n]são muito mais galantes.[n][f 1 3 65535][w][e]
 
-[msg MSG_084_0_0 [Donna timida in costume]]
+[msg MSG_084_0_0 [Mulher tímida em traje de banho]]
 [s][vp 8 0 0 0 65535 0]Todas as crianças tentam imitar[n]os Phantom Thieves, mas[n]não há comparação com os verdadeiros![n][f 1 3 65535][w][e]
 
 [msg MSG_085_0_0 [Ryuji]]
@@ -289,26 +289,26 @@
 [msg MSG_087_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][vp 1 0 0 0 0 0]......[n][f 1 3 65535][w][e]
 
-[msg MSG_088_0_0 [Donna timida in costume]]
+[msg MSG_088_0_0 [Mulher tímida em traje de banho]]
 [s][vp 8 0 0 0 65535 0]Huh...? O-O que é?[n][f 1 3 65535][w][e]
 
 [msg MSG_089_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu estava tentando descobrir qual[n]composição destacaria[n]suas características em um retrato.[n][f 1 3 65535][w][e]
 
-[msg MSG_090_0_0 [Donna sexy in costume]]
+[msg MSG_090_0_0 [Mulher sexy em traje de banho]]
 [s][vp 8 0 0 0 65535 0]Uh, você é um artista?[n]Eu sempre quis[n]ser modelo para uma pintura.[n][f 1 3 65535][w][e]
 
 [msg MSG_091_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...No entanto, suas fantasias[n]são as mais medíocres[n]imagináveis.[n][f 1 3 65535][w][e]
 
-[msg MSG_092_0_0 [Donna timida in costume]]
+[msg MSG_092_0_0 [Mulher tímida em traje de banho]]
 [s][vp 8 0 0 0 65535 0]V-Você está dizendo que[n]eles não nos dão dinheiro?[n][f 1 3 65535][w][e]
 
 [msg MSG_093_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]De jeito nenhum. Eu só acredito que uma[n]mulher em sua nudez representa melhor[n]a beleza humana.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]O perfil sinuoso de suas fluidas[n]e formas poéticas é a arte em sua[n]mais alta e pura expressão![n][f 1 3 65535][w][e]
 
-[msg MSG_094_0_0 [Donna sexy in costume]]
+[msg MSG_094_0_0 [Mulher sexy em traje de banho]]
 [s][vp 8 0 0 0 65535 0]Hehehe... concordo. Eu sempre[n]quis ser como uma[n]daquelas estátuas clássicas.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Mmm, parece que você é tão apaixonado por arte.[n]Talvez um dia eu possa posar nua para você.[n][f 1 3 65535][w][e]
 
@@ -320,23 +320,23 @@
 [s][vp 8 0 0 0 65535 0]Van Gogh, Renoir, Monet, Gauguin...[n]Todos tentaram[n]replicar sua beleza.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]A arte está em constante evolução,[n]você não acha? Suas possibilidades[n]são ilimitadas, para dizer o mínimo.[n][f 1 3 65535][w][e]
 
-[msg MSG_097_0_0 [Donna sexy in costume]]
+[msg MSG_097_0_0 [Mulher sexy em traje de banho]]
 [s][vp 8 0 0 0 65535 0]Não entendo o que você quer dizer, mas... você[n]sabe muito. Eu também posso gostar de um homem[n]educado.[n][f 1 3 65535][w][e]
 
-[msg MSG_098_0_0 [Donna timida in costume]]
+[msg MSG_098_0_0 [Mulher tímida em traje de banho]]
 [s][vp 8 0 0 0 65535 0]Mm-hm, eu gosto dessas histórias![n]Você pode nos contar mais?[n][f 1 3 65535][w][e]
 
 [msg MSG_099_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bem, você sabia que Van Gogh[n]enfermidade mental o levou a[n]atacar Gauguin com uma navalha?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]No entanto, ele falhou em seu ataque e,[n]em um ataque de automutilação,[n]amputou a própria orelha.[n][f 1 3 65535][w][e]
 
-[msg MSG_100_0_0 [Donna timida in costume]]
+[msg MSG_100_0_0 [Mulher tímida em traje de banho]]
 [s][vp 8 0 0 0 65535 0]Hã...?[n][f 1 3 65535][w][e]
 
 [msg MSG_101_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mais tarde, ele colocou a orelha em um[n]envelope e o enviou para uma prostituta.[n]Van Gogh estava coberto de sangue...[n][f 1 3 65535][w][e]
 
-[msg MSG_102_0_0 [Donna timida in costume]]
+[msg MSG_102_0_0 [Mulher tímida em traje de banho]]
 [s][vp 8 0 0 0 65535 0]Aaah...! Não... Chega![n][f 1 3 65535][w][e]
 
 [msg MSG_103_0_0 [Ryuji]]
@@ -345,20 +345,20 @@
 [msg MSG_104_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu tenho uma proposta...[n]Que tal nos encontrarmos[n]em outra ocasião?[n][f 1 3 65535][w][e]
 
-[msg MSG_105_0_0 [Donna timida in costume]]
+[msg MSG_105_0_0 [Mulher tímida em traje de banho]]
 [s][vp 8 0 0 0 65535 0]Huh? Em que sentido?[n][f 1 3 65535][w][e]
 
 [msg MSG_106_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você poderia nos deixar seu número de telefone?[n]Gostaríamos[n]de vê-lo em outro lugar.[n][f 1 3 65535][w][e]
 
-[msg MSG_107_0_0 [Donna sexy in costume]]
+[msg MSG_107_0_0 [Mulher sexy em traje de banho]]
 [s][vp 8 0 0 0 65535 0]Hahaha! Você pode ser um cara[n]legal, mas tem um jeito muito estranho[n]de convidar para um encontro.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Mas é gentil da sua parte.[n]Às vezes é bom ver[n]um cara que é diferente do normal.[n][f 1 3 65535][w][e]
 
 [msg MSG_108_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Isso é um elogio ou você[n]está tirando sarro de mim...?[n][f 1 3 65535][w][e]
 
-[msg MSG_109_0_0 [Donna sexy in costume]]
+[msg MSG_109_0_0 [Mulher sexy em traje de banho]]
 [s][vp 8 0 0 0 65535 0]É um elogio, não se preocupe.[n]Você se interessa por mulheres[n]mais velhas que você? Heheheh...[n][f 1 3 65535][w][e]
 
 [msg MSG_110_0_0 [Ryuji]]
@@ -452,14 +452,14 @@
 [s]Sim, nós fazemos isso.[e]
 [s]Não, quero pensar melhor.[e]
 
-[msg MSG_137_0_0 [Donna sexy in costume]]
+[msg MSG_137_0_0 [Mulher sexy em traje de banho]]
 [s][vp 8 0 0 0 65535 0]Oh? Você quer meu número?[n]I...um...Parece[n]tudo tão repentino...[n][f 1 3 65535][w][e]
 
-[msg MSG_138_0_0 [Donna timida in costume]]
+[msg MSG_138_0_0 [Mulher tímida em traje de banho]]
 [s][vp 8 0 0 0 65535 0]Não seja tão tímido.[n]Você não tem motivo[n]para não aceitar a oferta dele.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Eu aprecio homens que usam[n]uma abordagem tão direta.[n]Eles demonstram masculinidade e confiança.[n][f 1 3 65535][w][e]
 
-[msg MSG_139_0_0 [Donna sexy in costume]]
+[msg MSG_139_0_0 [Mulher sexy em traje de banho]]
 [s][vp 8 0 0 0 65535 0]Mmm, sim... Talvez possa ser feito...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]N-Não, espera! Ainda é[n]muito embaraçoso![n]Eu mal o conheço...[n][f 1 3 65535][w][e]
 
@@ -470,25 +470,25 @@
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não sou do tipo que[n]testa as águas, então[n]serei bem direto...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Estamos aqui para roubar seu coração![n][f 1 3 65535][w][e]
 
-[msg MSG_142_0_0 [Donna timida in costume]]
+[msg MSG_142_0_0 [Mulher tímida em traje de banho]]
 [s][vp 8 0 0 0 65535 0]...Você está tentando imitar[n]os Phantom Thieves?[n][f 1 3 65535][w][e]
 
-[msg MSG_143_0_0 [Donna sexy in costume]]
+[msg MSG_143_0_0 [Mulher sexy em traje de banho]]
 [s][vp 8 0 0 0 65535 0]Você acha que agir como[n]eles te deixa mais interessante, hein?[n]Eheheh... Que fofo você é...[n][f 1 3 65535][w][e]
 
 [msg MSG_144_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não estou imitando ninguém![n]Não somos nem um pouco parecidos com ele?[n][f 1 3 65535][w][e]
 
-[msg MSG_145_0_0 [Donna sexy in costume]]
+[msg MSG_145_0_0 [Mulher sexy em traje de banho]]
 [s][vp 8 0 0 0 65535 0]Hum, eu não sei... Mas devo dizer[n]que sua abordagem tão direta[n]tinha algo de muito viril...[n][f 1 3 65535][w][e]
 
-[msg MSG_146_0_0 [Donna timida in costume]]
+[msg MSG_146_0_0 [Mulher tímida em traje de banho]]
 [s][vp 8 0 0 0 65535 0]Já. Na verdade, estou começando a me sentir[n]como oprimido pelo poder dos Phantom Thieves[n][f 1 3 65535][w][e]
 
 [msg MSG_147_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Oooh, sério?!? Então você também[n]acha que eles são legais![n][f 1 3 65535][w][e]
 
-[msg MSG_148_0_0 [Donna timida in costume]]
+[msg MSG_148_0_0 [Mulher tímida em traje de banho]]
 [s][vp 8 0 0 0 65535 0]Ah, você também é fã?[n]Eu adoraria participar[n]de uma reunião do fã-clube.[n][f 1 3 65535][w][e]
 
 [msg MSG_149_0_0 [Yusuke]]
@@ -497,60 +497,60 @@
 [msg MSG_150_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Por que não vamos conversar[n]em outro lugar? Este lugar[n]não é adequado para conversas.[n][f 1 3 65535][w][e]
 
-[msg MSG_151_0_0 [Donna timida in costume]]
+[msg MSG_151_0_0 [Mulher tímida em traje de banho]]
 [s][vp 8 0 0 0 65535 0]U-Hum, não sei...[n][f 1 3 65535][w][e]
 
 [msg MSG_152_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não gosto de lugares barulhentos como[n]este. Não consigo me concentrar,[n]se não houver silêncio.[n][f 1 3 65535][w][e]
 
-[msg MSG_153_0_0 [Donna timida in costume]]
+[msg MSG_153_0_0 [Mulher tímida em traje de banho]]
 [s][vp 8 0 0 0 65535 0]É melhor[n]não ter ideias...[n][f 1 3 65535][w][e]
 
 [msg MSG_154_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu nunca faria algo assim.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Mesmo que, às vezes, eu peça a mulheres[n]que se desnudem e posem para mim.[n][f 1 3 65535][w][e]
 
-[msg MSG_155_0_0 [Donna sexy in costume]]
+[msg MSG_155_0_0 [Mulher sexy em traje de banho]]
 [s][vp 8 0 0 0 65535 0]...E você acha que iremos com você,[n]depois de ouvir tal coisa?[n]Você é apenas um sujeito suspeito.[n][f 1 3 65535][w][e]
 
 [msg MSG_156_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Merda, ele estragou o clima![n]O que vamos fazer agora?!?[n][f 1 3 65535][w][e]
 
-[msg MSG_157_0_0 [Donna timida in costume]]
+[msg MSG_157_0_0 [Mulher tímida em traje de banho]]
 [s][vp 8 0 0 0 65535 0]Vocês três ficaram[n]muito diferentes do que eu esperava.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Para dizer a verdade, eu estava[n]um pouco preocupado no começo...[n]mas gostei de conversar com você.[n][f 1 3 65535][w][e]
 
-[msg MSG_158_0_0 [Donna sexy in costume]]
+[msg MSG_158_0_0 [Mulher sexy em traje de banho]]
 [s][vp 8 0 0 0 65535 0]OK. A princípio pensei em mandar você[n]para o inferno, mas devo dizer[n]que no final gostei.[n][f 1 3 65535][w][e]
 
 [msg MSG_159_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sério? Então porque não...[n][f 1 3 65535][w][e]
 
-[msg MSG_160_0_0 [Donna timida in costume]]
+[msg MSG_160_0_0 [Mulher tímida em traje de banho]]
 [s][vp 8 0 0 0 65535 0]*suspiro* Toda essa conversa[n]me deixou meio com fome.[n][f 1 3 65535][w][e]
 
-[msg MSG_161_0_0 [Donna sexy in costume]]
+[msg MSG_161_0_0 [Mulher sexy em traje de banho]]
 [s][vp 8 0 0 0 65535 0]Sim, ainda não almoçamos.[n][f 1 3 65535][w][e]
 
 [msg MSG_162_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Oh! Podemos comprar algo para você e...[n][f 1 3 65535][w][e]
 
-[msg MSG_163_0_0 [Donna timida in costume]]
+[msg MSG_163_0_0 [Mulher tímida em traje de banho]]
 [s][vp 8 0 0 0 65535 0]Hum... Terminamos?[n]Não estou nem um pouco interessado...[n][f 1 3 65535][w][e]
 
-[msg MSG_164_0_0 [Donna sexy in costume]]
+[msg MSG_164_0_0 [Mulher sexy em traje de banho]]
 [s][vp 8 0 0 0 65535 0]Essa conversa me deixou com sono. Eu realmente[n]acho que vou tirar uma soneca.[n][f 1 3 65535][w][e]
 
 [msg MSG_165_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E-Ei, espere![n]Estamos apenas começando e...[n][f 1 3 65535][w][e]
 
-[msg MSG_166_0_0 [Donna timida in costume]]
+[msg MSG_166_0_0 [Mulher tímida em traje de banho]]
 [s][vp 8 0 0 0 65535 0]Ei mãe,[n]pai quando ele volta?[n][f 1 3 65535][w][e]
 
 [msg MSG_167_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]M-Mãe? Pai...?[n][f 1 3 65535][w][e]
 
-[msg MSG_168_0_0 [Donna sexy in costume]]
+[msg MSG_168_0_0 [Mulher sexy em traje de banho]]
 [s][vp 8 0 0 0 65535 0]Ihihih... Sim, na verdade ela é minha filha. Meu[n]marido saiu para almoçar.[n][f 1 3 65535][w][e]
 
 [msg MSG_169_0_0 [Yusuke]]
@@ -564,32 +564,32 @@
 [s]Você nos enganou...[e]
 [s]Está bom para mim.[e]
 
-[msg MSG_172_0_0 [Donna timida in costume]]
+[msg MSG_172_0_0 [Mulher tímida em traje de banho]]
 [s][vp 8 0 0 0 65535 0]Você não percebeu?[n]Na verdade, minha mãe parece[n]muito jovem para a idade dela.[n][f 1 3 65535][w][e]
 
-[msg MSG_173_0_0 [Donna sexy in costume]]
+[msg MSG_173_0_0 [Mulher sexy em traje de banho]]
 [s][vp 8 0 0 0 65535 0]Eu ainda tenho algum efeito, hein?[n]Vou me gabar disso mais tarde[n]para seu pai.[n][f 1 3 65535][w][e]
 
-[msg MSG_174_0_0 [Donna sexy in costume]]
+[msg MSG_174_0_0 [Mulher sexy em traje de banho]]
 [s][vp 8 0 0 0 65535 0]Eheheh... vou levar isso como[n]um elogio, mas saiba que[n]entre homens e mulheres funciona assim.[n][f 1 3 65535][w][e]
 
-[msg MSG_175_0_0 [Donna timida in costume]]
+[msg MSG_175_0_0 [Mulher tímida em traje de banho]]
 [s][vp 8 0 0 0 65535 0]Você não acha que minha mãe parece muito jovem?[n]Meus amigos sempre a confundem com minha irmã.[n][f 1 3 65535][w][e]
 
-[msg MSG_176_0_0 [Donna sexy in costume]]
+[msg MSG_176_0_0 [Mulher sexy em traje de banho]]
 [s][vp 8 0 0 0 65535 0]Eheheh... Isso é legal da sua parte,[n]mas... Me desculpe. Você[n]não tem chance.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Minha filha é solteira, mas meu marido é muito[n]rígido. Ela fica com raiva assim que um menino[n]se aproxima dela.[n][f 1 3 65535][w][e]
 
-[msg MSG_177_0_0 [Donna timida in costume]]
-[s][vp 8 0 0 0 65535 0]È colpa di papà se non ho[n]un ragazzo. Hanno tutti paura[n]della sua cintura nera 8° dan...[n][f 1 3 65535][w][e]
+[msg MSG_177_0_0 [Mulher tímida em traje de banho]]
+[s][vp 8 0 0 0 65535 0]É culpa do papai eu não ter namorado. Eles estão todos com medo[n]de sua faixa preta 8º dan…[n][f 1 3 65535][w][e]
 
 [msg MSG_178_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sério...?[n][f 1 3 65535][w][e]
 
-[msg MSG_179_0_0 [Donna sexy in costume]]
+[msg MSG_179_0_0 [Mulher sexy em traje de banho]]
 [s][vp 8 0 0 0 65535 0]Bem, pelo menos foi[n]divertido. É bom ver[n]caras trabalhando tanto.[n][f 1 3 65535][w][e]
 
-[msg MSG_180_0_0 [Donna timida in costume]]
+[msg MSG_180_0_0 [Mulher tímida em traje de banho]]
 [s][vp 8 0 0 0 65535 0]Desculpe... Meu pai[n]estará aqui em breve.[n][f 1 3 65535][w][e]
 
 [msg MSG_181_0_0 [Yusuke]]
@@ -655,19 +655,19 @@
 [msg MSG_199_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]As mulheres podem ser[n]criaturas assustadoras.[n]Não devemos baixar a guarda.[n][f 1 3 65535][w][e]
 
-[msg MSG_200_0_0 [Ragazza affascinante in costume]]
+[msg MSG_200_0_0 [Menina encantadora em traje]]
 [s][vp 8 0 0 0 65535 0]Eu gostaria de poder falar japonês[n]como você. É tão difícil para mim...[n][f 1 3 65535][w][e]
 
-[msg MSG_201_0_0 [Ragazza straniera in costume]]
+[msg MSG_201_0_0 [Garota estrangeira fantasiada]]
 [s][vp 8 0 0 0 65535 0]Bem, eu nasci e cresci aqui no Japão. Tenho[n]certeza que logo você também será fluente.[n][f 1 3 65535][w][e]
 
-[msg MSG_202_0_0 [Ragazza affascinante in costume]]
+[msg MSG_202_0_0 [Menina encantadora em traje]]
 [s][vp 8 0 0 0 65535 0]Pode me ajudar a encontrar um namorado, certo? Eu[n]deveria tentar conhecer alguns na escola.[n][f 1 3 65535][w][e]
 
-[msg MSG_203_0_0 [Ragazza straniera in costume]]
+[msg MSG_203_0_0 [Garota estrangeira fantasiada]]
 [s][vp 8 0 0 0 65535 0]Eles são apenas crianças.[n]Devemos buscar[n]alguém mais maduro.[n][f 1 3 65535][w][e]
 
-[msg MSG_204_0_0 [Ragazza affascinante in costume]]
+[msg MSG_204_0_0 [Menina encantadora em traje]]
 [s][vp 8 0 0 0 65535 0]Oooh, sim! Parece uma ótima ideia![n]Ah, vai ser um feriado fantástico![n][f 1 3 65535][w][e]
 
 [msg MSG_205_0_0 [Yusuke]]
@@ -710,7 +710,7 @@
 [msg MSG_216_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vamos! Você pode comprar essas coisas no[n]supermercado também! Que diabos![n][f 1 3 65535][w][e]
 
-[msg MSG_217_0_0 [Ragazza affascinante in costume]]
+[msg MSG_217_0_0 [Menina encantadora em traje]]
 [s][vp 8 0 0 0 65535 0]E aí? Precisa de alguma coisa?[n][f 1 3 65535][w][e]
 
 [sel SEL_218_0_0 top]
@@ -718,36 +718,36 @@
 [s]Seu japonês é excelente.[e]
 [s]Você é mãe e filha?[e]
 
-[msg MSG_219_0_0 [Ragazza affascinante in costume]]
+[msg MSG_219_0_0 [Menina encantadora em traje]]
 [s][vp 8 0 0 0 65535 0]Estou bem obrigado! Estou feliz[n]que você fala comigo em japonês.[n][f 1 3 65535][w][e]
 
-[msg MSG_220_0_0 [Ragazza straniera in costume]]
+[msg MSG_220_0_0 [Garota estrangeira fantasiada]]
 [s][vp 8 0 0 0 65535 0]Você está tentando, hein? Minha amiga[n]gostaria de melhorar seu[n]japonês conversando com alguém.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Vamos conversar um pouco, vamos lá.[n]Estávamos apenas procurando por[n]caras gostosos como você.[n][f 1 3 65535][w][e]
 
-[msg MSG_221_0_0 [Ragazza affascinante in costume]]
+[msg MSG_221_0_0 [Menina encantadora em traje]]
 [s][vp 8 0 0 0 65535 0]A aula começa![n]É verão, vamos nos divertir![n][f 1 3 65535][w][e]
 
-[msg MSG_222_0_0 [Ragazza affascinante in costume]]
+[msg MSG_222_0_0 [Menina encantadora em traje]]
 [s][vp 8 0 0 0 65535 0]Não... eu não sou muito bom[n]em falar isso... As pessoas dizem[n]isso só para me deixar feliz...[n][f 1 3 65535][w][e]
 
-[msg MSG_223_0_0 [Ragazza straniera in costume]]
+[msg MSG_223_0_0 [Garota estrangeira fantasiada]]
 [s][vp 8 0 0 0 65535 0]Não é fácil para ela.[n]Ela se mudou para cá recentemente.[n][f 1 3 65535][w][e]
 
-[msg MSG_224_0_0 [Ragazza affascinante in costume]]
+[msg MSG_224_0_0 [Menina encantadora em traje]]
 [s][vp 8 0 0 0 65535 0]Eu não quero esses caras![n]Eu quero um professor de japonês![n][f 1 3 65535][w][e]
 
-[msg MSG_225_0_0 [Ragazza straniera in costume]]
+[msg MSG_225_0_0 [Garota estrangeira fantasiada]]
 [s][vp 8 0 0 0 65535 0]Vamos lá, eles não são tão ruins assim.[n]Afinal, eles se deram ao trabalho[n]de vir aqui falar com a gente, não é?[n][f 1 3 65535][w][e]
 
-[msg MSG_226_0_0 [Ragazza affascinante in costume]]
+[msg MSG_226_0_0 [Menina encantadora em traje]]
 [s][vp 8 0 0 0 65535 0]Huh...? Não, e nós nem somos parentes. Que[n]perguntas estranhas você faz.[n][f 1 3 65535][w][e]
 
-[msg MSG_227_0_0 [Ragazza straniera in costume]]
+[msg MSG_227_0_0 [Garota estrangeira fantasiada]]
 [s][vp 8 0 0 0 65535 0]Hahaha, você é muito esquisito, sabia?[n]Hoje em dia se faz assim,[n]para dar em cima de garotas?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Eles parecem caras engraçados, hein?[n]Você aprenderá mais rápido,[n]se divertindo.[n][f 1 3 65535][w][e]
 
-[msg MSG_228_0_0 [Ragazza affascinante in costume]]
+[msg MSG_228_0_0 [Menina encantadora em traje]]
 [s][vp 8 0 0 0 65535 0]Sim, quero conversar um pouco mais![n]Vamos começar a aula![n][f 1 3 65535][w][e]
 
 [msg MSG_229_0_0 [Yusuke]]
@@ -842,15 +842,15 @@
 [s]Sim, nós fazemos isso.[e]
 [s]Não, quero pensar melhor.[e]
 
-[msg MSG_255_0_0 [Ragazza straniera in costume]]
+[msg MSG_255_0_0 [Garota estrangeira fantasiada]]
 [s][vp 8 0 0 0 65535 0]Oh? Bem...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Ainda tenho muito dever de casa[n]para fazer e as férias de verão[n]estão quase acabando...[n][f 1 3 65535][w][e]
 
-[msg MSG_256_0_0 [Ragazza affascinante in costume]]
+[msg MSG_256_0_0 [Menina encantadora em traje]]
 [s][vp 8 0 0 0 65535 0]A escola está muito mais difícil,[n]agora que passamos[n]para a próxima série.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Eu realmente não entendo de matemática.[n]Áreas, fórmulas, equações...[n]Não faz o menor sentido.[n][f 1 3 65535][w][e]
 
-[msg MSG_257_0_0 [Ragazza straniera in costume]]
+[msg MSG_257_0_0 [Garota estrangeira fantasiada]]
 [s][vp 8 0 0 0 65535 0]Isso vai ser uma caminhada[n]para vocês três, certo? Vamos estudar[n]juntos, às vezes![n][f 1 3 65535][w][e]
 
 [msg MSG_258_0_0 [Ryuji]]
@@ -859,11 +859,11 @@
 [msg MSG_259_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Muito bem, Joker. Você provocou[n]uma reação que manterá[n]a conversa por mais algum tempo.[n][f 1 3 65535][w][e]
 
-[msg MSG_260_0_0 [Ragazza affascinante in costume]]
+[msg MSG_260_0_0 [Menina encantadora em traje]]
 [s][vp 8 0 0 0 65535 0]Oh... Você é um lobo solitário, hein?[n]Entendo![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Meus colegas falam sobre mangá e videogames o[n]tempo todo. Eles nunca vão crescer.[n][f 1 3 65535][w][e]
 
-[msg MSG_261_0_0 [Ragazza straniera in costume]]
+[msg MSG_261_0_0 [Garota estrangeira fantasiada]]
 [s][vp 8 0 0 0 65535 0]Os tipos que não combinam com o fluxo[n]são os mais interessantes. Eles são[n]mais maduros do que as datas do grupo.[n][f 1 3 65535][w][e]
 
 [msg MSG_262_0_0 [Ryuji]]
@@ -872,11 +872,11 @@
 [msg MSG_263_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]No entanto, parece que capturamos o interesse[n]deles. Isso deve prosseguir a conversa.[n][f 1 3 65535][w][e]
 
-[msg MSG_264_0_0 [Ragazza straniera in costume]]
+[msg MSG_264_0_0 [Garota estrangeira fantasiada]]
 [s][vp 1 0 0 0 0 0]......?!?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Por que você está parado aí?[n]Você está bem?[n][f 1 3 65535][w][e]
 
-[msg MSG_265_0_0 [Ragazza affascinante in costume]]
+[msg MSG_265_0_0 [Menina encantadora em traje]]
 [s][vp 8 0 0 0 65535 0]Uhmmm... Você tem uma expressão realmente[n]estranha! Por acaso você tem[n]dor de barriga ou algo assim?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Ei, tem salva-vidas por aqui?!? Aqui está[n]um cara que não se sente bem![n][f 1 3 65535][w][e]
 
@@ -889,19 +889,19 @@
 [msg MSG_268_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ei, que tal esse corpo gostoso? Tem[n]músculos de aço, hein?[n][f 1 3 65535][w][e]
 
-[msg MSG_269_0_0 [Ragazza affascinante in costume]]
+[msg MSG_269_0_0 [Menina encantadora em traje]]
 [s][vp 8 0 0 0 65535 0]Uau, você é tão macho![n]Que físico![n][f 1 3 65535][w][e]
 
 [msg MSG_270_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bem, eu sou um ex-corredor, sabe? E tenho[n]me exercitado muito ultimamente.[n][f 1 3 65535][w][e]
 
-[msg MSG_271_0_0 [Ragazza straniera in costume]]
+[msg MSG_271_0_0 [Garota estrangeira fantasiada]]
 [s][vp 8 0 0 0 65535 0]Fantástico! Você é muito rápido?[n]Quanto tempo você leva para percorrer[n]cinquenta metros?[n][f 1 3 65535][w][e]
 
 [msg MSG_272_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mmm, eu não sei... Recentemente[n]eu não cronometrei,[n]mas acho... em torno de seis segundos.[n][f 1 3 65535][w][e]
 
-[msg MSG_273_0_0 [Ragazza straniera in costume]]
+[msg MSG_273_0_0 [Garota estrangeira fantasiada]]
 [s][vp 8 0 0 0 65535 0]Uuuh, incrível! Você é muito[n]mais rápido do que todas as crianças[n]da minha escola![n][f 1 3 65535][w][e]
 
 [msg MSG_274_0_0 [Yusuke]]
@@ -910,22 +910,22 @@
 [msg MSG_275_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ei, o que está acontecendo na sua escola?[n][f 1 3 65535][w][e]
 
-[msg MSG_276_0_0 [Ragazza straniera in costume]]
+[msg MSG_276_0_0 [Garota estrangeira fantasiada]]
 [s][vp 8 0 0 0 65535 0]Mmm, tem muita gente[n]que gosta de moda![n]Você conhece o assunto?[n][f 1 3 65535][w][e]
 
 [msg MSG_277_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Moda...? sei lá, geralmente[n]compro o que vem...[n][f 1 3 65535][w][e]
 
-[msg MSG_278_0_0 [Ragazza affascinante in costume]]
+[msg MSG_278_0_0 [Menina encantadora em traje]]
 [s][vp 8 0 0 0 65535 0]Você deveria ler "Happymelon"![n]Eles têm uma coluna fofa[n]sobre nail art![n][f 1 3 65535][w][e]
 
 [msg MSG_279_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Feliz... o quê?[n]E como foi? Limão? Melão?[n][f 1 3 65535][w][e]
 
-[msg MSG_280_0_0 [Ragazza affascinante in costume]]
+[msg MSG_280_0_0 [Menina encantadora em traje]]
 [s][vp 8 0 0 0 65535 0]Ops! Você não conhece?[n]É uma revista de moda muito famosa.[n][f 1 3 65535][w][e]
 
-[msg MSG_281_0_0 [Ragazza straniera in costume]]
+[msg MSG_281_0_0 [Garota estrangeira fantasiada]]
 [s][vp 8 0 0 0 65535 0]Neste verão[n]blusas com decote barco[n]são muito populares. Você pelo menos sabe disso?[n][f 1 3 65535][w][e]
 
 [msg MSG_282_0_0 [Ryuji]]
@@ -938,26 +938,26 @@
 [msg MSG_284_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu sei que acabamos de nos conhecer,[n]mas que tal sairmos para jantar[n]uma dessas noites?[n][f 1 3 65535][w][e]
 
-[msg MSG_285_0_0 [Ragazza affascinante in costume]]
+[msg MSG_285_0_0 [Menina encantadora em traje]]
 [s][vp 8 0 0 0 65535 0]Oh, você vai nos levar?[n]Quais lugares você recomenda?[n][f 1 3 65535][w][e]
 
 [msg MSG_286_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]The Beef Bowl Shop.[n]É por minha conta, mesmo se você pedir[n]a porção extragrande.[n][f 1 3 65535][w][e]
 
-[msg MSG_287_0_0 [Ragazza straniera in costume]]
+[msg MSG_287_0_0 [Garota estrangeira fantasiada]]
 [s][vp 8 0 0 0 65535 0]Uau, extragrande?!?[n]Você é daqueles que[n]encore no refeitório da escola?[n][f 1 3 65535][w][e]
 
 [msg MSG_288_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]É claro! Não por acaso[n]eles me chamavam[n]"Ryuji Mangiatutto"![n][f 1 3 65535][w][e]
 
-[msg MSG_289_0_0 [Ragazza affascinante in costume]]
+[msg MSG_289_0_0 [Menina encantadora em traje]]
 [s][vp 8 0 0 0 65535 0]Fantástico! Quem come[n]muito é sempre o melhor![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]E aquelas caixinhas de leite[n]que te dão no lanche?[n]Eu não gosto muito de leite...[n][f 1 3 65535][w][e]
 
 [msg MSG_290_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ah, aqueles? Na época, eu[n]sempre bebia todas as sobras.[n][f 1 3 65535][w][e]
 
-[msg MSG_291_0_0 [Ragazza straniera in costume]]
+[msg MSG_291_0_0 [Garota estrangeira fantasiada]]
 [s][vp 8 0 0 0 65535 0]Uuuh! Você parece um cara confiável![n]Eu gostaria de ser como você![n][f 1 3 65535][w][e]
 
 [msg MSG_292_0_0 [Yusuke]]
@@ -966,10 +966,10 @@
 [msg MSG_293_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Nestes dias tem feito um calor[n]asfixiante. Espero que você[n]beba bastante água.[n][f 1 3 65535][w][e]
 
-[msg MSG_294_0_0 [Ragazza straniera in costume]]
+[msg MSG_294_0_0 [Garota estrangeira fantasiada]]
 [s][vp 8 0 0 0 65535 0]Huh? Bebíamos água[n]como todos os dias.[n][f 1 3 65535][w][e]
 
-[msg MSG_295_0_0 [Ragazza affascinante in costume]]
+[msg MSG_295_0_0 [Menina encantadora em traje]]
 [s][vp 8 0 0 0 65535 0]O calor não nos assusta.[n]E aí somos jovens,[n]não teremos problemas desse tipo![n][f 1 3 65535][w][e]
 
 [msg MSG_296_0_0 [Yusuke]]
@@ -978,10 +978,10 @@
 [s][vp 8 0 0 0 65535 0]E também é importante repor[n]sódio que você com certeza perdeu[n]pelo suor.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Por favor, digo isso para sua[n]segurança. Resumindo, há[n]suas vidas em jogo.[n][f 1 3 65535][w][e]
 
-[msg MSG_297_0_0 [Ragazza affascinante in costume]]
+[msg MSG_297_0_0 [Menina encantadora em traje]]
 [s][vp 8 0 0 0 65535 0]Oh...Desculpe...Você está certo...[n][f 1 3 65535][w][e]
 
-[msg MSG_298_0_0 [Ragazza straniera in costume]]
+[msg MSG_298_0_0 [Garota estrangeira fantasiada]]
 [s][vp 8 0 0 0 65535 0]Para dizer a verdade, estou comovido.[n]Essas censuras são um sinal[n]de grande consideração de sua parte.[n][f 1 3 65535][w][e]
 
 [msg MSG_299_0_0 [Ryuji]]
@@ -992,11 +992,11 @@
 [s][vp 8 0 0 0 65535 0]Seus corpos bem equilibrados[n]lembram em minha mente a imagem[n]das antigas esculturas gregas.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Um corpo saudável sempre abriga uma mente[n]saudável. Com certeza sua beleza não está só por[n]fora.[n][f 1 3 65535][w][e]
 
-[msg MSG_301_0_0 [Ragazza affascinante in costume]]
+[msg MSG_301_0_0 [Menina encantadora em traje]]
 [s][vp 8 0 0 0 65535 0]Obrigado! Eu conheço aquela estátua de[n]venus![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Temos uma cópia em nossa sala de Belas Artes. Ela[n]é linda.[n][f 1 3 65535][w][e]
 
-[msg MSG_302_0_0 [Ragazza straniera in costume]]
+[msg MSG_302_0_0 [Garota estrangeira fantasiada]]
 [s][vp 8 0 0 0 65535 0]E que palavras bonitas você usou![n]As crianças da nossa escola[n]nunca nos contam essas coisas.[n][f 1 3 65535][w][e]
 
 [msg MSG_303_0_0 [Ryuji]]
@@ -1009,16 +1009,16 @@
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Esconder a beleza[n]de seus corpos com essas fantasias[n]é um verdadeiro desperdício.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Para capturar sua verdadeira[n]essência, terei que retratá-lo como[n]como você veio ao mundo.[n][f 1 3 65535][w][e]
 
-[msg MSG_306_0_0 [Ragazza affascinante in costume]]
+[msg MSG_306_0_0 [Menina encantadora em traje]]
 [s][vp 8 0 0 0 65535 0]Ah, então você precisa ver[n]algumas fotos antigas onde[n]nós ainda éramos bebês?[n][f 1 3 65535][w][e]
 
 [msg MSG_307_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não exatamente. Estou falando do[n]nu artístico. Sem roupa, enfim.[n][f 1 3 65535][w][e]
 
-[msg MSG_308_0_0 [Ragazza straniera in costume]]
+[msg MSG_308_0_0 [Garota estrangeira fantasiada]]
 [s][vp 8 0 0 0 65535 0]Mmm, acho que minha mãe[n]ficaria furiosa,[n]se eu me despisse para você...[n][f 1 3 65535][w][e]
 
-[msg MSG_309_0_0 [Ragazza affascinante in costume]]
+[msg MSG_309_0_0 [Menina encantadora em traje]]
 [s][vp 8 0 0 0 65535 0]Gosta?!? Nu?!?[n]Não, não está feito! Na verdade,[n]devemos denunciá-lo à polícia![n][f 1 3 65535][w][e]
 
 [msg MSG_310_0_0 [Ryuji]]
@@ -1027,13 +1027,13 @@
 [msg MSG_311_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Para comemorar nosso encontro,[n]gostaria de lhe dar um presente.[n]Você quer algo em particular?[n][f 1 3 65535][w][e]
 
-[msg MSG_312_0_0 [Ragazza affascinante in costume]]
+[msg MSG_312_0_0 [Menina encantadora em traje]]
 [s][vp 8 0 0 0 65535 0]Hum, talvez algumas roupas, ou...[n]um monociclo? Oooh, e um[n]aqueles lápis também![n][f 1 3 65535][w][e]
 
 [msg MSG_313_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Que pedidos incomuns. E então...[n]o que é isso...[n]"clicar no lápis"?[n][f 1 3 65535][w][e]
 
-[msg MSG_314_0_0 [Ragazza straniera in costume]]
+[msg MSG_314_0_0 [Garota estrangeira fantasiada]]
 [s][vp 8 0 0 0 65535 0]Ele quer dizer uma lapiseira.[n]Não podemos usá-los em sala de aula.[n][f 1 3 65535][w][e]
 
 [msg MSG_315_0_0 [Yusuke]]
@@ -1045,10 +1045,10 @@
 [msg MSG_317_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Espere, nós[n]temos que comprar essas coisas?!?[n][f 1 3 65535][w][e]
 
-[msg MSG_318_0_0 [Ragazza affascinante in costume]]
+[msg MSG_318_0_0 [Menina encantadora em traje]]
 [s][vp 8 0 0 0 65535 0]Uau, como vocês são generosos![n]Você realmente quer nos comprar[n]todas essas coisas?[n][f 1 3 65535][w][e]
 
-[msg MSG_319_0_0 [Ragazza straniera in costume]]
+[msg MSG_319_0_0 [Garota estrangeira fantasiada]]
 [s][vp 8 0 0 0 65535 0]Caras mais velhos podem[n]comprar muitas coisas...[n]eu quero um namorado assim![n][f 1 3 65535][w][e]
 
 [msg MSG_320_0_0 [Ryuji]]
@@ -1142,16 +1142,16 @@
 [s]Sim, nós fazemos isso.[e]
 [s]Não, quero pensar melhor.[e]
 
-[msg MSG_347_0_0 [Ragazza affascinante in costume]]
+[msg MSG_347_0_0 [Menina encantadora em traje]]
 [s][vp 8 0 0 0 65535 0]Uau, uma declaração de amor...[n]Meu coração está batendo forte...[n][f 1 3 65535][w][e]
 
-[msg MSG_348_0_0 [Ragazza straniera in costume]]
+[msg MSG_348_0_0 [Garota estrangeira fantasiada]]
 [s][vp 8 0 0 0 65535 0]Você é do tipo que age por instinto,[n]eh? Você é muito viril. Curtir.[n][f 1 3 65535][w][e]
 
-[msg MSG_349_0_0 [Ragazza affascinante in costume]]
+[msg MSG_349_0_0 [Menina encantadora em traje]]
 [s][vp 8 0 0 0 65535 0]Você é muito seguro de si![n]Você nos promete que vai nos fazer felizes?[n][f 1 3 65535][w][e]
 
-[msg MSG_350_0_0 [Ragazza straniera in costume]]
+[msg MSG_350_0_0 [Garota estrangeira fantasiada]]
 [s][vp 8 0 0 0 65535 0]Mas devemos começar como amigos.[n]Por que não saímos juntos primeiro?[n][f 1 3 65535][w][e]
 
 [msg MSG_351_0_0 [Ryuji]]
@@ -1161,7 +1161,7 @@
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]OK, eu vou...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]O amor é uma c-coisa... importante,[n]certo? É tão valioso quanto...[n]tesouro ou algo assim...[n][f 1 3 65535][w][e]
 
-[msg MSG_353_0_0 [Ragazza straniera in costume]]
+[msg MSG_353_0_0 [Garota estrangeira fantasiada]]
 [s][vp 8 0 0 0 65535 0]Você está resmungando um pouco demais...[n]Ah, e seu rosto está todo vermelho![n]Você está com febre?[n][f 1 3 65535][w][e]
 
 [msg MSG_354_0_0 [Ryuji]]
@@ -1170,10 +1170,10 @@
 [msg MSG_355_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Desisto! Você realmente tinha que me dar uma[n]missão impossível hein?!? Essa coisa não é para[n]mim![n][f 1 3 65535][w][e]
 
-[msg MSG_356_0_0 [Ragazza affascinante in costume]]
+[msg MSG_356_0_0 [Menina encantadora em traje]]
 [s][vp 8 0 0 0 65535 0]Pare de discutir assim...[n]Vocês são gangsters?!? Eu não quero[n]nada a ver com você![n][f 1 3 65535][w][e]
 
-[msg MSG_357_0_0 [Ragazza straniera in costume]]
+[msg MSG_357_0_0 [Garota estrangeira fantasiada]]
 [s][vp 8 0 0 0 65535 0]Você grita demais...[n]Achei que vocês fossem mais maduros.[n][f 1 3 65535][w][e]
 
 [msg MSG_358_0_0 [Yusuke]]
@@ -1182,59 +1182,59 @@
 [msg MSG_359_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]De agora em diante, sinta-se à vontade[n]para me tratar como se eu fosse seu[n]namorado. Espero que nos demos bem.[n][f 1 3 65535][w][e]
 
-[msg MSG_360_0_0 [Ragazza affascinante in costume]]
+[msg MSG_360_0_0 [Menina encantadora em traje]]
 [s][vp 8 0 0 0 65535 0]N-Namorado?!?[n]E quando isso aconteceria?!?[n][f 1 3 65535][w][e]
 
-[msg MSG_361_0_0 [Ragazza straniera in costume]]
+[msg MSG_361_0_0 [Garota estrangeira fantasiada]]
 [s][vp 8 0 0 0 65535 0]Hahaha, bem direto.[n]Eu gosto de caras[n]que tomam a iniciativa![n][f 1 3 65535][w][e]
 
-[msg MSG_362_0_0 [Ragazza affascinante in costume]]
+[msg MSG_362_0_0 [Menina encantadora em traje]]
 [s][vp 8 0 0 0 65535 0]Espere...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Com qual de nós você[n]marcaria uma consulta?[n][f 1 3 65535][w][e]
 
 [msg MSG_363_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Hum, eu pensei sobre isso por um longo tempo,[n]mas... é impossível escolher.[n]Eu gostaria de namorar os dois.[n][f 1 3 65535][w][e]
 
-[msg MSG_364_0_0 [Ragazza affascinante in costume]]
+[msg MSG_364_0_0 [Menina encantadora em traje]]
 [s][vp 8 0 0 0 65535 0]Não, você não pode sair[n]com vocês dois! Eu não quero[n]namorar um mulherengo![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Vou avisar a professora![n][f 1 3 65535][w][e]
 
-[msg MSG_365_0_0 [Ragazza straniera in costume]]
+[msg MSG_365_0_0 [Garota estrangeira fantasiada]]
 [s][vp 8 0 0 0 65535 0]Mau! Você não deve[n]fazer garotas chorarem![n][f 1 3 65535][w][e]
 
 [msg MSG_366_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Cara, as coisas deram[n]a pior... Talvez[n]isso tenha sido muito direto, hein?[n][f 1 3 65535][w][e]
 
-[msg MSG_367_0_0 [Ragazza affascinante in costume]]
+[msg MSG_367_0_0 [Menina encantadora em traje]]
 [s][vp 8 0 0 0 65535 0]Obrigado pessoal, foi uma ótima[n]aula! Nós nos divertimos muito com você![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Os meninos grandes são sempre os melhores. Além[n]dos meus colegas...[n][f 1 3 65535][w][e]
 
-[msg MSG_368_0_0 [Ragazza straniera in costume]]
+[msg MSG_368_0_0 [Garota estrangeira fantasiada]]
 [s][vp 8 0 0 0 65535 0]Eu adoraria ter[n]um namorado mais velho.[n]Isso me faria sentir segura.[n][f 1 3 65535][w][e]
 
 [msg MSG_369_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bem, nós somos muito mais maduros[n]do que nossos colegas. E então,[n]passamos por muita coisa...[n][f 1 3 65535][w][e]
 
-[msg MSG_370_0_0 [Ragazza straniera in costume]]
+[msg MSG_370_0_0 [Garota estrangeira fantasiada]]
 [s][vp 8 0 0 0 65535 0]Estou feliz por ter conversado com você. O que[n]você diz, ajudou você a praticar?[n][f 1 3 65535][w][e]
 
-[msg MSG_371_0_0 [Ragazza affascinante in costume]]
+[msg MSG_371_0_0 [Menina encantadora em traje]]
 [s][vp 8 0 0 0 65535 0]Sim, obrigado pela aula![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Você é muito mais maduro do que todos[n]meus colegas![n]Deveríamos nos tornar amigos![n][f 1 3 65535][w][e]
 
 [msg MSG_372_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Oooh, boa ideia.[n]Devemos trocar números de telefone?[n][f 1 3 65535][w][e]
 
-[msg MSG_373_0_0 [Ragazza straniera in costume]]
+[msg MSG_373_0_0 [Garota estrangeira fantasiada]]
 [s][vp 8 0 0 0 65535 0]Vocês parecem geeks idiotas para mim.[n]Os meninos grandes sempre fingem[n]mais jovens ou é só você?[n][f 1 3 65535][w][e]
 
-[msg MSG_374_0_0 [Ragazza affascinante in costume]]
+[msg MSG_374_0_0 [Menina encantadora em traje]]
 [s][vp 8 0 0 0 65535 0]Sim, isso foi chato.[n]Eu queria praticar[n]com caras mais maduros...[n][f 1 3 65535][w][e]
 
 [msg MSG_375_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não, você teve a ideia errada! Vamos lá, a partir[n]de agora mostramos como realmente somos![n][f 1 3 65535][w][e]
 
-[msg MSG_376_0_0 [Ragazza affascinante in costume]]
+[msg MSG_376_0_0 [Menina encantadora em traje]]
 [s][vp 8 0 0 0 65535 0]Mas eu queria te perguntar[n]mais uma coisa.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Você é da cidade, não é?[n]Qual escola você frequenta?[n][f 1 3 65535][w][e]
 
@@ -1244,16 +1244,16 @@
 [msg MSG_378_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Talvez você queira dizer...[n]ensino médio?[n][f 1 3 65535][w][e]
 
-[msg MSG_379_0_0 [Ragazza affascinante in costume]]
+[msg MSG_379_0_0 [Menina encantadora em traje]]
 [s][vp 8 0 0 0 65535 0]Sim, exatamente![n]Qual escola você frequenta?[n][f 1 3 65535][w][e]
 
 [msg MSG_380_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eeehm, espere.[n]Estamos no ensino médio.[n][f 1 3 65535][w][e]
 
-[msg MSG_381_0_0 [Ragazza straniera in costume]]
+[msg MSG_381_0_0 [Garota estrangeira fantasiada]]
 [s][vp 8 0 0 0 65535 0]Huh?!? No ensino médio?[n]Eu pensei que você fosse mais jovem...[n][f 1 3 65535][w][e]
 
-[msg MSG_382_0_0 [Ragazza affascinante in costume]]
+[msg MSG_382_0_0 [Menina encantadora em traje]]
 [s][vp 8 0 0 0 65535 0]Sim, eu também! É por isso que[n]você parece tão grande![n][f 1 3 65535][w][e]
 
 [msg MSG_383_0_0 [Ryuji]]
@@ -1278,10 +1278,10 @@
 [msg MSG_388_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Que porra...?!? Você está brincando?!?[n][f 1 3 65535][w][e]
 
-[msg MSG_389_0_0 [Ragazza straniera in costume]]
+[msg MSG_389_0_0 [Garota estrangeira fantasiada]]
 [s][vp 8 0 0 0 65535 0]Huh? Não é uma piada.[n]Estamos no último ano[n]do ensino fundamental.[n][f 1 3 65535][w][e]
 
-[msg MSG_390_0_0 [Ragazza affascinante in costume]]
+[msg MSG_390_0_0 [Menina encantadora em traje]]
 [s][vp 8 0 0 0 65535 0]Sim... Pena que é a última...[n]O ensino fundamental é muito divertido![n]E como nossas mochilas são lindas...[n][f 1 3 65535][w][e]
 
 [msg MSG_391_0_0 [Yusuke]]
@@ -1291,7 +1291,7 @@
 [msg MSG_392_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Cara... Esse não é o problema.[n][f 1 3 65535][w][e]
 
-[msg MSG_393_0_0 [Avviso balneare]]
+[msg MSG_393_0_0 [Aviso à beira-mar]]
 [s][vp 8 0 0 0 65535 0]Obrigado por estar aqui.[n]Temos um anúncio a fazer.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Foi relatado para nós que alguns[n]de nossos clientes[n]foram assediados por indivíduos assediadores.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Se você notar alguém[n]suspeito, por favor[n]entre em contato com o gerente.[n][f 1 3 65535][w][e]
@@ -1386,13 +1386,13 @@
 [msg MSG_420_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Falar com mulheres é bastante[n]difícil. Até agora eu sempre[n]os vi como assuntos artísticos...[n][f 1 3 65535][w][e]
 
-[msg MSG_421_0_0 [Donna sofisticata in costume]]
+[msg MSG_421_0_0 [Mulher sofisticada em traje]]
 [s][vp 8 0 0 0 65535 0]Não há nenhum menino,[n]por aqui? Vejo[n]apenas casais...[n][f 1 3 65535][w][e]
 
-[msg MSG_422_0_0 [Donna truccata in costume]]
+[msg MSG_422_0_0 [Mulher maquiada em traje]]
 [s][vp 8 0 0 0 65535 0]Minha querida, você não fez nada além de ignorar[n]qualquer um que tentou falar com você. O que[n]você está procurando?[n][f 1 3 65535][w][e]
 
-[msg MSG_423_0_0 [Donna sofisticata in costume]]
+[msg MSG_423_0_0 [Mulher sofisticada em traje]]
 [s][vp 8 0 0 0 65535 0]Eu gostaria de conhecer o Phantom[n]Thieves! Eles são[n]fascinantes, não acham?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_424_0_0 [Ryuji]]
@@ -1427,7 +1427,7 @@
 [msg MSG_432_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vamos! Você pode comprar essas coisas no[n]supermercado também! Que diabos![n][f 1 3 65535][w][e]
 
-[msg MSG_433_0_0 [Donna sofisticata in costume]]
+[msg MSG_433_0_0 [Mulher sofisticada em traje]]
 [s][vp 8 0 0 0 65535 0]...precisa de alguma coisa?[n]Ah, quer tentar também?[n][f 1 3 65535][w][e]
 
 [sel SEL_434_0_0 top]
@@ -1435,22 +1435,22 @@
 [s]Queremos roubar seu coração.[e]
 [s]Estávamos passando...[e]
 
-[msg MSG_435_0_0 [Donna sofisticata in costume]]
+[msg MSG_435_0_0 [Mulher sofisticada em traje]]
 [s][vp 8 0 0 0 65535 0]...Sério?[n]Você me parece chato.[n][f 1 3 65535][w][e]
 
-[msg MSG_436_0_0 [Donna truccata in costume]]
+[msg MSG_436_0_0 [Mulher maquiada em traje]]
 [s][vp 8 0 0 0 65535 0]Hahaha, seja mais legal.[n]Deveríamos dar uma chance a eles.[n][f 1 3 65535][w][e]
 
-[msg MSG_437_0_0 [Donna sofisticata in costume]]
+[msg MSG_437_0_0 [Mulher sofisticada em traje]]
 [s][vp 8 0 0 0 65535 0]Hahaha, confira![n]Você está tentando imitar[n]os Phantom Thieves? Eu os amo![n][f 1 3 65535][w][e]
 
-[msg MSG_438_0_0 [Donna truccata in costume]]
+[msg MSG_438_0_0 [Mulher maquiada em traje]]
 [s][vp 8 0 0 0 65535 0]Oh sim? E o que você rouba? Meninas?[n]Isso é novidade para mim... mas eu gosto![n][f 1 3 65535][w][e]
 
-[msg MSG_439_0_0 [Donna sofisticata in costume]]
+[msg MSG_439_0_0 [Mulher sofisticada em traje]]
 [s][vp 8 0 0 0 65535 0]Hahaha, seja honesto.[n]Você queria nos experimentar.[n][f 1 3 65535][w][e]
 
-[msg MSG_440_0_0 [Donna truccata in costume]]
+[msg MSG_440_0_0 [Mulher maquiada em traje]]
 [s][vp 8 0 0 0 65535 0]Vocês parecem caras engraçados.[n]Bem, passar um tempo com vocês[n]pode não ser tão ruim.[n][f 1 3 65535][w][e]
 
 [msg MSG_441_0_0 [Yusuke]]
@@ -1542,40 +1542,40 @@
 [s]Sim, nós fazemos isso.[e]
 [s]Não, quero pensar melhor.[e]
 
-[msg MSG_466_0_0 [Donna sofisticata in costume]]
+[msg MSG_466_0_0 [Mulher sofisticada em traje]]
 [s][vp 8 0 0 0 65535 0]E o que foi isso?!? Diversão![n]Boas jogadas![n][f 1 3 65535][w][e]
 
-[msg MSG_467_0_0 [Donna truccata in costume]]
+[msg MSG_467_0_0 [Mulher maquiada em traje]]
 [s][vp 8 0 0 0 65535 0]Hahahaha! Absurdo![n]Era pra ser uma piada?[n][f 1 3 65535][w][e]
 
 [sel SEL_468_0_0 top]
 [s]Eu sou um ladrão fantasma.[e]
 [s]Faz parte do meu show.[e]
 
-[msg MSG_469_0_0 [Donna sofisticata in costume]]
+[msg MSG_469_0_0 [Mulher sofisticada em traje]]
 [s][vp 8 0 0 0 65535 0]O que? Não achei[n]uma imitação muito boa...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Você não teve sucesso![n]Embora eu admita que[n]nunca os vi em ação![n][f 1 3 65535][w][e]
 
-[msg MSG_470_0_0 [Donna truccata in costume]]
+[msg MSG_470_0_0 [Mulher maquiada em traje]]
 [s][vp 8 0 0 0 65535 0]Talvez tenha sido uma paródia?[n]Continue, quero ver mais![n][f 1 3 65535][w][e]
 
 [msg MSG_471_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eles não entenderam,[n]mas ainda estão animados![n]Está funcionando![n][f 1 3 65535][w][e]
 
-[msg MSG_472_0_0 [Donna sofisticata in costume]]
+[msg MSG_472_0_0 [Mulher sofisticada em traje]]
 [s][vp 8 0 0 0 65535 0]Não faz o menor sentido![n]Você é comediante?[n][f 1 3 65535][w][e]
 
-[msg MSG_473_0_0 [Donna truccata in costume]]
+[msg MSG_473_0_0 [Mulher maquiada em traje]]
 [s][vp 8 0 0 0 65535 0]Oh sim? Quer perder tempo com[n]piadas em vez de dar em cima da gente?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]OK, vamos assistir ... mas[n]se você for muito chato, você vai[n]nos oferecer uma granita! Hahaha![n][f 1 3 65535][w][e]
 
 [msg MSG_474_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não está indo como planejado,[n]mas talvez estejamos despertando[n]o interesse deles...[n][f 1 3 65535][w][e]
 
-[msg MSG_475_0_0 [Donna sofisticata in costume]]
+[msg MSG_475_0_0 [Mulher sofisticada em traje]]
 [s][vp 8 0 0 0 65535 0]O que? Não fale sobre isso.[n]Está muito quente.[n][f 1 3 65535][w][e]
 
-[msg MSG_476_0_0 [Donna truccata in costume]]
+[msg MSG_476_0_0 [Mulher maquiada em traje]]
 [s][vp 8 0 0 0 65535 0]Hahaha! Vamos lá, você está esperando o dia todo[n]por alguém para flertar com você![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Você não vai esperar que os Phantom Thieves[n]venham e levem você![n][f 1 3 65535][w][e]
 
@@ -1583,31 +1583,31 @@
 [s]Você os tem na sua frente.[e]
 [s]Eu sou melhor do que eles.[e]
 
-[msg MSG_478_0_0 [Donna sofisticata in costume]]
+[msg MSG_478_0_0 [Mulher sofisticada em traje]]
 [s][vp 8 0 0 0 65535 0]Claro, certo.[n]Todo mundo diz isso.[n][f 1 3 65535][w][e]
 
-[msg MSG_479_0_0 [Donna truccata in costume]]
+[msg MSG_479_0_0 [Mulher maquiada em traje]]
 [s][vp 8 0 0 0 65535 0]Real Phantom Thieves[n]nunca faria o que[n]você está fazendo![n][f 1 3 65535][w][e]
 
 [msg MSG_480_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Merda, eu sabia[n]que não haveria cachoeiras.[n]Vamos tentar algo diferente![n][f 1 3 65535][w][e]
 
-[msg MSG_481_0_0 [Donna sofisticata in costume]]
+[msg MSG_481_0_0 [Mulher sofisticada em traje]]
 [s][vp 8 0 0 0 65535 0]Sério? Você é muito confiante![n]E como você seria[n]melhor do que eles?[n][f 1 3 65535][w][e]
 
-[msg MSG_482_0_0 [Donna truccata in costume]]
+[msg MSG_482_0_0 [Mulher maquiada em traje]]
 [s][vp 8 0 0 0 65535 0]E não diga que é por causa da[n]sua aparência! O ponto forte[n]dos Phantom Thieves é seu carisma![n][f 1 3 65535][w][e]
 
-[msg MSG_483_0_0 [Donna sofisticata in costume]]
+[msg MSG_483_0_0 [Mulher sofisticada em traje]]
 [s][vp 8 0 0 0 65535 0]Para ser melhor que eles, você tem que[n]ser pelo menos um modelo ou algo[n]assim. Estou muito interessado![n][f 1 3 65535][w][e]
 
 [msg MSG_484_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não está indo como planejado,[n]mas talvez estejamos despertando[n]o interesse deles...[n][f 1 3 65535][w][e]
 
-[msg MSG_485_0_0 [Donna sofisticata in costume]]
+[msg MSG_485_0_0 [Mulher sofisticada em traje]]
 [s][vp 8 0 0 0 65535 0]Sério? Vocês também são fãs?[n]Ah, faríamos[n]qualquer coisa por eles![n][f 1 3 65535][w][e]
 
-[msg MSG_486_0_0 [Donna truccata in costume]]
+[msg MSG_486_0_0 [Mulher maquiada em traje]]
 [s][vp 8 0 0 0 65535 0]Ou seja, temos muita inveja[n]daqueles que recebem deles[n]cartas de desafio.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Quem sabe o que temos que fazer[n]para encontrar os Phantom Thieves...[n]Você tem alguma ideia?[n][f 1 3 65535][w][e]
 
@@ -1616,40 +1616,40 @@
 [s]Peça a carta de aviso.[e]
 [s]É impossível.[e]
 
-[msg MSG_488_0_0 [Donna truccata in costume]]
+[msg MSG_488_0_0 [Mulher maquiada em traje]]
 [s][vp 8 0 0 0 65535 0]Pensamos nisso, mas é muito[n]arriscado. E então quem nos garante[n]que eles realmente virão?[n][f 1 3 65535][w][e]
 
-[msg MSG_489_0_0 [Donna sofisticata in costume]]
+[msg MSG_489_0_0 [Mulher sofisticada em traje]]
 [s][vp 8 0 0 0 65535 0]Sim, mesmo se infringirmos a lei, não temos[n]certeza se eles virão nos procurar.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Mesmo que escrevêssemos sobre o Phan-Site[n]uma história inventada,[n]ninguém acreditaria.[n][f 1 3 65535][w][e]
 
-[msg MSG_490_0_0 [Donna truccata in costume]]
+[msg MSG_490_0_0 [Mulher maquiada em traje]]
 [s][vp 8 0 0 0 65535 0]*suspiro* Afinal, perguntar a você[n]foi inútil. Eu me pergunto se[n]alguém já os conheceu...[n][f 1 3 65535][w][e]
 
 [msg MSG_491_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Uau! Eles também podem estar[n]nos observando, mas não parecem[n]mostrar o menor interesse...[n][f 1 3 65535][w][e]
 
-[msg MSG_492_0_0 [Donna truccata in costume]]
+[msg MSG_492_0_0 [Mulher maquiada em traje]]
 [s][vp 8 0 0 0 65535 0]Huh? É impossível.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Os únicos que recebem cartas[n]de desafio são criminosos como esse[n]Madarame ou aquele chefe da máfia.[n][f 1 3 65535][w][e]
 
-[msg MSG_493_0_0 [Donna sofisticata in costume]]
+[msg MSG_493_0_0 [Mulher sofisticada em traje]]
 [s][vp 8 0 0 0 65535 0]E aí o Phan-Site já está cheio[n]de requisições. É impossível[n]que eles escolham o nosso.[n][f 1 3 65535][w][e]
 
-[msg MSG_494_0_0 [Donna truccata in costume]]
+[msg MSG_494_0_0 [Mulher maquiada em traje]]
 [s][vp 8 0 0 0 65535 0]*suspiro* Afinal, perguntar a você[n]foi inútil. Eu me pergunto se[n]alguém já os conheceu...[n][f 1 3 65535][w][e]
 
 [msg MSG_495_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Uau! Eles também podem estar[n]nos observando, mas não parecem[n]mostrar o menor interesse...[n][f 1 3 65535][w][e]
 
-[msg MSG_496_0_0 [Donna truccata in costume]]
+[msg MSG_496_0_0 [Mulher maquiada em traje]]
 [s][vp 8 0 0 0 65535 0]Hahaha, você está certo![n]Engraçado![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Eu também pensei, sabe?[n]É muito difícil[n]conhecê-los pessoalmente.[n][f 1 3 65535][w][e]
 
-[msg MSG_497_0_0 [Donna sofisticata in costume]]
+[msg MSG_497_0_0 [Mulher sofisticada em traje]]
 [s][vp 8 0 0 0 65535 0]Na verdade, eu amo que[n]sua identidade seja um segredo![n][f 1 3 65535][w][e]
 
-[msg MSG_498_0_0 [Donna truccata in costume]]
+[msg MSG_498_0_0 [Mulher maquiada em traje]]
 [s][vp 8 0 0 0 65535 0]Sim você está certo! Assim[n]as pessoas ficam falando sobre isso![n]Ah, os Phantom Thieves são os melhores![n][f 1 3 65535][w][e]
 
 [msg MSG_499_0_0 [Ryuji]]
@@ -1658,21 +1658,21 @@
 [msg MSG_500_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Anteriormente, você estava falando sobre os[n]Phantom Thieves, certo? Também sou fã.[n][f 1 3 65535][w][e]
 
-[msg MSG_501_0_0 [Donna truccata in costume]]
+[msg MSG_501_0_0 [Mulher maquiada em traje]]
 [s][vp 8 0 0 0 65535 0]Uau, sério? Bem, eles parecem ser[n]muito famosos hoje em dia.[n][f 1 3 65535][w][e]
 
 [msg MSG_502_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O professor pervertido,[n]o artista impostor,[n]o chefe da máfia de Shibuya...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Não é ótimo ver[n]todos esses criminosos derrotados?[n][f 1 3 65535][w][e]
 
-[msg MSG_503_0_0 [Donna sofisticata in costume]]
+[msg MSG_503_0_0 [Mulher sofisticada em traje]]
 [s][vp 8 0 0 0 65535 0]Sim, eu te entendo perfeitamente![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Esses mafiosos se aproveitaram de[n]um amigo meu, então foi até[n]bom vê-los atrás das grades![n][f 1 3 65535][w][e]
 
 [msg MSG_504_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Os Phantom Thieves são fenomenais,[n]eh? Eles fazem coisas que[n]pessoas normais nunca poderiam fazer.[n][f 1 3 65535][w][e]
 
-[msg MSG_505_0_0 [Donna truccata in costume]]
+[msg MSG_505_0_0 [Mulher maquiada em traje]]
 [s][vp 8 0 0 0 65535 0]Sim, eu realmente os admiro![n]Eu adoraria ter[n]uma consulta com um deles![n][f 1 3 65535][w][e]
 
 [msg MSG_506_0_0 [Yusuke]]
@@ -1681,19 +1681,19 @@
 [msg MSG_507_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Então, quantos anos você tem?[n]Onde você mora?[n]Que escola você frequenta?[n][f 1 3 65535][w][e]
 
-[msg MSG_508_0_0 [Donna sofisticata in costume]]
+[msg MSG_508_0_0 [Mulher sofisticada em traje]]
 [s][vp 8 0 0 0 65535 0]Huh? Por que[n]todas essas perguntas?[n][f 1 3 65535][w][e]
 
 [msg MSG_509_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Estou apenas tentando fazer[n]conversa. O que é?[n]Não quer responder?[n][f 1 3 65535][w][e]
 
-[msg MSG_510_0_0 [Donna truccata in costume]]
+[msg MSG_510_0_0 [Mulher maquiada em traje]]
 [s][vp 8 0 0 0 65535 0]Quem você pensa que é?[n]Você deveria se apresentar,[n]antes de fazer essas perguntas![n][f 1 3 65535][w][e]
 
 [msg MSG_511_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Huh? No entanto, você também pode[n]responder, o que você tem a perder?!?[n][f 1 3 65535][w][e]
 
-[msg MSG_512_0_0 [Donna sofisticata in costume]]
+[msg MSG_512_0_0 [Mulher sofisticada em traje]]
 [s][vp 8 0 0 0 65535 0]Você está estragando a atmosfera.[n]Não gostamos dessa agressividade[n]nada.[n][f 1 3 65535][w][e]
 
 [msg MSG_513_0_0 [Ryuji]]
@@ -1705,22 +1705,22 @@
 [msg MSG_515_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ei, você está com fome? Por que não vamos[n]almoçar em algum lugar?[n][f 1 3 65535][w][e]
 
-[msg MSG_516_0_0 [Donna truccata in costume]]
+[msg MSG_516_0_0 [Mulher maquiada em traje]]
 [s][vp 8 0 0 0 65535 0]Oooh, o que você tem em mente? Um belo churrasco?[n]Você tem uma casa de férias por perto?[n][f 1 3 65535][w][e]
 
 [msg MSG_517_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Hum, nada disso...[n]eu estava pensando em ir[n]comer um yakisoba...[n][f 1 3 65535][w][e]
 
-[msg MSG_518_0_0 [Donna truccata in costume]]
+[msg MSG_518_0_0 [Mulher maquiada em traje]]
 [s][vp 8 0 0 0 65535 0]Um almoço tão barato?[n]Ugh, deixa pra lá.[n]Que decepção...[n][f 1 3 65535][w][e]
 
-[msg MSG_519_0_0 [Donna sofisticata in costume]]
+[msg MSG_519_0_0 [Mulher sofisticada em traje]]
 [s][vp 8 0 0 0 65535 0]Hahaha, você não deveria ser tão sincero! Você[n]está exagerando um pouco. Ahahahah![n][f 1 3 65535][w][e]
 
 [msg MSG_520_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Huh? O fogo é usado para cozinhar yakisoba![n]Como no seu[n]churrasco! Você vê? É a mesma coisa![n][f 1 3 65535][w][e]
 
-[msg MSG_521_0_0 [Donna sofisticata in costume]]
+[msg MSG_521_0_0 [Mulher sofisticada em traje]]
 [s][vp 8 0 0 0 65535 0]Não, é completamente diferente.[n]*suspiro* Não estou interessado em[n]crianças sem dinheiro.[n][f 1 3 65535][w][e]
 
 [msg MSG_522_0_0 [Yusuke]]
@@ -1730,20 +1730,20 @@
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você já ouviu falar sobre os[n]Phantom Thieves? Parece ser[n]um grande grupo de pessoas...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Diz-se também que, entre eles,[n]existe um bizarro animal[n]que anda sobre duas pernas.[n][f 1 3 65535][w][e]
 
-[msg MSG_524_0_0 [Donna sofisticata in costume]]
+[msg MSG_524_0_0 [Mulher sofisticada em traje]]
 [s][vp 8 0 0 0 65535 0]Sério? E onde você ouviu isso?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_525_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não posso entrar em detalhes,[n]mas... foi relatado a mim[n]de uma fonte muito confiável.[n][f 1 3 65535][w][e]
 
-[msg MSG_526_0_0 [Donna truccata in costume]]
+[msg MSG_526_0_0 [Mulher maquiada em traje]]
 [s][vp 8 0 0 0 65535 0]Não me lembro de ter lido essas[n]coisas no Phan-Site! É incrível![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Então é informação classificada![n]Eu invejo você, sabe? Vamos lá, conte-nos[n]algo mais![n][f 1 3 65535][w][e]
 
 [msg MSG_527_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bem... Ouvi dizer que entre eles[n]haveria também uma pantera vermelha[n]e um macaco de cabelo dourado.[n][f 1 3 65535][w][e]
 
-[msg MSG_528_0_0 [Donna truccata in costume]]
+[msg MSG_528_0_0 [Mulher maquiada em traje]]
 [s][vp 8 0 0 0 65535 0]Hahaha, esses Ladrões[n]Phantoms administram um zoológico?!?[n]Engraçado![n][f 1 3 65535][w][e]
 
 [msg MSG_529_0_0 [Ryuji]]
@@ -1753,28 +1753,28 @@
 [msg MSG_530_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][vp 1 0 0 0 0 0]......[n][f 1 3 65535][w][e]
 
-[msg MSG_531_0_0 [Donna truccata in costume]]
+[msg MSG_531_0_0 [Mulher maquiada em traje]]
 [s][vp 8 0 0 0 65535 0]Huh? Por que esse silêncio?[n][f 1 3 65535][w][e]
 
 [msg MSG_532_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][vp 1 0 0 0 0 0]......[n][f 1 3 65535][w][e]
 
-[msg MSG_533_0_0 [Donna sofisticata in costume]]
+[msg MSG_533_0_0 [Mulher sofisticada em traje]]
 [s][vp 8 0 0 0 65535 0]Ele está olhando para nós...[n][f 1 3 65535][w][e]
 
 [msg MSG_534_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][vp 1 0 0 0 0 0]......[n][f 1 3 65535][w][e]
 
-[msg MSG_535_0_0 [Donna sofisticata in costume]]
+[msg MSG_535_0_0 [Mulher sofisticada em traje]]
 [s][vp 8 0 0 0 65535 0]Ei, o que...? Ele é muito fofo,[n]mas esses olhares intensos...[n]me dão uma sensação estranha.[n][f 1 3 65535][w][e]
 
-[msg MSG_536_0_0 [Donna truccata in costume]]
+[msg MSG_536_0_0 [Mulher maquiada em traje]]
 [s][vp 8 0 0 0 65535 0]Ei, o que...? Ele é muito fofo,[n]mas esses olhares intensos...[n]me dão uma sensação estranha.[n][f 1 3 65535][w][e]
 
 [msg MSG_537_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Há algum problema?[n]Você não está se sentindo bem?[n][f 1 3 65535][w][e]
 
-[msg MSG_538_0_0 [Donna sofisticata in costume]]
+[msg MSG_538_0_0 [Mulher sofisticada em traje]]
 [s][vp 8 0 0 0 65535 0]Ah, você fez isso[n]sem perceber?!?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Mas eu não conseguia tirar os olhos dele... É[n]assim que se sente quando eles roubam seu[n]coração?[n][f 1 3 65535][w][e]
 
@@ -1785,25 +1785,25 @@
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Na verdade, sou um artista[n]que faz principalmente[n]pinturas no estilo japonês.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Atualmente estou procurando por modelos de rara[n]beleza. Você seria perfeito. O que você acha?[n][f 1 3 65535][w][e]
 
-[msg MSG_541_0_0 [Donna sofisticata in costume]]
+[msg MSG_541_0_0 [Mulher sofisticada em traje]]
 [s][vp 8 0 0 0 65535 0]Opa, modelos? Adoraríamos,[n]mas saiba que não vamos nos despir.[n][f 1 3 65535][w][e]
 
 [msg MSG_542_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não haverá necessidade.[n][f 1 3 65535][w][e]
 
-[msg MSG_543_0_0 [Donna truccata in costume]]
+[msg MSG_543_0_0 [Mulher maquiada em traje]]
 [s][vp 8 0 0 0 65535 0]Tem certeza de que não quer nos levar para algum[n]lugar estranho? Todos esses elogios são[n]suspeitos...[n][f 1 3 65535][w][e]
 
 [msg MSG_544_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sim... No mínimo, a ideia é[n]fazer uma representação[n]de animais estranhos e misteriosos.[n][f 1 3 65535][w][e]
 
-[msg MSG_545_0_0 [Donna sofisticata in costume]]
+[msg MSG_545_0_0 [Mulher sofisticada em traje]]
 [s][vp 8 0 0 0 65535 0]Huh? Como você disse, desculpe?[n][f 1 3 65535][w][e]
 
 [msg MSG_546_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sem nada. Eu só estava pensando[n]que vocês poderiam ser[n]sujeitos muito originais.[n][f 1 3 65535][w][e]
 
-[msg MSG_547_0_0 [Donna truccata in costume]]
+[msg MSG_547_0_0 [Mulher maquiada em traje]]
 [s][vp 8 0 0 0 65535 0]Hahaha, você é tão engraçado![n]Sim, você é o melhor![n][f 1 3 65535][w][e]
 
 [msg MSG_548_0_0 [Ryuji]]
@@ -1884,49 +1884,49 @@
 [s]Sim, nós fazemos isso.[e]
 [s]Não, quero pensar melhor.[e]
 
-[msg MSG_572_0_0 [Donna sofisticata in costume]]
+[msg MSG_572_0_0 [Mulher sofisticada em traje]]
 [s][vp 8 0 0 0 65535 0]Oh? Gostou do número de telefone?[n]É um pouco repentino, não acha?[n][f 1 3 65535][w][e]
 
-[msg MSG_573_0_0 [Donna truccata in costume]]
+[msg MSG_573_0_0 [Mulher maquiada em traje]]
 [s][vp 8 0 0 0 65535 0]Além disso, quantos anos você tem?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Estamos na casa dos 20 anos e não[n]procuramos por crianças mais novas.[n][f 1 3 65535][w][e]
 
-[msg MSG_574_0_0 [Donna sofisticata in costume]]
+[msg MSG_574_0_0 [Mulher sofisticada em traje]]
 [s][vp 8 0 0 0 65535 0]No mínimo você deveria ter um carro.[n]Ou muito dinheiro![n][f 1 3 65535][w][e]
 
 [sel SEL_575_0_0 top]
 [s]Eu tenho um carro.[e]
 [s]Ganhar dinheiro é fácil.[e]
 
-[msg MSG_576_0_0 [Donna truccata in costume]]
+[msg MSG_576_0_0 [Mulher maquiada em traje]]
 [s][vp 8 0 0 0 65535 0]Sério? E onde você conseguiu[n]todo esse dinheiro?[n][f 1 3 65535][w][e]
 
-[msg MSG_577_0_0 [Donna sofisticata in costume]]
+[msg MSG_577_0_0 [Mulher sofisticada em traje]]
 [s][vp 8 0 0 0 65535 0]Que tipo de carro é?[n]É europeu? Espero que[n]não seja um lixo.[n][f 1 3 65535][w][e]
 
-[msg MSG_578_0_0 [Donna sofisticata in costume]]
+[msg MSG_578_0_0 [Mulher sofisticada em traje]]
 [s][vp 8 0 0 0 65535 0]Huh? Um carro... gato?!?[n]Do que diabos você está falando?[n][f 1 3 65535][w][e]
 
-[msg MSG_579_0_0 [Donna truccata in costume]]
+[msg MSG_579_0_0 [Mulher maquiada em traje]]
 [s][vp 8 0 0 0 65535 0]Se você realmente tem, então[n]prove. Mostre-nos as chaves.[n][f 1 3 65535][w][e]
 
-[msg MSG_580_0_0 [Donna sofisticata in costume]]
+[msg MSG_580_0_0 [Mulher sofisticada em traje]]
 [s][vp 8 0 0 0 65535 0]Acho que ele está mentindo.[n]Ele parece falido.[n][f 1 3 65535][w][e]
 
-[msg MSG_581_0_0 [Donna truccata in costume]]
+[msg MSG_581_0_0 [Mulher maquiada em traje]]
 [s][vp 8 0 0 0 65535 0]Ei, tentar se gabar assim[n]maneira é simplesmente ridículo. E então[n]você provou que estava errado! Hahaha![n][f 1 3 65535][w][e]
 
 [msg MSG_582_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Merda, estamos perdendo eles...[n]Precisamos surpreendê-los![n][f 1 3 65535][w][e]
 
-[msg MSG_583_0_0 [Donna truccata in costume]]
+[msg MSG_583_0_0 [Mulher maquiada em traje]]
 [s][vp 8 0 0 0 65535 0]Oh? Por que você diz isso?[n]Você está envolvido[n]em algum negócio obscuro?[n][f 1 3 65535][w][e]
 
-[msg MSG_584_0_0 [Donna sofisticata in costume]]
+[msg MSG_584_0_0 [Mulher sofisticada em traje]]
 [s][vp 8 0 0 0 65535 0]Vamos, esse aqui? Ele não teria[n]coragem para tal coisa![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Embora... bad boys[n]são perfeitos para mim.[n][f 1 3 65535][w][e]
 
-[msg MSG_585_0_0 [Donna truccata in costume]]
+[msg MSG_585_0_0 [Mulher maquiada em traje]]
 [s][vp 8 0 0 0 65535 0]Mais ou menos como os Phantom Thieves,[n]certo? Caras como eles[n]são muito legais![n][f 1 3 65535][w][e]
 
 [msg MSG_586_0_0 [Ryuji]]
@@ -1940,16 +1940,16 @@
 [s][vp 8 0 0 0 65535 0]Decidimos arriscar[n]nosso orgulho[n]para roubar seus corações.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Nós cumpriremos esta[n]missão, então fique atento.[n]Assinado, os Ladrões Fantasmas.[n][f 1 3 65535][w][e]
 
-[msg MSG_589_0_0 [Donna truccata in costume]]
+[msg MSG_589_0_0 [Mulher maquiada em traje]]
 [s][vp 8 0 0 0 65535 0]Hahahaha, isso deveria ser[n]uma carta de aviso?[n]Que ideia maluca![n][f 1 3 65535][w][e]
 
-[msg MSG_590_0_0 [Donna sofisticata in costume]]
+[msg MSG_590_0_0 [Mulher sofisticada em traje]]
 [s][vp 8 0 0 0 65535 0]Sim, se nada mais você é original.[n]Com esse talento, você poderia[n]até ser um deles![n][f 1 3 65535][w][e]
 
 [msg MSG_591_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bem, sim, eu... eu sou como eles,[n]de certa forma. Você não sente[n]o feitiço de ladrão que eles emitem?[n][f 1 3 65535][w][e]
 
-[msg MSG_592_0_0 [Donna truccata in costume]]
+[msg MSG_592_0_0 [Mulher maquiada em traje]]
 [s][vp 8 0 0 0 65535 0]Hahaha, absolutamente sim![n]Você é muito bom em imitações![n]Ahahahah![n][f 1 3 65535][w][e]
 
 [msg MSG_593_0_0 [Ryuji]]
@@ -1961,11 +1961,11 @@
 [msg MSG_595_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Só por curiosidade... Se você tivesse[n]a chance, você[n]se juntaria aos Phantom Thieves?[n][f 1 3 65535][w][e]
 
-[msg MSG_596_0_0 [Donna sofisticata in costume]]
+[msg MSG_596_0_0 [Mulher sofisticada em traje]]
 [s][vp 8 0 0 0 65535 0]Hahaha, sim![n]Isso seria ótimo![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Eu poderia ensinar uma boa lição[n]para todos os meninos[n]que nos deixam com raiva.[n][f 1 3 65535][w][e]
 
-[msg MSG_597_0_0 [Donna truccata in costume]]
+[msg MSG_597_0_0 [Mulher maquiada em traje]]
 [s][vp 8 0 0 0 65535 0]E então poderíamos conhecer[n]os outros Phantom Thieves, certo?[n]Quero dizer, seria o melhor dos melhores.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Espere, por que você está perguntando?[n][f 1 3 65535][w][e]
 
@@ -1973,65 +1973,65 @@
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bem... eu apenas pensei que[n]você seria de grande ajuda para eles.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Especialmente para aquela maquiagem pesada que[n]você usa. Você parece ter talento para disfarces.[n][f 1 3 65535][w][e]
 
-[msg MSG_599_0_0 [Donna truccata in costume]]
+[msg MSG_599_0_0 [Mulher maquiada em traje]]
 [s][vp 8 0 0 0 65535 0]Hahaha sério? Não sei porque,[n]mas estamos recebendo[n]muitos elogios![n][f 1 3 65535][w][e]
 
 [msg MSG_600_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vou me certificar de falar bem de você, se eu[n]conhecer os Phantom Thieves.[n][f 1 3 65535][w][e]
 
-[msg MSG_601_0_0 [Donna sofisticata in costume]]
+[msg MSG_601_0_0 [Mulher sofisticada em traje]]
 [s][vp 8 0 0 0 65535 0]Hahaha, você pode imaginar?[n]Eu passaria todo o meu tempo[n]se gabando disso para meus amigos![n][f 1 3 65535][w][e]
 
 [msg MSG_602_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Cara, eles estão super empolgados.[n]Acho que conseguimos![n][f 1 3 65535][w][e]
 
-[msg MSG_603_0_0 [Donna truccata in costume]]
+[msg MSG_603_0_0 [Mulher maquiada em traje]]
 [s][vp 8 0 0 0 65535 0]Hahahaha! Você é muito engraçado![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Estou rindo tanto que meu rímel está esfregando.[n]Fiuuu... E meu estômago dói também![n][f 1 3 65535][w][e]
 
-[msg MSG_604_0_0 [Donna sofisticata in costume]]
+[msg MSG_604_0_0 [Mulher sofisticada em traje]]
 [s][vp 8 0 0 0 65535 0]Verdade, hein? E então, agora que estou olhando[n]bem para você... tenho que dizer que você não[n]está mal, sabia?[n][f 1 3 65535][w][e]
 
 [msg MSG_605_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sério? Então você quer...[n][f 1 3 65535][w][e]
 
-[msg MSG_606_0_0 [Donna sofisticata in costume]]
+[msg MSG_606_0_0 [Mulher sofisticada em traje]]
 [s][vp 8 0 0 0 65535 0]Você fez bem em fazer[n]conversa. Foi hilário.[n][f 1 3 65535][w][e]
 
-[msg MSG_607_0_0 [Donna truccata in costume]]
+[msg MSG_607_0_0 [Mulher maquiada em traje]]
 [s][vp 8 0 0 0 65535 0]Ahahah, não exagere, vamos lá![n]Mais do que tudo podemos dizer[n]que foram um bom passatempo![n][f 1 3 65535][w][e]
 
-[msg MSG_608_0_0 [Donna sofisticata in costume]]
+[msg MSG_608_0_0 [Mulher sofisticada em traje]]
 [s][vp 8 0 0 0 65535 0]Como você é rude, hahaha![n]Vamos lá, foi... quase engraçado.[n][f 1 3 65535][w][e]
 
 [msg MSG_609_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E-Então digamos que podemos...[n][f 1 3 65535][w][e]
 
-[msg MSG_610_0_0 [Donna sofisticata in costume]]
+[msg MSG_610_0_0 [Mulher sofisticada em traje]]
 [s][vp 8 0 0 0 65535 0]Quero dizer, você ainda está falando?[n]Uau...[n][f 1 3 65535][w][e]
 
-[msg MSG_611_0_0 [Donna truccata in costume]]
+[msg MSG_611_0_0 [Mulher maquiada em traje]]
 [s][vp 8 0 0 0 65535 0]Você pode sair agora?[n]Você é um mais manco que o outro.[n][f 1 3 65535][w][e]
 
 [msg MSG_612_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não, espere! Você ainda não[n]viu nada...[n][f 1 3 65535][w][e]
 
-[msg MSG_613_0_0 [Donna truccata in costume]]
+[msg MSG_613_0_0 [Mulher maquiada em traje]]
 [s][vp 8 0 0 0 65535 0]Para ser honesto, nós[n]só nos preocupamos com Phantom Thieves reais.[n][f 1 3 65535][w][e]
 
-[msg MSG_614_0_0 [Donna sofisticata in costume]]
+[msg MSG_614_0_0 [Mulher sofisticada em traje]]
 [s][vp 8 0 0 0 65535 0]Ahahah, mas de fato![n]Você é patético em comparação.[n][f 1 3 65535][w][e]
 
 [msg MSG_615_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Talvez você esteja tirando conclusões[n]precipitadas. Afinal, você não conhece suas[n]verdadeiras identidades.[n][f 1 3 65535][w][e]
 
-[msg MSG_616_0_0 [Donna truccata in costume]]
+[msg MSG_616_0_0 [Mulher maquiada em traje]]
 [s][vp 8 0 0 0 65535 0]Não, nós saberíamos, se[n]encontrarmos um! Tenho certeza que eles[n]são os mais charmosos de todos![n][f 1 3 65535][w][e]
 
 [msg MSG_617_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E nós não[n]temos o mesmo efeito em você?!?[n][f 1 3 65535][w][e]
 
-[msg MSG_618_0_0 [Donna sofisticata in costume]]
+[msg MSG_618_0_0 [Mulher sofisticada em traje]]
 [s][vp 8 0 0 0 65535 0]Hahaha, você é[n]qualquer cara![n]Você não tem nada de especial![n][f 1 3 65535][w][e]
 
 [sel SEL_619_0_0 top]
@@ -2039,14 +2039,14 @@
 [s]Nós somos os Ladrões Fantasmas.[e]
 [s]Vamos remover a perturbação.[e]
 
-[msg MSG_620_0_0 [Donna sofisticata in costume]]
+[msg MSG_620_0_0 [Mulher sofisticada em traje]]
 [s][vp 8 0 0 0 65535 0]Você está realmente tentando nos dizer[n]que são os Phantom Thieves?[n]Que engraçado![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Pena que é a mesma coisa[n]que quase[n]todo mundo nos conta.[n][f 1 3 65535][w][e]
 
 [msg MSG_621_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas no nosso caso é verdade![n]Nós realmente somos os Phantom Thieves![n]Olhe mais de perto! Somos nós![n][f 1 3 65535][w][e]
 
-[msg MSG_622_0_0 [Donna sofisticata in costume]]
+[msg MSG_622_0_0 [Mulher sofisticada em traje]]
 [s][vp 8 0 0 0 65535 0]*suspiro* Mais crianças tentando[n]se passar por Phantom Thieves?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Estou cansado de ouvir[n]a mesma coisa de todo mundo[n]que bate em nós.[n][f 1 3 65535][w][e]
 
@@ -2056,20 +2056,20 @@
 [msg MSG_624_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não, não seja tão educado![n]Bem, nós...[n]somos os Phantom Thieves![n][f 1 3 65535][w][e]
 
-[msg MSG_625_0_0 [Donna sofisticata in costume]]
+[msg MSG_625_0_0 [Mulher sofisticada em traje]]
 [s][vp 8 0 0 0 65535 0]*suspiro* Mais crianças tentando[n]se passar por Phantom Thieves?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Estou cansado de ouvir[n]a mesma coisa de todo mundo[n]que bate em nós.[n][f 1 3 65535][w][e]
 
 [msg MSG_626_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas no nosso caso é verdade![n]Nós realmente somos os Phantom Thieves![n]Olhe mais de perto! Somos nós![n][f 1 3 65535][w][e]
 
-[msg MSG_627_0_0 [Donna truccata in costume]]
+[msg MSG_627_0_0 [Mulher maquiada em traje]]
 [s][vp 8 0 0 0 65535 0]Os verdadeiros Phantom Thieves não fariam isso[n]com garotas. Você é um perdedor de primeira.[n][f 1 3 65535][w][e]
 
-[msg MSG_628_0_0 [Donna sofisticata in costume]]
+[msg MSG_628_0_0 [Mulher sofisticada em traje]]
 [s][vp 8 0 0 0 65535 0]Além disso, quem acreditaria que[n]os Phantom Thieves são[n]apenas crianças?!? Ahahahahah![n][f 1 3 65535][w][e]
 
-[msg MSG_629_0_0 [Donna truccata in costume]]
+[msg MSG_629_0_0 [Mulher maquiada em traje]]
 [s][vp 8 0 0 0 65535 0]Bem, desculpe de qualquer maneira! Olá![n][f 1 3 65535][w][e]
 
 [msg MSG_630_0_0 [Yusuke]]

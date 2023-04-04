@@ -8,19 +8,19 @@
 [s]É muito popular, mas está fechado há um bom tempo.[n][w][e]
 [s]Reabriu recentemente...[n]Sabe-se lá porquê.[n][w][e]
 
-[msg MSG_NPC_01 [Cliente buongustaio]]
+[msg MSG_NPC_01 [Cliente gourmet]]
 [s]Isso é bom! Eu deveria[n]vir aqui pelo menos uma vez por mês.[n][w][e]
 [s]Fiquei triste com esse[n]fechamento temporário. Estou muito[n]feliz por eles terem reaberto![n][w][e]
 [s]E tudo graças à Shujin Academy![n][w][e]
 
-[msg MSG_NPC_02 [Cliente pacato]]
+[msg MSG_NPC_02 [Cliente calmo]]
 [s]Huh...? O que Shujin tem a ver com isso?[n][w][e]
 
-[msg MSG_NPC_03 [Cliente buongustaio]]
+[msg MSG_NPC_03 [Cliente gourmet]]
 [s]Bem, o proprietário decidiu[n]tentar novamente quando viu[n]aquele Kamoshida de Shujin...[n][w][e]
 [s]Sentiu-se inspirado, quando[n]o o viu confessar seus crimes com[n]coragem, sem fugir.[n][w][e]
 
-[msg MSG_NPC_04 [Cliente pacato]]
+[msg MSG_NPC_04 [Cliente calmo]]
 [s]Hmm interessante...[n][w][e]
 
 [msg MSG_PC_02]

@@ -1,19 +1,19 @@
-[msg MSG_000_0_0 [Studente universitario]]
+[msg MSG_000_0_0 [Estudante universitário]]
 [s][vp 8 0 0 1 18 0]Uau, que dia lindo.[n]Vamos dar uma volta?[n][f 1 3 65535][w][e]
 
-[msg MSG_001_0_0 [Uomo d'affari]]
+[msg MSG_001_0_0 [Homem de negocios]]
 [s][vp 8 0 0 2 15 0]Preparar? Sim, é para a[n]reunião preliminar de amanhã...[n][f 1 3 65535][w][e]
 
-[msg MSG_002_0_0 [Appassionato di tecnologia]]
+[msg MSG_002_0_0 [Entusiasta de tecnologia]]
 [s][vp 8 0 0 3 65535 0]Hoje à noite haverá o anúncio do[n]novo smartphone![n][f 1 3 65535][w][e]
 
-[msg MSG_002_2_0 [Donna appariscente]]
+[msg MSG_002_2_0 [Mulher chamativa]]
 [s][vp 8 0 0 21 65535 0]Mas no final quem eram[n]aqueles ladrões fantasmas?[n][f 1 3 65535][w][e]
 
-[msg MSG_002_5_0 [Uomo alla mano]]
+[msg MSG_002_5_0 [Homem na mão]]
 [s][vp 8 0 0 22 65535 0]Oh Deus, não me faça pensar nisso![w][e]
 
-[msg MSG_002_7_0 [Donna informata]]
+[msg MSG_002_7_0 [Mulher informada]]
 [s][vp 8 0 0 23 65535 0]Mas foram notícias engraçadas.[n]Bem, duvido que alguém[n]ainda esteja interessado.[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Yusuke]]

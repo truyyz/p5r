@@ -25,10 +25,10 @@
 [msg D04_03_e296_201_mes04 [Ann]]
 [s][bup 0 4 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 8 0 0]Hã? Outra voz...[n][w][e]
 
-[msg D04_03_e296_201_mes05 [Giovane donna]]
+[msg D04_03_e296_201_mes05 [Mulher jovem]]
 [s](廃人化するときの恐ろしいうめき)[n][w][e]
 
-[msg D04_03_e296_201_mes06 [Voce di giovane donna]]
+[msg D04_03_e296_201_mes06 [Voz de uma jovem]]
 [s][vp 1 0 0 9 0 0]...F-Futabaaaa...[n][w][e]
 [s][vp 1 0 0 10 0 0]...V-Você... seiiiiiii...[n][w][e]
 

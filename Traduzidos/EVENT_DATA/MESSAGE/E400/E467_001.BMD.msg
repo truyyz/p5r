@@ -1,4 +1,4 @@
-[msg MSG_000_0_0 [Santo Graal]]
+[msg MSG_000_0_0 [Cálice Sagrado]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 10 301 65535][vp 8 0 0 1 65535 0]humanos! Como você ousa![n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Ryuji]]
@@ -10,13 +10,13 @@
 [msg MSG_003_0_0 [(SE)聖杯]]
 [s][vp 8 0 0 4 65535 0](不気味な笑い)[n][f 1 3 65535][w][e]
 
-[msg MSG_004_0_0 [Santo Graal]]
+[msg MSG_004_0_0 [Cálice Sagrado]]
 [s][vp 8 0 0 5 65535 0]...Você nunca teria que sofrer,[n]se tivesse simplesmente[n]morrido na ignorância.[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Yusuke]]
 [s][bup 0 5 100 65535 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Do que você está falando?[n][f 1 3 65535][w][e]
 
-[msg MSG_006_0_0 [Santo Graal]]
+[msg MSG_006_0_0 [Cálice Sagrado]]
 [s][vp 8 0 0 7 65535 0]Quão presunçoso você pode ser,[n]pensar que Deus e os homens[n]estão no mesmo nível...?[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Makoto]]
@@ -40,7 +40,7 @@
 [msg MSG_013_0_0 [(SE)聖杯]]
 [s][vp 8 0 0 14 65535 0](いっそうの不気味な笑い)[n][f 1 3 65535][w][e]
 
-[msg MSG_014_0_0 [Santo Graal]]
+[msg MSG_014_0_0 [Cálice Sagrado]]
 [s][vp 8 0 0 15 65535 0]Você vai morrer...[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [(SE)聖杯]]

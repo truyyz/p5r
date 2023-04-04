@@ -25,7 +25,7 @@
 [msg D01_04_e165_161_mes04 [Ann]]
 [s][bup 0 4 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6047 65535 0]E um exército de soldados...[n][w][e]
 
-[msg D01_04_e165_161_mes05 [Ombra di Kamoshida]]
+[msg D01_04_e165_161_mes05 [Sombra de Kamoshida]]
 [s][bup 0 202 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Como é que você ainda não os pegou?!?[n][w][e]
 
 [msg D01_04_e165_161_mes06 [Soldado com Armadura]]

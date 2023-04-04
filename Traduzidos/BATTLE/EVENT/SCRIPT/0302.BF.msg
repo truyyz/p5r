@@ -4,7 +4,7 @@
 [msg MSG_BTLTALKTEST_010_003]
 [s][vp 3 0 3 1324 0 0][f 1 3 65535][w][e]
 
-[msg MSG_BTLARTISTENTRY_000_0 [Ombra di Madarame]]
+[msg MSG_BTLARTISTENTRY_000_0 [Sombra de Madarame]]
 [s][vp 8 0 2 1001 1 210]Tudo bem... vamos começar, vermes![n][f 1 3 65535][w][e]
 
 [msg MSG_BTLARTISTENTRY_010_0 [Yusuke]]
@@ -17,13 +17,13 @@
 [msg MSG_BTLHOLDUP_100_002 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1005 0 3]Madarame saiu![n][f 1 3 65535][w][e]
 
-[msg MSG_BTLHOLDUP_010_000 [Ombra di Madarame]]
+[msg MSG_BTLHOLDUP_010_000 [Sombra de Madarame]]
 [s][vp 8 0 2 1006 1 210]Droga... eu sou o grande Madarame...[n][f 1 3 65535][w][e]
 
-[msg MSG_BTLHOLDUP_011_000 [Ombra di Madarame]]
+[msg MSG_BTLHOLDUP_011_000 [Sombra de Madarame]]
 [s][vp 8 0 2 1007 1 210]Aquele Madarame que[n]está esgotado toda vez[n]que abre uma exposição![n][f 1 3 65535][w][e]
 
-[msg MSG_BTLHOLDUP_012_000 [Ombra di Madarame]]
+[msg MSG_BTLHOLDUP_012_000 [Sombra de Madarame]]
 [s][vp 8 0 2 1008 1 210]Vocês pirralhos inúteis não têm o direito de me[n]desafiar![n][f 1 3 65535][w][e]
 
 [msg MSG_BTLHOLDUP_020_004 [Yusuke]]
@@ -34,7 +34,7 @@
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1015 0 3]Você ainda fala assim?!?[n][f 1 3 65535][w][e]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1016 0 3]Então não há necessidade de se segurar![n]Aproxime-se, Joker![n][f 1 3 65535][w][e]
 
-[msg MSG_BTL_ARTISTSPECIAL_00 [Ombra di Madarame]]
+[msg MSG_BTL_ARTISTSPECIAL_00 [Sombra de Madarame]]
 [s][vp 8 0 2 1017 1 210]Grrr... pirralhos atrevidos...![n][f 1 3 65535][w][e]
 [s][vp 8 0 2 1018 1 210]Para entender as coisas você precisa[n]uma boa surra![n][f 1 3 65535][w][e]
 
@@ -109,7 +109,7 @@
 [msg charaorder_Yugo_01]
 [s][vp 8 0 2 1040 0 5]Eu farei. Deixe para mim.[n][w][e]
 
-[msg MSG_PAINT_USE_EVE_000_00 [Ombra di Madarame]]
+[msg MSG_PAINT_USE_EVE_000_00 [Sombra de Madarame]]
 [s][vp 8 0 2 1041 1 210]N-Nghhhhhh...?!?[n][f 1 3 65535][w][e]
 [s][vp 8 0 2 1042 1 210]Mas o que...?!? Meus poderes...[n]de repente estão desaparecendo...[n][f 1 3 65535][w][e]
 
@@ -117,25 +117,25 @@
 [s][bup 0 3 4 65535 0][f 4 10 65535 0 0][vp 8 0 2 1043 0 3]Eles se regeneraram?!?[n][f 1 3 65535][w][e]
 [s][bup 0 3 4 65535 0][f 4 10 65535 0 0][vp 8 0 2 1044 0 3]Droga... Essas coisas voltam à vida,[n]se não atirarmos nelas todas juntas?!?[n][f 1 3 65535][w][e]
 
-[msg MSG_BTL_ARTIST80_000_000 [Ombra di Madarame]]
+[msg MSG_BTL_ARTIST80_000_000 [Sombra de Madarame]]
 [s][vp 8 0 2 1045 1 210]Ah...[n][f 1 3 65535][w][e]
 
-[msg MSG_BTL_ARTIST80_001_000 [Ombra di Madarame]]
+[msg MSG_BTL_ARTIST80_001_000 [Sombra de Madarame]]
 [s][vp 8 0 2 1046 1 210]Já chega... É assim que você agradece[n]o homem que te criou?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_ARTIST80_010_004 [Yusuke]]
 [s][bup 0 5 102 65535 0][f 4 10 65535 0 0][vp 8 0 2 1047 0 5]Silêncio! Não perca tempo![n][f 1 3 65535][w][e]
 
-[msg MSG_BTL_ARTIST40_000_000 [Ombra di Madarame]]
+[msg MSG_BTL_ARTIST40_000_000 [Sombra de Madarame]]
 [s][vp 8 0 2 1048 1 210]Droga... Droga...[n][f 1 3 65535][w][e]
 
-[msg MSG_BTL_ARTIST40_001_000 [Ombra di Madarame]]
+[msg MSG_BTL_ARTIST40_001_000 [Sombra de Madarame]]
 [s][vp 8 0 2 1049 1 210]Pare, pirralhos, ou você vai pagar...![n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_ARTIST40_010_004 [Yusuke]]
 [s][bup 0 5 102 65535 0][f 4 10 65535 0 0][vp 8 0 2 1050 0 5]Você acha que ameaças semelhantes[n]nos farão desistir...?!?[n][f 1 3 65535][w][e]
 
-[msg MSG_BTL_ARTISTEND_000_00 [Ombra di Madarame]]
+[msg MSG_BTL_ARTISTEND_000_00 [Sombra de Madarame]]
 [s][vp 8 0 2 1051 1 210]Argh... Malditos pirralhos...[n][f 1 3 65535][w][e]
 [s][vp 8 0 2 1052 1 210]Quando um dia você pedir ajuda...[n]você vai se arrepender...[n][f 1 3 65535][w][e]
 [s][vp 8 0 2 1053 1 210]Nenhum adulto vai te ajudar...[n][f 1 3 65535][w][e]
@@ -143,7 +143,7 @@
 [msg MSG_BTL_ARTIST25_010_004 [Yusuke]]
 [s][bup 0 5 102 65535 0][f 4 10 65535 0 0][vp 8 0 2 1054 0 5]Prepare-se para[n]sua queda, Madarame![n][f 1 3 65535][w][e]
 
-[msg MSG_BTLARTISTENTRY_000_0_2 [Ombra di Madarame]]
+[msg MSG_BTLARTISTENTRY_000_0_2 [Sombra de Madarame]]
 [s][vp 8 0 2 1001 1 210]Tudo bem... vamos começar, vermes![n][f 1 3 65535][w][e]
 
 [msg MSG_BTLARTISTENTRY_010_0_2 [Yusuke]]
@@ -156,13 +156,13 @@
 [msg MSG_BTLHOLDUP_100_002EX [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1004 0 3]Madarame saiu![n][f 1 3 65535][w][e]
 
-[msg MSG_BTLHOLDUP_010_000EX [Ombra di Madarame]]
+[msg MSG_BTLHOLDUP_010_000EX [Sombra de Madarame]]
 [s][vp 8 0 2 1005 1 210]Porra...eu sou o grande[n]Madarame...[n][f 1 3 65535][w][e]
 
-[msg MSG_BTLHOLDUP_011_000EX [Ombra di Madarame]]
+[msg MSG_BTLHOLDUP_011_000EX [Sombra de Madarame]]
 [s][vp 8 0 2 1006 1 210]Aquele Madarame que[n]está esgotado toda vez[n]que abre uma exposição![n][f 1 3 65535][w][e]
 
-[msg MSG_BTLHOLDUP_012_000EX [Ombra di Madarame]]
+[msg MSG_BTLHOLDUP_012_000EX [Sombra de Madarame]]
 [s][vp 8 0 2 1007 1 210]Vocês pirralhos inúteis não têm o direito de me[n]desafiar![n][f 1 3 65535][w][e]
 
 [msg MSG_BTLHOLDUP_020_004EX [Yusuke]]
@@ -173,7 +173,7 @@
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1010 0 3]Você ainda fala assim?!?[n][f 1 3 65535][w][e]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1011 0 3]Então não há necessidade de se segurar![n]Aproxime-se, Joker![n][f 1 3 65535][w][e]
 
-[msg MSG_BTL_ARTISTSPECIAL_00_2 [Ombra di Madarame]]
+[msg MSG_BTL_ARTISTSPECIAL_00_2 [Sombra de Madarame]]
 [s][vp 8 0 2 1012 1 210]Grrr... pirralhos atrevidos...![n][f 1 3 65535][w][e]
 [s][vp 8 0 2 1013 1 210]Para entender as coisas você precisa[n]uma boa surra![n][f 1 3 65535][w][e]
 
@@ -248,7 +248,7 @@
 [msg charaorder_Yugo_01EX]
 [s][vp 8 0 2 1038 0 5]Eu farei. Deixe para mim.[n][w][e]
 
-[msg MSG_PAINT_USE_EVE_000_00_2 [Ombra di Madarame]]
+[msg MSG_PAINT_USE_EVE_000_00_2 [Sombra de Madarame]]
 [s][vp 8 0 2 1039 1 210]N-Nghhhhhh...?!?[n][f 1 3 65535][w][e]
 [s][vp 8 0 2 1040 1 210]Mas o que...?!? Meus poderes...[n]de repente estão desaparecendo...[n][f 1 3 65535][w][e]
 
@@ -256,25 +256,25 @@
 [s][bup 0 3 4 65535 0][f 4 10 65535 0 0][vp 8 0 2 1041 0 3]Eles se regeneraram?!?[n][f 1 3 65535][w][e]
 [s][bup 0 3 4 65535 0][f 4 10 65535 0 0][vp 8 0 2 1042 0 3]Droga... Essas coisas voltam à vida,[n]se não atirarmos nelas todas juntas?!?[n][f 1 3 65535][w][e]
 
-[msg MSG_BTL_ARTIST80_000_000_2 [Ombra di Madarame]]
+[msg MSG_BTL_ARTIST80_000_000_2 [Sombra de Madarame]]
 [s][vp 8 0 2 1043 1 210]N-Ngh...[n][f 1 3 65535][w][e]
 
-[msg MSG_BTL_ARTIST80_001_000_2 [Ombra di Madarame]]
+[msg MSG_BTL_ARTIST80_001_000_2 [Sombra de Madarame]]
 [s][vp 8 0 2 1044 1 210]Já chega... É assim que você agradece[n]o homem que te criou?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_ARTIST80_010_004_2 [Yusuke]]
 [s][bup 0 5 102 65535 0][f 4 10 65535 0 0][vp 8 0 2 1045 0 5]Silêncio! Não perca tempo![n][f 1 3 65535][w][e]
 
-[msg MSG_BTL_ARTIST40_000_000_2 [Ombra di Madarame]]
+[msg MSG_BTL_ARTIST40_000_000_2 [Sombra de Madarame]]
 [s][vp 8 0 2 1047 1 210]Droga... Droga...[n][f 1 3 65535][w][e]
 
-[msg MSG_BTL_ARTIST40_001_000_2 [Ombra di Madarame]]
+[msg MSG_BTL_ARTIST40_001_000_2 [Sombra de Madarame]]
 [s][vp 8 0 2 1048 1 210]Pare, pirralhos, ou você vai pagar...![n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_ARTIST40_010_004_2 [Yusuke]]
 [s][bup 0 5 102 65535 0][f 4 10 65535 0 0][vp 8 0 2 1049 0 5]Você acha que ameaças semelhantes[n]nos farão desistir...?!?[n][f 1 3 65535][w][e]
 
-[msg MSG_BTL_ARTISTEND_000_00_2 [Ombra di Madarame]]
+[msg MSG_BTL_ARTISTEND_000_00_2 [Sombra de Madarame]]
 [s][vp 8 0 2 1051 1 210]Argh... Malditos pirralhos...[n][f 1 3 65535][w][e]
 [s][vp 8 0 2 1052 1 210]Quando um dia você pedir ajuda...[n]você vai se arrepender...[n][f 1 3 65535][w][e]
 [s][vp 8 0 2 1053 1 210]Nenhum adulto vai te ajudar...[n][f 1 3 65535][w][e]
@@ -282,10 +282,10 @@
 [msg MSG_BTL_ARTIST25_010_004_2 [Yusuke]]
 [s][bup 0 5 102 65535 0][f 4 10 65535 0 0][vp 8 0 2 1054 0 5]Prepare-se para[n]sua queda, Madarame![n][f 1 3 65535][w][e]
 
-[msg MSG_RESPONSE_COPY_STARTE [Ombra di Madarame]]
+[msg MSG_RESPONSE_COPY_STARTE [Sombra de Madarame]]
 [s][vp 8 0 2 1057 1 210]Eu sou o grande artista Madarame![n]Se vocês pirralhos não entenderem...[n][f 1 3 65535][w][e]
 
-[msg MSG_RESPONSE_COPY_STARTE_2 [Ombra di Madarame]]
+[msg MSG_RESPONSE_COPY_STARTE_2 [Sombra de Madarame]]
 [s][vp 8 0 2 1058 1 210]Você vai ver com seus próprios olhos![n]Eis minha habilidade![n][f 1 3 65535][w][e]
 
 [msg MSG_RESPONSE_COPY_EX [Morgana]]
@@ -302,22 +302,22 @@
 [msg MSG_BTL_ARTIST80_010_003 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1050 0 3]Você pode ameaçar o quanto quiser.[n]Você não vai nos parar![n][f 1 3 65535][w][e]
 
-[msg MSG_BTL_ARTIST_FAKE_000_ [Finto rammarico]]
+[msg MSG_BTL_ARTIST_FAKE_000_ [Arrependimento fingido]]
 [s][vp 8 0 2 1061 1 210]Você se atreve a desafiar um adulto estimado?[n]Seu sangue vai gelar de medo![n][f 1 3 65535][w][e]
 
-[msg MSG_BTL_ARTIST_FAKE_000__2 [Finta furia]]
+[msg MSG_BTL_ARTIST_FAKE_000__2 [Fúria fingida]]
 [s][vp 8 0 2 1062 1 210]Pirralhos inexperientes...[n]Minha fúria reduzirá vocês a cinzas![n][f 1 3 65535][w][e]
 
-[msg MSG_BTL_ARTIST_FAKE_000__3 [Finta allegria]]
+[msg MSG_BTL_ARTIST_FAKE_000__3 [Alegria falsa]]
 [s][vp 8 0 2 1063 1 210]Sumiu sem deixar rastro,[n]como poeira espalhada pelo vento![n][f 1 3 65535][w][e]
 
-[msg MSG_BTL_ARTIST_FAKE_000__4 [Finta gioia]]
+[msg MSG_BTL_ARTIST_FAKE_000__4 [Alegria fingida]]
 [s][vp 8 0 2 1064 1 210]Meu gênio ataca como[n]um relâmpago.[n]Você descobrirá por si mesmo![n][f 1 3 65535][w][e]
 
 [msg MSG_RESPONSE_COPY_EX_FAI [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1065 0 3]Ei, algo não está certo![n]Talvez ele...?[n][f 1 3 65535][w][e]
 
-[msg MSG_RESPONSE_COPY_EX_FAI_2 [Ombra di Madarame]]
+[msg MSG_RESPONSE_COPY_EX_FAI_2 [Sombra de Madarame]]
 [s][vp 8 0 2 1066 1 210]O que!?! Eu, o grande Madarame...[n]eu cometi um erro!?![n][f 1 3 65535][w][e]
 
 [msg MSG_RESPONSE_COPY_EX_FAI_3 [Yusuke]]

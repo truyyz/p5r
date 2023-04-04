@@ -92,16 +92,16 @@
 [msg MSG_015_0_0 [Haru]]
 [s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mmh... Café é uma coisa[n]tão... complexa...[n][f 1 3 65535][w][e]
 
-[msg MSG_016_0_0 [Uomo tarchiato]]
+[msg MSG_016_0_0 [Homem atarracado]]
 [s][vp 8 0 0 0 65535 0]Haru-chan?[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Haru]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 7 7 300 1][vp 8 2 0 3024 65535 0]T-Takakura-san?!?[n][f 1 3 65535][w][e]
 
-[msg MSG_018_0_0 [Uomo di nome Takakura]]
+[msg MSG_018_0_0 [Homem chamado Takakura]]
 [s][vp 8 0 0 0 5 0]Que estranho ver você aqui. Não[n]frequentemente encontro pessoas[n]tão jovens em lugares como este.[n][f 1 3 65535][w][e]
 
-[msg MSG_018_5_0 [Uomo di nome Takakura]]
+[msg MSG_018_5_0 [Homem chamado Takakura]]
 [s][vp 8 0 0 0 5 0]E quem é ele?[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Haru]]

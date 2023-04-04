@@ -32,7 +32,7 @@
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 7155 65535 0]Este lugar é enorme...[n]Deve haver algo no final![n][w][e]
 
 [msg SAFETY_MES_RYUJI_11_01 [Ryuji]]
-[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 7025 65535 0]Agora, isso é uma surpresa...[n]Eu não esperava que Memento[n]fosse tão profundo...[n][w][e]
+[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 7025 65535 0]Agora, isso é uma surpresa...[n]Eu não esperava que Mementos[n]fosse tão profundo...[n][w][e]
 
 [msg SAFETY_MES_RYUJI_12_01 [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 7023 65535 0]Fazer o sangue circular é a[n]melhor maneira de se aquecer nos[n]dias frios![n][w][e]
@@ -117,7 +117,7 @@
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 6018 65535 0]Ultimamente está começando a ficar muito[n]frio... Acho que está na hora[n]de comprar agasalhos.[n][w][e]
 
 [msg SAFETY_MES_ANN_12_01 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 6155 65535 0]É bom estar de volta a Memento depois da[n]primeira visita do ano ao santuário.[n]Eu nunca me canso disso![n][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 6155 65535 0]É bom estar de volta a Mementos depois da[n]primeira visita do ano ao santuário.[n]Eu nunca me canso disso![n][w][e]
 
 [msg SAFETY_MES_YUUSUKE_02_01 [Yusuke]]
 [s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 4135 65535 0]Eu não tinha ideia de que havia tudo isso em[n]Shibuya. Eu sempre descubro coisas novas com[n]você.[n][w][e]

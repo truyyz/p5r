@@ -1,31 +1,31 @@
 [msg MSG_000_0_0 [Chihaya]]
 [s][bup 0 113 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 10006 65535 0]Boa noite.[n][f 1 3 65535][w][e]
 
-[msg MSG_001_0_0 [Impiegata]]
+[msg MSG_001_0_0 [Noivo]]
 [s][vp 8 0 0 0 9 0]Olá, Mifune-sensei. Estou[n]ansioso pela sessão de hoje.[n]A última previsão foi perfeita.[n][f 1 3 65535][w][e]
 
-[msg MSG_001_5_0 [Impiegata]]
+[msg MSG_001_5_0 [Noivo]]
 [s][vp 8 0 0 0 9 0]A propósito, uhm...[n]quem é esse cara?[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Chihaya]]
 [s][bup 0 113 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Oh, não se preocupe.[n]Ele é apenas meu aprendiz.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Pense nele como um animal de pelúcia de tamanho[n]humano. Olhe para aquele cabelo fofo.[n][f 1 3 65535][w][e]
 
-[msg MSG_003_0_0 [Impiegata]]
+[msg MSG_003_0_0 [Noivo]]
 [s][vp 8 0 0 0 9 0]Espera... então você trabalha[n]para uma mulher, mesmo sendo homem?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 9 0]*suspiro* Algo impensável[n]onde eu trabalho...[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Chihaya]]
 [s][bup 0 113 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 10135 65535 0]Então[n]algo mais aconteceu no trabalho?[n][f 1 3 65535][w][e]
 
-[msg MSG_005_0_0 [Impiegata]]
+[msg MSG_005_0_0 [Noivo]]
 [s][vp 8 0 0 0 9 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 113 5 300 65535]Sim. Um colega meu[n]recebeu todo o crédito por um[n]projeto no qual dei tudo de mim.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 9 0]E sabe o que o patrão me disse?[n]Que é a ordem natural das[n]coisas, porque eu sou mulher.[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Chihaya]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 113 5 300 1][vp 8 2 0 10047 65535 0]Horrível![n][f 1 3 65535][w][e]
 
-[msg MSG_007_0_0 [Impiegata]]
+[msg MSG_007_0_0 [Noivo]]
 [s][vp 8 0 0 0 9 0]É por isso que estou pensando em[n]desistir e abrir um negócio![n]Na verdade, venho pensando nisso há algum tempo.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 9 0]Mas não sei se vou conseguir[n]encontrar meu lugar no mercado...[n][f 1 3 65535][w][e]
 
@@ -37,13 +37,13 @@
 [s][bup 0 113 3 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 38 5 50][vp 8 0 0 0 65535 0]Hum, as cartas estão invertidas.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 10091 65535 0]Simplificando... sua empresa[n]está fadada ao fracasso.[n][f 1 3 65535][w][e]
 
-[msg MSG_010_0_0 [Impiegata]]
+[msg MSG_010_0_0 [Noivo]]
 [s][vp 8 0 0 0 9 0]Não! O-O que posso fazer?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Chihaya]]
 [s][bup 0 113 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sinto muito... mas neste caso[n]o destino é inevitável.[n][f 1 3 65535][w][e]
 
-[msg MSG_012_0_0 [Impiegata]]
+[msg MSG_012_0_0 [Noivo]]
 [s][vp 8 0 0 0 9 0]Inescapável...?[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Chihaya]]
@@ -94,12 +94,12 @@
 [s][bup 0 113 2 65535 0][f 4 10 65535 0 0][vp 8 2 0 10021 65535 0]Você sabe que falamos sobre seu sucesso nos[n]negócios, certo? Não tem nada a ver com "o[n]poder".[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Pense em outra resposta![n][f 1 3 65535][w][e]
 
-[msg MSG_026_0_0 [Impiegata]]
+[msg MSG_026_0_0 [Noivo]]
 [s][vp 8 0 0 0 9 0]Invertendo o destino...?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 9 0]É verdade... não tenho que seguir as[n]regras de uma sociedade opressora![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 9 0]Eu posso fazer isso... Vou mudar completamente[n]minha indústria ultrapassada![n][f 1 3 65535][w][e]
 
-[msg MSG_027_0_0 [Impiegata]]
+[msg MSG_027_0_0 [Noivo]]
 [s][vp 8 0 0 0 9 0]...Eu decidi. Vou[n]largar meu emprego e abrir minha[n]empresa privada![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 9 0]Mesmo se eu falhar, pelo menos[n]não vou perder tempo trabalhando[n]para aquele bastardo machista...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 9 0]Obrigado, jovem! I[n]com licença, Mifune-sensei.[n][f 1 3 65535][w][e]

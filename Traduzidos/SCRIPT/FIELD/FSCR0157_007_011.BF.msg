@@ -1,7 +1,7 @@
-[msg mini_ev_mes_01_GAME_04_m [Cassiere Ombra]]
+[msg mini_ev_mes_01_GAME_04_m [Caixa sombra]]
 [s]A soma dos dados é [clr 2][var 0][clr 27].[n][w][e]
 
-[msg mini_ev_mes_01_GAME_01_m [Cassiere Ombra]]
+[msg mini_ev_mes_01_GAME_01_m [Caixa sombra]]
 [s]Bem-vindo à sala de dados![n][w][e]
 [s]Aproveite este jogo simples[n]para adivinhar o total[n]que sairá do lançamento de três dados.[n][w][e]
 [s]Com uma previsão correta, você[n]dobra sua aposta, enquanto com[n]três dados idênticos, você a triplica.[n][w][e]
@@ -9,14 +9,14 @@
 [s]A aposta inicial, independentemente[n]do seu tamanho, é[n]multiplicada por cinco![n][w][e]
 [s]A base para jogar[n]um jogo é... Uh?[n][w][e]
 
-[msg mini_ev_mes_01_GAME_01_m_2 [Cassiere Ombra]]
+[msg mini_ev_mes_01_GAME_01_m_2 [Caixa sombra]]
 [s]Uau, que surpresa! A[n]promoção especial[n]Easy Money está em andamento![n][w][e]
 [s]Taxa de participação e ganhos[n]são cinco vezes a norma![n]Máximo de quatro jogos por cliente![n][w][e]
 
 [msg mini_ev_mes_01_GAME_01_m_3 [Akechi]]
 [s][bup 0 9 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 8158 65535 0]Não se preocupe.[n]Vamos vencer com certeza.[n][w][e]
 
-[msg mini_ev_mes_01_GAME_01_m_4 [Cassiere Ombra]]
+[msg mini_ev_mes_01_GAME_01_m_4 [Caixa sombra]]
 [s]É jogado com 125 moedas![n]Quer jogar?[n][w][e]
 
 [sel mini_ev_mes_01_GAME_01_s top]
@@ -29,7 +29,7 @@
 [msg mini_ev_mes_01_GAME_01_s_3 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]......[n][w][e]
 
-[msg mini_ev_mes_01_GAME_01_m_5 [Cassiere Ombra]]
+[msg mini_ev_mes_01_GAME_01_m_5 [Caixa sombra]]
 [s]Bem, declare o total que[n]sairá do lançamento dos três dados.[n][w][e]
 
 [sel mini_ev_mes_01_GAME_01_s_4 top]
@@ -45,36 +45,36 @@
 [msg mini_ev_mes_01_GAME_01_s_7 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]......[n][w][e]
 
-[msg mini_ev_mes_01_GAME_01_m_6 [Cassiere Ombra]]
+[msg mini_ev_mes_01_GAME_01_m_6 [Caixa sombra]]
 [s]Brilhante, uma vitória perfeita![n]Você ganhou 625 moedas![n][w][e]
 [s]Deseja continuar[n]jogando?[n][w][e]
 
 [msg mini_ev_mes_01_GAME_01_m_7 [Akechi]]
 [s][bup 0 9 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 8023 65535 0]É claro.[n][w][e]
 
-[msg mini_ev_mes_01_GAME_01_m_8 [Cassiere Ombra]]
+[msg mini_ev_mes_01_GAME_01_m_8 [Caixa sombra]]
 [s]Excelente, senhor. Por favor,[n]declare o próximo total![n][w][e]
 
-[msg mini_ev_mes_01_GAME_01_m_9 [Cassiere Ombra]]
+[msg mini_ev_mes_01_GAME_01_m_9 [Caixa sombra]]
 [s]Oh meu Deus. Outra vitória perfeita! Você ganhou[n]625 moedas![n][w][e]
 [s]Deseja continuar[n]jogando?[n][w][e]
 
 [msg mini_ev_mes_01_GAME_01_m_10 [Ann]]
 [s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6045 65535 0]Você pode apostar![n][w][e]
 
-[msg mini_ev_mes_01_GAME_01_m_11 [Cassiere Ombra]]
+[msg mini_ev_mes_01_GAME_01_m_11 [Caixa sombra]]
 [s]Em caso afirmativo, por favor[n]declare o próximo total![n][w][e]
 
-[msg mini_ev_mes_01_GAME_01_m_12 [Cassiere Ombra]]
+[msg mini_ev_mes_01_GAME_01_m_12 [Caixa sombra]]
 [s]O que...?!? Outra vitória?!?[n]V-Você ganhou 625 moedas...[n][w][e]
 
 [msg mini_ev_mes_01_GAME_01_m_13 [Futaba]]
 [s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9048 65535 0]Podemos jogar de novo, certo?[n]Queremos continuar a série![n][w][e]
 
-[msg mini_ev_mes_01_GAME_01_m_14 [Cassiere Ombra]]
+[msg mini_ev_mes_01_GAME_01_m_14 [Caixa sombra]]
 [s]R-Recebido, senhora... Por favor,[n]indique o próximo total...[n][w][e]
 
-[msg mini_ev_mes_01_GAME_01_m_15 [Cassiere Ombra]]
+[msg mini_ev_mes_01_GAME_01_m_15 [Caixa sombra]]
 [s]Quatro vitórias perfeitas consecutivas?!? M-Mas[n]isso é impossível![n][w][e]
 
 [msg mini_ev_mes_01_GAME_01_m_16 [Ryuji]]
@@ -86,11 +86,11 @@
 [msg mini_ev_mes_01_GAME_01_m_18 [Ryuji]]
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Achei que tínhamos terminado aqui.[n]Você quer ir para outro lugar?[n][w][e]
 
-[msg mini_ev_mes_01_GAME_01_m_19 [Cassiere Ombra]]
+[msg mini_ev_mes_01_GAME_01_m_19 [Caixa sombra]]
 [s]Esta sala de dados[n]está sem moedas.[n][w][e]
 [s]Pedimos desculpas pelo inconveniente, mas[n]precisamos pedir que você[n]move você para outro quarto...[n][w][e]
 
-[msg mini_ev_mes_01_GAME_03_m [Cassiere Ombra]]
+[msg mini_ev_mes_01_GAME_03_m [Caixa sombra]]
 [s]Bem-vindo à sala de dados![n][w][e]
 [s]Aproveite este jogo simples[n]para adivinhar o total[n]que sairá do lançamento de três dados.[n][w][e]
 [s]Com uma previsão correta, você[n]dobra sua aposta, enquanto com[n]três dados idênticos, você a triplica.[n][w][e]
@@ -108,7 +108,7 @@
 [msg mini_ev_mes_01_GAME_03_s_3 [Morgana]]
 [s][bup 0 3 0 65535 0]......[n][w][e]
 
-[msg mini_ev_mes_01_GAME_03_m_2 [Cassiere Ombra]]
+[msg mini_ev_mes_01_GAME_03_m_2 [Caixa sombra]]
 [s]Agora adivinhe o[n]número, por favor.[n][w][e]
 
 [sel mini_ev_mes_01_GAME_03_s_4 top]
@@ -124,23 +124,23 @@
 [msg mini_ev_mes_01_GAME_03_s_7 [Morgana]]
 [s][bup 0 3 0 65535 0]......[n][w][e]
 
-[msg mini_ev_mes_01_GAME_03_m_3 [Cassiere Ombra]]
+[msg mini_ev_mes_01_GAME_03_m_3 [Caixa sombra]]
 [s]Ele venceu, senhor! Sua aposta[n]será [clr 2]dobrada[clr 27]![n][w][e]
 
-[msg mini_ev_mes_01_GAME_03_m_4 [Cassiere Ombra]]
+[msg mini_ev_mes_01_GAME_03_m_4 [Caixa sombra]]
 [s]Elogios! Com os mesmos[n]números, a aposta é [clr 2]triplicada[clr 27]![n][w][e]
 
-[msg mini_ev_mes_01_GAME_03_m_5 [Cassiere Ombra]]
+[msg mini_ev_mes_01_GAME_03_m_5 [Caixa sombra]]
 [s]Céus, senhor! Vocês seis![n]Sua aposta será [clr 2]quintuplicada[clr 27]![n][w][e]
 
-[msg mini_ev_mes_01_GAME_03_m_6 [Cassiere Ombra]]
+[msg mini_ev_mes_01_GAME_03_m_6 [Caixa sombra]]
 [s]...Estamos sem moedas para este jogo, senhor.[n][w][e]
 [s]Sinto muito, mas tenho que[n]encaminhá-lo para outras mesas.[n][w][e]
 
-[msg mini_ev_mes_01_GAME_03_m_7 [Cassiere Ombra]]
+[msg mini_ev_mes_01_GAME_03_m_7 [Caixa sombra]]
 [s]Má sorte, senhor.[n]A casa ganha.[n][w][e]
 
-[msg mini_ev_mes_01_GAME_03_m_8 [Cassiere Ombra]]
+[msg mini_ev_mes_01_GAME_03_m_8 [Caixa sombra]]
 [s]Deseja continuar[n]jogando?[n][w][e]
 
 [sel mini_ev_mes_01_GAME_03_s_8 top]
@@ -190,14 +190,14 @@
 [msg D157_007_miniEV_02_mes11 [Akechi]]
 [s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 8155 65535 0]Devemos pôr fim a[n]este engano. Devemos procurar[n]pistas na área.[n][w][e]
 
-[msg mini_ev_mes_01_GAME_01_m_20 [Cassiere Ombra]]
+[msg mini_ev_mes_01_GAME_01_m_20 [Caixa sombra]]
 [s]Você precisa de[n]125 moedas para jogar![n][w][e]
 [s]No entanto... você não tem[n]moedas suficientes, senhor. Estaremos[n]impacientes pelo seu retorno.[n][w][e]
 
 [msg D157_007_miniEV_06_mes01 [Akechi]]
 [s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 8158 65535 0]As moedas estão começando a acabar.[n]Vamos ser mais cuidadosos[n]ao usá-las.[n][w][e]
 
-[msg DICE_LOCK_COIN_mes01 [Cassiere Ombra]]
+[msg DICE_LOCK_COIN_mes01 [Caixa sombra]]
 [s]Bem-vindo à sala de dados![n][w][e]
 [s]Aproveite este jogo simples[n]para adivinhar o total[n]que sairá do lançamento de três dados.[n][w][e]
 [s]Com uma previsão correta, você[n]dobra sua aposta, enquanto com[n]três dados idênticos, você a triplica.[n][w][e]

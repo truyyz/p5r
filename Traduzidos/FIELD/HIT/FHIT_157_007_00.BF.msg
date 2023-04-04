@@ -13,7 +13,7 @@
 [msg D157_007_miniEV_06_mes01 [Akechi]]
 [s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]所持コインが減りすぎだ。[n][clr 2]ロック台詞[clr 27][n][w][e]
 
-[msg mini_ev_mes_01_GAME_01_m [Coniglietta Ombra]]
+[msg mini_ev_mes_01_GAME_01_m [Coelho das sombras]]
 [s]Esta sala de dados[n]está sem moedas.[n][w][e]
 [s]Pedimos desculpas pelo inconveniente, mas[n]precisamos pedir que você[n]move você para outro quarto...[n][w][e]
 
@@ -27,12 +27,12 @@
 [msg SAIKORO_SAIKU_01]
 [s]manequim fhit_157_007_00[n][w][e]
 
-[msg D6_SAIKORO_FIRST [Commerciante]]
+[msg D6_SAIKORO_FIRST [Comerciante]]
 [s]Boa noite.[n][w][e]
 [s]Neste jogo, você aposta[n]na soma da pontuação[n]de três dados.[n][w][e]
 [s]É um jogo muito simples.[n][w][e]
 
-[msg D6_SAIKORO_01 [Commerciante]]
+[msg D6_SAIKORO_01 [Comerciante]]
 [s]Selecione a quantidade de moedas[n]que deseja apostar, por favor.[n][w][e]
 
 [sel D6_SAIKORO_BET_SEL top]
@@ -41,23 +41,23 @@
 [s]1.000 moedas.[e]
 [s]Eu mudei de ideia.[e]
 
-[msg D6_SAIKORO_02 [Commerciante]]
+[msg D6_SAIKORO_02 [Comerciante]]
 [s]Agora escolha o número que[n]você acha que sairá no dado.[n][e]
 
 [sel D6_SAIKORO_HIGHT_LOW_BET top]
 [s]Menos de nove.[e]
 [s]Mais de dez.[e]
 
-[msg D6_SAIKORO_03 [Commerciante]]
+[msg D6_SAIKORO_03 [Comerciante]]
 [s]Agora vamos jogar os dados.[n][w][e]
 
-[msg D6_SAIKORO_ATARI [Commerciante]]
+[msg D6_SAIKORO_ATARI [Comerciante]]
 [s]Parabéns, senhor. Ele ganhou.[n]Agora tem [var 0] moedas.[n][w][e]
 
-[msg D6_SAIKORO_HAZURE [Commerciante]]
+[msg D6_SAIKORO_HAZURE [Comerciante]]
 [s]Que pena, senhor. Ele perdeu.[n]Agora ele tem [var 0] moedas.[n][w][e]
 
-[msg D6_SAIKORO_KEIZOKU [Commerciante]]
+[msg D6_SAIKORO_KEIZOKU [Comerciante]]
 [s]Quer continuar[n]jogando, senhor?[n][e]
 
 [sel D6_SAIKORO_KEIZOKU_SEL top]
@@ -79,16 +79,16 @@
 [msg D6_SAIKORO_TRICK_SEL02 [Akechi]]
 [s]...火遊びはほどほどにしてくれよ。[n]Ü応、この発言は気に留めておいてくれ。[n][w][e]
 
-[msg D6_Trick_Room [Guardia della security]]
+[msg D6_Trick_Room [Segurança]]
 [s]Bem, vamos conseguir mais algum dinheiro...[n][w][e]
 
-[msg D6_SAIKORO_ImpotentPlay_ [Commerciante]]
+[msg D6_SAIKORO_ImpotentPlay_ [Comerciante]]
 [s]Sinto muito, senhor.[n]Sugiro a área de slots.[n][w][e]
 
 [msg D157_007_miniEV_05_mes02 [Yusuke]]
 [s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]É uma passagem secreta? Admito que estou curioso,[n]mas primeiro devemos pensar em conseguir as[n]moedas.[n][w][e]
 
-[msg mini_ev_mes_01_GAME_03_m [Commerciante]]
+[msg mini_ev_mes_01_GAME_03_m [Comerciante]]
 [s]Bem-vindo à sala de dados![n][w][e]
 [s]É um jogo muito simples, no qual[n]você aposta na soma[n]resultante dos dados lançados.[n][w][e]
 [s]Você ganha o dobro da sua aposta,[n]tripla com faces correspondentes.[n]Se apenas seis aparecerem, quintuplique.[n][w][e]
@@ -104,7 +104,7 @@
 [msg mini_ev_mes_01_GAME_03_s_3 [Morgana]]
 [s][bup 0 3 0 65535 0]......[n][w][e]
 
-[msg mini_ev_mes_01_GAME_03_m_2 [Commerciante]]
+[msg mini_ev_mes_01_GAME_03_m_2 [Comerciante]]
 [s]Agora adivinhe o[n]número, por favor.[n][w][e]
 
 [sel mini_ev_mes_01_GAME_03_s_4 top]
@@ -120,23 +120,23 @@
 [msg mini_ev_mes_01_GAME_03_s_7 [Morgana]]
 [s][bup 0 3 0 65535 0]......[n][w][e]
 
-[msg mini_ev_mes_01_GAME_03_m_3 [Commerciante]]
+[msg mini_ev_mes_01_GAME_03_m_3 [Comerciante]]
 [s]Ele venceu, senhor! Sua aposta[n]será [clr 2]dobrada[clr 27]![n][w][e]
 
-[msg mini_ev_mes_01_GAME_03_m_4 [Commerciante]]
+[msg mini_ev_mes_01_GAME_03_m_4 [Comerciante]]
 [s]Elogios! Com os mesmos[n]números, a aposta é [clr 2]triplicada[clr 27]![n][w][e]
 
-[msg mini_ev_mes_01_GAME_03_m_5 [Commerciante]]
+[msg mini_ev_mes_01_GAME_03_m_5 [Comerciante]]
 [s]Céus, senhor! Vocês seis![n]Sua aposta será [clr 2]quintuplicada[clr 27]![n][w][e]
 
-[msg mini_ev_mes_01_GAME_03_m_6 [Commerciante]]
+[msg mini_ev_mes_01_GAME_03_m_6 [Comerciante]]
 [s]...Estamos sem moedas para este jogo, senhor.[n][w][e]
 [s]Sinto muito, mas tenho que[n]encaminhá-lo para outras mesas.[n][w][e]
 
-[msg mini_ev_mes_01_GAME_03_m_7 [Commerciante]]
+[msg mini_ev_mes_01_GAME_03_m_7 [Comerciante]]
 [s]Má sorte, senhor.[n]A casa ganha.[n][w][e]
 
-[msg mini_ev_mes_01_GAME_03_m_8 [Commerciante]]
+[msg mini_ev_mes_01_GAME_03_m_8 [Comerciante]]
 [s]Deseja continuar[n]jogando?[n][w][e]
 
 [sel mini_ev_mes_01_GAME_03_s_8 top]

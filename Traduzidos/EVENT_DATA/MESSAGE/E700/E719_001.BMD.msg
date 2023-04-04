@@ -8,29 +8,29 @@
 [s][bup 0 112 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Um mundo onde é aceitável[n]atropelar os direitos de[n]outros para benefício próprio...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Um mundo onde os jovens[n]são apenas explorados... é[n]um mundo que precisa ser mudado![n][f 1 3 65535][w][e]
 
-[msg MSG_002_0_0 [Donna anziana]]
+[msg MSG_002_0_0 [Idosa]]
 [s][vp 8 0 0 0 6 0]Umpf, é fácil para ele falar...[n]Nós velhos somos deixados[n]sozinhos.[n][f 1 3 65535][w][e]
 
-[msg MSG_003_0_0 [Ragazzo]]
+[msg MSG_003_0_0 [Rapaz]]
 [s][vp 8 0 0 0 5 0]Na verdade, ele está fazendo sentido,[n]mas ele não é ninguém...[n]duvido que ele consiga.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 5 0]Nada vai mudar.[n]Eles continuarão a[n]nos explorar.[n][f 1 3 65535][w][e]
 
-[msg MSG_004_0_0 [Uomo dall'espressione cupa]]
+[msg MSG_004_0_0 [Homem com uma expressão sombria]]
 [s][vp 8 0 0 0 7 0]Sobre o que esse aspirante a político está[n]falando agora? Nem é afiliado a nenhuma parte.[n][f 1 3 65535][w][e]
 
-[msg MSG_005_0_0 [Uomo dall'espressione cupa]]
+[msg MSG_005_0_0 [Homem com uma expressão sombria]]
 [s][vp 8 0 0 0 7 0]Por que você não deixa certos assuntos[n]nas mãos competentes do[n]Partido da Co-Prosperidade Liberal![n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Yoshida]]
 [s][bup 0 112 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você não precisa decidir a quem apoiar[n]simplesmente com base em qual[n]partido ele pertence...[n][f 1 3 65535][w][e]
 
-[msg MSG_007_0_0 [Uomo dall'espressione cupa]]
+[msg MSG_007_0_0 [Homem com uma expressão sombria]]
 [s][vp 8 0 0 0 7 0]Ah, cale a boca![n]Você é apenas um político fracassado![n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Yoshida]]
 [s][bup 0 112 3 0 0][f 4 10 65535 0 0][vp 8 2 0 20047 65535 0]Se eu for escolhido para representar[n]a vontade do povo, então[n]estou totalmente disposto a...[n][f 1 3 65535][w][e]
 
-[msg MSG_009_0_0 [Uomo dall'espressione cupa]]
+[msg MSG_009_0_0 [Homem com uma expressão sombria]]
 [s][vp 8 0 0 0 7 0]"No interesse comum"!?![n]Ahah![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 7 0]Economize seu fôlego para quando for eleito![n]...SE você for eleito![n][f 1 3 65535][w][e]
 

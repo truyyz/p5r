@@ -398,7 +398,7 @@
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 23 1 204 3 10 0 10][vp 8 2 1 0 65535 0]Coletei pensamentos observando[n]pessoas. Quer se juntar a mim?[n][w][e]
 
 [msg MSG_C04_COOP_01_00 [Yusuke]]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 23 1 204 3 10 0 10][vp 8 2 1 0 65535 0]Gostaria de falar sobre a pintura que[n]desenvolvi em Memento.[n]Você tem tempo?[n][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 23 1 204 3 10 0 10][vp 8 2 1 0 65535 0]Gostaria de falar sobre a pintura que[n]desenvolvi em Mementos.[n]Você tem tempo?[n][w][e]
 
 [msg MSG_C04_COOP_02_00 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 23 1 204 3 10 0 10][vp 8 2 1 0 65535 0]Tenho novidades para lhe contar. Meu[n]trabalho "Desire" foi[n]aceito na exposição.[n][w][e]
@@ -533,7 +533,7 @@
 
 [msg MSG_C04_YES_08_00 [Yusuke]]
 [s][bup 0 5 1 65535 0][f 4 10 65535 0 0][f 4 23 1 204 3 10 0 10][vp 8 2 1 0 65535 0]Obrigado pelo seu interesse.[n][w][e]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Hoje eu gostaria de me juntar novamente ao[n]Memento. Acredito que a verdade sobre a natureza[n]do coração humano está escondida lá.[n][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Hoje eu gostaria de me juntar novamente ao[n]Mementos. Acredito que a verdade sobre a natureza[n]do coração humano está escondida lá.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 4052 65535 0]...Vamos.[n][w][e]
 
 [msg MSG_C04_YES_09_00 [Yusuke]]
@@ -827,7 +827,7 @@
 
 [msg MSG_C04_BYEGREET_00_00 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 23 1 204 3 10 0 10][vp 8 0 1 1 65535 0]Ah, [f 4 2].[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 1 2 65535 0]...Estar aqui me lembra do tempo[n]passado em Memento... Você não?[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 1 2 65535 0]...Estar aqui me lembra do tempo[n]passado em Mementos... Você não?[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 3 65535 0]Não posso deixar de pensar nessas pessoas como[n]Sombras vagando sem rumo em um lugar distorcido.[n][w][e]
 
 [sel SEL_C04_BYEGREET_00_01 top]

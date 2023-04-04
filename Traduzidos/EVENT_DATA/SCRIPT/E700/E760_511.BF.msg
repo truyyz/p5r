@@ -1,7 +1,7 @@
-[msg MSG_DVD01_Start_1ST_Dram [Uomo in abito elegante]]
+[msg MSG_DVD01_Start_1ST_Dram [Homem de terno elegante]]
 [s][vp 8 2 0 0 65535 0]A causa da morte não é[n]aquele buraco no crânio...[n][f 1 3 65535][w][e]
 
-[msg MSG_DVD01_Start_1ST_Dram_2 [Donna in abito elegante]]
+[msg MSG_DVD01_Start_1ST_Dram_2 [Mulher de vestido elegante]]
 [s][vp 8 2 0 0 65535 0]Coisa? Então... o que é?[n][f 1 3 65535][w][e]
 
 [msg MND_DVD01_Start_1ST]
@@ -10,10 +10,10 @@
 [msg MSG_DVD01_Start_1ST [Morgana]]
 [s][bup 0 3 4 0 0][f 4 10 65535 0 0][vp 8 2 0 1167 65535 0]Aquele cara é extraordinário.[n]Ele só precisa olhar para os ossos[n]e ele entende tudo imediatamente.[n][f 1 3 65535][w][e]
 
-[msg MSG_DVD01_Start_2nd_Dram [Uomo in abito elegante]]
+[msg MSG_DVD01_Start_2nd_Dram [Homem de terno elegante]]
 [s][vp 8 2 0 0 65535 0]Contei os ossos e não são todos. Um homem médio[n]tem 206...[n][f 1 3 65535][w][e]
 
-[msg MSG_DVD01_Start_2nd_Dram_2 [Donna in abito elegante]]
+[msg MSG_DVD01_Start_2nd_Dram_2 [Mulher de vestido elegante]]
 [s][vp 8 2 0 0 65535 0]Quer dizer...[n]ele não foi morto aqui?[n][f 1 3 65535][w][e]
 
 [msg MND_DVD01_Start_2nd]
@@ -37,10 +37,10 @@
 [s][vp 8 2 0 0 65535 0]Eu assisti "Skeletons"[n]até o fim...[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Graças a esta série de TV,[n]adquiri mais [f 4 11 0][clr 26][f 4 12 0][clr 27].[n][f 1 3 65535][w][e]
 
-[msg MSG_DVD02_Start_1ST_Dram [Uomo con cappotto bianco]]
+[msg MSG_DVD02_Start_1ST_Dram [Homem de jaleco branco]]
 [s][vp 8 2 0 0 65535 0]Se confiarmos na[n]análise de DNA, então o único[n]suspeito é ele.[n][f 1 3 65535][w][e]
 
-[msg MSG_DVD02_Start_1ST_Dram_2 [Donna in abito elegante]]
+[msg MSG_DVD02_Start_1ST_Dram_2 [Mulher de vestido elegante]]
 [s][vp 8 2 0 0 65535 0]Mas isso não é possível...[n]ele tem um álibi perfeito.[n][f 1 3 65535][w][e]
 
 [msg MND_DVD02_Start_1ST]
@@ -49,10 +49,10 @@
 [msg MSG_DVD02_Start_1ST [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1111 65535 0]"ADN"...? O que é?[n][f 1 3 65535][w][e]
 
-[msg MSG_DVD02_Start_2nd_Dram [Donna in abito elegante]]
+[msg MSG_DVD02_Start_2nd_Dram [Mulher de vestido elegante]]
 [s][vp 8 2 0 0 65535 0]A mancha de sangue sugere que ela foi[n]morta aqui.[n][f 1 3 65535][w][e]
 
-[msg MSG_DVD02_Start_2nd_Dram_2 [Uomo con cappotto bianco]]
+[msg MSG_DVD02_Start_2nd_Dram_2 [Homem de jaleco branco]]
 [s][vp 8 2 0 0 65535 0]Os respingos de sangue parecem abundantes, mas há[n]muito pouco sangue aqui. Ela foi morta em outro[n]lugar.[n][f 1 3 65535][w][e]
 
 [msg MND_DVD02_Start_2nd]
@@ -61,10 +61,10 @@
 [msg MSG_DVD02_Start_2nd [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1038 65535 0]Um sangramento semelhante não mata[n]um homem, mas é letal para um gato.[w][e]
 
-[msg MSG_DVD02_Start_3rd_Dram [Donna in abito elegante]]
+[msg MSG_DVD02_Start_3rd_Dram [Mulher de vestido elegante]]
 [s][vp 8 2 0 0 65535 0]Mesmo que tenha havido uma briga,[n]não acho que um policial poderia[n]ter atirado em um civil...[n][f 1 3 65535][w][e]
 
-[msg MSG_DVD02_Start_3rd_Dram_2 [Uomo con cappotto bianco]]
+[msg MSG_DVD02_Start_3rd_Dram_2 [Homem de jaleco branco]]
 [s][vp 8 2 0 0 65535 0]Estranho. Na arma eu só detecto[n]suas impressões digitais. No entanto,[n]eles devem ter lutado por isso, não?[n][f 1 3 65535][w][e]
 
 [msg MND_DVD02_Start_3rd]
@@ -88,10 +88,10 @@
 [s][vp 8 2 0 0 65535 0]Eu assisti "Crime Lab Squad"[n]até o final...[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Graças a esta série de TV,[n]adquiri mais [f 4 11 0][clr 26][f 4 12 0][clr 27].[n][f 1 3 65535][w][e]
 
-[msg MSG_DVD03_Start_1ST_Dram [Uomo in abito elegante]]
+[msg MSG_DVD03_Start_1ST_Dram [Homem de terno elegante]]
 [s][vp 8 2 0 0 65535 0]Você... ganhou peso.[n]Acabamos.[n][f 1 3 65535][w][e]
 
-[msg MSG_DVD03_Start_1ST_Dram_2 [Donna in carne]]
+[msg MSG_DVD03_Start_1ST_Dram_2 [Mulher gordinha]]
 [s][vp 8 2 0 0 65535 0]Ele me largou... Não acredito...[n]Mas não vou desistir![n][f 1 3 65535][w][e]
 
 [msg MND_DVD03_Start_1ST]
@@ -100,10 +100,10 @@
 [msg MSG_DVD03_Start_1ST [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1166 65535 0]A aparência externa não tem nada[n]a ver com o que alguém[n]realmente é. Eu simpatizo com você...[n][f 1 3 65535][w][e]
 
-[msg MSG_DVD03_Start_2nd_Dram [Uomo in abito elegante]]
+[msg MSG_DVD03_Start_2nd_Dram [Homem de terno elegante]]
 [s][vp 8 2 0 0 65535 0]Eu entendi que para mim[n]você é tudo...![n]Podemos tentar de novo?[n][f 1 3 65535][w][e]
 
-[msg MSG_DVD03_Start_2nd_Dram_2 [Donna in carne]]
+[msg MSG_DVD03_Start_2nd_Dram_2 [Mulher gordinha]]
 [s][vp 8 2 0 0 65535 0]Você é mesmo?[n]Posso confiar em você?[n][f 1 3 65535][w][e]
 
 [msg MND_DVD03_Start_2nd]
@@ -127,10 +127,10 @@
 [s][vp 8 2 0 0 65535 0]Terminei de assistir[n]"Raw Betty"...[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Acho que aprendi[n]algo sobre [f 4 11 1][clr 26][f 4 12 1][clr 27],[n]graças a esta série de TV...[n][f 1 3 65535][w][e]
 
-[msg MSG_DVD04_Start_1ST_Dram [Uomo dai vestiti sgargianti]]
+[msg MSG_DVD04_Start_1ST_Dram [Homem em roupas extravagantes]]
 [s][vp 8 2 0 0 65535 0]Você acha que estou com ela?[n]Por favor![n][f 1 3 65535][w][e]
 
-[msg MSG_DVD04_Start_1ST_Dram_2 [Donna dall'abbigliamento sobrio]]
+[msg MSG_DVD04_Start_1ST_Dram_2 [Mulher vestida modestamente]]
 [s][vp 8 2 0 0 65535 0]Você é uma pessoa horrível![n]Naquela noite você disse[n]que me amava![n][f 1 3 65535][w][e]
 
 [msg MND_DVD04_Start_1ST]
@@ -139,10 +139,10 @@
 [msg MSG_DVD04_Start_1ST [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1044 65535 0]Uau! Eles são assim, alunos do ensino médio[n]no exterior? Certifique-se de não ter[n]nenhuma ideia, ok?[n][f 1 3 65535][w][e]
 
-[msg MSG_DVD04_Start_2nd_Dram [Donna dall'abbigliamento sobrio]]
+[msg MSG_DVD04_Start_2nd_Dram [Mulher vestida modestamente]]
 [s][vp 8 2 0 0 65535 0]E-eu...não consigo evitar[n]não te amar...[n][f 1 3 65535][w][e]
 
-[msg MSG_DVD04_Start_2nd_Dram_2 [Uomo dai vestiti sgargianti]]
+[msg MSG_DVD04_Start_2nd_Dram_2 [Homem em roupas extravagantes]]
 [s][vp 8 2 0 0 65535 0]Você sabe que estou noivo,[n]não? Mas se estiver tudo bem para você...[n][f 1 3 65535][w][e]
 
 [msg MND_DVD04_Start_2nd]
@@ -151,10 +151,10 @@
 [msg MSG_DVD04_Start_2nd [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1025 65535 0]Huh? Mas isso não é possível![n]Ele não pode ficar com ela...[n]Ele já tem namorada...![n][f 1 3 65535][w][e]
 
-[msg MSG_DVD04_Start_3rd_Dram [Uomo dai vestiti sgargianti]]
+[msg MSG_DVD04_Start_3rd_Dram [Homem em roupas extravagantes]]
 [s][vp 8 2 0 0 65535 0]Eu cometi um grande erro![n]Minha mulher ideal... é você![n][f 1 3 65535][w][e]
 
-[msg MSG_DVD04_Start_3rd_Dram_2 [Donna dall'abbigliamento sobrio]]
+[msg MSG_DVD04_Start_3rd_Dram_2 [Mulher vestida modestamente]]
 [s][vp 8 2 0 0 65535 0]Você é mesmo?[n]Parece um sonho...![n][f 1 3 65535][w][e]
 
 [msg MND_DVD04_Start_3rd]
@@ -178,10 +178,10 @@
 [s][vp 8 2 0 0 65535 0]Assisti "Bubbly Hills, 90210"[n]até o final...[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Acho que aprendi[n]algo sobre [f 4 11 1][clr 26][f 4 12 1][clr 27],[n]graças a esta série de TV...[n][f 1 3 65535][w][e]
 
-[msg MSG_DVD05_Start_1ST_Dram [Agente dalla scorza dura]]
+[msg MSG_DVD05_Start_1ST_Dram [Agente de casca dura]]
 [s][vp 8 2 0 0 65535 0]Você sabe que ele é um criminoso[n]e pretende salvá-lo[n]de qualquer maneira?[n][f 1 3 65535][w][e]
 
-[msg MSG_DVD05_Start_1ST_Dram_2 [Uomo con cappotto bianco]]
+[msg MSG_DVD05_Start_1ST_Dram_2 [Homem de jaleco branco]]
 [s][vp 8 2 0 0 65535 0]O tribunal irá condená-lo.[n]Mas eu tenho que salvá-lo.[n][f 1 3 65535][w][e]
 
 [msg MND_DVD05_Start_1ST]
@@ -190,10 +190,10 @@
 [msg MSG_DVD05_Start_1ST [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1168 65535 0]Eu gosto daquele cara. A vida de um homem é[n]sempre preciosa, não importa o que ele tenha[n]feito...[n][f 1 3 65535][w][e]
 
-[msg MSG_DVD05_Start_2nd_Dram [Uomo in abito elegante]]
+[msg MSG_DVD05_Start_2nd_Dram [Homem de terno elegante]]
 [s][vp 8 2 0 0 65535 0]Se você tentar salvar tanto[n]a mãe quanto a criança,[n]eles podem morrer![n][f 1 3 65535][w][e]
 
-[msg MSG_DVD05_Start_2nd_Dram_2 [Uomo con cappotto bianco]]
+[msg MSG_DVD05_Start_2nd_Dram_2 [Homem de jaleco branco]]
 [s][vp 8 2 0 0 65535 0]Mas eles também podem sobreviver[n]ambos, certo? Confie[n]em mim...![n][f 1 3 65535][w][e]
 
 [msg MND_DVD05_Start_2nd]
@@ -217,10 +217,10 @@
 [s][vp 8 2 0 0 65535 0]Eu assisti "I.C.U." até o fim...[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Talvez assistindo a esta série de TV eu tenha[n]aprendido um pouco sobre [f 4 11 4][clr 26][n][f 4 12 4][clr 27].[n][f 1 3 65535][w][e]
 
-[msg MSG_DVD06_Start_1ST_Dram [Donna gentile]]
+[msg MSG_DVD06_Start_1ST_Dram [Mulher amável]]
 [s][vp 8 2 0 0 65535 0]Mesmo que você não possa vê-la,[n]sua esposa está ao seu lado...[n][f 1 3 65535][w][e]
 
-[msg MSG_DVD06_Start_1ST_Dram_2 [Uomo in abito elegante]]
+[msg MSG_DVD06_Start_1ST_Dram_2 [Homem de terno elegante]]
 [s][vp 8 2 0 0 65535 0]Não é possível... Você é mesmo?[n][f 1 3 65535][w][e]
 
 [msg MND_DVD06_Start_1ST]
@@ -229,10 +229,10 @@
 [msg MSG_DVD06_Start_1ST [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1187 65535 0]Eu me pergunto se aquela mulher algum dia[n]se juntaria aos Phantom Thieves.[n]Seria útil, você não acha?[n][f 1 3 65535][w][e]
 
-[msg MSG_DVD06_Start_2nd_Dram [Uomo dall'aria stanca]]
+[msg MSG_DVD06_Start_2nd_Dram [Homem de aparência cansada]]
 [s][vp 8 2 0 0 65535 0]Você consegue me ver? Por favor,[n]diga-me a verdade...![n][f 1 3 65535][w][e]
 
-[msg MSG_DVD06_Start_2nd_Dram_2 [Donna gentile]]
+[msg MSG_DVD06_Start_2nd_Dram_2 [Mulher amável]]
 [s][vp 8 2 0 0 65535 0]Calma, está tudo bem.[n]Conte-me o que aconteceu...[n][f 1 3 65535][w][e]
 
 [msg MND_DVD06_Start_2nd]
@@ -241,10 +241,10 @@
 [msg MSG_DVD06_Start_2nd [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1164 65535 0]Ele estava falando a verdade?[n]Mal posso esperar...[n][f 1 3 65535][w][e]
 
-[msg MSG_DVD06_Start_3rd_Dram [Donna gentile]]
+[msg MSG_DVD06_Start_3rd_Dram [Mulher amável]]
 [s][vp 8 2 0 0 65535 0]Eu não poderia me trazer[n]que você estava morto ...[n][f 1 3 65535][w][e]
 
-[msg MSG_DVD06_Start_3rd_Dram_2 [Uomo dall'espressione triste]]
+[msg MSG_DVD06_Start_3rd_Dram_2 [Homem com uma expressão triste]]
 [s][vp 8 2 0 0 65535 0]Sinto muito... Acho que não[n]serei capaz de cumprir a[n]promessa que fiz a você...[n][f 1 3 65535][w][e]
 
 [msg MND_DVD06_Start_3rd]
@@ -268,10 +268,10 @@
 [s][vp 8 2 0 0 65535 0]Assisti "Phantom Murmurer"[n]até o final...[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Talvez assistindo a esta série de TV eu tenha[n]aprendido um pouco sobre [f 4 11 4][clr 26][n][f 4 12 4][clr 27].[n][f 1 3 65535][w][e]
 
-[msg MSG_DVD07_Start_1ST_Dram [Uomo con uniforme da carcerato]]
+[msg MSG_DVD07_Start_1ST_Dram [Homem de uniforme de prisão]]
 [s][vp 8 2 0 0 65535 0]Por quê você está aqui? Não me diga[n]que você veio me salvar![n][f 1 3 65535][w][e]
 
-[msg MSG_DVD07_Start_1ST_Dram_2 [Uomo tatuato]]
+[msg MSG_DVD07_Start_1ST_Dram_2 [Homem tatuado]]
 [s][vp 8 2 0 0 65535 0]Você é inocente, não é?[n]Vamos fugir juntos![n][f 1 3 65535][w][e]
 
 [msg MND_DVD07_Start_1ST]
@@ -280,10 +280,10 @@
 [msg MSG_DVD07_Start_1ST [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1119 65535 0]Eu sou capaz de fazer[n]lock picks. Fugir da prisão[n]seria moleza para mim.[n][f 1 3 65535][w][e]
 
-[msg MSG_DVD07_Start_2nd_Dram [Uomo tatuato]]
+[msg MSG_DVD07_Start_2nd_Dram [Homem tatuado]]
 [s][vp 8 2 0 0 65535 0]Merda, não acredito, eles[n]descobriram nosso plano![n]Precisamos nos apressar...![n][f 1 3 65535][w][e]
 
-[msg MSG_DVD07_Start_2nd_Dram_2 [Uomo con uniforme da carcerato]]
+[msg MSG_DVD07_Start_2nd_Dram_2 [Homem de uniforme de prisão]]
 [s][vp 8 2 0 0 65535 0]Não, se formos por aqui[n]ainda podemos conseguir...![n][f 1 3 65535][w][e]
 
 [msg MND_DVD07_Start_2nd]
@@ -307,10 +307,10 @@
 [s][vp 8 2 0 0 65535 0]Assisti "Prison Escape"[n]até o último episódio...[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Talvez assistindo a esta série de TV eu tenha[n]aprendido um pouco sobre [f 4 11 2][clr 26][n][f 4 12 2][clr 27].[n][f 1 3 65535][w][e]
 
-[msg MSG_DVD08_Start_1ST_Dram [Uomo con cappotto bianco]]
+[msg MSG_DVD08_Start_1ST_Dram [Homem de jaleco branco]]
 [s][vp 8 2 0 0 65535 0]Esse tanque está vazando[n]ácido sulfúrico! Temos que fazer[n]alguma coisa, e rápido...![n][f 1 3 65535][w][e]
 
-[msg MSG_DVD08_Start_1ST_Dram_2 [Uomo dall'abbigliamento informale]]
+[msg MSG_DVD08_Start_1ST_Dram_2 [Homem vestido casualmente]]
 [s][vp 8 2 0 0 65535 0]Podemos usar chocolate.[n]O ácido e o açúcar iniciam[n]uma reação que...[n][f 1 3 65535][w][e]
 
 [msg MND_DVD08_Start_1ST]
@@ -319,10 +319,10 @@
 [msg MSG_DVD08_Start_1ST [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1168 65535 0]Ele tapou a rachadura no[n]tanque com chocolate?[n]Mas como ele mantém a clareza...?[n][f 1 3 65535][w][e]
 
-[msg MSG_DVD08_Start_2nd_Dram [Donna in abito elegante]]
+[msg MSG_DVD08_Start_2nd_Dram [Mulher de vestido elegante]]
 [s][vp 8 2 0 0 65535 0]Merda, eles cortaram o[n]poder! Agora o[n]sistema de alarme não funcionará mais![n][f 1 3 65535][w][e]
 
-[msg MSG_DVD08_Start_2nd_Dram_2 [Uomo dall'abbigliamento informale]]
+[msg MSG_DVD08_Start_2nd_Dram_2 [Homem vestido casualmente]]
 [s][vp 8 2 0 0 65535 0]Podemos criar um mesmo sem[n]corrente. Olha, tem[n]uma jarra e uma corda...[n][f 1 3 65535][w][e]
 
 [msg MND_DVD08_Start_2nd]
@@ -331,10 +331,10 @@
 [msg MSG_DVD08_Start_2nd [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1164 65535 0]Esse cara cria as ferramentas mais obscuras[n]usando apenas o que encontra ao seu redor.[n]Incrível...[n][f 1 3 65535][w][e]
 
-[msg MSG_DVD08_Start_3rd_Dram [Donna in abito elegante]]
+[msg MSG_DVD08_Start_3rd_Dram [Mulher de vestido elegante]]
 [s][vp 8 2 0 0 65535 0]Nunca vamos conseguir... A bomba-relógio[n]está prestes a explodir![n][f 1 3 65535][w][e]
 
-[msg MSG_DVD08_Start_3rd_Dram_2 [Uomo dall'abbigliamento informale]]
+[msg MSG_DVD08_Start_3rd_Dram_2 [Homem vestido casualmente]]
 [s][vp 8 2 0 0 65535 0]Esse líquido azul deve ser o[n]reagente. Podemos neutralizá-lo[n]com leite e sabão.[n][f 1 3 65535][w][e]
 
 [msg MND_DVD08_Start_3rd]
@@ -358,10 +358,10 @@
 [s][vp 8 2 0 0 65535 0]Assisti "Guy McVer"[n]até o último episódio...[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Talvez assistindo a esta série de TV eu tenha[n]aprendido um pouco sobre [f 4 11 2][clr 26][n][f 4 12 2][clr 27].[n][f 1 3 65535][w][e]
 
-[msg MSG_DVD09_Start_1ST_Dram [Uomo ferito]]
+[msg MSG_DVD09_Start_1ST_Dram [Homem ferido]]
 [s][vp 8 2 0 0 65535 0]O que está acontecendo? Como[n]cadáveres se levantam?!?[n][f 1 3 65535][w][e]
 
-[msg MSG_DVD09_Start_1ST_Dram_2 [Uomo dal fisico scolpito]]
+[msg MSG_DVD09_Start_1ST_Dram_2 [Homem com corpo esculpido]]
 [s][vp 8 2 0 0 65535 0]Você ainda é humano?[n]Você foi mordido ou arranhado?[n][f 1 3 65535][w][e]
 
 [msg MND_DVD09_Start_1ST]
@@ -370,10 +370,10 @@
 [msg MSG_DVD09_Start_1ST [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1040 65535 0]Ugh, isso é um homem morto[n]andando. Eu também vi alguns[n]cães... mas nenhum gato.[n][f 1 3 65535][w][e]
 
-[msg MSG_DVD09_Start_2nd_Dram [Uomo con la pistola]]
+[msg MSG_DVD09_Start_2nd_Dram [Homem com a arma]]
 [s][vp 8 2 0 0 65535 0]Eu não me importo se ele é humano ou zumbi![n]Se não sabemos quem ele é,[n]ele ainda é um inimigo![n][f 1 3 65535][w][e]
 
-[msg MSG_DVD09_Start_2nd_Dram_2 [Uomo ferito]]
+[msg MSG_DVD09_Start_2nd_Dram_2 [Homem ferido]]
 [s][vp 8 2 0 0 65535 0]P-Por favor![n]E-Eu sou humano![n]Eu juro...![n][f 1 3 65535][w][e]
 
 [msg MND_DVD09_Start_2nd]
@@ -397,10 +397,10 @@
 [s][vp 8 2 0 0 65535 0]Assisti "The Running Dead"[n]até o último episódio...[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Talvez assistindo a esta série de TV eu ganhei[n]alguns [f 4 11 3][clr 26][f 4 12 3][clr 27].[n][f 1 3 65535][w][e]
 
-[msg MSG_DVD10_Start_1ST_Dram [Donna in abito elegante]]
+[msg MSG_DVD10_Start_1ST_Dram [Mulher de vestido elegante]]
 [s][vp 8 2 0 0 65535 0]Não é possível! Não poderia[n]ter sido alienígenas...![n][f 1 3 65535][w][e]
 
-[msg MSG_DVD10_Start_1ST_Dram_2 [Uomo in abito elegante]]
+[msg MSG_DVD10_Start_1ST_Dram_2 [Homem de terno elegante]]
 [s][vp 8 2 0 0 65535 0]Então, como você explica a substância[n]dentro do cadáver?[n]Não é deste planeta![n][f 1 3 65535][w][e]
 
 [msg MND_DVD10_Start_1ST]
@@ -409,10 +409,10 @@
 [msg MSG_DVD10_Start_1ST [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1189 65535 0]Essa série tem uma atmosfera tão sinistra...[n]Sinto uma certa inquietação crescendo em mim...[n][f 1 3 65535][w][e]
 
-[msg MSG_DVD10_Start_2nd_Dram [Donna in abito elegante]]
+[msg MSG_DVD10_Start_2nd_Dram [Mulher de vestido elegante]]
 [s][vp 8 2 0 0 65535 0]V-Eles estão todos mortos...![n]Aquela larva deve ter[n]enlouquecido todos eles![n][f 1 3 65535][w][e]
 
-[msg MSG_DVD10_Start_2nd_Dram_2 [Uomo in abito elegante]]
+[msg MSG_DVD10_Start_2nd_Dram_2 [Homem de terno elegante]]
 [s][vp 8 2 0 0 65535 0]Esta larva tem 250.000 anos...[n]Não deveríamos ficar com ela?[n][f 1 3 65535][w][e]
 
 [msg MND_DVD10_Start_2nd]
@@ -421,10 +421,10 @@
 [msg MSG_DVD10_Start_2nd [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1176 65535 0]Ei, por que você iria querer mantê-lo...?[n]A curiosidade mata, você sabe![n][f 1 3 65535][w][e]
 
-[msg MSG_DVD10_Start_3rd_Dram [Donna in abito elegante]]
+[msg MSG_DVD10_Start_3rd_Dram [Mulher de vestido elegante]]
 [s][vp 8 2 0 0 65535 0]H-Há uma pessoa naquela[n]cisterna... Ele está vivo...?[n][f 1 3 65535][w][e]
 
-[msg MSG_DVD10_Start_3rd_Dram_2 [Uomo in abito elegante]]
+[msg MSG_DVD10_Start_3rd_Dram_2 [Homem de terno elegante]]
 [s][vp 8 2 0 0 65535 0]Como isso é possível?!?[n]E assim, no final, foi[n]todo o trabalho do governo...![n][f 1 3 65535][w][e]
 
 [msg MND_DVD10_Start_3rd]
@@ -448,13 +448,13 @@
 [s][vp 8 2 0 0 65535 0]Eu assisti "The X Folders"[n]até o último episódio...[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Talvez assistindo a esta série de TV eu ganhei[n]alguns [f 4 11 3][clr 26][f 4 12 3][clr 27].[n][f 1 3 65535][w][e]
 
-[msg MSG_DVD01P5R_Start_1ST_D [Donna sexy]]
+[msg MSG_DVD01P5R_Start_1ST_D [Mulher sexy]]
 [s][vp 8 2 0 0 65535 0]Então você mentiu para mim![n][f 1 3 65535][w][e]
 
-[msg MSG_DVD01P5R_Start_1ST_D_2 [Uomo affascinante]]
+[msg MSG_DVD01P5R_Start_1ST_D_2 [Homem charmoso]]
 [s][vp 8 2 0 0 65535 0]Não é o que parece! Eu posso explicar![n][f 1 3 65535][w][e]
 
-[msg MSG_DVD01P5R_Start_1ST_D_3 [Donna sexy]]
+[msg MSG_DVD01P5R_Start_1ST_D_3 [Mulher sexy]]
 [s][vp 8 2 0 0 65535 0]Sim, certo...[n]Você acha que eu sou estúpido?!?[n][f 1 3 65535][w][e]
 
 [msg MND_DVD01P5R_Start_1ST]
@@ -463,13 +463,13 @@
 [msg MSG_DVD01P5R_Start_1ST [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1133 65535 0]Quanto mais profundo o amor, maior[n]a raiva quando esse amor[n]é traído.[n][f 1 3 65535][w][e]
 
-[msg MSG_DVD01P5R_Start_2nd_D [Donna sexy]]
+[msg MSG_DVD01P5R_Start_2nd_D [Mulher sexy]]
 [s][vp 8 2 0 0 65535 0]Estou com vergonha de mim mesmo.[n]Duvidei de você...[n][f 1 3 65535][w][e]
 
-[msg MSG_DVD01P5R_Start_2nd_D_2 [Uomo affascinante]]
+[msg MSG_DVD01P5R_Start_2nd_D_2 [Homem charmoso]]
 [s][vp 8 2 0 0 65535 0]Isso não importa. Vou te contar tudo.[n]Não quero perder você.[n][f 1 3 65535][w][e]
 
-[msg MSG_DVD01P5R_Start_2nd_D_3 [Donna sexy]]
+[msg MSG_DVD01P5R_Start_2nd_D_3 [Mulher sexy]]
 [s][vp 8 2 0 0 65535 0]Isso é tudo[n]que eu preciso saber.[n]Ei, venha aqui...[n][f 1 3 65535][w][e]
 
 [msg MND_DVD01P5R_Start_2nd]
@@ -493,13 +493,13 @@
 [s][vp 8 2 0 0 65535 0]Assisti "Disparate Housewives"[n]até o final...[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Talvez assistindo a esta série de TV eu tenha[n]aprendido algo sobre [f 4 11 1][clr 26][n][f 4 12 1][clr 27].[n][f 1 3 65535][w][e]
 
-[msg MSG_DVD02P5R_Start_1ST_D [Doctor Mouse]]
+[msg MSG_DVD02P5R_Start_1ST_D [Doutor Ratinho]]
 [s][vp 8 2 0 0 65535 0]O que você quer dizer com "formulário de[n]consentimento de intervenção "...?[n][f 1 3 65535][w][e]
 
-[msg MSG_DVD02P5R_Start_1ST_D_2 [Direttore Mouse]]
+[msg MSG_DVD02P5R_Start_1ST_D_2 [Rato Diretor]]
 [s][vp 8 2 0 0 65535 0]Eu não acredito nisso! Você operou sem[n]um consentimento assinado![n][f 1 3 65535][w][e]
 
-[msg MSG_DVD02P5R_Start_1ST_D_3 [Doctor Mouse]]
+[msg MSG_DVD02P5R_Start_1ST_D_3 [Doutor Ratinho]]
 [s][vp 8 2 0 0 65535 0]Já está acabado. O paciente está curado.[n]Onde está o problema?[n][f 1 3 65535][w][e]
 
 [msg MND_DVD02P5R_Start_1ST]
@@ -508,13 +508,13 @@
 [msg MSG_DVD02P5R_Start_1ST [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1168 65535 0]O médico tem um temperamento forte,[n]mas acho que ele tem o que é preciso[n]para poder pagar.[n][f 1 3 65535][w][e]
 
-[msg MSG_DVD02P5R_Start_2nd_D [Doctor Mouse]]
+[msg MSG_DVD02P5R_Start_2nd_D [Doutor Ratinho]]
 [s][vp 8 2 0 0 65535 0]Todo mundo mente.[n]É da natureza dos roedores.[n][f 1 3 65535][w][e]
 
-[msg MSG_DVD02P5R_Start_2nd_D_2 [Direttore Mouse]]
+[msg MSG_DVD02P5R_Start_2nd_D_2 [Rato Diretor]]
 [s][vp 8 2 0 0 65535 0]Você pode realmente salvar um paciente...[n]mesmo sem acreditar nele!?[n][f 1 3 65535][w][e]
 
-[msg MSG_DVD02P5R_Start_2nd_D_3 [Doctor Mouse]]
+[msg MSG_DVD02P5R_Start_2nd_D_3 [Doutor Ratinho]]
 [s][vp 8 2 0 0 65535 0]Claro.[n]Apenas investigue um pouco.[n][f 1 3 65535][w][e]
 
 [msg MND_DVD02P5R_Start_2nd]
@@ -538,13 +538,13 @@
 [s][vp 8 2 0 0 65535 0]Assisti "Doctor Mouse"[n]até o fim...[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Talvez assistindo a esta série de TV eu tenha[n]aprendido algo sobre [f 4 11 4][clr 26][n][f 4 12 4][clr 27].[n][f 1 3 65535][w][e]
 
-[msg MSG_DVD03P5R_Start_1ST_D [Editore prepotente]]
+[msg MSG_DVD03P5R_Start_1ST_D [Editor autoritário]]
 [s][vp 8 2 0 0 65535 0]Se você quer viver, comece a escrever![n][f 1 3 65535][w][e]
 
-[msg MSG_DVD03P5R_Start_1ST_D_2 [Scrittore affamato]]
+[msg MSG_DVD03P5R_Start_1ST_D_2 [Escritor faminto]]
 [s][vp 8 2 0 0 65535 0]É uma loucura! Como posso escrever tanto[n]em apenas um mês?!?[n][f 1 3 65535][w][e]
 
-[msg MSG_DVD03P5R_Start_1ST_D_3 [Editore prepotente]]
+[msg MSG_DVD03P5R_Start_1ST_D_3 [Editor autoritário]]
 [s][vp 8 2 0 0 65535 0]Droga, está travando...[n]Ligo mais tarde![n][f 1 3 65535][w][e]
 
 [msg MND_DVD03P5R_Start_1ST]
@@ -553,13 +553,13 @@
 [msg MSG_DVD03P5R_Start_1ST [Morgana]]
 [s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 0 1044 65535 0]Esse editor é um demônio. Ninguém[n]pode escrever tanto em tão[n]pouco tempo. Quais são suas esperanças?[n][f 1 3 65535][w][e]
 
-[msg MSG_DVD03P5R_Start_2nd_D [Editore prepotente]]
+[msg MSG_DVD03P5R_Start_2nd_D [Editor autoritário]]
 [s][vp 8 2 0 0 65535 0]Então?[n]Onde está o manuscrito!?[n][f 1 3 65535][w][e]
 
-[msg MSG_DVD03P5R_Start_2nd_D_2 [Scrittore affamato]]
+[msg MSG_DVD03P5R_Start_2nd_D_2 [Escritor faminto]]
 [s][vp 8 2 0 0 65535 0]Ugh...não aguento...[n]Acabou.[n][f 1 3 65535][w][e]
 
-[msg MSG_DVD03P5R_Start_2nd_D_3 [Editore prepotente]]
+[msg MSG_DVD03P5R_Start_2nd_D_3 [Editor autoritário]]
 [s][vp 8 2 0 0 65535 0]Resumidamente! Basta escrever![n]O presidente ainda pode[n]perdoá-lo![n][f 1 3 65535][w][e]
 
 [msg MND_DVD03P5R_Start_2nd]
@@ -583,13 +583,13 @@
 [s][vp 8 2 0 0 65535 0]Assisti "31" até o fim...[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Talvez assistindo a esta série de TV eu ganhei[n]alguns [f 4 11 3][clr 26][f 4 12 3][clr 27].[n][f 1 3 65535][w][e]
 
-[msg MSG_DVD04P5R_Start_1ST_D [Insegnante calmo]]
+[msg MSG_DVD04P5R_Start_1ST_D [Professor calmo]]
 [s][vp 8 2 0 0 65535 0]Eu vi você praticando seu swing.[n]Vamos, junte-se ao clube de golfe.[n][f 1 3 65535][w][e]
 
-[msg MSG_DVD04P5R_Start_1ST_D_2 [Studente ribelle]]
+[msg MSG_DVD04P5R_Start_1ST_D_2 [Estudante rebelde]]
 [s][vp 8 2 0 0 65535 0]Ugh, você simplesmente não entende![n]Você não vê que estou arrasado[n]com o estresse!?[n][f 1 3 65535][w][e]
 
-[msg MSG_DVD04P5R_Start_1ST_D_3 [Insegnante calmo]]
+[msg MSG_DVD04P5R_Start_1ST_D_3 [Professor calmo]]
 [s][vp 8 2 0 0 65535 0]Mas eu entendo.[n]Porque você é como eu.[n][f 1 3 65535][w][e]
 
 [msg MND_DVD04P5R_Start_1ST]
@@ -598,10 +598,10 @@
 [msg MSG_DVD04P5R_Start_1ST [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1175 65535 0]Ele não é perfeito, mas de alguma forma[n]ele consegue extrair o[n]melhor de cada aluno.[n][f 1 3 65535][w][e]
 
-[msg MSG_DVD04P5R_Start_2nd_D [Studente ribelle]]
+[msg MSG_DVD04P5R_Start_2nd_D [Estudante rebelde]]
 [s][vp 8 2 0 0 65535 0]Não sei...[n]E se eu acabar[n]fazendo papel de bobo em campo?[n][f 1 3 65535][w][e]
 
-[msg MSG_DVD04P5R_Start_2nd_D_2 [Insegnante calmo]]
+[msg MSG_DVD04P5R_Start_2nd_D_2 [Professor calmo]]
 [s][vp 8 2 0 0 65535 0]Você se preparou por muito tempo[n]para este dia.[n]Tudo o que resta[n]a fazer... é vencer.[n][f 1 3 65535][w][e]
 
 [msg MND_DVD04P5R_Start_2nd]

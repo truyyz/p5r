@@ -26,7 +26,7 @@
 [s][bup 0 103 504 65535 0][f 4 10 65535 0 0][vp 8 2 0 5141 65535 0]Ei, o que você tem feito?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Fora do clube...[n][f 1 3 65535][w][e]
 
-[msg MSG_004_5_0 [Voce femminile]]
+[msg MSG_004_5_0 [Voz feminina]]
 [s][vp 8 0 0 0 65535 0]Permissão...[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Makoto]]

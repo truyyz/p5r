@@ -1,5 +1,5 @@
 [msg MES_GROUP0_01 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 7196 65535 0]Você nos avisou que coisas estranhas do Memento[n]estavam acontecendo, mas[n]ISSO que diabos é isso?[n][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 7196 65535 0]Você nos avisou que coisas estranhas do Mementos[n]estavam acontecendo, mas[n]ISSO que diabos é isso?[n][w][e]
 
 [msg MES_GROUP0_02 [Morgana]]
 [s][bup 0 3 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 3 10 0 10]Não faço ideia... só sei que[n]é assustador.[n][w][e]
@@ -45,7 +45,7 @@
 
 [msg MES_GROUP4_01 [Akechi]]
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 32 10 50 10][vp 8 2 1 8134 65535 0]E então, esta é a Sombra que nos segue[n]nos Mementos...[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]É a origem dos medos humanos? Uma chave de id[n]desejo? Um[n]aviso do superego de Memento?[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]É a origem dos medos humanos? Uma chave de id[n]desejo? Um[n]aviso do superego de Mementos?[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Imagino que possa ser[n]muitas coisas… mas no final,[n]estas são apenas especulações.[n][w][e]
 
 [msg MES_GROUP4_02 [Ryuji]]

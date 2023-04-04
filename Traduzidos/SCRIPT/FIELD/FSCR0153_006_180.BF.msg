@@ -16,17 +16,17 @@
 [s]Vamos.[e]
 [s]Eu tenho que me preparar primeiro.[e]
 
-[msg mini_EV_e210_146_mes05 [Ombra Agente della security]]
+[msg mini_EV_e210_146_mes05 [Agente de segurança de sombra]]
 [s][vp 1 0 0 7 0 0]Uh?!? Quem é você?!?[n]Como você chegou aqui?!?[n][w][e]
 
 [sel mini_EV_e210_146_selA top]
 [s]Afaste-se.[e]
 [s]Foi fácil.[e]
 
-[msg mini_EV_e210_146_selA_0_ [Ombra Agente della security]]
+[msg mini_EV_e210_146_selA_0_ [Agente de segurança de sombra]]
 [s][vp 1 0 0 8 0 0]Você acha que só vou me mover[n]porque você me pediu?[n]Você está tão errado![n][w][e]
 
-[msg mini_EV_e210_146_selA_1_ [Ombra Agente della security]]
+[msg mini_EV_e210_146_selA_1_ [Agente de segurança de sombra]]
 [s][vp 1 0 0 9 0 0]Bem, não será o caso desta vez![n][w][e]
 
 [msg mini_EV_e210_146_mes06 [Ryuji]]

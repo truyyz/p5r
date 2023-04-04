@@ -5,7 +5,7 @@
 [s][bup 0 3 3 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Não vejo outras entradas...[n][w][e]
 [s]Devemos considerar[n][clr 2]outros caminhos além das portas[clr 27],[n]como o telhado ou as chaminés...[n][w][e]
 
-[msg D10_02_e484_080_mes01 [Voce di Kasumi]]
+[msg D10_02_e484_080_mes01 [Voz de Kasumi]]
 [s][vp 1 0 0 1 0 0]Quem está aí?[n][w][e]
 
 [msg D10_02_e484_080_mes02 [Morgana]]
@@ -46,15 +46,15 @@
 [s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 0 65535 0]Tem muita multidão...[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]É definitivamente tudo diferente da última[n]vez.[n][w][e]
 
-[msg D10_PaleceChangedReactio_2 [Annuncio educato]]
+[msg D10_PaleceChangedReactio_2 [Anúncio educado]]
 [s]Obrigado por terem vindo,[n]pacientes.[n][w][e]
 [s]Você será conduzido a uma de nossas instalações[n]de cuidados especializados de acordo com suas[n]necessidades pessoais.[n][w][e]
 
-[msg D10_PaleceChangedReactio_3 [Annuncio educato]]
+[msg D10_PaleceChangedReactio_3 [Anúncio educado]]
 [s]Nós vamos ajudar cada um de vocês.[n][w][e]
 [s]Não se preocupe. Todos podem ser[n]felizes.[n][w][e]
 
-[msg D10_PaleceChangedReactio_4 [Annuncio educato]]
+[msg D10_PaleceChangedReactio_4 [Anúncio educado]]
 [s]Se você tiver alguma dúvida sobre as instalações,[n]pergunte a um funcionário próximo.[n][w][e]
 
 [msg D10_PaleceChangedReactio_5 [[f 4 31 10 0]]]
@@ -64,14 +64,14 @@
 [msg D10_02_AuditoriumGuide_m [Akechi]]
 [s][bup 0 9 800 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 0 65535 0]Acho que foi por aqui.[n][w][e]
 
-[msg D10_02_AuditoriumGuide_m_2 [Annuncio educato]]
+[msg D10_02_AuditoriumGuide_m_2 [Anúncio educado]]
 [s]Pacientes VIP identificados.[n]Vamos agora começar a visita.[n][w][e]
 
-[msg D10_02_AuditoriumGuide_m_3 [Annuncio educato]]
+[msg D10_02_AuditoriumGuide_m_3 [Anúncio educado]]
 [s]O Auditório já está aberto.[n][w][e]
 [s]O mestre espera por você lá... com[n]o paciente que você procura.[n][w][e]
 
-[msg D10_02_AuditoriumGuide_m_4 [Annuncio educato]]
+[msg D10_02_AuditoriumGuide_m_4 [Anúncio educado]]
 [s]Por favor, entre pela porta[n]no lado esquerdo do hall de entrada.[n][w][e]
 
 [msg D10_02_AuditoriumGuide_m_5 [Akechi]]

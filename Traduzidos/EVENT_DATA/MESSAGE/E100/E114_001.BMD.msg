@@ -4,7 +4,7 @@
 [msg MSG_001_0_0 [Sakamoto]]
 [s][bup 0 2 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]O que...[n][f 1 3 65535][w][e]
 
-[msg DVL_002_0_0 [Arsène]]
+[msg DVL_002_0_0 [Arsene]]
 [s][vp 8 0 0 3 65535 0]Eu sou a alma rebelde que[n]reside dentro de você.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 4 65535 0]Se você desejar,[n]eu lhe concederei o poder[n]de superar essa situação.[n][f 1 3 65535][w][e]
 
@@ -12,7 +12,7 @@
 [s]Me dê seu poder.[e]
 [s]Eu não quero morrer.[e]
 
-[msg DVL_004_0_0 [Arsène]]
+[msg DVL_004_0_0 [Arsene]]
 [s][vp 8 0 0 5 65535 0]Umpf, muito bem...[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Kamoshida...?]]

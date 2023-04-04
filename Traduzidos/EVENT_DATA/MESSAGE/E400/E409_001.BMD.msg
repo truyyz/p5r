@@ -39,20 +39,20 @@
 [msg MSG_018_0_0 [Haru]]
 [s][bup 0 7 300 65535 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Lindo dia, não?[n][f 1 3 65535][w][e]
 
-[msg MSG_019_0_0 [Ombra Ex nobile]]
+[msg MSG_019_0_0 [Sombra Ex nobre]]
 [s][vp 8 0 0 20 17 0]O que você quer?[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Haru]]
 [s][bup 0 7 300 65535 0][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]Hum, você poderia nos dar uma carta de[n]recomendação para o Sr. Shido?[n][f 1 3 65535][w][e]
 
-[msg MSG_021_0_0 [Ombra Ex nobile]]
+[msg MSG_021_0_0 [Sombra Ex nobre]]
 [s][vp 8 0 0 22 17 0]Uma carta de recomendação?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 23 17 0]Hehe. Eu nunca daria uma para[n]garotas quaisquer como vocês.[n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Haru]]
 [s][bup 0 7 303 65535 0][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Quaisquer...?[n][f 1 3 65535][w][e]
 
-[msg MSG_023_0_0 [Ombra Ex nobile]]
+[msg MSG_023_0_0 [Sombra Ex nobre]]
 [s][vp 8 0 0 25 17 0]Recomendo apenas aqueles[n]que têm uma linhagem[n]vestigiosa.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 26 17 0]Não importa o quão bonito você possa[n]parecer, você vive externamente, sua[n]ascendência não pode mudá-lo.[n][f 1 3 65535][w][e]
 
@@ -75,7 +75,7 @@
 [msg MSG_028_0_0 [Ann]]
 [s][bup 0 4 300 65535 0][f 4 10 65535 0 0][vp 8 0 0 32 65535 0]Meu pai é descendente[n]da realeza inglesa.[n][f 1 3 65535][w][e]
 
-[msg MSG_029_0_0 [Ombra Ex nobile]]
+[msg MSG_029_0_0 [Sombra Ex nobre]]
 [s][vp 8 0 0 33 17 0]...Como você disse?[n][f 1 3 65535][w][e]
 
 [msg MSG_030_0_0 [Futaba]]
@@ -87,13 +87,13 @@
 [msg MSG_032_0_0 [Makoto]]
 [s][bup 0 6 300 65535 0][f 4 10 65535 0 0][vp 8 0 0 36 65535 0]Oh sim. Lady Ann[n]realmente nos trata com luvas de pelica.[n][f 1 3 65535][w][e]
 
-[msg MSG_033_0_0 [Ombra Ex nobile]]
+[msg MSG_033_0_0 [Sombra Ex nobre]]
 [s][vp 8 0 0 37 17 0]Aaah... Você é meia[n]britânica, Ann-chan?[n][f 1 3 65535][w][e]
 
 [msg MSG_034_0_0 [Ann]]
 [s][bup 0 4 300 65535 0][f 4 10 65535 0 0][vp 8 0 0 38 65535 0]Sim, isso mesmo.[n][f 1 3 65535][w][e]
 
-[msg MSG_035_0_0 [Ombra Ex nobile]]
+[msg MSG_035_0_0 [Sombra Ex nobre]]
 [s][vp 8 0 0 39 17 0]De fato, suas feições são[n]diversas das[n]damas japonesas. É facilmente percebido.[n][f 1 3 65535][w][e]
 
 [msg MSG_035_5_0 [Ann]]
@@ -107,13 +107,13 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 43 65535 0]Meus hobbies incluem cerimônias do chá.[n]Por outro lado, meu pai me obrigou a[n]aprender essa arte.[n][f 1 3 65535][w][e]
 
 
-[msg MSG_038_0_0 [Ombra Ex nobile]]
+[msg MSG_038_0_0 [Sombra Ex nobre]]
 [s][vp 8 0 0 44 17 0]Entendo. Percebo uma uva nobre[n]diferente da[n]dos seus sete.[n][f 1 3 65535][w][e]
 
 [msg MSG_039_0_0 [Haru]]
 [s][bup 0 7 303 65535 0][f 4 10 65535 0 0][vp 8 0 0 45 65535 0]Precisa?[n][f 1 3 65535][w][e]
 
-[msg MSG_040_0_0 [Ombra Ex nobile]]
+[msg MSG_040_0_0 [Sombra Ex nobre]]
 [s][vp 8 0 0 46 17 0]A linhagem é absoluta. Não[n]melhora o quanto um plebeu tenta,[n]o abismo é intransponível.[n][f 1 3 65535][w][e]
 
 [msg MSG_041_0_0 [Ann]]
@@ -126,44 +126,44 @@
 [s][bup 0 4 300 65535 0][f 4 10 65535 0 0][vp 8 0 0 49 65535 0]Sobre aquela carta[n]de recomendação...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 50 65535 0]Se você fosse tão generoso a ponto de me dar uma,[n]eu poderia considerar a ideia de deixá-lo[n]conhecer meu pai.[n][f 1 3 65535][w][e]
 
-[msg MSG_044_0_0 [Ombra Ex nobile]]
+[msg MSG_044_0_0 [Sombra Ex nobre]]
 [s][vp 8 0 0 51 17 0]Oh...? Então considere isso minha[n]forma de enviar lembranças a ele.[n][f 1 3 65535][w][e]
 
 [msg MSG_045_0_0 [Ann]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 4 10 300 1][vp 8 0 0 52 65535 0]Desejo-lhe sinceramente.[n][f 1 3 65535][w][e]
 
-[msg MSG_046_0_0 [Ombra Ex nobile]]
+[msg MSG_046_0_0 [Sombra Ex nobre]]
 [s][vp 8 0 0 53 17 0]Mas caramba, você está tão[n]linda nessa fantasia.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 54 17 0]E que corpo fabuloso.[n]Você quase parecia uma modelo.[n][f 1 3 65535][w][e]
 
 [msg MSG_047_0_0 [Ann]]
 [s][bup 0 4 304 65535 0][f 4 10 65535 0 0][vp 8 0 0 55 65535 0]Oh não...[n][f 1 3 65535][w][e]
 
-[msg MSG_048_0_0 [Ombra Ex nobile]]
+[msg MSG_048_0_0 [Sombra Ex nobre]]
 [s][vp 8 0 0 56 17 0]Você se certificou de colocar[n] protetor solar em você?[n][f 1 3 65535][w][e]
 
 [msg MSG_049_0_0 [Ann]]
 [s][bup 0 4 303 65535 0][f 4 10 65535 0 0][vp 8 0 0 57 65535 0]Ei, uhm...[n][f 1 3 65535][w][e]
 
-[msg MSG_050_0_0 [Ombra Ex nobile]]
+[msg MSG_050_0_0 [Sombra Ex nobre]]
 [s][vp 8 0 0 58 17 0]Como membro de dinastias tão[n]vestigiosas, por que você não se vincula[n]em um nível mais íntimo?[n][f 1 3 65535][w][e]
 
 [msg MSG_051_0_0 [Ann]]
 [s][bup 0 4 302 65535 0][f 4 10 65535 0 0][vp 8 0 0 59 65535 0]Com licença?[n][f 1 3 65535][w][e]
 
-[msg MSG_052_0_0 [Ombra Ex nobile]]
+[msg MSG_052_0_0 [Sombra Ex nobre]]
 [s][vp 8 0 0 60 17 0]Vamos lá, vocês servos plebeus[n]devem sair. Vocês[n]estão envergonhando ela.[n][f 1 3 65535][w][e]
 
 [msg MSG_053_0_0 [Ann]]
 [s][bup 0 4 302 65535 0][f 4 10 65535 0 0][vp 8 0 0 61 65535 0]Você se importa de terminar isso?[n][f 1 3 65535][w][e]
 
-[msg MSG_054_0_0 [Ombra Ex nobile]]
+[msg MSG_054_0_0 [Sombra Ex nobre]]
 [s][vp 8 0 0 62 17 0]Você gostaria de experimentar alguma outra[n]roupa no meu quarto?[n][f 1 3 65535][w][e]
 
 [msg MSG_055_0_0 [Ann]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 4 3 300 1][vp 8 0 0 63 65535 0]Não me toque, seu pervertido![n][f 1 3 65535][w][e]
 
-[msg MSG_056_0_0 [Ombra Ex nobile]]
+[msg MSG_056_0_0 [Sombra Ex nobre]]
 [s][vp 8 0 0 64 17 0]......?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_057_0_0 [Ann]]
@@ -172,10 +172,10 @@
 [msg MSG_058_0_0 [Ann]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 4 3 300 1][vp 8 0 0 66 65535 0]Esse cara é um molestador![n][f 1 3 65535][w][e]
 
-[msg MSG_059_0_0 [Ombra Ex nobile]]
+[msg MSG_059_0_0 [Sombra Ex nobre]]
 [s][vp 8 0 0 67 17 0]O que...[n][f 1 3 65535][w][e]
 
-[msg MSG_060_0_0 [Ombra Ex nobile]]
+[msg MSG_060_0_0 [Sombra Ex nobre]]
 [s][vp 8 0 0 68 17 0]Como você ousa me enganar assim![n][f 1 3 65535][w][e]
 
 [msg MSG_061_0_0 [Ryuji]]

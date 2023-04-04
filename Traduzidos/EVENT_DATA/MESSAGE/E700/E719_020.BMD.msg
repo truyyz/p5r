@@ -77,7 +77,7 @@
 [msg MND_990_0_0]
 [s][vp 8 0 0 0 65535 0]Yoshida me explicou o básico sobre como fazer um[n]discurso. Sinto que nosso vínculo está se[n]fortalecendo.[n][f 1 3 65535][w][e]
 
-[msg MSG_020_0_0 [Detrattore di Yoshida]]
+[msg MSG_020_0_0 [Detrator de Yoshida]]
 [s][vp 8 0 0 0 65535 0]Saia do meu caminho,[n]"Tora wimp"![n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Yoshida]]

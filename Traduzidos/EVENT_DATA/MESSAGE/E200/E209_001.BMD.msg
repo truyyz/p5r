@@ -1,16 +1,16 @@
 [msg MSG_000_0_0 [Yusuke]]
 [s][bup 0 5 105 0 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]Ngh...[n][f 1 3 65535][w][e]
 
-[msg MSG_001_0_0 [Ombra di Madarame]]
+[msg MSG_001_0_0 [Sombra de Madarame]]
 [s][bup 0 203 100 0 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Yusuke, você acabou de jogar fora[n]seu futuro brilhante.[n][f 1 3 65535][w][e]
 
-[msg MSG_001_5_0 [Ombra di Madarame]]
+[msg MSG_001_5_0 [Sombra de Madarame]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 209 3 300 1][vp 8 0 0 3 65535 0]Vou destruir todas as suas chances de[n]tornar-se um artista...![n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Yusuke]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 5 3 301 1][vp 8 0 0 4 65535 0]Madarame![n][f 1 3 65535][w][e]
 
-[msg MSG_003_0_0 [Ombra di Madarame]]
+[msg MSG_003_0_0 [Sombra de Madarame]]
 [s][bup 0 203 102 0 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Você amaldiçoará para sempre o dia em que ousou[n]me desafiar.[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Yusuke]]

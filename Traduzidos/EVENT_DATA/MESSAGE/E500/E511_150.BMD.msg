@@ -1,7 +1,7 @@
 [msg MSG_000_0_0 [Kasumi]]
 [s][bup 0 10 105 0 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]*engolir* *anf*[n][f 1 3 65535][w][e]
 
-[msg DVL_001_0_0 [Voce dell'Ombra]]
+[msg DVL_001_0_0 [Voz da sombra]]
 [s][vp 8 0 0 2 65535 0]Você é um pobre tolo por recusar a graça de nosso[n]senhor...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 3 65535 0]Se sim...[n]Veja você mesmo.[n][f 1 3 65535][w][e]
 
@@ -11,52 +11,52 @@
 [msg MSG_003_0_0 [(SE)歓声]]
 [s][vp 8 0 0 0 65535 0]「わー」というような歓声[n][f 1 3 65535][w][e]
 
-[msg MSG_004_0_0 [Intervistatrice]]
+[msg MSG_004_0_0 [Entrevistador]]
 [s][vp 8 0 0 5 65535 0]Oh uau, a multidão está em êxtase![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 6 65535 0]Seu entusiasmo aquece o estádio[n]e dá as boas-vindas à nova heroína[n]da ginástica profissional![n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Kasumi]]
 [s][bup 0 10 104 0 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Hã?[n][f 1 3 65535][w][e]
 
-[msg MSG_006_0_0 [Ragazza con i capelli raccolti]]
+[msg MSG_006_0_0 [Menina com cabelo coletado]]
 [s][bup 0 220 701 0 0][f 4 10 65535 0 0][vp 8 0 0 8 6 0]Muito obrigado! Estou nas nuvens com os[n]resultados de hoje![n][f 1 3 65535][w][e]
 
-[msg MSG_007_0_0 [Intervistatrice]]
+[msg MSG_007_0_0 [Entrevistador]]
 [s][vp 8 0 0 9 65535 0]Seu desempenho foi[n]inédito no ensino médio...[n]Absolutamente impressionante![n][f 1 3 65535][w][e]
 
-[msg MSG_007_5_0 [Intervistatrice]]
+[msg MSG_007_5_0 [Entrevistador]]
 [s][vp 8 0 0 10 65535 0]Mas ano que vem, você estará no[n]ensino médio... Como isso afetará[n]sua carreira esportiva?[n][f 1 3 65535][w][e]
 
-[msg MSG_008_0_0 [Ragazza con i capelli raccolti]]
+[msg MSG_008_0_0 [Menina com cabelo coletado]]
 [s][bup 0 220 700 0 0][f 4 10 65535 0 0][vp 8 0 0 11 6 0]Ah, não vou parar![n]Meu sonho é competir e vencer[n]internacionalmente![n][f 1 3 65535][w][e]
 
-[msg MSG_009_0_0 [Intervistatrice]]
+[msg MSG_009_0_0 [Entrevistador]]
 [s][vp 8 0 0 12 65535 0]Mas é ótimo![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 13 65535 0]Uma última pergunta: você quer[n]aproveitar[n]para cumprimentar alguém?[n][f 1 3 65535][w][e]
 
-[msg MSG_010_0_0 [Ragazza con i capelli raccolti]]
+[msg MSG_010_0_0 [Menina com cabelo coletado]]
 [s][bup 0 220 701 0 0][f 4 10 65535 0 0][vp 8 0 0 14 6 0]Minha irmãzinha![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 15 6 0]Deveria estar aqui,[n]na platéia...[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Kasumi]]
 [s][bup 0 10 104 0 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]O que...?[n][f 1 3 65535][w][e]
 
-[msg MSG_012_0_0 [Ragazza con i capelli raccolti]]
+[msg MSG_012_0_0 [Menina com cabelo coletado]]
 [s][bup 0 220 701 0 0][f 4 10 65535 0 0][vp 8 0 0 17 6 0]Aí está! Sumire![n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Kasumi]]
 [s][bup 0 10 104 0 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]......?!?[n][f 1 3 65535][w][e]
 
-[msg MSG_014_0_0 [Ragazza con i capelli raccolti]]
+[msg MSG_014_0_0 [Menina com cabelo coletado]]
 [s][bup 0 220 701 0 0][f 4 10 65535 0 0][vp 8 0 0 19 6 0]Sumire! Eu consegui![n][f 1 3 65535][w][e]
 
-[msg MSG_015_0_0 [Ragazza con i capelli raccolti]]
+[msg MSG_015_0_0 [Menina com cabelo coletado]]
 [s][bup 0 220 700 0 0][f 4 10 65535 0 0][vp 8 0 0 20 6 0]Ambos temos o mesmo sonho:[n]ser campeões internacionais![n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Kasumi]]
 [s][bup 0 10 105 0 0][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]Apenas...[n][f 1 3 65535][w][e]
 
-[msg MSG_017_5_0 [Ragazza con i capelli raccolti]]
+[msg MSG_017_5_0 [Menina com cabelo coletado]]
 [s][bup 0 220 701 0 0][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Vamos fazer isso acontecer juntos,[n]Sumire! Você e eu![n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Kasumi]]

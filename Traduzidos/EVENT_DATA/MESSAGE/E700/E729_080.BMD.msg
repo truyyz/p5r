@@ -56,13 +56,13 @@
 [s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Carolina. Esse é um lugar onde[n]você pode falar com aquele humano e[n]revelar seus erros passados.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Acho que se chama "confessional"...[n][f 1 3 65535][w][e]
 
-[msg MSG_017_0_0 [Prete]]
+[msg MSG_017_0_0 [Padre]]
 [s][vp 8 0 0 0 65535 0]Há algo errado?[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Caroline]]
 [s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você aí. Estamos aqui pela questão[n]do confessionário que você tem aqui.[n][f 1 3 65535][w][e]
 
-[msg MSG_019_0_0 [Prete]]
+[msg MSG_019_0_0 [Padre]]
 [s][vp 8 0 0 0 65535 0]Oooh... Você quer se confessar?[n]Apesar de sua pouca idade?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Tudo bem, qual de vocês gostaria de[n]ir primeiro?[n][f 1 3 65535][w][e]
 
@@ -72,7 +72,7 @@
 [msg MSG_021_0_0 [Caroline]]
 [s][bup 0 102 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Umpf, não tenha muitas esperanças.[n]Entraremos juntos.[n][f 1 3 65535][w][e]
 
-[msg MSG_022_0_0 [Prete]]
+[msg MSG_022_0_0 [Padre]]
 [s][vp 8 0 0 0 65535 0]Hum, entendo...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Pode, mas não tem muito[n]espaço dentro...[n][f 1 3 65535][w][e]
 
@@ -84,14 +84,14 @@
 [s][bup 0 101 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Enfim, falar é muito[n]fácil, mas vamos aos fatos.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Devemos tentar esta[n]confissão e descobrir[n]a verdade por nós mesmos.[n][f 1 3 65535][w][e]
 
-[msg MSG_025_0_0 [Prete]]
+[msg MSG_025_0_0 [Padre]]
 [s][vp 8 0 0 0 65535 0]Então, hum, para sua[n]confissão...[n][f 1 3 65535][w][e]
 
 [msg MSG_026_0_0 [Caroline]]
 [s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Hmmm, o que confessar...[n][f 1 3 65535][w][e]
 [s][bup 0 102 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bater no Prisioneiro não é legal,[n]mas é meu dever como guardião,[n]então você não pode me culpar.[n][f 1 3 65535][w][e]
 
-[msg MSG_027_0_0 [Prete]]
+[msg MSG_027_0_0 [Padre]]
 [s][vp 8 0 0 0 65535 0]"Prisioneiro"? "Guardião"?[n][f 1 3 65535][w][e]
 
 [msg MSG_028_0_0 [Caroline]]

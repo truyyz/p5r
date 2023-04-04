@@ -1,4 +1,4 @@
-[msg MSG_000_0_0 [Altoparlanti della scuola]]
+[msg MSG_000_0_0 [Palestrantes escolares]]
 [s][vp 8 0 0 1 65535 0]O pós-festival[n]está prestes a começar no ginásio. Vocês[n]todos, por favor, juntem-se a nós.[n][f 1 3 65535][w][e]
 
 [msg MND_001_0_0]
@@ -8,7 +8,7 @@
 [s][vp 8 0 0 0 65535 0][f 5 14]O pós-festival? Claro.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 5 14]Vejo você na academia.[n][f 1 3 65535][w][e]
 
-[msg MSG_003_0_0 [Altoparlanti della scuola]]
+[msg MSG_003_0_0 [Palestrantes escolares]]
 [s][vp 8 0 0 1 65535 0]O pós-festival[n]está prestes a começar no ginásio. Vocês[n]todos, por favor, juntem-se a nós.[n][f 1 3 65535][w][e]
 
 [msg MND_004_0_0]
@@ -18,7 +18,7 @@
 [s][vp 8 0 0 0 65535 0][f 5 14]O pós-festival? Claro.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 5 14]Vejo você na academia.[n][f 1 3 65535][w][e]
 
-[msg MSG_006_0_0 [Altoparlanti della scuola]]
+[msg MSG_006_0_0 [Palestrantes escolares]]
 [s][vp 8 0 0 1 65535 0]O pós-festival[n]está prestes a começar no ginásio. Vocês[n]todos, por favor, juntem-se a nós.[n][f 1 3 65535][w][e]
 
 [msg MND_007_0_0]
@@ -28,7 +28,7 @@
 [s][vp 8 0 0 0 65535 0][f 5 14]O pós-festival?[n]Parece uma ótima ideia.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 5 14]Vejo você na academia, ok?[n][f 1 3 65535][w][e]
 
-[msg MSG_009_0_0 [Altoparlanti della scuola]]
+[msg MSG_009_0_0 [Palestrantes escolares]]
 [s][vp 8 0 0 1 65535 0]O pós-festival[n]está prestes a começar no ginásio. Vocês[n]todos, por favor, juntem-se a nós.[n][f 1 3 65535][w][e]
 
 [msg MND_010_0_0]
@@ -38,7 +38,7 @@
 [s][vp 8 0 0 0 65535 0][f 5 14]O pós-festival? Comigo?[n]E seus amigos?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 5 14]Mmh, OK.[n]Te espero na academia.[n][f 1 3 65535][w][e]
 
-[msg MSG_012_0_0 [Altoparlanti della scuola]]
+[msg MSG_012_0_0 [Palestrantes escolares]]
 [s][vp 8 0 0 1 65535 0]O pós-festival[n]está prestes a começar no ginásio. Vocês[n]todos, por favor, juntem-se a nós.[n][f 1 3 65535][w][e]
 
 [msg MND_013_0_0]

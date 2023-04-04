@@ -2,14 +2,14 @@
 [s][vp 8 0 0 0 65535 0]Chegamos ao local[n]da consulta...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Parece que eles estão[n]concordando sobre como[n]conduzir a sessão...[n][f 1 3 65535][w][e]
 
-[msg MSG_000_0_0 [Ragazza di bell'aspetto]]
+[msg MSG_000_0_0 [Garota bonita]]
 [s][bup 0 215 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 9 0]Ann-senpai! Como estou feliz por[n]trabalhar com você hoje![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 9 0]Eu te vi no[n]show do ano passado e... Ah...[n]quase chorei de emoção...[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Ann]]
 [s][bup 0 4 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 6027 65535 0]Ah, mas não foi assim...[n]Não foi um grande show...[n][f 1 3 65535][w][e]
 
-[msg MSG_002_0_0 [Ragazza di bell'aspetto]]
+[msg MSG_002_0_0 [Garota bonita]]
 [s][bup 0 215 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 9 0]A propósito, meu nome é Mika.[n]E, por favor, sem títulos honoríficos.[n][f 1 3 65535][w][e]
 [s][bup 0 215 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 9 0]Eu sou mais velho, mas você tem muito[n]mais experiência do que eu, Ann-senpai.[n][f 1 3 65535][w][e]
 
@@ -58,7 +58,7 @@
 [s][bup 0 215 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ann-senpai, como você pode dizer[n]tal coisa...![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Em que sentido você não está interessado[n]posando para essas pessoas?!?[n][f 1 3 65535][w][e]
 
-[msg MSG_014_0_0 [Assistente fotografo]]
+[msg MSG_014_0_0 [Assistente de fotógrafo]]
 [s][vp 8 0 0 0 65535 0]...Você disse isso, Ann-chan?[n][f 1 3 65535][w][e]
 
 [msg MSG_014_5_0 [Ann]]
@@ -68,7 +68,7 @@
 [s][bup 0 215 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu amo esta revista![n][f 1 3 65535][w][e]
 [s][bup 0 215 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Estamos todos trabalhando arduamente[n]para fazer o melhor serviço[n]possível...![n][f 1 3 65535][w][e]
 
-[msg MSG_016_0_0 [Fotografo]]
+[msg MSG_016_0_0 [Eu fotografo]]
 [s][vp 8 0 0 0 65535 0]Mika-chan, acalme-se.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Não se preocupe, todos nós sabemos[n]que você está dando tudo de si.[n][f 1 3 65535][w][e]
 
@@ -78,7 +78,7 @@
 [msg MSG_018_0_0 [Ann]]
 [s][bup 0 4 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 6029 65535 0]U-espere um momento...[n][f 1 3 65535][w][e]
 
-[msg MSG_019_0_0 [Assistente fotografo]]
+[msg MSG_019_0_0 [Assistente de fotógrafo]]
 [s][vp 8 0 0 0 65535 0]Ann-chan, a verdade é que nós dois[n]convocamos para substituir[n]a modelo que não apareceu.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Queríamos vocês dois em nossa capa, mas se você[n]não estiver interessado...[n][f 1 3 65535][w][e]
 
@@ -97,7 +97,7 @@
 [msg MSG_023_0_0 [Mika]]
 [s][bup 0 215 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O-Quão ruim você é, Ann-chan...![n]Você realmente me odeia tanto assim?!?[n][f 1 3 65535][w][e]
 
-[msg MSG_024_0_0 [Fotografo]]
+[msg MSG_024_0_0 [Eu fotografo]]
 [s][vp 8 0 0 0 65535 0]Ei, sem drama, vocês dois.[n]Você está pronto, Mika-chan?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Desculpe, Ann-chan.[n]Não precisamos de você hoje.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Reembolsaremos[n]os custos de transporte, é claro, com[n]um pouco mais pelo inconveniente.[n][f 1 3 65535][w][e]

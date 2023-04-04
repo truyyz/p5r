@@ -1,30 +1,30 @@
-[msg MSG_000_0_0 [Uomo losco]]
+[msg MSG_000_0_0 [Homem obscuro]]
 [s][vp 8 0 0 0 65535 0]Uma lanchonete, hein? Achei que só vinham os[n]velhos trombones.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Você mudou, Mune-san.[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Iwai]]
 [s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 2 0 13082 65535 0]Ei, não exagere.[n]Não é ruim e é barato.[n][f 1 3 65535][w][e]
 
-[msg MSG_002_0_0 [Uomo losco]]
+[msg MSG_002_0_0 [Homem obscuro]]
 [s][vp 8 0 0 0 65535 0]Ah, e assim diz a pessoa que[n]espancou cinquenta[n]membros de uma gangue rival![n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Iwai]]
 [s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não precisa exagerar.[n][f 1 3 65535][w][e]
 
-[msg MSG_004_0_0 [Uomo losco]]
+[msg MSG_004_0_0 [Homem obscuro]]
 [s][vp 8 0 0 0 65535 0]Enfim, o que você queria me contar?[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Iwai]]
 [s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 2 0 13022 65535 0]Certo.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Como está Tsuda-san?[n][f 1 3 65535][w][e]
 
-[msg MSG_006_0_0 [Uomo losco]]
+[msg MSG_006_0_0 [Homem obscuro]]
 [s][vp 8 0 0 0 65535 0]Como sempre. Por que, o que está acontecendo?[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Iwai]]
 [s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Oh nada. Outro dia[n]eu o vi por aí.[n][f 1 3 65535][w][e]
 
-[msg MSG_008_0_0 [Uomo losco]]
+[msg MSG_008_0_0 [Homem obscuro]]
 [s][vp 8 0 0 0 65535 0]Espera, você não cortou os laços[n]quando deixou a família?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Por que você está perguntando sobre ele?[n][f 1 3 65535][w][e]
 
@@ -32,14 +32,14 @@
 [s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vamos, nós éramos jovens...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Acho que é hora de enterrar a machadinha. Mas eu[n]não posso simplesmente ir falar com ele...[n][f 1 3 65535][w][e]
 
-[msg MSG_010_0_0 [Uomo losco]]
+[msg MSG_010_0_0 [Homem obscuro]]
 [s][vp 8 0 0 0 65535 0]Oooh, entendi. Ainda tentando[n]manter o antigo código[n]de honra, hein?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]OK, vou dizer a ele que você quer conhecê-lo![n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Iwai]]
 [s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 2 0 13037 65535 0]Não, idiota. Eu só quero estar[n]no mesmo lugar na mesma hora.[n]Deve parecer coincidência.[n][f 1 3 65535][w][e]
 
-[msg MSG_012_0_0 [Uomo losco]]
+[msg MSG_012_0_0 [Homem obscuro]]
 [s][vp 8 0 0 0 65535 0]Nesse caso, Shibaura pode[n]encaixar... Estamos considerando[n]uma reconstrução.[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Iwai]]
@@ -66,7 +66,7 @@
 [s]Sim, tenho que ligar para ele.[e]
 [s]Acho que devo ligar para ele...[e]
 
-[msg MSG_015_0_0 [Uomo losco]]
+[msg MSG_015_0_0 [Homem obscuro]]
 [s][vp 8 0 0 0 65535 0]Huh? Por acaso você está doente?[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Iwai]]
@@ -79,27 +79,27 @@
 [msg MSG_018_0_0 [Iwai]]
 [s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 2 0 13032 65535 0]Me desculpe, eu tenho que correr. Bagunça[n]de trabalho. Vamos nos encontrar de novo, ok?[n][f 1 3 65535][w][e]
 
-[msg MSG_019_0_0 [Uomo losco]]
+[msg MSG_019_0_0 [Homem obscuro]]
 [s][vp 8 0 0 0 65535 0]Mmm, até mais.[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Iwai]]
 [s][bup 0 104 2 0 1][f 4 10 65535 0 0][vp 8 2 0 13018 65535 0]...Não ataque.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Masa ainda está no telefone,[n]certo? Fique quieto,[n]para que eu possa ouvir o que ele está dizendo.[n][f 1 3 65535][w][e]
 
-[msg MSG_021_0_0 [Uomo losco]]
+[msg MSG_021_0_0 [Homem obscuro]]
 [s][vp 8 0 0 0 65535 0]Tsuda-san. Eu sou Masa.[n][f 1 3 65535][w][e]
 
-[msg MSG_021_5_0 [Masa il criminale]]
+[msg MSG_021_5_0 [Masa o criminoso]]
 [s][vp 8 0 0 0 65535 0]Iwai perguntou sobre você. Eu[n]fiz como você me disse.[n][f 1 3 65535][w][e]
 
-[msg MSG_022_0_0 [Masa il criminale]]
+[msg MSG_022_0_0 [Masa o criminoso]]
 [s][vp 8 0 0 0 65535 0]O que você está olhando...?[n][f 1 3 65535][w][e]
 
 [sel SEL_023_0_0 top]
 [s]Nada em particular.[e]
 [s]Eu estava distraído, desculpe.[e]
 
-[msg MSG_024_0_0 [Masa il criminale]]
+[msg MSG_024_0_0 [Masa o criminoso]]
 [s][vp 8 0 0 0 65535 0]Nao e nada. Um garotinho[n]estava olhando para mim ...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]No entanto, parece-me que Iwai ouviu[n]sobre o seu negócio e quer tentar[n]roubar algum dinheiro de você...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Oh, desculpe! Não, é... Sim.[n]Desculpe... Sim. Entendo.[n][f 1 3 65535][w][e]

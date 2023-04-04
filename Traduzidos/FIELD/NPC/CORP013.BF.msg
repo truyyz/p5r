@@ -1,8 +1,8 @@
-[msg MSG_ITEM_SHOP_OPEN_00 [Dottoressa flemmatica]]
+[msg MSG_ITEM_SHOP_OPEN_00 [Médico fleumático]]
 [s][bup 0 108 0 0 0][f 4 23 1 213 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 14030 65535 0]...É a sua primeira visita?[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Hã? Acho que já vi você[n]em algum lugar antes...[n][w][e]
 
-[msg MSG_ITEM_SHOP_OPEN_01 [Dottoressa flemmatica]]
+[msg MSG_ITEM_SHOP_OPEN_01 [Médico fleumático]]
 [s][bup 0 108 0 0 0][f 4 23 1 213 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 14028 65535 0]Você precisa de atendimento de emergência a esta[n]hora? O horário de visita não é mais...[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Hã? Acho que já vi você[n]em algum lugar antes...[n][w][e]
 
@@ -11,7 +11,7 @@
 [s]Acabei de me mudar.[e]
 [s]Prazer em conhecê-lo.[e]
 
-[msg MSG_ITEM_SHOP_OPEN_02 [Dottoressa flemmatica]]
+[msg MSG_ITEM_SHOP_OPEN_02 [Médico fleumático]]
 [s][bup 0 108 0 0 0][f 4 23 1 213 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Mmm... bem, não importa...[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Então, o que você precisa hoje?[n][w][e]
 
@@ -20,12 +20,12 @@
 [s]Eu tive pesadelos.[e]
 [s]Eu tenho uma doença crônica...[e]
 
-[msg MSG_ITEM_SHOP_OPEN_03 [Dottoressa flemmatica]]
+[msg MSG_ITEM_SHOP_OPEN_03 [Médico fleumático]]
 [s][bup 0 108 0 0 0][f 4 10 65535 0 0]......[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]...Está bem.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 14059 65535 0]Por favor, entre na sala de visitas.[n][w][e]
 
-[msg MSG_C13_BEGIN_UNOPEN_00 [Dottoressa flemmatica]]
+[msg MSG_C13_BEGIN_UNOPEN_00 [Médico fleumático]]
 [s][bup 0 108 0 0 0][f 4 23 1 213 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 14059 65535 0]Você precisa de algum remédio, certo?[n]Venha para a sala de exames.[n][w][e]
 
 [msg MND_C13_PRECOOP_00_00]

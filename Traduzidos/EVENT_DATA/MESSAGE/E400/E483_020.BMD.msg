@@ -1,14 +1,14 @@
-[msg MSG_000_0_0 [Studentessa svogliata]]
+[msg MSG_000_0_0 [Estudante preguiçoso]]
 [s][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]A minha vai me matar. Teve muita[n]coisa na prova, não deu[n]tempo de estudar tudo...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Talvez eu tivesse conseguido, se tivesse[n]uma semana a mais...[n][f 1 3 65535][w][e]
 
-[msg MSG_001_0_0 [Studentessa pettegola]]
+[msg MSG_001_0_0 [Aluno fofoqueiro]]
 [s][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Mais uma semana, né? Os únicos[n]que recebem[n]tratamento semelhante são os alunos modelo.[n][f 1 3 65535][w][e]
 
-[msg MSG_002_0_0 [Studentessa svogliata]]
+[msg MSG_002_0_0 [Estudante preguiçoso]]
 [s][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]Oh, como Yoshizawa-san?[n][f 1 3 65535][w][e]
 
-[msg MSG_003_0_0 [Studentessa pettegola]]
+[msg MSG_003_0_0 [Aluno fofoqueiro]]
 [s][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Ouvi dizer que a escola mudou as datas dos[n]exames. É bom ter certas vantagens...[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Maruki]]

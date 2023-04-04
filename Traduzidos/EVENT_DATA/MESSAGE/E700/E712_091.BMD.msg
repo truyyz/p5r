@@ -1,10 +1,10 @@
 [msg MSG_000_0_0 [Iwai]]
 [s][bup 0 104 2 0 0][f 4 10 65535 0 0][vp 8 2 0 13018 65535 0]...Solte Kaoru.[n][f 1 3 65535][w][e]
 
-[msg MSG_001_0_0 [Masa]]
+[msg MSG_001_0_0 [Massa]]
 [s][vp 8 0 0 0 65535 0]Não se preocupe, Mune-san. Eu[n]acabei de lhe dar uma carona para casa[n]depois das aulas particulares.[n][f 1 3 65535][w][e]
 
-[msg MSG_001_5_0 [Masa]]
+[msg MSG_001_5_0 [Massa]]
 [s][vp 8 0 0 0 65535 0]Certo, Kaoru-kun?[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Kaoru]]
@@ -14,29 +14,29 @@
 [msg MSG_003_0_0 [Iwai]]
 [s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 2 0 13047 65535 0]Kaoru...[n][f 1 3 65535][w][e]
 
-[msg MSG_004_0_0 [Masa]]
+[msg MSG_004_0_0 [Massa]]
 [s][vp 8 0 0 0 65535 0]Ele não é um menino de ouro?[n][f 1 3 65535][w][e]
 
 [sel SEL_005_0_0 top]
 [s]O que você quer fazer, Massa?[e]
 [s]Chega de besteira.[e]
 
-[msg MSG_006_0_0 [Masa]]
+[msg MSG_006_0_0 [Massa]]
 [s][vp 8 0 0 0 65535 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 104 3 300 65535]E quem é você, manipulador de Mune-san?[n][f 1 3 65535][w][e]
 
-[msg MSG_007_0_0 [Masa]]
+[msg MSG_007_0_0 [Massa]]
 [s][vp 8 0 0 0 65535 0]Espere... eu me lembro de você.[n]Você é o esquisito da lanchonete.[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Iwai]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 104 3 300 1][vp 8 2 0 13080 65535 0]Eu disse, deixe Kaoru ir![n][f 1 3 65535][w][e]
 
-[msg MSG_009_0_0 [Masa]]
+[msg MSG_009_0_0 [Massa]]
 [s][vp 8 0 0 0 65535 0]Dane-se. Eu ouvi você antes.[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Iwai]]
 [s][bup 0 104 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Então o que você quer que eu faça?[n][f 1 3 65535][w][e]
 
-[msg MSG_011_0_0 [Masa]]
+[msg MSG_011_0_0 [Massa]]
 [s][vp 8 0 0 0 65535 0]Boa pergunta. Você conhece as armas[n]que você teve que dar a Tsuda? Seria[n]perfeito se você os desse para mim.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Sem Tsuda, o[n]lugar de tenente ficou disponível, mas[n]tenho que provar meu valor primeiro.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]E você vai me ajudar a fazer isso.[n][f 1 3 65535][w][e]
@@ -44,7 +44,7 @@
 [msg MSG_012_0_0 [Iwai]]
 [s][bup 0 104 3 0 0][f 4 10 65535 0 0][vp 8 2 0 13082 65535 0]Sinto muito, Masa, mas você está no momento[n]errado. Nós apenas os desmantelamos. Eles se[n]foram.[n][f 1 3 65535][w][e]
 
-[msg MSG_013_0_0 [Masa]]
+[msg MSG_013_0_0 [Massa]]
 [s][vp 8 0 0 0 65535 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 104 7 300 65535]Você acha que isso é o suficiente para me[n]convencer?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]...Veja bem, eu sei tudo sobre[n]a situação de Kaoru-kun.[n][f 1 3 65535][w][e]
 
@@ -57,11 +57,11 @@
 [msg MSG_016_0_0 [Kaoru]]
 [s][vp 8 0 0 0 65535 0]Papa? Do que ele está falando?[n][f 1 3 65535][w][e]
 
-[msg MSG_017_0_0 [Masa]]
+[msg MSG_017_0_0 [Massa]]
 [s][vp 8 0 0 0 65535 0]Você se lembra do que eu te disse[n]no carro, Kaoru-kun?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]E seu pai?[n]E o que ele pensa de você?[n][f 1 3 65535][w][e]
 
-[msg MSG_017_5_0 [Masa]]
+[msg MSG_017_5_0 [Massa]]
 [s][vp 8 0 0 0 65535 0]Você se lembra do que eu te disse[n]no carro, Kaoru-kun?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]E seu pai?[n]E o que ele pensa de você?[n][f 1 3 65535][w][e]
 
@@ -75,14 +75,14 @@
 [msg MSG_019_0_0 [Iwai]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 104 3 300 1][vp 8 2 0 13104 65535 0]Ele está mentindo! Estou tentando[n]proteger você, Kaoru![n][f 1 3 65535][w][e]
 
-[msg MSG_020_0_0 [Masa]]
+[msg MSG_020_0_0 [Massa]]
 [s][vp 8 0 0 0 65535 0]Ei, essa merda de[n]família é comovente, mas[n]estamos negociando, lembra?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Por que não começamos com[n]uma data de entrega?[n]Quanto mais cedo melhor.[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Iwai]]
 [s][bup 0 104 2 0 0][f 4 10 65535 0 0][vp 8 2 0 13026 65535 0]...Droga![n][f 1 3 65535][w][e]
 
-[msg MSG_022_0_0 [Masa]]
+[msg MSG_022_0_0 [Massa]]
 [s][vp 8 0 0 0 65535 0]Oh, me poupe dessa besteira.[n]Nada teria acontecido se eu[n]não tivesse acolhido o garoto.[n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Kaoru]]
@@ -98,7 +98,7 @@
 [msg MSG_026_0_0 [Iwai]]
 [s][bup 0 104 4 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 13 10 1004][f 4 2]...[n][f 1 3 65535][w][e]
 
-[msg MSG_027_0_0 [Masa]]
+[msg MSG_027_0_0 [Massa]]
 [s][vp 8 0 0 0 65535 0]Ei vocês dois, do que[n]vocês estão falando?[n][f 1 3 65535][w][e]
 
 [msg MSG_028_0_0 [Iwai]]
@@ -111,7 +111,7 @@
 [msg MSG_029_0_0 [Kaoru]]
 [s][vp 8 0 0 0 65535 0]Hã...?[n][f 1 3 65535][w][e]
 
-[msg MSG_030_0_0 [Masa]]
+[msg MSG_030_0_0 [Massa]]
 [s][vp 8 0 0 0 65535 0]Merda! Eu não acredito nisso. Você[n]realmente contou tudo a ele, Mune-san![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Ele não está mentindo, Kaoru-kun.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Pelo que eu sei, sua mãe[n]tentou te vender para comprar[n]algumas drogas![n][f 1 3 65535][w][e]
@@ -119,7 +119,7 @@
 [msg MSG_031_0_0 [Kaoru]]
 [s][vp 8 0 0 0 65535 0]Vende-me...?[n][f 1 3 65535][w][e]
 
-[msg MSG_032_0_0 [Masa]]
+[msg MSG_032_0_0 [Massa]]
 [s][vp 8 0 0 0 65535 0]Já! Mas como Mune-san não[n]queria saber, ela deixou você lá[n]e fugiu![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]E foi assim que você se tornou um pai[n]yakuza. Absurdo, né?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Que alivio! Estou querendo te contar o dia todo[n][f 1 3 65535][w][e]
@@ -128,7 +128,7 @@
 [msg MSG_033_0_0 [Kaoru]]
 [s][vp 1 0 0 0 0 0]......[n][f 1 3 65535][w][e]
 
-[msg MSG_034_0_0 [Masa]]
+[msg MSG_034_0_0 [Massa]]
 [s][vp 8 0 0 0 65535 0]É muito engraçado. Vamos,[n]chore! Que triste... Hahaha![n][f 1 3 65535][w][e]
 
 [msg MSG_035_0_0 [Kaoru]]
@@ -138,7 +138,7 @@
 [s][vp 8 0 0 0 65535 0]Mesmo que fosse tudo verdade...[n]é água passada![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Não sou mais criança e[n]não vou ficar chateado com[n]um simples segredo![n][f 1 3 65535][w][e]
 
-[msg MSG_037_0_0 [Masa]]
+[msg MSG_037_0_0 [Massa]]
 [s][vp 8 0 0 0 65535 0]Hã...?[n][f 1 3 65535][w][e]
 
 [msg MSG_037_5_0 [Kaoru]]
@@ -151,11 +151,11 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Hehehe. Muito bem, Kaoru.[n][f 1 3 65535][w][e]
 [s][bup 0 104 0 0 0][f 4 10 65535 0 0][f 4 24 0 4 0 59 5 100][vp 8 0 0 0 65535 0]Ouça, Masa... Vamos fechar aqui,[n]agora. Vamos começar do zero.[n][f 1 3 65535][w][e]
 
-[msg MSG_039_0_0 [Masa]]
+[msg MSG_039_0_0 [Massa]]
 [s][vp 8 0 0 0 65535 0]Você ainda não entendeu, não é?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Kaoru-kun...[n][f 1 3 65535][w][e]
 
-[msg MSG_040_0_0 [Voce minacciosa]]
+[msg MSG_040_0_0 [Voz ameaçadora]]
 [s][vp 8 0 0 0 65535 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 104 7 300 65535]Não, Massa. É você que[n]não entende.[n][f 1 3 65535][w][e]
 
 [msg MSG_041_0_0 [Tsuda]]
@@ -164,19 +164,19 @@
 [msg MSG_042_0_0 [Iwai]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 104 7 300 1][vp 8 2 0 13040 65535 0]Tsuda?!?[n][f 1 3 65535][w][e]
 
-[msg MSG_043_0_0 [Masa]]
+[msg MSG_043_0_0 [Massa]]
 [s][vp 8 0 0 0 65535 0]T-Tsuda...um, senhor...?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_044_0_0 [Tsuda]]
 [s][vp 8 0 0 0 65535 0]Não tente. Eu sei que você[n]me vendeu para o chefe. Você nunca[n]soube ficar de boca fechada.[n][f 1 3 65535][w][e]
 
-[msg MSG_045_0_0 [Masa]]
+[msg MSG_045_0_0 [Massa]]
 [s][vp 8 0 0 0 65535 0]N-Não, não fui eu![n][f 1 3 65535][w][e]
 
 [msg MSG_046_0_0 [Tsuda]]
 [s][vp 8 0 0 0 65535 0]Tsk. O que você pensa que está fazendo,[n]acenando com essa[n]faca? Hã?!?[n][f 1 3 65535][w][e]
 
-[msg MSG_047_0_0 [Masa]]
+[msg MSG_047_0_0 [Massa]]
 [s][vp 8 0 0 0 65535 0]S-Sinto muito...![n][f 1 3 65535][w][e]
 
 [msg MSG_050_0_0 [Tsuda]]

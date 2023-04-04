@@ -65,7 +65,7 @@
 [s][vp 8 0 2 1013 1 464]...É hora de fechar a cortina.[n][f 1 3 65535][w][e]
 
 [msg MSG_PHASE4_START_001 [Lavenza]]
-[s][vp 8 0 2 1025 1 464]Não é à toa que você[n]é o Malandro preferido...[n][f 1 3 65535][w][e]
+[s][vp 8 0 2 1025 1 464]Não é à toa que você[n]é o Trapaceiro preferido...[n][f 1 3 65535][w][e]
 
 [msg MSG_PHASE4_START_002 [Lavenza]]
 [s][vp 8 0 2 1026 1 464]Não pensei que chegaríamos tão longe![n][f 1 3 65535][w][e]

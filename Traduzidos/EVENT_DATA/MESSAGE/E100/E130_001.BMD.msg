@@ -10,16 +10,16 @@
 [msg MSG_002_5_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Como abre aqui...?[n][f 1 3 65535][w][e]
 
-[msg MSG_003_0_0 [Voce flebile]]
+[msg MSG_003_0_0 [Voz minúscula]]
 [s][vp 8 0 0 4 65535 0]Pare...![n][f 1 3 65535][w][e]
 
-[msg MSG_004_0_0 [Schiavo in pantaloncini]]
+[msg MSG_004_0_0 [Escravo em shorts]]
 [s][vp 8 0 0 5 9 0]Deixe-nos em paz... É inútil...[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Ryuji]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 7 301 1][vp 8 0 0 6 65535 0]Hã!?![n][f 1 3 65535][w][e]
 
-[msg MSG_006_0_0 [Schiavo in pantaloni lunghi]]
+[msg MSG_006_0_0 [Escravo em calças compridas]]
 [s][vp 8 0 0 7 8 0]Se permanecermos obedientes, não[n]seremos executados como você![n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Ryuji]]

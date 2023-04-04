@@ -131,13 +131,13 @@
 [msg MSG_028_0_0 [Makoto]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 6 7 301 1][vp 8 2 0 2040 65535 0]Eiko![n][f 1 3 65535][w][e]
 
-[msg MSG_029_0_0 [Passante]]
+[msg MSG_029_0_0 [Transeunte]]
 [s][vp 8 0 0 0 7 0]Ei, você viu?[n][f 1 3 65535][w][e]
 
-[msg MSG_030_0_0 [Passante]]
+[msg MSG_030_0_0 [Transeunte]]
 [s][vp 8 0 0 0 8 0]Aquela garota estava discutindo[n]com um anfitrião?[n][f 1 3 65535][w][e]
 
-[msg MSG_031_0_0 [Impiegato]]
+[msg MSG_031_0_0 [Funcionário]]
 [s][vp 8 0 0 0 9 0]Eles foram duro nisso...[n][f 1 3 65535][w][e]
 
 [msg MSG_032_0_0 [Makoto]]

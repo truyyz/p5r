@@ -116,13 +116,13 @@
 [s]Aqui estão artigos esportivos de[n]todos os tipos, antigos e novos…[n][w][e]
 [s]Irei comprar alguma coisa,[n]quando tiver um tempinho...[n][w][e]
 
-[msg MSG_SPORTS_SELECT [Commesso del negozio sportivo]]
+[msg MSG_SPORTS_SELECT [Balconista de loja de esportes]]
 [s]Bem-vindo.[n]Temos as melhores ofertas.[n][w][e]
 
-[msg MSG_SPORTS_THANKS [Commesso del negozio sportivo]]
+[msg MSG_SPORTS_THANKS [Balconista de loja de esportes]]
 [s]Obrigado! Volte em breve[n]para nos visitar![n][w][e]
 
-[msg MSG_SPORTS_NOT_BUY [Commesso del negozio sportivo]]
+[msg MSG_SPORTS_NOT_BUY [Balconista de loja de esportes]]
 [s]Volte para nos visitar![n][w][e]
 
 [msg MSG_CDSHOP_P5R [Morgana]]
@@ -137,13 +137,13 @@
 [s]Parece que este lugar[n]tem produtos caros[n]feitos de diferentes materiais...[n][w][e]
 [s]Eu deveria voltar se eu[n]precisar de alguma coisa...[n][w][e]
 
-[msg SUPERMARKET_SELECT [Funcionário do supermercado]]
+[msg SUPERMARKET_SELECT [Oficial de supermercado]]
 [s]Dê uma olhada[n]ao redor.[n][w][e]
 
-[msg SUPERMARKET_THANKS [Funcionário do supermercado]]
+[msg SUPERMARKET_THANKS [Oficial de supermercado]]
 [s]Muito obrigado.[n]Volte em breve.[n][w][e]
 
-[msg SUPERMARKET_NOT_BUY [Funcionário do supermercado]]
+[msg SUPERMARKET_NOT_BUY [Oficial de supermercado]]
 [s]Volte para nos visitar.[n][w][e]
 
 [msg MSG_MIYAGE [Morgana]]
@@ -156,26 +156,26 @@
 [s]Aqui eles vendem itens de joalheria.[n][w][e]
 [s]Voltarei quando[n]precisar de algo...[n][w][e]
 
-[msg JEWELRY_START [Commessa della gioielleria]]
+[msg JEWELRY_START [Auxiliar de joalheria]]
 [s][f 4 23 1 8 3 5 65534 0][vp 8 2 1 0 8 0]Bem-vindo. Ah, por favor, não[n]toque nas mercadorias expostas...[n][w][e]
 
-[msg JEWELRY_THANKS [Commessa della gioielleria]]
+[msg JEWELRY_THANKS [Auxiliar de joalheria]]
 [s][vp 8 2 1 0 8 0]Muito obrigado.[n]Volte em breve.[n][w][e]
 
-[msg JEWELRY_NOT_BUY [Commessa della gioielleria]]
+[msg JEWELRY_NOT_BUY [Auxiliar de joalheria]]
 [s][vp 8 2 1 0 8 0]...Nós esperamos te ver novamente em breve.[n][w][e]
 
 [msg MSG_ACCESSORIES_NOTOPEN]
 [s]Eles vendem muitos acessórios aqui.[n][w][e]
 [s]Voltarei quando[n]precisar de algo...[n][w][e]
 
-[msg ACCESSORIES_SELECT [Commesso del negozio di accessori]]
+[msg ACCESSORIES_SELECT [Balconista de loja de acessórios]]
 [s][f 4 23 1 16 3 5 65534 0][vp 8 2 1 0 16 0]Bem-vindo! Vendemos acessórios[n]para todos os orçamentos.[n][w][e]
 
-[msg ACCESSORIES_THANKS [Commesso del negozio di accessori]]
+[msg ACCESSORIES_THANKS [Balconista de loja de acessórios]]
 [s][vp 8 2 1 0 16 0]Mil agradecimentos! Até nos encontrarmos[n]novamente.[n][w][e]
 
-[msg ACCESSORIES_NOT_BUY [Commesso del negozio di accessori]]
+[msg ACCESSORIES_NOT_BUY [Balconista de loja de acessórios]]
 [s][vp 8 2 1 0 16 0]OK adeus.[n][w][e]
 
 [msg MSG_ShoesShop_Moru [Morgana]]
@@ -194,13 +194,13 @@
 [s]É uma loja que lida com[n]produtos típicos japoneses.[n][w][e]
 [s]Ao comprar aqui um presente[n]para alguém, eu poderia[n]fazê-lo muito feliz...[n][w][e]
 
-[msg MSG_ORIENTAL_SHOP_START [Commessa del negozio di articoli vari]]
+[msg MSG_ORIENTAL_SHOP_START [Assistente de loja diversos]]
 [s][f 4 23 1 5 3 5 65534 0][vp 8 2 1 0 5 0]Bem-vindo. Por que você não faz[n]algo diferente, compra[n]alguns presentes no estilo japonês?[n][w][e]
 
-[msg MSG_ORIENTAL_SHOP_THANKS [Commessa del negozio di articoli vari]]
+[msg MSG_ORIENTAL_SHOP_THANKS [Assistente de loja diversos]]
 [s][vp 8 2 1 0 5 0]Muito obrigado.[n]Volte para nos ver![n][w][e]
 
-[msg MSG_ORIENTAL_SHOP_NOT_BU [Commessa del negozio di articoli vari]]
+[msg MSG_ORIENTAL_SHOP_NOT_BU [Assistente de loja diversos]]
 [s][vp 8 2 1 0 5 0]Volte para nos visitar.[n][w][e]
 
 [msg MSG_SHOES_REPAIR_MORU [Morgana]]
@@ -257,25 +257,25 @@
 [msg MSG_FLOWER_NotBaitoDay_c [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1171 65535 0]Eu acho que eles estão procurando pessoas apenas[n]no [clr 2]tarde[clr 27].[n][w][e]
 
-[msg MSG_FLOWERSHOP_START_01 [Fiorista]]
+[msg MSG_FLOWERSHOP_START_01 [Florista]]
 [s][f 4 23 1 18 3 5 65534 0][vp 8 2 1 0 18 0]As flores sempre deixam[n]as pessoas felizes.[n]Você quer dar um belo presente?[n][w][e]
 
-[msg MSG_FLOWERSHOP_START_02 [Fiorista]]
+[msg MSG_FLOWERSHOP_START_02 [Florista]]
 [s][f 4 23 1 18 3 5 65534 0][vp 8 2 1 0 18 0]Também temos loções e fragmento[n]casca. Por favor, dê uma olhada[n]em nossos produtos.[n][w][e]
 
-[msg MSG_FLOWERSHOP_START_03 [Fiorista]]
+[msg MSG_FLOWERSHOP_START_03 [Florista]]
 [s][f 4 23 1 18 3 5 65534 0][vp 8 2 1 0 18 0]As flores podem melhorar consideravelmente o[n]humor. Eu recomendo tratá-los com fertilizante.[n][w][e]
 
 [msg MSG_FLOWERSHOP_START_04 [Hanasaki]]
 [s][f 4 23 1 18 3 5 65534 0][vp 8 2 1 0 18 0]Bem-vindo. O que você deseja hoje?[n][w][e]
 
-[msg MSG_FLOWERSHOP_BUY_END [Fiorista]]
+[msg MSG_FLOWERSHOP_BUY_END [Florista]]
 [s][f 4 23 1 18 6 5 65534 0][vp 8 2 1 0 18 0]Obrigado por sua compra.[n][w][e]
 
 [msg MSG_FLOWERSHOP_BUY_END_n [Hanasaki]]
 [s][f 4 23 1 18 6 5 65534 0][vp 8 2 1 0 18 0]Obrigado por sua compra.[n][w][e]
 
-[msg MSG_FLOWERSHOP_NOTBUY_EN [Fiorista]]
+[msg MSG_FLOWERSHOP_NOTBUY_EN [Florista]]
 [s][f 4 23 1 18 6 5 65534 0][vp 8 2 1 0 18 0]Muito obrigado.[n]Volte em breve.[n][w][e]
 
 [msg MSG_FLOWERSHOP_NOTBUY_EN_2 [Hanasaki]]
@@ -318,13 +318,13 @@
 [msg MSG_COSME_NOTOPEN]
 [s]Aqui vendem maquilhagem e[n]perfumes. Voltarei quando[n]precisar de algo...[n][w][e]
 
-[msg MSG_COSME_INFO [Commessa del negozio di cosmetici]]
+[msg MSG_COSME_INFO [Vendedora de loja de cosméticos]]
 [s][f 4 23 1 13 3 5 65534 0][vp 8 2 1 0 13 0]Bem-vindo.[n]Você precisa comprar um presente?[n]Ou talvez algo para você?[n][w][e]
 
-[msg MSG_COSME_THANKS [Commessa del negozio di cosmetici]]
+[msg MSG_COSME_THANKS [Vendedora de loja de cosméticos]]
 [s][vp 8 2 1 0 13 0]Mil agradecimentos![n][w][e]
 
-[msg MSG_COSME_NOTBUY [Commessa del negozio di cosmetici]]
+[msg MSG_COSME_NOTBUY [Vendedora de loja de cosméticos]]
 [s][vp 8 2 1 0 13 0]Volte em breve para nos visitar.[n][w][e]
 
 [msg MSG_SHOESSHOP_MORU [Morgana]]
@@ -434,17 +434,17 @@
 [msg MSG_E65510400_FLOWER_003 [Hanasaki]]
 [s][f 4 23 1 18 3 10 0 10][vp 8 0 1 7 18 0]Muitas felicidades! Estou torcendo por você![n][f 1 3 65535][w][e]
 
-[msg MSG_E65510400_FLOWER_100 [Negoziante]]
+[msg MSG_E65510400_FLOWER_100 [Lojista]]
 [s][f 4 23 1 18 6 10 0 10][vp 8 0 1 8 18 0]Bem-vindo! Você estava procurando alguma[n]flor em particular hoje?[n][f 1 3 65535][w][e]
 
 [sel SEL_E65510400_FLOWER_100 top]
 [s]Estou aqui para um presente.[e]
 [s]Eu gostaria de fazer um presente.[e]
 
-[msg MSG_E65510400_FLOWER_101 [Negoziante]]
+[msg MSG_E65510400_FLOWER_101 [Lojista]]
 [s][vp 8 0 1 9 18 0]Eu entendi. Vou cuidar disso imediatamente.[n][f 1 3 65535][w][e]
 
-[msg MSG_E65510400_FLOWER_103 [Negoziante]]
+[msg MSG_E65510400_FLOWER_103 [Lojista]]
 [s][f 4 23 1 18 3 10 0 10][vp 8 0 1 10 18 0]Aqui está! Fiz para você o mais simples possível.[n][f 1 3 65535][w][e]
 [s][vp 8 0 1 11 18 0]O total é...[n][f 1 3 65535][w][e]
 
@@ -452,7 +452,7 @@
 [s][bup 0 3 600 0 0][f 4 10 65535 0 0][vp 8 0 1 12 65535 0]Espere! Deixe-me pagar.[n]Você está cuidando de mim[n]sozinho, então...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 13 65535 0]É o mínimo para expressar minha gratidão a você.[n][f 1 3 65535][w][e]
 
-[msg MSG_E65510400_FLOWER_104 [Negoziante]]
+[msg MSG_E65510400_FLOWER_104 [Lojista]]
 [s][f 4 23 1 18 6 10 0 10][vp 8 0 1 14 18 0]Obrigado por sua compra. Parabéns![n][f 1 3 65535][w][e]
 
 [msg MSG_E65510400_FLOWER_005 [Morgana]]
@@ -564,14 +564,14 @@
 [msg MND_E65510400_TEL_005_00]
 [s][vp 1 0 0 0 0 0]Tenho que voltar ao Leblanc...[n][f 1 3 65535][w][e]
 
-[msg EX_0103_0108_LOCK_mes01 [Donna]]
+[msg EX_0103_0108_LOCK_mes01 [Mulher]]
 [s][vp 1 0 0 0 0 0]Aparentemente, as bolsas da sorte aqui são[n]incríveis. Diz-se que valem 10 vezes o seu preço![n][w][e]
 
-[msg EX_0103_0108_LOCK_mes02 [Uomo]]
+[msg EX_0103_0108_LOCK_mes02 [Homem]]
 [s][vp 1 0 0 0 0 0]Acho que a[n]palavra se espalhou, dada a multidão.[n][w][e]
 [s][vp 1 0 0 0 0 0]Acho que alguém[n]está pensando em revender[n]tudo o que encontra.[n][w][e]
 
-[msg EX_0103_0108_LOCK_mes03 [Donna]]
+[msg EX_0103_0108_LOCK_mes03 [Mulher]]
 [s][vp 1 0 0 0 0 0]Sim, tem muita gente![n]Mas eu quero levar um![n][w][e]
 
 [msg EX_0103_0108_LOCK_mes04]

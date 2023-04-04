@@ -1,10 +1,10 @@
 [msg MSG_000_0_0 [Ryuji]]
-[s][bup 0 2 201 0 0][f 4 10 65535 0 0][vp 8 2 0 7038 65535 0]Quantas lembranças esse lugar...[n][f 1 3 65535][w][e]
+[s][bup 0 2 201 0 0][f 4 10 65535 0 0][vp 8 2 0 7038 65535 0]Cara, esse lugar traz memórias...[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Ryuji]]
-[s][bup 0 2 200 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Este é o lugar secreto onde eu treino. Hum... eu[n]estava treinando.[n][f 1 3 65535][w][e]
+[s][bup 0 2 200 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Este é o lugar secreto onde eu treino. Ãhm...[n]treinava.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Quando eu ainda estava na[n]equipe de atletismo.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sabe, pensei em correr de novo.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sabe, tenho pensado em correr de novo.[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Ryuji]]
 [s][bup 0 2 205 0 0][f 4 10 65535 0 0][vp 8 2 0 7047 65535 0]Lutar naquele outro mundo foi um choque para mim.[n]Meus movimentos eram tão lentos...[n][f 1 3 65535][w][e]
@@ -24,14 +24,14 @@
 [s]...Ajudar-nos com o quê?[e]
 
 [msg MSG_005_0_0 [Ryuji]]
-[s][bup 0 2 201 0 0][f 4 10 65535 0 0][vp 8 2 0 7024 65535 0][f 5 13 8 15 2]Hehehe. Você vai se surpreender,[n]pela surpresa![n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...E-no bom sentido,[n]claro![n][f 1 3 65535][w][e]
+[s][bup 0 2 201 0 0][f 4 10 65535 0 0][vp 8 2 0 7024 65535 0][f 5 13 8 15 2]Hehehe. Eu vou arrebentar as suas[n]expectativas![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Ãh-ãhm, no bom sentido,[n]claro![n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Ryuji]]
-[s][bup 0 2 201 0 0][f 4 10 65535 0 0][vp 8 2 0 7023 65535 0][f 5 13 8 10 2]Sim, cara.[n]Mal posso esperar.[n][f 1 3 65535][w][e]
+[s][bup 0 2 201 0 0][f 4 10 65535 0 0][vp 8 2 0 7023 65535 0][f 5 13 8 10 2]Aí sim, cara.[n]Mal posso esperar.[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Ryuji]]
-[s][bup 0 2 200 0 0][f 4 10 65535 0 0][vp 8 2 0 7021 65535 0][f 5 13 8 5 2]Em...algo![n][f 1 3 65535][w][e]
+[s][bup 0 2 200 0 0][f 4 10 65535 0 0][vp 8 2 0 7021 65535 0][f 5 13 8 5 2]'cê sabe... alguma coisa![n][f 1 3 65535][w][e]
 [s][bup 0 2 201 0 0][f 4 10 65535 0 0][f 4 24 0 4 0 36 5 100][vp 8 0 0 0 65535 0]Não sei... Como dizem...[n]Melhor correr do que remediar...?[n]Você não conhece esse ditado?[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Ryuji]]
@@ -40,19 +40,19 @@
 [msg MSG_030_0_0 [Ryuji]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 15 300 1][vp 8 2 0 7156 65535 0]Por que você está surpreso?[n]Por que você acha que eu[n]pedi para você vir de macacão?[n][f 1 3 65535][w][e]
 [s][bup 0 2 207 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Que sentido teria,[n]se fosse apenas eu[n]treinando?[n][f 1 3 65535][w][e]
-[s][bup 0 2 201 0 0][f 4 10 65535 0 0][f 4 24 0 4 0 36 5 100][vp 8 0 0 0 65535 0]OK, agora vou atirar[n]joelhos para cima. Você[n]vá em frente com os normais![n][f 1 3 65535][w][e]
+[s][bup 0 2 201 0 0][f 4 10 65535 0 0][f 4 24 0 4 0 36 5 100][vp 8 0 0 0 65535 0]Ok, agora vou de levantamento de[n]joelhos. Você[n]fica com os normais![n][f 1 3 65535][w][e]
 
 [msg MND_030_5_0]
 [s][vp 8 0 0 0 65535 0]Eu corri pela[n]escola com Ryuji...[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Ryuji]]
 [s][bup 0 2 205 0 0][f 4 10 65535 0 0][vp 8 2 0 7170 65535 0]Ughhh...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ugh, as pernas...[n]Dois blocos de mármore...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ugh, minhas pernas...[n]Dois blocos de mármore...[n][f 1 3 65535][w][e]
 [s][vp 1 0 0 0 0 0]...[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Ryuji]]
 [s][bup 0 2 205 0 0][f 4 10 65535 0 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 12 300 65535][vp 8 0 0 0 65535 0]Antes da chegada de Kamoshida,[n]a equipe de atletismo era o[n]carro-chefe da escola.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas depois que ele[n]o técnico foi demitido e assumiu[n]seu lugar ...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas depois que ele apareceu[n]o técnico foi demitido e ele assumiu[n]seu lugar ...[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Ryuji]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 12 300 1][vp 8 2 0 7047 65535 0]Que desgraçado... Ele queria[n]livrar-se de nós desde o início.[n][f 1 3 65535][w][e]
@@ -63,7 +63,7 @@
 [s][bup 0 2 203 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Em particular, ele estava com raiva de mim.[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Ryuji]]
-[s][bup 0 2 203 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ele sabia... Ele sabia,[n]que eu sou um reator.[n][f 1 3 65535][w][e]
+[s][bup 0 2 203 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ele sabia... Ele sabia,[n]que eu sou o tipo de cara que[n]ataca de volta.[n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Ryuji]]
 [s][bup 0 2 202 0 0][f 4 10 65535 0 0][vp 8 2 0 7187 65535 0]Se meu tempo piorasse um pouco, ele me insultava. Uma vez ele[n]fez isso trazendo à tona meu…[n][f 1 3 65535][w][e]
@@ -80,8 +80,8 @@
 [s][vp 1 0 0 0 0 0]...[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Ryuji]]
-[s][bup 0 2 211 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E, como você pode imaginar, nunca mais o vi e[n]bati nele.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas tive a sensação de que[n]ele não esperava por mais nada. E dissolveu[n]a equipe por "atos violentos".[n][f 1 3 65535][w][e]
+[s][bup 0 2 211 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E, como você pode imaginar, desisti e[n]bati nele.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Era como se ele quisesse que eu fizesse isso.[n]Chamou de "atitude violenta" e[n]dissolveu a equipe.[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Ryuji]]
 [s][bup 0 2 203 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E agora os outros ex[n]membros da equipe me tratam como[n]algum tipo de traidor...[n][f 1 3 65535][w][e]
@@ -92,11 +92,11 @@
 
 [sel SEL_018_0_0 top]
 [s][f 0 8 2 1 2217]Gostaria de voltar?[clr 27][e]
-[s][f 0 8 2 1 2217]Você se arrependeu?[clr 27][e]
+[s][f 0 8 2 1 2217]Você se arrepende?[clr 27][e]
 
 [msg MSG_019_0_0 [Ryuji]]
 [s][bup 0 2 203 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 8 5 2]Na equipe de atletismo?...Não...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Como eu poderia, depois...?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Como eu poderia, depois disso?[n][f 1 3 65535][w][e]
 [s][vp 1 0 0 0 0 0]...[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Ryuji]]

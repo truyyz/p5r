@@ -29,25 +29,25 @@
 [msg MSG_007_0_0 [Mishima]]
 [s][bup 0 111 5 65535 0][f 4 10 65535 0 0][vp 8 2 0 19001 65535 0]O-Olá...[n][f 1 3 65535][w][e]
 
-[msg MSG_008_0_0 [Studente dai capelli corti]]
+[msg MSG_008_0_0 [Estudante de cabelo curto]]
 [s][vp 8 0 0 0 11 0]Uau, é mesmo Mishima![n][f 1 3 65535][w][e]
 
-[msg MSG_009_0_0 [Studente dall'aspetto curato]]
+[msg MSG_009_0_0 [Estudante bem preparado]]
 [s][vp 8 0 0 0 12 0]Visto? Ninguém mais poderia[n]ser TÃO chato.[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Akiyama]]
 [s][vp 1 0 0 0 0 0]......[n][f 1 3 65535][w][e]
 
-[msg MSG_011_0_0 [Studente dall'aspetto curato]]
+[msg MSG_011_0_0 [Estudante bem preparado]]
 [s][vp 8 0 0 0 12 0]Ei, você escolheu o que vai fazer[n]depois do ensino médio?[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Mishima]]
 [s][bup 0 111 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 19044 65535 0]U-Hum, ainda não...[n][f 1 3 65535][w][e]
 
-[msg MSG_013_0_0 [Studente dall'aspetto curato]]
+[msg MSG_013_0_0 [Estudante bem preparado]]
 [s][vp 8 0 0 0 12 0]Por que você não se alista no exército?[n]Ninguém notaria uma não-entidade[n]como você em missões furtivas.[n][f 1 3 65535][w][e]
 
-[msg MSG_014_0_0 [Studente dai capelli corti]]
+[msg MSG_014_0_0 [Estudante de cabelo curto]]
 [s][vp 8 0 0 0 11 0]Haha, verdade demais! Aposto que você[n]poderia se infiltrar em qualquer lugar hein?[n]A arma suprema do Japão![n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Akiyama]]
@@ -56,14 +56,14 @@
 [msg MSG_016_0_0 [Mishima]]
 [s][bup 0 111 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Akiyama-kun...[n][f 1 3 65535][w][e]
 
-[msg MSG_017_0_0 [Studente dall'aspetto curato]]
+[msg MSG_017_0_0 [Estudante bem preparado]]
 [s][vp 8 0 0 0 12 0]Hã? Há algo errado?[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Akiyama]]
 [s][vp 8 0 0 0 65535 0]Hum, não exatamente...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Vamos, vamos esquecer o Mishima. Não é mais[n]engraçado implicar com ele.[n][f 1 3 65535][w][e]
 
-[msg MSG_019_0_0 [Studente dai capelli corti]]
+[msg MSG_019_0_0 [Estudante de cabelo curto]]
 [s][vp 8 0 0 0 11 0]Como não tem mais graça?[n]É sempre você quem trata[n]pior.[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Akiyama]]
@@ -73,7 +73,7 @@
 [s][vp 8 0 0 0 65535 0]Ei, sobre outro dia...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Eu estava pensando, bem...que[n]eu provavelmente deveria te agradecer.[n][f 1 3 65535][w][e]
 
-[msg MSG_022_0_0 [Studente dai capelli corti]]
+[msg MSG_022_0_0 [Estudante de cabelo curto]]
 [s][vp 8 0 0 0 11 0]Hã? Aconteceu alguma coisa com você?[n]Sabe, você tem agido[n]estranhamente ultimamente, Akiyama...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 11 0]Não pense que não notei[n]todos os hematomas que você tem.[n][f 1 3 65535][w][e]
 
@@ -104,7 +104,7 @@
 [s][vp 8 0 0 0 65535 0]Hehe... É isso? Eu invejo você um pouco.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Enfim, até mais.[n][f 1 3 65535][w][e]
 
-[msg MSG_030_0_0 [Studente dall'aspetto curato]]
+[msg MSG_030_0_0 [Estudante bem preparado]]
 [s][vp 8 0 0 0 12 0]E-Espere, Akiyama...[n][f 1 3 65535][w][e]
 
 [msg MSG_031_0_0 [Mishima]]

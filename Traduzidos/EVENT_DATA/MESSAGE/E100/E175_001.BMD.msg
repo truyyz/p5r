@@ -4,7 +4,7 @@
 [msg MSG_001_0_0 [Ryuji]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 7 300 1][vp 8 0 0 2 65535 0]Olhe para o navegador![n][f 1 3 65535][w][e]
 
-[msg MSG_002_0_0 [Navigatore del Metaverso]]
+[msg MSG_002_0_0 [Navegador do Metaverso]]
 [s][vp 8 0 0 48 65535 0]O destino foi excluído.[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Ann]]

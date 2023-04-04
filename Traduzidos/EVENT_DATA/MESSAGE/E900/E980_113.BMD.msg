@@ -58,7 +58,7 @@
 [msg MND_017_0_0]
 [s]Acabei fazendo o[n]Big Bang Challenge...[n][f 1 3 65535][w][e]
 
-[msg MSG_018_0_0 [Dipendente]]
+[msg MSG_018_0_0 [Funcionário]]
 [s]Obrigado por esperar![n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Caroline]]
@@ -173,19 +173,19 @@
 [msg MSG_052_0_0 [Caroline]]
 [s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Ei! Individual![n][f 1 3 65535][w][e]
 
-[msg MSG_053_0_0 [Dipendente]]
+[msg MSG_053_0_0 [Funcionário]]
 [s]C-Como posso ajudá-lo?[n][f 1 3 65535][w][e]
 
 [msg MSG_054_0_0 [Caroline]]
 [s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Queremos enfrentar o[n]Big Bang Challenge.[n][f 1 3 65535][w][e]
 
-[msg MSG_055_0_0 [Dipendente]]
+[msg MSG_055_0_0 [Funcionário]]
 [s]Huh? Vocês dois?[n][f 1 3 65535][w][e]
 
 [msg MSG_056_0_0 [Justine]]
 [s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Sim... traga-nos o maior sanduíche[n]do restaurante. Aquele que rivaliza[n]com a vastidão do espaço.[n][f 1 3 65535][w][e]
 
-[msg MSG_057_0_0 [Dipendente]]
+[msg MSG_057_0_0 [Funcionário]]
 [s]Você frequenta o ensino fundamental?[n]Sinto muito, mas...[n][f 1 3 65535][w][e]
 [s]Tivemos casos de desperdício de alimentos, então[n]agora o desafio está aberto apenas para alunos[n]que estão pelo menos no ensino médio.[n][f 1 3 65535][w][e]
 
@@ -195,7 +195,7 @@
 [msg MSG_059_0_0 [Justine]]
 [s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Você se atreve a nos julgar pelas aparências...[n]Talvez devêssemos lhe ensinar uma lição.[n][f 1 3 65535][w][e]
 
-[msg MSG_060_0_0 [Dipendente]]
+[msg MSG_060_0_0 [Funcionário]]
 [s]Huh? Uhhh, sinto muito, mas...[n]mas você definitivamente não[n]está no ensino médio, está?[n][f 1 3 65535][w][e]
 
 [msg MSG_061_0_0 [Caroline]]
@@ -212,7 +212,7 @@
 [msg MSG_064_0_0 [Caroline]]
 [s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Sem dúvida...[n]uma bela surpresa espera por você![n][f 1 3 65535][w][e]
 
-[msg MSG_065_0_0 [Dipendente]]
+[msg MSG_065_0_0 [Funcionário]]
 [s]...Guardiões?[n][f 1 3 65535][w][e]
 
 [msg MSG_066_0_0 [Justine]]
@@ -221,7 +221,7 @@
 [msg MSG_067_0_0 [Caroline]]
 [s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Por que todos eles são inúteis?[n][f 1 3 65535][w][e]
 
-[msg MSG_068_0_0 [Dipendente]]
+[msg MSG_068_0_0 [Funcionário]]
 [s]Se você não vai para a escola primária,[n]então jardim de infância?[n][f 1 3 65535][w][e]
 
 [msg MSG_069_0_0 [Caroline]]
@@ -236,7 +236,7 @@
 [msg MSG_072_0_0 [Caroline]]
 [s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]O que você sente muito!?![n]Ela está errada aqui![n][f 1 3 65535][w][e]
 
-[msg MSG_073_0_0 [Dipendente]]
+[msg MSG_073_0_0 [Funcionário]]
 [s]Se você não vai para a escola primária,[n]então jardim de infância?[n][f 1 3 65535][w][e]
 
 [msg MSG_074_0_0 [Caroline]]
@@ -248,14 +248,14 @@
 [msg MSG_076_0_0 [Caroline]]
 [s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Umpf...[n][f 1 3 65535][w][e]
 
-[msg MSG_077_0_0 [Dipendente]]
+[msg MSG_077_0_0 [Funcionário]]
 [s]Ooh! Talvez você goste de[n]nossa refeição Lil 'Bang?[n]Tem até um brinquedo dentro![n][f 1 3 65535][w][e]
 [s]Você quer uma pequena nave espacial?[n][f 1 3 65535][w][e]
 
 [msg MSG_078_0_0 [Caroline]]
 [s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]...Uma nave espacial?[n][f 1 3 65535][w][e]
 
-[msg MSG_079_0_0 [Dipendente]]
+[msg MSG_079_0_0 [Funcionário]]
 [s]Então, um sanduíche, batatas fritas e[n]um refrigerante por 500 ienes![n]Já está chegando![n][f 1 3 65535][w][e]
 
 [msg MSG_080_0_0 [Caroline]]

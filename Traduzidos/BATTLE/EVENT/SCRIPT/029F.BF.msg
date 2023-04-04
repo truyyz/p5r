@@ -1,4 +1,4 @@
-[msg MSG_BTLSTART_001 [Ombra di Nejima]]
+[msg MSG_BTLSTART_001 [Sombra de Nejima]]
 [s][vp 8 0 2 1001 1 0]Ei, você de novo?[n]É inútil, não importa[n]quantas vezes você volte![n][f 1 3 65535][w][e]
 
 [msg MSG_BTLSTART_002 [Morgana]]
@@ -17,12 +17,12 @@
 [s][vp 1 0 0 0 0 0]No turno de [f 4 2], depois de selecionar[n]Arma, pressione [f 1 10 28] para realizar[n]um Golpe Acrobático.[n][f 1 3 65535][w][e]
 [s][vp 1 0 0 0 0 0]Só pode ser executado uma vez para cada[n]infiltração do Metaverso.[n]Concede o knockdown do inimigo.[n][f 1 3 65535][w][e]
 
-[msg MSG_BTLSTART_008 [Ombra di Nejima]]
+[msg MSG_BTLSTART_008 [Sombra de Nejima]]
 [s][vp 8 0 2 1008 1 0]Mas... isso é impossível![n]Isso não pode acontecer![n][f 1 3 65535][w][e]
 
-[msg MSG_BTLSTART_009 [Ombra di Nejima]]
+[msg MSG_BTLSTART_009 [Sombra de Nejima]]
 [s][vp 8 0 2 1009 1 0]Uma tacada que supera todos os meus[n]truques?!? Isso não pode ser verdade![n][f 1 3 65535][w][e]
 
-[msg MSG_BTLSTART_010 [Ombra di Nejima]]
+[msg MSG_BTLSTART_010 [Sombra de Nejima]]
 [s][vp 8 0 2 1010 1 0]Xingamento! Eu sou o mais forte![n]Eu devo ser o rei![n]Eu...[n][f 1 3 65535][w][e]
 

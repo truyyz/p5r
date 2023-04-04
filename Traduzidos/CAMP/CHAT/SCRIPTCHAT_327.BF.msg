@@ -11,7 +11,7 @@
 [s][f 5 14]Mas essas solicitações foram[n]realmente resolvidas.[n][w][e]
 
 [msg MSG_004_0_0 [Yusuke]]
-[s][f 5 14]Alguém deve ter entrado no[n]Memento além de nós.[n][w][e]
+[s][f 5 14]Alguém deve ter entrado no[n]Mementos além de nós.[n][w][e]
 
 [msg MSG_005_0_0 [Ann]]
 [s][f 5 14]Acho que é Morgana.[n][w][e]

@@ -7,7 +7,7 @@
 [msg LOCK_DOOR]
 [s]A porta está trancada.[n][w][e]
 
-[msg D157_009_miniEV_09_mes01 [Guardia della security]]
+[msg D157_009_miniEV_09_mes01 [Segurança]]
 [s]Sim... Aquele convidado realmente tem[n]buracos nas mãos.[n][w][e]
 [s]Deixe-o pensar que teve[n]sorte, vamos fazê-lo perder[n]tudo na volta final.[n][w][e]
 

@@ -11,9 +11,9 @@
 [msg MSG_CINDERELLA_B02_UNDER_2 [Futaba]]
 [s][bup 0 8 602 65535 0][vp 8 0 2 1005 0 8][f 4 10 65535 0 0]Parece funcionar... espere[n]mais um pouco![n][f 1 3 65535][w][e]
 
-[msg MSG_CINDERELLA_B02_DEAD_ [Cenerentola]]
+[msg MSG_CINDERELLA_B02_DEAD_ [Cinderela]]
 [s][vp 8 0 2 1006 1 490]Aaah... eu os ouço... Os sinos[n]esfriam meia-noite...[n][f 1 3 65535][w][e]
 
-[msg MSG_CINDERELLA_B02_DEAD__2 [Cenerentola]]
+[msg MSG_CINDERELLA_B02_DEAD__2 [Cinderela]]
 [s][vp 8 0 2 1007 1 490]Agora, meu sonho...não...[n][f 1 3 65535][w][e]
 

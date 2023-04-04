@@ -1,4 +1,4 @@
-[msg MSG_000_0_0 [Ragazzo inatteso]]
+[msg MSG_000_0_0 [Menino inesperado]]
 [s][bup 0 5 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 1 6 0]Eu vi você do carro...[n]e não pude evitar[n]não segui-lo.[n][f 1 3 65535][w][e]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 2 6 0]Eu nem percebi que o[n]Sensei estava me ligando... Mas, graças[n]deus, eu te alcancei.[n][f 1 3 65535][w][e]
 
@@ -8,19 +8,19 @@
 [msg MSG_002_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 38 65535 0]Mas o que...?[n][f 1 3 65535][w][e]
 
-[msg MSG_003_0_0 [Ragazzo inatteso]]
+[msg MSG_003_0_0 [Menino inesperado]]
 [s][bup 0 5 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 5 6 0]Você é a mulher que eu[n]sempre procurei![n]Por favor, você...[n][f 1 3 65535][w][e]
 
 [msg MSG_003_5_0 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]E-Espera aí, eu...[n][f 1 3 65535][w][e]
 
-[msg MSG_004_0_0 [Ragazzo inatteso]]
+[msg MSG_004_0_0 [Menino inesperado]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 5 3 300 1][vp 8 0 0 7 6 0]...Modelagem para[n]minha próxima arte!?![n][f 1 3 65535][w][e]
 
 [msg MSG_004_5_0 [Ann]]
 [s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]...Modelo?[n][f 1 3 65535][w][e]
 
-[msg MSG_006_0_0 [Ragazzo inatteso]]
+[msg MSG_006_0_0 [Menino inesperado]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 8 6 0]O que descrevi até agora foi[n]completo, mas em ti percebo[n]uma paixão sem igual.[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Morgana]]
@@ -29,13 +29,13 @@
 [msg MSG_009_0_0 [Ryuji]]
 [s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Você está querendo contratá-la[n]para algum negócio obscuro?[n][f 1 3 65535][w][e]
 
-[msg MSG_010_0_0 [Ragazzo inatteso]]
+[msg MSG_010_0_0 [Menino inesperado]]
 [s][bup 0 5 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 12 6 0]Você vai trabalhar comigo?[n]O que você diz?[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Ryuji]]
 [s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Espere, cara![n]Podemos saber quem você é?[n][f 1 3 65535][w][e]
 
-[msg MSG_012_0_0 [Ragazzo inatteso]]
+[msg MSG_012_0_0 [Menino inesperado]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 14 6 0]Oh, onde coloquei minhas maneiras? Sou um[n]estudante de belas artes do segundo ano na [n][clr 2]Kosei High[clr 27].[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 15 6 0]Meu nome é [clr 2]Yusuke Kitagawa[clr 27].[n][f 1 3 65535][w][e]
 
@@ -56,7 +56,7 @@
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]Eles o apresentaram como um artista japonês[n]superfamoso e mundialmente famoso.[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Ann]]
-[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Mas é o mesmo nome que[n]ouvimos outro dia[n]no Memento...[n][f 1 3 65535][w][e]
+[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Mas é o mesmo nome que[n]ouvimos outro dia[n]no Mementos...[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Madarame]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 203 1 301 1][vp 8 0 0 23 65535 0]Yusuke![n][f 1 3 65535][w][e]

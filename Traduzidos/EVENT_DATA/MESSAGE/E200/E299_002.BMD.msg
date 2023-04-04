@@ -1,4 +1,4 @@
-[msg MSG_000_0_0 [Sfinge]]
+[msg MSG_000_0_0 [Esfinge]]
 [s][vp 8 0 0 1 65535 0]Fuuuutaaaaaaaaaaaaa![n][f 1 2 170][e]
 
 [msg MSG_001_0_0 [Makoto]]

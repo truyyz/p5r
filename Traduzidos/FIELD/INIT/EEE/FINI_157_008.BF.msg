@@ -11,14 +11,14 @@
 [msg D157_009_miniEV_01_mes01 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Uma sombra![n][w][e]
 
-[msg D157_009_miniEV_01_mes02 [Ombra]]
+[msg D157_009_miniEV_01_mes02 [Sombra]]
 [s]Bem-vindo à sala de caça-níqueis![n][w][e]
 [s]O objetivo do jogo é[n]obter combinações correspondentes[n]nos rolos giratórios.[n][w][e]
 
 [msg D157_009_miniEV_01_mes03 [Makoto]]
 [s][bup 0 6 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Estamos aqui para ganhar dinheiro,[n]não jogos![n][w][e]
 
-[msg D157_009_miniEV_01_mes04 [Ombra]]
+[msg D157_009_miniEV_01_mes04 [Sombra]]
 [s]Ah, é isso?[n][w][e]
 [s]...Mas primeiro você tem que me derrotar![n][w][e]
 

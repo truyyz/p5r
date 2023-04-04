@@ -12,7 +12,7 @@
 [s][bup 0 6 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Sala de segurança, está me ouvindo?[n]Esta é a sala de monitoramento![n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Alguns intrusos nos atacaram![n]Envie reforços, imediatamente![n]Apenas uma pessoa é suficiente![n][w][e]
 
-[msg e259_212_selA_0_mes03 [Ombra prudente]]
+[msg e259_212_selA_0_mes03 [Sombra cautelosa]]
 [s]Entendido! Vamos enviar[n]alguém para ajudá-lo imediatamente![n][w][e]
 
 [msg e259_212_selA_0_mes04 [Makoto]]
@@ -21,15 +21,15 @@
 [msg e259_212_selA_1_mes01 [Makoto]]
 [s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2090 65535 0]Entendido. Antes de[n]entrar em ação,[n]certifique-se de que está pronto.[n][w][e]
 
-[msg e259_212_mes02 [Ombra prudente]]
+[msg e259_212_mes02 [Sombra cautelosa]]
 [s]Uh?!? Não há ninguém...?[n][w][e]
 
 [msg e259_212_mes03 [Ryuji]]
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Não exatamente.[n][w][e]
 
-[msg e259_212_mes04 [Ombra prudente]]
+[msg e259_212_mes04 [Sombra cautelosa]]
 [s]V-você é...?!?[n][w][e]
 
-[msg e259_212_mes05 [Ombra prudente]]
+[msg e259_212_mes05 [Sombra cautelosa]]
 [s]Foi uma armadilha?!? Bastardos![n][w][e]
 

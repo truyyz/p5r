@@ -62,7 +62,7 @@
 [s][vp 8 0 0 0 65535 0]Eu te digo que esse pedaço de merda nos vendeu![n][f 1 3 65535][w][e]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 12 301 65535][vp 8 0 0 0 65535 0]Como você acha que Kamoshida[n]ouviu sobre seus[n]pais, Sakamoto?[n][f 1 3 65535][w][e]
 
-[msg MSG_017_0_0 [Atleta dai capelli castani]]
+[msg MSG_017_0_0 [Atleta de cabelo castanho]]
 [s][vp 8 0 0 0 7 0]Ele deve ser o espião![n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Ryuji]]
@@ -76,7 +76,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...mas você vai se arrepender.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Confie em mim. Pensar nos[n]erros cometidos dói[n]muito.[n][f 1 3 65535][w][e]
 
-[msg MSG_021_0_0 [Atleta dai capelli castani]]
+[msg MSG_021_0_0 [Atleta de cabelo castanho]]
 [s][vp 8 0 0 0 7 0]Hã?[n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Ryuji]]
@@ -99,7 +99,7 @@
 [msg MSG_026_0_0 [Ryuji]]
 [s][bup 0 2 204 0 0][f 4 10 65535 0 0][vp 8 2 0 7174 65535 0]...Yamauchi?[n][f 1 3 65535][w][e]
 
-[msg MSG_027_0_0 [Atleta dai capelli corti]]
+[msg MSG_027_0_0 [Atleta de cabelo curto]]
 [s][vp 8 0 0 0 9 0]Vamos, Takeishi, devemos[n]partir. Se[n]mais alguém vier...[n][f 1 3 65535][w][e]
 
 [msg MSG_028_0_0 [Takeishi]]

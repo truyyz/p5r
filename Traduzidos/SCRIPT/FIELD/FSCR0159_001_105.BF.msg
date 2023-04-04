@@ -1,4 +1,4 @@
-[msg D159_01_L_01_mes01 [Navigatore del Metaverso]]
+[msg D159_01_L_01_mes01 [Navegador do Metaverso]]
 [s]Este é o ponto de retorno[n]do Palácio Shido.[n][w][e]
 
 [msg D159_01_L_01_mes02 [Ryuji]]

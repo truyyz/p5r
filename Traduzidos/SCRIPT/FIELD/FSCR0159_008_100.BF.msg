@@ -8,13 +8,13 @@
 [s][bup 0 8 0 65535 0]Criar aquele Medjed falso não foi seu único erro,[n]foi?[n][w][e]
 [s]Eu quero saber[n]seu maior segredo.[n][w][e]
 
-[msg D07_e411_102_mes03 [Ombra Presidente IT]]
+[msg D07_e411_102_mes03 [Presidente de TI Sombra]]
 [s]Pesquisa sobre ciência[n]psi-cognitiva…[n][w][e]
 
 [msg D07_e411_102_mes04 [Futaba]]
 [s][bup 0 8 0 65535 0]O que ele fez?!? Desembucha![n][w][e]
 
-[msg D07_e411_102_mes05 [Ombra Presidente IT]]
+[msg D07_e411_102_mes05 [Presidente de TI Sombra]]
 [s]Depois de extrair os[n]resultados da pesquisa, destruí[n]o último byte dos dados originais.[n][w][e]
 [s]Então, criptografei o que tínhamos[n]e armazenei em um domínio[n]inacessível a meros mortais.[n][w][e]
 [s]Mas não me interpretem mal.[n]Não sei nada sobre todas[n]essas paradas mentais.[n][w][e]

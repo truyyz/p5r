@@ -12,6 +12,6 @@
 [s]Você baixou?[e]
 [s]Você é Futaba, não é?!?[e]
 
-[msg MSG_008_0_0 [Errore di invio]]
+[msg MSG_008_0_0 [Enviando de envio]]
 [s][f 5 14][f 5 15]Erro: o endereço não existe.[n][w][e]
 

@@ -171,10 +171,10 @@
 [msg D01_02_e129_066_mes06 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 9 0 0]Derrube os inimigos no chão explorando[n]suas fraquezas e, em seguida, use[n]o Rush! É a estratégia perfeita![n][w][e]
 
-[msg Attack_Tutorial [Attaccare]]
+[msg Attack_Tutorial [Ataque]]
 [s]Aproxime-se de um inimigo e pressione[n][f 1 10 22] para iniciar uma batalha.[n][w][e]
 
-[msg AI_change_Tutorial [Dare ordini ai compagni di squadra]]
+[msg AI_change_Tutorial [Dar ordens aos companheiros]]
 [s]Altere a IA dos aliados de [clr 2]BOLSA[clr 27][n]no menu principal ou de [clr 2]TÁTICAS[clr 27] para[n][clr 2]ORDENS[clr 27] no turno do herói do jogador .[n][w][e]
 
 [msg TUTORIAL_MSG01]

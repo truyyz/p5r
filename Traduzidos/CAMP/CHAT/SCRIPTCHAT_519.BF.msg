@@ -37,7 +37,7 @@
 [s][f 5 14]Sério?!?[n]Muito obrigado![n][w][e]
 
 [msg MSG_005_0_0 [Futaba]]
-[s][f 5 14]O nome do meu tio é Youji[n]Isshiki. Vamos para Memento[n]e despertar seu coração.[n][w][e]
+[s][f 5 14]O nome do meu tio é Youji[n]Isshiki. Vamos para Mementos[n]e despertar seu coração.[n][w][e]
 
 [msg MSG_006_0_0 [Futaba]]
 [s][f 5 14]Mas, uh... eu tenho um[n]favor para te pedir.[n][w][e]

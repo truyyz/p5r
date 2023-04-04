@@ -56,13 +56,13 @@
 [s]Congelamento poderoso[n][e]
 
 [msg addeffect_019]
-[s]choque fraco[n][e]
+[s]Choque fraco[n][e]
 
 [msg addeffect_020]
-[s]choque médio[n][e]
+[s]Choque médio[n][e]
 
 [msg addeffect_021]
-[s]choque poderoso[n][e]
+[s]Choque poderoso[n][e]
 
 [msg addeffect_022]
 [s]Tontura fraca[n][e]
@@ -74,7 +74,7 @@
 [s]Vertigem poderosa[n][e]
 
 [msg addeffect_025]
-[s]confusão fraca[n][e]
+[s]Confusão fraca[n][e]
 
 [msg addeffect_026]
 [s]Confusão média[n][e]
@@ -83,31 +83,31 @@
 [s]Poderosa confusão[n][e]
 
 [msg addeffect_028]
-[s]medo fraco[n][e]
+[s]médioo fraco[n][e]
 
 [msg addeffect_029]
-[s]Medo médio[n][e]
+[s]médioo médio[n][e]
 
 [msg addeffect_030]
-[s]medo poderoso[n][e]
+[s]médioo poderoso[n][e]
 
 [msg addeffect_031]
 [s]Amnésia fraca[n][e]
 
 [msg addeffect_032]
-[s]amnésia média[n][e]
+[s]Amnésia média[n][e]
 
 [msg addeffect_033]
-[s]amnésia poderosa[n][e]
+[s]Amnésia poderosa[n][e]
 
 [msg addeffect_034]
-[s]subjugação fraca[n][e]
+[s]Subjugação fraca[n][e]
 
 [msg addeffect_035]
 [s]Subjugação média[n][e]
 
 [msg addeffect_036]
-[s]subjugação poderosa[n][e]
+[s]Subjugação poderosa[n][e]
 
 [msg addeffect_037]
 [s]Sono fraco[n][e]
@@ -122,10 +122,10 @@
 [s]Fúria fraca[n][e]
 
 [msg addeffect_041]
-[s]fúria média[n][e]
+[s]Fúria média[n][e]
 
 [msg addeffect_042]
-[s]fúria poderosa[n][e]
+[s]Fúria poderosa[n][e]
 
 [msg addeffect_043]
 [s]Desespero fraco[n][e]
@@ -137,22 +137,22 @@
 [s]Desespero poderoso[n][e]
 
 [msg addeffect_046]
-[s]+Alterazione casuale (bassa)[n][e]
+[s]+Doença Aleatória (Baixa)[n][e]
 
 [msg addeffect_047]
-[s]+Alterazione casuale (med)[n][e]
+[s]+Doença Aleatória (Média)[n][e]
 
 [msg addeffect_048]
-[s]+Alterazione casuale (alta)[n][e]
+[s]+Doença Aleatória (Alta)[n][e]
 
 [msg addeffect_049]
-[s]+Chance di critico (bassa)[n][e]
+[s]+Chance de Crítico (Baixa)[n][e]
 
 [msg addeffect_050]
-[s]+Chance di critico (med)[n][e]
+[s]+Chance de Crítico (Média)[n][e]
 
 [msg addeffect_051]
-[s]+Chance di critico (alta)[n][e]
+[s]+Chance de Crítico (Alta)[n][e]
 
 [msg addeffect_052]
 [s]+Ataques de fogo[n][e]
@@ -179,52 +179,52 @@
 [s]+Ataques amaldiçoados[n][e]
 
 [msg addeffect_060]
-[s]+Riflette attacchi fisici (basso)[n][e]
+[s]+Defletir Ataque Físico (Baixo)[n][e]
 
 [msg addeffect_061]
-[s]+Riflette attacchi fisici (med)[n][e]
+[s]+Defletir Ataque Físico (Médio)[n][e]
 
 [msg addeffect_062]
-[s]+Riflette attacchi fisici (alto)[n][e]
+[s]+Defletir Ataque Físico (Alto)[n][e]
 
 [msg addeffect_063]
-[s]+Resiste em chamas[n][e]
+[s]+Resistir em chamas[n][e]
 
 [msg addeffect_064]
-[s]+Resiste ao congelamento[n][e]
+[s]+Resistir ao congelamento[n][e]
 
 [msg addeffect_065]
-[s]+Resiste a eletrocussão[n][e]
+[s]+Resistir a eletrocussão[n][e]
 
 [msg addeffect_066]
-[s]+Resiste à tontura[n][e]
+[s]+Resistir à tontura[n][e]
 
 [msg addeffect_067]
-[s]+Resiste à Confusão[n][e]
+[s]+Resistir à Confusão[n][e]
 
 [msg addeffect_068]
-[s]+Resiste ao medo[n][e]
+[s]+Resistir ao médioo[n][e]
 
 [msg addeffect_069]
-[s]+Resiste à amnésia[n][e]
+[s]+Resistir à amnésia[n][e]
 
 [msg addeffect_070]
-[s]+Resiste à fome[n][e]
+[s]+Resistir à fome[n][e]
 
 [msg addeffect_071]
-[s]+Resiste ao sono[n][e]
+[s]+Resistir ao sono[n][e]
 
 [msg addeffect_072]
-[s]+Resiste à Fúria[n][e]
+[s]+Resistir à Fúria[n][e]
 
 [msg addeffect_073]
-[s]+Resiste ao Desespero[n][e]
+[s]+Resistir ao Desespero[n][e]
 
 [msg addeffect_074]
-[s]+Resiste ao Rato[n][e]
+[s]+Resistir ao Rato[n][e]
 
 [msg addeffect_075]
-[s]+Resiste à subjugação[n][e]
+[s]+Resistir à subjugação[n][e]
 
 [msg addeffect_076]
 [s]+Auto-Tarukaja[n][e]
@@ -236,184 +236,184 @@
 [s]+Auto-Sukukaja[n][e]
 
 [msg addeffect_079]
-[s]+Riduce danno fisico (basso)[n][e]
+[s]+Reduz Dano Físico (baixo)[n][e]
 
 [msg addeffect_080]
-[s]+Riduce danno fisico (med)[n][e]
+[s]+Reduz Dano Físico (médio)[n][e]
 
 [msg addeffect_081]
-[s]+Riduce danno fisico (alto)[n][e]
+[s]+Reduz Dano Físico (alto)[n][e]
 
 [msg addeffect_082]
-[s]+Riduce danno fuoco (basso)[n][e]
+[s]+Reduz Dano de Fogo (baixo)[n][e]
 
 [msg addeffect_083]
-[s]+Riduce danno fuoco (med)[n][e]
+[s]+Reduz Dano de Fogo (médio)[n][e]
 
 [msg addeffect_084]
-[s]+Riduce danno fuoco (alto)[n][e]
+[s]+Reduz Dano de Fogo (alto)[n][e]
 
 [msg addeffect_085]
-[s]+Riduce danno ghiaccio (basso)[n][e]
+[s]+Reduz Dano de Gelo (baixo)[n][e]
 
 [msg addeffect_086]
-[s]+Riduce danno ghiaccio (med)[n][e]
+[s]+Reduz Dano de Gelo (médio)[n][e]
 
 [msg addeffect_087]
-[s]+Riduce danno ghiaccio (alto)[n][e]
+[s]+Reduz Dano de Gelo (alto)[n][e]
 
 [msg addeffect_088]
-[s]+Riduce danno elettrico (basso)[n][e]
+[s]+Reduz Dano Elétrico (baixo)[n][e]
 
 [msg addeffect_089]
-[s]+Riduce danno elettrico (med)[n][e]
+[s]+Reduz Dano Elétrico (médio)[n][e]
 
 [msg addeffect_090]
-[s]+Riduce danno elettrico (alto)[n][e]
+[s]+Reduz Dano Elétrico (alto)[n][e]
 
 [msg addeffect_091]
-[s]+Riduce danno vento (basso)[n][e]
+[s]+Reduz Dano de Vento (baixo)[n][e]
 
 [msg addeffect_092]
-[s]+Riduce danno vento (med)[n][e]
+[s]+Reduz Dano de Vento (médio)[n][e]
 
 [msg addeffect_093]
-[s]+Riduce danno vento (alto)[n][e]
+[s]+Reduz Dano de Vento (alto)[n][e]
 
 [msg addeffect_094]
-[s]+Riduce danno nucleare (basso)[n][e]
+[s]+Reduz Dano Nuclear (baixo)[n][e]
 
 [msg addeffect_095]
-[s]+Riduce danno nucleare (med)[n][e]
+[s]+Reduz Dano Nuclear (médio)[n][e]
 
 [msg addeffect_096]
-[s]+Riduce danno nucleare (alto)[n][e]
+[s]+Reduz Dano Nuclear (alto)[n][e]
 
 [msg addeffect_097]
-[s]+Riduce danno psicocinetico (basso)[n][e]
+[s]+Reduz Dano Psicocinético (baixo)[n][e]
 
 [msg addeffect_098]
-[s]+Riduce danno psicocinetico (med)[n][e]
+[s]+Reduz Dano Psicocinético (médio)[n][e]
 
 [msg addeffect_099]
-[s]+Riduce danno psicocinetico (alto)[n][e]
+[s]+Reduz Dano Psicocinético (alto)[n][e]
 
 [msg addeffect_100]
-[s]+Riduce danno sacro (basso)[n][e]
+[s]+Reduz Dano de Benção (baixo)[n][e]
 
 [msg addeffect_101]
-[s]+Riduce danno sacro (med)[n][e]
+[s]+Reduz Dano de Benção (médio)[n][e]
 
 [msg addeffect_102]
-[s]+Riduce danno sacro (alto)[n][e]
+[s]+Reduz Dano de Benção (alto)[n][e]
 
 [msg addeffect_103]
-[s]+Riduce danno maledetto (basso)[n][e]
+[s]+Reduz Dano de Maldição (baixo)[n][e]
 
 [msg addeffect_104]
-[s]+Riduce danno maledetto (med)[n][e]
+[s]+Reduz Dano de Maldição (médio)[n][e]
 
 [msg addeffect_105]
-[s]+Riduce danno maledetto (alto)[n][e]
+[s]+Reduz Dano de Maldição (alto)[n][e]
 
 [msg addeffect_106]
-[s]+Riduce danno magico (basso)[n][e]
+[s]+Reduz Dano Mágico (baixo)[n][e]
 
 [msg addeffect_107]
-[s]+Riduce danno magico (med)[n][e]
+[s]+Reduz Dano Mágico (médio)[n][e]
 
 [msg addeffect_108]
-[s]+Riduce danno magico (alto)[n][e]
+[s]+Reduz Dano Mágico (alto)[n][e]
 
 [msg addeffect_109]
-[s]+Evita att. fisici (basso)[n][e]
+[s]+Evade Atk. Físico (baixo)[n][e]
 
 [msg addeffect_110]
-[s]+Evita att. fisici (med)[n][e]
+[s]+Evade Atk. Físico (médio)[n][e]
 
 [msg addeffect_111]
-[s]+Evita att. fisici (alto)[n][e]
+[s]+Evade Atk. Físico (alto)[n][e]
 
 [msg addeffect_112]
-[s]+Evita fuoco (basso)[n][e]
+[s]+Evade Fogo (baixo)[n][e]
 
 [msg addeffect_113]
-[s]+Evita fuoco (med)[n][e]
+[s]+Evade Fogo (médio)[n][e]
 
 [msg addeffect_114]
-[s]+Evita fuoco (alto)[n][e]
+[s]+Evade Fogo (alto)[n][e]
 
 [msg addeffect_115]
-[s]+Evita ghiaccio (basso)[n][e]
+[s]+Evade Gelo (baixo)[n][e]
 
 [msg addeffect_116]
-[s]+Evita ghiaccio (med)[n][e]
+[s]+Evade Gelo (médio)[n][e]
 
 [msg addeffect_117]
-[s]+Evita ghiaccio (alto)[n][e]
+[s]+Evade Gelo (alto)[n][e]
 
 [msg addeffect_118]
-[s]+Evita elettricità (basso)[n][e]
+[s]+Evade Eletricidade (baixo)[n][e]
 
 [msg addeffect_119]
-[s]+Evita elettricità (med)[n][e]
+[s]+Evade Eletricidade (médio)[n][e]
 
 [msg addeffect_120]
-[s]+Evita elettricità (alto)[n][e]
+[s]+Evade Eletricidade (alto)[n][e]
 
 [msg addeffect_121]
-[s]+Evita vento (basso)[n][e]
+[s]+Evade Vento (baixo)[n][e]
 
 [msg addeffect_122]
-[s]+Evita vento (med)[n][e]
+[s]+Evade Vento (médio)[n][e]
 
 [msg addeffect_123]
-[s]+Evita vento (alto)[n][e]
+[s]+Evade Vento (alto)[n][e]
 
 [msg addeffect_124]
-[s]+Evita nucleare (basso)[n][e]
+[s]+Evade Nuclear (baixo)[n][e]
 
 [msg addeffect_125]
-[s]+Evita nucleare (med)[n][e]
+[s]+Evade Nuclear (médio)[n][e]
 
 [msg addeffect_126]
-[s]+Evita nucleare (alto)[n][e]
+[s]+Evade Nuclear (alto)[n][e]
 
 [msg addeffect_127]
-[s]+Evita psicocinesi (basso)[n][e]
+[s]+Evade Psicocinése (baixo)[n][e]
 
 [msg addeffect_128]
-[s]+Evita psicocinesi (med)[n][e]
+[s]+Evade Psicocinése (médio)[n][e]
 
 [msg addeffect_129]
-[s]+Evita psicocinesi (alto)[n][e]
+[s]+Evade Psicocinése (alto)[n][e]
 
 [msg addeffect_130]
-[s]+Evita sacro (basso)[n][e]
+[s]+Evade Benção (baixo)[n][e]
 
 [msg addeffect_131]
-[s]+Evita sacro (med)[n][e]
+[s]+Evade Benção (médio)[n][e]
 
 [msg addeffect_132]
-[s]+Evita sacro (alto)[n][e]
+[s]+Evade Benção (alto)[n][e]
 
 [msg addeffect_133]
-[s]+Evita maledizioni (basso)[n][e]
+[s]+Evade Maldição (baixo)[n][e]
 
 [msg addeffect_134]
-[s]+Evita maledizioni (med)[n][e]
+[s]+Evade Maldição (médio)[n][e]
 
 [msg addeffect_135]
-[s]+Evita maledizioni (alto)[n][e]
+[s]+Evade Maldição (alto)[n][e]
 
 [msg addeffect_136]
-[s]+Evita magia (basso)[n][e]
+[s]+Evade Magia (baixo)[n][e]
 
 [msg addeffect_137]
-[s]+Evita magia (med)[n][e]
+[s]+Evade Magia (médio)[n][e]
 
 [msg addeffect_138]
-[s]+Evita magia (alto)[n][e]
+[s]+Evade Magia (alto)[n][e]
 
 [msg addeffect_139]
 [s]+50% EXP[n][e]
@@ -479,52 +479,52 @@
 [s]Reduz o tempo de alerta do inimigo[n][e]
 
 [msg addeffect_160]
-[s]+1 Carregador[n][e]
+[s]+1 Balas[n][e]
 
 [msg addeffect_161]
-[s]+2 revistas[n][e]
+[s]+2 Balas[n][e]
 
 [msg addeffect_162]
-[s]+3 revistas[n][e]
+[s]+3 Balas[n][e]
 
 [msg addeffect_163]
-[s]+Cancelar Em chamas[n][e]
+[s]+Anular Em chamas[n][e]
 
 [msg addeffect_164]
-[s]+Cancelar congelamento[n][e]
+[s]+Anular congelamento[n][e]
 
 [msg addeffect_165]
-[s]+Cancelar eletrocussão[n][e]
+[s]+Anular eletrocussão[n][e]
 
 [msg addeffect_166]
-[s]+Cancelar tontura[n][e]
+[s]+Anular tontura[n][e]
 
 [msg addeffect_167]
-[s]+Cancelar confusão[n][e]
+[s]+Anular confusão[n][e]
 
 [msg addeffect_168]
-[s]+Cancelar medo[n][e]
+[s]+Anular médioo[n][e]
 
 [msg addeffect_169]
-[s]+Cancelar amnésia[n][e]
+[s]+Anular amnésia[n][e]
 
 [msg addeffect_170]
-[s]+Cancelar Fome[n][e]
+[s]+Anular Fome[n][e]
 
 [msg addeffect_171]
-[s]+Cancelar suspensão[n][e]
+[s]+Anular suspensão[n][e]
 
 [msg addeffect_172]
-[s]+Cancelar Fúria[n][e]
+[s]+Anular Fúria[n][e]
 
 [msg addeffect_173]
-[s]+Cancelar Desespero[n][e]
+[s]+Anular Desespero[n][e]
 
 [msg addeffect_174]
-[s]+Cancelar Rato[n][e]
+[s]+Anular Rato[n][e]
 
 [msg addeffect_175]
-[s]+Cancelar subjugação[n][e]
+[s]+Anular subjugação[n][e]
 
 [msg addeffect_176]
 [s]Regeneração 1[n][e]
@@ -545,10 +545,10 @@
 [s]Recuperação 3[n][e]
 
 [msg addeffect_182]
-[s]Previne a morte instantânea. do sagrado[n][e]
+[s]Previne a morte instantânea pelo sagrado[n][e]
 
 [msg addeffect_183]
-[s]Previne a morte instantânea. da maldição[n][e]
+[s]Previne a morte instantânea pela maldição[n][e]
 
 [msg addeffect_184]
 [s]Reduz a precisão dos inimigos[n][e]
@@ -557,7 +557,7 @@
 [s]Cancele tudo, exceto Divino[n][e]
 
 [msg addeffect_186]
-[s]Metade do dano, sem evasão[n][e]
+[s]Leve dano pela metade, sem poder desviar[n][e]
 
 [msg addeffect_187]
 [s]VAZIO[n][e]
@@ -578,19 +578,19 @@
 [s]+XP de batalhas[n][e]
 
 [msg addeffect_193]
-[s]+Denaro dalle battaglie (1x)[n][e]
+[s]+Dinheiro de Batalhas (1x)[n][e]
 
 [msg addeffect_194]
 [s]+Reduz a chance de ser alvo[n][e]
 
 [msg addeffect_195]
-[s]+Cancelar Sagrado/Amaldiçoado[n][e]
+[s]+Anular Sagrado/Amaldiçoado[n][e]
 
 [msg addeffect_196]
-[s]+3 para estatísticas, +20 SP[n][e]
+[s]+3 para todas as estatísticas, +20 SP[n][e]
 
 [msg addeffect_197]
-[s]Potenzia Assalto (1x)[n][e]
+[s]Potencializa o All-Out Attack (1x)[n][e]
 
 [msg addeffect_198]
 [s]+1 bala para a vitória[n][e]
@@ -602,5 +602,5 @@
 [s]Reduz o custo de habilidade em 25%[n][e]
 
 [msg addeffect_201]
-[s]+Reduzir acidentes em 50%[n][e]
+[s]+Reduz Doenças em 50%[n][e]
 

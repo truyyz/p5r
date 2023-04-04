@@ -19,20 +19,20 @@
 [msg MSG_006_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Bem, de acordo com seu conhecimento,[n]ninguém pode entrar[n]seu quarto.[n][f 1 3 65535][w][e]
 
-[msg MSG_007_0_0 [Ombra di Futaba]]
+[msg MSG_007_0_0 [Sombra de Futaba]]
 [s][bup 0 8 900 0 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Estou surpreso[n]que você chegou até aqui.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Além dessa porta fica[n]a câmara do faraó.[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Ryuji]]
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Então o tesouro está aí?[n][f 1 3 65535][w][e]
 
-[msg MSG_009_0_0 [Ombra di Futaba]]
+[msg MSG_009_0_0 [Sombra de Futaba]]
 [s][bup 0 8 900 0 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Está certo. No entanto,[n]para abrir essa porta,[n]você precisará da minha permissão.[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Ryuji]]
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Em seguida, abra-o.[n][f 1 3 65535][w][e]
 
-[msg MSG_011_0_0 [Ombra di Futaba]]
+[msg MSG_011_0_0 [Sombra de Futaba]]
 [s][bup 0 8 900 0 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Eu não posso fazer isso.[n]Ela vai ter que convidar você.[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Ryuji]]
@@ -48,7 +48,7 @@
 [msg MSG_015_0_0 [Ann]]
 [s][bup 0 4 100 0 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Então temos que convencer Futaba[n]a nos deixar entrar no quarto dela?[n][f 1 3 65535][w][e]
 
-[msg MSG_016_0_0 [Ombra di Futaba]]
+[msg MSG_016_0_0 [Sombra de Futaba]]
 [s][bup 0 8 900 0 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Já que você conseguiu[n]chegar até aqui, talvez você[n]também seja capaz de...[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Ann]]

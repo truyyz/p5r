@@ -11,7 +11,7 @@
 [msg D01_04_e165_062_re_mes01 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1158 65535 0]Pronto, Joker?[n][w][e]
 
-[msg D01_04_e165_063_mes01 [Capitão da Guarda]]
+[msg D01_04_e165_063_mes01 [Capitão da guarda]]
 [s]Olha Você aqui! Eu nunca vou deixar você[n]passar![n][w][e]
 
 [msg D01_04_e165_063_mes02 [Ann]]

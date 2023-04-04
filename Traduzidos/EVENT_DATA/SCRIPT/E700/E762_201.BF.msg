@@ -53,14 +53,14 @@
 [msg MSG_057_0_0 [Morgana]]
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 0 1184 65535 0][f 4 22 65535 3 22]V-Você conseguiu![n][f 1 3 65535][w][e]
 
-[msg MSG_058_0_0 [Dipendente]]
+[msg MSG_058_0_0 [Funcionário]]
 [s][vp 8 2 0 48553 7 0]Parabéns por[n]concluir este desafio![n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 7 0]Você conseguiu terminar[n]o Comet Burger...[n][f 1 3 65535][w][e]
 
-[msg MSG_058_1_0 [Dipendente]]
+[msg MSG_058_1_0 [Funcionário]]
 [s][vp 8 2 0 0 7 0]Seu prêmio: [f 2 5 3 9999 1]![n][f 1 3 65535][w][e]
 
-[msg MSG_060_1_0 [Dipendente]]
+[msg MSG_060_1_0 [Funcionário]]
 [s][vp 8 2 0 0 7 0]Agora que você é Segundo Imediato,[n]novos desafios esperam por você![n][f 1 3 65535][w][e]
 [s][vp 8 2 0 48554 7 0]Ansioso para vê-lo[n]enfrentar[n]nosso desafio novamente![n][f 1 3 65535][w][e]
 
@@ -72,7 +72,7 @@
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0][vp 8 2 0 1045 65535 0]O ritmo, o timing estratégico[n]das bebidas, a[n]maneira espetacular de devorá-lo...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Tudo perfeito![n][f 1 3 65535][w][e]
 
-[msg MSG_GET_BURGER_00 [Dipendente]]
+[msg MSG_GET_BURGER_00 [Funcionário]]
 [s][vp 8 2 0 0 7 0]E ao Burger Baron que[n]passou no desafio, temos o prazer[n]apresentar...[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 7 0]Nosso famoso Big Bang Burger, por conta da casa![n]Esperamos que apreciem o sabor da vitória.[n][f 1 3 65535][w][e]
 
@@ -86,14 +86,14 @@
 [msg MSG_077_0_0 [Morgana]]
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 0 1184 65535 0][f 4 22 65535 3 22]O que... você fez isso de novo![n][f 1 3 65535][w][e]
 
-[msg MSG_078_0_0 [Dipendente]]
+[msg MSG_078_0_0 [Funcionário]]
 [s][vp 8 2 0 48553 7 0]Parabéns por[n]concluir este desafio![n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 7 0]Você conseguiu terminar[n]o Gravity Burger...[n][f 1 3 65535][w][e]
 
-[msg MSG_078_1_0 [Dipendente]]
+[msg MSG_078_1_0 [Funcionário]]
 [s][vp 8 2 0 0 7 0]Seu prêmio: [f 2 5 3 9999 1]![n][f 1 3 65535][w][e]
 
-[msg MSG_080_0_0 [Dipendente]]
+[msg MSG_080_0_0 [Funcionário]]
 [s][vp 8 2 0 0 7 0]Você foi promovido a Primeiro Oficial![n]Mais uma missão restante...[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 48554 7 0]Ansioso para vê-lo[n]enfrentar[n]nosso desafio novamente![n][f 1 3 65535][w][e]
 
@@ -101,15 +101,15 @@
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 0 53140 65535 0]Você derrotou o Gravity Burger![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Sua coragem em enfrentar[n]tal empreendimento é[n]muito admirável![n][f 1 3 65535][w][e]
 
-[msg MSG_099_0_0 [Dipendente]]
+[msg MSG_099_0_0 [Funcionário]]
 [s][vp 8 2 0 48553 7 0]Parabéns por[n]passar o desafio final![n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 7 0]Você conseguiu derrubar[n]o Cosmic Tower Burger...[n][f 1 3 65535][w][e]
 
-[msg MSG_099_1_0 [Dipendente]]
+[msg MSG_099_1_0 [Funcionário]]
 [s][vp 8 2 0 0 7 0]Seu prêmio...[n][f 1 3 65535][w][e]
 [s][vp 1 0 0 0 0 0]O certificado de nível mais alto[n]disponível conosco:[n][f 2 5 3 9999 1]![n][f 1 3 65535][w][e]
 
-[msg MSG_101_0_0 [Dipendente]]
+[msg MSG_101_0_0 [Funcionário]]
 [s][vp 8 2 0 48554 7 0]Você foi promovido ao posto de[n]Capitão. Os desafios acabaram...[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 7 0]Mas enfrente-os novamente para[n]provar seu valor para nós![n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 7 0]Todos nós do Big Bang Burger[n]aguardamos seu retorno![n][f 1 3 65535][w][e]
@@ -121,14 +121,14 @@
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 0 53140 65535 0]Você derrubou a Torre Cósmica![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Sua coragem em enfrentar[n]tal empreendimento é[n]muito admirável![n][f 1 3 65535][w][e]
 
-[msg MSG_114_0_0 [Dipendente]]
+[msg MSG_114_0_0 [Funcionário]]
 [s][vp 8 2 0 0 7 0]Não esperava nada menos de um capitão...[n][f 1 3 65535][w][e]
 
-[msg MSG_115_0_0 [Dipendente]]
+[msg MSG_115_0_0 [Funcionário]]
 [s][vp 8 2 0 0 7 0]Como expliquei antes,[n]você não tem mais níveis...[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 7 0]Mas para comemorar seus sucessos,[n]trazemos a você nosso famoso Big Bang Burger![n][f 1 3 65535][w][e]
 
-[msg MSG_115_1_0 [Dipendente]]
+[msg MSG_115_1_0 [Funcionário]]
 [s][vp 8 2 0 48554 7 0]Aguardarei ansiosamente[n]seu retorno galante.[n][f 1 3 65535][w][e]
 
 [msg MSG_116_0_0 [Morgana]]
@@ -137,7 +137,7 @@
 [msg MSG_120_0_0 [Morgana]]
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 0 53140 65535 0][f 4 22 65535 1 41]No entanto, você sabe como comer. Você parece não[n]saber o significado da palavra "medo".[n][f 1 3 65535][w][e]
 
-[msg MSG_DEBUG [Debug]]
+[msg MSG_DEBUG [Depurando]]
 [s][vp 8 2 0 0 65535 0]Modo de Depuração[n][f 1 3 65535][w][e]
 
 [sel SEL_DEBUG top]

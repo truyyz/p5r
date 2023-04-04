@@ -25,29 +25,29 @@
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Provavelmente não no[n]mesmo ponto que o outro...[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Você não vê nada disso?[n][w][e]
 
-[msg mini_EV_e200_146_mes01 [Guardia Ombra all'inseguimento]]
+[msg mini_EV_e200_146_mes01 [Guarda das Sombras em perseguição]]
 [s]Ei, você ouviu falar sobre[n]aqueles intrusos?[n][w][e]
 
-[msg mini_EV_e200_146_mes02 [Guardia Ombra al comando]]
+[msg mini_EV_e200_146_mes02 [Guarda das Sombras no comando]]
 [s]Você quer dizer os ladrões que[n]entraram aqui?[n][w][e]
 [s]Disseram-me para alterar a[n]senha, apenas por segurança.[n][w][e]
 
-[msg mini_EV_e200_146_mes03 [Guardia Ombra all'inseguimento]]
+[msg mini_EV_e200_146_mes03 [Guarda das Sombras em perseguição]]
 [s]E...? Como você mudou isso?[n][w][e]
 
-[msg mini_EV_e200_146_mes04 [Guardia Ombra al comando]]
+[msg mini_EV_e200_146_mes04 [Guarda das Sombras no comando]]
 [s]Olá.[n][w][e]
 
-[msg mini_EV_e200_146_mes05 [Guardia Ombra all'inseguimento]]
+[msg mini_EV_e200_146_mes05 [Guarda das Sombras em perseguição]]
 [s]...Huh?[n][w][e]
 
-[msg mini_EV_e200_146_mes06 [Guardia Ombra al comando]]
+[msg mini_EV_e200_146_mes06 [Guarda das Sombras no comando]]
 [s]Eu disse olá"! 07734. Se você ler[n]os números de trás para frente,[n]a palavra "olá" aparecerá.[n][w][e]
 
-[msg mini_EV_e200_146_mes07 [Guardia Ombra all'inseguimento]]
+[msg mini_EV_e200_146_mes07 [Guarda das Sombras em perseguição]]
 [s]...Isso não é um pouco infantil?[n][w][e]
 
-[msg mini_EV_e200_146_mes08 [Guardia Ombra al comando]]
+[msg mini_EV_e200_146_mes08 [Guarda das Sombras no comando]]
 [s]Deve ficar tudo bem, desde que[n]ninguém descubra. Então[n]ninguém nos ouve.[n][w][e]
 [s]Lembre-se: quando precisar inserir[n]o código, lembre-se[n]da palavra "olá".[n][w][e]
 

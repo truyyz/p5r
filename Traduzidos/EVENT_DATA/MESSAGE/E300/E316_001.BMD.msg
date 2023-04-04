@@ -40,19 +40,19 @@
 [msg MSG_014_0_0 [Makoto]]
 [s][bup 0 6 5 65535 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Isso deve ser o suficiente, certo?[n][f 1 3 65535][w][e]
 
-[msg MSG_015_0_0 [Voce di Sae]]
+[msg MSG_015_0_0 [Voz de Sae]]
 [s][bup 0 105 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Ah, Makoto?[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Makoto]]
 [s][bup 0 6 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]Sim?[n][f 1 3 65535][w][e]
 
-[msg MSG_017_0_0 [Voce di Sae]]
+[msg MSG_017_0_0 [Voz de Sae]]
 [s][bup 0 105 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]Preciso trocar minha escova de dentes.[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Makoto]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 6 11 300 1][vp 8 0 0 22 65535 0]E-Eu já tenho um novo![n]Está no armário![n][f 1 3 65535][w][e]
 
-[msg MSG_019_0_0 [Voce di Sae]]
+[msg MSG_019_0_0 [Voz de Sae]]
 [s][bup 0 105 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Obrigado.[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Makoto]]
@@ -64,7 +64,7 @@
 [msg MSG_022_0_0 [Makoto]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 6 10 300 1][vp 8 0 0 26 65535 0]Você foi rápido![n][f 1 3 65535][w][e]
 
-[msg MSG_023_0_0 [Voce di Sae]]
+[msg MSG_023_0_0 [Voz de Sae]]
 [s][bup 0 105 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 27 65535 0]Não estou com vontade[n]de pular na banheira.[n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [Makoto]]
@@ -73,13 +73,13 @@
 [msg MSG_025_0_0 [Makoto]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 6 7 300 1][vp 8 0 0 29 65535 0]Irmã?[n][f 1 3 65535][w][e]
 
-[msg MSG_026_0_0 [Voce di Sae]]
+[msg MSG_026_0_0 [Voz de Sae]]
 [s][bup 0 105 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 30 65535 0]O que é?[n][f 1 3 65535][w][e]
 
 [msg MSG_027_0_0 [Makoto]]
 [s][bup 0 6 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 31 65535 0]Comprei alguns sais de banho novos. Ainda no[n]armário, você os colocaria na banheira?[n][f 1 3 65535][w][e]
 
-[msg MSG_028_0_0 [Voce di Sae]]
+[msg MSG_028_0_0 [Voz de Sae]]
 [s][bup 0 105 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 32 65535 0]Sim, claro.[n][f 1 3 65535][w][e]
 
 [msg MSG_029_0_0 [Makoto]]

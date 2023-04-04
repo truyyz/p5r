@@ -2,42 +2,42 @@
 [s]Sim[e]
 [s]Não[e]
 
-[msg MSG_E10410200_POLICE_000 [Oficial antipático]]
+[msg MSG_E10410200_POLICE_000 [Funcionário antipático]]
 [s][f 4 23 1 850 3 10 0 0][vp 8 2 1 0 850 0]Pois não?[n][w][e]
 
-[msg MSG_E10410200_POLICE_100 [Oficial antipático]]
+[msg MSG_E10410200_POLICE_100 [Funcionário antipático]]
 [s][f 4 23 1 850 3 10 0 0][vp 8 2 1 0 850 0]Você precisa de mais alguma coisa?[n][w][e]
 
-[msg MSG_E10410200_POLICE_200 [Oficial antipático]]
+[msg MSG_E10410200_POLICE_200 [Funcionário antipático]]
 [s][f 4 23 1 850 3 10 0 0][vp 8 2 1 0 850 0]Você novamente, pode falar?[n][w][e]
 
 [sel SEL_E10410200_POLICE_001 top]
 [s]Preciso de ajuda para achar um local.[e]
 [s]Desculpa, não é nada.[e]
 
-[msg MSG_E10410200_POLICE_002 [Oficial antipático]]
+[msg MSG_E10410200_POLICE_002 [Funcionário antipático]]
 [s][f 4 23 1 850 3 10 0 0][vp 8 2 1 0 850 0]Hm, você quer chegar ir a essa[n]casa nesse endereço...?[n][w][e]
 [s][vp 8 2 1 0 850 0]É em um beco aqui atrás.[n]Pegue a primeira à direita[n]depois daquele prédio com as escadas.[n][w][e]
 
-[msg MSG_E10410200_POLICE_102 [Oficial antipático]]
+[msg MSG_E10410200_POLICE_102 [Funcionário antipático]]
 [s][f 4 23 1 850 3 10 0 0][vp 8 2 1 0 850 0]É em um beco aqui atrás.[n]Pegue a primeira à direita[n]depois daquele prédio com as escadas.[n][w][e]
 
-[msg MSG_E10410200_POLICE_002_2 [Oficial antipático]]
+[msg MSG_E10410200_POLICE_002_2 [Funcionário antipático]]
 [s][vp 8 2 1 0 850 0]Sério? *suspirar*[n][w][e]
 
 [sel SEL_E10410200_POLICE_002 top]
 [s]Onde está o Leblanc?[e]
 [s]Desculpe-me, não importa.[e]
 
-[msg MSG_E10410200_POLICE_003 [Oficial antipático]]
+[msg MSG_E10410200_POLICE_003 [Funcionário antipático]]
 [s][f 4 23 1 850 3 10 0 0][vp 8 2 1 0 850 0]Leblanc...?[n][w][e]
 [s][vp 8 2 1 0 850 0]Ah sim, o café.[n]É no beco depois[n]da tabacaria.[n][w][e]
 
-[msg MSG_E10410200_POLICE_103 [Oficial antipático]]
+[msg MSG_E10410200_POLICE_103 [Funcionário antipático]]
 [s][f 4 23 1 850 3 10 0 0][vp 8 2 1 0 850 0]Suspiro, eu já te disse...[n][w][e]
 [s][vp 8 2 1 0 850 0]Pode ser encontrado no beco depois da tabacaria.[n]Você o reconhecerá imediatamente.[n][w][e]
 
-[msg MSG_E10410200_POLICE_003_2 [Oficial antipático]]
+[msg MSG_E10410200_POLICE_003_2 [Funcionário antipático]]
 [s][vp 8 2 1 0 850 0]Sério? *suspirar*[n][w][e]
 
 [msg MSG_E10410200_TAKUHAI_00 [Entregador]]
@@ -50,31 +50,31 @@
 [s][vp 1 0 0 0 0 0]...Ele parece ocupado.[n]É melhor não incomodá-lo.[n][w][e]
 [s][vp 1 0 0 0 0 0]Aparentemente, Sojiro Sakura[n]está em uma cafeteria[n]chamada [clr 2]Leblanc[clr 27].[n][w][e]
 
-[msg MSG_000_0_0 [Oficial antipático]]
+[msg MSG_000_0_0 [Funcionário antipático]]
 [s][vp 8 2 1 0 850 0]uh...? O que era...?[n][w][e]
 
 [sel SEL_001_0_0 top]
 [s]Interrompi alguma coisa? Eu preciso de[e]
 [s]informações.[e]
 
-[msg MSG_002_0_0 [Oficial antipático]]
+[msg MSG_002_0_0 [Funcionário antipático]]
 [s][f 4 23 1 850 3 10 0 0][vp 8 2 1 0 850 0]Tem[n]muitos acidentes[n]estranhos acontecendo ultimamente, então aumentamos[n]a segurança.[n][w][e]
 [s][vp 8 2 1 0 850 0][n]Indivíduos suspeitos também são vistos nesta[n]área, portanto, se você notar alguma coisa,[n]entre em contato conosco imediatamente.[n][w][e]
 
-[msg MSG_003_0_0 [Oficial antipático]]
+[msg MSG_003_0_0 [Funcionário antipático]]
 [s][f 4 23 1 850 3 10 0 0][vp 8 2 1 0 850 0]Não conheço bem esta área, mas[n]claro, vou aparecer. Onde você está indo?[n][w][e]
 [s][vp 8 2 1 0 850 0]Sakura-san... Este endereço[n]deve estar perto daqui.[n][w][e]
 
-[msg MSG_003_1_0 [Oficial antipático]]
+[msg MSG_003_1_0 [Funcionário antipático]]
 [s][vp 8 2 1 0 850 0]Vire à direita logo após o prédio[n]com escadas e a casa está descendo[n]o beco, eu acho.[n][w][e]
 
-[msg MSG_000_5_0 [Oficial antipático]]
+[msg MSG_000_5_0 [Funcionário antipático]]
 [s][f 4 23 1 850 3 10 0 0][vp 8 2 1 0 850 0]E aí? Você esqueceu algo?[n][w][e]
 
-[msg MSG_003_5_0 [Oficial antipático]]
+[msg MSG_003_5_0 [Funcionário antipático]]
 [s][vp 8 2 1 0 850 0]Para esse endereço, vire à direita[n]depois do prédio com as escadas.[n]A casa fica no final do beco, eu acho.[n][w][e]
 
-[msg MSG_004_0_0 [Oficial antipático]]
+[msg MSG_004_0_0 [Funcionário antipático]]
 [s][f 4 23 1 850 3 10 0 0][vp 8 2 1 0 850 0]Ei, não ali.[n]Em direção ao supermercado, do outro[n]lado...[n][w][e]
 
 [msg MSG_011_0_0 [ひねくれた小学生]]
@@ -128,7 +128,7 @@
 [msg MSG_022_0_0 [ヒゲの濃い女性?]]
 [s][f 4 23 1 853 3 10 0 0][vp 8 2 1 0 853 0]あたし、忙しいから...[n]あっち行っててよ。[n][w][e]
 
-[msg MSG_023_0_0 [Mulher com uma câmera]]
+[msg MSG_023_0_0 [Mulher com um quarto]]
 [s][vp 8 2 1 0 816 0]あ~、今さら四茶グルメとか...[n]編集、センスなさすぎだろ![n][w][e]
 [s][vp 8 2 1 0 816 0]どうせ取材させんなら、居酒屋特集にでも[n]してくれたらなー...あーëみてえ。[n][w][e]
 
@@ -137,21 +137,21 @@
 [s]何の取材?[e]
 [s]アル中...?[e]
 
-[msg MSG_025_0_0 [Mulher com uma câmera]]
+[msg MSG_025_0_0 [Mulher com um quarto]]
 [s][f 4 23 1 816 3 10 0 0][vp 8 2 1 0 816 0]...え?[n]やだ、もしかして今の聞いてた?[n][w][e]
 [s][vp 8 2 1 0 816 0]ごめん、取材で来てるだけなんだ。[n]次は喫茶店だったかな。[n][w][e]
 [s][vp 8 2 1 0 816 0]コロンビアが美味しいらしいよ...[n]って、高校生にはまだ早いか。[n][w][e]
 
-[msg MSG_026_0_0 [Mulher com uma câmera]]
+[msg MSG_026_0_0 [Mulher com um quarto]]
 [s][f 4 23 1 816 3 10 0 0][vp 8 2 1 0 816 0]...え?[n]やだ、もしかして今の聞いてた?[n][w][e]
 [s][vp 8 2 1 0 816 0]気にしないで。[n]愚痴たれるには、まだ早い時間だったわ。[n][w][e]
 
-[msg MSG_027_0_0 [Mulher com uma câmera]]
+[msg MSG_027_0_0 [Mulher com um quarto]]
 [s][f 4 23 1 816 3 10 0 0][vp 8 2 1 0 816 0]...え?[n]やだ、もしかして今の聞いてた?[n][w][e]
 [s][vp 8 2 1 0 816 0]ちょっと、この辺りの取材をね。[n]次は喫茶店だったかな。[n][w][e]
 [s][vp 8 2 1 0 816 0]コロンビアが美味しいらしいよ...[n]って、高校生にはまだ早いか。[n][w][e]
 
-[msg MSG_028_0_0 [Mulher com uma câmera]]
+[msg MSG_028_0_0 [Mulher com um quarto]]
 [s][vp 8 2 1 0 816 0]あー...やっぱëみてえ。[n]缶ビールとスルメ買って帰るか。[n][w][e]
 
 [msg MSG_E10410200_000_00 [Entregador]]

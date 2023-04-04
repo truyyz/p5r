@@ -1,4 +1,4 @@
-[msg D00_01_e100_201_mes01 [voz de criança]]
+[msg D00_01_e100_201_mes01 [Voz de criança]]
 [s][bup 0 3 150 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 3 0 0]Bom. Você os derrotou facilmente![n][w][e]
 
 [msg D00_01_e100_201_mes02 [Voz de menina]]

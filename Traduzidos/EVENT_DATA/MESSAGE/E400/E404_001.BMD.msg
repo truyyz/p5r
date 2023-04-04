@@ -29,7 +29,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Ei, [f 4 2], não consegue[n]pensar em nada com base no que[n]ouviu dele?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Vale tudo.[n]Até adivinhar.[n][f 1 3 65535][w][e]
 
-[msg MSG_013_0_0 [homem bêbado]]
+[msg MSG_013_0_0 [Homem bêbado]]
 [s][vp 8 0 0 12 65535 0]Idiotas como você deveriam apenas[n]calar a boca e seguir a estrada[n]que eu atravessei este país![n][f 1 3 65535][w][e]
 
 [msg MSG_023_3_0 [Morgana]]

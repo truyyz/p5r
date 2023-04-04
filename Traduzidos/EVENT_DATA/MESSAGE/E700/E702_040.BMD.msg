@@ -1,10 +1,10 @@
 [msg MSG_000_0_0 [Makoto]]
-[s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 2028 65535 0]Fizemos uma prova do vestibular.[n]Eu fiz pior[n]do que da última vez. Isso é preocupante.[n][f 1 3 65535][w][e]
+[s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 2028 65535 0]Tivemos uma prova do vestibular.[n]Eu fui pior[n]do que da última vez. Isso é preocupante.[n][f 1 3 65535][w][e]
 
 [sel SEL_001_0_0 top]
-[s][f 0 8 2 1 2217]Não é como você.[clr 27][e]
-[s]Culpe os ladrões fantasmas?[e]
-[s]Você terá feito melhor do que eu.[e]
+[s][f 0 8 2 1 2217]Não é sua cara.[clr 27][e]
+[s]Os Phantom Thieves estão te distraindo?[e]
+[s]Tenho certeza que foi melhor que eu.[e]
 
 [msg MSG_002_0_0 [Makoto]]
 [s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 3 5 6]Concordo totalmente...[n][f 1 3 65535][w][e]
@@ -18,7 +18,7 @@
 [msg MSG_005_0_0 [Makoto]]
 [s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 2071 65535 0]A verdade é... ultimamente eu[n]comecei a questionar[n]o significado da minha educação.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O que eu ganho por tirar[n]boas notas e não decepcionar as[n]grandes expectativas da minha irmã?[n][f 1 3 65535][w][e]
-[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 35 5 100]Também conversei sobre isso com a Eiko,[n]mas não é como se ela tivesse[n]idéias mais claras agora...[n][f 1 3 65535][w][e]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 35 5 100]Também conversei sobre isso com a Eiko,[n]mas não é como se ela tivesse[n]ideias mais claras agora...[n][f 1 3 65535][w][e]
 
 [sel SEL_006_0_0 top]
 [s]Eiko?[e]
@@ -36,12 +36,12 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Aparentemente, seus pais[n]podem conseguir um emprego para ela[n]graças a suas conexões...[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Makoto]]
-[s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 2128 65535 0]Isso não é um pouco irresponsável?[n]É bom que ele possa contar[n]com seus pais, mas é a vida dele![n][f 1 3 65535][w][e]
+[s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 2128 65535 0]Isso não é um pouco irresponsável?[n]É bom que ela possa contar[n]com seus pais, mas é a vida dela![n][f 1 3 65535][w][e]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 35 5 100]Acho que é apenas uma maneira diferente[n]de abordar as coisas.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mesmo assim, porém, ele tem uma visão mais clara[n]do futuro do que a minha.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mesmo assim, porém, ela tem uma visão mais clara[n]do futuro do que a minha.[n][f 1 3 65535][w][e]
 
 [sel SEL_009_5_0 top]
-[s]Não tem metas?[e]
+[s]Você não tem metas?[e]
 [s]E a universidade?[e]
 [s]O que você quer dizer?[e]
 
@@ -58,12 +58,12 @@
 [msg MSG_012_0_0 [Makoto]]
 [s][bup 0 6 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 2048 65535 0]Eheh, ela deve ter percebido que[n]eu estava falando sobre ela.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ultimamente, assim que ela compra[n]maquiagem nova ou vê um[n]vestido bonito, ela me avisa na hora.[n][f 1 3 65535][w][e]
-[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]A propósito, outro dia ele[n]me perguntou que creme para as mãos eu uso.[n][f 1 3 65535][w][e]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]A propósito, outro dia ela[n]me perguntou que creme para as mãos eu uso.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Enviei uma foto para ela e aparentemente[n]é a mesma que é usada[n]na enfermaria da escola.[n][f 1 3 65535][w][e]
 
 [sel SEL_013_0_0 top]
-[s][f 0 8 2 1 2217]Por que você está usando?[clr 27][e]
-[s]Adorável.[e]
+[s][f 0 8 2 1 2217]Por que você usa isso?[clr 27][e]
+[s]Isso é adorável.[e]
 [s]Você não é muito feminina...[e]
 
 [msg MSG_013_1_0 [Makoto]]
@@ -71,7 +71,7 @@
 
 [msg MSG_013_2_0 [Makoto]]
 [s][bup 0 6 7 65535 0][f 4 10 65535 0 0][vp 8 2 0 2024 65535 0][f 5 13 3 5 6]N-Não sei.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ele me disse que eu sou como um homem de[n]meia-idade no corpo de um adolescente ...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ela me disse que eu sou como alguém de[n]meia-idade no corpo de uma adolescente...[n][f 1 3 65535][w][e]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]De qualquer forma, é um salva-vidas[n]para a pele seca e também[n]muito acessível.[n][f 1 3 65535][w][e]
 
 [msg MSG_013_3_0 [Makoto]]
@@ -91,32 +91,32 @@
 
 [sel SEL_015_0_0 top]
 [s]Você ainda tem esse sonho?[e]
-[s]Ah, as mulheres de uniforme![e]
-[s][f 0 8 2 1 2217]Um gol extraordinário.[clr 27][e]
+[s]Eu gosto de mulheres de uniforme![e]
+[s][f 0 8 2 1 2217]Um objetivo extraordinário.[clr 27][e]
 
 [msg MSG_016_0_0 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 2100 65535 0]Não sei. Quer dizer,[n]eu acabei de lembrar.[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 2081 65535 0][f 5 13 3 5 6]Bonito, certo? Usar aquele[n]uniforme foi um dos motivos para[n]querer ser policial.[n][f 1 3 65535][w][e]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 2081 65535 0][f 5 13 3 5 6]Bonito, certo? Usar aquele[n]uniforme foi um dos motivos para[n]eu querer ser policial.[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 2197 65535 0][f 5 13 3 10 6]Acho que sim...[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]De qualquer forma, depois do que aconteceu[n]não tenho mais intenção de[n]trabalhar na polícia.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E então eles estão tentando parar os Phantom[n]Thieves. O que devo fazer, prendo-me?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E então eles estão tentando parar os Phantom[n]Thieves. O que devo fazer, prender-me?[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Hmm...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Acho que precisarei reexaminar[n]minhas metas para o futuro,[n]além de apenas estudar.[n][f 1 3 65535][w][e]
 
 [msg MSG_020_5_0 [Makoto]]
-[s][bup 0 6 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 2031 65535 0]Sabe, graças a você parece que[n]lembrei de algo importante.[n][f 1 3 65535][w][e]
+[s][bup 0 6 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 2031 65535 0]Sabe, graças a você, parece que[n]lembrei de algo importante.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu poderia dizer que meus horizontes[n]aumentaram ainda mais.[n][f 1 3 65535][w][e]
 
 [msg MND_990_0_0]
-[s][vp 8 0 0 0 65535 0]Eu sinto que Makoto é movido[n]por uma calma determinação...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Eu sinto que Makoto é movida[n]por uma calma determinação...[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 2155 65535 0]Quando conheci Eiko, eu[n]percebi como minha perspectiva[n]era limitada.[n][f 1 3 65535][w][e]

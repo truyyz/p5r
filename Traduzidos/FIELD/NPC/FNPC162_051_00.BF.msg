@@ -255,7 +255,7 @@
 
 [msg SAFE_MES_MAKOTO_12 [Makoto]]
 [s][bup 0 6 100 0 0][f 4 10 65535 0 0][vp 8 2 1 2019 65535 0]O que você acha que eram aqueles cabos grandes[n]que vimos antes?[n][w][e]
-[s][f 4 10 65535 0 0]Quem sabe para onde eles foram...[n]Talvez em Memento?[n][w][e]
+[s][f 4 10 65535 0 0]Quem sabe para onde eles foram...[n]Talvez em Mementos?[n][w][e]
 
 [msg SAFE_MES_MAKOTO_13 [Makoto]]
 [s][bup 0 6 100 0 0][f 4 10 65535 0 0][vp 8 2 1 2150 65535 0]Vamos encontrar aquela[n]fita de vídeo assim que estivermos prontos.[n][w][e]

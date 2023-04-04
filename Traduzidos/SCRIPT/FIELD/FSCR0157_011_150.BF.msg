@@ -20,7 +20,7 @@
 [msg D06_157_11_ex_chk_re_mes [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1099 65535 0]Então nós vamos. Vamos, Joker![n][w][e]
 
-[msg D06_157_11_ex_btl_mes01 [Ombra]]
+[msg D06_157_11_ex_btl_mes01 [Sombra]]
 [s]Oh querida... Convidados? Aqui?[n]Sinto muito, senhoras e senhores...[n][w][e]
 [s]Lamento, mas os convidados não têm[n]permissão de acesso a esta área.[n]Devo pedir-lhe para sair.[n][w][e]
 

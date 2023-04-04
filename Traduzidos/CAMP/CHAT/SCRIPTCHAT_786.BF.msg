@@ -11,16 +11,16 @@
 [s][f 5 14]Amanhã eu gostaria de ir lá para[n]investigar um pouco sobre o assunto.[n]Posso pedir que você venha comigo?[n][f 5 15][w][e]
 
 [msg MSG_101_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]O que você quer fazer? Você quer[n]namorar Makoto?[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]O que você quer fazer? Você quer[n]sair com Makoto?[n][f 1 3 65535][w][e]
 
 [sel SEL_111_0_0 top]
 [s]Aceitar[e]
-[s]Declínio[e]
+[s]Declinar[e]
 [s]Responder mais tarde[e]
 
 [sel SEL_111_1_0 top]
 [s]Vá agora[e]
-[s]Declínio[e]
+[s]Declinar[e]
 [s]Responder mais tarde[e]
 
 [msg MSG_999_0_0 [Makoto]]

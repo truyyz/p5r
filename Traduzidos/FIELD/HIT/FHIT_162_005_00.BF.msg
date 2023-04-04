@@ -48,12 +48,12 @@
 [msg D162_005_BOSS_EV_Start [Akechi]]
 [s][bup 0 9 800 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Bem, agora isso explica tudo.[n][w][e]
 
-[msg D162_005_BOSS_EV_01 [Ricercatore Ombra]]
+[msg D162_005_BOSS_EV_01 [Pesquisador das Sombras]]
 [s]Como você chegou aqui?!?[n]Bem, não importa! Você não vai[n]emergir vivo![n][w][e]
 
 [msg D162_005_BOSS_EV_02 [Ryuji]]
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ah, MADDAI![n][w][e]
 
-[msg D162_005_BOSS_EV_End [Ricercatore Ombra]]
+[msg D162_005_BOSS_EV_End [Pesquisador das Sombras]]
 [s]Farei de você um membro do Éden![n][w][e]
 

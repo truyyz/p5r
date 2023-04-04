@@ -17,7 +17,7 @@
 [msg MSG_005_0_0 [Justine]]
 [s][bup 0 101 2 0 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Se você deseja recuperar[n]seu futuro roubado...[n][f 1 3 65535][w][e]
 
-[msg MSG_006_0_0 [Caroline e Justine]]
+[msg MSG_006_0_0 [Carolina e Justine]]
 [s][vp 8 0 0 12 4 0]Lembre-se de laços estreitos[n]com seus aliados...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 13 4 0]...E compreenda a verdade[n]que o salvará da ruína.[n][f 1 3 65535][w][e]
 

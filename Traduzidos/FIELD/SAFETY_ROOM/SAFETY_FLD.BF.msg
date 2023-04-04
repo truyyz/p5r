@@ -469,7 +469,7 @@
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 6092 65535 0]Como sempre, teremos que esperar...[n]Deveríamos estar acostumados a[n]esperar assim agora.[n][w][e]
 
 [msg OKUMURA_END_mes04 [Yusuke]]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 4092 65535 0]Só temos que esperar que o coração dele[n]desperte, certo? Bem, que tal ir ao Memento?[n][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 4092 65535 0]Só temos que esperar que o coração dele[n]desperte, certo? Bem, que tal ir ao Mementos?[n][w][e]
 
 [msg OKUMURA_END_mes05 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 2092 65535 0]Só temos que esperar que o coração de[n]Okumura desperte.[n]Então, o que vamos fazer hoje?[n][w][e]
@@ -2220,15 +2220,15 @@
 [s][bup 0 9 10 65535 0][f 4 23 1 9 3 5 11 5][f 4 10 65535 0 0][vp 8 2 1 8124 65535 0]Isso deve ser tudo por agora.[n][w][e]
 
 [msg BRIEFING_MEMENTOS_2_mes0 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 23 1 2 3 5 11 5][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Não vale a pena perder tempo aqui.[n]Por que não vamos ao Memento?[n][w][e]
+[s][bup 0 2 0 65535 0][f 4 23 1 2 3 5 11 5][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Não vale a pena perder tempo aqui.[n]Por que não vamos ao Mementos?[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Já ouvimos falar de pessoas com problemas? Se[n]sim, podemos conversar sobre isso.[n][w][e]
 
 [msg BRIEFING_MEMENTOS_2_mes0_2 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 23 1 3 3 5 11 5][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Parados aqui com as mãos postas,[n]só corremos o risco de ficar enferrujados.[n]Vamos para o Memento, melhor.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 23 1 3 3 5 11 5][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Parados aqui com as mãos postas,[n]só corremos o risco de ficar enferrujados.[n]Vamos para o Mementos, melhor.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]E se pudéssemos ajudar[n]alguém, mataríamos dois[n]pássaros com uma cajadada só.[n][w][e]
 
 [msg BRIEFING_MEMENTOS_2_mes0_3 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 23 1 4 3 5 11 5][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Se não temos nada para fazer,[n]por que não vamos ao Memento[n]ajudar alguém?[n][w][e]
+[s][bup 0 4 0 65535 0][f 4 23 1 4 3 5 11 5][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Se não temos nada para fazer,[n]por que não vamos ao Mementos[n]ajudar alguém?[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Conhecemos alguém que está com problemas? Vamos[n]salvá-lo![n][w][e]
 
 [msg BRIEFING_MEMENTOS_2_mes0_4 [Yusuke]]
@@ -2258,13 +2258,13 @@
 [s][bup 0 3 0 0 0][f 4 23 1 3 3 5 11 5][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Não se esqueça dos Mementos, ok?[n]Você me prometeu.[n][w][e]
 
 [msg BRIEFING_MEMENTOS_0711_m_3 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 23 1 4 3 5 11 5][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Que tal ir ao Memento?[n]Com o passar do tempo estudar se[n]chateio...[n][w][e]
+[s][bup 0 4 0 65535 0][f 4 23 1 4 3 5 11 5][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Que tal ir ao Mementos?[n]Com o passar do tempo estudar se[n]chateio...[n][w][e]
 
 [msg BRIEFING_MEMENTOS_0711_m_4 [Yusuke]]
-[s][bup 0 5 0 65535 0][f 4 23 1 5 3 5 11 5][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Que tal ir para o Memento? Eu não me importaria[n]de fazer uma pausa nos estudos de vez em quando.[n][w][e]
+[s][bup 0 5 0 65535 0][f 4 23 1 5 3 5 11 5][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Que tal ir para o Mementos? Eu não me importaria[n]de fazer uma pausa nos estudos de vez em quando.[n][w][e]
 
 [msg BRIEFING_MEMENTOS_0711_m_5 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 23 1 6 3 5 11 5][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ir de vez em quando ao Memento é bom, mas não[n]descuide dos estudos, tá?[n][w][e]
+[s][bup 0 6 0 65535 0][f 4 23 1 6 3 5 11 5][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ir de vez em quando ao Mementos é bom, mas não[n]descuide dos estudos, tá?[n][w][e]
 
 [msg BRIEFING_MEMENTOS_D05_1_ [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 23 1 2 3 5 11 5][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Sabemos quem atingir, mas[n]não temos pistas suficientes...[n][w][e]
@@ -2645,20 +2645,20 @@
 [s][bup 0 5 0 65535 0][f 4 23 1 5 3 5 11 5][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu sei que continuo repetindo, mas não vamos[n]negligenciar os preparativos. Podemos[n]enfrentar circunstâncias imprevistas.[n][w][e]
 
 [msg BRIEFING_MEME_LV1_D10_me_5 [Makoto]]
-[s][bup 0 6 2 65535 0][f 4 23 1 6 3 5 11 5][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Precisamos de uma pista para nos ajudar a[n]progredir. Espero que em Memento encontremos[n]algo.[n][w][e]
+[s][bup 0 6 2 65535 0][f 4 23 1 6 3 5 11 5][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Precisamos de uma pista para nos ajudar a[n]progredir. Espero que em Mementos encontremos[n]algo.[n][w][e]
 
 [msg BRIEFING_MEME_LV1_D10_me_6 [Futaba]]
-[s][bup 0 8 2 65535 0][f 4 23 1 8 3 5 11 5][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Não descobriremos nada sobre Memento[n]ou Dr. Maruki até que[n]vámos lá e verifiquemos![n][w][e]
+[s][bup 0 8 2 65535 0][f 4 23 1 8 3 5 11 5][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Não descobriremos nada sobre Mementos[n]ou Dr. Maruki até que[n]vámos lá e verifiquemos![n][w][e]
 
 [msg BRIEFING_MEME_LV1_D10_me_7 [Haru]]
-[s][bup 0 7 0 65535 0][f 4 23 1 7 3 5 11 5][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Podemos ficar no Memento por um bom tempo, então[n]vamos nos certificar de que estamos bem[n]preparados, ok?[n][w][e]
+[s][bup 0 7 0 65535 0][f 4 23 1 7 3 5 11 5][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Podemos ficar no Mementos por um bom tempo, então[n]vamos nos certificar de que estamos bem[n]preparados, ok?[n][w][e]
 
 [msg BRIEFING_MEME_LV1_D10_me_8 [Akechi]]
 [s][bup 0 9 0 65535 0][f 4 23 1 9 3 5 11 5][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Temos muito pouca informação.[n]Vamos nos mexer e investigar.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Tenho certeza que tudo ficará bem[n]se seguirmos um plano, mas por enquanto[n]deixarei as decisões para [f 4 2].[n][w][e]
 
 [msg BRIEFING_MEME_LV1_D10_me_9 [Sumire]]
-[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Devemos encontrar algo em[n]Memento, certo? Ainda sou um[n]rookie, mas farei o meu melhor![n][w][e]
+[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Devemos encontrar algo em[n]Mementos, certo? Ainda sou um[n]rookie, mas farei o meu melhor![n][w][e]
 
 [msg BRIEFING_MEME_LV1_D10_me_10 [Akechi]]
 [s][bup 0 9 10 65535 0][f 4 23 1 9 3 5 11 5][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Temos muito pouca informação.[n]Vamos nos mexer e investigar.[n][w][e]
@@ -2689,7 +2689,7 @@
 [s][bup 0 9 0 65535 0][f 4 23 1 9 3 5 11 5][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ainda não temos informações.[n]Vamos, não temos tempo a perder.[n][w][e]
 
 [msg BRIEFING_MEME_LV3_D10_me_9 [Sumire]]
-[s][bup 0 10 5 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Hm, acho que o tempo está acabando![n]Vamos para o Memento[n]o mais rápido possível![n][w][e]
+[s][bup 0 10 5 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Hm, acho que o tempo está acabando![n]Vamos para o Mementos[n]o mais rápido possível![n][w][e]
 
 [msg BRIEFING_MEME_LV3_D10_me_10 [Akechi]]
 [s][bup 0 9 10 65535 0][f 4 23 1 9 3 5 11 5][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ainda não temos informações.[n]Vamos, não temos tempo a perder.[n][w][e]
@@ -2814,7 +2814,7 @@
 [s][bup 0 2 7 65535 0][f 4 10 65535 0 0][vp 8 2 1 7038 65535 0]Hum. Irei quando me apetecer.[n][w][e]
 
 [msg MEMENTOS_0510_mes05 [Ryuji]]
-[s][f 4 23 1 2 3 5 11 5][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Vejo que estamos todos aqui...[n]Você quer ir para o Memento, não quer?[n][w][e]
+[s][f 4 23 1 2 3 5 11 5][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Vejo que estamos todos aqui...[n]Você quer ir para o Mementos, não quer?[n][w][e]
 
 [msg MEMENTOS_0510_mes06 [Ann]]
 [s][f 4 23 1 4 3 5 11 5][bup 0 4 4 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]O que você está dizendo? Não[n]estudamos para os exames?[n][w][e]
@@ -2993,7 +2993,7 @@
 [s][bup 0 4 3 65535 0][f 4 10 65535 0 0][f 4 23 1 4 3 5 11 5][vp 8 2 1 0 65535 0]Espero que você esteja certo...[n][w][e]
 
 [msg KANESHIRO_UNKNOWN_mes06 [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][f 4 23 1 2 3 5 11 5][vp 8 2 1 7079 65535 0]Como Yusuke disse, se esperarmos, ela aparecerá.[n]Enquanto isso... tem Memento![n][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][f 4 23 1 2 3 5 11 5][vp 8 2 1 7079 65535 0]Como Yusuke disse, se esperarmos, ela aparecerá.[n]Enquanto isso... tem Mementos![n][w][e]
 
 [msg KANESHIRO_UNKNOWN_mes07 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 23 1 5 3 5 11 5][vp 8 2 1 0 65535 0]Mmm, não é uma má ideia.[n]Se você for, eu gostaria[n]de ir com você.[n][w][e]
@@ -3347,7 +3347,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Duvido que tudo corra bem.[n]É melhor não baixar a guarda.[n][w][e]
 
 [msg MARUKI_MEMENTOS_mes01 [Sumire]]
-[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 5 11 5][vp 8 2 1 57001 65535 0]Ei! Estamos prestes a entrar no[n]Memento...certo?[n][w][e]
+[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 5 11 5][vp 8 2 1 57001 65535 0]Ei! Estamos prestes a entrar no[n]Mementos...certo?[n][w][e]
 [s][bup 0 10 2 65535 0][vp 8 2 1 0 65535 0][f 4 10 65535 0 0]Hum, eu sei que sou um novato, mas vou tentar não[n]te atrapalhar. Estou ansioso para colaborar com[n]você![n][w][e]
 
 [msg MARUKI_MEMENTOS_mes02 [Ryuji]]
@@ -3699,7 +3699,7 @@
 
 [msg AZITO_QUEST_LIST_NG_TALK [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Um momento! Se bem me lembro,[n]temos informações sobre[n]um possível alvo.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Vamos dar uma olhada[n]antes de irmos para o Memento.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Vamos dar uma olhada[n]antes de irmos para o Mementos.[n][w][e]
 
 [msg MSG_1st_QUEST_EVENT_00 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1172 65535 0]Bom. Você se lembra qual é a etapa[n]crucial que um Ladrão deve realizar[n]antes de roubar um coração?[n][w][e]
@@ -3730,7 +3730,7 @@
 [s][bup 0 4 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 6184 65535 0]Mas... podemos realmente deixar[n]alguém[n]cuidar de uma coisa tão importante?!?[n][w][e]
 
 [msg MSG_1st_QUEST_EVENT_04d [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Os desejos das Sombras no Memento[n]não são nada comparados aos[n]dos senhores dos Palácios.[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Os desejos das Sombras no Mementos[n]não são nada comparados aos[n]dos senhores dos Palácios.[n][w][e]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]No entanto, os alvos devem ser sempre escolhidos[n]por unanimidade. Mesmo os pequenos.[n][w][e]
 [s][vp 8 2 1 0 65535 0][f 4 10 65535 0 0]De qualquer forma, vamos falar[n]sobre os relatórios que[n]recebemos![n][w][e]
 
@@ -3920,7 +3920,7 @@
 [s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 2 0 7101 65535 0]Ele é um alvo perfeito![n]Vamos, vamos acertá-lo![n][w][e]
 
 [msg MSG_azito_quest_chk03_02 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Tem certeza de que não quer apenas ir para o[n]Memento?[n][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Tem certeza de que não quer apenas ir para o[n]Mementos?[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Por outro lado, não podemos[n]deixá-lo... Devemos[n]intervir.[n][w][e]
 
 [msg MND_azito_quest_04 [Morgana]]
@@ -4792,7 +4792,7 @@
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Em um momento como este...?[n]Eu realmente não concordo, mas[n]acho que não pode ser evitado.[n][w][e]
 
 [msg AZITO_QUEST_TALK_D7_PLAY [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Huh? Gostaria de ir ao Memento?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Huh? Gostaria de ir ao Mementos?[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Concordo. Não faz sentido deixar passar o tempo[n]desnecessariamente até o dia do golpe.[n][w][e]
 
 [msg AZITO_QUEST_TALK_D7_PLAY_2 [Ryuji]]

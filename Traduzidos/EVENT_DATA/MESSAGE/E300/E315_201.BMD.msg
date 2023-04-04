@@ -27,7 +27,7 @@
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Pessoal, escolher alvos grandes[n]valeu a pena![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]A mídia se apaixonou por isso[n]como peras cozidas![n][f 1 3 65535][w][e]
 
-[msg MSG_008_0_0 [Studentessa pettegola]]
+[msg MSG_008_0_0 [Aluno fofoqueiro]]
 [s][vp 8 0 0 0 65535 0]Ei, isso não é[n]um estudante Shujin?[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Morgana]]

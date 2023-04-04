@@ -11,17 +11,17 @@
 [msg e511_630_mes_02 [Yusuke]]
 [s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4035 65535 0]Muito bem. Vamos![n][w][e]
 
-[msg e511_630_mes_03 [Guardia Ombra]]
+[msg e511_630_mes_03 [Guarda sombra]]
 [s]E assim, ouse desafiar Sua Excelência![n][w][e]
 
 [sel e511_630_before_battle_S top]
 [s]Nós passamos.[e]
 [s]Fora do caminho.[e]
 
-[msg e511_630_mes_04 [Guardia Ombra]]
+[msg e511_630_mes_04 [Guarda sombra]]
 [s]Você não vai interferir no trabalho do mestre![n][w][e]
 
-[msg e511_630_mes_05 [Guardia Ombra]]
+[msg e511_630_mes_05 [Guarda sombra]]
 [s]Quem é VOCÊ para me dar ordens?[n][w][e]
 
 [msg D10_12_researcher_enemy0 [Yusuke]]
@@ -85,7 +85,7 @@
 [s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Uh-oh. Essa porta tem uma trava de segurança[n]maluca e não tem nem o scanner...[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos olhar mais de perto![n][w][e]
 
-[msg D10_12_1st_passcode_lock_2 [Voce meccanica]]
+[msg D10_12_1st_passcode_lock_2 [Voz mecânica]]
 [s]Bloqueio de segurança ativo.[n]Responda à seguinte[n]pergunta de autenticação:[n][w][e]
 [s]O que Takuto Maruki sacrificou[n]em troca do poder de[n]reescrever cognições?[n][w][e]
 
@@ -107,7 +107,7 @@
 [msg D10_12_1st_passcode_lock_7 [Ryuji]]
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7158 65535 0]Joker, não deveríamos[n]encontrar as pistas primeiro?[n][w][e]
 
-[msg D10_12_1st_passcode_lock_8 [Voce meccanica]]
+[msg D10_12_1st_passcode_lock_8 [Voz mecânica]]
 [s]Bloqueio de segurança ativo.[n]Responda à seguinte[n]pergunta de autenticação:[n][w][e]
 [s]O que Takuto Maruki sacrificou[n]em troca do poder de[n]reescrever cognições?[n][w][e]
 
@@ -121,13 +121,13 @@
 [s]O mestre dele.[e]
 [s]A namorada dele.[e]
 
-[msg D10_12_1st_passcode_lock_11 [Voce meccanica]]
+[msg D10_12_1st_passcode_lock_11 [Voz mecânica]]
 [s]Resposta errada.[n]Dispositivo de bloqueio ativo.[n][w][e]
 
 [msg D10_12_1st_passcode_lock_12 [Akechi]]
 [s][bup 0 9 800 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 8141 65535 0]Parece que você entendeu errado,[n]Joker. Tente novamente.[n][w][e]
 
-[msg D10_12_1st_passcode_lock_13 [Voce meccanica]]
+[msg D10_12_1st_passcode_lock_13 [Voz mecânica]]
 [s]Autenticação concluída.[n]Bloquear.[n][w][e]
 
 [msg D10_12_1st_passcode_lock_14 [Ryuji]]

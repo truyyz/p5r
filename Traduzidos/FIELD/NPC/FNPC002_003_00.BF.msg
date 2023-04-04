@@ -4,130 +4,130 @@
 [msg KARIOKI_NPC_talk00]
 [s]lugar temporário para alunos NPC[n]que conhecem a relativa fraqueza[n][w][e]
 
-[msg MSG_BUKATSU_NPC01_000_00 [Pallavolista perplessa]]
+[msg MSG_BUKATSU_NPC01_000_00 [Jogador de voleibol perplexo]]
 [s][f 4 23 1 80 3 10 0 10][vp 8 2 1 0 80 0]Parece que o novo aluno[n]atacou Kamoshida.[n][w][e]
 
-[msg MSG_BUKATSU_NPC01_001_00 [Pallavolista preoccupata]]
+[msg MSG_BUKATSU_NPC01_001_00 [Jogador de vôlei preocupado]]
 [s][f 4 23 1 81 3 10 0 10][vp 8 2 1 0 81 0]Kamoshida não aceitou bem.[n]Esse cara deveria se poupar[n]de algumas besteiras...[n][w][e]
 [s][vp 8 2 1 0 81 0]Depois do caso com Suzui-san, não vou[n]ser capaz de suportar nenhum[n]endurecimento de treinamento...[n][w][e]
 
-[msg MSG_BUKATSU_NPC01_002_00 [Pallavolista perplessa]]
+[msg MSG_BUKATSU_NPC01_002_00 [Jogador de voleibol perplexo]]
 [s][f 4 23 1 80 3 10 0 10][vp 8 2 1 0 80 0]Pelo menos eu ouvi que ele vai[n]expulsá-lo. Então as coisas devem[n]funcionar, certo?[n][w][e]
 
-[msg MSG_COOP_MARUKI_NPC_000_ [Studentessa con gli occhiali]]
+[msg MSG_COOP_MARUKI_NPC_000_ [Colegial com óculos]]
 [s][f 4 23 1 151 3 10 0 10][vp 8 2 1 0 151 0]Esta é a enfermaria, sim?[n][w][e]
 
-[msg MSG_COOP_MARUKI_NPC_001_ [Studentessa schietta]]
+[msg MSG_COOP_MARUKI_NPC_001_ [Estudante franco]]
 [s][f 4 23 1 152 3 10 0 10][vp 8 2 1 0 152 0]Vai sentar, hein...[n]Sobre o que você vai falar?[n][w][e]
 
-[msg MSG_COOP_MARUKI_NPC_002_ [Studentessa con gli occhiali]]
+[msg MSG_COOP_MARUKI_NPC_002_ [Colegial com óculos]]
 [s][f 4 23 1 151 3 10 0 10][vp 8 2 1 0 151 0]Vou pensar nisso depois![n][w][e]
 [s][vp 8 2 1 0 151 0]Ei, vamos juntos![n][w][e]
 
-[msg MSG_AKOGAREDANSI_001_0_0 [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_001_0_0 [Aluno dos sonhos]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Ei, o que você acha dos heróis? Você não acha que[n]precisamos deles agora mais do que nunca?[n][w][e]
 
 [sel SEL_AKOGAREDANSI_001_0_0 top]
 [s]O que você está falando?[e]
 [s]Você tem razão.[e]
 
-[msg MSG_AKOGAREDANSI_001_1_0 [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_001_1_0 [Aluno dos sonhos]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Ugh, você estava me ouvindo? Eu[n]sei que você não entende o quão[n]importantes são os heróis.[n][w][e]
 
-[msg MSG_AKOGAREDANSI_001_2_0 [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_001_2_0 [Aluno dos sonhos]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Sim, você entende! Se os heróis[n]precisam de apoiadores,[n]você seria perfeito para o papel![n][w][e]
 
-[msg MSG_AKOGAREDANSI_001_3_0 [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_001_3_0 [Aluno dos sonhos]]
 [s][vp 8 2 1 0 11 0]As pessoas estão sempre procurando por um[n]herói, alguém para salvá-las e[n]varrer a escuridão do mundo.[n][w][e]
 [s][vp 8 2 1 0 11 0]Se é disso que eles precisam,[n]eu irei. Eu serei esse herói.[n]Só eu posso fazer isso![n][w][e]
 
-[msg MSG_AKOGAREDANSI_002_0_0 [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_002_0_0 [Aluno dos sonhos]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Você viu aquela carta de aviso super legal?[n][w][e]
 
 [sel SEL_AKOGAREDANSI_002_0_0 top]
 [s]muito legal?[e]
 [s]carta de aviso?[e]
 
-[msg MSG_AKOGAREDANSI_002_1_0 [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_002_1_0 [Aluno dos sonhos]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Eheh, eu entendo que não é fácil de entender.[n]Heróis são de outra categoria...[n][w][e]
 
 [msg MSG_AKOGAREDANSI_002_2_0 [Studente sognatore]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Hehe. Acho que você não sabe[n]nada sobre isso. Será solitário ser[n]heróis e o mais legal de todos.[n][w][e]
 
-[msg MSG_AKOGAREDANSI_002_3_0 [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_002_3_0 [Aluno dos sonhos]]
 [s][vp 8 2 1 0 11 0]"Vou roubar seus desejos distorcidos e[n]fazer você confessar seus crimes"[n][w][e]
 [s][vp 8 2 1 0 11 0]Uau, que explosão! Isso é muito[n]emocionante de se dizer![n][w][e]
 
-[msg MSG_AKOGAREDANSI_003_0_0 [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_003_0_0 [Aluno dos sonhos]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Argh, sério!?![n]É realmente possível que você tenha[n]descoberto minha outra identidade?[n][w][e]
 
 [sel SEL_AKOGAREDANSI_003_0_0 top]
 [s]Quem é Você?[e]
 [s]O que você está falando?[e]
 
-[msg MSG_AKOGAREDANSI_003_1_0 [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_003_1_0 [Aluno dos sonhos]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Hehe, você já sabe disso, não é?[n][w][e]
 [s][vp 8 2 1 0 11 0]Minhas façanhas têm atraído muita[n]atenção ultimamente. Não estou[n]surpreso por você ter me descoberto...[n][w][e]
 
-[msg MSG_AKOGAREDANSI_003_2_0 [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_003_2_0 [Aluno dos sonhos]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Heheh, não há necessidade de[n]se fazer de bobo.[n][w][e]
 [s][vp 8 2 1 0 11 0]Minhas façanhas têm atraído muita[n]atenção ultimamente. Não estou[n]surpreso por você ter me descoberto...[n][w][e]
 
-[msg MSG_AKOGAREDANSI_003_3_0 [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_003_3_0 [Aluno dos sonhos]]
 [s][vp 8 2 1 0 11 0]Mas o que há entre nós, certo? Não se deve saber[n]que eu sou o ladrão fantasma que derrotou[n]Kamoshida.[n][w][e]
 
-[msg MSG_AKOGAREDANSI_003EX_0 [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_003EX_0 [Aluno dos sonhos]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]O conselheiro que apareceu de repente[n]... será ele um assassino[n]da "Organização"...?[n][w][e]
 
 [sel SEL_AKOGAREDANSI_003EX_0 top]
 [s]Está tudo na sua cabeça.[e]
 [s]Vá a um psicólogo.[e]
 
-[msg MSG_AKOGAREDANSI_003EX_1 [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_003EX_1 [Aluno dos sonhos]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Não... Durante a assembléia da escola eu senti[n]isso claramente. Um olhar penetrante...![n][w][e]
 [s][vp 8 2 1 0 11 0]Seus olhos dizem,[n]"Eu sei quem você é, ladrão fantasma..."[n][w][e]
 
-[msg MSG_AKOGAREDANSI_003EX_2 [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_003EX_2 [Aluno dos sonhos]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]É horrível...ele sabe quem eu sou.[n]Ele sabe que eu sou o Ladrão Fantasma...![n][w][e]
 [s][vp 8 2 1 0 11 0]Se eu fosse a essas[n]sessões, seria capturado[n]pela "Organização"...[n][w][e]
 
-[msg MSG_AKOGAREDANSI_003EX_3 [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_003EX_3 [Aluno dos sonhos]]
 [s][vp 8 2 1 0 11 0]Tenho que ter cuidado com o que digo sobre o Dr.[n]Maruki.[n][w][e]
 
-[msg MSG_AKOGAREDANSI_004_0_0 [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_004_0_0 [Aluno dos sonhos]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]O falso herói, Kamoshida, caiu![n]O futuro de Shujin está seguro[n]enquanto eu estiver lá para protegê-lo![n][w][e]
 
 [sel SEL_AKOGAREDANSI_004_0_0 top]
 [s]Falso herói...?[e]
 [s]Você é apenas um solitário.[e]
 
-[msg MSG_AKOGAREDANSI_004_1_0 [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_004_1_0 [Aluno dos sonhos]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]S-Sim! Kamoshida enganou a todos[n]impondo-se como um herói,[n]mas ele não era um herói de jeito nenhum![n][w][e]
 [s][vp 8 2 1 0 11 0]Ah, e não conte a ninguém sobre minha[n]verdadeira identidade. Não se sabe[n]que eu sou um Ladrão Fantasma![n][w][e]
 
-[msg MSG_AKOGAREDANSI_004_2_0 [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_004_2_0 [Aluno dos sonhos]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]E-Ei! Não é verdade! Eu luto contra o mal por[n]todos vocês, e vocês me retribuem assim?[n][w][e]
 [s][vp 8 2 1 0 11 0]Você vai se arrepender de me deixar com raiva![n]Vou roubar seu coração distorcido e curá-lo![n][w][e]
 
-[msg MSG_AKOGAREDANSI_005_0_0 [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_005_0_0 [Aluno dos sonhos]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Parece que a mídia está[n]espreitando em todos os lugares.[n]Pode ser um problema...[n][w][e]
 
 [sel SEL_AKOGAREDANSI_005_0_0 top]
 [s]Você está falando sozinho?[e]
 [s]O que você está falando?[e]
 
-[msg MSG_AKOGAREDANSI_005_1_0 [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_005_1_0 [Aluno dos sonhos]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Oh! Ignore o que eu disse.[n]Não consigo chamar muita[n]atenção para mim.[n][w][e]
 [s][vp 8 2 1 0 11 0]Mas não posso ficar parado assistindo[n]enquanto alguém rouba os[n]inocentes. Eu tenho de fazer alguma coisa...[n][w][e]
 
-[msg MSG_AKOGAREDANSI_005_2_0 [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_005_2_0 [Aluno dos sonhos]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Com toda a atenção que estou recebendo, não tenho[n]mais privacidade. Você não consegue entender...[n][w][e]
 [s][vp 8 2 1 0 11 0]Mas não é hora de relaxar.[n]Nos fansites dos Phantom Thieves,[n]muitas pessoas me visitam.[n][w][e]
 
-[msg MSG_AKOGAREDANSI_005_3_0 [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_005_3_0 [Aluno dos sonhos]]
 [s][vp 8 2 1 0 11 0]O mundo está cheio de vilões.[n]É dever dos heróis se livrar deles![n]Sim, é meu destino...[n][w][e]
 
-[msg MSG_AKOGAREDANSI_006_0_0 [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_006_0_0 [Aluno dos sonhos]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Coisa? Não acredito que um civil está falando[n]comigo...[n][w][e]
 [s][vp 8 2 1 0 11 0]Mas o que eu posso fazer. Após[n]o incidente de Madarame, minha[n]fama disparou.[n][w][e]
 
@@ -135,47 +135,47 @@
 [s]Mas do que você está falando?[e]
 [s]Tem certeza de que se sente bem?[e]
 
-[msg MSG_AKOGAREDANSI_006_1_0 [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_006_1_0 [Aluno dos sonhos]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Os verdadeiros heróis podem estar mais perto de[n]você do que você pensa. Mesmo você pode estar[n]enfrentando um.[n][w][e]
 [s][vp 8 2 1 0 11 0]Ah, eu não posso te contar mais.[n]Existem regras que um herói[n]deve obedecer, afinal.[n][w][e]
 
-[msg MSG_AKOGAREDANSI_006_2_0 [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_006_2_0 [Aluno dos sonhos]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Heheh, entendo por que você pensa assim.[n]Os heróis são lobos solitários que[n]são muitas vezes incompreendidos.[n][w][e]
 [s][vp 8 2 1 0 11 0]Mas é melhor assim. Seria tolice[n]envolver pessoas inocentes na[n]luta pela paz mundial.[n][w][e]
 
-[msg MSG_AKOGAREDANSI_007_0_0 [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_007_0_0 [Aluno dos sonhos]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]O vento está gritando...[n]"Eles" devem[n]ter entrado em ação "deste lado".[n][w][e]
 
 [sel SEL_AKOGAREDANSI_007_0_0 top]
 [s]Este lado?[e]
 [s]Deles?[e]
 
-[msg MSG_AKOGAREDANSI_007_1_0 [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_007_1_0 [Aluno dos sonhos]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]A carta de contestação foi enviada[n]para aquela organização criminosa,[n]mas eu não pensei...[n][w][e]
 
-[msg MSG_AKOGAREDANSI_007_2_0 [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_007_2_0 [Aluno dos sonhos]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Você sabe, aquela[n]organização criminosa. Você não viu a[n]carta de aviso...[n][w][e]
 
-[msg MSG_AKOGAREDANSI_007_3_0 [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_007_3_0 [Aluno dos sonhos]]
 [s][vp 8 2 1 0 11 0]...Oh não. Falei demais. Para[n]sua segurança, não posso arriscar[n]divulgar mais nenhuma informação secreta.[n][w][e]
 
-[msg MSG_AKOGAREDANSI_008_0_0 [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_008_0_0 [Aluno dos sonhos]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]*anf anf* Eu usei[n]meus poderes demais... Estou exausto, mas[n]consegui derrotá-los...[n][w][e]
 
 [sel SEL_AKOGAREDANSI_008_0_0 top]
 [s]O que você vai fazer?[e]
 [s]Dê a si mesmo uma pausa.[e]
 
-[msg MSG_AKOGAREDANSI_008_1_0 [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_008_1_0 [Aluno dos sonhos]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Eheh... Quem teria pensado[n]que Kaneshiro tinha[n]um ás na manga...?[n][w][e]
 
-[msg MSG_AKOGAREDANSI_008_2_0 [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_008_2_0 [Aluno dos sonhos]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Desmantelar a máfia em uma[n]noite é uma tarefa difícil, mesmo[n]para alguém como eu.[n][w][e]
 
-[msg MSG_AKOGAREDANSI_008_3_0 [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_008_3_0 [Aluno dos sonhos]]
 [s][vp 8 2 1 0 11 0]As pessoas continuam chamando por um[n]herói para derrotar o mal... Mas[n]agora eu preciso descansar...[n][w][e]
 
-[msg MSG_AKOGAREDANSI_008_01_ [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_008_01_ [Aluno dos sonhos]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Mmm, eu os ouço! As vozes que[n]clamam por minha ajuda...![n][w][e]
 [s][vp 8 2 1 0 11 0]Eu ouço a voz desesperada de um[n]estudioso que não[n]obteve os resultados desejados...![n][w][e]
 
@@ -183,15 +183,15 @@
 [s]Eu não sinto nada.[e]
 [s]Você está imaginando isso.[e]
 
-[msg MSG_AKOGAREDANSI_008_01__2 [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_008_01__2 [Aluno dos sonhos]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Umpf, claro que não, você é um[n]amador. Para ouvir a voz você deve[n]ter muita experiência, como eu.[n][w][e]
 [s][vp 8 2 1 0 11 0]Espere, pobre garota![n]Vou enviar-lhe a energia para[n]fazer você se sentir melhor...![n][w][e]
 
-[msg MSG_AKOGAREDANSI_008_01__3 [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_008_01__3 [Aluno dos sonhos]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Umpf, é claro que você não ouve.[n]Eu percebo comprimentos de onda[n]não disponíveis para pessoas comuns.[n][w][e]
 [s][vp 8 2 1 0 11 0]Espere, pobre garota![n]Vou enviar-lhe a energia para[n]fazer você se sentir melhor...![n][w][e]
 
-[msg MSG_AKOGAREDANSI_009_0_0 [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_009_0_0 [Aluno dos sonhos]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Ciberterroristas globais…[n]Eles costumavam ser muito durões, mas agora[n]o mundo está a salvo deles.[n][w][e]
 [s][vp 8 2 1 0 11 0]Ainda ninguém sabe quem eu sou,[n]embora. Hehe... Se eles soubessem.[n][w][e]
 
@@ -199,15 +199,15 @@
 [s]Como você os derrotou?[e]
 [s]Mas você nunca estuda?[e]
 
-[msg MSG_AKOGAREDANSI_009_1_0 [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_009_1_0 [Aluno dos sonhos]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]E-eu os venci em seu próprio[n]jogo, é claro. Internet,[n]técnicas de hacking e computadores![n][w][e]
 [s][vp 8 2 1 0 11 0]Eles ficaram desamparados quando comecei[n]a digitar na velocidade louca[n]de 100 palavras por hora! Muahahahah![n][w][e]
 
-[msg MSG_AKOGAREDANSI_009_2_0 [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_009_2_0 [Aluno dos sonhos]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]...Hmm? Não estou aqui para estudar.[n]Estou muito ocupado com o site Phantom Thief[n]...[n][w][e]
 [s][vp 8 2 1 0 11 0]Além disso, estudar não é importante.[n]Ou pelo menos não quando você tem que[n]proteger a paz mundial![n][w][e]
 
-[msg MSG_AKOGAREDANSI_010_0_0 [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_010_0_0 [Aluno dos sonhos]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Eu nunca pensei que o[n]diretor morreria assim...[n][w][e]
 [s][vp 8 2 1 0 11 0]Se ao menos eu tivesse sido mais vigilante.[n]Eu falhei em meu compromisso como[n]Phantom Thief of Hearts.[n][w][e]
 
@@ -215,15 +215,15 @@
 [s]É uma tragédia.[e]
 [s]Você não tem nada a ver com isso.[e]
 
-[msg MSG_AKOGAREDANSI_010_1_0 [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_010_1_0 [Aluno dos sonhos]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Eu sei isso. Lamento desapontá-lo,[n]mas os heróis não são perfeitos.[n]Até nós temos limites.[n][w][e]
 [s][vp 8 2 1 0 11 0]Mas não vou desistir. Em tempos como[n]estes, darei esperança a[n]pessoas e não as decepcionarei![n][w][e]
 
-[msg MSG_AKOGAREDANSI_010_2_0 [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_010_2_0 [Aluno dos sonhos]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]É gentileza sua. Mas não tenha medo. Eu nunca vou[n]cometer tal erro novamente.[n][w][e]
 [s][vp 8 2 1 0 11 0]Sim, este é um teste do destino.[n]Farei de tudo para honrar a[n]confiança depositada em mim![n][w][e]
 
-[msg MSG_AKOGAREDANSI_011_0_0 [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_011_0_0 [Aluno dos sonhos]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Você viu a carta de aviso?[n]O próximo alvo é Okumura, o[n]chefe de uma empresa corrupta.[n][w][e]
 [s][vp 8 2 1 0 11 0]Dizem que sua filha frequenta o[n]Shujin, mas não posso vacilar.[n]O mal deve ser derrotado.[n][w][e]
 
@@ -231,13 +231,13 @@
 [s]Parece cansativo.[e]
 [s]Você está dramatizando demais.[e]
 
-[msg MSG_AKOGAREDANSI_011_1_0 [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_011_1_0 [Aluno dos sonhos]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]É pelo bem da paz mundial.[n]Ser capaz de trazer sorrisos de volta para[n]as pessoas é a maior recompensa.[n][w][e]
 
-[msg MSG_AKOGAREDANSI_011_2_0 [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_011_2_0 [Aluno dos sonhos]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Despreocupado deve ser bonito. Eu também gostaria[n]de poder viver uma vida civil normal e pacífica.[n][w][e]
 
-[msg MSG_AKOGAREDANSI_012_0_0 [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_012_0_0 [Aluno dos sonhos]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]O que os Phantom Thieves fizeram de errado!?! Esse[n]"assassinato" deve ser uma piada![n][w][e]
 [s][vp 8 2 1 0 11 0]O que? Você também não acredita em mim? Pare com[n]isso! Pare de me dar esse olhar acusador![n][w][e]
 
@@ -245,15 +245,15 @@
 [s]Vá com calma.[e]
 [s]Entregue-se.[e]
 
-[msg MSG_AKOGAREDANSI_012_1_0 [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_012_1_0 [Aluno dos sonhos]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Me desculpe... eu exagerei.[n]É só que me irrita que[n]a sociedade fale tão mal deles.[n][w][e]
 [s][vp 8 2 1 0 11 0]Os Phantom Thieves vão se sentir traídos. E eu[n]sei. Porque eu também sou um ladrão fantasma.[n][w][e]
 
-[msg MSG_AKOGAREDANSI_012_2_0 [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_012_2_0 [Aluno dos sonhos]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Porque? Oh, certo! Sendo um[n]ladrão fantasma, eu deveria[n]considerar me entregar![n][w][e]
 [s][vp 8 2 1 0 11 0]Deve haver uma boa razão[n]por que eles fizeram isso. Eu quero[n]confiar neles...[n][w][e]
 
-[msg MSG_AKOGAREDANSI_013_0_0 [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_013_0_0 [Aluno dos sonhos]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Tem um amigo meu...[n]se passando por algum tipo de[n]celebridade.[n][w][e]
 [s][vp 8 2 1 0 11 0]O problema é que essa celebridade[n]pode realmente ser um[n]criminoso… O que devo fazer?[n][w][e]
 
@@ -261,17 +261,17 @@
 [s]Confesse a coisa.[e]
 [s]Esconda a verdade.[e]
 
-[msg MSG_AKOGAREDANSI_013_1_0 [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_013_1_0 [Aluno dos sonhos]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Mas então eu... Hum, quero dizer,[n]meu amigo, poderia se meter em[n]grandes problemas.[n][w][e]
 
-[msg MSG_AKOGAREDANSI_013_2_0 [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_013_2_0 [Aluno dos sonhos]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Mas então eu… Hum, quer dizer,[n]meu amigo, viveria todos os dias[n]com medo de ser preso.[n][w][e]
 
-[msg MSG_AKOGAREDANSI_013_3_0 [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_013_3_0 [Aluno dos sonhos]]
 [s][vp 8 2 1 0 11 0]Se os Phantom Thieves ainda fossem[n]heróis, eu não teria[n]teria que passar por isso.[n][w][e]
 [s][vp 8 2 1 0 11 0]Hum, eu estava me referindo[n]ao meu amigo, sabe, certo?[n][w][e]
 
-[msg MSG_AKOGAREDANSI_014_0_0 [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_014_0_0 [Aluno dos sonhos]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Os Phantom Thieves costumavam ser muito legais,[n]mas agora todos os tratam como criminosos.[n][w][e]
 [s][vp 8 2 1 0 11 0]Fingi ser um deles porque os idolatrava, mas[n]agora me pergunto o que é a verdadeira justiça.[n][w][e]
 [s][vp 8 2 1 0 11 0]Ei, acha que pode me dizer o que[n]define um verdadeiro herói?[n][w][e]
@@ -280,15 +280,15 @@
 [s]Pense por si mesmo.[e]
 [s]Todo mundo tem sua própria ideia.[e]
 
-[msg MSG_AKOGAREDANSI_014_1_0 [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_014_1_0 [Aluno dos sonhos]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Você tem razão. Vou tentar. Um herói[n]é alguém que ajuda alguém[n]outro que... precisa de ajuda.[n][w][e]
 [s][vp 8 2 1 0 11 0]Argh, eu sei que parece bobo![n]É só que logo de cara[n]tudo que eu conseguia pensar era qualquer outra coisa.[n][w][e]
 
-[msg MSG_AKOGAREDANSI_014_2_0 [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_014_2_0 [Aluno dos sonhos]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Eu vejo. Mesmo se eu me tornasse um Ladrão[n]Fantasma, não seria um herói se não ajudasse[n]ninguém.[n][w][e]
 [s][vp 8 2 1 0 11 0]Eheh... Obrigado, você realmente me ajudou. Acho[n]que isso significa que você é meu herói, hein?[n][w][e]
 
-[msg MSG_AKOGAREDANSI_015_0_0 [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_015_0_0 [Aluno dos sonhos]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Que estranho. Os Phantom Thieves[n]deveriam fazer seu[n]retorno, mas ninguém fala sobre isso.[n][w][e]
 [s][vp 8 2 1 0 11 0]Foi tudo uma ilusão?[n]Estou ficando louco?[n][w][e]
 
@@ -296,16 +296,16 @@
 [s]Não, eles são reais.[e]
 [s]Você sempre foi louco.[e]
 
-[msg MSG_AKOGAREDANSI_015_1_0 [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_015_1_0 [Aluno dos sonhos]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]verdade!?! Phantom Thieves[n]tem que existir![n][w][e]
 
-[msg MSG_AKOGAREDANSI_015_2_0 [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_015_2_0 [Aluno dos sonhos]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Oh vamos lá! Não me diga que você[n]não sabia sobre o glorioso[n]retorno deles!?![n][w][e]
 
-[msg MSG_AKOGAREDANSI_015_3_0 [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_015_3_0 [Aluno dos sonhos]]
 [s][vp 8 2 1 0 11 0]Mas é estranho que eu duvide de tudo[n]isso. Quero dizer, eu sempre os[n]idolei tanto...[n][w][e]
 
-[msg MSG_AKOGAREDANSI_016_0_0 [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_016_0_0 [Aluno dos sonhos]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Não sei o que será de mim esse ano...[n][w][e]
 [s][vp 8 2 1 0 11 0]Devo esperar que os Phantom Thieves[n]voltem ou deixá-lo ir?[n][w][e]
 
@@ -313,17 +313,17 @@
 [s]Mantenha a esperança.[e]
 [s]Não conte com isso.[e]
 
-[msg MSG_AKOGAREDANSI_016_1_0 [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_016_1_0 [Aluno dos sonhos]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Esperando por um pedido de desculpas de[n]pessoas más todos os dias...[n]É isso que eu quero?[n][w][e]
 
-[msg MSG_AKOGAREDANSI_016_2_0 [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_016_2_0 [Aluno dos sonhos]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Quando os Ladrões[n]não existirem mais, os vilões[n]podem surgir novamente...[n][w][e]
 
-[msg MSG_AKOGAREDANSI_016_3_0 [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_016_3_0 [Aluno dos sonhos]]
 [s][vp 8 2 1 0 11 0]Tenho a sensação de que será um problema[n]significativo.[n][w][e]
 [s][vp 8 2 1 0 11 0]Acho que vou precisar de algum[n]tempo para pensar sobre isso.[n]Vou deixar você saber.[n][w][e]
 
-[msg MSG_AKOGAREDANSI_017_0_0 [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_017_0_0 [Aluno dos sonhos]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]O ano novo já passou[n]um tempo atrás, mas nada[n]aconteceu e tudo está em silêncio.[n][w][e]
 [s][vp 8 2 1 0 11 0]Isso significa que a sociedade[n]mudou graças aos[n]Phantom Thieves?[n][w][e]
 
@@ -331,326 +331,326 @@
 [s]Você tem razão.[e]
 [s]Você está errado.[e]
 
-[msg MSG_AKOGAREDANSI_017_1_0 [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_017_1_0 [Aluno dos sonhos]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Eles foram heróis, realmente.[n]Estou feliz por[n]nunca os decepcionar.[n][w][e]
 
-[msg MSG_AKOGAREDANSI_017_2_0 [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_017_2_0 [Aluno dos sonhos]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Acho que há coisas que[n]mesmo eles não podem fazer...[n][w][e]
 [s][vp 8 2 1 0 11 0]Mas eles fizeram o possível.[n]Acho que isso já é o suficiente[n]para torná-los heróis.[n][w][e]
 
-[msg MSG_AKOGAREDANSI_017_3_0 [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_017_3_0 [Aluno dos sonhos]]
 [s][vp 8 2 1 0 11 0]Os Ladrões Fantasmas...[n]Quem sabe de onde eles vieram[n]e para onde foram.[n][w][e]
 
-[msg MSG_AKOGAREDANSI_018_0_0 [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_018_0_0 [Aluno dos sonhos]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Já que estou me formando...[n]Chegou a hora de[n]contar meu segredo.[n][w][e]
 
 [sel SEL_AKOGAREDANSI_018_0_0 top]
 [s]Um segredo sobre você?[e]
 [s]Eu não me importo.[e]
 
-[msg MSG_AKOGAREDANSI_018_1_0 [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_018_1_0 [Aluno dos sonhos]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Hehehe, isso mesmo. No entanto, eu[n]recentemente fiz minha estreia.[n][w][e]
 
-[msg MSG_AKOGAREDANSI_018_2_0 [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_018_2_0 [Aluno dos sonhos]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Muitas vezes as pessoas não percebem o que está[n]acontecendo debaixo de seus narizes. Como você,[n]você está olhando para um herói![n][w][e]
 
-[msg MSG_AKOGAREDANSI_018_3_0 [Studente sognatore]]
+[msg MSG_AKOGAREDANSI_018_3_0 [Aluno dos sonhos]]
 [s][vp 8 2 1 0 11 0]Um herói deve agir de acordo com sua[n]crença, não importa quais[n]suas chances de sucesso sejam...[n][w][e]
 [s][vp 8 2 1 0 11 0]Então comecei a me ocupar![n]Só pequenas coisas, por enquanto, como[n]coletar lixo para a cidade.[n][w][e]
 
-[msg MSG_UNDOUBUIN_001_0_0 [Cestista alla mano]]
+[msg MSG_UNDOUBUIN_001_0_0 [Jogador de basquete na mão]]
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Eles nos expulsaram do[n]ginásio novamente. Eles sempre dão[n]prioridade aos jogadores de vôlei![n][w][e]
 [s][vp 8 2 1 0 7 0]E eu não suporto como Kamoshida[n]consegue pegar todas[n]garotas, com essa cara feia![n][w][e]
 
-[msg MSG_UNDOUBUIN_001_1_0 [Calciatore brusco]]
+[msg MSG_UNDOUBUIN_001_1_0 [Jogador de futebol abrupto]]
 [s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Bem, ele é basicamente o símbolo[n]de Shujin e sua equipe a[n]atração principal.[n][w][e]
 
-[msg MSG_UNDOUBUIN_001_2_0 [Cestista alla mano]]
+[msg MSG_UNDOUBUIN_001_2_0 [Jogador de basquete na mão]]
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]O time de vôlei também recebe[n]todos os recrutas decentes![n]Por que sempre pegamos os piores?[n][w][e]
 
-[msg MSG_UNDOUBUIN_001_3_0 [Calciatore brusco]]
+[msg MSG_UNDOUBUIN_001_3_0 [Jogador de futebol abrupto]]
 [s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Vamos, não leve muito a sério.[n]É difícil, mas temos que ser[n]pacientes. O vento vai mudar![n][w][e]
 
-[msg MSG_UNDOUBUIN_002_0_0 [Cestista alla mano]]
+[msg MSG_UNDOUBUIN_002_0_0 [Jogador de basquete na mão]]
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Alguém pulou do telhado[n]no meio das aulas...[n]Que loucura.[n][w][e]
 [s][vp 8 2 1 0 7 0]Eu queria pedir a Takamaki para[n]nos administrar, mas agora[n]definitivamente não é o caso.[n][w][e]
 
-[msg MSG_UNDOUBUIN_002_1_0 [Calciatore brusco]]
+[msg MSG_UNDOUBUIN_002_1_0 [Jogador de futebol abrupto]]
 [s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Essa garota? Ela é modelo, certo?[n]Ah, e se ela é americana, ela[n]sabe de basquete.[n][w][e]
 
-[msg MSG_UNDOUBUIN_002_2_0 [Cestista alla mano]]
+[msg MSG_UNDOUBUIN_002_2_0 [Jogador de basquete na mão]]
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Errado, ela é apenas um quarto americana. Mas é[n]difícil abordagem. Ele tem uma aura estranha...[n][w][e]
 
-[msg MSG_UNDOUBUIN_002_01_0_0 [Cestista alla mano]]
+[msg MSG_UNDOUBUIN_002_01_0_0 [Jogador de basquete na mão]]
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Ei, é verdade que aquele aluno que[n]se mudou para cá este ano[n]brigou com Kamoshida?[n][w][e]
 
-[msg MSG_UNDOUBUIN_002_01_1_0 [Calciatore brusco]]
+[msg MSG_UNDOUBUIN_002_01_1_0 [Jogador de futebol abrupto]]
 [s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Já. Já ouvi falar[n]que o cara tá sempre[n]procurando briga.[n][w][e]
 [s][vp 8 2 1 0 6 0]Sakamoto e Mishima também estão envolvidos.[n]Talvez todos os três sejam expulsos.[n][w][e]
 
-[msg MSG_UNDOUBUIN_002_01_2_0 [Cestista alla mano]]
+[msg MSG_UNDOUBUIN_002_01_2_0 [Jogador de basquete na mão]]
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Eu não dou a mínima para Sakamoto,[n]mas Mishima está no[n]time de vôlei, certo? Ele teve coragem.[n][w][e]
 
-[msg MSG_UNDOUBUIN_002_02_0_0 [Cestista alla mano]]
+[msg MSG_UNDOUBUIN_002_02_0_0 [Jogador de basquete na mão]]
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Você já ouviu falar daquele aluno exemplar?[n][w][e]
 
-[msg MSG_UNDOUBUIN_002_02_1_0 [Calciatore brusco]]
+[msg MSG_UNDOUBUIN_002_02_1_0 [Jogador de futebol abrupto]]
 [s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Ah, aquela que faz ginástica...[n]Ela me surpreendeu. Achei que ela[n]entraria no time de vôlei.[n][w][e]
 [s][vp 8 2 1 0 6 0]Talvez, com essa história,[n]outros clubes também recebam[n]mais atenção...[n][w][e]
 
-[msg MSG_UNDOUBUIN_002_02_2_0 [Cestista alla mano]]
+[msg MSG_UNDOUBUIN_002_02_2_0 [Jogador de basquete na mão]]
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Esse não é o ponto![n]Ouvi dizer que ela é[n]super fofa![n][w][e]
 
-[msg MSG_UNDOUBUIN_002_02_3_0 [Calciatore brusco]]
+[msg MSG_UNDOUBUIN_002_02_3_0 [Jogador de futebol abrupto]]
 [s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Idiota! Se você tiver tempo para correr[n]atrás de garotas,[n]apenas corra![n][w][e]
 
-[msg MSG_UNDOUBUIN_003_0_0 [Cestista alla mano]]
+[msg MSG_UNDOUBUIN_003_0_0 [Jogador de basquete na mão]]
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]O time de vôlei está de férias[n]e a academia é gratuita. Podemos[n]fazer exercício sempre que quisermos![n][w][e]
 
-[msg MSG_UNDOUBUIN_003_1_0 [Calciatore brusco]]
+[msg MSG_UNDOUBUIN_003_1_0 [Jogador de futebol abrupto]]
 [s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Mas como eu treino?[n]Muita agitação para a tentativa[n]suicídio e a carta-desafio.[n][w][e]
 
-[msg MSG_UNDOUBUIN_003_2_0 [Cestista alla mano]]
+[msg MSG_UNDOUBUIN_003_2_0 [Jogador de basquete na mão]]
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]O que há com essa coisa de "confessar seus[n]crimes"? Ele realmente puniu corporativamente[n]seus alunos?[n][w][e]
 
-[msg MSG_UNDOUBUIN_003_3_0 [Calciatore brusco]]
+[msg MSG_UNDOUBUIN_003_3_0 [Jogador de futebol abrupto]]
 [s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Eles não serão nossos colegas de equipe, mas vêm[n]para a escola conosco. Espero que estejam todos[n]bem.[n][w][e]
 
-[msg MSG_UNDOUBUIN_004_0_0 [Calciatore brusco]]
+[msg MSG_UNDOUBUIN_004_0_0 [Jogador de futebol abrupto]]
 [s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Eu costumava admirar Kamoshida como atleta,[n]mas ele se tornou um verdadeiro saco[n]de merda...[n][w][e]
 
-[msg MSG_UNDOUBUIN_004_1_0 [Cestista alla mano]]
+[msg MSG_UNDOUBUIN_004_1_0 [Jogador de basquete na mão]]
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Adeus aos privilégios da equipe de vôlei. Bem,[n]não que as outras equipes fossem tão boas.[n][w][e]
 [s][vp 8 2 1 0 7 0]Mas agora pelo menos podemos recrutar quem[n]quisermos e usar a academia. O cetro pertence ao[n]time de basquete![n][w][e]
 
-[msg MSG_UNDOUBUIN_004_2_0 [Calciatore brusco]]
+[msg MSG_UNDOUBUIN_004_2_0 [Jogador de futebol abrupto]]
 [s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Você diz isso! Se alguém[n]merece o trono, somos nós[n]do time de futebol![n][w][e]
 
-[msg MSG_UNDOUBUIN_004EX_0_0 [Cestista alla mano]]
+[msg MSG_UNDOUBUIN_004EX_0_0 [Jogador de basquete na mão]]
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Aposto que você odeia sessões.[n]Você prefere resolver tudo com[n]força de vontade sozinho, certo?[n][w][e]
 
-[msg MSG_UNDOUBUIN_004EX_1_0 [Calciatore brusco]]
+[msg MSG_UNDOUBUIN_004EX_1_0 [Jogador de futebol abrupto]]
 [s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Ao contrário. No esporte[n]a saúde mental é tão importante[n]quanto a saúde física.[n][w][e]
 [s][vp 8 2 1 0 6 0]Se você não tem controle total[n]sobre a mente, o corpo[n]não se move como você deseja.[n][w][e]
 
-[msg MSG_UNDOUBUIN_004EX_2_0 [Cestista alla mano]]
+[msg MSG_UNDOUBUIN_004EX_2_0 [Jogador de basquete na mão]]
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Na verdade… Costumo errar[n]arremessos em momentos decisivos.[n][w][e]
 [s][vp 8 2 1 0 7 0]Quem sabe se me sentirei melhor[n]após algumas sessões.[n][w][e]
 
-[msg MSG_UNDOUBUIN_005_0_0 [Calciatore brusco]]
+[msg MSG_UNDOUBUIN_005_0_0 [Jogador de futebol abrupto]]
 [s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]O time de vôlei está uma bagunça,[n]e antes dos playoffs[n]do torneio. Eu me sinto péssimo por eles.[n][w][e]
 
-[msg MSG_UNDOUBUIN_005_1_0 [Cestista alla mano]]
+[msg MSG_UNDOUBUIN_005_1_0 [Jogador de basquete na mão]]
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Eles têm que morder a bala. Já era hora de[n]alguém tirá-los[n]do pedestal.[n][w][e]
 [s][vp 8 2 1 0 7 0]Elogie os Phantom Thieves! Eu os assistiria para o[n]esquadrão deles se pudesse![n][w][e]
 
-[msg MSG_UNDOUBUIN_005_2_0 [Calciatore brusco]]
+[msg MSG_UNDOUBUIN_005_2_0 [Jogador de futebol abrupto]]
 [s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Umpf, não se concentre muito em[n]talento. É mais importante treinar[n]para desenvolvê-lo![n][w][e]
 
-[msg MSG_UNDOUBUIN_005_01_0_0 [Calciatore brusco]]
+[msg MSG_UNDOUBUIN_005_01_0_0 [Jogador de futebol abrupto]]
 [s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Aparentemente, algumas garotas[n]estão brincando.[n][w][e]
 
-[msg MSG_UNDOUBUIN_005_01_1_0 [Cestista alla mano]]
+[msg MSG_UNDOUBUIN_005_01_1_0 [Jogador de basquete na mão]]
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Ah! É simples inveja. Eles[n]não gostam que Yoshizawa-san receba[n]tratamento especial.[n][w][e]
 [s][vp 8 2 1 0 7 0]Nós a apoiaremos,[n]não importa o que[n]as pessoas digam sobre ela![n][w][e]
 
-[msg MSG_UNDOUBUIN_005_01_2_0 [Calciatore brusco]]
+[msg MSG_UNDOUBUIN_005_01_2_0 [Jogador de futebol abrupto]]
 [s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Exatamente! Vou continuar apoiando ela,[n]afinal ela dedica a juventude[n]ao esporte assim como nós![n][w][e]
 
-[msg MSG_UNDOUBUIN_006_0_0 [Cestista alla mano]]
+[msg MSG_UNDOUBUIN_006_0_0 [Jogador de basquete na mão]]
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Oh, cara, eu fiz xixi nas calças[n]vendo aquele velho reclamar[n]na coletiva de imprensa![n][w][e]
 
-[msg MSG_UNDOUBUIN_006_1_0 [Calciatore brusco]]
+[msg MSG_UNDOUBUIN_006_1_0 [Jogador de futebol abrupto]]
 [s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Que pena. Um artista famoso[n]como ele que explora seus[n]próprios alunos.[n][w][e]
 [s][vp 8 2 1 0 6 0]Mas eu gostaria de saber mais sobre os Phantom[n]Thieves. Eles fizeram exatamente a mesma coisa[n]com Kamoshida.[n][w][e]
 
-[msg MSG_UNDOUBUIN_006_2_0 [Cestista alla mano]]
+[msg MSG_UNDOUBUIN_006_2_0 [Jogador de basquete na mão]]
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]E se eles realmente frequentarem Shujin? Quem[n]sabe se eles se juntariam ao time de basquete.[n][w][e]
 
-[msg MSG_UNDOUBUIN_007_0_0 [Cestista alla mano]]
+[msg MSG_UNDOUBUIN_007_0_0 [Jogador de basquete na mão]]
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]É bom poder usar a academia,[n]mas... é como fazer sauna[n]aqui.[n][w][e]
 
-[msg MSG_UNDOUBUIN_007_1_0 [Membro della squadra del calciatore brusco]]
+[msg MSG_UNDOUBUIN_007_1_0 [Membro da equipe do jogador de futebol mal-humorado]]
 [s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Ahah, você quer acabar com isso aqui já? Como[n]esperar vencer sem cuspir[n]um pouco de sangue?[n][w][e]
 
-[msg MSG_UNDOUBUIN_007_2_0 [Cestista alla mano]]
+[msg MSG_UNDOUBUIN_007_2_0 [Jogador de basquete na mão]]
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Você fica muito animado com as coisas.[n]Você não sabe que as gatas preferem[n]tipos calmos e casuais?[n][w][e]
 [s][vp 8 2 1 0 7 0]Eles querem caras como Goro Akechi,[n]aquele detetive que estava na[n]TV outro dia.[n][w][e]
 
-[msg MSG_UNDOUBUIN_007_3_0 [Calciatore brusco]]
+[msg MSG_UNDOUBUIN_007_3_0 [Jogador de futebol abrupto]]
 [s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Ah com certeza. Esse cara pode ser[n]inteligente, mas ele é muito magro[n]para jogar futebol![n][w][e]
 
-[msg MSG_UNDOUBUIN_008_0_0 [Calciatore brusco]]
+[msg MSG_UNDOUBUIN_008_0_0 [Jogador de futebol abrupto]]
 [s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Há uma competição de ginástica em breve, e o[n]sujeito estará participando. Deve ter o apoio de[n]toda a escola.[n][w][e]
 [s]O que acontece? Vejo você de mau humor.[n][w][e]
 
-[msg MSG_UNDOUBUIN_008_1_0 [Cestista alla mano]]
+[msg MSG_UNDOUBUIN_008_1_0 [Jogador de basquete na mão]]
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Não, falando sobre corridas como esta...[n]Você sabe que eu perdi as primárias, certo?[n][w][e]
 
-[msg MSG_UNDOUBUIN_008_2_0 [Calciatore brusco]]
+[msg MSG_UNDOUBUIN_008_2_0 [Jogador de futebol abrupto]]
 [s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Do que você está falando?[n]Foi um bom jogo![n]Você é o vencedor espiritual![n][w][e]
 
-[msg MSG_UNDOUBUIN_009_0_0 [Cestista alla mano]]
+[msg MSG_UNDOUBUIN_009_0_0 [Jogador de basquete na mão]]
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Há muita agitação no site[n]Phantom Thieves agora que eles[n]enviaram outra carta de aviso.[n][w][e]
 [s][vp 8 2 1 0 7 0]Estive acordado lendo todos[n]os posts e agora estou morrendo de sono.[n]Não estou com vontade de treinar...[n][w][e]
 
-[msg MSG_UNDOUBUIN_009_1_0 [Calciatore brusco]]
+[msg MSG_UNDOUBUIN_009_1_0 [Jogador de futebol abrupto]]
 [s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]O que você está fazendo!?![n][w][e]
 [s][vp 8 2 1 0 6 0]Cabe a nós trazer o orgulho de[n]Shujin agora que o[n]time de vôlei caiu em desgraça![n][w][e]
 
-[msg MSG_UNDOUBUIN_009_2_0 [Cestista alla mano]]
+[msg MSG_UNDOUBUIN_009_2_0 [Jogador de basquete na mão]]
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Você tem razão. No terceiro ano[n]todos se retiraram, devo[n]honrar meu papel como capitão.[n][w][e]
 
-[msg MSG_UNDOUBUIN_010_0_0 [Cestista alla mano]]
+[msg MSG_UNDOUBUIN_010_0_0 [Jogador de basquete na mão]]
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Os ladrões fantasmas são reais? Eles dizem[n]que até despertaram os[n]corações dos mafiosos. Louco.[n][w][e]
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Heróis como eles terão garotas a seus pés. Talvez[n]eu devesse desistir do basquete e me juntar aos[n]Phantom Thieves.[n][w][e]
 
-[msg MSG_UNDOUBUIN_010_1_0 [Calciatore brusco]]
+[msg MSG_UNDOUBUIN_010_1_0 [Jogador de futebol abrupto]]
 [s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Não! Eu sou apenas uma moda passageira! Você[n]realmente não pensa em sair do time, hein!?![n][w][e]
 
-[msg MSG_UNDOUBUIN_010_2_0 [Cestista alla mano]]
+[msg MSG_UNDOUBUIN_010_2_0 [Jogador de basquete na mão]]
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]É que não vejo como isso[n]funciona. Não consigo encontrar[n]talentos para recrutar para minha equipe.[n][w][e]
 
-[msg MSG_UNDOUBUIN_010_01_0_0 [Cestista alla mano]]
+[msg MSG_UNDOUBUIN_010_01_0_0 [Jogador de basquete na mão]]
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Você ouviu falar de Yoshizawa-san?[n]Parece que ela não se saiu muito bem[n]na competição...[n][w][e]
 
-[msg MSG_UNDOUBUIN_010_01_1_0 [Calciatore brusco]]
+[msg MSG_UNDOUBUIN_010_01_1_0 [Jogador de futebol abrupto]]
 [s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Hum, que pena. Ele certamente estará sofrendo. Eu[n]gostaria de poder fazer alguma coisa, mas...[n][w][e]
 
-[msg MSG_UNDOUBUIN_010_01_2_0 [Cestista alla mano]]
+[msg MSG_UNDOUBUIN_010_01_2_0 [Jogador de basquete na mão]]
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Mas este ano todos nós perdemos o tempo todo.[n]O que poderíamos dizer a ela...?[n][w][e]
 
-[msg MSG_UNDOUBUIN_011_1_0 [Calciatore brusco]]
+[msg MSG_UNDOUBUIN_011_1_0 [Jogador de futebol abrupto]]
 [s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Eu negociei com o[n]presidente Niijima outro dia sobre um[n]aumento de orçamento para nossa equipe...[n][w][e]
 [s][vp 8 2 1 0 6 0]Ele imediatamente apontou que nosso[n]time estava perdendo desde o primeiro round.[n]Eu não sabia como argumentar de volta...[n][w][e]
 
-[msg MSG_UNDOUBUIN_011_2_0 [Cestista alla mano]]
+[msg MSG_UNDOUBUIN_011_2_0 [Jogador de basquete na mão]]
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Haha, o que você esperava? O[n]presidente do conselho[n]estudante não é um otário.[n][w][e]
 [s][vp 8 2 1 0 7 0]Se você não consegue uma garota solteira para[n]sair com você, muito menos obter um aumento de[n]orçamento dela.[n][w][e]
 
-[msg MSG_UNDOUBUIN_012_0_0 [Cestista alla mano]]
+[msg MSG_UNDOUBUIN_012_0_0 [Jogador de basquete na mão]]
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Ladrões Fantasma aqui, Ladrões[n]Phantom aqui, Ladrões, Ladrões,[n]Ladrões! Só falamos deles![n][w][e]
 [s][vp 8 2 1 0 7 0]Ninguém dá a mínima para[n]o nosso próximo torneio![n][w][e]
 
-[msg MSG_UNDOUBUIN_012_1_0 [Calciatore brusco]]
+[msg MSG_UNDOUBUIN_012_1_0 [Jogador de futebol abrupto]]
 [s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]São essas as coisas com as quais você[n]se preocupa? Temos que bater[n]como capitães se quisermos vencer.[n][w][e]
 
-[msg MSG_UNDOUBUIN_012_2_0 [Cestista alla mano]]
+[msg MSG_UNDOUBUIN_012_2_0 [Jogador de basquete na mão]]
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Pepor que eu vim para Shujin?[n]Não havia mais nada[n]além de infortúnios e novelas.[n][w][e]
 
-[msg MSG_UNDOUBUIN_013_0_0 [Cestista alla mano]]
+[msg MSG_UNDOUBUIN_013_0_0 [Jogador de basquete na mão]]
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]E-Ei. Eu estava pensando... Não há[n]algo absurdamente errado com[n]esta escola? Talvez ela esteja amaldiçoada.[n][w][e]
 [s][vp 8 2 1 0 7 0]Aquele novo aluno violento, uma[n]tentativa de suicídio, abuso sexual de[n]uma professora, a morte do diretor...[n][w][e]
 
-[msg MSG_UNDOUBUIN_013_1_0 [Calciatore brusco]]
+[msg MSG_UNDOUBUIN_013_1_0 [Jogador de futebol abrupto]]
 [s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Você tem razão. Muitas[n]coisas aconteceram em apenas um ano. Talvez[n]seja realmente amaldiçoado.[n][w][e]
 
-[msg MSG_UNDOUBUIN_013_2_0 [Cestista alla mano]]
+[msg MSG_UNDOUBUIN_013_2_0 [Jogador de basquete na mão]]
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Sim. Isso justificaria o fato de que[n]não conseguimos encontrar[n]recrutas decentes ou vencer metade do jogo.[n][w][e]
 
-[msg MSG_UNDOUBUIN_014_0_0 [Cestista alla mano]]
+[msg MSG_UNDOUBUIN_014_0_0 [Jogador de basquete na mão]]
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Nada é mencionado, exceto o Thieves[n]Phantom. A nova carta-desafio[n]veio para uma grande empresa, né?[n][w][e]
 
-[msg MSG_UNDOUBUIN_014_1_0 [Calciatore brusco]]
+[msg MSG_UNDOUBUIN_014_1_0 [Jogador de futebol abrupto]]
 [s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Ouvi dizer que o presidente[n]daquela empresa é o pai de Okumura-senpai.[n][w][e]
 
-[msg MSG_UNDOUBUIN_014_2_0 [Cestista alla mano]]
+[msg MSG_UNDOUBUIN_014_2_0 [Jogador de basquete na mão]]
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Cheee? Eu não sabia que você estava interessado[n]em certas garotas. Eu fiz você reservado, e em[n]vez disso você é um caçador de fortunas.[n][w][e]
 
-[msg MSG_UNDOUBUIN_014_3_0 [Calciatore brusco]]
+[msg MSG_UNDOUBUIN_014_3_0 [Jogador de futebol abrupto]]
 [s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Não fale besteira![n][w][e]
 [s][vp 8 2 1 0 6 0]Temos de nos dedicar de corpo e alma às nossas[n]equipas. Não podemos nos distrair com as[n]mulheres![n][w][e]
 
-[msg MSG_UNDOUBUIN_015_0_0 [Cestista alla mano]]
+[msg MSG_UNDOUBUIN_015_0_0 [Jogador de basquete na mão]]
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Os Phantom Thieves estão por trás da[n]morte do pai de Okumura-senpai?[n][w][e]
 [s][vp 8 2 1 0 7 0]É muito melhor ganhar[n]popularidade por meio do esporte[n]do que agindo como eles.[n][w][e]
 
-[msg MSG_UNDOUBUIN_015_1_0 [Calciatore brusco]]
+[msg MSG_UNDOUBUIN_015_1_0 [Jogador de futebol abrupto]]
 [s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Eu pensei que esses caras eram especiais, mas...[n]Talvez eu tenha cometido um grande erro sobre[n]eles.[n][w][e]
 [s][vp 8 2 1 0 6 0]Na verdade, se eles realmente quisessem[n]respeitar a justiça, eles[n]não teriam coberto seus rostos.[n][w][e]
 
-[msg MSG_UNDOUBUIN_016_0_0 [Cestista alla mano]]
+[msg MSG_UNDOUBUIN_016_0_0 [Jogador de basquete na mão]]
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Ei, Akechi virá ao nosso[n]festival escolar. As meninas[n]ficarão super animadas.[n][w][e]
 [s][vp 8 2 1 0 7 0]Você acha que os Phantom Thieves[n]realmente frequentam Shujin?[n][w][e]
 
-[msg MSG_UNDOUBUIN_016_1_0 [Calciatore brusco]]
+[msg MSG_UNDOUBUIN_016_1_0 [Jogador de futebol abrupto]]
 [s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]É melhor nos concentrarmos no torneio de outono![n]Estamos ambos em[n]bomba, não vamos desistir![n][w][e]
 [s][vp 8 2 1 0 6 0]Não temos tempo para diversão em um festival[n]escolar![n][w][e]
 
-[msg MSG_UNDOUBUIN_017_0_0 [Cestista alla mano]]
+[msg MSG_UNDOUBUIN_017_0_0 [Jogador de basquete na mão]]
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Você sabe, os kohai querem adotar[n]um novo método de[n]treinamento.[n][w][e]
 
-[msg MSG_UNDOUBUIN_017_1_0 [Calciatore brusco]]
+[msg MSG_UNDOUBUIN_017_1_0 [Jogador de futebol abrupto]]
 [s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Na minha equipe, por outro lado, eles[n]introduziram[n]diferentes dietas e novos exercícios.[n][w][e]
 [s][vp 8 2 1 0 6 0]É como se todos tivessem mudado.[n]Os Phantom Thieves[n]não tiveram uma mão nisso?[n][w][e]
 
-[msg MSG_UNDOUBUIN_017_4_0 [Cestista alla mano]]
+[msg MSG_UNDOUBUIN_017_4_0 [Jogador de basquete na mão]]
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Nem mesmo mencione isso! Os Phantom Thieves são[n]assassinos. Eles teriam morrido se tivessem sido[n]alvejados.[n][w][e]
 
-[msg MSG_UNDOUBUIN_018_0_0 [Cestista alla mano]]
+[msg MSG_UNDOUBUIN_018_0_0 [Jogador de basquete na mão]]
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Sabe, eu estava pensando. Nossa[n]escola começou a mudar[n]após o caso Kamoshida, certo?[n][w][e]
 
-[msg MSG_UNDOUBUIN_018_1_0 [Calciatore brusco]]
+[msg MSG_UNDOUBUIN_018_1_0 [Jogador de futebol abrupto]]
 [s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Eu penso que sim. Um único evento pode[n]acionar uma cadeia de[n]mudanças de época. Eu vejo isso dessa forma.[n][w][e]
 
-[msg MSG_UNDOUBUIN_018_2_0 [Cestista alla mano]]
+[msg MSG_UNDOUBUIN_018_2_0 [Jogador de basquete na mão]]
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]A propósito, haverá eleições[n]no final do ano. Talvez até o[n]mundo inteiro mude.[n][w][e]
 
-[msg MSG_UNDOUBUIN_018_3_0 [Calciatore brusco]]
+[msg MSG_UNDOUBUIN_018_3_0 [Jogador de futebol abrupto]]
 [s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Eu não saberia. Ainda não podemos[n]votar. Temos que esperar[n]e ver o que acontece.[n][w][e]
 
-[msg MSG_UNDOUBUIN_019_0_0 [Cestista alla mano]]
+[msg MSG_UNDOUBUIN_019_0_0 [Jogador de basquete na mão]]
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Nossa, o ano está acabando.[n]As provas estão ótimas e[n]até a equipe está com dificuldades...[n][w][e]
 
-[msg MSG_UNDOUBUIN_019_1_0 [Calciatore brusco]]
+[msg MSG_UNDOUBUIN_019_1_0 [Jogador de futebol abrupto]]
 [s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Bem, houve uma revolução no governo. Nós também[n]poderíamos virar assim no próximo ano![n][w][e]
 
-[msg MSG_UNDOUBUIN_019_2_0 [Cestista alla mano]]
+[msg MSG_UNDOUBUIN_019_2_0 [Jogador de basquete na mão]]
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Não sei se essa revolução foi uma coisa boa.[n]Shido desabou e parece exausto.[n][w][e]
 [s][vp 8 2 1 0 7 0]Uau, é quase Natal![n]Não pode acontecer algo[n]bom, pelo menos uma vez?[n][w][e]
 
-[msg MSG_UNDOUBUIN_020_0_0 [Calciatore brusco]]
+[msg MSG_UNDOUBUIN_020_0_0 [Jogador de futebol abrupto]]
 [s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Os membros[n]da minha equipe estão estranhamente[n]eufóricos desde o início do ano. O que aconteceu?[n][w][e]
 
-[msg MSG_UNDOUBUIN_020_1_0 [Cestista alla mano]]
+[msg MSG_UNDOUBUIN_020_1_0 [Jogador de basquete na mão]]
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]A mesma coisa conosco. Mas não apenas a equipe.[n]Ultimamente é toda a sociedade que parece feliz.[n][w][e]
 [s][vp 8 2 1 0 7 0]Na TV, eles disseram que[n]este será um ano[n]especialmente de sorte.[n][w][e]
 
-[msg MSG_UNDOUBUIN_020_2_0 [Calciatore brusco]]
+[msg MSG_UNDOUBUIN_020_2_0 [Jogador de futebol abrupto]]
 [s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Mmh... Mas um excesso de felicidade[n]pode ser prejudicial. Nas partidas,[n]determinação é importante.[n][w][e]
 
-[msg MSG_UNDOUBUIN_020_3_0 [Cestista alla mano]]
+[msg MSG_UNDOUBUIN_020_3_0 [Jogador de basquete na mão]]
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Você é sempre o mesmo, mesmo depois[n]do réveillon... vamos aproveitar[n]essa felicidade.[n][w][e]
 
-[msg MSG_UNDOUBUIN_021_0_0 [Cestista alla mano]]
+[msg MSG_UNDOUBUIN_021_0_0 [Jogador de basquete na mão]]
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Sem aqueles irritantes[n]Phantom Thieves, podemos[n]focar no treinamento este ano.[n][w][e]
 
-[msg MSG_UNDOUBUIN_021_1_0 [Calciatore brusco]]
+[msg MSG_UNDOUBUIN_021_1_0 [Jogador de futebol abrupto]]
 [s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]É o nosso último ano.[n]Temos que encontrar a glória.[n][w][e]
 
-[msg MSG_UNDOUBUIN_021_2_0 [Cestista alla mano]]
+[msg MSG_UNDOUBUIN_021_2_0 [Jogador de basquete na mão]]
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Eu darei o meu melhor. Se fôssemos[n]perder, não vou culpar[n]ninguém.[n][w][e]
 
-[msg MSG_UNDOUBUIN_021_3_0 [Calciatore brusco]]
+[msg MSG_UNDOUBUIN_021_3_0 [Jogador de futebol abrupto]]
 [s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Não pense em derrota![n]Dê tudo e[n]foque no futuro![n][w][e]
 
-[msg MSG_UNDOUBUIN_022_0_0 [Cestista alla mano]]
+[msg MSG_UNDOUBUIN_022_0_0 [Jogador de basquete na mão]]
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Quem sabe o que aqueles ladrões fantasmas[n]realmente eram. Eles abalaram o mundo e depois[n]desapareceram no ar.[n][w][e]
 
-[msg MSG_UNDOUBUIN_022_1_0 [Calciatore brusco]]
+[msg MSG_UNDOUBUIN_022_1_0 [Jogador de futebol abrupto]]
 [s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Por causa de todo aquele caos na escola, muitas[n]vezes eu os achava irritantes, mas agora sou[n]grato a eles.[n][w][e]
 [s][vp 8 2 1 0 6 0]Ensinaram-me que você não pode[n]conseguir nada se esperar que[n]outros façam o trabalho duro por você.[n][w][e]
 
-[msg MSG_UNDOUBUIN_022_2_0 [Cestista alla mano]]
+[msg MSG_UNDOUBUIN_022_2_0 [Jogador de basquete na mão]]
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Bem, nós somos capitães… Fazemos[n]o nosso melhor para levar[n]nossas equipes para o Nacional![n][w][e]
 
-[msg MSG_Q73_HINT_NPC_000_00 [Cestista alla mano]]
+[msg MSG_Q73_HINT_NPC_000_00 [Jogador de basquete na mão]]
 [s][f 4 23 1 650 3 10 0 10][vp 8 2 1 0 650 0]Ouvi dizer que Kaya não foi mais treinar depois[n]da despedida do Prof. Kamoshida.[n][w][e]
 
-[msg MSG_Q73_HINT_NPC_010_00 [Calciatore brusco]]
+[msg MSG_Q73_HINT_NPC_010_00 [Jogador de futebol abrupto]]
 [s][f 4 23 1 651 3 10 0 10][vp 8 2 1 0 651 0]Ele não vai voltar para a escola, vai?[n][w][e]
 
-[msg MSG_Q73_HINT_NPC_020_00 [Cestista alla mano]]
+[msg MSG_Q73_HINT_NPC_020_00 [Jogador de basquete na mão]]
 [s][f 4 23 1 650 3 10 0 10][vp 8 2 1 0 650 0]Kaya respeitava muito o[n]Prof. Kamoshida, então ela pode[n]estar chocada…[n][w][e]
 
 [msg MSG_Q73_HINT_NPC_030_00 [Morgana]]

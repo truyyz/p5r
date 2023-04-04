@@ -15,7 +15,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Este deve ser nosso[n]destino final...[n]as profundezas dos Mementos.[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Haru]]
-[s][bup 0 7 100 65535 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Se sim, o Memento Treasure[n]estaria aqui?[n][f 1 3 65535][w][e]
+[s][bup 0 7 100 65535 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Se sim, o Mementos Treasure[n]estaria aqui?[n][f 1 3 65535][w][e]
 
 [sel SEL_008_0_0 top]
 [s]Assim deveria ser.[e]

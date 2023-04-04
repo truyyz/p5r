@@ -8,7 +8,7 @@
 [s][f 5 14]Quero continuar mudando a[n]sociedade, mesmo que aos poucos,[n]e também quero ajudar as vítimas.[n][w][e]
 
 [msg MSG_003_0_0 [Makoto]]
-[s][f 5 14]Se estiver tudo bem para você, que tal[n]ir ao Memento?[n][f 5 15][w][e]
+[s][f 5 14]Se estiver tudo bem para você, que tal[n]ir ao Mementos?[n][f 5 15][w][e]
 
 [msg MSG_REACTION [Makoto]]
 [s][f 5 14]Obrigada. Vamos dizer a todos[n]para nos encontrar no ponto de encontro.[n][f 5 15][w][e]

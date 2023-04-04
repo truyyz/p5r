@@ -725,7 +725,7 @@
 
 [msg msg_combine_PERSONA190 [Messia Picaro]]
 [s]Eles são [clr 1][var 1][clr 27].[n][w][e]
-[s]Ao me tornar a[n]máscara do Malandro, concordo em viver[n]ao seu lado para sempre...[n][w][e]
+[s]Ao me tornar a[n]máscara do Trapaceiro, concordo em viver[n]ao seu lado para sempre...[n][w][e]
 
 [msg msg_combine_PERSONA191 [Orfeo Picaro]]
 [s]Eles são [clr 1][var 1][clr 27].[n][w][e]
@@ -733,11 +733,11 @@
 
 [msg msg_combine_PERSONA192 [Thanatos Picaro]]
 [s]Eu sou [clr 1][var 1][clr 27]...[n][w][e]
-[s]Tu me geraste e contigo pisarei a terra. Eu serei a[n]máscara do Malandro.[n][w][e]
+[s]Tu me geraste e contigo pisarei a terra. Eu serei a[n]máscara do Trapaceiro.[n][w][e]
 
 [msg msg_combine_PERSONA193 [Izanagi Picaro]]
 [s]Eu sou [clr 1][var 1][clr 27]...[n][w][e]
-[s]Abra os olhos...[n]Acorde, Malandro![n][w][e]
+[s]Abra os olhos...[n]Acorde, Trapaceiro![n][w][e]
 
 [msg msg_combine_PERSONA194 [M. Izanagi Picaro]]
 [s]Quem se atreve a me convocar?[n][w][e]
@@ -746,7 +746,7 @@
 
 [msg msg_combine_PERSONA195 [Kaguya Picaro]]
 [s]Quem se atreve a me convocar?[n][w][e]
-[s]Oh, coração radiante que brilha[n]no meio da noite... Eu serei sua[n]força, Malandro...[n][w][e]
+[s]Oh, coração radiante que brilha[n]no meio da noite... Eu serei sua[n]força, Trapaceiro...[n][w][e]
 [s]Eu sou [clr 1][var 1][clr 27].[n]Sua luz nunca se apagará,[n]enquanto eu estiver ao seu lado.[n][w][e]
 
 [msg msg_combine_PERSONA196 [Arianna Picaro]]
@@ -755,11 +755,11 @@
 
 [msg msg_combine_PERSONA197 [Asterius Picaro]]
 [s]Hahahaha! Eu sou [clr 1][var 1][clr 27]![n][w][e]
-[s]E então o Malandro me quer como[n]sua máscara? Eu estou bem com isso.[n]Eu vou destruir qualquer um que estiver no seu caminho![n][w][e]
+[s]E então o Trapaceiro me quer como[n]sua máscara? Eu estou bem com isso.[n]Eu vou destruir qualquer um que estiver no seu caminho![n][w][e]
 
 [msg msg_combine_PERSONA198 [Tsukiyomi Picaro]]
 [s]Eles são [clr 1][var 1][clr 27].[n][w][e]
-[s]Estou me tornando a máscara do[n]Malandro? Bem, vou semear[n] dor como meu costume![n][w][e]
+[s]Estou me tornando a máscara do[n]Trapaceiro? Bem, vou semear[n] dor como meu costume![n][w][e]
 
 [msg msg_combine_PERSONA199 [RISERVA]]
 [s]038[n][w][e]
@@ -1315,14 +1315,14 @@
 
 [msg msg_combine_PERSONA366 [Izanagi-no-Okami Pic.]]
 [s]Eu sou o primeiro deus...[n][clr 1][var 1][clr 27]...[n][w][e]
-[s]Você será a máscara do Malandro[n]e eu iluminarei seu caminho[n]com raios de pura luz...[n][w][e]
+[s]Você será a máscara do Trapaceiro[n]e eu iluminarei seu caminho[n]com raios de pura luz...[n][w][e]
 
 [msg msg_combine_PERSONA367 [Izanagi-no-Okami Pic.]]
 [s]RESERVA[n][w][e]
 
 [msg msg_combine_PERSONA368 [Atena Picaro]]
 [s]Eles são [clr 1][var 1][clr 27].[n][w][e]
-[s]Eu me tornarei a máscara do Malandro e[n]o escudo que irá protegê-lo.[n][w][e]
+[s]Eu me tornarei a máscara do Trapaceiro e[n]o escudo que irá protegê-lo.[n][w][e]
 
 [msg msg_combine_PERSONA369 [Atena Picaro]]
 [s]RESERVA[n][w][e]

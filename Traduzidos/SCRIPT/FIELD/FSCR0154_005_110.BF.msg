@@ -1,4 +1,4 @@
-[msg e259_501_mes01 [Voce meccanica]]
+[msg e259_501_mes01 [Voz mecânica]]
 [s]O bloqueio está ativo.[n]Digite seu PIN.[n][w][e]
 
 [msg e259_501_mes02 [Ryuji]]
@@ -53,7 +53,7 @@
 [msg e259_501_OPEN_mes02 [Makoto]]
 [s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Portanto, minhas suposições podem[n]estar corretas...[n][w][e]
 
-[msg e259_501_OPEN_mes03 [Voce di Kaneshiro]]
+[msg e259_501_OPEN_mes03 [Voz de Kaneshiro]]
 [s][bup 0 207 105 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Dinheiro... Preciso de mais dinheiro...[n]Tenho que ficar rico de novo![n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Para os ricos, tudo é possível...[n][w][e]
 

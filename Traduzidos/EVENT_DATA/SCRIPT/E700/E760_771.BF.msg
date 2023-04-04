@@ -38,25 +38,25 @@
 [s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 0 1178 65535 0]Droga... Você estava errado.[n][f 1 3 65535][w][e]
 [s][bup 0 3 4 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]E ai, como vai? A mão de Goemon[n]está brilhando...![n][f 1 3 65535][w][e]
 
-[msg MSG_Ura_oni [Demone]]
+[msg MSG_Ura_oni [Demônio]]
 [s][vp 8 2 0 59555 65535 0]Hrgh! Esta luz![n][f 1 3 65535][w][e]
 
-[msg MSG_Ura_enma [Re Yama]]
+[msg MSG_Ura_enma [Rei Yama]]
 [s][vp 8 2 0 59555 65535 0]Aff...! Que luz poderosa![n][f 1 3 65535][w][e]
 
 [msg MSG_Ura02 [Morgana]]
 [s][bup 0 3 4 0 0][f 4 10 65535 0 0][vp 8 2 0 1040 65535 0]E-Ei, os pontos no dado[n]mudaram![n][f 1 3 65535][w][e]
 
-[msg MSG_Ura_oni02 [Demone]]
+[msg MSG_Ura_oni02 [Demônio]]
 [s][vp 8 2 0 59556 65535 0]Hã? Achei que era par, mas devo[n]ter calculado mal...[n]O resultado é ímpar. Você ganha.[n][f 1 3 65535][w][e]
 
-[msg MSG_Ura_oni03 [Demone]]
+[msg MSG_Ura_oni03 [Demônio]]
 [s][vp 8 2 0 59556 65535 0]Hã? Achei estranho, mas devo[n]ter calculado mal...[n]O resultado é par. Você ganha.[n][f 1 3 65535][w][e]
 
-[msg MSG_Ura_enma02 [Re Yama]]
+[msg MSG_Ura_enma02 [Rei Yama]]
 [s][vp 8 2 0 59556 65535 0]Umpf... Achei que era um número par,[n]mas me enganei.[n]O resultado é ímpar. Você ganha.[n][f 1 3 65535][w][e]
 
-[msg MSG_Ura_enma03 [Re Yama]]
+[msg MSG_Ura_enma03 [Rei Yama]]
 [s][vp 8 2 0 59556 65535 0]Umpf... Achei que era um número[n]ímpar, mas me enganei.[n]O resultado é par. Você ganha.[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Morgana]]
@@ -81,7 +81,7 @@
 [msg MND_225_6_0]
 [s][vp 8 2 0 62 65535 0]Uma enorme criatura apareceu diante de mim.[n]Parece um demônio...[n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_TUTORI [Demone]]
+[msg MSG_JIGOKU_GAMBLE_TUTORI [Demônio]]
 [s][vp 8 2 0 59556 65535 0]Assim, o ladrão ignóbil que[n]saqueou o mundo inteiro[n]entrou no inferno impunemente.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 59556 65535 0]Eu vou te mostrar os horrores do inferno...[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 59556 65535 0]Embora, na verdade... seria[n]chato dar ao famoso[n]Goemon o tratamento usual...[n][f 1 3 65535][w][e]
@@ -93,7 +93,7 @@
 [msg MSG_GAMBLE_TUTORIAL_02]
 [s][vp 8 2 0 0 65535 0]Eu só tenho que vencer esse demônio[n]em um jogo de dados...[n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_TUTORI_2 [Demone]]
+[msg MSG_JIGOKU_GAMBLE_TUTORI_2 [Demônio]]
 [s][vp 8 2 0 59555 65535 0]Primeiro, você terá que escolher[n]entre duas opções: par ou ímpar.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 59556 65535 0]Par indica números como dois,[n]seis, oito... Ímpar indica[n]outros, como três ou sete.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 59556 65535 0]Depois de escolher, eu rolarei o dado. Se você[n]acertar, você vai ganhar. Caso contrário, você[n]terá perdido.[n][f 1 3 65535][w][e]
@@ -103,20 +103,20 @@
 [s]Certamente.[e]
 [s]Não exatamente.[e]
 
-[msg MSG_JIGOKU_GAMBLE_START [Demone]]
+[msg MSG_JIGOKU_GAMBLE_START [Demônio]]
 [s][vp 8 2 0 59555 65535 0]Então... Faça a sua escolha.[n]Par ou ímpar? Aposte![n][f 1 3 65535][w][e]
 
 [sel MSG_JIGOKU_GAMBLE_START_ top]
 [s]Até.[e]
 [s]Tiros.[e]
 
-[msg MSG_JIGOKU_GAMBLE_TYOU [Demone]]
+[msg MSG_JIGOKU_GAMBLE_TYOU [Demônio]]
 [s][vp 8 2 0 59555 65535 0]Hm, escolha interessante... Se[n]o número for par, você ganha.[n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_HAN [Demone]]
+[msg MSG_JIGOKU_GAMBLE_HAN [Demônio]]
 [s][vp 8 2 0 59555 65535 0]Hum, escolha interessante... Se[n]o número for ímpar, você ganha.[n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_GO [Demone]]
+[msg MSG_JIGOKU_GAMBLE_GO [Demônio]]
 [s][vp 8 2 0 59554 65535 0]Bem, vamos descobrir como[n]isso termina![n][f 1 3 65535][w][e]
 
 [msg MSG_Stage01_Clear01 [Morgana]]
@@ -125,7 +125,7 @@
 [msg MND_Stage01_Clear01]
 [s][vp 8 2 0 0 65535 0]Ganhei a aposta...![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAME_CLEAR02 [Demone]]
+[msg MSG_JIGOKU_GAME_CLEAR02 [Demônio]]
 [s][vp 8 2 0 59556 65535 0]Nghhh... que sorte idiota.[n]Eu não poderia esperar menos,[n]do famoso Goemon...![n][f 1 3 65535][w][e]
 [s][vp 8 2 0 59555 65535 0]Você ganha. Vamos continuar...[n][f 1 3 65535][w][e]
 
@@ -151,7 +151,7 @@
 [s][vp 8 2 0 78 65535 0]Não foi muito satisfatório,[n]usar aquela técnica...[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Sinto que aprendi[n]a continuar sem[n]desistir... Ou pelo menos penso...[n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAME_OVER [Demone]]
+[msg MSG_JIGOKU_GAME_OVER [Demônio]]
 [s][vp 8 2 0 59555 65535 0]Gwahaha, azar.[n]Você perdeu![n][f 1 3 65535][w][e]
 [s][vp 8 2 0 59555 65535 0]Você passará o resto da eternidade[n]neste abismo infernal![n][f 1 3 65535][w][e]
 
@@ -169,7 +169,7 @@
 [s][vp 8 2 0 0 65535 0]O Rei Yama está esperando por mim...[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]Estou prestes a enfrentar outro desafio.[n]Talvez eu deva pedir novamente[n]uma explicação sobre as regras...[n][f 1 3 65535][w][e]
 
-[msg MSG_STEP2_START [Re Yama]]
+[msg MSG_STEP2_START [Rei Yama]]
 [s][vp 8 2 0 59555 65535 0]Ah, aí está você! Magnífico.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 59556 65535 0]Meu nome é Rei Yama. Tudo o que[n]acontece nestas terras[n]de tormento é obra minha.[n][f 1 3 65535][w][e]
 
@@ -179,52 +179,52 @@
 [msg MND_STEP2_START_03]
 [s][vp 8 2 0 0 65535 0]Quem sabe se é hora de jogar[n]outro jogo de dados...[n][f 1 3 65535][w][e]
 
-[msg MSG_STEP2_START_02 [Re Yama]]
+[msg MSG_STEP2_START_02 [Rei Yama]]
 [s][vp 8 2 0 59556 65535 0]Então agora vamos jogar um jogo. Tenho[n]certeza de que você já conhece as regras.[n]Gostaria de ouvi-las novamente?[n][f 1 3 65535][w][e]
 
 [sel GAMBLE_TUTORIAL_STEP2_YE top]
 [s]Não há necessidade.[e]
 [s]Isso seria bom.[e]
 
-[msg MSG_STEP2_START_03 [Re Yama]]
+[msg MSG_STEP2_START_03 [Rei Yama]]
 [s][vp 8 2 0 59555 65535 0]Em primeiro lugar, você terá que escolher[n]entre par e ímpar.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 59556 65535 0]Par indica números como dois,[n]seis, oito... Ímpar indica[n]outros, como três ou sete.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 59556 65535 0]Então eu vou rolar o dado.[n]Se você acertar, você ganha.[n]Se você errar, você perde.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 59555 65535 0]Bem, isso é tudo...[n]Você entende as regras?[n][f 1 3 65535][w][e]
 
-[msg MSG_STEP2_START_04 [Re Yama]]
+[msg MSG_STEP2_START_04 [Rei Yama]]
 [s][vp 8 2 0 59555 65535 0]Saiba que jogar comigo[n]vai ser mais difícil![n][f 1 3 65535][w][e]
 [s][vp 8 2 0 59556 65535 0]Você precisa vencer dois dos três jogos[n]para obter um verdadeiro sucesso![n]Caso contrário, você será derrotado![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_START__2 [Re Yama]]
+[msg MSG_JIGOKU_GAMBLE_START__2 [Rei Yama]]
 [s][vp 8 2 0 59556 65535 0]Bem, esta é a primeira rodada.[n]Par ou ímpar? Faça sua escolha.[n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_START__3 [Re Yama]]
+[msg MSG_JIGOKU_GAMBLE_START__3 [Rei Yama]]
 [s][vp 8 2 0 59556 65535 0]Certo, aqui está a segunda rodada.[n]Par ou ímpar? Faça sua escolha.[n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_START__4 [Re Yama]]
+[msg MSG_JIGOKU_GAMBLE_START__4 [Rei Yama]]
 [s][vp 8 2 0 59556 65535 0]Terceira e última rodada.[n]Par ou ímpar? Faça sua escolha.[n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_TYOU_E [Re Yama]]
+[msg MSG_JIGOKU_GAMBLE_TYOU_E [Rei Yama]]
 [s][vp 8 2 0 59556 65535 0]Você escolheu par?[n]Corte seu lote.[n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_HAN_EN [Re Yama]]
+[msg MSG_JIGOKU_GAMBLE_HAN_EN [Rei Yama]]
 [s][vp 8 2 0 59556 65535 0]Oh-oh, você escolheu ímpar?[n]Os pontos nos dados[n]decidirão seu destino.[n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_START__5 [Re Yama]]
+[msg MSG_JIGOKU_GAMBLE_START__5 [Rei Yama]]
 [s][vp 8 2 0 59554 65535 0]Muito bem, vamos começar![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAME_CLEAR02_ [Re Yama]]
+[msg MSG_JIGOKU_GAME_CLEAR02_ [Rei Yama]]
 [s][vp 8 2 0 59555 65535 0]Argh, você w-ganhou?!?[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 59556 65535 0]Parece que seu destino...[n]ainda não foi cumprido.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 59556 65535 0]O mundo dos vivos é apenas[n]sofrimento... Espero que você tenha forças[n]para atravessá-lo ileso![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAME_OVER_ROU [Re Yama]]
+[msg MSG_JIGOKU_GAME_OVER_ROU [Rei Yama]]
 [s][vp 8 2 0 59555 65535 0]Então... nossa batalha[n]em três rodadas chegou ao fim...[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 59556 65535 0]Mas parece que você falhou[n]para obter o suficiente[n]vitórias... É o seu fim![n][f 1 3 65535][w][e]
 [s][vp 8 2 0 59556 65535 0]Você também pode se sentir confortável,[n]ao começar sua descida...[n]aos Pits of Hell! Muahahah![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAME_OVER_ROU_2 [Re Yama]]
+[msg MSG_JIGOKU_GAME_OVER_ROU_2 [Rei Yama]]
 [s][vp 8 2 0 59556 65535 0]Bem, bem, bem... Estamos apenas[n]na metade do caminho, mas veja[n]como estão as coisas...![n][f 1 3 65535][w][e]
 [s][vp 8 2 0 59556 65535 0]Parece que você falhou[n]para obter o suficiente[n]vitórias... Isso é o seu fim![n][f 1 3 65535][w][e]
 [s][vp 8 2 0 59556 65535 0]Você também pode se sentir confortável,[n]ao começar sua descida...[n]aos Pits of Hell! Muahahah![n][f 1 3 65535][w][e]
@@ -316,147 +316,147 @@
 [s][vp 8 2 0 0 65535 0]Mas é uma promoção muito antiga. Provavelmente[n]não mais válido...[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]Talvez seja melhor anotar,[n]só por precaução.[n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S1_1_1 [Demone]]
+[msg MSG_JIGOKU_GAMBLE_S1_1_1 [Demônio]]
 [s][vp 8 2 0 59555 65535 0]Duplo um... Par![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S1_1_2 [Demone]]
+[msg MSG_JIGOKU_GAMBLE_S1_1_2 [Demônio]]
 [s][vp 8 2 0 59554 65535 0]Um um e um dois... Ímpar![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S1_1_3 [Demone]]
+[msg MSG_JIGOKU_GAMBLE_S1_1_3 [Demônio]]
 [s][vp 8 2 0 59555 65535 0]Um e um três... Par![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S1_1_4 [Demone]]
+[msg MSG_JIGOKU_GAMBLE_S1_1_4 [Demônio]]
 [s][vp 8 2 0 59554 65535 0]Um e um quatro... Ímpar![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S1_1_5 [Demone]]
+[msg MSG_JIGOKU_GAMBLE_S1_1_5 [Demônio]]
 [s][vp 8 2 0 59554 65535 0]Um um e um cinco... Par![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S1_1_6 [Demone]]
+[msg MSG_JIGOKU_GAMBLE_S1_1_6 [Demônio]]
 [s][vp 8 2 0 59555 65535 0]Um e um seis... Ímpar![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S1_2_2 [Demone]]
+[msg MSG_JIGOKU_GAMBLE_S1_2_2 [Demônio]]
 [s][vp 8 2 0 59554 65535 0]Duplo Dois... Par![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S1_3_2 [Demone]]
+[msg MSG_JIGOKU_GAMBLE_S1_3_2 [Demônio]]
 [s][vp 8 2 0 59554 65535 0]Um dois e um três... Ímpar![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S1_4_2 [Demone]]
+[msg MSG_JIGOKU_GAMBLE_S1_4_2 [Demônio]]
 [s][vp 8 2 0 59554 65535 0]Um dois e um quatro... Par![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S1_5_2 [Demone]]
+[msg MSG_JIGOKU_GAMBLE_S1_5_2 [Demônio]]
 [s][vp 8 2 0 59554 65535 0]Um dois e um cinco... Ímpar![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S1_6_2 [Demone]]
+[msg MSG_JIGOKU_GAMBLE_S1_6_2 [Demônio]]
 [s][vp 8 2 0 59554 65535 0]Um dois e um seis... Par![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S1_3_3 [Demone]]
+[msg MSG_JIGOKU_GAMBLE_S1_3_3 [Demônio]]
 [s][vp 8 2 0 59555 65535 0]Duplo três... Par![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S1_4_3 [Demone]]
+[msg MSG_JIGOKU_GAMBLE_S1_4_3 [Demônio]]
 [s][vp 8 2 0 59554 65535 0]Um três e um quatro... Ímpar![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S1_5_3 [Demone]]
+[msg MSG_JIGOKU_GAMBLE_S1_5_3 [Demônio]]
 [s][vp 8 2 0 59554 65535 0]Um três e um cinco... Par![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S1_6_3 [Demone]]
+[msg MSG_JIGOKU_GAMBLE_S1_6_3 [Demônio]]
 [s][vp 8 2 0 59555 65535 0]Um três e um seis... Ímpar![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S1_4_4 [Demone]]
+[msg MSG_JIGOKU_GAMBLE_S1_4_4 [Demônio]]
 [s][vp 8 2 0 59554 65535 0]Duplo Quatro... Par![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S1_5_4 [Demone]]
+[msg MSG_JIGOKU_GAMBLE_S1_5_4 [Demônio]]
 [s][vp 8 2 0 59554 65535 0]Um quatro e um cinco... Ímpar![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S1_6_4 [Demone]]
+[msg MSG_JIGOKU_GAMBLE_S1_6_4 [Demônio]]
 [s][vp 8 2 0 59554 65535 0]Um quatro e um seis... Par![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S1_5_5 [Demone]]
+[msg MSG_JIGOKU_GAMBLE_S1_5_5 [Demônio]]
 [s][vp 8 2 0 59554 65535 0]Double Five... Par![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S1_5_6 [Demone]]
+[msg MSG_JIGOKU_GAMBLE_S1_5_6 [Demônio]]
 [s][vp 8 2 0 59554 65535 0]Um cinco e um seis... Ímpar![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S1_6_6 [Demone]]
+[msg MSG_JIGOKU_GAMBLE_S1_6_6 [Demônio]]
 [s][vp 8 2 0 59555 65535 0]Duplo Seis... Par![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S2_1_1 [Re Yama]]
+[msg MSG_JIGOKU_GAMBLE_S2_1_1 [Rei Yama]]
 [s][vp 8 2 0 59555 65535 0]Duplo? Par![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S2_1_2 [Re Yama]]
+[msg MSG_JIGOKU_GAMBLE_S2_1_2 [Rei Yama]]
 [s][vp 8 2 0 59554 65535 0]Um e dois? Ímpar![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S2_1_3 [Re Yama]]
+[msg MSG_JIGOKU_GAMBLE_S2_1_3 [Rei Yama]]
 [s][vp 8 2 0 59555 65535 0]Um e três? Par![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S2_1_4 [Re Yama]]
+[msg MSG_JIGOKU_GAMBLE_S2_1_4 [Rei Yama]]
 [s][vp 8 2 0 59554 65535 0]Um e um quatro? Ímpar![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S2_1_5 [Re Yama]]
+[msg MSG_JIGOKU_GAMBLE_S2_1_5 [Rei Yama]]
 [s][vp 8 2 0 59554 65535 0]Um e cinco? Par![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S2_1_6 [Re Yama]]
+[msg MSG_JIGOKU_GAMBLE_S2_1_6 [Rei Yama]]
 [s][vp 8 2 0 59555 65535 0]Um e um seis? Ímpar![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S2_2_2 [Re Yama]]
+[msg MSG_JIGOKU_GAMBLE_S2_2_2 [Rei Yama]]
 [s][vp 8 2 0 59554 65535 0]Duplo dois? Par![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S2_3_2 [Re Yama]]
+[msg MSG_JIGOKU_GAMBLE_S2_3_2 [Rei Yama]]
 [s][vp 8 2 0 59554 65535 0]Um dois e um três? Ímpar![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S2_4_2 [Re Yama]]
+[msg MSG_JIGOKU_GAMBLE_S2_4_2 [Rei Yama]]
 [s][vp 8 2 0 59554 65535 0]Um dois e um quatro? Par![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S2_5_2 [Re Yama]]
+[msg MSG_JIGOKU_GAMBLE_S2_5_2 [Rei Yama]]
 [s][vp 8 2 0 59554 65535 0]Um dois e um cinco? Ímpar![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S2_6_2 [Re Yama]]
+[msg MSG_JIGOKU_GAMBLE_S2_6_2 [Rei Yama]]
 [s][vp 8 2 0 59554 65535 0]Um dois e um seis? Par![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S2_3_3 [Re Yama]]
+[msg MSG_JIGOKU_GAMBLE_S2_3_3 [Rei Yama]]
 [s][vp 8 2 0 59555 65535 0]Duplo três? Par![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S2_4_3 [Re Yama]]
+[msg MSG_JIGOKU_GAMBLE_S2_4_3 [Rei Yama]]
 [s][vp 8 2 0 59554 65535 0]Um três e um quatro? Ímpar![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S2_5_3 [Re Yama]]
+[msg MSG_JIGOKU_GAMBLE_S2_5_3 [Rei Yama]]
 [s][vp 8 2 0 59554 65535 0]Um três e um cinco? Par![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S2_6_3 [Re Yama]]
+[msg MSG_JIGOKU_GAMBLE_S2_6_3 [Rei Yama]]
 [s][vp 8 2 0 59555 65535 0]Um três e um seis? Ímpar![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S2_4_4 [Re Yama]]
+[msg MSG_JIGOKU_GAMBLE_S2_4_4 [Rei Yama]]
 [s][vp 8 2 0 59554 65535 0]Duplo quatro? Par![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S2_5_4 [Re Yama]]
+[msg MSG_JIGOKU_GAMBLE_S2_5_4 [Rei Yama]]
 [s][vp 8 2 0 59554 65535 0]Um quatro e um cinco? Ímpar![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S2_6_4 [Re Yama]]
+[msg MSG_JIGOKU_GAMBLE_S2_6_4 [Rei Yama]]
 [s][vp 8 2 0 59554 65535 0]Um quatro e um seis? Par![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S2_5_5 [Re Yama]]
+[msg MSG_JIGOKU_GAMBLE_S2_5_5 [Rei Yama]]
 [s][vp 8 2 0 59554 65535 0]Duplo cinco? Par![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S2_5_6 [Re Yama]]
+[msg MSG_JIGOKU_GAMBLE_S2_5_6 [Rei Yama]]
 [s][vp 8 2 0 59554 65535 0]Um cinco e um seis? Ímpar![n][f 1 3 65535][w][e]
 
-[msg MSG_JIGOKU_GAMBLE_S2_6_6 [Re Yama]]
+[msg MSG_JIGOKU_GAMBLE_S2_6_6 [Rei Yama]]
 [s][vp 8 2 0 59555 65535 0]Dupla é você? Par![n][f 1 3 65535][w][e]
 
-[msg MSG_DEBUG [for debug]]
+[msg MSG_DEBUG [Para depuração]]
 [s][vp 8 2 0 0 65535 0]Modo de Depuração[n][f 1 3 65535][w][e]
 
 [sel SEL_DEBUG top]
 [s]com morgana[e]
 [s]sem morgana[e]
 
-[msg MSG_DEBUG_2 [for debug]]
+[msg MSG_DEBUG_2 [Para depuração]]
 [s][vp 8 2 0 0 65535 0]Modo de Depuração[n][f 1 3 65535][w][e]
 
 [sel SEL_DEBUG_2 top]
 [s]Estágio 1[e]
 [s]Estágio 2[e]
 
-[msg MSG_DEBUG_3 [for debug]]
+[msg MSG_DEBUG_3 [Para depuração]]
 [s][vp 8 2 0 0 65535 0]Modo de Depuração[n][f 1 3 65535][w][e]
 
 [sel SEL_DEBUG_3 top]

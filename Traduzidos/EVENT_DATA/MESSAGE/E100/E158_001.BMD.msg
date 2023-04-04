@@ -1,4 +1,4 @@
-[msg MSG_000_0_0 [Ombra di Kamoshida]]
+[msg MSG_000_0_0 [Sombra de Kamoshida]]
 [s][bup 0 202 103 0 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]Que merda...![n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Ann]]

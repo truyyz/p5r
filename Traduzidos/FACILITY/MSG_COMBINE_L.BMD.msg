@@ -597,10 +597,10 @@
 [msg msg_combine_dokubou_a6 [Lavenza]]
 [s]Você pode deixar uma Pessoa[n]aqui por um determinado número de dias[n]e ganhar pontos de experiência.[n][w][e]
 
-[msg combine_mes_tutorial_top [Residente della Stanza di Velluto]]
+[msg combine_mes_tutorial_top [Residente do Velvet Room]]
 [s]Bem-vindo... ao Velvet Room.[n][w][e]
 
-[msg combine_mes_tutorial_com [Residente della Stanza di Velluto]]
+[msg combine_mes_tutorial_com [Residente do Velvet Room]]
 [s]Suba de nível com os residentes[n]do Velvet Room para estragar[n]o resultado das fusões, corrompendo-os.[n][w][e]
 [s]Quanto maior o Rank,[n]maiores as chances.[n][w][e]
 [s]Per ora, premi il tasto △[n]per esaminare questa funzione.[n][w][e]

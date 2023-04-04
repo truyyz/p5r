@@ -1,7 +1,7 @@
-[msg e194_111_mes01 [Guardia della security]]
+[msg e194_111_mes01 [Segurança]]
 [s]Por hoje, a exposição está fechada.[n]Esperamos recebê-lo[n]outro dia.[n][w][e]
 
-[msg e194_111_mes02 [Guardia della security]]
+[msg e194_111_mes02 [Segurança]]
 [s]Ei, mande mais guardas![n]Não podemos lidar com[n]todas essas pessoas em duas![n][w][e]
 
 [msg e194_111_mes03 [Morgana]]

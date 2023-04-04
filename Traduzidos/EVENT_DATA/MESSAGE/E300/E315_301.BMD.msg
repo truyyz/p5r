@@ -1,4 +1,4 @@
-[msg MSG_000_0_0 [Studente pigro]]
+[msg MSG_000_0_0 [Estudante preguiçoso]]
 [s][vp 8 0 0 1 5 0]Você teve algo a ver com isso também, prof?[n]Aquela fala sobre o acobertamento...[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Kawakami]]

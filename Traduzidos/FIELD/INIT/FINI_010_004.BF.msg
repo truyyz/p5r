@@ -5,7 +5,7 @@
 [s]Sim[e]
 [s]Não[e]
 
-[msg MSG_SKILL_REMEMBER_TUTOR [Prete tranquillo]]
+[msg MSG_SKILL_REMEMBER_TUTOR [Padre quieto]]
 [s][f 4 23 1 0 3 10 0 10]Bem-vindo à nossa igreja.[n][w][e]
 [s]Você perdeu ovelhas...[n]Você tem um momento?[n][w][e]
 

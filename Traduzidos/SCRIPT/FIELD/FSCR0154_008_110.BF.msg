@@ -4,13 +4,13 @@
 [msg e259_503_01_mes02 [Morgana]]
 [s][bup 0 3 1 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Bem, então devemos...[n][w][e]
 
-[msg e259_503_01_mes03 [Voce di Kaneshiro]]
+[msg e259_503_01_mes03 [Voz de Kaneshiro]]
 [s][bup 0 207 105 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 1 65535 43 0 0]Não é o suficiente... Eu tenho que lançar[n]uma sombra colossal![n][w][e]
 
 [msg e259_503_01_mes04 [Ryuji]]
 [s][bup 0 2 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]O que é que foi isso?[n][w][e]
 
-[msg e259_503_01_mes05 [Voce di Kaneshiro]]
+[msg e259_503_01_mes05 [Voz de Kaneshiro]]
 [s][bup 0 207 105 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Já cansei de ser[n]atropelado pelos outros...[n]Agora é a minha vez...[n][w][e]
 
 [msg e259_503_01_mes06 [Yusuke]]

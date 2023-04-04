@@ -19,7 +19,7 @@
 [msg MSG_006_0_0 [Voz misteriosa]]
 [s][vp 8 0 0 7 65535 0]A promoção espera por você. Desista de sua falsa[n]identidade...[n][f 1 2 165][e]
 
-[msg MSG_007_0_0 [Ombra di Kaneshiro]]
+[msg MSG_007_0_0 [Sombra de Kaneshiro]]
 [s][vp 6 0 0 8 20 0]Que diabos?!?[n][f 1 2 30][e]
 
 [msg MSG_008_0_0 [Yusuke]]
@@ -46,7 +46,7 @@
 [msg MSG_015_0_0 [Morgana]]
 [s][vp 6 0 0 16 8 0]Nunca vi nada igual...[n][f 1 2 60][e]
 
-[msg MSG_016_0_0 [Ombra di Kaneshiro]]
+[msg MSG_016_0_0 [Sombra de Kaneshiro]]
 [s][vp 6 0 0 17 20 0]Cumpra o seu dever ou será comida para os vermes![n][f 1 2 85][e]
 
 [msg MSG_017_0_0 [Makoto]]

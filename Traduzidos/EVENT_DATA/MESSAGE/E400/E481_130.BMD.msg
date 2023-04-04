@@ -1,7 +1,7 @@
-[msg MSG_000_0_0 [Studentessa di nome Yoshizawa]]
+[msg MSG_000_0_0 [Colegial chamada Yoshizawa]]
 [s][bup 0 10 201 65535 0][f 4 10 65535 0 0][vp 8 0 0 1 4 0]Obrigado pelo almoço.[n][f 1 3 65535][w][e]
 
-[msg MSG_001_0_0 [Studentessa di nome Yoshizawa]]
+[msg MSG_001_0_0 [Colegial chamada Yoshizawa]]
 [s][bup 0 10 200 65535 0][f 4 10 65535 0 0][vp 8 0 0 2 4 0]Gostaria de agradecer novamente por[n]esta manhã.[n][f 1 3 65535][w][e]
 [s][bup 0 10 203 65535 0][f 4 10 65535 0 0][f 4 24 0 4 6 38 5 100][vp 8 0 0 3 4 0]Aquele homem era ainda mais[n]assustador do que você pode[n]ter pensado...[n][f 1 3 65535][w][e]
 [s][bup 0 10 201 65535 0][f 4 10 65535 0 0][f 4 24 0 4 6 42 5 100][vp 8 0 0 4 4 0]Então, eu realmente aprecio o que você fez por[n]mim! Muito obrigado.[n][f 1 3 65535][w][e]
@@ -10,33 +10,33 @@
 [s]Não se preocupe, não é nada.[e]
 [s]Esqueça isso.[e]
 
-[msg MSG_002_2_0 [Studentessa di nome Yoshizawa]]
+[msg MSG_002_2_0 [Colegial chamada Yoshizawa]]
 [s][bup 0 10 200 65535 0][f 4 10 65535 0 0][vp 8 0 0 5 4 0]Ei, ainda não terminei![n][f 1 3 65535][w][e]
 
-[msg MSG_002_4_0 [Studentessa di nome Yoshizawa]]
+[msg MSG_002_4_0 [Colegial chamada Yoshizawa]]
 [s][bup 0 10 201 65535 0][f 4 10 65535 0 0][vp 8 0 0 73 4 0]Sim![n][f 1 3 65535][w][e]
 
-[msg MSG_002_6_0 [Studentessa di nome Yoshizawa]]
+[msg MSG_002_6_0 [Colegial chamada Yoshizawa]]
 [s][bup 0 10 203 65535 0][f 4 10 65535 0 0][vp 8 0 0 74 4 0]Há uma última coisa que eu queria[n]dizer a você...[n][f 1 3 65535][w][e]
 
-[msg MSG_002_8_0 [Studentessa di nome Yoshizawa]]
+[msg MSG_002_8_0 [Colegial chamada Yoshizawa]]
 [s][bup 0 10 203 65535 0][f 4 10 65535 0 0][vp 8 0 0 75 4 0]Sinto muito pelo que[n]aconteceu outro dia![n][f 1 3 65535][w][e]
 
 [sel SEL_003_0_0 top]
 [s]O outro dia?[e]
 [s]O que você quer dizer?[e]
 
-[msg MSG_004_0_0 [Studentessa di nome Yoshizawa]]
+[msg MSG_004_0_0 [Colegial chamada Yoshizawa]]
 [s][bup 0 10 203 65535 0][f 4 10 65535 0 0][vp 8 0 0 6 4 0]...A discussão que tivemos[n]fora do escritório do consultor.[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Kamoshida]]
 [s][vp 8 0 0 7 65535 0]Lembra da nossa discussão? Tem[n]alunos aqui com quem[n]você não quer mexer...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]E isso aqui está no topo da lista.[n][f 1 3 65535][w][e]
 
-[msg MSG_006_0_0 [Studentessa di nome Yoshizawa]]
+[msg MSG_006_0_0 [Colegial chamada Yoshizawa]]
 [s][vp 8 0 0 9 65535 0]Oh, o novo aluno[n]delinquente...[n][f 1 3 65535][w][e]
 
-[msg MSG_007_0_0 [Studentessa di nome Yoshizawa]]
+[msg MSG_007_0_0 [Colegial chamada Yoshizawa]]
 [s][bup 0 10 203 65535 0][f 4 10 65535 0 0][vp 8 0 0 10 4 0]Prof. Kamoshida tinha acabado de[n]me falar sobre você, então, bem,[n]falei sem pensar...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 11 4 0]Eu também ouvi alguns dos meus[n]companheiros fofocando sobre você.[n][f 1 3 65535][w][e]
 
@@ -45,20 +45,20 @@
 [s]Você ficou surpreso?[e]
 [s]Você está falando sério?[e]
 
-[msg MSG_009_0_0 [Studentessa di nome Yoshizawa]]
+[msg MSG_009_0_0 [Colegial chamada Yoshizawa]]
 [s][bup 0 10 200 65535 0][f 4 10 65535 0 0][vp 8 0 0 12 4 0]Não, nada disso.[n][f 1 3 65535][w][e]
 
-[msg MSG_010_0_0 [Studentessa di nome Yoshizawa]]
+[msg MSG_010_0_0 [Colegial chamada Yoshizawa]]
 [s][bup 0 10 200 65535 0][f 4 10 65535 0 0][vp 8 0 0 13 4 0]Sim, mas não pensei muito nisso.[n][f 1 3 65535][w][e]
 
-[msg MSG_010_5_0 [Studentessa di nome Yoshizawa]]
+[msg MSG_010_5_0 [Colegial chamada Yoshizawa]]
 [s][bup 0 10 200 65535 0][f 4 10 65535 0 0][vp 8 0 0 76 4 0]Sim, as pessoas estão dizendo[n]todo tipo de coisa pelas suas costas.[n][f 1 3 65535][w][e]
 
-[msg MSG_011_0_0 [Studentessa di nome Yoshizawa]]
+[msg MSG_011_0_0 [Colegial chamada Yoshizawa]]
 [s][bup 0 10 200 65535 0][f 4 10 65535 0 0][vp 8 0 0 14 4 0]Não suporto fofocas, boatos[n]e coisas do tipo...[n][f 1 3 65535][w][e]
 [s][bup 0 10 201 65535 0][f 4 10 65535 0 0][f 4 24 0 4 6 42 5 100][vp 8 0 0 77 4 0]E eu sei que vai parecer estranho para você, já[n]que acabei de te conhecer, mas não acho que você[n]seja o que eles retratam.[n][f 1 3 65535][w][e]
 
-[msg MSG_012_0_0 [Studentessa di nome Yoshizawa]]
+[msg MSG_012_0_0 [Colegial chamada Yoshizawa]]
 [s][bup 0 10 200 65535 0][f 4 10 65535 0 0][vp 8 0 0 16 4 0]Mas seria outra história se[n]esses rumores fossem realmente[n]verdadeiros.[n][f 1 3 65535][w][e]
 [s][bup 0 10 203 65535 0][f 4 10 65535 0 0][f 4 24 0 4 6 38 5 100][vp 8 0 0 17 4 0]Quais foram os crimes de que ouvi falar? Roubo,[n]assassinato e... tráfico de presas de elefante,[n]certo?[n][f 1 3 65535][w][e]
 
@@ -67,36 +67,36 @@
 [s]Bem, isso é novo para mim.[e]
 [s]Eu também dirijo sem carteira.[e]
 
-[msg MSG_014_0_0 [Studentessa di nome Yoshizawa]]
+[msg MSG_014_0_0 [Colegial chamada Yoshizawa]]
 [s][bup 0 10 201 65535 0][f 4 10 65535 0 0][vp 8 0 0 18 4 0]Foi o que pensei também.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 81 4 0]Nunca confie em boatos, mas[n]todos tremem de medo só[n]de ouvir seu nome.[n][f 1 3 65535][w][e]
 
-[msg MSG_014_3_0 [Studentessa di nome Yoshizawa]]
+[msg MSG_014_3_0 [Colegial chamada Yoshizawa]]
 [s][bup 0 10 201 65535 0][f 4 10 65535 0 0][vp 8 0 0 78 4 0]É um absurdo, não é?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 19 4 0]Nunca confie em boatos, mas[n]todos tremem de medo só[n]de ouvir seu nome.[n][f 1 3 65535][w][e]
 
 [msg MSG_014_5_0 [Studentessa di nome Yoshizawa]]
 [s][bup 0 10 201 65535 0][f 4 10 65535 0 0][vp 8 0 0 79 4 0]Hehe. Até eu entendo[n]que você está brincando.[n][f 1 3 65535][w][e]
 
-[msg MSG_014_7_0 [Studentessa di nome Yoshizawa]]
+[msg MSG_014_7_0 [Colegial chamada Yoshizawa]]
 [s][bup 0 10 204 65535 0][f 4 10 65535 0 0][vp 8 0 0 80 4 0]Hã?[n][f 1 3 65535][w][e]
 
-[msg MSG_015_0_0 [Studentessa di nome Yoshizawa]]
+[msg MSG_015_0_0 [Colegial chamada Yoshizawa]]
 [s][bup 0 10 204 65535 0][f 4 10 65535 0 0][vp 8 0 0 20 4 0]Ai meu Deus, acabei de perceber[n]isso... Ainda não[n]apresentei-me![n][f 1 3 65535][w][e]
 
 [sel SEL_016_0_0 top]
 [s]Eu sou [f 4 3].[e]
 [s]Eu sou [f 4 1], segundo ano.[e]
 
-[msg MSG_017_0_0 [Studentessa di nome Yoshizawa]]
+[msg MSG_017_0_0 [Colegial chamada Yoshizawa]]
 [s][bup 0 10 200 65535 0][f 4 10 65535 0 0][vp 8 0 0 21 4 0]Oh, desculpe, eu fiz[n]você dizer isso antes... [f 4 1]-senpai.[n][f 1 3 65535][w][e]
 [s][bup 0 10 201 65535 0][f 4 10 65535 0 0][f 4 24 0 4 6 42 3 100][vp 8 0 0 22 4 0]Sinto muito por ter demorado tanto,[n]mas espero que nos demos bem![n][f 1 3 65535][w][e]
 
-[msg MSG_018_0_0 [Studentessa di nome Yoshizawa]]
+[msg MSG_018_0_0 [Colegial chamada Yoshizawa]]
 [s][bup 0 10 200 65535 0][f 4 10 65535 0 0][vp 8 0 0 23 4 0]Oh, desculpe, eu fiz[n]você dizer isso antes... [f 4 1]-senpai.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 24 4 0]Oh, você não precisa ser tão[n]legal... Afinal, eu[n]ainda sou a primeira garota.[n][f 1 3 65535][w][e]
 
-[msg MSG_019_0_0 [Studentessa di nome Yoshizawa]]
+[msg MSG_019_0_0 [Colegial chamada Yoshizawa]]
 [s][bup 0 10 200 65535 0][f 4 10 65535 0 0][vp 8 0 0 25 4 0]Antes, na escola, você já deve ter ouvido[n]que meu...[n][f 1 2 70][e]
 
 [msg MSG_020_0_0 [Morgana]]
@@ -105,18 +105,18 @@
 [msg MND_021_0_0]
 [s][vp 8 0 0 0 65535 0]Parece um diário da Shujin Academy.[n]Dentro diz[n]"Kasumi Yoshizawa".[n][f 1 3 65535][w][e]
 
-[msg MSG_022_0_0 [Studentessa di nome Yoshizawa]]
+[msg MSG_022_0_0 [Colegial chamada Yoshizawa]]
 [s][bup 0 10 200 65535 0][f 4 10 65535 0 0][vp 8 0 0 27 4 0]Bem na hora...[n][f 1 3 65535][w][e]
 [s][bup 0 10 201 65535 0][f 4 10 65535 0 0][f 4 24 0 4 6 42 5 100][vp 8 0 0 28 4 0]Aqui está. Nunca separe as[n]coisas que você gosta, ok?[n][f 1 3 65535][w][e]
 
-[msg MSG_023_0_0 [Studentessa di nome Yoshizawa]]
+[msg MSG_023_0_0 [Colegial chamada Yoshizawa]]
 [s][bup 0 10 200 65535 0][f 4 10 65535 0 0][vp 8 0 0 29 4 0]Desculpe, eu não queria abandoná-lo[n]assim.[n][f 1 3 65535][w][e]
 
 [sel SEL_024_0_0 top]
 [s]Então você é Kasumi Yoshizawa?[e]
 [s]Você deixou cair isso.[e]
 
-[msg MSG_025_0_0 [Studentessa di nome Yoshizawa]]
+[msg MSG_025_0_0 [Colegial chamada Yoshizawa]]
 [s][bup 0 10 204 65535 0][f 4 10 65535 0 0][vp 8 0 0 30 4 0]Hã?[n][f 1 3 65535][w][e]
 
 [msg MSG_026_0_0 [Kasumi]]

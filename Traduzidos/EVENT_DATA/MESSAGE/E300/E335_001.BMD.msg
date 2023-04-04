@@ -7,19 +7,19 @@
 [msg MSG_002_0_0 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]...Mas claro![n][f 1 3 65535][w][e]
 
-[msg MSG_003_0_0 [Uomo ben vestito]]
+[msg MSG_003_0_0 [Homem bem vestido]]
 [s][bup 0 211 2 0 0][f 4 10 65535 0 0][vp 8 0 0 4 11 0]Eu estive procurando por você em todos os[n]lugares...[n][f 1 3 65535][w][e]
 
-[msg MSG_003_5_0 [Uomo ben vestito]]
+[msg MSG_003_5_0 [Homem bem vestido]]
 [s][bup 0 211 0 0 0][f 4 10 65535 0 0][vp 8 0 0 5 11 0]O que você estava fazendo, inacessível[n]no celular? Você estava saindo[n]com outros caras, certo?[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Haru]]
 [s][bup 0 7 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Eu nunca faria algo assim.[n][f 1 3 65535][w][e]
 
-[msg MSG_005_0_0 [Uomo ben vestito]]
+[msg MSG_005_0_0 [Homem bem vestido]]
 [s][bup 0 211 1 0 0][f 4 10 65535 0 0][vp 8 0 0 7 11 0]Vamos lá, dê[n]um pouco de diversão também...[n][f 1 3 65535][w][e]
 
-[msg MSG_006_0_0 [Uomo ben vestito]]
+[msg MSG_006_0_0 [Homem bem vestido]]
 [s][bup 0 211 2 0 0][f 4 10 65535 0 0][vp 8 0 0 8 11 0]Ou comigo você não quer?[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Haru]]
@@ -29,7 +29,7 @@
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 3 7 301 1][vp 8 0 0 10 65535 0]Haru![n][f 1 3 65535][w][e]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Filho da... deixa ela ir![n][f 1 3 65535][w][e]
 
-[msg MSG_009_0_0 [Uomo ben vestito]]
+[msg MSG_009_0_0 [Homem bem vestido]]
 [s][bup 0 211 2 0 0][f 4 10 65535 0 0][vp 8 0 0 12 11 0]Que... maldito gato![n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Haru]]
@@ -39,13 +39,13 @@
 [s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Droga... eu sou mesmo...[n]inútil...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Ajude...alguém...[n]Alguém me ouviu?[n][f 1 3 65535][w][e]
 
-[msg MSG_012_0_0 [Uomo ben vestito]]
+[msg MSG_012_0_0 [Homem bem vestido]]
 [s][bup 0 211 2 0 0][f 4 10 65535 0 0][vp 8 0 0 16 11 0]Vai calar a boca, seu gato estúpido?[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Ryuji]]
 [s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Maldita Morgana...[n]Da próxima vez que o virmos,[n]vou bater nele.[n][f 1 3 65535][w][e]
 
-[msg MSG_014_0_0 [Voce di Morgana]]
+[msg MSG_014_0_0 [Voz de Morgana]]
 [s][bup 0 3 5 65535 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Qualquer...alguém...?[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Futaba]]
@@ -66,16 +66,16 @@
 [msg MSG_021_0_0 [Ryuji]]
 [s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]Que porra você está fazendo[n]com nosso amigo?[n][f 1 3 65535][w][e]
 
-[msg MSG_022_0_0 [Uomo ben vestito]]
+[msg MSG_022_0_0 [Homem bem vestido]]
 [s][bup 0 211 1 0 0][f 4 10 65535 0 0][vp 8 0 0 26 11 0]Peço desculpas pelo inconveniente.[n]Uma briga de namorados,[n]só isso.[n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Ann]]
 [s][bup 0 4 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 27 65535 0]Apaixonado... o quê? Mas se ele[n]estava claramente se rebelando![n][f 1 3 65535][w][e]
 
-[msg MSG_027_0_0 [Fidanzato]]
+[msg MSG_027_0_0 [Noiva]]
 [s][bup 0 211 2 0 0][f 4 10 65535 0 0][vp 8 0 0 33 11 0]Você me fez de bobo.[n]Seu pai vai descobrir.[n][f 1 3 65535][w][e]
 
-[msg MSG_028_0_0 [Fidanzato]]
+[msg MSG_028_0_0 [Noiva]]
 [s][bup 0 211 2 0 0][f 4 10 65535 0 0][vp 8 0 0 35 11 0]Não vou esquecer seus rostos.[n][f 1 3 65535][w][e]
 
 [msg MSG_029_0_0 [Ann]]

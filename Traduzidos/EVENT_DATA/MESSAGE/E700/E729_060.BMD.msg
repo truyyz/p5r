@@ -4,10 +4,10 @@
 [msg MSG_001_0_0 [Justine]]
 [s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Um rei vive naquele castelo?[n]Não deveríamos prestar-lhe[n]nossas homenagens?[n][f 1 3 65535][w][e]
 
-[msg MSG_002_0_0 [Donna allegra]]
+[msg MSG_002_0_0 [Mulher alegre]]
 [s][vp 8 0 0 0 65535 0]A procissão vai começar![n][f 1 3 65535][w][e]
 
-[msg MSG_003_0_0 [Ragazza entusiasta]]
+[msg MSG_003_0_0 [Garota entusiasmada]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 102 7 301 65535][vp 8 0 0 0 65535 0]Vai, vai, vai![n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Caroline]]

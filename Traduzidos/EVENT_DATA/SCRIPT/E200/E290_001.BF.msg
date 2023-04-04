@@ -1,8 +1,8 @@
 [msg MSG_018_0_0 [Makoto]]
-[s][bup 0 6 0 1 0][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]Contamos com você, [f 4 2]-kun.[n]Tente obter uma palavra-chave.[n][f 1 3 65535][w][e]
+[s][bup 0 6 0 1 0][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]Contamos com você, [f 4 2]-kun.[n]Tente obter uma palavra-chave dela.[n][f 1 3 65535][w][e]
 
 [msg MSG_018_5_0 [Alibaba]]
-[s][vp 8 0 0 0 65535 0][f 5 14]O que você gostaria de ouvir?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 5 14]O que você gostaria de saber?[n][f 1 3 65535][w][e]
 
 [sel SEL_019_0_0 top]
 [s][f 5 14]O que é esta casa para você?[e]
@@ -36,7 +36,7 @@
 [s][vp 8 0 0 0 65535 0][f 5 14]É doloroso...[n][f 1 3 65535][w][e]
 
 [sel SEL_025_0_0 top]
-[s][f 5 14]Porque?[e]
+[s][f 5 14]Por quê?[e]
 [s]Você acha chato?[e]
 [s]Por que você não sai?[e]
 
@@ -45,7 +45,7 @@
 [s]Por que você não sai?[e]
 
 [sel SEL_025_2_0 top]
-[s][f 5 14]Porque?[e]
+[s][f 5 14]Por quê?[e]
 [s]Por que você não sai?[e]
 
 [sel SEL_025_3_0 top]

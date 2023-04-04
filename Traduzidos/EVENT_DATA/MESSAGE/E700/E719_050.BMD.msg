@@ -2,30 +2,30 @@
 [s][bup 0 112 2 0 0][f 4 10 65535 0 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 112 13 301 65535][vp 8 2 0 20081 65535 0]Agir não em interesse próprio,[n]mas para o bem comum...[n][f 1 3 65535][w][e]
 [s][f 4 7 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 112 13 301 1][vp 8 2 0 20086 65535 0]...Esta é a mentalidade que nós[n]políticos devemos incutir[n]em nossos eleitores![n][f 1 3 65535][w][e]
 
-[msg MSG_001_0_0 [Cameraman]]
+[msg MSG_001_0_0 [Operador de câmera]]
 [s][vp 8 0 0 0 6 0]...OK, está tudo pronto.[n][f 1 3 65535][w][e]
 
-[msg MSG_002_0_0 [Regista]]
+[msg MSG_002_0_0 [Diretor]]
 [s][vp 8 0 0 0 5 0]OK, devemos ser capazes de fazer muitas tomadas[n]interessantes. É "Tora Wimpy", a propósito.[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Yoshida]]
 [s][bup 0 112 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Promover uma política excessivamente[n]otimista apenas para atrair votos[n]durante a campanha eleitoral...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Foi assim que o imprestável Tora agiu há 20 anos,[n]assumindo compromissos irrealizáveis.[n][f 1 3 65535][w][e]
 
-[msg MSG_004_0_0 [Regista]]
+[msg MSG_004_0_0 [Diretor]]
 [s][vp 8 0 0 0 5 0]Hm, não é assim que eu[n]esperava que fosse...[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Yoshida]]
 [s][bup 0 112 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Se você fizer uma promessa, você deve[n]mantê-la. Se você cometer um[n]erro, deverá corrigi-lo.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Existem[n]princípios humanos básicos que[n]aprendemos desde o início dos tempos...[n][f 1 3 65535][w][e]
 
-[msg MSG_006_0_0 [Regista]]
+[msg MSG_006_0_0 [Diretor]]
 [s][vp 8 0 0 0 5 0]Que chato.[n][f 1 3 65535][w][e]
 
-[msg MSG_007_0_0 [Cameraman]]
+[msg MSG_007_0_0 [Operador de câmera]]
 [s][vp 8 0 0 0 6 0]Ele está trazendo alguns bons[n]argumentos, você não acha?[n][f 1 3 65535][w][e]
 
-[msg MSG_008_0_0 [Regista]]
+[msg MSG_008_0_0 [Diretor]]
 [s][vp 8 0 0 0 5 0]É por isso que não precisamos![n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Yoshida]]
@@ -68,13 +68,13 @@
 [s][vp 8 0 0 0 65535 0]Yoshida fez questão de[n]recomendar-me...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Sinto que meu vínculo[n]com Yoshida está ficando mais forte...[n][f 1 3 65535][w][e]
 
-[msg MSG_018_0_0 [Uomo in abito firmato]]
+[msg MSG_018_0_0 [Homem de terno de designer]]
 [s][vp 8 0 0 0 12 0]Sr. Yoshida, que grandes[n]discursos. Mal posso acreditar que[n]ele perdeu as duas últimas eleições.[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Yoshida]]
 [s][bup 0 112 4 0 0][f 4 10 65535 0 0][vp 8 2 0 20038 65535 0]Mas você é... sobrinho do Sr. Kuramoto?[n][f 1 3 65535][w][e]
 
-[msg MSG_020_0_0 [Uomo in abito firmato]]
+[msg MSG_020_0_0 [Homem de terno de designer]]
 [s][vp 8 0 0 0 12 0]Ele mesmo.[n]Sou seu sobrinho Benzo.[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Yoshida]]

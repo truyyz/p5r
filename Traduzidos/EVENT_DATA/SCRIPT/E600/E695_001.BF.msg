@@ -2,7 +2,7 @@
 [s]スクリプトから発行した[n]メッセージです。[n][w][e]
 
 [msg MSG_001_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você já ouviu? Aparentemente,[n]é[n]um hambúrguer gigante.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você já ouviu? Aparentemente,[n]é um hambúrguer gigante.[n][f 1 3 65535][w][e]
 
 [sel SEL_002_0_0 top]
 [s]Parece fantástico.[e]
@@ -10,16 +10,16 @@
 [s]Isso me deixaria doente...[e]
 
 [msg MSG_003_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Este é o espírito certo![n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]Um Ladrão Fantasma deve ter [f 4 11 3][clr 26][n][f 4 12 3][clr 27] para provar qualquer coisa.[n]Devemos ir lá algum dia.[n][f 1 3 65535 ][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Este é o espírito![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Um Phantom Thief deve ter [f 4 11 3][clr 26][n][f 4 12 3][clr 27] para provar qualquer coisa.[n]Devemos ir lá algum dia.[n][f 1 3 65535 ][w][e]
 
 [msg MSG_004_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não seja tão passivo...[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]Um Ladrão Fantasma deve ter [f 4 11 3][clr 26][n][f 4 12 3][clr 27] para provar qualquer coisa.[n]Devemos ir lá algum dia.[n][f 1 3 65535 ][w][e]
+[s][vp 8 0 0 0 65535 0]Um Phantom Thief deve ter [f 4 11 3][clr 26][n][f 4 12 3][clr 27] para provar qualquer coisa.[n]Devemos ir lá algum dia.[n][f 1 3 65535 ][w][e]
 
 [msg MSG_005_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sem reclamações! Young[n]pode comer qualquer coisa![n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]Um Ladrão Fantasma deve ter [f 4 11 3][clr 26][n][f 4 12 3][clr 27] para provar qualquer coisa.[n]Devemos ir lá algum dia.[n][f 1 3 65535 ][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sem reclamações! Pessoas jovens[n]podem comer qualquer coisa![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Um Phantom Thief deve ter [f 4 11 3][clr 26][n][f 4 12 3][clr 27] para provar qualquer coisa.[n]Devemos ir lá algum dia.[n][f 1 3 65535 ][w][e]
 
 [msg MSG_GREET_RESERVE_1]
 [s][vp 8 2 65535 0 0 0]Cara... eu quero ir pra casa...[n][f 1 3 65535][w][e]
@@ -34,7 +34,7 @@
 [s][vp 8 2 65535 0 0 0]Não quero[n]ir trabalhar...[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_RESERVE_5]
-[s][vp 8 2 65535 0 0 0]Mas nunca fazemos uma pausa?[n][f 1 3 65535][w][e]
+[s][vp 8 2 65535 0 0 0]Nós nunca temos uma pausa?[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_0902_1]
 [s][vp 8 2 65535 0 0 0]E você acha que eles podem fazer o que quiserem[n]só porque é uma escola particular?[n][f 1 3 65535][w][e]
@@ -109,7 +109,7 @@
 [s][vp 8 2 65535 0 0 0]Agora eu também estou bastante informado sobre[n]eles.[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_0828_5]
-[s][vp 8 2 65535 0 0 0]Minha filha é literalmente[n]obcecada por Phantom Thieves...[n][f 1 3 65535][w][e]
+[s][vp 8 2 65535 0 0 0]Minha filha é literalmente[n]obcecada pelos Phantom Thieves...[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_0830_1]
 [s][vp 8 2 65535 0 0 0]Você já ouviu falar[n]sobre os Phantom Thieves?[n][f 1 3 65535][w][e]
@@ -118,7 +118,7 @@
 [s][vp 8 2 65535 0 0 0]Foram eles que derrotaram[n]aqueles hackers, não foi?[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_0830_3]
-[s][vp 8 2 65535 0 0 0]Sim. Eu sou como[n]super-heróis agora.[n][f 1 3 65535][w][e]
+[s][vp 8 2 65535 0 0 0]Sim. Eles são como[n]super-heróis agora.[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_0830_4]
 [s][vp 8 2 65535 0 0 0]Eu gostaria que os Phantom Thieves[n]me salvassem...[n][f 1 3 65535][w][e]

@@ -1,13 +1,13 @@
-[msg MSG_000_0_0 [Studentessa dai capelli castani]]
+[msg MSG_000_0_0 [Estudante de cabelo castanho]]
 [s][vp 8 0 0 1 8 0]Por que esta assembléia matinal repentina...?[n][f 1 3 65535][w][e]
 
-[msg MSG_001_0_0 [Studentessa vistosa]]
+[msg MSG_001_0_0 [Estudante vistoso]]
 [s][vp 8 0 0 2 9 0]Aposto que tem a ver com a garota[n]que pulou outro dia.[n][f 1 3 65535][w][e]
 
-[msg MSG_002_0_0 [Studentessa dai capelli castani]]
+[msg MSG_002_0_0 [Estudante de cabelo castanho]]
 [s][vp 8 0 0 3 8 0]Eles certamente não precisam nos dizer[n]que não devemos cometer suicídio.[n][f 1 3 65535][w][e]
 
-[msg MSG_003_0_0 [Studentessa vistosa]]
+[msg MSG_003_0_0 [Estudante vistoso]]
 [s][vp 8 0 0 4 9 0]Havia também aquela carta estranha[n]desafio, então acho que[n]os professores estão enlouquecendo.[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [(SE)ロングの女子生徒]]
@@ -100,7 +100,7 @@
 [msg MSG_029_0_0 [Diretor]]
 [s][bup 0 204 4 0 0][f 4 10 65535 0 0][vp 8 0 0 40 65535 0]Professor Kamoshida! Por favor[n]saia do palco agora![n][f 1 3 65535][w][e]
 
-[msg MSG_030_0_0 [Insegnante con completo]]
+[msg MSG_030_0_0 [Professor com terno]]
 [s][vp 8 0 0 41 19 0]Todos voltem para suas salas de aula![n][f 1 3 65535][w][e]
 
 [msg MSG_031_0_0 [Kamoshida]]
@@ -148,31 +148,31 @@
 [msg MSG_043_0_0 [Ryuji]]
 [s][bup 0 2 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 58 65535 0]Uau...[n][f 1 3 65535][w][e]
 
-[msg MSG_044_0_0 [Insegnante con completo]]
+[msg MSG_044_0_0 [Professor com terno]]
 [s][vp 8 0 0 59 19 0]A assembléia da manhã acabou![n]Voltem para suas salas de aula imediatamente![n][f 1 3 65535][w][e]
 
-[msg MSG_045_0_0 [Studente preoccupato]]
+[msg MSG_045_0_0 [Estudante preocupado]]
 [s][vp 8 0 0 60 17 0]Não é exatamente o que estava escrito[n]naquela carta de aviso...?[n][f 1 3 65535][w][e]
 
-[msg MSG_046_0_0 [Studente in abiti casual]]
+[msg MSG_046_0_0 [Estudante em roupas casuais]]
 [s][vp 8 0 0 61 18 0]Então esses Phantom Thieves[n]realmente existem!?![n][f 1 3 65535][w][e]
 
-[msg MSG_047_0_0 [Studente preoccupato]]
+[msg MSG_047_0_0 [Estudante preocupado]]
 [s][vp 8 0 0 62 17 0]Eles fizeram algo com Kamoshida!?![n][f 1 3 65535][w][e]
 
-[msg MSG_048_0_0 [Studente in abiti casual]]
+[msg MSG_048_0_0 [Estudante em roupas casuais]]
 [s][vp 8 0 0 63 18 0]Imagine, não há como[n]roubar o coração de alguém![n][f 1 3 65535][w][e]
 
-[msg MSG_049_0_0 [Studentessa dai capelli castani]]
+[msg MSG_049_0_0 [Estudante de cabelo castanho]]
 [s][vp 8 0 0 64 13 0]Mas então por que ele começou[n]dizendo que quer[n]se matar ou se entregar?[n][f 1 3 65535][w][e]
 
-[msg MSG_050_0_0 [Studentessa vistosa]]
+[msg MSG_050_0_0 [Estudante vistoso]]
 [s][vp 8 0 0 65 9 0]Talvez porque estava prestes a[n]tudo vir à tona? Não mais[n]compreendendo se você se entregar?[n][f 1 3 65535][w][e]
 
-[msg MSG_051_0_0 [Studente preoccupato]]
+[msg MSG_051_0_0 [Estudante preocupado]]
 [s][vp 8 0 0 66 17 0]Quem sabe o que aconteceu...[n][f 1 3 65535][w][e]
 
-[msg MSG_052_0_0 [Studente in abiti casual]]
+[msg MSG_052_0_0 [Estudante em roupas casuais]]
 [s][vp 8 0 0 67 18 0]Quem sabe? Mas droga, agora sabemos[n]que Kamoshida é um verdadeiro pervertido.[n][f 1 3 65535][w][e]
 
 [msg MSG_053_0_0 [(SE)茶髪の女子生徒]]
@@ -190,7 +190,7 @@
 [msg MSG_057_0_0 [(SE)背の低い女子生徒]]
 [s][vp 8 0 0 72 65535 0]これ...大騒ぎになるね。[n][f 1 3 65535][w][e]
 
-[msg MSG_058_0_0 [Insegnante con completo]]
+[msg MSG_058_0_0 [Professor com terno]]
 [s][vp 8 0 0 73 19 0]Voltem para suas salas de aula agora![n][f 1 3 65535][w][e]
 
 [msg MSG_059_0_0 [Ann]]
@@ -229,14 +229,14 @@
 [msg MSG_069_0_0 [Mishima]]
 [s][bup 0 111 503 65535 0][f 4 10 65535 0 0][vp 8 0 0 84 65535 0]Todos nós sabíamos disso...[n]mas ignoramos.[n][f 1 3 65535][w][e]
 
-[msg MSG_070_0_0 [Studentessa alta]]
+[msg MSG_070_0_0 [Estudante alto]]
 [s][vp 8 0 0 85 22 0]Takamaki-san, pensei[n]mal de você... Perdoe-me por[n]espalhar esses rumores sobre você![n][f 1 3 65535][w][e]
 
-[msg MSG_071_0_0 [Studentessa dai capelli neri]]
+[msg MSG_071_0_0 [Estudante de cabelo preto]]
 [s][vp 8 0 0 86 21 0]Eu realmente não imaginava...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 87 65535 0]Kamoshida tentou levá-lo[n]para a cama contra sua vontade...[n]Deve ter sido um inferno para você![n][f 1 3 65535][w][e]
 
-[msg MSG_072_0_0 [Studentessa alta]]
+[msg MSG_072_0_0 [Estudante alto]]
 [s][vp 8 0 0 88 22 0]Certamente muitos outros[n]gostariam de se desculpar.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 89 65535 0]Sentimos muito...![n][f 1 3 65535][w][e]
 
@@ -244,10 +244,10 @@
 [s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 90 65535 0]Não, está tudo bem.[n]É o mesmo para mim...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 91 65535 0]Está tudo acabado agora.[n][f 1 3 65535][w][e]
 
-[msg MSG_074_0_0 [Insegnante con completo]]
+[msg MSG_074_0_0 [Professor com terno]]
 [s][vp 8 0 0 92 19 0]Ei você! Volte para a aula![n][f 1 3 65535][w][e]
 
-[msg MSG_075_0_0 [Studentessa alta]]
+[msg MSG_075_0_0 [Estudante alto]]
 [s][vp 8 0 0 93 22 0]B-Bem, até logo...[n][f 1 3 65535][w][e]
 
 [msg MSG_076_0_0 [Mishima]]

@@ -1,16 +1,16 @@
-[msg MSG_000_0_0 [Signora anziana]]
+[msg MSG_000_0_0 [Velha Senhora]]
 [s][vp 8 0 0 0 5 0]...Obrigado querida. É[n]meu lenço favorito.[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Takemi]]
 [s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 2 0 14020 65535 0]...estava bem[n]na minha frente, então...[n][f 1 3 65535][w][e]
 
-[msg MSG_002_0_0 [Signora anziana]]
+[msg MSG_002_0_0 [Velha Senhora]]
 [s][vp 8 0 0 0 5 0]Céu! Você é tímido, hein?[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Takemi]]
 [s][bup 0 108 7 0 0][f 4 10 65535 0 0][vp 8 2 0 14042 65535 0]E-Eu não sou tímido![n][f 1 3 65535][w][e]
 
-[msg MSG_004_0_0 [Signora anziana]]
+[msg MSG_004_0_0 [Velha Senhora]]
 [s][vp 8 0 0 0 5 0]Minha vizinha fala muito bem de você.[n]Ela diz que seus remédios são[n]melhores do que os hospitais.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 5 0]É reconfortante saber que tenho um médico tão bom[n]aqui na cidade. Até breve.[n][f 1 3 65535][w][e]
 

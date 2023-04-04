@@ -5,13 +5,13 @@
 [msg MSG_001_0_0 [Futaba]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 8 7 300 1][vp 8 2 0 9039 65535 0]O-O que está acontecendo?!?[n][f 1 3 65535][w][e]
 
-[msg MSG_002_0_0 [Uomo smilzo]]
+[msg MSG_002_0_0 [Homem magro]]
 [s][vp 8 0 0 0 65535 0]Eles têm um desconto louco[n]no departamento de PC! E os suprimentos[n]são superlimitados![n][f 1 3 65535][w][e]
 
-[msg MSG_003_0_0 [Donna dai capelli neri]]
+[msg MSG_003_0_0 [Mulher de cabelo preto]]
 [s][vp 8 0 0 0 65535 0]Três tera por apenas quinhentos[n]ienes?!? É uma pechincha![n][f 1 3 65535][w][e]
 
-[msg MSG_004_0_0 [Uomo che corre]]
+[msg MSG_004_0_0 [Corredor]]
 [s][vp 8 0 0 0 65535 0]Os estoques vão acabar[n]em um momento![n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Futaba]]

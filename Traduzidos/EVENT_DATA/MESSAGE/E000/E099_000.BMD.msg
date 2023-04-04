@@ -61,7 +61,7 @@
 [s][bup 0 2 100 65535 0][f 4 10 65535 0 0][vp 8 2 0 7021 65535 0]Uma estrela, né? Ele disse que era[n]uma concessão de desejo,[n]ou algo assim...[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Duvido que tal coisa possa realmente[n]acontecer,[n]mesmo em Memento...[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Duvido que tal coisa possa realmente[n]acontecer,[n]mesmo em Mementos...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bem, tentar fazer[n]um desejo não custa nada de qualquer maneira.[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Ann]]

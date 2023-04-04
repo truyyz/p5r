@@ -1,4 +1,4 @@
-[msg D08_02_e454_015_mes01 [Voce di Lavenza]]
+[msg D08_02_e454_015_mes01 [Voz de Lavenza]]
 [s]Parece que você conseguiu[n]salvar todos os seus camaradas...[n][w][e]
 [s]Então, por favor, reúnam-se imediatamente nesta[n]sala.[n][w][e]
 
@@ -28,7 +28,7 @@
 
 [msg D08_02_e454_015_02_selA__2 [Ann]]
 [s][bup 0 4 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6058 65535 0]E-ei, como está a Mona?[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ele tem agido de forma estranha desde que[n]entramos no Memento. Eu estava preocupado com[n]ele...[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ele tem agido de forma estranha desde que[n]entramos no Mementos. Eu estava preocupado com[n]ele...[n][w][e]
 [s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Bem, eu vou ver[n]pessoalmente primeiro. Vamos alcançar[n]os outros![n][w][e]
 
 [msg D08_02_e454_015_03_mes01 [Yusuke]]

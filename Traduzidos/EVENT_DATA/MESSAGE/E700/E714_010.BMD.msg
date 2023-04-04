@@ -26,7 +26,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]A chave está atrás da[n]caixa de correio, podemos entrar quando[n]quisermos. O proprietário não se importa.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 7 300 65535][vp 8 0 0 12 65535 0]O local está decidido, então...[n][f 1 3 65535][w][e]
 
-[msg MSG_013_0_0 [Voce di uno studente]]
+[msg MSG_013_0_0 [Voz de um aluno]]
 [s][vp 8 0 0 13 65535 0]...Ei, eu ouvi tudo![n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Ryuji]]

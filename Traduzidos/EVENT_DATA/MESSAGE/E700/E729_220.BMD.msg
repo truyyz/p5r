@@ -1,7 +1,7 @@
-[msg MSG_000_0_0 [Negoziante allegro]]
+[msg MSG_000_0_0 [Lojista alegre]]
 [s][vp 8 0 0 0 65535 0]Bem-vindo! Temos muitos[n]novos, bem a tempo[n]para o inverno![n][f 1 3 65535][w][e]
 
-[msg MSG_001_0_0 [Negoziante chiassoso]]
+[msg MSG_001_0_0 [Lojista barulhento]]
 [s][vp 8 0 0 0 65535 0]Até quinze por cento de desconto[n]na compra de pelo menos dois itens![n]Apresse-se, antes que esta oferta acabe![n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Justine]]
@@ -10,11 +10,11 @@
 [msg MSG_003_0_0 [Caroline]]
 [s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]A multidão quer satisfazer suas[n]necessidades, e os mercadores buscam[n]lucros. Um verdadeiro redemoinho de desejos.[n][f 1 3 65535][w][e]
 
-[msg MSG_004_0_0 [Giovane donna]]
+[msg MSG_004_0_0 [Mulher jovem]]
 [s][vp 8 0 0 0 65535 0]É bonitinho, mas é bem caro...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Ah ok. Hoje eu posso me mimar um pouco.[n][f 1 3 65535][w][e]
 
-[msg MSG_005_0_0 [Impiegata]]
+[msg MSG_005_0_0 [Noivo]]
 [s][vp 8 0 0 0 65535 0]Isso, obrigado! Vou cobrir[n]despesas com meu bônus...[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Justine]]
@@ -36,16 +36,16 @@
 [msg MSG_010_0_0 [Caroline]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 102 1 300 1][vp 8 2 0 11095 65535 0]Estamos procurando alguns pombinhos,[n]Prisioneiro![n][f 1 3 65535][w][e]
 
-[msg MSG_011_0_0 [Donna con una relazione]]
+[msg MSG_011_0_0 [Mulher tendo um caso]]
 [s][vp 8 0 0 0 65535 0]Ai meu Deus, esse aqui é tão lindo![n][f 1 3 65535][w][e]
 
-[msg MSG_012_0_0 [Negoziante della gioielleria]]
+[msg MSG_012_0_0 [Lojista de joias]]
 [s][vp 8 0 0 0 65535 0]Ah, acabou de chegar ontem.[n]Também temos a[n]versão masculina.[n][f 1 3 65535][w][e]
 
-[msg MSG_013_0_0 [Uomo con una relazione]]
+[msg MSG_013_0_0 [Homem em um relacionamento]]
 [s][vp 8 0 0 0 65535 0]Você é um encanto! Que[n]que tal combinarmos, querida?[n][f 1 3 65535][w][e]
 
-[msg MSG_014_0_0 [Donna con una relazione]]
+[msg MSG_014_0_0 [Mulher tendo um caso]]
 [s][vp 8 0 0 0 65535 0]Ah, você tem certeza? Mas é caro...[n]Eu me sentiria culpado...[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Caroline]]
@@ -80,19 +80,19 @@
 [msg MSG_022_0_0 [Justine]]
 [s][bup 0 101 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Então você é apenas outra besta[n]movida por desejos primários...[n]Você me enoja. Fique longe de nós.[n][f 1 3 65535][w][e]
 
-[msg MSG_023_0_0 [Uomo con una relazione]]
+[msg MSG_023_0_0 [Homem em um relacionamento]]
 [s][vp 8 0 0 0 65535 0]Bem, pegando os[n]prateados, talvez eu pudesse[n]comprar um par de...[n][f 1 3 65535][w][e]
 
-[msg MSG_023_5_0 [Uomo con una relazione]]
+[msg MSG_023_5_0 [Homem em um relacionamento]]
 [s][vp 8 0 0 0 65535 0]UH?!? Cem mil...[n][f 1 3 65535][w][e]
 
-[msg MSG_024_0_0 [Negoziante della gioielleria]]
+[msg MSG_024_0_0 [Lojista de joias]]
 [s][vp 8 0 0 0 65535 0]Isso é cem por cento platina.[n]Não enferruja e é perfeito[n]para expressar amor eterno.[n][f 1 3 65535][w][e]
 
-[msg MSG_025_0_0 [Donna con una relazione]]
+[msg MSG_025_0_0 [Mulher tendo um caso]]
 [s][vp 8 0 0 0 65535 0]Oooh, meu amor eterno![n]É ele![n][f 1 3 65535][w][e]
 
-[msg MSG_026_0_0 [Uomo con una relazione]]
+[msg MSG_026_0_0 [Homem em um relacionamento]]
 [s][vp 8 0 0 0 65535 0]Ah sim, mas... mas o próximo[n]tem um... design melhor.[n][f 1 3 65535][w][e]
 
 [msg MSG_027_0_0 [Justine]]
@@ -101,17 +101,17 @@
 [msg MSG_028_0_0 [Caroline]]
 [s][bup 0 102 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sim... Uma[n]tempestade está chegando.[n][f 1 3 65535][w][e]
 
-[msg MSG_029_0_0 [Donna con una relazione]]
+[msg MSG_029_0_0 [Mulher tendo um caso]]
 [s][vp 8 0 0 0 65535 0]Desculpe, você está apontando para a linha errada[n]ou está dizendo que é o que eu valho para você?[n]Não?[n][f 1 3 65535][w][e]
 
-[msg MSG_030_0_0 [Uomo con una relazione]]
+[msg MSG_030_0_0 [Homem em um relacionamento]]
 [s][vp 8 0 0 0 65535 0]Não, não, não, eu não disse isso...[n]É só um pouco caro para[n]o nosso orçamento, só isso...[n][f 1 3 65535][w][e]
 
-[msg MSG_031_0_0 [Donna con una relazione]]
+[msg MSG_031_0_0 [Mulher tendo um caso]]
 [s][vp 8 0 0 0 65535 0]É horrível... Achei que nosso[n]era amor eterno, mas não passa[n]algo de imitação barata![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Se tudo vai acabar, então[n]vamos acabar aqui...[n][f 1 3 65535][w][e]
 
-[msg MSG_032_0_0 [Uomo con una relazione]]
+[msg MSG_032_0_0 [Homem em um relacionamento]]
 [s][vp 8 0 0 0 65535 0]Não, desculpe, desculpe! Vou comprar.[n]Desculpe, gostaria de comprar![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Mas... Só um, por favor,[n]não os dois...[n][f 1 3 65535][w][e]
 

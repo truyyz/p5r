@@ -35,10 +35,10 @@
 [s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Bem pessoal, agora esse velho[n]vai embora e deixa vocês em paz.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]O lugar é todo seu.[n][f 1 3 65535][w][e]
 
-[msg MSG_011_0_0 [Reporter]]
+[msg MSG_011_0_0 [Repórter]]
 [s][vp 8 0 0 16 65535 0]Temos notícias de última hora[n]sobre Medjed, cada vez mais populares[n]após declarações recentes.[n][f 1 3 65535][w][e]
 
-[msg MSG_012_0_0 [Reporter]]
+[msg MSG_012_0_0 [Repórter]]
 [s][vp 8 0 0 17 65535 0]Alguns minutos atrás, eles postaram[n]uma mensagem em seu site.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 18 65535 0]Neste lançamento, eles anunciam sua vitória sobre[n]os Phantom Thieves.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 19 65535 0]Medjed também adverte todos[n]admiradores dos Phantom Thieves[n]para abster-se de incentivá-los.[n][f 1 3 65535][w][e]

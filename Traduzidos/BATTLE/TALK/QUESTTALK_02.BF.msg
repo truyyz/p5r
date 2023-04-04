@@ -1,25 +1,25 @@
-[msg TalkMsg_01 [Ombra di Iwai]]
+[msg TalkMsg_01 [Sombra de Iwai]]
 [s]Desgraçado...[n][w][e]
 
-[msg TalkMsg_02 [Ombra di Iwai]]
+[msg TalkMsg_02 [Sombra de Iwai]]
 [s]Pare de reclamar![n][w][e]
 
-[msg TalkMsg_03 [Ombra di Iwai]]
+[msg TalkMsg_03 [Sombra de Iwai]]
 [s]Deixe de ser um sabe-tudo![n][w][e]
 
-[msg TalkMsg_04 [Ombra di Iwai]]
+[msg TalkMsg_04 [Sombra de Iwai]]
 [s]Cale-se![n][w][e]
 
-[msg TalkMsg_05 [Ombra di Iwai]]
+[msg TalkMsg_05 [Sombra de Iwai]]
 [s]Você não vai desistir, hein?[n]Você é digno de respeito. Tudo bem,[n]você ganhou, seu bebê estúpido ...[n][w][e]
 
-[msg TalkMsg_06 [Ombra di Iwai]]
+[msg TalkMsg_06 [Sombra de Iwai]]
 [s]O que você está fazendo?!?[n][w][e]
 
-[msg TalkMsg_07 [Ombra di Iwai]]
+[msg TalkMsg_07 [Sombra de Iwai]]
 [s]Por que vocês estão todos calados?!?[n][w][e]
 
-[msg TalkMsg_08 [Ombra di Iwai]]
+[msg TalkMsg_08 [Sombra de Iwai]]
 [s]......[n][w][e]
 
 [sel TalkSel_01 top]

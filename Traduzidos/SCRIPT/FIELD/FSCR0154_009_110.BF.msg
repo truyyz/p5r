@@ -1,19 +1,19 @@
 [msg e259_504_01_mes01 [Ryuji]]
 [s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7045 65535 0]Ótimo, nós o pegamos de novo![n][w][e]
 
-[msg e259_504_01_mes02 [Voce di Kaneshiro]]
+[msg e259_504_01_mes02 [Voz de Kaneshiro]]
 [s][bup 0 207 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Hehehe. Este ouro cintilante…[n][w][e]
 
 [msg e259_504_01_mes03 [Yusuke]]
 [s][bup 0 5 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Novamente?[n][w][e]
 
-[msg e259_504_01_mes04 [Voce di Kaneshiro]]
+[msg e259_504_01_mes04 [Voz de Kaneshiro]]
 [s][bup 0 207 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Isso... é fruto do[n]meu trabalho árduo![n][w][e]
 
 [msg e259_504_01_mes05 [Ryuji]]
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7046 65535 0]Você tem orgulho do que faz? Ele precisa[n]de uma pequena verificação do cérebro ...[n][w][e]
 
-[msg e259_504_01_mes06 [Voce di Kaneshiro]]
+[msg e259_504_01_mes06 [Voz de Kaneshiro]]
 [s][bup 0 207 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Dessa forma, serei[n]invencível! Todo-Poderoso![n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu mudei... Não sou mais a pessoa que costumava[n]ser...[n][w][e]
 

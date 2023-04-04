@@ -1,7 +1,7 @@
 [msg MSG_000_0_0 [Chihaya]]
 [s][bup 0 113 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 10018 65535 0]...Como você está se sentindo?[n][f 1 3 65535][w][e]
 
-[msg MSG_001_0_0 [Donna inquieta]]
+[msg MSG_001_0_0 [Mulher inquieta]]
 [s][vp 8 0 0 0 9 0]E-Eu estou bem. De qualquer forma, é[n]minha culpa, Yuya disse isso ...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 9 0]Ele diz que não quer me bater, mas[n]eu faço ele perder o controle...[n][f 1 3 65535][w][e]
 
@@ -11,7 +11,7 @@
 [msg MSG_003_0_0 [Chihaya]]
 [s][bup 0 113 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu aconselho você a deixar isso.[n]Nesse ritmo as coisas[n]só vão piorar.[n][f 1 3 65535][w][e]
 
-[msg MSG_004_0_0 [Donna inquieta]]
+[msg MSG_004_0_0 [Mulher inquieta]]
 [s][vp 8 0 0 0 9 0]M-Mas eu sou a única pessoa que[n]pensa nele! Se eu o deixasse,[n]como ele sobreviveria...?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 9 0]Não tem outro jeito?[n][f 1 3 65535][w][e]
 
@@ -23,13 +23,13 @@
 [s][bup 0 113 3 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 38 5 50][vp 8 0 0 0 65535 0]Uhm... eu sinto uma presença[n]obscura no seu namorado. Seu coração[n]foi possuído por um demônio.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Às vezes ele se esconde, mas quando[n]ele se manifesta, o demônio[n]traz grande desgraça.[n][f 1 3 65535][w][e]
 
-[msg MSG_007_0_0 [Donna inquieta]]
+[msg MSG_007_0_0 [Mulher inquieta]]
 [s][vp 8 0 0 0 9 0]Q-Que tipo de infortúnio...?[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Chihaya]]
 [s][bup 0 113 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você será hospitalizado por[n]ferimentos graves sofridos como resultado de[n]abuso doméstico, e ele será preso.[n][f 1 3 65535][w][e]
 
-[msg MSG_009_0_0 [Donna inquieta]]
+[msg MSG_009_0_0 [Mulher inquieta]]
 [s][vp 8 0 0 0 9 0]Coisa? Hospitalizado? A-Preso?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 9 0]Eu não deveria ter deixado[n]Yuya jogar fora a Pedra Sagrada![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 9 0]Ele disse para não desperdiçar dinheiro[n]com uma pedra estúpida... mas para[n]dá-la a ele.[n][f 1 3 65535][w][e]
@@ -38,14 +38,14 @@
 [msg MSG_010_0_0 [Chihaya]]
 [s][bup 0 113 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 10040 65535 0]C-Como...? Quer outro?[n][f 1 3 65535][w][e]
 
-[msg MSG_011_0_0 [Donna inquieta]]
+[msg MSG_011_0_0 [Mulher inquieta]]
 [s][vp 8 0 0 0 9 0]A próxima pedra deve[n]ser ainda maior.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 9 0]Estou sem dinheiro no momento... mas você disse[n]que posso pagar em trinta e seis vezes, certo?[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Chihaya]]
 [s][bup 0 113 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Hum, na verdade, acho que[n]seria melhor deixar ...[n][f 1 3 65535][w][e]
 
-[msg MSG_013_0_0 [Donna inquieta]]
+[msg MSG_013_0_0 [Mulher inquieta]]
 [s][vp 8 0 0 0 9 0]Eu não posso abandonar Yuya![n][f 1 3 65535][w][e]
 
 [msg MSG_037_0_0 [Morgana]]
@@ -90,7 +90,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]N-No entanto, talvez comprando[n]outra Pedra Sagrada você poderia[n]pelo menos manter o demônio afastado...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]......[n][f 1 3 65535][w][e]
 
-[msg MSG_021_0_0 [Donna inquieta]]
+[msg MSG_021_0_0 [Mulher inquieta]]
 [s][vp 8 0 0 0 9 0]U-Hum, não te conheço...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 9 0]Mas existe outra maneira[n]de resolver esse problema...?[n][f 1 3 65535][w][e]
 
@@ -98,15 +98,15 @@
 [s]Qual é o nome do seu parceiro?[e]
 [s]O nome completo.[e]
 
-[msg MSG_023_0_0 [Donna inquieta]]
+[msg MSG_023_0_0 [Mulher inquieta]]
 [s][vp 8 0 0 0 9 0]Hã...?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 9 0]O nome dele é [clr 2]Yuya Uchimura[clr 27]...[n][f 1 3 65535][w][e]
 
-[msg MSG_024_0_0 [Donna inquieta]]
+[msg MSG_024_0_0 [Mulher inquieta]]
 [s][vp 8 0 0 0 9 0]Minha...? Oh...Você está falando sobre Yuya,[n]certo?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 9 0]O nome dele é [clr 2]Yuya Uchimura[clr 27]...[n][f 1 3 65535][w][e]
 
-[msg MSG_025_0_0 [Donna inquieta]]
+[msg MSG_025_0_0 [Mulher inquieta]]
 [s][vp 8 0 0 0 9 0]Hum...por que você está interessado?[n]O que você pretende fazer?[n][f 1 3 65535][w][e]
 
 [msg MSG_026_0_0 [Chihaya]]
@@ -119,14 +119,14 @@
 [msg MSG_028_0_0 [Chihaya]]
 [s][bup 0 113 2 65535 0][f 4 10 65535 0 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 113 7 300 65535][vp 8 0 0 0 65535 0]Coisa? Você realmente acha[n]que pode fazer alguma coisa?!?[n][f 1 3 65535][w][e]
 
-[msg MSG_029_0_0 [Donna inquieta]]
+[msg MSG_029_0_0 [Mulher inquieta]]
 [s][vp 1 0 0 0 0 0]......[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 9 0]Você... eu acredito em você.[n][f 1 3 65535][w][e]
 
 [msg MSG_030_0_0 [Chihaya]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 113 7 300 1][vp 8 2 0 10055 65535 0]Por favor?!?[n][f 1 3 65535][w][e]
 
-[msg MSG_031_0_0 [Donna inquieta]]
+[msg MSG_031_0_0 [Mulher inquieta]]
 [s][vp 8 0 0 0 9 0]Parece-me sincero.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 9 0]Além disso, Yuya está com meu dinheiro.[n]Um dia ele vai me devolver...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 9 0]Mas, por enquanto, prefiro confiar[n]neste garoto do que nas[n]trinta e seis parcelas da Pedra Sagrada.[n][f 1 3 65535][w][e]

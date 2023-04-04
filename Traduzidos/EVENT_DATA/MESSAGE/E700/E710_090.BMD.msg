@@ -31,10 +31,10 @@
 [s][bup 0 113 3 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 38 5 50][vp 8 2 0 10110 65535 0]...Eu também sabia o quão[n]horrível era o plano APC.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]É por isso que decidi agir.[n][f 1 3 65535][w][e]
 
-[msg MSG_007_0_0 [Donna pensierosa]]
+[msg MSG_007_0_0 [Mulher pensativa]]
 [s][vp 8 0 0 0 10 0]Não! Não pode ser![n][f 1 3 65535][w][e]
 
-[msg MSG_008_0_0 [Uomo dall'espressione cupa]]
+[msg MSG_008_0_0 [Homem com uma expressão sombria]]
 [s][vp 8 0 0 0 7 0]Vocês! É por sua causa que nossa[n]amada Sacerdotisa está[n]neste estado?!?[n][f 1 3 65535][w][e]
 
 [sel SEL_009_0_0 top]
@@ -48,10 +48,10 @@
 [s][bup 0 113 2 65535 0][f 4 10 65535 0 0][vp 8 2 0 10027 65535 0]Por favor pare! Ele[n]não tem nada a ver com essa história![n][f 1 3 65535][w][e]
 [s][bup 0 113 2 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 37 5 100][vp 8 0 0 0 65535 0]Fui eu quem te vendeu aquelas pedras! Se você tem[n]que culpar alguém... faça comigo![n][f 1 3 65535][w][e]
 
-[msg MSG_012_0_0 [Uomo dall'espressione cupa]]
+[msg MSG_012_0_0 [Homem com uma expressão sombria]]
 [s][vp 8 0 0 0 7 0]Mas... Sacerdotisa...[n][f 1 3 65535][w][e]
 
-[msg MSG_013_0_0 [Donna pensierosa]]
+[msg MSG_013_0_0 [Mulher pensativa]]
 [s][vp 8 0 0 0 10 0]Isso não pode ser verdade...[n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Yokoda]]
@@ -63,10 +63,10 @@
 [s][bup 0 113 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 10069 65535 0]E-Escute, para mudar as coisas[n]você só pode contar[n]com determinação![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Nem eu nem aquelas pedras inúteis[n]podemos ajudá-lo...[n][f 1 3 65535][w][e]
 
-[msg MSG_016_0_0 [Donna pensierosa]]
+[msg MSG_016_0_0 [Mulher pensativa]]
 [s][vp 8 0 0 0 10 0]E-Então, como vamos[n]evitar nosso destino trágico?[n][f 1 3 65535][w][e]
 
-[msg MSG_017_0_0 [Uomo dall'espressione cupa]]
+[msg MSG_017_0_0 [Homem com uma expressão sombria]]
 [s][vp 8 0 0 0 7 0]Não... Fomos amaldiçoados...![n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Yokoda]]

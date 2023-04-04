@@ -92,7 +92,7 @@
 [msg MND_DET_KAWKAMI_CLEARED__2]
 [s]Eu deveria ir para casa.[n][w][e]
 
-[msg MSG_DET_GIRL_GEKIDAN [Ragazza del gruppo teatrale]]
+[msg MSG_DET_GIRL_GEKIDAN [Garota do grupo de teatro]]
 [s][f 4 23 1 803 3 10 0 10]Kawakami? Hum. Não brilha[n]muito. Eu tenho sentimentos confusos sobre ela.[n][w][e]
 [s]Oh sim. Aqui, pegue um[n]desses panfletos.[n][w][e]
 [s]Minha companhia de teatro está[n]fazendo uma peça chamada[n]"A Criada Sabe Tudo"![n][w][e]
@@ -101,9 +101,9 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0]Hmm, o panfleto para[n]um show de empregada.[n][w][e]
 [s]Poderíamos usá-lo para[n]atenuar as suspeitas de Taihei.[n][w][e]
 
-[msg MSG_DET_GIRL_GEKIDAN_RE [Ragazza del gruppo teatrale]]
+[msg MSG_DET_GIRL_GEKIDAN_RE [Garota do grupo de teatro]]
 [s][f 4 23 1 803 3 10 0 10]Chama-se "A empregada[n]sabe tudo"! Venha ver![n][w][e]
 
-[msg MSG_DET_GIRL_GEKIDAN_MIS [Ragazza del gruppo teatrale]]
+[msg MSG_DET_GIRL_GEKIDAN_MIS [Garota do grupo de teatro]]
 [s][f 4 23 1 803 3 10 0 10]Nossa companhia de teatro[n]está encenando "A empregada[n]sabe tudo". Venha ver![n][w][e]
 

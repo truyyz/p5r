@@ -90,7 +90,7 @@
 [msg MSG_023_0_0 [Morgana]]
 [s][bup 0 3 803 0 0][f 4 10 65535 0 0][vp 8 2 0 0 4 0]Não estou convencido...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 4 0]Eles me capturaram no Palácio Kamoshida.[n]Foi então[n]que nos conhecemos.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 0 4 0]Quando nos juntamos ao Memento,[n]eu me transformei em...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 0 4 0]Quando nos juntamos ao Mementos,[n]eu me transformei em...[n][f 1 3 65535][w][e]
 
 [sel SEL_024_0_0 top]
 [s]Continue pensando nisso.[e]

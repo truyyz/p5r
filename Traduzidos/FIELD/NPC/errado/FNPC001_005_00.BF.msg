@@ -8,136 +8,136 @@
 [msg NPC_01]
 [s]会話[n][w][e]
 
-[msg MSG_EKIINSET_001_0_0 [Addetto della stazione in erba]]
+[msg MSG_EKIINSET_001_0_0 [Atendente de posto iniciante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Eu sou o novo funcionário da estação[n]Shibuya! Estou pronto para[n]começar a treinar, chefe![n][w][e]
 
-[msg MSG_EKIINSET_001_1_0 [Addetto della stazione veterano]]
+[msg MSG_EKIINSET_001_1_0 [Atendente veterano da estação]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Não me chame de "chefe". E relaxe.[n]Eu sei que você é novo, mas[n]não há necessidade de ser tão formal.[n][w][e]
 [s][vp 8 2 1 0 2 0]Muitas pessoas ainda estão preocupadas com[n]acidentes. Vamos acalmá-la,[n]deixá-la se sentir segura.[n][w][e]
 
-[msg MSG_EKIINSET_001_2_0 [Addetto della stazione in erba]]
+[msg MSG_EKIINSET_001_2_0 [Atendente de posto iniciante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Claro, chefe! Não haverá[n]acidentes sob meu[n]olhar atento! Velocidade máxima a frente![n][w][e]
 
-[msg MSG_EKIINSET_002_0_0 [Addetto della stazione veterano]]
+[msg MSG_EKIINSET_002_0_0 [Atendente veterano da estação]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Não temos como saber se outros acidentes vão[n]acontecer, então temos que ficar de olho em todo[n]o cais.[n][w][e]
 [s][vp 8 2 1 0 1 0]Ei, você está me ouvindo?[n][w][e]
 
-[msg MSG_EKIINSET_002_1_0 [Addetto della stazione in erba]]
+[msg MSG_EKIINSET_002_1_0 [Atendente de posto iniciante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]D-desculpe, chefe! Eu só[n]tenho uma coisa em mente![n][w][e]
 [s][vp 8 2 1 0 1 0]"Manter-se dentro da linha amarela[n]" não significa ficar do lado[n]do trem, não é?[n][w][e]
 
-[msg MSG_EKIINSET_003_0_0 [Addetto della stazione in erba]]
+[msg MSG_EKIINSET_003_0_0 [Atendente de posto iniciante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Pergunta rápida, chefe: a escola daquele[n]professor pervertido perto aqui?[n][w][e]
 
-[msg MSG_EKIINSET_003_1_0 [Addetto della stazione veterano]]
+[msg MSG_EKIINSET_003_1_0 [Atendente veterano da estação]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Sim, o Shujin não está longe. Para[n]trabalhar aqui, você precisa saber quais[n]escolas estão perto das paradas.[n][w][e]
 
-[msg MSG_EKIINSET_003_2_0 [Addetto della stazione in erba]]
+[msg MSG_EKIINSET_003_2_0 [Atendente de posto iniciante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Ainda não consigo acreditar. Eu era um grande fã[n]de Kamoshida![n][w][e]
 
-[msg MSG_EKIINSET_003_3_0 [Addetto della stazione veterano]]
+[msg MSG_EKIINSET_003_3_0 [Atendente veterano da estação]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Sim, até eu tinha ouvido[n]sobre isso. O que leva um homem a[n]fazer tal coisa...?[n][w][e]
 
-[msg MSG_EKIINSET_004_0_0 [Addetto della stazione in erba]]
+[msg MSG_EKIINSET_004_0_0 [Atendente de posto iniciante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Cavalheiro! Alguém novamente[n]rasgou os cartazes![n][w][e]
 
-[msg MSG_EKIINSET_004_1_0 [Addetto della stazione veterano]]
+[msg MSG_EKIINSET_004_1_0 [Atendente veterano da estação]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Os da exposição de Madarame?[n]Malditos garotos...[n][w][e]
 
-[msg MSG_EKIINSET_004_2_0 [Addetto della stazione in erba]]
+[msg MSG_EKIINSET_004_2_0 [Atendente de posto iniciante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]O que é agora? Na escola primária, eu[n]ganhei um prêmio de arte.[n]Não sei se isso ajuda...[n][w][e]
 
-[msg MSG_EKIINSET_004_3_0 [Addetto della stazione veterano]]
+[msg MSG_EKIINSET_004_3_0 [Atendente veterano da estação]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Você está sugerindo que redesenhemos os pôsteres[n]nós mesmos?!?[n][w][e]
 
-[msg MSG_EKIINSET_005_0_0 [Addetto della stazione veterano]]
+[msg MSG_EKIINSET_005_0_0 [Atendente veterano da estação]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Shibuya parece ter[n]envolvido em uma onda de crimes.[n]É o que as pessoas dizem.[n][w][e]
 [s][vp 8 2 1 0 2 0]Há algum golpe acontecendo, ou algo[n]assim. Você tem que ter cuidado.[n][w][e]
 
-[msg MSG_EKIINSET_005_1_0 [Addetto della stazione in erba]]
+[msg MSG_EKIINSET_005_1_0 [Atendente de posto iniciante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Sim, verdade. Como eles chamam isso?[n]Fissão?[n][w][e]
 
-[msg MSG_EKIINSET_005_2_0 [Addetto della stazione veterano]]
+[msg MSG_EKIINSET_005_2_0 [Atendente veterano da estação]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Não, é chamado de "phishing".[n]Você precisa ler mais.[n][w][e]
 
-[msg MSG_EKIINSET_006_0_0 [Addetto della stazione veterano]]
+[msg MSG_EKIINSET_006_0_0 [Atendente veterano da estação]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Se posso perguntar,[n]por que você quis trabalhar aqui?[n][w][e]
 
-[msg MSG_EKIINSET_006_1_0 [Addetto della stazione in erba]]
+[msg MSG_EKIINSET_006_1_0 [Atendente de posto iniciante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Eu me perdi em uma[n]estação ferroviária quando criança, mas fui[n]salvo por um atendente![n][w][e]
 [s][vp 8 2 1 0 1 0]Desde então eu queria trabalhar em[n]uma estação e ser como ele:[n]heróico e confiável.[n][w][e]
 
-[msg MSG_EKIINSET_006_2_0 [Addetto della stazione veterano]]
+[msg MSG_EKIINSET_006_2_0 [Atendente veterano da estação]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Uh. Bom. Nunca se esqueça disso.[n]Eu vou te ensinar tudo o que sei.[n][w][e]
 
-[msg MSG_EKIINSET_007_0_0 [Addetto della stazione veterano]]
+[msg MSG_EKIINSET_007_0_0 [Atendente veterano da estação]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Dizem que esses "ladrões fantasmas" estão na[n]cidade. Olhos abertos.[n][w][e]
 
-[msg MSG_EKIINSET_007_1_0 [Addetto della stazione in erba]]
+[msg MSG_EKIINSET_007_1_0 [Atendente de posto iniciante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Sim senhor, chefe! Mas não é[n]o trabalho da polícia?[n][w][e]
 
-[msg MSG_EKIINSET_007_2_0 [Addetto della stazione veterano]]
+[msg MSG_EKIINSET_007_2_0 [Atendente veterano da estação]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Temos o dever de manter[n]os passageiros seguros. Portanto, devemos[n]saber o que acontece na cidade.[n][w][e]
 
-[msg MSG_EKIINSET_007_3_0 [Addetto della stazione in erba]]
+[msg MSG_EKIINSET_007_3_0 [Atendente de posto iniciante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Entendi, chefe! Eu estou com ela![n][w][e]
 
-[msg MSG_EKIINSET_008_0_0 [Addetto della stazione in erba]]
+[msg MSG_EKIINSET_008_0_0 [Atendente de posto iniciante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Agora que a máfia foi presa, aposto que mais[n]pessoas virão para Shibuya![n][w][e]
 
-[msg MSG_EKIINSET_008_1_0 [Addetto della stazione veterano]]
+[msg MSG_EKIINSET_008_1_0 [Atendente veterano da estação]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Sim, isso é melhor. Mas temo que algo terrível[n]tenha acontecido.[n][w][e]
 
-[msg MSG_EKIINSET_008_2_0 [Addetto della stazione in erba]]
+[msg MSG_EKIINSET_008_2_0 [Atendente de posto iniciante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Um suicídio?[n][w][e]
 
-[msg MSG_EKIINSET_008_3_0 [Addetto della stazione veterano]]
+[msg MSG_EKIINSET_008_3_0 [Atendente veterano da estação]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Sim. A polícia estava falando sobre isso.[n]Um cara que havia perdido o[n]emprego e não sabia o que fazer...[n][w][e]
 [s][vp 8 2 1 0 2 0]Ele foi demitido porque sua lista de clientes[n]vazou.[n]Às vezes o mundo é cruel.[n][w][e]
 
-[msg MSG_EKIINSET_009_0_0 [Addetto della stazione in erba]]
+[msg MSG_EKIINSET_009_0_0 [Atendente de posto iniciante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Ei chefe, eu tenho uma pergunta.[n]Talvez você possa esclarecê-la para mim.[n][w][e]
 
-[msg MSG_EKIINSET_009_1_0 [Addetto della stazione veterano]]
+[msg MSG_EKIINSET_009_1_0 [Atendente veterano da estação]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]É bom ver que você não[n]tem medo de fazer perguntas.[n]Como posso ajudá-lo?[n][w][e]
 
-[msg MSG_EKIINSET_009_2_0 [Addetto della stazione in erba]]
+[msg MSG_EKIINSET_009_2_0 [Atendente de posto iniciante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Pensei nisso a noite toda.[n]Quem você acha que vai ganhar,[n]os Phantom Thieves ou os hackers?[n][w][e]
 
-[msg MSG_EKIINSET_009_3_0 [Addetto della stazione veterano]]
+[msg MSG_EKIINSET_009_3_0 [Atendente veterano da estação]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Oh, caramba... Escute, eu sei que é[n]um assunto muito interessante,[n]mas você precisa se concentrar no trabalho.[n][w][e]
 
-[msg MSG_EKIINSET_010_0_0 [Addetto della stazione veterano]]
+[msg MSG_EKIINSET_010_0_0 [Atendente veterano da estação]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]É possível que Medjed[n]ataque os trens.[n]Mantenha os olhos abertos e esteja pronto.[n][w][e]
 [s][vp 8 2 1 0 2 0]Para prevenir[n]outra catástrofe...[n][w][e]
 [s][vp 8 2 1 0 2 0]Ei! Você está me ouvindo?[n][w][e]
 
-[msg MSG_EKIINSET_010_1_0 [Addetto della stazione in erba]]
+[msg MSG_EKIINSET_010_1_0 [Atendente de posto iniciante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Com licença, este calor está nublando minha mente.[n][w][e]
 
-[msg MSG_EKIINSET_011_0_0 [Addetto della stazione veterano]]
+[msg MSG_EKIINSET_011_0_0 [Atendente veterano da estação]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Fique de olho nas pessoas que[n]olham para o telefone em vez de[n]olhar em volta.[n][w][e]
 [s][vp 8 2 1 0 2 0]Hoje em dia existem[n]muitos deles. Mas o que é tão[n]interessante de assistir?[n][w][e]
 
-[msg MSG_EKIINSET_011_1_0 [Addetto della stazione in erba]]
+[msg MSG_EKIINSET_011_1_0 [Atendente de posto iniciante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Aposto que eles leem[n]fansites de Phantom Thieves.[n]O público os adora![n][w][e]
 
-[msg MSG_EKIINSET_011_2_0 [Addetto della stazione veterano]]
+[msg MSG_EKIINSET_011_2_0 [Atendente veterano da estação]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Provável. Até agora, a mídia[n]não fala sobre mais nada.[n]Quem sabe quanto tempo essa tendência vai durar.[n][w][e]
 
-[msg MSG_EKIINSET_012_0_0 [Addetto della stazione in erba]]
+[msg MSG_EKIINSET_012_0_0 [Atendente de posto iniciante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Houve[n]menos suicídios este mês, chefe![n][w][e]
 
-[msg MSG_EKIINSET_012_1_0 [Addetto della stazione veterano]]
+[msg MSG_EKIINSET_012_1_0 [Atendente veterano da estação]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Já. Talvez as pessoas[n]estão mais felizes graças a[n]Phantom Thieves.[n][w][e]
 
-[msg MSG_EKIINSET_012_2_0 [Addetto della stazione in erba]]
+[msg MSG_EKIINSET_012_2_0 [Atendente de posto iniciante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Eu também me sinto feliz, patrão![n]Nem suas repreensões[n]poderiam tirar meu bom humor![n][w][e]
 
-[msg MSG_EKIINSET_012_3_0 [Addetto della stazione veterano]]
+[msg MSG_EKIINSET_012_3_0 [Atendente veterano da estação]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Você nunca vai mudar, vai?[n][w][e]
 
-[msg MSG_EKIINSET_013_0_0 [Addetto della stazione in erba]]
+[msg MSG_EKIINSET_013_0_0 [Atendente de posto iniciante]]
 [s][f 4 23 1 4 3 10 0 10][vp 8 2 1 0 4 0]Fique dentro da[n]linha amarela! Porta de entrada para a[n]plataforma dois![n][w][e]
 [s][vp 8 2 1 0 4 0]Hum, eu quis dizer o trem chegando.[n]E a porta dele![n][w][e]
 
@@ -145,146 +145,146 @@
 [s]Calmo![e]
 [s]Você está fazendo barulho![e]
 
-[msg MSG_EKIINSET_013_1_0 [Addetto della stazione in erba]]
+[msg MSG_EKIINSET_013_1_0 [Atendente de posto iniciante]]
 [s][f 4 23 1 4 3 10 0 10][vp 8 2 1 0 4 0]Obrigado chefe! Eu trabalhei[n]duro para...[n][w][e]
 [s][vp 8 2 1 0 4 0]Ei, ela não é a chefe.[n]Desculpe, erro meu.[n][w][e]
 
-[msg MSG_EKIINSET_013_2_0 [Addetto della stazione in erba]]
+[msg MSG_EKIINSET_013_2_0 [Atendente de posto iniciante]]
 [s][f 4 23 1 4 3 10 0 10][vp 8 2 1 0 4 0]Obrigado chefe![n][w][e]
 [s][vp 8 2 1 0 4 0]Ei, ela não é a chefe.[n]Desculpe, eu me empolguei.[n][w][e]
 
-[msg MSG_EKIINSET_014_0_0 [Addetto della stazione in erba]]
+[msg MSG_EKIINSET_014_0_0 [Atendente de posto iniciante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Há uma[n]atmosfera deprimente aqui hoje...[n][w][e]
 
-[msg MSG_EKIINSET_014_1_0 [Addetto della stazione veterano]]
+[msg MSG_EKIINSET_014_1_0 [Atendente veterano da estação]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]É um reflexo do humor[n]da sociedade. É provavelmente[n]causa dessa conferência de imprensa.[n][w][e]
 
-[msg MSG_EKIINSET_014_2_0 [Addetto della stazione in erba]]
+[msg MSG_EKIINSET_014_2_0 [Atendente de posto iniciante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Bem, é em momentos como[n]este que você precisa de uma[n]inspiração![n][w][e]
 
-[msg MSG_EKIINSET_014_3_0 [Addetto della stazione veterano]]
+[msg MSG_EKIINSET_014_3_0 [Atendente veterano da estação]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Ocasionalmente, faça observações inteligentes.[n]Cabe a nós fazer com que os passageiros se[n]sintam seguros.[n][w][e]
 
-[msg MSG_EKIINSET_015_0_0 [Addetto della stazione veterano]]
+[msg MSG_EKIINSET_015_0_0 [Atendente veterano da estação]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]A polícia está procurando[n]pistas sobre os Phantom Thieves.[n]Vamos ficar de olho.[n][w][e]
 
-[msg MSG_EKIINSET_015_1_0 [Addetto della stazione in erba]]
+[msg MSG_EKIINSET_015_1_0 [Atendente de posto iniciante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Claro, chefe! A segurança[n]dos nossos hóspedes é minha[n]prioridade número um![n][w][e]
 
-[msg MSG_EKIINSET_015_2_0 [Addetto della stazione veterano]]
+[msg MSG_EKIINSET_015_2_0 [Atendente veterano da estação]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Eu gosto do seu entusiasmo,[n]mas controle-se quando[n]você faz anúncios.[n][w][e]
 [s][vp 8 2 1 0 2 0]Os passageiros ficariam surpresos[n]ao ver[n]apenas uma porta chegando à estação.[n][w][e]
 
-[msg MSG_EKIINSET_015_3_0 [Addetto della stazione in erba]]
+[msg MSG_EKIINSET_015_3_0 [Atendente de posto iniciante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Gah, você ouviu isso?[n]D-desculpe, chefe![n][w][e]
 
-[msg MSG_EKIINSET_016_0_0 [Addetto della stazione veterano]]
+[msg MSG_EKIINSET_016_0_0 [Atendente veterano da estação]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]A polícia está procurando[n]pistas sobre os Phantom Thieves.[n]Vamos ficar de olho.[n][w][e]
 
-[msg MSG_EKIINSET_016_1_0 [Addetto della stazione in erba]]
+[msg MSG_EKIINSET_016_1_0 [Atendente de posto iniciante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Você acha que a cidade está fervilhando por causa[n]da recompensa, chefe?[n][w][e]
 
-[msg MSG_EKIINSET_016_2_0 [Addetto della stazione veterano]]
+[msg MSG_EKIINSET_016_2_0 [Atendente veterano da estação]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Sim, mas também pela mudança no governo. A[n]senhora da banca estava falando sobre isso ontem.[n][w][e]
 [s][vp 8 2 1 0 2 0]Ele disse que os tablóides[n]vendem, então[n]esse deve ser o motivo.[n][w][e]
 
-[msg MSG_EKIINSET_017_0_0 [Addetto della stazione veterano]]
+[msg MSG_EKIINSET_017_0_0 [Atendente veterano da estação]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Você foi bom em salvar aquela[n]pessoa que adoeceu.[n][w][e]
 
-[msg MSG_EKIINSET_017_1_0 [Addetto della stazione in erba]]
+[msg MSG_EKIINSET_017_1_0 [Atendente de posto iniciante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]No começo eu estava com medo.[n]Do jeito que desabou, pensei que era[n]os Phantom Thieves.[n][w][e]
 [s][vp 8 2 1 0 1 0]Mas eu sabia que você não ficaria parado, chefe,[n]então eu agi. Eles são nossos convidados.[n][w][e]
 
-[msg MSG_EKIINSET_017_2_0 [Addetto della stazione veterano]]
+[msg MSG_EKIINSET_017_2_0 [Atendente veterano da estação]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Você aprendeu bem.[n]Felizmente,[n]não foi nada sério.[n][w][e]
 [s][vp 8 2 1 0 2 0]No entanto, espero que a situação[n]normalize em breve.[n][w][e]
 
-[msg MSG_EKIINSET_018_0_0 [Addetto della stazione veterano]]
+[msg MSG_EKIINSET_018_0_0 [Atendente veterano da estação]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Cuidado com os bêbados, nesta época do ano[n]são muitos.[n][w][e]
 [s][vp 8 2 1 0 2 0]Além disso, no inverno os[n]suicídios aumentam. Dado como[n]a economia do país está...[n][w][e]
 
-[msg MSG_EKIINSET_018_1_0 [Addetto della stazione in erba]]
+[msg MSG_EKIINSET_018_1_0 [Atendente de posto iniciante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Talvez eu seja ingênuo,[n]mas não entendo como alguém pode[n]ser tão duro consigo mesmo...[n][w][e]
 
-[msg MSG_EKIINSET_018_2_0 [Addetto della stazione veterano]]
+[msg MSG_EKIINSET_018_2_0 [Atendente veterano da estação]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Para alguns é mais fácil fugir dos problemas.[n]Talvez tenha acontecido com os Phantom Thieves[n]também.[n][w][e]
 
-[msg MSG_EKIINSET_019_0_0 [Addetto della stazione in erba]]
+[msg MSG_EKIINSET_019_0_0 [Atendente de posto iniciante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Inacreditável,[n]outra carta de aviso apareceu![n][w][e]
 [s][vp 8 2 1 0 1 0]Oh! Desculpe, chefe.[n]Eu sei que estamos de plantão.[n][w][e]
 
-[msg MSG_EKIINSET_019_1_0 [Addetto della stazione veterano]]
+[msg MSG_EKIINSET_019_1_0 [Atendente veterano da estação]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Não se preocupe, eu entendo.[n]A polícia disse que ele estava morto.[n][w][e]
 [s][vp 8 2 1 0 2 0]Quem sabe o que pode acontecer.[n]Estou contando com você, garoto.[n][w][e]
 
-[msg MSG_EKIINSET_020_0_0 [Addetto della stazione in erba]]
+[msg MSG_EKIINSET_020_0_0 [Atendente de posto iniciante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]As eleições acabaram, certo?[n]Tem gente nova agora[n]no governo?[n][w][e]
 
-[msg MSG_EKIINSET_020_1_0 [Addetto della stazione veterano]]
+[msg MSG_EKIINSET_020_1_0 [Atendente veterano da estação]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Sim, também não gosto[n]muito da ideia, mas talvez seja o[n]sinal da mudança dos tempos.[n][w][e]
 [s][vp 8 2 1 0 2 0]É um pouco como esta estação.[n]Vou deixar o comando para você,[n]na hora.[n][w][e]
 
-[msg MSG_EKIINSET_020_2_0 [Addetto della stazione in erba]]
+[msg MSG_EKIINSET_020_2_0 [Atendente de posto iniciante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Entendido![n][w][e]
 [s][vp 8 2 1 0 1 0]Espere, como? O que você quer dizer com[n]dizer, chefe?[n][w][e]
 
-[msg MSG_EKIINSET_021_0_0 [Addetto della stazione in erba]]
+[msg MSG_EKIINSET_021_0_0 [Atendente de posto iniciante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Que bom que voltou, chefe![n][w][e]
 
-[msg MSG_EKIINSET_021_1_0 [Addetto della stazione veterano]]
+[msg MSG_EKIINSET_021_1_0 [Atendente veterano da estação]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Eu deveria ter saído no final do ano passado, mas[n]houve uma mudança repentina de planos.[n][w][e]
 
-[msg MSG_EKIINSET_021_2_0 [Addetto della stazione in erba]]
+[msg MSG_EKIINSET_021_2_0 [Atendente de posto iniciante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Não tenho a sua experiência...[n]estou ansioso para aprender[n]mais coisas com você![n][w][e]
 
-[msg MSG_EKIINSET_021_3_0 [Addetto della stazione veterano]]
+[msg MSG_EKIINSET_021_3_0 [Atendente veterano da estação]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Será um prazer ensiná-lo.[n]Estou feliz em poder[n]trabalhar com você novamente.[n][w][e]
 
-[msg MSG_EKIINSET_022_0_0 [Addetto della stazione in erba]]
+[msg MSG_EKIINSET_022_0_0 [Atendente de posto iniciante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Você não acha que este ano[n]a estação está com um clima mais alegre?[n][w][e]
 
-[msg MSG_EKIINSET_022_1_0 [Addetto della stazione veterano]]
+[msg MSG_EKIINSET_022_1_0 [Atendente veterano da estação]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Ouvi dizer que este ano os sonhos de todos se[n]tornarão realidade.[n][w][e]
 
-[msg MSG_EKIINSET_022_2_0 [Addetto della stazione in erba]]
+[msg MSG_EKIINSET_022_2_0 [Atendente de posto iniciante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Você me ensinou que a estação[n]é um reflexo da sociedade.[n][w][e]
 
-[msg MSG_EKIINSET_022_3_0 [Addetto della stazione veterano]]
+[msg MSG_EKIINSET_022_3_0 [Atendente veterano da estação]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Ah, você se lembra disso?[n]Eu diria que te ensinei bem.[n][w][e]
 
-[msg MSG_EKIINSET_022_4_0 [Addetto della stazione in erba]]
+[msg MSG_EKIINSET_022_4_0 [Atendente de posto iniciante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Eu lembrei porque[n]você me ensinou![n][w][e]
 [s][vp 8 2 1 0 1 0]É por isso que eu me sentiria mais[n]tranquilo se você continuasse[n]trabalhando aqui comigo.[n][w][e]
 
-[msg MSG_EKIINSET_023_0_0 [Addetto della stazione in erba]]
+[msg MSG_EKIINSET_023_0_0 [Atendente de posto iniciante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Já faz muito tempo desde que ouvi falar dos[n]Phantom Thieves. Todo mundo estava falando sobre[n]isso no ano passado.[n][w][e]
 
-[msg MSG_EKIINSET_023_1_0 [Addetto della stazione veterano]]
+[msg MSG_EKIINSET_023_1_0 [Atendente veterano da estação]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]As pessoas esquecem e vão em frente... Também vão[n]me esquecer como atendente de estação.[n][w][e]
 
-[msg MSG_EKIINSET_023_2_0 [Addetto della stazione in erba]]
+[msg MSG_EKIINSET_023_2_0 [Atendente de posto iniciante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Eu não vou te esquecer![n]Você é a melhor pessoa que[n]já conheci![n][w][e]
 [s][vp 8 2 1 0 1 0]Na verdade, eu tenho uma ideia.[n]Trabalhamos aqui desde sempre![n][w][e]
 [s][vp 8 2 1 0 1 0]Então sempre me lembrarei de você.[n]E podemos ser felizes para sempre![n][w][e]
 
-[msg MSG_EKIINSET_023_3_0 [Addetto della stazione veterano]]
+[msg MSG_EKIINSET_023_3_0 [Atendente veterano da estação]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Juntos para sempre...[n]Isso não soa mal.[n][w][e]
 
-[msg MSG_EKIINSET_023_4_0 [Addetto della stazione in erba]]
+[msg MSG_EKIINSET_023_4_0 [Atendente de posto iniciante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Vamos conversar com os superiores![n]Afinal, é o ano em que[n]desejos se realizam![n][w][e]
 
-[msg MSG_EKIINSET_024_0_0 [Ex addetto della stazione in erba]]
+[msg MSG_EKIINSET_024_0_0 [Ex-atendente de estação de brotamento]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Trem chegando na plataforma número dois![n]Afaste-se![n][w][e]
 
-[msg MSG_EKIINSET_024_1_0 [Bambino innocente]]
+[msg MSG_EKIINSET_024_1_0 [Criança inocente]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Você é fantástico! Como você aprendeu[n]todas essas coisas sobre trens?[n][w][e]
 
-[msg MSG_EKIINSET_024_2_0 [Ex addetto della stazione in erba]]
+[msg MSG_EKIINSET_024_2_0 [Ex-atendente de estação de brotamento]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Meu[n]ex chefe me ensinou isso. Ele era o melhor.[n][w][e]
 [s][vp 8 2 1 0 1 0]Ele foi promovido e me confiou esta estação.[n][w][e]
 [s][vp 8 2 1 0 1 0]Olhe para mim, chefe![n]A toda velocidade, sem incidentes![n][w][e]
 
-[msg MSG_AYASIOTOKO_001_0_0 [Uomo sospetto]]
+[msg MSG_AYASIOTOKO_001_0_0 [Homem suspeito]]
 [s][f 4 23 1 18 3 10 0 10][vp 8 2 1 0 18 0]Não tem certeza de qual trem[n]você deve pegar?[n][w][e]
 [s][vp 8 2 1 0 18 0]Com toda essa gente é fácil se perder,[n]principalmente para alguém como você que vem do[n]interior.[n][w][e]
 
@@ -293,19 +293,19 @@
 [s]Eu sou da cidade.[e]
 [s]Você trabalha aqui?[e]
 
-[msg MSG_AYASIOTOKO_001_1_0 [Uomo sospetto]]
+[msg MSG_AYASIOTOKO_001_1_0 [Homem suspeito]]
 [s][f 4 23 1 18 3 10 0 10][vp 8 2 1 0 18 0]Hábito. É por causa do meu trabalho. Eu assisti[n]os trens por um longo tempo.[n][w][e]
 [s][vp 8 2 1 0 18 0]Eu não faço nada obscuro,[n]não se importe comigo.[n][w][e]
 
-[msg MSG_AYASIOTOKO_001_2_0 [Uomo sospetto]]
+[msg MSG_AYASIOTOKO_001_2_0 [Homem suspeito]]
 [s][f 4 23 1 18 3 10 0 10][vp 8 2 1 0 18 0]Estranho. Minha intuição[n]começa a vacilar.[n][w][e]
 [s][vp 8 2 1 0 18 0]Eu não faço nada obscuro,[n]não se importe comigo. Estou apenas[n]observando os trens.[n][w][e]
 
-[msg MSG_AYASIOTOKO_001_3_0 [Uomo sospetto]]
+[msg MSG_AYASIOTOKO_001_3_0 [Homem suspeito]]
 [s][f 4 23 1 18 3 10 0 10][vp 8 2 1 0 18 0]Hum, não. Eu gosto de assistir[n]os trens daqui.[n][w][e]
 [s][vp 8 2 1 0 18 0]Eu não faço nada obscuro,[n]não se importe comigo.[n][w][e]
 
-[msg MSG_AYASIOTOKO_002_0_0 [Uomo sospetto]]
+[msg MSG_AYASIOTOKO_002_0_0 [Homem suspeito]]
 [s][f 4 23 1 18 3 10 0 10][vp 8 2 1 0 18 0]Aquele uniforme... Parece[n]Shujin Academy. Conheço os[n]pontos de referência desta linha.[n][w][e]
 [s][vp 8 2 1 0 18 0]Eu tenho assistido[n]daqui por anos. Eu tenho tantas[n]histórias para contar.[n][w][e]
 [s][vp 8 2 1 0 18 0]Você está interessado na história de[n]esta estação?[n][w][e]
@@ -315,56 +315,56 @@
 [s]Conte-me sobre isso.[e]
 [s]Está interressada em mim?[e]
 
-[msg MSG_AYASIOTOKO_002_1_0 [Uomo sospetto]]
+[msg MSG_AYASIOTOKO_002_1_0 [Homem suspeito]]
 [s][f 4 23 1 18 3 10 0 10][vp 8 2 1 0 18 0]Que decepção. Quando você tiver[n]tempo, você deve aprender.[n][w][e]
 
-[msg MSG_AYASIOTOKO_002_2_0 [Uomo sospetto]]
+[msg MSG_AYASIOTOKO_002_2_0 [Homem suspeito]]
 [s][f 4 23 1 18 3 10 0 10][vp 8 2 1 0 18 0]Agora é difícil imaginar,[n]mas ninguém veio para a inauguração desta[n]estação.[n][w][e]
 [s][vp 8 2 1 0 18 0]Mas cresceu, novas linhas foram[n]adicionadas e hoje[n]é uma das mais movimentadas...[n][w][e]
 
-[msg MSG_AYASIOTOKO_002_3_0 [Uomo sospetto]]
+[msg MSG_AYASIOTOKO_002_3_0 [Homem suspeito]]
 [s][f 4 23 1 18 3 10 0 10][vp 8 2 1 0 18 0]Aquele?!? Claro que não![n]Não faço nada[n]estranho, juro...[n][w][e]
 
-[msg MSG_AYASIOTOKO_002_4_0 [Uomo sospetto]]
+[msg MSG_AYASIOTOKO_002_4_0 [Homem suspeito]]
 [s][f 4 23 1 18 3 10 0 10][vp 8 2 1 0 18 0]Ela chegará em breve...[n]Sinto muito, mas por enquanto não posso[n]conversar mais.[n][w][e]
 
-[msg MSG_AYASIOTOKO_003_0_0 [Uomo sospetto]]
+[msg MSG_AYASIOTOKO_003_0_0 [Homem suspeito]]
 [s][f 4 23 1 18 3 10 0 10][vp 8 2 1 0 18 0]Quem sabe, talvez eu devesse encontrar[n]a coragem de falar com ela.[n][w][e]
 [s][vp 8 2 1 0 18 0]Mas o que posso dizer a ela depois?[n]Que eu a amo?[n][w][e]
 [s][vp 8 2 1 0 18 0]Ou que eu a protejo[n]o tempo todo? Não, isso seria demais.[n]Ainda é cedo...[n][w][e]
 [s][vp 8 2 1 0 18 0]Ultimamente você tem que ter cuidado,[n]eu não quero que ele fique com medo.[n]O que eu faço?[n][w][e]
 
-[msg MSG_AYASIOTOKO_004_0_0 [Addetto della stazione veterano]]
+[msg MSG_AYASIOTOKO_004_0_0 [Atendente veterano da estação]]
 [s][f 4 23 1 19 3 10 0 10][vp 8 2 1 0 19 0]Eu entendo como você se sente,[n]mas você tem que se manter[n]visível.[n][w][e]
 
-[msg MSG_AYASIOTOKO_004_1_0 [Uomo sospetto]]
+[msg MSG_AYASIOTOKO_004_1_0 [Homem suspeito]]
 [s][f 4 23 1 18 3 10 0 10][vp 8 2 1 0 18 0]Eu entendo.[n]Eu sei o quão importante[n]este lugar é para você.[n][w][e]
 
-[msg MSG_AYASIOTOKO_004_2_0 [Addetto della stazione veterano]]
+[msg MSG_AYASIOTOKO_004_2_0 [Atendente veterano da estação]]
 [s][f 4 23 1 19 3 10 0 10][vp 8 2 1 0 19 0]A polícia começou a[n]acertar-nos em termos de segurança.[n]Nem sempre posso defender-te.[n][w][e]
 
-[msg MSG_AYASIOTOKO_004_3_0 [Uomo sospetto]]
+[msg MSG_AYASIOTOKO_004_3_0 [Homem suspeito]]
 [s][f 4 23 1 18 3 10 0 10][vp 8 2 1 0 18 0]Não vou causar problemas para você.[n]Vá, ou você vai atrair a atenção.[n][w][e]
 
-[msg MSG_AYASIOTOKO_005_0_0 [Uomo sospetto]]
+[msg MSG_AYASIOTOKO_005_0_0 [Homem suspeito]]
 [s][f 4 23 1 18 3 10 0 10][vp 8 2 1 0 18 0]Eu quero falar com ela,[n]mesmo que por um tempo...[n][w][e]
 [s][vp 8 2 1 0 18 0]Ela vai ficar noiva?[n]Talvez casada...[n][w][e]
 [s][vp 8 2 1 0 18 0]Oh não. Eu não sei como abordá-la...[n][w][e]
 
-[msg MSG_AYASIOTOKO_006_0_0 [Uomo sospetto]]
+[msg MSG_AYASIOTOKO_006_0_0 [Homem suspeito]]
 [s][f 4 23 1 18 3 10 0 10][vp 8 2 1 0 18 0]A líder foi capturada,[n]mas a cidade ainda é perigosa.[n]Eu quero que ela esteja segura.[n][w][e]
 
-[msg MSG_AYASIOTOKO_006_1_0 [Addetto della stazione in erba]]
+[msg MSG_AYASIOTOKO_006_1_0 [Atendente de posto iniciante]]
 [s][f 4 23 1 19 3 10 0 10][vp 8 2 1 0 19 0]Quem é essa "ela" de quem você está falando?[n]Cuidado, é perigoso[n]se distrair assim.[n][w][e]
 
-[msg MSG_AYASIOTOKO_006_2_0 [Uomo sospetto]]
+[msg MSG_AYASIOTOKO_006_2_0 [Homem suspeito]]
 [s][f 4 23 1 18 3 10 0 10][vp 8 2 1 0 18 0]Hum, eu estava falando sozinho.[n][w][e]
 [s][vp 8 2 1 0 18 0]Oh, você é novo?[n]Cuide deste lugar.[n]Proteja-o.[n][w][e]
 
-[msg MSG_AYASIOTOKO_006_3_0 [Addetto della stazione in erba]]
+[msg MSG_AYASIOTOKO_006_3_0 [Atendente de posto iniciante]]
 [s][f 4 23 1 19 3 10 0 10][vp 8 2 1 0 19 0]proteja-o? A máfia corre[n]ou algo assim?[n]Eu pensei que eles os prenderam...[n][w][e]
 
-[msg MSG_AYASIOTOKO_007_0_0 [Uomo sospetto]]
+[msg MSG_AYASIOTOKO_007_0_0 [Homem suspeito]]
 [s][f 4 23 1 18 3 10 0 10][vp 8 2 1 0 18 0]Você... eu sei que é repentino,[n]mas você se lembra de mim?[n][w][e]
 
 [sel SEL_AYASIOTOKO_007_0_0 top]
@@ -372,95 +372,95 @@
 [s]Eu vejo você às vezes.[e]
 [s]Por nada.[e]
 
-[msg MSG_AYASIOTOKO_007_1_0 [Uomo sospetto]]
+[msg MSG_AYASIOTOKO_007_1_0 [Homem suspeito]]
 [s][f 4 23 1 18 3 10 0 10][vp 8 2 1 0 18 0]Estou aqui quase todos os dias.[n]Não posso culpá-lo.[n][w][e]
 [s][vp 8 2 1 0 18 0]Ela também percebeu?[n]Devo falar com ela? Mmm...[n][w][e]
 
-[msg MSG_AYASIOTOKO_007_2_0 [Uomo sospetto]]
+[msg MSG_AYASIOTOKO_007_2_0 [Homem suspeito]]
 [s][f 4 23 1 18 3 10 0 10][vp 8 2 1 0 18 0]Há muitas pessoas aqui.[n]Eu não culpo você.[n][w][e]
 [s][vp 8 2 1 0 18 0]Eu observo sem ser notado.[n]É assim que deve ser.[n]Eeeh...[n][w][e]
 
-[msg MSG_AYASIOTOKO_007_3_0 [Uomo sospetto]]
+[msg MSG_AYASIOTOKO_007_3_0 [Homem suspeito]]
 [s][f 4 23 1 18 3 10 0 10][vp 8 2 1 0 18 0]Eu vejo. Sinto muito.[n]Eu entendo que não é fácil[n]perceber algo assim.[n][w][e]
 [s][vp 8 2 1 0 18 0]Se ela soubesse que eu a tenho observado[n]por tanto tempo,[n]ela ficaria com medo. Eeeh...[n][w][e]
 
-[msg MSG_AYASIOTOKO_007_4_0 [Uomo sospetto]]
+[msg MSG_AYASIOTOKO_007_4_0 [Homem suspeito]]
 [s][f 4 23 1 18 3 10 0 10][vp 8 2 1 0 18 0]Desculpe se fiz uma pergunta tão[n]estranha.[n]Não se importe.[n][w][e]
 
-[msg MSG_AYASIOTOKO_008_0_0 [Donna spaventata]]
+[msg MSG_AYASIOTOKO_008_0_0 [Mulher assustada]]
 [s][vp 8 2 1 0 21 0]Toda vez que venho aqui,[n]sinto que alguém está olhando.[n]É apenas minha imaginação?[n][w][e]
 [s][vp 8 2 1 0 21 0]Eles dizem que Shibuya está segura agora,[n]mas...eu ainda me sinto[n]um pouco desconfortável...[n][w][e]
 
-[msg MSG_AYASIOTOKO_009_0_0 [Uomo sospetto]]
+[msg MSG_AYASIOTOKO_009_0_0 [Homem suspeito]]
 [s][f 4 23 1 18 3 10 0 10][vp 8 2 1 0 18 0]Pensando em recusar[n]a posição[n]novamente na sede?[n][w][e]
 
-[msg MSG_AYASIOTOKO_009_1_0 [Addetto della stazione veterano]]
+[msg MSG_AYASIOTOKO_009_1_0 [Atendente veterano da estação]]
 [s][f 4 23 1 19 3 10 0 10][vp 8 2 1 0 19 0]Eu vejo os rumores se espalhando, chefe.[n]Eu não posso sair daqui ainda.[n][w][e]
 
-[msg MSG_AYASIOTOKO_009_2_0 [Uomo sospetto]]
+[msg MSG_AYASIOTOKO_009_2_0 [Homem suspeito]]
 [s][f 4 23 1 18 3 10 0 10][vp 8 2 1 0 18 0]Haha, você é o "chefe" agora.[n]Estou aposentado há muito tempo.[n][w][e]
 [s][vp 8 2 1 0 18 0]Confiar as tarefas a[n]outro faz parte do trabalho. Deixe[n]este lugar para o recém-chegado.[n][w][e]
 
-[msg MSG_AYASIOTOKO_009_3_0 [Addetto della stazione veterano]]
+[msg MSG_AYASIOTOKO_009_3_0 [Atendente veterano da estação]]
 [s][f 4 23 1 19 3 10 0 10][vp 8 2 1 0 19 0]Não é tão fácil, acho que[n]no momento seria muito[n]para ele.[n][w][e]
 
-[msg MSG_AYASIOTOKO_009_4_0 [Uomo sospetto]]
+[msg MSG_AYASIOTOKO_009_4_0 [Homem suspeito]]
 [s][f 4 23 1 18 3 10 0 10][vp 8 2 1 0 18 0]Ops, teremos que conversar sobre isso[n]mais tarde. Ela[n]vai passar.[n][w][e]
 
-[msg MSG_AYASIOTOKO_010_0_0 [Donna spaventata]]
+[msg MSG_AYASIOTOKO_010_0_0 [Mulher assustada]]
 [s][f 4 23 1 20 3 10 0 10][vp 8 2 1 0 20 0]Com licença. Você me assiste sempre, não é? Posso[n]ajudar?[n][w][e]
 
-[msg MSG_AYASIOTOKO_010_1_0 [Uomo sospetto]]
+[msg MSG_AYASIOTOKO_010_1_0 [Homem suspeito]]
 [s][f 4 23 1 18 3 10 0 10][vp 8 2 1 0 18 0]Hum... isso é verdade, mas...[n]eu tenho boas razões...[n][w][e]
 
-[msg MSG_AYASIOTOKO_010_2_0 [Donna spaventata]]
+[msg MSG_AYASIOTOKO_010_2_0 [Mulher assustada]]
 [s][f 4 23 1 20 3 10 0 10][vp 8 2 1 0 20 0]Pare de me espionar! Se eu[n]vê-la novamente, vou chamar a polícia![n][w][e]
 
-[msg MSG_AYASIOTOKO_010_3_0 [Uomo sospetto]]
+[msg MSG_AYASIOTOKO_010_3_0 [Homem suspeito]]
 [s][f 4 23 1 18 3 10 0 10][vp 8 2 1 0 18 0]Tudo bem, desculpe.[n]Sinto muito...[n][w][e]
 
-[msg MSG_AYASIOTOKO_011_0_0 [Uomo sospetto]]
+[msg MSG_AYASIOTOKO_011_0_0 [Homem suspeito]]
 [s][f 4 23 1 18 3 10 0 10][vp 8 2 1 0 18 0]Aquele relatório da[n]Okumura Foods[n]me fez pensar.[n][w][e]
 
-[msg MSG_AYASIOTOKO_011_1_0 [Addetto della stazione veterano]]
+[msg MSG_AYASIOTOKO_011_1_0 [Atendente veterano da estação]]
 [s][f 4 23 1 19 3 10 0 10][vp 8 2 1 0 19 0]Os funcionários da Okumura foram[n]forçados a trabalhar mais,[n]nós o fizemos voluntariamente.[n][w][e]
 
-[msg MSG_AYASIOTOKO_011_2_0 [Uomo sospetto]]
+[msg MSG_AYASIOTOKO_011_2_0 [Homem suspeito]]
 [s][f 4 23 1 18 3 10 0 10][vp 8 2 1 0 18 0]No final, fui confundido[n]com um perseguidor.[n]Agora nem consigo vê-la...[n][w][e]
 
-[msg MSG_AYASIOTOKO_011_3_0 [Addetto della stazione veterano]]
+[msg MSG_AYASIOTOKO_011_3_0 [Atendente veterano da estação]]
 [s][f 4 23 1 19 3 10 0 10][vp 8 2 1 0 19 0]Eu vou conversar com ela. Tenho certeza que ele[n]vai entender.[n][w][e]
 
-[msg MSG_AYASIOTOKO_012_0_0 [Addetto della stazione veterano]]
+[msg MSG_AYASIOTOKO_012_0_0 [Atendente veterano da estação]]
 [s][f 4 23 1 19 3 10 0 10][vp 8 2 1 0 18 0]E é isso.[n]Você poderia pelo menos falar com ele?[n][w][e]
 
-[msg MSG_AYASIOTOKO_012_1_0 [Donna spaventata]]
+[msg MSG_AYASIOTOKO_012_1_0 [Mulher assustada]]
 [s][f 4 23 1 20 3 10 0 10][vp 8 2 1 0 20 0]Como você pode falar assim![n]Você tem ideia de como[n]difícil foi para nós?!?[n][w][e]
 
-[msg MSG_AYASIOTOKO_012_2_0 [Addetto della stazione veterano]]
+[msg MSG_AYASIOTOKO_012_2_0 [Atendente veterano da estação]]
 [s][f 4 23 1 19 3 10 0 10][vp 8 2 1 0 18 0]Entendo como você se sente, mas[n]se me permite...[n][w][e]
 [s][vp 8 2 1 0 18 0]Se você sempre usa esta[n]estação, pare por um momento[n]e observe-a.[n][w][e]
 [s][vp 8 2 1 0 18 0]Talvez ele consiga ver[n]o que ele e eu[n]tentamos proteger.[n][w][e]
 
-[msg MSG_AYASIOTOKO_013_0_0 [Donna spaventata]]
-[s][vp 8 2 1 0 21 0]Há tantas pessoas na estação de[n]shibuya...[n][w][e]
+[msg MSG_AYASIOTOKO_013_0_0 [Mulher assustada]]
+[s][vp 8 2 1 0 21 0]Há tantas pessoas na estação de[n]Shibuya...[n][w][e]
 [s][vp 8 2 1 0 21 0]O que ele já tentou proteger[n]que é tão importante que ele[n]fez isso para nós?[n][w][e]
 [s][vp 8 2 1 0 21 0]Sob... O que me importa?[n]O que estou fazendo?[n][w][e]
 
-[msg MSG_AYASIOTOKO_014_0_0 [Addetto della stazione in erba]]
+[msg MSG_AYASIOTOKO_014_0_0 [Atendente de posto iniciante]]
 [s][f 4 23 1 19 3 10 0 10][vp 8 2 1 0 19 0]Ele parece um pouco triste, senhor.[n]Perdeu alguma coisa?[n][w][e]
 
-[msg MSG_AYASIOTOKO_014_1_0 [Uomo sospetto]]
+[msg MSG_AYASIOTOKO_014_1_0 [Homem suspeito]]
 [s][f 4 23 1 18 3 10 0 10][vp 8 2 1 0 18 0]Estou bem. Você é muito gentil em perguntar. E[n]você começa a ficar bom no seu trabalho.[n][w][e]
 [s][vp 8 2 1 0 18 0]Você me lembra dos velhos tempos,[n]quando seu chefe e eu[n]trabalhávamos aqui juntos.[n][w][e]
 
-[msg MSG_AYASIOTOKO_014_2_0 [Addetto della stazione in erba]]
+[msg MSG_AYASIOTOKO_014_2_0 [Atendente de posto iniciante]]
 [s][f 4 23 1 19 3 10 0 10][vp 8 2 1 0 19 0]O que?!? Ela é a chefe do meu chefe! Cavalheiro![n][w][e]
 
-[msg MSG_AYASIOTOKO_014_3_0 [Uomo sospetto]]
+[msg MSG_AYASIOTOKO_014_3_0 [Homem suspeito]]
 [s][f 4 23 1 18 3 10 0 10][vp 8 2 1 0 18 0]Haha, você é exatamente como ele era quando era[n]jovem. Conto com você, cuide desta estação.[n][w][e]
 
-[msg MSG_AYASIOTOKO_015_0_0 [Uomo sospetto]]
+[msg MSG_AYASIOTOKO_015_0_0 [Homem suspeito]]
 [s][f 4 23 1 18 3 10 0 10][vp 8 2 1 0 18 0]Que cara triste.[n]O que há de errado?[n][w][e]
 
 [sel SEL_AYASIOTOKO_015_0_0 top]
@@ -468,77 +468,77 @@
 [s]Me deixe em paz.[e]
 [s]Eu fui despejado.[e]
 
-[msg MSG_AYASIOTOKO_015_1_0 [Uomo sospetto]]
+[msg MSG_AYASIOTOKO_015_1_0 [Homem suspeito]]
 [s][f 4 23 1 18 3 10 0 10][vp 8 2 1 0 18 0]Haha, o que você fez? É sempre[n]melhor pedir desculpas o mais rápido possível.[n][w][e]
 [s][vp 8 2 1 0 18 0]Eu nem mereço[n]ser capaz de me desculpar ...[n]ou vê-la.[n][w][e]
 
-[msg MSG_AYASIOTOKO_015_2_0 [Uomo sospetto]]
+[msg MSG_AYASIOTOKO_015_2_0 [Homem suspeito]]
 [s][f 4 23 1 18 3 10 0 10][vp 8 2 1 0 18 0]Com licença. Eu percebo certas coisas[n]por causa do meu trabalho, mesmo[n]mesmo que eu o tenha deixado por um tempo.[n][w][e]
 [s][vp 8 2 1 0 18 0]Não quero ser insistente,[n]mas se você tiver algum problema[n]deve contar a alguém sobre isso.[n][w][e]
 
-[msg MSG_AYASIOTOKO_015_3_0 [Uomo sospetto]]
+[msg MSG_AYASIOTOKO_015_3_0 [Homem suspeito]]
 [s][f 4 23 1 18 3 10 0 10][vp 8 2 1 0 18 0]E-Entendo. Quando você é jovem, muitas coisas[n]acontecem.[n][w][e]
 [s][vp 8 2 1 0 18 0]Para mim é praticamente a mesma coisa.[n]Não consigo nem ver[n]alguém que amo...[n][w][e]
 
-[msg MSG_AYASIOTOKO_015_4_0 [Addetto della stazione veterano]]
+[msg MSG_AYASIOTOKO_015_4_0 [Atendente veterano da estação]]
 [s][f 4 23 1 18 3 10 0 10][vp 8 2 1 0 18 0]Se você encarar a vida de cabeça[n]baixo, corre o risco de acabar[n]perdendo tudo.[n][w][e]
 [s][vp 8 2 1 0 18 0]Quando somos jovens, é fácil perder de vista o[n]que nos rodeia. Não caia nessa.[n][w][e]
 
-[msg MSG_AYASIOTOKO_016_0_0 [Addetto della stazione in erba]]
+[msg MSG_AYASIOTOKO_016_0_0 [Atendente de posto iniciante]]
 [s][f 4 23 1 19 3 10 0 10][vp 8 2 1 0 19 0]Algum problema, senhorita?[n][w][e]
 [s][vp 8 2 1 0 19 0]Se você não se sentir bem,[n]você pode se sentar em[n]nossa enfermaria.[n][w][e]
 
-[msg MSG_AYASIOTOKO_016_1_0 [Donna spaventata]]
+[msg MSG_AYASIOTOKO_016_1_0 [Mulher assustada]]
 [s][f 4 23 1 20 3 10 0 10][vp 8 2 1 0 20 0]Oh não. Obrigado.[n]Você é muito gentil.[n][w][e]
 [s][vp 8 2 1 0 20 0]Eu sei que é uma pergunta estranha,[n]mas... você gosta[n]de trabalhar aqui?[n][w][e]
 
-[msg MSG_AYASIOTOKO_016_2_0 [Addetto della stazione in erba]]
+[msg MSG_AYASIOTOKO_016_2_0 [Atendente de posto iniciante]]
 [s][f 4 23 1 19 3 10 0 10][vp 8 2 1 0 19 0]Não é fácil, mas eu sempre quero fazer o meu[n]melhor. É uma estação importante para muitas[n]pessoas.[n][w][e]
 
-[msg MSG_AYASIOTOKO_017_0_0 [Ex impiegato della stazione anziano]]
+[msg MSG_AYASIOTOKO_017_0_0 [Ex-funcionário sênior da estação]]
 [s][f 4 23 1 18 3 10 0 10][vp 8 2 1 0 18 0]Estou surpreso que você[n]procurou por mim.[n][w][e]
 [s][vp 8 2 1 0 18 0]Sinto muito. Deixe-me[n]pedir desculpas a você e sua mãe[n]pelo que fiz.[n][w][e]
 
-[msg MSG_AYASIOTOKO_017_1_0 [Donna seriosa]]
+[msg MSG_AYASIOTOKO_017_1_0 [Mulher séria]]
 [s][vp 8 2 65535 0 0 0]......[n][w][e]
 
-[msg MSG_AYASIOTOKO_017_2_0 [Ex impiegato della stazione anziano]]
+[msg MSG_AYASIOTOKO_017_2_0 [Ex-funcionário sênior da estação]]
 [s][f 4 23 1 18 3 10 0 10][vp 8 2 1 0 18 0]Eu estava tão absorto no trabalho[n]que não estive[n]com minha família.[n][w][e]
 [s][vp 8 2 1 0 18 0]Não estou pedindo que você me perdoe.[n]Estou feliz por poder[n]falar com você uma última vez.[n][w][e]
 
-[msg MSG_AYASIOTOKO_017_3_0 [Donna seriosa]]
+[msg MSG_AYASIOTOKO_017_3_0 [Mulher séria]]
 [s][f 4 23 1 20 3 10 0 10][vp 8 2 1 0 20 0]Espere.[n][w][e]
 [s][vp 8 2 1 0 20 0]Passando aqui todos os dias,[n]comecei a entender a importância[n]de trabalhar aqui.[n][w][e]
 [s][vp 8 2 1 0 20 0]Acho que a mãe[n]vai te perdoar. Eu quero que você[n]volte para casa, pai.[n][w][e]
 
-[msg MSG_AYASIOTOKO_017_4_0 [Ex impiegato della stazione anziano]]
+[msg MSG_AYASIOTOKO_017_4_0 [Ex-funcionário sênior da estação]]
 [s][f 4 23 1 18 3 10 0 10][vp 8 2 1 0 18 0]Eu vi você por acaso nesta estação e nunca[n]consegui falar com você...[n][w][e]
 [s][vp 8 2 1 0 18 0]Sinto muito por ter assustado você.[n]Posso compensar[n]pelo que fiz?[n][w][e]
 
-[msg MSG_AYASIOTOKO_017_5_0 [Donna seriosa]]
+[msg MSG_AYASIOTOKO_017_5_0 [Mulher séria]]
 [s][f 4 23 1 20 3 10 0 10][vp 8 2 1 0 20 0]Está tudo bem, pai. Me desculpe,[n]eu também fui duro com você.[n][w][e]
 [s][vp 8 2 1 0 20 0]Espero que agora possamos passar[n]um tempo juntos, em família.[n]Também com a mamãe, claro.[n][w][e]
 
-[msg MSG_AYASIOTOKO_018_0_0 [Donna sorridente]]
+[msg MSG_AYASIOTOKO_018_0_0 [Mulher sorridente]]
 [s][f 4 23 1 20 3 10 0 10][vp 8 2 1 0 20 0]Não teríamos nos conhecido[n]se não fosse por[n]aquele funcionário da estação.[n][w][e]
 [s][vp 8 2 1 0 20 0]Ele era seu ajudante, certo? Vamos lembrar[n]de agradecê-lo.[n][w][e]
 
-[msg MSG_AYASIOTOKO_018_1_0 [Ex impiegato della stazione anziano]]
+[msg MSG_AYASIOTOKO_018_1_0 [Ex-funcionário sênior da estação]]
 [s][f 4 23 1 18 3 10 0 10][vp 8 2 1 0 18 0]No começo ele era um encrenqueiro[n]com a cabeça nas nuvens.[n]E aqueles anúncios…[n][w][e]
 [s][vp 8 2 1 0 18 0]Ele me perguntou seriamente[n]o que era "o interior da[n]linha amarela".[n][w][e]
 [s][vp 8 2 1 0 18 0]Mas agora ele é ótimo em seu trabalho.[n]Ele também treinou seus funcionários.[n][w][e]
 
-[msg MSG_AYASIOTOKO_018_2_0 [Donna sorridente]]
+[msg MSG_AYASIOTOKO_018_2_0 [Mulher sorridente]]
 [s][f 4 23 1 20 3 10 0 10][vp 8 2 1 0 20 0]Há tantas pessoas maravilhosas,[n]aqui. Conte-me sobre quando você[n]trabalhou neste lugar.[n][w][e]
 
-[msg MSG_AYASIOTOKO_018_3_0 [Ex impiegato della stazione anziano]]
+[msg MSG_AYASIOTOKO_018_3_0 [Ex-funcionário sênior da estação]]
 [s][f 4 23 1 18 3 10 0 10][vp 8 2 1 0 18 0]Claro, quando sua mãe chegar. Se você soubesse[n]quantas histórias esta estação tem para contar...[n][w][e]
 
-[msg PAN_SHOP_NOTOPEN [Negoziante vivace]]
+[msg PAN_SHOP_NOTOPEN [Lojista animada]]
 [s]Desculpe, ainda estamos[n]renovando.[n][w][e]
 [s]○日になったらオープンしますので[n]また来てください![n][w][e]
 
-[msg PAN_SHOP_SELECT [Negoziante vivace]]
+[msg PAN_SHOP_SELECT [Lojista animada]]
 [s]Bem-vindo! Há uma[n]oferta especial por tempo limitado[n]em andamento![n][w][e]
 [s]Por que você não prova[n]do nosso pão?[n][w][e]
 
@@ -553,31 +553,31 @@
 [msg PAN_SHOP_NO_MONEY]
 [s]Eu não tenho dinheiro suficiente...[n][w][e]
 
-[msg PAN_SHOP_NOITEM [Negoziante vivace]]
+[msg PAN_SHOP_NOITEM [Lojista animada]]
 [s]Sinto muito! Esse item[n]está fora de estoque![n][w][e]
 
-[msg PAN_SHOP_CHECK [Negoziante vivace]]
+[msg PAN_SHOP_CHECK [Lojista animada]]
 [s]Eles fazem [var 0] ienes.[n]Tudo bem?[n][w][e]
 
-[msg PAN_SHOP_THANKS [Negoziante vivace]]
+[msg PAN_SHOP_THANKS [Lojista animada]]
 [s]Obrigado! Volte novamente![n][w][e]
 
-[msg quest05_hint_talk_00_01 [Impiegato depresso]]
+[msg quest05_hint_talk_00_01 [Empregado deprimido]]
 [s]O que há de errado com aquela mulher?[n]Ela continuou reclamando sobre[n]trem só para mulheres...[n][w][e]
 
-[msg quest05_hint_talk_00_02 [Impiegato motivato]]
+[msg quest05_hint_talk_00_02 [Funcionário motivado]]
 [s]Ah, vejo que você conheceu o famoso resmungão do[n]trem.[n][w][e]
 [s]Ela gostaria que as únicas mulheres treinassem[n]por 24 horas. Mumble mesmo quando o trem está[n]vazio.[n][w][e]
 
-[msg quest05_hint_talk_00_03 [Impiegato depresso]]
+[msg quest05_hint_talk_00_03 [Empregado deprimido]]
 [s]Entendo... É por isso que ninguém[n]daria muita atenção a isso.[n][w][e]
 
-[msg quest05_hint_talk_00_04 [Impiegato motivato]]
+[msg quest05_hint_talk_00_04 [Funcionário motivado]]
 [s]Os funcionários da estação[n]tiveram que expulsá-la com frequência.[n]As pessoas tentam ignorá-la.[n][w][e]
 [s]Acho que reclamar[n]quer liberar o estresse.[n][w][e]
 [s]Pesquise online. "Mitsumi Kure".[n]Está cheio de artigos sobre seu, ah,[n]"ativismo".[n][w][e]
 
-[msg quest05_hint_talk_00_05 [Impiegato depresso]]
+[msg quest05_hint_talk_00_05 [Empregado deprimido]]
 [s]Uau, é incrível que você continue[n]mesmo que todos saibam[n]seus dados pessoais.[n][w][e]
 
 [msg quest05_hint_sinjyo_00]
@@ -586,41 +586,41 @@
 [msg MSG_quest05_morgana_00 [Morgana]]
 [s]Excelente! Acabamos de ouvir[n]algo interessante![n][w][e]
 
-[msg HELP_QUEST05_HINT [Missione disponibile!]]
+[msg HELP_QUEST05_HINT [Missão disponível!]]
 [s]"[clr 4]Tutorial[clr 27]"Obtenha dicas de NPCs[n]com os [clr 2]balões vermelhos[clr 27].[n][w][e]
 
-[msg quest05_hint_talk_01_01 [Impiegato allegro]]
+[msg quest05_hint_talk_01_01 [Empregado alegre]]
 [s]Ei, você ouviu falar sobre o resmungão[n]train?[n][w][e]
 
-[msg quest05_hint_talk_01_02 [Impiegato felice]]
+[msg quest05_hint_talk_01_02 [Funcionário feliz]]
 [s]Sim, ele está se desculpando com todos, certo?[n]Outro dia ela se desculpou comigo também.[n][w][e]
 [s]Ela se curvou quase até o chão. Ele jurou que[n]ele foi feito com as queixas.[n][w][e]
 
-[msg quest05_hint_talk_01_03 [Impiegato allegro]]
+[msg quest05_hint_talk_01_03 [Empregado alegre]]
 [s]Online, eles dizem que finalmente[n]alguém a calou. Ou,[n]é obra de ladrões de coração.[n][w][e]
 [s]Se foram aqueles Ladrões Fantasmas, aqui estão[n]meus novos heróis.[n][w][e]
 
-[msg quest05_hint_talk_01_04 [Impiegato felice]]
+[msg quest05_hint_talk_01_04 [Funcionário feliz]]
 [s]Não sei se os chamaria de "heróis",[n]mas estou feliz que alguém[n]abaixou o tom dela.[n][w][e]
 
 [msg quest05_hint_sinjyo_01]
 [s]O despertar do coração parece ter funcionado.[n][w][e]
 
-[msg Quest13_target_00_00 [Marito riservato]]
+[msg Quest13_target_00_00 [Marido reservado]]
 [s]Keiko... Vamos fazer uma viagem[n]juntos. Só desta vez.[n][w][e]
 
 [msg Quest13_target_00_01 [Keiko Shiratori]]
 [s]Com que dinheiro?[n][w][e]
 [s]Mal nos mantemos à tona[n]com o que temos, e[n]não é nada fácil.[n][w][e]
 
-[msg Quest13_target_00_02 [Marito riservato]]
+[msg Quest13_target_00_02 [Marido reservado]]
 [s]Sim, mas... às vezes[n]você sai, né?[n][w][e]
 
 [msg Quest13_target_00_03 [Keiko Shiratori]]
 [s]É claro![n][w][e]
 [s]O que é, você acha que mulher[n]deve ficar o dia todo trancada em casa?[n][w][e]
 
-[msg Quest13_target_00_04 [Marito riservato]]
+[msg Quest13_target_00_04 [Marido reservado]]
 [s]Não, só estou dizendo que poderíamos[n]usar esse dinheiro para...[n][w][e]
 [s]suspirar. Talvez a gente pense nisso outra hora...[n][w][e]
 
@@ -630,7 +630,7 @@
 [s]Oh, certo. Vou sair para[n]almoçar com uma mãe[n]do bairro, então você vai ficar sozinha. OK?[n]Eu tenho que manter as aparências[n]com os vizinhos. Você me entende,[n]certo?[n][w][e]
 [s]Tenho que manter as aparências[n]com os vizinhos. Você me entende,[n]certo?[n][w][e]
 
-[msg Quest13_target_00_06 [Marito riservato]]
+[msg Quest13_target_00_06 [Marido reservado]]
 [s]Novamente? Está bem...[n][w][e]
 
 [msg Quest13_target_sinjyo_00]
@@ -644,7 +644,7 @@
 [s]O que é isso, uma carta de aviso?[n]É uma das suas piadas?[n]Você não se acha infantil?[n][w][e]
 [s]Você não se acha infantil?[n][w][e]
 
-[msg Quest13_target_01_01 [Marito riservato]]
+[msg Quest13_target_01_01 [Marido reservado]]
 [s]Vai ser uma criança que[n]quer se divertir. Jogue fora.[n][w][e]
 
 [msg Quest13_target_01_02 [Keiko Shiratori]]
@@ -654,7 +654,7 @@
 [msg Quest13_target_sinjyo_01]
 [s]A carta de aviso[n]foi entregue.[n][w][e]
 
-[msg Quest13_target_02_00 [Uomo pallido]]
+[msg Quest13_target_02_00 [Homem pálido]]
 [s]Estou bem. Não é nada...[n][w][e]
 
 [msg Quest13_target_02_01 [Keiko Shiratori]]
@@ -662,21 +662,21 @@
 [s]Mas não temos dinheiro para pagar o hospital...[n][w][e]
 [s]É tudo culpa minha...[n]Por que não economizei[n]dinheiro?[n][w][e]
 
-[msg Quest13_target_02_02 [Uomo pallido]]
+[msg Quest13_target_02_02 [Homem pálido]]
 [s]Estou apenas cansado do trabalho,[n]realmente. Não há nada com que se preocupar...[n][w][e]
 
 [msg Quest13_target_sinjyo_02]
 [s]O karma os punia por viverem além de suas posses.[n][w][e]
 
-[msg quest15_hint_talk_00 [Fidanzato modaiolo]]
+[msg quest15_hint_talk_00 [Namorado da moda]]
 [s]Vou matar aquele velho...[n]Acabei de verificar meu[n]telefone no trem![n][w][e]
 [s]Eu nem estava falando com ele.[n]Estava no silencioso![n][w][e]
 [s]...Aposto que ele nem conhece[n]essa modalidade.[n][w][e]
 
-[msg quest15_hint_talk_01 [Fidanzata alla moda]]
+[msg quest15_hint_talk_01 [Namorada estilosa]]
 [s]Sim, aquele velho merece[n]a morte, Takkun.[n]Ele fez mais barulho do que você![n][w][e]
 
-[msg quest15_hint_talk_02 [Fidanzato modaiolo]]
+[msg quest15_hint_talk_02 [Namorado da moda]]
 [s]Aquele velho bastardo repreendeu meu senpai[n]também. Ele é famoso por suas besteiras.[n][w][e]
 [s]É Muneo Horiguchi. Uau,[n]eles compartilharam o endereço dele também![n][w][e]
 [s]Espero que aquele desgraçado arrogante receba o[n]que merece![n][w][e]
@@ -720,13 +720,13 @@
 [msg Quest30_target_sinjyo_02]
 [s]クエスト30のテスト心情メッセージです。[n][w][e]
 
-[msg Quest36_target_00_00 [Uomo d'affari infelice]]
+[msg Quest36_target_00_00 [Empresário infeliz]]
 [s]Espere, somos responsáveis[n]por este projeto...[n][f 4 23 1 600 3 10 0 10][w][e]
 
-[msg Quest36_target_00_01 [Impiegato esperto]]
+[msg Quest36_target_00_01 [Funcionário experiente]]
 [s]Sim? Bem, se eu estou aqui, significa que[n]você não pode lidar com isso.[n][f 4 23 1 601 3 10 0 10][w][e]
 
-[msg Quest36_target_00_02 [Uomo d'affari infelice]]
+[msg Quest36_target_00_02 [Empresário infeliz]]
 [s]Mas... eu sou o líder do projeto...[n][f 4 23 1 600 3 10 0 10][w][e]
 
 [msg Quest36_target_00_03 [Shinsuke Kishi]]
@@ -735,7 +735,7 @@
 [s]Poupe-me de suas[n]reclamações, ok?[n][w][e]
 [s]Ou você quer terminar[n]trabalho em algum lugar[n]longe de Tóquio?[n][w][e]
 
-[msg Quest36_target_00_04 [Uomo d'affari infelice]]
+[msg Quest36_target_00_04 [Empresário infeliz]]
 [s]...Não. Senhor.[n][f 4 23 1 600 3 10 0 10][w][e]
 
 [msg Quest36_target_00_05 [Shinsuke Kishi]]
@@ -743,36 +743,36 @@
 
 [msg MSG_quest36_morgana_01 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 2 1 1130 65535 0]Não pensei que encontraríamos um alvo em tal[n]lugar...[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Vamos despertar seu coração no[n]Memento o mais rápido possível.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Vamos despertar seu coração no[n]Mementos o mais rápido possível.[n][w][e]
 
 [msg Quest36_target_01_00 [Shinsuke Kishi]]
 [s]Que diabos é Phan-Site?[n]Qual departamento cuidou disso?[n][f 4 23 1 601 3 10 0 10][w][e]
 
-[msg Quest36_target_01_01 [Uomo d'affari infelice]]
+[msg Quest36_target_01_01 [Empresário infeliz]]
 [s]*suspiro* Mas isso...[n][f 4 23 1 600 3 10 0 10][w][e]
 
 [msg Quest36_target_01_02 [Shinsuke Kishi]]
 [s]...Você de novo?[n][f 4 23 1 601 3 10 0 10][w][e]
 
-[msg Quest36_target_01_03 [Uomo d'affari infelice]]
+[msg Quest36_target_01_03 [Empresário infeliz]]
 [s]Nono! Não fui eu![n][f 4 23 1 600 3 10 0 10][w][e]
 
 [msg Quest36_target_sinjyo_01 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0][vp 8 2 1 1106 65535 0]Até que despertemos seu coração nos Mementos, ele[n]não vai parar.[n][w][e]
 
-[msg Quest36_target_02_00 [Impiegato spensierato]]
+[msg Quest36_target_02_00 [Empregado despreocupado]]
 [s]Espere o que? Mas você assumiu o projeto,[n]senpai...[n][f 4 23 1 600 3 10 0 10][w][e]
 
 [msg Quest36_target_02_01 [Shinsuke Kishi]]
 [s]Nono. Pense nisso. Os jovens[n]devem ter toda a experiência[n]possível.[n][f 4 23 1 601 3 10 0 10][w][e]
 
-[msg Quest36_target_02_02 [Impiegato spensierato]]
+[msg Quest36_target_02_02 [Empregado despreocupado]]
 [s]V... Ok, obrigado![n][f 4 23 1 600 3 10 0 10][w][e]
 
 [msg Quest36_target_02_03 [Shinsuke Kishi]]
 [s]Faça um bom home run e eu pago uma bebida para[n]você! Prepare-se para festejar a noite toda![n][f 4 23 1 601 3 10 0 10][w][e]
 
-[msg Quest36_target_02_04 [Impiegato spensierato]]
+[msg Quest36_target_02_04 [Empregado despreocupado]]
 [s]Não, não, noooo. Eu não posso.[n]Minha esposa me mataria.[n][f 4 23 1 600 3 10 0 10][w][e]
 
 [msg Quest36_target_sinjyo_02 [Morgana]]
@@ -802,429 +802,429 @@
 [msg Quest43_target_sinjyo_02]
 [s]クエスト43のテスト心情メッセージです。[n][w][e]
 
-[msg MSG_HAGEOTOKO_001_0_0 [Uomo alto]]
+[msg MSG_HAGEOTOKO_001_0_0 [Homem alto]]
 [s][vp 8 2 1 0 6 0]É melhor namorar[n]mais jovens e minha namorada[n]é jovem e bonita. É perfeito.[n][w][e]
 [s][vp 8 2 1 0 6 0]...Uh o quê? Quer saber sobre[n]aquela coisa secreta?[n][w][e]
 [s][vp 8 2 1 0 6 0]Sssh, fala baixinho! Você nunca[n]sabe quem pode ouvi-lo![n][w][e]
 [s][vp 8 2 1 0 6 0]Ligarei para você no momento[n]oportuno. E em troca...[n]que tal uma menininha?[n][w][e]
 
-[msg MSG_HAGEOTOKO_002_0_0 [Uomo alto]]
+[msg MSG_HAGEOTOKO_002_0_0 [Homem alto]]
 [s][vp 8 2 1 0 6 0]As coisas com minha namorada[n]estão boas. As[n]garotas menores são as melhores.[n][w][e]
 [s][vp 8 2 1 0 6 0]Coisa? me casar? Eu gostaria,[n]mas... nesse ponto seria[n]difícil de esconder.[n][w][e]
 [s][vp 8 2 1 0 6 0]O sistema favorece os ricos.[n]Eu não queria recorrer a[n]tal coisa, mas...[n][w][e]
 [s][vp 8 2 1 0 6 0]Se eu quero ser feliz,[n]tenho que correr alguns riscos.[n]É irônico, mas estou fazendo isso por ela.[n][w][e]
 
-[msg MSG_HAGEOTOKO_003_0_0 [Uomo alto]]
+[msg MSG_HAGEOTOKO_003_0_0 [Homem alto]]
 [s][vp 8 2 1 0 6 0]A garota que eu te apresentei não gosta dela? Ela[n]também é jovem e bonita. Decepcione-me.[n][w][e]
 [s][vp 8 2 1 0 6 0]Mas uma promessa é uma promessa. Tínhamos um[n]pacto e eu fiz a minha parte.[n][w][e]
 [s][vp 8 2 1 0 6 0]Você tem que me conseguir aquela coisa[n]sobre a qual ouvi falar.[n]Mas não será fácil.[n][w][e]
 [s][vp 8 2 1 0 6 0]Agora não posso contar os[n]detalhes. Se eu não tomar cuidado,[n]eles descobrirão meu segredo.[n][w][e]
 
-[msg MSG_HAGEOTOKO_004_0_0 [Uomo alto]]
+[msg MSG_HAGEOTOKO_004_0_0 [Homem alto]]
 [s][vp 8 2 1 0 6 0]Mulheres doces e gentis[n]são as melhores de todas.[n]Como minha namorada.[n][w][e]
 [s][vp 8 2 1 0 6 0]Ela é jovem, mas o[n]calor de seu coração[n]me envolve como um cobertor.[n][w][e]
 [s][vp 8 2 1 0 6 0]O que...? Você quer saber se o[n]remédio funcionou?[n]Na verdade... não como eu esperava.[n][w][e]
 [s][vp 8 2 1 0 6 0]Não consegue encontrar algo[n]que funcione? Eu pagarei.[n]Ajude-me, por favor.[n][w][e]
 
-[msg MSG_HAGEOTOKO_005_0_0 [Uomo alto]]
+[msg MSG_HAGEOTOKO_005_0_0 [Homem alto]]
 [s][vp 8 2 1 0 6 0]...O que? Devo bater nele[n]com um pedaço de pau?!?[n][w][e]
 [s][vp 8 2 1 0 6 0]Não parece muito científico para mim.[n]Mas se funcionar, não posso[n]reclamar.[n][w][e]
 [s][vp 8 2 1 0 6 0]Quando eu resolver meu pequeno[n]problema, vamos comemorar juntos.[n]Sim, vamos enlouquecer![n][w][e]
 [s][vp 8 2 1 0 6 0]O que farei sobre o casamento?[n]Vou pensar sobre isso depois que[n]me livrar de todas as evidências.[n][w][e]
 
-[msg MSG_HAGEOTOKO_006_0_0 [Uomo alto]]
+[msg MSG_HAGEOTOKO_006_0_0 [Homem alto]]
 [s][vp 8 2 1 0 6 0]...Sim, isso é perfeito.[n]Ninguém vai saber que eles foram[n]escondidos nas meias.[n][w][e]
 [s][vp 8 2 1 0 6 0]Quando você começa a trabalhar você deve ser[n]rápido. Você vai chocar até mesmo os Phantom[n]Thieves.[n][w][e]
 [s][vp 8 2 1 0 6 0]Haha... Sim, aposto que[n]se eu continuar a enganá-la assim[n]eles virão até mim também.[n][w][e]
 [s][vp 8 2 1 0 6 0]Como sempre, deve permanecer[n]um segredo... Conto com você.[n][w][e]
 
-[msg MSG_HAGEOTOKO_007_0_0 [Uomo alto]]
+[msg MSG_HAGEOTOKO_007_0_0 [Homem alto]]
 [s][vp 8 2 1 0 6 0]Os Phantom Thieves[n]pararam a máfia. Isso me assusta[n]saber do que eles são capazes.[n][w][e]
 [s][vp 8 2 1 0 6 0]Aparentemente, eles podem fazer você confessar[n]qualquer coisa. Se acontecesse comigo, eu[n]estaria ferrado...[n][w][e]
 [s][vp 8 2 1 0 6 0]Claro que me sinto mal.[n]Minha vida depende disso.[n][w][e]
 [s][vp 8 2 1 0 6 0]Também quero pensar no[n]futuro com minha namorada.[n]Tenho que resolver isso.[n][w][e]
 
-[msg MSG_HAGEOTOKO_008_0_0 [Uomo alto]]
+[msg MSG_HAGEOTOKO_008_0_0 [Homem alto]]
 [s][vp 8 2 1 0 6 0]O verão é a estação do amor, apesar da umidade.[n]Eu sei que você encontrou uma namorada.[n][w][e]
 [s][vp 8 2 1 0 6 0]Oi é um pouco maior? Eu[n]estou interessado apenas nos mais jovens.[n][w][e]
 [s][vp 8 2 1 0 6 0]De qualquer forma, o que posso fazer[n]por..."sabe de uma coisa"? Eu[n]superaria isso rapidamente ...[n][w][e]
 [s][vp 8 2 1 0 6 0]Amarrar meus pulsos com força e cerrar meus[n]dentes? Parece doloroso, mas não tenho outra[n]escolha.[n][w][e]
 
-[msg MSG_HAGEOTOKO_009_0_0 [Uomo alto]]
+[msg MSG_HAGEOTOKO_009_0_0 [Homem alto]]
 [s][vp 8 2 1 0 6 0]Minha namorada está agindo[n]estranhamente. Como se[n]ele estivesse escondendo algo de mim.[n][w][e]
 [s][vp 8 2 1 0 6 0]Droga, e falando em "sabe o quê", nada vai[n]funcionar. Se ela descobrir...[n][w][e]
 [s][vp 8 2 1 0 6 0]Estou com muito medo de que ele descubra. Se[n]aqueles hackers tivessem me alvejado...[n][w][e]
 [s][vp 8 2 1 0 6 0]Os Ladrões Fantasmas[n]me ajudarão? Idiota,[n]eles não vão resolver meu problema![n][w][e]
 
-[msg MSG_HAGEOTOKO_010_0_0 [Uomo alto]]
+[msg MSG_HAGEOTOKO_010_0_0 [Homem alto]]
 [s][vp 8 2 1 0 6 0]Tenho sido muito cuidadoso, mas[n]nem sempre terei tanta sorte...[n][w][e]
 [s][vp 8 2 1 0 6 0]Estou com minha namorada há três anos. Talvez[n]seja melhor casar com ela e deixá-la no escuro.[n][w][e]
 [s][vp 8 2 1 0 6 0]Não, isso não é bom...[n]Se eu não confessar agora,[n]ele vai descobrir.[n][w][e]
 [s][vp 8 2 1 0 6 0]Hã? Devo perguntar a ela o que ela pensa sobre[n]essa coisa? Ei, boa ideia. Vou tentar testar as[n]águas.[n][w][e]
 
-[msg MSG_HAGEOTOKO_011_0_0 [Donna dall'aspetto giovane]]
+[msg MSG_HAGEOTOKO_011_0_0 [Mulher de aparência jovem]]
 [s][f 4 23 1 9 3 10 0 10][vp 8 2 1 0 9 0]Obrigado por me convidar.[n]Eu me diverti muito e o filme[n]foi ótimo![n][w][e]
 
-[msg MSG_HAGEOTOKO_011_1_0 [Uomo alto]]
+[msg MSG_HAGEOTOKO_011_1_0 [Homem alto]]
 [s][f 4 23 1 6 3 10 0 10][vp 8 2 1 0 6 0]Sim, e aquele twist[n]finale! Eles estavam em um asilo![n][w][e]
 
-[msg MSG_HAGEOTOKO_011_2_0 [Donna dall'aspetto giovane]]
+[msg MSG_HAGEOTOKO_011_2_0 [Mulher de aparência jovem]]
 [s][f 4 23 1 9 3 10 0 10][vp 8 2 1 0 9 0]C-Casamento!?! Na verdade, estamos[n]juntos há três anos. Eu[n]pensei sobre isso, mas...[n][w][e]
 
-[msg MSG_HAGEOTOKO_011_3_0 [Uomo alto]]
+[msg MSG_HAGEOTOKO_011_3_0 [Homem alto]]
 [s][f 4 23 1 6 3 10 0 10][vp 8 2 1 0 6 0]Uh o quê?!? Casamento?!?[n]Eu não disse nada disso![n][w][e]
 
-[msg MSG_HAGEOTOKO_011_4_0 [Donna dall'aspetto giovane]]
+[msg MSG_HAGEOTOKO_011_4_0 [Mulher de aparência jovem]]
 [s][f 4 23 1 9 3 10 0 10][vp 8 2 1 0 9 0]Você não disse isso...?[n]Ah... Tudo bem...[n][w][e]
 
-[msg MSG_HAGEOTOKO_011_5_0 [Uomo alto]]
+[msg MSG_HAGEOTOKO_011_5_0 [Homem alto]]
 [s][f 4 23 1 6 3 10 0 10][vp 8 2 1 0 6 0]Espere, o que você acabou de dizer? Você já[n]pensou sobre isso, "MAS"? Mas o que?[n][w][e]
 
-[msg MSG_HAGEOTOKO_012_0_0 [Uomo alto]]
+[msg MSG_HAGEOTOKO_012_0_0 [Homem alto]]
 [s][vp 8 2 1 0 6 0]Preparar...? Escuta. Outro dia[n]conversamos sobre casamento.[n][w][e]
 [s][vp 8 2 1 0 6 0]Ele não parecia tão entusiasmado.[n]Talvez ele já tenha descoberto...[n][w][e]
 [s][vp 8 2 1 0 6 0]Sim! Eu escondo o fato de que estou perdendo meu[n]cabelo! E eu uso botas para parecer mais alta![n][w][e]
 [s][vp 8 2 1 0 6 0]...Desculpe, eu não queria desabafar com você.[n]Mas como ele descobriu...?[n][w][e]
 [s][vp 8 2 1 0 6 0]Droga, se eu pudesse[n]resolver isso, eu pediria[n]a mão dela...[n][w][e]
 
-[msg MSG_HAGEOTOKO_013_0_0 [Uomo alto]]
+[msg MSG_HAGEOTOKO_013_0_0 [Homem alto]]
 [s][vp 8 2 1 0 6 0]Ah, meu coração está partido...[n]eu adoraria confessar com uma[n]coletiva de imprensa de desculpas...[n][w][e]
 [s][vp 8 2 1 0 6 0]Eu usava botas altas[n]e "apêndices" na minha cabeça...[n][w][e]
 [s][vp 8 2 1 0 6 0]Eu sou baixinha E fadada à calvície![n]Minha jovem e[n]linda garota merece algo melhor![n][w][e]
 [s][vp 8 2 1 0 6 0]Não temos ouvido muito ultimamente... Receio que[n]ele possa me perguntar algo...[n][w][e]
 [s][vp 8 2 1 0 6 0]Ele sabe, tenho certeza...[n]É por isso que ele não quer[n]casar comigo...[n][w][e]
 
-[msg MSG_HAGEOTOKO_014_0_0 [Uomo alto]]
+[msg MSG_HAGEOTOKO_014_0_0 [Homem alto]]
 [s][vp 8 2 1 0 6 0]...Preparar? Sou eu. Você viu a conferência de[n]imprensa do Sr. Okumura?[n][w][e]
 [s][vp 8 2 1 0 6 0]Esse é o fim dos[n]liars... Mais cedo ou mais tarde[n]isso vai acontecer comigo também...[n][w][e]
 [s][vp 8 2 1 0 6 0]Tá dizendo que estou exagerando...?[n]Sem ela não tenho mais nada![n][w][e]
 [s][vp 8 2 1 0 6 0]Se você é meu melhor amigo,[n]me ajude! Como eu[n]tenho cabelo solto?!?[n][w][e]
 [s][vp 8 2 1 0 6 0]E eu tenho que ficar mais alta![n]Vou usar prótese de silicone,[n]estou disposta a tudo![n][w][e]
 
-[msg MSG_HAGEOTOKO_015_0_0 [Uomo alto]]
+[msg MSG_HAGEOTOKO_015_0_0 [Homem alto]]
 [s][vp 8 2 1 0 6 0]Venha, vamos! Se você resolver[n]este problema, eu pago![n][w][e]
 [s][vp 8 2 1 0 6 0]Se eles pedirem 30 milhões de ienes pelos Phantom[n]Thieves, eu ofereço 100 milhões! Não... na[n]verdade não posso.[n][w][e]
 [s][vp 8 2 1 0 6 0]Não consigo parar de[n]pensar nisso... eu realmente quero[n]casar com minha namorada...[n][w][e]
 [s][vp 8 2 1 0 6 0]Hã? Quer saber por que[n]eu gosto tanto disso? Bem,[n]ela é jovem e bonita, claro...[n][w][e]
 [s][vp 8 2 1 0 6 0]mas quando estou com ela,[n]eu posso relaxar. Ele é uma boa[n]pessoa...[n][w][e]
 
-[msg MSG_HAGEOTOKO_016_0_0 [Uomo alto]]
+[msg MSG_HAGEOTOKO_016_0_0 [Homem alto]]
 [s][vp 8 2 1 0 6 0]Se eu contasse a verdade a ela, você acha que[n]ela ainda me aceitaria[n]por quem eu sou?[n][w][e]
 [s][vp 8 2 1 0 6 0]Eu sou muito inseguro... É por isso que escondo[n]minhas falhas com essas coisas.[n][w][e]
 [s][vp 8 2 1 0 6 0]Se eu pensar muito nisso, vou perder[n]mais cabelo? Não diga[n]essas coisas em tal hora...[n][w][e]
 [s][vp 8 2 1 0 6 0]Enfim, eu amo minha namorada! Tenho mais medo de[n]perdê-la do que do meu cabelo![n][w][e]
 
-[msg MSG_HAGEOTOKO_017_0_0 [Uomo alto]]
+[msg MSG_HAGEOTOKO_017_0_0 [Homem alto]]
 [s][vp 8 2 1 0 6 0]Cabelo ralo? Corti?[n]É assim que eu sou![n][w][e]
 [s][vp 8 2 1 0 6 0]Esconder é equivalente[n]a trair minha namorada,[n]é óbvio...[n][w][e]
 [s][vp 8 2 1 0 6 0]...Eu decidi! Eu vou te contar[n]tudo![n][w][e]
 [s][vp 8 2 1 0 6 0]Ela saberá minha versão real.[n]Se ela não gostar de mim,[n]eu vou superar isso...[n][w][e]
 [s][vp 8 2 1 0 6 0]Obrigado por me ouvir por tanto tempo. Vou[n]superar este momento difícil![n][w][e]
 
-[msg MSG_HAGEOTOKO_018_0_0 [Uomo alto]]
+[msg MSG_HAGEOTOKO_018_0_0 [Homem alto]]
 [s][f 4 23 1 6 3 10 0 10][vp 8 2 1 0 6 0]Há uma coisa que eu[n]escondi de você. Eu quero que você[n]saiba a verdade sobre mim.[n][w][e]
 [s][vp 8 2 1 0 6 0]Sou baixo. Eu uso[n]sapatos especiais que me fazem[n]ganhar dez centímetros.[n][w][e]
 
-[msg MSG_HAGEOTOKO_018_1_0 [Donna dall'aspetto giovane]]
+[msg MSG_HAGEOTOKO_018_1_0 [Mulher de aparência jovem]]
 [s][f 4 23 1 9 3 10 0 10][vp 8 2 1 0 9 0]Não importa...[n]Sabe, eu também[n]escondi algo de você...[n][w][e]
 [s][vp 8 2 1 0 9 0]Na verdade, sou mais velho que você. Eu sou 20[n]anos mais velho do que eu te disse... Desculpe.[n][w][e]
 
-[msg MSG_HAGEOTOKO_018_2_0 [Uomo alto]]
+[msg MSG_HAGEOTOKO_018_2_0 [Homem alto]]
 [s][f 4 23 1 6 3 10 0 10][vp 8 2 1 0 6 0]20 anos...[n][w][e]
 [s][vp 8 2 1 0 6 0]T-Não se preocupe! Está tudo bem![n]Meu amor por você não muda.[n][w][e]
 [s][vp 8 2 1 0 6 0]Eu também tenho outro segredo...[n]Olhe para a linha do cabelo![n][w][e]
 [s][vp 8 2 1 0 6 0]Fiz tudo o que pude,[n]mas estou perdendo meu cabelo![n]sinto muito![n][w][e]
 
-[msg MSG_HAGEOTOKO_018_3_0 [Donna dall'aspetto giovane]]
+[msg MSG_HAGEOTOKO_018_3_0 [Mulher de aparência jovem]]
 [s][f 4 23 1 9 3 10 0 10][vp 8 2 1 0 9 0]Uau...[n][w][e]
 [s][vp 8 2 1 0 9 0]E-Estou um pouco surpreso, claro,[n]mas eu te amo mesmo assim.[n][w][e]
 
-[msg MSG_HAGEOTOKO_018_4_0 [Uomo alto]]
+[msg MSG_HAGEOTOKO_018_4_0 [Homem alto]]
 [s][f 4 23 1 6 3 10 0 10][vp 8 2 1 0 6 0]Eu sou baixinha e careca...[n]Mas case comigo, por favor![n][w][e]
 
-[msg MSG_HAGEOTOKO_018_5_0 [Donna dall'aspetto giovane]]
+[msg MSG_HAGEOTOKO_018_5_0 [Mulher de aparência jovem]]
 [s][f 4 23 1 9 3 10 0 10][vp 8 2 1 0 9 0]Eu menti sobre minha idade...[n]Claro que vou casar com você![n][w][e]
 
-[msg MSG_HAGEOTOKO_018_8_0 [Uomo alto]]
+[msg MSG_HAGEOTOKO_018_8_0 [Homem alto]]
 [s][f 4 23 1 6 3 10 0 10][vp 8 2 1 0 6 0]Antes que eu percebesse,[n]você roubou meu coração.[n]Então, eu confessei meus pecados.[n][w][e]
 
-[msg MSG_HAGEOTOKO_018_9_0 [Donna dall'aspetto giovane]]
+[msg MSG_HAGEOTOKO_018_9_0 [Mulher de aparência jovem]]
 [s][f 4 23 1 9 3 10 0 10][vp 8 2 1 0 9 0]Hahaha... eu também. Aparentemente[n]os Phantom Thieves[n]estão de volta à ação também.[n][w][e]
 
-[msg MSG_HAGEOTOKO_018_10_0 [Uomo alto]]
+[msg MSG_HAGEOTOKO_018_10_0 [Homem alto]]
 [s][f 4 23 1 6 3 10 0 10][vp 8 2 1 0 6 0]Eu vou te fazer feliz.[n]Eu prometo.[n][w][e]
 
-[msg MSG_HAGEOTOKO_018_11_0 [Donna dall'aspetto giovane]]
+[msg MSG_HAGEOTOKO_018_11_0 [Mulher de aparência jovem]]
 [s][f 4 23 1 9 3 10 0 10][vp 8 2 1 0 9 0]Você quer vir comigo para a[n]eleição? Vamos pensar seriamente[n]sobre nosso futuro... juntos.[n][w][e]
 
-[msg MSG_HAGEOTOKO_019_0_0 [Donna dall'aspetto giovane]]
+[msg MSG_HAGEOTOKO_019_0_0 [Mulher de aparência jovem]]
 [s][f 4 23 1 9 3 10 0 10][vp 8 2 1 0 9 0]Nossa vida juntos começa.[n]Espero que nunca nos separemos.[n][w][e]
 
-[msg MSG_HAGEOTOKO_019_1_0 [Uomo alto]]
+[msg MSG_HAGEOTOKO_019_1_0 [Homem alto]]
 [s][f 4 23 1 6 3 10 0 10][vp 8 2 1 0 6 0]Eu também. Tenho certeza de que seremos uma[n]família maravilhosa.[n][w][e]
 
-[msg MSG_HAGEOTOKO_019_2_0 [Donna dall'aspetto giovane]]
+[msg MSG_HAGEOTOKO_019_2_0 [Mulher de aparência jovem]]
 [s][f 4 23 1 9 3 10 0 10][vp 8 2 1 0 9 0]Eu quero... te conhecer melhor.[n]Seja você mesmo, ok?[n][w][e]
 
-[msg MSG_HAGEOTOKO_019_3_0 [Uomo alto]]
+[msg MSG_HAGEOTOKO_019_3_0 [Homem alto]]
 [s][f 4 23 1 6 3 10 0 10][vp 8 2 1 0 6 0]Eu também. Você pode me dizer qualquer coisa. Vou[n]aceitá-lo por quem você é, não importa o que[n]aconteça.[n][w][e]
 
-[msg MSG_HAGEOTOKO_019_4_0 [Donna dall'aspetto giovane]]
+[msg MSG_HAGEOTOKO_019_4_0 [Mulher de aparência jovem]]
 [s][f 4 23 1 9 3 10 0 10][vp 8 2 1 0 9 0]Sabe, eu sempre amei seu[n]grande coração... Porém,[n]sua testa é bem grande também![n][w][e]
 
-[msg MSG_HAGEOTOKO_019_5_0 [Uomo alto]]
+[msg MSG_HAGEOTOKO_019_5_0 [Homem alto]]
 [s][f 4 23 1 6 3 10 0 10][vp 8 2 1 0 6 0]E eu sempre amei seu[n]sarcasmo, tão afiado que[n]reduz sua idade![n][w][e]
 
-[msg MSG_TOSISABA_001_0_0 [Signora di mezza età]]
+[msg MSG_TOSISABA_001_0_0 [Senhora de meia idade]]
 [s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]Estou tão cansado. Estou fazendo[n]muitas horas extras.[n]Está vendo aquelas olheiras sob meus olhos?[n][w][e]
 
-[msg MSG_TOSISABA_001_1_0 [Donna dall'aspetto giovane]]
+[msg MSG_TOSISABA_001_1_0 [Mulher de aparência jovem]]
 [s][f 4 23 1 7 3 10 0 10][vp 8 2 1 0 7 0]Preste atenção. Eles dizem que[n]estresse é a causa de[n]muitos problemas ruins...[n][w][e]
 
-[msg MSG_TOSISABA_001_2_0 [Signora di mezza età]]
+[msg MSG_TOSISABA_001_2_0 [Senhora de meia idade]]
 [s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]Como aqueles acidentes de trem,[n]verdade? Essas pessoas desmoronaram[n]assim, de repente...[n][w][e]
 
-[msg MSG_TOSISABA_001_3_0 [Donna dall'aspetto giovane]]
+[msg MSG_TOSISABA_001_3_0 [Mulher de aparência jovem]]
 [s][f 4 23 1 7 3 10 0 10][vp 8 2 1 0 7 0]O estresse também acentua as rugas. Uma mente[n]relaxada torna a pele mais lisa.[n][w][e]
 
-[msg MSG_TOSISABA_002_0_0 [Signora di mezza età]]
+[msg MSG_TOSISABA_002_0_0 [Senhora de meia idade]]
 [s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]Os preços sobem, os impostos também...[n]Os políticos falam muito, mas[n]o que eles realmente fazem?[n][w][e]
 [s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]O salário do meu marido certamente não está[n]aumentando. Assim é melhor para você. Seu[n]namorado ganha bem.[n][w][e]
 
-[msg MSG_TOSISABA_002_1_0 [Donna dall'aspetto giovane]]
+[msg MSG_TOSISABA_002_1_0 [Mulher de aparência jovem]]
 [s][f 4 23 1 7 3 10 0 10][vp 8 2 1 0 7 0]E não só isso.[n]Ele também é muito alto[n]e bonito.[n][w][e]
 
-[msg MSG_TOSISABA_002_2_0 [Signora di mezza età]]
+[msg MSG_TOSISABA_002_2_0 [Senhora de meia idade]]
 [s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]Você é sortudo. Como você[n]encontrou um homem assim?[n][w][e]
 
-[msg MSG_TOSISABA_002_3_0 [Donna dall'aspetto giovane]]
+[msg MSG_TOSISABA_002_3_0 [Mulher de aparência jovem]]
 [s][f 4 23 1 7 3 10 0 10][vp 8 2 1 0 7 0]Hum, bem, eu não fiz nada...[n]Nos conhecemos[n]por puro acaso![n][w][e]
 
-[msg MSG_TOSISABA_003_0_0 [Signora di mezza età]]
+[msg MSG_TOSISABA_003_0_0 [Senhora de meia idade]]
 [s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]Fiquei sabendo que um ex-professor[n]muito admirado assediou um de seus[n]alunos. Pobre garota.[n][w][e]
 
-[msg MSG_TOSISABA_003_1_0 [Donna dall'aspetto giovane]]
+[msg MSG_TOSISABA_003_1_0 [Mulher de aparência jovem]]
 [s][f 4 23 1 7 3 10 0 10][vp 8 2 1 0 7 0]Para as vítimas é difícil[n]falar sobre isso. Se meu chefe[n]me toca de forma inadequada...[n][w][e]
 
-[msg MSG_TOSISABA_003_2_0 [Signora di mezza età]]
+[msg MSG_TOSISABA_003_2_0 [Senhora de meia idade]]
 [s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]Você pode chutá-lo[n]o mais forte que puder. Com aqueles[n]saltos altos que você sempre usa...[n][w][e]
 
-[msg MSG_TOSISABA_003_3_0 [Donna dall'aspetto giovane]]
+[msg MSG_TOSISABA_003_3_0 [Mulher de aparência jovem]]
 [s][f 4 23 1 7 3 10 0 10][vp 8 2 1 0 7 0]Boa ideia! Felizmente, eu[n]comprei um novo par com[n]saltos pontiagudos para um encontro.[n][w][e]
 
-[msg MSG_TOSISABA_004_0_0 [Signora di mezza età]]
+[msg MSG_TOSISABA_004_0_0 [Senhora de meia idade]]
 [s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]Você conhece Madarame?[n]Ele não é charmoso?[n]Ele é meu tipo.[n][w][e]
 
-[msg MSG_TOSISABA_004_1_0 [Donna dall'aspetto giovane]]
+[msg MSG_TOSISABA_004_1_0 [Mulher de aparência jovem]]
 [s][f 4 23 1 7 3 10 0 10][vp 8 2 1 0 7 0]Ah, eu vi no "Passion Empire".[n]É aquele famoso[n]artista japonês, né?[n][w][e]
 [s][f 4 23 1 7 3 10 0 10][vp 8 2 1 0 7 0]Mas eu gosto de[n]homens mais jovens, haha.[n][w][e]
 
-[msg MSG_TOSISABA_004_2_0 [Signora di mezza età]]
+[msg MSG_TOSISABA_004_2_0 [Senhora de meia idade]]
 [s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]Você está sendo fanático?[n]Deve ser bom ter[n]um namorado jovem.[n][w][e]
 
-[msg MSG_TOSISABA_005_0_0 [Donna dall'aspetto giovane]]
+[msg MSG_TOSISABA_005_0_0 [Mulher de aparência jovem]]
 [s][f 4 23 1 7 3 10 0 10][vp 8 2 1 0 7 0]Você viu a coletiva de imprensa de Madarame?[n]Trabalhos roubados,[n]enganos... Que coisa ruim.[n][w][e]
 
-[msg MSG_TOSISABA_005_1_0 [Signora di mezza età]]
+[msg MSG_TOSISABA_005_1_0 [Senhora de meia idade]]
 [s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]Você ouviu que ele aparentemente[n]cercado por um[n]círculo de jovens?[n][w][e]
 
-[msg MSG_TOSISABA_005_2_0 [Donna dall'aspetto giovane]]
+[msg MSG_TOSISABA_005_2_0 [Mulher de aparência jovem]]
 [s][f 4 23 1 7 3 10 0 10][vp 8 2 1 0 7 0]Oh Deus, eu imagino![n]E com todos aqueles caras,[n]deve ter havido alguns legais.[n][w][e]
 [s][f 4 23 1 7 3 10 0 10][vp 8 2 1 0 7 0]Um menino frágil e bonito...[n]tenho certeza![n][w][e]
 
-[msg MSG_TOSISABA_006_0_0 [Signora di mezza età]]
+[msg MSG_TOSISABA_006_0_0 [Senhora de meia idade]]
 [s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]Akechi-kun disse na TV[n]que os Phantom Thieves[n]são perigosos, certo?[n][w][e]
 
-[msg MSG_TOSISABA_006_1_0 [Donna dall'aspetto giovane]]
+[msg MSG_TOSISABA_006_1_0 [Mulher de aparência jovem]]
 [s][f 4 23 1 7 3 10 0 10][vp 8 2 1 0 7 0]Sim, Akechi-kun![n]O jeito que ele olha[n]para o lado é muito sexy...[n][w][e]
 [s][f 4 23 1 7 3 10 0 10][vp 8 2 1 0 7 0]Eu também amo como você passa as mãos pelo[n]cabelo...[n][w][e]
 
-[msg MSG_TOSISABA_006_2_0 [Signora di mezza età]]
+[msg MSG_TOSISABA_006_2_0 [Senhora de meia idade]]
 [s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]Você ouviu o que eu disse?[n]Você realmente gosta deles mais jovens...[n][w][e]
 
-[msg MSG_TOSISABA_007_0_0 [Signora di mezza età]]
+[msg MSG_TOSISABA_007_0_0 [Senhora de meia idade]]
 [s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]Meu marido não voltou para casa recentemente.[n][w][e]
 [s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]Ele fala sobre o Egito e não sei mais o que.[n]Você está realmente trabalhando[n]com países estrangeiros?[n][w][e]
 
-[msg MSG_TOSISABA_007_1_0 [Donna dall'aspetto giovane]]
+[msg MSG_TOSISABA_007_1_0 [Mulher de aparência jovem]]
 [s][f 4 23 1 7 3 10 0 10][vp 8 2 1 0 7 0]É por causa do Medjed?[n]Aquela coisa da internet, né?[n][w][e]
 
-[msg MSG_TOSISABA_007_2_0 [Signora di mezza età]]
+[msg MSG_TOSISABA_007_2_0 [Senhora de meia idade]]
 [s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]Certo, exatamente![n][w][e]
 [s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]Ele ficou bravo porque não pode mais levar o[n]computador para casa e tem que ficar no trabalho.[n][w][e]
 
-[msg MSG_TOSISABA_008_1_0 [Signora di mezza età]]
+[msg MSG_TOSISABA_008_1_0 [Senhora de meia idade]]
 [s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]Medjed pode hackear qualquer[n]dispositivo. É assustador.[n][w][e]
 
-[msg MSG_TOSISABA_008_2_0 [Donna dall'aspetto giovane]]
+[msg MSG_TOSISABA_008_2_0 [Mulher de aparência jovem]]
 [s][f 4 23 1 7 3 10 0 10][vp 8 2 1 0 7 0]Eles dizem que nada na internet[n]pode detê-los.[n]Isso é impressionante.[n][w][e]
 [s][f 4 23 1 7 3 10 0 10][vp 8 2 1 0 7 0]Talvez eu me junte a eles e pegue o número de[n]Akechi-kun.[n][w][e]
 
-[msg MSG_TOSISABA_008_3_0 [Signora di mezza età]]
+[msg MSG_TOSISABA_008_3_0 [Senhora de meia idade]]
 [s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]Mas vai...[n][w][e]
 
-[msg MSG_TOSISABA_009_0_0 [Donna dall'aspetto giovane]]
+[msg MSG_TOSISABA_009_0_0 [Mulher de aparência jovem]]
 [s][f 4 23 1 7 3 10 0 10][vp 8 2 1 0 7 0]Não consigo me afastar das[n]notícias. Eu também os gravo.[n][w][e]
 
-[msg MSG_TOSISABA_009_1_0 [Signora di mezza età]]
+[msg MSG_TOSISABA_009_1_0 [Senhora de meia idade]]
 [s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]Não é como você. É por isso que[n]está acontecendo entre[n]os Phantom Thieves e Medjed?[n][w][e]
 
-[msg MSG_TOSISABA_009_2_0 [Donna dall'aspetto giovane]]
+[msg MSG_TOSISABA_009_2_0 [Mulher de aparência jovem]]
 [s][f 4 23 1 7 3 10 0 10][vp 8 2 1 0 7 0]Sim! Eu quero que[n]algo aconteça![n][w][e]
 [s][vp 8 2 1 0 7 0]Então Akechi-kun irá à TV[n]comentar! Ele é tão[n]charmoso quando fala![n][w][e]
 
-[msg MSG_TOSISABA_010_0_0 [Signora di mezza età]]
+[msg MSG_TOSISABA_010_0_0 [Senhora de meia idade]]
 [s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]Os Phantom Thieves são incríveis![n]Ouvi dizer que eles[n]derrotaram Medjed![n][w][e]
 
-[msg MSG_TOSISABA_010_1_0 [Donna dall'aspetto giovane]]
+[msg MSG_TOSISABA_010_1_0 [Mulher de aparência jovem]]
 [s][f 4 23 1 7 3 10 0 10][vp 8 2 1 0 7 0]Resumidamente. Se os Phantom Thieves[n]não tivessem feito isso, eu não teria[n]uma briga com meu namorado.[n][w][e]
 
-[msg MSG_TOSISABA_010_2_0 [Signora di mezza età]]
+[msg MSG_TOSISABA_010_2_0 [Senhora de meia idade]]
 [s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]Você não disse algo[n]como "Pobre Akechi-kun"[n]na frente dele?[n][w][e]
 [s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]Isso mesmo, não é?[n][w][e]
 
-[msg MSG_TOSISABA_011_0_0 [Donna dall'aspetto giovane]]
+[msg MSG_TOSISABA_011_0_0 [Mulher de aparência jovem]]
 [s][f 4 23 1 7 3 10 0 10][vp 8 2 1 0 7 0]Mais cedo ou mais tarde tudo vem à tona, mesmo[n]que você tente esconder...[n][w][e]
 [s][f 4 23 1 7 3 10 0 10][vp 8 2 1 0 7 0]Percebi isso[n]pensando na coisa da Okumura Foods[n]...[n][w][e]
 
-[msg MSG_TOSISABA_011_1_0 [Signora di mezza età]]
+[msg MSG_TOSISABA_011_1_0 [Senhora de meia idade]]
 [s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]Não acho que seja uma boa comparação.[n]Enfim, quantos anos você contou[n]ao seu namorado que você tem?[n][w][e]
 
-[msg MSG_TOSISABA_011_2_0 [Donna dall'aspetto giovane]]
+[msg MSG_TOSISABA_011_2_0 [Mulher de aparência jovem]]
 [s][f 4 23 1 7 3 10 0 10][vp 8 2 1 0 7 0]Eu disse a ele que era[n]15 anos mais jovem[n]do que realmente sou.[n][w][e]
 
-[msg MSG_TOSISABA_012_0_0 [Donna dall'aspetto giovane]]
+[msg MSG_TOSISABA_012_0_0 [Mulher de aparência jovem]]
 [s][f 4 23 1 7 3 10 0 10][vp 8 2 1 0 7 0]Eu descobri que meu namorado[n]está me traindo![n][w][e]
 
-[msg MSG_TOSISABA_012_1_0 [Signora di mezza età]]
+[msg MSG_TOSISABA_012_1_0 [Senhora de meia idade]]
 [s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]Bem, você também mentiu para ele sobre sua idade.[n]Você realmente acha que pode reclamar?[n][w][e]
 
-[msg MSG_TOSISABA_012_2_0 [Donna dall'aspetto giovane]]
+[msg MSG_TOSISABA_012_2_0 [Mulher de aparência jovem]]
 [s][f 4 23 1 7 3 10 0 10][vp 8 2 1 0 7 0]É uma coisa diferente. No entanto,[n]pedi aos Phantom Thieves[n]para despertar seu coração.[n][w][e]
 
-[msg MSG_TOSISABA_012_3_0 [Signora di mezza età]]
+[msg MSG_TOSISABA_012_3_0 [Senhora de meia idade]]
 [s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]Uau. Talvez seja você[n]quem precisa.[n][w][e]
 
-[msg MSG_TOSISABA_013_0_0 [Signora di mezza età]]
+[msg MSG_TOSISABA_013_0_0 [Senhora de meia idade]]
 [s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]Assisti à coletiva de imprensa ao vivo. Esses[n]olhos vazios vão assombrar meus sonhos.[n][w][e]
 
-[msg MSG_TOSISABA_013_1_0 [Donna dall'aspetto giovane]]
+[msg MSG_TOSISABA_013_1_0 [Mulher de aparência jovem]]
 [s][f 4 23 1 7 3 10 0 10][vp 8 2 1 0 7 0]Depois de mentir para todos[n]nesse mundo, ele mereceu.[n]Quem sabe se isso vai acontecer comigo também...[n][w][e]
 
-[msg MSG_TOSISABA_013_2_0 [Signora di mezza età]]
+[msg MSG_TOSISABA_013_2_0 [Senhora de meia idade]]
 [s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]Mentir sobre sua idade não é tão ruim assim. Peça[n]desculpas e tudo ficará bem.[n][w][e]
 [s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]Pobre camarada. Eles foram longe demais para[n]matá-lo.[n][w][e]
 
-[msg MSG_TOSISABA_014_1_0 [Donna dall'aspetto giovane]]
+[msg MSG_TOSISABA_014_1_0 [Mulher de aparência jovem]]
 [s][f 4 23 1 7 3 10 0 10][vp 8 2 1 0 7 0]Eu me pergunto se Akechi-kun iria me investigar[n]se eu enlouquecesse...[n][w][e]
 
-[msg MSG_TOSISABA_014_2_0 [Signora di mezza età]]
+[msg MSG_TOSISABA_014_2_0 [Senhora de meia idade]]
 [s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]O que você está dizendo?[n]algo aconteceu com seu namorado?[n][w][e]
 
-[msg MSG_TOSISABA_014_3_0 [Donna dall'aspetto giovane]]
+[msg MSG_TOSISABA_014_3_0 [Mulher de aparência jovem]]
 [s][f 4 23 1 7 3 10 0 10][vp 8 2 1 0 7 0]Eu disse a ele minha verdadeira idade[n]e me desculpei. E ele[n]disse "Impossível"...[n][w][e]
 [s][f 4 23 1 7 3 10 0 10][vp 8 2 1 0 7 0]Eu terminei com ele![n]Não vale a pena[n]para ser honesto![n][w][e]
 
-[msg MSG_TOSISABA_015_0_0 [Donna dall'aspetto giovane]]
+[msg MSG_TOSISABA_015_0_0 [Mulher de aparência jovem]]
 [s][f 4 23 1 7 3 10 0 10][vp 8 2 1 0 7 0]Não vou mais perder tempo[n]com os meninos.[n][w][e]
 [s][f 4 23 1 7 3 10 0 10][vp 8 2 1 0 7 0]Eu deveria entrar na política.[n]Nós, mulheres, precisamos desempenhar[n]papéis mais ativos na sociedade![n][w][e]
 
-[msg MSG_TOSISABA_015_1_0 [Signora di mezza età]]
+[msg MSG_TOSISABA_015_1_0 [Senhora de meia idade]]
 [s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]O-o que você está dizendo? Você teve um despertar[n]do coração?[n][w][e]
 
-[msg MSG_TOSISABA_015_2_0 [Donna dall'aspetto giovane]]
+[msg MSG_TOSISABA_015_2_0 [Mulher de aparência jovem]]
 [s][f 4 23 1 7 3 10 0 10][vp 8 2 1 0 7 0]Serei voluntário no cartório eleitoral. Aposto[n]que está cheio de homens bonitos e cheios de[n]energia![n][w][e]
 
-[msg MSG_TOSISABA_015_3_0 [Signora di mezza età]]
+[msg MSG_TOSISABA_015_3_0 [Senhora de meia idade]]
 [s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]Você nunca aprende...[n][w][e]
 
-[msg MSG_TOSISABA_016_0_0 [Donna dall'aspetto giovane]]
+[msg MSG_TOSISABA_016_0_0 [Mulher de aparência jovem]]
 [s][f 4 23 1 7 3 10 0 10][vp 8 2 1 0 7 0]Suicídio é demais... Ele era apenas um menino.[n]Deve ter sido devastador para seus pais...[n][w][e]
 
-[msg MSG_TOSISABA_016_1_0 [Signora di mezza età]]
+[msg MSG_TOSISABA_016_1_0 [Senhora de meia idade]]
 [s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]É o seu instinto maternal?[n]Sua filha vai[n]para o ensino médio também, certo?[n][w][e]
 
-[msg MSG_TOSISABA_016_2_0 [Donna dall'aspetto giovane]]
+[msg MSG_TOSISABA_016_2_0 [Mulher de aparência jovem]]
 [s][f 4 23 1 7 3 10 0 10][vp 8 2 1 0 7 0]Na Academia Shujin. Ando agitado[n]desde que ouvi dizer que os Phantom Thieves[n]vão lá também.[n][w][e]
 [s][f 4 23 1 7 3 10 0 10][vp 8 2 1 0 7 0]A prisão de seu líder me tranquilizou[n]mas isso[n]é um verdadeiro choque...[n][w][e]
 
-[msg MSG_TOSISABA_017_0_0 [Donna dall'aspetto giovane]]
+[msg MSG_TOSISABA_017_0_0 [Mulher de aparência jovem]]
 [s][f 4 23 1 7 3 10 0 10][vp 8 2 1 0 7 0]Talvez seja só eu, mas...[n][w][e]
 [s][vp 8 2 1 0 7 0]Você não acha que Masayoshi[n]Shido e Akechi-kun[n]são um pouco parecidos?[n][w][e]
 
-[msg MSG_TOSISABA_017_1_0 [Signora di mezza età]]
+[msg MSG_TOSISABA_017_1_0 [Senhora de meia idade]]
 [s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]Você diz? Eu não acho.[n][w][e]
 [s][vp 8 2 1 0 8 0]Além disso, você era um grande fã de Akechi. Você[n]já esqueceu como ele é?[n][w][e]
 
-[msg MSG_TOSISABA_017_2_0 [Donna dall'aspetto giovane]]
+[msg MSG_TOSISABA_017_2_0 [Mulher de aparência jovem]]
 [s][f 4 23 1 7 3 10 0 10][vp 8 2 1 0 7 0]Não sei, ocorreu-me[n]quando vi um pôster de[n]Shido. eu terei imaginado.[n][w][e]
 
-[msg MSG_TOSISABA_018_0_0 [Signora di mezza età]]
+[msg MSG_TOSISABA_018_0_0 [Senhora de meia idade]]
 [s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]Deve ser horrível ganhar[n]eleições só para ficar[n]doecer e sofrer assim.[n][w][e]
 
-[msg MSG_TOSISABA_018_1_0 [Donna dall'aspetto giovane]]
+[msg MSG_TOSISABA_018_1_0 [Mulher de aparência jovem]]
 [s][f 4 23 1 7 3 10 0 10][vp 8 2 1 0 7 0]Meu coração também dói...[n][w][e]
 
-[msg MSG_TOSISABA_018_2_0 [Signora di mezza età]]
+[msg MSG_TOSISABA_018_2_0 [Senhora de meia idade]]
 [s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]O que?!? Você ficou doente?[n][w][e]
 
-[msg MSG_TOSISABA_018_3_0 [Donna dall'aspetto giovane]]
+[msg MSG_TOSISABA_018_3_0 [Mulher de aparência jovem]]
 [s][f 4 23 1 7 3 10 0 10][vp 8 2 1 0 7 0]É quase Natal e eu não tenho namorado...[n][w][e]
 
-[msg MSG_TOSISABA_018_4_0 [Signora di mezza età]]
+[msg MSG_TOSISABA_018_4_0 [Senhora de meia idade]]
 [s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]Mas vai...[n][w][e]
 
-[msg MSG_TOSISABA_019_0_0 [Signora di mezza età]]
+[msg MSG_TOSISABA_019_0_0 [Senhora de meia idade]]
 [s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]Ei... Você parece mais jovem![n]Sua pele é super macia...[n][w][e]
 [s][vp 8 2 1 0 8 0]O que é que você fez...? Um cuidado de pele?[n]Uma loção?[n][w][e]
 
-[msg MSG_TOSISABA_019_1_0 [Donna dall'aspetto giovane]]
+[msg MSG_TOSISABA_019_1_0 [Mulher de aparência jovem]]
 [s][f 4 23 1 7 3 10 0 10][vp 8 2 1 0 7 0]Eu não fiz nada... A única[n]notícia é que estou com um cara.[n][w][e]
 [s][vp 8 2 1 0 7 0]Ele é jovem e lindo![n]Somos sempre pombinhos![n][w][e]
 
-[msg MSG_TOSISABA_019_2_0 [Signora di mezza età]]
+[msg MSG_TOSISABA_019_2_0 [Senhora de meia idade]]
 [s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]Urgh, aposto que você[n]mentiu para ele sobre sua idade.[n]Quantos anos ele tem?[n][w][e]
 
-[msg MSG_TOSISABA_019_3_0 [Donna dall'aspetto giovane]]
+[msg MSG_TOSISABA_019_3_0 [Mulher de aparência jovem]]
 [s][f 4 23 1 7 3 10 0 10][vp 8 2 1 0 7 0]A mesma idade da minha filha![n]Eles não devem ser jogados fora![n][w][e]
 
-[msg MSG_TOSISABA_019_4_0 [Signora di mezza età]]
+[msg MSG_TOSISABA_019_4_0 [Senhora de meia idade]]
 [s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]D-você está falando sério?[n]Isso não é um problema?[n][w][e]
 
-[msg MSG_TOSISABA_020_0_0 [Donna dall'aspetto giovane]]
+[msg MSG_TOSISABA_020_0_0 [Mulher de aparência jovem]]
 [s][f 4 23 1 7 3 10 0 10][vp 8 2 1 0 7 0]Eu me pergunto como Akechi-kun está.[n]Eu não o vejo na TV há um tempo.[n][w][e]
 
-[msg MSG_TOSISABA_020_1_0 [Signora di mezza età]]
+[msg MSG_TOSISABA_020_1_0 [Senhora de meia idade]]
 [s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]Você ainda está procurando por isso?[n][w][e]
 
-[msg MSG_TOSISABA_020_2_0 [Donna dall'aspetto giovane]]
+[msg MSG_TOSISABA_020_2_0 [Mulher de aparência jovem]]
 [s][f 4 23 1 7 3 10 0 10][vp 8 2 1 0 7 0]Akechi-kun é um ídolo. Eu já[n]esqueci aquele bando de ladrões.[n][w][e]
 [s][vp 8 2 1 0 7 0]Quero dizer, toda essa história[n]era falsa, certo?[n][w][e]
 
-[msg MSG_TOSISABA_020_3_0 [Signora di mezza età]]
+[msg MSG_TOSISABA_020_3_0 [Senhora de meia idade]]
 [s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]...Nesse ritmo, você se apaixonará por um[n]personagem bidimensional.[n][w][e]
 
-[msg MSG_TOSISABA_021_0_0 [Donna dall'aspetto giovane]]
+[msg MSG_TOSISABA_021_0_0 [Mulher de aparência jovem]]
 [s][f 4 23 1 7 3 10 0 10][vp 8 2 1 0 7 0]Então, lembra do garotinho[n]de quem te falei há algum tempo?[n]Estou pensando em deixá-lo.[n][w][e]
 
-[msg MSG_TOSISABA_021_1_0 [Signora di mezza età]]
+[msg MSG_TOSISABA_021_1_0 [Senhora de meia idade]]
 [s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]Você não? Beleza e juventude não são a única[n]coisa que importa em um parceiro.[n][w][e]
 [s][vp 8 2 1 0 8 0]Você deve passar por uma mudança de coração e[n]dedicar seu tempo para[n]procurar a felicidade.[n][w][e]
 
-[msg MSG_TOSISABA_021_2_0 [Donna dall'aspetto giovane]]
+[msg MSG_TOSISABA_021_2_0 [Mulher de aparência jovem]]
 [s][f 4 23 1 7 3 10 0 10][vp 8 2 1 0 7 0]Não, não tem.[n][w][e]
 [s][vp 8 2 1 0 7 0]Eu encontrei um homem muito[n]melhor! Ele é idêntico ao Akechi-kun![n][w][e]
 [s][vp 8 2 1 0 7 0]Decidi deixar o passado para trás, para olhar[n]para o futuro![n][w][e]
 
-[msg MSG_TOSISABA_022_0_0 [Donna dall'aspetto giovane]]
+[msg MSG_TOSISABA_022_0_0 [Mulher de aparência jovem]]
 [s][f 4 23 1 7 3 10 0 10][vp 8 2 1 0 7 0]Eeeh... ano que vem minha filha[n]atingirá a maioridade.[n][w][e]
 
-[msg MSG_TOSISABA_022_1_0 [Signora di mezza età]]
+[msg MSG_TOSISABA_022_1_0 [Senhora de meia idade]]
 [s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]Ninguém quer envelhecer, mas não acho que isso[n]seja uma coisa ruim.[n][w][e]
 [s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]São os jovens que têm que[n]agir e mudar o[n]mundo, certo?[n][w][e]
 [s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]Agora posso relaxar e[n]assistir.[n][w][e]
 
-[msg MSG_TOSISABA_022_2_0 [Donna dall'aspetto giovane]]
+[msg MSG_TOSISABA_022_2_0 [Mulher de aparência jovem]]
 [s][f 4 23 1 7 3 10 0 10][vp 8 2 1 0 7 0]Eu nunca conseguiria.[n]Eu quero ser uma garota[n]sempre ativa, sabe?[n][w][e]
 
 [msg MSG_AKECHI_000_00 [Akechi]]
@@ -1250,10 +1250,10 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 8038 65535 0]Os Ladrões Fantasmas[n]visitaram a exposição de Madarame[n]antes de cometer o crime?[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Qual é o objetivo deles? Quem[n]será o próximo alvo?[n][w][e]
 
-[msg MSG_AKECHI_004_00 [Pedone]]
+[msg MSG_AKECHI_004_00 [Pedestre]]
 [s][vp 1 0 0 0 0 0]Ei, não é Akechi-kun?!?[n][w][e]
 
-[msg MSG_AKECHI_005_00 [Donna entusiasta]]
+[msg MSG_AKECHI_005_00 [Mulher entusiasmada]]
 [s][vp 1 0 0 0 0 0]Aaaah! Sim, é ele! Vou pedir para ele[n]tirar uma foto nossa juntos![n][w][e]
 
 [msg MSG_AKECHI_006_00 [Akechi]]
@@ -1285,17 +1285,17 @@
 [s][f 4 23 1 65535 3 10 0 0][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 54406 65535 0]Aliás, acho que em breve[n]algo relevante[n]relacionado aos Phantom Thieves vai acontecer.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Dadas as informações em minha[n]posse, é apenas um palpite, mas...[n][w][e]
 
-[msg MSG_AKECHI_010_00 [Pedone]]
+[msg MSG_AKECHI_010_00 [Pedestre]]
 [s][vp 1 0 0 0 0 0]Ei, não é Akechi-kun?!?[n][w][e]
 
-[msg MSG_AKECHI_011_00 [Donna entusiasta]]
+[msg MSG_AKECHI_011_00 [Mulher entusiasmada]]
 [s][vp 1 0 0 0 0 0]Aaaah! Sim, é ele! Vou pedir para ele[n]tirar uma foto nossa juntos![n][w][e]
 
 [msg MSG_AKECHI_012_00 [Akechi]]
 [s][f 4 23 1 65535 3 10 0 0][bup 0 9 4 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ah, minhas desculpas. Vou me atrasar[n]para filmar se ficar aqui[n]falando.[n][w][e]
 [s][bup 0 9 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 8053 65535 0]Até nos encontrarmos novamente. Espero ver você[n]por aí.[n][w][e]
 
-[msg MSG_OOYA_001_0_0 [Mulher com uma câmera]]
+[msg MSG_OOYA_001_0_0 [Mulher com um quarto]]
 [s][f 4 23 1 65535 3 10 0 10][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 16001 65535 0]Ei, já nos conhecemos.[n][w][e]
 [s][bup 0 107 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 16057 65535 0]Ohhh, você é aquele cara que estava[n]na frente da casa do Madarame.[n]Descobriu algo interessante?[n][w][e]
 
@@ -1303,13 +1303,13 @@
 [s]Eu diria que não.[e]
 [s]Eu não quero dizer a você.[e]
 
-[msg MSG_OOYA_003_0_0 [Mulher com uma câmera]]
+[msg MSG_OOYA_003_0_0 [Mulher com um quarto]]
 [s][f 4 23 1 65535 3 10 0 10][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu vejo. Bem, se você descobrir[n]alguma coisa interessante,[n]é só me dar um alô.[n][w][e]
 
-[msg MSG_OOYA_004_0_0 [Mulher com uma câmera]]
+[msg MSG_OOYA_004_0_0 [Mulher com um quarto]]
 [s][f 4 23 1 65535 3 10 0 10][bup 0 107 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Vamos, garoto, não tente blefar. Pelo que posso[n]dizer, você não tem absolutamente nada.[n][w][e]
 
-[msg MSG_OOYA_005_0_0 [Mulher com uma câmera]]
+[msg MSG_OOYA_005_0_0 [Mulher com um quarto]]
 [s][f 4 23 1 65535 3 10 0 10][bup 0 107 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu sigo o programa. Não que[n]me interesse, mas trabalhar para[n]outra pessoa funciona assim.[n][w][e]
 [s][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eh, mas por que estou dizendo a você,[n]então. Melhor voltar ao trabalho.[n][w][e]
 
@@ -1317,7 +1317,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 65535 1038 0 0]Ela é a mulher que vimos[n]na casa de Madarame.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Ela disse que era jornalista.[n]Ela deve estar escrevendo um artigo[n]sobre ele.[n][w][e]
 
-[msg MSG_OOYA_007_0_0 [Mulher com uma câmera]]
+[msg MSG_OOYA_007_0_0 [Mulher com um quarto]]
 [s][f 4 23 1 65535 3 10 0 10][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 16006 65535 0]Ah, vejo você de novo.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Tem tantos alunos aqui...[n]Me sinto um peixe fora d'água.[n][w][e]
 
@@ -1325,15 +1325,15 @@
 [s]Você está aqui a negócios?[e]
 [s]Você parece ocupado.[e]
 
-[msg MSG_OOYA_009_0_0 [Mulher com uma câmera]]
+[msg MSG_OOYA_009_0_0 [Mulher com um quarto]]
 [s][f 4 23 1 65535 3 10 0 10][bup 0 107 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu sigo o programa. Não que[n]me interesse, mas trabalhar para[n]outra pessoa funciona assim.[n][w][e]
 [s][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eh, mas por que estou dizendo a você,[n]então. Melhor voltar ao trabalho.[n][w][e]
 
-[msg MSG_OOYA_010_0_0 [Mulher com uma câmera]]
+[msg MSG_OOYA_010_0_0 [Mulher com um quarto]]
 [s][f 4 23 1 65535 8 10 0 10][bup 0 107 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 16108 65535 0]Todos aqueles casos de arrebatamento, depois os[n]hackers e agora os Phantom Thieves.[n]Eu nem tenho tempo para dormir.[n][w][e]
 [s][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Shibuya não é para mim.[n]Acho que vou levantar os calcanhares[n]e ir buscar uma bebida.[n][w][e]
 
-[msg MSG_OOYA_011_0_0 [Mulher com uma câmera]]
+[msg MSG_OOYA_011_0_0 [Mulher com um quarto]]
 [s][f 4 23 1 65535 3 10 0 10][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 16001 65535 0]Ei, já nos conhecemos.[n][w][e]
 [s][bup 0 107 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 16057 65535 0]Ohhh, você é aquele cara que estava[n]na frente da casa do Madarame.[n]Descobriu algo interessante?[n][w][e]
 
@@ -1341,13 +1341,13 @@
 [s]Eu diria que não.[e]
 [s]Eu não quero dizer a você.[e]
 
-[msg MSG_OOYA_013_0_0 [Mulher com uma câmera]]
+[msg MSG_OOYA_013_0_0 [Mulher com um quarto]]
 [s][f 4 23 1 65535 3 10 0 10][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu vejo. Bem, se você descobrir[n]alguma coisa interessante,[n]é só me dar um alô.[n][w][e]
 
-[msg MSG_OOYA_014_0_0 [Mulher com uma câmera]]
+[msg MSG_OOYA_014_0_0 [Mulher com um quarto]]
 [s][f 4 23 1 65535 3 10 0 10][bup 0 107 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Vamos, garoto, não tente blefar. Pelo que posso[n]dizer, você não tem absolutamente nada.[n][w][e]
 
-[msg MSG_OOYA_015_0_0 [Mulher com uma câmera]]
+[msg MSG_OOYA_015_0_0 [Mulher com um quarto]]
 [s][f 4 23 1 65535 3 10 0 10][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Estou aqui a trabalho.[n]Isto é, li algo[n]interessante na Internet.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Aparentemente, Madarame[n]recebeu uma "carta de aviso",[n]então vim ver.[n][w][e]
 [s][bup 0 107 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Tentei entrevistar alguém,[n]mas todos estão de boca fechada.[n]Talvez fosse uma pista falsa.[n][w][e]
@@ -1356,7 +1356,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 65535 1038 0 0]Ela é a mulher que vimos[n]na casa de Madarame.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Ela disse que era jornalista.[n]Ela deve estar escrevendo um artigo[n]sobre ele.[n][w][e]
 
-[msg MSG_OOYA_016_0_0 [Mulher com uma câmera]]
+[msg MSG_OOYA_016_0_0 [Mulher com um quarto]]
 [s][f 4 23 1 65535 3 10 0 10][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 16002 65535 0]Ei, é você. Enquanto estamos nisso,[n]envie-me uma declaração.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]O que você sabe sobre esta "carta[n]de desafio" enviada a Madarame?[n][w][e]
 
@@ -1364,18 +1364,18 @@
 [s]Possivelmente.[e]
 [s]Nada mesmo.[e]
 
-[msg MSG_OOYA_018_0_0 [Mulher com uma câmera]]
+[msg MSG_OOYA_018_0_0 [Mulher com um quarto]]
 [s][f 4 23 1 65535 3 10 0 10][bup 0 107 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ah, então você sabe.[n][w][e]
 [s][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu li sobre isso[n]na internet, então corri aqui[n]para conferir.[n][w][e]
 
-[msg MSG_OOYA_019_0_0 [Mulher com uma câmera]]
+[msg MSG_OOYA_019_0_0 [Mulher com um quarto]]
 [s][f 4 23 1 65535 8 10 0 10][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Oh. Bem, deve ter sido um comentário feito[n]aleatoriamente na Internet.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Era sobre uma "carta de aviso"[n]enviada para Madarame, então[n]eu corri para ver.[n][w][e]
 
-[msg MSG_OOYA_020_0_0 [Mulher com uma câmera]]
+[msg MSG_OOYA_020_0_0 [Mulher com um quarto]]
 [s][bup 0 107 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu também perguntei aos expositores[n]na exposição, mas ninguém fala.[n]Foi uma piada?[n][w][e]
 
-[msg MSG_OOYA_022_0_0 [Mulher com uma câmera]]
+[msg MSG_OOYA_022_0_0 [Mulher com um quarto]]
 [s][f 4 23 1 65535 8 10 0 10][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 16021 65535 0]Dado todo o caso "Sayuri",[n]não pode ser uma[n]simples coincidência.[n][w][e]
 
 [msg MSG_BIKOU01_001_0_0 [Makoto]]
@@ -2486,14 +2486,14 @@
 [msg MSG_GRT_main_Lim_401_08_ [Makoto]]
 [s][vp 9 2 65535 38602 0 0]Deve haver algo[n]divertido para fazer...[n][f 1 2 180][e]
 
-[msg MSG_BACKGROUND_EKIIN_001 [Funcionário da estação sério]]
+[msg MSG_BACKGROUND_EKIIN_001 [Oficial da estação serial]]
 [s][f 4 23 1 11 3 10 0 10][vp 8 2 1 0 11 0]A plataforma da linha Ginza[n]fica por aqui, além das catracas.[n][w][e]
 
-[msg MSG_EKIIN_852_000_00 [Funcionário da estação sério]]
+[msg MSG_EKIIN_852_000_00 [Oficial da estação serial]]
 [s][f 4 23 1 11 3 10 0 10][vp 8 2 1 0 11 0]Sim, como eu posso te ajudar?[n][w][e]
 [s][vp 8 2 1 0 11 0]A Linha Ginza?[n]É por aqui,[n]através das catracas.[n][w][e]
 
-[msg MSG_EKIIN_852_100_00 [Funcionário da estação sério]]
+[msg MSG_EKIIN_852_100_00 [Oficial da estação serial]]
 [s][f 4 23 1 11 3 10 0 10][vp 8 2 1 0 11 0]A linha Ginza está na plataforma 8.[n][w][e]
 
 [msg MSG_EIKO_001_0_0 [Eiko]]

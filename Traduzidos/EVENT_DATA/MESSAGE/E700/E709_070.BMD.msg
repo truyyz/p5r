@@ -41,7 +41,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Também verifiquei[n]com o Meta-Nav. Podemos curá-los.[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Futaba]]
-[s][bup 0 8 2 65535 0][f 4 10 65535 0 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 8 12 300 65535][vp 8 0 0 0 65535 0]Eu decidi, [f 4 2]...[n]quero ir ao Memento e[n]despertar o coração deles.[n][f 1 3 65535][w][e]
+[s][bup 0 8 2 65535 0][f 4 10 65535 0 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 8 12 300 65535][vp 8 0 0 0 65535 0]Eu decidi, [f 4 2]...[n]quero ir ao Mementos e[n]despertar o coração deles.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][f 4 24 0 4 0 38 5 100][vp 8 0 0 0 65535 0]Não podemos mais deixá-lo[n]tratar Kana-chan assim, certo?[n][f 1 3 65535][w][e]
 [s][f 4 7 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 8 12 300 1][f 4 23 0 4 14 10 13 10][f 4 24 0 4 0 41 5 100][vp 8 2 0 9189 65535 0]Ajude-me a salvá-la![n][f 1 3 65535][w][e]
 
@@ -57,7 +57,7 @@
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 9031 65535 0][f 5 13 10 10 8][f 4 2]...! Obrigado![n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Futaba]]
-[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 9199 65535 0][f 5 13 10 5 8]Está bem, está bem. Se queremos ir[n]Memento temos que nos preparar![n][f 1 3 65535][w][e]
+[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 9199 65535 0][f 5 13 10 5 8]Está bem, está bem. Se queremos ir[n]Mementos temos que nos preparar![n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Futaba]]
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ah, e já que você vai me ajudar,[n]eu vou retribuir o favor.[n]Mmm...[n][f 1 3 65535][w][e]

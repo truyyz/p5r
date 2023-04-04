@@ -89,7 +89,7 @@
 [s]Sim.[e]
 [s]Não.[e]
 
-[msg MSG_C10_PRE_FACILITY_02 [Veggente cordiale]]
+[msg MSG_C10_PRE_FACILITY_02 [Vidente amigável]]
 [s][bup 0 113 1 65535 0][f 4 10 65535 0 0][f 4 23 1 210 14 10 13 10][vp 8 2 1 10003 210 0]Olá! Por favor sente-se.[n][w][e]
 
 [msg MSG_C10_PRE_FACILITY_03 [Morgana]]
@@ -158,7 +158,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Mal posso esperar para saber[n]o resultado.[n][w][e]
 
 [msg MND_C10_QUESTNOW_00_01]
-[s]Eu deveria ir ao Memento e[n]acordar o coração daquele namorado[n]abusivo...[n][w][e]
+[s]Eu deveria ir ao Mementos e[n]acordar o coração daquele namorado[n]abusivo...[n][w][e]
 
 [msg MSG_C10_PRECOOP_10_00 [Chihaya]]
 [s][bup 0 113 0 65535 0][f 4 10 65535 0 0][f 4 23 1 210 14 10 13 10][vp 8 2 1 10056 65535 0]Então? O destino dele mudou?[n][w][e]
@@ -178,7 +178,7 @@
 [s][bup 0 113 0 65535 0][f 4 10 65535 0 0][f 4 23 1 210 14 10 13 10][vp 8 2 1 0 65535 0]O lote é absoluto.[n]Só pode ser alterado com[n]a ajuda de uma Pedra Sagrada.[n][w][e]
 
 [msg MSG_C10_BEGIN_QUEST_00 [Chihaya]]
-[s][bup 0 113 3 65535 0][f 4 10 65535 0 0][f 4 23 1 210 14 10 13 10][vp 8 2 1 10021 65535 0]O "Malandro" que vai me ajudar.[n]Quem sabe o que isso significa...[n][w][e]
+[s][bup 0 113 3 65535 0][f 4 10 65535 0 0][f 4 23 1 210 14 10 13 10][vp 8 2 1 10021 65535 0]O "Trapaceiro" que vai me ajudar.[n]Quem sabe o que isso significa...[n][w][e]
 
 [msg MSG_C10_BEGIN_QUEST_01 [Chihaya]]
 [s][bup 0 113 0 65535 0][f 4 10 65535 0 0][f 4 23 1 210 14 10 13 10][vp 8 2 1 10001 65535 0]Oh, [f 4 1]-san![n][w][e]
@@ -1013,7 +1013,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]No entanto, o resultado é…[n][w][e]
 
 [msg MSG_C10_ALERT_30_01 [Chihaya]]
-[s][bup 0 113 0 65535 0][f 4 10 65535 0 0][f 4 23 1 210 14 10 13 10][vp 8 2 1 0 65535 0]Hmm… a Força… e uma[n]luz vermelha…?[n][w][e]
+[s][bup 0 113 0 65535 0][f 4 10 65535 0 0][f 4 23 1 210 14 10 13 10][vp 8 2 1 0 65535 0]Hmm… a Força… e uma[n]Luz Vermelha…?[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Você pode se sentir inquieto hoje.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Mas isso pode ser um[n]convite para ousar[n]e aceitar um desafio.[n][w][e]
 

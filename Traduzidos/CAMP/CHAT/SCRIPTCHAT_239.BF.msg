@@ -9,7 +9,7 @@
 [sel SEL_001_0_0 top]
 [s][f 5 14]É um problema.[e]
 [s]Vamos ignorá-lo.[e]
-[s]Esses jovens malandros.[e]
+[s]Esses jovens Trapaceiros.[e]
 
 [msg MSG_002_0_0 [Mishima]]
 [s][f 5 14]Eu te disse![n][w][e]

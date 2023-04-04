@@ -4,16 +4,16 @@
 [msg D07_01_e407_024_mes02 [Ryuji]]
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Urgh, nos ataque no meio de[n]todas essas pessoas?!?[n][w][e]
 
-[msg D07_01_e407_025_mes01 [Ospite mascherato]]
+[msg D07_01_e407_025_mes01 [Convidado mascarado]]
 [s][vp 1 0 0 1 0 0]Ah, isso é algum tipo de show?[n]Sr. Shido sabe como[n]entreter convidados![n][w][e]
 
-[msg D07_01_e407_025_mes02 [Ospite mascherato]]
+[msg D07_01_e407_025_mes02 [Convidado mascarado]]
 [s][vp 1 0 0 2 0 0]Já! Os sortudos que estão[n]abordo deste navio[n]são todos vencedores![n][w][e]
 
-[msg D07_01_e407_025_mes03 [Ospite mascherato]]
+[msg D07_01_e407_025_mes03 [Convidado mascarado]]
 [s][vp 1 0 0 3 0 0]Ah ah ah ah ah ah![n][w][e]
 
-[msg D07_01_e407_025_mes04 [Ospite mascherato]]
+[msg D07_01_e407_025_mes04 [Convidado mascarado]]
 [s][vp 1 0 0 4 0 0]Hahahaha![n][w][e]
 
 [msg D07_01_e407_025_mes05 [Yusuke]]

@@ -5,7 +5,7 @@
 [s][bup 0 2 102 65535 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Você quer acabar com isso aqui e agora, né?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]Ótimo, facilita as coisas.[n]Vamos lá.[n][f 1 3 65535][w][e]
 
-[msg MSG_003_0_0 [Ombra di Sae]]
+[msg MSG_003_0_0 [Sombra de Sae]]
 [s][bup 0 105 102 0 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Não fale como se você fosse igual a mim.[n][f 1 3 65535][w][e]
 [s][bup 0 105 100 0 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Eu sou o gerente[n]deste cassino e[n]seu melhor jogador.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Você ainda não[n]qualificado para me desafiar.[n][f 1 3 65535][w][e]
@@ -16,7 +16,7 @@
 [msg MSG_005_0_0 [Akechi]]
 [s][bup 0 9 100 65535 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]E se ainda quisermos[n]lutar com você?[n][f 1 3 65535][w][e]
 
-[msg MSG_006_0_0 [Ombra di Sae]]
+[msg MSG_006_0_0 [Sombra de Sae]]
 [s][bup 0 105 100 0 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Para chegar ao topo, tive que[n]vencer de novo e de novo,[n]de novo e de novo.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Se você quiser me enfrentar, terá que[n]continuar vencendo também.[n][f 1 3 65535][w][e]
 
@@ -26,14 +26,14 @@
 [msg MSG_008_0_0 [Akechi]]
 [s][bup 0 9 100 65535 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Provavelmente se refere ao fato[n]de que este lugar é um cassino.[n][f 1 3 65535][w][e]
 
-[msg MSG_009_0_0 [Ombra di Sae]]
+[msg MSG_009_0_0 [Sombra de Sae]]
 [s][bup 0 105 100 0 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Exatamente.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Você tem autoconfiança suficiente[n]para vencer?[n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Makoto]]
 [s][bup 0 6 102 65535 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]Se você não tomar cuidado, podemos[n]acabar derrubando você.[n][f 1 3 65535][w][e]
 
-[msg MSG_017_0_0 [Ombra di Sae]]
+[msg MSG_017_0_0 [Sombra de Sae]]
 [s][bup 0 105 101 0 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Não espero tanto de você... mas vou.[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Morgana]]

@@ -31,7 +31,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0]Eu-eu acho que ele deve ter[n]feito algo para obter[n]novas informações...[n][w][e]
 [s]Vamos fingir que não ouvimos nada.[n][w][e]
 
-[msg MSG_DET_COOKIE [Studente dall'aria assonnata]]
+[msg MSG_DET_COOKIE [Estudante sonolento]]
 [s][f 4 23 1 802 3 10 0 10]Você quer informações sobre Kawakami?[n][w][e]
 [s]Ela sempre parece cansada.[n]Às vezes, ela quase adormece[n]ao falar ao telefone.[n][w][e]
 [s]Ah, e quase todo mundo conhece[n]esta história sobre ele, mas você[n]talvez ainda não a tenha ouvido...[n][w][e]
@@ -42,6 +42,6 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0]Ele come biscoitos e murmura[n]"Oh, biscoitos!" dormindo?[n][w][e]
 [s]Mas que tipo de pessoa ele é?[n][w][e]
 
-[msg MSG_DET_COOKIE_RE [Studente dall'aria assonnata]]
+[msg MSG_DET_COOKIE_RE [Estudante sonolento]]
 [s][f 4 23 1 802 3 10 0 10]Kawakami? Tudo o que sei é que[n]ele come biscoitos e resmunga[n]"Oh, biscoitos!" no sono.[n][w][e]
 

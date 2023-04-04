@@ -73,7 +73,7 @@
 [s][vp 8 0 0 0 65535 0]Senti toda a compaixão[n]que os alienígenas sentiram[n]pelos protagonistas...[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Graças a [clr 3]Filmmaking Soul[clr 27],[n]gostou do filme[n]com mais atenção...[n][f 1 3 65535][w][e]
 
-[msg MSG_MOVIE10_VOICE_1 [Protagonista]]
+[msg MSG_MOVIE10_VOICE_1 [Herói]]
 [s][vp 8 0 0 0 65535 0]た、助けてくれ![n]象が! 象が、こっちに![n][f 1 3 65535][w][e]
 [s][vp 1 0 0 0 0 0]うわぁぁぁぁぁーッ!![n][f 1 3 65535][w][e]
 
@@ -165,7 +165,7 @@
 [msg TEST_MONA2 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 47 65535 0]Você subiu na hierarquia, hein?[n][f 1 3 65535][w][e]
 
-[msg MSG_DEBUG [Debug]]
+[msg MSG_DEBUG [Depurando]]
 [s]Seleção de caracteres[n][f 1 3 65535][w][e]
 
 [sel SEL_DEBUG top]
@@ -173,7 +173,7 @@
 [s]Haru[e]
 [s]Morgana[e]
 
-[msg MSG_DEBUG_2 [Debug 2]]
+[msg MSG_DEBUG_2 [Depuração 2]]
 [s]Seleção de filme[n][f 1 3 65535][w][e]
 
 [sel SEL_DEBUG_2 top]

@@ -56,10 +56,10 @@
 [msg D157_005_DOOR_04_mes03 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1018 65535 0]Ei onde você está indo? Essa[n]não é a direção certa.[n][w][e]
 
-[msg D157_005_miniEV_05_mes01 [Guardia arrogante]]
+[msg D157_005_miniEV_05_mes01 [Guarda arrogante]]
 [s]Sim, aquele está disposto a gastar uma fortuna.[n]Vamos garantir que continue perdendo.[n][w][e]
 
-[msg D157_005_miniEV_05_mes02 [Guardia crudele]]
+[msg D157_005_miniEV_05_mes02 [Guarda cruel]]
 [s]E os convidados dos números 48 e 92...[n]É hora de eles também[n]começarem a perder muito.[n][w][e]
 
 [msg D157_005_miniEV_05_mes03 [Ryuji]]

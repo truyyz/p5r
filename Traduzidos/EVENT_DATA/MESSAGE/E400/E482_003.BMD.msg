@@ -65,7 +65,7 @@
 [s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]Oh sim! Eu estava prestes a[n]dar uma notícia incrível.[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Kasumi]]
-[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Não há nada a esconder, eu posso[n]foder o feijão agora.[n][f 1 3 65535][w][e]
+[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Não há nada a esconder, eu posso[n]revelar a verdade agora.[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Kasumi]]
 [s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Lembra daquela competição de verão[n]que te falei?[n][f 1 3 65535][w][e]

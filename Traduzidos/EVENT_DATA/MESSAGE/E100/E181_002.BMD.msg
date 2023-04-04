@@ -96,13 +96,13 @@
 [msg MSG_025_0_0 [Morgana]]
 [s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 0 0 30 65535 0]E-Eu também... Por favor...[n]Leve-me gentilmente...[n][f 1 3 65535][w][e]
 
-[msg MSG_026_0_0 [Donna elegante]]
+[msg MSG_026_0_0 [Mulher elegante]]
 [s][vp 8 0 0 31 30 0]Oh Deus, olhe para aquela mesa...[n][f 1 3 65535][w][e]
 
-[msg MSG_027_0_0 [Uomo facoltoso]]
+[msg MSG_027_0_0 [Homem rico]]
 [s][vp 8 0 0 32 9 0]Não olhe fixamente para eles. É evidente que[n]eles não costumam degustar[n]certas iguarias.[n][f 1 3 65535][w][e]
 
-[msg MSG_028_0_0 [Donna elegante]]
+[msg MSG_028_0_0 [Mulher elegante]]
 [s][vp 8 0 0 33 30 0]Não ouso imaginar que raça[n]de pais eles devem ter.[n][f 1 3 65535][w][e]
 
 [msg MSG_030_0_0 [Ryuji]]

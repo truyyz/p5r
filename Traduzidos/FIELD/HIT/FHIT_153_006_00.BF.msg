@@ -25,7 +25,7 @@
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]O verdadeiro problema é o fato[n]de que temos que lidar com isso[n]nós dois sozinhos...[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vou deixar você decidir o momento, cara.[n][w][e]
 
-[msg mini_EV_e205_112_mes01 [Voce di addetto alla security]]
+[msg mini_EV_e205_112_mes01 [Voz do oficial de segurança]]
 [s]Ei! Quem está aí?!?[n][w][e]
 
 [msg mini_EV_e205_112_mes02 [Ryuji]]
@@ -44,23 +44,23 @@
 [msg mini_EV_e210_143_mes02 [Ryuji]]
 [s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]E ir! Vamos desligar[n]essas coisas imediatamente![n][w][e]
 
-[msg mini_EV_e210_144_mes01 [Guardia Ombra all'inseguimento]]
+[msg mini_EV_e210_144_mes01 [Guarda das Sombras em perseguição]]
 [s]Parece que os invasores passaram pelo jardim[n]central...[n][w][e]
 
-[msg mini_EV_e210_144_mes02 [Guardia Ombra al comando]]
+[msg mini_EV_e210_144_mes02 [Guarda das Sombras no comando]]
 [s]Eu sei isso. Anteriormente, recebi ordem para[n]alterar a senha aqui também...[n][w][e]
 
-[msg mini_EV_e210_144_mes03 [Guardia Ombra all'inseguimento]]
+[msg mini_EV_e210_144_mes03 [Guarda das Sombras em perseguição]]
 [s]Gosta? Deve ser difícil, eu acho.[n][w][e]
 
-[msg mini_EV_e210_144_mes04 [Guardia Ombra al comando]]
+[msg mini_EV_e210_144_mes04 [Guarda das Sombras no comando]]
 [s]Bem, não consegui encontrar um bom...[n][w][e]
 [s]Por enquanto, escolhi o número[n]dos pés de Lord Madarame.[n][w][e]
 
-[msg mini_EV_e210_144_mes05 [Guardia Ombra all'inseguimento]]
+[msg mini_EV_e210_144_mes05 [Guarda das Sombras em perseguição]]
 [s]Os pés de Lord Madarame?[n]Do que você está falando?[n][w][e]
 
-[msg mini_EV_e210_144_mes06 [Guardia Ombra al comando]]
+[msg mini_EV_e210_144_mes06 [Guarda das Sombras no comando]]
 [s]Vamos voltar ao trabalho. Intrusos[n]podem estar por perto.[n][w][e]
 
 [msg mini_EV_e210_144_mes07 [Ryuji]]
@@ -78,7 +78,7 @@
 [msg mini_EV_e210_144_mes11 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Pés de Madarame... O que[n]significa?[n][w][e]
 
-[msg D153_006_miniEV_01_mes01 [Voce di Madarame]]
+[msg D153_006_miniEV_01_mes01 [Voz do Madarame]]
 [s][vp 8 1 65535 35 0 0]Como você ousa invadir meu plácido[n]jardim de bambu com esses[n]pés imundos! Você não vai sair vivo![n][w][e]
 
 [msg D153_006_miniEV_01_mes02 [Ryuji]]

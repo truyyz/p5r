@@ -5,13 +5,13 @@
 [msg MSG_000_000_00]
 [s]Fictício[n][w][e]
 
-[msg MSG_012_0_0 [Promoter del bar]]
+[msg MSG_012_0_0 [Promotor de bar]]
 [s][f 4 23 1 851 3 10 0 0][vp 8 2 1 0 851 0]Venha para o nosso izakaya! Aqui,[n]all-you-can-drinks a[n]preços de barganha![n][w][e]
 
 [msg MSG_E24430100_Charai_grt]
 [s]Venha para o nosso izakaya![n][f 1 2 65535][e]
 
-[msg MSG_021_0_0 [Venditore sospetto]]
+[msg MSG_021_0_0 [Vendedor suspeito]]
 [s][f 4 23 1 852 3 10 0 0][vp 8 2 1 0 852 0]Ei, você quer vir brincar?[n]As garotas mais bonitas estão conosco.[n][w][e]
 
 [msg MSG_E24430100_Ayasige_gr]
@@ -40,7 +40,7 @@
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Direita. Vou dizer aos outros[n]para nos encontrar em Shibuya.[n][w][e]
 [s][f 4 23 1 802 45 10 44 0][f 4 10 65535 0 0][vp 8 2 1 7162 65535 0]É uma loucura...[n]Que grande presa! Estou muito exaltado![n][w][e]
 
-[msg MSG_E244_501_006 [Voce profonda]]
+[msg MSG_E244_501_006 [Voz grave]]
 [s][vp 8 2 1 0 854 0]Uau, isso mesmo! Isso seria perfeito![n]Mas essa camisa, na[n]calça xadrez? Eca. Arranque meus olhos.[n][w][e]
 
 [msg MSG_E244_501_007 [Ryuji]]
@@ -52,10 +52,10 @@
 [msg MSG_E244_501_008_02 [???]]
 [s][f 4 23 1 854 3 10 0 0][vp 8 2 1 0 854 0]E eu sou Julian. Julie, se você[n]se sentir no clima![n][w][e]
 
-[msg MSG_E244_501_008_04 [Angelo]]
+[msg MSG_E244_501_008_04 [Anjo]]
 [s][f 4 23 1 65535 3 10 0 0][vp 8 2 1 0 65535 0]Olha essa cara! Você[n]nunca saberia que ele está na cena drag.[n]Vamos orientá-lo no básico![n][w][e]
 
-[msg MSG_E244_501_009 [Julian]]
+[msg MSG_E244_501_009 [Juliano]]
 [s][f 4 23 1 65535 3 10 0 0][vp 8 2 1 0 65535 0]Você não pode negar! Vimos você espiar dentro da[n]Encruzilhada! Bem, querida, se você está[n]curioso, vamos ajudá-lo a parecer DIVINO![n][w][e]
 
 [msg MSG_E244_501_010 [Ryuji]]
@@ -78,10 +78,10 @@
 [msg MSG_E244_501_014 [Ryuji]]
 [s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 2 1 7043 65535 0]Você vai me deixar aqui?[n]Vamos, seu melhor amigo[n]está em perigo![n][w][e]
 
-[msg MSG_E244_501_015 [Julian]]
+[msg MSG_E244_501_015 [Juliano]]
 [s][f 4 23 1 65535 3 10 0 0][vp 8 2 1 0 65535 0]Oh, querida, você é atrevida.[n]E essas maçãs do rosto... EU AMO ELAS! Você[n]tem o que é preciso para ser uma estrela![n][w][e]
 
-[msg MSG_E244_501_016 [Angelo]]
+[msg MSG_E244_501_016 [Anjo]]
 [s][f 4 23 1 65535 3 10 0 0][vp 8 2 1 0 65535 0]Siga meu exemplo, garanhão![n]Seu nome será lendário![n]E eu já sei como te vestir...![n][w][e]
 
 [msg MSG_E244_501_017 [Ryuji]]
@@ -103,7 +103,7 @@
 [msg MSG_E24450100_Ryuji_grt__2]
 [s][clr 28]A-Help[clr 27]...![n][f 1 2 65535][e]
 
-[msg MSG_TALK_URANAI [Veggente]]
+[msg MSG_TALK_URANAI [Vidente]]
 [s][f 4 23 1 856 14 10 13 0][bup 0 113 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 10135 65535 0]Tenha cuidado por favor...[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 54904 65535 0]Se você quiser que eu leia o seu futuro,[n]eu esperarei por você [clr 2]neste[n]ponto da noite[clr 27].[n][w][e]
 

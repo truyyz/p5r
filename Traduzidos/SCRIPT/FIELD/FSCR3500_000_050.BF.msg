@@ -50,7 +50,7 @@
 [s]Você vê? Indo para lugares diferentes[n]você pode ter novas experiências.[n][w][e]
 [s]Mas isso não acontece em todos os lugares.[n]Deve ser um lugar que[n]afie seus sentidos como ladrão.[n][w][e]
 
-[msg MSG_TUTORIAL_SPOT [Esplorare la città]]
+[msg MSG_TUTORIAL_SPOT [Explore a cidade]]
 [s]Você pode ir para a cidade[n][clr 2]durante o dia[clr 27] em [clr 2]dias livres[clr 27].[n][w][e]
 [s]Isso ajudará você a treinar e[n]expandir seu conhecimento.[n][w][e]
 [s]Ir com um amigo irá[n]fortalecer seu vínculo.[n]Tente ser ativo.[n][w][e]

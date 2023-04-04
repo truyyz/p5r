@@ -1,4 +1,4 @@
-[msg e382_300_01_mes01 [Coniglietta Ombra]]
+[msg e382_300_01_mes01 [Coelho das sombras]]
 [s]Bem-vindo. Esta área está[n]aberta apenas para clientes com um[n]cartão high stakes.[n][w][e]
 
 [msg e382_300_01_mes02 [Makoto]]

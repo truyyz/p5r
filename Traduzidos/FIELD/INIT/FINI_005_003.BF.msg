@@ -1,4 +1,4 @@
-[msg MSG_Jazzclub_Start_1st01 [Gestore del jazz club]]
+[msg MSG_Jazzclub_Start_1st01 [Gerente de clube de jazz]]
 [s][vp 8 2 1 58631 1 0]Hum? Ah é você. Você estava com[n]Akechi-kun da última vez.[n][w][e]
 [s][vp 8 2 1 0 1 0]Meu nome é [clr 2]Muhen[clr 27]... Sou o gerente[n]deste clube de jazz.[n]Os amigos de Akechi-kun são bem-vindos.[n][w][e]
 

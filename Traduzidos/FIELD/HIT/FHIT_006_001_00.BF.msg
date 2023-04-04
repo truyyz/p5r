@@ -112,26 +112,26 @@
 [msg MSG_SYSTEM_SHORTCUT_Shin]
 [s]Agora você pode viajar rapidamente[n][clr 6]para o cinema[clr 0] em Shinjuku.[n][w][e]
 
-[msg MSG_FURNITURE_START [Commesso dell'emporio]]
+[msg MSG_FURNITURE_START [Balconista de loja geral]]
 [s][f 4 23 1 24 3 5 65534 0][vp 8 2 1 0 24 0]Bem-vindo! Temos tantos[n]produtos diferentes, desde joias fofas[n]até mercadorias mais caras.[n][w][e]
 
-[msg MSG_FURNITURE_THANKS [Commesso dell'emporio]]
+[msg MSG_FURNITURE_THANKS [Balconista de loja geral]]
 [s][vp 8 2 1 0 24 0]Obrigado por sua compra.[n][w][e]
 
-[msg MSG_FURNITURE_NOTBUY [Commesso dell'emporio]]
+[msg MSG_FURNITURE_NOTBUY [Balconista de loja geral]]
 [s][vp 8 2 1 0 24 0]Volte logo![n][w][e]
 
 [msg MSG_FURNITURE_CLOSE_moru [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1168 65535 0]Uma loja geral? Imagino que haja[n]uma forte demanda por presentes e[n]trínsecos.[n][w][e]
 [s][f 4 10 65535 0 0]Está fechado agora, no entanto. Estaremos de[n]volta quando tudo estiver iluminado.[n][w][e]
 
-[msg MSG_FLOWER_START [Fiorista]]
+[msg MSG_FLOWER_START [Florista]]
 [s][f 4 23 1 25 3 5 65534 0][vp 8 2 1 0 25 0]Bem-vindo. Eheheh.[n]Você quer algumas flores para a[n]mulher da sua vida?[n][w][e]
 
-[msg MSG_FLOWER_THANKS [Fiorista]]
+[msg MSG_FLOWER_THANKS [Florista]]
 [s][vp 8 2 1 0 25 0]Muito obrigado.[n]É bom mimar sua mulher,[n]mas não gaste muito, ok?[n][w][e]
 
-[msg MSG_FLOWER_NOTBUY [Fiorista]]
+[msg MSG_FLOWER_NOTBUY [Florista]]
 [s][vp 8 2 1 0 25 0]Volte para me ver.[n][w][e]
 
 [msg MSG_FLOWER_CLOSE_moru [Morgana]]
@@ -170,13 +170,13 @@
 [msg MSG_DEADEND01_moru [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1020 65535 0]Não fique muito tempo,[n]OK? Caso contrário, você pode se perder.[n][w][e]
 
-[msg MSG_Book_Open [Commesso della libreria]]
+[msg MSG_Book_Open [Funcionário da biblioteca]]
 [s]Bem-vindo... Uau, você parece muito[n]jovem. Eu não posso te vender[n]livros adultos, ok?[n][w][e]
 
-[msg MSG_Book_NotBuy [Commesso della libreria]]
+[msg MSG_Book_NotBuy [Funcionário da biblioteca]]
 [s]Volte para nós quando[n]você mudar de idéia.[n][w][e]
 
-[msg MSG_Book_Buy [Commesso della libreria]]
+[msg MSG_Book_Buy [Funcionário da biblioteca]]
 [s]Obrigado! Volte novamente![n][w][e]
 
 [msg MSG_Book_NG [Morgana]]

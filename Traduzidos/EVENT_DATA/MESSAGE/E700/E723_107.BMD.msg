@@ -1,10 +1,10 @@
-[msg MSG_000_0_0 [Studentessa triste]]
+[msg MSG_000_0_0 [Colegial triste]]
 [s][vp 8 0 0 1 65535 0]Doutor Maruki vai embora...[n][f 1 3 65535][w][e]
 
-[msg MSG_001_0_0 [Studente dai capelli neri]]
+[msg MSG_001_0_0 [Estudante de cabelo preto]]
 [s][vp 8 0 0 2 65535 0]Já se passaram seis meses, né?[n]Parece que passaram voando.[n][f 1 3 65535][w][e]
 
-[msg MSG_002_0_0 [Vicepreside]]
+[msg MSG_002_0_0 [Vice-diretor]]
 [s][vp 8 0 0 3 9 0]...E para encerrar, gostaríamos que o[n]Dr. Maruki dissesse algumas[n]palavras aos alunos.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 4 9 0]Por favor, Doutor...[n][f 1 3 65535][w][e]
 

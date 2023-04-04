@@ -14,7 +14,7 @@
 [msg D157_006_miniEV_01_mes01 [Voz masculina]]
 [s]... Por favor, desculpem-me, senhores.[n][w][e]
 
-[msg D157_006_miniEV_01_mes02 [Cassiere Ombra]]
+[msg D157_006_miniEV_01_mes02 [Caixa sombra]]
 [s]Você ainda não[n]se registrou. Esse caminho por favor.[n][w][e]
 
 [msg D157_006_miniEV_01_mes03 [Akechi]]

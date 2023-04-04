@@ -23,7 +23,7 @@
 [s][bup 0 9 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Infelizmente, não nos vemos[n]há algum tempo.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Tivemos uma...[n]diferença de opinião.[n][f 1 3 65535][w][e]
 
-[msg MSG_008_0_0 [Presentatore TV]]
+[msg MSG_008_0_0 [Apresentador de TV]]
 [s][vp 8 0 0 10 65535 0]O que você acha,[n]Rep. Shido?[n][f 1 3 65535][w][e]
 
 [msg MSG_008_5_0 [Sojiro]]
@@ -39,7 +39,7 @@
 [s][bup 0 206 0 0 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]E como apenas figuras importantes foram visadas,[n]nossos políticos não quiseram agir.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Peço desculpas se isso[n]causou preocupação. A partir de agora[n]então responderemos apropriadamente.[n][f 1 3 65535][w][e]
 
-[msg MSG_010_0_0 [Cliente borioso]]
+[msg MSG_010_0_0 [Cliente arrogante]]
 [s][vp 8 0 0 14 65535 0]Eu gosto desse político.[n]Ele diz que agirá[n]imediatamente.[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Shido]]
@@ -47,7 +47,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Esses criminosos com a intenção de[n]"reformar a sociedade" são os[n]primeiros a merecer uma correção.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Meu primeiro dever como político[n]é responder rapidamente às necessidades[n]da população.[n][f 1 3 65535][w][e]
 
-[msg MSG_012_0_0 [Cliente borioso]]
+[msg MSG_012_0_0 [Cliente arrogante]]
 [s][vp 8 0 0 18 65535 0]Um homem verdadeiramente admirável.[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Shido]]
@@ -74,7 +74,7 @@
 [msg MSG_019_0_0 [Sojiro]]
 [s][bup 0 103 2 0 0][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Ficar aqui é o meu trabalho.[n][f 1 3 65535][w][e]
 
-[msg MSG_020_0_0 [Cliente borioso]]
+[msg MSG_020_0_0 [Cliente arrogante]]
 [s][vp 8 0 0 25 65535 0]Esse é um político honesto[n]com carisma de sobra.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 26 65535 0]Finalmente, o Japão[n]pode ter um líder[n]digno de confiança.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 27 65535 0]Você também não acha, patrão?[n][f 1 3 65535][w][e]

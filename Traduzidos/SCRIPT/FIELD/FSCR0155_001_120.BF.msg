@@ -28,7 +28,7 @@
 [msg D04_02_e296_402_mes02 [Makoto]]
 [s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]É Futaba?!?[n][w][e]
 
-[msg D04_02_e296_402_mes03 [Voce dell'Ombra di Futaba]]
+[msg D04_02_e296_402_mes03 [Voz da Sombra de Futaba]]
 [s]Eu não pensei que você[n]realmente pegaria a chave...[n][w][e]
 
 [msg D04_02_e296_402_mes04 [Yusuke]]
@@ -37,13 +37,13 @@
 [msg D04_02_e296_402_mes05 [Ann]]
 [s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]De qualquer forma, agora podemos pular o muro,[n]certo?[n][w][e]
 
-[msg D04_02_e296_402_mes06 [Voce dell'Ombra di Futaba]]
+[msg D04_02_e296_402_mes06 [Voz da Sombra de Futaba]]
 [s]Ainda não é o suficiente.[n][w][e]
 
 [msg D04_02_e296_402_mes07 [Ryuji]]
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Há mais alguma coisa a fazer!?![n][w][e]
 
-[msg D04_02_e296_402_mes08 [Voce dell'Ombra di Futaba]]
+[msg D04_02_e296_402_mes08 [Voz da Sombra de Futaba]]
 [s]A chave está com sede. Ele tem desejos.[n][w][e]
 
 [msg D04_02_e296_402_mes09 [Yusuke]]
@@ -52,7 +52,7 @@
 [msg D04_02_e296_402_mes10 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]O que ele poderia desejar,[n]um objeto?[n][w][e]
 
-[msg D04_02_e296_402_mes11 [Voce dell'Ombra di Futaba]]
+[msg D04_02_e296_402_mes11 [Voz da Sombra de Futaba]]
 [s]Cabe a você descobrir.[n][w][e]
 
 [msg D04_02_e296_402_mes12 [Makoto]]

@@ -18,7 +18,7 @@
 [s][bup 0 9 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 54418 65535 0]...A maneira inexpressiva[n]que você diz, parece quase sério.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vou pegar uma bebida, então, tudo bem?[n]Não tem refrigerante em particular[n]que você despreze, certo?[n][f 1 3 65535][w][e]
 
-[msg MSG_004_5_0 [Gestore del jazz club]]
+[msg MSG_004_5_0 [Gerente de clube de jazz]]
 [s][vp 8 0 0 0 17 0]Obrigado por aguardar.[n]Aqui está seu pedido.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 17 0]Hoje tem[n]apresentação especial, espero que gostem.[n][f 1 3 65535][w][e]
 

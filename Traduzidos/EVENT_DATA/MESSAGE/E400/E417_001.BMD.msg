@@ -24,7 +24,7 @@
 [msg MSG_005_0_0 [Detetive policial]]
 [s][vp 8 0 0 6 65535 0]Eai?!?[n][f 1 3 65535][w][e]
 
-[msg MSG_006_0_0 [Detective in erba]]
+[msg MSG_006_0_0 [Detetives iniciantes]]
 [s][vp 8 0 0 7 6 0]Os Phantom Thieves[n]atingiram você também...?[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Detetive policial]]
@@ -36,7 +36,7 @@
 [msg MSG_009_0_0 [Detetive policial]]
 [s][vp 8 0 0 10 65535 0]O Ladrão Fantasma![n]Ele ainda está vivo![n][f 1 3 65535][w][e]
 
-[msg MSG_010_0_0 [Detective in erba]]
+[msg MSG_010_0_0 [Detetives iniciantes]]
 [s][vp 8 0 0 11 6 0]Mesmo assim, como ele[n]escapou da delegacia?[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Detetive policial]]

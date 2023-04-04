@@ -28,13 +28,13 @@
 [msg MSG_007_0_0 [Takemi]]
 [s][bup 0 108 500 65535 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Você tem[n]um bolo de Natal sobrando?[n][f 1 3 65535][w][e]
 
-[msg MSG_008_0_0 [Dipendente allegra]]
+[msg MSG_008_0_0 [Empregado alegre]]
 [s][vp 8 0 0 12 8 0]Na verdade sim![n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Takemi]]
 [s][bup 0 108 504 65535 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]O quê?[n][f 1 3 65535][w][e]
 
-[msg MSG_010_0_0 [Dipendente allegra]]
+[msg MSG_010_0_0 [Empregado alegre]]
 [s][vp 8 0 0 14 8 0]Eles cancelaram nosso pedido[n]no último minuto. Este é[n]o último restante![n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Takemi]]
@@ -43,7 +43,7 @@
 [msg MSG_012_0_0 [Takemi]]
 [s][bup 0 108 501 65535 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Nós compramos.[n][f 1 3 65535][w][e]
 
-[msg MSG_013_0_0 [Dipendente allegra]]
+[msg MSG_013_0_0 [Empregado alegre]]
 [s][vp 8 0 0 17 8 0]É claro! Eu irei um segundo[n]para prepará-lo para você![n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Takemi]]

@@ -2,19 +2,19 @@
 [s]Sim[e]
 [s]Não[e]
 
-[msg MSG_RENTALSYS_000_00 [Studente universitario superficiale]]
+[msg MSG_RENTALSYS_000_00 [Estudante universitário superficial]]
 [s][f 4 23 1 11 3 10 0 10][vp 8 2 1 0 11 0]Você está feliz por ter se inscrito?[n][w][e]
 
-[msg MSG_RENTALSYS_010_00 [Studente universitario rilassato]]
+[msg MSG_RENTALSYS_010_00 [Estudante universitário relaxado]]
 [s][f 4 23 1 10 3 10 0 10][vp 8 2 1 0 10 0]A taxa de entrada foi bem alta... mas,[n]considerando que posso assistir o quanto quiser,[n]é uma pechincha.[n][w][e]
 
-[msg MSG_RENTALSYS_020_00 [Studente universitario superficiale]]
+[msg MSG_RENTALSYS_020_00 [Estudante universitário superficial]]
 [s][f 4 23 1 11 3 10 0 10][vp 8 2 1 0 11 0]E agora você nunca mais precisa se preocupar com[n]pagamentos atrasados. Eu esqueço regularmente de[n]pagar em dia.[n][w][e]
 
-[msg MSG_RENTALSYS_030_00 [Studente universitario rilassato]]
+[msg MSG_RENTALSYS_030_00 [Estudante universitário relaxado]]
 [s][f 4 23 1 10 3 10 0 10][vp 8 2 1 0 10 0]Aliás, você não me devolveu[n]o dinheiro que te emprestei...[n][w][e]
 
-[msg MSG_RENTALSYS_040_00 [Studente universitario superficiale]]
+[msg MSG_RENTALSYS_040_00 [Estudante universitário superficial]]
 [s][f 4 23 1 11 3 10 0 10][vp 8 2 1 0 11 0]Oh, OK. Você não esqueceu, né?[n][w][e]
 
 [msg MSG_0103_0108_KUNIKAZU_0 [Okumura]]
@@ -111,7 +111,7 @@
 [msg SEL_0621_ANN_AND_MAKOTO__11 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][f 4 23 1 222 3 10 0 10][vp 8 2 1 2023 65535 0]Se você organizar uma reunião, entraremos em[n]contato com você assim que estivermos prontos.[n]Obrigado, [f 4 2].[n][w][e]
 
-[msg MSG_KOKUJIN_001_0_0 [Imbonitore straniero]]
+[msg MSG_KOKUJIN_001_0_0 [Ladrador estrangeiro]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Oi Shibuyani. Venha e veja.[n][w][e]
 
 [sel SEL_KOKUJIN_001_0_0 top]
@@ -119,44 +119,44 @@
 [s]Você quer me provocar?[e]
 [s]Conte-me.[e]
 
-[msg MSG_KOKUJIN_001_2_0 [Imbonitore straniero]]
+[msg MSG_KOKUJIN_001_2_0 [Ladrador estrangeiro]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Nono. Não faça isso![n]Me dê um tempo, ok?[n][w][e]
 [s][vp 8 2 1 0 0 0]Estou apenas tentando trabalhar[n]e anunciar este bar.[n][w][e]
 [s][vp 8 2 1 0 0 0]Mas você é apenas um menino. Eu não posso[n]deixá-lo entrar. Desculpe amigo.[n][w][e]
 
-[msg MSG_KOKUJIN_001_3_0 [Imbonitore straniero]]
+[msg MSG_KOKUJIN_001_3_0 [Ladrador estrangeiro]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Hã? Uau, espere, oh![n][w][e]
 [s][vp 8 2 1 0 0 0]Estou apenas tentando trabalhar[n]e anunciar este bar.[n][w][e]
 [s][vp 8 2 1 0 0 0]Você tem que ter pelo menos 20 anos para colocar[n]os pés aqui. Volte em alguns anos, cara.[n][w][e]
 
-[msg MSG_KOKUJIN_001_4_0 [Imbonitore straniero]]
+[msg MSG_KOKUJIN_001_4_0 [Ladrador estrangeiro]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Ei, amigo! Obrigado[n]pela sua atenção.[n][w][e]
 [s][vp 8 2 1 0 0 0]Todo mundo me evita porque eu mastigo[n]pouco minha língua. Só estou tentando[n]anunciar este bar, sabe?[n][w][e]
 [s][vp 8 2 1 0 0 0]Mas você é apenas um menino. Eu não posso[n]deixá-lo entrar. Desculpe amigo.[n][w][e]
 
-[msg MSG_KOKUJIN_002_0_0 [Imbonitore straniero]]
+[msg MSG_KOKUJIN_002_0_0 [Ladrador estrangeiro]]
 [s][f 4 23 1 33 3 10 0 10][vp 8 2 1 0 33 0]Ei, amigo! Venha e experimente[n]algo incrível![n][w][e]
 [s][vp 8 2 1 0 33 0]Hum, quero dizer comida, entendeu?[n]Eu disse que a comida aqui é boa,[n]não pense em outras altas![n][w][e]
 
-[msg MSG_KOKUJIN_002_1_0 [Gatto]]
+[msg MSG_KOKUJIN_002_1_0 [Gato]]
 [s][f 4 23 1 32 0 10 1 10][vp 8 2 1 0 32 0]Miau?[n][w][e]
 
-[msg MSG_KOKUJIN_002_2_0 [Imbonitore straniero]]
+[msg MSG_KOKUJIN_002_2_0 [Ladrador estrangeiro]]
 [s][f 4 23 1 33 3 10 0 10][vp 8 2 1 0 33 0]Porra, eu preciso aprender[n]a língua melhor...[n][w][e]
 
-[msg MSG_KOKUJIN_003_0_0 [Cliente abituale ubriaco]]
+[msg MSG_KOKUJIN_003_0_0 [Cliente bêbado regular]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Ei! Se você quer atrair mais clientes,[n]você precisa ser mais educado[n]ao falar![n][w][e]
 
-[msg MSG_KOKUJIN_003_1_0 [Imbonitore straniero]]
+[msg MSG_KOKUJIN_003_1_0 [Ladrador estrangeiro]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Ei, me desculpe. É difícil[n]entender totalmente as formalidades[n]da cultura japonesa![n][w][e]
 
-[msg MSG_KOKUJIN_003_2_0 [Cliente abituale ubriaco]]
+[msg MSG_KOKUJIN_003_2_0 [Cliente bêbado regular]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]E por que você faz esse trabalho[n]se não conhece bem o idioma?[n][w][e]
 
-[msg MSG_KOKUJIN_003_3_0 [Imbonitore straniero]]
+[msg MSG_KOKUJIN_003_3_0 [Ladrador estrangeiro]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Eu disse que sinto muito...[n][w][e]
 
-[msg MSG_KOKUJIN_004_0_0 [Imbonitore straniero]]
+[msg MSG_KOKUJIN_004_0_0 [Ladrador estrangeiro]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Olá pessoal! Vou roubar[n]seu coração![n][w][e]
 
 [sel SEL_KOKUJIN_004_0_0 top]
@@ -164,170 +164,170 @@
 [s]Não, obrigado.[e]
 [s]Eu quero falar com o gerente.[e]
 
-[msg MSG_KOKUJIN_004_1_0 [Imbonitore straniero]]
+[msg MSG_KOKUJIN_004_1_0 [Ladrador estrangeiro]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Naturalmente! Eles são fortes![n][w][e]
 
-[msg MSG_KOKUJIN_004_2_0 [Imbonitore straniero]]
+[msg MSG_KOKUJIN_004_2_0 [Ladrador estrangeiro]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]OPA, desculpe. Eu tenho que parar de[n]expressar-me como de costume quando[n]falo outro idioma.[n][w][e]
 
-[msg MSG_KOKUJIN_004_3_0 [Imbonitore straniero]]
+[msg MSG_KOKUJIN_004_3_0 [Ladrador estrangeiro]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Por favor não![n][w][e]
 
-[msg MSG_KOKUJIN_004_4_0 [Imbonitore straniero]]
+[msg MSG_KOKUJIN_004_4_0 [Ladrador estrangeiro]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Tem havido um[n]ar ruim em Shibuya ultimamente...[n][w][e]
 [s][vp 8 2 1 0 0 0]Eu sempre ouço sobre gangues.[n]Aparentemente, o Japão não[n]é muito diferente do meu país...[n][w][e]
 
-[msg MSG_KOKUJIN_005_0_0 [Gestore scocciato]]
+[msg MSG_KOKUJIN_005_0_0 [Gerente irritado]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Olha, eu aprecio seu entusiasmo, mas nenhum[n]cliente está vindo.[n][w][e]
 
-[msg MSG_KOKUJIN_005_1_0 [Imbonitore straniero]]
+[msg MSG_KOKUJIN_005_1_0 [Ladrador estrangeiro]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Sinto muito! É que é difícil[n]acostumar-se com as formalidades[n]da cultura japonesa![n][w][e]
 
-[msg MSG_KOKUJIN_005_2_0 [Gestore scocciato]]
+[msg MSG_KOKUJIN_005_2_0 [Gerente irritado]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Sim, mas você não tem utilidade para mim se não[n]puder interagir com os clientes. Não me faça[n]demiti-lo.[n][w][e]
 [s][vp 8 2 1 0 1 0]Pelo menos faça o papel do cara[n]forte e silencioso e tente[n]afastar a máfia.[n][w][e]
 
-[msg MSG_KOKUJIN_006_0_0 [Imbonitore straniero]]
+[msg MSG_KOKUJIN_006_0_0 [Ladrador estrangeiro]]
 [s][f 4 23 1 33 3 10 0 10][vp 8 2 1 0 33 0]Ei, amigo. De onde diabos[n]estão vindo todos esses panfletos?[n][w][e]
 
-[msg MSG_KOKUJIN_006_1_0 [Gatto]]
+[msg MSG_KOKUJIN_006_1_0 [Gato]]
 [s][f 4 23 1 32 0 10 1 10][vp 8 2 1 0 32 0]Miau?[n][w][e]
 
-[msg MSG_KOKUJIN_006_2_0 [Imbonitore straniero]]
+[msg MSG_KOKUJIN_006_2_0 [Ladrador estrangeiro]]
 [s][f 4 23 1 33 3 10 0 10][vp 8 2 1 0 33 0]Oh, quero dizer... Com licença senhor,[n]você pode me dizer quem colocou essas[n]legais... merdas![n][w][e]
 [s][vp 8 2 1 0 33 0]Quero dizer, os panfletos têm uma marca legal. Eu[n]sou de uma loja perto daqui?[n][w][e]
 
-[msg MSG_KOKUJIN_007_0_0 [Imbonitore straniero]]
+[msg MSG_KOKUJIN_007_0_0 [Ladrador estrangeiro]]
 [s][f 4 23 1 33 3 10 0 10][vp 8 2 1 0 33 0]Este país me confunde.[n]Todo mundo é legal, mas...[n][w][e]
 [s][vp 8 2 1 0 33 0]Como posso dizer...[n][w][e]
 
-[msg MSG_KOKUJIN_007_1_0 [Gatto]]
+[msg MSG_KOKUJIN_007_1_0 [Gato]]
 [s][f 4 23 1 32 0 10 1 10][vp 8 2 1 0 32 0]Miau...[n][w][e]
 
-[msg MSG_KOKUJIN_007_2_0 [Imbonitore straniero]]
+[msg MSG_KOKUJIN_007_2_0 [Ladrador estrangeiro]]
 [s][f 4 23 1 33 3 10 0 10][vp 8 2 1 0 33 0]Sorrisos forçados e empatia?[n]ainda tenho tanto[n]para aprender![n][w][e]
 
-[msg MSG_KOKUJIN_008_0_0 [Cliente abituale ubriaco]]
+[msg MSG_KOKUJIN_008_0_0 [Cliente bêbado regular]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Esse hacker é estrangeiro, certo?[n]É você?[n][w][e]
 
-[msg MSG_KOKUJIN_008_1_0 [Imbonitore straniero]]
+[msg MSG_KOKUJIN_008_1_0 [Ladrador estrangeiro]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]De jeito nenhum! Ninguém sabe quem é Medjed...[n][w][e]
 [s][vp 8 2 1 0 0 0]Ah... é normal implicar com estrangeiros no Japão?[n][w][e]
 
-[msg MSG_KOKUJIN_008_2_0 [Cliente abituale ubriaco]]
+[msg MSG_KOKUJIN_008_2_0 [Cliente bêbado regular]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Você tira sarro do meu país?[n]Cale a boca, antes que[n]eu fique com raiva![n][w][e]
 
-[msg MSG_KOKUJIN_009_0_0 [Imbonitore straniero]]
+[msg MSG_KOKUJIN_009_0_0 [Ladrador estrangeiro]]
 [s][f 4 23 1 33 3 10 0 10][vp 8 2 1 0 33 0]Minha mãe não queria que eu viesse para o Japão,[n]mas não resisti.[n][w][e]
 [s][vp 8 2 1 0 33 0]Shiki, wabi, sabi... O Japão é muito[n]interessante. Eu me apaixonei loucamente por[n]isso.[n][w][e]
 
-[msg MSG_KOKUJIN_009_1_0 [Gatto]]
+[msg MSG_KOKUJIN_009_1_0 [Gato]]
 [s][f 4 23 1 32 0 10 1 10][vp 8 2 1 0 32 0]Miau[n][w][e]
 
-[msg MSG_KOKUJIN_009_2_0 [Imbonitore straniero]]
+[msg MSG_KOKUJIN_009_2_0 [Ladrador estrangeiro]]
 [s][f 4 23 1 33 3 10 0 10][vp 8 2 1 0 33 0]É por isso que não posso perdoar as ações de[n]Medjed. Vamos lá, Thieves[n]Phantom! Ensine-lhe uma lição![n][w][e]
 
-[msg MSG_KOKUJIN_009_3_0 [Gatto]]
+[msg MSG_KOKUJIN_009_3_0 [Gato]]
 [s][f 4 23 1 32 0 10 1 10][vp 8 2 1 0 32 0]Miau![n][w][e]
 
-[msg MSG_KOKUJIN_010_0_0 [Cliente abituale ubriaco]]
+[msg MSG_KOKUJIN_010_0_0 [Cliente bêbado regular]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]No seu país você não tem Phantom Thieves, hein?[n]Sim... esse é o poder do Japão! Hic![n][w][e]
 
-[msg MSG_KOKUJIN_010_1_0 [Imbonitore straniero]]
+[msg MSG_KOKUJIN_010_1_0 [Ladrador estrangeiro]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Os Phantom Thieves são incríveis![n]Eles parecem um mangá tornado realidade![n][w][e]
 [s][vp 8 2 1 0 0 0]Mas nem sempre podemos confiar[n]neles, certo?[n][w][e]
 
-[msg MSG_KOKUJIN_010_2_0 [Cliente abituale ubriaco]]
+[msg MSG_KOKUJIN_010_2_0 [Cliente bêbado regular]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Huh? Por que não? Não pregue para nós![n][w][e]
 
-[msg MSG_KOKUJIN_011_0_0 [Imbonitore straniero]]
+[msg MSG_KOKUJIN_011_0_0 [Ladrador estrangeiro]]
 [s][f 4 23 1 33 3 10 0 10][vp 8 2 1 0 33 0]Você ouviu falar daquela empresa[n]que explora funcionários?[n][w][e]
 [s][vp 8 2 1 0 33 0]É realmente uma merda! Eles tratam[n]funcionários como gado![n][w][e]
 
-[msg MSG_KOKUJIN_011_1_0 [Gatto]]
+[msg MSG_KOKUJIN_011_1_0 [Gato]]
 [s][f 4 23 1 32 0 10 1 10][vp 8 2 1 0 32 0]Fffff.[n][w][e]
 
-[msg MSG_KOKUJIN_011_2_0 [Imbonitore straniero]]
+[msg MSG_KOKUJIN_011_2_0 [Ladrador estrangeiro]]
 [s][f 4 23 1 33 3 10 0 10][vp 8 2 1 0 33 0]Eu tenho um bom gerente,[n]ele não me trata assim...[n][w][e]
 
-[msg MSG_KOKUJIN_012_0_0 [Gestore scocciato]]
+[msg MSG_KOKUJIN_012_0_0 [Gerente irritado]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Estocando hambúrgueres? Porque?[n][w][e]
 
-[msg MSG_KOKUJIN_012_1_0 [Imbonitore straniero]]
+[msg MSG_KOKUJIN_012_1_0 [Ladrador estrangeiro]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Big Bang Burger está com problemas,[n]não? Vamos dar uma mão a eles, no[n]verdadeiro espírito japonês![n][w][e]
 
-[msg MSG_KOKUJIN_012_2_0 [Gestore scocciato]]
+[msg MSG_KOKUJIN_012_2_0 [Gerente irritado]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Ouça, os japoneses são[n]apoiadores apenas quando precisam.[n][w][e]
 [s][vp 8 2 1 0 1 0]Ninguém quer ser associado[n]a uma empresa conhecida pela[n]exploração de seus funcionários![n][w][e]
 
-[msg MSG_KOKUJIN_013_0_0 [Imbonitore straniero]]
+[msg MSG_KOKUJIN_013_0_0 [Ladrador estrangeiro]]
 [s][f 4 23 1 33 3 10 0 10][vp 8 2 1 0 33 0]Não consigo tirar da cabeça os acontecimentos do[n]outro dia...[n][w][e]
 
-[msg MSG_KOKUJIN_013_1_0 [Gatto]]
+[msg MSG_KOKUJIN_013_1_0 [Gato]]
 [s][f 4 23 1 32 0 10 1 10][vp 8 2 1 0 32 0]Miau...[n][w][e]
 
-[msg MSG_KOKUJIN_013_2_0 [Imbonitore straniero]]
+[msg MSG_KOKUJIN_013_2_0 [Ladrador estrangeiro]]
 [s][f 4 23 1 33 3 10 0 10][vp 8 2 1 0 33 0]Ele estava apenas tentando se desculpar, mas eles[n]o puniram de qualquer maneira.[n][w][e]
 [s][vp 8 2 1 0 33 0]Os Phantom Thieves estão com raiva?[n]Eles não aceitam desculpas?[n][w][e]
 
-[msg MSG_KOKUJIN_014_0_0 [Imbonitore straniero]]
+[msg MSG_KOKUJIN_014_0_0 [Ladrador estrangeiro]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Diga "olá", não "oi".[n]Venha por ela, não por você.[n][w][e]
 
-[msg MSG_KOKUJIN_014_1_0 [Gestore impressionato]]
+[msg MSG_KOKUJIN_014_1_0 [Gerente impressionado]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Vejo que você praticou.[n]Você fala muito melhor agora.[n][w][e]
 
-[msg MSG_KOKUJIN_014_2_0 [Imbonitore straniero]]
+[msg MSG_KOKUJIN_014_2_0 [Ladrador estrangeiro]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Aprendi a ser sincera e[n]hospitalar e não tenho mais medo do[n]preconceito![n][w][e]
 [s][vp 8 2 1 0 0 0]Eu me pergunto se os Phantom Thieves têm o mesmo[n]problema. Eu não acho que eles mataram ninguém.[n][w][e]
 
-[msg MSG_KOKUJIN_015_0_0 [Imbonitore straniero]]
+[msg MSG_KOKUJIN_015_0_0 [Ladrador estrangeiro]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Bem vindo senhor! Obrigado pela[n]sua preferência![n][w][e]
 
-[msg MSG_KOKUJIN_015_1_0 [Cliente abituale sobrio]]
+[msg MSG_KOKUJIN_015_1_0 [Cliente regular sóbrio]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Ah é você. Agora você fala[n]muito bem.[n][w][e]
 
-[msg MSG_KOKUJIN_015_2_0 [Imbonitore straniero]]
+[msg MSG_KOKUJIN_015_2_0 [Ladrador estrangeiro]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Quero aprender como abordar[n]clientes melhor.[n]A comunicação é fundamental.[n][w][e]
 [s][vp 8 2 1 0 0 0]Por isso comecei[n]a acompanhar as notícias.[n][w][e]
 
-[msg MSG_KOKUJIN_016_0_0 [Imbonitore straniero]]
+[msg MSG_KOKUJIN_016_0_0 [Ladrador estrangeiro]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Um novo[n]primeiro-ministro será eleito? É normal que[n]eles mudem com tanta frequência?[n][w][e]
 
-[msg MSG_KOKUJIN_016_1_0 [Cliente abituale ubriaco]]
+[msg MSG_KOKUJIN_016_1_0 [Cliente bêbado regular]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Não se preocupe. O[n]partido do governo não é mais confiável.[n]É melhor passar o bastão.[n][w][e]
 
-[msg MSG_KOKUJIN_016_2_0 [Imbonitore straniero]]
+[msg MSG_KOKUJIN_016_2_0 [Ladrador estrangeiro]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]O Japão é como um time de[n]grandes jogadores sem treinador.[n][w][e]
 [s][vp 8 2 1 0 0 0]É estranho o quão pouco seu povo se preocupa com[n]o país.[n][w][e]
 
-[msg MSG_KOKUJIN_017_0_0 [Imbonitore straniero]]
+[msg MSG_KOKUJIN_017_0_0 [Ladrador estrangeiro]]
 [s][f 4 23 1 33 3 10 0 10][vp 8 2 1 0 33 0]Parece que Shido se tornará o novo[n]primeiro-ministro. Os clientes continuam falando[n]sobre ele.[n][w][e]
 
-[msg MSG_KOKUJIN_017_1_0 [Gatto]]
+[msg MSG_KOKUJIN_017_1_0 [Gato]]
 [s][f 4 23 1 32 0 10 1 10][vp 8 2 1 0 32 0]Miau[n][w][e]
 
-[msg MSG_KOKUJIN_017_2_0 [Imbonitore straniero]]
+[msg MSG_KOKUJIN_017_2_0 [Ladrador estrangeiro]]
 [s][f 4 23 1 33 3 10 0 10][vp 8 2 1 0 33 0]E o líder dos Phantom Thieves[n]cometeu suicídio. As pessoas que costumavam[n]apoiá-lo agora riem disso.[n][w][e]
 [s][vp 8 2 1 0 33 0]Eu sinto um pouco de pena dele.[n]Talvez ele tenha se desgastado demais.[n][w][e]
 
-[msg MSG_KOKUJIN_018_0_0 [Imbonitore straniero]]
+[msg MSG_KOKUJIN_018_0_0 [Ladrador estrangeiro]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]O líder dos Phantom Thieves[n]está vivo e Shido é o criminoso?!?[n][w][e]
 
-[msg MSG_KOKUJIN_018_1_0 [Cliente abituale ubriaco]]
+[msg MSG_KOKUJIN_018_1_0 [Cliente bêbado regular]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]O que é isso, algum tipo de truque?[n]A polícia o havia dado como morto.[n][w][e]
 [s][vp 8 2 1 0 1 0]Talvez seja assim que deve ser...[n]Quando se trata de política, há[n]sempre um escândalo envolvido.[n][w][e]
 
-[msg MSG_KOKUJIN_019_0_0 [Imbonitore straniero]]
+[msg MSG_KOKUJIN_019_0_0 [Ladrador estrangeiro]]
 [s][f 4 23 1 33 3 10 0 10][vp 8 2 1 0 33 0]Mmm, eu não entendo. Os[n]Phantom Thieves e Shido eram maus?[n][w][e]
 [s][vp 8 2 1 0 33 0]Mas os Phantom Thieves[n]nunca existiram? O que[n]vimos? Uma ilusão?[n][w][e]
 
-[msg MSG_KOKUJIN_019_1_0 [Gatto]]
+[msg MSG_KOKUJIN_019_1_0 [Gato]]
 [s][f 4 23 1 32 0 10 1 10][vp 8 2 1 0 32 0]Miau?[n][w][e]
 
-[msg MSG_KOKUJIN_019_2_0 [Imbonitore straniero]]
+[msg MSG_KOKUJIN_019_2_0 [Ladrador estrangeiro]]
 [s][f 4 23 1 33 3 10 0 10][vp 8 2 1 0 33 0]Não importa mais para nenhum[n]cliente. Estou confuso...[n][w][e]
 
-[msg MSG_KOKUJIN_020_0_0 [Imbonitore straniero]]
+[msg MSG_KOKUJIN_020_0_0 [Ladrador estrangeiro]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Feliz Ano Novo! Você começou com o pé direito?[n][w][e]
 
 [sel SEL_KOKUJIN_020_0_0 top]
@@ -335,70 +335,70 @@
 [s]Não exatamente.[e]
 [s]Quem sabe.[e]
 
-[msg MSG_KOKUJIN_020_1_0 [Imbonitore straniero]]
+[msg MSG_KOKUJIN_020_1_0 [Ladrador estrangeiro]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Parece que todo mundo está feliz este ano:[n]os sonhos de todos estão se tornando realidade![n][w][e]
 
-[msg MSG_KOKUJIN_020_2_0 [Imbonitore straniero]]
+[msg MSG_KOKUJIN_020_2_0 [Ladrador estrangeiro]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Sem medo! O ano apenas[n]começou.[n]Coisas boas também virão.[n][w][e]
 
-[msg MSG_KOKUJIN_020_3_0 [Imbonitore straniero]]
+[msg MSG_KOKUJIN_020_3_0 [Ladrador estrangeiro]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Oh... bem, você tem o resto do ano para mudar as[n]coisas![n][w][e]
 
-[msg MSG_KOKUJIN_021_0_0 [Imbonitore straniero]]
+[msg MSG_KOKUJIN_021_0_0 [Ladrador estrangeiro]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Senhor, tenho uma atualização para você.[n]Agora moro no Japão com minha mãe.[n][w][e]
 [s][vp 8 2 1 0 0 0]Meu japonês melhorou, não é?[n]Não terei problemas para trabalhar aqui.[n][w][e]
 [s][vp 8 2 1 0 0 0]Estou feliz por poder trabalhar no[n]Japão. Vou continuar trabalhando[n]para cuidar da minha mãe![n][w][e]
 
-[msg MSG_KOKUJIN_021_1_0 [Gestore impressionato]]
+[msg MSG_KOKUJIN_021_1_0 [Gerente impressionado]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]O que?!? Desde quando...? Eu não sabia![n][w][e]
 [s][vp 8 2 1 0 1 0]E sim, seu japonês está perfeito agora![n]Você parece uma pessoa completamente diferente.[n][w][e]
 
-[msg MSG_KOKUJIN_021_2_0 [Imbonitore straniero]]
+[msg MSG_KOKUJIN_021_2_0 [Ladrador estrangeiro]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Sério? Mas enfim, que bom que meu japonês[n]melhorou, né?[n][w][e]
 
-[msg MSG_KOKUJIN_021_3_0 [Gestore impressionato]]
+[msg MSG_KOKUJIN_021_3_0 [Gerente impressionado]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Acho que você está certo...[n][w][e]
 
-[msg MSG_KOKUJIN_022_0_0 [Imbonitore straniero]]
+[msg MSG_KOKUJIN_022_0_0 [Ladrador estrangeiro]]
 [s][f 4 23 1 33 3 10 0 10][vp 8 2 1 0 33 0]Os invernos aqui no Japão são muito mais frios do[n]que no meu país natal... Estou surpreso.[n][w][e]
 [s][vp 8 2 1 0 33 0]Eu deveria preparar uma sopa tradicional de[n]gengibre para minha mãe, para ela não pegar um[n]resfriado.[n][w][e]
 
-[msg MSG_KOKUJIN_022_1_0 [Gatto]]
+[msg MSG_KOKUJIN_022_1_0 [Gato]]
 [s][f 4 23 1 32 0 10 1 10][vp 8 2 1 0 32 0]Miau[n][w][e]
 
-[msg MSG_KOKUJIN_022_2_0 [Imbonitore straniero]]
+[msg MSG_KOKUJIN_022_2_0 [Ladrador estrangeiro]]
 [s][f 4 23 1 33 3 10 0 10][vp 8 2 1 0 33 0]O que é, gatinha?[n]Por que essa cara triste?[n][w][e]
 [s][vp 8 2 1 0 33 0]Agora estou muito feliz com a minha vida.[n]Não me preocupo com nada.[n][w][e]
 [s][vp 8 2 1 0 33 0]Espere um minuto... Mas por que eu voltei para o[n]Japão?[n][w][e]
 
-[msg MSG_KOKUJIN_023_0_0 [Imbonitore straniero]]
+[msg MSG_KOKUJIN_023_0_0 [Ladrador estrangeiro]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Obrigado por voltar senhor![n][w][e]
 
-[msg MSG_KOKUJIN_023_1_0 [Cliente abituale sobrio]]
+[msg MSG_KOKUJIN_023_1_0 [Cliente regular sóbrio]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Obrigado amigo. Na próxima[n]semana irei ver as[n]flores das cerejeiras. Você quer vir?[n][w][e]
 
-[msg MSG_KOKUJIN_023_2_0 [Imbonitore straniero]]
+[msg MSG_KOKUJIN_023_2_0 [Ladrador estrangeiro]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]É claro! Eu gostaria de beber[n]algo juntos para o hanami![n][w][e]
 
-[msg MSG_KOKUJIN_023_3_0 [Cliente abituale sobrio]]
+[msg MSG_KOKUJIN_023_3_0 [Cliente regular sóbrio]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Ah, você já conhece bem[n]a cultura japonesa.[n][w][e]
 
-[msg MSG_TIKAAIDORU_001_0_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_001_0_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Você tem um minuuutooo?[n]Eu sou Chika, da banda[n]ídolo D-kyun![n][w][e]
 
 [sel SEL_TIKAAIDORU_001_0_0 top]
 [s]Chica quem?[e]
 [s]Você é um ídolo underground?[e]
 
-[msg MSG_TIKAAIDORU_001_1_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_001_1_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Você não sabe quem eu sou...?[n]Solução... mas não vou desistir![n][w][e]
 [s][vp 8 2 1 0 2 0]Eu sonho em ter sucesso e[n]vendendo CDs eu mesmo![n]Não sou admirável?[n][w][e]
 
-[msg MSG_TIKAAIDORU_001_2_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_001_2_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Não somos "ídolos underground"![n]Temos muitos fãs, principalmente[n]na Internet![n][w][e]
 [s][vp 8 2 1 0 2 0]Somos muito populares entre os[n]alunos do ensino fundamental e médio.[n]Mas não somos muito contratados...[n][w][e]
 
-[msg MSG_TIKAAIDORU_001_3_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_001_3_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Por favor, compre um de[n]nossos itens feitos à mão[n]para contribuir com o nosso negócio![n][w][e]
 [s][vp 8 2 1 0 2 0]Biscoitos D-kyun feitos à mão![n]Eles custam 500 ienes cada![n]E daí? Então?[n][w][e]
 
@@ -407,26 +407,26 @@
 [s]Custou tanto.[e]
 [s]Eu não estou interessado.[e]
 
-[msg MSG_TIKAAIDORU_001_4_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_001_4_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Muito obrigado![n]Aqui está seu biscoito D-kyun![n][w][e]
 [s][vp 8 2 1 0 2 0]É um item raro, sabe?[n]Desculpe, talvez não esteja bem[n]cozido. Heheheh.[n][w][e]
 
-[msg MSG_TIKAAIDORU_001_5_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_001_5_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Hum? Você já comprou um[n]no passado? Muito obrigado![n][w][e]
 [s][vp 8 2 1 0 2 0]Espero que você continue a apoiar[n]i D-kyun! OK? OK?[n][w][e]
 
-[msg MSG_TIKAAIDORU_001_6_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_001_6_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Oooh. Mas demorei cin...[n]isto é, HORAS, para fazê-los com[n]sobras de farinha![n][w][e]
 [s][vp 8 2 1 0 2 0]Acho que biscoitos não chegam.[n]Mas não tenho dinheiro. Eca.[n][w][e]
 
-[msg MSG_TIKAAIDORU_001_7_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_001_7_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Ugh... Mas demorei tanto amoooreee![n][w][e]
 [s][vp 8 2 1 0 2 0]Se isso continuar, os fundos...[n]Tudo bem, vou anunciar[n]online também![n][w][e]
 
-[msg TIKAAIDORU_NG [Idol indipendente di scarsa fama]]
+[msg TIKAAIDORU_NG [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Hum? Você não tem dinheiro suficiente.[n]Volte para comprar um.[n][w][e]
 
-[msg MSG_TIKAAIDORU_002_0_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_002_0_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Enquete surpresa![n][w][e]
 [s][vp 8 2 1 0 2 0]Você conhece D-kyun, o muito famoso[n]idol group[n]em Shibuya?[n][w][e]
 
@@ -435,21 +435,21 @@
 [s]Não.[e]
 [s]Eu não me importo.[e]
 
-[msg MSG_TIKAAIDORU_002_1_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_002_1_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Wahhh, estou emocionado![n]Graças a Deus trabalhei duro[n]nesses anúncios online![n][w][e]
 [s][vp 8 2 1 0 2 0]Então, aqui está uma[n]atualização especial![n]nossa nova música será lançada em breve![n][w][e]
 [s][vp 8 2 1 0 2 0]Continue apoiando a Chika de D-kyun! OK? OK?[n][w][e]
 
-[msg MSG_TIKAAIDORU_002_2_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_002_2_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Buuu, que decepção![n]Preciso anunciar mais online.[n][w][e]
 [s][vp 8 2 1 0 2 0]D-kyun é uma banda idol[n]muito ativa em Shibuya![n][w][e]
 [s][vp 8 2 1 0 2 0]Se você estiver interessado, procure-nos[n]na Internet! Lembre-se de nos[n]apoiar, ok? OK?[n][w][e]
 
-[msg MSG_TIKAAIDORU_002_3_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_002_3_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Aaaah, a verdade dói mesmo...[n][w][e]
 [s][vp 8 2 1 0 2 0]Vou ter que anunciar[n]online mais. A carreira de idol[n]começa com um clique![n][w][e]
 
-[msg MSG_TIKAAIDORU_003_0_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_003_0_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Alô! Eu sou Chika,[n]da banda ídolo D-kyun![n][w][e]
 [s][vp 8 2 1 0 2 0]Finalmente nossa[n]nova música foi lançada! Compre por favor![n][w][e]
 [s][vp 8 2 1 0 2 0]Eles custam 1.000 ienes cada![n]Talvez eu adicione um cupom[n]para um aperto de mão! OK? OK?[n][w][e]
@@ -459,24 +459,24 @@
 [s]Eu não quero isso.[e]
 [s]Você é irritante.[e]
 
-[msg MSG_TIKAAIDORU_003_1_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_003_1_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Obrigado por comprar![n]Este é o "Retrato[n]do Amor Feliz"![n][w][e]
 [s][vp 8 2 1 0 2 0]A música de D-kyun é pura arte![n]Uma obra de arte aclamada[n]pelos melhores conhecedores![n][w][e]
 [s][vp 8 2 1 0 2 0]Ou pelo menos, isso[n]eu acho.[n]Eheheheh.[n][w][e]
 
-[msg MSG_TIKAAIDORU_003_2_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_003_2_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Hum? Você já tem?[n]Muito obrigado![n][w][e]
 [s][vp 8 2 1 0 2 0]Espero que você continue a apoiar[n]i D-kyun! OK? OK?[n][w][e]
 
-[msg MSG_TIKAAIDORU_003_3_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_003_3_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Isso me entristece...[n]Solução. Agora terei que fazer[n]outros empregos de meio período.[n][w][e]
 [s][vp 8 2 1 0 2 0]Não tenho muitos fundos.[n]Vou tentar obter mais[n]anúncios online.[n][w][e]
 
-[msg MSG_TIKAAIDORU_003_4_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_003_4_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Wahhh! Não diga coisas[n]assim.[n][w][e]
 [s][vp 8 2 1 0 2 0]Mas não vamos falhar![n]Eu só preciso fazer mais[n]anúncios online. Muahahahah![n][w][e]
 
-[msg MSG_TIKAAIDORU_004_0_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_004_0_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Aqui estamos na esquina dos ídolos![n]O que as pessoas acham[n]da nossa nova música?[n][w][e]
 [s][vp 8 2 1 0 2 0]"Portrait of Happy Love" tem[n]valor artístico. Apenas explore a[n]fama de Madarame...[n][w][e]
 [s][vp 8 2 1 0 2 0]Caramba, eles descobriram![n]tenho que me apressar e[n]responder uma coisa![n][w][e]
@@ -485,15 +485,15 @@
 [s]Você usa contas falsas?[e]
 [s]Você copiou Madarame?[e]
 
-[msg MSG_TIKAAIDORU_004_1_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_004_1_0 [Ídolo independente de pouca fama]]
 [s][vp 8 2 1 0 2 0]Huh?!? C-claro que não![n][w][e]
 [s][vp 8 2 1 0 2 0]É parte do trabalho do ídolo.[n]N-não é publicidade secreta,[n]ou qualquer outra coisa![n][w][e]
 
-[msg MSG_TIKAAIDORU_004_2_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_004_2_0 [Ídolo independente de pouca fama]]
 [s][vp 8 2 1 0 2 0]Huh?!? C-claro que não![n][w][e]
 [s][vp 8 2 1 0 2 0]A popularidade de Madarame[n]não tem nada a ver com isso! Nós[n]nos anunciamos com dignidade![n][w][e]
 
-[msg MSG_TIKAAIDORU_004_3_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_004_3_0 [Ídolo independente de pouca fama]]
 [s][vp 8 2 1 0 2 0]De qualquer forma... por favor, compre a nova[n]música de D-kyun. Você vai achar divina![n][w][e]
 [s][vp 8 2 1 0 2 0]Também vou adicionar um autógrafo[n]só para você, ok? OK?[n][w][e]
 
@@ -502,23 +502,23 @@
 [s]Eu não quero isso.[e]
 [s]Você é irritante.[e]
 
-[msg MSG_TIKAAIDORU_004_4_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_004_4_0 [Ídolo independente de pouca fama]]
 [s][vp 8 2 1 0 2 0]Obrigado por comprar![n]Este é o "Retrato[n]do Amor Feliz"![n][w][e]
 [s][vp 8 2 1 0 2 0]Por favor, venha para nossas[n]apresentações ao vivo! Embora ainda não[n]tenhamos planos![n][w][e]
 
-[msg MSG_TIKAAIDORU_004_5_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_004_5_0 [Ídolo independente de pouca fama]]
 [s][vp 8 2 1 0 2 0]Hum? Você já tem?[n]Muito obrigado![n][w][e]
 [s][vp 8 2 1 0 2 0]Espero que você continue a apoiar[n]i D-kyun! OK? OK?[n][w][e]
 
-[msg MSG_TIKAAIDORU_004_6_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_004_6_0 [Ídolo independente de pouca fama]]
 [s][vp 8 2 1 0 2 0]Estou chocado... soluço.[n]Nesse ritmo, não poderei nem[n]acompanhar as lições.[n][w][e]
 [s][vp 8 2 1 0 2 0]Eu também tenho que anunciar oc...[n]Ou seja, verificar as últimas notícias.[n]Não tenho dinheiro suficiente para tudo.[n][w][e]
 
-[msg MSG_TIKAAIDORU_004_7_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_004_7_0 [Ídolo independente de pouca fama]]
 [s][vp 8 2 1 0 2 0]Wahhh, você é horrível![n]Estou tentando o meu melhor.[n][w][e]
 [s][vp 8 2 1 0 2 0]Preciso anunciar mais![n]É hora de se aprofundar[n]na Interneteet![n][w][e]
 
-[msg MSG_TIKAAIDORU_005_0_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_005_0_0 [Ídolo independente de pouca fama]]
 [s][vp 8 2 1 0 2 0]Verifique o que as pessoas dizem online! Os[n]tópicos quentes de Shibuya são... rufar de[n]tambores...[n][w][e]
 [s][vp 8 2 1 0 2 0]"Crime em ascensão em Shibuya".[n]"Um ladrão me mata".[n]"Aqui corremos grandes riscos".[n][w][e]
 [s][vp 8 2 1 0 2 0]O-o que é? O que[n]está acontecendo em Shibuya?[n][w][e]
@@ -527,20 +527,20 @@
 [s]O que você está fazendo?[e]
 [s]Me dê o seu dinheiro.[e]
 
-[msg MSG_TIKAAIDORU_005_1_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_005_1_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Eeek! Você me assustou![n][w][e]
 [s][vp 8 2 1 0 2 0]Você não precisava me surpreender assim. Essa[n]raiva![n][w][e]
 
-[msg MSG_TIKAAIDORU_005_2_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_005_2_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Eeek! Eu não tenho dinheiro agora! Eu já luto[n]para sustentar minhas atividades de ídolo![n][w][e]
 [s][vp 8 2 1 0 2 0]Espere, você não é meu fã?[n]Não me assuste assim,[n]por favor. Umpf.[n][w][e]
 
-[msg MSG_TIKAAIDORU_005_3_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_005_3_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Ah sim, enquanto você está aqui,[n]tenho um anúncio importante a fazer.[n]Clap clap clap.[n][w][e]
 [s][vp 8 2 1 0 2 0]D-kyun está indo para o próximo estágio! Iremos[n]evoluir para o "Fanta-idol"![n][w][e]
 [s][vp 8 2 1 0 2 0]Você conhece os Phantom Thieves, não é?[n]Seremos os próximos a atingi-los![n]OK? OK?[n][w][e]
 
-[msg MSG_TIKAAIDORU_006_0_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_006_0_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Vamos mudar de direção! Eu também[n]estou confusa sobre me tornar[n]uma Fanta-ídola![n][w][e]
 [s][vp 8 2 1 0 2 0]Mas farei o meu melhor! Acho que vou escrever[n]"Chika tem a mesma ascendência dos Phantom[n]Thieves".[n][w][e]
 
@@ -549,16 +549,16 @@
 [s]Não minta.[e]
 [s]Pode funcionar![e]
 
-[msg MSG_TIKAAIDORU_006_1_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_006_1_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Os Phantom Thieves sobre os quais todo mundo[n]sempre fala online![n]O que você diz, eu roubo seu coração? Hum?[n][w][e]
 
-[msg MSG_TIKAAIDORU_006_2_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_006_2_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]*engole em seco* Não é mentira...[n]É só uma imagem![n][w][e]
 
-[msg MSG_TIKAAIDORU_006_3_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_006_3_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Eheheh, vou continuar trabalhando[n]e me tornar um ídolo famoso![n][w][e]
 
-[msg MSG_TIKAAIDORU_006_4_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_006_4_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]E aqui novamente[n]i Fanta-ídolo, D-kyun![n][w][e]
 [s][vp 8 2 1 0 2 0]Nossa nova música foi lançada![n]1.000 ienes para uma edição[n]limitada, ok? OK?[n][w][e]
 
@@ -567,37 +567,37 @@
 [s]Eu não quero isso.[e]
 [s]Há alguém que os compre?[e]
 
-[msg MSG_TIKAAIDORU_006_5_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_006_5_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Grazie per l'acquisto! Questo si[n]intitola "He's a Trickster☆"![n][w][e]
 [s][vp 8 2 1 0 2 0]Por favor, apoiem nossa[n]banda Fanta-ídolo,[n]i D-kyun! OK? OK?[n][w][e]
 
-[msg MSG_TIKAAIDORU_006_6_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_006_6_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Hum? Você já[n]comprou um![n][w][e]
 [s][vp 8 2 1 0 2 0]Espero que você continue a apoiar[n]i D-kyun! OK? OK?[n][w][e]
 
-[msg MSG_TIKAAIDORU_006_7_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_006_7_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Oh... Que shooock![n]O que vou fazer para arrecadar[n]alguns fundos...?[n][w][e]
 
-[msg MSG_TIKAAIDORU_006_8_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_006_8_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Ai! Vabbeh, agora estou[n]acostumado com isso ... Ugh.[n][w][e]
 [s][vp 8 2 1 0 2 0]Se não vender bem, terei que trocar de novo. Eu[n]também estou acostumado com isso... suspiro.[n][w][e]
 
-[msg MSG_TIKAAIDORU_007_0_0 [Uomo ossessionato]]
+[msg MSG_TIKAAIDORU_007_0_0 [Homem obcecado]]
 [s][f 4 23 1 3 3 10 0 10][vp 8 2 1 0 3 0]Chika-chan, ouvi a nova[n]música! O estilo Phantom Thieves[n]é demais.[n][w][e]
 
-[msg MSG_TIKAAIDORU_007_1_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_007_1_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Heheheheh, obrigada![n]Vou roubar seu coração![n][w][e]
 
-[msg MSG_TIKAAIDORU_007_1_1 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_007_1_1 [Ídolo independente de pouca fama]]
 [s][vp 8 2 1 0 2 0]Oh, ricorda di comprare[n]anche "He's a Trick☆ster→"![n][w][e]
 
-[msg MSG_TIKAAIDORU_007_2_0 [Uomo ossessionato]]
+[msg MSG_TIKAAIDORU_007_2_0 [Homem obcecado]]
 [s][f 4 23 1 3 3 10 0 10][vp 8 2 1 0 3 0]A nova faixa também é um[n]grande sucesso nos fóruns![n]O público adora![n][w][e]
 
-[msg MSG_TIKAAIDORU_007_3_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_007_3_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Eek, eu realmente aprecio você![n]Vou me esforçar ainda mais[n]para expandir meu público![n][w][e]
 
-[msg MSG_TIKAAIDORU_007_3_1 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_007_3_1 [Ídolo independente de pouca fama]]
 [s][vp 8 2 1 0 2 0]Oh, ricorda di comprare[n]anche "He's a Trick☆ster→"![n][w][e]
 
 [sel SEL_TIKAAIDORU_007_0_0 top]
@@ -605,32 +605,32 @@
 [s]Eu não quero isso.[e]
 [s]Que tipo de música é?[e]
 
-[msg MSG_TIKAAIDORU_007_4_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_007_4_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Grazie dell'acquistooo![n]Ecco a te "He's a Trickster☆"![n][w][e]
 [s][vp 8 2 1 0 2 0]Nós somos o D-kyun, uma nova[n]banda do Fanta-idol![n]Sempre me apoie, ok? OK?[n][w][e]
 
-[msg MSG_TIKAAIDORU_007_5_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_007_5_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Você já tem![n]Espero que continue me apoiando![n][w][e]
 
-[msg MSG_TIKAAIDORU_007_6_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_007_6_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Bleh, que decepção.[n]Talvez esse "estilo Phantom Thieves"[n]não seja nada de especial...[n][w][e]
 
-[msg MSG_TIKAAIDORU_007_7_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_007_7_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]É uma música que vai roubar seu coração. Ou não?[n]Compre, por 1.000 ienes você receberá um estojo[n]de edição limitada![n][w][e]
 [s][vp 8 2 1 0 2 0]É roubo! OK? OK?[n][w][e]
 
-[msg MSG_TIKAAIDORU_008_0_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_008_0_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]A banda idol D-kyun,[n]i Fanta-idol,[n]apóia os Phantom Thieves![n][w][e]
 
 [sel SEL_TIKAAIDORU_008_0_0 top]
 [s]Porque?[e]
 [s]Siga a trilha, hein?[e]
 
-[msg MSG_TIKAAIDORU_008_1_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_008_1_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Eles venceram aquele mafioso assustador com[n]facilidade, sabe? Eu os acompanho há muito tempo![n][w][e]
 [s][vp 8 2 1 0 2 0]Também temos[n]itens promocionais! Por 500 ienes[n]você também receberá meu autógrafo![n][w][e]
 
-[msg MSG_TIKAAIDORU_008_2_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_008_2_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Errr... E agora eu também tenho[n]novos itens promocionais[n]D-kyun para fãs como você![n][w][e]
 [s][vp 8 2 1 0 2 0]O preço é de apenas 500 ienes![n]Vou colocar meu[n]autógrafo também, ok? OK?[n][w][e]
 
@@ -639,29 +639,29 @@
 [s]Eu não quero isso.[e]
 [s]Você me cansou.[e]
 
-[msg MSG_TIKAAIDORU_008_3_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_008_3_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Eek! Muito obrigado![n]Aqui está o seu "D-kyun Cookie"![n][w][e]
 [s][vp 8 2 1 0 2 0]Seu sabor envolvente[n]vai roubar seu coração! Devo[n]investigar você? Huh? Huh?[n][w][e]
 
-[msg MSG_TIKAAIDORU_008_4_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_008_4_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Hum? Você já comprou outros, certo? Tenha cuidado[n]para não comer demais, ok? OK?[n][w][e]
 
-[msg MSG_TIKAAIDORU_008_5_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_008_5_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Sob... Mas eu trabalhei tanto para prepará-los.[n]Eu preciso trabalhar mais no meu charme![n][w][e]
 
-[msg MSG_TIKAAIDORU_008_6_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_008_6_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Por favor, não diga isso![n]Preciso de mais fundos...[n]Wahhh![n][w][e]
 
-[msg MSG_TIKAAIDORU_009_0_0 [Uomo ossessionato]]
+[msg MSG_TIKAAIDORU_009_0_0 [Homem obcecado]]
 [s][f 4 23 1 3 3 10 0 10][vp 8 2 1 0 3 0]D-kyun é uma banda ídolo[n]oficialmente aprovada pelos[n]Phantom Thieves, certo?[n][w][e]
 
-[msg MSG_TIKAAIDORU_009_1_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_009_1_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Uhm, eu escrevi... isto é,[n]existem rumores semelhantes?[n][w][e]
 
-[msg MSG_TIKAAIDORU_009_2_0 [Uomo ossessionato]]
+[msg MSG_TIKAAIDORU_009_2_0 [Homem obcecado]]
 [s][f 4 23 1 3 3 10 0 10][vp 8 2 1 0 3 0]Fiquei tão feliz que[n]contei a todos! Agora suas[n]vendas vão aumentar![n][w][e]
 
-[msg MSG_TIKAAIDORU_009_3_0 [Uomo ossessionato]]
+[msg MSG_TIKAAIDORU_009_3_0 [Homem obcecado]]
 [s][vp 8 2 1 0 3 0]Ei, não fique aí parado![n]Compre um! Compre um![n]Apenas 1.000 ienes cada![n][w][e]
 
 [sel SEL_TIKAAIDORU_009_0_0 top]
@@ -670,32 +670,32 @@
 [s]biscoito D-kyun[e]
 [s]Eu não quero nada.[e]
 
-[msg MSG_TIKAAIDORU_009_4_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_009_4_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]É o nosso mais novo produto, o Chika-chan Drinco![n]Você tem um olho comprido, sabia?[n][w][e]
 [s][vp 8 2 1 0 2 0]Não é um suco qualquer![n]Chika botou uma[n]etiqueta artesanal, tá? OK?[n][w][e]
 
-[msg MSG_TIKAAIDORU_009_5_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_009_5_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]La nostra prima produzione in stile[n]Ladri Fantasma, prima edizione[n]limitata di "He's a Trick☆ster→"![n][w][e]
 [s][vp 8 2 1 0 2 0]Obrigado por sua compra![n]Memorize a letra para[n]possarmos cantar junto![n][w][e]
 
-[msg MSG_TIKAAIDORU_009_6_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_009_6_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Preparei com tanto[n]amor! O "Biscoito D-kyun"![n][w][e]
 [s][vp 8 2 1 0 2 0]Obrigado por sua compra![n]Se você sentir dor de barriga[n]não é minha culpa, ok? OK?[n][w][e]
 
-[msg MSG_TIKAAIDORU_009_7_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_009_7_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Que decepção...[n]Solução. Nesse ritmo,[n]meus fundos...[n][w][e]
 
-[msg MSG_TIKAAIDORU_009_8_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_009_8_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Hum? Você já fez a[n]mesma compra![n][w][e]
 [s][vp 8 2 1 0 2 0]Continue e você completará toda a[n]coleção! E talvez então[n]algo bom aconteça.[n][w][e]
 
-[msg MSG_TIKAAIDORU_009_9_0 [Uomo ossessionato]]
+[msg MSG_TIKAAIDORU_009_9_0 [Homem obcecado]]
 [s][f 4 23 1 3 3 10 0 10][vp 8 2 1 0 3 0]Você também é fã do D-kyun,[n]certo? Claro, mesmo que você tente[n]escondê-lo... Eheheh.[n][w][e]
 
-[msg MSG_TIKAAIDORU_009_10_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_009_10_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Obrigado a todos.[n]Sobre... Não irei desapontar suas[n]expectativas! Nós vamos conseguir![n][w][e]
 
-[msg MSG_TIKAAIDORU_010_0_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_010_0_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Ding Ding! Você é quem sempre compra[n]alguma coisa, certo?[n][w][e]
 [s][vp 8 2 1 0 2 0]Passamos a nos conhecer muito bem![n]Thump thump...[n]Posso perguntar seu nome?[n][w][e]
 
@@ -703,21 +703,21 @@
 [s]Diga a ela seu nome.[e]
 [s]Não.[e]
 
-[msg MSG_TIKAAIDORU_010_1_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_010_1_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0][f 4 1]-san, hein?[n]Que nome lindo! Agora que sei,[n]nunca vou esqueceriii.[n][w][e]
 [s][vp 8 2 1 0 2 0]Se você não apoiar D-kyun,[n]Phantom Thieves irá puni-lo![n]OK? OK?[n][w][e]
 [s][vp 8 2 1 0 2 0]Não posso dizer em voz alta, mas[n]vote em mim online! OK? OK?[n][w][e]
 
-[msg MSG_TIKAAIDORU_010_2_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_010_2_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Hum? Você está envergonhado? Em momentos[n]como este, você precisa de um ritual[n]amuleto da sorte. *murmúrio*[n][w][e]
 [s][vp 8 2 1 0 2 0]Olha Você aqui! Melhor agora? Você não parece[n]mais envergonhado, não é?[n][w][e]
 
-[msg MSG_TIKAAIDORU_010_3_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_010_3_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Ding ding![n][f 4 1]-san, certo?[n][w][e]
 [s][vp 8 2 1 0 2 0]Obrigado por seu apoio constante![n]Estou carregando minha super barra de energia![n][w][e]
 [s][vp 8 2 1 0 2 0]Agora está cheio![n]É hora de voltar ao trabalho![n]Vamos trabalhar![n][w][e]
 
-[msg MSG_TIKAAIDORU_010_4_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_010_4_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Quer material promocional?[n]Temos ofertas imperdíveis[n]no momento![n][w][e]
 [s][vp 8 2 1 0 2 0]Ambarabá cicí cocó,[n]Ladri Fantasma sul comòòò♪[n][w][e]
 
@@ -727,27 +727,27 @@
 [s]biscoito D-kyun[e]
 [s]Eu não quero nada.[e]
 
-[msg MSG_TIKAAIDORU_010_5_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_010_5_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Oooh, você é um verdadeiro conhecedor![n]Aqui está o seu[n]"Chika-chan Drinco"![n][w][e]
 [s][vp 8 2 1 0 2 0]Tem um gosto ótimo, eu garanto. Acabei de mudar[n]o rótulo![n][w][e]
 
-[msg MSG_TIKAAIDORU_010_6_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_010_6_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]È il nuovo brano dei D-kyun![n]Ecco "He's a Trick☆ster→"![n][w][e]
 [s][vp 8 2 1 0 2 0]A primeira série é uma[n]edição limitada! Você tem muita sorte.[n]Que emocionante![n][w][e]
 
-[msg MSG_TIKAAIDORU_010_7_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_010_7_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Feito em casa com os melhores[n]ingredientes por D-kyun! É o[n]"biscoito D-kyun"![n][w][e]
 [s][vp 8 2 1 0 2 0]Coma e seu coração...[n]será roubado?[n]Uh, que ansiedade![n][w][e]
 
-[msg MSG_TIKAAIDORU_010_8_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_010_8_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Hum? Você já comprou[n]um! Estou tão felizeeee![n][w][e]
 [s][vp 8 2 1 0 2 0]Continue e você completará toda a[n]coleção! E talvez então[n]algo bom aconteça.[n][w][e]
 
-[msg MSG_TIKAAIDORU_010_9_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_010_9_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Que decepção... soluço.[n]Mas estamos nos tornando cada vez mais[n]famosos...[n][w][e]
 [s][vp 8 2 1 0 2 0]Certamente o preço aumentará[n]no futuro! Compre agora,[n]antes que seja tardeii![n][w][e]
 
-[msg MSG_TIKAAIDORU_011_0_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_011_0_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Oi, [f 4 1]-san![n]Mm-hm, eu me lembro de você![n][w][e]
 [s][vp 8 2 1 0 2 0]Um dos pontos fortes de D-kyun[n]é que nos conectamos com os fãs![n][w][e]
 
@@ -756,22 +756,22 @@
 [s]Bizarro...[e]
 [s]Você fica ocupado.[e]
 
-[msg MSG_TIKAAIDORU_011_1_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_011_1_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Heheheh, por favor,[n][f 4 1]-san! Heheheheh![n][w][e]
 [s][vp 8 2 1 0 2 0]Espero que você continue a apoiar[n]i D-kyun! OK? OK?[n][w][e]
 
-[msg MSG_TIKAAIDORU_011_2_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_011_2_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Wahhh, não diga isso,[n]ou vou acabar te odiando, ok? OK?[n][w][e]
 
-[msg MSG_TIKAAIDORU_011_3_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_011_3_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Bem, eu faço o que amo.[n]Estou sempre cheio de energia![n][w][e]
 [s][vp 8 2 1 0 2 0]Vou trabalhar mais[n]quando [f 4 1]-san me der[n]um pouco de seu poder![n][w][e]
 
-[msg MSG_TIKAAIDORU_011_4_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_011_4_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0][f 4 1]-san, D-kyun está[n]indo muito bem ultimamente,[n]certo? Viva![n][w][e]
 [s][vp 8 2 1 0 2 0]A popularidade dos Phantom Thieves[n]está disparando! Woosh! E nossa[n]popularidade também![n][w][e]
 
-[msg MSG_TIKAAIDORU_011_6_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_011_6_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Oh, você é quem sempre vem[n]me ver! Fico feliz em vê-lo novamente![n][w][e]
 [s][vp 8 2 1 0 2 0]Eu gostaria de conhecê-lo um pouco melhor,[n]OK? OK? Você poderia me dizer[n]qual é o seu nome?[n][w][e]
 
@@ -779,15 +779,15 @@
 [s]Diga a ela seu nome.[e]
 [s]Não.[e]
 
-[msg MSG_TIKAAIDORU_011_7_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_011_7_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Passo a passooo...[n]Estamos chegando mais perto![n][w][e]
 [s][vp 8 2 1 0 2 0][f 4 1]-san, espero que continue a apoiar[n]i D-kyun! OK? OK?[n][w][e]
 
-[msg MSG_TIKAAIDORU_011_8_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_011_8_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Quão ruim você é.[n][w][e]
 [s][vp 8 2 1 0 2 0]Quero te conhecer melhor.[n]Essa pequena distância[n]entre nós me irrita.[n][w][e]
 
-[msg MSG_TIKAAIDORU_011_9_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_011_9_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]A banda idol D-kyun[n]arranjou outra de suas[n]famosas vendas diretas! Viva![n][w][e]
 [s][vp 8 2 1 0 2 0]Restam apenas algumas peças, graças[n]à popularidade dos Phantom Thieves![n]Gostaria que fosse assim![n][w][e]
 [s][vp 8 2 1 0 2 0]Ambarabá cicí cocó,[n]Ladri Fantasma sul comòòò♪[n][w][e]
@@ -798,27 +798,27 @@
 [s]biscoito D-kyun[e]
 [s]Eu não quero nada.[e]
 
-[msg MSG_TIKAAIDORU_011_10_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_011_10_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Uma Concentração de Amor![n]O "Chika-chan Drinco"![n][w][e]
 [s][vp 8 2 1 0 2 0]Não perca artigos semelhantes,[n]OK? OK? Vamos![n][w][e]
 
-[msg MSG_TIKAAIDORU_011_11_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_011_11_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Anche le note stonate possono[n]essere affascinanti! Questo è[n]"He's a Trickster☆"![n][w][e]
 [s][vp 8 2 1 0 2 0]Esta é a primeira série[n]da edição limitada! Compre,[n]ou será tarde demais![n][w][e]
 
-[msg MSG_TIKAAIDORU_011_12_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_011_12_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Já expirou há muito tempo?[n]Isso torna ainda mais emocionante![n]Este é o "D-kyun Cookie"![n][w][e]
 [s][vp 8 2 1 0 2 0]Fiz com muito amor.[n]Coma devagar e[n]aproveite, ok? OK?[n][w][e]
 
-[msg MSG_TIKAAIDORU_011_13_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_011_13_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Não! Você já comprou![n]Umpf![n][w][e]
 [s][vp 8 2 1 0 2 0]Continue e você completará toda a[n]coleção! E talvez então[n]algo bom aconteça.[n][w][e]
 
-[msg MSG_TIKAAIDORU_011_14_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_011_14_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]OmgGosh... Estamos em pleno[n]Fever de Phantasmaaa Thieves!![n][w][e]
 [s][vp 8 2 1 0 2 0]Não é minha culpa que eles desapareceram, ok?[n]OK?[n][w][e]
 
-[msg MSG_TIKAAIDORU_012_0_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_012_0_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Rufar de tambores... Vamos ver[n]que assuntos estão[n]falando na cidade![n][w][e]
 [s][vp 8 2 1 0 2 0]Phantom Thieves no centro das atenções![n]Ídolos inspirados pelos Phantom Thieves[n]oferecem novas linhas de produtos![n][w][e]
 [s][vp 8 2 1 0 2 0]Ta-daaa♪ Potremmo avere un'offerta[n]da "Good Morning Japan"? Wow![n][w][e]
@@ -827,16 +827,16 @@
 [s]Bom para você.[e]
 [s]Não exagere.[e]
 
-[msg MSG_TIKAAIDORU_012_1_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_012_1_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Obrigado, [f 4 1]-san![n]A descoberta do Fanta-idol foi[n]um grande sucesso![n][w][e]
 
-[msg MSG_TIKAAIDORU_012_2_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_012_2_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Eu vou ficar bem, [f 4 1]-san![n]Estou pegando uma enorme onda[n]de popularidade! Respingo respingo![n][w][e]
 
-[msg MSG_TIKAAIDORU_012_3_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_012_3_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]As vendas estão indo ótimas! D-kyun apóia os[n]Phantom Thieves ao máximo![n][w][e]
 
-[msg MSG_TIKAAIDORU_012_4_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_012_4_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Rufar de tambores... Vamos ver[n]que assuntos estão[n]falando na cidade![n][w][e]
 [s][vp 8 2 1 0 2 0]Phantom Thieves no centro das atenções![n]Ídolos inspirados pelos Phantom Thieves[n]oferecem novas linhas de produtos![n][w][e]
 [s][vp 8 2 1 0 2 0]Ta-daaa♪ Potremmo avere un'offerta[n]da "Good Morning Japan"? Wow![n][w][e]
@@ -845,23 +845,23 @@
 [s]Bom para você.[e]
 [s]Não exagere.[e]
 
-[msg MSG_TIKAAIDORU_012_5_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_012_5_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Obrigado, [f 4 1]-san![n]A descoberta do Fanta-idol foi[n]um grande sucesso![n][w][e]
 
-[msg MSG_TIKAAIDORU_012_6_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_012_6_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Eu vou ficar bem, [f 4 1]-san![n]Estou pegando uma enorme onda[n]de popularidade! Respingo respingo![n][w][e]
 
-[msg MSG_TIKAAIDORU_012_7_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_012_7_0 [Ídolo independente de pouca fama]]
 [s][vp 8 2 1 0 2 0]As vendas estão indo ótimas! D-kyun apóia os[n]Phantom Thieves ao máximo![n][w][e]
 
-[msg MSG_TIKAAIDORU_013_0_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_013_0_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Os Phantom Thieves estão ficando mais famosos! A[n]popularidade de D-kyun também está aumentando![n][w][e]
 [s][vp 8 2 1 0 2 0]Eles não podem mais nos chamar de "indie"! Nossos[n]objetos vendem como bolos quentes![n][w][e]
 
-[msg MSG_TIKAAIDORU_013_1_0 [Uomo ossessionato]]
+[msg MSG_TIKAAIDORU_013_1_0 [Homem obcecado]]
 [s][f 4 23 1 3 3 10 0 10][vp 8 2 1 0 3 0]E-Entendo. Estou feliz...[n]que você tem novos fãs...[n][w][e]
 
-[msg MSG_TIKAAIDORU_013_2_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_013_2_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Direto para o sucesso![n]Uh-uh! Você está feliz por mim,[n]você está, [f 4 1]-san?[n][w][e]
 
 [sel SEL_TIKAAIDORU_013_0_0 top]
@@ -869,26 +869,26 @@
 [s]Estou um pouco triste.[e]
 [s]Eu não gosto.[e]
 
-[msg MSG_TIKAAIDORU_013_3_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_013_3_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Verdadeiro? Uau? Se continuar assim, posso me[n]tornar uma estrela internacional![n][w][e]
 
-[msg MSG_TIKAAIDORU_013_4_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_013_4_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Ouuu, você está ficando com ciúmes?[n]Não se preocupe, eu sou o ídolo de todos![n][w][e]
 
-[msg MSG_TIKAAIDORU_013_5_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_013_5_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Mmm... [f 4 1]-san está com raiva. Então você não[n]gosta de Phantom Thieves...[n][w][e]
 
-[msg MSG_TIKAAIDORU_013_6_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_013_6_0 [Ídolo independente de pouca fama]]
 [s][vp 8 2 1 0 2 0]Eles enviaram a carta de aviso![n]Estamos torcendo pelos Phantom Thieves![n]Cuidado com os bandidos![n][w][e]
 
-[msg MSG_TIKAAIDORU_013_7_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_013_7_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Os Phantom Thieves estão ficando mais famosos! A[n]popularidade de D-kyun também está aumentando![n][w][e]
 [s][vp 8 2 1 0 2 0]Eles não podem mais nos chamar de "indie"! Nossos[n]objetos vendem como bolos quentes![n][w][e]
 
-[msg MSG_TIKAAIDORU_013_8_0 [Uomo ossessionato]]
+[msg MSG_TIKAAIDORU_013_8_0 [Homem obcecado]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 3 0]E-Entendo. Estou feliz...[n]que você tem novos fãs...[n][w][e]
 
-[msg MSG_TIKAAIDORU_013_9_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_013_9_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Direto para o sucesso![n]Uh-uh! Você está feliz por mim,[n]você está, [f 4 1]-san?[n][w][e]
 
 [sel SEL_TIKAAIDORU_013_1_0 top]
@@ -896,19 +896,19 @@
 [s]Estou um pouco triste.[e]
 [s]Você me deixa com raiva.[e]
 
-[msg MSG_TIKAAIDORU_013_10_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_013_10_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Verdadeiro? Veheer? Espero que você[n]continue a me apoiar, então[n]eu terei sucesso em todo o mundo![n][w][e]
 
-[msg MSG_TIKAAIDORU_013_11_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_013_11_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Não se preocupe![n]D-kyun é o ídolo de todos![n][w][e]
 
-[msg MSG_TIKAAIDORU_013_12_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_013_12_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Mwaaah, não diga isso.[n]Para não desanimar![n][w][e]
 
-[msg MSG_TIKAAIDORU_013_13_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_013_13_0 [Ídolo independente de pouca fama]]
 [s][vp 8 2 1 0 2 0]Eles enviaram a carta de aviso![n]Estamos torcendo pelos Phantom Thieves![n]Cuidado com os bandidos![n][w][e]
 
-[msg MSG_TIKAAIDORU_014_0_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_014_0_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Oh, não... na Internet e na[n]TV todos eles insultam[n]os Ladrões Fantasmas...[n][w][e]
 [s][vp 8 2 1 0 2 0]E eles estão começando com[n]i Fanta-idol também... É um problema real[n]... O que eu faço?[n][w][e]
 
@@ -917,31 +917,31 @@
 [s]Não se preocupe com isso.[e]
 [s]Me deixe fazê-lo.[e]
 
-[msg MSG_TIKAAIDORU_014_1_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_014_1_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Não consigo...[n]sinto que estou me afogando[n]nesse mar de comentários.[n][w][e]
 
-[msg MSG_TIKAAIDORU_014_2_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_014_2_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Se as pessoas começarem a me assediar online,[n]minha carreira de ídolo está condenada. Wahhhh![n][w][e]
 
-[msg MSG_TIKAAIDORU_014_3_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_014_3_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Maaa é[n]impossível![n]Solução, soluço.[n][w][e]
 
-[msg MSG_TIKAAIDORU_014_4_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_014_4_0 [Ídolo independente de pouca fama]]
 [s][vp 8 2 1 0 2 0]Não posso continuar com a[n]ocorrência de publicidade... quer dizer,[n]com o respondente.[n][w][e]
 [s][vp 8 2 1 0 2 0]Bem quando pensei que[n]consegui, tenho que voltar[n]a ser um ídolo indie ... Soluço.[n][w][e]
 
-[msg MSG_TIKAAIDORU_015_0_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_015_0_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Confira online...[n]a popularidade de D-kyun[n]desabou...[n][w][e]
 [s][vp 8 2 1 0 2 0]Eles dizem que[n]"amigos de assassinos"[n]devem desaparecer. Soluço...[n][w][e]
 
-[msg MSG_TIKAAIDORU_015_1_0 [Uomo ossessionato]]
+[msg MSG_TIKAAIDORU_015_1_0 [Homem obcecado]]
 [s][f 4 23 1 3 3 10 0 10][vp 8 2 1 0 3 0]Deixe-os estar. Fãs de verdade como nós[n]sempre irão apoiá-lo...[n][w][e]
 
-[msg MSG_TIKAAIDORU_015_2_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_015_2_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Maaa tudo vai ficar bem![n]Eu criei um plano secreto[n]para consertar tudo![n][w][e]
 [s][vp 8 2 1 0 2 0]Apenas faça isso...e aquilo...[n]Eu sou um gênio! Hehehe.[n][w][e]
 
-[msg MSG_TIKAAIDORU_016_0_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_016_0_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Mwaaah, [f 4 1]-san...[n]Temos um grande problema.[n][w][e]
 [s][vp 8 2 1 0 2 0]Alguém escreveu online que[n]os Phantom Thieves são maus e que[n]ele vai me matar por apoiá-los.[n][w][e]
 [s][vp 8 2 1 0 2 0]Minha vida privada e[n]meu nome real já são[n]conhecidos por todos. Oooh...[n][w][e]
@@ -951,35 +951,35 @@
 [s]Eu vou proteger você.[e]
 [s]Pergunte aos ladrões fantasmas.[e]
 
-[msg MSG_TIKAAIDORU_016_1_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_016_1_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]N-nem pense nisso![n][w][e]
 [s][vp 8 2 1 0 2 0]A polícia está ocupada com[n]o incidente dos Ladrões Fantasmas,[n]você sabe? Vamos ver o que acontece...[n][w][e]
 
-[msg MSG_TIKAAIDORU_016_2_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_016_2_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Eu não posso! Os Phantom Thieves[n]são assassinos, sabia? Brrr...[n][w][e]
 [s][vp 8 2 1 0 2 0]Se realmente...[n]Não, não, não, não posso![n][w][e]
 
-[msg MSG_TIKAAIDORU_016_3_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_016_3_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Obrigado, [f 4 1]-san. Você é muito gentil. Você[n]me faz feliz, mas eu vou ficar bem, sabe?[n][w][e]
 [s][vp 8 2 1 0 2 0]Olha, aqui está um original...[n]Não, não, esquece![n][w][e]
 
-[msg MSG_TIKAAIDORU_016_4_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_016_4_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Não acredito que eles[n]me ameaçaram de morte. Pobre de mim.[n][w][e]
 [s][vp 8 2 1 0 2 0]Talvez algo assim[n]atraia a atenção do público.[n]Espero que aconteça logo...[n][w][e]
 [s][vp 8 2 1 0 2 0]Então a reputação de D-kyun...[n]Scheeerzo...[n]Eu não quis dizer isso. Heheheh.[n][w][e]
 
-[msg MSG_TIKAAIDORU_016_5_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_016_5_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Alguém escreveu online que[n]os Phantom Thieves são maus e que[n]ele vai me matar por apoiá-los.[n][w][e]
 [s][vp 8 2 1 0 2 0]Minha vida privada e[n]meu nome real já são[n]conhecidos por todos. Oooh...[n][w][e]
 
-[msg MSG_TIKAAIDORU_016_6_0 [Uomo ossessionato]]
+[msg MSG_TIKAAIDORU_016_6_0 [Homem obcecado]]
 [s][f 4 23 1 3 3 10 0 10][vp 8 2 1 0 3 0]Seria terrível se[n]coisa acontecesse com Chika-chan! Vamos[n]imediatamente à polícia![n][w][e]
 
-[msg MSG_TIKAAIDORU_016_7_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_016_7_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]N-nem pense nisso![n][w][e]
 [s][vp 8 2 1 0 2 0]A polícia está ocupada com[n]o incidente dos Ladrões Fantasmas,[n]você sabe? Vamos ver o que acontece...[n][w][e]
 
-[msg MSG_TIKAAIDORU_016_8_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_016_8_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Não acredito que eles[n]me ameaçaram de morte. Pobre de mim.[n][w][e]
 [s][vp 8 2 1 0 2 0]Talvez algo assim[n]atraia a atenção do público.[n]Espero que aconteça logo...[n][w][e]
 [s][vp 8 2 1 0 2 0]Então a reputação de D-kyun...[n]Scheeerzo...[n]Eu não quis dizer isso. Heheheh.[n][w][e]
@@ -987,10 +987,10 @@
 [msg MSG_quest35_morgana_01 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Parece que encontramos nosso[n]objetivo! Vamos discutir isso com[n]os outros no esconderijo![n][w][e]
 
-[msg HELP_MEMENTOS_MISSION_01 [Missione disponibile!]]
+[msg HELP_MEMENTOS_MISSION_01 [Missão disponível!]]
 [s][clr 4]Conflito de lembrança[clr 27]"[n]O alvo foi identificado.[n]Discuta os detalhes com a[n]equipe no "[clr 2]esconderijo[clr 27]".[n][w][e]
 
-[msg MSG_TIKAAIDORU_017_0_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_017_0_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Sinto muito. Eu era ruim.[n]Eu tentei me tornar mais[n]popular por engano...[n][w][e]
 [s][vp 8 2 1 0 2 0]Quero pedir desculpas a todos.[n]Não vou mais usar[n]contas falsas online.[n][w][e]
 
@@ -999,49 +999,49 @@
 [s]Reflita sobre suas ações.[e]
 [s]O que você vai fazer agora?[e]
 
-[msg MSG_TIKAAIDORU_017_1_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_017_1_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Você estava preocupado comigo?[n]Por favor, me perdoe, eu fui[n]realmente estúpido...[n][w][e]
 
-[msg MSG_TIKAAIDORU_017_2_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_017_2_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Eu sou. Eu causei[n]problemas para tantas pessoas...[n][w][e]
 
-[msg MSG_TIKAAIDORU_017_3_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_017_3_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]A moda dos Ladrões Fantasmas[n]está diminuindo. Talvez a[n]band eventualmente se separe...[n][w][e]
 
-[msg MSG_TIKAAIDORU_017_4_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_017_4_0 [Ídolo independente de pouca fama]]
 [s][vp 8 2 1 0 2 0]Eu deveria procurar outra[n]colaboração. O que você acha do Sr. Shido?[n][w][e]
 [s][vp 8 2 1 0 2 0]Um ídolo político! Eleição com[n]votos dos torcedores! Alguém já[n]fez isso, hein? Soluço...[n][w][e]
 
-[msg MSG_TIKAAIDORU_018_0_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_018_0_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Ei, [f 4 1]-san.[n]Você é meu fã, não é?[n][w][e]
 
 [sel SEL_TIKAAIDORU_018_0_0 top]
 [s]Claro que sim.[e]
 [s]Não exatamente.[e]
 
-[msg MSG_TIKAAIDORU_018_1_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_018_1_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Sob... [f 4 1]-san,[n]você é meu paladino! Apesar[n]das coisas estúpidas que eu fiz...[n][w][e]
 
-[msg MSG_TIKAAIDORU_018_2_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_018_2_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]E agora você me odeia...[n]eu te entendo...[n]sou um tolo.[n][w][e]
 
-[msg MSG_TIKAAIDORU_018_3_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_018_3_0 [Ídolo independente de pouca fama]]
 [s][vp 8 2 1 0 2 0]Quando descobriram que eu[n]inventei as ameaças, alguns[n]ficaram aliviados…[n][w][e]
 [s][vp 8 2 1 0 2 0]Os fãs realmente se importavam comigo...[n][w][e]
 [s][vp 8 2 1 0 2 0]Será que posso retribuir...[n]só sei cantar...[n][w][e]
 
-[msg MSG_TIKAAIDORU_018_4_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_018_4_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Você veio me ver de novo,[n]mesmo com todos aqueles outros[n]ídolos por aí…[n][w][e]
 
-[msg MSG_TIKAAIDORU_018_5_0 [Uomo ossessionato]]
+[msg MSG_TIKAAIDORU_018_5_0 [Homem obcecado]]
 [s][vp 8 2 1 0 3 0]Se você está bem, eu também estou.[n]Sempre serei seu fã, mesmo que[n]você volte a ser um ídolo indie.[n][w][e]
 
-[msg MSG_TIKAAIDORU_018_6_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_018_6_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Achei que todo mundo iria[n]abandonar-me depois de descobrir[n]a verdade sobre essas ameaças, mas…[n][w][e]
 [s][vp 8 2 1 0 2 0]Os fãs realmente se importavam comigo...[n][w][e]
 [s][vp 8 2 1 0 2 0]Será que posso retribuir...[n]só sei cantar...[n][w][e]
 
-[msg MSG_TIKAAIDORU_019_0_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_019_0_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 3 3 10 0 10][vp 8 2 1 0 2 0]Queríamos retribuir a todos os nossos[n]apoiadores, então pensamos em como fazê-lo.[n][w][e]
 [s][vp 8 2 1 0 2 0]D-kyun é uma banda idol, então[n]decidimos expressar o que[n]nós sentimos com uma música![n][w][e]
 [s][vp 8 2 1 0 2 0]Chama-se "My Treasure"![n]Vai demorar um pouco até[n]estar à venda![n][w][e]
@@ -1054,29 +1054,29 @@
 [msg MSG_TIKAAIDORU_019_1_0 [Idol indipendente di scarsa fama]]
 [s][f 4 23 1 3 3 10 0 10][vp 8 2 1 0 2 0]Hehe. Espero que você[n]mal possa esperar também.[n][w][e]
 
-[msg MSG_TIKAAIDORU_019_2_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_019_2_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 3 3 10 0 10][vp 8 2 1 0 2 0][f 4 1]-san, você estava com raiva de mim? Você[n]estava muito preocupado? Sinto muito...[n][w][e]
 
-[msg MSG_TIKAAIDORU_019_3_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_019_3_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 3 3 10 0 10][vp 8 2 1 0 2 0]Não posso tocar ao vivo[n]sem uma licença. Sinto muito,[n]mas não quero incomodar ninguém.[n][w][e]
 
-[msg MSG_TIKAAIDORU_019_4_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_019_4_0 [Ídolo independente de pouca fama]]
 [s][vp 8 2 1 0 2 0]Aqui, a verdade é que este será[n]meu último single. Eu darei tudo,[n]então espero que você ouça.[n][w][e]
 
-[msg MSG_TIKAAIDORU_019_5_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_019_5_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 3 3 10 0 10][vp 8 2 1 0 2 0]Queríamos retribuir a todos os nossos[n]apoiadores, então[n]queríamos lançar uma nova música.[n][w][e]
 [s][vp 8 2 1 0 2 0]Chama-se "My Treasure"![n]Vai demorar um pouco até[n]estar à venda![n][w][e]
 
-[msg MSG_TIKAAIDORU_019_6_0 [Uomo ossessionato]]
+[msg MSG_TIKAAIDORU_019_6_0 [Homem obcecado]]
 [s][vp 8 2 1 0 3 0]Sim Sim! Vou comprar com certeza![n]Vou comprar pelo menos 50![n][w][e]
 
-[msg MSG_TIKAAIDORU_019_7_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_019_7_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 3 3 10 0 10][vp 8 2 1 0 2 0]Aqui, a verdade é que este será[n]meu último single. Eu darei tudo,[n]então espero que você ouça.[n][w][e]
 
-[msg MSG_TIKAAIDORU_019_8_0 [Uomo ossessionato]]
+[msg MSG_TIKAAIDORU_019_8_0 [Homem obcecado]]
 [s][vp 8 2 1 0 3 0]Gosta? Você quer sair da banda?!? Você está[n]brincando, não é? Diga-me que é uma piada.[n]Chika-chan![n][w][e]
 
-[msg MSG_TIKAAIDORU_020_0_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_020_0_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]O último single de D-kyun,[n]"My Treasure", está[n]à venda agora![n][w][e]
 [s][vp 8 2 1 0 2 0]Apenas 500 ienes! Um preço generoso[n]para mostrar o quanto apreciamos[n]nossos fãs! Yuppie![n][w][e]
 [s][vp 8 2 1 0 2 0]E depois disso, vou sair da banda! Eu vou voltar[n]a ser uma garota como as outras![n][w][e]
@@ -1086,23 +1086,23 @@
 [s]Não desista![e]
 [s]E os outros membros?[e]
 
-[msg MSG_TIKAAIDORU_020_1_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_020_1_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Você prometeu não contar...[n]Solução. Bem, eu era apenas um ídolo indie[n]inferior...[n][w][e]
 [s][vp 8 2 1 0 2 0]Eu causei muitos problemas[n]e quero consertá-los.[n][w][e]
 
-[msg MSG_TIKAAIDORU_020_2_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_020_2_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Desculpe aos fãs que[n]dizem isso… Sob.[n][w][e]
 [s][vp 8 2 1 0 2 0]No entanto, se eu continuar a idolatrar,[n]esse lado feio de mim pode[n]aparecer novamente. Brrr...[n][w][e]
 
-[msg MSG_TIKAAIDORU_020_3_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_020_3_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Agora que os Phantom Thieves se foram, a banda[n]deixará de ser o Fanta-ídolo.[n][w][e]
 [s][vp 8 2 1 0 2 0]Eles mudarão gradualmente, passo[n]a passo, então por favor[n]apoie-os![n][w][e]
 
-[msg MSG_TIKAAIDORU_020_4_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_020_4_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]É final da primavera.[n]É o momento ideal para[n]um novo começo.[n][w][e]
 [s][vp 8 2 1 0 2 0]Ainda bem que vi você[n]uma última vez. Obrigado por tudo,[n][f 4 1]-san.[n][w][e]
 
-[msg MSG_TIKAAIDORU_020_5_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_020_5_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]O último single de D-kyun,[n]"My Treasure", está[n]à venda agora![n][w][e]
 [s][vp 8 2 1 0 2 0]Apenas 500 ienes! Um preço generoso[n]para mostrar o quanto apreciamos[n]nossos fãs! Yuppie![n][w][e]
 [s][vp 8 2 1 0 2 0]E depois disso, vou sair da banda! Eu vou voltar[n]a ser uma garota como as outras![n][w][e]
@@ -1112,36 +1112,36 @@
 [s]Não desista![e]
 [s]E os outros membros?[e]
 
-[msg MSG_TIKAAIDORU_020_6_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_020_6_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Você prometeu não contar...[n]Solução. Bem, eu era apenas um ídolo indie[n]inferior...[n][w][e]
 [s][vp 8 2 1 0 2 0]Eu causei muitos problemas[n]e quero consertá-los.[n][w][e]
 
-[msg MSG_TIKAAIDORU_020_7_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_020_7_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Desculpe aos fãs que[n]dizem isso… Sob.[n][w][e]
 [s][vp 8 2 1 0 2 0]No entanto, se eu continuar a idolatrar,[n]esse lado feio de mim pode[n]aparecer novamente. Brrr...[n][w][e]
 
-[msg MSG_TIKAAIDORU_020_8_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_020_8_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Agora que os Phantom Thieves se foram, a banda[n]deixará de ser o Fanta-ídolo.[n][w][e]
 [s][vp 8 2 1 0 2 0]Eles mudarão gradualmente, passo[n]a passo, então por favor[n]apoie-os![n][w][e]
 
-[msg MSG_TIKAAIDORU_020_9_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_020_9_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]A faixa bônus deste último[n]single é uma apreciação[n]para os Phantom Thieves...[n][w][e]
 [s][vp 8 2 1 0 2 0]Chama-se "Innocent[n]all the way"! Obrigado[n]por tudo... Adeus![n][w][e]
 
-[msg Quest02_target_00_00 [Casalinga preoccupata]]
+[msg Quest02_target_00_00 [Dona de casa preocupada]]
 [s][f 4 23 1 601 3 10 0 0][vp 8 2 1 0 601 0]Megumi-san![n]Pare, pare, por favor![n][w][e]
 
 [msg Quest02_target_00_01 [Megumi Hoshii]]
 [s][f 4 23 1 600 3 10 0 0][vp 8 2 1 0 600 0]Hã? Do que ele está falando?[n][w][e]
 
-[msg Quest02_target_00_02 [Casalinga preoccupata]]
+[msg Quest02_target_00_02 [Dona de casa preocupada]]
 [s][f 4 23 1 601 3 10 0 0][vp 8 2 1 0 601 0]Esse é o brinquedo fofinho do meu[n]bebê! Ele não[n]apenas colocou na bolsa?[n][w][e]
 
 [msg Quest02_target_00_03 [Megumi Hoshii]]
 [s][f 4 23 1 600 3 10 0 0][vp 8 2 1 0 600 0]Oh aquilo? Você ainda precisa dele?[n][w][e]
 [s][vp 8 2 1 0 600 0]O filho dele[n]já estava ficando cansado e eu pensei em[n]evitar que ele fosse jogado fora.[n][w][e]
 
-[msg Quest02_target_00_04 [Casalinga preoccupata]]
+[msg Quest02_target_00_04 [Dona de casa preocupada]]
 [s][f 4 23 1 601 3 10 0 0][vp 8 2 1 0 601 0]Se você quer um, você compra![n]Tirar algo dos outros[n]desse jeito é roubar![n][w][e]
 
 [msg Quest02_target_00_05 [Megumi Hoshii]]
@@ -1152,10 +1152,10 @@
 [msg MSG_quest02_morgana_01 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Eu diria que temos nosso[n]objetivo. Hora de discutir[n]um plano no Hangout![n][w][e]
 
-[msg HELP_MEMENTOS_MISSION_02 [Aggiornamento missione!]]
+[msg HELP_MEMENTOS_MISSION_02 [Atualização da missão!]]
 [s][clr 4]Conflito nos Mementos[clr 27][n]O alvo foi identificado.[n]Vamos discutir isso no "[clr 2]esconderijo[clr 27]".[n][w][e]
 
-[msg Quest02_target_01_00 [Casalinga preoccupata]]
+[msg Quest02_target_01_00 [Dona de casa preocupada]]
 [s][f 4 23 1 601 3 10 0 0][vp 8 2 1 0 601 0]Eu já tive o suficiente! Quantas[n]vezes ele já fez isso?!?[n][w][e]
 
 [msg Quest02_target_01_01 [Megumi Hoshii]]
@@ -1163,7 +1163,7 @@
 [s][vp 8 2 65535 0 0 0]......[n][w][e]
 [s][vp 8 2 1 0 600 0]Huh? O que é?[n]Alguém me escreveu uma carta?[n][w][e]
 
-[msg Quest02_target_01_02 [Casalinga preoccupata]]
+[msg Quest02_target_01_02 [Dona de casa preocupada]]
 [s][f 4 23 1 601 3 10 0 0][vp 8 2 1 0 601 0]Mas isso não é uma carta de aviso?[n]Daqueles Phantom Thieves, ou como quer que[n]eles sejam chamados, que estavam na TV.[n][w][e]
 
 [msg Quest02_target_01_03 [Megumi Hoshii]]
@@ -1174,7 +1174,7 @@
 [s][f 4 23 1 600 3 10 0 0][vp 8 2 1 0 600 0]Sinto muito. Eu roubei tudo de você. Eu nunca[n]pensei em como você se sentiria.[n][w][e]
 [s][vp 8 2 1 0 600 0]Vou devolver tudo[n]que roubei de você.[n]Sinto muito.[n][w][e]
 
-[msg Quest02_target_02_01 [Casalinga preoccupata]]
+[msg Quest02_target_02_01 [Dona de casa preocupada]]
 [s][f 4 23 1 601 3 10 0 0][vp 8 2 1 0 601 0]Coisa? O-Obrigado,[n]eu realmente aprecio isso.[n][w][e]
 [s][vp 8 2 1 0 601 0]O que aconteceu com ela, tão de repente? Estou[n]feliz por ter minhas coisas de volta, mas...[n][w][e]
 
@@ -1183,7 +1183,7 @@
 [s][vp 8 2 1 0 600 0]Eu só pensava em mim e nos meus interesses.[n]Eu era egoísta e não[n]me importava em ser um problema para[n]os outros.[n][w][e]
 [s][vp 8 2 1 0 600 0]Vou voltar para meus sogros na próxima semana.[n]Vou tentar começar de novo.[n][w][e]
 
-[msg Quest02_target_02_03 [Casalinga preoccupata]]
+[msg Quest02_target_02_03 [Dona de casa preocupada]]
 [s][f 4 23 1 601 3 10 0 0][vp 8 2 1 0 601 0]Ooh realmente...?[n][w][e]
 [s][vp 8 2 65535 0 0 0]......[n][w][e]
 [s][vp 8 2 1 0 601 0]Então realmente existe alguém que[n]muda o coração das pessoas![n]Estou feliz que seja tudo verdade.[n][w][e]
@@ -1191,22 +1191,22 @@
 [msg Quest02_target_sinjyo_02]
 [s][vp 8 2 65535 0 0 0]Parece que a missão foi um sucesso...[n][w][e]
 
-[msg quest09_hint_talk_00_00 [Donna sorridente]]
+[msg quest09_hint_talk_00_00 [Mulher sorridente]]
 [s][vp 8 2 1 0 602 0]Kuwai ainda está com o namorado? Outro dia[n]eu a vi com outro homem.[n][w][e]
 
-[msg quest09_hint_talk_00_01 [Donna dall'abbigliamento sobrio]]
+[msg quest09_hint_talk_00_01 [Mulher vestida modestamente]]
 [s][vp 8 2 1 0 603 0]Você a viu também?[n]Talvez esses rumores sobre Sachiko[n]são verdadeiros...[n][w][e]
 
-[msg quest09_hint_talk_00_02 [Donna sorridente]]
+[msg quest09_hint_talk_00_02 [Mulher sorridente]]
 [s][vp 8 2 1 0 602 0]Espere, quais? Ela está traindo ele[n]ou algo assim?[n][w][e]
 
-[msg quest09_hint_talk_00_03 [Donna dall'abbigliamento sobrio]]
+[msg quest09_hint_talk_00_03 [Mulher vestida modestamente]]
 [s][vp 8 2 1 0 603 0]Já. Ela sai com meninos do[n]mesmo ano, também amigos[n]de seu namorado.[n][w][e]
 
-[msg quest09_hint_talk_00_04 [Donna sorridente]]
+[msg quest09_hint_talk_00_04 [Mulher sorridente]]
 [s][vp 8 2 1 0 602 0]Gosta?!? Mas você tem ideia do risco que corre? E[n]o namorado dela não sabe de nada?[n][w][e]
 
-[msg quest09_hint_talk_00_05 [Donna dall'abbigliamento sobrio]]
+[msg quest09_hint_talk_00_05 [Mulher vestida modestamente]]
 [s][vp 8 2 1 0 603 0]Não sei. Ele deveria[n]ter descoberto até agora, vendo quantas[n]vezes isso aconteceu...[n][w][e]
 
 [msg quest09_hint_sinjyo_00]
@@ -1215,21 +1215,21 @@
 [msg MSG_quest09_morgana_00 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Excelente! Acabamos de ouvir[n]algo interessante![n][w][e]
 
-[msg HELP_QUEST09_HINT [Missione disponibile!]]
+[msg HELP_QUEST09_HINT [Missão disponível!]]
 [s]"[clr 4]Tutorial[clr 27]"[n]Obtenha dicas de NPCs[n]com os [clr 2]balões vermelhos[clr 27].[n][w][e]
 
-[msg Quest11_target_00_00 [homem bêbado]]
+[msg Quest11_target_00_00 [Homem bêbado]]
 [s][f 4 23 1 604 3 10 0 0][vp 8 2 1 0 604 0]Que diabos cara![n]Você quer algo de mim?!?[n][w][e]
 
 [sel Quest11_target_SEL_00 top]
 [s]Tudo está bem?[e]
 [s]Não, na verdade não.[e]
 
-[msg Quest11_target_00_01 [homem bêbado]]
+[msg Quest11_target_00_01 [Homem bêbado]]
 [s][f 4 23 1 604 3 10 0 0][vp 8 2 1 0 604 0]Então, por que você está me assistindo?[n]Eu não sou um moshtra[n]para assistir por diversão![n][w][e]
 [s][vp 8 2 1 0 604 0]Atire em nós imediatamente,[n]pequeno idiota! zumbir![n][w][e]
 
-[msg Quest11_target_00_02 [homem bêbado]]
+[msg Quest11_target_00_02 [Homem bêbado]]
 [s][f 4 23 1 604 3 10 0 0][vp 8 2 1 0 604 0]Hã? Se shto beneee?[n]O que você quer saber?[n][w][e]
 [s][vp 8 2 1 0 604 0]Menino estúpido! Antes que você possa[n]entender meus problemas, você deve[n]estar em idade de trabalhar![n][w][e]
 
@@ -1280,7 +1280,7 @@
 [s][vp 8 2 65535 0 0 0]Nesse caso, talvez eu possa[n]fazer-se passar por seu filho e[n]fazer com que ele diga seu nome.[n][w][e]
 [s][vp 8 2 65535 0 0 0]Vamos tentar...[n][w][e]
 
-[msg Quest11_target_00_03 [homem bêbado]]
+[msg Quest11_target_00_03 [Homem bêbado]]
 [s][f 4 23 1 604 3 10 0 0][vp 8 2 1 0 604 0]Que diabos, cara![n]Você quer algo de mim?!?[n][w][e]
 [s][vp 8 2 1 0 604 0]Você é maaat se pensa[n]que estou bêbado! E-ei,[n]você está me ouvindo?!?[n][w][e]
 
@@ -1289,7 +1289,7 @@
 [s]Pai, qual é o seu nome?[e]
 [s]Papai, diga seu nome![e]
 
-[msg Quest11_target_00_04 [homem bêbado]]
+[msg Quest11_target_00_04 [Homem bêbado]]
 [s][f 4 23 1 604 3 10 0 0][vp 8 2 1 0 604 0]Hã? Oh, tchau você...[n][w][e]
 [s][vp 8 2 1 0 604 0]Como eu esqueci[n]qual é o meu nome? Não shono[n]tão...bêbado![n][w][e]
 [s][vp 8 2 1 0 604 0]Meu nome é... Shigeru Ooe![n][w][e]
@@ -1305,7 +1305,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Bom trabalho! Agora que sabemos o nome dele,[n]podemos começar a infiltração![n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Vamos falar sobre isso com os outros[n]na reunião![n][w][e]
 
-[msg HELP_MEMENTOS_MISSION_11 [Aggiornamento missione!]]
+[msg HELP_MEMENTOS_MISSION_11 [Atualização da missão!]]
 [s][clr 4]Conflito nos Mementos[clr 27][n]O alvo foi identificado.[n]Vamos discutir isso no "[clr 2]esconderijo[clr 27]".[n][w][e]
 
 [msg Quest11_target_01_00 [Shigeru Ooe]]
@@ -1325,19 +1325,19 @@
 [msg Quest11_target_sinjyo_06]
 [s][vp 8 2 65535 0 0 0]Parece que a missão[n]foi um sucesso...[n][w][e]
 
-[msg quest13_hint_talk_00 [Lavoratrice part time dal trucco pesante]]
+[msg quest13_hint_talk_00 [Trabalhador de meio período com maquiagem pesada]]
 [s][vp 8 2 1 0 606 0]Aquela velhinha tinha uma bolsa linda! Na minha[n]opinião custa cerca de 500.000 ienes ...[n][w][e]
 
-[msg quest13_hint_talk_01 [Amica della lavoratrice part time]]
+[msg quest13_hint_talk_01 [Amigo do trabalhador a tempo parcial]]
 [s][vp 8 2 1 0 605 0]Shiratori-san? Ele frequentemente vem onde eu[n]trabalho meio período. Ele também tem uma[n]associação de platina.[n][w][e]
 
-[msg quest13_hint_talk_02 [Lavoratrice part time dal trucco pesante]]
+[msg quest13_hint_talk_02 [Trabalhador de meio período com maquiagem pesada]]
 [s][vp 8 2 1 0 606 0]Sério? Espere,[n]membro platina de quê?[n][w][e]
 
-[msg quest13_hint_talk_03 [Amica della lavoratrice part time]]
+[msg quest13_hint_talk_03 [Amigo do trabalhador a tempo parcial]]
 [s][vp 8 2 1 0 605 0]Do salão de beleza onde trabalho.[n]Celebridades vêm frequentemente[n]lá.[n][w][e]
 
-[msg quest13_hint_talk_04 [Lavoratrice part time dal trucco pesante]]
+[msg quest13_hint_talk_04 [Trabalhador de meio período com maquiagem pesada]]
 [s][vp 8 2 1 0 606 0]Você está falando sério?!?[n][w][e]
 [s][vp 8 2 1 0 606 0]Nossa, então aquela[n]velha tem muito dinheiro.[n][w][e]
 
@@ -1347,17 +1347,17 @@
 [msg MSG_quest13_morgana_00 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Parece que essa indiscrição[n]tem algo a ver com dinheiro.[n]Vamos encontrar o alvo rapidamente![n][w][e]
 
-[msg quest14_hint_talk_00 [Ex impiegato]]
+[msg quest14_hint_talk_00 [Ex-empregado]]
 [s][vp 8 2 1 0 608 0]Sempre acabo vindo aqui...[n][w][e]
 
-[msg quest14_hint_talk_01 [Donna anziana emancipata]]
+[msg quest14_hint_talk_01 [Idosa emancipada]]
 [s][vp 8 2 1 0 607 0]Você ainda não contou à[n]sua esposa que foi[n]demitido, não é?[n][w][e]
 [s][vp 8 2 1 0 607 0]O que você quer fazer?[n][w][e]
 
-[msg quest14_hint_talk_02 [Ex impiegato]]
+[msg quest14_hint_talk_02 [Ex-empregado]]
 [s][vp 8 2 1 0 608 0]Eu sei que deveria, mas quando vejo[n]minha esposa e meu filho dormindo,[n]não consigo...[n][w][e]
 
-[msg quest14_hint_talk_03 [Donna anziana emancipata]]
+[msg quest14_hint_talk_03 [Idosa emancipada]]
 [s][vp 8 2 1 0 607 0]Bem, você terá uma boa soma à parte. Apresse-se e[n]encontre outro emprego, ok?[n][w][e]
 [s][vp 8 2 1 0 607 0]Você não é como o filho de[n]Nakamura-san. Aquele ingrato joga[n]pachinko com o dinheiro da mãe...[n][w][e]
 
@@ -1370,20 +1370,20 @@
 [msg Quest24_target_00_00 [Showai Shigeta]]
 [s][f 4 23 1 609 3 10 0 0][vp 8 2 1 0 609 0]Ei, quanto você fez esta semana? Sem Kaneshiro[n]por perto, você vai se sair muito bem, hein?[n][w][e]
 
-[msg Quest24_target_00_01 [Jovem grosseiro]]
+[msg Quest24_target_00_01 [Jovem Grosseiro]]
 [s][f 4 23 1 610 3 10 0 0][vp 8 2 1 0 610 0]Não, não muito. A polícia[n]ainda está em alerta.[n][w][e]
 
 [msg Quest24_target_00_02 [Showai Shigeta]]
 [s][f 4 23 1 609 3 10 0 0][vp 8 2 1 0 609 0]Eh, você está com medo por acaso?[n]Se você for pego, você pode[n]sempre mentir.[n][w][e]
 [s][vp 8 2 1 0 609 0]Ouça, tudo que você precisa é de uma faca[n]para roubar das crianças.[n]Qualquer coisa, menos trabalho de meio período![n][w][e]
 
-[msg Quest24_target_00_03 [Jovem grosseiro]]
+[msg Quest24_target_00_03 [Jovem Grosseiro]]
 [s][f 4 23 1 610 3 10 0 0][vp 8 2 1 0 610 0]Você fala bem, você. Seu pai[n]é um policial influente![n][w][e]
 
 [msg Quest24_target_00_04 [Showai Shigeta]]
 [s][f 4 23 1 609 3 10 0 0][vp 8 2 1 0 609 0]Eh, meu pai não notou[n]nada porque ele é estúpido.[n]Sargento Shigeta... bah.[n][w][e]
 
-[msg Quest24_target_00_05 [Jovem grosseiro]]
+[msg Quest24_target_00_05 [Jovem Grosseiro]]
 [s][f 4 23 1 610 3 10 0 0][vp 8 2 1 0 610 0]Minha família não está[n]tão bem, então tenho que escolher[n]alvos de baixo risco.[n][w][e]
 [s][vp 8 2 1 0 610 0]Aponte os do ensino médio nos[n]fliperamas. Não posso correr[n]riscos por algumas centenas de ienes.[n][w][e]
 
@@ -1398,7 +1398,7 @@
 [s][f 4 23 1 609 3 10 0 0][vp 8 2 1 0 609 0]Ei, olhe isso.[n]Alguém me enviou uma carta.[n]Interessante, certo?[n][w][e]
 [s][vp 8 2 1 0 609 0]Aparentemente, é uma daquelas[n]cartas de desafio que vimos na TV![n]Alguém quer tirar sarro de mim?[n][w][e]
 
-[msg Quest24_target_01_01 [Jovem grosseiro]]
+[msg Quest24_target_01_01 [Jovem Grosseiro]]
 [s][f 4 23 1 610 3 10 0 0][vp 8 2 1 0 610 0]Idiota! Olha, o pessoal de[n]Kaneshiro chegou a um fim ruim[n]por algo assim.[n][w][e]
 [s][vp 8 2 1 0 610 0]Você tem que ter cuidado, sabia?[n]Os Phantom Thieves vão[n]roubar seu coração![n][w][e]
 
@@ -1413,13 +1413,13 @@
 [msg Quest24_target_02_00 [Showai Shigeta]]
 [s][f 4 23 1 609 3 10 0 0][vp 8 2 1 0 609 0]Sabe, eu estava pensando em me entregar.[n][w][e]
 
-[msg Quest24_target_02_01 [Jovem grosseiro]]
+[msg Quest24_target_02_01 [Jovem Grosseiro]]
 [s][f 4 23 1 610 3 10 0 0][vp 8 2 1 0 610 0]Coisa? Você está brincando comigo, não é?!?[n][w][e]
 
 [msg Quest24_target_02_02 [Showai Shigeta]]
 [s][f 4 23 1 609 3 10 0 0][vp 8 2 1 0 609 0]Sou muito sério. Você deve[n]entregar-se também.[n][w][e]
 
-[msg Quest24_target_02_03 [Jovem grosseiro]]
+[msg Quest24_target_02_03 [Jovem Grosseiro]]
 [s][f 4 23 1 610 3 10 0 0][vp 8 2 1 0 610 0]Você está louco?[n][w][e]
 [s][vp 8 2 1 0 610 0]Ah Merda. Os Phantom Thieves...[n]Eles ferraram com você![n][w][e]
 
@@ -1427,7 +1427,7 @@
 [s][f 4 23 1 609 3 10 0 0][vp 8 2 1 0 609 0]Ainda bem que[n]consegui a tempo.[n][w][e]
 [s][vp 8 2 1 0 609 0]Se eu continuasse me comportando[n]assim, teria acabado[n]matando alguém.[n][w][e]
 
-[msg Quest24_target_02_05 [Jovem grosseiro]]
+[msg Quest24_target_02_05 [Jovem Grosseiro]]
 [s][f 4 23 1 610 3 10 0 0][vp 8 2 1 0 610 0]Merda! Esqueça![n][w][e]
 [s][vp 8 2 1 0 610 0]Nunca mais se deixe ser visto![n]Se você tentar delatar,[n]mato você![n][w][e]
 
@@ -1437,14 +1437,14 @@
 [msg Quest24_target_sinjyo_02]
 [s][vp 8 2 65535 0 0 0]Parece que o coração[n]do alvo despertou.[n]Vamos torcer para que não haja mais rivais.[n][w][e]
 
-[msg Quest42_target_00_00 [Impiegata]]
+[msg Quest42_target_00_00 [Noivo]]
 [s][f 4 23 1 609 3 10 0 0][vp 8 2 1 0 609 0]Presidente Kanemoto![n]Este não é o lugar certo, mas... hum...[n][w][e]
 
 [msg Quest42_target_00_01 [Seiji Kanemoto]]
 [s][f 4 23 1 610 3 10 0 0][vp 8 2 1 0 610 0]Por enquanto me chame de Seiji. Você não quer[n]aliviar o cansaço[n]do seu presidente?[n][w][e]
 [s][vp 8 2 1 0 610 0]Ajudar-me faz parte do seu trabalho, Ikeda-kun.[n]Ou eu estou errado?[n][w][e]
 
-[msg Quest42_target_00_02 [Impiegata]]
+[msg Quest42_target_00_02 [Noivo]]
 [s][f 4 23 1 609 3 10 0 0][vp 8 2 1 0 609 0]Ajudá-la no trabalho, sim, mas isso...[n][w][e]
 
 [msg Quest42_target_00_03 [Seiji Kanemoto]]
@@ -1452,7 +1452,7 @@
 [s][vp 8 2 1 0 610 0]Uma secretária que não sabe trabalhar é inútil.[n]Você entende o que estou dizendo?[n][w][e]
 [s][vp 8 2 1 0 610 0]Trabalhe bem e eu poderia pagar as contas do[n]hospital de sua mãe. Nós nos entendemos?[n][w][e]
 
-[msg Quest42_target_00_04 [Impiegata]]
+[msg Quest42_target_00_04 [Noivo]]
 [s][f 4 23 1 609 3 10 0 0][vp 8 2 1 0 609 0]S-Sim senhor![n][w][e]
 
 [msg MSG_quest42_morgana_01 [Morgana]]
@@ -1465,19 +1465,19 @@
 [msg Quest42_target_sinjyo_01]
 [s][vp 8 2 65535 0 0 0]Parece que a carta de aviso[n]foi entregue com sucesso.[n]Vamos nos juntar aos Mementos.[n][w][e]
 
-[msg Quest42_target_02_00 [Impiegata]]
+[msg Quest42_target_02_00 [Noivo]]
 [s][f 4 23 1 609 3 10 0 0][vp 8 2 1 0 609 0]Então, Sr. Kanemoto, você quer[n]se declarar culpado de[n]assédio sexual e abuso de poder?[n][w][e]
 
 [msg Quest42_target_02_01 [Seiji Kanemoto]]
 [s][f 4 23 1 610 3 10 0 0][vp 8 2 1 0 610 0]Sim, exatamente. Vou renunciar[n]na próxima assembleia geral[n]de acionistas.[n][w][e]
 
-[msg Quest42_target_02_02 [Impiegata]]
+[msg Quest42_target_02_02 [Noivo]]
 [s][f 4 23 1 609 3 10 0 0][vp 8 2 1 0 609 0]Ele percebe que isso não é suficiente para[n]compensar suas ações?[n][w][e]
 
 [msg Quest42_target_02_03 [Seiji Kanemoto]]
 [s][f 4 23 1 610 3 10 0 0][vp 8 2 1 0 610 0]Eu sei isso. Tenho que pagar o preço[n]pelo que fiz.[n]Prossiga como quiser.[n][w][e]
 
-[msg Quest42_target_02_04 [Impiegata]]
+[msg Quest42_target_02_04 [Noivo]]
 [s][f 4 23 1 609 3 10 0 0][vp 8 2 1 0 609 0]Se você insiste...[n]Vejo você no tribunal.[n][w][e]
 
 [msg Quest42_target_sinjyo_02]
@@ -1504,290 +1504,290 @@
 [msg MSG_CHK_Q83_HINT_001_00 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Parece que temos informações suficientes! Vamos[n]voltar ao esconderijo e falar sobre o plano![n][w][e]
 
-[msg MSG_NANPASI_001_0_0 [Donnaiolo esperto]]
+[msg MSG_NANPASI_001_0_0 [Mulherengo especialista]]
 [s][f 4 23 1 12 3 10 0 10][vp 8 2 1 0 12 0]Não, sua voz é muito estridente.[n]As mulheres ficarão enojadas[n]e irão ignorá-lo.[n][w][e]
 
-[msg MSG_NANPASI_001_1_0 [Donnaiolo in erba]]
+[msg MSG_NANPASI_001_1_0 [Mulherengo iniciante]]
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Para ser honesto, estou começando a me sentir[n]como uma causa perdida.[n][w][e]
 
-[msg MSG_NANPASI_001_2_0 [Donnaiolo esperto]]
+[msg MSG_NANPASI_001_2_0 [Mulherengo especialista]]
 [s][f 4 23 1 12 3 10 0 10][vp 8 2 1 0 12 0]Escuta. As mulheres são delicadas como pequenas[n]flores. Esteja seguro de si mesmo e você vai[n]pegá-los.[n][w][e]
 [s][f 4 23 1 12 3 10 0 10][vp 8 2 1 0 12 0]Muitas coisas aconteceram recentemente, fale[n]sobre aquelas para quebrar o gelo. Eu entendi?[n][w][e]
 
-[msg MSG_NANPASI_002_0_0 [Donnaiolo esperto]]
+[msg MSG_NANPASI_002_0_0 [Mulherengo especialista]]
 [s][f 4 23 1 12 3 10 0 10][vp 8 2 1 0 12 0]Só consegui[n]dez números de telefone.[n][w][e]
 [s][f 4 23 1 12 3 10 0 10][vp 8 2 1 0 12 0]As mulheres estão sendo mais cuidadosas[n]com todas essas ocorrências estranhas,[n]mas... eu ainda tenho meu toque.[n][w][e]
 
-[msg MSG_NANPASI_002_1_0 [Donnaiolo in erba]]
+[msg MSG_NANPASI_002_1_0 [Mulherengo iniciante]]
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Fantástico. Você está em todo[n]outro nível.[n][w][e]
 
-[msg MSG_NANPASI_002_2_0 [Donnaiolo esperto]]
+[msg MSG_NANPASI_002_2_0 [Mulherengo especialista]]
 [s][f 4 23 1 12 3 10 0 10][vp 8 2 1 0 12 0]Se você quiser ter esses números de telefone,[n]seja determinado. Quando você desistir, acabou![n][w][e]
 
-[msg MSG_NANPASI_003_0_0 [Donnaiolo esperto]]
+[msg MSG_NANPASI_003_0_0 [Mulherengo especialista]]
 [s][f 4 23 1 12 3 10 0 10][vp 8 2 1 0 12 0]Você foi para Shujin Academy,[n]certo? Você conhece Kamoshida?[n][w][e]
 
-[msg MSG_NANPASI_003_1_0 [Donnaiolo in erba]]
+[msg MSG_NANPASI_003_1_0 [Mulherengo iniciante]]
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Ele trouxe isso, cara. Havia[n]rumores de todos os tipos[n]mesmo na minha época.[n][w][e]
 
-[msg MSG_NANPASI_003_2_0 [Donnaiolo esperto]]
+[msg MSG_NANPASI_003_2_0 [Mulherengo especialista]]
 [s][f 4 23 1 12 3 10 0 10][vp 8 2 1 0 12 0]Aqueles que não têm charme ou popularidade[n]sempre usam a força para[n]conseguir o que querem...[n][w][e]
 [s][f 4 23 1 12 3 10 0 10][vp 8 2 1 0 12 0]Tenacidade, decisão e segurança.[n]Como você pode se definir como homem[n]se não os tem?[n][w][e]
 
-[msg MSG_NANPASI_004_0_0 [Donnaiolo in erba]]
+[msg MSG_NANPASI_004_0_0 [Mulherengo iniciante]]
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Eles continuam me ignorando.[n]As mulheres da Central Street[n]são duras...[n][w][e]
 
-[msg MSG_NANPASI_004_1_0 [Donnaiolo esperto]]
+[msg MSG_NANPASI_004_1_0 [Mulherengo especialista]]
 [s][f 4 23 1 12 3 10 0 10][vp 8 2 1 0 12 0]Você tem que descobrir como lidar com[n]multidões, idiota.[n]Comece com as coisas simples.[n][w][e]
 [s][f 4 23 1 12 3 10 0 10][vp 8 2 1 0 12 0]Todo mundo sabe o que passa na TV. Você pode[n]falar sobre a exibição de Madarame.[n][w][e]
 [s][f 4 23 1 12 3 10 0 10][vp 8 2 1 0 12 0]Algum trocadilho, ou talvez uma representação.[n]Comece chamando a atenção deles, ok?[n][w][e]
 
-[msg MSG_NANPASI_005_0_0 [Donnaiolo in erba]]
+[msg MSG_NANPASI_005_0_0 [Mulherengo iniciante]]
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Não sabia que rebocar[n]era tão difícil. Estou cansado[n]de ser desprezado.[n][w][e]
 
-[msg MSG_NANPASI_005_1_0 [Donnaiolo esperto]]
+[msg MSG_NANPASI_005_1_0 [Mulherengo especialista]]
 [s][f 4 23 1 12 3 10 0 10][vp 8 2 1 0 12 0]Inevitável. O sucesso virá,[n]mas somente depois de falhar[n]várias vezes.[n][w][e]
 [s][vp 8 2 1 0 12 0]É como eles disseram ao programa de[n]Madarame. Os figurões[n]começaram na parte inferior.[n][w][e]
 
-[msg MSG_NANPASI_005_2_0 [Donnaiolo in erba]]
+[msg MSG_NANPASI_005_2_0 [Mulherengo iniciante]]
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Eu acho que entendi. Estou começando a me[n]convencer de que posso fazer isso![n][w][e]
 
-[msg MSG_NANPASI_006_0_0 [Donnaiolo in erba]]
+[msg MSG_NANPASI_006_0_0 [Mulherengo iniciante]]
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Não consigo obter o número das meninas. Existe[n]uma maneira fácil de "roubar o coração dele"?[n][w][e]
 
-[msg MSG_NANPASI_006_1_0 [Donnaiolo esperto]]
+[msg MSG_NANPASI_006_1_0 [Mulherengo especialista]]
 [s][f 4 23 1 12 3 10 0 10][vp 8 2 1 0 12 0]Roubando seu coração... Mais ou menos como[n]aqueles ladrões fantasmas, hein?[n]Talvez você esteja no caminho certo.[n][w][e]
 [s][vp 8 2 1 0 12 0]Acho que pode funcionar.[n]Tente dizer algo[n]assim para iniciar uma conversa.[n][w][e]
 
-[msg MSG_NANPASI_006_2_0 [Donnaiolo in erba]]
+[msg MSG_NANPASI_006_2_0 [Mulherengo iniciante]]
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]E-Entendo! Vamos ver, eu vou dizer...[n]"Vou pegar seu coração!"[n][w][e]
 
-[msg MSG_NANPASI_007_0_0 [Donnaiolo in erba]]
+[msg MSG_NANPASI_007_0_0 [Mulherengo iniciante]]
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Shibuya não se sente diferente ultimamente? As[n]meninas estão mais em guarda do que o normal...[n][w][e]
 
-[msg MSG_NANPASI_007_1_0 [Donnaiolo esperto]]
+[msg MSG_NANPASI_007_1_0 [Mulherengo especialista]]
 [s][f 4 23 1 12 3 10 0 10][vp 8 2 1 0 12 0]Em momentos como este,[n]paciência é uma virtude. Não imite[n]Akechi. Seja mais simples![n][w][e]
 
-[msg MSG_NANPASI_007_2_0 [Donnaiolo in erba]]
+[msg MSG_NANPASI_007_2_0 [Mulherengo iniciante]]
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Mais fácil. Sim mas como?[n][w][e]
 
-[msg MSG_NANPASI_007_3_0 [Donnaiolo esperto]]
+[msg MSG_NANPASI_007_3_0 [Mulherengo especialista]]
 [s][f 4 23 1 12 3 10 0 10][vp 8 2 1 0 12 0]Uuuh, você sabe. Leve-a para um café[n]ou algum lugar assim[n]em vez de beber...[n][w][e]
 
-[msg MSG_NANPASI_008_0_0 [Donnaiolo in erba]]
+[msg MSG_NANPASI_008_0_0 [Mulherengo iniciante]]
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]E se eu disser que sou um[n]ladrão fantasma? Pode funcionar,[n]aqueles venceram Kaneshiro![n][w][e]
 
-[msg MSG_NANPASI_008_1_0 [Donnaiolo esperto]]
+[msg MSG_NANPASI_008_1_0 [Mulherengo especialista]]
 [s][f 4 23 1 12 3 10 0 10][vp 8 2 1 0 12 0]Eu sou o ladrão fantasma romântico,[n]e vim para roubar seu coração.[n]O ladrão de corações apaixonados![n][w][e]
 
-[msg MSG_NANPASI_008_2_0 [Donnaiolo in erba]]
+[msg MSG_NANPASI_008_2_0 [Mulherengo iniciante]]
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Ladrão romântico...[n]Corações apaixonados?[n]Isso não é um pouco cafona?[n][w][e]
 
-[msg MSG_NANPASI_008_3_0 [Donnaiolo esperto]]
+[msg MSG_NANPASI_008_3_0 [Mulherengo especialista]]
 [s][f 4 23 1 12 3 10 0 10][vp 8 2 1 0 12 0]Esse é o ponto, idiota![n]Experimente![n][w][e]
 
-[msg MSG_NANPASI_009_0_0 [Donnaiolo in erba]]
+[msg MSG_NANPASI_009_0_0 [Mulherengo iniciante]]
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Os hackers podem obter quantos números quiserem.[n]Eles hackeiam os telefones das pessoas e...[n][w][e]
 
-[msg MSG_NANPASI_009_1_0 [Donnaiolo esperto]]
+[msg MSG_NANPASI_009_1_0 [Mulherengo especialista]]
 [s][f 4 23 1 12 3 10 0 10][vp 8 2 1 0 12 0]Para acessar as profundezas do coração[n]de uma mulher, você precisa de uma senha.[n]Feito de doces palavras...[n][w][e]
 [s][f 4 23 1 12 3 10 0 10][vp 8 2 1 0 12 0]Os verdadeiros artistas do embarque nunca[n]usam a força. Nós[n]conquistamos mulheres com habilidade![n][w][e]
 
-[msg MSG_NANPASI_009_2_0 [Donnaiolo in erba]]
+[msg MSG_NANPASI_009_2_0 [Mulherengo iniciante]]
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]S-senpai... Você é demais...![n][w][e]
 
-[msg MSG_NANPASI_010_0_0 [Donnaiolo in erba]]
+[msg MSG_NANPASI_010_0_0 [Mulherengo iniciante]]
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Recolher é muito[n]fácil durante as[n]férias de verão![n][w][e]
 
-[msg MSG_NANPASI_010_1_0 [Donnaiolo esperto]]
+[msg MSG_NANPASI_010_1_0 [Mulherengo especialista]]
 [s][f 4 23 1 12 3 10 0 10][vp 8 2 1 0 12 0]Neste verão eu já tinha...[n]100 números de telefone.[n][w][e]
 
-[msg MSG_NANPASI_010_2_0 [Donnaiolo in erba]]
+[msg MSG_NANPASI_010_2_0 [Mulherengo iniciante]]
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Sério?!? Quantos fazem[n]por dia?[n]Isso é loucura![n][w][e]
 
-[msg MSG_NANPASI_010_3_0 [Donnaiolo esperto]]
+[msg MSG_NANPASI_010_3_0 [Mulherengo especialista]]
 [s][f 4 23 1 12 3 10 0 10][vp 8 2 1 0 12 0]Você poderia dizer que eu sou um Fantasma Ladrão[n]de Corações...[n][w][e]
 
-[msg MSG_NANPASI_011_0_0 [Donnaiolo in erba]]
+[msg MSG_NANPASI_011_0_0 [Mulherengo iniciante]]
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Os Phantom Thieves estão liderando[n]caminho. Eu também gostaria de fazer isso...[n]Junto com uma loira![n][w][e]
 
-[msg MSG_NANPASI_011_1_0 [Donnaiolo esperto]]
+[msg MSG_NANPASI_011_1_0 [Mulherengo especialista]]
 [s][f 4 23 1 12 3 10 0 10][vp 8 2 1 0 12 0]Mostre o caminho, hein? Agora que[n]penso nisso... Anna, Dorothy, Nora...[n]Quem sabe como elas são.[n][w][e]
 
-[msg MSG_NANPASI_011_2_0 [Donnaiolo in erba]]
+[msg MSG_NANPASI_011_2_0 [Mulherengo iniciante]]
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]S-senpai, você já fez[n]conquistas internacionais?!?[n][w][e]
 
-[msg MSG_NANPASI_011_3_0 [Donnaiolo esperto]]
+[msg MSG_NANPASI_011_3_0 [Mulherengo especialista]]
 [s][f 4 23 1 12 3 10 0 10][vp 8 2 1 0 12 0]Águas passadas.[n]Esqueça o que eu disse.[n][w][e]
 
-[msg MSG_NANPASI_012_0_0 [Donnaiolo in erba]]
+[msg MSG_NANPASI_012_0_0 [Mulherengo iniciante]]
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]"Eu vou roubar seu coração."[n]"Eu vou fazer você esquecer quem[n]você já amou antes."[n][w][e]
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]As meninas adoram frases assim. Tudo graças[n]aos Phantom Thieves![n][w][e]
 
-[msg MSG_NANPASI_012_1_0 [Donnaiolo esperto]]
+[msg MSG_NANPASI_012_1_0 [Mulherengo especialista]]
 [s][f 4 23 1 12 3 10 0 10][vp 8 2 1 0 12 0]Ohoh, você está começando a pegar o jeito.[n]Você acertou a linha[n]do ladrão romântico, hein?[n][w][e]
 
-[msg MSG_NANPASI_012_2_0 [Donnaiolo in erba]]
+[msg MSG_NANPASI_012_2_0 [Mulherengo iniciante]]
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]A história do "ladrão romântico"[n]não funcionou muito bem.[n]Eles a acharam monótona e complicada...[n][w][e]
 
-[msg MSG_NANPASI_013_0_0 [Donnaiolo in erba]]
+[msg MSG_NANPASI_013_0_0 [Mulherengo iniciante]]
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Eu não sabia que a Okumura Foods[n]dona do Big Bang.[n][w][e]
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Com a reputação deles,[n]não podemos levar garotas conosco.[n]Onde você leva as suas?[n][w][e]
 
-[msg MSG_NANPASI_013_1_0 [Donnaiolo esperto]]
+[msg MSG_NANPASI_013_1_0 [Mulherengo especialista]]
 [s][f 4 23 1 12 3 10 0 10][vp 8 2 1 0 12 0]Em vários lugares diferentes,[n]claro! Está cheio de lugares[n]onde você pode levar mulheres.[n][w][e]
 
-[msg MSG_NANPASI_013_2_0 [Donnaiolo in erba]]
+[msg MSG_NANPASI_013_2_0 [Mulherengo iniciante]]
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Eu conheci uma garota[n]interessante. Quando puder, gostaria[n]de levá-la a algum lugar elegante.[n][w][e]
 
-[msg MSG_NANPASI_014_0_0 [Donnaiolo in erba]]
+[msg MSG_NANPASI_014_0_0 [Mulherengo iniciante]]
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Os Phantom Thieves acabaram sendo piores do que o[n]esperado. Eles fazem coisas terríveis.[n][w][e]
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Uma garota que eu conheço está apavorada. Ela[n]quer que eu esteja com ela dia e noite.[n][w][e]
 
-[msg MSG_NANPASI_014_1_0 [Donnaiolo esperto]]
+[msg MSG_NANPASI_014_1_0 [Mulherengo especialista]]
 [s][f 4 23 1 12 3 10 0 10][vp 8 2 1 0 12 0]Você está falando sério?!?[n][w][e]
 
-[msg MSG_NANPASI_014_2_0 [Donnaiolo in erba]]
+[msg MSG_NANPASI_014_2_0 [Mulherengo iniciante]]
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Isso deve ser difícil para você.[n]Seu telefone deve estar tocando[n]o tempo todo.[n][w][e]
 
-[msg MSG_NANPASI_014_3_0 [Donnaiolo esperto]]
+[msg MSG_NANPASI_014_3_0 [Mulherengo especialista]]
 [s][f 4 23 1 12 3 10 0 10][vp 8 2 1 0 12 0]S-sim ... é apenas um[n]incômodo, este telefone que[n]toca o tempo todo. haha.[n][w][e]
 
-[msg MSG_NANPASI_015_0_0 [Donnaiolo in erba]]
+[msg MSG_NANPASI_015_0_0 [Mulherengo iniciante]]
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Fui ao[n]festival cultural da minha ex-escola![n]E lá estava o Akechi.[n][w][e]
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Sua popularidade[n]estava disparando. Ele[n]me lembrou um pouco de você ...[n][w][e]
 
-[msg MSG_NANPASI_015_1_0 [Donnaiolo esperto]]
+[msg MSG_NANPASI_015_1_0 [Mulherengo especialista]]
 [s][f 4 23 1 12 3 10 0 10][vp 8 2 1 0 12 0]Com quem você foi?[n]Com uma garota, certo?[n][w][e]
 
-[msg MSG_NANPASI_015_2_0 [Donnaiolo in erba]]
+[msg MSG_NANPASI_015_2_0 [Mulherengo iniciante]]
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Claro, com uma garota.[n]Ela é fã de Akechi, então...[n][w][e]
 
-[msg MSG_NANPASI_016_0_0 [Donnaiolo in erba]]
+[msg MSG_NANPASI_016_0_0 [Mulherengo iniciante]]
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Eles dizem que a economia vai melhorar[n]se Shido for eleito[n]primeiro-ministro![n][w][e]
 
-[msg MSG_NANPASI_016_1_0 [Donnaiolo esperto]]
+[msg MSG_NANPASI_016_1_0 [Mulherengo especialista]]
 [s][f 4 23 1 12 3 10 0 10][vp 8 2 1 0 12 0]Esqueça a reforma econômica,[n]pense na forma feminina.[n]Precisamos ficar com mais garotas![n][w][e]
 
-[msg MSG_NANPASI_016_2_0 [Donnaiolo in erba]]
+[msg MSG_NANPASI_016_2_0 [Mulherengo iniciante]]
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Mas você já está cheio[n]de garotas, senpai![n][w][e]
 
-[msg MSG_NANPASI_016_3_0 [Donnaiolo esperto]]
+[msg MSG_NANPASI_016_3_0 [Mulherengo especialista]]
 [s][f 4 23 1 12 3 10 0 10][vp 8 2 1 0 12 0]B-Bem, eu tento pegar o exemplo[n]de Shido. Talvez eu encontre o[n]Novo Grupo de Reboque.[n][w][e]
 
-[msg MSG_NANPASI_017_0_0 [Donnaiolo in erba]]
+[msg MSG_NANPASI_017_0_0 [Mulherengo iniciante]]
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Os carros de campanha eleitoral[n]fazem barulho...[n][w][e]
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Eles dizem por favor com tanta frequência...[n]Soa como nós.[n][w][e]
 
-[msg MSG_NANPASI_017_1_0 [Donnaiolo esperto]]
+[msg MSG_NANPASI_017_1_0 [Mulherengo especialista]]
 [s][f 4 23 1 12 3 10 0 10][vp 8 2 1 0 12 0]Eu não me importo com as eleições.[n][w][e]
 [s][f 4 23 1 12 3 10 0 10][vp 8 2 1 0 12 0]Não é como se a política[n]nos ajudasse a rebocar...[n][w][e]
 
-[msg MSG_NANPASI_017_2_0 [Donnaiolo in erba]]
+[msg MSG_NANPASI_017_2_0 [Mulherengo iniciante]]
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Mestre, por que você parece tão triste?[n][w][e]
 
-[msg MSG_NANPASI_018_0_0 [Donnaiolo in erba]]
+[msg MSG_NANPASI_018_0_0 [Mulherengo iniciante]]
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Louco, eles interferiram em uma[n]transmissão ao vivo! Eu estava em[n]Shibuya e vi tudo![n][w][e]
 
-[msg MSG_NANPASI_018_1_0 [Donnaiolo esperto]]
+[msg MSG_NANPASI_018_1_0 [Mulherengo especialista]]
 [s][f 4 23 1 12 3 10 0 10][vp 8 2 1 0 12 0]Entendo. Você é o candidato da oposição. Não,[n]você está agindo para derrubar o regime![n][w][e]
 
-[msg MSG_NANPASI_018_2_0 [Donnaiolo in erba]]
+[msg MSG_NANPASI_018_2_0 [Mulherengo iniciante]]
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Gosta?!? Do que você está falando, senpai?!?[n][w][e]
 
-[msg MSG_NANPASI_018_3_0 [Donnaiolo esperto]]
+[msg MSG_NANPASI_018_3_0 [Mulherengo especialista]]
 [s][f 4 23 1 12 3 10 0 10][vp 8 2 1 0 12 0]Com quem? Com quem você a viu?!?[n]Olhe nos meus olhos e diga![n][w][e]
 
-[msg MSG_NANPASI_019_0_0 [Donnaiolo esperto?]]
+[msg MSG_NANPASI_019_0_0 [Mulherengo especialista?]]
 [s][f 4 23 1 12 3 10 0 10][vp 8 2 1 0 12 0]Todas essas[n]decorações de Natal me dão náuseas![n][w][e]
 
-[msg MSG_NANPASI_019_1_0 [Donnaiolo in erba]]
+[msg MSG_NANPASI_019_1_0 [Mulherengo iniciante]]
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]O-o que há de errado, senpai?[n][w][e]
 
-[msg MSG_NANPASI_019_2_0 [Donnaiolo esperto?]]
+[msg MSG_NANPASI_019_2_0 [Mulherengo especialista?]]
 [s][f 4 23 1 12 3 10 0 10][vp 8 2 1 0 12 0]Eu perdi, kohai.[n][w][e]
 
-[msg MSG_NANPASI_019_3_0 [Donnaiolo in erba]]
+[msg MSG_NANPASI_019_3_0 [Mulherengo iniciante]]
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]É como Shido disse.[n]O poder político sustentado apenas[n]pela vaidade e mentiras é inútil...[n][w][e]
 
-[msg MSG_NANPASI_020_0_0 [Donnaiolo carismatico]]
+[msg MSG_NANPASI_020_0_0 [Mulherengo carismático]]
 [s][f 4 23 1 12 3 10 0 10][vp 8 2 1 0 12 0]Estou fazendo grandes coisas este ano![n][w][e]
 [s][vp 8 2 1 0 12 0]Aparentemente, alcancei um novo nível na arte de[n]rebocar.[n][w][e]
 
-[msg MSG_NANPASI_020_1_0 [Donnaiolo in erba]]
+[msg MSG_NANPASI_020_1_0 [Mulherengo iniciante]]
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Eu também! Este ano eu[n]fiquei com todas as garotas[n]com quem conversei...[n][w][e]
 [s][vp 8 2 1 0 13 0]Nesse ritmo, certamente passarei do nível de[n]aprendiz![n][w][e]
 
-[msg MSG_NANPASI_020_2_0 [Donnaiolo carismatico]]
+[msg MSG_NANPASI_020_2_0 [Mulherengo carismático]]
 [s][f 4 23 1 12 3 10 0 10][vp 8 2 1 0 12 0]Aparentemente, alcancei um novo nível na arte de[n]rebocar.[n][w][e]
 
-[msg MSG_NANPASI_020_3_0 [Donnaiolo in erba]]
+[msg MSG_NANPASI_020_3_0 [Mulherengo iniciante]]
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Isso é loucura, Senpai! Vou trabalhar duro e[n]passar o nível de aprendiz![n][w][e]
 
-[msg MSG_NANPASI_021_0_0 [Donnaiolo in erba]]
+[msg MSG_NANPASI_021_0_0 [Mulherengo iniciante]]
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Essa é a meta deste ano![n]Vou tentar 10 garotas por dia,[n]para um total de 3.650 alvos![n][w][e]
 [s][vp 8 2 1 0 13 0]O que você diz, Senpai?[n][w][e]
 
-[msg MSG_NANPASI_021_1_0 [Donnaiolo carismatico]]
+[msg MSG_NANPASI_021_1_0 [Mulherengo carismático]]
 [s][f 4 23 1 12 3 10 0 10][vp 8 2 1 0 12 0]Uma pessoa.[n][w][e]
 
-[msg MSG_NANPASI_021_2_0 [Donnaiolo in erba]]
+[msg MSG_NANPASI_021_2_0 [Mulherengo iniciante]]
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Coisa? E aí?[n][w][e]
 
-[msg MSG_NANPASI_021_3_0 [Donnaiolo carismatico]]
+[msg MSG_NANPASI_021_3_0 [Mulherengo carismático]]
 [s][f 4 23 1 12 3 10 0 10][vp 8 2 1 0 12 0]Você esqueceu que agora[n]eu alcancei o nível Carismático?[n]...eu quis dizer uma segunda garota![n][w][e]
 [s][vp 8 2 1 0 12 0]Se você quiser passar do nível de novato, terá[n]que pegar 100 garotas em um dia![n][w][e]
 
-[msg MSG_NANPASI_022_0_0 [Donnaiolo intermedio]]
+[msg MSG_NANPASI_022_0_0 [Mulherengo intermediário]]
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Caaaaspita, este é o MEU ano![n]Já conquistei tantos sucessos![n][w][e]
 
-[msg MSG_NANPASI_022_1_0 [Donnaiolo carismatico]]
+[msg MSG_NANPASI_022_1_0 [Mulherengo carismático]]
 [s][f 4 23 1 12 3 10 0 10][vp 8 2 1 0 12 0]Eh, seu talento oculto está[n]finalmente florescendo. Você deve estar[n]orgulhoso do trabalho feito até agora...[n][w][e]
 
-[msg MSG_NANPASI_022_2_0 [Donnaiolo intermedio]]
+[msg MSG_NANPASI_022_2_0 [Mulherengo intermediário]]
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Sim, e é tudo graças a você, senpai![n]Sem você, eu...[n][w][e]
 
-[msg MSG_NANPASI_022_3_0 [Donnaiolo carismatico]]
+[msg MSG_NANPASI_022_3_0 [Mulherengo carismático]]
 [s][f 4 23 1 12 3 10 0 10][vp 8 2 1 0 12 0]Ei, o que há para chorar agora?[n]Pare com isso e tente pegar[n]algumas outras garotas![n][w][e]
 
-[msg MSG_NANPASI_023_0_0 [Donnaiolo in erba]]
+[msg MSG_NANPASI_023_0_0 [Mulherengo iniciante]]
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Comoee?!? Você já[n]pegou uma garota?!?[n][w][e]
 
-[msg MSG_NANPASI_023_1_0 [Donnaiolo carismatico]]
+[msg MSG_NANPASI_023_1_0 [Mulherengo carismático]]
 [s][f 4 23 1 12 3 10 0 10][vp 8 2 1 0 12 0]Sinto muito. Tudo que sei[n]leio em revistas e na internet.[n][w][e]
 [s][f 4 23 1 12 3 10 0 10][vp 8 2 1 0 12 0]Eu me envergonho e imploro![n]Me ensine a pegar[n]garotas, por favor![n][w][e]
 
-[msg MSG_NANPASI_023_2_0 [Donnaiolo in erba]]
+[msg MSG_NANPASI_023_2_0 [Mulherengo iniciante]]
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]O sucesso virá, mas só[n]depois de falhar várias vezes...[n]aprendi com você![n][w][e]
 
-[msg MSG_Q74_HINT_NANPASI_000 [Donnaiolo in erba]]
+[msg MSG_Q74_HINT_NANPASI_000 [Mulherengo iniciante]]
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Oh aquilo? Só vende pontos digitais[n]sem valor.[n][w][e]
 
-[msg MSG_Q74_HINT_NANPASI_010 [Donnaiolo esperto]]
+[msg MSG_Q74_HINT_NANPASI_010 [Mulherengo especialista]]
 [s][f 4 23 1 12 3 10 0 10][vp 8 2 1 0 12 0]...O quê, pontos digitais?[n]P-você está falando sério?[n][w][e]
 [s][f 4 23 1 12 3 10 0 10][vp 8 2 1 0 12 0]Quer dizer... eu sabia! Eu estava testando você![n]Mas parece que com o tempo eles poderiam[n]adquirir valor...[n][w][e]
 
-[msg MSG_Q74_HINT_NANPASI_020 [Donnaiolo in erba]]
+[msg MSG_Q74_HINT_NANPASI_020 [Mulherengo iniciante]]
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Se você cair nessa e concordar em comprá-los,[n]você corre o risco de se envolver.[n]É uma coisa perigosa...[n][w][e]
 
-[msg MSG_Q83_HINT_NANPASI_000 [Donnaiolo in erba]]
+[msg MSG_Q83_HINT_NANPASI_000 [Mulherengo iniciante]]
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Ouça, senpai. A garota com quem eu fiquei outro[n]dia era aquela jogadora de pingue-pongue,[n]Takuno-chan.[n][w][e]
 
-[msg MSG_Q83_HINT_NANPASI_010 [Donnaiolo esperto]]
+[msg MSG_Q83_HINT_NANPASI_010 [Mulherengo especialista]]
 [s][f 4 23 1 12 3 10 0 10][vp 8 2 1 0 12 0]Oooh...sim, ele[n]esteve por aqui ultimamente.[n][w][e]
 [s][f 4 23 1 12 3 10 0 10][vp 8 2 1 0 12 0]Coisa? Não me diga que você realmente tem[n]o número dela?[n][w][e]
 
-[msg MSG_Q83_HINT_NANPASI_020 [Donnaiolo in erba]]
+[msg MSG_Q83_HINT_NANPASI_020 [Mulherengo iniciante]]
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Não, mas eu vi um cara se aproximando dela... e[n]aparentemente ele era um ex-membro do grupo[n]mafioso de kaneshiro.[n][w][e]
 
-[msg MSG_Q83_HINT_NANPASI_030 [Donnaiolo in erba]]
+[msg MSG_Q83_HINT_NANPASI_030 [Mulherengo iniciante]]
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Coisa? Interessado em Takuno-chan?[n][w][e]
 
 [sel SEL_Q83_HINT_NANPASI_040 top]
 [s]Eu gostaria de mais detalhes.[e]
 [s]Você disse Kaneshiro?[e]
 
-[msg MSG_Q83_HINT_NANPASI_050 [Donnaiolo in erba]]
+[msg MSG_Q83_HINT_NANPASI_050 [Mulherengo iniciante]]
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Eu não sei sobre o que eles estavam falando,[n]embora. Parecia suspeito, então[n]saí imediatamente.[n][w][e]
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Ei, o que você acha de Takuno-chan?[n][w][e]
 
@@ -1795,274 +1795,274 @@
 [s]sou fã dele.[e]
 [s]Eu gosto disso.[e]
 
-[msg MSG_Q83_HINT_NANPASI_070 [Donnaiolo in erba]]
+[msg MSG_Q83_HINT_NANPASI_070 [Mulherengo iniciante]]
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Então você deve ter ouvido os rumores sobre[n]ela... As pessoas dizem que ela foi espancada de[n]propósito.[n][w][e]
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Eu costumava pertencer a um clube de[n]pingue-pongue. Ainda sou apaixonado e entendo se[n]alguém comete um erro de propósito...[n][w][e]
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Sendo um fã dele, eu[n]sentaria se suas lutas[n]fossem consertadas.[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_001_ [Impiegato stanco]]
+[msg MSG_SURETIGAITUUSIN_001_ [Empregado cansado]]
 [s][f 4 23 1 14 3 10 0 10][vp 8 2 1 0 14 0]Shibuya está ocupada como sempre,[n]cheia de jovens[n]passeando.[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_001__2 [Impiegato accigliato]]
+[msg MSG_SURETIGAITUUSIN_001__2 [Funcionário carrancudo]]
 [s][f 4 23 1 15 3 10 0 10][vp 8 2 1 0 15 0]Eles parecem despreocupados, como se[n]eles não tivessem nenhum problema.[n]Eles não deveriam agir assim.[n][w][e]
 [s][vp 8 2 1 0 15 0]Talvez o problema seja a escola. Você sabia[n]que eles prenderam um professor[n]por assédio estudantil?[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_001__3 [Impiegato stanco]]
+[msg MSG_SURETIGAITUUSIN_001__3 [Empregado cansado]]
 [s][f 4 23 1 14 3 10 0 10][vp 8 2 1 0 14 0]Bem, em nosso tempo esse tipo de coisa era[n]normal. Agora é diferente.[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_002_ [Impiegato stanco]]
+[msg MSG_SURETIGAITUUSIN_002_ [Empregado cansado]]
 [s][f 4 23 1 14 3 10 0 10][vp 8 2 1 0 14 0]Você já ouviu falar[n]do bônus deste ano?[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_002__2 [Impiegato accigliato]]
+[msg MSG_SURETIGAITUUSIN_002__2 [Funcionário carrancudo]]
 [s][f 4 23 1 15 3 10 0 10][vp 8 2 1 0 15 0]Sim, eles podem não nos dar.[n]Mas não é nossa culpa[n]que as contas estejam no vermelho.[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_002__3 [Impiegato stanco]]
+[msg MSG_SURETIGAITUUSIN_002__3 [Empregado cansado]]
 [s][f 4 23 1 14 3 10 0 10][vp 8 2 1 0 14 0]Há uma recessão, não importa o que façamos.[n]Precisamos de mudança política.[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_002__4 [Impiegato accigliato]]
+[msg MSG_SURETIGAITUUSIN_002__4 [Funcionário carrancudo]]
 [s][f 4 23 1 15 3 10 0 10][vp 8 2 1 0 15 0]Não faz diferença quem[n]existe no governo. Não espero[n]nenhuma melhoria.[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_003_ [Impiegato stanco]]
+[msg MSG_SURETIGAITUUSIN_003_ [Empregado cansado]]
 [s][f 4 23 1 14 3 10 0 10][vp 8 2 1 0 14 0]Minha esposa foi à exposição[n]Madarame e agora[n]ele fala sobre arte o tempo todo.[n][w][e]
 [s][vp 8 2 1 0 14 0]Ele quer comprar um pouco de arte[n]e aprender a pintar...[n]Não temos dinheiro para isso.[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_003__2 [Impiegato accigliato]]
+[msg MSG_SURETIGAITUUSIN_003__2 [Funcionário carrancudo]]
 [s][f 4 23 1 15 3 10 0 10][vp 8 2 1 0 15 0]Haha, a cidade inteira está falando sobre essa[n]exposição. É apenas uma moda passageira. Ele vai[n]esquecer isso.[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_003__3 [Impiegato stanco]]
+[msg MSG_SURETIGAITUUSIN_003__3 [Empregado cansado]]
 [s][f 4 23 1 14 3 10 0 10][vp 8 2 1 0 14 0]Sabe, eu meio que invejo Madarame.[n]Ele com certeza ganha muito dinheiro,[n]mesmo no meio de uma recessão.[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_004_ [Impiegato accigliato]]
+[msg MSG_SURETIGAITUUSIN_004_ [Funcionário carrancudo]]
 [s][f 4 23 1 15 3 10 0 10][vp 8 2 1 0 15 0]Eu não gosto da arte, mas que[n]obra-prima da conferência de imprensa.[n]Timing perfeito demais, no entanto.[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_004__2 [Impiegato stanco]]
+[msg MSG_SURETIGAITUUSIN_004__2 [Empregado cansado]]
 [s][f 4 23 1 14 3 10 0 10][vp 8 2 1 0 14 0]Sim, bem no final da[n]exibição. É claro que há[n]algo mais por baixo.[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_004__3 [Impiegato accigliato]]
+[msg MSG_SURETIGAITUUSIN_004__3 [Funcionário carrancudo]]
 [s][f 4 23 1 15 3 10 0 10][vp 8 2 1 0 15 0]Eles gastaram muito[n]esses anúncios. Aqueles que apoiam[n]Madarame entrarão em pânico.[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_004__4 [Impiegato stanco]]
+[msg MSG_SURETIGAITUUSIN_004__4 [Empregado cansado]]
 [s][f 4 23 1 14 3 10 0 10][vp 8 2 1 0 14 0]Neste mundo, todo mundo pensa[n]apenas em si mesmo.[n]É realmente uma merda.[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_005_ [Impiegato stanco]]
+[msg MSG_SURETIGAITUUSIN_005_ [Empregado cansado]]
 [s][f 4 23 1 14 3 10 0 10][vp 8 2 1 0 14 0]Ei, que e-mail é esse?[n][w][e]
 [s][f 4 23 1 14 3 10 0 10][vp 8 2 1 0 14 0]Diz... "Taxa de uso do site: 500.000 ienes."[n]Eu nunca me registrei[n]para tal coisa.[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_005__2 [Impiegato accigliato]]
+[msg MSG_SURETIGAITUUSIN_005__2 [Funcionário carrancudo]]
 [s][f 4 23 1 15 3 10 0 10][vp 8 2 1 0 15 0]Ooh, há muita coisa por aí.[n]É um golpe clássico.[n][w][e]
 [s][f 4 23 1 15 3 10 0 10][vp 8 2 1 0 15 0]No entanto, os jovens ainda caem nessa.[n]Parece que eles embolsam dezenas[n]de milhões de ienes dessa maneira.[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_005__3 [Impiegato stanco]]
+[msg MSG_SURETIGAITUUSIN_005__3 [Empregado cansado]]
 [s][f 4 23 1 14 3 10 0 10][vp 8 2 1 0 14 0]Eles provavelmente caem nessa porque[n]eles têm uma consciência pesada.[n]Eles são mal educados.[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_006_ [Impiegato accigliato]]
+[msg MSG_SURETIGAITUUSIN_006_ [Funcionário carrancudo]]
 [s][f 4 23 1 15 3 10 0 10][vp 8 2 1 0 15 0]Minha esposa cortou[n]meus fundos porque eu não[n]recebi nenhum bônus desta vez...[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_006__2 [Impiegato stanco]]
+[msg MSG_SURETIGAITUUSIN_006__2 [Empregado cansado]]
 [s][f 4 23 1 14 3 10 0 10][vp 8 2 1 0 14 0]Idem. Não posso pagar nem um almoço decente.[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_006__3 [Impiegato accigliato]]
+[msg MSG_SURETIGAITUUSIN_006__3 [Funcionário carrancudo]]
 [s][f 4 23 1 15 3 10 0 10][vp 8 2 1 0 15 0]Agora eu sobrevivo de gyudon[n]e hambúrgueres. Pelo menos aqueles[n]estão ao nosso alcance.[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_006__4 [Impiegato stanco]]
+[msg MSG_SURETIGAITUUSIN_006__4 [Empregado cansado]]
 [s][f 4 23 1 14 3 10 0 10][vp 8 2 1 0 14 0]Minha esposa está almoçando[n]com suas amigas em um hotel.[n]Elas estão se divertindo.[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_007_ [Impiegato stanco]]
+[msg MSG_SURETIGAITUUSIN_007_ [Empregado cansado]]
 [s][f 4 23 1 14 3 10 0 10][vp 8 2 1 0 14 0]Você viu as notícias?[n]Eles prenderam aquele chefe da máfia.[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_007__2 [Impiegato accigliato]]
+[msg MSG_SURETIGAITUUSIN_007__2 [Funcionário carrancudo]]
 [s][f 4 23 1 15 3 10 0 10][vp 8 2 1 0 15 0]Surgiu espontaneamente,[n]certo? Não faz sentido.[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_007__3 [Impiegato stanco]]
+[msg MSG_SURETIGAITUUSIN_007__3 [Empregado cansado]]
 [s][f 4 23 1 14 3 10 0 10][vp 8 2 1 0 14 0]Talvez ele tenha feito algum[n]acordo com a polícia,[n]ou algo assim.[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_007__4 [Impiegato accigliato]]
+[msg MSG_SURETIGAITUUSIN_007__4 [Funcionário carrancudo]]
 [s][f 4 23 1 15 3 10 0 10][vp 8 2 1 0 15 0]Aaah, OK, isso faria sentido.[n]Você não pode confiar[n]nem na polícia.[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_008_ [Impiegato accigliato]]
+[msg MSG_SURETIGAITUUSIN_008_ [Funcionário carrancudo]]
 [s][f 4 23 1 15 3 10 0 10][vp 8 2 1 0 15 0]Medjed já foi mencionado, não foi?[n]Eles são rebeldes da internet[n]ou algo assim?[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_008__2 [Impiegato stanco]]
+[msg MSG_SURETIGAITUUSIN_008__2 [Empregado cansado]]
 [s][f 4 23 1 14 3 10 0 10][vp 8 2 1 0 14 0]Se bem me lembro, Medjed ataca[n]qualquer coisa que ele não gosta.[n]Ele causou muitos danos.[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_008__3 [Impiegato accigliato]]
+[msg MSG_SURETIGAITUUSIN_008__3 [Funcionário carrancudo]]
 [s][f 4 23 1 15 3 10 0 10][vp 8 2 1 0 15 0]Mas esta não é a primeira vez que ele[n]visa o Japão[n]para um ataque em grande escala?[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_008__4 [Impiegato stanco]]
+[msg MSG_SURETIGAITUUSIN_008__4 [Empregado cansado]]
 [s][f 4 23 1 14 3 10 0 10][vp 8 2 1 0 14 0]É porque os[n]Phantom Thieves apareceram. E continuamos[n]envolvidos. Essa raiva.[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_009_ [Impiegato stanco]]
+[msg MSG_SURETIGAITUUSIN_009_ [Empregado cansado]]
 [s][f 4 23 1 14 3 10 0 10][vp 8 2 1 0 14 0]Os e-mails da nossa empresa[n]não estão funcionando devido a[n]um erro de segurança.[n][w][e]
 [s][vp 8 2 1 0 14 0]Passei o tempo todo[n]pedindo desculpas e explicando.[n]Agora não tenho mais tempo para Obon.[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_009__2 [Impiegato accigliato]]
+[msg MSG_SURETIGAITUUSIN_009__2 [Funcionário carrancudo]]
 [s][f 4 23 1 15 3 10 0 10][vp 8 2 1 0 15 0]A culpa é desses hackers. Mesmo que[n]eles não descontem em[n]pessoas comuns, ainda assim sofremos.[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_009__3 [Impiegato stanco]]
+[msg MSG_SURETIGAITUUSIN_009__3 [Empregado cansado]]
 [s][f 4 23 1 14 3 10 0 10][vp 8 2 1 0 14 0]Medjed me causou muitos[n]problemas. Se os Phantom Thieves[n]existirem, estarei torcendo por eles.[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_010_ [Impiegato stanco]]
+[msg MSG_SURETIGAITUUSIN_010_ [Empregado cansado]]
 [s][f 4 23 1 14 3 10 0 10][vp 8 2 1 0 14 0]Então, você tem certeza que os hackers[n]perderam? Na Internet[n]todo mundo comemora.[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_010__2 [Impiegato accigliato]]
+[msg MSG_SURETIGAITUUSIN_010__2 [Funcionário carrancudo]]
 [s][f 4 23 1 15 3 10 0 10][vp 8 2 1 0 15 0]Acho que sim. Nada[n]ruim aconteceu, então[n]devemos estar seguros.[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_010__3 [Impiegato stanco]]
+[msg MSG_SURETIGAITUUSIN_010__3 [Empregado cansado]]
 [s][f 4 23 1 14 3 10 0 10][vp 8 2 1 0 14 0]Eles admitiram espontaneamente[n]suas falhas. Pense em como seria bom se[n]nossos superiores fizessem isso também.[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_010__4 [Impiegato accigliato]]
+[msg MSG_SURETIGAITUUSIN_010__4 [Funcionário carrancudo]]
 [s][f 4 23 1 15 3 10 0 10][vp 8 2 1 0 15 0]Hahaha, seria ótimo.[n]Melhor ainda se acontecesse[n]em todas as empresas.[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_011_ [Impiegato stanco]]
+[msg MSG_SURETIGAITUUSIN_011_ [Empregado cansado]]
 [s][f 4 23 1 14 3 10 0 10][vp 8 2 1 0 14 0]Todo mundo está falando sobre os[n]Phantom Thieves. Não parece[n]uma moda passageira.[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_011__2 [Impiegato accigliato]]
+[msg MSG_SURETIGAITUUSIN_011__2 [Funcionário carrancudo]]
 [s][f 4 23 1 15 3 10 0 10][vp 8 2 1 0 15 0]E os mais novos os amam.[n]Eles dizem que são o sinal[n]dos tempos de mudança.[n][w][e]
 [s][vp 8 2 1 0 15 0]Espero que o próximo alvo[n]seja esse presidente. Isso é um[n]inimigo para qualquer funcionário.[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_011__3 [Impiegato stanco]]
+[msg MSG_SURETIGAITUUSIN_011__3 [Empregado cansado]]
 [s][f 4 23 1 14 3 10 0 10][vp 8 2 1 0 14 0]Se eles realmente são heróis,[n]eles vão mirar no presidente.[n]Espero que sim.[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_012_ [Impiegato accigliato]]
+[msg MSG_SURETIGAITUUSIN_012_ [Funcionário carrancudo]]
 [s][f 4 23 1 15 3 10 0 10][vp 8 2 1 0 15 0]Estranho. Minha esposa[n]acabou de me perguntar se a empresa[n]está bem.[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_012__2 [Impiegato stanco]]
+[msg MSG_SURETIGAITUUSIN_012__2 [Empregado cansado]]
 [s][f 4 23 1 14 3 10 0 10][vp 8 2 1 0 14 0]Por quê?[n]Talvez ele se preocupe que você[n]está trabalhando demais?[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_012__3 [Impiegato accigliato]]
+[msg MSG_SURETIGAITUUSIN_012__3 [Funcionário carrancudo]]
 [s][f 4 23 1 15 3 10 0 10][vp 8 2 1 0 15 0]Não. As ações da Okumura Foods[n]despencaram quando o presidente[n]recebeu a carta de aviso.[n][w][e]
 [s][vp 8 2 1 0 15 0]Ele teme que até empresas menores, como a nossa,[n]possam falir.[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_012__4 [Impiegato stanco]]
+[msg MSG_SURETIGAITUUSIN_012__4 [Empregado cansado]]
 [s][f 4 23 1 14 3 10 0 10][vp 8 2 1 0 14 0]Ele se importa mais com a empresa do que você?[n]Bem, na verdade minha esposa também...[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_013_ [Impiegato stanco]]
+[msg MSG_SURETIGAITUUSIN_013_ [Empregado cansado]]
 [s][f 4 23 1 14 3 10 0 10][vp 8 2 1 0 14 0]Você viu a notícia?[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_013__2 [Impiegato accigliato]]
+[msg MSG_SURETIGAITUUSIN_013__2 [Funcionário carrancudo]]
 [s][f 4 23 1 15 3 10 0 10][vp 8 2 1 0 15 0]Sim, aquele presidente[n]desabou de repente.[n]Por causa do estresse?[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_013__3 [Impiegato stanco]]
+[msg MSG_SURETIGAITUUSIN_013__3 [Empregado cansado]]
 [s][f 4 23 1 14 3 10 0 10][vp 8 2 1 0 14 0]Não, deve ser obra daqueles Thieves[n]Phantom. Eles dizem que[n]o torturaram, talvez o drogaram.[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_013__4 [Impiegato accigliato]]
+[msg MSG_SURETIGAITUUSIN_013__4 [Funcionário carrancudo]]
 [s][f 4 23 1 15 3 10 0 10][vp 8 2 1 0 15 0]Então eles são perigosos.[n]Parece que pode haver[n]outras vítimas também.[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_014_ [Impiegato stanco]]
+[msg MSG_SURETIGAITUUSIN_014_ [Empregado cansado]]
 [s][f 4 23 1 14 3 10 0 10][vp 8 2 1 0 14 0]A recompensa de 30 milhões de ienes pelos[n]Phantom Thieves vem de nossos[n]impostos. Pobres nossas carteiras.[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_014__2 [Impiegato accigliato]]
+[msg MSG_SURETIGAITUUSIN_014__2 [Funcionário carrancudo]]
 [s][f 4 23 1 15 3 10 0 10][vp 8 2 1 0 15 0]Nossa empresa também sofreu[n]economicamente com os investimentos[n]relacionados aos Phantom Thieves.[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_014__3 [Impiegato stanco]]
+[msg MSG_SURETIGAITUUSIN_014__3 [Empregado cansado]]
 [s][f 4 23 1 14 3 10 0 10][vp 8 2 1 0 14 0]Nós sempre perdemos.[n]Já chega.[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_014__4 [Impiegato accigliato]]
+[msg MSG_SURETIGAITUUSIN_014__4 [Funcionário carrancudo]]
 [s][f 4 23 1 15 3 10 0 10][vp 8 2 1 0 15 0]Os políticos também são os culpados.[n]Eles ignoraram um grupo tão[n]perigoso por muito tempo.[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_015_ [Impiegato stanco]]
+[msg MSG_SURETIGAITUUSIN_015_ [Empregado cansado]]
 [s][f 4 23 1 14 3 10 0 10][vp 8 2 1 0 14 0]Não espero pelo partido no poder.[n]Decidi apoiar[n]o novo partido.[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_015__2 [Impiegato accigliato]]
+[msg MSG_SURETIGAITUUSIN_015__2 [Funcionário carrancudo]]
 [s][f 4 23 1 15 3 10 0 10][vp 8 2 1 0 15 0]Você nunca fala sobre política.[n]O que há de errado com você?[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_015__3 [Impiegato stanco]]
+[msg MSG_SURETIGAITUUSIN_015__3 [Empregado cansado]]
 [s][f 4 23 1 14 3 10 0 10][vp 8 2 1 0 14 0]Vi um especial sobre acidentes recentes e percebi[n]que não podemos confiar em quem nos governa.[n][w][e]
 [s][f 4 23 1 14 3 10 0 10][vp 8 2 1 0 14 0]Eles estão arruinando o Japão.[n]É culpa deles que pessoas como[n]os Ladrões Fantasmas estão governando o poleiro.[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_015__4 [Impiegato accigliato]]
+[msg MSG_SURETIGAITUUSIN_015__4 [Funcionário carrancudo]]
 [s][f 4 23 1 15 3 10 0 10][vp 8 2 1 0 15 0]Um novo partido no poder mudaria alguma coisa? Eu[n]simplesmente não consigo imaginar...[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_016_ [Impiegato accigliato]]
+[msg MSG_SURETIGAITUUSIN_016_ [Funcionário carrancudo]]
 [s][f 4 23 1 15 3 10 0 10][vp 8 2 1 0 15 0]Você ouviu as notícias sobre aquele[n]Phantom Thief que cometeu suicídio?[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_016__2 [Impiegato stanco]]
+[msg MSG_SURETIGAITUUSIN_016__2 [Empregado cansado]]
 [s][f 4 23 1 14 3 10 0 10][vp 8 2 1 0 14 0]Você achou que o suicídio era a solução? Ele era[n]apenas uma criança![n][w][e]
 [s][vp 8 2 1 0 14 0]E a polícia? Como poderia[n]permitir isso? Eles devem ser[n]muito incompetentes.[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_016__3 [Impiegato accigliato]]
+[msg MSG_SURETIGAITUUSIN_016__3 [Funcionário carrancudo]]
 [s][f 4 23 1 15 3 10 0 10][vp 8 2 1 0 15 0]Quem comanda está podre até a medula. Você teria[n]que substituir toda essa divisão.[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_017_ [Impiegato accigliato]]
+[msg MSG_SURETIGAITUUSIN_017_ [Funcionário carrancudo]]
 [s][f 4 23 1 15 3 10 0 10][vp 8 2 1 0 15 0]Parece que vai ganhar o partido "Unidos pelo[n]futuro". Está fazendo furor nas pesquisas de[n]opinião.[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_017__2 [Impiegato stanco]]
+[msg MSG_SURETIGAITUUSIN_017__2 [Empregado cansado]]
 [s][f 4 23 1 14 3 10 0 10][vp 8 2 1 0 14 0]É obvio. Não temos nada com que nos preocupar se[n]confiarmos no Sr. Shido![n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_017__3 [Impiegato accigliato]]
+[msg MSG_SURETIGAITUUSIN_017__3 [Funcionário carrancudo]]
 [s][f 4 23 1 15 3 10 0 10][vp 8 2 1 0 15 0]Até minha esposa diz que[n]Shido é a única esperança.[n][w][e]
 [s][vp 8 2 1 0 15 0]Nunca houve um político como ele. Uma nova era[n]brilhante está surgindo no Japão![n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_018_ [Impiegato stanco]]
+[msg MSG_SURETIGAITUUSIN_018_ [Empregado cansado]]
 [s][f 4 23 1 14 3 10 0 10][vp 8 2 1 0 14 0]Os Phantom Thieves recorreram[n]a medidas extremas novamente.[n]Que bando de terroristas...[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_018__2 [Impiegato accigliato]]
+[msg MSG_SURETIGAITUUSIN_018__2 [Funcionário carrancudo]]
 [s][f 4 23 1 15 3 10 0 10][vp 8 2 1 0 15 0]Achei bastante[n]divertido. Em última análise,[n]não é problema meu.[n][w][e]
 [s][f 4 23 1 15 3 10 0 10][vp 8 2 1 0 15 0]Eu me preocupo mais com a festa de fim de ano do[n]que com os escândalos relacionados ao Sr. Shido.[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_018__3 [Impiegato stanco]]
+[msg MSG_SURETIGAITUUSIN_018__3 [Empregado cansado]]
 [s][f 4 23 1 14 3 10 0 10][vp 8 2 1 0 14 0]Droga, preciso encontrar uma loja.[n]Ei, você conhece algum lugar bom?[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_019_ [Impiegato accigliato]]
+[msg MSG_SURETIGAITUUSIN_019_ [Funcionário carrancudo]]
 [s][f 4 23 1 15 3 10 0 10][vp 8 2 1 0 15 0]No final, em quem você vai votar?[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_019__2 [Impiegato stanco]]
+[msg MSG_SURETIGAITUUSIN_019__2 [Empregado cansado]]
 [s][f 4 23 1 14 3 10 0 10][vp 8 2 1 0 14 0]Eu ia votar[n]para Shido, mas então eu[n]abri meus olhos.[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_019__3 [Impiegato accigliato]]
+[msg MSG_SURETIGAITUUSIN_019__3 [Funcionário carrancudo]]
 [s][f 4 23 1 15 3 10 0 10][vp 8 2 1 0 15 0]Que bagunça. No final[n]é tudo um jogo político.[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_019__4 [Impiegato stanco]]
+[msg MSG_SURETIGAITUUSIN_019__4 [Empregado cansado]]
 [s][f 4 23 1 14 3 10 0 10][vp 8 2 1 0 14 0]Estou perdendo todo o interesse.[n]Agora só penso em esperar[n]até a véspera de Ano Novo.[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_020_ [Impiegato accigliato]]
+[msg MSG_SURETIGAITUUSIN_020_ [Funcionário carrancudo]]
 [s][f 4 23 1 15 3 10 0 10][vp 8 2 1 0 15 0]Todo o escritório está aliviado agora que[n]o final do ano se aproxima.[n]Aconteceu alguma coisa?[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_020__2 [Impiegato stanco]]
+[msg MSG_SURETIGAITUUSIN_020__2 [Empregado cansado]]
 [s][f 4 23 1 14 3 10 0 10][vp 8 2 1 0 14 0]Você não ouviu? Recebemos[n]um projeto muito importante.[n][w][e]
 [s][vp 8 2 1 0 14 0]Se levarmos para casa, os resultados no final[n]ano serão recordes![n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_020__3 [Impiegato accigliato]]
+[msg MSG_SURETIGAITUUSIN_020__3 [Funcionário carrancudo]]
 [s][f 4 23 1 15 3 10 0 10][vp 8 2 1 0 15 0]Eu não fazia ideia. Acho que os desejos do[n]presidente estão se tornando realidade.[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_021_ [Impiegato stanco]]
+[msg MSG_SURETIGAITUUSIN_021_ [Empregado cansado]]
 [s][f 4 23 1 14 3 10 0 10][vp 8 2 1 0 14 0]Que festa de Réveillon louca.[n]Isso me lembrou da bolha econômica[n]quando entrei na empresa.[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_021__2 [Impiegato accigliato]]
+[msg MSG_SURETIGAITUUSIN_021__2 [Funcionário carrancudo]]
 [s][f 4 23 1 15 3 10 0 10][vp 8 2 1 0 15 0]Você está dizendo que vivemos em uma bolha? Em[n]outras palavras, logo explodirá...[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_021__3 [Impiegato stanco]]
+[msg MSG_SURETIGAITUUSIN_021__3 [Empregado cansado]]
 [s][f 4 23 1 14 3 10 0 10][vp 8 2 1 0 14 0]Eu não disse nada sobre isso, mas parece quase[n]que a economia está atendendo aos desejos das[n]pessoas...[n][w][e]
 [s][vp 8 2 1 0 14 0]Estou convencido de que a bolha[n]continuará a existir enquanto[n]as pessoas quiserem.[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_022_ [Impiegato accigliato]]
+[msg MSG_SURETIGAITUUSIN_022_ [Funcionário carrancudo]]
 [s][f 4 23 1 15 3 10 0 10][vp 8 2 1 0 15 0]Este ano, o comportamento[n]do nosso superior mudou[n]de repente.[n][w][e]
 [s][vp 8 2 1 0 15 0]Eu não suportava ele antes, mas agora eu o[n]respeito.[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_022__2 [Impiegato stanco]]
+[msg MSG_SURETIGAITUUSIN_022__2 [Empregado cansado]]
 [s][f 4 23 1 14 3 10 0 10][vp 8 2 1 0 14 0]Será que é da obra dos Phantom Thieves que todo[n]mundo está falando?[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_022__3 [Impiegato accigliato]]
+[msg MSG_SURETIGAITUUSIN_022__3 [Funcionário carrancudo]]
 [s][f 4 23 1 15 3 10 0 10][vp 8 2 1 0 15 0]Os ladrões fantasmas? Quem são eles?[n]Só me lembro que Shido[n]tentou derrubar o governo.[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_023_ [Impiegato accigliato]]
+[msg MSG_SURETIGAITUUSIN_023_ [Funcionário carrancudo]]
 [s][f 4 23 1 15 3 10 0 10][vp 8 2 1 0 15 0]O novo[n]ano fiscal está prestes a começar.[n][w][e]
 [s][vp 8 2 1 0 15 0]Todo aquele barulho[n]no final do ano passado[n]não mudou nada.[n][w][e]
 
-[msg MSG_SURETIGAITUUSIN_023__2 [Impiegato stanco]]
+[msg MSG_SURETIGAITUUSIN_023__2 [Empregado cansado]]
 [s][f 4 23 1 14 3 10 0 10][vp 8 2 1 0 14 0]Aconteceu alguma coisa?[n][w][e]
 [s][vp 8 2 1 0 14 0]Bem, não é tão fácil mudar o mundo. É tarefa[n]dos mais novos...[n][w][e]
 
-[msg MSG_Q74_HINT_SURETIGAI_0 [Impiegato stanco]]
+[msg MSG_Q74_HINT_SURETIGAI_0 [Empregado cansado]]
 [s][f 4 23 1 14 3 10 0 10][vp 8 2 1 0 14 0]Online todo mundo fala sobre a Billionaire Coin.[n]Eu me pergunto se é verdade...[n][w][e]
 
-[msg MSG_Q74_HINT_SURETIGAI_0_2 [Impiegato accigliato]]
+[msg MSG_Q74_HINT_SURETIGAI_0_2 [Funcionário carrancudo]]
 [s][f 4 23 1 15 3 10 0 10][vp 8 2 1 0 15 0]Ouvi dizer que uma moeda é vendida por dez mil[n]ienes, embora não tenha valor.[n][w][e]
 
-[msg MSG_Q74_HINT_SURETIGAI_0_3 [Impiegato stanco]]
+[msg MSG_Q74_HINT_SURETIGAI_0_3 [Empregado cansado]]
 [s][f 4 23 1 14 3 10 0 10][vp 8 2 1 0 14 0]Nas redes sociais dizem que você tem que[n]comprá-los agora, ou no futuro[n]eles ficarão muito caros.[n][w][e]
 
-[msg MSG_Q74_HINT_SURETIGAI_0_4 [Impiegato accigliato]]
+[msg MSG_Q74_HINT_SURETIGAI_0_4 [Funcionário carrancudo]]
 [s][f 4 23 1 15 3 10 0 10][vp 8 2 1 0 15 0]Acredito que o vendedor joga[n]várias pessoas com várias contas.[n]É uma farsa para pessoas gananciosas.[n][w][e]
 
 [msg MSG_CHK_Q74_HINT_SURETIG]
@@ -3649,91 +3649,91 @@
 [s][f 4 23 1 65535 3 10 0 0][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 2028 65535 0]Há muitas pessoas em Shibuya.[n]Tenho que ter cuidado[n]para não perder de vista...[n][w][e]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ah... Não ligue para mim. Eu estava apenas[n]pensando em voz alta.[n][w][e]
 
-[msg MSG_IWAI_KAIKIN_YUUDOU_0 [Uomo curioso]]
+[msg MSG_IWAI_KAIKIN_YUUDOU_0 [Homem curioso]]
 [s][f 4 23 1 29 3 10 0 10][vp 8 2 1 0 29 0]Ultimamente, à noite,[n]caras suspeitos rondam[n]a loja de airsoft.[n][w][e]
 [s][vp 8 2 1 0 29 0]Eles se esgueiram[n]e fazem ligações, mas estão[n]de terno. Eles são detetives?[n][w][e]
 [s][vp 8 2 1 0 29 0]Eu realmente não quero mais ir àquela loja.[n][w][e]
 
-[msg MSG_IWAI_MASA_001_0_0 [Masa]]
+[msg MSG_IWAI_MASA_001_0_0 [Massa]]
 [s][f 4 23 1 40 0 10 0 0][vp 8 2 1 0 40 0]Mas o que eles vão[n]fazer...?[n][w][e]
 
 [msg MSG_IWAI_MASA_morgana_00 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]O que esse cara está fazendo na frente da loja?[n]Lembre-se de não levantar suspeitas.[n][w][e]
 
-[msg MSG_YOSIDA_KAIKIN_YUUDOU [Ragazzo annoiato]]
+[msg MSG_YOSIDA_KAIKIN_YUUDOU [Menino entediado]]
 [s][f 4 23 1 41 3 10 0 10][vp 8 2 1 0 41 0]Aqui eles contratam funcionários de meio período,[n]mas há muitos clientes. Parece um grande[n]trabalho.[n][w][e]
 
-[msg MSG_YOSIDA_KAIKIN_YUUDOU_2 [Ragazzo informato]]
+[msg MSG_YOSIDA_KAIKIN_YUUDOU_2 [Menino informado]]
 [s][f 4 23 1 42 3 10 0 10][vp 8 2 1 0 42 0]Dizem que celebridades também vêm aqui. Se você[n]trabalhou aqui, você pode conhecer pessoas[n]famosas.[n][w][e]
 
-[msg MSG_YOSIDA_KAIKIN_YUUDOU_3 [Ragazzo annoiato]]
+[msg MSG_YOSIDA_KAIKIN_YUUDOU_3 [Menino entediado]]
 [s][f 4 23 1 41 3 10 0 10][vp 8 2 1 0 41 0]Sério? Como um ídolo de sucesso?[n][w][e]
 
-[msg MSG_YOSIDA_KAIKIN_YUUDOU_4 [Ragazzo informato]]
+[msg MSG_YOSIDA_KAIKIN_YUUDOU_4 [Menino informado]]
 [s][f 4 23 1 42 3 10 0 10][vp 8 2 1 0 42 0]Não, um político chamado Yoshida.[n]Aquele velho que sempre realiza[n]comícios em frente à estação.[n][w][e]
 
-[msg MSG_YOSIDA_KAIKIN_YUUDOU_5 [Ragazzo annoiato]]
+[msg MSG_YOSIDA_KAIKIN_YUUDOU_5 [Menino entediado]]
 [s][f 4 23 1 41 3 10 0 10][vp 8 2 1 0 41 0]Ah, eu não dou a mínima para isso. Ele não parece[n]rico, então duvido que venha para cá.[n][w][e]
 
-[msg MSG_MAFIA_001_0_0 [Tipo squallido]]
+[msg MSG_MAFIA_001_0_0 [Cara desprezível]]
 [s][f 4 23 1 50 3 10 0 10][vp 8 2 1 0 50 0]Há um certo boato por aí.[n]As pessoas dizem que[n]"Shibuya é perigoso."[n][w][e]
 
-[msg MSG_MAFIA_001_1_0 [Uomo con piercing]]
+[msg MSG_MAFIA_001_1_0 [Homem com piercing]]
 [s][f 4 23 1 51 3 10 0 10][vp 8 2 1 0 51 0]Não há com o que se preocupar.[n]A polícia vai ficar de olho,[n]mas não vai fazer nada.[n][w][e]
 [s][vp 8 2 1 0 51 0]Apenas "refresque sua memória"[n]de vez em quando e ninguém[n]nos incomodará.[n][w][e]
 
-[msg MSG_MAFIA_001_2_0 [Tipo squallido]]
+[msg MSG_MAFIA_001_2_0 [Cara desprezível]]
 [s][f 4 23 1 50 3 10 0 10][vp 8 2 1 0 50 0]Hahaha, se eu fosse outra pessoa, não[n]provocaria pessoas como nós.[n]Pessoas que ganham muito dinheiro.[n][w][e]
 
-[msg MSG_MAFIA_003_0_0 [Tipo squallido]]
+[msg MSG_MAFIA_003_0_0 [Cara desprezível]]
 [s][f 4 23 1 52 3 10 0 10][vp 8 2 1 0 52 0]Quer caçar[n]tão cedo?[n]Não é um pouco arriscado?[n][w][e]
 
-[msg MSG_MAFIA_003_1_0 [Uomo minaccioso]]
+[msg MSG_MAFIA_003_1_0 [Homem ameaçador]]
 [s][f 4 23 1 53 3 10 0 10][vp 8 2 1 0 53 0]Cedo é ainda melhor, idiota.[n][w][e]
 [s][vp 8 2 1 0 53 0]Há muitos mais alunos do ensino médio por aí[n]agora. E as pessoas são mais cuidadosas à noite.[n][w][e]
 
-[msg MSG_MAFIA_003_2_0 [Tipo squallido]]
+[msg MSG_MAFIA_003_2_0 [Cara desprezível]]
 [s][f 4 23 1 52 3 10 0 10][vp 8 2 1 0 52 0]Entendo. Portanto, há mais[n]idiotas que serão vítimas[n]dos nossos golpes.[n][w][e]
 
-[msg MSG_ACCESSORY_START_1ST [Venditore ambulante]]
+[msg MSG_ACCESSORY_START_1ST [Mascate]]
 [s][f 4 23 1 86 21 10 20 10][vp 8 2 1 0 86 0]Coisa? Interessado em minha arte?[n][w][e]
 [s][vp 8 2 1 0 86 0]Duvido que uma criança como você[n]entenderia, mas... Hmm?[n][w][e]
 [s][vp 8 2 1 0 86 0]Você parece diferente de todas aquelas[n]multidões. Sim, você merece comprar[n]meus itens. Minha arte.[n][w][e]
 
-[msg MSG_ACCESSORY_START [Venditore ambulante]]
+[msg MSG_ACCESSORY_START [Mascate]]
 [s][f 4 23 1 86 21 10 20 10][vp 8 2 1 0 86 0]Olha... a minha arte.[n][w][e]
 
-[msg MSG_ACCESSORY_IrokeRank1 [Venditore ambulante]]
+[msg MSG_ACCESSORY_IrokeRank1 [Mascate]]
 [s][f 4 23 1 86 21 10 20 10][vp 8 2 1 0 86 0]Com [f 4 11 1][clr 26][f 4 12 1][clr 27] assim,[n]aqui está o que posso vender para você agora.[n][w][e]
 
-[msg MSG_ACCESSORY_IrokeRankM [Venditore ambulante]]
+[msg MSG_ACCESSORY_IrokeRankM [Mascate]]
 [s][f 4 23 1 86 21 10 20 10][vp 8 2 1 0 86 0]Mas cuidado que [f 4 11 1][clr 26][f 4 12 1][n][clr 27]... Você pode comprar o que quiser.[n][w][e]
 
-[msg MSG_ACCESSORY_NOTBUY [Venditore ambulante]]
+[msg MSG_ACCESSORY_NOTBUY [Mascate]]
 [s][f 4 23 1 86 21 10 20 10][vp 8 2 1 0 86 0]Oh, não há nada para você...[n][w][e]
 
-[msg MSG_ACCESSORY_THANKS [Venditore ambulante]]
+[msg MSG_ACCESSORY_THANKS [Mascate]]
 [s][f 4 23 1 86 21 10 20 10][vp 8 2 1 0 86 0]Obrigada. Volte novamente.[n][w][e]
 
 [msg MSG_CoolTermAddTalk [Morgana]]
 [s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Se você olhar de perto, poderá vê-lo tremendo.[n]Acho que para ele a moda supera a necessidade de[n]se manter aquecido.[n][w][e]
 
-[msg MSG_HAT_HOMELESS_001_0_0 [Passante]]
+[msg MSG_HAT_HOMELESS_001_0_0 [Transeunte]]
 [s][f 4 23 1 106 3 10 0 0][vp 8 2 1 0 106 0]O que foi, garoto?[n]Você não vê muitas pessoas[n]como eu, não é?[n][w][e]
 
 [sel SEL_001_0_0 top]
 [s]Não exatamente.[e]
 [s]Sinto muito.[e]
 
-[msg MSG_HAT_HOMELESS_001_1_0 [Passante]]
+[msg MSG_HAT_HOMELESS_001_1_0 [Transeunte]]
 [s][f 4 23 1 106 3 10 0 0][vp 8 2 1 0 106 0]Dada a forma como o mundo é feito,[n]muitas pessoas se encontram[n]sem um teto sobre suas cabeças.[n][w][e]
 [s][vp 8 2 1 0 106 0]Eu costumava ter uma vida, sabe?[n]Eu estava estudando arte. Sim.[n]Eu era elegante, carismático.[n][w][e]
 
-[msg MSG_HAT_HOMELESS_001_2_0 [Passante]]
+[msg MSG_HAT_HOMELESS_001_2_0 [Transeunte]]
 [s][f 4 23 1 106 3 10 0 0][vp 8 2 1 0 106 0]Ah, eu assustei você. Não estou surpreso com[n]minha aparência.[n][w][e]
 [s][vp 8 2 1 0 106 0]Eu costumava ter uma vida, sabe?[n]Eu estava estudando arte. Sim.[n]Eu era elegante, carismático.[n][w][e]
 
-[msg MSG_HAT_HOMELESS_002_0_0 [Passante]]
+[msg MSG_HAT_HOMELESS_002_0_0 [Transeunte]]
 [s][f 4 23 1 106 3 10 0 0][vp 8 2 1 0 106 0]Ei menino.[n][w][e]
 [s][vp 8 2 1 0 106 0]Eu entendo que Madarame-sensei[n]tornou-se muito famoso.[n]Você gosta do trabalho dele?[n][w][e]
 
@@ -3742,20 +3742,20 @@
 [s]Eles não são nada de especial.[e]
 [s]Eu não estou interessado.[e]
 
-[msg MSG_HAT_HOMELESS_002_1_0 [Passante]]
+[msg MSG_HAT_HOMELESS_002_1_0 [Transeunte]]
 [s][f 4 23 1 106 3 10 0 0][vp 8 2 1 0 106 0]Eu vejo...[n][w][e]
 
-[msg MSG_HAT_HOMELESS_002_2_0 [Passante]]
+[msg MSG_HAT_HOMELESS_002_2_0 [Transeunte]]
 [s][f 4 23 1 106 3 10 0 0][vp 8 2 1 0 106 0]Oh, nós temos um crítico aqui.[n][w][e]
 
-[msg MSG_HAT_HOMELESS_002_3_0 [Passante]]
+[msg MSG_HAT_HOMELESS_002_3_0 [Transeunte]]
 [s][f 4 23 1 106 3 10 0 0][vp 8 2 1 0 106 0]Acho que tem muitos[n]que pensam como você.[n][w][e]
 
-[msg MSG_HAT_HOMELESS_002_4_0 [Passante]]
+[msg MSG_HAT_HOMELESS_002_4_0 [Transeunte]]
 [s][f 4 23 1 106 3 10 0 0][vp 8 2 1 0 106 0]Eu também era artista.[n]Sonhava em ter[n]uma exposição própria.[n][w][e]
 [s][vp 8 2 1 0 106 0]Fui aprendiz de alguém[n]muito conhecido no meio artístico.[n]Mas isso foi há muito tempo.[n][w][e]
 
-[msg MSG_HAT_HOMELESS_003_0_0 [Passante]]
+[msg MSG_HAT_HOMELESS_003_0_0 [Transeunte]]
 [s][f 4 23 1 106 3 10 0 0][vp 8 2 1 0 106 0]Ei menino. Me conte algo...[n][w][e]
 [s][vp 8 2 1 0 106 0]Alguém finalmente expôs[n]Madarame. Você sabe o que vai acontecer com[n]obras de arte roubadas?[n][w][e]
 
@@ -3764,19 +3764,19 @@
 [s]Eles vão jogá-los fora.[e]
 [s]Não sei.[e]
 
-[msg MSG_HAT_HOMELESS_003_1_0 [Passante]]
+[msg MSG_HAT_HOMELESS_003_1_0 [Transeunte]]
 [s][f 4 23 1 106 3 10 0 0][vp 8 2 1 0 106 0]Eles têm algum valor?[n][w][e]
 
-[msg MSG_HAT_HOMELESS_003_2_0 [Passante]]
+[msg MSG_HAT_HOMELESS_003_2_0 [Transeunte]]
 [s][f 4 23 1 106 3 10 0 0][vp 8 2 1 0 106 0]Como eu pensava.[n][w][e]
 
-[msg MSG_HAT_HOMELESS_003_3_0 [Passante]]
+[msg MSG_HAT_HOMELESS_003_3_0 [Transeunte]]
 [s][f 4 23 1 106 3 10 0 0][vp 8 2 1 0 106 0]Já...[n][w][e]
 
-[msg MSG_HAT_HOMELESS_003_4_0 [Passante]]
+[msg MSG_HAT_HOMELESS_003_4_0 [Transeunte]]
 [s][f 4 23 1 106 3 10 0 0][vp 8 2 1 0 106 0]Desculpe, foi só curiosidade. Ao mesmo tempo[n]eu estava muito interessado em arte.[n][w][e]
 
-[msg MSG_HAT_HOMELESS_003_5_0 [Passante]]
+[msg MSG_HAT_HOMELESS_003_5_0 [Transeunte]]
 [s][f 4 23 1 106 3 10 0 0][vp 8 2 1 0 106 0]Talvez agora minha arte viva intacta. Eu devo[n]os Ladrões Fantasmas.[n][w][e]
 
 [msg MSG_AKIYAMAS_001_0_0 [Akiyama]]
@@ -3790,27 +3790,27 @@
 [s][f 4 23 1 780 3 10 0 10][vp 8 2 1 0 780 0]Hehehe... Faz sentido. Bem, você pode[n]dizer a ele algo para mim?[n][w][e]
 [s][vp 8 2 1 0 780 0]Diga a ele que pagarei minha dívida ...[n]Não posso deixá-lo[n]se sentir como um herói para sempre.[n][w][e]
 
-[msg MSG_AKIYAMAS_004_0_0 [Studente dai capelli corti]]
+[msg MSG_AKIYAMAS_004_0_0 [Estudante de cabelo curto]]
 [s][f 4 23 1 781 3 10 0 10][vp 8 2 1 0 781 0]Ei, Akiyama-kun![n]Quem é?[n][w][e]
 [s][vp 8 2 1 0 781 0]Oh! Ele talvez seja o cara de quem você[n]falou naquela vez...?[n][w][e]
 
 [msg MSG_AKIYAMAS_005_0_0 [Akiyama]]
 [s][f 4 23 1 780 3 10 0 10][vp 8 2 1 0 780 0]Shhh, não é da sua conta.[n]Vamos.[n][w][e]
 
-[msg MSG_AKIYAMAS_006_0_0 [Studente dai capelli corti]]
+[msg MSG_AKIYAMAS_006_0_0 [Estudante de cabelo curto]]
 [s][f 4 23 1 782 3 10 0 10][vp 8 2 1 0 782 0]O que?!? Espere, Akiyama![n][w][e]
 
-[msg MSG_ODATOMO_001_0_0 [Ragazzo riservato]]
+[msg MSG_ODATOMO_001_0_0 [Menino reservado]]
 [s][f 4 23 1 811 3 1 0 1][vp 8 2 1 0 8 0]Ei, você quer praticar um pouco de[n]Gun About antes que Shinya chegue aqui?[n][w][e]
 
-[msg MSG_ODATOMO_002_0_0 [Ragazzo sprezzante]]
+[msg MSG_ODATOMO_002_0_0 [Menino desdenhoso]]
 [s][f 4 23 1 810 3 1 0 1][vp 8 2 1 0 8 0]Absolutamente. Especialmente porque[n]você não é bom![n][w][e]
 [s][f 4 23 1 810 3 1 0 1]Da última vez, foi mais fácil[n]encontrar seu nome começando[n]na parte inferior da tabela de classificação...[n][w][e]
 
-[msg MSG_ODATOMO_003_0_0 [Ragazzo riservato]]
+[msg MSG_ODATOMO_003_0_0 [Menino reservado]]
 [s][f 4 23 1 811 3 1 0 1][vp 8 2 1 0 8 0]P-Pare com isso! É você que Shinya[n]sempre chama de perdedor![n][w][e]
 
-[msg MSG_ODATOMO_004_0_0 [Ragazzino tranquillo]]
+[msg MSG_ODATOMO_004_0_0 [Menino quieto]]
 [s][f 4 23 1 811 3 1 0 1][vp 8 2 1 0 8 0]Vamos, pare de discutir. Quando[n]ele chegar, perguntaremos a ele como[n]melhorar.[n][w][e]
 
 [msg MSG_ODATOMO_005_0_0]

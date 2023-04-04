@@ -13,7 +13,7 @@
 [msg MSG_000_8_0 [Ryuji]]
 [s][bup 0 2 101 65535 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Só resta um![n][f 1 3 65535][w][e]
 
-[msg MSG_001_0_0 [Ombra di politico]]
+[msg MSG_001_0_0 [Sombra de politico]]
 [s][vp 8 0 0 6 65535 0]Por favor, mantenha em segredo a[n]verdade sobre aquele acidente no metrô.[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Ryuji]]

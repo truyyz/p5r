@@ -2,7 +2,7 @@
 [s][vp 8 0 0 0 65535 0]お前みたいな、貧民街の小僧が、[n]賞金を得た? 投資で勝った?[n][f 1 3 65535][w][e]
 [s][vp 1 0 0 0 0 0]フン、あり得ない。[n]インチキをしたに決まってる。[n][f 1 3 65535][w][e]
 
-[msg MSG_MOVIE01_VOICE_2 [Protagonista]]
+[msg MSG_MOVIE01_VOICE_2 [Herói]]
 [s][vp 8 2 65535 0 0 0]Òう...僕の人生に、[n]いや運命に、答えがあったんだ![n][f 1 3 65535][w][e]
 
 [msg MSG_MOVIE01_MORU_01 [Morgana]]
@@ -22,7 +22,7 @@
 [s][vp 8 0 0 0 65535 0]なぜタダ働きさせたか...知りたいか?[n]若者にとって、最大の毒は何だと思う?[n][f 1 3 65535][w][e]
 [s][vp 1 0 0 0 0 0]『時給』だ! 時給があるからこそ、[n]真の貧困が生まれる! 寿命を金で売る発想がな![n][f 1 3 65535][w][e]
 
-[msg MSG_MOVIE02_VOICE_2 [Protagonista]]
+[msg MSG_MOVIE02_VOICE_2 [Herói]]
 [s][vp 8 2 65535 0 0 0]奇遇だな、俺も今はカネなんて要らない。[n]望むのは...貴様の破滅だけだ![n][f 1 3 65535][w][e]
 
 [msg MSG_MOVIE02_MORU_01 [Morgana]]
@@ -48,7 +48,7 @@
 [s][vp 8 2 0 0 65535 0]Com Ryuji ao meu lado,[n]assistir ao filme foi[n]quase tão divertido quanto da primeira vez...[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Graças a [clr 3]Filmmaking Soul[clr 27],[n]gostou do filme[n]com mais atenção...[n][f 1 3 65535][w][e]
 
-[msg MSG_MOVIE03_VOICE_1 [Protagonista]]
+[msg MSG_MOVIE03_VOICE_1 [Herói]]
 [s][vp 8 2 65535 0 0 0]助けて下さい、助けて下さいッ...!![n][f 1 3 65535][w][e]
 [s][vp 1 0 0 0 0 0]地»も、財産も、戻らなくていい![n]ただ、この想いを伝える事だけは、どうか...![n][f 1 3 65535][w][e]
 
@@ -115,7 +115,7 @@
 [s][vp 8 0 0 0 65535 0]おはよう、ミスター。[n]君は今、正規の鍵を使わずに館内へ侵入している。[n][f 1 3 65535][w][e]
 [s][vp 1 0 0 0 0 0]90分¹内に正規の鍵で再入館したまえ。[n]でないと、君の部屋の所有権は自動的に消滅する。[n][f 1 3 65535][w][e]
 
-[msg MSG_MOVIE05_VOICE_2 [Protagonista]]
+[msg MSG_MOVIE05_VOICE_2 [Herói]]
 [s][vp 8 2 65535 0 0 0]落ち着け...外壁にまでセキュリティは[n]及んでいないはずだ![n][f 1 3 65535][w][e]
 
 [msg MSG_MOVIE05_MORU_01 [Morgana]]
@@ -131,7 +131,7 @@
 [s][vp 8 2 0 0 65535 0]Eu dominei uma técnica inteligente de[n]infiltração...[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Graças a [clr 3]Filmmaking Soul[clr 27],[n]gostou do filme[n]com mais atenção...[n][f 1 3 65535][w][e]
 
-[msg MSG_MOVIE06_VOICE_1 [Protagonista]]
+[msg MSG_MOVIE06_VOICE_1 [Herói]]
 [s][vp 8 2 65535 0 0 0]もうやだ、たとえ仕事でも、もう二度と[n]こんな高ぇビルの掃除はやらねえからなッ![n][f 1 3 65535][w][e]
 [s][vp 1 0 0 0 0 0]畜生...クリスマスだってのに、オレは彼女に、[n]アイム・ソーリーばっかりしか言えてない。[n][f 1 3 65535][w][e]
 [s][vp 1 0 0 0 0 0]アイ・ラブ・ユーって...ただのÜ度も[n]言ってやってないんだ...[n][f 1 3 65535][w][e]
@@ -229,7 +229,7 @@
 [msg TEST_MONA2 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 47 65535 0]Você subiu na hierarquia, hein?[n][f 1 3 65535][w][e]
 
-[msg MSG_DEBUG [Debug]]
+[msg MSG_DEBUG [Depurando]]
 [s]Seleção de caracteres[n][f 1 3 65535][w][e]
 
 [sel SEL_DEBUG top]
@@ -238,7 +238,7 @@
 [s]Ann[e]
 [s]Yusuke[e]
 
-[msg MSG_DEBUG_2 [Debug 2]]
+[msg MSG_DEBUG_2 [Depuração 2]]
 [s]Seleção de filme[n][f 1 3 65535][w][e]
 
 [sel SEL_DEBUG_2 top]

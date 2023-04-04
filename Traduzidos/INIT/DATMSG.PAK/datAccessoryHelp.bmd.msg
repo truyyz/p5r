@@ -50,13 +50,13 @@
 [s]RESERVA[n][e]
 
 [msg Item_011]
-[s]Um estrangulador[n]que abre os chakras.[n][e]
+[s]Uma gargantilha[n]que abre os chakras.[n][e]
 
 [msg Item_012]
-[s]Um estrangulador[n]que fortalece a mente.[n][e]
+[s]Uma gargantilha[n]que fortalece a mente.[n][e]
 
 [msg Item_013]
-[s]Um estrangulador[n]que fortalece a alma.[n][e]
+[s]Uma gargantilha[n]que fortalece a alma.[n][e]
 
 [msg Item_014]
 [s]RESERVA[n][e]
@@ -272,28 +272,28 @@
 [s]Uma máscara amaldiçoada.[n][e]
 
 [msg Item_05B]
-[s]Ele carrega o selo de um degenerado.[n][e]
+[s]Ele carrega o selo de um degenerado.[n]Permite ao usuário usar uma[n]habilidade única de dois em um.[n][e]
 
 [msg Item_05C]
-[s]Tem o selo de um narcisista.[n][e]
+[s]Tem o selo de um narcisista.[n]Anula as fraquezas do usuário.[n][e]
 
 [msg Item_05D]
-[s]Ele carrega o selo de um[n]acumulador compulsivo.[n][e]
+[s]Ele carrega o selo de um[n]acumulador compulsivo.[n]A barreira inata pode desviar[n]todos os ataques, exceto Todo-Poderoso.[n][e]
 
 [msg Item_05E]
-[s]Tem o selo de um berserker.[n][e]
+[s]Tem o selo de um berserker.[n]Aumenta a Agilidade do usuário[n]por 3 turnos no início da batalha.[n][e]
 
 [msg Item_05F]
-[s]Ele carrega o selo de um avarento.[n][e]
+[s]Ele carrega o selo de um avarento.[n]Aumenta o Ataque do usuário[n]por 3 turnos no início da batalha.[n][e][e]
 
 [msg Item_060]
-[s]Ele carrega o selo de um conspirador.[n][e]
+[s]Ele carrega o selo de um conspirador.[n]O primeiro ataque mágico do usuário[n]causa o dobro do dano.[n][e]
 
 [msg Item_061]
-[s]Ele carrega o selo de um egoísta.[n][e]
+[s]Ele carrega o selo de um egoísta.[n]Aumenta a Defesa do usuário[n]por 3 turnos no início da batalha.[n][e]
 
 [msg Item_062]
-[s]Ele carrega o selo de um miserável.[n][e]
+[s]Ele carrega o selo de um miserável.[n]O usuário recupera 8% HP e[n]SP depois de uma vitória.[n][e]
 
 [msg Item_063]
 [s]Um cristal com o poder[n] da luxúria.[n][e]
@@ -440,7 +440,7 @@
 [s]RESERVA[n][e]
 
 [msg Item_093]
-[s]Um estrangulamento vermelho[n]que permite evitar[n]ataques de fogo.[n][e]
+[s]Uma gargatilha vermelha[n]que permite evitar[n]ataques de fogo.[n][e]
 
 [msg Item_094]
 [s]Uma pulseira misteriosa[n]que ajuda a evitar[n]ataques de fogo.[n][e]
@@ -449,7 +449,7 @@
 [s]RESERVA[n][e]
 
 [msg Item_096]
-[s]Um estrangulamento azul[n]que permite evitar[n]ataques de gelo.[n][e]
+[s]Uma gargatilha azul[n]que permite evitar[n]ataques de gelo.[n][e]
 
 [msg Item_097]
 [s]Uma pulseira misteriosa[n]que ajuda a evitar[n]ataques de gelo.[n][e]
@@ -458,7 +458,7 @@
 [s]RESERVA[n][e]
 
 [msg Item_099]
-[s]Um estrangulamento que[n]permite que você evite[n]ataques elétricos.[n][e]
+[s]Uma gargatilha que[n]permite que você evite[n]ataques elétricos.[n][e]
 
 [msg Item_09A]
 [s]Uma pulseira misteriosa[n]que ajuda a evitar[n]ataques elétricos.[n][e]
@@ -467,7 +467,7 @@
 [s]RESERVA[n][e]
 
 [msg Item_09C]
-[s]Um estrangulamento que[n]permite que você evite[n]ataques de vento.[n][e]
+[s]Uma gargatilha que[n]permite que você evite[n]ataques de vento.[n][e]
 
 [msg Item_09D]
 [s]Uma pulseira misteriosa[n]que ajuda a evitar[n]ataques de vento.[n][e]
@@ -476,7 +476,7 @@
 [s]RESERVA[n][e]
 
 [msg Item_09F]
-[s]Um estrangulador vermelho[n]que permite evitar[n]ataques nucleares.[n][e]
+[s]Uma gargatilha vermelho[n]que permite evitar[n]ataques nucleares.[n][e]
 
 [msg Item_0A0]
 [s]Uma pulseira misteriosa[n]que ajuda a evitar[n]ataques nucleares.[n][e]
@@ -485,7 +485,7 @@
 [s]RESERVA[n][e]
 
 [msg Item_0A2]
-[s]Um estrangulador enrolado[n]que permite evitar[n]ataques psicocinéticos.[n][e]
+[s]Uma gargatilha enrolada[n]que permite evitar[n]ataques psicocinéticos.[n][e]
 
 [msg Item_0A3]
 [s]Uma pulseira misteriosa[n]que ajuda a evitar[n]ataques psicocinéticos.[n][e]
@@ -494,7 +494,7 @@
 [s]RESERVA[n][e]
 
 [msg Item_0A5]
-[s]Um estrangulamento brilhante[n]que permite evitar[n]ataques sagrados.[n][e]
+[s]Uma gargatilha brilhante[n]que permite evitar[n]ataques sagrados.[n][e]
 
 [msg Item_0A6]
 [s]Uma pulseira misteriosa[n]que ajuda a evitar[n]ataques sagrados.[n][e]
@@ -503,7 +503,7 @@
 [s]RESERVA[n][e]
 
 [msg Item_0A8]
-[s]Um estrangulador nojento[n] que protege de maldições.[n][e]
+[s]Uma gargatilha nojenta[n] que protege de maldições.[n][e]
 
 [msg Item_0A9]
 [s]Um grampo de cabelo vermelho que[n] protege de maldições.[n][e]
@@ -878,7 +878,7 @@
 [s]Um anel que abriga[n]o poder da mais forte[n]Eletricidade.[n][e]
 
 [msg Item_125]
-[s]Um pequeno anel espiral[n]que abriga o poder[n]da eletricidade.[n][e]
+[s]Um pequeno anel espiral[n]que abriga o poder[n]da Eletricidade.[n][e]
 
 [msg Item_126]
 [s]Um anel espiral que[n]abriga um grande[n]poder de Eletricidade.[n][e]
@@ -1409,16 +1409,16 @@
 [s]Um pingente que pode[n]quebrar barreiras que refletem[n]ataques mágicos.[n][e]
 
 [msg Item_1D6]
-[s]Um estrangulador que[n]protege do fogo.[n][e]
+[s]Uma gargatilha que[n]protege do fogo.[n][e]
 
 [msg Item_1D7]
-[s]Um estrangulador que[n]protege do gelo.[n][e]
+[s]Uma gargatilha que[n]protege do gelo.[n][e]
 
 [msg Item_1D8]
-[s]Um estrangulador com o motivo[n] de um escudo. Proteja[n]contra ataques elétricos.[n][e]
+[s]Uma gargatilha com o motivo[n] de um escudo. Proteja[n]contra ataques elétricos.[n][e]
 
 [msg Item_1D9]
-[s]Um estrangulador que protege do vento.[n][e]
+[s]Uma gargatilha que protege do vento.[n][e]
 
 [msg Item_1DA]
 [s]Um sino que quebra[n]as barreiras de fogo.[n][e]
@@ -1433,10 +1433,10 @@
 [s]Um sino com o poder de[n]ultrapassar os guardas elétricos.[n][e]
 
 [msg Item_1DE]
-[s]Um estrangulador com o motivo[n] de um escudo. Proteger[n]de ataques nucleares.[n][e]
+[s]Uma gargatilha com o motivo[n] de um escudo. Proteger[n]de ataques nucleares.[n][e]
 
 [msg Item_1DF]
-[s]Um estrangulador com o motivo[n] de um escudo. Proteja[n]contra ataques PK.[n][e]
+[s]Uma gargatilha com o motivo[n] de um escudo. Proteja[n]contra ataques PK.[n][e]
 
 [msg Item_1E0]
 [s]Um sino com o poder[n]para derrotar os guardas[n]nucleares.[n][e]

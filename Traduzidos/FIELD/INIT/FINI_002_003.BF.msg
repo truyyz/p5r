@@ -17,12 +17,12 @@
 [msg MSG_E651103_START_02]
 [s][vp 1 0 0 0 0 0]Eu tenho que ir para casa.[n][w][e]
 
-[msg MSG_E651103_START [Altoparlanti della scuola]]
+[msg MSG_E651103_START [Palestrantes escolares]]
 [s][vp 1 0 0 0 0 0]...As aulas são[n]interrompidas temporariamente.[n][w][e]
 [s][vp 1 0 0 0 0 0]As aulas estão temporariamente[n]interrompidas.[n][w][e]
 [s][vp 1 0 0 3 0 0]Eu repito...[n][w][e]
 
-[msg MSG_E651103_RESTART_000 [Altoparlanti della scuola]]
+[msg MSG_E651103_RESTART_000 [Palestrantes escolares]]
 [s][vp 1 0 0 0 0 0]...As aulas são[n]interrompidas temporariamente.[n][w][e]
 [s][vp 1 0 0 0 0 0]Todos os alunos ainda[n]no prédio são solicitados[n]a voltar para casa o mais rápido possível.[n][w][e]
 [s][vp 1 0 0 0 0 0]Eu repito...[n][w][e]

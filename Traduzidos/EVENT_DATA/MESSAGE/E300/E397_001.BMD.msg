@@ -37,25 +37,25 @@
 [msg MSG_007_0_0 [Futaba]]
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Após alguns dias ouvindo,[n]isso confirmou a trapaça.[n][f 1 3 65535][w][e]
 
-[msg MSG_008_0_0 [Voce di Akechi]]
+[msg MSG_008_0_0 [A voz de Akechi]]
 [s][vp 8 0 0 12 65535 0]Vou levar a polícia ao seu palácio[n]e prender[n]os Ladrões Fantasmas em flagrante.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 13 65535 0]Dados seus métodos, é a única[n]maneira de pegá-los.[n]Vou lidar com eles mais tarde.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 14 65535 0]Vejamos...[n][f 1 3 65535][w][e]
 
-[msg MSG_009_0_0 [Voce di Akechi]]
+[msg MSG_009_0_0 [A voz de Akechi]]
 [s][vp 8 0 0 15 65535 0]Poderíamos dizer que ele roubou a arma[n]do guarda e cometeu suicídio[n]durante seu cativeiro... o que você acha?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 17 65535 0]O interrogatório de[n]segurança pública será o primeiro dia... e[n]nessa sala terei um jogo fácil.[n][f 1 3 65535][w][e]
 
 [msg MSG_009_5_0 [Sojiro]]
 [s][bup 0 103 4 0 0][f 4 10 65535 0 0][vp 8 0 0 27 65535 0]Mas como isso é possível?[n][f 1 3 65535][w][e]
 
-[msg MSG_010_0_0 [Voce di Akechi]]
+[msg MSG_010_0_0 [A voz de Akechi]]
 [s][vp 8 0 0 16 65535 0]Sim, o guarda estará conosco.[n]No entanto, teremos que eliminá-lo[n]para destruir as provas...[n][f 1 3 65535][w][e]
 
 [msg MSG_010_5_0 [Sae]]
 [s][vp 8 0 0 32 65535 0]Eles queriam se livrar daquele[n]guarda desde o começo...[n][f 1 3 65535][w][e]
 
-[msg MSG_011_0_0 [Voce di Akechi]]
+[msg MSG_011_0_0 [A voz de Akechi]]
 [s][vp 8 0 0 18 65535 0]Tudo bem, farei[n]isso acontecer no dia[n]após a prisão...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 19 65535 0]E assim, o criminoso perigoso[n]responsável pelas prisões mentais[n]acabará com sua vida.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 20 65535 0]Ela se tornará a heroína que[n]salvou o Japão desse mal.[n]Como eu, aliás.[n][f 1 3 65535][w][e]

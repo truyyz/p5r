@@ -62,7 +62,7 @@
 
 [msg MSG_017_0_0 [Morgana]]
 [s][vp 8 0 0 0 65535 0]Eles me capturaram no Palácio Kamoshida.[n]Foi então[n]que nos conhecemos.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]Se nos juntássemos ao Memento,[n]eu me transformaria em...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Se nos juntássemos ao Mementos,[n]eu me transformaria em...[n][f 1 3 65535][w][e]
 
 [msg MND_018_0_0]
 [s][vp 8 0 0 0 65535 0]...Mas é mesmo?[n][f 1 3 65535][w][e]

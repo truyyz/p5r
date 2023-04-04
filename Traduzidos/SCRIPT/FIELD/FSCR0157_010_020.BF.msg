@@ -30,10 +30,10 @@
 [msg mini_ev_mes_02_selA_0_me_5 [Ryuji]]
 [s][bup 0 2 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Uau uau uau! Isso é[n]muitas moedas![n][w][e]
 
-[msg mini_ev_mes_02_selA_0_me_6 [Cliente del casinò]]
+[msg mini_ev_mes_02_selA_0_me_6 [Cliente do cassino]]
 [s]Ei, alguém[n]ganhou o jackpot?[n][w][e]
 
-[msg mini_ev_mes_02_selA_0_me_7 [Cliente del casinò]]
+[msg mini_ev_mes_02_selA_0_me_7 [Cliente do cassino]]
 [s]Gosta?!? Quem?[n][w][e]
 
 [msg mini_ev_mes_02_selA_0_me_8 [Akechi]]

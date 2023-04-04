@@ -2,7 +2,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]Deveríamos encontrá-lo aqui?[n][f 1 3 65535][w][e]
 [s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Mas ela não está lá...[n]Tente procurá-la por aí.[n][f 1 3 65535][w][e]
 
-[msg MSG_001_0_0 [Poliziotto]]
+[msg MSG_001_0_0 [Policial]]
 [s][vp 8 0 0 3 6 0]Você está aqui sozinho?[n]Como você chegou aqui?[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Futaba]]
@@ -11,7 +11,7 @@
 [msg MSG_003_0_0 [Morgana]]
 [s][bup 0 3 4 0 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Ei, por aqui...[n][f 1 3 65535][w][e]
 
-[msg MSG_004_0_0 [Poliziotto]]
+[msg MSG_004_0_0 [Policial]]
 [s][vp 8 0 0 6 6 0]Você fugiu de casa?[n]Algo errado, garotinha?[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Futaba]]
@@ -34,16 +34,16 @@
 [msg MSG_010_0_0 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Mas hoje você deve vigiá-la! Vá ajudá-la![n][f 1 3 65535][w][e]
 
-[msg MSG_011_0_0 [Poliziotto]]
+[msg MSG_011_0_0 [Policial]]
 [s][vp 8 0 0 12 6 0]Hum. Você poderia vir comigo[n]até a delegacia?[n][f 1 3 65535][w][e]
 
-[msg MSG_012_0_0 [Poliziotto]]
+[msg MSG_012_0_0 [Policial]]
 [s][vp 8 0 0 13 6 0]Huh? E quem é você?[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Futaba]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 8 7 300 1][vp 8 0 0 14 65535 0][f 4 2]?!?[n][f 1 3 65535][w][e]
 
-[msg MSG_014_0_0 [Poliziotto]]
+[msg MSG_014_0_0 [Policial]]
 [s][vp 8 0 0 15 6 0]Você conhece essa garota?[n][f 1 3 65535][w][e]
 
 [sel SEL_015_0_0 top]
@@ -51,10 +51,10 @@
 [s]Ela é minha parente.[e]
 [s]Desculpe pela inconveniência.[e]
 
-[msg MSG_016_0_0 [Poliziotto]]
+[msg MSG_016_0_0 [Policial]]
 [s][vp 8 0 0 16 6 0]Você não está mentindo, está?[n][f 1 3 65535][w][e]
 
-[msg MSG_017_0_0 [Poliziotto]]
+[msg MSG_017_0_0 [Policial]]
 [s][vp 8 0 0 45 6 0]Muito bom.[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Morgana]]

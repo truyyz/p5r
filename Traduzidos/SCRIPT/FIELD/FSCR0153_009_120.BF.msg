@@ -1,4 +1,4 @@
-[msg D02_04_e210_225_mes01 [Ombra Guardia della security]]
+[msg D02_04_e210_225_mes01 [Guarda de segurança sombra]]
 [s]Uh?!? Então foi você quem[n]mexeu com a corrente![n][w][e]
 
 [msg D02_04_e210_225_mes02 [Ryuji]]

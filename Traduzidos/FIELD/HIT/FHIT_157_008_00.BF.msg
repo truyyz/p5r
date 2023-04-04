@@ -11,7 +11,7 @@
 [msg D157_008_miniEV_01_mes03 [Ryuji]]
 [s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Oooh, então vamos pegá-los em flagrante! Calma.[n]Vamos, vamos nos ocupar![n][w][e]
 
-[msg EV_03_TALK_01 [Messaggio vocale]]
+[msg EV_03_TALK_01 [Mensagem de voz]]
 [s]Suba naquele pilar e[n]vá para o corredor dos funcionários![n][w][e]
 
 [msg EV_03_ANIME_01 [アニメ(仮)]]
@@ -19,7 +19,7 @@
 [s]しかし、何者かの気配に立ち止まる。[n][w][e]
 [s]こんな所にもシャドウかと構えるが[n]不Äに通信の声が。[n][w][e]
 
-[msg EV_03_ANIME_02 [Messaggio vocale]]
+[msg EV_03_ANIME_02 [Mensagem de voz]]
 [s]Não...[n][w][e]
 [s]Este sinal...[n]não veio de uma Sombra.[n][w][e]
 [s]É mesmo humano?!?[n][w][e]

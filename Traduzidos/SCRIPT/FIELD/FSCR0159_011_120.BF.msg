@@ -1,20 +1,20 @@
-[msg D07_02_e411_025_mes01 [Uomo molto volgare]]
+[msg D07_02_e411_025_mes01 [Homem muito vulgar]]
 [s]Parem aí, idiotas.[n][w][e]
 
 [msg D07_02_e411_025_mes02 [Ann]]
 [s][bup 0 4 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6199 65535 0]Ei, é aquele cara assustador![n]Não criamos mais[n]problemas, criamos?[n][w][e]
 
-[msg D07_02_e411_025_mes03 [Uomo molto volgare]]
+[msg D07_02_e411_025_mes03 [Homem muito vulgar]]
 [s]Não mas...[n][w][e]
 [s]Você derrotou meus homens[n]e não posso ignorar isso.[n]Devo vingá-los.[n][w][e]
 
 [msg D07_02_e411_025_mes04 [Ryuji]]
 [s][bup 0 2 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7044 65535 0]Espere, foi você quem[n]nos atacou, lembra?[n][w][e]
 
-[msg D07_02_e411_025_mes05 [Uomo molto volgare]]
+[msg D07_02_e411_025_mes05 [Homem muito vulgar]]
 [s]Umpf, tudo o que você faz é latir.[n]Bem, talvez seja melhor eu[n]poupá-lo...[n][w][e]
 
-[msg D07_02_e411_025_mes06 [Uomo molto volgare]]
+[msg D07_02_e411_025_mes06 [Homem muito vulgar]]
 [s]Mas primeiro você terá que sobreviver a[n]eles![n][w][e]
 
 [msg D07_02_e411_025_mes07 [Morgana]]

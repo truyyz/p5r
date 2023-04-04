@@ -69,7 +69,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]Eu me perguntei por que tinha vontade própria,[n]mas você está dizendo que não é um tesouro?[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Lavenza]]
-[s][bup 0 100 0 0 0][f 4 10 65535 0 0][vp 8 0 0 90 65535 0]Não. Como fruto dos[n]desejos distorcidos das massas, é sem dúvida[n]o cerne do Memento.[n][f 1 3 65535][w][e]
+[s][bup 0 100 0 0 0][f 4 10 65535 0 0][vp 8 0 0 90 65535 0]Não. Como fruto dos[n]desejos distorcidos das massas, é sem dúvida[n]o cerne do Mementos.[n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Haru]]
 [s][bup 0 7 103 0 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Então… o Tesouro tornou-se um[n]deus porque as pessoas queriam[n]ser governadas?[n][f 1 3 65535][w][e]
@@ -80,7 +80,7 @@
 [msg MSG_029_1_0 [Lavenza]]
 [s][bup 0 100 0 0 0][f 4 10 65535 0 0][vp 8 0 0 92 65535 0]Para determinar o destino do mundo, ele[n]selecionou duas pessoas com[n]potencial e as colocou uma contra a outra.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 93 65535 0]Akechi abrigava a distorção.[n]Se ele vencesse, o mundo[n]seria destruído e reconstruído.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 94 65535 0]Para evitar tudo isso,[n]teria havido um Malandro...[n]Isto é [f 4 3].[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 94 65535 0]Para evitar tudo isso,[n]teria havido um Trapaceiro...[n]Isto é [f 4 3].[n][f 1 3 65535][w][e]
 
 [msg MSG_029_1_5 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 95 65535 0]Se [f 4 2] tivesse vencido, o[n]mundo humano teria permanecido inalterado.[n][f 1 3 65535][w][e]
@@ -92,12 +92,12 @@
 
 [msg MSG_029_2_5 [Lavenza]]
 [s][bup 0 100 0 0 0][f 4 10 65535 0 0][vp 8 0 0 99 65535 0]No entanto, meu verdadeiro mestre[n]acreditava na humanidade.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 100 65535 0]Ele acreditava que um Malandro iria[n]liderar o povo, trazendo[n]um fim à revolução.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 100 65535 0]Ele acreditava que um Trapaceiro iria[n]liderar o povo, trazendo[n]um fim à revolução.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 101 65535 0]Mas a entidade zombou dessa[n]perspectiva e tentou provar[n]a impotência humana com brincadeiras.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 102 65535 0]E [f 4 3] tinha grande[n]potencial... e é por isso que[n]ele o abordou.[n][f 1 3 65535][w][e]
 
 [msg MSG_029_3_0 [Lavenza]]
-[s][bup 0 100 0 0 0][f 4 10 65535 0 0][vp 8 0 0 103 65535 0]Ele apoiou o Malandro, apenas[n]para fazê-lo se desesperar quando as massas[n]rejeitaram seu salvador.[n][f 1 3 65535][w][e]
+[s][bup 0 100 0 0 0][f 4 10 65535 0 0][vp 8 0 0 103 65535 0]Ele apoiou o Trapaceiro, apenas[n]para fazê-lo se desesperar quando as massas[n]rejeitaram seu salvador.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 104 65535 0]Provavelmente era seu meio de[n]cortar pela raiz qualquer coisa que[n]representasse uma ameaça.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 117 65535 0]Agora que penso em quando estava[n]dividido, senti uma certa perturbação[n]pela palavra "reabilitação".[n][f 1 3 65535][w][e]
 
@@ -121,7 +121,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 120 65535 0]Só você pode se libertar desta[n]prisão e salvar o[n]mundo distorcido e seus cativos...[n][f 1 3 65535][w][e]
 
 [msg MSG_035_7_0 [Lavenza]]
-[s][bup 0 100 2 0 0][f 4 10 65535 0 0][vp 8 0 0 110 65535 0]Rapaz, com a orientação de Morgana[n]e portando o título de[n]Malandro...[n][f 1 3 65535][w][e]
+[s][bup 0 100 2 0 0][f 4 10 65535 0 0][vp 8 0 0 110 65535 0]Rapaz, com a orientação de Morgana[n]e portando o título de[n]Trapaceiro...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 111 65535 0]Você terá que desafiar o deus maligno e[n]reivindicar sua existência na[n]realidade. Você acha que consegue?[n][f 1 3 65535][w][e]
 
 [sel SEL_036_0_0 top]

@@ -1,10 +1,10 @@
 [msg MSG_000_0_0 [Futaba]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 8 1 301 1][vp 8 0 0 1 65535 0]Esses feijões... são a bomba![n][f 1 3 65535][w][e]
 
-[msg MSG_001_0_0 [Donna con occhiali]]
+[msg MSG_001_0_0 [Mulher de óculos]]
 [s][bup 0 208 501 65535 0][f 4 10 65535 0 0][vp 8 0 0 2 7 0]Eles têm uma forma perfeita,[n]e são tão brilhantes...[n][f 1 3 65535][w][e]
 
-[msg MSG_002_0_0 [Donna con occhiali]]
+[msg MSG_002_0_0 [Mulher de óculos]]
 [s][bup 0 208 501 65535 0][f 4 10 65535 0 0][vp 8 0 0 3 7 0]Parece que suas receitas agora[n]são dignas de uma dona de casa de verdade.[n]Você está tentando se casar?[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Sojiro]]
@@ -16,7 +16,7 @@
 [msg MSG_005_0_0 [Futaba]]
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Experimente feijão preto![n]Ele vai mudar sua vida![n][f 1 3 65535][w][e]
 
-[msg MSG_006_0_0 [Donna con occhiali]]
+[msg MSG_006_0_0 [Mulher de óculos]]
 [s][bup 0 208 501 65535 0][f 4 10 65535 0 0][vp 8 0 0 7 7 0]Bom dia.[n][f 1 3 65535][w][e]
 
 [sel SEL_007_0_0 top]
@@ -24,7 +24,7 @@
 [s]Já nos encontramos antes?[e]
 [s]...A garota da Esfinge?[e]
 
-[msg MSG_008_0_0 [Donna con occhiali]]
+[msg MSG_008_0_0 [Mulher de óculos]]
 [s][bup 0 208 500 65535 0][f 4 10 65535 0 0][vp 8 0 0 8 7 0]Oi, o que é? A primeira piada[n]do ano novo?[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Futaba]]
@@ -53,13 +53,13 @@
 [msg MSG_016_0_0 [Futaba]]
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]E aí? Não está se sentindo bem?[n][f 1 3 65535][w][e]
 
-[msg MSG_017_0_0 [Tipo muscoloso]]
+[msg MSG_017_0_0 [Tipo musculoso]]
 [s][bup 0 3 800 65535 0][f 4 10 65535 0 0][vp 8 0 0 16 6 0]Está assim desde ontem.[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Wakaba]]
 [s][bup 0 208 501 65535 0][f 4 10 65535 0 0][vp 8 0 0 17 7 0]Bom dia Mona.[n][f 1 3 65535][w][e]
 
-[msg MSG_019_0_0 [Tipo muscoloso]]
+[msg MSG_019_0_0 [Tipo musculoso]]
 [s][bup 0 3 801 65535 0][f 4 10 65535 0 0][vp 8 0 0 18 6 0]'Bom dia![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Ainda há osechi suficiente[n]para mim também?[n][f 1 3 65535][w][e]
 

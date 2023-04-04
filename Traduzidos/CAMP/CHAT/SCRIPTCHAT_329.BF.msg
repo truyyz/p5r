@@ -14,7 +14,7 @@
 [s][f 5 14]Isso me lembra de quando[n]começamos a atuar[n]como Phantom Thieves.[n][w][e]
 
 [msg MSG_003_5_0 [Ryuji]]
-[s][f 5 14]De repente, Morgana decidiu nos trazer[n]para Memento.[n][w][e]
+[s][f 5 14]De repente, Morgana decidiu nos trazer[n]para Mementos.[n][w][e]
 
 [msg MSG_004_0_0 [Makoto]]
 [s][f 5 14]Espere, isso significa...[n][w][e]

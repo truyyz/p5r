@@ -7,13 +7,13 @@
 [msg MSG_002_0_0 [Caroline]]
 [s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Se você estiver errado,[n]você será severamente torturado![n][f 1 3 65535][w][e]
 
-[msg MSG_003_0_0 [Passeggeri montagne russe]]
+[msg MSG_003_0_0 [Montanha-russa de passageiros]]
 [s]*aaah*[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Caroline]]
 [s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]E-esse grito...![n][f 1 3 65535][w][e]
 
-[msg MSG_005_0_0 [Passeggeri montagne russe]]
+[msg MSG_005_0_0 [Montanha-russa de passageiros]]
 [s]*aaah*[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Justine]]
@@ -31,7 +31,7 @@
 [s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Precisamos determinar se este[n]local pode ser benéfico[n]para sua reabilitação.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Segue-se que devemos[n]experimentá-lo em primeira mão.[n][f 1 3 65535][w][e]
 
-[msg MSG_010_0_0 [Passeggeri montagne russe]]
+[msg MSG_010_0_0 [Montanha-russa de passageiros]]
 [s]*aaah*[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Caroline]]
@@ -87,19 +87,19 @@
 [msg MSG_025_0_0 [Justine]]
 [s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Muito bom.[n][f 1 3 65535][w][e]
 
-[msg MSG_026_0_0 [Mummia]]
+[msg MSG_026_0_0 [Mamãe]]
 [s]Srrrrrrrr...![n][f 1 3 65535][w][e]
 
 [msg MSG_027_0_0 [Caroline]]
 [s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Huh? Você está morto ou o quê?[n]Ok, eu vou te ajudar...[n]Samarecarm.[n][f 1 3 65535][w][e]
 
-[msg MSG_028_0_0 [Fantasma con lanterna]]
+[msg MSG_028_0_0 [Fantasma com lanterna]]
 [s]Bleeeehhhh![n][f 1 3 65535][w][e]
 
 [msg MSG_029_0_0 [Justine]]
 [s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Aaah! Fique atrás! Makakarn! Garudyne![n][f 1 3 65535][w][e]
 
-[msg MSG_030_0_0 [TV-Exiting Phantom\n]]
+[msg MSG_030_0_0 [Fantasma de Saída da TV]]
 [s]Guhhhhhh...[n][f 1 3 65535][w][e]
 
 [msg MSG_031_0_0 [Caroline]]

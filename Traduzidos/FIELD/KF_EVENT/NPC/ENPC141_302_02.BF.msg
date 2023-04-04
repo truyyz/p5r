@@ -5,25 +5,25 @@
 [msg MSG_000_000_00]
 [s]Fictício[n][w][e]
 
-[msg MSG_064_0_0 [Matricola motivata]]
+[msg MSG_064_0_0 [Calouro motivado]]
 [s][vp 1 0 0 0 0 0]Mais cedo, vi passar uma[n]garota que parecia uma modelo![n][w][e]
 
-[msg MSG_065_0_0 [Matricola vivace]]
+[msg MSG_065_0_0 [Calouro animada]]
 [s][vp 1 0 0 0 0 0]Você quer dizer Takamaki-senpai? Ela é famosa.[n]Anteriormente morou no exterior e frequentemente[n]posa para comerciais...[n][w][e]
 
-[msg MSG_066_0_0 [Matricola motivata]]
+[msg MSG_066_0_0 [Calouro motivado]]
 [s][vp 1 0 0 0 0 0]Eu gostaria de poder conhecê-la,[n]mas ela parece inacessível.[n][w][e]
 
-[msg MSG_067_0_0 [Matricola vivace]]
+[msg MSG_067_0_0 [Calouro animada]]
 [s][vp 1 0 0 0 0 0]Já. E também é aquele que é notado. Parece que[n]alguns alunos do terceiro ano ficam de olho nela.[n][w][e]
 
-[msg MSG_068_0_0 [Matricola motivata]]
+[msg MSG_068_0_0 [Calouro motivado]]
 [s][vp 1 0 0 0 0 0]O que?!? Droga...[n]Aqui está o que acontece, se você[n]se destacar demais dos outros...[n][w][e]
 
 [msg MSG_026_0_0 [Ryuji]]
 [s][vp 1 0 0 0 0 0]Aqui está você, finalmente.[n]Tenho um favor a lhe pedir.[n][w][e]
 
-[msg MSG_027_0_0 [Pallavolista turbato]]
+[msg MSG_027_0_0 [Jogador de vôlei chateado]]
 [s][vp 1 0 0 0 0 0]S-Sakamoto... Eu sabia que você[n]iria me procurar...[n][w][e]
 [s][vp 1 0 0 0 0 0]Ouça, eu tenho que ir torcer pelo Prof.[n]Kamoshida, então eu gostaria de pedir para você[n]adiar para mais tarde...[n][w][e]
 
@@ -35,7 +35,7 @@
 [s]Ajude-nos.[e]
 [s]Não vire as costas.[e]
 
-[msg MSG_030_0_0 [Pallavolista turbato]]
+[msg MSG_030_0_0 [Jogador de vôlei chateado]]
 [s][vp 1 0 0 0 0 0]...Sinto muito, mas você[n]terá que falar com outra pessoa.[n][w][e]
 [s][vp 1 0 0 0 0 0]Quero me formar sem[n]problemas... Prefiro não[n]acabar como você.[n][w][e]
 [s][vp 1 0 0 0 0 0]Se eu fizer inimigos do Prof. Kamoshida,[n]haverá problemas para mim.[n]Você sabe o quão influente ele é, não é...?[n][w][e]
@@ -64,7 +64,7 @@
 [s][vp 1 0 0 0 0 0]...Com licença.[n][w][e]
 [s][vp 1 0 0 0 0 0]Vamos, para me compensar, te ofereço um suco. Nós[n]vamos para o pátio.[n][w][e]
 
-[msg MSG_032_0_0 [Pallavolista turbato]]
+[msg MSG_032_0_0 [Jogador de vôlei chateado]]
 [s][vp 1 0 0 0 0 0]Por que você está tentando criar problemas?[n]Todos estão bem[n]como estão...[n][w][e]
 [s][vp 1 0 0 0 0 0]Você deve saber[n]que... é melhor manter[n]o status quo.[n][w][e]
 

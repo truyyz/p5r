@@ -4,7 +4,7 @@
 [msg D01_02_e130_101_mes02 [Ryuji]]
 [s][bup 0 2 0 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu memorizei o rosto de[n]todos os caras aqui.[n]Vamos procurar mais.[n][w][e]
 
-[msg D01_02_e130_102_mes01 [Pallavolista]]
+[msg D01_02_e130_102_mes01 [Jogador de voleibol]]
 [s]Uma água...[n][w][e]
 [s]Urgh... Pare, por favor...[n][w][e]
 
@@ -18,7 +18,7 @@
 [msg D01_02_e130_102_mes04 [Ryuji]]
 [s][bup 0 2 0 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu já memorizei o rosto deles![n]Vamos, vamos encontrar mais alguns![n][w][e]
 
-[msg D01_02_e130_103_mes01 [Pallavolista]]
+[msg D01_02_e130_103_mes01 [Jogador de voleibol]]
 [s]Ah! Argh![n][w][e]
 [s]Dói... dói...![n][w][e]
 
@@ -42,7 +42,7 @@
 [msg D01_02_e130_103_mes04 [Ryuji]]
 [s][bup 0 2 0 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu já memorizei o rosto deles![n]Vamos, vamos encontrar mais alguns![n][w][e]
 
-[msg D01_02_e130_104_mes01 [Pallavolista]]
+[msg D01_02_e130_104_mes01 [Jogador de voleibol]]
 [s]Ai! Argh...![n][w][e]
 [s]Nng... Chega...[n][w][e]
 
@@ -66,7 +66,7 @@
 [msg D01_02_e130_104_mes04 [Ryuji]]
 [s][bup 0 2 0 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu já memorizei o rosto deles![n]Vamos, vamos encontrar mais alguns![n][w][e]
 
-[msg D01_02_e130_105_mes01 [Pallavolista]]
+[msg D01_02_e130_105_mes01 [Jogador de voleibol]]
 [s]*gole *gole*[n][w][e]
 [s]Minhas pernas... não[n]aguentarão...[n]longas...[n][w][e]
 

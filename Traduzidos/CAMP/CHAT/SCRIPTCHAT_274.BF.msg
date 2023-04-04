@@ -6,7 +6,7 @@
 
 [msg MSG_001_0_0 [Morgana]]
 [s][bup 0 3 4 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]Ei...[n][f 1 3 65535][w][e]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Basicamente, foi isso que[n]ele disse em Memento.[n][f 1 3 65535][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Basicamente, foi isso que[n]ele disse em Mementos.[n][f 1 3 65535][w][e]
 [s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu acho que eles têm um vínculo fraternal[n]real, hein?[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Mishima]]

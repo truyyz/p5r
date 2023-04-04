@@ -14,7 +14,7 @@
 [msg D02_153_09_ex_chk_selA_1 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]OK. Antes de lidar com isso, certifique-se de[n]estar preparado.[n][w][e]
 
-[msg D02_153_09_ex_btl_mes01 [Ombra Guardia della security]]
+[msg D02_153_09_ex_btl_mes01 [Guarda de segurança sombra]]
 [s]Mas como você...![n][w][e]
 [s]Bem, você sabe o que? Quem[n]se importa... agora que você viu[n]este lugar, você não vai conseguir sair vivo![n][w][e]
 

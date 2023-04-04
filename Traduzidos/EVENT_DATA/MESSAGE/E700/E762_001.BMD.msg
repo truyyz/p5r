@@ -1,12 +1,12 @@
 [msg MSG_004_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1168 65535 0][f 4 22 65535 3 22]Nossa, que bom! Olha[n]que atendimento impecável![n][f 1 3 65535][w][e]
 
-[msg MSG_005_0_0 [Dipendente]]
+[msg MSG_005_0_0 [Funcionário]]
 [s][vp 8 2 0 58556 4 0]Fiuuu, hoje tivemos[n]muitos clientes.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 4 0]É uma oferta. Damos[n]pontos extras [clr 2]todos os dias[n]do mês com um "7"[clr 27].[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 58557 4 0]Ah, eu sou Nanami Shibuya. Eu sou[n]seu senpai, certo? Então, você[n]tem uma ideia do que precisa fazer?[n][f 1 3 65535][w][e]
 
-[msg MSG_005_0_1 [Dipendente]]
+[msg MSG_005_0_1 [Funcionário]]
 [s][vp 8 2 0 58556 4 0]Fiuuu, hoje tivemos[n]muitos clientes.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 4 0]Espero que eles não tenham sobrecarregado você![n]Temos uma oferta com[n]pontos extras [clr 2]todos os dias do mês com um "7"[clr 27].[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 58557 4 0]Ah, eu sou Nanami Shibuya. Eu sou[n]seu senpai, certo? Então, você[n]tem uma ideia do que precisa fazer?[n][f 1 3 65535][w][e]

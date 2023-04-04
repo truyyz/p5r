@@ -1,11 +1,11 @@
-[msg MSG_000_1_0 [Cliente rozza]]
+[msg MSG_000_1_0 [Cliente áspero]]
 [s][vp 8 0 0 0 65535 0]Você nunca se sentiu sozinha, So-chan?[n]Você está solteira há muito tempo,[n]agora... Já desistiu de se casar?[n][f 1 3 65535][w][e]
 
 [msg MSG_000_2_0 [Sojiro]]
 [s][bup 0 103 1 0 0][f 4 10 65535 0 0][vp 8 2 0 5024 65535 0]No meu relacionamento ideal, procuro[n]estimulação quente seguida de[n]relaxamento confortável.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Duas coisas que posso encontrar em[n]meu curry e meu café.[n]Isso é o suficiente para mim.[n][f 1 3 65535][w][e]
 
-[msg MSG_000_3_0 [Cliente rozza]]
+[msg MSG_000_3_0 [Cliente áspero]]
 [s][vp 8 0 0 0 65535 0]Ele sempre encontra uma maneira de fugir[n]minhas perguntas. Ele é inteligente.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]A propósito, o que você acha[n]da vida solitária de So-chan?[n][f 1 3 65535][w][e]
 
@@ -37,30 +37,30 @@
 [msg MSG_002_0_0 [Sojiro]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 103 3 300 1][vp 8 2 0 5047 65535 0]Você simplesmente não sabe quando é hora[n]de parar, não é...?!?[n][f 1 3 65535][w][e]
 
-[msg MSG_003_0_0 [Anziano allegro]]
+[msg MSG_003_0_0 [Velho alegre]]
 [s][vp 8 0 0 0 65535 0]Acabei de descobrir algo[n]MUITO interessante![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Você manteve Futaba longe da escola e dos amigos.[n]Não parece uma boa escolha dos pais.[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Sojiro]]
 [s][bup 0 103 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Oh sim? E o que VOCÊ[n]fez para cuidar dela?[n][f 1 3 65535][w][e]
 
-[msg MSG_005_0_0 [Anziano allegro]]
+[msg MSG_005_0_0 [Velho alegre]]
 [s][vp 8 0 0 0 65535 0]Você sabe exatamente o que eu fiz...[n]e é hora de eu[n]cobrar.[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Sojiro]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 103 3 300 1][vp 8 2 0 5046 65535 0]Não seja ridículo.[n]A vida de Futaba foi terrível com você...[n][f 1 3 65535][w][e]
 [s][bup 0 103 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Além disso, já lhe dei a maior parte da herança[n]destinada à tutela! Isso não é o suficiente?!?[n][f 1 3 65535][w][e]
 
-[msg MSG_007_0_0 [Anziano allegro]]
+[msg MSG_007_0_0 [Velho alegre]]
 [s][vp 8 0 0 0 65535 0]Podemos descobrir no tribunal.[n]Quem sabe quem ganharia entre um[n]parente e um simples tutor.[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Sojiro]]
 [s][bup 0 103 5 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você...![n][f 1 3 65535][w][e]
 
-[msg MSG_009_0_0 [Anziano allegro]]
+[msg MSG_009_0_0 [Velho alegre]]
 [s][vp 8 0 0 0 65535 0]Sem falar que você tem aquele[n]garoto aqui com você! Eu sei tudo[n]sobre ele e seu passado.[n][f 1 3 65535][w][e]
 
-[msg MSG_010_0_0 [Anziano allegro]]
+[msg MSG_010_0_0 [Velho alegre]]
 [s][vp 8 0 0 0 65535 0]Resumindo, no final temos um[n]"pai" que não deixa ela ir[n]à escola e um bandido em casa...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Não parece o ambiente mais ideal[n]para o Futaba, não é?[n][f 1 3 65535][w][e]
 
@@ -69,13 +69,13 @@
 [s]Sinto muito.[e]
 [s][f 0 8 2 1 2217]Cale a boca.[clr 27][e]
 
-[msg MSG_012_0_0 [Anziano allegro]]
+[msg MSG_012_0_0 [Velho alegre]]
 [s][vp 8 0 0 0 65535 0]Como você ousa?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Sojiro]]
 [s][bup 0 103 2 0 0][f 4 10 65535 0 0][f 5 13 6 5 1003][vp 8 0 0 0 65535 0]Não se preocupe, eu cuido disso...[n]Você sobe.[n][f 1 3 65535][w][e]
 
-[msg MSG_014_0_0 [Anziano allegro]]
+[msg MSG_014_0_0 [Velho alegre]]
 [s][vp 8 0 0 0 65535 0]Tenho certeza. Estou feliz[n]que pelo menos uma pessoa aqui[n]reconhece suas deficiências.[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Sojiro]]
@@ -85,7 +85,7 @@
 [msg SYS_016_0_0]
 [s][vp 8 0 0 0 65535 0]Não tenho[n]Coragem suficiente para esta escolha...[n][f 1 3 65535][w][e]
 
-[msg MSG_017_0_0 [Anziano allegro]]
+[msg MSG_017_0_0 [Velho alegre]]
 [s][vp 8 0 0 0 65535 0]Você tem algum problema,[n]truque?!? Vou processar você[n]por ameaças![n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Sojiro]]
@@ -97,7 +97,7 @@
 [msg MSG_020_0_0 [Futaba]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 8 5 301 1][vp 8 2 0 9178 65535 0]Ah...[n][f 1 3 65535][w][e]
 
-[msg MSG_021_0_0 [Anziano allegro]]
+[msg MSG_021_0_0 [Velho alegre]]
 [s][vp 8 0 0 0 65535 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 103 5 300 65535]Futaba-chan! Faz muito tempo[n]que não o vejo![n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Futaba]]
@@ -106,19 +106,19 @@
 [msg MSG_023_0_0 [Sojiro]]
 [s][bup 0 103 4 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Futaba![n][f 1 3 65535][w][e]
 
-[msg MSG_024_0_0 [Anziano allegro]]
+[msg MSG_024_0_0 [Velho alegre]]
 [s][vp 8 0 0 0 65535 0]Visto? Assim como eu disse.[n]Ele está no limite. Esta[n]solução não é para você.[n][f 1 3 65535][w][e]
 
 [msg MSG_024_3_0 [Sojiro]]
 [s][bup 0 103 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ele está doente só porque[n]agora você está aqui![n][f 1 3 65535][w][e]
 
-[msg MSG_024_5_0 [Anziano allegro]]
+[msg MSG_024_5_0 [Velho alegre]]
 [s][vp 8 0 0 0 65535 0]Umpf, não me faça repetir... Você nunca[n]ganharia no tribunal. Você também pode[n]dar-me o dinheiro imediatamente.[n][f 1 3 65535][w][e]
 
 [msg MSG_024_7_0 [Sojiro]]
 [s][bup 0 103 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Grrr...[n][f 1 3 65535][w][e]
 
-[msg MSG_025_0_0 [Anziano allegro]]
+[msg MSG_025_0_0 [Velho alegre]]
 [s][vp 8 0 0 0 65535 0]Bem, espero que você finalmente tome a decisão[n]certa! Até mais![n][f 1 3 65535][w][e]
 
 [msg MSG_026_0_0 [Sojiro]]

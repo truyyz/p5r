@@ -7,25 +7,25 @@
 [s]Selecione "Horas extras"[e]
 [s]Não mude nada[e]
 
-[msg D156_07_CONSOLE_SYS_A_me [Avviso della fabbrica]]
+[msg D156_07_CONSOLE_SYS_A_me [Aviso de fábrica]]
 [s]É HORA DO INTERVALO![n][w][e]
 
-[msg D156_07_CONSOLE_SYS_A_me_2 [Avviso della fabbrica]]
+[msg D156_07_CONSOLE_SYS_A_me_2 [Aviso de fábrica]]
 [s]VAMOS DESCANSAR PARA RECARREGAR O ESPÍRITO[n]CANSADO![n][w][e]
 
-[msg D156_07_CONSOLE_SYS_A_me_3 [Avviso della fabbrica]]
+[msg D156_07_CONSOLE_SYS_A_me_3 [Aviso de fábrica]]
 [s]A PAUSA VAI DURAR[n]APROXIMADAMENTE CINCO SEGUNDOS![n][w][e]
 
-[msg D156_07_CONSOLE_SYS_B_me [Avviso della fabbrica]]
+[msg D156_07_CONSOLE_SYS_B_me [Aviso de fábrica]]
 [s]É HORA DO INTERVALO![n][w][e]
 
-[msg D156_07_CONSOLE_SYS_B_me_2 [Avviso della fabbrica]]
+[msg D156_07_CONSOLE_SYS_B_me_2 [Aviso de fábrica]]
 [s]VAMOS CONSUMIR NOSSA SAFRA[n]E RECHEAR DE ALEGRIA![n][w][e]
 
-[msg D156_07_CONSOLE_SYS_B_me_3 [Avviso della fabbrica]]
+[msg D156_07_CONSOLE_SYS_B_me_3 [Aviso de fábrica]]
 [s]O INTERVALO PARA O ALMOÇO VAI DURAR[n]APROXIMADAMENTE TRINTA SEGUNDOS![n][w][e]
 
-[msg D156_07_CONSOLE_SYS_C_me [Avviso della fabbrica]]
+[msg D156_07_CONSOLE_SYS_C_me [Aviso de fábrica]]
 [s]ESTAMOS EM UM ESTADO CONSTANTE DE[n]HORAS EXTRAS NÃO PAGOS![n][w][e]
 [s]VAMOS COMPROMETER-NOS A TRABALHAR DURO DIA E[n]NOITE![n][w][e]
 

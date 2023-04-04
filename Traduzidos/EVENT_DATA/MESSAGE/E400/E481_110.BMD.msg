@@ -53,10 +53,10 @@
 [msg MSG_016_0_0 [Maruki]]
 [s][bup 0 216 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Oh não. Na verdade eu...[n][f 1 3 65535][w][e]
 
-[msg MSG_017_0_0 [Studentessa adulatrice]]
+[msg MSG_017_0_0 [Estudante lisonjeiro]]
 [s][vp 8 0 0 20 10 0]Aqui está, Doutor Maruki![n][f 1 3 65535][w][e]
 
-[msg MSG_018_0_0 [Studentessa magra]]
+[msg MSG_018_0_0 [Estudante magro]]
 [s][vp 8 0 0 21 11 0]Em breve começaremos a preparar...[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Ann]]

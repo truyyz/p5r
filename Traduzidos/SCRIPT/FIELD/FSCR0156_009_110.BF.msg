@@ -1,4 +1,4 @@
-[msg D05_02_e341_064_mes04 [Voce guida]]
+[msg D05_02_e341_064_mes04 [Voz guia]]
 [s]MUDE A VELOCIDADE DO BRAÇO![n][w][e]
 
 [sel D05_02_e341_064_selA top]

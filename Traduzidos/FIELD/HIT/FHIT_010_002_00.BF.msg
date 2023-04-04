@@ -22,7 +22,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ele vem com uma cobertura[n]completa do cano e o[n]efeito estabilizador é insano.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]A mola principal é de aço inoxidável.[n]Se você precisar apenas para coleta, posso[n]carregá-la com balas falsas.[n][w][e]
 
-[msg CHK_PAPER_RACK_IWAI_0404_2 [Manager scontroso]]
+[msg CHK_PAPER_RACK_IWAI_0404_2 [Gerente mal-humorado]]
 [s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Interessado nesse revólver?[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ele vem com uma cobertura[n]completa do cano e o[n]efeito estabilizador é insano.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]A mola principal é de aço inoxidável.[n]Se você precisar apenas para coleta, posso[n]carregá-la com balas falsas.[n][w][e]
@@ -34,13 +34,13 @@
 [msg CHK_PAPER_RACK_IWAI_0404_3 [Iwai]]
 [s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]...Oh sim? Você parece ser do tipo cauteloso.[n][w][e]
 
-[msg CHK_PAPER_RACK_IWAI_0404_4 [Manager scontroso]]
+[msg CHK_PAPER_RACK_IWAI_0404_4 [Gerente mal-humorado]]
 [s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]...Oh sim? Você parece ser do tipo cauteloso.[n][w][e]
 
 [msg CHK_PAPER_RACK_IWAI_0404_5 [Iwai]]
 [s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eh... Bem, não estou te julgando.[n]Se você queria se exibir,[n]você escolheu o caminho certo.[n][w][e]
 
-[msg CHK_PAPER_RACK_IWAI_0404_6 [Manager scontroso]]
+[msg CHK_PAPER_RACK_IWAI_0404_6 [Gerente mal-humorado]]
 [s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eh... Bem, não estou te julgando.[n]Se você queria se exibir,[n]você escolheu o caminho certo.[n][w][e]
 
 [msg CHK_PAPER_RACK_PC_0418]
@@ -180,13 +180,13 @@
 [msg SEL_MIRIMESI_ATARI [Iwai]]
 [s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 2 1 13045 65535 0]Ah... que sorte.[n][w][e]
 
-[msg SEL_MIRIMESI_BIG_HAZURE_ [Manager scontroso]]
+[msg SEL_MIRIMESI_BIG_HAZURE_ [Gerente mal-humorado]]
 [s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 2 1 13074 65535 0]... bem, que pena.[n][w][e]
 
-[msg SEL_MIRIMESI_HAZURE_name [Manager scontroso]]
+[msg SEL_MIRIMESI_HAZURE_name [Gerente mal-humorado]]
 [s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 2 1 13043 65535 0]...Nada mal.[n][w][e]
 
-[msg SEL_MIRIMESI_ATARI_namel [Manager scontroso]]
+[msg SEL_MIRIMESI_ATARI_namel [Gerente mal-humorado]]
 [s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 2 1 13045 65535 0]Ah... que sorte.[n][w][e]
 
 [msg MSG_CUPSULE_NO_MONEY [Morgana]]

@@ -50,7 +50,7 @@
 [s]Trabalhador de escritório com cabelo curto[e]
 [s]Homem assustador[e]
 
-[msg MSG_024_0_0 [Uomo d'affari paonazzo]]
+[msg MSG_024_0_0 [Empresário roxo]]
 [s][vp 8 2 0 58625 65535 0]...Você trabalha aqui meio período?[n]Ah, você parece muito jovem.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]Talvez o assunto o aborreça,[n]mas gostaria de lhe fazer uma pergunta.[n]O que você acha da nossa economia?[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]Eles usaram os impostos como uma medida de[n]emergência para restaurar a economia...[n][f 1 3 65535][w][e]
@@ -60,7 +60,7 @@
 [msg MSG_025_0_0 [Morgana]]
 [s][bup 0 3 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Ugh, vai demorar[n]algum tempo...[n][f 1 3 65535][w][e]
 
-[msg MSG_026_0_0 [Uomo d'affari paonazzo]]
+[msg MSG_026_0_0 [Empresário roxo]]
 [s][vp 8 2 0 58626 65535 0]Ah, é você.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]Gostaria de saber a opinião[n]de um jovem como você sobre as recentes[n]flutuações do mercado de ações.[n][f 1 3 65535][w][e]
 
@@ -74,7 +74,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 1035 65535 0]Estou surpreso que haja[n]pessoas tão prolixo.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]De qualquer forma, foi bastante[n]útil. Pelo menos conseguimos[n]algo com isso...[n][f 1 3 65535][w][e]
 
-[msg MSG_038_0_0 [Donna in abito da sera]]
+[msg MSG_038_0_0 [Mulher de vestido de noite]]
 [s][vp 8 2 0 58623 65535 0]Oh, Mama Lala contratou um menino muito bonito.[n]Estou impressionado.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]Você parece ter potencial.[n]Sim, eu poderia te ensinar muito.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]Você sabe, eu conheço muitos homens, com meu[n]trabalho. E se você me perguntasse o que torna[n]um homem especial, eu diria...[n][f 1 3 65535][w][e]
@@ -82,7 +82,7 @@
 [msg MSG_039_0_0 [Morgana]]
 [s][bup 0 3 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Bem, acho melhor você[n]ouvir em silêncio...[n][f 1 3 65535][w][e]
 
-[msg MSG_040_0_0 [Donna in abito da sera]]
+[msg MSG_040_0_0 [Mulher de vestido de noite]]
 [s][vp 8 2 0 58624 65535 0]Oh, ótimo momento.[n]Ouça, eu queria te contar...[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]Outro dia[n]um homem realmente nojento entrou no clube.[n]Ele era um daqueles canalhas que...[n][f 1 3 65535][w][e]
 
@@ -96,7 +96,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 1035 65535 0]...Talvez você possa valorizar[n]suas palavras.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]De qualquer forma, acho que discutir[n]o que torna um homem atraente[n]ensinou algo a você.[n][f 1 3 65535][w][e]
 
-[msg MSG_051_0_0 [Donna avvilita]]
+[msg MSG_051_0_0 [Mulher abatida]]
 [s][vp 8 2 0 0 65535 0]Ah... Você é novo?[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]Eh...Você é jovem.[n]Tenho inveja de você...[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]Olhe para mim.[n]Não sou nada além de...[n][f 1 3 65535][w][e]
@@ -104,7 +104,7 @@
 [msg MSG_052_0_0 [Morgana]]
 [s][bup 0 3 10 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]O-O que acabou de acontecer?[n]Bem, eu acho...[n]Agora você vai ter que ouvir...[n][f 1 3 65535][w][e]
 
-[msg MSG_053_0_0 [Donna avvilita]]
+[msg MSG_053_0_0 [Mulher abatida]]
 [s][vp 8 2 0 0 65535 0]Ah... Você de novo?[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]Olha falar comigo é perda de tempo, sabe?[w][e]
 
@@ -118,7 +118,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 1035 65535 0]Ela parece ter se acalmado...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Você a ouviu com muita[n]atenção... Você deu total[n]toda a sua [f 4 11 4][clr 26]Bondade[clr 27].[n][f 1 3 65535][w][e]
 
-[msg MSG_064_0_0 [Impiegata con i capelli corti]]
+[msg MSG_064_0_0 [Trabalhador de escritório com cabelo curto]]
 [s][vp 8 2 0 58621 65535 0]Lala parece ocupada...[n]Ei você, você trabalha aqui, certo?[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]Nós iremos? Você está bem com um[n]dos clientes estando entediado?[n]Vamos lá! Executar! Faça alguma coisa![n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]Lala sempre me diverte, agora[n]é a sua vez! Vamos, o que você está esperando?[n][f 1 3 65535][w][e]
@@ -126,7 +126,7 @@
 [msg MSG_065_0_0 [Morgana]]
 [s][bup 0 3 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Ele está provocando você... Melhor não[n]levar isso muito a sério.[n][f 1 3 65535][w][e]
 
-[msg MSG_066_0_0 [Impiegata con i capelli corti]]
+[msg MSG_066_0_0 [Trabalhador de escritório com cabelo curto]]
 [s][vp 8 2 0 58622 65535 0]Ah, é você...[n]Você ainda não foi demitido.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]Ei, estou entediado... Você não pode me contar[n]uma anedota engraçada ou algo assim? Próximo...[n][f 1 3 65535][w][e]
 
@@ -140,7 +140,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 1035 65535 0]Uau, você fez um ótimo trabalho.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0][f 4 22 65535 1 41]Você escapou com uma atitude[n]evasiva. Lidar com ela[n]terá aprimorado sua [f 4 11 2][clr 26]Experiência[clr 27].[n][f 1 3 65535][w][e]
 
-[msg MSG_077_0_0 [Uomo spaventoso]]
+[msg MSG_077_0_0 [Homem assustador]]
 [s][vp 8 2 0 58627 65535 0]......[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]...Lala está ocupada.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]...Ei você, por que você está parado aí squake?[n]Vou te dar algo para fazer. Fale comigo.[n][f 1 3 65535][w][e]
@@ -148,7 +148,7 @@
 [msg MSG_078_0_0 [Morgana]]
 [s][bup 0 3 10 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]E-Este cliente[n]não é muito sutil...[n][f 1 3 65535][w][e]
 
-[msg MSG_079_0_0 [Uomo spaventoso]]
+[msg MSG_079_0_0 [Homem assustador]]
 [s][vp 8 2 0 58628 65535 0]......[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]Você é o garoto da última vez.[n]Venha cá, vamos conversar.[n][f 1 3 65535][w][e]
 
@@ -244,7 +244,7 @@
 [s][bup 0 3 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 1170 65535 0]Eu esperava recuperar mais[n]informações sobre nosso[n]alvo aqui...[n][f 1 3 65535][w][e]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Acho que não é tão simples.[n]Vamos parar por aqui mais um pouco.[n][f 1 3 65535][w][e]
 
-[msg MSG_QUEST_30 [Uomo d'affari infelice]]
+[msg MSG_QUEST_30 [Empresário infeliz]]
 [s][vp 8 2 0 58611 65535 0]B-Boa noite...[n][f 1 3 65535][w][e]
 
 [msg MSG_QUEST_31 [Lala Escargot]]
@@ -253,31 +253,31 @@
 [msg MSG_QUEST_32 [Lala Escargot]]
 [s][vp 8 2 0 57737 65535 0]...Nós iremos? Seu chefe[n]maltratou você de novo?[n][f 1 3 65535][w][e]
 
-[msg MSG_QUEST_33 [Uomo d'affari infelice]]
+[msg MSG_QUEST_33 [Empresário infeliz]]
 [s][vp 8 2 0 58612 65535 0]Assim que abro a boca, ele faz de tudo para me[n]humilhar. Ele fica insinuando que vai cortar meu[n]salário...[n][f 1 3 65535][w][e]
 
-[msg MSG_QUEST_33_2 [Uomo d'affari infelice]]
+[msg MSG_QUEST_33_2 [Empresário infeliz]]
 [s][vp 8 2 0 0 65535 0]Às vezes eu ouço ele falar de mim[n]com os outros... E ele não para[n]dizer que eu sou inútil...[n][f 1 3 65535][w][e]
 
-[msg MSG_QUEST_33_3 [Uomo d'affari infelice]]
+[msg MSG_QUEST_33_3 [Empresário infeliz]]
 [s][vp 8 2 0 0 65535 0]Tudo o que fiz,[n]os resultados que alcancei... se[n]ele está levando todo o crédito por isso.[n][f 1 3 65535][w][e]
 
 [msg MSG_QUEST_34 [Lala Escargot]]
 [s][vp 8 2 0 57740 65535 0]É a exploração do pior[n]tipo. Inacreditável...[n][f 1 3 65535][w][e]
 
-[msg MSG_QUEST_35 [Uomo d'affari infelice]]
+[msg MSG_QUEST_35 [Empresário infeliz]]
 [s][vp 8 2 0 58613 65535 0]Muitos dos meus colegas foram demitidos devido ao[n]estresse... E, no entanto, nos andares[n]superiores eles não movem um dedo.[n][f 1 3 65535][w][e]
 
-[msg MSG_QUEST_35_2 [Uomo d'affari infelice]]
+[msg MSG_QUEST_35_2 [Empresário infeliz]]
 [s][vp 8 2 0 0 65535 0]Com todos os chefes terríveis[n]que existem no mundo, eu[n]tinha que ter [clr 2]Shinsuke Kishi[clr 27]?[n][f 1 3 65535][w][e]
 
-[msg MSG_QUEST_35_3 [Uomo d'affari infelice]]
+[msg MSG_QUEST_35_3 [Empresário infeliz]]
 [s][vp 8 2 0 0 65535 0]*suspiro* Você sabe, Lala. Eu gostaria que[n]aqueles Ladrões Fantasmas[n]fizessem algo para me ajudar...[n][f 1 3 65535][w][e]
 
 [msg MSG_QUEST_36 [Lala Escargot]]
 [s][vp 8 2 0 57741 65535 0]E como? Você gostaria de pedir a ele[n]para "roubar" seu estresse?[n][f 1 3 65535][w][e]
 
-[msg MSG_QUEST_37 [Uomo d'affari infelice]]
+[msg MSG_QUEST_37 [Empresário infeliz]]
 [s][vp 8 2 0 58614 65535 0]Hahaha... Não.[n]Acho que é impossível.[n]Mas seria bom...[n][f 1 3 65535][w][e]
 
 [msg MSG_quest36_Target_Find]
@@ -297,10 +297,10 @@
 [s][bup 0 3 5 65535 0][f 4 10 65535 0 0][vp 8 2 0 1173 65535 0]Não... Não podemos roubar o estresse[n]mas podemos ser capazes[n]de roubar o que está causando isso.[n][f 1 3 65535][w][e]
 
 [msg MSG_QUEST_42 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]A empresa seria seu castelo?[n]Mas quem é esse cara? Kamoshida?[n]Com certeza vamos encontrá-lo em Memento.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]A empresa seria seu castelo?[n]Mas quem é esse cara? Kamoshida?[n]Com certeza vamos encontrá-lo em Mementos.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]O nome dele era [clr 2]Shinsuke Kishi[clr 27], certo?[n]Temos que contar aos outros![n][f 1 3 65535][w][e]
 
-[msg MSG_QUEST_43 [Uomo d'affari vivace]]
+[msg MSG_QUEST_43 [Animado empresário]]
 [s][vp 8 2 0 58615 65535 0]Boa vista! Aqui estou![n][f 1 3 65535][w][e]
 
 [msg MSG_QUEST_44 [Lala Escargot]]
@@ -309,16 +309,16 @@
 [msg MSG_QUEST_45 [Lala Escargot]]
 [s][vp 8 2 0 57737 65535 0]Ah, então o chefe que está dando a você[n]todos esses problemas é[n]Shinsuke Kishi, certo?[n][f 1 3 65535][w][e]
 
-[msg MSG_QUEST_46 [Uomo d'affari vivace]]
+[msg MSG_QUEST_46 [Animado empresário]]
 [s][vp 8 2 0 58616 65535 0]Não mais, na verdade![n]Não faço ideia do que aconteceu,[n]mas é como se... tivesse mudado![n][f 1 3 65535][w][e]
 
-[msg MSG_QUEST_46_2 [Uomo d'affari vivace]]
+[msg MSG_QUEST_46_2 [Animado empresário]]
 [s][vp 8 2 0 0 65535 0]De repente, ele veio até nós[n]em lágrimas e começou a dizer[n]"Peço desculpas por tudo"...[n][f 1 3 65535][w][e]
 
-[msg MSG_QUEST_46_3 [Uomo d'affari vivace]]
+[msg MSG_QUEST_46_3 [Animado empresário]]
 [s][vp 8 2 0 0 65535 0]Ele era o gerente mais odiado e, de repente,[n]tornou-se o chefe ideal.[n][f 1 3 65535][w][e]
 
-[msg MSG_QUEST_46_5 [Uomo d'affari vivace]]
+[msg MSG_QUEST_46_5 [Animado empresário]]
 [s][vp 8 2 0 58617 65535 0]Oi, Lalá. Você não vai me dizer isso...[n]Você acha que os Phantom Thieves[n]fizeram algo para me ajudar?[n][f 1 3 65535][w][e]
 
 [msg MSG_QUEST_47 [Lala Escargot]]
@@ -340,7 +340,7 @@
 [msg MSG_QUEST_52 [Morgana]]
 [s][bup 0 3 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Bem, nossa missão foi um sucesso retumbante.[n]Ótimo trabalho![n][f 1 3 65535][w][e]
 
-[msg MSG_QUEST_53 [Uomo d'affari vivace]]
+[msg MSG_QUEST_53 [Animado empresário]]
 [s][vp 8 2 0 58618 65535 0]Então hoje... vamos tomar[n]uma boa bebida! E eu vou pegar[n]alguma coisa para comer também![n][f 1 3 65535][w][e]
 
 [msg MSG_QUEST_54 [Lala Escargot]]

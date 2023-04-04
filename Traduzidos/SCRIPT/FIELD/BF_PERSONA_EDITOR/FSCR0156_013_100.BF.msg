@@ -73,7 +73,7 @@
 [msg D05_02_e342_end_mes05 [Yusuke]]
 [s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Sim, já podemos aceder às[n]áreas reservadas a[n]chefes de gabinete e escalões inferiores.[n][w][e]
 
-[msg D05_02_e342_end_mes06 [Altoparlanti]]
+[msg D05_02_e342_end_mes06 [Caixas de som]]
 [s]É HORA DA MUDANÇA DE TURNO![n]É HORA DA MUDANÇA DE TURNO![n][w][e]
 [s]MUDANÇA DE POSIÇÃO! CONTINUE[n]TRABALHANDO ATÉ A MORTE![n][w][e]
 

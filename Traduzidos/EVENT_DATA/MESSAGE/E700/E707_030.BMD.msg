@@ -2,7 +2,7 @@
 [s][bup 0 2 205 0 0][f 4 10 65535 0 0][vp 8 2 0 7170 65535 0]Droga! Eu gostaria de ser[n]mais rápido, mas não consigo...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 6 300 65535][vp 8 0 0 0 65535 0]Na época eu estava treinando para[n]campeonatos nacionais... Agora[n]eu sou péssimo.[n][f 1 3 65535][w][e]
 
-[msg MSG_001_0_0 [Voce infastidita]]
+[msg MSG_001_0_0 [Voz irritada]]
 [s][vp 8 0 0 0 65535 0]O que diabos você pensa que está fazendo?[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Ryuji]]
@@ -12,7 +12,7 @@
 [s][vp 8 0 0 0 65535 0]...Você estava correndo, hein?[n]Eu vi você da janela.[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Takeishi]]
-[s][vp 8 0 0 0 65535 0]O que é, você gostaria de voltar[n]slither para a equipe[n]atlética?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]O que é, você gostaria de voltar[n]rastejando para a equipe[n]atlética?[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Ryuji]]
 [s][bup 0 2 205 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Huh? C-Claro que não...[n][f 1 3 65535][w][e]
@@ -20,7 +20,7 @@
 [msg MSG_006_0_0 [Nakaoka]]
 [s][vp 8 0 0 0 65535 0]Hmm...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]...A propósito, este costumava ser o[n]local secreto onde você[n]treinava, certo?[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]Bem, agora treinamos aqui.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Bem, agora é nosso lugar de treino.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Nós. A antiga equipe de atletismo.[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Takeishi]]
@@ -32,7 +32,7 @@
 [sel SEL_009_0_0 top]
 [s][f 0 8 2 1 2217]Não vamos brigar.[clr 27][e]
 [s]Quer treinar conosco?[e]
-[s]Prazer em conhecê-la.[e]
+[s]Prazer em conhecê-lo.[e]
 
 [msg MSG_010_0_0 [Ryuji]]
 [s][bup 0 2 203 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 8 5 2]Não estamos discutindo...[n][f 1 3 65535][w][e]
@@ -52,17 +52,17 @@
 [msg MSG_015_0_0 [Nakaoka]]
 [s][vp 8 0 0 0 65535 0]Espere aí, você não é aquele aluno[n]transferido? Você realmente vai sair com[n]esse perdedor?[n][f 1 3 65535][w][e]
 
-[msg MSG_016_0_0 [Ex membro della squadra di atletica]]
+[msg MSG_016_0_0 [Ex-integrante da equipe de atletismo]]
 [s][vp 8 0 0 0 65535 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 12 300 65535]É melhor você tomar cuidado.[n]Se você irritá-lo, ele vai bater em você.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]Dizem que o pai dele também era assim. Tal pai,[n]tal filho, certo? É assustador dizer.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Dizem que o pai dele também era assim. Tal pai,[n]tal filho, certo? É assustador esse tipo de coisa.[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Ryuji]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 12 300 1][vp 8 2 0 7187 65535 0]O que isso tem a ver com...[n][f 1 3 65535][w][e]
 
 [sel SEL_018_0_0 top]
 [s][f 0 8 2 1 2217]Acalme-se, Ryuji.[clr 27][e]
-[s]Aguentar.[e]
-[s]Eu os silencio.[e]
+[s]Aguente firme.[e]
+[s]Eu calo a boca deles.[e]
 
 [msg MSG_019_0_0 [Ryuji]]
 [s][bup 0 2 200 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 8 10 2]...Sim, você está certo.[n][f 1 3 65535][w][e]
@@ -93,7 +93,7 @@
 [s][vp 8 0 0 0 65535 0]As porradas, os treinos impossíveis... Mas a[n]gente aguenta tudo, pelo bem da equipe.[n][f 1 3 65535][w][e]
 
 [msg MSG_028_0_0 [Nakaoka]]
-[s][vp 8 0 0 0 65535 0]Mão. Você queria[n]foder com tudo![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Mas nããão. Você tinha que[n]foder com tudo![n][f 1 3 65535][w][e]
 
 [msg MSG_029_0_0 [Nakaoka]]
 [s][vp 8 0 0 0 65535 0]Que idiota eu fui, pensando que éramos[n]companheiros de equipe.[n][f 1 3 65535][w][e]
@@ -107,7 +107,7 @@
 
 [msg MSG_031_0_0 [Ryuji]]
 [s][bup 0 2 201 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas... Quer saber?[n]Você me ajudou a me acalmar.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Que bom que você também estava lá.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Que bom que você estava lá.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Obrigado![n][f 1 3 65535][w][e]
 
 [msg MND_990_0_0]

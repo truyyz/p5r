@@ -3,7 +3,7 @@
 [s][vp 8 0 0 2 65535 0]Supera até a minha...[n]Um deus gerado pela[n]vontade das massas...[n][f 1 3 65535][w][e]
 
 [msg DVL_003_0_0 [Yaldabaoth]]
-[s][vp 8 0 0 8 65535 0]Então este é...[n]o verdadeiro Malandro...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 8 65535 0]Então este é...[n]o verdadeiro Trapaceiro...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 9 65535 0]Aquele maldito Igor...[n]Ele não era só[n]bobagem, afinal...[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Ann]]

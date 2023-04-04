@@ -15,10 +15,10 @@
 [msg MSG_000_7_0 [Ryuji]]
 [s][bup 0 2 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 8 5 2]Uau. Acho que não temos tempo.[n][f 1 3 65535][w][e]
 
-[msg MSG_001_3_0 [Voce di uomo evasivo]]
+[msg MSG_001_3_0 [Voz de um homem evasivo]]
 [s][vp 8 0 0 0 65535 0]Coisa! É ela![n][f 1 3 65535][w][e]
 
-[msg MSG_001_5_0 [Voce di Ragazza modaiola]]
+[msg MSG_001_5_0 [Voz de garota da moda]]
 [s][vp 8 0 0 0 65535 0]Nossa, ela é tão bonita pessoalmente![n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Ryuji]]

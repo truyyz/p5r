@@ -4,40 +4,40 @@
 [msg MSG_002_0_0 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 1171 65535 0]Eu esperava encontrar mais pessoas...[n]É tão quieto.[n][f 1 3 65535][w][e]
 
-[msg MSG_STAFF_COMMON [Cameriera]]
+[msg MSG_STAFF_COMMON [Garçonete]]
 [s][vp 8 2 0 0 65535 0]Bem-vindo! O que você pede?[n][f 1 3 65535][w][e]
 
-[msg MSG_STAFF_FIRST_1 [Cameriera]]
+[msg MSG_STAFF_FIRST_1 [Garçonete]]
 [s][vp 8 2 0 0 65535 0]Bem-vindo.[n][f 1 3 65535][w][e]
 
-[msg MSG_STAFF_FIRST_2 [Cameriera]]
+[msg MSG_STAFF_FIRST_2 [Garçonete]]
 [s][vp 8 2 0 0 65535 0]Quando quiser fazer o pedido,[n]pressione o botão[n]ligar...[n][f 1 3 65535][w][e]
 
-[msg MSG_STAFF_FIRST_3 [Cameriera]]
+[msg MSG_STAFF_FIRST_3 [Garçonete]]
 [s][vp 8 2 0 0 65535 0]Oh, você está pronto?[n]O que posso pegar para você?[n][f 1 3 65535][w][e]
 
-[msg MSG_STAFF_5GATU [Cameriera]]
+[msg MSG_STAFF_5GATU [Garçonete]]
 [s][vp 8 2 0 0 65535 0]Temos um novo menu agora[n]que o trabalho está feito.[n]Gostaria de experimentá-lo?[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]Eu recomendo o [clr 2]Sanduíche Surpresa[clr 27][n]e o [clr 2]Bife Nostalgia[clr 27].[n][f 1 3 65535][w][e]
 
-[msg MSG_STAFF_5GATU_SUM [Cameriera]]
+[msg MSG_STAFF_5GATU_SUM [Garçonete]]
 [s][vp 8 2 0 0 65535 0]Eu recomendo o[n][clr 2]Sanduíche Surpresa[clr 27]e o [clr 2]Bife Nostalgia[clr 27].[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]Recomendo a novidade do[n]nosso cardápio, o [clr 2]il Frui-tè[clr 27].[n][f 1 3 65535][w][e]
 
-[msg MSG_STAFF_5GATU_SUM_AUT [Cameriera]]
+[msg MSG_STAFF_5GATU_SUM_AUT [Garçonete]]
 [s][vp 8 2 0 0 65535 0]Eu recomendo o[n][clr 2]Sanduíche Surpresa[clr 27]e o [clr 2]Bife Nostalgia[clr 27][n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]Recomendo as novidades do[n]nosso cardápio, o [clr 2]Totem[clr 27] ou o [clr 2]Frui-tè[clr 27].[n][f 1 3 65535][w][e]
 
-[msg MSG_STAFF_SUM [Cameriera]]
+[msg MSG_STAFF_SUM [Garçonete]]
 [s][vp 8 2 0 0 65535 0]Recomendo a novidade do[n]nosso cardápio de julho, o [clr 2]il Frui-tè[clr 27].[n][f 1 3 65535][w][e]
 
-[msg MSG_STAFF_AUT [Cameriera]]
+[msg MSG_STAFF_AUT [Garçonete]]
 [s][vp 8 2 0 0 65535 0]Recomendo uma novidade do[n]nosso cardápio de setembro, o [clr 2]Totem[clr 27].[n][f 1 3 65535][w][e]
 
-[msg MSG_STAFF_SUM_AUT [Cameriera]]
+[msg MSG_STAFF_SUM_AUT [Garçonete]]
 [s][vp 8 2 0 0 65535 0]Recomendo as novidades do[n]nosso cardápio, o [clr 2]Totem[clr 27] ou o [clr 2]Frui-tè[clr 27].[n][f 1 3 65535][w][e]
 
-[msg MSG_006_0_0 [Cameriera]]
+[msg MSG_006_0_0 [Garçonete]]
 [s][vp 8 2 0 0 65535 0]Claro.[n]Voltarei com seu pedido.[n][f 1 3 65535][w][e]
 
 [msg MSG_COFFEE [Morgana]]

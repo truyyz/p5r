@@ -1,4 +1,4 @@
-[msg D07_02_e408_045_mes01 [Cameriere]]
+[msg D07_02_e408_045_mes01 [Garçom]]
 [s]Bem vindo senhor. Posso ver[n]seu cartão de membro?[n][w][e]
 
 [msg D07_02_e408_045_mes02 [Makoto]]
@@ -15,7 +15,7 @@
 [msg D07_02_e408_045_selA_1_m [Makoto]]
 [s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2081 65535 0]Muito bem. Proceder com cautela[n]não é uma má ideia.[n][w][e]
 
-[msg D07_02_e408_046_mes01 [Cameriere]]
+[msg D07_02_e408_046_mes01 [Garçom]]
 [s]Obrigado por mostrar[n]prova de sua identidade, senhor.[n]Por favor, entre.[n][w][e]
 [s]As cadeiras indicadas pelas flores azuis[n]são reservadas para convidados especiais.[n]Por favor, não se sente nelas.[n][w][e]
 

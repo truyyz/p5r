@@ -171,7 +171,7 @@
 [msg MSG_055_0_0 [(SE)認知明智]]
 [s][vp 8 0 0 0 65535 0](♀き)[n][f 1 3 65535][w][e]
 
-[msg MSG_056_0_0 [Avviso nautico]]
+[msg MSG_056_0_0 [Aviso náutico]]
 [s][vp 8 0 0 68 65535 0]A porta estanque foi fechada.[n]Todo o pessoal do lado de fora[n]evacue imediatamente.[n][f 1 3 65535][w][e]
 
 [msg MSG_057_0_0 [Futaba]]
