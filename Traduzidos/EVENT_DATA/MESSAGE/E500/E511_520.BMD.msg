@@ -215,11 +215,11 @@
 
 [msg MSG_056_0_0 [Lavenza]]
 [s][bup 0 100 0 0 0][f 4 10 65535 0 0][vp 8 0 0 80 65535 0]Este mundo está em uma[n]condição altamente instável.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 81 65535 0]O dia em que o Deus do[n]controle fundiu o Memento[n]com o mundo real...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 81 65535 0]O dia em que o Deus do[n]controle fundiu o Mementos[n]com o mundo real...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 82 65535 0]Foi você quem reverteu a[n]fusão, e agora os dois mundos estão[n]tentando se reequilibrar.[n][f 1 3 65535][w][e]
 
 [msg MSG_057_0_0 [Akechi]]
-[s][bup 0 9 210 65535 0][f 4 10 65535 0 0][vp 8 0 0 83 65535 0]Portanto, este mundo voltou a um[n]estado em que a fusão com Memento[n]não foi completamente interrompida.[n][f 1 3 65535][w][e]
+[s][bup 0 9 210 65535 0][f 4 10 65535 0 0][vp 8 0 0 83 65535 0]Portanto, este mundo voltou a um[n]estado em que a fusão com Mementos[n]não foi completamente interrompida.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 84 65535 0]Isso explica porque[n]o Palácio de Maruki era visível em Odaiba.[n][f 1 3 65535][w][e]
 
 [msg MSG_058_0_0 [Lavenza]]
@@ -230,7 +230,7 @@
 
 [msg MSG_060_0_0 [Lavenza]]
 [s][bup 0 100 3 0 0][f 4 10 65535 0 0][vp 8 0 0 87 65535 0]Por mais lento que pareça,[n]ele realiza a realização do[n]mundo das massas como um todo.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 88 65535 0]Se isso continuar, a realidade[n]se fundiria novamente com o Memento[n]e os dois mundos se tornariam um.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 88 65535 0]Se isso continuar, a realidade[n]se fundiria novamente com o Mementos[n]e os dois mundos se tornariam um.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 89 65535 0]E quando isso acontecer, quem[n]está no mundo "falso" não poderá mais[n]acordar no mundo original.[n][f 1 3 65535][w][e]
 
 [msg MSG_061_0_0 [Ann]]
@@ -341,6 +341,6 @@
 [s][bup 0 8 350 65535 0][f 4 10 65535 0 0][vp 8 0 0 130 65535 0]Exatamente.[n][f 1 3 65535][w][e]
 
 [msg MSG_090_0_0 [Lavenza]]
-[s][bup 0 100 0 0 0][f 4 10 65535 0 0][vp 8 0 0 131 65535 0]Se isso é tudo...[n]Volto para cuidar de você,[n]Malandro.[n][f 1 3 65535][w][e]
+[s][bup 0 100 0 0 0][f 4 10 65535 0 0][vp 8 0 0 131 65535 0]Se isso é tudo...[n]Volto para cuidar de você,[n]Trapaceiro.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 132 65535 0]Mostre-me o caminho que você[n]escolheu para a humanidade...[n][f 1 3 65535][w][e]
 

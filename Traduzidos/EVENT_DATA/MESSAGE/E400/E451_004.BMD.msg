@@ -97,7 +97,7 @@
 
 [msg MSG_029_0_0 [Lavenza]]
 [s][bup 0 100 3 0 0][f 4 10 65535 0 0][vp 8 0 0 83 65535 0]Um pacto entre um falso deus e um humano no qual[n]depositávamos nossas esperanças. Quem diria.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 84 65535 0]Você até rejeitou o[n]desejo do meu mestre... Você é um[n]Malandro, afinal...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 84 65535 0]Você até rejeitou o[n]desejo do meu mestre... Você é um[n]Trapaceiro, afinal...[n][f 1 3 65535][w][e]
 
 [msg MSG_030_0_0 [Deus do controle]]
 [s][vp 8 0 0 43 65535 0]Ele Ele. Você é verdadeiramente um filho[n]do homem... Incapaz de[n]opor-se aos seus próprios desejos.[n][f 1 3 65535][w][e]

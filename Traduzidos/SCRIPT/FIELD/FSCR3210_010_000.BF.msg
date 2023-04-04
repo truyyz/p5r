@@ -166,7 +166,7 @@
 [msg MND_Remind_Uwasa_Ooya]
 [s]Ai acabei de me lembrar...[n][w][e]
 [s]Eu ouvi que algumas pessoas[n]falaram sobre o artigo[n]de um certo jornalista.[n][w][e]
-[s]Se ele pudesse falar sobre os[n]Phantom Thieves, talvez o Memento[n]fosse afetado.[n][w][e]
+[s]Se ele pudesse falar sobre os[n]Phantom Thieves, talvez o Mementos[n]fosse afetado.[n][w][e]
 [s]Eu deveria voltar para vê-la...[n][w][e]
 
 [msg MND_Remind_Uwasa_Oda]

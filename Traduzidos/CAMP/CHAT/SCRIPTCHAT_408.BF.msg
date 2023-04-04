@@ -8,7 +8,7 @@
 [s][f 5 14]...Esta é a conclusão a que cheguei.[n][w][e]
 
 [msg MSG_003_0_0 [Makoto]]
-[s][f 5 14]Então, estou pensando em ir[n]investigar o distrito da luz vermelha[n]a.[n][w][e]
+[s][f 5 14]Então, estou pensando em ir[n]investigar o distrito da Luz Vermelha[n]a.[n][w][e]
 
 [msg MSG_004_0_0 [Makoto]]
 [s][f 5 14]Se estiver tudo bem para você...[n][w][e]

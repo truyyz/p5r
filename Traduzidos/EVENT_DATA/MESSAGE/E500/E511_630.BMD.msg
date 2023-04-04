@@ -34,16 +34,16 @@
 [s][bup 0 4 104 0 0][f 4 10 65535 0 0][vp 8 2 0 6189 65535 0]Oh! O que é agora?[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Yusuke]]
-[s][bup 0 5 100 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Esses são... I Memento?[n][f 1 3 65535][w][e]
+[s][bup 0 5 100 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Esses são... I Mementos?[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Futaba]]
 [s][bup 0 8 100 0 0][f 4 10 65535 0 0][vp 8 2 0 9034 65535 0]Eu descobri onde todos os dados são[n]enviados![n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu diria que eles estão indo para o Memento.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu diria que eles estão indo para o Mementos.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Podemos conseguir algo[n]útil se investigarmos este lugar.[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Makoto]]
 [s][bup 0 6 100 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]A propósito, Lavenza nos contou...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Dr. Maruki está usando[n]i Memento para distorcer[n]toda a realidade.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Dr. Maruki está usando[n]i Mementos para distorcer[n]toda a realidade.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]No entanto... O que são todos esses[n]cabos de dados?[n][f 1 3 65535][w][e]
 
 [sel SEL_013_0_0 top]

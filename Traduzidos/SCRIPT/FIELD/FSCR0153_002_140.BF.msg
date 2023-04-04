@@ -6,7 +6,7 @@
 [s][bup 0 2 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 3 0 0]Um momento![n][w][e]
 
 [msg mini_EV_FIRST_ENTRY_01_m_3 [Ryuji]]
-[s][bup 0 2 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 4 0 0]Não é esse o cara que vimos em Memento? Aquele[n]que falou mal de Madarame...[n][w][e]
+[s][bup 0 2 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 4 0 0]Não é esse o cara que vimos em Mementos? Aquele[n]que falou mal de Madarame...[n][w][e]
 
 [msg mini_EV_FIRST_ENTRY_01_m_4 [Morgana]]
 [s][bup 0 3 5 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 5 0 0]Natsuhiko Nakanohara. Há[n]seu nome na placa do carro.[n][w][e]

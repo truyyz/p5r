@@ -8,7 +8,7 @@
 [s][f 5 14]Gostaria que cuidássemos da solicitação.[n]A propósito, também nos servirá como[n]treinamento.[n][w][e]
 
 [msg MSG_003_0_0 [Yusuke]]
-[s][f 5 14]Se estiver tudo bem para você, gostaria[n]de ir ao Memento?[n][f 5 15][w][e]
+[s][f 5 14]Se estiver tudo bem para você, gostaria[n]de ir ao Mementos?[n][f 5 15][w][e]
 
 [msg MSG_MORUGANA [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Sim, ainda não atendemos[n]o pedido de Mishima.[n][f 1 3 65535][w][e]

@@ -29,7 +29,7 @@
 [s][bup 0 202 101 0 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Eu faço o que quero aqui.[n]Afinal, é o meu castelo...[n]O mundo dos meus desejos.[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Ann]]
-[s][bup 0 4 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Mas o que!?! Espere... Estamos em algum[n]tipo de distrito da luz vermelha!?![n][f 1 3 65535][w][e]
+[s][bup 0 4 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Mas o que!?! Espere... Estamos em algum[n]tipo de distrito da Luz Vermelha!?![n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Sombra de Kamoshida]]
 [s][bup 0 202 100 0 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Que escrava animada.[n][f 1 3 65535][w][e]

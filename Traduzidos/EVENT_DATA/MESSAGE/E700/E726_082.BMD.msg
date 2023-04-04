@@ -6,7 +6,7 @@
 
 [sel SEL_001_0_0 top]
 [s]O que você queria discutir?[e]
-[s]Por que estamos no Memento?[e]
+[s]Por que estamos no Mementos?[e]
 
 [msg MSG_002_0_0 [Akechi]]
 [s][bup 0 9 100 65535 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Isso...[n][f 1 3 65535][w][e]

@@ -16,7 +16,7 @@
 
 [msg MSG_005_0_0 [Futaba]]
 [s][bup 0 8 100 0 0][f 4 10 65535 0 0][vp 8 2 0 9139 65535 0]...Na realidade? É o contrário.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eles não estão se reunindo no[n]Memento... Eles estão se espalhando.[n]Este é o ponto de origem.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eles não estão se reunindo no[n]Mementos... Eles estão se espalhando.[n]Este é o ponto de origem.[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Afinal, este lugar é o núcleo[n]da consciência comum.[n][f 1 3 65535][w][e]

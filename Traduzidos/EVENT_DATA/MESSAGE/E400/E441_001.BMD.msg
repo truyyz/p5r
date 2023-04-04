@@ -152,7 +152,7 @@
 
 [msg MSG_044_0_0 [Ryuji]]
 [s][bup 0 2 102 65535 0][f 4 10 65535 0 0][vp 8 0 0 60 65535 0]O que eles dizem não importa[n]merda...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 61 65535 0]Ainda vamos destruir o[n]Memento! Vamos, vamos em frente![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 61 65535 0]Ainda vamos destruir o[n]Mementos! Vamos, vamos em frente![n][f 1 3 65535][w][e]
 
 [msg MSG_044_5_0 [Ryuji]]
 [s][bup 0 2 102 65535 0][f 4 10 65535 0 0][vp 8 0 0 62 65535 0]Mona! O Tesouro está na[n]seção mais profunda, certo?!?[n][f 1 3 65535][w][e]

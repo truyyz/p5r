@@ -305,16 +305,16 @@
 [s]Mementos Floor Change 1 (inutilizzato)[n][e]
 
 [msg MSG_101]
-[s]Reproduzido em algumas áreas do[n]Memento no labirinto de Chemdah.[n][e]
+[s]Reproduzido em algumas áreas do[n]Mementos no labirinto de Chemdah.[n][e]
 
 [msg MSG_102]
-[s]Reproduzido em algumas áreas do[n]Memento no labirinto de Akzeriyyuth.[n][e]
+[s]Reproduzido em algumas áreas do[n]Mementos no labirinto de Akzeriyyuth.[n][e]
 
 [msg MSG_103]
-[s]Reproduzido em algumas áreas do[n]Memento no labirinto de Sheriruth.[n][e]
+[s]Reproduzido em algumas áreas do[n]Mementos no labirinto de Sheriruth.[n][e]
 
 [msg MSG_104]
-[s]Reproduzido em algumas áreas do[n]Memento no labirinto de Da'at.[n][e]
+[s]Reproduzido em algumas áreas do[n]Mementos no labirinto de Da'at.[n][e]
 
 [msg MSG_105]
 [s]Nova música de Star Lilina[n][e]

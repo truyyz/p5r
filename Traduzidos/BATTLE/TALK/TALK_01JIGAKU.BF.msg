@@ -2070,7 +2070,7 @@
 [s]Que diabos é isso?[n][e]
 
 [msg TalkMsg_GUY_OP_03_01]
-[s]Eu sou um malandro.[n][e]
+[s]Eu sou um Trapaceiro.[n][e]
 
 [msg TalkMsg_GUY_EN_No_00]
 [s]Vejo você, senhor herói![n]Você salvou minha bunda.[n][w][e]

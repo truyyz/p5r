@@ -1,5 +1,5 @@
 [msg MSG_000_0_0 [Makoto]]
-[s][f 5 14]Eu tenho uma pergunta sobre[n]a questão do distrito da luz vermelha[n]...[n][w][e]
+[s][f 5 14]Eu tenho uma pergunta sobre[n]a questão do distrito da Luz Vermelha[n]...[n][w][e]
 
 [msg MSG_001_0_0 [Makoto]]
 [s][f 5 14]Lembra que eu disse que[n]quero ir?[n][w][e]

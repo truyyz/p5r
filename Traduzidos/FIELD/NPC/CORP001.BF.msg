@@ -140,7 +140,7 @@
 [s][bup 0 3 0 0 0][vp 8 2 1 1172 65535 0][f 4 10 65535 0 0]Amanhã eu me encarregarei de escoltar[n]Lady Ann![n][w][e]
 
 [msg MSG_MORGANA_DAY_0515 [Morgana]]
-[s][bup 0 3 2 0 0][vp 8 2 1 1020 65535 0][f 4 10 65535 0 0]Se aquele Madarame é o mesmo cara[n]que foi mencionado no Memento,[n]ele vale a pena investigar.[n][w][e]
+[s][bup 0 3 2 0 0][vp 8 2 1 1020 65535 0][f 4 10 65535 0 0]Se aquele Madarame é o mesmo cara[n]que foi mencionado no Mementos,[n]ele vale a pena investigar.[n][w][e]
 
 [msg MSG_MORGANA_DAY_0516 [Morgana]]
 [s][bup 0 3 2 0 0][vp 8 2 1 1174 65535 0][f 4 10 65535 0 0]Só podemos[n]pedir a Yusuke...[n][w][e]

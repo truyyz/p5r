@@ -297,7 +297,7 @@
 [s][bup 0 3 5 65535 0][f 4 10 65535 0 0][vp 8 2 0 1173 65535 0]Não... Não podemos roubar o estresse[n]mas podemos ser capazes[n]de roubar o que está causando isso.[n][f 1 3 65535][w][e]
 
 [msg MSG_QUEST_42 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]A empresa seria seu castelo?[n]Mas quem é esse cara? Kamoshida?[n]Com certeza vamos encontrá-lo em Memento.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]A empresa seria seu castelo?[n]Mas quem é esse cara? Kamoshida?[n]Com certeza vamos encontrá-lo em Mementos.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]O nome dele era [clr 2]Shinsuke Kishi[clr 27], certo?[n]Temos que contar aos outros![n][f 1 3 65535][w][e]
 
 [msg MSG_QUEST_43 [Animado empresário]]

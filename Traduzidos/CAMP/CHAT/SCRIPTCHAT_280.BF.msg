@@ -1,11 +1,11 @@
 [msg MSG_001_0_0 [Haru]]
-[s][f 5 14]É incrível o que aconteceu com o[n]Memento...[n][w][e]
+[s][f 5 14]É incrível o que aconteceu com o[n]Mementos...[n][w][e]
 
 [msg MSG_002_0_0 [Haru]]
 [s][f 5 14]Seu poder é algo terrível.[n][w][e]
 
 [msg MSG_003_0_0 [Ryuji]]
-[s][f 5 14]Não pensei que Memento[n]poderia ir tão[n]fundo! Eles são enormes![n][w][e]
+[s][f 5 14]Não pensei que Mementos[n]poderia ir tão[n]fundo! Eles são enormes![n][w][e]
 
 [msg MSG_004_0_0 [Ann]]
 [s][f 5 14]Suba, você quer dizer. Perdi a conta do[n]tempo que perdemos naquelas escadas...[n][w][e]

@@ -36,7 +36,7 @@
 [s][bup 0 7 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 36 10 0 10][vp 8 2 1 3048 65535 0]Hehe... isso mesmo, esqueci.[n][w][e]
 
 [msg MES_GROUP3_01 [Futaba]]
-[s][bup 0 8 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 9021 65535 0]Um ser único, criado para[n]guiar o Malandro para[n]a salvação da humanidade...[n][w][e]
+[s][bup 0 8 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 9021 65535 0]Um ser único, criado para[n]guiar o Trapaceiro para[n]a salvação da humanidade...[n][w][e]
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Sim, não é nada mal.[n]Muito bem, Mona![n][w][e]
 
 [msg MES_GROUP3_02 [Morgana]]

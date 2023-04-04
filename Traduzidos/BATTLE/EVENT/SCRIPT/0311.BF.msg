@@ -31,7 +31,7 @@
 
 [msg MSG_BTLSATAN_001 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1118 0 0][f 4 10 65535 0 0]Eu entendo... Se um deus faz o mal,[n]é dever de um senhor[n]dos demônios puni-lo...![n][f 1 3 65535][w][e]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1119 0 0][f 4 10 65535 0 0]Não pode haver um final mais adequado[n]para um Malandro![n][f 1 3 65535][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1119 0 0][f 4 10 65535 0 0]Não pode haver um final mais adequado[n]para um Trapaceiro![n][f 1 3 65535][w][e]
 
 [msg MSG_BTLEND_001 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1120 0 0][f 4 10 65535 0 0]Joker, confiamos a você nossa[n]força e a esperança do povo![n]Acabe com isso![n][f 1 3 65535][w][e]

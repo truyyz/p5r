@@ -5,7 +5,7 @@
 [s]Uma nova área foi detectada[n]nas profundezas. Atualize[n]informações para orientação.[n][w][e]
 
 [msg D190_01_OPEN_EV05_02_mes_2 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Parece que o Memento[n]mais se expandiu...[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Parece que o Mementos[n]mais se expandiu...[n][w][e]
 
 [msg D190_01_OPEN_EV05_02_mes_3 [Yusuke]]
 [s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Huh? Os Mementos não se expandem[n]de acordo com a opinião geral sobre[n]nós? Isso está em um nível mais baixo.[n][w][e]

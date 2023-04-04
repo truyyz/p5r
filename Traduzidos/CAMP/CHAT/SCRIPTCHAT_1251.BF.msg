@@ -1,5 +1,5 @@
 [msg MSG_000_0_0 [Kasumi]]
-[s][f 5 14]Lembra daquele pedido de[n]alguém no Memento?[n][w][e]
+[s][f 5 14]Lembra daquele pedido de[n]alguém no Mementos?[n][w][e]
 
 [msg MSG_001_0_0 [Kasumi]]
 [s][f 5 14]Sabemos qual é o alvo.[n][w][e]

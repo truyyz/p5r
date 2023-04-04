@@ -99,6 +99,6 @@
 [s][f 5 14][f 5 15]Eu também tentarei coletar[n]algumas outras notícias![n][f 1 3 65535][w][e]
 
 [msg MSG_056_0_0 [Morgana]]
-[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 1 1021 65535 0]Esse grupo parece um[n]alvo perfeito para enfrentar[n]em Memento, não acha?[n][f 1 3 65535][w][e]
+[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 1 1021 65535 0]Esse grupo parece um[n]alvo perfeito para enfrentar[n]em Mementos, não acha?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Embora, na ausência[n]de outras informações, podemos[n]apenas esperar...[n][f 1 3 65535][w][e]
 

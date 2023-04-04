@@ -547,16 +547,16 @@
 [msg MSG_C11_BYEGREET_00_07 [Lavenza]]
 [s][bup 0 100 1 0 0][f 4 10 65535 0 0][f 4 23 1 211 3 10 0 10][vp 8 0 1 17 65535 0]...Embora, é claro, você[n]já tenha escolhido o caminho da[n]verdadeira liberdade.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 18 65535 0]Meu único conselho é[n]lembrar-se das pessoas que[n]permaneceram essa escolha possível.[n][w][e]
-[s][f 4 10 65535 0 510][vp 8 0 1 19 65535 0]Mas um Malandro tão excelente[n]que você agora se tornou[n]pode já saber disso.[n][w][e]
+[s][f 4 10 65535 0 510][vp 8 0 1 19 65535 0]Mas um Trapaceiro tão excelente[n]que você agora se tornou[n]pode já saber disso.[n][w][e]
 
 [msg MSG_C11_BYEGREET_00_08 [Lavenza]]
-[s][bup 0 100 1 0 0][f 4 10 65535 0 510][f 4 23 1 211 3 10 0 10][vp 8 0 1 20 65535 0]Mas um Malandro tão excelente[n]que você agora se tornou[n]pode já saber disso.[n][w][e]
+[s][bup 0 100 1 0 0][f 4 10 65535 0 510][f 4 23 1 211 3 10 0 10][vp 8 0 1 20 65535 0]Mas um Trapaceiro tão excelente[n]que você agora se tornou[n]pode já saber disso.[n][w][e]
 
 [msg MSG_C11_BYEGREET_00_00_5 [Lavenza]]
 [s][bup 0 100 0 0 0][f 4 10 65535 0 0][f 4 23 1 211 3 10 0 10][vp 1 0 0 21 0 0]E então... você veio dizer olá.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 22 65535 0]Antes de partir, tenho algumas[n]pensações para compartilhar com você.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 23 65535 0]Este mundo distorcido e decadente tentou[n]esmagá-lo. Mas você o recuperou, você o salvou.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 1 24 65535 0]Você realmente era um Malandro[n]da era moderna, campeão[n]das pessoas quebradas.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 1 24 65535 0]Você realmente era um Trapaceiro[n]da era moderna, campeão[n]das pessoas quebradas.[n][w][e]
 [s][bup 0 100 1 0 0][f 4 10 65535 0 0][vp 8 0 1 25 65535 0]Um homem capaz de tanto... Admirável. Eu me[n]pergunto onde esta estrada vai levar você.[n][w][e]
 
 [sel SEL_C11_BYEGREET_00_01_5 top]
@@ -566,7 +566,7 @@
 
 [msg MSG_C11_BYEGREET_00_02_5 [Lavenza]]
 [s][bup 0 100 1 0 0][f 4 10 65535 0 0][f 4 23 1 211 3 10 0 10][vp 8 0 1 26 65535 0]Ninguém tem certeza. E poucos[n]imaginam o que você fará agora.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 1 27 65535 0]Mas é isso mesmo...[n]É o que faz de você um Malandro.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 1 27 65535 0]Mas é isso mesmo...[n]É o que faz de você um Trapaceiro.[n][w][e]
 
 [msg MSG_C11_BYEGREET_00_03_5 [Lavenza]]
 [s][bup 0 100 1 0 0][f 4 10 65535 0 0][f 4 23 1 211 3 10 0 10][vp 8 0 1 28 65535 0]E em que mais você precisaria[n]minha orientação? De agora em diante,[n]sua vontade o guiará...[n][w][e]
@@ -574,7 +574,7 @@
 
 [msg MSG_C11_BYEGREET_00_04_5 [Lavenza]]
 [s][bup 0 100 1 0 0][f 4 10 65535 0 0][f 4 23 1 211 3 10 0 10][vp 8 0 1 30 65535 0]...Eu não acho que é aconselhável.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 1 31 65535 0]Acompanhar um Malandro por um caminho tão[n]sinuoso? Tenho medo de ficar para trás.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 1 31 65535 0]Acompanhar um Trapaceiro por um caminho tão[n]sinuoso? Tenho medo de ficar para trás.[n][w][e]
 
 [msg MSG_C11_BYEGREET_00_05_5 [Lavenza]]
 [s][bup 0 100 1 0 0][f 4 10 65535 0 0][f 4 23 1 211 3 10 0 10][vp 8 0 1 32 65535 0]...Mas hoje eu não tenho[n]só palavras e pensamentos para você.[n][w][e]
@@ -590,8 +590,8 @@
 [msg MSG_C11_BYEGREET_00_07_5 [Lavenza]]
 [s][bup 0 100 1 0 0][f 4 10 65535 0 0][f 4 23 1 211 3 10 0 10][vp 8 0 1 39 65535 0]...Embora, é claro, você[n]já tenha escolhido o caminho da[n]verdadeira liberdade.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 40 65535 0]Ao inspirar outros a se rebelar[n]e lutar por seus ideais,[n]você pode mudar o mundo.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 1 41 65535 0]O seu é o caminho do verdadeiro Malandro.[n]Que ele o guie para fortunas[n]além da imaginação.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 1 41 65535 0]O seu é o caminho do verdadeiro Trapaceiro.[n]Que ele o guie para fortunas[n]além da imaginação.[n][w][e]
 
 [msg MSG_C11_BYEGREET_00_08_5 [Lavenza]]
-[s][bup 0 100 1 0 0][f 4 10 65535 0 0][f 4 23 1 211 3 10 0 10][vp 8 0 1 42 65535 0]O seu é o caminho do verdadeiro Malandro.[n]Que ele o guie para fortunas[n]além da imaginação.[n][w][e]
+[s][bup 0 100 1 0 0][f 4 10 65535 0 0][f 4 23 1 211 3 10 0 10][vp 8 0 1 42 65535 0]O seu é o caminho do verdadeiro Trapaceiro.[n]Que ele o guie para fortunas[n]além da imaginação.[n][w][e]
 

@@ -66,13 +66,13 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 27 65535 0]Eu estava convencido de que você[n]tinha algo a ver com[n]a confissão do presidente.[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Chihaya]]
-[s][bup 0 113 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 28 65535 0]Então descobri que você é o[n]Malandro que está fazendo[n]tanto buzz.[n][f 1 3 65535][w][e]
+[s][bup 0 113 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 28 65535 0]Então descobri que você é o[n]Trapaceiro que está fazendo[n]tanto buzz.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 29 65535 0]Foi o mesmo cartão da[n]figura que me ajudou[n]a desmascarar o presidente.[n][f 1 3 65535][w][e]
 [s][bup 0 113 1 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 42 5 100][f 4 24 0 4 0 1 5 0][vp 8 0 0 30 65535 0]Hehehe. Finalmente[n]cheguei lá...![n][f 1 3 65535][w][e]
 
 [sel SEL_017_0_0 top]
 [s]Pode ser...[e]
-[s]E se eu for o Malandro?[e]
+[s]E se eu for o Trapaceiro?[e]
 [s]Você está acordado.[e]
 
 [msg MSG_018_0_0 [Chihaya]]
@@ -130,7 +130,7 @@
 
 [msg MSG_028_0_0 [Chihaya]]
 [s][bup 0 113 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 52 65535 0]No entanto, quando tentei[n]descobrir sua verdadeira identidade, a[n]sequência das cartas era bizarra.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 53 65535 0]Cartas com personalidades fortes se reuniram em[n]torno do Malandro.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 53 65535 0]Cartas com personalidades fortes se reuniram em[n]torno do Trapaceiro.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 54 65535 0]É improvável... mas era[n]como se eles estivessem tentando[n]fazer um vínculo.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 55 65535 0]Ou você tem um carisma incrível,[n]ou atrai muitos problemas.[n][f 1 3 65535][w][e]
 

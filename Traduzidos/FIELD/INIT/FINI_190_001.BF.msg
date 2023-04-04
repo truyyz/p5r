@@ -68,7 +68,7 @@
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7106 65535 0]Eh, um pouco como fazer lição de casa.[n]Vamos, vamos.[n][w][e]
 
 [msg memen_weather_01_mes01 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1170 65535 0]Agora que penso nisso, está chovendo hoje.[n]Isso pode afetar[n]i Memento...[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1170 65535 0]Agora que penso nisso, está chovendo hoje.[n]Isso pode afetar[n]i Mementos...[n][w][e]
 
 [msg memen_weather_01_mes06 [Ryuji]]
 [s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7045 65535 0]Então hoje é nossa chance[n]de seguir em frente![n][w][e]
@@ -95,7 +95,7 @@
 [s][bup 0 4 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eles parecem muito distantes.[n]Aparentemente, as drogas[n]os deixam sonolentos...[n][w][e]
 
 [msg memen_weather_02_mes05 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu vejo. O efeito em Memento[n]s pode ser similar...[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu vejo. O efeito em Mementos[n]s pode ser similar...[n][w][e]
 
 [msg memen_weather_02_mes06 [Ryuji]]
 [s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7172 65535 0]Deve ser mais fácil derrotar[n]Sombras ou ignorá-las completamente.[n]Vamos lá, vamos descobrir.[n][w][e]
@@ -169,7 +169,7 @@
 [s][bup 0 2 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7177 65535 0]Huh? O que você quer dizer?[n][w][e]
 
 [msg memen_weather_01_mes03 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Bem, o Memento é influenciado pelas emoções do[n]público.[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Bem, o Mementos é influenciado pelas emoções do[n]público.[n][w][e]
 
 [msg memen_weather_01_mes04 [Ann]]
 [s][bup 0 4 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6127 65535 0]Então as condições climáticas[n]alteram as emoções das pessoas[n]e isso muda os Mementos?[n][w][e]
@@ -288,7 +288,7 @@
 [s]Retorne ao mundo real do[n]Shido Palace. Obrigado[n]pelo trabalho realizado.[n][w][e]
 
 [msg D08_EXIT_MES [Navegador do Metaverso]]
-[s]De volta ao mundo real[n]dai Memento. Obrigado[n]pelo trabalho realizado.[n][w][e]
+[s]De volta ao mundo real[n]dai Mementos. Obrigado[n]pelo trabalho realizado.[n][w][e]
 
 [msg D10_EXIT_MES [Navegador do Metaverso]]
 [s]Retorne ao mundo real do Palácio de[n]Maruki. Obrigado[n]pelo trabalho realizado.[n][w][e]

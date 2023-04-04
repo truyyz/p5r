@@ -8,11 +8,11 @@
 [sel SEL_002_0_0 top]
 [s]Vamos lá de novo mais cedo ou mais tarde.[e]
 [s]É como se você fosse uma nova pessoa.[e]
-[s][f 0 8 2 1 2217]Devemos ir ao distrito da luz vermelha?[clr 27][e]
+[s][f 0 8 2 1 2217]Devemos ir ao distrito da Luz Vermelha?[clr 27][e]
 
 [msg MSG_003_0_0 [Makoto]]
 [s][bup 0 6 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 2035 65535 0][f 5 13 3 10 6]Boa ideia. Afinal, há[n]mais a aprender.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas antes disso, devemos ir para o[n]distrito da luz vermelha, como[n]dissemos antes.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas antes disso, devemos ir para o[n]distrito da Luz Vermelha, como[n]dissemos antes.[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Makoto]]
 [s][bup 0 6 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 3 5 6]Eu realmente me comportei[n]de maneira diferente do normal? Talvez[n]eu tenha me empolgado...[n][f 1 3 65535][w][e]

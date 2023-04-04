@@ -569,31 +569,31 @@
 [s]Pessoa de[n]outra história. Ele[n]se manifesta antes[n]do Dia do Juízo[n]para salvar os virtuosos.[n]Sua figura aparece[n]em muitas religiões do[n]mundo. Muitas histórias[n]falam de sua[n]morte e ressurreição.[n][e]
 
 [msg myth_190]
-[s]Pessoa transformada em[n]aventureiro uma vez que[n]torna-se a máscara do[n]Malandro. Ele se manifesta[n]antes do[n]Dia do Julgamento para salvar os[n]justos.[n]Sua figura aparece[n]em muitas religiões do[n]mundo.[n][e]
+[s]Pessoa transformada em[n]aventureiro uma vez que[n]torna-se a máscara do[n]Trapaceiro. Ele se manifesta[n]antes do[n]Dia do Julgamento para salvar os[n]justos.[n]Sua figura aparece[n]em muitas religiões do[n]mundo.[n][e]
 
 [msg myth_191]
-[s]Pessoa transformada em[n]aventureiro uma vez[n]máscara do[n]Malandro. Poeta grego[n]que tentou salvar[n]sua esposa do Hades,[n]mas ela desapareceu[n]quando ele se virou[n]pouco antes de chegar[n]à superfície.[n][e]
+[s]Pessoa transformada em[n]aventureiro uma vez[n]máscara do[n]Trapaceiro. Poeta grego[n]que tentou salvar[n]sua esposa do Hades,[n]mas ela desapareceu[n]quando ele se virou[n]pouco antes de chegar[n]à superfície.[n][e]
 
 [msg myth_192]
-[s]Pessoa transformada em[n]aventureiro uma vez que[n]tornou-se a máscara do[n]Malandro. Deus grego[n]da morte, filho de[n]Nyx e gêmeo de Hypnos.[n]Ele é conhecido por sua[n]capacidade de conceder[n]uma morte pacífica.[n][e]
+[s]Pessoa transformada em[n]aventureiro uma vez que[n]tornou-se a máscara do[n]Trapaceiro. Deus grego[n]da morte, filho de[n]Nyx e gêmeo de Hypnos.[n]Ele é conhecido por sua[n]capacidade de conceder[n]uma morte pacífica.[n][e]
 
 [msg myth_193]
-[s]Pessoa transformada em[n]aventureiro uma vez que[n]torna-se a máscara do[n]Malandro. Antigo[n]deus que existia[n]antes da formação[n]do Japão. Ele criou[n]Oyashima do caos,[n]então deu à luz[n]incontáveis filhos.[n][e]
+[s]Pessoa transformada em[n]aventureiro uma vez que[n]torna-se a máscara do[n]Trapaceiro. Antigo[n]deus que existia[n]antes da formação[n]do Japão. Ele criou[n]Oyashima do caos,[n]então deu à luz[n]incontáveis filhos.[n][e]
 
 [msg myth_194]
-[s]Pessoa transformada em[n]aventureiro uma vez que[n]tornou-se a máscara do[n]Malandro. Ele é o rival[n]de Izanagi. Magatsu[n]significa "calamidade":[n]enquanto Izanagi[n]criou a terra e[n]trouxe a ordem, ele[n]traz para o caos.[n][e]
+[s]Pessoa transformada em[n]aventureiro uma vez que[n]tornou-se a máscara do[n]Trapaceiro. Ele é o rival[n]de Izanagi. Magatsu[n]significa "calamidade":[n]enquanto Izanagi[n]criou a terra e[n]trouxe a ordem, ele[n]traz para o caos.[n][e]
 
 [msg myth_195]
-[s]Pessoa transformada em[n]aventureiro uma vez que[n]tornou-se a máscara do[n]Malandro. Ela nasceu de[n]um bambu luminoso.[n]Muitos a pediram em casamento, mas ela recusou[n]e voltou para a lua.[n][e]
+[s]Pessoa transformada em[n]aventureiro uma vez que[n]tornou-se a máscara do[n]Trapaceiro. Ela nasceu de[n]um bambu luminoso.[n]Muitos a pediram em casamento, mas ela recusou[n]e voltou para a lua.[n][e]
 
 [msg myth_196]
-[s]Pessoa transformada em[n]aventureiro uma vez que[n]torna-se a máscara do[n]Malandro. Ela é a filha[n]de Minos. Ele ajudou[n]Teseu a derrotar o[n]minotauro e deu a ele[n]uma bola de lã[n]para que ele pudesse[n]escapar do labirinto.[n][e]
+[s]Pessoa transformada em[n]aventureiro uma vez que[n]torna-se a máscara do[n]Trapaceiro. Ela é a filha[n]de Minos. Ele ajudou[n]Teseu a derrotar o[n]minotauro e deu a ele[n]uma bola de lã[n]para que ele pudesse[n]escapar do labirinto.[n][e]
 
 [msg myth_197]
-[s]Pessoa transformada em[n]aventureiro uma vez que[n]torna-se a máscara do[n]Malandro. Filho de[n]Pasiphae, ele nasceu com[n]uma monstruosa[n]cabeça de touro. Para[n]isso ele foi trancado no[n]labirinto, armado com[n]um machado duplo.[n][e]
+[s]Pessoa transformada em[n]aventureiro uma vez que[n]torna-se a máscara do[n]Trapaceiro. Filho de[n]Pasiphae, ele nasceu com[n]uma monstruosa[n]cabeça de touro. Para[n]isso ele foi trancado no[n]labirinto, armado com[n]um machado duplo.[n][e]
 
 [msg myth_198]
-[s]Pessoa transformada em[n]aventureiro uma vez que[n]torna-se a máscara do[n]Malandro. Importante[n]deus japonês, filho[n]de Izanagi, governa a[n]lua e a noite. Muitas[n]teorias foram[n]formuladas sobre essa[n]divindade misteriosa.[n][e]
+[s]Pessoa transformada em[n]aventureiro uma vez que[n]torna-se a máscara do[n]Trapaceiro. Importante[n]deus japonês, filho[n]de Izanagi, governa a[n]lua e a noite. Muitas[n]teorias foram[n]formuladas sobre essa[n]divindade misteriosa.[n][e]
 
 [msg myth_199]
 [s]RESERVA[n]Mitologia[n][e]
@@ -1097,13 +1097,13 @@
 [s]Pessoa de[n]outra história. Poeta[n]muito habilidoso com a[n]lira. Ele tentou salvar[n]sua esposa do Hades,[n]mas ela desapareceu[n]quando ele se virou[n]pouco antes de chegar[n]à superfície.[n][e]
 
 [msg myth_366]
-[s]Pessoa transformada em[n]aventureiro uma vez que[n]tornou-se a máscara do[n]Malandro. Deus da[n]criação japonesa,[n]gerou o céu, o oceano[n]e a noite, bem como[n]8 milhões de outros deuses.[n]Opõe-se à deusa[n]Izanami, uma vez[n]sua esposa.[n][e]
+[s]Pessoa transformada em[n]aventureiro uma vez que[n]tornou-se a máscara do[n]Trapaceiro. Deus da[n]criação japonesa,[n]gerou o céu, o oceano[n]e a noite, bem como[n]8 milhões de outros deuses.[n]Opõe-se à deusa[n]Izanami, uma vez[n]sua esposa.[n][e]
 
 [msg myth_367]
 [s]RESERVA[n]Mitologia[n][e]
 
 [msg myth_368]
-[s]Pessoa transformada em[n]aventureiro uma vez que[n]tornou-se a máscara do[n]Malandro. Filha de Zeus[n]e deusa muito habilidosa[n]em batalha.[n]Luta para proteger[n]sua terra e sua[n]família, nunca por[n]pura sede de sangue.[n][e]
+[s]Pessoa transformada em[n]aventureiro uma vez que[n]tornou-se a máscara do[n]Trapaceiro. Filha de Zeus[n]e deusa muito habilidosa[n]em batalha.[n]Luta para proteger[n]sua terra e sua[n]família, nunca por[n]pura sede de sangue.[n][e]
 
 [msg myth_369]
 [s]RESERVA[n]Mitologia[n][e]
@@ -1112,7 +1112,7 @@
 [s]RESERVA[n]Mitologia[n][e]
 
 [msg myth_371]
-[s]Pessoa transformada em[n]aventureiro uma vez[n]máscara do[n]Malandro. Poeta grego[n]que tentou salvar[n]sua esposa do Hades,[n]mas ela desapareceu[n]quando ele se virou[n]pouco antes de chegar[n]à superfície.[n][e]
+[s]Pessoa transformada em[n]aventureiro uma vez[n]máscara do[n]Trapaceiro. Poeta grego[n]que tentou salvar[n]sua esposa do Hades,[n]mas ela desapareceu[n]quando ele se virou[n]pouco antes de chegar[n]à superfície.[n][e]
 
 [msg myth_372]
 [s]RESERVA[n]Mitologia[n][e]

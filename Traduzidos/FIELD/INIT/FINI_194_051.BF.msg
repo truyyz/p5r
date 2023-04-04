@@ -503,9 +503,9 @@
 
 [msg MSG_MENTION_OF_FLOWER_VA [Jose]]
 [s][bup 0 221 0 0 0][f 4 10 65535 0 0][vp 8 2 1 56791 65535 0]Oh sim! Eu gostaria de te dizer algo[n]sobre essas flores que você está[n]colhendo...[n][w][e]
-[s][f 4 10 65535 0 0]Por alguma razão, você não pode[n]tirá-los com você para fora do Memento.[n]Eles simplesmente desaparecem. É bizarro.[n][w][e]
+[s][f 4 10 65535 0 0]Por alguma razão, você não pode[n]tirá-los com você para fora do Mementos.[n]Eles simplesmente desaparecem. É bizarro.[n][w][e]
 [s][f 4 10 65535 0 0]E seria triste recolhê-los para[n]então vê-los desaparecer... Um verdadeiro[n]desperdício, não é?[n][w][e]
-[s][f 4 10 65535 0 0]Não se esqueça de trazê-los para mim antes de[n]sair do Memento, ok?[n][w][e]
+[s][f 4 10 65535 0 0]Não se esqueça de trazê-los para mim antes de[n]sair do Mementos, ok?[n][w][e]
 [s][bup 0 221 1 0 0][f 4 10 65535 0 0][vp 8 2 1 56706 65535 0]É assim que deve ser. Bom trabalho![n][w][e]
 
 [msg MSG_MENTION_OF_FLOWER_VA_2 [Jose]]
@@ -694,7 +694,7 @@
 [msg MEME_STAMP_GREET_03 [Jose]]
 [s][bup 0 221 1 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 56706 65535 0]Bom trabalho. Agora você tem[n]muitos selos![n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Quanto mais selos você coletar, mais coisas[n]você pode fazer em Mementos,[n]então continue assim![n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Oh! E não se esqueça de me trazer[n]mais flores Memento, ok?[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Oh! E não se esqueça de me trazer[n]mais flores Mementos, ok?[n][w][e]
 
 [msg MEME_STAMP_GREET_04 [Jose]]
 [s][bup 0 221 1 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 56706 65535 0]Bom trabalho! Eu estava ansioso para vê-lo.[n][w][e]
@@ -742,7 +742,7 @@
 [s][bup 0 221 4 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 56777 65535 0]Oh, certo.[n][w][e]
 
 [msg MEME_NEW_LINEUP_FIRST_02 [Jose]]
-[s][bup 0 221 1 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Uma nova área[n]Memento foi aberta, então coletei[n]novas coisas para trocar.[n][w][e]
+[s][bup 0 221 1 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Uma nova área[n]Mementos foi aberta, então coletei[n]novas coisas para trocar.[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Espero ter algo que você goste, senhor.[n][w][e]
 
 [msg MEME_NEW_LINEUP_GENERAL_ [Jose]]

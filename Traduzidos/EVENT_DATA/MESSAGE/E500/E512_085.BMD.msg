@@ -42,7 +42,7 @@
 [s]Eles "parecem tentáculos" para mim.[e]
 
 [msg MSG_011_0_0 [Haru]]
-[s][bup 0 7 104 0 0][f 4 10 65535 0 0][vp 8 2 0 3127 65535 0]Você está dizendo que esses cabos espalhados[n]no Palácio de Maruki e Memento[n]são parte de suas... técnicas?[n][f 1 3 65535][w][e]
+[s][bup 0 7 104 0 0][f 4 10 65535 0 0][vp 8 2 0 3127 65535 0]Você está dizendo que esses cabos espalhados[n]no Palácio de Maruki e Mementos[n]são parte de suas... técnicas?[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Yusuke]]
 [s][bup 0 5 100 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Exatamente. Eles são as "ferramentas" que[n]dr. Maruki usa para[n]influenciar as mentes dos outros...[n][f 1 3 65535][w][e]
@@ -71,7 +71,7 @@
 [s][bup 0 2 104 0 0][f 4 10 65535 0 0][vp 8 2 0 7177 65535 0]Huh? O que isso significa?[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Ann]]
-[s][bup 0 4 100 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Bem, as telas mostram partes de[n]Memento, certo? Acho que podemos[n]fazer alguma coisa aqui?[n][f 1 3 65535][w][e]
+[s][bup 0 4 100 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Bem, as telas mostram partes de[n]Mementos, certo? Acho que podemos[n]fazer alguma coisa aqui?[n][f 1 3 65535][w][e]
 
 [sel SEL_020_0_0 top]
 [s]Vamos tentar descobrir.[e]

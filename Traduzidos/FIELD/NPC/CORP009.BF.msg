@@ -1,6 +1,6 @@
 [msg MSG_C09_SOJIRO_00_00_00 [Futaba]]
 [s][bup 0 8 0 65535 0][f 4 23 1 209 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 9178 65535 0]Ah, [f 4 2].[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu gostaria de entrar no Memento.[n]Imediatamente. Por falar nisso[n]do meu tio.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu gostaria de entrar no Mementos.[n]Imediatamente. Por falar nisso[n]do meu tio.[n][w][e]
 
 [msg MND_C09_SOJIRO_00_00_01]
 [s]Futaba e eu teremos que entrar nos Mementos[n]sozinhos...[n][w][e]
@@ -339,7 +339,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Você é livre? Eu gostaria de falar sobre isso.[n][w][e]
 
 [msg MSG_C09_COOP_07_00 [Futaba]]
-[s][bup 0 8 0 65535 0][f 4 23 1 209 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu gostaria de ir para Memento[n]e salvar Kana-chan.[n][w][e]
+[s][bup 0 8 0 65535 0][f 4 23 1 209 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu gostaria de ir para Mementos[n]e salvar Kana-chan.[n][w][e]
 
 [msg MND_C09_COOP_07_01]
 [s]Futaba está determinado. Devemos[n]ir para os Mementos e despertar os[n]corações dos pais de Kana-chan...[n][w][e]

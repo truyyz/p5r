@@ -21,7 +21,7 @@
 [s][vp 8 0 0 0 65535 0]Sinto um forte vínculo[n]entre mim e Akechi...[n][f 1 3 65535][w][e]
 
 [msg MSG_CORP_PLAY_CHECK1 [Morgana]]
-[s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Quer ir ao Memento de novo?[n][f 1 3 65535][w][e]
+[s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Quer ir ao Mementos de novo?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Não vou impedi-lo, mas não faça[n]nada perigoso, ok?[n][f 1 3 65535][w][e]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Então, você decidiu?[n]Você quer ir para Akechi?[n][f 1 3 65535][w][e]
 

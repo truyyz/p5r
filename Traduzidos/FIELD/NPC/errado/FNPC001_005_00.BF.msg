@@ -443,7 +443,7 @@
 [s][vp 8 2 1 0 18 0]Talvez ele consiga ver[n]o que ele e eu[n]tentamos proteger.[n][w][e]
 
 [msg MSG_AYASIOTOKO_013_0_0 [Mulher assustada]]
-[s][vp 8 2 1 0 21 0]Há tantas pessoas na estação de[n]shibuya...[n][w][e]
+[s][vp 8 2 1 0 21 0]Há tantas pessoas na estação de[n]Shibuya...[n][w][e]
 [s][vp 8 2 1 0 21 0]O que ele já tentou proteger[n]que é tão importante que ele[n]fez isso para nós?[n][w][e]
 [s][vp 8 2 1 0 21 0]Sob... O que me importa?[n]O que estou fazendo?[n][w][e]
 
@@ -743,7 +743,7 @@
 
 [msg MSG_quest36_morgana_01 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 2 1 1130 65535 0]Não pensei que encontraríamos um alvo em tal[n]lugar...[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Vamos despertar seu coração no[n]Memento o mais rápido possível.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Vamos despertar seu coração no[n]Mementos o mais rápido possível.[n][w][e]
 
 [msg Quest36_target_01_00 [Shinsuke Kishi]]
 [s]Que diabos é Phan-Site?[n]Qual departamento cuidou disso?[n][f 4 23 1 601 3 10 0 10][w][e]

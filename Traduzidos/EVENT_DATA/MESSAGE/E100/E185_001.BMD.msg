@@ -30,7 +30,7 @@
 [msg MSG_009_0_0 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Um palácio tão grande quanto o castelo[n]se forma apenas quando os desejos[n]são distorcidos ao extremo.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Portanto, em vez de muitos[n]Palácios individuais, o público em geral tem[n]um gigantesco Palácio compartilhado.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]E é aí que nos[n]encontramos... I Memento.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]E é aí que nos[n]encontramos... I Mementos.[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Ann]]
 [s][bup 0 4 100 0 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Agora que você mencionou, este lugar[n]parece um pouco diferente do[n]Kamoshida Palace...[n][f 1 3 65535][w][e]

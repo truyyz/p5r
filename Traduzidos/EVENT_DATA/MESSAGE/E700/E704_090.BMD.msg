@@ -81,5 +81,5 @@
 
 [msg MND_018_0_0]
 [s][vp 8 0 0 0 65535 0]Eu sinto a presença de Sombras[n]na área...[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]Devemos deixar Memento...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Devemos deixar Mementos...[n][f 1 3 65535][w][e]
 

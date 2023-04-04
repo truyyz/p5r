@@ -1,5 +1,5 @@
 [msg AT_D_BF_D05_010_mes01 [Yusuke]]
-[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 53702 65535 0]Memento é o palácio[n]do público em geral, certo?[n][w][e]
+[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 53702 65535 0]Mementos é o palácio[n]do público em geral, certo?[n][w][e]
 
 [msg AT_D_BF_D05_010_mes02 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Sim. Onde você quer ir?[n][w][e]
@@ -13,7 +13,7 @@
 [s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2127 65535 0]Observação certa. Eu[n]me perguntei a mesma coisa quando[n]cheguei aqui pela primeira vez...[n][w][e]
 
 [msg AT_D_BF_D05_010_mes05 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu também não sei a resposta.[n]A própria existência de Memento é[n]um fenômeno muito especial.[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu também não sei a resposta.[n]A própria existência de Mementos é[n]um fenômeno muito especial.[n][w][e]
 
 [msg AT_D_BF_D05_010_mes06 [Ann]]
 [s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Você não disse que eles são a[n]fonte de todos os outros Palácios?[n][w][e]
