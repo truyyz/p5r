@@ -75,7 +75,7 @@
 [s][bup 0 10 201 65535 0][f 4 10 65535 0 0][vp 8 0 0 78 4 0]É um absurdo, não é?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 19 4 0]Nunca confie em boatos, mas[n]todos tremem de medo só[n]de ouvir seu nome.[n][f 1 3 65535][w][e]
 
-[msg MSG_014_5_0 [Studentessa di nome Yoshizawa]]
+[msg MSG_014_5_0 [Colegial chamada Yoshizawa]]
 [s][bup 0 10 201 65535 0][f 4 10 65535 0 0][vp 8 0 0 79 4 0]Hehe. Até eu entendo[n]que você está brincando.[n][f 1 3 65535][w][e]
 
 [msg MSG_014_7_0 [Colegial chamada Yoshizawa]]
