@@ -1,5 +1,5 @@
 [msg MSG_000_0_0 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 2198 65535 0]Eiko Takao-san. Ultimamente[n]você esteve no[n]distrito da luz vermelha, não foi?[n][f 1 3 65535][w][e]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 2198 65535 0]Eiko Takao-san. Ultimamente[n]você esteve no[n]distrito da Luz Vermelha, não foi?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Nós vimos você, eu e[n][f 4 2]-kun.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Se não estamos enganados, você trabalha[n]em um lugar chamado[n]After School Salon.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Como é trabalhar lá?[n][f 1 3 65535][w][e]
@@ -15,7 +15,7 @@
 [s][vp 8 0 0 0 65535 0]Mas sim. O pior que pode acontecer comigo[n]é algum velho me lançando[n]olhares.[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 2021 65535 0]Eu vejo. Mas, deixando esse[n]aspecto de lado, por que você trabalha lá?[n][f 1 3 65535][w][e]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 2021 65535 0]Entendo. Mas, deixando esse[n]aspecto de lado, por que você trabalha lá?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Qual é a sua[n]situação financeira?[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Eiko]]
@@ -34,14 +34,14 @@
 [msg MSG_007_0_0 [Eiko]]
 [s][vp 8 0 0 0 65535 0]É bom quando alguém trata você[n]como alguém especial, não é?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Mas certamente uma superaluna[n]modelo como você sabe disso muito bem.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]De qualquer forma, você quer delatar?[n]Você até trouxe[n]uma testemunha...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]De qualquer forma, você quer me delatar?[n]Você até trouxe[n]uma testemunha...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Espere um momento. Então vocês[n]dois estavam juntos em Shinjuku![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]E por que, senhorita presidente?[n][f 1 3 65535][w][e]
 
 [sel SEL_008_0_0 top]
 [s][f 0 8 2 1 2217]Você está tendo uma ideia errada.[clr 27][e]
 [s]E se estivéssemos juntos?[e]
-[s]Nenhum de seus negócios.[e]
+[s]Não é da sua conta.[e]
 
 [msg MSG_009_0_0 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 2023 65535 0][f 5 13 3 5 6]Está certo. Eu tinha uma tarefa[n]para fazer e pedi a ele[n]para me acompanhar, só isso.[n][f 1 3 65535][w][e]
@@ -64,7 +64,7 @@
 
 [msg MSG_013_0_0 [Eiko]]
 [s][vp 8 0 0 0 65535 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 6 7 300 65535]Oh, entendi! Na prática, nós[n]temos que guardar[n]o segredo um do outro?[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]Cara, e eu percebi agora que[n]seu namorado é aquele suposto[n]criminoso... Você é durão, presidente![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Cara, e eu percebi agora que[n]seu namorado é aquele suposto[n]criminoso... Você é durona, presidente![n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Makoto]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 6 7 300 1][vp 8 2 0 2029 65535 0]Eu já disse que não é assim![n][f 1 3 65535][w][e]
@@ -79,24 +79,24 @@
 [s][bup 0 6 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 2192 65535 0]Huh? Você conhece Buchimaru-kun...?[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Eiko]]
-[s][vp 8 0 0 0 65535 0]Crescendo, eu tive um monte de coisas[n]Buchimaru-kun![n]Que explosão do passado![n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]Mas por que é reduzido assim?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Eu tinha tipo, um monte de coisas de [n]Buchimaru-kun, quando eu era menor.[n]Que explosão de nostalgia![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Mas por que está tão acabado?[n][f 1 3 65535][w][e]
 
 [msg MSG_017_1_0 [Makoto]]
 [s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bem, eles me deram quando[n]eu ainda estava no ensino fundamental...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu gostaria de comprar um novo, mas eles não[n]vendem mais os gadgets de Buchimaru-kun.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu gostaria de comprar um novo, mas eles não[n]vendem mais os brinquedos de Buchimaru-kun.[n][f 1 3 65535][w][e]
 
 [msg MSG_017_2_0 [Eiko]]
-[s][vp 8 0 0 0 65535 0]Tão engraçado! Presidente do conselho estudantil[n]com um estojo![n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]L'idea che mi ero fatta su di te[n]oggi ha preso e fatto un giro[n]di 360°![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Tão engraçado! A presidente do conselho estudantil[n]com um estojo![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]A ideia que tive sobre você[n]hoje deu uma volta[n]de 360°![n][f 1 3 65535][w][e]
 
 [msg MSG_017_3_0 [Makoto]]
 [s][bup 0 6 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mmh, isso não é o mesmo de antes?[n][f 1 3 65535][w][e]
 
 [msg MSG_017_4_0 [Eiko]]
-[s][vp 8 0 0 0 65535 0]Huh? Mas o que eu sei. Estou tão[n]tão maravilhado.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Huh? Mas o que eu sei. Estou tão[n]tão maravilhada.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Você não parece ser do tipo que[n]gosta de coisas assim.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]Eu vi você mais como um[n]robô gentil, mas evidentemente[n]eu só precisava conhecê-lo melhor.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Eu via você mais como uma[n]robô gentil, mas evidentemente[n]eu só precisava conhecê-la melhor.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Por que não trocamos números de telefone?[n]Então vamos falar sobre[n]Buchimaru-kun... e seu namorado.[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Makoto]]
@@ -114,11 +114,11 @@
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 2028 65535 0]Foi um furacão...[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Makoto]]
-[s][bup 0 6 3 65535 0][f 4 10 65535 0 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 6 3 300 65535][vp 8 0 0 0 65535 0]Mas, na verdade, estou chocado.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ele pensou que eu era um robô...[n][f 1 3 65535][w][e]
+[s][bup 0 6 3 65535 0][f 4 10 65535 0 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 6 3 300 65535][vp 8 0 0 0 65535 0]Mas, na verdade, estou chocada.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ela pensou que eu era um robô...[n][f 1 3 65535][w][e]
 
 [sel SEL_022_0_0 top]
-[s]Não fique bravo.[e]
+[s]Não fique brava.[e]
 [s][f 0 8 2 1 2217]Você pode mudar.[clr 27][e]
 [s]Bip-boops.[e]
 
@@ -141,14 +141,14 @@
 
 [msg MSG_028_0_0 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 2127 65535 0]Acho que vai me ajudar a sair da minha concha, é[n]isso.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Espero que você esteja pronto. Vou mostrar a você[n]como um aluno modelo pode ser útil![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Espero que você esteja pronto. Vou mostrar a você[n]como uma aluna modelo pode ser útil![n][f 1 3 65535][w][e]
 
 [msg MND_990_0_0]
-[s][vp 8 0 0 0 65535 0]Eu sinto que Makoto é movido[n]por uma calma determinação...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Eu sinto que Makoto é movida[n]por uma calma determinação...[n][f 1 3 65535][w][e]
 
 [msg MSG_029_0_0 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Agora que tenho o contato dele, será[n]interessante falar com Takao-san.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Talvez eu até consiga corrigir[n]equívocos que ele tem sobre você.[n][f 1 3 65535][w][e]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Agora que tenho o contato dela, será[n]interessante falar com a Takao-san.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Talvez eu até consiga corrigir[n]equívocos que ela tem sobre você.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E, como sempre, em caso de[n]notícias importantes você será avisado.[n][f 1 3 65535][w][e]
 
 [msg MSG_031_0_0 [Makoto]]

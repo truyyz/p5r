@@ -1,10 +1,10 @@
 [msg MSG_000_0_0 [Tsukasa]]
 [s][vp 8 0 0 0 65535 0]Ei, eu sou Tsukasa.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Eiko me contou muito sobre você.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]Você é o presidente do conselho estudantil, não[n]é, Makoto-chan? Oh, eu queria estar naquele[n]quadro![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Você é a presidente do conselho estudantil, não[n]é, Makoto-chan? Oh, como eu queria fazer[n]parte do conselho![n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Makoto]]
-[s][bup 0 6 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 2185 65535 0]S-Sim, um... Sim...[n][f 1 3 65535][w][e]
+[s][bup 0 6 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 2185 65535 0]S-Sim, um... Claro...[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Tsukasa]]
 [s][vp 8 0 0 0 65535 0]O Quatro-Olhos aí é[n]seu namorado, certo?[n][f 1 3 65535][w][e]
@@ -17,8 +17,8 @@
 [s][vp 8 0 0 0 65535 0]Vocês estão realmente juntos?[n][f 1 3 65535][w][e]
 
 [sel SEL_005_0_0 top]
-[s]Estamos juntos há um tempo.[e]
-[s]Tivemos uma briga.[e]
+[s]Recém começamos.[e]
+[s]Estavamos brigando.[e]
 [s][f 0 8 2 1 2217]O amor vem em muitas formas.[clr 27][e]
 
 [msg MSG_006_0_0 [Makoto]]
@@ -67,7 +67,7 @@
 
 [msg MSG_020_0_0 [Tsukasa]]
 [s][vp 8 0 0 0 65535 0]Droga, você realmente se preocupa com[n]seus amigos![n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]Excelente. Como eu sempre digo, amigos[n]são superimportantes etc.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Excelente. Como eu sempre digo, amigos[n]são super importantes, etc.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]E, de fato, os amigos da minha namorada[n]também são meus amigos.[n]Por que você não me dá seu número?[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Makoto]]
@@ -82,7 +82,7 @@
 [sel SEL_023_5_0 top]
 [s]Não insista.[e]
 [s]Pare com isso.[e]
-[s]Pegue meu número.[e]
+[s]Aqui, pegue meu número.[e]
 
 [msg MSG_024_0_0 [Tsukasa]]
 [s][vp 8 0 0 0 65535 0]Ninguém te perguntou,[n]Quatro-olhos-kun.[n][f 1 3 65535][w][e]
@@ -107,36 +107,36 @@
 [s][vp 8 0 0 0 65535 0]Ah, eu tenho que ir também![n][f 1 3 65535][w][e]
 
 [msg MSG_029_5_0 [Eiko]]
-[s][vp 8 0 0 0 65535 0]Olááá![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Tchauuuu![n][f 1 3 65535][w][e]
 
 [msg MSG_030_0_0 [Makoto]]
-[s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 2128 65535 0]Vamos torcer para que ele não esteja enganando[n]você...[n][f 1 3 65535][w][e]
+[s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 2128 65535 0]Vamos torcer para que ele não esteja[n]enganando ela...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas, apesar das minhas suspeitas,[n]não tenho provas contra ele...[n]E Eiko parece muito feliz.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]É apenas... atrapalhando[n]a felicidade deles?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu estou apenas... atrapalhando[n]a felicidade deles?[n][f 1 3 65535][w][e]
 
 [sel SEL_031_0_0 top]
-[s]Não, você está apenas sendo atencioso.[e]
-[s]Você se preocupa muito.[e]
-[s]Poderia ser.[e]
+[s]Não, você está apenas sendo atenciosa.[e]
+[s]Você se preocupa demais.[e]
+[s]Provavelmente um pouco.[e]
 
 [msg MSG_032_0_0 [Makoto]]
 [s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Acho que sim... quer dizer, estou[n]muito preocupada com a Eiko...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]No final, o meu é apenas um[n]sentimento. Embora meu pai[n]disse para confiar em seus instintos.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]No final, é apenas um[n]palpite. Embora meu pai[n]disse para confiar em meus instintos.[n][f 1 3 65535][w][e]
 
 [msg MSG_033_0_0 [Makoto]]
 [s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Talvez você esteja certo...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]No final, o meu é apenas um[n]sentimento. Embora meu pai[n]disse para confiar em seus instintos.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]No final, é apenas um[n]palpite. Embora meu pai[n]disse para confiar em seus instintos.[n][f 1 3 65535][w][e]
 
 [msg MSG_034_0_0 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O anfitrião já[n]me enviou uma mensagem.[n][f 1 3 65535][w][e]
 [s][bup 0 6 5 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 44 5 100]...O que isso quer dizer?[n]Está cheio de emojis.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]"Sou euu, Tsukasa. *emoji de coração*[n]Eu sei que acabamos de nos conhecer, mas[n]nn eu resisti *emoji de telefone*."[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]"Sou euu, Tsukasa. *emoji de coração*[n]Eu sei que acabamos de nos conhecer, mas[n]eu nn resisti *emoji de telefone*."[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]"Estou feliz por ser seu amigo,[n]MakoC. *clapping emoji* *clapping[n]emoji* *hot springs emoji*"[n][f 1 3 65535][w][e]
 
 [msg MSG_035_0_0 [Makoto]]
-[s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]A mensagem era quase[n]compreensível, mas se eu quiser ajudar[n]Eiko terei que me acostumar...[n][f 1 3 65535][w][e]
-[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 2031 65535 0]A propósito, muito obrigado por ter vindo também.[n]Sozinho eu teria entrado em pânico com certeza.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Às vezes eu me odeio além das palavras[n]como sou imaturo...[n][f 1 3 65535][w][e]
+[s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]A mensagem era quase[n]incompreensível, mas se eu quiser ajudar[n]Eiko terei que me acostumar...[n][f 1 3 65535][w][e]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 2031 65535 0]A propósito, muito obrigado por ter vindo também.[n]Sozinha eu teria entrado em pânico com certeza.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Às vezes eu me odeio além das palavras[n]como sou imatura...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas graças a você estou melhorando[n]nisto também, então... obrigado.[n][f 1 3 65535][w][e]
 
 [msg MND_990_0_0]
