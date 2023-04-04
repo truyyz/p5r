@@ -4388,7 +4388,7 @@
 
 [msg MSG_0103_0108_MADARAME_0_6 [Madarame]]
 [s][bup 0 203 4 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Uma colaboração com Yusuke...?[n][w][e]
-[s][f 4 23 1 65535 3 10 0 10][bup 0 203 1 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ele Ele. Sim, acho que é uma boa ideia.[n]Mal posso esperar para a montagem da exposição.[n][w][e]
+[s][f 4 23 1 65535 3 10 0 10][bup 0 203 1 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Hehe. Sim, acho que é uma boa ideia.[n]Mal posso esperar para a montagem da exposição.[n][w][e]
 
 [msg MSG_0103_0108_MADARAME_E [Homem de terno e gravata]]
 [s][f 4 23 1 871 3 10 0 10][vp 8 2 1 0 871 0]Uma exibição conjunta de[n]Madarame-sensei e seu aluno...[n]Com certeza todos estariam falando sobre isso![n][w][e]

@@ -930,7 +930,7 @@
 [s][vp 8 2 1 0 7 0]Na verdade, fazer o papel de[n]namorada me fez[n]visto por uma grande agência.[n][w][e]
 [s][vp 8 2 1 0 7 0]Há uma colaboração contínua entre[n]os estúdios japoneses e americanos para[n]um grande projeto de filme.[n][w][e]
 [s][vp 8 2 1 0 7 0]E eles me escolheram para o[n]papel principal! Então agora não vou ter[n]tempo para sair tanto.[n][w][e]
-[s][vp 8 2 1 0 7 0]A próxima vez que você me ver,[n]será na tela grande. Ele Ele...[n][w][e]
+[s][vp 8 2 1 0 7 0]A próxima vez que você me ver,[n]será na tela grande. Hehe...[n][w][e]
 
 [msg MSG_DATESYOUHO_014_0_0 [Mulher de aparência inocente]]
 [s][f 4 23 1 7 3 10 0 10][vp 8 2 1 0 7 0]Acho que descobri por que estava contratando o[n]namorado ideal...[n][w][e]

@@ -299,7 +299,7 @@
 [msg DRESSTALK_ROOMWEAR_PC01__9 [Kasumi]]
 [s][bup 0 10 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Joker-senpai, você está de pijama.[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu costumo me vestir assim quando me alongo. Acho[n]que eles me relaxam mais.[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ele Ele. Que sorte poder ver[n]esse outro lado de você.[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Hehe. Que sorte poder ver[n]esse outro lado de você.[n][w][e]
 
 [msg DRESSTALK_GEKKOUKAN_PC01 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Oh, você tem um uniforme diferente.[n][w][e]
@@ -984,7 +984,7 @@
 
 [msg DRESSTALK_FEATHERMAN_PC0_6 [Haru]]
 [s][bup 0 7 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Oh, aquele é o Neo-Featherman?[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ele Ele. Estou um pouco surpreso por você[n]gostar de certas coisas, Joker.[n]Eu costumava assistir a esse programa quando criança.[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Hehe. Estou um pouco surpreso por você[n]gostar de certas coisas, Joker.[n]Eu costumava assistir a esse programa quando criança.[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Mas eu entendo o desejo de ser um herói. Eu[n]também admirava heroínas que podem se[n]transformar.[n][w][e]
 
 [msg DRESSTALK_FEATHERMAN_PC0_7 [Futaba]]
@@ -2150,7 +2150,7 @@
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu tenho o uniforme do Demônio.[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Como ele se encaixa perfeitamente em mim,[n]é muito confortável[n]movimentá-lo durante a investigação.[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Onde você os conseguiu?[n]Eles parecem coisas do exército...[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ele Ele. Piada. Afinal, bisbilhotar não é bom.[n]Mas saiba que vou descobrir.[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Hehe. Piada. Afinal, bisbilhotar não é bom.[n]Mas saiba que vou descobrir.[n][w][e]
 
 [msg DRESSTALK_PQ2_PC09 [Akechi]]
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Troquei de roupa, mas...[n]O que é isso?[n][w][e]

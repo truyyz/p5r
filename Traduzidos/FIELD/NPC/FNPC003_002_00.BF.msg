@@ -89,11 +89,11 @@
 [s]Eu não estou interessado.[e]
 
 [msg MSG_JYORENKYAKU_002_1_0 [Cliente arrogante]]
-[s][f 4 23 1 0 3 10 0 0][vp 8 2 1 0 0 0]Ele Ele. Você não precisa liberar seu estresse[n]assim. Não até que você sofra as dores da vida[n]adulta.[n][w][e]
+[s][f 4 23 1 0 3 10 0 0][vp 8 2 1 0 0 0]Hehe. Você não precisa liberar seu estresse[n]assim. Não até que você sofra as dores da vida[n]adulta.[n][w][e]
 [s][vp 8 2 1 0 0 0]E você está muito velho para ser um jogador de[n]beisebol. Mas ainda é uma distração agradável.[n][w][e]
 
 [msg MSG_JYORENKYAKU_002_3_0 [Cliente arrogante]]
-[s][f 4 23 1 0 3 10 0 0][vp 8 2 1 0 0 0]Ele Ele. Eu te invejo. Se você não quer[n]ir, isso significa que você não tem[n]stress para desabafar.[n][w][e]
+[s][f 4 23 1 0 3 10 0 0][vp 8 2 1 0 0 0]Hehe. Eu te invejo. Se você não quer[n]ir, isso significa que você não tem[n]stress para desabafar.[n][w][e]
 [s][vp 8 2 1 0 0 0]Eu sofro muita dificuldade com[n]trabalho, sabe. A maldição do[n]talento é ser objeto de inveja.[n][w][e]
 
 [msg MSG_JYORENKYAKU_002_4_0 [Cliente arrogante]]
@@ -263,7 +263,7 @@
 
 [msg MSG_JYORENKYAKU_010_4_0 [Cliente arrogante]]
 [s][vp 8 2 1 0 0 0]Muito em breve estarei sobrecarregado de[n]trabalho. Terei que revisar[n]vários filmes.[n][w][e]
-[s][vp 8 2 1 0 0 0]Ele Ele. Mal posso esperar para ser[n]ovido pela mensagem expressa em[n]seus filmes por certas lendas.[n][w][e]
+[s][vp 8 2 1 0 0 0]Hehe. Mal posso esperar para ser[n]ovido pela mensagem expressa em[n]seus filmes por certas lendas.[n][w][e]
 
 [msg MSG_JYORENKYAKU_011_0_0 [Cliente arrogante]]
 [s][f 4 23 1 0 3 10 0 0][vp 8 2 1 0 0 0]Parece que os Phantom Thieves[n]acabaram com aquele notório[n]grupo de hackers.[n][w][e]

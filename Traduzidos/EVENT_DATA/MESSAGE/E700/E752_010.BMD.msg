@@ -130,7 +130,7 @@
 [s]Você está falando sobre...?[e]
 
 [msg MSG_037_0_0 [Haru]]
-[s][bup 0 7 6 6 0][f 4 10 65535 0 0][vp 8 0 0 49 22 0]Ele Ele. Quem será?[n][f 1 3 65535][w][e]
+[s][bup 0 7 6 6 0][f 4 10 65535 0 0][vp 8 0 0 49 22 0]Hehe. Quem será?[n][f 1 3 65535][w][e]
 
 [msg MND_038_0_0]
 [s][vp 8 0 0 0 65535 0]Passei uma noite[n]romântica com Haru...[n][f 1 3 65535][w][e]

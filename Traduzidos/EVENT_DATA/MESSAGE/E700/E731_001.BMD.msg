@@ -703,8 +703,8 @@
 [s]Três bolas em um campo.[e]
 [s]Três melancias ao sol.[f 2 7 0 0 25 1][e]
 
-[msg MSG_177_0_0 [Prof Hiruta]]
-[s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37159 65535 0]Ele Ele. Eu não esperava nada menos de você.[n][f 1 3 65535][w][e]
+[msg MSG_177_0_0 [Prof. Hiruta]]
+[s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37159 65535 0]Hehe. Eu não esperava nada menos de você.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Sim. A resposta correta é três[n]melancias ao sol. Mas três[n]apis em toda a Europa também funcionam.[n][f 1 3 65535][w][e]
 
 [msg MSG_178_0_0 [Prof Hiruta]]

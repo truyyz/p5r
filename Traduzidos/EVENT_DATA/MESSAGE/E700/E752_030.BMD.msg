@@ -136,7 +136,7 @@
 [s]Você está falando sobre...?[e]
 
 [msg MSG_038_0_0 [Futaba]]
-[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 50 65535 0]Ele Ele. Provavelmente um idiota.[n][f 1 3 65535][w][e]
+[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 50 65535 0]Hehe. Provavelmente um idiota.[n][f 1 3 65535][w][e]
 
 [msg MSG_039_0_0 [Futaba]]
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 51 65535 0]Conto com você, ok?[n][f 1 3 65535][w][e]

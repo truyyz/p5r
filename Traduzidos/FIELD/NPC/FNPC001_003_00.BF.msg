@@ -55,7 +55,7 @@
 
 [msg MSG_0621_ANN_AND_MAKOTO__3 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][f 4 23 1 222 3 10 0 10][vp 8 2 1 53308 65535 0]Takamaki-sa... quer dizer, Ann[n]me recomendou esta creperia...[n][w][e]
-[s][bup 0 6 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ele Ele. Acho que esta é[n]a primeira vez que comi[n]um crepe no caminho da escola para casa.[n][w][e]
+[s][bup 0 6 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Hehe. Acho que esta é[n]a primeira vez que comi[n]um crepe no caminho da escola para casa.[n][w][e]
 
 [msg MSG_0621_ANN_AND_MAKOTO__4 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 23 1 226 3 10 0 10][vp 8 2 1 0 65535 0]Vamos nos encontrar em breve?[n][w][e]
@@ -1051,8 +1051,8 @@
 [s]Eu não quero isso.[e]
 [s]Cante aqui.[e]
 
-[msg MSG_TIKAAIDORU_019_1_0 [Ídolo independente de pouca fama]]
-[s][f 4 23 1 3 3 10 0 10][vp 8 2 1 0 2 0]Ele Ele. Espero que você[n]mal possa esperar também.[n][w][e]
+[msg MSG_TIKAAIDORU_019_1_0 [Idol indipendente di scarsa fama]]
+[s][f 4 23 1 3 3 10 0 10][vp 8 2 1 0 2 0]Hehe. Espero que você[n]mal possa esperar também.[n][w][e]
 
 [msg MSG_TIKAAIDORU_019_2_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 3 3 10 0 10][vp 8 2 1 0 2 0][f 4 1]-san, você estava com raiva de mim? Você[n]estava muito preocupado? Sinto muito...[n][w][e]

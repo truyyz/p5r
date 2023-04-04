@@ -141,7 +141,7 @@
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 4180 65535 0]Oh querida, estou com fome...[n]Talvez da próxima vez eu deva[n]trazer um lanche.[n][w][e]
 
 [msg SAFETY_MES_YUUSUKE_09_01 [Yusuke]]
-[s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 4168 65535 0]Ele Ele. Fico feliz em poder[n]explorar[n]este lugar novamente com[n]você, Joker.[n][w][e]
+[s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 4168 65535 0]Hehe. Fico feliz em poder[n]explorar[n]este lugar novamente com[n]você, Joker.[n][w][e]
 
 [msg SAFETY_MES_YUUSUKE_10_01 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 4155 65535 0]Nossa longa exploração dos[n]Mementos está finalmente chegando ao[n]fim... Quem sabe o que vamos encontrar...?[n][w][e]

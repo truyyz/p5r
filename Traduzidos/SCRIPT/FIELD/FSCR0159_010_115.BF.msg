@@ -8,5 +8,5 @@
 
 [msg D159_10_npc_03_mes01 [Mulher de maiô]]
 [s]Tem estado quieto ultimamente.[n][w][e]
-[s]É para o crédito do Sr. Shido que nós[n]podemos passar nossos dias[n]no meio do luxo! Ele Ele![n][w][e]
+[s]É para o crédito do Sr. Shido que nós[n]podemos passar nossos dias[n]no meio do luxo! Hehe![n][w][e]
 

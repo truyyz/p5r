@@ -36,7 +36,7 @@
 
 [msg MSG_650_104_END [坂本 竜司]]
 [s][f 4 23 1 857 3 5 0 5][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 1 3 65535 0]Aqui estamos. Temos que subir[n]aquelas escadas.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 1 4 65535 0]Ele Ele. Estou me emocionando muito![n][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 1 4 65535 0]Hehe. Estou me emocionando muito![n][w][e]
 
 [msg MSG_650_104_WAY_TO [Ryuji]]
 [s][f 4 23 1 857 3 5 0 5][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 7172 857 0]Vamos tentar não fazer muitos[n]desvios, ou vamos acabar nos perdendo[n]de vista![n][w][e]

@@ -43,7 +43,7 @@
 [s][bup 0 107 3 6 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Oh, eu[n]superei essa fase há muito tempo.[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Ohya]]
-[s][bup 0 107 6 6 0][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Ele Ele. Você também... Ei, espere![n][f 1 3 65535][w][e]
+[s][bup 0 107 6 6 0][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Hehe. Você também... Ei, espere![n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Ohya]]
 [s][bup 0 107 3 6 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]E então você vai para o reformatório sem[n]me avisar? E aí você não vai me ligar[n]quando eles te liberarem?[n][f 1 3 65535][w][e]
