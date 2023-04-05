@@ -5,13 +5,13 @@
 [s][bup 0 8 105 0 0]......[n][w][e]
 
 [msg D05_BRIEFING_070_mes03 [Ann]]
-[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Você não parece bem,[n]Oráculo. Tudo está bem?[n][w][e]
+[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Você não parece bem,[n]Oracle. Tudo está bem?[n][w][e]
 
 [msg D05_BRIEFING_070_mes04 [Makoto]]
 [s][bup 0 6 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2028 65535 0]Ele vai ter "doença do espaço"...[n][w][e]
 
 [msg D05_BRIEFING_070_mes05 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]O Tesouro não é muito[n]longe. Espere, Oráculo![n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]O Tesouro não é muito[n]longe. Espere, Oracle![n][w][e]
 
 [msg D05_BRIEFING_070_mes06 [Futaba]]
 [s][bup 0 8 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Hum... vou tentar.[n][w][e]

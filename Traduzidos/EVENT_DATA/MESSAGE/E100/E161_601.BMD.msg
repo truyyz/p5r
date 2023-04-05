@@ -65,6 +65,6 @@
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Bem, se o Joker acha que é[n]mais fácil me chamar assim,[n]então eu sou a favor.[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]Concordar. De agora em diante,[n]seremos Joker, Caveira e Mona.[n][f 1 3 65535][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]Concordo De agora em diante,[n]seremos Joker, Skull e Mona.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]Devemos ter[n]muito cuidado ao usar[n]esses codinomes![n][f 1 3 65535][w][e]
 

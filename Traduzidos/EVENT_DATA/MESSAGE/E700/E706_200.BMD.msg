@@ -98,5 +98,5 @@
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Eu prometo, farei o meu melhor[n]de agora em diante![n][f 1 3 65535][w][e]
 
 [msg MSG_026_0_0 [Ann]]
-[s][vp 8 2 0 6053 65535 0]Concordar. Até logo![n][f 1 3 65535][w][e]
+[s][vp 8 2 0 6053 65535 0]Concordo. Até logo![n][f 1 3 65535][w][e]
 

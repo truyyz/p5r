@@ -44,7 +44,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Skull não é um lutador ruim.[n]Ele poderia ser o que é chamado[n]um diamante bruto.[n][w][e]
 
 [msg D01_04_PT_40000_03_PC04_ [Ann]]
-[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Pantera, hein... Acho que[n]poderia me acostumar com isso.[n][w][e]
+[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Panther, hein... Acho que[n]poderia me acostumar com isso.[n][w][e]
 
 [msg D01_ex_PT_60000_01_PC02_ [Ryuji]]
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Devemos roubar esse tesouro[n]a qualquer custo![n][w][e]

@@ -6,7 +6,7 @@
 [s][vp 8 0 0 3 65535 0]Ah![n][f 1 2 35][e]
 
 [msg MSG_002_0_0 [Guarda de sala de interrogatório]]
-[s][vp 8 0 0 4 65535 0]O que você é...[n][f 1 2 35][e]
+[s][vp 8 0 0 4 65535 0]O que você está...[n][f 1 2 35][e]
 
 [msg MSG_003_0_0 [Akechi]]
 [s][bup 0 217 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Obrigado por tudo[n]isto... Obrigado.[n][f 1 3 65535][w][e]

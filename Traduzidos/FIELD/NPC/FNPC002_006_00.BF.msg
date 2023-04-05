@@ -155,7 +155,7 @@
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Uau, você realmente sabe tudo sobre ofertas. OK,[n]então eu vou para a estação de Shibuya.[n][w][e]
 
 [msg MSG_SEASON_GOODS_007_01 [Menina curiosa]]
-[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]É quase verãoeeeeee.[n][w][e]
+[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]É quase verãoooooo.[n][w][e]
 [s][vp 8 2 1 0 7 0]Durante toda a primavera, não havia[n]conversa sobre nada além dos[n]Ladrões Fantasmas. Será assim no verão também?[n][w][e]
 
 [msg MSG_SEASON_GOODS_007_02 [Menina de paladar fino]]
@@ -591,7 +591,7 @@
 [s][vp 9 2 65535 38652 0 0]Por que alguém faria[n]uma piada com o Prof. Kamoshida?[n]Isso é realmente estúpido.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_004_02_ [Bom aluno]]
-[s][vp 9 2 65535 42703 0 0]Estou rindo muito dessa bobagem de Thieves[n]Phantom. Espero que não acabe aqui.[n][f 1 2 180][e]
+[s][vp 9 2 65535 42703 0 0]Estou rindo muito dessa bobagem de Phantom[n]Thieves. Espero que não acabe aqui.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_004_03_ [Bom aluno]]
 [s]0[n][f 1 2 180][e]

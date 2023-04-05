@@ -14,7 +14,7 @@
 [s][bup 0 5 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4021 65535 0]Aparentemente você decidiu[n]lutar... Agora, vamos derrubar[n]as defesas dele![n][w][e]
 
 [msg D157_005_miniEV_02_selA__2 [Yusuke]]
-[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4023 65535 0]Concordar. Neste caso,[n]vamos procurar outra maneira.[n][w][e]
+[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4023 65535 0]Concordo. Neste caso,[n]vamos procurar outra maneira.[n][w][e]
 
 [msg D157_005_miniEV_02_02_me [Futaba]]
 [s][bup 0 8 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9133 65535 0]Espere, eu sinto um[n]inimigo além daquela porta![n][w][e]

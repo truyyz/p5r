@@ -14,7 +14,7 @@
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Tá perfeito... Eheheh![n]Vai dar super certo![n][w][e]
 
 [msg D07_02_e409_040_mes06 [Ann]]
-[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Hum, Caveira...? Você tem uma aparência[n]assustadora...[n][w][e]
+[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Hum, Skull...? Você tem uma aparência[n]assustadora...[n][w][e]
 
 [msg D07_02_e409_040_mes07 [Ryuji]]
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Não se preocupe.[n]Venha, vamos voltar para[n]aquele ex…um…nobre![n][w][e]

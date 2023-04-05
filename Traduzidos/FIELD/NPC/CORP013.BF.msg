@@ -374,12 +374,12 @@
 [sel SEL_COOP_CHECK top]
 [s]Passe um tempo com ela[e]
 [s]Verifique o vínculo com a Takemi[e]
-[s]Declínio[e]
+[s]Recusar[e]
 
 [sel SEL_COOP_CHECK_RANK_7 top]
 [s]Fale com ela[e]
 [s]Verifique o vínculo com a Takemi[e]
-[s]Declínio[e]
+[s]Recusar[e]
 
 [msg MSG_C13_YES_01_00 [Takemi]]
 [s][bup 0 108 0 0 0][f 4 23 1 213 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 14059 65535 0]Aí eu começo[n]a preparar tudo, você entra[n]na sala de visitas e espera.[n][w][e]

@@ -271,7 +271,7 @@
 [sel SEL_COOP_CHECK top]
 [s]Passe um tempo com ele[e]
 [s]Verifique o vínculo com Akechi[e]
-[s]Declínio[e]
+[s]Recusar[e]
 
 [sel SEL_COOP_CHECK_R6_0 top]
 [s]Não muito.[e]

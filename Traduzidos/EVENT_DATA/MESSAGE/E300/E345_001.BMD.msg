@@ -76,7 +76,7 @@
 [s][bup 0 6 100 0 0][f 4 10 65535 0 0][vp 8 0 0 26 65535 0]Teremos que perguntar a ele[n]no mundo real.[n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Makoto]]
-[s][bup 0 6 102 0 0][f 4 10 65535 0 0][vp 8 0 0 27 65535 0]Pantera![n][f 1 3 65535][w][e]
+[s][bup 0 6 102 0 0][f 4 10 65535 0 0][vp 8 0 0 27 65535 0]Panther![n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [Haru]]
 [s][bup 0 7 104 0 0][f 4 10 65535 0 0][vp 8 0 0 28 65535 0]Não deveríamos levar[n]meu pai conosco também?[n][f 1 3 65535][w][e]

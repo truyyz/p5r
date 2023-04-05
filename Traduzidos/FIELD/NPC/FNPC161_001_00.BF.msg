@@ -64,7 +64,7 @@
 [s][bup 0 3 1 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1116 65535 0]Perfeito, vamos lá![n][w][e]
 
 [msg PARTY_IN_CHECK_PC03_selA_3 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1165 65535 0]Concordar. Se precisar de ajuda,[n]venha até mim.[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1165 65535 0]Concordo. Se precisar de ajuda,[n]venha até mim.[n][w][e]
 
 [msg PARTY_IN_CHECK_PC03_mes0_2 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1021 65535 0]A formação inicial já está completa. Escolha[n]alguém para substituir.[n][w][e]

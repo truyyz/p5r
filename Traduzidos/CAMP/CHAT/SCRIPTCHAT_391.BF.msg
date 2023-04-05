@@ -20,7 +20,7 @@
 [s][f 5 14]Um segundo![n][w][e]
 
 [msg MSG_007_0_0 [Futaba]]
-[s][f 5 14]Corvo, vamos repassar a operação[n]mais uma vez antes[n]de você sair.[n][w][e]
+[s][f 5 14]Crow, vamos repassar a operação[n]mais uma vez antes[n]de você sair.[n][w][e]
 
 [msg MSG_008_0_0 [Akechi]]
 [s][f 5 14]Está tudo como[n]discutimos anteriormente, não é?[n][w][e]

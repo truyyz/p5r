@@ -94,7 +94,7 @@
 [s][bup 0 2 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Espera, que diabos?!? Nos[n]títulos só tem meninos[n]da escola![n][w][e]
 
 [msg D151_04_miniEV03_mes03 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]"Ryuji Sakamoto: O Macaco[n]vulgar" . Isso é no Caveira.[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]"Ryuji Sakamoto: O Macaco[n]vulgar" . Isso é no Skull.[n][w][e]
 
 [msg D151_04_miniEV03_mes04 [Ryuji]]
 [s][bup 0 2 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7047 65535 0]Que bastardo! Quem diabos ele[n]pensa que é?!?[n][w][e]
@@ -169,7 +169,7 @@
 [s][bup 0 2 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7174 65535 0]Hã? Tudo bem?[n][w][e]
 
 [msg D151_04_miniEV07_mes02 [Ann]]
-[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6166 65535 0]Talvez haja algo preso lá[n]dentro. Por que você não tenta[n]enfiar a mão, Caveira?[n][w][e]
+[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6166 65535 0]Talvez haja algo preso lá[n]dentro. Por que você não tenta[n]enfiar a mão, Skull?[n][w][e]
 
 [msg D151_04_miniEV07_mes03 [Ryuji]]
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ei! Tem alguma coisa aqui![n]...Aqui estamos.[n][w][e]

@@ -391,7 +391,7 @@
 [sel SEL_COOP_CHECK top]
 [s]sair com ela[e]
 [s]Verifique o vínculo com a Futaba[e]
-[s]Declínio[e]
+[s]Recusar[e]
 
 [msg MSG_C09_YES_01_00 [Futaba]]
 [s][bup 0 8 1 65535 0][f 4 23 1 209 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 9196 65535 0]OK. Vamos, [f 4 2].[n][w][e]
@@ -480,7 +480,7 @@
 [sel SEL_COOP_CHECK_REV top]
 [s]sair com ela[e]
 [s]Verifique o vínculo com a Futaba[e]
-[s]Declínio[e]
+[s]Recusar[e]
 
 [msg MSG_C09_YES_10_00_REV [Futaba]]
 [s][bup 0 8 3 65535 0][f 4 23 1 209 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Obrigada. Então venha para a sala...[n][w][e]

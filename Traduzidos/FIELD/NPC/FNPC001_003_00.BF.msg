@@ -18,7 +18,7 @@
 [s][f 4 23 1 11 3 10 0 10][vp 8 2 1 0 11 0]Oh, OK. Você não esqueceu, né?[n][w][e]
 
 [msg MSG_0103_0108_KUNIKAZU_0 [Okumura]]
-[s][bup 0 205 0 0 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 0 65535 0]Concordar. Esta foi a última inspeção, certo?[n][w][e]
+[s][bup 0 205 0 0 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 0 65535 0]Concordo. Esta foi a última inspeção, certo?[n][w][e]
 
 [msg MSG_0103_0108_KUNIKAZU_0_2 [Takakura]]
 [s][vp 8 2 1 0 871 0]Sim, com isso terminamos.[n][w][e]

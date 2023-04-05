@@ -478,7 +478,7 @@
 [sel SEL_COOP_CHECK top]
 [s]Passe um tempo com ele[e]
 [s]Verifique o vínculo com Yusuke[e]
-[s]Declínio[e]
+[s]Recusar[e]
 
 [msg MSG_C04_YES_01_00 [Yusuke]]
 [s][bup 0 5 1 65535 0][f 4 10 65535 0 0][f 4 23 1 204 3 10 0 10][vp 8 2 1 4189 65535 0]Hehe, espero que você não ache[n]muito assustador.[n][w][e]
@@ -590,7 +590,7 @@
 [sel SEL_COOP_CHECK_REV2 top]
 [s]Vá com ele[e]
 [s]Verifique o vínculo com Yusuke[e]
-[s]Declínio[e]
+[s]Recusar[e]
 
 [msg MSG_C04_YES_10_00_REV [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 23 1 204 3 10 0 10][vp 8 2 1 4031 65535 0]Eu que agradeço. Venha comigo.[n][w][e]

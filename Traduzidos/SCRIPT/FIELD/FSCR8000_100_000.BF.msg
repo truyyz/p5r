@@ -1023,7 +1023,7 @@
 [msg DRESSTALK_DEMONICA_MASKE_4 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Hum? Que capacete estranho...[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu me pergunto que significado[n]ele esconde. Parece[n]um balde para mim.[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]É perfeito para você, Caveira.[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]É perfeito para você, Skull.[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Hum? Espere um minuto, Skull está lá...[n]Joker?!?[n][w][e]
 
 [msg DRESSTALK_DEMONICA_MASKE_5 [Makoto]]
@@ -1167,7 +1167,7 @@
 [msg DRESSTALK_SIFU_WINTER_PC_10 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ei, olhe para minhas roupas de inverno.[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]A parka é muito prática, né?[n]Você pode cobrir a cabeça na hora[n]se chover ou nevar.[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Agora eu entendo porque Pantera[n]sempre se veste assim.[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Agora eu entendo porque Panther[n]sempre se veste assim.[n][w][e]
 
 [msg DRESSTALK_JERSEY_PC02 [Ryuji]]
 [s]Yo. Este é o meu terno.[n][w][e]
@@ -1473,7 +1473,7 @@
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Joker, enquanto estou vestido assim, por que[n]não dançamos?[n][w][e]
 
 [msg DRESSTALK_SHADOW_W_PC04 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu sou o Pantera, o Agente das Sombras![n][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu sou a Panther, a Agente das Sombras![n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Piada. No entanto, com isso[n]me sinto quase como um adulto.[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu me sinto como o diretor de um grupo[n]do mal. Eu sempre[n]quis usar algo assim![n][w][e]
 
@@ -1981,7 +1981,7 @@
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Bem, agora é tarde...[n]É uma revolução! Eu queria[n]sentir a emoção...[n][w][e]
 
 [msg DRESSTALK_SHADOW_W_PC08 [Futaba]]
-[s][bup 0 8 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu sou o Oráculo! Membro do[n]Esquadrão de Operações Especiais[n]Phoenix Neo![n][w][e]
+[s][bup 0 8 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu sou o Oracle! Membro do[n]Esquadrão de Operações Especiais[n]Phoenix Neo![n][w][e]
 [s]Mueheh, o que você diz? Não consigo evitar quando[n]uso coisas assim![n][w][e]
 
 [msg DRESSTALK_SAMURAI_PC08 [Futaba]]

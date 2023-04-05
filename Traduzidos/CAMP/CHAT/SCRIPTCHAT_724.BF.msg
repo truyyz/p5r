@@ -57,7 +57,7 @@
 [s]Pode ser uma boa oportunidade para[n]reforçar meu vínculo com [var 7]...[n][w][e]
 
 [msg MND_COOP_DOUZOKUSEI_HAVE]
-[s]Sinto que posso chegar mais perto de[n][var 7] graças a Persona[n][var 2] [clr 1][var 5][clr 27]...[n][w][e]
+[s]Sinto que posso me aproximar mais de[n][var 7] graças a Persona[n][var 2] [clr 1][var 5][clr 27]...[n][w][e]
 
 [msg MSG_SPOT_OPEN_KANDA]
 [s]Agora você pode ir para [clr 2]Kanda[n][clr 27].[n][w][e]

@@ -164,6 +164,6 @@
 [s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Exatamente. Eu me pergunto por que ainda não[n]o usamos...[n][w][e]
 
 [msg D151_04_miniEV09_mes04 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1020 65535 0]Bem, entendo o que você quer dizer,[n]Pantera, mas nossa prioridade[n]agora é avançar para o Palácio.[n][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1020 65535 0]Bem, entendo o que você quer dizer,[n]Panther, mas nossa prioridade[n]agora é avançar para o Palácio.[n][w][e]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Se você tem alguma ideia de onde este livro deve[n]ser colocado, Joker, avise-nos, ok?[n][w][e]
 

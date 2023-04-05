@@ -1082,7 +1082,7 @@
 [s]Umpf. Você quer ir para o inferno tão[n]ansiosamente?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_11_R_13]
-[s]Concordar. Nossa situação é[n]um pouco mais importante do que[n]feriados e tudo mais.[n][w][e]
+[s]Concordo Nossa situação é[n]um pouco mais importante do que[n]feriados e tudo mais.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_11_R_14]
 [s]Oh vamos lá. Eu realmente queria[n]falar sobre viagens, feriados[n]e tudo mais...[n][w][e]
@@ -2211,31 +2211,31 @@
 [s]Dê-me o seu poder.[e]
 [s]Dinheiro fora.[e]
 [s]Eu quero um item.[e]
-[s]Pantera, cuide disso.[e]
+[s]Panther, cuide disso.[e]
 
 [sel Nego_Surrender_sel_01 top]
 [s][clr 2]Junte-se à minha causa.[clr 27][e]
 [s]Dinheiro fora.[e]
 [s]Eu quero um item.[e]
-[s]Pantera, cuide disso.[e]
+[s]Panther, cuide disso.[e]
 
 [sel Nego_Surrender_sel_02 top]
 [s]Dê-me o seu poder.[e]
 [s][clr 2]Dinheiro fora.[clr 27][e]
 [s]Eu quero um item.[e]
-[s]Pantera, cuide disso.[e]
+[s]Panther, cuide disso.[e]
 
 [sel Nego_Surrender_sel_03 top]
 [s]Dê-me o seu poder.[e]
 [s]Dinheiro fora.[e]
 [s][clr 2]Mercadoria fora.[clr 27][e]
-[s]Pantera, cuide disso.[e]
+[s]Panther, cuide disso.[e]
 
 [sel Nego_Surrender_sel_04 top]
 [s]Dê-me o seu poder.[e]
 [s]Dinheiro fora.[e]
 [s][clr 2]Mercadoria fora.[clr 27][e]
-[s]Pantera, cuide disso.[e]
+[s]Panther, cuide disso.[e]
 
 [sel Nego_Payfor_sel top]
 [s]Estou dentro.[e]
@@ -2245,7 +2245,7 @@
 [s]Envie para mim.[e]
 [s]Eu quero algum dinheiro.[e]
 [s]Dê-me algo útil.[e]
-[s]Pantera, cuide disso.[e]
+[s]Panther, cuide disso.[e]
 
 [sel TalkSel_Greet_Possesed_B top]
 [s]Tudo bem, tudo bem.[e]

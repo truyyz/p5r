@@ -291,12 +291,12 @@
 [sel SEL_COOP_CHECK top]
 [s]Passe um tempo com ela[e]
 [s]Verifique o vínculo com Hifumi[e]
-[s]Declínio[e]
+[s]Recusar[e]
 
 [sel SEL_COOP_CHECK_3_5 top]
 [s]Vá falar com ela[e]
 [s]Verifique o vínculo com Hifumi[e]
-[s]Declínio[e]
+[s]Recusar[e]
 
 [msg MSG_C17_YES_01_00 [Hifumi]]
 [s][bup 0 106 0 65535 0][f 4 10 65535 0 0][f 4 23 1 217 14 10 13 10][vp 8 2 1 18059 65535 0]Bem, mal posso esperar para jogar este jogo.[n][w][e]

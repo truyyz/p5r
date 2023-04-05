@@ -185,7 +185,7 @@
 [s]Tenho que pensar.[e]
 
 [msg MSG_C03_ACTION_D07_20_02 [Haru]]
-[s][bup 0 7 201 65535 0][f 4 10 65535 0 0][f 4 23 1 203 3 10 0 10][vp 8 2 1 3020 65535 0]Concordar. Então vamos para a lanchonete.[n][w][e]
+[s][bup 0 7 201 65535 0][f 4 10 65535 0 0][f 4 23 1 203 3 10 0 10][vp 8 2 1 3020 65535 0]Concordo. Então vamos para a lanchonete.[n][w][e]
 
 [msg MSG_C03_ACTION_D07_21_02 [Haru]]
 [s][bup 0 7 200 65535 0][f 4 10 65535 0 0][f 4 23 1 203 3 10 0 10][vp 8 2 1 3064 65535 0]Eu poderia explicar coisas para você que[n]de outra forma você não entenderia.[n]Se você quiser estudar... me avise.[n][w][e]
@@ -456,7 +456,7 @@
 [sel SEL_COOP_CHECK top]
 [s]sair com ela[e]
 [s]Verifique o vínculo com Haru[e]
-[s]Declínio[e]
+[s]Recusar[e]
 
 [msg MSG_C03_YES_01_00 [Haru]]
 [s][bup 0 7 201 65535 0][f 4 10 65535 0 0][f 4 23 1 203 3 10 0 10][vp 8 2 1 3030 65535 0]Então você vai me ajudar?[n]Bem, se você insiste...[n][w][e]
@@ -566,7 +566,7 @@
 [sel SEL_COOP_CHECK_REV2 top]
 [s]sair com ela[e]
 [s]Verifique o vínculo com Haru[e]
-[s]Declínio[e]
+[s]Recusar[e]
 
 [msg MSG_C03_YES_10_00_REV [Haru]]
 [s][bup 0 7 200 65535 0][f 4 10 65535 0 0][f 4 23 1 203 3 10 0 10][vp 8 2 1 3030 65535 0]Obrigada. Então, podemos ir para minha casa hoje?[n][w][e]

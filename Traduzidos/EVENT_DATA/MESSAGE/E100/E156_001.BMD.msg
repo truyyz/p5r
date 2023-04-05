@@ -81,7 +81,7 @@
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 5 301 1][vp 8 0 0 29 65535 0]Merda, desculpe![n][f 1 3 65535][w][e]
 
 [msg MSG_027_5_0 [Ryuji]]
-[s][bup 0 2 101 0 0][f 4 10 65535 0 0][vp 8 0 0 30 65535 0]Quem diabos era eu? ...Ah sim, Caveira![n][f 1 3 65535][w][e]
+[s][bup 0 2 101 0 0][f 4 10 65535 0 0][vp 8 0 0 30 65535 0]Quem diabos era eu? ...Ah sim, Skull![n][f 1 3 65535][w][e]
 
 [msg MSG_028_0_0 [Morgana]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 3 7 300 1][vp 8 0 0 31 65535 0]É um desastre![n][f 1 3 65535][w][e]

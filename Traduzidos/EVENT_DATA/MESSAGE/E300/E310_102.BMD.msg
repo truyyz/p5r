@@ -106,7 +106,7 @@
 
 [sel SEL_033_0_0 top]
 [s]Eu cuidarei disso.[e]
-[s]É a sua vez, Caveira.[e]
+[s]É a sua vez, Skull.[e]
 [s]Pense nisso, Fox.[e]
 
 [msg MSG_034_0_0 [Yusuke]]
@@ -384,7 +384,7 @@
 
 [sel SEL_117_0_0 top]
 [s]Eu cuidarei disso.[e]
-[s]É a sua vez, Caveira.[e]
+[s]É a sua vez, Skull.[e]
 [s]Pense nisso, Fox.[e]
 
 [msg MSG_118_0_0 [Ryuji]]
@@ -407,7 +407,7 @@
 
 [sel SEL_124_0_0 top]
 [s]Eu cuidarei disso.[e]
-[s]É a sua vez, Caveira.[e]
+[s]É a sua vez, Skull.[e]
 [s]Pense nisso, Fox.[e]
 
 [msg MSG_125_0_0 [Yusuke]]
@@ -766,15 +766,15 @@
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Devemos fazer como antes? Tente[n]apimentar a conversa?[n][f 1 3 65535][w][e]
 
 [msg MSG_234_0_0 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Tá pegando o jeito, né, Raposa?[n]Vamos tentar jogar com calma,[n]vamos lá.[n][f 1 3 65535][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Tá pegando o jeito, né, Fox?[n]Vamos tentar jogar com calma,[n]vamos lá.[n][f 1 3 65535][w][e]
 
 [msg MSG_235_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não podemos permitir outra humilhação. Mostre-nos[n]o caminho para a vitória, Joker.[n][f 1 3 65535][w][e]
 
 [sel SEL_236_0_0 top]
 [s]Eu cuidarei disso.[e]
-[s]Acerte, Caveira.[e]
-[s]Raposa, é a sua vez.[e]
+[s]Acerte, Skull.[e]
+[s]Fox, é a sua vez.[e]
 
 [msg MSG_237_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]OK, está tudo em suas mãos.[n]O que você pretende fazer?[n][f 1 3 65535][w][e]
@@ -1074,7 +1074,7 @@
 
 [sel SEL_327_0_0 top]
 [s]Eu cuidarei disso.[e]
-[s]Vai, Caveira.[e]
+[s]Vai, Skull.[e]
 [s]Tudo depende de você, Fox.[e]
 
 [msg MSG_328_0_0 [Yusuke]]
@@ -1097,7 +1097,7 @@
 
 [sel SEL_334_0_0 top]
 [s]Vou.[e]
-[s]Não nos deixe mal, Caveira.[e]
+[s]Não nos deixe mal, Skull.[e]
 [s]Vá para o ataque, Fox.[e]
 
 [msg MSG_335_0_0 [Ryuji]]
@@ -1473,7 +1473,7 @@
 
 [sel SEL_447_0_0 top]
 [s]Eu cuidarei disso.[e]
-[s]É a sua vez, Caveira.[e]
+[s]É a sua vez, Skull.[e]
 [s]Pense nisso, Fox.[e]
 
 [msg MSG_448_0_0 [Yusuke]]

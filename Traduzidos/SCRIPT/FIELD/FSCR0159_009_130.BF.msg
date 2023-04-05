@@ -28,7 +28,7 @@
 [s]Ah, é isso? Nesse caso,[n]vou lhe dizer como chegar[n]ao quarto dele.[n][w][e]
 
 [msg D07_02_e411_055_mes10 [Morgana]]
-[s][bup 0 3 1 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1045 65535 0]Muito bem, Rainha! Brilhante[n]como sempre![n][w][e]
+[s][bup 0 3 1 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1045 65535 0]Muito bem, Queen! Brilhante[n]como sempre![n][w][e]
 
 [msg D07_02_e411_055_mes11 [Haru]]
 [s][bup 0 7 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Não é aqui perto? Parece-me que ele está lá em[n]cima.[n][w][e]

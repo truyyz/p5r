@@ -95,7 +95,7 @@
 [s][bup 0 6 4 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 2024 65535 0]Conselheiro, hein... vocês estão sempre[n]exagerando.[n][w][e]
 
 [msg MES_GROUP9_05 [Sumire]]
-[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 3 10 0 10]Rainha, consultor, punho da estrela[n]fantasma... você com certeza tem muitos[n]títulos, Makoto-senpai.[n][w][e]
+[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 3 10 0 10]Queen, consultora, punho da estrela[n]fantasma... você com certeza tem muitos[n]títulos, Makoto-senpai.[n][w][e]
 
 [msg MES_GROUP9_06 [Makoto]]
 [s][bup 0 6 3 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 40 10 0 10][vp 8 2 1 2028 65535 0]Hum... você poderia gentilmente esquecer o[n]último?[n][w][e]

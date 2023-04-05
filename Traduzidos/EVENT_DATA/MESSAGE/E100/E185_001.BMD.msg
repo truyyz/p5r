@@ -61,7 +61,7 @@
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Morganaaaa... transformaçãoee![n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Morgana]]
-[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]Venha, Pantera. Senhoras primeiro.[n][f 1 3 65535][w][e]
+[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]Venha, Panther. Senhoras primeiro.[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Ann]]
 [s][bup 0 4 104 0 0][f 4 10 65535 0 0][vp 8 0 0 26 65535 0]Um ônibus...!?![n][f 1 3 65535][w][e]
@@ -93,13 +93,13 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 36 65535 0]Mas o castelo era apertado, cheio[n]de escadas, e coisas assim não dá[n]andar em cima de um lustre![n][f 1 3 65535][w][e]
 
 [msg MSG_028_0_0 [Ann]]
-[s][bup 0 4 102 0 0][f 4 10 65535 0 0][vp 8 0 0 37 65535 0]Oi Caveira! Damas primeiro![n][f 1 3 65535][w][e]
+[s][bup 0 4 102 0 0][f 4 10 65535 0 0][vp 8 0 0 37 65535 0]Oi Skull! Damas primeiro![n][f 1 3 65535][w][e]
 
 [msg MSG_029_0_0 [Ryuji]]
 [s][bup 0 2 102 0 0][f 4 10 65535 0 0][vp 8 0 0 38 65535 0]Pare de empurrar! É perigoso![n][f 1 3 65535][w][e]
 
 [msg MSG_030_0_0 [Morgana]]
-[s][bup 0 3 4 0 0][f 4 10 65535 0 0][vp 8 0 0 39 65535 0]Pantera, fique quieto![n][f 1 3 65535][w][e]
+[s][bup 0 3 4 0 0][f 4 10 65535 0 0][vp 8 0 0 39 65535 0]Panther, fique quieto![n][f 1 3 65535][w][e]
 
 [msg MSG_033_0_0 [Ryuji]]
 [s][bup 0 2 101 0 0][f 4 10 65535 0 0][vp 8 0 0 42 65535 0]Todos a bordo! Vamos![n][f 1 3 65535][w][e]

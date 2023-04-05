@@ -45,14 +45,14 @@
 
 [sel SEL_016_0_0 top]
 [s]Joker.[e]
-[s]Raposa.[e]
+[s]Fox.[e]
 [s]Nenhum no momento.[e]
 
 [msg MSG_017_0_0 [Ann]]
 [s][bup 0 4 100 0 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Isso seria muito semelhante[n]ao Joker, mas...[n][f 1 3 65535][w][e]
 
 [msg MSG_017_5_0 [Ann]]
-[s][bup 0 4 101 0 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]"Raposa", então. O que você acha?[n][f 1 3 65535][w][e]
+[s][bup 0 4 101 0 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]"Fox", então. O que você acha?[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Ryuji]]
 [s][bup 0 2 101 0 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Nada mal.[n][f 1 3 65535][w][e]

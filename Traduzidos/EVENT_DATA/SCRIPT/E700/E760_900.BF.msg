@@ -11,8 +11,8 @@
 [s][bup 0 109 3 0 0][f 4 10 65535 0 0][vp 8 2 0 15095 65535 0]Eu...um...talvez eu tenha estragado alguma coisa.[n]Peço desculpas...[n][f 1 3 65535][w][e]
 
 [msg MSG_BYE_KAWA [Kawakami]]
-[s][bup 0 109 600 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Concordar. Até logo.[n][f 1 3 65535][w][e]
+[s][bup 0 109 600 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Concordo. Até logo.[n][f 1 3 65535][w][e]
 
 [msg MSG_BYE_NOT_MAID [Kawakami]]
-[s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Concordar. Até logo.[n][f 1 3 65535][w][e]
+[s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Concordo. Até logo.[n][f 1 3 65535][w][e]
 

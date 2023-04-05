@@ -15,12 +15,12 @@
 
 [sel SEL_111_0_0 top]
 [s]Aceitar[e]
-[s]Declínio[e]
+[s]Recusar[e]
 [s]Responder mais tarde[e]
 
 [sel SEL_111_1_0 top]
 [s]Vá agora[e]
-[s]Declínio[e]
+[s]Recusar[e]
 [s]Responder mais tarde[e]
 
 [msg MSG_999_0_0 [Ryuji]]
@@ -82,7 +82,7 @@
 [s]Pode ser uma boa oportunidade para[n]reforçar meu vínculo com [var 7]...[n][w][e]
 
 [msg MND_COOP_DOUZOKUSEI_HAVE]
-[s]Sinto que posso chegar mais perto de[n][var 7] graças a Persona[n][var 2] [clr 1][var 5][clr 27]...[n][w][e]
+[s]Sinto que posso me aproximar mais de[n][var 7] graças a Persona[n][var 2] [clr 1][var 5][clr 27]...[n][w][e]
 
 [msg MSG_SPOT_OPEN_KANDA]
 [s]Agora você pode ir para [clr 2]Kanda[n][clr 27].[n][w][e]

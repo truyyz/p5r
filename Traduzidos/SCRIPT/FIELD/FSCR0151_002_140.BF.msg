@@ -11,7 +11,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Sim, mas eles não podem nos ver aqui. Este é um[n]ótimo ponto de infiltração![n][w][e]
 
 [sel D01_04_e159_020_selA top]
-[s]É crédito do Pantera.[e]
+[s]É crédito do Panther.[e]
 [s]Parece útil.[e]
 [s]Prossiga.[e]
 

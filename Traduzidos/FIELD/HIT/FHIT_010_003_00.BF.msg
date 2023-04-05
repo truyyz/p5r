@@ -160,7 +160,7 @@
 [s]Nada[e]
 
 [msg MSG_JUSTINE_TUTORIAL_03 [Justine]]
-[s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 2 1 12068 65535 0]Eu vejo. Concordar...[n][w][e]
+[s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 2 1 12068 65535 0]Eu vejo. Concordo...[n][w][e]
 
 [msg MSG_VELVET_TUTORIAL_TITL]
 [s]O que você quer perguntar?[n][e]

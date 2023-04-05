@@ -350,7 +350,7 @@
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eles nem perceberam[n]que escolhemos as respostas[n]que eles queriam![n][w][e]
 
 [msg D10_09_after_answer03_03_2 [Makoto]]
-[s][bup 0 6 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Cala a boca, Caveira…![n][w][e]
+[s][bup 0 6 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Cala a boca, Skull…![n][w][e]
 
 [msg D10_09_after_answer03_03_3 [Usher]]
 [s]Como um presente de boas-vindas, deixe-me curar[n]suas mágoas.[n][w][e]

@@ -40,7 +40,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1003 65535 0]Você quer falar sobre outra coisa?[n][w][e]
 
 [msg D10_09_huddle_npc_choice [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Concordar. Sobre qual história você quer[n]contar agora?[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Concordo. Sobre qual história você quer[n]contar agora?[n][w][e]
 
 [msg D10_09_huddle_npc_rechoi [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1186 65535 0]Alguém mais tem algo a dizer?[n][w][e]

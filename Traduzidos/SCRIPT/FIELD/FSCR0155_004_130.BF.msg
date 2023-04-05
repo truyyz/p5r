@@ -26,7 +26,7 @@
 [s][bup 0 8 900 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]...Não sei. Neste ponto,[n]no entanto, não resta muito.[n][w][e]
 
 [msg D04_03_e296_331_mes04 [Ann]]
-[s][bup 0 4 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6190 65535 0]Oh, de novo não! E tudo[n]porque você a atacou, Caveira![n][w][e]
+[s][bup 0 4 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6190 65535 0]Oh, de novo não! E tudo[n]porque você a atacou, Skull![n][w][e]
 
 [msg D04_03_e296_331_mes05 [Yusuke]]
 [s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Seu pavio curto[n]nos criou muitos problemas.[n][w][e]

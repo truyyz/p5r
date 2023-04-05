@@ -75,5 +75,5 @@
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7020 65535 0]Uh, esta estátua é[n]do mesmo cachorro de antes.[n]E tem outra daquelas joias![n][w][e]
 
 [msg D04_03_e295_081_SECOND_m_2 [Morgana]]
-[s][bup 0 3 3 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]O deus se chama Anúbis.[n]Não é tão difícil[n]lembrar, Caveira...[n][w][e]
+[s][bup 0 3 3 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]O deus se chama Anúbis.[n]Não é tão difícil[n]lembrar, Skull...[n][w][e]
 

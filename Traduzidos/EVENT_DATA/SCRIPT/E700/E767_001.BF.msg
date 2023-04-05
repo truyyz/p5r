@@ -303,7 +303,7 @@
 [s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Mmm, quais regras usar...?[n]Desculpe, mas deixarei a decisão para você.[n][f 1 3 65535][w][e]
 
 [msg MSG_CourseFree_Fix_yusuk [Yusuke]]
-[s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Concordar. Jogaremos [var 0] portanto.[n][f 1 3 65535][w][e]
+[s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Concordo. Jogaremos [var 0] portanto.[n][f 1 3 65535][w][e]
 
 [msg MSG_StartRound01_yusuke [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 4060 65535 0]E assim começa... Você não precisa ser treinado,[n]apenas uma abordagem natural![n][f 1 3 65535][w][e]
@@ -581,7 +581,7 @@
 [s]Divirta-se.[e]
 
 [msg MSG_Finish_Act01_haru [Haru]]
-[s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 53531 65535 0]...Direita! Estou animado![n][f 1 3 65535][w][e]
+[s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 53531 65535 0]...Certo! Estou animada![n][f 1 3 65535][w][e]
 
 [msg MSG_Finish_Act02_haru [Haru]]
 [s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 3135 65535 0]Elegância...? Oh, você quer[n]lançar naturalmente![n]OK, seja você mesmo... Seja você mesmo![n][f 1 3 65535][w][e]
@@ -887,7 +887,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]301, 501 ou 701... Parece que a[n]dificuldade aumenta com a pontuação,[n]mas isso deixa o desafio mais bonito.[n][f 1 3 65535][w][e]
 
 [msg MSG_Solo_StartScoreQ_com [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1019 65535 0]Concordar. Com quantos pontos[n]você quer começar hoje?[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1019 65535 0]Concordo. Com quantos pontos[n]você quer começar hoje?[n][f 1 3 65535][w][e]
 
 [msg MSG_Solo_StartScore_301 [Morgana]]
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 0 1023 65535 0]Ah, 301, hein? Excelente! Devemos[n]ser capazes de fazer isso.[n][f 1 3 65535][w][e]

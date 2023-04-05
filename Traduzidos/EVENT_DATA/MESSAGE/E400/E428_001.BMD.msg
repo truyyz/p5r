@@ -11,7 +11,7 @@
 [s][bup 0 5 104 0 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]O que está acontecendo?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Ryuji]]
-[s][bup 0 2 104 0 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Ei Oráculo![n][f 1 3 65535][w][e]
+[s][bup 0 2 104 0 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Ei Oracle![n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Futaba]]
 [s][bup 0 8 104 0 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]A nave está explodindo...[n]mas por quê?!?[n][f 1 3 65535][w][e]
@@ -38,7 +38,7 @@
 [s][bup 0 7 104 0 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Temos que fugir![n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Makoto]]
-[s][bup 0 6 102 0 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Oráculo! Existe alguma outra rota de fuga?!?[n][f 1 3 65535][w][e]
+[s][bup 0 6 102 0 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Oracle! Existe alguma outra rota de fuga?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Futaba]]
 [s][bup 0 8 103 0 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Estou procurando, mas...[n][f 1 3 65535][w][e]

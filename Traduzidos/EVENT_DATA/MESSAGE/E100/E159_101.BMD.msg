@@ -37,7 +37,7 @@
 [s][bup 0 4 103 0 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Hum, algo melhor[n]do que um gatinho...[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Ann]]
-[s][bup 0 4 100 65535 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Talvez... "Pantera"?[n][f 1 3 65535][w][e]
+[s][bup 0 4 100 65535 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Talvez... "Panther"?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]Parece muito bom, não é?[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Ryuji]]

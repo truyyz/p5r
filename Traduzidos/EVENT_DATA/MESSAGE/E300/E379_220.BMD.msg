@@ -28,7 +28,7 @@
 
 [msg MSG_007_0_0 [Futaba]]
 [s][bup 0 8 100 65535 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Para Taro Tanaka's... hmm...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Corvo, jogue-o na primeira[n]caixa que encontrar.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Crow, jogue-o na primeira[n]caixa que encontrar.[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Akechi]]
 [s][bup 0 9 104 65535 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Huh...? Por que eu?[n][f 1 3 65535][w][e]

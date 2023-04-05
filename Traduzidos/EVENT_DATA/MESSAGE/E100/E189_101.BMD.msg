@@ -29,10 +29,10 @@
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Ei, olha quem mais está[n]dormindo em pé.[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Os exames estão quase acabando, então[n]pensei em fazer o último[n]sprint antes da linha de chegada.[n][f 1 3 65535][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Os exames estão quase acabando, então[n]pensei em fazer um último[n]esforço antes da linha de chegada.[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Notável, Lady Ann.[n]Você é diferente do[n]esse macaco estúpido aqui.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Notável, Lady Ann.[n]Você é diferente[n]desse macaco estúpido aqui.[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Ryuji]]
 [s][bup 0 2 11 65535 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Hã? Não ouse.[n]Seu cérebro é um amendoim[n]comparado ao meu.[n][f 1 3 65535][w][e]
@@ -53,14 +53,14 @@
 [s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]É minha imaginação?[n][f 1 3 65535][w][e]
 
 [sel SEL_017_0_0 top]
-[s]O que acontece?[e]
+[s]O que aconteceu?[e]
 [s]Você tem que ir ao banheiro?[e]
 
 [msg MSG_018_0_0 [Ann]]
 [s][f 4 16 4 3 300 1 65535][vp 8 0 0 18 65535 0]Hã? Não![n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]O que foi, você pegou um tatuador[n]ou algo assim?[n][f 1 3 65535][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]O que foi, você viu um assediador[n]ou algo assim?[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]Não, não é isso.[n]É... não é nada.[n][f 1 3 65535][w][e]

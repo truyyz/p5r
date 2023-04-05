@@ -9,10 +9,10 @@
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Este lugar não é tão seguro quanto[n]nossa realidade. Fique atento.[n][w][e]
 
 [msg D10_10_Door_Lock_Clear_S [[f 4 31 10 0]]]
-[s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 57161 65535 0]Que abriu! Você conseguiu,[n]Oráculo-senpai![n][w][e]
+[s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 57161 65535 0]Que abriu! Você conseguiu,[n]Oracle-senpai![n][w][e]
 
 [msg D10_10_Door_Lock_Clear_E [Futaba]]
-[s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9076 65535 0]Oráculo-senpai... Mueheheh,[n]eu gosto do jeito que soa![n][w][e]
+[s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9076 65535 0]Oracle-senpai... Mueheheh,[n]eu gosto do jeito que soa![n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]De agora em diante, estaremos[n]em um lugar desconhecido.[n]Fiquem atentos, pessoal![n][w][e]
 
 [msg D10_10_ID_Get_Start [[f 4 31 10 0]]]

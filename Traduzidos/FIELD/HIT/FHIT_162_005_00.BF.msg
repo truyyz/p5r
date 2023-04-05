@@ -7,7 +7,7 @@
 [s]Ainda não.[e]
 
 [msg D10_13_e_selA_0_mes01 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1181 65535 0]Concordar. Vamos![n][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1181 65535 0]Concordo. Vamos![n][w][e]
 
 [msg D10_13_e_selA_1_mes01 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Direita. Melhor ter cuidado.[n][w][e]
@@ -22,7 +22,7 @@
 
 [msg D10_05_DestinationSugges_3 [[f 4 31 10 0]]]
 [s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Estamos quase lá.[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Oráculo, como você alcança[n]o ponto de vista?[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Oracle, como você alcança[n]o ponto de vista?[n][w][e]
 
 [msg D10_05_DestinationSugges_4 [Futaba]]
 [s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Deve haver um elevador[n]na parte de trás da sala de vídeo.[n][w][e]

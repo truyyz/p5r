@@ -10,7 +10,7 @@
 [s][bup 0 2 105 65535 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Eu, uh... eu gostaria de[n]um bom mergulho! Sim![n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Ryuji]]
-[s][bup 0 2 107 65535 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]...Você cuida disso, Pantera.[n][f 1 3 65535][w][e]
+[s][bup 0 2 107 65535 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]...Você cuida disso, Panther.[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Ann]]
 [s][f 4 16 4 7 301 1 65535][vp 8 0 0 7 65535 0]O quê?!?[n][f 1 3 65535][w][e]
@@ -32,7 +32,7 @@
 
 [msg MSG_010_0_0 [Makoto]]
 [s][bup 0 6 100 65535 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Não, desculpe nossa[n]falta de educação.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Vamos, Caveira. Vamos.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Vamos, Skull. Vamos.[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Ryuji]]
 [s][bup 0 2 102 65535 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]O que diabos há de errado com ele?!?[n]Ele tem que se passar por[n]como a mais alta divindade?!?[n][f 1 3 65535][w][e]

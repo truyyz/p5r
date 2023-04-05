@@ -56,7 +56,7 @@
 [s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6024 65535 0]Pare com isso. O único que vai[n]desculpar é o seu[n]pai, ok?[n][w][e]
 
 [msg D05_02_e341_033_mes05 [Yusuke]]
-[s][bup 0 5 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Pantera tem razão. Vamos[n]em busca da próxima insígnia.[n][w][e]
+[s][bup 0 5 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Panther tem razão. Vamos[n]em busca da próxima insígnia.[n][w][e]
 
 [msg D05_02_e341_033_mes06 [Futaba]]
 [s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Isso varia de[n]diretores de seção para cima. Precisamos de[n]outro cartão de identificação.[n][w][e]

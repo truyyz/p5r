@@ -163,9 +163,9 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1020 65535 0]Que intenções você tem? Você quer ajudar[n]Maruki com sua pesquisa?[n][w][e]
 
 [sel SEL_COOP_CHECK top]
-[s]Ajudem-no[e]
+[s]Ajudá-lo[e]
 [s]Verifique o vínculo com Maruki[e]
-[s]Declínio[e]
+[s]Recusar[e]
 
 [msg MSG_C23_YES_01_00 [Maruki]]
 [s][f 4 23 1 223 3 10 0 10][bup 0 216 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ótimo! Então poderei honrar[n]minha parte do acordo.[n][w][e]

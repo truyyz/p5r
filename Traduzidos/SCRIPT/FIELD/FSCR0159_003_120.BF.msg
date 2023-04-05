@@ -32,5 +32,5 @@
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Se o presidente da empresa de informática[n]nunca sai da sala, alguém[n]tem que levar comida para ele.[n][w][e]
 
 [msg D07_02_e411_041_mes08 [Ann]]
-[s][bup 0 4 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6152 65535 0]Oooh, então devemos buscar[n]informações no restaurante![n]Boa ideia, Joker! Ah, e Rainha![n][w][e]
+[s][bup 0 4 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6152 65535 0]Oooh, então devemos buscar[n]informações no restaurante![n]Boa ideia, Joker! Ah, e Queen![n][w][e]
 

@@ -15,8 +15,8 @@
 [s][bup 0 6 100 65535 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Alguém quer vir comigo?[n][f 1 3 65535][w][e]
 
 [sel SEL_005_0_0 top]
-[s]Vai, Caveira.[e]
-[s]Vai, Raposa.[e]
+[s]Vai, Skull.[e]
+[s]Vai, Fox.[e]
 [s]Vou.[e]
 
 [msg MSG_006_0_0 [Ryuji]]

@@ -11,7 +11,7 @@
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Parece que não pode ser aberto[n]deste lado, então devemos[n]percorrer o caminho mais longo.[n][w][e]
 
 [msg D10_16_DeckDoor_look_end [Akechi]]
-[s][bup 0 9 810 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 8136 65535 0]Concordo com a Oráculo. Pode[n]não ser a rota mais direta para o[n]Treasure, mas já é alguma coisa.[n][w][e]
+[s][bup 0 9 810 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 8136 65535 0]Concordo com a Oracle. Pode[n]não ser a rota mais direta para o[n]Treasure, mas já é alguma coisa.[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Seguindo em frente, nosso[n]objetivo é aquela sala.[n][w][e]
 
 [msg D10_16_PasswardDoor_look [Ryuji]]

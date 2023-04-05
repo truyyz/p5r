@@ -11,7 +11,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ei! Este não é o momento[n]para ficar sentimental![n][w][e]
 
 [msg D06_17_e387_100_mes05 [Yusuke]]
-[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Oráculo, para onde[n]o Tesouro está se movendo?[n][w][e]
+[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Oracle, para onde[n]o Tesouro está se movendo?[n][w][e]
 
 [msg D06_17_e387_100_mes06 [Futaba]]
 [s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Me dê um segundo...[n][w][e]

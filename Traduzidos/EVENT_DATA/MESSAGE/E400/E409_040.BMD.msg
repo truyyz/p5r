@@ -15,7 +15,7 @@
 [s][bup 0 2 101 65535 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Tá perfeito... Eheheh![n]Vai dar super certo![n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Makoto]]
-[s][bup 0 6 105 65535 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Caveira... Você tem uma aparência[n]bastante assustadora.[n][f 1 3 65535][w][e]
+[s][bup 0 6 105 65535 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Skull... Você tem uma aparência[n]bastante assustadora.[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Futaba]]
 [s][bup 0 8 103 65535 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Na verdade, é assustador.[n][f 1 3 65535][w][e]

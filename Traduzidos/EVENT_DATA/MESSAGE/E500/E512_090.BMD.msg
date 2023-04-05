@@ -28,7 +28,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Você sabe, amor juvenil?[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Yusuke]]
-[s][bup 0 5 100 0 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Você entendeu a explicação dele?[n]Caveira...[n][f 1 3 65535][w][e]
+[s][bup 0 5 100 0 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Você entendeu a explicação dele?[n]Skull...[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Futaba]]
 [s][bup 0 8 100 0 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Você não sabe nada sobre amor.[n][f 1 3 65535][w][e]

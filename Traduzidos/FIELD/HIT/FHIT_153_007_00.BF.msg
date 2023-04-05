@@ -52,7 +52,7 @@
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Como fui tolo por[n]ser enganado por tanto tempo...[n][w][e]
 
 [msg D153_007_miniEV_05_mes03 [Ann]]
-[s][bup 0 4 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Raposa...[n][w][e]
+[s][bup 0 4 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Fox...[n][w][e]
 
 [msg D153_007_miniEV_06_mes01 [Ryuji]]
 [s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7045 65535 0]Ótimo, isso deve ser o fim![n][w][e]

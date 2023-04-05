@@ -14,7 +14,7 @@
 [s][vp 6 0 0 5 0 0]Você também, hein?[n][f 1 2 85][e]
 
 [msg MSG_005_0_0 [Sumire]]
-[s][vp 6 0 0 6 0 0]Crow-senpai, o que você é...?!?[n][f 1 2 60][e]
+[s][vp 6 0 0 6 0 0]Crow-senpai, o que você está...?!?[n][f 1 2 60][e]
 
 [msg MSG_006_0_0 [Akechi]]
 [s][vp 6 0 0 7 0 0]Você não entendeu?[n][f 1 2 30][e]
@@ -35,7 +35,7 @@
 [s][vp 6 0 0 12 0 0]Não, você não pode fazer isso![n][f 1 2 45][e]
 
 [msg MSG_012_0_0 [Akechi]]
-[s][vp 6 0 0 13 0 0]Hesitar agora... significa morrer![n][f 1 2 85][e]
+[s][vp 6 0 0 13 0 0]Hesitamos agora... e morremos![n][f 1 2 85][e]
 
 [msg MSG_013_0_0 [Morgana]]
 [s][vp 6 0 0 14 0 0]Lá em cima![n][f 1 2 25][e]

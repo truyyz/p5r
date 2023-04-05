@@ -296,16 +296,16 @@
 [s]O protagonista escolheu ficar na realidade[n]projetada por Maruki.[n][e]
 
 [msg MSG_098]
-[s]Especial: Pantera e Mona[n][e]
+[s]Especial: Panther e Mona[n][e]
 
 [msg MSG_099]
-[s]Especial: Rainha e Caveira[n][e]
+[s]Especial: Queen e Skull[n][e]
 
 [msg MSG_180]
-[s]Especial: Caveira e Raposa[n][e]
+[s]Especial: Skull e Fox[n][e]
 
 [msg MSG_101]
-[s]Especial: Raposa e Pantera[n][e]
+[s]Especial: Fox e Panther[n][e]
 
 [msg MSG_102]
 [s]Especial: Mona e Noir[n][e]
@@ -314,7 +314,7 @@
 [s]Especial: Noir e Queen[n][e]
 
 [msg MSG_104]
-[s]Especial: Corvo e Joker[n][e]
+[s]Especial: Crow e Joker[n][e]
 
 [msg MSG_105]
 [s]Especial: Violeta e Joker[n][e]

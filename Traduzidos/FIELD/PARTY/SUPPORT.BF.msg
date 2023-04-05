@@ -308,7 +308,7 @@
 [s]Tsk! Perdemos muito[n]daqueles caras de preto, mas eles parecem[n]intermináveis...[n][f 1 2 87][e]
 
 [msg D151_support_mes01_A]
-[s][vp 8 2 1 6043 65535 0]Oi Caveira! Você se atreve a assistir[n]e eu vou te chutar[n]até a próxima semana![n][f 1 2 55][e]
+[s][vp 8 2 1 6043 65535 0]Oi Skull! Você se atreve a assistir[n]e eu vou te chutar[n]até a próxima semana![n][f 1 2 55][e]
 
 [msg D151_support_mes01_B]
 [s][vp 8 2 1 7044 65535 0]Argh, não estou olhando, não estou olhando...[n]Vá, se apresse.[n][f 1 2 40][e]
@@ -7448,7 +7448,7 @@
 [s][vp 1 0 0 2581 0 0]Bem, nós sempre vencemos, então somos ainda mais[n]fortes do que isso, não somos?[n][f 1 6 65535][e]
 
 [msg D_CAR__PC02_mes582]
-[s][vp 1 0 0 2582 0 0]Talvez seja por causa do calor[n]aqui... Ei, não durma[n]no trabalho, Pantera.[n][f 1 6 65535][e]
+[s][vp 1 0 0 2582 0 0]Talvez seja por causa do calor[n]aqui... Ei, não durma[n]no trabalho, Panther.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC02_mes583]
 [s][vp 1 0 0 2583 0 0]Combina com você.[n]Especialmente o chicote.[n][f 1 6 65535][e]
@@ -7499,7 +7499,7 @@
 [s][vp 1 0 0 2598 0 0]Ai! Devagar![n]Não há muito espaço aqui![n][f 1 6 65535][e]
 
 [msg D_CAR__PC02_mes599]
-[s][vp 1 0 0 2599 0 0]Uau, Takam... Hum, Pantera.[n]Você realmente gosta dessas coisas![n][f 1 6 65535][e]
+[s][vp 1 0 0 2599 0 0]Uau, Takam... Hum, Panther.[n]Você realmente gosta dessas coisas![n][f 1 6 65535][e]
 
 [msg D_CAR__PC02_mes600]
 [s][vp 1 0 0 2600 0 0]É preciso nervos de aço,[n]para dormir aqui.[n][f 1 6 65535][e]
@@ -7616,13 +7616,13 @@
 [s][vp 1 0 0 2637 0 0]Huh? Você está dizendo que é tudo falso? Então[n]jornalistas também fazem isso?[n][f 1 6 65535][e]
 
 [msg D_CAR__PC02_mes638]
-[s][vp 1 0 0 2638 0 0]Oh, você também gosta deles?[n]Eu não esperava por isso, Rainha.[n][f 1 6 65535][e]
+[s][vp 1 0 0 2638 0 0]Oh, você também gosta deles?[n]Eu não esperava por isso, Queen.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC02_mes639]
 [s][vp 1 0 0 2639 0 0]Eu sei que você fala sério, mas às vezes[n]o que você diz me faz estremecer.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC02_mes640]
-[s][vp 1 0 0 2640 0 0]Rainha, você também faz parte[n]da equipe. Nós apenas[n]tentamos fazer o nosso melhor.[n][f 1 6 65535][e]
+[s][vp 1 0 0 2640 0 0]Queen, você também faz parte[n]da equipe. Nós apenas[n]tentamos fazer o nosso melhor.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC02_mes641]
 [s][vp 1 0 0 2641 0 0]Tem gente aqui[n]que é sério...[n][f 1 6 65535][e]
@@ -7703,7 +7703,7 @@
 [s][vp 1 0 0 2666 0 0]Eh, eu prefiro não. E desculpe[n]um momento, mas... "nostalgia"?[n]Há quanto tempo você não vai para a escola?[n][f 1 6 65535][e]
 
 [msg D_CAR__PC02_mes667]
-[s][vp 1 0 0 2667 0 0]Vai assim, Oráculo![n]Bruuum![n][f 1 6 65535][e]
+[s][vp 1 0 0 2667 0 0]Vai assim, Oracle![n]Bruuum![n][f 1 6 65535][e]
 
 [msg D_CAR__PC02_mes668]
 [s][vp 1 0 0 2668 0 0]Tenho a sensação de que um dia[n]ele ficará preso em algum lugar.[n][f 1 6 65535][e]
@@ -7904,7 +7904,7 @@
 [s][vp 1 0 0 3528 0 0]Observar humanos[n]me faz pensar em muitas coisas.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC03_mes529]
-[s][vp 1 0 0 3529 0 0]Pantera, se você quiser, uma vez[n]nós poderíamos... sair à noite para[n]andar... mais cedo ou mais tarde...?[n][f 1 6 65535][e]
+[s][vp 1 0 0 3529 0 0]Panther, se você quiser, uma vez[n]nós poderíamos... sair à noite para[n]andar... mais cedo ou mais tarde...?[n][f 1 6 65535][e]
 
 [msg FLD_PTD_MSG_BLANK_D_PC03_2]
 [s]......[n][f 1 6 65535][e]
@@ -7970,7 +7970,7 @@
 [s][vp 1 0 0 3550 0 0]É para pessoas como você que existe a expressão[n]"totalmente musculoso e sem cérebro".[n][f 1 6 65535][e]
 
 [msg D_CAR__PC03_mes551]
-[s][vp 1 0 0 3551 0 0]Pense desta forma:[n]eles não passam de presas![n]Vamos, traga a fonte, Caveira.[n][f 1 6 65535][e]
+[s][vp 1 0 0 3551 0 0]Pense desta forma:[n]eles não passam de presas![n]Vamos, traga a fonte, Skull.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC03_mes552]
 [s][vp 1 0 0 3552 0 0]Posso cantar se quiser.[n][f 1 6 65535][e]
@@ -7985,7 +7985,7 @@
 [s][vp 1 0 0 3555 0 0]Repito: NÃO SOU um gato![n][f 1 6 65535][e]
 
 [msg D_CAR__PC03_mes556]
-[s][vp 1 0 0 3556 0 0]Caveira... Você... lava[n]regularmente, né?[n][f 1 6 65535][e]
+[s][vp 1 0 0 3556 0 0]Skull... Você... lava[n]regularmente, né?[n][f 1 6 65535][e]
 
 [msg D_CAR__PC03_mes557]
 [s][vp 1 0 0 3557 0 0]Sem cebolas para mim, obrigado![n]Ah, e eu quero um ovo também.[n][f 1 6 65535][e]
@@ -8027,7 +8027,7 @@
 [s][vp 1 0 0 3569 0 0]Eu iluminarei seu caminho![n]Farol alto... ignição![n][f 1 6 65535][e]
 
 [msg D_CAR__PC03_mes570]
-[s][vp 1 0 0 3570 0 0]Pantera, por você eu iria[n]até o fim do mundo![n][f 1 6 65535][e]
+[s][vp 1 0 0 3570 0 0]Panther, por você eu iria[n]até o fim do mundo![n][f 1 6 65535][e]
 
 [msg D_CAR__PC03_mes571]
 [s][vp 1 0 0 3571 0 0]Não é só você.[n]É culpa deste lugar.[n][f 1 6 65535][e]
@@ -8042,7 +8042,7 @@
 [s][vp 1 0 0 3574 0 0]Eu também sou útil, sabe?[n]Em outro veículo,[n]não seria tão simples.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC03_mes575]
-[s][vp 1 0 0 3575 0 0]Uh?!? Conte-me mais, Pantera![n]Esta é uma informação de[n]importância vital![n][f 1 6 65535][e]
+[s][vp 1 0 0 3575 0 0]Uh?!? Conte-me mais, Panther![n]Esta é uma informação de[n]importância vital![n][f 1 6 65535][e]
 
 [msg D_CAR__PC03_mes576]
 [s][vp 1 0 0 3576 0 0]Finalmente alguém que entende![n]Alegria e dor de ter um[n]rabo... Deveríamos conversar melhor sobre isso.[n][f 1 6 65535][e]
@@ -8072,7 +8072,7 @@
 [s][vp 1 0 0 3584 0 0]Droga, eu ando nele[n]com as quatro rodas![n][f 1 6 65535][e]
 
 [msg D_CAR__PC03_mes585]
-[s][vp 1 0 0 3585 0 0]Oi Raposa! Não aponte[n]seus lápis aqui![n][f 1 6 65535][e]
+[s][vp 1 0 0 3585 0 0]Oi Fox! Não aponte[n]seus lápis aqui![n][f 1 6 65535][e]
 
 [msg D_CAR__PC03_mes586]
 [s][vp 1 0 0 3586 0 0]Ei, se você quiser me desenhar, me deixe[n]bonito e charmoso![n][f 1 6 65535][e]
@@ -8120,7 +8120,7 @@
 [s][vp 1 0 0 3600 0 0]Não se preocupe![n]Eu cuidarei de iluminar o caminho![n][f 1 6 65535][e]
 
 [msg D_CAR__PC03_mes601]
-[s][vp 1 0 0 3601 0 0]Você consegue distinguir os motores[n]apenas pelo barulho?[n]Você tem uma ótima audição, Rainha![n][f 1 6 65535][e]
+[s][vp 1 0 0 3601 0 0]Você consegue distinguir os motores[n]apenas pelo barulho?[n]Você tem uma ótima audição, Queen![n][f 1 6 65535][e]
 
 [msg D_CAR__PC03_mes602]
 [s][vp 1 0 0 3602 0 0]Eles são diferentes dos Palácios,[n]mas você não tem nada[n]com que se preocupar.[n][f 1 6 65535][e]
@@ -8138,7 +8138,7 @@
 [s][vp 1 0 0 3606 0 0]Ouviu, Joker?[n]Você deveria convidá-la![n][f 1 6 65535][e]
 
 [msg D_CAR__PC03_mes607]
-[s][vp 1 0 0 3607 0 0]Um bom ponto de vista, Rainha.[n]Um Ladrão Fantasma só pode confiar[n]em seus sentidos![n][f 1 6 65535][e]
+[s][vp 1 0 0 3607 0 0]Um bom ponto de vista, Queen.[n]Um Ladrão Fantasma só pode confiar[n]em seus sentidos![n][f 1 6 65535][e]
 
 [msg D_CAR__PC03_mes608]
 [s][vp 1 0 0 3608 0 0]Ei, não se esqueça de mim![n][f 1 6 65535][e]
@@ -8393,7 +8393,7 @@
 [s][vp 1 0 0 4548 0 0]Acho que ouvi[n]um grito ... Argh, agora vou ficar[n]calafrios só de pensar nisso![n][f 1 6 65535][e]
 
 [msg D_CAR__PC04_mes549]
-[s][vp 1 0 0 4549 0 0]*suspiro* Caveira, com você por perto[n]me sinto mais à vontade.[n][f 1 6 65535][e]
+[s][vp 1 0 0 4549 0 0]*suspiro* Skull, com você por perto[n]me sinto mais à vontade.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC04_mes550]
 [s][vp 1 0 0 4550 0 0]Não diga essas coisas assustadoras![n][f 1 6 65535][e]
@@ -8591,7 +8591,7 @@
 [s][vp 1 0 0 4614 0 0]Já. Eu não podia acreditar...[n]Você tem sorte.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC04_mes615]
-[s][vp 1 0 0 4615 0 0]Uh... Rainha? Aquele olhar...[n]um pouco assustador.[n][f 1 6 65535][e]
+[s][vp 1 0 0 4615 0 0]Uh... Queen? Aquele olhar...[n]um pouco assustador.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC04_mes616]
 [s][vp 1 0 0 4616 0 0]Os desejos da humanidade...?[n]Não, não sei.[n][f 1 6 65535][e]
@@ -8627,7 +8627,7 @@
 [s][vp 1 0 0 4626 0 0]Oh, que tipo era?[n]Mostre-me da próxima vez![n][f 1 6 65535][e]
 
 [msg D_CAR__PC04_mes627]
-[s][vp 1 0 0 4627 0 0]Você é incrível, Rainha. Eu só posso lidar com as[n]coisas de um ladrão.[n][f 1 6 65535][e]
+[s][vp 1 0 0 4627 0 0]Você é incrível, Queen. Eu só posso lidar com as[n]coisas de um ladrão.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC04_mes628]
 [s][vp 1 0 0 4628 0 0]Então me dê algumas[n]dessas notas perfeitas![n][f 1 6 65535][e]
@@ -8639,7 +8639,7 @@
 [s][vp 1 0 0 4630 0 0]Já. Não existem muitos[n]jogos de corrida com pistas como esta.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC04_mes631]
-[s][vp 1 0 0 4631 0 0]Oráculo, seus óculos[n]também têm visão noturna?[n][f 1 6 65535][e]
+[s][vp 1 0 0 4631 0 0]Oracle, seus óculos[n]também têm visão noturna?[n][f 1 6 65535][e]
 
 [msg D_CAR__PC04_mes632]
 [s][vp 1 0 0 4632 0 0]Você estava…um…[n]imitando o vento?[n][f 1 6 65535][e]
@@ -8657,7 +8657,7 @@
 [s][vp 1 0 0 4636 0 0]Caril Leblanc?[n]Sim, tem um sabor inimitável.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC04_mes637]
-[s][vp 1 0 0 4637 0 0]Uau... Por um momento, o Oráculo[n]me chocou.[n][f 1 6 65535][e]
+[s][vp 1 0 0 4637 0 0]Uau... Por um momento, o Oracle[n]me chocou.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC04_mes638]
 [s][vp 1 0 0 4638 0 0]Espero que você tenha dado uma[n]espreitadela, não foi...? É insano.[n]Confiável, mas insano.[n][f 1 6 65535][e]
@@ -8678,7 +8678,7 @@
 [s][vp 1 0 0 4643 0 0]Argh, devagar! O cinto[n]está esmagando meu peito...![n][f 1 6 65535][e]
 
 [msg D_CAR__PC04_mes644]
-[s][vp 1 0 0 4644 0 0]Ué, Oráculo? Eu não escolhi[n]io usar essas roupas.[n][f 1 6 65535][e]
+[s][vp 1 0 0 4644 0 0]Ué, Oracle? Eu não escolhi[n]io usar essas roupas.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC04_mes645]
 [s][vp 1 0 0 4645 0 0]Mas os humanos no mundo real[n]têm estado ocupados, para construir[n]o metrô real. Isso é impressionante.[n][f 1 6 65535][e]
@@ -8945,7 +8945,7 @@
 [s][vp 1 0 0 5559 0 0]Contentamento... Sim, acho que[n]sinto o mesmo.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC05_mes560]
-[s][vp 1 0 0 5560 0 0]Não, Caveira! Você sabe o que dizem...[n]A pressa é um péssimo conselheiro![n][f 1 6 65535][e]
+[s][vp 1 0 0 5560 0 0]Não, Skull! Você sabe o que dizem...[n]A pressa é um péssimo conselheiro![n][f 1 6 65535][e]
 
 [msg D_CAR__PC05_mes561]
 [s][vp 1 0 0 5561 0 0]Não apresse as coisas ou você só vai se cansar.[n]Aventure-se em suas façanhas no ritmo certo.[n][f 1 6 65535][e]
@@ -9011,7 +9011,7 @@
 [s][vp 1 0 0 5581 0 0]Me desculpe. Foi meu estômago.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC05_mes582]
-[s][vp 1 0 0 5582 0 0]Pantera, você está...[n]pulando, mais ou menos...[n][f 1 6 65535][e]
+[s][vp 1 0 0 5582 0 0]Panther, você está...[n]pulando, mais ou menos...[n][f 1 6 65535][e]
 
 [msg D_CAR__PC05_mes583]
 [s][vp 1 0 0 5583 0 0]Talvez haja um terminal. Acho que[n]descobriremos mais cedo ou mais tarde.[n][f 1 6 65535][e]
@@ -9491,7 +9491,7 @@
 [s][vp 1 0 0 6552 0 0]Estaremos em apuros se nos encontrarmos[n]em menor número.[n]Cuidado, Joker.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC06_mes553]
-[s][vp 1 0 0 6553 0 0]Caveira, tente levar[n]as coisas a sério.[n][f 1 6 65535][e]
+[s][vp 1 0 0 6553 0 0]Skull, tente levar[n]as coisas a sério.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC06_mes554]
 [s][vp 1 0 0 6554 0 0]Seria útil. O-Oh... Desculpe,[n]Mona, e-eu sei que não é possível.[n][f 1 6 65535][e]
@@ -9518,7 +9518,7 @@
 [s][vp 1 0 0 6561 0 0]Não sou a favor de[n]ter[n]armas na vida real...[n][f 1 6 65535][e]
 
 [msg D_CAR__PC06_mes562]
-[s][vp 1 0 0 6562 0 0]Você diz isso, Caveira, mas você ainda trabalha[n]duro.[n][f 1 6 65535][e]
+[s][vp 1 0 0 6562 0 0]Você diz isso, Skull, mas você ainda trabalha[n]duro.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC06_mes563]
 [s][vp 1 0 0 6563 0 0]Dirija com cuidado![n]Conto com você.[n][f 1 6 65535][e]
@@ -9659,7 +9659,7 @@
 [s][vp 1 0 0 6608 0 0]Talvez ensinar outras pessoas[n]ajude você a fortalecer[n]seu próprio caráter.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC06_mes609]
-[s][vp 1 0 0 6609 0 0]Pantera... essa coisa macia[n]que continua quicando[n]contra minha cabeça... é seu peito?[n][f 1 6 65535][e]
+[s][vp 1 0 0 6609 0 0]Panther... essa coisa macia[n]que continua quicando[n]contra minha cabeça... é seu peito?[n][f 1 6 65535][e]
 
 [msg D_CAR__PC06_mes610]
 [s][vp 1 0 0 6610 0 0]Tudo bem acelerar, mas...[n]tente dirigir com cuidado.[n][f 1 6 65535][e]
@@ -9677,7 +9677,7 @@
 [s][vp 1 0 0 6614 0 0]Você está bem...? Você tem[n]alguma coisa para dar para ele beber?[n][f 1 6 65535][e]
 
 [msg D_CAR__PC06_mes615]
-[s][vp 1 0 0 6615 0 0]Raposa! Observe onde você espalha essas aparas[n]quando aponta seus lápis![n][f 1 6 65535][e]
+[s][vp 1 0 0 6615 0 0]Fox! Observe onde você espalha essas aparas[n]quando aponta seus lápis![n][f 1 6 65535][e]
 
 [msg D_CAR__PC06_mes616]
 [s][vp 1 0 0 6616 0 0]Nem eu. Não baixemos a guarda. Isso vale para[n]você também, Joker.[n][f 1 6 65535][e]
@@ -9779,7 +9779,7 @@
 [s][vp 1 0 0 6648 0 0]Cuidar de suas ferramentas[n]é importante. Como faço[n]a manutenção da minha arma...?[n][f 1 6 65535][e]
 
 [msg D_CAR__PC06_mes649]
-[s][vp 1 0 0 6649 0 0]Raposa...! Concentre-se na[n]missão, por favor![n][f 1 6 65535][e]
+[s][vp 1 0 0 6649 0 0]Fox...! Concentre-se na[n]missão, por favor![n][f 1 6 65535][e]
 
 [msg D_CAR__PC06_mes650]
 [s][vp 1 0 0 6650 0 0]Fique calmo, ok?[n]Respire fundo.[n][f 1 6 65535][e]
@@ -9818,13 +9818,13 @@
 [s][vp 1 0 0 6661 0 0]O curry é sempre bom. Talvez[n]é quase impossível preparar[n]um que não seja.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC06_mes662]
-[s][vp 1 0 0 6662 0 0]Oh! Oráculo é adorável, não é?[n]Quando eu era pequena, queria muito uma[n]irmãzinha.[n][f 1 6 65535][e]
+[s][vp 1 0 0 6662 0 0]Oh! Oracle é adorável, não é?[n]Quando eu era pequena, queria muito uma[n]irmãzinha.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC06_mes663]
-[s][vp 1 0 0 6663 0 0]Oráculo! O que eu te disse sobre[n]hackear redes governamentais?[n][f 1 6 65535][e]
+[s][vp 1 0 0 6663 0 0]Oracle! O que eu te disse sobre[n]hackear redes governamentais?[n][f 1 6 65535][e]
 
 [msg D_CAR__PC06_mes664]
-[s][vp 1 0 0 6664 0 0]Oráculo... Da próxima vez[n]vamos fazer uma viagem adequada.[n][f 1 6 65535][e]
+[s][vp 1 0 0 6664 0 0]Oracle... Da próxima vez[n]vamos fazer uma viagem adequada.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC06_mes665]
 [s][vp 1 0 0 6665 0 0]Requer o uso de nitrogênio líquido[n]ou estou errado? Joker,[n]certifique-se de ficar de olho nela.[n][f 1 6 65535][e]
@@ -9845,7 +9845,7 @@
 [s][vp 1 0 0 6670 0 0]Talvez, mas a informação[n]na net foi escrita por[n]alguém que estudou na escola.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC06_mes671]
-[s][vp 1 0 0 6671 0 0]Calma, Oráculo![n]Não fique muito animado![n][f 1 6 65535][e]
+[s][vp 1 0 0 6671 0 0]Calma, Oracle![n]Não fique muito animado![n][f 1 6 65535][e]
 
 [msg D_CAR__PC06_mes672]
 [s][vp 1 0 0 6672 0 0]Deve ser difícil de mover, mas[n]parece que o Joker fez isso[n]sem problemas.[n][f 1 6 65535][e]
@@ -10493,7 +10493,7 @@
 [s][vp 1 0 0 7671 0 0]Oh...! Existem apenas[n]muitos hobbies no mundo...[n][f 1 6 65535][e]
 
 [msg D_CAR__PC07_mes672]
-[s][vp 1 0 0 7672 0 0]Muito profundo![n]Você é incrível, Oráculo.[n][f 1 6 65535][e]
+[s][vp 1 0 0 7672 0 0]Muito profundo![n]Você é incrível, Oracle.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC07_mes673]
 [s][vp 1 0 0 7673 0 0]Qual é o problema?[n]Você está bem?[n][f 1 6 65535][e]
@@ -10712,7 +10712,7 @@
 [s][vp 1 0 0 8544 0 0]Eu gostaria de poder me transformar[n]em um veículo como Mona faz.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC08_mes545]
-[s][vp 1 0 0 8545 0 0]Uau, Caveira, você canta mal![n]Mas você me fez rir![n][f 1 6 65535][e]
+[s][vp 1 0 0 8545 0 0]Uau, Skull, você canta mal![n]Mas você me fez rir![n][f 1 6 65535][e]
 
 [msg D_CAR__PC08_mes546]
 [s][vp 1 0 0 8546 0 0]Porque? O escuro é bom. É relaxante.[n][f 1 6 65535][e]
@@ -10847,7 +10847,7 @@
 [s][vp 1 0 0 8589 0 0]Serei sua guia, Mona.[n]Vamos com tudo![n][f 1 6 65535][e]
 
 [msg D_CAR__PC08_mes590]
-[s][vp 1 0 0 8590 0 0]Uau, Pantera, eles são enormes![n]Quando dançam assim,[n]não sei para onde olhar![n][f 1 6 65535][e]
+[s][vp 1 0 0 8590 0 0]Uau, Panther, eles são enormes![n]Quando dançam assim,[n]não sei para onde olhar![n][f 1 6 65535][e]
 
 [msg D_CAR__PC08_mes591]
 [s][vp 1 0 0 8591 0 0]Só há uma coisa a fazer:[n]siga em frente![n][f 1 6 65535][e]
@@ -10874,7 +10874,7 @@
 [s][vp 1 0 0 8598 0 0]Se você tem um controle para[n]jogos de corrida, pode praticar em casa![n][f 1 6 65535][e]
 
 [msg D_CAR__PC08_mes599]
-[s][vp 1 0 0 8599 0 0]Mas você parece se divertir muito na batalha,[n]Pantera![n][f 1 6 65535][e]
+[s][vp 1 0 0 8599 0 0]Mas você parece se divertir muito na batalha,[n]Panther![n][f 1 6 65535][e]
 
 [msg D_CAR__PC08_mes600]
 [s][vp 1 0 0 8600 0 0]As filas são espetaculares...[n]queria ter pelo menos duas...[n][f 1 6 65535][e]
@@ -10910,7 +10910,7 @@
 [s][vp 1 0 0 8610 0 0]Não gosto de professores estranhos. Quero dizer,[n]eu realmente não gosto de professores e é isso.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC08_mes611]
-[s][vp 1 0 0 8611 0 0]Pantera, você está animado,[n]eh? E nem no corpete![n][f 1 6 65535][e]
+[s][vp 1 0 0 8611 0 0]Panther, você está animado,[n]eh? E nem no corpete![n][f 1 6 65535][e]
 
 [msg D_CAR__PC08_mes612]
 [s][vp 1 0 0 8612 0 0]ei! Quem sabe qual é a[n]velocidade máxima de Mona![n][f 1 6 65535][e]
@@ -11036,13 +11036,13 @@
 [s][vp 1 0 0 8652 0 0]Doce depois salgado...[n]É um ciclo potencialmente vicioso.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC08_mes653]
-[s][vp 1 0 0 8653 0 0]Entendido. Rainha,[n]você me lembra um pouco Sojiro.[n][f 1 6 65535][e]
+[s][vp 1 0 0 8653 0 0]Entendido. Queen,[n]você me lembra um pouco Sojiro.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC08_mes654]
 [s][vp 1 0 0 8654 0 0]Sim, ele é um pouco como o Sojiro agora...[n]Ei Joker, que cara era aquela?[n][f 1 6 65535][e]
 
 [msg D_CAR__PC08_mes655]
-[s][vp 1 0 0 8655 0 0]Você está incrível, Rainha.[n]Eu nem gosto de andar.[n][f 1 6 65535][e]
+[s][vp 1 0 0 8655 0 0]Você está incrível, Queen.[n]Eu nem gosto de andar.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC08_mes656]
 [s][vp 1 0 0 8656 0 0]Não, não faça isso! Você poderia[n]fazer um favor a eles![n][f 1 6 65535][e]
@@ -11495,7 +11495,7 @@
 [s][vp 1 0 0 12551 0 0]A mesma coisa... mas no meu caso,[n]é porque eu fico acordado até tarde.[n][f 1 6 65535][e]
 
 [msg D_CAR_PC02_mes10552]
-[s][vp 1 0 0 12552 0 0]Rainha, chega dessas[n]batidas de estudante modelo, o[n]você vai ter um derrame![n][f 1 6 65535][e]
+[s][vp 1 0 0 12552 0 0]Queen, chega dessas[n]batidas de estudante modelo, o[n]você vai ter um derrame![n][f 1 6 65535][e]
 
 [msg D_CAR_PC02_mes10553]
 [s][vp 1 0 0 12553 0 0]Uh, eu como um monte de coisas que[n]não são exatamente "saudáveis"...[n]É melhor se acalmar, né?[n][f 1 6 65535][e]
@@ -11747,13 +11747,13 @@
 [s][vp 1 0 0 13514 0 0]A técnica do chicote[n]do Panther me fascina[n]como um louco![n][f 1 6 65535][e]
 
 [msg D_CAR_PC03_mes10515]
-[s][vp 1 0 0 13515 0 0]Caveira... se você apenas agitá-la[n]você nunca vai acertar nada.[n][f 1 6 65535][e]
+[s][vp 1 0 0 13515 0 0]Skull... se você apenas agitá-la[n]você nunca vai acertar nada.[n][f 1 6 65535][e]
 
 [msg D_CAR_PC03_mes10516]
 [s][vp 1 0 0 13516 0 0]Na minha opinião, Joker é[n]hábil o suficiente para usar[n]facas de arremesso.[n][f 1 6 65535][e]
 
 [msg D_CAR_PC03_mes10517]
-[s][vp 1 0 0 13517 0 0]Pantera, temos a mesma cauda![n][f 1 6 65535][e]
+[s][vp 1 0 0 13517 0 0]Panther, temos a mesma cauda![n][f 1 6 65535][e]
 
 [msg D_CAR_PC03_mes10518]
 [s][vp 1 0 0 13518 0 0]O codinome "Joker"[n]foi uma ótima decisão[n]da minha parte.[n][f 1 6 65535][e]
@@ -11789,7 +11789,7 @@
 [s][vp 1 0 0 13528 0 0]Como "no fundo"? Você acha que eu[n]mostro minha verdadeira face[n]quando batemos?[n][f 1 6 65535][e]
 
 [msg D_CAR_PC03_mes10529]
-[s][vp 1 0 0 13529 0 0]Concentre-se, Caveira! Quem sabe[n]o que pode acontecer[n]se você se distrair aqui.[n][f 1 6 65535][e]
+[s][vp 1 0 0 13529 0 0]Concentre-se, Skull! Quem sabe[n]o que pode acontecer[n]se você se distrair aqui.[n][f 1 6 65535][e]
 
 [msg D_CAR_PC03_mes10530]
 [s][vp 1 0 0 13530 0 0]Excelente! Ainda temos muito pela frente, no[n]entanto. Continue assim assim![n][f 1 6 65535][e]
@@ -11906,7 +11906,7 @@
 [s][vp 1 0 0 13567 0 0]Bem, na batalha você é forte.[n]Não se preocupe.[n][f 1 6 65535][e]
 
 [msg D_CAR_PC03_mes10568]
-[s][vp 1 0 0 13568 0 0]Geralmente requer muita prática.[n]Pantera deve ter uma[n]disposição natural.[n][f 1 6 65535][e]
+[s][vp 1 0 0 13568 0 0]Geralmente requer muita prática.[n]Panther deve ter uma[n]disposição natural.[n][f 1 6 65535][e]
 
 [msg D_CAR_PC03_mes10569]
 [s][vp 1 0 0 13569 0 0]Deve ser uma representação[n]de sua rebelião, mas talvez[n]usando-os ele realmente veja algo.[n][f 1 6 65535][e]
@@ -11933,7 +11933,7 @@
 [s][vp 1 0 0 13576 0 0]Não ajudará você a se mover,[n]mas pode ser útil[n]contra Sombras.[n][f 1 6 65535][e]
 
 [msg D_CAR_PC03_mes10577]
-[s][vp 1 0 0 13577 0 0]Não se preocupe.[n]Nós protegeremos você, Oráculo.[n][f 1 6 65535][e]
+[s][vp 1 0 0 13577 0 0]Não se preocupe.[n]Nós protegeremos você, Oracle.[n][f 1 6 65535][e]
 
 [msg D_CAR_PC03_mes10578]
 [s][vp 1 0 0 13578 0 0]Você não precisa se preocupar com isso.[n]Só você pode fazer esse trabalho.[n][f 1 6 65535][e]
@@ -12458,7 +12458,7 @@
 [s][vp 1 0 0 15518 0 0]Mona, o que exatamente você carrega[n]em suas mochilas?[n][f 1 6 65535][e]
 
 [msg FLD_PTD_MSG_BLANK_D_PC05]
-[s]O traje do Pantera é um[n]vermelho brilhante... O único[n]visível entre nós.[n][f 1 6 65535][e]
+[s]O traje do Panther é um[n]vermelho brilhante... O único[n]visível entre nós.[n][f 1 6 65535][e]
 
 [msg D_CAR_PC05_mes10520]
 [s][vp 1 0 0 15520 0 0]Se o seu descanso noturno é perturbado por[n]pensamentos, conte-me sobre isso. Vou ouvir com[n]prazer.[n][f 1 6 65535][e]
@@ -12704,7 +12704,7 @@
 [s][vp 1 0 0 15600 0 0]Guardei todos os pincéis[n]usados para ganhar concursos de[n]arte.[n][f 1 6 65535][e]
 
 [msg D_CAR_PC05_mes10601]
-[s][vp 1 0 0 15601 0 0]Rainha, você poderia se mover?[n]Você está me picando.[n][f 1 6 65535][e]
+[s][vp 1 0 0 15601 0 0]Queen, você poderia se mover?[n]Você está me apertando.[n][f 1 6 65535][e]
 
 [msg D_CAR_PC05_mes10602]
 [s][vp 1 0 0 15602 0 0]É fácil. Isso me dá a[n]motivação para continuar[n]minha vida austera.[n][f 1 6 65535][e]
@@ -13133,7 +13133,7 @@
 [s][vp 1 0 0 17513 0 0]Sabe, eu nunca pensei[n]em usar um machado antes,[n]exceto para cortar lenha...[n][f 1 6 65535][e]
 
 [msg D_CAR_PC07_mes10514]
-[s][vp 1 0 0 17514 0 0]A sua parece uma arma divertida, Caveira. Que tal[n]trocar de vez em quando?[n][f 1 6 65535][e]
+[s][vp 1 0 0 17514 0 0]A sua parece uma arma divertida, Skull. Que tal[n]trocar de vez em quando?[n][f 1 6 65535][e]
 
 [msg D_CAR_PC07_mes10515]
 [s][vp 1 0 0 17515 0 0]O chicote parece difícil de[n]usar. Você tem alguma sugestão?[n][f 1 6 65535][e]
@@ -13142,10 +13142,10 @@
 [s][vp 1 0 0 17516 0 0]Se você tiver problemas para relaxar,[n]eu recomendo[n]chá de ervas.[n][f 1 6 65535][e]
 
 [msg D_CAR_PC07_mes10517]
-[s][vp 1 0 0 17517 0 0]Rainha, você parece[n]muito diferente aqui do que no[n]mundo real.[n][f 1 6 65535][e]
+[s][vp 1 0 0 17517 0 0]Queen, você parece[n]muito diferente aqui do que no[n]mundo real.[n][f 1 6 65535][e]
 
 [msg D_CAR_PC07_mes10518]
-[s][vp 1 0 0 17518 0 0]Rainha, sua máscara parece[n]ferro. Não é pesado?[n][f 1 6 65535][e]
+[s][vp 1 0 0 17518 0 0]Queen, sua máscara parece[n]ferro. Não é pesado?[n][f 1 6 65535][e]
 
 [msg FLD_PTD_MSG_BLANK_D_PC07_3]
 [s]Eu me pergunto o que a Oracle[n]vê com seus óculos...[n][f 1 6 65535][e]
@@ -13967,7 +13967,7 @@
 [s][vp 1 0 0 20518 0 0]Espadas não são fáceis de manejar.[n][f 1 6 65535][e]
 
 [msg D_CAR_PC10_mes10519]
-[s][vp 1 0 0 20519 0 0]Eu estava pensando em incorporar algumas[n]técnicas de chicotadas do Pantera em[n]meu exercício de fita.[n][f 1 6 65535][e]
+[s][vp 1 0 0 20519 0 0]Eu estava pensando em incorporar algumas[n]técnicas de chicotadas do Panther em[n]meu exercício de fita.[n][f 1 6 65535][e]
 
 [msg D_CAR_PC10_mes10520]
 [s][vp 1 0 0 20520 0 0]Está bem quente aqui, para dizer a[n]verdade. É porque estamos no subsolo?[n][f 1 6 65535][e]

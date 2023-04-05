@@ -70,7 +70,7 @@
 [s][bup 0 2 5 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7047 65535 0]Não parece que podemos continuar a partir daqui...[n][w][e]
 
 [msg mini_EV_e200_140_LOCK_me]
-[s]Primeiro eu tenho que alcançar[n]Pantera...[n][w][e]
+[s]Primeiro eu tenho que alcançar[n]Panther...[n][w][e]
 
 [msg mini_EV_e200_140_LOCK_me_2 [Ann]]
 [s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6058 65535 0]Por que não nos reunimos com[n]Skull antes de fazermos isso?[n][w][e]

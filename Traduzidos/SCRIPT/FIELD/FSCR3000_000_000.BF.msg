@@ -406,7 +406,7 @@
 
 [sel MSG_BED_SHEET_SEL top]
 [s]Coloque os lençóis[e]
-[s]Declínio[e]
+[s]Recusar[e]
 
 [msg BED_CHECK_0410_EV_mes01]
 [s]Talvez eu ignore o[n]diário e vá para a cama...[n][w][e]

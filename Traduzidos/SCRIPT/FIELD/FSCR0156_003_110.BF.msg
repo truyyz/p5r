@@ -9,7 +9,7 @@
 [s][bup 0 7 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 3181 65535 0]Tudo está bem. Meu pai é[n]culpado de crimes hediondos...[n]É por isso que devemos detê-lo.[n][w][e]
 
 [msg D05_02_e341_023_mes04 [Makoto]]
-[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ainda precisamos descobrir como[n]passar desse ponto.[n]Alguma ideia, Oráculo?[n][w][e]
+[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ainda precisamos descobrir como[n]passar desse ponto.[n]Alguma ideia, Oracle?[n][w][e]
 
 [msg D05_02_e341_023_mes05 [Futaba]]
 [s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9098 65535 0]Se não for uma fechadura normal[n]ou biométrica, talvez seja autenticação[n]rank.[n][w][e]

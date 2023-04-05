@@ -24,7 +24,7 @@
 [s]Tudo bem, você venceu.[e]
 [s]Não posso acomodar seus pedidos.[e]
 [s]Chiama Gilda dei Ladri ([var 5] restanti).[e]
-[s][clr 2]É a sua vez, Pantera.[clr 27][e]
+[s][clr 2]É a sua vez, Panther.[clr 27][e]
 
 [msg TalkMsg_EN_DECLINE_00]
 [s]Pecados de sinceridade. Eu não vou[n]soltar esta ovelhinha até que[n]o Pai queira.[n][w][e]

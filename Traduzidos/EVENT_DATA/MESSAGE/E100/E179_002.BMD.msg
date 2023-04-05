@@ -24,7 +24,7 @@
 [s][bup 0 105 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]"Talvez"?[n]...Não me trate como um idiota.[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Sae]]
-[s][bup 0 105 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Concordar. Vamos tomá-lo como[n]estabelecido. Vamos continuar.[n][f 1 3 65535][w][e]
+[s][bup 0 105 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Concordo. Vamos tomá-lo como[n]estabelecido. Vamos continuar.[n][f 1 3 65535][w][e]
 [s][bup 0 105 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]O interrogatório não acabou,[n]no entanto. Se você está inventando tudo,[n]as inconsistências provarão isso.[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Sae]]

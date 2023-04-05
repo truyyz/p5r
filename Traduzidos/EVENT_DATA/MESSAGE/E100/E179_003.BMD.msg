@@ -5,7 +5,7 @@
 
 [msg MSG_001_0_0 [Sae]]
 [s][bup 0 105 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]É verdade que Madarame era um[n]criminoso imperdoável, merecedor[n]do desprezo que o oprimia.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Ele era um adulto que aumentou[n]sua própria fama e fortuna às custas[n]do sustento de seus filhos...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Ele era um adulto que aumentou[n]sua própria fama e fortuna às custas[n]do sustento de seus pupilos...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Mas como você descobriu em[n]tão pouco tempo crimes que[n]estiveram escondidos por tanto tempo?[n][f 1 3 65535][w][e]
 
 [sel SEL_002_0_0 top]
@@ -39,5 +39,5 @@
 
 [msg MSG_009_0_0 [Sae]]
 [s][bup 0 105 2 65535 0][vp 1 0 0 17 0 0]Tsk...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Concordar. Continue me contando[n]sobre o caso de Madarame.[n]Seja breve e diga-me a verdade.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Concordo Continue me contando[n]sobre o caso de Madarame.[n]Seja breve e diga-me a verdade.[n][f 1 3 65535][w][e]
 

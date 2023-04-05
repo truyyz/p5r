@@ -12,7 +12,7 @@
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]É por isso que não podemos ter[n]Palácios e nossas Sombras não[n]existem nos Palácios de outras pessoas.[n][w][e]
 
 [msg AT_D_BF_D03_010_mes05 [Ryuji]]
-[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ah, mas no Palácio Kamoshida[n]nós vimos a Sombra da Pantera.[n][w][e]
+[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ah, mas no Palácio Kamoshida[n]nós vimos a Sombra da Panther.[n][w][e]
 
 [msg AT_D_BF_D03_010_mes06 [Ann]]
 [s][bup 0 4 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6029 65535 0]Ei, essa coisa NÃO era minha![n][w][e]

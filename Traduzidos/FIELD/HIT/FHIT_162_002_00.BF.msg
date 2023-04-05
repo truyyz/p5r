@@ -126,7 +126,7 @@
 
 [msg D10_02_posterSession_3rd [Ryuji]]
 [s][bup 0 2 3 65535 0][vp 8 2 1 7085 65535 0]......[n][w][e]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ei Pantera, isso soa um sino para você?[n][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ei Panther, isso soa um sino para você?[n][w][e]
 
 [msg D10_02_posterSession_3rd_2 [Ann]]
 [s][bup 0 4 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Nao nem um pouco.[n][w][e]

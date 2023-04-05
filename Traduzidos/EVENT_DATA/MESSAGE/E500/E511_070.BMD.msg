@@ -60,11 +60,11 @@
 [s][bup 0 208 501 65535 0][f 4 10 65535 0 0][vp 8 0 0 17 7 0]Bom dia Mona.[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Tipo musculoso]]
-[s][bup 0 3 801 65535 0][f 4 10 65535 0 0][vp 8 0 0 18 6 0]'Bom dia![n][f 1 3 65535][w][e]
+[s][bup 0 3 801 65535 0][f 4 10 65535 0 0][vp 8 0 0 18 6 0]Bom dia![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Ainda há osechi suficiente[n]para mim também?[n][f 1 3 65535][w][e]
 
 [sel SEL_020_0_0 top]
-[s]Morgan?[e]
+[s]Morgana?[e]
 [s]Não me diga isso...[e]
 
 [msg MSG_021_0_0 [Morgana]]

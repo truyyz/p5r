@@ -41,7 +41,7 @@
 [s][bup 0 8 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Não, mas...[n][f 1 3 65535][w][e]
 
 [msg MSG_025_0_0 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Concordar. Então[n]vamos ver como ele se encaixa em você.[n][f 1 3 65535][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Concordo Então[n]vamos ver como ele se encaixa em você.[n][f 1 3 65535][w][e]
 
 [msg MSG_026_0_0 [Futaba]]
 [s][bup 0 8 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]A-A-Agora?!?[n][f 1 3 65535][w][e]
