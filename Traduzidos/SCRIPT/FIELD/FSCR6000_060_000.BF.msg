@@ -25,7 +25,7 @@
 
 [msg MSG_003_0_0 [Futaba]]
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Eu não vou me deixar ser destruído por alguém[n]como ele![n][w][e]
-[s][vp 1 0 0 0 0 0][f 4 10 65535 0 0]Vamos, Jokers![n][w][e]
+[s][vp 1 0 0 0 0 0][f 4 10 65535 0 0]Vamos, Joker![n][w][e]
 
 [msg MSG_004_0_0 [Sombra de Isshiki]]
 [s][vp 8 2 1 46959 65535 0]Wakaba era inteligente e esperto.[n]Eu sou um fracasso. É compreensível[n]que acabou assim.[n][w][e]

@@ -5,6 +5,6 @@
 [s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]O presidente da[n]rede de TV amante de slots deve estar aqui.[n]Vamos vasculhar a área e procurá-lo.[n][w][e]
 
 [msg D159_06_L_01_mes01 [Futaba]]
-[s][bup 0 8 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9158 65535 0]Espere, Jokers![n][w][e]
+[s][bup 0 8 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9158 65535 0]Espere, Joker![n][w][e]
 [s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Aqui está o próximo alvo.[n]Vamos obter a carta de[n]recomendação antes de prosseguir.[n][w][e]
 

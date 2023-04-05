@@ -300,7 +300,7 @@
 [s]Sem nada.[e]
 
 [msg MSG_C10_SHOP_00_00 [Chihaya]]
-[s][bup 0 113 0 65535 0][f 4 10 65535 0 0][f 4 23 1 210 14 10 13 10][vp 8 2 1 0 65535 0]Concordar. Sente-se.[n][w][e]
+[s][bup 0 113 0 65535 0][f 4 10 65535 0 0][f 4 23 1 210 14 10 13 10][vp 8 2 1 0 65535 0]Concordo. Sente-se.[n][w][e]
 
 [msg MSG_C10_SHOP_01_00 [Chihaya]]
 [s][bup 0 113 0 65535 0][f 4 10 65535 0 0][f 4 23 1 210 14 10 13 10][vp 8 2 1 10089 65535 0]Que tipo de leitura você quer?[n][w][e]
@@ -453,7 +453,7 @@
 [sel SEL_COOP_CHECK top]
 [s]Passe um tempo com ela[e]
 [s]Verifique o vínculo com Chihaya[e]
-[s]Declínio[e]
+[s]Recusar[e]
 
 [msg MSG_C10_YES_01_00 [Chihaya]]
 [s][bup 0 113 0 65535 0][f 4 10 65535 0 0][f 4 23 1 210 14 10 13 10][vp 8 2 1 10120 65535 0]Oh, eu estava prestes a fazer uma leitura[n]um cliente. Por favor[n]fique e assista...[n][w][e]

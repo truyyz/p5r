@@ -23,5 +23,5 @@
 [s][bup 0 105 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Você trouxe minha irmã para[n]me irritar, hein?[n]Sua desonestidade não conhece limites.[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Sae]]
-[s][bup 0 105 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Concordar. Vou ouvir tudo[n]você tem a dizer, antes de avaliar a[n]veracidade de suas declarações.[n][f 1 3 65535][w][e]
+[s][bup 0 105 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Concordo Vou ouvir tudo[n]você tem a dizer, antes de avaliar a[n]veracidade de suas declarações.[n][f 1 3 65535][w][e]
 

@@ -21,7 +21,7 @@
 [msg MSG_007_0_0 [Takemi]]
 [s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 2 0 14004 65535 0]Olá, Takemi[n]clínica de medicina interna. Como[n]posso ajudá-lo?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Uma emergência, você diz? Mas[n]nós não somos um hospital.[n][f 1 3 65535][w][e]
-[s][bup 0 108 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 6 0 38 5 100]...Além disso, o principal[n]é Tae Takemi.[n][f 1 3 65535][w][e]
+[s][bup 0 108 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 6 0 38 5 100]...Além disso, a médica chefe aqui[n]é Tae Takemi.[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Takemi]]
 [s][bup 0 108 4 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ah...?[n][f 1 3 65535][w][e]

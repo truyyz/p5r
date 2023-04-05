@@ -91,5 +91,5 @@
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6117 65535 0]Feito! Finalmente nós[n]empurramos para dentro da praça![n][w][e]
 
 [msg MSG_e296_523_007 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Perfeito. Agora ele não tem como escapar. Vamos,[n]Jokers![n][w][e]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Perfeito. Agora ele não tem como escapar. Vamos,[n]Joker![n][w][e]
 

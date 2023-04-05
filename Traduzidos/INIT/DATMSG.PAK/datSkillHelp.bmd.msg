@@ -869,7 +869,7 @@
 [s]VAZIO[n][e]
 
 [msg skill_122]
-[s]O dano do próximo[n]ataque físico[n]de seus aliados mais que dobrou.[n][e]
+[s]O dano do próximo[n]ataque físico[n]de seus aliados dobrou.[n][e]
 
 [msg skill_123]
 [s]Dano físico médio[n]a todos os inimigos.[n]Alta chance de crítico.[n][e]
@@ -1019,10 +1019,10 @@
 [s]VAZIO[n][e]
 
 [msg skill_154]
-[s]Aumenta o ATK de todos os aliados por 3 turnos.[n][e]
+[s]Aumenta o ATK de todos[n]os aliados por 3 turnos.[n][e]
 
 [msg skill_155]
-[s]Aumenta a defesa de todos os aliados por 3 turnos.[n][e]
+[s]Aumenta a defesa de todos[n]os aliados por 3 turnos.[n][e]
 
 [msg skill_156]
 [s]Aumenta a Evasão/Precisão[n]de todos[n]aliados por 3 turnos.[n][e]
@@ -1079,10 +1079,10 @@
 [s]VAZIO[n][e]
 
 [msg skill_168]
-[s]Dano do próximo[n]dano mais que[n]dobrado.[n][e]
+[s]Dano do próximo[n]dano[n]dobrado.[n][e]
 
 [msg skill_169]
-[s]O dano do próximo[n]ataque mágico mais que[n]dobrou.[n][e]
+[s]O dano do próximo[n]ataque mágico[n]dobra.[n][e]
 
 [msg skill_16A]
 [s]VAZIO[n][e]
@@ -1292,10 +1292,10 @@
 [s]Concede a habilidade de ver[n]as afinidades[n]de um inimigo.[n][e]
 
 [msg skill_1AF]
-[s]Aumenta o ATK de todos os aliados por 3 turnos.[n][e]
+[s]Aumenta o ATK de todos[n]os aliados por 3 turnos.[n][e]
 
 [msg skill_1B0]
-[s]Aumenta a defesa de todos os aliados por 3 turnos.[n][e]
+[s]Aumenta a defesa de todos[n]os aliados por 3 turnos.[n][e]
 
 [msg skill_1B1]
 [s]Aumenta a Evasão/Precisão[n]de todos[n]aliados por 3 turnos.[n][e]
@@ -1304,7 +1304,7 @@
 [s]Aumenta ATK/Def/[n]Precisão/Evasão[n]de todos os aliados.[n][e]
 
 [msg skill_1B3]
-[s]O dano do próximo[n]ataque[n]de todos os aliados mais que dobrou.[n][e]
+[s]O dano do próximo[n]ataque[n]de todos os aliados dobra.[n][e]
 
 [msg skill_1B4]
 [s]Restaura 50%[n]do HP dos aliados.[n][e]

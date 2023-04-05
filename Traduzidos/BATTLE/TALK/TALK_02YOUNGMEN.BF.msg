@@ -1307,7 +1307,7 @@
 [s]É absolutamente impossível.[n]Pare de mentir para si mesmo[n]por uma questão de conveniência.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_15_R_12]
-[s]Entendo. Você foi criado por[n]Jokers... Pobre criatura.[n][w][e]
+[s]Entendo. Você foi criado por[n]Joker... Pobre criatura.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_15_R_13]
 [s]Eu exagerei. Eu não queria criar[n]seus pais.[n][w][e]
@@ -2210,31 +2210,31 @@
 [s]Dê-me o seu poder.[e]
 [s]Dinheiro fora.[e]
 [s]Eu quero um item.[e]
-[s]Pantera, cuide disso.[e]
+[s]Panther, cuide disso.[e]
 
 [sel Nego_Surrender_sel_01 top]
 [s][clr 2]Junte-se à minha causa.[clr 27][e]
 [s]Me dê algum dinheiro.[e]
 [s]Eu quero um item.[e]
-[s]Pantera, cuide disso.[e]
+[s]Panther, cuide disso.[e]
 
 [sel Nego_Surrender_sel_02 top]
 [s]Dê-me o seu poder.[e]
 [s][clr 2]Dinheiro fora.[clr 27][e]
 [s]Eu quero um item.[e]
-[s]Pantera, cuide disso.[e]
+[s]Panther, cuide disso.[e]
 
 [sel Nego_Surrender_sel_03 top]
 [s]Dê-me o seu poder.[e]
 [s]Me dê algum dinheiro.[e]
 [s][clr 2]Mercadoria fora.[clr 27][e]
-[s]Pantera, cuide disso.[e]
+[s]Panther, cuide disso.[e]
 
 [sel Nego_Surrender_sel_04 top]
 [s]Dê-me o seu poder.[e]
 [s]Dinheiro fora.[e]
 [s][clr 2]Dê-me o que você esconde.[clr 27][e]
-[s]Pantera, cuide disso.[e]
+[s]Panther, cuide disso.[e]
 
 [sel Nego_Payfor_sel top]
 [s]Estou dentro.[e]
@@ -2244,7 +2244,7 @@
 [s]Envie para mim.[e]
 [s]Eu quero algum dinheiro.[e]
 [s]Dê-me algo útil.[e]
-[s]Pantera, cuide disso.[e]
+[s]Panther, cuide disso.[e]
 
 [sel TalkSel_Greet_Possesed_B top]
 [s]Tudo bem, tudo bem.[e]

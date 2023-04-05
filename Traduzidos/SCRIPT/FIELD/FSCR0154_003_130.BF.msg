@@ -8,8 +8,8 @@
 [s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 3 0 0]Demorou um pouco, mas[n]conseguimos abri-lo.[n][w][e]
 
 [sel e259_301_selA top]
-[s]Ótimo trabalho, Rainha.[e]
-[s]Muito bem, Caveira e Pantera.[e]
+[s]Ótimo trabalho, Queen.[e]
+[s]Muito bem, Skull e Panther.[e]
 [s]Belo trabalho em equipe.[e]
 
 [msg e259_301_selA_0_mes01 [Makoto]]

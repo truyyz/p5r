@@ -326,12 +326,12 @@
 [sel SEL_COOP_CHECK top]
 [s]Passe um tempo com ela[e]
 [s]Verifique o link com [f 4 31 10 1][e]
-[s]Declínio[e]
+[s]Recusar[e]
 
 [sel SEL_COOP_CHECK_SMR top]
 [s]Passe um tempo com ela[e]
 [s]Verifique o link com [f 4 31 10 1][e]
-[s]Declínio[e]
+[s]Recusar[e]
 
 [sel SEL_COOP_CHECK_SMR2 top]
 [s]Passe um tempo com ela[e]

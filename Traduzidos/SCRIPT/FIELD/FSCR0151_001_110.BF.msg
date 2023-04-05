@@ -6,7 +6,7 @@
 [s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7045 65535 0]Parece que eles ainda não descobriram essa[n]entrada.[n][w][e]
 
 [msg D01_03_e161_013_mes02 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Joker, Caveira... vocês estão prontos?[n]Vamos lá![n][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Joker, Skull... vocês estão prontos?[n]Vamos lá![n][w][e]
 
 [msg D01_03_e160_601_mes01 [Ann]]
 [s][bup 0 4 0 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]É o mesmo lugar de antes...![n][w][e]

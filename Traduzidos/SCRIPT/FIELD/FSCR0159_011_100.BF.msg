@@ -49,7 +49,7 @@
 
 [msg D07_02_e411_070_mes05 [Makoto]]
 [s][bup 0 6 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2195 65535 0]Espere um minuto, agora que penso nisso...[n]A sala de máquinas.[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Lembra daquela fumaça que notamos antes, Caveira?[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Lembra daquela fumaça que notamos antes, Skull?[n][w][e]
 
 [msg D07_02_e411_070_mes06 [Ryuji]]
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ah sim... Onde foi?[n][w][e]

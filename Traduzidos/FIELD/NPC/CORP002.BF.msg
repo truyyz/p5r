@@ -436,12 +436,12 @@
 [sel SEL_COOP_CHECK top]
 [s]sair com ela[e]
 [s]Verifique o vínculo com Makoto[e]
-[s]Declínio[e]
+[s]Recusar[e]
 
 [sel SEL_COOP_CHECK_NOT_RANKU top]
 [s]sair com ela[e]
 [s]Verifique o vínculo com Makoto[e]
-[s]Declínio[e]
+[s]Recusar[e]
 
 [msg MSG_C02_YES_01_00 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][f 4 23 1 202 3 10 0 10][vp 8 2 1 2053 65535 0]Excelente. Vamos ver depois que mudarmos.[n][w][e]
@@ -513,7 +513,7 @@
 [s]Ampliamos nossos horizontes.[e]
 
 [msg MSG_C02_SPOT_00_10 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][f 4 23 1 202 3 10 0 10][vp 8 2 1 2035 65535 0]Concordar. Para onde queremos[n]ir?[n][w][e]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][f 4 23 1 202 3 10 0 10][vp 8 2 1 2035 65535 0]Concordo. Para onde queremos[n]ir?[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu gostaria de um lugar[n]inspirador, talvez um lugar[n]em que nunca estive antes...[n][w][e]
 
 [msg MSG_C02_MYROOM_00_00 [Makoto]]
@@ -545,7 +545,7 @@
 [sel SEL_COOP_CHECK_REV top]
 [s]sair com ela[e]
 [s]Verifique o vínculo com Makoto[e]
-[s]Declínio[e]
+[s]Recusar[e]
 
 [msg MSG_C02_YES_10_00_REV [Makoto]]
 [s][bup 0 6 1 65535 0][f 4 10 65535 0 0][f 4 23 1 202 3 10 0 10][vp 8 2 1 2031 65535 0]Obrigada. Bem, vamos então.[n][w][e]

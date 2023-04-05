@@ -11,7 +11,7 @@
 [s]Melhor adiar.[e]
 
 [msg D07_02_e412_044_selA_0_m [Yusuke]]
-[s][bup 0 5 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4083 65535 0]Concordar. Vamos pular![n][w][e]
+[s][bup 0 5 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4083 65535 0]Concordo. Vamos pular![n][w][e]
 
 [msg D07_02_e412_044_selA_1_m [Yusuke]]
 [s][bup 0 5 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4026 65535 0]Já. Vamos tentar[n]preparar melhor primeiro.[n][w][e]

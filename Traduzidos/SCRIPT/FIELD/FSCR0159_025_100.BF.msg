@@ -11,7 +11,7 @@
 [s]......[n][w][e]
 
 [msg D07_02_e410_010_mes05 [Yusuke]]
-[s]Oráculo, depois de ponderar...[n][w][e]
+[s]Oracle, depois de ponderar...[n][w][e]
 
 [msg D07_02_e410_010_mes06 [Haru]]
 [s][vp 8 2 1 3178 65535 0]Acho que ele já ouviu você da primeira vez.[n]Poderíamos nos concentrar no que fazer?[n][w][e]
@@ -60,7 +60,7 @@
 [s]Então, os ratinhos gostaram da refeição?[n][w][e]
 
 [msg D07_02_e410_015_mes14 [Ryuji]]
-[s][vp 8 2 1 7028 65535 0]Oooh... Obrigado, Oráculo. Eu não sei por quanto[n]tempo eu teria conseguido resistir trancado lá.[n][w][e]
+[s][vp 8 2 1 7028 65535 0]Oooh... Obrigado, Oracle. Eu não sei por quanto[n]tempo eu teria conseguido resistir trancado lá.[n][w][e]
 [s]Mas, diabos, quem teria pensado[n]que alguém poderia ser hipnotizado[n]por queijo? Eu estava fora de mim...[n][w][e]
 
 [msg D07_02_e410_015_mes15 [Yusuke]]

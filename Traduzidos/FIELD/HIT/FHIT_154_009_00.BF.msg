@@ -20,7 +20,7 @@
 [s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ugh, parece álgebra![n]Estou começando a me sentir confuso...[n][w][e]
 
 [msg mini_EV_e259_504_02_mes0_3 [Morgana]]
-[s][bup 0 3 3 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Pantera... É apenas uma[n]simples adição...[n][w][e]
+[s][bup 0 3 3 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Panther... É apenas uma[n]simples adição...[n][w][e]
 
 [msg mini_EV_e259_504_02_mes0_4 [Yusuke]]
 [s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4023 65535 0]Mais uma nota, hein?[n]Diz [clr 2]D=G L=U+G[clr 27].[n][w][e]
@@ -130,7 +130,7 @@
 [s]Vamos dar outra olhada.[e]
 
 [msg D03_09_FIRST_HALF_STOPPE_3 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Concordar. Podemos voltar[n]mais tarde, se necessário.[n][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Concordo. Podemos voltar[n]mais tarde, se necessário.[n][w][e]
 
 [msg D03_09_FIRST_HALF_STOPPE_4 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]A segurança pode ser apertada aqui, mas deve[n]haver algo alimentando essas barras.[n][w][e]

@@ -48,7 +48,7 @@
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Hum, fugir não é algo para se orgulhar, cara.[n][w][e]
 
 [msg D01_03_BF_01_selA_0_mes0_3 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Cala a boca, Caveira. Às vezes é necessário[n]sobreviver.[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Cala a boca, Skull. Às vezes é necessário[n]sobreviver.[n][w][e]
 
 [msg D01_03_BF_01_selA_0_mes0_4 [Ryuji]]
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Claro, claro.[n][w][e]
@@ -71,7 +71,7 @@
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Provavelmente aconteceria de novo se eu estivesse[n]sozinha, Mona. Para sua sorte, estamos aqui.[n][w][e]
 
 [msg D01_03_BF_01_selA_2_mes0_3 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Você disse Caveira?[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Você disse Skull?[n][w][e]
 
 [msg D01_03_BF_01_mes07 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]De qualquer forma, ter[n]ajuda extra não vai doer. Mas[n]ainda estou um pouco nervoso...[n][w][e]

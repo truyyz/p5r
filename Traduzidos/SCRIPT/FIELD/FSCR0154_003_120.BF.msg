@@ -33,7 +33,7 @@
 [s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Estou errado ou este mapa tem mais[n]informações do que o nosso?[n][w][e]
 
 [msg e259_231_mes04 [Morgana]]
-[s][bup 0 3 1 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1045 65535 0]Ah, você está certo![n]Muito bem, Rainha![n][w][e]
+[s][bup 0 3 1 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1045 65535 0]Ah, você está certo![n]Muito bem, Queen![n][w][e]
 
 [msg e259_231_mes05 [Ann]]
 [s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Talvez possamos entender a estrutura[n]do banco nos andares inferiores.[n][w][e]
@@ -74,7 +74,7 @@
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]O que nós fazemos? Nós os atacamos e pegamos as[n]chaves?[n][w][e]
 
 [msg e259_210_mes07 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1155 65535 0]Você está falando sério, Caveira? Olhe bem para[n]eles. Eles não são Sombras comuns.[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1155 65535 0]Você está falando sério, Skull? Olhe bem para[n]eles. Eles não são Sombras comuns.[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Se eles devem proteger[n]chaves tão importantes, eles devem[n]ser extremamente fortes.[n][w][e]
 
 [msg e259_210_mes08 [Ann]]

@@ -374,7 +374,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Você vai ajudar[n]Yoshida?[n][w][e]
 
 [sel SEL_COOP_CHECK top]
-[s]Ajudem-no[e]
+[s]AAjudá-lo[e]
 [s]Verifique o vínculo com Yoshida[e]
 [s]Declínio[e]
 

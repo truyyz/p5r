@@ -116,7 +116,7 @@
 [s][bup 0 2 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Cara, nós não trabalhamos aqui.[n][w][e]
 
 [msg D05_02_kakari_battle08 [Makoto]]
-[s][bup 0 6 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2128 65535 0]Caveira, importa-se de focar?[n][w][e]
+[s][bup 0 6 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2128 65535 0]Skull, importa-se de focar?[n][w][e]
 [s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Com licença, devemos falar com o[n]gerente principal...[n][w][e]
 
 [msg D05_02_kakari_battle09 [Robô Chefe de Escritório]]
@@ -191,7 +191,7 @@
 [s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6024 65535 0]Pare com isso. O único que vai[n]desculpar é o seu[n]pai, ok?[n][w][e]
 
 [msg D05_02_e341_033_mes05 [Yusuke]]
-[s][bup 0 5 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Pantera tem razão. Vamos[n]em busca da próxima carta.[n][w][e]
+[s][bup 0 5 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Panther tem razão. Vamos[n]em busca da próxima carta.[n][w][e]
 
 [msg D05_02_e341_033_mes06 [Futaba]]
 [s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Isso varia de[n]diretores de seção para cima. Precisamos de[n]outro cartão de identificação.[n][w][e]

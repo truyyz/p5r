@@ -535,9 +535,9 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]O que você vai fazer agora? Você concorda em[n]ajudar o chefe?[n][w][e]
 
 [sel SEL_COOP_CHECK top]
-[s]Ajudem-no[e]
+[s]Ajudá-lo[e]
 [s]Verifique o vínculo com a Sojiro[e]
-[s]Declínio[e]
+[s]Recusar[e]
 
 [msg MSG_C05_YES_01_00 [Sojiro]]
 [s][bup 0 103 0 65535 0][f 4 23 1 205 33 10 33 10][f 4 23 1 235 31 10 30 10][f 4 10 65535 0 0][vp 8 2 1 5048 65535 0]Então você entende. Bem, largue suas coisas e[n]volte aqui.[n][w][e]

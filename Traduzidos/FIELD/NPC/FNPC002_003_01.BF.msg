@@ -266,7 +266,7 @@
 [s][vp 9 2 65535 43212 0 0]O aluno que acabou[n]transferido já será expulso[n]da escola![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_004_01_ [Estudante impiedoso]]
-[s][vp 9 2 65535 42703 0 0]Estou rindo muito dessa bobagem de Thieves[n]Phantom. Espero que não acabe aqui.[n][f 1 2 180][e]
+[s][vp 9 2 65535 42703 0 0]Estou rindo muito dessa bobagem de Phantom[n]Thieves. Espero que não acabe aqui.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_004_02_ [Estudante impiedoso]]
 [s]0[n][f 1 2 180][e]

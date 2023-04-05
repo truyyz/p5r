@@ -30,7 +30,7 @@
 [s][bup 0 4 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]O que era...?[n][w][e]
 
 [msg D02_02_e200_149_mes04 [Morgana]]
-[s][bup 0 3 1 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ele era, Pantera, uma Sombra rara que[n]às vezes habita objetos preciosos.[n]Eu os chamo de [clr 2]Demônios do Tesouro[clr 27].[n][w][e]
+[s][bup 0 3 1 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ele era, Panther, uma Sombra rara que[n]às vezes habita objetos preciosos.[n]Eu os chamo de [clr 2]Demônios do Tesouro[clr 27].[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eles são fantásticos. Eles concedem[n]muita experiência e podem ser[n]úteis também para Personas.[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]No entanto, eles são muito rápidos[n]e resistem bem[n]a ataques.[n][w][e]
 

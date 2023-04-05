@@ -225,17 +225,17 @@
 [sel SEL_COOP_CHECK top]
 [s]Jogue com ele[e]
 [s]Verifique o vínculo com Shinya[e]
-[s]Declínio[e]
+[s]Recusar[e]
 
 [sel SEL_COOP_CHECK_RANK7 top]
 [s]Dê-lhe a carta[e]
 [s]Verifique o vínculo com Shinya[e]
-[s]Declínio[e]
+[s]Recusar[e]
 
 [sel SEL_COOP_CHECK_2 top]
 [s]Passe um tempo com ele[e]
 [s]Verifique o vínculo com Shinya[e]
-[s]Declínio[e]
+[s]Recusar[e]
 
 [msg MSG_C16_YES_01_00 [Shinya]]
 [s][bup 0 110 1 0 0][f 4 10 65535 0 0][f 4 23 1 216 3 10 0 10][vp 8 2 1 17045 65535 0]Continuamos a jogar.[n][w][e]

@@ -34,7 +34,7 @@
 [s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]...Você tem razão. O objetivo é[n]o despertar do coração de[n]minha irmã.[n][w][e]
 
 [msg e380_121_mes09 [Akechi]]
-[s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Lamento perguntar, mas[n]ainda posso tirar proveito de[n]sua habilidade, Oráculo?[n][w][e]
+[s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Lamento perguntar, mas[n]ainda posso tirar proveito de[n]sua habilidade, Oracle?[n][w][e]
 
 [msg e380_121_mes10 [Futaba]]
 [s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Conte com isso! Mas, ei! Para ser um noob, você[n]dá ordens demais![n][w][e]

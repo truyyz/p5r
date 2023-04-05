@@ -463,7 +463,7 @@
 [sel SEL_COOP_CHECK_RANKUP top]
 [s]sair com ela[e]
 [s]Verifique o link com Ann[e]
-[s]Declínio[e]
+[s]Recusar[e]
 
 [msg MSG_C06_YES_01_00 [Ann]]
 [s][bup 0 4 1 65535 0][f 4 23 1 226 14 10 13 10][f 4 23 1 206 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 6060 65535 0]OK, vamos para o jantar.[n][w][e]
@@ -594,7 +594,7 @@
 [sel SEL_COOP_CHECK_REV top]
 [s]sair com ela[e]
 [s]Verifique a conexão com Ann[e]
-[s]Declínio[e]
+[s]Recusar[e]
 
 [msg MSG_C06_YES_10_00_REV [Ann]]
 [s][bup 0 4 0 65535 0][f 4 23 1 226 14 10 13 10][f 4 23 1 206 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 6061 65535 0]Obrigada. Então, você pode vir comigo?[n][w][e]

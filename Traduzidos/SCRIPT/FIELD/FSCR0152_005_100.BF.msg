@@ -6,7 +6,7 @@
 [s]Mais um segundo.[e]
 
 [msg D01_04_e165_062_selA_1_m [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1136 65535 0]Concordar. Apenas certifique-se de que todos[n]estejam prontos antes de enfrentá-lo.[n][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1136 65535 0]Concordo. Apenas certifique-se de que todos[n]estejam prontos antes de enfrentá-lo.[n][w][e]
 
 [msg D01_04_e165_062_re_mes01 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1158 65535 0]Pronto, Joker?[n][w][e]
@@ -30,5 +30,5 @@
 [s][bup 0 4 105 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Já cansei desse lugar...[n][w][e]
 
 [msg D01_04_e165_064_mes03 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Estamos quase lá... ainda falta um pouco de[n]esforço, Pantera.[n][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Estamos quase lá... ainda falta um pouco de[n]esforço, Panther.[n][w][e]
 

@@ -27,7 +27,7 @@
 [s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Para isso a gente tem que mudar a[n]sociedade, né? Toda essa porcaria[n]torna ainda mais importante![n][w][e]
 
 [msg AT_D_BF_D06_010_mes10 [Ann]]
-[s][bup 0 4 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6028 65535 0]Sabe, Caveira, às vezes eu invejo sua[n]personalidade...[n][w][e]
+[s][bup 0 4 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6028 65535 0]Sabe, Skull, às vezes eu invejo sua[n]personalidade...[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Só as vezes.[n][w][e]
 
 [msg AT_D_BF_D06_010_mes11 [Ryuji]]

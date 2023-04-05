@@ -36,7 +36,7 @@
 
 [msg e380_126_mes05 [Akechi]]
 [s][bup 0 9 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 8048 65535 0]Hahaha, só brincando. Mas[n]não faria mal ter[n]mais algumas moedas, certo?[n][w][e]
-[s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Espere aqui. Caveira, eu gostaria que você[n]viesse comigo.[n][w][e]
+[s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Espere aqui. Skull, eu gostaria que você[n]viesse comigo.[n][w][e]
 
 [msg e380_126_mes06 [Ryuji]]
 [s][bup 0 2 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Por que eu?[n][w][e]
@@ -58,7 +58,7 @@
 
 [msg e380_126_mes12 [Akechi]]
 [s][bup 0 9 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Pode não ser o suficiente ainda.[n][w][e]
-[s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Espere aqui. Caveira, eu gostaria que você[n]viesse comigo.[n][w][e]
+[s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Espere aqui. Skull, eu gostaria que você[n]viesse comigo.[n][w][e]
 
 [msg e380_126_mes13 [Ryuji]]
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7174 65535 0]Por que eu?[n][w][e]
@@ -77,7 +77,7 @@
 
 [msg e380_126_mes18 [Akechi]]
 [s][bup 0 9 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Mas seria bom ter um pouco mais.[n][w][e]
-[s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Espere aqui. Caveira, eu gostaria que você[n]viesse comigo.[n][w][e]
+[s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Espere aqui. Skull, eu gostaria que você[n]viesse comigo.[n][w][e]
 
 [msg e380_126_mes19 [Ryuji]]
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7174 65535 0]Por que eu?[n][w][e]

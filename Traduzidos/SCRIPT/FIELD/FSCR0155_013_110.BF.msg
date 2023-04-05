@@ -19,7 +19,7 @@
 [s]...Bem, se você quer alguma coisa,[n]você vai ter que me pegar primeiro.[n][w][e]
 
 [msg MSG_e296_520_006 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6029 65535 0]Espere...! Ughhh, você[n]o fez escapar, Caveira![n][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6029 65535 0]Espere...! Ughhh, você[n]o fez escapar, Skull![n][w][e]
 
 [msg MSG_e296_520_007 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]O?!?[n][w][e]

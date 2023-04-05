@@ -18,5 +18,5 @@
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7111 65535 0]Isso muda? Sempre podemos acertar[n]primeiro e pensar nisso depois.[n][w][e]
 
 [msg MSG_D04_155_04_000_005 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Não somos todos simplórios como você, Caveira.[n]Alguns de nós sabemos o valor da cautela![n][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Não somos todos simplórios como você, Skull.[n]Alguns de nós sabemos o valor da cautela![n][w][e]
 

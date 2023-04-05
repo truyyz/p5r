@@ -223,7 +223,7 @@
 [sel SEL_COOP_CHECK top]
 [s]Passe um tempo com ela[e]
 [s]Verifique o link com Ohya[e]
-[s]Declínio[e]
+[s]Recusar[e]
 
 [msg MSG_C15_YES_01_00 [Ohya]]
 [s][bup 0 107 0 65535 0][f 4 10 65535 0 0][f 4 23 1 215 14 10 13 10][vp 8 2 1 16002 65535 0]A sério? Pela maneira como você diz, você deve[n]ter informações interessantes...[n][w][e]

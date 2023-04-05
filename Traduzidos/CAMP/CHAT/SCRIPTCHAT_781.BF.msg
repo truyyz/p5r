@@ -9,12 +9,12 @@
 
 [sel SEL_111_0_0 top]
 [s]Aceitar[e]
-[s]Declínio[e]
+[s]Recusar[e]
 [s]Responder mais tarde[e]
 
 [sel SEL_111_1_0 top]
 [s]Vá agora[e]
-[s]Declínio[e]
+[s]Recusar[e]
 [s]Responder mais tarde[e]
 
 [sel SEL_200_0_0 top]

@@ -192,7 +192,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]As lembranças são diferentes. Os outros[n]Palácios existem por causa de uma[n]única pessoa, esta pertence ao povo.[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Com isso em mente, são necessários mais do que[n]alguns invasores para alterar[n]seu nível de alerta.[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Precisamos fazer algo tão sério[n]que sejamos considerados inimigos[n]por toda a população.[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Portanto, tome cuidado, Caveira, certo?[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Portanto, tome cuidado, Skull, certo?[n][w][e]
 
 [msg MSG_FIRST_02_02_mes03 [Ryuji]]
 [s][bup 0 2 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Mas cale a boca![n][w][e]

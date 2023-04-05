@@ -381,7 +381,7 @@
 
 [msg SAFE_MES_HUTABA_16 [Futaba]]
 [s][bup 0 8 102 0 0][f 4 10 65535 0 0][vp 8 2 1 9196 65535 0]Quase chegamos ao Dr. Maruki![n][w][e]
-[s][f 4 10 65535 0 0]Vamos, Jokers! Eu estarei de volta o[n]todo o caminho![n][w][e]
+[s][f 4 10 65535 0 0]Vamos, Joker! Eu estarei de volta o[n]todo o caminho![n][w][e]
 
 [msg SAFE_MES_HUTABA_17 [Futaba]]
 [s][bup 0 8 102 0 0][f 4 10 65535 0 0][vp 8 2 1 9158 65535 0]Vá em frente! Vamos ver o que podemos fazer[n]no tempo que nos resta.[n][w][e]

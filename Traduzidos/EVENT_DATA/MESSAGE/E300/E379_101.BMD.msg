@@ -42,7 +42,7 @@
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Só para entender,[n]quais são os seus?[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Caveira.[n][f 1 3 65535][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Skull.[n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]O meu é Fox.[n][f 1 3 65535][w][e]
@@ -73,7 +73,7 @@
 [s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]Por que não fazemos "Crow",[n]ao contrário?[n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 26 65535 0]Tudo bem, de agora em diante[n]você será o Corvo.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 26 65535 0]Tudo bem, de agora em diante[n]você será o Crow.[n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [Akechi]]
 [s][bup 0 9 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 27 65535 0]Recebido.[n][f 1 3 65535][w][e]

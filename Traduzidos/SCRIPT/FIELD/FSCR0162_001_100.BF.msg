@@ -1,6 +1,6 @@
 [msg D10_01_e484_071_mes01 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Primeiro, temos que encontrar uma maneira de[n]entrar naquela coisa enorme.[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1052 65535 0]A área que desce[n]além deste portão parece[n]suspeita para mim. Vamos, Jokers![n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1052 65535 0]A área que desce[n]além deste portão parece[n]suspeita para mim. Vamos, Joker![n][w][e]
 
 [msg D10_01_e511_331_mes_star [Akechi]]
 [s][bup 0 9 10 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 8128 65535 0]Precisamos descobrir imediatamente onde[n]Maruki está. Não quero perder[n]tempo vagando sem rumo.[n][w][e]

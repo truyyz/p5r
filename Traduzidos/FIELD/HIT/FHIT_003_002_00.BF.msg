@@ -1989,7 +1989,7 @@
 [sel SEL_COOP_CHECK top]
 [s]Peça a ela para vir[e]
 [s]Verifique o vínculo com Kawakami[e]
-[s]Declínio[e]
+[s]Recusar[e]
 
 [sel SEL_COOP_CHECK_06 top]
 [s]Quem é?[e]

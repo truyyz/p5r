@@ -54,7 +54,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1156 65535 0]É tudo graças a Mishima se[n]podemos despertar os corações dos[n]alvos nos Mementos. Agradecê-lo![n][w][e]
 
 [msg SAFETY_MES_MONA_03_01 [Morgana]]
-[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 1067 65535 0]Você quer me dizer que... minha chance[n]finalmente chegou[n]de sentar ao lado do Pantera e...?[n][w][e]
+[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 1067 65535 0]Você quer me dizer que... minha chance[n]finalmente chegou[n]de sentar ao lado do Panther e...?[n][w][e]
 
 [msg SAFETY_MES_MONA_04_01 [Morgana]]
 [s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 1 1178 65535 0]Encontrei alguns arranhões na[n]minha carroceria... Tente dirigir[n]com mais cuidado...[n][w][e]

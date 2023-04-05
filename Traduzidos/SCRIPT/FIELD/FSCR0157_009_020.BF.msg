@@ -1,6 +1,6 @@
 [msg D157_009_miniEV_03_mes01 [Ann]]
 [s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6155 65535 0]Ei, isso não é um [clr 2]terminal[clr 27]?[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Você pode nos hackear para descobrir[n]como eles trapaceiam, Oráculo?[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Você pode nos hackear para descobrir[n]como eles trapaceiam, Oracle?[n][w][e]
 
 [msg D157_009_miniEV_03_mes02 [Futaba]]
 [s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Bem... está em espera.[n][w][e]

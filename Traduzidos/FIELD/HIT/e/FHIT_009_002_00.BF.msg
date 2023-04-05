@@ -103,7 +103,7 @@
 [s]Eu deveria ir para casa...[n][w][e]
 
 [msg MSG_RETURNHOME_NORMAL_MO [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1171 65535 0]Huh? Você quer ir para casa ainda?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1171 65535 0]Huh? Você já quer ir para casa?[n][w][e]
 
 [msg MND_RETURNHOME_AJITO]
 [s]O que devo fazer...?[n][w][e]
@@ -113,7 +113,7 @@
 
 [sel SEL_RETURNHOME top]
 [s]Vamos nos encontrar com os outros.[e]
-[s]Descansamos até a noite.[e]
+[s]Vamos descansar até o anoitecer..[e]
 [s]Vamos por outro caminho.[e]
 
 [msg MSG_GOTO_AJITO_MORGANA [Morgana]]
@@ -633,7 +633,7 @@
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1044 65535 0]Ir para casa? Você se lembra do prazo, certo?[n][w][e]
 
 [sel MSG_RETURNHOME_0427_MORG_2 top]
-[s]Descansamos até a noite.[e]
+[s]Vamos descansar até o anoitecer.[e]
 [s]Vamos por outro caminho.[e]
 
 [msg MSG_RETURNHOME_0428_MORG [Morgana]]
@@ -649,7 +649,7 @@
 [s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 1 1178 65535 0]Ir para casa? Sim, talvez seja melhor...[n][w][e]
 
 [msg MSG_RETURNHOME_0501_MORG_2 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]Huh? Você quer ir para casa ainda?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]Huh? Você já quer ir para casa?[n][w][e]
 
 [msg MSG_RETURNHOME_0428_MORG_2 [Morgana]]
 [s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 1 1044 65535 0]Você está realmente indo para casa? Tenho certeza[n]que você tem suas boas razões, mas...[n][w][e]

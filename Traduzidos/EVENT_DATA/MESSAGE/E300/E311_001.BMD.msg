@@ -217,7 +217,7 @@
 [s][bup 0 4 301 65535 0][f 4 10 65535 0 0][vp 8 0 0 113 65535 0]É melhor se nos chamarmos[n]com nomes diferentes.[n][f 1 3 65535][w][e]
 
 [msg MSG_078_0_0 [Yusuke]]
-[s][bup 0 5 300 65535 0][f 4 10 65535 0 0][vp 8 0 0 114 65535 0]Joker, Caveira, Mona,[n]Pantera, Rainha...[n][f 1 3 65535][w][e]
+[s][bup 0 5 300 65535 0][f 4 10 65535 0 0][vp 8 0 0 114 65535 0]Joker, Skull, Mona,[n]Panther, Queen...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 115 65535 0]E eu sou Fox.[n][f 1 3 65535][w][e]
 
 [msg MSG_079_0_0 [Makoto]]
@@ -266,7 +266,7 @@
 [s][bup 0 8 300 65535 0][f 4 10 65535 0 0][vp 8 0 0 129 65535 0]Hum...[n][f 1 3 65535][w][e]
 
 [msg MSG_093_0_0 [Futaba]]
-[s][bup 0 8 301 65535 0][f 4 10 65535 0 0][vp 8 0 0 130 65535 0]"Oráculo". Com minhas visões, vou[n]conduzi-lo à vitória.[n][f 1 3 65535][w][e]
+[s][bup 0 8 301 65535 0][f 4 10 65535 0 0][vp 8 0 0 130 65535 0]"Oracle". Com minhas visões, vou[n]conduzi-lo à vitória.[n][f 1 3 65535][w][e]
 
 [msg MSG_094_0_0 [Ann]]
 [s][bup 0 4 301 65535 0][f 4 10 65535 0 0][vp 8 0 0 131 65535 0]Eu gosto.[n][f 1 3 65535][w][e]

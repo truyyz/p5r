@@ -260,12 +260,12 @@
 [sel SEL_COOP_CHECK top]
 [s]Passe um tempo com ele[e]
 [s]Verifique a conexão com Mishima[e]
-[s]Declínio[e]
+[s]Recusar[e]
 
 [sel SEL_COOP_CHECK_6 top]
 [s]Vá falar com ele[e]
 [s]Verifique a conexão com Mishima[e]
-[s]Declínio[e]
+[s]Recusar[e]
 
 [msg MSG_C18_YES_01_00 [Mishima]]
 [s][bup 0 111 0 65535 0][f 4 23 1 218 3 10 0 10][f 4 10 65535 0 0]Excelente! Muito melhor do que trabalhar[n]somente no Phan-Site.[n][w][e]

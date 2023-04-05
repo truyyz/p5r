@@ -62,7 +62,7 @@
 [s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4159 65535 0]Este sou eu?[n][w][e]
 
 [msg FIRST_PICTURE_CHECK_EVEN_17 [Ann]]
-[s][bup 0 4 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Raposa...[n][w][e]
+[s][bup 0 4 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Fox...[n][w][e]
 
 [msg FIRST_PICTURE_CHECK_EVEN_18 [Yusuke]]
 [s][bup 0 5 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Então Madarame me vê assim?[n][w][e]
@@ -209,7 +209,7 @@
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1185 65535 0]Fizemos tudo[n]que precisávamos. Vamos terminar aqui por hoje?[n][w][e]
 
 [msg ATD_EXIT_CANCEL_CABLE_VA [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1035 65535 0]Concordar. Vamos explorar[n]um pouco mais.[n][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1035 65535 0]Concordo. Vamos explorar[n]um pouco mais.[n][w][e]
 
 [msg D_EXIT_OK_01_PC02_mes [Ryuji]]
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7050 65535 0]OK, vamos mover.[n][w][e]

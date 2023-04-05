@@ -655,7 +655,7 @@
 [s][bup 0 4 104 65535 0][f 4 10 65535 0 0][vp 8 0 2 1121 0 4]N-Não é possível![n]O que Shiho está fazendo aqui?!?[n][f 1 3 65535][w][e]
 
 [msg ADD_TARGET_EVENT_1_3 [Morgana]]
-[s][bup 0 3 4 65535 0][f 4 10 65535 0 0][vp 8 0 2 1122 0 3]Pantera, fique calmo![n]Não é o verdadeiro![n][f 1 3 65535][w][e]
+[s][bup 0 3 4 65535 0][f 4 10 65535 0 0][vp 8 0 2 1122 0 3]Panther, fique calmo![n]Não é o verdadeiro![n][f 1 3 65535][w][e]
 
 [msg ADD_TARGET_EVENT_1_4 [Ann]]
 [s][bup 0 4 105 65535 0][f 4 10 65535 0 0][vp 8 0 2 1123 0 4]S-Sim, você está certo... É só que...[n][f 1 3 65535][w][e]
@@ -712,7 +712,7 @@
 [s][bup 0 4 102 65535 0][f 4 10 65535 0 0][vp 8 0 2 1141 0 4]Como você ousa tratar os alunos como[n]escravos... Você é apenas um verme![n]Nada além de um verme![n][f 1 3 65535][w][e]
 
 [msg REMOVE_TARGET_EVENT_3_0 [Ryuji]]
-[s][bup 0 2 107 65535 0][f 4 10 65535 0 0][vp 8 0 2 1142 0 2]Pantera, não se preocupe.[n]Nós cuidaremos disso![n][f 1 3 65535][w][e]
+[s][bup 0 2 107 65535 0][f 4 10 65535 0 0][vp 8 0 2 1142 0 2]Panther, não se preocupe.[n]Nós cuidaremos disso![n][f 1 3 65535][w][e]
 
 [msg REMOVE_TARGET_EVENT_3_1 [Morgana]]
 [s][bup 0 3 7 65535 0][f 4 10 65535 0 0][vp 8 0 2 1143 0 3]Sinto muito pelo Panther, mas...[n]nós temos que fazer isso![n][f 1 3 65535][w][e]

@@ -42,7 +42,7 @@
 [s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 1 1044 65535 0]Droga, aquele mesquinho do Shade...[n]aposto que o nariz dele[n]vai nos dar muita dor de cabeça.[n][w][e]
 
 [msg SAFETY_MES_MONA_02_01 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1134 65535 0]As habilidades analíticas da Rainha[n]são verdadeiramente notáveis...[n]Uh, quase como as minhas, claro![n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1134 65535 0]As habilidades analíticas da Queen[n]são verdadeiramente notáveis...[n]Uh, quase como as minhas, claro![n][w][e]
 
 [msg SAFETY_MES_MONA_03_01 [Morgana]]
 [s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 1 1028 65535 0]Quando voltar a ser humano, não serei mais uma[n]dessas pessoas que se deixam dominar pelo[n]dinheiro.[n][w][e]
@@ -54,7 +54,7 @@
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1052 65535 0]O elevador[n]provavelmente nos levará aos níveis[n]inferiores. Fique alerta, pessoal![n][w][e]
 
 [msg SAFETY_MES_MONA_06_01 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1158 65535 0]Teremos apenas que confiar na ideia de[n]Queen. Vamos, Jokers.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1158 65535 0]Teremos apenas que confiar na ideia de[n]Queen. Vamos, Joker.[n][w][e]
 
 [msg SAFETY_MES_MONA_07_01 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1156 65535 0]Ficar deprimido não vai resolver a[n]situação... Vamos procurar[n]algo que pode nos ajudar.[n][w][e]

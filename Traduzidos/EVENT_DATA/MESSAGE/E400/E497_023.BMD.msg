@@ -32,7 +32,7 @@
 
 [msg MSG_010_0_0 [Sumire]]
 [s][bup 0 10 100 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas vendo tudo eu precisaria[n]menos tempo para explicar. Na verdade[n]seria mais eficiente.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Desculpe insistir. Corvo-senpai,[n]meninos. Por favor,[n]assista comigo.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Desculpe insistir. Crow-senpai,[n]meninos. Por favor,[n]assista comigo.[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Yusuke]]
 [s][bup 0 5 100 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Tem certeza...?[n][f 1 3 65535][w][e]

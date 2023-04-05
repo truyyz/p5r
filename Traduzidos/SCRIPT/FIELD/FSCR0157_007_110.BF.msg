@@ -12,7 +12,7 @@
 [s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 8138 65535 0]Muito bem. Vamos[n]rapidamente.[n][w][e]
 
 [msg e380_120_selA_1_mes01 [Akechi]]
-[s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 8063 65535 0]Concordar. Os preparativos[n]são importantes.[n][w][e]
+[s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 8063 65535 0]Concordo. Os preparativos[n]são importantes.[n][w][e]
 
 [msg D06_07_e380_120_mes07 [Akechi]]
 [s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Onde você está indo? Precisamos dar uma olhada[n]naquele carro.[n][w][e]

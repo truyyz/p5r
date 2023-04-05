@@ -110,7 +110,7 @@
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 4 3 300 1][vp 8 0 0 42 65535 0]Não acredito que você[n]trata mãe e filho[n]como objetos... Você é um monstro![n][f 1 3 65535][w][e]
 
 [msg MSG_030_0_0 [Morgana]]
-[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 0 0 43 65535 0]Raposa?[n][f 1 3 65535][w][e]
+[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 0 0 43 65535 0]Fox?[n][f 1 3 65535][w][e]
 
 [msg MSG_031_0_0 [Yusuke]]
 [s][bup 0 5 100 0 0][f 4 10 65535 0 0][vp 8 0 0 44 65535 0]Ouvi dizer que você destrói[n]suas "obras de arte" quando[n]sua utilidade se esgota...[n][f 1 3 65535][w][e]

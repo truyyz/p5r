@@ -16,7 +16,7 @@
 [s][bup 0 9 812 0 0]......[n][w][e]
 
 [msg MSG_QST_079_06 [Haru]]
-[s][bup 0 7 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]corvo?[n][w][e]
+[s][bup 0 7 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Crow?[n][w][e]
 
 [msg MSG_QST_079_07 [Hisashi Ushiwata]]
 [s][vp 8 2 1 46811 65535 0]Você vai calar a boca!?![n]Brats como você deve[n]obedecer o que eles dizem![n][w][e]

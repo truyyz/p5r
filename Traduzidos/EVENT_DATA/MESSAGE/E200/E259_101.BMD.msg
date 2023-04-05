@@ -45,7 +45,7 @@
 [s][bup 0 6 103 0 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Eu gostaria que fosse algo[n]um pouco mais refinado.[n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Morgana]]
-[s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]"Rainha"... Ela é definitivamente[n]uma rainha, não acha?[n][f 1 3 65535][w][e]
+[s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]"Queen"... Ela é definitivamente[n]uma rainha, não acha?[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Ryuji]]
 [s][bup 0 2 101 0 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Encontrado![n][f 1 3 65535][w][e]
@@ -54,7 +54,7 @@
 [s][bup 0 6 102 0 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Devo dar um tapa em você?[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Morgana]]
-[s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]Pessoal, ela é claramente uma rainha.[n]"Rainha".[n][f 1 3 65535][w][e]
+[s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]Pessoal, ela é claramente uma rainha.[n]"Queen".[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Ryuji]]
 [s][bup 0 2 101 0 0][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]Encontrado![n][f 1 3 65535][w][e]
@@ -67,7 +67,7 @@
 
 [msg MSG_021_0_0 [Makoto]]
 [s][bup 0 6 101 0 0][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Queen...[n]Parece muito bom.[n][f 1 3 65535][w][e]
-[s][bup 0 6 100 0 0][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]Eu gosto disso. Vá para a Rainha.[n][f 1 3 65535][w][e]
+[s][bup 0 6 100 0 0][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]Eu gosto disso. Vamos de Queen.[n][f 1 3 65535][w][e]
 [s][bup 0 6 102 0 0][f 4 10 65535 0 0][vp 8 0 0 26 65535 0]Então, qual é a estratégia[n]para esta missão?[n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Ryuji]]
@@ -90,7 +90,7 @@
 [s][bup 0 6 102 0 0][f 4 10 65535 0 0][vp 8 0 0 33 65535 0]Alguma objeção?[n][f 1 3 65535][w][e]
 
 [msg MSG_027_0_0 [Ryuji]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 7 301 1][vp 8 0 0 34 65535 0]N-Nenhuma, Rainha![n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 7 301 1][vp 8 0 0 34 65535 0]N-Nenhuma, Queen![n][f 1 3 65535][w][e]
 
 [msg MSG_028_0_0 [Ann]]
 [s][bup 0 4 103 0 0][f 4 10 65535 0 0][vp 8 0 0 35 65535 0]Skull parece o cara[n]que fica com os pés[n]na cabeça das garotas.[n][f 1 3 65535][w][e]
@@ -99,7 +99,7 @@
 [s][bup 0 6 100 0 0][f 4 10 65535 0 0][vp 8 0 0 36 65535 0]Mona, vamos começar a navegar?[n][f 1 3 65535][w][e]
 
 [msg MSG_030_0_0 [Morgana]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 3 7 301 1][vp 8 0 0 37 65535 0]S-Sim, Rainha![n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 3 7 301 1][vp 8 0 0 37 65535 0]S-Sim, Queen![n][f 1 3 65535][w][e]
 
 [msg MSG_031_0_0 [Yusuke]]
 [s][bup 0 5 105 0 0][f 4 10 65535 0 0][vp 8 0 0 38 65535 0]Aqui está outro...[n][f 1 3 65535][w][e]

@@ -5,7 +5,7 @@
 [s][bup 0 6 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Sinto muito, mas você terá que[n]nos passar![n][w][e]
 
 [msg D06_157_11_ex_chk_mes03 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Espere, Rainha… Tenho a sensação de que essa Sombra[n]vai nos dar dor de cabeça.[n][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Espere, Queen… Tenho a sensação de que essa Sombra[n]vai nos dar dor de cabeça.[n][w][e]
 
 [msg D06_157_11_ex_chk_mes04 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]É melhor nos prepararmos da melhor maneira[n]possível para a luta. Você acha que estamos[n]prontos, Joker?[n][w][e]

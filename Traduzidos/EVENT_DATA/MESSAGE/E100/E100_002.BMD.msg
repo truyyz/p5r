@@ -4,7 +4,7 @@
 [msg MSG_001_0_0 [Oracle]]
 [s][vp 1 0 0 2 0 0]Sim, a maioria dos caras de terno[n]vai se concentrar nele agora.[n][f 1 3 65535][w][e]
 
-[msg MSG_002_0_0 [Pantera]]
+[msg MSG_002_0_0 [Panther]]
 [s][vp 1 0 0 3 0 0]Skull nunca seria capaz disso.[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Skull]]

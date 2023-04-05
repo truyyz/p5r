@@ -51,7 +51,7 @@
 [s]Deveríamos terminar aqui.[e]
 
 [msg MSG_014_0_0 [Futaba]]
-[s][bup 0 8 100 0 0][f 4 10 65535 0 0][vp 8 2 0 9128 65535 0]Concordar. Ficar aqui[n]não vai nos ajudar![n][f 1 3 65535][w][e]
+[s][bup 0 8 100 0 0][f 4 10 65535 0 0][vp 8 2 0 9128 65535 0]Concordo. Ficar aqui[n]não vai nos ajudar![n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Ryuji]]
 [s][bup 0 2 101 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Tudo bem, vamos embora por enquanto.[n]Vamos ver se uma visita aos Mementos[n]ajuda![n][f 1 3 65535][w][e]

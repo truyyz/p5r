@@ -29,7 +29,7 @@
 [s]Tentamos ser cautelosos.[e]
 
 [msg MSG_008_0_0 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]Concordar. Vamos nos encontrar no ponto de[n]encontro depois da escola. Aguardarei sua[n]mensagem.[n][f 1 3 65535][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]Concordo. Vamos nos encontrar no ponto de[n]encontro depois da escola. Aguardarei sua[n]mensagem.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 5 65535 0][bup 0 4 2 65535 0][f 4 10 65535 0 0]Ele não pode se safar[n]do que fez com Shiho...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 6 65535 0][f 4 10 65535 0 0]Não é justo...[n]Vou fazê-los pagar.[n][f 1 3 65535][w][e]
 
@@ -58,12 +58,12 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Bem, avise-me assim que[n]tomar uma decisão,[n]e retornarei com você.[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Ann]]
-[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]'Bom dia![n]Lotado como sempre, hein?[n][f 1 3 65535][w][e]
+[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Bom dia![n]Lotado como sempre, hein?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Todo mundo amontoado que nem sardinha...[n]Está gostando da vida na cidade?[n]Já chega, hein?[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Ann]]
 [s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]...Na verdade, não estou com vontade de[n]agir como se nada tivesse acontecido. Eu só[n]não sei o que fazer...[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 20 65535 0][f 4 10 65535 0 0]Sinto-me ansioso até[n]fazer alguma coisa, mas agora[n]estou sem nada para fazer.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 20 65535 0][f 4 10 65535 0 0]Sinto-me ansiosa pra[n]fazer alguma coisa, mas agora[n]estou sem nada para fazer.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]É horrível ter que esperar[n]alguma notícia né?[n]estou tão preocupada...[n][f 1 3 65535][w][e]
 
 [sel SEL_017_0_0 top]
@@ -279,7 +279,7 @@
 [s][vp 8 0 0 0 65535 0]Eu só espero que seja uma pessoa[n]uma maneira...[n][f 1 3 65535][w][e]
 
 [msg MSG_065_0_0 [Ann]]
-[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 6005 65535 0]'Bom dia![n][f 1 3 65535][w][e]
+[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 6005 65535 0]Bom dia![n][f 1 3 65535][w][e]
 
 [msg MSG_066_0_0 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 6155 65535 0]A exposição de Madarame durará até[n]5 de junho... Teremos que despertar[n]seu coração antes dessa data.[n][f 1 3 65535][w][e]
@@ -993,7 +993,7 @@
 [s][bup 0 6 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 2048 65535 0]Estou impressionado. Eu gostaria que[n]Ryuji pegasse um exemplo seu também...[n][f 1 3 65535][w][e]
 
 [msg MSG_240_0_0 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 7005 65535 0]'Bom dia![n][f 1 3 65535][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 7005 65535 0]Bom dia![n][f 1 3 65535][w][e]
 
 [msg MSG_241_0_0 [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ei, você viu os últimos[n]comentários na net?[n][f 1 3 65535][w][e]
@@ -1013,7 +1013,7 @@
 [s][bup 0 2 11 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]É a nossa chance de[n]mostrar o poder dos[n]Phantom Thieves. Não adie muito![n][f 1 3 65535][w][e]
 
 [msg MSG_245_0_0 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 7005 65535 0]'Bom dia![n][f 1 3 65535][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 7005 65535 0]Bom dia![n][f 1 3 65535][w][e]
 
 [msg MSG_246_0_0 [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ei, você viu os últimos[n]comentários na net?[n][f 1 3 65535][w][e]
@@ -1033,7 +1033,7 @@
 [s][bup 0 2 11 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]É a nossa chance de[n]mostrar o poder dos[n]Phantom Thieves. Não adie muito![n][f 1 3 65535][w][e]
 
 [msg MSG_250_0_0 [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 7005 65535 0]'Bom dia![n][f 1 3 65535][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 7005 65535 0]Bom dia![n][f 1 3 65535][w][e]
 
 [msg MSG_251_0_0 [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ei, você viu os últimos[n]comentários na net?[n][f 1 3 65535][w][e]
@@ -1069,7 +1069,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 334 65535 0]Eu vou conseguir com certeza, com[n]você ao meu lado. Espero por você[n]no Leblanc depois da escola.[n][f 1 3 65535][w][e]
 
 [msg MSG_259_0_0 [Haru]]
-[s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 335 65535 0]Concordar. Avise-me,[n]assim que decidir.[n][f 1 3 65535][w][e]
+[s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 335 65535 0]Concordo. Avise-me,[n]assim que decidir.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 336 65535 0]Vou tentar o meu melhor também.[n]Vamos tentar chegar[n]antes do prazo.[n][f 1 3 65535][w][e]
 
 [msg MSG_260_0_0 [Haru]]

@@ -31,7 +31,7 @@
 [s][bup 0 5 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4028 65535 0]Hum, outro tipo de[n]porto. Este é um aborrecimento agradável...[n][w][e]
 
 [msg D156_03_miniEV02_mes02 [Makoto]]
-[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Continuaremos a encontrar[n]portas fechadas com tanta frequência?[n]Você pode nos ajudar, Oráculo?[n][w][e]
+[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Continuaremos a encontrar[n]portas fechadas com tanta frequência?[n]Você pode nos ajudar, Oracle?[n][w][e]
 
 [msg D156_03_miniEV02_mes03 [Futaba]]
 [s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9098 65535 0]Se encontrarmos um servidor de segurança[n]e seu terminal, acho que[n]podemos fazer isso...[n][w][e]

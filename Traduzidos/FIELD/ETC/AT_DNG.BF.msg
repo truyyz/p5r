@@ -46,7 +46,7 @@
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Só de olhar já dá vontade de carimbar tudo.[n][w][e]
 
 [msg STAMP_GET3 [Morgana]]
-[s][bup 0 3 5 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Caveira... você é mesmo um troglodita.[n][w][e]
+[s][bup 0 3 5 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Skull... você é mesmo um troglodita.[n][w][e]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ele disse para procurar por isso também,[n]além das flores.[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos carimbá-lo, Joker![n][w][e]
 
@@ -197,7 +197,7 @@
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1185 65535 0]Fizemos tudo[n]que precisávamos. Vamos terminar aqui por hoje?[n][w][e]
 
 [msg ATD_EXIT_CANCEL_CABLE_VA [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1035 65535 0]Concordar. Vamos explorar[n]um pouco mais.[n][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1035 65535 0]Concordo. Vamos explorar[n]um pouco mais.[n][w][e]
 
 [msg D_EXIT_OK_01_PC02_mes [Ryuji]]
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7050 65535 0]OK, vamos mover.[n][w][e]
@@ -536,7 +536,7 @@
 [s][bup 0 10 101 0 0][f 4 10 65535 0 0][vp 8 2 1 57039 65535 0]Mil agradecimentos! Ele definitivamente será útil![n][w][e]
 
 [msg WEAPON_KASUMI_MSG_NO [[f 4 31 10 0]]]
-[s][bup 0 10 100 0 0][f 4 10 65535 0 0][vp 8 2 1 57055 65535 0]Concordar.[n][w][e]
+[s][bup 0 10 100 0 0][f 4 10 65535 0 0][vp 8 2 1 57055 65535 0]Concordo.[n][w][e]
 
 [msg HERO_WEAPON_RYUJI_MSG [Ryuji]]
 [s][bup 0 2 101 0 0][f 4 10 65535 0 0][vp 8 2 1 7020 65535 0]Oh! Isso não parece nada mal,[n]Joker. Por que você não tenta?[n][w][e]

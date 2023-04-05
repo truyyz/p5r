@@ -43,7 +43,7 @@
 [s][vp 8 2 1 47616 65535 0]*soluço* Sim, eu prometo...[n][w][e]
 
 [msg MSG_QST_074_13 [Ryuji]]
-[s][bup 0 2 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7046 65535 0]Se você mantiver sua palavra, a Rainha[n]da Escola Divina de Ladrões[n]Phantom vai despir sua bunda![n][w][e]
+[s][bup 0 2 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7046 65535 0]Se você mantiver sua palavra, a Queen[n]da Escola Divina de Ladrões[n]Phantom vai despir sua bunda![n][w][e]
 
 [msg MSG_QST_074_14 [Sombra de Amai]]
 [s][vp 8 2 1 47618 65535 0]OK! Eu sinto muito![n][w][e]

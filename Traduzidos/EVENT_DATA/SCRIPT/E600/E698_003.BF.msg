@@ -62,7 +62,7 @@
 [s][vp 8 0 0 0 65535 0]Mas precisamos de alguém para prescrevê-los para[n]nós. Eu acho que ouvi sobre alguém assim...[n][f 1 3 65535][w][e]
 
 [msg MSG_BEING_TOGETHER_RYU [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ei, 'bom dia, [f 4 2]. *bocejo*[n]Quero ir para casa...[n][f 1 3 65535][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ei, bom dia, [f 4 2]. *bocejo*[n]Quero ir para casa...[n][f 1 3 65535][w][e]
 
 [msg MSG_BEING_TOGETHER_RYU_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Gaaah! Consegui! Bleurgh,[n]correr de manhã cedo[n]não foi uma boa ideia...[n][f 1 3 65535][w][e]

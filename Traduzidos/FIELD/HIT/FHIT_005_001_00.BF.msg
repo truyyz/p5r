@@ -1518,7 +1518,7 @@
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 7024 65535 0]Mas você tem coragem.[n]Que surpresa![n][w][e]
 
 [msg MSG_KF_Realtor_Sofa_mes0_2 [Ryuji]]
-[s][bup 0 2 7 65535 0][f 4 10 65535 0 0][vp 8 2 1 7192 65535 0]...Concordar. Todos nós sabemos que você[n]tem coragem. Vamos, cara.[n][w][e]
+[s][bup 0 2 7 65535 0][f 4 10 65535 0 0][vp 8 2 1 7192 65535 0]...Concordo. Todos nós sabemos que você[n]tem coragem. Vamos, cara.[n][w][e]
 
 [msg MSG_KF_RecordShop_mes01 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1171 65535 0]Estes são CDs enormes...[n]Hein? vinis?[n][w][e]

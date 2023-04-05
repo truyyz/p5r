@@ -14,7 +14,7 @@
 
 [sel SEL_001 top]
 [s]Vá agora[e]
-[s]Declínio[e]
+[s]Recusar[e]
 
 [sel SEL_002 top]
 [s][f 5 14]Nós estamos lá.[e]

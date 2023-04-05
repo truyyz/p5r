@@ -9,5 +9,5 @@
 [s][bup 0 9 812 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos acabar com isso.[n][w][e]
 
 [msg D10_05_stair_appear_end [[f 4 31 10 0]]]
-[s][bup 0 10 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]...Direita.[n][w][e]
+[s][bup 0 10 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]...Certo.[n][w][e]
 

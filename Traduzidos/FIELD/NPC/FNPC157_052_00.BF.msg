@@ -263,7 +263,7 @@
 [s][bup 0 7 4 65535 0][f 4 10 65535 0 0][vp 8 2 1 3179 65535 0]Conseguimos recuperar as[n]50.000 moedas que precisamos...[n]Vamos continuar?[n][w][e]
 
 [msg SAFETY_MES_HARU_07_01 [Haru]]
-[s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 3023 65535 0]Vamos garantir que a irmã da Rainha[n]desperte o coração![n][w][e]
+[s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 3023 65535 0]Vamos garantir que a irmã da Queen[n]desperte o coração![n][w][e]
 
 [msg SAFETY_MES_HARU_08_01 [Haru]]
 [s][bup 0 7 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 3192 65535 0]Precisamos de duas vezes mais moedas do que[n]antes... Você acha que é possível, Joker?[n][w][e]
@@ -351,10 +351,10 @@
 [s][bup 0 9 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 8048 65535 0]Aposto que você pode até conseguir 50.000 moedas[n]sem trapacear.[n][w][e]
 
 [msg SAFETY_MES_AKECHI_06_01 [Akechi]]
-[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 8158 65535 0]Agora que temos todas as moedas[n]necessárias, não temos mais nada[n]para fazer aqui. Vamos, Jokers.[n][w][e]
+[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 8158 65535 0]Agora que temos todas as moedas[n]necessárias, não temos mais nada[n]para fazer aqui. Vamos, Joker.[n][w][e]
 
 [msg SAFETY_MES_AKECHI_06_02 [Akechi]]
-[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 8158 65535 0]Agora que temos todas as moedas[n]necessárias, não temos mais nada[n]para fazer aqui. Vamos, Jokers.[n][w][e]
+[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 8158 65535 0]Agora que temos todas as moedas[n]necessárias, não temos mais nada[n]para fazer aqui. Vamos, Joker.[n][w][e]
 
 [msg SAFETY_MES_AKECHI_06_03 [Akechi]]
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 54412 65535 0]Nossa coleção caiu para menos de[n]50.000 moedas. O que você vai fazer?[n][w][e]

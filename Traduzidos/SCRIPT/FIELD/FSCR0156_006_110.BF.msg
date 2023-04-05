@@ -12,7 +12,7 @@
 [s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 54245 65535 0]Oooh, finalmente estamos quase[n]acabados. Foi uma caminhada![n][w][e]
 
 [msg D05_02_e342_023_mes02 [Futaba]]
-[s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ei, Caveira...? Você não fez nada além de seguir[n]o Joker.[n][w][e]
+[s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ei, Skull...? Você não fez nada além de seguir[n]o Joker.[n][w][e]
 
 [msg D05_06_goal_look_mes1 [Futaba]]
 [s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9040 65535 0]Espere um segundo, pessoal...[n][w][e]

@@ -48,7 +48,7 @@
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Este estratagema psicológico é explorado aqui.[n]Eu... experimentei isso sozinho por anos.[n][w][e]
 
 [msg D05_02_e341_081_mes11 [Ann]]
-[s][bup 0 4 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Raposa...[n][w][e]
+[s][bup 0 4 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Fox...[n][w][e]
 
 [msg D05_02_e341_081_mes12 [Haru]]
 [s][bup 0 7 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 3198 65535 0]Então esses robôs existem[n]porque meu pai sabe[n]que ele explora seus funcionários...[n][w][e]

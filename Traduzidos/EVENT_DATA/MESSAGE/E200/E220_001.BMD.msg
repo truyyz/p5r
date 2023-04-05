@@ -150,7 +150,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 53 65535 0]Contamos com você novamente, Ryuji.[n][f 1 3 65535][w][e]
 
 [msg MSG_051_0_0 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 54 65535 0]Concordar. Até lá,[n]continuaremos nos preparando.[n][f 1 3 65535][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 54 65535 0]Concordo Até lá,[n]continuaremos nos preparando.[n][f 1 3 65535][w][e]
 
 [msg MSG_052_0_0 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 55 65535 0]Yusuke Kitagawa...[n][f 1 3 65535][w][e]

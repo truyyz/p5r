@@ -400,7 +400,7 @@
 [sel SEL_COOP_CHECK top]
 [s]Passe um tempo com ele[e]
 [s]Verifique o vínculo com Ryuji[e]
-[s]Declínio[e]
+[s]Recusar[e]
 
 [msg MSG_C07_YES_01_00 [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][f 4 23 1 207 32 10 31 10][vp 8 2 1 0 65535 0]Vamos fazer um aquecimento[n]atrás da academia então.[n][w][e]
@@ -504,7 +504,7 @@
 [sel SEL_COOP_CHECK_REV top]
 [s]Passe um tempo com ele[e]
 [s]Verifique o vínculo com Ryuji[e]
-[s]Declínio[e]
+[s]Recusar[e]
 
 [msg MSG_C07_YES_10_00_REV [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 23 1 207 32 10 31 10][vp 8 2 1 7081 65535 0]Desculpe se estou tirando você de[n]outros compromissos. Vamos vamos.[n][w][e]
