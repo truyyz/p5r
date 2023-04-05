@@ -28,7 +28,7 @@
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1020 65535 0]Verificamos também os outros[n]quadros. Eles podem estar escondendo[n]algo importante...[n][w][e]
 
 [msg D02_01_e195_111_mes01 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1158 65535 0]Espere, Jokers![n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1158 65535 0]Espere, Joker![n][w][e]
 
 [msg D02_01_e195_111_mes02 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Existem [clr 2]lasers infravermelhos[clr 27]. É[n]um sistema de segurança muito[n]comum.[n][w][e]

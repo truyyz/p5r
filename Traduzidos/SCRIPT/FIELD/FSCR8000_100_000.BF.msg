@@ -1342,7 +1342,7 @@
 [msg DRESSTALK_DANCE_PC03 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Escute aqui! Ei! Eu sou Morgana, a Ladra[n]Brilhante![n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]My Shadow hip hop tem um efeito letal![n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos, Jokers! Por que você não[n]dança no meu fluxo?[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos, Joker! Por que você não[n]dança no meu fluxo?[n][w][e]
 
 [msg DRESSTALK_SHADOW_W_PC03 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Olhar! É o uniforme do[n]Shadow Agent![n][w][e]
@@ -1378,7 +1378,7 @@
 [msg DRESSTALK_FEATHERMAN_PC0_11 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Phoenix Ranger Neo-Featherman![n]Sou Mona, também conhecida como Feather Black![n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Heh heh heh... Enquanto eu estiver por perto, o[n]mal NÃO prevalecerá![n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos, Jokers! Deixe[n]a Feather Black fazê-lo![n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos, Joker! Deixe[n]a Feather Black fazê-lo![n][w][e]
 
 [msg DRESSTALK_DEMONICA_MASKE_11 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Então este é o capacete da Demonica...[n][w][e]

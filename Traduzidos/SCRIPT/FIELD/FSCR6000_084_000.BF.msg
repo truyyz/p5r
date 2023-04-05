@@ -7,7 +7,7 @@
 
 [msg MSG_QST_084_03 [Futaba]]
 [s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 0 65535 0]Ele realmente parece uma pessoa decidida a[n]cometer suicídio.[n][w][e]
-[s][bup 0 8 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9158 65535 0]Cuidado, Jokers![n][w][e]
+[s][bup 0 8 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9158 65535 0]Cuidado, Joker![n][w][e]
 
 [msg MSG_QST_084_04 [Sombra de Minamoto]]
 [s]Ladrões Fantasmas. Você realmente veio.[n][w][e]
@@ -37,7 +37,7 @@
 [s]Eu disse para você me matar![n][w][e]
 
 [msg MSG_QST_084_09 [Futaba]]
-[s][bup 0 8 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9065 65535 0]Cuidado, Jokers! Está atacando![n][w][e]
+[s][bup 0 8 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9065 65535 0]Cuidado, Joker! Está atacando![n][w][e]
 
 [msg MSG_QST_084_10 [Sombra de Minamoto]]
 [s][vp 8 2 1 0 65535 0]*engole em seco* *anf*[n][w][e]

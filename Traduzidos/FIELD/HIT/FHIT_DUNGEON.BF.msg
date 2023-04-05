@@ -14,7 +14,7 @@
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Aposto que ele está escondido[n]por aqui... Vamos tentar[n]procurá-lo, certo?[n][w][e]
 
 [msg GOTO_ENTRANCE_FLOOR_NG02 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1158 65535 0]Espere, Jokers![n][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1158 65535 0]Espere, Joker![n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]A área que queremos pesquisar está abaixo de nós.[n]Vamos encontrar uma maneira de descer.[n][w][e]
 
 [msg GOTO_NEXT_FLOOR_NG01_mes [Morgana]]

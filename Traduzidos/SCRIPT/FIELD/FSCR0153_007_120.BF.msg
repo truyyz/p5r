@@ -20,5 +20,5 @@
 [s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4128 65535 0]Ver. Há também dois[n]quadros sem nenhuma pintura.[n][w][e]
 
 [msg e210_150_mes07 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Estranho... mas nós temos[n]escolha. Vamos, Jokers.[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Estranho... mas nós temos[n]escolha. Vamos, Joker.[n][w][e]
 

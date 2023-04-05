@@ -29,7 +29,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1119 65535 0]Sim é isso! Vamos![n][w][e]
 
 [msg D151_15_BTL_01_mes01 [Ann]]
-[s][bup 0 4 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ei! Espere, Jokers![n][w][e]
+[s][bup 0 4 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ei! Espere, Joker![n][w][e]
 
 [msg D151_15_BTL_01_mes02 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Mais um passo e terminamos[n]direto em uma luta. O que[n]quer fazer, Joker?[n][w][e]

@@ -97,7 +97,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1154 65535 0]Por aqui! Me siga![n][w][e]
 
 [msg D08_02_e454_021_mes02 [Ryuji]]
-[s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7045 65535 0]Vamos, Jokers![n][w][e]
+[s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7045 65535 0]Vamos, Joker![n][w][e]
 
 [msg D08_02_e454_021_mes03 [Ann]]
 [s][bup 0 4 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6023 65535 0]Nós podemos fazer isso, tenho certeza![n][w][e]

@@ -69,5 +69,5 @@
 [s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Se assim for, devemos agora procurar[n]o presidente da rede de TV na[n]sala de entretenimento à frente.[n][w][e]
 
 [msg D07_02_e410_026_mes07 [Futaba]]
-[s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9196 65535 0]Vamos, Jokers.[n][w][e]
+[s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9196 65535 0]Vamos, Joker.[n][w][e]
 

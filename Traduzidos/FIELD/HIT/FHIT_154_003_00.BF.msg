@@ -70,7 +70,7 @@
 
 [msg D154_003_CAMERA_TRAP_02__6 [Ann]]
 [s][bup 0 4 1 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6045 65535 0]Aparentemente, desligamos[n]todas as câmeras na frente da[n]guarita![n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos, Jokers![n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos, Joker![n][w][e]
 
 [msg D154_003_ENTRY_HOLE_MES_ [Ryuji]]
 [s][bup 0 2 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7040 65535 0]Ei, o que é isso?[n][w][e]

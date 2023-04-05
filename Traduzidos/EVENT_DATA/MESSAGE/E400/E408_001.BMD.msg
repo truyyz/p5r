@@ -29,7 +29,7 @@
 [s][bup 0 5 100 65535 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Combina comigo.[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Ryuji]]
-[s][bup 0 2 100 65535 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Espere, Jokers! Eu vou com ela![n][f 1 3 65535][w][e]
+[s][bup 0 2 100 65535 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Espere, Joker! Eu vou com ela![n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Ryuji]]
 [s][bup 0 2 101 65535 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Resumindo, é um restaurante![n][f 1 3 65535][w][e]

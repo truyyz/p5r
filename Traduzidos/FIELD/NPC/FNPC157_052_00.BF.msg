@@ -351,10 +351,10 @@
 [s][bup 0 9 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 8048 65535 0]Aposto que você pode até conseguir 50.000 moedas[n]sem trapacear.[n][w][e]
 
 [msg SAFETY_MES_AKECHI_06_01 [Akechi]]
-[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 8158 65535 0]Agora que temos todas as moedas[n]necessárias, não temos mais nada[n]para fazer aqui. Vamos, Jokers.[n][w][e]
+[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 8158 65535 0]Agora que temos todas as moedas[n]necessárias, não temos mais nada[n]para fazer aqui. Vamos, Joker.[n][w][e]
 
 [msg SAFETY_MES_AKECHI_06_02 [Akechi]]
-[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 8158 65535 0]Agora que temos todas as moedas[n]necessárias, não temos mais nada[n]para fazer aqui. Vamos, Jokers.[n][w][e]
+[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 8158 65535 0]Agora que temos todas as moedas[n]necessárias, não temos mais nada[n]para fazer aqui. Vamos, Joker.[n][w][e]
 
 [msg SAFETY_MES_AKECHI_06_03 [Akechi]]
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 54412 65535 0]Nossa coleção caiu para menos de[n]50.000 moedas. O que você vai fazer?[n][w][e]

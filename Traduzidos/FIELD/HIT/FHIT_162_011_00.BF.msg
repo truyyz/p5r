@@ -81,7 +81,7 @@
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Tenho motivos para acreditar que é[n]possível alterar os caminhos[n]disponíveis alterando as luzes.[n][w][e]
 
 [msg D10_11_Light_Tutorial04__4 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1158 65535 0]Bem, Jokers. Tente usar[n]o dimmer para alterar o[n]esquema de cores das luzes![n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1158 65535 0]Bem, Joker. Tente usar[n]o dimmer para alterar o[n]esquema de cores das luzes![n][w][e]
 
 [msg D10_11_Light_Wall_Vanish [Morgana]]
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1181 65535 0]A parede se foi.[n]Agora podemos continuar![n][w][e]

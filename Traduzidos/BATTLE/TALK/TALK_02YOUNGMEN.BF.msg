@@ -1307,7 +1307,7 @@
 [s]É absolutamente impossível.[n]Pare de mentir para si mesmo[n]por uma questão de conveniência.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_15_R_12]
-[s]Entendo. Você foi criado por[n]Jokers... Pobre criatura.[n][w][e]
+[s]Entendo. Você foi criado por[n]Joker... Pobre criatura.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_15_R_13]
 [s]Eu exagerei. Eu não queria criar[n]seus pais.[n][w][e]

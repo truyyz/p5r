@@ -200,7 +200,7 @@
 [s][vp 8 0 2 1027 1 502]É hora de acabar com isso. Eu salvarei[n]todos vocês![n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_MARUKI_TARGET01 [Maruki]]
-[s][bup 0 8 602 65535 0][f 4 10 65535 0 0][vp 8 0 2 1028 0 8]Cuidado, Jokers! Eu detecto numerosas[n]presenças abaixo de você![n][f 1 3 65535][w][e]
+[s][bup 0 8 602 65535 0][f 4 10 65535 0 0][vp 8 0 2 1028 0 8]Cuidado, Joker! Eu detecto numerosas[n]presenças abaixo de você![n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_MARUKI_TARGET02 [Futaba]]
 [s][bup 0 8 602 65535 0][f 4 10 65535 0 0][vp 8 0 2 1029 0 8]Cuidado, Skull! Eu detecto numerosas[n]presenças abaixo de você![n][f 1 3 65535][w][e]

@@ -1,5 +1,5 @@
 [msg D01_04_e160_084_mes01 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1158 65535 0]Espere, Jokers![n][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1158 65535 0]Espere, Joker![n][w][e]
 
 [msg D01_04_e160_084_mes02 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Este lugar é enorme... mas não há guardas?[n]Isso parece suspeito...[n][w][e]

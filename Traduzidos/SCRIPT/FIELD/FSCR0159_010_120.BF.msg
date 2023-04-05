@@ -18,7 +18,7 @@
 [s]O bar próximo aluga[n]maiôs como estes.[n][w][e]
 
 [msg D07_02_e409_034_AF_mes02 [Ryuji]]
-[s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7074 65535 0]A barra, né? Vamos, Jokers![n][w][e]
+[s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7074 65535 0]A barra, né? Vamos, Joker![n][w][e]
 
 [msg D159_10_c_01_mes01 [Barman]]
 [s]Bem-vindo ao deck da piscina,[n]senhor.[n][w][e]

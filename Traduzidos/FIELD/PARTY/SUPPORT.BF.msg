@@ -1817,7 +1817,7 @@
 [s][vp 1 0 0 3084 0 0]Joker, cuidado![n][f 1 6 65535][e]
 
 [msg D_STOP_B_PC03_mes02]
-[s][vp 1 0 0 3085 0 0]Espere, Jokers! Cuidado![n][f 1 6 65535][e]
+[s][vp 1 0 0 3085 0 0]Espere, Joker! Cuidado![n][f 1 6 65535][e]
 
 [msg D_STOP_B_PC03_mes03]
 [s][vp 1 0 0 3086 0 0]Ei! É perigoso, Joker![n][f 1 6 65535][e]
@@ -3935,7 +3935,7 @@
 [s][vp 1 0 0 6085 0 0]Parado! É perigoso![n][f 1 6 65535][e]
 
 [msg D_STOP_B_PC06_mes03]
-[s][vp 1 0 0 6086 0 0]Espere, Jokers! É perigoso![n][f 1 6 65535][e]
+[s][vp 1 0 0 6086 0 0]Espere, Joker! É perigoso![n][f 1 6 65535][e]
 
 [msg D_CHECK_T_PC06_mes01]
 [s][vp 1 0 0 6087 0 0]Um baú...[n]Por que não abrimos?[n][f 1 6 65535][e]
@@ -5726,7 +5726,7 @@
 [s][vp 1 0 0 18322 0 0]Joker, esta área é perigosa![n]Vamos trapacear, AGORA![n][f 1 6 65535][e]
 
 [msg D_NAVI_ACD_DEATH_PC08_me_4]
-[s][vp 1 0 0 18323 0 0]Cuidado, Jokers! Detectei um[n]inimigo extremamente poderoso![n][f 1 6 65535][e]
+[s][vp 1 0 0 18323 0 0]Cuidado, Joker! Detectei um[n]inimigo extremamente poderoso![n][f 1 6 65535][e]
 
 [msg D_NAVI_ACD_DEATH_PC08_me_5]
 [s][vp 1 0 0 18324 0 0]Há algo terrivelmente[n]poderoso aqui! W-W-O que[n]nós fazemos!?![n][f 1 6 65535][e]
@@ -5747,7 +5747,7 @@
 [s][vp 1 0 0 18329 0 0]Existem muitas[n]Shadows nesta área. Tenha cuidado, Joker.[n][f 1 6 65535][e]
 
 [msg D_NAVI_ACD_STRONG_EMY_PC_6]
-[s][vp 1 0 0 18330 0 0]Cuidado, Jokers! Esta área é[n]cheia de sombras poderosas![n][f 1 6 65535][e]
+[s][vp 1 0 0 18330 0 0]Cuidado, Joker! Esta área é[n]cheia de sombras poderosas![n][f 1 6 65535][e]
 
 [msg D_NAVI_ACD_STRONG_EMY_PC_7]
 [s][vp 1 0 0 18331 0 0]Minhas leituras dizem que[n]essas Sombras são muito[n]poderosas. Cuidado![n][f 1 6 65535][e]

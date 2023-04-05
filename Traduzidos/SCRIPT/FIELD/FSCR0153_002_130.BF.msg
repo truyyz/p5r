@@ -1,5 +1,5 @@
 [msg D02_02_e195_111_mes01 [Morgana]]
-[s][bup 0 3 4 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1039 65535 0]Espere, Jokers![n][w][e]
+[s][bup 0 3 4 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1039 65535 0]Espere, Joker![n][w][e]
 
 [msg D02_02_e195_111_mes02 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Tsk... é um laser infravermelho.[n]Basta tocá-lo para[n]aumentar o estado de alerta![n][w][e]

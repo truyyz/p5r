@@ -25,7 +25,7 @@
 [s]Quem é VOCÊ para me dar ordens?[n][w][e]
 
 [msg D10_12_researcher_enemy0 [Yusuke]]
-[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Inimigos, Jokers! ...Oh? As roupas deles...[n][w][e]
+[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Inimigos, Joker! ...Oh? As roupas deles...[n][w][e]
 
 [msg D10_12_researcher_enemy0_2 [Yusuke]]
 [s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eles são... jalecos?[n]Por que os Shadows usam[n]jalecos em um estádio?[n][w][e]
