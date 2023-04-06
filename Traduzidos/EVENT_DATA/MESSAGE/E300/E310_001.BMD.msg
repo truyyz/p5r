@@ -20,7 +20,7 @@
 [s][bup 0 4 301 65535 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Por que não almoçamos também?[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Ryuji]]
-[s][bup 0 2 300 65535 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]OK, vou buscar algo.[n][f 1 3 65535][w][e]
+[s][bup 0 2 300 65535 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Ok, vou buscar algo.[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Yusuke]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 5 7 301 1][vp 8 0 0 13 65535 0]Você come isso aqui também?!?[n][f 1 3 65535][w][e]
@@ -105,7 +105,7 @@
 
 [msg MSG_040_0_0 [Ryuji]]
 [s][bup 0 2 307 65535 0][f 4 10 65535 0 0][vp 8 0 0 44 65535 0]Droga... Eles simplesmente não entendem[n]como somos incríveis.[n][f 1 3 65535][w][e]
-[s][bup 0 2 311 65535 0][f 4 10 65535 0 0][vp 8 0 0 45 65535 0]Somos ladrões fantasmas. Arriscamos nossas vidas.[n]Não somos como os caras que você vê por aqui.[n][f 1 3 65535][w][e]
+[s][bup 0 2 311 65535 0][f 4 10 65535 0 0][vp 8 0 0 45 65535 0]Somos Phantom Thieves. Arriscamos nossas vidas.[n]Não somos como os caras que você vê por aqui.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 46 65535 0]Não deveríamos poder[n]nos divertir na realidade também?!?[n][f 1 3 65535][w][e]
 
 [sel SEL_041_0_0 top]
@@ -166,7 +166,7 @@
 [s][bup 0 3 4 0 0][f 4 10 65535 0 0][vp 8 0 0 63 65535 0]Hã?[n][f 1 3 65535][w][e]
 
 [msg MSG_058_0_0 [Ryuji]]
-[s][bup 0 2 301 65535 0][f 4 10 65535 0 0][vp 8 0 0 64 65535 0]OK, não vamos perder tempo.[n][f 1 3 65535][w][e]
+[s][bup 0 2 301 65535 0][f 4 10 65535 0 0][vp 8 0 0 64 65535 0]Ok, não vamos perder tempo.[n][f 1 3 65535][w][e]
 
 [msg MSG_059_0_0 [Morgana]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 3 3 301 1][vp 8 0 0 65 65535 0]Ei, que diabos! Volte aqui![n]Não me deixe aqui![n][f 1 3 65535][w][e]

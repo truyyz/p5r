@@ -111,7 +111,7 @@
 [s][bup 0 6 0 2 0][f 4 10 65535 0 0][vp 8 0 0 76 65535 0]...Sinto muito.[n][f 1 3 65535][w][e]
 
 [msg MSG_034_0_0 [Apresentador]]
-[s][vp 8 0 0 37 65535 0]OK, vou te fazer uma pergunta...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 37 65535 0]Ok, vou te fazer uma pergunta...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 38 65535 0]Você acha que os Phantom Thieves são[n]realmente estudantes Shujin?[n][f 1 3 65535][w][e]
 
 [msg MSG_035_0_0 [Makoto]]

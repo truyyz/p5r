@@ -89,7 +89,7 @@
 [s][bup 0 10 901 65535 0][f 4 10 65535 0 0][vp 8 2 0 57058 65535 0][f 5 13 33 5 10]Haha, talvez você esteja certo... Vou tentar[n]relaxar um pouco mais.[n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Sumire]]
-[s][bup 0 10 900 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 5 0]OK, não tenho tempo para me perder em[n]meus pensamentos.[n][f 1 3 65535][w][e]
+[s][bup 0 10 900 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 5 0]Ok, não tenho tempo para me perder em[n]meus pensamentos.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 5 0]Vou encontrar roupas que realmente[n]me representem![n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [Sumire]]
@@ -170,7 +170,7 @@
 [s][bup 0 10 953 65535 0][f 4 10 65535 0 0][vp 8 2 0 57097 65535 0]Oh! Eu, hum, sim![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 6 0]A-Algumas roupas né?!? Você[n]"se apaixonou" por esses vestidos![n]Não se preocupe, eu entendo![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 6 0]D-desculpe, eu sei que você disse só por falar, é[n]que eu não estava esperando, então estou um[n]pouco...[n][f 1 3 65535][w][e]
-[s][bup 0 10 946 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 6 0][f 4 24 0 6 6 42 5 100][f 4 24 0 6 2 9 5 100]E-Espera, preciso me acalmar... OK,[n]respira fundo... ahhh, fiuuu...[n][f 1 3 65535][w][e]
+[s][bup 0 10 946 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 6 0][f 4 24 0 6 6 42 5 100][f 4 24 0 6 2 9 5 100]E-Espera, preciso me acalmar... Ok,[n]respira fundo... ahhh, fiuuu...[n][f 1 3 65535][w][e]
 
 [msg MSG_044_0_0 [Sumire]]
 [s][bup 0 10 946 65535 0][f 4 10 65535 0 0][vp 8 2 0 57076 65535 0][f 5 13 33 15 10]M-mas fico feliz em ouvir você dizer isso...[n][f 1 3 65535][w][e]

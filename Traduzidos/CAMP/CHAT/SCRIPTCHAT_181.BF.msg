@@ -38,5 +38,5 @@
 [s]Ele ficará emocionado.[e]
 
 [msg MSG_012_0_0 [Ann]]
-[s][f 5 14][f 5 15]OK vejo você amanhã![n][w][e]
+[s][f 5 14][f 5 15]Ok vejo você amanhã![n][w][e]
 

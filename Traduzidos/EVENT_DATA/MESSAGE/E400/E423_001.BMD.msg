@@ -197,7 +197,7 @@
 [s][bup 0 6 102 65535 0][f 4 10 65535 0 0][vp 8 0 0 75 65535 0]Akechi-kun![n][f 1 3 65535][w][e]
 
 [msg MSG_064_0_0 [Akechi]]
-[s][bup 0 217 602 65535 0][f 4 10 65535 0 0][vp 8 0 0 76 65535 0]Vamos fazer um acordo... OK?[n]Você não vai dizer não, vai?[n][f 1 3 65535][w][e]
+[s][bup 0 217 602 65535 0][f 4 10 65535 0 0][vp 8 0 0 76 65535 0]Vamos fazer um acordo... Ok?[n]Você não vai dizer não, vai?[n][f 1 3 65535][w][e]
 
 [msg MSG_065_0_0 [Yusuke]]
 [s][bup 0 5 103 65535 0][f 4 10 65535 0 0][vp 8 0 0 77 65535 0]Por que numa hora[n]assim...?!?[n][f 1 3 65535][w][e]

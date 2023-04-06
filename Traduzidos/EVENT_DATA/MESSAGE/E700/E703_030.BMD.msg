@@ -11,12 +11,12 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]No entanto, [f 4 2]-kun...[n]Não sei como a escola reagiria[n]se eles descobrissem...[n][f 1 3 65535][w][e]
 
 [sel SEL_002_0_0 top]
-[s]Você é um ladrão fantasma, não é?[e]
+[s]Você é um Phantom Thief, não é?[e]
 [s][f 0 8 2 1 2217]Eles não vão descobrir.[clr 27][e]
 [s][f 0 8 2 1 2217]Tudo ficará bem.[clr 27][e]
 
 [msg MSG_003_0_0 [Haru]]
-[s][bup 0 7 201 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 4 5 7]Como um Ladrão Fantasma, posso[n]manter o máximo de[n]sigilo. Mesmo se...[n][f 1 3 65535][w][e]
+[s][bup 0 7 201 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 4 5 7]Como um Phantom Thief, posso[n]manter o máximo de[n]sigilo. Mesmo se...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 3048 65535 0]Com as plantas tudo deve ser feito com[n]sol! Heheheh...[n]É emocionante![n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Haru]]

@@ -82,7 +82,7 @@
 
 [sel SEL_022_0_0 top]
 [s]lutar com você?[e]
-[s]Porque?[e]
+[s]Por quê?[e]
 
 [msg MSG_023_0_0 [Futaba]]
 [s][bup 0 8 104 65535 0][f 4 10 65535 0 0][vp 8 0 0 35 65535 0]Uh, sim, acho que estou perdendo[n]algumas etapas.[n]Não estou seguindo você.[n][f 1 3 65535][w][e]

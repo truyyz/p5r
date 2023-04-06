@@ -2,7 +2,7 @@
 [s][f 5 14]Ei, volte para casa assim que as aulas[n]acabarem, ok?[n][w][e]
 
 [sel SEL_001_0_0 top]
-[s][f 5 14]OK.[e]
+[s][f 5 14]Ok.[e]
 [s]vou me atrasar um pouco.[e]
 [s]Há algo errado?[e]
 

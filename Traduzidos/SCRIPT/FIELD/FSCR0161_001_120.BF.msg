@@ -20,7 +20,7 @@
 
 [msg D08_01_twins_cure_start__6 [Caroline]]
 [s][bup 0 102 3 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]...Ajudar os presos em[n]reabilitação é nosso dever...[n][w][e]
-[s][bup 0 102 0 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]OK. Vou te dar uma ajudinha.[n][w][e]
+[s][bup 0 102 0 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ok. Vou te dar uma ajudinha.[n][w][e]
 
 [msg D08_01_twins_cure_start__7]
 [s]Sinto que recuperei parcialmente o espírito e a[n]saúde...[n][w][e]

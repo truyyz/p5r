@@ -71,7 +71,7 @@
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Uh. Bom. Nunca se esqueça disso.[n]Eu vou te ensinar tudo o que sei.[n][w][e]
 
 [msg MSG_EKIINSET_007_0_0 [Atendente veterano da estação]]
-[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Dizem que esses "ladrões fantasmas" estão na[n]cidade. Olhos abertos.[n][w][e]
+[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Dizem que esses "Phantom Thieves" estão na[n]cidade. Olhos abertos.[n][w][e]
 
 [msg MSG_EKIINSET_007_1_0 [Atendente de posto iniciante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Sim senhor, chefe! Mas não é[n]o trabalho da polícia?[n][w][e]
@@ -598,7 +598,7 @@
 
 [msg quest05_hint_talk_01_03 [Empregado alegre]]
 [s]Online, eles dizem que finalmente[n]alguém a calou. Ou,[n]é obra de ladrões de coração.[n][w][e]
-[s]Se foram aqueles Ladrões Fantasmas, aqui estão[n]meus novos heróis.[n][w][e]
+[s]Se foram aqueles Phantom Thieves, aqui estão[n]meus novos heróis.[n][w][e]
 
 [msg quest05_hint_talk_01_04 [Funcionário feliz]]
 [s]Não sei se os chamaria de "heróis",[n]mas estou feliz que alguém[n]abaixou o tom dela.[n][w][e]
@@ -627,7 +627,7 @@
 [msg Quest13_target_00_05 [Keiko Shiratori]]
 [s]E quando,[n]exatamente?[n][w][e]
 [s]Se eu ganhasse mais, minha[n]vida seria mais divertida![n][w][e]
-[s]Oh, certo. Vou sair para[n]almoçar com uma mãe[n]do bairro, então você vai ficar sozinha. OK?[n]Eu tenho que manter as aparências[n]com os vizinhos. Você me entende,[n]certo?[n][w][e]
+[s]Oh, certo. Vou sair para[n]almoçar com uma mãe[n]do bairro, então você vai ficar sozinha. Ok?[n]Eu tenho que manter as aparências[n]com os vizinhos. Você me entende,[n]certo?[n][w][e]
 [s]Tenho que manter as aparências[n]com os vizinhos. Você me entende,[n]certo?[n][w][e]
 
 [msg Quest13_target_00_06 [Marido reservado]]
@@ -854,7 +854,7 @@
 [s][vp 8 2 1 0 6 0]Minha namorada está agindo[n]estranhamente. Como se[n]ele estivesse escondendo algo de mim.[n][w][e]
 [s][vp 8 2 1 0 6 0]Droga, e falando em "sabe o quê", nada vai[n]funcionar. Se ela descobrir...[n][w][e]
 [s][vp 8 2 1 0 6 0]Estou com muito medo de que ele descubra. Se[n]aqueles hackers tivessem me alvejado...[n][w][e]
-[s][vp 8 2 1 0 6 0]Os Ladrões Fantasmas[n]me ajudarão? Idiota,[n]eles não vão resolver meu problema![n][w][e]
+[s][vp 8 2 1 0 6 0]Os Phantom Thieves[n]me ajudarão? Idiota,[n]eles não vão resolver meu problema![n][w][e]
 
 [msg MSG_HAGEOTOKO_010_0_0 [Homem alto]]
 [s][vp 8 2 1 0 6 0]Tenho sido muito cuidadoso, mas[n]nem sempre terei tanta sorte...[n][w][e]
@@ -1247,7 +1247,7 @@
 [msg MSG_AKECHI_003_00 [Akechi]]
 [s][f 4 23 1 65535 3 10 0 0][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 8028 65535 0]Não faltam emoções nesta cidade. Primeiro aquele[n]acidente de trem, agora a máfia...[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Sem falar nos Phantom Thieves.[n]Pensei muito durante[n]minha caminhada.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 8038 65535 0]Os Ladrões Fantasmas[n]visitaram a exposição de Madarame[n]antes de cometer o crime?[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 8038 65535 0]Os Phantom Thieves[n]visitaram a exposição de Madarame[n]antes de cometer o crime?[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Qual é o objetivo deles? Quem[n]será o próximo alvo?[n][w][e]
 
 [msg MSG_AKECHI_004_00 [Pedestre]]
@@ -2058,7 +2058,7 @@
 [s][vp 9 2 65535 37904 0 0]30 milhões de ienes...[n]Parece ser a[n]maior recompensa já dada...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_021_03_ [Makoto]]
-[s][vp 9 2 65535 41502 0 0]Quando a polícia[n]está prendendo aqueles Ladrões Fantasmas!?![n][f 1 2 180][e]
+[s][vp 9 2 65535 41502 0 0]Quando a polícia[n]está prendendo aqueles Phantom Thieves!?![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_521_12_ [Makoto]]
 [s][vp 9 2 65535 38352 0 0]A polícia está demorando muito! Depressa![n][f 1 2 180][e]
@@ -2103,7 +2103,7 @@
 [s][vp 9 2 65535 39057 0 0]Por quanto tempo eles vão deixar[n]os Phantom Thieves vagar[n]sem perturbações!?![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_023_04_ [Makoto]]
-[s][vp 9 2 65535 38057 0 0]Quando eles vão prender[n]aqueles Ladrões Fantasmas?!?[n][f 1 2 180][e]
+[s][vp 9 2 65535 38057 0 0]Quando eles vão prender[n]aqueles Phantom Thieves?!?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_023_05_ [Makoto]]
 [s][vp 9 2 65535 40007 0 0]Por que eles demoram tanto para prendê-los?!?[n][f 1 2 180][e]
@@ -2145,7 +2145,7 @@
 [s][vp 9 2 65535 41507 0 0]Agora nunca saberemos como[n]os Phantom Thieves fizeram isso.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_025_04_ [Makoto]]
-[s][vp 9 2 65535 40257 0 0]A notícia de que o[n]Ladrão Fantasma se matou[n]chocou-me...[n][f 1 2 180][e]
+[s][vp 9 2 65535 40257 0 0]A notícia de que o[n]Phantom Thief se matou[n]chocou-me...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_025_05_ [Makoto]]
 [s][vp 9 2 65535 37707 0 0]O suicídio é apenas uma maneira de[n]escapar das coisas horríveis[n]que ele estava fazendo...[n][f 1 2 180][e]
@@ -2226,13 +2226,13 @@
 [s][vp 9 2 65535 37905 0 0]É estranho que eles tenham conseguido[n]um retorno tão do nada...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_028_03_ [Makoto]]
-[s][vp 9 2 65535 40557 0 0]Espere, eles não disseram que[n]o Ladrão Fantasma estava morto?[n][f 1 2 180][e]
+[s][vp 9 2 65535 40557 0 0]Espere, eles não disseram que[n]o Phantom Thief estava morto?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_528_12_ [Makoto]]
 [s][vp 9 2 65535 38352 0 0]Shido-san nega tudo, mas...[n]podemos realmente confiar?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_028_04_ [Makoto]]
-[s][vp 9 2 65535 45155 0 0]O que o Ladrão[n]Fantasma disse, é verdade...?[n][f 1 2 180][e]
+[s][vp 9 2 65535 45155 0 0]O que o Phantom[n]Thief disse, é verdade...?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_528_14_ [Makoto]]
 [s][vp 9 2 65535 38502 0 0]Eu pensei que os[n]Phantom Thieves estavam todos[n]mortos. O que está acontecendo?[n][f 1 2 180][e]
@@ -2271,7 +2271,7 @@
 [s][vp 9 2 65535 39652 0 0]Não pode ser verdade...[n]É tão triste...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_529_13_ [Makoto]]
-[s][vp 9 2 65535 38451 0 0]Porque? Gosta...? Shido-san...[n][f 1 2 180][e]
+[s][vp 9 2 65535 38451 0 0]Por quê? Gosta...? Shido-san...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_029_05_ [Makoto]]
 [s][vp 9 2 65535 37952 0 0]Shido-san[n]foi ameaçado pelos Phantom Thieves?[n][f 1 2 180][e]

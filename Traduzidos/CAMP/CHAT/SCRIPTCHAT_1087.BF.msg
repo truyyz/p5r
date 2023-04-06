@@ -15,7 +15,7 @@
 [s][f 5 14]Vamos todos nos encontrar novamente.[e]
 
 [msg MSG_REACTION [Ann]]
-[s][f 5 14]OK![n][w][e]
+[s][f 5 14]Ok![n][w][e]
 
 [msg MSG_REACTION_02 [Ann]]
 [s][f 5 14]Estarei na reunião em breve.[n][f 5 15][w][e]

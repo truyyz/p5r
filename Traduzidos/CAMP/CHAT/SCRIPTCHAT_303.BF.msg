@@ -17,7 +17,7 @@
 [s][f 5 14]Então você também não pode vir.[n][w][e]
 
 [msg MSG_014_0_0 [Ryuji]]
-[s][f 5 14]Eu vou e [f 4 2], OK?[n][w][e]
+[s][f 5 14]Eu vou e [f 4 2], Ok?[n][w][e]
 
 [sel SEL_015_0_0 top]
 [s][f 5 14]Aceita.[e]
@@ -33,7 +33,7 @@
 [s][f 5 14]Cale-se![n][w][e]
 
 [msg MSG_019_0_0 [Ryuji]]
-[s][f 5 14]OK, então está resolvido.[n]Vamos nos encontrar em Shibuya.[n][w][e]
+[s][f 5 14]Ok, então está resolvido.[n]Vamos nos encontrar em Shibuya.[n][w][e]
 
 [msg MSG_020_0_0 [Ann]]
 [s][f 5 14]Tome cuidado.[n][w][e]

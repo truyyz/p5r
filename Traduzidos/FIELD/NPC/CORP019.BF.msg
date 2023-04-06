@@ -35,14 +35,14 @@
 [msg MSG_C19_ENZETHU_04_00 [Orador de rua]]
 [s][bup 0 112 0 0 0][f 4 10 65535 0 0][vp 8 2 1 20088 65535 0]Diante de tal desordem cívica[n]e incerteza econômica...[n]os cidadãos se encontram no caos.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]É imperativo que essa situação[n]seja resolvida com uma reforma social[n]implementada pelo governo.[n][w][e]
-[s][bup 0 112 2 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]No entanto, quem são as pessoas[n]confiando em...?[n]Sim, os Ladrões Fantasmas![n][w][e]
+[s][bup 0 112 2 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]No entanto, quem são as pessoas[n]confiando em...?[n]Sim, os Phantom Thieves![n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]O fato de serem os novos[n]campeões do povo diz muito[n]sobre os erros do executivo![n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]A má governança das personalidades[n]no poder é o que nos levou[n]a esta terrível situação...[n][w][e]
 
 [msg MSG_C19_ENZETHU_04_01 [Yoshida]]
 [s][bup 0 112 0 0 0][f 4 10 65535 0 0][vp 8 2 1 20088 65535 0]Diante de tal desordem cívica[n]e incerteza econômica...[n]os cidadãos se encontram no caos.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]É imperativo que essa situação[n]seja resolvida com uma reforma social[n]implementada pelo governo.[n][w][e]
-[s][bup 0 112 2 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]No entanto, quem são as pessoas[n]confiando em...?[n]Sim, os Ladrões Fantasmas![n][w][e]
+[s][bup 0 112 2 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]No entanto, quem são as pessoas[n]confiando em...?[n]Sim, os Phantom Thieves![n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]O fato de serem os novos[n]campeões do povo diz muito[n]sobre os erros do executivo![n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]A má governança das personalidades[n]no poder é o que nos levou[n]a esta terrível situação...[n][w][e]
 
@@ -202,7 +202,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Bem, cabe a você, certo?[n][w][e]
 
 [msg MSG_C19_MGK_01_04 [Yoshida]]
-[s][bup 0 112 0 0 0][f 4 10 65535 0 0][f 4 23 1 219 3 10 0 10][vp 8 2 1 20038 65535 0]...Ensiná-lo a fazer um discurso? E porque?[n][w][e]
+[s][bup 0 112 0 0 0][f 4 10 65535 0 0][f 4 23 1 219 3 10 0 10][vp 8 2 1 20038 65535 0]...Ensiná-lo a fazer um discurso? E por quê?[n][w][e]
 
 [sel SEL_C19_MGK_01_05 top]
 [s]Eu quero entrar na política.[e]
@@ -405,7 +405,7 @@
 
 [msg MSG_C19_YES_08_00 [Yoshida]]
 [s][bup 0 112 1 0 0][f 4 10 65535 0 0][f 4 23 1 219 3 10 0 10][vp 8 2 1 20030 65535 0]Obrigado pelo seu interesse.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Uma conversa sobre[n]os Ladrões Fantasmas...[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Uma conversa sobre[n]os Phantom Thieves...[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu gostaria que você ouvisse.[n]Espero que[n]não perca.[n][w][e]
 
 [msg MSG_C19_YES_09_00 [Yoshida]]

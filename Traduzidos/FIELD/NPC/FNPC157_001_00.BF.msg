@@ -395,7 +395,7 @@
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1037 65535 0]Não, sua Persona é muito fraca.[n]Você estaria em perigo em uma luta[n]direta, então deixe isso conosco.[n][w][e]
 
 [msg D156_01_npc_01_mes03 [Haru]]
-[s][bup 0 7 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 3022 65535 0]OK...[n][w][e]
+[s][bup 0 7 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 3022 65535 0]Ok...[n][w][e]
 
 [msg D162_01_npc_01_mes01 [[f 4 31 10 0]]]
 [s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 57136 65535 0]Eu quero falar com o Dr. Maruki.[n]Deixe-me ir com você.[n][w][e]

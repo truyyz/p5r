@@ -322,7 +322,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Bem, vou dar uma volta.[n]Avise-me quando[n]você estiver pronto para ir.[n][w][e]
 
 [msg MSG_C18_COOP_CANCEL_00 [Mishima]]
-[s][bup 0 111 0 65535 0][f 4 23 1 218 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Oh, OK... Talvez agora[n]você esteja muito ocupado para estar[n]com alguém como eu.[n][w][e]
+[s][bup 0 111 0 65535 0][f 4 23 1 218 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Oh, Ok... Talvez agora[n]você esteja muito ocupado para estar[n]com alguém como eu.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 19126 65535 0]Bem, me avise se mudar de ideia.[n]Vou manter meu telefone por perto, caso[n]você queira me enviar uma mensagem.[n][w][e]
 
 [msg MSG_C18_COOP_CANCEL_06 [Mishima]]

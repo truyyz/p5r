@@ -9,7 +9,7 @@
 
 [msg MSG_003_0_0 [Entrevistador de tv]]
 [s][vp 8 0 0 0 65535 0]Akechi-kun![n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]Gostaríamos de saber o que você acha[n]do anúncio da polícia sobre[n]o suicídio do Ladrão Fantasma![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Gostaríamos de saber o que você acha[n]do anúncio da polícia sobre[n]o suicídio do Phantom Thief![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Isso foi uma declaração falsa?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Locutor]]
@@ -47,6 +47,6 @@
 [s][vp 8 0 0 0 65535 0](自♀の笑いが大きくなる)[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Akechi]]
-[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Os Ladrões Fantasmas...[n][f 1 3 65535][w][e]
+[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Os Phantom Thieves...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Cuidar dele não foi suficiente...[n]Vou matar até o[n]último membro![n][f 1 3 65535][w][e]
 

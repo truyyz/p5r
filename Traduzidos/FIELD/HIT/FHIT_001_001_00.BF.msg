@@ -206,7 +206,7 @@
 [s]O resultado da raspadinha[n]é instantâneo.[n][w][e]
 
 [msg MSG_LotShop_SC_Start02 [Morgana]]
-[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 1175 65535 0]OK, vamos dar uma boa arranhada![n][w][e]
+[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 1175 65535 0]Ok, vamos dar uma boa arranhada![n][w][e]
 
 [msg MSG_Scratch_Info [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1172 65535 0]Vejamos... Raspadinhas...[n]Você tem que raspar em[n]três lugares e...[n][w][e]
@@ -310,7 +310,7 @@
 
 [msg MSG_E19310100_GOTO_MADAR_2 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 6127 65535 0]Deve estar em uma área[n]residencial na Central Street.[n][w][e]
-[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Teremos que andar um pouco.[n]OK, vamos andando![n][w][e]
+[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Teremos que andar um pouco.[n]Ok, vamos andando![n][w][e]
 
 [msg MSG_E24420300_NG_CENTER_ [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 7018 65535 0]Vamos por aqui.[n]Aquela repórter[n]está esperando por nós, não está?[n][w][e]
@@ -507,7 +507,7 @@
 
 [msg MSG_E19310100_CHK_CM_BOA [Ann]]
 [s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 6168 65535 0]Não é mais fácil olhar para coisas tão grandes de[n]afar?[n][w][e]
-[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]OK, devemos ir para a casa de[n]Madarame.[n][w][e]
+[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ok, devemos ir para a casa de[n]Madarame.[n][w][e]
 
 [msg MSG_E24420300_CHK_CM_BOA [Ryuji]]
 [s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 2 1 7196 65535 0]O que você está olhando?[n]Não é nada especial.[n][w][e]

@@ -11,7 +11,7 @@
 [s][f 5 14]Eu também avisei Ann.[n]Eu me saí bem, não foi?[n][f 5 15][w][e]
 
 [msg MSG_101_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Haverá Lady Ann?!? Uh... quero dizer, OK.[n]Sem problemas.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Haverá Lady Ann?!? Uh... quero dizer, Ok.[n]Sem problemas.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Mas você ainda não conhece Tóquio bem.[n]Pode ser uma boa chance[n]para se familiarizar com a área.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Então, o que você acha? Você quer[n]ir para [clr 2]Harajuku[clr 27] com Ryuji?[n][f 1 3 65535][w][e]
 
@@ -41,7 +41,7 @@
 
 [msg MSG_210_0_0 [Ryuji]]
 [s][f 5 14]Sim, imaginei que você poderia estar[n]ocupado.[n][w][e]
-[s][f 5 14]OK, eu cuido de Mishima.[n]Até mais![n][f 5 15][w][e]
+[s][f 5 14]Ok, eu cuido de Mishima.[n]Até mais![n][f 5 15][w][e]
 
 [msg MSG_400_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Amanhã você verá os outros[n]em Harajuku, certo? É melhor[n]descansar ou vai se atrasar![n][f 1 3 65535][w][e]

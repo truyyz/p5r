@@ -749,7 +749,7 @@
 [msg TV_NEWS_0709_000_00 [Locutor]]
 [s]Kaneshiro, o suspeito[n]número um, é o líder de[n]uma quadrilha criminosa em Shibuya.[n][w][e]
 [s]Muitos ficaram surpresos com a prisão repentina[n]de um criminoso desse calibre.[n][w][e]
-[s]A polícia também reiterou que os "ladrões[n]fantasmas" não tiveram nenhum papel na prisão.[n][w][e]
+[s]A polícia também reiterou que os "Phantom[n]Thieves" não tiveram nenhum papel na prisão.[n][w][e]
 [s]No entanto, algumas fontes continuam[n]a ao contrário.[n][w][e]
 
 [msg TV_NEWS_0709_100_00 [Morgana]]
@@ -758,7 +758,7 @@
 [msg TV_NEWS_0710_000_00 [Locutor]]
 [s]Vamos passar para a prisão de Kaneshiro,[n]chefe da máfia e suspeito número[n]um no caso de golpes bancários.[n][w][e]
 [s]Pouco antes de sua prisão, várias "cartas de[n]contestação" foram encontradas no bairro.[n][w][e]
-[s]Suas fotos foram divulgadas na Internet. Dizem[n]que eles são a prova da existência dos "ladrões[n]fantasmas".[n][w][e]
+[s]Suas fotos foram divulgadas na Internet. Dizem[n]que eles são a prova da existência dos "Phantom[n]Thieves".[n][w][e]
 
 [msg TV_NEWS_0710_100_00 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1020 65535 0][f 4 25 1 65535 0 0]Deixar as[n]cartas de desafio funcionou. Notoriedade[n]nos trará mais casos para resolver.[n][w][e]
@@ -851,7 +851,7 @@
 [msg TV_NEWS_0720_000_00 [Locutor]]
 [s]A seguir está a última[n]declaração emitida pela Medjed.[n][w][e]
 [s]"Os Phantom Thieves nos deram[n]resposta. Isso prova que[n]Medjed está do lado certo."[n][w][e]
-[s]"Cidadãos do Japão,[n]abram seus olhos. Vocês não devem[n]adorar os Ladrões Fantasmas."[n][w][e]
+[s]"Cidadãos do Japão,[n]abram seus olhos. Vocês não devem[n]adorar os Phantom Thieves."[n][w][e]
 [s]"Castigaremos qualquer um que continuar a[n]venerá-los. A punição será o confisco de todos[n]os bens."[n][w][e]
 [s]"Somos Medjed.[n]Somos invisíveis. Somos[n]aqueles que eliminarão o mal."[n][w][e]
 
@@ -1406,7 +1406,7 @@
 
 [msg TV_NEWS_0920_000_00 [Locutor]]
 [s]Um homem[n]que ameaçou detonar uma bomba na Internet[n]foi preso.[n][w][e]
-[s]De acordo com suas declarações, ele[n]estaria se passando por um Ladrão[n]Fantasma em busca de atenção.[n][w][e]
+[s]De acordo com suas declarações, ele[n]estaria se passando por um Phantom[n]Thief em busca de atenção.[n][w][e]
 [s]A polícia pede cautela contra a emulação[n]criminosa de Phantom Thieves.[n][w][e]
 
 [msg TV_NEWS_0920_100_00 [Morgana]]
@@ -1683,7 +1683,7 @@
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1156 65535 0][f 4 25 1 65535 0 0]Está indo mal...[n]Não baixe a guarda,[n]não se esqueça.[n][w][e]
 
 [msg TV_NEWS_1022_000_00 [Locutor]]
-[s]As investigações[n]policiais visando a prisão[n]dos Ladrões Fantasmas continuam.[n][w][e]
+[s]As investigações[n]policiais visando a prisão[n]dos Phantom Thieves continuam.[n][w][e]
 [s]Ontem[n]uma investigação[n]foi realizada em uma escola secundária.[n][w][e]
 [s]Não está claro se as pistas foram encontradas,[n]mas é certo que o mal-estar entre os cidadãos[n]está agora no auge.[n][w][e]
 [s]O governo foi amplamente[n]criticado por deixar um grupo tão perigoso[n]livre…[n][w][e]
@@ -1746,7 +1746,7 @@
 
 [msg TV_NEWS_1030_000_00 [Locutor]]
 [s]Outros casos de raptus ocorreram nas últimas[n]horas.[n][w][e]
-[s]Acredita-se que a marca dos Ladrões Fantasmas[n]esteja escondida atrás dele.[n][w][e]
+[s]Acredita-se que a marca dos Phantom Thieves[n]esteja escondida atrás dele.[n][w][e]
 [s]A cidadania vive horas de terror[n]pelos atos cruéis e desumanos[n]perpetrados pelo grupo terrorista.[n][w][e]
 
 [msg TV_NEWS_1030_100_00 [Morgana]]

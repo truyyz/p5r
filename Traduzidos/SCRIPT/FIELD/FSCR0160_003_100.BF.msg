@@ -19,7 +19,7 @@
 [s]Não muito.[e]
 
 [msg D08_02_e457_015_selA_1_m [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1175 65535 0]OK, prepare-se corretamente![n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1175 65535 0]Ok, prepare-se corretamente![n][w][e]
 
 [msg D08_02_e457_015_re_mes01 [Futaba]]
 [s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Você está pronto, Joker?[n][w][e]
@@ -29,5 +29,5 @@
 [s]Não muito.[e]
 
 [msg D08_02_e457_015_re_selA_ [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]OK, prepare-se corretamente![n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ok, prepare-se corretamente![n][w][e]
 

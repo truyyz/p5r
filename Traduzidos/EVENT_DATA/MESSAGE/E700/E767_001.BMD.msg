@@ -8,7 +8,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]E fazendo isso como um casal,[n]a harmonia dos Phantom Thieves[n]será fortalecida![n][f 1 3 65535][w][e]
 
 [msg MSG_000_3_0 [Morgana]]
-[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 0 1192 65535 0]OK, vamos começar o jogo![n][f 1 3 65535][w][e]
+[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 0 1192 65535 0]Ok, vamos começar o jogo![n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1122 65535 0]Tudo bem, vamos jogar 01.[n]Temos 5 rodadas para levar[n]nossa pontuação a 0![n][f 1 3 65535][w][e]

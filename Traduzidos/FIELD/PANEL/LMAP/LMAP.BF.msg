@@ -503,21 +503,21 @@
 
 [msg MSG_RYUJI_SPOT_OGIKUBO [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][f 4 23 1 207 32 10 31 10][vp 8 2 1 0 65535 0]Oh, aquela barra de ramen?!?[n]Estou faminto.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 7051 65535 0]OK, vamos nos mover![n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 7051 65535 0]Ok, vamos nos mover![n][w][e]
 
 [msg MSG_RYUJI_SPOT_OGIKUBO_0 [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][f 4 23 1 207 32 10 31 10][vp 8 2 1 7052 65535 0]Você está louco por esse ramen,[n]eh? OK, vamos lá![n][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][f 4 23 1 207 32 10 31 10][vp 8 2 1 7052 65535 0]Você está louco por esse ramen,[n]eh? Ok, vamos lá![n][w][e]
 
 [msg MSG_RYUJI_SPOT_TUKISHIMA [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][f 4 23 1 207 32 10 31 10]Ah, você quer ir àquela loja de monjayaki?[n]Nosso arquivo[n]de sabores está prestes a ficar mais rico![n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 7051 65535 0]OK, vamos nos mover![n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 7051 65535 0]Ok, vamos nos mover![n][w][e]
 
 [msg MSG_RYUJI_SPOT_TUKISHIMA_2 [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][f 4 23 1 207 32 10 31 10][vp 8 2 1 7052 65535 0]Monjayaki deve ser comido[n]quente e deve queimar o paladar.[n]Muito bem, vamos lá![n][w][e]
 
 [msg MSG_RYUJI_SPOT_AKIHABARA [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][f 4 23 1 207 32 10 31 10]A loja de eletrônicos? Pode[n]ser divertido. Vamos ver[n]que equipamento de fitness eles vendem![n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 7051 65535 0]OK, vamos nos mover![n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 7051 65535 0]Ok, vamos nos mover![n][w][e]
 
 [msg MSG_RYUJI_SPOT_AKIHABARA_2 [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][f 4 23 1 207 32 10 31 10][vp 8 2 1 7052 65535 0]Não é estranho que eu goste de ir a[n]lojas de eletrônicos mesmo que[n]não haja nada para comprar? Bem ok![n][w][e]
@@ -531,20 +531,20 @@
 
 [msg MSG_RYUJI_SPOT_YOKOHAMA [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][f 4 23 1 207 32 10 31 10]Sim, eu realmente quero um[n]all-you-can-eat chinês.[n]Vamos nos livrar de tudo![n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 7051 65535 0]OK, vamos nos mover![n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 7051 65535 0]Ok, vamos nos mover![n][w][e]
 
 [msg MSG_RYUJI_SPOT_YOKOHAMA_ [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][f 4 23 1 207 32 10 31 10][vp 8 2 1 7052 65535 0]Eu nunca vou me cansar de[n]ir lá! Vamos lá, o que você está esperando?[n][w][e]
 
 [msg MSG_RYUJI_SPOT_NAKANO [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][f 4 23 1 207 32 10 31 10]Nakano, né? Bem, vamos[n]dar uma olhada.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 7051 65535 0]OK, vamos lá![n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 7051 65535 0]Ok, vamos lá![n][w][e]
 
 [msg MSG_RYUJI_SPOT_NAKANO_02 [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][f 4 23 1 207 32 10 31 10][vp 8 2 1 7052 65535 0]Eu nunca vou me cansar de[n]ir lá! Vamos lá, o que você está esperando?[n][w][e]
 
 [msg MSG_ANNE_SPOT_INOKASIRA [Ann]]
-[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][f 4 23 1 226 14 10 13 10][f 4 23 1 206 3 10 0 10]Parque Inokashira? OK.[n][w][e]
+[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][f 4 23 1 226 14 10 13 10][f 4 23 1 206 3 10 0 10]Parque Inokashira? Ok.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 6052 65535 0]Eu também gosto daquele lugar![n]Vamos lá![n][w][e]
 
 [msg MSG_ANNE_SPOT_INOKASIRA_ [Ann]]
@@ -691,7 +691,7 @@
 [s][bup 0 6 1 65535 0][f 4 10 65535 0 0][f 4 23 1 202 3 10 0 10][vp 8 2 1 2051 65535 0]Sim, a paisagem era linda.[n]Vamos.[n][w][e]
 
 [msg MSG_FUTABA_SPOT_ASAKUSA_ [Futaba]]
-[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 209 3 10 0 10]A Árvore Celeste? OK![n]Lugares altos são divertidos.[n][w][e]
+[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 209 3 10 0 10]A Árvore Celeste? Ok![n]Lugares altos são divertidos.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 9069 65535 0]Você pode me mostrar como[n]ele chega lá, [f 4 2]?[n][w][e]
 
 [msg MSG_FUTABA_SPOT_ASAKUSA__2 [Futaba]]
@@ -699,7 +699,7 @@
 
 [msg MSG_FUTABA_SPOT_ASAKUSA__3 [Futaba]]
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][f 4 23 1 209 3 10 0 10]É uma atração turística famosa, certo? Quem sabe[n]como é...[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 9069 65535 0]OK, vamos lá![n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 9069 65535 0]Ok, vamos lá![n][w][e]
 
 [msg MSG_FUTABA_SPOT_ASAKUSA__4 [Futaba]]
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][f 4 23 1 209 3 10 0 10][vp 8 2 1 9070 65535 0]...Estou dentro! E eu vou me livrar de[n]tudo, você vai ver![n][w][e]
@@ -733,7 +733,7 @@
 [s][bup 0 8 6 65535 0][f 4 10 65535 0 0][f 4 23 1 209 3 10 0 10][vp 8 2 1 9070 65535 0]Claro que irei. Podemos ficar[n]sozinhos na roda-gigante...[n][w][e]
 
 [msg MSG_FUTABA_SPOT_YOKOHAMA [Futaba]]
-[s][bup 0 8 4 65535 0][f 4 10 65535 0 0][f 4 23 1 209 3 10 0 10]Chinatown?!? O-OK...[n]Eles falam nossa língua, não é...?[n][w][e]
+[s][bup 0 8 4 65535 0][f 4 10 65535 0 0][f 4 23 1 209 3 10 0 10]Chinatown?!? O-Ok...[n]Eles falam nossa língua, não é...?[n][w][e]
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 9069 65535 0]M-mas eu quero gozar![n]já estou ficando excitado![n][w][e]
 
 [msg MSG_FUTABA_SPOT_YOKOHAMA_2 [Futaba]]
@@ -818,7 +818,7 @@
 [s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 57087 65535 0]Vamos![n][w][e]
 
 [msg MSG_KASUMI_SPOT_MEIJIJIN_2 [Kasumi]]
-[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][f 4 23 1 222 3 10 0 10][vp 8 2 1 0 65535 0]OK! Eu me sinto muito melhor[n]desde que orei lá![n][w][e]
+[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][f 4 23 1 222 3 10 0 10][vp 8 2 1 0 65535 0]Ok! Eu me sinto muito melhor[n]desde que orei lá![n][w][e]
 [s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 57087 65535 0]Então nós vamos?[n][w][e]
 
 [msg MSG_SUMIRE_SPOT_MEIJIJIN_2 [Sumire]]
@@ -838,7 +838,7 @@
 [s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 57067 65535 0]Vamos![n][w][e]
 
 [msg MSG_SUMIRE_SPOT_SKYTREE_ [Sumire]]
-[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][f 4 23 1 222 3 10 0 10][vp 8 2 1 0 65535 0]OK! A vista lá de cima é linda![n][w][e]
+[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][f 4 23 1 222 3 10 0 10][vp 8 2 1 0 65535 0]Ok! A vista lá de cima é linda![n][w][e]
 [s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 57069 65535 0]Vamos![n][w][e]
 
 [msg MSG_KASUMI_SPOT_INOKASHI [Kasumi]]
@@ -1131,5 +1131,5 @@
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 9062 65535 0]Você me iludiu![n][w][e]
 
 [msg MSG_HARU_SPOT_CANCEL [Haru]]
-[s][bup 0 7 200 65535 0][f 4 10 65535 0 0][vp 8 2 1 3063 65535 0]Oh, OK.[n][w][e]
+[s][bup 0 7 200 65535 0][f 4 10 65535 0 0][vp 8 2 1 3063 65535 0]Oh, Ok.[n][w][e]
 

@@ -1,5 +1,5 @@
 [msg D10_009_HuddleTalk_agend [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1172 65535 0]OK, vamos pensar em como lidar com a[n]segunda pergunta. O que devemos fazer, Joker?[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1172 65535 0]Ok, vamos pensar em como lidar com a[n]segunda pergunta. O que devemos fazer, Joker?[n][w][e]
 
 [msg D10_009_HuddleTalk_ReAge [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1186 65535 0]Você quer falar sobre outra coisa?[n][w][e]
@@ -43,7 +43,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1023 65535 0]Bem, acho que terminamos.[n][w][e]
 
 [msg D10_09_huddle_cancel_end [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1023 65535 0]Devemos ter todas as informações[n]necessárias, mas... OK, por enquanto[n]vamos encerrar aqui.[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1023 65535 0]Devemos ter todas as informações[n]necessárias, mas... Ok, por enquanto[n]vamos encerrar aqui.[n][w][e]
 
 [msg D10_09_huddle_ans_choice [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]A verdadeira questão é o que fazer se[n]você se esforçar para realizar[n]seu sonho, mas não consegue?[n][w][e]
@@ -131,7 +131,7 @@
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Mas o medo de se machucar não permite que[n]consiga nada de bom. Na[n]história da arte, os autores têm…[n][w][e]
 
 [msg D10_09_npc_c_info_05 [Futaba]]
-[s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]OK, tudo certo, Fox vota "não".[n]Vamos seguir em frente![n][w][e]
+[s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ok, tudo certo, Fox vota "não".[n]Vamos seguir em frente![n][w][e]
 
 [msg D10_09_npc_c_info_end [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Bem, obtivemos tudo o que pudemos com essa[n]resposta.[n][w][e]

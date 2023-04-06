@@ -64,7 +64,7 @@
 [s][bup 0 10 4 65535 0][vp 8 0 0 0 0 0]......[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Kasumi]]
-[s][bup 0 10 2 65535 0][f 4 10 65535 0 0][vp 8 2 0 57158 10 0]OK, o aquecimento acabou![n]A partir de agora, todos serão[n]home runs![n][f 1 3 65535][w][e]
+[s][bup 0 10 2 65535 0][f 4 10 65535 0 0][vp 8 2 0 57158 10 0]Ok, o aquecimento acabou![n]A partir de agora, todos serão[n]home runs![n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Kasumi]]
 [s][bup 0 10 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 10 0]Aaah![n][f 1 3 65535][w][e]

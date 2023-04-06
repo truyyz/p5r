@@ -34,7 +34,7 @@
 [s][f 5 14]Obrigado! É reconfortante ter você ao meu[n]lado.[n][w][e]
 
 [msg MSG_202_0_0 [Mishima]]
-[s][f 5 14]OK, até amanhã.[n]Boa noite![n][f 5 15][w][e]
+[s][f 5 14]Ok, até amanhã.[n]Boa noite![n][f 5 15][w][e]
 
 [msg MSG_201_1_0 [Mishima]]
 [s][f 5 14]Obrigado! É reconfortante ter você ao meu[n]lado.[n][w][e]

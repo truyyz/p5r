@@ -8,7 +8,7 @@
 [s]Vamos conversar.[e]
 
 [msg D05_02_e341_036_selA_0_m [???]]
-[s]hum? OOOH, ACHO QUE CONSEGUI. VOCÊS SÃO OS[n]FAMOSOS LADRÕES FANTASMAS![n][w][e]
+[s]hum? OOOH, ACHO QUE CONSEGUI. VOCÊS SÃO OS[n]FAMOSOS PHANTOM THIEVES![n][w][e]
 [s][clr 2]GRAHAHAHAH[clr 27]! MUITO BEM,[n]VOU TE DIZER A VERDADE.[n][w][e]
 [s]EU SOU O GERENTE CHEFE![n]É SUA ESCOLHA SE[n]ACREDITA OU NÃO.[n][w][e]
 [s]AGORA... VOCÊ TEM ALGUMA COISA[n]ME PERGUNTAR?[n][w][e]
@@ -48,16 +48,16 @@
 [s]Melhor ir embora.[f 2 7 0 0 106 1][e]
 
 [msg D05_02_e341_036_selC_0_m [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1174 65535 0]OK, Joker.[n]Vamos acabar com ele![n][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1174 65535 0]Ok, Joker.[n]Vamos acabar com ele![n][w][e]
 
 [msg D05_02_e341_036_selC_1_m [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1165 65535 0]Então você prefere não[n]lutar? OK, vamos nos aposentar![n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1165 65535 0]Então você prefere não[n]lutar? Ok, vamos nos aposentar![n][w][e]
 
 [msg D05_02_e341_036_selC_1_m_2 [???]]
 [s]EI, ONDE VOCÊ ESTÁ INDO?[n]NÓS AINDA NÃO TERMINAMOS![n][w][e]
 
 [msg D05_02_e341_036_end_mes0 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1174 65535 0]OK, nós vencemos ele.[n]Uh? O que há no chão...?[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1174 65535 0]Ok, nós vencemos ele.[n]Uh? O que há no chão...?[n][w][e]
 
 [msg D05_02_e341_036_end_mes0_2 [Haru]]
 [s][bup 0 7 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Perfeito! Finalmente, temos o distintivo do[n]Maestro Chefe![n][w][e]

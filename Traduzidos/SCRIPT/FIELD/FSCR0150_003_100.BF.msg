@@ -37,10 +37,10 @@
 [s][vp 8 1 65535 3016 0 0]Não foi possível confirmar a localização do[n]intruso.[n][w][e]
 
 [msg D00_01_e100_305_mes05 [Voz de menina]]
-[s][bup 0 8 150 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9196 65535 0]OK, segue reto a partir daí![n][w][e]
+[s][bup 0 8 150 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9196 65535 0]Ok, segue reto a partir daí![n][w][e]
 
 [msg D06_01_e100_305_mes05 [Futaba]]
-[s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9196 65535 0]OK, segue reto a partir daí![n][w][e]
+[s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9196 65535 0]Ok, segue reto a partir daí![n][w][e]
 
 [msg D00_01_e100_303_mes01 [Voz de menina]]
 [s][bup 0 8 150 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9040 65535 0]Ali! Parado![n][w][e]

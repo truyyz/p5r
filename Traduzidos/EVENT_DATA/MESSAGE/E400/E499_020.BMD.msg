@@ -86,7 +86,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 37 65535 0]Ele parece precisar e, além disso, não[n]será tão difícil colher algumas[n]flores enquanto exploramos, certo?[n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [Ryuji]]
-[s][bup 0 2 100 0 0][f 4 10 65535 0 0][vp 8 0 0 38 65535 0]OK, existem OUTROS motivos?[n][f 1 3 65535][w][e]
+[s][bup 0 2 100 0 0][f 4 10 65535 0 0][vp 8 0 0 38 65535 0]Ok, existem OUTROS motivos?[n][f 1 3 65535][w][e]
 
 [msg MSG_025_0_0 [Ann]]
 [s][bup 0 4 101 0 0][f 4 10 65535 0 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 3 5 301 65535][vp 8 0 0 39 65535 0]Heheh, ele me chamou de[n]"menina bonita".[n][f 1 3 65535][w][e]
@@ -121,7 +121,7 @@
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 48 65535 0]Eu NÃO sou um gato[n]e NÃO estou com raiva![n][f 1 3 65535][w][e]
 
 [msg MSG_034_0_0 [Jose]]
-[s][bup 0 221 1 0 0][f 4 10 65535 0 0][vp 8 0 0 49 65535 0]O-Oh, OK... então... você está com fome?[n][f 1 3 65535][w][e]
+[s][bup 0 221 1 0 0][f 4 10 65535 0 0][vp 8 0 0 49 65535 0]O-Oh, Ok... então... você está com fome?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 50 65535 0]Eu sei que a fome[n]pode deixar as pessoas com raiva.[n][f 1 3 65535][w][e]
 
 [msg MSG_035_0_0 [Jose]]

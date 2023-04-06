@@ -40,7 +40,7 @@
 
 [msg AT_D_BF_D10_BEFORE_CABLE_5 [Morgana]]
 [s][bup 0 3 3 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1028 65535 0]Tarde demais...[n][w][e]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Dirija com cuidado, OK, [f 4 2]?[n][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Dirija com cuidado, Ok, [f 4 2]?[n][w][e]
 
 [msg AT_D_BF_D10_AFTER_CABLE_ [Ryuji]]
 [s][bup 0 2 3 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7115 65535 0]Ei, os Mementos... eles não parecem muito brancos[n]para você? Depende de todas essas coisas de[n]"cumprimento"?[n][w][e]

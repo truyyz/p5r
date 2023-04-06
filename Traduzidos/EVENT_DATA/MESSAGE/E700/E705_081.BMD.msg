@@ -28,7 +28,7 @@
 [s][vp 8 0 0 0 65535 0][f 5 14]Eu não quero que ninguém[n]saiba sobre o tempo que eu[n]vivi com ele...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 5 14]Talvez um dia eu conte...[n]mas não agora.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 5 14]Então eu estava pensando...[n]Podemos ir lá[n]só você e eu?[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0][f 5 14][f 5 15]Eu realmente preciso da sua ajuda,[n][f 4 2]! Por favoreeeeee![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 5 14][f 5 15]Eu realmente preciso da sua ajuda,[n][f 4 2]! Por favorrrrrr![n][f 1 3 65535][w][e]
 
 [msg MND_003_0_0]
 [s][vp 8 0 0 0 65535 0]Eu tenho que cuidar do tio de Futaba[n]e ajudar Sojiro...[n][f 1 3 65535][w][e]

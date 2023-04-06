@@ -20,7 +20,7 @@
 [s][bup 0 109 303 0 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Você não deveria estar olhando para mim?[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Kawakami]]
-[s][bup 0 109 301 0 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0][f 5 13 15 5 1009]OK, não vou perguntar então.[n][f 1 3 65535][w][e]
+[s][bup 0 109 301 0 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0][f 5 13 15 5 1009]Ok, não vou perguntar então.[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Kawakami]]
 [s][bup 0 109 306 0 0][f 4 10 65535 0 0][vp 8 0 0 45 65535 0]Bem, hum...[n][f 1 3 65535][w][e]
@@ -66,7 +66,7 @@
 [s][bup 0 109 300 0 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Sim, isso mesmo.[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Vendedor de camarão]]
-[s][vp 8 0 0 19 65535 0]E aqueles Ladrões Fantasmas,[n]heh? Aqueles que roubam corações![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 19 65535 0]E aqueles Phantom Thieves,[n]heh? Aqueles que roubam corações![n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Kawakami]]
 [s][bup 0 109 301 0 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]Uau, você é muito experiente.[n][f 1 3 65535][w][e]
@@ -82,7 +82,7 @@
 [s][vp 8 0 0 24 65535 0]E diga a ele para despertar o coração[n]das pessoas, para que todos[n]amem o lagostim![n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Kawakami]]
-[s][bup 0 109 300 0 0][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]OK, eu vou dizer a ele.[n][f 1 3 65535][w][e]
+[s][bup 0 109 300 0 0][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]Ok, eu vou dizer a ele.[n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Vendedor de camarão]]
 [s][vp 8 0 0 26 65535 0]Enfim, você está aqui na[n]lua de mel?[n][f 1 3 65535][w][e]

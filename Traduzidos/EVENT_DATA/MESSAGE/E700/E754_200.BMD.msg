@@ -59,7 +59,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Mas é um pouco tarde para reservar.[n]Lugares chiques estão reservados para[n]White Day.[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Morgana]]
-[s][bup 0 3 600 0 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]OK, certo, reservar agora será[n]impossível... espera, o quê!?![n][f 1 3 65535][w][e]
+[s][bup 0 3 600 0 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Ok, certo, reservar agora será[n]impossível... espera, o quê!?![n][f 1 3 65535][w][e]
 
 [sel SEL_017_0_0 top]
 [s]Soluções alternativas?[e]

@@ -39,10 +39,10 @@
 [s][vp 8 0 0 13 20 0]...E o que foi isso?[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Agente veterano]]
-[s][vp 8 0 0 14 23 0]...Os Ladrões Fantasmas?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 14 23 0]...Os Phantom Thieves?[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Jovem agente]]
-[s][vp 8 0 0 15 22 0]Não eram os ladrões fantasmas...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 15 22 0]Não eram os Phantom Thieves...[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Aluno tímido]]
 [s][vp 8 0 0 16 24 0]Eles ainda não desistiram...[n][f 1 3 65535][w][e]

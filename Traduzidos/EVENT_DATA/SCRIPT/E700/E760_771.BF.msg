@@ -26,7 +26,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Faz sentido, já que você[n]aprendeu. Está bem. Vamos lá.[n][f 1 3 65535][w][e]
 
 [msg MND_203_6_0]
-[s][vp 8 2 0 0 65535 0]OK, isso deve tornar o jogo mais fácil...[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0]Ok, isso deve tornar o jogo mais fácil...[n][f 1 3 65535][w][e]
 
 [msg MSG_READ_BOOK_URAWAZA_NO [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Uau, você está animado! Bem, é isso![n][f 1 3 65535][w][e]

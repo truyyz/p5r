@@ -11,7 +11,7 @@
 [s]Logo... Logo meus sonhos[n]se tornarão realidade...[n][w][e]
 
 [msg D08_01_NPC_TALK_28_mes01 [Menino hostil]]
-[s]Vocês são... os Ladrões Fantasmas?[n][w][e]
+[s]Vocês são... os Phantom Thieves?[n][w][e]
 [s]O que você está fazendo aqui?!?[n]Tire as mãos![n][w][e]
 
 [msg D08_01_NPC_TALK_29_mes01 [Homem satisfeito]]

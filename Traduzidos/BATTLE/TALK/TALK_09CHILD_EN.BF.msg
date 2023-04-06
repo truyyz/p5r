@@ -68,10 +68,10 @@
 [s]Vamos jogar de novo,[n]da próxima vez! Bye Bye![n][w][e]
 
 [msg TalkMsg_EN_ACCEPT_00]
-[s]OK, vamos continuar lutando.[n]Não vou perder desta vez![n][w][e]
+[s]Ok, vamos continuar lutando.[n]Não vou perder desta vez![n][w][e]
 
 [msg TalkMsg_EN_ACCEPT_01]
-[s]OK, pare! Vamos começar[n]uma luta de novo![n][w][e]
+[s]Ok, pare! Vamos começar[n]uma luta de novo![n][w][e]
 
 [msg TalkMsg_EN_FALTER_00]
 [s]O que?!? Você está trapaceando![n]Não está feito! Não está nas regras![n][w][e]
@@ -83,13 +83,13 @@
 [s]Cara... eu fiz uma garota chorar. Mmm, eu te[n]perdôo se você me der alguns [f 2 5 3 9999 3]![n][w][e]
 
 [msg TalkMsg_EN_FAKE_CRIED01]
-[s]O que...? Os adultos também podem chorar como[n]bebês? OK, uhm... Vou deixar pra lá, se você me[n]der [var 0] iene.[n][w][e]
+[s]O que...? Os adultos também podem chorar como[n]bebês? Ok, uhm... Vou deixar pra lá, se você me[n]der [var 0] iene.[n][w][e]
 
 [msg TalkMsg_EN_FAKE_CRIED02]
 [s]Cara... eu fiz uma garota chorar. Se você me der[n]um pouco da sua saúde, eu te perdôo, senhor![n][w][e]
 
 [msg TalkMsg_EN_FAKE_CRIED03]
-[s]O que...? Os adultos também podem chorar como[n]bebês? OK, uhm... Vamos fazer isso, me dê um[n]pouco de energia.[n][w][e]
+[s]O que...? Os adultos também podem chorar como[n]bebês? Ok, uhm... Vamos fazer isso, me dê um[n]pouco de energia.[n][w][e]
 
 [msg TalkMsg_EN_FAKE_COUP00]
 [s]Uh-oh, eu fiz uma[n]menina chorar! Corra ou terei problemas![n][w][e]

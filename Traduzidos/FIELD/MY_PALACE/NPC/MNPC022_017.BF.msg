@@ -49,7 +49,7 @@
 [msg MES_GROUP4_01 [Chihaya]]
 [s][bup 0 113 4 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 30 10 0 10][vp 8 2 1 10039 65535 0]Debaixo da saia ela esconde algumas coisas[n]absurdas...[n][w][e]
 [s][f 4 10 65535 4 0][vp 8 2 1 0 65535 0]Isso é normal para garotas da cidade?!?[n][w][e]
-[s][bup 0 113 3 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 32 10 0 10][vp 8 2 1 10021 65535 0]A cidade é um lugar perigoso,[n]OK, mas eu não acreditei[n]até esse ponto...[n][w][e]
+[s][bup 0 113 3 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 32 10 0 10][vp 8 2 1 10021 65535 0]A cidade é um lugar perigoso,[n]Ok, mas eu não acreditei[n]até esse ponto...[n][w][e]
 
 [msg MES_GROUP4_02 [Haru]]
 [s][bup 0 7 3 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 3033 65535 0]Desculpa! É tudo um grande mal-entendido![n][w][e]

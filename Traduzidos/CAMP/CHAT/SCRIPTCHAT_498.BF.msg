@@ -11,7 +11,7 @@
 [s][f 5 14]Eu estava esperando por você![n]Vamos fazer isso mais uma vez.[n]Mas lembre-se disso, ok?[n][w][e]
 
 [msg CHAT_REACTION_MSG [Ryuji]]
-[s][f 5 14]OK. Então te espero aqui.[n][w][e]
+[s][f 5 14]Ok. Então te espero aqui.[n][w][e]
 
 [msg MSG_MORUGANA [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Então, o que você vai fazer?[n]Você quer aceitar[n]o convite de Ryuji?[n][f 1 3 65535][w][e]

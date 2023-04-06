@@ -38,7 +38,7 @@
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 6 12 301 1][vp 8 0 0 17 65535 0]Hã?[n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Akechi]]
-[s][bup 0 9 0 1 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Ladrões Fantasmas que enviam cartas[n]de desafio e executam[n]seus planos criminosos...[n][f 1 3 65535][w][e]
+[s][bup 0 9 0 1 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Phantom Thieves que enviam cartas[n]de desafio e executam[n]seus planos criminosos...[n][f 1 3 65535][w][e]
 [s][bup 0 9 1 1 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Como um "[n]detetive carismático", seria difícil para[n]eu não vê-los como rivais.[n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Makoto]]

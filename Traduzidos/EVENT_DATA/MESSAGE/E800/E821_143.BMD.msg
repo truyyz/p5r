@@ -27,9 +27,9 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E ele também está pensando no[n]futuro...[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Kawakami]]
-[s][bup 0 109 500 65535 0][f 4 10 65535 0 0][vp 8 2 0 15155 65535 0]OK, vamos continuar a lição![n]Se houver algo que você[n]não entenda, pergunte-me![n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Espere, não! Vou retirar![n]Pergunte-me apenas coisas simples,[n]OK? Por favor.[n][f 1 3 65535][w][e]
+[s][bup 0 109 500 65535 0][f 4 10 65535 0 0][vp 8 2 0 15155 65535 0]Ok, vamos continuar a lição![n]Se houver algo que você[n]não entenda, pergunte-me![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Espere, não! Vou retirar![n]Pergunte-me apenas coisas simples,[n]Ok? Por favor.[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Kawakami]]
-[s][vp 8 2 0 15083 65535 0]Foi divertido, não foi?[n]OK, vamos para casa.[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 15083 65535 0]Foi divertido, não foi?[n]Ok, vamos para casa.[n][f 1 3 65535][w][e]
 

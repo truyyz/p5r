@@ -55,6 +55,6 @@
 [s][bup 0 9 810 0 0][f 4 10 65535 0 0][vp 8 0 0 34 65535 0]Seria ainda mais bizarro se[n]o Metaverso seguisse a[n]lógica do mundo real.[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Futaba]]
-[s][bup 0 8 100 0 0][f 4 10 65535 0 0][vp 8 0 0 35 65535 0]Tenha cuidado se você quiser[n]mergulhar mais fundo,[n]OK?[n][f 1 3 65535][w][e]
+[s][bup 0 8 100 0 0][f 4 10 65535 0 0][vp 8 0 0 35 65535 0]Tenha cuidado se você quiser[n]mergulhar mais fundo,[n]Ok?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 36 65535 0]As leituras são muito estranhas...[n]E também detecto Sombras.[n][f 1 3 65535][w][e]
 

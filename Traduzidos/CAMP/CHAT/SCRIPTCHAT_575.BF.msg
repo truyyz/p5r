@@ -8,7 +8,7 @@
 [s][f 5 14]Mas é importante.[n]Você poderia vir?[n][f 5 15][w][e]
 
 [msg CHAT_REACTION_MSG_01 [Takemi]]
-[s][f 5 14]OK, eu vou esperar na clínica por você,[n]então.[n][w][e]
+[s][f 5 14]Ok, eu vou esperar na clínica por você,[n]então.[n][w][e]
 
 [msg CHAT_REACTION_MSG_02 [Takemi]]
 [s][f 5 14]Essa garotinha voltará hoje[n]e eu gostaria que você a visse.[n][f 5 15][w][e]

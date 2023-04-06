@@ -14,7 +14,7 @@
 [s][bup 0 109 603 0 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Entendo...Ah, isso mesmo.[n]Você tem antecedentes criminais...[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Kawakami]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 109 1 300 1][vp 8 0 0 6 65535 0]OK, escute...[n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 109 1 300 1][vp 8 0 0 6 65535 0]Ok, escute...[n][f 1 3 65535][w][e]
 [s][bup 0 109 601 0 0][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Vou[n]fazer você faltar às aulas de vez em quando.[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Kawakami]]
@@ -61,7 +61,7 @@
 
 [sel SEL_012_0_0 top]
 [s]Eu não preciso de ajuda.[e]
-[s]Porque?[e]
+[s]Por quê?[e]
 
 [msg MSG_013_0_0 [Kawakami]]
 [s][bup 0 109 600 0 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Mentira, é claro. Vamos, deixe[n]nossos segredos mútuos e[n]me faria sentir melhor...[n][f 1 3 65535][w][e]

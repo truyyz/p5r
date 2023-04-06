@@ -32,7 +32,7 @@
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Você pode tomar um banho primeiro.[n]Eu tenho que estudar.[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Sae]]
-[s][bup 0 105 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]OK, muito obrigado.[n][f 1 3 65535][w][e]
+[s][bup 0 105 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Ok, muito obrigado.[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Makoto]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 6 5 301 1][vp 1 0 0 17 0 0]......[n][f 1 3 65535][w][e]

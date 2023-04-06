@@ -5,7 +5,7 @@
 [s][bup 0 103 2 0 0][vp 1 0 0 2 0 0]......[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Locutor]]
-[s][vp 8 0 0 3 65535 0]Retomamos a reportagem sobre os[n]Ladrões Fantasmas, suspeitos do assassinato[n]do Sr. Okumura e outros.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 3 65535 0]Retomamos a reportagem sobre os[n]Phantom Thieves, suspeitos do assassinato[n]do Sr. Okumura e outros.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 4 65535 0]Os Phantom Thieves foram[n]declarados os mais procurados[n]de toda a nação...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 5 65535 0]Uma recompensa foi instituída para qualquer[n]pessoa com informações que levem à sua captura.[n][f 1 3 65535][w][e]
 

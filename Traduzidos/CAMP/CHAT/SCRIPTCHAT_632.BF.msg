@@ -8,7 +8,7 @@
 [s][f 5 14]Eu gostaria de falar com você,[n]se estiver tudo bem para você.[n][f 5 15][w][e]
 
 [msg CHAT_REACTION_MSG [Hifumi]]
-[s][f 5 14]OK, te espero na igreja.[n][f 5 15][w][e]
+[s][f 5 14]Ok, te espero na igreja.[n][f 5 15][w][e]
 
 [sel SEL_001 top]
 [s]Vá até ela imediatamente[e]

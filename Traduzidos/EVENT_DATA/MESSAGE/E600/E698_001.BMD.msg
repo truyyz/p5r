@@ -184,7 +184,7 @@
 
 [sel SEL_044_0_0 top]
 [s]Circular o nome?[e]
-[s]Porque?[e]
+[s]Por quê?[e]
 [s]Eu não me importo.[e]
 
 [msg MSG_045_0_0 [Morgana]]
@@ -227,7 +227,7 @@
 [sel SEL_052_0_0 top]
 [s]É claro.[e]
 [s]Só perde tempo.[e]
-[s]Porque?[e]
+[s]Por quê?[e]
 
 [msg MSG_053_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Excelente. Agradeço sua[n]atitude.[n][f 1 3 65535][w][e]
@@ -248,7 +248,7 @@
 
 [msg MSG_057_0_0 [Estudante preocupado]]
 [s][vp 8 2 0 39452 4 0]Mas como você pode ficar calmo[n]com tudo o que está acontecendo?[n]O anúncio de Medjed foi delirante![n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 5 0]"Japonês, não adore os Ladrões Fantasmas!" Também[n]pode ser apenas uma piada.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 5 0]"Japonês, não adore os Phantom Thieves!" Também[n]pode ser apenas uma piada.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 5 0]Ou podemos ver o maior[n]roubo de dados privados já[n]realizado até o momento.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 5 0]Eu me pergunto se eles vão[n]atacar outro site... Quem sabe[n]como os Phantom Thieves vão reagir.[n][f 1 3 65535][w][e]
 
@@ -262,7 +262,7 @@
 [sel SEL_060_0_0 top]
 [s]Você tem razão.[e]
 [s]Não seja precipitado.[e]
-[s]Porque?[e]
+[s]Por quê?[e]
 
 [msg MSG_061_0_0 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 65535 1035 0 0]Chega desta assembléia.[n]Temos assuntos mais importantes[n]para tratar![n][f 1 3 65535][w][e]
@@ -457,7 +457,7 @@
 
 [msg MSG_107_0_0 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 65535 1043 0 0]"Tudo está bem"...? Você ouviu o discurso deles?[n]O que você fará se seu uniforme for arruinado...?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]OK, às vezes a gente vai na[n]farmácia para ver que[n]detergentes eles vendem![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ok, às vezes a gente vai na[n]farmácia para ver que[n]detergentes eles vendem![n][f 1 3 65535][w][e]
 
 [msg MSG_108_0_0 [Garota entusiasmada]]
 [s][vp 8 0 0 0 4 0]Ei adivinha! Resolvi[n]dedicar-me aos concursos de televisão![n][f 1 3 65535][w][e]

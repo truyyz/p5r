@@ -88,7 +88,7 @@
 [s]Resigne-se a morrer![n][w][e]
 
 [msg D154_005_mini_EV_04_selA_3 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]OK, prepare-se corretamente.[n][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ok, prepare-se corretamente.[n][w][e]
 
 [msg D154_005_mini_EV_04_mes0_5 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1158 65535 0]Você está pronto, Joker?[n][w][e]

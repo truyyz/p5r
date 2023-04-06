@@ -62,11 +62,11 @@
 [s]Minha culpa.[e]
 
 [msg MSG_018_0_0 [Ann]]
-[s][bup 0 4 1 8 0][f 4 10 65535 0 0][vp 8 0 0 21 23 0]...OK, tudo bem. Eu te perdôo.[n][f 1 3 65535][w][e]
+[s][bup 0 4 1 8 0][f 4 10 65535 0 0][vp 8 0 0 21 23 0]...Ok, tudo bem. Eu te perdôo.[n][f 1 3 65535][w][e]
 [s][bup 0 4 0 8 0][f 4 10 65535 0 0][f 4 24 0 23 6 59 5 100][vp 8 0 0 23 23 0]Mas a partir de agora vamos abordar[n]essas coisas juntos, ok? Não[n]importa o tamanho deles.[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Ann]]
-[s][bup 0 4 1 8 0][f 4 10 65535 0 0][vp 8 0 0 24 23 0]OK! Agora chega de conversa séria![n][f 1 3 65535][w][e]
+[s][bup 0 4 1 8 0][f 4 10 65535 0 0][vp 8 0 0 24 23 0]Ok! Agora chega de conversa séria![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 25 23 0]Aqui está o que você estava[n]esperando...[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Ann]]

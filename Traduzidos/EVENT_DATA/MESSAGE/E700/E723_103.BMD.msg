@@ -52,7 +52,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Por favor, aceite meu[n]agradecimento por sua ajuda, como[n]o melhor aluno de Shujin...[n][f 1 3 65535][w][e]
 
 [msg MSG_013_5_0 [Maruki]]
-[s][bup 0 216 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]...e como Ladrão Fantasma.[n][f 1 3 65535][w][e]
+[s][bup 0 216 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]...e como Phantom Thief.[n][f 1 3 65535][w][e]
 
 [sel SEL_014_0_0 top]
 [s]E como você sabe?[e]

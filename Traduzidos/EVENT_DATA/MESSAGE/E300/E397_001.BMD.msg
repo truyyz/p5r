@@ -38,7 +38,7 @@
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Após alguns dias ouvindo,[n]isso confirmou a trapaça.[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [A voz de Akechi]]
-[s][vp 8 0 0 12 65535 0]Vou levar a polícia ao seu palácio[n]e prender[n]os Ladrões Fantasmas em flagrante.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 12 65535 0]Vou levar a polícia ao seu palácio[n]e prender[n]os Phantom Thieves em flagrante.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 13 65535 0]Dados seus métodos, é a única[n]maneira de pegá-los.[n]Vou lidar com eles mais tarde.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 14 65535 0]Vejamos...[n][f 1 3 65535][w][e]
 

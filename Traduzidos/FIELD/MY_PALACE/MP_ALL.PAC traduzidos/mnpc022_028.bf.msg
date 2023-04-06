@@ -79,7 +79,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ela era uma gênio do gênio figurando aquela[n]coisa da porta do cofre.[n][w][e]
 
 [msg MES_GROUP6_02 [Ann]]
-[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 36 10 0 10][vp 8 2 1 6035 65535 0]Ela envolveu a cabeça em torno de todas as[n]coisas da cognição tão rapidamente. Ela[n]realmente é o cérebro dos ladrões fantasmas.[n][w][e]
+[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 36 10 0 10][vp 8 2 1 6035 65535 0]Ela envolveu a cabeça em torno de todas as[n]coisas da cognição tão rapidamente. Ela[n]realmente é o cérebro dos Phantom Thieves.[n][w][e]
 
 [msg MES_GROUP6_03 [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 42 10 0 10]Sério! Nós com certeza não iríamos preencher[n]esse papel.[n][w][e]

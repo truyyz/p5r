@@ -100,7 +100,7 @@
 [s][vp 8 0 0 0 65535 0]Por que não trocamos números de telefone?[n]Então vamos falar sobre[n]Buchimaru-kun... e seu namorado.[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Makoto]]
-[s][bup 0 6 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 2185 65535 0]O-oh, um... OK.[n][f 1 3 65535][w][e]
+[s][bup 0 6 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 2185 65535 0]O-oh, um... Ok.[n][f 1 3 65535][w][e]
 
 [msg MSG_018_5_0 [Makoto]]
 [s][bup 0 6 5 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Espera, ele não é meu namorado...[n][f 1 3 65535][w][e]

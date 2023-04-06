@@ -97,7 +97,7 @@
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Atingimos a cota[n]que queríamos. Trocamos as moedas[n]por um ladrilho de apostas altas.[n][w][e]
 
 [msg D07_10_BIG_SLOT_selA_1_m [Futaba]]
-[s][bup 0 8 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]E porque?[n][w][e]
+[s][bup 0 8 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]E por quê?[n][w][e]
 
 [msg D07_10_BIG_SLOT_selA_1_m_2 [Haru]]
 [s][bup 0 7 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Não temos moedas suficientes...?[n][w][e]
@@ -141,7 +141,7 @@
 [s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Mmm, normal que seja[n]numa área onde não há[n]clientes.[n][w][e]
 
 [msg seigyoban_mes09 [Ryuji]]
-[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7103 65535 0]OK, agora só temos que começar a procurar![n][w][e]
+[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7103 65535 0]Ok, agora só temos que começar a procurar![n][w][e]
 
 [msg seigyoban_mes10 [Futaba]]
 [s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9098 65535 0]A partir daqui não podemos bloquear[n]suas fraudes.[n][w][e]

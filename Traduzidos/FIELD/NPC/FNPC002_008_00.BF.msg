@@ -37,7 +37,7 @@
 [s]Ela não me notou...[n]Ela deve estar concentrada.[n][w][e]
 
 [msg MSG_MAKOTO_LIBRARY_D01_5 [Estudante de aparência diligente]]
-[s][bup 0 6 3 65535 0][f 4 23 1 202 30 10 30 10][vp 8 2 1 2015 65535 0][f 4 10 65535 0 0]Após a brincadeira daqueles "ladrões fantasmas",[n]Kamoshida-sensei tornou-se inacessível...[n][w][e]
+[s][bup 0 6 3 65535 0][f 4 23 1 202 30 10 30 10][vp 8 2 1 2015 65535 0][f 4 10 65535 0 0]Após a brincadeira daqueles "Phantom Thieves",[n]Kamoshida-sensei tornou-se inacessível...[n][w][e]
 [s][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Além disso, depois das férias há exames. Quem[n]sabe como será o próximo trimestre...[n][w][e]
 
 [msg MSG_GRT_main_All_001_01_ [Estudante de aparência diligente]]
@@ -149,7 +149,7 @@
 [s][vp 9 2 65535 43354 0 0]Eu vi uma garota[n]molestada outro dia...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_01_ [Estudante de aparência diligente]]
-[s][vp 9 2 65535 43004 0 0]Os Ladrões Fantasmas de novo? Mas não era só uma[n]piada?[n][f 1 2 180][e]
+[s][vp 9 2 65535 43004 0 0]Os Phantom Thieves de novo? Mas não era só uma[n]piada?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_02_ [Estudante de aparência diligente]]
 [s][vp 9 2 65535 42604 0 0]Parece ser a mesma[n]carta de aviso recebida[n]de Kamoshida...[n][f 1 2 180][e]
@@ -368,7 +368,7 @@
 [s][vp 9 2 65535 43162 0 0]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_030_01_ [Estudante de aparência diligente]]
-[s][vp 9 2 65535 42361 0 0]Coisa? Ligando para o seu[n]namorado? ...OK,[n]mas não vou embora.[n][f 1 2 180][e]
+[s][vp 9 2 65535 42361 0 0]Coisa? Ligando para o seu[n]namorado? ...Ok,[n]mas não vou embora.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_030_02_ [Estudante de aparência diligente]]
 [s][vp 9 2 65535 42950 0 0]Você fez isso! Uau![n]Você tem talento para a fotografia![n][f 1 2 180][e]
@@ -515,7 +515,7 @@
 [s][vp 9 2 65535 42963 0 0]Não é assustador que um[n]criminoso seja tão esperto?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_305_01_ [Estudante de aparência diligente]]
-[s][vp 9 2 65535 42912 0 0]OK, talvez ele seja um gênio, mas duvido[n]que receba uma[n]recomendação estelar...[n][f 1 2 180][e]
+[s][vp 9 2 65535 42912 0 0]Ok, talvez ele seja um gênio, mas duvido[n]que receba uma[n]recomendação estelar...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_305_02_ [Estudante de aparência diligente]]
 [s][vp 9 2 65535 42352 0 0]Talvez não seja tão ruim...[n][f 1 2 180][e]

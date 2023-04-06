@@ -272,7 +272,7 @@
 [s][vp 8 2 0 0 65535 0]Com todos os chefes terríveis[n]que existem no mundo, eu[n]tinha que ter [clr 2]Shinsuke Kishi[clr 27]?[n][f 1 3 65535][w][e]
 
 [msg MSG_QUEST_35_3 [Empresário infeliz]]
-[s][vp 8 2 0 0 65535 0]*suspiro* Você sabe, Lala. Eu gostaria que[n]aqueles Ladrões Fantasmas[n]fizessem algo para me ajudar...[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0]*suspiro* Você sabe, Lala. Eu gostaria que[n]aqueles Phantom Thieves[n]fizessem algo para me ajudar...[n][f 1 3 65535][w][e]
 
 [msg MSG_QUEST_36 [Lala Escargot]]
 [s][vp 8 2 0 57741 65535 0]E como? Você gostaria de pedir a ele[n]para "roubar" seu estresse?[n][f 1 3 65535][w][e]

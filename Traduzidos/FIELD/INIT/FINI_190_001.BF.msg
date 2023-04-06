@@ -58,7 +58,7 @@
 [s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4021 65535 0]Podemos pensar sobre isso mais tarde.[n]Vamos pensar mais sobre isso depois[n]de voltar ao mundo real.[n][w][e]
 
 [sel e716_000_selB top]
-[s]OK.[e]
+[s]Ok.[e]
 [s]Eu cuido disso.[e]
 
 [msg e716_000_mes10 [Makoto]]
@@ -193,7 +193,7 @@
 [s][bup 0 101 1 0 0][f 4 10 65535 0 0][vp 8 2 1 12048 65535 0]Honestamente, não me sinto[n]particularmente culpado por[n]manter isso em segredo.[n][w][e]
 
 [msg memen_extra_battle_mes04 [Caroline]]
-[s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 2 1 11060 65535 0][f 4 23 1 121 4 3 0 3]OK, Prisioneiro! A partir de agora[n]vamos observá-lo ainda mais[n]de perto! N-não se esqueça disso![n][w][e]
+[s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 2 1 11060 65535 0][f 4 23 1 121 4 3 0 3]Ok, Prisioneiro! A partir de agora[n]vamos observá-lo ainda mais[n]de perto! N-não se esqueça disso![n][w][e]
 
 [msg D00_LAVENZA_BATTLE_CLEAR [Lavenza]]
 [s][bup 0 100 0 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 55477 65535 0]Eu também tenho que lhe dar a recompensa.[n]Isto é para você![n][w][e]
@@ -375,22 +375,22 @@
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1035 65535 0]Concordo. Vamos explorar[n]um pouco mais.[n][w][e]
 
 [msg D_EXIT_OK_01_PC02_mes [Ryuji]]
-[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7050 65535 0]OK, vamos mover.[n][w][e]
+[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7050 65535 0]Ok, vamos mover.[n][w][e]
 
 [msg D_EXIT_OK_01_PC03_mes [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1049 65535 0]Mmm, estamos de volta por hoje.[n][w][e]
 
 [msg D_EXIT_OK_01_PC04_mes [Ann]]
-[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6049 65535 0]OK, vamos.[n][w][e]
+[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6049 65535 0]Ok, vamos.[n][w][e]
 
 [msg D_EXIT_OK_01_PC05_mes [Yusuke]]
 [s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4049 65535 0]Muito bom. Nós voltamos.[n][w][e]
 
 [msg D_EXIT_OK_01_PC06_mes [Makoto]]
-[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2049 65535 0]OK, vamos parar por aqui por hoje.[n][w][e]
+[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2049 65535 0]Ok, vamos parar por aqui por hoje.[n][w][e]
 
 [msg D_EXIT_OK_01_PC07_mes [Futaba]]
-[s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9050 65535 0]OK, vamos para casa![n][w][e]
+[s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9050 65535 0]Ok, vamos para casa![n][w][e]
 
 [msg D_EXIT_OK_01_PC08_mes [Haru]]
 [s][bup 0 7 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 3049 65535 0]Muito bem. Vamos para casa.[n][w][e]
@@ -419,13 +419,13 @@
 [s][bup 0 2 0 65535 0]O que você está fazendo?[n]Vamos sair daqui![n][w][e]
 
 [msg D_EXIT_CANCEL_PC02_mes [Ryuji]]
-[s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7080 65535 0]OK. Posso continuar,[n]se é isso que você quer.[n][w][e]
+[s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7080 65535 0]Ok. Posso continuar,[n]se é isso que você quer.[n][w][e]
 
 [msg D_EXIT_CANCEL_PC03_mes [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1096 65535 0]Bom. Então vamos continuar[n]explorar.[n][w][e]
 
 [msg D_EXIT_CANCEL_PC04_mes [Ann]]
-[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6096 65535 0]OK, então vamos dar uma olhada[n]mais um pouco.[n][w][e]
+[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6096 65535 0]Ok, então vamos dar uma olhada[n]mais um pouco.[n][w][e]
 
 [msg D_EXIT_CANCEL_PC05_mes [Yusuke]]
 [s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4052 65535 0]Concordo. Acho que há[n]outros lugares para descobrir.[n][w][e]
@@ -506,7 +506,7 @@
 [s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos mesmo para casa, Joker?[n][w][e]
 
 [msg D01_04_e166_015_mes01 [Ryuji]]
-[s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7103 65535 0]OK, agora só temos que roubar[n]o tesouro que aparecerá,[n]não? Finalmente chegou a hora.[n][w][e]
+[s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7103 65535 0]Ok, agora só temos que roubar[n]o tesouro que aparecerá,[n]não? Finalmente chegou a hora.[n][w][e]
 
 [msg D01_04_e166_015_mes02 [Ann]]
 [s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Mas primeiro temos que enviar a[n]carta de aviso. Quando faremos isso?[n][w][e]

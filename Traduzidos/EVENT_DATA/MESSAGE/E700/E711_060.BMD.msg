@@ -81,7 +81,7 @@
 [s][vp 8 0 0 0 65535 0]Sinto meu vínculo com Caroline[n]e Justine ficando mais forte...[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Caroline]]
-[s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]OK! Vamos para o próximo![n][f 1 3 65535][w][e]
+[s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Ok! Vamos para o próximo![n][f 1 3 65535][w][e]
 
 [msg MSG_018_5_0 [Caroline]]
 [s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Justine?[n][f 1 3 65535][w][e]

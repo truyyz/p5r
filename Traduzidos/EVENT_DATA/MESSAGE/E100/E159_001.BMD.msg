@@ -157,7 +157,7 @@
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 121 65535 0]Bem, agora temos um esconderijo,[n]então vamos nos encontrar lá amanhã![n][f 1 3 65535][w][e]
 
 [msg MSG_041_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 122 65535 0]OK! Vamos conferir[n]minha nova residência.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 122 65535 0]Ok! Vamos conferir[n]minha nova residência.[n][f 1 3 65535][w][e]
 
 [msg SYS_042_0_0]
 [s][vp 8 0 0 0 65535 0]O [clr 2]Roof of Shujin Academy[clr 27] será[n]seu ponto de encontro de agora em diante.[n][f 1 3 65535][w][e]

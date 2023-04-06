@@ -1,5 +1,5 @@
 [msg MSG_000_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]Assim que passarmos por lá, nós iremos agir[n] como ladrões fantasmas um para o outro.[n]Espero que você esteja pronto.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]Assim que passarmos por lá, nós iremos agir[n] como Phantom Thieves um para o outro.[n]Espero que você esteja pronto.[n][f 1 3 65535][w][e]
 
 [msg MSG_000_3_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Hã? Phantom Thieves?[n][f 1 3 65535][w][e]

@@ -180,7 +180,7 @@
 
 [msg MSG_025_0_0 [Futaba]]
 [s][bup 0 8 6 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]De agora em diante,[n]darei tudo de mim.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][f 4 24 0 4 0 42 3 100][f 4 24 0 4 0 9 3 100][vp 8 2 0 9191 65535 0]Como o Ladrão Fantasma, claro... mas[n]especialmente como sua namorada![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][f 4 24 0 4 0 42 3 100][f 4 24 0 4 0 9 3 100][vp 8 2 0 9191 65535 0]Como o Phantom Thief, claro... mas[n]especialmente como sua namorada![n][f 1 3 65535][w][e]
 
 [msg MSG_040_0_0 [Futaba]]
 [s][bup 0 8 6 65535 0][f 4 10 65535 0 0][vp 8 2 0 9090 65535 0]No entanto, duvido que meu[n]coração possa aguentar mais[n]golpes hoje. G-Vou para casa.[n][f 1 3 65535][w][e]

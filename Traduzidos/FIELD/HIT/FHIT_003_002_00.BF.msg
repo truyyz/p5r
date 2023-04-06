@@ -14,7 +14,7 @@
 [s]Eu devia ir dormir...[n][w][e]
 
 [sel SEL_DAY_END top]
-[s]Dorme[e]
+[s]Dormir[e]
 [s]Fique acordado[e]
 
 [msg MSG_LAST_GREETING_Freeze [Morgana]]
@@ -426,7 +426,7 @@
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 1166 65535 0]Talvez você tenha se tornado um pouco[n]mais inteligente depois de[n]resolver essas palavras cruzadas.[n][w][e]
 
 [msg MND_CrossWord_ParamUp]
-[s]OK, OK... Oh...[n]Ah, agora eu entendo...[n][w][e]
+[s]Ok, Ok... Oh...[n]Ah, agora eu entendo...[n][w][e]
 
 [msg MND_CrossWord_ParamUp02]
 [s]Acho que adquiri[n]mais [f 4 11 0][clr 26][f 4 12 0][clr 27][n]depois que[n]resolvi as palavras cruzadas.[n][w][e]
@@ -1514,7 +1514,7 @@
 
 [msg MSG_E14110100_204_00 [Sojiro]]
 [s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Bem... estou indo para casa.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Verifique se todas as[n]janelas estão fechadas, OK?[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Verifique se todas as[n]janelas estão fechadas, Ok?[n][w][e]
 
 [msg MSG_E146101_001_00 [Sojiro]]
 [s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 2 1 5018 65535 0]Ei, eu estou indo.[n][w][e]
@@ -1635,7 +1635,7 @@
 [msg MSG_C14_PRECOOP_NG_00 [Voz de Kawakami]]
 [s][vp 8 2 1 15091 65535 0]Sinto muito, Mestre.[n]No momento, estou de folga.[n][w][e]
 [s]Eu posso ser sua empregada[n]apenas à noite.[n][w][e]
-[s]OK, aguardo sua[n]próxima ligação.[n][w][e]
+[s]Ok, aguardo sua[n]próxima ligação.[n][w][e]
 
 [msg MSG_KAWAKAMI_SASOI_THROU [Kawakami]]
 [s][bup 0 109 600 65535 1][f 4 10 65535 0 0][vp 8 2 1 15058 65535 0]Esta sua ligação me surpreende.[n][w][e]
@@ -1834,7 +1834,7 @@
 [s][bup 0 109 1 65535 1][f 4 10 65535 0 0][vp 8 2 1 15004 65535 0]Alô! Oh, espere...[n]É você, [f 4 1]-kun.[n][w][e]
 [s][f 4 10 65535 0 0]Eu estava escrevendo um relatório. Se[n]você precisar de mim, poderia[n]solicitar-me [clr 2]na sexta ou sábado à noite[clr 27]?[n][w][e]
 [s][bup 0 109 0 65535 1][f 4 10 65535 0 0]Ah, se for só[n]trabalho doméstico, posso ir até você[n]e fazer rapidinho.[n][w][e]
-[s][vp 8 2 1 15053 65535 0][f 4 10 65535 0 0]No entanto, se acontecer de eu[n]trabalhar também durante a[n]semana, entrarei em contato com você. OK, tchau.[n][w][e]
+[s][vp 8 2 1 15053 65535 0][f 4 10 65535 0 0]No entanto, se acontecer de eu[n]trabalhar também durante a[n]semana, entrarei em contato com você. Ok, tchau.[n][w][e]
 
 [msg MSG_C14_BIGEN_NG_02_02 [Kawakami]]
 [s][bup 0 109 600 65535 1][f 4 10 65535 0 0][vp 8 2 1 15091 65535 0]Me desculpe, mestre, mas hoje minha agenda já[n]está cheia.[n][w][e]
@@ -1852,11 +1852,11 @@
 
 [msg MSG_C14_BIGEN_NG_01 [Kawakami]]
 [s][bup 0 109 0 65535 1][f 4 10 65535 0 0][vp 8 2 1 15091 65535 0]Ah, você de novo? Desculpe, mas[n]estou ocupado agora.[n][w][e]
-[s][bup 0 109 1 65535 1][f 4 10 65535 0 0]Se precisar de mim, agende[n]horário para [clr 2]sexta e[n]sábado à noite[clr 27]. OK, tchau![n][w][e]
+[s][bup 0 109 1 65535 1][f 4 10 65535 0 0]Se precisar de mim, agende[n]horário para [clr 2]sexta e[n]sábado à noite[clr 27]. Ok, tchau![n][w][e]
 
 [msg MSG_C14_BIGEN_NG_01_01 [Kawakami]]
 [s][bup 0 109 0 65535 1][f 4 10 65535 0 0][vp 8 2 1 15004 65535 0]Ah, você de novo? Desculpe, mas[n]estou ocupado agora.[n][w][e]
-[s][bup 0 109 1 65535 1][f 4 10 65535 0 0]Se precisar de mim, agende[n]horário para [clr 2]sexta e[n]sábado à noite[clr 27]. OK, tchau![n][w][e]
+[s][bup 0 109 1 65535 1][f 4 10 65535 0 0]Se precisar de mim, agende[n]horário para [clr 2]sexta e[n]sábado à noite[clr 27]. Ok, tchau![n][w][e]
 
 [msg MSG_C14_CORP_00_00 [Kawakami]]
 [s][bup 0 109 600 65535 1][f 4 10 65535 0 0]Se você solicitar meus serviços,[n]cuidarei de suas[n]tarefas domésticas por apenas 5.000 ienes![n][w][e]
@@ -2016,7 +2016,7 @@
 
 [msg MSG_C14_YES_03_00 [Kawakami]]
 [s][bup 0 109 601 65535 1][f 4 10 65535 0 0][vp 8 2 1 15030 65535 0]Viva! Eu te adoro, Masteree! [clr 2][f 1 9 0][clr 27][n][w][e]
-[s][f 4 10 65535 0 0]OK, já estarei com você![n][w][e]
+[s][f 4 10 65535 0 0]Ok, já estarei com você![n][w][e]
 
 [msg MSG_C14_YES_04_00 [Kawakami]]
 [s][bup 0 109 600 65535 1][f 4 10 65535 0 0][vp 8 2 1 15066 65535 0]Tudo bem... Acho que teremos que[n]falar sobre isso direito.[n][w][e]
@@ -2046,13 +2046,13 @@
 [s][bup 0 109 1 65535 1][f 4 10 65535 0 0][vp 8 2 1 15087 65535 0]Eu estarei lá,[n]espere por mim lá.[n][w][e]
 
 [msg MSG_C14_YES_09_01 [Kawakami]]
-[s][bup 0 109 1 65535 1][f 4 10 65535 0 0][vp 8 2 1 15164 65535 0]OK, eu estarei lá.[n][w][e]
+[s][bup 0 109 1 65535 1][f 4 10 65535 0 0][vp 8 2 1 15164 65535 0]Ok, eu estarei lá.[n][w][e]
 
 [msg MSG_C14_YES_00_00 [Kawakami]]
-[s][bup 0 109 601 65535 1][f 4 10 65535 0 0][vp 8 2 1 15059 65535 0]OK, vou sair imediatamente.[n]Limpe seu quarto[n]e espere por mim. [clr 2][f 1 9 0][clr 27][n][w][e]
+[s][bup 0 109 601 65535 1][f 4 10 65535 0 0][vp 8 2 1 15059 65535 0]Ok, vou sair imediatamente.[n]Limpe seu quarto[n]e espere por mim. [clr 2][f 1 9 0][clr 27][n][w][e]
 
 [msg MSG_C14_YES_10_00 [Kawakami]]
-[s][bup 0 109 1 65535 1][f 4 10 65535 0 0][vp 8 2 1 15087 65535 0]OK, estarei ai...[n][w][e]
+[s][bup 0 109 1 65535 1][f 4 10 65535 0 0][vp 8 2 1 15087 65535 0]Ok, estarei ai...[n][w][e]
 
 [msg MSG_C14_YES_10_01 [Kawakami]]
 [s][bup 0 109 1 65535 1][f 4 10 65535 0 0][vp 8 2 1 15164 65535 0]Tudo bem, então espere por mim.[n][w][e]
@@ -2078,7 +2078,7 @@
 [msg MSG_C14_SPOT_02_03 [Kawakami]]
 [s][bup 0 109 601 65535 1][f 4 10 65535 0 0][vp 8 2 1 15045 65535 0]Oh, boa ideia![n]Tsukishima tem uma ótima monja.[n][w][e]
 [s][f 4 10 65535 0 0]Vamos nos encontrar na estação![n][w][e]
-[s][f 4 10 65535 0 0]Mas você não pode beber álcool.[n]OK, Masteree?[n][w][e]
+[s][f 4 10 65535 0 0]Mas você não pode beber álcool.[n]Ok, Masteree?[n][w][e]
 
 [msg MND_C14_SPOT_03_01]
 [s]Talvez eu devesse convidá-la[n]para andar na roda-gigante de Odaiba[n]comigo...[n][w][e]
@@ -2242,7 +2242,7 @@
 [msg MSG_C14_MASSAGE_00_03 [Kawakami]]
 [s][bup 0 109 0 65535 1][f 4 10 65535 0 0][vp 8 2 1 15040 65535 0]Oh, você está realmente me pedindo uma[n]massagem...?[n][w][e]
 [s][f 4 10 65535 0 0]Tudo bem... Saiba que eu aprendi[n]trabalhando na Victoria.[n]Minhas habilidades são incríveis..[n][w][e]
-[s][f 4 10 65535 0 0]OK, eu estarei lá. Espere por mim.[n][w][e]
+[s][f 4 10 65535 0 0]Ok, eu estarei lá. Espere por mim.[n][w][e]
 
 [msg MND_C14_MASSAGE_00_04]
 [s]Eu vou passar por agora.[n][w][e]

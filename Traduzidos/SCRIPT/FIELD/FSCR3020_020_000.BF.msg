@@ -41,7 +41,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 1 14 65535 0]Amanhã entraremos no Palácio.[n]Vamos para a cama.[n][w][e]
 
 [msg MSG_LAST_Message [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 1172 65535 0]OK, vamos para a cama![n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 1172 65535 0]Ok, vamos para a cama![n][w][e]
 
 [msg MSG_LAST_Message_Hiru [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 1020 65535 0]Você está ficando cansado, não está?[n]Vamos fazer uma pausa.[n][w][e]
@@ -56,7 +56,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 1185 65535 0]Você poderia pedir a Kawakami para[n]fazer um. Provavelmente, porém,[n]ele só será capaz de fazer um tipo.[n][w][e]
 
 [msg MSG_KawakamiWorkInfo_Day [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]Você pode pedir a ajuda de Kawakami[n]apenas à noite. Planeje bem[n]antes de agir, OK?[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]Você pode pedir a ajuda de Kawakami[n]apenas à noite. Planeje bem[n]antes de agir, Ok?[n][w][e]
 
 [msg MSG_DOUGUDUKURI_PLAYPARA [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1174 65535 0]Você provavelmente poderia construir[n][var 0] deles. Boa sorte.[n][w][e]

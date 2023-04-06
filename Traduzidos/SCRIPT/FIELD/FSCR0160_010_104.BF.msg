@@ -17,7 +17,7 @@
 [s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6155 65535 0]Ei, não sou o único aqui, sou?[n][w][e]
 
 [msg D08_02_e453_102_AF02_mes_2 [Ann]]
-[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]OK, eu vou esperar aqui.[n][w][e]
+[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ok, eu vou esperar aqui.[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6058 65535 0]Por favor, salve os outros...[n]Só você pode fazer isso...[n][w][e]
 
 [msg D08_02_e453_102_AF03_mes [Ann]]

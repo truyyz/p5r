@@ -42,7 +42,7 @@
 [s][f 5 14]Existe uma possibilidade, mas[n]parece um pouco remota para mim.[n][w][e]
 
 [msg MSG_014_0_0 [Haru]]
-[s][f 5 14]Porque?[n][w][e]
+[s][f 5 14]Por quê?[n][w][e]
 
 [msg MSG_015_0_0 [Akechi]]
 [s][f 5 14]Uma pessoa normal nunca[n]faria uma coisa dessas.[n][w][e]
@@ -78,7 +78,7 @@
 [s][f 5 14]Mas ainda é difícil supor[n]que haja uma ligação com[n]a Academia Shujin.[n][w][e]
 
 [msg MSG_026_0_0 [Haru]]
-[s][f 5 14]Porque?[n][w][e]
+[s][f 5 14]Por quê?[n][w][e]
 
 [msg MSG_027_0_0 [Akechi]]
 [s][f 5 14]Faltaria o motivo[n]para a realização de[n]uma intriga tão cruel.[n][w][e]

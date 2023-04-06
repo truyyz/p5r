@@ -36,7 +36,7 @@
 
 [msg MES_GROUP2_03 [Akechi]]
 [s][bup 0 9 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 35 10 50 10][vp 8 2 1 8133 65535 0]Oh? Something so cliché coming from[n]Você é bastante surpreendente, Sae-san.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu suspeito que os ladrões fantasmas tenham[n]me surpreendido um pouco.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu suspeito que os Phantom Thieves tenham[n]me surpreendido um pouco.[n][w][e]
 
 [msg MES_GROUP2_04 [Sae]]
 [s][bup 0 105 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 21034 65535 0]Essa é uma possibilidade.[n][w][e]

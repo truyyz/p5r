@@ -19,7 +19,7 @@
 [s][bup 0 4 1 4 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Vamos, vamos jantar![n]Tentar salvar o mundo[n]me deixou com muita fome.[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Ann]]
-[s][bup 0 4 0 4 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]OK, vamos lá![n][f 1 3 65535][w][e]
+[s][bup 0 4 0 4 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Ok, vamos lá![n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Ann]]
 [s][bup 0 4 4 4 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Ah, certo...[n][f 1 3 65535][w][e]

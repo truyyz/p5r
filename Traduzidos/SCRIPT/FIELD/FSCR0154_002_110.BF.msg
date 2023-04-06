@@ -1,12 +1,12 @@
 [msg e259_212_mes01 [Makoto]]
-[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2156 65535 0]OK, vou tentar.[n]Todos prontos?[n][w][e]
+[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2156 65535 0]Ok, vou tentar.[n]Todos prontos?[n][w][e]
 
 [sel e259_212_selA top]
 [s]Vamos entrar nisso.[e]
 [s]Me dê um segundo.[e]
 
 [msg e259_212_selA_0_mes01 [Makoto]]
-[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2129 65535 0]OK, agora cale a boca...[n][w][e]
+[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2129 65535 0]Ok, agora cale a boca...[n][w][e]
 
 [msg e259_212_selA_0_mes02 [Makoto]]
 [s][bup 0 6 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Sala de segurança, está me ouvindo?[n]Esta é a sala de monitoramento![n][w][e]

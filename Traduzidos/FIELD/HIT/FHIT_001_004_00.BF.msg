@@ -176,7 +176,7 @@
 [s][vp 8 2 1 0 16 0]Mil agradecimentos! Até nos encontrarmos[n]novamente.[n][w][e]
 
 [msg ACCESSORIES_NOT_BUY [Balconista de loja de acessórios]]
-[s][vp 8 2 1 0 16 0]OK adeus.[n][w][e]
+[s][vp 8 2 1 0 16 0]Ok adeus.[n][w][e]
 
 [msg MSG_ShoesShop_Moru [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]Você não pratica nenhum esporte. Por que[n]levar tênis?[n][w][e]
@@ -425,7 +425,7 @@
 
 [msg MSG_E65510400_FLOWER_002 [Hanasaki]]
 [s][f 4 23 1 18 3 10 0 10][vp 8 0 1 3 18 0]É assim que deve ser. Tentei[n]torná-lo o mais simples possível.[n][f 1 3 65535][w][e]
-[s][vp 8 0 1 4 18 0]OK, você me deve...[n][f 1 3 65535][w][e]
+[s][vp 8 0 1 4 18 0]Ok, você me deve...[n][f 1 3 65535][w][e]
 
 [msg MSG_E65510400_FLOWER_002_2 [Morgana]]
 [s][bup 0 3 600 0 0][f 4 10 65535 0 0][vp 8 0 1 5 65535 0]Espere! Deixe-me pagar.[n]Você está cuidando de mim[n]sozinho, então...[n][f 1 3 65535][w][e]
@@ -517,7 +517,7 @@
 [s][bup 0 107 1 65535 1][f 4 10 65535 0 0][vp 8 0 1 43 65535 0]Bem, todos os desejos do meu menino[n]são uma ordem! Hora de terminar[n]o trabalho e eu começo.[n][f 1 3 65535][w][e]
 
 [msg MSG_E65510400_TEL_003_01 [Takemi]]
-[s][bup 0 108 0 65535 1][f 4 10 65535 0 0][vp 8 0 1 36 65535 0]Shinagawa? E porque? Bem, eu acho que[n]essa é uma pergunta estúpida ...[n][f 1 3 65535][w][e]
+[s][bup 0 108 0 65535 1][f 4 10 65535 0 0][vp 8 0 1 36 65535 0]Shinagawa? E por quê? Bem, eu acho que[n]essa é uma pergunta estúpida ...[n][f 1 3 65535][w][e]
 [s][bup 0 108 1 65535 1][f 4 10 65535 0 0][vp 8 0 1 37 65535 0]Estou no trabalho, mas posso sair mais cedo. Nos[n]vemos lá.[n][f 1 3 65535][w][e]
 
 [msg MSG_E65510400_TEL_003_02 [Kawakami]]
@@ -534,24 +534,24 @@
 [s][bup 0 113 1 65535 1][f 4 10 65535 0 0][vp 8 0 1 34 65535 0]Vou desligar um pouco mais cedo, então.[n][f 1 3 65535][w][e]
 
 [msg MSG_E65510400_TEL_003_05 [Futaba]]
-[s][bup 0 8 4 65535 1][f 4 10 65535 0 0][vp 8 0 1 29 65535 0]Shinagawa...? OK, eu acho.[n][f 1 3 65535][w][e]
+[s][bup 0 8 4 65535 1][f 4 10 65535 0 0][vp 8 0 1 29 65535 0]Shinagawa...? Ok, eu acho.[n][f 1 3 65535][w][e]
 [s][bup 0 8 2 65535 1][f 4 10 65535 0 0][vp 8 0 1 30 65535 0]Por acaso você está fora? Você poderia[n]vir até mim em... Não, vabbeh,[n]esqueça. Nos vemos lá.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 31 65535 0]Tudo bem, até breve![n][f 1 3 65535][w][e]
 
 [msg MSG_E65510400_TEL_003_06 [Ann]]
-[s][bup 0 4 0 65535 1][f 4 10 65535 0 0][vp 8 0 1 25 65535 0]Shinagawa? OK, entre em contato conosco.[n][f 1 3 65535][w][e]
+[s][bup 0 4 0 65535 1][f 4 10 65535 0 0][vp 8 0 1 25 65535 0]Shinagawa? Ok, entre em contato conosco.[n][f 1 3 65535][w][e]
 [s][bup 0 4 1 65535 1][f 4 10 65535 0 0][vp 8 0 1 26 65535 0]E por acaso é o White Day, hein?[n]Honestamente, eu esperava que você[n]perguntasse.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 27 65535 0]Bem, hora de se preparar e[n]vejo você lá.[n][f 1 3 65535][w][e]
 
 [msg MSG_E65510400_TEL_003_07 [Makoto]]
-[s][bup 0 6 4 65535 1][f 4 10 65535 0 0][vp 8 0 1 17 65535 0]Oh? Hum... OK.[n][f 1 3 65535][w][e]
+[s][bup 0 6 4 65535 1][f 4 10 65535 0 0][vp 8 0 1 17 65535 0]Oh? Hum... Ok.[n][f 1 3 65535][w][e]
 [s][bup 0 6 1 65535 1][f 4 10 65535 0 0][vp 8 0 1 18 65535 0]Ainda bem que você me ligou.[n]Eu estava começando a me preocupar.[n]Hoje é... bem, você sabe.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 1 19 65535 0]OK. Hora de mudar e[n]vejo você lá.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 1 19 65535 0]Ok. Hora de mudar e[n]vejo você lá.[n][f 1 3 65535][w][e]
 
 [msg MSG_E65510400_TEL_003_08 [Haru]]
 [s][bup 0 7 4 65535 1][f 4 10 65535 0 0][vp 8 0 1 21 65535 0]Em Shinagawa? Ah... claro.[n][f 1 3 65535][w][e]
 [s][bup 0 7 1 65535 1][f 4 10 65535 0 0][vp 8 0 1 22 65535 0]Mas então... é um encontro![n]Eu ficaria feliz.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 1 23 65535 0]OK, eu vou me preparar.[n]Nos vemos lá?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 1 23 65535 0]Ok, eu vou me preparar.[n]Nos vemos lá?[n][f 1 3 65535][w][e]
 
 [msg MSG_E65510400_TEL_003_09 [Sumire]]
 [s][bup 0 10 4 65535 1][f 4 10 65535 0 0][vp 8 0 1 49 65535 0]Agora? Claro, tudo bem![n][f 1 3 65535][w][e]

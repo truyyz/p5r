@@ -379,7 +379,7 @@
 [s][bup 0 102 1 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Aqui![n][f 1 3 65535][w][e]
 
 [msg MSG_AlartChange_NoMotion_4 [Caroline]]
-[s][bup 0 102 1 0 0][f 4 10 65535 0 0][vp 8 2 1 11095 65535 0]OK. Tudo pronto![n]Seja grato, Prisioneiro![n][f 1 3 65535][w][e]
+[s][bup 0 102 1 0 0][f 4 10 65535 0 0][vp 8 2 1 11095 65535 0]Ok. Tudo pronto![n]Seja grato, Prisioneiro![n][f 1 3 65535][w][e]
 
 [msg MSG_LAVENZA_AlartChange_ [Lavenza]]
 [s][bup 0 100 0 0 0][f 4 10 65535 0 0][vp 8 2 1 55475 65535 0]Primeiro...[n][f 1 3 65535][w][e]

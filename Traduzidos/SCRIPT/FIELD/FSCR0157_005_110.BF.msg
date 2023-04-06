@@ -33,5 +33,5 @@
 [s][bup 0 8 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9196 65535 0]Oooh, aqui está um terminal![n]Devo poder usá-lo para[n]acessar o banco de dados do cliente![n][w][e]
 
 [msg D157_005_miniEV_04_mes02 [Ann]]
-[s][bup 0 4 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]OK, vamos nos apressar e[n]neutralizar aquele guarda![n][w][e]
+[s][bup 0 4 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ok, vamos nos apressar e[n]neutralizar aquele guarda![n][w][e]
 

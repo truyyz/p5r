@@ -12,7 +12,7 @@
 [s]Um momento.[e]
 
 [msg D02_154_005_ex_chk_selA_ [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]OK. Antes de lidar com isso, certifique-se de[n]estar preparado.[n][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ok. Antes de lidar com isso, certifique-se de[n]estar preparado.[n][w][e]
 
 [msg D03_154_05_ex_btl_mes01 [Agente de segurança de sombra]]
 [s]...! O que você está fazendo aqui!?![n][w][e]

@@ -49,7 +49,7 @@
 [s][bup 0 8 0 65535 0][f 4 23 1 209 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 9098 65535 0]Seria fácil, mas...[n]Será que ele vai mesmo acreditar?[n][w][e]
 
 [msg MSG_C09_ODA_07_00 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]OK. Vou escrever uma carta de aviso[n]dizendo que assumiremos a página inicial do[n]Gun About.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ok. Vou escrever uma carta de aviso[n]dizendo que assumiremos a página inicial do[n]Gun About.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Então, você terá que semear[n]evidências que levem a pensar[n]que foram os Phantom Thieves.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]O rei será forçado a acreditar que fomos nós.[n][w][e]
 
@@ -62,7 +62,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Iremos notificá-lo, antes de ir[n]falar com ele, então aguarde[n]o nosso sinal para agir.[n][w][e]
 
 [msg MSG_C09_ODA_10_00 [Futaba]]
-[s][bup 0 8 1 65535 0][f 4 23 1 209 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 9196 65535 0]OK. Você pode contar comigo.[n][w][e]
+[s][bup 0 8 1 65535 0][f 4 23 1 209 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 9196 65535 0]Ok. Você pode contar comigo.[n][w][e]
 
 [msg MSG_C09_ODA_99_00 [Futaba]]
 [s][bup 0 8 0 65535 0][f 4 23 1 209 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 9114 65535 0]Você já falou com o Rei?[n]Estou pronto.[n][w][e]
@@ -260,7 +260,7 @@
 [s]Talvez mais tarde.[e]
 
 [msg MSG_C09_BEGIN_D10_20_02 [Futaba]]
-[s][bup 0 8 0 65535 0][f 4 23 1 209 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 9196 65535 0]OK, vou enviar uma mensagem para[n]todo o grupo. Vamos retomar[n]a nossa realidade![n][w][e]
+[s][bup 0 8 0 65535 0][f 4 23 1 209 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 9196 65535 0]Ok, vou enviar uma mensagem para[n]todo o grupo. Vamos retomar[n]a nossa realidade![n][w][e]
 
 [msg MSG_C09_BEGIN_D10_10_07 [Futaba]]
 [s][bup 0 8 0 65535 0][f 4 23 1 209 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 9098 65535 0]Ei, você está bem?[n][w][e]
@@ -394,7 +394,7 @@
 [s]Recusar[e]
 
 [msg MSG_C09_YES_01_00 [Futaba]]
-[s][bup 0 8 1 65535 0][f 4 23 1 209 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 9196 65535 0]OK. Vamos, [f 4 2].[n][w][e]
+[s][bup 0 8 1 65535 0][f 4 23 1 209 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 9196 65535 0]Ok. Vamos, [f 4 2].[n][w][e]
 
 [msg MSG_C09_YES_02_00 [Futaba]]
 [s][bup 0 8 1 65535 0][f 4 23 1 209 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 9060 65535 0]Então vamos elaborar[n]um plano de batalha.[n][w][e]
@@ -418,7 +418,7 @@
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Então venha para o meu quarto.[n]Falaremos sobre isso lá.[n][w][e]
 
 [msg MSG_C09_YES_07_00 [Futaba]]
-[s][bup 0 8 1 65535 0][f 4 23 1 209 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 9137 65535 0]OK![n][w][e]
+[s][bup 0 8 1 65535 0][f 4 23 1 209 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 9137 65535 0]Ok![n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Vamos para o seu quarto, então.[n][w][e]
 
 [msg MSG_C09_YES_08_00 [Futaba]]
@@ -507,7 +507,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Tudo bem, então estou saindo...[n]Estou deixando Lady Ann em suas mãos.[n][w][e]
 
 [msg MSG_C09_COOP_CANCEL_REV [Futaba]]
-[s][bup 0 8 3 65535 0][f 4 23 1 209 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 9193 65535 0]OK. Desculpe a saída repentina...[n][w][e]
+[s][bup 0 8 3 65535 0][f 4 23 1 209 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 9193 65535 0]Ok. Desculpe a saída repentina...[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Quando quiser, [f 4 2].[n]Te espero.[n][w][e]
 
 [msg MSG_C09_EVOLUTION_WAIT [Futaba]]
@@ -719,10 +719,10 @@
 
 [msg MSG_C09_BYEGREET_01_06 [Futaba]]
 [s][bup 0 8 0 65535 0][f 4 23 1 209 14 10 13 10][f 4 10 65535 0 0][vp 8 0 1 25 65535 0]Eu não posso acreditar que amanhã[n]você vai se mudar.... Você vai se sentir[n]solitário... Mas você vai ficar bem![n][w][e]
-[s][bup 0 8 1 65535 0][f 4 10 65535 0 370][vp 8 0 1 26 65535 0]Volte para me ver às vezes, OK?[n][w][e]
+[s][bup 0 8 1 65535 0][f 4 10 65535 0 370][vp 8 0 1 26 65535 0]Volte para me ver às vezes, Ok?[n][w][e]
 
 [msg MSG_C09_BYEGREET_01_07 [Futaba]]
-[s][bup 0 8 1 65535 0][f 4 23 1 209 14 10 13 10][f 4 10 65535 0 370][vp 8 0 1 27 65535 0]Volte para me ver às vezes, OK?[n][w][e]
+[s][bup 0 8 1 65535 0][f 4 23 1 209 14 10 13 10][f 4 10 65535 0 370][vp 8 0 1 27 65535 0]Volte para me ver às vezes, Ok?[n][w][e]
 
 [msg MSG_C09_BYEGREET_00_00_5 [Futaba]]
 [s][bup 0 8 1 65535 0][f 4 23 1 209 14 10 13 10][f 4 10 65535 0 0][vp 8 0 1 28 65535 0][f 4 2], Boas notícias![n][w][e]
@@ -790,10 +790,10 @@
 
 [msg MSG_C09_BYEGREET_01_06_5 [Futaba]]
 [s][bup 0 8 0 65535 0][f 4 23 1 209 14 10 13 10][f 4 10 65535 0 0][vp 8 0 1 58 65535 0]Porque é graças a esse caderno[n]que eu mudei tanto.[n]E a você, claro.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 1 59 65535 0]Se você se sentir sozinho,[n]assista e lembre-se que[n]estou torcendo por você. OK?[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 1 59 65535 0]Se você se sentir sozinho,[n]assista e lembre-se que[n]estou torcendo por você. Ok?[n][w][e]
 
 [msg MSG_C09_BYEGREET_01_07_5 [Futaba]]
-[s][bup 0 8 1 65535 0][f 4 23 1 209 14 10 13 10][f 4 10 65535 0 370][vp 8 0 1 60 65535 0]Se você se sentir sozinho,[n]assista e lembre-se que[n]estou torcendo por você. OK?[n][w][e]
+[s][bup 0 8 1 65535 0][f 4 23 1 209 14 10 13 10][f 4 10 65535 0 370][vp 8 0 1 60 65535 0]Se você se sentir sozinho,[n]assista e lembre-se que[n]estou torcendo por você. Ok?[n][w][e]
 
 [msg MSG_C09_BYEGREET_02_00 [Futaba]]
 [s][bup 0 8 0 65535 0][f 4 23 1 209 14 10 13 10][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu não posso acreditar que amanhã[n]você vai se mudar.... Você vai se sentir[n]solitário... Mas você vai ficar bem![n][w][e]

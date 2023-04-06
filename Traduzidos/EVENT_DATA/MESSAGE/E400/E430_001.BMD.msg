@@ -69,7 +69,7 @@
 [s][bup 0 2 5 65535 0][f 4 10 65535 0 0][vp 8 0 0 31 65535 0]Ei, posso saber o que há de errado com você?[n][f 1 3 65535][w][e]
 
 [msg MSG_034_0_0 [Ryuji]]
-[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 36 65535 0]C-Calma... OK?[n]Vamos, e-estou... quase...[n]m-morto...![n][f 1 3 65535][w][e]
+[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 36 65535 0]C-Calma... Ok?[n]Vamos, e-estou... quase...[n]m-morto...![n][f 1 3 65535][w][e]
 
 [msg MSG_039_0_0 [Ryuji]]
 [s][bup 0 2 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 41 65535 0]Ei, você está brincando... não é?[n][f 1 3 65535][w][e]

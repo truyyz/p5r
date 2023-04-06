@@ -9,7 +9,7 @@
 [s][bup 0 5 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4018 65535 0]Kuniko Kagami. Você é a mãe[n]que não cuida direito[n]da filha, não é?[n][w][e]
 
 [msg MSG_865_045_03 [Sombra de Kagami]]
-[s][vp 8 2 1 47755 65535 0]Minha filha...? Os ladrões fantasmas?[n][w][e]
+[s][vp 8 2 1 47755 65535 0]Minha filha...? Os Phantom Thieves?[n][w][e]
 [s]Eu sei, realmente. Eu sei que você está certo,[n]mas não posso...[n][w][e]
 [s]Por favor, me deixe em paz.[n]Eu não mereço viver...[n][w][e]
 

@@ -9,7 +9,7 @@
 [s][bup 0 8 101 65535 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]Mweheheh! Eu cuido disso![n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Futaba]]
-[s][bup 0 8 101 65535 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]OK, primeiro registro concluído![n][f 1 3 65535][w][e]
+[s][bup 0 8 101 65535 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Ok, primeiro registro concluído![n][f 1 3 65535][w][e]
 [s][bup 0 8 100 65535 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Eu não sabia que nome colocar,[n]então escolhi um[n]ao acaso: Taro Tanaka.[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Ryuji]]

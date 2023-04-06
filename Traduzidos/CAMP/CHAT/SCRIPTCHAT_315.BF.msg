@@ -56,7 +56,7 @@
 [s][f 5 14]Muito difícil.[n][w][e]
 [s][f 5 14]Um momento.[n][w][e]
 [s][f 5 14]Estou pensando...[n][w][e]
-[s][f 5 14]OK. É uma pena, mas tenho que cancelar o[n]negócio. Não investigue mais sobre[n]Futaba Sakura.[n][w][e]
+[s][f 5 14]Ok. É uma pena, mas tenho que cancelar o[n]negócio. Não investigue mais sobre[n]Futaba Sakura.[n][w][e]
 [s][f 5 14]Esqueça essa história.[n]Não vou denunciá-lo[n]à polícia, não tenha medo.[n][w][e]
 [s][f 5 14]Me desculpe por[n]desperdiçar seu tempo.[n]Agora, se você me der licença...[n][w][e]
 
@@ -70,5 +70,5 @@
 
 [sel SEL_021_5_0 top]
 [s][f 5 14][f 5 15]Ainda não terminamos.[e]
-[s]Porque?[e]
+[s]Por quê?[e]
 

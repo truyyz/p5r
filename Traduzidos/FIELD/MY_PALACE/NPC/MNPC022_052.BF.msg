@@ -64,7 +64,7 @@
 [s][bup 0 10 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 40 10 0 10][vp 8 2 1 57058 65535 0]Que ideia excitante! Eu adoraria fazer[n]algo assim![n][w][e]
 
 [msg MES_GROUP7_05 [Futaba]]
-[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 3 10 0 10]OK! É hora de projetar os movimentos especiais de[n]Futaba Supreme e Sumire Shining![n][w][e]
+[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 3 10 0 10]Ok! É hora de projetar os movimentos especiais de[n]Futaba Supreme e Sumire Shining![n][w][e]
 
 [msg MES_GROUP7_06 [Sumire]]
 [s][bup 0 10 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 57026 65535 0]Perfeito![n][w][e]

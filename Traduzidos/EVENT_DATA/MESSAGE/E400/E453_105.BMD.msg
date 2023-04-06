@@ -103,5 +103,5 @@
 
 [msg MSG_021_0_0 [Futaba]]
 [s][bup 0 8 100 65535 0][f 4 10 65535 0 0][vp 8 0 0 40 5 0]Ei, você é rápido em agir! Isso[n]torna você tão confiável![n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 41 5 0]OK, hora de voltar ao trabalho![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 41 5 0]Ok, hora de voltar ao trabalho![n][f 1 3 65535][w][e]
 

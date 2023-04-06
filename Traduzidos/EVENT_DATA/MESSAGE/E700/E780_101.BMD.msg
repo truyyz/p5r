@@ -44,7 +44,7 @@
 [s][f 4 10 65535 0 0]Sim, claro que podemos.[n]Vou acompanhá-lo imediatamente.[n][w][e]
 
 [msg MSG_011_0_0 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Às vezes é bom[n]comer no refeitório. OK,[n]eu estarei com você.[n][w][e]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Às vezes é bom[n]comer no refeitório. Ok,[n]eu estarei com você.[n][w][e]
 
 [msg MSG_012_0_0 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Certo. Vou acompanhá-lo[n]imediatamente. Até logo.[n][w][e]

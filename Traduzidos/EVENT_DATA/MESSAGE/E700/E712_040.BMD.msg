@@ -21,7 +21,7 @@
 [s][vp 8 0 0 0 4 0]É claro. Enfim, vou te contar... mas só desta[n]vez. Você está enfiando o nariz em negócios[n]duvidosos.[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Morador de rua]]
-[s][vp 8 0 0 0 4 0]OK, vou agir como[n]falando sozinho, ok?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 4 0]Ok, vou agir como[n]falando sozinho, ok?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 4 0]Não posso prometer que[n]vou dizer algo útil.[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Morador de rua]]
@@ -38,5 +38,5 @@
 [s][vp 8 0 0 0 4 0]Eu não ouvi nada[n]como isso, embora.[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Morador de rua]]
-[s][vp 8 0 0 0 4 0]OK, isso é tudo. Sair.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 4 0]Ok, isso é tudo. Sair.[n][f 1 3 65535][w][e]
 

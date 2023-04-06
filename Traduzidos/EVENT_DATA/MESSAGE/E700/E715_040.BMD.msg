@@ -42,7 +42,7 @@
 [s]Ele não fez nada de errado.[e]
 
 [msg MSG_012_0_0 [Ohya]]
-[s][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]OK, eu te digo. Apenas prometa[n]manter isso em segredo, ok?[n][f 1 3 65535][w][e]
+[s][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ok, eu te digo. Apenas prometa[n]manter isso em segredo, ok?[n][f 1 3 65535][w][e]
 [s][bup 0 107 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Na verdade...estou em um relacionamento[n]com esse cara.[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Chefe]]
@@ -124,7 +124,7 @@
 
 [msg MSG_036_0_0 [Chefe]]
 [s][vp 8 0 0 0 5 0]Você perdeu sua credibilidade quando[n]começou a agir assim.[n]Está tudo bem. Eu me afasto.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 5 0]Mas não faça nada estranho, OK? O conselho me[n]pediu para ficar de olho em você.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 5 0]Mas não faça nada estranho, Ok? O conselho me[n]pediu para ficar de olho em você.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 5 0]...Eu avisei.[n][f 1 3 65535][w][e]
 
 [msg MSG_037_0_0 [Ohya]]

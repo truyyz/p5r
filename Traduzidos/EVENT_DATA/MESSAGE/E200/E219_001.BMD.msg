@@ -47,7 +47,7 @@
 [s][vp 8 0 0 20 65535 0]A polícia vai investigar o[n]envolvimento deles no caso, mas no momento[n]eles não estão sob investigação.[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Pedestre]]
-[s][vp 8 0 0 27 65535 0]Ladrões Fantasmas? Esses bandidos têm algo a ver[n]com o pedido de desculpas daquele velho?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 27 65535 0]Phantom Thieves? Esses bandidos têm algo a ver[n]com o pedido de desculpas daquele velho?[n][f 1 3 65535][w][e]
 
 [msg MSG_013_5_0 [Pedestre]]
 [s][vp 8 0 0 28 65535 0]Oh, eu já ouvi falar deles antes. Diz-se que[n]eles roubam os corações perversos:[n]é por isso que os culpados confessam.[n][f 1 3 65535][w][e]
@@ -62,8 +62,8 @@
 [s][vp 8 0 0 31 65535 0]Então eles escreveram, tipo, "nós vamos roubar[n]seu coração"? Seria absurdo se eles realmente[n]fizessem isso.[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Menino afável]]
-[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]Os Ladrões Fantasmas, hein?[n][f 1 3 65535][w][e]
+[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]Os Phantom Thieves, hein?[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Makoto]]
-[s][bup 0 6 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 26 65535 0]Os Ladrões Fantasmas Novamente...[n][f 1 3 65535][w][e]
+[s][bup 0 6 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 26 65535 0]Os Phantom Thieves Novamente...[n][f 1 3 65535][w][e]
 

@@ -6,7 +6,7 @@
 
 [msg MES_GROUP0_03 [Haru]]
 [s][bup 0 7 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 3037 65535 0]Não, não é isso...[n][w][e]
-[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu estava pensando o quanto estou feliz por[n]conheci os ladrões fantasmas.[n][w][e]
+[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu estava pensando o quanto estou feliz por[n]conheci os Phantom Thieves.[n][w][e]
 [s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Caso contrário, acho que não seria capaz de[n]enfrentar meu pai.[n][w][e]
 
 [msg MES_GROUP1_01 [Ryuji]]

@@ -89,5 +89,5 @@
 [s][bup 0 3 1 65535 0][f 4 10 65535 0 0][vp 1 0 0 47 0 0]Você subiu na hierarquia, hein?[n][w][e]
 
 [msg MSG_Aojiru_Finish [Morgana]]
-[s][bup 0 3 1 0 0][f 4 10 65535 0 0]OK, depois dessa cheia de saúde[n]vamos para outro lugar![n][w][e]
+[s][bup 0 3 1 0 0][f 4 10 65535 0 0]Ok, depois dessa cheia de saúde[n]vamos para outro lugar![n][w][e]
 

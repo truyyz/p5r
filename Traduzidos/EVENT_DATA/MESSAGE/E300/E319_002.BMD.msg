@@ -71,7 +71,7 @@
 [sel SEL_022_0_0 top]
 [s]Por mim tudo bem.[e]
 [s]Quero ficar sozinho...[e]
-[s]Porque me pergunta isso?[e]
+[s]Por que me pergunta isso?[e]
 
 [msg MSG_023_0_0 [Mishima]]
 [s][bup 0 111 1 1 0][f 4 10 65535 0 0][vp 8 0 0 27 65535 0]Então está resolvido.[n][f 1 3 65535][w][e]

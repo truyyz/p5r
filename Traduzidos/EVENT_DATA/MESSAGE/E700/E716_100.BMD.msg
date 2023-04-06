@@ -200,7 +200,7 @@
 
 [msg MSG_057_5_0 [Shinya]]
 [s][bup 0 110 1 0 0][f 4 10 65535 0 0][vp 8 0 0 89 65535 0]Vou continuar a dar tudo de mim.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 90 65535 0]OK, me dê um soco.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 90 65535 0]Ok, me dê um soco.[n][f 1 3 65535][w][e]
 
 [msg MSG_058_0_0 [Shinya]]
 [s][bup 0 110 1 0 0][f 4 10 65535 0 0][vp 8 0 0 91 65535 0]Boa sorte,[n][f 4 1]-san![n][f 1 3 65535][w][e]

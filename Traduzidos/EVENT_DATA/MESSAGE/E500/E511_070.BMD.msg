@@ -80,7 +80,7 @@
 [s][vp 8 0 0 0 65535 0]Há algo[n]muito errado...[n][f 1 3 65535][w][e]
 
 [msg MSG_025_0_0 [Sojiro]]
-[s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]OK, sem mais brincadeiras por enquanto.[n]Vamos, sente-se.[n][f 1 3 65535][w][e]
+[s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Ok, sem mais brincadeiras por enquanto.[n]Vamos, sente-se.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Você vai ficar com fome.[n][f 1 3 65535][w][e]
 
 [msg MSG_026_0_0 [Wakaba]]
@@ -104,7 +104,7 @@
 [s][bup 0 208 501 65535 0][f 4 10 65535 0 0][vp 8 0 0 32 65529 0]Que gentil. Obrigado.[n][f 1 3 65535][w][e]
 
 [msg MSG_031_0_0 [Futaba]]
-[s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 33 65535 0]OK! Já volto![n][f 1 3 65535][w][e]
+[s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 33 65535 0]Ok! Já volto![n][f 1 3 65535][w][e]
 
 [msg MSG_032_0_0 [Sojiro]]
 [s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 0 0 34 65535 0]Tenha cuidado.[n][f 1 3 65535][w][e]

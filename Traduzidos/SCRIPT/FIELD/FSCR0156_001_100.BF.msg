@@ -15,5 +15,5 @@
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1021 65535 0]Por enquanto, sua Persona é[n]muito fraca. Deixe essa[n]tarefa conosco.[n][w][e]
 
 [msg D156_01_miniEV01_mes04 [Haru]]
-[s][bup 0 7 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 3194 65535 0]O-Oh, OK...[n][w][e]
+[s][bup 0 7 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 3194 65535 0]O-Oh, Ok...[n][w][e]
 

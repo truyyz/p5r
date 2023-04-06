@@ -45,7 +45,7 @@
 [s][vp 8 0 0 0 65535 0][f 5 14]Você não sente pena de mim?[n][w][e]
 
 [msg MSG_013_0_0 [Futaba]]
-[s][vp 8 0 0 0 65535 0][f 5 14]OK, agora é tarde, então[n]vamos nos encontrar ali mesmo![n][w][e]
+[s][vp 8 0 0 0 65535 0][f 5 14]Ok, agora é tarde, então[n]vamos nos encontrar ali mesmo![n][w][e]
 
 [msg MSG_013_5_0 [Futaba]]
 [s][vp 8 0 0 0 65535 0][f 5 14]Depois da ida à praia eu[n]posso pegar o trem, então[n]posso chegar lá sem problemas.[n][w][e]

@@ -49,7 +49,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Eu tenho que cuidar de uma coisa,[n]você pode ir enquanto isso.[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Ann]]
-[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]OK, recebido![n][f 1 3 65535][w][e]
+[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Ok, recebido![n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Vamos para Futaba.[n][f 1 3 65535][w][e]

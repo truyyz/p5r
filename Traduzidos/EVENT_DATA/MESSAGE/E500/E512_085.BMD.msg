@@ -14,7 +14,7 @@
 
 [sel SEL_004_0_0 top]
 [s]Alvos?[e]
-[s]E porque?[e]
+[s]E por quê?[e]
 
 [msg MSG_005_0_0 [Akechi]]
 [s][bup 0 9 810 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Pense nisso.[n][f 1 3 65535][w][e]
@@ -61,7 +61,7 @@
 [s][bup 0 7 102 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Já! As coisas não vão ficar assim[n]agora que estamos aqui![n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Futaba]]
-[s][bup 0 8 101 0 0][f 4 10 65535 0 0][vp 8 2 0 9142 65535 0]OK, mas sou eu quem tem que hackear[n]de verdade.[n][f 1 3 65535][w][e]
+[s][bup 0 8 101 0 0][f 4 10 65535 0 0][vp 8 2 0 9142 65535 0]Ok, mas sou eu quem tem que hackear[n]de verdade.[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Voz mecânica]]
 [s][vp 8 0 0 0 65535 0]... ACESSO POR ASSUNTO[n]DA SESSÃO CONFIRMADO.[n][f 1 3 65535][w][e]

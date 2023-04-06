@@ -18,7 +18,7 @@
 
 [msg MES_GROUP1_02 [Morgana]]
 [s][bup 0 3 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 1067 65535 0]Eu diria para você não se gabar muito,[n]mas concordo totalmente[n]com você.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 36 10 0 10]Cassinos e ladrões fantasmas são como leite e[n]biscoitos![n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 36 10 0 10]Cassinos e Phantom Thieves são como leite e[n]biscoitos![n][w][e]
 
 [msg MES_GROUP2_01 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 41 10 0 10][vp 8 2 1 4107 65535 0]Eu tenho que dizer... Essa é uma incrível máquina[n]caça-níqueis.[n][w][e]
@@ -146,5 +146,5 @@
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 9178 65535 0][f 4 23 1 65535 40 10 0 10]Aqui está novamente.[n][w][e]
 
 [msg MES_GROUP9_08 [Makoto]]
-[s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 2028 65535 0][f 4 23 1 65535 42 10 0 10]Você é livre para, um, temperar[n]o que quiser, mas... não[n]ter problemas com a lei, OK?[n][w][e]
+[s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 2028 65535 0][f 4 23 1 65535 42 10 0 10]Você é livre para, um, temperar[n]o que quiser, mas... não[n]ter problemas com a lei, Ok?[n][w][e]
 

@@ -23,7 +23,7 @@
 [s][vp 8 2 1 47610 65535 0]Roupas, bolsas, maquiagens...[n]Quero tantas coisas![n][w][e]
 
 [msg MSG_002_0_0 [Sombra do Sr. Takase]]
-[s][vp 1 0 0 0 0 0]Quem diabos é você? Oooh... você é um[n]ladrão fantasma?[n][w][e]
+[s][vp 1 0 0 0 0 0]Quem diabos é você? Oooh... você é um[n]Phantom Thief?[n][w][e]
 [s][vp 1 0 0 0 0 0]Você não tem motivos para me culpar. Eu não[n]preciso um despertar do coração![n][w][e]
 [s][vp 1 0 0 0 0 0]Aquele professor incompetente é tão inútil! Ele[n]deveria me agradecer por ser minha fonte de[n]renda.[n][w][e]
 

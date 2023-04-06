@@ -43,10 +43,10 @@
 [s]Dê-me sua energia![n]Você vai me dar, não vai?[n]Quero dizer, é para o seu aliado![n][w][e]
 
 [msg TalkMsg_EN_AGREE_00]
-[s]Você não está... tentando me enganar?[n]Então... OK! Vou deixar ir[n]seu aliado.[n][w][e]
+[s]Você não está... tentando me enganar?[n]Então... Ok! Vou deixar ir[n]seu aliado.[n][w][e]
 
 [msg TalkMsg_EN_AGREE_01]
-[s]OK obrigado! Foi divertido![n]Como prometido, agora você pode[n]recuperar seu aliado.[n][w][e]
+[s]Ok obrigado! Foi divertido![n]Como prometido, agora você pode[n]recuperar seu aliado.[n][w][e]
 
 [msg TalkMsg_EN_SLAY_00]
 [s]Oooh, acho que vocês dois não são amigos íntimos.[n][w][e]
@@ -83,10 +83,10 @@
 [s]Ei! Não é justo![n]Quero dizer, você está trapaceando![n][w][e]
 
 [msg TalkMsg_EN_FAKE_CRIED00]
-[s]Eca! Olha aquela cena...[n]Bah... Olha, vamos fazer isso, me dá[n]uns [f 2 5 3 9999 3], OK?[n][w][e]
+[s]Eca! Olha aquela cena...[n]Bah... Olha, vamos fazer isso, me dá[n]uns [f 2 5 3 9999 3], Ok?[n][w][e]
 
 [msg TalkMsg_EN_FAKE_CRIED01]
-[s]Vamos lá, você não está muito velho para[n]essas cenas? OK, vamos fazer isso,[n]me dê [var 0] iene.[n][w][e]
+[s]Vamos lá, você não está muito velho para[n]essas cenas? Ok, vamos fazer isso,[n]me dê [var 0] iene.[n][w][e]
 
 [msg TalkMsg_EN_FAKE_CRIED02]
 [s]Eca! Olha aquela cena...[n]Bah... Olha, vamos fazer isso, me dê[n]um pouco da sua saúde, ok?[n][w][e]

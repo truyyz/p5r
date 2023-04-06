@@ -3,7 +3,7 @@
 [s][f 5 14]Ouvi dizer que ele se acalmou de[n]repente... isso é obra sua, certo?[n][w][e]
 
 [sel SEL_063_0_0 top]
-[s][f 5 14]Eram os Ladrões Fantasmas.[e]
+[s][f 5 14]Eram os Phantom Thieves.[e]
 [s]Você está imaginando isso.[e]
 [s]Um professor deve tê-lo repreendido.[e]
 

@@ -30,7 +30,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 13 4 0]Achei que você tivesse se decidido,[n]depois de conversar[n]com os Phantom Thieves.[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Futaba]]
-[s][bup 0 8 703 65535 0][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]OK... vou procurar.[n][f 1 3 65535][w][e]
+[s][bup 0 8 703 65535 0][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Ok... vou procurar.[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Futaba]]
 [s][bup 0 8 703 65535 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]...Sou eu reclamando.[n]Mamãe me repreendeu[n]por incomodá-la...[n][f 1 3 65535][w][e]

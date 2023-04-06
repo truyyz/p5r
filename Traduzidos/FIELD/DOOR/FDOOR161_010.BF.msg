@@ -23,7 +23,7 @@
 [s]Ainda não.[e]
 
 [msg D08_01_e446_030_selA_0_m [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]OK![n][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ok![n][w][e]
 
 [msg D08_01_e446_030_selA_1_m [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Não há pressa.[n]Prepare-se.[n][w][e]

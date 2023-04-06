@@ -29,6 +29,6 @@
 [s][f 5 14][f 5 15]Vou observar[n]a situação. O fliperama fica na[n]Central Street, certo?[n][w][e]
 
 [msg MSG_008_00 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]OK, vamos fazer[n]o que pudermos para ajudar.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Ok, vamos fazer[n]o que pudermos para ajudar.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]Não tenho ideia de qual é a faixa certa.[n]Apenas tente ir aos lugares mais[n]suspeitos.[n][f 1 3 65535][w][e]
 

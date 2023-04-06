@@ -51,9 +51,9 @@
 [s][f 5 14]Sim... basicamente poderíamos[n]discutir isso mais tarde.[n][w][e]
 
 [msg MSG_016_0_0 [Ann]]
-[s][f 5 14]OK, entendi.[n][w][e]
+[s][f 5 14]Ok, entendi.[n][w][e]
 [s][f 5 14]Afinal, poderemos elaborar[n]a coisa mais tarde.[n][w][e]
 
 [msg MSG_017_0_0 [Ann]]
-[s][f 5 14][f 5 15]OK. Amanhã, depois da escola,[n]nos encontramos em Shibuya.[n][w][e]
+[s][f 5 14][f 5 15]Ok. Amanhã, depois da escola,[n]nos encontramos em Shibuya.[n][w][e]
 

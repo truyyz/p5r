@@ -1,5 +1,5 @@
 [msg GOTO_DUNGEON_mes01 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1172 65535 0]OK, Joker...[n]O que você quer fazer?[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1172 65535 0]Ok, Joker...[n]O que você quer fazer?[n][w][e]
 
 [sel GOTO_DUNGEON_sel01 top]
 [s]Vá em frente[e]
@@ -16,7 +16,7 @@
 
 [sel GOTO_DUNGEON_sel02 top]
 [s]Um estilo de festa[e]
-[s]Estilo Ladrão Fantasma[e]
+[s]Estilo Phantom Thief[e]
 [s]estilo grafite[e]
 [s]O estilo habitual[e]
 
@@ -24,7 +24,7 @@
 [s][bup 0 3 1 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1067 65535 0]Hehehe, entendi. Vou deixar você[n]sem fôlego![n][w][e]
 
 [msg GOTO_DUNGEON_mes05 [Morgana]]
-[s][bup 0 3 1 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1048 65535 0]OK, vai ser um show[n]fabuloso! Vou deixar você[n]sem fôlego![n][w][e]
+[s][bup 0 3 1 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1048 65535 0]Ok, vai ser um show[n]fabuloso! Vou deixar você[n]sem fôlego![n][w][e]
 
 [msg GOTO_DUNGEON_mes06 [Morgana]]
 [s][bup 0 3 1 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1166 65535 0]Eu vejo! Bem, então[n]eles não são nada ruins![n][w][e]

@@ -14,7 +14,7 @@
 [s][f 5 14]Mas se você quer remédio, não há[n]alternativas.[n][w][e]
 
 [msg CHAT_REACTION_04 [Takemi]]
-[s][f 5 14]OK, como quiser.[n][f 5 15][w][e]
+[s][f 5 14]Ok, como quiser.[n][f 5 15][w][e]
 
 [sel SEL_001 top]
 [s]ir para a clínica[e]

@@ -1,5 +1,5 @@
 [msg MSG_000_1_0 [Sojiro]]
-[s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 2 0 5102 65535 0]OK, hoje vamos tentar fazer uma[n]xícara de café do zero.[n]Tenha muito cuidado.[n][f 1 3 65535][w][e]
+[s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 2 0 5102 65535 0]Ok, hoje vamos tentar fazer uma[n]xícara de café do zero.[n]Tenha muito cuidado.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Estes são feijões colombianos,[n]torrado médio, grão médio-fino.[n]Não ferva demais a água.[n][f 1 3 65535][w][e]
 
 [msg MSG_000_2_0 [Sojiro]]

@@ -46,7 +46,7 @@
 [s]Quem sabe?[e]
 
 [msg MSG_047_0_0 [Sombra de Asakura]]
-[s][vp 1 0 0 0 0 0]OK...[n][w][e]
+[s][vp 1 0 0 0 0 0]Ok...[n][w][e]
 
 [msg MSG_048_0_0 [Sombra de Asakura]]
 [s][vp 1 0 0 0 0 0]Eu acho...[n]Eu acho que eu estava errado...[n][w][e]

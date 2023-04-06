@@ -69,7 +69,7 @@
 [s][bup 0 6 6 6 0][f 4 10 65535 0 0][vp 8 0 0 23 22 0]Bem, estou feliz[n]que você esteja feliz.[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Makoto]]
-[s][bup 0 6 1 6 0][f 4 10 65535 0 0][vp 8 0 0 24 22 0]OK, mas mais cedo ou mais tarde você deve[n]comê-lo, OK?[n][f 1 3 65535][w][e]
+[s][bup 0 6 1 6 0][f 4 10 65535 0 0][vp 8 0 0 24 22 0]Ok, mas mais cedo ou mais tarde você deve[n]comê-lo, Ok?[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Makoto]]
 [s][bup 0 6 1 6 0][f 4 10 65535 0 0][vp 8 0 0 25 22 0]Não é uma reação ruim. Talvez[n]um pouco melodramático demais...[n][f 1 3 65535][w][e]
@@ -95,7 +95,7 @@
 [s][bup 0 6 0 6 0][f 4 10 65535 0 0][vp 8 0 0 34 22 0]Claro.[n][f 1 3 65535][w][e]
 
 [msg MSG_027_0_0 [Makoto]]
-[s][bup 0 6 1 6 0][f 4 10 65535 0 0][vp 8 0 0 35 22 0]OK, vou pegar os ingressos agora.[n][f 1 3 65535][w][e]
+[s][bup 0 6 1 6 0][f 4 10 65535 0 0][vp 8 0 0 35 22 0]Ok, vou pegar os ingressos agora.[n][f 1 3 65535][w][e]
 [s][bup 0 6 0 6 0][f 4 10 65535 0 0][vp 8 0 0 36 22 0]...Talvez.[n][f 1 3 65535][w][e]
 
 [msg MSG_028_0_0 [Makoto]]
@@ -110,7 +110,7 @@
 
 [msg MSG_031_0_0 [Makoto]]
 [s][bup 0 6 1 6 0][f 4 10 65535 0 0][vp 8 0 0 42 22 0]Mas agora tem mais.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 43 22 0]Agora há alguém que eu quero fazer[n]feliz. Com quem eu quero estar. Não[n]como um Ladrão Fantasma, mas como pessoa.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 43 22 0]Agora há alguém que eu quero fazer[n]feliz. Com quem eu quero estar. Não[n]como um Phantom Thief, mas como pessoa.[n][f 1 3 65535][w][e]
 
 [sel SEL_032_0_0 top]
 [s]Quem?[e]

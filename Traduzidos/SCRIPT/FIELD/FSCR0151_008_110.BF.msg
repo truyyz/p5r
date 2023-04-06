@@ -7,7 +7,7 @@
 [s]Me dê um segundo.[e]
 
 [msg D01_04_e165_062_selA_1_m [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1157 65535 0]OK. Antes de lidar com isso, certifique-se de[n]estar preparado.[n][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1157 65535 0]Ok. Antes de lidar com isso, certifique-se de[n]estar preparado.[n][w][e]
 
 [msg D01_04_e165_062_re_mes01 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Você está pronto, Joker?[n][w][e]
@@ -26,7 +26,7 @@
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Está vindo![n][w][e]
 
 [msg D01_04_e165_064_mes01 [Ryuji]]
-[s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7103 65535 0]OK! Podemos continuar![n][w][e]
+[s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7103 65535 0]Ok! Podemos continuar![n][w][e]
 
 [msg D01_04_e165_064_mes02 [Ann]]
 [s][bup 0 4 105 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]N-já cansei desse lugar...[n][w][e]

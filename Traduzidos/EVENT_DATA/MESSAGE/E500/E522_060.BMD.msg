@@ -12,7 +12,7 @@
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Ei, deixe-me ver.[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]OK...?[n][f 1 3 65535][w][e]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Ok...?[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Você tem que fazer isso para se formar[n]oficialmente![n][f 1 3 65535][w][e]
@@ -101,7 +101,7 @@
 [s][vp 8 0 0 39 13 0]Vocês são todos amigos, certo?[n][f 1 3 65535][w][e]
 
 [msg MSG_033_0_0 [Homem com chapéu]]
-[s][vp 8 0 0 40 13 0]OK, pronto?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 40 13 0]Ok, pronto?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 41 13 0]Diga queijo...[n][f 1 3 65535][w][e]
 
 [msg MSG_034_0_0 [(SE)Ü同]]

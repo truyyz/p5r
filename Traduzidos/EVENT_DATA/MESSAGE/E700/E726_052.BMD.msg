@@ -71,7 +71,7 @@
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][f 5 13 9 5 9][vp 8 2 0 8038 65535 0]Você diz? Não parece tão[n]incomum para uma criança pequena.[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Akechi]]
-[s][bup 0 9 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 8028 65535 0]Porque? Que tipo de pessoa[n]você pensa que eu sou?[n][f 1 3 65535][w][e]
+[s][bup 0 9 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 8028 65535 0]Por quê? Que tipo de pessoa[n]você pensa que eu sou?[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Akechi]]
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas existem diferentes tipos de[n]heróis, é claro. E[n]diferentes filosofias com as quais se identificam.[n][f 1 3 65535][w][e]

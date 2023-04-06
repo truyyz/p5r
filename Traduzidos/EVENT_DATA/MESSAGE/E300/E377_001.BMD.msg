@@ -88,7 +88,7 @@
 [s][vp 8 0 0 31 65535 0]Mas se eu usar a internet,[n]ela deixará um rastro. Eu deveria...[n][f 1 3 65535][w][e]
 
 [msg MSG_026_0_0 [Futaba]]
-[s][vp 8 0 0 32 65535 0]MMM OK! Eu tenho um plano![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 32 65535 0]MMM Ok! Eu tenho um plano![n][f 1 3 65535][w][e]
 
 [msg MSG_027_0_0 [Morgana]]
 [s][vp 8 0 0 33 65535 0]...bem, perfeito.[n][f 1 3 65535][w][e]

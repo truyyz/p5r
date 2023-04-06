@@ -10,7 +10,7 @@
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Você está terrivelmente atrasado.[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Akechi]]
-[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Porque? Só para saborear[n]um delicioso café.[n][f 1 3 65535][w][e]
+[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Por quê? Só para saborear[n]um delicioso café.[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Akechi]]
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Como vão os negócios?[n][f 1 3 65535][w][e]

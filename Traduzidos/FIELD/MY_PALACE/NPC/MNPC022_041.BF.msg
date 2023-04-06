@@ -93,6 +93,6 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]O homem chamado Shido não é exceção.[n]Provavelmente, mesmo agora ele tem desejos que[n]nunca realizará.[n][w][e]
 
 [msg MES_GROUP9_03 [Ryuji]]
-[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 7038 65535 0]OK, eu entendo, todo mundo tem algo que quer fazer na vida, mas…[n][w][e]
+[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 7038 65535 0]Ok, eu entendo, todo mundo tem algo que quer fazer na vida, mas…[n][w][e]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Explorar os outros e fazê-los sofrer apenas para[n]seu próprio ganho? Não é assim que os sonhos se[n]tornam realidade.[n][w][e]
 

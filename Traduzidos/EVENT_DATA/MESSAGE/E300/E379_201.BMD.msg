@@ -62,7 +62,7 @@
 [s][bup 0 9 100 65535 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]Não vou permitir.[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]OK, hora de entrar.[n][f 1 3 65535][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]Ok, hora de entrar.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Nosso prazo é[n]20 de novembro. Se exagerarmos,[n]eles realmente nos prendem.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Como sempre, precisaremos encontrar[n]uma rota de infiltração segura[n]antes de enviar a carta.[n][f 1 3 65535][w][e]
 

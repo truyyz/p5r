@@ -100,7 +100,7 @@
 
 [msg MSG_019_0_0 [Futaba]]
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu odeio ser tão covarde...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][f 4 24 0 4 0 40 5 100][vp 8 0 0 0 65535 0]Mas talvez, agora que sou um ladrão[n]fantasma cumprindo minhas promessas,[n]eu possa enfrentar meus medos![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][f 4 24 0 4 0 40 5 100][vp 8 0 0 0 65535 0]Mas talvez, agora que sou um Phantom[n]Thief cumprindo minhas promessas,[n]eu possa enfrentar meus medos![n][f 1 3 65535][w][e]
 
 [msg MSG_019_3_0 [Futaba]]
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 8 2 300 65535][vp 8 0 0 0 65535 0]"Dar-se bem com Kana-chan"...[n]Dessa vez eu vou![n][f 1 3 65535][w][e]
@@ -123,7 +123,7 @@
 [s][vp 8 0 0 0 65535 0]Parece que Futaba[n]começa a contar comigo...[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Futaba]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 8 12 300 1][vp 8 2 0 9196 65535 0]OK, vou começar a trabalhar![n]Hora de descobrir[n]informações sobre Kana-chan![n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 8 12 300 1][vp 8 2 0 9196 65535 0]Ok, vou começar a trabalhar![n]Hora de descobrir[n]informações sobre Kana-chan![n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Futaba]]
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ah, e... desculpe se eu não fui[n]muito hospitaleiro hoje. Talvez[n]na próxima vez![n][f 1 3 65535][w][e]

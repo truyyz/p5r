@@ -135,7 +135,7 @@
 [msg MSG_MAKOTO_4 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Desculpe pela ligação repentina.[n]Assistir um filme sobre a[n]yakuza sozinho me deixou desconfortável.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 2030 65535 0]Mas eu me diverti,[n]graças a você.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]OK, vamos para casa.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Ok, vamos para casa.[n][f 1 3 65535][w][e]
 
 [msg MSG_HARU_1 [Haru]]
 [s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 3048 65535 0]Aaah, isso foi hilário![n]Ainda tenho palpitações.[n][f 1 3 65535][w][e]

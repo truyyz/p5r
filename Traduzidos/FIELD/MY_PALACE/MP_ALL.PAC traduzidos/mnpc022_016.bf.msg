@@ -77,7 +77,7 @@
 [s][bup 0 7 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 35 10 0 10][vp 8 2 1 3048 65535 0]Estou feliz que vocês dois estão se dando[n]bem.[n][w][e]
 
 [msg MES_GROUP8_01 [Futaba]]
-[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 9089 65535 0]Nossas roupas de ladrões fantasmas vêm de[n]nossos próprios corações, certo?[n][w][e]
+[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 9089 65535 0]Nossas roupas de Phantom Thieves vêm de[n]nossos próprios corações, certo?[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Na verdade, eu gosto do design com o qual[n]acabei. Bom trabalho, eu![n][w][e]
 
 [msg MES_GROUP8_02 [Ann]]

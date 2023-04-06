@@ -98,7 +98,7 @@
 [s][vp 8 0 0 0 65535 0]Eu sinto um forte vínculo[n]com Kawakami...[n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Kawakami]]
-[s][bup 0 109 500 65535 0][f 4 10 65535 0 0][vp 8 0 0 36 65535 0]OK, vamos indo...[n]Cinquenta palavras! Vai![n][f 1 3 65535][w][e]
+[s][bup 0 109 500 65535 0][f 4 10 65535 0 0][vp 8 0 0 36 65535 0]Ok, vamos indo...[n]Cinquenta palavras! Vai![n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Kawakami]]
 [s][bup 0 109 501 65535 0][f 4 10 65535 0 0][vp 8 0 0 39 65535 0]Eu não quero que você[n]falhe nos exames.[n][f 1 3 65535][w][e]

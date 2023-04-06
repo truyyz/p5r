@@ -25,7 +25,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Quem sabe quais livros eles têm[n]na biblioteca sob[n]na estação de Shibuya...[n][f 1 3 65535][w][e]
 
 [sel SEL_007_0_0 top]
-[s]OK, vamos dar uma olhada.[e]
+[s]Ok, vamos dar uma olhada.[e]
 [s]Quer um livro sobre cachorros?[e]
 [s]Eu não gosto de livros.[e]
 

@@ -130,7 +130,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1192 65535 0]Você não deveria estudar se não tem nada para[n]fazer?[n][w][e]
 
 [msg MSG_SOFA_0514 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1156 65535 0]Se você não consegue distinguir a verdadeira arte[n]você será um fracasso como Ladrão Fantasma,[n]entendeu?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1156 65535 0]Se você não consegue distinguir a verdadeira arte[n]você será um fracasso como Phantom Thief,[n]entendeu?[n][w][e]
 
 [msg MSG_SOFA_0515 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1172 65535 0]Este é o primeiro alvo de[n][f 4 28]. Vamos ter cuidado[n]e tentar não estragar as coisas.[n][w][e]
@@ -255,7 +255,7 @@
 [s][f 4 10 65535 0 0]O chefe realmente faria isso? Deve haver um[n]engano, você não acha?[n][w][e]
 
 [msg MSG_SOFA_0723 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1172 65535 0]Comendo Sushi em Ginza...[n]Os Ladrões Fantasmas[n]percorreram um longo caminho![n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1172 65535 0]Comendo Sushi em Ginza...[n]Os Phantom Thieves[n]percorreram um longo caminho![n][w][e]
 
 [msg MND_SOFA_0724]
 [s]Quem sabe onde Morgana foi...[n][w][e]

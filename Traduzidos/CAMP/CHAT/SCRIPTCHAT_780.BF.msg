@@ -25,13 +25,13 @@
 [s]Tenho outros planos para amanhã...[e]
 
 [msg MSG_201_0_0 [Ann]]
-[s][f 5 14]OK. Então eu ouço Ryuji.[n][w][e]
+[s][f 5 14]Ok. Então eu ouço Ryuji.[n][w][e]
 
 [msg MSG_202_0_0 [Ann]]
 [s][f 5 14]Vamos nos encontrar na frente[n]da Estação Shibuya[n]à tarde.[n][w][e]
 
 [msg MSG_210_0_0 [Ann]]
-[s][f 5 14]Oh, OK.[n][w][e]
+[s][f 5 14]Oh, Ok.[n][w][e]
 
 [msg MSG_400_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Eu também vou, claro![n][f 1 3 65535][w][e]

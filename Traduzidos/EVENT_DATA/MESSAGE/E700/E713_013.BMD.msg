@@ -17,14 +17,14 @@
 [s]Eu faço isso para exames.[e]
 
 [msg MSG_005_0_0 [Takemi]]
-[s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]OK. No entanto, você perdeu[n]a consciência por causa[n]do sabor.[n][f 1 3 65535][w][e]
+[s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Ok. No entanto, você perdeu[n]a consciência por causa[n]do sabor.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Quando misturado com sucos gástricos, gera um[n]odor semelhante ao de arenque fermentado.[n][f 1 3 65535][w][e]
 [s][bup 0 108 1 0 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0][f 4 24 0 6 0 1 5 100][f 4 24 0 6 0 36 5 100]Ah bem. De qualquer forma, graças a você[n]coletei alguns dados úteis.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]OK, agora tenho que cumprir minha[n]parte do acordo. É por isso que[n]esperei você acordar.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Ok, agora tenho que cumprir minha[n]parte do acordo. É por isso que[n]esperei você acordar.[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Takemi]]
 [s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Não quero que as pessoas[n]saibam das minhas receitas.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Então, você não pode contar a[n]ninguém sobre o que acontece[n]aqui... OK?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Então, você não pode contar a[n]ninguém sobre o que acontece[n]aqui... Ok?[n][f 1 3 65535][w][e]
 
 [sel SEL_007_0_0 top]
 [s]É claro.[e]
@@ -54,7 +54,7 @@
 [s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Se você pode se mover,[n]você pode ir para casa.[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Takemi]]
-[s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]OK, tome cuidado.[n][f 1 3 65535][w][e]
+[s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Ok, tome cuidado.[n][f 1 3 65535][w][e]
 
 [msg MSG_013_4_0 [Sae]]
 [s][vp 8 0 0 800 65535 0]Considerando tudo o que você faz, você deve ter[n]conhecido um médico experiente.[n][f 1 3 65535][w][e]

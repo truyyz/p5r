@@ -128,7 +128,7 @@
 [s][vp 8 0 0 0 65535 0]É como um toque fresco de limão no ar. Isso me[n]lembra de quando eu era uma garotinha.[n][f 1 3 65535][w][e]
 
 [msg MSG_025_0_0 [Makoto]]
-[s][bup 0 6 7 65535 0][f 4 10 65535 0 0][vp 8 2 0 2029 65535 0]OK. Bem, temos que ir...[n][f 1 3 65535][w][e]
+[s][bup 0 6 7 65535 0][f 4 10 65535 0 0][vp 8 2 0 2029 65535 0]Ok. Bem, temos que ir...[n][f 1 3 65535][w][e]
 
 [msg MSG_027_0_0 [Makoto]]
 [s][vp 8 2 0 2053 65535 0]Obrigado novamente por hoje.[n]Até mais...[n][f 1 3 65535][w][e]

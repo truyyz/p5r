@@ -525,7 +525,7 @@
 
 [msg TalkMsg_GUY_CHAT_SQ_02]
 [s]Deixe esta velha senhora[n]fazer uma pergunta. Não tem[n]coisas para fazer no mundo real?[n][w][e]
-[s]Você terá um futuro triste se desperdiçar todo[n]esse tempo fingindo ser um ladrão fantasma.[n][w][e]
+[s]Você terá um futuro triste se desperdiçar todo[n]esse tempo fingindo ser um Phantom Thief.[n][w][e]
 
 [sel TalkSel_GUY_CHAT_SQ_02 top]
 [s]Obrigado.[e]
@@ -569,7 +569,7 @@
 [s]Deixe-me adivinhar, alguém[n]disse para você seguir seu coração e você[n]obedeceu sem pensar, hein?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_02_R_13]
-[s]Se você fizer isso, parece mais[n]um ladrão do que um[n]ladrão fantasma, não acha?[n][w][e]
+[s]Se você fizer isso, parece mais[n]um ladrão do que um[n]Phantom Thief, não acha?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_02_R_14]
 [s]Coisa? Mas... estávamos conversando.[n][w][e]

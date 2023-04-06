@@ -12,7 +12,7 @@
 
 [msg MSG_004_0_0 [Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 1]-kun? *coff* Erm...[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]A-Abaixe o[n]volume, OK?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]A-Abaixe o[n]volume, Ok?[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Prof. Chouno]]
 [s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Enfim, [f 4 2].[n][f 1 3 65535][w][e]

@@ -39,5 +39,5 @@
 [s][f 5 14]Sim, cabe.[n][w][e]
 
 [msg MSG_013_0_0 [Ann]]
-[s][f 5 14][f 5 15]OK, deixe-me saber quando[n]nos encontrarmos e eu direi a[n]Yusuke.[n][w][e]
+[s][f 5 14][f 5 15]Ok, deixe-me saber quando[n]nos encontrarmos e eu direi a[n]Yusuke.[n][w][e]
 

@@ -30,7 +30,7 @@
 
 [msg MSG_007_0_0 [Shinya]]
 [s][bup 0 110 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]... Retiro tudo. Quero dizer,[n]qualquer um ficaria animado para[n]ver um tubarão.[n][f 1 3 65535][w][e]
-[s][bup 0 110 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 36 5 100]OK, vamos ver[n]aquele show![n][f 1 3 65535][w][e]
+[s][bup 0 110 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 36 5 100]Ok, vamos ver[n]aquele show![n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Shinya]]
 [s][vp 8 2 0 17090 65535 0]É bom sair do fliperama de vez em quando. Foi incrível. Obrigado![n][f 1 3 65535][w][e]

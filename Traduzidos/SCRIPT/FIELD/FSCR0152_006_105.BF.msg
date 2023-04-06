@@ -61,7 +61,7 @@
 [s][bup 0 2 0 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Sim, apanhar é[n]o segredo dos profissionais.[n]Ei, poupe-me do humor negro![n][w][e]
 
 [msg D01_02_e130_104_mes03 [Ryuji]]
-[s][bup 0 2 0 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]OK, memorizei tudo![n]Vamos checar os outros, rápido![n][w][e]
+[s][bup 0 2 0 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ok, memorizei tudo![n]Vamos checar os outros, rápido![n][w][e]
 
 [msg D01_02_e130_104_mes04 [Ryuji]]
 [s][bup 0 2 0 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu já memorizei o rosto deles![n]Vamos, vamos encontrar mais alguns![n][w][e]
@@ -75,7 +75,7 @@
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Essa merda me deixa doente.[n]Espere, crianças. Não vai durar[n]muito mais.[n][w][e]
 
 [msg D01_02_e130_105_mes03 [Ryuji]]
-[s][bup 0 2 0 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]OK, memorizado.[n]Droga, mais quantos são...?[n][w][e]
+[s][bup 0 2 0 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ok, memorizado.[n]Droga, mais quantos são...?[n][w][e]
 
 [msg D01_02_e130_105_mes04 [Ryuji]]
 [s][bup 0 2 0 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu já memorizei o rosto deles![n]Vamos, vamos encontrar mais alguns![n][w][e]

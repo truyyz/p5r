@@ -105,7 +105,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 39 65535 0]Embora o conteúdo fosse[n]nada além de lixo, devo dizer que[n]a maleta não é tão ruim.[n][f 1 3 65535][w][e]
 
 [msg MSG_034_0_0 [Ryuji]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 1 300 1][vp 8 0 0 40 65535 0]OK, então vamos vendê-lo![n]Pelo menos este...![n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 1 300 1][vp 8 0 0 40 65535 0]Ok, então vamos vendê-lo![n]Pelo menos este...![n][f 1 3 65535][w][e]
 
 [msg MSG_035_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 41 65535 0]A propósito, Morgana,[n]você conseguiu recuperar[n]alguma de suas memórias?[n][f 1 3 65535][w][e]

@@ -8,10 +8,10 @@
 [s][f 5 14]Não é sobre trabalho,[n]obviamente.[n][f 5 15][w][e]
 
 [msg CHAT_REACTION_01 [Ohya]]
-[s][f 5 14]OK, então vamos[n]para a Skytree hoje![n][w][e]
+[s][f 5 14]Ok, então vamos[n]para a Skytree hoje![n][w][e]
 
 [msg CHAT_REACTION_02 [Ohya]]
-[s][f 5 14]Já faz um tempo,[n]mal posso esperar. OK, até lá![n][f 5 15][w][e]
+[s][f 5 14]Já faz um tempo,[n]mal posso esperar. Ok, até lá![n][f 5 15][w][e]
 
 [msg MSG_MORUGANA_CORPNG [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Você ainda deve estar cansado da jornada do[n]Metaverso. Talvez[n]você devesse descansar hoje.[n][f 1 3 65535][w][e]

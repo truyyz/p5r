@@ -124,7 +124,7 @@
 
 [msg E187101_005 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Até agora eles chutaram o nosso traseiro, mas[n]agora podemos nos vingar esses idiotas.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Se conseguirmos derrotar um imbecil[n]importante, todos saberão[n]quem são os Ladrões Fantasmas![n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Se conseguirmos derrotar um imbecil[n]importante, todos saberão[n]quem são os Phantom Thieves![n][w][e]
 
 [msg E187101_006 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Talvez eu esteja correndo demais, mas...[n]você não pensa em quem[n]nós vamos atingir a seguir?[n][w][e]
@@ -175,7 +175,7 @@
 
 [msg MSG_KFE_714_START [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Precisamos de evidências que mudarão a opinião de[n]Taihei...[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]OK, vamos recapitular.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Ok, vamos recapitular.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Kawakami [clr 2]sempre parece cansado[clr 27], mesmo[n]se [clr 2]vai para casa rapidamente[clr 27][n]nos fins de semana.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Ela [clr 2]carrega roupas suspeitas[clr 27][n]e quando atende o telefone[n][clr 2]diz que se chama Becky[clr 27].[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Isso é tudo. Primeiro,[n]precisamos encontrar algumas evidências.[n][w][e]

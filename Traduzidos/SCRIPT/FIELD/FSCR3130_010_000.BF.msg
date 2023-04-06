@@ -54,7 +54,7 @@
 [s]Não, não importa.[e]
 
 [msg MSG_BOOK_TITLE_000 [Morgana]]
-[s]OK, que livro eu poderia ler agora?[n][e]
+[s]Ok, que livro eu poderia ler agora?[n][e]
 
 [msg MSG_BOOK_CANCEL [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0]Oh sério?[n][w][e]

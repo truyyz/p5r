@@ -8,7 +8,7 @@
 [s][f 5 14]Você está assustado? É[n]arriscado, afinal...[n][w][e]
 
 [msg MSG_003_0_0 [Kawakami]]
-[s][f 5 14]OK... Vou parar de convidar você.[n][f 5 15][w][e]
+[s][f 5 14]Ok... Vou parar de convidar você.[n][f 5 15][w][e]
 
 [msg MSG_MORUGANA [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Ignorar os convites de Kawakami[n]está enfraquecendo sua confiança...[n][f 1 3 65535][w][e]

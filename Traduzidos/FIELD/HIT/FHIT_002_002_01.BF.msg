@@ -27,7 +27,7 @@
 [s][vp 1 0 0 0 0 0]Tem cheiro de mofo...[n][w][e]
 
 [msg MSG_CHK_QUEST10_00 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1165 65535 0]Apresse-se e vamos acabar com isso, OK?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1165 65535 0]Apresse-se e vamos acabar com isso, Ok?[n][w][e]
 
 [msg MSG_CHK_QUEST10_01]
 [s][vp 1 0 0 0 0 0]...Há algo gravado[n]na parede do banheiro.[n][w][e]

@@ -17,7 +17,7 @@
 
 [msg MSG_004_0_0 [Homem de terno e gravata]]
 [s][vp 8 0 0 4 6 0]Há um mandado de prisão contra você.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 5 6 0]As acusações são de chantagem[n]e coerção. Também suspeitamos[n]que você é um Ladrão Fantasma.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 5 6 0]As acusações são de chantagem[n]e coerção. Também suspeitamos[n]que você é um Phantom Thief.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 6 6 0]...Por favor, siga-nos[n]até a delegacia[n]sem resistência.[n][f 1 3 65535][w][e]
 
 [msg MND_005_0_0]

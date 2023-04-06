@@ -29,7 +29,7 @@
 [s]Ainda não.[e]
 
 [msg D04_01_e293_012_selA_0_m [Ann]]
-[s][bup 0 4 0 1 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6023 65535 0]OK. Aqui vamos descobrir algo[n]sobre os segredos de Futaba, certo?[n][w][e]
+[s][bup 0 4 0 1 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6023 65535 0]Ok. Aqui vamos descobrir algo[n]sobre os segredos de Futaba, certo?[n][w][e]
 
 [msg D04_01_e293_012_selA_0_m_2 [Makoto]]
 [s][bup 0 6 0 1 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2020 65535 0]Já. Bem, vamos entrar.[n][w][e]

@@ -118,7 +118,7 @@
 
 [msg MSG_031_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1018 65535 0]As provas, hein...[n]Já pensou como[n]vai encará-las?[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Nem mesmo um Ladrão Fantasma[n]pode se dar ao luxo de copiar[n]respostas.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Nem mesmo um Phantom Thief[n]pode se dar ao luxo de copiar[n]respostas.[n][f 1 3 65535][w][e]
 
 [msg MSG_032_0_0 [Prof. Inui]]
 [s][bup 0 302 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37102 65535 0]Oh, há uma[n]exposição do grande artista[n]Madarame acontecendo em Shibuya, não é?[n][f 1 3 65535][w][e]
@@ -364,7 +364,7 @@
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Por que alguém rouba um coração,[n]que não pode ser revendido,[n]está além da minha compreensão.[n][f 1 3 65535][w][e]
 
 [msg MSG_093_0_0 [Prof. Usami]]
-[s][bup 0 305 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Se eu fosse um Ladrão Fantasma,[n]eu não iria querer "corações" ou[n]arte: eu iria atrás de ouro.[n][f 1 3 65535][w][e]
+[s][bup 0 305 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Se eu fosse um Phantom Thief,[n]eu não iria querer "corações" ou[n]arte: eu iria atrás de ouro.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]O valor do ouro sempre foi alto desde os tempos[n]antigos, não há recurso mais estável.[n][f 1 3 65535][w][e]
 
 [msg MSG_094_0_0 [Prof. Usami]]
@@ -478,7 +478,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1156 65535 0]Quarta que vem, hein...[n]É melhor se preparar.[n][f 1 3 65535][w][e]
 
 [msg MSG_122_0_0 [Prof Hiruta]]
-[s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37153 65535 0]Os Ladrões Fantasmas...[n][f 1 3 65535][w][e]
+[s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37153 65535 0]Os Phantom Thieves...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Nesta sociedade da internet,[n]até a menor idiotice[n]tem 5 minutos de visibilidade.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Mas, assim como um fugaz[n]fogo de artifício, ele desaparece[n]no esquecimento quando o verão termina.[n][f 1 3 65535][w][e]
 
@@ -641,7 +641,7 @@
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]No entanto, se Okumura não[n]ver os outros como pessoas,[n]teremos que despertar seu coração![n][f 1 3 65535][w][e]
 
 [msg MSG_162_0_0 [Prof Ushimaru]]
-[s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37052 65535 0]Ontem, fui comprar um[n]presente para minha sobrinha e à venda[n]havia uma fantasia de Ladrão Fantasma.[n][f 1 3 65535][w][e]
+[s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37052 65535 0]Ontem, fui comprar um[n]presente para minha sobrinha e à venda[n]havia uma fantasia de Phantom Thief.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Seria o fim deste país se[n]as crianças começassem a querer[n]ser como elas.[n][f 1 3 65535][w][e]
 
 [msg MSG_163_0_0 [Prof Ushimaru]]
@@ -762,7 +762,7 @@
 [s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O festival da escola não é apenas[n]uma chance de relaxar.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]É um evento para o qual convidamos[n]possíveis calouros, membros de[n]associações de pais e afins.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Este ano, teremos Akechi-san.[n]Haverá o dobro de convidados,[n]mesmo que seja um dia de semana.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Amanhã vou demorar[n]dobro para fazer minha maquiagem...[n]Faça o seu melhor! OK?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Amanhã vou demorar[n]dobro para fazer minha maquiagem...[n]Faça o seu melhor! Ok?[n][f 1 3 65535][w][e]
 
 [msg MSG_191_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1038 65535 0]O festival da escola...[n][f 1 3 65535][w][e]
@@ -965,7 +965,7 @@
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]As pessoas teriam ficado desapontadas[n]se não tivessem zombado dele.[n][f 1 3 65535][w][e]
 
 [msg MSG_240_0_0 [Prof. Inui]]
-[s][bup 0 302 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu me pergunto o que aconteceria se[n]aqueles Ladrões Fantasmas fossem[n]pegos.[n][f 1 3 65535][w][e]
+[s][bup 0 302 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu me pergunto o que aconteceria se[n]aqueles Phantom Thieves fossem[n]pegos.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Dados os tempos, não seriam[n]expostas apenas suas cabeças.[n][f 1 3 65535][w][e]
 
 [msg MSG_241_0_0 [Morgana]]
@@ -1063,7 +1063,7 @@
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ah, mas existe uma comida tradicional[n]associada ao Tanabata, assim[n]como chocolate no Dia dos Namorados.[n][f 1 3 65535][w][e]
 
 [msg MSG_264_0_0 [Prof Kawakami]]
-[s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15116 65535 0]OK, [f 4 1]-kun![n][f 1 3 65535][w][e]
+[s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15116 65535 0]Ok, [f 4 1]-kun![n][f 1 3 65535][w][e]
 
 [msg MSG_265_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Qual é a comida tradicional[n]do Tanabata?[n][f 1 3 65535][w][e]
@@ -1175,10 +1175,10 @@
 [msg MSG_290_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Lupin e Holmes[n]continuaram a aparecer[n]em muitas outras obras...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Mas eram presentes,[n]não plágio.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Agora, Lupin incorpora a metáfora do "ladrão[n]fantasma". Ele é conhecido em todo o mundo.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Agora, Lupin incorpora a metáfora do "Phantom[n]Thief". Ele é conhecido em todo o mundo.[n][f 1 3 65535][w][e]
 
 [msg MSG_291_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1035 65535 0]Uau, parece que[n]ladrões fantasmas nunca saem de moda.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1035 65535 0]Uau, parece que[n]Phantom Thieves nunca saem de moda.[n][f 1 3 65535][w][e]
 
 [msg MSG_292_0_0 [Prof. Chouno]]
 [s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37214 65535 0]Está tudo tão nojento e úmido,[n]apesar do final de junho...[n][f 1 3 65535][w][e]
@@ -1546,10 +1546,10 @@
 [msg MSG_380_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Lupin e Holmes[n]continuaram a aparecer[n]em muitas outras obras...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Mas eram presentes,[n]não plágio.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Agora, Lupin incorpora a metáfora do "ladrão[n]fantasma". Ele é conhecido em todo o mundo.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Agora, Lupin incorpora a metáfora do "Phantom[n]Thief". Ele é conhecido em todo o mundo.[n][f 1 3 65535][w][e]
 
 [msg MSG_381_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1035 65535 0]Uau, parece que[n]ladrões fantasmas nunca saem de moda.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1035 65535 0]Uau, parece que[n]Phantom Thieves nunca saem de moda.[n][f 1 3 65535][w][e]
 
 [msg MSG_382_0_0 [Prof. Inui]]
 [s][bup 0 302 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37102 65535 0]Eu tenho pescado[n]ultimamente, embora seja apenas[n]pesca ocasional no lago.[n][f 1 3 65535][w][e]
@@ -2061,7 +2061,7 @@
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]No entanto, se Okumura não[n]ver os outros como pessoas,[n]teremos que despertar seu coração![n][f 1 3 65535][w][e]
 
 [msg MSG_502_0_0 [Prof Ushimaru]]
-[s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37052 65535 0]Ontem, fui comprar um[n]presente para minha sobrinha e à venda[n]havia uma fantasia de Ladrão Fantasma.[n][f 1 3 65535][w][e]
+[s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37052 65535 0]Ontem, fui comprar um[n]presente para minha sobrinha e à venda[n]havia uma fantasia de Phantom Thief.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Seria o fim deste país se[n]as crianças começassem a querer[n]ser como elas.[n][f 1 3 65535][w][e]
 
 [msg MSG_503_0_0 [Prof Ushimaru]]
@@ -2343,7 +2343,7 @@
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]As pessoas teriam ficado desapontadas[n]se não tivessem zombado dele.[n][f 1 3 65535][w][e]
 
 [msg MSG_570_0_0 [Prof. Inui]]
-[s][bup 0 302 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu me pergunto o que aconteceria se[n]aqueles Ladrões Fantasmas fossem[n]pegos.[n][f 1 3 65535][w][e]
+[s][bup 0 302 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu me pergunto o que aconteceria se[n]aqueles Phantom Thieves fossem[n]pegos.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Dados os tempos, não seriam[n]expostas apenas suas cabeças.[n][f 1 3 65535][w][e]
 
 [msg MSG_571_0_0 [Morgana]]

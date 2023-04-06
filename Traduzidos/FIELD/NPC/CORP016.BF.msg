@@ -82,7 +82,7 @@
 
 [msg MSG_C16_BEGIN_TIME_05 [Shinya]]
 [s][bup 0 110 1 0 0][f 4 10 65535 0 0][f 4 23 1 216 3 10 0 10][vp 8 2 1 17076 65535 0]No beco da loja[n]estava uma máquina Phantom Thieves Gacha[n]...[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Você pode encontrar muitas coisas sobre eles.[n]Encontrei um broche dos Ladrões Fantasmas.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Você pode encontrar muitas coisas sobre eles.[n]Encontrei um broche dos Phantom Thieves.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Quem sabe o que vou encontrar[n]na próxima vez...[n][w][e]
 
 [msg MSG_C16_BEGIN_TIME_06 [Shinya]]
@@ -264,7 +264,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]E se você pagar minha refeição,[n]poderá participar[n]gratuitamente deste curso.[n][w][e]
 
 [sel SEL_C16_YES_02_06 top]
-[s]OK.[e]
+[s]Ok.[e]
 [s]Na verdade eu não gosto.[e]
 [s]Tenho que pensar.[e]
 
@@ -279,16 +279,16 @@
 [s][bup 0 110 0 0 0][f 4 10 65535 0 0][f 4 23 1 216 3 10 0 10][vp 8 2 1 17019 65535 0]Após nosso treinamento[n]quero falar sobre os rumores[n]sobre Takekuma.[n][w][e]
 
 [msg MSG_C16_YES_05_00 [Shinya]]
-[s][bup 0 110 1 0 0][f 4 10 65535 0 0][f 4 23 1 216 3 10 0 10][vp 8 2 1 17048 65535 0]OK! Hoje vamos ter uma sessão de treinamento[n]muito aprofundada ![n][w][e]
+[s][bup 0 110 1 0 0][f 4 10 65535 0 0][f 4 23 1 216 3 10 0 10][vp 8 2 1 17048 65535 0]Ok! Hoje vamos ter uma sessão de treinamento[n]muito aprofundada ![n][w][e]
 
 [msg MSG_C16_YES_06_00 [Shinya]]
-[s][bup 0 110 0 0 0][f 4 10 65535 0 0][f 4 23 1 216 3 10 0 10][vp 8 2 1 17061 65535 0]OK, então... vamos... para algum lugar tranquilo.[n][w][e]
+[s][bup 0 110 0 0 0][f 4 10 65535 0 0][f 4 23 1 216 3 10 0 10][vp 8 2 1 17061 65535 0]Ok, então... vamos... para algum lugar tranquilo.[n][w][e]
 
 [msg MSG_C16_YES_07_00 [Shinya]]
 [s][bup 0 110 4 0 0][f 4 10 65535 0 0][f 4 23 1 216 3 10 0 10][vp 8 2 1 17066 65535 0]Huh? O que você quer dizer?[n][w][e]
 
 [msg MSG_C16_YES_08_00 [Shinya]]
-[s][bup 0 110 1 0 0][f 4 10 65535 0 0][f 4 23 1 216 3 10 0 10][vp 8 2 1 17024 65535 0]OK! Então venha comigo.[n][w][e]
+[s][bup 0 110 1 0 0][f 4 10 65535 0 0][f 4 23 1 216 3 10 0 10][vp 8 2 1 17024 65535 0]Ok! Então venha comigo.[n][w][e]
 
 [msg MSG_C16_YES_09_00 [Shinya]]
 [s][bup 0 110 1 0 0][f 4 10 65535 0 0][f 4 23 1 216 3 10 0 10][vp 8 2 1 17024 65535 0][f 4 1]-san,[n]você melhorou muito[n]desde que começou.[n][w][e]
@@ -301,7 +301,7 @@
 [s][bup 0 110 1 0 0][f 4 10 65535 0 0][f 4 23 1 216 3 10 0 10][vp 8 2 1 17024 65535 0]Bom, vamos.[n][w][e]
 
 [msg MSG_C16_YES_10_00 [Shinya]]
-[s][bup 0 110 1 0 0][f 4 10 65535 0 0][f 4 23 1 216 3 10 0 10][vp 8 2 1 17045 65535 0]OK! Eu não vou perder![n][w][e]
+[s][bup 0 110 1 0 0][f 4 10 65535 0 0][f 4 23 1 216 3 10 0 10][vp 8 2 1 17045 65535 0]Ok! Eu não vou perder![n][w][e]
 
 [msg MND_C16_SPOT_01_01]
 [s]Talvez eu devesse convidá-lo para visitar a rua[n]Nakamise comigo...[n][w][e]
@@ -312,7 +312,7 @@
 
 [msg MSG_C16_SPOT_01_03 [Shinya]]
 [s][bup 0 110 1 0 0][f 4 10 65535 0 0][f 4 23 1 216 3 10 0 10][vp 8 2 1 17063 65535 0]Uau... Então você sabia disso também?[n]Eu gostaria de ir ver...[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]OK, então hoje vamos terminar[n]o treinamento mais cedo do que o normal,[n]então podemos ir lá![n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ok, então hoje vamos terminar[n]o treinamento mais cedo do que o normal,[n]então podemos ir lá![n][w][e]
 
 [msg MND_C16_SPOT_02_01]
 [s]Talvez eu devesse convidá-lo para Destinyland...[n][w][e]
@@ -337,7 +337,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Estou perto de Shinagawa,[n]vamos agora! O treino de hoje[n]foi cancelado.[n][w][e]
 
 [msg MSG_C16_COOP_CANCEL_00 [Shinya]]
-[s][bup 0 110 0 0 0][f 4 10 65535 0 0][f 4 23 1 216 3 10 0 10][vp 8 2 1 17063 65535 0]Oh...! OK, ficará para outra hora.[n][w][e]
+[s][bup 0 110 0 0 0][f 4 10 65535 0 0][f 4 23 1 216 3 10 0 10][vp 8 2 1 17063 65535 0]Oh...! Ok, ficará para outra hora.[n][w][e]
 
 [msg MSG_SPOT_OPEN_KANDA]
 [s]Agora você pode ir para [clr 1]Kanda[clr 27].[n][w][e]
@@ -440,7 +440,7 @@
 [s][bup 0 110 1 0 0][f 4 10 65535 0 0][f 4 23 1 216 3 10 0 10][vp 8 0 1 4 65535 0]Graças a Deus... Entre em contato comigo,[n]quando chegar a hora.[n][w][e]
 
 [msg MSG_C16_BYEGREET_00_04 [Shinya]]
-[s][bup 0 110 0 0 0][f 4 10 65535 0 0][f 4 23 1 216 3 10 0 10][vp 8 0 1 5 65535 0]OK! Você está certo,[n]não devemos desistir.[n][w][e]
+[s][bup 0 110 0 0 0][f 4 10 65535 0 0][f 4 23 1 216 3 10 0 10][vp 8 0 1 5 65535 0]Ok! Você está certo,[n]não devemos desistir.[n][w][e]
 
 [msg MSG_C16_BYEGREET_00_05 [Shinya]]
 [s][bup 0 110 1 0 0][f 4 10 65535 0 0][f 4 23 1 216 3 10 0 10][vp 8 0 1 6 65535 0]Ah sim... recebi meu dinheiro de volta.[n][w][e]
@@ -477,7 +477,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 1 22 65535 0]Significa que vamos lutar[n]novamente! Ainda darei o meu melhor,[n]mesmo que seja você.[n][w][e]
 
 [msg MSG_C16_BYEGREET_00_04_5 [Shinya]]
-[s][bup 0 110 1 0 0][f 4 10 65535 0 0][f 4 23 1 216 3 10 0 10][vp 8 0 1 23 65535 0]Se você voltar para me visitar, me ligue,[n]OK? Para que possamos tocar[n]ao vivo novamente.[n][w][e]
+[s][bup 0 110 1 0 0][f 4 10 65535 0 0][f 4 23 1 216 3 10 0 10][vp 8 0 1 23 65535 0]Se você voltar para me visitar, me ligue,[n]Ok? Para que possamos tocar[n]ao vivo novamente.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 24 65535 0]Ou... Bem, se sua cidade tem[n]um fliperama, eu posso jogar[n]um jogo fora de casa![n][w][e]
 
 [msg MSG_C16_BYEGREET_00_05_5 [Shinya]]

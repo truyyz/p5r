@@ -145,7 +145,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 60 65535 0]No entanto, parece que meu método[n]de aconselhamento ainda pode[n]fazer bem.[n][f 1 3 65535][w][e]
 
 [msg MSG_039_0_0 [Kasumi]]
-[s][bup 0 10 601 0 0][f 4 10 65535 0 0][vp 8 0 0 61 65535 0]OK! Não sei como dizer isso,[n]mas... sinto que[n]renasci completamente.[n][f 1 3 65535][w][e]
+[s][bup 0 10 601 0 0][f 4 10 65535 0 0][vp 8 0 0 61 65535 0]Ok! Não sei como dizer isso,[n]mas... sinto que[n]renasci completamente.[n][f 1 3 65535][w][e]
 
 [msg MSG_040_0_0 [Maruki]]
 [s][bup 0 216 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 62 65535 0]Sério? Fico feliz em saber disso.[n][f 1 3 65535][w][e]

@@ -3,7 +3,7 @@
 
 [msg MSG_001_0_0 [Morgana]]
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 0 1067 65535 0]Que bom que você está se divertindo,[n]Lady Ann. Eu não poderia estar mais[n]feliz por ter você convidado.[n][f 1 3 65535][w][e]
-[s][bup 0 3 11 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Agora, a razão pela qual eu[n]convidei você aqui é para fortalecer os[n]Ladrões Fantasmas![n][f 1 3 65535][w][e]
+[s][bup 0 3 11 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Agora, a razão pela qual eu[n]convidei você aqui é para fortalecer os[n]Phantom Thieves![n][f 1 3 65535][w][e]
 [s][bup 0 3 11 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Eu chamo isso de "Operation Pool"![n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Ryuji]]
@@ -31,7 +31,7 @@
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]※カット[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Ann]]
-[s][bup 0 4 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 6110 65535 0]OK. Acho que entendi, mas que[n]tipo de tiro é esse?[n][f 1 3 65535][w][e]
+[s][bup 0 4 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 6110 65535 0]Ok. Acho que entendi, mas que[n]tipo de tiro é esse?[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]※カット[n][f 1 3 65535][w][e]

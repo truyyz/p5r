@@ -17,7 +17,7 @@
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1099 65535 0]Temos que fazer isso.[n][w][e]
 
 [msg MSG_022_0_0 [Sombra de Naguri]]
-[s][vp 8 2 1 46657 65535 0]Ei, vocês são os Ladrões Fantasmas?[n]Você veio me ver? Uau,[n]acho que sou famoso.[n][w][e]
+[s][vp 8 2 1 46657 65535 0]Ei, vocês são os Phantom Thieves?[n]Você veio me ver? Uau,[n]acho que sou famoso.[n][w][e]
 
 [msg MSG_023_0_0 [Ann]]
 [s][bup 0 4 5 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 0 0 0]Cara, que cara chato...[n][w][e]

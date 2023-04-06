@@ -47,7 +47,7 @@
 
 [msg MSG_014_0_0 [Hifumi]]
 [s][bup 0 106 0 4 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Eu jogo no tabuleiro[n]shogi, mas você[n]tem suas batalhas, não tem?[n][f 1 3 65535][w][e]
-[s][bup 0 106 3 4 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Você... e os outros Ladrões Fantasmas.[n][f 1 3 65535][w][e]
+[s][bup 0 106 3 4 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Você... e os outros Phantom Thieves.[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Hifumi]]
 [s][bup 0 106 3 4 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Não sou a primeira pessoa que você[n]salvou e certamente não serei[n]a última.[n][f 1 3 65535][w][e]

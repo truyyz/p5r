@@ -17,7 +17,7 @@
 [s][bup 0 7 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 3194 65535 0]Não devemos deixar ninguém pensar que não há[n]problema em destruir nosso mundo novamente.[n][w][e]
 
 [msg MES_GROUP2_01 [Yusuke]]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 4088 65535 0]O público indolente finalmente escolheu nos[n]apoiar como os ladrões fantasmas...[n][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 4088 65535 0]O público indolente finalmente escolheu nos[n]apoiar como os Phantom Thieves...[n][w][e]
 [s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Certamente foi um momento que não será[n]esquecido tão cedo.[n][w][e]
 
 [msg MES_GROUP2_02 [Ryuji]]
@@ -62,7 +62,7 @@
 [s][bup 0 100 1 0 0][f 4 10 65535 0 0][vp 8 2 1 55458 65535 0]Essa é uma resposta linda, Morgana.[n][w][e]
 
 [msg MES_GROUP6_01 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 6019 65535 0]Eu sei que formamos os ladrões fantasmas com[n]alguns objetivos bastante ambiciosos em[n]mente...[n][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 6019 65535 0]Eu sei que formamos os Phantom Thieves com[n]alguns objetivos bastante ambiciosos em[n]mente...[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Mas eu não tinha ideia de que acabaríamos[n]frente a frente contra um deus.[n][w][e]
 
 [msg MES_GROUP6_02 [Ryuji]]

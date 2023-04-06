@@ -15,7 +15,7 @@
 [s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 2 0 13001 65535 0]Bem-vindo.[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Tsuda]]
-[s][vp 8 0 0 0 65535 0]OK, Iwai, vou pegar uma peça para[n]cada modelo que você me mostrou.[n]Preciso de um arsenal completo.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Ok, Iwai, vou pegar uma peça para[n]cada modelo que você me mostrou.[n]Preciso de um arsenal completo.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Quanto tempo vai demorar?[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Iwai]]
@@ -39,7 +39,7 @@
 [s][vp 8 0 0 0 65535 0]Se as coisas derem errado,[n]podemos tentar vendê-lo[n]novamente.[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Iwai]]
-[s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]OK... Seu pedido terá precedência. Você está[n]feliz?[n][f 1 3 65535][w][e]
+[s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ok... Seu pedido terá precedência. Você está[n]feliz?[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Tsuda]]
 [s][vp 8 0 0 0 65535 0]Muito.[n][f 1 3 65535][w][e]

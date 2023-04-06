@@ -34,7 +34,7 @@
 
 [msg MSG_004_0_0 [Sombra de Tsuda]]
 [s][vp 1 0 0 0 0 0]Ninguém me leva a sério![n]Você, a máfia de Hong Kong, Iwai,[n]nem mesmo o Clã Hashiba![n][w][e]
-[s][vp 1 0 0 0 0 0]Bem, caramba![n]Eu não sou seu motivo de chacota![n]Vou te mostrareeeeee![n][w][e]
+[s][vp 1 0 0 0 0 0]Bem, caramba![n]Eu não sou seu motivo de chacota![n]Vou te mostraaarrrrr![n][w][e]
 
 [msg MSG_005_0_0 [Sombra de Tsuda]]
 [s][vp 1 0 0 0 0 0]Eu... eu... Não havia[n]outra maneira...[n][w][e]

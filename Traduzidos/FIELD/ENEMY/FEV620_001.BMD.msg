@@ -80,7 +80,7 @@
 [s]Jurei[n]proteger.[n][f 1 2 65535][e]
 
 [msg MSG_NML09_01_MNLG_ALT_01_3]
-[s]Meros Ladrões Fantasmas[n]não podem roubá-lo![n][f 1 2 65535][e]
+[s]Meros Phantom Thieves[n]não podem roubá-lo![n][f 1 2 65535][e]
 
 [msg MSG_NML09_01_MNLG_ALT_01_4]
 [s]Não baixe a guarda nem por um segundo.[n][f 1 2 65535][e]

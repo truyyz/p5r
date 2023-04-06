@@ -11,7 +11,7 @@
 [s][f 5 14]Eu esperei por você para nada...[n]Vamos fazer isso outra[n]vez, mas lembre-se.[n][w][e]
 
 [msg CHAT_REACTION_MSG [Futaba]]
-[s][f 5 14]OK. Volte logo.[n][w][e]
+[s][f 5 14]Ok. Volte logo.[n][w][e]
 
 [msg MSG_MORUGANA [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]O que você quer fazer? Você vai[n]aceitar o convite de Futaba?[n][f 1 3 65535][w][e]

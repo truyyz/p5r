@@ -62,7 +62,7 @@
 
 [msg D03_YOKOKU_DAY_mes11 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 23 1 3 3 5 11 5][f 4 10 65535 0 0][vp 1 0 0 14 0 0]Você parece bem carregado![n][w][e]
-[s][f 4 10 65535 0 0][vp 1 0 0 15 0 0]OK, Joker![n]Estamos esperando seu sinal![n][w][e]
+[s][f 4 10 65535 0 0][vp 1 0 0 15 0 0]Ok, Joker![n]Estamos esperando seu sinal![n][w][e]
 
 [msg D06_YOKOKU_DAY_mes01 [Haru]]
 [s][bup 0 7 2 65535 0][f 4 23 1 7 3 5 11 5][f 4 10 65535 0 0][vp 1 0 0 1 0 0]Hoje é o grande dia.[n]Vocês estão prontos?[n][w][e]

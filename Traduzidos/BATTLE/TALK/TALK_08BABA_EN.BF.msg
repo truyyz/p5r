@@ -91,7 +91,7 @@
 [s]O que...? Não seja um bebê, ok?[n]Tudo bem, querida. Dê-me um pouco de[n]energia e deixarei você em paz.[n][w][e]
 
 [msg TalkMsg_EN_FAKE_COUP00]
-[s]Me desculpe, sabe? É como se eu[n]fizesse meu[n]sobrinho chorar... OK, faça o que quiser.[n][w][e]
+[s]Me desculpe, sabe? É como se eu[n]fizesse meu[n]sobrinho chorar... Ok, faça o que quiser.[n][w][e]
 
 [msg TalkMsg_EN_FAKE_COUP01]
 [s]Deus do céu, minhas desculpas...[n]estou saindo, então[n]você vai parar de chorar.[n][w][e]

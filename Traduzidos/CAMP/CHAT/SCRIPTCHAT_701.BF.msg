@@ -19,7 +19,7 @@
 
 [msg CHAT_REACTION_02_02 [Kasumi]]
 [s][f 5 14]Desculpe, meu telefone[n]está apresentando problemas.[n][w][e]
-[s][f 5 14]Desliga quando parece...[n]Agora parece OK, no entanto.[n][w][e]
+[s][f 5 14]Desliga quando parece...[n]Agora parece Ok, no entanto.[n][w][e]
 [s][f 5 14]Vê você...[n][w][e]
 
 [msg CHAT_REACTION_02 [Kasumi]]

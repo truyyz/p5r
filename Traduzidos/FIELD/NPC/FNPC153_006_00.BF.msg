@@ -84,7 +84,7 @@
 
 [sel mini_EV_e210_144_selC top]
 [s]Exatamente.[e]
-[s]Nós somos os ladrões fantasmas![e]
+[s]Nós somos os Phantom Thieves![e]
 [s]Claro que não.[e]
 
 [msg mini_EV_e210_144_selC_0_ [Segurança]]

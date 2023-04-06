@@ -40,7 +40,7 @@
 [s]Este quarto é um pouco monótono.[n]E então, com todo esse silêncio[n]também é um pouco sombrio...[n][w][e]
 [s]Idéia! Seria bom ter[n]um [clr 2]CD player[clr 27][n]para colocar nele.[n][w][e]
 [s]Você pode se exercitar melhor colocando uma[n]música.[n][w][e]
-[s]OK, vamos procurar um [clr 2]CD player[clr 27][n]para colocar na prateleira.[n][w][e]
+[s]Ok, vamos procurar um [clr 2]CD player[clr 27][n]para colocar na prateleira.[n][w][e]
 
 [msg SHELF_CLEAN_END_CD [Morgana]]
 [s]Você pode colocar o[n][clr 2]CD player[clr 27] nesta prateleira.[n][w][e]

@@ -102,7 +102,7 @@
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Bem, é o palácio dele. Aposto[n]que olhando com cuidado encontraremos[n]as pistas para responder.[n][w][e]
 
 [msg D10_12_1st_passcode_lock_6 [Ryuji]]
-[s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7052 65535 0]OK, se esse é o plano,[n]vamos caçar pistas![n][w][e]
+[s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7052 65535 0]Ok, se esse é o plano,[n]vamos caçar pistas![n][w][e]
 
 [msg D10_12_1st_passcode_lock_7 [Ryuji]]
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7158 65535 0]Joker, não deveríamos[n]encontrar as pistas primeiro?[n][w][e]
@@ -150,7 +150,7 @@
 [s]Procedemos com cautela.[e]
 
 [msg D10_12_wall_vanish_end [[f 4 31 10 0]]]
-[s][bup 0 10 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 57026 65535 0]OK! Vamos, senpai![n][w][e]
+[s][bup 0 10 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 57026 65535 0]Ok! Vamos, senpai![n][w][e]
 
 [msg D10_12_find_boss_start [Makoto]]
 [s][bup 0 6 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2019 65535 0]Um momento. Olhe para lá![n][w][e]

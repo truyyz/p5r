@@ -195,11 +195,11 @@
 [sel SEL_052_0_0 top]
 [s]Não é uma piada.[e]
 [s]Acredite no que quiser.[e]
-[s]Eu sou um ladrão fantasma.[e]
+[s]Eu sou um Phantom Thief.[e]
 
 [msg MSG_053_0_0 [Sojiro]]
 [s][bup 0 103 4 0 0][f 4 10 65535 0 0][vp 8 0 0 77 65535 0]Sério?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 78 65535 0]Você é realmente um ladrão[n]fantasma? Pelo amor de Deus...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 78 65535 0]Você é realmente um Phantom[n]Thief? Pelo amor de Deus...[n][f 1 3 65535][w][e]
 
 [msg MSG_054_0_0 [Futaba]]
 [s][bup 0 8 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 79 65535 0]Sojiro...[n][f 1 3 65535][w][e]
@@ -275,14 +275,14 @@
 [s][bup 0 103 1 0 0][f 4 10 65535 0 0][vp 8 0 0 109 65535 0]Não se preocupe.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 110 65535 0]Mesmo que você seja o verdadeiro Thieves[n]Phantom, não tenho intenção[n]de denunciá-lo ou expulsá-lo.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 111 65535 0]Além disso, quem acreditaria em mim?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 112 65535 0]Somente se eles pegarem você em flagrante[n]poderão acusá-lo de[n]ser os Ladrões Fantasmas.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 112 65535 0]Somente se eles pegarem você em flagrante[n]poderão acusá-lo de[n]ser os Phantom Thieves.[n][f 1 3 65535][w][e]
 
 [msg MSG_073_0_0 [Sojiro]]
 [s][bup 0 103 2 0 0][f 4 10 65535 0 0][vp 8 0 0 113 65535 0]Deixe-me dizer-lhe[n]coisa, no entanto.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 114 65535 0]Se você enfrentar uma batalha[n]que não pode vencer,[n]recue imediatamente.[n][f 1 3 65535][w][e]
 
 [sel SEL_074_0_0 top]
-[s]Porque?[e]
+[s]Por quê?[e]
 [s]O que você quer dizer?[e]
 
 [msg MSG_075_0_0 [Sojiro]]

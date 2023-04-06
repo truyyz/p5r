@@ -18,7 +18,7 @@
 [s][f 5 14]Nós estamos lá.[e]
 
 [msg MSG_REACTION [Ohya]]
-[s][f 5 14]Oh, OK...[n][w][e]
+[s][f 5 14]Oh, Ok...[n][w][e]
 
 [msg MSG_REACTION_02 [Ohya]]
 [s][f 5 14]Aguardo você então. Depressa![n][f 5 15][w][e]

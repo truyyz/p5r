@@ -84,7 +84,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Há toneladas de outras lojas[n]que quero ver.[n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sim eu entendo. OK, podemos levar[n]o resto do dia para fazer[n]alguns menchi-katsu![n][f 1 3 65535][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sim eu entendo. Ok, podemos levar[n]o resto do dia para fazer[n]alguns menchi-katsu![n][f 1 3 65535][w][e]
 
 [msg MSG_025_0_0 [Ann]]
 [s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Foi muito bom...[n][f 1 3 65535][w][e]

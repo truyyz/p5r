@@ -62,5 +62,5 @@
 [s]Deixa para lá.[e]
 
 [msg MEME_3RD_ENTER_MES02 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]OK, vamos lá![n][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ok, vamos lá![n][w][e]
 

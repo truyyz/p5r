@@ -11,7 +11,7 @@
 [s][f 5 14]Você vai perguntar sobre mim, não vai?[n][f 5 15][w][e]
 
 [msg CHAT_REACTION_MSG [Becky]]
-[s][f 5 14]OK! Espere por mim[n]no seu quarto então.[n][f 5 15][w][e]
+[s][f 5 14]Ok! Espere por mim[n]no seu quarto então.[n][f 5 15][w][e]
 
 [msg MSG_MORUGANA [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Então, você vai convidar[n]Kawakami para você?[n][f 1 3 65535][w][e]

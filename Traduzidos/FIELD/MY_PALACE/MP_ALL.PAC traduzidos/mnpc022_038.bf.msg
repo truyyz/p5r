@@ -84,7 +84,7 @@
 
 [msg MES_GROUP6_03 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 3 10 0 10]Futaba...[n][w][e]
-[s][bup 0 3 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 1067 65535 0]Bem dito! É isso que eu gosto de ouvir de um[n]ladrão fantasma comprovado![n][w][e]
+[s][bup 0 3 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 1067 65535 0]Bem dito! É isso que eu gosto de ouvir de um[n]Phantom Thief comprovado![n][w][e]
 
 [msg MES_GROUP6_04 [Futaba]]
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 36 10 0 10][vp 8 2 1 9137 65535 0]Sim![n][w][e]

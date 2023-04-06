@@ -88,7 +88,7 @@
 
 [msg MSG_022_0_0 [Ann]]
 [s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 40 65535 0]Eu só estava pensando em como poderíamos[n]ser famosos.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 42 65535 0]Eu sou um idiota! Eu me tornei[n]um Ladrão Fantasma justamente porque[n]odiava esse tipo de adulto![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 42 65535 0]Eu sou um idiota! Eu me tornei[n]um Phantom Thief justamente porque[n]odiava esse tipo de adulto![n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [Yusuke]]
 [s][bup 0 5 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 47 65535 0]Começamos a nos apegar[n]à fama e ao status a ponto[n]de perder o rumo...[n][f 1 3 65535][w][e]

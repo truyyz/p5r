@@ -1,5 +1,5 @@
 [msg MSG_QUEST_78_01 [Futaba]]
-[s][bup 0 8 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9100 65535 0]OK, aí está Yasushi Fuwa! Despertemos seu[n]coração, para o bem de sua família.[n][w][e]
+[s][bup 0 8 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9100 65535 0]Ok, aí está Yasushi Fuwa! Despertemos seu[n]coração, para o bem de sua família.[n][w][e]
 
 [msg MSG_QUEST_78_02 [Sombra de Fuwa]]
 [s]Lily-nyan é gentil...[n]Lily-nyan é amorosa...[n][w][e]

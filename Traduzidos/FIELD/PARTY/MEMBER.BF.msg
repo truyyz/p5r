@@ -2,7 +2,7 @@
 [s][bup 0 2 0 65535 0]Vamos invadir e[n]roubar o tesouro de Kamoshida![n][w][e]
 
 [msg D01_TEST_PC03_MES [Morgana]]
-[s][bup 0 3 0 65535 0]OK, vamos tirar[n]o tesouro de Kamoshida![n][w][e]
+[s][bup 0 3 0 65535 0]Ok, vamos tirar[n]o tesouro de Kamoshida![n][w][e]
 
 [msg D01_TEST_PC04_MES [Ann]]
 [s][bup 0 4 0 65535 0]Vamos, temos que nos apressar e roubar o tesouro[n]de Kamoshida![n][w][e]
@@ -35,13 +35,13 @@
 [s][bup 0 2 0 65535 0]Vamos invadir e[n]roubar o tesouro de Kamoshida![n][w][e]
 
 [msg D01_03_01_PC03_mes01 [Morgana]]
-[s][bup 0 3 0 65535 0]OK, vamos tirar[n]o tesouro de Kamoshida![n][w][e]
+[s][bup 0 3 0 65535 0]Ok, vamos tirar[n]o tesouro de Kamoshida![n][w][e]
 
 [msg D02_TEST_PC02_MES [Ryuji]]
 [s][bup 0 2 0 65535 0]Vamos invadir e[n]roubar o tesouro de Madarame![n][w][e]
 
 [msg D02_TEST_PC03_MES [Morgana]]
-[s][bup 0 3 0 65535 0]OK, vamos tirar[n]o tesouro de Madarame![n][w][e]
+[s][bup 0 3 0 65535 0]Ok, vamos tirar[n]o tesouro de Madarame![n][w][e]
 
 [msg D02_TEST_PC04_MES [Ann]]
 [s][bup 0 4 0 65535 0]Vamos, temos que nos apressar e roubar o tesouro[n]de Madarame![n][w][e]
@@ -53,7 +53,7 @@
 [s][bup 0 2 0 65535 0]Vamos invadir e[n]roubar o tesouro de Kaneshiro![n][w][e]
 
 [msg D03_TEST_PC03_MES [Morgana]]
-[s][bup 0 3 0 65535 0]OK, vamos tirar[n]o Tesouro de Kaneshiro![n][w][e]
+[s][bup 0 3 0 65535 0]Ok, vamos tirar[n]o Tesouro de Kaneshiro![n][w][e]
 
 [msg D03_TEST_PC04_MES [Ann]]
 [s][bup 0 4 0 65535 0]Vamos, temos que nos apressar e roubar o tesouro[n]de Kaneshiro![n][w][e]
@@ -68,7 +68,7 @@
 [s][bup 0 2 0 65535 0]Vamos invadir e[n]roubar o tesouro de Futaba![n][w][e]
 
 [msg D04_TEST_PC03_MES [Morgana]]
-[s][bup 0 3 0 65535 0]OK, vamos tirar[n]o Tesouro de Futaba![n][w][e]
+[s][bup 0 3 0 65535 0]Ok, vamos tirar[n]o Tesouro de Futaba![n][w][e]
 
 [msg D04_TEST_PC04_MES [Ann]]
 [s][bup 0 4 0 65535 0]Vamos, temos que nos apressar e roubar o tesouro[n]de Futaba![n][w][e]

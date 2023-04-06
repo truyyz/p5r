@@ -40,7 +40,7 @@
 [s]Deixe-me pensar sobre isso.[e]
 
 [msg MSG_Darts_MemberPlay_mor [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1183 65535 0]Quer jogar comigo, hein?[n]OK, desafio aceito![n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1183 65535 0]Quer jogar comigo, hein?[n]Ok, desafio aceito![n][w][e]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0]Enquanto estamos aqui, vamos tentar[n]ligar para outra pessoa.[n]Quanto mais, melhor. Direita?[n][w][e]
 
 [msg MSG_Darts_MemberPlay_Nor [Morgana]]
@@ -53,7 +53,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1165 65535 0]Bilhar, hein?[n][w][e]
 
 [msg MSG_Billis_OKorNG [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1185 65535 0]OK, vamos chamar os outros e[n]vamos nos encontrar. Jogo de piscina?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1185 65535 0]Ok, vamos chamar os outros e[n]vamos nos encontrar. Jogo de piscina?[n][w][e]
 
 [sel SEL_BillisOK top]
 [s]Sim.[e]

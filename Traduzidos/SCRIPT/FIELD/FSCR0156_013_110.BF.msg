@@ -40,7 +40,7 @@
 [s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7020 65535 0]Uh. Poderíamos descobrir se[n]eles são nossos alvos [clr 2]obtendo[n]informações deles[clr 27].[n][w][e]
 
 [msg D156_13_miniEV05_mes01_2 [Ryuji]]
-[s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7079 65535 0]OK, fomos forçados a[n]lutar, mas acho que é[n]um bom caminho a seguir.[n][w][e]
+[s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7079 65535 0]Ok, fomos forçados a[n]lutar, mas acho que é[n]um bom caminho a seguir.[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Talvez possamos descobrir se eles são[n]nossos alvos [clr 2] obtendo[n]informações [clr 27] deles antes da luta.[n][w][e]
 
 [msg D156_13_miniEV05_mes02 [Morgana]]
@@ -59,7 +59,7 @@
 [s][clr 2]AHEM![clr 27] QUEM É VOCÊ?[n][w][e]
 
 [sel D05_02_e341_036_ng3_selA top]
-[s]Os ladrões fantasmas.[e]
+[s]Os Phantom Thieves.[e]
 [s]Estamos de passagem.[e]
 [s]Queríamos conversar.[e]
 
@@ -106,7 +106,7 @@
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1174 65535 0]Certo, melhor evitar outras[n]discussões. Vamos separá-lo![n][w][e]
 
 [msg D05_02_e341_036_ng3_selC_3 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1163 65535 0]Então você prefere não[n]lutar? OK, vamos nos aposentar![n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1163 65535 0]Então você prefere não[n]lutar? Ok, vamos nos aposentar![n][w][e]
 
 [msg D05_02_e341_036_ng3_selC_4 [???]]
 [s]VOCÊ ESTÁ SAINDO? NESSE CASO,[n]VOU VOLTAR A TRABALHAR.[n][w][e]

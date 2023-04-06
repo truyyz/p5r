@@ -32,10 +32,10 @@
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Deve ter sido a[n]balista. Parece[n]muito poderoso.[n][w][e]
 
 [msg MSG_e296_119_004 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]OK, vamos checar[n]se aconteceu alguma coisa![n][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ok, vamos checar[n]se aconteceu alguma coisa![n][w][e]
 
 [msg MSG_e296_119_005 [Makoto]]
-[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2022 65535 0]OK. Se necessário, após[n]explorar a área, podemos[n]pressioná-lo novamente.[n][w][e]
+[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2022 65535 0]Ok. Se necessário, após[n]explorar a área, podemos[n]pressioná-lo novamente.[n][w][e]
 
 [msg MSG_e296_119_AF_000 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Estou convencido de que com este[n]botão podemos continuar, Joker.[n][w][e]
@@ -64,7 +64,7 @@
 [s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Quero dizer, não podemos saber[n]sem tentar... Estou muito[n]curioso para ver o que isso faz.[n][w][e]
 
 [msg D04_03_e296_500_selA_1_m [Ann]]
-[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]OK, então voltaremos aqui[n]quando você quiser ativá-lo.[n][w][e]
+[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ok, então voltaremos aqui[n]quando você quiser ativá-lo.[n][w][e]
 
 [msg D04_03_e296_500_mes02 [Ryuji]]
 [s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7041 65535 0]Oooh, então é uma daquelas[n]coisas que deixam[n]luz entrar![n][w][e]

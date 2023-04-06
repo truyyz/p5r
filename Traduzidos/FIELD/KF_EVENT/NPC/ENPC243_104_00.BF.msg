@@ -71,5 +71,5 @@
 
 [msg MSG_E24320100_ENDINFO_SH_5 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Lá deveríamos conhecer pessoas[n]de todos os tipos, para que pudéssemos[n]coletar informações úteis.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]OK, próxima parada... a[n]praça em frente à estação![n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Ok, próxima parada... a[n]praça em frente à estação![n][w][e]
 

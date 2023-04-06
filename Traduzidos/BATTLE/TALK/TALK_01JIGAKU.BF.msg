@@ -1474,7 +1474,7 @@
 [s]Aqui, pegue este item: [f 2 5 3 9999 1].[n]Voltarei para assombrá-lo,[n]se você não fizer bom uso dele![n][w][e]
 
 [msg TalkMsg_GUY_RESULT_GET_S]
-[s]Ouça, eu posso te dizer uma coisa,[n]mas não diga que você ouviu isso[n]de mim. OK? É coisa difícil...[n][w][e]
+[s]Ouça, eu posso te dizer uma coisa,[n]mas não diga que você ouviu isso[n]de mim. Ok? É coisa difícil...[n][w][e]
 
 [msg TalkMsg_GUY_RESULT_ENEMY]
 [s]O que?!? Não temos nada para discutir![n][w][e]
@@ -1508,7 +1508,7 @@
 [s]Coisa? Você já sabe...[n]Então pegue isso.[n][w][e]
 
 [msg TalkMsg_SURRENDER_FROM_C]
-[s]Vamos terminar isso rapidamente, OK? Eu já[n]o suficiente dessa merda.[n][w][e]
+[s]Vamos terminar isso rapidamente, Ok? Eu já[n]o suficiente dessa merda.[n][w][e]
 
 [msg TalkMsg_SUCCESS_SKIMMING]
 [s]Você está procurando por isso, talvez?[n]Você não perde nada, hein?[n][w][e]

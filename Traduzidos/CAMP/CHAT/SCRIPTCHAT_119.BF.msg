@@ -3,7 +3,7 @@
 
 [sel SEL_002_0_0 top]
 [s][f 5 14]É um problema.[e]
-[s]Porque?[e]
+[s]Por quê?[e]
 
 [msg MSG_003_0_0 [Ryuji]]
 [s][f 5 14]Se a polícia descobrir[n]isso, eles vão[n]contatar a escola com certeza.[n][w][e]

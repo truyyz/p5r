@@ -26,7 +26,7 @@
 
 [msg MES_GROUP2_03 [Ann]]
 [s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 32 10 0 10]Sim...[n][w][e]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 6156 65535 0]Espero que, com os ladrões fantasmas,[n]possamos ajudar mais pessoas tenham a[n]coragem de falar por si mesmas.[n][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 6156 65535 0]Espero que, com os Phantom Thieves,[n]possamos ajudar mais pessoas tenham a[n]coragem de falar por si mesmas.[n][w][e]
 
 [msg MES_GROUP2_04 [Makoto]]
 [s][bup 0 6 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 2023 65535 0]Sim... esse é o meu desejo.[n][w][e]

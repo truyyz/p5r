@@ -36,7 +36,7 @@
 [s]Ele cresceu na pobreza.[e]
 
 [msg MSG_007_0_0 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]OK, só falta um...[n][f 1 3 65535][w][e]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ok, só falta um...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]A última insegurança é...[n][f 1 3 65535][w][e]
 
 [sel SEL_008_0_0 top]

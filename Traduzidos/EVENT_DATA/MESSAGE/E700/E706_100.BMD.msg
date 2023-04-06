@@ -2,7 +2,7 @@
 [s][vp 8 0 0 0 65535 0]E não faça mais coisas assim,[n]entendeu?[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Mika]]
-[s][bup 0 215 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]OK...não vou fazer isso de novo...[n][f 1 3 65535][w][e]
+[s][bup 0 215 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ok...não vou fazer isso de novo...[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 6001 65535 0]O que está acontecendo?[n][f 1 3 65535][w][e]
@@ -111,7 +111,7 @@
 [s][vp 8 0 0 0 9 0]Sim. Agora ela é... muito mais sexy.[n]Talvez ela tenha ganhado mais[n]confiança em seus meios.[n][f 1 3 65535][w][e]
 
 [msg MSG_033_0_0 [Assistente de fotógrafo]]
-[s][vp 8 0 0 0 65535 0]OK, vamos fazer uma pausa.[n]Vá se trocar, Mika-chan.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Ok, vamos fazer uma pausa.[n]Vá se trocar, Mika-chan.[n][f 1 3 65535][w][e]
 
 [msg MSG_034_0_0 [Ann]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 4 1 301 1][vp 8 2 0 6048 65535 0]Que divertido! Hoje tudo[n]correu bem![n][f 1 3 65535][w][e]
@@ -160,10 +160,10 @@
 [s][bup 0 4 600 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 2], você é minha luz.[n][f 1 3 65535][w][e]
 
 [msg MSG_046_0_0 [Assistente de fotógrafo]]
-[s][vp 8 0 0 0 11 0]OK, pausa![n]Ann-chan, esta sessão[n]vamos focar em você![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 11 0]Ok, pausa![n]Ann-chan, esta sessão[n]vamos focar em você![n][f 1 3 65535][w][e]
 
 [msg MSG_047_0_0 [Ann]]
-[s][bup 0 4 600 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]OK![n][f 1 3 65535][w][e]
+[s][bup 0 4 600 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ok![n][f 1 3 65535][w][e]
 
 [msg MSG_048_0_0 [Ann]]
 [s][bup 0 4 601 65535 0][f 4 10 65535 0 0][vp 8 2 0 6019 65535 0]Ei, não vá...[n]Então podemos ficar[n]um pouco mais juntos, ok?[n][f 1 3 65535][w][e]

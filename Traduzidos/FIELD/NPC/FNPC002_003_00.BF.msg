@@ -74,7 +74,7 @@
 [s][vp 8 2 1 0 11 0]Minhas façanhas têm atraído muita[n]atenção ultimamente. Não estou[n]surpreso por você ter me descoberto...[n][w][e]
 
 [msg MSG_AKOGAREDANSI_003_3_0 [Aluno dos sonhos]]
-[s][vp 8 2 1 0 11 0]Mas o que há entre nós, certo? Não se deve saber[n]que eu sou o ladrão fantasma que derrotou[n]Kamoshida.[n][w][e]
+[s][vp 8 2 1 0 11 0]Mas o que há entre nós, certo? Não se deve saber[n]que eu sou o Phantom Thief que derrotou[n]Kamoshida.[n][w][e]
 
 [msg MSG_AKOGAREDANSI_003EX_0 [Aluno dos sonhos]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]O conselheiro que apareceu de repente[n]... será ele um assassino[n]da "Organização"...?[n][w][e]
@@ -85,10 +85,10 @@
 
 [msg MSG_AKOGAREDANSI_003EX_1 [Aluno dos sonhos]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Não... Durante a assembléia da escola eu senti[n]isso claramente. Um olhar penetrante...![n][w][e]
-[s][vp 8 2 1 0 11 0]Seus olhos dizem,[n]"Eu sei quem você é, ladrão fantasma..."[n][w][e]
+[s][vp 8 2 1 0 11 0]Seus olhos dizem,[n]"Eu sei quem você é, Phantom Thief..."[n][w][e]
 
 [msg MSG_AKOGAREDANSI_003EX_2 [Aluno dos sonhos]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]É horrível...ele sabe quem eu sou.[n]Ele sabe que eu sou o Ladrão Fantasma...![n][w][e]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]É horrível...ele sabe quem eu sou.[n]Ele sabe que eu sou o Phantom Thief...![n][w][e]
 [s][vp 8 2 1 0 11 0]Se eu fosse a essas[n]sessões, seria capturado[n]pela "Organização"...[n][w][e]
 
 [msg MSG_AKOGAREDANSI_003EX_3 [Aluno dos sonhos]]
@@ -103,7 +103,7 @@
 
 [msg MSG_AKOGAREDANSI_004_1_0 [Aluno dos sonhos]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]S-Sim! Kamoshida enganou a todos[n]impondo-se como um herói,[n]mas ele não era um herói de jeito nenhum![n][w][e]
-[s][vp 8 2 1 0 11 0]Ah, e não conte a ninguém sobre minha[n]verdadeira identidade. Não se sabe[n]que eu sou um Ladrão Fantasma![n][w][e]
+[s][vp 8 2 1 0 11 0]Ah, e não conte a ninguém sobre minha[n]verdadeira identidade. Não se sabe[n]que eu sou um Phantom Thief![n][w][e]
 
 [msg MSG_AKOGAREDANSI_004_2_0 [Aluno dos sonhos]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]E-Ei! Não é verdade! Eu luto contra o mal por[n]todos vocês, e vocês me retribuem assim?[n][w][e]
@@ -247,10 +247,10 @@
 
 [msg MSG_AKOGAREDANSI_012_1_0 [Aluno dos sonhos]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Me desculpe... eu exagerei.[n]É só que me irrita que[n]a sociedade fale tão mal deles.[n][w][e]
-[s][vp 8 2 1 0 11 0]Os Phantom Thieves vão se sentir traídos. E eu[n]sei. Porque eu também sou um ladrão fantasma.[n][w][e]
+[s][vp 8 2 1 0 11 0]Os Phantom Thieves vão se sentir traídos. E eu[n]sei. Porque eu também sou um Phantom Thief.[n][w][e]
 
 [msg MSG_AKOGAREDANSI_012_2_0 [Aluno dos sonhos]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Porque? Oh, certo! Sendo um[n]ladrão fantasma, eu deveria[n]considerar me entregar![n][w][e]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Por quê? Oh, certo! Sendo um[n]Phantom Thief, eu deveria[n]considerar me entregar![n][w][e]
 [s][vp 8 2 1 0 11 0]Deve haver uma boa razão[n]por que eles fizeram isso. Eu quero[n]confiar neles...[n][w][e]
 
 [msg MSG_AKOGAREDANSI_013_0_0 [Aluno dos sonhos]]
@@ -285,7 +285,7 @@
 [s][vp 8 2 1 0 11 0]Argh, eu sei que parece bobo![n]É só que logo de cara[n]tudo que eu conseguia pensar era qualquer outra coisa.[n][w][e]
 
 [msg MSG_AKOGAREDANSI_014_2_0 [Aluno dos sonhos]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Eu vejo. Mesmo se eu me tornasse um Ladrão[n]Fantasma, não seria um herói se não ajudasse[n]ninguém.[n][w][e]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Eu vejo. Mesmo se eu me tornasse um Phantom[n]Thief, não seria um herói se não ajudasse[n]ninguém.[n][w][e]
 [s][vp 8 2 1 0 11 0]Eheh... Obrigado, você realmente me ajudou. Acho[n]que isso significa que você é meu herói, hein?[n][w][e]
 
 [msg MSG_AKOGAREDANSI_015_0_0 [Aluno dos sonhos]]
@@ -339,7 +339,7 @@
 [s][vp 8 2 1 0 11 0]Mas eles fizeram o possível.[n]Acho que isso já é o suficiente[n]para torná-los heróis.[n][w][e]
 
 [msg MSG_AKOGAREDANSI_017_3_0 [Aluno dos sonhos]]
-[s][vp 8 2 1 0 11 0]Os Ladrões Fantasmas...[n]Quem sabe de onde eles vieram[n]e para onde foram.[n][w][e]
+[s][vp 8 2 1 0 11 0]Os Phantom Thieves...[n]Quem sabe de onde eles vieram[n]e para onde foram.[n][w][e]
 
 [msg MSG_AKOGAREDANSI_018_0_0 [Aluno dos sonhos]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Já que estou me formando...[n]Chegou a hora de[n]contar meu segredo.[n][w][e]
@@ -502,7 +502,7 @@
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Você tem razão. No terceiro ano[n]todos se retiraram, devo[n]honrar meu papel como capitão.[n][w][e]
 
 [msg MSG_UNDOUBUIN_010_0_0 [Jogador de basquete na mão]]
-[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Os ladrões fantasmas são reais? Eles dizem[n]que até despertaram os[n]corações dos mafiosos. Louco.[n][w][e]
+[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Os Phantom Thieves são reais? Eles dizem[n]que até despertaram os[n]corações dos mafiosos. Louco.[n][w][e]
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Heróis como eles terão garotas a seus pés. Talvez[n]eu devesse desistir do basquete e me juntar aos[n]Phantom Thieves.[n][w][e]
 
 [msg MSG_UNDOUBUIN_010_1_0 [Jogador de futebol abrupto]]
@@ -635,7 +635,7 @@
 [s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Não pense em derrota![n]Dê tudo e[n]foque no futuro![n][w][e]
 
 [msg MSG_UNDOUBUIN_022_0_0 [Jogador de basquete na mão]]
-[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Quem sabe o que aqueles ladrões fantasmas[n]realmente eram. Eles abalaram o mundo e depois[n]desapareceram no ar.[n][w][e]
+[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Quem sabe o que aqueles Phantom Thieves[n]realmente eram. Eles abalaram o mundo e depois[n]desapareceram no ar.[n][w][e]
 
 [msg MSG_UNDOUBUIN_022_1_0 [Jogador de futebol abrupto]]
 [s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Por causa de todo aquele caos na escola, muitas[n]vezes eu os achava irritantes, mas agora sou[n]grato a eles.[n][w][e]
@@ -747,7 +747,7 @@
 [s][vp 9 2 65535 38904 0 0]O que o fez pedir desculpas tão de repente?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_005_05_ [Morgana]]
-[s][vp 9 2 65535 43000 0 0]Bem, ele trouxe isso.[n]Eu diria que temos uma dívida[n]com aqueles Ladrões Fantasmas.[n][f 1 2 180][e]
+[s][vp 9 2 65535 43000 0 0]Bem, ele trouxe isso.[n]Eu diria que temos uma dívida[n]com aqueles Phantom Thieves.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_005_06_ [Morgana]]
 [s][vp 9 2 65535 42605 0 0]Os Phantom Thieves não têm nada a ver com o[n]pedido de desculpas do Prof. Kamoshida.[n][f 1 2 180][e]
@@ -837,7 +837,7 @@
 [s][vp 9 2 65535 42754 0 0]De alguma forma, os Phantom Thieves[n]conseguem forçar uma pessoa[n]a se desculpar pelos crimes cometidos.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_05_ [Morgana]]
-[s][vp 9 2 65535 39505 0 0]Os Ladrões Fantasmas de novo? Mas não era só uma[n]piada?[n][f 1 2 180][e]
+[s][vp 9 2 65535 39505 0 0]Os Phantom Thieves de novo? Mas não era só uma[n]piada?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_06_ [Morgana]]
 [s][vp 9 2 65535 43305 0 0]Então aquela carta de aviso para[n]Kamoshida não era brincadeira...[n][f 1 2 180][e]
@@ -930,7 +930,7 @@
 [s][vp 9 2 65535 38706 0 0]Os Phantom Thieves nos salvaram![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_013_06_ [Morgana]]
-[s][vp 9 2 65535 41400 0 0]Os Ladrões Fantasmas roubam os corações dos[n]maus... é isso que desencadeia[n]o despertar do coração deles![n][f 1 2 180][e]
+[s][vp 9 2 65535 41400 0 0]Os Phantom Thieves roubam os corações dos[n]maus... é isso que desencadeia[n]o despertar do coração deles![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_014_01_ [Morgana]]
 [s][vp 9 2 65535 37504 0 0]As pessoas são gaseadas porque[n]Phantom Thieves lidam[n]com hackers.[n][f 1 2 180][e]
@@ -1104,7 +1104,7 @@
 [s][vp 9 2 65535 42602 0 0]Só de pensar naquela[n]coletiva de imprensa me deprime[n]...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_023_01_ [Morgana]]
-[s][vp 9 2 65535 39501 0 0]Esses ladrões fantasmas são assassinos![n]Coloque-os imediatamente na prisão![n][f 1 2 180][e]
+[s][vp 9 2 65535 39501 0 0]Esses Phantom Thieves são assassinos![n]Coloque-os imediatamente na prisão![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_023_02_ [Morgana]]
 [s][vp 9 2 65535 43007 0 0]Nunca pensei que[n]Phantom Thieves pudessem[n]matar alguém...![n][f 1 2 180][e]
@@ -1134,7 +1134,7 @@
 [s][vp 9 2 65535 42907 0 0]Quando os Ladrões prenderão[n]Phantom?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_024_05_ [Morgana]]
-[s][vp 9 2 65535 42709 0 0]O que os adultos estão fazendo!?![n]Aqueles ladrões fantasmas[n]ainda estão à solta![n][f 1 2 180][e]
+[s][vp 9 2 65535 42709 0 0]O que os adultos estão fazendo!?![n]Aqueles Phantom Thieves[n]ainda estão à solta![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_024_06_ [Morgana]]
 [s][vp 9 2 65535 43301 0 0]Depressa e prenda[n]aquele bando de assassinos![n][f 1 2 180][e]
@@ -1170,7 +1170,7 @@
 [s][vp 9 2 65535 40652 0 0]Parece que incidentes relacionados[n]a arrebatamentos estão acontecendo[n]mais e com mais frequência...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_026_05_ [Morgana]]
-[s][vp 9 2 65535 39751 0 0]O que os adultos estão fazendo!?![n]Aqueles ladrões fantasmas[n]ainda estão à solta![n][f 1 2 180][e]
+[s][vp 9 2 65535 39751 0 0]O que os adultos estão fazendo!?![n]Aqueles Phantom Thieves[n]ainda estão à solta![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_026_06_ [Morgana]]
 [s][vp 9 2 65535 42752 0 0]É assustador que esses ataques[n]estão acontecendo cada vez mais[n]frequentemente...[n][f 1 2 180][e]

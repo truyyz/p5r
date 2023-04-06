@@ -72,14 +72,14 @@
 
 [sel SEL_722_200_18 top]
 [s]Vamos continuar assim.[e]
-[s]Mesmo se eu for um Ladrão Fantasma?[e]
+[s]Mesmo se eu for um Phantom Thief?[e]
 
 [msg MSG_722_200_18_01_01 [Sumire]]
 [s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sim! Vamos dar tudo de nós![n][f 1 3 65535][w][e]
 
 [msg MSG_722_200_18_02_01 [Sumire]]
 [s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você realmente tinha que dizer isso agora?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Está bem. Você continua sendo meu herói,[n]mesmo sendo um Ladrão Fantasma.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Está bem. Você continua sendo meu herói,[n]mesmo sendo um Phantom Thief.[n][f 1 3 65535][w][e]
 
 [msg MSG_722_200_19 [Sumire]]
 [s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Oh querido, olha que horas são...[n]Obrigado por vir.[n][f 1 3 65535][w][e]

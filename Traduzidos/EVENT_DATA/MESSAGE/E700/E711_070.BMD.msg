@@ -77,7 +77,7 @@
 [s][vp 8 0 0 0 65535 0]Sinto meu vínculo com Caroline[n]e Justine ficando mais forte...[n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Caroline]]
-[s][bup 0 102 1 0 0][f 4 10 65535 0 0][vp 8 2 0 11071 65535 0]OK, vamos em frente! Para receber a[n]próxima recompensa, você deve nos trazer[n]apenas mais uma Persona![n][f 1 3 65535][w][e]
+[s][bup 0 102 1 0 0][f 4 10 65535 0 0][vp 8 2 0 11071 65535 0]Ok, vamos em frente! Para receber a[n]próxima recompensa, você deve nos trazer[n]apenas mais uma Persona![n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Justine]]
 [s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 2 0 12053 65535 0]Deixe-me dizer-lhe o pedido.[n][f 1 3 65535][w][e]

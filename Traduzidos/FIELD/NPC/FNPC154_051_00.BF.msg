@@ -196,7 +196,7 @@
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 2158 65535 0]Agora, se minhas deduções são[n]exatas, esse deve ser[n]o último mecanismo. Pressione, Joker.[n][w][e]
 
 [msg SAFETY_MES_MAKOTO_11_01 [Makoto]]
-[s][bup 0 6 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 2048 65535 0]Então, estamos prestes a enviar uma carta[n]de desafio? Então eu sou realmente um[n]ladrão fantasma agora...[n][w][e]
+[s][bup 0 6 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 2048 65535 0]Então, estamos prestes a enviar uma carta[n]de desafio? Então eu sou realmente um[n]Phantom Thief agora...[n][w][e]
 
 [msg TEST_VELVET_GIRL_QUIET01 [Justine]]
 [s]Pecador preso pelos laços do destino...[n][w][e]

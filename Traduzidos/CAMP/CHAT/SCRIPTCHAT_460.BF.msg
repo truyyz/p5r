@@ -3,7 +3,7 @@
 
 [sel SEL_001_0_0 top]
 [s][f 5 14]Sobre Kamoshida?[e]
-[s]Sobre os ladrões fantasmas?[e]
+[s]Sobre os Phantom Thieves?[e]
 [s]Sobre Shiho?[e]
 
 [msg MSG_001_0_0 [Ann]]

@@ -14,7 +14,7 @@
 [msg MSG_004_0_0 [Akechi]]
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Lembra quando eu disse que[n]você e eu somos parecidos?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ambos somos vítimas de[n]adultos injustos. E agora temos o poder[n]e a vontade de nos rebelar.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]No entanto, eu faço isso como um detetive,[n]enquanto você faz isso como um Ladrão Fantasma.[n]Estes são dois pólos separados.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]No entanto, eu faço isso como um detetive,[n]enquanto você faz isso como um Phantom Thief.[n]Estes são dois pólos separados.[n][f 1 3 65535][w][e]
 
 [sel SEL_005_0_0 top]
 [s]Mas agora somos camaradas.[e]

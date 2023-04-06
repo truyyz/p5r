@@ -160,7 +160,7 @@
 [s]Eu irei aí, limpar[n]seu quarto e esperar por mim.[n][w][e]
 
 [msg MSG_KAWAKAMI_K_YES_RANK2 [Kawakami]]
-[s][bup 0 109 0 65535 1]OK! Obrigado por me solicitar.[n][w][e]
+[s][bup 0 109 0 65535 1]Ok! Obrigado por me solicitar.[n][w][e]
 [s]Espero que esteja com fome, Mestre![n][w][e]
 
 [msg MSG_KAWAKAMI_K_YES_RANK3 [Kawakami]]
@@ -170,14 +170,14 @@
 [s][bup 0 109 0 65535 1]Sério?!? Você deve realmente[n]precisar de ajuda...[n][w][e]
 
 [msg MSG_KAWAKAMI_K_YES_RANK5 [Kawakami]]
-[s][bup 0 109 0 65535 1]OK! Obrigado por me solicitar.[n][w][e]
+[s][bup 0 109 0 65535 1]Ok! Obrigado por me solicitar.[n][w][e]
 [s]Eu estarei aí, então[n]limpe sua mesa[n]e espere por mim.[n][w][e]
 
 [msg MSG_KAWAKAMI_K_YES_RANK6 [Enfermeira]]
-[s]OK. Você sabe onde fica o hospital?[n]O número do quarto é...[n][w][e]
+[s]Ok. Você sabe onde fica o hospital?[n]O número do quarto é...[n][w][e]
 
 [msg MSG_KAWAKAMI_K_YES_RANK7 [Kawakami]]
-[s][bup 0 109 0 65535 1]OK! Obrigado por me solicitar.[n][w][e]
+[s][bup 0 109 0 65535 1]Ok! Obrigado por me solicitar.[n][w][e]
 [s]Estarei aí em breve.[n]Pegue sua caneta e papel[n]e espere por mim.[n][w][e]
 
 [msg MSG_KAWAKAMI_K_YES_RANK8 [Kawakami]]
@@ -306,7 +306,7 @@
 
 [msg MSG_KAWAKAMI_MASSAGE [Kawakami]]
 [s][bup 0 109 0 65535 1]Oh, você está realmente me pedindo uma[n]massagem...?[n][w][e]
-[s]OK, eu estarei lá. Espere por mim.[n][w][e]
+[s]Ok, eu estarei lá. Espere por mim.[n][w][e]
 
 [msg MND_NOT_MASSAGE]
 [s]Eu vou passar por agora.[n][w][e]

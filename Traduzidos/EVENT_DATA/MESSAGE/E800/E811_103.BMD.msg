@@ -25,7 +25,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Desde que entendi,[n]tenho o dever de ajudá-los![n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Chihaya]]
-[s][bup 0 113 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]OK... eu tenho que fazer algo![n][f 1 3 65535][w][e]
+[s][bup 0 113 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ok... eu tenho que fazer algo![n][f 1 3 65535][w][e]
 [s][bup 0 113 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 10122 65535 0][f 4 24 0 4 0 35 5 100]Por enquanto, porém, vou mergulhar[n]no sentimento de ser[n]governante desta cidade...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E farei isso ao seu lado.[n][f 1 3 65535][w][e]
 
@@ -34,5 +34,5 @@
 [s][bup 0 113 0 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 35 5 100][vp 8 0 0 0 65535 0]Que a luz te guie![n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Chihaya]]
-[s][vp 8 2 0 10119 65535 0]OK, de volta à cidade...[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 10119 65535 0]Ok, de volta à cidade...[n][f 1 3 65535][w][e]
 

@@ -23,7 +23,7 @@
 [s][f 5 14]Esse será um ótimo[n]ponto de partida...[n][w][e]
 
 [msg CHAT_REACTION_03 [Yusuke]]
-[s][f 5 14]OK, vou esperar então.[n][f 5 15][w][e]
+[s][f 5 14]Ok, vou esperar então.[n][f 5 15][w][e]
 
 [sel SEL_001 top]
 [s]Vá com ele[e]

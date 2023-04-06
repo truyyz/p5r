@@ -14,13 +14,13 @@
 [s][bup 0 9 10 65535 1][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]A sério. É a primeira vez[n]que testemunhei um poder[n]desta magnitude.[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Akechi]]
-[s][bup 0 9 10 65535 1][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Até mesmo os grandes Ladrões Fantasmas[n]dos quais você tanto se orgulha[n]caíram na armadilha dele.[n][f 1 3 65535][w][e]
+[s][bup 0 9 10 65535 1][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Até mesmo os grandes Phantom Thieves[n]dos quais você tanto se orgulha[n]caíram na armadilha dele.[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Akechi]]
 [s][bup 0 9 10 65535 1][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Eu concordo, na verdade.[n]Infelizmente, esta[n]é a realidade.[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Akechi]]
-[s][bup 0 9 10 65535 1][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Até mesmo os grandes Ladrões Fantasmas[n]dos quais você tanto se orgulha[n]caíram na armadilha dele.[n][f 1 3 65535][w][e]
+[s][bup 0 9 10 65535 1][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Até mesmo os grandes Phantom Thieves[n]dos quais você tanto se orgulha[n]caíram na armadilha dele.[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Akechi]]
 [s][bup 0 9 10 65535 1][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Você quer tentar mudar[n]sua opinião, certo?[n][f 1 3 65535][w][e]
@@ -57,7 +57,7 @@
 [s][vp 8 2 0 0 65535 0]Aparentemente esta é a[n]realidade desejada por Morgana...[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Morgana]]
-[s][bup 0 3 800 0 0][f 4 10 65535 0 0][vp 8 2 0 0 4 0]OK, melhor ir[n]dormir por hoje.[n][f 1 3 65535][w][e]
+[s][bup 0 3 800 0 0][f 4 10 65535 0 0][vp 8 2 0 0 4 0]Ok, melhor ir[n]dormir por hoje.[n][f 1 3 65535][w][e]
 [s][bup 0 3 803 0 0][f 4 10 65535 0 0][f 4 24 0 4 6 38 5 100][vp 8 2 0 0 4 0]Ah... Talvez a cama esteja começando a[n]ser algo íntimo demais[n]para dormirmos juntos.[n][f 1 3 65535][w][e]
 [s][bup 0 3 801 0 0][f 4 10 65535 0 0][f 4 24 0 4 6 36 5 100][f 4 24 0 4 2 9 5 100][vp 8 2 0 0 4 0]Ah bem! Acho que vou começar a[n]dormir no sofá.[n][f 1 3 65535][w][e]
 
@@ -97,7 +97,7 @@
 [s]Eu sei que você consegue.[e]
 
 [msg MSG_025_0_0 [Morgana]]
-[s][bup 0 3 804 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 4 0]Huh? OK...[n][f 1 3 65535][w][e]
+[s][bup 0 3 804 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 4 0]Huh? Ok...[n][f 1 3 65535][w][e]
 
 [msg MSG_026_0_0 [Morgana]]
 [s][vp 8 2 0 0 65535 0]Tive a oportunidade[n]de ser útil para humanos[n]que muito admiro...[n][f 1 3 65535][w][e]

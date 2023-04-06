@@ -158,7 +158,7 @@
 [s]Não, é muito[n]cansativo, câmbio. Eu nem[n]quero mais chá.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_03_R_9]
-[s]OK, filho, entendi.[n]Não precisa ficar histérico.[n][w][e]
+[s]Ok, filho, entendi.[n]Não precisa ficar histérico.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_03_R_10]
 [s]Vamos. Você não percebeu que eu estava brincando[n]com você? As crianças de hoje são ingênuas.[n][w][e]
@@ -371,7 +371,7 @@
 [s]Uh. Eu te envergonhei, por acaso? Acho que você[n]não sabe muito sobre mulheres.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_07_R_4]
-[s]OK como você quer. Eu não me importava muito com[n]esse relacionamento.[n][w][e]
+[s]Ok como você quer. Eu não me importava muito com[n]esse relacionamento.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_07_R_5]
 [s]Me desculpe, cara. Vou embora quando a batalha[n]acabar, ok?[n][w][e]
@@ -704,7 +704,7 @@
 [s]Tudo está bem.[e]
 
 [msg TalkMsg_GUY_CHAT_SQ_05_R]
-[s]Sim, bem, OK...[n]Você não está totalmente errado.[n][w][e]
+[s]Sim, bem, Ok...[n]Você não está totalmente errado.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_05_R_2]
 [s]Na minha opinião, seria bom se[n]os humanos não fossem influenciados[n]tão facilmente...[n][w][e]
@@ -1627,7 +1627,7 @@
 [s]É sobre o dinheiro, certo?[n][w][e]
 
 [msg TalkMsg_NEGO_POSSESSED_I]
-[s]...Então você quer um item,[n]eh? OK, pegue isso.[n][w][e]
+[s]...Então você quer um item,[n]eh? Ok, pegue isso.[n][w][e]
 
 [msg TalkMsg_GREET_POSSESSED_]
 [s]Sabe, filho, eu estava pensando[n]que não seria ruim[n]fazer as pazes. Você quer falar sobre isso?[n][w][e]
@@ -1639,7 +1639,7 @@
 [s]Aquele sentimento...[n]Houve algum mal-entendido?[n][w][e]
 
 [msg TalkMsg_NEGO_POSSESSED_B_2]
-[s]Você quer o dinheiro, hein?[n]Eu deveria ter esperado isso[n]de um Ladrão Fantasma.[n][w][e]
+[s]Você quer o dinheiro, hein?[n]Eu deveria ter esperado isso[n]de um Phantom Thief.[n][w][e]
 
 [msg TalkMsg_NEGO_POSSESSED_B_3]
 [s]Você quer isso, hein? Eu deveria[n]esperar isso de um ladrão como você. Você toma.[n][w][e]

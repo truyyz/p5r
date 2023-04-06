@@ -2,7 +2,7 @@
 [s][f 5 14]Nossa popularidade está disparando![n]Você deve ouvir isso![n][w][e]
 
 [msg MSG_001_0_0 [Ryuji]]
-[s][f 5 14]Essa gracinha diz[n]que gostaria de namorar[n]um Ladrão Fantasma![n][w][e]
+[s][f 5 14]Essa gracinha diz[n]que gostaria de namorar[n]um Phantom Thief![n][w][e]
 
 [msg MSG_002_0_0 [Ann]]
 [s][f 5 14]Mas não com você[n]especificamente, hein?[n][w][e]

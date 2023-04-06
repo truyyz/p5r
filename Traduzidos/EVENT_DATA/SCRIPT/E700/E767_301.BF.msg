@@ -141,7 +141,7 @@
 
 [msg MSG_Temple_Scene07_Type0_4 [Morgana]]
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 0 1028 65535 0]Uau, isso foi mais relaxante[n]do que eu pensava.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Ei, não fique chateado. Sua[n]mente será capaz de alcançar[n]paz e tudo mais. OK?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Ei, não fique chateado. Sua[n]mente será capaz de alcançar[n]paz e tudo mais. Ok?[n][f 1 3 65535][w][e]
 
 [msg MSG_Temple_Scene07_Type0_5 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1022 65535 0]Uau, você é incrível...[n][f 1 3 65535][w][e]
@@ -166,7 +166,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1165 65535 0]Sério, você realmente[n]mudou. Parece que sua mente[n]está mais relaxada.[n][f 1 3 65535][w][e]
 
 [msg MSG_Temple_SPUp_Info_Tyo_4 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1165 65535 0]OK, não vou mais tentar distraí-lo.[n]Não faz mais sentido.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1165 65535 0]Ok, não vou mais tentar distraí-lo.[n]Não faz mais sentido.[n][f 1 3 65535][w][e]
 
 [msg MSG_Temple_SPUp_Info_Tyo_5 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1165 65535 0]...quase me sinto[n]obrigada a orar.[n][f 1 3 65535][w][e]

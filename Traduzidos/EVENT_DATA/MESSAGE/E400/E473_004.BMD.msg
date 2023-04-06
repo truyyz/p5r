@@ -46,7 +46,7 @@
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sim, mas não quero comer sozinho.[n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Sojiro]]
-[s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...OK. Que tal[n]se sairmos para comer?[n]Todos juntos, em família.[n][f 1 3 65535][w][e]
+[s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Ok. Que tal[n]se sairmos para comer?[n]Todos juntos, em família.[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Futaba]]
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Huh? O que é todo esse carinho?[n][f 1 3 65535][w][e]
@@ -61,7 +61,7 @@
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Triste.[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Sojiro]]
-[s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]OK, vamos fechar e sair.[n]O gato vai ficar bem...[n]Acho que ele está dormindo.[n][f 1 3 65535][w][e]
+[s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ok, vamos fechar e sair.[n]O gato vai ficar bem...[n]Acho que ele está dormindo.[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Futaba]]
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sushi! Sushiiiii![n][f 1 3 65535][w][e]

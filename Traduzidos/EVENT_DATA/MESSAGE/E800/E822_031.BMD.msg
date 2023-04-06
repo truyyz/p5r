@@ -16,14 +16,14 @@
 
 [msg MSG_004_0_0 [Haru]]
 [s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 3048 65535 0][f 5 13 4 5 7]Eheheh, um clássico,[n]mas ainda uma boa ideia.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Existem vários restaurantes.[n]Primeiro vamos ver os que[n]perto, OK?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Existem vários restaurantes.[n]Primeiro vamos ver os que[n]perto, Ok?[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Haru]]
 [s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 3156 65535 0][f 5 13 4 10 7]Mmm... Que tal um[n]menu fixo sazonal?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Acredito que haja[n]um restaurante na Zona Oeste que ofereça...[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Haru]]
-[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 3051 65535 0]OK. Volte aqui quando chegar a hora do desfile![n][f 1 3 65535][w][e]
+[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 3051 65535 0]Ok. Volte aqui quando chegar a hora do desfile![n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Haru]]
 [s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 3028 65535 0]Mmm, muito delicioso![n][f 1 3 65535][w][e]

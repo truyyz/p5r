@@ -51,7 +51,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]Na verdade, parece que nesta[n]realidade suas mortes nunca[n]ocorreram.[n][f 1 3 65535][w][e]
 
 [sel SEL_012_0_0 top]
-[s]E os ladrões fantasmas?[e]
+[s]E os Phantom Thieves?[e]
 [s]O que aconteceu com Shidou?[e]
 
 [msg MSG_013_0_0 [Akechi]]
@@ -60,7 +60,7 @@
 
 [msg MSG_014_0_0 [Akechi]]
 [s][bup 0 9 10 65535 1][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Shido foi o único a ser[n]preso por tentar[n]derrubar o governo.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Parece que os Ladrões Fantasmas[n]causaram bastante confusão aqui também,[n]mas não há registro de sua prisão.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Parece que os Phantom Thieves[n]causaram bastante confusão aqui também,[n]mas não há registro de sua prisão.[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Akechi]]
 [s][bup 0 9 10 65535 1][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]Basicamente, nesta realidade,[n]nem você nem eu[n]cometemos nenhum crime.[n][f 1 3 65535][w][e]

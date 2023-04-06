@@ -42,7 +42,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Houve um conselho de professores outro dia. Por[n]que eles sempre duram tanto tempo...?[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Kawakami]]
-[s][bup 0 109 602 0 0][f 4 10 65535 0 0][vp 8 2 0 15026 65535 0]Culpe os ladrões fantasmas...[n]Os alunos[n]estão muito inquietos ultimamente.[n][f 1 3 65535][w][e]
+[s][bup 0 109 602 0 0][f 4 10 65535 0 0][vp 8 2 0 15026 65535 0]Culpe os Phantom Thieves...[n]Os alunos[n]estão muito inquietos ultimamente.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Nós, professores, não sabemos o que[n]fazer para lidar com essa situação.[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Kawakami]]

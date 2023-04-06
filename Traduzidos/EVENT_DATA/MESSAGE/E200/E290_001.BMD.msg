@@ -50,7 +50,7 @@
 [s][bup 0 6 0 1 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Você não precisa aparecer.[n]Basta responder a algumas perguntas.[n]Chat também serve.[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Alibaba]]
-[s][vp 8 0 0 0 65535 0][f 5 14]OK.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 5 14]Ok.[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Makoto]]
 [s][bup 0 6 0 1 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Tudo bem, então...[n][f 1 3 65535][w][e]
@@ -83,7 +83,7 @@
 [s][vp 8 0 0 0 65535 0][f 5 14]É doloroso...[n][f 1 3 65535][w][e]
 
 [sel SEL_025_0_0 top]
-[s][f 5 14]Porque?[e]
+[s][f 5 14]Por quê?[e]
 [s]Você acha chato?[e]
 [s]Por que você não sai?[e]
 
@@ -152,7 +152,7 @@
 [s][vp 8 0 0 0 65535 0][f 5 14]Não. Temos um acordo.[n][f 1 3 65535][w][e]
 
 [msg MSG_049_0_0 [Ryuji]]
-[s][bup 0 2 1 1 0][f 4 10 65535 0 0][vp 8 0 0 38 65535 0]OK então. Vamos indo.[n]Eeeee vamos![n][f 1 3 65535][w][e]
+[s][bup 0 2 1 1 0][f 4 10 65535 0 0][vp 8 0 0 38 65535 0]Ok então. Vamos indo.[n]Eeeee vamos![n][f 1 3 65535][w][e]
 
 [msg MSG_050_0_0 [Morgana]]
 [s][bup 0 3 4 0 0][f 4 10 65535 0 0][vp 8 0 0 39 65535 0]Não ative aqui, idiota![n][f 1 3 65535][w][e]

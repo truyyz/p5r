@@ -42,7 +42,7 @@
 [s][vp 8 0 0 0 65535 0]Vamos, não seja negativo...[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Ohya]]
-[s][bup 0 107 3 65535 0][f 4 10 65535 0 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 107 16 301 65535][vp 8 0 0 0 65535 0]Porque? É a verdade.[n][f 1 3 65535][w][e]
+[s][bup 0 107 3 65535 0][f 4 10 65535 0 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 107 16 301 65535][vp 8 0 0 0 65535 0]Por quê? É a verdade.[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Lala Escargot]]
 [s][vp 8 0 0 0 65535 0]Aqui vamos nós de novo...[n]Você costumava ser um otimista.[n][f 1 3 65535][w][e]
@@ -125,5 +125,5 @@
 [s][f 4 10 65535 0 0][vp 8 2 0 16048 65535 0]Estou brincando! Hahaha![n][f 1 3 65535][w][e]
 
 [msg MSG_034_0_0 [Ohya]]
-[s][vp 8 2 0 16053 65535 0]Até mais... Traga-me[n]mais informações interessantes, OK?[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 16053 65535 0]Até mais... Traga-me[n]mais informações interessantes, Ok?[n][f 1 3 65535][w][e]
 

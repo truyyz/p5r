@@ -111,11 +111,11 @@
 
 [msg MSG_035_0_0 [Sojiro]]
 [s][bup 0 103 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...tenho que ir, tenho que preparar o jantar da[n]futaba.[n][f 1 3 65535][w][e]
-[s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 6 0 59 5 100]Se eles querem café, você sabe como prepará-lo.[n]OK, para esta noite o lugar é seu.[n][f 1 3 65535][w][e]
+[s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 6 0 59 5 100]Se eles querem café, você sabe como prepará-lo.[n]Ok, para esta noite o lugar é seu.[n][f 1 3 65535][w][e]
 
 [msg MSG_035_5_0 [Sojiro]]
 [s][bup 0 103 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...tenho que ir, tenho que preparar o jantar da[n]futaba.[n][f 1 3 65535][w][e]
-[s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 6 0 59 5 100]Deixei um pouco de café para você.[n]Se quiser, tome uma xícara. OK,[n]esta noite a loja é toda sua.[n][f 1 3 65535][w][e]
+[s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 6 0 59 5 100]Deixei um pouco de café para você.[n]Se quiser, tome uma xícara. Ok,[n]esta noite a loja é toda sua.[n][f 1 3 65535][w][e]
 
 [msg MSG_036_0_0 [Justine]]
 [s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]"Café"... Acredito que foi servido[n]naquele campo de escravos também.[n][f 1 3 65535][w][e]

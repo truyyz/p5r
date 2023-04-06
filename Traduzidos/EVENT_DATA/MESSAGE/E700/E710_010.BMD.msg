@@ -151,5 +151,5 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vou salvá-la... com uma Pedra Sagrada...![n][f 1 3 65535][w][e]
 
 [msg MSG_036_0_0 [Chihaya]]
-[s][bup 0 113 2 65535 0][f 4 10 65535 0 0][vp 8 2 0 10044 65535 0]OK, terminamos?[n]Não tenho tempo para isso![n][f 1 3 65535][w][e]
+[s][bup 0 113 2 65535 0][f 4 10 65535 0 0][vp 8 2 0 10044 65535 0]Ok, terminamos?[n]Não tenho tempo para isso![n][f 1 3 65535][w][e]
 

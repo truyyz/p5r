@@ -2,7 +2,7 @@
 [s][f 5 14]Ei, vocês estão todos livres amanhã,[n]depois da escola?[n][w][e]
 
 [msg MSG_001_0_0 [Yusuke]]
-[s][f 5 14]Eu deveria estar lá. Porque?[n][w][e]
+[s][f 5 14]Eu deveria estar lá. Por quê?[n][w][e]
 
 [msg MSG_002_0_0 [Ryuji]]
 [s][f 5 14]Eu gostaria de falar com você sobre uma coisa.[n]Eu estava pensando que poderíamos[n]todos nos encontrar no Leblanc.[n][w][e]

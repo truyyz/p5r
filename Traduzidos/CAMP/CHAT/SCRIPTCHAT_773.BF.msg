@@ -23,7 +23,7 @@
 [s][f 5 14]O que você acha?[n][f 5 15][w][e]
 
 [msg MSG_AfterQ [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1186 65535 0][f 4 25 1 65535 0 0]Makoto pode estar certo. É em[n]momentos como esses que nós, Ladrões[n]Fantasmas, devemos nos unir.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1186 65535 0][f 4 25 1 65535 0 0]Makoto pode estar certo. É em[n]momentos como esses que nós, Phantom[n]Thieves, devemos nos unir.[n][f 1 3 65535][w][e]
 
 [sel SEL_001 top]
 [s]Jogamos bilhar.[e]

@@ -47,7 +47,7 @@
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O que seria estranho?[n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]OK, ligo para você mais tarde[n]para saber se é verdade.[n][f 1 3 65535][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ok, ligo para você mais tarde[n]para saber se é verdade.[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não faça isso, Ryuji.[n][f 1 3 65535][w][e]
@@ -62,7 +62,7 @@
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Acho que é hora de eu[n]ir embora.[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]OK, eu também vou.[n][f 1 3 65535][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ok, eu também vou.[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Obrigado pela bebida.[n][f 1 3 65535][w][e]

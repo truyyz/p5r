@@ -62,7 +62,7 @@
 [s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vou falar com Tsuda primeiro.[n]Vou seguir o código yakuza.[n][f 1 3 65535][w][e]
 [s][bup 0 104 0 0 0][f 4 24 0 4 0 59 5 100][vp 1 0 0 0 0 0]......[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 13019 65535 0]Ei, eu tenho que te pedir um favor.[n]Se[n]alguma coisa acontecer comigo, cuide de Kaoru, ok?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...OK?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Ok?[n][f 1 3 65535][w][e]
 
 [sel SEL_019_0_0 top]
 [s]Tsuda é tão perigoso?[e]
@@ -82,7 +82,7 @@
 [s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 2 0 13035 65535 0]Eu gostaria que você viesse comigo[n]para falar com Tsuda.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ele não ousará descontar em um[n]civil. Seria[n]complicar muito as coisas.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Se você me testemunhar,[n]tudo ficará mais seguro.[n][f 1 3 65535][w][e]
-[s][bup 0 104 1 0 0][f 4 10 65535 0 0][f 4 24 0 4 0 36 5 100][vp 8 2 0 13086 65535 0]...OK então. Está decidido.[n][f 1 3 65535][w][e]
+[s][bup 0 104 1 0 0][f 4 10 65535 0 0][f 4 24 0 4 0 36 5 100][vp 8 2 0 13086 65535 0]...Ok então. Está decidido.[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Iwai]]
 [s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Deixe-me pensar em uma recompensa.[n]Tenho que agradecer pela informação[n]e por me testemunhar.[n][f 1 3 65535][w][e]
@@ -92,7 +92,7 @@
 [s][vp 8 0 0 0 65535 0]Sinto que meu vínculo[n]com Iwai está ficando mais forte...[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Iwai]]
-[s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]OK, entrarei em contato com você no[n]horário conveniente. Vamos nessa, garoto.[n][f 1 3 65535][w][e]
+[s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ok, entrarei em contato com você no[n]horário conveniente. Vamos nessa, garoto.[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Iwai]]
 [s][vp 8 2 0 13053 0 0]Obrigado por hoje.[n][f 1 3 65535][w][e]

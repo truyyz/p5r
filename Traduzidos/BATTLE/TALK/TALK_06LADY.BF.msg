@@ -5,7 +5,7 @@
 [s]Nossa, eu realmente não deveria[n]ter saído de casa hoje.[n][w][e]
 
 [msg TalkMsg_GUY_CONTACT_02]
-[s]...Ah, ai! Você é muito rude para um ladrão[n]fantasma, sabia?[n][w][e]
+[s]...Ah, ai! Você é muito rude para um Phantom[n]Thief, sabia?[n][w][e]
 
 [msg TalkMsg_GUY_CONTACT_03]
 [s]Que dia...[n]E não estou apenas dizendo isso.[n][w][e]
@@ -761,7 +761,7 @@
 [s]Nenhum em particular.[e]
 
 [msg TalkMsg_GUY_CHAT_SQ_06_R]
-[s]Tenho que admitir, é bom ouvir isso,[n]mas... OK.[n][w][e]
+[s]Tenho que admitir, é bom ouvir isso,[n]mas... Ok.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_06_R_2]
 [s]Você está me dizendo que só veio aqui para ser um[n]mulherengo?[n][w][e]

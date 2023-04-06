@@ -21,7 +21,7 @@
 [s]Eu posso ajudar?[n][w][e]
 
 [msg characoop_Futaba_00 [Futaba]]
-[s]Vou abrir uma brecha e faremos a troca naquele[n]instante. OK?[n][w][e]
+[s]Vou abrir uma brecha e faremos a troca naquele[n]instante. Ok?[n][w][e]
 
 [msg characoop_Akechi_00 [Akechi]]
 [s]Eu termino![n][w][e]
@@ -48,7 +48,7 @@
 [s]Vamos terminar essa batalha juntos![n][w][e]
 
 [msg characoop_special_Futaba [Futaba]]
-[s]Vou abrir uma brecha e faremos a troca naquele[n]instante. OK?[n][w][e]
+[s]Vou abrir uma brecha e faremos a troca naquele[n]instante. Ok?[n][w][e]
 
 [msg characoop_special_Akechi [Akechi]]
 [s]Vamos dar-lhe o golpe de misericórdia![n][w][e]

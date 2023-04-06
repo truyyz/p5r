@@ -17,7 +17,7 @@
 [s][bup 0 3 3 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 2 0 0]Uhm... Nós sabemos onde[n]o Tesouro está, mas não acho que[n]a estrada seja segura...[n][w][e]
 
 [msg D02_03_e210_211_mes02 [Ryuji]]
-[s][bup 0 2 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 3 0 0]Hã? Porque?[n][w][e]
+[s][bup 0 2 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 3 0 0]Hã? Por quê?[n][w][e]
 
 [msg D02_03_e210_211_mes03 [Yusuke]]
 [s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 4 0 0]Você está se referindo ao laser infravermelho[n]que o envolve.[n][w][e]

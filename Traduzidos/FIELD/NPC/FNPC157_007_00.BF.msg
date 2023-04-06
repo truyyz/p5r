@@ -51,7 +51,7 @@
 [s]Só mais uma rodada...[n]Dessa vez eu tenho que vencer![n][w][e]
 
 [msg D06_GREETING_MES_mes07]
-[s]OK... se eu conseguir recuperar[n]tudo na próxima volta...[n][w][e]
+[s]Ok... se eu conseguir recuperar[n]tudo na próxima volta...[n][w][e]
 
 [msg D06_GREETING_MES_mes08]
 [s]Não importa como.[n]O importante é ganhar dinheiro.[n][w][e]

@@ -84,5 +84,5 @@
 [s][bup 0 3 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 36 10 0 10][vp 8 2 1 0 65535 0]Devemos tentar novamente![n][w][e]
 
 [msg MES_GROUP8_04 [Ryuji]]
-[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 7112 65535 0]OK, você está se divertindo, mas eu realmente[n]tenho que levantá-lo toda vez para mostrar a[n]tela? Então não posso jogar![n][w][e]
+[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 7112 65535 0]Ok, você está se divertindo, mas eu realmente[n]tenho que levantá-lo toda vez para mostrar a[n]tela? Então não posso jogar![n][w][e]
 

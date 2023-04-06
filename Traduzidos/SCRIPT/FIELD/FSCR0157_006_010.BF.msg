@@ -9,10 +9,10 @@
 [s][clr 2]50.000 moedas[clr 27]...[n][w][e]
 
 [msg f157_06_EV_FIRST_CHECK_m_3 [Futaba]]
-[s]OK, vamos nos apressar e[n]fechar isso rapidamente.[n][w][e]
+[s]Ok, vamos nos apressar e[n]fechar isso rapidamente.[n][w][e]
 
 [msg D06_06_e380_300_mes01 [Ryuji]]
-[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]OK! Agora podemos ver[n]todo o andar superior![n][w][e]
+[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ok! Agora podemos ver[n]todo o andar superior![n][w][e]
 
 [msg D06_06_e380_300_mes02 [Akechi]]
 [s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Aparentemente era a verdade.[n][w][e]

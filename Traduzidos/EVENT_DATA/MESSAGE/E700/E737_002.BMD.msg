@@ -70,7 +70,7 @@
 [s]D.[f 2 7 0 0 25 1][e]
 
 [msg MSG_020_0_0 [Prof Kawakami]]
-[s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15132 65535 0]Tempo esgotado. OK, é só escrever.[n][f 1 3 65535][w][e]
+[s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15132 65535 0]Tempo esgotado. Ok, é só escrever.[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Prof. Inui]]
 [s][bup 0 302 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37100 65535 0]Agora que comece o primeiro dia[n]de exames![n][f 1 3 65535][w][e]
@@ -128,7 +128,7 @@
 [s]D.[f 2 7 0 0 25 1][e]
 
 [msg MSG_036_0_0 [Prof Kawakami]]
-[s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15132 65535 0]Tempo esgotado. OK, é só escrever.[n][f 1 3 65535][w][e]
+[s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15132 65535 0]Tempo esgotado. Ok, é só escrever.[n][f 1 3 65535][w][e]
 
 [msg MSG_037_0_0 [Prof Kawakami]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37150 65535 0]Primeiro dia de exames finais. Vamos começar.[n][f 1 3 65535][w][e]

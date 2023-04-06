@@ -11,7 +11,7 @@
 [s][bup 0 5 103 0 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]É tudo causado pela reescrita[n]sua cognição... É o que[n]chamamos de "realização", certo?[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Ann]]
-[s][bup 0 4 103 0 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]OK, mas eu estava pensando em algo...[n][f 1 3 65535][w][e]
+[s][bup 0 4 103 0 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Ok, mas eu estava pensando em algo...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Foi apenas Sumire quem pensou que[n]ela era Kasumi, certo?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Sua família ou amigos não notariam se você[n]começasse a usar um nome diferente?[n][f 1 3 65535][w][e]
 

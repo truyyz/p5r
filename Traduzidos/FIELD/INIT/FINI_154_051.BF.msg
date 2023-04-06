@@ -14,7 +14,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Quer falar sobre[n]outra coisa?[n][w][e]
 
 [msg D_BRIEFING_END_PC03_mes0 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]OK, vamos atualizar.[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ok, vamos atualizar.[n][w][e]
 
 [msg SAFE_DISCOVERY_MES_01_PC [Ryuji]]
 [s][vp 1 0 0 2138 0 0][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Concordar! Parece que[n]este lugar é seguro.[n][w][e]
@@ -128,7 +128,7 @@
 [s][vp 1 0 0 2141 0 0][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Fiuuu, podemos descansar aqui.[n][w][e]
 
 [msg SAFE_IN_MES_01_PC03_mes [Morgana]]
-[s][vp 1 0 0 3141 0 0][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]OK, vamos levar cinco minutos.[n][w][e]
+[s][vp 1 0 0 3141 0 0][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ok, vamos levar cinco minutos.[n][w][e]
 
 [msg SAFE_IN_MES_01_PC04_mes [Ann]]
 [s][vp 1 0 0 4141 0 0][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Uff... Podemos descansar...[n][w][e]
@@ -143,7 +143,7 @@
 [s][vp 1 0 0 8141 0 0][bup 0 8 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Posso descansar um pouco, certo?[n]Não se preocupe,[n]não vou dormir.[n][w][e]
 
 [msg SAFE_IN_MES_01_PC08_mes [Haru]]
-[s][vp 1 0 0 7141 0 0][bup 0 7 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]OK, vamos fazer uma pausa.[n][w][e]
+[s][vp 1 0 0 7141 0 0][bup 0 7 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ok, vamos fazer uma pausa.[n][w][e]
 
 [msg SAFE_IN_MES_01_PC09_mes [Akechi]]
 [s][vp 1 0 0 9141 0 0][bup 0 9 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Uff... aqui podemos descansar.[n][w][e]
@@ -155,7 +155,7 @@
 [s][vp 1 0 0 2142 0 0][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Bem, vamos fazer uma pausa.[n][w][e]
 
 [msg SAFE_IN_MES_02_PC03_mes [Morgana]]
-[s][vp 1 0 0 3142 0 0][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]OK! Vamos fazer uma pausa![n][w][e]
+[s][vp 1 0 0 3142 0 0][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ok! Vamos fazer uma pausa![n][w][e]
 
 [msg SAFE_IN_MES_02_PC04_mes [Ann]]
 [s][vp 1 0 0 4142 0 0][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ei, vamos fazer uma pausa.[n][w][e]
@@ -260,7 +260,7 @@
 [s][vp 1 0 0 10043 0 0][bup 0 10 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Aqui estamos. Vamos explorar![n][w][e]
 
 [msg FASTTRAVEL_IN_MES_03_PC0 [Ryuji]]
-[s][vp 1 0 0 2044 0 0][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]OK, agora para onde vamos?[n][w][e]
+[s][vp 1 0 0 2044 0 0][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ok, agora para onde vamos?[n][w][e]
 
 [msg FASTTRAVEL_IN_MES_03_PC0_2 [Morgana]]
 [s][vp 1 0 0 3044 0 0][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Chegamos.[n]Vamos continuar, Joker.[n][w][e]
@@ -278,7 +278,7 @@
 [s][vp 1 0 0 8044 0 0][bup 0 8 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Agora vamos falar sério, hein?[n]Para onde estamos indo?[n][w][e]
 
 [msg FASTTRAVEL_IN_MES_03_PC0_7 [Haru]]
-[s][vp 1 0 0 7044 0 0][bup 0 7 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]OK, vamos seguir em frente.[n]Qual é o plano, Joker?[n][w][e]
+[s][vp 1 0 0 7044 0 0][bup 0 7 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ok, vamos seguir em frente.[n]Qual é o plano, Joker?[n][w][e]
 
 [msg FASTTRAVEL_IN_MES_03_PC0_8 [Akechi]]
 [s][vp 1 0 0 9044 0 0][bup 0 9 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Chegamos.[n]Então, vamos prosseguir?[n][w][e]
@@ -287,7 +287,7 @@
 [s][vp 1 0 0 10044 0 0][bup 0 10 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos explorar. Quais são[n]as ordens?[n][w][e]
 
 [msg SAFE_EXIT_LOW_01_PC02_me [Ryuji]]
-[s][vp 1 0 0 2144 0 0][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]OK, vamos.[n][w][e]
+[s][vp 1 0 0 2144 0 0][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ok, vamos.[n][w][e]
 
 [msg SAFE_EXIT_LOW_01_PC03_me [Morgana]]
 [s][vp 1 0 0 3144 0 0][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos.[n][w][e]
@@ -296,10 +296,10 @@
 [s][vp 1 0 0 4144 0 0][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Tudo bem, vamos embora.[n]Ainda temos que fazer![n][w][e]
 
 [msg SAFE_EXIT_LOW_01_PC05_me [Yusuke]]
-[s][vp 1 0 0 5144 0 0][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]OK, vamos.[n][w][e]
+[s][vp 1 0 0 5144 0 0][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ok, vamos.[n][w][e]
 
 [msg SAFE_EXIT_LOW_01_PC06_me [Makoto]]
-[s][vp 1 0 0 6144 0 0][bup 0 6 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]OK, vamos continuar explorando.[n][w][e]
+[s][vp 1 0 0 6144 0 0][bup 0 6 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ok, vamos continuar explorando.[n][w][e]
 
 [msg SAFE_EXIT_LOW_01_PC07_me [Futaba]]
 [s][vp 1 0 0 8144 0 0][bup 0 8 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Bem, é hora de ir![n][w][e]
@@ -320,7 +320,7 @@
 [s][vp 1 0 0 3145 0 0][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Poder! O tesouro nos espera![n][w][e]
 
 [msg SAFE_EXIT_LOW_02_PC04_me [Ann]]
-[s][vp 1 0 0 4145 0 0][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]OK, vamos continuar explorando.[n][w][e]
+[s][vp 1 0 0 4145 0 0][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ok, vamos continuar explorando.[n][w][e]
 
 [msg SAFE_EXIT_LOW_02_PC05_me [Yusuke]]
 [s][vp 1 0 0 5145 0 0][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Bem, vamos voltar ao trabalho.[n][w][e]
@@ -341,13 +341,13 @@
 [s][vp 1 0 0 10145 0 0][bup 0 10 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos voltar aos trilhos![n][w][e]
 
 [msg SAFE_EXIT_LOW_03_PC02_me [Ryuji]]
-[s][vp 1 0 0 2146 0 0][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]OK, hora de ir.[n][w][e]
+[s][vp 1 0 0 2146 0 0][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ok, hora de ir.[n][w][e]
 
 [msg SAFE_EXIT_LOW_03_PC03_me [Morgana]]
 [s][vp 1 0 0 3146 0 0][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Preparar? Vamos, Joker![n][w][e]
 
 [msg SAFE_EXIT_LOW_03_PC04_me [Ann]]
-[s][vp 1 0 0 4146 0 0][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]OK, vamos em frente![n][w][e]
+[s][vp 1 0 0 4146 0 0][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ok, vamos em frente![n][w][e]
 
 [msg SAFE_EXIT_LOW_03_PC05_me [Yusuke]]
 [s][vp 1 0 0 5146 0 0][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos continuar a exploração.[n][w][e]
@@ -407,7 +407,7 @@
 [s][vp 1 0 0 5148 0 0][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Trabalhar sob pressão[n]é divertido, mas esteja pronto[n]para recuar, se necessário.[n][w][e]
 
 [msg SAFE_EXIT_HIGH_02_PC06_m [Makoto]]
-[s][vp 1 0 0 6148 0 0][bup 0 6 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]OK, mas é arriscado.[n]Tenha cuidado.[n][w][e]
+[s][vp 1 0 0 6148 0 0][bup 0 6 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ok, mas é arriscado.[n]Tenha cuidado.[n][w][e]
 
 [msg SAFE_EXIT_HIGH_02_PC07_m [Futaba]]
 [s][vp 1 0 0 8148 0 0][bup 0 8 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]A situação é arriscada.[n]Não vamos baixar a guarda.[n][w][e]
@@ -422,7 +422,7 @@
 [s][vp 1 0 0 10148 0 0][bup 0 10 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Melhor estar pronto para qualquer coisa.[n][w][e]
 
 [msg SAFE_EXIT_HIGH_03_PC02_m [Ryuji]]
-[s][vp 1 0 0 2149 0 0][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]OK, vamos ter cuidado, Joker.[n][w][e]
+[s][vp 1 0 0 2149 0 0][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ok, vamos ter cuidado, Joker.[n][w][e]
 
 [msg SAFE_EXIT_HIGH_03_PC03_m [Morgana]]
 [s][vp 1 0 0 3149 0 0][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Hmm... vamos ter mais[n]atenção do que o normal, Joker.[n][w][e]

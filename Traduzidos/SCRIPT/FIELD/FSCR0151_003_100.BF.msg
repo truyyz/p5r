@@ -27,7 +27,7 @@
 [s][bup 0 3 0 65535 0]Tente se acostumar com essas[n]coisas. Estamos em um mundo[n]cognitivo, não se esqueça disso.[n][w][e]
 
 [msg D01_03_e161_330_mes05 [Ryuji]]
-[s][bup 0 2 0 65535 0]OK mas...[n][w][e]
+[s][bup 0 2 0 65535 0]Ok mas...[n][w][e]
 
 [msg D01_03_e161_330_mes06 [Morgana]]
 [s][bup 0 3 0 65535 0]Mais do que tudo, olhe.[n][w][e]
@@ -62,5 +62,5 @@
 [s][bup 0 3 7 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Oh... Na verdade, parece que[n]este mapa está incompleto.[n]Deve haver outras partes dele.[n][w][e]
 
 [msg D01_04_e160_042_mes06 [Ryuji]]
-[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7060 65535 0]OK, vamos começar a procurar onde[n]podemos. Provavelmente ao longo da[n]estrada encontraremos outro mapa.[n][w][e]
+[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7060 65535 0]Ok, vamos começar a procurar onde[n]podemos. Provavelmente ao longo da[n]estrada encontraremos outro mapa.[n][w][e]
 

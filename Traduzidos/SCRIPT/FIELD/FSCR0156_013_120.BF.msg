@@ -3,7 +3,7 @@
 
 [sel D05_02_e341_036_ng4_selA top]
 [s]Não seja rude.[e]
-[s]Nós somos os Ladrões Fantasmas.[e]
+[s]Nós somos os Phantom Thieves.[e]
 [s]Somos irritantes?[e]
 
 [msg D05_02_e341_036_ng4_selA_2 [???]]
@@ -12,7 +12,7 @@
 [s]A ÚNICA RUDE É SUA[n]INTRUSÃO! COMO VOCÊ ENTROU!?[n][w][e]
 
 [msg D05_02_e341_036_ng4_selA_3 [???]]
-[s]OS LADRÕES FANTASMAS?!? ENTÃO, ADMITAM QUE VOCÊS[n]SÃO INTRUDENTES![n][w][e]
+[s]OS PHANTOM THIEVES?!? ENTÃO, ADMITAM QUE VOCÊS[n]SÃO INTRUDENTES![n][w][e]
 [s]IMPUDENTE! É HORA DE[n]DAR UMA BOA LIÇÃO![n][w][e]
 
 [msg D05_02_e341_036_ng4_selA_4 [Yusuke]]
@@ -55,7 +55,7 @@
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1181 65535 0]Certo, melhor evitar outras[n]discussões. Vamos separá-lo![n][w][e]
 
 [msg D05_02_e341_036_ng4_selC_3 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1165 65535 0]Então você prefere não[n]lutar? OK, vamos nos aposentar![n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1165 65535 0]Então você prefere não[n]lutar? Ok, vamos nos aposentar![n][w][e]
 
 [msg D05_02_e341_036_ng4_selC_4 [???]]
 [s]UM MOMENTO! O QUE[n]ESTÁ ACONTECENDO?!? EI![n][w][e]

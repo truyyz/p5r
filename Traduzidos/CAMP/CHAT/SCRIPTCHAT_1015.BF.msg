@@ -28,7 +28,7 @@
 [s][f 5 14]Estou vindo.[e]
 
 [msg MSG_REACTION [Makoto]]
-[s][f 5 14]Oh, OK.[n][w][e]
+[s][f 5 14]Oh, Ok.[n][w][e]
 
 [msg MSG_REACTION_02 [Makoto]]
 [s][f 5 14]Estou na frente da sala do conselho estudantil.[n][w][e]

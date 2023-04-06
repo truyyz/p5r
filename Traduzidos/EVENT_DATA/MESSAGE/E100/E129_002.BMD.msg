@@ -104,7 +104,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 41 65535 0]Se quisermos continuar,[n]devemos nos apressar.[n][f 1 3 65535][w][e]
 
 [msg MSG_028_5_0 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 42 65535 0]Vou precisar de suas habilidades novamente desta[n]vez, novato. OK?[n][f 1 3 65535][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 42 65535 0]Vou precisar de suas habilidades novamente desta[n]vez, novato. Ok?[n][f 1 3 65535][w][e]
 
 [msg MSG_029_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 43 65535 0]Não se preocupe, não vou deixar você fazer[n]tudo sozinho.[n]Achei que poderia ajudar, então...[n][f 1 3 65535][w][e]

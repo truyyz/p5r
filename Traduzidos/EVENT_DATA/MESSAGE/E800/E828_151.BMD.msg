@@ -14,7 +14,7 @@
 
 [msg MSG_003_0_0 [Ohya]]
 [s][bup 0 107 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 16099 65535 0][f 5 13 16 15 1007]Hahaha! Resposta típica[n]do namorado.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]OK, então...que tal você[n]vir até mim da próxima vez?[n]Mas você vai encontrar um pouco de caos...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ok, então...que tal você[n]vir até mim da próxima vez?[n]Mas você vai encontrar um pouco de caos...[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Ohya]]
 [s][bup 0 107 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 16095 65535 0][f 5 13 16 5 1007]Oh, desculpe.[n][f 1 3 65535][w][e]

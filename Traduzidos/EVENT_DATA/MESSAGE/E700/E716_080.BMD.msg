@@ -6,7 +6,7 @@
 [s][f 4 7 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 110 7 300 1][vp 8 2 0 17066 65535 0]Minha mãe!?![n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Shinya]]
-[s][bup 0 110 4 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Os Ladrões Fantasmas[n]miraram na minha mãe...?[n][f 1 3 65535][w][e]
+[s][bup 0 110 4 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Os Phantom Thieves[n]miraram na minha mãe...?[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Shinya]]
 [s][bup 0 110 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Então ela é muito má...[n][f 1 3 65535][w][e]
@@ -87,7 +87,7 @@
 [s][bup 0 110 4 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 17 15 1010][f 4 1]-san...[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Shinya]]
-[s][bup 0 110 0 0 0][f 4 10 65535 0 0][vp 8 2 0 17085 65535 0]OK, vou te dar a carta de aviso.[n][f 1 3 65535][w][e]
+[s][bup 0 110 0 0 0][f 4 10 65535 0 0][vp 8 2 0 17085 65535 0]Ok, vou te dar a carta de aviso.[n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Shinya]]
 [s][bup 0 110 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Afinal, ela é minha mãe.[n]Eu realmente quero ajudá-la![n][f 1 3 65535][w][e]
@@ -104,7 +104,7 @@
 [s][bup 0 110 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Oh, está ficando tarde...[n][f 1 3 65535][w][e]
 
 [msg MSG_025_0_0 [Shinya]]
-[s][bup 0 110 1 0 0][f 4 10 65535 0 0][vp 8 2 0 17090 65535 0]Ei, me faça um favor... Não diga a[n]ninguém que você me viu chorar,[n]OK?[n][f 1 3 65535][w][e]
+[s][bup 0 110 1 0 0][f 4 10 65535 0 0][vp 8 2 0 17090 65535 0]Ei, me faça um favor... Não diga a[n]ninguém que você me viu chorar,[n]Ok?[n][f 1 3 65535][w][e]
 
 [msg MSG_027_0_0 [Shinya]]
 [s][vp 8 2 0 17091 65535 0]Ah, e diga olá para Thieves[n]Phantom. Até mais.[n][f 1 3 65535][w][e]

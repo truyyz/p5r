@@ -131,7 +131,7 @@
 [s][bup 0 110 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Merda, eu tenho que ir...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não gosto de como minha mãe se tornou. Ela não[n]ouve mais o que eu digo a ela...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Na verdade, é sobre isso que[n]eu queria falar com você hoje...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Hum, você acha que os Ladrões Fantasmas podem[n]fazer minha mãe voltar a ser como ela era antes?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Hum, você acha que os Phantom Thieves podem[n]fazer minha mãe voltar a ser como ela era antes?[n][f 1 3 65535][w][e]
 
 [msg MND_038_0_0]
 [s][vp 8 0 0 0 65535 0]Shinya parece[n]prestes a chorar...[n][f 1 3 65535][w][e]

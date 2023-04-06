@@ -27,7 +27,7 @@
 [s][vp 8 0 0 0 65535 0]Eu não dou a mínima para ele.[n]Eu só quero ouvir[n]sobre os Phantom Thieves.[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Yoshida]]
-[s][bup 0 112 0 0 0][f 4 10 65535 0 0][vp 8 2 0 20079 65535 0]OK, hora de começar.[n][f 1 3 65535][w][e]
+[s][bup 0 112 0 0 0][f 4 10 65535 0 0][vp 8 2 0 20079 65535 0]Ok, hora de começar.[n][f 1 3 65535][w][e]
 
 [sel SEL_010_0_0 top]
 [s][f 0 8 2 1 2217]Faça o seu melhor.[clr 27][e]
@@ -112,7 +112,7 @@
 [s][bup 0 112 0 0 0][f 4 10 65535 0 0][vp 8 2 0 20021 65535 0]Minha candidatura... hein?[n]Que reviravolta inesperada[n]nos acontecimentos.[n][f 1 3 65535][w][e]
 
 [msg MSG_032_0_0 [Yoshida]]
-[s][bup 0 112 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Os Ladrões Fantasmas...[n][f 1 3 65535][w][e]
+[s][bup 0 112 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Os Phantom Thieves...[n][f 1 3 65535][w][e]
 
 [msg MSG_033_0_0 [Yoshida]]
 [s][bup 0 112 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Talvez seja o efeito da maneira como[n]você pode abalar meu coração.[n][f 1 3 65535][w][e]
@@ -134,7 +134,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 0 20032 65535 0]Ou eu fiz tantos discursos[n]que minhas histórias ficaram chatas agora?[n][f 1 3 65535][w][e]
 
 [msg MSG_038_0_0 [Yoshida]]
-[s][bup 0 112 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Os Ladrões Fantasmas... O poder de[n]mudar o coração das pessoas...[n][f 1 3 65535][w][e]
+[s][bup 0 112 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Os Phantom Thieves... O poder de[n]mudar o coração das pessoas...[n][f 1 3 65535][w][e]
 
 [msg MSG_039_0_0 [Yoshida]]
 [s][bup 0 112 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não tenho nenhum poder especial como o deles, mas[n]certamente não tenho menos convicção.[n][f 1 3 65535][w][e]

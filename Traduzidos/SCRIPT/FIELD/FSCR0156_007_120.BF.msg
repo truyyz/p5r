@@ -37,7 +37,7 @@
 [s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4023 65535 0]...Aparentemente quebrou.[n][w][e]
 
 [msg D05_02_e341_064_selA_2_m_2 [Ryuji]]
-[s][bup 0 2 105 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7028 65535 0]Ela quebrou instantaneamente.[n]OK, era 10 vezes a[n]velocidade normal, mas... era frágil.[n][w][e]
+[s][bup 0 2 105 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7028 65535 0]Ela quebrou instantaneamente.[n]Ok, era 10 vezes a[n]velocidade normal, mas... era frágil.[n][w][e]
 
 [msg D05_02_e341_064_mes05 [Makoto]]
 [s][bup 0 6 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2020 65535 0]É a prova de quão[n]exploradas essas máquinas são…[n][w][e]

@@ -34,5 +34,5 @@
 [s]Agora não.[f 2 7 0 0 106 1][e]
 
 [msg MSG_D155_01_s_01_002 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]OK. Avise-me quando estiver[n]pronto para começar.[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ok. Avise-me quando estiver[n]pronto para começar.[n][w][e]
 

@@ -45,7 +45,7 @@
 [s][vp 8 0 0 0 65535 0]Que olhar arrogante...[n]Vou te despedaçar![n][w][e]
 
 [msg MSG_076_0_0 [Sombra de Makigami]]
-[s][vp 8 2 1 47165 65535 0]O que diabos vocês[n]Ladrões Fantasmas, afinal?[n][w][e]
+[s][vp 8 2 1 47165 65535 0]O que diabos vocês[n]Phantom Thieves, afinal?[n][w][e]
 [s][vp 8 0 0 0 65535 0]É impossível...[n][w][e]
 [s][vp 8 0 0 0 65535 0]Agora eu entendo. Meu irmão deve ter te contado...[n][w][e]
 
@@ -60,7 +60,7 @@
 [s][bup 0 2 4 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 0 65535 0]Você só notou agora? Espere, então você já sabia[n]como seu irmão se sente![n][w][e]
 
 [msg MSG_080_0_0 [Ryuji]]
-[s][bup 0 2 7 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7179 65535 0]OK, que bom que[n]você está arrependido.[n][w][e]
+[s][bup 0 2 7 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7179 65535 0]Ok, que bom que[n]você está arrependido.[n][w][e]
 
 [msg MSG_081_0_0 [Sombra de Makigami]]
 [s][vp 8 0 0 0 65535 0]......[n][w][e]

@@ -8,13 +8,13 @@
 [s][f 5 14]Eu queria te perguntar uma coisa.[n][w][e]
 
 [msg MSG_004_7_0 [Alibaba]]
-[s][f 5 14]Você é um ladrão fantasma, não é?[n][w][e]
+[s][f 5 14]Você é um Phantom Thief, não é?[n][w][e]
 
 [msg MSG_004_9_0 [Alibaba]]
 [s][f 5 14]Você pode realmente despertar corações?[n][w][e]
 
 [msg MSG_005_0_0 [Morgana]]
-[s][bup 0 3 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Que é? Como ele sabe[n]que você é um Ladrão Fantasma?[n][f 1 3 65535][w][e]
+[s][bup 0 3 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Que é? Como ele sabe[n]que você é um Phantom Thief?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Um dos nossos colegas de classe[n]está brincando com você?[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Alibaba]]

@@ -8,7 +8,7 @@
 [s][f 5 14]Não faz o menor sentido.[n][w][e]
 
 [sel SEL_003_0_0 top]
-[s][f 5 14]Porque?[e]
+[s][f 5 14]Por quê?[e]
 [s]Eu não me importo.[e]
 
 [msg MSG_004_0_0 [Mishima]]
@@ -27,5 +27,5 @@
 [s][f 5 14]É porque as notícias[n]não mencionaram isso?[n][w][e]
 
 [msg MSG_009_0_0 [Mishima]]
-[s][f 5 14][f 5 15]Mas é óbvio que os Ladrões Fantasmas são[n]os responsáveis...![n][w][e]
+[s][f 5 14][f 5 15]Mas é óbvio que os Phantom Thieves são[n]os responsáveis...![n][w][e]
 

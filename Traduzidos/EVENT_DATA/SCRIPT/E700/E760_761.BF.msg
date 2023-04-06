@@ -26,7 +26,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Faz sentido, já que você[n]aprendeu. Está bem. Vamos lá.[n][f 1 3 65535][w][e]
 
 [msg MND_203_6_0]
-[s][vp 8 2 0 0 65535 0]OK, isso deve tornar o jogo mais fácil...[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0]Ok, isso deve tornar o jogo mais fácil...[n][f 1 3 65535][w][e]
 
 [msg MSG_READ_BOOK_URAWAZA_NO [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Uau, você está animado! Bem, é isso![n][f 1 3 65535][w][e]
@@ -112,10 +112,10 @@
 
 [sel SEL_010_1 top]
 [s]Me dê outra chance.[e]
-[s]OK, vamos parar por aqui.[e]
+[s]Ok, vamos parar por aqui.[e]
 
 [msg MSG_010_1_5 [Treinador pessoal]]
-[s][vp 8 2 0 59552 65535 0]OK... Uma última vez, desde o início![n][f 1 3 65535][w][e]
+[s][vp 8 2 0 59552 65535 0]Ok... Uma última vez, desde o início![n][f 1 3 65535][w][e]
 
 [msg MSG_Stage02_Start [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1171 65535 0][f 4 22 65535 3 22]Conheça seu oponente...[n]A partida está prestes a começar.[n][f 1 3 65535][w][e]
@@ -266,7 +266,7 @@
 [s][vp 8 2 0 59553 65535 0]Ele é muito duro, hein...[n]Você vai ter que atacá-lo[n]com todas as suas forças![n][f 1 3 65535][w][e]
 
 [msg MSG_Stage03_step03_2nd [Treinador pessoal]]
-[s][vp 8 2 0 59552 65535 0]OK, finalize com uma saraivada de socos![n][f 1 3 65535][w][e]
+[s][vp 8 2 0 59552 65535 0]Ok, finalize com uma saraivada de socos![n][f 1 3 65535][w][e]
 
 [msg MSG_Stage03_step03_3rd [Treinador pessoal]]
 [s][vp 8 2 0 59553 65535 0]Isso deve ser o suficiente para[n]derrubar Bryson... Mas não![n]Ele ainda está de pé![n][f 1 3 65535][w][e]

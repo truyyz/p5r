@@ -14,7 +14,7 @@
 [s][f 5 14]Espere um minuto, uma das lojas[n]envolvidas fica bem em frente[n]a academia que eu frequento![n][w][e]
 [s][f 5 14]Lembro-me de uma vez que eu estava[n]fora com a equipe de atletismo[n]e entramos para dar uma olhada.[n][w][e]
 [s][f 5 14]Eles pareciam boas pessoas.[n]Eu gostaria de poder ajudá-los.[n][w][e]
-[s][f 5 14][f 5 15]Eu tenho o nome do encrenqueiro.[n]É Atsushi Yatani. Vamos[n]encontrá-lo, OK?[n][w][e]
+[s][f 5 14][f 5 15]Eu tenho o nome do encrenqueiro.[n]É Atsushi Yatani. Vamos[n]encontrá-lo, Ok?[n][w][e]
 
 [msg MSG_006_0_0 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Ryuji está de olho no[n]fórum. Nós também devemos[n]fazer a nossa parte![n][f 1 3 65535][w][e]

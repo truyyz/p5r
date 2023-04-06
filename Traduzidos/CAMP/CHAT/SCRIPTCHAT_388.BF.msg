@@ -8,7 +8,7 @@
 [s][f 5 14]Argh, é óbvio que[n]não é isso que estamos[n]tentando fazer.[n][w][e]
 
 [msg MSG_003_0_0 [Akechi]]
-[s][f 5 14]Deve fazer parte do plano[n]colocar a culpa nos[n]Ladrões Fantasmas.[n][w][e]
+[s][f 5 14]Deve fazer parte do plano[n]colocar a culpa nos[n]Phantom Thieves.[n][w][e]
 
 [msg MSG_004_0_0 [Akechi]]
 [s][f 5 14]Afinal, o verdadeiro culpado é[n]aquele que mata as pessoas[n]presentes naquele ranking.[n][w][e]

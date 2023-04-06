@@ -16,7 +16,7 @@
 [s]Ainda não.[e]
 
 [msg D01_04_e160_084_selA_1_m [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1136 65535 0]OK, ótima escolha. Prevenir[n]é melhor do que remediar.[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1136 65535 0]Ok, ótima escolha. Prevenir[n]é melhor do que remediar.[n][w][e]
 
 [msg D01_04_e160_084_re_mes01 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1158 65535 0]Você está pronto, Joker?[n][w][e]

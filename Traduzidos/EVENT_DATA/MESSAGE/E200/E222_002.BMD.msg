@@ -19,7 +19,7 @@
 
 [msg MSG_004_0_0 [Ryuji]]
 [s][bup 0 2 7 65535 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Eu sei eu sei. Eu tenho que ser[n]o "cara legal", certo?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Ser ladrões fantasmas[n]não é nada fácil...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Ser Phantom Thieves[n]não é nada fácil...[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]A propósito, podemos[n]ir para casa direto daqui hoje.[n][f 1 3 65535][w][e]

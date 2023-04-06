@@ -170,7 +170,7 @@
 [s][f 4 23 1 65535 3 10 0 10][vp 8 2 1 0 65535 0]Eu sei que você gosta de Akechi, mas[n]o que você acha sobre[n]Phantom Thieves?[n][w][e]
 
 [msg MSG_OKAMAFUTARI_005_1_0 [Juliano]]
-[s][f 4 23 1 65535 3 10 0 10][vp 8 2 1 0 65535 0]Esses Ladrões Fantasmas nunca serão donos do meu[n]coração...[n][w][e]
+[s][f 4 23 1 65535 3 10 0 10][vp 8 2 1 0 65535 0]Esses Phantom Thieves nunca serão donos do meu[n]coração...[n][w][e]
 [s][vp 8 2 1 0 65535 0]Porque ele já foi sequestrado![n]Akechi-kuuuun...[n][w][e]
 
 [msg MSG_OKAMAFUTARI_005_2_0 [Anjo]]
@@ -193,7 +193,7 @@
 
 [msg MSG_OKAMAFUTARI_007_1_0 [Juliano]]
 [s][f 4 23 1 65535 3 10 0 10][vp 8 2 1 0 65535 0]Cale a boca ... bando de[n]músculos sem cérebro![n][w][e]
-[s][vp 8 2 1 0 65535 0]Espere e veja! Vou revelar a[n]todos que tipo de monstros[n]esses ladrões fantasmas são![n][w][e]
+[s][vp 8 2 1 0 65535 0]Espere e veja! Vou revelar a[n]todos que tipo de monstros[n]esses Phantom Thieves são![n][w][e]
 
 [msg MSG_OKAMAFUTARI_007_2_0 [Anjo]]
 [s][f 4 23 1 65535 3 10 0 10][vp 8 2 1 0 65535 0]Do que você está falando?[n]Quando você fica com raiva, você se torna[n]mais monstruoso do que o normal![n][w][e]
@@ -413,7 +413,7 @@
 [msg MSG_GYAKUSAGI_009_0_0 [Menino tranquilo]]
 [s][vp 8 2 1 0 7 0]Olha, outro dia fui ameaçado por um cara[n]estranho...[n][w][e]
 [s][vp 8 2 1 0 7 0]Coisa? Ele veio até você também?[n]Ele estava vestindo um estranho[n]terno preto, certo?[n][w][e]
-[s][vp 8 2 1 0 7 0]Talvez seja um Ladrão Fantasma![n]Mas eu nunca recebi uma[n]carta de aviso... E aí!?![n][w][e]
+[s][vp 8 2 1 0 7 0]Talvez seja um Phantom Thief![n]Mas eu nunca recebi uma[n]carta de aviso... E aí!?![n][w][e]
 [s][vp 8 2 1 0 7 0]E também há muita[n]polícia por perto por causa desses ataques.[n]Talvez devêssemos abandonar esta área.[n][w][e]
 
 [msg MSG_GYAKUSAGI_010_0_0 [Agente de terno]]
@@ -511,7 +511,7 @@
 [s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]... Tsk. Garoto idiota.[n]Me ignorando como se eu não[n]estivesse lá...[n][w][e]
 
 [msg MSG_SUKAUTOMAN_002_0_0 [Vendedor ambulante suspeito]]
-[s][f 4 23 1 8 12 10 3 10][vp 8 2 1 0 8 0]Ei, cara, você tem um minuto?[n]Relaxa, eu não sou da máfia nem[n]um Ladrão Fantasma, não se preocupe![n][w][e]
+[s][f 4 23 1 8 12 10 3 10][vp 8 2 1 0 8 0]Ei, cara, você tem um minuto?[n]Relaxa, eu não sou da máfia nem[n]um Phantom Thief, não se preocupe![n][w][e]
 
 [sel SEL_SUKAUTOMAN_002_0_0 top]
 [s]Estou ocupado.[e]
@@ -560,7 +560,7 @@
 
 [msg MSG_SUKAUTOMAN_004_0_0 [Vendedor ambulante suspeito]]
 [s][f 4 23 1 8 12 10 3 10][vp 8 2 1 0 8 0]Você aí! Você não é o clássico[n]plebeu, certo? Você[n]percebe isso na caminhada![n][w][e]
-[s][vp 8 2 1 0 8 0]Você é um Ladrão Fantasma, não é?[n]Eles estão indo bem ultimamente! Descubra[n]mais... depois do comercial![n][w][e]
+[s][vp 8 2 1 0 8 0]Você é um Phantom Thief, não é?[n]Eles estão indo bem ultimamente! Descubra[n]mais... depois do comercial![n][w][e]
 
 [sel SEL_SUKAUTOMAN_004_0_0 top]
 [s]Como você sabe?[e]
@@ -571,7 +571,7 @@
 [s][f 4 23 1 8 12 10 3 10][vp 8 2 1 0 8 0]Haha, uau! Que brincalhão![n]Você é fã de[n]Phantom Thieves, certo?[n][w][e]
 
 [msg MSG_SUKAUTOMAN_004_2_0 [Vendedor ambulante suspeito]]
-[s][f 4 23 1 8 12 10 3 10][vp 8 2 1 0 8 0]Hã? Tu não és? Bem, para mim[n]você tem mais de uma chance de[n]tornar-se um Ladrão Fantasma![n][w][e]
+[s][f 4 23 1 8 12 10 3 10][vp 8 2 1 0 8 0]Hã? Tu não és? Bem, para mim[n]você tem mais de uma chance de[n]tornar-se um Phantom Thief![n][w][e]
 
 [msg MSG_SUKAUTOMAN_004_3_0 [Vendedor ambulante suspeito]]
 [s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]Cá entre nós...[n]Você sabia que os Phantom Thieves[n]estão recrutando?[n][w][e]
@@ -583,11 +583,11 @@
 
 [msg MSG_SUKAUTOMAN_004_4_0 [Vendedor ambulante suspeito]]
 [s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]Uau!?! Não se dê muito ar! Eu me iludi por um[n]momento![n][w][e]
-[s][vp 8 2 1 0 8 0]Garoto idiota, saia![n]Como se alguém como você pudesse[n]tornar-se um Ladrão Fantasma![n][w][e]
+[s][vp 8 2 1 0 8 0]Garoto idiota, saia![n]Como se alguém como você pudesse[n]tornar-se um Phantom Thief![n][w][e]
 
 [msg MSG_SUKAUTOMAN_004_5_0 [Vendedor ambulante suspeito]]
 [s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]Então, qual é a sua resposta?[n]Vamos descobrir depois do comercial![n]Este... comercial...[n][w][e]
-[s][vp 8 2 1 0 8 0]Tsk. Garoto idiota, saia![n]Como se alguém como você pudesse[n]tornar-se um Ladrão Fantasma![n][w][e]
+[s][vp 8 2 1 0 8 0]Tsk. Garoto idiota, saia![n]Como se alguém como você pudesse[n]tornar-se um Phantom Thief![n][w][e]
 
 [msg MSG_SUKAUTOMAN_005_0_0 [Vendedor ambulante suspeito]]
 [s][f 4 23 1 8 12 10 3 10][vp 8 2 1 0 8 0]Uau! Que brilho! Eu tenho procurado por talentos[n]por uma vida inteira, mas nunca vi alguém[n]brilhar como você![n][w][e]
@@ -611,7 +611,7 @@
 
 [msg MSG_SUKAUTOMAN_006_0_0 [Vendedor ambulante suspeito]]
 [s][f 4 23 1 8 12 10 3 10][vp 8 2 1 0 8 0]Ei, pare aí! Você precisa ouvir o que eu tenho a[n]dizer![n][w][e]
-[s][vp 8 2 1 0 8 0]É a sua chance de conhecer[n]esses super-heróis misteriosos,[n]os "Ladrões Fantasmas"! Isso te provoca?[n][w][e]
+[s][vp 8 2 1 0 8 0]É a sua chance de conhecer[n]esses super-heróis misteriosos,[n]os "Phantom Thieves"! Isso te provoca?[n][w][e]
 
 [sel SEL_SUKAUTOMAN_006_1_0 top]
 [s]Estou com pressa.[e]
@@ -619,7 +619,7 @@
 
 [msg MSG_SUKAUTOMAN_006_2_0 [Vendedor ambulante suspeito]]
 [s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]Relaxe, isso vai demorar um pouco.[n]Apenas alguns segundos, ok?[n][w][e]
-[s][vp 8 2 1 0 8 0]Celebramos a queda de Medjed com[n]a festa: Uma noite[n]Conversar com os Ladrões Fantasmas.[n][w][e]
+[s][vp 8 2 1 0 8 0]Celebramos a queda de Medjed com[n]a festa: Uma noite[n]Conversar com os Phantom Thieves.[n][w][e]
 [s][vp 8 2 1 0 8 0]Claro, também haverá os[n]Phantom Thieves! Será um jantar fabuloso[n]a um preço ridículo![n][w][e]
 
 [sel SEL_SUKAUTOMAN_006_3_0 top]
@@ -653,7 +653,7 @@
 [s]Mas quem cai nessa?[e]
 
 [msg MSG_SUKAUTOMAN_007_5_0 [Vendedor ambulante suspeito]]
-[s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]Não fique convencido, garoto.[n]Eu não sou um Ladrão Fantasma, mas[n]posso fazer você implorar por misericórdia![n][w][e]
+[s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]Não fique convencido, garoto.[n]Eu não sou um Phantom Thief, mas[n]posso fazer você implorar por misericórdia![n][w][e]
 
 [msg MSG_SUKAUTOMAN_008_0_0 [Vendedor ambulante suspeito]]
 [s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]Oh vamos lá! Não há necessidade de[n]temer por ter[n]recebido uma carta de aviso![n][w][e]
@@ -718,7 +718,7 @@
 [s][vp 8 2 1 0 8 0]... Tsk. Crianças não mordem a isca.[n]Acho que só um idiota[n]cairia nessa...[n][w][e]
 
 [msg MSG_SUKAUTOMAN_012_2_0 [Vendedor ambulante suspeito]]
-[s][f 4 23 1 8 12 10 3 10][vp 8 2 1 0 8 0]Nããão! Eu não quero que você[n]destrua meu cérebro! Pai![n]Pai, ajuda-meeeee![n][w][e]
+[s][f 4 23 1 8 12 10 3 10][vp 8 2 1 0 8 0]Nããão! Eu não quero que você[n]destrua meu cérebro! Pai![n]Pai, ajude-meeeee![n][w][e]
 [s][vp 8 2 1 0 8 0]Heheh, posando como Thief[n]Phantom em tal período?[n]Eles são fugitivos covardes.[n][w][e]
 [s][vp 8 2 1 0 8 0]Eu apenas tento recuperar o dinheiro[n]de idiotas dispostos a jogá-lo fora.[n]Eles deveriam fazer uma estátua para mim.[n][w][e]
 
@@ -748,7 +748,7 @@
 [s][f 4 23 1 8 12 10 3 10][vp 8 2 1 0 8 0]Aaah, você é um cara cauteloso, hein![n]Mas a verdade é que você não tem[n]uma opinião sobre isso, não é?[n][w][e]
 
 [msg MSG_SUKAUTOMAN_014_3_0 [Vendedor ambulante suspeito]]
-[s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]De qualquer forma, você quer se tornar um ladrão[n]fantasma com este kit de sequestro de ondas de[n]rádio?[n][w][e]
+[s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]De qualquer forma, você quer se tornar um Phantom[n]Thief com este kit de sequestro de ondas de[n]rádio?[n][w][e]
 
 [msg MSG_SUKAUTOMAN_015_0_0 [Vendedor ambulante suspeito]]
 [s][vp 8 2 1 0 8 0]Shinjuku é um caso perdido. A mudança[n]de governo tornará essa área[n]mais regulamentada.[n][w][e]
@@ -846,7 +846,7 @@
 
 [msg MSG_GEINOUDON_006_4_0 [Menina sonhadora]]
 [s][f 4 23 1 12 3 10 0 10][vp 8 2 1 0 12 0]Sim...Você está certo, Sr. Asakura.[n]Eu tenho que fazer o meu melhor para[n]realizar nosso sonho.[n][w][e]
-[s][vp 8 2 1 0 12 0]OK! Eu farei![n][w][e]
+[s][vp 8 2 1 0 12 0]Ok! Eu farei![n][w][e]
 
 [msg MSG_GEINOUDON_007_0_0 [Veterano do show business]]
 [s][vp 8 2 1 0 11 0]Como foi o jantar com os figurões de Okumura?[n]Deixe-me ter fotos do nosso "talento".[n][w][e]
@@ -1288,7 +1288,7 @@
 [s][vp 9 2 65535 43654 0 0]Você não conhece os[n]Phantom Thieves? Você está brincando,[n]é?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_015_06_ [Menina sonhadora]]
-[s][vp 9 2 65535 41906 0 0]Eles estão fazendo um[n]Especial dos Ladrões Fantasmas![n][f 1 2 180][e]
+[s][vp 9 2 65535 41906 0 0]Eles estão fazendo um[n]Especial dos Phantom Thieves![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_015_07_ [Menina sonhadora]]
 [s][vp 9 2 65535 46306 0 0]Mercadoria de ladrões[n]Phantom vende como bolos quentes.[n][f 1 2 180][e]
@@ -1372,7 +1372,7 @@
 [s][vp 9 2 65535 39356 0 0]Espero que os Phantom Thieves[n]continuem mudando a sociedade![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_017_05_ [Menina sonhadora]]
-[s][vp 9 2 65535 43650 0 0]Eu me pergunto se os Ladrões Fantasmas[n]terão como alvo[n]Okumura Foods agora.[n][f 1 2 180][e]
+[s][vp 9 2 65535 43650 0 0]Eu me pergunto se os Phantom Thieves[n]terão como alvo[n]Okumura Foods agora.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_017_06_ [Menina sonhadora]]
 [s][vp 9 2 65535 39106 0 0]Os Phantom Thieves cuidarão disso![n][f 1 2 180][e]
@@ -1381,7 +1381,7 @@
 [s][vp 9 2 65535 41950 0 0]Tudo vai ficar bem![n]Os Phantom Thieves cuidarão disso![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_017_08_ [Menina sonhadora]]
-[s][vp 9 2 65535 40806 0 0]Continue mudando a sociedade e fazendo os ímpios[n]se arrependerem, Ladrões Fantasmas![n][f 1 2 180][e]
+[s][vp 9 2 65535 40806 0 0]Continue mudando a sociedade e fazendo os ímpios[n]se arrependerem, Phantom Thieves![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_017_09_ [Menina sonhadora]]
 [s][vp 9 2 65535 43906 0 0]Os Phantom Thieves nos ajudar[n]com tudo o que[n]não somos capazes de fazer.[n][f 1 2 180][e]
@@ -1393,13 +1393,13 @@
 [s][vp 9 2 65535 41400 0 0]Espero que os Phantom Thieves[n]continuem mudando a sociedade![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_018_01_ [Menina sonhadora]]
-[s][vp 9 2 65535 41051 0 0]Ensine uma lição a esse Okumura![n]Destrua-o, Ladrões Fantasmas![n][f 1 2 180][e]
+[s][vp 9 2 65535 41051 0 0]Ensine uma lição a esse Okumura![n]Destrua-o, Phantom Thieves![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_018_02_ [Menina sonhadora]]
 [s][vp 9 2 65535 45903 0 0]Mal posso esperar para ver[n]Okumura implorar por misericórdia[n]no noticiário![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_018_12_ [Menina sonhadora]]
-[s][vp 9 2 65535 43403 0 0]Ensine uma lição a esse Okumura![n]Destrua-o, Ladrões Fantasmas![n][f 1 2 180][e]
+[s][vp 9 2 65535 43403 0 0]Ensine uma lição a esse Okumura![n]Destrua-o, Phantom Thieves![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_018_03_ [Menina sonhadora]]
 [s][vp 9 2 65535 43503 0 0]Eu sabia que eles iriam atingir[n]Okumura! Muito bem, Ladrões![n][f 1 2 180][e]
@@ -1429,7 +1429,7 @@
 [s][vp 9 2 65535 37650 0 0]Aquele CEO obscuro merece[n]ser alvo[n]pelos Phantom Thieves![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_019_01_ [Menina sonhadora]]
-[s][vp 9 2 65535 41757 0 0]Mas quem mandou você matá-lo!?![n]Você foi longe demais,[n]Ladrões Fantasmas![n][f 1 2 180][e]
+[s][vp 9 2 65535 41757 0 0]Mas quem mandou você matá-lo!?![n]Você foi longe demais,[n]Phantom Thieves![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_019_02_ [Menina sonhadora]]
 [s][vp 9 2 65535 43801 0 0]Foi um movimento implacável...[n]Isso realmente me traumatizou...[n]Estou lutando para dormir agora.[n][f 1 2 180][e]
@@ -1474,13 +1474,13 @@
 [s][vp 9 2 65535 43407 0 0]Quanto mais[n]temos que viver com[n]medo dos Phantom Thieves?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_020_03_ [Menina sonhadora]]
-[s][vp 9 2 65535 43555 0 0]Esses ladrões fantasmas devem[n]ser parados. Eu não quero[n]morrer...[n][f 1 2 180][e]
+[s][vp 9 2 65535 43555 0 0]Esses Phantom Thieves devem[n]ser parados. Eu não quero[n]morrer...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_020_04_ [Menina sonhadora]]
 [s][vp 9 2 65535 45907 0 0]Quanto tempo mais os[n]Phantom Thieves ficarão soltos?[n]Apresse-se e faça algo a respeito![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_020_05_ [Menina sonhadora]]
-[s][vp 9 2 65535 43657 0 0]Não podemos permitir que[n]Ladrões Fantasmas andem[n]livremente. Alguém os pare![n][f 1 2 180][e]
+[s][vp 9 2 65535 43657 0 0]Não podemos permitir que[n]Phantom Thieves andem[n]livremente. Alguém os pare![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_020_06_ [Menina sonhadora]]
 [s][vp 9 2 65535 40302 0 0]Todos esses ataques que estão[n]acontecendo são realmente[n]assustadores...[n][f 1 2 180][e]
@@ -1495,7 +1495,7 @@
 [s][vp 9 2 65535 39802 0 0]Esses ataques são realmente muito perigosos.[n]Alguém descobriu como pará-los?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_020_10_ [Menina sonhadora]]
-[s][vp 9 2 65535 42057 0 0]Alguém tem que intervir e[n]parar aqueles Ladrões Fantasmas![n][f 1 2 180][e]
+[s][vp 9 2 65535 42057 0 0]Alguém tem que intervir e[n]parar aqueles Phantom Thieves![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_020_11_ [Menina sonhadora]]
 [s][vp 9 2 65535 44451 0 0]Por que eles não estão pensando[n]em um plano para pegá-los!?![n][f 1 2 180][e]
@@ -1513,7 +1513,7 @@
 [s][vp 9 2 65535 43504 0 0]Se eu tivesse encontrado alguma[n]informação sobre os Phantom Thieves,[n]eu teria ficado rico...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_021_04_ [Menina sonhadora]]
-[s][vp 9 2 65535 43611 0 0]Ladrões fantasmas, hein? Quer saber?[n]Acho que o esconderijo[n]é aqui em algum lugar![n][f 1 2 180][e]
+[s][vp 9 2 65535 43611 0 0]Phantom Thieves, hein? Quer saber?[n]Acho que o esconderijo[n]é aqui em algum lugar![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_021_05_ [Menina sonhadora]]
 [s][vp 9 2 65535 45571 0 0]Pegue esses Phantom Thieves.[n]Eu não me importo como[n]você faz isso.[n][f 1 2 180][e]
@@ -1600,10 +1600,10 @@
 [s][vp 9 2 65535 45252 0 0]Esses ataques estão acontecendo[n]mais e com mais frequência.[n]Alguém tem que intervir...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_023_09_ [Menina sonhadora]]
-[s][vp 9 2 65535 43901 0 0]Quando eles vão prender[n]aqueles Ladrões Fantasmas!?![n][f 1 2 180][e]
+[s][vp 9 2 65535 43901 0 0]Quando eles vão prender[n]aqueles Phantom Thieves!?![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_023_10_ [Menina sonhadora]]
-[s][vp 9 2 65535 38457 0 0]Alguém tem que intervir e[n]parar aqueles Ladrões Fantasmas![n][f 1 2 180][e]
+[s][vp 9 2 65535 38457 0 0]Alguém tem que intervir e[n]parar aqueles Phantom Thieves![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_023_11_ [Menina sonhadora]]
 [s][vp 9 2 65535 37952 0 0]É assustador o aumento[n]que houve nesses ataques[n]recentemente...[n][f 1 2 180][e]
@@ -1648,7 +1648,7 @@
 [s][vp 9 2 65535 40052 0 0]Ele cometeu suicídio imediatamente após[n]ser preso? As coisas são[n]degeneradas rapidamente...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_025_03_ [Menina sonhadora]]
-[s][vp 9 2 65535 38404 0 0]Aquele Ladrão Fantasma[n]realmente cometeu suicídio no[n]mesmo dia de sua prisão?[n][f 1 2 180][e]
+[s][vp 9 2 65535 38404 0 0]Aquele Phantom Thief[n]realmente cometeu suicídio no[n]mesmo dia de sua prisão?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_025_04_ [Menina sonhadora]]
 [s]0[n][f 1 2 180][e]
@@ -1672,7 +1672,7 @@
 [s][vp 9 2 65535 45302 0 0]Aposto que ele já[n]planejou cometer suicídio se[n]foi pego.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_025_11_ [Menina sonhadora]]
-[s][vp 9 2 65535 43604 0 0]Aquele Ladrão Fantasma pensou que[n]se matar compensaria[n]tudo o que ele fez?[n][f 1 2 180][e]
+[s][vp 9 2 65535 43604 0 0]Aquele Phantom Thief pensou que[n]se matar compensaria[n]tudo o que ele fez?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_026_01_ [Menina sonhadora]]
 [s][vp 9 2 65535 41953 0 0]Ninguém é páreo para[n]Rep Shido.[n][f 1 2 180][e]
@@ -1762,7 +1762,7 @@
 [s][vp 9 2 65535 44055 0 0]Mas quem se importa mais com[n]Phantom Thieves?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_028_06_ [Menina sonhadora]]
-[s][vp 9 2 65535 39755 0 0]Shido negou tudo, então[n]aqueles ladrões fantasmas são[n]apenas um contador de mentiras...[n][f 1 2 180][e]
+[s][vp 9 2 65535 39755 0 0]Shido negou tudo, então[n]aqueles Phantom Thieves são[n]apenas um contador de mentiras...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_028_07_ [Menina sonhadora]]
 [s][vp 9 2 65535 43705 0 0]Eu não me importo mais com quem[n]está certo ou errado...[n][f 1 2 180][e]
@@ -2146,7 +2146,7 @@
 [s][f 4 23 1 18 3 10 0 10][vp 8 2 1 0 18 0]Quase todos os bandidos desapareceram de Shibuya,[n]então vou pendurar a área para alguns passeios[n]extras.[n][w][e]
 
 [msg MSG_TAXIUNTENSYU_003_1_0 [Taxista]]
-[s][f 4 23 1 17 3 10 0 10][vp 8 2 1 0 17 0]Aqueles "Ladrões Fantasmas" acabaram com os[n]criminosos, não é? O que são eles? De[n]super-heróis?[n][w][e]
+[s][f 4 23 1 17 3 10 0 10][vp 8 2 1 0 17 0]Aqueles "Phantom Thieves" acabaram com os[n]criminosos, não é? O que são eles? De[n]super-heróis?[n][w][e]
 
 [msg MSG_TAXIUNTENSYU_003_2_0 [Taxista de óculos]]
 [s][f 4 23 1 18 3 10 0 10][vp 8 2 1 0 18 0]Um dos meus clientes, um rapaz[n]bastante jovem, disse que[n]eles são mais confiáveis do que a polícia.[n][w][e]
@@ -2210,7 +2210,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Vamos, vamos procurar essa mulher![n][w][e]
 
 [msg quest16_hint_talk_01_00 [Funcionário preocupado]]
-[s][f 4 23 1 603 3 10 0 10][vp 8 2 1 0 603 0]Os Ladrões Fantasmas fizeram isso![n]Aparentemente, Kamata-san[n]implorou para ele perdoá-la![n][w][e]
+[s][f 4 23 1 603 3 10 0 10][vp 8 2 1 0 603 0]Os Phantom Thieves fizeram isso![n]Aparentemente, Kamata-san[n]implorou para ele perdoá-la![n][w][e]
 
 [msg quest16_hint_talk_01_01 [Funcionário frustrado]]
 [s][f 4 23 1 602 3 10 0 10][vp 8 2 1 0 602 0]É uma loucura que você realmente tenha pedido[n]ajuda a ele. E que eles realmente intervieram![n][w][e]
@@ -2239,7 +2239,7 @@
 [s][vp 8 2 1 0 602 0]Comprei roupas novas para mim[n]e arrumei minhas unhas para você,[n]Ma-kun! Você é um babaca![n][w][e]
 
 [msg Quest16_target_00_03 [Namorado exausto]]
-[s][f 4 23 1 603 3 10 0 10][vp 8 2 1 0 603 0]OK, tudo bem...[n]E se cortarmos?[n][w][e]
+[s][f 4 23 1 603 3 10 0 10][vp 8 2 1 0 603 0]Ok, tudo bem...[n]E se cortarmos?[n][w][e]
 
 [msg Quest16_target_00_04 [Tomoko Kamata]]
 [s][f 4 23 1 602 3 10 0 10][vp 8 2 1 0 602 0]Você é incrível. Deve ser o[n]namorado que paga o jantar.[n][w][e]
@@ -2527,7 +2527,7 @@
 [s][f 4 23 1 23 3 10 0 10][vp 8 2 1 0 23 0]Você já ouviu falar sobre Madarame e os[n]Phantom Thieves of Hearts?[n][w][e]
 
 [msg MSG_BENGOSHI_001_1_0 [Bom advogado]]
-[s][f 4 23 1 22 3 10 0 10][vp 8 2 1 0 22 0]Os ladrões fantasmas, hein? Eles devem[n]ser perfeitos se[n]enviarem cartas de desafio.[n][w][e]
+[s][f 4 23 1 22 3 10 0 10][vp 8 2 1 0 22 0]Os Phantom Thieves, hein? Eles devem[n]ser perfeitos se[n]enviarem cartas de desafio.[n][w][e]
 [s][vp 8 2 1 0 22 0]Eles dizem que ainda não[n]descobriram nenhuma evidência sobre eles.[n]Quem sabe o que vai acontecer.[n][w][e]
 
 [msg MSG_BENGOSHI_001_2_0 [Advogado sério]]
@@ -2552,8 +2552,8 @@
 [s][f 4 23 1 23 3 10 0 10][vp 8 2 1 0 23 0]E graças à rede, agora todo mundo sabe[n]que a polícia é só falar[n]e distintivo.[n][w][e]
 
 [msg MSG_BENGOSHI_003_2_0 [Bom advogado]]
-[s][f 4 23 1 22 3 10 0 10][vp 8 2 1 0 22 0]Agora que a polícia perdeu[n]seus rostos, a mídia de massa vai pular[n]no movimento dos Ladrões Fantasmas.[n][w][e]
-[s][vp 8 2 1 0 22 0]Os ladrões fantasmas, hein? Parece que[n]as coisas logo ficarão muito[n]interessantes para nós.[n][w][e]
+[s][f 4 23 1 22 3 10 0 10][vp 8 2 1 0 22 0]Agora que a polícia perdeu[n]seus rostos, a mídia de massa vai pular[n]no movimento dos Phantom Thieves.[n][w][e]
+[s][vp 8 2 1 0 22 0]Os Phantom Thieves, hein? Parece que[n]as coisas logo ficarão muito[n]interessantes para nós.[n][w][e]
 
 [msg MSG_BENGOSHI_004_0_0 [Advogado sério]]
 [s][f 4 23 1 23 3 10 0 10][vp 8 2 1 0 23 0]Como vai? Você estará bastante[n]sobrecarregado hoje em dia.[n][w][e]
@@ -2583,7 +2583,7 @@
 
 [msg MSG_BENGOSHI_006_1_0 [Bom advogado]]
 [s][f 4 23 1 22 3 10 0 10][vp 8 2 1 0 22 0]Polícia, promotores e governo estão em pé de[n]guerra, na tentativa de encontrar os Phantom[n]Thieves.[n][w][e]
-[s][vp 8 2 1 0 22 0]Pode não demorar muito para ver aqueles Ladrões[n]Fantasmas finalmente algemados.[n][w][e]
+[s][vp 8 2 1 0 22 0]Pode não demorar muito para ver aqueles Phantom[n]Thieves finalmente algemados.[n][w][e]
 
 [msg MSG_BENGOSHI_007_0_0 [Bom advogado]]
 [s][f 4 23 1 22 3 10 0 10][vp 8 2 1 0 22 0]Você acha que os Phantom Thieves vão[n]caçar[n]Okumura?[n][w][e]
@@ -2630,7 +2630,7 @@
 [s][vp 8 2 1 0 23 0]Essa história atingiu até o[n]governo. Duvido que a polícia[n]possa ficar parada.[n][w][e]
 
 [msg MSG_BENGOSHI_012_0_0 [Advogado sério]]
-[s][f 4 23 1 23 3 10 0 10][vp 8 2 1 0 23 0]Suponha que os ladrões fantasmas sejam pegos. O[n]que você faria se eles o quisessem como advogado?[n][w][e]
+[s][f 4 23 1 23 3 10 0 10][vp 8 2 1 0 23 0]Suponha que os Phantom Thieves sejam pegos. O[n]que você faria se eles o quisessem como advogado?[n][w][e]
 
 [msg MSG_BENGOSHI_012_1_0 [Bom advogado]]
 [s][f 4 23 1 22 3 10 0 10][vp 8 2 1 0 22 0]Eu diria que sim instantaneamente. Você sabe que[n]eu não gosto de misturar emoções com meu[n]trabalho, mas...[n][w][e]

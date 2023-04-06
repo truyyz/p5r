@@ -25,7 +25,7 @@
 [s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Aliás, um dia a gente[n]cresce e casa também, né?[n][f 1 3 65535][w][e]
 
 [msg MSG_006_5_0 [Haru]]
-[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Acho que vou querer celebrar[n]meu casamento aqui. E convidarei todos os[n]outros Ladrões Fantasmas.[n][f 1 3 65535][w][e]
+[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Acho que vou querer celebrar[n]meu casamento aqui. E convidarei todos os[n]outros Phantom Thieves.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Afinal, se eu tivesse[n]minha vida de volta...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...é graças a você.[n][f 1 3 65535][w][e]
 

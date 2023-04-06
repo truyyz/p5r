@@ -23,7 +23,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Uma perda verdadeiramente dolorosa.[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Akechi]]
-[s][bup 0 9 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Foi por meio de seus esforços que eu[n]consegui entrar na sala de interrogatório do[n]Ladrão Fantasma.[n][f 1 3 65535][w][e]
+[s][bup 0 9 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Foi por meio de seus esforços que eu[n]consegui entrar na sala de interrogatório do[n]Phantom Thief.[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Shido]]
 [s][bup 0 206 1 0 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]O UIS está em desordem após sua morte. Nomearei[n]um sucessor somente após a eleição...[n][f 1 3 65535][w][e]

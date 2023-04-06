@@ -40,7 +40,7 @@
 [s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Conte com isso! Mas, ei! Para ser um noob, você[n]dá ordens demais![n][w][e]
 
 [msg e380_121_mes11 [Futaba]]
-[s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9171 65535 0]OK, estou equipando um quarto a[n]nosso favor, como Crow disse.[n][w][e]
+[s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9171 65535 0]Ok, estou equipando um quarto a[n]nosso favor, como Crow disse.[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]As outras salas deveriam[n]ter voltado ao[n]jogo tradicional.[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]De qualquer forma, marquei[n]nossa sala especial no mapa.[n]Certifique-se de usar essa![n][w][e]
 

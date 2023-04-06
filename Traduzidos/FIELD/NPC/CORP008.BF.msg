@@ -317,7 +317,7 @@
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 208 3 10 0 10]Ha ha, você é muito determinado.[n]Vamos ver como você se sai.[n][w][e]
 
 [msg MSG_C08_YES_07_00 [Akechi]]
-[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 208 3 10 0 10]OK, vamos então.[n][w][e]
+[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 208 3 10 0 10]Ok, vamos então.[n][w][e]
 
 [msg MSG_C08_YES_07_00_KCJ [Akechi]]
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 8030 65535 0][f 4 23 1 208 3 10 0 10]Vamos para Shibuya, então.[n][w][e]

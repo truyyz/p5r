@@ -170,7 +170,7 @@
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 69 65535 0]Acho que poderíamos aproveitar esse[n]dinheiro fazendo algo legal.[n][f 1 3 65535][w][e]
 
 [msg MSG_049_0_0 [Morgana]]
-[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 0 0 70 65535 0]Discussões entre Ladrões Fantasmas[n]devem ser conduzidas na frente[n]de um belo banquete. O que você acha?[n][f 1 3 65535][w][e]
+[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 0 0 70 65535 0]Discussões entre Phantom Thieves[n]devem ser conduzidas na frente[n]de um belo banquete. O que você acha?[n][f 1 3 65535][w][e]
 
 [msg MSG_050_0_0 [Ann]]
 [s][bup 0 4 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 71 65535 0]Ei, espere...[n][f 1 3 65535][w][e]
@@ -214,5 +214,5 @@
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 0 0 86 65535 0]Nós vamos pensar sobre isso. Conhecemos uma[n]loja que compra[n]tudo. Verdadeiro, [f 4 2]?[n][f 1 3 65535][w][e]
 
 [msg MSG_065_0_0 [Ann]]
-[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 87 65535 0]OK, vou deixar a honra para você.[n][f 1 3 65535][w][e]
+[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 87 65535 0]Ok, vou deixar a honra para você.[n][f 1 3 65535][w][e]
 

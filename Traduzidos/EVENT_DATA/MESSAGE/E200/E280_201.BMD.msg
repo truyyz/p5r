@@ -120,7 +120,7 @@
 [s][vp 8 0 0 0 65535 0][f 5 14]Estou pensando...[n][f 1 3 65535][w][e]
 
 [msg MSG_019_5_0 [Alibaba]]
-[s][vp 8 0 0 0 65535 0][f 5 14]OK. É uma pena, mas tenho que[n]cancelar o negócio. Não investigue[n]mais sobre Futaba Sakura.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 5 14]Ok. É uma pena, mas tenho que[n]cancelar o negócio. Não investigue[n]mais sobre Futaba Sakura.[n][f 1 3 65535][w][e]
 
 [msg MSG_019_6_0 [Alibaba]]
 [s][vp 8 0 0 0 65535 0][f 5 14]Esqueça essa história.[n]Não vou denunciá-lo[n]à polícia, não se preocupe.[n][f 1 3 65535][w][e]
@@ -138,7 +138,7 @@
 
 [sel SEL_021_5_0 top]
 [s][f 5 14]Ainda não terminamos.[e]
-[s]Porque?[e]
+[s]Por quê?[e]
 
 [msg MND_022_0_0]
 [s][vp 8 0 0 0 65535 0]Não posso enviar uma resposta a ele. Quando[n]tento, aparece uma mensagem de erro...[n][f 1 3 65535][w][e]
@@ -213,5 +213,5 @@
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 0 0 47 65535 0]Não. Eu quero sushi.[n][f 1 3 65535][w][e]
 
 [msg MSG_045_0_0 [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 49 65535 0]OK! Iremos amanhã à noite![n][f 1 3 65535][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 49 65535 0]Ok! Iremos amanhã à noite![n][f 1 3 65535][w][e]
 

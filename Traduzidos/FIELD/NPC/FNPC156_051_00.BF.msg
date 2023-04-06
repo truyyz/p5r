@@ -11,7 +11,7 @@
 
 [msg SAFE_MES_ryuzi2 [Ryuji]]
 [s][bup 0 2 101 0 0][f 4 10 65535 0 0][vp 8 2 1 7048 65535 0]Merda, foi tão estranho sem Mona...[n]eu não deveria ter falado com ele[n]assim.[n][w][e]
-[s][bup 0 2 104 0 0][f 4 10 65535 0 0]Oh, mas não diga a ele que eu disse isso,[n]OK? Seria embaraçoso.[n][w][e]
+[s][bup 0 2 104 0 0][f 4 10 65535 0 0]Oh, mas não diga a ele que eu disse isso,[n]Ok? Seria embaraçoso.[n][w][e]
 
 [msg SAFE_MES_ryuzi3 [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 7045 65535 0]Agora que temos o cartão de identificação do[n]Diretor Chefe, podemos[n]continuar.[n][w][e]

@@ -113,5 +113,5 @@
 [s][vp 1 0 0 0 0 0]Ele está muito focado no jogo.[n]Ele não me notou...[n][w][e]
 
 [msg MSG_TAKEKUMA_END [Takekuma]]
-[s][vp 8 2 1 0 780 0]OK, não faz sentido parar agora. Eu tenho que[n]continuar subindo de nível ![n][w][e]
+[s][vp 8 2 1 0 780 0]Ok, não faz sentido parar agora. Eu tenho que[n]continuar subindo de nível ![n][w][e]
 

@@ -3,7 +3,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Futaba e eu vamos[n]à igreja e gostaríamos que[n]você viesse também.[n][f 1 3 65535][w][e]
 
 [sel SEL_001_0_0 top]
-[s]Porque?[e]
+[s]Por quê?[e]
 [s]Ah, vocês são tipos religiosos?[e]
 [s]Que aborrecido...[e]
 

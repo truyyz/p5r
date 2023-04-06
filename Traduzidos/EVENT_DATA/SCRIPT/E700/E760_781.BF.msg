@@ -26,7 +26,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Faz sentido, já que você[n]aprendeu. Está bem. Vamos lá.[n][f 1 3 65535][w][e]
 
 [msg MND_203_6_0]
-[s][vp 8 2 0 0 65535 0]OK, isso deve tornar o jogo mais fácil...[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0]Ok, isso deve tornar o jogo mais fácil...[n][f 1 3 65535][w][e]
 
 [msg MSG_READ_BOOK_URAWAZA_NO [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Uau, você está animado! Bem, é isso![n][f 1 3 65535][w][e]
@@ -41,7 +41,7 @@
 [s][vp 8 2 0 59 65535 0]Eu deveria tentar[n]o curso de treinamento...[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]OK, vamos praticar golpear[n]na distância normal.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Ok, vamos praticar golpear[n]na distância normal.[n][f 1 3 65535][w][e]
 
 [msg MND_017_1_0]
 [s][vp 8 2 0 0 65535 0]Começa com o treinamento[n]para atirar em alcance normal...[n][f 1 3 65535][w][e]
@@ -105,7 +105,7 @@
 
 [msg MSG_200_0_0 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 1165 65535 0]Oh, próximo buraco[n]é um par 3.[n][f 1 3 65535][w][e]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]...Tente completá-lo[n]em três acertos, OK?[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]...Tente completá-lo[n]em três acertos, Ok?[n][f 1 3 65535][w][e]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Lembre-se, o primeiro tiro é crucial.[n]Mire bem.[n][f 1 3 65535][w][e]
 
 [msg MND_200_1_0]
@@ -203,7 +203,7 @@
 
 [msg MSG_300_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1163 65535 0]Este percurso tem 330 metros de comprimento.[n]É pelo menos um "par 4".[n][f 1 3 65535][w][e]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Tente completá-lo[n]em quatro hits, OK?[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Tente completá-lo[n]em quatro hits, Ok?[n][f 1 3 65535][w][e]
 
 [msg MND_300_1_0]
 [s][vp 8 2 0 23 65535 0]Este é um percurso...[n]de 330 metros. É um buraco par 4...[n][f 1 3 65535][w][e]
@@ -280,7 +280,7 @@
 [s][vp 8 2 0 0 65535 0]A bola passou por cima do buraco...[n]e caiu na areia.[n][f 1 3 65535][w][e]
 
 [msg MSG_304_0_0 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]OK, estamos de volta no meio[n]do caminho. Você ainda tem[n]dois tiros restantes...[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Ok, estamos de volta no meio[n]do caminho. Você ainda tem[n]dois tiros restantes...[n][f 1 3 65535][w][e]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Você nunca será capaz de completar[n]este percurso se não alcançar[n]o green com esta tacada...[n][f 1 3 65535][w][e]
 
 [msg MND_304_1_0]
@@ -300,7 +300,7 @@
 [s][vp 8 2 0 0 65535 0]A distância não era suficiente...[n][f 1 3 65535][w][e]
 
 [msg MSG_307_0_0 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]OK, quarta foto...[n]É a última disponível. Você irá[n]apontar diretamente para o buraco...![n][f 1 3 65535][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Ok, quarta foto...[n]É a última disponível. Você irá[n]apontar diretamente para o buraco...![n][f 1 3 65535][w][e]
 
 [msg MND_307_1_0]
 [s][vp 8 2 0 0 65535 0]É meu quarto e último tiro...[n]Tenho que mirar com cuidado...[n][f 1 3 65535][w][e]
@@ -344,7 +344,7 @@
 [s][vp 8 2 0 0 65535 0]É o curso especializado...[n]Tenho que completá-lo em cinco acessos.[n][f 1 3 65535][w][e]
 
 [msg MSG_401_0_0 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]OK, vá devagar.[n]Afinal, é apenas o primeiro tiro.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Ok, vá devagar.[n]Afinal, é apenas o primeiro tiro.[n][f 1 3 65535][w][e]
 
 [msg MND_401_1_0]
 [s][vp 8 2 0 0 65535 0]É minha primeira chance...[n][f 1 3 65535][w][e]
@@ -394,7 +394,7 @@
 [s][vp 8 2 0 0 65535 0]Ela saiu da pista e[n]caiu na grama alta...[n][f 1 3 65535][w][e]
 
 [msg MSG_406_0_0 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Tenha cuidado com este tiro,[n]OK? O green está logo ali na frente.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Tenha cuidado com este tiro,[n]Ok? O green está logo ali na frente.[n][f 1 3 65535][w][e]
 
 [msg MND_406_1_0]
 [s][vp 8 2 0 0 65535 0]Quem sabe se consigo[n]enviar para o green...[n][f 1 3 65535][w][e]

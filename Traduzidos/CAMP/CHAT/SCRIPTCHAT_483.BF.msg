@@ -11,7 +11,7 @@
 [s][f 5 14]Você está livre agora, não está?[n][f 5 15][w][e]
 
 [msg CHAT_REACTION_01 [Ryuji]]
-[s][f 5 14]OK! Aguardo você.[n]Vamos começar com três séries.[n][w][e]
+[s][f 5 14]Ok! Aguardo você.[n]Vamos começar com três séries.[n][w][e]
 
 [msg CHAT_REACTION_02 [Ryuji]]
 [s][f 5 14]E depois do treino[n]nós atiramos em alguns ramen![n][w][e]

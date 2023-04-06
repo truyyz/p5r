@@ -24,7 +24,7 @@
 
 [sel SEL_007_0_0 top]
 [s]Eu acredito que você esteja certo.[e]
-[s]Porque?[e]
+[s]Por quê?[e]
 [s]O que você tem feito?[e]
 
 [msg MSG_008_0_0 [Ryuji]]

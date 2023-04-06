@@ -25,7 +25,7 @@
 [s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]O logotipo também é um pouco decepcionante.[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Ryuji]]
-[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]OK, você sabe o que? I-Isso não é verdade![n][f 1 3 65535][w][e]
+[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Ok, você sabe o que? I-Isso não é verdade![n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Aluno tímido]]
 [s][vp 8 0 0 14 10 0]O Prof. Kamoshida fez[n]algo errado...?[n][f 1 3 65535][w][e]

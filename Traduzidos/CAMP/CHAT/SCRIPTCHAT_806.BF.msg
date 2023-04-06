@@ -34,7 +34,7 @@
 [s][f 5 14]Obrigada.[n][w][e]
 
 [msg MSG_REACTION_02 [Haru]]
-[s][f 5 14]OK, me encontre na frente do[n]cinema Shinjuku![n][f 5 15][w][e]
+[s][f 5 14]Ok, me encontre na frente do[n]cinema Shinjuku![n][f 5 15][w][e]
 
 [msg ERROR_MSG_000_0_0 [Sojiro]]
 [s][bup 0 103 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ei, estou abrindo uma loja.[n]Você se importaria de parar[n]de jogar no seu telefone?[n][w][e]

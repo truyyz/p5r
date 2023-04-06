@@ -36,7 +36,7 @@
 [s][bup 0 5 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Ryuji, chame um táxi![n]I...[n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Yusuke]]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]OK, peguei a placa do carro.[n]Minha destreza com caneta e papel[n]foi útil.[n][f 1 3 65535][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Ok, peguei a placa do carro.[n]Minha destreza com caneta e papel[n]foi útil.[n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [Ryuji]]
 [s][bup 0 2 5 65535 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Oh merda, ele me ignorou![n][f 1 3 65535][w][e]

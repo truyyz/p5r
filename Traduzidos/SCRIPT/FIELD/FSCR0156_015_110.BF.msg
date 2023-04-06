@@ -23,12 +23,12 @@
 [s]ENTÃO QUEM ÉS TU?[n][w][e]
 
 [sel D05_02_e341_036_ng_selB top]
-[s]Nós somos os Ladrões Fantasmas.[e]
+[s]Nós somos os Phantom Thieves.[e]
 [s]Nós somos servos.[e]
 [s]Somos representantes.[e]
 
 [msg D05_02_e341_036_ng_selB_ [???]]
-[s]OS LADRÕES FANTASMAS?[n]VOCÊ TEM BOA CORAGEM.[n][w][e]
+[s]OS PHANTOM THIEVES?[n]VOCÊ TEM BOA CORAGEM.[n][w][e]
 [s]VOCÊ ACHA QUE AO ME DIZER[n]VOCÊ TERÁ MEU PERDÃO? EU[n]LEVO VOCÊ PARA FORA IMEDIATAMENTE![n][w][e]
 
 [msg D05_02_e341_036_ng_selB__2 [Makoto]]
@@ -54,7 +54,7 @@
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1174 65535 0]Certo, melhor evitar outras[n]discussões. Vamos separá-lo![n][w][e]
 
 [msg D05_02_e341_036_ng_selC__2 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1166 65535 0]Então você prefere não[n]lutar? OK, vamos nos aposentar![n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1166 65535 0]Então você prefere não[n]lutar? Ok, vamos nos aposentar![n][w][e]
 
 [msg D05_02_e341_036_ng_selC__3 [???]]
 [s]E-EI, VOLTE AQUI![n]VOCÊ NÃO PODE SAIR[n]SEM MINHA PERMISSÃO![n][w][e]

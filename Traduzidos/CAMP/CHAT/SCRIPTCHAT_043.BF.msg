@@ -8,7 +8,7 @@
 [s][f 5 14]A porta principal.[n][w][e]
 
 [msg MSG_004_0_0 [Futaba]]
-[s][f 5 14]E porque?[n][w][e]
+[s][f 5 14]E por quê?[n][w][e]
 
 [msg MSG_005_0_0 [Makoto]]
 [s][f 5 14]Você não vem também, [f 4 2]?[n]Estamos na frente da casa do Futaba.[n][w][e]

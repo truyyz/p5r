@@ -16,7 +16,7 @@
 [s][f 5 14]Talvez seja o caso de você me deixar[n]terminar antes de torcer.[n][w][e]
 
 [msg MSG_005_0_0 [Yusuke]]
-[s][f 5 14]E porque?[n][w][e]
+[s][f 5 14]E por quê?[n][w][e]
 
 [sel SEL_006_0_0 top]
 [s][f 5 14]O que há por baixo?[e]
@@ -99,7 +99,7 @@
 
 [sel SEL_027_0_0 top]
 [s][f 5 14]Então foi uma farsa?[e]
-[s]Porque você fez isso?[e]
+[s]Por que você fez isso?[e]
 
 [msg MSG_028_0_0 [Akechi]]
 [s][f 5 14]Este é o meu alerta[n]para todos vocês.[n][w][e]

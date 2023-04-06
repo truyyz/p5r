@@ -206,7 +206,7 @@
 
 [msg MSG_050_0_0 [Kasumi]]
 [s][bup 0 10 203 65535 0][f 4 10 65535 0 0][vp 8 0 0 65 65535 0]Hã? Está desligado... Desculpe, mas[n]meu smartphone tem apresentado problemas[n]ultimamente.[n][f 1 3 65535][w][e]
-[s][bup 0 10 200 65535 0][f 4 10 65535 0 0][f 4 24 0 4 6 59 5 100][vp 8 0 0 66 65535 0]Ah, ele se recuperou! OK, entrarei em contato com[n]você assim que tiver algum tempo livre se[n]estiver tudo bem para você![n][f 1 3 65535][w][e]
+[s][bup 0 10 200 65535 0][f 4 10 65535 0 0][f 4 24 0 4 6 59 5 100][vp 8 0 0 66 65535 0]Ah, ele se recuperou! Ok, entrarei em contato com[n]você assim que tiver algum tempo livre se[n]estiver tudo bem para você![n][f 1 3 65535][w][e]
 
 [msg MSG_051_0_0 [Makoto]]
 [s][bup 0 6 200 65535 0][f 4 10 65535 0 0][vp 8 0 0 67 65535 0]Atenção, alunos Shujin:[n]a grande limpeza terminará[n]em breve.[n][f 1 3 65535][w][e]

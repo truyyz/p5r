@@ -43,7 +43,7 @@
 [s][f 5 14]Então iremos[n]depois de amanhã![n][w][e]
 
 [msg MSG_014_0_0 [Makoto]]
-[s][f 5 14]Mas se você não quiser, avise-nos, Futaba.[n]OK?[n][w][e]
+[s][f 5 14]Mas se você não quiser, avise-nos, Futaba.[n]Ok?[n][w][e]
 
 [msg MSG_015_0_0 [Futaba]]
 [s][f 5 14][f 5 15]Tudo está bem. Eu posso fazer isso.[n][w][e]

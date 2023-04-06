@@ -75,7 +75,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E agradeço sua[n]ajuda hoje.[n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [Yoshida]]
-[s][bup 0 112 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...OK, é isso por hoje.[n][f 1 3 65535][w][e]
+[s][bup 0 112 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Ok, é isso por hoje.[n][f 1 3 65535][w][e]
 
 [msg MSG_025_0_0 [Detrator de Yoshida]]
 [s][vp 8 0 0 0 65535 0]Vocês dois são incríveis...[n][f 1 3 65535][w][e]

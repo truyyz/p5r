@@ -27,7 +27,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu tenho que te agradecer, minha[n]doce cobaia.[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Takemi]]
-[s][bup 0 108 500 65535 0][f 4 10 65535 0 0][vp 8 2 0 14061 65535 0]OK, tire a roupa.[n]Vamos começar.[n][f 1 3 65535][w][e]
+[s][bup 0 108 500 65535 0][f 4 10 65535 0 0][vp 8 2 0 14061 65535 0]Ok, tire a roupa.[n]Vamos começar.[n][f 1 3 65535][w][e]
 
 [msg MSG_006_5_0 [Takemi]]
 [s][bup 0 108 501 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Relaxe, estou brincando.[n][f 1 3 65535][w][e]

@@ -49,7 +49,7 @@
 [s][vp 8 0 0 24 65535 0]Se bem me lembro...[n]devo ter visto a silhueta deles[n]em uma tela gigante...[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Mulher com casaco]]
-[s][vp 8 0 0 25 65535 0]Os Ladrões Fantasmas?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 25 65535 0]Os Phantom Thieves?[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Homem de cabelo castanho]]
 [s][vp 8 0 0 26 65535 0]Sim, é verdade! Eu tinha[n]esquecido completamente deles![n][f 1 3 65535][w][e]

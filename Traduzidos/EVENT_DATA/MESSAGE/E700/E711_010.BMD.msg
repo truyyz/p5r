@@ -2,7 +2,7 @@
 [s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]Aparentemente, você trouxe[n]a Pessoa Estabelecida.[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Caroline]]
-[s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Umpf... OK, eu aceito.[n][f 1 3 65535][w][e]
+[s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Umpf... Ok, eu aceito.[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Caroline]]
 [s][bup 0 102 1 0 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]No entanto, seu Personas [n]é muito fraco... Não que[n]isso me surpreenda, Prisioneiro.[n][f 1 3 65535][w][e]

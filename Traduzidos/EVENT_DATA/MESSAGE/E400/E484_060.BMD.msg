@@ -12,7 +12,7 @@
 [s][vp 8 0 0 5 6 0]Oh vamos, eu quero um parfait.[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Homem relaxado]]
-[s][vp 8 0 0 6 5 0]OK, OK, em breve...[n]Estou procurando um lugar agora.[n]Deve ser por aqui...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 6 5 0]Ok, Ok, em breve...[n]Estou procurando um lugar agora.[n]Deve ser por aqui...[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Mulher mimada]]
 [s][vp 8 0 0 7 6 0]Ugh, você nos perdeu![n]Não reconheço nenhum lugar aqui![n][f 1 3 65535][w][e]

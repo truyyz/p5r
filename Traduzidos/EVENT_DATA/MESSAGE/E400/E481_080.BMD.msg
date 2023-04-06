@@ -26,7 +26,7 @@
 [msg MSG_007_0_0 [Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu estava procurando por você para dizer que[n]sua visita com o dr. Maruki[n]estará depois da escola hoje...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]A alta administração decidiu isso[n]outra noite. Ele encontrou você[n]antes de mim, desculpe.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas se apresente,[n]OK?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas se apresente,[n]Ok?[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Então esse é o Maruki...[n][f 1 3 65535][w][e]

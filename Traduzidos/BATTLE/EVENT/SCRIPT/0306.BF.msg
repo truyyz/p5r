@@ -248,7 +248,7 @@
 [s]Você vai conseguir?[e]
 
 [msg MSG_BTL_1ST_ATTACK [Wakaba Isshiki cognitivo]]
-[s][vp 8 0 2 1011 1 218]Moriteeee![n][f 1 11 65535][w][e]
+[s][vp 8 0 2 1011 1 218]Morraaaaa![n][f 1 11 65535][w][e]
 
 [msg MSG_BTL_1ST_BLOCK [Futaba]]
 [s][bup 0 8 602 65535 0][f 4 10 65535 0 0][vp 8 0 2 1018 0 8]Este mundo está no meu coração, certo?[n]Hackear essas distorções[n]não seria um problema![n][f 1 11 65535][w][e]

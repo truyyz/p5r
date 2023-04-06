@@ -51,7 +51,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Não, é impensável.[n][w][e]
 
 [msg D01_02_BF_01_mes05 [Ryuji]]
-[s][bup 0 2 0 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]E porque?[n][w][e]
+[s][bup 0 2 0 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]E por quê?[n][w][e]
 
 [msg D01_02_BF_01_mes06 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ao contrário de você, eles vêm[n]do conhecimento do senhor[n]deste mundo.[n][w][e]

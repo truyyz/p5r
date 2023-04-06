@@ -115,7 +115,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Se eu olhar muito, o[n]creme duplo se torna... "[n]dupla tentação"! ...Eu vou ficar louco! Eu devo tê-lo![n][f 1 3 65535][w][e]
 
 [msg MSG_Chatting_Anne_05 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 6018 65535 0]Sempre que ouço[n]sobre os Ladrões Fantasmas na rua...[n]eu me pego espionando.[n][f 1 3 65535][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 6018 65535 0]Sempre que ouço[n]sobre os Phantom Thieves na rua...[n]eu me pego espionando.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Eu sei que não devemos ser[n]afetados por essas coisas, mas...[n][f 1 3 65535][w][e]
 [s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]É bom quando você ouve as pessoas[n]falando sobre isso de uma forma positiva.[n][f 1 3 65535][w][e]
 
@@ -196,7 +196,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Não se trata apenas de movimento.[n]Ter controle mental[n]adequado também faz parte do básico.[n][f 1 3 65535][w][e]
 
 [msg MSG_Chatting_Makoto_02 [Makoto]]
-[s][bup 0 6 5 65535 0][f 4 10 65535 0 0][vp 8 2 0 2128 65535 0]Sobre o meu... Olhar de ladrão[n]fantasma... Por que eu uso[n]essas pontas nos ombros...?[n][f 1 3 65535][w][e]
+[s][bup 0 6 5 65535 0][f 4 10 65535 0 0][vp 8 2 0 2128 65535 0]Sobre o meu... Olhar de Phantom[n]Thief... Por que eu uso[n]essas pontas nos ombros...?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]É porque eu sou uma pessoa rígida rígida? Quem[n]sabe, talvez eu seja um pouco difícil de abordar.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Desculpe, não quero forçá-lo a[n]responder. Eu queria saber se...[n]era possível remover as pontas.[n][f 1 3 65535][w][e]
 

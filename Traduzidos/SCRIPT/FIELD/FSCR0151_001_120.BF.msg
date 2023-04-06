@@ -1,5 +1,5 @@
 [msg D01_04_e160_201_mes01 [Ryuji]]
-[s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 1 0 0]OK, vamos começar do zero e[n]seguir em frente![n][w][e]
+[s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 1 0 0]Ok, vamos começar do zero e[n]seguir em frente![n][w][e]
 
 [msg D01_04_e160_201_mes02 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 2 0 0]A partir daqui começa a festa.[n][w][e]

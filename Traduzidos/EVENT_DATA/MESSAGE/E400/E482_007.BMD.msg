@@ -69,7 +69,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]O que você acha de[n]Phantom Thieves, Yoshizawa-san?[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Kasumi]]
-[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]Os Ladrões Fantasmas?[n][f 1 3 65535][w][e]
+[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]Os Phantom Thieves?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 26 65535 0]Você quer dizer caso[n]eles realmente existam, certo?[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Kasumi]]

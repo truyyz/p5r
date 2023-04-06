@@ -54,7 +54,7 @@
 [s][vp 8 0 0 0 65535 0][f 5 14]Sim.[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Makoto]]
-[s][vp 8 0 0 0 65535 0][f 5 14]OK, agora vamos fazer[n]tudo o que pudermos.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 5 14]Ok, agora vamos fazer[n]tudo o que pudermos.[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Makoto]]
 [s][vp 8 0 0 0 65535 0][f 5 14]Mesmo que isso nos leve[n]a correr riscos.[n][f 1 3 65535][w][e]

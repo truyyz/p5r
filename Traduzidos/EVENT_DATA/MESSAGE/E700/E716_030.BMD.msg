@@ -91,7 +91,7 @@
 
 [msg MSG_027_0_0 [Shinya]]
 [s][bup 0 110 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ah, antes que eu me esqueça,[n]tenho que te mostrar uma coisa...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 17024 65535 0]Mas não conte a ninguém, OK? Eu vou te mostrar[n]uma maneira segura de ganhar![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 17024 65535 0]Mas não conte a ninguém, Ok? Eu vou te mostrar[n]uma maneira segura de ganhar![n][f 1 3 65535][w][e]
 
 [msg MND_990_0_0]
 [s][vp 8 0 0 0 65535 0]Sinto meu vínculo com[n]Shinya ficando mais forte...[n][f 1 3 65535][w][e]

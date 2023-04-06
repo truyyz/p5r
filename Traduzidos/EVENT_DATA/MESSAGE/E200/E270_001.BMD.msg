@@ -7,8 +7,8 @@
 
 [msg MSG_005_5_0 [Sojiro]]
 [s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]A impressora não está certa?[n]É a que[n]recomendaram para mim na loja...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Huh? OK, mas...[n]não era isso que você queria?[n][f 1 3 65535][w][e]
-[s][bup 0 103 3 0 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]...OK, estarei ai.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Huh? Ok, mas...[n]não era isso que você queria?[n][f 1 3 65535][w][e]
+[s][bup 0 103 3 0 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]...Ok, estarei ai.[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [(SE)佐倉 惣治郎]]
 [s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0](ため息)[n][f 1 3 65535][w][e]

@@ -40,5 +40,5 @@
 [s][f 5 14]Estou vindo.[e]
 
 [msg MSG_REACTION [Yusuke]]
-[s][f 5 14]OK. Estou na passagem subterrânea.[n][f 5 15][w][e]
+[s][f 5 14]Ok. Estou na passagem subterrânea.[n][f 5 15][w][e]
 

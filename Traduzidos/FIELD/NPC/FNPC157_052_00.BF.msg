@@ -6,7 +6,7 @@
 [s]Não[e]
 
 [msg SAFETY_MES_RYUJI_01_01 [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 7024 65535 0]Então você quer jogar limpo?[n]OK![n][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 7024 65535 0]Então você quer jogar limpo?[n]Ok![n][w][e]
 
 [msg SAFETY_MES_RYUJI_02_01 [Ryuji]]
 [s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 7114 65535 0]Seria ótimo se uma Sombra[n]nos deixasse um ladrilho... mas[n]receio que não seria tão simples assim.[n][w][e]
@@ -48,7 +48,7 @@
 [s][bup 0 2 103 0 0][f 4 10 65535 0 0][vp 8 2 1 7025 65535 0]Merda, ainda não terminamos de coletar moedas![n]Vamos jogar outra rodada.[n][w][e]
 
 [msg SAFETY_MES_RYUJI_11_01 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 7158 65535 0]Bom trabalho! O resto é só negócio, como sempre[n]para nós, Ladrões Fantasmas![n][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 7158 65535 0]Bom trabalho! O resto é só negócio, como sempre[n]para nós, Phantom Thieves![n][w][e]
 
 [msg SAFETY_MES_MONA_01_01 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1021 65535 0]Ela deve ser muito autoconfiante se não se[n]importa em nos dizer claramente onde está seu[n]tesouro...[n][w][e]
@@ -214,7 +214,7 @@
 [s][bup 0 6 4 65535 0][f 4 10 65535 0 0][vp 8 2 1 2120 65535 0]Não temos mais moedas suficientes...[n]Mas vamos conseguir.[n][w][e]
 
 [msg SAFETY_MES_MAKOTO_06_04 [Makoto]]
-[s][bup 0 6 4 65535 0][f 4 10 65535 0 0][vp 8 2 1 2156 65535 0]OK, pare de perder tempo aqui...[n]precisamos seguir a irmã.[n][w][e]
+[s][bup 0 6 4 65535 0][f 4 10 65535 0 0][vp 8 2 1 2156 65535 0]Ok, pare de perder tempo aqui...[n]precisamos seguir a irmã.[n][w][e]
 
 [msg SAFETY_MES_MAKOTO_07_01 [Makoto]]
 [s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 2028 65535 0]Eu me pergunto o que direi à irmã[n]sobre nossa presença no tribunal[n]quando eu voltar...[n][w][e]

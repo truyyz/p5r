@@ -22,7 +22,7 @@
 [s]Ainda não.[e]
 
 [msg D10_03_look_at_researche_4 [[f 4 31 10 0]]]
-[s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 57186 65535 0]OK. Avise-me quando estiver livre.[n][w][e]
+[s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 57186 65535 0]Ok. Avise-me quando estiver livre.[n][w][e]
 
 [msg D10_03_look_at_researche_5 [Futaba]]
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Um momento! Ele está conversando com outra sombra.[n][w][e]
@@ -34,7 +34,7 @@
 
 [msg D10_03_look_at_researche_7 [Guarda]]
 [s]Estou apenas tentando eliminar[n]potenciais ameaças ao mestre.[n][w][e]
-[s]Mas acho melhor evitar[n]levar o cartão comigo,[n]aqui. OK. Estou de volta à posição.[n][w][e]
+[s]Mas acho melhor evitar[n]levar o cartão comigo,[n]aqui. Ok. Estou de volta à posição.[n][w][e]
 
 [msg D10_03_look_at_researche_8 [Futaba]]
 [s][bup 0 8 3 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9040 65535 0]O que..!? Desculpa Joker...[n][w][e]
@@ -44,7 +44,7 @@
 [s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 57144 65535 0]O que você está dizendo, Joker-senpai?[n][w][e]
 
 [msg D10_03_researcher_battle [Guarda]]
-[s]Coisa? Os Ladrões Fantasmas![n]Eles devem ter me seguido![n][w][e]
+[s]Coisa? Os Phantom Thieves![n]Eles devem ter me seguido![n][w][e]
 
 [msg D10_03_researcher_battle_2 [Agente]]
 [s]Xingamento! Eu avisei![n]Agora temos que eliminá-los![n]Pelo mestreeeee![n][w][e]
@@ -64,7 +64,7 @@
 [msg D10_03_ID_Door_Open02 [Morgana]]
 [s][bup 0 3 3 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Nós não vimos o que[n]está atrás desta porta...[n][w][e]
 [s]Esse scanner deve estar aqui por[n]um motivo. Portanto, a vigilância[n]poderia ser mais rigorosa.[n][w][e]
-[s]Tenha cuidado lá fora.[n]OK, Violet?[n][w][e]
+[s]Tenha cuidado lá fora.[n]Ok, Violet?[n][w][e]
 
 [msg D10_03_ID_Door_Open03 [[f 4 31 10 0]]]
 [s][bup 0 10 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 57026 65535 0]Oh! Ah sim, Mona-senpai![n][w][e]

@@ -3,7 +3,7 @@
 [s][bup 0 4 1 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 42 5 100][f 4 24 0 4 0 1 5 0][vp 8 0 0 0 65535 0]Talvez devêssemos também,[n]não? Poderíamos fazer isso juntos.[n][f 1 3 65535][w][e]
 
 [sel SEL_001_0_0 top]
-[s]Para os ladrões fantasmas?[e]
+[s]Para os Phantom Thieves?[e]
 [s]Para melhores notas?[e]
 [s]...O que você quer dizer?[e]
 

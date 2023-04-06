@@ -250,7 +250,7 @@
 [s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7045 65535 0]Bem, não deve haver mais[n]outros lugares sarnentos. Devemos[n]terminar da próxima vez, Joker.[n][w][e]
 
 [msg DNG_ADVANCE_Re_90_01_PC0_2 [Ann]]
-[s][bup 0 4 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6023 65535 0]Então nossa exploração quase chegou ao fim. Vamos fechar[n]brilhante da próxima vez, OK?[n][w][e]
+[s][bup 0 4 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6023 65535 0]Então nossa exploração quase chegou ao fim. Vamos fechar[n]brilhante da próxima vez, Ok?[n][w][e]
 
 [msg DNG_ADVANCE_Re_90_01_PC0_3 [Yusuke]]
 [s][bup 0 5 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4045 65535 0]Até agora conhecemos o Palácio[n]quase na sua totalidade. Joker,[n]vamos terminar com a próxima visita.[n][w][e]
@@ -275,7 +275,7 @@
 [s][bup 0 3 1 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1181 65535 0]O caminho para o Treasure está finalmente livre![n]Agora é só enviar a carta de contestação.[n][w][e]
 
 [msg DNG_ADVANCE_Re_100_01_PC [Ryuji]]
-[s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7023 65535 0]OK, eu estava ansioso por isso![n]A propósito, quando enviamos?[n][w][e]
+[s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7023 65535 0]Ok, eu estava ansioso por isso![n]A propósito, quando enviamos?[n][w][e]
 [s]Bem, cara, depende de você.[n]Ligue para nós quando precisar.[n][w][e]
 
 [msg DNG_ADVANCE_Re_100_01_PC_2 [Ann]]

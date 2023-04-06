@@ -68,7 +68,7 @@
 [s]E como?[e]
 
 [msg MSG_029_0_0 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 1 0 0 4 0 0]Se o senhor do Palácio[n]lê-lo, mudando seu[n]conhecimento dos Ladrões Fantasmas...[n][f 1 3 65535][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 1 0 0 4 0 0]Se o senhor do Palácio[n]lê-lo, mudando seu[n]conhecimento dos Phantom Thieves...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 1 0 0 5 0 0]Ei, [f 4 2]. Seria[n]uma pena se não o usássemos[n]a nosso favor.[n][f 1 3 65535][w][e]
 [s][bup 0 3 1 65535 0][f 4 10 65535 0 0][vp 1 0 0 6 0 0]Se conseguirmos[n]ele escreve positivamente sobre nós,[n]a opinião sobre nós vai melhorar![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 1 0 0 7 0 0]Você deveria tentar fazê-la[n]escrever mais artigos sobre[n]Phantom Thieves![n][f 1 3 65535][w][e]

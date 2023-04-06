@@ -113,7 +113,7 @@
 
 [msg MSG_LetterAbout_moru [Morgana]]
 [s][bup 0 3 1 0 0]Mesmo que diga isso...[n][w][e]
-[s]É da natureza de um Ladrão Fantasma[n]tentar roubar algo[n]no momento mais difícil![n][w][e]
+[s]É da natureza de um Phantom Thief[n]tentar roubar algo[n]no momento mais difícil![n][w][e]
 
 [msg MSG_LetterAbout]
 [s]Fui pego roubando comida...[n][w][e]

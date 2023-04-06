@@ -208,7 +208,7 @@
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 2092 65535 0]Kaneshiro é um verdadeiro criminoso.[n]Temos que agir com o[n]cuidado possível.[n][w][e]
 
 [msg KANESHIRO_LV2_mes01 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 7095 65535 0]OK, estamos todos aqui. Devemos[n]levar esse assunto[n]mais a sério.[n][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 7095 65535 0]Ok, estamos todos aqui. Devemos[n]levar esse assunto[n]mais a sério.[n][w][e]
 
 [msg KANESHIRO_LV2_mes02 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1092 65535 0]...Ok pessoal. Precisamos começar a tentar um[n]pouco mais.[n][w][e]
@@ -301,7 +301,7 @@
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 7095 65535 0]Se conseguirmos vencer Medjed,[n]seria uma loucura.[n][w][e]
 
 [msg FUTABA_LV1_mes02 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1092 65535 0]Lembremo-nos de que devemos[n]pensar em derrotar Medjed. OK?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1092 65535 0]Lembremo-nos de que devemos[n]pensar em derrotar Medjed. Ok?[n][w][e]
 
 [msg FUTABA_LV1_mes03 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 6092 65535 0]Não quero que o nome dos Phantom[n]Thieves seja manchado.[n]Medjed deve ser detido a todo custo.[n][w][e]
@@ -1132,7 +1132,7 @@
 [s][bup 0 5 0 65535 0][f 4 23 1 5 3 5 11 5][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Se Okumura tiver um[n]despertar do coração, nossa[n]popularidade vai disparar...[n][w][e]
 
 [msg BRIEFING_NO_TARGET_D05_W_5 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 23 1 6 3 5 11 5][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Depois que o coração do[n]presidente Okumura despertar, ninguém[n]vai mais duvidar dos Ladrões Fantasmas.[n][w][e]
+[s][bup 0 6 0 65535 0][f 4 23 1 6 3 5 11 5][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Depois que o coração do[n]presidente Okumura despertar, ninguém[n]vai mais duvidar dos Phantom Thieves.[n][w][e]
 
 [msg BRIEFING_NO_TARGET_D05_W_6 [Futaba]]
 [s][bup 0 8 2 65535 0][f 4 23 1 8 3 5 11 5][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Se Okumura despertasse[n]o coração e confessasse, eu poderia[n]descobrir como minha mãe morreu...[n][w][e]
@@ -2845,7 +2845,7 @@
 
 [msg MADARAME_YUSUKE_mes04 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][f 4 23 1 3 3 5 11 5][vp 8 0 1 4 65535 0]Tudo bem, vamos começar do começo.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 1 5 65535 0]Primeiro, os locais onde nós, Ladrões[n]Fantasmas, operamos no Metaverso[n]são chamados de "Palácios".[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 1 5 65535 0]Primeiro, os locais onde nós, Phantom[n]Thieves, operamos no Metaverso[n]são chamados de "Palácios".[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 6 65535 0]Eles são a materialização[n]da cognição de seu senhor.[n][w][e]
 
 [msg MADARAME_YUSUKE_mes05 [Yusuke]]
@@ -2908,7 +2908,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 1 29 65535 0]Não acho que ele queira manchar seu nome com um[n]processo, desde que a exposição seja aberta ao[n]público.[n][w][e]
 
 [msg MADARAME_YUSUKE_mes23 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 23 1 2 3 5 11 5][vp 8 0 1 30 65535 0]OK, então esse é o nosso[n]prazo para despertar[n]o coração de Madarame.[n][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 23 1 2 3 5 11 5][vp 8 0 1 30 65535 0]Ok, então esse é o nosso[n]prazo para despertar[n]o coração de Madarame.[n][w][e]
 [s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 0 1 31 65535 0]Devemos impedi-lo de nos denunciar... e mostrar a[n]todos que tipo de pessoa ele realmente é![n][w][e]
 
 [msg MADARAME_YOKOKU_mes01 [Yusuke]]
@@ -3400,7 +3400,7 @@
 [s][vp 8 2 1 0 65535 0][f 4 10 65535 0 0]A atmosfera do mundo real[n]começa a mudar. Não podemos[n]nos dar ao luxo de esperar mais.[n][w][e]
 
 [msg MARUKI_MEETING_mes05 [Akechi]]
-[s][bup 0 9 10 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 5 11 5][vp 8 2 1 54410 65535 0]OK, mas cabe a[n][f 4 2] decidir.[n][w][e]
+[s][bup 0 9 10 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 5 11 5][vp 8 2 1 54410 65535 0]Ok, mas cabe a[n][f 4 2] decidir.[n][w][e]
 
 [msg RYUYU_SPE_MEETING_mes01 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 5 11 5][vp 8 2 1 4018 65535 0]Perdoe-me, Ryuji. Espero que você[n]lembre-se dos detalhes de nossa[n]nova tática de combate.[n][w][e]
@@ -3461,7 +3461,7 @@
 
 [msg D07_YOKOKU_CHECK_00 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 1 1 65535 0]Depois de decidir[n]enviar a carta de aviso, não haverá[n]volta.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 1 2 65535 0]Certifique-se de se preparar[n]a tempo, OK?[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 1 2 65535 0]Certifique-se de se preparar[n]a tempo, Ok?[n][w][e]
 
 [sel D07_YOKOKU_CHECK top]
 [s]Eu sei isso.[e]
@@ -3569,7 +3569,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1097 65535 0]Não esqueça a carta, ok?[n]Vamos lá![n][w][e]
 
 [msg GOTO_DNG_NOT_YOKOKU_mes0_3 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 6097 65535 0]Não quer enviar a[n]carta de aviso? OK, mas lembre-se que[n]o prazo está muito próximo.[n][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 6097 65535 0]Não quer enviar a[n]carta de aviso? Ok, mas lembre-se que[n]o prazo está muito próximo.[n][w][e]
 
 [msg GOTO_DNG_NOT_YOKOKU_mes0_4 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 4097 65535 0]Não quer enviar a carta de aviso?[n]No entanto, tenha em mente que dia é hoje.[n][w][e]
@@ -3578,7 +3578,7 @@
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 2097 65535 0]Ainda não quer enviar a carta de aviso?[n]Por favor, lembre-se do nosso[n]prazo. Vamos.[n][w][e]
 
 [msg GOTO_DNG_NOT_YOKOKU_mes0_6 [Futaba]]
-[s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 9097 65535 0]Quer esperar ainda mais antes de[n]enviar a carta de aviso? OK.[n]Apenas...não se esqueça disso.[n][w][e]
+[s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 9097 65535 0]Quer esperar ainda mais antes de[n]enviar a carta de aviso? Ok.[n]Apenas...não se esqueça disso.[n][w][e]
 
 [msg GOTO_DNG_NOT_YOKOKU_mes0_7 [Haru]]
 [s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 3097 65535 0]Não quer enviar a carta de aviso por enquanto?[n]O importante é que você se lembre do prazo.[n][w][e]
@@ -3587,7 +3587,7 @@
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 9097 65535 0]Para ser claro: você deseja[n]infiltrar-se no Palácio hoje sem[n]enviar a carta de aviso?[n][w][e]
 
 [msg GOTO_DNG_NOT_YOKOKU_res0 [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 7103 65535 0]OK, vamos recuperar tudo[n]que pudermos do Palácio antes que[n]ele se perca para sempre![n][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 7103 65535 0]Ok, vamos recuperar tudo[n]que pudermos do Palácio antes que[n]ele se perca para sempre![n][w][e]
 
 [msg GOTO_DNG_NOT_YOKOKU_res0_2 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1174 65535 0]Antes de derrubar o Palácio,[n]devemos recuperar todo[n]o saque possível![n][w][e]
@@ -3672,11 +3672,11 @@
 
 [msg AZITO_BREAKUP_KANESHIRO__2 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 2019 65535 0]Você não quer vir hoje?[n][w][e]
-[s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]OK. O importante é que você se lembre de quanto[n]tempo nos resta...[n][w][e]
+[s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ok. O importante é que você se lembre de quanto[n]tempo nos resta...[n][w][e]
 
 [msg AZITO_BREAKUP_KANESHIRO__3 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 2019 65535 0]Ainda não quer enviar a carta de aviso?[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Quero dizer, OK, tudo bem para mim.[n]Apenas, lembre-se do prazo...[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Quero dizer, Ok, tudo bem para mim.[n]Apenas, lembre-se do prazo...[n][w][e]
 
 [msg AZITO_BREAKUP_KANESHIRO__4 [Yusuke]]
 [s][bup 0 5 2 65535 0][f 4 10 65535 0 0][vp 8 2 1 4018 65535 0]Ainda não quer enviar a[n]carta de aviso? O tempo[n]está começando a acabar, lembre-se.[n][w][e]
@@ -3735,10 +3735,10 @@
 [s][vp 8 2 1 0 65535 0][f 4 10 65535 0 0]De qualquer forma, vamos falar[n]sobre os relatórios que[n]recebemos![n][w][e]
 
 [msg MSG_azito_letter_go [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]OK, vou enviar a carta-desafio![n]Me dê um tempo![n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ok, vou enviar a carta-desafio![n]Me dê um tempo![n][w][e]
 
 [msg MSG_azito_letter_go_2 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]OK, vamos juntos.[n]Vamos, Morgana![n][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ok, vamos juntos.[n]Vamos, Morgana![n][w][e]
 
 [msg MSG_azito_letter_back [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Fiuuu, entreguei! Se você tem[n]tempo, você deve cuidar disso.[n][w][e]
@@ -4209,7 +4209,7 @@
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Aquele cara quer esconder[n]erros médicos muito sérios.[n]Ele é um verdadeiro criminoso.[n][w][e]
 
 [msg MSG_azito_quest_chk55_03 [Ryuji]]
-[s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 2 0 7101 65535 0]OK, então precisamos fazer...[n]cirurgia cardíaca.[n]É urgente![n][w][e]
+[s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 2 0 7101 65535 0]Ok, então precisamos fazer...[n]cirurgia cardíaca.[n]É urgente![n][w][e]
 
 [msg MND_azito_quest_56 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 0 1155 65535 0]Isso é sobre o [clr 2]casal vinculado[clr 27][n][clr 2]ex-aluno de Kawakami[clr 27].[n]Um casal muito desprezível.[n][w][e]
@@ -4482,7 +4482,7 @@
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0]Hisashi Ushiwata... Bingo! Encontrei![n][w][e]
 
 [msg MSG_azito_quest_79_29 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 2 1 1023 65535 0]OK, vamos salvar Toji![n][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 2 1 1023 65535 0]Ok, vamos salvar Toji![n][w][e]
 
 [msg MSG_azito_quest_79_30 [Akechi]]
 [s][bup 0 9 11 65535 0][f 4 10 65535 0 0][vp 8 2 1 54503 65535 0]Todos concordam,[n]como esperado.[n][w][e]
@@ -4681,7 +4681,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Você já aceitou esta[n]solicitação.[n][w][e]
 
 [msg MSG_azito_quest_chk_next [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Deseja adicionar mais alvos?[n]OK, então vamos continuar a reunião![n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Deseja adicionar mais alvos?[n]Ok, então vamos continuar a reunião![n][w][e]
 
 [msg MSG_azito_quest_last_che [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Você tem certeza sobre a escolha[n]deste alvo?[n][w][e]

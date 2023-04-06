@@ -338,7 +338,7 @@
 [s]Eu o protegerei,[n]a qualquer custo.[n][f 1 2 65535][e]
 
 [msg MSG_STG01_MNLG_GUARD_02__4]
-[s]"Segurançaaa!"[n]OK, é assim que[n]deve funcionar.[n][f 1 2 65535][e]
+[s]"Segurançaaa!"[n]Ok, é assim que[n]deve funcionar.[n][f 1 2 65535][e]
 
 [msg MSG_STG01_MNLG_GUARD_02__5]
 [s]Serei capaz[n]de protegê-lo?[n][f 1 2 65535][e]

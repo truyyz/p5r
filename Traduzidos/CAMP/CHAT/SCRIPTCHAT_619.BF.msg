@@ -8,7 +8,7 @@
 [s][f 5 14]Você quer treinar? Preciso falar com você[n]sobre uma coisa.[n][f 5 15][w][e]
 
 [msg CHAT_REACTION_MSG [Shinya]]
-[s][f 5 14]OK! Te espero no fliperama![n][f 5 15][w][e]
+[s][f 5 14]Ok! Te espero no fliperama![n][f 5 15][w][e]
 
 [sel SEL_001 top]
 [s]Vá agora[e]

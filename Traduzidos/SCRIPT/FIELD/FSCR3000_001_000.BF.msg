@@ -14,7 +14,7 @@
 [s]Talvez eu ignore o[n]diário e vá para a cama...[n][w][e]
 
 [sel BED_CHECK_0410_EV_SEL top]
-[s]Dorme[e]
+[s]Dormir[e]
 [s]Cancelar[e]
 
 [msg BED_CHECK_0410_EV_mes02]

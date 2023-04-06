@@ -1,7 +1,7 @@
 [msg MSG_000_0_0 [Takemi]]
 [s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 2 0 14021 65535 0]...espera.[n][f 1 3 65535][w][e]
 [s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 6 0 59 5 100][f 4 24 0 6 0 0 5 100]Fiz várias modificações[n]na fórmula anterior, com base[n]nos resultados do seu teste.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]OK, tome[n]de um só gole.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ok, tome[n]de um só gole.[n][f 1 3 65535][w][e]
 
 [msg MND_100_0_0]
 [s][vp 8 0 0 0 65535 0]Um gosto forte, azedo[n]e amargo me domina...[n]O cheiro é infernal.[n][f 1 3 65535][w][e]
@@ -12,7 +12,7 @@
 [s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sentindo-se confuso, certo?[n]Sim, adicionei alguns[n]ingredientes... especiais.[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Takemi]]
-[s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]OK, vamos medir a temperatura[n]e a pressão. Também farei uma coleta de sangue.[n][f 1 3 65535][w][e]
+[s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ok, vamos medir a temperatura[n]e a pressão. Também farei uma coleta de sangue.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu também gostaria de testar as[n]habilidades motoras, mas por enquanto[n]é melhor não exagerar.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]No entanto, como estamos nos[n]compassos finais, tenho que estabilizar[n]a fórmula principal...[n][f 1 3 65535][w][e]
 
@@ -128,8 +128,8 @@
 
 [msg MSG_031_0_0 [Takemi]]
 [s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...brincadeirinha.[n][f 1 3 65535][w][e]
-[s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]OK, agora deite-se. Uma vez[n]terminado, você pode ir para casa.[n][f 1 3 65535][w][e]
+[s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ok, agora deite-se. Uma vez[n]terminado, você pode ir para casa.[n][f 1 3 65535][w][e]
 
 [msg MSG_032_0_0 [Takemi]]
-[s][vp 8 2 0 14115 65535 0]OK, tome cuidado.[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 14115 65535 0]Ok, tome cuidado.[n][f 1 3 65535][w][e]
 

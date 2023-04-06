@@ -29,7 +29,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Então aceitei sem[n]pensar muito, mas a experiência foi[n]foi... impressionante.[n][f 1 3 65535][w][e]
 
 [sel SEL_008_0_0 top]
-[s]Porque?[e]
+[s]Por quê?[e]
 [s]Ele tem que se esforçar muito?[e]
 [s]Ele estava com muita dor?[e]
 

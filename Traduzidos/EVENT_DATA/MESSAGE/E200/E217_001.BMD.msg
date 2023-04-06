@@ -137,7 +137,7 @@
 [s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 53 65535 0]Devemos trocar[n]contatos, então.[n][f 1 3 65535][w][e]
 
 [msg MSG_042_0_0 [Yusuke]]
-[s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 54 65535 0]Artista e Ladrão Fantasma...[n]Aparentemente, tenho dois[n]empregos agora...[n][f 1 3 65535][w][e]
+[s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 54 65535 0]Artista e Phantom Thief...[n]Aparentemente, tenho dois[n]empregos agora...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 55 65535 0]Muito bem. Afinal, você só vive uma vez[n]uma vez.[n][f 1 3 65535][w][e]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 56 65535 0]No entanto, a questão[n]do outro intruso[n]preocupa-me um pouco...[n][f 1 3 65535][w][e]
 

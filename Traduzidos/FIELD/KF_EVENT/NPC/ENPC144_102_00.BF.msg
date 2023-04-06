@@ -11,7 +11,7 @@
 [s]Tudo está bem?[e]
 
 [msg MSG_E14410200_Anne_002_0 [Ann]]
-[s][f 4 23 1 65535 3 10 0 0][bup 0 4 2 65535 0][f 4 10 65535 0 0][vp 8 0 1 2 65535 0]Porque? Por que você se preocupa comigo?[n][w][e]
+[s][f 4 23 1 65535 3 10 0 0][bup 0 4 2 65535 0][f 4 10 65535 0 0][vp 8 0 1 2 65535 0]Por quê? Por que você se preocupa comigo?[n][w][e]
 [s][bup 0 4 10 65535 0][f 4 10 65535 0 0][vp 8 0 1 3 65535 0]*soluço*[n][w][e]
 
 [sel SEL_E14410200_Anne_003_0 top]

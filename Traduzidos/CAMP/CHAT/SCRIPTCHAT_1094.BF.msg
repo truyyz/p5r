@@ -52,5 +52,5 @@
 [s][f 5 14]Estou vindo.[e]
 
 [msg MSG_REACTION [Ann]]
-[s][f 5 14]Ah com certeza. OK.[n][f 5 15][w][e]
+[s][f 5 14]Ah com certeza. Ok.[n][f 5 15][w][e]
 

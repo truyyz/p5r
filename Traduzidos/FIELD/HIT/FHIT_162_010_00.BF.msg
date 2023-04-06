@@ -9,7 +9,7 @@
 [s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4087 65535 0]Hm... Tudo bem, vamos sair mais tarde.[n][w][e]
 
 [msg e511_630_mes_02 [Yusuke]]
-[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4035 65535 0]OK vamos fazê-lo![n][w][e]
+[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4035 65535 0]Ok vamos fazê-lo![n][w][e]
 
 [msg e511_630_mes_03 [Guarda sombra]]
 [s]Olha Você aqui! Inimigos do Lorde Maruki![n][w][e]

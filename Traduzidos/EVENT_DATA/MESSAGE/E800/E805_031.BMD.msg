@@ -10,7 +10,7 @@
 
 [sel SEL_002_0_0 top]
 [s]Eu acho que entendi.[e]
-[s]Porque?[e]
+[s]Por quê?[e]
 [s][f 0 8 2 1 2217]Você também estava sorrindo.[clr 27][e]
 
 [msg MSG_003_0_0 [Haru]]

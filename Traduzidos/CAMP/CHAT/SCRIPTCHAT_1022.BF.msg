@@ -18,7 +18,7 @@
 [s][f 5 14]Vamos todos nos encontrar novamente.[e]
 
 [msg MSG_REACTION [Haru]]
-[s][f 5 14]OK, tudo bem.[n][w][e]
+[s][f 5 14]Ok, tudo bem.[n][w][e]
 
 [msg MSG_REACTION_02 [Haru]]
 [s][f 5 14]Vamos juntar todo mundo.[n][f 5 15][w][e]

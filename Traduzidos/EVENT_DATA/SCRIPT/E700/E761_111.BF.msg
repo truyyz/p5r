@@ -79,7 +79,7 @@
 [s][bup 0 5 701 65535 0][f 4 10 65535 0 0][vp 8 2 0 4189 65535 0]Já estamos no banheiro há muito tempo.[n]Devemos sair, por acaso?[n][f 1 3 65535][w][e]
 
 [msg MSG_RYUUJI_end [Ryuji]]
-[s][vp 8 2 0 7062 65535 0]OK, até mais![n][f 1 3 65535][w][e]
+[s][vp 8 2 0 7062 65535 0]Ok, até mais![n][f 1 3 65535][w][e]
 
 [msg MSG_YUUSUKE_end [Yusuke]]
 [s][vp 8 2 0 4054 65535 0]Bem, até mais tarde.[n][f 1 3 65535][w][e]

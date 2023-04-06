@@ -5,7 +5,7 @@
 [s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Acho que você ficou[n]mais forte desde sua última tentativa.[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Caroline]]
-[s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]OK, mãos à obra![n][f 1 3 65535][w][e]
+[s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ok, mãos à obra![n][f 1 3 65535][w][e]
 
 [sel SEL_003_0_0 top]
 [s]Nós lutamos.[e]

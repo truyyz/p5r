@@ -8,7 +8,7 @@
 [s][f 5 14]Também no fórum não houve[n]nenhum tipo de movimento.[n][w][e]
 
 [msg MSG_003_0_0 [Mishima]]
-[s][f 5 14]Mesmo na TV é apenas[n]sobre as eleições... nada sobre[n]os Ladrões Fantasmas.[n][w][e]
+[s][f 5 14]Mesmo na TV é apenas[n]sobre as eleições... nada sobre[n]os Phantom Thieves.[n][w][e]
 
 [msg MSG_004_0_0 [Mishima]]
 [s][f 5 14]Não é estranho?[n][w][e]

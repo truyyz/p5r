@@ -11,7 +11,7 @@
 [s][bup 0 108 501 65535 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Oh, "mais ou menos".[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Takemi]]
-[s][bup 0 108 502 65535 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]Oh, OK. Então, digamos que[n]podemos fechar aqui.[n][f 1 3 65535][w][e]
+[s][bup 0 108 502 65535 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]Oh, Ok. Então, digamos que[n]podemos fechar aqui.[n][f 1 3 65535][w][e]
 [s][bup 0 108 501 65535 0][f 4 10 65535 0 0][f 4 24 0 4 6 36 5 100][vp 8 0 0 5 65535 0]Piada. Eu queria ver você também.[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Takemi]]

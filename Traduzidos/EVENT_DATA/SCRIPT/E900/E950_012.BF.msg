@@ -50,7 +50,7 @@
 [s]Por que você usa esses chavões?[n]Deixe-me reclamar em paz...[n][w][e]
 
 [msg MSG_007_0_0 [Ryuji]]
-[s]"O mundo inteiro sob o mesmo[n]teto"... Sim, OK, mas então[n]quem se importa com este país?[n][w][e]
+[s]"O mundo inteiro sob o mesmo[n]teto"... Sim, Ok, mas então[n]quem se importa com este país?[n][w][e]
 [s]Você sabe o que? Eu pensaria nisso,[n]se não fosse[n]estes exames...[n][w][e]
 [s]......[n][w][e]
 [s]O próximo tópico é... a Restauração Meiji. Estou[n]indo muito bem com esta parte.[n][w][e]

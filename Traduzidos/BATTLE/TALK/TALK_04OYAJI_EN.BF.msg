@@ -53,7 +53,7 @@
 
 [msg TalkMsg_EN_FORGIVE_00]
 [s]Você não se importa com a vida de[n]seus companheiros soldados... Você não é tão[n]diferente de nós, Sombras, filho.[n][w][e]
-[s]OK, acabei com você.[n]Faça o que quiser[n]daqui em diante...[n][w][e]
+[s]Ok, acabei com você.[n]Faça o que quiser[n]daqui em diante...[n][w][e]
 
 [msg TalkMsg_EN_FORGIVE_01]
 [s]Filho... você está me dizendo que não[n]se preocupa com seu colega soldado?[n][w][e]

@@ -3,7 +3,7 @@
 
 [msg MSG_001_0_0 [Shinya]]
 [s][f 5 14]Mostrei à mãe a carta[n]de desafio. Eu estava um pouco assustado.[n][w][e]
-[s]Avise os ladrões fantasmas.[n][w][e]
+[s]Avise os Phantom Thieves.[n][w][e]
 
 [msg MSG_002_0_0 [Yoshida]]
 [s][f 5 14]Ganhei a eleição hoje.[n][w][e]

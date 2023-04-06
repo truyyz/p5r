@@ -29,5 +29,5 @@
 [s][bup 0 108 500 65535 0][f 4 10 65535 0 0][vp 8 2 0 14117 65535 0]Quer tentar algo diferente de[n]monja?[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Takemi]]
-[s][vp 8 2 0 14050 65535 0]OK, vamos para casa.[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 14050 65535 0]Ok, vamos para casa.[n][f 1 3 65535][w][e]
 

@@ -33,7 +33,7 @@
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]O que é isso, um dispositivo?[n]Vamos ver.[n][w][e]
 
 [msg e259_152_mes04 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos dar uma olhada naquele dispositivo, OK?[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos dar uma olhada naquele dispositivo, Ok?[n][w][e]
 
 [msg e259_152_mes05 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1159 65535 0]Parece uma fonte de alimentação,[n]mas de quê?[n][w][e]
@@ -54,7 +54,7 @@
 [s][bup 0 3 4 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1190 65535 0]E-ei, eles podem nos pegar![n]Vamos, rápido![n][w][e]
 
 [msg D154_003_CAMERA_TRAP_02_ [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7045 65535 0]OK, deveríamos ter[n]desligado algumas câmeras![n][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7045 65535 0]Ok, deveríamos ter[n]desligado algumas câmeras![n][w][e]
 
 [msg D154_003_CAMERA_TRAP_02__2 [Makoto]]
 [s][bup 0 6 1 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2035 65535 0]Portanto, deveríamos ter[n]desativado algumas câmeras.[n][w][e]

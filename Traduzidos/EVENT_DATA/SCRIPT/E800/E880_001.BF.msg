@@ -152,7 +152,7 @@
 [s][vp 1 0 0 0 0 0]Faltam apenas dez dias[n]para Medjed expirar...[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_0812_2]
-[s][vp 1 0 0 0 0 0]O que os[n]ladrões fantasmas estão fazendo?[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]O que os[n]Phantom Thieves estão fazendo?[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_0812_3]
 [s][vp 1 0 0 0 0 0]Eles vão deixar[n]Medjed fazer o que quiser?[n][f 1 3 65535][w][e]
@@ -359,7 +359,7 @@
 [s][vp 1 0 0 0 0 0]Como nos[n]sentimos protegidos?[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_1116_1]
-[s][vp 1 0 0 0 0 0]Mas eles estão procurando pelos ladrões fantasmas[n]ou o quê?[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Mas eles estão procurando pelos Phantom Thieves[n]ou o quê?[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_1116_2]
 [s][vp 1 0 0 0 0 0]Você sabe o que há de novo...[n][f 1 3 65535][w][e]

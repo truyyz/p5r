@@ -467,7 +467,7 @@
 [s]Eu atingi um nervo exposto? Bem,[n]nenhum homem honesto seria[n]violento por causa de sentimentos.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_01]
-[s]OK, eu entendo perfeitamente o que você está[n]sentindo.[n][w][e]
+[s]Ok, eu entendo perfeitamente o que você está[n]sentindo.[n][w][e]
 [s]Eu perdi. Estou aqui, aos seus pés,[n]à sua mercê.[n]Apenas me diga o que você quer de mim.[n][w][e]
 
 [sel TalkSel_GUY_CHAT_SQ_01 top]
@@ -1440,7 +1440,7 @@
 [s]Tenho idade para dar mesada para crianças? Bem,[n]aqui está, [var 0] iene.[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_PAYFOR__3]
-[s]...OK. Aqui está este item para você: [n][f 2 5 3 9999 1] Ah, não aceito devoluções.[n][w][e]
+[s]...Ok. Aqui está este item para você: [n][f 2 5 3 9999 1] Ah, não aceito devoluções.[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_PAYFOR__4]
 [s]Este objeto está se tornando popular[n]entre meus amigos.[n]Aqui está: [f 2 5 3 9999 1].[n][w][e]
@@ -1489,7 +1489,7 @@
 [s]...Me desculpe, mas estou indo embora![n][w][e]
 
 [msg TalkMsg_GUY_RESULT_ENEMY_5]
-[s]OK, estou indo para casa.[n]Este não é o momento para eu[n]fazer certas coisas.[n][w][e]
+[s]Ok, estou indo para casa.[n]Este não é o momento para eu[n]fazer certas coisas.[n][w][e]
 [s]Eu tenho que melhorar como mulher primeiro![n][w][e]
 
 [msg TalkMsg_GUY_RESULT_ENEMY_6]
@@ -1503,7 +1503,7 @@
 
 [msg TalkMsg_GUY_RESULT_ENEMY_9]
 [s]Estou com muita raiva, sabe?[n]Não tenho tempo para você...[n][w][e]
-[s]...No entanto, isso é um pouco infantil.[n]...OK, vou ouvir você.[n][w][e]
+[s]...No entanto, isso é um pouco infantil.[n]...Ok, vou ouvir você.[n][w][e]
 
 [msg TalkMsg_RESULT_GET_SECRE]
 [s]Ah, você já sabe de tudo?[n]Ah, você está bem informado.[n]Tá bom, pega isso então.[n][w][e]

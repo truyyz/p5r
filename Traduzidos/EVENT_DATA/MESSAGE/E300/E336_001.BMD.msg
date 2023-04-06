@@ -34,7 +34,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Você se lembra do que me disse[n]quando descobri que você desmoronou[n]no Metaverso?[n][f 1 3 65535][w][e]
 
 [msg MSG_009_5_0 [Haru]]
-[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Que você é um ladrão fantasma. Que[n]você se tornará mais forte até ter[n]o reconhecimento dos outros.[n][f 1 3 65535][w][e]
+[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Que você é um Phantom Thief. Que[n]você se tornará mais forte até ter[n]o reconhecimento dos outros.[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Haru]]
 [s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Você ama isso aqui, não é?[n][f 1 3 65535][w][e]
@@ -119,7 +119,7 @@
 
 [msg MSG_027_0_0 [Morgana]]
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 0 0 43 65535 0]Este é o meu lugar![n]Eu decidi agora![n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 44 65535 0]Vou trabalhar duas vezes mais para pagar pelo[n]trabalho. Tarde demais para desistir do acordo,[n]OK?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 44 65535 0]Vou trabalhar duas vezes mais para pagar pelo[n]trabalho. Tarde demais para desistir do acordo,[n]Ok?[n][f 1 3 65535][w][e]
 
 [sel SEL_028_5_0 top]
 [s]Vamos fazê-lo juntos.[e]

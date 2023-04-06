@@ -196,7 +196,7 @@
 [s][vp 8 0 0 0 65535 0]Eu sinto a paixão de Kasumi...[n][f 1 3 65535][w][e]
 
 [msg MSG_050_0_0 [Kasumi]]
-[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]OK, agora que estamos atualizados, é[n]hora de passar para a próxima fase![n][f 1 3 65535][w][e]
+[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ok, agora que estamos atualizados, é[n]hora de passar para a próxima fase![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não quero ser muito duro, mas[n]vou treinar você ainda mais forte![n]Tente acompanhar![n][f 1 3 65535][w][e]
 
 [msg MND_051_0_0]

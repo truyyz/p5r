@@ -54,7 +54,7 @@
 [msg MSG_MIRIOTA_0921 [Lustre militar]]
 [s][vp 8 2 1 0 10 0]Oh, mal posso esperar para colocar minhas[n]mãos naquele lançamento do [clr 4]Hizutsu[clr 27][n]em novembro![n][w][e]
 [s][vp 8 2 1 0 10 0]Já tinham anunciado[n]há algum tempo, aí deu[n]um problema de produção, sei lá.[n][w][e]
-[s][vp 8 2 1 0 10 0]Eu pensei que talvez os[n]Ladrões Fantasmas tivessem roubado o projeto[n]ou algo assim.[n][w][e]
+[s][vp 8 2 1 0 10 0]Eu pensei que talvez os[n]Phantom Thieves tivessem roubado o projeto[n]ou algo assim.[n][w][e]
 [s][vp 8 2 1 0 10 0]E então, de repente...[n]Bang! As notícias...[n][w][e]
 [s][vp 8 2 1 0 10 0]Eles estão anunciando a data de lançamento![n]Essas pessoas sabem como[n]nos manter viciados, hein?[n][w][e]
 [s][vp 8 2 1 0 10 0]Mal posso esperar para ir para a cama[n]e abraçá-la inteira![n]É difícil esperar...![n][w][e]

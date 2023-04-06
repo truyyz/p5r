@@ -375,7 +375,7 @@
 [s]Qual você escolhe?[e]
 
 [msg ONE_RESEARCH_END_PC02_me [Ryuji]]
-[s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7158 65535 0]OK, vamos lá![n][w][e]
+[s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7158 65535 0]Ok, vamos lá![n][w][e]
 
 [msg ONE_RESEARCH_END_PC03_me [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1003 65535 0]Tudo bem, Joker! Vamos perguntar por aí![n][w][e]

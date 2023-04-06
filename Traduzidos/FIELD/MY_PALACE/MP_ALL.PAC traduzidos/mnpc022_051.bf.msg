@@ -70,7 +70,7 @@
 [s][bup 0 4 4 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]...Eu penso.[n][w][e]
 
 [msg MES_GROUP7_06 [Yusuke]]
-[s][bup 0 5 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 4021 65535 0]Ele pode ser um ladrão fantasma, mas há uma[n]linha que ele nunca cruzaria.[n][w][e]
+[s][bup 0 5 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 4021 65535 0]Ele pode ser um Phantom Thief, mas há uma[n]linha que ele nunca cruzaria.[n][w][e]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]...Provavelmente.[n][w][e]
 
 [msg MES_GROUP8_01 [Yusuke]]

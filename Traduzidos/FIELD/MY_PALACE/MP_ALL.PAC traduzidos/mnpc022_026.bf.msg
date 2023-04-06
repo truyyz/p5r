@@ -12,7 +12,7 @@
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 7196 65535 0]Mishima... você mudou, cara.[n][w][e]
 
 [msg MES_GROUP1_04 [Mishima]]
-[s][bup 0 111 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 19112 65535 0]Se isso for verdade, então eu tenho os[n]ladrões fantasmas para agradecer.[n][w][e]
+[s][bup 0 111 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 19112 65535 0]Se isso for verdade, então eu tenho os[n]Phantom Thieves para agradecer.[n][w][e]
 
 [msg MES_GROUP3_00 [Ann]]
 [s][bup 0 4 5 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 32 10 0 10][vp 8 2 1 6190 65535 0]Ele se viu como um rei... Ugh, isso me[n]irrita até agora.[n][w][e]
@@ -86,11 +86,11 @@
 
 [msg MES_GROUP9_02 [Ryuji]]
 [s][bup 0 2 2 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 40 10 0 10][vp 8 2 1 7101 65535 0]Quantos outros adultos de merda estão lá[n]fora, ficando com essa porcaria?[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Temos que fazer algo para ajudar. É o nosso[n]trabalho como os ladrões fantasmas.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Temos que fazer algo para ajudar. É o nosso[n]trabalho como os Phantom Thieves.[n][w][e]
 
 [msg MES_GROUP10_00 [Makoto]]
 [s][bup 0 6 3 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 42 10 0 10][vp 8 2 1 2047 65535 0]Kamoshida...[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu não tinha ideia do que ele estava fazendo[n]até que os ladrões fantasmas mudassem de[n]coração.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu não tinha ideia do que ele estava fazendo[n]até que os Phantom Thieves mudassem de[n]coração.[n][w][e]
 
 [msg MES_GROUP10_01 [Sumire]]
 [s][bup 0 10 3 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 57027 65535 0]Nem eu. Não acredito que ele estava fazendo[n]essas coisas nos bastidores...[n][w][e]

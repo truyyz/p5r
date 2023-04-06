@@ -35,7 +35,7 @@
 [s][f 0 8 2 1 2217]Vamos ver os dois.[clr 27][e]
 
 [msg MSG_006_3_0 [Kasumi]]
-[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0][f 5 13 33 5 10]OK para golfinhos! Que emocionante![n][f 1 3 65535][w][e]
+[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0][f 5 13 33 5 10]Ok para golfinhos! Que emocionante![n][f 1 3 65535][w][e]
 
 [msg MSG_006_5_0 [Kasumi]]
 [s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0][f 5 13 33 5 10]Leões-marinhos, então! Que emocionante![n][f 1 3 65535][w][e]

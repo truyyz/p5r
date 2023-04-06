@@ -115,7 +115,7 @@
 
 [msg MES_GROUP9_01 [Morgana]]
 [s][bup 0 3 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 3 10 0 10]Eu acho que você poderia dizer que eles[n]viviam por seu próprio conjunto de regras.[n][w][e]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Soa familiar. Talvez alguns desses piratas[n]pudessem ter sido considerados ladrões[n]fantasmas por si só.[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Soa familiar. Talvez alguns desses piratas[n]pudessem ter sido considerados Phantom[n]Thieves por si só.[n][w][e]
 
 [msg MES_GROUP9_02 [Yusuke]]
 [s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 41 10 0 10]Sim... é impossível negar o senso bruto de[n]justiça que emana do capitão Kidd aqui.[n][w][e]

@@ -3,7 +3,7 @@
 [s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Por que você me trouxe aqui?[n]E em um confessionário também?[n][f 1 3 65535][w][e]
 
 [sel SEL_START_1ST_R top]
-[s]É para os ladrões fantasmas.[e]
+[s]É para os Phantom Thieves.[e]
 [s]Algo de bom vai acontecer.[e]
 
 [msg MSG_CHOICE_1_R [Ryuji]]
@@ -11,7 +11,7 @@
 
 [msg MSG_CHOICE_2_R [Ryuji]]
 [s][bup 0 2 5 65535 0][f 4 10 65535 0 0][vp 8 2 0 7114 65535 0]Algo legal, hein? Embora[n]eu não entenda qual é o objetivo...[n][f 1 3 65535][w][e]
-[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Bem, é para os Phantom Thieves, não é?[n]OK, estou dentro.[n][f 1 3 65535][w][e]
+[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Bem, é para os Phantom Thieves, não é?[n]Ok, estou dentro.[n][f 1 3 65535][w][e]
 
 [msg MSG_RESULT_R [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 7048 65535 0]Hahaha, no final eu falei[n]sobre um monte de coisas...[n][f 1 3 65535][w][e]
@@ -26,7 +26,7 @@
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 7038 65535 0]Aquele...?!? Você me ligou[n]para me levar novamente[n]a este lugar?[n][f 1 3 65535][w][e]
 
 [msg MSG_START_COM_2_R [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Bem, é para os Phantom Thieves, não é?[n]OK, estou dentro.[n][f 1 3 65535][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Bem, é para os Phantom Thieves, não é?[n]Ok, estou dentro.[n][f 1 3 65535][w][e]
 
 [msg MSG_RESULT_2_R [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 7085 65535 0]Sabe, uma vez que você começa a[n]falar, você começa a gostar.[n]Uau, me livrei de um peso.[n][f 1 3 65535][w][e]
@@ -37,13 +37,13 @@
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Você não está tentando me dizer[n]algo, está?[n][f 1 3 65535][w][e]
 
 [sel SEL_START_1ST_A top]
-[s]É para os ladrões fantasmas.[e]
+[s]É para os Phantom Thieves.[e]
 [s]Algo de bom vai acontecer.[e]
 
 [msg MSG_CHOICE_1_A [Ann]]
 [s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 6027 65535 0]Ah... entendo.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]É a minha primeira vez[n]em um confessionário. Não sei o que[n]vai acontecer, mas...[n][f 1 3 65535][w][e]
-[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Acho que isso vai me ajudar a aprender alguma[n]coisa. OK... Então eu vou.[n][f 1 3 65535][w][e]
+[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Acho que isso vai me ajudar a aprender alguma[n]coisa. Ok... Então eu vou.[n][f 1 3 65535][w][e]
 
 [msg MSG_CHOICE_2_A [Ann]]
 [s][bup 0 4 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 6022 65535 0]Algo legal?[n]Ah, então fazemos isso[n]para os Phantom Thieves?[n][f 1 3 65535][w][e]
@@ -90,7 +90,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Mas... um confessionário?[n]E assim de repente...[n][f 1 3 65535][w][e]
 
 [sel SEL_START_1ST_Y top]
-[s]É para os ladrões fantasmas.[e]
+[s]É para os Phantom Thieves.[e]
 [s]Algo de bom vai acontecer.[e]
 
 [msg MSG_CHOICE_1_Y [Yusuke]]
@@ -125,11 +125,11 @@
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Mas eu teria preferido um pequeno[n]aviso. Espero que seja importante.[n][f 1 3 65535][w][e]
 
 [sel SEL_START_1ST_M top]
-[s]É para os ladrões fantasmas.[e]
+[s]É para os Phantom Thieves.[e]
 [s]Algo de bom vai acontecer.[e]
 
 [msg MSG_CHOICE_1_M [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 2021 65535 0]Ah... OK, agora entendi.[n][f 1 3 65535][w][e]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 2021 65535 0]Ah... Ok, agora entendi.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Você deveria ter dito isso desde[n]o começo. Eu estava preocupado[n]sem motivo...[n][f 1 3 65535][w][e]
 [s][bup 0 6 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 2048 65535 0]Não importa, eu entro.[n]Estou um pouco empolgado, sabe?[n][f 1 3 65535][w][e]
 
@@ -161,7 +161,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Hum, há algo que eu[n]deva confessar?[n][f 1 3 65535][w][e]
 
 [sel SEL_START_1ST_H top]
-[s]É para os ladrões fantasmas.[e]
+[s]É para os Phantom Thieves.[e]
 [s]Algo de bom vai acontecer.[e]
 
 [msg MSG_CHOICE_1_H [Haru]]
@@ -196,11 +196,11 @@
 [s][bup 0 9 3 65535 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Sua ligação repentina[n]me surpreendeu, mas... Fiz algo[n]que te ofendeu?[n][f 1 3 65535][w][e]
 
 [sel SEL_START_1ST_G top]
-[s]É para os ladrões fantasmas.[e]
+[s]É para os Phantom Thieves.[e]
 [s]Algo de bom vai acontecer.[e]
 
 [msg MSG_CHOICE_1_G [Akechi]]
-[s][bup 0 9 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 8038 65535 0]Para os ladrões fantasmas? Eu entendo.[n][f 1 3 65535][w][e]
+[s][bup 0 9 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 8038 65535 0]Para os Phantom Thieves? Eu entendo.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Tudo bem, eu entro então.[n][f 1 3 65535][w][e]
 
 [msg MSG_CHOICE_2_G [Akechi]]
@@ -219,7 +219,7 @@
 [s][bup 0 9 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 8029 65535 0]Você me ligou de novo[n]sem avisar...[n][f 1 3 65535][w][e]
 
 [msg MSG_START_COM_2_G [Akechi]]
-[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Mas é para os Phantom Thieves,[n]certo? OK, eu aceito.[n][f 1 3 65535][w][e]
+[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Mas é para os Phantom Thieves,[n]certo? Ok, eu aceito.[n][f 1 3 65535][w][e]
 
 [msg MSG_RESULT_2_G [Akechi]]
 [s][bup 0 9 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Foi agradável. Consegui[n]colocar meus pensamentos em ordem.[n]Foi o suficiente para eu falar livremente.[n][f 1 3 65535][w][e]
@@ -230,7 +230,7 @@
 [s][bup 0 9 11 65535 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0]De repente, você me liga para[n]pedir para me encontrar aqui...[n]Você é um personagem legal.[n][f 1 3 65535][w][e]
 
 [sel SEL_START_1ST_BG top]
-[s]É para os ladrões fantasmas.[e]
+[s]É para os Phantom Thieves.[e]
 [s]Algo de bom vai acontecer.[e]
 
 [msg MSG_CHOICE_1_BG [Akechi]]
@@ -264,11 +264,11 @@
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Estamos em uma igreja, então isso[n]deve ser um confessionário...[n]Eu fiz algo errado?[n][f 1 3 65535][w][e]
 
 [sel SEL_START_1ST_YS top]
-[s]É para os ladrões fantasmas.[e]
+[s]É para os Phantom Thieves.[e]
 [s]Algo de bom vai acontecer.[e]
 
 [msg MSG_CHOICE_1_YS [Sumire]]
-[s][bup 0 10 4 65535 0][f 4 10 65535 0 0][vp 8 2 1 57173 65535 0]OK...? Ainda estou confuso, mas[n]acho que vou voltar para dentro![n][f 1 3 65535][w][e]
+[s][bup 0 10 4 65535 0][f 4 10 65535 0 0][vp 8 2 1 57173 65535 0]Ok...? Ainda estou confuso, mas[n]acho que vou voltar para dentro![n][f 1 3 65535][w][e]
 
 [msg MSG_CHOICE_2_YS [Sumire]]
 [s][bup 0 10 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 57060 65535 0]Ah, você não me disse nada disso...[n][f 1 3 65535][w][e]
@@ -287,7 +287,7 @@
 [s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 57170 65535 0]Você é muito bom em conseguir que[n]pessoas o encontrem em tão[n]curto prazo, senpai...[n][f 1 3 65535][w][e]
 
 [msg MSG_START_COM_2_YS [Sumire]]
-[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]OK, eu vou entrar. Por favor, espere por mim[n]aqui.[n][f 1 3 65535][w][e]
+[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Ok, eu vou entrar. Por favor, espere por mim[n]aqui.[n][f 1 3 65535][w][e]
 
 [msg MSG_RESULT_2_YS [Sumire]]
 [s][bup 0 10 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 57119 65535 0]Acho este lugar surpreendentemente[n]relaxante. Será por causa[n]da luz suave...?[n][f 1 3 65535][w][e]

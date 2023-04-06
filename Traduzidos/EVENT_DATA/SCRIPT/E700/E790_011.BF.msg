@@ -18,7 +18,7 @@
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Como você chamaria isso? De volta? Antigo?[n]É lindo à sua maneira.[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Morgana]]
-[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 0 1155 65535 0]Tente limpar com o uso de corpo inteiro, OK? Caso[n]contrário, seus braços vão cansar rapidamente.[n][f 1 3 65535][w][e]
+[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 0 1155 65535 0]Tente limpar com o uso de corpo inteiro, Ok? Caso[n]contrário, seus braços vão cansar rapidamente.[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Morgana]]
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Hum. Essa postura... Nada mal![n]Limpar como um profissional![n][f 1 3 65535][w][e]

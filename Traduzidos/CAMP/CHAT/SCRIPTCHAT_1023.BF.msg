@@ -15,7 +15,7 @@
 [s][f 5 14]Vamos ao Palácio.[e]
 
 [msg MSG_REACTION [Haru]]
-[s][f 5 14]OK, entendi.[n][w][e]
+[s][f 5 14]Ok, entendi.[n][w][e]
 
 [msg MSG_REACTION_02 [Haru]]
 [s][f 5 14]Eu irei ao local de encontro.[n][f 5 15][w][e]

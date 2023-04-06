@@ -29,7 +29,7 @@
 [s][f 0 8 2 1 2217]Vou fazer um café para você.[clr 27][e]
 
 [msg MSG_007_0_0 [Futaba]]
-[s][bup 0 8 1 4 0][f 4 10 65535 0 0][vp 8 0 0 55 65535 0][f 5 13 10 5 8]OK![n][f 1 3 65535][w][e]
+[s][bup 0 8 1 4 0][f 4 10 65535 0 0][vp 8 0 0 55 65535 0][f 5 13 10 5 8]Ok![n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Futaba]]
 [s][bup 0 8 7 4 0][f 4 10 65535 0 0][f 4 24 0 6 0 0 5 100][vp 8 0 0 11 65535 0]N-eu não estou nervoso, eu juro.[n][f 1 3 65535][w][e]
@@ -96,7 +96,7 @@
 [s][bup 0 8 0 4 0][f 4 10 65535 0 0][vp 8 0 0 30 65535 0][f 5 13 10 5 8]Normalmente... existe algo[n]online sobre o assunto?[n][f 1 3 65535][w][e]
 
 [msg MSG_029_0_0 [Futaba]]
-[s][bup 0 8 1 4 0][f 4 10 65535 0 0][vp 8 0 0 54 65535 0][f 5 13 10 10 8]OK![n][f 1 3 65535][w][e]
+[s][bup 0 8 1 4 0][f 4 10 65535 0 0][vp 8 0 0 54 65535 0][f 5 13 10 10 8]Ok![n][f 1 3 65535][w][e]
 
 [msg MSG_030_0_0 [Futaba]]
 [s][bup 0 8 1 4 0][f 4 10 65535 0 0][vp 8 0 0 32 65535 0][f 5 13 10 15 8]Uau, ótima ideia! Tenho certeza que[n]Kana-chan gostaria.[n][f 1 3 65535][w][e]
@@ -105,7 +105,7 @@
 [s][bup 0 8 0 4 0][f 4 10 65535 0 0][vp 8 0 0 52 65535 0]Ei...[n][f 1 3 65535][w][e]
 
 [msg MSG_031_0_0 [Futaba]]
-[s][bup 0 8 6 4 0][f 4 10 65535 0 0][vp 8 0 0 60 65535 0]Eu... chego mais perto... OK?[n][f 1 3 65535][w][e]
+[s][bup 0 8 6 4 0][f 4 10 65535 0 0][vp 8 0 0 60 65535 0]Eu... chego mais perto... Ok?[n][f 1 3 65535][w][e]
 
 [msg MSG_032_0_0 [Futaba]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 8 13 300 1][vp 8 0 0 34 65535 0]Chegou a hora![n][f 1 3 65535][w][e]

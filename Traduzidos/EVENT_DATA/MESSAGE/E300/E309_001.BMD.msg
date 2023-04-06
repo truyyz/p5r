@@ -90,7 +90,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 52 65535 0]Como você já conhece nosso[n]segredo, gostaríamos que você se juntasse a[n]nossa equipe.[n][f 1 3 65535][w][e]
 
 [msg MSG_042_0_0 [Futaba]]
-[s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 53 65535 0]OK.[n][f 1 3 65535][w][e]
+[s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 53 65535 0]Ok.[n][f 1 3 65535][w][e]
 
 [msg MSG_043_0_0 [Ann]]
 [s][bup 0 4 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 54 65535 0]Ah, então?[n][f 1 3 65535][w][e]
@@ -174,7 +174,7 @@
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 77 65535 0]Obrigada. Podemos preparar[n]um programa com todos os outros[n]segundo a sua disponibilidade.[n][f 1 3 65535][w][e]
 
 [msg MSG_066_0_0 [Ann]]
-[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 78 65535 0]OK![n][f 1 3 65535][w][e]
+[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 78 65535 0]Ok![n][f 1 3 65535][w][e]
 
 [msg MSG_067_0_0 [Futaba]]
 [s][bup 0 8 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 79 65535 0]Será que vou conseguir?[n][f 1 3 65535][w][e]

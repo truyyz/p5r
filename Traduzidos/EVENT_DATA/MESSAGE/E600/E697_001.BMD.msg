@@ -83,7 +83,7 @@
 [s][vp 8 0 0 0 65535 0]E agora as notícias.[n]Manchetes do dia:[n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Monitores de trem]]
-[s][vp 8 0 0 0 65535 0]"Questão dos Ladrões Fantasmas!"[n]A oposição acusa o governo[n]de inação.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]"Questão dos Phantom Thieves!"[n]A oposição acusa o governo[n]de inação.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]"Phantom Thieves Mania!"[w][e]
 [s][vp 8 0 0 0 65535 0]"Descubra Tóquio!"[n]Visite Destinyland,[n]o parque dos seus sonhos![n][f 1 3 65535][w][e]
 

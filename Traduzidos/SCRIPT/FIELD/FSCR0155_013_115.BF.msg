@@ -5,7 +5,7 @@
 [s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Não vamos baixar a guarda,[n]no entanto. Temos que manter[n]olhos abertos até o fim.[n][w][e]
 
 [msg D04_02_e296_522_mes01 [Ann]]
-[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]OK, nós fizemos![n]Vamos passar para o próximo![n][w][e]
+[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ok, nós fizemos![n]Vamos passar para o próximo![n][w][e]
 
 [msg D04_02_e296_522_mes02 [Ryuji]]
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Podem ser muitos, mas[n]eles não dependem de nós![n][w][e]

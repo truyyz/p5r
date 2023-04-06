@@ -1,6 +1,6 @@
 [msg MSG_000_0_0 [Diretor da UIS]]
 [s][bup 0 213 3 0 0][f 4 10 65535 0 0][vp 8 0 0 1 4 0]A mídia de massa tem levantado[n]muito barulho ultimamente.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 2 4 0]"Nenhuma reação a Ladrões Fantasmas", "Polícia[n]envergonhada", "Adeus Segurança"...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 2 4 0]"Nenhuma reação a Phantom Thieves", "Polícia[n]envergonhada", "Adeus Segurança"...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 3 4 0]Eles falam o que querem.[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Diretor da UIS]]

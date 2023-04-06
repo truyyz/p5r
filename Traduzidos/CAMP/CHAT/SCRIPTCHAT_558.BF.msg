@@ -5,7 +5,7 @@
 [s][f 5 14]Eu tenho boas notícias embora. Você pode[n]passar na loja agora?[n][f 5 15][w][e]
 
 [msg CHAT_REACTION_MSG_01 [Iwai]]
-[s][f 5 14]OK. Vejo você na parte de trás da loja.[n][f 5 15][w][e]
+[s][f 5 14]Ok. Vejo você na parte de trás da loja.[n][f 5 15][w][e]
 
 [msg MSG_MORUGANA_CORPNG [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Você ainda deve estar cansado da jornada do[n]Metaverso. Talvez[n]você devesse descansar hoje.[n][f 1 3 65535][w][e]
@@ -16,7 +16,7 @@
 [s]Decidir depois[e]
 
 [sel SEL_002 top]
-[s][f 5 14]OK, eu vou lá.[e]
+[s][f 5 14]Ok, eu vou lá.[e]
 
 [msg MSG_CORP_PLAY_CHECK1 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Parece que Iwai quer falar com você. Você[n]quer ir até ele esta noite?[n][f 1 3 65535][w][e]

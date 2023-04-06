@@ -45,7 +45,7 @@
 
 [msg D01_03_e161_024_mes03 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 6 0 0]Incrível! Uma habilidade como essa[n]dá a você uma tremenda vantagem na[n]batalha![n][w][e]
-[s][bup 0 3 1 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 7 0 0]OK, se surgir a oportunidade[n]faça de novo! Torne-se útil[n]também, Skull![n][w][e]
+[s][bup 0 3 1 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 7 0 0]Ok, se surgir a oportunidade[n]faça de novo! Torne-se útil[n]também, Skull![n][w][e]
 
 [msg D01_03_e161_024_mes04 [Ryuji]]
 [s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 8 0 0]Sim, droga! Vamos rasgá-los em pedaços![n][w][e]

@@ -40,7 +40,7 @@
 [s][f 5 14]Você não sabe? Está quase na hora da[n]viagem escolar.[n][w][e]
 
 [msg MSG_015_0_0 [Mishima]]
-[s][f 5 14]Porque? Nós dois vamos em uma viagem[n]escolar.[n][w][e]
+[s][f 5 14]Por quê? Nós dois vamos em uma viagem[n]escolar.[n][w][e]
 
 [msg MSG_017_0_0 [Mishima]]
 [s][f 5 14]De qualquer forma, prepare-se para o[n]novo recurso.[n][w][e]

@@ -49,7 +49,7 @@
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Talvez esses lugares estejam ligados[n]aos mundos de nossas mentes,[n]ou ao inconsciente coletivo...[n][w][e]
 
 [msg D01_BRIEFING_010_selA_0__4 [Ryuji]]
-[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7020 65535 0]Oh, OK.[n][w][e]
+[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7020 65535 0]Oh, Ok.[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Espere, isso não faz o menor sentido![n][w][e]
 
 [msg D01_BRIEFING_010_selA_0__5 [Morgana]]

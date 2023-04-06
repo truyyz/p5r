@@ -57,7 +57,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Venha aqui. Vou te ensinar a moer os grãos.[n][w][e]
 
 [msg MES_GROUP3_05 [Futaba]]
-[s][bup 0 8 4 65535 0][f 4 10 65535 0 0][vp 8 2 1 9041 65535 0]S-Sim senhor! Apenas tente...[n]seja paciente, OK?[n][w][e]
+[s][bup 0 8 4 65535 0][f 4 10 65535 0 0][vp 8 2 1 9041 65535 0]S-Sim senhor! Apenas tente...[n]seja paciente, Ok?[n][w][e]
 
 [msg MES_GROUP4_01 [Sae]]
 [s][bup 0 105 3 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 21060 65535 0]Mais uma vez, tenho que me desculpar pelo[n]caso de Futaba-san.[n][w][e]

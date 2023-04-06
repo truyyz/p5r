@@ -20,7 +20,7 @@
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 5 0 0]Não é tão fácil. Ainda há um longo caminho a[n]percorrer e devemos conservar nossas forças.[n][w][e]
 
 [msg D01_02_129_061_mes06 [Ryuji]]
-[s][bup 0 2 3 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 6 0 0]OK... Desculpe...[n][w][e]
+[s][bup 0 2 3 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 6 0 0]Ok... Desculpe...[n][w][e]
 [s][bup 0 2 5 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 7 0 0]Porra, eu gostaria de poder[n]lutar... Ou pelo menos,[n]eu gostaria de ajudar...[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 8 0 0]Não tenho nada além deste[n]brinquedo... Sou um perdedor.[n][w][e]
 
@@ -32,7 +32,7 @@
 
 [msg D01_02_129_061_mes09 [Morgana]]
 [s][bup 0 3 8 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 11 0 0]Entendo... Na verdade, não haveria[n]uma maneira...[n][w][e]
-[s][bup 0 3 1 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 12 0 0]OK, vamos usá-lo para[n]derrubar os inimigos![n][w][e]
+[s][bup 0 3 1 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 12 0 0]Ok, vamos usá-lo para[n]derrubar os inimigos![n][w][e]
 
 [msg D01_02_129_061_mes10 [Ryuji]]
 [s][bup 0 2 4 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 13 0 0]O que?!? Você me ouviu?[n]Ele nem atira as pelotas...[n][w][e]
@@ -132,7 +132,7 @@
 
 [msg D01_02_e129_065_mes03 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 3 0 0]Eu não acho que haja outra[n]escolha... Mas espere, pode[n]ser a hora certa...[n][w][e]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 4 0 0]OK, eu decidi! Eu vou te ensinar[n]uma maneira especial de[n]lidar com os inimigos![n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 4 0 0]Ok, eu decidi! Eu vou te ensinar[n]uma maneira especial de[n]lidar com os inimigos![n][w][e]
 
 [sel D01_02_e129_065_selA top]
 [s]Uma nova técnica?[f 2 7 0 0 106 1][e]
@@ -162,7 +162,7 @@
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 7 0 0]Agora, como eu disse, gostaria que você[n]coordenasse nossas ações.[n]Você pode decidir quando nos deixar usá-lo.[n][w][e]
 
 [sel D01_02_e129_066_selA top]
-[s]OK.[e]
+[s]Ok.[e]
 [s]Muito complicado.[e]
 
 [msg D01_02_e129_066_selA_1_m [Morgana]]

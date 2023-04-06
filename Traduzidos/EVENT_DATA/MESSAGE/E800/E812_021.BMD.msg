@@ -21,7 +21,7 @@
 [msg MSG_004_0_0 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 3 15 6]É verdade. Há sempre uma[n]primeira vez para tudo.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O cerne da questão é[n]ter força de vontade[n]para tentar.[n][f 1 3 65535][w][e]
-[s][bup 0 6 2 65535 0][f 4 10 65535 0 0][vp 8 2 0 2108 65535 0][f 4 24 0 4 0 37 5 100]OK... agora vou cozinhar[n]o monjayaki perfeito![n][f 1 3 65535][w][e]
+[s][bup 0 6 2 65535 0][f 4 10 65535 0 0][vp 8 2 0 2108 65535 0][f 4 24 0 4 0 37 5 100]Ok... agora vou cozinhar[n]o monjayaki perfeito![n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Hum, com licença! Eu[n]pediria a monja mais tradicional[n]que você tem no cardápio.[n][f 1 3 65535][w][e]

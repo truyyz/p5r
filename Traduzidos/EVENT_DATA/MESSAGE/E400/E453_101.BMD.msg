@@ -12,7 +12,7 @@
 [s][bup 0 2 0 4 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]Huh? Veludo...?[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Ryuji]]
-[s][bup 0 2 5 4 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]OK...[n][f 1 3 65535][w][e]
+[s][bup 0 2 5 4 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Ok...[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Ryuji]]
 [s][bup 0 2 0 4 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Cara, essa cela me lembra[n]quando nos conhecemos...[n][f 1 3 65535][w][e]
@@ -54,7 +54,7 @@
 [s]Então você quer desistir?[e]
 
 [msg MSG_012_0_0 [Ryuji]]
-[s][bup 0 2 4 4 0][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]Isso é tudo...OK...?[n][f 1 3 65535][w][e]
+[s][bup 0 2 4 4 0][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]Isso é tudo...Ok...?[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Ryuji]]
 [s][bup 0 2 4 4 0][f 4 10 65535 0 0][vp 8 0 0 22 65535 0][f 4 2]...[n][f 1 3 65535][w][e]

@@ -16,7 +16,7 @@
 [s]Vamos esperar.[e]
 
 [msg D05_05_EX3BOSS_selA_2_01 [Haru]]
-[s][bup 0 7 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 3035 65535 0]OK. Devemos voltar quando tivermos certeza de que[n]estamos prontos.[n][w][e]
+[s][bup 0 7 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 3035 65535 0]Ok. Devemos voltar quando tivermos certeza de que[n]estamos prontos.[n][w][e]
 
 [msg D05_05_EX3BOSS_before_ba [Robô Guarda]]
 [s]É preciso coragem para ignorar seus próprios[n]deveres e acreditar...[n][w][e]

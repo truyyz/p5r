@@ -19,7 +19,7 @@
 [msg MSG_004_0_0 [Kasumi]]
 [s][bup 0 10 201 0 0][f 4 10 65535 0 0][vp 8 2 0 57157 65535 0][f 5 13 33 5 10]Bom! Corajoso! Feliz[n]ao ouvir isso.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]A ginástica de alto nível[n]é maravilhosa, mas exige[n]muito alongamento.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]OK! Continuamos![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ok! Continuamos![n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Kasumi]]
 [s][bup 0 10 200 0 0][f 4 10 65535 0 0][vp 8 2 0 57142 65535 0]Estou conseguindo... Afinal, o treinamento[n]do meu treinador é dez vezes[n]mais difícil do que isso.[n][f 1 3 65535][w][e]
@@ -28,7 +28,7 @@
 [msg MSG_006_0_0 [Kasumi]]
 [s][bup 0 10 200 0 0][f 4 10 65535 0 0][vp 8 2 0 57058 65535 0][f 5 13 33 5 10]Você nunca se segura, hein?[n]Mas eu sei como você se sente.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Quando você não consegue se concentrar[n]em um exercício, pode se alongar[n]enquanto conversa ou assiste TV.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]OK, vamos continuar! Se nada mais,[n]vou garantir que você não fique entediado![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ok, vamos continuar! Se nada mais,[n]vou garantir que você não fique entediado![n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Kasumi]]
 [s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Concentração![n][f 1 3 65535][w][e]

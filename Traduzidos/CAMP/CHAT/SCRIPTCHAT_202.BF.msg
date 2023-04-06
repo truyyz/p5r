@@ -2,7 +2,7 @@
 [s][f 5 14]Eu verifiquei a[n]loja de acessórios na minha[n]caminhada para casa.[n][w][e]
 [s][f 5 14]Adivinha'? Eu entrei[n]bem quando o reclamante[n]estava se desculpando![n][w][e]
 [s][f 5 14]Eu realmente acredito que o lojista[n]vai ficar bem.[n][w][e]
-[s][f 5 14]É bom ser um Ladrão Fantasma. Posso[n]proteger aqueles ao meu redor, entendeu?[n][w][e]
+[s][f 5 14]É bom ser um Phantom Thief. Posso[n]proteger aqueles ao meu redor, entendeu?[n][w][e]
 
 [sel SEL_001_0_0 top]
 [s][f 5 14]O caso está resolvido.[e]

@@ -21,7 +21,7 @@
 [s][bup 0 6 0 4 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Está quase na hora do jantar.[n]Devemos encontrar um lugar[n]para comer?[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Makoto]]
-[s][bup 0 6 0 4 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]OK, vamos embora.[n][f 1 3 65535][w][e]
+[s][bup 0 6 0 4 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Ok, vamos embora.[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Makoto]]
 [s][bup 0 6 7 4 0][f 4 10 65535 0 0][vp 1 0 0 9 65535 0]...Ah, hum...[n][f 1 3 65535][w][e]

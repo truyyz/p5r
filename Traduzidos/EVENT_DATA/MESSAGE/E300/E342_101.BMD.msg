@@ -2,7 +2,7 @@
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]Você cuida disso, Haru.[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Haru]]
-[s][bup 0 7 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]OK...Eu só tenho que deixar isso[n]no escritório do meu pai[n]e o Tesouro aparecerá, certo?[n][f 1 3 65535][w][e]
+[s][bup 0 7 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Ok...Eu só tenho que deixar isso[n]no escritório do meu pai[n]e o Tesouro aparecerá, certo?[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Se ele notar a carta[n]de desafio, sim.[n][f 1 3 65535][w][e]

@@ -279,7 +279,7 @@
 [s][bup 0 8 602 65535 0][f 4 10 65535 0 0][vp 8 0 2 1053 0 8]O atirador está na posição designada.[n]Tudo o que resta é esperar[n]pelo próximo giro da roleta.[n][f 1 3 65535][w][e]
 
 [msg MSG_TRICKBUSTER_000_002 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 0 2 1 0 3]OK, eu vou atirar![n][f 1 3 65535][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 0 2 1 0 3]Ok, eu vou atirar![n][f 1 3 65535][w][e]
 
 [msg MSG_TRICKBUSTER_000_003 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 2 1 0 4]Lá vem ele![n][f 1 3 65535][w][e]

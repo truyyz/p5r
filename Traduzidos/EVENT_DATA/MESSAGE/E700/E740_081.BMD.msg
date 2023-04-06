@@ -77,7 +77,7 @@
 [s][bup 0 107 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Cuidado com a mídia de massa![n]...Especialmente quando se trata de[n]homens.[n][f 1 3 65535][w][e]
 
 [msg MSG_020_3_0 [Haru]]
-[s][bup 0 7 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Oh, um... OK.[n][f 1 3 65535][w][e]
+[s][bup 0 7 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Oh, um... Ok.[n][f 1 3 65535][w][e]
 
 [sel SEL_020_5_0 top]
 [s][f 0 8 2 1 2217]Está tudo bem.[clr 27][e]

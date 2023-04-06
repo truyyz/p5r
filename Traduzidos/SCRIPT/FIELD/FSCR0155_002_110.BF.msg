@@ -88,5 +88,5 @@
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6041 65535 0]O que é que foi isso?!?[n][w][e]
 
 [msg MSG_e295_101_003 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ah Merda...! Ruim, péssimo, péssimo![n]Correteeeeeee![n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ah Merda...! Isso é ruim, péssimo, péssimo![n]Correeeeeee![n][w][e]
 

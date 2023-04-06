@@ -30,7 +30,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]"Eu gostaria que os Phantom Thieves[n]cuidassem da polícia[n]e dos políticos do país!"[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Ann]]
-[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Não são apenas as notícias.[n]Eles também vendem[n]mercadoria dos Ladrões Fantasmas agora.[n][f 1 3 65535][w][e]
+[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Não são apenas as notícias.[n]Eles também vendem[n]mercadoria dos Phantom Thieves agora.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Eu nunca esperei que[n]coisa explodisse assim...[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Yusuke]]

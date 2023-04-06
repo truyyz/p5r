@@ -8,7 +8,7 @@
 [s][bup 0 2 7 65535 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Nada! Vá em frente, Yusuke.[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Yusuke]]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]OK, digitei o nome de Kaneshiro[n]no Navi. E como esperado...[n]funcionou.[n][f 1 3 65535][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]Ok, digitei o nome de Kaneshiro[n]no Navi. E como esperado...[n]funcionou.[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Agora precisamos das outras duas[n]palavras-chave: o que ele considera como[n]seu palácio e sua posição.[n][f 1 3 65535][w][e]
@@ -45,7 +45,7 @@
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Eu entendo...[n][f 1 3 65535][w][e]
 
 [msg MSG_025_0_0 [Yusuke]]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]OK... Funciona![n][f 1 3 65535][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]Ok... Funciona![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]Portanto, há algo nesta cidade[n]que ele considera como seu[n]banco pessoal![n][f 1 3 65535][w][e]
 
 [msg MSG_026_0_0 [Ann]]

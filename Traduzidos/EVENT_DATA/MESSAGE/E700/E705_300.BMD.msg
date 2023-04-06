@@ -1,5 +1,5 @@
 [msg MSG_000_0_0 [Sojiro]]
-[s][bup 0 103 600 0 0][f 4 10 65535 0 0][vp 8 2 0 5100 65535 0]OK, deixarei o resto com você.[n][f 1 3 65535][w][e]
+[s][bup 0 103 600 0 0][f 4 10 65535 0 0][vp 8 2 0 5100 65535 0]Ok, deixarei o resto com você.[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Sojiro]]
 [s][bup 0 103 601 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Devo dizer que estou feliz que[n]ele entenda essas coisas rapidamente.[n]Isso torna minha vida mais fácil.[n][f 1 3 65535][w][e]

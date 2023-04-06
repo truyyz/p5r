@@ -169,7 +169,7 @@
 [s][vp 8 2 1 0 1 0]Mas já é uma notícia datada na Internet... e os[n]Phantom Thieves assassinaram alguém.[n][w][e]
 
 [msg MSG_GARAKEIJYOSI_016_0_0 [Estudante elegante]]
-[s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]A Internet inteira está procurando[n]os Ladrões Fantasmas.[n]Eu não durmo com eles à noite.[n][w][e]
+[s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]A Internet inteira está procurando[n]os Phantom Thieves.[n]Eu não durmo com eles à noite.[n][w][e]
 [s][vp 8 2 1 0 1 0]Muitos argumentam que[n]eles estão de alguma forma relacionados[n]a Shujin. Você sabe alguma coisa sobre isso?[n][w][e]
 
 [msg MSG_GARAKEIJYOSI_016_1_0 [Shujin garota na mão]]
@@ -1100,7 +1100,7 @@
 [s][vp 9 2 65535 45107 0 0]Toda a conversa sobre despertar[n]o coração era mentira![n]Eles são assassinos![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_020_01_ [Shiho]]
-[s][vp 9 2 65535 39402 0 0]Esses ladrões fantasmas são[n]monstros. Eles devem[n]apodrecer na prisão ...[n][f 1 2 180][e]
+[s][vp 9 2 65535 39402 0 0]Esses Phantom Thieves são[n]monstros. Eles devem[n]apodrecer na prisão ...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_020_02_ [Shiho]]
 [s][vp 9 2 65535 46201 0 0]Por que o governo não intervém?[n]Cadê a polícia!?![n][f 1 2 180][e]
@@ -1112,7 +1112,7 @@
 [s][vp 9 2 65535 41559 0 0]O que[n]a polícia está fazendo?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_020_03_ [Shiho]]
-[s][vp 9 2 65535 38507 0 0]Esses ladrões fantasmas são[n]monstros. Eles devem[n]apodrecer na prisão ...[n][f 1 2 180][e]
+[s][vp 9 2 65535 38507 0 0]Esses Phantom Thieves são[n]monstros. Eles devem[n]apodrecer na prisão ...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_020_04_ [Shiho]]
 [s][vp 9 2 65535 45452 0 0]Alguém tem que parar os[n]Phantom Thieves,[n]não importa quem![n][f 1 2 180][e]
@@ -1124,7 +1124,7 @@
 [s][vp 9 2 65535 41559 0 0]O que[n]a polícia está fazendo?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_020_05_ [Shiho]]
-[s][vp 9 2 65535 41051 0 0]Esses ladrões fantasmas são[n]monstros. Eles devem[n]apodrecer na prisão ...[n][f 1 2 180][e]
+[s][vp 9 2 65535 41051 0 0]Esses Phantom Thieves são[n]monstros. Eles devem[n]apodrecer na prisão ...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_020_06_ [Shiho]]
 [s][vp 9 2 65535 41559 0 0]O que[n]a polícia está fazendo?[n][f 1 2 180][e]
@@ -1136,7 +1136,7 @@
 [s][vp 9 2 65535 41559 0 0]O que[n]a polícia está fazendo?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_020_07_ [Shiho]]
-[s][vp 9 2 65535 42207 0 0]Esses ladrões fantasmas são[n]monstros. Eles devem[n]apodrecer na prisão ...[n][f 1 2 180][e]
+[s][vp 9 2 65535 42207 0 0]Esses Phantom Thieves são[n]monstros. Eles devem[n]apodrecer na prisão ...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_020_08_ [Shiho]]
 [s][vp 9 2 65535 38551 0 0]Por que o governo não intervém?[n]Cadê a polícia!?![n][f 1 2 180][e]
@@ -1271,7 +1271,7 @@
 [s][vp 9 2 65535 46053 0 0]Nas eleições de fim de ano[n]posso votar em[n]Shido-san.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_025_01_ [Shiho]]
-[s][vp 9 2 65535 38704 0 0]Se aquele Ladrão Fantasma[n]chutou o balde, estamos[n]seguros, certo?[n][f 1 2 180][e]
+[s][vp 9 2 65535 38704 0 0]Se aquele Phantom Thief[n]chutou o balde, estamos[n]seguros, certo?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_025_02_ [Shiho]]
 [s][vp 9 2 65535 46400 0 0]Depois que o Thief[n]Phantom morrer, podemos relaxar...[n][f 1 2 180][e]
@@ -1280,13 +1280,13 @@
 [s][vp 9 2 65535 39451 0 0]Ele se matou logo após a prisão. Provavelmente[n]era louco...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_025_04_ [Shiho]]
-[s][vp 9 2 65535 39652 0 0]Eu nunca pensei que[n]aquele Ladrão Fantasma[n]iria cometer suicídio...[n][f 1 2 180][e]
+[s][vp 9 2 65535 39652 0 0]Eu nunca pensei que[n]aquele Phantom Thief[n]iria cometer suicídio...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_025_05_ [Shiho]]
-[s][vp 9 2 65535 38404 0 0]E pensar que o Ladrão Fantasma[n]era uma criança. Eu não pensei...[n][f 1 2 180][e]
+[s][vp 9 2 65535 38404 0 0]E pensar que o Phantom Thief[n]era uma criança. Eu não pensei...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_025_06_ [Shiho]]
-[s][vp 9 2 65535 39705 0 0]O Ladrão Fantasma está[n]morto, não está? Agora[n]tudo deve ficar bem...[n][f 1 2 180][e]
+[s][vp 9 2 65535 39705 0 0]O Phantom Thief está[n]morto, não está? Agora[n]tudo deve ficar bem...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_025_07_ [Shiho]]
 [s]0[n][f 1 2 180][e]
@@ -1370,10 +1370,10 @@
 [s][vp 9 2 65535 43300 0 0]Shido-san é muito diferente[n]dos outros políticos![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_028_01_ [Shiho]]
-[s][vp 9 2 65535 40105 0 0]O Ladrão Fantasma está morto,[n]ele é? O que está acontecendo...?[n][f 1 2 180][e]
+[s][vp 9 2 65535 40105 0 0]O Phantom Thief está morto,[n]ele é? O que está acontecendo...?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_028_02_ [Shiho]]
-[s][vp 9 2 65535 45452 0 0]É verdade o que dizem[n]aqueles Ladrões Fantasmas...?[n][f 1 2 180][e]
+[s][vp 9 2 65535 45452 0 0]É verdade o que dizem[n]aqueles Phantom Thieves...?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_028_09_ [Shiho]]
 [s][vp 9 2 65535 39455 0 0]Por que os Phantom Thieves estão mexendo com[n]Shido? Não entendo...[n][f 1 2 180][e]
@@ -1388,10 +1388,10 @@
 [s][vp 9 2 65535 45102 0 0]Shido-san está certo...[n]E por isso, vou apoiá-lo.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_028_11_ [Shiho]]
-[s][vp 9 2 65535 40105 0 0]O Ladrão Fantasma está morto,[n]ele é? O que está acontecendo...?[n][f 1 2 180][e]
+[s][vp 9 2 65535 40105 0 0]O Phantom Thief está morto,[n]ele é? O que está acontecendo...?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_028_12_ [Shiho]]
-[s][vp 9 2 65535 45452 0 0]É verdade o que dizem[n]aqueles Ladrões Fantasmas...?[n][f 1 2 180][e]
+[s][vp 9 2 65535 45452 0 0]É verdade o que dizem[n]aqueles Phantom Thieves...?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_028_05_ [Shiho]]
 [s][vp 9 2 65535 38402 0 0]Os Phantom Thieves[n]realmente acham que vamos aceitar[n]as acusações feitas contra Shido?[n][f 1 2 180][e]
@@ -1409,7 +1409,7 @@
 [s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_028_08_ [Shiho]]
-[s][vp 9 2 65535 38957 0 0]O que acontece? Eu pensei que[n]O Ladrão Fantasma estava morto...[n][f 1 2 180][e]
+[s][vp 9 2 65535 38957 0 0]O que acontece? Eu pensei que[n]O Phantom Thief estava morto...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_528_14_ [Shiho]]
 [s][vp 9 2 65535 39155 0 0]Os Phantom Thieves devem estar[n]mentindo, certo...?[n][f 1 2 180][e]

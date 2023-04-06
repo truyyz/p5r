@@ -61,7 +61,7 @@
 [s][bup 0 3 0 0 0]Uhm, é mais difícil do que o esperado... mas[n]tenho certeza que você vai gostar da próxima[n]proposta.[n][w][e]
 
 [msg MSG_CATBED_SET_3RD_01 [Morgana]]
-[s][bup 0 3 0 0 0]OK, você gosta daqui?[n][w][e]
+[s][bup 0 3 0 0 0]Ok, você gosta daqui?[n][w][e]
 [s]Não está no meio do quarto.[n]E como estou perto de você,[n]você pode dormir tranquilo.[n][w][e]
 
 [sel SEL_CATBED_SET_3RD top]

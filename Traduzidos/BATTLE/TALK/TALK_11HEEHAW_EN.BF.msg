@@ -9,7 +9,7 @@
 [s]Hee-hey, eu quero [f 2 5 3 9999 3].[n]Procuuuramene e[n]saaaaa leniente, oh![n][w][e]
 
 [msg TalkMsg_EN_CONTACT_01]
-[s]Hee-hey, você quer salvar[n]seu aliado? OK, então[n]me dê alguns centavos, oh![n][w][e]
+[s]Hee-hey, você quer salvar[n]seu aliado? Ok, então[n]me dê alguns centavos, oh![n][w][e]
 [s][var 0]ienes bastarão.[n]Vou até te dar um desconto![n]Conveniente, se você pensar bem, oh![n][w][e]
 
 [msg TalkMsg_EN_CONTACT_02]
@@ -45,7 +45,7 @@
 [s]...Hee-ho! Tudo bem,[n]vou liberar seu aliado, oh.[n][w][e]
 
 [msg TalkMsg_EN_AGREE_01]
-[s]...Estou muito feliz, hee-ho![n]OK, vou deixar seu aliado ir![n][w][e]
+[s]...Estou muito feliz, hee-ho![n]Ok, vou deixar seu aliado ir![n][w][e]
 
 [msg TalkMsg_EN_SLAY_00]
 [s]Huh? Você está fazendo no seeery? Então[n]eu tenho que mandá-lo para o inferno![n]Tanto por lealdade-oh![n][w][e]
@@ -80,13 +80,13 @@
 [s]De onde vêm os ataques?[n]Toda essa atenção! É tão[n]difícil ser uma celebridade-oh![n][w][e]
 
 [msg TalkMsg_EN_FAKE_CRIED00]
-[s]H-Hee-ho! Não conta, você tem uma mulher[n]linda ao seu lado! OK, eu[n]me contento com [f 2 5 3 9999 3], oh.[n][w][e]
+[s]H-Hee-ho! Não conta, você tem uma mulher[n]linda ao seu lado! Ok, eu[n]me contento com [f 2 5 3 9999 3], oh.[n][w][e]
 
 [msg TalkMsg_EN_FAKE_CRIED01]
 [s]Hee-hooo? Eu fiz uma[n]garota chorar? Vou me contentar com[n][var 0] ienes, mas calma, ó.[n][w][e]
 
 [msg TalkMsg_EN_FAKE_CRIED02]
-[s]H-Hee-ho! Não conta, você tem uma mulher[n]linda ao seu lado! OK, eu[n]sua força vital será suficiente, oh.[n][w][e]
+[s]H-Hee-ho! Não conta, você tem uma mulher[n]linda ao seu lado! Ok, eu[n]sua força vital será suficiente, oh.[n][w][e]
 
 [msg TalkMsg_EN_FAKE_CRIED03]
 [s]Hee-hooo? Eu fiz uma[n]garota chorar? Eu vou me contentar com sua[n]força mental, então se acalme, oh.[n][w][e]

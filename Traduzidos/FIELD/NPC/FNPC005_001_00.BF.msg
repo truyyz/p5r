@@ -267,7 +267,7 @@
 [s][vp 9 2 65535 58900 0 0]Você viu a carta-desafio?[n]Tem um design muito bom.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_03_]
-[s][vp 9 2 65535 58932 0 0]Esses "ladrões fantasmas" são tão estúpidos. Isso[n]deve ser uma piada![n][f 1 2 180][e]
+[s][vp 9 2 65535 58932 0 0]Esses "Phantom Thieves" são tão estúpidos. Isso[n]deve ser uma piada![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_04_]
 [s][vp 9 2 65535 58862 0 0]Se eles têm tempo para falar[n]sobre os Phantom Thieves,[n]eles também têm tempo para estudar.[n][f 1 2 180][e]
@@ -279,7 +279,7 @@
 [s][vp 9 2 65535 44304 0 0]Já não falamos sobre esta[n]carta de aviso antes?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_07_]
-[s][vp 9 2 65535 44250 0 0]Ladrões Fantasmas? Mas, por favor.[n]É impossível que sejam reais.[n][f 1 2 180][e]
+[s][vp 9 2 65535 44250 0 0]Phantom Thieves? Mas, por favor.[n]É impossível que sejam reais.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_08_]
 [s][vp 9 2 65535 43853 0 0]Mas seria engraçado[n]se eles realmente existissem![n][f 1 2 180][e]
@@ -315,7 +315,7 @@
 [s][vp 9 2 65535 41303 0 0]Mas por que foi estabelecido?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_009_07_]
-[s][vp 9 2 65535 42003 0 0]Ei... Você acha que aqueles[n]Ladrões Fantasmas o forçaram[n]a confessar?[n][f 1 2 180][e]
+[s][vp 9 2 65535 42003 0 0]Ei... Você acha que aqueles[n]Phantom Thieves o forçaram[n]a confessar?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_009_09_]
 [s][vp 9 2 65535 41750 0 0]Que Kaneshiro usou[n]Shibuya como sua base de operações.[n][f 1 2 180][e]
@@ -333,7 +333,7 @@
 [s][vp 9 2 65535 43750 0 0]A carta de aviso era real![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_02_]
-[s][vp 9 2 65535 45400 0 0]Você ouviu que aqueles Ladrões Fantasmas[n]capturaram o líder[n]da quadrilha criminosa?[n][f 1 2 180][e]
+[s][vp 9 2 65535 45400 0 0]Você ouviu que aqueles Phantom Thieves[n]capturaram o líder[n]da quadrilha criminosa?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_03_]
 [s][vp 9 2 65535 45100 0 0]Espere... então os[n]Phantom Thieves pressionaram[n]Kaneshiro a se entregar?[n][f 1 2 180][e]
@@ -342,7 +342,7 @@
 [s][vp 9 2 65535 45352 0 0]Não acredito que os[n]Phantom Thieves são reais...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_05_]
-[s][vp 9 2 65535 45200 0 0]O que estava escrito na carta[n]de desafio era tudo verdade![n]Ladrões fantasmas são reais![n][f 1 2 180][e]
+[s][vp 9 2 65535 45200 0 0]O que estava escrito na carta[n]de desafio era tudo verdade![n]Phantom Thieves são reais![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_06_]
 [s][vp 9 2 65535 38500 0 0]Esses rumores sobre a carta de aviso[n]estavam relacionados à prisão[n]de Kaneshiro?[n][f 1 2 180][e]
@@ -663,7 +663,7 @@
 [s][vp 9 2 65535 39651 0 0]Eu nunca mais[n]acreditarei em Phantom Thieves![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_020_01_]
-[s][vp 9 2 65535 38105 0 0]Nós testemunhamos um assassinato![n]Os Ladrões Fantasmas não podem estar[n]bem![n][f 1 2 180][e]
+[s][vp 9 2 65535 38105 0 0]Nós testemunhamos um assassinato![n]Os Phantom Thieves não podem estar[n]bem![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_020_02_]
 [s][vp 9 2 65535 41502 0 0]Estou meio curioso para saber[n]quem são os Phantom Thieves...[n][f 1 2 180][e]
@@ -702,7 +702,7 @@
 [s][vp 9 2 65535 40302 0 0]Ultimamente, a frequência[n]das convulsões aumentou...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_021_03_]
-[s][vp 9 2 65535 40401 0 0]A recompensa por capturar os[n]Ladrões Fantasmas vem de[n]nosso dinheiro de impostos?[n][f 1 2 180][e]
+[s][vp 9 2 65535 40401 0 0]A recompensa por capturar os[n]Phantom Thieves vem de[n]nosso dinheiro de impostos?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_021_04_]
 [s][vp 9 2 65535 40201 0 0]Ouvi dizer que os Phantom Thieves[n]são os responsáveis pelas apreensões![n][f 1 2 180][e]
@@ -777,7 +777,7 @@
 [s][vp 9 2 65535 37652 0 0]Pare de pegar todas[n]pessoas, mesmo que apenas[n]remotamente suspeitas![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_023_04_]
-[s][vp 9 2 65535 40601 0 0]Eles ainda não capturaram os Ladrões Fantasmas?[n]Vivo todos os dias aterrorizado![n][f 1 2 180][e]
+[s][vp 9 2 65535 40601 0 0]Eles ainda não capturaram os Phantom Thieves?[n]Vivo todos os dias aterrorizado![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_023_05_]
 [s][vp 9 2 65535 41702 0 0]Quem você acha que são os Phantom Thieves?[n]Eles falaram sobre isso na TV.[n][f 1 2 180][e]
@@ -792,7 +792,7 @@
 [s][vp 9 2 65535 41302 0 0]Eu ouço sobre os Phantom Thieves[n]todos os dias. Mas não tem mais o que falar?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_023_09_]
-[s][vp 9 2 65535 41202 0 0]Espero que eles descubram logo[n]a identidade desses[n]Ladrões Fantasmas...[n][f 1 2 180][e]
+[s][vp 9 2 65535 41202 0 0]Espero que eles descubram logo[n]a identidade desses[n]Phantom Thieves...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_023_10_]
 [s][vp 9 2 65535 41352 0 0]Eu gostaria que a[n]causa desses ataques fosse descoberta logo...[n][f 1 2 180][e]
@@ -978,7 +978,7 @@
 [s][vp 9 2 65535 37602 0 0]Shido-san está certo...[n]Ele deve estar certo...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_028_11_]
-[s][vp 9 2 65535 39001 0 0]Shido-san representa a justiça![n]Ele não perderá para[n]aqueles ladrões fantasmas imundos![n][f 1 2 180][e]
+[s][vp 9 2 65535 39001 0 0]Shido-san representa a justiça![n]Ele não perderá para[n]aqueles Phantom Thieves imundos![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_028_12_]
 [s][vp 9 2 65535 38702 0 0]Shido-san não pode estar errado...[n]Não pode ser...[n][f 1 2 180][e]
@@ -1341,7 +1341,7 @@
 [s][vp 9 2 65535 37502 0 0]Você viu a coletiva de imprensa de Okumura?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_105_02_]
-[s][vp 9 2 65535 37551 0 0]Foi... os Ladrões Fantasmas?[n]Impossível...[n][f 1 2 180][e]
+[s][vp 9 2 65535 37551 0 0]Foi... os Phantom Thieves?[n]Impossível...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_105_03_]
 [s][vp 9 2 65535 37652 0 0]Eu nunca deveria ter acreditado[n]em Phantom Thieves![n][f 1 2 180][e]
@@ -1428,7 +1428,7 @@
 [s][f 4 23 1 50 3 10 0 10][vp 8 2 1 0 50 0]Você está absolutamente correto.[n][w][e]
 
 [msg MSG_FAMILY_010_040_000 [Menina com cabelo curto]]
-[s][f 4 23 1 52 3 10 0 10][vp 8 2 1 0 52 0]OK, pare de falar.[n]Eu quero ver o ônibus do gato![n][w][e]
+[s][f 4 23 1 52 3 10 0 10][vp 8 2 1 0 52 0]Ok, pare de falar.[n]Eu quero ver o ônibus do gato![n][w][e]
 
 [msg MSG_FAMILY_020_010_000 [Mãe minimalista]]
 [s][f 4 23 1 51 3 10 0 10][vp 8 2 1 0 51 0]A exibição de Madarame foi incrível! Não é à toa[n]que todo mundo está falando sobre isso.[n][w][e]
@@ -1621,10 +1621,10 @@
 
 [msg MSG_FAMILY_150_040_000 [Mãe minimalista]]
 [s][f 4 23 1 51 3 10 0 10][vp 8 2 1 0 51 0]Não seja tão egoísta, Mami-chan![n]Se você quer se tornar uma estrela[n]você tem que estudar![n][w][e]
-[s][vp 8 2 1 0 51 0]Vamos convidar seus amigos para a[n]performance! Mesmo os[n]old school... OK?[n][w][e]
+[s][vp 8 2 1 0 51 0]Vamos convidar seus amigos para a[n]performance! Mesmo os[n]old school... Ok?[n][w][e]
 
 [msg MSG_FURUGI_010_010_000 [Proprietário da loja de quimono]]
-[s][f 4 23 1 10 3 10 0 10][vp 8 2 1 0 10 0]OK, o aprendizado[n]está quase no fim.[n]Como você está se sentindo?[n][w][e]
+[s][f 4 23 1 10 3 10 0 10][vp 8 2 1 0 10 0]Ok, o aprendizado[n]está quase no fim.[n]Como você está se sentindo?[n][w][e]
 
 [msg MSG_FURUGI_010_020_000 [Funcionário estiloso]]
 [s][f 4 23 1 11 3 10 0 10][vp 8 2 1 0 11 0]Nervoso. Eu quero ser uma linda[n]garota de Tóquio! Os clientes são[n]mais elegantes do que eu...*soluço*[n][w][e]
@@ -1674,7 +1674,7 @@
 [s][vp 8 2 1 0 11 0]Já que trabalho em Kichijoji,[n]eu quero viver uma[n]vida "na moda"![n][w][e]
 
 [msg MSG_FURUGI_040_040_000 [Proprietário da loja de quimono]]
-[s][f 4 23 1 10 3 10 0 10][vp 8 2 1 0 10 0]OK... o dinheiro não é necessário[n]para isso também?[n][w][e]
+[s][f 4 23 1 10 3 10 0 10][vp 8 2 1 0 10 0]Ok... o dinheiro não é necessário[n]para isso também?[n][w][e]
 
 [msg MSG_FURUGI_050_010_000 [Funcionário estiloso]]
 [s][f 4 23 1 11 3 10 0 10][vp 8 2 1 0 11 0]Ah... Talvez eu tenha entendido o que ele quis[n]dizer quando falou em dinheiro...[n][w][e]
@@ -2382,7 +2382,7 @@
 [s][f 4 23 1 40 3 10 0 10][vp 8 2 1 0 40 0]Eheheh, pelo menos eu morreria feliz![n]Merda, espero que haja[n]bebidas na vida após a morte![n][w][e]
 
 [msg MSG_NOMIYA_100_010_000 [Homem com avental]]
-[s][f 4 23 1 41 3 10 0 10][vp 8 2 1 0 41 0]Há uma recompensa por capturar[n]os Ladrões Fantasmas! O que você acha disso?[n][w][e]
+[s][f 4 23 1 41 3 10 0 10][vp 8 2 1 0 41 0]Há uma recompensa por capturar[n]os Phantom Thieves! O que você acha disso?[n][w][e]
 
 [msg MSG_NOMIYA_100_020_000 [Saquê Sommelier]]
 [s][f 4 23 1 40 3 10 0 10][vp 8 2 1 0 40 0]Desculpe, eu passo.[n][w][e]
@@ -2489,7 +2489,7 @@
 [s][f 4 23 1 41 3 10 0 10][vp 8 2 1 0 41 0]Sim, esse é o nome.[n][w][e]
 
 [msg MSG_F005_001_00_Q82_HINT_9 [Morgana]]
-[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 1174 65535 0]OK, temos o nome do nosso[n]alvo![n][w][e]
+[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 1174 65535 0]Ok, temos o nome do nosso[n]alvo![n][w][e]
 
 [msg MSG_F005_001_00_Q82_HINT_10 [Homem com avental]]
 [s][f 4 23 1 41 3 10 0 10][vp 8 2 1 0 41 0]Mas você sabe ... eu não posso ser muito duro com[n]ele. Ele tem a idade do meu pai.[n][w][e]
@@ -2702,7 +2702,7 @@
 [s][f 4 23 1 214 3 10 0 10][vp 8 2 1 0 214 0]...Me sinto como um idiota. Para[n]O QUE eu trabalho? Sério...[n][w][e]
 
 [msg MSG_NOMIYA_SUIT_009_01_0 [Cara de terno e gravata]]
-[s][f 4 23 1 214 3 10 0 10][vp 8 2 1 0 214 0]OK, eu digo isso. Se você trata seus subordinados[n]como escravos, você não merece ser um chefe.[n][w][e]
+[s][f 4 23 1 214 3 10 0 10][vp 8 2 1 0 214 0]Ok, eu digo isso. Se você trata seus subordinados[n]como escravos, você não merece ser um chefe.[n][w][e]
 [s][f 4 23 1 214 3 10 0 10][vp 8 2 1 0 214 0]Se nos livrássemos dessas pessoas,[n]talvez o trabalho[n]finalmente se tornasse tolerável![n][w][e]
 [s][f 4 23 1 214 3 10 0 10][vp 8 2 1 0 214 0]Ugh ... eu gostaria de poder[n]me livrar do meu chefe também ...[n][w][e]
 
@@ -2779,7 +2779,7 @@
 
 [msg MSG_NOMIYA_TIRED_008_01_ [Empregado cansado]]
 [s][f 4 23 1 214 3 10 0 10][vp 8 2 1 0 214 0]Então é verdade que o Sr. Okumura[n]está morto? Quem sabe pode ter sido[n]karma ou...[n][w][e]
-[s][f 4 23 1 214 3 10 0 10][vp 8 2 1 0 214 0]As pessoas dizem que foram[n]os Ladrões Fantasmas, mas...[n]eles não são assim, são?[n][w][e]
+[s][f 4 23 1 214 3 10 0 10][vp 8 2 1 0 214 0]As pessoas dizem que foram[n]os Phantom Thieves, mas...[n]eles não são assim, são?[n][w][e]
 
 [msg MSG_NOMIYA_TIRED_009_01_ [Empregado cansado]]
 [s][f 4 23 1 214 3 10 0 10][vp 8 2 1 0 214 0]Eca! É por isso que odeio ver[n]meus parentes![n][w][e]
@@ -2824,7 +2824,7 @@
 [s][vp 8 2 1 0 74 0]Noite das garotas em Kichijoji? Eu[n]sei... Eles não vão pensar que nós somos[n]apenas um bando de velhas solteironas?[n][w][e]
 
 [msg MSG_NOMIYA_YOUNGWOMEN_00_4 [Mulher estridente]]
-[s][vp 8 2 1 0 73 0]O-oh! Hum, talvez não, então...[n]OK, que tal Roppongi?[n][w][e]
+[s][vp 8 2 1 0 73 0]O-oh! Hum, talvez não, então...[n]Ok, que tal Roppongi?[n][w][e]
 
 [msg MSG_NOMIYA_YOUNGWOMEN_00_5 [Mulher de voz profunda]]
 [s][f 4 23 1 74 14 10 13 10][vp 8 2 1 0 74 0]Shibuya está segura novamente. Vamos[n]rebocar? Quero conhecer[n]alguém que trabalha no setor de TI.[n][w][e]
@@ -2877,7 +2877,7 @@
 [s][f 4 23 1 73 14 10 13 10][vp 8 2 1 0 73 0]Eu continuo ouvindo sobre isso.[n]É realmente tão importante?[n][w][e]
 
 [msg MSG_NOMIYA_YOUNGWOMEN_00_20 [Mulher de voz profunda]]
-[s][vp 8 2 1 0 74 0]Não sei, mas pense nisso: Ladrões[n]Fantasmas que trazem os perversos[n]de volta ao caminho certo! Não é fantástico?[n][w][e]
+[s][vp 8 2 1 0 74 0]Não sei, mas pense nisso: Phantom[n]Thieves que trazem os perversos[n]de volta ao caminho certo! Não é fantástico?[n][w][e]
 [s][vp 8 2 1 0 74 0]Devem ser fofos também![n][w][e]
 
 [msg MSG_NOMIYA_YOUNGWOMEN_00_21 [Mulher estridente]]
@@ -3338,7 +3338,7 @@
 [s][f 4 23 1 61 3 10 0 10][vp 8 2 1 0 61 0]Claro que estou![n]Eu comprei para você, sabe?[n][w][e]
 
 [msg MSG_FAMILY_011_002_000 [Criança insaciável]]
-[s][f 4 23 1 62 3 10 0 10][vp 8 2 1 0 62 0]Obrigado Pai![n]Você é um verdadeiro Ladrão Fantasma.[n][w][e]
+[s][f 4 23 1 62 3 10 0 10][vp 8 2 1 0 62 0]Obrigado Pai![n]Você é um verdadeiro Phantom Thief.[n][w][e]
 
 [msg MSG_FAMILY_011_003_000 [Pai amoroso]]
 [s][f 4 23 1 61 3 10 0 10][vp 8 2 1 0 61 0]Hahaha! Eu vou despertar seu coração,[n]Hiroto![n][w][e]
@@ -3431,7 +3431,7 @@
 [s][vp 8 2 1 0 60 0]Vou confiar em você novamente![n][w][e]
 
 [msg MSG_TRADER_010_030_01 [Sakai o mercador]]
-[s][vp 8 2 1 0 60 0]O que...?!? E porque?!?[n][w][e]
+[s][vp 8 2 1 0 60 0]O que...?!? E por quê?!?[n][w][e]
 [s][vp 8 2 1 0 60 0]B-bem, deixe-me saber se você mudar de ideia.[n][w][e]
 
 [msg MSG_TRADER_020_000_00 [Sakai o mercador]]
@@ -3459,7 +3459,7 @@
 [s][vp 8 2 1 0 60 0]Conto com você da próxima vez![n][w][e]
 
 [msg MSG_TRADER_020_030_01 [Sakai o mercador]]
-[s][vp 8 2 1 0 60 0]O que...?!? E porque?!?[n][w][e]
+[s][vp 8 2 1 0 60 0]O que...?!? E por quê?!?[n][w][e]
 [s][vp 8 2 1 0 60 0]B-bem, deixe-me saber se você mudar de ideia.[n][w][e]
 
 [msg MSG_TRADER_030_000_00 [Sakai o mercador]]
@@ -3488,7 +3488,7 @@
 [s][vp 8 2 1 0 60 0]Volte para mais trocas![n][w][e]
 
 [msg MSG_TRADER_030_030_01 [Sakai o mercador]]
-[s][vp 8 2 1 0 60 0]O que...?!? E porque?!?[n][w][e]
+[s][vp 8 2 1 0 60 0]O que...?!? E por quê?!?[n][w][e]
 [s][vp 8 2 1 0 60 0]B-bem, deixe-me saber se você mudar de ideia.[n][w][e]
 
 [msg MSG_TRADER_040_000_00 [Sakai o mercador]]
@@ -3515,7 +3515,7 @@
 [s][vp 8 2 1 0 60 0]Conto com você da próxima vez.[n]Obrigado novamente.[n][w][e]
 
 [msg MSG_TRADER_040_030_01 [Sakai o mercador]]
-[s][vp 8 2 1 0 60 0]O que...?!? E porque?!?[n][w][e]
+[s][vp 8 2 1 0 60 0]O que...?!? E por quê?!?[n][w][e]
 [s][vp 8 2 1 0 60 0]B-bem, deixe-me saber se você mudar de ideia.[n][w][e]
 
 [msg MSG_TRADER_050_000_00 [Sakai o mercador]]
@@ -3544,7 +3544,7 @@
 [s][vp 8 2 1 0 60 0]Obrigado novamente.[n]Aguardo ansiosamente[n]a próxima troca.[n][w][e]
 
 [msg MSG_TRADER_050_030_01 [Sakai o mercador]]
-[s][vp 8 2 1 0 60 0]O que...?!? E porque?!?[n][w][e]
+[s][vp 8 2 1 0 60 0]O que...?!? E por quê?!?[n][w][e]
 [s][vp 8 2 1 0 60 0]B-bem, deixe-me saber se você mudar de ideia.[n][w][e]
 
 [msg MSG_TRADER_060_000_00 [Sakai o mercador]]
@@ -3569,10 +3569,10 @@
 [msg MSG_TRADER_060_040_00 [Sakai o mercador]]
 [s][vp 8 2 1 0 60 0]Então, basta um pouco[n][f 2 5 3 9999 0] para conquistar[n]o coração de uma mulher...[n][w][e]
 [s][vp 8 2 1 0 60 0]Crocante por fora e[n]com recheio macio...[n][w][e]
-[s][vp 8 2 1 0 60 0]Obrigado amigo. Para a próxima[n]troca, então, OK?[n][w][e]
+[s][vp 8 2 1 0 60 0]Obrigado amigo. Para a próxima[n]troca, então, Ok?[n][w][e]
 
 [msg MSG_TRADER_060_030_01 [Sakai o mercador]]
-[s][vp 8 2 1 0 60 0]O que...?!? E porque?!?[n][w][e]
+[s][vp 8 2 1 0 60 0]O que...?!? E por quê?!?[n][w][e]
 [s][vp 8 2 1 0 60 0]B-bem, deixe-me saber se você mudar de ideia.[n][w][e]
 
 [msg MSG_TRADER_070_000_00 [Sakai o mercador]]
@@ -3600,7 +3600,7 @@
 [s][vp 8 2 1 0 60 0]D-De qualquer forma, muito obrigado![n]Espero fazer[n]negócios com você novamente.[n][w][e]
 
 [msg MSG_TRADER_070_030_01 [Sakai o mercador]]
-[s][vp 8 2 1 0 60 0]O que...?!? E porque?!?[n][w][e]
+[s][vp 8 2 1 0 60 0]O que...?!? E por quê?!?[n][w][e]
 [s][vp 8 2 1 0 60 0]B-bem, deixe-me saber se você mudar de ideia.[n][w][e]
 
 [msg MSG_TRADER_080_000_00 [Sakai o mercador]]
@@ -3631,7 +3631,7 @@
 [s][vp 8 2 1 0 60 0]Um bom negócio. Obrigado.[n]Espero fazer[n]negócios com você novamente.[n][w][e]
 
 [msg MSG_TRADER_080_030_01 [Sakai o mercador]]
-[s][vp 8 2 1 0 60 0]O que...?!? E porque?!?[n][w][e]
+[s][vp 8 2 1 0 60 0]O que...?!? E por quê?!?[n][w][e]
 [s][vp 8 2 1 0 60 0]B-bem, deixe-me saber se você mudar de ideia.[n][w][e]
 
 [msg MSG_TRADER_090_000_00 [Sakai o mercador]]
@@ -3659,7 +3659,7 @@
 [s][vp 8 2 1 0 60 0]Obrigada. Eu olho para a frente.[n][w][e]
 
 [msg MSG_TRADER_090_030_01 [Sakai o mercador]]
-[s][vp 8 2 1 0 60 0]O que...?!? E porque?!?[n][w][e]
+[s][vp 8 2 1 0 60 0]O que...?!? E por quê?!?[n][w][e]
 [s][vp 8 2 1 0 60 0]B-bem, deixe-me saber se você mudar de ideia.[n][w][e]
 
 [msg MSG_TRADER_100_000_00 [Sakai o mercador]]
@@ -3686,7 +3686,7 @@
 [s][vp 8 2 1 0 60 0]De qualquer forma, muito obrigado![n]Espero fazer[n]negócios com você novamente.[n][w][e]
 
 [msg MSG_TRADER_100_030_01 [Sakai o mercador]]
-[s][vp 8 2 1 0 60 0]O que...?!? E porque?!?[n][w][e]
+[s][vp 8 2 1 0 60 0]O que...?!? E por quê?!?[n][w][e]
 [s][vp 8 2 1 0 60 0]B-bem, deixe-me saber se você mudar de ideia.[n][w][e]
 
 [msg MSG_TRADER_110_000_00 [Sakai o mercador]]
@@ -3716,7 +3716,7 @@
 [s][vp 8 2 1 0 60 0]Você sempre consegue me dar o que eu peço. Fazer[n]negócios com você é um prazer.[n][w][e]
 
 [msg MSG_TRADER_110_030_01 [Sakai o mercador]]
-[s][vp 8 2 1 0 60 0]O que...?!? E porque?!?[n][w][e]
+[s][vp 8 2 1 0 60 0]O que...?!? E por quê?!?[n][w][e]
 [s][vp 8 2 1 0 60 0]B-bem, deixe-me saber se você mudar de ideia.[n][w][e]
 
 [msg MSG_TRADER_120_000_00 [Sakai o mercador]]
@@ -3744,7 +3744,7 @@
 [s][vp 8 2 1 0 60 0]Vou me certificar de comprar algo[n]que você goste; nós ainda fazemos[n]comércio.[n][w][e]
 
 [msg MSG_TRADER_120_030_01 [Sakai o mercador]]
-[s][vp 8 2 1 0 60 0]O que...?!? E porque?!?[n][w][e]
+[s][vp 8 2 1 0 60 0]O que...?!? E por quê?!?[n][w][e]
 [s][vp 8 2 1 0 60 0]B-bem, deixe-me saber se você mudar de ideia.[n][w][e]
 
 [msg MSG_TRADER_130_000_00 [Sakai o mercador]]
@@ -3772,7 +3772,7 @@
 [s][vp 8 2 1 0 60 0]Ansioso[n]para nossa próxima troca.[n][w][e]
 
 [msg MSG_TRADER_130_030_01 [Sakai o mercador]]
-[s][vp 8 2 1 0 60 0]O que...?!? E porque?!?[n][w][e]
+[s][vp 8 2 1 0 60 0]O que...?!? E por quê?!?[n][w][e]
 [s][vp 8 2 1 0 60 0]B-bem, deixe-me saber se você mudar de ideia.[n][w][e]
 
 [msg MSG_TRADER_140_000_00 [Sakai o mercador]]
@@ -3799,7 +3799,7 @@
 [s][vp 8 2 1 0 60 0]Ansioso[n]para nossa próxima troca.[n][w][e]
 
 [msg MSG_TRADER_140_030_01 [Sakai o mercador]]
-[s][vp 8 2 1 0 60 0]O que...?!? E porque?!?[n][w][e]
+[s][vp 8 2 1 0 60 0]O que...?!? E por quê?!?[n][w][e]
 [s][vp 8 2 1 0 60 0]B-bem, deixe-me saber se você mudar de ideia.[n][w][e]
 
 [msg MSG_TRADER_150_000_00 [Sakai o mercador]]
@@ -3827,7 +3827,7 @@
 [s][vp 8 2 1 0 60 0]Estou ansioso para ver[n]mais de seus feitos heróicos.[n][w][e]
 
 [msg MSG_TRADER_150_030_01 [Sakai o mercador]]
-[s][vp 8 2 1 0 60 0]O que...?!? E porque?!?[n][w][e]
+[s][vp 8 2 1 0 60 0]O que...?!? E por quê?!?[n][w][e]
 [s][vp 8 2 1 0 60 0]B-bem, deixe-me saber se você mudar de ideia.[n][w][e]
 
 [msg MSG_TRADER_160_000_00 [Sakai o mercador]]
@@ -3856,7 +3856,7 @@
 [s][vp 8 2 1 0 60 0]Mil obrigados. Volte[n]para mais trocas.[n][w][e]
 
 [msg MSG_TRADER_160_030_01 [Sakai o mercador]]
-[s][vp 8 2 1 0 60 0]O que...?!? E porque?!?[n][w][e]
+[s][vp 8 2 1 0 60 0]O que...?!? E por quê?!?[n][w][e]
 [s][vp 8 2 1 0 60 0]B-bem, deixe-me saber se você mudar de ideia.[n][w][e]
 
 [msg MSG_TRADER_170_000_00 [Sakai o mercador]]
@@ -3886,7 +3886,7 @@
 [s][vp 8 2 1 0 60 0]Obrigado, jovem! Você[n]eu sou grato.[n][w][e]
 
 [msg MSG_TRADER_170_030_01 [Sakai o mercador]]
-[s][vp 8 2 1 0 60 0]O que...?!? E porque?!?[n][w][e]
+[s][vp 8 2 1 0 60 0]O que...?!? E por quê?!?[n][w][e]
 [s][vp 8 2 1 0 60 0]B-bem, deixe-me saber se você mudar de ideia.[n][w][e]
 
 [msg MSG_TRADEFAMILY_010_000_ [Criança insaciável]]
@@ -3906,7 +3906,7 @@
 [s][vp 8 2 1 0 61 0]A proteína não será suficiente para transformá-lo[n]em Featherman![n][w][e]
 
 [msg MSG_TRADEFAMILY_011_020_ [Criança insaciável]]
-[s][vp 8 2 1 0 62 0]OK! Também comerei cogumelos e[n]berinjelas. Obrigado pai![n][w][e]
+[s][vp 8 2 1 0 62 0]Ok! Também comerei cogumelos e[n]berinjelas. Obrigado pai![n][w][e]
 
 [msg MSG_TRADEFAMILY_020_000_ [Criança insaciável]]
 [s][f 4 23 1 62 3 10 0 10][vp 8 2 1 0 62 0]Pai, eu quero comer [f 2 5 3 9999 0]![n][w][e]
@@ -3937,7 +3937,7 @@
 [s][f 4 23 1 62 3 10 0 10][vp 8 2 1 0 62 0]Sabe o que é perfeito no verão, pai?[n][f 2 5 3 9999 0].[n][w][e]
 
 [msg MSG_TRADEFAMILY_030_010_ [Pai amoroso]]
-[s][f 4 23 1 61 3 10 0 10][vp 8 2 1 0 61 0]OK, eu compro para você.[n]Onde eles vendem?[n][w][e]
+[s][f 4 23 1 61 3 10 0 10][vp 8 2 1 0 61 0]Ok, eu compro para você.[n]Onde eles vendem?[n][w][e]
 
 [msg MSG_TRADEFAMILY_030_020_ [Criança insaciável]]
 [s][vp 8 2 1 0 62 0]Huh? Você não sabe?[n]...Eu entendo, você está muito ocupado[n]no trabalho.[n][w][e]
@@ -3986,7 +3986,7 @@
 [s][vp 8 2 1 0 62 0]Estou brincando de guerra com meus[n]amigos e queria mostrar a eles[n]um![n][w][e]
 
 [msg MSG_TRADEFAMILY_050_030_ [Pai amoroso]]
-[s][vp 8 2 1 0 61 0]OK, então vou comprar um para você, então você[n]pode se gabar para todos os seus amigos![n][w][e]
+[s][vp 8 2 1 0 61 0]Ok, então vou comprar um para você, então você[n]pode se gabar para todos os seus amigos![n][w][e]
 
 [msg MSG_TRADEFAMILY_051_000_ [Criança insaciável]]
 [s][f 4 23 1 62 3 10 0 10][vp 8 2 1 0 62 0]Obrigado pai![n][w][e]
@@ -4392,7 +4392,7 @@
 [s]Não, eu não diria[e]
 
 [msg MSG_TempleUseFix [Morgana]]
-[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 1174 65535 0]OK, vamos falar com o monge.[n][w][e]
+[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 1174 65535 0]Ok, vamos falar com o monge.[n][w][e]
 
 [msg MSG_TempleNpc_Usefix [Monge bonito]]
 [s][f 4 23 1 15 3 10 0 10][vp 8 2 1 0 15 0]Muito bem, então.[n]Não se apresse e relaxe.[n][w][e]

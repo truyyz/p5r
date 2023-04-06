@@ -38,7 +38,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 1020 65535 0][f 4 22 65535 1 41]Cansado de todos aqueles lançamentos[n]precisos? Isso mostra[n]que você melhorou.[n][f 1 3 65535][w][e]
 
 [msg MSG_1stPlayOrder_ryuji [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 7103 65535 0]OK, vamos primeiro![n][f 1 3 65535][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 7103 65535 0]Ok, vamos primeiro![n][f 1 3 65535][w][e]
 
 [msg MSG_NextPlayOrder_ryuji [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 7080 65535 0]Ei, ei, eu quero ser o próximo![n][f 1 3 65535][w][e]
@@ -72,7 +72,7 @@
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 7048 65535 0]Vamos para a rodada 3. Eheh, você consegue![n][f 1 3 65535][w][e]
 
 [msg MSG_StartRound04_ryuji [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 7020 65535 0]OK... Então é minha última rodada. Vamos fazer[n]não estragar tudo, hein?[n][f 1 3 65535][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 7020 65535 0]Ok... Então é minha última rodada. Vamos fazer[n]não estragar tudo, hein?[n][f 1 3 65535][w][e]
 
 [msg MSG_Change_4to5_ryuji [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 7080 65535 0]Para o bem ou para o mal, é a última rodada.[n]Sua vez![n][f 1 3 65535][w][e]
@@ -180,7 +180,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1024 65535 0]Ah, tudo bem... Mas não tem nada a ver com gatos,[n]tá!?![n][f 1 3 65535][w][e]
 
 [msg MSG_Finish_Act03_moru [Morgana]]
-[s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 0 1044 65535 0]O-Oh, certo... OK, viu?[n]Estou... estou calmo... miau..![n][f 1 3 65535][w][e]
+[s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 0 1044 65535 0]O-Oh, certo... Ok, viu?[n]Estou... estou calmo... miau..![n][f 1 3 65535][w][e]
 
 [msg MSG_BatonTouchGet_BigGoo_2 [Morgana]]
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 0 1184 65535 0]Um 0 perfeito! Ninguém pode[n]nos vencer quando jogamos juntos![n][f 1 3 65535][w][e]
@@ -221,13 +221,13 @@
 [s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Hmm... Quais regras devemos usar?[n]Desculpe, você quer escolher?[n][f 1 3 65535][w][e]
 
 [msg MSG_CourseFree_Fix_anne [Ann]]
-[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]OK! Então vamos jogar [var 0]![n][f 1 3 65535][w][e]
+[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Ok! Então vamos jogar [var 0]![n][f 1 3 65535][w][e]
 
 [msg MSG_StartRound01_anne [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 54043 65535 0]Muitas felicidades! Estou torcendo por você![n][f 1 3 65535][w][e]
 
 [msg MSG_StartRound02_anne [Ann]]
-[s][bup 0 4 5 65535 0][f 4 10 65535 0 0][vp 8 2 0 54044 65535 0]OK, é a minha vez.[n]Hoo, estou tremendo...![n][f 1 3 65535][w][e]
+[s][bup 0 4 5 65535 0][f 4 10 65535 0 0][vp 8 2 0 54044 65535 0]Ok, é a minha vez.[n]Hoo, estou tremendo...![n][f 1 3 65535][w][e]
 
 [msg MSG_Change_2to3_anne [Ann]]
 [s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 6117 65535 0]Rodada 3... Continuando![n][f 1 3 65535][w][e]
@@ -284,7 +284,7 @@
 [s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 4080 65535 0]Nós nos unimos para o primeiro[n]jogo, [f 4 2]. ei! Que maravilha![n][f 1 3 65535][w][e]
 
 [msg MSG_NextPlayOrder_yusuke [Yusuke]]
-[s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 4034 65535 0]OK! Eu serei o próximo.[n]Vamos dançar... com dardos![n][f 1 3 65535][w][e]
+[s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 4034 65535 0]Ok! Eu serei o próximo.[n]Vamos dançar... com dardos![n][f 1 3 65535][w][e]
 
 [msg MSG_NextRetry_yusuke [Yusuke]]
 [s][bup 0 5 5 65535 0][f 4 10 65535 0 0][vp 8 2 0 4033 65535 0]Não parece nenhum jogo...![n]Por favor, deixe-me tentar novamente![n][f 1 3 65535][w][e]
@@ -455,7 +455,7 @@
 
 [msg MSG_OrderCancel_futaba [Futaba]]
 [s][bup 0 8 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 9040 65535 0]Então chegamos a isso... Chegamos a isso...![n][f 1 3 65535][w][e]
-[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]OK como você quer. Mas devemos[n]voltar um dia desses![n][f 1 3 65535][w][e]
+[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Ok como você quer. Mas devemos[n]voltar um dia desses![n][f 1 3 65535][w][e]
 
 [msg MSG_CourseOnly301_futaba [Futaba]]
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]E para as regras...[n]eu diria 301. Trezentos e um![n][f 1 3 65535][w][e]
@@ -584,7 +584,7 @@
 [s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 53531 65535 0]...Certo! Estou animada![n][f 1 3 65535][w][e]
 
 [msg MSG_Finish_Act02_haru [Haru]]
-[s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 3135 65535 0]Elegância...? Oh, você quer[n]lançar naturalmente![n]OK, seja você mesmo... Seja você mesmo![n][f 1 3 65535][w][e]
+[s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 3135 65535 0]Elegância...? Oh, você quer[n]lançar naturalmente![n]Ok, seja você mesmo... Seja você mesmo![n][f 1 3 65535][w][e]
 
 [msg MSG_Finish_Act03_haru [Haru]]
 [s][bup 0 7 5 65535 0][f 4 10 65535 0 0][vp 8 2 0 3196 65535 0]Terá algo a ver[n]com dardos?[n][f 1 3 65535][w][e]
@@ -609,7 +609,7 @@
 [s][vp 8 2 0 3054 65535 0]Até breve então![n][f 1 3 65535][w][e]
 
 [msg MSG_1stPlayOrder_akechi [Akechi]]
-[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 8020 65535 0]OK, podemos começar?[n]Estou pronto.[n][f 1 3 65535][w][e]
+[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 8020 65535 0]Ok, podemos começar?[n]Estou pronto.[n][f 1 3 65535][w][e]
 
 [msg MSG_NextPlayOrder_akechi [Akechi]]
 [s][bup 0 9 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 8018 65535 0]Você se importaria se eu jogasse o próximo jogo?[n][f 1 3 65535][w][e]
@@ -790,10 +790,10 @@
 [s][bup 0 10 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]E para as regras...[n]Fazemos 501? Se trabalharmos juntos, podemos[n]conseguir![n][f 1 3 65535][w][e]
 
 [msg MSG_CourseFree_sumire [Sumire]]
-[s][bup 0 10 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]OK, quais regras devemos usar...?[n]Desculpe, posso pedir para você escolher?[n][f 1 3 65535][w][e]
+[s][bup 0 10 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Ok, quais regras devemos usar...?[n]Desculpe, posso pedir para você escolher?[n][f 1 3 65535][w][e]
 
 [msg MSG_CourseFree_Fix_sumir [Sumire]]
-[s][bup 0 10 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]OK. Então vamos jogar [var 0].[n][f 1 3 65535][w][e]
+[s][bup 0 10 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Ok. Então vamos jogar [var 0].[n][f 1 3 65535][w][e]
 
 [msg MSG_StartRound01_sumire [Sumire]]
 [s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 57069 65535 0]Você consegue! Estou torcendo por você![n][f 1 3 65535][w][e]
@@ -828,7 +828,7 @@
 [s][bup 0 10 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 57116 65535 0]Sim... eu tenho que acreditar em mim mesmo.[n][f 1 3 65535][w][e]
 
 [msg MSG_Finish_Act02_sumire [Sumire]]
-[s][bup 0 10 2 65535 0][f 4 10 65535 0 0][vp 8 2 0 57119 65535 0]OK...! Eu sinto... eu acho que consigo![n][f 1 3 65535][w][e]
+[s][bup 0 10 2 65535 0][f 4 10 65535 0 0][vp 8 2 0 57119 65535 0]Ok...! Eu sinto... eu acho que consigo![n][f 1 3 65535][w][e]
 
 [msg MSG_Finish_Act03_sumire [Sumire]]
 [s][bup 0 10 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 57170 65535 0]Wha...? Não faz o menor sentido![n][f 1 3 65535][w][e]
@@ -880,7 +880,7 @@
 [s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 0 53141 65535 0]Não deu certo...[n]Mas não desista, ok?[n][f 1 3 65535][w][e]
 
 [msg MSG_Solo_ByeBye [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1049 65535 0]OK, vamos para casa. Podemos[n]rever o que[n]aconteceu no trem![n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1049 65535 0]Ok, vamos para casa. Podemos[n]rever o que[n]aconteceu no trem![n][f 1 3 65535][w][e]
 
 [msg MSG_Solo_StartScoreQ_1st [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1019 65535 0]Sim, com quantos pontos você quer começar?[n]Parece haver várias opções.[n][f 1 3 65535][w][e]

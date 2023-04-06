@@ -116,7 +116,7 @@
 [s][bup 0 4 102 0 0][f 4 10 65535 0 0][vp 8 0 0 49 65535 0]Agora pare! Todos a bordo![n]Rápido![n][f 1 3 65535][w][e]
 
 [msg MSG_034_0_0 [Ryuji]]
-[s][vp 8 0 0 50 65535 0]OK, tudo pronto![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 50 65535 0]Ok, tudo pronto![n][f 1 3 65535][w][e]
 
 [msg MSG_035_0_0 [Morgana]]
 [s][vp 8 0 0 51 65535 0]Grrr... Tudo bem![n][f 1 3 65535][w][e]

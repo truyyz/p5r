@@ -58,5 +58,5 @@
 [s][f 5 14]Por enquanto, vamos apenas esperar que seu[n]coração desperte.[n][w][e]
 
 [msg MSG_019_0_0 [Ann]]
-[s][f 5 14][f 5 15]OK.[n][w][e]
+[s][f 5 14][f 5 15]Ok.[n][w][e]
 

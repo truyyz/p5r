@@ -72,5 +72,5 @@
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Mas o lugar que estamos procurando fica logo no[n]início da Central Street, então chegaremos lá[n]primeiro subindo acima do solo.[n][w][e]
 
 [msg MSG_INIT_TALK_04 [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 7172 65535 0]OK, vamos lá![n][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 7172 65535 0]Ok, vamos lá![n][w][e]
 

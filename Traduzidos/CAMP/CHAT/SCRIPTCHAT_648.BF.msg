@@ -8,7 +8,7 @@
 [s][f 5 14]Vai demorar um pouco.[n]Gostaria de nos ver?[n][f 5 15][w][e]
 
 [msg CHAT_REACTION_MSG [Mishima]]
-[s][f 5 14]OK, me encontre na lanchonete![n][f 5 15][w][e]
+[s][f 5 14]Ok, me encontre na lanchonete![n][f 5 15][w][e]
 
 [sel SEL_001 top]
 [s]Conhecê-lo[e]

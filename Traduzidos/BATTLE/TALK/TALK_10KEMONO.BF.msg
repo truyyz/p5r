@@ -92,7 +92,7 @@
 [s]Pare de falar. Você agora desculpa.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_02_R_6]
-[s]OK, você tira os sapatos ...[n]se não tirar, que vergonha.[n][w][e]
+[s]Ok, você tira os sapatos ...[n]se não tirar, que vergonha.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_02_R_7]
 [s]Sapatos, sem sapatos... sem diferença![n][w][e]
@@ -848,7 +848,7 @@
 [s]Humano nega evidências.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_07_R_11]
-[s]...OK entendido.[n][w][e]
+[s]...Ok entendido.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_07_R_12]
 [s]Bem, eu não posso fazer muito para consertá-lo...[n][w][e]
@@ -1042,7 +1042,7 @@
 
 [sel TalkSel_GUY_CHAT_SQ_11 top]
 [s]Morra em paz.[e]
-[s]Ter pena do inimigo? Porque?[e]
+[s]Ter pena do inimigo? Por quê?[e]
 [s]Eu não sei o que dizer.[e]
 
 [msg TalkMsg_GUY_CHAT_SQ_11_R]
@@ -1106,7 +1106,7 @@
 [s]Bem, pode não mudar os fatos,[n]mas eu sei que os fatos[n]podem mudar.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_12_R_2]
-[s]Oh, OK. Então eu[n]admito minha derrota.[n][w][e]
+[s]Oh, Ok. Então eu[n]admito minha derrota.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_12_R_3]
 [s]Isso não muda os fatos?[n]Como sei[n]que os fatos não são mentiras?[n][w][e]
@@ -1605,13 +1605,13 @@
 [s]...O que você está fazendo?[n]Você está tentando me matar?!?[n][w][e]
 
 [msg TalkMsg_GREET_POSSESSING]
-[s]Mmm, vejo que você tem [clr 1][var 2][clr 27][n]dentro de você. OK, então eu ajudo.[n][w][e]
+[s]Mmm, vejo que você tem [clr 1][var 2][clr 27][n]dentro de você. Ok, então eu ajudo.[n][w][e]
 
 [msg TalkMsg_NEGO_POSSESSING_]
 [s]Humanos só querem dinheiro...[n]Aqui, pegue.[n][w][e]
 
 [msg TalkMsg_NEGO_POSSESSING__2]
-[s]Então você quer algo... OK, aqui está.[n][w][e]
+[s]Então você quer algo... Ok, aqui está.[n][w][e]
 
 [msg TalkMsg_GREET_POSSESSED]
 [s]Grrr? Espere, eu me lembro do seu cheiro. Eu[n]pensei que nós poderíamos ser amigos, você e[n]eu...[n][w][e]
@@ -1946,7 +1946,7 @@
 [s]Espere! Me poupe![n][w][e]
 
 [msg TalkMsg_ACCEPT_ALERT_DOW]
-[s]Oh, OK. Eu finjo que ele não viu nada.[n][w][e]
+[s]Oh, Ok. Eu finjo que ele não viu nada.[n][w][e]
 
 [msg TalkMsg_NO_REQUIREMENT]
 [s]Você não me engana![n]Você não tem o que eu peço![n][w][e]
@@ -2012,7 +2012,7 @@
 [s]Então te ofereço[n][f 2 5 3 9999 1]...[n][w][e]
 
 [msg TalkMsg_RESULT_BRAINWASH_9]
-[s]Oh, então este é o caminho[n]para mim... Estou grato. OK, eu[n]farei o que o humano quiser.[n][w][e]
+[s]Oh, então este é o caminho[n]para mim... Estou grato. Ok, eu[n]farei o que o humano quiser.[n][w][e]
 
 [msg TalkMsg_RESULT_BRAINWASH_10]
 [s]Não, humano não pode me enganar.[n]Eu não devo seguir este caminho![n][w][e]

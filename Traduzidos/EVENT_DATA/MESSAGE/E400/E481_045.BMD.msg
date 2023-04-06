@@ -40,5 +40,5 @@
 
 [msg MSG_011_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1038 65535 0]O consultor, né?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Lady Ann está certa, vá[n]falar com ele para não chamar[n]atenção indesejada para[n]você, OK?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Lady Ann está certa, vá[n]falar com ele para não chamar[n]atenção indesejada para[n]você, Ok?[n][f 1 3 65535][w][e]
 

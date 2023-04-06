@@ -11,7 +11,7 @@
 [s][bup 0 5 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4028 65535 0]Mmm... se você acredita nessas coisas,[n]então você é realmente livre[n]para fazer o que quiser.[n][w][e]
 
 [msg D08_01_NPC_TALK_17_mes01 [Mulher hostil]]
-[s]Os ladrões fantasmas? Eu não[n]me importo com isso.[n][w][e]
+[s]Os Phantom Thieves? Eu não[n]me importo com isso.[n][w][e]
 [s]Foi uma boa piada enquanto[n]durou, mas é coisa velha. Diga-me[n]algo mais emocionante.[n][w][e]
 
 [msg D08_01_NPC_TALK_17_mes02 [Ryuji]]

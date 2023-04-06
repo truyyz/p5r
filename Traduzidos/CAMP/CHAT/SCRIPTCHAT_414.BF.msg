@@ -29,7 +29,7 @@
 [s][f 5 14]Mas se ele é realmente tão famoso,[n]não deveria ser[n]fácil de encontrar?[n][w][e]
 
 [msg MSG_CHAT_quest27_10 [Makoto]]
-[s][f 5 14]Isto é verdade. OK, então vamos encontrar[n]informações sobre o Rei nas arcadas da[n]cidade.[n][f 5 15][w][e]
+[s][f 5 14]Isto é verdade. Ok, então vamos encontrar[n]informações sobre o Rei nas arcadas da[n]cidade.[n][f 5 15][w][e]
 
 [msg MSG_CHAT_quest27_14 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1021 65535 0]Eu não sabia que você poderia[n]tornar-se famoso simplesmente[n]jogando bem um videogame...[n][f 1 3 65535][w][e]

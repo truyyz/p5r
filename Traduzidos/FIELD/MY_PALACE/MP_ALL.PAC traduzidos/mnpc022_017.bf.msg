@@ -25,7 +25,7 @@
 
 [msg MES_GROUP2_02 [Morgana]]
 [s][bup 0 3 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 30 10 0 10][vp 8 2 1 1026 65535 0]Então, tipo da sua parte dizer.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Mas, ao mesmo tempo, se eu não tivesse[n]conhecido você, talvez nunca tenha voltado[n]para os ladrões fantasmas.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Mas, ao mesmo tempo, se eu não tivesse[n]conhecido você, talvez nunca tenha voltado[n]para os Phantom Thieves.[n][w][e]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 3 10 0 10]Isso significa que você também foi uma[n]influência importante na minha vida.[n][w][e]
 
 [msg MES_GROUP2_03 [Haru]]
@@ -92,7 +92,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 3 10 0 10]Fiquei muito feliz com isso.[n][w][e]
 
 [msg MES_GROUP8_02 [Yusuke]]
-[s][bup 0 5 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 41 10 0 10][vp 8 2 1 4168 65535 0]De fato. Nós realmente começamos com o pé[n]errado. Ela até nos disse que não estávamos[n]qualificados para serem ladrões fantasmas.[n][w][e]
+[s][bup 0 5 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 41 10 0 10][vp 8 2 1 4168 65535 0]De fato. Nós realmente começamos com o pé[n]errado. Ela até nos disse que não estávamos[n]qualificados para serem Phantom Thieves.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 42 10 0 10]Quando alguém assim mudou de idéia... senti[n]uma grande pressão para atender às suas[n]expectativas.[n][w][e]
 
 [msg MES_GROUP8_03 [Morgana]]

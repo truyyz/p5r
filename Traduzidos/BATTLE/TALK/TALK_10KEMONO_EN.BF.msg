@@ -45,7 +45,7 @@
 [s]Muahahah, estou feliz.[n]Volto para você aliado.[n][w][e]
 
 [msg TalkMsg_EN_AGREE_01]
-[s]...OK. Io feliz.[n]Io retorna para seu aliado.[n][w][e]
+[s]...Ok. Io feliz.[n]Io retorna para seu aliado.[n][w][e]
 
 [msg TalkMsg_EN_SLAY_00]
 [s]Você abandonou o aliado?[n]Humano sem coração...![n][w][e]

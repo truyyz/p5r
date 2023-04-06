@@ -27,7 +27,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1167 65535 0]Calmo. Aparentemente,[n]existem vários pedestais.[n][w][e]
 
 [msg MSG_e295_091_005 [Yusuke]]
-[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4021 65535 0]OK. Por enquanto vamos em frente.[n][w][e]
+[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4021 65535 0]Ok. Por enquanto vamos em frente.[n][w][e]
 
 [msg MSG_e295_091_AF01_000 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Joker, por que não tentamos[n]colocar a joia[n]da estátua de Anúbis aqui?[n][w][e]

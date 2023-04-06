@@ -59,5 +59,5 @@
 [s][vp 1 0 0 17 0 0]Droga, ele perdeu a cabeça![n]Prepare-se![n][f 1 2 75][e]
 
 [msg MSG_019_0_0 [Akechi]]
-[s][vp 1 0 0 18 0 0]Dieeee!!!!![n][f 1 2 78][e]
+[s][vp 1 0 0 18 0 0]Morreeeee!!!!![n][f 1 2 78][e]
 

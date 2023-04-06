@@ -71,10 +71,10 @@
 
 [msg D03_MONEY_DOOR_BACK_01_0 [Ryuji]]
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]...Talvez não tenhamos que pagar se explodirmos[n]ele em pedacinhos, não é?[n][w][e]
-[s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7158 65535 0]Quebrar coisas sempre funcionou.[n]OK, vamos tentar![n][w][e]
+[s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7158 65535 0]Quebrar coisas sempre funcionou.[n]Ok, vamos tentar![n][w][e]
 
 [msg D03_MONEY_DOOR_BACK_01_0_2 [Ryuji]]
-[s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7158 65535 0]OK! Vamos destruir esta coisa![n][w][e]
+[s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7158 65535 0]Ok! Vamos destruir esta coisa![n][w][e]
 
 [msg D03_MONEY_DOOR_BACK_02_0 [Morgana]]
 [s][bup 0 3 10 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1040 65535 0]Na verdade funcionou...[n][w][e]

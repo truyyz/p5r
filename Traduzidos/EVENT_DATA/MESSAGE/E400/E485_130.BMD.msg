@@ -48,7 +48,7 @@
 [s][vp 8 0 0 26 65535 0]Temos um pequeno favor[n]para lhe pedir...[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Kasumi]]
-[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 27 65535 0]HM OK. Estou dentro![n][f 1 3 65535][w][e]
+[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 27 65535 0]HM Ok. Estou dentro![n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Kasumi]]
 [s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 28 65535 0][f 4 1]-senpai, já volto...[n]eles me pediram para ajudá-los[n]com alguma coisa.[n][f 1 3 65535][w][e]

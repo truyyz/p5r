@@ -62,7 +62,7 @@
 [s][vp 8 0 0 0 65535 0]Sinto que meu vínculo[n]com Iwai está ficando mais forte...[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Iwai]]
-[s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 2 0 13086 65535 0]OK, sua primeira tarefa[n]é tirar o lixo. Vamos,[n]precisamos nos livrar dos protótipos.[n][f 1 3 65535][w][e]
+[s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 2 0 13086 65535 0]Ok, sua primeira tarefa[n]é tirar o lixo. Vamos,[n]precisamos nos livrar dos protótipos.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Antes de jogá-los, desmonte-os[n]e apague as impressões digitais, ok?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 13083 65535 0]Ah, e você não vai embora até[n]terminar.[n][f 1 3 65535][w][e]
 

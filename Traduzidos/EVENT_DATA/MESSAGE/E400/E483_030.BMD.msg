@@ -19,7 +19,7 @@
 [s][bup 0 216 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Há algo me incomodando,[n]ultimamente, e eu gostaria[n]de ouvir o que você pensa.[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Maruki]]
-[s][bup 0 216 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]OK, aqui...[n][f 1 3 65535][w][e]
+[s][bup 0 216 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Ok, aqui...[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Maruki]]
 [s][bup 0 216 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]É hipotético, veja bem,[n]mas imagine que há alguém[n]de quem você tem grandes expectativas.[n][f 1 3 65535][w][e]

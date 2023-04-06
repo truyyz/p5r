@@ -60,7 +60,7 @@
 [s]Fechamos a loja.[e]
 
 [msg MSG_017_0_0 [Iwai]]
-[s][bup 0 104 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]OK. Estou em Seaside Park.[n][f 1 3 65535][w][e]
+[s][bup 0 104 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ok. Estou em Seaside Park.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Pego as chaves e tranco![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 13081 65535 0]Vamos, vamos![n][f 1 3 65535][w][e]
 

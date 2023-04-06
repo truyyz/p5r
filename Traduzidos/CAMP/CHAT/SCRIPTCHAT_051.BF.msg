@@ -45,7 +45,7 @@
 [s][f 5 14]Vamos nos encontrar em Shibuya amanhã.[n][w][e]
 
 [msg MSG_015_0_0 [Ann]]
-[s][f 5 14][f 5 15]OK vejo você amanhã![n][w][e]
+[s][f 5 14][f 5 15]Ok vejo você amanhã![n][w][e]
 
 [msg MSG_MORUEND_00 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 1 0 0]Amanhã a exposição finalmente[n]acaba... Com certeza desta vez também[n]tudo vai ficar bem.[n][f 1 3 65535][w][e]

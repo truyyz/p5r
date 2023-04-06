@@ -499,7 +499,7 @@
 [s][vp 9 2 65535 38904 0 0]O que o fez pedir desculpas tão de repente?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_005_05_ [Estudante preguiçoso]]
-[s][vp 9 2 65535 43000 0 0]Bem, ele trouxe isso.[n]Eu diria que temos uma dívida[n]com aqueles Ladrões Fantasmas.[n][f 1 2 180][e]
+[s][vp 9 2 65535 43000 0 0]Bem, ele trouxe isso.[n]Eu diria que temos uma dívida[n]com aqueles Phantom Thieves.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_005_06_ [Estudante preguiçoso]]
 [s][vp 9 2 65535 42605 0 0]Os Phantom Thieves não têm nada a ver com o[n]pedido de desculpas do Prof. Kamoshida.[n][f 1 2 180][e]
@@ -589,7 +589,7 @@
 [s][vp 9 2 65535 42754 0 0]De alguma forma, os Phantom Thieves[n]conseguem forçar uma pessoa[n]a se desculpar pelos crimes cometidos.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_05_ [Estudante preguiçoso]]
-[s][vp 9 2 65535 39505 0 0]Os Ladrões Fantasmas de novo? Mas não era só uma[n]piada?[n][f 1 2 180][e]
+[s][vp 9 2 65535 39505 0 0]Os Phantom Thieves de novo? Mas não era só uma[n]piada?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_06_ [Estudante preguiçoso]]
 [s][vp 9 2 65535 43305 0 0]Então aquela carta de aviso para[n]Kamoshida não era brincadeira...[n][f 1 2 180][e]
@@ -856,7 +856,7 @@
 [s][vp 9 2 65535 42602 0 0]Só de pensar naquela[n]coletiva de imprensa me deprime...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_023_01_ [Estudante preguiçoso]]
-[s][vp 9 2 65535 39501 0 0]Esses ladrões fantasmas são assassinos![n]Coloque-os imediatamente na prisão![n][f 1 2 180][e]
+[s][vp 9 2 65535 39501 0 0]Esses Phantom Thieves são assassinos![n]Coloque-os imediatamente na prisão![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_023_02_ [Estudante preguiçoso]]
 [s][vp 9 2 65535 43007 0 0]Nunca pensei que[n]Phantom Thieves pudessem[n]matar alguém...![n][f 1 2 180][e]
@@ -886,7 +886,7 @@
 [s][vp 9 2 65535 42907 0 0]Quando os Ladrões prenderão[n]Phantom?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_024_05_ [Estudante preguiçoso]]
-[s][vp 9 2 65535 42709 0 0]O que os adultos estão fazendo!?![n]Aqueles ladrões fantasmas[n]ainda estão à solta![n][f 1 2 180][e]
+[s][vp 9 2 65535 42709 0 0]O que os adultos estão fazendo!?![n]Aqueles Phantom Thieves[n]ainda estão à solta![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_024_06_ [Estudante preguiçoso]]
 [s][vp 9 2 65535 43301 0 0]Depressa e prenda[n]aquele bando de assassinos![n][f 1 2 180][e]
@@ -922,7 +922,7 @@
 [s][vp 9 2 65535 40652 0 0]Parece que incidentes relacionados[n]a arrebatamentos estão acontecendo[n]mais e com mais frequência...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_026_05_ [Estudante preguiçoso]]
-[s][vp 9 2 65535 39751 0 0]O que os adultos estão fazendo!?![n]Aqueles ladrões fantasmas[n]ainda estão à solta![n][f 1 2 180][e]
+[s][vp 9 2 65535 39751 0 0]O que os adultos estão fazendo!?![n]Aqueles Phantom Thieves[n]ainda estão à solta![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_026_06_ [Estudante preguiçoso]]
 [s][vp 9 2 65535 42752 0 0]É assustador que esses ataques[n]estão acontecendo cada vez com mais[n]frequência...[n][f 1 2 180][e]
@@ -1501,7 +1501,7 @@
 [s][f 4 23 1 0 3 10 0 0][bup 0 6 4 65535 0][f 4 10 65535 0 0][vp 8 2 1 2181 65535 0]Ah...[n][w][e]
 [s][f 4 23 1 0 3 10 0 0][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]O-O que é? Eu estava tão absorto[n]pelo livro que não notei você...[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]...Ah, quase esqueci! Eu tenho[n]uma reunião do conselho estudantil.[n][w][e]
-[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Terminamos...?[n]OK, então. Em breve.[n][w][e]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Terminamos...?[n]Ok, então. Em breve.[n][w][e]
 
 [msg MSG_BIKOU02_002_0_0 [Makoto]]
 [s][f 4 23 1 0 3 10 0 0][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 2029 65535 0]N-Não ligue para mim. Embora[n]não pareça, estou muito ocupado.[n][w][e]

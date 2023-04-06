@@ -8,7 +8,7 @@
 [s][f 5 14]Não coloquei nada perigoso nele,[n]então não há[n]efeitos colaterais.[n][f 5 15][w][e]
 
 [msg CHAT_REACTION_MSG_01 [Takemi]]
-[s][f 5 14]Boa resposta. OK, então[n]vou ter que me ocupar.[n][w][e]
+[s][f 5 14]Boa resposta. Ok, então[n]vou ter que me ocupar.[n][w][e]
 
 [msg CHAT_REACTION_MSG_02 [Takemi]]
 [s][f 5 14]Bem, vejo você na clínica.[n][f 5 15][w][e]
@@ -22,11 +22,11 @@
 [s][f 5 14]Eu estarei lá em breve.[e]
 
 [msg MSG_CORP_PLAY_CHECK1 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Você fez uma promessa a Takemi.[n]Tente aceitar os convites dela[n]para ganhar a confiança dela, OK?[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Você fez uma promessa a Takemi.[n]Tente aceitar os convites dela[n]para ganhar a confiança dela, Ok?[n][f 1 3 65535][w][e]
 
 [msg MSG_CORP_PLAY_CHECK2 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Ninguém pensa que você está vivo.[n]Se você tomar cuidado,[n]tudo deve ficar bem.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Você fez uma promessa a Takemi.[n]Tente aceitar os convites dela[n]para ganhar a confiança dela, OK?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Você fez uma promessa a Takemi.[n]Tente aceitar os convites dela[n]para ganhar a confiança dela, Ok?[n][f 1 3 65535][w][e]
 
 [msg ERROR_MSG_000_0_0 [Sojiro]]
 [s][bup 0 103 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ei, estou abrindo uma loja.[n]Você se importaria de parar[n]de jogar no seu telefone?[n][w][e]

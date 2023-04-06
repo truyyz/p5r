@@ -172,7 +172,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você pode me falar sobre eles? Eu prometo[n]que aliviarei sua sentença.[n][f 1 3 65535][w][e]
 
 [sel SEL_054_0_0 top]
-[s]OK.[e]
+[s]Ok.[e]
 [s]Sem chance.[e]
 
 [msg MSG_055_0_0 [Sae]]
@@ -281,7 +281,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você não decide[n]essas coisas![n][f 1 3 65535][w][e]
 
 [sel SEL_086_0_0 top]
-[s]Porque?[e]
+[s]Por quê?[e]
 [s]Eu decido.[e]
 
 [msg MSG_087_0_0 [Sae]]
@@ -434,7 +434,7 @@
 [s][bup 0 105 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]......[n][f 1 3 65535][w][e]
 
 [msg MSG_125_0_0 [Sae]]
-[s][bup 0 105 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...OK. Vou jogar junto.[n][f 1 3 65535][w][e]
+[s][bup 0 105 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Ok. Vou jogar junto.[n][f 1 3 65535][w][e]
 
 [msg MSG_126_0_0 [Sae]]
 [s][bup 0 105 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Escolha sábia. Obrigado.[n]Farei o que for preciso.[n][f 1 3 65535][w][e]

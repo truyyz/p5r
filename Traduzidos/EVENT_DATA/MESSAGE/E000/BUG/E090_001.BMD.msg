@@ -729,7 +729,7 @@
 
 [msg msg_combine_PERSONA191 [Orfeo Picaro]]
 [s]Eles são [clr 1][var 1][clr 27].[n][w][e]
-[s]Você quer que eu seja a máscara do[n]Trickster, hein? OK, acho que posso ajudá-lo a fazer um nome para si mesmo.[n][w][e]
+[s]Você quer que eu seja a máscara do[n]Trickster, hein? Ok, acho que posso ajudá-lo a fazer um nome para si mesmo.[n][w][e]
 
 [msg msg_combine_PERSONA192 [Thanatos Picaro]]
 [s]Eu sou [clr 1][var 1][clr 27]...[n][w][e]
@@ -1332,7 +1332,7 @@
 
 [msg msg_combine_PERSONA371 [Orfeo Picaro]]
 [s]Eles são [clr 1][var 1][clr 27].[n][w][e]
-[s]The Trickster Mask?[n]OK, posso ajudá-lo a fazer[n]um nome para você.[n][w][e]
+[s]The Trickster Mask?[n]Ok, posso ajudá-lo a fazer[n]um nome para você.[n][w][e]
 
 [msg msg_combine_PERSONA372 [Orfeo Picaro]]
 [s]RESERVA[n][w][e]

@@ -58,7 +58,7 @@
 [s][bup 0 221 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 56766 65535 0]Se você quiser,[n]você pode tentar.[n]Estarei torcendo por você![n][w][e]
 
 [msg MSG_010_01 [[f 7 1]]]
-[s][bup 0 221 1 65535 0][f 4 10 65535 0 0][f 4 23 1 340 2 10 0 10][vp 8 2 1 56752 65535 0]Oh, OK.[n][w][e]
+[s][bup 0 221 1 65535 0][f 4 10 65535 0 0][f 4 23 1 340 2 10 0 10][vp 8 2 1 56752 65535 0]Oh, Ok.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Bem, me encontre aqui se precisar de mim. Volte[n]se quiser saber mais.[n][w][e]
 [s][f 4 10 65535 0 0][f 4 23 1 340 1 10 0 10][vp 8 2 1 56706 65535 0]Isso deve ser tudo.[n]Ótimo trabalho.[n][w][e]
 
@@ -121,7 +121,7 @@
 [s][bup 0 221 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 56766 65535 0]Se você quiser,[n]você pode tentar.[n]Estarei torcendo por você![n][w][e]
 
 [msg MSG_021_01 [[f 7 1]]]
-[s][bup 0 221 1 65535 0][f 4 10 65535 0 0][f 4 23 1 340 2 10 0 10][vp 8 2 1 56752 65535 0]Oh, OK.[n][w][e]
+[s][bup 0 221 1 65535 0][f 4 10 65535 0 0][f 4 23 1 340 2 10 0 10][vp 8 2 1 56752 65535 0]Oh, Ok.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Bem, me encontre aqui se precisar de mim. Volte[n]se quiser saber mais.[n][w][e]
 [s][f 4 10 65535 0 0][f 4 23 1 340 1 10 0 10][vp 8 2 1 56706 65535 0]Isso deve ser tudo.[n]Ótimo trabalho.[n][w][e]
 

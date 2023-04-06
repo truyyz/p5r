@@ -9,5 +9,5 @@
 [s][f 5 14]Perfeito! Eu cuido disso![n][w][e]
 
 [msg MSG_003_0_0 [Futaba]]
-[s][f 5 14]OK, então vou me infiltrar agora.[n][f 5 15][w][e]
+[s][f 5 14]Ok, então vou me infiltrar agora.[n][f 5 15][w][e]
 

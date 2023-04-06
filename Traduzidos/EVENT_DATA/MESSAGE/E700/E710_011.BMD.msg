@@ -82,7 +82,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 31 65535 0]Por favor, por favor... preciso saber[n]se o destino pode ser mudado...[n][f 1 3 65535][w][e]
 
 [sel SEL_020_0_0 top]
-[s]OK, tudo bem.[e]
+[s]Ok, tudo bem.[e]
 [s]Você pode ser útil.[e]
 
 [msg MSG_021_0_0 [Chihaya]]
@@ -92,7 +92,7 @@
 [s][bup 0 113 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 33 65535 0]Oh! Sim, exatamente! Exatamente![n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Chihaya]]
-[s][bup 0 113 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 34 65535 0]OK, estou ansioso para[n]testar suas "habilidades"![n][f 1 3 65535][w][e]
+[s][bup 0 113 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 34 65535 0]Ok, estou ansioso para[n]testar suas "habilidades"![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 35 65535 0]Não me levante, ok?[n]Fizemos um pacto.[n][f 1 3 65535][w][e]
 
 [msg MND_990_0_0]

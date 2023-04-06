@@ -151,7 +151,7 @@
 [s][vp 8 0 0 57 65535 0]Vamos, me ligue![n][f 1 3 65535][w][e]
 
 [msg MSG_038_0_0 [Maruki]]
-[s][bup 0 216 905 65535 0][f 4 10 65535 0 0][vp 8 0 0 58 65535 0]Sim... OK.[n][f 1 3 65535][w][e]
+[s][bup 0 216 905 65535 0][f 4 10 65535 0 0][vp 8 0 0 58 65535 0]Sim... Ok.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 59 65535 0]Eu não me importo com quem você é...[n]Dê-me seu poder![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 60 65535 0]Por favor... me ajude a salvar[n]a vida de Rumi![n][f 1 3 65535][w][e]
 

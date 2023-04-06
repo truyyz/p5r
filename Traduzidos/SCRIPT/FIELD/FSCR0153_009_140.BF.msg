@@ -15,10 +15,10 @@
 [s]Um momento.[e]
 
 [msg D02_ex_e211_021_selA_0_m [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1181 65535 0]OK! Todos para seus assentos![n][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1181 65535 0]Ok! Todos para seus assentos![n][w][e]
 
 [msg D02_ex_e211_021_selA_1_m [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1165 65535 0]OK. Antes de começar,[n]certifique-se de estar preparado.[n][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1165 65535 0]Ok. Antes de começar,[n]certifique-se de estar preparado.[n][w][e]
 
 [msg D02_ex_e211_021_AF_mes01 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1158 65535 0]Joker, você está pronto?[n][w][e]

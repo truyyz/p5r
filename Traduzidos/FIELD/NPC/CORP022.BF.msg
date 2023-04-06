@@ -52,7 +52,7 @@
 [s][bup 0 10 0 65535 0][f 4 10 65535 0 0][f 4 23 1 222 3 10 0 10][vp 8 2 1 57027 65535 0]Eu vejo. Deixe-me saber quando você[n]decidiu o que fazer hoje, por favor.[n][w][e]
 
 [msg MSG_C22_ACTION_D09_31_13 [Sumire]]
-[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][f 4 23 1 222 3 10 0 10][vp 8 2 1 57026 65535 0]OK! Farei o possível para não causar problemas a[n]você![n][w][e]
+[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][f 4 23 1 222 3 10 0 10][vp 8 2 1 57026 65535 0]Ok! Farei o possível para não causar problemas a[n]você![n][w][e]
 
 [msg MSG_C22_BEGIN_D09_40_00 [Sumire]]
 [s][bup 0 10 0 65535 0][f 4 10 65535 0 0][f 4 23 1 222 3 10 0 10][vp 8 2 1 57182 65535 0]Não quero mais fugir, senpai.[n]Temos que acabar com[n]este mundo.[n][w][e]
@@ -126,7 +126,7 @@
 [s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Por favor, senpai! Ajude-me[n]a estudar para esses exames![n][w][e]
 
 [sel SEL_C22_ACTION_D10_20_01 top]
-[s]OK.[e]
+[s]Ok.[e]
 [s]Vou pensar sobre isso.[e]
 
 [msg MSG_C22_ACTION_D10_20_02 [Kasumi]]

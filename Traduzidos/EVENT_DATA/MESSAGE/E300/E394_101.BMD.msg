@@ -15,7 +15,7 @@
 
 [msg MSG_009_0_0 [Voz do Alibaba]]
 [s][vp 8 0 0 13 65535 0]Goro Akechi é mau.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 14 65535 0]Não veio interrogar[n]o Ladrão Fantasma preso...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 14 65535 0]Não veio interrogar[n]o Phantom Thief preso...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 15 65535 0]Ele veio para matá-lo.[n][f 1 3 65535][w][e]
 
 [msg MSG_009_5_0 [Voz de jovem]]

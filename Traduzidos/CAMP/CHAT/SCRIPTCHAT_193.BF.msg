@@ -21,5 +21,5 @@
 [s][f 5 14]Falar com o Dr. Maruki será mais fácil do[n]que você pensa.[n][w][e]
 
 [msg MSG_008_0_0 [Ann]]
-[s][f 5 14][f 5 15]OK vejo você amanhã.[n][w][e]
+[s][f 5 14][f 5 15]Ok vejo você amanhã.[n][w][e]
 

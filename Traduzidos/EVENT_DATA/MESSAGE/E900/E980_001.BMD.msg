@@ -30,7 +30,7 @@
 [s][bup 0 3 0 65535 0][vp 8 0 0 0 65535 0]Progresso é poder. Você parecia[n]outro enquanto estava ocupado.[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Ryuji]]
-[s][bup 0 2 1 65535 0][vp 8 0 0 0 65535 0]OK![n][f 1 3 65535][w][e]
+[s][bup 0 2 1 65535 0][vp 8 0 0 0 65535 0]Ok![n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Morgana]]
 [s][bup 0 3 1 65535 0][vp 8 0 0 0 65535 0]Olá![n][f 1 3 65535][w][e]

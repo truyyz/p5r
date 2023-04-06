@@ -48,7 +48,7 @@
 [s][f 5 14]Devíamos nos encontrar no ponto de[n]encontro e falar sobre isso com os[n]outros, pelo menos.[n][w][e]
 
 [msg MSG_011_0_1 [Ryuji]]
-[s][f 5 14][f 5 15]OK, chame-nos para o esconderijo[n]quando estiver pronto.[n][w][e]
+[s][f 5 14][f 5 15]Ok, chame-nos para o esconderijo[n]quando estiver pronto.[n][w][e]
 
 [msg MSG_012_0_1 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1176 65535 0]Só temos que enviar a[n]carta de aviso. Ryuji está certo.[n]Devemos fazer isso agora.[n][f 1 3 65535][w][e]

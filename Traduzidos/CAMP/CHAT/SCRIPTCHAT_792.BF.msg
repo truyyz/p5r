@@ -35,13 +35,13 @@
 [s]Já tenho outros compromissos.[e]
 
 [msg MSG_201_0_0 [Ann]]
-[s][f 5 14]OK, então até amanhã[n]em Kichijoji![n][w][e]
+[s][f 5 14]Ok, então até amanhã[n]em Kichijoji![n][w][e]
 
 [msg MSG_202_0_0 [Ryuji]]
 [s][f 5 14]Yay! Sem atrasos, hein?[n][f 5 15][w][e]
 
 [msg MSG_201_1_0 [Ann]]
-[s][f 5 14]OK, então vamos conhecer[n]a Kichijoji![n][w][e]
+[s][f 5 14]Ok, então vamos conhecer[n]a Kichijoji![n][w][e]
 
 [msg MSG_202_1_0 [Ryuji]]
 [s][f 5 14]Sim![n][f 5 15][w][e]

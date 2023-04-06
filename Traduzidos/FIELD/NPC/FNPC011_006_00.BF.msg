@@ -285,13 +285,13 @@
 [s][vp 9 2 65535 39455 0 0]Cartas de desafio para Shibuya?[n]Do que você está falando?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_03_]
-[s][vp 9 2 65535 46055 0 0]Ladrões Fantasmas? Mas vá.[n]Você vigia muitas almas.[n][f 1 2 180][e]
+[s][vp 9 2 65535 46055 0 0]Phantom Thieves? Mas vá.[n]Você vigia muitas almas.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_04_]
 [s][vp 9 2 65535 45305 0 0]Aquele? carta de aviso?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_05_]
-[s][vp 9 2 65535 39155 0 0]Se você acredita que um "[n]ladrão fantasma" resolverá seus[n]problemas... Abra seus olhos.[n][f 1 2 180][e]
+[s][vp 9 2 65535 39155 0 0]Se você acredita que um "[n]Phantom Thief" resolverá seus[n]problemas... Abra seus olhos.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_06_]
 [s]0[n][f 1 2 180][e]
@@ -327,7 +327,7 @@
 [s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_009_07_]
-[s][vp 9 2 65535 44704 0 0]Aqueles... "ladrões fantasmas"[n]resolveram o caso, não é?[n][f 1 2 180][e]
+[s][vp 9 2 65535 44704 0 0]Aqueles... "Phantom Thieves"[n]resolveram o caso, não é?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_009_08_]
 [s][vp 9 2 65535 37553 0 0]Faz um tempo que não vou a Shibuya. Talvez[n]eu passe aqui mais tarde.[n][f 1 2 180][e]
@@ -345,7 +345,7 @@
 [s][vp 9 2 65535 37606 0 0]Parece que os Phantom Thieves[n]desempenharam um[n]papel importante na prisão.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_03_]
-[s][vp 9 2 65535 45154 0 0]Aquele garoto disse que[n]os Ladrões Fantasmas[n]detiveram os bandidos...[n][f 1 2 180][e]
+[s][vp 9 2 65535 45154 0 0]Aquele garoto disse que[n]os Phantom Thieves[n]detiveram os bandidos...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_04_]
 [s][vp 9 2 65535 38456 0 0]Eles dizem que foram[n]"Phantom Thieves" que[n]resolveram o problema.[n][f 1 2 180][e]
@@ -357,7 +357,7 @@
 [s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_07_]
-[s][vp 9 2 65535 41503 0 0]Provavelmente Ladrões[n]Fantasmas não existem,[n]mas... E se ao invés disso...?[n][f 1 2 180][e]
+[s][vp 9 2 65535 41503 0 0]Provavelmente Phantom[n]Thieves não existem,[n]mas... E se ao invés disso...?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_08_]
 [s][vp 9 2 65535 41204 0 0]Os Phantom Thieves tiveram[n]algo a ver com a prisão de Kaneshiro?[n][f 1 2 180][e]
@@ -513,7 +513,7 @@
 [s][vp 9 2 65535 40306 0 0]Espero que dêem às[n]pessoas más o que[n]elas merecem![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_015_09_]
-[s][vp 9 2 65535 45253 0 0]Os Ladrões[n]Fantasmas cuidarão de deter[n]todos os criminosos![n][f 1 2 180][e]
+[s][vp 9 2 65535 45253 0 0]Os Phantom[n]Thieves cuidarão de deter[n]todos os criminosos![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_015_10_]
 [s]0[n][f 1 2 180][e]
@@ -567,7 +567,7 @@
 [s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_017_07_]
-[s][vp 9 2 65535 44706 0 0]Ladrões fantasmas, criminosos[n]abundam no mundo![n]Ataque todos eles, rápido![n][f 1 2 180][e]
+[s][vp 9 2 65535 44706 0 0]Phantom Thieves, criminosos[n]abundam no mundo![n]Ataque todos eles, rápido![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_017_08_]
 [s][vp 9 2 65535 41753 0 0]Continue assim,[n]Phantom Thieves![n][f 1 2 180][e]
@@ -579,7 +579,7 @@
 [s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_018_01_]
-[s][vp 9 2 65535 43403 0 0]Contamos com vocês,[n]Ladrões Fantasmas! Punir[n]Okumura![n][f 1 2 180][e]
+[s][vp 9 2 65535 43403 0 0]Contamos com vocês,[n]Phantom Thieves! Punir[n]Okumura![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_018_02_]
 [s][vp 9 2 65535 40553 0 0]Eu quero ver Okumura[n]humilhado, de joelhos e em[n]lágrimas de vergonha![n][f 1 2 180][e]
@@ -642,7 +642,7 @@
 [s][vp 9 2 65535 43405 0 0]Na TV, eles transmitiram um dossiê sobre os[n]Phantom Thieves.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_020_02_]
-[s][vp 9 2 65535 38807 0 0]Quando eles vão prender[n]aqueles Ladrões Fantasmas?!?[n][f 1 2 180][e]
+[s][vp 9 2 65535 38807 0 0]Quando eles vão prender[n]aqueles Phantom Thieves?!?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_020_03_]
 [s][vp 9 2 65535 43457 0 0]Por quanto tempo mais a[n]polícia deixará esses[n]criminosos soltos?[n][f 1 2 180][e]
@@ -663,13 +663,13 @@
 [s][vp 9 2 65535 41507 0 0]Jornalistas especulam[n]agora sobre quem pode estar se escondendo[n]atrás dos Phantom Thieves.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_020_09_]
-[s][vp 9 2 65535 44557 0 0]Alguém tem que parar[n]aqueles Ladrões Fantasmas![n]Não importa quem![n][f 1 2 180][e]
+[s][vp 9 2 65535 44557 0 0]Alguém tem que parar[n]aqueles Phantom Thieves![n]Não importa quem![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_020_10_]
 [s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_021_01_]
-[s][vp 9 2 65535 41057 0 0]A polícia finalmente[n]está levando a sério[n]aqueles ladrões fantasmas...[n][f 1 2 180][e]
+[s][vp 9 2 65535 41057 0 0]A polícia finalmente[n]está levando a sério[n]aqueles Phantom Thieves...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_021_02_]
 [s][vp 9 2 65535 37601 0 0]Uma recompensa, né...?[n]Finalmente a polícia[n]está fazendo alguma coisa.[n][f 1 2 180][e]
@@ -750,10 +750,10 @@
 [s][vp 9 2 65535 45201 0 0]O que[n]a polícia está fazendo?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_023_08_]
-[s][vp 9 2 65535 41207 0 0]Quando eles vão prender[n]aqueles Ladrões Fantasmas?!?[n][f 1 2 180][e]
+[s][vp 9 2 65535 41207 0 0]Quando eles vão prender[n]aqueles Phantom Thieves?!?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_023_09_]
-[s][vp 9 2 65535 41807 0 0]Alguém tem que parar[n]aqueles Ladrões Fantasmas![n]Não importa quem![n][f 1 2 180][e]
+[s][vp 9 2 65535 41807 0 0]Alguém tem que parar[n]aqueles Phantom Thieves![n]Não importa quem![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_023_10_]
 [s]0[n][f 1 2 180][e]
@@ -792,7 +792,7 @@
 [s][vp 9 2 65535 45400 0 0]Incrível! Eles realmente[n]prenderam o líder dos[n]Phantom Thieves![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_025_02_]
-[s][vp 9 2 65535 39454 0 0]Aquele ladrão[n]fantasma realmente cometeu suicídio[n]na prisão?!?[n][f 1 2 180][e]
+[s][vp 9 2 65535 39454 0 0]Aquele Phantom[n]Thief realmente cometeu suicídio[n]na prisão?!?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_025_03_]
 [s][vp 9 2 65535 37755 0 0]Por se matar[n]imediatamente após sua prisão,[n]ele devia estar louco.[n][f 1 2 180][e]
@@ -807,7 +807,7 @@
 [s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_025_07_]
-[s][vp 9 2 65535 38151 0 0]Como eles permitiram que[n]aquele Ladrão Fantasma[n]cometesse suicídio?[n][f 1 2 180][e]
+[s][vp 9 2 65535 38151 0 0]Como eles permitiram que[n]aquele Phantom Thief[n]cometesse suicídio?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_025_08_]
 [s][vp 9 2 65535 39804 0 0]Agora que aquele Phantom Thief[n]está morto, não deve haver[n]mais ataques, certo?[n][f 1 2 180][e]

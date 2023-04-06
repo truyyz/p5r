@@ -31,7 +31,7 @@
 
 [msg MSG_E244_501_003 [Ryuji]]
 [s][f 4 23 1 802 45 10 44 0][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 7103 65535 0]Chegamos![n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]OK, só precisamos descobrir[n]algo sobre distorção. Então[n]podemos ir para o Palácio![n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ok, só precisamos descobrir[n]algo sobre distorção. Então[n]podemos ir para o Palácio![n][w][e]
 
 [msg MSG_E244_501_004 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 65535 1111 0 0]Vamos tentar amanhã.[n]Será melhor ter[n]a equipe completa.[n][w][e]

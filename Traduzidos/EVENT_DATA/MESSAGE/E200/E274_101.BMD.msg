@@ -17,7 +17,7 @@
 [s][bup 0 2 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]Ei, você não precisa[n]tacar a verdade na minha cara.[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Ryuji]]
-[s][bup 0 2 7 65535 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Vamos, não fique quieto[n]comigo... OK, OK... Acho que[n]é só minha culpa...[n][f 1 3 65535][w][e]
+[s][bup 0 2 7 65535 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Vamos, não fique quieto[n]comigo... Ok, Ok... Acho que[n]é só minha culpa...[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]No entanto, há algo[n]mais importante! Mishima...[n][f 1 3 65535][w][e]

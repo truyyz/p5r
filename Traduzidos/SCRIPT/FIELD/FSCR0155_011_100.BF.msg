@@ -24,10 +24,10 @@
 [s]Melhor deixá-lo sozinho.[e]
 
 [msg D04_03_e295_075_selA_0_m [Makoto]]
-[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2022 65535 0]Como é dito? "Nada se arriscou,[n]nada ganhou". OK.[n][w][e]
+[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2022 65535 0]Como é dito? "Nada se arriscou,[n]nada ganhou". Ok.[n][w][e]
 
 [msg D04_03_e295_075_selA_1_m [Makoto]]
-[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2022 65535 0]OK. Vamos ver as várias possibilidades[n]e tentar entender[n]se esta é a única solução.[n][w][e]
+[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2022 65535 0]Ok. Vamos ver as várias possibilidades[n]e tentar entender[n]se esta é a única solução.[n][w][e]
 
 [msg D04_03_e295_075_mes03 [Ryuji]]
 [s][bup 0 2 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7041 65535 0]Merda, eu me irritei! Então foi uma armadilha![n][w][e]

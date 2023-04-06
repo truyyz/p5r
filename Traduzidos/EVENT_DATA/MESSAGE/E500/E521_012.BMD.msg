@@ -155,7 +155,7 @@
 
 [msg MSG_048_0_0 [Yusuke]]
 [s][bup 0 5 2 5 0][f 4 10 65535 0 0][vp 8 0 0 60 65535 0]Não há tempo a perder.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 61 65535 0]Mostraremos do que os Ladrões Fantasmas são[n]capazes...[n]uma última vez.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 61 65535 0]Mostraremos do que os Phantom Thieves são[n]capazes...[n]uma última vez.[n][f 1 3 65535][w][e]
 
 [msg MSG_049_0_0 [Futaba]]
 [s][bup 0 8 2 6 0][f 4 10 65535 0 0][vp 8 0 0 62 65535 0]Você tem razão! Vamos![n][f 1 3 65535][w][e]

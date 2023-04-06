@@ -34,7 +34,7 @@
 [s]Vamos pensar um pouco mais sobre isso.[e]
 
 [msg D10_009_HuddleTalk_agend [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1172 65535 0]OK, vamos pensar em como lidar com a[n]primeira pergunta. O que devemos fazer,[n]Joker?[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1172 65535 0]Ok, vamos pensar em como lidar com a[n]primeira pergunta. O que devemos fazer,[n]Joker?[n][w][e]
 
 [msg D10_009_HuddleTalk_ReAge [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1003 65535 0]Você quer falar sobre outra coisa?[n][w][e]
@@ -46,7 +46,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1186 65535 0]Alguém mais tem algo a dizer?[n][w][e]
 
 [msg D10_09_huddle_ans_choice [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1035 65535 0]OK, vamos tentar elaborar[n]uma resposta com base no que[n]ouvimos.[n][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1035 65535 0]Ok, vamos tentar elaborar[n]uma resposta com base no que[n]ouvimos.[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Devemos tentar entender a maneira de pensar de[n]Maruki.[n][w][e]
 
 [msg D10_09_huddle_ans_choice_2 [Yusuke]]

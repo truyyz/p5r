@@ -11,5 +11,5 @@
 [s][f 5 14]Fuuu...[n][w][e]
 
 [msg MSG_021_0_0 [Ohya]]
-[s][f 5 14]OK, até lá![n][f 5 15][w][e]
+[s][f 5 14]Ok, até lá![n][f 5 15][w][e]
 

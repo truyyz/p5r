@@ -167,7 +167,7 @@
 [s][vp 1 0 0 0 0 0]Mas estamos torcendo por[n]assassinos até agora...?[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_1014_2]
-[s][vp 1 0 0 0 0 0]Deve ser uma farsa![n]Ladrões Fantasmas não[n]são assim...[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Deve ser uma farsa![n]Phantom Thieves não[n]são assim...[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_1014_3]
 [s][vp 1 0 0 0 0 0]Eles têm que suportar esse treinamento[n]duro todos os dias? Sinto um pouco[n]de pena deles...[n][f 1 3 65535][w][e]

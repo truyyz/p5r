@@ -11,7 +11,7 @@
 [s][f 5 14]Eu não vejo você vindo,[n]e já esperei por[n]um tempo, então vou para casa.[n][w][e]
 
 [msg CHAT_REACTION_MSG [Shinya]]
-[s][f 5 14]OK.[n][f 5 15][w][e]
+[s][f 5 14]Ok.[n][f 5 15][w][e]
 
 [msg MND_COOP_RANK_UP_OK]
 [s]Eu sinto que meu vínculo com Shinya vai[n]se fortalecer em breve...[n][w][e]

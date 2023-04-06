@@ -8,7 +8,7 @@
 [s][f 5 14]Pode ser.[e]
 
 [msg MSG_020_0_0 [Ann]]
-[s][f 5 14]OK![n][w][e]
+[s][f 5 14]Ok![n][w][e]
 
 [msg MSG_021_0_0 [Ann]]
 [s][f 5 14]Então vamos nos encontrar na Estação Shibuya![n]Nos vemos lá![n][f 5 15][w][e]

@@ -143,7 +143,7 @@
 [s][bup 0 107 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]B-Bem... talvez você esteja certo. Faz[n]muito tempo desde que me senti tão vivo.[n][f 1 3 65535][w][e]
 
 [msg MSG_034_5_0 [Ohya]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 107 1 301 1][vp 8 2 0 16099 65535 0]OK, vou escrever um ótimo artigo[n]para celebrar esse compartilhamento![n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 107 1 301 1][vp 8 2 0 16099 65535 0]Ok, vou escrever um ótimo artigo[n]para celebrar esse compartilhamento![n][f 1 3 65535][w][e]
 [s][bup 0 107 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]"Exclusivo: Os nobres ideais dos[n]Phantom Thieves, ligados a[n]uma sociedade secreta!"[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Haha, brincadeira! Não se preocupe,[n]antes de imprimir[n]vou pensar em um título melhor![n][f 1 3 65535][w][e]
 

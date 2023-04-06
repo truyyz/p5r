@@ -117,7 +117,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 1 3 65535 0]Foi um ano louco, hein?[n]Tente se ocupar[n]estudando quando chegar em casa.[n][w][e]
 
 [sel SEL_C14_BYEGREET_00_01 top]
-[s]OK.[e]
+[s]Ok.[e]
 [s]Serei um aluno modelo.[e]
 [s]Como sempre fiz.[e]
 
@@ -185,7 +185,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 1 33 65535 0]Foi um ano louco, hein?[n]Tente se ocupar[n]estudando quando chegar em casa.[n][w][e]
 
 [sel SEL_C14_BYEGREET_00_01_5 top]
-[s]OK.[e]
+[s]Ok.[e]
 [s]Serei um aluno modelo.[e]
 [s]Como sempre fiz.[e]
 
