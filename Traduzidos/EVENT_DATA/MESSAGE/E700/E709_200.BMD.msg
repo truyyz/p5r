@@ -62,7 +62,7 @@
 [s][bup 0 8 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 9171 65535 0]Então... A realidade do Dr[n]Maruki não é totalmente[n]uma ilusão, certo?[n][f 1 3 65535][w][e]
 
 [sel SEL_014_0_0 top]
-[s]Direita.[e]
+[s]Certo.[e]
 [s]Pelo que entendi.[e]
 
 [msg MSG_015_0_0 [Futaba]]

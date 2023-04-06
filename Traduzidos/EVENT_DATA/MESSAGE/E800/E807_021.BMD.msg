@@ -4,7 +4,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você pode entender porque[n]tantas pessoas vêm aqui.[n][f 1 3 65535][w][e]
 
 [sel SEL_001_0_0 top]
-[s]Direita.[e]
+[s]Certo.[e]
 [s]Onde nós vamos?[e]
 [s][f 0 8 2 1 2217]Vamos experimentar as atrações.[clr 27][e]
 

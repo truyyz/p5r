@@ -20,7 +20,7 @@
 [s][f 5 14]Sim, eu diria que depois da missão[n]será viável...[n][w][e]
 
 [msg MSG_007_0_0 [Yusuke]]
-[s][f 5 14]Direita. Dividir nossa[n]atenção entre dois problemas[n]não nos ajuda psicologicamente.[n][w][e]
+[s][f 5 14]Certo. Dividir nossa[n]atenção entre dois problemas[n]não nos ajuda psicologicamente.[n][w][e]
 
 [msg MSG_008_0_0 [Yusuke]]
 [s][f 5 14][f 5 15]Restam apenas dez dias.[n]Pode ser nosso[n]momento mais crítico.[n][w][e]

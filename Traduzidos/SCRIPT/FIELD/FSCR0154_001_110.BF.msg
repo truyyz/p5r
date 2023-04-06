@@ -120,7 +120,7 @@
 [s]Só um pouquinho.[f 2 7 0 0 106 1][e]
 
 [msg e259_110_selA_0_mes01 [Morgana]]
-[s][bup 0 3 1 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1166 65535 0]Direita. Se o Queen não[n]tivesse intervindo, todos nós estaríamos[n]em grave perigo.[n][w][e]
+[s][bup 0 3 1 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1166 65535 0]Certo. Se a Queen não[n]tivesse intervindo, todos nós estaríamos[n]em grave perigo.[n][w][e]
 
 [msg e259_110_selA_1_mes01 [Ryuji]]
 [s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7024 65535 0]Vamos lá, não é grande coisa.[n]E foi tão legal, Queen![n][w][e]

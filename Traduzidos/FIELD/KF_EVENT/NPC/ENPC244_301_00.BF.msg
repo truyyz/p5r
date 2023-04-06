@@ -37,7 +37,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 65535 1111 0 0]Vamos tentar amanhã.[n]Será melhor ter[n]a equipe completa.[n][w][e]
 
 [msg MSG_E244_501_005 [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Direita. Vou dizer aos outros[n]para nos encontrar em Shibuya.[n][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Certo. Vou dizer aos outros[n]para nos encontrar em Shibuya.[n][w][e]
 [s][f 4 23 1 802 45 10 44 0][f 4 10 65535 0 0][vp 8 2 1 7162 65535 0]É uma loucura...[n]Que grande presa! Estou muito exaltado![n][w][e]
 
 [msg MSG_E244_501_006 [Voz grave]]

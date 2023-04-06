@@ -158,7 +158,7 @@
 [msg MSG_YOWAMINIGIRI_011_0_0 [Estudante de aparência tímida]]
 [s][vp 8 2 1 0 4 0]Ei. Então, para o meu[n]pedido... Como foi?[n][w][e]
 [s][vp 8 2 1 0 4 0]...Sério? Uau, que flash.[n][w][e]
-[s][vp 8 2 1 0 4 0]Direita. Eu depositarei o dinheiro.[n]Ao receber, me envie[n]as fotos, por favor... Sim.[n][w][e]
+[s][vp 8 2 1 0 4 0]Certo. Eu depositarei o dinheiro.[n]Ao receber, me envie[n]as fotos, por favor... Sim.[n][w][e]
 
 [msg MSG_YOWAMINIGIRI_012_0_0 [Estudante impiedoso]]
 [s][f 4 23 1 5 3 10 0 0][vp 8 2 1 0 5 0]O que você quer?[n]Eu já disse que[n]excluí sua foto.[n][w][e]

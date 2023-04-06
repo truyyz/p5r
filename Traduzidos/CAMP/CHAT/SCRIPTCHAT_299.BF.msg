@@ -3,7 +3,7 @@
 
 [sel SEL_001_0_0 top]
 [s][f 5 14]O que?[e]
-[s]Direita.[e]
+[s]Certo.[e]
 
 [msg MSG_002_0_0 [Ryuji]]
 [s][f 5 14]Aquele navegador estranho![n]O aplicativo que nos transportou[n]para aquele lugar bizarro.[n][w][e]

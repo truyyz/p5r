@@ -8,5 +8,5 @@
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Este não é o momento para falar sobre isso.[n]Desta vez, simplesmente não podemos[n]fazer nada.[n][w][e]
 
 [msg D06_BRIEFING_010_mes04 [Ann]]
-[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Direita. Devemos levá-la[n]Treasure a qualquer custo.[n][w][e]
+[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Certo. Devemos levá-la[n]Treasure a qualquer custo.[n][w][e]
 

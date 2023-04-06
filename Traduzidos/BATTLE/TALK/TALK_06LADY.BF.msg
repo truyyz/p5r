@@ -1952,7 +1952,7 @@
 [s]Você não tem?[n]Você parte meu coração...[n][w][e]
 
 [msg TalkMsg_RESULT_SQ_ITEM1]
-[s]Direita. Aqui, pegue isso.[n]Mas esqueça o que você viu.[n][w][e]
+[s]Certo. Aqui, pegue isso.[n]Mas esqueça o que você viu.[n][w][e]
 
 [msg TalkMsg_RESULT_SQ_ITEM2]
 [s]Ah entendi. Pegue este pequeno brinde. Estou[n]feliz por ter conseguido entendê-lo um pouco[n]mais.[n][w][e]

@@ -944,7 +944,7 @@
 [s][f 4 23 1 36 3 10 0 0][vp 8 2 1 0 36 0]Agora que há uma recompensa por[n]The Phantom Thieves, podemos atrair[n]mais espectadores! Nós insistimos![n][w][e]
 
 [msg MSG_TEREBIKAMERA_014_1_0 [Repórter]]
-[s][f 4 23 1 35 3 10 0 0][vp 8 2 1 0 35 0]Direita. A mídia sempre muda[n]opiniões. Só importa o que o público quer...[n][w][e]
+[s][f 4 23 1 35 3 10 0 0][vp 8 2 1 0 35 0]Certo. A mídia sempre muda[n]opiniões. Só importa o que o público quer...[n][w][e]
 
 [msg MSG_TEREBIKAMERA_014_2_0 [Jovem cinegrafista]]
 [s][vp 8 2 1 0 36 0]Ei, olhe para baixo.[n]Eles escreveram[n]algo sobre você online de novo?[n][w][e]

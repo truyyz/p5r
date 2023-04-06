@@ -113,7 +113,7 @@
 [s][bup 0 103 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]E você sabe... Se as garotas se sentem da mesma[n]maneira.[n][w][e]
 
 [msg MES_GROUP8_02 [Ryuji]]
-[s][bup 0 2 4 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 7133 65535 0]Direita. Um homem vale tanto quanto seu carro,[n]hein?[n][w][e]
+[s][bup 0 2 4 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 7133 65535 0]Certo. Um homem vale tanto quanto seu carro,[n]hein?[n][w][e]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Lição aprendida![n]Obrigado, chefe![n][w][e]
 
 [msg MES_GROUP9_00 [Ohya]]

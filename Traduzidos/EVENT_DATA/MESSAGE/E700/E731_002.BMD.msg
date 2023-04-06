@@ -143,7 +143,7 @@
 [s][vp 8 0 0 0 65535 0]Você poderia ler para mim,[n][f 4 1]-kun?[n][f 1 3 65535][w][e]
 
 [msg MSG_037_0_0 [Prof Kawakami]]
-[s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Direita. Há muito tempo,[n]havia um velho que cortava[n]bambu e...[n][f 1 3 65535][w][e]
+[s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Certo. Há muito tempo,[n]havia um velho que cortava[n]bambu e...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]...Espere. Mas este é o livro[n]do primeiro ano![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Você leu tão bem que eu não[n]percebi nada...[n][f 1 3 65535][w][e]
 
@@ -247,7 +247,7 @@
 [s][vp 8 0 0 0 65535 0]Você poderia ler para mim,[n][f 4 1]-kun?[n][f 1 3 65535][w][e]
 
 [msg MSG_061_0_0 [Prof Kawakami]]
-[s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Direita. Há muito tempo,[n]havia um velho que cortava[n]bambu e...[n][f 1 3 65535][w][e]
+[s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Certo. Há muito tempo,[n]havia um velho que cortava[n]bambu e...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]...Espere. Mas este é o livro[n]do primeiro ano![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Você leu tão bem que eu não[n]percebi nada...[n][f 1 3 65535][w][e]
 

@@ -329,7 +329,7 @@
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Kotaro e eu somos amigos,[n]então somos ambos Phantom[n]Thieves, certo?[n][w][e]
 
 [msg MSG_ROUKENTOSYOJYO_011_3 [Mãe de aparência gentil]]
-[s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Direita. Mas não o deixe cansado,[n]ok? Talvez essas[n]caminhadas o cansem demais...[n][w][e]
+[s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Certo. Mas não o deixe cansado,[n]ok? Talvez essas[n]caminhadas o cansem demais...[n][w][e]
 
 [msg MSG_ROUKENTOSYOJYO_012_0 [Garota que ama cachorros]]
 [s][f 4 23 1 1 7 10 6 10][vp 8 2 1 0 1 0]Big bang?[n]Gosta de hambúrgueres?[n]Pegue-os, Kotaro![n][w][e]
@@ -834,7 +834,7 @@
 [s][vp 8 2 1 0 6 0]Pare de falar sobre as[n]elesciones, idiotas! Políticos[n]shervino por nada![n][w][e]
 
 [sel SEL_YOPPARAI_019_0_0 top]
-[s]Direita.[e]
+[s]Certo.[e]
 [s]Cale-se.[e]
 
 [msg MSG_YOPPARAI_019_1_0 [Bêbado]]
@@ -3624,7 +3624,7 @@
 [s][f 4 23 1 7 6 10 5 10][vp 8 2 65535 0 0 0]Lá vamos nós de novo... Não se preocupe.[n]Estarei sempre ao seu lado,[n]até o fim. Juro.[n][w][e]
 
 [msg MSG_TOSHINOSA_017_6_0 [Mulher na cadeira de rodas]]
-[s][f 4 23 1 7 9 10 5 10][vp 8 2 65535 0 0 0]Direita. Vamos ficar juntos até que[n]a morte nos separe. Uma[n]mente, um corpo.[n][w][e]
+[s][f 4 23 1 7 9 10 5 10][vp 8 2 65535 0 0 0]Certo. Vamos ficar juntos até que[n]a morte nos separe. Uma[n]mente, um corpo.[n][w][e]
 [s][vp 8 2 65535 0 0 0]Por fim, também terei[n]seu coração. O tesouro mais[n]precioso de todos.[n][w][e]
 
 [msg MSG_OOYA_001_0_0 [Mulher com um quarto]]

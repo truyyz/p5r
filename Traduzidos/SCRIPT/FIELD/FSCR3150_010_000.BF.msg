@@ -13,7 +13,7 @@
 [s]Não, vamos deixar para lá.[e]
 
 [msg MSG_CurryStart_KakawamiI [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Direita. Você pode pedir a[n]Kawakami para prepará-lo para você.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Certo. Você pode pedir a[n]Kawakami para prepará-lo para você.[n][w][e]
 
 [msg MSG_Curry_SojiroGoHome [Sojiro]]
 [s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 2 1 5020 65535 0]Oh, você está fazendo o jantar?[n][w][e]

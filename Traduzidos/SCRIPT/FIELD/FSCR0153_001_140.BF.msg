@@ -5,7 +5,7 @@
 [s]★仮テキスト[n]特性解禁イベント・終了[n][w][e]
 
 [msg EV_SP_ABILITY_OPEN_START [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1052 65535 0]Tudo bem pessoal, essa é a primeira[n]infiltração com a Fox no grupo[n]desde o começo...Vamos dar o exemplo![n][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1052 65535 0]Tudo bem pessoal, essa é a primeira[n]infiltração com o Fox no grupo[n]desde o começo...Vamos dar o exemplo![n][w][e]
 
 [msg EV_SP_ABILITY_OPEN_START_2 [Justine]]
 [s][bup 0 101 0 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 12018 65535 0]Você parece bem, Prisioneiro.[n][w][e]

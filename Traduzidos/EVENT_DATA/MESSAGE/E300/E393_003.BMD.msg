@@ -14,10 +14,10 @@
 [s]Você consegue, Futaba.[e]
 
 [msg MSG_002_3_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Direita. Precisa.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Certo. Precisa.[n][f 1 3 65535][w][e]
 
 [msg MSG_002_5_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Direita. Precisamos da sua ajuda.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Certo. Precisamos da sua ajuda.[n][f 1 3 65535][w][e]
 
 [msg MSG_002_7_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]Eu concordo.[n][f 1 3 65535][w][e]
