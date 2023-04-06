@@ -37,7 +37,7 @@
 [s][bup 0 3 4 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Naquele momento? Oh, você quer dizer quando eu[n]te contei sobre a ideia de[n]cooperar?[n][w][e]
 
 [msg D03_154_02_COMBINED_TUTO_5 [Makoto]]
-[s][bup 0 6 4 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2129 65535 0]Então, em outras palavras, a…[n]estrela reagiu ao desejo de[n]Mona de lutar contra o Panther?[n][w][e]
+[s][bup 0 6 4 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2129 65535 0]Então, em outras palavras, a…[n]estrela reagiu ao desejo de[n]Mona de lutar contra a Panther?[n][w][e]
 
 [msg D03_154_02_COMBINED_TUTO_6 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Wishing Stars... Se for realmente[n]o caso, podemos adicioná-los à[n]nossa lista de fenômenos bizarros.[n][w][e]

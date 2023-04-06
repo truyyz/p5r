@@ -5,7 +5,7 @@
 [s][f 5 14]Independentemente do que aconteça,[n]devemos despertar seu coração.[n][w][e]
 
 [sel SEL_002_0_0 top]
-[s][f 5 14]Direita.[e]
+[s][f 5 14]Certo.[e]
 [s]Não se deixe levar pela pressa.[e]
 
 [msg MSG_003_0_0 [Makoto]]

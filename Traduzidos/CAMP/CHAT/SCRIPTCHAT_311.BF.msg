@@ -17,7 +17,7 @@
 
 [sel SEL_004_0_0 top]
 [s][f 5 14]Você tem a pessoa errada.[e]
-[s]Direita.[e]
+[s]Certo.[e]
 [s]Quem é você, desculpe?[e]
 
 [msg MSG_005_0_0 [Alibaba]]

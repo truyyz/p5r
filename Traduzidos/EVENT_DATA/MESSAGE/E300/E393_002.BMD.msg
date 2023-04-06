@@ -1,6 +1,6 @@
 [msg MND_000_0_0]
 [s][vp 8 0 0 0 65535 0]A primeira vez que senti[n]que havia algo estranho...[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]Direita. Durante o[n]festival da escola...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Certo. Durante o[n]festival da escola...[n][f 1 3 65535][w][e]
 
 [msg MSG_000_3_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Ei! Eles estão indo embora?[n][f 1 3 65535][w][e]

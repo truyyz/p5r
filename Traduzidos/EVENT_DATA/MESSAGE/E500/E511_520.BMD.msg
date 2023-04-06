@@ -110,7 +110,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 44 65535 0]Ainda temos que estabelecer como ele usou esse[n]poder nos Mementos como um todo, e não em[n]indivíduos.[n][f 1 3 65535][w][e]
 
 [msg MSG_026_0_0 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 45 65535 0]Direita. Mesmo que houvesse algum tipo de poder[n]que pudesse influenciar os Mementos...[n][f 1 3 65535][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 45 65535 0]Certo. Mesmo que houvesse algum tipo de poder[n]que pudesse influenciar os Mementos...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 46 65535 0]Seria em um nível nunca visto[n]antes. Impossível para[n]uma pessoa...[n][f 1 3 65535][w][e]
 
 [msg MSG_027_0_0 [Ann]]

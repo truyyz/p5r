@@ -148,7 +148,7 @@
 [s][f 0 8 2 1 2217]Siga-me.[clr 27][e]
 
 [msg MSG_034_0_0 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 2022 65535 0][f 5 13 3 5 6]Direita. Se ficarmos aqui por mais tempo[n]só teremos problemas.[n][f 1 3 65535][w][e]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 2022 65535 0][f 5 13 3 5 6]Certo. Se ficarmos aqui por mais tempo[n]só teremos problemas.[n][f 1 3 65535][w][e]
 
 [msg MSG_034_5_0 [Makoto]]
 [s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eiko...[n][f 1 3 65535][w][e]

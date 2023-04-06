@@ -759,7 +759,7 @@
 [s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4052 65535 0]Concordo. Acho que há[n]outros lugares para descobrir.[n][w][e]
 
 [msg D_EXIT_CANCEL_PC06_mes [Makoto]]
-[s][bup 0 6 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2081 65535 0]Direita. Vamos continuar.[n][w][e]
+[s][bup 0 6 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2081 65535 0]Certo. Vamos continuar.[n][w][e]
 
 [msg D_EXIT_CANCEL_PC07_mes [Futaba]]
 [s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9130 65535 0]Entendido. Vamos dar uma olhada em outro[n]bit.[n][w][e]

@@ -138,7 +138,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 47 65535 0]Que tal levá-la para ver[n]o quarto de outra pessoa?[n][f 1 3 65535][w][e]
 
 [msg MSG_065_0_0 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 48 65535 0]Direita. Ele ainda não teve a chance[n]de sair de casa. Esta será[n]a oportunidade perfeita.[n][f 1 3 65535][w][e]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 48 65535 0]Certo. Ele ainda não teve a chance[n]de sair de casa. Esta será[n]a oportunidade perfeita.[n][f 1 3 65535][w][e]
 
 [msg MSG_066_0_0 [Futaba]]
 [s][bup 0 8 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 49 65535 0]Não vamos mirar muito alto![n][f 1 3 65535][w][e]

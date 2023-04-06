@@ -39,7 +39,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Eu tinha que apostar, diria que[n]ele vai atrás do Joker.[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Yusuke]]
-[s][bup 0 5 100 0 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Direita. Nesse caso, deixarei a[n]carta de aviso em suas mãos,[n]Joker.[n][f 1 3 65535][w][e]
+[s][bup 0 5 100 0 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Certo. Nesse caso, deixarei a[n]carta de aviso em suas mãos,[n]Joker.[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Akechi]]
 [s][bup 0 9 811 0 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Poderíamos simplesmente emboscá-lo e destruí-lo[n]assim que ele cair em nossa armadilha.[n][f 1 3 65535][w][e]

@@ -74,7 +74,7 @@
 [s][bup 0 5 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 32 65535 0]Ei... Quando vamos[n]fazer esse brinde?[n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Sojiro]]
-[s][bup 0 103 1 0 0][f 4 10 65535 0 0][vp 8 0 0 33 65535 0]Direita. Deixe-me terminar![n][f 1 3 65535][w][e]
+[s][bup 0 103 1 0 0][f 4 10 65535 0 0][vp 8 0 0 33 65535 0]Certo. Deixe-me terminar![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 34 65535 0]Oh hoje é realmente...[n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [Ryuji]]

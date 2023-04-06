@@ -35,7 +35,7 @@
 [s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 2 0 0]Grupo inicial? Você quer dizer aqueles que[n]entrarão primeiro?[n][w][e]
 
 [msg D02_04_e210_010_mes03 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 3 0 0]Exatamente. Agora que a Fox se juntou ao[n]grupo, seríamos muito visíveis[n]nos movendo todos juntos.[n][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 3 0 0]Exatamente. Agora que o Fox se juntou ao[n]grupo, seríamos muito visíveis[n]nos movendo todos juntos.[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 4 0 0]Considerando as operações anteriores,[n]quatro pessoas servirão.[n]Os outros serão os reforços.[n][w][e]
 
 [msg D02_04_e210_010_mes04 [Ryuji]]

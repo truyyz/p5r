@@ -51,7 +51,7 @@
 [s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Há outra porta de segurança.[n]Então, precisamos encontrar[n]outra pista...[n][w][e]
 
 [msg D10_15_discover_passward_2 [Makoto]]
-[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Direita. Sem uma dica[n]nós nunca chegaremos à resposta,[n]provavelmente.[n][w][e]
+[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Certo. Sem uma dica[n]nós nunca chegaremos à resposta,[n]provavelmente.[n][w][e]
 
 [msg D10_15_discover_passward_3 [Haru]]
 [s][bup 0 7 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ainda devemos dar uma olhada nisso como precaução.[n][w][e]

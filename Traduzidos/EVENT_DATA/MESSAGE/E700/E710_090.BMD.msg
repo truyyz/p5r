@@ -122,7 +122,7 @@
 [s][vp 8 0 0 0 65535 0]Irei em direção ao futuro,[n]para ajudar as pessoas[n]que machuquei.[n][f 1 3 65535][w][e]
 
 [msg MSG_030_0_0 [Chihaya]]
-[s][bup 0 113 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 11 15 1013]Direita. Eu fiz isso, então[n]Yokoda-san e os outros certamente também![n][f 1 3 65535][w][e]
+[s][bup 0 113 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 11 15 1013]Certo. Eu fiz isso, então[n]Yokoda-san e os outros certamente também![n][f 1 3 65535][w][e]
 
 [msg MSG_031_0_0 [Chihaya]]
 [s][bup 0 113 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 11 5 1013]Você está certo... Eu tenho que ir em direção ao[n]futuro, para ajudar as pessoas que eu machuquei.[n][f 1 3 65535][w][e]

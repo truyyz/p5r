@@ -4476,7 +4476,7 @@
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 4088 65535 0][f 4 2]sabe melhor do que ninguém[n]como é doloroso ser acusado[n]de um crime não cometido.[n][w][e]
 
 [msg MSG_azito_quest_79_27 [Haru]]
-[s][bup 0 7 0 65535 0][f 4 10 65535 0 0]Direita. Temos que despertar[n]seu coração.[n][w][e]
+[s][bup 0 7 0 65535 0][f 4 10 65535 0 0]Certo. Temos que despertar[n]seu coração.[n][w][e]
 
 [msg MSG_azito_quest_79_28 [Futaba]]
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0]Hisashi Ushiwata... Bingo! Encontrei![n][w][e]

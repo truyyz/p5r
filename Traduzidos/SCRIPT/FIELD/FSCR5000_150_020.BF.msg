@@ -83,7 +83,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Bem, duvido que o Tesouro esteja na masmorra.[n]Enquanto fugia, dei uma boa olhada ao redor.[n][w][e]
 
 [msg D01_03_BF_01_mes10 [Ryuji]]
-[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Direita. Não parece o lugar[n]onde alguém guardaria[n]um tesouro.[n][w][e]
+[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Certo. Não parece o lugar[n]onde alguém guardaria[n]um tesouro.[n][w][e]
 
 [msg D01_03_BF_01_mes11 [Ryuji]]
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Mas se não está lá,[n]onde você acha que está?[n][w][e]

@@ -8603,7 +8603,7 @@
 [s][vp 1 0 0 4618 0 0]Eu sei EXATAMENTE o que você quer dizer...[n][f 1 6 65535][e]
 
 [msg D_CAR__PC04_mes619]
-[s][vp 1 0 0 4619 0 0]Ei Joker... Lembre-se[n]de não irritar o Queen.[n][f 1 6 65535][e]
+[s][vp 1 0 0 4619 0 0]Ei Joker... Lembre-se[n]de não irritar a Queen.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC04_mes620]
 [s][vp 1 0 0 4620 0 0]Já! Mesmo depois de uma refeição completa,[n]você sempre precisa de sobremesa.[n][f 1 6 65535][e]
@@ -8657,7 +8657,7 @@
 [s][vp 1 0 0 4636 0 0]Caril Leblanc?[n]Sim, tem um sabor inimitável.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC04_mes637]
-[s][vp 1 0 0 4637 0 0]Uau... Por um momento, o Oracle[n]me chocou.[n][f 1 6 65535][e]
+[s][vp 1 0 0 4637 0 0]Uau... Por um momento, a Oracle[n]me chocou.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC04_mes638]
 [s][vp 1 0 0 4638 0 0]Espero que você tenha dado uma[n]espreitadela, não foi...? É insano.[n]Confiável, mas insano.[n][f 1 6 65535][e]
@@ -10901,7 +10901,7 @@
 [s][vp 1 0 0 8607 0 0]Alguns DVRs podem gravar todos os[n]canais de uma só vez. Não que[n]dá tempo de olhar tudo...[n][f 1 6 65535][e]
 
 [msg D_CAR__PC08_mes608]
-[s][vp 1 0 0 8608 0 0]Uma visita à loja com o Panther,[n]eh? Uuuh, um evento social![n][f 1 6 65535][e]
+[s][vp 1 0 0 8608 0 0]Uma visita à loja com a Panther,[n]eh? Uuuh, um evento social![n][f 1 6 65535][e]
 
 [msg D_CAR__PC08_mes609]
 [s][vp 1 0 0 8609 0 0]Dizem que as paredes têm olhos. E enquanto eles[n]estiverem olhando para você, então não... Espere[n]um minuto![n][f 1 6 65535][e]
@@ -11066,7 +11066,7 @@
 [s][vp 1 0 0 8662 0 0]Foi isso que eu quis dizer![n][f 1 6 65535][e]
 
 [msg D_CAR__PC08_mes663]
-[s][vp 1 0 0 8663 0 0]Às vezes, o Queen se transforma[n]drasticamente! Eu gosto![n][f 1 6 65535][e]
+[s][vp 1 0 0 8663 0 0]Às vezes, a Queen se transforma[n]drasticamente! Eu gosto![n][f 1 6 65535][e]
 
 [msg D_CAR__PC08_mes664]
 [s][vp 1 0 0 8664 0 0]Sim, eu quero descobrir[n]o que está escondido lá embaixo![n][f 1 6 65535][e]
@@ -11075,7 +11075,7 @@
 [s][vp 1 0 0 8665 0 0]Já. Eu nunca sei o que fazer quando[n]jogo aqueles jogos sandbox[n]ou jogos de mundo aberto.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC08_mes666]
-[s][vp 1 0 0 8666 0 0]Ombros tremendo, hein?[n]Acho que acontece[n]frequentemente com o Panther também.[n][f 1 6 65535][e]
+[s][vp 1 0 0 8666 0 0]Ombros tremendo, hein?[n]Acho que acontece[n]frequentemente com a Panther também.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC08_mes667]
 [s][vp 1 0 0 8667 0 0]Li em algum lugar que[n]o metrô tem cerca de 80 anos.[n]Ela é mais velha que nós.[n][f 1 6 65535][e]
@@ -12998,7 +12998,7 @@
 [s][vp 1 0 0 16580 0 0]Lembre-se de alongar quando sentir necessidade.[n]No próximo cais eu também irei.[n][f 1 6 65535][e]
 
 [msg D_CAR_PC06_mes10581]
-[s][vp 1 0 0 16581 0 0]Direita. Joker, diga-nos quando[n]é hora de voltar.[n][f 1 6 65535][e]
+[s][vp 1 0 0 16581 0 0]Certo. Joker, diga-nos quando[n]é hora de voltar.[n][f 1 6 65535][e]
 
 [msg D_CAR_PC06_mes10582]
 [s][vp 1 0 0 16582 0 0]Na escola pode ser um[n]fator importante, mesmo que...[n][f 1 6 65535][e]

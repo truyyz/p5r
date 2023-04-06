@@ -1981,7 +1981,7 @@
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Bem, agora é tarde...[n]É uma revolução! Eu queria[n]sentir a emoção...[n][w][e]
 
 [msg DRESSTALK_SHADOW_W_PC08 [Futaba]]
-[s][bup 0 8 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu sou o Oracle! Membro do[n]Esquadrão de Operações Especiais[n]Phoenix Neo![n][w][e]
+[s][bup 0 8 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu sou a Oracle! Membro do[n]Esquadrão de Operações Especiais[n]Phoenix Neo![n][w][e]
 [s]Mueheh, o que você diz? Não consigo evitar quando[n]uso coisas assim![n][w][e]
 
 [msg DRESSTALK_SAMURAI_PC08 [Futaba]]

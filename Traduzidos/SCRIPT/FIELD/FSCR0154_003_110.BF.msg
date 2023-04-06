@@ -51,7 +51,7 @@
 [s][bup 0 2 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ei... não se esqueça daquelas[n]câmeras de vigilância.[n][w][e]
 
 [msg e259_201_mes09 [Morgana]]
-[s][bup 0 3 5 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1044 65535 0]Direita. É um aborrecimento, mas nós[n]devemos[n]desativar as câmeras primeiro.[n][w][e]
+[s][bup 0 3 5 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1044 65535 0]Certo. É um aborrecimento, mas nós[n]devemos[n]desativar as câmeras primeiro.[n][w][e]
 
 [msg e259_201_mes10 [Ryuji]]
 [s][bup 0 2 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7047 65535 0]Duvido que seremos capazes de[n]abri-lo à força... Voltaremos[n]quando tivermos as duas chaves.[n][w][e]

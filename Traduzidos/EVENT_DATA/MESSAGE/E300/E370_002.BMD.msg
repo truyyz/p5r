@@ -109,7 +109,7 @@
 [s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 40 65535 0]Ou talvez ele seja atraído[n]por grandes multidões.[n][f 1 3 65535][w][e]
 
 [msg MSG_037_0_0 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 41 65535 0]Direita. Ele parecia não[n]se importar em ser[n]mimado pela mídia.[n][f 1 3 65535][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 41 65535 0]Certo. Ele parecia não[n]se importar em ser[n]mimado pela mídia.[n][f 1 3 65535][w][e]
 
 [msg MSG_038_0_0 [Morgana]]
 [s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 0 0 42 65535 0]Queremos obter informações,[n]mas podemos cair[n]em outra armadilha. Que incômodo.[n][f 1 3 65535][w][e]

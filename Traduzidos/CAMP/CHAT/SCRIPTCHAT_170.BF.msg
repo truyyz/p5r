@@ -44,7 +44,7 @@
 [s][f 5 14]Duvido que esteja indo bem.[n][w][e]
 
 [msg MSG_014_0_0 [Makoto]]
-[s][f 5 14]Direita. De agora em diante, procederemos[n]com extrema cautela.[n][w][e]
+[s][f 5 14]Certo. De agora em diante, procederemos[n]com extrema cautela.[n][w][e]
 
 [msg MSG_015_0_0 [Makoto]]
 [s][f 5 14]Dito isso, não temos informações[n]suficientes no momento... teremos que[n]investigar mais a fundo.[n][w][e]

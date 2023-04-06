@@ -54,7 +54,7 @@
 [s][f 5 14]Temos que manter a calma,[n]o que ele diz.[n][w][e]
 
 [msg MSG_019_0_0 [Yusuke]]
-[s][f 5 14][f 5 15]Direita. Vou manter isso em mente.[n][w][e]
+[s][f 5 14][f 5 15]Certo. Vou manter isso em mente.[n][w][e]
 
 [msg MSG_CHAT_MORUEND_020 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 2 1 1020 65535 0]Cabe a Makoto reunir o máximo de[n]informações[n]de Akechi...[n][f 1 3 65535][w][e]

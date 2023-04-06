@@ -32,7 +32,7 @@
 [s]Não, não importa.[e]
 
 [msg MSG_CoffeeStart_Kakawami [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Direita. Você pode pedir a[n]Kawakami para prepará-lo para você.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Certo. Você pode pedir a[n]Kawakami para prepará-lo para você.[n][w][e]
 
 [msg MSG_KAWAKAMI_CMM_MAX_MOR [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1035 65535 0]Portanto, devemos economizar[n]algum tempo. Chame-a.[n][w][e]

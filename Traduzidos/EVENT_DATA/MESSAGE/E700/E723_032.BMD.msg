@@ -114,7 +114,7 @@
 [s][f 0 8 2 1 2217]É a semente de um novo amor.[clr 27][e]
 
 [msg MSG_027_0_0 [Maruki]]
-[s][bup 0 216 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 35 5 1014]Direita. Afinal, isso prova[n]que havia amor antes… Você[n]dá uma ótima resposta.[n][f 1 3 65535][w][e]
+[s][bup 0 216 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 35 5 1014]Certo. Afinal, isso prova[n]que havia amor antes… Você[n]dá uma ótima resposta.[n][f 1 3 65535][w][e]
 
 [msg MSG_028_0_0 [Maruki]]
 [s][bup 0 216 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu entendo... Sabe, meu ponto de[n]vista é muito semelhante.[n][f 1 3 65535][w][e]

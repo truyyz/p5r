@@ -12,7 +12,7 @@
 [s]Voltaremos mais tarde.[e]
 
 [msg e382_204_selA_0_mes01 [Makoto]]
-[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2022 65535 0]Direita. Vamos entrar rapidamente[n]e fechar esta história.[n][w][e]
+[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2022 65535 0]Certo. Vamos entrar rapidamente[n]e fechar esta história.[n][w][e]
 
 [msg e382_204_selA_0_mes02 [Guardião das Sombras]]
 [s]Mais uma coisa: se você quiser, terá[n]livre para sair do labirinto ou[n]para sair da sala.[n][w][e]

@@ -14,7 +14,7 @@
 [s][f 5 14]Mas agora não é mais uma questão de[n]popularidade.[n][w][e]
 
 [msg MSG_005_0_0 [Makoto]]
-[s][f 5 14]Direita. Índices de aprovação[n]não importam mais.[n][w][e]
+[s][f 5 14]Certo. Índices de aprovação[n]não importam mais.[n][w][e]
 
 [msg MSG_006_0_0 [Ryuji]]
 [s][f 5 14]Já![n][w][e]

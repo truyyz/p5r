@@ -185,7 +185,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Talvez com essa certeza[n]eu consiga entender quem realmente sou.[n][f 1 3 65535][w][e]
 
 [sel SEL_047_0_0 top]
-[s]Direita.[e]
+[s]Certo.[e]
 [s]Possivelmente...[e]
 
 [msg MSG_048_0_0 [Kasumi]]

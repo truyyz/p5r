@@ -1618,7 +1618,7 @@
 [s]Efeito do destino.[e]
 
 [msg MSG_397_0_0 [Maruki]]
-[s][bup 0 216 1 0 0][f 4 10 65535 0 0][vp 8 2 0 57492 65535 0]Direita. Estou surpreso que você saiba[n]a resposta.[n][f 1 3 65535][w][e]
+[s][bup 0 216 1 0 0][f 4 10 65535 0 0][vp 8 2 0 57492 65535 0]Certo. Estou surpreso que você saiba[n]a resposta.[n][f 1 3 65535][w][e]
 
 [msg MSG_398_0_0 [Maruki]]
 [s][bup 0 216 0 0 0][f 4 10 65535 0 0][vp 8 2 0 57497 65535 0]Infelizmente não. É chamado de efeito[n]halo.[n][f 1 3 65535][w][e]
@@ -2286,7 +2286,7 @@
 [s]Voce esta conversando com outra pessoa.[e]
 
 [msg MSG_557_0_0 [Prof Hiruta]]
-[s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37160 65535 0]Direita. Estou surpreso que você saiba[n]a resposta.[n][f 1 3 65535][w][e]
+[s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37160 65535 0]Certo. Estou surpreso que você saiba[n]a resposta.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]O som é sintético. Basicamente,[n]não é mais a voz deles.[n][f 1 3 65535][w][e]
 
 [msg MSG_558_0_0 [Prof Hiruta]]

@@ -9,7 +9,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1157 65535 0]Afinal, é apenas uma foto. Tenho certeza[n]que tudo vai ficar bem...[n][w][e]
 
 [msg e210_150_selA_1_mes01 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1165 65535 0]Direita. Em última análise, poderia[n]ser uma armadilha. Vamos manter[n]nossa distância. Nunca se sabe.[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1165 65535 0]Certo. Em última análise, poderia[n]ser uma armadilha. Vamos manter[n]nossa distância. Nunca se sabe.[n][w][e]
 
 [msg e210_150_mes02 [Yusuke]]
 [s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Hum, essa foi uma tentativa ousada.[n][w][e]

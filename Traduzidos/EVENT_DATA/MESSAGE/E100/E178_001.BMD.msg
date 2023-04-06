@@ -1,5 +1,5 @@
 [msg MSG_000_0_0 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]Roupas loucas.[n]realmente teve um despertar do coração...[n][f 1 3 65535][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]Eu nem acredito.[n]Ele realmente teve um despertar[n]do coração...[n][f 1 3 65535][w][e]
 
 [msg MSG_000_5_0 [Ryuji]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 1 300 1][vp 8 0 0 2 65535 0]E, felizmente, nem[n]mexeu com a cabeça dele![n]Merecemos nota máxima![n][f 1 3 65535][w][e]
@@ -25,7 +25,7 @@
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Então...como foi?[n]Com Shiho, quero dizer...[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Ann]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 4 10 300 1][vp 8 0 0 11 65535 0]Ele recuperou a consciência![n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 4 10 300 1][vp 8 0 0 11 65535 0]Ela recuperou a consciência![n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Ryuji]]
 [s][bup 0 2 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Sério?!?[n][f 1 3 65535][w][e]
@@ -35,8 +35,8 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Tempo suficiente para dizer a ela[n]que Kamoshida admitiu[n]todos os seus crimes![n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Ann]]
-[s][bup 0 4 5 65535 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Shiho, eu...ela me disse[n]que sentia muito...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Aparentemente, ele descobriu que[n]eu estava flertando com Kamoshida[n]por causa dele...[n][f 1 3 65535][w][e]
+[s][bup 0 4 5 65535 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Shiho, eu... ela me disse[n]que sentia muito...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Aparentemente, ele descobriu que[n]eu estava flertando com Kamoshida[n]por causa dela...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]E eu fui lá pedir desculpas...[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Morgana]]
@@ -56,7 +56,7 @@
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Vai parecer vazio aqui, sem ela...[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Ann]]
-[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Mas acho que para o melhor...[n]Sua vida seria muito[n]complicada se ele ficasse.[n][f 1 3 65535][w][e]
+[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Mas acho que é o melhor...[n]Sua vida seria muito[n]complicada se ele ficasse.[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]Ela ainda está viva.[n]Você pode vê-la sempre que quiser.[n][f 1 3 65535][w][e]
