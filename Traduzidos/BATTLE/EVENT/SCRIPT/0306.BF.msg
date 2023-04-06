@@ -56,7 +56,7 @@
 [s][vp 8 0 2 1049 1 218]Raça de...[n][f 1 3 65535][w][e]
 
 [msg MSG_UNDER75_010_000 [Wakaba Isshiki cognitivo]]
-[s][vp 8 0 2 1050 1 218]Maldito pirralhoiiiiii![n][f 1 3 65535][w][e]
+[s][vp 8 0 2 1050 1 218]Maldito pirralhooooo![n][f 1 3 65535][w][e]
 
 [msg MSG_SPECIALUSE_000_000 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 2 1041 0 3]Droga! Prestes a fazer de novo![n][f 1 3 65535][w][e]

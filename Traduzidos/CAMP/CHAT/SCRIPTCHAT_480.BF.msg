@@ -30,7 +30,7 @@
 [s][f 5 14]Mas é diferente para você![n]Você pode até sentar ao lado dele[n]se quiser! Eu aposto.[n][w][e]
 
 [msg MSG_009_0_0 [Ryuji]]
-[s][f 5 14]Entãoiii...?[n][w][e]
+[s][f 5 14]Entãoooo...?[n][w][e]
 
 [msg MSG_010_0_0 [Ryuji]]
 [s][f 5 14]Eu vou deixar você saber assim que eu[n]descobrir quando ele está saindo para[n]beber.[n][w][e]

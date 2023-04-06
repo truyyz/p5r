@@ -39,7 +39,7 @@
 [s][bup 0 2 5 65535 0][f 4 10 65535 0 0][vp 8 2 1 7025 65535 0]Ugh, agora precisamos de 100.000 moedas?[n]Nós apenas trabalhamos duro[n]para conseguir METADE![n][w][e]
 
 [msg SAFETY_MES_RYUJI_09_01 [Ryuji]]
-[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 7028 65535 0]Ahiii... Acho que bati meu pé contra algo naquele[n]quarto escuro.[n][w][e]
+[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 7028 65535 0]Aiii... Acho que bati meu pé contra algo naquele[n]quarto escuro.[n][w][e]
 
 [msg SAFETY_MES_RYUJI_10_01 [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 7024 65535 0]Ei, parece que conseguimos o que precisávamos![n]Isso serve bem a ele, por nos enganar.[n][w][e]

@@ -753,7 +753,7 @@
 [s][vp 8 2 1 0 6 0]Entendi?!? É uma conspiração![n]Os insetos do mal incriminaram[n]Okumura...[n][w][e]
 
 [msg MSG_YOPPARAI_014_0_0 [Bêbado]]
-[s][vp 8 2 1 0 6 0]Ahhh! Shta sucedendo![n]I shta vindo um raptusshhh![n]Agente, mi shalviiii![n][w][e]
+[s][vp 8 2 1 0 6 0]Aaaaah! Tá' acon.. tecendo[n]Estou tendo uma parada mental![n][w][e]
 
 [msg MSG_YOPPARAI_014_1_0 [Agente robusto]]
 [s][f 4 23 1 5 3 10 0 10][vp 8 2 1 0 5 0]Sim, sou um agente e agora[n]a salvo. Venha comigo,[n]eu vou te levar para casa.[n][w][e]
@@ -771,7 +771,7 @@
 [s][f 4 23 1 5 3 10 0 10][vp 8 2 1 0 5 0]Tudo bem, Akechi-kun, agora vamos para casa.[n]Provavelmente seus familiares estão preocupados.[n][w][e]
 
 [msg MSG_YOPPARAI_015_2_0 [Bêbado]]
-[s][vp 8 2 1 0 6 0]Mmh, foi um acidente,[n]agente! Onde está o shua auto?[n]Ei, taaacsciiii![n][w][e]
+[s][vp 8 2 1 0 6 0]Mmh, foi um axidenteh,[n]ofici-al! Onde está o seu ca-carro?[n]Ei, taaaxiiii![n][w][e]
 
 [msg MSG_YOPPARAI_015_3_0 [Agente robusto]]
 [s][f 4 23 1 5 3 10 0 10][vp 8 2 1 0 5 0]Ei, meu carro patrulha[n]não é um táxi.[n][w][e]
@@ -800,7 +800,7 @@
 
 [msg MSG_YOPPARAI_016_5_0 [Bêbado]]
 [s][vp 8 2 1 0 6 0]Hum? Mas o que você diz?[n]Você não é um Phantom Thief?[n][w][e]
-[s][vp 8 2 1 0 6 0]Não me enganeiii![n]Você é um Fantashmaaa Ladrão![n][w][e]
+[s][vp 8 2 1 0 6 0]Não me enganeiii![n]Você é um Phantom Thi-eff![n][w][e]
 
 [msg MSG_YOPPARAI_016_6_0 [Agente robusto]]
 [s][f 4 23 1 5 3 10 0 10][vp 8 2 1 0 5 0]Ok, pare aí mesmo.[n]Deixe-o em paz e[n]vá para casa, Ok?[n][w][e]
@@ -809,8 +809,8 @@
 [s][f 4 23 1 5 3 10 0 10][vp 8 2 1 0 5 0]Vamos... Ele não pode dormir aqui.[n][w][e]
 
 [msg MSG_YOPPARAI_017_1_0 [Bêbado]]
-[s][vp 8 2 1 0 6 0]Os Ladrões L-Phantashma![n]Shono... Shono quiiiii![n][w][e]
-[s][vp 8 2 1 0 6 0]Eu imploro, não me mate![n]Eu não quero morrer! Arrotar...[n][w][e]
+[s][vp 8 2 1 0 6 0]Os, os Phantom Thieves[n]tão aquiii[n][w][e]
+[s][vp 8 2 1 0 6 0]Eu imploro, não me mate![n]Eu não quero morrer! *Arrota*[n][w][e]
 
 [msg MSG_YOPPARAI_017_2_0 [Agente robusto]]
 [s][f 4 23 1 5 3 10 0 10][vp 8 2 1 0 5 0]suspirar. Eles estão todos assustados...[n]As pessoas estão preocupadas porque[n]nós não os pegamos.[n][w][e]

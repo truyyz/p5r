@@ -1486,7 +1486,7 @@
 
 [msg TalkMsg_GUY_RESULT_ENEMY_3]
 [s]Precisa de mais alguma coisa?!?[n]Não tenho mais nada[n]para você, querida...[n][w][e]
-[s]Vou tentar perguntar aos meus[n]amigos de bridge, eles podem[n]ter algo. Meninoiiii![n][w][e]
+[s]Vou tentar perguntar aos meus[n]amigos de bridge, eles podem[n]ter algo. Meninooooo![n][w][e]
 
 [msg TalkMsg_GUY_RESULT_ENEMY_4]
 [s]Bem querida, se está tudo bem para você, eu vou[n]embora![n][w][e]
