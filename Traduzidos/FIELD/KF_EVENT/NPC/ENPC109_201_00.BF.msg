@@ -33,7 +33,7 @@
 [s][f 4 23 1 65535 3 10 0 0][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 0 1 6 65535 0][f 4 25 1 65535 0 0]Você tem que ir.[n][w][e]
 
 [sel SEL_E10920100_002_00 top]
-[s]Obrigada.[e]
+[s]Obrigado.[e]
 [s]Foi requintado.[e]
 [s]Eu me sinto acordado agora.[e]
 

@@ -86,7 +86,7 @@
 [s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 37 65535 0]Para comemorar sua vitória,[n]eu confio este marcador a você.[n][f 1 3 65535][w][e]
 
 [sel SEL_023_0_0 top]
-[s]Obrigada.[e]
+[s]Obrigado.[e]
 [s]Você tem certeza?[e]
 
 [msg MSG_024_0_0 [Justine]]
@@ -123,7 +123,7 @@
 [s][bup 0 101 2 0 0][f 4 10 65535 0 0][vp 8 0 0 51 65535 0]Ah, você entende que esse[n]segredo vai ter que ficar[n]entre nós, né?[n][f 1 3 65535][w][e]
 
 [sel SEL_032_0_0 top]
-[s]Obrigada.[e]
+[s]Obrigado.[e]
 [s]Não vou escolher entre vocês dois.[e]
 
 [msg MSG_033_0_0 [Caroline]]

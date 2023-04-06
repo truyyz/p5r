@@ -54,7 +54,7 @@
 
 [msg MSG_014_0_0 [Haru]]
 [s][bup 0 7 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Um adulto responsável[n]tomou a decisão, pensei, então[n]não poderia estar errado.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 58 65535 0]Fui uma tola, bloqueada por[n]princípios vagos, e os deixei[n]escolher meu noivo...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 58 65535 0]Fui uma tola, bloqueada por[n]princípios vagos, e os deixei[n]escolher meu namorando...[n][f 1 3 65535][w][e]
 
 [msg MSG_014_3_0 [Haru]]
 [s][bup 0 7 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 59 65535 0]Mas não vou tolerar mais.[n][f 1 3 65535][w][e]

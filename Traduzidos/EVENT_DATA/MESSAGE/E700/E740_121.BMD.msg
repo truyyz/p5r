@@ -142,7 +142,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Obrigado![n][f 1 3 65535][w][e]
 
 [sel SEL_048_1_0 top]
-[s]Obrigada.[e]
+[s]Obrigado.[e]
 [s]Eu sinto seu poder.[e]
 
 [msg MSG_048_3_0 [Ann]]

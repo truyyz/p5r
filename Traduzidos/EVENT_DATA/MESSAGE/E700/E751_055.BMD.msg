@@ -16,7 +16,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Não é feito à mão, ok?[n]Para deixar claro que não[n]é algum tipo de esforço de amor.[n][f 1 3 65535][w][e]
 
 [sel SEL_004_0_0 top]
-[s]Obrigada.[e]
+[s]Obrigado.[e]
 [s]Eu cuidarei disso.[e]
 
 [msg MSG_005_0_0 [Takemi]]

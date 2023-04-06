@@ -209,7 +209,7 @@
 [s][vp 8 0 0 0 65535 0]N-Não deixe escapar assim![n]Você, melhor...?[n][f 1 3 65535][w][e]
 
 [msg MSG_062_0_0 [Mulher sexy em traje de banho]]
-[s][vp 8 0 0 0 65535 0]Bem, eu também não estou noivo.[n]Eheheh...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Bem, eu também não estou namorando.[n]Eheheh...[n][f 1 3 65535][w][e]
 
 [msg MSG_063_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Cara, um último esforço[n]e pronto![n][f 1 3 65535][w][e]
@@ -1132,7 +1132,7 @@
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Muito bem. Não vou decepcioná-lo.[n]Então, o que você quer que eu faça?[n][f 1 3 65535][w][e]
 
 [sel SEL_344_0_0 top]
-[s]Aja como se estivesse noivo.[e]
+[s]Aja como se estivesse namorando.[e]
 [s]Espere, eu reconsiderei.[e]
 
 [msg MSG_345_0_0 [Yusuke]]

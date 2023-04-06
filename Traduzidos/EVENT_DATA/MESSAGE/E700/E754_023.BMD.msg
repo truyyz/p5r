@@ -19,7 +19,7 @@
 
 [sel SEL_005_0_0 top]
 [s]Você me faz corar.[e]
-[s]Obrigada.[e]
+[s]Obrigado.[e]
 
 [msg MSG_006_0_0 [Ann]]
 [s][bup 0 4 1 4 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]De nada.[n][f 1 3 65535][w][e]

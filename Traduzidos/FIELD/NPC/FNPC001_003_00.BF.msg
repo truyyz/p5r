@@ -752,7 +752,7 @@
 [s][vp 8 2 1 0 2 0]Um dos pontos fortes de D-kyun[n]é que nos conectamos com os fãs![n][w][e]
 
 [sel SEL_TIKAAIDORU_011_0_0 top]
-[s]Obrigada.[e]
+[s]Obrigado.[e]
 [s]Bizarro...[e]
 [s]Você fica ocupado.[e]
 

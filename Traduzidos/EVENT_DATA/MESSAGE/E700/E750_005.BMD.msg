@@ -59,7 +59,7 @@
 [s][bup 0 108 500 65535 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Eles vêm do exterior.[n]Eles não contêm nada[n]prejudicial.[n][f 1 3 65535][w][e]
 
 [sel SEL_017_0_0 top]
-[s]Obrigada.[e]
+[s]Obrigado.[e]
 [s]O que há dentro?[e]
 [s][f 0 8 2 1 2217]É cheio de amor?[clr 27][e]
 

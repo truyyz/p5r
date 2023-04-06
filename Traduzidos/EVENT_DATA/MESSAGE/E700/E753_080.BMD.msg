@@ -10,7 +10,7 @@
 [s][bup 0 109 501 6 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Você fez tanto por mim.[n]Eu queria te agradecer.[n][f 1 3 65535][w][e]
 
 [sel SEL_003_0_0 top]
-[s]Obrigada.[e]
+[s]Obrigado.[e]
 [s]Aceito de bom grado.[e]
 
 [msg MSG_004_0_0 [Kawakami]]

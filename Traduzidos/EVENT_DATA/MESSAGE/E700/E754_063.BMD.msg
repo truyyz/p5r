@@ -100,7 +100,7 @@
 [s][bup 0 109 501 65535 0][f 4 10 65535 0 0][f 4 24 0 4 6 42 5 100][vp 8 0 0 33 65535 0]Admiro-o sinceramente. O que quer que haja sobre[n]você, certamente você é uma boa pessoa.[n][f 1 3 65535][w][e]
 
 [sel SEL_028_0_0 top]
-[s]Obrigada.[e]
+[s]Obrigado.[e]
 [s]Você me faz corar.[e]
 
 [msg MSG_029_0_0 [Kawakami]]

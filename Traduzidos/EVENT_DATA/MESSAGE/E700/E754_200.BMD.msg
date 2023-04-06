@@ -30,7 +30,7 @@
 
 [sel SEL_008_0_0 top]
 [s]Seria ótimo.[e]
-[s]Obrigada.[e]
+[s]Obrigado.[e]
 
 [msg MSG_009_0_0 [Morgana]]
 [s][bup 0 3 600 0 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Uau, o chefe tem uma estratégia de amor[n]infalível? É melhor eu ouvir também, só por[n]precaução.[n][f 1 3 65535][w][e]
@@ -106,7 +106,7 @@
 
 [sel SEL_029_0_0 top]
 [s]Entendo.[e]
-[s]Obrigada.[e]
+[s]Obrigado.[e]
 
 [msg MSG_030_0_0 [Sojiro]]
 [s][bup 0 103 501 65535 0][f 4 10 65535 0 0][vp 8 0 0 38 65535 0]Boa sorte.[n][f 1 3 65535][w][e]

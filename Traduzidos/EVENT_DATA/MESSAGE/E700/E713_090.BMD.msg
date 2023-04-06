@@ -96,7 +96,7 @@
 
 [msg MND_202_0_0]
 [s][vp 8 0 0 0 65535 0]Eu tenho que escolher as palavras[n]com cuidado...[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]Já estou [clr 2]noivo[n]de outra garota[clr 27]...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Já estou [clr 2]namorando[n]outra garota[clr 27]...[n][f 1 3 65535][w][e]
 
 [msg MSG_022_5_0 [Takemi]]
 [s][bup 0 108 500 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Por que você não me conta a verdade[n]por que continua[n]vindo a mim?[n][f 1 3 65535][w][e]

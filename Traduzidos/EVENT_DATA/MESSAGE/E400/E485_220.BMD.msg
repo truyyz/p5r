@@ -120,7 +120,7 @@
 
 [sel SEL_035_0_0 top]
 [s]Você me salvou.[e]
-[s]Obrigada.[e]
+[s]Obrigado.[e]
 
 [msg MSG_036_0_0 [Kasumi]]
 [s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 48 13 0]Oh, não foi nada comparado[n]o que você fez por mim[n]no passado.[n][f 1 3 65535][w][e]

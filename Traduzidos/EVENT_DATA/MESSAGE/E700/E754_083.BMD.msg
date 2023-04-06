@@ -18,7 +18,7 @@
 [s][bup 0 106 6 4 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]E talvez... um parceiro com quem[n]posso contar em minha vida[n]além do tabuleiro de xadrez.[n][f 1 3 65535][w][e]
 
 [sel SEL_005_0_0 top]
-[s]Obrigada.[e]
+[s]Obrigado.[e]
 [s]Fico feliz em ouvir isso.[e]
 
 [msg MSG_006_0_0 [Hifumi]]
@@ -92,7 +92,7 @@
 [s][bup 0 106 1 4 0][f 4 10 65535 0 0][f 4 24 0 4 6 36 5 100][vp 8 0 0 27 65535 0]No entanto... o respeito por si só não é[n]suficiente. Um dia, espero poder imitar sua[n]abnegação.[n][f 1 3 65535][w][e]
 
 [sel SEL_027_0_0 top]
-[s]Obrigada.[e]
+[s]Obrigado.[e]
 [s]Você me faz corar.[e]
 
 [msg MSG_028_0_0 [Hifumi]]

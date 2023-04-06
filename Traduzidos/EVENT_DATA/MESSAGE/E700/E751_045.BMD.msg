@@ -14,7 +14,7 @@
 
 [sel SEL_004_0_0 top]
 [s]É claro.[e]
-[s]Obrigada.[e]
+[s]Obrigado.[e]
 
 [msg MSG_005_0_0 [Chihaya]]
 [s][bup 0 113 6 65535 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]É a mesma que eu uso...[n][f 1 3 65535][w][e]

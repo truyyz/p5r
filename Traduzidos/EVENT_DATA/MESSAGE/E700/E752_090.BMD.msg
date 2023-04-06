@@ -156,7 +156,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 59 65535 0]Quero dizer, ele costumava trabalhar lá,[n]mas ei, quem se importa.[n][f 1 3 65535][w][e]
 
 [sel SEL_046_0_0 top]
-[s]Obrigada.[e]
+[s]Obrigado.[e]
 [s]Eu o valorizarei.[e]
 [s]Eu sou seu namorado...?[e]
 

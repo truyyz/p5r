@@ -33,7 +33,7 @@
 
 [sel SEL_009_0_0 top]
 [s]Entendo.[e]
-[s]Obrigada.[e]
+[s]Obrigado.[e]
 
 [msg MSG_010_0_0 [Akechi]]
 [s][bup 0 9 10 65535 1][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]...Você se lembra do que dissemos?[n]Fizemos um acordo.[n][f 1 3 65535][w][e]

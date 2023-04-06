@@ -1217,7 +1217,7 @@
 [s]É impossível.[e]
 
 [msg TalkMsg_GUY_CHAT_SQ_14_R]
-[s]Oooh! Você já está noivo!?![n][w][e]
+[s]Oooh! Você já está namorando!?![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_14_R_2]
 [s]Minha namorada queria transar enquanto éramos[n]jovens...[n][w][e]
@@ -1253,7 +1253,7 @@
 [s]*suspiro* Pessoas negativas[n]sempre me deixam triste...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_14_R_13]
-[s]Você está escondendo algo[n]embaraçoso de mim? Você está noivo?[n][w][e]
+[s]Você está escondendo algo[n]embaraçoso de mim? Você está namorando?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_14_R_14]
 [s]Oh, perdoe-me... E isso seria bom?[n][w][e]

@@ -229,7 +229,7 @@
 
 [msg MND_202_0_0]
 [s][vp 8 0 0 0 65535 0]Eu tenho que escolher as palavras[n]com cuidado...[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]Já estou [clr 2]noivo[n]de outra garota[clr 27]...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Já estou [clr 2]namorando[n]outra garota[clr 27]...[n][f 1 3 65535][w][e]
 
 [msg MSG_041_0_0 [Haru]]
 [s][bup 0 7 7 65535 0][f 4 10 65535 0 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 7 7 300 65535][vp 8 0 0 0 65535 0]Por que você acha...?[n][f 1 3 65535][w][e]

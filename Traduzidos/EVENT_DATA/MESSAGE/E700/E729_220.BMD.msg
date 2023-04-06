@@ -171,7 +171,7 @@
 
 [sel SEL_045_0_0 top]
 [s]E é tudo graças a vocês dois.[e]
-[s]Obrigada.[e]
+[s]Obrigado.[e]
 [s]Continuar...[e]
 
 [msg MSG_046_0_0 [Caroline]]

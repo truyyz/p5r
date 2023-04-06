@@ -9,7 +9,7 @@
 [s][bup 0 6 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]Eles são chocolates. Um sinal de[n]gratidão pelo que você faz.[n][f 1 3 65535][w][e]
 
 [sel SEL_003_0_0 top]
-[s]Obrigada.[e]
+[s]Obrigado.[e]
 [s]Eu retribuirei.[e]
 
 [msg MSG_004_0_0 [Makoto]]

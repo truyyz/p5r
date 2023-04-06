@@ -26,7 +26,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]O que você acha?[n][f 1 3 65535][w][e]
 
 [sel SEL_007_0_0 top]
-[s]Obrigada.[e]
+[s]Obrigado.[e]
 [s]Eu prometo.[e]
 
 [msg MSG_008_0_0 [Kawakami]]

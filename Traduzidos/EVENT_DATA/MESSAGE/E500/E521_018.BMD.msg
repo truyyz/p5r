@@ -86,7 +86,7 @@
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 31 65535 0]E graças a isso, temos[n]nosso líder novamente![n][f 1 3 65535][w][e]
 
 [sel SEL_027_0_0 top]
-[s]Obrigada.[e]
+[s]Obrigado.[e]
 [s]Você me salvou.[e]
 [s]Você demorou.[e]
 

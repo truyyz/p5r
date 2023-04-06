@@ -137,7 +137,7 @@
 [s][f 4 10 65535 0 0][f 4 24 0 4 0 36 3 100][vp 8 0 0 41 65535 0]...Brincadeira.[n]É para comemorar este dia.[n][f 1 3 65535][w][e]
 
 [sel SEL_034_5_0 top]
-[s]Obrigada.[e]
+[s]Obrigado.[e]
 [s][f 0 8 2 1 2217]Eles são compatíveis?[clr 27][e]
 
 [msg MSG_034_7_0 [Kawakami]]

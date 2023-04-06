@@ -10,7 +10,7 @@
 [s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Você sempre faz muito por mim.[n]Era o mínimo que eu poderia fazer.[n][f 1 3 65535][w][e]
 
 [sel SEL_003_0_0 top]
-[s]Obrigada.[e]
+[s]Obrigado.[e]
 [s]Posso realmente tê-lo?[e]
 
 [msg MSG_004_0_0 [Haru]]

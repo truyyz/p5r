@@ -181,7 +181,7 @@
 
 [sel SEL_056_0_0 top]
 [s]OK.[e]
-[s]Obrigada.[e]
+[s]Obrigado.[e]
 [s]...[e]
 
 [msg MSG_057_0_0 [Sojiro]]

@@ -509,7 +509,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Se você pudesse ouvir também.[n][f 1 3 65535][w][e]
 
 [sel SEL_128_0_0 top]
-[s]Obrigada.[e]
+[s]Obrigado.[e]
 [s][f 0 8 2 1 2217]Ele parece tão feliz.[clr 27][e]
 [s]Mal posso esperar para tentar.[e]
 
@@ -2152,7 +2152,7 @@
 
 [msg MSG_545_0_0 [Futaba]]
 [s][bup 0 8 0 65535 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Oh espere. Essas são coisas para...[n]recém-casados, não para uma namorada[n]que acabou de fazer uma declaração.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Hum ... não é fácil estar noivo. Isso é algo com[n]o qual eu deveria me acostumar?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Hum ... não é fácil estar namorando. Isso é algo com[n]o qual eu deveria me acostumar?[n][f 1 3 65535][w][e]
 [s][bup 0 8 1 65535 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]D-De qualquer forma, farei o meu[n]melhor para ser uma garota[n]ótima! Assista![n][f 1 3 65535][w][e]
 [s][bup 0 8 6 65535 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]U-hum, te ligo mais tarde. O-Oi![n][f 1 3 65535][w][e]
 

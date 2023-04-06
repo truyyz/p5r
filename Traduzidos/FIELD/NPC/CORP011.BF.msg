@@ -520,7 +520,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 1 6 65535 0]...Vou rezar para que você[n]não se perca de vista ao[n]continuar sua jornada.[n][w][e]
 
 [sel SEL_C11_BYEGREET_00_01 top]
-[s]Obrigada.[e]
+[s]Obrigado.[e]
 [s]Agora serei meu guia.[e]
 [s]Gostaria que você pudesse me orientar.[e]
 

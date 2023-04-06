@@ -22,7 +22,7 @@
 
 [sel SEL_005_0_0 top]
 [s]Você me faz corar.[e]
-[s]Obrigada.[e]
+[s]Obrigado.[e]
 
 [msg MSG_006_0_0 [Haru]]
 [s][bup 0 7 6 4 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]...De nada.[n][f 1 3 65535][w][e]
@@ -75,7 +75,7 @@
 [s][bup 0 7 6 4 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Vou tratá-los com cuidado,[n]eu prometo.[n][f 1 3 65535][w][e]
 
 [sel SEL_022_0_0 top]
-[s]Obrigada.[e]
+[s]Obrigado.[e]
 [s]Para mostrar minha gratidão.[e]
 [s]Surpresa.[e]
 

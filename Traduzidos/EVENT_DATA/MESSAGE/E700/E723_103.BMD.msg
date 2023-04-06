@@ -7,7 +7,7 @@
 [sel SEL_001_0_0 top]
 [s]Vamos entrar nisso.[e]
 [s]Oooh, nada mal.[e]
-[s]Obrigada.[e]
+[s]Obrigado.[e]
 
 [msg MSG_002_0_0 [Maruki]]
 [s][bup 0 216 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Vamos![n][f 1 3 65535][w][e]

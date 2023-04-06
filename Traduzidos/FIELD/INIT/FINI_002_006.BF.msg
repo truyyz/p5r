@@ -219,7 +219,7 @@
 
 [sel SEL_NIGHT_MASTER_0418 top]
 [s]Qualquer lugar está bom?[e]
-[s]Obrigada.[e]
+[s]Obrigado.[e]
 
 [msg MSG_NIGHT_MASTER_0418_01_2 [Sojiro]]
 [s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 2 1 5046 65535 0]Dentro dos limites, é claro.[n]Não toque em nada na cozinha.[n][w][e]

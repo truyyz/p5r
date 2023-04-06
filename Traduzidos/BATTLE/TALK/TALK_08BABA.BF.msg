@@ -528,7 +528,7 @@
 [s]Você terá um futuro triste se desperdiçar todo[n]esse tempo fingindo ser um ladrão fantasma.[n][w][e]
 
 [sel TalkSel_GUY_CHAT_SQ_02 top]
-[s]Obrigada.[e]
+[s]Obrigado.[e]
 [s]Não se preocupe.[e]
 [s]Vale a pena.[e]
 

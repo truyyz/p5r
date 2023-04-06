@@ -91,7 +91,7 @@
 
 [msg MND_800_1_0]
 [s][vp 8 0 0 0 65535 0]Eu tenho que escolher as palavras[n]com cuidado...[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]Já estou [clr 2]noivo[n]de outra garota[clr 27]...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Já estou [clr 2]namorando[n]outra garota[clr 27]...[n][f 1 3 65535][w][e]
 
 [msg MSG_014_5_0 [Futaba]]
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E por que, [f 4 2]...?[n][f 1 3 65535][w][e]

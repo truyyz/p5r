@@ -84,7 +84,7 @@
 [s][vp 8 2 1 0 780 0]Eu queria falar com você desde que[n]pai me disse que é[n]seu último dia aqui...[n][w][e]
 
 [sel SEL_KAORU_002_0_0 top]
-[s]Obrigada.[e]
+[s]Obrigado.[e]
 [s]Vá com calma.[e]
 [s]O que aconteceu?[e]
 
