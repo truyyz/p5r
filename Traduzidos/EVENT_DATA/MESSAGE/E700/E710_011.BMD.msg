@@ -8,7 +8,7 @@
 
 [msg MSG_001_0_0 [Chihaya]]
 [s][bup 0 113 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]O quê?!?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]A sequência do arcano é[n]diferente! "Death"[n]foi ainda mais para o futuro...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]A sequência da Arcana é[n]diferente! "Morte"[n]foi ainda mais para o futuro...[n][f 1 3 65535][w][e]
 
 [sel SEL_002_0_0 top]
 [s]O destino não é absoluto.[e]

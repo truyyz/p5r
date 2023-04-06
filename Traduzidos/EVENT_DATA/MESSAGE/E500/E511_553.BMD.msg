@@ -11,7 +11,7 @@
 [s][vp 6 0 0 4 0 0]O quê?!?[n][f 1 2 75][e]
 
 [msg MSG_004_0_0 [Morgana]]
-[s][vp 6 0 0 5 0 0]Sua Pessoa não é...[n][f 1 2 30][e]
+[s][vp 6 0 0 5 0 0]Sua Persona não é...[n][f 1 2 30][e]
 
 [msg MSG_007_0_0 [Ryuji]]
 [s][vp 6 0 0 6 0 0]Não enquanto eu estiver aqui![n][f 1 2 37][e]

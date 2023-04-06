@@ -23,7 +23,7 @@
 [s][vp 1 0 0 0 0 0][f 5 14]De qualquer forma, deixe-me contar sobre[n]a coisa mais legal[n]que encontrei até agora.[n][w][e]
 [s][f 5 14]Atos de[n]violência indiscriminada em Shibuya.[n][w][e]
 [s][f 5 14]Muito assustador, você não acha?[n]Mas não consigo encontrar mais nada...[n][w][e]
-[s][f 5 14]Todas as postagens mencionam apenas os rumores[n]circulando no[n]shopping subterrâneo em Shibuya.[n][w][e]
+[s][f 5 14]Todas as postagens mencionam apenas os rumores[n]circulando no[n]Shopping Subterrâneo em Shibuya.[n][w][e]
 [s][f 5 14]Não é uma pista muito confiável...[n][w][e]
 [s][f 5 14]Seria bom descobrir[n]algo mais sobre isso, mas[n]minha presença é limitada à web.[n][w][e]
 [s][f 5 14][f 5 15]Se isso lhe interessa,[n]você deve tentar obter[n]outras informações você mesmo.[n][w][e]

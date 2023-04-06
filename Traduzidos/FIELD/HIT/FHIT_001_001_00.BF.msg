@@ -387,7 +387,7 @@
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 7197 65535 0]Por que estamos voltando?[n]Depois de chegar à praça[n]precisamos virar à direita.[n][w][e]
 
 [msg MSG_E65010300_NG_HIROBA_ [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 1188 65535 0]Ei onde você está indo? As[n]catracas da Linha Inogami estão[n]no shopping subterrâneo.[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 1188 65535 0]Ei onde você está indo? As[n]catracas da Linha Inogami estão[n]no Shopping Subterrâneo.[n][w][e]
 
 [msg MND_E10920100_CHK_LOTTER]
 [s][vp 1 0 0 0 0 0]Este lugar vende[n]bilhetes de loteria.[n][w][e]

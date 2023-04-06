@@ -63,6 +63,6 @@
 
 [msg MSG_E24310100_004_00 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Shibuya é grande, então limite[n]sua pesquisa. Se as vítimas são[n]principalmente estudantes...[n][w][e]
-[s][f 4 10 65535 0 0][vp 1 0 0 0 0 0]...Pesquisamos os lugares que eles[n]freqüentam, como a Central Street e[n]o shopping subterrâneo.[n][w][e]
+[s][f 4 10 65535 0 0][vp 1 0 0 0 0 0]...Pesquisamos os lugares que eles[n]freqüentam, como a Central Street e[n]o Shopping Subterrâneo.[n][w][e]
 [s][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Se encontrássemos alunos[n]da sua escola, mataríamos[n]dois coelhos com uma cajadada só. Vamos.[n][w][e]
 

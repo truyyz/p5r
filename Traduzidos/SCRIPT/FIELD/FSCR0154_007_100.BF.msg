@@ -49,7 +49,7 @@
 [s][bup 0 5 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Essa voz de novo...[n][w][e]
 
 [msg e259_502_01_mes05 [Voz de Kaneshiro]]
-[s][bup 0 207 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 1 65535 36 0 0]Se você não chegar lá, eu te explico... Pessoas[n]que não podem ganhar dinheiro são inúteis![n][w][e]
+[s][bup 0 207 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 1 65535 36 0 0]Se você não chegar lá, eu te explico... Personas[n]que não podem ganhar dinheiro são inúteis![n][w][e]
 
 [msg e259_502_01_mes06 [Ann]]
 [s][bup 0 4 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Está totalmente distorcido...[n][w][e]

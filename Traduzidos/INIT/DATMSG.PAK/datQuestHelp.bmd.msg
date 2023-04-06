@@ -284,7 +284,7 @@
 [s]Eu descobri que alguém ataca[n]os sem-teto e trabalhadores de escritório[n]em Shibuya...[n][w][e]
 
 [msg quest40_1]
-[s]Mishima diz que há um atacante[n]em Shibuya. Vamos investigar o[n]shopping subterrâneo.[n][w][e]
+[s]Mishima diz que há um atacante[n]em Shibuya. Vamos investigar o[n]Shopping Subterrâneo.[n][w][e]
 
 [msg quest40_2]
 [s]A florista me disse quem é o misterioso atacante. Nós temos um nome. Vejo você na reunião![n][w][e]

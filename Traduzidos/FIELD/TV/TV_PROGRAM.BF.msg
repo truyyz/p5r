@@ -142,7 +142,7 @@
 [s]Está na moda entre[n]as mulheres jovens, e agora[n]está à venda na Body Chop![n][w][e]
 
 [msg TV_MACHI_0423_100_00 [Comentarista]]
-[s]Acho que há um Body Chop[n]no shopping subterrâneo[n]em Shibuya.[n][w][e]
+[s]Acho que há um Body Chop[n]no Shopping Subterrâneo[n]em Shibuya.[n][w][e]
 [s]Sempre tive uma queda por[n]itens de edição limitada.[n]Quero aquele [clr 2]Oil of Recovery[clr 27]...[n][w][e]
 
 [msg TV_NEWS_0425_000_00 [Locutor]]
@@ -1519,7 +1519,7 @@
 [s]Com sua mistura especial de[n]ingredientes de outono, este[n]item realmente esgotou![n][w][e]
 
 [msg TV_MACHI_1001_100_00 [Comentarista]]
-[s]É um item do Body Chop, não é?[n]Espero que ainda tenham alguns no[n]shopping subterrâneo em Shibuya.[n][w][e]
+[s]É um item do Body Chop, não é?[n]Espero que ainda tenham alguns no[n]Shopping Subterrâneo em Shibuya.[n][w][e]
 
 [msg TV_NEWS_1002_000_00 [Locutor]]
 [s]Com a chegada do outono[n]abre-se a época da colheita,[n]especialmente a do arroz.[n][w][e]

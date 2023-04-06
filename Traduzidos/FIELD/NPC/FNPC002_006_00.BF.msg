@@ -99,7 +99,7 @@
 
 [msg MSG_SEASON_GOODS_002_02 [Menina de paladar fino]]
 [s][f 4 23 1 8 14 0 13 0][vp 8 2 1 0 8 0]Hmm, nesse caso, por que você[n]não experimenta este óleo corporal[n]chamado [clr 2][var 0][clr 27]?[n][w][e]
-[s][vp 8 2 1 0 8 0]Você pode encontrá-lo na loja de cosméticos[n]no shopping subterrâneo[n]da estação de Shibuya.[n][w][e]
+[s][vp 8 2 1 0 8 0]Você pode encontrá-lo na loja de cosméticos[n]no Shopping Subterrâneo[n]da estação de Shibuya.[n][w][e]
 
 [msg MSG_SEASON_GOODS_002_03 [Menina curiosa]]
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Óleo corporal? Hum. Da próxima vez vou dar uma[n]chance...[n][w][e]

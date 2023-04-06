@@ -11,7 +11,7 @@
 [s][f 5 14]Obrigada.[n][w][e]
 
 [msg CHAT_REACTION_02 [Sumire]]
-[s][f 5 14][f 5 15]Vamos para o shopping subterrâneo na[n]estação de Shibuya![n][w][e]
+[s][f 5 14][f 5 15]Vamos para o Shopping Subterrâneo na[n]estação de Shibuya![n][w][e]
 
 [msg MSG_MORUGANA_PLAY_CHECK [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Então, você quer passar algum tempo com[n]Yoshizawa?[n][f 1 3 65535][w][e]

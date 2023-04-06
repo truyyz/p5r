@@ -229,7 +229,7 @@
 [s]Você não pode acolher outras[n]Personas dentro de você.[n][w][e]
 
 [msg FCL_MSG_BOOK_WRITE [Justine]]
-[s]Como você solicitou, excluí o registro antigo de[n]sua pessoa em favor do novo.[n][w][e]
+[s]Como você solicitou, excluí o registro antigo de[n]sua Persona em favor do novo.[n][w][e]
 
 [msg FCL_MSG_BOOK_WRITE_OK [Justine]]
 [s]Deseja que ele registre[n][clr 1][var 0][clr 27]?[n][w][e]
@@ -268,19 +268,19 @@
 [s]registro 100% completo[n][w][e]
 
 [msg combine_before_comu_none [Igor]]
-[s]Parece que você ainda não[n]estabeleceu um vínculo com o[n]Confidente do Arcano: [var 0][n][w][e]
+[s]Parece que você ainda não[n]estabeleceu um vínculo com o[n]Confidente da Arcana: [var 0][n][w][e]
 [s]Portanto, esta Persona não ganhará[n]qualquer poder adicional com a fusão.[n]Você ainda deseja criá-la?[n][w][e]
 
 [msg combine_before_comu_none_2 [Igor]]
-[s]Parece que você ainda não[n]estabeleceu um vínculo com o[n]Confidente do Arcano: [var 0][n][w][e]
+[s]Parece que você ainda não[n]estabeleceu um vínculo com o[n]Confidente da Arcana: [var 0][n][w][e]
 [s]Portanto, esta Persona não ganhará[n]nenhum poder adicional com a fusão.[n]Você ainda deseja criá-la?[n][w][e]
 
 [msg combine_before_comu_none_3 [Igor]]
-[s]Parece que você ainda não[n]estabeleceu um vínculo com o[n]Confidente do Arcano: [var 0][n][w][e]
+[s]Parece que você ainda não[n]estabeleceu um vínculo com o[n]Confidente da Arcana: [var 0][n][w][e]
 [s]Portanto, esta Persona não ganhará[n]nenhum poder adicional com a fusão.[n]Você ainda deseja criá-la?[n][w][e]
 
 [msg combine_comu_rank_00 [Igor]]
-[s]Parece que você ainda não[n]estabeleceu um vínculo com o[n]Confidente do Arcano: [var 0][n][w][e]
+[s]Parece que você ainda não[n]estabeleceu um vínculo com o[n]Confidente da Arcana: [var 0][n][w][e]
 [s]Portanto, esta Persona não ganhará[n]nenhum poder adicional com a fusão.[n]Você ainda deseja criá-la?[n][w][e]
 
 [msg combine_comu_rank_01 [Igor]]
@@ -325,7 +325,7 @@
 [s]Tem certeza de que esta[n]pessoa é aceitável?[n][w][e]
 
 [msg combine_comu_rank_s00 [Igor]]
-[s]Parece que você ainda não[n]estabeleceu um vínculo com o[n]Confidente do Arcano: [var 0][n][w][e]
+[s]Parece que você ainda não[n]estabeleceu um vínculo com o[n]Confidente da Arcana: [var 0][n][w][e]
 [s]Portanto, esta Persona não ganhará[n]nenhum poder adicional com a fusão.[n]Você ainda deseja criá-la?[n][w][e]
 
 [msg combine_comu_rank_s01 [Igor]]
@@ -457,7 +457,7 @@
 [s][f 4 10 65535 0 0]É um ritual no qual uma[n]Pessoa é oferecida como uma espécie[n]de sacrifício a outra.[n][w][e]
 [s][f 4 10 65535 0 0]O sacrifício derramará seu[n]poder naquela Pessoa na[n]forma de pontos de experiência.[n][w][e]
 [s][f 4 10 65535 0 0]Quanto mais poderosa a Pessoa oferecida como[n]sacrifício, mais pontos de experiência ele[n]concederá.[n][w][e]
-[s][f 4 10 65535 0 0]Além disso, se o sacrifício e o[n]receptor forem do mesmo Arcano,[n]o segundo será ainda mais poderoso.[n][w][e]
+[s][f 4 10 65535 0 0]Além disso, se o sacrifício e o[n]receptor forem do mesma Arcana,[n]o segundo será ainda mais poderoso.[n][w][e]
 [s][f 4 10 65535 0 0]Finalmente, sacrificar um[n]Demônio do Tesouro garantirá uma quantidade[n]imoderada de experiência adquirida.[n][w][e]
 [s][f 4 10 65535 0 0]Considere cuidadosamente a escolha[n]entre uma fusão e um sacrifício.[n][w][e]
 

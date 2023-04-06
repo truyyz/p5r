@@ -134,7 +134,7 @@
 [s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 47 65535 0]Isso é... muito legal da sua parte.[n][f 1 3 65535][w][e]
 
 [msg MSG_066_0_0 [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 48 65535 0]Você o convenceu, hein?[n]Vá em frente, senhorita Charm-oldies![n][f 1 3 65535][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 48 65535 0]Você o convenceu, hein?[n]Vá em frente, senhorita Charmosa![n][f 1 3 65535][w][e]
 
 [msg MSG_067_0_0 [Ann]]
 [s][bup 0 4 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 49 65535 0]Que apelido é esse?!?[n][f 1 3 65535][w][e]

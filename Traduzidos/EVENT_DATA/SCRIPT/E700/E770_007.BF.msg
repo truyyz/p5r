@@ -1280,7 +1280,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você já conhece essa área, certo?[n]Lê-lo agora parece[n]perda de tempo.[n][f 1 3 65535][w][e]
 
 [msg MSG_SpotBookNG_id47 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]Hã? Esse livro é sobre[n]Yongen-jaya, certo?[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]Hã? Esse livro é sobre[n]Yongen-Jaya, certo?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você já conhece essa área, certo?[n]Lê-lo agora parece[n]perda de tempo.[n][f 1 3 65535][w][e]
 
 [msg MSG_SpotBookNG_id66 [Morgana]]

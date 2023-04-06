@@ -1125,7 +1125,7 @@
 
 [msg MSG_DAYTIME_D01_END_0428 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1170 65535 0]Apenas esperar parece[n]muito chato.[n][w][e]
-[s][f 4 10 65535 0 0]Que tal ir para as gaiolas de rebatidas? Tem um[n]próximo ao supermercado yongen, certo?[n][w][e]
+[s][f 4 10 65535 0 0]Que tal ir para as gaiolas de rebatidas? Tem um[n]próximo ao supermercado Yongen, certo?[n][w][e]
 
 [msg MSG_DAYTIME_D01_END_0430 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1170 65535 0]Apenas esperar parece[n]muito chato.[n][w][e]
@@ -1600,7 +1600,7 @@
 [s][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Caso contrário, você perderá[n]aquela Persona...[n][w][e]
 
 [msg MSG_PERSONA_JAIL_010_00 [Lavenza]]
-[s][bup 0 100 2 0 1][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Olá sou eu. Estou ligando para[n]lembrar que ainda não há[n]uma de suas Pessoas aqui.[n][w][e]
+[s][bup 0 100 2 0 1][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Olá sou eu. Estou ligando para[n]lembrar que ainda não há[n]uma de suas Personas aqui.[n][w][e]
 [s][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Se você não passar hoje, corre o risco de[n]perdê-lo.[n][w][e]
 
 [msg MSG_PERSONA_JAIL_100_00 [Caroline]]

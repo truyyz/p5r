@@ -2,7 +2,7 @@
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1176 65535 0]Aqui está ela! É Ryoko Aino. Vamos despertar[n]o coração dela pelo bem de todos[n]gatos em Yongen![n][w][e]
 
 [msg QUEST_72_BATTLE_PRE_mes0 [Ryuji]]
-[s][bup 0 2 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7018 65535 0]Ryoko Aino? Você deve libertar todos os gatos de[n]yongen.[n][w][e]
+[s][bup 0 2 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7018 65535 0]Ryoko Aino? Você deve libertar todos os gatos de[n]Yongen.[n][w][e]
 
 [msg QUEST_72_BATTLE_PRE_mes0_2 [Sombra de Aino]]
 [s][vp 8 2 1 0 65535 0]Não! Sem mim, Snowball[n]e todos os outros gatinhos nunca[n]serão felizes e seguros![n][w][e]

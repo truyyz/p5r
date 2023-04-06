@@ -2120,7 +2120,7 @@
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Imagine três melancias dentro[n]do sol: se o sol fosse todo[n]universo, o que seriam as melancias?[n][f 1 3 65535][w][e]
 
 [sel SEL_516_0_0 top]
-[s]luas.[e]
+[s]Luas.[e]
 [s]Estrelas.[f 2 7 0 0 25 1][e]
 [s]Pessoas.[e]
 

@@ -78,7 +78,7 @@
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 50 10 50 10][vp 8 2 1 54502 65535 0]Entendo... Bem, aproveite.[n][w][e]
 
 [msg MES_GROUP4_04 [Yusuke]]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 3 10 0 10]Ah, antes de ir, você poderia ter a gentileza de[n]me mostrar sua pessoa?[n][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 3 10 0 10]Ah, antes de ir, você poderia ter a gentileza de[n]me mostrar sua Persona?[n][w][e]
 [s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Gostaria de usá-lo como modelo[n]para um dos meus desenhos.[n][w][e]
 
 [msg MES_GROUP4_05 [Akechi]]

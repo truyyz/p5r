@@ -34,7 +34,7 @@
 [s]生み出されたペルソナが、[n]不思議な力を宿しておるようですな...[n][w][e]
 
 [msg FCL_MSG_COMBINE_COMU_POW [Igor]]
-[s]Ah, seu Confidente do Arcano [var 0][n]está concedendo novo[n]poder a [var 1]...[n][w][e]
+[s]Ah, seu Confidente da Arcana [var 0][n]está concedendo novo[n]poder a [var 1]...[n][w][e]
 
 [msg FCL_MSG_COMBINE_GET_EXP]
 [s]誕生した[clr 1][var 1][clr 27]は、[n]なんと[var 2]EXPを得た![n][w][e]
@@ -242,7 +242,7 @@
 [s]Você quer que eu registre todas as[n]Personas em sua posse[n]no Grimório, correto?[n][w][e]
 
 [msg FCL_MSG_BOOK_WRITE_OK_MA [Lavenza]]
-[s]Você quer que eu registre todas as[n]Pessoas Selecionadas[n]no Grimório, correto?[n][w][e]
+[s]Você quer que eu registre todas as[n]Personas Selecionadas[n]no Grimório, correto?[n][w][e]
 
 [msg FCL_MSG_BOOK_ALL_REGISTE [Lavenza]]
 [s]As Personas em sua posse não são[n]diferentes daquelas já[n]registradas na biblioteca...[n][w][e]
@@ -273,19 +273,19 @@
 [s]registro 100% completo[n][w][e]
 
 [msg combine_before_comu_none [Igor]]
-[s]Parece que você ainda não[n]estabeleceu um vínculo com o[n]Confidente do Arcano: [var 0]...[n][w][e]
+[s]Parece que você ainda não[n]estabeleceu um vínculo com o[n]Confidente da Arcana: [var 0]...[n][w][e]
 [s]Portanto, sua Persona nascerá[n]sem mais poder.[n]Você acha que isso é aceitável?[n][w][e]
 
 [msg combine_before_comu_none_2 [Igor]]
-[s]Parece que você ainda não[n]estabeleceu um vínculo com o[n]Confidente do Arcano: [var 0]...[n][w][e]
+[s]Parece que você ainda não[n]estabeleceu um vínculo com o[n]Confidente da Arcana: [var 0]...[n][w][e]
 [s]Portanto, sua Persona nascerá[n]sem mais poder.[n]Você acha que isso é aceitável?[n][w][e]
 
 [msg combine_before_comu_none_3 [Igor]]
-[s]Parece que você ainda não[n]estabeleceu um vínculo com o[n]Confidente do Arcano: [var 0]...[n][w][e]
+[s]Parece que você ainda não[n]estabeleceu um vínculo com o[n]Confidente da Arcana: [var 0]...[n][w][e]
 [s]Portanto, sua Persona nascerá[n]sem mais poder.[n]Você acha que isso é aceitável?[n][w][e]
 
 [msg combine_comu_rank_00 [Igor]]
-[s]Parece que você ainda não[n]estabeleceu um vínculo com o[n]Confidente do Arcano: [var 0]...[n][w][e]
+[s]Parece que você ainda não[n]estabeleceu um vínculo com o[n]Confidente da Arcana: [var 0]...[n][w][e]
 [s]Portanto, sua Persona nascerá[n]sem mais poder.[n]Você acha que isso é aceitável?[n][w][e]
 
 [msg combine_comu_rank_01 [Igor]]
@@ -415,7 +415,7 @@
 [s][f 4 10 65535 0 0]A prática ajudará você[n]a entender melhor, mas vou[n]fornecer algumas orientações.[n][w][e]
 [s][f 4 10 65535 0 0]Primeiro, quanto mais habilidades[n]o Personas original tiver,[n]mais habilidades você poderá transmitir.[n][w][e]
 [s][f 4 10 65535 0 0]Você terá várias habilidades[n]conteúdo para escolher.[n][w][e]
-[s][f 4 10 65535 0 0]No entanto, esteja ciente de que existem[n]Pessoas e Habilidades que não podem[n]ser entrelaçadas...[n][w][e]
+[s][f 4 10 65535 0 0]No entanto, esteja ciente de que existem[n]Personas e Habilidades que não podem[n]ser entrelaçadas...[n][w][e]
 [s][f 4 10 65535 0 0]Eu aconselho você a não esquecer,[n]se você deseja criar[n]Personas com poder irreprimível.[n][w][e]
 
 [msg msg_combine_HELP007 [Igor]]
@@ -450,7 +450,7 @@
 [s][bup 0 201 0 0 0][f 4 10 65535 0 0]Deixe-me explicar o uso[n]da forca.[n][w][e]
 [s][f 4 10 65535 0 0]É um sacrifício ritual de uma[n]Pessoa para outra, que ganha[n]poder e retém sua forma.[n][w][e]
 [s][f 4 10 65535 0 0]Resumindo, não é uma[n]fusão, mas uma oferta.[n][w][e]
-[s][f 4 10 65535 0 0]Se a Pessoa e a vítima[n]pertencerem ao mesmo Arcano,[n]a primeira ganhará mais experiência.[n][w][e]
+[s][f 4 10 65535 0 0]Se a Pessoa e a vítima[n]pertencerem ao mesma Arcana,[n]a primeira ganhará mais experiência.[n][w][e]
 [s][f 4 10 65535 0 0]Se você sacrificar um Demônio do Tesouro,[n]o destinatário ganhará uma[n]experiência impressionante.[n][w][e]
 [s][f 4 10 65535 0 0]Fusão ou sacrifício...[n]Qual destino você escolherá para eles?[n][w][e]
 
@@ -488,19 +488,19 @@
 [s][f 4 10 65535 0 0]É justamente essa ideia inconsciente[n]de originar aquelas Sombras chamadas[n]Demônios do Tesouro...[n][w][e]
 [s][f 4 10 65535 0 0]Você não pode invocá-los em combate, como uma[n]Persona normal. Seu propósito é ser encontrado[n]na fusão.[n][w][e]
 [s][f 4 10 65535 0 0]Ao fundir um Demônio do Tesouro,[n]você pode mudar radicalmente o tipo de[n]Pessoa nascida de uma fusão.[n][w][e]
-[s][f 4 10 65535 0 0]Dizem que o resultado de uma[n]fusão depende de alguma forma[n]do Arcano, mas não sei de mais nada.[n][w][e]
+[s][f 4 10 65535 0 0]Dizem que o resultado de uma[n]fusão depende de alguma forma[n]da Arcana, mas não sei de mais nada.[n][w][e]
 [s][f 4 10 65535 0 0]Treasure Demons também pode ser útil em outras[n]fusões além da guilhotina.[n][w][e]
 [s][f 4 10 65535 0 0]Cabe a você lançar luz sobre[n]seus mistérios.[n][w][e]
 
 [msg msg_combine_HELP017 [Lavenza]]
-[s][bup 0 100 0 0 0][f 4 10 65535 0 0]Você pode decidir enviar suas[n]Pessoas para Isolamento para[n]"treinamento" especial.[n][w][e]
+[s][bup 0 100 0 0 0][f 4 10 65535 0 0]Você pode decidir enviar suas[n]Personas para Isolamento para[n]"treinamento" especial.[n][w][e]
 [s][f 4 10 65535 0 0]No entanto, você só pode enviar[n]uma pessoa para isolamento por vez.[n][w][e]
 [s][f 4 10 65535 0 0]Além disso, Personas in Isolation[n]não pode ser usado[n]em batalha ou para fusões.[n][w][e]
 
 [msg msg_combine_HELP018 [Lavenza]]
 [s][bup 0 100 0 0 0][f 4 10 65535 0 0]Depois de um dia passado em[n]Isolamento, as Personas[n]ficam mais fortes.[n][w][e]
 [s][f 4 10 65535 0 0]Depois de um período de tempo apropriado,[n]Personas também aprende[n]como "superar suas fraquezas".[n][w][e]
-[s][f 4 10 65535 0 0]Quanto mais alto o Grau do Confidente[n]para o Arcano da Pessoa,[n]mais rápido o crescimento.[n][w][e]
+[s][f 4 10 65535 0 0]Quanto mais alto o Grau do Confidente[n]para a Arcana da Pessoa,[n]mais rápido o crescimento.[n][w][e]
 [s][f 4 10 65535 0 0]Ao cultivar o vínculo com os outros[n]você concederá força adicional ao[n]Personas . Não esqueça.[n][w][e]
 
 [msg msg_combine_HELP006 [Lavenza]]

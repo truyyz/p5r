@@ -18,7 +18,7 @@
 [s][f 5 14]Então eu vou olhar de perto a linha[n]Inogami. Eu posso chegar lá[n]do metrô.[n][w][e]
 
 [msg MSG_007_0_0 [Yusuke]]
-[s][f 5 14]Vou reunir mais informações[n]no shopping subterrâneo.[n][w][e]
+[s][f 5 14]Vou reunir mais informações[n]no Shopping Subterrâneo.[n][w][e]
 [s][f 5 14][f 5 15]Você continua com[n]seu trabalho, [f 4 2].[n][w][e]
 
 [msg MSG_008_0_0 [Morgana]]

@@ -273,7 +273,7 @@
 [s]Tudo bem. Hoje[n]farei apenas a limpeza.[n][w][e]
 
 [msg MND_COOP_DOUZOKUSEI]
-[s]Eu deveria ser capaz de fortalecer[n]nosso vínculo, já que tenho [clr 1][var 5][clr 27][n]do arcano [var 2]...[n][w][e]
+[s]Eu deveria ser capaz de fortalecer[n]nosso vínculo, já que tenho [clr 1][var 5][clr 27][n]da Arcana [var 2]...[n][w][e]
 
 [msg MSG_COOP_ABI_MORGANA [Morgana]]
 [s][bup 0 3 0 0 0][vp 8 2 1 1084 65535 0]Ao fortalecer seu vínculo com Kawakami,[n]você poderá aproveitar melhor o tempo[n]que passa na escola e em casa.[n][w][e]
@@ -282,7 +282,7 @@
 [s][bup 0 3 0 0 0]Hoje tenho a sensação de que algo especial pode[n]acontecer.[n][w][e]
 
 [msg HELP_COOP_BONUS]
-[s]Aumenta o nível de confiança de[n]Kawakami para bônus na criação de[n]Pessoas do Arcano: Temperança.[n][w][e]
+[s]Aumenta o nível de confiança de[n]Kawakami para bônus na criação de[n]Personas da Arcana: Temperança.[n][w][e]
 
 [msg MSG_MONEY_NG_MORGANA [Morgana]]
 [s][bup 0 3 0 0 0]Ei... você só tem [var 1] ienes.[n][w][e]

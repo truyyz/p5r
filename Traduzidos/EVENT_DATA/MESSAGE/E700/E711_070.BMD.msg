@@ -33,7 +33,7 @@
 
 [msg MSG_007_3_0 [Justine]]
 [s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Gerenciamos o poder do prisioneiro[n]através de diferentes arcanos, símbolos[n]da natureza mística do mundo.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Na verdade, nosso encontro com[n]ele é representado pelo arcano[n]da Força.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Na verdade, nosso encontro com[n]ele é representado pela Arcana[n]da Força.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]A Força representa grande[n]poder, uma vontade de ferro e o[n]despertar do desconhecido...[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Caroline]]

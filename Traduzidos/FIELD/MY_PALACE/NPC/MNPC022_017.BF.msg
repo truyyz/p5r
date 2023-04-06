@@ -13,7 +13,7 @@
 [s][bup 0 7 4 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 30 10 0 10]E-Eh?!?[n][w][e]
 
 [msg MES_GROUP1_03 [Yusuke]]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 42 10 0 10][vp 8 2 1 4106 65535 0]Eu gostaria de observar cuidadosamente[n]a miríade de armas de fogo escondidas[n]no vestido de sua Pessoa.[n][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 42 10 0 10][vp 8 2 1 4106 65535 0]Eu gostaria de observar cuidadosamente[n]a miríade de armas de fogo escondidas[n]no vestido de sua Persona.[n][w][e]
 
 [msg MES_GROUP1_04 [Haru]]
 [s][bup 0 7 4 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 33 10 0 10][vp 8 2 1 53543 65535 0]Oh... Você quis dizer Milady![n][w][e]

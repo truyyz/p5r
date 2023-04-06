@@ -17,7 +17,7 @@
 [s]Tente descobrir o que seus confidentes[n]querem ouvir[n]quando você passa um tempo com eles.[n][e]
 
 [msg HELP_URANAI_COOP_C02]
-[s]A Alta Sacerdotisa:[n]Makoto Niijima[n]Confidente[n][e]
+[s]A Sacerdotisa:[n]Makoto Niijima[n]Confidente[n][e]
 
 [msg HELP_URANAI_COOP_C03]
 [s]A Imperatriz:[n]Haru Okumura[n]Confidente[n][e]
@@ -56,19 +56,19 @@
 [s]O Diabo:[n]Ichiko Ohya[n]Confidente[n][e]
 
 [msg HELP_URANAI_COOP_C16]
-[s]The Tower:[n]Bom jogador[n]Confidente[n][e]
+[s]A Torre:[n]Bom jogador[n]Confidente[n][e]
 
 [msg HELP_URANAI_COOP_C17]
-[s]The Star:[n]Hifumi Togo[n]Confidente[n][e]
+[s]A Estrela:[n]Hifumi Togo[n]Confidente[n][e]
 
 [msg HELP_URANAI_COOP_C18]
 [s]A Lua:[n]Yuuki Mishima[n]Confidente[n][e]
 
 [msg HELP_URANAI_COOP_C19]
-[s]The Sun:[n]Homem do povo[n]Confidente[n][e]
+[s]O Sol:[n]Homem do povo[n]Confidente[n][e]
 
 [msg HELP_URANAI_COOP_C22]
-[s]Faith:[n][f 4 31 10 1] Yoshizawa[n]Confidente[n][e]
+[s]Fé:[n][f 4 31 10 1] Yoshizawa[n]Confidente[n][e]
 
 [msg HELP_URANAI_COOP_C23]
 [s]Conselheiro:[n]Takuto Maruki[n]Confidente[n][e]
