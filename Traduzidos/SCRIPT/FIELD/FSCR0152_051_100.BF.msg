@@ -12,7 +12,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eles provavelmente foram[n]movidos para outro lugar.[n][w][e]
 
 [msg D01_02_e129_041_mes03 [Ryuji]]
-[s][bup 0 2 2 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Mas onde?!? E porque?!?[n][w][e]
+[s][bup 0 2 2 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Mas onde?!? E por quê?!?[n][w][e]
 
 [msg D01_02_e129_041_mes04 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Não me pergunte![n][w][e]

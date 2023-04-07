@@ -690,7 +690,7 @@
 [s]Que roupas fantásticas...[n]Volte e nos veja, ok?[n][w][e]
 
 [msg MSG_OldClothe_Bey_Nosell [Balconista de loja de roupas usadas]]
-[s]Volte e nos venda mais, OK?[n]Espero por você.[n][w][e]
+[s]Volte e nos venda mais, Ok?[n]Espero por você.[n][w][e]
 
 [msg MSG_Hurugi_Start [Morgana]]
 [s][bup 0 3 11 0 0][f 4 10 65535 0 0][vp 8 2 1 1187 65535 0]Eu sempre quis saber o que há dentro dessas[n]coisas. Vamos assistir![n][w][e]
@@ -885,7 +885,7 @@
 
 [msg MSG_Realtor_Sofa_002 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0]O quê, é tão confortável assim?[n]Deve ser verdade, já que[n]expõem aqui na frente de todo mundo...[n][w][e]
-[s]OK, vamos.[n][w][e]
+[s]Ok, vamos.[n][w][e]
 
 [msg MSG_Realtor_Sofa_003 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0]A sério? Mas quão confortável é...?[n][w][e]
@@ -897,7 +897,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0]Bom, vamos.[n][w][e]
 
 [msg MSG_Realtor_Sofa_End [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]OK, entendemos que você gosta deste sofá. Mas[n]primeiro espere até conseguir uma casa, ok?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]Ok, entendemos que você gosta deste sofá. Mas[n]primeiro espere até conseguir uma casa, ok?[n][w][e]
 
 [msg MSG_Realtor_Sofa_End_Fau [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0]Temos muitas coisas para fazer.[n]Não há tempo para relaxar.[n][w][e]

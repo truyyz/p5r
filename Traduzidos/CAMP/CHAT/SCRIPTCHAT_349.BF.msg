@@ -24,7 +24,7 @@
 [s][f 5 14]Que coincidência! Nós dois estaremos no[n]exterior ao mesmo tempo, certo?[n][w][e]
 
 [msg MSG_009_0_0 [Kasumi]]
-[s][f 5 14]OK, então o treinamento está[n]suspenso até retornarmos![n][w][e]
+[s][f 5 14]Ok, então o treinamento está[n]suspenso até retornarmos![n][w][e]
 
 [msg MSG_010_0_0 [Kasumi]]
 [s][f 5 14]Após nosso retorno, farei o meu melhor[n]para treiná-lo![n][w][e]

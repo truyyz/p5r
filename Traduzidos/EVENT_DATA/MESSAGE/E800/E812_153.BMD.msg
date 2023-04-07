@@ -1,7 +1,7 @@
 [msg MSG_000_0_0 [Ohya]]
 [s][bup 0 107 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 16045 65535 0]Monja e cerveja são uma combinação incrível! Pena[n]que é proibido para crianças como você![n][f 1 3 65535][w][e]
 [s][bup 0 107 0 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 35 5 100][vp 8 0 0 0 65535 0]Eu costumava vir aqui frequentemente com Kayo.[n]É por isso que recentemente[n]estou querendo voltar.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O ponto forte do restaurante é[n]a particularidade do cardápio![n]OK, o que você gostaria de experimentar?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O ponto forte do restaurante é[n]a particularidade do cardápio![n]Ok, o que você gostaria de experimentar?[n][f 1 3 65535][w][e]
 
 [sel SEL_001_0_0 top]
 [s]Monja mista.[e]

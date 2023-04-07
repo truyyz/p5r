@@ -6,7 +6,7 @@
 [s][f 5 14]Você acha que pode vir[n]para Shibuya esta noite?[n][f 5 15][w][e]
 
 [sel SEL_010_0_0 top]
-[s][f 5 14]OK, me encontre na estação.[e]
+[s][f 5 14]Ok, me encontre na estação.[e]
 
 [msg MSG_020_0_0 [Sae]]
 [s][f 5 14]Obrigada.[n][w][e]

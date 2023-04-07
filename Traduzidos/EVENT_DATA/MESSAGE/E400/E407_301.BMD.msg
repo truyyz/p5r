@@ -91,7 +91,7 @@
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Estamos lidando com cinco[n]pessoas.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]O político Ooe, ex-nobre, presidente de uma rede[n]de TV, membro de uma empresa de TI e lixeiro.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Receberemos reconhecimento e[n]cartas de recomendação[n]que usaremos como cartões de acesso.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]Mas vamos lidar com o[n]sweeper somente depois dos outros[n]quatro. OK?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Mas vamos lidar com o[n]sweeper somente depois dos outros[n]quatro. Ok?[n][f 1 3 65535][w][e]
 
 [msg MSG_028_0_0 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Uau! Incrível![n]Vá em frente, gênio![n][f 1 3 65535][w][e]

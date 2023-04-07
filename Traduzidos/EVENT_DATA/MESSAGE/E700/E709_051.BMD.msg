@@ -37,7 +37,7 @@
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Meu nome é Futaba Sakura,[n]não se esqueça disso![n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Mishima]]
-[s][bup 0 111 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]U-Uh, OK...[n][f 1 3 65535][w][e]
+[s][bup 0 111 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]U-Uh, Ok...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu sou Yuuki Mishima, mas[n]todo mundo me chama apenas de Mishima...[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Futaba]]

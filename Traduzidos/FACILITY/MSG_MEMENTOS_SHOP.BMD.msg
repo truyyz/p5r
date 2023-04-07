@@ -137,7 +137,7 @@
 [s]Não[n]problema![n][e]
 
 [msg MSG_MMTSHOP_COGN_OK_01]
-[s]OK![n][e]
+[s]Ok![n][e]
 
 [msg MSG_MMTSHOP_COGN_OK_02]
 [s]Vou tentar.[n][e]

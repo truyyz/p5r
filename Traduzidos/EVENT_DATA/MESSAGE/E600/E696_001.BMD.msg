@@ -10,7 +10,7 @@
 [s]Contando com você.[e]
 
 [msg MSG_003_0_0 [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 7107 65535 0]Você nem precisa me perguntar.[n]OK, então vamos nos encontrar no telhado[n]depois da escola.[n][f 1 3 65535][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 7107 65535 0]Você nem precisa me perguntar.[n]Ok, então vamos nos encontrar no telhado[n]depois da escola.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Teremos muito o que fazer. Vai[n]melhor se preparar bem...[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Ryuji]]
@@ -51,7 +51,7 @@
 
 [msg MSG_013_0_0 [Ann]]
 [s][bup 0 4 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]...Então aqui vamos nós.[n]Vamos rasgar Kamoshida[n]seus desejos nojentos![n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]OK, vejo você no esconderijo[n]depois da escola![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Ok, vejo você no esconderijo[n]depois da escola![n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]...Eu entendi. Por outro lado, ainda temos[n]algum tempo antes[n]da reunião do conselho.[n][f 1 3 65535][w][e]
@@ -150,7 +150,7 @@
 [s][bup 0 2 11 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vamos ao Palácio hoje![n][f 1 3 65535][w][e]
 
 [sel SEL_037_0_0 top]
-[s]OK.[f 2 7 0 1 971 1][e]
+[s]Ok.[f 2 7 0 1 971 1][e]
 [s]Vou pensar sobre isso.[e]
 
 [msg MSG_038_0_0 [Ryuji]]
@@ -160,7 +160,7 @@
 [msg MSG_039_0_0 [Ryuji]]
 [s][bup 0 2 7 65535 0][f 4 10 65535 0 0][vp 8 2 0 7025 65535 0]Argh... Nunca vou entender seus ritmos! Como você[n]pode estar tão calmo nessa situação?!?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Suspiro... Estou muito cansado[n]até para reclamar[n]da sua indiferença...[n][f 1 3 65535][w][e]
-[s][bup 0 2 11 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]No entanto, se você mudar de ideia[n]avise-me imediatamente. OK?!?[n][f 1 3 65535][w][e]
+[s][bup 0 2 11 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]No entanto, se você mudar de ideia[n]avise-me imediatamente. Ok?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_040_0_0 [Ryuji]]
 [s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 2 0 7167 65535 0]Ei, está quase na hora da reunião do conselho![n]Não me diga[n]que você esqueceu![n][f 1 3 65535][w][e]
@@ -175,11 +175,11 @@
 
 [msg MSG_043_0_0 [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 7103 65535 0]Yay! Então eu quero você![n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]OK, vamos contar a Ann também.[n]Depois da escola, vamos nos encontrar no[n]telhado para uma reunião de estratégia![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ok, vamos contar a Ann também.[n]Depois da escola, vamos nos encontrar no[n]telhado para uma reunião de estratégia![n][f 1 3 65535][w][e]
 
 [msg MSG_044_0_0 [Ryuji]]
 [s][bup 0 2 7 65535 0][f 4 10 65535 0 0][vp 8 2 0 7025 65535 0]Argh... Nunca vou entender seus ritmos![n]Suspiro... estou muito cansado até para[n]reclamar...[n][f 1 3 65535][w][e]
-[s][bup 0 2 11 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]No entanto, se você mudar de ideia[n]avise-me imediatamente. OK?!?[n][f 1 3 65535][w][e]
+[s][bup 0 2 11 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]No entanto, se você mudar de ideia[n]avise-me imediatamente. Ok?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_045_0_0 [Ryuji]]
 [s][bup 0 2 7 65535 0][f 4 10 65535 0 0][vp 8 2 0 7028 65535 0]Olá...[n][f 1 3 65535][w][e]
@@ -215,7 +215,7 @@
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Por que não vamos[n]ao Palácio hoje? Você sabe, eu prefiro[n]sem arrependimentos.[n][f 1 3 65535][w][e]
 
 [sel SEL_052_0_0 top]
-[s]OK, vamos embora.[f 2 7 0 1 971 1][e]
+[s]Ok, vamos embora.[f 2 7 0 1 971 1][e]
 [s]Vou pensar sobre isso.[e]
 
 [msg MSG_053_0_0 [Ann]]
@@ -311,7 +311,7 @@
 [s]Tenho que pensar.[e]
 
 [msg MSG_073_0_0 [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 7023 65535 0]OK, então vamos nos encontrar no[n]ponto de encontro depois da escola![n][f 1 3 65535][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 7023 65535 0]Ok, então vamos nos encontrar no[n]ponto de encontro depois da escola![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][bup 0 2 0 65535 0][f 4 10 65535 0 0]Eu não entendo de arte, mas na minha opinião[n]esse menino é bom nisso, você não acha?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E então temos que ajudá-lo! Não gosto de[n]algo semelhante a ele[n]o que passei.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][bup 0 2 1 65535 0][f 4 10 65535 0 0]Então, darei tudo de mim![n]E espero que você também![n][f 1 3 65535][w][e]
@@ -330,7 +330,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 95 65535 0]Acho que devemos prosseguir com nossos planos.[n]Por que não visitamos o Palácio hoje?[n][f 1 3 65535][w][e]
 
 [sel SEL_077_0_0 top]
-[s]OK, vamos embora.[f 2 7 0 1 971 1][e]
+[s]Ok, vamos embora.[f 2 7 0 1 971 1][e]
 [s]Temos que nos preparar melhor.[e]
 
 [msg MSG_078_0_0 [Yusuke]]
@@ -408,7 +408,7 @@
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Por que não vamos[n]ao Palácio hoje?[n][f 1 3 65535][w][e]
 
 [sel SEL_097_0_0 top]
-[s]OK, vamos embora.[f 2 7 0 1 971 1][e]
+[s]Ok, vamos embora.[f 2 7 0 1 971 1][e]
 [s]Não seja impaciente.[e]
 
 [msg MSG_098_0_0 [Yusuke]]
@@ -526,7 +526,7 @@
 [s][bup 0 4 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E ainda não sabemos onde está o Tesouro. Hoje[n]devemos só ir ao Palácio![n][f 1 3 65535][w][e]
 
 [sel SEL_127_0_0 top]
-[s]OK, vamos embora.[f 2 7 0 1 971 1][e]
+[s]Ok, vamos embora.[f 2 7 0 1 971 1][e]
 [s]Ainda há tempo.[e]
 
 [msg MSG_128_0_0 [Ann]]
@@ -566,7 +566,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 117 65535 0]...Ei, por que não vamos[n]aos Mementos hoje?[n][f 1 3 65535][w][e]
 
 [sel SEL_137_0_0 top]
-[s]OK, vamos embora.[f 2 7 0 1 971 1][e]
+[s]Ok, vamos embora.[f 2 7 0 1 971 1][e]
 [s]Outra hora.[e]
 
 [msg MSG_138_0_0 [Yusuke]]
@@ -651,7 +651,7 @@
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Então vamos ao Palácio hoje?[n][f 1 3 65535][w][e]
 
 [sel SEL_157_0_0 top]
-[s]OK, vamos embora.[f 2 7 0 1 971 1][e]
+[s]Ok, vamos embora.[f 2 7 0 1 971 1][e]
 [s]Vou pensar sobre isso.[e]
 
 [msg MSG_158_0_0 [Ryuji]]
@@ -676,7 +676,7 @@
 
 [msg MSG_163_0_0 [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 7103 65535 0]Oooh, então vamos colocar o plano em ação! Eu[n]estava ansioso por isso.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]OK, vamos nos encontrar no lugar de costume[n]depois da escola. Esperando por você![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ok, vamos nos encontrar no lugar de costume[n]depois da escola. Esperando por você![n][f 1 3 65535][w][e]
 
 [msg MSG_164_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 7038 65535 0]Bem, ainda temos algum tempo.[n]Avise-me quando terminar[n]os preparativos.[n][f 1 3 65535][w][e]
@@ -715,7 +715,7 @@
 [s]Eu quero pensar sobre isso um pouco.[e]
 
 [msg MSG_173_0_0 [Ann]]
-[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 6108 65535 0]OK! Então vamos para o Palácio[n]depois da escola![n][f 1 3 65535][w][e]
+[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 6108 65535 0]Ok! Então vamos para o Palácio[n]depois da escola![n][f 1 3 65535][w][e]
 [s][bup 0 4 5 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Oh Deus, mas está quente![n]Felizmente os bancos[n]têm ar condicionado.[n][f 1 3 65535][w][e]
 
 [msg MSG_174_0_0 [Ann]]
@@ -735,7 +735,7 @@
 [s]Vou pensar sobre isso.[e]
 
 [msg MSG_178_0_0 [Ann]]
-[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 6108 65535 0]OK! Agora chega de brincadeira![n]Kaneshiro terá que implorar por misericórdia![n][f 1 3 65535][w][e]
+[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 6108 65535 0]Ok! Agora chega de brincadeira![n]Kaneshiro terá que implorar por misericórdia![n][f 1 3 65535][w][e]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Tudo bem, até lá[n]lugar de sempre depois da escola.[n]Não se esqueça disso.[n][f 1 3 65535][w][e]
 
 [msg MSG_179_0_0 [Ann]]
@@ -771,7 +771,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vamos para o Palácio hoje.[n]Precisamos encontrar imediatamente[n]a localização do Tesouro.[n][f 1 3 65535][w][e]
 
 [sel SEL_187_0_0 top]
-[s]OK.[f 2 7 0 1 971 1][e]
+[s]Ok.[f 2 7 0 1 971 1][e]
 [s]Deixe-me pensar sobre isso.[e]
 
 [msg MSG_188_0_0 [Yusuke]]
@@ -905,7 +905,7 @@
 [msg MSG_219_0_0 [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 265 65535 0]Oh! É uma ótima ideia![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 266 65535 0]Os vizinhos podem saber[n]algo sobre Futaba e o chefe.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 267 65535 0]OK, vou deixar a investigação para você.[n]Boa sorte, companheiro.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 267 65535 0]Ok, vou deixar a investigação para você.[n]Boa sorte, companheiro.[n][f 1 3 65535][w][e]
 
 [msg MSG_220_0_0 [Haru]]
 [s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 315 65535 0]Ah, bom dia.[n][f 1 3 65535][w][e]
@@ -926,7 +926,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 322 65535 0]No entanto, não podemos completar esse palácio[n]sem Haru. Vai ser difícil para ela mas é isso[n]que você tem que fazer![n][f 1 3 65535][w][e]
 
 [msg MSG_224_0_0 [Haru]]
-[s][bup 0 7 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 323 65535 0]Sinto muito... Ainda tenho muito[n]a aprender como um Ladrão Fantasma.[n][f 1 3 65535][w][e]
+[s][bup 0 7 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 323 65535 0]Sinto muito... Ainda tenho muito[n]a aprender como um Phantom Thief.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 324 65535 0][bup 0 7 0 65535 0][f 4 10 65535 0 0]No entanto, decidi que[n]o que meu pai fez[n]deveria ser tornado público.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 325 65535 0]Então... vamos nos ocupar[n]e trabalhar juntos![n][f 1 3 65535][w][e]
 [s][f 1 5]Morgana [bup 0 3 2 0 0][f 4 10 65535 0 0][n][f 4 22 0 5 23][vp 8 0 0 326 65535 0]Podemos[n]lutar ao lado de Haru apenas até a expiração do[n]dia 10.[n][f 1 3 65535][w][e]
@@ -942,12 +942,12 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Melhor não perder tempo.[n]Por que não vamos[n]ao Palácio hoje?[n][f 1 3 65535][w][e]
 
 [sel SEL_227_0_0 top]
-[s]OK, vamos embora.[f 2 7 0 1 971 1][e]
+[s]Ok, vamos embora.[f 2 7 0 1 971 1][e]
 [s]Vou pensar sobre isso.[e]
 
 [msg MSG_228_0_0 [Makoto]]
 [s][bup 0 6 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 2035 65535 0]Entendi.[n]Precisamos vencer,[n]pelo bem de Haru.[n][f 1 3 65535][w][e]
-[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]OK, vejo você no esconderijo[n]depois da escola. Não se esqueça disso.[n][f 1 3 65535][w][e]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ok, vejo você no esconderijo[n]depois da escola. Não se esqueça disso.[n][f 1 3 65535][w][e]
 
 [msg MSG_229_0_0 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 2026 65535 0]Não vou insistir, mas[n]não se esqueça de Haru.[n][f 1 3 65535][w][e]
@@ -968,7 +968,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Tudo bem, vamos reunir todo mundo.[n]Espero por você no ponto de encontro.[n][f 1 3 65535][w][e]
 
 [msg MSG_234_0_0 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 2197 65535 0]OK. Ainda temos algum tempo,[n]antes de Haru[n]conhecer o namorado.[n][f 1 3 65535][w][e]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 2197 65535 0]Ok. Ainda temos algum tempo,[n]antes de Haru[n]conhecer o namorado.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Estamos atraindo muita atenção.[n]Talvez devêssemos agir[n]com alguma cautela.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bem, deixe-me saber quando você concluiu seus[n]preparativos. Estarei pronto para qualquer[n]eventualidade.[n][f 1 3 65535][w][e]
 
@@ -1061,7 +1061,7 @@
 [s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 332 65535 0]É por isso que eu gostaria de[n]ir ao Palácio hoje.[n]O que você acha, [f 4 2]-kun?[n][f 1 3 65535][w][e]
 
 [sel SEL_257_0_0 top]
-[s]OK, vamos embora.[f 2 7 0 1 971 1][e]
+[s]Ok, vamos embora.[f 2 7 0 1 971 1][e]
 [s]Tenho que pensar.[e]
 
 [msg MSG_258_0_0 [Haru]]
@@ -1085,7 +1085,7 @@
 
 [msg MSG_263_0_0 [Haru]]
 [s][bup 0 7 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 340 65535 0]Coisa? Hoje?!?[n][f 1 3 65535][w][e]
-[s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 341 65535 0]OK. Vamos nos encontrar depois da escola.[n]Mal posso esperar.[n][f 1 3 65535][w][e]
+[s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 341 65535 0]Ok. Vamos nos encontrar depois da escola.[n]Mal posso esperar.[n][f 1 3 65535][w][e]
 
 [msg MSG_264_0_0 [Haru]]
 [s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 342 65535 0]Eu vejo. Avise-me,[n]quando decidir.[n][f 1 3 65535][w][e]
@@ -1119,7 +1119,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vamos para o Palácio, ok?[n][f 1 3 65535][w][e]
 
 [sel SEL_272_0_0 top]
-[s]OK, vamos embora.[f 2 7 0 1 971 1][e]
+[s]Ok, vamos embora.[f 2 7 0 1 971 1][e]
 [s]Tenho que pensar.[e]
 
 [msg MSG_273_0_0 [Ann]]
@@ -1142,7 +1142,7 @@
 [s]Estou pensando sobre isso.[e]
 
 [msg MSG_278_0_0 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 6020 65535 0]OK, recebido![n][f 1 3 65535][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 6020 65535 0]Ok, recebido![n][f 1 3 65535][w][e]
 [s][bup 0 4 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu não vou deixar Haru para aquele homem.[n]Devemos parar Okumura[n]a todo custo![n][f 1 3 65535][w][e]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bem, então, vejo você no Leblanc[n]depois da escola. Estarei lá.[n][f 1 3 65535][w][e]
 
@@ -1159,7 +1159,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ainda assim, gostaria que fizéssemos algo,[n]enquanto esperamos. Por que não vamos ao Mementos[n]hoje?[n][f 1 3 65535][w][e]
 
 [sel SEL_282_0_0 top]
-[s]OK, vamos lá.[f 2 7 0 1 971 1][e]
+[s]Ok, vamos lá.[f 2 7 0 1 971 1][e]
 [s]Eu não sinto como.[e]
 
 [msg MSG_283_0_0 [Ann]]
@@ -1203,7 +1203,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Por que não vamos ao Palácio hoje?[n]Gostaria de dar alguns passos à frente.[n][f 1 3 65535][w][e]
 
 [sel SEL_292_0_0 top]
-[s]OK, vamos embora.[f 2 7 0 1 971 1][e]
+[s]Ok, vamos embora.[f 2 7 0 1 971 1][e]
 [s]Não seja impaciente.[e]
 
 [msg MSG_293_0_0 [Haru]]
@@ -1246,7 +1246,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O prazo está se aproximando.[n]Por que não vamos ao Palácio hoje?[n][f 1 3 65535][w][e]
 
 [sel SEL_302_0_0 top]
-[s]OK, vamos embora.[f 2 7 0 1 971 1][e]
+[s]Ok, vamos embora.[f 2 7 0 1 971 1][e]
 [s]Ainda não.[e]
 
 [msg MSG_303_0_0 [Yusuke]]
@@ -1286,7 +1286,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vamos para o Palácio hoje![n]Precisamos garantir que podemos[n]enviar a carta de aviso![n][f 1 3 65535][w][e]
 
 [sel SEL_312_0_0 top]
-[s]OK, vamos embora.[f 2 7 0 1 971 1][e]
+[s]Ok, vamos embora.[f 2 7 0 1 971 1][e]
 [s]Tenho que pensar.[e]
 
 [msg MSG_313_0_0 [Ann]]
@@ -1443,7 +1443,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]A coletiva de imprensa de Madarame[n]causou alvoroço! Todo mundo está falando[n]sobre a carta de aviso.[n][f 1 3 65535][w][e]
 
 [msg MSG_346_0_0 [Ryuji]]
-[s][bup 0 2 1 2 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Hoje todos olham para mim. Talvez eles[n]sintam meu irresistível[n]charme de Ladrão Fantasma?[n][f 1 3 65535][w][e]
+[s][bup 0 2 1 2 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Hoje todos olham para mim. Talvez eles[n]sintam meu irresistível[n]charme de Phantom Thief?[n][f 1 3 65535][w][e]
 [s][bup 0 2 4 2 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Cara, finalmente[n]estou ficando popular com as[n]garotas mais gostosas da escola... Ah, não![n][f 1 3 65535][w][e]
 
 [sel SEL_347_0_0 top]
@@ -1487,7 +1487,7 @@
 [s][vp 8 0 0 78 65535 0][bup 0 5 2 65535 0][f 4 10 65535 0 0]Eu te aviso. Não se intrometa[n]mais.[n][f 1 3 65535][w][e]
 
 [sel SEL_357_0_0 top]
-[s]E porque?[e]
+[s]E por quê?[e]
 [s]Você estava esperando por mim, hein?[e]
 
 [msg MSG_358_0_0 [Yusuke]]
@@ -1549,7 +1549,7 @@
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 154 65535 0]Nos encontramos novamente.[n]Oh querido... Hoje o tempo[n]está decididamente sombrio...[n][f 1 3 65535][w][e]
 
 [msg MSG_371_0_0 [Akechi]]
-[s][vp 8 0 0 155 65535 0][bup 0 9 0 65535 0][f 4 10 65535 0 0]A propósito... não há[n]mais desenvolvimentos no[n]caso dos Ladrões Fantasmas.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 155 65535 0][bup 0 9 0 65535 0][f 4 10 65535 0 0]A propósito... não há[n]mais desenvolvimentos no[n]caso dos Phantom Thieves.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 156 65535 0][f 4 10 65535 0 0]Se eles chegarem ao ponto de usar[n]cartas de desafio, duvido que[n]o caso de Madarame seja o último.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 157 65535 0]Que tipo de alvo[n]eles escolherão na próxima vez?[n]O que você acha?[n][f 1 3 65535][w][e]
 
@@ -1954,7 +1954,7 @@
 [s]Talvez mais tarde...[e]
 
 [msg MSG_453_0_0 [Sumire]]
-[s][bup 0 10 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 57026 65535 0]OK! Temos um assunto[n]para resolver lá![n][f 1 3 65535][w][e]
+[s][bup 0 10 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 57026 65535 0]Ok! Temos um assunto[n]para resolver lá![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Vejo você mais tarde[n]então. Com licença![n][f 1 3 65535][w][e]
 
 [msg MSG_454_0_0 [Sumire]]
@@ -1974,7 +1974,7 @@
 [s]Estou ocupado.[e]
 
 [msg MSG_458_0_0 [Haru]]
-[s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 3020 65535 0]OK! Até logo, então.[n][f 1 3 65535][w][e]
+[s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 3020 65535 0]Ok! Até logo, então.[n][f 1 3 65535][w][e]
 
 [msg MSG_459_0_0 [Haru]]
 [s][bup 0 7 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 53561 65535 0]Oh... Não podemos fazer nada sobre isso[n]por enquanto, podemos?[n][f 1 3 65535][w][e]
@@ -1987,7 +1987,7 @@
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você está livre depois da escola?[n]Eu estava pensando em visitar o Mementos.[n][f 1 3 65535][w][e]
 
 [sel SEL_462_0_0 top]
-[s]OK, vamos embora.[f 2 7 0 1 971 1][e]
+[s]Ok, vamos embora.[f 2 7 0 1 971 1][e]
 [s]Tenho que pensar.[e]
 
 [msg MSG_463_0_0 [Akechi]]
@@ -1995,7 +1995,7 @@
 
 [msg MSG_464_0_0 [Akechi]]
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 8028 65535 0]Ah, você não está preocupado, eu entendo.[n]Acho que não temos[n]tempo a perder, no entanto.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]OK, tudo bem então. Avise-me se mudar de ideia.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Ok, tudo bem então. Avise-me se mudar de ideia.[n][f 1 3 65535][w][e]
 
 [msg MSG_465_0_0 [Sumire]]
 [s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 57005 65535 0]Bom dia.[n][f 1 3 65535][w][e]
@@ -2010,7 +2010,7 @@
 
 [msg MSG_468_0_0 [Sumire]]
 [s][bup 0 10 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 57052 65535 0]Obrigado Senhor! Terminei[n]de me arrumar![n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]OK, vejo você depois da escola.[n]Desculpe![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Ok, vejo você depois da escola.[n]Desculpe![n][f 1 3 65535][w][e]
 
 [msg MSG_469_0_0 [Sumire]]
 [s][bup 0 10 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 57060 65535 0]S-senpai!...Não é hora[n]para vacilar...[n][f 1 3 65535][w][e]
@@ -2084,7 +2084,7 @@
 [s]Por hoje eu diria que não.[e]
 
 [msg MSG_488_0_0 [Haru]]
-[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 3020 65535 0]OK, claro! Afinal, temos trabalho[n]a fazer.[n][f 1 3 65535][w][e]
+[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 3020 65535 0]Ok, claro! Afinal, temos trabalho[n]a fazer.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Vamos nos encontrar depois da escola então.[n][f 1 3 65535][w][e]
 
 [msg MSG_489_0_0 [Haru]]
@@ -2518,7 +2518,7 @@
 [msg MSG_593_0_0 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 2023 65535 0]Bem, vou me preparar para[n]minha vez.[n][f 1 3 65535][w][e]
 [s][bup 0 6 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não podemos deixar que[n]canalha continue fazendo[n]o que quer.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Vamos despertar seu coração,[n]a todo custo. OK, vejo você[n]depois da escola.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Vamos despertar seu coração,[n]a todo custo. Ok, vejo você[n]depois da escola.[n][f 1 3 65535][w][e]
 
 [msg MSG_594_0_0 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 2020 65535 0]Está bem. Ainda dá tempo... Acho que[n]não há necessidade de apressar as coisas.[n][f 1 3 65535][w][e]
@@ -2574,11 +2574,11 @@
 [s][vp 8 2 0 0 65535 0]Eu sei que você já deve ter um plano,[n]mas estamos com pouco tempo...[n]Podemos ir ao Palácio hoje?[n][f 1 3 65535][w][e]
 
 [sel SEL_607_0_0 top]
-[s]OK, vamos embora.[f 2 7 0 1 971 1][e]
+[s]Ok, vamos embora.[f 2 7 0 1 971 1][e]
 [s]Tenho que pensar.[e]
 
 [msg MSG_608_0_0 [Sumire]]
-[s][bup 0 10 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 57026 65535 0]OK! Estou tão pronto![n][f 1 3 65535][w][e]
+[s][bup 0 10 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 57026 65535 0]Ok! Estou tão pronto![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Vamos nos encontrar depois da escola então.[n]Agora, se você me der licença, eu tenho que ir![n][f 1 3 65535][w][e]
 
 [msg MSG_609_0 [Sumire]]

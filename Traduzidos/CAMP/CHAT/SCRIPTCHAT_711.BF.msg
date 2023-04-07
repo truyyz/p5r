@@ -11,7 +11,7 @@
 [s][f 5 14]Estarei em Akihabara, me avise se passar[n]por aqui![n][w][e]
 
 [msg CHAT_REACTION_MSG [Mishima]]
-[s][f 5 14]OK! Eu vou esperar![n][w][e]
+[s][f 5 14]Ok! Eu vou esperar![n][w][e]
 
 [msg MSG_MORUGANA [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Você vai aceitar[n]o convite de Mishima?[n][f 1 3 65535][w][e]

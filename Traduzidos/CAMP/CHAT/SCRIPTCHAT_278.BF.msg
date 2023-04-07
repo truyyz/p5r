@@ -1,5 +1,5 @@
 [msg MSG_000_0_0 [Akechi]]
-[s][f 5 14]Olá, ladrões fantasmas.[n][w][e]
+[s][f 5 14]Olá, Phantom Thieves.[n][w][e]
 [s][f 5 14]Como está indo a investigação do caso[n]das falsas alegações?[n][w][e]
 
 [sel SEL_001_0_0 top]

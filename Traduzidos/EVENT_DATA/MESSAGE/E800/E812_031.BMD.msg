@@ -12,7 +12,7 @@
 [s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 3035 65535 0][f 5 13 4 15 7]Você tem razão. Afinal, é[n]uma experiência de aprendizado![n][f 1 3 65535][w][e]
 
 [msg MSG_002_5_0 [Haru]]
-[s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Aqui estão algumas instruções.[n]OK, vamos começar com o básico da[n]preparação de monjayaki![n][f 1 3 65535][w][e]
+[s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Aqui estão algumas instruções.[n]Ok, vamos começar com o básico da[n]preparação de monjayaki![n][f 1 3 65535][w][e]
 [s][bup 0 7 4 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 39 5 100][vp 8 0 0 0 65535 0]Hum? Nesta imagem, ele parece[n]mal cozido... Deveria[n]comer assim?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Aqui diz para usar a espátula[n]para coletar e... comê-lo[n]diretamente da espátula?[n][f 1 3 65535][w][e]
 [s][bup 0 7 1 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 36 5 100][vp 8 0 0 0 65535 0]Mas é ótimo! Estou muito[n]curioso para saber como é![n]Venha, vamos pedir.[n][f 1 3 65535][w][e]

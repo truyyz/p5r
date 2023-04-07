@@ -72,7 +72,7 @@
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 28 65535 0]Por favor, Futaba, abra a porta.[n][f 1 3 65535][w][e]
 
 [msg MSG_032_0_0 [Ryuji]]
-[s][bup 0 2 11 65535 0][f 4 10 65535 0 0][vp 8 0 0 31 65535 0]OK, vamos entrar...[n][f 1 3 65535][w][e]
+[s][bup 0 2 11 65535 0][f 4 10 65535 0 0][vp 8 0 0 31 65535 0]Ok, vamos entrar...[n][f 1 3 65535][w][e]
 
 [msg MSG_033_0_0 [Yusuke]]
 [s][bup 0 5 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 32 65535 0]E o que é isso...?[n][f 1 3 65535][w][e]
@@ -330,7 +330,7 @@
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 164 65535 0]Futaba, não deixe de ler, ok?[n][f 1 3 65535][w][e]
 
 [msg MSG_146_0_0 [Futaba]]
-[s][vp 8 0 0 165 65535 0]...OK.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 165 65535 0]...Ok.[n][f 1 3 65535][w][e]
 
 [msg MSG_147_0_0 [Futaba]]
 [s][bup 0 8 700 65535 0][f 4 10 65535 0 0][vp 8 0 0 166 65535 0]Vejamos...[n][f 1 3 65535][w][e]

@@ -1,5 +1,5 @@
 [msg MSG_000_0_0 [Kawakami]]
-[s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15112 65535 0]OK, vamos começar.[n][f 1 3 65535][w][e]
+[s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15112 65535 0]Ok, vamos começar.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Primeiro, tenho um anúncio a[n]fazer sobre um próximo[n]evento escolar.[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Kawakami]]

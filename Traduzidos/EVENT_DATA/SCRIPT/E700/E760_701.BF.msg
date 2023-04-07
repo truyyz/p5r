@@ -9,7 +9,7 @@
 
 [msg MSG_GameClimax_Ryuji [Ryuji]]
 [s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Oh merda... Essa coisa[n]é enorme...![n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Deve ser o chefe.[n]OK, disparo duplo rápido![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Deve ser o chefe.[n]Ok, disparo duplo rápido![n][f 1 3 65535][w][e]
 
 [msg MSG_SUCCESS_STAR_R [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 7103 65535 0][f 5 13 8 10 2][f 4 24 0 4 0 36 5 100]Simmm! Nós chutamos o traseiro dele![n][f 1 3 65535][w][e]
@@ -68,11 +68,11 @@
 
 [msg MSG_CHO_Y [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Hmm, então com um[n]número par nós ganhamos...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]OK, vamos jogar os dados![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Ok, vamos jogar os dados![n][f 1 3 65535][w][e]
 
 [msg MSG_HAN_Y [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Hum, então com um[n]número ímpar nós ganhamos...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]OK, vamos jogar os dados![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Ok, vamos jogar os dados![n][f 1 3 65535][w][e]
 
 [msg HLP_Command_Hattare]
 [s]Pressione [f 1 10 75] para parar de rolar.[n]A soma representará[n]seu total para a rodada.[n][w][e]
@@ -110,7 +110,7 @@
 
 [msg MSG_GameStart_Futaba [Futaba]]
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 9081 65535 0]Parece gasto, mas deve[n]funcionar.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]OK, vamos começar![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Ok, vamos começar![n][f 1 3 65535][w][e]
 
 [msg HLP_Goketu_Command]
 [s][vp 8 2 0 0 65535 0]Pressione [f 1 10 67] seguindo as setas mostradas[n]na tela enquanto o tempo se esgota, depois[n]pressione [f 1 10 75] para atacar.[n][f 1 3 65535][w][e]
@@ -208,7 +208,7 @@
 
 [msg MSG_NextTimeNG_Ryuji [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 7063 65535 0]A sério? Ufa, que merda...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Foi tudo um pouco repentino.[n]OK, até mais tarde.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Foi tudo um pouco repentino.[n]Ok, até mais tarde.[n][f 1 3 65535][w][e]
 
 [msg MSG_NextTimeOK_Curry_Ryu [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Eu estava começando a ficar com fome.[n]Podemos repetir?[n][f 1 3 65535][w][e]

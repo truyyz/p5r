@@ -123,7 +123,7 @@
 [msg MSG_YOWAMINIGIRI_007_0_0 [Estudante impiedoso]]
 [s][vp 8 2 1 0 5 0]Ei, eu não disse para você não xingar sem me[n]avisar?[n][w][e]
 [s][vp 8 2 1 0 5 0]Quer que todos vejam essa[n]imagem? Eu tenho que postar online[n]como os Phantom Thieves fazem?[n][w][e]
-[s][vp 8 2 1 0 5 0]O que? Chantagem? Você está brincando.[n]Eu só estou fazendo o que é certo,[n]sabe? Como os ladrões fantasmas.[n][w][e]
+[s][vp 8 2 1 0 5 0]O que? Chantagem? Você está brincando.[n]Eu só estou fazendo o que é certo,[n]sabe? Como os Phantom Thieves.[n][w][e]
 [s][vp 8 2 1 0 5 0]Os Phantom Thieves punem[n]pessoas más, e eu estou[n]fazendo basicamente o mesmo.[n][w][e]
 
 [msg MSG_YOWAMINIGIRI_008_0_0 [Estudante impiedoso]]
@@ -356,7 +356,7 @@
 [s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_01_ [Estudante impiedoso]]
-[s][vp 9 2 65535 39804 0 0]Ele mencionou os Ladrões Fantasmas.[n]Kamoshida está realmente envolvido[n]de alguma forma?[n][f 1 2 180][e]
+[s][vp 9 2 65535 39804 0 0]Ele mencionou os Phantom Thieves.[n]Kamoshida está realmente envolvido[n]de alguma forma?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_02_ [Estudante impiedoso]]
 [s]0[n][f 1 2 180][e]
@@ -401,7 +401,7 @@
 [s][vp 9 2 65535 39255 0 0]É verdade que eles encontraram[n]outra carta de aviso[n]dos Phantom Thieves?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_011_01_ [Estudante impiedoso]]
-[s][vp 9 2 65535 42256 0 0]Parece que os Ladrões Fantasmas[n]acabaram com aquela[n]rede criminosa...[n][f 1 2 180][e]
+[s][vp 9 2 65535 42256 0 0]Parece que os Phantom Thieves[n]acabaram com aquela[n]rede criminosa...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_011_02_ [Estudante impiedoso]]
 [s]0[n][f 1 2 180][e]

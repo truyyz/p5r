@@ -29,7 +29,7 @@
 [s][f 5 14]Sim.[n][w][e]
 
 [msg MSG_010_0_0 [Ryuji]]
-[s][f 5 14]OK vamos lá, até amanhã![n][w][e]
+[s][f 5 14]Ok vamos lá, até amanhã![n][w][e]
 
 [sel SEL_011_0_0 top]
 [s][f 5 14]Eu entendi.[e]

@@ -408,7 +408,7 @@
 [s][bup 0 3 5 0 0][vp 8 2 1 1178 65535 0][f 4 10 65535 0 0]Haru se envolveu nessa confusão por minha[n]causa... eu nunca poderia imaginar isso...[n][w][e]
 
 [msg MSG_MORGANA_DAY_1013 [Morgana]]
-[s][bup 0 3 2 0 0][vp 8 2 1 53109 65535 0][f 4 10 65535 0 0]Coisa? Os ladrões fantasmas assassinariam[n]Okumura? E enviou uma carta de aviso ao seu[n]diretor?[n][w][e]
+[s][bup 0 3 2 0 0][vp 8 2 1 53109 65535 0][f 4 10 65535 0 0]Coisa? Os Phantom Thieves assassinariam[n]Okumura? E enviou uma carta de aviso ao seu[n]diretor?[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Estamos brincando?!?[n]Como eles podem nos acusar de[n]tal coisa?[n][w][e]
 
 [msg MSG_MORGANA_DAY_1014 [Morgana]]
@@ -435,7 +435,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Quem sabe se nossa oferta[n]lhe interessará...[n][w][e]
 
 [msg MSG_MORGANA_DAY_1024 [Morgana]]
-[s][bup 0 3 0 0 0][vp 8 2 1 1174 65535 0][f 4 10 65535 0 0]OK, primeiro obstáculo superado![n][w][e]
+[s][bup 0 3 0 0 0][vp 8 2 1 1174 65535 0][f 4 10 65535 0 0]Ok, primeiro obstáculo superado![n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]A verdadeira questão agora é:[n]como obtemos[n]informações de Akechi...?[n][w][e]
 
 [msg MSG_MORGANA_DAY_1025 [Morgana]]
@@ -622,7 +622,7 @@
 [s][bup 0 3 2 0 0][vp 8 2 1 1174 65535 0][f 4 10 65535 0 0]Precisamos mudar a cognição de Okumura[n]...[n][w][e]
 
 [msg MSG_MORGANA_D05_LV1 [Morgana]]
-[s][bup 0 3 2 0 0][vp 8 2 1 1174 65535 0][f 4 10 65535 0 0]Temos que despertar o coração de Okumura.[n]Pelo bem de Haru[n]e dos Ladrões Fantasmas.[n][w][e]
+[s][bup 0 3 2 0 0][vp 8 2 1 1174 65535 0][f 4 10 65535 0 0]Temos que despertar o coração de Okumura.[n]Pelo bem de Haru[n]e dos Phantom Thieves.[n][w][e]
 
 [msg MSG_MORGANA_D05_LV2 [Morgana]]
 [s][bup 0 3 2 0 0][vp 8 2 1 1027 65535 0][f 4 10 65535 0 0]Não sei se ainda temos[n]tempo para relaxar... Temos que[n]acelerar o ritmo.[n][w][e]
@@ -759,7 +759,7 @@
 [s]Ainda não decidi.[f 2 7 0 0 106 1][e]
 
 [msg MSG_AZITO_01 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1099 65535 0]OK, vamos reunir os outros![n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1099 65535 0]Ok, vamos reunir os outros![n][w][e]
 
 [msg MSG_AZITO_01_01 [Morgana]]
 [s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 1 1173 65535 0]Mas mesmo indo agora...[n][w][e]
@@ -770,7 +770,7 @@
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0]Bem, se não tentarmos, nunca saberemos. Nós[n]reunimos os outros.[n][w][e]
 
 [msg MSG_AZITO_02 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1109 65535 0]OK. Vamos entrar em contato com os outros, então.[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1109 65535 0]Ok. Vamos entrar em contato com os outros, então.[n][w][e]
 
 [msg MSG_GREETING_MORGANA_00 [Morgana]]
 [s][bup 0 3 0 0 0]Quer criar ferramentas[n]para infiltração?[n][f 1 2 65535][e]

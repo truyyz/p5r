@@ -126,7 +126,7 @@
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]...Bem, vamos pensar sobre isso.[n]Será mais fácil se decidirmos juntos.[n][f 1 3 65535][w][e]
 
 [msg THINK_START_0523_02 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]OK... Sinestesia...[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ok... Sinestesia...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Eu acredito que aparece em muitas[n]outras palavras também. Como... sinergia,[n]sincronicidade e síntese.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Se pensarmos no que essas palavras[n]têm em comum,[n]"syn" deveria significar...[n][f 1 3 65535][w][e]
 
@@ -181,7 +181,7 @@
 [s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Está errado? Vamos pensar nisso.[n][f 1 3 65535][w][e]
 
 [msg THINK_START_00_03 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1173 65535 0]OK! Vamos tentar lembrar[n]o que ele disse.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1173 65535 0]Ok! Vamos tentar lembrar[n]o que ele disse.[n][f 1 3 65535][w][e]
 
 [msg THINK_START_03 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]A palavra inglesa "azure"... De que[n]idioma você disse que ela veio?[n][f 1 3 65535][w][e]
@@ -233,7 +233,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Mas como você conseguiu isso?[n]Acho que nem é azul.[n][f 1 3 65535][w][e]
 
 [msg THINK_START_00_04 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1173 65535 0]OK! Vamos tentar lembrar[n]o que ele disse.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1173 65535 0]Ok! Vamos tentar lembrar[n]o que ele disse.[n][f 1 3 65535][w][e]
 
 [msg THINK_START_04 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]"PVS" indica a[n]sensação ilusória de que seu telefone[n]vibrou. O que significa o P?[n][f 1 3 65535][w][e]
@@ -291,7 +291,7 @@
 
 [msg THINK_START_0124_00 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Hm... Já ouvimos falar[n]da "História de um cortador de bambu"?[n][f 1 3 65535][w][e]
-[s]OK, vamos lembrar.[n][f 1 3 65535][w][e]
+[s]Ok, vamos lembrar.[n][f 1 3 65535][w][e]
 
 [msg THINK_START_0124_01 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]A história de um cortador de bambu[n]é um velho conto de fadas, não é?[n]Começa com...[n][f 1 3 65535][w][e]
@@ -483,7 +483,7 @@
 [s]Mesmo sabendo o quão[n]perigoso era, ele não resistiu[n]ao chamado das ruas de Kyoto.[n][f 1 3 65535][w][e]
 [s]Ishikawa Goemon, motociclista temerário![n][f 1 3 65535][w][e]
 [s]Ei, sem brincadeira![n][f 1 3 65535][w][e]
-[s]OK, vamos manter a calma...[n]Eu não deveria[n]perder o controle assim...[n][f 1 3 65535][w][e]
+[s]Ok, vamos manter a calma...[n]Eu não deveria[n]perder o controle assim...[n][f 1 3 65535][w][e]
 [s]Vamos tentar repetir o raciocínio[n]do início. Ishikawa Goemon[n]viveu durante...[n][f 1 3 65535][w][e]
 
 [msg THINK_3C_02 [Morgana]]

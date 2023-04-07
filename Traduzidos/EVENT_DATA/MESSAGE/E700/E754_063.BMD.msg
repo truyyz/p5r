@@ -91,7 +91,7 @@
 
 [msg MSG_026_0_0 [Kawakami]]
 [s][bup 0 109 500 65535 0][f 4 10 65535 0 0][vp 8 0 0 28 65535 0]Você é tão esquisito, sabia?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 29 65535 0]Eu pensei que você fosse apenas um valentão com[n]a prior... Em vez disso, você é um ladrão[n]fantasma. Um campeão dos fracos.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 29 65535 0]Eu pensei que você fosse apenas um valentão com[n]a prior... Em vez disso, você é um Phantom[n]Thief. Um campeão dos fracos.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 30 65535 0]Mas você nem é bichinho[n]da professora...[n][f 1 3 65535][w][e]
 
 [msg MSG_027_0_0 [Kawakami]]
@@ -100,7 +100,7 @@
 [s][bup 0 109 501 65535 0][f 4 10 65535 0 0][f 4 24 0 4 6 42 5 100][vp 8 0 0 33 65535 0]Admiro-o sinceramente. O que quer que haja sobre[n]você, certamente você é uma boa pessoa.[n][f 1 3 65535][w][e]
 
 [sel SEL_028_0_0 top]
-[s]Obrigada.[e]
+[s]Obrigado.[e]
 [s]Você me faz corar.[e]
 
 [msg MSG_029_0_0 [Kawakami]]

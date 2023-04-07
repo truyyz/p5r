@@ -26,7 +26,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Faz sentido, já que você[n]aprendeu. Tudo bem.[n]Vamos lá.[n][f 1 3 65535][w][e]
 
 [msg MND_203_6_0]
-[s][vp 8 2 0 0 65535 0]OK, isso deve tornar o jogo mais fácil...[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0]Ok, isso deve tornar o jogo mais fácil...[n][f 1 3 65535][w][e]
 
 [msg MSG_READ_BOOK_URAWAZA_NO [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Uau, você está animado! Bem, é isso![n][f 1 3 65535][w][e]
@@ -117,7 +117,7 @@
 [s][vp 8 2 0 59556 65535 0]Mmm... [var 0], blorp... Você[n]fica sem tentativas, então[n]você vai ter que usar esse número, blorp![n][f 1 3 65535][w][e]
 
 [msg MSG_150_0_0 [Otávio]]
-[s][vp 8 2 0 59554 65535 0]OK, você fez [var 0], blorp![n][f 1 3 65535][w][e]
+[s][vp 8 2 0 59554 65535 0]Ok, você fez [var 0], blorp![n][f 1 3 65535][w][e]
 [s][vp 8 2 0 59555 65535 0]Quanto ao número secreto...[n]Lembra meu nome, blorp?[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 59555 65535 0]Octavius... onde octa[n]representa oito! Gluhuhuhu![n][f 1 3 65535][w][e]
 
@@ -165,7 +165,7 @@
 [s][vp 8 2 0 65 65535 0]Agora é a vez do[n]caminho intermediário.[n][f 1 3 65535][w][e]
 
 [msg MSG_200_2_0 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 1174 65535 0]OK, vamos começar o[n]caminho intermediário...[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 1174 65535 0]Ok, vamos começar o[n]caminho intermediário...[n][f 1 3 65535][w][e]
 
 [msg MND_200_3_0]
 [s][vp 8 2 0 57 65535 0]É hora de passar para o[n]caminho intermediário...[n][f 1 3 65535][w][e]

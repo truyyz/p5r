@@ -8,7 +8,7 @@
 [s]Muita ansiedade?[e]
 
 [msg MSG_002_0_0 [Futaba]]
-[s][bup 0 8 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]OK...[n][f 1 3 65535][w][e]
+[s][bup 0 8 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]Ok...[n][f 1 3 65535][w][e]
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][f 4 24 0 4 6 59 5 100][vp 8 0 0 5 65535 0]Você tem razão. Você está aqui comigo,[n]então...vou tentar me acalmar.[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Futaba]]
@@ -22,7 +22,7 @@
 
 [sel SEL_005_0_0 top]
 [s]Você me faz corar.[e]
-[s]Obrigada.[e]
+[s]Obrigado.[e]
 
 [msg MSG_006_0_0 [Futaba]]
 [s][bup 0 8 7 65535 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Não enrubesça, ou eu também...[n][f 1 3 65535][w][e]
@@ -77,7 +77,7 @@
 [s]Surpresa.[e]
 
 [msg MSG_022_0_0 [Futaba]]
-[s][bup 0 8 6 65535 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]OK, vou tentar...[n][f 1 3 65535][w][e]
+[s][bup 0 8 6 65535 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Ok, vou tentar...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]...Sim, agora entendi.[n]Estou tão... feliz.[n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Futaba]]
@@ -103,7 +103,7 @@
 [s][bup 0 8 6 65535 0][f 4 10 65535 0 0][vp 8 0 0 32 65535 0]Hehe... Sim.[n][f 1 3 65535][w][e]
 
 [msg MSG_029_0_0 [Futaba]]
-[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 33 65535 0]Você não é mais um Ladrão Fantasma,[n]mas eu diria que você ainda sabe[n]como roubar um coração.[n][f 1 3 65535][w][e]
+[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 33 65535 0]Você não é mais um Phantom Thief,[n]mas eu diria que você ainda sabe[n]como roubar um coração.[n][f 1 3 65535][w][e]
 
 [sel SEL_030_0_0 top]
 [s]Roubar?[e]

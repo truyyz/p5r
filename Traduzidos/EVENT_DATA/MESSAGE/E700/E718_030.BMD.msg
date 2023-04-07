@@ -14,7 +14,7 @@
 [s][bup 0 111 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 19079 65535 0]Espera, sério…? Ladrões[n]devem roubar corações[n]das garotas! Todo mundo sabe![n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Mishima]]
-[s][bup 0 111 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 19024 65535 0][f 5 13 19 10 1011]Sim, você tem que roubar o coração de uma[n]garota se quiser ser chamado de[n]Ladrão Fantasma. Vamos indo![n][f 1 3 65535][w][e]
+[s][bup 0 111 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 19024 65535 0][f 5 13 19 10 1011]Sim, você tem que roubar o coração de uma[n]garota se quiser ser chamado de[n]Phantom Thief. Vamos indo![n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Mishima]]
 [s][bup 0 111 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 19029 65535 0][f 5 13 19 5 1011]Hã...?!?[n][f 1 3 65535][w][e]
@@ -69,7 +69,7 @@
 [s][bup 0 111 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 39 5 100]Hã? Oh não! Não estou chamando você de[n]mentiroso...[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Mishima]]
-[s][bup 0 111 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 19022 65535 0]OK...Ok...[n][f 1 3 65535][w][e]
+[s][bup 0 111 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 19022 65535 0]Ok...Ok...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Talvez da próxima vez...[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Mishima]]

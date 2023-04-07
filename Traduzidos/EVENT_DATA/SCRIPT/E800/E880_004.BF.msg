@@ -17,7 +17,7 @@
 [s][vp 1 0 0 0 0 0]Faltam apenas dez dias[n]para Medjed expirar...[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_0812_2]
-[s][vp 1 0 0 0 0 0]O que os[n]ladrões fantasmas estão fazendo?[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]O que os[n]Phantom Thieves estão fazendo?[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_0812_3]
 [s][vp 1 0 0 0 0 0]Eles vão deixar[n]Medjed fazer o que quiser?[n][f 1 3 65535][w][e]
@@ -119,7 +119,7 @@
 [s][vp 1 0 0 0 0 0]Estamos com você, Shido! Nós[n]queremos você como primeiro-ministro![n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_YOKOKUGO_1201_]
-[s][vp 1 0 0 0 0 0]Aquele ladrão[n]fantasma ainda está vivo? Sério?[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Aquele Phantom[n]Thief ainda está vivo? Sério?[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_YOKOKUGO_1201__2]
 [s][vp 1 0 0 0 0 0]Será mentira.[n]Não há provas.[n][f 1 3 65535][w][e]

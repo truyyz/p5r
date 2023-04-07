@@ -9,7 +9,7 @@
 
 [sel SEL_004_0_0 top]
 [s][f 5 14]Eu te conto amanhã.[e]
-[s]No ponto de encontro, OK?[e]
+[s]No ponto de encontro, Ok?[e]
 
 [msg MSG_005_0_0 [Ryuji]]
 [s][f 5 14]Uo-ho![n][w][e]

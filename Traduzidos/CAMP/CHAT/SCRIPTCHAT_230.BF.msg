@@ -9,7 +9,7 @@
 [s]Foi irritante.[e]
 
 [msg MSG_035_0_0 [Mishima]]
-[s][f 5 14]Os Ladrões Fantasmas, seus porcos?!? Você[n]fez bem em despertar o coração dele![n][w][e]
+[s][f 5 14]Os Phantom Thieves, seus porcos?!? Você[n]fez bem em despertar o coração dele![n][w][e]
 
 [msg MSG_036_0_0 [Mishima]]
 [s][f 5 14]Você está brincando certo? Ou você é[n]realmente um masoquista...?[n][w][e]

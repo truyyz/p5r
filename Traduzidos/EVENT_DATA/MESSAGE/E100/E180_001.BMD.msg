@@ -15,7 +15,7 @@
 [s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Nossos nomes aparecerão para[n]certamente. Houve muitos[n]rumores sobre nós e Kamoshida...[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Mas nós os gaseamos! Você[n]ouve coisas como "Os Ladrões Fantasmas[n]realmente roubaram o coração dele!"[n][f 1 3 65535][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Mas nós os gaseamos! Você[n]ouve coisas como "Os Phantom Thieves[n]realmente roubaram o coração dele!"[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]A maioria das pessoas[n]não acredita, mas algumas[n]parecem agradecer.[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Ryuji]]

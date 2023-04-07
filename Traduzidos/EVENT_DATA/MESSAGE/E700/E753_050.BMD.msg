@@ -10,7 +10,7 @@
 [s][bup 0 106 1 65535 0][f 4 10 65535 0 0][f 4 24 0 4 6 38 5 100][vp 8 0 0 5 65535 0]Parece a ocasião perfeita[n]para comemorar seu retorno e[n]expressar minha gratidão.[n][f 1 3 65535][w][e]
 
 [sel SEL_003_0_0 top]
-[s]Obrigada.[e]
+[s]Obrigado.[e]
 [s]Eu os aceito de bom grado.[e]
 
 [msg MSG_004_0_0 [Hifumi]]

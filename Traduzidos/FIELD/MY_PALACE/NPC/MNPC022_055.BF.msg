@@ -47,7 +47,7 @@
 [s][bup 0 5 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 42 10 0 10][vp 8 2 1 4090 65535 0]Então, ao invés de colaborar[n]nós nos enfrentamos como adversários...[n]Interessante. Eu aceito o desafio.[n][w][e]
 
 [msg MES_GROUP3_03 [Morgana]]
-[s][bup 0 3 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 1163 65535 0]OK, mas sem restrições. Olhe para mim, Lady Ann![n]Eu vou te mostrar como os homens de verdade[n]jogam![n][w][e]
+[s][bup 0 3 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 1163 65535 0]Ok, mas sem restrições. Olhe para mim, Lady Ann![n]Eu vou te mostrar como os homens de verdade[n]jogam![n][w][e]
 
 [msg MES_GROUP3_04 [Sumire]]
 [s][bup 0 10 3 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 41 10 0 10][vp 8 2 1 57037 65535 0]...Quem sabe como[n]ele vai jogar sem os polegares.[n][w][e]

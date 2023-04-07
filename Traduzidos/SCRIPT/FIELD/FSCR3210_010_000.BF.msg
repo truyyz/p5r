@@ -150,7 +150,7 @@
 [msg MND_Remind_Uwasa_Arbeit]
 [s]Ai acabei de me lembrar...[n][w][e]
 [s]Posso ganhar alguns centavos trabalhando meio[n]período.[n][w][e]
-[s]Há revistas com anúncios de emprego na passagem[n]subterrânea da estação Shibuya.[n][w][e]
+[s]Há revistas com anúncios de emprego na passagem[n]subterrânea da Estação Shibuya.[n][w][e]
 [s]Eu deveria assistir algum dia...[n][w][e]
 
 [msg MND_Remind_Uwasa_Yoshida]
@@ -277,7 +277,7 @@
 [msg MND_Remind_ArbeitFlower]
 [s]Ai acabei de me lembrar...[n][w][e]
 [s]Liguei para falar sobre um emprego de meio[n]período na floricultura.[n][w][e]
-[s]É no shopping subterrâneo[n]da estação de Shibuya.[n]Eu deveria ir lá algum dia...[n][w][e]
+[s]É no Shopping Subterrâneo[n]da estação de Shibuya.[n]Eu deveria ir lá algum dia...[n][w][e]
 
 [msg MND_Remind_ArbeitBar]
 [s]Ai acabei de me lembrar...[n][w][e]

@@ -9,7 +9,7 @@
 [sel SEL_002_0_0 top]
 [s]Site Phantom Aficionado[e]
 [s]Site do Entusiasta Fantasma[e]
-[s]Eu amo ladrões fantasmas.[e]
+[s]Eu amo Phantom Thieves.[e]
 
 [msg MSG_003_0_0 [Shinya]]
 [s][bup 0 110 0 0 0][f 4 10 65535 0 0][vp 8 2 0 17035 65535 0]...Claro que você respondeu certo,[n]já que você os conhece pessoalmente.[n][f 1 3 65535][w][e]

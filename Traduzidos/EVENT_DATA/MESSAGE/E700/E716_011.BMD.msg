@@ -72,7 +72,7 @@
 [s][vp 8 0 0 31 65535 0]E é por isso que[n]todo mundo apenas olha para ele...[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Shinya]]
-[s][bup 0 110 0 0 0][f 4 10 65535 0 0][vp 8 0 0 32 65535 0]...OK, você meio que[n]entende como funciona.[n][f 1 3 65535][w][e]
+[s][bup 0 110 0 0 0][f 4 10 65535 0 0][vp 8 0 0 32 65535 0]...Ok, você meio que[n]entende como funciona.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 33 65535 0]Agora você deve ser capaz de[n]vencer o trapaceiro.[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Shinya]]

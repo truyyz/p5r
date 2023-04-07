@@ -32,7 +32,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Faz sentido, já que você[n]aprendeu. Está bem. Vamos lá.[n][f 1 3 65535][w][e]
 
 [msg MND_203_6_0]
-[s][vp 8 2 0 0 65535 0]OK, isso deve tornar o jogo mais fácil...[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0]Ok, isso deve tornar o jogo mais fácil...[n][f 1 3 65535][w][e]
 
 [msg HLP_BOOK_NG_01]
 [s][vp 8 2 0 0 65535 0]Pressione [f 1 10 75] o suficiente[n]vezes antes que o tempo acabe.[n][f 1 3 65535][w][e]
@@ -128,7 +128,7 @@
 [s][vp 8 2 0 0 65535 0]Inimigos saem de buracos[n]no fundo...![n][f 1 3 65535][w][e]
 
 [msg MSG_039_0_0 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]OK, você conseguiu sobreviver.[n]Mas será mesmo o fim...?[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Ok, você conseguiu sobreviver.[n]Mas será mesmo o fim...?[n][f 1 3 65535][w][e]
 
 [msg MND_039_1_0]
 [s][vp 8 2 0 10 65535 0]Eu consegui...[n][f 1 3 65535][w][e]

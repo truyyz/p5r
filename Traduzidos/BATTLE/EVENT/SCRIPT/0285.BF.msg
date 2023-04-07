@@ -26,7 +26,7 @@
 [s][bup 0 3 1 0 0][vp 8 0 2 1028 0 3]Heh heh... parece que[n]você realmente vai ser útil para mim![n][f 1 3 65535][w][e]
 
 [msg MSG_BTLSTART_009 [Morgana]]
-[s]OK, vou tentar lembrar[n]suas fraquezas.[n][f 1 3 65535][w][e]
+[s]Ok, vou tentar lembrar[n]suas fraquezas.[n][f 1 3 65535][w][e]
 
 [msg MSG_BTLSTART_010 [Morgana]]
 [s]Afinal, eu tenho uma[n]memória excelente! É apenas um dos meus[n]muitos talentos do Phantom Thief![n][f 1 3 65535][w][e]

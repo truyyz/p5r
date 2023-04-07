@@ -18,7 +18,7 @@
 
 [msg MES_GROUP1_02 [Morgana]]
 [s][bup 0 3 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 1067 65535 0]Eu diria que você não deixava ir à sua[n]cabeça, mas estou em total acordo aqui.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 36 10 0 10]Casinos e ladrões fantasmas andam juntos[n]como biscoitos e leite![n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 36 10 0 10]Casinos e Phantom Thieves andam juntos[n]como biscoitos e leite![n][w][e]
 
 [msg MES_GROUP2_01 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 41 10 0 10][vp 8 2 1 4107 65535 0]Eu tenho que dizer... esta é realmente uma[n]máquina de caça-níqueis impressionante.[n][w][e]
@@ -51,7 +51,7 @@
 
 [msg MES_GROUP4_03 [Morgana]]
 [s][bup 0 3 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 3 10 0 10]Foi uma aposta. Literalmente.[n][w][e]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 1175 65535 0]Heh... um plano perfeito para ladrões[n]fantasmas.[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 1175 65535 0]Heh... um plano perfeito para Phantom[n]Thieves.[n][w][e]
 
 [msg MES_GROUP4_04 [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 3 10 0 10]Bem, eu nunca duvidei do cara. Eu sabia que[n]ele iria passar.[n][w][e]

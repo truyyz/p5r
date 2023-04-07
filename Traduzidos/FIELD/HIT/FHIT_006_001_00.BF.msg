@@ -168,7 +168,7 @@
 [s][bup 0 3 7 0 0][f 4 10 65535 0 0][vp 8 2 1 1044 65535 0]É como se esses humanos fossem[n]catálogos de informações para[n]nosso benefício. É triste...[n][w][e]
 
 [msg MSG_DEADEND01_moru [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1020 65535 0]Não fique muito tempo,[n]OK? Caso contrário, você pode se perder.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1020 65535 0]Não fique muito tempo,[n]Ok? Caso contrário, você pode se perder.[n][w][e]
 
 [msg MSG_Book_Open [Funcionário da biblioteca]]
 [s]Bem-vindo... Uau, você parece muito[n]jovem. Eu não posso te vender[n]livros adultos, ok?[n][w][e]
@@ -192,7 +192,7 @@
 [s]Não, está tudo bem.[e]
 
 [msg MSG_BookCheckEnd [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1172 65535 0]OK, então...[n]Vamos lá.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1172 65535 0]Ok, então...[n]Vamos lá.[n][w][e]
 
 [msg MSG_BookCheckCommon [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1035 65535 0]Voltaremos em outra ocasião.[n]Você pode achar alguns livros[n]interessantes.[n][w][e]

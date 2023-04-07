@@ -175,7 +175,7 @@
 [s][bup 0 6 5 65535 0][f 4 10 65535 0 0]Ei! Você está procurando problemas?[n][w][e]
 
 [msg SAFETY_MES_MAKOTO_07_01 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 2019 65535 0]A irmã vai ficar bem...OK?[n]Certamente ela vai entender...[n][w][e]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 2019 65535 0]A irmã vai ficar bem...Ok?[n]Certamente ela vai entender...[n][w][e]
 
 [msg SAFETY_MES_MAKOTO_08_01 [Makoto]]
 [s][bup 0 6 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 2048 65535 0]Eu tenho me sentido muito em[n]forma ultimamente. Acho que lutar contra[n]Shadows é um ótimo treinamento.[n][w][e]

@@ -32,7 +32,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Faz sentido, já que você[n]aprendeu. Está bem. Vamos lá.[n][f 1 3 65535][w][e]
 
 [msg MND_203_6_0]
-[s][vp 8 2 0 0 65535 0]OK, isso deve tornar o jogo mais fácil...[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0]Ok, isso deve tornar o jogo mais fácil...[n][f 1 3 65535][w][e]
 
 [msg HLP_BOOK_NG_01]
 [s][vp 8 2 0 0 65535 0]Pressione [f 1 10 67] seguindo as setas mostradas[n]na tela enquanto o tempo se esgota, então[n]pressione [clr 2][f 1 10 75][clr 27] para atacar.[n][f 1 3 65535][w][e]
@@ -80,7 +80,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Ele é definitivamente mais forte que o primeiro[n]inimigo. Você precisará jogar agressivamente.[n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_1 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 0 1179 65535 0][f 4 22 65535 1 1]OK, você está atrás dele![n]Agora ative o combo![n][f 1 3 65535][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 0 1179 65535 0][f 4 22 65535 1 1]Ok, você está atrás dele![n]Agora ative o combo![n][f 1 3 65535][w][e]
 
 [msg MND_023_1_0]
 [s][vp 8 2 0 0 65535 0]Minha oponente é uma artista marcial[n]experiente em kung fu.[n]Como ela é rápida![n][f 1 3 65535][w][e]
@@ -94,7 +94,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Você vai precisar de um[n]big combo para vencê-la. Aproveite[n]a oportunidade quando ela aparecer![n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_1 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 0 1179 65535 0][f 4 22 65535 1 1]OK, você está atrás dele![n]Agora ative o combo![n][f 1 3 65535][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 0 1179 65535 0][f 4 22 65535 1 1]Ok, você está atrás dele![n]Agora ative o combo![n][f 1 3 65535][w][e]
 
 [msg MND_024_1_0]
 [s][vp 8 2 0 0 65535 0]Eu tenho que enfrentar[n]aquele especialista em kung fu novamente...[n][f 1 3 65535][w][e]

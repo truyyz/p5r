@@ -30,7 +30,7 @@
 [s][f 5 14]Entendo... Então não tem como descobrir.[n][w][e]
 
 [msg MSG_004_0_0 [Yusuke]]
-[s][f 5 14]Se continuarmos como Ladrões Fantasmas,[n]talvez descubramos.[n][w][e]
+[s][f 5 14]Se continuarmos como Phantom Thieves,[n]talvez descubramos.[n][w][e]
 
 [msg MSG_005_0_0 [Yusuke]]
 [s][f 5 14]O mais importante é descobrir[n]a identidade desse criminoso[n]usando o Metaverso.[n][w][e]

@@ -306,7 +306,7 @@
 [s][vp 9 2 65535 42106 0 0]No fórum[n]Phantom Thieves você pode[n]propor alvos![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_012_02_ [Mulher com um quarto]]
-[s][vp 9 2 65535 42503 0 0]Na Internet só se fala[n]de Ladrões Fantasmas[n]que atacam os bandidos![n][f 1 2 180][e]
+[s][vp 9 2 65535 42503 0 0]Na Internet só se fala[n]de Phantom Thieves[n]que atacam os bandidos![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_012_03_ [Mulher com um quarto]]
 [s][vp 9 2 65535 42606 0 0]Parece que muitos[n]apreciam o trabalho dos[n]Phantom Thieves![n][f 1 2 180][e]
@@ -315,7 +315,7 @@
 [s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_013_01_ [Mulher com um quarto]]
-[s][vp 9 2 65535 38403 0 0]Tudo começou aqui com[n]Kamoshida. Você acha que[n]Ladrões Fantasmas são...?[n][f 1 2 180][e]
+[s][vp 9 2 65535 38403 0 0]Tudo começou aqui com[n]Kamoshida. Você acha que[n]Phantom Thieves são...?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_013_02_ [Mulher com um quarto]]
 [s][vp 9 2 65535 40306 0 0]É graças aos[n]Phantom Thieves que[n]as pessoas más se arrependem?[n][f 1 2 180][e]
@@ -384,7 +384,7 @@
 [s][vp 9 2 65535 41906 0 0]Ah, você sabe? Um repórter[n]me perguntou sobre os[n]Phantom Thieves.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_018_02_ [Mulher com um quarto]]
-[s][vp 9 2 65535 39104 0 0]Quem sabe que tipo de[n]pessoas esses Ladrões Fantasmas realmente são.[n][f 1 2 180][e]
+[s][vp 9 2 65535 39104 0 0]Quem sabe que tipo de[n]pessoas esses Phantom Thieves realmente são.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_018_03_ [Mulher com um quarto]]
 [s][vp 9 2 65535 40206 0 0]Para onde quer que você vire, todos[n]sempre e apenas falam[n]sobre os Phantom Thieves![n][f 1 2 180][e]
@@ -1134,7 +1134,7 @@
 [s][vp 9 2 65535 38554 0 0]Seria bom se[n]eles realmente existissem...[n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_160 [Mulher com um quarto]]
-[s][vp 9 2 65535 38655 0 0]Você acredita que ladrões[n]fantasmas existem?[n][f 1 2 180][e]
+[s][vp 9 2 65535 38655 0 0]Você acredita que Phantom[n]Thieves existem?[n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_161 [Mulher com um quarto]]
 [s][vp 9 2 65535 37503 0 0]Parece que o principal[n]perpetrador foi preso![n][f 1 2 180][e]
@@ -1191,10 +1191,10 @@
 [s][vp 9 2 65535 37556 0 0]Seria incrível se[n]eles fossem realmente os[n]Phantom Thieves![n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_179 [Mulher com um quarto]]
-[s][vp 9 2 65535 37656 0 0]Portanto, os rumores sobre os[n]Ladrões Fantasmas eram verdadeiros.[n][f 1 2 180][e]
+[s][vp 9 2 65535 37656 0 0]Portanto, os rumores sobre os[n]Phantom Thieves eram verdadeiros.[n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_180 [Mulher com um quarto]]
-[s][vp 9 2 65535 37704 0 0]Você viu a notícia? Aparentemente foram[n]os Ladrões Fantasmas![n][f 1 2 180][e]
+[s][vp 9 2 65535 37704 0 0]Você viu a notícia? Aparentemente foram[n]os Phantom Thieves![n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_181 [Mulher com um quarto]]
 [s][vp 9 2 65535 37850 0 0]Então a[n]carta de aviso dos Phantom Thieves[n]não era uma piada![n][f 1 2 180][e]
@@ -1227,7 +1227,7 @@
 [s][vp 9 2 65535 38504 0 0]Aparentemente, eles são alguns caras[n]que se autodenominam[n]Phantom Thieves.[n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_191 [Mulher com um quarto]]
-[s][vp 9 2 65535 38550 0 0]Portanto, os rumores sobre os[n]Ladrões Fantasmas eram verdadeiros.[n][f 1 2 180][e]
+[s][vp 9 2 65535 38550 0 0]Portanto, os rumores sobre os[n]Phantom Thieves eram verdadeiros.[n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_192 [Mulher com um quarto]]
 [s][vp 9 2 65535 38654 0 0]É verdade que[n]Phantom Thieves resolveu[n]aquele incidente?!?[n][f 1 2 180][e]
@@ -1254,7 +1254,7 @@
 [s][vp 9 2 65535 37954 0 0]Medjed parece ter um[n]interesse particular nos[n]Phantom Thieves.[n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_200 [Mulher com um quarto]]
-[s][vp 9 2 65535 38054 0 0]Eles estão dizendo a ele todas as[n]cores... Quem sabe o que[n]os Ladrões Fantasmas farão...[n][f 1 2 180][e]
+[s][vp 9 2 65535 38054 0 0]Eles estão dizendo a ele todas as[n]cores... Quem sabe o que[n]os Phantom Thieves farão...[n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_201 [Mulher com um quarto]]
 [s][vp 9 2 65535 38151 0 0]O que Medjed vai querer?[n][f 1 2 180][e]
@@ -1266,7 +1266,7 @@
 [s][vp 9 2 65535 38254 0 0]Medjed está indo duro nisso. Mas que[n]intenções eles terão?[n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_204 [Mulher com um quarto]]
-[s][vp 9 2 65535 38355 0 0]Eles estão dizendo a ele todas as[n]cores... Quem sabe o que[n]os Ladrões Fantasmas farão...[n][f 1 2 180][e]
+[s][vp 9 2 65535 38355 0 0]Eles estão dizendo a ele todas as[n]cores... Quem sabe o que[n]os Phantom Thieves farão...[n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_205 [Mulher com um quarto]]
 [s][vp 9 2 65535 38455 0 0]Medjed? Ugh, que ótima[n]pausa...[n][f 1 2 180][e]
@@ -1278,7 +1278,7 @@
 [s][vp 9 2 65535 38554 0 0]Quem sabe o que[n]os Phantom Thieves farão sobre[n]sobre Medjed...[n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_208 [Mulher com um quarto]]
-[s][vp 9 2 65535 38654 0 0]Eles estão dizendo a ele todas as[n]cores... Quem sabe o que[n]os Ladrões Fantasmas farão...[n][f 1 2 180][e]
+[s][vp 9 2 65535 38654 0 0]Eles estão dizendo a ele todas as[n]cores... Quem sabe o que[n]os Phantom Thieves farão...[n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_209 [Mulher com um quarto]]
 [s][vp 9 2 65535 37504 0 0]O que os Phantom Thieves[n]faz[n]contra os hackers?[n][f 1 2 180][e]
@@ -1308,7 +1308,7 @@
 [s][vp 9 2 65535 38155 0 0]Vamos, Phantom Thieves...[n]falem.[n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_218 [Mulher com um quarto]]
-[s][vp 9 2 65535 38205 0 0]O que[n]os Ladrões Fantasmas estão fazendo...?[n][f 1 2 180][e]
+[s][vp 9 2 65535 38205 0 0]O que[n]os Phantom Thieves estão fazendo...?[n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_219 [Mulher com um quarto]]
 [s][vp 9 2 65535 38254 0 0]Os Phantom Thieves estão[n]mantendo silêncio.[n]Como isso vai acabar?[n][f 1 2 180][e]
@@ -1320,7 +1320,7 @@
 [s][vp 9 2 65535 38452 0 0]Vamos, Phantom Thieves...[n]falem.[n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_222 [Mulher com um quarto]]
-[s][vp 9 2 65535 38501 0 0]O que[n]os Ladrões Fantasmas estão fazendo...?[n][f 1 2 180][e]
+[s][vp 9 2 65535 38501 0 0]O que[n]os Phantom Thieves estão fazendo...?[n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_223 [Mulher com um quarto]]
 [s][vp 9 2 65535 38554 0 0]Os Phantom Thieves estão[n]mantendo silêncio.[n]Como isso vai acabar?[n][f 1 2 180][e]
@@ -1338,7 +1338,7 @@
 [s][vp 9 2 65535 37656 0 0]Parece que os Phantom Thieves[n]derrotaram Medjed![n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_228 [Mulher com um quarto]]
-[s][vp 9 2 65535 37706 0 0]Os Ladrões Fantasmas[n]os derrotaram? Louco![n][f 1 2 180][e]
+[s][vp 9 2 65535 37706 0 0]Os Phantom Thieves[n]os derrotaram? Louco![n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_229 [Mulher com um quarto]]
 [s][vp 9 2 65535 37800 0 0]Parece que o site[n]Medjed foi sabotado![n][f 1 2 180][e]
@@ -1368,7 +1368,7 @@
 [s][vp 9 2 65535 38450 0 0]É realmente louco[n]que eles derrotaram[n]Medjed![n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_238 [Mulher com um quarto]]
-[s][vp 9 2 65535 38504 0 0]Para que serve a polícia[n]quando há Ladrões Fantasmas?[n][f 1 2 180][e]
+[s][vp 9 2 65535 38504 0 0]Para que serve a polícia[n]quando há Phantom Thieves?[n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_239 [Mulher com um quarto]]
 [s][vp 9 2 65535 38550 0 0]Parece que o site[n]Medjed foi fechado![n][f 1 2 180][e]
@@ -1713,7 +1713,7 @@
 [s][vp 9 2 65535 38657 0 0]Prenda os Phantom Thieves[n]antes que eles façam[n]algo comigo também![n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_353 [Mulher com um quarto]]
-[s][vp 9 2 65535 37507 0 0]Uma recompensa será suficiente para[n]garantir a prisão dos[n]ladrões fantasmas?[n][f 1 2 180][e]
+[s][vp 9 2 65535 37507 0 0]Uma recompensa será suficiente para[n]garantir a prisão dos[n]Phantom Thieves?[n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_354 [Mulher com um quarto]]
 [s][vp 9 2 65535 37557 0 0]A recompensa por[n]Phantom Thieves é a maior[n]da história aqui![n][f 1 2 180][e]
@@ -1731,7 +1731,7 @@
 [s][vp 9 2 65535 37904 0 0]30 milhões de ienes...[n]Parece ser a[n]maior recompensa já dada...[n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_359 [Mulher com um quarto]]
-[s][vp 9 2 65535 37957 0 0]Uma recompensa, hein... Bem,[n]se isso ajudar a parar os[n]Ladrões Fantasmas...[n][f 1 2 180][e]
+[s][vp 9 2 65535 37957 0 0]Uma recompensa, hein... Bem,[n]se isso ajudar a parar os[n]Phantom Thieves...[n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_360 [Mulher com um quarto]]
 [s][vp 9 2 65535 38057 0 0]Evidentemente a polícia está[n]disposta a fazer qualquer coisa para[n]pegá-los...[n][f 1 2 180][e]
@@ -1755,7 +1755,7 @@
 [s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_367 [Mulher com um quarto]]
-[s][vp 9 2 65535 38551 0 0]A polícia finalmente[n]está levando a sério[n]aqueles ladrões fantasmas...[n][f 1 2 180][e]
+[s][vp 9 2 65535 38551 0 0]A polícia finalmente[n]está levando a sério[n]aqueles Phantom Thieves...[n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_368 [Mulher com um quarto]]
 [s][vp 9 2 65535 38652 0 0]Espero que os Phantom Thieves[n]continuem mudando a sociedade![n][f 1 2 180][e]
@@ -1845,7 +1845,7 @@
 [s][vp 9 2 65535 38351 0 0]Os raptus são todos obra[n]dos Phantom Thieves, certo?[n]Alguém faça alguma coisa...[n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_397 [Mulher com um quarto]]
-[s][vp 9 2 65535 38457 0 0]Alguém tem que parar[n]os Ladrões Fantasmas... A[n]polícia é incompetente![n][f 1 2 180][e]
+[s][vp 9 2 65535 38457 0 0]Alguém tem que parar[n]os Phantom Thieves... A[n]polícia é incompetente![n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_398 [Mulher com um quarto]]
 [s][vp 9 2 65535 38507 0 0]Alguém vai[n]fazer alguma coisa?!?[n][f 1 2 180][e]
@@ -1854,7 +1854,7 @@
 [s][vp 9 2 65535 38551 0 0]Não podemos contar nem com a polícia...[n]Alguém faça alguma coisa...[n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_400 [Mulher com um quarto]]
-[s][vp 9 2 65535 38651 0 0]Quando[n]aqueles Ladrões Fantasmas serão presos?!?[n][f 1 2 180][e]
+[s][vp 9 2 65535 38651 0 0]Quando[n]aqueles Phantom Thieves serão presos?!?[n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_401 [Mulher com um quarto]]
 [s][vp 9 2 65535 37500 0 0]Parece que Shido-san é[n]muito inteligente para ser[n]um político![n][f 1 2 180][e]
@@ -1932,7 +1932,7 @@
 [s][vp 9 2 65535 38151 0 0]O líder dos[n]Phantom Thieves está realmente morto?!?[n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_426 [Mulher com um quarto]]
-[s][vp 9 2 65535 38205 0 0]Um dos Ladrões Fantasmas[n]suicidou-se? Evidentemente[n]ele estava perturbado...[n][f 1 2 180][e]
+[s][vp 9 2 65535 38205 0 0]Um dos Phantom Thieves[n]suicidou-se? Evidentemente[n]ele estava perturbado...[n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_427 [Mulher com um quarto]]
 [s][vp 9 2 65535 38252 0 0]Eles o prenderam e depois[n]se mataram? Mas o que[n]está acontecendo?!?[n][f 1 2 180][e]
@@ -2133,7 +2133,7 @@
 [s][vp 9 2 65535 38351 0 0]Achei que[n]iríamos conseguir, com o Representante[n]Shido do nosso lado![n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_493 [Mulher com um quarto]]
-[s][vp 9 2 65535 38451 0 0]Porque? Gosta...? Shido-san...[n][f 1 2 180][e]
+[s][vp 9 2 65535 38451 0 0]Por quê? Gosta...? Shido-san...[n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_494 [Mulher com um quarto]]
 [s]0[n][f 1 2 180][e]

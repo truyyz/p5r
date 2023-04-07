@@ -325,7 +325,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 1 5 65535 0]Ok, desta vez vou pagar com[n]algum do meu estoque secreto,[n]mas da próxima vez é problema seu.[n][w][e]
 
 [msg MND_NG_GOTO_INOKASIRA_06 [Morgana]]
-[s][bup 0 3 4 65535 0][f 4 10 65535 0 0][vp 8 2 1 1029 65535 0]Ei, não ali![n]Não ande por aí,[n]OK?[n][w][e]
+[s][bup 0 3 4 65535 0][f 4 10 65535 0 0][vp 8 2 1 1029 65535 0]Ei, não ali![n]Não ande por aí,[n]Ok?[n][w][e]
 
 [msg MND_COMMON_GOTO_INOKASIR]
 [s][vp 8 2 65535 0 0 0]Não preciso fazer nada lá.[n]É melhor voltar...[n][w][e]
@@ -407,7 +407,7 @@
 [s]Eu deveria pegar a[n][clr 6]linha Ginza[clr 0]...[n][w][e]
 
 [msg SPOT_GO_INOKASIRA_RYUJI [Ryuji]]
-[s]OK, vamos para o[n]Parque Inokashira![n][w][e]
+[s]Ok, vamos para o[n]Parque Inokashira![n][w][e]
 
 [msg MSG_BAITO_MAGAZINE_SPOT]
 [s]Aqui estão algumas revistas de[n]anúncios de empregos de meio período...[n][w][e]

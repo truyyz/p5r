@@ -9,7 +9,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ei, tudo bem? Vamos verificar[n]todos juntos.[n][w][e]
 
 [msg e259_503_mes02 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]OK, esta é minha chance de surpreendê-lo![n]O código é, uh... H-E-W-J?[n][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ok, esta é minha chance de surpreendê-lo![n]O código é, uh... H-E-W-J?[n][w][e]
 
 [msg e259_503_mes03 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]É H-U-G-E, seu idiota![n]Aprenda a escrever![n][w][e]

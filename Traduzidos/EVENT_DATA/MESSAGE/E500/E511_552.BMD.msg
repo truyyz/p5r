@@ -21,7 +21,7 @@
 [s][bup 0 10 100 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Baixei a guarda por um momento,[n]mas juro que estou bem! Me desculpe[n]se deixei você preocupado.[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Akechi]]
-[s][bup 0 9 810 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]OK, tudo bem, mas não[n]nos atrase também.[n][f 1 3 65535][w][e]
+[s][bup 0 9 810 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Ok, tudo bem, mas não[n]nos atrase também.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Se você for além de suas[n]possibilidades, também colocará em perigo[n]seus companheiros de equipe.[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Futaba]]

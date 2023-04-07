@@ -16,7 +16,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Achei que você[n]gostaria de um relógio. No caso de perdermos[n]tempo juntos.[n][f 1 3 65535][w][e]
 
 [sel SEL_004_0_0 top]
-[s]Obrigada.[e]
+[s]Obrigado.[e]
 [s]Eu cuidarei disso.[e]
 
 [msg MSG_005_0_0 [Makoto]]

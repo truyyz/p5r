@@ -1,5 +1,5 @@
 [msg e194_110_mes01 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1181 65535 0]OK, agora vamos à infiltração![n][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1181 65535 0]Ok, agora vamos à infiltração![n][w][e]
 
 [msg e194_110_mes02 [Ryuji]]
 [s][bup 0 2 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ugh ... devemos fazer[n]aquela fila maluca?[n][w][e]
@@ -50,5 +50,5 @@
 [msg D02_04_e210_010_mes07 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 8 0 0]Não,[n]eles também devem entrar, mantendo uma[n]distância segura dos demais.[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 9 0 0]Em suma, o grupo inicial[n]será a vanguarda[n]da infiltração.[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 10 0 0]OK, a criação do[n]grupo depende de você, Joker.[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 10 0 0]Ok, a criação do[n]grupo depende de você, Joker.[n][w][e]
 

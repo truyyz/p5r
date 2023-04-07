@@ -34,7 +34,7 @@
 
 [msg MSG_E19310100_003_00 [Ryuji]]
 [s][bup 0 2 4 65535 0][f 4 10 65535 0 0][vp 8 0 1 4 65535 0]Aquele?!? Temos que fazer o resto do caminho a pé?[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 1 5 65535 0]Que tipo de Ladrão Fantasma é[n]aquele que pega o metrô,[n]desce e faz isso a pé?[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 1 5 65535 0]Que tipo de Phantom Thief é[n]aquele que pega o metrô,[n]desce e faz isso a pé?[n][w][e]
 
 [msg MSG_E19310100_004_00 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 1 6 65535 0]Pare de reclamar.[n][w][e]
@@ -63,6 +63,6 @@
 
 [msg MSG_E24310100_004_00 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Shibuya é grande, então limite[n]sua pesquisa. Se as vítimas são[n]principalmente estudantes...[n][w][e]
-[s][f 4 10 65535 0 0][vp 1 0 0 0 0 0]...Pesquisamos os lugares que eles[n]freqüentam, como a Central Street e[n]o shopping subterrâneo.[n][w][e]
+[s][f 4 10 65535 0 0][vp 1 0 0 0 0 0]...Pesquisamos os lugares que eles[n]freqüentam, como a Central Street e[n]o Shopping Subterrâneo.[n][w][e]
 [s][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Se encontrássemos alunos[n]da sua escola, mataríamos[n]dois coelhos com uma cajadada só. Vamos.[n][w][e]
 

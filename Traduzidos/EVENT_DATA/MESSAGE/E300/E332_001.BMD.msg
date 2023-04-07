@@ -53,7 +53,7 @@
 [s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Vamos...não vamos falar sobre isso...[n][f 1 3 65535][w][e]
 
 [msg MSG_014_2_0 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Como você se tornou um[n]Ladrão Fantasma?[n][f 1 3 65535][w][e]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Como você se tornou um[n]Phantom Thief?[n][f 1 3 65535][w][e]
 
 [msg MSG_014_5_0 [Haru]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 7 5 301 1][f 1 12][e]
@@ -79,7 +79,7 @@
 [msg MSG_021_0_0 [Haru]]
 [s][bup 0 7 200 65535 0][f 4 10 65535 0 0][vp 8 0 0 27 65535 0]E quando o segui,[n]acabei no Metaverso...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 28 65535 0]Não posso mudar[n]a empresa do meu pai...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 29 65535 0]Mas talvez, como o Ladrão Fantasma,[n]eu possa tentar mudá-lo...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 29 65535 0]Mas talvez, como o Phantom Thief,[n]eu possa tentar mudá-lo...[n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 30 65535 0]Não podemos trabalhar juntos?[n][f 1 3 65535][w][e]

@@ -8,5 +8,5 @@
 [s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Hum, se você ver a Terra daqui,[n]devemos estar na Lua...[n][w][e]
 
 [msg D05_01_e328_011_AF_mes02 [Futaba]]
-[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Cara, ser um Ladrão Fantasma é a coisa mais legal[n]do mundo![n][w][e]
+[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Cara, ser um Phantom Thief é a coisa mais legal[n]do mundo![n][w][e]
 

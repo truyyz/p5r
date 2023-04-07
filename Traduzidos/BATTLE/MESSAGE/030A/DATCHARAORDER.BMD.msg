@@ -33,7 +33,7 @@
 [s][bup 0 4 102 65535 0][f 4 10 65535 0 0][vp 8 0 2 1032 0 4]Temos que acabar com isso.[n][w][e]
 
 [msg charaorder_Ann_01 [Ann]]
-[s][vp 8 0 2 1039 0 4]Você quer que eu faça isso...?[n]OK, darei tudo de mim.[n][w][e]
+[s][vp 8 0 2 1039 0 4]Você quer que eu faça isso...?[n]Ok, darei tudo de mim.[n][w][e]
 
 [msg charaorder_Ann_02 [Ann]]
 [s][vp 8 0 2 1046 0 4]Ok, Joker![n][w][e]

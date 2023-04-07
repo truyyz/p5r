@@ -5,7 +5,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eles provavelmente foram[n]movidos para outro lugar.[n][w][e]
 
 [msg D01_02_e129_041_mes03 [Ryuji]]
-[s][bup 0 2 2 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Mas onde?!? E porque?!?[n][w][e]
+[s][bup 0 2 2 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Mas onde?!? E por quê?!?[n][w][e]
 
 [msg D01_02_e129_041_mes04 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Não me pergunte![n][w][e]
@@ -21,7 +21,7 @@
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 7024 65535 0]Já passamos por tudo,[n]mas finalmente podemos roubar o[n]Tesouro! Estou carregado![n][w][e]
 
 [msg SAFETY_MES_RYUJI_02 [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 7048 65535 0]Não há nada melhor do que um[n]Relay! Dê-me um grito[n]a qualquer momento, OK?[n][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 7048 65535 0]Não há nada melhor do que um[n]Relay! Dê-me um grito[n]a qualquer momento, Ok?[n][w][e]
 
 [msg SAFETY_MES_RYUJI_03 [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 7162 65535 0]Você pode me dar ordens ou pode me deixar[n]livre para decidir...[n]A escolha é sua.[n][w][e]

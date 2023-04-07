@@ -41,7 +41,7 @@
 [s][bup 0 4 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]E você quer que a gente comece com isso?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Makoto]]
-[s][bup 0 6 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Você deve ser capaz de… Se[n]realmente vocês são os vigilantes que[n]chamam a si mesmos de "Ladrões Fantasmas".[n][f 1 3 65535][w][e]
+[s][bup 0 6 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Você deve ser capaz de… Se[n]realmente vocês são os vigilantes que[n]chamam a si mesmos de "Phantom Thieves".[n][f 1 3 65535][w][e]
 [s][bup 0 6 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Ou talvez Akechi-kun esteja certo,[n]quando ele diz que suas[n]ações são ilegítimas?[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Morgana]]

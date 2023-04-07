@@ -17,7 +17,7 @@
 [s][f 5 14]Roda Gigante de Odaiba![n][w][e]
 
 [msg CHAT_REACTION_03 [Chihaya]]
-[s][f 5 14]As cartas dizem isso! OK,[n]te espero![n][f 5 15][w][e]
+[s][f 5 14]As cartas dizem isso! Ok,[n]te espero![n][f 5 15][w][e]
 
 [msg MSG_MORUGANA_CORPNG [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Você ainda deve estar cansado da jornada do[n]Metaverso. Talvez[n]você devesse descansar hoje.[n][f 1 3 65535][w][e]

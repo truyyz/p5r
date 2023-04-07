@@ -3,7 +3,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não fique muito tempo em Shinjuku[n]depois de escurecer, querida. Existem[n]muitos caras obscuros por aí.[n][f 1 3 65535][w][e]
 
 [msg MSG_000_5_0 [Ohya]]
-[s][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 16149 65535 0]Lala-chaaan!?! Onde você estáiii?[n][f 1 3 65535][w][e]
+[s][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 16149 65535 0]Lala-chaaan!?! Onde você estááá?[n][f 1 3 65535][w][e]
 [s][bup 0 107 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ei! Lala-chaaan! Vamos, onde você está?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Lala Escargot]]

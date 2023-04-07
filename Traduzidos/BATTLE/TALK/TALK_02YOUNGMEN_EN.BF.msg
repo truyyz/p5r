@@ -46,7 +46,7 @@
 [s]Eheh, acho que chega.[n]Vou libertar seu amiguinho.[n][w][e]
 
 [msg TalkMsg_EN_AGREE_01]
-[s]OK, já chega. Aqui,[n]leve de volta seu amiguinho.[n][w][e]
+[s]Ok, já chega. Aqui,[n]leve de volta seu amiguinho.[n][w][e]
 
 [msg TalkMsg_EN_SLAY_00]
 [s]Você está me dizendo que vai[n]abandonar um aliado seu?[n]Que tipo de insensível...[n][w][e]
@@ -72,7 +72,7 @@
 [s]... Bem, então é hora de[n]voltar ao trabalho.[n][w][e]
 
 [msg TalkMsg_EN_ACCEPT_01]
-[s]OK, então vamos voltar ao trabalho.[n][w][e]
+[s]Ok, então vamos voltar ao trabalho.[n][w][e]
 
 [msg TalkMsg_EN_FALTER_00]
 [s]Ahh! E o que foi isso!?![n][w][e]
@@ -81,7 +81,7 @@
 [s]Uh!?! Que coragem![n][w][e]
 
 [msg TalkMsg_EN_FAKE_CRIED00]
-[s]E-Ei! Você está chorando!?![n]...OK, OK, eu te perdôo! Mas dê-me[n]este objeto: [f 2 5 3 9999 3].[n][w][e]
+[s]E-Ei! Você está chorando!?![n]...Ok, Ok, eu te perdôo! Mas dê-me[n]este objeto: [f 2 5 3 9999 3].[n][w][e]
 
 [msg TalkMsg_EN_FAKE_CRIED01]
 [s]Mas o que? Esta mulher é[n]uma calamidade...Dê-me [var 0] ienes[n]e eu o libertarei.[n][w][e]

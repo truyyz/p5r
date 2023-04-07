@@ -42,7 +42,7 @@
 [s][bup 0 10 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Não consigo pensar em um[n]despertar mais apropriado.[n][w][e]
 
 [msg MES_GROUP3_00 [Akechi]]
-[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 51 10 50 10][vp 8 2 1 8127 65535 0]Então esta é a pessoa dele de perto… O líder dos[n]ladrões fantasmas que conquistou as multidões.[n][w][e]
+[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 51 10 50 10][vp 8 2 1 8127 65535 0]Então esta é a pessoa dele de perto… O líder dos[n]Phantom Thieves que conquistou as multidões.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Você sabe, ele realmente não parece um herói[n]da justiça.[n][w][e]
 
 [msg MES_GROUP3_01 [Morgana]]

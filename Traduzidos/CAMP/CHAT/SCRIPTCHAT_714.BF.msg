@@ -2,7 +2,7 @@
 [s][f 5 14]Finalmente estou entendendo[n]qual é o meu papel.[n][w][e]
 
 [msg MSG_001_0_0 [Mishima]]
-[s][f 5 14]Eu descobri isso depois de pensar muito[n]sobre o que os ladrões fantasmas estão[n]perdendo.[n][w][e]
+[s][f 5 14]Eu descobri isso depois de pensar muito[n]sobre o que os Phantom Thieves estão[n]perdendo.[n][w][e]
 
 [msg MSG_002_0_0 [Mishima]]
 [s][f 5 14]Eu vou te contar os detalhes[n]mais tarde. Estarei em Akihabara,[n]se você passar me avise.[n][w][e]

@@ -23,7 +23,7 @@
 [s][vp 1 0 0 0 0 0]Ainda não[n]pegou a pessoa que enviou[n]a carta de aviso?[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_0606_4]
-[s][vp 1 0 0 0 0 0]Eu realmente sou um Ladrão Fantasma.[n]Vamos tomar um café?[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Eu realmente sou um Phantom Thief.[n]Vamos tomar um café?[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_0606_5]
 [s][vp 1 0 0 0 0 0]Algum idiota[n]postou mais fotos?[n][f 1 3 65535][w][e]
@@ -254,7 +254,7 @@
 [s][vp 1 0 0 0 0 0]Esses pôsteres com as[n]cartas de desafio se tornaram[n]itens de colecionador![n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_1013_1]
-[s][vp 1 0 0 0 0 0]Não me diga que foram os Ladrões[n]Fantasmas que fizeram isso[n]com Okumura...[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Não me diga que foram os Phantom[n]Thieves que fizeram isso[n]com Okumura...[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_1013_2]
 [s][vp 1 0 0 0 0 0]Eles são heróis! Eles[n]nunca fariam isso![n][f 1 3 65535][w][e]
@@ -320,7 +320,7 @@
 [s][vp 1 0 0 0 0 0]Hm... não sei mais[n]o que pensar.[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_YOKOKUGO_1203__3]
-[s][vp 1 0 0 0 0 0]Eu te disse, Ladrões[n]Fantasmas não são[n]confiáveis...[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Eu te disse, Phantom[n]Thieves não são[n]confiáveis...[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_YOKOKUGO_1203__4]
 [s][vp 1 0 0 0 0 0]O que Akechi-kun diz?[n][f 1 3 65535][w][e]

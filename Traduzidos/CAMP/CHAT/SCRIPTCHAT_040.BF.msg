@@ -38,7 +38,7 @@
 [s][f 5 14]Isso não é um pouco egoísta?[n][w][e]
 
 [msg MSG_014_0_0 [Yusuke]]
-[s][f 5 14]Somos Ladrões Fantasmas, Ann.[n][w][e]
+[s][f 5 14]Somos Phantom Thieves, Ann.[n][w][e]
 
 [msg MSG_015_0_0 [Yusuke]]
 [s][f 5 14]Duvido que alguém perdoaria o que fizemos[n]com Madarame.[n][w][e]
@@ -97,7 +97,7 @@
 [s][f 5 14]Um dia você vai perceber quem estava[n]certo![n][w][e]
 
 [msg MSG_033_0_0 [Ann]]
-[s][f 5 14][f 5 15]OK, não vamos falar mais sobre isso agora.[n][w][e]
+[s][f 5 14][f 5 15]Ok, não vamos falar mais sobre isso agora.[n][w][e]
 
 [msg MSG_CHAT_MORUEND_00 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 1 0 0 1 0 0]Aquele investigador, Akechi,[n]parece ter considerável[n]influência na mídia.[n][f 1 3 65535][w][e]

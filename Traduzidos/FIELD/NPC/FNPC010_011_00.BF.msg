@@ -18,13 +18,13 @@
 [s][vp 9 2 65535 45104 0 0]Quem sabe o que[n]os Phantom Thieves farão.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_001_04_]
-[s][vp 9 2 65535 44306 0 0]Acho que aqueles Ladrões Fantasmas[n]despertarão o coração de[n]Medjed![n][f 1 2 180][e]
+[s][vp 9 2 65535 44306 0 0]Acho que aqueles Phantom Thieves[n]despertarão o coração de[n]Medjed![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_001_05_]
 [s][vp 9 2 65535 44155 0 0]A polícia é incompetente.[n]Graças a Deus podemos[n]contar com os Phantom Thieves![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_001_06_]
-[s][vp 9 2 65535 41400 0 0]Ladrões fantasmas e hackers...[n]Que desafio espetacular![n][f 1 2 180][e]
+[s][vp 9 2 65535 41400 0 0]Phantom Thieves e hackers...[n]Que desafio espetacular![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_001_07_]
 [s][vp 9 2 65535 44954 0 0]Eu só gostaria de saber como[n]os Phantom Thieves planejam[n]livrar-se desses hackers...[n][f 1 2 180][e]
@@ -36,7 +36,7 @@
 [s][vp 9 2 65535 38254 0 0]Os Phantom Thieves desencadearão[n]um despertar de seu coração, assim[n]como com todos os outros![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_001_10_]
-[s][vp 9 2 65535 44353 0 0]Eles estão enfrentando ciber[n]terroristas. Como esses Ladrões Fantasmas[n]pensam em lidar com isso?[n][f 1 2 180][e]
+[s][vp 9 2 65535 44353 0 0]Eles estão enfrentando ciber[n]terroristas. Como esses Phantom Thieves[n]pensam em lidar com isso?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_001_11_]
 [s][vp 9 2 65535 44706 0 0]Esses hackers são todos seus![n]Eliminem-nos, Phantom Thieves![n][f 1 2 180][e]
@@ -99,7 +99,7 @@
 [s][vp 9 2 65535 43206 0 0]Eles estão fazendo mais e mais mercadorias[n]Phantom[n]Thieves![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_003_07_]
-[s][vp 9 2 65535 39750 0 0]Ninguém pode se opor aos[n]Ladrões Fantasmas![n][f 1 2 180][e]
+[s][vp 9 2 65535 39750 0 0]Ninguém pode se opor aos[n]Phantom Thieves![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_003_08_]
 [s][vp 9 2 65535 37556 0 0]Somos muito gratos aos[n]Phantom Thieves![n]Eles salvaram o Japão![n][f 1 2 180][e]
@@ -357,7 +357,7 @@
 [s][vp 9 2 65535 40104 0 0]E então eles colocaram uma recompensa[n]pelas cabeças dos Phantom Thieves![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_09_]
-[s][vp 9 2 65535 42757 0 0]Eu não me importo com o que você[n]faz, apenas prenda[n]aqueles Ladrões Fantasmas![n][f 1 2 180][e]
+[s][vp 9 2 65535 42757 0 0]Eu não me importo com o que você[n]faz, apenas prenda[n]aqueles Phantom Thieves![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_10_]
 [s][vp 9 2 65535 43902 0 0]30 milhões de ienes deve ser[n]a maior recompensa[n]que eles já ofereceram![n][f 1 2 180][e]
@@ -390,10 +390,10 @@
 [s][vp 9 2 65535 39401 0 0]Quanto tempo você ainda vai[n]deixar[n]aqueles ladrões livres!?![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_011_08_]
-[s][vp 9 2 65535 44407 0 0]Quando eles vão prender[n]aqueles Ladrões Fantasmas?!?[n][f 1 2 180][e]
+[s][vp 9 2 65535 44407 0 0]Quando eles vão prender[n]aqueles Phantom Thieves?!?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_011_09_]
-[s][vp 9 2 65535 42901 0 0]Eles precisam[n]levar a sério a prisão desses[n]Ladrões Fantasmas![n][f 1 2 180][e]
+[s][vp 9 2 65535 42901 0 0]Eles precisam[n]levar a sério a prisão desses[n]Phantom Thieves![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_011_10_]
 [s][vp 9 2 65535 42709 0 0]O governo e a polícia[n]são completamente inúteis...[n][f 1 2 180][e]
@@ -447,13 +447,13 @@
 [s][vp 9 2 65535 45001 0 0]Não acredito que[n]Phantom Thief cometeu suicídio[n]depois de ser pego.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_013_03_]
-[s][vp 9 2 65535 39354 0 0]Aquele Ladrão Fantasma[n]se matou!?![n][f 1 2 180][e]
+[s][vp 9 2 65535 39354 0 0]Aquele Phantom Thief[n]se matou!?![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_013_04_]
 [s][vp 9 2 65535 44951 0 0]Cristo, por que cometer suicídio...[n]Ele tinha que manter a calma...E pagar[n]sua dívida com a sociedade.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_013_05_]
-[s][vp 9 2 65535 43051 0 0]Aquele Ladrão Fantasma se matou[n]imediatamente após sua prisão?[n]O que há de errado com ele...?[n][f 1 2 180][e]
+[s][vp 9 2 65535 43051 0 0]Aquele Phantom Thief se matou[n]imediatamente após sua prisão?[n]O que há de errado com ele...?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_013_06_]
 [s][vp 9 2 65535 44850 0 0]Estou feliz que eles[n]capturaram o líder daqueles[n]Phantom Thieves![n][f 1 2 180][e]
@@ -462,19 +462,19 @@
 [s][vp 9 2 65535 44100 0 0]Eles descobriram algo[n]novo sobre as identidades[n]dos Phantom Thieves?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_013_08_]
-[s][vp 9 2 65535 44352 0 0]Aquele Ladrão Fantasma[n]se matou, hein? Que maneira[n]ignóbil de escapar.[n][f 1 2 180][e]
+[s][vp 9 2 65535 44352 0 0]Aquele Phantom Thief[n]se matou, hein? Que maneira[n]ignóbil de escapar.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_013_09_]
-[s][vp 9 2 65535 45750 0 0]Se aquele Ladrão Fantasma estiver[n]morto, não haverá mais[n]raptus, certo???[n][f 1 2 180][e]
+[s][vp 9 2 65535 45750 0 0]Se aquele Phantom Thief estiver[n]morto, não haverá mais[n]raptus, certo???[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_013_10_]
-[s][vp 9 2 65535 44405 0 0]Eu ouvi no noticiário[n]que aquele Ladrão Fantasma[n]tirou a própria vida...[n][f 1 2 180][e]
+[s][vp 9 2 65535 44405 0 0]Eu ouvi no noticiário[n]que aquele Phantom Thief[n]tirou a própria vida...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_013_11_]
 [s][vp 9 2 65535 44169 0 0]Bem, as coisas deveriam[n]melhorar sem os Phantom[n]Thieves por perto.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_013_12_]
-[s][vp 9 2 65535 43454 0 0]Eu li online[n]que aquele Ladrão Fantasma[n]cometeu suicídio.[n][f 1 2 180][e]
+[s][vp 9 2 65535 43454 0 0]Eu li online[n]que aquele Phantom Thief[n]cometeu suicídio.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_014_01_]
 [s][vp 9 2 65535 44603 0 0]Seja qual for a perspectiva,[n]ninguém pode resistir a[n]Shido![n][f 1 2 180][e]
@@ -543,7 +543,7 @@
 [s][vp 9 2 65535 44400 0 0]Até os Phantom Thieves[n]foram enganados por Akechi![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_015_11_]
-[s][vp 9 2 65535 37850 0 0]Enganou os[n]Ladrões Fantasmas e os prendeu![n]Louco.[n][f 1 2 180][e]
+[s][vp 9 2 65535 37850 0 0]Enganou os[n]Phantom Thieves e os prendeu![n]Louco.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_015_12_]
 [s][vp 9 2 65535 42353 0 0]Akechi-kun é incrível.[n]Ele foi até capaz de[n]enganar os Ladrões.[n][f 1 2 180][e]

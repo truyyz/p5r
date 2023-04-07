@@ -58,7 +58,7 @@
 [s]Yusuke, venha você também.[e]
 
 [msg MSG_017_0_0 [Ryuji]]
-[s][vp 8 0 0 0 65535 0][f 5 14]OK, então está resolvido.[n]Vamos nos encontrar em Shibuya.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 5 14]Ok, então está resolvido.[n]Vamos nos encontrar em Shibuya.[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Yusuke]]
 [s][vp 8 0 0 0 65535 0][f 5 14]Me desculpe... Estou realmente[n]quebrado.[n][f 1 3 65535][w][e]

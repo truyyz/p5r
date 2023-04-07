@@ -28,9 +28,9 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Quanto mais dados de teste eu tiver,[n]melhor. É importante,[n]então não relaxe.[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Takemi]]
-[s][bup 0 108 500 65535 0][f 4 10 65535 0 0][vp 8 2 0 14136 65535 0]OK, agora vá correr.[n]Cinco quilômetros bastam.[n][f 1 3 65535][w][e]
+[s][bup 0 108 500 65535 0][f 4 10 65535 0 0][vp 8 2 0 14136 65535 0]Ok, agora vá correr.[n]Cinco quilômetros bastam.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Desta vez não estou brincando.[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Takemi]]
-[s][vp 8 2 0 14031 65535 0]OK, muito bem.[n]Obrigado por sua cooperação.[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 14031 65535 0]Ok, muito bem.[n]Obrigado por sua cooperação.[n][f 1 3 65535][w][e]
 

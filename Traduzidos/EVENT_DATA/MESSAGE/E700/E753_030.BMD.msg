@@ -8,7 +8,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Um sinal de estima e respeito.[n]Bem, disse que parece[n]muito exigente...[n][f 1 3 65535][w][e]
 
 [sel SEL_002_0_0 top]
-[s]Obrigada.[e]
+[s]Obrigado.[e]
 [s]Eu os aceito de bom grado.[e]
 
 [msg MSG_003_0_0 [Sumire]]

@@ -8,7 +8,7 @@
 [sel D05_02_fake_kachou_battl_3 top]
 [s]Somos representantes.[e]
 [s]Somos novos funcionários.[e]
-[s]Nós somos os ladrões fantasmas![e]
+[s]Nós somos os Phantom Thieves![e]
 
 [msg D05_02_fake_kachou_battl_4 [???]]
 [s]ENTÃO? DECLARE SUAS[n]INTENÇÕES IMEDIATAMENTE.[n][w][e]
@@ -51,7 +51,7 @@
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1175 65535 0]Certo, melhor evitar outras[n]discussões. Vamos separá-lo![n][w][e]
 
 [msg D05_02_fake_kachou_battl_15 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1166 65535 0]Então você prefere não[n]lutar? OK, vamos nos aposentar![n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1166 65535 0]Então você prefere não[n]lutar? Ok, vamos nos aposentar![n][w][e]
 
 [msg D05_02_e341_034_ng_end_m [Morgana]]
 [s][bup 0 3 5 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1025 65535 0]Fiuuu, é isso.[n][w][e]
@@ -66,12 +66,12 @@
 [s]HUMMMM, QUEM É VOCÊ?[n][w][e]
 
 [sel D05_02_e341_036_ng2_selA top]
-[s]Os ladrões fantasmas.[e]
+[s]Os Phantom Thieves.[e]
 [s]Estamos de passagem.[e]
 [s]Queríamos conversar.[e]
 
 [msg D05_02_e341_036_ng2_selA_2 [???]]
-[s]OS LADRÕES FANTASMAS, UH?[n]NÃO ESTOU INTERESSADO. VOCÊ ESTÁ[n]APRESENTANDO MEU TRABALHO.[n][w][e]
+[s]OS PHANTOM THIEVES, UH?[n]NÃO ESTOU INTERESSADO. VOCÊ ESTÁ[n]APRESENTANDO MEU TRABALHO.[n][w][e]
 
 [msg D05_02_e341_036_ng2_selA_3 [???]]
 [s]SÉRIO? SE VOCÊ FIZER,[n]DEPRESSA E SAIA DO CAMINHO.[n]VOCÊ ESTÁ ATRAVESSANDO MEU TRABALHO.[n][w][e]
@@ -107,7 +107,7 @@
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1181 65535 0]Certo, melhor evitar outras[n]discussões. Vamos separá-lo![n][w][e]
 
 [msg D05_02_e341_036_ng2_selC_3 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1163 65535 0]Então você prefere não[n]lutar? OK, vamos nos aposentar![n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1163 65535 0]Então você prefere não[n]lutar? Ok, vamos nos aposentar![n][w][e]
 
 [msg D05_02_e341_036_ng2_selC_4 [???]]
 [s]FUJA COM O CAUDO ENTRE AS PERNAS. ADEQUADO[n]PARA RATO DE ESGOTO COMO VOCÊ.[n][w][e]

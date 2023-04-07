@@ -61,7 +61,7 @@
 [s][vp 8 0 0 0 65535 0]Sinto que em breve meu vínculo[n]com Futaba se fortalecerá...[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Futaba]]
-[s][vp 8 2 0 9137 65535 0]OK, farei o meu melhor![n][f 1 3 65535][w][e]
+[s][vp 8 2 0 9137 65535 0]Ok, farei o meu melhor![n][f 1 3 65535][w][e]
 
 [msg MND_020_0_0]
 [s][vp 8 0 0 0 65535 0]Boneco[n][f 1 3 65535][w][e]

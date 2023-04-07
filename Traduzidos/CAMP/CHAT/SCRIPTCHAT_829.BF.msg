@@ -9,7 +9,7 @@
 [s]É véspera de Natal...[e]
 
 [msg MSG_020_0_0 [Sojiro]]
-[s][f 5 14]OK! Aguardo você.[n][f 5 15][w][e]
+[s][f 5 14]Ok! Aguardo você.[n][f 5 15][w][e]
 
 [msg MSG_030_0_0 [Sojiro]]
 [s][f 5 14]Isso não importa. Vou esperar por você,[n]de qualquer maneira.[n][f 5 15][w][e]

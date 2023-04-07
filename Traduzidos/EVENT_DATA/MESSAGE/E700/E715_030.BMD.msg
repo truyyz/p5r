@@ -97,7 +97,7 @@
 
 [msg MSG_025_0_0 [Ohya]]
 [s][bup 0 107 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Preparar? Mm-hm... Espera, o quê?!?[n][f 1 3 65535][w][e]
-[s][bup 0 107 0 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 41 5 100][f 4 24 0 4 0 5 5 100][vp 8 0 0 0 65535 0]Eu posso falar com ele? Sério?[n]OK, já vou.[n][f 1 3 65535][w][e]
+[s][bup 0 107 0 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 41 5 100][f 4 24 0 4 0 5 5 100][vp 8 0 0 0 65535 0]Eu posso falar com ele? Sério?[n]Ok, já vou.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Trabalhar? Não, já desconectei.[n][f 1 3 65535][w][e]
 
 [msg MSG_026_0_0 [Ohya]]

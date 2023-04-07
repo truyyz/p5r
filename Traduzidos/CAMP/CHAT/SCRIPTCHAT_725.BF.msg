@@ -34,7 +34,7 @@
 [s]Não conheço nenhum lugar adequado.[e]
 
 [msg MSG_201_0_0 [Haru]]
-[s][f 5 14]OK, claro![n][w][e]
+[s][f 5 14]Ok, claro![n][w][e]
 
 [msg MSG_202_0_0 [Haru]]
 [s][f 5 14]Até amanhã então.[n][w][e]
@@ -43,7 +43,7 @@
 [s][f 5 14]E desculpe se entrei em contato com você[n]tão tarde. Boa noite.[n][f 5 15][w][e]
 
 [msg MSG_201_1_0 [Haru]]
-[s][f 5 14]OK! Vamos para Ginza.[n][f 5 15][w][e]
+[s][f 5 14]Ok! Vamos para Ginza.[n][f 5 15][w][e]
 
 [msg MSG_210_0_0 [Haru]]
 [s][f 5 14]Eu entendo... Desculpe pelo convite[n]repentino.[n][f 5 15][w][e]

@@ -577,7 +577,7 @@
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Acho que me faria muito bem.[n]Posso, por favor?[n][w][e]
 
 [msg MEMENTOS_refuse_awakenin_4 [Jose]]
-[s][bup 0 221 0 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Mmm... OK... Entendo...[n][w][e]
+[s][bup 0 221 0 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Mmm... Ok... Entendo...[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Então, aqui vai assim...[n]enquanto aqui vai assim, e...[n][w][e]
 
 [msg MEMENTOS_refuse_awakenin_5 [Jose]]

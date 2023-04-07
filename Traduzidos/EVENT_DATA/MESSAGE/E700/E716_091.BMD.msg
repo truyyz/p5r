@@ -12,7 +12,7 @@
 [sel SEL_003_0_0 top]
 [s][f 0 8 2 1 2217]Fico feliz em ouvir isso.[clr 27][e]
 [s]Difícil de acreditar.[e]
-[s]Agradeça aos Ladrões Fantasmas.[e]
+[s]Agradeça aos Phantom Thieves.[e]
 
 [msg MSG_004_0_0 [Shinya]]
 [s][bup 0 110 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 17 10 1010]Sim![n][f 1 3 65535][w][e]
@@ -97,7 +97,7 @@
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 110 1 301 1][vp 8 2 0 17090 65535 0]...Mas agora eu não ligo[n]mais![n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Shinya]]
-[s][bup 0 110 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]OK, estou indo para casa.[n][f 1 3 65535][w][e]
+[s][bup 0 110 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ok, estou indo para casa.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ei, [f 4 1]-san,[n]the Phantom Thieves...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]... Não importa! Olá![n][f 1 3 65535][w][e]
 

@@ -5,7 +5,7 @@
 [s][f 5 14]Não por um sonho![n][w][e]
 
 [msg MSG_002_0_0 [Makoto]]
-[s][f 5 14]Porque está pergunta?[n][w][e]
+[s][f 5 14]Por que está pergunta?[n][w][e]
 
 [msg MSG_003_0_0 [Yusuke]]
 [s][f 5 14]Eu ouvi alguém na cidade[n]afirmando ser[n]um conhecido nosso.[n][w][e]
@@ -49,7 +49,7 @@
 [s][f 5 14]No entanto, é melhor você[n]se acostumar com isso rapidamente.[n][w][e]
 
 [msg MSG_016_0_0 [Ryuji]]
-[s][f 5 14]Você não pode ser um Ladrão Fantasma[n]se tiver medo das pessoas![n][w][e]
+[s][f 5 14]Você não pode ser um Phantom Thief[n]se tiver medo das pessoas![n][w][e]
 
 [msg MSG_017_0_0 [Futaba]]
 [s][f 5 14][f 5 15]Eu farei o meu melhor.[n][w][e]

@@ -37,7 +37,7 @@
 [s][bup 0 111 1 3 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sim![n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Ryuji]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 10 301 1][vp 8 2 0 7045 65535 0]OK, ligue para eles![n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 10 301 1][vp 8 2 0 7045 65535 0]Ok, ligue para eles![n][f 1 3 65535][w][e]
 
 [sel SEL_008_0_0 top]
 [s]Deixe para mim.[e]
@@ -53,7 +53,7 @@
 [s][bup 0 111 4 3 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E-Eu não sou bom nessas[n]coisas! Sério![n]Por favor, [f 4 1]![n][f 1 3 65535][w][e]
 
 [msg MSG_008_6_0 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bem, acho que ele não poderia. OK, vamos lá,[n]Mishima.[n][f 1 3 65535][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bem, acho que ele não poderia. Ok, vamos lá,[n]Mishima.[n][f 1 3 65535][w][e]
 
 [msg MSG_008_8_0 [Mishima]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 111 7 300 1][vp 8 2 0 19040 65535 0]II?!?[n][f 1 3 65535][w][e]
@@ -150,7 +150,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Meu estômago está embrulhado![n]E minhas mãos estão suadas![n][f 1 3 65535][w][e]
 
 [msg MSG_032_0_0 [Ryuji]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 17 301 1][vp 8 2 0 7033 65535 0]OK, você cuida disso.[n]...E não deixe ela saber[n]que você é um estudante do ensino médio.[n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 17 301 1][vp 8 2 0 7033 65535 0]Ok, você cuida disso.[n]...E não deixe ela saber[n]que você é um estudante do ensino médio.[n][f 1 3 65535][w][e]
 [s][bup 0 2 11 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu te dou cobertura! De...[n]longe! Da[n]varanda, por exemplo![n][f 1 3 65535][w][e]
 
 [msg MSG_032_5_0 [Mishima]]
@@ -284,12 +284,12 @@
 [s][f 4 10 65535 0 0][vp 8 2 0 15068 65535 0]Ei... Se for divulgado[n]que você chamou uma empregada doméstica,[n]não seria muito melhor.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Esse nem é o seu endereço, é? Pelo menos você[n]prestou atenção a isso.[n][f 1 3 65535][w][e]
 [s][bup 0 109 600 0 0][f 4 10 65535 0 0][f 4 24 0 6 0 35 5 100][vp 8 0 0 0 65535 0]Bem, eu também prometo manter isso em segredo.[n]Por que nós dois não esquecemos o que aconteceu?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vou dizer que você cancelou para não ter que[n]pagar nada. OK?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vou dizer que você cancelou para não ter que[n]pagar nada. Ok?[n][f 1 3 65535][w][e]
 
 [msg MSG_059_0_0 [Kawakami]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 109 3 300 1][vp 8 0 0 0 65535 0]Dito isso, estou indo embora![n][f 1 3 65535][w][e]
 [s][bup 0 109 600 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não conte nada[n]na escola, ok?!? Aja[n]como se nada tivesse acontecido![n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu entendi? OK, tchau![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu entendi? Ok, tchau![n][f 1 3 65535][w][e]
 
 [msg MND_074_0_0]
 [s][vp 8 0 0 0 65535 0]De repente me sinto exausto...[n][f 1 3 65535][w][e]

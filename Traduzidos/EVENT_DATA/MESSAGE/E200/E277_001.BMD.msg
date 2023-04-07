@@ -50,7 +50,7 @@
 [msg MSG_014_0_0 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Mostre-me...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]"Os Phantom Thieves nos deram[n]resposta. Isso prova que[n]Medjed está do lado direito."[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]"Cidadãos do Japão,[n]abra seus olhos. Você deve[n]adorar os Ladrões Fantasmas."[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]"Cidadãos do Japão,[n]abra seus olhos. Você deve[n]adorar os Phantom Thieves."[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Ryuji]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 3 301 1][vp 8 0 0 25 65535 0]Huh?!? Que besteira![n][f 1 3 65535][w][e]

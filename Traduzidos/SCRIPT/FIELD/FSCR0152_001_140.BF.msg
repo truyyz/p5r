@@ -39,7 +39,7 @@
 [s][bup 0 2 3 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 7 0 0]P-Parece, uh... complicado.[n][w][e]
 
 [msg D01_02_e129_051_mes07 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 8 0 0]OK...Vou anotar algumas[n]coisas sobre o nível de alerta.[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 8 0 0]Ok...Vou anotar algumas[n]coisas sobre o nível de alerta.[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 9 0 0]Saber essas coisas é crucial[n]para se infiltrar no Palácio, então[n]leia com atenção, ok?[n][w][e]
 
 [msg D01_02_e129_051_mes08]
@@ -50,7 +50,7 @@
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Está além dessas grades...[n]Não baixe a guarda![n][w][e]
 
 [msg D01_02_e130_110_mes01 [Ryuji]]
-[s][bup 0 2 0 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7172 65535 0]OK, aqui estamos nós de novo.[n]Agora vamos sair, rápido![n][w][e]
+[s][bup 0 2 0 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7172 65535 0]Ok, aqui estamos nós de novo.[n]Agora vamos sair, rápido![n][w][e]
 
 [msg D01_02_e130_110_mes02 [Voz de soldado]]
 [s]O posto de guarda perto do[n]ginásio não responde![n][w][e]

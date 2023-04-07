@@ -8,7 +8,7 @@
 [s][f 5 14]Eu absolutamente preciso falar sobre isso![n]Você tem algum tempo hoje?[n][f 5 15][w][e]
 
 [msg CHAT_REACTION_MSG [Mishima]]
-[s][f 5 14]OK, me encontre em Shibuya.[n]Eu mesmo lhe darei os detalhes.[n][f 5 15][w][e]
+[s][f 5 14]Ok, me encontre em Shibuya.[n]Eu mesmo lhe darei os detalhes.[n][f 5 15][w][e]
 
 [sel SEL_001 top]
 [s]Conhecê-lo[e]

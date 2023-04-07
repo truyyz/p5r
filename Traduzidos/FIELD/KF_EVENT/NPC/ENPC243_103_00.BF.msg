@@ -88,7 +88,7 @@
 
 [msg MSG_E24320100_ENDINFO_CE_5 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Lá deveríamos conhecer pessoas[n]de todos os tipos, para que pudéssemos[n]coletar informações úteis.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]OK, próxima parada... a[n]praça em frente à estação![n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Ok, próxima parada... a[n]praça em frente à estação![n][w][e]
 
 [msg MSG_E24320100_SHUJIN_001 [Estudante impertinente de Shujin]]
 [s][f 4 23 1 852 3 10 0 0][vp 8 2 1 0 852 0]Esta área está ficando[n]perigosa. Um policial[n]também se aproximou de mim para me avisar.[n][w][e]
@@ -153,6 +153,6 @@
 [s][vp 8 2 1 0 853 0]Acho que ele é membro do clube de[n]caligrafia. não sei de mais nada...[n][w][e]
 
 [msg MSG_E24320100_SHUJIN_010 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]OK, esta é uma informação[n]importante.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Ok, esta é uma informação[n]importante.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Uma vítima em sua classe...[n]Diga a Ryuji e aos outros, ok?[n][w][e]
 

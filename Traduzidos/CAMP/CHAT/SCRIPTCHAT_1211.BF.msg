@@ -8,7 +8,7 @@
 [s][f 5 14]Eu sei que você está ocupado,[n]mas tente passar por aqui.[n][w][e]
 
 [msg CHAT_REACTION_MSG_01 [Iwai]]
-[s][f 5 14]OK. Eu vou esperar.[n][w][e]
+[s][f 5 14]Ok. Eu vou esperar.[n][w][e]
 
 [msg MSG_MORUGANA_RANK1 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Preste atenção. Se você recusar um[n]convite imediatamente após fazer um[n]acordo com alguém, isso parecerá[n]suspeito.[n][w][e]

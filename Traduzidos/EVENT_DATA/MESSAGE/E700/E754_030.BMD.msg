@@ -33,7 +33,7 @@
 
 [msg MSG_009_0_0 [Futaba]]
 [s][bup 0 8 4 4 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]...![n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]OK! No Dia dos Namorados[n]nós não nos vimos, então pensei[n]que tinha acabado e...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Ok! No Dia dos Namorados[n]nós não nos vimos, então pensei[n]que tinha acabado e...[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Futaba]]
 [s][bup 0 8 6 4 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]B-Bem, então! Terminamos![n][f 1 3 65535][w][e]
@@ -53,7 +53,7 @@
 [s][vp 8 0 0 0 65535 0]...Futaba parece feliz.[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Futaba]]
-[s][bup 0 8 1 4 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]OK, eu diria que completamos[n]cem por cento da área de peixes.[n][f 1 3 65535][w][e]
+[s][bup 0 8 1 4 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Ok, eu diria que completamos[n]cem por cento da área de peixes.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Está com fome? Talvez possamos conseguir algo a[n]caminho de casa[n][f 1 3 65535][w][e]
 
 [sel SEL_016_0_0 top]
@@ -64,5 +64,5 @@
 [s][bup 0 8 4 4 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Oh. Nossa.[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Futaba]]
-[s][bup 0 8 7 4 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]OK, mostre o caminho.[n][f 1 3 65535][w][e]
+[s][bup 0 8 7 4 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]Ok, mostre o caminho.[n][f 1 3 65535][w][e]
 

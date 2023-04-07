@@ -16,7 +16,7 @@
 [s][bup 0 109 601 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Você realmente quer que eu diminua a força? Se eu[n]quisesse também poderia aumentá-lo, mas...[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Kawakami]]
-[s][bup 0 109 601 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Oh sério? OK, farei o que você pedir e colocarei[n]mais esforço nisso.[n][f 1 3 65535][w][e]
+[s][bup 0 109 601 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Oh sério? Ok, farei o que você pedir e colocarei[n]mais esforço nisso.[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Kawakami]]
 [s][bup 0 109 600 0 0][f 4 10 65535 0 0][vp 8 2 0 15026 65535 0]Uh. Você tem um corpo realmente tonificado.[n]Mas como você se mantém[n]tão em forma?[n][f 1 3 65535][w][e]

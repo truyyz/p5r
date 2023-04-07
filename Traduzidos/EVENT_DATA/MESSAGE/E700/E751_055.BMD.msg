@@ -16,7 +16,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Não é feito à mão, ok?[n]Para deixar claro que não[n]é algum tipo de esforço de amor.[n][f 1 3 65535][w][e]
 
 [sel SEL_004_0_0 top]
-[s]Obrigada.[e]
+[s]Obrigado.[e]
 [s]Eu cuidarei disso.[e]
 
 [msg MSG_005_0_0 [Takemi]]
@@ -47,7 +47,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Eu sei o quanto você e os outros[n]Phantom Thieves estão fazendo[n]para ajudar os outros.[n][f 1 3 65535][w][e]
 
 [sel SEL_014_0_0 top]
-[s]Os ladrões fantasmas...[e]
+[s]Os Phantom Thieves...[e]
 [s]Sério?[e]
 
 [msg MSG_015_0_0 [Takemi]]
@@ -72,7 +72,7 @@
 [s]Eu quero apenas você.[e]
 
 [msg MSG_020_0_0 [Takemi]]
-[s][bup 0 108 506 65535 0][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]OK, chega.[n][f 1 3 65535][w][e]
+[s][bup 0 108 506 65535 0][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]Ok, chega.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 26 65535 0]Calma bajulador.[n]Quem você quer impressionar?[n][f 1 3 65535][w][e]
 
 [msg MSG_027_0_0 [Takemi]]

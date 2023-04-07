@@ -155,7 +155,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Se você trabalhar duro o suficiente, você[n]irá liberar todo o seu potencial![n][f 1 3 65535][w][e]
 
 [msg MSG_038_0_0 [Maruki]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 114 1 300 1][vp 8 2 0 57434 65535 0]OK! Acho que este é[n]o nosso segundo negócio.[n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 114 1 300 1][vp 8 2 0 57434 65535 0]Ok! Acho que este é[n]o nosso segundo negócio.[n][f 1 3 65535][w][e]
 
 [msg MND_039_0_0]
 [s][vp 8 0 0 0 65535 0]Sinto meu vínculo[n]com Maruki ficando mais forte...[n][f 1 3 65535][w][e]

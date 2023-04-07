@@ -81,7 +81,7 @@
 [msg MSG_022_0_0 [Iwai]]
 [s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 0 0 32 65535 0]Droga...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 33 65535 0]As crianças crescem rapidamente. Às vezes[n]é chato,[n]mas vale a pena.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 34 65535 0]...OK, vamos fechar a[n]loja. Abaixe o obturador.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 34 65535 0]...Ok, vamos fechar a[n]loja. Abaixe o obturador.[n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Iwai]]
 [s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 0 0 35 65535 0]Tsuda mudou[n]tão de repente...[n][f 1 3 65535][w][e]
@@ -119,7 +119,7 @@
 
 [msg MSG_031_5_0 [Iwai]]
 [s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 0 0 47 65535 0]Hehehe. Interessante...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 48 65535 0]OK, vou trabalhar na criação do[n]menu especial sobre o qual[n]falamos.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 48 65535 0]Ok, vou trabalhar na criação do[n]menu especial sobre o qual[n]falamos.[n][f 1 3 65535][w][e]
 
 [msg MSG_032_0_0 [Iwai]]
 [s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 0 0 49 65535 0]Não gosto de ficar endividado,[n]então darei tudo de mim por você.[n][f 1 3 65535][w][e]

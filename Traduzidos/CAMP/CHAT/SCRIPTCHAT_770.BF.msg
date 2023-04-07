@@ -14,7 +14,7 @@
 [s][f 5 14]Não seja estúpido.[n]Estou fazendo minha parte![n][w][e]
 
 [msg MSG_005_0_0 [Ann]]
-[s][f 5 14]Umpf. Bem, estou no shopping subterrâneo.[n][w][e]
+[s][f 5 14]Umpf. Bem, estou no Shopping Subterrâneo.[n][w][e]
 
 [msg MSG_006_0_0 [Ann]]
 [s][f 5 14]Há muitas pessoas[n]mesmo a esta hora em Shibuya.[n][w][e]

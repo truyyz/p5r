@@ -26,7 +26,7 @@
 [s][vp 1 0 0 0 0 0]Entãooooooo?!? Não se atreva a me dizer o que[n]fazer![n][w][e]
 [s][vp 1 0 0 0 0 0]Ela é minha! Eu posso fazer[n]o que diabos eu quiser![n][w][e]
 [s][vp 1 0 0 0 0 0]Bater nela é meu direito[n]sacrossanto! E saiba que[n]ela também gosta![n][w][e]
-[s][vp 1 0 0 0 0 0]Se você ousar ficar no meu caminho,[n]então você vai morrereeeeeeee![n][w][e]
+[s][vp 1 0 0 0 0 0]Se você ousar ficar no meu caminho,[n]então você vai morreeeeeer![n][w][e]
 
 [msg MSG_003_0_0 [Sombra de Uchimura]]
 [s][vp 8 2 1 46559 65535 0]Eu odeio isso... Eu odeio quando as pessoas[n]olham para mim como se eu fosse[n]apenas um inseto...[n][w][e]

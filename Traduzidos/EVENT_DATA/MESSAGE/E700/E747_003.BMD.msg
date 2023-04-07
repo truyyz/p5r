@@ -66,7 +66,7 @@
 [s][bup 0 106 300 65535 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]...Sim.[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Vendedor de camarão]]
-[s][vp 8 0 0 20 65535 0]E aqueles Ladrões Fantasmas,[n]heh? Aqueles que roubam corações![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 20 65535 0]E aqueles Phantom Thieves,[n]heh? Aqueles que roubam corações![n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Hifumi]]
 [s][bup 0 106 304 65535 0][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]...Você conhece os Phantom Thieves?[n][f 1 3 65535][w][e]

@@ -14,5 +14,5 @@
 [s][f 5 14]Oh isso é ótimo![n][w][e]
 
 [msg MSG_021_0_0 [Hifumi]]
-[s][f 5 14]OK, te espero...[n]com a fantasia.[n][f 5 15][w][e]
+[s][f 5 14]Ok, te espero...[n]com a fantasia.[n][f 5 15][w][e]
 

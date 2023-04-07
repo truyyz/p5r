@@ -25,7 +25,7 @@
 
 [msg MSG_000_8_0 [Sojiro]]
 [s][bup 0 103 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]De qualquer forma, a única coisa que[n]realmente me importa na vida é[n]satisfazer meus clientes.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não há nada que me deixe mais[n]feliz do que ver as pessoas vindo[n]para relaxar aqui. Volte logo OK?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não há nada que me deixe mais[n]feliz do que ver as pessoas vindo[n]para relaxar aqui. Volte logo Ok?[n][f 1 3 65535][w][e]
 
 [msg MSG_000_0_0 [Sojiro]]
 [s][bup 0 103 1 0 0][f 4 10 65535 0 0][vp 8 2 0 5018 65535 0]Ela parecia particularmente[n]agressiva hoje, hein? Mais um pouco e[n]ele teria passado dos limites...[n][f 1 3 65535][w][e]

@@ -869,7 +869,7 @@
 
 [msg MSG_C04_BYEGREET_00_02_5 [Yusuke]]
 [s][bup 0 5 1 65535 0][f 4 10 65535 0 0][f 4 23 1 204 3 10 0 10][vp 8 0 1 18 65535 0]E isso é um eufemismo.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 1 19 65535 0]Há um ano eu nunca imaginei[n]conhecer você, sair de casa,[n]tornar-me um Ladrão Fantasma...[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 1 19 65535 0]Há um ano eu nunca imaginei[n]conhecer você, sair de casa,[n]tornar-me um Phantom Thief...[n][w][e]
 
 [msg MSG_C04_BYEGREET_00_03_5 [Yusuke]]
 [s][bup 0 5 1 65535 0][f 4 10 65535 0 0][f 4 23 1 204 3 10 0 10][vp 8 0 1 20 65535 0]Sim. Mas acho que isso já é um pensamento obscuro.[n][w][e]

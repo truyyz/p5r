@@ -27,7 +27,7 @@
 [s][vp 8 2 2 0 0 0]Use as informações que[n]obteve para responder[n]corretamente![n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_HOLDUP00_000_000 [Sombra de Oi]]
-[s][vp 8 2 2 50005 1 51]OK, antes de mais nada... gostaria que[n]estivesse claro que não sou um otaku.[n][f 1 3 65535][w][e]
+[s][vp 8 2 2 50005 1 51]Ok, antes de mais nada... gostaria que[n]estivesse claro que não sou um otaku.[n][f 1 3 65535][w][e]
 
 [sel SEL_BTL_HOLDUP01_000 top]
 [s]Você está certo.[e]

@@ -41,7 +41,7 @@
 [s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4155 65535 0]Gravado com uma mensagem:[n][clr 2]B01010[clr 27]. O que isso significa...?[n][w][e]
 
 [msg MSG_e296_216_004 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1157 65535 0]OK, vamos verificar em outro lugar então![n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1157 65535 0]Ok, vamos verificar em outro lugar então![n][w][e]
 
 [msg MSG_e296_216_02_000 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Aqui estão um botão e[n]uma laje de pedra. O que[n]quer fazer, Joker?[n][w][e]

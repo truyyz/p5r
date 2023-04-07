@@ -156,7 +156,7 @@
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1035 65535 0]Entendido. Vamos nos preparar para o melhor.[n][w][e]
 
 [msg D162_015_BOSS_EV_Start [Sentinela]]
-[s]Vocês são... os Ladrões Fantasmas?[n][w][e]
+[s]Vocês são... os Phantom Thieves?[n][w][e]
 
 [msg D162_015_BOSS_EV_01 [Akechi]]
 [s][bup 0 9 810 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 54502 65535 0]Estamos aqui para destruir a utopia hipócrita de[n]seu chefe. Você se importaria de sair do caminho?[n][w][e]

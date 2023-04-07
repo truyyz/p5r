@@ -10,5 +10,5 @@
 [s][bup 0 3 0 65535 0]E então continue![n][w][e]
 
 [msg D08_e466_101_selA_1_mes0 [Morgana]]
-[s][bup 0 3 0 65535 0]OK. Portanto, vamos prosseguir com um pouco mais[n]de cautela.[n][w][e]
+[s][bup 0 3 0 65535 0]Ok. Portanto, vamos prosseguir com um pouco mais[n]de cautela.[n][w][e]
 

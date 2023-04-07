@@ -18,7 +18,7 @@
 
 [sel SEL_005_0_0 top]
 [s]O que passou, passou.[e]
-[s]OK, eu entendo.[e]
+[s]Ok, eu entendo.[e]
 
 [msg MSG_006_0_0 [Ann]]
 [s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Eu acho, mas...[n][f 1 3 65535][w][e]

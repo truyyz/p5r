@@ -93,7 +93,7 @@
 [s][bup 0 7 200 65535 0][f 4 10 65535 0 0][f 4 23 1 203 3 10 0 10][vp 8 2 1 0 65535 0]Avise-me se quiser vir ver como estão as plantas.[n][w][e]
 
 [msg MSG_HARU_SCHOOL_GATE_05 [Haru]]
-[s][bup 0 7 200 65535 0][f 4 10 65535 0 0][f 4 23 1 203 3 10 0 10][vp 8 2 1 0 65535 0]OK, desta forma. Teremos que[n]entrar pelos fundos[n]sem ser notados.[n][w][e]
+[s][bup 0 7 200 65535 0][f 4 10 65535 0 0][f 4 23 1 203 3 10 0 10][vp 8 2 1 0 65535 0]Ok, desta forma. Teremos que[n]entrar pelos fundos[n]sem ser notados.[n][w][e]
 
 [msg MSG_HARU_SCHOOL_GATE_06 [Haru]]
 [s][bup 0 7 200 65535 0][f 4 10 65535 0 0][f 4 23 1 203 3 10 0 10][vp 8 2 1 0 65535 0]A área ao redor da escola[n]pode ser perigosa às vezes,[n]tenha cuidado.[n][w][e]

@@ -10,7 +10,7 @@
 [s][bup 0 109 501 6 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Você fez tanto por mim.[n]Eu queria te agradecer.[n][f 1 3 65535][w][e]
 
 [sel SEL_003_0_0 top]
-[s]Obrigada.[e]
+[s]Obrigado.[e]
 [s]Aceito de bom grado.[e]
 
 [msg MSG_004_0_0 [Kawakami]]
@@ -22,6 +22,6 @@
 
 [msg MSG_006_0_0 [Kawakami]]
 [s][bup 0 109 500 6 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Preparei um pequeno guia de estudo para as aulas[n]que você perdeu. Existem as coisas mais[n]importantes.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Se você tiver um problema com alguma coisa,[n]pergunte, OK? Eu sou seu[n]professor. É o meu trabalho.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Se você tiver um problema com alguma coisa,[n]pergunte, Ok? Eu sou seu[n]professor. É o meu trabalho.[n][f 1 3 65535][w][e]
 [s][bup 0 109 501 6 0][f 4 10 65535 0 0][f 4 24 0 4 6 42 3 100][vp 8 0 0 11 65535 0]Enfim, vejo você na escola.[n][f 1 3 65535][w][e]
 

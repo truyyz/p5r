@@ -9,7 +9,7 @@
 
 [msg MSG_004_0_0 [Ryuji]]
 [s][bup 0 2 11 65535 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]Bem, claro. Este lugar[n]tornou-se "famoso" agora.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Os Ladrões Fantasmas, Kamoshida,[n]o principal Kobayakawa. E agora também[n]Akechi convidado como convidado.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Os Phantom Thieves, Kamoshida,[n]o principal Kobayakawa. E agora também[n]Akechi convidado como convidado.[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Makoto]]
 [s][bup 0 6 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Também pode haver[n]policiais disfarçados...[n][f 1 3 65535][w][e]

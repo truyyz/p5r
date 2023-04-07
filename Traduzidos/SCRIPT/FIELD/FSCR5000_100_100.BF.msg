@@ -13,5 +13,5 @@
 [s][f 4 10 65535 0 0][vp 1 0 0 6 0 0]Temos que garantir que a[n]porta não se feche novamente[n]depois de aberta.[n][w][e]
 
 [msg D02_MISSION_mes05 [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][f 4 23 1 2 3 5 11 5][vp 1 0 0 7 0 0]Uau, entendi. OK, deixe[n]isso conosco![n][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][f 4 23 1 2 3 5 11 5][vp 1 0 0 7 0 0]Uau, entendi. Ok, deixe[n]isso conosco![n][w][e]
 

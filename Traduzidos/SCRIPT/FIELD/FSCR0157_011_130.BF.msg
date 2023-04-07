@@ -13,7 +13,7 @@
 [s]Além disso... aqui está o mapa[n]do plano de apostas altas.[n][w][e]
 
 [msg e382_105_mes05 [Makoto]]
-[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]OK, mostre-nos os prêmios.[n]Queremos trocar as moedas[n]por um cartão de sócio.[n][w][e]
+[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ok, mostre-nos os prêmios.[n]Queremos trocar as moedas[n]por um cartão de sócio.[n][w][e]
 
 [msg e382_105_mes06 [Caixa sombra]]
 [s]Hehehe. Temos prêmios,[n]mas infelizmente[n]não há telha.[n][w][e]

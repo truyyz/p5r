@@ -101,7 +101,7 @@
 [s][bup 0 104 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Vá para casa estudar,[n]Kaoru. Você tem vestibular em breve,[n]lembra?[n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Kaoru]]
-[s][vp 8 0 0 0 65535 0]OK...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Ok...[n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Kaoru]]
 [s][vp 8 0 0 0 65535 0]Então eu vou...[n][f 1 3 65535][w][e]

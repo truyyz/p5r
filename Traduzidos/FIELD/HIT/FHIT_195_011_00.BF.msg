@@ -58,7 +58,7 @@
 [s]今はやめておく[e]
 
 [msg Joze_Battle_flight [Jose]]
-[s][bup 0 221 0 0 0][f 4 10 65535 0 0]Oh, OK.[n][w][e]
+[s][bup 0 221 0 0 0][f 4 10 65535 0 0]Oh, Ok.[n][w][e]
 [s]Depois volte quando estiver pronto.[n]Espero por você...[n][w][e]
 
 [msg Joze_Battle_fight [Jose]]

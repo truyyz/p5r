@@ -490,13 +490,13 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu não sinto Sombras neste plano. Esta poderia[n]ser uma excelente base de operações, por[n]enquanto.[n][w][e]
 
 [msg AT_D_SAFEROOM_IN_EV_mes0_2 [Ryuji]]
-[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]OK, vamos relaxar um pouco na sala de espera.[n][w][e]
+[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ok, vamos relaxar um pouco na sala de espera.[n][w][e]
 
 [msg ATD_SAFE_IN_PC03_type01 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 3141 0 0]OK, vamos levar cinco minutos.[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 3141 0 0]Ok, vamos levar cinco minutos.[n][w][e]
 
 [msg ATD_SAFE_IN_PC03_type02 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 3142 0 0]OK! Vamos fazer uma pausa![n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 3142 0 0]Ok! Vamos fazer uma pausa![n][w][e]
 
 [msg ATD_SAFE_IN_PC03_type03 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 3143 0 0]Bem, vamos descansar um pouco.[n][w][e]
@@ -514,13 +514,13 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Hmm, ouvi dizer que o alvo[n]está em uma [clr 2]área interna[clr 27].[n][w][e]
 
 [msg ATD_TARGET_NAVI_PC02_Re_ [Ryuji]]
-[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]OK, então devemos nos mudar[n]para outra área?[n][w][e]
+[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ok, então devemos nos mudar[n]para outra área?[n][w][e]
 
 [msg ATD_TARGET_NAVI_PC02_Re__2 [Ryuji]]
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Tudo bem, vamos voltar.[n][w][e]
 
 [msg ATD_TARGET_NAVI_PC02_Re__3 [Ryuji]]
-[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]OK. Vamos mergulhar fundo.[n][w][e]
+[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ok. Vamos mergulhar fundo.[n][w][e]
 
 [msg AT_D_ENDFLOOR_OPEN_MES_m [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Essa parede parece suspeita.[n]Vamos dar uma olhada.[n][w][e]

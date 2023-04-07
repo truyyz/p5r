@@ -34,7 +34,7 @@
 
 [sel SEL_014_0_0 top]
 [s]Entrego-me...[e]
-[s]Porque?[e]
+[s]Por quê?[e]
 
 [msg MSG_015_0_0 [Sae]]
 [s][bup 0 105 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Seu testemunho será necessário[n]para provar a culpa de Shido.[n]Mesmo se...[n][f 1 3 65535][w][e]
@@ -72,7 +72,7 @@
 
 [msg MND_022_9_0]
 [s][vp 8 0 0 0 65535 0]No entanto, para provar a[n]culpa de Shido,[n]precisarei do meu testemunho...[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]Quem sabe o que a polícia fará.[n]Eles nunca deixariam um[n]ladrão fantasma se tornar o herói.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Quem sabe o que a polícia fará.[n]Eles nunca deixariam um[n]Phantom Thief se tornar o herói.[n][f 1 3 65535][w][e]
 
 [msg MND_022_9_3]
 [s][vp 8 0 0 0 65535 0]No mínimo, graças ao meu[n]testemunho, meus[n]companheiros de equipe estariam seguros...[n][f 1 3 65535][w][e]
@@ -93,6 +93,6 @@
 
 [msg MSG_033_0_0 [Sae]]
 [s][bup 0 105 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 48 65535 0]...Obrigado.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 49 65535 0]Eu sabia que você diria isso. Eu[n]senti... OK, deixa com a gente.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 49 65535 0]Eu sabia que você diria isso. Eu[n]senti... Ok, deixa com a gente.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 50 65535 0]Bem, vamos lá.[n][f 1 3 65535][w][e]
 

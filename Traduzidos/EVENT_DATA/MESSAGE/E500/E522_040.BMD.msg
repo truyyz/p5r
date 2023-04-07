@@ -72,7 +72,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas vou tentar.[n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Sae]]
-[s][bup 0 105 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]OK, estamos prontos?[n][f 1 3 65535][w][e]
+[s][bup 0 105 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ok, estamos prontos?[n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [(SE)女性たち]]
 [s][vp 8 0 0 0 65535 0]おおー!やオッケー!などの歓声[n][f 1 3 65535][w][e]
@@ -89,7 +89,7 @@
 [s][bup 0 105 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu posso ver como você está entusiasmado![n]Bem, vamos começar![n][f 1 3 65535][w][e]
 
 [msg MSG_028_0_0 [Sojiro]]
-[s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]OK, pessoal, não pressionem,[n]vamos ser civilizados...[n][f 1 3 65535][w][e]
+[s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ok, pessoal, não pressionem,[n]vamos ser civilizados...[n][f 1 3 65535][w][e]
 
 [msg MSG_029_0_0 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]aqui embaixo! aqui embaixo! Diga "aah"...[n][f 1 3 65535][w][e]

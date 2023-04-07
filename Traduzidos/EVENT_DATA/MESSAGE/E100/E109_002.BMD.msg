@@ -5,7 +5,7 @@
 [s][vp 8 0 0 0 65535 0]Yongen-Jaya...[n]Aoyama-Itchome...[n]Troco de linha...[n][f 1 3 65535][w][e]
 
 [msg MND_002_0_0]
-[s][vp 8 0 0 0 65535 0]Parece que preciso ir até[n]a estação Shibuya e fazer uma[n]troca de linha lá.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Parece que preciso ir até[n]a Estação Shibuya e fazer uma[n]troca de linha lá.[n][f 1 3 65535][w][e]
 
 [msg MND_003_0_0]
 [s][vp 8 0 0 0 65535 0]Mais notícias sobre o acidente[n]no metrô...[n][f 1 3 65535][w][e]

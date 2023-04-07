@@ -66,7 +66,7 @@
 
 [msg MSG_1027_005_00 [Ryuji]]
 [s][bup 0 2 7 65535 1][f 4 10 65535 0 0][vp 1 0 0 22 0 0]Talvez eu não tenha mudado nada[n]desde que[n]enfrentamos Kamoshida...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 1 0 0 23 0 0]Eu queria ser um Ladrão Fantasma[n]porque pensei que alguém[n]como eu também poderia ser um herói...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 1 0 0 23 0 0]Eu queria ser um Phantom Thief[n]porque pensei que alguém[n]como eu também poderia ser um herói...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 1 0 0 24 0 0]Eu gostava de ser alguém em quem se podia[n]confiar. Mas talvez eu tenha colocado isso na[n]minha cabeça...[n][f 1 3 65535][w][e]
 [s][bup 0 2 3 65535 1][f 4 10 65535 0 0][vp 1 0 0 25 0 0]Achei que poderia fazer qualquer coisa, em nome[n]da justiça. Mas isso me tornou semelhante aos[n]nossos alvos.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 1 0 0 26 0 0]Eu costumava chamá-los de merda,[n]mas talvez o mais merda seja eu.[n]Não consigo nem brincar com isso.[n][f 1 3 65535][w][e]

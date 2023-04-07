@@ -16,7 +16,7 @@
 
 [msg MSG_004_0_0 [Médico fleumático]]
 [s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 0 0 6 4 0]Quer um fedorento, então?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 7 4 0]Piada. Não existem pílulas semelhantes. OK, chega[n]de bater mato...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 7 4 0]Piada. Não existem pílulas semelhantes. Ok, chega[n]de bater mato...[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Médico fleumático]]
 [s][bup 0 108 2 0 0][f 4 10 65535 0 0][vp 8 0 0 8 4 0]Oh...? Você é o paciente,[n]eh. Você acha que pode me dizer[n]como fazer meu trabalho?[n][f 1 3 65535][w][e]

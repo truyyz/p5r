@@ -1,5 +1,5 @@
 [msg MSG_000_0_0 [Ryuji]]
-[s][f 5 14]Quem jamais pensaria em se autodenominar[n]"Splendida Ladra"...?[n][w][e]
+[s][f 5 14]Quem jamais pensaria em se autodenominar[n]"Beauty Thief"...?[n][w][e]
 
 [msg MSG_001_0_0 [Ann]]
 [s][f 5 14]Acho que é ideia da Morgana...[n][w][e]

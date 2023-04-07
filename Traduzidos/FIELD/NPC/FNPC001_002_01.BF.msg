@@ -378,7 +378,7 @@
 [s][vp 9 2 65535 42604 0 0]Já ouvi falar de outras pessoas[n]que "confessaram seus[n]crimes" do nada...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_006_12_]
-[s][vp 9 2 65535 38055 0 0]É bobagem... As pessoas[n]não conseguem parar de falar[n]sobre[n]aqueles "Ladrões Fantasmas"...[n][f 1 2 180][e]
+[s][vp 9 2 65535 38055 0 0]É bobagem... As pessoas[n]não conseguem parar de falar[n]sobre[n]aqueles "Phantom Thieves"...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_006_13_]
 [s][vp 9 2 65535 40355 0 0]E assim, qualquer um poderia[n]tentar algo obscuro[n]nas nossas costas...[n][f 1 2 180][e]
@@ -573,13 +573,13 @@
 [s][vp 9 2 65535 41804 0 0]De acordo com relatos da mídia,[n]os Phantom Thieves podem[n]estar envolvidos...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_13_]
-[s][vp 9 2 65535 38756 0 0]Você ouviu sobre isso[n]no noticiário? Parece que[n]os Ladrões Fantasmas fizeram isso![n][f 1 2 180][e]
+[s][vp 9 2 65535 38756 0 0]Você ouviu sobre isso[n]no noticiário? Parece que[n]os Phantom Thieves fizeram isso![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_14_]
 [s][vp 9 2 65535 39153 0 0]The Phantom Thieves[n]carta de aviso[n]previu tudo...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_15_]
-[s][vp 9 2 65535 39356 0 0]Você ouviu sobre isso[n]no noticiário? Parece que[n]os Ladrões Fantasmas fizeram isso![n][f 1 2 180][e]
+[s][vp 9 2 65535 39356 0 0]Você ouviu sobre isso[n]no noticiário? Parece que[n]os Phantom Thieves fizeram isso![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_16_]
 [s][vp 9 2 65535 39004 0 0]É verdade que[n]Phantom Thieves resolveu[n]aquele incidente?!?[n][f 1 2 180][e]
@@ -594,7 +594,7 @@
 [s][vp 9 2 65535 40804 0 0]Medjed parece[n]muito interessado em[n]Phantom Thieves.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_011_04_]
-[s][vp 9 2 65535 41153 0 0]Eles estão dizendo a ele todas as[n]cores... Quem sabe o que[n]os Ladrões Fantasmas farão...[n][f 1 2 180][e]
+[s][vp 9 2 65535 41153 0 0]Eles estão dizendo a ele todas as[n]cores... Quem sabe o que[n]os Phantom Thieves farão...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_011_05_]
 [s][vp 9 2 65535 40304 0 0]Mas que tipo de grupo é[n]Medjed, afinal?[n][f 1 2 180][e]
@@ -618,7 +618,7 @@
 [s][vp 9 2 65535 45104 0 0]Quem sabe o que[n]os Phantom Thieves farão sobre[n]sobre Medjed...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_011_12_]
-[s][vp 9 2 65535 38254 0 0]Eles estão dizendo a ele todas as[n]cores... Quem sabe o que[n]os Ladrões Fantasmas farão...[n][f 1 2 180][e]
+[s][vp 9 2 65535 38254 0 0]Eles estão dizendo a ele todas as[n]cores... Quem sabe o que[n]os Phantom Thieves farão...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_011_13_]
 [s][vp 9 2 65535 39804 0 0]Veja as notícias sobre essa[n]declaração? Como você acha que[n]os Phantom Thieves vão reagir?[n][f 1 2 180][e]
@@ -630,7 +630,7 @@
 [s][vp 9 2 65535 38654 0 0]Medjed parece[n]muito interessado em[n]Phantom Thieves.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_011_16_]
-[s][vp 9 2 65535 44254 0 0]Eles estão dizendo a ele todas as[n]cores... Quem sabe o que[n]os Ladrões Fantasmas farão...[n][f 1 2 180][e]
+[s][vp 9 2 65535 44254 0 0]Eles estão dizendo a ele todas as[n]cores... Quem sabe o que[n]os Phantom Thieves farão...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_012_01_]
 [s][vp 9 2 65535 39057 0 0]Vamos, Phantom Thieves...[n]falem.[n][f 1 2 180][e]
@@ -648,7 +648,7 @@
 [s][vp 9 2 65535 41504 0 0]O que os Phantom Thieves[n]faz[n]contra os hackers?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_012_06_]
-[s][vp 9 2 65535 41856 0 0]O que[n]os Ladrões Fantasmas estão fazendo...?[n][f 1 2 180][e]
+[s][vp 9 2 65535 41856 0 0]O que[n]os Phantom Thieves estão fazendo...?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_012_07_]
 [s][vp 9 2 65535 43852 0 0]O Japão foi alvo.[n]Espero que façam[n]algo a respeito.[n][f 1 2 180][e]
@@ -801,7 +801,7 @@
 [s][vp 9 2 65535 41650 0 0]Tudo ficará bem enquanto os[n]Phantom Thieves estiverem[n]aqui para nos proteger![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_015_09_]
-[s][vp 9 2 65535 38206 0 0]Ficaremos bem.[n]Os Ladrões Fantasmas[n]cuidem de nós![n][f 1 2 180][e]
+[s][vp 9 2 65535 38206 0 0]Ficaremos bem.[n]Os Phantom Thieves[n]cuidem de nós![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_015_10_]
 [s][vp 9 2 65535 38405 0 0]É uma loucura o quão[n]populares são os Phantom Thieves...[n][f 1 2 180][e]
@@ -813,7 +813,7 @@
 [s][vp 9 2 65535 41153 0 0]Talvez eu envie um pedido[n]aos Phantom Thieves...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_015_13_]
-[s][vp 9 2 65535 39056 0 0]Ficaremos bem.[n]Os Ladrões Fantasmas[n]cuidem de nós![n][f 1 2 180][e]
+[s][vp 9 2 65535 39056 0 0]Ficaremos bem.[n]Os Phantom Thieves[n]cuidem de nós![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_015_14_]
 [s][vp 9 2 65535 41861 0 0]Onde quer que você vire, toda a conversa[n]é sobre os Ladrões[n]Phantom...[n][f 1 2 180][e]
@@ -1017,7 +1017,7 @@
 [s][vp 9 2 65535 43251 0 0]Eles despertam o coração de uma pessoa matando-a?[n]Eles são loucos![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_020_01_]
-[s][vp 9 2 65535 43507 0 0]Alguém, não importa quem,[n]faça algo para parar[n]aqueles Ladrões Fantasmas...[n][f 1 2 180][e]
+[s][vp 9 2 65535 43507 0 0]Alguém, não importa quem,[n]faça algo para parar[n]aqueles Phantom Thieves...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_020_02_]
 [s][vp 9 2 65535 43401 0 0]Tanto o governo quanto a polícia[n]são incompetentes...[n]O que será deste país?[n][f 1 2 180][e]
@@ -1041,19 +1041,19 @@
 [s][vp 9 2 65535 43851 0 0]Sabemos muito bem quem são os[n]culpados, porque ninguém[n]pegou ainda!?![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_020_09_]
-[s][vp 9 2 65535 41907 0 0]Alguém, não importa quem,[n]faça algo para parar[n]aqueles Ladrões Fantasmas...[n][f 1 2 180][e]
+[s][vp 9 2 65535 41907 0 0]Alguém, não importa quem,[n]faça algo para parar[n]aqueles Phantom Thieves...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_020_10_]
 [s][vp 9 2 65535 40301 0 0]Tanto o governo quanto a polícia[n]são incompetentes...[n]O que será deste país?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_020_11_]
-[s][vp 9 2 65535 37657 0 0]Apresse-se e lide com[n]aqueles ladrões fantasmas![n][f 1 2 180][e]
+[s][vp 9 2 65535 37657 0 0]Apresse-se e lide com[n]aqueles Phantom Thieves![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_020_12_]
 [s][vp 9 2 65535 40251 0 0]Quando a polícia[n]irá agir para prender[n]os Phantom Thieves!?![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_020_13_]
-[s][vp 9 2 65535 42707 0 0]Alguém, não importa quem,[n]faça algo para parar[n]aqueles Ladrões Fantasmas...[n][f 1 2 180][e]
+[s][vp 9 2 65535 42707 0 0]Alguém, não importa quem,[n]faça algo para parar[n]aqueles Phantom Thieves...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_020_14_]
 [s][vp 9 2 65535 40702 0 0]Tanto o governo quanto a polícia[n]são incompetentes...[n]O que será deste país?[n][f 1 2 180][e]
@@ -1083,7 +1083,7 @@
 [s][vp 9 2 65535 41859 0 0]Poder! Não sei como, mas você deve[n]parar os Phantom Thieves...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_021_07_]
-[s][vp 9 2 65535 41251 0 0]Colocar uma recompensa pelas cabeças dos Ladrões[n]Fantasmas realmente servirá para prendê-los...?[n][f 1 2 180][e]
+[s][vp 9 2 65535 41251 0 0]Colocar uma recompensa pelas cabeças dos Phantom[n]Thieves realmente servirá para prendê-los...?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_021_08_]
 [s][vp 9 2 65535 41157 0 0]Quanto mais[n]temos que viver com[n]medo dos Phantom Thieves?[n][f 1 2 180][e]
@@ -1257,13 +1257,13 @@
 [s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_025_01_]
-[s][vp 9 2 65535 43910 0 0]O mundo é um lugar melhor,[n]agora que aquele Ladrão Fantasma[n]está morto...[n][f 1 2 180][e]
+[s][vp 9 2 65535 43910 0 0]O mundo é um lugar melhor,[n]agora que aquele Phantom Thief[n]está morto...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_025_02_]
-[s][vp 9 2 65535 37602 0 0]Quem esperaria que[n]aquele Ladrão Fantasma fosse[n]apenas uma criança...[n][f 1 2 180][e]
+[s][vp 9 2 65535 37602 0 0]Quem esperaria que[n]aquele Phantom Thief fosse[n]apenas uma criança...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_025_03_]
-[s][vp 9 2 65535 42154 0 0]Mas é verdade? Aquele ladrão[n]fantasma tirou a própria vida!?![n][f 1 2 180][e]
+[s][vp 9 2 65535 42154 0 0]Mas é verdade? Aquele Phantom[n]Thief tirou a própria vida!?![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_025_04_]
 [s]0[n][f 1 2 180][e]
@@ -1278,7 +1278,7 @@
 [s][vp 9 2 65535 39705 0 0]Tenho certeza que[n]outro[n]raptus nunca mais acontecerá...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_025_08_]
-[s][vp 9 2 65535 44202 0 0]Aquele Ladrão Fantasma se matou!?! Eu pensei que[n]ele tinha acabado de ser preso...[n][f 1 2 180][e]
+[s][vp 9 2 65535 44202 0 0]Aquele Phantom Thief se matou!?! Eu pensei que[n]ele tinha acabado de ser preso...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_025_09_]
 [s][vp 9 2 65535 39504 0 0]O líder dos Phantom Thieves que eles[n]capturaram tirou a própria vida!?![n][f 1 2 180][e]
@@ -1287,7 +1287,7 @@
 [s][vp 9 2 65535 40355 0 0]Ele não deveria ter se matado[n]só porque foi[n]pego...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_025_11_]
-[s][vp 9 2 65535 42154 0 0]Mas é verdade que o Ladrão Fantasma[n]era um estudante!?![n][f 1 2 180][e]
+[s][vp 9 2 65535 42154 0 0]Mas é verdade que o Phantom Thief[n]era um estudante!?![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_025_12_]
 [s][vp 9 2 65535 42352 0 0]Nunca pensei que[n]Phantom Thief fosse apenas[n]um menor de idade...[n][f 1 2 180][e]
@@ -1299,7 +1299,7 @@
 [s][vp 9 2 65535 45311 0 0]Agora que aquele Phantom Thief[n]chutou o balde, estamos[n]seguros, certo?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_025_15_]
-[s][vp 9 2 65535 39355 0 0]Mas é verdade? Aquele ladrão[n]fantasma tirou a própria vida!?![n][f 1 2 180][e]
+[s][vp 9 2 65535 39355 0 0]Mas é verdade? Aquele Phantom[n]Thief tirou a própria vida!?![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_025_16_]
 [s]0[n][f 1 2 180][e]
@@ -1401,7 +1401,7 @@
 [s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_028_01_]
-[s][vp 9 2 65535 42251 0 0]Mas ele não deveria estar morto, aquele Ladrão[n]Fantasma? Que porra está acontecendo?[n][f 1 2 180][e]
+[s][vp 9 2 65535 42251 0 0]Mas ele não deveria estar morto, aquele Phantom[n]Thief? Que porra está acontecendo?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_028_02_]
 [s][vp 9 2 65535 41954 0 0]O que você acha do discurso[n]que eles fizeram após[n]sabotar as transmissões?[n][f 1 2 180][e]
@@ -1437,7 +1437,7 @@
 [s][vp 9 2 65535 44757 0 0]The Phantom Thieves de novo?[n]O que está acontecendo?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_028_13_]
-[s][vp 9 2 65535 41909 0 0]Por que aqueles Ladrões Fantasmas[n]apareceram do nada?[n]Eu realmente não entendo...[n][f 1 2 180][e]
+[s][vp 9 2 65535 41909 0 0]Por que aqueles Phantom Thieves[n]apareceram do nada?[n]Eu realmente não entendo...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_028_14_]
 [s][vp 9 2 65535 39155 0 0]Os Phantom Thieves devem estar[n]mentindo, certo...?[n][f 1 2 180][e]

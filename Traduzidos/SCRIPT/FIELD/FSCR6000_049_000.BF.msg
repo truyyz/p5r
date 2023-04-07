@@ -17,7 +17,7 @@
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7198 65535 0]Sim vamos![n][w][e]
 
 [msg MSG_017_0_0 [Sombra de akitsu]]
-[s][vp 8 2 1 46810 65535 0]Os ladrões fantasmas, hein? Já que[n]somos todos fugitivos, eu poderia[n]sugerir onde nos esconder.[n][w][e]
+[s][vp 8 2 1 46810 65535 0]Os Phantom Thieves, hein? Já que[n]somos todos fugitivos, eu poderia[n]sugerir onde nos esconder.[n][w][e]
 
 [msg MSG_018_0_0 [Ryuji]]
 [s][bup 0 2 11 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7043 65535 0]Ei, nunca aceitaremos a ajuda de[n]um bastardo como você.[n][w][e]

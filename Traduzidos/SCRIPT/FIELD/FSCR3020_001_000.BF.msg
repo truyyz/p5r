@@ -7,7 +7,7 @@
 [s]É muito cansativo.[e]
 
 [msg MSG_DESK_CLEAN_START [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0]OK! Vamos polir[n]esta mesa![n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Ok! Vamos polir[n]esta mesa![n][w][e]
 
 [msg MSG_DESK_CLEAN_CANCEL [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0]Ei, o que há de errado com você? Não podemos[n]criar ferramentas se não[n]limparmos essa bagunça primeiro.[n][w][e]

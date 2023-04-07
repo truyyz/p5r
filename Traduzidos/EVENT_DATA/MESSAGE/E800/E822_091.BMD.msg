@@ -26,7 +26,7 @@
 
 [msg MSG_006_0_0 [Futaba]]
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 9191 65535 0]Mal posso esperar... Provavelmente[n]hoje vamos nos divertir muito mais,[n]só nós dois![n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]OK! Aqui está o primeiro objetivo![n]The Universe Coaster![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ok! Aqui está o primeiro objetivo![n]The Universe Coaster![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vamos, leve-me! Leve-me![n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Futaba]]

@@ -132,7 +132,7 @@
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][vp 8 0 0 50 65535 0]Ei, quem se importa. Estamos[n]dirigindo um ônibus felino no Metaverso.[n][f 1 3 65535][w][e]
 
 [msg MSG_042_0_0 [Ann]]
-[s][bup 0 4 103 0 0][f 4 10 65535 0 0][vp 8 0 0 51 65535 0]Hum, segurança em primeiro lugar,[n]OK?[n][f 1 3 65535][w][e]
+[s][bup 0 4 103 0 0][f 4 10 65535 0 0][vp 8 0 0 51 65535 0]Hum, segurança em primeiro lugar,[n]Ok?[n][f 1 3 65535][w][e]
 
 [msg MSG_043_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 52 65535 0]É melhor você não bater[n]minha cara bonita na parede,[n]claro?!?[n][f 1 3 65535][w][e]

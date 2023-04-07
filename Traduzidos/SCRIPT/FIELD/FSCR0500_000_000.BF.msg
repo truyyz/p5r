@@ -65,7 +65,7 @@
 [s]Oh? Vamos nos reorganizar?[n][w][e]
 
 [msg D_EXIT_OK_01_PC02_mes [Ryuji]]
-[s][bup 0 2 0 65535 0]OK, vamos mover.[n][w][e]
+[s][bup 0 2 0 65535 0]Ok, vamos mover.[n][w][e]
 
 [msg D_EXIT_OK_01_PC03_mes [Morgana]]
 [s][bup 0 3 0 65535 0]Mmm, melhor ir para hoje.[n][w][e]
@@ -89,7 +89,7 @@
 [s]......[n][w][e]
 
 [msg D_EXIT_OK_02_PC02_mes [Ryuji]]
-[s][bup 0 2 0 65535 0]OK, vamos voltar.[n][w][e]
+[s][bup 0 2 0 65535 0]Ok, vamos voltar.[n][w][e]
 
 [msg D_EXIT_OK_02_PC03_mes [Morgana]]
 [s][bup 0 3 0 65535 0]Mmm, é uma boa hora para ir embora.[n][w][e]
@@ -140,10 +140,10 @@
 [s][bup 0 2 0 65535 0]Devemos discutir[n]uma estratégia, certo?[n][w][e]
 
 [msg D_EXIT_GOTO_SAFE_PC03_me [Morgana]]
-[s][bup 0 3 0 65535 0]OK. Me dê um segundo.[n][w][e]
+[s][bup 0 3 0 65535 0]Ok. Me dê um segundo.[n][w][e]
 
 [msg D_EXIT_GOTO_SAFE_PC04_me [Ann]]
-[s][bup 0 4 0 65535 0]OK. Devíamos ter uma reunião de estratégia.[n][w][e]
+[s][bup 0 4 0 65535 0]Ok. Devíamos ter uma reunião de estratégia.[n][w][e]
 
 [msg D_EXIT_GOTO_SAFE_PC05_me [Yusuke]]
 [s][bup 0 5 0 65535 0]Sim, primeiro vamos ver as[n]opções disponíveis para nós.[n][w][e]
@@ -161,13 +161,13 @@
 [s]Pode ser uma boa[n]ideia. Vá em frente.[n][w][e]
 
 [msg D_EXIT_CANCEL_PC02_mes [Ryuji]]
-[s][bup 0 2 0 65535 0]OK. Posso continuar,[n]se é isso que você quer.[n][w][e]
+[s][bup 0 2 0 65535 0]Ok. Posso continuar,[n]se é isso que você quer.[n][w][e]
 
 [msg D_EXIT_CANCEL_PC03_mes [Morgana]]
 [s][bup 0 3 0 65535 0]Sim, acho que poderíamos[n]arrecadar mais algum dinheiro.[n][w][e]
 
 [msg D_EXIT_CANCEL_PC04_mes [Ann]]
-[s][bup 0 4 0 65535 0]OK, então vamos dar uma olhada[n]mais um pouco.[n][w][e]
+[s][bup 0 4 0 65535 0]Ok, então vamos dar uma olhada[n]mais um pouco.[n][w][e]
 
 [msg D_EXIT_CANCEL_PC05_mes [Yusuke]]
 [s][bup 0 5 0 65535 0]Concordo. Acho que há[n]outros lugares para descobrir.[n][w][e]

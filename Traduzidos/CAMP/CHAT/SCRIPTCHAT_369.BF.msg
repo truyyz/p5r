@@ -1,5 +1,5 @@
 [msg MSG_000_0_0 [Mishima]]
-[s][f 5 14]Agora eu conheço meus[n]ladrões fantasmas! Eu sabia que eles[n]iriam conseguir![n][w][e]
+[s][f 5 14]Agora eu conheço meus[n]Phantom Thieves! Eu sabia que eles[n]iriam conseguir![n][w][e]
 
 [msg MSG_001_0_0 [Mishima]]
 [s][f 5 14]Isso prova conclusivamente[n]que a justiça está do lado dos[n]Phantom Thieves![n][w][e]

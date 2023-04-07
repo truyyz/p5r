@@ -15,7 +15,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]É como se o coração dela[n]despertasse...[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Hifumi]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 106 7 300 1][vp 8 2 0 18001 65535 0]Um despertar do coração...[n]Os Ladrões Fantasmas!?![n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 106 7 300 1][vp 8 2 0 18001 65535 0]Um despertar do coração...[n]Os Phantom Thieves!?![n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Hifumi]]
 [s][bup 0 106 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Não pode ser.[n][f 1 3 65535][w][e]

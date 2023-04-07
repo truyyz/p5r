@@ -58,7 +58,7 @@
 [s][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Achei que sim, então pedi[n]uma garrafa na loja de vinhos.[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Lala Escargot]]
-[s][vp 8 0 0 20 65535 0]Ufa... OK, vou buscar.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 20 65535 0]Ufa... Ok, vou buscar.[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Ohya]]
 [s][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]Inacreditável... Parece que Lala-chan[n]entendeu a dica.[n][f 1 3 65535][w][e]
@@ -81,7 +81,7 @@
 [s][bup 0 107 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 50 65535 0]Mais uma vez... obrigado.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 51 65535 0]Toda vez que eu estava prestes a desistir,[n]você me incentivou a continuar.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 52 65535 0]Se eu cheguei aqui[n]foi só graças a você...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 53 65535 0]...Senhor Ladrão Fantasma.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 53 65535 0]...Senhor Phantom Thief.[n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Ohya]]
 [s][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 28 65535 0]O despertar do coração do chefe[n]aconteceu de forma idêntica[n]como nos outros casos.[n][f 1 3 65535][w][e]
@@ -90,7 +90,7 @@
 [sel SEL_023_0_0 top]
 [s]Você sempre soube?[e]
 [s]É uma coincidência.[e]
-[s]O verdadeiro Ladrão Fantasma é Lala.[e]
+[s]O verdadeiro Phantom Thief é Lala.[e]
 
 [msg MSG_024_0_0 [Ohya]]
 [s][bup 0 107 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 30 65535 0]Era óbvio demais.[n][f 1 3 65535][w][e]

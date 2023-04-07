@@ -91,7 +91,7 @@
 [s]Eu vou te esperar.[e]
 
 [msg MSG_026_0_0 [Haru]]
-[s][bup 0 7 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 3021 65535 0]O-Oh, OK...[n][f 1 3 65535][w][e]
+[s][bup 0 7 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 3021 65535 0]O-Oh, Ok...[n][f 1 3 65535][w][e]
 
 [msg MSG_028_0_0 [Haru]]
 [s][vp 8 2 0 0 65535 0]Que felicidade pode haver no[n]lucro obtido por esmagar[n]o coração de outras pessoas?[n][f 1 3 65535][w][e]

@@ -6,7 +6,7 @@
 [s]Vamos para Shinagawa.[e]
 
 [msg MSG_002_0_0 [Takemi]]
-[s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Shinagawa? E porque? Bem, eu acho que[n]essa é uma pergunta estúpida ...[n][f 1 3 65535][w][e]
+[s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Shinagawa? E por quê? Bem, eu acho que[n]essa é uma pergunta estúpida ...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Estou no trabalho, mas posso sair mais cedo. Nos[n]vemos lá.[n][f 1 3 65535][w][e]
 
 [msg MND_003_0_0]

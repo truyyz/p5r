@@ -112,5 +112,5 @@
 [s][vp 8 0 0 0 65535 0]Eu tenho que fazer algo pelo[n]objetivo de Takemi...[n][f 1 3 65535][w][e]
 
 [msg MSG_028_0_0 [Takemi]]
-[s][vp 8 2 0 14139 65535 0]...OK, tome cuidado.[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 14139 65535 0]...Ok, tome cuidado.[n][f 1 3 65535][w][e]
 

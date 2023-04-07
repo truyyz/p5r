@@ -21,7 +21,7 @@
 [s][f 5 14]Vamos lá, vamos decidir onde[n]nos encontramos.[n][w][e]
 
 [msg MSG_007_0_0 [Ryuji]]
-[s][f 5 14]Você sabe como chegar à estação[n]Shibuya?[n][w][e]
+[s][f 5 14]Você sabe como chegar à Estação[n]Shibuya?[n][w][e]
 
 [msg MSG_008_0_0 [Ann]]
 [s][f 5 14]Ei, não aguento.[n]Você pode verificar o assento[n]para mim?[n][w][e]

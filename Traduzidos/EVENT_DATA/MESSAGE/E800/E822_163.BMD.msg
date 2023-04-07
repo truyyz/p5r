@@ -25,7 +25,7 @@
 [s][bup 0 110 0 0 0][f 4 10 65535 0 0][vp 8 2 0 17019 65535 0]O que você quer montar,[n][f 4 1]-san? Há alguma[n]atração que me intriga.[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Shinya]]
-[s][bup 0 110 1 0 0][f 4 10 65535 0 0][vp 8 2 0 17059 65535 0]Tem certeza?[n]OK, então está decidido![n][f 1 3 65535][w][e]
+[s][bup 0 110 1 0 0][f 4 10 65535 0 0][vp 8 2 0 17059 65535 0]Tem certeza?[n]Ok, então está decidido![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Quem sabe se podemos experimentá-los todos em um[n]dia. Você tem que ficar na fila, certo? Melhor[n]se apressar![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Hum, na verdade... Faz tempo que eu queria vir aqui...![n][f 1 3 65535][w][e]
 

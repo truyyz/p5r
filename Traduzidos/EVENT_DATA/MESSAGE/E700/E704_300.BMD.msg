@@ -6,7 +6,7 @@
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 59 5 100]Cumprirei minha parte do acordo[n]e executarei minha[n]tarefa da melhor maneira possível. Basta perguntar.[n][f 1 3 65535][w][e]
 
 [sel SEL_002_0_0 top]
-[s]Obrigada.[e]
+[s]Obrigado.[e]
 [s]Vou me certificar de que não.[e]
 [s][f 0 8 2 1 2217]Serei muito exigente.[clr 27][e]
 

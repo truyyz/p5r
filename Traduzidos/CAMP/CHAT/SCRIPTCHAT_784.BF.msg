@@ -49,7 +49,7 @@
 [s][f 5 14]Parece legal! Vamos nos encontrar em[n]Shinjuku.[n][f 5 15][w][e]
 
 [msg MSG_210_0_0 [Ryuji]]
-[s][f 5 14]OK. Então acho que[n]vou relaxar um pouco.[n][f 5 15][w][e]
+[s][f 5 14]Ok. Então acho que[n]vou relaxar um pouco.[n][f 5 15][w][e]
 
 [msg MSG_400_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Tem muitos peixes na[n]lagoa, não tem? Mal posso esperar![n][f 1 3 65535][w][e]

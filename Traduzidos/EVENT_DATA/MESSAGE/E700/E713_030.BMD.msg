@@ -16,7 +16,7 @@
 
 [msg MSG_004_0_0 [Takemi]]
 [s][bup 0 108 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 6 0 1 5 100]Estamos progredindo muito.[n]A gente aprende com os erros, né?[n][f 1 3 65535][w][e]
-[s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 6 0 59 5 100][f 4 24 0 6 0 0 5 100]OK espere. Uma vez inseridos[n]todos os dados, podemos continuar...[n][f 1 3 65535][w][e]
+[s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 6 0 59 5 100][f 4 24 0 6 0 0 5 100]Ok espere. Uma vez inseridos[n]todos os dados, podemos continuar...[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Takemi]]
 [s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 2 0 14004 65535 0]Olá, Takemi[n]clínica de medicina interna. Como[n]posso ajudá-lo?[n][f 1 3 65535][w][e]
@@ -95,5 +95,5 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Se você permanecer vivo,[n]volte logo.[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Takemi]]
-[s][vp 8 2 0 14115 65535 0]OK, tome cuidado.[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 14115 65535 0]Ok, tome cuidado.[n][f 1 3 65535][w][e]
 

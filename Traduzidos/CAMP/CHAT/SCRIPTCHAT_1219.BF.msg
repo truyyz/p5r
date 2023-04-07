@@ -14,7 +14,7 @@
 [s][f 5 14]Por que voce não veio? Estou esperando por[n]você há muito tempo![n][w][e]
 
 [msg CHAT_REACTION_MSG [Ohya]]
-[s][f 5 14]OK.[n][f 5 15][w][e]
+[s][f 5 14]Ok.[n][f 5 15][w][e]
 
 [msg MND_COOP_RANK_UP_OK]
 [s]Sinto que em breve meu vínculo com Ohya[n]se fortalecerá...[n][w][e]

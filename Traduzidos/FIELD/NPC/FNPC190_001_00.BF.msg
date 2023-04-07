@@ -54,7 +54,7 @@
 [s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 1 2 65535 0]Acho que você se tornou[n]mais forte desde a última tentativa.[n][w][e]
 
 [msg BTL_MES_03 [Caroline]]
-[s][bup 0 102 1 0 0][f 4 10 65535 0 0][vp 8 0 1 3 65535 0][f 4 23 1 121 4 3 0 3]OK, mãos à obra![n][w][e]
+[s][bup 0 102 1 0 0][f 4 10 65535 0 0][vp 8 0 1 3 65535 0][f 4 23 1 121 4 3 0 3]Ok, mãos à obra![n][w][e]
 
 [sel BTL_SEL_01 top]
 [s]Vamos fazê-lo.[e]
@@ -484,7 +484,7 @@
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1037 65535 0]Não, sua Persona é muito fraca.[n]Você estaria em perigo em uma luta[n]direta, então deixe isso conosco.[n][w][e]
 
 [msg D156_01_npc_01_mes03 [Haru]]
-[s][bup 0 7 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 3022 65535 0]OK...[n][w][e]
+[s][bup 0 7 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 3022 65535 0]Ok...[n][w][e]
 
 [msg D162_01_npc_01_mes01 [[f 4 31 10 0]]]
 [s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 57136 65535 0]Eu quero falar com o Dr. Maruki.[n]Deixe-me ir com você.[n][w][e]

@@ -97,5 +97,5 @@
 [s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Tudo bem, vamos nos divertir.[n][f 1 3 65535][w][e]
 
 [msg MSG_025_0_0 [Takemi]]
-[s][vp 8 2 0 14097 65535 0]OK, obrigado pelo esforço.[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 14097 65535 0]Ok, obrigado pelo esforço.[n][f 1 3 65535][w][e]
 

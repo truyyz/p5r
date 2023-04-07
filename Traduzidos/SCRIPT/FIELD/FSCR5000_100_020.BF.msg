@@ -20,7 +20,7 @@
 [s][f 2 5 3 9999 1](x[var 11])[e]
 
 [msg SAFE_RECOVERY_OK_PC03_me [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]OK, vamos descansar um pouco, pessoal![n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ok, vamos descansar um pouco, pessoal![n][w][e]
 
 [msg SAFE_RECOVERY_OK_PC09_me [Akechi]]
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Então descansamos.[n][w][e]

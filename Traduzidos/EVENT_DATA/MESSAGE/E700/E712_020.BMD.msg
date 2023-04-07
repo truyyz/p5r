@@ -34,7 +34,7 @@
 
 [msg MSG_010_0_0 [Homem obscuro]]
 [s][vp 8 0 0 0 65535 0]Oooh, entendi. Ainda tentando[n]manter o antigo código[n]de honra, hein?[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]OK, vou dizer a ele que você quer conhecê-lo![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Ok, vou dizer a ele que você quer conhecê-lo![n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Iwai]]
 [s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 2 0 13037 65535 0]Não, idiota. Eu só quero estar[n]no mesmo lugar na mesma hora.[n]Deve parecer coincidência.[n][f 1 3 65535][w][e]

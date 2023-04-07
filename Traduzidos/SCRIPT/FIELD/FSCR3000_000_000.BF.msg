@@ -17,7 +17,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 1171 65535 0]Você já está indo para a cama?[n][w][e]
 
 [sel MY_BED_SEL_00 top]
-[s]Dorme[e]
+[s]Dormir[e]
 [s]Gastar tempo até o prazo[e]
 [s]não durma ainda[e]
 
@@ -36,7 +36,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 1172 65535 0]Vamos dormir,[n]por esta noite.[n][w][e]
 
 [sel MY_BED_SEL_01 top]
-[s]Dorme[e]
+[s]Dormir[e]
 [s]Fique bem até o prazo[e]
 [s]não durma ainda[e]
 
@@ -44,7 +44,7 @@
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 2 1 1156 65535 0]Amanhã teremos a única chance[n]de colocar as mãos no Tesouro.[n]Vamos com tudo, vamos lá![n][w][e]
 
 [sel MY_BED_SEL_02 top]
-[s]Dorme[e]
+[s]Dormir[e]
 [s]Fique bem até o prazo[e]
 [s]não durma ainda[e]
 
@@ -52,7 +52,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 53116 65535 0]Para esta noite, você pode ir com calma. Não há[n]mais nada a fazer senão esperar o despertar do[n]coração.[n][w][e]
 
 [sel MY_BED_SEL_03 top]
-[s]Dorme[e]
+[s]Dormir[e]
 [s]Fique bem até o prazo[e]
 [s]não durma ainda[e]
 
@@ -60,7 +60,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 1164 65535 0]Não há razão para se preocupar com isso agora.[n]Vamos dormir.[n][w][e]
 
 [sel MY_BED_SEL_04 top]
-[s]Dorme[e]
+[s]Dormir[e]
 [s]Fique bem até o prazo[e]
 [s]não durma ainda[e]
 
@@ -218,7 +218,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0]Não importa, é melhor se você descansar agora.[n]Não se preocupe, não foi grande coisa.[n][w][e]
 
 [msg MSG_BED_MORGANA_NIGHT_09_3 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 1020 65535 0]OK, vamos dormir um pouco.[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 1020 65535 0]Ok, vamos dormir um pouco.[n][w][e]
 
 [msg MSG_BED_MORGANA_NIGHT_09_4 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 2 1 1174 65535 0]Eu quero ajudar Haru.[n]Você pode me dar uma mão?[n][w][e]
@@ -258,7 +258,7 @@
 [s][f 4 23 1 65535 3 10 0 0][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 9178 65535 0]é muito tarde...[n][w][e]
 
 [sel SEL_BED_MORGANA_NIGHT_10 top]
-[s]Dorme[e]
+[s]Dormir[e]
 [s]Fique acordado[e]
 
 [msg MSG_BED_MORGANA_NIGHT_10_11 [Futaba]]
@@ -316,7 +316,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 1020 65535 0]Mas então ...[n]estamos viciados?[n][w][e]
 
 [sel MY_BED_SEL_06 top]
-[s]Dorme[e]
+[s]Dormir[e]
 [s]Fique bem até o prazo[e]
 [s]não durma ainda[e]
 
@@ -324,12 +324,12 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 1192 65535 0]Você já está indo para a cama?[n][w][e]
 
 [sel MY_BED_SEL_08 top]
-[s]Dorme[e]
+[s]Dormir[e]
 [s]Fique bem até o prazo[e]
 [s]não durma ainda[e]
 
 [msg MSG_BED_MORGANA_NIGHT_12_3 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0]OK boa noite.[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0]Ok boa noite.[n][w][e]
 
 [msg MSG_BED_MORGANA_NIGHT_12_4 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0]Você não consegue dormir?[n][w][e]
@@ -355,12 +355,12 @@
 [s]Talvez eu tire uma soneca...[n][w][e]
 
 [sel MY_BED_SEL_LONELY top]
-[s]Dorme[e]
+[s]Dormir[e]
 [s]Fique bem até o prazo[e]
 [s]não durma ainda[e]
 
 [sel MY_BED_SEL_DAYTIME top]
-[s]Dorme[e]
+[s]Dormir[e]
 [s]Gastar tempo até o prazo[e]
 [s]Não durma[e]
 
@@ -375,7 +375,7 @@
 [s][bup 0 2 0 65535 0]Você está dormindo?[n]Vou para casa então.[n][w][e]
 
 [msg MSG_MY_BED_ANNE_OUT [Ann]]
-[s][bup 0 4 0 65535 0]Ir para a cama? OK, então eu vou.[n][w][e]
+[s][bup 0 4 0 65535 0]Ir para a cama? Ok, então eu vou.[n][w][e]
 
 [msg MSG_MY_BED_YUSUKE_OUT [Yusuke]]
 [s][bup 0 5 0 65535 0]Hum? Você vai para a cama?[n]Então eu vou para casa.[n][w][e]
@@ -412,7 +412,7 @@
 [s]Talvez eu ignore o[n]diário e vá para a cama...[n][w][e]
 
 [sel BED_CHECK_0410_EV_SEL top]
-[s]Dorme[e]
+[s]Dormir[e]
 [s]Cancelar[e]
 
 [msg BED_CHECK_0410_EV_mes02]
@@ -575,28 +575,28 @@
 [s][bup 0 3 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]Hum? Vá dormir?[n][w][e]
 
 [sel SEL_MSG_BED_MORGANA_NIGH top]
-[s]Dorme[e]
+[s]Dormir[e]
 [s]Fique acordado[e]
 
 [msg MSG_BED_MORGANA_NIGHT_04_5 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 2 1 1044 65535 0]Você está indo dormir? Amanhã[n]com certeza iremos ao Palácio![n]Não se esqueça![n][w][e]
 
 [sel SEL_MSG_BED_MORGANA_NIGH_2 top]
-[s]Dorme[e]
+[s]Dormir[e]
 [s]Fique acordado[e]
 
 [msg MSG_BED_MORGANA_NIGHT_04_6 [Morgana]]
 [s][bup 0 3 5 65535 0][f 4 10 65535 0 0][vp 8 2 1 1044 65535 0]Ir para a cama? Acho que por enquanto[n]você não pode fazer nada...[n][w][e]
 
 [sel SEL_MSG_BED_MORGANA_NIGH_3 top]
-[s]Dorme[e]
+[s]Dormir[e]
 [s]Fique acordado[e]
 
 [msg MSG_BED_MORGANA_NIGHT_04_7 [Morgana]]
 [s][bup 0 3 5 65535 0][f 4 10 65535 0 0][vp 8 2 1 1027 65535 0]Vá dormir? Sim, acho que isso faz sentido...[n][w][e]
 
 [sel SEL_MSG_BED_MORGANA_NIGH_4 top]
-[s]Dorme[e]
+[s]Dormir[e]
 [s]Fique acordado[e]
 
 [msg MSG_BED_MORGANA_NIGHT_04_8 [Morgana]]

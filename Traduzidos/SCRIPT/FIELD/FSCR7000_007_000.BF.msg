@@ -36,7 +36,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0]Oh, você não vai jogar?[n][w][e]
 
 [msg MSG_UFO_Line_YOKO_Start [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1174 65535 0]OK pronto? Rua![n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1174 65535 0]Ok pronto? Rua![n][w][e]
 
 [msg MSG_UFO_Line_OKU_Start [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Este é um momento[n]crucial! Devagar![n][w][e]

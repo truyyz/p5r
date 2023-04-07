@@ -63,7 +63,7 @@
 [s][f 5 14]Sempre nos reunimos lá.[n][w][e]
 
 [msg MSG_021_0_0 [Sumire]]
-[s][f 5 14]OK! Mas podemos nos reunir lá?[n]É um café.[n][w][e]
+[s][f 5 14]Ok! Mas podemos nos reunir lá?[n]É um café.[n][w][e]
 
 [msg MSG_022_0_0 [Futaba]]
 [s][f 5 14]Não, tudo bem. Ninguém nunca vai lá, de[n]qualquer maneira.[n][w][e]
@@ -72,7 +72,7 @@
 [s][f 5 14]Então está decidido! Vejo todos vocês na[n]Leblanc![n][w][e]
 
 [msg MSG_024_0_0 [Sumire]]
-[s][f 5 14][f 5 15]OK! Vejo todos vocês lá![n][w][e]
+[s][f 5 14][f 5 15]Ok! Vejo todos vocês lá![n][w][e]
 
 [msg MSG_025_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1190 65535 0]Armazene todos os suprimentos[n]importantes. Melhor não ficar seco em[n]momentos inoportunos.[n][f 1 3 65535][w][e]

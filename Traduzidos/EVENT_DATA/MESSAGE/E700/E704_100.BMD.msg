@@ -215,5 +215,5 @@
 
 [msg MSG_057_0_0 [Yusuke]]
 [s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 95 65535 0]Que tal irmos?[n][f 1 3 65535][w][e]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 96 65535 0]Se eu quiser aprofundar meu[n]conhecimento do coração humano, os[n]Ladrões Fantasmas devem ficar ocupados![n][f 1 3 65535][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 96 65535 0]Se eu quiser aprofundar meu[n]conhecimento do coração humano, os[n]Phantom Thieves devem ficar ocupados![n][f 1 3 65535][w][e]
 

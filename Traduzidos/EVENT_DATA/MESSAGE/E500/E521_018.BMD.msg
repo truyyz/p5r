@@ -28,7 +28,7 @@
 [s]Voltei.[e]
 
 [msg MSG_009_0_0 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]OK, vamos pegar uma mesa![n][f 1 3 65535][w][e]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Ok, vamos pegar uma mesa![n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Sojiro]]
 [s][bup 0 103 1 0 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Tenho que ir fazer compras.[n][f 1 3 65535][w][e]
@@ -86,7 +86,7 @@
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 31 65535 0]E graças a isso, temos[n]nosso líder novamente![n][f 1 3 65535][w][e]
 
 [sel SEL_027_0_0 top]
-[s]Obrigada.[e]
+[s]Obrigado.[e]
 [s]Você me salvou.[e]
 [s]Você demorou.[e]
 

@@ -19,7 +19,7 @@
 [s][f 5 14]Oh... Sério?[n]Bem, escute, cara...[n][w][e]
 
 [msg MSG_005_1_0 [Ryuji]]
-[s][f 5 14]OK. Não quero[n]apressá-lo, mas...[n][w][e]
+[s][f 5 14]Ok. Não quero[n]apressá-lo, mas...[n][w][e]
 
 [msg MSG_006_0_0 [Ryuji]]
 [s][f 5 14]Outro dia, enquanto estávamos[n]dentro do Palácio[n]algo me ocorreu.[n][w][e]

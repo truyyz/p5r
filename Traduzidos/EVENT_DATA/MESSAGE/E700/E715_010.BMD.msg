@@ -20,7 +20,7 @@
 [sel SEL_005_0_0 top]
 [s]Mesmo que.[e]
 [s]Não não Isso.[e]
-[s]Tenho notícias dos Ladrões Fantasmas.[e]
+[s]Tenho notícias dos Phantom Thieves.[e]
 
 [msg MSG_006_0_0 [Ohya]]
 [s][bup 0 107 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]"Mesmo que? Então me diga... você[n]notícias sobre os Phantom Thieves?[n][f 1 3 65535][w][e]
@@ -32,7 +32,7 @@
 [s][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]A sério? Você veio até aqui[n]só para me dizer isso?[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Ohya]]
-[s][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Graças a Deus... a editora[n]acabou de me nomear repórter principal[n]no caso dos Ladrões Fantasmas.[n][f 1 3 65535][w][e]
+[s][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Graças a Deus... a editora[n]acabou de me nomear repórter principal[n]no caso dos Phantom Thieves.[n][f 1 3 65535][w][e]
 [s][bup 0 107 1 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 42 4 100][f 4 24 0 4 0 0 0 0][vp 8 0 0 12 65535 0]Caramba... isso vai me ajudar.[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Lala Escargot]]
@@ -117,7 +117,7 @@
 [s][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 39 65535 0]É claro. É claro. Mas a qualidade[n]das peças vai depender[n]das informações que você me der.[n][f 1 3 65535][w][e]
 
 [msg MSG_032_0_0 [Ohya]]
-[s][bup 0 107 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 40 65535 0]...OK. Negócio.[n][f 1 3 65535][w][e]
+[s][bup 0 107 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 40 65535 0]...Ok. Negócio.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 41 65535 0]Farei grande publicidade[n]para os Phantom Thieves, então[n]certifique-se de me dar notícias bombásticas.[n][f 1 3 65535][w][e]
 
 [msg MND_990_0_0]
@@ -142,7 +142,7 @@
 [s][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 42 65535 0]Oh. Mas não diga nada a ninguém,[n]entendido? Não quero que se saiba[n]que minha fonte é um estudante do ensino médio.[n][f 1 3 65535][w][e]
 
 [msg MSG_034_0_0 [Ohya]]
-[s][bup 0 107 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 43 65535 0]OK, Lala-chaaan! Devemos[n]celebrar nosso acordo![n][f 1 3 65535][w][e]
+[s][bup 0 107 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 43 65535 0]Ok, Lala-chaaan! Devemos[n]celebrar nosso acordo![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 44 65535 0]Traga minha garrafa![n]E dois copos...![n][f 1 3 65535][w][e]
 
 [msg MSG_034_5_0 [Ohya]]

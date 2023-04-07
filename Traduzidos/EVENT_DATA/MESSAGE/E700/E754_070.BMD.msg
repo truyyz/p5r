@@ -44,7 +44,7 @@
 
 [msg MSG_012_0_0 [Ohya]]
 [s][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Entendo. Então peço desculpas[n]pelo seu pequeno escândalo.[n][f 1 3 65535][w][e]
-[s][bup 0 107 1 65535 0][f 4 10 65535 0 0][f 4 24 0 4 6 42 3 100][vp 8 0 0 15 65535 0]OK. Acho que posso te perdoar![n][f 1 3 65535][w][e]
+[s][bup 0 107 1 65535 0][f 4 10 65535 0 0][f 4 24 0 4 6 42 3 100][vp 8 0 0 15 65535 0]Ok. Acho que posso te perdoar![n][f 1 3 65535][w][e]
 
 [msg MND_013_0_0]
 [s][vp 8 0 0 0 65535 0]...Ohya parece feliz.[n][f 1 3 65535][w][e]

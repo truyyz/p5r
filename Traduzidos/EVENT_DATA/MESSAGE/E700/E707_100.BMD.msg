@@ -49,7 +49,7 @@
 
 [msg MSG_015_0_0 [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 39 65535 0]Hahaha...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 29 65535 0]...É estranho, não é? Tudo começou[n]com o treinamento para o[n]negócio dos Ladrões Fantasmas...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 29 65535 0]...É estranho, não é? Tudo começou[n]com o treinamento para o[n]negócio dos Phantom Thieves...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 30 65535 0]Como chegamos[n]a este ponto?[n][f 1 3 65535][w][e]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 31 65535 0]Enfim, agora é a minha vez.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 32 65535 0]Se você precisar de mim, me diga. Farei de tudo[n]para ajudá-lo.[n][f 1 3 65535][w][e]

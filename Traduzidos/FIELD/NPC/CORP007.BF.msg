@@ -95,7 +95,7 @@
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 23 1 207 32 10 31 10][vp 8 2 1 0 65535 0]...Eu acho que uma mudança de[n]ritmo não pode machucar.[n][w][e]
 
 [msg MSG_C07_ACTION_D00_31_12 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 23 1 207 32 10 31 10][vp 8 2 1 7053 65535 0]OK, quando você decidir[n]deixe-me saber.[n][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 23 1 207 32 10 31 10][vp 8 2 1 7053 65535 0]Ok, quando você decidir[n]deixe-me saber.[n][w][e]
 
 [msg MSG_C07_BEGIN_D00_40_00 [Ryuji]]
 [s][bup 0 2 11 65535 0][f 4 10 65535 0 0][f 4 23 1 207 32 10 31 10][vp 8 2 1 7167 65535 0]O prazo está próximo.[n]Vamos entrar no Palácio, certo?[n][w][e]
@@ -178,7 +178,7 @@
 [s]Não tenho certeza.[e]
 
 [msg MSG_C07_ACTION_D07_99_00 [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][f 4 23 1 207 32 10 31 10][vp 8 2 1 7023 65535 0]OK. Também reunimos os outros.[n][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][f 4 23 1 207 32 10 31 10][vp 8 2 1 7023 65535 0]Ok. Também reunimos os outros.[n][w][e]
 
 [msg MSG_C07_ACTION_D07_31_00 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 23 1 207 32 10 31 10][vp 8 2 1 0 65535 0]Temos até o[n]prazo.[n][w][e]
@@ -470,10 +470,10 @@
 [s][vp 8 2 1 0 65535 0][f 4 10 65535 0 0]Se dependesse de mim, eu iria com certeza para um[n]lugar onde a comida fosse boa![n][w][e]
 
 [msg MSG_C07_YES_00_00 [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][f 4 23 1 207 32 10 31 10][vp 8 2 1 7060 65535 0]OK, vá se trocar.[n]Hoje vamos correr.[n][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][f 4 23 1 207 32 10 31 10][vp 8 2 1 7060 65535 0]Ok, vá se trocar.[n]Hoje vamos correr.[n][w][e]
 
 [msg MSG_C07_YES_00_07 [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][f 4 23 1 207 32 10 31 10][vp 8 2 1 7060 65535 0]OK, vamos atrás do ginásio.[n][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][f 4 23 1 207 32 10 31 10][vp 8 2 1 7060 65535 0]Ok, vamos atrás do ginásio.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Podemos nos esgueirar pelos fundos.[n]Deve ser fácil para nós.[n][w][e]
 
 [msg MSG_RYUJI_K_NO [Ryuji]]
@@ -481,7 +481,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 7081 65535 0]Vou investigar, prometo.[n]Vamos treinar outro dia.[n][w][e]
 
 [msg MSG_C07_YES_10_00 [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][f 4 23 1 207 32 10 31 10][vp 8 2 1 7060 65535 0]OK. Vamos nos trocar e nos encontrar[n]no lugar de sempre![n][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][f 4 23 1 207 32 10 31 10][vp 8 2 1 7060 65535 0]Ok. Vamos nos trocar e nos encontrar[n]no lugar de sempre![n][w][e]
 
 [msg MSG_C07_COOP_CANCEL_00 [Ryuji]]
 [s][bup 0 2 3 65535 0][f 4 10 65535 0 0][f 4 23 1 207 32 10 31 10][vp 8 2 1 7063 65535 0]Oh cara...[n][w][e]
@@ -661,7 +661,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 7024 65535 0]Eu vou te mostrar como um homem de verdade joga![n][w][e]
 
 [msg MSG_C07_VISIT_99_00 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 23 1 200 14 10 13 10][vp 8 2 1 7183 65535 0]OK, então eu vou ficar aqui e tomar uma bebida[n]alguma coisa e relaxar.[n][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 23 1 200 14 10 13 10][vp 8 2 1 7183 65535 0]Ok, então eu vou ficar aqui e tomar uma bebida[n]alguma coisa e relaxar.[n][w][e]
 [s][vp 8 2 1 0 65535 0][f 4 10 65535 0 0]Se você quer que fiquemos juntos,[n]lembre-se de avisar os outros.[n][w][e]
 
 [msg MSG_C07_BYEGREET_00_00 [Ryuji]]

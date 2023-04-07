@@ -145,7 +145,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 97 65535 0]Não poderíamos atingir[n]seu mestre sem primeiro[n]alcançar uma decisão unânime.[n][f 1 3 65535][w][e]
 
 [msg MSG_047_0_0 [Kasumi]]
-[s][bup 0 10 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 53 65535 0]OK, queria te perguntar uma coisa...[n][f 1 3 65535][w][e]
+[s][bup 0 10 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 53 65535 0]Ok, queria te perguntar uma coisa...[n][f 1 3 65535][w][e]
 
 [msg MSG_047_5_0 [Kasumi]]
 [s][bup 0 10 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 98 65535 0]Vocês são dois dos Ladrões[n]Phantom?[n][f 1 3 65535][w][e]

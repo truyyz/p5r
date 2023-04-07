@@ -105,7 +105,7 @@
 
 [msg MSG_026_0_0 [Maruki]]
 [s][bup 0 216 400 65535 0][f 4 10 65535 0 0][vp 8 0 0 32 65535 0]O relacionamento que vocês dois compartilham[n]é muito incomum...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 33 65535 0]Um detetive e um ladrão fantasma.[n]Embora inimigos, seu vínculo[n]não é baseado em ódio ou ressentimentos.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 33 65535 0]Um detetive e um Phantom Thief.[n]Embora inimigos, seu vínculo[n]não é baseado em ódio ou ressentimentos.[n][f 1 3 65535][w][e]
 
 [msg MSG_027_0_0 [Maruki]]
 [s][bup 0 216 403 65535 0][f 4 10 65535 0 0][vp 8 0 0 34 65535 0]É por isso que pareceu trágico para mim,[n]quando descobri o que[n]aconteceu no Palácio Shido...[n][f 1 3 65535][w][e]

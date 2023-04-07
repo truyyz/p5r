@@ -256,7 +256,7 @@
 [s][bup 0 103 0 65535 0][f 4 23 1 205 33 10 33 10][f 4 23 1 235 31 10 30 10][vp 8 2 1 5020 65535 0][f 4 10 65535 0 0]Agora, tenho que pensar no jantar[n]esta noite... Que ingredientes[n]ainda me restam?[n][w][e]
 
 [msg MSG_SOJIRO_NG_D05_05 [Sojiro]]
-[s][bup 0 103 0 65535 0][f 4 23 1 205 33 10 33 10][f 4 23 1 235 31 10 30 10][vp 8 2 1 5147 65535 0][f 4 10 65535 0 0]Você se dá bem com seus amigos?[n]Lembre-se de tratá-los bem,[n]OK?[n][w][e]
+[s][bup 0 103 0 65535 0][f 4 23 1 205 33 10 33 10][f 4 23 1 235 31 10 30 10][vp 8 2 1 5147 65535 0][f 4 10 65535 0 0]Você se dá bem com seus amigos?[n]Lembre-se de tratá-los bem,[n]Ok?[n][w][e]
 
 [msg MSG_SOJIRO_NG_D06_1_01 [Sojiro]]
 [s][bup 0 103 0 65535 0][f 4 23 1 205 33 10 33 10][f 4 23 1 235 31 10 30 10][vp 8 2 1 5018 65535 0][f 4 10 65535 0 0]Você falou com a Futaba?[n]Ela te contou alguma coisa?[n][w][e]
@@ -331,7 +331,7 @@
 [s][bup 0 103 1 65535 0][f 4 23 1 205 33 10 33 10][f 4 23 1 235 31 10 30 10][vp 8 2 1 5086 65535 0][f 4 10 65535 0 0]Você parece um homem que[n]fez seu trabalho. Estou[n]feliz por você estar bem.[n][w][e]
 
 [msg MSG_SOJIRO_NG_D07_2_04 [Sojiro]]
-[s][bup 0 103 0 65535 0][f 4 23 1 205 33 10 33 10][f 4 23 1 235 31 10 30 10][vp 8 2 1 5086 65535 0][f 4 10 65535 0 0]OK, o que vai acontecer agora? Eu também não[n]tenho a menor ideia.[n][w][e]
+[s][bup 0 103 0 65535 0][f 4 23 1 205 33 10 33 10][f 4 23 1 235 31 10 30 10][vp 8 2 1 5086 65535 0][f 4 10 65535 0 0]Ok, o que vai acontecer agora? Eu também não[n]tenho a menor ideia.[n][w][e]
 
 [msg MSG_SOJIRO_NG_D07_2_05 [Sojiro]]
 [s][bup 0 103 3 65535 0][f 4 23 1 205 33 10 33 10][f 4 23 1 235 31 10 30 10][vp 8 2 1 5153 65535 0][f 4 10 65535 0 0]A opinião pública continua a apoiar[n]Shido... O que diabos está acontecendo...?[n][w][e]
@@ -571,7 +571,7 @@
 [s][bup 0 103 0 65535 0][f 4 23 1 205 33 10 33 10][f 4 23 1 235 31 10 30 10][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu vou à igreja com Futaba.[n]Sinto muito, mas você tem que vir também.[n][w][e]
 
 [sel SEL_C05_YES_09_01 top]
-[s]Porque?[e]
+[s]Por quê?[e]
 [s]Ah, vocês são tipos religiosos?[e]
 [s]Que aborrecido...[e]
 

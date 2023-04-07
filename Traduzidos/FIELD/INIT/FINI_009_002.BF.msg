@@ -38,7 +38,7 @@
 
 [msg MSG_AFTER_EVT_713_MONA_0_4 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0]Tudo bem, vamos voltar quando[n]aquele homem não estiver por perto.[n][w][e]
-[s][f 4 10 65535 0 0]Não devemos envolver estranhos.[n]Vamos manter o segredo dos[n]ladrões fantasmas, ok?[n][w][e]
+[s][f 4 10 65535 0 0]Não devemos envolver estranhos.[n]Vamos manter o segredo dos[n]Phantom Thieves, ok?[n][w][e]
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 1174 65535 0]Enfim, ótimo trabalho![n]Foi ótimo![n][w][e]
 
 [msg MSG_LAST_GREETING_CHAT [Morgana]]
@@ -301,7 +301,7 @@
 
 [sel SEL_NIGHT_MASTER_0418 top]
 [s]Qualquer lugar está bom?[e]
-[s]Obrigada.[e]
+[s]Obrigado.[e]
 
 [msg MSG_NIGHT_MASTER_0418_01_2 [Sojiro]]
 [s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 2 1 5046 65535 0]Dentro dos limites, é claro.[n]Não toque em nada na cozinha.[n][w][e]
@@ -359,7 +359,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0]Bem a tempo, no entanto.[n]Eu não tinha certeza de que[n]conseguiríamos...[n][w][e]
 
 [msg MSG_NIGHT_D01_BANDITCALL_3 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1172 65535 0]Bem, goste ou não, a verdadeira[n]batalha começa amanhã.[n]Prepare-se, OK?[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1172 65535 0]Bem, goste ou não, a verdadeira[n]batalha começa amanhã.[n]Prepare-se, Ok?[n][w][e]
 
 [msg MSG_NIGHT_MASTER_D01_RAI [Sojiro]]
 [s][f 4 23 1 205 33 10 33 10][f 4 23 1 235 31 10 30 10][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 2 1 5001 65535 0]Droga, está chovendo...[n][w][e]
@@ -491,7 +491,7 @@
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1027 65535 0]Vamos roubar o coração de Madarame,[n]certo? Melhor se apressar,[n]ou haverá problemas.[n][w][e]
 
 [msg MSG_NIGHT_MYROOM_D02_052_2 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1176 65535 0]Esqueceu-se do Tesouro?[n]Amanhã DEVEMOS ir ao[n]Palácio, OK?[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1176 65535 0]Esqueceu-se do Tesouro?[n]Amanhã DEVEMOS ir ao[n]Palácio, Ok?[n][w][e]
 
 [msg MSG_NIGHT_0529_000_00 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1156 65535 0]Oh sim! Amanhã você tem que ir com a escola para[n]o Parque Inokashira.[n][w][e]
@@ -639,7 +639,7 @@
 
 [msg MSG_NIGHT_MYROOM_0620_00 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1166 65535 0]O conselho de Makoto[n]parece confiável.[n][w][e]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0]Agora, porém, estamos lidando[n]com um verdadeiro criminoso.[n]Olhos abertos, OK?[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0]Agora, porém, estamos lidando[n]com um verdadeiro criminoso.[n]Olhos abertos, Ok?[n][w][e]
 
 [msg MSG_NIGHT_MASTER_RAINYSE [Sojiro]]
 [s][f 4 23 1 205 33 10 33 10][f 4 23 1 235 31 10 30 10][bup 0 103 3 0 0][f 4 10 65535 0 0][vp 8 2 1 5009 65535 0]Cansei de ver poucos clientes[n]na época das chuvas...[n][w][e]
@@ -890,7 +890,7 @@
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1027 65535 0]Vamos roubar o coração de Niijima,[n]certo? Melhor se apressar,[n]ou haverá problemas.[n][w][e]
 
 [msg MSG_NIGHT_D06_LOCK_1114_ [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1176 65535 0]Esqueceu-se do Tesouro?[n]Amanhã DEVEMOS ir ao[n]Palácio, OK?[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1176 65535 0]Esqueceu-se do Tesouro?[n]Amanhã DEVEMOS ir ao[n]Palácio, Ok?[n][w][e]
 
 [msg MSG_NIGHT_D06_LOCK_1115_ [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1156 65535 0]Ei, você não esqueceu, não é?[n]Amanhã temos que continuar[n]explorando o Palácio![n][w][e]
@@ -905,7 +905,7 @@
 
 [msg MSG_NIGHT_1117_001_00 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1156 65535 0]Se você não enviar a carta de aviso[n]amanhã, será tarde demais.[n][w][e]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0]Vamos entregá-lo amanhã.[n]Conclua os preparativos[n]até hoje à noite, OK?[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0]Vamos entregá-lo amanhã.[n]Conclua os preparativos[n]até hoje à noite, Ok?[n][w][e]
 
 [msg MSG_NIGHT_1118_000_00 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1174 65535 0]Melhor não sair hoje à noite.[n]Temos que nos preparar para[n]amanhã, certo?[n][w][e]
@@ -1060,10 +1060,10 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]A propósito, você tem uma notificação[n]no seu telefone. Lembre-se de verificar, ok?[n][w][e]
 
 [msg MSG_DAYTIME_SUGGEST_CHAT_2 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]Ei, seu telefone estava[n]vibrando. Olha quem era, OK?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]Ei, seu telefone estava[n]vibrando. Olha quem era, Ok?[n][w][e]
 
 [msg MSG_DAYTIME_SUGGEST_CHAT_3 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]Ei, seu telefone estava[n]vibrando. Olha quem era, OK?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]Ei, seu telefone estava[n]vibrando. Olha quem era, Ok?[n][w][e]
 
 [msg MSG_DAYTIME_D01_0424_AZI [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]...Ryuji e Lady Ann?[n][w][e]
@@ -1125,7 +1125,7 @@
 
 [msg MSG_DAYTIME_D01_END_0428 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1170 65535 0]Apenas esperar parece[n]muito chato.[n][w][e]
-[s][f 4 10 65535 0 0]Que tal ir para as gaiolas de rebatidas? Tem um[n]próximo ao supermercado yongen, certo?[n][w][e]
+[s][f 4 10 65535 0 0]Que tal ir para as gaiolas de rebatidas? Tem um[n]próximo ao supermercado Yongen, certo?[n][w][e]
 
 [msg MSG_DAYTIME_D01_END_0430 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1170 65535 0]Apenas esperar parece[n]muito chato.[n][w][e]
@@ -1312,7 +1312,7 @@
 [msg MSG_DAYTIME_D04_0726 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1156 65535 0]Para receber a ajuda de Futaba,[n]precisamos roubar seu tesouro antes[n]da véspera do prazo.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Devemos encontrar o tesouro até[n][clr 2]18[clr 27] e enviar a carta de aviso[n]até [clr 2]19[clr 27].[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Você decide quando entrar[n]no Palácio, mas não se esqueça[n]do prazo. OK, líderes?[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Você decide quando entrar[n]no Palácio, mas não se esqueça[n]do prazo. Ok, líderes?[n][w][e]
 
 [msg MSG_DAYTIME_D04_0730 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]Vocês não se viram uma vez.[n]Você está pegando leve[n]porque é verão?[n][w][e]
@@ -1404,7 +1404,7 @@
 
 [msg MSG_DAYTIME_D06_1102 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]É muito ruim não termos nos reunido na reunião...[n][w][e]
-[s][f 4 10 65535 0 0]OK, vamos reunir os outros![n][w][e]
+[s][f 4 10 65535 0 0]Ok, vamos reunir os outros![n][w][e]
 
 [msg MSG_DAYTIME_D06_1117 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]Sabe, se não enviarmos a[n]carta de aviso amanhã, será[n]tarde demais, certo?[n][w][e]
@@ -1600,7 +1600,7 @@
 [s][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Caso contrário, você perderá[n]aquela Persona...[n][w][e]
 
 [msg MSG_PERSONA_JAIL_010_00 [Lavenza]]
-[s][bup 0 100 2 0 1][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Olá sou eu. Estou ligando para[n]lembrar que ainda não há[n]uma de suas Pessoas aqui.[n][w][e]
+[s][bup 0 100 2 0 1][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Olá sou eu. Estou ligando para[n]lembrar que ainda não há[n]uma de suas Personas aqui.[n][w][e]
 [s][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Se você não passar hoje, corre o risco de[n]perdê-lo.[n][w][e]
 
 [msg MSG_PERSONA_JAIL_100_00 [Caroline]]
@@ -1945,7 +1945,7 @@
 [msg MSG_015_2_0 [Ohya]]
 [s][f 5 14]Você tem algo para mim?[n][w][e]
 [s]Bem, o que você está esperando?[n]Pode ser útil.[n][w][e]
-[s]OK, vejo você em Shinjuku,[n]bar de sempre.[n][w][e]
+[s]Ok, vejo você em Shinjuku,[n]bar de sempre.[n][w][e]
 
 [msg MSG_015_3_0 [Ohya]]
 [s][f 5 14]Você descobriu algo[n]interessante?[n][w][e]
@@ -2004,11 +2004,11 @@
 
 [msg MSG_MORUGANA_GO_DUNGEON_ [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0]Oh sim, nós dissemos que nos reuniríamos no ponto[n]de encontro.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 1052 65535 0]OK, vamos agora![n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 1052 65535 0]Ok, vamos agora![n][w][e]
 
 [msg MSG_MORUGANA_GO_DUNGEON__2 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ah, sim, nós dissemos que iríamos nos encontrar[n]no esconderijo, certo?[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]OK, vamos agora![n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ok, vamos agora![n][w][e]
 
 [msg MSG_COOP_ALERTDOWN [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0]Parece que Lady Ann conseguiu[n]diminuir o nível de alerta![n][w][e]
@@ -2144,7 +2144,7 @@
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1027 65535 0]As investigações nos Mementos[n]pararam por algum tempo... Amanhã[n]temos que nos encontrar na reunião![n][w][e]
 
 [msg MSG_NIGHT_MYROOM_000_01 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1176 65535 0]Esqueceu-se do Tesouro?[n]Amanhã DEVEMOS ir ao[n]Palácio, OK?[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1176 65535 0]Esqueceu-se do Tesouro?[n]Amanhã DEVEMOS ir ao[n]Palácio, Ok?[n][w][e]
 
 [msg MSG_NIGHT_MYROOM_010_01 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1178 65535 0]Ei, o prazo está próximo! Amanhã[n]Temos que ir ao Mementos![n][w][e]

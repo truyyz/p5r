@@ -8,7 +8,7 @@
 [s]Só um segundo.[e]
 
 [msg D04_03_e296_330_selA_0_m [Ann]]
-[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6138 65535 0]OK, mas vamos ter cuidado.[n][w][e]
+[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6138 65535 0]Ok, mas vamos ter cuidado.[n][w][e]
 
 [msg D04_03_e296_330_selA_1_m [Makoto]]
 [s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2020 65535 0]Não é uma má ideia. Não custa nada ser cauteloso.[n]Em última análise, estamos sempre em um palácio.[n][w][e]

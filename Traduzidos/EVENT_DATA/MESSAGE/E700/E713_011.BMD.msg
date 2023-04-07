@@ -80,7 +80,7 @@
 [s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Digamos que[n]vai valer a pena.[n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [Takemi]]
-[s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]OK então. Você participará de[n]ensaios clínicos para meu medicamento.[n][f 1 3 65535][w][e]
+[s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ok então. Você participará de[n]ensaios clínicos para meu medicamento.[n][f 1 3 65535][w][e]
 
 [msg MSG_025_0_0 [Takemi]]
 [s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Espere. Eu já volto.[n][f 1 3 65535][w][e]

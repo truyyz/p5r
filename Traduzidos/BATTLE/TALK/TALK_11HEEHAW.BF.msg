@@ -80,10 +80,10 @@
 [s]Bem, esse é o preço da[n]fama! Desculpas aceitas! Mas depois[n]depois eu vou te dar uma surra, oh![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_02_R_2]
-[s]OK, assim é melhor! Vou abaixar[n]minha fúria tresenta[n]por cento, oh![n][w][e]
+[s]Ok, assim é melhor! Vou abaixar[n]minha fúria tresentos[n]por cento, oh![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_02_R_3]
-[s]Eu não gosto do jeito[n]paaa deles. Você não é um figurão, oh?[n][w][e]
+[s]Eu não gosto do jeito[n]deles. Você não é um figurão, oh?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_02_R_4]
 [s]Cheguei ao zênite da minha[n]fuuuria! Vou quebrar seus[n]incisivos, oh![n][w][e]
@@ -371,7 +371,7 @@
 [s]...Espere, não é meio maldoso assim, oh?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_07_R_4]
-[s]OK, mas não me faça perguntas estranhas, oh...[n][w][e]
+[s]Ok, mas não me faça perguntas estranhas, oh...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_07_R_5]
 [s]Meu Deus, oh, não me assuste tanto! Eu pensei que[n]você veio com as autoridades, oh![n][w][e]
@@ -1337,7 +1337,7 @@
 [s]Suas palavras me fazem pensar.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_16_R_3]
-[s]Mmm, OK, então eu acho que não vou me aposentar,[n]oh.[n][w][e]
+[s]Mmm, Ok, então eu acho que não vou me aposentar,[n]oh.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_16_R_4]
 [s]Eu estava pensando sobre isso também, oh.[n]Meus fãs não gostariam disso.[n][w][e]
@@ -1465,7 +1465,7 @@
 [s]Ei, você já me pegou uma vez...[n][w][e]
 
 [msg TalkMsg_GUY_RESULT_GET_P_3]
-[s]Hee-ho?!? Você é muito deeeeeeeeeeeeeeeee, oh![n]Vou te dar um [f 2 5 3 9999 1],[n]assim você vai ficar mais forte, oh![n][w][e]
+[s]Hee-ho?!? Você é muito fraco, oh![n]Vou te dar um [f 2 5 3 9999 1],[n]assim você vai ficar mais forte, oh![n][w][e]
 
 [msg TalkMsg_GUY_RESULT_GET_M]
 [s]...Aqui está [var 0] ienes,[n]tudo para você. Vamos, seja rápido[n]e pegue a massa, oh![n][w][e]
@@ -1627,7 +1627,7 @@
 [s]... Você queria os itens, oh?[n]Eeee aqui![n][w][e]
 
 [msg TalkMsg_GREET_POSSESSED_]
-[s]Não podemos voltar a ficar juntos-oh?[n]OK, vamos negociar, oh![n][w][e]
+[s]Não podemos voltar a ficar juntos-oh?[n]Ok, vamos negociar, oh![n][w][e]
 
 [msg TalkMsg_TALK_POSSESSED_B]
 [s]Ah, eu me sinto tão confortável, oh...[n][w][e]
@@ -1664,7 +1664,7 @@
 
 [msg TalkMsg_RESULT_SHOT_1]
 [s]Hee-hoho?!?[n][w][e]
-[s]Primeiro você diz que é meu amigo[n]e depois tenta me matar?!? OK,[n]vamos fazer do seu jeito, hee-hohohoho![n][w][e]
+[s]Primeiro você diz que é meu amigo[n]e depois tenta me matar?!? Ok,[n]vamos fazer do seu jeito, hee-hohohoho![n][w][e]
 
 [msg TalkMsg_RESULT_SHOT_2]
 [s]Ah, isso é ruim! Um acerto crítico![n]Como? Você sentiu minha falta, hee-ho?[n][w][e]

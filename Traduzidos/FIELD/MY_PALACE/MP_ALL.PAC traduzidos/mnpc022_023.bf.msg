@@ -1,5 +1,5 @@
 [msg MES_GROUP0_01 [Ann]]
-[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 36 10 0 10][vp 8 2 1 6019 65535 0]Os helicópteros são tão emocionantes![n]Realmente combina com toda a ideia do[n]ladrão fantasma.[n][w][e]
+[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 36 10 0 10][vp 8 2 1 6019 65535 0]Os helicópteros são tão emocionantes![n]Realmente combina com toda a ideia do[n]Phantom Thief.[n][w][e]
 
 [msg MES_GROUP0_02 [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 36 10 0 10][vp 8 2 1 7082 65535 0]Eu sei direito? Cara, eu quero experimentar[n]o Flyin '.[n][w][e]

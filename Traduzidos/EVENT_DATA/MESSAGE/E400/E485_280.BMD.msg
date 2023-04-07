@@ -18,7 +18,7 @@
 [s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Você fez um ótimo trabalho[n]despertando o[n]coração do representante Shido.[n][f 1 3 65535][w][e]
 
 [sel SEL_006_0_0 top]
-[s]Obrigada.[e]
+[s]Obrigado.[e]
 [s]Estou dividido.[e]
 
 [msg MSG_007_0_0 [Kasumi]]

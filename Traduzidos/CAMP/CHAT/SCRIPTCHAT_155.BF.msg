@@ -5,7 +5,7 @@
 [s][f 5 14]A notícia dizia[n]que foi[n]uma parada cardíaca…[n][w][e]
 
 [msg MSG_002_0_0 [Ryuji]]
-[s][f 5 14]Mas há uma chance[n]ele vai conseguir, certo...?[n][w][e]
+[s][f 5 14]Mas há uma chance[n]dele sobreviver, certo...?[n][w][e]
 
 [msg MSG_003_0_0 [Makoto]]
 [s][f 5 14]Lamento dizer...[n][w][e]
@@ -41,21 +41,21 @@
 [s][f 5 14]...Somos responsáveis[n]por sua morte?[n][w][e]
 
 [msg MSG_015_0_0 [Ryuji]]
-[s][f 5 14]Mas eu pensei que[n]tudo estava bem até[n]nós matarmos a sombra deles![n][w][e]
+[s][f 5 14]Mas eu pensei que[n]tudo estava bem desde que[n]não matassemos a sua Sombra![n][w][e]
 
 [msg MSG_016_0_0 [Ryuji]]
 [s][f 5 14]Você não disse isso, Morgana?!?[n][w][e]
 
 [msg MSG_017_0_0 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 1 0 0 33 0 0]Tudo deveria estar bem![n][f 1 3 65535][w][e]
-[s][bup 0 3 5 65535 0][f 4 10 65535 0 0][vp 1 0 0 34 0 0]Seria... deveria...[n][f 1 3 65535][w][e]
+[s][bup 0 3 5 65535 0][f 4 10 65535 0 0][vp 1 0 0 34 0 0]Deveria... ser assim...[n][f 1 3 65535][w][e]
 
 [sel SEL_018_0_0 top]
 [s][f 5 14]Ele diz que em teoria é.[e]
 [s]Por que isso aconteceu...?[e]
 
 [msg MSG_019_0_0 [Ann]]
-[s][f 5 14]Bem, não adianta mijar na Mona! Eu também[n]sabia que era assim...[n][w][e]
+[s][f 5 14]Bem, não adianta brigar[n] com Mona! Eu também achava[n] que era assim...[n][w][e]
 
 [msg MSG_020_0_0 [Ann]]
 [s][f 5 14]Afinal, fizemos[n]tudo como de costume...[n][w][e]

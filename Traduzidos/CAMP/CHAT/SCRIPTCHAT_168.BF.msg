@@ -5,7 +5,7 @@
 [s][f 5 14]Agora que penso nisso com calma, é estranho que[n]eles ainda não tenham feito nada.[n][w][e]
 
 [msg MSG_002_0_0 [Makoto]]
-[s][f 5 14]Se o objetivo deles é alvejar os Ladrões[n]Fantasmas, eles devem agir agora, dada a[n]nossa reputação.[n][w][e]
+[s][f 5 14]Se o objetivo deles é alvejar os Phantom[n]Thieves, eles devem agir agora, dada a[n]nossa reputação.[n][w][e]
 
 [msg MSG_003_0_0 [Ann]]
 [s][f 5 14]Já. Se você colocar dessa forma,[n]isso me faz pensar também.[n][w][e]

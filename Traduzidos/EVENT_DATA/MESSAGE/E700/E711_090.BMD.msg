@@ -33,7 +33,7 @@
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 102 15 300 1][vp 8 2 0 11036 65535 0]Vamos, conta pra gente que você quer saber![n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Caroline]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 102 15 300 1][vp 8 2 0 11001 65535 0]Eu tomo esse silêncio como um[n]sim, ok? OK, escute.[n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 102 15 300 1][vp 8 2 0 11001 65535 0]Eu tomo esse silêncio como um[n]sim, ok? Ok, escute.[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Caroline]]
 [s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 2 0 11071 65535 0]Lembrei-me… de algo que[n]alguém me disse.[n]Explique, Justine.[n][f 1 3 65535][w][e]

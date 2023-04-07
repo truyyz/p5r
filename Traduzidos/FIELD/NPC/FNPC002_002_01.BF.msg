@@ -138,7 +138,7 @@
 [s][vp 8 2 1 0 24 0]Vou escrever "Ele parecia cansado... então eu[n] dei a ele uma boa massagem no[n]ombro ☆". *ahah*[n][w][e]
 
 [msg NETOSUTO_talk_02 [Estudante assustador]]
-[s][vp 8 2 1 0 24 0]Ele está falando sobre o Prof. Kamoshida.[n]Eu me pergunto se aqueles "Ladrões Fantasmas[n]de Corações" realmente existem...[n][w][e]
+[s][vp 8 2 1 0 24 0]Ele está falando sobre o Prof. Kamoshida.[n]Eu me pergunto se aqueles "Phantom Thieves[n]de Corações" realmente existem...[n][w][e]
 [s][vp 8 2 1 0 24 0]Oh não! Se o coração de[n]Ikesugi-kun for despertado... eu...[n][w][e]
 [s][vp 8 2 1 0 24 0]Eu vou... vou fazer um cachecol para o[n]aniversário dele. Estaremos juntos. Eu só tenho[n]que tecer minha teia...[n][w][e]
 
@@ -256,7 +256,7 @@
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Desculpe, mas você poderia evitar[n]falar comigo na frente de todos?[n][w][e]
 
 [sel SEL_SINBUNJYOSI_001_0_0 top]
-[s]Porque?[e]
+[s]Por quê?[e]
 [s]Minha culpa.[e]
 [s]Eu faço o que eu quero.[e]
 
@@ -291,7 +291,7 @@
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]...Aquele? Não gosto que você venha até mim com[n]essa indiferença, como se nos conhecêssemos.[n][w][e]
 
 [sel SEL_SINBUNJYOSI_002_01_0 top]
-[s]Porque?[e]
+[s]Por quê?[e]
 [s]Sinto muito.[e]
 [s]Não é nada.[e]
 
@@ -521,7 +521,7 @@
 [s]Eles ainda não decidiram.[e]
 
 [msg MSG_SINBUNJYOSI_010_1_0 [Editor de jornal]]
-[s][f 4 23 1 1 6 10 4 10][vp 8 2 1 0 1 0]Oh, OK. Desculpe, eu provavelmente[n]não deveria ter te perguntado[n]tão de repente.[n][w][e]
+[s][f 4 23 1 1 6 10 4 10][vp 8 2 1 0 1 0]Oh, Ok. Desculpe, eu provavelmente[n]não deveria ter te perguntado[n]tão de repente.[n][w][e]
 
 [msg MSG_SINBUNJYOSI_010_2_0 [Editor de jornal]]
 [s][f 4 23 1 1 6 10 4 10][vp 8 2 1 0 1 0]Bem, se eles querem algum[n]figurão, talvez o governo?[n]Isso seria muuuuito interessante.[n][w][e]
@@ -537,7 +537,7 @@
 
 [sel SEL_SINBUNJYOSI_011_0_0 top]
 [s]Algo sobre a escola?[e]
-[s]Quem são os ladrões fantasmas?[e]
+[s]Quem são os Phantom Thieves?[e]
 [s]Notícias importantes?[e]
 [s]Projetos para o verão?[e]
 
@@ -562,7 +562,7 @@
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0][f 4 1]-kun, sua reputação neste[n]trimestre não é[n]nada ruim. Quer saber uma coisa?[n][w][e]
 
 [sel SEL_SINBUNJYOSI_012_0_0 top]
-[s]Conte-me sobre os Ladrões Fantasmas.[e]
+[s]Conte-me sobre os Phantom Thieves.[e]
 [s]O que está acontecendo na escola?[e]
 [s]Como vai o jornal?[e]
 
@@ -607,7 +607,7 @@
 [s]Como o diretor morreu?[e]
 [s]Conte-me sobre a Okumura Foods.[e]
 [s]Conte-me sobre Haru Okumura.[e]
-[s]Conte-me sobre os Ladrões Fantasmas.[e]
+[s]Conte-me sobre os Phantom Thieves.[e]
 
 [msg MSG_SINBUNJYOSI_014_1_0 [Editor de jornal]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Alguns dizem que foram os[n]Phantom Thieves, mas aparentemente[n]confirmaram o suicídio.[n][w][e]
@@ -673,13 +673,13 @@
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Pode parecer absurdo perguntar[n]você, mas há um tópico específico[n]sobre o qual você gostaria de um artigo?[n][w][e]
 
 [sel SEL_SINBUNJYOSI_016_0_0 top]
-[s]Os ladrões fantasmas.[e]
+[s]Os Phantom Thieves.[e]
 [s]Eventos escolares.[e]
 [s]O que você preferir.[e]
 
 [msg MSG_SINBUNJYOSI_016_1_0 [Editor de jornal]]
 [s][f 4 23 1 1 6 10 4 10][vp 8 2 1 0 1 0]Não tive dúvidas, mas não sei[n]qual é a melhor abordagem[n]para o tema.[n][w][e]
-[s][vp 8 2 1 0 1 0]Você acredita que os Ladrões Fantasmas[n]são os responsáveis pela morte[n]do Presidente Okumura?[n][w][e]
+[s][vp 8 2 1 0 1 0]Você acredita que os Phantom Thieves[n]são os responsáveis pela morte[n]do Presidente Okumura?[n][w][e]
 [s][vp 8 2 1 0 1 0]Não consigo pensar em outra interpretação...[n]Mmh...[n][w][e]
 
 [msg MSG_SINBUNJYOSI_016_2_0 [Editor de jornal]]
@@ -773,7 +773,7 @@
 [s][vp 8 2 1 0 1 0]As informações veiculadas pela mídia[n]são bastante complexas, e[n]isso me frustra muito.[n][w][e]
 
 [msg MSG_SINBUNJYOSI_021_0_0 [Editor de jornal]]
-[s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Parece que as pessoas[n]se acalmaram, em relação aos[n]Ladrões Fantasmas. O que você acha deles?[n][w][e]
+[s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Parece que as pessoas[n]se acalmaram, em relação aos[n]Phantom Thieves. O que você acha deles?[n][w][e]
 
 [sel SEL_SINBUNJYOSI_021_0_0 top]
 [s]Eu perdi o interesse.[e]
@@ -971,7 +971,7 @@
 [s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_01_ [Editor de jornal]]
-[s][vp 9 2 65535 39804 0 0]Ele mencionou os Ladrões Fantasmas.[n]Kamoshida está realmente envolvido[n]de alguma forma?[n][f 1 2 180][e]
+[s][vp 9 2 65535 39804 0 0]Ele mencionou os Phantom Thieves.[n]Kamoshida está realmente envolvido[n]de alguma forma?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_02_ [Editor de jornal]]
 [s]0[n][f 1 2 180][e]
@@ -1016,7 +1016,7 @@
 [s][vp 9 2 65535 39255 0 0]É verdade que eles encontraram[n]outra carta de aviso[n]dos Phantom Thieves?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_011_01_ [Editor de jornal]]
-[s][vp 9 2 65535 42256 0 0]Parece que os Ladrões Fantasmas[n]acabaram com aquela[n]rede criminosa...[n][f 1 2 180][e]
+[s][vp 9 2 65535 42256 0 0]Parece que os Phantom Thieves[n]acabaram com aquela[n]rede criminosa...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_011_02_ [Editor de jornal]]
 [s]0[n][f 1 2 180][e]
@@ -1741,7 +1741,7 @@
 [s][bup 0 6 4 65535 0][f 4 10 65535 0 0][vp 8 2 1 2181 65535 0]Ah...[n][w][e]
 [s][f 4 23 1 0 3 10 0 0][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]O-O que é? Eu estava tão absorto[n]pelo livro que não notei você...[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]...Ah, quase esqueci! Eu tenho[n]uma reunião do conselho estudantil.[n][w][e]
-[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Terminamos...?[n]OK, então. Em breve.[n][w][e]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Terminamos...?[n]Ok, então. Em breve.[n][w][e]
 
 [msg MSG_BIKOU02_002_0_0 [Makoto]]
 [s][f 4 23 1 0 3 10 0 0][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 2029 65535 0]N-Não ligue para mim. Embora[n]não pareça, estou muito ocupado.[n][w][e]

@@ -158,7 +158,7 @@
 
 [msg MSG_021_0_0 [Nanami]]
 [s][vp 8 2 0 58563 4 0]Os clientes pareciam aborrecidos.[n]Talvez estivéssemos muito lentos...[n][f 1 3 65535][w][e]
-[s][vp 8 2 0 0 4 0]Bem, eu ainda aprecio o esforço.[n]Espere, OK?[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 4 0]Bem, eu ainda aprecio o esforço.[n]Espere, Ok?[n][f 1 3 65535][w][e]
 
 [msg MSG_027_0_0 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 1039 65535 0][f 4 22 65535 3 23]Há uma enxurrada de clientes![n]Agora que Shibuya-senpai[n]fez uma pausa...[n][f 1 3 65535][w][e]
@@ -557,7 +557,7 @@
 
 [msg MSG_QUEST_62 [Nanami]]
 [s][vp 8 2 0 0 4 0]Eu continuo pensando naquele gato. É difícil[n]sorrir, pra mim...[n][f 1 3 65535][w][e]
-[s][vp 8 2 0 0 4 0]Você sabe... a polícia não pode[n]fazer nada sobre isso, mas talvez[n]aqueles ladrões fantasmas...?[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 4 0]Você sabe... a polícia não pode[n]fazer nada sobre isso, mas talvez[n]aqueles Phantom Thieves...?[n][f 1 3 65535][w][e]
 
 [sel SEL_QUEST_63 top]
 [s]você sabe o nome dele?[e]
@@ -660,7 +660,7 @@
 
 [msg MSG_Ann_002_001 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 6021 65535 0]Muitos doces aqui,[n]sempre demoro muito para[n]escolher.[n][f 1 3 65535][w][e]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0][f 5 13 7 2 4]OK, continue assim![n]Olá.[n][f 1 3 65535][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0][f 5 13 7 2 4]Ok, continue assim![n]Olá.[n][f 1 3 65535][w][e]
 
 [msg MSG_Yuusuke_002_001 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 4087 65535 0]Mas... por algum motivo...[n]não posso deixar de comprar "Jagariko"...![n][f 1 3 65535][w][e]
@@ -668,11 +668,11 @@
 
 [msg MSG_Makoto_002_001 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 2035 65535 0]Estudar me deixa com muita sede. Recomendo[n]água com açúcar, nesses casos.[n][f 1 3 65535][w][e]
-[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0][f 5 13 3 2 6]OK, até mais tarde.[n]Continue![n][f 1 3 65535][w][e]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0][f 5 13 3 2 6]Ok, até mais tarde.[n]Continue![n][f 1 3 65535][w][e]
 
 [msg MSG_Haru_002_001 [Haru]]
 [s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 3020 65535 0]Vim experimentar o café.[n]Dizem que é tão bom[n]que até os baristas recomendam.[n][f 1 3 65535][w][e]
-[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0][f 5 13 4 2 7]Eheheh, mal posso esperar para provar...[n]OK, boa sorte![n][f 1 3 65535][w][e]
+[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0][f 5 13 4 2 7]Eheheh, mal posso esperar para provar...[n]Ok, boa sorte![n][f 1 3 65535][w][e]
 
 [msg MSG_Kasumi_002_001 [Kasumi]]
 [s][bup 0 10 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 57033 65535 0]As lojas de conveniência são minha[n]salvação quando fico com fome[n]no meio do treino.[n][f 1 3 65535][w][e]

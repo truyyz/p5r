@@ -10,7 +10,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Você nunca traiu seus ideais[n]para seu ganho pessoal.[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Lavenza]]
-[s][bup 0 100 1 0 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]O último Arcano que você[n]ganhou é "O Mundo".[n][f 1 3 65535][w][e]
+[s][bup 0 100 1 0 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]O última Arcana que você[n]ganhou é "O Mundo".[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]É a força de vontade[n]necessária para permanecer incontestado[n]nas adversidades deste mundo.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Graças a ela, você poderá esperar um[n]futuro na companhia de aliados[n]que compartilham o mesmo ideal.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Agora que você adquiriu[n]este poder, você não é mais[n]uma existência errante e solitária...[n][f 1 3 65535][w][e]

@@ -69,7 +69,7 @@
 [s][vp 8 2 1 0 65535 0][f 4 10 65535 0 0]Por enquanto, entre na sala de visitas.[n][w][e]
 
 [msg MSG_C13_PRECOOP_30_00 [Takemi]]
-[s][bup 0 108 0 0 0][f 4 23 1 213 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 14059 65535 0]OK, então vá em frente[n]na sala de exame.[n][w][e]
+[s][bup 0 108 0 0 0][f 4 23 1 213 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 14059 65535 0]Ok, então vá em frente[n]na sala de exame.[n][w][e]
 
 [msg MSG_C13_PRECOOP_40_00 [Takemi]]
 [s][bup 0 108 0 0 0][f 4 23 1 213 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 14115 65535 0]...Se cuida.[n][w][e]
@@ -200,7 +200,7 @@
 [s][bup 0 108 0 0 0][f 4 23 1 213 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Cuidar.[n][w][e]
 
 [msg MSG_C13_SHOP_02_01 [Takemi]]
-[s][bup 0 108 0 0 0][f 4 23 1 213 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]...OK.[n][w][e]
+[s][bup 0 108 0 0 0][f 4 23 1 213 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]...Ok.[n][w][e]
 
 [msg MSG_C13_SHOP_03_00 [Takemi]]
 [s][bup 0 108 0 0 0][f 4 23 1 213 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 14115 65535 0]Boa sorte.[n][w][e]
@@ -242,7 +242,7 @@
 
 [msg MSG_C13_COOP_NG_01_00 [Takemi]]
 [s][bup 0 108 6 0 0][f 4 23 1 213 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 14081 65535 0]Eu deveria ter um paciente agendado para um[n]exame. Volte esta noite, se precisar de alguma[n]coisa.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]...OK?[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]...Ok?[n][w][e]
 
 [msg MSG_C13_COOP_NG_01_01 [Takemi]]
 [s][bup 0 108 3 0 0][f 4 23 1 213 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 14032 65535 0]Me desculpe, eu ainda tenho[n]muito trabalho a fazer,[n]por hoje...[n][w][e]
@@ -267,7 +267,7 @@
 [msg MSG_C13_SPOT_01_00 [Takemi]]
 [s][bup 0 108 0 0 0][f 4 23 1 213 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Às vezes eu gostaria de estudar[n]meus resultados ao ar livre...[n]Em um grande parque, por exemplo.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]O melhor seria um lugar[n]não lotado... Talvez eu procure[n]tal lugar assim que puder.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]OK, vamos passar para o ensaio clínico.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ok, vamos passar para o ensaio clínico.[n][w][e]
 
 [msg MSG_C13_SPOT_02_00 [Takemi]]
 [s][bup 0 108 0 0 0][f 4 23 1 213 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Um ambiente diferente poderia[n]ajudar-me a compreender o impacto[n]da pressão nos dados recolhidos.[n][w][e]
@@ -398,7 +398,7 @@
 [s][bup 0 108 0 0 0][f 4 23 1 213 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 14001 65535 0]...Existe uma urgência,[n]aparentemente.[n][w][e]
 
 [msg MSG_C13_YES_04_00 [Takemi]]
-[s][bup 0 108 0 0 0][f 4 23 1 213 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 14059 65535 0]OK, então vá em frente[n]na sala de exame.[n][w][e]
+[s][bup 0 108 0 0 0][f 4 23 1 213 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 14059 65535 0]Ok, então vá em frente[n]na sala de exame.[n][w][e]
 
 [msg MSG_C13_YES_05_00 [Takemi]]
 [s][bup 0 108 0 0 0][f 4 23 1 213 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Oh, aquela velhinha[n]esqueceu algo...[n][w][e]
@@ -429,7 +429,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Bem, vou dar uma volta.[n]Avise-me quando[n]você estiver pronto para ir.[n][w][e]
 
 [msg MSG_TAKEMI_K_YES [Takemi]]
-[s][bup 0 108 0 0 0][f 4 23 1 213 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 14059 65535 0]OK, então vá em frente[n]na sala de exame.[n][w][e]
+[s][bup 0 108 0 0 0][f 4 23 1 213 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 14059 65535 0]Ok, então vá em frente[n]na sala de exame.[n][w][e]
 
 [msg MSG_C13_YES_10_00 [Takemi]]
 [s][bup 0 108 6 0 0][f 4 23 1 213 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 14110 65535 0]Sim... eu não tenho nenhum outro paciente,[n]então... entre.[n][w][e]
@@ -467,7 +467,7 @@
 [s]não a convide[e]
 
 [msg MSG_C13_SPOT_03_03 [Takemi]]
-[s][bup 0 108 6 0 0][f 4 23 1 213 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 14051 65535 0]Você realmente vai me levar lá?[n]OK, vamos lá então.[n][w][e]
+[s][bup 0 108 6 0 0][f 4 23 1 213 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 14051 65535 0]Você realmente vai me levar lá?[n]Ok, vamos lá então.[n][w][e]
 
 [msg MND_C13_SPOT_04_01]
 [s]Talvez eu devesse convidá-la para comer um[n]monjayaki comigo...[n][w][e]
@@ -477,7 +477,7 @@
 [s]não a convide[e]
 
 [msg MSG_C13_SPOT_04_03 [Takemi]]
-[s][bup 0 108 1 0 0][f 4 23 1 213 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 14051 65535 0]OK, vamos.[n][w][e]
+[s][bup 0 108 1 0 0][f 4 23 1 213 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 14051 65535 0]Ok, vamos.[n][w][e]
 
 [msg MND_C13_SPOT_05_01]
 [s]Devo convidá-la para o meu quarto?[n][w][e]
@@ -488,7 +488,7 @@
 
 [msg MSG_C13_SPOT_05_03 [Takemi]]
 [s][bup 0 108 6 0 0][f 4 23 1 213 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]No seu quarto?!?[n][w][e]
-[s][bup 0 108 6 0 0][f 4 10 65535 0 0][vp 8 2 1 14060 65535 0]OK, tudo bem. Fica aí,[n]vou me preparar.[n][w][e]
+[s][bup 0 108 6 0 0][f 4 10 65535 0 0][vp 8 2 1 14060 65535 0]Ok, tudo bem. Fica aí,[n]vou me preparar.[n][w][e]
 
 [msg MSG_C13_COOP_CANCEL [Takemi]]
 [s][bup 0 108 0 0 0][f 4 23 1 213 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 14022 65535 0]...Bom.[n][w][e]
@@ -683,10 +683,10 @@
 [s][f 4 10 65535 0 0][vp 8 0 1 46 65535 0]Sou mais uma vez um simples[n]médico de bairro sem assistente.[n]Quem sabe o que farei sem você.[n][w][e]
 [s][bup 0 108 1 0 0][f 4 10 65535 0 0][vp 8 0 1 47 65535 0]Estou um pouco assustado, na verdade...[n]mas sei que vai ficar tudo bem.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 48 65535 0]E, afinal, se eu quiser, posso[n]sempre fazer uma visita surpresa em casa.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 1 49 65535 0]Tenha cuidado lá fora, OK?[n]Mesmo para aqueles que se preocupam[n]com você.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 1 49 65535 0]Tenha cuidado lá fora, Ok?[n]Mesmo para aqueles que se preocupam[n]com você.[n][w][e]
 
 [msg MSG_C13_BYEGREET_00_07_5 [Takemi]]
-[s][bup 0 108 6 0 0][f 4 23 1 213 3 10 0 10][f 4 10 65535 0 390][vp 8 0 1 50 65535 0]Tenha cuidado lá fora, OK?[n]Mesmo para aqueles que se preocupam[n]com você.[n][w][e]
+[s][bup 0 108 6 0 0][f 4 23 1 213 3 10 0 10][f 4 10 65535 0 390][vp 8 0 1 50 65535 0]Tenha cuidado lá fora, Ok?[n]Mesmo para aqueles que se preocupam[n]com você.[n][w][e]
 
 [msg MSG_C13_BYEGREET_01_00_5 [Takemi]]
 [s][bup 0 108 0 0 0][f 4 23 1 213 3 10 0 10][f 4 10 65535 0 0][vp 8 0 1 51 65535 0]...Oh, oi.[n]Você vai para casa amanhã, certo?[n][w][e]

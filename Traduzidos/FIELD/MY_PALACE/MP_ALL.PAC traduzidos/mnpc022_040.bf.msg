@@ -75,7 +75,7 @@
 [s][bup 0 111 4 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 19019 65535 0]Uau! Ela é tão punk! Você a conhece,[n]Sakamoto?[n][w][e]
 
 [msg MES_GROUP7_02 [Ryuji]]
-[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 3 10 0 10]IIII... conhece-a? Bem, não exatamente...[n][w][e]
+[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 3 10 0 10]Euuuuuu... conhecço ela? Bem, não exatamente...[n][w][e]
 
 [msg MES_GROUP7_03 [Mishima]]
 [s][bup 0 111 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 56407 65535 0]Essa mancha é absolutamente louca.[n]Eu acho que a personalidade dela também é[n]muito selvagem, hein?[n][w][e]

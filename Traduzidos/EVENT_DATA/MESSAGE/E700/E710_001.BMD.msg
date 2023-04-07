@@ -21,7 +21,7 @@
 
 [sel SEL_007_0_0 top]
 [s]Quanto você ganhou?[e]
-[s]Obrigada.[e]
+[s]Obrigado.[e]
 
 [msg MSG_008_0_0 [Sojiro]]
 [s][bup 0 103 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 5024 65535 0]Deixe os detalhes em paz.[n][f 1 3 65535][w][e]

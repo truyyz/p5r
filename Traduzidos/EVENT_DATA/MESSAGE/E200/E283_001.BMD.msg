@@ -107,7 +107,7 @@
 [sel SEL_030_0_0 top]
 [s]Bom saber.[e]
 [s]O suspeito é você.[e]
-[s]Ryuji é um ladrão fantasma.[e]
+[s]Ryuji é um Phantom Thief.[e]
 
 [msg MSG_031_0_0 [Akechi]]
 [s][bup 0 9 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 40 65535 0]Hahaha, parece que[n]isso não te incomoda nem um pouco.[n][f 1 3 65535][w][e]

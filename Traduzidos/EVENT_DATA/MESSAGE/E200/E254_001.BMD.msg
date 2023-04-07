@@ -18,7 +18,7 @@
 [s][bup 0 6 5 65535 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Eu estava tão envolvido com a ideia de[n]servir a mim mesmo...[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Ryuji]]
-[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]OK, pare de se desculpar![n]O que está feito está feito.[n][f 1 3 65535][w][e]
+[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Ok, pare de se desculpar![n]O que está feito está feito.[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Makoto]]
 [s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]E vou causar problemas[n]minha irmã também ...[n][f 1 3 65535][w][e]

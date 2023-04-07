@@ -16,8 +16,8 @@
 [s][f 5 14]Vamos todos nos encontrar novamente.[e]
 
 [msg MSG_REACTION [Akechi]]
-[s][f 5 14]OK.[n][w][e]
+[s][f 5 14]Ok.[n][w][e]
 
 [msg MSG_REACTION_02 [Akechi]]
-[s][f 5 14]OK. Eu irei imediatamente para a reunião.[n][f 5 15][w][e]
+[s][f 5 14]Ok. Eu irei imediatamente para a reunião.[n][f 5 15][w][e]
 

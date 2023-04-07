@@ -41,7 +41,7 @@
 [s][bup 0 6 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 3 5 6]Para mim, é uma grande oportunidade[n]para atualizar. Obrigado.[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]OK, agora vamos tentar alguns[n]problemas mais complicados.[n][f 1 3 65535][w][e]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ok, agora vamos tentar alguns[n]problemas mais complicados.[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Makoto]]
 [s][vp 8 2 0 2053 65535 0]Lembre-se de revisar mentalmente[n]o material antes[n]de ir para a cama.[n][f 1 3 65535][w][e]
@@ -428,7 +428,7 @@
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 8 5 2]Darei 110% porque[n]você está aqui, [f 4 2].[n][f 1 3 65535][w][e]
 
 [msg MSG_124_0_0 [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]OK, vamos passar para o resto![n][f 1 3 65535][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ok, vamos passar para o resto![n][f 1 3 65535][w][e]
 
 [msg MSG_125_0_0 [Ryuji]]
 [s][vp 8 2 0 7049 65535 0]Estou exausto. Vamos sair.[n][f 1 3 65535][w][e]
@@ -624,7 +624,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 3 5 6]Talvez seja porque estou com você,[n]mas realmente acho que[n]acho agradável hoje.[n][f 1 3 65535][w][e]
 
 [msg MSG_180_0_0 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]OK, vamos para o[n]próximo problema.[n][f 1 3 65535][w][e]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ok, vamos para o[n]próximo problema.[n][f 1 3 65535][w][e]
 
 [msg MSG_181_0_0 [Makoto]]
 [s][vp 8 2 0 2050 65535 0]Melhor não exagerar.[n]Vamos para casa?[n][f 1 3 65535][w][e]
@@ -692,7 +692,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sei que o conceito pode soar familiar para você,[n]mas por enquanto você deve concentrar-se nos[n]estudos, ok?[n][f 1 3 65535][w][e]
 
 [msg MSG_199_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu tinha certeza que[n]ocorreria com você. Por enquanto[n]concentre-se em estudar OK?[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu tinha certeza que[n]ocorreria com você. Por enquanto[n]concentre-se em estudar Ok?[n][f 1 3 65535][w][e]
 
 [msg MSG_200_0_0 [Yusuke]]
 [s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 4189 65535 0]Fico feliz que nossos exames[n]têm conteúdo semelhante,[n]para que eu possa ser útil.[n][f 1 3 65535][w][e]
@@ -816,7 +816,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]É o espírito certo.[n]Antes de ser um Rogue[n]Phantom, você é um estudante.[n][f 1 3 65535][w][e]
 
 [msg MSG_234_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Afinal, antes de ser um[n]Ladrão Fantasma, você é um estudante.[n]Seja um bom professor.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Afinal, antes de ser um[n]Phantom Thief, você é um estudante.[n]Seja um bom professor.[n][f 1 3 65535][w][e]
 
 [msg MSG_235_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 7198 65535 0]Já que você está tão ocupado,[n]não posso relaxar![n][f 1 3 65535][w][e]

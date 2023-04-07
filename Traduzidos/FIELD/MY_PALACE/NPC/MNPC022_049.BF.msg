@@ -70,5 +70,5 @@
 [s][bup 0 5 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 33 10 0 10]Eu diria que mais de dez mil... Não,[n]ainda mais, considerando os[n]dias de vendas...[n][w][e]
 
 [msg MES_GROUP8_05 [Ryuji]]
-[s][bup 0 2 7 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 33 10 0 10][vp 8 2 1 7025 65535 0]OK, já chega.[n][w][e]
+[s][bup 0 2 7 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 33 10 0 10][vp 8 2 1 7025 65535 0]Ok, já chega.[n][w][e]
 

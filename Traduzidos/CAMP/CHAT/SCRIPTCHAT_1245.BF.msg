@@ -14,7 +14,7 @@
 [s][f 5 14]Muito obrigado![n][w][e]
 
 [msg CHAT_REACTION_02 [Kasumi]]
-[s][f 5 14][f 5 15]OK, eu vou esperar por você na cantina[n]na hora do almoço.[n][w][e]
+[s][f 5 14][f 5 15]Ok, eu vou esperar por você na cantina[n]na hora do almoço.[n][w][e]
 
 [msg MSG_MORUGANA_PLAY_RESULT [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Acho que você está almoçando com Kasumi,[n]hein?[n][f 1 3 65535][w][e]

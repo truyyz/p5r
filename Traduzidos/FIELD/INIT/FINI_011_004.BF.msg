@@ -16,7 +16,7 @@
 [s][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Caso contrário, você perderá[n]aquela Persona...[n][w][e]
 
 [msg MSG_PERSONA_JAIL_010_00 [Lavenza]]
-[s][bup 0 100 2 0 1][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Olá. Sou eu. Estou ligando para[n]lembrar que ainda não há[n]uma de suas Pessoas aqui.[n][w][e]
+[s][bup 0 100 2 0 1][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Olá. Sou eu. Estou ligando para[n]lembrar que ainda não há[n]uma de suas Personas aqui.[n][w][e]
 [s][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Se você não passar hoje, corre o risco de[n]perdê-lo.[n][w][e]
 
 [msg MSG_PERSONA_JAIL_100_00 [Caroline]]

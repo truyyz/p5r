@@ -115,8 +115,8 @@
 [s]Existem vários panfletos publicados.[n][w][e]
 [s]"RESULTADOS DOS EXAMES DE ENTRADA;[n]LISTA DE UNIVERSIDADES"[n][w][e]
 [s]"Phantom Thieves of Hearts[n]vistos na Shujin Academy!"[n][w][e]
-[s]"Ladrões fantasmas são os melhores!"[n][w][e]
-[s]"Adeus, ladrões fantasmas!"[n][w][e]
+[s]"Phantom Thieves são os melhores!"[n][w][e]
+[s]"Adeus, Phantom Thieves!"[n][w][e]
 
 [msg MSG_BOARD_M4_04]
 [s]Há um panfleto sobre a ginasta[n]modelo.[n][w][e]

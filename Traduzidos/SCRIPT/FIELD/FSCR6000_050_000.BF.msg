@@ -17,7 +17,7 @@
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4020 65535 0]Ele é definitivamente um homem que[n]merece um despertar do coração.[n][w][e]
 
 [msg MSG_013_0_0 [Sombra de Wakasa]]
-[s][vp 8 2 1 46760 65535 0]Os ladrões fantasmas, hein? Eu ouvi muito sobre[n]você. Sua gangue de ladrões de glamour, hein?[n][w][e]
+[s][vp 8 2 1 46760 65535 0]Os Phantom Thieves, hein? Eu ouvi muito sobre[n]vocês. Sua gangue de ladrões de glamour, hein?[n][w][e]
 [s][vp 1 0 0 0 0 0]Mas nos bastidores você ganhará muito dinheiro.[n]Conte-me seu segredo.[n][w][e]
 
 [msg MSG_014_0_0 [Morgana]]

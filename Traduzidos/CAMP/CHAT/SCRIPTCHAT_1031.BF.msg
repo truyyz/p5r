@@ -37,5 +37,5 @@
 [s][f 5 14]Sério?[n][w][e]
 
 [msg MSG_REACTION_02 [Haru]]
-[s][f 5 14]OK, tudo bem.[n][f 5 15][w][e]
+[s][f 5 14]Ok, tudo bem.[n][f 5 15][w][e]
 

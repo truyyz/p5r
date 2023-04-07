@@ -33,7 +33,7 @@
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não, eu realmente acho que[n]é apenas um gótico.[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Mishima]]
-[s][bup 0 111 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Meus sentidos de Ladrão Fantasma[n]estão vibrando! Na sua opinião não é[n]suspeito, [f 4 1]?[n][f 1 3 65535][w][e]
+[s][bup 0 111 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Meus sentidos de Phantom Thief[n]estão vibrando! Na sua opinião não é[n]suspeito, [f 4 1]?[n][f 1 3 65535][w][e]
 
 [sel SEL_009_0_0 top]
 [s][f 0 8 2 1 2217]É suspeito.[clr 27][e]

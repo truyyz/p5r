@@ -90,7 +90,7 @@
 [s][vp 8 0 0 0 65535 0]Eu sinto um vínculo de confiança[n]exigindo de Ryuji...[n][f 1 3 65535][w][e]
 
 [msg MSG_017_4_0 [Sae]]
-[s][vp 8 0 0 800 65535 0]Seguir sozinho teria feito você[n]mais eficaz como um Ladrão Fantasma.[n]Você poderia ter continuado...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 800 65535 0]Seguir sozinho teria feito você[n]mais eficaz como um Phantom Thief.[n]Você poderia ter continuado...[n][f 1 3 65535][w][e]
 
 [msg MSG_017_5_0 [Sae]]
 [s][vp 8 0 0 801 65535 0]No entanto, você não o fez. Existem[n]vantagens em ter parceiros...[n]Isso é o que você pensou.[n][f 1 3 65535][w][e]

@@ -42,7 +42,7 @@
 [msg MSG_C15_BEGIN_WEATHER_00 [Ohya]]
 [s][bup 0 107 3 65535 0][f 4 10 65535 0 0][f 4 23 1 215 14 10 13 10][vp 8 2 1 16009 65535 0]Quando chove não consigo escrever.[n]Só não me sinto a fim...[n][w][e]
 [s][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]E inevitavelmente acabo[n]vindo aqui para beber.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Inevitavelmente, OK?[n]Inevitavelmente![n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Inevitavelmente, Ok?[n]Inevitavelmente![n][w][e]
 
 [msg MSG_C15_BEGIN_WEATHER_01 [Ohya]]
 [s][bup 0 107 0 65535 0][f 4 10 65535 0 0][f 4 23 1 215 14 10 13 10][vp 8 2 1 16011 65535 0]A assessoria de imprensa enlouquece quando neva[n]na cidade. Mesmo que seja apenas cerca de dois[n]centímetros.[n][w][e]
@@ -123,7 +123,7 @@
 [s][bup 0 107 0 65535 0][f 4 10 65535 0 0][f 4 23 1 215 14 10 13 10][vp 8 2 1 0 65535 0]Você tem alguma informação[n]sobre os Phantom Thieves?[n][w][e]
 
 [msg MSG_C15_COOP_10_00 [Ohya]]
-[s][bup 0 107 1 65535 0][f 4 10 65535 0 0][f 4 23 1 215 14 10 13 10][vp 8 2 1 0 65535 0]Você quer que eu escreva alguma coisa?[n]OK, vou ver o que posso fazer.[n][w][e]
+[s][bup 0 107 1 65535 0][f 4 10 65535 0 0][f 4 23 1 215 14 10 13 10][vp 8 2 1 0 65535 0]Você quer que eu escreva alguma coisa?[n]Ok, vou ver o que posso fazer.[n][w][e]
 
 [msg MSG_C15_COOP_10_01 [Ohya]]
 [s][bup 0 107 6 65535 0][f 4 10 65535 0 0][f 4 23 1 215 14 10 13 10][vp 8 2 1 0 65535 0]Você está aqui para me ver, não é?[n]Claro que você está...[n][w][e]
@@ -238,7 +238,7 @@
 [s][bup 0 107 5 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Precisamos sair daqui rapidamente.[n]Alguns assuntos problemáticos[n]podem vir a saber sobre nós...[n][w][e]
 
 [msg MSG_C15_YES_04_00 [Ohya]]
-[s][bup 0 107 0 65535 0][f 4 10 65535 0 0][f 4 23 1 215 14 10 13 10][vp 8 2 1 16053 65535 0]OK, vamos ouvir um pouco.[n][w][e]
+[s][bup 0 107 0 65535 0][f 4 10 65535 0 0][f 4 23 1 215 14 10 13 10][vp 8 2 1 16053 65535 0]Ok, vamos ouvir um pouco.[n][w][e]
 
 [msg MSG_C15_YES_05_00 [Ohya]]
 [s][bup 0 107 1 65535 0][f 4 10 65535 0 0][f 4 23 1 215 14 10 13 10][vp 8 2 1 16099 65535 0]Espero muito de você.[n]Por favor, sente-se![n][w][e]
@@ -248,7 +248,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Aqui, sente-se.[n][w][e]
 
 [msg MSG_C15_YES_07_01 [Ohya]]
-[s][bup 0 107 0 65535 0][f 4 10 65535 0 0][f 4 23 1 215 14 10 13 10][vp 8 2 1 16061 65535 0]OK... Agora sente-se.[n][w][e]
+[s][bup 0 107 0 65535 0][f 4 10 65535 0 0][f 4 23 1 215 14 10 13 10][vp 8 2 1 16061 65535 0]Ok... Agora sente-se.[n][w][e]
 
 [msg MSG_C15_YES_07_00 [Ohya]]
 [s][bup 0 107 1 65535 0][f 4 10 65535 0 0][f 4 23 1 215 14 10 13 10][vp 8 2 1 16055 65535 0]Sente-se também![n][w][e]
@@ -288,7 +288,7 @@
 
 [msg MSG_C15_SPOT_01_03 [Ohya]]
 [s][bup 0 107 1 65535 0][f 4 10 65535 0 0][f 4 23 1 215 14 10 13 10][vp 8 2 1 0 65535 0]Ah, nada mal. É um pouco longe,[n]mas se sairmos agora[n]podemos chegar.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 16052 65535 0]OK! Vamos começar a[n]Operação Amantes Secretos![n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 16052 65535 0]Ok! Vamos começar a[n]Operação Amantes Secretos![n][w][e]
 
 [msg MND_C15_SPOT_02_01]
 [s]Talvez eu devesse convidá-la para comer um sushi[n]caro...[n][w][e]
@@ -426,7 +426,7 @@
 [msg MSG_C15_BYEGREET_00_00 [Ohya]]
 [s][bup 0 107 1 65535 0][f 4 10 65535 0 0][f 4 23 1 215 3 10 0 10][vp 8 0 1 1 65535 0]Eu estava esperando por você![n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 2 65535 0]É uma boa notícia[n]ver a luz[n]do sol, não acha?[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 1 3 65535 0]OK, vamos inaugurar este[n]momento importante com[n]uma boa bebida![n][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 1 3 65535 0]Ok, vamos inaugurar este[n]momento importante com[n]uma boa bebida![n][w][e]
 
 [sel SEL_C15_BYEGREET_00_01 top]
 [s]Eu não quero álcool...[e]
@@ -491,7 +491,7 @@
 [msg MSG_C15_BYEGREET_00_00_5 [Ohya]]
 [s][bup 0 107 1 65535 0][f 4 10 65535 0 0][f 4 23 1 215 3 10 0 10][vp 8 0 1 28 65535 0]Eu estava esperando por você![n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 29 65535 0]É uma boa notícia[n]ver a luz[n]do sol, não acha?[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 1 30 65535 0]OK, vamos inaugurar este[n]momento importante com[n]uma boa bebida![n][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 1 30 65535 0]Ok, vamos inaugurar este[n]momento importante com[n]uma boa bebida![n][w][e]
 
 [sel SEL_C15_BYEGREET_00_01_5 top]
 [s]Eu não quero álcool...[e]

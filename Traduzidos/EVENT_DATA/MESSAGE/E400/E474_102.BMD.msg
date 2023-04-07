@@ -8,7 +8,7 @@
 [s][bup 0 103 1 0 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Vá dizer oi para seus amigos[n]antes de sair.[n][f 1 3 65535][w][e]
 
 [sel SEL_003_0_0 top]
-[s]OK.[e]
+[s]Ok.[e]
 [s]Não há necessidade.[e]
 [s]Eu tenho que?[e]
 

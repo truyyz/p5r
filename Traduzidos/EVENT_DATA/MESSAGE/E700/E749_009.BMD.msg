@@ -47,7 +47,7 @@
 [s][bup 0 103 3 0 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Você também...?[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Futaba]]
-[s][bup 0 8 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]Ei, Sojirooooooo![n]Taaacchiiiiinooooo![n][f 1 3 65535][w][e]
+[s][bup 0 8 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]Ei, Sojirooooooo![n]Peeeruuuuuuu![n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Sojiro]]
 [s][bup 0 103 3 0 0][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]Olha, não posso gastar[n]o que não tenho.[n][f 1 3 65535][w][e]

@@ -2,7 +2,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Deve ser o Tesouro![n][w][e]
 
 [msg D05_10_LOOK_TREASURE_mes_2 [Ryuji]]
-[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]OK, está tudo feito![n][w][e]
+[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ok, está tudo feito![n][w][e]
 [s]Nós apenas temos que voltar[n]e enviar a carta de aviso![n][w][e]
 
 [msg D05_10_LOOK_TREASURE_mes_3 [Haru]]

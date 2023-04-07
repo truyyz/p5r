@@ -84,7 +84,7 @@
 
 [msg MSG_024_0_0 [Iwai]]
 [s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 0 0 42 65535 0]...Bom.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 35 65535 0]OK, vou fazer o menu especial para você.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 35 65535 0]Ok, vou fazer o menu especial para você.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 36 65535 0]Você deveria me agradecer.[n][f 1 3 65535][w][e]
 
 [msg MND_990_0_0]

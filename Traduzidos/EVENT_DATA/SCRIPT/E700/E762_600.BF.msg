@@ -165,7 +165,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Qual é a primeira flor?[n][f 1 3 65535][w][e]
 
 [msg MSG_051_0_0 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]OK, agora o segundo.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Ok, agora o segundo.[n][f 1 3 65535][w][e]
 
 [msg MSG_052_0_0 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Terceira e última flor.[n][f 1 3 65535][w][e]
@@ -208,7 +208,7 @@
 [s]Vamos começar novamente.[e]
 
 [msg MSG_080_0_0 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 1021 65535 0]OK. Esperamos que gostem.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 1021 65535 0]Ok. Esperamos que gostem.[n][f 1 3 65535][w][e]
 
 [msg MSG_081_0_0 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 1019 65535 0]Patas cruzadas![n][f 1 3 65535][w][e]
@@ -334,7 +334,7 @@
 
 [sel SEL_410_0_0 top]
 [s]Eu não posso ignorá-lo.[e]
-[s]Cabe aos Ladrões Fantasmas.[e]
+[s]Cabe aos Phantom Thieves.[e]
 
 [msg MSG_413_0_0 [Morgana]]
 [s][bup 0 3 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 1023 65535 0]Muito bem![n][f 1 3 65535][w][e]
@@ -362,7 +362,7 @@
 
 [sel SEL_437_0_0 top]
 [s]Uma intervenção divina?[e]
-[s]Os ladrões fantasmas?[e]
+[s]Os Phantom Thieves?[e]
 
 [msg MSG_438_0_0 [Hanasaki]]
 [s][vp 8 2 0 58520 6 0]Bem, talvez... mas acho que[n]os Phantom Thieves[n]têm uma mão novamente.[n][f 1 3 65535][w][e]

@@ -130,7 +130,7 @@
 [s][bup 0 10 903 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...irritante.[n][f 1 3 65535][w][e]
 
 [sel SEL_032_0_0 top]
-[s]Porque?[e]
+[s]Por quê?[e]
 [s]Eu posso imaginar.[e]
 
 [msg MSG_033_0_0 [Sumire]]

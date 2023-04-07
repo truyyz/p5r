@@ -56,5 +56,5 @@
 [s][f 5 14]Podemos conversar de novo?[n]Estou com sono...[n][w][e]
 
 [msg MSG_018_0_0 [Ann]]
-[s][f 5 14][f 5 15]OK, então boa noite![n]Futaba-chan, boa sorte amanhã![n][w][e]
+[s][f 5 14][f 5 15]Ok, então boa noite![n]Futaba-chan, boa sorte amanhã![n][w][e]
 

@@ -8,7 +8,7 @@
 [s][f 5 14]Você tem algum tempo hoje?[n]Eu tenho que te contar uma coisa.[n][f 5 15][w][e]
 
 [msg CHAT_REACTION_01 [Mishima]]
-[s][f 5 14]OK. Vamos dar uma volta[n]e conversar sobre isso no parque.[n][w][e]
+[s][f 5 14]Ok. Vamos dar uma volta[n]e conversar sobre isso no parque.[n][w][e]
 
 [msg CHAT_REACTION_02 [Mishima]]
 [s][f 5 14]Aguardo você.[n][f 5 15][w][e]

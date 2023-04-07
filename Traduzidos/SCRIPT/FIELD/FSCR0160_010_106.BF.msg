@@ -19,7 +19,7 @@
 
 [msg D08_02_e453_104_AF02_mes_2 [Makoto]]
 [s][bup 0 6 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu sabia...[n][w][e]
-[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2035 65535 0]OK, eu vou esperar aqui. Peço que[n]vá salvar os outros.[n][w][e]
+[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2035 65535 0]Ok, eu vou esperar aqui. Peço que[n]vá salvar os outros.[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eles definitivamente precisam da sua ajuda...[n][w][e]
 
 [msg D08_02_e453_104_AF03_mes [Makoto]]

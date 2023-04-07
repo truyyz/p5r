@@ -13,7 +13,7 @@
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 111 3 301 1][vp 8 0 0 4 65535 0]Hum...[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Mishima]]
-[s][bup 0 111 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]...Vocês são os Ladrões Fantasmas, não são?[n][f 1 3 65535][w][e]
+[s][bup 0 111 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]...Vocês são os Phantom Thieves, não são?[n][f 1 3 65535][w][e]
 
 [sel SEL_005_0_0 top]
 [s]Não fique em cima de mim.[e]

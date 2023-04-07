@@ -228,7 +228,7 @@
 
 [msg MSG_058_0_0 [Rapaz]]
 [s][vp 8 0 0 0 65535 0]"Não pode haver justiça com[n]Phantom Thieves." Grandes palavras para[n]aqueles que não conseguem pegá-los.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]Até os políticos argumentam que[n]Ladrões Fantasmas são perigosos.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Até os políticos argumentam que[n]Phantom Thieves são perigosos.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Eles não passam de balões inflados. Podemos[n]confiar nos Phantom Thieves.[n][f 1 3 65535][w][e]
 
 [msg MSG_059_0_0 [Morgana]]
@@ -485,7 +485,7 @@
 [msg MSG_125_0_0 [Estudante animada]]
 [s][vp 8 0 0 0 65535 0]Gigolô...? Oh, você quer dizer aquela[n]sala de jogos perto do supermercado?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Achei que ir ao fliperama era proibido pela[n]escola. Eu ouvi que um bandido está namorando[n]com ela.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]Porque? Existe algum jogo que você gostaria de[n]jogar ou algo assim?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Por quê? Existe algum jogo que você gostaria de[n]jogar ou algo assim?[n][f 1 3 65535][w][e]
 
 [msg MSG_126_0_0 [Aluno tímido]]
 [s][vp 8 0 0 0 65535 0]N-Não. Acabei de saber que eles vendem um suco[n]estrangeiro lá. Parece que ajuda a combater a[n]fadiga...[n][f 1 3 65535][w][e]

@@ -100,5 +100,5 @@
 [s][bup 0 6 200 65535 0][f 4 10 65535 0 0][vp 8 0 0 38 65535 0]Agora que os anúncios foram feitos,[n]divida-se em grupos e vá até[n]a área que eles designaram a você.[n][f 1 3 65535][w][e]
 
 [msg MSG_034_0_0 [Ryuji]]
-[s][bup 0 2 201 65535 0][f 4 10 65535 0 0][vp 8 0 0 39 65535 0]OK, vamos tentar terminar o mais rápido[n]possível, para podermos comer a[n]sopa e sair da barraca![n][f 1 3 65535][w][e]
+[s][bup 0 2 201 65535 0][f 4 10 65535 0 0][vp 8 0 0 39 65535 0]Ok, vamos tentar terminar o mais rápido[n]possível, para podermos comer a[n]sopa e sair da barraca![n][f 1 3 65535][w][e]
 

@@ -84,7 +84,7 @@
 [s][f 5 14]A menos que você tenha qualquer outra[n]ideia, Ryuji...[n][w][e]
 
 [msg MSG_028_0_0 [Ann]]
-[s][f 5 14]Eeehiii?[n][w][e]
+[s][f 5 14]Eeeh?[n][w][e]
 
 [msg MSG_029_0_0 [Yusuke]]
 [s][f 5 14]...Aparentemente ele sugeriu isso[n]sem pensar nisso.[n][w][e]

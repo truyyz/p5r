@@ -77,7 +77,7 @@
 [s][vp 8 0 0 0 65535 0]Tudo bem, venha aqui. E não caia.[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Ann]]
-[s][bup 0 4 0 65535 0][vp 8 0 0 0 65535 0]OK! Vamos começar![n][f 1 3 65535][w][e]
+[s][bup 0 4 0 65535 0][vp 8 0 0 0 65535 0]Ok! Vamos começar![n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][vp 8 0 0 0 65535 0]Jogar de graça...? [f 4 2],[n]precisamos vencer![n][f 1 3 65535][w][e]
@@ -113,7 +113,7 @@
 [s][bup 0 5 0 65535 0][vp 8 0 0 0 65535 0]Inicie-me.[n][f 1 3 65535][w][e]
 
 [msg MSG_030_0_0 [Makoto]]
-[s][bup 0 6 0 65535 0][vp 8 0 0 0 65535 0]OK, estou indo.[n][f 1 3 65535][w][e]
+[s][bup 0 6 0 65535 0][vp 8 0 0 0 65535 0]Ok, estou indo.[n][f 1 3 65535][w][e]
 
 [msg MSG_031_0_0 [Futaba]]
 [s][bup 0 8 0 65535 0][vp 8 0 0 0 65535 0]Eu vou primeiro!?! P-Prepare-se[n]para pegar meu cadáver![n][f 1 3 65535][w][e]

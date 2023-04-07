@@ -5,7 +5,7 @@
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 7110 65535 0][f 4 24 0 4 0 42 3 100][f 4 24 0 4 0 0 0 0]Ai que emoção! Darei[n]o melhor![n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Ann]]
-[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]OK, vamos começar![n][f 1 3 65535][w][e]
+[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Ok, vamos começar![n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Yusuke]]
 [s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0][f 4 24 0 4 0 42 3 100][f 4 24 0 4 0 0 0 0]Aqui vamos nós... Vamos[n]vamos nos ocupar juntos![n][f 1 3 65535][w][e]

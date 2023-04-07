@@ -113,7 +113,7 @@
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 26 65535 0]Bem, vou descobrir.[n][f 1 3 65535][w][e]
 
 [msg MSG_038_0_0 [Ryuji]]
-[s][bup 0 2 5 65535 0][f 4 10 65535 0 0][vp 8 0 0 27 65535 0]Não fale comigo até eu terminar,[n]OK? Tenho que comer tudo sem[n]falar para dar sorte.[n][f 1 3 65535][w][e]
+[s][bup 0 2 5 65535 0][f 4 10 65535 0 0][vp 8 0 0 27 65535 0]Não fale comigo até eu terminar,[n]Ok? Tenho que comer tudo sem[n]falar para dar sorte.[n][f 1 3 65535][w][e]
 
 [msg MSG_038_5_0 [Ryuji]]
 [s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 28 65535 0]Cuidado...[n][f 1 3 65535][w][e]

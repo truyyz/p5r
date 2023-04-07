@@ -26,7 +26,7 @@
 [s][vp 8 1 65535 21 0 0]Cala a boca, não quero ser incomodado![n]Eheheheh, você tá linda como sempre,[n]minha gatinha.[n][f 1 6 65534][e]
 
 [msg D01_ALERT_UP_LORD_ERROR__3]
-[s][vp 8 1 65535 22 0 0]Cale a boca, não me perturbe! Oh, OK.[n]Ahhhhhh! Mmm, delicioso![n][f 1 6 65534][e]
+[s][vp 8 1 65535 22 0 0]Cale a boca, não me perturbe! Oh, Ok.[n]Ahhhhhh! Mmm, delicioso![n][f 1 6 65534][e]
 
 [msg D01_ALERT_UP_LORD_ERROR__4]
 [s][vp 8 1 65535 23 0 0]Você vai relatar mais tarde! Vamos lá,[n]você nunca chegará às nacionais[n]se não se concentrar![n][f 1 6 65534][e]
@@ -269,7 +269,7 @@
 [s][vp 8 1 65535 5004 0 0]Ninguém te perguntou nada, Inari![n][f 1 6 65534][e]
 
 [msg D150_support_mes03_A]
-[s][vp 8 1 65535 5005 0 0]OK, o inimigo está focado[n]nele. Acho que podemos[n]sair também.[n][f 1 6 65534][e]
+[s][vp 8 1 65535 5005 0 0]Ok, o inimigo está focado[n]nele. Acho que podemos[n]sair também.[n][f 1 6 65534][e]
 
 [msg D150_support_mes03_B]
 [s][vp 8 1 65535 5006 0 0]Vocês todos se lembram onde é[n]o ponto de encontro?[n][f 1 6 65534][e]
@@ -293,7 +293,7 @@
 [s][vp 8 1 65535 5004 0 0]Ninguém te perguntou nada, Inari![n][f 1 6 65534][e]
 
 [msg D150_support_mes06_A]
-[s][vp 8 1 65535 5005 0 0]OK, o inimigo está focado[n]nele. Acho que podemos[n]sair também.[n][f 1 6 65534][e]
+[s][vp 8 1 65535 5005 0 0]Ok, o inimigo está focado[n]nele. Acho que podemos[n]sair também.[n][f 1 6 65534][e]
 
 [msg D150_support_mes06_B]
 [s][vp 8 1 65535 5006 0 0]Vocês todos se lembram onde é[n]o ponto de encontro?[n][f 1 6 65534][e]
@@ -404,7 +404,7 @@
 [s][vp 8 2 1 7103 65535 0]Vamos, temos que[n]encontrar uma saída![n][f 1 2 78][e]
 
 [msg D152_support_mes02_A]
-[s][vp 8 2 1 7045 65535 0]OK! Podemos continuar[n]neste lado.[n][f 1 2 78][e]
+[s][vp 8 2 1 7045 65535 0]Ok! Podemos continuar[n]neste lado.[n][f 1 2 78][e]
 
 [msg D152_support_mes03_A]
 [s][vp 8 2 1 7029 65535 0]Ei, tente não cair...[n][f 1 2 72][e]
@@ -761,7 +761,7 @@
 [s][vp 8 2 1 4156 65535 0]Hum, acho que os robôs de classificação mais alta[n]são mais temíveis do que os outros.[n][f 1 2 82][e]
 
 [msg D156_support_mes01_B]
-[s][vp 8 2 1 2020 65535 0]OK, vamos prosseguir[n]com cuidado.[n][f 1 2 35][e]
+[s][vp 8 2 1 2020 65535 0]Ok, vamos prosseguir[n]com cuidado.[n][f 1 2 35][e]
 
 [msg D156_support_mes02_A]
 [s][vp 8 2 1 7020 65535 0]Cara, esse lugar é louco...[n]Toda essa coisa de tecnologia[n]é muito legal![n][f 1 2 77][e]
@@ -1037,7 +1037,7 @@
 [s][vp 1 0 0 2004 0 0]Estou com você![n][f 1 6 65535][e]
 
 [msg BAT_END_A_PC02_mes01]
-[s][vp 1 0 0 2005 0 0]Nós os eliminamos.[n]OK, não vamos parar.[n][f 1 6 65535][e]
+[s][vp 1 0 0 2005 0 0]Nós os eliminamos.[n]Ok, não vamos parar.[n][f 1 6 65535][e]
 
 [msg BAT_END_A_PC02_mes02]
 [s][vp 1 0 0 2006 0 0]Tudo bem, terminamos.[n]Vamos lá![n][f 1 6 65535][e]
@@ -1103,7 +1103,7 @@
 [s][vp 1 0 0 2026 0 0]Droga, eles nos pegaram![n]Vamos pegá-los![n][f 1 6 65535][e]
 
 [msg D_FOUND_B_PC02_mes03]
-[s][vp 1 0 0 2027 0 0]Oh merda, nós fomos pegos![n]OK, vamos indo![n][f 1 6 65535][e]
+[s][vp 1 0 0 2027 0 0]Oh merda, nós fomos pegos![n]Ok, vamos indo![n][f 1 6 65535][e]
 
 [msg D_FOUND_B_PC02_mes04]
 [s][vp 1 0 0 2028 0 0]Merda! Derrube-os, Joker![n][f 1 6 65535][e]
@@ -1112,7 +1112,7 @@
 [s][vp 1 0 0 2029 0 0]O que?!? Nós fomos pegos![n]Cala a boca deles, Joker![n][f 1 6 65535][e]
 
 [msg D_START_PC02_mes01]
-[s][vp 1 0 0 2030 0 0]OK, vamos lá![n]Não vamos perder tempo![n][f 1 6 65535][e]
+[s][vp 1 0 0 2030 0 0]Ok, vamos lá![n]Não vamos perder tempo![n][f 1 6 65535][e]
 
 [msg D_START_PC02_mes02]
 [s][vp 1 0 0 2031 0 0]Hora de ficar ocupado![n][f 1 6 65535][e]
@@ -1154,7 +1154,7 @@
 [s][vp 1 0 0 2043 0 0]Eeed... aqui estamos nós![n]Agora o que você quer fazer?[n][f 1 6 65535][e]
 
 [msg D_FAST_S_PC02_mes03]
-[s][vp 1 0 0 2044 0 0]OK, o que fazemos agora?[n][f 1 6 65535][e]
+[s][vp 1 0 0 2044 0 0]Ok, o que fazemos agora?[n][f 1 6 65535][e]
 
 [msg DOING_A_PC02_mes01]
 [s][vp 1 0 0 2045 0 0]O objetivo de hoje é o Tesouro.[n]Vamos evitar brigas.[n][f 1 6 65535][e]
@@ -1175,7 +1175,7 @@
 [s][vp 1 0 0 2050 0 0]Vamos correr, Joker![n][f 1 6 65535][e]
 
 [msg D_DOOR_A_PC02_mes01]
-[s][vp 1 0 0 2051 0 0]OK, aqui vamos nós![n][f 1 6 65535][e]
+[s][vp 1 0 0 2051 0 0]Ok, aqui vamos nós![n][f 1 6 65535][e]
 
 [msg D_DOOR_A_PC02_mes02]
 [s][vp 1 0 0 2052 0 0]Chegamos[n]ao nosso destino.[n][f 1 6 65535][e]
@@ -1316,7 +1316,7 @@
 [s][vp 1 0 0 2097 0 0]Ok, anotado![n][f 1 6 65535][e]
 
 [msg D_MAP_PEN_PC02_mes03]
-[s][vp 1 0 0 2098 0 0]OK, vou anotar,[n]não quero esquecer![n][f 1 6 65535][e]
+[s][vp 1 0 0 2098 0 0]Ok, vou anotar,[n]não quero esquecer![n][f 1 6 65535][e]
 
 [msg D_DANGER_HP_PC02_mes01]
 [s][vp 1 0 0 2099 0 0]Droga... estou sem forças...[n][f 1 6 65535][e]
@@ -1454,13 +1454,13 @@
 [s][vp 1 0 0 2143 0 0]Bem, chegamos a[n]uma sala segura![n][f 1 6 65535][e]
 
 [msg SAFE_EXIT_A_PC02_mes01]
-[s][vp 1 0 0 2144 0 0]OK, vamos embora.[n][f 1 6 65535][e]
+[s][vp 1 0 0 2144 0 0]Ok, vamos embora.[n][f 1 6 65535][e]
 
 [msg SAFE_EXIT_A_PC02_mes02]
 [s][vp 1 0 0 2145 0 0]Tudo bem, vamos indo![n][f 1 6 65535][e]
 
 [msg SAFE_EXIT_A_PC02_mes03]
-[s][vp 1 0 0 2146 0 0]OK, hora de ir.[n][f 1 6 65535][e]
+[s][vp 1 0 0 2146 0 0]Ok, hora de ir.[n][f 1 6 65535][e]
 
 [msg SAFE_EXIT_B_PC02_mes01]
 [s][vp 1 0 0 2147 0 0]Bem... A vigilância[n]está apertada: vamos ter cuidado.[n][f 1 6 65535][e]
@@ -1469,7 +1469,7 @@
 [s][vp 1 0 0 2148 0 0]Vá assim! O nível de alerta é[n]alto, vamos nos preparar para levar a sério.[n][f 1 6 65535][e]
 
 [msg SAFE_EXIT_B_PC02_mes03]
-[s][vp 1 0 0 2149 0 0]OK, vamos ter cuidado, Joker.[n][f 1 6 65535][e]
+[s][vp 1 0 0 2149 0 0]Ok, vamos ter cuidado, Joker.[n][f 1 6 65535][e]
 
 [msg AT_D_EXIT_PARTS_PC02_mes]
 [s]Ei, encontrei uma[n]escada rolante descendo![n][f 1 2 60][e]
@@ -1478,7 +1478,7 @@
 [s]Oooh, encontramos uma estação![n]Eyyyyyy![n][f 1 2 60][e]
 
 [msg AT_D_EXIT_PARTS_PC02_mes_3]
-[s]OK, atingimos nosso[n]objetivo. O que queremos fazer?[n]Continuamos a descer?[n][f 1 2 60][e]
+[s]Ok, atingimos nosso[n]objetivo. O que queremos fazer?[n]Continuamos a descer?[n][f 1 2 60][e]
 
 [msg SAFE_EAT_END_PC02_mes01]
 [s][vp 1 0 0 2153 0 0]Uau, isso foi delicioso![n][f 1 6 65535][e]
@@ -1664,7 +1664,7 @@
 [s][vp 1 0 0 3033 0 0]Bom! Vamos sair daqui.[n][f 1 6 65535][e]
 
 [msg D_EXIT_A_PC03_mes02]
-[s][vp 1 0 0 3034 0 0]OK, vamos embora.[n][f 1 6 65535][e]
+[s][vp 1 0 0 3034 0 0]Ok, vamos embora.[n][f 1 6 65535][e]
 
 [msg D_EXIT_A_PC03_mes03]
 [s][vp 1 0 0 3035 0 0]É importante saber quando é[n]hora de parar.[n]Vamos parar por aqui por hoje.[n][f 1 6 65535][e]
@@ -1673,7 +1673,7 @@
 [s][vp 1 0 0 3036 0 0]Foi fácil...[n]graças a mim.[n][f 1 6 65535][e]
 
 [msg D_EXIT_B_PC03_mes02]
-[s][vp 1 0 0 3037 0 0]OK, vamos recuar.[n]Eheheh... Hoje foi fácil.[n][f 1 6 65535][e]
+[s][vp 1 0 0 3037 0 0]Ok, vamos recuar.[n]Eheheh... Hoje foi fácil.[n][f 1 6 65535][e]
 
 [msg D_EXIT_B_PC03_mes03]
 [s][vp 1 0 0 3038 0 0]Tudo bem, vamos para casa.[n]Hoje foi fácil.[n][f 1 6 65535][e]
@@ -1697,7 +1697,7 @@
 [s][vp 1 0 0 3044 0 0]Chegamos.[n]Vamos continuar, Joker.[n][f 1 6 65535][e]
 
 [msg DOING_A_PC03_mes01]
-[s][vp 1 0 0 3045 0 0]Você já sabe disso, mas o gol[n]de hoje é o Tesouro. OK?[n][f 1 6 65535][e]
+[s][vp 1 0 0 3045 0 0]Você já sabe disso, mas o gol[n]de hoje é o Tesouro. Ok?[n][f 1 6 65535][e]
 
 [msg DOING_A_PC03_mes02]
 [s][vp 1 0 0 3046 0 0]Nosso objetivo é o Tesouro.[n]Tente evitar[n]batalhas inúteis, ok?[n][f 1 6 65535][e]
@@ -1856,7 +1856,7 @@
 [s][vp 1 0 0 3097 0 0]Entendo...[n]É melhor anotar.[n][f 1 6 65535][e]
 
 [msg D_MAP_PEN_PC03_mes03]
-[s][vp 1 0 0 3098 0 0]OK, vou tentar anotar.[n][f 1 6 65535][e]
+[s][vp 1 0 0 3098 0 0]Ok, vou tentar anotar.[n][f 1 6 65535][e]
 
 [msg D_DANGER_HP_PC03_mes01]
 [s][vp 1 0 0 3099 0 0]Argh... Nada bom...[n]Fui descuidado...[n][f 1 6 65535][e]
@@ -1892,7 +1892,7 @@
 [s][vp 1 0 0 3109 0 0]Wooo-oooh! Eu amo esses tesouros![n][f 1 6 65535][e]
 
 [msg D_ACT_TBOX_B_PC03_mes03]
-[s][vp 1 0 0 3110 0 0]É por isso que eu gosto[n]de ser um Ladrão Fantasma![n][f 1 6 65535][e]
+[s][vp 1 0 0 3110 0 0]É por isso que eu gosto[n]de ser um Phantom Thief![n][f 1 6 65535][e]
 
 [msg D_COVER_A_PC03_mes01]
 [s][vp 1 0 0 3111 0 0]uh! Sombra detectada![n][f 1 6 65535][e]
@@ -1985,10 +1985,10 @@
 [s][vp 1 0 0 3140 0 0]Este lugar parece ideal.[n]Vamos fazer uma pausa, Joker.[n][f 1 6 65535][e]
 
 [msg SAFE_GETTO_PC03_mes01]
-[s][vp 1 0 0 3141 0 0]OK, vamos levar cinco minutos.[n][f 1 6 65535][e]
+[s][vp 1 0 0 3141 0 0]Ok, vamos levar cinco minutos.[n][f 1 6 65535][e]
 
 [msg SAFE_GETTO_PC03_mes02]
-[s][vp 1 0 0 3142 0 0]OK! Vamos fazer uma pausa![n][f 1 6 65535][e]
+[s][vp 1 0 0 3142 0 0]Ok! Vamos fazer uma pausa![n][f 1 6 65535][e]
 
 [msg SAFE_GETTO_PC03_mes03]
 [s][vp 1 0 0 3143 0 0]Bem, vamos descansar um pouco.[n][f 1 6 65535][e]
@@ -2621,7 +2621,7 @@
 [s][vp 1 0 0 4007 0 0]Tudo bem, terminamos![n]Vamos seguir em frente, rápido.[n][f 1 6 65535][e]
 
 [msg BAT_END_A_PC04_mes04]
-[s][vp 1 0 0 4008 0 0]Nós os derrotamos.[n]OK, não vamos parar.[n][f 1 6 65535][e]
+[s][vp 1 0 0 4008 0 0]Nós os derrotamos.[n]Ok, não vamos parar.[n][f 1 6 65535][e]
 
 [msg BAT_END_A_PC04_mes05]
 [s][vp 1 0 0 4009 0 0]Tudo feito.[n]Venha, vamos embora.[n][f 1 6 65535][e]
@@ -2717,7 +2717,7 @@
 [s][vp 1 0 0 4039 0 0]Sim, vamos para casa.[n]Hoje não era realmente o dia...[n][f 1 6 65535][e]
 
 [msg D_EXIT_C_PC04_mes02]
-[s][vp 1 0 0 4040 0 0]OK. Estou muito cansado hoje...[n][f 1 6 65535][e]
+[s][vp 1 0 0 4040 0 0]Ok. Estou muito cansado hoje...[n][f 1 6 65535][e]
 
 [msg D_EXIT_C_PC04_mes03]
 [s][vp 1 0 0 4041 0 0]*suspiro* Vamos voltar.[n]Hoje foi difícil...[n][f 1 6 65535][e]
@@ -2813,7 +2813,7 @@
 [s][vp 1 0 0 4071 0 0]Temos o Tesouro.[n]Bom trabalho pessoal![n][f 1 6 65535][e]
 
 [msg D_QUEST_B_PC04_mes01]
-[s][vp 1 0 0 4072 0 0]OK, nós temos o Tesouro! O que você diz?[n]Vamos continuar?[n][f 1 6 65535][e]
+[s][vp 1 0 0 4072 0 0]Ok, nós temos o Tesouro! O que você diz?[n]Vamos continuar?[n][f 1 6 65535][e]
 
 [msg D_QUEST_B_PC04_mes02]
 [s][vp 1 0 0 4073 0 0]E este trabalho está feito.[n]Joker, por que[n]não terminamos outro?[n][f 1 6 65535][e]
@@ -3032,10 +3032,10 @@
 [s][vp 1 0 0 4144 0 0]Tudo bem, vamos embora.[n]Ainda temos trabalho a fazer![n][f 1 6 65535][e]
 
 [msg SAFE_EXIT_A_PC04_mes02]
-[s][vp 1 0 0 4145 0 0]OK, vamos continuar a exploração.[n][f 1 6 65535][e]
+[s][vp 1 0 0 4145 0 0]Ok, vamos continuar a exploração.[n][f 1 6 65535][e]
 
 [msg SAFE_EXIT_A_PC04_mes03]
-[s][vp 1 0 0 4146 0 0]OK, vamos em frente![n][f 1 6 65535][e]
+[s][vp 1 0 0 4146 0 0]Ok, vamos em frente![n][f 1 6 65535][e]
 
 [msg SAFE_EXIT_B_PC04_mes01]
 [s][vp 1 0 0 4147 0 0]Vamos continuar[n]um pouco mais.[n][f 1 6 65535][e]
@@ -3569,7 +3569,7 @@
 [s][vp 1 0 0 5143 0 0]Que tal fazer uma pausa?[n][f 1 6 65535][e]
 
 [msg SAFE_EXIT_A_PC05_mes01]
-[s][vp 1 0 0 5144 0 0]OK, vamos embora.[n][f 1 6 65535][e]
+[s][vp 1 0 0 5144 0 0]Ok, vamos embora.[n][f 1 6 65535][e]
 
 [msg SAFE_EXIT_A_PC05_mes02]
 [s][vp 1 0 0 5145 0 0]Bem, vamos voltar ao trabalho.[n][f 1 6 65535][e]
@@ -3680,7 +3680,7 @@
 [s][vp 1 0 0 6000 0 0]Uh![n][f 1 6 65535][e]
 
 [msg D_ACT_JUMP_PC06_mes02]
-[s][vp 1 0 0 6001 0 0]OK![n][f 1 6 65535][e]
+[s][vp 1 0 0 6001 0 0]Ok![n][f 1 6 65535][e]
 
 [msg D_ACT_JUMP_PC06_mes03]
 [s][vp 1 0 0 6002 0 0]Ah![n][f 1 6 65535][e]
@@ -3692,7 +3692,7 @@
 [s][vp 1 0 0 6004 0 0]Então vá[n]por aqui hein?[n][f 1 6 65535][e]
 
 [msg BAT_END_A_PC06_mes01]
-[s][vp 1 0 0 6005 0 0]Fiuuu, a batalha acabou.[n]OK, vamos embora.[n][f 1 6 65535][e]
+[s][vp 1 0 0 6005 0 0]Fiuuu, a batalha acabou.[n]Ok, vamos embora.[n][f 1 6 65535][e]
 
 [msg BAT_END_A_PC06_mes02]
 [s][vp 1 0 0 6006 0 0]Bem, a luta chegou[n]ao fim. Vamos.[n][f 1 6 65535][e]
@@ -3758,7 +3758,7 @@
 [s][vp 1 0 0 6026 0 0]Eles nos viram?!?[n]Vamos nos livrar deles antes que[n]eles chamem reforços![n][f 1 6 65535][e]
 
 [msg D_FOUND_B_PC06_mes03]
-[s][vp 1 0 0 6027 0 0]Eles nos pegaram![n]OK, vamos calá-los![n][f 1 6 65535][e]
+[s][vp 1 0 0 6027 0 0]Eles nos pegaram![n]Ok, vamos calá-los![n][f 1 6 65535][e]
 
 [msg D_FOUND_B_PC06_mes04]
 [s][vp 1 0 0 6028 0 0]Joker, temos que derrotá-los[n]rapidamente![n][f 1 6 65535][e]
@@ -3773,10 +3773,10 @@
 [s][vp 1 0 0 6031 0 0]Estou pronto. Vamos nos concentrar[n]e pegar a estrada.[n][f 1 6 65535][e]
 
 [msg D_START_PC06_mes03]
-[s][vp 1 0 0 6032 0 0]Você não esqueceu de nada, não é? OK, vamos[n]começar.[n][f 1 6 65535][e]
+[s][vp 1 0 0 6032 0 0]Você não esqueceu de nada, não é? Ok, vamos[n]começar.[n][f 1 6 65535][e]
 
 [msg D_EXIT_A_PC06_mes01]
-[s][vp 1 0 0 6033 0 0]Fiuuu... Vocês estão bem?[n]OK, vamos para casa.[n][f 1 6 65535][e]
+[s][vp 1 0 0 6033 0 0]Fiuuu... Vocês estão bem?[n]Ok, vamos para casa.[n][f 1 6 65535][e]
 
 [msg D_EXIT_A_PC06_mes02]
 [s][vp 1 0 0 6034 0 0]Sim, acho que é hora[n]de desistir. Vamos para casa.[n][f 1 6 65535][e]
@@ -4109,7 +4109,7 @@
 [s][vp 1 0 0 6143 0 0]Fiuuu, podemos descansar aqui.[n][f 1 6 65535][e]
 
 [msg SAFE_EXIT_A_PC06_mes01]
-[s][vp 1 0 0 6144 0 0]OK, vamos continuar a exploração.[n][f 1 6 65535][e]
+[s][vp 1 0 0 6144 0 0]Ok, vamos continuar a exploração.[n][f 1 6 65535][e]
 
 [msg SAFE_EXIT_A_PC06_mes02]
 [s][vp 1 0 0 6145 0 0]Entendido. Vamos voltar ao trabalho.[n][f 1 6 65535][e]
@@ -4121,7 +4121,7 @@
 [s][vp 1 0 0 6147 0 0]A situação é perigosa.[n]Vamos nos concentrar.[n][f 1 6 65535][e]
 
 [msg SAFE_EXIT_B_PC06_mes02]
-[s][vp 1 0 0 6148 0 0]OK, mas é arriscado.[n]Cuidado.[n][f 1 6 65535][e]
+[s][vp 1 0 0 6148 0 0]Ok, mas é arriscado.[n]Cuidado.[n][f 1 6 65535][e]
 
 [msg SAFE_EXIT_B_PC06_mes03]
 [s][vp 1 0 0 6149 0 0]O nível de alerta é alto.[n]Procedemos com cautela.[n][f 1 6 65535][e]
@@ -4349,7 +4349,7 @@
 [s][vp 1 0 0 7043 0 0]Chegamos.[n]Vamos continuar nossa exploração.[n][f 1 6 65535][e]
 
 [msg D_FAST_S_PC07_mes03]
-[s][vp 1 0 0 7044 0 0]OK, vamos seguir em frente.[n]Qual é o plano, Joker?[n][f 1 6 65535][e]
+[s][vp 1 0 0 7044 0 0]Ok, vamos seguir em frente.[n]Qual é o plano, Joker?[n][f 1 6 65535][e]
 
 [msg DOING_A_PC07_mes01]
 [s][vp 1 0 0 7045 0 0]A batalha decisiva é hoje![n]Vamos evitar outras batalhas[n]tanto quanto possível.[n][f 1 6 65535][e]
@@ -4622,7 +4622,7 @@
 [s][vp 1 0 0 7134 0 0]Mire bem e...[n]Vá, Joker! É a sua chance![n][f 1 6 65535][e]
 
 [msg D_TARGET_B_PC07_mes01]
-[s][vp 1 0 0 7135 0 0]Um ataque surpresa?[n]OK, vamos lá.[n][f 1 6 65535][e]
+[s][vp 1 0 0 7135 0 0]Um ataque surpresa?[n]Ok, vamos lá.[n][f 1 6 65535][e]
 
 [msg D_TARGET_B_PC07_mes02]
 [s][vp 1 0 0 7136 0 0]Você quer atacá-lo?[n]Esta é sua chance,[n]ele ainda não nos viu![n][f 1 6 65535][e]
@@ -4640,7 +4640,7 @@
 [s][vp 1 0 0 7140 0 0]Encontramos um quarto seguro![n][f 1 6 65535][e]
 
 [msg SAFE_GETTO_PC07_mes01]
-[s][vp 1 0 0 7141 0 0]OK, vamos fazer uma pausa.[n][f 1 6 65535][e]
+[s][vp 1 0 0 7141 0 0]Ok, vamos fazer uma pausa.[n][f 1 6 65535][e]
 
 [msg SAFE_GETTO_PC07_mes02]
 [s][vp 1 0 0 7142 0 0]Por que não descansamos um pouco aqui?[n][f 1 6 65535][e]
@@ -4850,7 +4850,7 @@
 [s][vp 1 0 0 8030 0 0]Vamos.[n]Hoje você tem que trabalhar duro.[n][f 1 6 65535][e]
 
 [msg D_START_PC08_mes02]
-[s][vp 1 0 0 8031 0 0]Oh, vamos?[n]OK, claro. Vamos![n][f 1 6 65535][e]
+[s][vp 1 0 0 8031 0 0]Oh, vamos?[n]Ok, claro. Vamos![n][f 1 6 65535][e]
 
 [msg D_START_PC08_mes03]
 [s][vp 1 0 0 8032 0 0]Vamos![n]Conto com você, Joker![n][f 1 6 65535][e]
@@ -4904,7 +4904,7 @@
 [s][vp 1 0 0 8048 0 0]Rua! Vai![n][f 1 6 65535][e]
 
 [msg DOING_B_PC08_mes02]
-[s][vp 1 0 0 8049 0 0]OK, vamos pegar o Tesouro[n]e fugir![n][f 1 6 65535][e]
+[s][vp 1 0 0 8049 0 0]Ok, vamos pegar o Tesouro[n]e fugir![n][f 1 6 65535][e]
 
 [msg DOING_B_PC08_mes03]
 [s][vp 1 0 0 8050 0 0]Você pode perdê-los, certo?[n]Contamos com você, Joker![n][f 1 6 65535][e]
@@ -5045,13 +5045,13 @@
 [s][vp 1 0 0 8095 0 0]É a minha vez! Deixe comigo![n][f 1 6 65535][e]
 
 [msg D_MAP_PEN_PC08_mes01]
-[s][vp 1 0 0 8096 0 0]Este lugar?[n]OK, anotando.[n][f 1 6 65535][e]
+[s][vp 1 0 0 8096 0 0]Este lugar?[n]Ok, anotando.[n][f 1 6 65535][e]
 
 [msg D_MAP_PEN_PC08_mes02]
 [s][vp 1 0 0 8097 0 0]Isso é importante.[n]Vou ter isso em mente![n][f 1 6 65535][e]
 
 [msg D_MAP_PEN_PC08_mes03]
-[s][vp 1 0 0 8098 0 0]OK, preciso mapeá-lo.[n][f 1 6 65535][e]
+[s][vp 1 0 0 8098 0 0]Ok, preciso mapeá-lo.[n][f 1 6 65535][e]
 
 [msg D_DANGER_HP_PC08_mes01]
 [s][vp 1 0 0 8099 0 0]Pronto para fornecer suporte![n]Me avise, ok?[n][f 1 6 65535][e]
@@ -5159,13 +5159,13 @@
 [s][vp 1 0 0 8133 0 0]Saia apenas quando ele virar as costas, ou será[n]tudo em vão.[n][f 1 6 65535][e]
 
 [msg D_TARGET_A_PC08_mes03]
-[s][vp 1 0 0 8134 0 0]Só quando ele não está olhando,[n]OK? Não se apresse.[n][f 1 6 65535][e]
+[s][vp 1 0 0 8134 0 0]Só quando ele não está olhando,[n]Ok? Não se apresse.[n][f 1 6 65535][e]
 
 [msg D_TARGET_B_PC08_mes01]
 [s][vp 1 0 0 8135 0 0]Você avistou o alvo?[n]Você só precisa agir no[n]tempo certo![n][f 1 6 65535][e]
 
 [msg D_TARGET_B_PC08_mes02]
-[s][vp 1 0 0 8136 0 0]OK, atire até a pólvora![n][f 1 6 65535][e]
+[s][vp 1 0 0 8136 0 0]Ok, atire até a pólvora![n][f 1 6 65535][e]
 
 [msg D_TARGET_B_PC08_mes03]
 [s][vp 1 0 0 8137 0 0]Um ataque surpresa?[n]Ótima escolha![n][f 1 6 65535][e]
@@ -5246,7 +5246,7 @@
 [s][vp 1 0 0 18000 0 0]Aqui é o cais! Devemos[n]ser capazes de sair daqui.[n][f 1 6 65535][e]
 
 [msg AT_D_EXIT_DOWN_PC08_mes0_2]
-[s][vp 1 0 0 18001 0 0]OK, aqui é o cais.[n]Podemos continuar a partir daqui.[n][f 1 6 65535][e]
+[s][vp 1 0 0 18001 0 0]Ok, aqui é o cais.[n]Podemos continuar a partir daqui.[n][f 1 6 65535][e]
 
 [msg AT_D_EXIT_DOWN_PC08_mes0_3]
 [s][vp 1 0 0 18002 0 0]Chegamos ao cais![n]Muito bem![n][f 1 6 65535][e]
@@ -5258,7 +5258,7 @@
 [s][vp 1 0 0 18004 0 0]Aqui é o cais. Podemos[n]subir daqui.[n][f 1 6 65535][e]
 
 [msg AT_D_EXIT_UP_PC08_mes03]
-[s][vp 1 0 0 18005 0 0]OK, aqui está a doca. Muito bem![n][f 1 6 65535][e]
+[s][vp 1 0 0 18005 0 0]Ok, aqui está a doca. Muito bem![n][f 1 6 65535][e]
 
 [msg WIRE_NEAR_PC08_mes01]
 [s][vp 1 0 0 18006 0 0]Mmmh, você pode usar seu gancho[n]em qualquer lugar por aqui?[n][f 1 6 65535][e]
@@ -5336,7 +5336,7 @@
 [s][vp 1 0 0 8174 0 0]Eles viram você.[n]Calma, Joker.[n][f 1 6 65535][e]
 
 [msg D_WARNING01_PC08_mes04]
-[s][vp 1 0 0 8175 0 0]Joker, mais cautela[n]e menos distrações, OK?[n][f 1 6 65535][e]
+[s][vp 1 0 0 8175 0 0]Joker, mais cautela[n]e menos distrações, Ok?[n][f 1 6 65535][e]
 
 [msg D_WARNING01_PC08_mes05]
 [s][vp 1 0 0 8176 0 0]Eles encontraram você![n]Preste mais atenção[n]aos seus arredores.[n][f 1 6 65535][e]
@@ -5501,7 +5501,7 @@
 [s][vp 1 0 0 8229 0 0]Não estou detectando Sombras.[n]Está bem quieto aqui.[n][f 1 6 65535][e]
 
 [msg D_NAVI_EN_B_PC08_mes04]
-[s][vp 1 0 0 8230 0 0]Sem sombras aqui.[n]OK, vamos seguir em frente![n][f 1 6 65535][e]
+[s][vp 1 0 0 8230 0 0]Sem sombras aqui.[n]Ok, vamos seguir em frente![n][f 1 6 65535][e]
 
 [msg D_NAVI_EN_B_PC08_mes05]
 [s][vp 1 0 0 8231 0 0]Sem Sombras? Temos sorte![n][f 1 6 65535][e]
@@ -5810,10 +5810,10 @@
 [s][vp 1 0 0 9005 0 0]Fiuuu, chega.[n]Devemos continuar?[n][f 1 6 65535][e]
 
 [msg BAT_END_A_PC09_mes02]
-[s][vp 1 0 0 9006 0 0]Vocês estão bem?[n]OK, vamos continuar então.[n][f 1 6 65535][e]
+[s][vp 1 0 0 9006 0 0]Vocês estão bem?[n]Ok, vamos continuar então.[n][f 1 6 65535][e]
 
 [msg BAT_END_A_PC09_mes03]
-[s][vp 1 0 0 9007 0 0]OK, vamos alongar o passo.[n][f 1 6 65535][e]
+[s][vp 1 0 0 9007 0 0]Ok, vamos alongar o passo.[n][f 1 6 65535][e]
 
 [msg BAT_END_A_PC09_mes04]
 [s][vp 1 0 0 9008 0 0]Shadow eliminado.[n]Vamos, Joker.[n][f 1 6 65535][e]
@@ -6446,7 +6446,7 @@
 [s][vp 1 0 0 19199 0 0]Não voltamos, apesar da[n]má situação? Não sei se é[n]coragem ou pura estupidez.[n][f 1 6 65535][e]
 
 [msg D_WARNING06_PC09_mes04]
-[s][vp 1 0 0 19200 0 0]VOCÊ É um Ladrão Fantasma, não é?[n]Então você deve saber quando[n]é hora de desistir.[n][f 1 6 65535][e]
+[s][vp 1 0 0 19200 0 0]VOCÊ É um Phantom Thief, não é?[n]Então você deve saber quando[n]é hora de desistir.[n][f 1 6 65535][e]
 
 [msg D_WARNING06_PC09_mes05]
 [s][vp 1 0 0 19201 0 0]É tão difícil perceber[n]como é arriscado?[n][f 1 6 65535][e]
@@ -6977,7 +6977,7 @@
 [s][vp 1 0 0 10104 0 0]Tenho medo de ter sérios problemas[n]se já é tão difícil para mim[n]manter o foco agora...[n][f 1 6 65535][e]
 
 [msg D_ACT_TBOX_A_PC10_mes01]
-[s][vp 1 0 0 10105 0 0]Essas são as coisas que realmente[n]me fazem sentir como um[n]Ladrão Fantasma.[n][f 1 6 65535][e]
+[s][vp 1 0 0 10105 0 0]Essas são as coisas que realmente[n]me fazem sentir como um[n]Phantom Thief.[n][f 1 6 65535][e]
 
 [msg D_ACT_TBOX_A_PC10_mes02]
 [s][vp 1 0 0 10106 0 0]Quem sabe o que tem dentro...[n][f 1 6 65535][e]
@@ -7325,7 +7325,7 @@
 [s][vp 1 0 0 2540 0 0]Vamos, Mona, vá a todo vapor![n]Vamos queimar este lugar até o chão![n][f 1 6 65535][e]
 
 [msg D_CAR__PC02_mes541]
-[s][vp 1 0 0 2541 0 0]OK, vamos trabalhar![n][f 1 6 65535][e]
+[s][vp 1 0 0 2541 0 0]Ok, vamos trabalhar![n][f 1 6 65535][e]
 
 [msg D_CAR__PC02_mes542]
 [s][vp 1 0 0 2542 0 0]Ei, hum... Estou com uma certa coceira aí atrás...[n][f 1 6 65535][e]
@@ -7739,7 +7739,7 @@
 [s][vp 1 0 0 2678 0 0]Você acha fofo? Você não se sentiria[n]da mesma maneira se o conhecesse[n]em um beco escuro.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC02_mes679]
-[s][vp 1 0 0 2679 0 0]OK, quem disse a Noir[n]essa merda?[n][f 1 6 65535][e]
+[s][vp 1 0 0 2679 0 0]Ok, quem disse a Noir[n]essa merda?[n][f 1 6 65535][e]
 
 [msg D_CAR__PC02_mes680]
 [s][vp 1 0 0 2680 0 0]Encontrar um jardim abaixo[n]tornaria ainda mais[n]assustador![n][f 1 6 65535][e]
@@ -8066,7 +8066,7 @@
 [s][vp 1 0 0 3582 0 0]Panther[n]Encorajamento me turbina![n][f 1 6 65535][e]
 
 [msg D_CAR__PC03_mes583]
-[s][vp 1 0 0 3583 0 0]Miau?!? F-Cuidado![n][f 1 6 65535][e]
+[s][vp 1 0 0 3583 0 0]Miau?!? C-Cuidado![n][f 1 6 65535][e]
 
 [msg D_CAR__PC03_mes584]
 [s][vp 1 0 0 3584 0 0]Droga, eu ando nele[n]com as quatro rodas![n][f 1 6 65535][e]
@@ -8138,7 +8138,7 @@
 [s][vp 1 0 0 3606 0 0]Ouviu, Joker?[n]Você deveria convidá-la![n][f 1 6 65535][e]
 
 [msg D_CAR__PC03_mes607]
-[s][vp 1 0 0 3607 0 0]Um bom ponto de vista, Queen.[n]Um Ladrão Fantasma só pode confiar[n]em seus sentidos![n][f 1 6 65535][e]
+[s][vp 1 0 0 3607 0 0]Um bom ponto de vista, Queen.[n]Um Phantom Thief só pode confiar[n]em seus sentidos![n][f 1 6 65535][e]
 
 [msg D_CAR__PC03_mes608]
 [s][vp 1 0 0 3608 0 0]Ei, não se esqueça de mim![n][f 1 6 65535][e]
@@ -9710,7 +9710,7 @@
 [s][vp 1 0 0 6625 0 0]Dificilmente couro de vaca...[n]É confortável, no entanto.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC06_mes626]
-[s][vp 1 0 0 6626 0 0]OK, chega de brincadeira![n][f 1 6 65535][e]
+[s][vp 1 0 0 6626 0 0]Ok, chega de brincadeira![n][f 1 6 65535][e]
 
 [msg D_CAR__PC06_mes627]
 [s][vp 1 0 0 6627 0 0]Ah... Ainda melhor que o meu.[n][f 1 6 65535][e]
@@ -9743,7 +9743,7 @@
 [s][vp 1 0 0 6636 0 0]Oh, isso é generoso da sua parte.[n]E logo depois eles também te dão[n]suco, certo?[n][f 1 6 65535][e]
 
 [msg D_CAR__PC06_mes637]
-[s][vp 1 0 0 6637 0 0]Anúncios não são[n]uma fonte válida de informação.[n]Talvez assista a um boletim de notícias, OK?[n][f 1 6 65535][e]
+[s][vp 1 0 0 6637 0 0]Anúncios não são[n]uma fonte válida de informação.[n]Talvez assista a um boletim de notícias, Ok?[n][f 1 6 65535][e]
 
 [msg D_CAR__PC06_mes638]
 [s][vp 1 0 0 6638 0 0]São... antologias literárias,[n]certo? Então você também[n]é bom em escrever?[n][f 1 6 65535][e]
@@ -10715,7 +10715,7 @@
 [s][vp 1 0 0 8545 0 0]Uau, Skull, você canta mal![n]Mas você me fez rir![n][f 1 6 65535][e]
 
 [msg D_CAR__PC08_mes546]
-[s][vp 1 0 0 8546 0 0]Porque? O escuro é bom. É relaxante.[n][f 1 6 65535][e]
+[s][vp 1 0 0 8546 0 0]Por quê? O escuro é bom. É relaxante.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC08_mes547]
 [s][vp 1 0 0 8547 0 0]Ótimo! Que emocionante![n][f 1 6 65535][e]
@@ -11480,7 +11480,7 @@
 [s][vp 1 0 0 12546 0 0]Uh, eu nunca olho para as estrelas.[n]E nem penso nelas, para ser honesto.[n][f 1 6 65535][e]
 
 [msg D_CAR_PC02_mes10547]
-[s][vp 1 0 0 12547 0 0]Absolutamente não! Você atrairia muita atenção. E[n]se eles descobrirem que você é um Ladrão[n]Fantasma?[n][f 1 6 65535][e]
+[s][vp 1 0 0 12547 0 0]Absolutamente não! Você atrairia muita atenção. E[n]se eles descobrirem que você é um Phantom[n]Thief?[n][f 1 6 65535][e]
 
 [msg D_CAR_PC02_mes10548]
 [s][vp 1 0 0 12548 0 0]Coisas com muitos detalhes não são[n]minha coisa... espere, e os modelos?[n][f 1 6 65535][e]
@@ -11522,7 +11522,7 @@
 [s][vp 1 0 0 12560 0 0]Você cuidou deles...[n]Eu não acho que eles vão morrer[n]tão facilmente.[n][f 1 6 65535][e]
 
 [msg D_CAR_PC02_mes10561]
-[s][vp 1 0 0 12561 0 0]Como Splendida Ladra, você quer dizer?[n]Ah, a primeira vez que te vi[n]não sabia o que dizer.[n][f 1 6 65535][e]
+[s][vp 1 0 0 12561 0 0]Como Beauty Thief, você quer dizer?[n]Ah, a primeira vez que te vi[n]não sabia o que dizer.[n][f 1 6 65535][e]
 
 [msg D_CAR_PC02_mes10562]
 [s][vp 1 0 0 12562 0 0]Não sei nada de balé,[n]mas te vejo sem[n]problemas.[n][f 1 6 65535][e]
@@ -11585,7 +11585,7 @@
 [s][vp 1 0 0 12581 0 0]Sim, sim... Já sei que é[n]a melhor escolha.[n][f 1 6 65535][e]
 
 [msg D_CAR_PC02_mes10582]
-[s][vp 1 0 0 12582 0 0]Uh, OK para compartilhar seus[n]sentimentos, mas isso traz[n]moral um pouco para baixo...[n][f 1 6 65535][e]
+[s][vp 1 0 0 12582 0 0]Uh, Ok para compartilhar seus[n]sentimentos, mas isso traz[n]moral um pouco para baixo...[n][f 1 6 65535][e]
 
 [msg D_CAR_PC02_mes10583]
 [s][vp 1 0 0 12583 0 0]Nisso eu concordo,[n]um mundo sem competições[n]é chato.[n][f 1 6 65535][e]
@@ -11624,7 +11624,7 @@
 [s][vp 1 0 0 12594 0 0]Bem, alguém está feliz.[n]Só não se machuque.[n][f 1 6 65535][e]
 
 [msg D_CAR_PC02_mes10595]
-[s][vp 1 0 0 12595 0 0]Uh, OK, eu acho... Contanto que seja[n]Shadows e não nós...[n][f 1 6 65535][e]
+[s][vp 1 0 0 12595 0 0]Uh, Ok, eu acho... Contanto que seja[n]Shadows e não nós...[n][f 1 6 65535][e]
 
 [msg D_CAR_PC02_mes10596]
 [s][vp 1 0 0 12596 0 0]Você não está mentindo, eu sei,[n]mas me incomoda ouvir isso![n][f 1 6 65535][e]
@@ -11708,7 +11708,7 @@
 [s][vp 1 0 0 13501 0 0]*bocejo* Não dormi o suficiente...[n][f 1 6 65535][e]
 
 [msg D_CAR_PC03_mes10502]
-[s][vp 1 0 0 13502 0 0]Noite passada eu sonhei[n]que os Ladrões Fantasmas faziam[n]faíscas... Vamos fazer isso se tornar realidade![n][f 1 6 65535][e]
+[s][vp 1 0 0 13502 0 0]Noite passada eu sonhei[n]que os Phantom Thieves faziam[n]faíscas... Vamos fazer isso se tornar realidade![n][f 1 6 65535][e]
 
 [msg D_CAR_PC03_mes10503]
 [s][vp 1 0 0 13503 0 0]Anime, livros, filmes...[n]os Phantom Thieves se tornaram[n]bastante populares.[n][f 1 6 65535][e]
@@ -11738,7 +11738,7 @@
 [s][vp 1 0 0 13511 0 0]Joker é legal quando[n]ele usa o gancho![n][f 1 6 65535][e]
 
 [msg D_CAR_PC03_mes10512]
-[s][vp 1 0 0 13512 0 0]Vou te ensinar tudo o que é necessário[n]para ser um Ladrão Fantasma.[n]Relaxe, você está em boas mãos![n][f 1 6 65535][e]
+[s][vp 1 0 0 13512 0 0]Vou te ensinar tudo o que é necessário[n]para ser um Phantom Thief.[n]Relaxe, você está em boas mãos![n][f 1 6 65535][e]
 
 [msg D_CAR_PC03_mes10513]
 [s][vp 1 0 0 13513 0 0]Você sabe, eu nunca estive em um[n]carro. É semelhante ao[n]meu formulário atual?[n][f 1 6 65535][e]
@@ -11801,7 +11801,7 @@
 [s][vp 1 0 0 13532 0 0]Bem, tente não exagerar.[n]Se você não quiser explorar, podemos[n]voltar antes.[n][f 1 6 65535][e]
 
 [msg D_CAR_PC03_mes10533]
-[s][vp 1 0 0 13533 0 0]Então, da próxima vez eu posso...[n]Ah. OK, não importa.[n][f 1 6 65535][e]
+[s][vp 1 0 0 13533 0 0]Então, da próxima vez eu posso...[n]Ah. Ok, não importa.[n][f 1 6 65535][e]
 
 [msg D_CAR_PC03_mes10534]
 [s][vp 1 0 0 13534 0 0]Se eu não tivesse esse formato de gato, eu me[n]vestiria com mais estilo.[n][f 1 6 65535][e]
@@ -11819,7 +11819,7 @@
 [s][vp 1 0 0 13538 0 0]Bem, é a forma da sua vontade[n]de se rebelar, seria difícil[n]capaz de mudar isso agora...[n][f 1 6 65535][e]
 
 [msg D_CAR_PC03_mes10539]
-[s][vp 1 0 0 13539 0 0]Miahaha...só se preparando[n]para ser um bom ladrão[n]fantasma![n][f 1 6 65535][e]
+[s][vp 1 0 0 13539 0 0]Miahaha...só se preparando[n]para ser um bom Phantom[n]Thief![n][f 1 6 65535][e]
 
 [msg D_CAR_PC03_mes10540]
 [s][vp 1 0 0 13540 0 0]Acho que seria muito difícil[n]tirá-la se ela tivesse intenções hostis.[n][f 1 6 65535][e]
@@ -11849,7 +11849,7 @@
 [s][vp 1 0 0 13548 0 0]Bem, até onde eu sei, uma[n]cauda que não se move[n]não é uma cauda.[n][f 1 6 65535][e]
 
 [msg D_CAR_PC03_mes10549]
-[s][vp 1 0 0 13549 0 0]Ah, não sei. Os itens pessoais de um ladrão[n]fantasma[n]são misteriosos.[n][f 1 6 65535][e]
+[s][vp 1 0 0 13549 0 0]Ah, não sei. Os itens pessoais de um Phantom[n]Thief[n]são misteriosos.[n][f 1 6 65535][e]
 
 [msg D_CAR_PC03_mes10550]
 [s][vp 1 0 0 13550 0 0]Ei, vamos lutar contra as Sombras! Eles são[n]mais assustadores que fantasmas![n][f 1 6 65535][e]
@@ -11861,7 +11861,7 @@
 [s][vp 1 0 0 13552 0 0]Você tem uma irmã maravilhosa,[n]acredite em mim.[n][f 1 6 65535][e]
 
 [msg D_CAR_PC03_mes10553]
-[s][vp 1 0 0 13553 0 0]Não se preocupe! Você é um[n]excelente Ladrão Fantasma.[n][f 1 6 65535][e]
+[s][vp 1 0 0 13553 0 0]Não se preocupe! Você é um[n]excelente Phantom Thief.[n][f 1 6 65535][e]
 
 [msg D_CAR_PC03_mes10554]
 [s][vp 1 0 0 13554 0 0]Ele absolutamente não pode quebrar.[n]É um gancho Metaverse de[n]excelente qualidade.[n][f 1 6 65535][e]
@@ -11879,7 +11879,7 @@
 [s][vp 1 0 0 13558 0 0]Parece engraçado. Espero[n]ouvir muitas histórias[n]quando você voltar![n][f 1 6 65535][e]
 
 [msg D_CAR_PC03_mes10559]
-[s][vp 1 0 0 13559 0 0]Aparentemente, houve um[n]ladrão fantasma na história japonesa[n]cujo vestido ela roubou.[n][f 1 6 65535][e]
+[s][vp 1 0 0 13559 0 0]Aparentemente, houve um[n]Phantom Thief na história japonesa[n]cujo vestido ela roubou.[n][f 1 6 65535][e]
 
 [msg D_CAR_PC03_mes10560]
 [s][vp 1 0 0 13560 0 0]Eu também: fico tão nervoso[n]que quando chego em casa[n]não consigo pregar o olho.[n][f 1 6 65535][e]
@@ -12014,7 +12014,7 @@
 [s][vp 1 0 0 13603 0 0]Verdadeiro. Joker, peça a ela para mostrar a você[n]mostrar como se alongar![n][f 1 6 65535][e]
 
 [msg D_CAR_PC03_mes10604]
-[s][vp 1 0 0 13604 0 0]OK! Joker, pise no pedal![n][f 1 6 65535][e]
+[s][vp 1 0 0 13604 0 0]Ok! Joker, pise no pedal![n][f 1 6 65535][e]
 
 [msg D_CAR_PC03_mes10605]
 [s][vp 1 0 0 13605 0 0]Você está com frio aí?[n]Posso aumentar o calor.[n][f 1 6 65535][e]
@@ -12176,7 +12176,7 @@
 [s][vp 1 0 0 14539 0 0]O meu é falso, infelizmente.[n]Mas tudo bem, é fofo.[n][f 1 6 65535][e]
 
 [msg D_CAR_PC04_mes10540]
-[s][vp 1 0 0 14540 0 0]Eu poderia tirar um retrato[n]de você... mas não um nu,[n]OK?[n][f 1 6 65535][e]
+[s][vp 1 0 0 14540 0 0]Eu poderia tirar um retrato[n]de você... mas não um nu,[n]Ok?[n][f 1 6 65535][e]
 
 [msg D_CAR_PC04_mes10541]
 [s][vp 1 0 0 14541 0 0]Não custa mais para você ir e voltar[n]do que comprá-los de um[n]fruteiro?[n][f 1 6 65535][e]
@@ -12761,7 +12761,7 @@
 [s][vp 1 0 0 16501 0 0]Talvez eu esteja apenas cansado, mas[n]ultimamente tenho realmente lutado[n]para acordar.[n][f 1 6 65535][e]
 
 [msg D_CAR_PC06_mes10502]
-[s][vp 1 0 0 16502 0 0]Eu tive um sonho maluco... Eu estava na[n]escola, mas eu estava usando[n]minha fantasia de Ladrão Fantasma.[n][f 1 6 65535][e]
+[s][vp 1 0 0 16502 0 0]Eu tive um sonho maluco... Eu estava na[n]escola, mas eu estava usando[n]minha fantasia de Phantom Thief.[n][f 1 6 65535][e]
 
 [msg D_CAR_PC06_mes10503]
 [s][vp 1 0 0 16503 0 0]Uma vez minha irmã trouxe um pouco de sushi para[n]casa. Foi muito gostoso...[n][f 1 6 65535][e]
@@ -12791,7 +12791,7 @@
 [s][vp 1 0 0 16511 0 0]O cabo do gancho parece resistente,[n]mas é assustador pensar no que[n]aconteceria se ele quebrasse.[n][f 1 6 65535][e]
 
 [msg D_CAR_PC06_mes10512]
-[s][vp 1 0 0 16512 0 0]Como vai a escola? Eu sei que[n]ladrões fantasmas são importantes,[n]mas suas notas também.[n][f 1 6 65535][e]
+[s][vp 1 0 0 16512 0 0]Como vai a escola? Eu sei que[n]Phantom Thieves são importantes,[n]mas suas notas também.[n][f 1 6 65535][e]
 
 [msg D_CAR_PC06_mes10513]
 [s][vp 1 0 0 16513 0 0]Já que estamos aqui, que tal[n]aprender a dirigir? Acho[n]um bom lugar para praticar.[n][f 1 6 65535][e]
@@ -13517,7 +13517,7 @@
 [s][vp 1 0 0 18531 0 0]Da próxima vez que você não conseguir[n]dormir, venha para minha casa![e]
 
 [msg D_CAR_PC08_mes10532]
-[s][vp 1 0 0 18532 0 0]Contos de ladrões fantasmas, hein?[n]Estou dentro. Eles se sentem[n]legais, não é?[n][f 1 6 65535][e]
+[s][vp 1 0 0 18532 0 0]Contos de Phantom Thieves, hein?[n]Estou dentro. Eles se sentem[n]legais, não é?[n][f 1 6 65535][e]
 
 [msg D_CAR_PC08_mes10533]
 [s][vp 1 0 0 18533 0 0]Eu não assisto muita TV.[n]Além de animes, é claro![n][f 1 6 65535][e]

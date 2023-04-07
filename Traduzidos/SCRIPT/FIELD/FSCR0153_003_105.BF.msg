@@ -36,7 +36,7 @@
 [s]......[n][w][e]
 
 [msg D02_01_e200_142_mes04 [Ryuji]]
-[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]OK, vamos lá: vamos nos juntar a[n]ela![n][w][e]
+[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ok, vamos lá: vamos nos juntar a[n]ela![n][w][e]
 
 [msg D02_01_e200_142_mes05]
 [s]Você não precisa[n]pressioná-lo novamente...[n][w][e]
@@ -173,7 +173,7 @@
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Por que não procuramos alguém que a conheça?[n][w][e]
 
 [msg D02_02_200_145_mes06 [Ryuji]]
-[s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7045 65535 0]OK, vamos tentar![n][w][e]
+[s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7045 65535 0]Ok, vamos tentar![n][w][e]
 
 [msg D02_02_200_145_mes07]
 [s]A senha é 07734...[n][w][e]

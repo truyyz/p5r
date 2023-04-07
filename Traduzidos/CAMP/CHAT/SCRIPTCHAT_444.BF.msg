@@ -64,7 +64,7 @@
 [msg MSG_999_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 1 0 0]*suspiro* Vamos ignorar aquele idiota.[n]Um especialista em shogi, hein?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 1 0 0 2 0 0]Atingir os inimigos com a inspiração[n]do momento, planejando[n]cuidadosamente as próprias estratégias...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 1 0 0 3 0 0]Eles podem ser ótimos[n]ensinamentos para nossas[n]missões dos Ladrões Fantasmas.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 1 0 0 3 0 0]Eles podem ser ótimos[n]ensinamentos para nossas[n]missões dos Phantom Thieves.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 1 0 0 4 0 0]Dizem que é na igreja de[n]Kanda, certo? Devemos[n]aparecer quando pudermos.[n][f 1 3 65535][w][e]
 
 [msg MSG_SPOT_OPEN_KANDA]

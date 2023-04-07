@@ -31,7 +31,7 @@
 [msg SPOT_TUTO_RYUJI_INVITE00_2 [Morgana]]
 [s]"Ei, estou com vontade de pescar.[n]Vamos para Ichigaya!"[n][w][e]
 [s]Ele parece estar com pressa.[n][w][e]
-[s]Ainda assim, não é uma má ideia.[n]Experimentar coisas novas é importante[n]para um Ladrão Fantasma.[n][w][e]
+[s]Ainda assim, não é uma má ideia.[n]Experimentar coisas novas é importante[n]para um Phantom Thief.[n][w][e]
 [s]E a melhor maneira de fazê-los é[n]visitar novos lugares![n]Vamos lá, vamos para Ichigaya![n][w][e]
 
 [msg SPOT_TUTO_RYUJI_INVITE00_3]

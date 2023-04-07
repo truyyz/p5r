@@ -136,7 +136,7 @@
 
 [sel SEL_033_0_0 top]
 [s][f 0 8 2 1 2217]Ele teve sua graça.[clr 27][e]
-[s]Um excelente Ladrão Fantasma...[e]
+[s]Um excelente Phantom Thief...[e]
 
 [msg MSG_034_0_0 [Ann]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 4 7 301 1][vp 8 2 0 6130 65535 0][f 5 13 7 5 4]Oh, talvez seja disso que estou perdendo...![n][f 1 3 65535][w][e]
@@ -167,7 +167,7 @@
 [s][vp 8 0 0 0 65535 0]Sinto que Ann é movida por uma[n]determinação renovada...[n][f 1 3 65535][w][e]
 
 [msg MSG_041_0_0 [Ann]]
-[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Falando do Metaverso...[n]Farei o meu melhor para[n]os Ladrões Fantasmas também![n][f 1 3 65535][w][e]
+[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Falando do Metaverso...[n]Farei o meu melhor para[n]os Phantom Thieves também![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas agora tenho que ir[n]ao hospital para visitar Shiho.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][f 4 24 0 4 0 42 3 100][f 4 24 0 4 0 9 3 100][f 4 24 0 4 0 0 0 0][vp 8 2 0 6060 65535 0]Obrigado por hoje![n][f 1 3 65535][w][e]
 

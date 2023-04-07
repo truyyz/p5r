@@ -59,7 +59,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Se eu tivesse que colocá-lo em termos de[n]shogi, diria que é como ser pego sem saber[n]em Checkmate.[n][w][e]
 
 [msg MES_GROUP5_02 [Shinya]]
-[s][bup 0 110 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 17075 65535 0]Mesmo assim, os ladrões fantasmas não[n]perderiam para isso.[n][w][e]
+[s][bup 0 110 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 17075 65535 0]Mesmo assim, os Phantom Thieves não[n]perderiam para isso.[n][w][e]
 
 [msg MES_GROUP5_03 [Hifumi]]
 [s][bup 0 106 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 3 10 0 10]Você acredita neles muito, não é?[n][w][e]

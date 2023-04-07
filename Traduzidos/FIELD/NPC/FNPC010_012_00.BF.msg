@@ -113,10 +113,10 @@
 [s]Esqueça.[e]
 
 [msg MSG_ArbeitOK_Start [Lala Escargot]]
-[s][f 4 23 1 0 3 10 0 0][f 4 25 1 0 0 0][vp 8 2 1 57731 65535 0]OK, então vá se trocar.[n][w][e]
+[s][f 4 23 1 0 3 10 0 0][f 4 25 1 0 0 0][vp 8 2 1 57731 65535 0]Ok, então vá se trocar.[n][w][e]
 
 [msg MSG_ArbeitOK_Cancel [Lala Escargot]]
-[s][f 4 23 1 0 3 10 0 0][f 4 25 1 0 0 0][vp 8 2 1 57730 65535 0]Oh, sério?[n]OK, então vá para casa.[n][w][e]
+[s][f 4 23 1 0 3 10 0 0][f 4 25 1 0 0 0][vp 8 2 1 57730 65535 0]Oh, sério?[n]Ok, então vá para casa.[n][w][e]
 
 [msg MSG_Sentou_ParamInfo_int [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1166 65535 0]Talvez trabalhar no bar e ajudar[n]os clientes possa arrecadar[n][f 4 11 3][clr 26][f 4 12 4][clr 27]?[n][w][e]

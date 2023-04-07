@@ -18,7 +18,7 @@
 [s]Vamos mudar para outro lugar.[e]
 
 [msg MSG_005_0_0 [Yoshida]]
-[s][bup 0 112 0 0 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]OK.[n][f 1 3 65535][w][e]
+[s][bup 0 112 0 0 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Ok.[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Yoshida]]
 [s][bup 0 112 2 0 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]A indiferença é inaceitável.[n][f 1 3 65535][w][e]

@@ -90,7 +90,7 @@
 [s][vp 8 0 0 0 65535 0](笑い)[n][f 1 3 65535][w][e]
 
 [msg MSG_028_0_0 [Apresentador]]
-[s][vp 8 0 0 39 65535 0]OK, vou te fazer uma pergunta...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 39 65535 0]Ok, vou te fazer uma pergunta...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 40 65535 0]Você acha que os Phantom Thieves são[n]realmente estudantes Shujin?[n][f 1 3 65535][w][e]
 
 [msg MSG_029_0_0 [Ryuji]]
@@ -126,7 +126,7 @@
 [s][vp 8 0 0 49 65535 0]Viva! E quem[n]deveria se importar!?![n][f 1 3 65535][w][e]
 
 [msg MSG_038_0_0 [Ryuji]]
-[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 56 65535 0]OK...[n][f 1 3 65535][w][e]
+[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 56 65535 0]Ok...[n][f 1 3 65535][w][e]
 
 [msg MSG_039_0_0 [Apresentador]]
 [s][vp 8 0 0 46 65535 0]Oooo![n][f 1 3 65535][w][e]

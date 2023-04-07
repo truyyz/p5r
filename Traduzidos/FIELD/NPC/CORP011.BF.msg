@@ -425,7 +425,7 @@
 [msg MSG_TWINS_OUTING_Quest12_3 [Justine]]
 [s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 211 3 10 0 10]Em seu mundo, o outono é[n]considerado "a estação das artes",[n]então o momento é perfeito.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]A arte é uma expressão do coração.[n]Ela reflete a alma do artista e[n]do público… ou é o que dizem.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]A força do seu coração é também a[n]força da sua Pessoa.[n]Ajudará na reabilitação.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]A força do seu coração é também a[n]força da sua Persona.[n]Ajudará na reabilitação.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Este é um lugar que soa familiar para você?[n][w][e]
 
 [msg MND_TWINS_OUTING_Quest12]
@@ -460,7 +460,7 @@
 
 [msg MND_TWINS_OUTING_Quest13]
 [s]......[n][w][e]
-[s]Pode ser o shopping subterrâneo de Shibuya.[n][w][e]
+[s]Pode ser o Shopping Subterrâneo de Shibuya.[n][w][e]
 
 [sel SEL_TWINS_OUTING_Quest_C_13 top]
 [s]Shopping Shibuya?[e]
@@ -520,7 +520,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 1 6 65535 0]...Vou rezar para que você[n]não se perca de vista ao[n]continuar sua jornada.[n][w][e]
 
 [sel SEL_C11_BYEGREET_00_01 top]
-[s]Obrigada.[e]
+[s]Obrigado.[e]
 [s]Agora serei meu guia.[e]
 [s]Gostaria que você pudesse me orientar.[e]
 

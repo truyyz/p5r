@@ -4,7 +4,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas quanto mais fundo eu vou, mais[n]o assunto se torna perturbador.[n][f 1 3 65535][w][e]
 
 [sel SEL_014_0_0 top]
-[s]Porque?[e]
+[s]Por quê?[e]
 [s]O que você descobriu?[e]
 
 [msg MSG_001_0_0 [Chihaya]]

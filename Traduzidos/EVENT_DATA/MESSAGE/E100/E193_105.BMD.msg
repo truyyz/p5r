@@ -1,5 +1,5 @@
 [msg MSG_000_0_0 [Ryuji]]
-[s][f 4 16 3 3 301 65535 65535][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]Os Ladrões Fantasmas que viajam de[n]trem... Assim como eu faço[n]todos os dias para ir à escola.[n][f 1 3 65535][w][e]
+[s][f 4 16 3 3 301 65535 65535][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]Os Phantom Thieves que viajam de[n]trem... Assim como eu faço[n]todos os dias para ir à escola.[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]O trem é a maneira mais rápida de chegar lá. E[n]então, animais de estimação são permitidos a[n]bordo.[n][f 1 3 65535][w][e]

@@ -22,7 +22,7 @@
 [s]Não, tudo bem.[e]
 
 [msg MSG_e295_081_AF02_002 [Makoto]]
-[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2090 65535 0]É isso, exatamente[n]onde estava antes. OK, vamos.[n][w][e]
+[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2090 65535 0]É isso, exatamente[n]onde estava antes. Ok, vamos.[n][w][e]
 
 [msg MSG_e295_081_AF02_003 [Makoto]]
 [s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2023 65535 0]Vamos então.[n][w][e]
@@ -35,7 +35,7 @@
 [s]Não pegue a joia[e]
 
 [msg MSG_e295_082_002 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1181 65535 0]OK. Vamos pegar[n]e seguir em frente.[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1181 65535 0]Ok. Vamos pegar[n]e seguir em frente.[n][w][e]
 
 [msg MSG_e295_082_003 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1023 65535 0]Oh sério? Então[n]vamos deixar isso de lado, por enquanto.[n][w][e]
@@ -54,7 +54,7 @@
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Feito. Como se nunca[n]tivéssemos. Vamos![n][w][e]
 
 [msg MSG_e295_082_AF02_003 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]OK, vamos mantê-lo então![n][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ok, vamos mantê-lo então![n][w][e]
 
 [msg D04_03_e295_081_AF03_mes [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Já usamos a joia que temos aqui. Acho que ainda[n]não vamos precisar.[n][w][e]

@@ -92,7 +92,7 @@
 
 [msg MSG_030_0_0 [Lindo ladrão]]
 [s][bup 0 7 102 65535 0][f 4 10 65535 0 0][vp 8 0 0 33 9 0]Você não tem o direito de ser[n]Phantom Thieves![n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 34 9 0]Você ao menos tem ideia do que significa ser um[n]Ladrão Fantasma? Um nobre Ladrão Fantasma é...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 34 9 0]Você ao menos tem ideia do que significa ser um[n]Phantom Thief? Um nobre Phantom Thief é...[n][f 1 3 65535][w][e]
 
 [msg MSG_031_0_0 [Morgana]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 3 10 300 1][vp 8 0 0 35 65535 0]Sim, diga a ele![n][f 1 3 65535][w][e]

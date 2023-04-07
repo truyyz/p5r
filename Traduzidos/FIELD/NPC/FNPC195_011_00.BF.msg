@@ -13,12 +13,12 @@
 [s]Nós lutamos.[e]
 
 [msg Joze_Battle_Not_Fight [Jose]]
-[s][bup 0 221 3 0 0][f 4 10 65535 0 0][vp 8 2 1 56742 65535 0]Oh, OK.[n][w][e]
+[s][bup 0 221 3 0 0][f 4 10 65535 0 0][vp 8 2 1 56742 65535 0]Oh, Ok.[n][w][e]
 [s][f 4 10 65535 0 0]Depois volte quando estiver pronto.[n]Espero por você...[n][w][e]
 
 [msg Joze_Battle_Fight [Jose]]
 [s][bup 0 221 1 0 0][f 4 10 65535 0 0][vp 8 2 1 56748 65535 0]Sério? Obrigada.[n][w][e]
-[s][f 4 10 65535 0 0]OK, vamos lá![n][w][e]
+[s][f 4 10 65535 0 0]Ok, vamos lá![n][w][e]
 
 [msg Joze_Battle_2nd_start [Jose]]
 [s][bup 0 221 0 0 0][f 4 10 65535 0 0][vp 8 0 1 1 65535 0]Ei, pessoal... ótimo trabalho.[n][w][e]
@@ -29,7 +29,7 @@
 [s]Nós lutamos.[e]
 
 [msg Joze_Battle_2nd_01 [Jose]]
-[s][bup 0 221 0 0 0][f 4 10 65535 0 0][vp 8 0 1 3 65535 0]OK...[n][w][e]
+[s][bup 0 221 0 0 0][f 4 10 65535 0 0][vp 8 0 1 3 65535 0]Ok...[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 4 65535 0]Volte se mudar de ideia.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 5 65535 0]Eu paro aqui de vez em quando,[n]então apareça se[n]você estiver na área.[n][w][e]
 
@@ -190,7 +190,7 @@
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Acho que me faria muito bem.[n]Posso, por favor?[n][w][e]
 
 [msg MEMENTOS_refuse_awakenin_4 [Jose]]
-[s][bup 0 221 0 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Mmm... OK... Entendo...[n][w][e]
+[s][bup 0 221 0 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Mmm... Ok... Entendo...[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Então, aqui vai assim...[n]enquanto aqui vai assim, e...[n][w][e]
 
 [msg MEMENTOS_refuse_awakenin_5 [Jose]]

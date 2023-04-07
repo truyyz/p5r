@@ -18,5 +18,5 @@
 [s][f 5 14]É claro.[n][w][e]
 
 [msg MSG_REACTION_02 [Akechi]]
-[s][f 5 14]OK. Eu irei imediatamente para a reunião.[n][f 5 15][w][e]
+[s][f 5 14]Ok. Eu irei imediatamente para a reunião.[n][f 5 15][w][e]
 

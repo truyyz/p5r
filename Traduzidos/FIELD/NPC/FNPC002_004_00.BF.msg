@@ -81,7 +81,7 @@
 [s][f 4 23 1 9 3 10 0 0][vp 8 2 1 0 9 0]Não sou inteligente o suficiente para ter[n]problemas. Ou talvez... o fato de[n]ele não tê-los seja um problema?[n][w][e]
 
 [msg MSG_GAKKOJIMUINN_004_0_0 [Estudante vistoso]]
-[s][f 4 23 1 9 3 10 0 10][vp 8 2 1 0 9 0]Haha! Esses ladrões fantasmas são[n]uma piada! Kamoshida é[n]true procurando por isso![n][w][e]
+[s][f 4 23 1 9 3 10 0 10][vp 8 2 1 0 9 0]Haha! Esses Phantom Thieves são[n]uma piada! Kamoshida é[n]true procurando por isso![n][w][e]
 [s][f 4 23 1 9 3 10 0 10][vp 8 2 1 0 9 0]Gostaria que reservassem o mesmo[n]tratamento para todos os profs. isso[n]me quebra. Oh, exceto você, Sensei.[n][w][e]
 
 [msg MSG_GAKKOJIMUINN_004_1_0 [Professor gentil]]
@@ -216,7 +216,7 @@
 
 [msg MSG_GAKKOJIMUINN_013_2_0 [Estudante vistoso]]
 [s][f 4 23 1 9 3 10 0 0][vp 8 2 1 0 9 0]Haha! Talvez você esteja certo![n][w][e]
-[s][vp 8 2 1 0 9 0]Ser o Ladrão Fantasma deve ser[n]difícil. Apenas ouvir todos[n]esses pedidos será uma dor.[n][w][e]
+[s][vp 8 2 1 0 9 0]Ser o Phantom Thief deve ser[n]difícil. Apenas ouvir todos[n]esses pedidos será uma dor.[n][w][e]
 
 [msg MSG_GAKKOJIMUINN_013_01_ [Estudante vistoso]]
 [s][f 4 23 1 9 3 10 0 0][vp 8 2 1 0 9 0]O que está acontecendo, Sensei? Você parece[n]mais perdido do que o normal.[n][w][e]
@@ -250,7 +250,7 @@
 [s][vp 8 2 1 0 8 0]Eu só queria que aqueles Thieves[n]Phantoms fossem pegos.[n][w][e]
 
 [msg MSG_GAKKOJIMUINN_015_2_0 [Estudante vistoso]]
-[s][f 4 23 1 9 3 10 0 0][vp 8 2 1 0 9 0]A polícia é inútil. Sempre lá para[n]dizer o que fazer, mas não consegue[n]pegar nenhum Ladrão Fantasma...[n][w][e]
+[s][f 4 23 1 9 3 10 0 0][vp 8 2 1 0 9 0]A polícia é inútil. Sempre lá para[n]dizer o que fazer, mas não consegue[n]pegar nenhum Phantom Thief...[n][w][e]
 
 [msg MSG_GAKKOJIMUINN_016_0_0 [Estudante vistoso]]
 [s][f 4 23 1 9 3 10 0 0][vp 8 2 1 0 9 0]Por que você quer ir votar[n]nas eleições, Sensei?[n][w][e]
@@ -304,7 +304,7 @@
 [s][vp 8 2 1 0 9 0]Você se lembra de como todo mundo estava falando[n]sobre os Phantom Thieves no ataque do governo?[n][w][e]
 
 [msg MSG_GAKKOJIMUINN_019_2_0 [Professor gentil]]
-[s][f 4 23 1 8 3 10 0 0][vp 8 2 1 0 8 0]Os ladrões fantasmas? Havia um grupo[n]com esse nome? Eu não lembro...[n][w][e]
+[s][f 4 23 1 8 3 10 0 0][vp 8 2 1 0 8 0]Os Phantom Thieves? Havia um grupo[n]com esse nome? Eu não lembro...[n][w][e]
 [s][f 4 23 1 8 3 10 0 0][vp 8 2 1 0 8 0]Isso não importa. Se dependesse de mim,[n]sabia...[n][w][e]
 
 [msg MSG_GAKKOJIMUINN_020_0_0 [Estudante vistoso]]
@@ -417,7 +417,7 @@
 [s][vp 9 2 65535 38904 0 0]O que o fez pedir desculpas tão de repente?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_005_06_ [Estudante vistoso]]
-[s][vp 9 2 65535 43000 0 0]Bem, ele trouxe isso.[n]Eu diria que temos uma dívida[n]com aqueles Ladrões Fantasmas.[n][f 1 2 180][e]
+[s][vp 9 2 65535 43000 0 0]Bem, ele trouxe isso.[n]Eu diria que temos uma dívida[n]com aqueles Phantom Thieves.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_005_07_ [Estudante vistoso]]
 [s][vp 9 2 65535 42605 0 0]Os Phantom Thieves não têm nada a ver com o[n]pedido de desculpas do Prof. Kamoshida.[n][f 1 2 180][e]
@@ -522,7 +522,7 @@
 [s][vp 9 2 65535 42754 0 0]De alguma forma, os Phantom Thieves[n]conseguem forçar uma pessoa[n]a se desculpar pelos crimes cometidos.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_06_ [Estudante vistoso]]
-[s][vp 9 2 65535 39505 0 0]Os Ladrões Fantasmas de novo? Mas não foi apenas[n]uma piada?[n][f 1 2 180][e]
+[s][vp 9 2 65535 39505 0 0]Os Phantom Thieves de novo? Mas não foi apenas[n]uma piada?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_07_ [Estudante vistoso]]
 [s][vp 9 2 65535 43305 0 0]Então aquela carta de aviso para[n]Kamoshida não era brincadeira...[n][f 1 2 180][e]
@@ -630,7 +630,7 @@
 [s][vp 9 2 65535 38706 0 0]Os Phantom Thieves nos salvaram![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_013_07_ [Estudante vistoso]]
-[s][vp 9 2 65535 41400 0 0]Os Ladrões Fantasmas roubam os corações dos[n]maus... é isso que desencadeia[n]o despertar do coração deles![n][f 1 2 180][e]
+[s][vp 9 2 65535 41400 0 0]Os Phantom Thieves roubam os corações dos[n]maus... é isso que desencadeia[n]o despertar do coração deles![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_014_01_ [Estudante vistoso]]
 [s][vp 9 2 65535 42603 0 0]Você leu as declarações de Medjed?[n]Eles são realmente mortais[n]com os Phantom Thieves![n][f 1 2 180][e]
@@ -666,7 +666,7 @@
 [s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_015_05_ [Estudante vistoso]]
-[s][vp 9 2 65535 40604 0 0]Os hackers estão provocando[n]os Ladrões Fantasmas, mas não sei[n]se eles conseguirão reagir...[n][f 1 2 180][e]
+[s][vp 9 2 65535 40604 0 0]Os hackers estão provocando[n]os Phantom Thieves, mas não sei[n]se eles conseguirão reagir...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_015_06_ [Estudante vistoso]]
 [s][vp 9 2 65535 39806 0 0]Esses hackers são perigosos![n]Os Phantom Thieves[n]com certeza irão detê-los![n][f 1 2 180][e]
@@ -834,7 +834,7 @@
 [s][vp 9 2 65535 42457 0 0]Os Phantom Thieves são assassinos![n]Como alguém pode ser tão[n]implacável!?![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_023_02_ [Estudante vistoso]]
-[s][vp 9 2 65535 39501 0 0]Esses ladrões fantasmas são assassinos![n]Coloque-os imediatamente na prisão![n][f 1 2 180][e]
+[s][vp 9 2 65535 39501 0 0]Esses Phantom Thieves são assassinos![n]Coloque-os imediatamente na prisão![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_023_03_ [Estudante vistoso]]
 [s][vp 9 2 65535 43007 0 0]Nunca pensei que[n]Phantom Thieves pudessem[n]matar alguém...![n][f 1 2 180][e]
@@ -867,7 +867,7 @@
 [s][vp 9 2 65535 42907 0 0]Quando os Ladrões prenderão[n]Phantom?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_024_06_ [Estudante vistoso]]
-[s][vp 9 2 65535 42709 0 0]O que os adultos estão fazendo!?![n]Aqueles ladrões fantasmas[n]ainda estão à solta![n][f 1 2 180][e]
+[s][vp 9 2 65535 42709 0 0]O que os adultos estão fazendo!?![n]Aqueles Phantom Thieves[n]ainda estão à solta![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_024_07_ [Estudante vistoso]]
 [s][vp 9 2 65535 43301 0 0]Depressa e prenda[n]aquele bando de assassinos![n][f 1 2 180][e]
@@ -909,7 +909,7 @@
 [s][vp 9 2 65535 40652 0 0]Parece que incidentes relacionados[n]a arrebatamentos estão acontecendo[n]mais e com mais frequência...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_026_06_ [Estudante vistoso]]
-[s][vp 9 2 65535 39751 0 0]O que os adultos estão fazendo!?![n]Aqueles ladrões fantasmas[n]ainda estão à solta![n][f 1 2 180][e]
+[s][vp 9 2 65535 39751 0 0]O que os adultos estão fazendo!?![n]Aqueles Phantom Thieves[n]ainda estão à solta![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_026_07_ [Estudante vistoso]]
 [s][vp 9 2 65535 42752 0 0]É assustador que esses ataques[n]estão acontecendo cada vez mais[n]frequentemente...[n][f 1 2 180][e]
@@ -1068,7 +1068,7 @@
 [s][vp 9 2 65535 43211 0 0]E quem se lembrou dos[n]exames finais depois de tudo[n]que aconteceu...?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_105_01_ [Estudante vistoso]]
-[s][vp 9 2 65535 42403 0 0]OK, pretendo obter uma nota muito boa[n]nos exames finais,[n]assim como nos intermediários![n][f 1 2 180][e]
+[s][vp 9 2 65535 42403 0 0]Ok, pretendo obter uma nota muito boa[n]nos exames finais,[n]assim como nos intermediários![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_Lim_105_02_ [Estudante vistoso]]
 [s][vp 9 2 65535 39402 0 0]Já é hora dos exames finais...[n]preciso muito[n]estudar.[n][f 1 2 180][e]
@@ -1368,7 +1368,7 @@
 [s][f 4 23 1 80 3 10 0 10][vp 8 2 1 0 80 0]Eu ouvi uma coisa maluca.[n]Yoshizawa-san pode perder[n]sua bolsa de estudos...[n][w][e]
 
 [msg MSG_VALLEY_NPC09_01_1_0 [Aluna em uniforme esportivo]]
-[s][f 4 23 1 81 3 10 0 10][vp 8 2 1 0 81 0]Porque? OK, ela não ganhou, mas[n]ela ainda era boa![n][w][e]
+[s][f 4 23 1 81 3 10 0 10][vp 8 2 1 0 81 0]Por quê? Ok, ela não ganhou, mas[n]ela ainda era boa![n][w][e]
 
 [msg MSG_VALLEY_NPC09_01_2_0 [Jogador de voleibol]]
 [s][f 4 23 1 80 3 10 0 10][vp 8 2 1 0 80 0]Não sei os detalhes, mas parece que é como a[n]escola diz.[n][w][e]

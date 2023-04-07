@@ -11,5 +11,5 @@
 [s][f 5 14]Simmm![n][w][e]
 
 [msg MSG_021_0_0 [Kawakami]]
-[s][f 5 14]OK, encontre-me em Shibuya,[n]perto de Buchiko.[n][f 5 15][w][e]
+[s][f 5 14]Ok, encontre-me em Shibuya,[n]perto de Buchiko.[n][f 5 15][w][e]
 

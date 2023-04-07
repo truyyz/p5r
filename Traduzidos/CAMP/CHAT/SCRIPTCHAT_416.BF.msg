@@ -20,10 +20,10 @@
 [s][f 5 14]Huh? Agora?[n][w][e]
 
 [msg CHAT_REACTION_02 [Haru]]
-[s][f 5 14]OK. Encontre-me no telhado.[n][f 5 15][w][e]
+[s][f 5 14]Ok. Encontre-me no telhado.[n][f 5 15][w][e]
 
 [msg CHAT_REACTION_03 [Haru]]
-[s][f 5 14]OK. Encontre-me no telhado.[n][w][e]
+[s][f 5 14]Ok. Encontre-me no telhado.[n][w][e]
 
 [msg CHAT_REACTION_04 [Haru]]
 [s][f 5 14]Lembre-se de dar a volta por trás hoje, ok?[n][f 5 15][w][e]

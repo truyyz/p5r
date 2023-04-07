@@ -8,7 +8,7 @@
 [s][vp 8 0 0 3 65535 0]Hoje à noite haverá o anúncio do[n]novo smartphone![n][f 1 3 65535][w][e]
 
 [msg MSG_002_2_0 [Mulher chamativa]]
-[s][vp 8 0 0 21 65535 0]Mas no final quem eram[n]aqueles ladrões fantasmas?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 21 65535 0]Mas no final quem eram[n]aqueles Phantom Thieves?[n][f 1 3 65535][w][e]
 
 [msg MSG_002_5_0 [Homem na mão]]
 [s][vp 8 0 0 22 65535 0]Oh Deus, não me faça pensar nisso![w][e]

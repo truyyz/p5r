@@ -86,7 +86,7 @@
 [s][vp 8 0 0 0 65535 0][f 5 14]Como um touro em um[n]café! Bem,[n]até mais![n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Chihaya]]
-[s][vp 8 0 0 0 65535 0][f 5 14]Sério? OK, se você insiste...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 5 14]Sério? Ok, se você insiste...[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Chihaya]]
 [s][vp 8 0 0 0 65535 0][f 5 14]Estarei ansioso para[n]ver você.[n][f 1 3 65535][w][e]
@@ -101,7 +101,7 @@
 [s][vp 8 0 0 0 65535 0][f 5 14]Mal posso esperar por[n]amanhã, Mestre. [f 1 9 0][n][f 1 3 65535][w][e]
 
 [msg MSG_025_0_0 [Ohya]]
-[s][vp 8 0 0 0 65535 0][f 5 14]Sério? OK,[n]passarei amanhã[n]à noite.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 5 14]Sério? Ok,[n]passarei amanhã[n]à noite.[n][f 1 3 65535][w][e]
 
 [msg MSG_026_0_0 [Ohya]]
 [s][vp 8 0 0 0 65535 0][f 5 14]Até amanhã![n][f 1 3 65535][w][e]

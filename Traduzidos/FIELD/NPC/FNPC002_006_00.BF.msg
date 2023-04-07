@@ -99,7 +99,7 @@
 
 [msg MSG_SEASON_GOODS_002_02 [Menina de paladar fino]]
 [s][f 4 23 1 8 14 0 13 0][vp 8 2 1 0 8 0]Hmm, nesse caso, por que você[n]não experimenta este óleo corporal[n]chamado [clr 2][var 0][clr 27]?[n][w][e]
-[s][vp 8 2 1 0 8 0]Você pode encontrá-lo na loja de cosméticos[n]no shopping subterrâneo[n]da estação de Shibuya.[n][w][e]
+[s][vp 8 2 1 0 8 0]Você pode encontrá-lo na loja de cosméticos[n]no Shopping Subterrâneo[n]da estação de Shibuya.[n][w][e]
 
 [msg MSG_SEASON_GOODS_002_03 [Menina curiosa]]
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Óleo corporal? Hum. Da próxima vez vou dar uma[n]chance...[n][w][e]
@@ -152,11 +152,11 @@
 [s][vp 8 2 1 0 8 0]Na verdade, no subsolo da[n]estação de Shibuya, eles vendem este[n]produto por tempo limitado: [clr 2][var 1][clr 27].[n][w][e]
 
 [msg MSG_SEASON_GOODS_006_03 [Menina curiosa]]
-[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Uau, você realmente sabe tudo sobre ofertas. OK,[n]então eu vou para a estação de Shibuya.[n][w][e]
+[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Uau, você realmente sabe tudo sobre ofertas. Ok,[n]então eu vou para a estação de Shibuya.[n][w][e]
 
 [msg MSG_SEASON_GOODS_007_01 [Menina curiosa]]
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]É quase verãoooooo.[n][w][e]
-[s][vp 8 2 1 0 7 0]Durante toda a primavera, não havia[n]conversa sobre nada além dos[n]Ladrões Fantasmas. Será assim no verão também?[n][w][e]
+[s][vp 8 2 1 0 7 0]Durante toda a primavera, não havia[n]conversa sobre nada além dos[n]Phantom Thieves. Será assim no verão também?[n][w][e]
 
 [msg MSG_SEASON_GOODS_007_02 [Menina de paladar fino]]
 [s][f 4 23 1 8 14 0 13 0][vp 8 2 1 0 8 0]Thieves são ótimos e tudo,[n]mas o verão é perfeito para alguns[n][clr 2][var 0][clr 27]![n][w][e]
@@ -177,7 +177,7 @@
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Uau, isso é bom? É só pão,[n]mas acho que não devo[n]subestimá-lo...[n][w][e]
 
 [msg MSG_SEASON_GOODS_009_01 [Menina curiosa]]
-[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Mas quão loucos são os ladrões fantasmas?[n][w][e]
+[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Mas quão loucos são os Phantom Thieves?[n][w][e]
 [s][vp 8 2 1 0 7 0]Aquele incidente com Kamoshida[n]foi apenas o começo?[n][w][e]
 
 [msg MSG_SEASON_GOODS_009_02 [Menina de paladar fino]]
@@ -398,7 +398,7 @@
 
 [msg MSG_KATAOMOI_011_0_0 [Estudante animada]]
 [s][f 4 23 1 1 3 10 0 0][vp 8 2 1 0 1 0]Medjed é um grupo perigoso,[n]verdade? Acho que ouvi que[n]eles realizaram atos terroristas.[n][w][e]
-[s][vp 8 2 1 0 1 0]Akechi-kun disse que eles[n]reapareceram por causa dos[n]ladrões fantasmas.[n][w][e]
+[s][vp 8 2 1 0 1 0]Akechi-kun disse que eles[n]reapareceram por causa dos[n]Phantom Thieves.[n][w][e]
 
 [msg MSG_KATAOMOI_011_1_0 [Estudante quieto]]
 [s][f 4 23 1 0 3 10 0 0][vp 8 2 1 0 0 0]Mas Phantom Thieves e Hackers[n]parece algo saído de um mangá.[n]É engraçado quando você pensa sobre isso.[n][w][e]
@@ -482,7 +482,7 @@
 [s][f 4 23 1 1 3 10 0 0][vp 8 2 1 0 1 0]Ah bem. Basicamente, todas essas coisas não têm[n]nada a ver conosco.[n][w][e]
 
 [msg MSG_KATAOMOI_019_0_0 [Estudante animada]]
-[s][f 4 23 1 1 3 10 0 0][vp 8 2 1 0 1 0]No ano passado, toda a conversa[n]foi sobre os Ladrões Fantasmas e Akechi-kun...[n][w][e]
+[s][f 4 23 1 1 3 10 0 0][vp 8 2 1 0 1 0]No ano passado, toda a conversa[n]foi sobre os Phantom Thieves e Akechi-kun...[n][w][e]
 [s][vp 8 2 1 0 1 0]O que você acha que vai acontecer este ano?[n][w][e]
 
 [msg MSG_KATAOMOI_019_1_0 [Estudante quieto]]
@@ -699,7 +699,7 @@
 [s][vp 9 2 65535 39954 0 0]A carta de aviso dos Ladrões[n]Fantasma era real?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_02_ [Bom aluno]]
-[s][vp 9 2 65535 39804 0 0]Ele mencionou os Ladrões Fantasmas.[n]Kamoshida está realmente envolvido[n]de alguma forma?[n][f 1 2 180][e]
+[s][vp 9 2 65535 39804 0 0]Ele mencionou os Phantom Thieves.[n]Kamoshida está realmente envolvido[n]de alguma forma?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_03_ [Bom aluno]]
 [s]0[n][f 1 2 180][e]
@@ -753,7 +753,7 @@
 [s][vp 9 2 65535 38906 0 0]Phantom Thieves são[n]muito mais confiáveis[n]que a polícia![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_011_02_ [Bom aluno]]
-[s][vp 9 2 65535 42256 0 0]Parece que os Ladrões Fantasmas[n]acabaram com aquela[n]rede criminosa...[n][f 1 2 180][e]
+[s][vp 9 2 65535 42256 0 0]Parece que os Phantom Thieves[n]acabaram com aquela[n]rede criminosa...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_011_03_ [Bom aluno]]
 [s]0[n][f 1 2 180][e]

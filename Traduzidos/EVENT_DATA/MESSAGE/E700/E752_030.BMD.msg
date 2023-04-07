@@ -29,7 +29,7 @@
 [s]Vou fazer um café para você.[e]
 
 [msg MSG_009_0_0 [Futaba]]
-[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]OK![n][f 1 3 65535][w][e]
+[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Ok![n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Futaba]]
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Droga... deve ser porque já faz um[n]tempo, mas estou envergonhado.[n][f 1 3 65535][w][e]
@@ -69,7 +69,7 @@
 
 [msg MSG_019_0_0 [Futaba]]
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 26 65535 0]Bom! Com isso, as[n]travessuras acabaram![n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 27 65535 0]Hum, OK... Então agora...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 27 65535 0]Hum, Ok... Então agora...[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Futaba]]
 [s][bup 0 8 6 65535 0][f 4 10 65535 0 0][vp 8 0 0 28 65535 0]...Chocolates! Porque é[n]Dia dos Namorados. É assim que funciona.[n][f 1 3 65535][w][e]
@@ -129,7 +129,7 @@
 
 [msg MSG_036_0_0 [Futaba]]
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 48 65535 0]Mas agora há outra pessoa[n]que eu quero ajudar.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 49 65535 0]Não como Ladrão Fantasma. Isso não é um[n]salvamento. Eu quero... fazer tudo para fazê-la[n]feliz.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 49 65535 0]Não como Phantom Thief. Isso não é um[n]salvamento. Eu quero... fazer tudo para fazê-la[n]feliz.[n][f 1 3 65535][w][e]
 
 [sel SEL_037_0_0 top]
 [s]Quem?[e]

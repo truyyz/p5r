@@ -61,7 +61,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1185 65535 0]O que você quer fazer?[n][f 1 3 65535][w][e]
 
 [msg MSG_PROTEIN_NO [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Você não bebe?[n]OK, vamos começar então.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Você não bebe?[n]Ok, vamos começar então.[n][f 1 3 65535][w][e]
 
 [msg MSG_START_HANYO [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 1174 65535 0]Vamos começar a treinar.[n][f 1 3 65535][w][e]
@@ -73,7 +73,7 @@
 [s][bup 0 3 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 1171 65535 0]Você está correndo rápido.[n]Tenha cuidado. Se você errar o ritmo,[n]você se cansará rapidamente.[n][f 1 3 65535][w][e]
 
 [msg MSG_RUNNING_ING_2ND [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 1174 65535 0]OK, vamos assistir[n]seu ritmo. Não cometa[n]o mesmo erro novamente.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 1174 65535 0]Ok, vamos assistir[n]seu ritmo. Não cometa[n]o mesmo erro novamente.[n][f 1 3 65535][w][e]
 
 [msg MSG_RUNNING_ING_Common [Morgana]]
 [s][bup 0 3 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 1175 65535 0]Você está indo bem![n]Tenha cuidado e verifique[n]sua frequência cardíaca.[n][f 1 3 65535][w][e]

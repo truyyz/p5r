@@ -7,7 +7,7 @@
 
 [msg MSG_002_0_0 [Akechi]]
 [s][f 5 14]Incrível e bela descoberta.[n][w][e]
-[s][f 5 14]Talvez seja melhor para você ser um[n]detetive do que um Ladrão Fantasma.[n][w][e]
+[s][f 5 14]Talvez seja melhor para você ser um[n]detetive do que um Phantom Thief.[n][w][e]
 
 [msg MSG_003_0_0 [Akechi]]
 [s][f 5 14]Assim parece.[n][w][e]

@@ -28,7 +28,7 @@
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ei, eu já vi isso antes. É semelhante aos buracos[n]que usamos para colocar pedras em estátuas de[n]cães.[n][w][e]
 
 [msg D04_03_e296_326_AF02_mes_2 [Ann]]
-[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]OK, só precisamos de mais uma[n]joia brilhante![n][w][e]
+[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ok, só precisamos de mais uma[n]joia brilhante![n][w][e]
 
 [msg MSG_e296_326_AF03_000 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]A chave para este quebra-cabeça é[n]uma joia da estátua de Anúbis.[n]Vamos encontrá-la.[n][w][e]

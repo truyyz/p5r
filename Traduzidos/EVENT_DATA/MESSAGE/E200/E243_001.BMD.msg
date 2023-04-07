@@ -50,10 +50,10 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Vou perguntar ao Kosei, para[n]descobrir se há alguma vítima.[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]OK, eu conheço algumas garotas que[n]vão muito a Shibuya.[n]Vou tentar convidá-las.[n][f 1 3 65535][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Ok, eu conheço algumas garotas que[n]vão muito a Shibuya.[n]Vou tentar convidá-las.[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]OK, então vou tentar[n]fazer alguma pesquisa online.[n][f 1 3 65535][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]Ok, então vou tentar[n]fazer alguma pesquisa online.[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]Neste ponto, eu diria que cabe a você[n]e Morgana vasculhar a escola.[n][f 1 3 65535][w][e]

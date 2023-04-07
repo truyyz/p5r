@@ -1,9 +1,9 @@
 [msg MSG_000_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]OK, hoje vamos para Shibuya,[n]como programado![n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ok, hoje vamos para Shibuya,[n]como programado![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Podemos ter que lutar,[n]então cuidado![n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]OK, estamos todos aqui.[n][f 1 3 65535][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ok, estamos todos aqui.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Ontem eu também passei por aqui e...[n]Cara, é muita gente.[n]Vai ser uma bagunça.[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Ann]]
@@ -124,7 +124,7 @@
 [s][vp 8 0 0 0 65535 0][f 5 14]Vou observar[n]a situação. O fliperama fica na[n]Central Street, certo?[n][f 1 3 65535][w][e]
 
 [msg MSG_034_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]OK, vamos fazer[n]o que pudermos para ajudar.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ok, vamos fazer[n]o que pudermos para ajudar.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Não tenho ideia de qual é a faixa certa. Apenas[n]tente ir aos lugares mais suspeitos.[n][f 1 3 65535][w][e]
 
 [msg MSG_035_0_0 [Morador de rua]]
@@ -263,8 +263,8 @@
 [s][vp 8 0 0 0 65535 0][f 5 14]Ah, e estarei conversando com minhas[n]namoradas que frequentam Shibuya.[n][f 1 3 65535][w][e]
 
 [msg MSG_073_0_0 [Ryuji]]
-[s][vp 8 0 0 0 65535 0][f 5 14]OK. Prefiro não encontrar a polícia de novo,[n]então vou dar uma olhada na internet por[n]enquanto.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0][f 5 14]OK, vamos nos separar. Falaremos sobre isso[n]amanhã, se alguém[n]descobrir alguma coisa.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 5 14]Ok. Prefiro não encontrar a polícia de novo,[n]então vou dar uma olhada na internet por[n]enquanto.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 5 14]Ok, vamos nos separar. Falaremos sobre isso[n]amanhã, se alguém[n]descobrir alguma coisa.[n][f 1 3 65535][w][e]
 
 [msg MSG_074_0_0 [Yusuke]]
 [s][vp 8 0 0 0 65535 0][f 5 14]E onde poderíamos nos reunir?[n]Eu sugeriria um lugar[n]longe de olhares indiscretos.[n][f 1 3 65535][w][e]

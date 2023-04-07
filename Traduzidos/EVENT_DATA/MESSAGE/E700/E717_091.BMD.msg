@@ -113,7 +113,7 @@
 
 [msg MND_901_0_0]
 [s][vp 8 0 0 0 65535 0]Eu tenho que pesar as palavras[n]com cuidado...[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]Já estou [clr 2]noivo[n]de outra garota[clr 27]...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Já estou [clr 2]namorando[n]outra garota[clr 27]...[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Hifumi]]
 [s][bup 0 106 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O que você está tentando dizer?[n][f 1 3 65535][w][e]

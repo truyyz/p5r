@@ -12,7 +12,7 @@
 [sel SEL_E14110100_002_00 top]
 [s]Tão de repente?[e]
 [s]Sim.[e]
-[s]Interessado em tentar? OK.[e]
+[s]Interessado em tentar? Ok.[e]
 
 [msg MSG_E14110100_003_00 [Sojiro]]
 [s][f 4 23 1 816 3 10 0 0][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 816 0]Eu li sobre isso em uma revista.[n][w][e]

@@ -53,7 +53,7 @@
 [s][f 5 14]Nós apenas temos que confiar nela.[n][w][e]
 
 [msg MSG_017_0_0 [Ryuji]]
-[s][f 5 14]OK, encontre-me amanhã no Leblanc[n]por volta do meio-dia.[n][w][e]
+[s][f 5 14]Ok, encontre-me amanhã no Leblanc[n]por volta do meio-dia.[n][w][e]
 
 [msg MSG_018_0_0 [Yusuke]]
 [s][f 5 14][f 5 15]Parece o melhor plano[n]possível. Nós os vemos.[n][w][e]

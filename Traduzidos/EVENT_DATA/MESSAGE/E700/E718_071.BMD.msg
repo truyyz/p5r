@@ -1,6 +1,6 @@
 [msg MSG_000_0_0 [Sombra de Mishima]]
 [s][bup 0 111 105 0 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]O-Quem é você!?![n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você é... os Ladrões Fantasmas!?![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você é... os Phantom Thieves!?![n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Sombra de Mishima]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 111 1 300 1][vp 8 0 0 2 65535 0]Haha! Então você quer despertar[n]meu coração, mesmo depois de tudo[n]o que eu fiz por você!?![n][f 1 3 65535][w][e]

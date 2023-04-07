@@ -149,7 +149,7 @@
 [s]Experimente, vamos lá.[e]
 
 [msg MSG_068_0_0 [Futaba]]
-[s][bup 0 8 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 50 65535 0]Grrr... OK...[n][f 1 3 65535][w][e]
+[s][bup 0 8 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 50 65535 0]Grrr... Ok...[n][f 1 3 65535][w][e]
 
 [msg MSG_069_0_0 [Futaba]]
 [s][bup 0 8 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 51 65535 0]B-Bem, nesse caso...[n][f 1 3 65535][w][e]

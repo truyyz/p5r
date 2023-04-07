@@ -26,7 +26,7 @@
 
 [msg MSG_006_0_0 [Maruki]]
 [s][bup 0 216 603 0 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]O fim do meu Palácio...[n]todo o Metaverso...está próximo.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Parece que nenhum de nós pode[n]evocar mais sua Pessoa.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Parece que nenhum de nós pode[n]evocar mais sua Persona.[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Maruki]]
 [s][bup 0 216 602 0 0][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Vamos começar.[n][f 1 3 65535][w][e]

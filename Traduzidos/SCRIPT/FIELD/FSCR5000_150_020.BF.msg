@@ -117,10 +117,10 @@
 [msg D01_03_BF_01_mes12 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Provavelmente encontraremos algumas[n]informações sobre o Tesouro[n]à medida que exploramos.[n][w][e]
 [s]Ah, e pegue qualquer item[n]de valor que você vir. Poderíamos[n]ganhar alguma coisa vendendo-os.[n][w][e]
-[s]Afinal, é comum[n]ladrões fantasmas pegarem qualquer coisa[n]que possam colocar as mãos.[n][w][e]
+[s]Afinal, é comum[n]Phantom Thieves pegarem qualquer coisa[n]que possam colocar as mãos.[n][w][e]
 
 [msg D01_03_BF_01_mes13 [Ryuji]]
-[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]"Ladrões fantasmas", hein...[n][w][e]
+[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]"Phantom Thieves", hein...[n][w][e]
 
 [msg D01_03_BF_01_mes14 [Ryuji]]
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Bem, se isso ajuda[n]contra Kamoshida, eu sou a favor.[n][w][e]

@@ -88,7 +88,7 @@
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 109 7 301 1][vp 8 2 0 15040 65535 0]...Não é suficiente? Mas é o mesmo[n]número da semana passada! Eu...[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Kawakami]]
-[s][bup 0 109 603 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]N-Não... Sim, entendo.[n]OK, até breve...[n][f 1 3 65535][w][e]
+[s][bup 0 109 603 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]N-Não... Sim, entendo.[n]Ok, até breve...[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Kawakami]]
 [s][bup 0 109 600 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Uhhh...[n][f 1 3 65535][w][e]

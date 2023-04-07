@@ -153,7 +153,7 @@
 
 [msg MND_034_5_0]
 [s][vp 8 0 0 0 65535 0]Eu tenho que escolher as palavras[n]com cuidado...[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]Já estou [clr 2]noivo[n]de outra garota[clr 27]...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Já estou [clr 2]namorando[n]outra garota[clr 27]...[n][f 1 3 65535][w][e]
 
 [msg MSG_034_7_0 [Chihaya]]
 [s][bup 0 113 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 10135 65535 0][f 4 1]-san... Por que você está vindo até mim?[n][f 1 3 65535][w][e]

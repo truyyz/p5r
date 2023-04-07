@@ -375,7 +375,7 @@
 [s][vp 9 2 65535 40102 0 0]Ele deve ter pensado que logo[n]ele seria pego e que[n]confessar era a melhor coisa.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_005_02_ [Calouro animada]]
-[s][vp 9 2 65535 45105 0 0]Você realmente acha que ladrões[n]fantasmas existem?[n][f 1 2 180][e]
+[s][vp 9 2 65535 45105 0 0]Você realmente acha que Phantom[n]Thieves existem?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_005_03_ [Calouro animada]]
 [s]0[n][f 1 2 180][e]
@@ -585,10 +585,10 @@
 [s][vp 9 2 65535 39954 0 0]Se ela é filha do presidente[n]Okumura, ela deve ser bastante[n]cruel e implacável.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_020_01_ [Calouro animada]]
-[s][vp 9 2 65535 44706 0 0]Deixe isso para os Ladrões Fantasmas![n]Eles trarão à justiça[n]todo o mal deste mundo![n][f 1 2 180][e]
+[s][vp 9 2 65535 44706 0 0]Deixe isso para os Phantom Thieves![n]Eles trarão à justiça[n]todo o mal deste mundo![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_020_02_ [Calouro animada]]
-[s][vp 9 2 65535 42456 0 0]Nós vamos conseguir! Esses ladrões[n]fantasmas vão derrotar[n]todos os bandidos para nós![n][f 1 2 180][e]
+[s][vp 9 2 65535 42456 0 0]Nós vamos conseguir! Esses Phantom[n]Thieves vão derrotar[n]todos os bandidos para nós![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_020_03_ [Calouro animada]]
 [s]0[n][f 1 2 180][e]
@@ -660,13 +660,13 @@
 [s][vp 9 2 65535 40507 0 0]Deve ter sido os[n]Phantom Thieves que causaram todos[n]aqueles ataques...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_026_02_ [Calouro animada]]
-[s][vp 9 2 65535 42957 0 0]Quando eles vão pegar[n]aqueles ladrões fantasmas!?![n][f 1 2 180][e]
+[s][vp 9 2 65535 42957 0 0]Quando eles vão pegar[n]aqueles Phantom Thieves!?![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_026_03_ [Calouro animada]]
 [s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_026_04_ [Calouro animada]]
-[s][vp 9 2 65535 42907 0 0]Então esses arrebatamentos[n]aconteceram por causa dos[n]Ladrões Fantasmas, certo?[n][f 1 2 180][e]
+[s][vp 9 2 65535 42907 0 0]Então esses arrebatamentos[n]aconteceram por causa dos[n]Phantom Thieves, certo?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_027_01_ [Calouro animada]]
 [s][vp 9 2 65535 42302 0 0]Eu nunca pensei[n]que Shido-san poderia[n]ir tão longe...[n][f 1 2 180][e]

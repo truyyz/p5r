@@ -86,7 +86,7 @@
 [s][vp 8 0 0 28 9 0]Bem, se você estiver interessado entre em contato[n]comigo. Você pode me enviar uma mensagem quando[n]quiser, ficarei muito feliz.[n][f 1 3 65535][w][e]
 
 [msg MSG_026_5_0 [Ann]]
-[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 29 65535 0]Uuuh, OK...[n][f 1 3 65535][w][e]
+[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 29 65535 0]Uuuh, Ok...[n][f 1 3 65535][w][e]
 
 [msg MSG_027_0_0 [Ryuji]]
 [s][bup 0 2 11 65535 0][f 4 10 65535 0 0][vp 8 0 0 30 65535 0]Muito prazer um galo.[n]Seu objetivo é óbvio.[n][f 1 3 65535][w][e]
@@ -97,7 +97,7 @@
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 3 3 300 1][vp 8 0 0 33 65535 0]Quer se acalmar?!? Hoje[n]vocês devem se comportar[n]como bons alunos![n][f 1 3 65535][w][e]
 
 [msg MSG_029_0_0 [Kawakami]]
-[s][bup 0 109 502 65535 0][f 4 10 65535 0 0][vp 8 0 0 34 65535 0]Eu entendo que você está entediado, mas tente não[n]causar problemas. OK?[n][f 1 3 65535][w][e]
+[s][bup 0 109 502 65535 0][f 4 10 65535 0 0][vp 8 0 0 34 65535 0]Eu entendo que você está entediado, mas tente não[n]causar problemas. Ok?[n][f 1 3 65535][w][e]
 
 [msg MSG_031_0_0 [Diretor assistente dominador]]
 [s][vp 8 0 0 36 9 0]Então, eeehm...[n][f 1 3 65535][w][e]

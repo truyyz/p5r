@@ -90,7 +90,7 @@
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 3 11 300 1][vp 8 0 0 34 65535 0]Espera, você quer mesmo!?![n][f 1 3 65535][w][e]
 
 [msg MSG_025_0_0 [Ann]]
-[s][bup 0 4 103 65535 0][f 4 10 65535 0 0][vp 8 0 0 35 65535 0]Vai ser bom se você vier comigo,[n]OK? Me assusta ir lá sozinha...[n][f 1 3 65535][w][e]
+[s][bup 0 4 103 65535 0][f 4 10 65535 0 0][vp 8 0 0 35 65535 0]Vai ser bom se você vier comigo,[n]Ok? Me assusta ir lá sozinha...[n][f 1 3 65535][w][e]
 
 [msg MSG_029_0_0 [Ryuji]]
 [s][bup 0 2 101 65535 0][f 4 10 65535 0 0][vp 8 0 0 37 65535 0]Um artista famoso e renomado,[n]eh? Pode ser mais difícil[n]do que com Kamoshida.[n][f 1 3 65535][w][e]

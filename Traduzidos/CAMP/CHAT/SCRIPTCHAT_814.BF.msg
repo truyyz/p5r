@@ -11,7 +11,7 @@
 [s][f 5 14]Vamos conversar na minha casa.[e]
 
 [msg MSG_020_0_0 [Chihaya]]
-[s][f 5 14]Sério? OK, se você realmente insiste...[n][w][e]
+[s][f 5 14]Sério? Ok, se você realmente insiste...[n][w][e]
 
 [msg MSG_021_0_0 [Chihaya]]
 [s][f 5 14]Mal posso esperar[n]por amanhã.[n][f 5 15][w][e]

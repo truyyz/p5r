@@ -11,7 +11,7 @@
 [s][f 5 14]Obrigado por hoje. Vamos[n]aprender novas estratégias[n]da próxima vez.[n][w][e]
 
 [msg CHAT_REACTION_MSG [Hifumi]]
-[s][f 5 14]OK. Eu estou esperando você.[n][w][e]
+[s][f 5 14]Ok. Eu estou esperando você.[n][w][e]
 
 [msg MSG_MORUGANA [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Então, o que você acha? Você gostaria de[n]aceitar o convite de Hifumi?[n][f 1 3 65535][w][e]

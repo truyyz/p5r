@@ -65,7 +65,7 @@
 [s]Não foi tão ruim.[e]
 
 [msg MSG_033_0_0 [Ryuji]]
-[s][bup 0 2 12 65535 0][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]OK, vamos colocar desta forma...[n][f 1 3 65535][w][e]
+[s][bup 0 2 12 65535 0][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]Ok, vamos colocar desta forma...[n][f 1 3 65535][w][e]
 
 [msg MSG_034_0_0 [Ryuji]]
 [s][bup 0 2 12 65535 0][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Sim, nada mal...[n][f 1 3 65535][w][e]

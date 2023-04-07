@@ -14,7 +14,7 @@
 
 [sel SEL_004_0_0 top]
 [s]É claro.[e]
-[s]Obrigada.[e]
+[s]Obrigado.[e]
 
 [msg MSG_005_0_0 [Chihaya]]
 [s][bup 0 113 6 65535 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]É a mesma que eu uso...[n][f 1 3 65535][w][e]
@@ -69,7 +69,7 @@
 
 [msg MSG_020_0_0 [Chihaya]]
 [s][bup 0 113 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Heheheh... Bem, não vou mais insistir.[n][f 1 3 65535][w][e]
-[s][bup 0 113 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Mas há uma coisa em particular[n]pela qual gostaria de agradecer. Não como[n]Ladrão Fantasma, mas como pessoa.[n][f 1 3 65535][w][e]
+[s][bup 0 113 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Mas há uma coisa em particular[n]pela qual gostaria de agradecer. Não como[n]Phantom Thief, mas como pessoa.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]Obrigado por me ver como eu sou. Não como uma[n]sacerdotisa, ou um monstro...[n][f 1 3 65535][w][e]
 [s][bup 0 113 6 65535 0][f 4 10 65535 0 0][vp 8 0 0 26 65535 0]Mas por ver quem eu realmente sou... e me amar[n]mesmo assim.[n][f 1 3 65535][w][e]
 

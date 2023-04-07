@@ -38,10 +38,10 @@
 [msg MES_GROUP2_05 [Futaba]]
 [s][bup 0 8 4 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 9135 65535 0]Então, seu conselho é fingir até conseguir?[n][w][e]
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Um momento. Então, para socializar[n]devo aprender a agir[n]como outra pessoa?[n][w][e]
-[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 36 10 0 10]OK, é hora do teatro! Meu[n]primeiro papel será[n]uma loira explosiva![n][w][e]
+[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 36 10 0 10]Ok, é hora do teatro! Meu[n]primeiro papel será[n]uma loira explosiva![n][w][e]
 
 [msg MES_GROUP2_06 [Ann]]
-[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 36 10 0 10][vp 8 2 1 6048 65535 0]Oh, isso parece divertido! OK, então eu serei uma[n]atriz muito famosa de Hollywood![n][w][e]
+[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 36 10 0 10][vp 8 2 1 6048 65535 0]Oh, isso parece divertido! Ok, então eu serei uma[n]atriz muito famosa de Hollywood![n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]E o que ela será, Dra. Maruki?[n][w][e]
 
 [msg MES_GROUP2_07 [Maruki]]

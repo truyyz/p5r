@@ -17,7 +17,7 @@
 [s][f 5 14]Sei que não é o melhor momento,[n]mas é importante fazer[n]uma pausa de vez em quando.[n][f 5 15][w][e]
 
 [msg CHAT_REACTION_01 [Ann]]
-[s][f 5 14]OK! Vamos entrar nisso![n][w][e]
+[s][f 5 14]Ok! Vamos entrar nisso![n][w][e]
 
 [msg CHAT_REACTION_02 [Ann]]
 [s][f 5 14]Ele disse que a academia fica em um beco[n]atrás da Central Street.[n][w][e]

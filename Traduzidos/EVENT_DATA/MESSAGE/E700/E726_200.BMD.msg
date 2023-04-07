@@ -17,7 +17,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Em nossa realidade, Shido foi[n]preso graças aos[n]Phantom Thieves... Isso realmente aconteceu?[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Akechi]]
-[s][vp 8 0 0 7 65535 0]Vamos fazer um acordo... OK?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 7 65535 0]Vamos fazer um acordo... Ok?[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Akechi]]
 [s][vp 8 0 0 8 65535 0]Desperte o coração de Shido...[n][f 1 3 65535][w][e]

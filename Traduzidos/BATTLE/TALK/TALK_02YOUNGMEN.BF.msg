@@ -272,7 +272,7 @@
 [s]Como você pode ter certeza?[n]Você sabia exatamente que lugar era esse[n]quando chegou![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_05_R_9]
-[s]Matar um inimigo só porque ele te deixou com[n]raiva? Você parece mais um psicopata do que um[n]ladrão fantasma.[n][w][e]
+[s]Matar um inimigo só porque ele te deixou com[n]raiva? Você parece mais um psicopata do que um[n]Phantom Thief.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_05_R_10]
 [s]Como "não tem nada a ver com isso"?[n]Você terá ficha criminal.[n]E não encontrará trabalho![n][w][e]
@@ -1160,7 +1160,7 @@
 [s]Seu mentiroso.[e]
 
 [msg TalkMsg_GUY_CHAT_SQ_13_R]
-[s]OK, mas que dia é hoje?[n]Ah. Eles podem estar ocupados.[n][w][e]
+[s]Ok, mas que dia é hoje?[n]Ah. Eles podem estar ocupados.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_13_R_2]
 [s]Não, é improvável que isso aconteça,[n]porque... bem, é complicado.[n][w][e]

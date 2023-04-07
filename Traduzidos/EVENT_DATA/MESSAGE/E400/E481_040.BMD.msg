@@ -136,10 +136,10 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 47 65535 0]Você pode me encontrar na enfermaria... venha[n]quando lhe convier.[n][f 1 3 65535][w][e]
 
 [msg MSG_038_0_0 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 48 65535 0]OK, devemos ir.[n][f 1 3 65535][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 48 65535 0]Ok, devemos ir.[n][f 1 3 65535][w][e]
 
 [msg MSG_039_0_0 [Maruki]]
-[s][bup 0 216 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 49 65535 0]OK, vejo você.[n][f 1 3 65535][w][e]
+[s][bup 0 216 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 49 65535 0]Ok, vejo você.[n][f 1 3 65535][w][e]
 
 [msg MSG_040_0_0 [Maruki]]
 [s][bup 0 216 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 50 65535 0]Obrigado por considerar[n]meu serviço.[n][f 1 3 65535][w][e]

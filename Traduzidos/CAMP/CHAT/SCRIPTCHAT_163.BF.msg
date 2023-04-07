@@ -5,7 +5,7 @@
 [s][f 5 14]Estou surpresa que ela vá ao tribunal em[n]um momento como este...[n][w][e]
 
 [msg MSG_002_0_0 [Haru]]
-[s][f 5 14]Ela também deve estar ocupada com a[n]investigação dos Ladrões Fantasmas...[n][w][e]
+[s][f 5 14]Ela também deve estar ocupada com a[n]investigação dos Phantom Thieves...[n][w][e]
 
 [msg MSG_003_0_0 [Akechi]]
 [s][f 5 14]Bem, basicamente[n]ela é uma promotora.[n][w][e]

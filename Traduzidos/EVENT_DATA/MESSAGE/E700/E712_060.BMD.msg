@@ -101,7 +101,7 @@
 [s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 2 0 13020 65535 0][f 5 13 13 5 1004]Você ouviu?[n]Como eu disse.[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Kaoru]]
-[s][vp 8 0 0 0 65535 0]OK...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Ok...[n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Iwai]]
 [s][bup 0 104 2 0 0][f 4 10 65535 0 0][vp 8 2 0 13104 65535 0]...Cale a boca.[n][f 1 3 65535][w][e]
@@ -110,14 +110,14 @@
 [s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ouça... é só trabalho.[n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [Kaoru]]
-[s][vp 8 0 0 0 65535 0]OK...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Ok...[n][f 1 3 65535][w][e]
 
 [msg MSG_025_0_0 [Iwai]]
 [s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 2 0 13001 65535 0][f 5 13 13 10 1004]Ei, não é uma má ideia.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Peça o que quiser.[n]É por minha conta![n][f 1 3 65535][w][e]
 
 [msg MSG_026_0_0 [Kaoru]]
-[s][vp 8 0 0 0 65535 0]OK...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Ok...[n][f 1 3 65535][w][e]
 
 [msg MSG_027_0_0 [Iwai]]
 [s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]De qualquer forma, estou quase terminando[n]de investigar o negócio[n]sobre o qual conversamos.[n][f 1 3 65535][w][e]
@@ -137,7 +137,7 @@
 [s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Perigoso? Claro que não.[n][f 1 3 65535][w][e]
 
 [msg MSG_031_0_0 [Iwai]]
-[s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 2 0 13053 65535 0]OK, eu tenho que ir.[n][f 1 3 65535][w][e]
+[s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 2 0 13053 65535 0]Ok, eu tenho que ir.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Divirta-se às minhas custas,[n]Kaoru. Coma o quanto quiser.[n][f 1 3 65535][w][e]
 
 [msg MSG_032_0_0 [Kaoru]]

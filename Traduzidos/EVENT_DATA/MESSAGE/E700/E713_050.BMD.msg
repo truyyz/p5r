@@ -1,5 +1,5 @@
 [msg MSG_000_0_0 [Takemi]]
-[s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 2 0 14027 65535 0]...OK, chega por hoje.[n][f 1 3 65535][w][e]
+[s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 2 0 14027 65535 0]...Ok, chega por hoje.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Se você se sentir bem,[n]você pode ir para casa.[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Takemi]]
@@ -95,5 +95,5 @@
 [s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 59 5 100]...Oh, desculpe, eu te disse tudo[n]que eu queria falar.[n]Você pode ir para casa.[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Takemi]]
-[s][vp 8 2 0 14097 65535 0]OK, obrigado pelo esforço.[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 14097 65535 0]Ok, obrigado pelo esforço.[n][f 1 3 65535][w][e]
 

@@ -60,7 +60,7 @@
 [s][bup 0 7 1 6 0][f 4 10 65535 0 0][vp 8 0 0 24 22 0]...Aqui. Chocolate. Feito por mim.[n][f 1 3 65535][w][e]
 
 [sel SEL_018_0_0 top]
-[s]Obrigada.[e]
+[s]Obrigado.[e]
 [s]Vou comê-los sem exagerar.[e]
 [s]Cacau cultivado por você?[e]
 

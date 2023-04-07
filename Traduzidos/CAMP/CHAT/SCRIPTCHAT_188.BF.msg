@@ -8,7 +8,7 @@
 [s][f 5 14]...Por que o Palace desta vez[n]uma estação espacial?[n][w][e]
 
 [msg MSG_003_0_0 [Ryuji]]
-[s][f 5 14]Huh? Porque? Bem por que…[n][w][e]
+[s][f 5 14]Huh? Por quê? Bem por que…[n][w][e]
 
 [sel SEL_004_0_0 top]
 [s][f 5 14]Para o "Galaxy Burger".[e]

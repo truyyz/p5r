@@ -73,7 +73,7 @@
 
 [sel TalkSel_GUY_CHAT_FQ_02 top]
 [s]Exatamente.[e]
-[s]Porque? Não é assim?[e]
+[s]Por quê? Não é assim?[e]
 [s]É para auto-aperfeiçoamento.[e]
 
 [msg TalkMsg_GUY_CHAT_FQ_02_R]
@@ -110,13 +110,13 @@
 [s]Como isso pode ajudá-lo a melhorar a si mesmo?!?[n]Na escola você tem que ser verdadeiramente[n]terrível.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_02_R_12]
-[s]OK, você pode se autoaperfeiçoar[n]em sua casa ou onde quiser, sem[n]perturbar os outros? Obrigada.[n][w][e]
+[s]Ok, você pode se autoaperfeiçoar[n]em sua casa ou onde quiser, sem[n]perturbar os outros? Obrigada.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_02_R_13]
-[s]OK, OK, você é assustadoramente legal, sim.[n]Droga, acalme-se...[n][w][e]
+[s]Ok, Ok, você é assustadoramente legal, sim.[n]Droga, acalme-se...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_02_R_14]
-[s]OK, eu entendo que algumas garotas[n]podem até gostar dele, mas... quer dizer,[n]você sabe como é, não somos todos iguais.[n][w][e]
+[s]Ok, eu entendo que algumas garotas[n]podem até gostar dele, mas... quer dizer,[n]você sabe como é, não somos todos iguais.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_02_R_15]
 [s]Oh, não... Você está completamente[n]perdido em seu próprio mundinho.[n][w][e]
@@ -254,7 +254,7 @@
 [s]Odiar! Você realmente tem tanta autoconfiança?[n]Que divertido![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_05_R_3]
-[s]Ah, então você admite francamente?[n]OK, agora acho que entendo[n]que tipo de pessoa você é.[n][w][e]
+[s]Ah, então você admite francamente?[n]Ok, agora acho que entendo[n]que tipo de pessoa você é.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_05_R_4]
 [s]Antes de dizer que você deveria tirar essa[n]máscara! Caso contrário, como posso verificar o[n]que você diz?[n][w][e]
@@ -377,7 +377,7 @@
 [s]Você diz isso porque não consegue pensar em mais[n]nada, não é?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_07_R_6]
-[s]Entãoiiii... Basicamente, você[n]está dizendo que não pode[n]me avaliar?[n][w][e]
+[s]Entãoooo... Basicamente, você[n]está dizendo que não pode[n]me avaliar?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_07_R_7]
 [s]verdade!?! Meu potencial[n]é ilimitado![n][w][e]
@@ -467,7 +467,7 @@
 [s]Ouça, por que você não abaixa essa arma e tenta[n]colocar seu humor em palavras?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_01]
-[s]OK, entendi. Você seriamente não ia tentar, ia?[n][w][e]
+[s]Ok, entendi. Você seriamente não ia tentar, ia?[n][w][e]
 [s]Quando se tratava de ficar[n]sério, você não sabia o que fazer![n][w][e]
 
 [sel TalkSel_GUY_CHAT_SQ_01 top]
@@ -515,7 +515,7 @@
 [s]Você está tentando provar que estou errado?[n]É meio irritante...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_01_R_14]
-[s]OK, entendi! Talvez você seja alguém que[n]gosta de fazer as coisas[n]em seu próprio ritmo.[n][w][e]
+[s]Ok, entendi! Talvez você seja alguém que[n]gosta de fazer as coisas[n]em seu próprio ritmo.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_01_R_15]
 [s]Você é do tipo que insiste em[n]provar seu valor[n]quando se sente desvalorizado?[n][w][e]
@@ -605,7 +605,7 @@
 [s]Bom! Venha, vamos.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_03_R_6]
-[s]OK! Onde nós vamos?[n][w][e]
+[s]Ok! Onde nós vamos?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_03_R_7]
 [s]Ah, mas provavelmente temos[n]gostos diferentes, então talvez não.[n][w][e]
@@ -632,7 +632,7 @@
 [s]Oooh, toda essa fumaça[n]me lembra de um bom[n]churrasco de verão...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_03_R_15]
-[s]OK, então eu diria que podemos[n]pedir algo em casa...[n][w][e]
+[s]Ok, então eu diria que podemos[n]pedir algo em casa...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_03_R_16]
 [s]Se você não estava com fome, é só dizer![n][w][e]
@@ -797,7 +797,7 @@
 [s]Quando você diz isso apontando uma arma para mim,[n]me faz sentir como se você quisesse me[n]sequestrar...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_06_R_13]
-[s]OK, OK... Eu não vou dizer[n]nada disso novamente.[n][w][e]
+[s]Ok, Ok... Eu não vou dizer[n]nada disso novamente.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_06_R_14]
 [s]Ah! Se você me matar,[n]você vai fazer minha mãe chorar![n][w][e]
@@ -857,7 +857,7 @@
 [s]Que diabos?!?[n]Vencer não é o suficiente para você?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_07_R_14]
-[s]OK, você puxou o gatilho.[n]Satisfeito?[n][w][e]
+[s]Ok, você puxou o gatilho.[n]Satisfeito?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_07_R_15]
 [s]Ugh, olha, eu não posso ficar aqui o dia todo.[n][w][e]
@@ -1091,7 +1091,7 @@
 [s]Você tem medo de não saber por que luta?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_11_R_16]
-[s]OK, eu vou com você.[n][w][e]
+[s]Ok, eu vou com você.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_12]
 [s]Oh sim, eu não tomei banho ontem.[n][w][e]
@@ -1277,7 +1277,7 @@
 [s]Eu não saberia. Há muitos[n]adultos que agem como[n]pequenos punks quando bebem.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_15_R_2]
-[s]OK, mas o que faz de você um adulto?!?[n][w][e]
+[s]Ok, mas o que faz de você um adulto?!?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_15_R_3]
 [s]Então, basicamente,[n]você não tem uma resposta.[n][w][e]
@@ -1343,7 +1343,7 @@
 [s]Você está certo demais. Eu deveria ficar ocupado.[n]Não posso ficar aqui esperando pelo homem dos[n]meus sonhos.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_16_R_5]
-[s]Hã? Hum... OK. E você?[n]Você não tem outras coisas para fazer?[n][w][e]
+[s]Hã? Hum... Ok. E você?[n]Você não tem outras coisas para fazer?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_16_R_6]
 [s]Oh, melhor não.[n]É deprimente sentar aqui esperando por[n]um homem que nunca vem.[n][w][e]
@@ -1465,13 +1465,13 @@
 [s]Você já tem [clr 1][var 2][clr 27]![n][w][e]
 
 [msg TalkMsg_GUY_RESULT_GET_P_3]
-[s]Não fale sobre isso! Você está muito fraco![n]Vá treinar OK? Enquanto isso, pegue[n]isto: [f 2 5 3 9999 1].[n][w][e]
+[s]Não fale sobre isso! Você está muito fraco![n]Vá treinar Ok? Enquanto isso, pegue[n]isto: [f 2 5 3 9999 1].[n][w][e]
 
 [msg TalkMsg_GUY_RESULT_GET_M]
-[s]OK, aqui está [var 0] ienes.[n]Satisfeito, agora?[n][w][e]
+[s]Ok, aqui está [var 0] ienes.[n]Satisfeito, agora?[n][w][e]
 
 [msg TalkMsg_GUY_RESULT_GET_I]
-[s]OK, pegue isso:[n][f 2 5 3 9999 1].[n]Chega, não é?[n][w][e]
+[s]Ok, pegue isso:[n][f 2 5 3 9999 1].[n]Chega, não é?[n][w][e]
 
 [msg TalkMsg_GUY_RESULT_GET_S]
 [s]Será o nosso segredinho![n]Não é ótimo?[n][w][e]
@@ -1504,10 +1504,10 @@
 
 [msg TalkMsg_GUY_RESULT_ENEMY_9]
 [s]Hã? E o que você quer?!? Não sei por que,[n]mas estou furioso![n][w][e]
-[s]Hum, isso foi rude da minha parte,[n]desculpe. OK, eu estou ouvindo você.[n][w][e]
+[s]Hum, isso foi rude da minha parte,[n]desculpe. Ok, eu estou ouvindo você.[n][w][e]
 
 [msg TalkMsg_RESULT_GET_SECRE]
-[s]Coisa? Você já sabia? Uau, parece que[n]você tem suas fontes![n]OK, vou te dar isso então.[n][w][e]
+[s]Coisa? Você já sabia? Uau, parece que[n]você tem suas fontes![n]Ok, vou te dar isso então.[n][w][e]
 
 [msg TalkMsg_SURRENDER_FROM_C]
 [s]É incrível, encontrei[n]alguém que não posso vencer.[n][w][e]
@@ -1613,7 +1613,7 @@
 [s]Oh, você queria algum dinheiro? Bem,[n]espero que isso seja o suficiente.[n][w][e]
 
 [msg TalkMsg_NEGO_POSSESSING__2]
-[s]Você queria um presente, hein?[n]OK, o que você acha disso?[n][w][e]
+[s]Você queria um presente, hein?[n]Ok, o que você acha disso?[n][w][e]
 
 [msg TalkMsg_GREET_POSSESSED]
 [s]Oh, quanto tempo não nos vemos...[n]Quanto tempo se passou[n]desde a nossa separação?[n][w][e]
@@ -1948,7 +1948,7 @@
 [s]Sinto muito! Por favor, não me mate![n][w][e]
 
 [msg TalkMsg_ACCEPT_ALERT_DOW]
-[s]OK, direi a todos[n]que está tudo bem.[n][w][e]
+[s]Ok, direi a todos[n]que está tudo bem.[n][w][e]
 
 [msg TalkMsg_NO_REQUIREMENT]
 [s]Espere, quero dizer, você está me dizendo que...[n]você não tem?!?[n][w][e]
@@ -2032,7 +2032,7 @@
 [s]O que é aquela coisa brilhante?[n]O que é, o que é?[n][w][e]
 
 [msg TalkMsg_RESULT_HACKING]
-[s]Cara, você me acertou direto no coração. OK,[n]então deixe-me dar-lhe algo realmente especial.[n][w][e]
+[s]Cara, você me acertou direto no coração. Ok,[n]então deixe-me dar-lhe algo realmente especial.[n][w][e]
 
 [msg TalkMsg_SKIMMING_BRAINWA]
 [s]Ah Merda! Olha o que você achou![n][w][e]
@@ -2044,13 +2044,13 @@
 [s]Você acha que pode[n]enganar-me assim?!?[n]Não me subestime![n][w][e]
 
 [msg TalkMsg_CHARM_TECH_PERSO]
-[s]Vamos lá, muito engraçado![n]OK pessoal, quero fazer[n]amigo com vocês![n][w][e]
+[s]Vamos lá, muito engraçado![n]Ok pessoal, quero fazer[n]amigo com vocês![n][w][e]
 
 [msg TalkMsg_BONUS_CARD]
 [s]Então você vai me perdoar se eu te der essa[n]coisa? Aqui, querida.[n][w][e]
 
 [msg TalkMsg_DONATION]
-[s]Hã? Você só quer algum dinheiro? OK![n][w][e]
+[s]Hã? Você só quer algum dinheiro? Ok![n][w][e]
 
 [msg TalkMsg_UNTALKABLE]
 [s]N-Nãooo![n][w][e]

@@ -172,7 +172,7 @@
 
 [msg MSG_FAMIRES_NOTOPEN_MORU_2 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]"Bikkuri Boy abrindo logo[n]pós-renovação" . Que nome estranho[n]para um restaurante.[n][w][e]
-[s][f 4 10 65535 0 0]Abre [clr 2]no dia 6 deste mês[clr 27].[n]OK, vamos voltar.[n][w][e]
+[s][f 4 10 65535 0 0]Abre [clr 2]no dia 6 deste mês[clr 27].[n]Ok, vamos voltar.[n][w][e]
 
 [msg MSG_Famires_Start_1st [Morgana]]
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 1167 65535 0]Ei, este[n]restaurante familiar foi reformado[n]e abrirá em breve![n][w][e]
@@ -511,7 +511,7 @@
 
 [msg MSG_BEEFDON_KF_R [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 7024 65535 0]Eu amo gengibre vermelho! ...Eu[n]fico com fome só de falar sobre isso.[n][w][e]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]OK, na próxima vez. Por[n]hoje é melhor ir.[n][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ok, na próxima vez. Por[n]hoje é melhor ir.[n][w][e]
 
 [msg MSG_BEEFDON_KF_0504 [Morgana]]
 [s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 1 1178 65535 0]Está com fome? Vamos[n]trocar a medalha.[n][w][e]

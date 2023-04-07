@@ -388,7 +388,7 @@
 [s][bup 0 305 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]A soma dos ângulos de "a" a "e"[n]é igual à soma dos ângulos internos[n]de um triângulo: 180 graus.[n][f 1 3 65535][w][e]
 
 [msg MSG_098_0_0 [Prof. Usami]]
-[s][bup 0 305 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]De qualquer forma, há rumores de que foram os[n]Ladrões Fantasmas que capturaram o culpado,[n]Kaneshiro.[n][f 1 3 65535][w][e]
+[s][bup 0 305 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]De qualquer forma, há rumores de que foram os[n]Phantom Thieves que capturaram o culpado,[n]Kaneshiro.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Lembro-me do nome deles no caso[n]Madarame, bem como no incidente de maio.[n]Isso é uma lenda urbana?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]De qualquer forma, certifique-se de se preparar[n]para os testes na quarta-feira e não[n]se distraia com certos rumores.[n][f 1 3 65535][w][e]
 
@@ -570,7 +570,7 @@
 
 [msg MSG_140_0_0 [Prof. Usami]]
 [s][bup 0 305 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37264 65535 0]Falando em mídia incômoda,[n]estamos recebendo muitas[n]chamadas para a sala dos professores.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]O absurdo é que eles nos perguntam "Quem[n]são esses Ladrões Fantasmas?".[n]Nós também gostaríamos de entender.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]O absurdo é que eles nos perguntam "Quem[n]são esses Phantom Thieves?".[n]Nós também gostaríamos de entender.[n][f 1 3 65535][w][e]
 
 [msg MSG_141_0_0 [Prof. Usami]]
 [s][bup 0 305 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não temos ideia dos[n]métodos usando...[n][f 1 3 65535][w][e]
@@ -601,7 +601,7 @@
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Em um 5x5 existem[n]até 200 milhões.[n]Dá para acreditar?[n][f 1 3 65535][w][e]
 
 [msg MSG_148_0_0 [Prof. Usami]]
-[s][bup 0 305 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você prefere tentar encontrar[n]os Ladrões Fantasmas ou resolver 200[n]milhões de quadrados mágicos?[n][f 1 3 65535][w][e]
+[s][bup 0 305 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você prefere tentar encontrar[n]os Phantom Thieves ou resolver 200[n]milhões de quadrados mágicos?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Eu iria para quadrados mágicos, mãos para baixo.[n]Ambos são mágicos, mas quadrados podem ser[n]resolvidos.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]E matemática não mata ninguém.[n][f 1 3 65535][w][e]
 
@@ -1177,7 +1177,7 @@
 [s][bup 0 305 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]A soma dos ângulos internos[n]de um triângulo sempre será igual[n]a 180 graus, quando ele é plano.[n][f 1 3 65535][w][e]
 
 [msg MSG_288_0_0 [Prof. Usami]]
-[s][bup 0 305 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]De qualquer forma, há rumores de que foram os[n]Ladrões Fantasmas que capturaram o culpado,[n]Kaneshiro.[n][f 1 3 65535][w][e]
+[s][bup 0 305 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]De qualquer forma, há rumores de que foram os[n]Phantom Thieves que capturaram o culpado,[n]Kaneshiro.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Lembro-me do nome deles no caso[n]Madarame, bem como no incidente de maio.[n]Isso é uma lenda urbana?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]De qualquer forma, certifique-se de se preparar[n]para os testes na quarta-feira e não[n]se distraia com certos rumores.[n][f 1 3 65535][w][e]
 
@@ -1414,7 +1414,7 @@
 
 [msg MSG_340_0_0 [Prof. Usami]]
 [s][bup 0 305 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37264 65535 0]Falando em mídia incômoda,[n]estamos recebendo muitas[n]chamadas para a sala dos professores.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]O absurdo é que eles nos perguntam "Quem[n]são esses Ladrões Fantasmas?".[n]Nós também gostaríamos de entender.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]O absurdo é que eles nos perguntam "Quem[n]são esses Phantom Thieves?".[n]Nós também gostaríamos de entender.[n][f 1 3 65535][w][e]
 
 [msg MSG_341_0_0 [Prof. Usami]]
 [s][bup 0 305 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não temos ideia dos[n]métodos usando...[n][f 1 3 65535][w][e]
@@ -1446,7 +1446,7 @@
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Em um 5x5 existem[n]até 200 milhões.[n]Dá para acreditar?[n][f 1 3 65535][w][e]
 
 [msg MSG_348_0_0 [Prof. Usami]]
-[s][bup 0 305 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você prefere tentar encontrar[n]os Ladrões Fantasmas ou resolver 200[n]milhões de quadrados mágicos?[n][f 1 3 65535][w][e]
+[s][bup 0 305 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você prefere tentar encontrar[n]os Phantom Thieves ou resolver 200[n]milhões de quadrados mágicos?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Eu iria para quadrados mágicos, mãos para baixo.[n]Ambos são mágicos, mas quadrados podem ser[n]resolvidos.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]E matemática não mata ninguém.[n][f 1 3 65535][w][e]
 

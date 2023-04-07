@@ -14,7 +14,7 @@
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Eh, de jeito nenhum vamos fugir[n]agora.[n][f 1 3 65535][w][e]
 
 [msg MSG_004_5_0 [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Vamos enfrentar o Doc no Palácio,[n]endireitar as coisas e[n]voltar à nossa realidade... OK, [f 4 2]?[n][f 1 3 65535][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Vamos enfrentar o Doc no Palácio,[n]endireitar as coisas e[n]voltar à nossa realidade... Ok, [f 4 2]?[n][f 1 3 65535][w][e]
 
 [sel SEL_005_0_0 top]
 [s]Vamos entrar nisso.[e]

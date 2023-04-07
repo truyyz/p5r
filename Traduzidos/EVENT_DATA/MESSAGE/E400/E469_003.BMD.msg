@@ -1,5 +1,5 @@
 [msg MSG_019_0_0 [Mishima]]
-[s][vp 8 0 0 1 65535 0]Esmague, Ladrões Fantasmas![n][f 1 2 50][e]
+[s][vp 8 0 0 1 65535 0]Esmague, Phantom Thieves![n][f 1 2 50][e]
 
 [msg MSG_020_0_0 [Mishima]]
 [s][vp 1 0 0 2 0 0]Resumindo, por que você acha que eles arriscaram[n]suas vidas tantas vezes?!?[n][f 1 2 115][e]

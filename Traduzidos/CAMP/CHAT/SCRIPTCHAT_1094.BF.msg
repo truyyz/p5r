@@ -8,10 +8,10 @@
 [s][f 5 14]não posso fazer nada...[n][w][e]
 
 [msg MSG_001_1_1 [Ann]]
-[s][f 5 14]Estou fazendo compras no[n]shopping subterrâneo de Shibuya[n]agora.[n][w][e]
+[s][f 5 14]Estou fazendo compras no[n]Shopping Subterrâneo de Shibuya[n]agora.[n][w][e]
 
 [msg MSG_001_2_0 [Ann]]
-[s][f 5 14]Estou no shopping subterrâneo de[n]Shibuya.[n][w][e]
+[s][f 5 14]Estou no Shopping Subterrâneo de[n]Shibuya.[n][w][e]
 
 [msg MSG_001_0_SUMMER_0 [Ann]]
 [s][f 5 14]Não estamos aqui hoje? Estou no[n]shopping underground[n]de Shibuya agora.[n][w][e]
@@ -52,5 +52,5 @@
 [s][f 5 14]Estou vindo.[e]
 
 [msg MSG_REACTION [Ann]]
-[s][f 5 14]Ah com certeza. OK.[n][f 5 15][w][e]
+[s][f 5 14]Ah com certeza. Ok.[n][f 5 15][w][e]
 

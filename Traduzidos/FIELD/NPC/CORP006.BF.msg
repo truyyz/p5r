@@ -36,7 +36,7 @@
 [s]Eu ainda não decidi.[e]
 
 [msg MSG_C06_ACTION_D01_00_00 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 23 1 226 14 10 13 10][f 4 23 1 206 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 6034 65535 0]OK. Vejo você no telhado.[n][w][e]
+[s][bup 0 4 0 65535 0][f 4 23 1 226 14 10 13 10][f 4 23 1 206 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 6034 65535 0]Ok. Vejo você no telhado.[n][w][e]
 
 [msg MSG_C06_ACTION_D01_31_00 [Ann]]
 [s][bup 0 4 3 65535 0][f 4 23 1 226 14 10 13 10][f 4 23 1 206 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 6194 65535 0]Você precisa se preparar primeiro?[n][w][e]
@@ -138,7 +138,7 @@
 [s][bup 0 4 0 65535 0][f 4 23 1 226 14 10 13 10][f 4 23 1 206 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Se você tem tanta certeza, evidentemente[n]não se preocupe...[n][w][e]
 
 [msg MSG_C06_ACTION_D00_31_12 [Ann]]
-[s][bup 0 4 3 65535 0][f 4 23 1 226 14 10 13 10][f 4 23 1 206 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 6028 65535 0]OK...deixe-me saber o que você decidiu fazer.[n][w][e]
+[s][bup 0 4 3 65535 0][f 4 23 1 226 14 10 13 10][f 4 23 1 206 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 6028 65535 0]Ok...deixe-me saber o que você decidiu fazer.[n][w][e]
 
 [msg MSG_C06_BEGIN_D00_40_00 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 23 1 226 14 10 13 10][f 4 23 1 206 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 6155 65535 0]Você se lembra do prazo?[n]Vamos entrar hoje, certo?[n][w][e]
@@ -151,7 +151,7 @@
 [s]Eu ainda não decidi.[e]
 
 [msg MSG_C06_ACTION_D00_99_00 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 23 1 226 14 10 13 10][f 4 23 1 206 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 6034 65535 0]OK. Nos vemos no lugar de sempre.[n][w][e]
+[s][bup 0 4 0 65535 0][f 4 23 1 226 14 10 13 10][f 4 23 1 206 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 6034 65535 0]Ok. Nos vemos no lugar de sempre.[n][w][e]
 
 [msg MSG_C06_ACTION_D00_31_00 [Ann]]
 [s][bup 0 4 2 65535 0][f 4 23 1 226 14 10 13 10][f 4 23 1 206 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 6129 65535 0]Devemos pelo menos nos concentrar[n]em encontrar o tesouro, certo?[n][w][e]
@@ -223,7 +223,7 @@
 [s]Eu ainda não decidi.[e]
 
 [msg MSG_C06_ACTION_D07_99_00 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 23 1 226 14 10 13 10][f 4 23 1 206 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 6034 65535 0]OK. Nos vemos no lugar de sempre.[n][w][e]
+[s][bup 0 4 0 65535 0][f 4 23 1 226 14 10 13 10][f 4 23 1 206 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 6034 65535 0]Ok. Nos vemos no lugar de sempre.[n][w][e]
 
 [msg MSG_C06_ACTION_D07_31_00 [Ann]]
 [s][bup 0 4 2 65535 0][f 4 23 1 226 14 10 13 10][f 4 23 1 206 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 6129 65535 0]Devemos pelo menos nos concentrar[n]em encontrar o tesouro, certo?[n][w][e]
@@ -272,7 +272,7 @@
 [s][bup 0 4 3 65535 0][f 4 23 1 226 14 10 13 10][f 4 23 1 206 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 6028 65535 0]Avise-me quando estiver livre.[n]Temos que parar o Dr. Maruki![n][w][e]
 
 [msg MSG_C06_BEGIN_D10_10_04 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 23 1 226 14 10 13 10][f 4 23 1 206 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 6034 65535 0]OK! Vejo você no lugar de sempre.[n]Vou contar aos outros.[n][w][e]
+[s][bup 0 4 0 65535 0][f 4 23 1 226 14 10 13 10][f 4 23 1 206 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 6034 65535 0]Ok! Vejo você no lugar de sempre.[n]Vou contar aos outros.[n][w][e]
 
 [msg MSG_C06_BEGIN_D10_20_00 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 23 1 226 14 10 13 10][f 4 23 1 206 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 6019 65535 0]Não estamos chegando perto do prazo do[n]dr. Maruki?[n][w][e]
@@ -397,7 +397,7 @@
 [s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 6030 65535 0]É uma ótima ideia.[n]Eu gostaria de ir imediatamente,[n]se você tiver tempo.[n][w][e]
 
 [msg MSG_C06_COOP_02_06 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 23 1 226 14 10 13 10][f 4 23 1 206 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 6063 65535 0]Procure-me quando estiver livre, OK?[n][w][e]
+[s][bup 0 4 0 65535 0][f 4 23 1 226 14 10 13 10][f 4 23 1 206 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 6063 65535 0]Procure-me quando estiver livre, Ok?[n][w][e]
 
 [msg MSG_C06_COOP_02_07 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 23 1 226 14 10 13 10][f 4 23 1 206 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 6155 65535 0]Você obteve as [clr 4]roupas normais[clr 27],[n]os [clr 4]uniformes escolares[clr 27] e[n][clr 4]roupas confortáveis[clr 27].[n][w][e]
@@ -466,7 +466,7 @@
 [s]Recusar[e]
 
 [msg MSG_C06_YES_01_00 [Ann]]
-[s][bup 0 4 1 65535 0][f 4 23 1 226 14 10 13 10][f 4 23 1 206 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 6060 65535 0]OK, vamos para o jantar.[n][w][e]
+[s][bup 0 4 1 65535 0][f 4 23 1 226 14 10 13 10][f 4 23 1 206 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 6060 65535 0]Ok, vamos para o jantar.[n][w][e]
 
 [msg MSG_C06_YES_02_00 [Ann]]
 [s][bup 0 4 1 65535 0][f 4 23 1 226 14 10 13 10][f 4 23 1 206 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 6045 65535 0]Bom, vamos.[n][w][e]
@@ -488,7 +488,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Vamos comer crepes![n]Com cobertura extra![n][w][e]
 
 [msg MSG_C06_YES_07_00 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 23 1 226 14 10 13 10][f 4 23 1 206 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 6061 65535 0]OK, vamos ficar suados! A academia também fica[n]próxima.[n][w][e]
+[s][bup 0 4 0 65535 0][f 4 23 1 226 14 10 13 10][f 4 23 1 206 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 6061 65535 0]Ok, vamos ficar suados! A academia também fica[n]próxima.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Também estou ligando para Ryuji agora.[n][w][e]
 
 [msg MSG_C06_YES_08_00 [Ann]]
@@ -525,7 +525,7 @@
 [s]Vamos beber um chá.[e]
 
 [msg MSG_C06_SPOT_00_10 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 23 1 226 14 10 13 10][f 4 23 1 206 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 6108 65535 0]OK! Onde nós vamos?[n][w][e]
+[s][bup 0 4 0 65535 0][f 4 23 1 226 14 10 13 10][f 4 23 1 206 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 6108 65535 0]Ok! Onde nós vamos?[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Um lugar que todos[n]gostem seria o ideal![n][w][e]
 
 [msg MSG_C06_MYROOM_00_00 [Ann]]
@@ -543,7 +543,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Mmm, quando estou com você, pareço falar mais.[n]Como se você quisesse que eu te conhecesse[n]melhor...[n][w][e]
 
 [msg MSG_C06_COOP_CANCEL_00 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 23 1 226 14 10 13 10][f 4 23 1 206 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 6063 65535 0]Oh, OK. Talvez outra hora.[n][w][e]
+[s][bup 0 4 0 65535 0][f 4 23 1 226 14 10 13 10][f 4 23 1 206 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 6063 65535 0]Oh, Ok. Talvez outra hora.[n][w][e]
 
 [msg MSG_0621_ANN_AND_MAKOTO_ [Ann]]
 [s][bup 0 4 1 65535 0][f 4 10 65535 0 0][f 4 23 1 206 3 10 0 10][vp 8 2 1 0 65535 0]Oh. Olá, [f 4 2]![n][w][e]
@@ -557,22 +557,22 @@
 [s]Eu ainda não decidi.[e]
 
 [msg MSG_0621_ANN_AND_MAKOTO__3 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][f 4 23 1 202 3 10 0 10][vp 8 2 1 0 65535 0]OK.[n][w][e]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][f 4 23 1 202 3 10 0 10][vp 8 2 1 0 65535 0]Ok.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Oh, um[n]membro do conselho estudantil me ligou.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 202 3 10 0 10]Irei à reunião assim que[n]o chamar. Desculpe, Ann, você pode ir sem mim?[n][w][e]
 
 [msg MSG_0621_ANN_AND_MAKOTO__4 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]OK.[n][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ok.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 206 3 10 0 10]Oh, eu vou ao banheiro,[n]então você e Mona podem ir[n]primeiro![n][w][e]
 
 [msg MSG_0621_ANN_AND_MAKOTO__5 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][f 4 23 1 202 3 10 0 10][vp 8 2 1 0 65535 0]OK. Vamos embora, Anne?[n][w][e]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][f 4 23 1 202 3 10 0 10][vp 8 2 1 0 65535 0]Ok. Vamos embora, Anne?[n][w][e]
 
 [msg MSG_0621_ANN_AND_MAKOTO__6 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Hum![n][w][e]
 
 [msg MSG_0621_ANN_AND_MAKOTO__7 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 23 1 206 3 10 0 10][vp 8 2 1 0 65535 0]OK, hoje vou passar algum tempo com[n]Makoto, então se nos encontrarmos,[n]podemos ir juntos! Direita?[n][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 23 1 206 3 10 0 10][vp 8 2 1 0 65535 0]Ok, hoje vou passar algum tempo com[n]Makoto, então se nos encontrarmos,[n]podemos ir juntos! Direita?[n][w][e]
 
 [msg MSG_0621_ANN_AND_MAKOTO__8 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][f 4 23 1 202 3 10 0 10][vp 8 2 1 0 65535 0]Hum. Por favor, deixe-nos saber quando você[n]decidir entrar no Palácio.[n][w][e]
@@ -783,7 +783,7 @@
 
 [msg MSG_C06_BYEGREET_00_02_5 [Ann]]
 [s][bup 0 4 1 65535 0][f 4 23 1 226 14 10 13 10][f 4 23 1 206 3 10 0 10][f 4 10 65535 0 0][vp 8 0 1 43 65535 0]Estou contando com isso, hein![n][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 1 44 65535 0]Sempre mantenha seu telefone carregado,[n]OK? Nós vamos conversar muito.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 1 44 65535 0]Sempre mantenha seu telefone carregado,[n]Ok? Nós vamos conversar muito.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 45 65535 0]Especialmente devido à distância.[n]Ouvir sua voz vai me ajudar[n]a sentir melhor.[n][w][e]
 
 [msg MSG_C06_BYEGREET_00_03_5 [Ann]]
@@ -793,7 +793,7 @@
 [msg MSG_C06_BYEGREET_00_04_5 [Ann]]
 [s][bup 0 4 4 65535 0][f 4 23 1 226 14 10 13 10][f 4 23 1 206 3 10 0 10][f 4 10 65535 0 0][vp 8 0 1 48 65535 0]O quê... mas será do outro lado do[n]mundo! E certamente terá o seu[n]negócio para tratar![n][w][e]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 1 49 65535 0]Por outro lado, não é algo[n]que nunca te parou...[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 1 50 65535 0]OK então... Vou esperar por você.[n]Passe a qualquer hora.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 1 50 65535 0]Ok então... Vou esperar por você.[n]Passe a qualquer hora.[n][w][e]
 
 [msg MSG_C06_BYEGREET_00_05_5 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 23 1 226 14 10 13 10][f 4 23 1 206 3 10 0 10][f 4 10 65535 0 0][vp 8 0 1 51 65535 0]A propósito, outro dia[n]em Shibuya, fui parado[n]por uma garotinha.[n][w][e]

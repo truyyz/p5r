@@ -17,7 +17,7 @@
 
 [msg MSG_005_0_0 [Cavalheiro de meia idade]]
 [s][vp 8 0 0 0 5 0]Ele tomou um caminho arriscado,[n]mas tenho certeza que ele seguiu[n]todos os protocolos de segurança.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 5 0]Considere a oferta[n]sobre a qual conversamos, ok...?[n]OK, ligo para você mais tarde.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 5 0]Considere a oferta[n]sobre a qual conversamos, ok...?[n]Ok, ligo para você mais tarde.[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Takemi]]
 [s][bup 0 108 500 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ele é o médico seguinte[n]Miwa-chan.[n][f 1 3 65535][w][e]
@@ -33,7 +33,7 @@
 [s][f 0 8 2 1 2217]Foi difícil.[clr 27][e]
 
 [msg MSG_009_0_0 [Takemi]]
-[s][bup 0 108 501 65535 0][f 4 10 65535 0 0][vp 8 2 0 14045 65535 0][f 5 13 14 5 1008]OK.[n][f 1 3 65535][w][e]
+[s][bup 0 108 501 65535 0][f 4 10 65535 0 0][vp 8 2 0 14045 65535 0][f 5 13 14 5 1008]Ok.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu não vou.[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Takemi]]
@@ -96,7 +96,7 @@
 
 [msg MND_202_0_0]
 [s][vp 8 0 0 0 65535 0]Eu tenho que escolher as palavras[n]com cuidado...[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]Já estou [clr 2]noivo[n]de outra garota[clr 27]...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Já estou [clr 2]namorando[n]outra garota[clr 27]...[n][f 1 3 65535][w][e]
 
 [msg MSG_022_5_0 [Takemi]]
 [s][bup 0 108 500 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Por que você não me conta a verdade[n]por que continua[n]vindo a mim?[n][f 1 3 65535][w][e]
@@ -140,7 +140,7 @@
 
 [msg MSG_030_0_0 [Takemi]]
 [s][bup 0 108 506 65535 0][f 4 10 65535 0 0][vp 8 2 0 14087 65535 0]Não tenho ideia de como[n]lidar com um menor.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E-Enfim... vamos conversar[n]depois... OK?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E-Enfim... vamos conversar[n]depois... Ok?[n][f 1 3 65535][w][e]
 
 [msg MND_099_0_0]
 [s][vp 8 0 0 0 65535 0]Construí uma[n]relação especial com Takemi...[n][f 1 3 65535][w][e]

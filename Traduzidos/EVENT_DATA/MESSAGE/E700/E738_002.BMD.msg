@@ -27,5 +27,5 @@
 [s]D.[f 2 7 0 0 25 1][e]
 
 [msg MSG_008_0_0 [Prof Kawakami]]
-[s][vp 8 2 0 15132 65535 0]Tempo esgotado. OK, é só escrever.[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 15132 65535 0]Tempo esgotado. Ok, é só escrever.[n][f 1 3 65535][w][e]
 

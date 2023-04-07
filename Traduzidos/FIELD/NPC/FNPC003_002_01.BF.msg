@@ -76,7 +76,7 @@
 [s][bup 0 8 3 65535 0][f 4 10 65535 0 0][vp 8 0 1 14 65535 0]O quê? Mas isso não é engraçado.[n][w][e]
 
 [msg MSG_FUTABA_1121_003_01 [Morgana]]
-[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 0 1 15 65535 0][f 4 2]está cansado. Você pode[n]dizer a ele mais uma vez, OK?[n][w][e]
+[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 0 1 15 65535 0][f 4 2]está cansado. Você pode[n]dizer a ele mais uma vez, Ok?[n][w][e]
 
 [msg MSG_FUTABA_1121_100_00 [Futaba]]
 [s][f 4 23 1 65535 4 0 0 0][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 1 16 65535 0]Talvez pudesse parecer o contrário,[n]mas todos os outros[n]arriscaram suas vidas também.[n][w][e]
@@ -181,5 +181,5 @@
 [msg MSG_MORUGANA_1121_102_00 [Morgana]]
 [s][f 4 23 1 65535 6 0 5 0][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 1 1032 65535 0]Akechi estava no seu encalço.[n]Eu sabia que era arriscado,[n]mas só podíamos contar com ele.[n][w][e]
 [s][f 4 10 65535 0 0]Graças à sua tenacidade, você[n]conseguiu enganá-lo.[n][w][e]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0]É hora de vingança. Deixe-o[n]arrepender-se de ter subestimado[n]os Ladrões Fantasmas![n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0]É hora de vingança. Deixe-o[n]arrepender-se de ter subestimado[n]os Phantom Thieves![n][w][e]
 

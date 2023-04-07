@@ -86,7 +86,7 @@
 [s]Devo comprar...?[n][w][e]
 
 [sel SEL_TV_SHOPPING_BUY top]
-[s]OK.[e]
+[s]Ok.[e]
 [s]Eu não preciso.[e]
 
 [msg TV_SHOPPING_BUY_00 [Apresentador]]

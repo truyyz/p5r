@@ -17,5 +17,5 @@
 [s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Estamos procurando o painel vermelho[n]e verde.[n]Vamos procurar em outro lugar.[n][w][e]
 
 [msg D157_009_miniEV_07_mes03 [Ryuji]]
-[s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]OK, vamos continuar procurando![n]Não se preocupe, vamos encontrá-los[n]num piscar de olhos![n][w][e]
+[s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ok, vamos continuar procurando![n]Não se preocupe, vamos encontrá-los[n]num piscar de olhos![n][w][e]
 

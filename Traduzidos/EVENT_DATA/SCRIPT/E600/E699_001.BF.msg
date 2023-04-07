@@ -9,7 +9,7 @@
 
 [msg MSG_021_1_0 [Morgana]]
 [s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 1 1027 65535 0]Conseguimos sentar, mas além[n]de descansar, não tem muita[n] coisa para fazer...[n][f 1 3 65535][w][e]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]OK, estou tirando uma soneca.[n]Acorde-me quando[n]chegarmos ao nosso destino.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ok, estou tirando uma soneca.[n]Acorde-me quando[n]chegarmos ao nosso destino.[n][f 1 3 65535][w][e]
 
 [msg MSG_021_2_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1192 65535 0]Você não tem[n]novos livros para ler, não é?[n][f 1 3 65535][w][e]
@@ -395,7 +395,7 @@
 [s][vp 1 0 0 0 0 0]"Fenômenos complexos podem[n]sempre ser simplificados."[n][f 1 3 65535][w][e]
 
 [msg MSG_BookID_68_Start [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1168 65535 0]OK, então é mais eficiente[n]primeiro entender como[n]as coisas são estruturadas...[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1168 65535 0]Ok, então é mais eficiente[n]primeiro entender como[n]as coisas são estruturadas...[n][f 1 3 65535][w][e]
 
 [msg MND_BookID_69_Start]
 [s][vp 1 0 0 0 0 0]"As cinzas se amontoaram como[n]neve sobre os cadáveres amontoados..."[n][f 1 3 65535][w][e]
@@ -645,11 +645,11 @@
 [msg MSG_BookID_27_ReadEnd [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1167 65535 0]Você terminou de ler[n][clr 3][var 0][clr 27].[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Arsène era inexpugnável. Ele[n]sempre conseguiu levar a melhor sobre seus[n]perseguidores. É muito bom![n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 22 65535 1 41]Este romance sugere[n]alguns truques engenhosos que[n]você pode usar como um Ladrão Fantasma![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 22 65535 1 41]Este romance sugere[n]alguns truques engenhosos que[n]você pode usar como um Phantom Thief![n][f 1 3 65535][w][e]
 
 [msg MND_BookID_27_ReadEnd]
 [s][vp 1 0 0 0 0 0]Terminei de ler[clr 3][var 0][clr 27]...[n][f 1 3 65535][w][e]
-[s][vp 1 0 0 0 0 0][f 4 22 65535 1 41]Acho que entendi melhor[n]a abordagem astuta que todo ladrão[n]fantasma deve ter...[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0][f 4 22 65535 1 41]Acho que entendi melhor[n]a abordagem astuta que todo Phantom[n]Thief deve ter...[n][f 1 3 65535][w][e]
 
 [msg MSG_BookID_28_ReadEnd [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1167 65535 0]Você terminou de ler[n][clr 3][var 0][clr 27].[n][f 1 3 65535][w][e]

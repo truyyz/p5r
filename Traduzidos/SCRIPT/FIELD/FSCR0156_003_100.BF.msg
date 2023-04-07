@@ -19,7 +19,7 @@
 [s][bup 0 8 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Mweheheh... Apenas observe...[n][w][e]
 
 [msg D05_02_e341_022_mes03 [Futaba]]
-[s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9190 65535 0]OK, eu deveria ter aberto[n]algumas portas! Eu também[n]encontrei um mapa.[n][w][e]
+[s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9190 65535 0]Ok, eu deveria ter aberto[n]algumas portas! Eu também[n]encontrei um mapa.[n][w][e]
 
 [msg D05_02_e341_022_mes04 [Haru]]
 [s][bup 0 7 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Incrível! Então a infiltração[n]dentro do Palácio[n]deveria ser mais fácil, certo?[n][w][e]

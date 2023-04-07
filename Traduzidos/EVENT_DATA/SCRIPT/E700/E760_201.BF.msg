@@ -443,7 +443,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]E você não pode fazer nada sobre isso. A[n]verdadeira questão é: como você vai reagir a[n]determinadas situações?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Você os evitará, apenas para se arrepender[n]pelo resto de seus dias?[n]Ou você os enfrentará?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Você ainda é jovem. Você tem muitas[n]oportunidades de começar do zero.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Embora... eu não seja a pessoa certa para falar[n]sobre isso. Vabbeh, anima-te, OK?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Embora... eu não seja a pessoa certa para falar[n]sobre isso. Vabbeh, anima-te, Ok?[n][f 1 3 65535][w][e]
 
 [msg MSG_RANK_7_2 [Sojiro]]
 [s][bup 0 103 500 65535 0][f 4 10 65535 0 0][vp 8 2 0 5080 65535 0]Desculpe-me por dizer assim, mas...[n][f 1 3 65535][w][e]

@@ -17,7 +17,7 @@
 [s]Hoje nao.[e]
 
 [msg MSG_REACTION [Makoto]]
-[s][f 5 14]OK, irei imediatamente[n]para o local de encontro.[n][f 5 15][w][e]
+[s][f 5 14]Ok, irei imediatamente[n]para o local de encontro.[n][f 5 15][w][e]
 
 [msg MSG_REACTION_02 [Makoto]]
 [s][f 5 14]O tempo é um luxo que não podemos mais[n]pagar.[n][w][e]

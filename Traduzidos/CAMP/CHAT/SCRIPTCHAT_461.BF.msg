@@ -14,7 +14,7 @@
 [s][f 5 14]Vamos parar em Shibuya a caminho de casa.[n]Ainda estou na aula.[n][f 5 15][w][e]
 
 [msg MSG_004_1_0 [Ann]]
-[s][f 5 14]Estou no shopping subterrâneo de Shibuya.[n]Quer se juntar a mim?[n][f 5 15][w][e]
+[s][f 5 14]Estou no Shopping Subterrâneo de Shibuya.[n]Quer se juntar a mim?[n][f 5 15][w][e]
 
 [msg MSG_004_2_0 [Ann]]
 [s][f 5 14]Estou em Shibuya agora.[n]Quer se juntar a mim?[n][w][e]

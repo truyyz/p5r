@@ -21,5 +21,5 @@
 [s][f 5 14]Eu estarei lá.[e]
 
 [msg MND_COOP_DOUZOKUSEI]
-[s]Eu deveria ser capaz de fortalecer[n]nosso vínculo, já que tenho [clr 1][var 5][clr 27][n]do arcano [var 2]...[n][w][e]
+[s]Eu deveria ser capaz de fortalecer[n]nosso vínculo, já que tenho [clr 1][var 5][clr 27][n]da Arcana [var 2]...[n][w][e]
 

@@ -131,7 +131,7 @@
 
 [msg MSG_032_0_0 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 7 5 4]Sim, tenho sorte de poder[n]ir com calma.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][f 4 24 0 4 0 0 5 100][vp 8 0 0 0 65535 0]Além disso, seria muito difícil[n]ser um Ladrão Fantasma com[n]pais zumbindo ao meu redor![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][f 4 24 0 4 0 0 5 100][vp 8 0 0 0 65535 0]Além disso, seria muito difícil[n]ser um Phantom Thief com[n]pais zumbindo ao meu redor![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Porém, quando criança, sofri com isso.[n]Estava sempre sozinho com a[n]tata que morava conosco.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][f 4 24 0 4 0 35 5 100][f 4 24 0 4 0 9 3 100][vp 8 0 0 0 65535 0]Eu realmente nunca tive[n]amigos...[n][f 1 3 65535][w][e]
 [s][bup 0 4 1 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 36 5 100][f 4 24 0 4 0 9 3 100][f 4 23 0 4 20 10 18 10][vp 8 0 0 0 65535 0]Nossa, eu franzo a testa rápido...![n]Ahah...[n][f 1 3 65535][w][e]

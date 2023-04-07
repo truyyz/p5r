@@ -8,10 +8,10 @@
 [s][f 5 14]Eu entendi.[n][w][e]
 
 [msg CHAT_REACTION_02 [Shinya]]
-[s][f 5 14]OK, então venha para o fliperama.[n][f 5 15][w][e]
+[s][f 5 14]Ok, então venha para o fliperama.[n][f 5 15][w][e]
 
 [msg MSG_MORUGANA [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Tente aceitar os convites de[n]Shinya para ganhar[n]sua confiança, OK?[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Tente aceitar os convites de[n]Shinya para ganhar[n]sua confiança, Ok?[n][f 1 3 65535][w][e]
 
 [sel SEL_001 top]
 [s]Vá agora[e]
@@ -22,11 +22,11 @@
 [s][f 5 14]Eu não posso esperar.[e]
 
 [msg MSG_CORP_PLAY_CHECK1 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Tente aceitar os convites de[n]Shinya para ganhar[n]sua confiança, OK?[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Tente aceitar os convites de[n]Shinya para ganhar[n]sua confiança, Ok?[n][f 1 3 65535][w][e]
 
 [msg MSG_CORP_PLAY_CHECK2 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Ninguém pensa que você está vivo.[n]Se você tomar cuidado,[n]tudo deve ficar bem.[n][f 1 3 65535][w][e]
-[s][vp 1 0 0 0 0 0][f 4 10 65535 0 0]Tente aceitar os convites de[n]Shinya para ganhar[n]sua confiança, OK?[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0][f 4 10 65535 0 0]Tente aceitar os convites de[n]Shinya para ganhar[n]sua confiança, Ok?[n][f 1 3 65535][w][e]
 
 [msg ERROR_MSG_000_0_0 [Sojiro]]
 [s][bup 0 103 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ei, estou abrindo uma loja.[n]Você se importaria de parar[n]de jogar no seu telefone?[n][w][e]

@@ -123,7 +123,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não vou mais fugir.[n]Tudo ficará bem, se[n]eu os enfrentar cara a cara.[n][f 1 3 65535][w][e]
 
 [msg MSG_036_0_0 [Kawakami]]
-[s][bup 0 109 601 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]OK, hora de ir.[n][f 1 3 65535][w][e]
+[s][bup 0 109 601 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ok, hora de ir.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 15031 65535 0]Obrigada. Até breve.[n][f 1 3 65535][w][e]
 
 [msg MSG_037_0_0 [Kawakami]]

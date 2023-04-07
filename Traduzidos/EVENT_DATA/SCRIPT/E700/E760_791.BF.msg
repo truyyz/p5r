@@ -9,7 +9,7 @@
 [s]Nós apenas jogamos.[e]
 
 [msg MSG_GAMESTART_1st_001_01 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]OK, escute.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Ok, escute.[n][f 1 3 65535][w][e]
 
 [msg MSG_GAMESTART_1st_001_02 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Um segundo![n][f 1 3 65535][w][e]
@@ -497,7 +497,7 @@
 [s][vp 8 2 0 59553 65535 0]A hora chegou! Desperte seus[n]poderes adormecidos, Grey Pigeon![n][f 1 3 65535][w][e]
 
 [msg MSG_Stage03_05_006 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 2 0 1174 65535 0]OK! Vamos despertar os poderes do Pombo![n][f 1 3 65535][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 2 0 1174 65535 0]Ok! Vamos despertar os poderes do Pombo![n][f 1 3 65535][w][e]
 
 [msg MSG_Stage04_05_OK1 [Alya]]
 [s][vp 8 2 0 59552 65535 0]O que!?! Estamos... no meu[n]laboratório espacial...?[n][f 1 3 65535][w][e]

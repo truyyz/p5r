@@ -15,7 +15,7 @@
 [s][bup 0 113 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Mas ainda temos esperança![n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Chihaya]]
-[s][bup 0 113 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]OK, vamos lá![n][f 1 3 65535][w][e]
+[s][bup 0 113 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Ok, vamos lá![n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Chihaya]]
 [s][bup 0 113 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Uma premonição! Eu sinto que[n]acabou, mas...[n][f 1 3 65535][w][e]

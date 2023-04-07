@@ -28,7 +28,7 @@
 [s][f 5 14]Enfim, me encontre em Shibuya![n][w][e]
 
 [msg MSG_210_0_0 [Ryuji]]
-[s][f 5 14]Oh... OK.[n]Desculpe pelo pedido repentino.[n][w][e]
+[s][f 5 14]Oh... Ok.[n]Desculpe pelo pedido repentino.[n][w][e]
 
 [msg MSG_400_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Vai dar uma volta hein?[n]Tô indo também![n][f 1 3 65535][w][e]

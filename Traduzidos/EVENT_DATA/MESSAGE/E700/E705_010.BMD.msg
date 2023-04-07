@@ -33,7 +33,7 @@
 
 [msg MSG_008_5_0 [Sojiro]]
 [s][bup 0 103 1 0 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]...Eu sei isso. O de sempre, né?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]OK. Até mais.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Ok. Até mais.[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Sojiro]]
 [s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Como você pode ver, estou bastante[n]ocupado tanto no trabalho quanto[n]na minha vida privada.[n][f 1 3 65535][w][e]
@@ -68,7 +68,7 @@
 [s][vp 8 0 0 0 65535 0]As distâncias entre mim e Sojiro[n]parecem ter diminuído ligeiramente[n]...[n][f 1 3 65535][w][e]
 
 [msg MSG_016_4_0 [Sae]]
-[s][vp 8 0 0 800 65535 0]Você pode ser chamado de "Ladrão Fantasma[n]", mas ainda é um[n]menor. Quem cuida de você?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 800 65535 0]Você pode ser chamado de "Phantom Thief[n]", mas ainda é um[n]menor. Quem cuida de você?[n][f 1 3 65535][w][e]
 
 [msg MSG_016_5_0 [Sae]]
 [s][vp 8 0 0 801 65535 0]Além disso, quem cuidou[n]de você o fez sabendo que você[n]fazia parte daquele grupo...[n][f 1 3 65535][w][e]

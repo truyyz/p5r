@@ -95,7 +95,7 @@
 [s][bup 0 2 11 1 0][f 4 10 65535 0 0][vp 8 0 0 38 65535 0]Temos que fazer isso.[n][f 1 3 65535][w][e]
 
 [msg MSG_030_0_0 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 41 65535 0]OK. Estamos apenas tentando[n]tomar cuidado.[n][f 1 3 65535][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 41 65535 0]Ok. Estamos apenas tentando[n]tomar cuidado.[n][f 1 3 65535][w][e]
 
 [msg MSG_031_0_0 [Ryuji]]
 [s][bup 0 2 0 1 0][f 4 10 65535 0 0][vp 8 0 0 42 65535 0]Bem, vamos nos ocupar[n]com essas palavras-chave, ok?[n][f 1 3 65535][w][e]

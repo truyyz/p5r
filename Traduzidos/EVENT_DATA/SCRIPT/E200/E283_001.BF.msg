@@ -10,7 +10,7 @@
 [sel SEL_030_0_0 top]
 [s]Bom saber.[e]
 [s]O suspeito é você.[e]
-[s]Ryuji é um ladrão fantasma.[e]
+[s]Ryuji é um Phantom Thief.[e]
 
 [msg MSG_NOT_SELECT_PARA_YUUK]
 [s]......[n][w][e]

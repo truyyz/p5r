@@ -800,7 +800,7 @@
 [s]Estou preocupada com a Morgana...[n][w][e]
 
 [msg MND_StopAct_GomiClean_09_2]
-[s]Como[n]Morgana e o Splendida Ladra se conheceram?[n][w][e]
+[s]Como[n]Morgana e o Beauty Thief se conheceram?[n][w][e]
 
 [msg MND_StopAct_GomiClean_09_3]
 [s]Como faço para acertar as coisas[n]com Morgana?[n][w][e]
@@ -849,7 +849,7 @@
 [s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 1 1038 65535 0]Não tenho vontade de me mexer...[n]O que aconteceu... exatamente...?[n][w][e]
 
 [msg MSG_StopAct_Training_020 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]Estarei sempre contigo. Pense bem na resposta, OK?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]Estarei sempre contigo. Pense bem na resposta, Ok?[n][w][e]
 
 [msg MND_E10530101_NG_GOTO_1F]
 [s][vp 1 0 0 0 0 0]Amanhã terei que levantar cedo...[n]Hoje devo descansar bem.[n][w][e]
@@ -915,7 +915,7 @@
 [s][f 4 23 1 850 3 10 0 0][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 9178 65535 0]é muito tarde...[n][w][e]
 
 [sel BED_CHECK_1030_EV_SEL_1 top]
-[s]Dorme[e]
+[s]Dormir[e]
 [s]Fique acordado[e]
 
 [msg MSG_356_101_01_FUTABA_EN [Futaba]]
@@ -940,7 +940,7 @@
 [s][vp 1 0 0 0 0 0]Eu deveria ir para a cama...[n][w][e]
 
 [sel BED_CHECK_1121_EV_SEL top]
-[s]Dorme[e]
+[s]Dormir[e]
 [s]Fique acordado[e]
 
 [msg MSG_399_101_01_MORU_END [Morgana]]

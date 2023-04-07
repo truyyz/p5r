@@ -1,6 +1,6 @@
 [msg MSG_000_0_0 [Monitores de trem]]
 [s][vp 8 0 0 1 65535 0]A faixa etária com mais[n]confiança nos Phantom Thieves é[n]adolescentes![n][f 1 3 65535][w][e]
-[s][vp 8 0 0 2 65535 0]Recebemos mensagens dizendo[n]que hoje os alunos não falam[n]sobre nada além dos Ladrões Fantasmas.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 2 65535 0]Recebemos mensagens dizendo[n]que hoje os alunos não falam[n]sobre nada além dos Phantom Thieves.[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Homem de negocios]]
 [s][vp 8 0 0 3 65535 0]Você os conhece?[n][f 1 3 65535][w][e]

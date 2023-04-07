@@ -17,7 +17,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Ontem foi dia dos namorados, lembra?[n][f 1 3 65535][w][e]
 
 [sel SEL_005_0_0 top]
-[s]Obrigada.[e]
+[s]Obrigado.[e]
 [s]Eu os aceito de bom grado.[e]
 
 [msg MSG_006_0_0 [Ohya]]

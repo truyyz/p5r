@@ -12,7 +12,7 @@
 
 [msg SAFE_MES_ryuzi4 [Ryuji]]
 [s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 7038 65535 0]Não podemos usar nosso[n]Personas na forma de mouse, hein...?[n][w][e]
-[s][f 4 10 65535 0 0]Vamos evitar confrontos se[n]cairmos em outra[n]armadilha semelhante, OK?[n][w][e]
+[s][f 4 10 65535 0 0]Vamos evitar confrontos se[n]cairmos em outra[n]armadilha semelhante, Ok?[n][w][e]
 
 [msg SAFE_MES_ryuzi5 [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 7045 65535 0]Nós os deixamos pretos dessa vez![n]Então, você gostou do meu plano?[n][w][e]
@@ -275,7 +275,7 @@
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 9190 65535 0]Mhuahahah... Sim, assim, me glorifique![n][w][e]
 
 [msg SAFE_MES_hutaba1_2 [Futaba]]
-[s][bup 0 8 4 65535 0][f 4 10 65535 0 0][vp 8 2 1 9040 65535 0]L-Próxima vez?[n]OK. Vou pensar sobre isso.[n][w][e]
+[s][bup 0 8 4 65535 0][f 4 10 65535 0 0][vp 8 2 1 9040 65535 0]L-Próxima vez?[n]Ok. Vou pensar sobre isso.[n][w][e]
 
 [msg SAFE_MES_hutaba2 [Futaba]]
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 9089 65535 0]De qualquer forma, sempre prefiro o curry de[n]sojiro a essa[n]comida sofisticada de restaurante.[n][w][e]

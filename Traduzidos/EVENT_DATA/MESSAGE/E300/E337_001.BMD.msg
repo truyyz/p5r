@@ -31,7 +31,7 @@
 [s][bup 0 7 1 1 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Há muito tempo não comia com tantas pessoas.[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Sojiro]]
-[s][bup 0 103 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Vá para casa mais cedo hoje, OK?[n]Seus pais devem estar preocupados.[n][f 1 3 65535][w][e]
+[s][bup 0 103 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Vá para casa mais cedo hoje, Ok?[n]Seus pais devem estar preocupados.[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Futaba]]
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Se você preferir ficar[n]tudo bem, você sabe.[n][f 1 3 65535][w][e]

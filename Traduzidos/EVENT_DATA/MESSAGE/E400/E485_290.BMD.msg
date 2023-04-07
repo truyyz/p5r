@@ -31,7 +31,7 @@
 
 [sel SEL_010_0_0 top]
 [s]Entrego-me...[e]
-[s]Porque?[e]
+[s]Por quê?[e]
 
 [msg MSG_011_0_0 [Sae]]
 [s][bup 0 105 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Seu testemunho será necessário[n]para provar a culpa de Shido[n]... Mesmo se...[n][f 1 3 65535][w][e]
@@ -49,7 +49,7 @@
 
 [msg MND_019_0_0]
 [s][vp 8 0 0 0 65535 0]Para provar a culpa de Shido[n]exigirei[n]meu testemunho...[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]Quem sabe o que a polícia fará.[n]Eles nunca deixariam um[n]ladrão fantasma se tornar o herói.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Quem sabe o que a polícia fará.[n]Eles nunca deixariam um[n]Phantom Thief se tornar o herói.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Se eu testemunhar sobre os crimes de[n]Shido,[n]tudo pode ser resolvido. Mas primeiro...[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Sae]]

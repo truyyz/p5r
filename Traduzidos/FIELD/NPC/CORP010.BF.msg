@@ -17,7 +17,7 @@
 [s]Tente descobrir o que seus confidentes[n]querem ouvir[n]quando você passa um tempo com eles.[n][e]
 
 [msg HELP_URANAI_COOP_C02]
-[s]A Alta Sacerdotisa:[n]Makoto Niijima[n]Confidente[n][e]
+[s]A Sacerdotisa:[n]Makoto Niijima[n]Confidente[n][e]
 
 [msg HELP_URANAI_COOP_C03]
 [s]A Imperatriz:[n]Haru Okumura[n]Confidente[n][e]
@@ -56,19 +56,19 @@
 [s]O Diabo:[n]Ichiko Ohya[n]Confidente[n][e]
 
 [msg HELP_URANAI_COOP_C16]
-[s]The Tower:[n]Bom jogador[n]Confidente[n][e]
+[s]A Torre:[n]Bom jogador[n]Confidente[n][e]
 
 [msg HELP_URANAI_COOP_C17]
-[s]The Star:[n]Hifumi Togo[n]Confidente[n][e]
+[s]A Estrela:[n]Hifumi Togo[n]Confidente[n][e]
 
 [msg HELP_URANAI_COOP_C18]
 [s]A Lua:[n]Yuuki Mishima[n]Confidente[n][e]
 
 [msg HELP_URANAI_COOP_C19]
-[s]The Sun:[n]Homem do povo[n]Confidente[n][e]
+[s]O Sol:[n]Homem do povo[n]Confidente[n][e]
 
 [msg HELP_URANAI_COOP_C22]
-[s]Faith:[n][f 4 31 10 1] Yoshizawa[n]Confidente[n][e]
+[s]Fé:[n][f 4 31 10 1] Yoshizawa[n]Confidente[n][e]
 
 [msg HELP_URANAI_COOP_C23]
 [s]Conselheiro:[n]Takuto Maruki[n]Confidente[n][e]
@@ -365,12 +365,12 @@
 [msg MSG_C10_SPOT_03_00 [Chihaya]]
 [s][bup 0 113 0 65535 0][f 4 10 65535 0 0][f 4 23 1 210 14 10 13 10][vp 8 2 1 0 65535 0]Sobre a roda-gigante[n]nós andamos outro[n]dia...[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Um dia espero voltar...[n]contigo, claro.[n][w][e]
-[s][bup 0 113 7 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Mmm, então, vamos começar a checagem dos Ladrões[n]Fantasmas.[n][w][e]
+[s][bup 0 113 7 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Mmm, então, vamos começar a checagem dos Phantom[n]Thieves.[n][w][e]
 
 [msg MSG_C10_SPOT_04_00 [Chihaya]]
 [s][bup 0 113 3 65535 0][f 4 10 65535 0 0][f 4 23 1 210 14 10 13 10][vp 8 2 1 0 65535 0]O ar neste lugar está cheio de cheiro de comida e[n]fumaça de escapamento de restaurantes.[n][w][e]
 [s][bup 0 113 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu gostaria de poder dar um passeio[n]e ficar longe do barulho e[n]observar o céu ou o oceano...[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu estava brincando. OK, é hora da[n]verificação. Por favor, sente-se.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu estava brincando. Ok, é hora da[n]verificação. Por favor, sente-se.[n][w][e]
 
 [msg MSG_C10_SPOT_05_00 [Chihaya]]
 [s][bup 0 113 0 65535 0][f 4 10 65535 0 0][f 4 23 1 210 14 10 13 10][vp 8 2 1 0 65535 0]O-Olá...[n][w][e]
@@ -473,7 +473,7 @@
 [s][bup 0 113 1 65535 0][f 4 10 65535 0 0][f 4 23 1 210 14 10 13 10][vp 8 2 1 10086 65535 0]Então, sente-se...[n][w][e]
 
 [msg MSG_C10_YES_06_00 [Chihaya]]
-[s][bup 0 113 0 65535 0][f 4 10 65535 0 0][f 4 23 1 210 14 10 13 10][vp 8 2 1 10096 65535 0]OK... vamos para outro lugar.[n][w][e]
+[s][bup 0 113 0 65535 0][f 4 10 65535 0 0][f 4 23 1 210 14 10 13 10][vp 8 2 1 10096 65535 0]Ok... vamos para outro lugar.[n][w][e]
 
 [msg MSG_C10_YES_07_00 [Chihaya]]
 [s][bup 0 113 1 65535 0][f 4 10 65535 0 0][f 4 23 1 210 14 10 13 10][vp 8 2 1 10023 65535 0]Sim! Por favor, sente-se![n][w][e]
@@ -553,7 +553,7 @@
 
 [msg MSG_C10_SPOT_05_03 [Chihaya]]
 [s][bup 0 113 7 65535 0][f 4 10 65535 0 0][f 4 23 1 210 14 10 13 10][vp 8 2 1 10040 65535 0]Huh?!? Você está me dizendo que eu posso ir até[n]você?!?[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]OK. Eu preparo.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ok. Eu preparo.[n][w][e]
 
 [msg MSG_C10_COOP_CANCEL_00 [Chihaya]]
 [s][bup 0 113 0 65535 0][f 4 10 65535 0 0][f 4 23 1 210 14 10 13 10][vp 8 2 1 10025 65535 0]Ah, é isso?[n][w][e]
@@ -657,7 +657,7 @@
 [s][bup 0 113 0 65535 0][f 4 10 65535 0 0][f 4 23 1 210 14 10 13 10][vp 8 2 1 10038 65535 0]Huh? Não quer uma leitura?[n][w][e]
 
 [msg MSG_C10_UNSEI_20_00 [Chihaya]]
-[s][bup 0 113 0 65535 0][f 4 10 65535 0 0][f 4 23 1 210 14 10 13 10][vp 8 2 1 10090 65535 0]OK pronto?[n][w][e]
+[s][bup 0 113 0 65535 0][f 4 10 65535 0 0][f 4 23 1 210 14 10 13 10][vp 8 2 1 10090 65535 0]Ok pronto?[n][w][e]
 
 [msg MSG_C10_UNSEI_20_01 [Chihaya]]
 [s][bup 0 113 0 65535 0][f 4 10 65535 0 0][f 4 23 1 210 14 10 13 10]Hum... Mmm...[n][w][e]
@@ -734,7 +734,7 @@
 [s][bup 0 113 0 65535 0][f 4 10 65535 0 0][f 4 23 1 210 14 10 13 10][vp 8 2 1 10038 65535 0]Não quer fazer uma leitura?[n][w][e]
 
 [msg MSG_C10_KAIUN_20_00 [Chihaya]]
-[s][bup 0 113 0 65535 0][f 4 10 65535 0 0][f 4 23 1 210 14 10 13 10][vp 8 2 1 10119 65535 0]OK, pense em uma área onde você[n]gostaria de ter mais sorte.[n][w][e]
+[s][bup 0 113 0 65535 0][f 4 10 65535 0 0][f 4 23 1 210 14 10 13 10][vp 8 2 1 10119 65535 0]Ok, pense em uma área onde você[n]gostaria de ter mais sorte.[n][w][e]
 
 [sel MSG_C10_KAIUN_00_02 top]
 [s]Quero aumentar o Conhecimento.[e]

@@ -1,5 +1,5 @@
 [msg MSG_000_0_0 [Ryuji]]
-[s][vp 8 0 0 0 65535 0][f 5 14]Vejo você na estação de Shibuya,[n]OK? Então, vamos falar[n]sobre nosso próximo objetivo.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 5 14]Vejo você na estação de Shibuya,[n]Ok? Então, vamos falar[n]sobre nosso próximo objetivo.[n][f 1 3 65535][w][e]
 
 [sel SEL_001_0_0 top]
 [s][f 5 14]Vamos juntos.[e]

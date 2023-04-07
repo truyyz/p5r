@@ -52,7 +52,7 @@
 [s][f 5 14]Então eu estava pensando...[n]Podemos ir[n]só você e eu?[n][w][e]
 
 [msg MSG_010_0_0 [Futaba]]
-[s][f 5 14][f 5 15]Eu realmente preciso da sua ajuda,[n][f 4 2]! Por favoreeee![n][w][e]
+[s][f 5 14][f 5 15]Eu realmente preciso da sua ajuda,[n][f 4 2]! Por favorrrrrr![n][w][e]
 
 [msg MND_011_0_0]
 [s]Eu tenho que cuidar do tio de Futaba[n]e ajudar Sojiro...[n][w][e]

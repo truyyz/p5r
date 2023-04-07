@@ -70,7 +70,7 @@
 [s]Opinião[n][w][e]
 
 [msg MSG_Sofa_End [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0]OK, isso é o suficiente por agora.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Ok, isso é o suficiente por agora.[n][w][e]
 
 [msg MND_Sofa_End]
 [s]Agora é um pouco[n]melhor.[n][w][e]

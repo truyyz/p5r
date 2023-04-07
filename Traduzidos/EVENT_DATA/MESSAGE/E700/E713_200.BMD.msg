@@ -1,6 +1,6 @@
 [msg MSG_000_0_0 [Takemi]]
 [s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 2 0 14028 65535 0]Como está sendo estudar para o[n]vestibular? Deve ser difícil[n]entrar em uma universidade de elite.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]OK, vamos interromper a história da cobaia por um[n]momento. Eu farei um teste.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ok, vamos interromper a história da cobaia por um[n]momento. Eu farei um teste.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O que significa a[n]expressão inglesa "fair and square"?[n][f 1 3 65535][w][e]
 
 [msg MND_990_0_0]

@@ -10,7 +10,7 @@
 [s][bup 0 8 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9158 65535 0]Cuidado, Joker![n][w][e]
 
 [msg MSG_QST_084_04 [Sombra de Minamoto]]
-[s]Ladrões Fantasmas. Você realmente veio.[n][w][e]
+[s]Phantom Thieves. Você realmente veio.[n][w][e]
 [s]Bom. Portanto, nunca mais poderei ferir[n]minha irmã.[n][w][e]
 
 [msg MSG_QST_084_05 [Makoto]]
@@ -83,5 +83,5 @@
 [msg MSG_QST_084_20 [Sombra de Minamoto]]
 [s][vp 8 2 1 0 65535 0]Eu provavelmente não poderei mais ficar com minha[n]irmã, depois de machucá-la, mas...[n][w][e]
 [s]Estou feliz por ter conseguido amar minha irmã[n]novamente.[n][w][e]
-[s][vp 8 2 1 46769 65535 0]Obrigado, Ladrões Fantasmas...[n][w][e]
+[s][vp 8 2 1 46769 65535 0]Obrigado, Phantom Thieves...[n][w][e]
 

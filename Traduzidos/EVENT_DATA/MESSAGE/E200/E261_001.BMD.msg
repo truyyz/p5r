@@ -47,7 +47,7 @@
 [s][vp 8 0 0 23 65535 0]S-Sim senhor![n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Sombra de Kaneshiro]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 210 3 300 1][vp 8 0 0 24 10 0]Ladrões Fantasmas? Não me faça rir...[n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 210 3 300 1][vp 8 0 0 24 10 0]Phantom Thieves? Não me faça rir...[n][f 1 3 65535][w][e]
 
 [msg MSG_019_5_0 [Kaneshiro]]
 [s][bup 0 207 0 0 0][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]Ei, estamos saindo.[n][f 1 3 65535][w][e]

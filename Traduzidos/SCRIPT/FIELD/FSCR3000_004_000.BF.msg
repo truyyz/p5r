@@ -1,9 +1,9 @@
 [sel BED_SEL top]
-[s]Dorme[e]
+[s]Dormir[e]
 [s]Cancelar[e]
 
 [sel NAP_SEL top]
-[s]Dorme[e]
+[s]Dormir[e]
 [s]Cancelar[e]
 
 [msg BED_TIME_SUN]

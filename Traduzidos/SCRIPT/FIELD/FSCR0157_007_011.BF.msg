@@ -171,7 +171,7 @@
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Em algum lugar haverá uma[n]sala de controle onde eles determinam as[n]porcentagens de vitória da área.[n][w][e]
 
 [msg D157_007_miniEV_02_mes06 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Então é aí que vamos atacar.[n]OK, vamos procurar nos[n]lugares suspeitos![n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Então é aí que vamos atacar.[n]Ok, vamos procurar nos[n]lugares suspeitos![n][w][e]
 
 [msg D157_007_miniEV_02_mes07 [Akechi]]
 [s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 8019 65535 0]Espere, Joker. Você esqueceu[n]o que aconteceu no slot[n]hall?[n][w][e]
@@ -185,7 +185,7 @@
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Em algum lugar haverá uma[n]sala de controle onde eles determinam as[n]porcentagens de vitória da área.[n][w][e]
 
 [msg D157_007_miniEV_02_mes10 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Então é aí que vamos atacar.[n]OK, vamos procurar nos[n]lugares suspeitos![n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Então é aí que vamos atacar.[n]Ok, vamos procurar nos[n]lugares suspeitos![n][w][e]
 
 [msg D157_007_miniEV_02_mes11 [Akechi]]
 [s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 8155 65535 0]Devemos pôr fim a[n]este engano. Devemos procurar[n]pistas na área.[n][w][e]

@@ -50,7 +50,7 @@
 [s][bup 0 6 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Haru Okumura...[n]Okumura!?![n][f 1 3 65535][w][e]
 
 [msg MSG_015_5_0 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Ela não se parece com Gorgeous[n]Ladra? Os cachos em particular.[n][f 1 3 65535][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Ela não se parece com a Beauty[n]Thief? Os cachos em particular.[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Ryuji]]
 [s][bup 0 2 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Deve ser ela![n][f 1 3 65535][w][e]

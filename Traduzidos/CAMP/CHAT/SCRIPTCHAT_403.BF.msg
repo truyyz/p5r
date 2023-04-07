@@ -31,7 +31,7 @@
 [s]Decidir depois[e]
 
 [sel SEL_002 top]
-[s][f 5 14]OK vejo você mais tarde.[e]
+[s][f 5 14]Ok vejo você mais tarde.[e]
 
 [msg MSG_MAKOTO_CORP_PLAY_CHE [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Então, quais são suas intenções?[n]Você quer se encontrar com Makoto?[n][f 1 3 65535][w][e]

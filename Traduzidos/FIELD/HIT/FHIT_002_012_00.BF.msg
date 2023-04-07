@@ -21,7 +21,7 @@
 [s]Eu não vou comer aqui.[e]
 
 [msg MSG_KITCHEN_WOMAN_START [Garçonete]]
-[s]OK, você tem que esperar um pouco.[n][w][e]
+[s]Ok, você tem que esperar um pouco.[n][w][e]
 
 [msg MSG_KITCHEN_INFO_KAMO_BF [Morgana]]
 [s][bup 0 3 0 0 0]Há uma cozinha lá dentro.[n]Parece que você precisa de recibos[n]para fazer seu pedido.[n][w][e]

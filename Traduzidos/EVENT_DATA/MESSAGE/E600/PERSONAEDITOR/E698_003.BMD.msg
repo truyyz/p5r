@@ -179,7 +179,7 @@
 
 [msg MSG_046_0_0 [Menino despreocupado]]
 [s][vp 8 0 0 0 5 0]Já. Do caso Kamoshida em diante,[n]eles fugiram.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 5 0]E a lenda dos Ladrões Fantasmas[n]originou-se na NOSSA escola![n]Nós basicamente fazemos parte dela![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 5 0]E a lenda dos Phantom Thieves[n]originou-se na NOSSA escola![n]Nós basicamente fazemos parte dela![n][f 1 3 65535][w][e]
 
 [msg MSG_047_0_0 [Garoto enérgico]]
 [s][vp 8 0 0 0 4 0]E quem não aprovaria[n]o que eles estão fazendo?[n][f 1 3 65535][w][e]
@@ -218,7 +218,7 @@
 
 [msg MSG_056_0_0 [Menina ansiosa]]
 [s][vp 8 0 0 0 4 0]Não sei quem está certo ou errado[n]nisso tudo,[n]mas de uma coisa tenho certeza...[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 4 0]As verdadeiras vítimas não serão os Ladrões[n]Fantasmas, seremos nós. Pessoas comuns.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 4 0]As verdadeiras vítimas não serão os Phantom[n]Thieves, seremos nós. Pessoas comuns.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 4 0]Que aborrecimento...[n][f 1 3 65535][w][e]
 
 [msg MSG_057_0_0 [Aluno sonolento]]
@@ -269,7 +269,7 @@
 [s][vp 8 0 0 0 5 0]Com certeza, outros professores também sabiam.[n]Seus corações também devem ser despertados[n][f 1 3 65535][w][e]
 
 [msg MSG_068_0_0 [Menino de cabelo preto]]
-[s][vp 8 0 0 0 4 0]OK, mas... espera![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 4 0]Ok, mas... espera![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 4 0]Isso não é[n]a viagem escolar perdida?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 4 0]Talvez devêssemos votar depois da viagem.[n][f 1 3 65535][w][e]
 
@@ -295,13 +295,13 @@
 [msg MSG_074_0_0 [Estudante]]
 [s][vp 8 0 0 0 4 0]Sim, mas... não sei se[n]mesmo com a vida...[n][f 1 3 65535][w][e]
 
-[msg MSG_075_0_0 [Apoiador dos ladrões fantasmas]]
-[s][vp 8 2 0 42506 4 0]Não acho que a morte do diretor foi um acidente.[n]Para mim, foram os Ladrões Fantasmas que o[n]mataram.[n][f 1 3 65535][w][e]
+[msg MSG_075_0_0 [Apoiador dos Phantom Thieves]]
+[s][vp 8 2 0 42506 4 0]Não acho que a morte do diretor foi um acidente.[n]Para mim, foram os Phantom Thieves que o[n]mataram.[n][f 1 3 65535][w][e]
 
 [msg MSG_076_0_0 [Menino preocupado]]
 [s][vp 8 0 0 0 5 0]Você realmente acha que[n]os Phantom Thieves o mataram? E por que[n]eles fariam isso?[n][f 1 3 65535][w][e]
 
-[msg MSG_077_0_0 [Apoiador dos ladrões fantasmas]]
+[msg MSG_077_0_0 [Apoiador dos Phantom Thieves]]
 [s][vp 8 0 0 0 4 0]Pense nas vítimas de Kamoshida.[n]Tendo sempre o encoberto, o[n]principal era tão culpado quanto ele.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 4 0]Aqueles que tiram vantagem dos outros para[n]seu ganho pessoal[n]não merecem viver.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 4 0]Na verdade, precisamos de alguém[n]para limpar o mundo[n]desta escória.[n][f 1 3 65535][w][e]
@@ -391,7 +391,7 @@
 [s][vp 8 0 0 0 4 0]A menos que os Phantom Thieves[n]acordem seu coração![n][f 1 3 65535][w][e]
 
 [msg MSG_099_0_0 [Menino exaltado]]
-[s][vp 8 2 0 37850 4 0]Que recompensa louca![n]Devíamos caçar ladrões[n]fantasmas nós mesmos![n][f 1 3 65535][w][e]
+[s][vp 8 2 0 37850 4 0]Que recompensa louca![n]Devíamos caçar Phantom[n]Thieves nós mesmos![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 4 0]De acordo com Akechi,[n]todo mundo frequenta esta escola, certo?[n][f 1 3 65535][w][e]
 
 [msg MSG_100_0_0 [Cara pálido]]
@@ -413,7 +413,7 @@
 [s][vp 8 0 0 0 4 0]Não sei, acho que ele quer[n]aquele tamanho só para ele.[n][f 1 3 65535][w][e]
 
 [msg MSG_105_0_0 [Menino curioso]]
-[s][vp 8 2 0 42655 4 0]Quem sabe que tipo de pessoa[n]é aquele Ladrão Fantasma.[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 42655 4 0]Quem sabe que tipo de pessoa[n]é aquele Phantom Thief.[n][f 1 3 65535][w][e]
 
 [msg MSG_106_0_0 [Menino evasivo]]
 [s][vp 8 0 0 0 5 0]Até agora, permaneceu nas sombras. Até onde[n]sabemos, ele é um garoto de aparência comum.[n][f 1 3 65535][w][e]

@@ -89,7 +89,7 @@
 [msg MSG_026_0_0 [Takemi]]
 [s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 2 0 14132 65535 0]Era uma cepa rara de uma[n]doença infecciosa. Não pode ser[n]diagnosticado com os testes usuais.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Suprimi momentaneamente[n]sintomas. Ajustaremos o tiro quando[n]sua condição melhorar.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]OK, a taxa é de[n]um milhão de ienes.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ok, a taxa é de[n]um milhão de ienes.[n][f 1 3 65535][w][e]
 
 [msg MSG_027_0_0 [Pai da menininha]]
 [s][vp 8 0 0 0 65535 0]U-Um milhão de ienes...?!?[n][f 1 3 65535][w][e]
@@ -165,5 +165,5 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Você pode nem conseguir[n]ir para casa...[n][f 1 3 65535][w][e]
 
 [msg MSG_045_0_0 [Takemi]]
-[s][vp 8 2 0 14097 65535 0]OK, bom trabalho hoje também.[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 14097 65535 0]Ok, bom trabalho hoje também.[n][f 1 3 65535][w][e]
 

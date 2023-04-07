@@ -38,5 +38,5 @@
 [msg MSG_009_0_0 [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Aquela garota ali...[n]ela não é má, é?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Agora os Phantom Thieves estão[n]na crista da onda... se eu[n]a convidar para sair, ela concorda?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Como sou chato por não poder contar a ninguém que[n]sou um ladrão fantasma.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Como sou chato por não poder contar a ninguém que[n]sou um Phantom Thief.[n][f 1 3 65535][w][e]
 

@@ -19,7 +19,7 @@
 [s][bup 0 216 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 35 10 1014]Hahaha. Boa pergunta.[n][f 1 3 65535][w][e]
 
 [msg MSG_004_5_0 [Maruki]]
-[s][bup 0 216 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Espera espera! Deixe-me falar, primeiro! OK!?![n][f 1 3 65535][w][e]
+[s][bup 0 216 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Espera espera! Deixe-me falar, primeiro! Ok!?![n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Maruki]]
 [s][bup 0 216 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bem, descobri recentemente[n]este bufê. É bem avaliado e tem[n]todos os tipos de ofertas culinárias.[n][f 1 3 65535][w][e]

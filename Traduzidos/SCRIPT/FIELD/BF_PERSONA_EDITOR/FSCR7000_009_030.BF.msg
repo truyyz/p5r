@@ -202,7 +202,7 @@
 [s]Cancelar[e]
 
 [msg MSG_WashSelect_Ok [Morgana]]
-[s][bup 0 3 1 0 0][f 4 10 65535 0 0]OK! Tire-os![n][w][e]
+[s][bup 0 3 1 0 0][f 4 10 65535 0 0]Ok! Tire-os![n][w][e]
 
 [msg MSG_WashSelect_Ng [Morgana]]
 [s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 0 1177 65535 0]Entendo... Você nunca sabe, embora. Coisas sujas[n]podem ser úteis, depois de lavadas.[n][w][e]
@@ -254,7 +254,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Então chama ela, vem![n][w][e]
 
 [msg MSG_SoloWash_Start_Re [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]OK, vamos lavá-lo tão bem que[n]é como novo de novo![n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ok, vamos lavá-lo tão bem que[n]é como novo de novo![n][w][e]
 
 [msg MSG_SoloWash_Cancel_Re [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1177 65535 0]Huh? Você veio até aqui e não lavou?[n][w][e]
@@ -294,7 +294,7 @@
 [s][bup 0 109 600 0 0][f 4 10 65535 0 0][vp 8 2 0 15002 65535 0]Não faço mais esse trabalho, mas se[n]você me perguntar algo, não vou negar[n]ajuda. O que você precisa hoje?[n][w][e]
 
 [msg MSG_DispKawakami_Max02 [Kawakami]]
-[s][bup 0 109 601 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Lavanderia? OK. Me deixe fazê-lo![n][w][e]
+[s][bup 0 109 601 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Lavanderia? Ok. Me deixe fazê-lo![n][w][e]
 
 [msg MSG_Kawakami_Maid_Talk [Kawakami]]
 [s][bup 0 109 601 0 0][f 4 10 65535 0 0]Ah, esse vestido?[n][w][e]

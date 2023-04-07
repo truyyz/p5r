@@ -9,7 +9,7 @@
 
 [msg MSG_003_0_0 [Okumura]]
 [s][bup 0 205 2 0 0][f 4 10 65535 0 0][vp 8 0 0 4 4 0]Acontece justamente quando[n]encontrei pistas na política.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 5 4 0]Ladrões fantasmas, hein? Bolhas.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 5 4 0]Phantom Thieves, hein? Bolhas.[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Okumura]]
 [s][bup 0 205 2 0 0][f 4 10 65535 0 0][vp 8 0 0 6 4 0]A mídia fez perguntas a você?[n][f 1 3 65535][w][e]

@@ -29,7 +29,7 @@
 [s][f 5 14]É apenas uma ideia de Inari.[n][w][e]
 
 [msg MSG_011_0_0 [Makoto]]
-[s][f 5 14]OK, agora vamos tentar fazer[n]tudo o que pudermos.[n][w][e]
+[s][f 5 14]Ok, agora vamos tentar fazer[n]tudo o que pudermos.[n][w][e]
 
 [msg MSG_012_0_0 [Makoto]]
 [s][f 5 14]Mesmo que isso nos leve a correr[n]riscos.[n][w][e]

@@ -536,7 +536,7 @@
 [s][f 4 23 1 32 3 10 0 0][vp 8 2 1 0 32 0]Muitos executivos parecem[n]preocupados com[n]sua prisão.[n][w][e]
 
 [msg MSG_RISUTORAMAN_007_1_0 [Empregado honesto]]
-[s][f 4 23 1 31 3 10 0 0][vp 8 2 1 0 31 0]Eu não sabia que ele era tão grande[n]corcunda. E bons[n]os Ladrões Fantasmas.[n][w][e]
+[s][f 4 23 1 31 3 10 0 0][vp 8 2 1 0 31 0]Eu não sabia que ele era tão grande[n]corcunda. E bons[n]os Phantom Thieves.[n][w][e]
 
 [msg MSG_RISUTORAMAN_007_2_0 [Funcionário sênior]]
 [s][f 4 23 1 32 3 10 0 0][vp 8 2 1 0 32 0]Seria melhor não simpatizar ainda com eles. No[n]entanto, eles continuam desconfiados.[n][w][e]
@@ -610,7 +610,7 @@
 [s][f 4 23 1 31 3 10 0 0][vp 8 2 1 0 31 0]Então ele era um[n]bode expiatório ...[n]Que mundo.[n][w][e]
 
 [msg MSG_RISUTORAMAN_014_0_0 [Empregado honesto]]
-[s][f 4 23 1 31 3 10 0 0][vp 8 2 1 0 31 0]A mídia não tem vergonha.[n]Primeiro todo esse alarido sobre os[n]Ladrões Fantasmas, agora isso.[n][w][e]
+[s][f 4 23 1 31 3 10 0 0][vp 8 2 1 0 31 0]A mídia não tem vergonha.[n]Primeiro todo esse alarido sobre os[n]Phantom Thieves, agora isso.[n][w][e]
 
 [msg MSG_RISUTORAMAN_014_1_0 [Funcionário sênior]]
 [s][f 4 23 1 32 3 10 0 0][vp 8 2 1 0 32 0]Apenas os tolos são desviados[n]por modismos. Os habitantes deste[n]país nunca aprenderão.[n][w][e]
@@ -721,7 +721,7 @@
 [s][vp 8 2 1 0 36 0]O diretor quer aumentar[n]a classificação filmando[n]peças interessantes da "vida real"![n][w][e]
 
 [msg MSG_TEREBIKAMERA_001_3_0 [Repórter]]
-[s][vp 8 2 1 0 35 0]OK. Então deixa a[n]câmera ligada e[n]grava tudo...[n][w][e]
+[s][vp 8 2 1 0 35 0]Ok. Então deixa a[n]câmera ligada e[n]grava tudo...[n][w][e]
 [s][vp 8 2 1 0 35 0]O público devora qualquer coisa que jogamos neles.[n][w][e]
 
 [msg MSG_TEREBIKAMERA_002_0_0 [Repórter]]
@@ -856,7 +856,7 @@
 [s][f 4 23 1 37 6 5 8 10][vp 8 2 1 0 37 0]Espere um momento?[n]Quem você acha que vai ganhar?[n]The Phantom Thieves ou Medjed?[n][w][e]
 
 [sel SEL_TEREBIKAMERA_009_0_0 top]
-[s]Os ladrões fantasmas, é claro.[e]
+[s]Os Phantom Thieves, é claro.[e]
 [s]Medjed.[e]
 [s]Eu não me importo.[e]
 
@@ -934,7 +934,7 @@
 [s][f 4 23 1 37 6 5 8 10][vp 8 2 1 0 37 0]Chegou o momento...[n][w][e]
 
 [msg MSG_TEREBIKAMERA_013_1_0 [Jovem cinegrafista]]
-[s][f 4 23 1 0 3 10 0 0][vp 8 2 1 0 0 0]Vamos atrás dos Ladrões Fantasmas[n]mesmo que não tenhamos[n]nenhuma evidência confiável?[n][w][e]
+[s][f 4 23 1 0 3 10 0 0][vp 8 2 1 0 0 0]Vamos atrás dos Phantom Thieves[n]mesmo que não tenhamos[n]nenhuma evidência confiável?[n][w][e]
 
 [msg MSG_TEREBIKAMERA_013_2_0 [Repórter]]
 [s][vp 8 2 1 0 37 0]Sim. O público esquece[n]rapidamente.[n][w][e]
@@ -1000,7 +1000,7 @@
 [s][f 4 23 1 37 6 5 8 10][vp 8 2 1 0 37 0]Você tem um momento para nós?[n]Quem você apoia, os Phantom Thieves[n]ou o Representante Shido?[n][w][e]
 
 [sel SEL_TEREBIKAMERA_018_0_0 top]
-[s]Os ladrões fantasmas.[e]
+[s]Os Phantom Thieves.[e]
 [s]Representante Shido.[e]
 [s]Eu não me importo.[e]
 
@@ -1079,7 +1079,7 @@
 [s][f 4 23 1 35 9 5 5 20][vp 8 2 1 0 35 0]Obrigado por suas respostas.[n][w][e]
 
 [msg MSG_TEREBIKAMERA_022_5_0 [Jovem cinegrafista]]
-[s][f 4 23 1 38 4 10 0 10][vp 8 2 1 0 38 0]...Senpai, é verdade que os executivos[n]permitem que falemos sobre os[n]Ladrões Fantasmas?[n][w][e]
+[s][f 4 23 1 38 4 10 0 10][vp 8 2 1 0 38 0]...Senpai, é verdade que os executivos[n]permitem que falemos sobre os[n]Phantom Thieves?[n][w][e]
 [s][vp 8 2 1 0 38 0]Eles sempre nos disseram para não perder tempo[n]com eles.[n][w][e]
 
 [msg MSG_TEREBIKAMERA_022_6_0 [Repórter]]
@@ -1090,7 +1090,7 @@
 [s][f 4 23 1 35 6 5 8 10][vp 8 2 1 0 35 0]Você pode nos dizer o que mais se lembrará deste[n]ano?[n][w][e]
 
 [sel SEL_TEREBIKAMERA_023_0_0 top]
-[s]Os ladrões fantasmas.[e]
+[s]Os Phantom Thieves.[e]
 [s]Meus amigos.[e]
 [s]Nada.[e]
 
@@ -1184,10 +1184,10 @@
 [s][f 4 23 1 40 3 10 0 10][vp 8 2 1 0 40 0]Ha ha, quem você está imitando?[n]Boa frase.[n][w][e]
 
 [msg MSG_DAIGAKUZU_006_2_0 [Animal de festa de estudante universitário]]
-[s][f 4 23 1 39 21 10 0 10][vp 8 2 1 0 39 0]Os ladrões fantasmas! Confira, irmão![n][w][e]
+[s][f 4 23 1 39 21 10 0 10][vp 8 2 1 0 39 0]Os Phantom Thieves! Confira, irmão![n][w][e]
 
 [msg MSG_DAIGAKUZU_007_0_0 [Animal de festa de estudante universitário]]
-[s][f 4 23 1 39 21 10 0 10][vp 8 2 1 0 39 0]Os ladrões fantasmas são[n]quentes! Uma salva de palmas pela[n]paz em Shibuya, mateoo![n][w][e]
+[s][f 4 23 1 39 21 10 0 10][vp 8 2 1 0 39 0]Os Phantom Thieves são[n]quentes! Uma salva de palmas pela[n]paz em Shibuya, mateoo![n][w][e]
 
 [msg MSG_DAIGAKUZU_007_1_0 [Estudante universitário reservado]]
 [s][f 4 23 1 40 3 10 0 10][vp 8 2 1 0 40 0]Temos que ir para casa estudar.[n]Falta pouco para os exames.[n]Você não corre o risco de reprovar?[n][w][e]
@@ -1265,10 +1265,10 @@
 [s][f 4 23 1 40 3 10 0 10][vp 8 2 1 0 40 0]Assassinato é demais. Meus[n]colegas ficaram incrédulos.[n][w][e]
 
 [msg MSG_DAIGAKUZU_015_2_0 [Animal de festa de estudante universitário]]
-[s][f 4 23 1 39 21 10 0 10][vp 8 2 1 0 39 0]OK, OK, pare de se preocupar! Devemos[n]pensar em coisas mais importantes:[n]a data da próxima festa![n][w][e]
+[s][f 4 23 1 39 21 10 0 10][vp 8 2 1 0 39 0]Ok, Ok, pare de se preocupar! Devemos[n]pensar em coisas mais importantes:[n]a data da próxima festa![n][w][e]
 
 [msg MSG_DAIGAKUZU_016_0_0 [Estudante universitário reservado]]
-[s][f 4 23 1 40 3 10 0 10][vp 8 2 1 0 40 0]Quem sabe em quanto tempo eles pegarão[n]os Ladrões Fantasmas...[n][w][e]
+[s][f 4 23 1 40 3 10 0 10][vp 8 2 1 0 40 0]Quem sabe em quanto tempo eles pegarão[n]os Phantom Thieves...[n][w][e]
 
 [msg MSG_DAIGAKUZU_016_1_0 [Animal de festa de estudante universitário]]
 [s][f 4 23 1 39 21 10 0 10][vp 8 2 1 0 39 0]Nosso clube ganhará essa recompensa! Todos nós[n]deveríamos estar procurando pistas sobre os[n]Phantom Thieves![n][w][e]
@@ -1280,7 +1280,7 @@
 [s][f 4 23 1 39 21 10 0 10][vp 8 2 1 0 39 0]Não se preocupe, companheiro![n]Somos imparáveis![n][w][e]
 
 [msg MSG_DAIGAKUZU_017_0_0 [Animal de festa de estudante universitário]]
-[s][f 4 23 1 39 21 10 0 10][vp 8 2 1 0 39 0]Ouçam, Ladrões Fantasmas![n][w][e]
+[s][f 4 23 1 39 21 10 0 10][vp 8 2 1 0 39 0]Ouçam, Phantom Thieves![n][w][e]
 [s][f 4 23 1 39 3 10 0 10][vp 8 2 1 0 39 0]Você está completamente cercado![n]Você sai ou[n]nós ficamos com raiva![n][w][e]
 
 [msg MSG_DAIGAKUZU_017_1_0 [Estudante universitário reservado]]
@@ -1298,7 +1298,7 @@
 [s][f 4 23 1 39 21 10 0 10][vp 8 2 1 0 39 0]Esta noite vamos beber até o amanhecer. Fes-taaa![n][w][e]
 
 [msg MSG_DAIGAKUZU_019_1_0 [Animal de festa de estudante universitário]]
-[s][f 4 23 1 39 21 10 0 10][vp 8 2 1 0 39 0]Viva os Ladrões Fantasmas,[n]de volta mais fortes do que nunca![n]O mal está condenado![n][w][e]
+[s][f 4 23 1 39 21 10 0 10][vp 8 2 1 0 39 0]Viva os Phantom Thieves,[n]de volta mais fortes do que nunca![n]O mal está condenado![n][w][e]
 
 [msg MSG_DAIGAKUZU_019_2_0 [Estudante universitário reservado]]
 [s][f 4 23 1 40 3 10 0 10][vp 8 2 1 0 40 0]Você quer dizer pessoas como[n]Masayoshi Shido?[n][w][e]
@@ -1415,7 +1415,7 @@
 [s][vp 8 2 1 0 44 0]Madarame é um porco que[n]rola em um cocho de dinheiro![n]O Deus do Sol o condenará![n][w][e]
 
 [msg MSG_DEMOKATUDO_005_0_0 [Manifestante]]
-[s][vp 8 2 1 0 44 0]Trago-vos a verdade![n]Os Ladrões Fantasmas são[n]os apóstolos do Deus Sol![n][w][e]
+[s][vp 8 2 1 0 44 0]Trago-vos a verdade![n]Os Phantom Thieves são[n]os apóstolos do Deus Sol![n][w][e]
 
 [sel SEL_DEMOKATUDO_005_0_0 top]
 [s]Eu não sabia.[e]
@@ -1432,7 +1432,7 @@
 [s][f 4 23 1 44 3 10 0 0][vp 8 2 1 0 44 0]Que pena...[n]Ele precisa de mais poder[n]do que o Deus Sol...[n][w][e]
 
 [msg MSG_DEMOKATUDO_005_4_0 [Homem de olhos claros]]
-[s][f 4 23 1 45 3 10 0 0][vp 8 2 1 0 45 0]Grande Deus do Sol, você dirá a[n]seus apóstolos, os Ladrões Fantasmas,[n]para punir os ímpios?[n][w][e]
+[s][f 4 23 1 45 3 10 0 0][vp 8 2 1 0 45 0]Grande Deus do Sol, você dirá a[n]seus apóstolos, os Phantom Thieves,[n]para punir os ímpios?[n][w][e]
 
 [msg MSG_DEMOKATUDO_005_5_0 [Manifestante]]
 [s][f 4 23 1 44 3 10 0 0][vp 8 2 1 0 44 0]Não tenha medo. A missão[n]deles já foi decidida. Boas notícias[n]aparecem no horizonte![n][w][e]
@@ -1463,7 +1463,7 @@
 [s][f 4 23 1 45 2 10 0 0][vp 8 2 1 0 45 0]*sniff* ...Obrigado.[n]Você certamente foi abençoado com o[n]poder do Deus Sol...[n][w][e]
 
 [msg MSG_DEMOKATUDO_006_8_0 [Homem de olhos claros]]
-[s][f 4 23 1 45 2 10 0 0][vp 8 2 1 0 45 0]Os Ladrões Fantasmas, apóstolos[n]do Deus Sol... Onde estão eles[n]neste dia chuvoso?[n][w][e]
+[s][f 4 23 1 45 2 10 0 0][vp 8 2 1 0 45 0]Os Phantom Thieves, apóstolos[n]do Deus Sol... Onde estão eles[n]neste dia chuvoso?[n][w][e]
 [s][vp 8 2 1 0 45 0]Mesmo agora, a onda de escuridão[n]se espalha e a[n]conspiração corre desenfreada…[n][w][e]
 
 [msg MSG_DEMOKATUDO_007_0_0 [Homem de olhos claros]]
@@ -1499,7 +1499,7 @@
 [s][vp 8 2 1 0 45 0]No entanto, tenho a bênção[n]do Deus Sol... enquanto ele[n]descansa em seu lugar sagrado.[n][w][e]
 
 [msg MSG_DEMOKATUDO_007_8_0 [Homem de olhos claros]]
-[s][f 4 23 1 45 2 10 0 0][vp 8 2 1 0 45 0]Os Ladrões Fantasmas, apóstolos do[n]Deus Sol, certamente irão restaurar a[n]paz na cidade...[n][w][e]
+[s][f 4 23 1 45 2 10 0 0][vp 8 2 1 0 45 0]Os Phantom Thieves, apóstolos do[n]Deus Sol, certamente irão restaurar a[n]paz na cidade...[n][w][e]
 
 [msg MSG_DEMOKATUDO_008_0_0 [Homem de olhos claros]]
 [s][f 4 23 1 45 2 10 0 0][vp 8 2 1 0 45 0]O senhor do crime organizado[n]caiu! Elogie os Phantom Thieves[n]por nos salvar![n][w][e]
@@ -1525,7 +1525,7 @@
 
 [msg MSG_DEMOKATUDO_010_0_0 [Manifestante]]
 [s][vp 8 2 1 0 44 0]Sistemas de segurança vulneráveis...[n]Dependentes de rede arriscam[n]uma crise sem precedentes![n][w][e]
-[s][vp 8 2 1 0 44 0]Mas eu, o Deus do Sol, vou[n]salvá-los junto com meus apóstolos,[n]os Ladrões Fantasmas![n][w][e]
+[s][vp 8 2 1 0 44 0]Mas eu, o Deus do Sol, vou[n]salvá-los junto com meus apóstolos,[n]os Phantom Thieves![n][w][e]
 
 [msg MSG_DEMOKATUDO_010_1_0 [Homem de olhos claros]]
 [s][f 4 23 1 45 3 10 0 0][vp 8 2 1 0 45 0]Deus do Sol! Ordene[n]os Phantom Thieves[n]imediatamente para punir Medjed![n][w][e]
@@ -1550,7 +1550,7 @@
 [s][vp 8 2 1 0 44 0]Este supremacista econômico[n]contaminado pela escuridão[n]logo enfrentará seu destino![n][w][e]
 
 [msg MSG_DEMOKATUDO_012_1_0 [Homem de olhos claros]]
-[s][f 4 23 1 45 1 10 0 0][vp 8 2 1 0 45 0]Levantem-se, Ladrões Fantasmas![n]Apóstolos do Sol! Faça[n]a vontade do Deus Sol![n][w][e]
+[s][f 4 23 1 45 1 10 0 0][vp 8 2 1 0 45 0]Levantem-se, Phantom Thieves![n]Apóstolos do Sol! Faça[n]a vontade do Deus Sol![n][w][e]
 
 [msg MSG_DEMOKATUDO_012_2_0 [Manifestante]]
 [s][vp 8 2 1 0 44 0]Lembre-se bem que[n]os Phantom Thieves existem[n]somente graças ao Deus do Sol![n][w][e]
@@ -1569,7 +1569,7 @@
 
 [msg MSG_DEMOKATUDO_014_0_0 [Manifestante]]
 [s][f 4 23 1 44 3 10 0 0][vp 8 2 1 0 44 0]Os Phantom Thieves sucumbiram[n]às trevas e ceifaram uma vida.[n]As pessoas tremem de medo...[n][w][e]
-[s][vp 8 2 1 0 44 0]Os crimes dos meus apóstolos,[n]os Ladrões Fantasmas... A força de Apolo[n]está enfraquecendo...?[n][w][e]
+[s][vp 8 2 1 0 44 0]Os crimes dos meus apóstolos,[n]os Phantom Thieves... A força de Apolo[n]está enfraquecendo...?[n][w][e]
 [s][vp 8 2 1 0 44 0]E então, eu sou realmente o Deus do Sol...?[n][w][e]
 
 [msg MSG_DEMOKATUDO_014_1_0 [Homem de olhos claros]]
@@ -1581,7 +1581,7 @@
 
 [sel SEL_DEMOKATUDO_015_0_0 top]
 [s]Que situação ruim.[e]
-[s]Confie nos ladrões fantasmas.[e]
+[s]Confie nos Phantom Thieves.[e]
 [s]Desista de todas as esperanças.[e]
 
 [msg MSG_DEMOKATUDO_015_1_0 [Homem de olhos claros]]
@@ -1601,7 +1601,7 @@
 [s][vp 8 2 1 0 45 0]O mundo será engolfado pela escuridão, assim como[n]os Phantom Thieves![n][w][e]
 
 [sel SEL_DEMOKATUDO_016_0_0 top]
-[s]Confie nos ladrões fantasmas.[e]
+[s]Confie nos Phantom Thieves.[e]
 [s]Então faça algo.[e]
 [s]É tudo inútil.[e]
 
@@ -1690,8 +1690,8 @@
 [s][f 4 23 1 45 1 10 0 0][vp 8 2 1 0 45 0]Não temos escolha a não ser rejeitar esse tumulto![n][w][e]
 
 [msg MSG_DEMOKATUDO_023_3_0 [Manifestante]]
-[s][vp 8 2 1 0 44 0]Como mensageiros do Deus do Sol[n]os Ladrões Fantasmas procuram sobreviver[n]na escuridão.[n][w][e]
-[s]Mas não importa quão profunda seja a escuridão,[n]nossa luz sempre brilhará![n]O poder do Deus Sol brilha para os Ladrões Fantasmas![n][w][e]
+[s][vp 8 2 1 0 44 0]Como mensageiros do Deus do Sol[n]os Phantom Thieves procuram sobreviver[n]na escuridão.[n][w][e]
+[s]Mas não importa quão profunda seja a escuridão,[n]nossa luz sempre brilhará![n]O poder do Deus Sol brilha para os Phantom Thieves![n][w][e]
 
 [msg MSG_DEMOKATUDO_024_0_0 [Homem de olhos claros]]
 [s][f 4 23 1 45 1 10 0 0][vp 8 2 1 0 45 0]Povo de Shibuya![n]O Deus Sol quer falar com você![n][w][e]
@@ -1701,7 +1701,7 @@
 [s][vp 8 2 1 0 44 0]Eles fizeram lindamente! Farei deles deuses[n]solares honorários![n][w][e]
 
 [msg MSG_DEMOKATUDO_024_2_0 [Homem de olhos claros]]
-[s][f 4 23 1 45 1 10 0 0][vp 8 2 1 0 45 0]Viva o Deus Sol![n]Viva os Ladrões Fantasmas![n]O futuro é brilhante![n][w][e]
+[s][f 4 23 1 45 1 10 0 0][vp 8 2 1 0 45 0]Viva o Deus Sol![n]Viva os Phantom Thieves![n]O futuro é brilhante![n][w][e]
 
 [msg MSG_GRT_main_All_001_01_ [Homem de olhos claros]]
 [s][vp 9 2 65535 38105 0 0]Tem[n]muitos acidentes[n]estranhos acontecendo ultimamente, não tem?[n][f 1 2 180][e]
@@ -2208,7 +2208,7 @@
 [s][vp 9 2 65535 38355 0 0]Espere, quem é Kaneshiro?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_13_ [Homem de olhos claros]]
-[s][vp 9 2 65535 38455 0 0]Você acha que realmente existem[n]Ladrões Fantasmas?[n][f 1 2 180][e]
+[s][vp 9 2 65535 38455 0 0]Você acha que realmente existem[n]Phantom Thieves?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_14_ [Homem de olhos claros]]
 [s][vp 9 2 65535 38504 0 0]Quando a[n]polícia decidirá[n]fazer seu trabalho?[n][f 1 2 180][e]
@@ -2217,7 +2217,7 @@
 [s][vp 9 2 65535 38554 0 0]Seria bom se[n]eles realmente existissem...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_16_ [Homem de olhos claros]]
-[s][vp 9 2 65535 38655 0 0]Você realmente acha que ladrões[n]fantasmas existem?[n][f 1 2 180][e]
+[s][vp 9 2 65535 38655 0 0]Você realmente acha que Phantom[n]Thieves existem?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_009_01_ [Homem de olhos claros]]
 [s][vp 9 2 65535 37503 0 0]Parece que o principal[n]perpetrador foi preso![n][f 1 2 180][e]
@@ -2274,7 +2274,7 @@
 [s][vp 9 2 65535 37556 0 0]Seria incrível se[n]eles fossem realmente os[n]Phantom Thieves![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_03_ [Homem de olhos claros]]
-[s][vp 9 2 65535 37656 0 0]Portanto, os rumores sobre os[n]Ladrões Fantasmas eram verdadeiros.[n][f 1 2 180][e]
+[s][vp 9 2 65535 37656 0 0]Portanto, os rumores sobre os[n]Phantom Thieves eram verdadeiros.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_04_ [Homem de olhos claros]]
 [s][vp 9 2 65535 37704 0 0]Viu as notícias?[n]Parece que[n]os Phantom Thieves fizeram isso![n][f 1 2 180][e]
@@ -2310,7 +2310,7 @@
 [s][vp 9 2 65535 38504 0 0]Aparentemente, eles são alguns caras[n]que se autodenominam[n]Phantom Thieves.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_15_ [Homem de olhos claros]]
-[s][vp 9 2 65535 38550 0 0]Portanto, os rumores sobre os[n]Ladrões Fantasmas eram verdadeiros.[n][f 1 2 180][e]
+[s][vp 9 2 65535 38550 0 0]Portanto, os rumores sobre os[n]Phantom Thieves eram verdadeiros.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_16_ [Homem de olhos claros]]
 [s][vp 9 2 65535 38654 0 0]É verdade que[n]Phantom Thieves resolveu[n]aquele incidente?!?[n][f 1 2 180][e]
@@ -2391,7 +2391,7 @@
 [s][vp 9 2 65535 38155 0 0]Vamos, Phantom Thieves...[n]Fala...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_012_10_ [Homem de olhos claros]]
-[s][vp 9 2 65535 38205 0 0]O que[n]os Ladrões Fantasmas estão fazendo...?[n][f 1 2 180][e]
+[s][vp 9 2 65535 38205 0 0]O que[n]os Phantom Thieves estão fazendo...?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_012_11_ [Homem de olhos claros]]
 [s][vp 9 2 65535 38254 0 0]Os Phantom Thieves estão[n]mantendo silêncio.[n]Como isso vai acabar?[n][f 1 2 180][e]
@@ -2403,7 +2403,7 @@
 [s][vp 9 2 65535 38452 0 0]Vamos, Phantom Thieves...[n]Fala...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_012_14_ [Homem de olhos claros]]
-[s][vp 9 2 65535 38501 0 0]O que[n]os Ladrões Fantasmas estão fazendo...?[n][f 1 2 180][e]
+[s][vp 9 2 65535 38501 0 0]O que[n]os Phantom Thieves estão fazendo...?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_012_15_ [Homem de olhos claros]]
 [s][vp 9 2 65535 38554 0 0]Os Phantom Thieves estão[n]mantendo silêncio.[n]Como isso vai acabar?[n][f 1 2 180][e]
@@ -2421,7 +2421,7 @@
 [s][vp 9 2 65535 37656 0 0]Parece que os Phantom Thieves[n]derrotaram Medjed![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_013_04_ [Homem de olhos claros]]
-[s][vp 9 2 65535 37706 0 0]Os Ladrões Fantasmas[n]os derrotaram? Louco![n][f 1 2 180][e]
+[s][vp 9 2 65535 37706 0 0]Os Phantom Thieves[n]os derrotaram? Louco![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_013_05_ [Homem de olhos claros]]
 [s][vp 9 2 65535 37800 0 0]Parece que o site[n]Medjed foi sabotado![n][f 1 2 180][e]
@@ -2451,7 +2451,7 @@
 [s][vp 9 2 65535 38450 0 0]É realmente louco[n]que eles derrotaram[n]Medjed![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_013_14_ [Homem de olhos claros]]
-[s][vp 9 2 65535 38504 0 0]Para que serve a polícia[n]quando há Ladrões Fantasmas?[n][f 1 2 180][e]
+[s][vp 9 2 65535 38504 0 0]Para que serve a polícia[n]quando há Phantom Thieves?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_013_15_ [Homem de olhos claros]]
 [s][vp 9 2 65535 38550 0 0]Parece que o site[n]Medjed foi fechado![n][f 1 2 180][e]
@@ -2796,7 +2796,7 @@
 [s][vp 9 2 65535 38657 0 0]Prenda os Phantom Thieves[n]antes que eles façam[n]algo comigo também![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_021_01_ [Homem de olhos claros]]
-[s][vp 9 2 65535 37507 0 0]Uma recompensa será suficiente para[n]garantir a prisão dos[n]ladrões fantasmas?[n][f 1 2 180][e]
+[s][vp 9 2 65535 37507 0 0]Uma recompensa será suficiente para[n]garantir a prisão dos[n]Phantom Thieves?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_021_02_ [Homem de olhos claros]]
 [s][vp 9 2 65535 37557 0 0]Parece que a recompensa por sua cabeça[n]é a maior da história...[n][f 1 2 180][e]
@@ -2814,7 +2814,7 @@
 [s][vp 9 2 65535 37904 0 0]30 milhões de ienes...[n]Parece ser a[n]maior recompensa já dada...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_021_07_ [Homem de olhos claros]]
-[s][vp 9 2 65535 37957 0 0]Uma recompensa, hein... Bem,[n]se isso ajudar a parar os[n]Ladrões Fantasmas...[n][f 1 2 180][e]
+[s][vp 9 2 65535 37957 0 0]Uma recompensa, hein... Bem,[n]se isso ajudar a parar os[n]Phantom Thieves...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_021_08_ [Homem de olhos claros]]
 [s][vp 9 2 65535 38057 0 0]Evidentemente a polícia está[n]disposta a fazer qualquer coisa para[n]pegá-los...[n][f 1 2 180][e]
@@ -2838,7 +2838,7 @@
 [s][vp 9 2 65535 38154 0 0]Olha esse tamanho![n]Eu quase começo a procurá-los também![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_021_15_ [Homem de olhos claros]]
-[s][vp 9 2 65535 38551 0 0]A polícia finalmente[n]está levando a sério[n]aqueles ladrões fantasmas...[n][f 1 2 180][e]
+[s][vp 9 2 65535 38551 0 0]A polícia finalmente[n]está levando a sério[n]aqueles Phantom Thieves...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_021_16_ [Homem de olhos claros]]
 [s][vp 9 2 65535 38652 0 0]Espero que os Phantom Thieves[n]sejam presos logo...[n][f 1 2 180][e]
@@ -2928,7 +2928,7 @@
 [s][vp 9 2 65535 38351 0 0]Os raptus são todos obra[n]dos Phantom Thieves, certo?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_023_13_ [Homem de olhos claros]]
-[s][vp 9 2 65535 38457 0 0]Alguém tem que parar[n]os Ladrões Fantasmas... A[n]polícia é incompetente![n][f 1 2 180][e]
+[s][vp 9 2 65535 38457 0 0]Alguém tem que parar[n]os Phantom Thieves... A[n]polícia é incompetente![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_023_14_ [Homem de olhos claros]]
 [s][vp 9 2 65535 38507 0 0]Alguém vai[n]fazer alguma coisa?!?[n][f 1 2 180][e]
@@ -2937,7 +2937,7 @@
 [s][vp 9 2 65535 38551 0 0]Não podemos contar nem com a polícia...[n]Alguém faça alguma coisa...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_023_16_ [Homem de olhos claros]]
-[s][vp 9 2 65535 38651 0 0]Quando[n]aqueles Ladrões Fantasmas serão presos?!?[n][f 1 2 180][e]
+[s][vp 9 2 65535 38651 0 0]Quando[n]aqueles Phantom Thieves serão presos?!?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_024_01_ [Homem de olhos claros]]
 [s][vp 9 2 65535 37500 0 0]Parece que Shido-san[n]é muito esperto por ser[n]um político![n][f 1 2 180][e]
@@ -3015,7 +3015,7 @@
 [s][vp 9 2 65535 38151 0 0]O líder dos[n]Phantom Thieves está realmente morto?!?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_025_10_ [Homem de olhos claros]]
-[s][vp 9 2 65535 38205 0 0]Um dos Ladrões Fantasmas[n]suicidou-se? Evidentemente[n]ele estava perturbado...[n][f 1 2 180][e]
+[s][vp 9 2 65535 38205 0 0]Um dos Phantom Thieves[n]suicidou-se? Evidentemente[n]ele estava perturbado...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_025_11_ [Homem de olhos claros]]
 [s][vp 9 2 65535 38252 0 0]Eles o prenderam e depois[n]se mataram? Mas o que[n]está acontecendo?!?[n][f 1 2 180][e]
@@ -3216,7 +3216,7 @@
 [s][vp 9 2 65535 38351 0 0]Achei que[n]iríamos conseguir, com o Representante[n]Shido do nosso lado![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_029_13_ [Homem de olhos claros]]
-[s][vp 9 2 65535 38451 0 0]Porque? Gosta...? Shido-san...[n][f 1 2 180][e]
+[s][vp 9 2 65535 38451 0 0]Por quê? Gosta...? Shido-san...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_029_14_ [Homem de olhos claros]]
 [s][vp 9 2 65535 38502 0 0]Certamente Shido-san fará[n]algo por nós...[n][f 1 2 180][e]

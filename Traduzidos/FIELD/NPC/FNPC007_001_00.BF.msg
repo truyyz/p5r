@@ -64,7 +64,7 @@
 [s][f 4 23 1 0 3 10 0 0][vp 8 2 1 0 0 0]Ah, sim, aquele vídeo em que[n]eles são parados pela polícia?[n]Isso me surpreendeu![n][w][e]
 
 [msg MSG_OTAKUFUTARIGUMI_005__3 [Homem magro]]
-[s][f 4 23 1 1 3 10 0 0][vp 8 2 1 0 1 0]Akechi estava certo... Somente[n]idiotas acreditariam que os[n]Ladrões Fantasmas defendem a justiça.[n][w][e]
+[s][f 4 23 1 1 3 10 0 0][vp 8 2 1 0 1 0]Akechi estava certo... Somente[n]idiotas acreditariam que os[n]Phantom Thieves defendem a justiça.[n][w][e]
 
 [msg MSG_OTAKUFUTARIGUMI_005__4 [Gordinho]]
 [s][f 4 23 1 0 3 10 0 0][vp 8 2 1 0 0 0]...Ei, você não gostou dos Phantom Thieves?[n][w][e]
@@ -86,7 +86,7 @@
 [s][f 4 23 1 0 3 10 0 0][vp 8 2 1 0 0 0]Ah, sim, aquele vídeo em que[n]eles são parados pela polícia?[n]Isso me surpreendeu![n][w][e]
 
 [msg MSG_OTAKUFUTARIGUMI_007__3 [Homem magro]]
-[s][f 4 23 1 1 3 10 0 0][vp 8 2 1 0 1 0]Akechi estava certo... Somente[n]idiotas acreditariam que os[n]Ladrões Fantasmas defendem a justiça.[n][w][e]
+[s][f 4 23 1 1 3 10 0 0][vp 8 2 1 0 1 0]Akechi estava certo... Somente[n]idiotas acreditariam que os[n]Phantom Thieves defendem a justiça.[n][w][e]
 
 [msg MSG_OTAKUFUTARIGUMI_007__4 [Gordinho]]
 [s][f 4 23 1 0 3 10 0 0][vp 8 2 1 0 0 0]...Ei, você não gostou dos Phantom Thieves? Ah,[n]e agora Akechi também se foi.[n][w][e]
@@ -428,7 +428,7 @@
 
 [msg MSG_FX_MAN_007_0_0 [Menino ocupado]]
 [s][f 4 23 1 5 3 10 0 0][vp 8 2 1 0 5 0]Se esse candidato a primeiro[n]ministro for um falcão, o mercado[n]de armas tende a crescer.[n][w][e]
-[s][vp 8 2 1 0 5 0]OK, eu deveria comprar algumas ações[n]para ganhar muito no próximo ano![n][w][e]
+[s][vp 8 2 1 0 5 0]Ok, eu deveria comprar algumas ações[n]para ganhar muito no próximo ano![n][w][e]
 
 [msg MSG_FX_MAN_007_1_0 [Mulher inquieta]]
 [s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Você conseguiu alguma outra informação da[n]internet? Eu pensei que a política não lhe[n]interessava.[n][w][e]
@@ -460,7 +460,7 @@
 [s][vp 8 2 1 0 5 0]Escuta. É sobre o[n]Primeiro Ministro Shido. As[n]empresas… ligadas a ele…[n][w][e]
 
 [msg MSG_FX_MAN_010_2_0 [Agente carrancudo]]
-[s][f 4 23 1 6 4 10 0 0][vp 8 2 1 0 6 0]Sim, OK, bom para você.[n]Caramba... no final do ano você vê[n]os caras mais estranhos.[n][w][e]
+[s][f 4 23 1 6 4 10 0 0][vp 8 2 1 0 6 0]Sim, Ok, bom para você.[n]Caramba... no final do ano você vê[n]os caras mais estranhos.[n][w][e]
 
 [msg MSG_FX_MAN_011_0_0 [Menino ocupado]]
 [s][f 4 23 1 5 3 10 0 0][vp 8 2 1 0 5 0]Muitas felicidades... celebr-Action![n][w][e]
@@ -635,7 +635,7 @@
 [s][f 4 23 1 3 3 10 0 0][vp 8 2 1 0 3 0]A riqueza de um otaku nunca[n]se esgota, quando ele tem[n]amor verdadeiro por sua empregada![n][w][e]
 
 [msg MSG_TUNDEREMEIDO_012_0_0 [Homem da palavra solta]]
-[s][f 4 23 1 3 3 10 0 0][vp 8 2 1 0 3 0]Shido, Akechi, os Ladrões Fantasmas.[n]são apenas ideias! A prova da[n]minha existência está na empregada![n][w][e]
+[s][f 4 23 1 3 3 10 0 0][vp 8 2 1 0 3 0]Shido, Akechi, os Phantom Thieves.[n]são apenas ideias! A prova da[n]minha existência está na empregada![n][w][e]
 
 [msg MSG_TUNDEREMEIDO_012_1_0 [Linda empregada]]
 [s][f 4 23 1 2 5 10 4 10][vp 8 2 1 0 2 0]O que isso significa? Que se eu não prestar[n]atenção em você, você deixará de existir?[n][w][e]
@@ -715,7 +715,7 @@
 [s][f 4 23 1 10 3 10 0 10][vp 8 2 1 0 10 0]Ahah, muitos estrangeiros dizem isso.[n]Eu vivi aqui por toda a vida, mas[n]acho estranho também.[n][w][e]
 
 [msg MSG_TAXIUNTENSYU_007_2_0 [Turista estrangeiro]]
-[s][f 4 23 1 11 3 10 0 10][vp 8 2 1 0 11 0]Agora eu quero conhecer os... Como vocês os[n]chamam... Ladrões Fantasmas?[n][w][e]
+[s][f 4 23 1 11 3 10 0 10][vp 8 2 1 0 11 0]Agora eu quero conhecer os... Como vocês os[n]chamam... Phantom Thieves?[n][w][e]
 
 [msg MSG_TAXIUNTENSYU_007_3_0 [Taxista]]
 [s][f 4 23 1 10 3 10 0 10][vp 8 2 1 0 10 0]Eu vejo isso difícil. Mas ainda assim,[n]o que você se importa com eles?[n][w][e]
@@ -837,7 +837,7 @@
 [s][f 4 23 1 7 3 10 0 10][vp 8 2 1 0 7 0]Sabe, se continuar com essa[n]história, meu chefe pode fazer[n]um post sobre você no Phan-Site...[n][w][e]
 
 [msg MSG_DATESYOUHO_006_0_0 [Homem sem graça]]
-[s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]Se você pegar os Ladrões Fantasmas e conseguir a[n]recompensa, eu poderia alugá-lo por pelo menos[n]10 anos![n][w][e]
+[s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]Se você pegar os Phantom Thieves e conseguir a[n]recompensa, eu poderia alugá-lo por pelo menos[n]10 anos![n][w][e]
 
 [msg MSG_DATESYOUHO_006_1_0 [Mulher de aparência inocente]]
 [s][f 4 23 1 7 3 10 0 10][vp 8 2 1 0 7 0]Oh Deus, hum... Você não precisa[n]tentar tanto. Além disso,[n]os Phantom Thieves são perigosos...[n][w][e]
@@ -877,7 +877,7 @@
 [s][vp 8 2 1 0 8 0]Mas este é um relacionamento[n]verdadeiro, então você terá que me aceitar[n]por quem eu sou.[n][w][e]
 
 [msg MSG_DATESYOUHO_009_0_0 [Homem sem graça]]
-[s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]Não consegui pegar[n]os Ladrões Fantasmas... Perdi[n]meu emprego e... Não tenho mais dinheiro.[n][w][e]
+[s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]Não consegui pegar[n]os Phantom Thieves... Perdi[n]meu emprego e... Não tenho mais dinheiro.[n][w][e]
 [s][vp 8 2 1 0 8 0]Mas tenho sérias intenções. Não devemos ser[n]influenciados pelo dinheiro. Eu quero que você[n]seja minha namorada de verdade.[n][w][e]
 
 [msg MSG_DATESYOUHO_009_1_0 [Mulher de aparência inocente]]
@@ -1005,7 +1005,7 @@
 [s][vp 8 2 1 0 600 0]Podemos brincar de policial e ladrão![n][w][e]
 
 [msg Quest31_target_02_08 [Yusei Arita]]
-[s][vp 8 2 1 0 601 0]Oh, OK![n][w][e]
+[s][vp 8 2 1 0 601 0]Oh, Ok![n][w][e]
 
 [msg Quest31_target_sinjyo_02]
 [s][vp 8 2 65535 0 0 0]O despertar do coração parece[n]ter funcionado.[n][w][e]
@@ -1104,7 +1104,7 @@
 [msg MSG_F007_001_00_Q78_HINT_7 [Estrela Lilina]]
 [s][f 4 23 1 610 3 10 0 10][vp 8 2 1 0 610 0]OOOK![n][w][e]
 [s][f 4 23 1 610 3 10 0 10][vp 8 2 1 0 610 0]A... YA-SU-SHI... F-U-A-A-nyan...[n]amor! Feito![n][w][e]
-[s][f 4 23 1 610 3 10 0 10][vp 8 2 1 0 610 0]OK, agora eu tenho que ir. Até mais,[n]Fuwa-nyan![n][w][e]
+[s][f 4 23 1 610 3 10 0 10][vp 8 2 1 0 610 0]Ok, agora eu tenho que ir. Até mais,[n]Fuwa-nyan![n][w][e]
 
 [msg MSG_F007_001_00_Q78_HINT_8 [Yasushi Fuwa]]
 [s][f 4 23 1 611 3 10 0 10][vp 8 2 1 0 611 0]Nos veremos![n][w][e]
@@ -1177,7 +1177,7 @@
 
 [sel SEL_F007_001_00_Q76_OTAK top]
 [s]Ficou sem ideias?[e]
-[s]E porque?[e]
+[s]E por quê?[e]
 
 [msg MSG_F007_001_00_Q76_OTAK_3 [Otaku arrogante]]
 [s][vp 8 2 1 0 0 0]No entanto, ele ganhou muito dinheiro,[n]mesmo sem postar muito.[n]Talvez ela tenha ficado preguiçosa? Pode ser...[n][w][e]
@@ -1283,13 +1283,13 @@
 [s][vp 9 2 65535 45104 0 0]Quem sabe o que[n]os Phantom Thieves farão.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_001_04_ [Estrela Lilina]]
-[s][vp 9 2 65535 44306 0 0]Acho que aqueles Ladrões Fantasmas[n]despertarão o coração de[n]Medjed![n][f 1 2 180][e]
+[s][vp 9 2 65535 44306 0 0]Acho que aqueles Phantom Thieves[n]despertarão o coração de[n]Medjed![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_001_05_ [Estrela Lilina]]
 [s][vp 9 2 65535 44155 0 0]A polícia é incompetente.[n]Graças a Deus podemos[n]contar com os Phantom Thieves![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_001_06_ [Estrela Lilina]]
-[s][vp 9 2 65535 41400 0 0]Ladrões fantasmas e hackers...[n]Que desafio espetacular![n][f 1 2 180][e]
+[s][vp 9 2 65535 41400 0 0]Phantom Thieves e hackers...[n]Que desafio espetacular![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_001_07_ [Estrela Lilina]]
 [s][vp 9 2 65535 44954 0 0]Eu só gostaria de saber como[n]os Phantom Thieves planejam[n]livrar-se desses hackers...[n][f 1 2 180][e]
@@ -1301,7 +1301,7 @@
 [s][vp 9 2 65535 38254 0 0]Os Phantom Thieves desencadearão[n]um despertar de seu coração, assim[n]como com todos os outros![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_001_10_ [Estrela Lilina]]
-[s][vp 9 2 65535 44353 0 0]Eles estão enfrentando ciber[n]terroristas. Como esses Ladrões Fantasmas[n]pensam em lidar com isso?[n][f 1 2 180][e]
+[s][vp 9 2 65535 44353 0 0]Eles estão enfrentando ciber[n]terroristas. Como esses Phantom Thieves[n]pensam em lidar com isso?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_001_11_ [Estrela Lilina]]
 [s][vp 9 2 65535 44706 0 0]Esses hackers são todos seus![n]Eliminem-nos, Phantom Thieves![n][f 1 2 180][e]
@@ -1364,7 +1364,7 @@
 [s][vp 9 2 65535 43206 0 0]Eles estão fazendo mais e mais mercadorias[n]Phantom[n]Thieves![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_003_07_ [Estrela Lilina]]
-[s][vp 9 2 65535 39750 0 0]Ninguém pode se opor aos[n]Ladrões Fantasmas![n][f 1 2 180][e]
+[s][vp 9 2 65535 39750 0 0]Ninguém pode se opor aos[n]Phantom Thieves![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_003_08_ [Estrela Lilina]]
 [s][vp 9 2 65535 37556 0 0]Somos muito gratos aos[n]Phantom Thieves![n]Eles salvaram o Japão![n][f 1 2 180][e]
@@ -1466,7 +1466,7 @@
 [s][vp 9 2 65535 44356 0 0]Eu me pergunto se os Phantom Thieves leem?[n]Claro que sim![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_006_01_ [Estrela Lilina]]
-[s][vp 9 2 65535 44301 0 0]O que os Ladrões Fantasmas estão fazendo? Os[n]corruptos devem ser punidos![n][f 1 2 180][e]
+[s][vp 9 2 65535 44301 0 0]O que os Phantom Thieves estão fazendo? Os[n]corruptos devem ser punidos![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_006_02_ [Estrela Lilina]]
 [s][vp 9 2 65535 43757 0 0]Não perca mais tempo,[n]Phantom Thieves. Depressa[n]faça alguma coisa...[n][f 1 2 180][e]
@@ -1517,7 +1517,7 @@
 [s][vp 9 2 65535 41353 0 0]Finalmente recebi uma carta[n]de desafio! Mal posso esperar para[n]vê-lo implorar...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_007_06_ [Estrela Lilina]]
-[s][vp 9 2 65535 38651 0 0]Conto com vocês, Ladrões Fantasmas![n]Não deixem ele fugir com[n]aquele CEO![n][f 1 2 180][e]
+[s][vp 9 2 65535 38651 0 0]Conto com vocês, Phantom Thieves![n]Não deixem ele fugir com[n]aquele CEO![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_007_07_ [Estrela Lilina]]
 [s][vp 9 2 65535 45800 0 0]Eu não esperava outra coisa! Eu sabia que eles[n]caçariam Okumura![n][f 1 2 180][e]
@@ -1634,7 +1634,7 @@
 [s][vp 9 2 65535 40104 0 0]E então eles colocaram uma recompensa[n]pelas cabeças dos Phantom Thieves![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_09_ [Estrela Lilina]]
-[s][vp 9 2 65535 42757 0 0]Eu não me importo com o que você[n]faz, apenas prenda[n]aqueles Ladrões Fantasmas![n][f 1 2 180][e]
+[s][vp 9 2 65535 42757 0 0]Eu não me importo com o que você[n]faz, apenas prenda[n]aqueles Phantom Thieves![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_10_ [Estrela Lilina]]
 [s][vp 9 2 65535 43902 0 0]30 milhões de ienes deve ser[n]a maior recompensa[n]que eles já ofereceram![n][f 1 2 180][e]
@@ -1667,10 +1667,10 @@
 [s][vp 9 2 65535 39401 0 0]Por quanto tempo eles vão deixar[n]os Phantom Thieves vagar[n]sem perturbações!?![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_011_08_ [Estrela Lilina]]
-[s][vp 9 2 65535 44407 0 0]Quando eles vão prender[n]aqueles Ladrões Fantasmas?!?[n][f 1 2 180][e]
+[s][vp 9 2 65535 44407 0 0]Quando eles vão prender[n]aqueles Phantom Thieves?!?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_011_09_ [Estrela Lilina]]
-[s][vp 9 2 65535 42901 0 0]Eles precisam[n]levar a sério a prisão desses[n]Ladrões Fantasmas![n][f 1 2 180][e]
+[s][vp 9 2 65535 42901 0 0]Eles precisam[n]levar a sério a prisão desses[n]Phantom Thieves![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_011_10_ [Estrela Lilina]]
 [s][vp 9 2 65535 42709 0 0]O governo e a polícia[n]são completamente inúteis...[n][f 1 2 180][e]
@@ -1724,13 +1724,13 @@
 [s][vp 9 2 65535 45001 0 0]Não acredito que[n]Phantom Thief cometeu suicídio[n]depois de ser pego.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_013_03_ [Estrela Lilina]]
-[s][vp 9 2 65535 39354 0 0]Aquele Ladrão Fantasma[n]se matou!?![n][f 1 2 180][e]
+[s][vp 9 2 65535 39354 0 0]Aquele Phantom Thief[n]se matou!?![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_013_04_ [Estrela Lilina]]
 [s][vp 9 2 65535 44951 0 0]Cristo, por que cometer suicídio...[n]Ele tinha que manter a calma...E pagar[n]sua dívida com a sociedade.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_013_05_ [Estrela Lilina]]
-[s][vp 9 2 65535 43051 0 0]Aquele Ladrão Fantasma se matou[n]imediatamente após sua prisão?[n]O que há de errado com ele...?[n][f 1 2 180][e]
+[s][vp 9 2 65535 43051 0 0]Aquele Phantom Thief se matou[n]imediatamente após sua prisão?[n]O que há de errado com ele...?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_013_06_ [Estrela Lilina]]
 [s][vp 9 2 65535 44850 0 0]Estou feliz que eles[n]capturaram o líder daqueles[n]Phantom Thieves![n][f 1 2 180][e]
@@ -1739,19 +1739,19 @@
 [s][vp 9 2 65535 44100 0 0]Eles descobriram algo[n]novo sobre as identidades[n]dos Phantom Thieves?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_013_08_ [Estrela Lilina]]
-[s][vp 9 2 65535 44352 0 0]Aquele Ladrão Fantasma[n]se matou, hein? Que maneira[n]ignóbil de partir.[n][f 1 2 180][e]
+[s][vp 9 2 65535 44352 0 0]Aquele Phantom Thief[n]se matou, hein? Que maneira[n]ignóbil de partir.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_013_09_ [Estrela Lilina]]
-[s][vp 9 2 65535 45750 0 0]Se aquele Ladrão Fantasma estiver[n]morto, não haverá mais[n]raptus, certo???[n][f 1 2 180][e]
+[s][vp 9 2 65535 45750 0 0]Se aquele Phantom Thief estiver[n]morto, não haverá mais[n]raptus, certo???[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_013_10_ [Estrela Lilina]]
-[s][vp 9 2 65535 44405 0 0]Eu ouvi no noticiário[n]que aquele Ladrão Fantasma[n]tirou a própria vida...[n][f 1 2 180][e]
+[s][vp 9 2 65535 44405 0 0]Eu ouvi no noticiário[n]que aquele Phantom Thief[n]tirou a própria vida...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_013_11_ [Estrela Lilina]]
 [s][vp 9 2 65535 44169 0 0]Bem, as coisas deveriam[n]melhorar sem os Phantom[n]Thieves por perto.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_013_12_ [Estrela Lilina]]
-[s][vp 9 2 65535 43454 0 0]Eu li online[n]que aquele Ladrão Fantasma[n]cometeu suicídio.[n][f 1 2 180][e]
+[s][vp 9 2 65535 43454 0 0]Eu li online[n]que aquele Phantom Thief[n]cometeu suicídio.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_014_01_ [Estrela Lilina]]
 [s][vp 9 2 65535 44603 0 0]Seja qual for a perspectiva,[n]ninguém pode resistir a[n]Shido![n][f 1 2 180][e]
@@ -1820,7 +1820,7 @@
 [s][vp 9 2 65535 44400 0 0]Até os Phantom Thieves[n]foram enganados por Akechi![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_015_11_ [Estrela Lilina]]
-[s][vp 9 2 65535 37850 0 0]Enganou os[n]Ladrões Fantasmas e os prendeu![n]Louco.[n][f 1 2 180][e]
+[s][vp 9 2 65535 37850 0 0]Enganou os[n]Phantom Thieves e os prendeu![n]Louco.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_015_12_ [Estrela Lilina]]
 [s][vp 9 2 65535 42353 0 0]Akechi-kun é incrível.[n]Ele foi até capaz de[n]enganar os Ladrões.[n][f 1 2 180][e]
@@ -2148,7 +2148,7 @@
 [s][vp 8 2 1 0 80 0]Anf, anf. Eu me empolguei. Por favor,[n]pense novamente.[n][w][e]
 
 [msg MSG_MAOU_CANCEL_LOW [Homem ganancioso]]
-[s][f 4 23 1 80 3 10 0 0][vp 8 2 1 0 80 0]OK, vejo você então.[n][w][e]
+[s][f 4 23 1 80 3 10 0 0][vp 8 2 1 0 80 0]Ok, vejo você então.[n][w][e]
 
 [msg MSG_TRADE_DORAGON [Homem ganancioso]]
 [s][f 4 23 1 80 3 10 0 0][vp 8 2 1 0 80 0]Uau, isso é Kin-Ki![n]É realmente brilhante![n]É muito raro.[n][w][e]

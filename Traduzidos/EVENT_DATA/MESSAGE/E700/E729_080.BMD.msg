@@ -125,7 +125,7 @@
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 101 5 300 1][vp 8 2 0 12044 65535 0]Megidolaos...[n][f 1 3 65535][w][e]
 
 [msg MSG_038_0_0 [Caroline]]
-[s][bup 0 102 4 0 0][f 4 10 65535 0 0][vp 8 2 0 11042 65535 0]OK, tudo bem, tudo bem! Sinto muito! Eu não farei[n]isso novamente! O tempo acabou! Terminamos![n][f 1 3 65535][w][e]
+[s][bup 0 102 4 0 0][f 4 10 65535 0 0][vp 8 2 0 11042 65535 0]Ok, tudo bem, tudo bem! Sinto muito! Eu não farei[n]isso novamente! O tempo acabou! Terminamos![n][f 1 3 65535][w][e]
 
 [msg MSG_039_0_0 [Caroline]]
 [s][bup 0 102 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Por mais estranho que pareça,[n]sinto-me revigorado.[n][f 1 3 65535][w][e]

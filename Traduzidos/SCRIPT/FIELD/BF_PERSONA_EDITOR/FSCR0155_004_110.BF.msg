@@ -24,7 +24,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Bem, não há pressa. Se[n]precisarmos, podemos sempre voltar[n]depois de explorarmos um pouco mais.[n][w][e]
 
 [msg MSG_e296_325_AF01_000 [Yusuke]]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]OK, vamos lá. Aparentemente[n]ele também tem[n]uma joia brilhante.[n][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ok, vamos lá. Aparentemente[n]ele também tem[n]uma joia brilhante.[n][w][e]
 
 [msg MSG_e296_325_AF01_001 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]O que está incomodando você?[n]Então você quer[n]pegar a joia?[n][w][e]

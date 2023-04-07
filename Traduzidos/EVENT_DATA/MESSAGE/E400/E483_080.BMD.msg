@@ -51,7 +51,7 @@
 
 [msg MSG_016_0_0 [Ryuji]]
 [s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Droga...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]OK, vou fazer papel de bobo[n]fazendo alguns comentários embaraçosos para[n]eles não poderem usar o filme.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]Ok, vou fazer papel de bobo[n]fazendo alguns comentários embaraçosos para[n]eles não poderem usar o filme.[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Apresentador]]
 [s][vp 8 0 0 21 9 0]Saudações! Dia quente, hein?[n][f 1 3 65535][w][e]

@@ -1,8 +1,8 @@
 [msg MSG_000_0_0 [Detetive policial]]
-[s][vp 8 0 0 1 65535 0]Onde está o corpo do Ladrão Fantasma?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 1 65535 0]Onde está o corpo do Phantom Thief?[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Sae]]
-[s][bup 0 105 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Ladrão fantasma? Corpo?[n][f 1 3 65535][w][e]
+[s][bup 0 105 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Phantom Thief? Corpo?[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Detetive policial]]
 [s][vp 8 0 0 3 65535 0]Não há tempo para jogos![n][f 1 3 65535][w][e]
@@ -34,7 +34,7 @@
 [s][bup 0 105 5 65535 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]O que eu fiz?[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Detetive policial]]
-[s][vp 8 0 0 10 65535 0]O Ladrão Fantasma![n]Ele ainda está vivo![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 10 65535 0]O Phantom Thief![n]Ele ainda está vivo![n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Detetives iniciantes]]
 [s][vp 8 0 0 11 6 0]Mesmo assim, como ele[n]escapou da delegacia?[n][f 1 3 65535][w][e]
@@ -58,7 +58,7 @@
 [s][bup 0 105 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Me desculpe, mas eu realmente não tenho ideia do[n]que está acontecendo...[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Detetive policial]]
-[s][vp 8 0 0 20 65535 0]Ela é a última pessoa a[n]falar com o Ladrão Fantasma![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 20 65535 0]Ela é a última pessoa a[n]falar com o Phantom Thief![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 21 65535 0]Ele tem que consertar essa bagunça! Se[n]você quiser descontar em alguém,[n]faça isso no seu falecido diretor![n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Sae]]

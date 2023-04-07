@@ -8,5 +8,5 @@
 [s][bup 0 4 104 65535 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]E agora o que acontece?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Morgana]]
-[s][bup 0 3 4 0 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]Ah Merda...! Ruim, péssimo, péssimo![n]Correteeeee![n][f 1 2 100][e]
+[s][bup 0 3 4 0 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]Ah Merda...! Isso é ruim, péssimo, péssimo![n]Correeeeeee![n][f 1 2 100][e]
 

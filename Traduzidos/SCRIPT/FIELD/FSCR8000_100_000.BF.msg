@@ -175,7 +175,7 @@
 [msg DRESSTALK_JERSEY_PC01_PC_2 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Aposto que com isso eu me mexeria muito bem![n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Você está de terno, hein? Pode[n]provou ser confortável para lutar![n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Claro, não é o melhor visual para um Ladrão[n]Fantasma...[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Claro, não é o melhor visual para um Phantom[n]Thief...[n][w][e]
 
 [msg DRESSTALK_JERSEY_PC01_PC_3 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Oi Joker? Você colocou[n]o agasalho?[n][w][e]
@@ -217,7 +217,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Oh, Joker, você está com seu traje de banho![n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Boa ideia! É possível que[n]aconteçamos de nadar em Palácios[n]ou Mementos.[n][w][e]
 [s]......[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Mas eu digo, por que você colocou a[n]fantasia!?! Um Ladrão Fantasma[n]nunca ficaria assim![n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Mas eu digo, por que você colocou a[n]fantasia!?! Um Phantom Thief[n]nunca ficaria assim![n][w][e]
 
 [msg DRESSTALK_SWIM_PC01_PC04 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ei, Joker. Esse é o seu maiô, certo?[n][w][e]
@@ -538,7 +538,7 @@
 [msg DRESSTALK_KARUKOZAKA_PC0_2 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Uau! Que fones de ouvido espetaculares, Joker![n][w][e]
 [s]Eu gosto das cores vivas, elas combinam com você![n]Hum... então é o uniforme do colégio Karukozaka?[n][w][e]
-[s]Duvido, porém, que você possa se chamar de Ladrão[n]Fantasma vestido assim. Lembre-se disso, Joker.[n][w][e]
+[s]Duvido, porém, que você possa se chamar de Phantom[n]Thief vestido assim. Lembre-se disso, Joker.[n][w][e]
 
 [msg DRESSTALK_KARUKOZAKA_PC0_3 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Nossa, Joker! Quão completo![n][w][e]
@@ -672,7 +672,7 @@
 
 [msg DRESSTALK_DANCE_PC01_PC0_2 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Uau! Que lindo vestido de baile![n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Combina com você, Joker! E mantém o visual do[n]Ladrão Fantasma![n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Combina com você, Joker! E mantém o visual do[n]Phantom Thief![n][w][e]
 
 [msg DRESSTALK_DANCE_PC01_PC0_3 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Você se veste assim para dançar?[n][w][e]
@@ -801,7 +801,7 @@
 [msg DRESSTALK_RAIDOU_PC01_PC_2 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vejo que você mudou, Joker.[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Parece que é de uma época passada, mas[n]combina com você! Você parece um estudante[n]e um detetive![n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Você parece um Ladrão Fantasma com[n]aquela capa... Você não teria[n]uma para mim também?[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Você parece um Phantom Thief com[n]aquela capa... Você não teria[n]uma para mim também?[n][w][e]
 
 [msg DRESSTALK_RAIDOU_PC01_PC_3 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]O-oh. Você mudou, Joker.[n][w][e]
@@ -963,7 +963,7 @@
 
 [msg DRESSTALK_FEATHERMAN_PC0_2 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Uau. Belo terno, Joker![n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Com isso você parece mais um herói do que um[n]Ladrão Fantasma, mas é tão legal que não importa![n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Com isso você parece mais um herói do que um[n]Phantom Thief, mas é tão legal que não importa![n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Justiça e estilo são[n]um![n][w][e]
 
 [msg DRESSTALK_FEATHERMAN_PC0_3 [Ann]]
@@ -1246,7 +1246,7 @@
 
 [msg DRESSTALK_P5Dance_PC02 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ei, Joker, confira[n]meu visual de dançarina.[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]O que você acha da bandana?[n]Eu tenho aquela com a caveira.[n]Porque eu sou Skull, "skull"...[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]O que você acha da bandana?[n]Eu tenho aquela com a caveira.[n]Porque eu sou Skull, "Skull"...[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Nada mal, hein?[n][w][e]
 
 [msg DRESSTALK_P3Dance_PC02 [Ryuji]]
@@ -1340,13 +1340,13 @@
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Você está brincando!?! Este é apenas um boneco de[n]neve! Por que não tenho uma roupa de Papai Noel[n]também?!?[n][w][e]
 
 [msg DRESSTALK_DANCE_PC03 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Escute aqui! Ei! Eu sou Morgana, a Ladra[n]Brilhante![n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Escute aqui! Ei! Eu sou Morgana, o Ladrão[n]Brilhante![n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]My Shadow hip hop tem um efeito letal![n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos, Joker! Por que você não[n]dança no meu fluxo?[n][w][e]
 
 [msg DRESSTALK_SHADOW_W_PC03 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Olhar! É o uniforme do[n]Shadow Agent![n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Nada mal, hein, Joker?[n]Eu ainda pareço um Ladrão[n]Fantasma vestido assim![n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Nada mal, hein, Joker?[n]Eu ainda pareço um Phantom[n]Thief vestido assim![n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Quase me dá vontade de gritar:[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Morgana! Transformação![n][w][e]
 

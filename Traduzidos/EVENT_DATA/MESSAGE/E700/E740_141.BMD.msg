@@ -22,7 +22,7 @@
 [s][bup 0 8 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E tudo bem, significa que[n]vou ter que me contentar em assistir.[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Futaba]]
-[s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]OK, então...[n][f 1 3 65535][w][e]
+[s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ok, então...[n][f 1 3 65535][w][e]
 
 [msg MSG_006_1_0 [Futaba]]
 [s][bup 0 8 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 9029 65535 0]Um momento![n][f 1 3 65535][w][e]

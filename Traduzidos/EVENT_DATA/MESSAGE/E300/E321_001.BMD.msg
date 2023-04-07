@@ -33,7 +33,7 @@
 
 [msg MSG_010_0_0 [Locutor]]
 [s][vp 8 0 0 11 65535 0]Dobrou desde o ano passado!?![n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Parece haver uma alta demanda por[n]mercadoria dos Ladrões Fantasmas.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Parece haver uma alta demanda por[n]mercadoria dos Phantom Thieves.[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Futaba]]
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Eu não sabia que eles vendiam[n]coisas assim.[n][f 1 3 65535][w][e]

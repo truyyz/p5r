@@ -194,7 +194,7 @@
 [s]Um segundo...[e]
 
 [msg D10_11_EX3BOSS_selA_2_01 [[f 4 31 10 0]]]
-[s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 57123 65535 0]OK, vamos encerrar por enquanto.[n][w][e]
+[s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 57123 65535 0]Ok, vamos encerrar por enquanto.[n][w][e]
 
 [msg D10_11_EX3BOSS_before_ba [Guarda sombra]]
 [s]Umpf! Aqui estão os loucos que[n]recusaram a generosa[n]realidade de seu mestre...[n][w][e]
@@ -244,7 +244,7 @@
 [s]Ainda não.[e]
 
 [msg D10_11_Boss03_Confirmati_4 [Futaba]]
-[s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9023 65535 0]OK! Que todos ocupem seus lugares antes de entrar![n][w][e]
+[s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9023 65535 0]Ok! Que todos ocupem seus lugares antes de entrar![n][w][e]
 
 [msg D10_11_Boss03_mes_start [Guarda sombra]]
 [s]Vocês!? Não acredito que você[n]chegou tão longe![n][w][e]
@@ -266,7 +266,7 @@
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Não deveríamos ir nessa direção?[n][w][e]
 
 [msg D10_11_This_is_Ishi_Rout_3 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1170 65535 0]Mas lá embaixo eu sinto uma Semente de ganância.[n]Que tipo de ladrões fantasmas seríamos se[n]ignorássemos isso?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1170 65535 0]Mas lá embaixo eu sinto uma Semente de ganância.[n]Que tipo de Phantom Thieves seríamos se[n]ignorássemos isso?[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Pode ser uma boa ideia[n]explorar a área se[n]tivermos a chance.[n][w][e]
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Mas tudo depende de você, Joker.[n][w][e]
 

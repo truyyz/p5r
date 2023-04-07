@@ -25,5 +25,5 @@
 [s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Oh! Já que estamos aqui,[n]oremos! Não vai doer, vai?[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Kasumi]]
-[s][vp 8 2 0 57070 65535 0]OK, são duas reverências, duas palmas[n]e então... uhm... Como foi?[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 57070 65535 0]Ok, são duas reverências, duas palmas[n]e então... uhm... Como foi?[n][f 1 3 65535][w][e]
 

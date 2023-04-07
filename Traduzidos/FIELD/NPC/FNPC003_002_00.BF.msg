@@ -297,7 +297,7 @@
 
 [sel SEL_JYORENKYAKU_012_0_0 top]
 [s]Ele está procurando por isso.[e]
-[s]Porque?[e]
+[s]Por quê?[e]
 
 [msg MSG_JYORENKYAKU_012_1_0 [Cliente arrogante]]
 [s][f 4 23 1 0 3 10 0 0][vp 8 2 1 0 0 0]Este é apenas o seu palpite.[n]Alguém está mentindo,[n]aproveitando-se da confusão.[n][w][e]
@@ -372,7 +372,7 @@
 
 [sel SEL_JYORENKYAKU_016_0_0 top]
 [s]Você quer dizer as eleições?[e]
-[s]Você está falando sobre os ladrões fantasmas?[n][e]
+[s]Você está falando sobre os Phantom Thieves?[n][e]
 [s]Seguindo com a vida.[e]
 
 [msg MSG_JYORENKYAKU_016_1_0 [Cliente arrogante]]
@@ -427,7 +427,7 @@
 [s][vp 8 2 1 0 0 0]Um poeta escreveu "Se o inverno chegar,[n]a primavera pode estar longe?".[n]Bem, minha primavera está adiantada![n][w][e]
 
 [msg MSG_JYORENKYAKU_019_0_0 [Cliente arrogante]]
-[s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Em retrospecto, percebo[n]o quanto fui levado por[n]ladrões fantasmas.[n][w][e]
+[s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Em retrospecto, percebo[n]o quanto fui levado por[n]Phantom Thieves.[n][w][e]
 [s][vp 8 2 1 0 0 0]Agora eles dizem que nem eram reais. O que você[n]acha disso?[n][w][e]
 
 [sel SEL_JYORENKYAKU_019_1_0 top]
@@ -479,7 +479,7 @@
 [s]Essas cartas de desafio são[n]ridículas. Uma piada de mau gosto de[n]alguém em busca de notoriedade.[n][f 1 2 180][e]
 
 [msg MSG_TVNEWS_grt_002_0_2]
-[s]A polícia está investigando[n]possíveis ligações entre o incidente e[n]os "Ladrões Fantasmas", mas...[n][f 1 2 180][e]
+[s]A polícia está investigando[n]possíveis ligações entre o incidente e[n]os "Phantom Thieves", mas...[n][f 1 2 180][e]
 
 [msg MSG_TVNEWS_grt_003_0_0]
 [s]A tendência dos Phantom Thieves[n]explodiu na rede, para então[n]canibalizar a opinião pública.[n][f 1 2 180][e]
@@ -533,7 +533,7 @@
 [s]Uma mensagem suspeita, endereçada[n]ao Sr. Madarame, foi[n]entregue em sua exposição...[n][f 1 2 180][e]
 
 [msg MSG_TVNEWS_jiji_grt_004__4]
-[s]Fomos informados de que a nota foi enviada por um[n]grupo que se autodenomina "Ladrões Fantasmas"...[n][f 1 2 180][e]
+[s]Fomos informados de que a nota foi enviada por um[n]grupo que se autodenomina "Phantom Thieves"...[n][f 1 2 180][e]
 
 [msg MSG_TVNEWS_jiji_grt_004__5]
 [s]Esta confissão surpreendente é[n]semelhante à que ocorreu com[n]Sr. Kamoshida...[n][f 1 2 180][e]
@@ -569,7 +569,7 @@
 [s][n]Divulgações de dados que se acredita serem obra[n]de Medjed continuam a ocorrer...[n][f 1 2 180][e]
 
 [msg MSG_TVNEWS_jiji_grt_007__3]
-[s]Eles mencionaram especificamente os Ladrões[n]Fantasmas, então ficaremos de olho nos dois[n]grupos...[n][f 1 2 180][e]
+[s]Eles mencionaram especificamente os Phantom[n]Thieves, então ficaremos de olho nos dois[n]grupos...[n][f 1 2 180][e]
 
 [msg MSG_TVNEWS_jiji_grt_008_]
 [s]As empresas estão preocupadas[n]com as consequências das divulgações ilegais[n]causadas pela Medjed.[n][f 1 2 180][e]
@@ -632,7 +632,7 @@
 [s][f 4 23 1 9 14 10 13 10][vp 8 2 1 0 9 0]...Como eu te disse, as pessoas estão revoltadas[n]contra esse grupo de hackers que ameaçam o país.[n][w][e]
 
 [msg MSG_RUBURAN_CUSTOM01_003_2 [Cliente Idosa]]
-[s][f 4 23 1 10 14 10 13 10][vp 8 2 1 0 10 0]Ah OK, então eles são terroristas.[n]O que[n]esses hackers vão fazer com isso?[n][w][e]
+[s][f 4 23 1 10 14 10 13 10][vp 8 2 1 0 10 0]Ah Ok, então eles são terroristas.[n]O que[n]esses hackers vão fazer com isso?[n][w][e]
 
 [msg MSG_RUBURAN_CUSTOM01_003_3 [Cliente inadimplente]]
 [s][f 4 23 1 9 14 10 13 10][vp 8 2 1 0 9 0]Eles são... Oh, você sabe. Eles estão[n]planejando fazer[n]coisas muito ruins.[n][w][e]
@@ -759,7 +759,7 @@
 [s][f 4 23 1 14 14 10 13 10][vp 8 2 1 0 14 0]Haha! Você brincou pelas costas dele? Cuidado,[n]ladrões Fantasmas vão mirar em você![n][w][e]
 
 [msg MSG_RUBURAN_CUSTOM02_004_4 [Funcionário de meia-idade]]
-[s][f 4 23 1 13 14 10 13 10][vp 8 2 1 0 13 0]Não, idiota. Eu estava apenas bebendo com[n]colegas. Você sempre tem que trazer[n]aqueles ladrões fantasmas?[n][w][e]
+[s][f 4 23 1 13 14 10 13 10][vp 8 2 1 0 13 0]Não, idiota. Eu estava apenas bebendo com[n]colegas. Você sempre tem que trazer[n]aqueles Phantom Thieves?[n][w][e]
 
 [msg MSG_RUBURAN_CUSTOM02_005 [Escriturário de óculos]]
 [s][f 4 23 1 14 14 10 13 10][vp 8 2 1 0 14 0]Então, em quem você vai votar?[n][w][e]
@@ -774,7 +774,7 @@
 [s][f 4 23 1 13 14 10 13 10][vp 8 2 1 0 13 0]Eu acho que tem potencial.[n]No mínimo, é melhor do que[n]os que estão por aí agora.[n][w][e]
 
 [msg MSG_RUBURAN_CUSTOM02_006 [Escriturário de óculos]]
-[s][f 4 23 1 14 14 10 13 10][vp 8 2 1 0 14 0]Aquele Ladrão Fantasma ainda está vivo?[n]Então a polícia realmente mentiu[n]sobre isso?[n][w][e]
+[s][f 4 23 1 14 14 10 13 10][vp 8 2 1 0 14 0]Aquele Phantom Thief ainda está vivo?[n]Então a polícia realmente mentiu[n]sobre isso?[n][w][e]
 
 [msg MSG_RUBURAN_CUSTOM02_006_2 [Funcionário de meia-idade]]
 [s][f 4 23 1 13 14 10 13 10][vp 8 2 1 0 13 0]Bem, seja como for, deve eram seus cúmplices para[n]ajudá-lo com a polícia.[n][w][e]
@@ -1028,7 +1028,7 @@
 [s][f 4 23 1 13 14 10 13 10][vp 8 2 1 0 13 0]Eu estava pensando... E se os[n]Phantom Thieves estiverem usando um café[n]como este como ponto de encontro?[n][w][e]
 
 [msg MSG_CHUUNENSARARIIMAN_01_15 [Escriturário de óculos]]
-[s][f 4 23 1 14 14 10 13 10][vp 8 2 1 0 14 0]Os ladrões fantasmas? Eles são coisas velhas![n]Falar sobre isso também corre o risco de que[n]eles zombem de você.[n][w][e]
+[s][f 4 23 1 14 14 10 13 10][vp 8 2 1 0 14 0]Os Phantom Thieves? Eles são coisas velhas![n]Falar sobre isso também corre o risco de que[n]eles zombem de você.[n][w][e]
 
 [msg MSG_WAKAI_SYAIN_GET_BACK [Jovem empresário]]
 [s][f 4 23 1 11 14 10 13 10][vp 8 2 1 0 11 0]Obrigada. O curry[n]estava delicioso.[n][w][e]
@@ -1129,7 +1129,7 @@
 [s][f 4 23 1 11 14 10 13 10][vp 8 2 1 0 11 0]Ah, a festa de Masayoshi Shido.[n]Sim, ele é muito promissor.[n][w][e]
 
 [msg MSG_RUBURAN_CUSTOM03_007 [Jovem empresário]]
-[s][f 4 23 1 11 14 10 13 10][vp 8 2 1 0 11 0]O que aconteceu com os ladrões fantasmas? Não[n]não havia mais notícias sobre isso.[n][w][e]
+[s][f 4 23 1 11 14 10 13 10][vp 8 2 1 0 11 0]O que aconteceu com os Phantom Thieves? Não[n]não havia mais notícias sobre isso.[n][w][e]
 
 [msg MSG_RUBURAN_CUSTOM03_007_2 [Funcionário diligente]]
 [s][f 4 23 1 12 14 10 13 10][vp 8 2 1 0 12 0]Quem sabe? Talvez tenha sido[n]uma falha. Ou talvez, como[n]alguns dizem, uma piada.[n][w][e]

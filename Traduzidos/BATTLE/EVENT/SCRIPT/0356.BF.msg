@@ -1,5 +1,5 @@
 [msg MSG_CINDERELLA_B02_ENTRY [Futaba]]
-[s][bup 0 8 602 65535 0][vp 8 0 2 1001 0 8][f 4 10 65535 0 0]OK pessoal, deixe-me guiá-lo![n][f 1 3 65535][w][e]
+[s][bup 0 8 602 65535 0][vp 8 0 2 1001 0 8][f 4 10 65535 0 0]Ok pessoal, deixe-me guiá-lo![n][f 1 3 65535][w][e]
 [s][vp 8 0 2 1002 0 8][f 4 10 65535 0 0]Rejeite-os![n][f 1 3 65535][w][e]
 
 [msg MSG_CINDERELLA_B02_ENTRY_2 [Maruki]]

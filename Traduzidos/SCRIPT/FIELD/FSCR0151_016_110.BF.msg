@@ -2,7 +2,7 @@
 [s][bup 0 2 3 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 1 0 0]Inferno, este lugar é[n]assustador como sempre ...[n][w][e]
 
 [msg D01_02_e129_020_mes02 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 2 0 0]Mm-hm. Agora, faça exatamente como eu digo, OK?[n][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 2 0 0]Mm-hm. Agora, faça exatamente como eu digo, Ok?[n][w][e]
 
 [msg D01_02_e129_020_mes03 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 3 0 0]...Me siga![n][w][e]

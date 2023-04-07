@@ -58,7 +58,7 @@
 
 [sel SEL_016_0_0 top]
 [s]Eles são feitos à mão?[e]
-[s]Obrigada.[e]
+[s]Obrigado.[e]
 [s]Eu estou tocado.[e]
 
 [msg MSG_017_0_0 [Sumire]]

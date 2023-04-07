@@ -81,7 +81,7 @@
 [s][bup 0 10 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 28 65535 0]Você continua vindo em meu socorro, hein?[n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Kasumi]]
-[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 29 65535 0]OK! Pare de pensar nisso![n][f 1 3 65535][w][e]
+[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 29 65535 0]Ok! Pare de pensar nisso![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 30 65535 0]Há ainda outra corrida[n]este ano. Vou começar do zero,[n]treinando mais do que nunca.[n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Kasumi]]

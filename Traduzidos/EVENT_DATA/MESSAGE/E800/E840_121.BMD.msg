@@ -126,5 +126,5 @@
 [s][vp 8 0 0 0 65535 0]Sinto que em breve meu vínculo[n]com Iwai se fortalecerá...[n][f 1 3 65535][w][e]
 
 [msg MSG_039_0_0 [Iwai]]
-[s][vp 8 2 0 13054 65535 0]Obrigado pela ajuda.[n]OK... Vejo vocês.[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 13054 65535 0]Obrigado pela ajuda.[n]Ok... Vejo vocês.[n][f 1 3 65535][w][e]
 

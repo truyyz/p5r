@@ -160,7 +160,7 @@
 [s]Eu irei aí, limpar[n]seu quarto e esperar por mim.[n][w][e]
 
 [msg MSG_KAWAKAMI_K_YES_RANK2 [Kawakami]]
-[s][bup 0 109 0 65535 1]OK! Obrigado por me solicitar.[n][w][e]
+[s][bup 0 109 0 65535 1]Ok! Obrigado por me solicitar.[n][w][e]
 [s]Espero que esteja com fome, Mestre![n][w][e]
 
 [msg MSG_KAWAKAMI_K_YES_RANK3 [Kawakami]]
@@ -170,14 +170,14 @@
 [s][bup 0 109 0 65535 1]Sério?!? Você deve realmente[n]precisar de ajuda...[n][w][e]
 
 [msg MSG_KAWAKAMI_K_YES_RANK5 [Kawakami]]
-[s][bup 0 109 0 65535 1]OK! Obrigado por me solicitar.[n][w][e]
+[s][bup 0 109 0 65535 1]Ok! Obrigado por me solicitar.[n][w][e]
 [s]Eu estarei aí, então[n]limpe sua mesa[n]e espere por mim.[n][w][e]
 
 [msg MSG_KAWAKAMI_K_YES_RANK6 [Enfermeira]]
-[s]OK. Você sabe onde fica o hospital?[n]O número do quarto é...[n][w][e]
+[s]Ok. Você sabe onde fica o hospital?[n]O número do quarto é...[n][w][e]
 
 [msg MSG_KAWAKAMI_K_YES_RANK7 [Kawakami]]
-[s][bup 0 109 0 65535 1]OK! Obrigado por me solicitar.[n][w][e]
+[s][bup 0 109 0 65535 1]Ok! Obrigado por me solicitar.[n][w][e]
 [s]Estarei aí em breve.[n]Pegue sua caneta e papel[n]e espere por mim.[n][w][e]
 
 [msg MSG_KAWAKAMI_K_YES_RANK8 [Kawakami]]
@@ -273,7 +273,7 @@
 [s]Tudo bem. Hoje[n]farei apenas a limpeza.[n][w][e]
 
 [msg MND_COOP_DOUZOKUSEI]
-[s]Eu deveria ser capaz de fortalecer[n]nosso vínculo, já que tenho [clr 1][var 5][clr 27][n]do arcano [var 2]...[n][w][e]
+[s]Eu deveria ser capaz de fortalecer[n]nosso vínculo, já que tenho [clr 1][var 5][clr 27][n]da Arcana [var 2]...[n][w][e]
 
 [msg MSG_COOP_ABI_MORGANA [Morgana]]
 [s][bup 0 3 0 0 0][vp 8 2 1 1084 65535 0]Ao fortalecer seu vínculo com Kawakami,[n]você poderá aproveitar melhor o tempo[n]que passa na escola e em casa.[n][w][e]
@@ -282,7 +282,7 @@
 [s][bup 0 3 0 0 0]Hoje tenho a sensação de que algo especial pode[n]acontecer.[n][w][e]
 
 [msg HELP_COOP_BONUS]
-[s]Aumenta o nível de confiança de[n]Kawakami para bônus na criação de[n]Pessoas do Arcano: Temperança.[n][w][e]
+[s]Aumenta o nível de confiança de[n]Kawakami para bônus na criação de[n]Personas da Arcana: Temperança.[n][w][e]
 
 [msg MSG_MONEY_NG_MORGANA [Morgana]]
 [s][bup 0 3 0 0 0]Ei... você só tem [var 1] ienes.[n][w][e]
@@ -306,7 +306,7 @@
 
 [msg MSG_KAWAKAMI_MASSAGE [Kawakami]]
 [s][bup 0 109 0 65535 1]Oh, você está realmente me pedindo uma[n]massagem...?[n][w][e]
-[s]OK, eu estarei lá. Espere por mim.[n][w][e]
+[s]Ok, eu estarei lá. Espere por mim.[n][w][e]
 
 [msg MND_NOT_MASSAGE]
 [s]Eu vou passar por agora.[n][w][e]

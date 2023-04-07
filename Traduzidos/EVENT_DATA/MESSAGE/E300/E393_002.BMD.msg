@@ -48,5 +48,5 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Sim...[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]OK. Vamos todos atualizar.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Ok. Vamos todos atualizar.[n][f 1 3 65535][w][e]
 

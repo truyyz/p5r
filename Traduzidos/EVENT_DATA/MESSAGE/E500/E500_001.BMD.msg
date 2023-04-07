@@ -123,7 +123,7 @@
 [msg MSG_029_0_0 [Caroline]]
 [s][bup 0 102 2 0 0][f 4 10 65535 0 0][vp 8 0 0 51 65535 0]Você entende o que vai acontecer[n]neste teste, certo?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 52 65535 0]É um sinal de nossa estima por você[n]para. Considere isso uma honra![n]Você deveria chorar lágrimas de alegria![n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 53 65535 0]OK... vamos começar![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 53 65535 0]Ok... vamos começar![n][f 1 3 65535][w][e]
 
 [sel SEL_030_0_0 top]
 [s]Nós lutamos.[e]

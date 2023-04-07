@@ -38,7 +38,7 @@
 
 [sel SEL_016_0_0 top]
 [s]Você é extraordinário.[e]
-[s]Obrigada.[e]
+[s]Obrigado.[e]
 
 [msg MSG_017_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Tive a oportunidade[n]de servir a humanos[n]a quem muito admiro...[n][f 1 3 65535][w][e]

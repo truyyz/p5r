@@ -28,7 +28,7 @@
 [s]Eu diria que não.[e]
 
 [msg D07_02_e411_075_selA_0_m [Ann]]
-[s][bup 0 4 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6117 65535 0]OK vamos fazê-lo![n][w][e]
+[s][bup 0 4 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6117 65535 0]Ok vamos fazê-lo![n][w][e]
 
 [msg D07_02_e411_075_selA_1_m [Ann]]
 [s][bup 0 4 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6166 65535 0]Hã, sério? Então... você quer[n]encontrar outra maneira de entrar?[n][w][e]

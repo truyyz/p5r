@@ -17,7 +17,7 @@
 [s][bup 0 8 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Oooh, claro que sim! Eu não[n]pensei que iria encontrá-lo escondido aqui.[n][w][e]
 
 [msg D157_009_miniEV_04_mes03 [Futaba]]
-[s][bup 0 8 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9196 65535 0]OK, acabei de[n]desabilitá-lo.[n][w][e]
+[s][bup 0 8 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9196 65535 0]Ok, acabei de[n]desabilitá-lo.[n][w][e]
 
 [msg D157_009_miniEV_04_mes04 [Ann]]
 [s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Agora só precisamos encontrar[n]o [clr 2]painel verde[clr 27]. Vamos![n][w][e]

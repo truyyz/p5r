@@ -34,7 +34,7 @@
 
 [msg MSG_009_0_0 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Fico feliz em ouvir isso de você.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]OK, você está pronto?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Ok, você está pronto?[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Haru]]
 [s][bup 0 7 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Hã?[n][f 1 3 65535][w][e]

@@ -248,7 +248,7 @@
 [s][bup 0 104 0 0 0][f 4 10 65535 0 0][f 4 23 1 212 49 10 40 10][vp 8 2 1 0 65535 0]Nesse caso, você poderá trabalhar para[n]a loja. Um amante de armas[n]como você, com certeza vai se divertir.[n][w][e]
 
 [msg MSG_C12_COOP_10_00 [Iwai]]
-[s][bup 0 104 0 0 0][f 4 10 65535 0 0][f 4 23 1 212 49 10 40 10][vp 8 2 1 0 65535 0]OK, que tal algum trabalho[n]na loja?[n][w][e]
+[s][bup 0 104 0 0 0][f 4 10 65535 0 0][f 4 23 1 212 49 10 40 10][vp 8 2 1 0 65535 0]Ok, que tal algum trabalho[n]na loja?[n][w][e]
 
 [msg MSG_C12_SPOT_01_00 [Iwai]]
 [s][bup 0 104 0 0 0][f 4 10 65535 0 0][f 4 23 1 212 49 10 40 10][vp 8 2 1 13021 65535 0]Eu tenho que encontrar um lugar não tão lotado.[n]Esta área está sob observação...[n][w][e]
@@ -273,7 +273,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Não se preocupe, não é[n]difícil. Tenho certeza que você não[n]terá problemas.[n][w][e]
 
 [msg MSG_C12_COOP_02_00 [Iwai]]
-[s][bup 0 104 1 0 0][f 4 10 65535 0 0][f 4 23 1 212 49 10 40 10][vp 8 2 1 0 65535 0]OK, agora vou contar algumas[n]coisas sobre a loja.[n][w][e]
+[s][bup 0 104 1 0 0][f 4 10 65535 0 0][f 4 23 1 212 49 10 40 10][vp 8 2 1 0 65535 0]Ok, agora vou contar algumas[n]coisas sobre a loja.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Para um amante de armas como[n]você, será muito simples, você verá.[n][w][e]
 
 [msg MND_C12_COOP_02_01]
@@ -373,7 +373,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu tenho outras coisas para[n]cuidar, então eu confio[n]em você, garoto.[n][w][e]
 
 [msg MSG_C12_YES_04_00 [Iwai]]
-[s][bup 0 104 1 0 0][f 4 10 65535 0 0][f 4 23 1 212 49 10 40 10][vp 8 2 1 13086 65535 0]OK. Comece a trabalhar, seu pequeno entusiasta de[n]armas.[n][w][e]
+[s][bup 0 104 1 0 0][f 4 10 65535 0 0][f 4 23 1 212 49 10 40 10][vp 8 2 1 13086 65535 0]Ok. Comece a trabalhar, seu pequeno entusiasta de[n]armas.[n][w][e]
 
 [msg MSG_C12_YES_05_00 [Iwai]]
 [s][bup 0 104 0 0 0][f 4 10 65535 0 0][f 4 23 1 212 49 10 40 10][vp 8 2 1 13086 65535 0]A pessoa que você tem que escoltar…[n]é Kaoru. Jantar com ele naquele restaurante[n]em Shibuya.[n][w][e]
@@ -381,7 +381,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Vou acompanhá-lo quando[n]terminar. Nós nos veremos.[n][w][e]
 
 [msg MSG_C12_YES_06_00 [Iwai]]
-[s][bup 0 104 0 0 0][f 4 10 65535 0 0][f 4 23 1 212 49 10 40 10][vp 8 2 1 13086 65535 0]OK, venha para trás.[n][w][e]
+[s][bup 0 104 0 0 0][f 4 10 65535 0 0][f 4 23 1 212 49 10 40 10][vp 8 2 1 13086 65535 0]Ok, venha para trás.[n][w][e]
 
 [msg MSG_C12_YES_07_00 [Iwai]]
 [s][bup 0 104 3 0 0][f 4 10 65535 0 0][f 4 23 1 212 49 10 40 10][vp 8 2 1 13032 65535 0]Sério? Eu que agradeço.[n][w][e]
@@ -444,7 +444,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Brincadeira, brincadeira. Mas sim,[n]vamos ver. Eu ofereço.[n][w][e]
 
 [msg MSG_C12_YES_00_00 [Iwai]]
-[s][bup 0 104 0 0 0][f 4 10 65535 0 0][f 4 23 1 212 49 10 40 10][vp 8 2 1 13086 65535 0]OK, vá entregar uma sacola para Kaoru.[n][w][e]
+[s][bup 0 104 0 0 0][f 4 10 65535 0 0][f 4 23 1 212 49 10 40 10][vp 8 2 1 13086 65535 0]Ok, vá entregar uma sacola para Kaoru.[n][w][e]
 
 [msg MSG_C12_YES_10_00 [Iwai]]
 [s][bup 0 104 1 0 0][f 4 10 65535 0 0][f 4 23 1 212 49 10 40 10][vp 8 2 1 13082 65535 0]Conto com você, senhor Gun Lover.[n][w][e]

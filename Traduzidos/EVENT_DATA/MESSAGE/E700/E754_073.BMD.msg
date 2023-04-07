@@ -18,7 +18,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]...Você está me fazendo apaixonar por[n]você de novo.[n][f 1 3 65535][w][e]
 
 [sel SEL_005_0_0 top]
-[s]Obrigada.[e]
+[s]Obrigado.[e]
 [s]Eu agradeço.[e]
 
 [msg MSG_006_0_0 [Ohya]]
@@ -95,7 +95,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 30 65535 0]Você parece sempre colocar[n]outros antes de você. Eu o respeito[n]realmente muito.[n][f 1 3 65535][w][e]
 
 [sel SEL_027_0_0 top]
-[s]Obrigada.[e]
+[s]Obrigado.[e]
 [s]Você me faz corar.[e]
 
 [msg MSG_028_0_0 [Ohya]]

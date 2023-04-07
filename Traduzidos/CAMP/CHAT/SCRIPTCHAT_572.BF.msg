@@ -11,7 +11,7 @@
 [s][f 5 14]...Desculpe, deixa pra lá.[n]Esqueça isso.[n][f 5 15][w][e]
 
 [msg CHAT_REACTION_MSG_01 [Takemi]]
-[s][f 5 14]Ah... OK.[n][f 5 15][w][e]
+[s][f 5 14]Ah... Ok.[n][f 5 15][w][e]
 
 [sel SEL_001 top]
 [s]Vá até ela imediatamente[e]

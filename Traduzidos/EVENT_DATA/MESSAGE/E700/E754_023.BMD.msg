@@ -19,7 +19,7 @@
 
 [sel SEL_005_0_0 top]
 [s]Você me faz corar.[e]
-[s]Obrigada.[e]
+[s]Obrigado.[e]
 
 [msg MSG_006_0_0 [Ann]]
 [s][bup 0 4 1 4 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]De nada.[n][f 1 3 65535][w][e]
@@ -45,7 +45,7 @@
 [s][bup 0 4 0 4 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]...Claro.[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Ann]]
-[s][bup 0 4 0 4 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]OK, tudo pronto![n][f 1 3 65535][w][e]
+[s][bup 0 4 0 4 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Ok, tudo pronto![n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Locutor]]
 [s][vp 8 0 0 13 65535 0]Senhoras e senhores, obrigado por[n]se juntarem a nós neste[n]dia especial.[n][f 1 3 65535][w][e]

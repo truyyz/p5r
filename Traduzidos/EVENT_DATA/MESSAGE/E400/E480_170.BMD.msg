@@ -32,7 +32,7 @@
 [s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Devo tentar explicar para você novamente?[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Ryuji]]
-[s][bup 0 2 103 0 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Ei, esquece! É uma semente[n]de cobiça. OK! Vá em frente...[n][f 1 3 65535][w][e]
+[s][bup 0 2 103 0 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Ei, esquece! É uma semente[n]de cobiça. Ok! Vá em frente...[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Ann]]
 [s][bup 0 4 100 0 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Então, o que fazemos com isso?[n][f 1 3 65535][w][e]

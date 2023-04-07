@@ -54,7 +54,7 @@
 [s][f 4 16 8 12 301 1 65535][vp 8 0 0 19 65535 0]Enfim, vamos começar![n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]Não sei se entendi, mas... OK![n][f 1 3 65535][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]Não sei se entendi, mas... Ok![n][f 1 3 65535][w][e]
 
 [msg MSG_025_0_0 [Morgana]]
 [s][bup 0 3 7 0 0][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]Droga, acho que hoje será mais um dia[n]turbulento...[n][f 1 3 65535][w][e]
@@ -129,7 +129,7 @@
 [s]Não se esforce demais.[e]
 
 [msg MSG_046_0_0 [Futaba]]
-[s][bup 0 8 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 48 65535 0]Hrngh... OK.[n][f 1 3 65535][w][e]
+[s][bup 0 8 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 48 65535 0]Hrngh... Ok.[n][f 1 3 65535][w][e]
 
 [msg MSG_047_0_0 [Futaba]]
 [s][bup 0 8 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 49 65535 0]...Tsk, Deus me livre.[n][f 1 3 65535][w][e]

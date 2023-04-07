@@ -36,14 +36,14 @@
 [s]Devemos deixá-lo ir.[e]
 
 [msg MSG_012_0_0 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]OK, hora de colocar o plano em ação. Vá, Joker,[n]faça o primeiro movimento.[n][f 1 3 65535][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ok, hora de colocar o plano em ação. Vá, Joker,[n]faça o primeiro movimento.[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sim você está certo. Devemos...[n]Ei, espere![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Não vamos provar nada, se desistirmos[n]agora, ou tudo terminará com[n]três nerds olhando para o oceano![n][f 1 3 65535][w][e]
 
 [sel SEL_014_0_0 top]
-[s]OK, vamos tentar conversar um com o outro.[e]
+[s]Ok, vamos tentar conversar um com o outro.[e]
 [s]Não, eu realmente não gosto disso.[e]
 
 [msg MSG_015_0_0 [Ryuji]]
@@ -69,7 +69,7 @@
 
 [msg MSG_021_0_0 [Mulher sexy em traje de banho]]
 [s][vp 8 0 0 0 65535 0]Parece que eles querem nos conhecer.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]Eheheh... Bem, já que você está ocupado[n]tanto... OK, vamos conversar.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Eheheh... Bem, já que você está ocupado[n]tanto... Ok, vamos conversar.[n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Mulher sexy em traje de banho]]
 [s][vp 8 0 0 0 65535 0]Oooh, sério?[n]É bom ouvir você dizer isso.[n][f 1 3 65535][w][e]
@@ -141,7 +141,7 @@
 [s]Espere, eu reconsiderei.[e]
 
 [msg MSG_042_0_0 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]OK, vai ser um tiro de canhão[n]direto ao gol, você vai ver.[n]Sem chutes giratórios.[n][f 1 3 65535][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ok, vai ser um tiro de canhão[n]direto ao gol, você vai ver.[n]Sem chutes giratórios.[n][f 1 3 65535][w][e]
 
 [msg MSG_043_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Isso é tudo? Bem, eu apenas[n]encontro algo[n]para elogiar...[n][f 1 3 65535][w][e]
@@ -209,7 +209,7 @@
 [s][vp 8 0 0 0 65535 0]N-Não deixe escapar assim![n]Você, melhor...?[n][f 1 3 65535][w][e]
 
 [msg MSG_062_0_0 [Mulher sexy em traje de banho]]
-[s][vp 8 0 0 0 65535 0]Bem, eu também não estou noivo.[n]Eheheh...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Bem, eu também não estou namorando.[n]Eheheh...[n][f 1 3 65535][w][e]
 
 [msg MSG_063_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Cara, um último esforço[n]e pronto![n][f 1 3 65535][w][e]
@@ -257,10 +257,10 @@
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]É um verdadeiro desastre.[n]E está ficando cada vez pior.[n][f 1 3 65535][w][e]
 
 [msg MSG_077_0_0 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]OK, vou perguntar sem muitas[n]meios de palavras... Que tipo[n]de caras você gosta?[n][f 1 3 65535][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ok, vou perguntar sem muitas[n]meios de palavras... Que tipo[n]de caras você gosta?[n][f 1 3 65535][w][e]
 
 [msg MSG_078_0_0 [Mulher sexy em traje de banho]]
-[s][vp 8 0 0 0 65535 0]Bem... Esses Ladrões Fantasmas, por exemplo. Eles[n]chamaram minha atenção. E aí todo mundo fala[n]sobre isso.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Bem... Esses Phantom Thieves, por exemplo. Eles[n]chamaram minha atenção. E aí todo mundo fala[n]sobre isso.[n][f 1 3 65535][w][e]
 
 [msg MSG_079_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]S-Sério? E o que[n]você gosta neles?!?[n][f 1 3 65535][w][e]
@@ -374,7 +374,7 @@
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Pode ser verão, mas a reação deles é glacial...[n]Não vamos conseguir nada com este passo...[n][f 1 3 65535][w][e]
 
 [msg MSG_114_0_0 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]OK, vamos elaborar uma nova estratégia.[n]Se continuarmos com o mesmo[n]método, eles ficarão entediados.[n][f 1 3 65535][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ok, vamos elaborar uma nova estratégia.[n]Se continuarmos com o mesmo[n]método, eles ficarão entediados.[n][f 1 3 65535][w][e]
 
 [msg MSG_115_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Será importante escolher cuidadosamente[n]quem fará o próximo movimento.[n][f 1 3 65535][w][e]
@@ -397,7 +397,7 @@
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Está indo mal... Tudo o que eles fazem é[n]jogar-me olhares frios.[n][f 1 3 65535][w][e]
 
 [msg MSG_121_0_0 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]OK, o próximo movimento é decisivo.[n]Não podemos deixar isso acabar[n]com um simples bate-papo.[n][f 1 3 65535][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ok, o próximo movimento é decisivo.[n]Não podemos deixar isso acabar[n]com um simples bate-papo.[n][f 1 3 65535][w][e]
 
 [msg MSG_122_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Acho que esta é a nossa[n]última chance. Devemos ser[n]cautelosos e ousados ao mesmo tempo.[n][f 1 3 65535][w][e]
@@ -521,7 +521,7 @@
 [s][vp 8 0 0 0 65535 0]Para dizer a verdade, eu estava[n]um pouco preocupado no começo...[n]mas gostei de conversar com você.[n][f 1 3 65535][w][e]
 
 [msg MSG_158_0_0 [Mulher sexy em traje de banho]]
-[s][vp 8 0 0 0 65535 0]OK. A princípio pensei em mandar você[n]para o inferno, mas devo dizer[n]que no final gostei.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Ok. A princípio pensei em mandar você[n]para o inferno, mas devo dizer[n]que no final gostei.[n][f 1 3 65535][w][e]
 
 [msg MSG_159_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sério? Então porque não...[n][f 1 3 65535][w][e]
@@ -617,7 +617,7 @@
 [s][vp 8 0 0 0 65535 0]Não vamos provar nada, se desistirmos[n]agora, ou tudo terminará com[n]três nerds olhando para o oceano![n][f 1 3 65535][w][e]
 
 [sel SEL_188_0_0 top]
-[s]OK, vamos tentar conversar um com o outro.[e]
+[s]Ok, vamos tentar conversar um com o outro.[e]
 [s]Não, eu realmente não gosto disso.[e]
 
 [msg MSG_189_0_0 [Ryuji]]
@@ -697,7 +697,7 @@
 [s][vp 8 0 0 0 65535 0]Quero dizer, você quer que nosso[n]dia acabe fazendo[n]castelos de areia na praia?[n][f 1 3 65535][w][e]
 
 [sel SEL_213_0_0 top]
-[s]OK, vamos tentar conversar um com o outro.[e]
+[s]Ok, vamos tentar conversar um com o outro.[e]
 [s]Não, eu realmente não gosto disso.[e]
 
 [msg MSG_214_0_0 [Ryuji]]
@@ -757,7 +757,7 @@
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vamos lá, foi só sorte.[n]Mas parece que eles[n]acharam divertido.[n][f 1 3 65535][w][e]
 
 [msg MSG_231_0_0 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]OK, nada mal, para começar. Como[n]mantemos o ritmo?[n][f 1 3 65535][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ok, nada mal, para começar. Como[n]mantemos o ritmo?[n][f 1 3 65535][w][e]
 
 [msg MSG_232_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Caramba, sua prudência[n]saiu pela culatra… Devemos[n]recuperar o terreno perdido.[n][f 1 3 65535][w][e]
@@ -777,7 +777,7 @@
 [s]Fox, é a sua vez.[e]
 
 [msg MSG_237_0_0 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]OK, está tudo em suas mãos.[n]O que você pretende fazer?[n][f 1 3 65535][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ok, está tudo em suas mãos.[n]O que você pretende fazer?[n][f 1 3 65535][w][e]
 
 [sel SEL_238_0_0 top]
 [s]Vou perguntar sobre seus problemas.[e]
@@ -799,7 +799,7 @@
 [s]Não, quero pensar melhor.[e]
 
 [msg MSG_243_0_0 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]OK, é minha vez.[n]O que você sugere?[n][f 1 3 65535][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ok, é minha vez.[n]O que você sugere?[n][f 1 3 65535][w][e]
 
 [sel SEL_244_0_0 top]
 [s]Use seu corpo.[e]
@@ -808,7 +808,7 @@
 [s]Espere, eu reconsiderei.[e]
 
 [msg MSG_245_0_0 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Yay! Vai ser moleza,[n]graças ao meu treinamento[n]como Ladrão Fantasma![n][f 1 3 65535][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Yay! Vai ser moleza,[n]graças ao meu treinamento[n]como Phantom Thief![n][f 1 3 65535][w][e]
 
 [msg MSG_246_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Essas coisas não me interessam nem um pouco, mas[n]acho que posso tentar...[n][f 1 3 65535][w][e]
@@ -1052,7 +1052,7 @@
 [s][vp 8 0 0 0 65535 0]Caras mais velhos podem[n]comprar muitas coisas...[n]eu quero um namorado assim![n][f 1 3 65535][w][e]
 
 [msg MSG_320_0_0 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]OK, as negociações foram concluídas! Parece que[n]estamos mais perto do gol, né?[n][f 1 3 65535][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ok, as negociações foram concluídas! Parece que[n]estamos mais perto do gol, né?[n][f 1 3 65535][w][e]
 
 [msg MSG_321_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você não acha que está[n]indo bem?[n]Eu sinto que desta vez vamos conseguir![n][f 1 3 65535][w][e]
@@ -1101,7 +1101,7 @@
 [s]Vá para o ataque, Fox.[e]
 
 [msg MSG_335_0_0 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]OK, estamos contando com você.[n]Como você planeja[n]colocá-los do nosso lado?[n][f 1 3 65535][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ok, estamos contando com você.[n]Como você planeja[n]colocá-los do nosso lado?[n][f 1 3 65535][w][e]
 
 [sel SEL_336_0_0 top]
 [s]Vou admitir minhas intenções.[e]
@@ -1132,7 +1132,7 @@
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Muito bem. Não vou decepcioná-lo.[n]Então, o que você quer que eu faça?[n][f 1 3 65535][w][e]
 
 [sel SEL_344_0_0 top]
-[s]Aja como se estivesse noivo.[e]
+[s]Aja como se estivesse namorando.[e]
 [s]Espere, eu reconsiderei.[e]
 
 [msg MSG_345_0_0 [Yusuke]]
@@ -1158,7 +1158,7 @@
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Uau, direto ao ponto[n]foi a estratégia certa?!?[n]Você é um galã, Joker![n][f 1 3 65535][w][e]
 
 [msg MSG_352_0_0 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]OK, eu vou...[n][f 1 3 65535][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ok, eu vou...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]O amor é uma c-coisa... importante,[n]certo? É tão valioso quanto...[n]tesouro ou algo assim...[n][f 1 3 65535][w][e]
 
 [msg MSG_353_0_0 [Garota estrangeira fantasiada]]
@@ -1348,7 +1348,7 @@
 [s][vp 8 0 0 0 65535 0]Traga o orgulho dos Thieves[n]Phantom! Não deixe que[n]essa coisa de escola primária te desencoraje![n][f 1 3 65535][w][e]
 
 [sel SEL_409_0_0 top]
-[s]OK, vamos tentar conversar um com o outro.[e]
+[s]Ok, vamos tentar conversar um com o outro.[e]
 [s]Não, eu realmente não gosto disso.[e]
 
 [msg MSG_410_0_0 [Ryuji]]
@@ -1414,7 +1414,7 @@
 [s][vp 8 0 0 0 65535 0]Não vamos provar nada, se desistirmos[n]agora, ou tudo terminará com[n]três nerds olhando para o oceano![n][f 1 3 65535][w][e]
 
 [sel SEL_429_0_0 top]
-[s]OK, vamos tentar conversar um com o outro.[e]
+[s]Ok, vamos tentar conversar um com o outro.[e]
 [s]Não, eu realmente não gosto disso.[e]
 
 [msg MSG_430_0_0 [Ryuji]]
@@ -1480,7 +1480,7 @@
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Muito bem. Que plano você implementará?[n][f 1 3 65535][w][e]
 
 [sel SEL_449_0_0 top]
-[s]Eu agirei como um Ladrão Fantasma.[e]
+[s]Eu agirei como um Phantom Thief.[e]
 [s]Vou propor-lhes para jogar.[e]
 [s]Vou fingir que sou fã dos Thieves.[e]
 [s]Espere, eu reconsiderei.[e]
@@ -1499,7 +1499,7 @@
 [s]Não, quero pensar melhor.[e]
 
 [msg MSG_454_0_0 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]OK, eu cuido disso![n]O que devo fazer?[n][f 1 3 65535][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ok, eu cuido disso![n]O que devo fazer?[n][f 1 3 65535][w][e]
 
 [sel SEL_455_0_0 top]
 [s]Fale sobre ladrões.[e]
@@ -1511,7 +1511,7 @@
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vai ser fácil.[n]Afinal, nós somos os verdadeiros.[n][f 1 3 65535][w][e]
 
 [msg MSG_457_0_0 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]OK, não vou poupar[n]uma batida![n][f 1 3 65535][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ok, não vou poupar[n]uma batida![n][f 1 3 65535][w][e]
 
 [msg MSG_458_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]É um pouco trivial,[n]mas vou tentar...[n][f 1 3 65535][w][e]
@@ -1549,7 +1549,7 @@
 [s][vp 8 0 0 0 65535 0]Hahahaha! Absurdo![n]Era pra ser uma piada?[n][f 1 3 65535][w][e]
 
 [sel SEL_468_0_0 top]
-[s]Eu sou um ladrão fantasma.[e]
+[s]Eu sou um Phantom Thief.[e]
 [s]Faz parte do meu show.[e]
 
 [msg MSG_469_0_0 [Mulher sofisticada em traje]]
@@ -1567,7 +1567,7 @@
 
 [msg MSG_473_0_0 [Mulher maquiada em traje]]
 [s][vp 8 0 0 0 65535 0]Oh sim? Quer perder tempo com[n]piadas em vez de dar em cima da gente?[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]OK, vamos assistir ... mas[n]se você for muito chato, você vai[n]nos oferecer uma granita! Hahaha![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Ok, vamos assistir ... mas[n]se você for muito chato, você vai[n]nos oferecer uma granita! Hahaha![n][f 1 3 65535][w][e]
 
 [msg MSG_474_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não está indo como planejado,[n]mas talvez estejamos despertando[n]o interesse deles...[n][f 1 3 65535][w][e]
@@ -1864,7 +1864,7 @@
 [s]Espere, eu reconsiderei.[e]
 
 [msg MSG_566_0_0 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]OK, eles verão em primeira mão[n]como um verdadeiro profissional funciona![n][f 1 3 65535][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ok, eles verão em primeira mão[n]como um verdadeiro profissional funciona![n][f 1 3 65535][w][e]
 
 [sel SEL_567_0_0 top]
 [s]Sim, nós fazemos isso.[e]
@@ -1878,7 +1878,7 @@
 [s]Espere, eu reconsiderei.[e]
 
 [msg MSG_570_0_0 [Yusuke]]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você quer dizer... como Ladrões Fantasmas?[n]Parece um pouco estranho, mas...[n]Vou colocar tudo de mim nisso.[n][f 1 3 65535][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você quer dizer... como Phantom Thieves?[n]Parece um pouco estranho, mas...[n]Vou colocar tudo de mim nisso.[n][f 1 3 65535][w][e]
 
 [sel SEL_571_0_0 top]
 [s]Sim, nós fazemos isso.[e]
@@ -1938,7 +1938,7 @@
 [msg MSG_588_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Para as lindas garotas que[n]conhecemos em uma viagem à praia.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Decidimos arriscar[n]nosso orgulho[n]para roubar seus corações.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]Nós cumpriremos esta[n]missão, então fique atento.[n]Assinado, os Ladrões Fantasmas.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Nós cumpriremos esta[n]missão, então fique atento.[n]Assinado, os Phantom Thieves.[n][f 1 3 65535][w][e]
 
 [msg MSG_589_0_0 [Mulher maquiada em traje]]
 [s][vp 8 0 0 0 65535 0]Hahahaha, isso deveria ser[n]uma carta de aviso?[n]Que ideia maluca![n][f 1 3 65535][w][e]
@@ -2036,7 +2036,7 @@
 
 [sel SEL_619_0_0 top]
 [s]Você tem um julgamento ruim.[e]
-[s]Nós somos os Ladrões Fantasmas.[e]
+[s]Nós somos os Phantom Thieves.[e]
 [s]Vamos remover a perturbação.[e]
 
 [msg MSG_620_0_0 [Mulher sofisticada em traje]]

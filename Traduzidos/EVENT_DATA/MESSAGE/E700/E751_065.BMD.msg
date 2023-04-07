@@ -29,7 +29,7 @@
 [s]Eu não fiz nada.[e]
 
 [msg MSG_008_0_0 [Kawakami]]
-[s][bup 0 109 501 65535 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Eu devo muito a você. Não apenas pelo[n]trabalho do Ladrão Fantasma,[n]mas pelo que você fez por mim...[n][f 1 3 65535][w][e]
+[s][bup 0 109 501 65535 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Eu devo muito a você. Não apenas pelo[n]trabalho do Phantom Thief,[n]mas pelo que você fez por mim...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Você me ajudou a lembrar o que[n]eu queria fazer da minha vida.[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Kawakami]]

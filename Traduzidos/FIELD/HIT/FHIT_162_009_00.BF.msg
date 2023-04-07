@@ -100,7 +100,7 @@
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4129 65535 0]Hmm... não sabemos[n]o suficiente para decidir.[n]Precisamos coletar informações.[n][w][e]
 
 [msg D10_09_2nd_question_chec_3 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]OK. Vamos dar uma volta e conversar com[n]esses caras como da última vez.[n][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ok. Vamos dar uma volta e conversar com[n]esses caras como da última vez.[n][w][e]
 
 [msg D10_09_Third_display_loo [Ryuji]]
 [s][bup 0 2 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7041 65535 0]Um, dois, três, quatro... Uau, nós[n]temos CINCO opções desta vez?[n][w][e]
@@ -154,7 +154,7 @@
 [s]Vamos tentar.[e]
 
 [msg D10_FindGate_01_insert02 [Ann]]
-[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6027 65535 0]Uh, OK, mas... tenha cuidado.[n][w][e]
+[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6027 65535 0]Uh, Ok, mas... tenha cuidado.[n][w][e]
 
 [msg D10_FindGate_02 [Interface eletrônica]]
 [s]Padrão de onda cerebral anormal[n]detectado.[n][w][e]
@@ -403,7 +403,7 @@
 [s][bup 0 5 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4074 65535 0]Grrr... Uma Sombra![n][w][e]
 
 [msg D10_09_after_mistake03_0_3 [Sombra com camisa]]
-[s]Os ladrões fantasmas! Criminosos que[n]roubam em nome da justiça![n][w][e]
+[s]Os Phantom Thieves! Criminosos que[n]roubam em nome da justiça![n][w][e]
 [s]Suas anomalias devem[n]ser removidas através de master[n]terapias![n][w][e]
 
 [msg D10_09_after_mistake03_0_4 [Sombra com camisa]]
@@ -414,7 +414,7 @@
 [s][bup 0 7 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 3041 65535 0]Uma sombra...!? Oh não...[n][w][e]
 
 [msg D10_09_after_mistake03_0_6 [Sombra com camisa]]
-[s]Ladrões Fantasmas... Você[n]talvez pretendendo fazer[n]prejuízo ao mestre?[n][w][e]
+[s]Phantom Thieves... Você[n]talvez pretendendo fazer[n]prejuízo ao mestre?[n][w][e]
 [s]Se o seu coração ainda esconde fragmentos de[n]desonestidade, eu os encontrarei e os eliminarei![n][w][e]
 
 [msg D10_09_after_mistake03_0_7 [Ann]]
@@ -424,7 +424,7 @@
 [s]Próximo paciente.[n][w][e]
 
 [msg D10_09_after_mistake03_0_9 [Sombra com camisa]]
-[s]Bem, bem, bem... Os Ladrões Fantasmas.[n][w][e]
+[s]Bem, bem, bem... Os Phantom Thieves.[n][w][e]
 [s]Sim, há algo[n]errado com você. Você deve[n]ir para a terapia.[n][w][e]
 
 [msg D10_09_after_mistake03_0_10 [Ann]]
@@ -434,7 +434,7 @@
 [s]Próximo paciente.[n][w][e]
 
 [msg D10_09_after_mistake03_0_12 [Sombra com camisa]]
-[s]Bem, bem, bem... Os Ladrões Fantasmas.[n][w][e]
+[s]Bem, bem, bem... Os Phantom Thieves.[n][w][e]
 [s]Sim, há algo[n]errado com você. Você deve[n]ir para a terapia.[n][w][e]
 
 [msg D10_09_after_mistake03_0_13 [Morgana]]
@@ -560,25 +560,25 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1003 65535 0]Algo não é convincente para você, Joker?[n]Podemos analisar as informações novamente.[n][w][e]
 
 [msg D10_09_ExtraHuddle01_Gen [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1122 65535 0]OK, aqui está outro lugar que se encaixa na conta.[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1122 65535 0]Ok, aqui está outro lugar que se encaixa na conta.[n][w][e]
 
 [msg D10_09_ExtraHuddle02_Fir [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1122 65535 0]OK, aqui está outro lugar que se encaixa na conta.[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1122 65535 0]Ok, aqui está outro lugar que se encaixa na conta.[n][w][e]
 
 [msg D10_09_ExtraHuddle02_Ans [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1003 65535 0]Algo não é convincente para você, Joker?[n]Podemos analisar as informações novamente.[n][w][e]
 
 [msg D10_09_ExtraHuddle02_Gen [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1122 65535 0]OK, aqui está outro lugar que se encaixa na conta.[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1122 65535 0]Ok, aqui está outro lugar que se encaixa na conta.[n][w][e]
 
 [msg D10_09_ExtraHuddle03_Fir [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1122 65535 0]OK, aqui está outro lugar que se encaixa na conta.[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1122 65535 0]Ok, aqui está outro lugar que se encaixa na conta.[n][w][e]
 
 [msg D10_09_ExtraHuddle03_Ans [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1003 65535 0]Algo não é convincente para você, Joker?[n]Podemos analisar as informações novamente.[n][w][e]
 
 [msg D10_09_ExtraHuddle03_Gen [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1122 65535 0]OK, aqui está outro lugar que se encaixa na conta.[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1122 65535 0]Ok, aqui está outro lugar que se encaixa na conta.[n][w][e]
 
 [msg ALL_RESEARCH_END_mes_3rd [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2019 65535 0]Não é muito, mas pelo menos temos algumas[n]informações.[n][w][e]

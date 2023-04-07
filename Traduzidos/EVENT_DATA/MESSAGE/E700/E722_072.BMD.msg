@@ -77,7 +77,7 @@
 
 [msg MSG_020_0_0 [Treinador Higurachi]]
 [s][bup 0 218 500 0 0][vp 1 0 0 0 0 0]......[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 5 0]OK, faça uma pausa.[n]Continuaremos mais tarde.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 5 0]Ok, faça uma pausa.[n]Continuaremos mais tarde.[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Sumire]]
 [s][bup 0 10 823 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Fiuuu... Eheh... G-Muito obrigada![n][f 1 3 65535][w][e]
@@ -127,7 +127,7 @@
 [s][bup 0 10 823 0 0][vp 1 0 0 0 0 0]......[n][f 1 3 65535][w][e]
 
 [msg MSG_034_0_0 [Treinador Higurachi]]
-[s][bup 0 218 500 0 0][f 4 10 65535 0 0][vp 8 0 0 0 5 0]OK, é a sua vez agora! Prepare-se![n][f 1 3 65535][w][e]
+[s][bup 0 218 500 0 0][f 4 10 65535 0 0][vp 8 0 0 0 5 0]Ok, é a sua vez agora! Prepare-se![n][f 1 3 65535][w][e]
 
 [msg MSG_035_0_0 [Sumire]]
 [s][bup 0 10 823 0 0][f 4 10 65535 0 0][vp 8 2 0 57045 65535 0]*suspiro*[n][f 1 3 65535][w][e]

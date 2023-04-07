@@ -31,5 +31,5 @@
 [s][bup 0 3 0 65535 0]......[n][w][e]
 
 [msg D02_01_e194_112_selA_1_m [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1165 65535 0]OK. Quando você estiver pronto,[n]vamos nos infiltrar daqui![n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1165 65535 0]Ok. Quando você estiver pronto,[n]vamos nos infiltrar daqui![n][w][e]
 

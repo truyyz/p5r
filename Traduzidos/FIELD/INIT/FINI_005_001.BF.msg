@@ -24,7 +24,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ann está fora porque estava ocupada,[n]mas aposto que será divertido[n]vir aqui com outras pessoas.[n][f 1 3 65535][w][e]
 
 [msg MSG_650_104_mes04 [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 7048 65535 0]Oooh, alguém[n]levantou para ir, hein?[n]OK, vamos indo![n][f 1 3 65535][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 7048 65535 0]Oooh, alguém[n]levantou para ir, hein?[n]Ok, vamos indo![n][f 1 3 65535][w][e]
 
 [msg MSG_650_104_mes06 [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 0 65535 0]Acho que o salão de dardos[n]fica a [clr 2]um quarteirão da[n]rua principal[clr 27].[n][f 1 3 65535][w][e]

@@ -44,7 +44,7 @@
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Quanta porcaria... Quem sabe[n]talvez limpando[n]você encontre uma televisão.[n][w][e]
 
 [msg MSG_006_0_0 [Ryuji]]
-[s][f 5 14]OK, até amanhã![n][f 5 15][w][e]
+[s][f 5 14]Ok, até amanhã![n][f 5 15][w][e]
 
 [msg MSG_999_0_0 [Morgana]]
 [s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 0 1020 65535 0]Ryuji vem aqui amanhã, hein?[n]Ele vai estragar tudo como sempre...[n][f 1 3 65535][w][e]

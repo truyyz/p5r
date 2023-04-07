@@ -24,7 +24,7 @@
 [s][vp 8 2 1 0 802 0]Perdi uma série de jogos,[n]então estou fazendo uma pausa.[n][w][e]
 
 [msg MSG_GAMER_001_00 [Menino bonito]]
-[s][f 4 23 1 802 3 5 0 0][vp 8 2 1 0 802 0]Esta sala de jogos está OK.[n][w][e]
+[s][f 4 23 1 802 3 5 0 0][vp 8 2 1 0 802 0]Esta sala de jogos está Ok.[n][w][e]
 [s][vp 8 2 1 0 802 0]Mas tenho que continuar[n]praticando... Nunca vou subir[n]nas paradas nesse ritmo.[n][w][e]
 
 [msg MSG_BARGER_000_00 [Mulher hesitante]]

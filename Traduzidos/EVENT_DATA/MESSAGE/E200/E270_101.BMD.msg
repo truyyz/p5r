@@ -8,11 +8,11 @@
 
 [msg MSG_002_0_0 [Diretor da UIS]]
 [s][bup 0 213 1 0 0][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Na verdade, uma das contramedidas[n]introduzidas por ele poderia[n]provar... viável.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Isso resultaria na autodestruição dos Ladrões[n]Fantasmas, e nós nem precisaríamos intervir[n]diretamente...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Isso resultaria na autodestruição dos Phantom[n]Thieves, e nós nem precisaríamos intervir[n]diretamente...[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Diretor da UIS]]
 [s][bup 0 213 1 0 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Na verdade, uma das contramedidas[n]introduzidas por ele poderia[n]provar... viável.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Isso resultaria na autodestruição dos Ladrões[n]Fantasmas, e nós nem precisaríamos intervir[n]diretamente...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Isso resultaria na autodestruição dos Phantom[n]Thieves, e nós nem precisaríamos intervir[n]diretamente...[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Diretor da UIS]]
 [s][bup 0 213 1 0 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Faremos com que essas[n]prisões mentais pareçam[n]culpa deles.[n][f 1 3 65535][w][e]

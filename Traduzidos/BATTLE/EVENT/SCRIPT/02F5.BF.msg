@@ -144,7 +144,7 @@
 
 [sel SEL_BTL_HOLDUP05_000 top]
 [s]Os perdedores são os reclamantes.[e]
-[s]OK, faça como quiser.[e]
+[s]Ok, faça como quiser.[e]
 [s]Você foi ameaçado.[e]
 
 [msg MSG_BTL_HOLDUP05_001_000 [Sumire]]

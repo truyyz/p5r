@@ -59,7 +59,7 @@
 
 [msg MSG_014_0_0 [Chihaya]]
 [s][bup 0 113 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Agora é a sua vez.[n][f 1 3 65535][w][e]
-[s][bup 0 113 0 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 59 5 100][vp 8 0 0 25 65535 0]Em que você acredita...[n]como um Ladrão Fantasma?[n][f 1 3 65535][w][e]
+[s][bup 0 113 0 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 59 5 100][vp 8 0 0 25 65535 0]Em que você acredita...[n]como um Phantom Thief?[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Chihaya]]
 [s][bup 0 113 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 26 65535 0]Desculpe, usei adivinhação[n]para descobrir sua verdadeira identidade.[n][f 1 3 65535][w][e]
@@ -119,7 +119,7 @@
 [s][bup 0 113 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 49 65535 0]Eu sou o vidente que muda[n]destinos e vou guiá-lo para[n]evitar o infortúnio![n][f 1 3 65535][w][e]
 
 [sel SEL_027_3_0 top]
-[s]Obrigada.[e]
+[s]Obrigado.[e]
 [s]É reconfortante.[e]
 
 [msg MSG_027_5_0 [Chihaya]]

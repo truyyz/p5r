@@ -68,7 +68,7 @@
 
 [msg MSG_021_0_0 [Haru]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 7 1 300 1][vp 8 0 0 30 65535 0]Deal, eheheh![n]Somos reais[n]Phantom Thieves![n][f 1 3 65535][w][e]
-[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][f 4 24 0 5 0 36 5 100][f 4 24 0 5 0 9 5 100][vp 8 0 0 31 65535 0]OK, de agora em diante[n]eu farei o meu melhor![n][f 1 3 65535][w][e]
+[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][f 4 24 0 5 0 36 5 100][f 4 24 0 5 0 9 5 100][vp 8 0 0 31 65535 0]Ok, de agora em diante[n]eu farei o meu melhor![n][f 1 3 65535][w][e]
 
 [msg MND_990_0_0]
 [s][vp 8 0 0 0 65535 0]Haru parece um pouco mais[n]entusiasmado do que antes...[n][f 1 3 65535][w][e]

@@ -21,11 +21,11 @@
 [s]Responder mais tarde[e]
 
 [sel SEL_200_0_0 top]
-[s][f 5 14]OK, vamos.[e]
+[s][f 5 14]Ok, vamos.[e]
 [s]Amanhã? Melhor não.[e]
 
 [msg MSG_201_0_0 [Ann]]
-[s][f 5 14]OK.[n]Você quer ir[n]a um jantar com ela, não é?[n][w][e]
+[s][f 5 14]Ok.[n]Você quer ir[n]a um jantar com ela, não é?[n][w][e]
 
 [msg MSG_202_0_0 [Ann]]
 [s][f 5 14]Vamos nos encontrar em Shibuya.[n]Vou contar a Ryuji.[n][w][e]

@@ -152,7 +152,7 @@
 [s][vp 8 0 0 0 65535 0]Eu sinto a gratidão de[n]Maruki por mim...[n][f 1 3 65535][w][e]
 
 [msg MSG_038_0_0 [Maruki]]
-[s][bup 0 216 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...OK, é isso por hoje.[n][f 1 3 65535][w][e]
+[s][bup 0 216 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Ok, é isso por hoje.[n][f 1 3 65535][w][e]
 
 [msg MSG_039_0_0 [Maruki]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 114 7 300 65535][bup 0 216 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 57523 65535 0]Hum...? Porque eu sinto[n]que esqueci alguma coisa...[n][f 1 3 65535][w][e]
@@ -168,5 +168,5 @@
 [s][bup 0 216 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Então...que tal algo[n]assim para hoje?[n][f 1 3 65535][w][e]
 
 [msg MSG_043_0_0 [Maruki]]
-[s][f 4 10 65535 0 0][vp 8 2 0 57466 65535 0]OK, AGORA devemos realmente[n]terminar aqui...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 57466 65535 0]Ok, AGORA devemos realmente[n]terminar aqui...[n][f 1 3 65535][w][e]
 

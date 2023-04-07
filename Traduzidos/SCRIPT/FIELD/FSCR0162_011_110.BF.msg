@@ -26,22 +26,22 @@
 [s]No momento a luz está apagada.[n][w][e]
 
 [msg CHANGE_COLOR_INFO_RED]
-[s]OK, agora a cor está definida como[n][clr 2]vermelho[clr 27].[n][w][e]
+[s]Ok, agora a cor está definida como[n][clr 2]vermelho[clr 27].[n][w][e]
 
 [msg CHANGE_COLOR_INFO_GREEN]
-[s]OK, agora a cor está definida como[n][clr 2]verde[clr 27].[n][w][e]
+[s]Ok, agora a cor está definida como[n][clr 2]verde[clr 27].[n][w][e]
 
 [msg CHANGE_COLOR_INFO_BLUE]
-[s]OK, agora a cor está definida como[n][clr 2]azul[clr 27].[n][w][e]
+[s]Ok, agora a cor está definida como[n][clr 2]azul[clr 27].[n][w][e]
 
 [msg CHANGE_COLOR_INFO_CYAN]
-[s]OK, agora a cor está definida como[n][clr 2]ciano[clr 27].[n][w][e]
+[s]Ok, agora a cor está definida como[n][clr 2]ciano[clr 27].[n][w][e]
 
 [msg CHANGE_COLOR_INFO_MAGENT]
-[s]OK, agora a cor está definida como[n][clr 2]magenta[clr 27].[n][w][e]
+[s]Ok, agora a cor está definida como[n][clr 2]magenta[clr 27].[n][w][e]
 
 [msg CHANGE_COLOR_INFO_YELLOW]
-[s]OK, agora a cor está definida como[n][clr 2]amarelo[clr 27].[n][w][e]
+[s]Ok, agora a cor está definida como[n][clr 2]amarelo[clr 27].[n][w][e]
 
 [msg CHANGE_COLOR_INFO_WHITE]
 [s]Bem, agora o conjunto de cores é[n][clr 2]branco[clr 27].[n][w][e]

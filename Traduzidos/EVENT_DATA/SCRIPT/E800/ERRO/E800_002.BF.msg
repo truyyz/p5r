@@ -414,7 +414,7 @@
 
 [msg MND_GIFT_009_010 [Futaba]]
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 9114 65535 0][f 4 24 0 4 0 35 5 100]...mmm? Você está realmente dizendo[n]que é para mim?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]OK, aceito de bom grado. Obrigado.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ok, aceito de bom grado. Obrigado.[n][f 1 3 65535][w][e]
 
 [msg MND_GIFT_009_011]
 [s][vp 8 0 0 0 65535 0]Parece que esse[n]presente não impressionou muito[n]futaba...[n][f 1 3 65535][w][e]
@@ -571,11 +571,11 @@
 
 [msg MND_GIFT_013_010 [Takemi]]
 [s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 35 5 100]Você está me pedindo para trazê-lo[n]para minha casa?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 14028 65535 0]Mas... o que seria isso? ...OK, tudo bem.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 14028 65535 0]Mas... o que seria isso? ...Ok, tudo bem.[n][f 1 3 65535][w][e]
 
 [msg MND_GIFT_013_010_clothes [Takemi]]
 [s][bup 0 108 500 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 35 5 100]Você está me pedindo para trazê-lo[n]para minha casa?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 14028 65535 0]Mas... o que seria isso? ...OK, tudo bem.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 14028 65535 0]Mas... o que seria isso? ...Ok, tudo bem.[n][f 1 3 65535][w][e]
 
 [msg MND_GIFT_013_011]
 [s][vp 8 0 0 0 65535 0]Parece que este[n]presente não me impressionou muito[n]takemi...[n][f 1 3 65535][w][e]

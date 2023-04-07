@@ -63,7 +63,7 @@
 [s][f 5 14]Você deveria se desculpar, Yusuke.[n][w][e]
 
 [msg MSG_021_0_0 [Yusuke]]
-[s][f 5 14]O? Porque?[n][w][e]
+[s][f 5 14]O? Por quê?[n][w][e]
 
 [msg MSG_022_0_0 [Futaba]]
 [s][f 5 14][f 5 15]:VOCÊ[n][w][e]

@@ -62,7 +62,7 @@
 [s][f 5 14]Mas lembre-se... nosso[n]objetivo não é ser visto.[n][w][e]
 
 [msg MSG_021_0_0 [Ryuji]]
-[s][f 5 14][f 5 15]OK. Bem, vamos nos encontrar em frente ao[n]Palácio da Dieta e entrar[n]no Palácio daquele bastardo![n][w][e]
+[s][f 5 14][f 5 15]Ok. Bem, vamos nos encontrar em frente ao[n]Palácio da Dieta e entrar[n]no Palácio daquele bastardo![n][w][e]
 
 [msg MSG_CHAT_MORUEND_00 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 1 0 0 39 0 0]Tudo bem, vamos para o[n]Palácio della Dieta. Certifique-se de[n]não ser visto, ok?[n][f 1 3 65535][w][e]

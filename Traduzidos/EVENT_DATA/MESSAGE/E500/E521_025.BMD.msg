@@ -82,7 +82,7 @@
 
 [msg MSG_023_0_0 [Morgana]]
 [s][bup 0 3 600 0 0][f 4 10 65535 0 0][vp 8 0 0 35 65535 0]Não importa o que aconteça ou quantas[n]vezes possamos cair,[n]sempre seguiremos o caminho em que acreditamos.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 36 65535 0]É assim que é ser[n]um Ladrão Fantasma![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 36 65535 0]É assim que é ser[n]um Phantom Thief![n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [Futaba]]
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 37 65535 0]Não se convença, gato![n][f 1 3 65535][w][e]

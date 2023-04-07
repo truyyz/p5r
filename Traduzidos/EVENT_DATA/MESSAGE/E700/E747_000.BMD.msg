@@ -81,7 +81,7 @@
 [s][bup 0 6 300 65535 0][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]Oh. Sim, é.[n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Vendedor de camarão]]
-[s][vp 8 0 0 26 65535 0]E aqueles Ladrões Fantasmas,[n]heh? Aqueles que roubam corações![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 26 65535 0]E aqueles Phantom Thieves,[n]heh? Aqueles que roubam corações![n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Makoto]]
 [s][bup 0 6 304 65535 0][f 4 10 65535 0 0][vp 8 0 0 27 65535 0]Como você os conhece?[n][f 1 3 65535][w][e]

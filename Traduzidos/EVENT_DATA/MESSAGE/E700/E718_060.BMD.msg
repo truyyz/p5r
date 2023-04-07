@@ -68,7 +68,7 @@
 [s][bup 0 111 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 19080 65535 0]Enviei-lhe os dados do ator.[n][f 1 3 65535][w][e]
 
 [sel SEL_017_0_0 top]
-[s]Porque?[e]
+[s]Por quê?[e]
 [s]Eu não perguntei a você.[e]
 
 [msg MSG_018_0_0 [Mishima]]

@@ -7,7 +7,7 @@
 [s][vp 8 0 0 0 65535 0]Esta pergunta afetará[n]a confiança de Chihaya em mim.[n]Tenho que responder corretamente![n][f 1 3 65535][w][e]
 
 [sel SEL_002_0_0 top]
-[s]Eu sou um ladrão fantasma?[e]
+[s]Eu sou um Phantom Thief?[e]
 [s]Eu sou um criminoso?[e]
 [s]Estou traindo você?[e]
 

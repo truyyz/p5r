@@ -2,7 +2,7 @@
 [s][bup 0 4 0 65535 0]Então, vamos entrar?[n][w][e]
 
 [msg D01_04_e159_010_mes02 [Ryuji]]
-[s][bup 0 2 0 65535 0]Ei, um Ladrão Fantasma nunca[n]entra pela porta da frente.[n][w][e]
+[s][bup 0 2 0 65535 0]Ei, um Phantom Thief nunca[n]entra pela porta da frente.[n][w][e]
 
 [sel D01_04_e159_010_selA top]
 [s]Nós vamos nos infiltrar.[e]
@@ -13,7 +13,7 @@
 [s][bup 0 4 0 65535 0]Infiltrar...? Ah, sim, acho que[n]entrar pela porta da frente[n]é bem perigoso.[n][w][e]
 
 [msg D01_04_e159_010_selA_0_m_2 [Ryuji]]
-[s][bup 0 2 0 65535 0]Sim, agora você sabe como é ser um ladrão[n]fantasma. Tente lembrar.[n][w][e]
+[s][bup 0 2 0 65535 0]Sim, agora você sabe como é ser um Phantom[n]Thief. Tente lembrar.[n][w][e]
 
 [msg D01_04_e159_010_selA_1_m [Ryuji]]
 [s][bup 0 2 0 65535 0]Exatamente. É uma entrada especial[n]que descobrimos.[n][w][e]
@@ -31,7 +31,7 @@
 [s][bup 0 2 0 65535 0]U-Uh, não se importe.[n][w][e]
 
 [msg D01_04_e159_010_mes05 [Ann]]
-[s][bup 0 4 0 65535 0]Uau... Então vocês realmente são[n]os Ladrões Fantasmas.[n][w][e]
+[s][bup 0 4 0 65535 0]Uau... Então vocês realmente são[n]os Phantom Thieves.[n][w][e]
 
 [msg D01_04_e160_021_AF_mes01]
 [s]A porta está[n]trancada...[n][w][e]

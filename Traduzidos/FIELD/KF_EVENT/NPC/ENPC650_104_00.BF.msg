@@ -45,7 +45,7 @@
 [s][f 4 23 1 857 3 5 0 5][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 7110 857 0]Daqui para o Penguin Sniper![n]A sala de dardos e bilhar.[n][w][e]
 
 [msg MSG_650_104_START_02 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 65535 1181 0 0]OK, vamos seguir Ryuji.[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 65535 1181 0 0]Ok, vamos seguir Ryuji.[n][w][e]
 
 [msg MSG_BIKOU01_001_0_0 [Makoto]]
 [s][f 4 23 1 65535 3 10 0 0][bup 0 6 5 65535 0][f 4 10 65535 0 0][vp 8 2 1 2129 65535 0]O-oh, que coincidência.[n][w][e]

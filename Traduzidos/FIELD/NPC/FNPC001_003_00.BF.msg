@@ -15,7 +15,7 @@
 [s][f 4 23 1 10 3 10 0 10][vp 8 2 1 0 10 0]Aliás, você não me devolveu[n]o dinheiro que te emprestei...[n][w][e]
 
 [msg MSG_RENTALSYS_040_00 [Estudante universitário superficial]]
-[s][f 4 23 1 11 3 10 0 10][vp 8 2 1 0 11 0]Oh, OK. Você não esqueceu, né?[n][w][e]
+[s][f 4 23 1 11 3 10 0 10][vp 8 2 1 0 11 0]Oh, Ok. Você não esqueceu, né?[n][w][e]
 
 [msg MSG_0103_0108_KUNIKAZU_0 [Okumura]]
 [s][bup 0 205 0 0 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 0 65535 0]Concordo. Esta foi a última inspeção, certo?[n][w][e]
@@ -65,7 +65,7 @@
 [s]Eu ainda não decidi.[e]
 
 [msg SEL_0621_ANN_AND_MAKOTO__2 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][f 4 23 1 222 3 10 0 10][vp 8 2 1 2090 65535 0]OK.[n][w][e]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][f 4 23 1 222 3 10 0 10][vp 8 2 1 2090 65535 0]Ok.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Oh, um[n]membro do conselho estudantil me ligou.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 222 3 10 0 10]Irei à reunião assim que[n]o chamar. Desculpe, Ann, você pode ir sem mim?[n][w][e]
 
@@ -74,13 +74,13 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 226 3 10 0 10]Oh, eu vou ao banheiro,[n]então você e Mona podem ir[n]primeiro![n][w][e]
 
 [msg SEL_0621_ANN_AND_MAKOTO__4 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][f 4 23 1 222 3 10 0 10][vp 8 2 1 2090 65535 0]OK, Ann, vamos continuar?[n][w][e]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][f 4 23 1 222 3 10 0 10][vp 8 2 1 2090 65535 0]Ok, Ann, vamos continuar?[n][w][e]
 
 [msg SEL_0621_ANN_AND_MAKOTO__5 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 6020 65535 0]É claro![n][w][e]
 
 [msg SEL_0621_ANN_AND_MAKOTO__6 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 23 1 226 3 10 0 10][vp 8 2 1 6138 65535 0]OK, hoje vou passar algum tempo com[n]Makoto, então se nos encontrarmos,[n]podemos ir juntos! Direita?[n][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 23 1 226 3 10 0 10][vp 8 2 1 6138 65535 0]Ok, hoje vou passar algum tempo com[n]Makoto, então se nos encontrarmos,[n]podemos ir juntos! Direita?[n][w][e]
 
 [msg SEL_0621_ANN_AND_MAKOTO__7 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][f 4 23 1 222 3 10 0 10][vp 8 2 1 2023 65535 0]Hum. Por favor, deixe-nos saber quando você[n]decidir entrar no Palácio.[n][w][e]
@@ -160,7 +160,7 @@
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Olá pessoal! Vou roubar[n]seu coração![n][w][e]
 
 [sel SEL_KOKUJIN_004_0_0 top]
-[s]Você imita os ladrões fantasmas?[e]
+[s]Você imita os Phantom Thieves?[e]
 [s]Não, obrigado.[e]
 [s]Eu quero falar com o gerente.[e]
 
@@ -251,7 +251,7 @@
 [s][f 4 23 1 33 3 10 0 10][vp 8 2 1 0 33 0]Eu tenho um bom gerente,[n]ele não me trata assim...[n][w][e]
 
 [msg MSG_KOKUJIN_012_0_0 [Gerente irritado]]
-[s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Estocando hambúrgueres? Porque?[n][w][e]
+[s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Estocando hambúrgueres? Por quê?[n][w][e]
 
 [msg MSG_KOKUJIN_012_1_0 [Ladrador estrangeiro]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Big Bang Burger está com problemas,[n]não? Vamos dar uma mão a eles, no[n]verdadeiro espírito japonês![n][w][e]
@@ -413,7 +413,7 @@
 
 [msg MSG_TIKAAIDORU_001_5_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Hum? Você já comprou um[n]no passado? Muito obrigado![n][w][e]
-[s][vp 8 2 1 0 2 0]Espero que você continue a apoiar[n]i D-kyun! OK? OK?[n][w][e]
+[s][vp 8 2 1 0 2 0]Espero que você continue a apoiar[n]i D-kyun! Ok? Ok?[n][w][e]
 
 [msg MSG_TIKAAIDORU_001_6_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Oooh. Mas demorei cin...[n]isto é, HORAS, para fazê-los com[n]sobras de farinha![n][w][e]
@@ -438,12 +438,12 @@
 [msg MSG_TIKAAIDORU_002_1_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Wahhh, estou emocionado![n]Graças a Deus trabalhei duro[n]nesses anúncios online![n][w][e]
 [s][vp 8 2 1 0 2 0]Então, aqui está uma[n]atualização especial![n]nossa nova música será lançada em breve![n][w][e]
-[s][vp 8 2 1 0 2 0]Continue apoiando a Chika de D-kyun! OK? OK?[n][w][e]
+[s][vp 8 2 1 0 2 0]Continue apoiando a Chika de D-kyun! Ok? Ok?[n][w][e]
 
 [msg MSG_TIKAAIDORU_002_2_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Buuu, que decepção![n]Preciso anunciar mais online.[n][w][e]
 [s][vp 8 2 1 0 2 0]D-kyun é uma banda idol[n]muito ativa em Shibuya![n][w][e]
-[s][vp 8 2 1 0 2 0]Se você estiver interessado, procure-nos[n]na Internet! Lembre-se de nos[n]apoiar, ok? OK?[n][w][e]
+[s][vp 8 2 1 0 2 0]Se você estiver interessado, procure-nos[n]na Internet! Lembre-se de nos[n]apoiar, ok? Ok?[n][w][e]
 
 [msg MSG_TIKAAIDORU_002_3_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Aaaah, a verdade dói mesmo...[n][w][e]
@@ -452,7 +452,7 @@
 [msg MSG_TIKAAIDORU_003_0_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Alô! Eu sou Chika,[n]da banda ídolo D-kyun![n][w][e]
 [s][vp 8 2 1 0 2 0]Finalmente nossa[n]nova música foi lançada! Compre por favor![n][w][e]
-[s][vp 8 2 1 0 2 0]Eles custam 1.000 ienes cada![n]Talvez eu adicione um cupom[n]para um aperto de mão! OK? OK?[n][w][e]
+[s][vp 8 2 1 0 2 0]Eles custam 1.000 ienes cada![n]Talvez eu adicione um cupom[n]para um aperto de mão! Ok? Ok?[n][w][e]
 
 [sel SEL_TIKAAIDORU_003_0_0 top]
 [s]eu compro um.[e]
@@ -466,7 +466,7 @@
 
 [msg MSG_TIKAAIDORU_003_2_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Hum? Você já tem?[n]Muito obrigado![n][w][e]
-[s][vp 8 2 1 0 2 0]Espero que você continue a apoiar[n]i D-kyun! OK? OK?[n][w][e]
+[s][vp 8 2 1 0 2 0]Espero que você continue a apoiar[n]i D-kyun! Ok? Ok?[n][w][e]
 
 [msg MSG_TIKAAIDORU_003_3_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Isso me entristece...[n]Solução. Agora terei que fazer[n]outros empregos de meio período.[n][w][e]
@@ -495,7 +495,7 @@
 
 [msg MSG_TIKAAIDORU_004_3_0 [Ídolo independente de pouca fama]]
 [s][vp 8 2 1 0 2 0]De qualquer forma... por favor, compre a nova[n]música de D-kyun. Você vai achar divina![n][w][e]
-[s][vp 8 2 1 0 2 0]Também vou adicionar um autógrafo[n]só para você, ok? OK?[n][w][e]
+[s][vp 8 2 1 0 2 0]Também vou adicionar um autógrafo[n]só para você, ok? Ok?[n][w][e]
 
 [sel SEL_TIKAAIDORU_004_1_0 top]
 [s]eu compro um.[e]
@@ -508,7 +508,7 @@
 
 [msg MSG_TIKAAIDORU_004_5_0 [Ídolo independente de pouca fama]]
 [s][vp 8 2 1 0 2 0]Hum? Você já tem?[n]Muito obrigado![n][w][e]
-[s][vp 8 2 1 0 2 0]Espero que você continue a apoiar[n]i D-kyun! OK? OK?[n][w][e]
+[s][vp 8 2 1 0 2 0]Espero que você continue a apoiar[n]i D-kyun! Ok? Ok?[n][w][e]
 
 [msg MSG_TIKAAIDORU_004_6_0 [Ídolo independente de pouca fama]]
 [s][vp 8 2 1 0 2 0]Estou chocado... soluço.[n]Nesse ritmo, não poderei nem[n]acompanhar as lições.[n][w][e]
@@ -538,14 +538,14 @@
 [msg MSG_TIKAAIDORU_005_3_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Ah sim, enquanto você está aqui,[n]tenho um anúncio importante a fazer.[n]Clap clap clap.[n][w][e]
 [s][vp 8 2 1 0 2 0]D-kyun está indo para o próximo estágio! Iremos[n]evoluir para o "Fanta-idol"![n][w][e]
-[s][vp 8 2 1 0 2 0]Você conhece os Phantom Thieves, não é?[n]Seremos os próximos a atingi-los![n]OK? OK?[n][w][e]
+[s][vp 8 2 1 0 2 0]Você conhece os Phantom Thieves, não é?[n]Seremos os próximos a atingi-los![n]Ok? Ok?[n][w][e]
 
 [msg MSG_TIKAAIDORU_006_0_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Vamos mudar de direção! Eu também[n]estou confusa sobre me tornar[n]uma Fanta-ídola![n][w][e]
 [s][vp 8 2 1 0 2 0]Mas farei o meu melhor! Acho que vou escrever[n]"Chika tem a mesma ascendência dos Phantom[n]Thieves".[n][w][e]
 
 [sel SEL_TIKAAIDORU_006_0_0 top]
-[s]Estilo dos ladrões fantasmas?[e]
+[s]Estilo dos Phantom Thieves?[e]
 [s]Não minta.[e]
 [s]Pode funcionar![e]
 
@@ -560,7 +560,7 @@
 
 [msg MSG_TIKAAIDORU_006_4_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]E aqui novamente[n]i Fanta-ídolo, D-kyun![n][w][e]
-[s][vp 8 2 1 0 2 0]Nossa nova música foi lançada![n]1.000 ienes para uma edição[n]limitada, ok? OK?[n][w][e]
+[s][vp 8 2 1 0 2 0]Nossa nova música foi lançada![n]1.000 ienes para uma edição[n]limitada, ok? Ok?[n][w][e]
 
 [sel SEL_TIKAAIDORU_006_1_0 top]
 [s]eu compro um.[e]
@@ -569,11 +569,11 @@
 
 [msg MSG_TIKAAIDORU_006_5_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Grazie per l'acquisto! Questo si[n]intitola "He's a Trickster☆"![n][w][e]
-[s][vp 8 2 1 0 2 0]Por favor, apoiem nossa[n]banda Fanta-ídolo,[n]i D-kyun! OK? OK?[n][w][e]
+[s][vp 8 2 1 0 2 0]Por favor, apoiem nossa[n]banda Fanta-ídolo,[n]i D-kyun! Ok? Ok?[n][w][e]
 
 [msg MSG_TIKAAIDORU_006_6_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Hum? Você já[n]comprou um![n][w][e]
-[s][vp 8 2 1 0 2 0]Espero que você continue a apoiar[n]i D-kyun! OK? OK?[n][w][e]
+[s][vp 8 2 1 0 2 0]Espero que você continue a apoiar[n]i D-kyun! Ok? Ok?[n][w][e]
 
 [msg MSG_TIKAAIDORU_006_7_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Oh... Que shooock![n]O que vou fazer para arrecadar[n]alguns fundos...?[n][w][e]
@@ -607,7 +607,7 @@
 
 [msg MSG_TIKAAIDORU_007_4_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Grazie dell'acquistooo![n]Ecco a te "He's a Trickster☆"![n][w][e]
-[s][vp 8 2 1 0 2 0]Nós somos o D-kyun, uma nova[n]banda do Fanta-idol![n]Sempre me apoie, ok? OK?[n][w][e]
+[s][vp 8 2 1 0 2 0]Nós somos o D-kyun, uma nova[n]banda do Fanta-idol![n]Sempre me apoie, ok? Ok?[n][w][e]
 
 [msg MSG_TIKAAIDORU_007_5_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Você já tem![n]Espero que continue me apoiando![n][w][e]
@@ -617,13 +617,13 @@
 
 [msg MSG_TIKAAIDORU_007_7_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]É uma música que vai roubar seu coração. Ou não?[n]Compre, por 1.000 ienes você receberá um estojo[n]de edição limitada![n][w][e]
-[s][vp 8 2 1 0 2 0]É roubo! OK? OK?[n][w][e]
+[s][vp 8 2 1 0 2 0]É roubo! Ok? Ok?[n][w][e]
 
 [msg MSG_TIKAAIDORU_008_0_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]A banda idol D-kyun,[n]i Fanta-idol,[n]apóia os Phantom Thieves![n][w][e]
 
 [sel SEL_TIKAAIDORU_008_0_0 top]
-[s]Porque?[e]
+[s]Por quê?[e]
 [s]Siga a trilha, hein?[e]
 
 [msg MSG_TIKAAIDORU_008_1_0 [Ídolo independente de pouca fama]]
@@ -632,7 +632,7 @@
 
 [msg MSG_TIKAAIDORU_008_2_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Errr... E agora eu também tenho[n]novos itens promocionais[n]D-kyun para fãs como você![n][w][e]
-[s][vp 8 2 1 0 2 0]O preço é de apenas 500 ienes![n]Vou colocar meu[n]autógrafo também, ok? OK?[n][w][e]
+[s][vp 8 2 1 0 2 0]O preço é de apenas 500 ienes![n]Vou colocar meu[n]autógrafo também, ok? Ok?[n][w][e]
 
 [sel SEL_TIKAAIDORU_008_1_0 top]
 [s]eu compro um.[e]
@@ -644,7 +644,7 @@
 [s][vp 8 2 1 0 2 0]Seu sabor envolvente[n]vai roubar seu coração! Devo[n]investigar você? Huh? Huh?[n][w][e]
 
 [msg MSG_TIKAAIDORU_008_4_0 [Ídolo independente de pouca fama]]
-[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Hum? Você já comprou outros, certo? Tenha cuidado[n]para não comer demais, ok? OK?[n][w][e]
+[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Hum? Você já comprou outros, certo? Tenha cuidado[n]para não comer demais, ok? Ok?[n][w][e]
 
 [msg MSG_TIKAAIDORU_008_5_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Sob... Mas eu trabalhei tanto para prepará-los.[n]Eu preciso trabalhar mais no meu charme![n][w][e]
@@ -672,7 +672,7 @@
 
 [msg MSG_TIKAAIDORU_009_4_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]É o nosso mais novo produto, o Chika-chan Drinco![n]Você tem um olho comprido, sabia?[n][w][e]
-[s][vp 8 2 1 0 2 0]Não é um suco qualquer![n]Chika botou uma[n]etiqueta artesanal, tá? OK?[n][w][e]
+[s][vp 8 2 1 0 2 0]Não é um suco qualquer![n]Chika botou uma[n]etiqueta artesanal, tá? Ok?[n][w][e]
 
 [msg MSG_TIKAAIDORU_009_5_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]La nostra prima produzione in stile[n]Ladri Fantasma, prima edizione[n]limitata di "He's a Trick☆ster→"![n][w][e]
@@ -680,7 +680,7 @@
 
 [msg MSG_TIKAAIDORU_009_6_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Preparei com tanto[n]amor! O "Biscoito D-kyun"![n][w][e]
-[s][vp 8 2 1 0 2 0]Obrigado por sua compra![n]Se você sentir dor de barriga[n]não é minha culpa, ok? OK?[n][w][e]
+[s][vp 8 2 1 0 2 0]Obrigado por sua compra![n]Se você sentir dor de barriga[n]não é minha culpa, ok? Ok?[n][w][e]
 
 [msg MSG_TIKAAIDORU_009_7_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Que decepção...[n]Solução. Nesse ritmo,[n]meus fundos...[n][w][e]
@@ -705,8 +705,8 @@
 
 [msg MSG_TIKAAIDORU_010_1_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0][f 4 1]-san, hein?[n]Que nome lindo! Agora que sei,[n]nunca vou esqueceriii.[n][w][e]
-[s][vp 8 2 1 0 2 0]Se você não apoiar D-kyun,[n]Phantom Thieves irá puni-lo![n]OK? OK?[n][w][e]
-[s][vp 8 2 1 0 2 0]Não posso dizer em voz alta, mas[n]vote em mim online! OK? OK?[n][w][e]
+[s][vp 8 2 1 0 2 0]Se você não apoiar D-kyun,[n]Phantom Thieves irá puni-lo![n]Ok? Ok?[n][w][e]
+[s][vp 8 2 1 0 2 0]Não posso dizer em voz alta, mas[n]vote em mim online! Ok? Ok?[n][w][e]
 
 [msg MSG_TIKAAIDORU_010_2_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Hum? Você está envergonhado? Em momentos[n]como este, você precisa de um ritual[n]amuleto da sorte. *murmúrio*[n][w][e]
@@ -740,7 +740,7 @@
 [s][vp 8 2 1 0 2 0]Coma e seu coração...[n]será roubado?[n]Uh, que ansiedade![n][w][e]
 
 [msg MSG_TIKAAIDORU_010_8_0 [Ídolo independente de pouca fama]]
-[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Hum? Você já comprou[n]um! Estou tão felizeeee![n][w][e]
+[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Hum? Você já comprou[n]um! Estou tão felizzzzz![n][w][e]
 [s][vp 8 2 1 0 2 0]Continue e você completará toda a[n]coleção! E talvez então[n]algo bom aconteça.[n][w][e]
 
 [msg MSG_TIKAAIDORU_010_9_0 [Ídolo independente de pouca fama]]
@@ -752,16 +752,16 @@
 [s][vp 8 2 1 0 2 0]Um dos pontos fortes de D-kyun[n]é que nos conectamos com os fãs![n][w][e]
 
 [sel SEL_TIKAAIDORU_011_0_0 top]
-[s]Obrigada.[e]
+[s]Obrigado.[e]
 [s]Bizarro...[e]
 [s]Você fica ocupado.[e]
 
 [msg MSG_TIKAAIDORU_011_1_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Heheheh, por favor,[n][f 4 1]-san! Heheheheh![n][w][e]
-[s][vp 8 2 1 0 2 0]Espero que você continue a apoiar[n]i D-kyun! OK? OK?[n][w][e]
+[s][vp 8 2 1 0 2 0]Espero que você continue a apoiar[n]i D-kyun! Ok? Ok?[n][w][e]
 
 [msg MSG_TIKAAIDORU_011_2_0 [Ídolo independente de pouca fama]]
-[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Wahhh, não diga isso,[n]ou vou acabar te odiando, ok? OK?[n][w][e]
+[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Wahhh, não diga isso,[n]ou vou acabar te odiando, ok? Ok?[n][w][e]
 
 [msg MSG_TIKAAIDORU_011_3_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Bem, eu faço o que amo.[n]Estou sempre cheio de energia![n][w][e]
@@ -773,7 +773,7 @@
 
 [msg MSG_TIKAAIDORU_011_6_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Oh, você é quem sempre vem[n]me ver! Fico feliz em vê-lo novamente![n][w][e]
-[s][vp 8 2 1 0 2 0]Eu gostaria de conhecê-lo um pouco melhor,[n]OK? OK? Você poderia me dizer[n]qual é o seu nome?[n][w][e]
+[s][vp 8 2 1 0 2 0]Eu gostaria de conhecê-lo um pouco melhor,[n]Ok? Ok? Você poderia me dizer[n]qual é o seu nome?[n][w][e]
 
 [sel SEL_TIKAAIDORU_011_1_0 top]
 [s]Diga a ela seu nome.[e]
@@ -781,7 +781,7 @@
 
 [msg MSG_TIKAAIDORU_011_7_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Passo a passooo...[n]Estamos chegando mais perto![n][w][e]
-[s][vp 8 2 1 0 2 0][f 4 1]-san, espero que continue a apoiar[n]i D-kyun! OK? OK?[n][w][e]
+[s][vp 8 2 1 0 2 0][f 4 1]-san, espero que continue a apoiar[n]i D-kyun! Ok? Ok?[n][w][e]
 
 [msg MSG_TIKAAIDORU_011_8_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Quão ruim você é.[n][w][e]
@@ -800,7 +800,7 @@
 
 [msg MSG_TIKAAIDORU_011_10_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Uma Concentração de Amor![n]O "Chika-chan Drinco"![n][w][e]
-[s][vp 8 2 1 0 2 0]Não perca artigos semelhantes,[n]OK? OK? Vamos![n][w][e]
+[s][vp 8 2 1 0 2 0]Não perca artigos semelhantes,[n]Ok? Ok? Vamos![n][w][e]
 
 [msg MSG_TIKAAIDORU_011_11_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Anche le note stonate possono[n]essere affascinanti! Questo è[n]"He's a Trickster☆"![n][w][e]
@@ -808,7 +808,7 @@
 
 [msg MSG_TIKAAIDORU_011_12_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Já expirou há muito tempo?[n]Isso torna ainda mais emocionante![n]Este é o "D-kyun Cookie"![n][w][e]
-[s][vp 8 2 1 0 2 0]Fiz com muito amor.[n]Coma devagar e[n]aproveite, ok? OK?[n][w][e]
+[s][vp 8 2 1 0 2 0]Fiz com muito amor.[n]Coma devagar e[n]aproveite, ok? Ok?[n][w][e]
 
 [msg MSG_TIKAAIDORU_011_13_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Não! Você já comprou![n]Umpf![n][w][e]
@@ -816,7 +816,7 @@
 
 [msg MSG_TIKAAIDORU_011_14_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]OmgGosh... Estamos em pleno[n]Fever de Phantasmaaa Thieves!![n][w][e]
-[s][vp 8 2 1 0 2 0]Não é minha culpa que eles desapareceram, ok?[n]OK?[n][w][e]
+[s][vp 8 2 1 0 2 0]Não é minha culpa que eles desapareceram, ok?[n]Ok?[n][w][e]
 
 [msg MSG_TIKAAIDORU_012_0_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Rufar de tambores... Vamos ver[n]que assuntos estão[n]falando na cidade![n][w][e]
@@ -909,7 +909,7 @@
 [s][vp 8 2 1 0 2 0]Eles enviaram a carta de aviso![n]Estamos torcendo pelos Phantom Thieves![n]Cuidado com os bandidos![n][w][e]
 
 [msg MSG_TIKAAIDORU_014_0_0 [Ídolo independente de pouca fama]]
-[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Oh, não... na Internet e na[n]TV todos eles insultam[n]os Ladrões Fantasmas...[n][w][e]
+[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Oh, não... na Internet e na[n]TV todos eles insultam[n]os Phantom Thieves...[n][w][e]
 [s][vp 8 2 1 0 2 0]E eles estão começando com[n]i Fanta-idol também... É um problema real[n]... O que eu faço?[n][w][e]
 
 [sel SEL_TIKAAIDORU_014_0_0 top]
@@ -949,11 +949,11 @@
 [sel SEL_TIKAAIDORU_016_0_0 top]
 [s]Vá à polícia.[e]
 [s]Eu vou proteger você.[e]
-[s]Pergunte aos ladrões fantasmas.[e]
+[s]Pergunte aos Phantom Thieves.[e]
 
 [msg MSG_TIKAAIDORU_016_1_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]N-nem pense nisso![n][w][e]
-[s][vp 8 2 1 0 2 0]A polícia está ocupada com[n]o incidente dos Ladrões Fantasmas,[n]você sabe? Vamos ver o que acontece...[n][w][e]
+[s][vp 8 2 1 0 2 0]A polícia está ocupada com[n]o incidente dos Phantom Thieves,[n]você sabe? Vamos ver o que acontece...[n][w][e]
 
 [msg MSG_TIKAAIDORU_016_2_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Eu não posso! Os Phantom Thieves[n]são assassinos, sabia? Brrr...[n][w][e]
@@ -977,7 +977,7 @@
 
 [msg MSG_TIKAAIDORU_016_7_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]N-nem pense nisso![n][w][e]
-[s][vp 8 2 1 0 2 0]A polícia está ocupada com[n]o incidente dos Ladrões Fantasmas,[n]você sabe? Vamos ver o que acontece...[n][w][e]
+[s][vp 8 2 1 0 2 0]A polícia está ocupada com[n]o incidente dos Phantom Thieves,[n]você sabe? Vamos ver o que acontece...[n][w][e]
 
 [msg MSG_TIKAAIDORU_016_8_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Não acredito que eles[n]me ameaçaram de morte. Pobre de mim.[n][w][e]
@@ -1006,7 +1006,7 @@
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Eu sou. Eu causei[n]problemas para tantas pessoas...[n][w][e]
 
 [msg MSG_TIKAAIDORU_017_3_0 [Ídolo independente de pouca fama]]
-[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]A moda dos Ladrões Fantasmas[n]está diminuindo. Talvez a[n]band eventualmente se separe...[n][w][e]
+[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]A moda dos Phantom Thieves[n]está diminuindo. Talvez a[n]band eventualmente se separe...[n][w][e]
 
 [msg MSG_TIKAAIDORU_017_4_0 [Ídolo independente de pouca fama]]
 [s][vp 8 2 1 0 2 0]Eu deveria procurar outra[n]colaboração. O que você acha do Sr. Shido?[n][w][e]
@@ -1556,7 +1556,7 @@
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Não consigo obter o número das meninas. Existe[n]uma maneira fácil de "roubar o coração dele"?[n][w][e]
 
 [msg MSG_NANPASI_006_1_0 [Mulherengo especialista]]
-[s][f 4 23 1 12 3 10 0 10][vp 8 2 1 0 12 0]Roubando seu coração... Mais ou menos como[n]aqueles ladrões fantasmas, hein?[n]Talvez você esteja no caminho certo.[n][w][e]
+[s][f 4 23 1 12 3 10 0 10][vp 8 2 1 0 12 0]Roubando seu coração... Mais ou menos como[n]aqueles Phantom Thieves, hein?[n]Talvez você esteja no caminho certo.[n][w][e]
 [s][vp 8 2 1 0 12 0]Acho que pode funcionar.[n]Tente dizer algo[n]assim para iniciar uma conversa.[n][w][e]
 
 [msg MSG_NANPASI_006_2_0 [Mulherengo iniciante]]
@@ -1575,10 +1575,10 @@
 [s][f 4 23 1 12 3 10 0 10][vp 8 2 1 0 12 0]Uuuh, você sabe. Leve-a para um café[n]ou algum lugar assim[n]em vez de beber...[n][w][e]
 
 [msg MSG_NANPASI_008_0_0 [Mulherengo iniciante]]
-[s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]E se eu disser que sou um[n]ladrão fantasma? Pode funcionar,[n]aqueles venceram Kaneshiro![n][w][e]
+[s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]E se eu disser que sou um[n]Phantom Thief? Pode funcionar,[n]aqueles venceram Kaneshiro![n][w][e]
 
 [msg MSG_NANPASI_008_1_0 [Mulherengo especialista]]
-[s][f 4 23 1 12 3 10 0 10][vp 8 2 1 0 12 0]Eu sou o ladrão fantasma romântico,[n]e vim para roubar seu coração.[n]O ladrão de corações apaixonados![n][w][e]
+[s][f 4 23 1 12 3 10 0 10][vp 8 2 1 0 12 0]Eu sou o Phantom Thief romântico,[n]e vim para roubar seu coração.[n]O ladrão de corações apaixonados![n][w][e]
 
 [msg MSG_NANPASI_008_2_0 [Mulherengo iniciante]]
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Ladrão romântico...[n]Corações apaixonados?[n]Isso não é um pouco cafona?[n][w][e]
@@ -1877,7 +1877,7 @@
 [s][f 4 23 1 14 3 10 0 10][vp 8 2 1 0 14 0]Talvez ele tenha feito algum[n]acordo com a polícia,[n]ou algo assim.[n][w][e]
 
 [msg MSG_SURETIGAITUUSIN_007__4 [Funcionário carrancudo]]
-[s][f 4 23 1 15 3 10 0 10][vp 8 2 1 0 15 0]Aaah, OK, isso faria sentido.[n]Você não pode confiar[n]nem na polícia.[n][w][e]
+[s][f 4 23 1 15 3 10 0 10][vp 8 2 1 0 15 0]Aaah, Ok, isso faria sentido.[n]Você não pode confiar[n]nem na polícia.[n][w][e]
 
 [msg MSG_SURETIGAITUUSIN_008_ [Funcionário carrancudo]]
 [s][f 4 23 1 15 3 10 0 10][vp 8 2 1 0 15 0]Medjed já foi mencionado, não foi?[n]Eles são rebeldes da internet[n]ou algo assim?[n][w][e]
@@ -1968,7 +1968,7 @@
 
 [msg MSG_SURETIGAITUUSIN_015__3 [Empregado cansado]]
 [s][f 4 23 1 14 3 10 0 10][vp 8 2 1 0 14 0]Vi um especial sobre acidentes recentes e percebi[n]que não podemos confiar em quem nos governa.[n][w][e]
-[s][f 4 23 1 14 3 10 0 10][vp 8 2 1 0 14 0]Eles estão arruinando o Japão.[n]É culpa deles que pessoas como[n]os Ladrões Fantasmas estão governando o poleiro.[n][w][e]
+[s][f 4 23 1 14 3 10 0 10][vp 8 2 1 0 14 0]Eles estão arruinando o Japão.[n]É culpa deles que pessoas como[n]os Phantom Thieves estão governando o poleiro.[n][w][e]
 
 [msg MSG_SURETIGAITUUSIN_015__4 [Funcionário carrancudo]]
 [s][f 4 23 1 15 3 10 0 10][vp 8 2 1 0 15 0]Um novo partido no poder mudaria alguma coisa? Eu[n]simplesmente não consigo imaginar...[n][w][e]
@@ -2043,7 +2043,7 @@
 [s][f 4 23 1 14 3 10 0 10][vp 8 2 1 0 14 0]Será que é da obra dos Phantom Thieves que todo[n]mundo está falando?[n][w][e]
 
 [msg MSG_SURETIGAITUUSIN_022__3 [Funcionário carrancudo]]
-[s][f 4 23 1 15 3 10 0 10][vp 8 2 1 0 15 0]Os ladrões fantasmas? Quem são eles?[n]Só me lembro que Shido[n]tentou derrubar o governo.[n][w][e]
+[s][f 4 23 1 15 3 10 0 10][vp 8 2 1 0 15 0]Os Phantom Thieves? Quem são eles?[n]Só me lembro que Shido[n]tentou derrubar o governo.[n][w][e]
 
 [msg MSG_SURETIGAITUUSIN_023_ [Funcionário carrancudo]]
 [s][f 4 23 1 15 3 10 0 10][vp 8 2 1 0 15 0]O novo[n]ano fiscal está prestes a começar.[n][w][e]
@@ -2834,7 +2834,7 @@
 [s][vp 9 2 65535 41610 0 0]Por quanto tempo eles deixarão esses criminosos[n]perigosos andarem livres?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_020_03_ [Morgana]]
-[s][vp 9 2 65535 38657 0 0]Talvez esteja relacionado a quando os rumores[n]sobre ladrões fantasmas começaram a circular.[n][f 1 2 180][e]
+[s][vp 9 2 65535 38657 0 0]Talvez esteja relacionado a quando os rumores[n]sobre Phantom Thieves começaram a circular.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_020_04_ [Morgana]]
 [s][vp 9 2 65535 41751 0 0]Alguém tem que fazer algo[n]sobre os Phantom Thieves![n][f 1 2 180][e]
@@ -2861,7 +2861,7 @@
 [s][vp 9 2 65535 43701 0 0]Por quanto tempo eles deixarão esses criminosos[n]perigosos andarem livres?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_020_12_ [Morgana]]
-[s][vp 9 2 65535 38957 0 0]Talvez esteja relacionado a quando os rumores[n]sobre ladrões fantasmas começaram a circular.[n][f 1 2 180][e]
+[s][vp 9 2 65535 38957 0 0]Talvez esteja relacionado a quando os rumores[n]sobre Phantom Thieves começaram a circular.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_021_01_ [Morgana]]
 [s][vp 9 2 65535 41905 0 0]Eles realmente acham que[n]uma recompensa tornará[n]os Phantom Thieves mais fáceis de capturar?[n][f 1 2 180][e]
@@ -2945,7 +2945,7 @@
 [s][vp 9 2 65535 38007 0 0]Na TV, eles disseram que os Phantom Thieves são[n]os responsáveis pelos arrebatamentos[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_023_04_ [Morgana]]
-[s][vp 9 2 65535 40307 0 0]Esses Ladrões Fantasmas estão[n]cometendo uma série de crimes...[n][f 1 2 180][e]
+[s][vp 9 2 65535 40307 0 0]Esses Phantom Thieves estão[n]cometendo uma série de crimes...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_023_05_ [Morgana]]
 [s][vp 9 2 65535 44602 0 0]Por que a polícia[n]não está fazendo nada?[n][f 1 2 180][e]
@@ -2954,7 +2954,7 @@
 [s][vp 9 2 65535 43251 0 0]A polícia vai[n]levá-los à[n]justiça ou não?!?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_023_07_ [Morgana]]
-[s][vp 9 2 65535 41707 0 0]Não podemos confiar na[n]polícia. Alguém pare aqueles[n]Ladrões Fantasmas...[n][f 1 2 180][e]
+[s][vp 9 2 65535 41707 0 0]Não podemos confiar na[n]polícia. Alguém pare aqueles[n]Phantom Thieves...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_023_08_ [Morgana]]
 [s][vp 9 2 65535 43307 0 0]Quem você acha que está[n]escondido atrás dos Phantom Thieves?[n][f 1 2 180][e]
@@ -2987,7 +2987,7 @@
 [s][vp 9 2 65535 37504 0 0]Shido-san está[n]sempre ocupado.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_024_06_ [Morgana]]
-[s][vp 9 2 65535 43353 0 0]Para a captura desses[n]Ladrões Fantasmas, devemos confiar[n]em Shido-san![n][f 1 2 180][e]
+[s][vp 9 2 65535 43353 0 0]Para a captura desses[n]Phantom Thieves, devemos confiar[n]em Shido-san![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_024_07_ [Morgana]]
 [s][vp 9 2 65535 40158 0 0]Shido-san é tão honesto...[n]É bom ver alguém[n]assim na política.[n][f 1 2 180][e]
@@ -3023,25 +3023,25 @@
 [s][vp 9 2 65535 44405 0 0]Quando ele foi levado, pensei que descobriríamos[n]como os Phantom Thieves se saíram, mas...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_025_06_ [Morgana]]
-[s][vp 9 2 65535 38355 0 0]Aquele Ladrão Fantasma[n]era menor de idade?!? Incrível![n][f 1 2 180][e]
+[s][vp 9 2 65535 38355 0 0]Aquele Phantom Thief[n]era menor de idade?!? Incrível![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_025_07_ [Morgana]]
 [s][vp 9 2 65535 43907 0 0]O culpado morreu[n]antes que eles descobrissem[n]como eles fizeram...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_025_08_ [Morgana]]
-[s][vp 9 2 65535 44754 0 0]Aquele Ladrão Fantasma[n]realmente cometeu suicídio?[n]Ele era apenas um estudante...[n][f 1 2 180][e]
+[s][vp 9 2 65535 44754 0 0]Aquele Phantom Thief[n]realmente cometeu suicídio?[n]Ele era apenas um estudante...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_025_09_ [Morgana]]
-[s][vp 9 2 65535 45052 0 0]Agora que aquele Ladrão Fantasma está morto,[n]talvez as coisas se acalmem um pouco.[n][f 1 2 180][e]
+[s][vp 9 2 65535 45052 0 0]Agora que aquele Phantom Thief está morto,[n]talvez as coisas se acalmem um pouco.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_025_10_ [Morgana]]
 [s][vp 9 2 65535 38460 0 0]Que motivo alguém pode ter[n]para cometer suicídio no dia[n]de sua prisão?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_025_11_ [Morgana]]
-[s][vp 9 2 65535 39404 0 0]Aquele Ladrão Fantasma[n]realmente cometeu suicídio?!?[n][f 1 2 180][e]
+[s][vp 9 2 65535 39404 0 0]Aquele Phantom Thief[n]realmente cometeu suicídio?!?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_025_12_ [Morgana]]
-[s][vp 9 2 65535 40005 0 0]Agora que o Ladrão Fantasma cometeu suicídio[n]as coisas vão voltar a ser como eram,[n]verdade?[n][f 1 2 180][e]
+[s][vp 9 2 65535 40005 0 0]Agora que o Phantom Thief cometeu suicídio[n]as coisas vão voltar a ser como eram,[n]verdade?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_026_01_ [Morgana]]
 [s][vp 9 2 65535 40561 0 0]Representante Shido[n]vai mudar este país, certo?[n][f 1 2 180][e]
@@ -3125,7 +3125,7 @@
 [s][vp 9 2 65535 44454 0 0]E se o que os Phantom Thieves[n]disse[n]for verdade?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_028_04_ [Morgana]]
-[s][vp 9 2 65535 38207 0 0]Foram os Ladrões Fantasmas, certo? Você acha que[n]Shido vai ficar bem?[n][f 1 2 180][e]
+[s][vp 9 2 65535 38207 0 0]Foram os Phantom Thieves, certo? Você acha que[n]Shido vai ficar bem?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_028_05_ [Morgana]]
 [s][vp 9 2 65535 39402 0 0]Está tudo bem? Shido-san[n]respondeu às alegações, no entanto...[n][f 1 2 180][e]
@@ -3143,13 +3143,13 @@
 [s][vp 9 2 65535 42907 0 0]O que se passa na cabeça[n]dos Phantom Thieves?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_028_10_ [Morgana]]
-[s][vp 9 2 65535 45505 0 0]Se aqueles Ladrões Fantasmas estivessem[n]certos, seria uma[n]uma história ruim...[n][f 1 2 180][e]
+[s][vp 9 2 65535 45505 0 0]Se aqueles Phantom Thieves estivessem[n]certos, seria uma[n]uma história ruim...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_028_11_ [Morgana]]
-[s][vp 9 2 65535 42854 0 0]Foi a morte[n]daquele Ladrão Fantasma[n]realmente uma farsa?!?[n][f 1 2 180][e]
+[s][vp 9 2 65535 42854 0 0]Foi a morte[n]daquele Phantom Thief[n]realmente uma farsa?!?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_028_12_ [Morgana]]
-[s][vp 9 2 65535 38910 0 0]Está indo mal para Shido-san...[n]Agora ele tem que lidar[n]com aqueles Ladrões Fantasmas...[n][f 1 2 180][e]
+[s][vp 9 2 65535 38910 0 0]Está indo mal para Shido-san...[n]Agora ele tem que lidar[n]com aqueles Phantom Thieves...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_029_01_ [Morgana]]
 [s][vp 9 2 65535 41601 0 0]Achei que Shido-san[n]mudaria o mundo...[n][f 1 2 180][e]
@@ -3777,7 +3777,7 @@
 [s][f 4 23 1 106 3 10 0 0][vp 8 2 1 0 106 0]Desculpe, foi só curiosidade. Ao mesmo tempo[n]eu estava muito interessado em arte.[n][w][e]
 
 [msg MSG_HAT_HOMELESS_003_5_0 [Transeunte]]
-[s][f 4 23 1 106 3 10 0 0][vp 8 2 1 0 106 0]Talvez agora minha arte viva intacta. Eu devo[n]os Ladrões Fantasmas.[n][w][e]
+[s][f 4 23 1 106 3 10 0 0][vp 8 2 1 0 106 0]Talvez agora minha arte viva intacta. Eu devo[n]os Phantom Thieves.[n][w][e]
 
 [msg MSG_AKIYAMAS_001_0_0 [Akiyama]]
 [s][f 4 23 1 780 3 10 0 10][vp 8 2 1 0 780 0]...Ah é você. Mishima[n]não está com você hoje?[n][w][e]

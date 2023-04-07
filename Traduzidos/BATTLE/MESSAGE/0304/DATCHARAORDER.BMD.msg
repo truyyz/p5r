@@ -39,7 +39,7 @@
 [s][vp 8 0 2 1050 0 3]Que tal [f 2 5 3 9999 1]? Para mim,[n]cheira a muito dinheiro![n][w][e]
 
 [msg charaorder_Ann_00 [Ann]]
-[s][bup 0 4 102 65535 0][f 4 10 65535 0 0][vp 8 0 2 1051 0 4]OK, vamos atraí-lo[n]com um objeto![n][w][e]
+[s][bup 0 4 102 65535 0][f 4 10 65535 0 0][vp 8 0 2 1051 0 4]Ok, vamos atraí-lo[n]com um objeto![n][w][e]
 
 [msg charaorder_Ann_01 [Ann]]
 [s][vp 8 0 2 1052 0 4]O que você acha de [f 2 5 3 9999 1],[n]Joker? Poderia funcionar... talvez...?[n][w][e]

@@ -46,7 +46,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Não estamos dizendo que ele está errado.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Morar com ele me fez perceber[n]que a vida real pode[n]ser mais do que implacável às vezes.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]No entanto, ele talvez tenha desistido de sua[n]existência? Não: ele encontrou novos amigos,[n]novas Personas...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]Agora ele é um incrível[n]Ladrão Fantasma, tanto que até ela[n]o respeita, com seus poderes divinos![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]Agora ele é um incrível[n]Phantom Thief, tanto que até ela[n]o respeita, com seus poderes divinos![n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Maruki]]
 [s][bup 0 216 144 0 0][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]......![n][f 1 3 65535][w][e]

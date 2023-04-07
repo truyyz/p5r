@@ -57,7 +57,7 @@
 [s][vp 1 0 0 0 0 0]Sim eu sei.[n][w][e]
 
 [msg MSG_094_0_0 [Ryuji]]
-[s][bup 0 2 11 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 0 0 0]OK. Agora você será[n]comido. Os fortes comem os fracos,[n]ou algo assim, certo?[n][w][e]
+[s][bup 0 2 11 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 0 0 0]Ok. Agora você será[n]comido. Os fortes comem os fracos,[n]ou algo assim, certo?[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 0 0 0]Quando eu terminar com você,[n]somente[n]ossos permanecerão. Você está pronto?[n][w][e]
 
 [msg MSG_095_0_0 [Sombra de Sakoda]]

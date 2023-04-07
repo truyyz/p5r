@@ -69,7 +69,7 @@
 [s][bup 0 4 300 65535 0][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Hã? Sim, isso mesmo.[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Vendedor de camarão]]
-[s][vp 8 0 0 23 65535 0]E aqueles ladrões fantasmas,[n]eh? Aqueles que roubam corações![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 23 65535 0]E aqueles Phantom Thieves,[n]eh? Aqueles que roubam corações![n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Ann]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 4 7 300 1][vp 8 0 0 24 65535 0]Você conhece os Phantom Thieves!?![n][f 1 3 65535][w][e]
@@ -150,7 +150,7 @@
 [s]Estamos bem assim.[e]
 
 [msg MSG_036_0_0 [Ann]]
-[s][bup 0 4 306 65535 0][f 4 10 65535 0 0][vp 8 0 0 46 65535 0]...OK.[n][f 1 3 65535][w][e]
+[s][bup 0 4 306 65535 0][f 4 10 65535 0 0][vp 8 0 0 46 65535 0]...Ok.[n][f 1 3 65535][w][e]
 
 [msg MND_037_0_0]
 [s][vp 8 0 0 0 65535 0]Nós nos deliciamos com o adorável[n]pôr do sol havaiano.[n]Só eu e Ann ...[n][f 1 3 65535][w][e]

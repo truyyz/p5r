@@ -12,7 +12,7 @@
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu sugiro alcançar[n]a sala privada.[n][w][e]
 
 [msg e379_208_mes05 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Huh...? Porque?[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Huh...? Por quê?[n][w][e]
 
 [msg e379_208_mes06 [Akechi]]
 [s][bup 0 9 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu explico mais tarde.[n]De qualquer forma, vamos procurar[n]uma entrada.[n][w][e]

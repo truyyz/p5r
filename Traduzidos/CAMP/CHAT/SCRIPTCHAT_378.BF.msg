@@ -2,7 +2,7 @@
 [s][f 5 14]Vocês estão pensando em comprar[n]bilhetes de loteria?[n][w][e]
 
 [msg MSG_001_0_0 [Ann]]
-[s][f 5 14]Eu não pensei em[n]fazer isso. Porque?[n][w][e]
+[s][f 5 14]Eu não pensei em[n]fazer isso. Por quê?[n][w][e]
 
 [msg MSG_002_0_0 [Makoto]]
 [s][f 5 14]Estamos no meio da aula, sabe.[n][w][e]

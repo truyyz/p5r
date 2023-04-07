@@ -100,7 +100,7 @@
 
 [msg MND_901_0_0]
 [s][vp 8 0 0 0 65535 0]Eu tenho que escolher as palavras[n]com cuidado...[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]Já estou [clr 2]noivo[n]de outra garota[clr 27]...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Já estou [clr 2]namorando[n]outra garota[clr 27]...[n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Kawakami]]
 [s][bup 0 109 600 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Deixar alguém ter[n]idéias erradas... é[n]mau comportamento, sabe?[n][f 1 3 65535][w][e]
@@ -141,7 +141,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Espere, hum, eu não quis dizer[n]"impossível", mas...[n]tããão?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_028_5_0 [Kawakami]]
-[s][bup 0 109 604 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Espere, hum. OK...OK...[n]OK...OK...OK...[n][f 1 3 65535][w][e]
+[s][bup 0 109 604 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Espere, hum. Ok...Ok...[n]Ok...Ok...Ok...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Tempo! Preciso de mais tempo![n][f 1 3 65535][w][e]
 [s][bup 0 109 603 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Quer dizer, você é aluno e patrão, enquanto eu[n]sou professora e empregada doméstica. Não faz o[n]menor sentido![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Direita? Vamos conversar[n]na próxima vez, ok?!?[n][f 1 3 65535][w][e]

@@ -120,7 +120,7 @@
 [s][bup 0 2 101 0 0][f 4 10 65535 0 0][vp 8 2 1 7106 65535 0]Tsk! Uau bem...[n][w][e]
 
 [msg WEAPON_ANNE_MSG_YES [Ann]]
-[s][bup 0 4 101 0 0][f 4 10 65535 0 0][vp 8 2 1 6108 65535 0]Obrigada! OK, vamos ver...[n]Sim, é maravilhoso![n][w][e]
+[s][bup 0 4 101 0 0][f 4 10 65535 0 0][vp 8 2 1 6108 65535 0]Obrigada! Ok, vamos ver...[n]Sim, é maravilhoso![n][w][e]
 
 [msg WEAPON_ANNE_MSG_NO [Ann]]
 [s][bup 0 4 101 0 0][f 4 10 65535 0 0][vp 8 2 1 6135 65535 0]Claro, sem problemas.[n][w][e]
@@ -129,7 +129,7 @@
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 1035 65535 0]Hehe, agora estou ainda mais forte![n][w][e]
 
 [msg WEAPON_MORGANA_MSG_NO [Morgana]]
-[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 1 1038 65535 0]Oh, OK. Bem, eu já sou um verdadeiro poder de[n]qualquer maneira![n][w][e]
+[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 1 1038 65535 0]Oh, Ok. Bem, eu já sou um verdadeiro poder de[n]qualquer maneira![n][w][e]
 
 [msg WEAPON_YUSUKE_MSG_YES [Yusuke]]
 [s][bup 0 5 101 0 0][f 4 10 65535 0 0][vp 8 2 1 4045 65535 0]...Mmh, isso parece perfeito[n]para mim! Excelente saque.[n][w][e]
@@ -147,7 +147,7 @@
 [s][bup 0 7 101 0 0][f 4 10 65535 0 0][vp 8 2 1 3020 65535 0]Sim! Vou me esforçar ainda mais![n][w][e]
 
 [msg WEAPON_HARU_MSG_NO [Haru]]
-[s][bup 0 7 101 0 0][f 4 10 65535 0 0][vp 8 2 1 3047 65535 0]Oh, OK...[n][w][e]
+[s][bup 0 7 101 0 0][f 4 10 65535 0 0][vp 8 2 1 3047 65535 0]Oh, Ok...[n][w][e]
 
 [msg WEAPON_AKECHI_MSG_YES [Akechi]]
 [s][bup 0 9 101 0 0][f 4 10 65535 0 0][vp 8 2 1 8059 65535 0]Obrigada. Eu prometo que vou tentar[n]ainda mais.[n][w][e]
@@ -159,7 +159,7 @@
 [s][bup 0 9 101 0 0][f 4 10 65535 0 0][vp 8 2 1 8021 65535 0]O que você quiser, você é o chefe.[n][w][e]
 
 [msg WEAPON_KUROAKECHI_MSG_NO [Akechi]]
-[s][bup 0 9 800 0 0][f 4 10 65535 0 0][vp 8 2 1 8021 65535 0]OK, se você diz.[n]Espero que não seja um erro.[n][w][e]
+[s][bup 0 9 800 0 0][f 4 10 65535 0 0][vp 8 2 1 8021 65535 0]Ok, se você diz.[n]Espero que não seja um erro.[n][w][e]
 
 [msg WEAPON_KASUMI_MSG_YES [[f 4 31 10 0]]]
 [s][bup 0 10 101 0 0][f 4 10 65535 0 0][vp 8 2 1 57039 65535 0]Mil agradecimentos! Ele definitivamente será útil![n][w][e]

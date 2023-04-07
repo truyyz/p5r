@@ -1,5 +1,5 @@
 [msg e382_320_mes01 [Locutor]]
-[s][vp 1 0 0 8 0 0]Uau, ele simplesmente não entende! Vince[n]aquele idiota do Ladrão Fantasma![n][w][e]
+[s][vp 1 0 0 8 0 0]Uau, ele simplesmente não entende! Vince[n]aquele idiota do Phantom Thief![n][w][e]
 
 [msg e382_320_mes02 [Locutor]]
 [s][vp 1 0 0 9 0 0]Bem, eu não sei como te dizer...[n]A partir de agora eu sempre o chamarei[n]de Perdedor Fantasma![n][w][e]

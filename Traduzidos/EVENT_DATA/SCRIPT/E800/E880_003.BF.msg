@@ -83,7 +83,7 @@
 [s][vp 1 0 0 0 0 0]Ei! O que podemos fazer?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_0820_4]
-[s][vp 1 0 0 0 0 0]Eu nunca deveria ter acreditado[n]os Ladrões Fantasmas...[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Eu nunca deveria ter acreditado[n]os Phantom Thieves...[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_0820_5]
 [s][vp 1 0 0 0 0 0]O que vai acontecer amanhã...?[n][f 1 3 65535][w][e]

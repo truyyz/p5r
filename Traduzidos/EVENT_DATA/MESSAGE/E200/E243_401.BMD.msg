@@ -60,7 +60,7 @@
 [msg MSG_017_0_0 [Cara desprezível]]
 [s][vp 8 0 0 19 65535 0]Você está falando sério? Mesmo sabendo[n]de quem estamos falando?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 20 65535 0]Bah, não acredito.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 21 65535 0]OK, estou indo embora.[n]Você me quebrou.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 21 65535 0]Ok, estou indo embora.[n]Você me quebrou.[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Makoto]]
 [s][bup 0 6 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Tenho certeza de que ele faz parte[n]da organização[n]que estamos procurando.[n][f 1 3 65535][w][e]

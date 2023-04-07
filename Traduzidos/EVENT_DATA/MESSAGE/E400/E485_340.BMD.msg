@@ -154,7 +154,7 @@
 [s][f 5 14]Venha aqui. Podemos[n]precisar de sua ajuda no local.[n][f 1 3 65535][w][e]
 
 [msg MSG_049_0_0 [Sojiro]]
-[s][f 5 14]OK! Aguardo você.[n][f 1 3 65535][w][e]
+[s][f 5 14]Ok! Aguardo você.[n][f 1 3 65535][w][e]
 
 [msg MND_003_0_0]
 [s][vp 8 0 0 0 65535 0]Estou indo para casa...[n][f 1 3 65535][w][e]

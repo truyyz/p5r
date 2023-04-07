@@ -46,5 +46,5 @@
 [s][f 5 14]Viver uma vida dupla[n]vai ser incrível![n][w][e]
 
 [msg MSG_CHAT_15 [Ryuji]]
-[s][f 5 14][f 5 15]OK, [f 4 2]! Contamos com você![n][w][e]
+[s][f 5 14][f 5 15]Ok, [f 4 2]! Contamos com você![n][w][e]
 

@@ -5,7 +5,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]Se você for expulso da[n]escola, ninguém mais vai[n]aceitá-lo. Tenha isso em mente.[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Diretor]]
-[s][bup 0 204 0 0 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Este é o professor responsável[n]pela sua turma.[n][f 1 3 65535][w][e]
+[s][bup 0 204 0 0 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Esta é a professora responsável[n]pela sua turma.[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Eu sou Sadayo Kawakami.[n][f 1 3 65535][w][e]

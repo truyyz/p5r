@@ -38,7 +38,7 @@
 
 [msg MSG_e650_102_00_mes06_01 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 1170 65535 0]Se você apenas jogar, não[n]acho que haverá problemas...[n][f 1 3 65535][w][e]
-[s][bup 0 3 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]OK, vamos para esta sala de dardos, seja ela qual[n]for. Mostre o caminho, Ryuji![n][f 1 3 65535][w][e]
+[s][bup 0 3 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Ok, vamos para esta sala de dardos, seja ela qual[n]for. Mostre o caminho, Ryuji![n][f 1 3 65535][w][e]
 
 [msg MSG_e650_102_00_mes07 [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7023 65535 0]Sim, droga! Eu cuido disso![n][f 1 3 65535][w][e]

@@ -42,7 +42,7 @@
 [s][bup 0 10 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Não consigo pensar em um despertar mais[n]adequado.[n][w][e]
 
 [msg MES_GROUP3_00 [Akechi]]
-[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 51 10 50 10][vp 8 2 1 8127 65535 0]Então essa é sua persona de perto... o líder[n]dos ladrões fantasmas que conquistaram o[n]coração das massas.[n][w][e]
+[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 51 10 50 10][vp 8 2 1 8127 65535 0]Então essa é sua persona de perto... o líder[n]dos Phantom Thieves que conquistaram o[n]coração das massas.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Você sabe, não parece exatamente um herói da[n]justiça.[n][w][e]
 
 [msg MES_GROUP3_01 [Morgana]]
@@ -85,11 +85,11 @@
 [s][bup 0 103 4 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 40 10 0 10][vp 8 2 1 5048 65535 0]Estou brincando. Nenhuma quantia de dinheiro[n]poderia me convencer a traí-lo.[n][w][e]
 
 [msg MES_GROUP6_00 [Sae]]
-[s][bup 0 105 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 20 10 0 10][vp 8 2 1 21087 65535 0]The famous thief Arsène... It's impossible[n]olhar para ele sem pensar nos ladrões[n]fantasmas.[n][w][e]
+[s][bup 0 105 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 20 10 0 10][vp 8 2 1 21087 65535 0]The famous thief Arsène... It's impossible[n]olhar para ele sem pensar nos Phantom[n]Thieves.[n][w][e]
 
 [msg MES_GROUP6_01 [Takemi]]
 [s][bup 0 108 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Concordou.[n][w][e]
-[s][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10]Você é um promotor, certo? Você vê os[n]ladrões fantasmas como criminosos?[n][w][e]
+[s][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10]Você é um promotor, certo? Você vê os[n]Phantom Thieves como criminosos?[n][w][e]
 
 [msg MES_GROUP6_02 [Sae]]
 [s][bup 0 105 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 3 10 0 10]Sim, seria esse o caso... quando estou[n]falando no trabalho, pelo menos.[n][w][e]

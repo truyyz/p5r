@@ -22,7 +22,7 @@
 [s][bup 0 215 501 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Hum, nada! Então, que pose[n]você quer que eu coloque agora?[n][f 1 3 65535][w][e]
 
 [msg MSG_MIKA_END_0 [Eu fotografo]]
-[s][vp 8 2 1 0 8 0]Oh! Você está incrível, Mika-chan![n]OK, agora olhe para isso.[n][f 1 3 65535][w][e]
+[s][vp 8 2 1 0 8 0]Oh! Você está incrível, Mika-chan![n]Ok, agora olhe para isso.[n][f 1 3 65535][w][e]
 
 [msg MSG_MIKA_END_1 [Mika]]
 [s][bup 0 215 500 0 0][f 4 10 65535 0 0][vp 8 2 1 58001 65535 0]Ei, o que você acha?[n][f 1 3 65535][w][e]

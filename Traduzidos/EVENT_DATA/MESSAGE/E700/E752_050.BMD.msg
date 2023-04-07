@@ -69,7 +69,7 @@
 [s]Ainda bem que não perdi.[e]
 
 [msg MSG_020_0_0 [Takemi]]
-[s][bup 0 108 501 6 0][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]Com moderação, OK?[n][f 1 3 65535][w][e]
+[s][bup 0 108 501 6 0][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]Com moderação, Ok?[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Takemi]]
 [s][bup 0 108 500 6 0][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Infelizmente não. O que é, você estava esperando[n]por isso?[n][f 1 3 65535][w][e]

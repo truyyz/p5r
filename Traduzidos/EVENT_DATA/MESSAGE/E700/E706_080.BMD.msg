@@ -31,7 +31,7 @@
 [s][bup 0 4 202 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Talvez, mas se eu não tentar, nunca[n]saberei se[n]suporto![n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Ryuji]]
-[s][bup 0 2 600 65535 0][f 4 10 65535 0 0][vp 8 2 0 7114 65535 0]OK, mas... se você quiser fazer todas essas[n]coisas, você não vai conseguir nem sair da cama[n]de manhã.[n][f 1 3 65535][w][e]
+[s][bup 0 2 600 65535 0][f 4 10 65535 0 0][vp 8 2 0 7114 65535 0]Ok, mas... se você quiser fazer todas essas[n]coisas, você não vai conseguir nem sair da cama[n]de manhã.[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Ann]]
 [s][bup 0 4 201 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 7 10 4]Mm-hm! Coragem é meu[n]nome do meio![n][f 1 3 65535][w][e]

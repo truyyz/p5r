@@ -5,7 +5,7 @@
 [s][f 5 14]Que tal cuidarmos[n]dos pedidos que aceitamos?[n][w][e]
 
 [msg MSG_002_0_0 [Haru]]
-[s][f 5 14]Isso aumentará o número de pessoas que[n]acreditam nos ladrões fantasmas.[n][w][e]
+[s][f 5 14]Isso aumentará o número de pessoas que[n]acreditam nos Phantom Thieves.[n][w][e]
 
 [msg MSG_003_0_0 [Haru]]
 [s][f 5 14]E então temos que ficar mais fortes.[n][f 5 15][w][e]
@@ -22,5 +22,5 @@
 [s][f 5 14]Vamos fazê-lo.[e]
 
 [msg MSG_REACTION [Haru]]
-[s][f 5 14]OK entendido. Vamos nos encontrar[n]na reunião.[n][f 5 15][w][e]
+[s][f 5 14]Ok entendido. Vamos nos encontrar[n]na reunião.[n][f 5 15][w][e]
 

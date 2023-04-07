@@ -1,5 +1,5 @@
 [msg MSG_000_0_0 [Prof Kawakami]]
-[s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15132 65535 0]OK, isso é tudo para a lição de hoje.[n][f 1 3 65535][w][e]
+[s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15132 65535 0]Ok, isso é tudo para a lição de hoje.[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Tenho certeza que você sabe,[n]mas esta noite teremos um[n]tufão.[n][f 1 3 65535][w][e]
@@ -28,7 +28,7 @@
 [s][vp 8 0 0 0 65535 0]Ouvi dizer que a escola[n]ok com isso e tentei[n]escondê-lo...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 1 5]Aluno[n]Os professores também[n]envolviam-se no escândalo?[n][f 1 3 65535][w][e]
 [s][f 1 5]Kawakami [bup 0 109 4 0 0][f 4 10 65535 0 0][n][f 4 23 0 6 63 10 62 10][vp 8 0 0 0 6 0]Não sabia![n]Você realmente acha que ele tem todo esse[n]poder?[n][f 1 3 65535][w][e]
-[s][bup 0 109 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 6 0]OK, chega de falar! Se você está[n]tão preocupado, pode ir[n]ao nosso conselheiro escolar![n][f 1 3 65535][w][e]
+[s][bup 0 109 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 6 0]Ok, chega de falar! Se você está[n]tão preocupado, pode ir[n]ao nosso conselheiro escolar![n][f 1 3 65535][w][e]
 [s][bup 0 109 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 6 0]A partir de hoje,[n]Dr. Maruki está disponível. E já que[n]está aqui, aproveite ao máximo![n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Morgana]]
@@ -75,7 +75,7 @@
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Está quase na hora...[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Prof Kawakami]]
-[s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15131 65535 0]OK, ouçam todos.[n][f 1 3 65535][w][e]
+[s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15131 65535 0]Ok, ouçam todos.[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Como você sabe, hoje é o[n]torneio de vôlei.[n][f 1 3 65535][w][e]
@@ -146,7 +146,7 @@
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Ele os distorceu tão bem que[n]eles nem perceberam...[n]Mas quão influente é Shido?[n][f 1 3 65535][w][e]
 
 [msg MSG_036_0_0 [Prof Kawakami]]
-[s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15131 65535 0]OK, escute![n][f 1 3 65535][w][e]
+[s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 2 0 15131 65535 0]Ok, escute![n][f 1 3 65535][w][e]
 
 [msg MSG_037_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Há policiais na escola, então[n]tente não atrapalhar.[n][f 1 3 65535][w][e]

@@ -1,5 +1,5 @@
 [msg D01_01_NPC_01_mes01 [Ryuji]]
-[s]Xingamento...! Nada[n]bom, OK...?[n][w][e]
+[s]Xingamento...! Nada[n]bom, Ok...?[n][w][e]
 [s]N-Não que eu tenha medo,[n]claro... A-Ahah, isso não existe...[n][w][e]
 
 [msg D01_01_NPC_01_mes02 [Ryuji]]

@@ -17,5 +17,5 @@
 [s][vp 1 0 0 6 0 0]Mosca imunda zumbindo sobre dinheiro sujo! Saia[n]da minha frente![n][f 1 2 125][e]
 
 [msg MSG_006_0_0 [Sombra de Kaneshiro]]
-[s][vp 1 0 0 7 0 0]Muahahah! OK, vadias, vamos nessa![n][f 1 2 120][e]
+[s][vp 1 0 0 7 0 0]Muahahah! Ok, vadias, vamos nessa![n][f 1 2 120][e]
 

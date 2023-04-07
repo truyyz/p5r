@@ -20,7 +20,7 @@
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 1 0 0 5 0 0]Eles atingiram um ponto sensível...[n]Mas vamos vencê-los![n][f 1 3 65535][w][e]
 
 [msg EV880102_TV_NEWS_0830_00 [Locutor]]
-[s][vp 1 0 0 6 0 0]E agora, vamos lançar luz sobre[n]um assunto muito comentado:[n]os casos relacionados aos Ladrões Fantasmas![n][f 1 3 65535][w][e]
+[s][vp 1 0 0 6 0 0]E agora, vamos lançar luz sobre[n]um assunto muito comentado:[n]os casos relacionados aos Phantom Thieves![n][f 1 3 65535][w][e]
 
 [msg EV880102_TV_NEWS_0830_10 [Locutor]]
 [s][vp 1 0 0 7 0 0]Os Phantom Thieves causaram um rebuliço ao[n]silenciar um conhecido grupo internacional de[n]hackers.[n][f 1 3 65535][w][e]

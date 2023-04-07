@@ -65,7 +65,7 @@
 [s](仮)ダンジョンË動の確認[n][w][e]
 
 [msg GOTO_DUNGEON_PC02_OK_01 [Ryuji]]
-[s][bup 0 2 0 65535 0]OK, vamos lá![n][w][e]
+[s][bup 0 2 0 65535 0]Ok, vamos lá![n][w][e]
 
 [msg GOTO_DUNGEON_PC03_OK_01 [Morgana]]
 [s][bup 0 3 0 65535 0]Muito bem! Vamos alcançar[n]o Tesouro hoje![n][w][e]
@@ -95,7 +95,7 @@
 [s][bup 0 3 0 65535 0]Mmm... Então ainda estamos na fase de preparação?[n][w][e]
 
 [msg GOTO_DUNGEON_PC04_CANCEL [Ann]]
-[s][bup 0 4 0 65535 0]OK... Deixe-nos saber quando você quer ir.[n][w][e]
+[s][bup 0 4 0 65535 0]Ok... Deixe-nos saber quando você quer ir.[n][w][e]
 
 [msg GOTO_DUNGEON_PC05_CANCEL [Yusuke]]
 [s](仮)キャンセルセリフ[n][w][e]

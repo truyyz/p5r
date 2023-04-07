@@ -27,7 +27,7 @@
 [s]Por que você diz essas coisas?[e]
 
 [msg MSG_006_0_0 [Futaba]]
-[s][bup 0 8 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Sim, continuarei a ajudá-lo a[n]lutar... Sou um Ladrão Fantasma,[n]não? Eu me sinto como todo mundo.[n][f 1 3 65535][w][e]
+[s][bup 0 8 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Sim, continuarei a ajudá-lo a[n]lutar... Sou um Phantom Thief,[n]não? Eu me sinto como todo mundo.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Quer dizer... Sim, eu não quero[n]aceitar essa realidade...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 9043 65535 0]É tudo verdade, mas...[n][f 1 3 65535][w][e]
 

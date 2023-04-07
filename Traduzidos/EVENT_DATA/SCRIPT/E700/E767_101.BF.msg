@@ -27,7 +27,7 @@
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 0 1180 65535 0]Estamos todos aqui. Estarei torcendo por cada um[n]de vocês![n][f 1 3 65535][w][e]
 
 [msg MSG_Start_Common_Anne [Ann]]
-[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 6117 65535 0]OK, vamos começar. Espero[n]conseguir![n][f 1 3 65535][w][e]
+[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 6117 65535 0]Ok, vamos começar. Espero[n]conseguir![n][f 1 3 65535][w][e]
 
 [msg MSG_Start_Common_Yusuke [Yusuke]]
 [s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 4105 65535 0]Esta atmosfera... Estimula meus sentidos.[n]Agora, vamos começar![n][f 1 3 65535][w][e]
@@ -39,7 +39,7 @@
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 9003 65535 0]Parece que todo mundo veio![n]Deixa a torcida comigo![n][f 1 3 65535][w][e]
 
 [msg MSG_Start_Common_Haru [Haru]]
-[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 3048 65535 0]É bom estarmos todos aqui![n]OK, farei o possível![n][f 1 3 65535][w][e]
+[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 3048 65535 0]É bom estarmos todos aqui![n]Ok, farei o possível![n][f 1 3 65535][w][e]
 
 [msg MSG_Start_Common_Akechi [Akechi]]
 [s][bup 0 9 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 54440 65535 0]Então, vamos começar? Mantenha a calma[n]e mire.[n][f 1 3 65535][w][e]
@@ -69,7 +69,7 @@
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 9142 65535 0]O som das bolinhas que[n]se espalham é um verdadeiro prazer![n][f 1 3 65535][w][e]
 
 [msg MSG_PreBreak_Haru [Haru]]
-[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 53541 65535 0]Você tem que ficar calmo, ou corre o risco de[n]fazer papel de bobo. OK, respire fundo...[n][f 1 3 65535][w][e]
+[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 53541 65535 0]Você tem que ficar calmo, ou corre o risco de[n]fazer papel de bobo. Ok, respire fundo...[n][f 1 3 65535][w][e]
 
 [msg MSG_PreBreak_Akechi [Akechi]]
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 8020 65535 0]Agora, mostre-me o que você pode fazer.[n][f 1 3 65535][w][e]

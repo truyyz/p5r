@@ -71,7 +71,7 @@
 [s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ah, vamos reorganizar?[n][w][e]
 
 [msg D_EXIT_OK_01_PC08_mes [Haru]]
-[s][bup 0 7 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]OK. Afinal, foi cansativo.[n][w][e]
+[s][bup 0 7 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ok. Afinal, foi cansativo.[n][w][e]
 
 [msg D_EXIT_OK_01_PC09_mes [Akechi]]
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos parar por aqui por hoje?[n][w][e]
@@ -80,7 +80,7 @@
 [s][bup 0 10 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Tudo bem, vamos reagrupar.[n][w][e]
 
 [msg D_EXIT_OK_02_PC02_mes [Ryuji]]
-[s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]OK, vamos voltar.[n][w][e]
+[s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ok, vamos voltar.[n][w][e]
 
 [msg D_EXIT_OK_02_PC03_mes [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Mmm, é uma boa hora para ir embora.[n][w][e]
@@ -107,13 +107,13 @@
 [s][bup 0 10 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Claro, vamos voltar.[n][w][e]
 
 [msg D_EXIT_OK_03_PC02_mes [Ryuji]]
-[s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]OK, vamos.[n][w][e]
+[s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ok, vamos.[n][w][e]
 
 [msg D_EXIT_OK_03_PC03_mes [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]É claro. É importante saber[n]quando retirar.[n][w][e]
 
 [msg D_EXIT_OK_03_PC04_mes [Ann]]
-[s][bup 0 4 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]OK, vamos lá![n][w][e]
+[s][bup 0 4 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ok, vamos lá![n][w][e]
 
 [msg D_EXIT_OK_03_PC05_mes [Yusuke]]
 [s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos andar.[n][w][e]
@@ -122,7 +122,7 @@
 [s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Entendido.[n][w][e]
 
 [msg D_EXIT_OK_03_PC07_mes [Futaba]]
-[s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]OK, vamos lá![n][w][e]
+[s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ok, vamos lá![n][w][e]
 
 [msg D_EXIT_OK_03_PC08_mes [Haru]]
 [s][bup 0 7 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Liderou o caminho.[n][w][e]
@@ -140,7 +140,7 @@
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu entendi. Vamos esperar.[n][w][e]
 
 [msg D_EXIT_GOTO_SAFE_PC04_me [Ann]]
-[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]OK. Deveríamos ter uma[n]reunião estratégica.[n][w][e]
+[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ok. Deveríamos ter uma[n]reunião estratégica.[n][w][e]
 
 [msg D_EXIT_GOTO_SAFE_PC05_me [Yusuke]]
 [s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Sim, primeiro vamos ver as[n]opções disponíveis para nós.[n][w][e]
@@ -152,7 +152,7 @@
 [s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Muito bem. Por favor, Mona.[n][w][e]
 
 [msg D_EXIT_GOTO_SAFE_PC08_me [Haru]]
-[s][bup 0 7 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]OK. Vamos fazer uma pausa.[n][w][e]
+[s][bup 0 7 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ok. Vamos fazer uma pausa.[n][w][e]
 
 [msg D_EXIT_GOTO_SAFE_PC09_me [Akechi]]
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Pode ser o melhor.[n]Estou contando com você.[n][w][e]
@@ -161,7 +161,7 @@
 [s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Intervalo? Está bem.[n][w][e]
 
 [msg D_EXIT_CANCEL_PC02_mes [Ryuji]]
-[s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]OK. Pronto para a ação.[n][w][e]
+[s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ok. Pronto para a ação.[n][w][e]
 
 [msg D_EXIT_CANCEL_PC03_mes [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]É claro. Ainda podemos ganhar.[n][w][e]

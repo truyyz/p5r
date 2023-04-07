@@ -19,7 +19,7 @@
 [s][vp 8 2 1 9196 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Faça de novo, Joker. Parece que tocá-lo[n]desliga-o novamente. Não deve[n]ser perigoso, certo?[n][w][e]
 
 [msg D08_01_e440_112_mes01 [Futaba]]
-[s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9034 65535 0]OK, ande um pouco.[n][w][e]
+[s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9034 65535 0]Ok, ande um pouco.[n][w][e]
 
 [msg D08_01_e440_016_mes01 [Ryuji]]
 [s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7045 65535 0]Uau, abriu! Você fez![n][w][e]

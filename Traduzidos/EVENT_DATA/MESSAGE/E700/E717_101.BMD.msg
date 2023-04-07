@@ -80,7 +80,7 @@
 [s][bup 0 106 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 28 65535 0]Se houver algo que eu possa fazer para ajudá-lo,[n]fique à vontade para contar comigo.[n][f 1 3 65535][w][e]
 
 [sel SEL_017_5_0 top]
-[s]Obrigada.[e]
+[s]Obrigado.[e]
 [s]É reconfortante.[e]
 
 [msg MSG_017_7_0 [Hifumi]]

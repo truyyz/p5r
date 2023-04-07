@@ -33,6 +33,6 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Continuarei a fazer o meu[n]melhor para que todos os cidadãos[n]possam viver em paz.[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Diretor da UIS]]
-[s][bup 0 213 2 0 0][f 4 10 65535 0 0][vp 8 0 0 26 65535 0]Não apenas existem esses[n]Ladrões Fantasmas para se preocupar, mas[n]se isso acontecer ...[n][f 1 3 65535][w][e]
+[s][bup 0 213 2 0 0][f 4 10 65535 0 0][vp 8 0 0 26 65535 0]Não apenas existem esses[n]Phantom Thieves para se preocupar, mas[n]se isso acontecer ...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 27 65535 0]Tsk...[n][f 1 3 65535][w][e]
 

@@ -36,7 +36,7 @@
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Vamos lá, não é uma questão de[n]atributos ou não.[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Yusuke]]
-[s][bup 0 5 100 0 0][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Na verdade, estou impressionado com o quão longe[n]você chegou, imediatamente após o despertar de[n]sua Pessoa.[n][f 1 3 65535][w][e]
+[s][bup 0 5 100 0 0][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Na verdade, estou impressionado com o quão longe[n]você chegou, imediatamente após o despertar de[n]sua Persona.[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Sumire]]
 [s][bup 0 10 100 0 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Obrigado.[n][f 1 3 65535][w][e]

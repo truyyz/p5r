@@ -2,7 +2,7 @@
 [s]Ela não me notou...[n]Ela deve estar concentrada.[n][w][e]
 
 [msg MSG_C02_BEGIN_D01_50 [Estudante sério]]
-[s][bup 0 6 3 65535 0][f 4 23 1 202 30 10 30 10][vp 8 2 1 2015 65535 0][f 4 10 65535 0 0]Após a brincadeira daqueles "ladrões fantasmas",[n]Kamoshida-sensei tornou-se inacessível...[n][w][e]
+[s][bup 0 6 3 65535 0][f 4 23 1 202 30 10 30 10][vp 8 2 1 2015 65535 0][f 4 10 65535 0 0]Após a brincadeira daqueles "Phantom Thieves",[n]Kamoshida-sensei tornou-se inacessível...[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 202 0]Além disso, depois das férias há exames. Quem[n]sabe como será o próximo trimestre...[n][w][e]
 
 [msg MSG_C02_BEGIN_D03_10_00 [Makoto]]
@@ -114,7 +114,7 @@
 [s]Eu ainda não decidi.[e]
 
 [msg MSG_C02_ACTION_D00_99_00 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 23 1 202 3 10 0 10][vp 8 2 1 2023 65535 0][f 4 10 65535 0 0]OK, vou avisar os outros.[n][w][e]
+[s][bup 0 6 0 65535 0][f 4 23 1 202 3 10 0 10][vp 8 2 1 2023 65535 0][f 4 10 65535 0 0]Ok, vou avisar os outros.[n][w][e]
 
 [msg MSG_C02_ACTION_D00_31_00 [Makoto]]
 [s][bup 0 6 4 65535 0][f 4 23 1 202 3 10 0 10][vp 8 2 1 2040 65535 0][f 4 10 65535 0 0]Ainda falta algum tempo até o[n]deadline, mas tentamos fazer[n]coisas com algum planejamento.[n][w][e]
@@ -204,7 +204,7 @@
 [s]Eu ainda não decidi.[e]
 
 [msg MSG_C02_ACTION_D07_99_00 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 23 1 202 3 10 0 10][vp 8 2 1 2023 65535 0][f 4 10 65535 0 0]OK, vou avisar os outros.[n][w][e]
+[s][bup 0 6 0 65535 0][f 4 23 1 202 3 10 0 10][vp 8 2 1 2023 65535 0][f 4 10 65535 0 0]Ok, vou avisar os outros.[n][w][e]
 
 [msg MSG_C02_ACTION_D07_31_00 [Makoto]]
 [s][bup 0 6 4 65535 0][f 4 23 1 202 3 10 0 10][vp 8 2 1 2040 65535 0][f 4 10 65535 0 0]Ainda temos tempo, mas se[n]não queremos ir para o Metaverso,[n]então é melhor ir para casa.[n][w][e]
@@ -257,13 +257,13 @@
 [s]Deixe-me pensar sobre isso.[e]
 
 [msg MSG_C02_ACTION_D10_50_17 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 23 1 202 3 10 0 10][vp 8 2 1 2021 65535 0][f 4 10 65535 0 0]OK, eu entendo. Afinal, é[n]importante relaxar de vez em quando.[n][w][e]
+[s][bup 0 6 0 65535 0][f 4 23 1 202 3 10 0 10][vp 8 2 1 2021 65535 0][f 4 10 65535 0 0]Ok, eu entendo. Afinal, é[n]importante relaxar de vez em quando.[n][w][e]
 
 [msg MSG_C02_ACTION_D10_50_18 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 23 1 202 3 10 0 10][vp 8 2 1 2022 65535 0][f 4 10 65535 0 0]Avise-me quando decidir.[n]Aguardarei.[n][w][e]
 
 [msg MSG_C02_ACTION_D10_50_19 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 23 1 202 3 10 0 10][vp 8 2 1 2023 65535 0][f 4 10 65535 0 0]OK, vou avisar os outros.[n][w][e]
+[s][bup 0 6 0 65535 0][f 4 23 1 202 3 10 0 10][vp 8 2 1 2023 65535 0][f 4 10 65535 0 0]Ok, vou avisar os outros.[n][w][e]
 
 [msg MSG_C02_ACTION_D10_50_20 [Makoto]]
 [s][bup 0 6 2 65535 0][f 4 23 1 202 3 10 0 10][vp 8 2 1 2019 65535 0][f 4 10 65535 0 0]Talvez este mundo seja seguro.[n]Talvez ninguém aqui nunca[n]se machuque...[n][w][e]
@@ -276,7 +276,7 @@
 [s]Não tenho certeza.[e]
 
 [msg MSG_C02_ACTION_D10_50_22 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 23 1 202 3 10 0 10][vp 8 2 1 2023 65535 0][f 4 10 65535 0 0]OK, vou avisar os outros.[n][w][e]
+[s][bup 0 6 0 65535 0][f 4 23 1 202 3 10 0 10][vp 8 2 1 2023 65535 0][f 4 10 65535 0 0]Ok, vou avisar os outros.[n][w][e]
 
 [msg MSG_C02_ACTION_D10_50_23 [Makoto]]
 [s][bup 0 6 4 65535 0][f 4 23 1 202 3 10 0 10][vp 8 2 1 2040 65535 0][f 4 10 65535 0 0]Bem, acho que ainda dá tempo...[n][w][e]
@@ -351,7 +351,7 @@
 [s][bup 0 6 0 65535 0][f 4 23 1 202 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Mmm, sobre a visita ao[n]red light district... Você tem tempo hoje?[n][w][e]
 
 [msg MSG_C02_COOP_02_00 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 23 1 202 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]OK. Posso te pedir um favor sobre[n]o aluno que[n]vimos no Distrito da Luz Vermelha?[n][w][e]
+[s][bup 0 6 0 65535 0][f 4 23 1 202 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ok. Posso te pedir um favor sobre[n]o aluno que[n]vimos no Distrito da Luz Vermelha?[n][w][e]
 
 [msg MSG_C02_COOP_03_00 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 23 1 202 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]...Se você tiver tempo, gostaria de conversar com[n]você sobre uma coisa.[n][w][e]
@@ -447,7 +447,7 @@
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][f 4 23 1 202 3 10 0 10][vp 8 2 1 2053 65535 0]Excelente. Vamos ver depois que mudarmos.[n][w][e]
 
 [msg MSG_C02_YES_01_01 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][f 4 23 1 202 3 10 0 10][vp 8 2 1 2053 65535 0]OK, vamos de trem.[n][w][e]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][f 4 23 1 202 3 10 0 10][vp 8 2 1 2053 65535 0]Ok, vamos de trem.[n][w][e]
 
 [msg MSG_C02_YES_02_00 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][f 4 23 1 202 3 10 0 10][vp 8 2 1 2060 65535 0]Obrigada. Ter você perto de mim enquanto estou[n]conversando com ela me fará sentir mais seguro.[n][w][e]
@@ -554,7 +554,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Tudo bem, então estou saindo...[n]Estou deixando Lady Ann em suas mãos.[n][w][e]
 
 [msg MSG_C02_COOP_CANCEL_REV [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][f 4 23 1 202 3 10 0 10][vp 8 2 1 53355 65535 0]OK, eu entendo.[n][w][e]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][f 4 23 1 202 3 10 0 10][vp 8 2 1 53355 65535 0]Ok, eu entendo.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu vejo. Bem, quando você tiver algum tempo, eu[n]gostaria de falar com você.[n][w][e]
 
 [msg MSG_C02_EVOLUTION_WAIT [Makoto]]
@@ -647,7 +647,7 @@
 [s]Se você conhece alguém[n]que pode gostar do lugar,[n]tente convidá-lo aqui.[n][w][e]
 
 [msg MSG_C02_COOP_CANCEL_00 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][f 4 23 1 202 3 10 0 10][vp 8 2 1 2072 65535 0]Oh, OK. Até mais tarde então.[n][w][e]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][f 4 23 1 202 3 10 0 10][vp 8 2 1 2072 65535 0]Oh, Ok. Até mais tarde então.[n][w][e]
 
 [msg MSG_0621_ANN_AND_MAKOTO_ [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][f 4 23 1 202 3 10 0 10][vp 8 2 1 0 65535 0]Ah, [f 4 2]. Eu estava[n]conhecendo Takamaki-sa...[n]Quero dizer, Ann.[n][w][e]
@@ -660,22 +660,22 @@
 [s]Eu ainda não decidi.[e]
 
 [msg MSG_0621_ANN_AND_MAKOTO__3 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][f 4 23 1 202 3 10 0 10][vp 8 2 1 0 65535 0]OK.[n][w][e]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][f 4 23 1 202 3 10 0 10][vp 8 2 1 0 65535 0]Ok.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Oh, um[n]membro do conselho estudantil me ligou.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 202 3 10 0 10]Irei à reunião assim que[n]o chamar. Desculpe, Ann, você pode ir sem mim?[n][w][e]
 
 [msg MSG_0621_ANN_AND_MAKOTO__4 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]OK.[n][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ok.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 206 3 10 0 10]Oh, eu vou ao banheiro,[n]então você e Mona podem ir[n]primeiro![n][w][e]
 
 [msg MSG_0621_ANN_AND_MAKOTO__5 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][f 4 23 1 202 3 10 0 10][vp 8 2 1 0 65535 0]OK. Vamos embora, Anne?[n][w][e]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][f 4 23 1 202 3 10 0 10][vp 8 2 1 0 65535 0]Ok. Vamos embora, Anne?[n][w][e]
 
 [msg MSG_0621_ANN_AND_MAKOTO__6 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Hum![n][w][e]
 
 [msg MSG_0621_ANN_AND_MAKOTO__7 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 23 1 206 3 10 0 10][vp 8 2 1 0 65535 0]OK, hoje vou passar algum tempo com[n]Makoto, então se nos encontrarmos,[n]podemos ir juntos! Direita?[n][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 23 1 206 3 10 0 10][vp 8 2 1 0 65535 0]Ok, hoje vou passar algum tempo com[n]Makoto, então se nos encontrarmos,[n]podemos ir juntos! Direita?[n][w][e]
 
 [msg MSG_0621_ANN_AND_MAKOTO__8 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][f 4 23 1 202 3 10 0 10][vp 8 2 1 0 65535 0]Hum. Por favor, deixe-nos saber quando você[n]decidir entrar no Palácio.[n][w][e]

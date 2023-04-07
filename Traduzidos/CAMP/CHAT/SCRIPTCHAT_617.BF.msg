@@ -14,7 +14,7 @@
 [s][f 5 14]Apareça se quiser treinar.[n][f 5 15][w][e]
 
 [msg CHAT_REACTION_MSG [Shinya]]
-[s][f 5 14]OK, eu vou esperar por você.[n][f 5 15][w][e]
+[s][f 5 14]Ok, eu vou esperar por você.[n][f 5 15][w][e]
 
 [sel SEL_001 top]
 [s]vá lá agora[e]

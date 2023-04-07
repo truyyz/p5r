@@ -9,7 +9,7 @@
 [s]Aja como de costume.[e]
 
 [msg MSG_002_0_0 [Hifumi]]
-[s][bup 0 106 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 18114 65535 0][f 5 13 18 10 1006]OK...estou um pouco nervoso porque[n]não estou acostumado...[n][f 1 3 65535][w][e]
+[s][bup 0 106 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 18114 65535 0][f 5 13 18 10 1006]Ok...estou um pouco nervoso porque[n]não estou acostumado...[n][f 1 3 65535][w][e]
 [s][bup 0 106 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas estou em um parque de diversões[n]com você, então... acho que[n]deveríamos nos divertir, certo?[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Hifumi]]
@@ -17,7 +17,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 0 18048 65535 0]Estar aqui com você[n]me deixa tão feliz...[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Hifumi]]
-[s][bup 0 106 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 18114 65535 0][f 5 13 18 10 1006]Oh, OK... Mas então vamos terminar[n]falando sobre shogi...[n][f 1 3 65535][w][e]
+[s][bup 0 106 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 18114 65535 0][f 5 13 18 10 1006]Oh, Ok... Mas então vamos terminar[n]falando sobre shogi...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Se estiver tudo bem para você...[n]Parques de diversões são[n]muito agradáveis.[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Hifumi]]

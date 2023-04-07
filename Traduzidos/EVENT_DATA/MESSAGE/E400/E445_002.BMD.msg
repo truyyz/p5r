@@ -18,7 +18,7 @@
 
 [msg MSG_005_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]...Quer saber?[n][f 4 2] está certo.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Este é o meu lugar...[n]Não quero parar[n]de ser um Ladrão Fantasma.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Este é o meu lugar...[n]Não quero parar[n]de ser um Phantom Thief.[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Futaba]]
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]...Eu sinto o mesmo.[n][f 1 3 65535][w][e]

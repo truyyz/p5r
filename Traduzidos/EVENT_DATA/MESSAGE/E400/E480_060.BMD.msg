@@ -18,7 +18,7 @@
 
 [msg MSG_003_0_0 [Garota misteriosa]]
 [s][bup 0 10 100 0 0][f 4 10 65535 0 0][vp 8 0 0 4 4 0]Vá, farei tudo o que puder para garantir que[n]eles não possam localizá-lo.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 5 4 0]Você ainda tem algo a fazer[n]como o Ladrão Fantasma,[n]estou certo?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 5 4 0]Você ainda tem algo a fazer[n]como o Phantom Thief,[n]estou certo?[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_1 [Kasumi]]
 [s][bup 0 10 100 0 0][f 4 10 65535 0 0][vp 8 0 0 4 4 0]Vá, farei tudo o que puder para garantir que[n]eles não possam localizá-lo.[n][f 1 3 65535][w][e]

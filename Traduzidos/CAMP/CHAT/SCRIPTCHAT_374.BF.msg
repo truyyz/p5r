@@ -30,8 +30,8 @@
 [s]Seria ótimo.[e]
 
 [msg MSG_010_0_0 [Makoto]]
-[s][f 5 14]OK. Eu direi a ele.[n][w][e]
+[s][f 5 14]Ok. Eu direi a ele.[n][w][e]
 
 [msg MSG_011_0_0 [Haru]]
-[s][f 5 14][f 5 15]OK, amanhã descobriremos[n]as palavras-chave com certeza![n][w][e]
+[s][f 5 14][f 5 15]Ok, amanhã descobriremos[n]as palavras-chave com certeza![n][w][e]
 

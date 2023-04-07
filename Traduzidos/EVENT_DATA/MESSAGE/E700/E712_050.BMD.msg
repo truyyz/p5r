@@ -1,5 +1,5 @@
 [msg MSG_000_0_0 [Iwai]]
-[s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 2 0 13058 65535 0]OK, isso é o suficiente por hoje.[n]Oh, há... algo[n]que eu gostaria de falar com você.[n][f 1 3 65535][w][e]
+[s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 2 0 13058 65535 0]Ok, isso é o suficiente por hoje.[n]Oh, há... algo[n]que eu gostaria de falar com você.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]É sobre o segredo que Tsuda estava falando. Não é[n]apenas sobre meu passado yakuza.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Quero ter certeza de que você não[n]diga nada estúpido[n]se conhecer Kaoru...[n][f 1 3 65535][w][e]
 

@@ -22,5 +22,5 @@
 [s][f 5 14]Vamos lidar com isso.[e]
 
 [msg MSG_REACTION [Haru]]
-[s][f 5 14]OK. Eu irei imediatamente[n]para a reunião.[n][f 5 15][w][e]
+[s][f 5 14]Ok. Eu irei imediatamente[n]para a reunião.[n][f 5 15][w][e]
 

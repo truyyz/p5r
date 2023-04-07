@@ -145,7 +145,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Avise-me quando estiver pronto.[n][w][e]
 
 [msg MSG_C03_ACTION_D00_51_00 [Haru]]
-[s][bup 0 7 200 65535 0][f 4 10 65535 0 0][f 4 23 1 203 3 10 0 10][vp 8 2 1 3020 65535 0]Oh, OK. Seu plano[n]tem alguma coisa a ver com isso?[n][w][e]
+[s][bup 0 7 200 65535 0][f 4 10 65535 0 0][f 4 23 1 203 3 10 0 10][vp 8 2 1 3020 65535 0]Oh, Ok. Seu plano[n]tem alguma coisa a ver com isso?[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Agora é só enviar a[n]carta de aviso. Avise-me[n]quando estiver pronto, [f 4 2]-kun.[n][w][e]
 
 [msg MSG_C03_BEGIN_D00_60_00 [Haru]]
@@ -308,7 +308,7 @@
 [s][bup 0 7 200 65535 0][f 4 10 65535 0 0][f 4 23 1 203 3 10 0 10][vp 8 2 1 3020 65535 0]Está bem. Entrarei em contato com você[n]depois de entrar em contato com os outros.[n][w][e]
 
 [msg MSG_C03_BEGIN_D09_40_03 [Haru]]
-[s][bup 0 7 200 65535 0][f 4 10 65535 0 0][f 4 23 1 203 3 10 0 10][vp 8 2 1 3111 65535 0]OK, mas temos que encontrar o caminho.[n]Parece que o cumprimento está[n]se espalhando ainda mais.[n][w][e]
+[s][bup 0 7 200 65535 0][f 4 10 65535 0 0][f 4 23 1 203 3 10 0 10][vp 8 2 1 3111 65535 0]Ok, mas temos que encontrar o caminho.[n]Parece que o cumprimento está[n]se espalhando ainda mais.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Aguardando sua ligação.[n]Deixe-me ouvi-lo quando estiver pronto.[n][w][e]
 
 [msg MSG_C03_BEGIN_D09_40_04 [Haru]]
@@ -482,7 +482,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]A verdade é...[n][w][e]
 
 [msg MSG_C03_YES_07_00 [Haru]]
-[s][bup 0 7 200 65535 0][f 4 10 65535 0 0][f 4 23 1 203 3 10 0 10][vp 8 2 1 3194 65535 0]OK. Obrigado....[n][w][e]
+[s][bup 0 7 200 65535 0][f 4 10 65535 0 0][f 4 23 1 203 3 10 0 10][vp 8 2 1 3194 65535 0]Ok. Obrigado....[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Você vê...[n][w][e]
 
 [msg MSG_C03_YES_08_00 [Haru]]
@@ -579,7 +579,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Tudo bem, então estou saindo...[n]Estou deixando Lady Ann em suas mãos.[n][w][e]
 
 [msg MSG_C03_COOP_CANCEL_REV [Haru]]
-[s][bup 0 7 203 65535 0][f 4 10 65535 0 0][f 4 23 1 203 3 10 0 10][vp 8 2 1 53561 65535 0]Oh, OK. Desculpe.[n][w][e]
+[s][bup 0 7 203 65535 0][f 4 10 65535 0 0][f 4 23 1 203 3 10 0 10][vp 8 2 1 53561 65535 0]Oh, Ok. Desculpe.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Avise-me quando tiver tempo,[n][f 4 2]-kun. Eu irei esperar aqui.[n][w][e]
 
 [msg MSG_SPOT_OPEN_KANDA]

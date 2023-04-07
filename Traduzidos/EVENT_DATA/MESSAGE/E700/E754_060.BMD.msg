@@ -37,7 +37,7 @@
 [s]Exatamente.[e]
 
 [msg MSG_010_0_0 [Kawakami]]
-[s][bup 0 109 500 65535 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]OK, que alívio. No Dia dos Namorados[n]nós não nos vimos, então...[n][f 1 3 65535][w][e]
+[s][bup 0 109 500 65535 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Ok, que alívio. No Dia dos Namorados[n]nós não nos vimos, então...[n][f 1 3 65535][w][e]
 [s][bup 0 109 501 65535 0][f 4 10 65535 0 0][f 4 24 0 4 6 42 3 100][vp 8 0 0 13 65535 0]Isso significará que hoje vamos nos recuperar![n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Kawakami]]
@@ -55,7 +55,7 @@
 [s][vp 8 0 0 0 65535 0]...Kawakami parece feliz.[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Kawakami]]
-[s][bup 0 109 501 65535 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]OK! Agora me sinto definitivamente mais[n]relaxado. Quer pegar um[n]pedaço no caminho de volta?[n][f 1 3 65535][w][e]
+[s][bup 0 109 501 65535 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Ok! Agora me sinto definitivamente mais[n]relaxado. Quer pegar um[n]pedaço no caminho de volta?[n][f 1 3 65535][w][e]
 
 [sel SEL_016_0_0 top]
 [s]Eu reservei uma mesa.[e]

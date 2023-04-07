@@ -7,7 +7,7 @@
 [s]Um momento.[e]
 
 [msg D04_155_06_ex_chk_selA_1 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]OK. Antes de[n]entrar, certifique-se[n]de que está preparado.[n][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ok. Antes de[n]entrar, certifique-se[n]de que está preparado.[n][w][e]
 
 [msg D04_155_06_ex_btl_mes01 [???]]
 [s]LADRÕES TOLOS... PENSAR QUE[n]VOCÊS PODERIAM MESMO[n]VIR AQUI...[n][w][e]

@@ -102,7 +102,7 @@
 [s][bup 0 4 4 2 0][f 4 10 65535 0 0][vp 8 0 0 34 65535 0]N-eu não sei...![n][f 1 3 65535][w][e]
 
 [msg MSG_033_0_0 [Apresentador]]
-[s][vp 8 0 0 35 65535 0]OK, vou te fazer uma pergunta...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 35 65535 0]Ok, vou te fazer uma pergunta...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 36 65535 0]Você acha que os Phantom Thieves são[n]realmente estudantes Shujin?[n][f 1 3 65535][w][e]
 
 [msg MSG_034_0_0 [Ann]]

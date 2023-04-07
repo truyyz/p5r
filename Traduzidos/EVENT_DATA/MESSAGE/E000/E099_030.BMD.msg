@@ -20,7 +20,7 @@
 
 [msg MSG_006_0_0 [Ryuji]]
 [s][bup 0 2 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Uuuh, um novo movimento...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Parece uma verdadeira bomba! OK, estou dentro![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Parece uma verdadeira bomba! Ok, estou dentro![n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Bem, é uma ideia grosseira,[n]mas...[n][f 1 3 65535][w][e]
@@ -37,7 +37,7 @@
 
 [msg MSG_011_0_0 [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Legal![n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]OK, agora só temos que[n]ver como a Estrela reage[n]à sua ideia, certo?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Ok, agora só temos que[n]ver como a Estrela reage[n]à sua ideia, certo?[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Mmm... Precisamos consultar[n]o José o mais rápido possível.[n][f 1 3 65535][w][e]

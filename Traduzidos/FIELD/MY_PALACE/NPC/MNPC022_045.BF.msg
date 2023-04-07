@@ -56,7 +56,7 @@
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 31 10 0 10][vp 8 2 1 1036 65535 0]Eu não sou um gato! Cebola[n]não me dá problema![n]Aqui, vou provar...[n][w][e]
 
 [msg MES_GROUP7_05 [Ann]]
-[s][bup 0 4 4 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 33 10 0 10][vp 8 2 1 6029 65535 0]NÃO! Quero dizer, desculpe! Vamos salvar...[n]o gyudon para mais tarde, OK?[n][w][e]
+[s][bup 0 4 4 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 33 10 0 10][vp 8 2 1 6029 65535 0]NÃO! Quero dizer, desculpe! Vamos salvar...[n]o gyudon para mais tarde, Ok?[n][w][e]
 
 [msg MES_GROUP9_01 [Yusuke]]
 [s][bup 0 5 3 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 41 10 0 10][vp 8 2 1 4025 65535 0]Uma olhada no Beef Bowl Shop[n]e meu apetite aumenta. Mais um pouco[n]e o estômago começa a roncar...[n][w][e]

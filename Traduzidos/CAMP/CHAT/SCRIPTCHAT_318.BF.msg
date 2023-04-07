@@ -5,7 +5,7 @@
 [s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Por que ele só reage[n]a esse nome...?[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Alibaba]]
-[s][f 5 14]OK.[n][w][e]
+[s][f 5 14]Ok.[n][w][e]
 
 [msg MSG_017_0_0 [Makoto]]
 [s][bup 0 6 0 1 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Tudo bem, então...[n][f 1 3 65535][w][e]
@@ -49,7 +49,7 @@
 [s][f 5 14]É doloroso...[n][w][e]
 
 [sel SEL_025_0_0 top]
-[s][f 5 14]Porque?[e]
+[s][f 5 14]Por quê?[e]
 [s]Você acha chato?[e]
 [s]Por que você não sai?[e]
 
@@ -58,7 +58,7 @@
 [s]Por que você não sai?[e]
 
 [sel SEL_025_2_0 top]
-[s][f 5 14]Porque?[e]
+[s][f 5 14]Por quê?[e]
 [s]Por que você não sai?[e]
 
 [sel SEL_025_3_0 top]
@@ -98,7 +98,7 @@
 [s][f 5 14]É impossível.[n][w][e]
 
 [msg MSG_036_0_0 [Alibaba]]
-[s][f 5 14]Porque?[n][w][e]
+[s][f 5 14]Por quê?[n][w][e]
 
 [msg MSG_037_0_0 [Alibaba]]
 [s][f 5 14]Este lugar é o meu túmulo.[n][w][e]

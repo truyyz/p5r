@@ -22,5 +22,5 @@
 [s][f 5 14]Vamos ficar juntos.[e]
 
 [msg MSG_REACTION [Ann]]
-[s][f 5 14]OK! Não se esqueça,[n]ligue para todos.[n][f 5 15][w][e]
+[s][f 5 14]Ok! Não se esqueça,[n]ligue para todos.[n][f 5 15][w][e]
 

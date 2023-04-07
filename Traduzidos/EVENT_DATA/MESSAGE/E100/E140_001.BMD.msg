@@ -43,7 +43,7 @@
 [s][bup 0 202 0 0 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Mishima, não está na hora[n]de treinar?[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Mishima]]
-[s][bup 0 111 503 65535 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]O-Não estou me sentindo bem hoje...[n][f 1 3 65535][w][e]
+[s][bup 0 111 503 65535 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]N-Não estou me sentindo bem hoje...[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Kamoshida]]
 [s][bup 0 202 0 0 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Coisa? Talvez seja melhor esquecer o vôlei,[n]então...[n][f 1 3 65535][w][e]

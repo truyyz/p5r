@@ -14,7 +14,7 @@
 [s][bup 0 4 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]...Você não pode passar por aqui.[n][w][e]
 
 [msg D01_04_e165_161_mes01 [Ryuji]]
-[s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7024 65535 0]OK! Entramos![n][w][e]
+[s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7024 65535 0]Ok! Entramos![n][w][e]
 
 [msg D01_04_e165_161_mes02 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Abaixe a voz, idiota![n][w][e]

@@ -9,7 +9,7 @@
 [s]Espere um momento.[f 2 7 0 0 106 1][e]
 
 [msg e259_240_selA_0_mes01 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1181 65535 0]OK, vamos lá![n][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1181 65535 0]Ok, vamos lá![n][w][e]
 
 [msg e259_240_selA_0_mes02 [Sombra agressiva]]
 [s]Hã? Quem é Você?!?[n][w][e]
@@ -111,7 +111,7 @@
 [s][bup 0 4 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6021 65535 0]Mas não seria pior[n]tentar lidar com os dois[n]ao mesmo tempo?[n][w][e]
 
 [msg e259_210_mes12 [Morgana]]
-[s][bup 0 3 1 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]OK, vamos deixar essa parte[n]para o intelectual![n][w][e]
+[s][bup 0 3 1 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ok, vamos deixar essa parte[n]para o intelectual![n][w][e]
 
 [msg e259_210_mes13 [Makoto]]
 [s][bup 0 6 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2031 65535 0]Obrigado! Em primeiro lugar, devemos[n]voltar para a sala de monitoramento![n][w][e]

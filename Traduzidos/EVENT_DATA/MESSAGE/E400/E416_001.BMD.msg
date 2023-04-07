@@ -18,7 +18,7 @@
 [s][vp 8 0 0 7 7 0]O quê... Como isso é possível?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Detetive chefe]]
-[s][vp 8 0 0 8 7 0]O corpo do Ladrão Fantasma[n]desapareceu do necrotério![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 8 7 0]O corpo do Phantom Thief[n]desapareceu do necrotério![n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Chefe de polícia]]
 [s][vp 8 0 0 9 5 0]Você não examinou a certidão de óbito[n]e os documentos de transporte?!?[n][f 1 3 65535][w][e]
@@ -30,7 +30,7 @@
 [s][vp 8 0 0 11 5 0]Dê-me uma resposta precisa![n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Detetive chefe]]
-[s][vp 8 0 0 12 7 0]Talvez aquele Ladrão Fantasma[n]nos tenha enganado com seus poderes![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 12 7 0]Talvez aquele Phantom Thief[n]nos tenha enganado com seus poderes![n][f 1 3 65535][w][e]
 
 [msg MSG_009_5_0 [Detetive chefe]]
 [s][vp 8 0 0 13 7 0]Talvez ele apenas nos fez acreditar que[n]ele estava morto ...[n][f 1 3 65535][w][e]

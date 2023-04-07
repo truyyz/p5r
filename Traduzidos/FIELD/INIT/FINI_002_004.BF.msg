@@ -20,7 +20,7 @@
 
 [sel SEL_E13710100_001_00 top]
 [s]Onde você vai pesquisar?[e]
-[s]OK vejo você mais tarde.[e]
+[s]Ok vejo você mais tarde.[e]
 [s]Não me lembro de seus rostos.[e]
 
 [msg MSG_E13710100_002_00 [Ryuji]]
