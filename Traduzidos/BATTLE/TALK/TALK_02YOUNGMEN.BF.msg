@@ -251,7 +251,7 @@
 [s]Uau! É uma honra para você ter entendido isso.[n]A mãe em casa deve[n]regozijar-se por seu filho.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_05_R_2]
-[s]Verdadeiro? Bem, então...[n]pare com essa loucura.[n][w][e]
+[s]Sério? Bem, então...[n]pare com essa loucura.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_05_R_3]
 [s]V-vê? Se você não parar agora,[n]as pessoas vão te chamar de "criminoso"[n]pelas suas costas pelo resto da vida.[n][w][e]

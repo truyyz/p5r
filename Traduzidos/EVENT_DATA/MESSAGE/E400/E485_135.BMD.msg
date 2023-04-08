@@ -18,7 +18,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 4 5 0]Uau! Aquela dança era espaço...[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Aluno atordoado]]
-[s][f 4 10 65535 0 0][vp 8 0 0 5 9 0]Verdadeiro? Chocante.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 5 9 0]Sério? Chocante.[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Kasumi]]
 [s][bup 0 10 6 65535 0][vp 1 0 0 6 0 0]......[n][f 1 3 65535][w][e]

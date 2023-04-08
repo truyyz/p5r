@@ -11,7 +11,7 @@
 [s]É tudo graças a você.[e]
 
 [msg MSG_032_0_0 [Mishima]]
-[s][vp 1 0 0 0 0 0][f 5 14]Verdadeiro? Espere... por que[n]você fala sobre isso como se[n]não lhe interessasse?[n][w][e]
+[s][vp 1 0 0 0 0 0][f 5 14]Sério? Espere... por que[n]você fala sobre isso como se[n]não lhe interessasse?[n][w][e]
 
 [msg MSG_033_0_0 [Mishima]]
 [s][vp 1 0 0 0 0 0][f 5 14]Para mim é o mesmo. Vou[n]ter que ficar acordado a noite toda[n]mais uma vez para isso...[n][w][e]

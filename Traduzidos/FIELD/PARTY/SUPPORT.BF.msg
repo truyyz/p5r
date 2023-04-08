@@ -12338,7 +12338,7 @@
 [s][vp 1 0 0 14593 0 0]Cuide-se![n]Sua alimentação afeta[n]sua pele, sabia?[n][f 1 6 65535][e]
 
 [msg D_CAR_PC04_mes10594]
-[s][vp 1 0 0 14594 0 0]Verdadeiro? Você nunca saberia que é um gato[n]transformado. Há também faróis e luzes na...[n]traseira...[n][f 1 6 65535][e]
+[s][vp 1 0 0 14594 0 0]Sério? Você nunca saberia que é um gato[n]transformado. Há também faróis e luzes na...[n]traseira...[n][f 1 6 65535][e]
 
 [msg D_CAR_PC04_mes10595]
 [s][vp 1 0 0 14595 0 0]Certo, Violet me disse que[n]você já estava em movimento, certo?[n][f 1 6 65535][e]
@@ -13682,7 +13682,7 @@
 [s][vp 1 0 0 18586 0 0]Baixar a guarda mesmo que apenas[n]por um segundo pode custar[n]caro. Não esqueça![n][f 1 6 65535][e]
 
 [msg D_CAR_PC08_mes10587]
-[s][vp 1 0 0 18587 0 0]Verdadeiro?!? Mona é incrível.[n]Lembre-se de agradecê-la devidamente![n][f 1 6 65535][e]
+[s][vp 1 0 0 18587 0 0]Sério?!? Mona é incrível.[n]Lembre-se de agradecê-la devidamente![n][f 1 6 65535][e]
 
 [msg D_CAR_PC08_mes10588]
 [s][vp 1 0 0 18588 0 0]Vote para. Quando fico[n]muito tempo sem internet[n]fico ansioso...[n][f 1 6 65535][e]

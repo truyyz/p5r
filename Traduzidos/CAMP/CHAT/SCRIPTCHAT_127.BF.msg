@@ -22,7 +22,7 @@
 [s]Quem se importa?[e]
 
 [msg MSG_007_0_0 [Ryuji]]
-[s][f 5 14]Verdadeiro? Coisas assim são, tipo, a[n]motivação perfeita![n][w][e]
+[s][f 5 14]Sério? Coisas assim são, tipo, a[n]motivação perfeita![n][w][e]
 
 [msg MSG_008_0_0 [Ryuji]]
 [s][f 5 14]Vamos, você também?[n]O que você está dizendo?!?[n][w][e]

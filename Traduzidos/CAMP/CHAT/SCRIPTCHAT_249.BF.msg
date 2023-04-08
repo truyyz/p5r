@@ -24,7 +24,7 @@
 [s][f 5 14]Bem, parece que a polícia[n]também está tendo muitos problemas[n]com a captura dele.[n][w][e]
 
 [msg MSG_003_0_0 [Mishima]]
-[s][f 5 14]Verdadeiro? Parece que a polícia[n]também está tendo muitos problemas[n]com a captura dele.[n][w][e]
+[s][f 5 14]Sério? Parece que a polícia[n]também está tendo muitos problemas[n]com a captura dele.[n][w][e]
 
 [msg MSG_004_0_0 [Mishima]]
 [s][f 5 14]Bem, parece que a polícia[n]também está tendo muitos problemas[n]com a captura dele.[n][w][e]

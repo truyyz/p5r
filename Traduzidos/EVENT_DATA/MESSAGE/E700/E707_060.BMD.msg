@@ -147,7 +147,7 @@
 [s]De maneira alguma.[e]
 
 [msg MSG_038_0_0 [Ryuji]]
-[s][bup 0 2 200 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 8 15 2]Verdadeiro? Foi ele quem disse coisas[n]absurdas.[n][f 1 3 65535][w][e]
+[s][bup 0 2 200 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 8 15 2]Sério? Foi ele quem disse coisas[n]absurdas.[n][f 1 3 65535][w][e]
 
 [msg MSG_039_0_0 [Ryuji]]
 [s][bup 0 2 200 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 8 10 2]Certo?...Ei, espere um minuto.[n]O que você quer dizer com "mais ou menos"?[n]Você deve entender...![n][f 1 3 65535][w][e]

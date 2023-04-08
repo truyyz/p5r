@@ -23,7 +23,7 @@
 [s]Não exatamente.[e]
 
 [msg MSG_064_0_0 [Mishima]]
-[s][f 5 14]Verdadeiro?!? É completamente inaceitável.[n][w][e]
+[s][f 5 14]Sério?!? É completamente inaceitável.[n][w][e]
 
 [msg MSG_065_0_0 [Mishima]]
 [s][f 5 14]Sim... não posso tolerar tal comportamento[n]horrível.[n][w][e]

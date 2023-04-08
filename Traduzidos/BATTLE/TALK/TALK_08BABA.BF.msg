@@ -362,7 +362,7 @@
 [s]Você envelheceu.[e]
 
 [msg TalkMsg_GUY_CHAT_FQ_07_R]
-[s]Verdadeiro? É triste envelhecer...[n][w][e]
+[s]Sério? É triste envelhecer...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_07_R_2]
 [s]Oh, essa é a frase usual...[n][w][e]
@@ -1067,7 +1067,7 @@
 [s]Hum, e aposto que você não[n]está reclamando de jeito nenhum... Ainda é[n]algo mais para se olhar, hein?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_11_R_8]
-[s]Verdadeiro? Todos deveriam cuidar[n]mais da pele.[n]Você também![n][w][e]
+[s]Sério? Todos deveriam cuidar[n]mais da pele.[n]Você também![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_11_R_9]
 [s]Ou talvez você apenas tenha dificuldade em entender[n]quando uma mulher está tentando[n]chamar sua atenção…[n][w][e]

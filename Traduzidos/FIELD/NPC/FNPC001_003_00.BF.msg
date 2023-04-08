@@ -870,7 +870,7 @@
 [s]Eu não gosto.[e]
 
 [msg MSG_TIKAAIDORU_013_3_0 [Ídolo independente de pouca fama]]
-[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Verdadeiro? Uau? Se continuar assim, posso me[n]tornar uma estrela internacional![n][w][e]
+[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Sério? Uau? Se continuar assim, posso me[n]tornar uma estrela internacional![n][w][e]
 
 [msg MSG_TIKAAIDORU_013_4_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Ouuu, você está ficando com ciúmes?[n]Não se preocupe, eu sou o ídolo de todos![n][w][e]
@@ -897,7 +897,7 @@
 [s]Você me deixa com raiva.[e]
 
 [msg MSG_TIKAAIDORU_013_10_0 [Ídolo independente de pouca fama]]
-[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Verdadeiro? Veheer? Espero que você[n]continue a me apoiar, então[n]eu terei sucesso em todo o mundo![n][w][e]
+[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Sério? Veheer? Espero que você[n]continue a me apoiar, então[n]eu terei sucesso em todo o mundo![n][w][e]
 
 [msg MSG_TIKAAIDORU_013_11_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Não se preocupe![n]D-kyun é o ídolo de todos![n][w][e]

@@ -79,7 +79,7 @@
 [s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 26 65535 0]É sempre melhor do que a depressão.[n]É muito construtivo.[n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 27 65535 0]Verdadeiro? O que você acha, chefe? Você tem[n]algum segredo sobre garotas?[n][f 1 3 65535][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 27 65535 0]Sério? O que você acha, chefe? Você tem[n]algum segredo sobre garotas?[n][f 1 3 65535][w][e]
 
 [msg MSG_025_0_0 [Sojiro]]
 [s][bup 0 103 3 0 0][f 4 10 65535 0 0][vp 8 0 0 28 65535 0]O único segredo são os[n]ingredientes, para mim.[n][f 1 3 65535][w][e]

@@ -13,7 +13,7 @@
 [s]Eu gosto disso.[e]
 
 [msg MSG_ACT_FLD_RYUJI_03 [Ryuji]]
-[s][bup 0 2 7 65535 0][f 4 10 65535 0 0][vp 1 0 0 0 65535 0]Verdadeiro? Honestamente, eu teria medo de ir[n]sozinho...[n][w][e]
+[s][bup 0 2 7 65535 0][f 4 10 65535 0 0][vp 1 0 0 0 65535 0]Sério? Honestamente, eu teria medo de ir[n]sozinho...[n][w][e]
 
 [msg MSG_ACT_FLD_RYUJI_04 [Ryuji]]
 [s][bup 0 2 4 65535 0][f 4 10 65535 0 0][vp 1 0 0 0 65535 0]Oh, você gosta dessas coisas militares?[n][w][e]

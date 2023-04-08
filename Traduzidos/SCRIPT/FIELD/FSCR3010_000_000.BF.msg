@@ -389,7 +389,7 @@
 
 [msg MSG_SOFA_1012 [Morgana]]
 [s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 1 1027 65535 0]Ei... Você acha que Haru[n]tem dúvidas sobre nós?[n][w][e]
-[s][f 4 10 65535 0 0]Não, certo? ...Verdadeiro?[n][w][e]
+[s][f 4 10 65535 0 0]Não, certo? ...Sério?[n][w][e]
 
 [msg MSG_SOFA_1013 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1170 65535 0]O que Futaba quer[n]investigar?[n][w][e]

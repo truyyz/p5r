@@ -26,7 +26,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ele está sempre por perto, não é?[n]Você nunca sabe onde pode[n]encontrá-lo...[n][w][e]
 
 [msg MES_GROUP1_04 [Ryuji]]
-[s][bup 0 2 14 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 42 10 0 10][vp 8 2 1 7021 65535 0]Verdadeiro? Ele conhece Tóquio[n]melhor do que eu.[n][w][e]
+[s][bup 0 2 14 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 42 10 0 10][vp 8 2 1 7021 65535 0]Sério? Ele conhece Tóquio[n]melhor do que eu.[n][w][e]
 
 [msg MES_GROUP2_01 [Ohya]]
 [s][bup 0 107 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 16020 65535 0]Os templos são ótimos, não são?[n]Quando viajo, sempre que[n]encontro um, tenho que visitar.[n][w][e]

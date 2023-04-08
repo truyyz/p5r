@@ -11,7 +11,7 @@
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]"Serviço Doméstico"![n][f 1 3 65535][w][e]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Ele diz que uma bela donzela[n]fará qualquer coisa por você![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Uma empregada, cara! UMA EMPREGADA![n]Que faz QUALQUER COISA![n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Verdadeiro? ...Verdade?!?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Sério? ...Verdade?!?[n][f 1 3 65535][w][e]
 
 [sel SEL_005_0_0 top]
 [s]O que você está falando?[e]

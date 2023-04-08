@@ -9,7 +9,7 @@
 [s]Apenas provar?[e]
 
 [msg MSG_002_0_0 [Ann]]
-[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 7 15 4]Verdadeiro? Qualidade, não quantidade![n][f 1 3 65535][w][e]
+[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 7 15 4]Sério? Qualidade, não quantidade![n][f 1 3 65535][w][e]
 [s][bup 0 4 3 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 35 5 100][vp 8 0 0 0 65535 0]Honestamente... da última vez[n]meu estômago quase estourou.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Refleti sobre o que[n]fez e... não vou repetir o[n]mesmo erro![n][f 1 3 65535][w][e]
 

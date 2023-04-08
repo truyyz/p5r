@@ -41,7 +41,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Bem, você não está errado. Eu gosto da pose do[n]ator kabuki.[n][w][e]
 
 [msg MES_GROUP4_03 [Futaba]]
-[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 9190 65535 0]Verdadeiro?!? A pose é perfeita,[n]na minha opinião![n][w][e]
+[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 9190 65535 0]Sério?!? A pose é perfeita,[n]na minha opinião![n][w][e]
 
 [msg MES_GROUP4_04 [Sojiro]]
 [s][bup 0 103 5 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 31 10 0 10][vp 8 2 1 5021 65535 0]Tem certeza que essas coisas são suas?[n][w][e]

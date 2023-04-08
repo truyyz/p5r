@@ -2,7 +2,7 @@
 [s][f 5 14]Amanhã é dia de semana, certo?[n][w][e]
 
 [msg MSG_000_1_0 [Makoto]]
-[s][f 5 14]Amanhã é [var 0],[n]verdadeiro?[n][w][e]
+[s][f 5 14]Amanhã é [var 0],[n]Sério?[n][w][e]
 
 [msg MSG_001_0_0 [Makoto]]
 [s][f 5 14]Quero me distrair um pouco,[n]quer bater um papo?[n][w][e]

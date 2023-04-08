@@ -25,7 +25,7 @@
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Então a habilidade do Joker de[n]controlar diferentes Personas [n]é realmente especial.[n][w][e]
 
 [msg AT_D_BF_D03_010_mes09 [Morgana]]
-[s][bup 0 3 1 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Verdadeiro? Isso prova que eu avaliei[n]corretamente![n][w][e]
+[s][bup 0 3 1 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Sério? Isso prova que eu avaliei[n]corretamente![n][w][e]
 
 [msg AT_D_BF_D03_010_mes10 [Ryuji]]
 [s][bup 0 2 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ei, mas se você também ficou surpreso quando isso[n]aconteceu...[n][w][e]
