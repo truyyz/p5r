@@ -58,7 +58,7 @@
 [s][bup 0 5 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Prefiro pensar nisso como uma economia de[n]energia... minha e da[n]empresa elétrica. Estou certo, [f 4 2]?[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Yusuke]]
-[s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 4189 65535 0][f 5 13 5 10 5]Verdadeiro? No entanto, no final[n]decidi não trazer[n]meu equipamento.[n][f 1 3 65535][w][e]
+[s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 4189 65535 0][f 5 13 5 10 5]Sério? No entanto, no final[n]decidi não trazer[n]meu equipamento.[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Yusuke]]
 [s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 4107 65535 0][f 5 13 5 15 5]Sim, uma ideia realmente brilhante.[n]Mas receio que não seria[n]sábio fazê-lo aqui...[n][f 1 3 65535][w][e]

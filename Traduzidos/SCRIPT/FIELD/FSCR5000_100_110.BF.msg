@@ -11,7 +11,7 @@
 [s][f 4 23 1 65535 3 5 11 5][bup 0 2 7 65535 0][f 4 10 65535 0 0][vp 1 0 0 4 0 0]Não, eu tenho jogado videogame.[n]Fazer preguiça é muito divertido...[n][w][e]
 
 [msg JULY_AZITO_TALK_01_mes05 [Ann]]
-[s][f 4 23 1 65535 3 5 11 5][bup 0 4 4 65535 0][f 4 10 65535 0 0][vp 1 0 0 5 0 0]Verdadeiro? Tudo o que fiz foi limpar[n]meu quarto em vez de estudar![n]Talvez agora esteja muito limpo...[n][w][e]
+[s][f 4 23 1 65535 3 5 11 5][bup 0 4 4 65535 0][f 4 10 65535 0 0][vp 1 0 0 5 0 0]Sério? Tudo o que fiz foi limpar[n]meu quarto em vez de estudar![n]Talvez agora esteja muito limpo...[n][w][e]
 
 [msg JULY_AZITO_TALK_01_mes06 [Yusuke]]
 [s][f 4 23 1 65535 3 5 11 5][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 1 0 0 6 0 0]Vocês dois são um exemplo perfeito[n]de escapismo.[n][w][e]

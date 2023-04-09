@@ -21,7 +21,7 @@
 [s]Parece interessante.[e]
 
 [msg MSG_156_0_0 [Mishima]]
-[s][f 5 14]Verdadeiro?!? Eu mal[n]posso respirar sabendo que ele[n]está à solta.[n][w][e]
+[s][f 5 14]Sério?!? Eu mal[n]posso respirar sabendo que ele[n]está à solta.[n][w][e]
 
 [msg MSG_157_0_0 [Mishima]]
 [s][f 5 14]Como você pode aceitar isso?!?[n]Você não pode sair por aí[n]matando pessoas![n][w][e]

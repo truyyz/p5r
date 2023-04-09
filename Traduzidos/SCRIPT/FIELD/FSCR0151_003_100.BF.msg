@@ -14,7 +14,7 @@
 [s]Foi assustador.[e]
 
 [msg D01_03_e161_330_selA_0_m [Ryuji]]
-[s][bup 0 2 0 65535 0]Verdadeiro? Então o castelo[n]é realmente o Shujin...[n][w][e]
+[s][bup 0 2 0 65535 0]Sério? Então o castelo[n]é realmente o Shujin...[n][w][e]
 
 [msg D01_03_e161_330_selA_1_m [Ryuji]]
 [s][bup 0 2 0 65535 0]Ué, você não viu? Parecia[n]um dos corredores[n]da escola.[n][w][e]

@@ -40,7 +40,7 @@
 [s]Melhor limitar-se à ginástica.[e]
 
 [msg MSG_010_0_0 [Kasumi]]
-[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 57186 65535 0][f 5 13 33 5 10]Verdadeiro? Acho que vai ajudar![n][f 1 3 65535][w][e]
+[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 57186 65535 0][f 5 13 33 5 10]Sério? Acho que vai ajudar![n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Kasumi]]
 [s][bup 0 10 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 57058 65535 0][f 5 13 33 15 10]Eu me sinto tão cheio de energia![n]Vou te mostrar o que eu[n]sou capaz, [f 4 1]-senpai![n][f 1 3 65535][w][e]

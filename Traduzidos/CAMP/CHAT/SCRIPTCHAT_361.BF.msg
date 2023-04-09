@@ -14,7 +14,7 @@
 [s][f 5 14]Eu vejo. Pode valer a pena[n]investigar um pouco.[n][w][e]
 
 [msg MSG_004_00 [Ryuji]]
-[s][f 5 14]Verdadeiro?[n][w][e]
+[s][f 5 14]Sério?[n][w][e]
 [s][f 5 14]Você poderia tentar fazer algumas[n]perguntas a ele, Ann? Eu não acho que[n]ele vai desconfiar de uma garota.[n][w][e]
 
 [msg MSG_005_00 [Ann]]

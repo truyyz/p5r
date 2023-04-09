@@ -160,7 +160,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 65535 1168 0 0]Você quer tentar comprar um?[n]Vou acompanhá-lo.[n][f 1 3 65535][w][e]
 
 [msg MSG_038_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 65535 1034 0 0]Verdadeiro? Quer tentar[n]comprar um?[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 65535 1034 0 0]Sério? Quer tentar[n]comprar um?[n][f 1 3 65535][w][e]
 
 [msg MSG_039_0_0 [Morgana]]
 [s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 65535 1169 0 0]Quantos ares você coloca...[n]Não custa nada mostrar um pouco de[n]entusiasmo de vez em quando.[n][f 1 3 65535][w][e]

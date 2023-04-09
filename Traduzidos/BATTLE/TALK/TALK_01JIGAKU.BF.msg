@@ -830,7 +830,7 @@
 [s]Eu me sinto um pouco culpado vendo o quanto você[n]está se irritando.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_07_R_5]
-[s]Verdadeiro? Também não quero que minha vida acabe[n]tão cedo.[n][w][e]
+[s]Sério? Também não quero que minha vida acabe[n]tão cedo.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_07_R_6]
 [s]Eu sei direito? Eu também não gostaria de perder[n]todas as minhas memórias.[n][w][e]
@@ -1103,7 +1103,7 @@
 [s]Eu nem vou lembrar.[e]
 
 [msg TalkMsg_GUY_CHAT_SQ_12_R]
-[s]Verdadeiro? Foi muito intenso[n]para mim também.[n][w][e]
+[s]Sério? Foi muito intenso[n]para mim também.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_12_R_2]
 [s]Concordo. Você sabe que eu pareço te entender um[n]pouco mais agora?[n][w][e]
@@ -1112,7 +1112,7 @@
 [s]Não é o melhor. Eu esperava que você enriquecesse[n]a história um pouco mais do que isso.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_12_R_4]
-[s]Verdadeiro? Foi difícil.[n][w][e]
+[s]Sério? Foi difícil.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_12_R_5]
 [s]Você diz que não há problema em distorcer a[n]verdade?[n][w][e]

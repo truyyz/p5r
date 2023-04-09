@@ -107,7 +107,7 @@
 [s][bup 0 4 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 36 10 0 10][vp 8 2 1 6048 65535 0]Lembra quando ganhamos[n]todo aquele dinheiro nesse negócio?[n]Foi incrível![n][w][e]
 
 [msg MES_GROUP8_02 [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 3 10 0 10]Verdadeiro? O jackpot inteiro![n]Pena que foi[n]dinheiro fictício do Palace...[n][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 3 10 0 10]Sério? O jackpot inteiro![n]Pena que foi[n]dinheiro fictício do Palace...[n][w][e]
 
 [msg MES_GROUP8_03 [Futaba]]
 [s][bup 0 8 2 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 9019 65535 0]Tecnicamente, foi o líder[n]quem venceu. E não se esqueça[n]de como consertei as jogadas![n][w][e]

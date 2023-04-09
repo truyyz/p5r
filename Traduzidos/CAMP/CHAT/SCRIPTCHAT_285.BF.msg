@@ -17,7 +17,7 @@
 [s][f 5 14]Não posso deixar de ficar nervoso.[n][w][e]
 
 [msg MSG_007_0_0 [Ryuji]]
-[s][f 5 14]Verdadeiro? É como, "ugh, nós[n]temos uma semana inteira restante" ...[n][w][e]
+[s][f 5 14]Sério? É como, "ugh, nós[n]temos uma semana inteira restante" ...[n][w][e]
 
 [sel SEL_008_0_0 top]
 [s][f 5 14]Eu sei bem.[e]

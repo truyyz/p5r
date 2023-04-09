@@ -1058,7 +1058,7 @@
 [s]Ah, no sentido de que tudo[n]pode ser uma ocasião[n]para aprender, né?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_11_R_5]
-[s]Verdadeiro? Então, por que não[n]encontramos um acordo?[n][w][e]
+[s]Sério? Então, por que não[n]encontramos um acordo?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_11_R_6]
 [s]Se é isso que você pensa,[n]então prove para mim![n][w][e]

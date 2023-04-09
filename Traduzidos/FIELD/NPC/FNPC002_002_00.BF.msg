@@ -411,7 +411,7 @@
 [s][vp 8 2 1 0 15 0]Estamos indo tão bem[n]que não precisamos nos preocupar[n]com o vestibular.[n][w][e]
 
 [msg MSG_KIREIDANSI_025_3_0 [Estudante preguiçoso]]
-[s][f 4 23 1 14 3 10 0 10][vp 8 2 1 0 14 0]Verdadeiro? Quero dizer, eu tiro[n]todos os A's, afinal.[n][w][e]
+[s][f 4 23 1 14 3 10 0 10][vp 8 2 1 0 14 0]Sério? Quero dizer, eu tiro[n]todos os A's, afinal.[n][w][e]
 [s][f 4 23 1 14 3 10 0 10][vp 8 2 1 0 14 0]Hoje vamos ao fliperama![n][w][e]
 
 [msg MSG_GRT_main_All_001_01_ [Estudante preguiçoso]]
@@ -892,7 +892,7 @@
 [s][vp 9 2 65535 43301 0 0]Depressa e prenda[n]aquele bando de assassinos![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_025_01_ [Estudante preguiçoso]]
-[s][vp 9 2 65535 43013 0 0]Você acha que o boato[n]sobre os Phantom Thieves que[n]frequentam Shujin é verdadeiro?[n][f 1 2 180][e]
+[s][vp 9 2 65535 43013 0 0]Você acha que o boato[n]sobre os Phantom Thieves que[n]frequentam Shujin é Sério?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_025_02_ [Estudante preguiçoso]]
 [s][vp 9 2 65535 43700 0 0]Essa recompensa para[n]Phantom Thieves é absurda![n][f 1 2 180][e]

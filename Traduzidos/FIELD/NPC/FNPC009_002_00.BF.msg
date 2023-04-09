@@ -838,7 +838,7 @@
 [s]Cale-se.[e]
 
 [msg MSG_YOPPARAI_019_1_0 [Bêbado]]
-[s][vp 8 2 1 0 6 0]Verdadeiro? Não podemos confiar nesse Shido feio[n]e escarnecedor![n][w][e]
+[s][vp 8 2 1 0 6 0]Sério? Não podemos confiar nesse Shido feio[n]e escarnecedor![n][w][e]
 [s][vp 8 2 1 0 6 0]Eu não beberia uma gota com ele![n]Ele nunca me daria um shake,[n]como posso confiar em alguém assim?[n][w][e]
 
 [msg MSG_YOPPARAI_019_2_0 [Bêbado]]

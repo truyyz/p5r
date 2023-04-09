@@ -9,7 +9,7 @@
 [s]Tem certeza?[e]
 
 [msg MSG_003_0_0 [Mishima]]
-[s][f 5 14]Verdadeiro?!? É fantástico.[n][w][e]
+[s][f 5 14]Sério?!? É fantástico.[n][w][e]
 
 [msg MSG_004_0_0 [Mishima]]
 [s][f 5 14]Não há dúvida sobre isso![n]Isto é, eles derrubaram Medjed.[n][w][e]

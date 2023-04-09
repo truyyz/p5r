@@ -425,7 +425,7 @@
 [s]Seu tolo que só pensa em[n]maneira de ficar longe de problemas...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_08_R_3]
-[s]Verdadeiro? Você não pensa em mais nada?[n][w][e]
+[s]Sério? Você não pensa em mais nada?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_08_R_4]
 [s]Ah, você sempre pensa em como[n]melhorar a situação, né?[n][w][e]

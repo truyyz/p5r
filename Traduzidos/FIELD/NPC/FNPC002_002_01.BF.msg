@@ -658,7 +658,7 @@
 [s]Intuição de jornalista?[e]
 
 [msg MSG_SINBUNJYOSI_015_01_1 [Editor de jornal]]
-[s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Verdadeiro? É excessivo.[n][w][e]
+[s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Sério? É excessivo.[n][w][e]
 [s][vp 8 2 1 0 1 0]O que diabos a escola está fazendo...?[n][w][e]
 
 [msg MSG_SINBUNJYOSI_015_01_2 [Editor de jornal]]

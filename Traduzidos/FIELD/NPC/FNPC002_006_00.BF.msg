@@ -360,7 +360,7 @@
 [s][f 4 23 1 0 3 10 0 0][vp 8 2 1 0 0 0]Akechi-kun é tão bonito,[n]inteligente e confiante que é difícil[n]acreditar que ele é um colegial...[n][w][e]
 
 [msg MSG_KATAOMOI_007_3_0 [Estudante animada]]
-[s][f 4 23 1 1 3 10 0 0][vp 8 2 1 0 1 0]Verdadeiro? Ele é como um príncipe.[n]Ele é o Detetive Prince![n][w][e]
+[s][f 4 23 1 1 3 10 0 0][vp 8 2 1 0 1 0]Sério? Ele é como um príncipe.[n]Ele é o Detetive Prince![n][w][e]
 [s][vp 8 2 1 0 1 0]Adoro ouvir aquela voz calmante e calmante! Como[n]eu gostaria que ele falasse comigo assim.[n][w][e]
 
 [msg MSG_KATAOMOI_007_4_0 [Estudante quieto]]

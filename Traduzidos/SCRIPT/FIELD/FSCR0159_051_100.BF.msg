@@ -103,7 +103,7 @@
 [s][bup 0 4 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 30 0 0]A sério?!? Uau![n][w][e]
 
 [msg D07_01_e407_301_selA_1_m [Ann]]
-[s][bup 0 4 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 31 0 0]Verdadeiro?!? Como te entendo![n][w][e]
+[s][bup 0 4 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 31 0 0]Sério?!? Como te entendo![n][w][e]
 
 [msg D07_01_e407_301_selA_2_m [Ann]]
 [s][bup 0 4 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 32 0 0]Ó meu Deus...[n][w][e]

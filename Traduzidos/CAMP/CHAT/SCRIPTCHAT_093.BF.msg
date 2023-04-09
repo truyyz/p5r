@@ -21,7 +21,7 @@
 [s]Insuficiente.[e]
 
 [msg MSG_007_0_0 [Ann]]
-[s][f 5 14]Verdadeiro? Afinal, estávamos enfrentando um[n]criminoso de verdade.[n][w][e]
+[s][f 5 14]Sério? Afinal, estávamos enfrentando um[n]criminoso de verdade.[n][w][e]
 
 [msg MSG_008_0_0 [Ryuji]]
 [s][f 5 14]Vamos lá, pela primeira vez também podemos[n]ficar satisfeitos.[n][w][e]

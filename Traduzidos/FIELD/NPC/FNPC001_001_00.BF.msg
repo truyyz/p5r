@@ -303,7 +303,7 @@
 [s][vp 8 2 1 0 10 0]Eu amo rock.[n]É por isso que convenci ma'[n]a me deixar vir para a cidade...[n][w][e]
 
 [msg MSG_MUSICIAN_014_3_0 [Jovem roqueiro]]
-[s][vp 8 2 1 0 10 0]Verdadeiro? Estou começando a achar que também[n]não sei...[n][w][e]
+[s][vp 8 2 1 0 10 0]Sério? Estou começando a achar que também[n]não sei...[n][w][e]
 
 [msg MSG_MUSICIAN_014_4_0 [Jovem roqueiro]]
 [s][vp 8 2 1 0 10 0]Eu não posso atuar assim. Eu nem sei sobre o que[n]cantar...[n][w][e]
@@ -333,7 +333,7 @@
 [s][vp 8 2 1 0 10 0]Sim! Somos espíritos gêmeos,[n]nós! Vou continuar jogando até[n]minha alma queimar![n][w][e]
 
 [msg MSG_MUSICIAN_016_4_0 [Jovem roqueiro]]
-[s][vp 8 2 1 0 10 0]Verdadeiro? Eu realmente acho que[n]vou continuar com o rock![n][w][e]
+[s][vp 8 2 1 0 10 0]Sério? Eu realmente acho que[n]vou continuar com o rock![n][w][e]
 
 [msg MSG_MUSICIAN_016_5_0 [Jovem roqueiro]]
 [s][vp 8 2 1 0 10 0]Ai! Precisa de mais consertos. E, no entanto, eu[n]sei que um dia minha alma vai te atingir![n][w][e]

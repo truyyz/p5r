@@ -23,7 +23,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 9 4 0]...Então, é exatamente como eu pensei.[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Médico fleumático]]
-[s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 0 0 10 4 0]Verdadeiro? E aposto que você[n]gostaria de ter[n]o suficiente para um ano.[n][f 1 3 65535][w][e]
+[s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 0 0 10 4 0]Sério? E aposto que você[n]gostaria de ter[n]o suficiente para um ano.[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Médico fleumático]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 108 3 301 1][vp 8 0 0 11 4 0]Você está ótima, não é verdade? Não sou tão burro[n]quanto parece.[n][f 1 3 65535][w][e]

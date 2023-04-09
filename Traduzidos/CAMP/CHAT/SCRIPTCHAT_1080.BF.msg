@@ -2,7 +2,7 @@
 [s][f 5 14]Os exames estão chegando.[n][w][e]
 
 [msg MSG_000_0_1 [Ryuji]]
-[s][f 5 14]Você não quer estudar[n]sem mim, não é? Verdadeiro?[n][w][e]
+[s][f 5 14]Você não quer estudar[n]sem mim, não é? Sério?[n][w][e]
 
 [msg MSG_000_0_2 [Ryuji]]
 [s][f 5 14]Se você tiver que estudar,[n]você gostaria de fazer isso juntos?[n]estou com problemas...[n][f 5 15][w][e]

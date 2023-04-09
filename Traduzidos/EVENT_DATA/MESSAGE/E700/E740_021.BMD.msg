@@ -75,7 +75,7 @@
 [s]Me lembra alguém...[e]
 
 [msg MSG_022_0_0 [Mishima]]
-[s][bup 0 111 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 19035 65535 0]Verdadeiro?!? Ele deve estar louco![n][f 1 3 65535][w][e]
+[s][bup 0 111 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 19035 65535 0]Sério?!? Ele deve estar louco![n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Mishima]]
 [s][bup 0 111 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]V-Você conhece um cara assim?[n]Porra, você tem amigos excêntricos...[n][f 1 3 65535][w][e]

@@ -42,7 +42,7 @@
 [s][bup 0 6 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Mas é um absurdo...[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Diretor]]
-[s][bup 0 204 2 0 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]E se esse boato corresponder[n]verdadeiro? Você gostaria de ignorar[n]alunos com dificuldades?[n][f 1 3 65535][w][e]
+[s][bup 0 204 2 0 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]E se esse boato corresponder[n]Sério? Você gostaria de ignorar[n]alunos com dificuldades?[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Makoto]]
 [s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]Eu...[n][f 1 3 65535][w][e]

@@ -156,7 +156,7 @@
 [s]Eu nunca tinha pensado nisso.[e]
 
 [msg MSG_046_0_0 [Ryuji]]
-[s][bup 0 2 1 2 0][f 4 10 65535 0 0][vp 8 0 0 60 65535 0]Verdadeiro? Eu senti que[n]tive um bom insight.[n][f 1 3 65535][w][e]
+[s][bup 0 2 1 2 0][f 4 10 65535 0 0][vp 8 0 0 60 65535 0]Sério? Eu senti que[n]tive um bom insight.[n][f 1 3 65535][w][e]
 
 [msg MSG_047_0_0 [Yusuke]]
 [s][bup 0 5 0 2 0][f 4 10 65535 0 0][vp 8 0 0 61 65535 0]Para Ryuji, é nada menos que[n]necessário.[n][f 1 3 65535][w][e]
