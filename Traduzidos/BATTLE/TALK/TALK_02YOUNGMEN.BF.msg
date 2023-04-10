@@ -386,7 +386,7 @@
 [s]Hum... você esqueceu de[n]acabar comigo? Bem, acho que poderíamos[n]conversar, então. Calmamente...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_07_R_9]
-[s]Eu também não estava falando sério...[n]É como um mangá. Eu tenho[n]para chegar ao formulário final ainda.[n][w][e]
+[s]Eu também não estava falando sério...[n]É como um mangá. Eu tenho[n]que chegar na forma final ainda.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_07_R_10]
 [s]Oh sim? Então devo desistir?[n]Isso significa que também falhei[n]como ser humano?[n][w][e]

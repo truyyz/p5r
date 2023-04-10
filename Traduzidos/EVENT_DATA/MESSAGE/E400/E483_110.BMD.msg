@@ -91,7 +91,7 @@
 [msg MSG_035_0_0 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 46 65535 0]Porém, depois do caso Kamoshida...[n]A escola está fazendo de tudo para[n]melhorar sua imagem, não é?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 47 65535 0]Abandonar alunos modelo parece coincidir com a[n]verdadeira missão da escola.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 48 65535 0]Não posso descartar a possibilidade[n]de que eles façam algo semelhante[n]ao Yoshizawa-san...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 48 65535 0]Não posso descartar a possibilidade[n]de que eles façam algo semelhante[n]a Yoshizawa-san...[n][f 1 3 65535][w][e]
 
 [msg MSG_036_0_0 [Futaba]]
 [s][bup 0 8 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 49 65535 0]Eles jogam toda a esperança nos[n]atletas, e se fracassar,[n]vai para o lixo, né?[n][f 1 3 65535][w][e]

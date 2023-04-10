@@ -6,7 +6,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Ótimo trabalho, é assim que deve ser![n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Morgana]]
-[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 0 1032 65535 0]Se eu não estivesse preso[n]neste formulário, eu poderia[n]ajudá-lo...[n][f 1 3 65535][w][e]
+[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 0 1032 65535 0]Se eu não estivesse preso[n]nesta forma, eu poderia[n]ajudá-lo...[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Morgana]]
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]...Ei, estou falando sério.[n][f 1 3 65535][w][e]

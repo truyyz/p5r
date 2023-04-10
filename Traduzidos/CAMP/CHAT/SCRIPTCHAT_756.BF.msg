@@ -18,10 +18,10 @@
 [s]Eu não tenho dinheiro suficiente.[e]
 
 [msg MSG_003_0_0 [Ryuji]]
-[s][f 5 14]Seriamente?!?[n][w][e]
+[s][f 5 14]Sério?!?[n][w][e]
 
 [msg MSG_004_0_0 [Ryuji]]
-[s][f 5 14]Uh, desculpe.[n]Olá.[n][f 5 15][w][e]
+[s][f 5 14]Uh, desculpe.[n]Tchau.[n][f 5 15][w][e]
 
 [msg MSG_MORGANA_TV_NotSet [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Espero que a TV que você encomendou[n]chegue logo...[n][f 1 3 65535][w][e]

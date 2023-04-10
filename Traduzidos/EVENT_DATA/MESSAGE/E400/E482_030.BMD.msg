@@ -32,7 +32,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Mas é o meu sonho, então pretendo[n]investir tudo de mim.[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Kasumi]]
-[s][bup 0 10 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Eu seria invencível se[n]minha senpai estivesse lá para torcer por[n]mim! Haha.[n][f 1 3 65535][w][e]
+[s][bup 0 10 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Eu seria invencível se[n]meu senpai estivesse lá para torcer por[n]mim! Haha.[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Kasumi]]
 [s][bup 0 10 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Ah, já estamos na estação...[n][f 1 3 65535][w][e]

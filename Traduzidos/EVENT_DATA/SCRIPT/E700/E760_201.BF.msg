@@ -229,7 +229,7 @@
 [s][bup 0 103 501 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]...Deve ser Guatemala SHB...[n][f 1 3 65535][w][e]
 
 [msg SYS_051_1_0 [Guatemala SHB]]
-[s][vp 8 2 0 0 65535 0]O solo vulcânico da Guatemala é ideal para o[n]café. O feijão é classificado segundo a altitude[n]das lavouras.[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0]O solo vulcânico da Guatemala é ideal para o[n]café. O grão é classificado segundo a altitude[n]das lavouras.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]I chicchi SHB (Strictly Hard Bean), che[n]crescono a oltre 1.300 metri, hanno[n]un'acidità simile a quella degli agrumi.[n][f 1 3 65535][w][e]
 
 [msg MSG_052_0_0 [Sojiro]]
@@ -341,7 +341,7 @@
 [s][bup 0 103 501 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]...Sim, é Guatemala Antigua.[n][f 1 3 65535][w][e]
 
 [msg SYS_065_1_0 [Guatemala Antígua]]
-[s][vp 8 2 0 0 65535 0]O solo vulcânico da Guatemala é ideal para o[n]café. O feijão é classificado segundo a altitude[n]das lavouras.[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0]O solo vulcânico da Guatemala é ideal para o[n]café. O grão é classificado segundo a altitude[n]das lavouras.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]Devido aos minerais e substâncias presentes[n]no solo, o café Antigua tem uma[n]acidez suave e um sabor fresco.[n][f 1 3 65535][w][e]
 
 [msg MSG_066_0_0 [Sojiro]]

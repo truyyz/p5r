@@ -69,7 +69,7 @@
 [s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Sim, mas...[n][f 1 3 65535][w][e]
 
 [msg MSG_030_0_0 [Ryuji]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 3 301 1][vp 8 0 0 25 65535 0]Aquele pau faz minhas bolas girarem.[n]Ele nem escondeu o fato de que[n]ele menospreza todo mundo![n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 3 301 1][vp 8 0 0 25 65535 0]Aquele desgraçado faz minhas bolas arderem.[n]Ele nem escondeu o fato de que[n]ele menospreza todo mundo![n][f 1 3 65535][w][e]
 
 [msg MSG_031_0_0 [Morgana]]
 [s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 0 0 26 65535 0]Não vale a pena incomodar.[n][f 1 3 65535][w][e]
