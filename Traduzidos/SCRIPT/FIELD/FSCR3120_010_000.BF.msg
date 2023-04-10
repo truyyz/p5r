@@ -81,7 +81,7 @@
 [s]Se você quiser usar[n]meus serviços, custará apenas[n]5.000 ienes. Você quer me solicitar?[n][w][e]
 
 [msg MSG_KAWAKAMI_CORP_C02_00 [Kawakami]]
-[s][bup 0 109 0 65535 1]Oláoo, Becky está falando![n]Você está com fome, mestre?[n][w][e]
+[s][bup 0 109 0 65535 1]Oláá, Becky está falando![n]Você está com fome, mestre?[n][w][e]
 [s]Estamos oferecendo[n]"Maid in the Kitchen" e "With[n]the Maid" de graça![n][w][e]
 [s]São apenas 5.000 ienes por[n]isso e mais, incluindo impostos.[n]Que tal isso?[n][w][e]
 

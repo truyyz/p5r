@@ -1487,7 +1487,7 @@
 [s]Estou ligando para meus amigos agora![n]Vai ser uma verdadeira explosão-oh![n][w][e]
 
 [msg TalkMsg_GUY_RESULT_ENEMY_4]
-[s]...Uau, você caiu nessa com[n]todos os seus sapatos! Eu tenho que ir! Olá![n][w][e]
+[s]...Uau, você caiu nessa com[n]todos os seus sapatos! Eu tenho que ir! Tchau![n][w][e]
 
 [msg TalkMsg_GUY_RESULT_ENEMY_5]
 [s]Bem, eu realmente tinha que ir![n][w][e]

@@ -3054,7 +3054,7 @@
 [s][bup 0 109 606 0 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu gostaria de ajudá-lo muito mais com a[n]limpeza... o que me diz, Mestre?[n][f 1 3 65535][w][e]
 
 [sel SEL_772_0_0 top]
-[s][f 0 8 2 1 2217]Você tem o número errado.[clr 27][e]
+[s][f 0 8 2 1 2217]Você ligou para o número errado.[clr 27][e]
 [s][f 0 8 2 1 2217]Ei, que diabos?[clr 27][e]
 [s][f 0 8 2 1 2217]Isso é venda agressiva?[clr 27][e]
 
@@ -3079,7 +3079,7 @@
 [msg MSG_776_0_0 [Kawakami]]
 [s][bup 0 109 600 0 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ok, essa história me deixa louco,[n]então prefiro parar[n]de falar sobre dinheiro...[n][f 1 3 65535][w][e]
 [s][bup 0 109 604 0 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Cara... Lá vem o patrão![n][f 1 3 65535][w][e]
-[s][bup 0 109 601 0 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Uhm, bem, espero que você[n]solicite meus serviços novamente![n]Olá, olá! [clr 2][f 1 9 0][clr 27][n][f 1 3 65535][w][e]
+[s][bup 0 109 601 0 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Uhm, bem, espero que você[n]solicite meus serviços novamente![n]Tchau, tchau! [clr 2][f 1 9 0][clr 27][n][f 1 3 65535][w][e]
 
 [msg MSG_777_0_0 [Kawakami]]
 [s][bup 0 109 601 0 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ah, é o Mestre? Obrigado por[n]usar nossos serviços hoje! [clr 2][f 1 9 0][clr 27][n][f 1 3 65535][w][e]
@@ -3111,7 +3111,7 @@
 [s][bup 0 109 600 0 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Uhm, eu sei que é uma coisa trivial de se[n]dizer, mas você deveria comer melhor. Ok?[n][f 1 3 65535][w][e]
 [s][bup 0 109 603 0 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Quero dizer, considerando quanto[n]você gasta para me trazer até aqui, você[n]certamente pode pagar algumas refeições decentes...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]......[n][f 1 3 65535][w][e]
-[s][bup 0 109 601 0 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Uhm, bem, espero que você[n]solicite meus serviços novamente![n]Olá, olá! [clr 2][f 1 9 0][clr 27][n][f 1 3 65535][w][e]
+[s][bup 0 109 601 0 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Uhm, bem, espero que você[n]solicite meus serviços novamente![n]Tchau, tchau! [clr 2][f 1 9 0][clr 27][n][f 1 3 65535][w][e]
 
 [msg MSG_784_0_0 [Kawakami]]
 [s][bup 0 109 600 0 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Boneco[n][f 1 3 65535][w][e]
