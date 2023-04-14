@@ -6,7 +6,7 @@
 [s][f 4 23 1 816 3 10 0 0][f 4 10 65535 0 0][vp 8 2 1 0 816 0]Sério, pense em como eu[n]me sinto tendo que ficar aqui[n]esperando por você.[n][w][e]
 
 [msg MSG_14620100_200_01 [Mulher punk rock]]
-[s][bup 0 108 500 65535 0][f 4 10 65535 0 0][f 4 23 1 821 3 10 0 0][vp 8 0 1 9 65535 0][f 4 25 1 821 0 0]...Obrigado. Nós nos veremos.[n][w][e]
+[s][bup 0 108 500 65535 0][f 4 10 65535 0 0][f 4 23 1 821 3 10 0 0][vp 8 0 1 9 65535 0][f 4 25 1 821 0 0]...Obrigado. Nos vemos mais tarde.[n][w][e]
 
 [msg MSG_14620100_200_02 [Sojiro]]
 [s][bup 0 103 0 0 0][f 4 10 65535 0 0][f 4 23 1 816 3 10 0 0][vp 8 0 1 10 65535 0][f 4 25 1 816 0 0]Volte logo.[n][w][e]

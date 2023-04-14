@@ -20,7 +20,7 @@
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Honestamente, estou feliz por[n]estar aqui, [f 4 2].[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]A última vez que estive[n]em um parque, estava com minha mãe[n]e Sojiro.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Há muito tempo, minha mãe[n]ensinou-me que existem descobertas[n]a serem feitas em todos os lugares que você olha.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Acabei de me lembrar,[n]e agora namorar é[n]divertido de novo. E então estou com você.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Acabei de me lembrar,[n]e agora sair é[n]divertido de novo. E então estou com você.[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Futaba]]
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Cara, esse ambiente tranquilo[n]é tão relaxante...[n][f 1 3 65535][w][e]

@@ -96,7 +96,7 @@
 
 [msg MSG_019_0_0 [Hifumi]]
 [s][bup 0 106 7 65535 0][f 4 10 65535 0 0][vp 8 0 0 31 65535 0]Como um herói, você certamente estará[n]ocupado ajudando a todos,[n]heh?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 32 65535 0]Bem...não existe mais nenhuma regra[n]que me impeça de namorar[n]alguém...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 32 65535 0]Bem...não existe mais nenhuma regra[n]que me impeça de sair com[n]alguém...[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Hifumi]]
 [s][bup 0 106 6 65535 0][f 4 10 65535 0 0][vp 8 0 0 33 65535 0]Então, por enquanto,[n]deixe-me ter tudo[n]para mim...[n][f 1 3 65535][w][e]

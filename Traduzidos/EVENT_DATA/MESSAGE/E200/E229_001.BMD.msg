@@ -36,7 +36,7 @@
 
 [msg MSG_012_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Não muito diferente de como é hoje.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]No ensino médio, passamos[n]para turmas diferentes, e então[n]paramos de namorar...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]No ensino médio, passamos[n]para turmas diferentes, e então[n]paramos de sair...[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Acho que ele não tinha muitos amigos.[n][f 1 3 65535][w][e]

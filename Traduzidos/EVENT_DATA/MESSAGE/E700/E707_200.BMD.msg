@@ -113,7 +113,7 @@
 [msg MSG_019_5_0 [Ryuji]]
 [s][bup 0 2 611 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Não sei. Quando penso nisso,[n]percebo que talvez não[n]foi uma decisão difícil.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Já passei por muita coisa, odiei até a morte[n]Kamoshida, virei uma espécie de bandido...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]...Estávamos quase[n]suspensos, comecei a namorar[n]mais Ann e Mishima...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]...Estávamos quase[n]suspensos, comecei a sair[n]mais com Ann e Mishima...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]...E eu também tive uma briga com Nakaoka[n]e Takeishi, mesmo que eles[n]espancaram-me até sangrar. Hehe...[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Ryuji]]

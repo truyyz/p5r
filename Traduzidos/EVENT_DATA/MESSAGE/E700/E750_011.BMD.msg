@@ -48,7 +48,7 @@
 
 [msg MSG_009_0_0 [Chihaya]]
 [s][bup 0 113 3 4 0][f 4 10 65535 0 0][vp 8 2 0 10096 65535 0]Ontem fiquei preocupado,[n]então previ meu futuro.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E eu vi você[n]namorar outra pessoa.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E eu vi você[n]sair com outra pessoa.[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Takemi]]
 [s][bup 0 108 502 1 0][f 4 10 65535 0 0][vp 8 2 0 14102 65535 0]Você parece muito em forma.[n][f 1 3 65535][w][e]

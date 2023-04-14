@@ -378,7 +378,7 @@
 [msg MSG_C12_YES_05_00 [Iwai]]
 [s][bup 0 104 0 0 0][f 4 10 65535 0 0][f 4 23 1 212 49 10 40 10][vp 8 2 1 13086 65535 0]A pessoa que você tem que escoltar…[n]é Kaoru. Jantar com ele naquele restaurante[n]em Shibuya.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Agora vá. Eu tenho que lidar com um assunto com[n]Tsuda.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Vou acompanhá-lo quando[n]terminar. Nós nos veremos.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Vou acompanhá-lo quando[n]terminar. Nos vemos mais tarde.[n][w][e]
 
 [msg MSG_C12_YES_06_00 [Iwai]]
 [s][bup 0 104 0 0 0][f 4 10 65535 0 0][f 4 23 1 212 49 10 40 10][vp 8 2 1 13086 65535 0]Ok, venha para trás.[n][w][e]

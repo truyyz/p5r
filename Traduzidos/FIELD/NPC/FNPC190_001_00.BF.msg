@@ -92,7 +92,7 @@
 
 [msg BTL_LAVENZA_WIN_02 [Lavenza]]
 [s][bup 0 100 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1 65535 0]Infelizmente, agora tenho que retornar[n]às minhas funções.[n][w][e]
-[s]Nós nos veremos.[n][w][e]
+[s]Nos vemos mais tarde.[n][w][e]
 
 [sel PTIN_YESNO_SEL top]
 [s]Contando com você.[e]

@@ -1457,7 +1457,7 @@
 
 [sel SEL_HOUKAGO_MASTER_1122 top]
 [s]Está certo.[e]
-[s]Nós nos veremos.[e]
+[s]Nos vemos mais tarde.[e]
 
 [msg MSG_HOUKAGO_MASTER_1122__2 [Sojiro]]
 [s][f 4 23 1 205 33 10 33 10][f 4 23 1 235 31 10 30 10][bup 0 103 3 0 0][f 4 10 65535 0 0][vp 8 0 1 2 65535 0]Espero que esteja brincando...[n][w][e]

@@ -1,7 +1,7 @@
 [msg MSG_000_0_0 [Shinya]]
 [s][bup 0 110 0 0 0][f 4 10 65535 0 0][vp 8 2 0 56217 65535 0]Há muitos casais aqui.[n]Qual é o sentido de ter[n]um encontro no aquário?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Está tudo escuro e você não pode fazer[n]nada além de olhar para alguns peixes.[n]Viu? Aquele cara ali boceja.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Se você tem que namorar,[n]pelo menos faça isso em algum[n]mais lugar quando crescer. Eu faria isso.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Se você tem que namorar,[n]pelo menos faça isso em algum[n]lugar mais crescido. Eu faria isso.[n][f 1 3 65535][w][e]
 
 [sel SEL_001_0_0 top]
 [s][f 0 8 2 1 2217]Eu entendo você.[clr 27][e]

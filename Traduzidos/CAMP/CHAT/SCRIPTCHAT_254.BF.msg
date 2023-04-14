@@ -8,7 +8,7 @@
 [s][f 5 14]Na verdade, encontrei[n]uma postagem muito interessante.[n][f 1 3 65535][w][e]
 [s][f 5 14]"Meu irmão de repente[n]começou a[n]agir violentamente com todos".[n][f 1 3 65535][w][e]
 [s][f 5 14]"Se isso continuar, temo que[n]ele possa me matar..."[n][f 1 3 65535][w][e]
-[s][f 5 14]"Eu me pergunto se é culpa daqueles bandidos[n]feios de Shibuya que ele[n]começou a namorar."[n][w][e]
+[s][f 5 14]"Eu me pergunto se é por ele ter sido pego[n]com todos esses esquisitões de Shibuya[n]"[n][w][e]
 
 [msg MSG_010_0_0 [Ryuji]]
 [s][f 5 14]Você acha que ele está se referindo a esses[n]ladrões quando fala[n]sobre "bandidos"?[n][f 1 3 65535][w][e]
