@@ -1193,10 +1193,10 @@
 [s][vp 8 0 0 0 65535 0]Com qual de nós você[n]marcaria uma consulta?[n][f 1 3 65535][w][e]
 
 [msg MSG_363_0_0 [Yusuke]]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Hum, eu pensei sobre isso por um longo tempo,[n]mas... é impossível escolher.[n]Eu gostaria de namorar os dois.[n][f 1 3 65535][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Hum, eu pensei sobre isso por um longo tempo,[n]mas... é impossível escolher.[n]Eu gostaria de sair com as duas.[n][f 1 3 65535][w][e]
 
 [msg MSG_364_0_0 [Menina encantadora em traje]]
-[s][vp 8 0 0 0 65535 0]Não, você não pode sair[n]com vocês dois! Eu não quero[n]namorar um mulherengo![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Não, você não pode sair[n]com nós duas! Eu não quero[n]namorar um mulherengo![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Vou avisar a professora![n][f 1 3 65535][w][e]
 
 [msg MSG_365_0_0 [Garota estrangeira fantasiada]]

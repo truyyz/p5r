@@ -32,11 +32,11 @@
 
 [msg MSG_009_0_0 [Haru]]
 [s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0][f 5 13 4 5 7]Eu estava muito nervoso.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Eu não era novato em namorar pessoas importantes,[n]mas nunca havia dito o que realmente pensava.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Eu não era novata em sair com pessoas importantes,[n]mas nunca havia dito o que realmente pensava.[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Haru]]
 [s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 14 65535 0][f 5 13 4 10 7]A ansiedade me comeu...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Eu não era novato em namorar pessoas importantes,[n]mas nunca havia dito o que realmente pensava.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Eu não era novata em sair com pessoas importantes,[n]mas nunca havia dito o que realmente pensava.[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Haru]]
 [s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]No entanto, depois de falar com gerenciamento,[n]decidi deixá-los administrar a Okumura Foods.[n][f 1 3 65535][w][e]

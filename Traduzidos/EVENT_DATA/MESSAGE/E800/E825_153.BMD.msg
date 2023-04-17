@@ -1,7 +1,7 @@
 [msg MSG_000_0_0 [Ohya]]
 [s][bup 0 107 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 16099 65535 0]Uau! O oceano é tão lindo![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Olha, tem um navio muito legal[n]ali! E HÁ[n]uma fábrica![n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Oh, isso não é maravilhoso,[n][f 4 1]-kun!?[n]Namorar é divertido![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Oh, isso não é maravilhoso,[n][f 4 1]-kun!?[n]Sair é divertido![n][f 1 3 65535][w][e]
 
 [sel SEL_001_0_0 top]
 [s]...Você está bem?[e]

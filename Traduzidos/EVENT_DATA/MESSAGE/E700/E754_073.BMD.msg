@@ -99,7 +99,7 @@
 [s]Você me faz corar.[e]
 
 [msg MSG_028_0_0 [Ohya]]
-[s][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 31 65535 0]Ei, lembra o que dissemos[n]quando começamos[n]a namorar?[n][f 1 3 65535][w][e]
+[s][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 31 65535 0]Ei, lembra o que dissemos[n]quando começamos[n]a sair?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 32 65535 0]Que eu ficaria com você[n]até você ficar entediado comigo,[n]certo? Bem, pequena edição.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 33 65535 0]Nunca[n]canse de mim.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 34 65535 0]Porque eu quero ficar ao seu lado,[n]não importa o que[n]o futuro reserva para você.[n][f 1 3 65535][w][e]

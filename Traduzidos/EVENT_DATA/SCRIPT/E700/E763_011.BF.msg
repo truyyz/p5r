@@ -305,7 +305,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1021 65535 0]Este livro vai te ensinar como[n]limpar ou se tornar um monge?[n][f 1 3 65535][w][e]
 
 [msg MND_BookID_55_Start]
-[s][vp 1 0 0 0 0 0]"Um guia para os parques mais populares da[n]cidade. Descubra os melhores lugares para[n]namorar!"[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]"Um guia para os parques mais populares da[n]cidade. Descubra os melhores lugares para[n]sair!"[n][f 1 3 65535][w][e]
 
 [msg MSG_BookID_55_Start [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1021 65535 0]Ei, aqui diz que [clr 2]Inokashira Park[clr 27][n]tem um grande lago[n]e uma atmosfera muito agradável.[n][f 1 3 65535][w][e]
@@ -333,7 +333,7 @@
 [s][vp 1 0 0 0 0 0]"O som suave das ondas[n]e da roda-gigante...[n]aconselhamento auto-aconselhável sobre romance para adultos".[n][f 1 3 65535][w][e]
 
 [msg MSG_BookID_60_Start [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1168 65535 0][clr 2]Seaside Park[clr 27], hein? Eu ouvi[n]que é ótimo para namorar.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1168 65535 0][clr 2]Seaside Park[clr 27], hein? Eu ouvi[n]que é ótimo para sair.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Pode ser divertido[n]ir lá...com alguém especial.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 1 0 0 0 0 0]...De qualquer forma, não faria[n]muito sentido visitar por conta própria.[n][f 1 3 65535][w][e]
 

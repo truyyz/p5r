@@ -2092,7 +2092,7 @@
 [s]Umpf... Eu me pergunto onde você pensa que[n]chega, com essa atitude.[n][w][e]
 
 [msg TalkMsg_GUY_EN_bye_02]
-[s]Nós nos veremos. Estamos bem assim, não estamos?[n][w][e]
+[s]Nos vemos mais tarde. Estamos bem assim, não estamos?[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_GIVE_00]
 [s]...Ah, entrega pra mim![n][w][e]

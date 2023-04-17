@@ -1,5 +1,5 @@
 [msg MSG_000_0_0 [Makoto]]
-[s][bup 0 6 300 65535 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]Me desculpe se eu pedi para você[n]namorar tão de repente.[n][f 1 3 65535][w][e]
+[s][bup 0 6 300 65535 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]Me desculpe se eu pedi para você[n]sair comigo tão de repente.[n][f 1 3 65535][w][e]
 
 [msg MND_000_5_0]
 [s][vp 8 0 0 0 65535 0]Parece que Makoto estava[n]esperando por mim aqui...[n][f 1 3 65535][w][e]

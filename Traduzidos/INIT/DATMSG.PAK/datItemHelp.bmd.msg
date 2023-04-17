@@ -11,7 +11,7 @@
 [s]Fórmula de ação rápida.[n]Restaura 100 HP de um[n]aliado.[n][e]
 
 [msg Item_004]
-[s]Uma nova droga desenvolvida pela TMC. Restaura 200 HP[n]de um aliado.[n][e]
+[s]Uma nova droga desenvolvida[n]pela TMC. Restaura 200 HP[n]de um aliado.[n][e]
 
 [msg Item_005]
 [s]Restaura 30% do HP[n]de um aliado.[n][e]
@@ -20,13 +20,13 @@
 [s]Restaure totalmente o HP[n]de um aliado.[n][e]
 
 [msg Item_007]
-[s]Uma nova droga desenvolvida pela TMC. Restaura 50 HP[n]de todos os aliados.[n][e]
+[s]Uma nova droga desenvolvida[n]pela TMC. Restaura 50 HP[n]de todos os aliados.[n][e]
 
 [msg Item_008]
-[s]Uma nova droga desenvolvida pela TMC. Restaura 100 HP[n]de todos os aliados.[n][e]
+[s]Uma nova droga desenvolvida[n]pela TMC. Restaura 100 HP[n]de todos os aliados.[n][e]
 
 [msg Item_009]
-[s]Uma nova droga desenvolvida pela TMC. Restaura 200 HP[n]de todos os aliados.[n][e]
+[s]Uma nova droga desenvolvida[n]pela TMC. Restaura 200 HP[n]de todos os aliados.[n][e]
 
 [msg Item_00A]
 [s]Restaura totalmente o HP dos aliados.[n][e]

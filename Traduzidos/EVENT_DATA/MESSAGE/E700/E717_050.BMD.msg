@@ -20,7 +20,7 @@
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 106 5 301 1][vp 8 2 0 18042 65535 0]Mãe...![n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Mãe de Hifumi]]
-[s][vp 8 0 0 0 65535 0]Tenho certeza que você já sabe,[n]mas você não tem permissão para namorar[n]ninguém, mocinha.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Tenho certeza que você já sabe,[n]mas você não tem permissão para sair com[n]ninguém, mocinha.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Você está atraindo muitos[n]novos fãs do sexo masculino graças a[n]suas fotos.[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Hifumi]]

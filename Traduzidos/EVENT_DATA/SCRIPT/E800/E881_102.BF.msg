@@ -92,12 +92,12 @@
 [msg MSG_COOP_OOYA_000_01 [Ohya]]
 [s][bup 0 107 0 65535 0][f 4 10 65535 0 0]...Ei, vamos lá. Qual foi essa reação?[n][w][e]
 [s]Estou começando a duvidar se[n]você é realmente[n]um fã dos Phantom Thieves...[n][w][e]
-[s]*suspiro* Não importa. Nós nos veremos.[n][w][e]
+[s]*suspiro* Não importa. Nos vemos mais tarde.[n][w][e]
 
 [msg MSG_COOP_ODA_000_00 [Shinya]]
 [s][bup 0 110 0 0 0][f 4 10 65535 0 0]Ei, por que você não aparece?[n]Eu queria falar com você[n]sobre os Phantom Thieves...[n][w][e]
 [s]Ei, tem certeza de que os conhece[n]realmente? Ou foi apenas uma mentira?[n][w][e]
-[s]... qualquer que seja. Nós nos veremos.[n][w][e]
+[s]... qualquer que seja. Nos vemos mais tarde.[n][w][e]
 
 [msg MSG_COOP_ODA_000_01 [Shinya]]
 [s][bup 0 110 0 0 0][f 4 10 65535 0 0]E ai, como vai? Você disse[n]que me contaria tudo[n]sobre os Phantom Thieves...[n][w][e]

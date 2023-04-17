@@ -55,7 +55,7 @@
 [s][f 5 14]Eu também.[n][w][e]
 
 [msg MSG_018_0_0 [Ryuji]]
-[s][f 5 14]E poi non abbiamo tempo di[n]litigare su queste cose. Quel[n]Madarame (?) mi preoccupa.[n][w][e]
+[s][f 5 14]Também não temos muito tempo para discutir sobre isso.[n]Aquele Madarame(?) me incomoda.[n][w][e]
 
 [msg MSG_019_0_0 [Ann]]
 [s][f 5 14]Já. Mas não se empolgue muito, ok?[n][w][e]

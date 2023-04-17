@@ -104,7 +104,7 @@
 [s][bup 0 7 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]De qualquer forma, agora temos que[n]voltar ao trabalho. Desculpe,[n]nós temos que ir.[n][f 1 3 65535][w][e]
 
 [msg MSG_026_0_0 [Namorado da Haru]]
-[s][bup 0 211 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Ei, Haru! Você acha que pode namorar[n]outro cara e abandonar[n]sua noiva?[n][f 1 3 65535][w][e]
+[s][bup 0 211 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Ei, Haru! Você acha que pode sair com[n]outro cara e abandonar[n]sua noiva?[n][f 1 3 65535][w][e]
 
 [msg MSG_027_0_0 [Haru]]
 [s][bup 0 7 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você não é meu noivo.[n]Eu já disse a você, eu não[n]caso.[n][f 1 3 65535][w][e]

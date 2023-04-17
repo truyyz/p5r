@@ -166,7 +166,7 @@
 
 [sel SEL_044_0_0 top]
 [s]Tudo vai ficar bem.[e]
-[s]Nós nos veremos.[e]
+[s]Nos vemos mais tarde.[e]
 
 [msg MSG_045_0_0 [Kasumi]]
 [s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 64 13 0]...Eu realmente acredito em você.[n][f 1 3 65535][w][e]

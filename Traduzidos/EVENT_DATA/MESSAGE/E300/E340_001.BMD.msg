@@ -59,7 +59,7 @@
 [s][bup 0 4 104 65535 0][f 4 10 65535 0 0][vp 8 0 0 53 65535 0]Estamos realmente exagerando aqui![n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Sombra de Okumura]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 211 3 301 1][vp 8 0 0 20 65535 0]Eu disse para você não[n]namorar pessoas vulgares![n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 211 3 301 1][vp 8 0 0 20 65535 0]Eu disse para você não[n]sair com pessoas vulgares![n][f 1 3 65535][w][e]
 
 [msg MSG_016_1_0 [Ryuji]]
 [s][bup 0 2 102 0 0][f 4 10 65535 0 0][vp 8 0 0 56 65535 0]Aquele desgraçado![n][f 1 3 65535][w][e]
