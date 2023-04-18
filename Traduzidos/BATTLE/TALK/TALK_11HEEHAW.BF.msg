@@ -73,7 +73,7 @@
 
 [sel TalkSel_GUY_CHAT_FQ_02 top]
 [s]Por favor me perdoe.[e]
-[s]Ventilador?[e]
+[s]Fãs?[e]
 [s]E assim?[e]
 
 [msg TalkMsg_GUY_CHAT_FQ_02_R]

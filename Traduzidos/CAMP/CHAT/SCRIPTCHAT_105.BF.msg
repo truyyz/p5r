@@ -14,7 +14,7 @@
 [s][f 5 14]Além disso, nossos fãs mal[n]esperam que ajamos![n][w][e]
 
 [msg MSG_005_0_0 [Makoto]]
-[s][f 5 14]...Ventilador?[n][w][e]
+[s][f 5 14]...Fãs?[n][w][e]
 
 [msg MSG_006_0_0 [Ann]]
 [s][f 5 14]O que quer que queiramos fazer,[n]no entanto, precisamos da ajuda de Haru.[n][w][e]
