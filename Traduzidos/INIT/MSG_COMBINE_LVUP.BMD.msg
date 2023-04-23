@@ -57,8 +57,8 @@
 [s]Obteve o Skill Card[n][clr 1][var 1][clr 0] de[n][clr 1][var 0][clr 0]![n][w][e]
 
 [msg FCL_SKILLCARD_TUTORIAL]
-[s]Cartas de Habilidade são itens que sua[n]Personas pode usar para aprender[n]habilidades seladas em cartas.[n][w][e]
-[s]Depois de usado, um Skill Card[n]desaparecerá, mas a habilidade que ele ensina pode[n]ser transmitida por fusão.[n][w][e]
+[s]Cartas de Habilidade são itens que sua[n]Persona pode usar para aprender[n]habilidades seladas em cartas.[n][w][e]
+[s]Depois de usado, um Skill Card[n]desaparecerá, mas a habilidade que ele aprendeu pode[n]ser transmitida por fusão.[n][w][e]
 
 [msg FCL_MOVIE_BONUS]
 [s]Você ganhou vários bônus[n]assistir ao filme![n][w][e]

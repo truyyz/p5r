@@ -4210,7 +4210,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Até mais![n][f 1 3 65535][w][e]
 
 [msg MSG_1064_0_0 [Mishima]]
-[s][bup 0 111 0 65535 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ah, [f 4 1]? Desculpe, eu[n]namorei com você de novo por nada.[n][f 1 3 65535][w][e]
+[s][bup 0 111 0 65535 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ah, [f 4 1]? Desculpe, eu[n]tirei você de casa pra nada.[n][f 1 3 65535][w][e]
 
 [msg MSG_1065_0_0 [Mishima]]
 [s][bup 0 111 0 65535 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Como representante da imagem[n]dos Phantom Thieves, tentei[n]levantar um pouco meu ânimo, mas...[n][f 1 3 65535][w][e]

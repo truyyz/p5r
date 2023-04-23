@@ -228,7 +228,7 @@
 
 [msg MSG_058_0_0 [Morgana]]
 [s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 0 0 85 65535 0]Visão de detetive, hein?[n]É melhor não subestimá-lo.[n][f 1 3 65535][w][e]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 86 65535 0]Por outro lado, poderíamos descobrir muitas[n]coisas dele. Se ele entrar em contato com você,[n]namore.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 86 65535 0]Por outro lado, poderíamos descobrir muitas[n]coisas dele. Se ele entrar em contato com você,[n]saia com ele.[n][f 1 3 65535][w][e]
 
 [msg MSG_059_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 87 65535 0]Desculpa ter demorado tanto![n]...Espera, era Akechi?[n][f 1 3 65535][w][e]
