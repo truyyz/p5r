@@ -365,7 +365,7 @@
 [s][f 4 23 1 205 33 10 33 10][f 4 23 1 235 31 10 30 10][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 2 1 5001 65535 0]Droga, está chovendo...[n][w][e]
 
 [msg MSG_NIGHT_TV_SHOPPING [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1172 65535 0]Ei, o programa de televendas[n]está no ar hoje... Quer[n]confirmar a TV?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1172 65535 0]Ei, o programa de televendas[n]está no ar hoje... Quer[n]checar a TV?[n][w][e]
 
 [msg MSG_NIGHT_MASTER_D01_COO [Sojiro]]
 [s][f 4 23 1 205 33 10 33 10][f 4 23 1 235 31 10 30 10][bup 0 103 0 0 0][f 4 10 65535 0 0]Você não está entediado?[n][w][e]
@@ -995,7 +995,7 @@
 [s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 1 1021 65535 0]Sinto que estamos esquecendo[n]algo importante...[n][w][e]
 
 [msg MSG_NIGHT_0109_000_00 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1027 65535 0]...Gosta? Você tem algo a dizer?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1027 65535 0]...Quê? Você tem algo a dizer?[n][w][e]
 
 [sel MSG_NIGHT_0109_001_00 top]
 [s]Você era um grande cara.[e]

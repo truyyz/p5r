@@ -21,7 +21,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]As pessoas podem realmente não ter[n]consciência de si mesmas?[n]Todas elas são assim?[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Jose]]
-[s][bup 0 221 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não entendo. Não é nada como[n]eles me ensinaram...[n][f 1 3 65535][w][e]
+[s][bup 0 221 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não entendi. Não é nada como[n]eles me ensinaram...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas ainda não posso abandonar[n]meus estudos.[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Jose]]

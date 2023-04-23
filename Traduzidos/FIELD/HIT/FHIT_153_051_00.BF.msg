@@ -351,7 +351,7 @@
 [s][vp 1 0 0 2146 0 0][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ok, hora de ir.[n][w][e]
 
 [msg SAFE_EXIT_LOW_03_PC03_me [Morgana]]
-[s][vp 1 0 0 3146 0 0][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Preparar? Vamos, Joker![n][w][e]
+[s][vp 1 0 0 3146 0 0][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Olá? Vamos, Joker![n][w][e]
 
 [msg SAFE_EXIT_LOW_03_PC04_me [Ann]]
 [s][vp 1 0 0 4146 0 0][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ok, vamos em frente![n][w][e]

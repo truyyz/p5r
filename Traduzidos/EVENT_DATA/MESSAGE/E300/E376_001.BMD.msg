@@ -22,7 +22,7 @@
 [s][bup 0 8 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]A polícia não tem nada contra nós.[n]Eles não podem nos prender.[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Akechi]]
-[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Verdadeiro. Eu sou o único que descobriu[n]sua verdadeira identidade.[n][f 1 3 65535][w][e]
+[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Verdade. Eu sou o único que descobriu[n]sua verdadeira identidade.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]No entanto, eles estão trabalhando para[n]construir falso testemunho e[n]criar um perpetrador.[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Futaba]]
@@ -147,7 +147,7 @@
 [s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 66 65535 0]Sabe, meio que me lembra de nós...[n][f 1 3 65535][w][e]
 
 [sel SEL_049_0_0 top]
-[s]Verdadeiro...[e]
+[s]Verdade...[e]
 [s]Você diz?[e]
 
 [msg MSG_050_0_0 [Ann]]

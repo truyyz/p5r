@@ -415,7 +415,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Desde então tenho tido a oportunidade de[n]refletir muito...[n]Você tem tempo para falar sobre isso?[n][w][e]
 
 [msg MSG_C06_COOP_06_00 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 23 1 226 14 10 13 10][f 4 23 1 206 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Agora eu realmente quero[n]algo doce... Você também,[n]certo? Verdadeiro...?[n][w][e]
+[s][bup 0 4 0 65535 0][f 4 23 1 226 14 10 13 10][f 4 23 1 206 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Agora eu realmente quero[n]algo doce... Você também,[n]certo? Verdade...?[n][w][e]
 
 [msg MSG_C06_COOP_07_00 [Ann]]
 [s][bup 0 4 3 65535 0][f 4 23 1 226 14 10 13 10][f 4 23 1 206 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ei, lembra quando eu disse que[n]como modelo eu surpreenderia a todos?[n][w][e]

@@ -1355,7 +1355,7 @@
 [s]Huh? Como pode não ser verdade?[n]Eu teria morrido de outra forma.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_16_R_9]
-[s]Gosta? Não me diga que você está tentando[n]me dar a pequena lição bem[n]em tal momento, hein?[n][w][e]
+[s]Quê? Não me diga que você está tentando[n]me dar a pequena lição bem[n]em tal momento, hein?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_16_R_10]
 [s]Você quer dizer que agora estou simplesmente[n]confrontado com as verdades desagradáveis da[n]vida?[n][w][e]
@@ -1637,7 +1637,7 @@
 [s]Eu sinto que quando[n]estávamos juntos ...[n]ou talvez não querida ...[n][w][e]
 
 [msg TalkMsg_NEGO_POSSESSED_B]
-[s]Verdadeiro...[n][w][e]
+[s]Verdade...[n][w][e]
 
 [msg TalkMsg_NEGO_POSSESSED_B_2]
 [s]Eu só posso te oferecer dinheiro...[n][w][e]
@@ -2122,7 +2122,7 @@
 [s]Oh, você é um pirralho atrevido...[n]Você simplesmente não pode dizer quando[n]é hora de parar com isso?[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_DOUBLEU_2]
-[s]Gosta? Isso não é o suficiente para você?[n]É uma pena! Mas...[n][w][e]
+[s]Quê? Isso não é o suficiente para você?[n]É uma pena! Mas...[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_AGREE_0]
 [s]Assim é melhor, querida.[n][w][e]

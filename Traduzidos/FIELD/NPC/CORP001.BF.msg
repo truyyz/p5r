@@ -79,7 +79,7 @@
 [s][bup 0 3 0 0 0][vp 8 2 1 1192 65535 0][f 4 10 65535 0 0]Quer saber mais[n]sobre Mementos?[n][w][e]
 
 [sel SEL_MORGANA_DAY_0507 top]
-[s]Quais são eles, exatamente?[e]
+[s]O que é Mementos, exatamente?[e]
 [s]Como a barreira se abriu?[e]
 [s]Por que você está tão interessado?[e]
 [s]Quem é José?[e]
@@ -87,10 +87,10 @@
 [s]Não, tudo bem.[f 2 7 0 0 106 1][e]
 
 [msg MSG_MORGANA_DAY_0507_0 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1023 65535 0]Bem, eles são basicamente o[n]palácio coletivo da sociedade.[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1023 65535 0]Bem, ele é basicamente o[n]palácio coletivo da sociedade.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Na mente de cada ser humano[n]um processo mental subterrâneo[n]chamado de inconsciente está ativo.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Os vários inconscientes se fundem para formar o[n]que eu amo chamar de inconsciente coletivo.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Em outras palavras, os Mementos são um mundo[n]cognitivo compartilhado criado pela sociedade[n]como um todo.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Em outras palavras, Mementos são um mundo[n]cognitivo compartilhado criado pela sociedade[n]como um todo.[n][w][e]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 53105 65535 0]Imagine-o como um enorme[n]Palácio criado pela união[n]das distorções de cada um.[n][w][e]
 
 [msg MSG_MORGANA_DAY_0507_1 [Morgana]]

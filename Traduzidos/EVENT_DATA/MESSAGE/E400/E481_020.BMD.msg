@@ -8,7 +8,7 @@
 [s][bup 0 4 3 65535 0][vp 1 0 0 3 0 0]......[n][f 1 3 65535][w][e]
 
 [sel SEL_002_0_0 top]
-[s]Você é alérgico?[e]
+[s]Está com alergia?[e]
 [s]E aí?[e]
 
 [msg MSG_003_0_0 [Ann]]

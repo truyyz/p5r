@@ -75,7 +75,7 @@
 [s][bup 0 9 1 2 0][f 4 10 65535 0 0][vp 8 0 0 26 65535 0]Não eu pessoalmente. Eu estava atuando junto com[n]os Phantom Thieves, lembra?[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Sae]]
-[s][bup 0 105 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 27 65535 0]Verdadeiro. É, sem dúvida, uma conquista notável.[n][f 1 3 65535][w][e]
+[s][bup 0 105 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 27 65535 0]Verdade. É, sem dúvida, uma conquista notável.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 28 65535 0]Boa sorte aí.[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [(SE)明智 吾郎]]

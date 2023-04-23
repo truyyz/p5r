@@ -1,10 +1,10 @@
 [msg MSG_000_0_0 [Mishima]]
 [s][bup 0 111 5 65535 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]Como estão as coisas? Quer dizer,[n]com... as atividades especiais? *bocejo*[n][f 1 3 65535][w][e]
 [s][bup 0 111 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0][f 4 24 0 4 0 39 5 100][f 4 24 0 4 0 0 5 100]Ops, desculpe.[n]Ultimamente...um...[n]não tenho dormido muito.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Eu fico acordado a noite toda, toda[n]noite, executando o Phan-Site.[n]Eu acho que eles dizem... PR?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Eu fico acordado a noite toda, toda[n]noite, executando o Phan-Site.[n]Acho que chamam de... PR?[n][f 1 3 65535][w][e]
 
 [sel SEL_001_0_0 top]
-[s]Não entendo.[e]
+[s]Não entendi.[e]
 [s]...Phan-Site?[e]
 
 [msg MSG_002_0_0 [Mishima]]
@@ -12,7 +12,7 @@
 
 [msg MSG_002_5_0 [Mishima]]
 [s][bup 0 111 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]The Phantom Aficionado Website![n]Phan-Site Abreviado.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Você precisa de um nome cativante se quiser[n]impressionar as pessoas. É tudo[n]propaganda para Fantasy Thieves![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Você precisa de um nome cativante se quiser[n]impressionar as pessoas. É tudo[n]propaganda para os ladrões de fantasia![n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Mishima]]
 [s][bup 0 111 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Basicamente, não há sentido em derrotar[n]bandidos se ninguém vai saber disso.[n][f 1 3 65535][w][e]

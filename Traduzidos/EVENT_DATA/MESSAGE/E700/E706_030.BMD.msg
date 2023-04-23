@@ -19,7 +19,7 @@
 [sel SEL_003_0_0 top]
 [s]Insultando você...? Gosta...?[e]
 [s]Quer treinar... assim?[e]
-[s]Não entendo...[e]
+[s]Não entendi...[e]
 
 [msg MSG_004_0_0 [Ann]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 4 10 301 1][vp 8 2 0 6048 65535 0]Já começamos![n]Não serei perturbado por[n]sua perplexidade![n][f 1 3 65535][w][e]

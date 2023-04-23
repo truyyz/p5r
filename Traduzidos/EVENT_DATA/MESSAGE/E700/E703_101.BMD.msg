@@ -79,7 +79,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 31 65535 0]Espero abrir um lugar onde[n]outros possam experimentar[n]esse calor.[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Haru]]
-[s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 32 65535 0]Verdadeiro. Nesse caso, posso estar confiando[n]demais na ajuda de Sakura-san. Hmm, vou pensar[n]sobre isso.[n][f 1 3 65535][w][e]
+[s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 32 65535 0]Verdade. Nesse caso, posso estar confiando[n]demais na ajuda de Sakura-san. Hmm, vou pensar[n]sobre isso.[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Haru]]
 [s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 33 65535 0]Eheheh... Acho que você fala[n]por experiência própria, né?[n][f 1 3 65535][w][e]

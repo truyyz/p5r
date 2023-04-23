@@ -12,6 +12,6 @@
 [s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Os Mementos não são hostis,[n]ao contrário dos "Palácios".[n][w][e]
 
 [msg D08_BRIEFING_020_mes05 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Não entendo...[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Não entendi...[n][w][e]
 [s]Este é realmente o lugar que eu queria voltar[n]desde o início?[n][w][e]
 

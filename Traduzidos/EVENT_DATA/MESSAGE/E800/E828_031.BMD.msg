@@ -20,7 +20,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Fico feliz que nossos[n]gostos sejam semelhantes.[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Haru]]
-[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 3035 65535 0][f 5 13 4 10 7]Verdadeiro. O aroma de café e o cheiro[n]de madeira invadem a sala.[n][f 1 3 65535][w][e]
+[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 3035 65535 0][f 5 13 4 10 7]Verdade. O aroma de café e o cheiro[n]de madeira invadem a sala.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Aqui eu até esqueço que estou na cidade... eu gosto.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]É uma sala muito aconchegante.[n][f 1 3 65535][w][e]
 

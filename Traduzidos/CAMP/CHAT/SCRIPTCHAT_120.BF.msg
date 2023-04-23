@@ -31,7 +31,7 @@
 [s]Futaba sabe algo sobre isso.[e]
 
 [msg MSG_010_0_0 [Haru]]
-[s][f 5 14]Verdadeiro.[n][w][e]
+[s][f 5 14]Verdade.[n][w][e]
 
 [msg MSG_011_0_0 [Ann]]
 [s][f 5 14]Vamos, não a assuste.[n][w][e]

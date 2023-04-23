@@ -40,7 +40,7 @@
 [s][f 5 14]Exatamente. Morgana diz que[n]vai mudar sua cognição.[n][w][e]
 
 [msg MSG_011_0_0 [Ryuji]]
-[s][f 5 14]Não entendo...[n][w][e]
+[s][f 5 14]Não entendi...[n][w][e]
 
 [msg MSG_012_0_0 [Ryuji]]
 [s][f 5 14]Ah, e mais uma coisa.[n][w][e]

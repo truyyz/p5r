@@ -13,7 +13,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Mas eu quero pelo menos comer[n]bolo esta noite.[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Haru]]
-[s][bup 0 7 1 4 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Verdadeiro. Estamos procurando um bolo[n]para levar para casa, sim?[n][f 1 3 65535][w][e]
+[s][bup 0 7 1 4 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Verdade. Estamos procurando um bolo[n]para levar para casa, sim?[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Haru]]
 [s][bup 0 7 6 4 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Estou tão feliz em ouvir isso...[n]Você é o suficiente para mim também.[n][f 1 3 65535][w][e]

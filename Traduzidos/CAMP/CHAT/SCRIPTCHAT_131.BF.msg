@@ -11,7 +11,7 @@
 [s][f 5 14]Agora eu não quero nem[n]considerar essa possibilidade...[n][w][e]
 
 [msg MSG_004_0_0 [Yusuke]]
-[s][f 5 14]Verdadeiro. As mesmas pessoas que antes[n]nos aclamavam como heróis[n]agora parecem nos desprezar.[n][w][e]
+[s][f 5 14]Verdade. As mesmas pessoas que antes[n]nos aclamavam como heróis[n]agora parecem nos desprezar.[n][w][e]
 
 [sel SEL_005_0_0 top]
 [s][f 5 14]Calma gente.[e]

@@ -313,7 +313,7 @@
 [s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 1 53141 65535 0]Diz na cápsula que é[n][clr 2]comum[clr 27]. Bem, ela é bem chata...[n][w][e]
 
 [msg MSG_CAPSULE_End1st [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0]*suspiro* Não entendo. Por que as pessoas querem[n]essas coisas?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0]*suspiro* Não entendi. Por que as pessoas querem[n]essas coisas?[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 53101 65535 0]Estamos em Akihabara, certo?[n]Talvez aqui encontremos alguém[n]que queira esses Gacha.[n][w][e]
 
 [msg MSG_DEADEND_MORU [Morgana]]

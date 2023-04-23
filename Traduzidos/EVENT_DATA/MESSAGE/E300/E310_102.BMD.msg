@@ -1019,7 +1019,7 @@
 [s][vp 8 0 0 0 65535 0]Mmm, acho que minha mãe[n]ficaria furiosa,[n]se eu me despisse para você...[n][f 1 3 65535][w][e]
 
 [msg MSG_309_0_0 [Menina encantadora em traje]]
-[s][vp 8 0 0 0 65535 0]Gosta?!? Nu?!?[n]Não, não está feito! Na verdade,[n]devemos denunciá-lo à polícia![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Quê?!? Nu?!?[n]Não, não está feito! Na verdade,[n]devemos denunciá-lo à polícia![n][f 1 3 65535][w][e]
 
 [msg MSG_310_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ele simplesmente não consegue evitar...[n]De jeito nenhum,[n]ele está mal...[n][f 1 3 65535][w][e]

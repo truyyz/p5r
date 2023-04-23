@@ -100,7 +100,7 @@
 [s][bup 0 2 103 65535 0][f 4 10 65535 0 0][vp 8 0 0 41 65535 0]Nós... os mandamos de volta para cá?[n][f 1 3 65535][w][e]
 
 [msg MSG_029_0_0 [Yusuke]]
-[s][bup 0 5 103 65535 0][f 4 10 65535 0 0][vp 8 0 0 42 65535 0]Não entendo...[n][f 1 3 65535][w][e]
+[s][bup 0 5 103 65535 0][f 4 10 65535 0 0][vp 8 0 0 42 65535 0]Não entendi...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 43 65535 0]O que realmente fizemos[n]usando o mundo cognitivo?[n][f 1 3 65535][w][e]
 
 [sel SEL_030_0_0 top]

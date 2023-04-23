@@ -37,7 +37,7 @@
 [s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Oh, perdoe-me... meu pai[n]está me ligando.[n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Kasumi]]
-[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Preparar? Papa? ...Como você disse?[n]Desculpe, meu telefone[n]continua apresentando problemas.[n][f 1 3 65535][w][e]
+[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Olá? Papa? ...Como você disse?[n]Desculpe, meu telefone[n]continua apresentando problemas.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Eu estou bem, obrigado. Mm-hm.[n]Até logo.[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Kasumi]]

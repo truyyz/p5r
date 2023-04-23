@@ -29,7 +29,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Vamos em grande,[n]não?[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Ann]]
-[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Verdadeiro.[n][f 1 3 65535][w][e]
+[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Verdade.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Os rankings do Phan-Site[n]também estão enlouquecendo.[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Futaba]]

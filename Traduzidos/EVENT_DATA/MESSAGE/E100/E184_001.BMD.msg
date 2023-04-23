@@ -95,7 +95,7 @@
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 39 65535 0]Subterrâneo...? E como[n]chegamos lá?[n][f 1 3 65535][w][e]
 
 [msg MSG_032_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 40 65535 0]Gosta? Você usa todos os dias para[n]ir para a escola.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 40 65535 0]Quê? Você usa todos os dias para[n]ir para a escola.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 41 65535 0]Siga-me![n][f 1 3 65535][w][e]
 
 [msg MSG_033_0_0 [Ryuji]]

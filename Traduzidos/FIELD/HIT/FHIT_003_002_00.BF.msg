@@ -1704,7 +1704,7 @@
 [s][bup 0 109 601 65535 1][f 4 10 65535 0 0][vp 8 2 1 15002 65535 0]Esta é Becky, empregada da tempestade.[n]O tipo de trabalho que fazemos[n]depende de como... Oh, é você.[n][w][e]
 
 [msg MSG_C14_BEGIN_WEATHER_05_2 [Kawakami]]
-[s][bup 0 109 1 65535 1][f 4 10 65535 0 0][vp 8 2 1 15004 65535 0]Preparar? Oh, [f 4 1]-kun.[n]Como você está? Tá chovendo gato e cachorro,[n]tenta não passar mal, tá?[n][w][e]
+[s][bup 0 109 1 65535 1][f 4 10 65535 0 0][vp 8 2 1 15004 65535 0]Olá? Oh, [f 4 1]-kun.[n]Como você está? Tá chovendo gato e cachorro,[n]tenta não passar mal, tá?[n][w][e]
 
 [msg MSG_C14_BEGIN_WEATHER_06 [Kawakami]]
 [s][bup 0 109 601 65535 1][f 4 10 65535 0 0][vp 8 2 1 15002 65535 0]Fala Beckyyy. Mesmo nas noites mais quentes, eu[n]te ajudo a desestressar... Ah, é você.[n][w][e]
@@ -1809,7 +1809,7 @@
 [s][bup 0 109 600 65535 1][f 4 10 65535 0 0]O gerente está feliz, mas[n]isso me deixa um pouco estranho...[n][w][e]
 
 [msg MSG_C14_BEGIN_TIME_09_01 [Kawakami]]
-[s][bup 0 109 1 65535 1][f 4 10 65535 0 0][vp 8 2 1 15004 65535 0]Preparar? [f 4 1]-kun?[n][w][e]
+[s][bup 0 109 1 65535 1][f 4 10 65535 0 0][vp 8 2 1 15004 65535 0]Olá? [f 4 1]-kun?[n][w][e]
 [s][bup 0 109 0 65535 1][f 4 10 65535 0 0]Você não acha que de repente todo mundo ficou[n]mais feliz? Mesmo na escola. Isso me irrita...[n][w][e]
 [s]Mas quando eu pergunto, eles respondem[n]que tudo está como antes. Estou[n]talvez imaginando coisas?[n][w][e]
 
@@ -1909,7 +1909,7 @@
 
 [msg MSG_C14_CORP_03_00 [Kawakami]]
 [s][bup 0 109 601 65535 1][f 4 10 65535 0 0]Fornecerei meus serviços por[n]5.000 ienes, com inscrição incluída![n][w][e]
-[s][f 4 10 65535 0 0]Então você vai perguntar sobre mim hoje, certo?[n]Verdadeiro...?[n][w][e]
+[s][f 4 10 65535 0 0]Então você vai perguntar sobre mim hoje, certo?[n]Verdade...?[n][w][e]
 
 [msg MSG_C14_CORP_04_00 [Kawakami]]
 [s][bup 0 109 602 65535 1][f 4 10 65535 0 0]Você entende o que eu disse da última vez, certo?[n]E você ainda quer meus serviços?[n][w][e]
@@ -2133,7 +2133,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 15127 65535 0]Espero que você comece a levar[n]as lições mais a sério[n]a partir de agora.[n][w][e]
 
 [msg MSG_C14_COOP_CANCEL_06 [Enfermeira]]
-[s]Gosta? Achei que fosse[n]um parente dele. Desculpe o mal-entendido.[n][w][e]
+[s]Quê? Achei que fosse[n]um parente dele. Desculpe o mal-entendido.[n][w][e]
 
 [msg MSG_C14_COOP_CANCEL_09 [Kawakami]]
 [s][bup 0 109 0 65535 1][f 4 10 65535 0 0][vp 8 2 1 15054 65535 0]Certifique-se de se comprometer a estudar em casa.[n][w][e]

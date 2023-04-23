@@ -119,7 +119,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 44 65535 0]Você sabe como é, vou ter que me despir[n]tudo.[n][f 1 3 65535][w][e]
 
 [msg MSG_043_0_0 [Yusuke]]
-[s][bup 0 5 0 2 0][f 4 10 65535 0 0][vp 8 0 0 45 65535 0]Verdadeiro...[n][f 1 3 65535][w][e]
+[s][bup 0 5 0 2 0][f 4 10 65535 0 0][vp 8 0 0 45 65535 0]Verdade...[n][f 1 3 65535][w][e]
 
 [msg MSG_045_0_0 [Yusuke]]
 [s][bup 0 5 3 2 0][f 4 10 65535 0 0][vp 8 0 0 46 65535 0]Eu poderia criar um trabalho melhor[n]se eu pudesse animar o humor da minha modelo[n]...[n][f 1 3 65535][w][e]

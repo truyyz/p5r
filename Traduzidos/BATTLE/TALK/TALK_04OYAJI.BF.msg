@@ -788,7 +788,7 @@
 [s]Sim? Eles são bem fofinhos[n]e, graças às fraldas, não[n]mexem.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_06_R_10]
-[s]Verdadeiro. Apenas chore e todos[n]farão tudo por você.[n][w][e]
+[s]Verdade. Apenas chore e todos[n]farão tudo por você.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_06_R_11]
 [s]E por que nunca? Você quer ser alimentado[n]com uma colher e ter alguém[n]limpe sua bunda? É assim mesmo?[n][w][e]

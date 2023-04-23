@@ -342,7 +342,7 @@
 [s]Você está triste?[e]
 
 [msg MSG_SOFA_0905_01 [Morgana]]
-[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 1 1037 65535 0]Nao e nada.[n][w][e]
+[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 1 1037 65535 0]Não é nada.[n][w][e]
 
 [msg MSG_SOFA_0906 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1156 65535 0]Vá para a cama, então você[n]culpa comigo se você acordar tarde.[n][w][e]

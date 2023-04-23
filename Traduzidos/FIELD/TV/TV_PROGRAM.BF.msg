@@ -93,7 +93,7 @@
 [s]Os cidadãos pedem clareza,[n]enquanto o gabinete do ministro[n]luta para dar respostas.[n][w][e]
 
 [msg TV_NEWS_0417_100_00 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1019 65535 0][f 4 25 1 65535 0 0]Não entendo. Por que[n]ignorar propositalmente[n]algo assim?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1019 65535 0][f 4 25 1 65535 0 0]Não entendi. Por que[n]ignorar propositalmente[n]algo assim?[n][w][e]
 
 [msg TV_NEWS_0418_000_00 [Locutor]]
 [s]E agora, a política.[n][w][e]

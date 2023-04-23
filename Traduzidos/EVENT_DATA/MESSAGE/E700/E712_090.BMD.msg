@@ -27,7 +27,7 @@
 [s][f 4 10 65535 0 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 104 7 300 65535][vp 8 0 0 0 65535 0]Talvez seja isso que ele quis dizer quando[n]ele falou sobre a mudança dos tempos.[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Iwai]]
-[s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Preparar? Ah é você. Se você quiser[n]falar sobre Tsuda...[n][f 1 3 65535][w][e]
+[s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Olá? Ah é você. Se você quiser[n]falar sobre Tsuda...[n][f 1 3 65535][w][e]
 [s][f 4 7 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 104 7 300 1][f 4 24 0 4 0 39 5 100][vp 8 2 0 13046 65535 0]Espera, o quê?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Iwai]]

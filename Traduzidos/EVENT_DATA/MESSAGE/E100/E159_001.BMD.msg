@@ -134,7 +134,7 @@
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 117 65535 0]Sabe, seria melhor se esse[n]grupo se reunisse frequentemente[n]de agora em diante...[n][f 1 3 65535][w][e]
 
 [msg MSG_034_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 111 65535 0]Verdadeiro. A melhor solução seria ter um ponto[n]de encontro secreto onde possamos discutir todas[n]essas coisas.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 111 65535 0]Verdade. A melhor solução seria ter um ponto[n]de encontro secreto onde possamos discutir todas[n]essas coisas.[n][f 1 3 65535][w][e]
 
 [msg MSG_035_0_0 [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 120 65535 0]Um ponto de encontro, hein...?[n]A ideia me agrada.[n][f 1 3 65535][w][e]

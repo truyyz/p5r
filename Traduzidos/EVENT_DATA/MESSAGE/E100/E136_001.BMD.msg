@@ -45,7 +45,7 @@
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Mas acima de tudo, como é[n]a perna? Parece bem inchado.[n][f 1 3 65535][w][e]
 
 [msg MSG_011_5_0 [Shiho]]
-[s][bup 0 212 3 0 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Nao e nada. É normal...[n]Principalmente antes de uma[n]reunião...[n][f 1 3 65535][w][e]
+[s][bup 0 212 3 0 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Não é nada. É normal...[n]Principalmente antes de uma[n]reunião...[n][f 1 3 65535][w][e]
 
 [msg MSG_011_7_0 [Ann]]
 [s][bup 0 4 0 65535 0][vp 1 0 0 33 0 0]......[n][f 1 3 65535][w][e]

@@ -8,7 +8,7 @@
 [s][f 5 14]Sim, antes ninguém ousava[n]falar sobre ele livremente.[n][w][e]
 
 [sel SEL_003_0_0 top]
-[s][f 5 14]Verdadeiro.[e]
+[s][f 5 14]Verdade.[e]
 [s]Você está imaginando isso.[e]
 
 [msg MSG_004_0_0 [Ryuji]]

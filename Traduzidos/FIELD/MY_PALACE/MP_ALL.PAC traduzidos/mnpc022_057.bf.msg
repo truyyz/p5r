@@ -61,7 +61,7 @@
 
 [msg MES_GROUP3_06 [Kawakami]]
 [s][bup 0 109 4 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 30 10 0 10]N-N-NEME MENTE![n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ahem... se você estiver confuso sobre tudo[n]isso, vou revisá-lo de cima! Preparar?[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ahem... se você estiver confuso sobre tudo[n]isso, vou revisá-lo de cima! Olá?[n][w][e]
 
 [msg MES_GROUP3_07 [Ryuji]]
 [s][bup 0 2 3 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 7022 65535 0]Uh, claro...[n][w][e]

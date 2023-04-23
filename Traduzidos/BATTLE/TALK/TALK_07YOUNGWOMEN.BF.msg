@@ -845,7 +845,7 @@
 [s]Não estou interessado em ganhar,[n]mas encurte...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_07_R_10]
-[s]Verdadeiro. Acho que não importa quem ganha ou[n]perde...[n][w][e]
+[s]Verdade. Acho que não importa quem ganha ou[n]perde...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_07_R_11]
 [s]Isso deveria ser algum tipo de troféu de[n]participação no ensino fundamental?[n][w][e]
@@ -884,7 +884,7 @@
 [s]Ei, você realmente fala sobre seus amigos assim?[n]Uau, quando você diz coração de pedra...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_08_R_4]
-[s]Verdadeiro. É chato ter que[n]sair de casa e[n]ir comer sozinha.[n][w][e]
+[s]Verdade. É chato ter que[n]sair de casa e[n]ir comer sozinha.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_08_R_5]
 [s]Sério?[n]As pessoas são capazes de apreciá-lo[n]mesmo que você se comporte tão mal?[n][w][e]
@@ -2117,7 +2117,7 @@
 [s]Você deve estar na lua[n]sobre o que eu te dei![n][w][e]
 
 [msg TalkMsg_GUY_NEGO_DOUBLEU]
-[s]Gosta? Quer mais?[n]Tudo bem, mas é a última vez.[n][w][e]
+[s]Quê? Quer mais?[n]Tudo bem, mas é a última vez.[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_DOUBLEU_2]
 [s]Ugh, não sobrou quase nada[n]para mim... Mas no fundo isso não importa.[n]Você é feliz assim, não é?[n][w][e]

@@ -41,7 +41,7 @@
 [s][f 5 14]Também não sabemos muito[n]sobre nossas Naves do Metaverso.[n][w][e]
 
 [msg MSG_015_0_0 [Makoto]]
-[s][f 5 14]Verdadeiro.[n][w][e]
+[s][f 5 14]Verdade.[n][w][e]
 
 [msg MSG_016_0_0 [Ryuji]]
 [s][f 5 14]Quem sabe por que essa coisa existe...[n][w][e]

@@ -16,7 +16,7 @@
 [s][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Hum... Bem, é bom ouvir[n]sua opinião honesta.[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Ohya]]
-[s][bup 0 107 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Verdadeiro...? Embora eu não tenha[n]prova, é claro.[n][f 1 3 65535][w][e]
+[s][bup 0 107 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Verdade...? Embora eu não tenha[n]prova, é claro.[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Ohya]]
 [s][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 16 5 1007]Haha, você está certo. Minha[n]teoria é bastante instável.[n][f 1 3 65535][w][e]
@@ -96,7 +96,7 @@
 [s][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você é um esquisito de qualquer maneira, para[n]vir aqui para Shinjuku a esta hora ...[n][f 1 3 65535][w][e]
 
 [msg MSG_025_0_0 [Ohya]]
-[s][bup 0 107 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Preparar? Mm-hm... Espera, o quê?!?[n][f 1 3 65535][w][e]
+[s][bup 0 107 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Olá? Mm-hm... Espera, o quê?!?[n][f 1 3 65535][w][e]
 [s][bup 0 107 0 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 41 5 100][f 4 24 0 4 0 5 5 100][vp 8 0 0 0 65535 0]Eu posso falar com ele? Sério?[n]Ok, já vou.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Trabalhar? Não, já desconectei.[n][f 1 3 65535][w][e]
 

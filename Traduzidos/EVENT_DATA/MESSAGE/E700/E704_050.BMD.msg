@@ -86,7 +86,7 @@
 
 [msg MSG_020_0_0 [Yusuke]]
 [s][bup 0 5 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 4135 65535 0]Ressurreição? Perdão?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não entendo... São noções[n]completamente contrastantes com[n]minha ideia de sofrimento...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não entendi... São noções[n]completamente contrastantes com[n]minha ideia de sofrimento...[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Padre quieto]]
 [s][vp 8 0 0 0 5 0]Entendo que não é fácil[n]entender, mas...[n][f 1 3 65535][w][e]

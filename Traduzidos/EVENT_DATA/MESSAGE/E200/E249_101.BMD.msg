@@ -5,7 +5,7 @@
 [s][bup 0 2 5 65535 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Jamais o encontraremos![n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Makoto]]
-[s][bup 0 6 2 65535 1][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Preparar? Sou eu... Makoto Niijima.[n][f 1 3 65535][w][e]
+[s][bup 0 6 2 65535 1][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Olá? Sou eu... Makoto Niijima.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]Espere na linha e ouça.[n]E certifique-se de gravar[n]a chamada.[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Ann]]

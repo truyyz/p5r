@@ -729,7 +729,7 @@
 [s][vp 8 2 1 0 37 0]O que você acha dos[n]incidentes recentes com[n]explicação aparente?[n][w][e]
 
 [sel SEL_TEREBIKAMERA_002_0_0 top]
-[s]Não entendo.[e]
+[s]Não entendi.[e]
 [s]Eu estou aterrorizado.[e]
 [s]Eles me interessam.[e]
 

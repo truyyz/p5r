@@ -354,7 +354,7 @@
 [s][vp 8 0 2 1040 1 218]Eu sou sua mãe! O único que você[n]tem, neste mundo horrível![n][f 1 3 65535][w][e]
 
 [sel SEL_BTL_EXQ02_001_001 top]
-[s]Verdadeiro...[e]
+[s]Verdade...[e]
 [s]Isso não é verdade.[e]
 
 [msg MSG_BTL_EXQ02_002_001 [Wakaba Isshiki cognitivo]]

@@ -53,7 +53,7 @@
 [s][bup 0 101 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sempre pensei que fosse seu...[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Caroline]]
-[s][bup 0 102 4 0 0][f 4 10 65535 0 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 102 15 301 65535][vp 8 2 0 11036 65535 0]Gosta?!? Não sei nada[n]sobre isso.[n][f 1 3 65535][w][e]
+[s][bup 0 102 4 0 0][f 4 10 65535 0 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 102 15 301 65535][vp 8 2 0 11036 65535 0]Quê?!? Não sei nada[n]sobre isso.[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Justine]]
 [s][bup 0 101 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Agora que penso nisso,[n]a lista é muito precisa[n]para ser obra sua.[n][f 1 3 65535][w][e]

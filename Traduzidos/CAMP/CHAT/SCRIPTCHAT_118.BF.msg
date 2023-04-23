@@ -17,7 +17,7 @@
 [s][f 5 14]Supondo que tenhamos sucesso,[n]no entanto.[n][w][e]
 
 [msg MSG_006_0_0 [Yusuke]]
-[s][f 5 14]Verdadeiro. Não havia maneira melhor[n]de agir.[n][w][e]
+[s][f 5 14]Verdade. Não havia maneira melhor[n]de agir.[n][w][e]
 
 [msg MSG_007_0_0 [Yusuke]]
 [s][f 5 14]Mas a situação atual[n]ainda é preocupante...[n][w][e]

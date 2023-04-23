@@ -124,7 +124,7 @@
 
 [sel SEL_JYORENKYAKU_004_0_0 top]
 [s]Ele está fazendo filmes.[e]
-[s]Não entendo.[e]
+[s]Não entendi.[e]
 [s]Claro, claro.[e]
 
 [msg MSG_JYORENKYAKU_004_1_0 [Cliente arrogante]]

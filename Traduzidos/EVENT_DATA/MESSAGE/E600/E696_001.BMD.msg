@@ -256,7 +256,7 @@
 [s][vp 8 2 65535 6197 0 0]......[n][f 1 3 65535][w][e]
 
 [sel SEL_062_0_0 top]
-[s]Você é alérgico?[e]
+[s]Está com alergia?[e]
 [s]E aí?[e]
 
 [msg MSG_063_0_0 [Ann]]
@@ -1513,7 +1513,7 @@
 [s]Eu poderia dizer a mesma coisa.[e]
 
 [msg MSG_363_0_0 [Yusuke]]
-[s][bup 0 5 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 89 65535 0]Não entendo...[n][f 1 3 65535][w][e]
+[s][bup 0 5 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 89 65535 0]Não entendi...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 90 65535 0][f 4 10 65535 0 0]No entanto, saiba que chamarei a polícia se você[n]tentar algo estranho. Não esqueça.[n][f 1 3 65535][w][e]
 
 [msg MSG_364_0_0 [Yusuke]]

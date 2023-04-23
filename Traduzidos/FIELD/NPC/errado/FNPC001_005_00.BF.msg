@@ -895,7 +895,7 @@
 [s][vp 8 2 1 0 6 0]Ele sabe, tenho certeza...[n]É por isso que ele não quer[n]casar comigo...[n][w][e]
 
 [msg MSG_HAGEOTOKO_014_0_0 [Homem alto]]
-[s][vp 8 2 1 0 6 0]...Preparar? Sou eu. Você viu a conferência de[n]imprensa do Sr. Okumura?[n][w][e]
+[s][vp 8 2 1 0 6 0]...Olá? Sou eu. Você viu a conferência de[n]imprensa do Sr. Okumura?[n][w][e]
 [s][vp 8 2 1 0 6 0]Esse é o fim dos[n]liars... Mais cedo ou mais tarde[n]isso vai acontecer comigo também...[n][w][e]
 [s][vp 8 2 1 0 6 0]Tá dizendo que estou exagerando...?[n]Sem ela não tenho mais nada![n][w][e]
 [s][vp 8 2 1 0 6 0]Se você é meu melhor amigo,[n]me ajude! Como eu[n]tenho cabelo solto?!?[n][w][e]

@@ -50,7 +50,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1170 65535 0]Ele não é a pessoa que estamos procurando. Vamos[n]verificar em outro lugar.[n][w][e]
 
 [msg MSG_E24330100_TELLADY_00 [Mulher ao telefone]]
-[s][vp 8 2 1 0 852 0]Preparar? Cheguei em Shibuya[n]sem problemas...[n][w][e]
+[s][vp 8 2 1 0 852 0]Olá? Cheguei em Shibuya[n]sem problemas...[n][w][e]
 [s][vp 8 2 1 0 852 0]Mas havia um sem-teto[n]em nosso ponto de encontro.[n]Eu tive que fugir.[n][w][e]
 [s][vp 8 2 1 0 852 0]Sim, uma vez ele desceu as escadas[n]após as catracas do JL... Estou[n]na praça agora. Eu estava com medo...[n][w][e]
 [s][vp 8 2 1 0 852 0]Ele estava sentado perto da parede...[n]S-sim, hmm...[n][w][e]

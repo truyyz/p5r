@@ -61,7 +61,7 @@
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Se o oponente acredita que é verdadeiro, então é.[n]É bom que seja tão realista.[n][w][e]
 
 [msg D01_02_e129_062_mes03 [Ryuji]]
-[s][bup 0 2 5 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]...Não entendo.[n][w][e]
+[s][bup 0 2 5 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]...Não entendi.[n][w][e]
 
 [msg D01_02_e129_062_mes04 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1150 65535 0]Como ele acha que é uma arma[n]real, a reserva de balas em[n]batalha é limitada.[n][w][e]

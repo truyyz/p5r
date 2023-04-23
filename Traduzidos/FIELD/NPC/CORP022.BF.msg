@@ -69,7 +69,7 @@
 [s][bup 0 10 0 65535 0][f 4 10 65535 0 0][f 4 23 1 222 3 10 0 10][vp 8 2 1 0 65535 0]Então temos que nos encontrar no[n]Leblanc, certo? Vamos.[n][w][e]
 
 [msg MSG_C22_ACTION_D09_31_00 [Sumire]]
-[s][bup 0 10 3 65535 0][f 4 10 65535 0 0][f 4 23 1 222 3 10 0 10][vp 8 2 1 57055 65535 0]Verdadeiro. Ainda falta muito[n]até o deadline.[n][w][e]
+[s][bup 0 10 3 65535 0][f 4 10 65535 0 0][f 4 23 1 222 3 10 0 10][vp 8 2 1 57055 65535 0]Verdade. Ainda falta muito[n]até o deadline.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ainda não encontramos[n]o Tesouro, então seria melhor[n]infiltrar o Palácio.[n][w][e]
 [s][bup 0 10 2 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu sei que você provavelmente fez[n]agendamento, mas pelo menos pense nisso.[n][w][e]
 
@@ -367,7 +367,7 @@
 
 [msg MSG_C22_YES_03_04 [Kasumi]]
 [s][bup 0 10 1 65535 0][f 4 10 65535 0 0][f 4 23 1 222 3 10 0 10][vp 8 2 1 0 65535 0]Seria melhor ir agora.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 57069 65535 0]O objeto em questão está aqui em[n]Kichijoji. Preparar?[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 57069 65535 0]O objeto em questão está aqui em[n]Kichijoji. Olá?[n][w][e]
 
 [msg MSG_C22_YES_04_00 [Kasumi]]
 [s][bup 0 10 1 65535 0][f 4 10 65535 0 0][f 4 23 1 222 3 10 0 10][vp 8 2 1 0 65535 0]Oh sempai! Você está REALMENTE pronto![n][w][e]

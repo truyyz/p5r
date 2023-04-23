@@ -4,7 +4,7 @@
 
 [sel SEL_001_0_0 top]
 [s]O que você quer dizer?[e]
-[s]Não entendo.[e]
+[s]Não entendi.[e]
 
 [msg MSG_002_0_0 [Hifumi]]
 [s][bup 0 106 5 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]É a sua "estratégia"...[n][f 1 3 65535][w][e]

@@ -51,7 +51,7 @@
 [s]Eu sei isso. Anteriormente, recebi ordem para[n]alterar a senha aqui também...[n][w][e]
 
 [msg mini_EV_e210_144_mes03 [Guarda das Sombras em perseguição]]
-[s]Gosta? Deve ser difícil, eu acho.[n][w][e]
+[s]Quê? Deve ser difícil, eu acho.[n][w][e]
 
 [msg mini_EV_e210_144_mes04 [Guarda das Sombras no comando]]
 [s]Bem, não consegui encontrar um bom...[n][w][e]

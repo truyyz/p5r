@@ -13,7 +13,7 @@
 
 [sel SEL_004_0_0 top]
 [s]Qual reabilitação?[e]
-[s]Não entendo.[e]
+[s]Não entendi.[e]
 
 [msg MSG_005_0_0 [Igor]]
 [s][bup 0 201 0 0 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Agora vou explicar tudo...[n][f 1 3 65535][w][e]

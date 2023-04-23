@@ -212,7 +212,7 @@
 [s]Uh-oh... Você também não sabe, hein?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_04_R_8]
-[s]Não entendo. Por que os amassos são uma coisa tão[n]secreta...?[n][w][e]
+[s]Não entendi. Por que os amassos são uma coisa tão[n]secreta...?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_04_R_9]
 [s]Oh sim. Às vezes minha mãe[n]e meu pai se beijam.[n]Talvez... Talvez eles realmente saibam.[n][w][e]
@@ -1130,7 +1130,7 @@
 [s]Hahaha, você deve ter sido um cara muito[n]preguiçoso![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_12_R_10]
-[s]Gosta? Sério? Você acha[n]que ser criança é melhor[n]que ser adulto?[n][w][e]
+[s]Quê? Sério? Você acha[n]que ser criança é melhor[n]que ser adulto?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_12_R_11]
 [s]Hã? Parece muito, muito estranho para mim.[n][w][e]

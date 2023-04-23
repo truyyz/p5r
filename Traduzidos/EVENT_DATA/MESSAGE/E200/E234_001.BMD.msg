@@ -41,7 +41,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Ultimamente,[n]as reações das pessoas me fazem[n]questionar o que fazemos...[n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Yusuke]]
-[s][bup 0 5 703 65535 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]...Verdadeiro. Buscar apenas[n]benefícios de curto prazo[n]pode ser um esforço desperdiçado.[n][f 1 3 65535][w][e]
+[s][bup 0 5 703 65535 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]...Verdade. Buscar apenas[n]benefícios de curto prazo[n]pode ser um esforço desperdiçado.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Precisamos de uma estratégia[n]que vise atrair o público.[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Ryuji]]

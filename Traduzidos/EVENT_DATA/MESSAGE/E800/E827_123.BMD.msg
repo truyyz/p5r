@@ -13,7 +13,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Quantidade limitada, hein...?[n]Melhor se apressar[n]comprar.[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Iwai]]
-[s][bup 0 104 2 0 0][f 4 10 65535 0 0][vp 8 2 0 13037 65535 0][f 5 13 13 10 1004]Gosta?!? Esses custam[n]5.000 ienes a mais, rapaz![n][f 1 3 65535][w][e]
+[s][bup 0 104 2 0 0][f 4 10 65535 0 0][vp 8 2 0 13037 65535 0][f 5 13 13 10 1004]Quê?!? Esses custam[n]5.000 ienes a mais, rapaz![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ufa, eu sempre tenho que[n]olho em você![n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Iwai]]

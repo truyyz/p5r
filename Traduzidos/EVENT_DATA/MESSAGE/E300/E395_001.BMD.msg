@@ -121,7 +121,7 @@
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 48 65535 0]A propósito, nem você nem os outros[n]investigadores teriam acreditado[n]tal coisa, certo?[n][f 1 3 65535][w][e]
 
 [msg MSG_041_0_0 [Sae]]
-[s][bup 0 105 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 70 65535 0]...Verdadeiro.[n][f 1 3 65535][w][e]
+[s][bup 0 105 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 70 65535 0]...Verdade.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 71 65535 0]Akechi é creditado com a prisão dos Phantom[n]Thieves. Eu também não pensaria que ele é um[n]criminoso...[n][f 1 3 65535][w][e]
 
 [msg MSG_041_5_0 [Sae]]

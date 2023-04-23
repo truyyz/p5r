@@ -59,10 +59,10 @@
 
 [msg MSG_016_0_0 [Empregado vestido]]
 [s][vp 8 2 0 37651 15 0]Ei, o que são esses óculos?[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]Você tem que ir[n]snowboard?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Você vai andar de[n]snowboard?[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Escriturário de óculos]]
-[s][vp 8 0 0 0 65535 0]Eles dizem que os cedros vão florescer[n]mais tarde do que o normal...[n]Você sabe, por causa da mudança climática.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Dizem que os cedros vão florescer[n]mais tarde do que o normal...[n]Você sabe, por causa da mudança climática.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Argh... Alergia ao pólen[n]é realmente nojenta...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Eu não poderia ir para as montanhas[n]mesmo que quisesse.[n]Eu continuo chorando...[n][f 1 3 65535][w][e]
 

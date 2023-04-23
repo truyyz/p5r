@@ -33,7 +33,7 @@
 [s]Vamos acordar seu coração.[e]
 
 [msg MSG_011_0_0 [Ryuji]]
-[s][f 5 14]Verdadeiro.[n][w][e]
+[s][f 5 14]Verdade.[n][w][e]
 
 [msg MSG_012_0_0 [Ryuji]]
 [s][f 5 14][f 5 15]Também temos que fazê-lo pagar[n]pela forma como tratou [f 4 2].[n][w][e]

@@ -15,7 +15,7 @@
 
 [msg MSG_1stInfo_Aojiru_02 [Vendedora de quiosque de bebidas]]
 [s][f 4 23 1 2 3 5 65534 0][vp 8 2 1 0 2 0]Bem-vindo! Temos suco fresco![n][w][e]
-[s][vp 8 2 1 0 2 0]Gosta? Bebidas especiais?[n]Sim, temos hoje![n][w][e]
+[s][vp 8 2 1 0 2 0]Quê? Bebidas especiais?[n]Sim, temos hoje![n][w][e]
 
 [msg MSG_1stInfo_Aojiru_03 [Morgana]]
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0]Oooh, quem sabe o que são.[n][w][e]

@@ -2000,7 +2000,7 @@
 [s][vp 1 0 0 3145 0 0]Poder! O Tesouro espera por nós![n][f 1 6 65535][e]
 
 [msg SAFE_EXIT_A_PC03_mes03]
-[s][vp 1 0 0 3146 0 0]Preparar? Vamos, Joker![n][f 1 6 65535][e]
+[s][vp 1 0 0 3146 0 0]Olá? Vamos, Joker![n][f 1 6 65535][e]
 
 [msg SAFE_EXIT_B_PC03_mes01]
 [s][vp 1 0 0 3147 0 0]Lembrar. Sempre podemos voltar[n]voltar, se necessário.[n][f 1 6 65535][e]
@@ -8234,7 +8234,7 @@
 [s][vp 1 0 0 3638 0 0]Apertem os cintos[n]e segurem firme![n][f 1 6 65535][e]
 
 [msg D_CAR__PC03_mes639]
-[s][vp 1 0 0 3639 0 0]Verdadeiro. As mulheres me amam! Eles podem[n]mimar-me... e pegar uma carona![n][f 1 6 65535][e]
+[s][vp 1 0 0 3639 0 0]Verdade. As mulheres me amam! Eles podem[n]mimar-me... e pegar uma carona![n][f 1 6 65535][e]
 
 [msg D_CAR__PC03_mes640]
 [s][vp 1 0 0 3640 0 0]Uuuh, sushi? Ótima ideia... Oh...[n]Ops, eu não deveria estar babando assim...[n][f 1 6 65535][e]
@@ -8987,7 +8987,7 @@
 [s][vp 1 0 0 5573 0 0]Aquele barulho...[n]era sua barriga...?[n][f 1 6 65535][e]
 
 [msg D_CAR__PC05_mes574]
-[s][vp 1 0 0 5574 0 0]Não entendo. Água da torneira[n]alivia a garganta[n]e o estômago...[n][f 1 6 65535][e]
+[s][vp 1 0 0 5574 0 0]Não entendi. Água da torneira[n]alivia a garganta[n]e o estômago...[n][f 1 6 65535][e]
 
 [msg D_CAR__PC05_mes575]
 [s][vp 1 0 0 5575 0 0]Parece algo revigorante.[n]Posso participar?[n][f 1 6 65535][e]
@@ -9554,7 +9554,7 @@
 [s][vp 1 0 0 6573 0 0]Se você se sujar,[n]eu cuido de lavar você.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC06_mes574]
-[s][vp 1 0 0 6574 0 0]Verdadeiro. Você é provavelmente o membro mais[n]adorável da equipe.[n][f 1 6 65535][e]
+[s][vp 1 0 0 6574 0 0]Verdade. Você é provavelmente o membro mais[n]adorável da equipe.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC06_mes575]
 [s][vp 1 0 0 6575 0 0]Não entendo de carros,[n]mas todo esse espaço deve ser[n]ótimo para fazer compras.[n][f 1 6 65535][e]
@@ -12011,7 +12011,7 @@
 [s][vp 1 0 0 13602 0 0]Pior: você é muito pesado![n]Por que você não se reveza[n]correndo ao meu lado?[n][f 1 6 65535][e]
 
 [msg D_CAR_PC03_mes10603]
-[s][vp 1 0 0 13603 0 0]Verdadeiro. Joker, peça a ela para mostrar a você[n]mostrar como se alongar![n][f 1 6 65535][e]
+[s][vp 1 0 0 13603 0 0]Verdade. Joker, peça a ela para mostrar a você[n]mostrar como se alongar![n][f 1 6 65535][e]
 
 [msg D_CAR_PC03_mes10604]
 [s][vp 1 0 0 13604 0 0]Ok! Joker, pise no pedal![n][f 1 6 65535][e]
@@ -12452,7 +12452,7 @@
 [s][vp 1 0 0 15516 0 0]Ouvi dizer que os chicotes requerem[n]grande habilidade. Onde você[n]aprendeu?[n][f 1 6 65535][e]
 
 [msg D_CAR_PC05_mes10517]
-[s][vp 1 0 0 15517 0 0]Por que meu vestido tem cauda? Não entendo...[n][f 1 6 65535][e]
+[s][vp 1 0 0 15517 0 0]Por que meu vestido tem cauda? Não entendi...[n][f 1 6 65535][e]
 
 [msg D_CAR_PC05_mes10518]
 [s][vp 1 0 0 15518 0 0]Mona, o que exatamente você carrega[n]em suas mochilas?[n][f 1 6 65535][e]
@@ -13199,7 +13199,7 @@
 [s][vp 1 0 0 17535 0 0]Muitas pessoas trocam de trem lá, mas[n]duvido que seja o[n]destino final para muitas pessoas.[n][f 1 6 65535][e]
 
 [msg D_CAR_PC07_mes10536]
-[s][vp 1 0 0 17536 0 0]Verdadeiro. Já me espanta[n]que ela consiga não bater em si mesma.[n][f 1 6 65535][e]
+[s][vp 1 0 0 17536 0 0]Verdade. Já me espanta[n]que ela consiga não bater em si mesma.[n][f 1 6 65535][e]
 
 [msg D_CAR_PC07_mes10537]
 [s][vp 1 0 0 17537 0 0]Será que o rabo atrapalha...[n][f 1 6 65535][e]
