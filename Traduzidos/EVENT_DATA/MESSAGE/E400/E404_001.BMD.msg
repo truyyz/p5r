@@ -47,7 +47,7 @@
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 7 7 300 1][vp 8 0 0 14 65535 0]Houve uma partida?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_025_0_0 [Ann]]
-[s][bup 0 4 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Coisa? O Palácio della Diet[n]é um navio?!?[n][f 1 3 65535][w][e]
+[s][bup 0 4 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Quê? O Palácio della Diet[n]é um navio?!?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Que tipo de cenário seria esse?!? O[n]prédio real fica no continente![n][f 1 3 65535][w][e]
 
 [msg MSG_026_0_0 [Makoto]]

@@ -15,7 +15,7 @@
 [s][bup 0 113 0 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 59 5 100][vp 8 0 0 0 65535 0]Aconselho você a pensar em[n]outra coisa. Sabe, eu posso colocar[n]uma maldição permanente em você...[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Chihaya]]
-[s][bup 0 113 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 10026 65535 0]Coisa? Você tem que ser um idealista,[n]se você acha que pode funcionar...[n][f 1 3 65535][w][e]
+[s][bup 0 113 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 10026 65535 0]Quê? Você tem que ser um idealista,[n]se você acha que pode funcionar...[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Chihaya]]
 [s][bup 0 113 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]A propósito, o que você diria[n]para incentivá-la?[n][f 1 3 65535][w][e]

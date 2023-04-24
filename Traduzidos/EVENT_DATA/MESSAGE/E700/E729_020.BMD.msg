@@ -37,7 +37,7 @@
 [s][bup 0 102 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você não se distraiu enquanto[n]assistíamos ao filme, não é?[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Caroline]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 102 7 300 1][vp 8 2 0 11096 65535 0]Coisa? Sério?[n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 102 7 300 1][vp 8 2 0 11096 65535 0]Quê? Sério?[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Justine]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 102 15 300 65535][bup 0 101 5 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]É patentemente falso. Não[n]se deixe enganar tão facilmente.[n][f 1 3 65535][w][e]

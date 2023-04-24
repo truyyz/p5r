@@ -161,7 +161,7 @@
 [s]O que é outra maneira de dizer que você[n]não pensou nisso, hein? É inútil[n]dar-lhe tantos ares. Não é legal.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_03_R_10]
-[s]Coisa? Isso é uma surpresa?[n]Ah, tudo bem, então[n]não vou estragar tudo.[n][w][e]
+[s]Quê? Isso é uma surpresa?[n]Ah, tudo bem, então[n]não vou estragar tudo.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_03_R_11]
 [s]Vá em frente, me diga sem ser idiota. Eu não vou[n]fazer nada, então chegue mais perto e me diga,[n]ok?[n][w][e]
@@ -200,7 +200,7 @@
 [s]Carne e batatas? A múmia sempre os fazia para[n]você? Espero que não seja um complexo de Édipo.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_04_R_4]
-[s]Coisa? Levaria muito tempo[n]e muito esforço. Não é um encontro nem nada.[n][w][e]
+[s]Quê? Levaria muito tempo[n]e muito esforço. Não é um encontro nem nada.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_04_R_5]
 [s]Você está dizendo que... você não comeria o que[n]eu cozinho...?[n][w][e]
@@ -497,7 +497,7 @@
 [s]Esqueça. Estou usando meu[n]melhor vestido e não pretendo[n]sujá-lo.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_01_R_8]
-[s]Coisa? Você acha que cabeças são para[n]enforcamento?[n][w][e]
+[s]Quê? Você acha que cabeças são para[n]enforcamento?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_01_R_9]
 [s]Hã? Nem tenho certeza do que você quer de mim?[n][w][e]
@@ -896,7 +896,7 @@
 [s]Tem certeza de que sabe o que isso significa?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_08_R_8]
-[s]Coisa? Como eu poderia perder para você no poder[n]feminino?[n][w][e]
+[s]Quê? Como eu poderia perder para você no poder[n]feminino?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_08_R_9]
 [s]Oh, pare de me provocar.[n]Não tenho tempo para adivinhar[n]a resposta.[n][w][e]
@@ -977,7 +977,7 @@
 [s]Este sou eu. Desculpe por desapontá-lo.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_09_R_16]
-[s]Coisa? Você não quer me ouvir[n]falar, hein?[n][w][e]
+[s]Quê? Você não quer me ouvir[n]falar, hein?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_10]
 [s]Eu sei que não é exatamente o momento ideal, mas[n]eu realmente acho que você é meu tipo.[n][w][e]
@@ -2276,10 +2276,10 @@
 [s]Outro inimigo entrou na conversa.[n][w][e]
 
 [msg TalkMsg_cnt_interruptP]
-[s]Dopo aver parlato con un bersaglio,[n]i compagni possono intervenire per[n]accelerare le cose (% di chance).[n][w][e]
+[s]Depois de falar com um alvo,[n]companheiros de equipe podem intervir para[n]acelerar as coisas (% de chance).[n][w][e]
 
 [msg TalkMsg_cnt_refuse]
-[s]Il bersaglio si rifiuta di parlare.[n]→Ciò accade se il risultato della[n]conversazione è un rifiuto.[n][w][e]
+[s]O alvo se recusa a falar.[n]→Isso acontece se o resultado da [n]conversa for uma rejeição.[n][w][e]
 
 [msg TalkMsg_cnt_anger]
 [s]O alvo fica com raiva e revida.[n]Falha se o resultado[n]da conversa for uma rejeição.[n][w][e]

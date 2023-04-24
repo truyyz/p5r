@@ -32,7 +32,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Obrigado e peço que[n]continue a me oferecer[n]novas experiências.[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Yusuke]]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]A propósito, aquele casal[n]ali está nos olhando[n]com olhos gelados.[n][f 1 3 65535][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]A propósito, aquele par[n]ali está nos olhando[n]com olhos gelados.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]É minha culpa? Ou talvez[n]ambos?[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Yusuke]]

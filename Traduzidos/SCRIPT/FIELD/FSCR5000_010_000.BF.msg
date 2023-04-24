@@ -116,7 +116,7 @@
 [s][bup 0 3 0 65535 0]O golpe é amanhã. Por hoje[n]vamos tentar não trabalhar.[n][w][e]
 
 [msg Dungeon_clear [Morgana]]
-[s][bup 0 3 0 65535 0]Já roubamos o[n]Treasure. No momento, não há[n]Palácios para entrar.[n][w][e]
+[s][bup 0 3 0 65535 0]Já roubamos o[n]Tesouro. No momento, não há[n]Palácios para entrar.[n][w][e]
 
 [msg D_STATUS_LV00_mes01]
 [s][bup 0 3 0 65535 0]Eheheh, não sinto nenhum[n]cuidado em nosso alvo.[n][w][e]

@@ -5,7 +5,7 @@
 [s][bup 0 9 810 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 54410 65535 0]Hisashi Morozumi... Anteriormente conhecido como[n]Hisashi Ushiwata.[n][w][e]
 
 [msg MSG_QST_079_03 [Hisashi Ushiwata]]
-[s][vp 8 2 1 46804 65535 0]Coisa? O que vocês querem, crianças?[n][w][e]
+[s][vp 8 2 1 46804 65535 0]Quê? O que vocês querem, crianças?[n][w][e]
 [s]Será que... você também[n]está tramando contra mim?!?[n]Não vou cair nessa, pirralhos![n][w][e]
 
 [msg MSG_QST_079_04 [Morgana]]

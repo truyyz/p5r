@@ -24,7 +24,7 @@
 [s][f 4 23 1 853 3 10 0 0][vp 8 2 1 0 853 0]Ela foi espancada e acabou no hospital. Espere,[n]talvez ela morreu. Eu não lembro.[n][w][e]
 
 [msg MSG_006_0_0 [Aluno assustado]]
-[s][f 4 23 1 852 3 10 0 0][vp 8 2 1 0 852 0]Coisa? Ele poderia ter matado uma pessoa? E por[n]que eles permitem que ele frequente nossa escola?[n][w][e]
+[s][f 4 23 1 852 3 10 0 0][vp 8 2 1 0 852 0]Quê? Ele poderia ter matado uma pessoa? E por[n]que eles permitem que ele frequente nossa escola?[n][w][e]
 
 [msg MSG_007_0_0 [Aluno falador]]
 [s][f 4 23 1 853 3 10 0 0][vp 8 2 1 0 853 0]Ele provavelmente ameaçou[n]ou subornou alguém.[n]Não pode ser explicado de outra forma.[n][w][e]

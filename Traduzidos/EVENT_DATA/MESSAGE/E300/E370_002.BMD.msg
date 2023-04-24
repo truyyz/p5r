@@ -169,7 +169,7 @@
 [s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 59 65535 0]Ah, você não come? Acho que[n]vou levar o "especial".[n][f 1 3 65535][w][e]
 
 [msg MSG_056_0_0 [Makoto]]
-[s][bup 0 6 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 60 65535 0]Coisa? Você realmente quer?[n][f 1 3 65535][w][e]
+[s][bup 0 6 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 60 65535 0]Quê? Você realmente quer?[n][f 1 3 65535][w][e]
 
 [msg MSG_057_0_0 [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 61 65535 0]Por que, por acaso você quer comer[n]o vermelho?[n][f 1 3 65535][w][e]

@@ -6,16 +6,16 @@
 [s]Na Asa Leste 2P[n][w][e]
 
 [msg MSG_TEST_801]
-[s]Al 1° piano (Scale della mensa)[n][w][e]
+[s]No 1° andar (Escada da Cantina)[n][w][e]
 
 [msg MSG_TEST_802]
-[s]Al 1° piano (Scale del cortile)[n][w][e]
+[s]No 1° andar (Escadas do pátio)[n][w][e]
 
 [msg MSG_TEST_803]
-[s]Al 3° piano (Scale del cortile)[n][w][e]
+[s]No 3° andar (Escadas do pátio)[n][w][e]
 
 [msg MSG_TEST_804]
-[s]Al 3° piano (Scale della mensa)[n][w][e]
+[s]No 3° andar (Escada da Cantina)[n][w][e]
 
 [msg MSG_TEST_805]
 [s]Sala dos professores - entrada oeste[n][w][e]

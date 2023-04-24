@@ -9,7 +9,7 @@
 [s][f 4 23 1 850 3 10 0 0][vp 8 2 1 0 850 0]Hoje eu vi aquele gato[n]alley aqui na escola de novo. Você sabe,[n]o que eu estava falando sobre ontem![n][w][e]
 
 [msg MSG_001_0_0 [Aluno tímido]]
-[s][f 4 23 1 851 3 10 0 0][vp 8 2 1 0 851 0]Coisa? Sério?[n]Onde? Eu quero ve-lo![n][w][e]
+[s][f 4 23 1 851 3 10 0 0][vp 8 2 1 0 851 0]Quê? Sério?[n]Onde? Eu quero ve-lo![n][w][e]
 
 [msg MSG_002_0_0 [Estudante despreocupado]]
 [s][f 4 23 1 850 3 10 0 0][vp 8 2 1 0 850 0]Para dizer a verdade, eu também vi[n]novamente Sakamoto-kun[n]andando por aí.[n][w][e]

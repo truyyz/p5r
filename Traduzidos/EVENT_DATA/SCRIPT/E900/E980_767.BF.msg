@@ -2,7 +2,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1190 65535 0]Juntou-se a [var 0][n]algumas vezes...[n][f 1 3 65535][w][e]
 
 [sel SEL_DB_ChkBaton top]
-[s]Faça um casal[e]
+[s]Faça um par[e]
 [s]Pense de novo[e]
 
 [msg DUMMY_NPC_Score [Morgana]]
@@ -165,7 +165,7 @@
 [s][bup 0 7 5 65535 0][f 4 10 65535 0 0][vp 8 2 0 3026 65535 0][var 0]pontos...[n]Desculpe por arrastar você para baixo...[n][f 1 3 65535][w][e]
 
 [msg MSG_Chara_GetScore_bad_a_2 [Akechi]]
-[s][bup 0 9 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 8044 65535 0][var 0]pontos, né...? Mmh.[n]Ser um casal não é exatamente...[n]Deixa pra lá...[n][f 1 3 65535][w][e]
+[s][bup 0 9 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 8044 65535 0][var 0]pontos, né...? Mmh.[n]Ser um par não é exatamente...[n]Deixa pra lá...[n][f 1 3 65535][w][e]
 
 [msg MSG_Chara_GetScore_bad_s [Sumire]]
 [s][bup 0 10 5 65535 0][f 4 10 65535 0 0][vp 8 2 0 57055 65535 0][var 0]pontos...[n]Preciso me concentrar mais...![n][f 1 3 65535][w][e]

@@ -1,6 +1,6 @@
 [msg CMM_EVENT_OPEN]
 [s][vp 1 0 0 0 0 0]Você desbloqueou o Confidente[n]da Arcana: O Conselheiro![n][f 1 3 65535][w][e]
-[s][vp 1 0 0 0 0 0]Mesclando Arcanum Personas:[n]O Conselheiro agora concederá XP a você[n]graças ao Arcanum Impetus![n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Mesclando Personas de Arcana:[n]O Conselheiro agora concederá XP a você[n]graças ao Arcanum Impetus![n][f 1 3 65535][w][e]
 
 [msg CMM_EVENT_RANKUP_2]
 [s][vp 1 0 0 0 0 0]O Confidente da Arcana:[n]o Conselheiro alcançou[n]o [clr 2]Nível 2[clr 27]![n][f 1 3 65535][w][e]

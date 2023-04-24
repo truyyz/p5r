@@ -302,7 +302,7 @@
 [s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 4057 65535 0]Você tem planos para mais tarde?[n][f 1 3 65535][w][e]
 
 [msg MSG_NextTimeOK_Yusuke [Yusuke]]
-[s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 4073 65535 0]Coisa? Obrigado.[n]Eu devo a você...[n][f 1 3 65535][w][e]
+[s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 4073 65535 0]Quê? Obrigado.[n]Eu devo a você...[n][f 1 3 65535][w][e]
 
 [msg MSG_NextTimeNG_Yusuke [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 4026 65535 0]Eu vejo. Que pena...[n][f 1 3 65535][w][e]

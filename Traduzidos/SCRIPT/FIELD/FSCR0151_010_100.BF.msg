@@ -44,7 +44,7 @@
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Além disso, deve ser[n]bastante alto.[n][w][e]
 
 [msg D01_04_e165_042_mes09 [Ann]]
-[s][bup 0 4 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6117 65535 0]Então só precisamos encontrar Shadow[n]desse tipo e derrotá-los![n][w][e]
+[s][bup 0 4 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6117 65535 0]Então só precisamos encontrar Sombra[n]desse tipo e derrotá-los![n][w][e]
 
 [msg D01_04_e165_042_mes10 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1153 65535 0]Vamos indo, Joker! Devemos[n]encontrar a Sombra com a chave![n][w][e]

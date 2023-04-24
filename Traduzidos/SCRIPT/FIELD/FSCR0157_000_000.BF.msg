@@ -71,7 +71,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Não vamos perder tempo[n]brigando, ok?[n][w][e]
 
 [msg D01_ex_PT_60000_03_PC04_ [Ann]]
-[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Só temos que pegar o Treasure, certo? Vamos nos[n]apressar para alcançá-lo![n][w][e]
+[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Só temos que pegar o Tesouro, certo? Vamos nos[n]apressar para alcançá-lo![n][w][e]
 
 [msg D06_01_target_mes10_mes0 [Ryuji]]
 [s][bup 0 2 0 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos entrar.[n][w][e]

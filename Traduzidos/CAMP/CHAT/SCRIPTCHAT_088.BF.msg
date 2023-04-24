@@ -24,6 +24,6 @@
 [s][f 5 14][f 5 15]Tenho certeza que ele[n]verificará seu telefone mais tarde.[n][w][e]
 
 [msg MSG_CHAT_MORUEND_00 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 1 0 0 8 0 0]Praticamente já entramos no[n]Kaneshiro Palace![n][f 1 3 65535][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 1 0 0 8 0 0]Praticamente já entramos no[n]Palácio de Kaneshiro![n][f 1 3 65535][w][e]
 [s][bup 0 3 1 65535 0][f 4 10 65535 0 0][vp 1 0 0 9 0 0]Foi surpreendentemente fácil![n][f 1 3 65535][w][e]
 

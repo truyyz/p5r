@@ -127,7 +127,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 41 65535 0]Eles irão ajudá-lo a lembrar o quão[n]especial foi este dia.[n][f 1 3 65535][w][e]
 
 [msg MND_032_5_0]
-[s][vp 8 0 0 0 65535 0]São um casal de bonecos[n]de mãos dadas...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]São um par de bonecos[n]de mãos dadas...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Um me lembra Ann,[n]enquanto o outro se parece comigo...[n][f 1 3 65535][w][e]
 
 [msg MSG_033_0_0 [Ann]]

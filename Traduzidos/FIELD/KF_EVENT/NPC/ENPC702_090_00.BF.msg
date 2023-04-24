@@ -57,7 +57,7 @@
 
 [msg MSG_CATCH_C_001_00 [Promotor despreocupado]]
 [s][vp 8 2 1 0 852 0]Ei, você já tem[n]um lugar em mente? Temos muitos[n]descontos, aproveite![n][w][e]
-[s][vp 8 2 1 0 852 0]Temos descontos para quem usa[n]óculos, quem tem cabelo cacheado,[n]quem está sozinho, quem está em casal...[n][w][e]
+[s][vp 8 2 1 0 852 0]Temos descontos para quem usa[n]óculos, quem tem cabelo cacheado,[n]quem está sozinho, quem está em par...[n][w][e]
 
 [sel SEL_CATCH_C_002_00 top]
 [s]Você conhece um certo Tsukasa?[e]

@@ -52,7 +52,7 @@
 [s][vp 8 0 0 14 65535 0]Desejamos-lhe uma noite[n]inesquecível, com um pequeno[n]toque final nosso...[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Ann]]
-[s][bup 0 4 14 4 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Coisa? O que...[n][f 1 3 65535][w][e]
+[s][bup 0 4 14 4 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Quê? O que...[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Ann]]
 [s][bup 0 4 4 4 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]É muito lindo...[n][f 1 3 65535][w][e]

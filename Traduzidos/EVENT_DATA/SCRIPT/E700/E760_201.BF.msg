@@ -278,7 +278,7 @@
 
 [msg SYS_057_1_0 [México Altura]]
 [s][vp 8 2 0 0 65535 0]Diz-se que o café chegou ao México no século[n]XVIII graças aos espanhóis. Hoje, o México é um[n]dos maiores produtores de café do mundo.[n][f 1 3 65535][w][e]
-[s][vp 8 2 0 0 65535 0]Altura ("altezza" in spagnolo) sta a indicare[n]l'altitudine alla quale crescono i chicchi di[n]questo caffè dai toni aciduli e di nocciola.[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0]Altura ("altura" em espanhol) indica [n]a altitude em que os grãos de café[n]crescem, com tons ácidos e nozes.[n][f 1 3 65535][w][e]
 
 [msg MSG_058_0_0 [Sojiro]]
 [s][bup 0 103 505 65535 0][f 4 10 65535 0 0][vp 8 2 0 5038 65535 0]Hã? Este aroma...[n][f 1 3 65535][w][e]
@@ -334,7 +334,7 @@
 
 [msg SYS_064_1_0 [Honduras SHG]]
 [s][vp 8 2 0 0 65535 0]Honduras é um país predominantemente montanhoso.[n]A classificação de seu café é determinada pela[n]altitude em que é cultivado.[n][f 1 3 65535][w][e]
-[s][vp 8 2 0 0 65535 0]Il caffè SHG (Strictly High Grown), come l'SHB,[n]cresce ad altezze elevate. Ha un aroma[n]ricco, fruttato, e una delicata acidità.[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0]O café SHG (Strictly High Grown), como o SHB,[n] cresce em alturas elevadas. Tem um [n]rico aroma frutado e uma delicada acidez.[n][f 1 3 65535][w][e]
 
 [msg MSG_065_0_0 [Sojiro]]
 [s][bup 0 103 505 65535 0][f 4 10 65535 0 0][vp 8 2 0 5038 65535 0]Este aroma cítrico...[n][f 1 3 65535][w][e]

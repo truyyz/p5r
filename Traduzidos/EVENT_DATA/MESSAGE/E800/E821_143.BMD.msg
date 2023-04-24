@@ -11,7 +11,7 @@
 
 [msg MSG_002_0_0 [Kawakami]]
 [s][bup 0 109 501 65535 0][f 4 10 65535 0 0][vp 8 2 0 15001 65535 0][f 5 13 15 15 1009]Oooh, eu nunca ouvi você[n]falar assim.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Seria muito fácil ser seu[n]professor se você fosse sempre tão[n]amigável.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Seria muito fácil ser sua[n]professora se você fosse sempre tão[n]amigável.[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Kawakami]]
 [s][bup 0 109 502 65535 0][f 4 10 65535 0 0][vp 8 2 0 15128 65535 0][f 5 13 15 10 1009]Ei... não me subestime.[n]Eu poderia ensinar[n]aulas de pintura quando eu quiser.[n][f 1 3 65535][w][e]

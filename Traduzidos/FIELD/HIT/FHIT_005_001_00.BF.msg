@@ -1236,7 +1236,7 @@
 [s]Parece muito confortável.[n][w][e]
 
 [msg MSG_Tobari15 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1192 65535 0]Esses barris me lembram[n]Kamoshida Palace.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1192 65535 0]Esses barris me lembram[n]Palácio de Kamoshida.[n][w][e]
 
 [msg MND_Tobari15]
 [s]É um barril de saquê.[n][w][e]

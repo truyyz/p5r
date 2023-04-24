@@ -40,7 +40,7 @@
 
 [msg MSG_010_0_0 [Kawakami]]
 [s][bup 0 109 503 65535 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Urgh...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Coisa? Ugh, não fique com esses grandes[n]olhos de cachorrinho indefeso![n]Você me faz sentir como um monstro...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Quê? Ugh, não fique com esses grandes[n]olhos de cachorrinho indefeso![n]Você me faz sentir como um monstro...[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Kawakami]]
 [s][bup 0 109 507 65535 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Não podemos ser vistos por[n]ninguém, então que seja só[n]por enquanto, ok?[n][f 1 3 65535][w][e]

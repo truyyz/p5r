@@ -153,7 +153,7 @@
 [msg MSG_035_0_0 [Ohya]]
 [s][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 16021 65535 0]No entanto... há uma coisa que[n]está em minha mente.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O chefe está investigando[n]sobre mim, sem dúvida.[n][f 1 3 65535][w][e]
-[s][bup 0 107 1 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 42 5 100][f 4 24 0 4 0 9 5 100][f 4 24 0 4 0 0 5 0][vp 8 2 0 16068 65535 0]Talvez para enganá-lo devêssemos[n]nos comportar realmente como um[n]casal. O que você diz?[n][f 1 3 65535][w][e]
+[s][bup 0 107 1 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 42 5 100][f 4 24 0 4 0 9 5 100][f 4 24 0 4 0 0 5 0][vp 8 2 0 16068 65535 0]Talvez para enganá-lo devêssemos[n]nos comportar realmente como um[n]par. O que você diz?[n][f 1 3 65535][w][e]
 
 [msg MSG_036_0_0 [Lala Escargot]]
 [s][vp 8 0 0 0 65535 0]Oh, deixa a garota em paz.[n][f 1 3 65535][w][e]

@@ -1,5 +1,5 @@
 [msg MSG_000_0_0 [Ann]]
-[s][f 5 14]Hoje fui ao Shiho's.[n][w][e]
+[s][f 5 14]Hoje fui ver Shiho.[n][w][e]
 
 [msg MSG_001_0_0 [Ann]]
 [s][f 5 14]Eu disse a ela que com Kamoshida[n]consertamos tudo.[n][w][e]

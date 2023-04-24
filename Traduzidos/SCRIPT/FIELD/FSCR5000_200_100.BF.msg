@@ -2,7 +2,7 @@
 [s]Oh sim! Já que vamos[n]explorar os Mementos, é apropriado[n]que eu fale sobre o clima.[n][w][e]
 
 [msg WEATHER_TUTO_mes02 [Ryuji]]
-[s]Coisa? O clima? O que o clima tem a ver com isso?[n][w][e]
+[s]Quê? O clima? O que o clima tem a ver com isso?[n][w][e]
 
 [msg WEATHER_TUTO_mes03 [Morgana]]
 [s]Você deve saber que Mementos[n]e Palácios são afetados[n]pelo clima deste mundo.[n][w][e]

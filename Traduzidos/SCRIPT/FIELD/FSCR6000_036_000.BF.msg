@@ -35,7 +35,7 @@
 [s][vp 1 0 0 0 0 0]Se você não conseguir entender isso, eu[n]tenho que lhe ensinar uma lição[n]como seu mestre![n][w][e]
 
 [msg QUEST_36_BOSS_EV_mes04 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 0 0 0]Poder![n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 0 0 0]Vamos lá![n][w][e]
 
 [msg MSG_034_0_0 [Sombra de Kishi]]
 [s][vp 8 2 1 46865 65535 0]*suspiro* Meu antigo chefe costumava me prender.[n]Eu pensei que era certo fazer isso sozinho ...[n][w][e]

@@ -121,7 +121,7 @@
 [s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 49 65535 0]É muito cedo...[n][f 1 3 65535][w][e]
 
 [msg MSG_038_0_0 [Ryuji]]
-[s][bup 0 2 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 44 65535 0]Coisa? Nós só vamos[n]ter uma palavrinha com Kitagawa.[n][f 1 3 65535][w][e]
+[s][bup 0 2 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 44 65535 0]Quê? Nós só vamos[n]ter uma palavrinha com Kitagawa.[n][f 1 3 65535][w][e]
 
 [msg MSG_039_0_0 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 45 65535 0]Oh, você quis dizer isso...[n][f 1 3 65535][w][e]

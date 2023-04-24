@@ -1,6 +1,6 @@
 [msg CMM_EVENT_OPEN]
 [s][vp 1 0 0 0 0 0]Você desbloqueou o[n]Confidente da Arcana: o Hierofante![n][f 1 3 65535][w][e]
-[s][vp 1 0 0 0 0 0]Mesclando Arcanum Personas: O Hierofante[n]agora concederá a você XP[n]graças ao Arcanum Impetus![n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Mesclando Personas de Arcana: O Hierofante[n]agora concederá a você XP[n]graças ao Arcanum Impetus![n][f 1 3 65535][w][e]
 
 [msg CMM_EVENT_RANKUP_2]
 [s][vp 1 0 0 0 0 0]O Confidente da Arcana: O Hierofante[n]alcançou [clr 2]Nível 2[clr 27]![n][f 1 3 65535][w][e]

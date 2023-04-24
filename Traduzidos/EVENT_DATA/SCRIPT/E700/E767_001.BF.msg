@@ -18,7 +18,7 @@
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 0 1126 65535 0]Podemos treinar e nos divertir ao mesmo tempo.[n]Este lugar é simplesmente aconchegante.[n][f 1 3 65535][w][e]
 
 [msg SYS_FinishInfo]
-[s]Se al 4° round hai un punteggio basso,[n]il tuo compagno di squadra potrebbe chiederti[n]consiglio su come lanciare.[n][w][e]
+[s]Se você tiver uma pontuação baixa na 4ª rodada,[n]seu companheiro de equipe pode pedir-lhe[n]aconselhamento sobre como lançar.[n][w][e]
 [s]Se você der uma resposta motivadora,[n]eles terão mais chances de[n]ganhar o jogo.[n][w][e]
 [s]Quando isso acontece, sua sinergia com aquele[n]companheiro de equipe aumenta, fazendo com que a[n]classificação da equipe de revezamento suba de[n]nível.[n][w][e]
 
@@ -341,7 +341,7 @@
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 4134 65535 0]...Você pode estar certo.[n]O tremor parou.[n][f 1 3 65535][w][e]
 
 [msg MSG_Finish_Act03_yusuke [Yusuke]]
-[s][bup 0 5 2 65535 0][f 4 10 65535 0 0][vp 8 2 0 4139 65535 0]Coisa? Ainda assim, o prédio não está tremendo...[n]Não, são meus dedos que não estão parados...![n][f 1 3 65535][w][e]
+[s][bup 0 5 2 65535 0][f 4 10 65535 0 0][vp 8 2 0 4139 65535 0]Quê? Ainda assim, o prédio não está tremendo...[n]Não, são meus dedos que não estão parados...![n][f 1 3 65535][w][e]
 
 [msg MSG_BatonTouchGet_BigGoo_4 [Yusuke]]
 [s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 4190 65535 0]Um 0 perfeito... e um acerto perfeito. A deusa da[n]vitória nos sorriu![n][f 1 3 65535][w][e]
@@ -591,7 +591,7 @@
 
 [msg MSG_BatonTouchGet_BigGoo_7 [Haru]]
 [s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 3104 65535 0]Veja! 0 pontos! Uau...[n]sinto-me satisfeito![n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Nós somos o melhor casal de[n]ever... eu acho?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Nós somos o melhor par de[n]ever... eu acho?[n][f 1 3 65535][w][e]
 
 [msg MSG_BatonTouchGet_Good_h [Haru]]
 [s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 3104 65535 0]Veja! 0 pontos! Uau...[n]sinto-me satisfeito![n][f 1 3 65535][w][e]

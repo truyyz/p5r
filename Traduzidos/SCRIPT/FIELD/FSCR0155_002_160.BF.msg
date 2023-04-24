@@ -2,7 +2,7 @@
 [s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4129 65535 0]Oh meu Deus. Tem outro.[n][w][e]
 
 [msg MSG_e296_239_001 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Perto eu sinto uma[n]forte presença. Provavelmente o[n]Treasure está além daquela porta![n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Perto eu sinto uma[n]forte presença. Provavelmente o[n]Tesouro está além daquela porta![n][w][e]
 
 [msg MSG_e296_239_002 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Tudo bem, vamos entrar nisso! É hora de[n]recarregar![n][w][e]

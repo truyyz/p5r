@@ -60,7 +60,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]Bem, sim.[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Ann]]
-[s][bup 0 4 2 1 0][f 4 10 65535 0 0][vp 8 0 0 26 65535 0]Então estamos todos de acordo?[n]Você entra no Futaba Palace?[n][f 1 3 65535][w][e]
+[s][bup 0 4 2 1 0][f 4 10 65535 0 0][vp 8 0 0 26 65535 0]Então estamos todos de acordo?[n]Você entra no Palácio de Futaba?[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Makoto]]
 [s][bup 0 6 0 1 0][f 4 10 65535 0 0][vp 8 0 0 27 65535 0]Ela nos perguntou. Acho que[n]isso não será um problema.[n][f 1 3 65535][w][e]

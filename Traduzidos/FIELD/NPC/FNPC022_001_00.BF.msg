@@ -199,7 +199,7 @@
 [s][bup 0 221 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 56756 65535 0]Há tanto a aprender sobre os humanos![n][w][e]
 
 [msg MSG_053_01 [[f 7 1]]]
-[s][bup 0 221 1 65535 0][f 4 10 65535 0 0][f 4 23 1 340 2 10 0 10][vp 8 2 1 56749 65535 0]Você ganhou o prêmio "Maestro di vita"![n]Obrigado por me ajudar com[n]meus estudos! Bom trabalho![n][w][e]
+[s][bup 0 221 1 65535 0][f 4 10 65535 0 0][f 4 23 1 340 2 10 0 10][vp 8 2 1 56749 65535 0]Você ganhou o prêmio "Professor da Vida"![n]Obrigado por me ajudar com[n]meus estudos! Bom trabalho![n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Não sei porque, mas me sinto[n]em forma... quase renascida![n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]É como se agora eu pudesse[n]alcançar um conhecimento mais completo[n]dos humanos...[n][w][e]
 [s][f 4 10 65535 0 0][f 4 23 1 340 2 10 0 10][vp 8 2 1 56766 65535 0]...Então, dito isso, tenho que[n]voltar aos meus estudos![n][w][e]

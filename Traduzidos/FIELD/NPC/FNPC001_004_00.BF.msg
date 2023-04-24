@@ -58,7 +58,7 @@
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Você sabia que eles postaram uma[n]carta de aviso para a exposição[n]quando fomos lá?[n][w][e]
 
 [msg MSG_GARAKEIJYOSI_005_1_0 [Shujin garota na mão]]
-[s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Coisa? Sério?!?[n][w][e]
+[s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Quê? Sério?!?[n][w][e]
 
 [msg MSG_GARAKEIJYOSI_005_2_0 [Estudante elegante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]A Internet inteira fala sobre isso.[n]Parece que Madarame roubou[n]obras de outras pessoas.[n][w][e]

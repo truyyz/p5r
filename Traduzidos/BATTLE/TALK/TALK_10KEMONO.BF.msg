@@ -1458,7 +1458,7 @@
 [msg TalkMsg_GUY_NEGO_Re_ACCE_3 [Ryuji]]
 
 [msg TalkMsg_GUY_RESULT_GET_P]
-[s]Eu Sombra? Não, não conheço Shadow. Eu não[n]pertenço aqui. Io vive no mar de almas humanas![n][w][e]
+[s]Eu Sombra? Não, não conheça Sombra. Eu não[n]pertenço aqui. Io vive no mar de almas humanas![n][w][e]
 [s]Meu nome é [clr 1][var 2][clr 27].[n]Meu poder é o seu poder...[n]Use isso como quiser.[n][w][e]
 
 [msg TalkMsg_GUY_RESULT_GET_P_2]
@@ -1493,7 +1493,7 @@
 [s]Adeus! Io espera se tornar como os humanos em[n]breve![n][w][e]
 
 [msg TalkMsg_GUY_RESULT_ENEMY_6]
-[s]Hã? Coisa? Sentar? Se fingir de morto?[n]Eu então... estou esperando aqui?[n][w][e]
+[s]Hã? Quê? Sentar? Se fingir de morto?[n]Eu então... estou esperando aqui?[n][w][e]
 
 [msg TalkMsg_GUY_RESULT_ENEMY_7]
 [s]U-uuh! U-uuh, a-uuh![n]Eu fujo com o rabo entre as pernas![n][w][e]
@@ -1677,43 +1677,43 @@
 [s]P-Pegue isso, mas você[n]me solta![n][w][e]
 
 [msg TalkMsg_RESULT_GET_PERSO]
-[s]Eu Sombra? Não, não conheço Shadow. Eu não[n]pertenço aqui. Io vive no mar de almas humanas![n][w][e]
+[s]Eu Sombra? Não, não conheça Sombra. Eu não[n]pertenço aqui. Io vive no mar de almas humanas![n][w][e]
 [s]Meu nome é [clr 1][var 2][clr 27].[n]Meu poder é o seu poder...[n]Use isso como quiser.[n][w][e]
 
 [msg TalkMsg_RESULT_GET_PERSO_2]
-[s]Eu Sombra? Não, não conheço Shadow. Eu não[n]pertenço aqui. Io vive no mar de almas humanas![n][w][e]
+[s]Eu Sombra? Não, não conheça Sombra. Eu não[n]pertenço aqui. Io vive no mar de almas humanas![n][w][e]
 [s]Meu nome é [clr 1][var 2][clr 27].[n]Meu poder é o seu poder...[n]Use isso como quiser.[n][w][e]
 
 [msg TalkMsg_RESULT_GET_PERSO_3]
-[s]Eu Sombra? Não, não conheço Shadow. Eu não[n]pertenço aqui. Io vive no mar de almas humanas![n][w][e]
+[s]Eu Sombra? Não, não conheça Sombra. Eu não[n]pertenço aqui. Io vive no mar de almas humanas![n][w][e]
 [s]Meu nome é [clr 1][var 2][clr 27].[n]Meu poder é o seu poder...[n]Use isso como quiser.[n][w][e]
 
 [msg TalkMsg_RESULT_GET_PERSO_4]
-[s]Eu Sombra? Não, não conheço Shadow. Eu não[n]pertenço aqui. Io vive no mar de almas humanas![n][w][e]
+[s]Eu Sombra? Não, não conheça Sombra. Eu não[n]pertenço aqui. Io vive no mar de almas humanas![n][w][e]
 [s]Meu nome é [clr 1][var 2][clr 27].[n]Meu poder é o seu poder...[n]Use isso como quiser.[n][w][e]
 
 [msg TalkMsg_RESULT_GET_PERSO_5]
-[s]Eu Sombra? Não, não conheço Shadow. Eu não[n]pertenço aqui. Io vive no mar de almas humanas![n][w][e]
+[s]Eu Sombra? Não, não conheça Sombra. Eu não[n]pertenço aqui. Io vive no mar de almas humanas![n][w][e]
 [s]Meu nome é [clr 1][var 2][clr 27].[n]Meu poder é o seu poder...[n]Use isso como quiser.[n][w][e]
 
 [msg TalkMsg_RESULT_GET_PERSO_6]
-[s]Eu Sombra? Não, não conheço Shadow. Eu não[n]pertenço aqui. Io vive no mar de almas humanas![n][w][e]
+[s]Eu Sombra? Não, não conheça Sombra. Eu não[n]pertenço aqui. Io vive no mar de almas humanas![n][w][e]
 [s]Meu nome é [clr 1][var 2][clr 27].[n]Meu poder é o seu poder...[n]Use isso como quiser.[n][w][e]
 
 [msg TalkMsg_RESULT_GET_PERSO_7]
-[s]Eu Sombra? Não, não conheço Shadow. Eu não[n]pertenço aqui. Io vive no mar de almas humanas![n][w][e]
+[s]Eu Sombra? Não, não conheça Sombra. Eu não[n]pertenço aqui. Io vive no mar de almas humanas![n][w][e]
 [s]Meu nome é [clr 1][var 2][clr 27].[n]Meu poder é o seu poder...[n]Use isso como quiser.[n][w][e]
 
 [msg TalkMsg_RESULT_GET_PERSO_8]
-[s]Eu Sombra? Não, não conheço Shadow. Eu não[n]pertenço aqui. Io vive no mar de almas humanas![n][w][e]
+[s]Eu Sombra? Não, não conheça Sombra. Eu não[n]pertenço aqui. Io vive no mar de almas humanas![n][w][e]
 [s]Meu nome é [clr 1][var 2][clr 27].[n]Meu poder é o seu poder...[n]Use isso como quiser.[n][w][e]
 
 [msg TalkMsg_RESULT_GET_PERSO_9]
-[s]Eu Sombra? Não, não conheço Shadow. Eu não[n]pertenço aqui. Io vive no mar de almas humanas![n][w][e]
+[s]Eu Sombra? Não, não conheça Sombra. Eu não[n]pertenço aqui. Io vive no mar de almas humanas![n][w][e]
 [s]Meu nome é [clr 1][var 2][clr 27].[n]Meu poder é o seu poder...[n]Use isso como quiser.[n][w][e]
 
 [msg TalkMsg_RESULT_GET_PERSO_10]
-[s]Eu Sombra? Não, não conheço Shadow. Eu não[n]pertenço aqui. Io vive no mar de almas humanas![n][w][e]
+[s]Eu Sombra? Não, não conheça Sombra. Eu não[n]pertenço aqui. Io vive no mar de almas humanas![n][w][e]
 [s]Meu nome é [clr 1][var 2][clr 27].[n]Meu poder é o seu poder...[n]Use isso como quiser.[n][w][e]
 
 [msg TalkMsg_ED_bye_D01_01]
@@ -2277,10 +2277,10 @@
 [s]Outro inimigo entrou na conversa.[n][w][e]
 
 [msg TalkMsg_cnt_interruptP]
-[s]Dopo aver parlato con il bersaglio,[n]i compagni possono intervenire per[n]accelerare le cose (% di chance).[n][w][e]
+[s]Depois de falar com o alvo,[n]companheiros de equipe podem intervir para[n]acelerar as coisas (% de chance).[n][w][e]
 
 [msg TalkMsg_cnt_refuse]
-[s]Il bersaglio si rifiuta di parlare.[n]→Ciò accade se il risultato della[n]conversazione è un rifiuto.[n][w][e]
+[s]O alvo se recusa a falar.[n]→Isso acontece se o resultado da [n]conversa for uma rejeição.[n][w][e]
 
 [msg TalkMsg_cnt_anger]
 [s]Il bersaglio è irato e contrattacca.[n]→Caso negativo se il risultato[n]della conversazione è un rifiuto.[n][w][e]

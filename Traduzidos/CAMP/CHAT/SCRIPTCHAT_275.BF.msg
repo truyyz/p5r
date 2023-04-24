@@ -62,7 +62,7 @@
 [s][f 5 14]Mas preciso de mais tempo. Melhor[n]ter uma imagem completa antes[n]anunciar minhas descobertas.[n][w][e]
 
 [msg MSG_018_0_0 [Ryuji]]
-[s][f 5 14]Coisa? Você realmente não[n]encontrou nada?[n][w][e]
+[s][f 5 14]Quê? Você realmente não[n]encontrou nada?[n][w][e]
 [s][f 5 14]Tanto para o grande[n]"Príncipe Detetive" ...[n][w][e]
 
 [msg MSG_019_0_0 [Akechi]]

@@ -28,7 +28,7 @@
 [s][vp 8 0 0 0 65535 0]Talvez eu deva dizer algo[n]para Ann...[n][f 1 3 65535][w][e]
 
 [msg MSG_004_7_0 [Ann]]
-[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Poder! Bata o mais forte que puder![n][f 1 3 65535][w][e]
+[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vamos lá! Bata o mais forte que puder![n][f 1 3 65535][w][e]
 
 [sel SEL_005_0_0 top]
 [s]Você é estupido.[e]

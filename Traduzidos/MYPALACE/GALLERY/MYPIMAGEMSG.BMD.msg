@@ -173,13 +173,13 @@
 [s]Modelo de José.[n][e]
 
 [msg MSG_057]
-[s]Modelo do senhor de[n]Kamoshida Palace.[n][e]
+[s]Modelo do senhor de[n]Palácio de Kamoshida.[n][e]
 
 [msg MSG_058]
-[s]Modelo do senhor de[n]Madarame Palace.[n][e]
+[s]Modelo do senhor de[n]Palácio de Madarame.[n][e]
 
 [msg MSG_059]
-[s]Modelo do senhor de[n]Kaneshiro Palace.[n][e]
+[s]Modelo do senhor de[n]Palácio de Kaneshiro.[n][e]
 
 [msg MSG_060]
 [s]Modelo monstro do[n]Palácio Futaba.[n][e]
@@ -188,10 +188,10 @@
 [s]Modelo do senhor do Palácio de[n]Okumura.[n][e]
 
 [msg MSG_062]
-[s]Modelo do senhor de[n]Niijima Palace.[n][e]
+[s]Modelo do senhor de[n]Palácio de Niijima.[n][e]
 
 [msg MSG_063]
-[s]Modelo do senhor de[n]Shido Palace.[n][e]
+[s]Modelo do senhor de[n]Palácio de Shido.[n][e]
 
 [msg MSG_064]
 [s]Modelo do Santo Graal.[n][e]
@@ -365,7 +365,7 @@
 [s]Uma foto de lembrança das meninas[n]na véspera de Ano Novo.[n][e]
 
 [msg MSG_121]
-[s]Uma foto de lembrança do casal[n]visitando o santuário com[n]o ano novo.[n][e]
+[s]Uma foto de lembrança do par[n]visitando o santuário com[n]o ano novo.[n][e]
 
 [msg MSG_122]
 [s]Foto comemorativa enviada a[n]Sumire para mostrar a ela como[n]ele veio do passado.[n][e]
@@ -494,7 +494,7 @@
 [s]Sem mais dor ou arrependimentos,[n]ele vive seus sonhos para manter[n]sua promessa a sua irmã.[n][e]
 
 [msg MSG_164]
-[s]Um gostinho de um mundo feliz que se torna[n]realidade. O que está observando, esse casal...?[n][e]
+[s]Um gostinho de um mundo feliz que se torna[n]realidade. O que está observando, esse par...?[n][e]
 
 [msg MSG_165]
 [s]MSG_165[n][e]

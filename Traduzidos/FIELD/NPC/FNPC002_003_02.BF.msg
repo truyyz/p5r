@@ -679,7 +679,7 @@
 [s]Ah, Prof. Mizuki? Você[n]fez a papelada que eu[n]pedi para você?[n][f 4 23 1 600 3 10 0 0][w][e]
 
 [msg Quest39_target_00_01 [Professor jovem]]
-[s]Coisa? Na reunião da semana passada, pensei que[n]ela tinha dito que faria isso para mim...[n][f 4 23 1 601 3 10 0 0][w][e]
+[s]Quê? Na reunião da semana passada, pensei que[n]ela tinha dito que faria isso para mim...[n][f 4 23 1 601 3 10 0 0][w][e]
 
 [msg Quest39_target_00_02 [Professor veterano]]
 [s]Eu disse isso apenas para ser educado.[n]Jovens como você têm que[n]lidar com esse tipo de problema![n][f 4 23 1 600 3 10 0 0][w][e]

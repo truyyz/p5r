@@ -413,7 +413,7 @@
 
 [msg SAFE_MES_AKECHI_08 [Akechi]]
 [s][bup 0 9 810 0 0][f 4 10 65535 0 0][vp 8 2 1 54503 65535 0]Parece que ele despertou sua Persona enquanto[n]ainda estava no mundo real.[n][w][e]
-[s][f 4 10 65535 0 0]Isso poderia significar que ele possui um[n]Palace desde então? Bem,[n]não que isso faça diferença.[n][w][e]
+[s][f 4 10 65535 0 0]Isso poderia significar que ele possui um[n]Palácio desde então? Bem,[n]não que isso faça diferença.[n][w][e]
 
 [msg SAFE_MES_AKECHI_09 [Akechi]]
 [s][bup 0 9 813 0 0][f 4 10 65535 0 0][vp 8 2 1 8028 65535 0]Usar informações pessoais[n]como medida de segurança...[n][w][e]
@@ -442,7 +442,7 @@
 [s][f 4 10 65535 0 0]Enquanto ele não está fazendo nada além de[n]impor seus desejos a eles.[n]E ele chama isso de bondade... Náusea.[n][w][e]
 
 [msg SAFE_MES_AKECHI_16 [Akechi]]
-[s][bup 0 9 800 0 0][f 4 10 65535 0 0][vp 8 2 1 8099 65535 0]Suspeito que estamos perto de Treasure...[n]Pressione, mas tenha cuidado, Joker.[n][w][e]
+[s][bup 0 9 800 0 0][f 4 10 65535 0 0][vp 8 2 1 8099 65535 0]Suspeito que estamos perto de Tesouro...[n]Pressione, mas tenha cuidado, Joker.[n][w][e]
 
 [msg SAFE_MES_AKECHI_17 [Akechi]]
 [s][bup 0 9 810 0 0][f 4 10 65535 0 0][vp 8 2 1 54503 65535 0]Agora vamos esperar o tempo acabar...[n][w][e]
@@ -489,7 +489,7 @@
 [s][f 4 10 65535 0 0]Eu também era assim...[n][w][e]
 
 [msg SAFE_MES_YOSHIZAWA_13 [[f 4 31 10 0]]]
-[s][bup 0 10 100 0 0][f 4 10 65535 0 0][vp 8 2 1 57142 65535 0]Sabe, acho que o VHS in the Palace[n]foi o primeiro que assisti[n]na minha vida.[n][w][e]
+[s][bup 0 10 100 0 0][f 4 10 65535 0 0][vp 8 2 1 57142 65535 0]Sabe, acho que o VHS no Palácio[n]foi o primeiro que assisti[n]na minha vida.[n][w][e]
 [s][f 4 10 65535 0 0]No entanto, lembro-me de quando criança[n]tínhamos uma prateleira cheia[n]de fitas em nossa casa.[n][w][e]
 
 [msg SAFE_MES_YOSHIZAWA_14 [[f 4 31 10 0]]]

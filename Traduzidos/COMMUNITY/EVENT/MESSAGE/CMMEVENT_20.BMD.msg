@@ -27,7 +27,7 @@
 
 [msg CMM_EVENT_RANKMAX]
 [s][vp 1 0 0 0 0 0]O Confidente da Arcana: Julgamento[n]atingiu [clr 2]MAX Rank[clr 27]![n][f 1 3 65535][w][e]
-[s][vp 1 0 0 0 0 0]Mesclar Arcanum Personas: Julgamento[n]agora concederá XP[n]a você graças ao Arcanum Impetus![n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Mesclar Personas de Arcana: Julgamento[n]agora concederá XP[n]a você graças ao Arcanum Impetus![n][f 1 3 65535][w][e]
 [s][vp 1 0 0 0 0 0]Sae abraçou a [clr 1]Suprema Justiça[clr 27]![n][f 1 3 65535][w][e]
 
 [msg CMM_EVENT_UNLOCK]

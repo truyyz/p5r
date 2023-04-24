@@ -79,7 +79,7 @@
 [s][vp 8 2 0 53511 65535 0]Isso é... Meu poder? Eu entendo...[n]Então ainda posso lutar.[n][f 1 3 65535][w][e]
 
 [msg PFM_019_5_0]
-[s][vp 1 0 0 0 0 0][clr 1]Astarte[clr 27], Haru's Persona,[n]transformada em [clr 2]Lucy[clr 27]![n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0][clr 1]Astarte[clr 27], Persona de Haru,[n]transformada em [clr 2]Lucy[clr 27]![n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Haru]]
 [s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Desculpe por ter demorado tanto.[n]Isso era tudo que eu queria dizer.[n][f 1 3 65535][w][e]

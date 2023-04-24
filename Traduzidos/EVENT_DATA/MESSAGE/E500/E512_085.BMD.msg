@@ -95,7 +95,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu não acho que isso irá interferir[n]com seus efeitos nos Mementos.[n][f 1 3 65535][w][e]
 
 [msg MSG_026_0_0 [Makoto]]
-[s][bup 0 6 104 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Coisa? Então, quais são os benefícios de[n]suspender o fluxo de dados?[n][f 1 3 65535][w][e]
+[s][bup 0 6 104 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Quê? Então, quais são os benefícios de[n]suspender o fluxo de dados?[n][f 1 3 65535][w][e]
 
 [msg MSG_027_0_0 [Futaba]]
 [s][bup 0 8 100 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]De acordo com a saída deste console,[n]agora todos os cabos estão rebobinados.[n][f 1 3 65535][w][e]

@@ -58,7 +58,7 @@
 [s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mostre-nos como funciona.[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Caroline]]
-[s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Oh, eu vejo. É usado para[n]correr e aumentar a energia[n]e força nas pernas.[n][f 1 3 65535][w][e]
+[s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Oh, entendo. É usado para[n]correr e aumentar a energia[n]e força nas pernas.[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Justine]]
 [s][bup 0 101 1 0 0][f 4 10 65535 0 0][vp 8 2 0 55215 65535 0]Uma engenhoca fascinante.[n]Talvez devêssemos comprar um[n]para o nosso quarto?[n][f 1 3 65535][w][e]

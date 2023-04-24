@@ -294,7 +294,7 @@
 [s]NESSE CASO, POSSO ENTREGAR[n]TODOS VOCÊS E ME AGRADECER PELOS[n]GRANDES HUMBS![n][w][e]
 
 [msg D05_02_true_kachou_battl_6 [Haru]]
-[s][bup 0 7 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 3108 65535 0]Aparentemente, só podemos lutar agora. Poder![n][w][e]
+[s][bup 0 7 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 3108 65535 0]Aparentemente, só podemos lutar agora. Vamos lá![n][w][e]
 
 [sel D05_02_true_kachou_battl_7 top]
 [s]Eu tenho que ver o gerente-chefe.[e]

@@ -1,5 +1,5 @@
 [msg HIHUMI_EV2ND_mes01 [Yusuke]]
-[s][clr 2](temp msg event)[clr 27][n]...Imparare tattiche di rinforzi da[n]una campionessa di shogi?[n][w][e]
+[s][clr 2](temp msg event)[clr 27][n]...Aprenda táticas de backup com[n]a campeã de shogi?[n][w][e]
 
 [msg HIHUMI_EV2ND_mes02 [Ryuji]]
 [s]Bem, não é como se ninguém tivesse pensado nisso[n]antes...[n][w][e]

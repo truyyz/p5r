@@ -616,7 +616,7 @@
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 6006 65535 0]Ah, [f 4 2]. Não sabia que você trabalhava aqui![n][f 1 3 65535][w][e]
 
 [msg MSG_Ann_001_004 [Ann]]
-[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Os uniformes não são super fofos?[n]Lembram morangos... E eles ficam bem[n]em você, eu vejo.[n][f 1 3 65535][w][e]
+[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Os uniformes não são super fofos?[n]Lembram morangos... E eles ficam bem[n]em você, entendo.[n][f 1 3 65535][w][e]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Está bem. Vejo você no caixa.[n][f 1 3 65535][w][e]
 
 [msg MSG_Yuusuke_001_001 [Yusuke]]

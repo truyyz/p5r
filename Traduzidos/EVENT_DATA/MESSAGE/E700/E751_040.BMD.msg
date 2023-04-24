@@ -40,7 +40,7 @@
 [s]No seu lugar.[e]
 
 [msg MSG_010_0_0 [Chihaya]]
-[s][bup 0 113 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Coisa? T-Tem certeza[n]que não há problemas?[n][f 1 3 65535][w][e]
+[s][bup 0 113 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Quê? T-Tem certeza[n]que não há problemas?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Bem, hum, se você realmente insiste...[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Chihaya]]

@@ -2,25 +2,25 @@
 [s]Decoração de base para[n]Coven of Thieves.[n][e]
 
 [msg MSG_002]
-[s]Decoração inspirada no[n]Kamoshida Palace.[n][e]
+[s]Decoração inspirada no[n]Palácio de Kamoshida.[n][e]
 
 [msg MSG_003]
-[s]Decoração inspirada no[n]Madarame Palace.[n][e]
+[s]Decoração inspirada no[n]Palácio de Madarame.[n][e]
 
 [msg MSG_004]
-[s]Decoração inspirada no[n]Kaneshiro Palace.[n][e]
+[s]Decoração inspirada no[n]Palácio de Kaneshiro.[n][e]
 
 [msg MSG_005]
-[s]Decoração inspirada no[n]Futaba Palace.[n][e]
+[s]Decoração inspirada no[n]Palácio de Futaba.[n][e]
 
 [msg MSG_006]
-[s]Decoração inspirada no[n]Okumura Palace.[n][e]
+[s]Decoração inspirada no[n]Palácio de Okumura.[n][e]
 
 [msg MSG_007]
-[s]Decoração inspirada no[n]Niijima Palace.[n][e]
+[s]Decoração inspirada no[n]Palácio de Niijima.[n][e]
 
 [msg MSG_008]
-[s]Decoração inspirada no[n]Shido Palace.[n][e]
+[s]Decoração inspirada no[n]Palácio de Shido.[n][e]
 
 [msg MSG_009]
 [s]Decoração inspirada na[n]Prisão Acedia e[n]no mundo da cliphoto.[n][e]

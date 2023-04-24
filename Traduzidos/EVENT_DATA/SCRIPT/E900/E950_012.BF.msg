@@ -13,7 +13,7 @@
 [s]Estamos fechados.[e]
 
 [msg MSG_000_5_1 [Ryuji]]
-[s]Coisa? Achei que você ficaria mais surpreso em me[n]ver.[n][w][e]
+[s]Quê? Achei que você ficaria mais surpreso em me[n]ver.[n][w][e]
 
 [msg MSG_000_5_2 [Ryuji]]
 [s]Oh vamos lá. Eu sou um cliente especial.[n][w][e]

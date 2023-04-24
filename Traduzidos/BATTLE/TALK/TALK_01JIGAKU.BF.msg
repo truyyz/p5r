@@ -5,7 +5,7 @@
 [s]Ugh, você é muito legal...[n][w][e]
 
 [msg TalkMsg_GUY_CONTACT_02]
-[s]Coisa? Você realmente não quer desistir.[n][w][e]
+[s]Quê? Você realmente não quer desistir.[n][w][e]
 
 [msg TalkMsg_GUY_CONTACT_03]
 [s]Merda, isso dói...[n]Hoje eu to tomando mesmo...[n][w][e]
@@ -233,7 +233,7 @@
 [s]Deixe-me adivinhar, você não sai com frequência,[n]hein? Que tal eu mandar para casa uma linda[n]potranca?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_04_R_15]
-[s]Coisa? Você não está interessado em[n]bebês e tudo?[n][w][e]
+[s]Quê? Você não está interessado em[n]bebês e tudo?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_04_R_16]
 [s]Quer dizer, eu não deveria tratar[n]mulheres como objetos?[n]Mas escute, senhor fanfarrão.[n][w][e]
@@ -1136,7 +1136,7 @@
 [s]Já. Eu não dou a mínima para o passado também.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_12_R_12]
-[s]Coisa? Você sabe que se escapar da sua mente,[n]você nunca vai se lembrar, não é?[n][w][e]
+[s]Quê? Você sabe que se escapar da sua mente,[n]você nunca vai se lembrar, não é?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_12_R_13]
 [s]Você realmente tem que colocar assim?[n]Deixe-me ficar bem, ok?[n][w][e]
@@ -1505,7 +1505,7 @@
 [s]Espere... por que eu estava gritando?[n]Talvez eu devesse ouvir você...[n][w][e]
 
 [msg TalkMsg_RESULT_GET_SECRE]
-[s]Coisa? Você já sabe...[n]Então pegue isso.[n][w][e]
+[s]Quê? Você já sabe...[n]Então pegue isso.[n][w][e]
 
 [msg TalkMsg_SURRENDER_FROM_C]
 [s]Vamos terminar isso rapidamente, Ok? Eu já[n]o suficiente dessa merda.[n][w][e]
@@ -2189,19 +2189,19 @@
 [s]Suas travessuras capturam o interesse das sombras[n]inimigas![n][w][e]
 
 [msg TalkMsg_Tisei]
-[s]Você não é inteligente o suficiente[n]para esta escolha.[n][f 1 4][e]
+[s]Você não é Inteligente o suficiente[n]para esta escolha.[n][f 1 4][e]
 
 [msg TalkMsg_Iroke]
-[s]Você não tem charme suficiente[n]para esta escolha.[n][f 1 4][e]
+[s]Você não tem Charme suficiente[n]para esta escolha.[n][f 1 4][e]
 
 [msg TalkMsg_Ginou]
-[s]Você não tem experiência suficiente[n]para esta escolha.[n][f 1 4][e]
+[s]Você não tem Experiência suficiente[n]para esta escolha.[n][f 1 4][e]
 
 [msg TalkMsg_Hinsei]
-[s]Você não tem bondade suficiente[n]para esta escolha.[n][f 1 4][e]
+[s]Você não tem Bondade suficiente[n]para esta escolha.[n][f 1 4][e]
 
 [msg TalkMsg_Yuuki]
-[s]Você não tem coragem suficiente[n]para esta escolha.[n][f 1 4][e]
+[s]Você não tem Coragem suficiente[n]para esta escolha.[n][f 1 4][e]
 
 [sel Nego_Surrender_sel top]
 [s]Dê-me o seu poder.[e]
@@ -2252,7 +2252,7 @@
 [s]Não há necessidade.[e]
 
 [msg Talk_tech]
-[s]Yoshida Toranosuke[n]Impression Management! (Temporaneo)[n][w][e]
+[s]Yoshida Toranosuke[n]Gerenciamento de impressões! (Temporário)[n][w][e]
 
 [sel TalkSel_Tech top]
 [s]Por favor ajude![e]
@@ -2265,7 +2265,7 @@
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 4 5 301 1]Aaaa!!! Como d-você pode nos perguntar isso?!?[n][w][e]
 
 [msg RareBooster]
-[s]Yoshida Toranosuke[n]Impression Management! (Temporaneo)[n][w][e]
+[s]Yoshida Toranosuke[n]Gerenciamento de impressões! (Temporário)[n][w][e]
 
 [msg CheapAct [Ann]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 4 5 300 1]Joker, isso é assustador... temos que[n]sair. Ei! Você pode dizer ao seu[n]chefe que estamos indo embora?[n][w][e]
@@ -2274,13 +2274,13 @@
 [s]Outro inimigo entrou na conversa.[n][w][e]
 
 [msg TalkMsg_cnt_interruptP]
-[s]Dopo aver parlato con un bersaglio,[n]i compagni possono intervenire per[n]accelerare le cose (% di chance).[n][w][e]
+[s]Depois de falar com um alvo,[n]companheiros de equipe podem intervir para[n]acelerar as coisas (% de chance).[n][w][e]
 
 [msg TalkMsg_cnt_refuse]
-[s]Il bersaglio si rifiuta di parlare.[n]→Ciò accade se il risultato della[n]conversazione è un rifiuto.[n][w][e]
+[s]O alvo se recusa a falar.[n]→Isso acontece se o resultado da[n]conversa for uma rejeição.[n][w][e]
 
 [msg TalkMsg_cnt_anger]
-[s]Il bersaglio è irato e contrattacca[n]→Dà di matto se il risultato[n]della conversazione è un rifiuto.[n][w][e]
+[s]O alvo fica com raiva e contra-ataca[n]→Isso acontece se o resultado da[n]conversa for uma rejeição.[n][w][e]
 
 [msg TalkMsg_cnt_unusual]
 [s]Incapaz de conversar devido a efeitos de status.[n][w][e]
@@ -2289,7 +2289,7 @@
 [s]......[n][w][e]
 
 [msg DebugMsg_ERROR]
-[s](Error)[n]→A variable is set[n]to an invalid value.[n][w][e]
+[s](Erro)[n]→Uma variável foi definida[n]para um valor inválido.[n][w][e]
 
 [msg DebugMsg_CHARACTER]
 [s](Debug Mode)[n]Target Personality Type[n][w][e]
@@ -2305,7 +2305,7 @@
 [s][var 0].[n][w][e]
 
 [msg DebugMsg_ENEMY_LV]
-[s]ID Nemico [var 3][n]Livello Nemico [var 0][n]Livello protagonista [var 1][n]AI_CHK_ENIDLV_O([var 0], 1) = [var 2][n][w][e]
+[s]ID Nemico [var 3][n]Nível do Inimigo [var 0][n]Nível do Protagonista [var 1][n]AI_CHK_ENIDLV_O([var 0], 1) = [var 2][n][w][e]
 
 [msg TalkMsg_GUY_RESULT_GET_P_4 [Ann]]
 [s]Se assim for, trate bem[n]o eu dentro de você.[n][w][e]

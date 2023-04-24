@@ -347,7 +347,7 @@
 
 [msg MSG_MORGANA_DAY_0904_2 [Morgana]]
 [s][bup 0 3 3 0 0][vp 8 2 1 1026 65535 0][f 4 10 65535 0 0]Eu não achava que Makoto[n]iria para o Havaí também.[n][w][e]
-[s][vp 8 2 1 0 65535 0][f 4 10 65535 0 0]*suspirar*[n][w][e]
+[s][vp 8 2 1 0 65535 0][f 4 10 65535 0 0]*suspira*[n][w][e]
 
 [msg MSG_MORGANA_DAY_0905_1 [Morgana]]
 [s][bup 0 3 3 0 0][vp 8 2 65535 1027 0 0]......[n][w][e]
@@ -408,7 +408,7 @@
 [s][bup 0 3 5 0 0][vp 8 2 1 1178 65535 0][f 4 10 65535 0 0]Haru se envolveu nessa confusão por minha[n]causa... eu nunca poderia imaginar isso...[n][w][e]
 
 [msg MSG_MORGANA_DAY_1013 [Morgana]]
-[s][bup 0 3 2 0 0][vp 8 2 1 53109 65535 0][f 4 10 65535 0 0]Coisa? Os Phantom Thieves assassinariam[n]Okumura? E enviou uma carta de aviso ao seu[n]diretor?[n][w][e]
+[s][bup 0 3 2 0 0][vp 8 2 1 53109 65535 0][f 4 10 65535 0 0]Quê? Os Phantom Thieves assassinariam[n]Okumura? E enviou uma carta de aviso ao seu[n]diretor?[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Estamos brincando?!?[n]Como eles podem nos acusar de[n]tal coisa?[n][w][e]
 
 [msg MSG_MORGANA_DAY_1014 [Morgana]]

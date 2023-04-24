@@ -25,12 +25,12 @@
 
 [msg MSG_CORP_PLAY_CHECK1 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Se você quiser bater na mãe de Shinya,[n]devemos dizer a ela.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 0 0 0]Você quer ir ao Shinya's?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 0 0 0]Você quer ir ver Shinya?[n][f 1 3 65535][w][e]
 
 [msg MSG_CORP_PLAY_CHECK2 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Ninguém pensa que você está vivo.[n]Se você tomar cuidado,[n]tudo deve ficar bem.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 0 0 0]Se você quiser bater na mãe de Shinya,[n]devemos dizer a ela.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 0 0 0]Você quer ir ao Shinya's?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 0 0 0]Você quer ir ver Shinya?[n][f 1 3 65535][w][e]
 
 [msg ERROR_MSG_000_0_0 [Sojiro]]
 [s][bup 0 103 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ei, estou abrindo uma loja.[n]Você se importaria de parar[n]de jogar no seu telefone?[n][w][e]
@@ -72,7 +72,7 @@
 [s]Se você conhece alguém[n]que gosta de ramen,[n]tente convidá-lo aqui.[n][w][e]
 
 [msg MSG_SPOT_OPEN_ODAIBA]
-[s]Você descobriu um novo[n]ponto de encontro:[n][clr 2]Odaiba's Seaside Park[clr 27].[n][w][e]
+[s]Você descobriu um novo[n]ponto de encontro:[n][clr 2]Parque Beira-Mar Odaiaba[clr 27].[n][w][e]
 [s]Se você conhece alguém que[n]gosta de parques aquáticos,[n]tente convidá-lo aqui.[n][w][e]
 
 [msg MSG_SPOT_OPEN_UENO]
@@ -92,7 +92,7 @@
 [s]Se você conhece alguém que[n]pode gostar do lugar,[n]tente convidá-lo aqui.[n][w][e]
 
 [msg MSG_SPOT_OPEN_MAIHAMA]
-[s]Você descobriu um novo[n]local de encontro:[n][clr 2]Maihama's Destinyland[clr 27].[n][w][e]
+[s]Você descobriu um novo[n]local de encontro:[n][clr 2]Destinyland de Maihama[clr 27].[n][w][e]
 [s]Se você conhece alguém que[n]pode gostar do lugar,[n]tente convidá-lo aqui.[n][w][e]
 
 [msg MSG_SPOT_OPEN_ASAKUSA]
@@ -121,7 +121,7 @@
 [s]Se você conhece alguém que gosta de[n]comer sushi caro,[n]tente convidá-lo aqui.[n][w][e]
 
 [msg MSG_SPOT_OPEN_JINBOCHO]
-[s]Você descobriu um novo[n]ponto de encontro:[n][clr 2]Jinbocho's Book Town[clr 27].[n][w][e]
+[s]Você descobriu um novo[n]ponto de encontro:[n][clr 2]Cidade dos Livros Jinbocho[clr 27].[n][w][e]
 [s]Se você conhece alguém que[n]pode gostar do lugar,[n]tente convidá-lo aqui.[n][w][e]
 [s]Se você quiser, também pode[n]ir lá sozinho para fazer[n]algumas compras.[n][w][e]
 

@@ -9,7 +9,7 @@
 [s][f 4 23 1 850 3 10 0 0][vp 8 2 1 0 850 0]Por que você olha em volta assim? Você parece[n]suspeito, bandido.[n][w][e]
 
 [msg MSG_E24320100_RYUJI_002_ [Ryuji]]
-[s][f 4 23 1 65535 3 10 0 0][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Coisa? Eu estava apenas dando uma olhada ao[n]redor. O maf... Uuuh, um, deixa pra lá.[n][w][e]
+[s][f 4 23 1 65535 3 10 0 0][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Quê? Eu estava apenas dando uma olhada ao[n]redor. O maf... Uuuh, um, deixa pra lá.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Olha, estou indo embora, ok?[n]Agora estou indo para casa e[n]neted um pouco, ok?[n][w][e]
 
 [msg MSG_E24320100_RYUJI_003_ [Oficial de patrulha]]
@@ -112,7 +112,7 @@
 [s]...[e]
 
 [msg MSG_E24320100_SHUJIN_006 [Aluno Shujin Tímido]]
-[s][f 4 23 1 853 3 10 0 0][vp 8 2 1 0 853 0]Coisa? Sobre o cara que foi ameaçado?[n][w][e]
+[s][f 4 23 1 853 3 10 0 0][vp 8 2 1 0 853 0]Quê? Sobre o cara que foi ameaçado?[n][w][e]
 
 [msg MSG_E24320100_SHUJIN_007 [Estudante impertinente de Shujin]]
 [s][f 4 23 1 852 3 10 0 0][vp 8 2 1 0 852 0]Não temos nada para lhe dizer.[n]Provavelmente é você quem[n]o está chantageando![n][w][e]
@@ -121,7 +121,7 @@
 [s][f 4 23 1 853 3 10 0 0][vp 8 2 1 0 853 0]Pare com isso, é [f 4 1]...[n]E se ele tiver ligações com a máfia?[n][w][e]
 
 [msg MSG_E24320100_SHUJIN_006_2 [Aluno Shujin Tímido]]
-[s][f 4 23 1 853 3 10 0 0][vp 8 2 1 0 853 0]Coisa? Sobre o cara que foi ameaçado?[n][w][e]
+[s][f 4 23 1 853 3 10 0 0][vp 8 2 1 0 853 0]Quê? Sobre o cara que foi ameaçado?[n][w][e]
 
 [msg MSG_E24320100_SHUJIN_007_2 [Estudante impertinente de Shujin]]
 [s][f 4 23 1 852 3 10 0 0][vp 8 2 1 0 852 0]Não tenho nada para lhe dizer.[n]Você tem muita coragem de[n]aparecer para nós na escola.[n][w][e]

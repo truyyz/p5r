@@ -696,10 +696,10 @@
 
 [msg MSG_CrossWord_Trivia31 [INFLUÊNCIA]]
 [s]Doença infecciosa que causa febre alta e dor nas[n]articulações. Esse vírus pode sobreviver fora do[n]corpo humano por vários dias.[n][w][e]
-[s]Mentre l'influenza è difficile da combattere a causa[n]della sua mutazione genetica, altre malattie simili[n]sono state debellate, come la peste bovina (2001).[n][w][e]
+[s]Embora a gripe seja difícil de combater devido[n]a sua mutação genética, outras doenças semelhantes[n]foram erradicadas, como a peste bovina (2001).[n][w][e]
 
 [msg MSG_CrossWord_Trivia32 [ILUMINAR]]
-[s]Chiamate "denshoku" ("luci decorative"), luci come[n]strisce a LED o lampadine illuminano cartelli o[n]altro per attirare l'attenzione su una pubblicità.[n][w][e]
+[s]Chamadas de "denshoku" ("luzes decorativas"), luzes como [n] tiras de LED ou lâmpadas iluminam sinais ou [n]outros para chamar a atenção para um anúncio.[n][w][e]
 [s]No passado, as únicas luzes LED coloridas eram[n]vermelhas. Depois que o verde, o azul e o branco[n]foram desenvolvidos, o espectro completo[n]tornou-se disponível para os anunciantes.[n][w][e]
 
 [msg MSG_CrossWord_Trivia33 [CONSENTIMENTO]]
@@ -724,7 +724,7 @@
 
 [msg MSG_CrossWord_Trivia38 [OROCHI]]
 [s]"Yamata-no-Orochi" é um dragão gigante na[n]mitologia japonesa com oito cabeças e oito[n]caudas. Morto por Susano-o enquanto estava[n]inconsciente de causa.[n][w][e]
-[s]Orochi comeu sete filhas de um casal de idosos,[n]então Susano-o se ofereceu para matar o dragão[n]em troca da mão de sua última filha.[n][w][e]
+[s]Orochi comeu sete filhas de um par de idosos,[n]então Susano-o se ofereceu para matar o dragão[n]em troca da mão de sua última filha.[n][w][e]
 
 [msg MSG_TABLE_FRONT_DEFAULT_ [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1165 65535 0]O sofá do clube[n]é bem antigo,[n]mas foi bem limpo.[n][w][e]
@@ -1005,11 +1005,11 @@
 
 [msg SYS_057_1_0 [México Altura]]
 [s][vp 8 2 65535 0 0 0]Diz-se que o café chegou ao México no século[n]XVIII graças aos espanhóis. Hoje, o México é um[n]dos maiores produtores mundiais de café.[n][w][e]
-[s][vp 8 2 65535 0 0 0]Altura ("altezza" in spagnolo) sta a indicare[n]l'altitudine alla quale crescono i chicchi di[n]questo caffè dai toni aciduli e di nocciola.[n][w][e]
+[s][vp 8 2 65535 0 0 0]Altura ("altura" em espanhol) indica[n]a altitude em que crescem os grãos[n]de café com tons ácidos e amendoados.[n][w][e]
 
 [msg SYS_058_1_0 [Brasile N° 2/18]]
 [s][vp 8 2 65535 0 0 0]O Brasil é o maior produtor de café[n]do mundo. O feijão brasileiro é de alta[n]qualidade, amargo e ácido na medida certa.[n][w][e]
-[s][vp 8 2 65535 0 0 0]Noto anche come Santos, il N° 2/18 è uno dei[n]caffè brasiliani più apprezzati. Il 2 indica[n]la qualità, il 18 le dimensioni del chicco.[n][w][e]
+[s][vp 8 2 65535 0 0 0]Também conhecido como Santos, o N° 2/18 é um dos cafés brasileiros mais populares. O 2 indica [n] a qualidade, o 18 o tamanho do grão.[n][w][e]
 
 [msg SYS_059_1_0 [Colômbia Bucaramanga Supremo]]
 [s][vp 8 2 65535 0 0 0]A altitude, o clima chuvoso e o solo[n]das montanhas colombianas são a receita[n]ideal para um café de alta qualidade.[n][w][e]
@@ -1033,7 +1033,7 @@
 
 [msg SYS_064_1_0 [Honduras SHG]]
 [s][vp 8 2 65535 0 0 0]Honduras é um país predominantemente montanhoso.[n]A classificação de seu café é determinada pela[n]altitude em que é cultivado.[n][w][e]
-[s][vp 8 2 65535 0 0 0]Il caffè SHG (Strictly High Grown), come l'SHB,[n]cresce ad altezze elevate. Ha un aroma[n]ricco, fruttato, e una delicata acidità.[n][w][e]
+[s][vp 8 2 65535 0 0 0]O café SHG (Strictly High Grown), como o SHB,[n] cresce em alturas elevadas. Tem um [n]rico aroma frutado e uma delicada acidez.[n][w][e]
 
 [msg SYS_065_1_0 [Guatemala Antígua]]
 [s][vp 8 2 65535 0 0 0]O solo vulcânico da Guatemala é ideal para o[n]café. Os feijões são classificados de acordo com[n]a altitude das lavouras.[n][w][e]
@@ -1955,7 +1955,7 @@
 [s][f 4 10 65535 0 0]Empregada doméstica, professora, não importa[n]em que função.[n]Posso ir até você imediatamente?[n][w][e]
 
 [msg MND_COOP_DOUZOKUSEI]
-[s]Sinto que posso chegar perto de[n]Kawakami graças a Persona[n][var 2] [clr 1][var 5][clr 27]...[n][w][e]
+[s]Sinto que posso me aproximar mais de[n]Kawakami graças a Persona[n][var 2] [clr 1][var 5][clr 27]...[n][w][e]
 
 [msg MND_COOP_RANKUP_OK]
 [s]Sinto que meu vínculo[n]com Kawakami se fortalecerá em breve...[n][w][e]
@@ -2005,12 +2005,12 @@
 [s][bup 0 109 600 65535 1][f 4 10 65535 0 0]Bem, me ligue de volta quando você[n]guardar algo. Alô.[n][w][e]
 
 [msg MSG_C14_YES_01_00 [Kawakami]]
-[s][bup 0 109 604 65535 1][f 4 10 65535 0 0][vp 8 2 1 15040 65535 0]Coisa? Você realmente quer[n]pedir meus serviços?!?[n][w][e]
+[s][bup 0 109 604 65535 1][f 4 10 65535 0 0][vp 8 2 1 15040 65535 0]Quê? Você realmente quer[n]pedir meus serviços?!?[n][w][e]
 [s][bup 0 109 601 65535 1][f 4 10 65535 0 0]Eu vou até você imediatamente...[n][w][e]
 [s][f 4 10 65535 0 0]Eu gostaria que você limpasse[n]primeiro! Assim você facilitará meu[n]trabalho! [clr 2][f 1 9 0][clr 27][n][w][e]
 
 [msg MSG_C14_YES_02_00 [Kawakami]]
-[s][bup 0 109 604 65535 1][f 4 10 65535 0 0][vp 8 2 1 15040 65535 0]Coisa? A sério...?[n][w][e]
+[s][bup 0 109 604 65535 1][f 4 10 65535 0 0][vp 8 2 1 15040 65535 0]Quê? A sério...?[n][w][e]
 [s][bup 0 109 601 65535 1][f 4 10 65535 0 0]Q-Quero dizer, obrigada por[n]perguntar sobre mim.[n][w][e]
 [s][f 4 10 65535 0 0]Então, por favor, espere por mim, Mestre! Espero[n]que você esteja com fome como lobos![n][w][e]
 
@@ -2157,7 +2157,7 @@
 [s]Se você conhece alguém[n]que gosta de ramen,[n]tente convidá-lo aqui.[n][w][e]
 
 [msg MSG_SPOT_OPEN_ODAIBA]
-[s]Você descobriu um novo[n]ponto de encontro:[n][clr 2]Odaiba's Seaside Park[clr 27].[n][w][e]
+[s]Você descobriu um novo[n]ponto de encontro:[n][clr 2]Parque Beira-Mar Odaiaba[clr 27].[n][w][e]
 [s]Se você conhece alguém que[n]gosta de parques aquáticos,[n]tente convidá-lo aqui.[n][w][e]
 
 [msg MSG_SPOT_OPEN_UENO]
@@ -2177,7 +2177,7 @@
 [s]Se você conhece alguém que pode gostar de[n]Chinatown, convide-o para ir com você.[n][w][e]
 
 [msg MSG_SPOT_OPEN_MAIHAMA]
-[s]Você descobriu um novo[n]local de encontro:[n][clr 2]Maihama's Destinyland[clr 27].[n][w][e]
+[s]Você descobriu um novo[n]local de encontro:[n][clr 2]Destinyland de Maihama[clr 27].[n][w][e]
 [s]Se você conhece alguém que pode gostar de[n]Destinyland, convide-o para ir com você.[n][w][e]
 
 [msg MSG_SPOT_OPEN_ASAKUSA]
@@ -2206,7 +2206,7 @@
 [s]Se você conhece alguém que gosta de[n]comer sushi caro,[n]tente convidá-lo aqui.[n][w][e]
 
 [msg MSG_SPOT_OPEN_JINBOCHO]
-[s]Você descobriu um novo[n]local de encontro:[n][clr 2]Jinbocho's Book Town[clr 27].[n][w][e]
+[s]Você descobriu um novo[n]local de encontro:[n][clr 2]Cidade dos Livros Jinbocho[clr 27].[n][w][e]
 [s]Se você conhece alguém que[n]gostaria de livrarias,[n]convide-o para ir com você.[n][w][e]
 [s]Se você quiser, também pode[n]ir lá sozinho para fazer[n]algumas compras.[n][w][e]
 

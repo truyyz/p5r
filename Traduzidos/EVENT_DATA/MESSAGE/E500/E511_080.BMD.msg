@@ -114,7 +114,7 @@
 
 [msg MSG_030_0_0 [Akechi]]
 [s][bup 0 9 10 65535 0][f 4 10 65535 0 0][vp 8 0 0 34 65535 0]Primeiro, preciso de[n]informações.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 35 65535 0]Você pode me dizer o que aconteceu...[n]depois que nos separamos[n]no Shido Palace?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 35 65535 0]Você pode me dizer o que aconteceu...[n]depois que nos separamos[n]no Palácio de Shido?[n][f 1 3 65535][w][e]
 
 [msg MSG_031_0_0 [Akechi]]
 [s][bup 0 9 10 65535 0][f 4 10 65535 0 0][vp 8 0 0 36 65535 0]...Entendo.[n][f 1 3 65535][w][e]

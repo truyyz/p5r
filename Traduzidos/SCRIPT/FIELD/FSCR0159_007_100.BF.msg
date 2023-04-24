@@ -8,7 +8,7 @@
 [s][bup 0 2 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7167 65535 0]Mas o que...?[n][w][e]
 
 [msg D07_02_e410_020_mes04 [Futaba]]
-[s][bup 0 8 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Isso também parece ser[n]a Shadow. Tome cuidado.[n][w][e]
+[s][bup 0 8 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Isso também parece ser[n]a Sombra. Tome cuidado.[n][w][e]
 
 [msg D07_02_e410_020_mes05 [Ryuji]]
 [s][bup 0 2 105 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Parece mais poderoso que os[n]outros...[n]a vigilância está aumentando?[n][w][e]

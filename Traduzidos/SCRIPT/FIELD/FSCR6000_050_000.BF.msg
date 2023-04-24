@@ -37,7 +37,7 @@
 [s][vp 1 0 0 0 0 0]Oh, Cristo. Vocês Phantom Thieves[n]me dão nos nervos. Saia daqui,[n]antes que eu pense nisso![n][w][e]
 
 [msg QUEST_50_BOSS_EV_mes04 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 0 0 0]Poder![n][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 0 0 0]Vamos lá![n][w][e]
 
 [msg MSG_020_0_0 [Sombra de Wakasa]]
 [s][vp 1 0 0 0 0 0]Ugh, eu era um bastardo. Ah Merda...[n][w][e]

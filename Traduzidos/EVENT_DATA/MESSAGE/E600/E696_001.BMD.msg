@@ -85,7 +85,7 @@
 
 [msg MSG_021_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Tomei um mega café da manhã, por isso me atrasei.[n]Tenho que manter força para essas coisas![n][f 1 3 65535][w][e]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]De qualquer forma, estou me sentindo[n]sobrecarregado. Espero poder me soltar no Palace[n]hoje, mas depende de você.[n][f 1 3 65535][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]De qualquer forma, estou me sentindo[n]sobrecarregado. Espero poder me soltar no Palácio[n]hoje, mas depende de você.[n][f 1 3 65535][w][e]
 
 [sel SEL_022_0_0 top]
 [s]Claro![f 2 7 0 1 971 1][e]
@@ -1084,7 +1084,7 @@
 [s]Eu ainda não decidi.[e]
 
 [msg MSG_263_0_0 [Haru]]
-[s][bup 0 7 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 340 65535 0]Coisa? Hoje?!?[n][f 1 3 65535][w][e]
+[s][bup 0 7 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 340 65535 0]Quê? Hoje?!?[n][f 1 3 65535][w][e]
 [s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 341 65535 0]Ok. Vamos nos encontrar depois da escola.[n]Mal posso esperar.[n][f 1 3 65535][w][e]
 
 [msg MSG_264_0_0 [Haru]]
@@ -2392,7 +2392,7 @@
 [s][bup 0 10 901 65535 0][f 4 10 65535 0 0][vp 8 2 0 57021 65535 0]Bom dia, [f 4 2]-senpai.[n][f 1 3 65535][w][e]
 
 [msg MSG_566_0_0 [Sumire]]
-[s][bup 0 10 903 65535 0][f 4 10 65535 0 0][vp 8 2 0 57113 65535 0]Encontramos um caminho para o[n]Treasure. Agora é só esperar...[n][f 1 3 65535][w][e]
+[s][bup 0 10 903 65535 0][f 4 10 65535 0 0][vp 8 2 0 57113 65535 0]Encontramos um caminho para o[n]Tesouro. Agora é só esperar...[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0]Eu entendo, mas ainda não consigo[n]me acalmar.[n][f 1 3 65535][w][e]
 [s][bup 0 10 900 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Hum, se tivermos tempo, podemos[n]ir ao Mementos?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Eu gostaria de ter mais dicas sobre[n]como lutar no Metaverso...[n][f 1 3 65535][w][e]

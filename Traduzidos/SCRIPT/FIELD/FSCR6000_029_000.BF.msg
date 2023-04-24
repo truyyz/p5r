@@ -1,8 +1,8 @@
 [msg QUEST_29_ENTER_mes01 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1167 65535 0]...Então, isso é[n]Shadow of Kiritani, hein?[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1167 65535 0]...Então, isso é[n]Sombra of Kiritani, hein?[n][w][e]
 
 [msg QUEST_29_ENTER_mes01f [Futaba]]
-[s][bup 0 8 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9178 65535 0]Uau, aí está![n]Shadow of Kiritani.[n][w][e]
+[s][bup 0 8 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9178 65535 0]Uau, aí está![n]Sombra of Kiritani.[n][w][e]
 
 [msg QUEST_29_ENTER_mes02 [Ann]]
 [s][bup 0 4 3 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Fico arrepiado só de olhar.[n][w][e]

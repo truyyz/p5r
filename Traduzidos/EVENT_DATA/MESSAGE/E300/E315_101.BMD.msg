@@ -1,5 +1,5 @@
 [msg MSG_000_0_0 [Diretor]]
-[s][bup 0 204 4 0 0][f 4 10 65535 0 0][vp 8 0 0 1 4 0]Coisa? Eu estava em uma revista?[n][f 1 3 65535][w][e]
+[s][bup 0 204 4 0 0][f 4 10 65535 0 0][vp 8 0 0 1 4 0]Quê? Eu estava em uma revista?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 2 4 0]Mas mandei ficar calado[n]sobre o caso do prof. Kamoshida...[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Diretor]]

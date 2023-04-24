@@ -39,7 +39,7 @@
 [s][vp 9 2 65535 58972 0 0]Um professor está acabado se[n]colocar as mãos nos alunos.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_001_11_]
-[s][vp 9 2 65535 59022 0 0]Um professor assediando[n]alunos? Nada di[n]estranho, para o Japão...[n][f 1 2 180][e]
+[s][vp 9 2 65535 59022 0 0]Um professor assediando[n]alunos? Nada[n]estranho, para o Japão...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_001_12_]
 [s][vp 9 2 65535 45352 0 0]Eu me pergunto se meu filho é[n]vítima de abuso físico,[n]na escola dele...[n][f 1 2 180][e]
@@ -1447,7 +1447,7 @@
 [s][vp 8 2 1 0 51 0]Não acredito que vi a exposição dele. Você e seu[n]conselho estúpido![n][w][e]
 
 [msg MSG_FAMILY_030_020_000 [Pai bondoso]]
-[s][f 4 23 1 50 3 10 0 10][vp 8 2 1 0 50 0]Coisa? Mas se você encheu[n]com elogios! Eu cancelei[n]golf com o chefe por...[n][w][e]
+[s][f 4 23 1 50 3 10 0 10][vp 8 2 1 0 50 0]Quê? Mas se você encheu[n]com elogios! Eu cancelei[n]golf com o chefe por...[n][w][e]
 
 [msg MSG_FAMILY_030_030_000 [Menina com cabelo curto]]
 [s][f 4 23 1 52 3 10 0 10][vp 8 2 1 0 52 0]Na escola, todas as crianças[n]imitam Madarame.[n][w][e]
@@ -2203,7 +2203,7 @@
 [s][f 4 23 1 31 3 10 0 10][vp 8 2 1 0 31 0]...E-Hum, não, tudo bem.[n]É muito longe e[n]eu ficaria muito cansado.[n][w][e]
 
 [msg MSG_AKOGARE_130_030_000 [Menino Kichijoji]]
-[s][f 4 23 1 30 3 10 0 10][vp 8 2 1 0 30 0]Coisa? Você tem dito isso o tempo todo[n]ultimamente. Existe algum lugar que você[n]gostaria de ir comigo?[n][w][e]
+[s][f 4 23 1 30 3 10 0 10][vp 8 2 1 0 30 0]Quê? Você tem dito isso o tempo todo[n]ultimamente. Existe algum lugar que você[n]gostaria de ir comigo?[n][w][e]
 
 [msg MSG_AKOGARE_130_040_000 [Garota Kichijoji]]
 [s][f 4 23 1 31 3 10 0 10][vp 8 2 1 0 31 0]...É claro. Tantos lugares.[n]Mas sinto que não deveria.[n][w][e]
@@ -2728,7 +2728,7 @@
 [s][f 4 23 1 214 3 10 0 10][vp 8 2 1 0 214 0]...Eu não tinha ideia de que meu chefe[n]estava me protegendo, aceitando as[n]reclamações do CEO por mim.[n][w][e]
 
 [msg MSG_NOMIYA_SUIT_014_01_0 [Cara de terno e gravata]]
-[s][f 4 23 1 214 3 10 0 10][vp 8 2 1 0 214 0]*suspirar*[n][w][e]
+[s][f 4 23 1 214 3 10 0 10][vp 8 2 1 0 214 0]*suspira*[n][w][e]
 [s][f 4 23 1 214 3 10 0 10][vp 8 2 1 0 214 0]Ele continuou se desculpando o tempo todo, como[n]se fosse tudo culpa dele. E eu o tratei como um[n]lixo...[n][w][e]
 [s][f 4 23 1 214 3 10 0 10][vp 8 2 1 0 214 0]Não consigo mais olhar nos olhos dele...[n][w][e]
 
@@ -3255,7 +3255,7 @@
 [s]Aparentemente, ele estava transmitindo coisas[n]realmente idiotas e infantis na época.[n][w][e]
 
 [msg MSG_F005_001_02_Q80_HINT_4 [Estudante gordinho]]
-[s][f 4 23 1 656 3 10 0 10][vp 8 2 1 0 656 0]Coisa? Eu não acredito nisso! Eu quero ver![n][w][e]
+[s][f 4 23 1 656 3 10 0 10][vp 8 2 1 0 656 0]Quê? Eu não acredito nisso! Eu quero ver![n][w][e]
 
 [msg MSG_F005_001_02_Q80_HINT_5 [Estudante magro]]
 [s][f 4 23 1 657 3 10 0 10][vp 8 2 1 0 657 0]Mas então ele cancelou tudo, já que[n]ele não conseguiu[n]um seguidor.[n][w][e]
@@ -3313,7 +3313,7 @@
 [s][vp 8 2 1 0 60 0]Avisarei quando precisar novamente. Obrigado[n]amigo![n][w][e]
 
 [msg MSG_TRADER_010_011_001 [Sakai o mercador]]
-[s][f 4 23 1 60 3 10 0 10][vp 8 2 1 0 60 0]Coisa? Que insensível.[n][w][e]
+[s][f 4 23 1 60 3 10 0 10][vp 8 2 1 0 60 0]Quê? Que insensível.[n][w][e]
 [s][vp 8 2 1 0 60 0]Bem, deixe-me saber se você mudar de ideia.[n][w][e]
 
 [msg MSG_TRADER_END [Sakai o mercador]]

@@ -1927,7 +1927,7 @@
 [s]Esta negociação é apenas um desperdício de[n]palavras.[n][w][e]
 
 [msg TalkMsg_SHOOT_REACTION01]
-[s]E-Explorando o prestígio dos[n]poderosos... eu vejo[n]já com você...[n][w][e]
+[s]E-Explorando o prestígio dos[n]poderosos... entendo[n]já com você...[n][w][e]
 [s]Ah! Os últimos momentos passados[n]juntos despertaram[n]a verdade em mim.[n][w][e]
 
 [msg TalkMsg_SHOOT_REACTION02]
@@ -2277,10 +2277,10 @@
 [s]Outro inimigo entrou na conversa.[n][w][e]
 
 [msg TalkMsg_cnt_interruptP]
-[s]Dopo aver parlato con un bersaglio,[n]i compagni possono intervenire per[n]accelerare le cose (% di chance).[n][w][e]
+[s]Depois de falar com um alvo,[n]companheiros de equipe podem intervir para[n]acelerar as coisas (% de chance).[n][w][e]
 
 [msg TalkMsg_cnt_refuse]
-[s]Il bersaglio si rifiuta di parlare.[n]→Ciò accade se il risultato della[n]conversazione è un rifiuto.[n][w][e]
+[s]O alvo se recusa a falar.[n]→Isso acontece se o resultado da [n]conversa for uma rejeição.[n][w][e]
 
 [msg TalkMsg_cnt_anger]
 [s]O alvo fica com raiva e revida.[n]Falha se o resultado[n]da conversa for uma rejeição.[n][w][e]

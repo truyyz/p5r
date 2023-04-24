@@ -196,7 +196,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Enquanto estamos nisso, eu gostaria[n]de falar sobre algo.[n][w][e]
 
 [msg MND_COOP_DOUZOKUSEI]
-[s]Sinto que posso chegar perto de[n]Shinya graças a Persona[n][var 2] [clr 1][var 5][clr 27]...[n][w][e]
+[s]Sinto que posso me aproximar mais de[n]Shinya graças a Persona[n][var 2] [clr 1][var 5][clr 27]...[n][w][e]
 
 [msg MND_COOP_RANKUP_OK]
 [s]Eu sinto que meu vínculo com Shinya vai se[n]fortalecer em breve...[n][w][e]
@@ -358,7 +358,7 @@
 [s]Se você conhece alguém[n]que gosta de ramen,[n]tente convidá-lo aqui.[n][w][e]
 
 [msg MSG_SPOT_OPEN_ODAIBA]
-[s]Você descobriu um novo[n]ponto de encontro:[n][clr 2]Odaiba's Seaside Park[clr 27].[n][w][e]
+[s]Você descobriu um novo[n]ponto de encontro:[n][clr 2]Parque Beira-Mar Odaiaba[clr 27].[n][w][e]
 [s]Se você conhece alguém que[n]gosta de parques aquáticos,[n]tente convidá-lo aqui.[n][w][e]
 
 [msg MSG_SPOT_OPEN_UENO]
@@ -378,7 +378,7 @@
 [s]Se você conhece alguém[n]que pode gostar do lugar,[n]tente convidá-lo aqui.[n][w][e]
 
 [msg MSG_SPOT_OPEN_MAIHAMA]
-[s]Você descobriu um novo[n]local de encontro:[n][clr 2]Maihama's Destinyland[clr 27].[n][w][e]
+[s]Você descobriu um novo[n]local de encontro:[n][clr 2]Destinyland de Maihama[clr 27].[n][w][e]
 [s]Se você conhece alguém[n]que pode gostar do lugar,[n]tente convidá-lo aqui.[n][w][e]
 
 [msg MSG_SPOT_OPEN_ASAKUSA]
@@ -407,7 +407,7 @@
 [s]Se você conhece alguém que gosta de[n]comer sushi caro,[n]tente convidá-lo aqui.[n][w][e]
 
 [msg MSG_SPOT_OPEN_JINBOCHO]
-[s]Você descobriu um novo[n]local de encontro:[n][clr 2]Jinbocho's Book Town[clr 27].[n][w][e]
+[s]Você descobriu um novo[n]local de encontro:[n][clr 2]Cidade dos Livros Jinbocho[clr 27].[n][w][e]
 [s]Se você conhece alguém[n]que pode gostar do lugar,[n]tente convidá-lo aqui.[n][w][e]
 [s]Se você quiser, também pode[n]ir lá sozinho para fazer[n]algumas compras.[n][w][e]
 

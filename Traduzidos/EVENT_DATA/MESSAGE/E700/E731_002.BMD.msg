@@ -82,11 +82,11 @@
 
 [msg MSG_021_0_0 [Prof. Chouno]]
 [s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37209 65535 0]Excelente![n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Ben fatto. È il termine persiano[n]per lapislazzuli, l♀zuward, che[n]alla fine è diventato "azzurro".[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Bom trabalho. É o persa[n]para lápis-lazúli, l♀zuward, que[n]eventualmente se tornou "azul".[n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Prof. Chouno]]
 [s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37217 65535 0]Quanto tempo você quer pensar nisso!?![n]Você não me serve com o[n]olhar perdido no espaço![n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]No, non disturbarti a rispondere.[n]Azzurro viene dal termine persiano[n]per lapislazzuli, l♀zuward.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Não, não se preocupe em responder.[n]Azure vem da palavra persa[n]para lápis-lazúli, l♀zuward.[n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Prof. Chouno]]
 [s][bup 0 304 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]A palavra estava manchada do[n]francês antigo. Uma pequena parada[n]em sua longa jornada, digamos.[n][f 1 3 65535][w][e]
@@ -159,7 +159,7 @@
 
 [msg MSG_040_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]No toque dos sinos do mosteiro[n]jetavana ecoa[n]a transitoriedade de todas as coisas.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]I fiori degli alberi di s♀la...[n]Com'era... Chi è orgoglioso...[n]No, i sogni di primavera...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]As flores da árvore shala— Espere.[n]Pessoas orgulhosas...[n]Não, um sonho de primavera......[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Hahaha...Esquece.[n]Vou pegar meu livro.[n]Espera.[n][f 1 3 65535][w][e]
 
 [msg MSG_041_0_0 [Morgana]]
@@ -263,7 +263,7 @@
 
 [msg MSG_064_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]No toque dos sinos do mosteiro[n]jetavana ecoa[n]a transitoriedade de todas as coisas.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]I fiori degli alberi di s♀la...[n]Com'era... Chi è orgoglioso...[n]No, i sogni di primavera...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]As flores da árvore shala— Espere.[n]Pessoas orgulhosas...[n]Não, um sonho de primavera......[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Hahaha...Esquece.[n]Vou pegar meu livro.[n]Espera.[n][f 1 3 65535][w][e]
 
 [msg MSG_065_0_0 [Morgana]]

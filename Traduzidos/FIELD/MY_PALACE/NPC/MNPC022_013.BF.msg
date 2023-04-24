@@ -74,7 +74,7 @@
 [s][bup 0 4 3 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 32 10 0 10][vp 8 2 1 6194 65535 0]Oh, uhm... Haha, eu nunca[n]nunca pensei sobre isso...[n][w][e]
 
 [msg MES_GROUP5_04 [Morgana]]
-[s][bup 0 3 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 33 10 0 10]Eu te aviso, se você disser Ryuji's,[n]eu não sei se eu poderia me recuperar.[n][w][e]
+[s][bup 0 3 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 33 10 0 10]Eu te aviso, se você contar ao Ryuji,[n]eu não sei se eu conseguirei me recuperar.[n][w][e]
 
 [msg MES_GROUP5_05 [Ann]]
 [s][bup 0 4 2 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 30 10 0 10][vp 8 2 1 6187 65535 0]Então você nem me dá escolha![n][w][e]
@@ -95,7 +95,7 @@
 [s][bup 0 9 0 65535 0][vp 8 2 1 8127 65535 0]......[n][w][e]
 
 [msg MES_GROUP7_01 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 3 10 0 10]Coisa? Minha pessoa tem[n]algo errado?[n][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 3 10 0 10]Quê? Minha pessoa tem[n]algo errado?[n][w][e]
 
 [msg MES_GROUP7_02 [Akechi]]
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 51 10 50 10]Não, eu só estava interessado.[n][w][e]

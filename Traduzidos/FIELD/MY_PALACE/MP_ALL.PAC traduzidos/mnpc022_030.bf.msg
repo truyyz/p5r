@@ -95,7 +95,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]A piso no coração de uma jovem de luto seria[n]contra o espírito do jornalismo.[n][w][e]
 
 [msg MES_GROUP8_01 [Yusuke]]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 53702 65535 0]When we ran into Haru's fiancé in the[n]beco...[n][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 53702 65535 0]Quando encontramos o noivo de Haru no[n]beco...[n][w][e]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 3 10 0 10]Se bem me lembro, foi você quem veio à[n]defesa de Morgana primeiro, Ryuji.[n][w][e]
 [s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 3 10 0 10]Na época, você foi quem estava mais chateado[n]com ele... e ainda assim você também ficou[n]mais chateado em seu nome.[n][w][e]
 

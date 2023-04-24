@@ -9,7 +9,7 @@
 [s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Mas é possível que a[n]partida seja fraudada, certo?[n][w][e]
 
 [msg D06_07_e380_110_mes04 [Ryuji]]
-[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Se não tentarmos, nunca saberemos. Poder![n][w][e]
+[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Se não tentarmos, nunca saberemos. Vamos lá![n][w][e]
 
 [msg D06_07_e380_110_mes05 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Você só quer jogar alguns jogos...[n][w][e]

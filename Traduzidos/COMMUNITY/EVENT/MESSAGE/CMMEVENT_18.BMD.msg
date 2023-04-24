@@ -1,6 +1,6 @@
 [msg CMM_EVENT_OPEN]
 [s][vp 1 0 0 0 0 0]Você desbloqueou o[n]Confidente da Arcana: a Lua![n][f 1 3 65535][w][e]
-[s][vp 1 0 0 0 0 0]Mesclando Arcanum Personas: A Lua[n]agora concederá a você XP[n]graças ao Arcanum Impetus![n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Mesclando Personas de Arcana: A Lua[n]agora concederá a você XP[n]graças ao Arcanum Impetus![n][f 1 3 65535][w][e]
 [s][vp 1 0 0 0 0 0]Você pode sentir o [clr 1]Apoio[clr 27] de[n]Mishima![n][f 1 3 65535][w][e]
 
 [msg CMM_EVENT_RANKUP_2]

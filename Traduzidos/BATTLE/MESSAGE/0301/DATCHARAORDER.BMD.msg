@@ -93,7 +93,7 @@
 [s][vp 8 0 2 1057 0 3]É hora de mostrar do que é feito um Phantom[n]Thief profissional![n][w][e]
 
 [msg charaorder_Morgana_12 [Morgana]]
-[s][vp 8 0 2 1058 0 3]Tudo bem, agora cabe a você pegar o[n]Treasure![n][w][e]
+[s][vp 8 0 2 1058 0 3]Tudo bem, agora cabe a você pegar o[n]Tesouro![n][w][e]
 
 [msg charaorder_Ann_10 [Ann]]
 [s][bup 0 4 102 65535 0][f 4 10 65535 0 0][vp 8 0 2 1059 0 4]Ok, vou chamar a atenção de Kamoshida![n][w][e]

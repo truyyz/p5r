@@ -6,11 +6,11 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Uma multidão de pessoas me[n]ansiedade, mas um cardume de peixes é[n]estranhamente fofo![n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Futaba]]
-[s][bup 0 8 1 4 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Bem, um encontro no aquário?[n]Um grande clássico. Então nós vamos[n]fazer as outras coisas como um casal também.[n][f 1 3 65535][w][e]
+[s][bup 0 8 1 4 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Bem, um encontro no aquário?[n]Um grande clássico. Então nós vamos[n]fazer as outras coisas como um par também.[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Futaba]]
 [s][bup 0 8 1 4 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]O que é, tenho que dizer em voz alta?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Coisas de casal! Segurando[n]mãos no escuro, ou abraçando[n]a parede...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Coisas de par! Segurando[n]mãos no escuro, ou abraçando[n]a parede...[n][f 1 3 65535][w][e]
 [s][bup 0 8 7 4 0][f 4 10 65535 0 0][f 4 24 0 4 6 39 5 100][vp 8 0 0 6 65535 0]...Hum, esqueça.[n]Só de pensar nisso me envergonha.[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Futaba]]

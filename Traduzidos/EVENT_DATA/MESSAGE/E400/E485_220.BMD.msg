@@ -107,7 +107,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 41 13 0]Eu estive perseguindo você o tempo todo![n][f 1 3 65535][w][e]
 
 [msg MSG_032_0_0 [Futaba]]
-[s][bup 0 8 5 65535 0][f 4 10 65535 0 0][vp 8 0 0 42 65535 0]Coisa? Você estava nos seguindo?[n][f 1 3 65535][w][e]
+[s][bup 0 8 5 65535 0][f 4 10 65535 0 0][vp 8 0 0 42 65535 0]Quê? Você estava nos seguindo?[n][f 1 3 65535][w][e]
 
 [msg MSG_033_0_0 [Morgana]]
 [s][bup 0 3 7 0 0][f 4 10 65535 0 0][vp 8 0 0 43 65535 0]Não tínhamos ideia.[n][f 1 3 65535][w][e]

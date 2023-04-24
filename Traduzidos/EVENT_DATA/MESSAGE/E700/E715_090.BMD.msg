@@ -154,7 +154,7 @@
 [msg MSG_033_0_0 [Ohya]]
 [s][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 16018 65535 0]Ei, então... por que você[n]faz tanto por mim?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sei que no começo era[n]pelas matérias, mas agora não tem[n]nada que te obrigue a ficar.[n][f 1 3 65535][w][e]
-[s][bup 0 107 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Oooh, entendi. Quando eu[n]disse ao chefe que éramos um[n]casal, você me levou a sério?[n][f 1 3 65535][w][e]
+[s][bup 0 107 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Oooh, entendi. Quando eu[n]disse ao chefe que éramos um[n]par, você me levou a sério?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]As crianças de hoje[n]são tão ingênuas![n][f 1 3 65535][w][e]
 
 [msg MND_039_0_0]
@@ -165,7 +165,7 @@
 [s][vp 8 0 0 0 65535 0]Já estou [clr 2]namorando[n]outra garota[clr 27]...[n][f 1 3 65535][w][e]
 
 [msg MSG_039_7_0 [Ohya]]
-[s][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]A encenação do casal...[n][f 1 3 65535][w][e]
+[s][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]A encenação do par...[n][f 1 3 65535][w][e]
 
 [sel SEL_040_0_0 top]
 [s]Eu levei isso a sério.[e]

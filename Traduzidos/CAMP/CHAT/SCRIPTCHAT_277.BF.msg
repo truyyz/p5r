@@ -182,7 +182,7 @@
 [s][f 5 14]Eu também. Desisto.[n][w][e]
 
 [msg MSG_047_2_0 [Makoto]]
-[s][f 5 14]Mas ele realmente tem[n]a Shadow?[n][w][e]
+[s][f 5 14]Mas ele realmente tem[n]a Sombra?[n][w][e]
 [s][f 5 14]Deve haver algum outro[n]motivo para isso.[n][w][e]
 
 [msg MSG_048_2_0 [Akechi]]

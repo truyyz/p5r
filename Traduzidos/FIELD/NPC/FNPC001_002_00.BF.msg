@@ -3257,7 +3257,7 @@
 
 [msg MSG_HOMELESS_DAY_011_1_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]Onde quer que eu vá, ouço sobre os Phantom[n]Thieves. Eles os chamam de heróis contemporâneos.[n][w][e]
-[s][vp 8 2 1 0 30 0]Se eu pedisse aos Phantom Thieves[n]para me ajudar, talvez eles ajudassem[n]a clarear minha cabeça. *suspirar*[n][w][e]
+[s][vp 8 2 1 0 30 0]Se eu pedisse aos Phantom Thieves[n]para me ajudar, talvez eles ajudassem[n]a clarear minha cabeça. *suspira*[n][w][e]
 
 [msg MSG_HOMELESS_DAY_011_2_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]Algo parecido. Talvez eu devesse[n]perguntar aos Fan Thieves...[n][w][e]

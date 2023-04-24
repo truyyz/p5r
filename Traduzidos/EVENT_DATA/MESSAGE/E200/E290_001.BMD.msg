@@ -104,7 +104,7 @@
 [s][vp 8 0 0 0 65535 0][f 5 14]Eu vou morrer aqui.[n][f 1 3 65535][w][e]
 
 [msg MSG_031_0_0 [Ann]]
-[s][bup 0 4 0 1 0][f 4 10 65535 0 0][vp 8 0 0 26 65535 0]Coisa? Morrer...?[n][f 1 3 65535][w][e]
+[s][bup 0 4 0 1 0][f 4 10 65535 0 0][vp 8 0 0 26 65535 0]Quê? Morrer...?[n][f 1 3 65535][w][e]
 
 [msg MSG_032_0_0 [Alibaba]]
 [s][vp 8 0 0 0 65535 0][f 5 14]Temos que continuar?[n][f 1 3 65535][w][e]

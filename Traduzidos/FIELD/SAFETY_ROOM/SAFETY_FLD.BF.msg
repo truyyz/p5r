@@ -2098,7 +2098,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Não seria melhor tentar[n]não ser pego?[n][w][e]
 
 [msg BRIEFING_LV_CHK_mes04 [Yusuke]]
-[s][bup 0 5 0 65535 0][f 4 23 1 5 3 5 11 5][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Devemos prestar atenção[n]particular à patrulha Shadow[n]on.[n][w][e]
+[s][bup 0 5 0 65535 0][f 4 23 1 5 3 5 11 5][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Devemos prestar atenção[n]particular à patrulha Sombra[n]on.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Se eles nos pegarem,[n]estaremos em sérios apuros.[n][w][e]
 
 [msg BRIEFING_LV_CHK_mes05 [Makoto]]
@@ -2752,7 +2752,7 @@
 [msg KAMOSHIDA_FIRST_mes04 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][f 4 23 1 3 3 5 11 5][vp 8 0 1 4 65535 0]Os tesouros são a forma física[n]que os desejos distorcidos[n]dos senhores do palácio assumem.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 5 65535 0]Eles são o coração pulsante de[n]Palácios. Se os roubarmos, os Palácios[n]devem desabar... eu acho.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 1 6 65535 0]Dito isso, também não sei qual[n]forma[n]Kamoshida's Treasure tem.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 1 6 65535 0]Dito isso, também não sei qual[n]forma o[n]Tesouro de Kamoshida tem.[n][f 1 3 65535][w][e]
 
 [msg KAMOSHIDA_FIRST_mes05 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 23 1 4 3 5 11 5][vp 8 0 1 7 65535 0]E onde podemos encontrá-lo?[n][f 1 3 65535][w][e]
@@ -3248,7 +3248,7 @@
 [s]Não seja ridículo.[e]
 
 [msg OKUMURA_START_mes17 [Makoto]]
-[s][bup 0 6 3 65535 0][f 4 10 65535 0 0][f 4 23 1 6 3 5 11 5][vp 8 0 1 23 65535 0]*suspirar*[n][w][e]
+[s][bup 0 6 3 65535 0][f 4 10 65535 0 0][f 4 23 1 6 3 5 11 5][vp 8 0 1 23 65535 0]*suspira*[n][w][e]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 1 24 65535 0]...De qualquer forma, se Haru[n]acompanhou a conversa, nós[n]não temos mais nada para ensiná-la.[n][w][e]
 
 [msg D06_AKECHI_MEETING_mes01 [Akechi]]
@@ -3440,7 +3440,7 @@
 [s][bup 0 2 7 65535 0][f 4 10 65535 0 0][vp 8 0 1 1 65535 0]Devemos enviar carta[n]de desafio...[n][w][e]
 
 [msg D05_YOKOKU_01 [Ryuji]]
-[s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 0 1 1 65535 0]Bem então! Poder![n][w][e]
+[s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 0 1 1 65535 0]Bem então! Vamos lá![n][w][e]
 
 [msg D04_YOKOKU_CHECK_00 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 1 1 65535 0]Tem certeza de que estamos prontos?[n][w][e]
@@ -3550,10 +3550,10 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1057 65535 0]Não me lembro?[n]O Palácio de Kaneshiro não existe mais.[n][w][e]
 
 [msg Dungeon_clear_04 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1057 65535 0]Você não viu o Futaba Palace[n]cair? Não há mais[n]coisa para explorar lá agora.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1057 65535 0]Você não viu o Palácio de Futaba[n]cair? Não há mais[n]coisa para explorar lá agora.[n][w][e]
 
 [msg Dungeon_clear_05 [Morgana]]
-[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 1 1178 65535 0]Eu sei que você gosta de explorar, mas[n]Okumura Palace se foi...[n][w][e]
+[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 1 1178 65535 0]Eu sei que você gosta de explorar, mas[n]Palácio de Okumura se foi...[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]E ele também era nossa única fonte de pistas...[n][w][e]
 
 [msg Dungeon_clear_06 [Morgana]]
@@ -3717,7 +3717,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Em Mementos, aparentemente,[n]podemos atingir o alvo[n]diretamente.[n][w][e]
 
 [msg MSG_1st_QUEST_EVENT_04 [Ryuji]]
-[s][bup 0 2 4 65535 0][f 4 10 65535 0 0][vp 8 2 1 7182 65535 0]Coisa? Não temos que enviar[n]cartas de desafio?[n][w][e]
+[s][bup 0 2 4 65535 0][f 4 10 65535 0 0][vp 8 2 1 7182 65535 0]Quê? Não temos que enviar[n]cartas de desafio?[n][w][e]
 
 [msg MSG_1st_QUEST_EVENT_04b [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Nesse caso, já existe algo[n]que serve como carta-desafio.[n][w][e]
@@ -3777,14 +3777,14 @@
 [s]- Editar resumo do briefing[n]- Tornar a carta de aviso possível/impossível[n][e]
 
 [sel SEL_briefing_debug top]
-[s]1: C'è tempo (prima di percorso d'infiltrazione sicuro)[e]
-[s]2: C'è un po' di tempo (prima di percorso d'infiltrazione sicuro)[e]
-[s]3: Non c'è molto tempo (prima di percorso d'infiltrazione sicuro)[e]
-[s]4: Percorso d'infiltrazione sicuro (prima di lettera di sfida)[e]
-[s]5: Percorso d'infiltrazione sicuro (prima di lettera di sfida)[e]
+[s]1: Há tempo (antes do Caminho de Infiltração Seguro)[e]
+[s]2: Há algum tempo (antes do caminho de infiltração seguro)[e]
+[s]3: Não há muito tempo (antes do caminho de infiltração seguro)[e]
+[s]4: Caminho de Infiltração Seguro (Antes da Carta de Aviso)[e]
+[s]5: Caminho de Infiltração Seguro (Antes da Carta de Aviso)[e]
 [s]6: Palácio concluído[e]
-[s]Tornar a carta de aviso possível[e]
-[s]Tornar a carta de aviso impossível[e]
+[s]Tornar a Carta de Aviso possível[e]
+[s]Tornar a Carta de Aviso impossível[e]
 [s]Cancelar[e]
 
 [msg MSG_briefing_01_00 [Morgana]]
@@ -3992,7 +3992,7 @@
 
 [msg MND_azito_quest_19 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 0 1155 65535 0]Estamos falando de um[n][clr 2]terrível especulador imobiliário[clr 27].[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ele está ameaçando o casal[n]de idosos que dirige o teatro[n]Yongen para despejá-los.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ele está ameaçando o par[n]de idosos que dirige o teatro[n]Yongen para despejá-los.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Se não fizermos algo, é[n]provável que a situação[n]agrave.[n][w][e]
 
 [msg MSG_azito_quest_chk19_01 [Makoto]]
@@ -4212,7 +4212,7 @@
 [s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 2 0 7101 65535 0]Ok, então precisamos fazer...[n]cirurgia cardíaca.[n]É urgente![n][w][e]
 
 [msg MND_azito_quest_56 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 0 1155 65535 0]Isso é sobre o [clr 2]casal vinculado[clr 27][n][clr 2]ex-aluno de Kawakami[clr 27].[n]Um casal muito desprezível.[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 0 1155 65535 0]Isso é sobre o [clr 2]par vinculado[clr 27][n][clr 2]ex-aluno de Kawakami[clr 27].[n]Um par muito desprezível.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eles estão usando o acidente em que[n]aquele menino morreu para[n]extorquir dinheiro de Kawakami.[n][w][e]
 
 [msg MSG_azito_quest_chk56_01 [Ann]]
@@ -4394,7 +4394,7 @@
 [s][bup 0 9 11 65535 0][f 4 10 65535 0 0]A vítima, Toji Karataki, e o[n]perpetrador, Hisashi Morozumi...[n]Eles são pai e filho.[n][w][e]
 
 [msg MSG_azito_quest_79_04 [Ann]]
-[s][bup 0 4 4 65535 0][f 4 10 65535 0 0][vp 8 2 1 6127 65535 0]Coisa? Mas eles têm sobrenomes diferentes...[n][w][e]
+[s][bup 0 4 4 65535 0][f 4 10 65535 0 0][vp 8 2 1 6127 65535 0]Quê? Mas eles têm sobrenomes diferentes...[n][w][e]
 
 [msg MSG_azito_quest_79_05 [Akechi]]
 [s][bup 0 9 11 65535 0][f 4 10 65535 0 0]Os membros da Dieta seguem[n]regras especiais em relação[n]aos seus nomes.[n][w][e]

@@ -6,7 +6,7 @@
 [s]Fictício[n][w][e]
 
 [msg MSG_009_0_0 [Estudante quieto]]
-[s][f 4 23 1 861 3 10 0 0][vp 8 2 1 0 861 0]...Não é fácil chegar perto de[n]Takamaki-san. Ela é uma modelo[n]não profissional, certo?[n][w][e]
+[s][f 4 23 1 861 3 10 0 0][vp 8 2 1 0 861 0]...Não é fácil me aproximar mais de[n]Takamaki-san. Ela é uma modelo[n]não profissional, certo?[n][w][e]
 
 [msg MSG_010_0_0 [Estudante animada]]
 [s][f 4 23 1 862 3 10 0 0][vp 8 2 1 0 862 0]Ela não está namorando o Prof. Kamoshida?[n]Isso é péssimo...[n][w][e]

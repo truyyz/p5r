@@ -115,7 +115,7 @@
 [s][vp 8 0 0 49 65535 0]Então minha cognição é[n]um obstáculo, mantendo você longe[n]do centro do meu mundo cognitivo?[n][f 1 3 65535][w][e]
 
 [msg MSG_049_0_0 [Ann]]
-[s][bup 0 4 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 50 65535 0]Coisa? Você entendeu isso?[n][f 1 3 65535][w][e]
+[s][bup 0 4 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 50 65535 0]Quê? Você entendeu isso?[n][f 1 3 65535][w][e]
 
 [msg MSG_050_0_0 [Makoto]]
 [s][bup 0 6 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 51 65535 0]Como você sabe essas coisas?[n]Quem é você?[n][f 1 3 65535][w][e]

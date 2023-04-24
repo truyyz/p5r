@@ -8,7 +8,7 @@
 [s][f 5 14]Acho que você não se sente mais sozinha[n]sem uma empregada, hein?[n][f 5 15][w][e]
 
 [msg CHAT_REACTION_01 [Kawakami]]
-[s][f 5 14]Coisa? Você realmente quer[n]pedir meus serviços?[n][w][e]
+[s][f 5 14]Quê? Você realmente quer[n]pedir meus serviços?[n][w][e]
 
 [msg CHAT_REACTION_02 [Kawakami]]
 [s][f 5 14]Se sim, arrume o[n]quarto enquanto espera por mim, ok?[n][f 5 15][w][e]
@@ -25,15 +25,15 @@
 [s][f 4 25 1 65535 0 0][vp 1 0 0 0 0 0][f 4 10 65535 0 0]Se você não tiver outras coisas[n]para fazer, certifique-se de[n]solicitar os serviços de Sadayo. Entendeu?[n][f 1 3 65535][w][e]
 
 [msg MSG_MORUGANA_RANK3 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Preste atenção. Neste momento, uma recusa[n]parecerá suspeita. Você ainda não[n]ganhou a confiança dele, certo?[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Preste atenção. Neste momento, uma rejeição[n]parecerá suspeita. Você ainda não[n]ganhou a confiança dele, certo?[n][f 1 3 65535][w][e]
 [s][f 4 25 1 65535 0 0][vp 1 0 0 0 0 0][f 4 10 65535 0 0]Se você não tiver outras coisas[n]para fazer, certifique-se de[n]solicitar os serviços de Sadayo. Entendeu?[n][f 1 3 65535][w][e]
 
 [msg MSG_MORUGANA_RANK4 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Preste atenção. Neste momento, uma recusa[n]parecerá suspeita. Você ainda não[n]ganhou a confiança dele, certo?[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Preste atenção. Neste momento, uma rejeição[n]parecerá suspeita. Você ainda não[n]ganhou a confiança dele, certo?[n][f 1 3 65535][w][e]
 [s][f 4 25 1 65535 0 0][vp 1 0 0 0 0 0][f 4 10 65535 0 0]Se você não tiver outras coisas[n]para fazer, certifique-se de[n]solicitar os serviços de Sadayo. Entendeu?[n][f 1 3 65535][w][e]
 
 [msg MSG_MORUGANA_RANK5 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Preste atenção. Neste momento, uma recusa[n]parecerá suspeita. Você ainda não[n]ganhou a confiança dele, certo?[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Preste atenção. Neste momento, uma rejeição[n]parecerá suspeita. Você ainda não[n]ganhou a confiança dele, certo?[n][f 1 3 65535][w][e]
 [s][f 4 25 1 65535 0 0][vp 1 0 0 0 0 0][f 4 10 65535 0 0]Se você não tiver outras coisas[n]para fazer, certifique-se de[n]solicitar os serviços de Sadayo. Entendeu?[n][f 1 3 65535][w][e]
 
 [msg MSG_MORUGANA_CORPNG [Morgana]]
@@ -48,7 +48,7 @@
 [s][f 5 14]Vou ligar imediatamente.[e]
 
 [msg MND_COOP_DOUZOKUSEI]
-[s]Sinto que posso chegar perto de[n]Kawakami graças a Persona[n][var 2] [clr 1][var 5][clr 27]...[n][w][e]
+[s]Sinto que posso me aproximar mais de[n]Kawakami graças a Persona[n][var 2] [clr 1][var 5][clr 27]...[n][w][e]
 
 [msg MSG_MONEY_NG_MORGANA [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Ei... você só tem [var 1] ienes.[n][f 1 3 65535][w][e]

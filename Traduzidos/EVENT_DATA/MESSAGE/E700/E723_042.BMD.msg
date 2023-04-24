@@ -140,7 +140,7 @@
 [s][bup 0 216 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 57450 65535 0]Haha, pensei assim. Em vez disso[n]dinheiro eu poderia te oferecer[n]lanches... Estou brincando.[n][f 1 3 65535][w][e]
 
 [msg MSG_035_0_0 [Maruki]]
-[s][bup 0 216 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 57450 65535 0]Oh, uma recusa categórica... É nesses[n]momentos que eu gostaria de ter um[n]remédio para o[n]coração...[n][f 1 3 65535][w][e]
+[s][bup 0 216 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 57450 65535 0]Oh, uma rejeição categórica... É nesses[n]momentos que eu gostaria de ter um[n]remédio para o[n]coração...[n][f 1 3 65535][w][e]
 
 [msg MSG_036_0_0 [Maruki]]
 [s][bup 0 216 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sério, estou muito[n]grato por sua ajuda.[n]Obrigado, [f 4 1]-kun.[n][f 1 3 65535][w][e]

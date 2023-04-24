@@ -39,7 +39,7 @@
 [s][vp 9 2 65535 42562 0 0]Eles dizem que ele fez[n]a raiva de Kamoshida[n]e que ele será expulso...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_003_03_]
-[s][vp 9 2 65535 42612 0 0]Coisa? Ele será expulso?[n]Que diabos ele fez?[n][f 1 2 180][e]
+[s][vp 9 2 65535 42612 0 0]Quê? Ele será expulso?[n]Que diabos ele fez?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_003_04_]
 [s][vp 9 2 65535 42912 0 0]Parece que ele e Sakamoto[n]serão expulsos...[n][f 1 2 180][e]

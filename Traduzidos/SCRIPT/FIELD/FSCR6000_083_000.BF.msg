@@ -14,7 +14,7 @@
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 0 0 0]Você é Tamako Takuno?[n]Nós somos os Phantom Thieves.[n][w][e]
 
 [msg MSG_QST_083_04 [Tamako]]
-[s][vp 1 0 0 0 0 0]Coisa? Você gostaria de um autógrafo?[n]Na fila, por favor.[n][w][e]
+[s][vp 1 0 0 0 0 0]Quê? Você gostaria de um autógrafo?[n]Na fila, por favor.[n][w][e]
 
 [msg MSG_QST_083_05 [Sumire]]
 [s][bup 0 10 102 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 0 0 0]Não! Queremos falar sobre combinação[n]e correção de apostas![n][w][e]

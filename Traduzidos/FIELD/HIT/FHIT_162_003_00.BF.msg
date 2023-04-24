@@ -44,7 +44,7 @@
 [s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 57144 65535 0]O que você está dizendo, Joker-senpai?[n][w][e]
 
 [msg D10_03_researcher_battle [Guarda]]
-[s]Coisa? Os Phantom Thieves![n]Eles devem ter me seguido![n][w][e]
+[s]Quê? Os Phantom Thieves![n]Eles devem ter me seguido![n][w][e]
 
 [msg D10_03_researcher_battle_2 [Agente]]
 [s]Xingamento! Eu avisei![n]Agora temos que eliminá-los![n]Pelo mestreeeee![n][w][e]

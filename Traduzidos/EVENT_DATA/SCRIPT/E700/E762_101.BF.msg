@@ -375,7 +375,7 @@
 
 [msg MSG_YOSIDA_0_1 [Yoshida]]
 [s][bup 0 112 500 0 0][f 4 10 65535 0 0][vp 8 2 0 20020 65535 0]Ah, aí está você! Boa noite.[n][f 1 3 65535][w][e]
-[s][bup 0 112 501 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0][f 5 13 20 5 1012]Sempre trabalhando, eu vejo.[n]Que cara confiável.[n][f 1 3 65535][w][e]
+[s][bup 0 112 501 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0][f 5 13 20 5 1012]Sempre trabalhando, entendo.[n]Que cara confiável.[n][f 1 3 65535][w][e]
 [s][bup 0 112 501 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Então vou pegar um gyudon médio.[n][f 1 3 65535][w][e]
 
 [msg MSG_YOSIDA_1_1 [Yoshida]]

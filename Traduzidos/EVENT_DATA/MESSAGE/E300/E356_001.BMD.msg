@@ -69,7 +69,7 @@
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 28 65535 0]E se eles usassem o nome de[n]Medjed para tornar[n]os Phantom Thieves famosos?[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Ryuji]]
-[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 29 65535 0]Coisa? Mas isso não faz sentido.[n][f 1 3 65535][w][e]
+[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 29 65535 0]Quê? Mas isso não faz sentido.[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Futaba]]
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 30 65535 0]Eu penso como Makoto,[n]na verdade.[n][f 1 3 65535][w][e]

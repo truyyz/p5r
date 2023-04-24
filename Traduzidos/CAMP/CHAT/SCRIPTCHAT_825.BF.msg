@@ -2,7 +2,7 @@
 [s][f 5 14]Quando você se acostuma com os horários[n]de hospital, o Natal realmente não[n]importa mais.[n][w][e]
 
 [msg MSG_000_5_0 [Takemi]]
-[s][f 5 14]...mas talvez você goste de fazer algo[n]como um casal.[n][w][e]
+[s][f 5 14]...mas talvez você goste de fazer algo[n]como um par.[n][w][e]
 
 [msg MSG_001_0_0 [Takemi]]
 [s][f 5 14]Poderíamos passar a véspera de Natal[n]juntos, se você quiser...[n][f 5 15][w][e]

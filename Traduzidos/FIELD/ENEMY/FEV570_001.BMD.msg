@@ -218,7 +218,7 @@
 [s]Tem alguém aí![n][f 1 2 65535][e]
 
 [msg MSG_NML06_FIND_02_04]
-[s]Coisa? Quem está aí?[n][f 1 2 65535][e]
+[s]Quê? Quem está aí?[n][f 1 2 65535][e]
 
 [msg MSG_NML06_FIND_02_05]
 [s]Aaah! Intrusos!?![n][f 1 2 65535][e]
@@ -245,7 +245,7 @@
 [s]Onde você foi?[n][f 1 2 65535][e]
 
 [msg MSG_NML06_LOST_02_03]
-[s]Coisa? Eles desapareceram...[n][f 1 2 65535][e]
+[s]Quê? Eles desapareceram...[n][f 1 2 65535][e]
 
 [msg MSG_NML06_LOST_02_04]
 [s]Eles não estão aqui?[n]Onde eles podem estar?[n][f 1 2 65535][e]

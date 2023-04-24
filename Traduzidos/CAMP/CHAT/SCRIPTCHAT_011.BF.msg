@@ -33,7 +33,7 @@
 [s][f 5 14]Amanhã não.[n][w][e]
 
 [msg MSG_011_0_0 [Ann]]
-[s][f 5 14]Eu combinei de ir[n]para o hospital, para Shiho's.[n][w][e]
+[s][f 5 14]Eu combinei de ir[n]para o hospital, para ver Shiho.[n][w][e]
 
 [msg MSG_012_0_0 [Ryuji]]
 [s][f 5 14]Eu entendi.[n][w][e]

@@ -5,7 +5,7 @@
 [s][f 5 14]Sobre o que é isso?[n][w][e]
 
 [msg MSG_002_0_0 [Yusuke]]
-[s][f 5 14]...Por que o Palace desta vez[n]uma estação espacial?[n][w][e]
+[s][f 5 14]...Por que o Palácio desta vez[n]é uma estação espacial?[n][w][e]
 
 [msg MSG_003_0_0 [Ryuji]]
 [s][f 5 14]Huh? Por quê? Bem por que…[n][w][e]

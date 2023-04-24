@@ -346,7 +346,7 @@
 [s][vp 1 0 0 2145 0 0][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Tudo bem, vamos entrar nisso![n][w][e]
 
 [msg SAFE_EXIT_LOW_02_PC03_me [Morgana]]
-[s][vp 1 0 0 3145 0 0][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Poder! O tesouro nos espera![n][w][e]
+[s][vp 1 0 0 3145 0 0][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos lá! O tesouro nos espera![n][w][e]
 
 [msg SAFE_EXIT_LOW_02_PC04_me [Ann]]
 [s][vp 1 0 0 4145 0 0][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ok, vamos continuar explorando.[n][w][e]
@@ -541,7 +541,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]O Tesouro é um pouco longe[n]daqui... Tem certeza que esse é o[n]melhor ponto de partida, Joker?[n][w][e]
 
 [msg SAFE_ACTIVE_IN_DISTANT_P [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Hã? Estamos longe de[n]Treasure... Você se lembra porque[n]estamos aqui hoje, não é?[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Hã? Estamos longe do[n]Tesouro... Você se lembra porque[n]estamos aqui hoje, não é?[n][w][e]
 
 [msg SAFE_ACTIVE_MES_PC03_mes [Morgana]]
 [s][bup 0 3 1 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1181 65535 0]Aparentemente, este quarto é seguro.[n][w][e]

@@ -13,7 +13,7 @@
 [s]É o Desafio do Big Bang.[e]
 
 [msg MSG_004_0_0 [Caroline]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 102 15 300 1][vp 8 2 0 55020 65535 0]Coisa? Então onde estão os[n]realmente grandes?!?[n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 102 15 300 1][vp 8 2 0 55020 65535 0]Quê? Então onde estão os[n]realmente grandes?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Justine]]
 [s][bup 0 101 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Pare de perder nosso[n]tempo e conte-nos.[n][f 1 3 65535][w][e]

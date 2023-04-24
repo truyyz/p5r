@@ -24,7 +24,7 @@
 [s][bup 0 106 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bem, isso ainda é tudo...[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Fã insistente]]
-[s][vp 8 0 0 0 65535 0]Vou torcer pela sua qualificação![n]Você seria a primeira mulher a passar[n]3º dan![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Vou torcer pela sua qualificação![n]Você seria a primeira mulher a passar[n]3° dan![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Eu acredito em você![n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Hifumi]]

@@ -110,7 +110,7 @@
 
 [msg MSG_SEASON_GOODS_003_01 [Menina curiosa]]
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Ei, experimentei uma[n]padaria chamada Yon-Germain outro dia.[n][w][e]
-[s][vp 8 2 1 0 7 0]Não estou contando o sanduíche que comi... Foi[n]di-vi-não.[n][w][e]
+[s][vp 8 2 1 0 7 0]Não estou contando o sanduíche que comi... Foi[n]di-vi-no.[n][w][e]
 
 [msg MSG_SEASON_GOODS_003_02 [Menina de paladar fino]]
 [s][f 4 23 1 8 14 0 13 0][vp 8 2 1 0 8 0]Eles também têm um produto por tempo[n]limitado que vendem apenas em[n]dias chuvosos. Chama-se [clr 2][var 1][clr 27].[n][w][e]

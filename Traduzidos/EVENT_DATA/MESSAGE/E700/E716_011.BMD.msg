@@ -3,7 +3,7 @@
 
 [msg MSG_001_0_0 [Shinya]]
 [s][bup 0 110 4 0 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Uma carta de aviso...?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Coisa? O QUÊ?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Quê? O QUÊ?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]Diz[n]algo...[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Shinya]]
@@ -21,7 +21,7 @@
 
 [msg MSG_005_0_0 [Shinya]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 110 7 300 1][vp 8 0 0 12 65535 0]...Uau! O logotipo dos[n]Phantom Thieves![n]Eles invadiram o site![n][f 1 3 65535][w][e]
-[s][bup 0 110 4 0 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Como fizeram[n]com Medjed's![n][f 1 3 65535][w][e]
+[s][bup 0 110 4 0 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Como fizeram[n]com os Medjed![n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Shinya]]
 [s][bup 0 110 1 0 0][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Então... você conseguiu[n]contatar os verdadeiros[n]Phantom Thieves! Absurdo![n][f 1 3 65535][w][e]

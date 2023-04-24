@@ -883,7 +883,7 @@
 [s][bup 0 6 104 65535 0][f 4 10 65535 0 0]EXお姉ちゃん!![n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_EXTRA_HINT0 [Akechi]]
-[s][bup 0 9 102 65535 0][f 4 10 65535 0 0][vp 8 0 2 1087 0 9]Coisa? Os painéis da roleta[n]mudaram?[n][f 1 3 65535][w][e]
+[s][bup 0 9 102 65535 0][f 4 10 65535 0 0][vp 8 0 2 1087 0 9]Quê? Os painéis da roleta[n]mudaram?[n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_EXTRA_HINT0B [Makoto]]
 [s][bup 0 6 104 65535 0][f 4 10 65535 0 0][vp 8 0 2 1088 0 6]Um momento! Os[n]painéis de roleta...?!?[n][f 1 3 65535][w][e]

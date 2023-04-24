@@ -128,7 +128,7 @@
 [s][vp 8 2 1 0 11 0]O mundo está cheio de vilões.[n]É dever dos heróis se livrar deles![n]Sim, é meu destino...[n][w][e]
 
 [msg MSG_AKOGAREDANSI_006_0_0 [Aluno dos sonhos]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Coisa? Não acredito que um civil está falando[n]comigo...[n][w][e]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Quê? Não acredito que um civil está falando[n]comigo...[n][w][e]
 [s][vp 8 2 1 0 11 0]Mas o que eu posso fazer. Após[n]o incidente de Madarame, minha[n]fama disparou.[n][w][e]
 
 [sel SEL_AKOGAREDANSI_006_0_0 top]

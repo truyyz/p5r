@@ -45,7 +45,7 @@
 [s][vp 8 2 0 0 4 0]Na verdade, está perto do logotipo da empresa.[n]Veja lá,[n]logo acima do questionário?[n][f 1 3 65535][w][e]
 
 [msg MSG_006_6_2 [Nanami]]
-[s][vp 8 2 0 0 4 0]Coisa? Dentro de? Você queria[n]virar o papelão?[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 4 0]Quê? Dentro de? Você queria[n]virar o papelão?[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 4 0]Eu amo alunos do ensino médio e suas ideias[n]originais. Na verdade, está perto do logotipo da[n]empresa.[n][f 1 3 65535][w][e]
 
 [msg MSG_006_7_0 [Nanami]]

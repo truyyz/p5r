@@ -34,7 +34,7 @@
 [s][f 5 14]Eu pensei a mesma coisa[n]quando meu pai desmaiou.[n][w][e]
 
 [msg MSG_011_0_0 [Haru]]
-[s][f 5 14]Contanto que não envolva di[n]pessoa, as notícias[n]nada mais são do que entretenimento.[n][w][e]
+[s][f 5 14]Contanto que não envolva[n]você, as notícias[n]nada mais são do que entretenimento.[n][w][e]
 
 [msg MSG_012_0_0 [Haru]]
 [s][f 5 14]Para o público em geral, toda[n]notícia é apenas uma forma[n]de passar o tempo.[n][w][e]

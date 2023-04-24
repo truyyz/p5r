@@ -107,7 +107,7 @@
 
 [sel SEL_030_0_0 top]
 [s]Roubar?[e]
-[s]Coisa?[e]
+[s]Quê?[e]
 
 [msg MSG_031_0_0 [Futaba]]
 [s][bup 0 8 6 65535 0][f 4 10 65535 0 0][vp 8 0 0 34 65535 0]Porque uh... você roubou o meu.[n][f 1 3 65535][w][e]

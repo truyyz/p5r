@@ -15,7 +15,7 @@
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Você não deve deixá-lo sair por qualquer motivo![n]Reforce a vigilância o máximo possível, entendeu?[n][w][e]
 
 [msg D154_003_mini_EV_03_mes0_5 [Yusuke]]
-[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4155 65535 0]A localização do[n]Treasure agora é óbvia.[n][w][e]
+[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4155 65535 0]A localização do[n]Tesouro agora é óbvia.[n][w][e]
 
 [msg D154_003_mini_EV_03_mes0_6 [Ann]]
 [s][bup 0 4 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]No entanto, o mapa acima[n]não mostra tudo. Talvez em algum lugar[n]haja outro.[n][w][e]

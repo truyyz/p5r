@@ -12,10 +12,10 @@
 [s]Para o pátio[n][w][e]
 
 [msg MSG_TEST_803]
-[s]Al 2° piano[n](Scale di fronte alla mensa)[n][w][e]
+[s]No 2° andar[n](Escadas em frente à Cantina)[n][w][e]
 
 [msg MSG_TEST_804]
-[s]Su al 2° piano[n](Scale di fronte al cortile)[n][w][e]
+[s]Su al 2° piano[n](Escadas voltadas para o Pátio)[n][w][e]
 
 [msg MSG_TEST_805]
 [s]Recepção[n][w][e]

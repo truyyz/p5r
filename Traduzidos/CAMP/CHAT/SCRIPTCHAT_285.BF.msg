@@ -54,7 +54,7 @@
 [s][f 5 14]Você sabe, assim.[n][w][e]
 
 [msg MSG_020_0_0 [Ann]]
-[s][f 5 14]Sim, eu vejo.[n][w][e]
+[s][f 5 14]Sim, entendo.[n][w][e]
 
 [msg MSG_021_0_0 [Yusuke]]
 [s][f 5 14]Hum. Fácil de imaginar.[n][w][e]

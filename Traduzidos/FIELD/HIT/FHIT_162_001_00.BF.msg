@@ -8,7 +8,7 @@
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 54473 65535 0]Você não está fugindo de um inimigo, está?[n][w][e]
 
 [msg D010_01_EXIT_NG_mes04 [Futaba]]
-[s][bup 0 8 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9158 65535 0]Nem sabemos onde está o[n]Treasure. Vamos tentar um pouco mais.[n][w][e]
+[s][bup 0 8 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9158 65535 0]Nem sabemos onde está o[n]Tesouro. Vamos tentar um pouco mais.[n][w][e]
 
 [sel START_CHECK_SEL top]
 [s]Vá para a última sala segura[e]
@@ -37,25 +37,25 @@
 [s]Não saia ainda[e]
 
 [msg D01_EXIT_MES [Navegador do Metaverso]]
-[s]Retorne ao mundo real do[n]Kamoshida Palace. Obrigado[n]pelo trabalho realizado.[n][w][e]
+[s]Retorne ao mundo real do[n]Palácio de Kamoshida. Obrigado[n]pelo trabalho realizado.[n][w][e]
 
 [msg D02_EXIT_MES [Navegador do Metaverso]]
 [s]Retorne ao mundo real do Palácio de[n]Madarame. Obrigado[n]pelo trabalho realizado.[n][w][e]
 
 [msg D03_EXIT_MES [Navegador do Metaverso]]
-[s]Retorne ao mundo real do[n]Kaneshiro Palace. Obrigado[n]pelo trabalho realizado.[n][w][e]
+[s]Retorne ao mundo real do[n]Palácio de Kaneshiro. Obrigado[n]pelo trabalho realizado.[n][w][e]
 
 [msg D04_EXIT_MES [Navegador do Metaverso]]
-[s]Retorne ao mundo real do[n]Futaba Palace. Obrigado[n]pelo trabalho realizado.[n][w][e]
+[s]Retorne ao mundo real do[n]Palácio de Futaba. Obrigado[n]pelo trabalho realizado.[n][w][e]
 
 [msg D05_EXIT_MES [Navegador do Metaverso]]
-[s]Retorne ao mundo real do[n]Okumura Palace. Obrigado[n]pelo trabalho realizado.[n][w][e]
+[s]Retorne ao mundo real do[n]Palácio de Okumura. Obrigado[n]pelo trabalho realizado.[n][w][e]
 
 [msg D06_EXIT_MES [Navegador do Metaverso]]
-[s]Retorne ao mundo real do[n]Niijima Palace. Obrigado[n]pelo trabalho realizado.[n][w][e]
+[s]Retorne ao mundo real do[n]Palácio de Niijima. Obrigado[n]pelo trabalho realizado.[n][w][e]
 
 [msg D07_EXIT_MES [Navegador do Metaverso]]
-[s]Retorne ao mundo real do[n]Shido Palace. Obrigado[n]pelo trabalho realizado.[n][w][e]
+[s]Retorne ao mundo real do[n]Palácio de Shido. Obrigado[n]pelo trabalho realizado.[n][w][e]
 
 [msg D08_EXIT_MES [Navegador do Metaverso]]
 [s]De volta ao mundo real[n]dai Mementos. Obrigado[n]pelo trabalho realizado.[n][w][e]
@@ -234,7 +234,7 @@
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Todo esse trabalho duro vai virar fumaça se não[n]roubarmos o Tesouro hoje![n][w][e]
 
 [msg D_EXIT_NG_ACTIVE_01_PC03 [Morgana]]
-[s][bup 0 3 4 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1040 65535 0]Coisa? Mas quando eu falo, você me ouve ou não?[n][w][e]
+[s][bup 0 3 4 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1040 65535 0]Quê? Mas quando eu falo, você me ouve ou não?[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Se não pegarmos o Tesouro hoje,[n]tudo o que fizemos[n]até agora terá sido em vão![n][w][e]
 
 [msg D_EXIT_NG_ACTIVE_01_PC04 [Ann]]

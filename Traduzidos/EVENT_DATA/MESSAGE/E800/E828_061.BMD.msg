@@ -1,5 +1,5 @@
 [msg MSG_000_0_0 [Ann]]
-[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 6127 65535 0]É... normal um casal[n]ficar tão juntinho...[n][f 1 3 65535][w][e]
+[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 6127 65535 0]É... normal um par[n]ficar tão juntinho...[n][f 1 3 65535][w][e]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas... acho que me sentei um pouco perto demais.[n]Meu coração está batendo forte...[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Ann]]

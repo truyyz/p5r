@@ -46,7 +46,7 @@
 [s][bup 0 111 503 65535 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]N-Não estou me sentindo bem hoje...[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Kamoshida]]
-[s][bup 0 202 0 0 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Coisa? Talvez seja melhor esquecer o vôlei,[n]então...[n][f 1 3 65535][w][e]
+[s][bup 0 202 0 0 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Quê? Talvez seja melhor esquecer o vôlei,[n]então...[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Kamoshida]]
 [s][bup 0 202 0 0 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Você nunca vai melhorar essa sua[n]forma ridícula por não mostrar[n]praticar.[n][f 1 3 65535][w][e]

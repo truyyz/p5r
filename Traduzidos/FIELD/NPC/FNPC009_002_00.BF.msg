@@ -54,7 +54,7 @@
 
 [msg R1SHOTCUT_NPC_talk [Homem cantando com meu coração]]
 [s][f 4 23 1 4 4 10 0 10][vp 8 2 1 0 4 0]Vola! Super R1~♪[n]Vai! Super R1~♪[n][w][e]
-[s][vp 8 2 1 0 4 0]Al tocco di un tasto, tu sorgi~♪[n]Proteggi la pace e la nostra città[n]dai malvagi~♪[n][w][e]
+[s][vp 8 2 1 0 4 0]Com o toque de uma tecla, você surge~♪[n]Proteja a paz e nossa cidade[n]dos perversos~♪[n][w][e]
 [s][vp 8 2 1 0 4 0]Deixe-me explicar![n][w][e]
 [s][vp 8 2 1 0 4 0]Ative o cérebro SRO ultrarrápido do Super R1[n]com o botão [clr 2]R1[clr 27] para[n]selecionar [clr 2]a melhor ação![clr 2][n][w][e]
 [s][vp 8 2 1 0 4 0]Fight! Dive! Invite![n]Polish! Work! Sleep![n]Cast off everyone's doubt~♪[n][w][e]
@@ -369,7 +369,7 @@
 [s][vp 8 2 1 0 1 0]Eles... confundiram a cabeça de Kotaro porque são[n]pessoas más?[n][w][e]
 
 [msg MSG_ROUKENTOSYOJYO_015_1 [Mãe de aparência gentil]]
-[s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Coisa? Quem te disse tal coisa?[n]Não se preocupe.[n]Todos estão bem, Ok?[n][w][e]
+[s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Quê? Quem te disse tal coisa?[n]Não se preocupe.[n]Todos estão bem, Ok?[n][w][e]
 
 [msg MSG_ROUKENTOSYOJYO_016_0 [Mãe de aparência gentil]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Só estou bravo porque[n]você saiu sem me avisar. Vamos,[n]não chore. Vamos para casa.[n][w][e]
@@ -1104,7 +1104,7 @@
 [s][f 4 23 1 10 3 10 0 10][vp 8 2 1 0 10 0]Decidi tentar entrar[n]em uma escola secundária melhor[n]do que a anterior.[n][w][e]
 
 [msg MSG_HINEKUREKODOMO_017_1 [Estudante ingênuo]]
-[s][f 4 23 1 11 3 10 0 10][vp 8 2 1 0 11 0]Coisa? E por que você mudou de ideia de repente?[n]E então não é tarde demais para mudar?[n][w][e]
+[s][f 4 23 1 11 3 10 0 10][vp 8 2 1 0 11 0]Quê? E por que você mudou de ideia de repente?[n]E então não é tarde demais para mudar?[n][w][e]
 
 [msg MSG_HINEKUREKODOMO_017_2 [Estudante rebelde]]
 [s][f 4 23 1 10 3 10 0 10][vp 8 2 1 0 10 0]Quero fazer meus pais pagarem por jogar minhas[n]coisas fora. Então fiz uma aposta.[n][w][e]
@@ -1168,7 +1168,7 @@
 [s][f 4 23 1 10 3 10 0 10][vp 8 2 1 0 10 0]Eu gostaria, mas[n]eu tenho que estudar.[n][w][e]
 
 [msg MSG_HINEKUREKODOMO_022_2 [Estudante ingênuo]]
-[s][f 4 23 1 11 3 10 0 10][vp 8 2 1 0 11 0]Coisa? E por que você deveria[n]estudar agora?[n][w][e]
+[s][f 4 23 1 11 3 10 0 10][vp 8 2 1 0 11 0]Quê? E por que você deveria[n]estudar agora?[n][w][e]
 [s][vp 8 2 1 0 11 0]Você pode jogar o quanto quiser![n]Divirta-se, vamos lá.[n][w][e]
 
 [msg MSG_HINEKUREKODOMO_022_3 [Estudante rebelde]]
@@ -3015,7 +3015,7 @@
 [s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_031_01_ [Velhote]]
-[s][vp 9 2 65535 37705 0 0]Coisa? Eu não sou divorciado![n]Eu nem sou casado...[n][f 1 2 180][e]
+[s][vp 9 2 65535 37705 0 0]Quê? Eu não sou divorciado![n]Eu nem sou casado...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_031_02_ [Velhote]]
 [s][vp 9 2 65535 38800 0 0]Não é senso comum[n]elogiar alguém[n]porque cozinha bem?[n][f 1 2 180][e]
@@ -3386,7 +3386,7 @@
 [s][f 4 23 1 602 3 10 0 10][vp 8 2 1 0 602 0]Pare com isso, cara.[n]Você está doente, sabia?[n][w][e]
 
 [msg Quest48_target_00_02 [Kazuo Tsuboi]]
-[s][f 4 23 1 603 3 10 0 10][vp 8 2 1 0 603 0]Coisa? Porra eu sou.[n][w][e]
+[s][f 4 23 1 603 3 10 0 10][vp 8 2 1 0 603 0]Quê? Porra eu sou.[n][w][e]
 [s][vp 8 2 1 0 603 0]É essa sociedade que está[n]doente, sempre estressando[n]as pessoas.[n][w][e]
 
 [msg MSG_quest48_morgana_01 [Morgana]]
@@ -3766,7 +3766,7 @@
 [s][vp 8 2 1 0 22 0]Agora...[n]Vou para casa ou[n]devo passar no bar primeiro?[n][w][e]
 
 [msg MSG_KAWAKAMI_KAJI_001 [Kawakami]]
-[s][bup 0 109 602 0 0][f 4 10 65535 0 0][vp 8 2 1 0 214 0]Coisa? Lavar a roupa é[n]uma caminhada...[n][w][e]
+[s][bup 0 109 602 0 0][f 4 10 65535 0 0][vp 8 2 1 0 214 0]Quê? Lavar a roupa é[n]uma caminhada...[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 214 0]Você pode ir e aproveitar seu[n]tempo livre. Nossa, eu te invejo um pouco...[n][w][e]
 
 [msg MSG_KAWAKAMI_KAJI_RANK_M [Kawakami]]

@@ -1,6 +1,6 @@
 [msg CMM_EVENT_OPEN]
 [s][vp 1 0 0 0 0 0]Você desbloqueou o[n]Confidente da Arcana: A Sacerdotisa![n][f 1 3 65535][w][e]
-[s][vp 1 0 0 0 0 0]Mesclando Arcanum Personas: A Sacerdotisa[n]agora concederá a você XP[n]graças ao ímpeto do Arcanum![n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Mesclando Personas de Arcana: A Sacerdotisa[n]agora concederá a você XP[n]graças ao ímpeto do Arcanum![n][f 1 3 65535][w][e]
 [s][vp 1 0 0 0 0 0]Makoto agora pode usar[n][clr 1]Cálculo de Sombras[clr 27]![n][f 1 3 65535][w][e]
 
 [msg CMM_EVENT_RANKUP_2]

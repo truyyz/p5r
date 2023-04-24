@@ -1,5 +1,5 @@
 [msg D01_04_e165_045_mes01 [Ryuji]]
-[s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7022 65535 0]E-Ei, aquele Shadow tinha[n]algo... Mas o que é?[n]Um olho?[n][w][e]
+[s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7022 65535 0]E-Ei, aquele Sombra tinha[n]algo... Mas o que é?[n]Um olho?[n][w][e]
 
 [msg D01_04_e165_045_mes02 [Morgana]]
 [s][bup 0 3 8 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ah, existem! Deve ser a maneira de parar as[n]foices![n][w][e]

@@ -37,7 +37,7 @@
 [s][vp 8 2 1 0 854 0]Se são só vocês dois, são[n]dois de vocês para comer.[n]Você deve estar com muita fome.[n][w][e]
 
 [msg MSG_NPC_854_02 [Comprador]]
-[s][vp 8 2 1 0 854 0]Coisa? Quer dizer que você não come tanto? Aí vai[n]ser o patrão que come muito...[n][w][e]
+[s][vp 8 2 1 0 854 0]Quê? Quer dizer que você não come tanto? Aí vai[n]ser o patrão que come muito...[n][w][e]
 
 [msg MSG_NPC_855 [Entregador]]
 [s][vp 8 2 1 0 855 0]Futaba...?[n]Hm... Não, não conheço[n]ninguém com esse nome.[n][w][e]

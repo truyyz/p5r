@@ -133,7 +133,7 @@
 [s][bup 0 100 0 0 0][f 4 10 65535 0 0][vp 8 0 0 49 65535 0]Ah, você usa para treinamento?[n]Posso pedir uma demonstração?[n][f 1 3 65535][w][e]
 
 [msg MSG_034_0_0 [Lavenza]]
-[s][bup 0 100 2 0 0][f 4 10 65535 0 0][vp 8 0 0 50 65535 0]Poder! Um, dois, um, dois![n][f 1 3 65535][w][e]
+[s][bup 0 100 2 0 0][f 4 10 65535 0 0][vp 8 0 0 50 65535 0]Vamos lá! Um, dois, um, dois![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 51 65535 0]Vamos, ocupe-se! Você realmente acha[n]que pode salvar o mundo assim?[n][f 1 3 65535][w][e]
 
 [msg MSG_035_0_0 [Lavenza]]

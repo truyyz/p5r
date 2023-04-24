@@ -225,7 +225,7 @@
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Por que você está com isso?[n]E por que você o usou?[n][w][e]
 
 [msg DRESSTALK_SWIM_PC01_PC05 [Yusuke]]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Coisa? Você vestiu seu[n]maiô?[n][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Quê? Você vestiu seu[n]maiô?[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]A imagem do seu corpo contra[n]o pano de fundo do Metaverso seria[n]um bom tema...[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Mmm, talvez eu também devesse...[n][w][e]
 [s]Mmm, talvez não.[n][w][e]
@@ -492,7 +492,7 @@
 [msg DRESSTALK_CATHERINE_PC01_2 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Oh, você usou roupas casuais?[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Não estou acostumada a ver você[n]vestida assim... Eu nem[n]sabia que você estava usando.[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Coisa? Pareço uma ovelha?[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Quê? Pareço uma ovelha?[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Que diabos...?!? Eu sou um gato![n]Na verdade não, eu NÃO sou![n][w][e]
 
 [msg DRESSTALK_CATHERINE_PC01_3 [Ann]]
@@ -1230,7 +1230,7 @@
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Alunos em público, em livros por[n]horas! Ladrões nas sombras, para roubar[n]seu coração! O que você acha?[n][w][e]
 
 [msg DRESSTALK_SHADOW_W_PC02 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu coloquei meu uniforme do[n]Shadow Agent![n][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu coloquei meu uniforme do[n]Sombra Agent![n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Com isso me sinto o herói[n]de um filme de ação![n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Talvez devêssemos caçar[n]aliens e criptídeos![n][w][e]
 
@@ -1341,11 +1341,11 @@
 
 [msg DRESSTALK_DANCE_PC03 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Escute aqui! Ei! Eu sou Morgana, o Ladrão[n]Brilhante![n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]My Shadow hip hop tem um efeito letal![n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Meu Sombra hip hop tem um efeito letal![n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos, Joker! Por que você não[n]dança no meu fluxo?[n][w][e]
 
 [msg DRESSTALK_SHADOW_W_PC03 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Olhar! É o uniforme do[n]Shadow Agent![n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Olhar! É o uniforme do[n]Sombra Agent![n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Nada mal, hein, Joker?[n]Eu ainda pareço um Phantom[n]Thief vestido assim![n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Quase me dá vontade de gritar:[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Morgana! Transformação![n][w][e]
@@ -1730,7 +1730,7 @@
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]N-não olhe para mim, por favor.[n][w][e]
 
 [msg DRESSTALK_SHADOW_W_PC06 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu coloquei meu uniforme do[n]Shadow Agent.[n][w][e]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu coloquei meu uniforme do[n]Sombra Agent.[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu me sinto um pouco estranho neste uniforme. É[n]estranho.[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Os olhos desta máscara não são um pouco curvos[n]demais?[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu realmente pareço[n]tão zangado...?[n][w][e]
@@ -1860,7 +1860,7 @@
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Talvez minhas meias sejam um pouco chamativas[n]demais...[n][w][e]
 
 [msg DRESSTALK_SHADOW_W_PC07 [Haru]]
-[s][bup 0 7 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu coloquei meu uniforme do[n]Shadow Agent.[n][w][e]
+[s][bup 0 7 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu coloquei meu uniforme do[n]Sombra Agent.[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Claro que é um pouco estreito.[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Estou um pouco envergonhado de usar um terno tão[n]justo...[n][w][e]
 
@@ -2107,8 +2107,8 @@
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]A escrita "HERÓI" no boné realmente[n]encaixa em mim, dado meu grande[n]senso de justiça, você não acha?[n][w][e]
 
 [msg DRESSTALK_SHADOW_W_PC09 [Akechi]]
-[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Este é o uniforme do[n]Shadow Agent.[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu nunca ouvi falar disso.[n]É uma força especial anti-Shadow,[n]certo?[n][w][e]
+[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Este é o uniforme do[n]Sombra Agent.[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu nunca ouvi falar disso.[n]É uma força especial anti-Sombra,[n]certo?[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]É incrível saber que[n]lá fora existem outros como nós.[n][w][e]
 
 [msg DRESSTALK_SAMURAI_PC09 [Akechi]]
@@ -2234,7 +2234,7 @@
 [s][bup 0 10 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]ダンス Costume ・ Kasumi [n][w][e]
 
 [msg DRESSTALK_SHADOW_W_PC10 [Kasumi]]
-[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu coloquei meu uniforme do[n]Shadow Agent![n][w][e]
+[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu coloquei meu uniforme do[n]Sombra Agent![n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]O que você acha, senpai? Com essas[n]roupas eu me sinto maior que você![n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Deixe a eliminação das Sombras[n]comigo! Só uma palavra![n][w][e]
 

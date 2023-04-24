@@ -5,7 +5,7 @@
 [s][f 5 14]Ontem[n]one de Shujin veio ao Leblanc.[n][w][e]
 
 [msg MSG_003_0_0 [Ann]]
-[s][f 5 14]Coisa? Quem?[n][w][e]
+[s][f 5 14]Quê? Quem?[n][w][e]
 
 [msg MSG_003_0_1 [Futaba]]
 [s][f 5 14]Hum, ele tinha óculos[n]e cabelo despenteado...[n][w][e]
@@ -90,7 +90,7 @@
 [s][f 5 14]Makoto, você não poderia providenciar para[n]que eu o conhecesse?[n][w][e]
 
 [msg MSG_027_0_0 [Makoto]]
-[s][f 5 14]Coisa? O? Você realmente quer tanto[n]conhecê-lo?[n][w][e]
+[s][f 5 14]Quê? O? Você realmente quer tanto[n]conhecê-lo?[n][w][e]
 
 [msg MSG_028_0_0 [Yusuke]]
 [s][f 5 14]Por favor. Sinto que há algo[n]que gostaria de confirmar por mim mesmo.[n][w][e]

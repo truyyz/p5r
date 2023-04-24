@@ -60,7 +60,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1156 65535 0]Ficar deprimido não vai resolver a[n]situação... Vamos procurar[n]algo que pode nos ajudar.[n][w][e]
 
 [msg SAFETY_MES_MONA_08_01 [Morgana]]
-[s][bup 0 3 4 0 0][f 4 10 65535 0 0][vp 8 2 1 1022 65535 0]Coisa? Posso decifrar o código?[n]Bem, claro que posso! Quero dizer,[n]eheh, você teve alguma dúvida?[n][w][e]
+[s][bup 0 3 4 0 0][f 4 10 65535 0 0][vp 8 2 1 1022 65535 0]Quê? Posso decifrar o código?[n]Bem, claro que posso! Quero dizer,[n]eheh, você teve alguma dúvida?[n][w][e]
 
 [msg SAFETY_MES_MONA_09_01 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1052 65535 0]Abrimos a terceira fechadura![n]Estamos ainda mais perto do tesouro![n]...acho![n][w][e]

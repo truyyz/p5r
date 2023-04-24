@@ -10,7 +10,7 @@
 [s][bup 0 9 2 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 51 10 50 10][vp 8 2 1 8028 65535 0]Agora que estou vendo isso para mim, posso[n]dizer honestamente que não vi nada mais[n]repulsivo do que isso.[n][w][e]
 
 [msg MES_GROUP1_02 [Yusuke]]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 3 10 0 10]Torkado como sempre, eu vejo...[n][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 3 10 0 10]Torkado como sempre, entendo...[n][w][e]
 
 [msg MES_GROUP1_03 [Akechi]]
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 51 10 50 10]Por que devo me sentir diferente?[n][w][e]

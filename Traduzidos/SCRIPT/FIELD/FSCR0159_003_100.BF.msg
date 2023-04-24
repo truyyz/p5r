@@ -18,7 +18,7 @@
 [s][bup 0 4 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]"Este é um restaurante apenas para membros. Quem[n]não tiver cartão de membro será rejeitado."[n][w][e]
 
 [msg D07_02_e408_025_mes05 [Ryuji]]
-[s][bup 0 2 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7189 65535 0]Coisa? Você tem que ser um membro para[n]jantar? Que besteira.[n][w][e]
+[s][bup 0 2 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7189 65535 0]Quê? Você tem que ser um membro para[n]jantar? Que besteira.[n][w][e]
 
 [msg D07_02_e408_025_mes06 [Yusuke]]
 [s][bup 0 5 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Hum, o que fazemos?[n][w][e]

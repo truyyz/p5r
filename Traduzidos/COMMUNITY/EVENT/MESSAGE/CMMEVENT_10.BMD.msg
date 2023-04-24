@@ -1,6 +1,6 @@
 [msg CMM_EVENT_OPEN]
 [s][vp 1 0 0 0 0 0]Você desbloqueou o Confidente[n]da Arcana: Roda da Fortuna![n][f 1 3 65535][w][e]
-[s][vp 1 0 0 0 0 0]Mesclando Arcanum Personas: A Roda da[n]Fortuna agora concederá a você XP[n]graças ao Arcanum Impetus![n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Mesclando Personas de Arcana: A Roda da[n]Fortuna agora concederá a você XP[n]graças ao Arcanum Impetus![n][f 1 3 65535][w][e]
 [s][vp 1 0 0 0 0 0]Chihaya agora pode oferecer a você[n]a [clr 1]Boa leitura de sorte[clr 27]![n][f 1 3 65535][w][e]
 
 [msg CMM_EVENT_RANKUP_2]

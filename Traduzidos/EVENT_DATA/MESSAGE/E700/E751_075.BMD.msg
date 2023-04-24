@@ -69,7 +69,7 @@
 [s][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]...É certo que você saiba. Eu nunca[n]desisti, só[n]porque você estava ao meu lado.[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Ohya]]
-[s][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Coisa? Claro que você é! Você é[n]uma grande ajuda.[n][f 1 3 65535][w][e]
+[s][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Quê? Claro que você é! Você é[n]uma grande ajuda.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]É por isso que eu nunca[n]desisto, sabe? Obrigado![n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Ohya]]

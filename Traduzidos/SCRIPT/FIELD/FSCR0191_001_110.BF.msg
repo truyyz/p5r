@@ -39,7 +39,7 @@
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Se eu tivesse que arriscar um palpite...[n]na parte mais profunda[n]dos Mementos.[n][w][e]
 
 [msg MSG_FIRST_02_04_mes09 [Ryuji]]
-[s][bup 0 2 105 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Coisa? Este lugar não[n]faz nenhum sentido...[n][w][e]
+[s][bup 0 2 105 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Quê? Este lugar não[n]faz nenhum sentido...[n][w][e]
 
 [msg MSG_FIRST_02_04_mes10 [Morgana]]
 [s][bup 0 3 2 65535 0]......[n][w][e]

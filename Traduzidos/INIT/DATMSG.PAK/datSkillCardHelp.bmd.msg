@@ -692,7 +692,7 @@
 [s]Permite que você aprenda a habilidade[n]passiva[n]Desviar de ataques físicos.[n][e]
 
 [msg Item_0E7]
-[s]Permite que você aprenda[n]a habilidade passiva[n]Evite Att. físico.[n][e]
+[s]Permite que você aprenda[n]a habilidade passiva[n]Evite Atk. físico.[n][e]
 
 [msg Item_0E8]
 [s]Permite que você aprenda a[n]habilidade passiva[n]Power Fire.[n][e]
@@ -1160,19 +1160,19 @@
 [s]Um papel branco no qual[n]nada está escrito.[n][e]
 
 [msg Item_183]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_184]
 [s]Permite que você aprenda[n]o traço de habilidade Aumento de[n]dano[n]aflições negativas.[n][e]
 
 [msg Item_185]
-[s]Permette di apprendere[n]il tratto abilità[n]Uccisione istant. SP (basso).[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n] Insta-Kill. SP (baixo).[n][e]
 
 [msg Item_186]
-[s]Permette di apprendere[n]il tratto abilità Uccisione[n]istantanea SP (medio).[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade de morte instantânea[n]SP (medio).[n][e]
 
 [msg Item_187]
-[s]Permette di apprendere[n]il tratto abilità Uccisione[n]istantanea SP (alto).[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade de morte instantânea[n]SP (alto).[n][e]
 
 [msg Item_188]
 [s]Permite que você aprenda[n]o traço de habilidade[n]Técnico Aprimorado.[n][e]
@@ -1202,19 +1202,19 @@
 [s]Permite que você aprenda[n]o traço de habilidade[n]custo HP -25%.[n][e]
 
 [msg Item_191]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado 1.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado 1.[n][e]
 
 [msg Item_192]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado 2.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado 2.[n][e]
 
 [msg Item_193]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado 3.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado 3.[n][e]
 
 [msg Item_194]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado 4.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado 4.[n][e]
 
 [msg Item_195]
-[s]Permette di apprendere[n]il tratto abilità[n]Att. critico aumentato ★.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. Crítico Aumentado ★.[n][e]
 
 [msg Item_196]
 [s]Permite que você aprenda[n]o[n]traço de habilidade VOID.[n][e]
@@ -1226,19 +1226,19 @@
 [s]Permite que você aprenda[n]o[n]traço de habilidade VOID.[n][e]
 
 [msg Item_199]
-[s]Permite que você aprenda[n]o traço de habilidade[n]SP Recovery 1.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Recuperar SP 1.[n][e]
 
 [msg Item_19A]
-[s]Permite que você aprenda o traço de habilidade[n]SP Recovery 2.[n][e]
+[s]Permite que você aprenda o traço de habilidade[n]Recuperar SP 2.[n][e]
 
 [msg Item_19B]
-[s]Permite que você aprenda o traço de habilidade[n]SP Recovery 3.[n][e]
+[s]Permite que você aprenda o traço de habilidade[n]Recuperar SP 3.[n][e]
 
 [msg Item_19C]
-[s]Permite que você aprenda o traço de habilidade[n]SP Recovery 4.[n][e]
+[s]Permite que você aprenda o traço de habilidade[n]Recuperar SP 4.[n][e]
 
 [msg Item_19D]
-[s]Permette di apprendere[n]il tratto abilità[n]Recupero SP ★.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Recuperar SP ★.[n][e]
 
 [msg Item_19E]
 [s]Permite que você aprenda[n]o[n]traço de habilidade VOID.[n][e]
@@ -1262,7 +1262,7 @@
 [s]Permite que você aprenda[n]o[n]traço de habilidade de alteração aumentado 4.[n][e]
 
 [msg Item_1A5]
-[s]Permette di apprendere[n]il tratto abilità[n]Alterazione aumentato ★.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Alterazione Aumentado ★.[n][e]
 
 [msg Item_1A6]
 [s]Permite que você aprenda[n]o[n]traço de habilidade VOID.[n][e]
@@ -1286,7 +1286,7 @@
 [s]Permite que você aprenda[n]o traço de habilidade[n]custo de ataque. mágico 4.[n][e]
 
 [msg Item_1AD]
-[s]Permette di apprendere[n]il tratto abilità[n]Costo att. magici ★.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Custo de Atk. Mágico ★.[n][e]
 
 [msg Item_1AE]
 [s]Permite que você aprenda[n]o[n]traço de habilidade VOID.[n][e]
@@ -1298,19 +1298,19 @@
 [s]Permite que você aprenda[n]o[n]traço de habilidade VOID.[n][e]
 
 [msg Item_1B1]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att HP cost. físico 1.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Custo de HP físico 1.[n][e]
 
 [msg Item_1B2]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att HP cost. físico 2.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Custo de HP físico 2.[n][e]
 
 [msg Item_1B3]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att HP cost. físico 3.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Custo de HP físico 3.[n][e]
 
 [msg Item_1B4]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att HP cost. físico 4.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Custo de HP físico 4.[n][e]
 
 [msg Item_1B5]
-[s]Permette di apprendere[n]il tratto abilità[n]Costo HP att. fisici ★.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Custo de HP físico ★.[n][e]
 
 [msg Item_1B6]
 [s]Permite que você aprenda[n]o[n]traço de habilidade VOID.[n][e]
@@ -1325,16 +1325,16 @@
 [s]Permite que você aprenda[n]o[n]traço de habilidade de Alvo Único Aprimorado 1.[n][e]
 
 [msg Item_1BA]
-[s]Permite que você aprenda[n]o[n]traço de habilidade Single Target Augmented 2.[n][e]
+[s]Permite que você aprenda[n]o[n]traço de habilidade Alvo Único Aumentado 2.[n][e]
 
 [msg Item_1BB]
-[s]Permite que você aprenda[n]o[n]traço de habilidade Single Target Augmented 3.[n][e]
+[s]Permite que você aprenda[n]o[n]traço de habilidade Alvo Único Aumentado 3.[n][e]
 
 [msg Item_1BC]
-[s]Permite que você aprenda[n]o[n]traço de habilidade Single Target Augmented 4.[n][e]
+[s]Permite que você aprenda[n]o[n]traço de habilidade Alvo Único Aumentado 4.[n][e]
 
 [msg Item_1BD]
-[s]Permette di apprendere[n]il tratto abilità[n]Bersaglio singolo aumentato ★.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Alvo único aumentado ★.[n][e]
 
 [msg Item_1BE]
 [s]Permite que você aprenda[n]o[n]traço de habilidade VOID.[n][e]
@@ -1346,19 +1346,19 @@
 [s]Permite que você aprenda[n]o[n]traço de habilidade VOID.[n][e]
 
 [msg Item_1C1]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Weapon Power 1.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Poder de Arma 1.[n][e]
 
 [msg Item_1C2]
-[s]Permite que você aprenda[n]o[n]traço de habilidade Enhanced Multiple Target 2.[n][e]
+[s]Permite que você aprenda[n]o[n]traço de habilidade Múltiplos Alvos Aprimorado 2.[n][e]
 
 [msg Item_1C3]
-[s]Permite que você aprenda  o traço de habilidade[n]Multi Target 3 aumentado.[n][e]
+[s]Permite que você aprenda  o traço de habilidade[n]Multi Alvos 3 aumentado.[n][e]
 
 [msg Item_1C4]
-[s]Permite que você aprenda  o traço de habilidade[n]Multi Target 4 aumentado.[n][e]
+[s]Permite que você aprenda  o traço de habilidade[n]Multi Alvos 4 aumentado.[n][e]
 
 [msg Item_1C5]
-[s]Permette di apprendere[n]il tratto abilità[n]Bersaglio multiplo aumentato ★.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Alvos Múltiplos ★.[n][e]
 
 [msg Item_1C6]
 [s]Permite que você aprenda[n]o[n]traço de habilidade VOID.[n][e]
@@ -1382,7 +1382,7 @@
 [s]Permite que você aprenda  o traço de habilidade[n]de Ataques Físicos aumentado 4.[n][e]
 
 [msg Item_1CD]
-[s]Permette di apprendere[n]il tratto abilità[n]Attacchi fisici aumentato ★.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Ataques Físicos Aumentado ★.[n][e]
 
 [msg Item_1CE]
 [s]Permite que você aprenda[n]o[n]traço de habilidade VOID.[n][e]
@@ -1406,7 +1406,7 @@
 [s]Permite que você aprenda[n]o aumento[n]do traço de habilidade mágica 4.[n][e]
 
 [msg Item_1D5]
-[s]Permette di apprendere[n]il tratto abilità[n]Magia aumentato ★.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Magia Aumentada ★.[n][e]
 
 [msg Item_1D6]
 [s]Permite que você aprenda[n]o[n]traço de habilidade VOID.[n][e]
@@ -1430,7 +1430,7 @@
 [s]Permite que você aprenda  o traço de habilidade[n]do Revezamento 4 Aumentado.[n][e]
 
 [msg Item_1DD]
-[s]Permette di apprendere[n]il tratto abilità[n]Staffetta aumentato ★.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Staffetta Aumentado ★.[n][e]
 
 [msg Item_1DE]
 [s]Permite que você aprenda[n]o[n]traço de habilidade VOID.[n][e]
@@ -1454,7 +1454,7 @@
 [s]Permite que você aprenda[n]o traço de habilidade de emboscada[n]aumentado 4.[n][e]
 
 [msg Item_1E5]
-[s]Permette di apprendere[n]il tratto abilità[n]Imboscata aumentato ★.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Imboscata Aumentado ★.[n][e]
 
 [msg Item_1E6]
 [s]Permite que você aprenda[n]o[n]traço de habilidade VOID.[n][e]
@@ -1478,7 +1478,7 @@
 [s]Permite que você aprenda[n]o traço de habilidade[n]1 Aumentado Mais 4.[n][e]
 
 [msg Item_1ED]
-[s]Permette di apprendere[n]il tratto abilità[n]Ancora 1 aumentato ★.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Ancora 1 Aumentado ★.[n][e]
 
 [msg Item_1EE]
 [s]Permite que você aprenda[n]o[n]traço de habilidade VOID.[n][e]
@@ -1502,7 +1502,7 @@
 [s]Permite que você aprenda[n]o traço de habilidade[n]Multiplicador de alterações 4.[n][e]
 
 [msg Item_1F5]
-[s]Permette di apprendere[n]il tratto abilità[n]Moltiplicatore alterazioni ★.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Multiplicador de alterações ★.[n][e]
 
 [msg Item_1F6]
 [s]Permite que você aprenda[n]o[n]traço de habilidade VOID.[n][e]
@@ -1514,440 +1514,440 @@
 [s]Permite que você aprenda[n]o[n]traço de habilidade VOID.[n][e]
 
 [msg Item_1F9]
-[s]Permette di apprendere[n]il tratto abilità[n]Att. fisici aumentati (basso).[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. Físico Aumentado (baixo).[n][e]
 
 [msg Item_1FA]
-[s]Permette di apprendere[n]il tratto abilità[n]Att. fisici aumentati (medio).[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. Físico Aumentado (medio).[n][e]
 
 [msg Item_1FB]
-[s]Permette di apprendere[n]il tratto abilità[n]Att. fisici aumentati (alto).[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. Físico Aumentado (alto).[n][e]
 
 [msg Item_1FC]
-[s]Permette di apprendere[n]il tratto abilità[n]Costo cure (basso).[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Custo de Cura (baixo).[n][e]
 
 [msg Item_1FD]
-[s]Permette di apprendere[n]il tratto abilità[n]Costo cure (medio).[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Custo de Cura (medio).[n][e]
 
 [msg Item_1FE]
-[s]Permette di apprendere[n]il tratto abilità[n]Costo cure (alto).[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Custo de Cura (alto).[n][e]
 
 [msg Item_1FF]
-[s]Permette di apprendere[n]il tratto abilità[n]Magia aumentato (basso).[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Magia Aumentada (baixo).[n][e]
 
 [msg Item_200]
-[s]Permette di apprendere[n]il tratto abilità[n]Magia aumentato (medio).[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Magia Aumentada (medio).[n][e]
 
 [msg Item_201]
-[s]Permette di apprendere[n]il tratto abilità[n]Magia aumentato (alto).[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Magia Aumentada (alto).[n][e]
 
 [msg Item_202]
-[s]Permette di apprendere[n]il tratto abilità[n]Costo att. fisici (basso).[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Custo Atk. Físico (baixo).[n][e]
 
 [msg Item_203]
-[s]Permette di apprendere[n]il tratto abilità[n]Costo att. fisici (medio).[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Custo Atk. Físico (medio).[n][e]
 
 [msg Item_204]
-[s]Permette di apprendere[n]il tratto abilità[n]Costo att. fisici (alto).[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Custo Atk. Físico (alto).[n][e]
 
 [msg Item_205]
-[s]Permette di apprendere[n]il tratto abilità[n]Costo Magia (basso).[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Custo Magia (baixo).[n][e]
 
 [msg Item_206]
-[s]Permette di apprendere[n]il tratto abilità[n]Costo Magia (medio).[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Custo Magia (medio).[n][e]
 
 [msg Item_207]
-[s]Permette di apprendere[n]il tratto abilità[n]Costo Magia (alto).[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Custo Magia (alto).[n][e]
 
 [msg Item_208]
-[s]Permette di apprendere[n]il tratto abilità[n]Tecnico aumentato (basso).[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Tecnico Aumentado (baixo).[n][e]
 
 [msg Item_209]
-[s]Permette di apprendere[n]il tratto abilità[n]Tecnico aumentato (medio).[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Tecnico Aumentado (medio).[n][e]
 
 [msg Item_20A]
-[s]Permette di apprendere[n]il tratto abilità[n]Tecnico aumentato (alto).[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Tecnico Aumentado (alto).[n][e]
 
 [msg Item_20B]
-[s]Permette di apprendere[n]il tratto abilità[n]Costo attacco (basso).[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Custo Ataque (baixo).[n][e]
 
 [msg Item_20C]
-[s]Permette di apprendere[n]il tratto abilità[n]Costo attacco (medio).[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Custo Ataque (medio).[n][e]
 
 [msg Item_20D]
-[s]Permette di apprendere[n]il tratto abilità[n]Costo attacco (alto).[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Custo Ataque (alto).[n][e]
 
 [msg Item_20E]
-[s]Permette di apprendere[n]il tratto abilità[n]Critico aumentato (basso).[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Critico Aumentado (baixo).[n][e]
 
 [msg Item_20F]
-[s]Permette di apprendere[n]il tratto abilità[n]Critico aumentato (medio).[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Critico Aumentado (medio).[n][e]
 
 [msg Item_210]
-[s]Permette di apprendere[n]il tratto abilità[n]Critico aumentato (Superiore).[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Critico Aumentado (Superiore).[n][e]
 
 [msg Item_211]
 [s]Permite que você aprenda[n]o traço de habilidade[n]Reforços.[n][e]
 
 [msg Item_212]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Certain Flight.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Determinado Voo.[n][e]
 
 [msg Item_213]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_214]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_215]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_216]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_217]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_218]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_219]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_21A]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_21B]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_21C]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_21D]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_21E]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_21F]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_220]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_221]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_222]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_223]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_224]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_225]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_226]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_227]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_228]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_229]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_22A]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_22B]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_22C]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_22D]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_22E]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_22F]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_230]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_231]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_232]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_233]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_234]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_235]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_236]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_237]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_238]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_239]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_23A]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_23B]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_23C]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_23D]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_23E]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_23F]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_240]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_241]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_242]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_243]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_244]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_245]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_246]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_247]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_248]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_249]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_24A]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_24B]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_24C]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_24D]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_24E]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_24F]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_250]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_251]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_252]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_253]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_254]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_255]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_256]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_257]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_258]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_259]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_25A]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_25B]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_25C]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_25D]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_25E]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_25F]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_260]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_261]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_262]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_263]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_264]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_265]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_266]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_267]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_268]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_269]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_26A]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_26B]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_26C]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_26D]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_26E]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_26F]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_270]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_271]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_272]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_273]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_274]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_275]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_276]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_277]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_278]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_279]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_27A]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_27B]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_27C]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_27D]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_27E]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_27F]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_280]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_281]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_282]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_283]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_284]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_285]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_286]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_287]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_288]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_289]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 
 [msg Item_28A]
-[s]Permite que você aprenda[n]o traço de habilidade[n]Att. crítico aumentado.[n][e]
+[s]Permite que você aprenda[n]o traço de habilidade[n]Atk. crítico aumentado.[n][e]
 

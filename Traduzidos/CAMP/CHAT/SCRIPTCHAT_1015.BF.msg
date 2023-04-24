@@ -18,7 +18,7 @@
 
 [msg MSG_MORUGANA_03 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Ninguém pensa que você está vivo.[n]Se você tomar cuidado,[n]tudo deve ficar bem.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Quer ir ao Makoto's?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Quer ir ver a Makoto?[n][f 1 3 65535][w][e]
 
 [sel SEL_001 top]
 [s]Vá agora[e]

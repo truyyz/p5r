@@ -130,7 +130,7 @@
 [s][vp 8 0 0 255 8 0]Eu me sinto como... renascido.[n]Este é meu novo poder![n][f 1 3 65535][w][e]
 
 [msg PFM_030_7_0]
-[s][vp 8 0 0 0 65535 0][clr 1]Milady[clr 27], Haru's Persona,[n]transformada em [clr 2]Astarte[clr 27]![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][clr 1]Milady[clr 27], Persona de Haru,[n]transformada em [clr 2]Astarte[clr 27]![n][f 1 3 65535][w][e]
 
 [msg MSG_031_0_0 [Haru]]
 [s][bup 0 7 7 65535 0][f 4 10 65535 0 0][vp 8 0 0 52 65535 0]Aaah... Depois daquele café[n]me sinto bem acordado.[n][f 1 3 65535][w][e]

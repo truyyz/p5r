@@ -227,7 +227,7 @@
 [s][vp 1 0 0 0 0 0]Grandes limpezas não vão[n]melhorar[n]a imagem da escola.[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_0528_2]
-[s][vp 1 0 0 0 0 0]Coisa? Ela não vem para a arrumação?[n]Quão preciosa é[n]essa aluna modelo?[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Quê? Ela não vem para a arrumação?[n]Quão preciosa é[n]essa aluna modelo?[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_0528_3]
 [s][vp 1 0 0 0 0 0]Devemos ir ao[n]Inokashira Park em nossos estúpidos[n]fatos de treino?[n][f 1 3 65535][w][e]
@@ -395,7 +395,7 @@
 [s][vp 1 0 0 0 0 0]Os Phantom Thieves são alunos[n]da nossa escola, não são?[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_1104_3]
-[s][vp 1 0 0 0 0 0]Coisa? Quem está aí?[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Quê? Quem está aí?[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_1104_4]
 [s][vp 1 0 0 0 0 0]Eu realmente tinha uma queda por[n]dr. Maruki...[n][f 1 3 65535][w][e]

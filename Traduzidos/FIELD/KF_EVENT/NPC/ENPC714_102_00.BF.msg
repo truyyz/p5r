@@ -70,8 +70,8 @@
 
 [msg MSG_DET_KAWKAMI_NOT_CL [Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][f 4 23 1 802 3 10 0 10]Esta situação é um verdadeiro incômodo. Por que[n]eu soltei aquele panfleto?[n][w][e]
-[s]Forse è troppo[n]chiederlo, ma conto su[n]di te, Padrone☆[n][w][e]
-[s]*suspirar*[n][w][e]
+[s]Talvez seja muito[n]pedir, mas estou contando com[n]você, Mestre☆[n][w][e]
+[s]*suspira*[n][w][e]
 
 [msg MSG_DET_KAWKAMI_CLEARED_ [Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][f 4 23 1 802 3 10 0 10]Obrigado.[n][w][e]

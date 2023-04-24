@@ -1,5 +1,5 @@
 [msg MSG_CHAT_quest19_clear_0 [Mishima]]
-[s][f 5 14]Você salvou o cinema em Yongen![n]Ninguém vai ameaçar despejo novamente[n]aquele casal de idosos.[n][w][e]
+[s][f 5 14]Você salvou o cinema em Yongen![n]Ninguém vai ameaçar despejo novamente[n]aquele par de idosos.[n][w][e]
 [s][f 5 14][f 5 15]Se os especuladores não voltarem,[n]poderão voltar a[n]exibir filmes![n][w][e]
 
 [msg MSG_001_0_0 [Morgana]]

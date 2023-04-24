@@ -377,7 +377,7 @@
 [s][vp 8 2 65535 0 0 0][f 4 25 1 10 0 65535]Eu quero fazer! Eu quero me tornar![n]Falcão, berinjela,[n]querido Monte Fuji![n][w][e]
 
 [msg MSG_MUSICIAN_019_2_0 [Jovem roqueiro]]
-[s][vp 8 2 1 0 10 0]*suspirar*[n][w][e]
+[s][vp 8 2 1 0 10 0]*suspira*[n][w][e]
 
 [sel SEL_MUSICIAN_019_0_0 top]
 [s]O que acontece?[e]
@@ -3369,7 +3369,7 @@
 [s][vp 9 2 65535 59023 0 0]Bem, até amanhã![n]Te mando uma mensagem mais tarde![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_031_32_ [Homem de olhos claros]]
-[s][vp 9 2 65535 40801 0 0]Coisa? Um cigarro?[n]Eu não fumo, desculpe.[n][f 1 2 180][e]
+[s][vp 9 2 65535 40801 0 0]Quê? Um cigarro?[n]Eu não fumo, desculpe.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_032_01_ [Homem de olhos claros]]
 [s]0[n][f 1 2 180][e]

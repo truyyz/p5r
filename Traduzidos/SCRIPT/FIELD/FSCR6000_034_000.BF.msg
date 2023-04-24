@@ -34,7 +34,7 @@
 [s][vp 1 0 0 0 0 0]Agora eu entendo. Vocês fingem ser heróis,[n]mas não passam de criminosos.[n]Vou matar todos vocês![n][w][e]
 
 [msg QUEST_34_BOSS_EV_mes04 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 0 0 0]Poder![n][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 0 0 0]Vamos lá![n][w][e]
 
 [msg MSG_017_0_0 [Sombra de Odo]]
 [s][vp 1 0 0 0 0 0]S-Sinto muito![n]Não sou digno de ser[n]o gerente da loja...?[n][w][e]

@@ -48,7 +48,7 @@
 [s][f 4 16 4 2 300 1 6028][vp 8 0 0 0 65535 0]Sim, não é da sua conta![n]Sua cabecinha pensa[n]só em garotas?[n][f 1 3 65535][w][e]
 
 [msg MSG_031_0_0 [Ryuji]]
-[s][f 4 16 2 6 301 1 7189][vp 8 0 0 0 65535 0]Coisa? Mas se estivéssemos[n]juntos ontem![n][f 1 3 65535][w][e]
+[s][f 4 16 2 6 301 1 7189][vp 8 0 0 0 65535 0]Quê? Mas se estivéssemos[n]juntos ontem![n][f 1 3 65535][w][e]
 
 [msg MSG_032_0_0 [Ann]]
 [s][bup 0 4 2 1 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ele tem razão! Você está muito mais[n]desesperado que vocês dois, Ryuji![n][f 1 3 65535][w][e]

@@ -361,7 +361,7 @@
 [s][bup 0 102 2 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Tudo bem então. Você realmente deseja[n]desligar o alarme?[n][f 1 3 65535][w][e]
 
 [msg MSG_LAVENZA_AlartStop_No [Lavenza]]
-[s][bup 0 100 4 0 0][f 4 10 65535 0 0][vp 8 2 0 55463 65535 0]Coisa? Mas o alarme é certamente...[n][f 1 3 65535][w][e]
+[s][bup 0 100 4 0 0][f 4 10 65535 0 0][vp 8 2 0 55463 65535 0]Quê? Mas o alarme é certamente...[n][f 1 3 65535][w][e]
 [s][bup 0 100 3 0 0][f 4 10 65535 0 0][vp 8 2 0 55480 65535 0]No entanto, se o alarme impedir que você[n]faça a fusão como deseja,[n]não há benefício...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Parece uma pena, mas... tudo bem.[n]Tem certeza que deseja parar o alarme?[n][f 1 3 65535][w][e]
 

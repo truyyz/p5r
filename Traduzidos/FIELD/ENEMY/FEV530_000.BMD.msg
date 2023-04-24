@@ -254,7 +254,7 @@
 [s]Eu os perdi...[n]Ruim.[n][f 1 2 65535][e]
 
 [msg MSG_NML02_MNLG_NML_02_01]
-[s]Coisa? Tem alguém aí?[n][f 1 2 65535][e]
+[s]Quê? Tem alguém aí?[n][f 1 2 65535][e]
 
 [msg MSG_NML02_MNLG_NML_02_02]
 [s]Tudo bem, sem[n]problemas aqui.[n][f 1 2 65535][e]
