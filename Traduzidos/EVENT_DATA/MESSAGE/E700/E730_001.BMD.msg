@@ -695,7 +695,7 @@
 
 [msg MSG_171_0_0 [Prof. Usami]]
 [s][bup 0 305 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Seno, cosseno e tangente.[n]É neste ponto que muitos[n]começam a se perder.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Por que entrar em pânico com[n]alguns gráficos? Não entendo.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Por que entrar em pânico com[n]alguns gráficos? Não entendi.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Uma fórmula complicada é[n]condensada em algumas linhas...[n]Não é mais simples e elegante?[n][f 1 3 65535][w][e]
 
 [msg MSG_172_0_0 [Prof. Usami]]
@@ -1542,7 +1542,7 @@
 
 [msg MSG_371_0_0 [Prof. Usami]]
 [s][bup 0 305 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Seno, cosseno e tangente.[n]É neste ponto que muitos[n]começam a se perder.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Por que entrar em pânico com[n]alguns gráficos? Não entendo.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Por que entrar em pânico com[n]alguns gráficos? Não entendi.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Uma fórmula complicada é[n]condensada em algumas linhas...[n]Não é mais simples e elegante?[n][f 1 3 65535][w][e]
 
 [msg MSG_372_0_0 [Prof. Usami]]

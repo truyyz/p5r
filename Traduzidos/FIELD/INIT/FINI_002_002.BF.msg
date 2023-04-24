@@ -76,7 +76,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Temos que tentar novamente conversar[n]com os jogadores de vôlei.[n]Você não esqueceu, não é?[n][w][e]
 
 [sel SEL_E14130101_001 top]
-[s]Gosta?[e]
+[s]Quê?[e]
 [s]Eu esqueci.[e]
 [s]Esse aborrecimento.[e]
 

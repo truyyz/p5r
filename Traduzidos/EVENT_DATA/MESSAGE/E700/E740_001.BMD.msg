@@ -44,7 +44,7 @@
 [s][bup 0 111 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 19024 65535 0][f 5 13 19 15 1011]verdade!?! Olhe para ele! Ela definitivamente[n]tem uma aura maligna.[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Mishima]]
-[s][bup 0 111 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Gosta? Mas é muito suspeito![n]Tem que ser do mal![n][f 1 3 65535][w][e]
+[s][bup 0 111 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Quê? Mas é muito suspeito![n]Tem que ser do mal![n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Mishima]]
 [s][bup 0 111 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 19 5 1011]Bem, isso é porque eu sou o admin[n]do Phan-Site e...[n][f 1 3 65535][w][e]

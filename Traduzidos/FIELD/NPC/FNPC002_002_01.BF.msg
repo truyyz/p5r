@@ -393,7 +393,7 @@
 [s][vp 8 2 1 0 1 0]Bem, eu ouvi que este aluno vai para Kosei High.[n]E isso é incrivelmente lindo![n][w][e]
 
 [msg MSG_SINBUNJYOSI_005_3_0 [Editor de jornal]]
-[s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]O novo orientador parece[n]gozar de boa reputação[n]entre os alunos.[n][w][e]
+[s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]O novo orientador parece[n]cheio de boa reputação[n]entre os alunos.[n][w][e]
 [s][vp 8 2 1 0 1 0]Alguns acham que não é a melhor maneira de lidar[n]com o escândalo de assédio ... é inevitável.[n][w][e]
 
 [msg MSG_SINBUNJYOSI_005_4_0 [Editor de jornal]]

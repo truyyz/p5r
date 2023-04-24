@@ -5,7 +5,7 @@
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Mas esse lugar não está[n]sempre vazio mesmo?[n][f 1 3 65535][w][e]
 
 [sel SEL_002_0_0 top]
-[s]Verdadeiro.[e]
+[s]Verdade.[e]
 [s]Grosseiro.[e]
 [s]Eu digo ao chefe.[e]
 

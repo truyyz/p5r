@@ -49,7 +49,7 @@
 
 [sel SEL_E24330100_OUTLOW_001 top]
 [s]Você teria uma queimadura.[e]
-[s]Não entendo.[e]
+[s]Não entendi.[e]
 [s]Mas aquele trabalho de meio período...[e]
 
 [msg MSG_E24330100_OUTLOW_002 [Homem ameaçador]]

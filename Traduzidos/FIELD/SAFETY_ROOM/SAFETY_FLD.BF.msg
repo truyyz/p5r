@@ -2782,7 +2782,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 1 5 65535 0]Acho que a aparição[n]dura um dia no máximo.[n][w][e]
 
 [msg KAMOSHIDA_YOKOKU_mes08 [Ryuji]]
-[s][bup 0 2 5 65535 0][f 4 10 65535 0 0][f 4 23 1 2 3 5 11 5][vp 8 0 1 6 65535 0]Gosta?!? Praticamente um momento...![n][w][e]
+[s][bup 0 2 5 65535 0][f 4 10 65535 0 0][f 4 23 1 2 3 5 11 5][vp 8 0 1 6 65535 0]Quê?!? Não temos tempo...![n][w][e]
 [s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 0 1 7 65535 0]De qualquer forma, agora podemos enviá-lo, não[n]podemos? Então vamos fazer isso e roubar o[n]tesouro daquele desgraçado![n][w][e]
 
 [msg MEMENTOS_0509_mes01 [Ryuji]]
@@ -2817,7 +2817,7 @@
 [s][f 4 23 1 2 3 5 11 5][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Vejo que estamos todos aqui...[n]Você quer ir para o Mementos, não quer?[n][w][e]
 
 [msg MEMENTOS_0510_mes06 [Ann]]
-[s][f 4 23 1 4 3 5 11 5][bup 0 4 4 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]O que você está dizendo? Não[n]estudamos para os exames?[n][w][e]
+[s][f 4 23 1 4 3 5 11 5][bup 0 4 4 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]O que você está dizendo? Não[n]vamos estudar para os exames?[n][w][e]
 
 [msg MEMENTOS_0510_mes07 [Ryuji]]
 [s][f 4 23 1 2 3 5 11 5][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 7074 65535 0]Ah, você se preocupa com esses[n]detalhes... Eu prefiro[n]mergulhar na ação![n][w][e]
@@ -3060,7 +3060,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 1 22 65535 0]Tanto quanto eu sei, é um aplicativo muito[n]especial. Não foi feito por métodos comuns.[n][w][e]
 
 [msg KANESHIRO_MAKOTO_mes19 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][f 4 23 1 6 3 5 11 5][vp 8 0 1 23 65535 0]Verdadeiro. Um app que te permite[n]entrar em outro mundo[n]não pode ser como os outros...[n][w][e]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][f 4 23 1 6 3 5 11 5][vp 8 0 1 23 65535 0]Verdade. Um app que te permite[n]entrar em outro mundo[n]não pode ser como os outros...[n][w][e]
 [s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 0 1 24 65535 0]Bem, minha irmã não sabe quem são os Phantom[n]Thieves, então, por enquanto, nossos dados estão[n]seguros.[n][w][e]
 
 [msg KANESHIRO_MAKOTO_mes20 [Morgana]]

@@ -885,7 +885,7 @@
 [s][vp 8 2 1 0 11 0]Não, não era isso que eu tinha em mente.[n]Estou mortificado...[n][w][e]
 [s][vp 8 2 1 0 11 0]Como sinal de gratidão, eu[n]envio nossa melhor garota[n]para ela imediatamente. Não, por favor, eu insisto.[n][w][e]
 [s][vp 8 2 1 0 11 0]Contamos com o seu[n]apoio duradouro à Agência Asakura![n][w][e]
-[s][vp 8 2 1 0 11 0]...Preparar? Olá?[n][w][e]
+[s][vp 8 2 1 0 11 0]...Olá? Olá?[n][w][e]
 
 [msg MSG_GEINOUDON_012_0_0 [Veterano do show business]]
 [s][f 4 23 1 11 3 10 0 10][vp 8 2 1 0 11 0]Ei, um dos clientes reclamou de você! Ela disse[n]que você recusou o convite dela e foi embora![n][w][e]

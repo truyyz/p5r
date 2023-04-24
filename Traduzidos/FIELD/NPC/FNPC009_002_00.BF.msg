@@ -2931,7 +2931,7 @@
 [s][vp 9 2 65535 45655 0 0]Mas o que os Phantom Thieves dizem?[n]Shido negou tanto, então...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_028_03_ [Velhote]]
-[s][vp 9 2 65535 39307 0 0]O que pulou na cabeça dos[n]Phantom Thieves? Não entendo.[n][f 1 2 180][e]
+[s][vp 9 2 65535 39307 0 0]O que pulou na cabeça dos[n]Phantom Thieves? Não entendi.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_028_04_ [Velhote]]
 [s][vp 9 2 65535 45305 0 0]Quem é o bandido aqui?[n]The Phantom Thieves...[n]Ou talvez Shido-san?[n][f 1 2 180][e]

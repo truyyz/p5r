@@ -147,7 +147,7 @@
 [s][vp 9 2 65535 45304 0 0]Ele admitiu...?[n]Pervertido e estúpido,[n]então![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_003_15_]
-[s][vp 9 2 65535 46405 0 0]Por que ele confessou, tão[n]de repente? Não entendo...[n][f 1 2 180][e]
+[s][vp 9 2 65535 46405 0 0]Por que ele confessou, tão[n]de repente? Não entendi...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_003_16_]
 [s][vp 9 2 65535 41001 0 0]Ele se aproveitou das[n]garotas do time...[n]Que merda...[n][f 1 2 180][e]

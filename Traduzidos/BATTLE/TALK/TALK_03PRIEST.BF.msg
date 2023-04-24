@@ -129,7 +129,7 @@
 [s]É tomar consciência do olhar do Pai, que sempre[n]vela por vós com a sua graça amorosa.[n][w][e]
 
 [sel TalkSel_GUY_CHAT_FQ_03 top]
-[s]Não entendo.[e]
+[s]Não entendi.[e]
 [s]Eu sinto isso olhando por mim.[e]
 [s]Eu prefiro um olhar mais difícil.[e]
 
@@ -416,7 +416,7 @@
 [sel TalkSel_GUY_CHAT_FQ_08 top]
 [s]Deixe o futuro comigo.[e]
 [s]Eu preciso de sua orientação.[e]
-[s]Não entendo.[e]
+[s]Não entendi.[e]
 
 [msg TalkMsg_GUY_CHAT_FQ_08_R]
 [s]Alguém pode confiar o futuro a[n]alguém que assim coloca[n]outros em perigo?[n][w][e]

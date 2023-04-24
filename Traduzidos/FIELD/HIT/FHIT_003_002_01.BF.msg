@@ -427,7 +427,7 @@
 
 [msg MSG_CatBed_1ST [Morgana]]
 [s][bup 0 3 1 65535 0][f 4 10 65535 0 0]Mmm, já que você foi[n]gentil em comprá-lo para mim,[n]vou começar a dormir aqui.[n][w][e]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0]Gosta? Onde eu dormi[n]até agora? Às vezes, mentindo sobre você.[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0]Quê? Onde eu dormi[n]até agora? Às vezes, mentindo sobre você.[n][w][e]
 
 [msg MSG_CatBed_Common [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0]Vamos, não fique com raiva.[n][w][e]

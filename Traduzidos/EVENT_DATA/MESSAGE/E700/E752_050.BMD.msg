@@ -39,7 +39,7 @@
 [s]Senti a sua falta.[e]
 
 [msg MSG_012_0_0 [Takemi]]
-[s][bup 0 108 500 6 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]A sério. Não entendo.[n][f 1 3 65535][w][e]
+[s][bup 0 108 500 6 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]A sério. Não entendi.[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Takemi]]
 [s][bup 0 108 500 6 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Eu poderia fazer uma visita mais[n]aprofundada.[n][f 1 3 65535][w][e]

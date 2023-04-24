@@ -1074,7 +1074,7 @@
 [s][f 4 23 1 3 3 10 0 10][vp 8 2 1 0 2 0]Aqui, a verdade é que este será[n]meu último single. Eu darei tudo,[n]então espero que você ouça.[n][w][e]
 
 [msg MSG_TIKAAIDORU_019_8_0 [Homem obcecado]]
-[s][vp 8 2 1 0 3 0]Gosta? Você quer sair da banda?!? Você está[n]brincando, não é? Diga-me que é uma piada.[n]Chika-chan![n][w][e]
+[s][vp 8 2 1 0 3 0]Quê? Você quer sair da banda?!? Você está[n]brincando, não é? Diga-me que é uma piada.[n]Chika-chan![n][w][e]
 
 [msg MSG_TIKAAIDORU_020_0_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]O último single de D-kyun,[n]"My Treasure", está[n]à venda agora![n][w][e]
@@ -1204,7 +1204,7 @@
 [s][vp 8 2 1 0 603 0]Já. Ela sai com meninos do[n]mesmo ano, também amigos[n]de seu namorado.[n][w][e]
 
 [msg quest09_hint_talk_00_04 [Mulher sorridente]]
-[s][vp 8 2 1 0 602 0]Gosta?!? Mas você tem ideia do risco que corre? E[n]o namorado dela não sabe de nada?[n][w][e]
+[s][vp 8 2 1 0 602 0]Quê?!? Mas você tem ideia do risco que corre? E[n]o namorado dela não sabe de nada?[n][w][e]
 
 [msg quest09_hint_talk_00_05 [Mulher vestida modestamente]]
 [s][vp 8 2 1 0 603 0]Não sei. Ele deveria[n]ter descoberto até agora, vendo quantas[n]vezes isso aconteceu...[n][w][e]
@@ -1693,7 +1693,7 @@
 [s][f 4 23 1 12 3 10 0 10][vp 8 2 1 0 12 0]Entendo. Você é o candidato da oposição. Não,[n]você está agindo para derrubar o regime![n][w][e]
 
 [msg MSG_NANPASI_018_2_0 [Mulherengo iniciante]]
-[s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Gosta?!? Do que você está falando, senpai?!?[n][w][e]
+[s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Quê?!? Do que você está falando, senpai?!?[n][w][e]
 
 [msg MSG_NANPASI_018_3_0 [Mulherengo especialista]]
 [s][f 4 23 1 12 3 10 0 10][vp 8 2 1 0 12 0]Com quem? Com quem você a viu?!?[n]Olhe nos meus olhos e diga![n][w][e]
@@ -2144,7 +2144,7 @@
 [s][vp 9 2 65535 42811 0 0]Faça o mínimo necessário,[n]não adianta usar.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_003_01_ [Morgana]]
-[s][vp 9 2 65535 40102 0 0]Não entendo... Por que ele[n]confessou tão de repente?[n][f 1 2 180][e]
+[s][vp 9 2 65535 40102 0 0]Não entendi... Por que ele[n]confessou tão de repente?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_003_02_ [Morgana]]
 [s][vp 9 2 65535 40305 0 0]Campeão olímpico ou[n]não, acabou.[n][f 1 2 180][e]
@@ -2165,7 +2165,7 @@
 [s][vp 9 2 65535 40355 0 0]Ele se aproveitou das[n]garotas do time...[n]Que merda...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_003_08_ [Morgana]]
-[s][vp 9 2 65535 44001 0 0]Não entendo... Por que ele[n]confessou tão de repente?[n][f 1 2 180][e]
+[s][vp 9 2 65535 44001 0 0]Não entendi... Por que ele[n]confessou tão de repente?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_003_09_ [Morgana]]
 [s][vp 9 2 65535 45059 0 0]Ele assediou aquelas[n]garotas abusando de[n]sua posição... Tsk.[n][f 1 2 180][e]
@@ -2177,7 +2177,7 @@
 [s][vp 9 2 65535 40553 0 0]Eles realmente prenderam[n]aquela professora depravada?[n]Que engraçado![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_003_12_ [Morgana]]
-[s][vp 9 2 65535 43805 0 0]Não entendo... Por que ele[n]confessou tão de repente?[n][f 1 2 180][e]
+[s][vp 9 2 65535 43805 0 0]Não entendi... Por que ele[n]confessou tão de repente?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_004_01_ [Morgana]]
 [s][vp 9 2 65535 39105 0 0]Você sabe quem é Madarame?[n]Ele parece ser um[n]pintor famoso.[n][f 1 2 180][e]

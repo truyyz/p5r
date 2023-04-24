@@ -14,7 +14,7 @@
 [s][f 5 14]Duvido que ele esteja segurando[n]algo tangível.[n][w][e]
 
 [msg MSG_005_0_0 [Akechi]]
-[s][f 5 14]Verdadeiro. É por isso, afinal, que ele[n]emitiu aquele mandado de prisão sobre os[n]Phantom Thieves.[n][w][e]
+[s][f 5 14]Verdade. É por isso, afinal, que ele[n]emitiu aquele mandado de prisão sobre os[n]Phantom Thieves.[n][w][e]
 
 [msg MSG_006_0_0 [Makoto]]
 [s][f 5 14]Além disso, as pessoas acreditam que[n]apenas nos prender[n]encerrará o caso.[n][w][e]

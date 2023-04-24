@@ -178,7 +178,7 @@
 [s][bup 0 8 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Que choque! É muito forte![n][f 1 3 65535][w][e]
 
 [msg MSG_022_1_0 [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 7199 65535 0][f 5 13 8 10 2]Isso é café de verdade?[n]Não entendo... É incrível que[n]pessoas possam beber isso![n][f 1 3 65535][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 7199 65535 0][f 5 13 8 10 2]Isso é café de verdade?[n]Não entendi... É incrível que[n]pessoas possam beber isso![n][f 1 3 65535][w][e]
 
 [msg MSG_022_3_0 [Yusuke]]
 [s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 4132 65535 0][f 5 13 5 10 5]Não, tenho certeza que é assim que o café de[n]verdade tem gosto. Meus gostos ainda não são[n]muito refinados.[n][f 1 3 65535][w][e]

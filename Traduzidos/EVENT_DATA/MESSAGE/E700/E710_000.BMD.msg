@@ -125,7 +125,7 @@
 [s]Acho que não funciona.[e]
 
 [msg MSG_027_0_0 [Chihaya]]
-[s][bup 0 113 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Gosta? Mesmo que a morte se aproxime?[n][f 1 3 65535][w][e]
+[s][bup 0 113 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Quê? Mesmo que a morte se aproxime?[n][f 1 3 65535][w][e]
 
 [msg MSG_028_0_0 [Chihaya]]
 [s][bup 0 113 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]N-Não é golpe, eu juro![n][f 1 3 65535][w][e]

@@ -15,7 +15,7 @@
 [s][bup 0 3 1 0 0][vp 1 0 0 0 0 0][f 4 10 65535 0 0]Entendo… Laços mais fortes serão[n]muito úteis em nossas missões Phantom Thieves![n][w][e]
 
 [msg MSG_010_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Gosta? Mas chegamos até aqui...[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Quê? Mas chegamos até aqui...[n][w][e]
 
 [msg MSG_RSTART [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1185 65535 0]Então você quer rezar?[n][w][e]

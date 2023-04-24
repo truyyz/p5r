@@ -39,7 +39,7 @@
 [s][f 5 14]Eles estão pelo menos um passo[n]à nossa frente.[n][w][e]
 
 [msg MSG_013_0_0 [Yusuke]]
-[s][f 5 14]Verdadeiro. Um amador não[n]seria capaz de abrir[n]aquela passagem.[n][w][e]
+[s][f 5 14]Verdade. Um amador não[n]seria capaz de abrir[n]aquela passagem.[n][w][e]
 
 [msg MSG_014_0_0 [Makoto]]
 [s][f 5 14]É claro que eles sabem algo[n]que nós não sabemos.[n][w][e]

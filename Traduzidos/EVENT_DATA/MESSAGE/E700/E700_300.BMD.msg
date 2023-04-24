@@ -1772,7 +1772,7 @@
 [s][bup 0 9 1 65535 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Se eles tivessem me visto hoje,[n]talvez teriam dito que eu não[n]parecia o detetive Prince.[n][f 1 3 65535][w][e]
 
 [sel SEL_450_0_0 top]
-[s]Verdadeiro.[e]
+[s]Verdade.[e]
 [s]Eles provavelmente adorariam.[e]
 [s][f 0 8 2 1 2217]Minha culpa, eu acho.[clr 27][e]
 
@@ -4157,7 +4157,7 @@
 
 [msg MSG_1051_0_0 [Mishima]]
 [s][bup 0 111 2 65535 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Anteriormente, eu estava verificando o Phan-Site[n]e encontrei muitos comentários de inimigos do[n]Phantom Thieves![n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Estou tão bravo que fui dormir. Neste ponto,[n]prefiro ficar acordado para responder![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Fiquei tão bravo que fui dormir. Neste ponto,[n]prefiro ficar acordado para responder![n][f 1 3 65535][w][e]
 
 [sel SEL_1052_0_0 top]
 [s][f 0 8 2 1 2217]Nada mal, gerenciador de imagens.[clr 27][e]
@@ -4210,7 +4210,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Até mais![n][f 1 3 65535][w][e]
 
 [msg MSG_1064_0_0 [Mishima]]
-[s][bup 0 111 0 65535 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ah, [f 4 1]? Desculpe, eu[n]namorei com você de novo por nada.[n][f 1 3 65535][w][e]
+[s][bup 0 111 0 65535 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ah, [f 4 1]? Desculpe, eu[n]tirei você de casa pra nada.[n][f 1 3 65535][w][e]
 
 [msg MSG_1065_0_0 [Mishima]]
 [s][bup 0 111 0 65535 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Como representante da imagem[n]dos Phantom Thieves, tentei[n]levantar um pouco meu ânimo, mas...[n][f 1 3 65535][w][e]

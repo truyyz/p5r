@@ -615,7 +615,7 @@
 [s][bup 0 221 3 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 2 0 0]Não é exatamente o gosto[n]que me disseram...[n][w][e]
 
 [sel JOZE_BEFORE_BTL_2nd_SEL0 top]
-[s]Gosta?[e]
+[s]Quê?[e]
 [s]Não é bom?[e]
 
 [msg JOZE_BEFORE_BTL_2nd_03 [Jose]]
@@ -669,7 +669,7 @@
 [s][bup 0 221 3 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 8 0 0]As pessoas realmente não podem ter[n]consciência de si mesmas?[n]Todas elas são assim?[n][w][e]
 
 [msg JOZE_BEFORE_BTL_3rd_07 [Jose]]
-[s][bup 0 221 3 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 9 0 0]Não entendo. Não é nada como[n]eles me ensinaram ...[n][w][e]
+[s][bup 0 221 3 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 9 0 0]Não entendi. Não é nada como[n]eles me ensinaram ...[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 10 0 0]Mas ainda não posso abandonar meus estudos.[n][w][e]
 
 [msg MEME_STAMP_GREET_00 [Jose]]

@@ -734,7 +734,7 @@
 
 [msg MSG_FUTABA_SPOT_YOKOHAMA [Futaba]]
 [s][bup 0 8 4 65535 0][f 4 10 65535 0 0][f 4 23 1 209 3 10 0 10]Chinatown?!? O-Ok...[n]Eles falam nossa língua, não é...?[n][w][e]
-[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 9069 65535 0]M-mas eu quero gozar![n]já estou ficando excitado![n][w][e]
+[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 9069 65535 0]M-mas eu vou![n]já estou ficando animada![n][w][e]
 
 [msg MSG_FUTABA_SPOT_YOKOHAMA_2 [Futaba]]
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][f 4 23 1 209 3 10 0 10][vp 8 2 1 9070 65535 0]Quero conhecer Chinatown melhor.[n]Estou feliz em vir.[n][w][e]

@@ -46,7 +46,7 @@
 [sel SEL_014_0_0 top]
 [s]Assim pareceria...[e]
 [s]Não podemos desistir.[e]
-[s]Não entendo.[e]
+[s]Não entendi.[e]
 
 [msg MSG_015_0_0 [Makoto]]
 [s][bup 0 6 3 4 0][vp 1 0 0 18 0 0]......[n][f 1 3 65535][w][e]

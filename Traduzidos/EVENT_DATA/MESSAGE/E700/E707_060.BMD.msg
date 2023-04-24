@@ -160,7 +160,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bem, quando falo com você[n]me sinto livre.[n][f 1 3 65535][w][e]
 
 [sel SEL_042_0_0 top]
-[s]Não entendo.[e]
+[s]Não entendi.[e]
 [s]Você pode explicar melhor?[e]
 
 [msg MSG_043_0_0 [Ryuji]]

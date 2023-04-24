@@ -93,7 +93,7 @@
 [s][bup 0 221 0 0 0][f 4 10 65535 0 0]É difícil de explicar, mas...[n]nem sempre fui capaz de fazer isso.[n][w][e]
 [s][f 4 10 65535 0 0]Eu tenho o poder de falar ao coração de todos,[n]mas só um pouco.[n][w][e]
 [s][f 4 10 65535 0 0]E não é suficiente para afetar o mundo real. Eu[n]só posso fazer as pessoas sentirem meu "toque".[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 56755 65535 0]Gosta? Ao alterar a cognição nesta dimensão...[n]Mas a extensão dos meus poderes termina aí.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 56755 65535 0]Ao alterar a cognição nesta dimensão...[n]Mas a extensão dos meus poderes termina aí.[n][w][e]
 
 [msg JOZE_AFTER_BATTLE_TALK_E [Jose]]
 [s][bup 0 221 0 0 0][f 4 10 65535 0 0]Sério? Então ok.[n][w][e]
@@ -228,7 +228,7 @@
 [s][bup 0 221 3 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 2 0 0]Não é exatamente o gosto[n]que me disseram...[n][w][e]
 
 [sel JOZE_BEFORE_BTL_2nd_SEL0 top]
-[s]Gosta?[e]
+[s]Quê?[e]
 [s]Não é bom?[e]
 
 [msg JOZE_BEFORE_BTL_2nd_03 [Jose]]
@@ -282,7 +282,7 @@
 [s][bup 0 221 3 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 8 0 0]As pessoas realmente não podem ter[n]consciência de si mesmas?[n]Todas elas são assim?[n][w][e]
 
 [msg JOZE_BEFORE_BTL_3rd_07 [Jose]]
-[s][bup 0 221 3 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 9 0 0]Não entendo. Não é nada como[n]eles me ensinaram ...[n][w][e]
+[s][bup 0 221 3 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 9 0 0]Não entendi. Não é nada como[n]eles me ensinaram ...[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 10 0 0]Mas ainda não posso abandonar meus estudos.[n][w][e]
 
 [msg MEME_STAMP_GREET_00 [Jose]]

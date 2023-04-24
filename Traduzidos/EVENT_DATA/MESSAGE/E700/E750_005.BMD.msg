@@ -77,7 +77,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 47 65535 0]Já faz muito tempo[n]desde a última vez.[n][f 1 3 65535][w][e]
 
 [sel SEL_022_0_0 top]
-[s]Verdadeiro.[e]
+[s]Verdade.[e]
 [s]Como está indo o trabalho?[e]
 [s][f 0 8 2 1 2217]Senti sua falta.[clr 27][e]
 

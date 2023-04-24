@@ -243,7 +243,7 @@
 [s]Você não tem medo que aqueles[n]humanos descubram o que[n]você fez comigo?[n][w][e]
 
 [sel TalkSel_GUY_CHAT_FQ_05 top]
-[s]Verdadeiro.[e]
+[s]Verdade.[e]
 [s]Sem problemas.[e]
 [s]Por amor.[e]
 
@@ -419,7 +419,7 @@
 [s]Como posso me tornar popular?[e]
 
 [msg TalkMsg_GUY_CHAT_FQ_08_R]
-[s]Verdadeiro. As negociações cansam.[n][w][e]
+[s]Verdade. As negociações cansam.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_08_R_2]
 [s]Seu tolo que só pensa em[n]maneira de ficar longe de problemas...[n][w][e]
@@ -770,7 +770,7 @@
 [s]Bem, eu quero saber o que[n]humano pensa.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_06_R_4]
-[s]Não entendo. Você concorda ou não?[n][w][e]
+[s]Não entendi. Você concorda ou não?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_06_R_5]
 [s]Talvez eu não tenha usado[n]argumentos muito convincentes...[n][w][e]
@@ -1271,7 +1271,7 @@
 [sel TalkSel_GUY_CHAT_SQ_15 top]
 [s]Seria um problema.[e]
 [s]serei capaz de suportar.[e]
-[s]Não entendo...[e]
+[s]Não entendi...[e]
 
 [msg TalkMsg_GUY_CHAT_SQ_15_R]
 [s]Pelo menos eu fui capaz de me afirmar assustando[n]você.[n][w][e]

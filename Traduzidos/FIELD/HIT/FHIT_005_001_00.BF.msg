@@ -633,7 +633,7 @@
 [s]Hum...eles parecem bem normais...[n]Já temos vestidos[n]como este na loja.[n][w][e]
 
 [msg MSG_OldClothe_NotOpen_No_2 [Morgana]]
-[s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 1 1026 65535 0]Gosta? Não quer comprar de nós?[n]Você tem algo diferente?[n][w][e]
+[s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 1 1026 65535 0]Quê? Não quer comprar de nós?[n]Você tem algo diferente?[n][w][e]
 
 [msg MSG_OldClothe_NotOpen_No_3 [Balconista de loja de roupas usadas]]
 [s]Eu procuro principalmente por [clr 2]roupas[n]sujas[clr 27]... Sabe, elas parecem que deveriam[n]ser jogadas fora. Se ao menos eu pudesse[n]encontrar algumas...[n][w][e]
@@ -1593,7 +1593,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1021 65535 0]Tenho a sensação de que esses incensos[n]têm algum poder estranho...[n]Talvez eles possam nos ajudar.[n][w][e]
 
 [msg MSG_KF_Variety_mes04 [Ryuji]]
-[s][bup 0 2 7 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Não entendo...[n][w][e]
+[s][bup 0 2 7 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Não entendi...[n][w][e]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Mas se Morgana tiver esse[n]sentimento, talvez possamos[n]voltar a comprá-los.[n][w][e]
 
 [msg MSG_KF_VarietyNG_mes01 [Ryuji]]

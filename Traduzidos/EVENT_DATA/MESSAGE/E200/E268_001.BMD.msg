@@ -22,7 +22,7 @@
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Ah... mas cadê nossa lendária[n]Senhorita Presidente?[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Makoto]]
-[s][bup 0 6 0 65535 1][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Preparar? Sou eu, Makoto.[n]Sinto muito, mas hoje[n]não poderei estar lá.[n][f 1 3 65535][w][e]
+[s][bup 0 6 0 65535 1][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Olá? Sou eu, Makoto.[n]Sinto muito, mas hoje[n]não poderei estar lá.[n][f 1 3 65535][w][e]
 
 [msg MSG_007_5_0 [Makoto]]
 [s][bup 0 6 3 65535 1][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Tenho que comparecer a uma reunião[n]com o diretor.[n][f 1 3 65535][w][e]

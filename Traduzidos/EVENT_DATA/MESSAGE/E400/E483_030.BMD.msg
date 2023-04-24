@@ -76,7 +76,7 @@
 
 [sel SEL_022_0_0 top]
 [s]Uma solução drástica?[e]
-[s]Gosta?[e]
+[s]Quê?[e]
 
 [msg MSG_025_0_0 [Maruki]]
 [s][bup 0 216 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 29 65535 0]Mmh... Não consigo pensar em[n]nada no momento.[n][f 1 3 65535][w][e]

@@ -31,7 +31,7 @@
 [s][f 5 14]Você só está fazendo isso para[n]investigar Madarame, lembre-se.[n][w][e]
 
 [msg MSG_011_0_0 [Ann]]
-[s][f 5 14]Verdadeiro.[n][w][e]
+[s][f 5 14]Verdade.[n][w][e]
 [s][f 5 14]Mas parecia que Kitagawa-kun[n]queria que fosse uma[n]imagem pessoal...[n][w][e]
 
 [msg MSG_012_0_0 [Ann]]

@@ -95,7 +95,7 @@
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Ei, tem uma ótima notícia. Eles dizem[n]que Junya Kaneshiro recebeu[n]uma carta de aviso.[n][w][e]
 
 [msg MSG_GARAKEIJYOSI_008_1_0 [Shujin garota na mão]]
-[s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Gosta?!? Os Phantom Thieves[n]estão de volta em ação?[n][w][e]
+[s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Quê?!? Os Phantom Thieves[n]estão de volta em ação?[n][w][e]
 [s][vp 8 2 1 0 0 0]A propósito, quem é Kaneshiro?[n][w][e]
 
 [msg MSG_GARAKEIJYOSI_008_2_0 [Estudante elegante]]
@@ -419,7 +419,7 @@
 [s][vp 9 2 65535 42705 0 0]Ele admitiu...?[n]Pervertido e estúpido,[n]então![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_003_02_ [Shiho]]
-[s][vp 9 2 65535 46355 0 0]Por que ele confessou, tão[n]de repente? Não entendo...[n][f 1 2 180][e]
+[s][vp 9 2 65535 46355 0 0]Por que ele confessou, tão[n]de repente? Não entendi...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_003_09_ [Shiho]]
 [s][vp 9 2 65535 38405 0 0]Por que ele confessou, tão[n]de repente? Ele[n]trocou de cérebro?[n][f 1 2 180][e]
@@ -446,7 +446,7 @@
 [s][vp 9 2 65535 44860 0 0]Ele assediou aquelas[n]garotas abusando de[n]sua posição... Tsk.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_003_13_ [Shiho]]
-[s][vp 9 2 65535 46355 0 0]Por que ele confessou, tão[n]de repente? Não entendo...[n][f 1 2 180][e]
+[s][vp 9 2 65535 46355 0 0]Por que ele confessou, tão[n]de repente? Não entendi...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_003_14_ [Shiho]]
 [s][vp 9 2 65535 38405 0 0]Por que ele confessou, tão[n]de repente? Ele[n]trocou de cérebro?[n][f 1 2 180][e]
@@ -1376,13 +1376,13 @@
 [s][vp 9 2 65535 45452 0 0]É verdade o que dizem[n]aqueles Phantom Thieves...?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_028_09_ [Shiho]]
-[s][vp 9 2 65535 39455 0 0]Por que os Phantom Thieves estão mexendo com[n]Shido? Não entendo...[n][f 1 2 180][e]
+[s][vp 9 2 65535 39455 0 0]Por que os Phantom Thieves estão mexendo com[n]Shido? Não entendi...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_028_10_ [Shiho]]
 [s][vp 9 2 65535 45102 0 0]Shido-san está certo...[n]E por isso, vou apoiá-lo.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_028_03_ [Shiho]]
-[s][vp 9 2 65535 39455 0 0]Por que os Phantom Thieves estão mexendo com[n]Shido? Não entendo...[n][f 1 2 180][e]
+[s][vp 9 2 65535 39455 0 0]Por que os Phantom Thieves estão mexendo com[n]Shido? Não entendi...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_028_04_ [Shiho]]
 [s][vp 9 2 65535 45102 0 0]Shido-san está certo...[n]E por isso, vou apoiá-lo.[n][f 1 2 180][e]
@@ -1400,7 +1400,7 @@
 [s][vp 9 2 65535 44855 0 0]Eu não me importo[n]quem está certo...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_028_13_ [Shiho]]
-[s][vp 9 2 65535 39455 0 0]Por que os Phantom Thieves estão mexendo com[n]Shido? Não entendo...[n][f 1 2 180][e]
+[s][vp 9 2 65535 39455 0 0]Por que os Phantom Thieves estão mexendo com[n]Shido? Não entendi...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_028_14_ [Shiho]]
 [s][vp 9 2 65535 45102 0 0]Shido-san está certo...[n]E por isso, vou apoiá-lo.[n][f 1 2 180][e]

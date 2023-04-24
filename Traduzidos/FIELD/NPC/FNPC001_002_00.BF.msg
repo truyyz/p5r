@@ -3220,7 +3220,7 @@
 [s]Volte a sí mesmo.[e]
 
 [msg MSG_HOMELESS_DAY_010_1_0 [Morador de rua]]
-[s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]Nao e nada. Eu pareço[n]ainda ... eu mesmo.[n][w][e]
+[s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]Não é nada. Eu pareço[n]ainda ... eu mesmo.[n][w][e]
 [s][vp 8 2 1 0 30 0]Ei, você acha que é possível mudar o coração de[n]alguém?[n][w][e]
 
 [msg MSG_HOMELESS_DAY_010_2_0 [Morador de rua]]

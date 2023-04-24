@@ -64,7 +64,7 @@
 [s][f 4 10 65535 0 0][vp 1 0 0 3 0 0]...Eu vejo. Este artigo[n]pode ser útil.[n][f 1 3 65535][w][e]
 
 [sel SEL_028_0_0 top]
-[s]Verdadeiro.[e]
+[s]Verdade.[e]
 [s]E como?[e]
 
 [msg MSG_029_0_0 [Morgana]]

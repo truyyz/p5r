@@ -64,7 +64,7 @@
 
 [msg MSG_015_0_0 [Haru]]
 [s][bup 0 7 100 0 0][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Obrigado, Joker.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]Antes de conhecê-lo, eu tinha[n]grande admiração pelos[n]Phantom Thieves of Justice...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]Antes de conhecê-lo, eu tinha[n]grande admiração pelos[n]Phantom Thieves da Justiça...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 26 5 0]E o que eu descobri... é que[n]você é exatamente como eu[n]sempre imaginei.[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Haru]]
