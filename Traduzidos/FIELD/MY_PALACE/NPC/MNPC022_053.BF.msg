@@ -4,7 +4,7 @@
 
 [msg MES_GROUP0_02 [Sojiro]]
 [s][bup 0 103 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 5021 65535 0]Não, nada até agora, mas...[n]acho que é só[n]uma questão de tempo.[n][w][e]
-[s][bup 0 103 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 31 10 0 10]*suspirar*[n][w][e]
+[s][bup 0 103 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 31 10 0 10]*suspira*[n][w][e]
 
 [msg MES_GROUP0_03 [Takemi]]
 [s][bup 0 108 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 14090 65535 0]Desculpe, não quis ofender.[n][w][e]

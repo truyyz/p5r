@@ -26,16 +26,16 @@
 [s]Este é o [clr 2]ponto de retorno[clr 27][n]para o mundo real a partir da localização[n]atual no Palácio de Kaneshiro.[n][w][e]
 
 [msg D04_EXIT_MES [Navegador do Metaverso]]
-[s]Este é o [clr 2]ponto de retorno[clr 27][n]para o mundo real a partir da localização[n]atual no Futaba Palace.[n][w][e]
+[s]Este é o [clr 2]ponto de retorno[clr 27][n]para o mundo real a partir da localização[n]atual no Palácio de Futaba.[n][w][e]
 
 [msg D05_EXIT_MES [Navegador do Metaverso]]
-[s]Este é o [clr 2]ponto de retorno[clr 27][n]para o mundo real a partir da localização[n]atual no Okumura Palace.[n][w][e]
+[s]Este é o [clr 2]ponto de retorno[clr 27][n]para o mundo real a partir da localização[n]atual no Palácio de Okumura.[n][w][e]
 
 [msg D06_EXIT_MES [Navegador do Metaverso]]
 [s]Este é o [clr 2]ponto de retorno[clr 27][n]para o mundo real a partir da localização[n]atual no Palácio de Niijima.[n][w][e]
 
 [msg D07_EXIT_MES [Navegador do Metaverso]]
-[s]Este é o [clr 2]ponto de retorno[clr 27][n]para o mundo real a partir da localização[n]atual no Shido Palace.[n][w][e]
+[s]Este é o [clr 2]ponto de retorno[clr 27][n]para o mundo real a partir da localização[n]atual no Palácio de Shido.[n][w][e]
 
 [msg D08_EXIT_MES [Navegador do Metaverso]]
 [s]Este é o [clr 2]ponto de retorno[clr 27][n]para o mundo real a partir da[n]posição atual nos Mementos.[n][w][e]

@@ -95,7 +95,7 @@
 
 [msg MSG_027_0_0 [Morgana]]
 [s][bup 0 3 8 0 0][f 4 10 65535 0 0][vp 8 0 0 60 65535 0]Miaaaaaaaaaaaa![n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 59 65535 0]O T-Treasure...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 59 65535 0]O T-Tesouro...[n][f 1 3 65535][w][e]
 
 [msg MSG_028_0_0 [Makoto]]
 [s][bup 0 6 104 65535 0][f 4 10 65535 0 0][vp 8 0 0 44 65535 0]O que há de errado com ele...?!?[n][f 1 3 65535][w][e]

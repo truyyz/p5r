@@ -36,7 +36,7 @@
 [s][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 3 10 0 10]Bem, nunca se sabe.[n]Qualquer um pode realizar uma[n]conferência de imprensa.[n][w][e]
 
 [msg MES_GROUP3_03 [Ryuji]]
-[s][bup 0 2 4 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 30 10 0 10]Coisa? Seriamente!?[n][w][e]
+[s][bup 0 2 4 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 30 10 0 10]Quê? Seriamente!?[n][w][e]
 
 [msg MES_GROUP3_04 [Ohya]]
 [s][bup 0 107 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 16081 65535 0]É claro. Talvez um dia você esteja do outro lado[n]da mesa...[n][w][e]

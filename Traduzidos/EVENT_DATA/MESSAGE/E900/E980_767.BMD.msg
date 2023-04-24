@@ -35,7 +35,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Deixo a rodada 1 para você![n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Ann]]
-[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 6023 65535 0]Poder! Fazemos o nosso melhor![n][f 1 3 65535][w][e]
+[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 6023 65535 0]Vamos lá! Fazemos o nosso melhor![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Bem, [f 4 2]![n]Round 1 é seu![n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Yusuke]]

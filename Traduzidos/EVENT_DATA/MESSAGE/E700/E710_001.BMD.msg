@@ -14,7 +14,7 @@
 [s][bup 0 103 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Aqui![n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Morgana]]
-[s][bup 0 3 4 0 0][f 4 10 65535 0 0][vp 8 2 0 1040 65535 0]Coisa? É... cinco mil ienes?!?[n][f 1 3 65535][w][e]
+[s][bup 0 3 4 0 0][f 4 10 65535 0 0][vp 8 2 0 1040 65535 0]Quê? É... cinco mil ienes?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Sojiro]]
 [s][bup 0 103 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ganhei algum dinheiro na[n]loteria e estou feliz em compartilhar.[n][f 1 3 65535][w][e]

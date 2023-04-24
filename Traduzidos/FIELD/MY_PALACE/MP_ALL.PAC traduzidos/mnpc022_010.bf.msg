@@ -1,6 +1,6 @@
 [msg MES_GROUP0_00 [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 7020 65535 0]Oh hey, it's Arsène.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Esse cara salvou minha bunda de volta no[n]palácio de Kamoshida.[n][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 7020 65535 0]Oh olha, é o Arsène.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Esse cara salvou minha bunda no[n]palácio de Kamoshida.[n][w][e]
 
 [msg MES_GROUP0_01 [Ann]]
 [s][bup 0 4 4 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 3 10 0 10]Oh, certo! Foi quando nosso líder despertou[n]para sua persona pela primeira vez, certo?[n][w][e]
@@ -85,7 +85,7 @@
 [s][bup 0 103 4 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 40 10 0 10][vp 8 2 1 5048 65535 0]Estou brincando. Nenhuma quantia de dinheiro[n]poderia me convencer a traí-lo.[n][w][e]
 
 [msg MES_GROUP6_00 [Sae]]
-[s][bup 0 105 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 20 10 0 10][vp 8 2 1 21087 65535 0]The famous thief Arsène... It's impossible[n]olhar para ele sem pensar nos Phantom[n]Thieves.[n][w][e]
+[s][bup 0 105 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 20 10 0 10][vp 8 2 1 21087 65535 0]O famoso ladrão Arsène... É impossível[n]olhar para ele sem pensar nos Phantom[n]Thieves.[n][w][e]
 
 [msg MES_GROUP6_01 [Takemi]]
 [s][bup 0 108 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Concordou.[n][w][e]
@@ -107,7 +107,7 @@
 [s][bup 0 7 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 3189 65535 0]Venha para pensar sobre isso, eu também não[n]estava lá para nenhum dos seus despertares.[n][w][e]
 
 [msg MES_GROUP7_03 [Ann]]
-[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 36 10 0 10][vp 8 2 1 0 65535 0]Makoto's era tão legal! Ela ficou super[n]chateada e pulou em uma motocicleta,[n]atingindo essas sombras e- [n][w][e]
+[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 36 10 0 10][vp 8 2 1 0 65535 0]A Makoto é tão legal! Ela ficou super[n]zangada e pulou em uma motocicleta,[n]atingindo essas sombras e- [n][w][e]
 
 [msg MES_GROUP7_04 [Makoto]]
 [s][bup 0 6 3 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 8 10 0 10][vp 8 2 1 2129 65535 0]O que não falamos sobre isso em outra hora?[n][w][e]

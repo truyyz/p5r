@@ -14,7 +14,7 @@
 [s]O que são essas contusões?[e]
 
 [msg MSG_137201_002_00 [Jogador de vôlei com medo]]
-[s][f 4 23 1 856 3 10 0 0][vp 8 2 1 0 856 0]Coisa? Mishima? E o que eu sei?[n]As coisas dele não estão aqui,[n]ele deve ter voltado para casa.[n][w][e]
+[s][f 4 23 1 856 3 10 0 0][vp 8 2 1 0 856 0]Quê? Mishima? E o que eu sei?[n]As coisas dele não estão aqui,[n]ele deve ter voltado para casa.[n][w][e]
 [s][vp 8 2 1 0 856 0]Se você realmente deseja encontrá-lo,[n]pergunte a outra pessoa.[n][w][e]
 
 [sel SEL_137201_003_00 top]
@@ -36,7 +36,7 @@
 [s]Você viu Mishima?[e]
 
 [msg MSG_137201_004_02 [Jogador de vôlei com medo]]
-[s][f 4 23 1 856 3 10 0 0][vp 8 2 1 0 856 0]Coisa? Mishima? E o que eu sei?[n]As coisas dele não estão aqui,[n]ele deve ter voltado para casa.[n][w][e]
+[s][f 4 23 1 856 3 10 0 0][vp 8 2 1 0 856 0]Quê? Mishima? E o que eu sei?[n]As coisas dele não estão aqui,[n]ele deve ter voltado para casa.[n][w][e]
 [s][vp 8 2 1 0 856 0]Se você realmente deseja encontrá-lo,[n]pergunte a outra pessoa.[n][w][e]
 
 [msg MSG_137201_005_00 [Jogador de vôlei com medo]]

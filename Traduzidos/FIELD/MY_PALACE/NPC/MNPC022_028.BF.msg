@@ -65,7 +65,7 @@
 [s][bup 0 107 2 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]É por isso que estou aqui! Eu tenho que lidar com[n]essa história! Aaah, estou impaciente para[n]voltar ao trabalho...[n][w][e]
 
 [msg MES_GROUP5_02 [Mishima]]
-[s][bup 0 111 3 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 19067 65535 0]Oh, eu vejo. Muitas felicidades então.[n][w][e]
+[s][bup 0 111 3 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 19067 65535 0]Oh, entendo. Muitas felicidades então.[n][w][e]
 
 [msg MES_GROUP5_03 [Ohya]]
 [s][bup 0 107 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 35 10 0 10][vp 8 2 1 16045 65535 0]Espere, espere.[n]Você não vai embora tão facilmente.[n][w][e]

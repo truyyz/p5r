@@ -568,7 +568,7 @@
 [s]Há alguém que os compre?[e]
 
 [msg MSG_TIKAAIDORU_006_5_0 [Ídolo independente de pouca fama]]
-[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Grazie per l'acquisto! Questo si[n]intitola "He's a Trickster☆"![n][w][e]
+[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Obrigado por sua compra! Este é[n]intitulado "He's a Trickster☆"![n][w][e]
 [s][vp 8 2 1 0 2 0]Por favor, apoiem nossa[n]banda Fanta-ídolo,[n]i D-kyun! Ok? Ok?[n][w][e]
 
 [msg MSG_TIKAAIDORU_006_6_0 [Ídolo independente de pouca fama]]
@@ -589,7 +589,7 @@
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Heheheheh, obrigada![n]Vou roubar seu coração![n][w][e]
 
 [msg MSG_TIKAAIDORU_007_1_1 [Ídolo independente de pouca fama]]
-[s][vp 8 2 1 0 2 0]Oh, ricorda di comprare[n]anche "He's a Trick☆ster→"![n][w][e]
+[s][vp 8 2 1 0 2 0]Ah, lembre-se de comprar[n]também "He's a Trick☆ster→"![n][w][e]
 
 [msg MSG_TIKAAIDORU_007_2_0 [Homem obcecado]]
 [s][f 4 23 1 3 3 10 0 10][vp 8 2 1 0 3 0]A nova faixa também é um[n]grande sucesso nos fóruns![n]O público adora![n][w][e]
@@ -598,7 +598,7 @@
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Eek, eu realmente aprecio você![n]Vou me esforçar ainda mais[n]para expandir meu público![n][w][e]
 
 [msg MSG_TIKAAIDORU_007_3_1 [Ídolo independente de pouca fama]]
-[s][vp 8 2 1 0 2 0]Oh, ricorda di comprare[n]anche "He's a Trick☆ster→"![n][w][e]
+[s][vp 8 2 1 0 2 0]Ah, lembre-se de comprar[n]também "He's a Trick☆ster→"![n][w][e]
 
 [sel SEL_TIKAAIDORU_007_0_0 top]
 [s]eu compro um.[e]
@@ -666,8 +666,8 @@
 
 [sel SEL_TIKAAIDORU_009_0_0 top]
 [s]Chika-chan Drinco[e]
-[s]CD di "He's a Trickster☆"[e]
-[s]biscoito D-kyun[e]
+[s]CD "He's a Trickster☆"[e]
+[s]Biscoito D-kyun[e]
 [s]Eu não quero nada.[e]
 
 [msg MSG_TIKAAIDORU_009_4_0 [Ídolo independente de pouca fama]]
@@ -675,8 +675,8 @@
 [s][vp 8 2 1 0 2 0]Não é um suco qualquer![n]Chika botou uma[n]etiqueta artesanal, tá? Ok?[n][w][e]
 
 [msg MSG_TIKAAIDORU_009_5_0 [Ídolo independente de pouca fama]]
-[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]La nostra prima produzione in stile[n]Ladri Fantasma, prima edizione[n]limitata di "He's a Trick☆ster→"![n][w][e]
-[s][vp 8 2 1 0 2 0]Obrigado por sua compra![n]Memorize a letra para[n]possarmos cantar junto![n][w][e]
+[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Nossa primeira [n]produção no estilo Phantom Thieves, primeira[n]edição limitada de "He's a Trick☆ster→"![n][w][e]
+[s][vp 8 2 1 0 2 0]Obrigado por sua compra![n]Memorize a letra para[n]possarmos cantar juntos![n][w][e]
 
 [msg MSG_TIKAAIDORU_009_6_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Preparei com tanto[n]amor! O "Biscoito D-kyun"![n][w][e]
@@ -723,7 +723,7 @@
 
 [sel SEL_TIKAAIDORU_010_1_0 top]
 [s]Chika-chan Drinco[e]
-[s]CD di "He's a Trickster☆"[e]
+[s]CD "He's a Trickster☆"[e]
 [s]biscoito D-kyun[e]
 [s]Eu não quero nada.[e]
 
@@ -732,7 +732,7 @@
 [s][vp 8 2 1 0 2 0]Tem um gosto ótimo, eu garanto. Acabei de mudar[n]o rótulo![n][w][e]
 
 [msg MSG_TIKAAIDORU_010_6_0 [Ídolo independente de pouca fama]]
-[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]È il nuovo brano dei D-kyun![n]Ecco "He's a Trick☆ster→"![n][w][e]
+[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]É a nova música do D-kyun![n]Aqui está "He's a Trick☆ster→"![n][w][e]
 [s][vp 8 2 1 0 2 0]A primeira série é uma[n]edição limitada! Você tem muita sorte.[n]Que emocionante![n][w][e]
 
 [msg MSG_TIKAAIDORU_010_7_0 [Ídolo independente de pouca fama]]
@@ -794,7 +794,7 @@
 
 [sel SEL_TIKAAIDORU_011_2_0 top]
 [s]Chika-chan Drinco[e]
-[s]CD di "He's a Trickster☆"[e]
+[s]CD "He's a Trickster☆"[e]
 [s]biscoito D-kyun[e]
 [s]Eu não quero nada.[e]
 
@@ -803,7 +803,7 @@
 [s][vp 8 2 1 0 2 0]Não perca artigos semelhantes,[n]Ok? Ok? Vamos![n][w][e]
 
 [msg MSG_TIKAAIDORU_011_11_0 [Ídolo independente de pouca fama]]
-[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Anche le note stonate possono[n]essere affascinanti! Questo è[n]"He's a Trickster☆"![n][w][e]
+[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Mesmo as notas desafinadas podem[n]ser fascinantes! Isso é[n]"He's a Trickster☆"![n][w][e]
 [s][vp 8 2 1 0 2 0]Esta é a primeira série[n]da edição limitada! Compre,[n]ou será tarde demais![n][w][e]
 
 [msg MSG_TIKAAIDORU_011_12_0 [Ídolo independente de pouca fama]]
@@ -1044,14 +1044,14 @@
 [msg MSG_TIKAAIDORU_019_0_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 3 3 10 0 10][vp 8 2 1 0 2 0]Queríamos retribuir a todos os nossos[n]apoiadores, então pensamos em como fazê-lo.[n][w][e]
 [s][vp 8 2 1 0 2 0]D-kyun é uma banda idol, então[n]decidimos expressar o que[n]nós sentimos com uma música![n][w][e]
-[s][vp 8 2 1 0 2 0]Chama-se "My Treasure"![n]Vai demorar um pouco até[n]estar à venda![n][w][e]
+[s][vp 8 2 1 0 2 0]Chama-se "My Tesouro"![n]Vai demorar um pouco até[n]estar à venda![n][w][e]
 
 [sel SEL_TIKAAIDORU_019_0_0 top]
 [s]Eu poderia comprar um.[e]
 [s]Eu não quero isso.[e]
 [s]Cante aqui.[e]
 
-[msg MSG_TIKAAIDORU_019_1_0 [Idol indipendente di scarsa fama]]
+[msg MSG_TIKAAIDORU_019_1_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 3 3 10 0 10][vp 8 2 1 0 2 0]Hehe. Espero que você[n]mal possa esperar também.[n][w][e]
 
 [msg MSG_TIKAAIDORU_019_2_0 [Ídolo independente de pouca fama]]
@@ -1065,7 +1065,7 @@
 
 [msg MSG_TIKAAIDORU_019_5_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 3 3 10 0 10][vp 8 2 1 0 2 0]Queríamos retribuir a todos os nossos[n]apoiadores, então[n]queríamos lançar uma nova música.[n][w][e]
-[s][vp 8 2 1 0 2 0]Chama-se "My Treasure"![n]Vai demorar um pouco até[n]estar à venda![n][w][e]
+[s][vp 8 2 1 0 2 0]Chama-se "My Tesouro"![n]Vai demorar um pouco até[n]estar à venda![n][w][e]
 
 [msg MSG_TIKAAIDORU_019_6_0 [Homem obcecado]]
 [s][vp 8 2 1 0 3 0]Sim Sim! Vou comprar com certeza![n]Vou comprar pelo menos 50![n][w][e]
@@ -1077,7 +1077,7 @@
 [s][vp 8 2 1 0 3 0]Quê? Você quer sair da banda?!? Você está[n]brincando, não é? Diga-me que é uma piada.[n]Chika-chan![n][w][e]
 
 [msg MSG_TIKAAIDORU_020_0_0 [Ídolo independente de pouca fama]]
-[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]O último single de D-kyun,[n]"My Treasure", está[n]à venda agora![n][w][e]
+[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]O último single de D-kyun,[n]"My Tesouro", está[n]à venda agora![n][w][e]
 [s][vp 8 2 1 0 2 0]Apenas 500 ienes! Um preço generoso[n]para mostrar o quanto apreciamos[n]nossos fãs! Yuppie![n][w][e]
 [s][vp 8 2 1 0 2 0]E depois disso, vou sair da banda! Eu vou voltar[n]a ser uma garota como as outras![n][w][e]
 
@@ -1103,7 +1103,7 @@
 [s][vp 8 2 1 0 2 0]Ainda bem que vi você[n]uma última vez. Obrigado por tudo,[n][f 4 1]-san.[n][w][e]
 
 [msg MSG_TIKAAIDORU_020_5_0 [Ídolo independente de pouca fama]]
-[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]O último single de D-kyun,[n]"My Treasure", está[n]à venda agora![n][w][e]
+[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]O último single de D-kyun,[n]"My Tesouro", está[n]à venda agora![n][w][e]
 [s][vp 8 2 1 0 2 0]Apenas 500 ienes! Um preço generoso[n]para mostrar o quanto apreciamos[n]nossos fãs! Yuppie![n][w][e]
 [s][vp 8 2 1 0 2 0]E depois disso, vou sair da banda! Eu vou voltar[n]a ser uma garota como as outras![n][w][e]
 
@@ -1175,7 +1175,7 @@
 [s][vp 8 2 1 0 600 0]Vou devolver tudo[n]que roubei de você.[n]Sinto muito.[n][w][e]
 
 [msg Quest02_target_02_01 [Dona de casa preocupada]]
-[s][f 4 23 1 601 3 10 0 0][vp 8 2 1 0 601 0]Coisa? O-Obrigado,[n]eu realmente aprecio isso.[n][w][e]
+[s][f 4 23 1 601 3 10 0 0][vp 8 2 1 0 601 0]Quê? O-Obrigado,[n]eu realmente aprecio isso.[n][w][e]
 [s][vp 8 2 1 0 601 0]O que aconteceu com ela, tão de repente? Estou[n]feliz por ter minhas coisas de volta, mas...[n][w][e]
 
 [msg Quest02_target_02_02 [Megumi Hoshii]]
@@ -1414,7 +1414,7 @@
 [s][f 4 23 1 609 3 10 0 0][vp 8 2 1 0 609 0]Sabe, eu estava pensando em me entregar.[n][w][e]
 
 [msg Quest24_target_02_01 [Jovem Grosseiro]]
-[s][f 4 23 1 610 3 10 0 0][vp 8 2 1 0 610 0]Coisa? Você está brincando comigo, não é?!?[n][w][e]
+[s][f 4 23 1 610 3 10 0 0][vp 8 2 1 0 610 0]Quê? Você está brincando comigo, não é?!?[n][w][e]
 
 [msg Quest24_target_02_02 [Showai Shigeta]]
 [s][f 4 23 1 609 3 10 0 0][vp 8 2 1 0 609 0]Sou muito sério. Você deve[n]entregar-se também.[n][w][e]
@@ -1732,7 +1732,7 @@
 [s][f 4 23 1 12 3 10 0 10][vp 8 2 1 0 12 0]Uma pessoa.[n][w][e]
 
 [msg MSG_NANPASI_021_2_0 [Mulherengo iniciante]]
-[s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Coisa? E aí?[n][w][e]
+[s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Quê? E aí?[n][w][e]
 
 [msg MSG_NANPASI_021_3_0 [Mulherengo carismático]]
 [s][f 4 23 1 12 3 10 0 10][vp 8 2 1 0 12 0]Você esqueceu que agora[n]eu alcancei o nível Carismático?[n]...eu quis dizer uma segunda garota![n][w][e]
@@ -1775,13 +1775,13 @@
 
 [msg MSG_Q83_HINT_NANPASI_010 [Mulherengo especialista]]
 [s][f 4 23 1 12 3 10 0 10][vp 8 2 1 0 12 0]Oooh...sim, ele[n]esteve por aqui ultimamente.[n][w][e]
-[s][f 4 23 1 12 3 10 0 10][vp 8 2 1 0 12 0]Coisa? Não me diga que você realmente tem[n]o número dela?[n][w][e]
+[s][f 4 23 1 12 3 10 0 10][vp 8 2 1 0 12 0]Quê? Não me diga que você realmente tem[n]o número dela?[n][w][e]
 
 [msg MSG_Q83_HINT_NANPASI_020 [Mulherengo iniciante]]
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Não, mas eu vi um cara se aproximando dela... e[n]aparentemente ele era um ex-membro do grupo[n]mafioso de kaneshiro.[n][w][e]
 
 [msg MSG_Q83_HINT_NANPASI_030 [Mulherengo iniciante]]
-[s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Coisa? Interessado em Takuno-chan?[n][w][e]
+[s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Quê? Interessado em Takuno-chan?[n][w][e]
 
 [sel SEL_Q83_HINT_NANPASI_040 top]
 [s]Eu gostaria de mais detalhes.[e]
@@ -3696,7 +3696,7 @@
 [s][f 4 23 1 52 3 10 0 10][vp 8 2 1 0 52 0]Entendo. Portanto, há mais[n]idiotas que serão vítimas[n]dos nossos golpes.[n][w][e]
 
 [msg MSG_ACCESSORY_START_1ST [Mascate]]
-[s][f 4 23 1 86 21 10 20 10][vp 8 2 1 0 86 0]Coisa? Interessado em minha arte?[n][w][e]
+[s][f 4 23 1 86 21 10 20 10][vp 8 2 1 0 86 0]Quê? Interessado em minha arte?[n][w][e]
 [s][vp 8 2 1 0 86 0]Duvido que uma criança como você[n]entenderia, mas... Hmm?[n][w][e]
 [s][vp 8 2 1 0 86 0]Você parece diferente de todas aquelas[n]multidões. Sim, você merece comprar[n]meus itens. Minha arte.[n][w][e]
 

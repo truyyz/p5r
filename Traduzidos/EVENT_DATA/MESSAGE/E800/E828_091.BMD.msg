@@ -6,12 +6,12 @@
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...sobre o que as pessoas[n]que sentem as mesmas coisas[n]umas pelas outras falam?[n][f 1 3 65535][w][e]
 
 [sel SEL_002_0_0 top]
-[s][f 0 8 2 1 2217]Digamos que somos um casal.[clr 27][e]
+[s][f 0 8 2 1 2217]Digamos que somos um par.[clr 27][e]
 [s]Tudo está bem.[e]
 [s]Coisas de adulto.[e]
 
 [msg MSG_003_0_0 [Futaba]]
-[s][bup 0 8 7 65535 0][f 4 10 65535 0 0][vp 8 2 0 9170 65535 0][f 5 13 10 10 8]M-Mas é constrangedor...[n]quer dizer, a história do casal...[n][f 1 3 65535][w][e]
+[s][bup 0 8 7 65535 0][f 4 10 65535 0 0][vp 8 2 0 9170 65535 0][f 5 13 10 10 8]M-Mas é constrangedor...[n]quer dizer, a história do par...[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Futaba]]
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 9171 65535 0][f 5 13 10 5 8]Então... vamos falar sobre a velocidade[n]de rotação dos vários tipos[n]de discos rígidos.[n][f 1 3 65535][w][e]

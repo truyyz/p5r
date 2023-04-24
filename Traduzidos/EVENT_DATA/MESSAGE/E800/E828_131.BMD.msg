@@ -1,6 +1,6 @@
 [msg MSG_000_0_0 [Takemi]]
 [s][bup 0 108 500 65535 0][f 4 10 65535 0 0][vp 8 2 0 14048 65535 0]Nunca pensei que viria[n]aqui por motivos pessoais...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mantenha este lugar limpo,[n]eu vejo. Nada mal para um[n]sótão simples.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mantendo este lugar limpo,[n]entendo. Nada mal para um[n]sótão simples.[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Takemi]]
 [s][bup 0 108 501 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você mora aqui há algum tempo.[n]Você gosta disso?[n][f 1 3 65535][w][e]

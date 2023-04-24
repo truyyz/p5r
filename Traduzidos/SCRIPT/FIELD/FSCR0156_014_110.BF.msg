@@ -18,7 +18,7 @@
 [s]CAPTURAR SEUS IDIOTAS VAI OBTER[n]NAS NOTAS DE[n]MEUS SUPERVISORES![n][w][e]
 
 [msg D05_02_fake_kachou_battl_6 [Haru]]
-[s][bup 0 7 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 3021 65535 0]Aparentemente, podemos fazer[n]além de lutar. Poder![n][w][e]
+[s][bup 0 7 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 3021 65535 0]Aparentemente, podemos fazer[n]além de lutar. Vamos lá![n][w][e]
 
 [sel D05_02_fake_kachou_battl_7 top]
 [s]Estou aqui por causa do diretor-chefe.[e]

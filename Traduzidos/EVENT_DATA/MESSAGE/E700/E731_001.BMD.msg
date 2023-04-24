@@ -811,7 +811,7 @@
 
 [msg MSG_202_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37051 65535 0]Da última vez vimos como[n]processos funcionam.[n]Hoje vamos aprender...[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Coisa? Você está perguntando se os[n]Phantom Thieves iriam a julgamento[n]se fossem pegos?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Quê? Você está perguntando se os[n]Phantom Thieves iriam a julgamento[n]se fossem pegos?[n][f 1 3 65535][w][e]
 
 [msg MSG_203_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Claro que sim. No entanto,[n]uma ligação entre[n]suas atividades e a série de mortes deve ser demonstrada.[n][f 1 3 65535][w][e]
@@ -1574,11 +1574,11 @@
 
 [msg MSG_387_0_0 [Prof. Inui]]
 [s][bup 0 302 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37109 65535 0]Isso está correto.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]A resposta é Long John Silver, um[n]personagem de "Treasure Island".[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]A resposta é Long John Silver, um[n]personagem de "Tesouro Island".[n][f 1 3 65535][w][e]
 
 [msg MSG_388_0_0 [Prof. Inui]]
 [s][bup 0 302 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37113 65535 0]Na verdade não.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]A resposta é Long John Silver, um[n]personagem de "Treasure Island".[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]A resposta é Long John Silver, um[n]personagem de "Tesouro Island".[n][f 1 3 65535][w][e]
 
 [msg MSG_389_0_0 [Prof. Inui]]
 [s][bup 0 302 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]É à história de Long John Silver[n]que devemos muito[n]da imaginação moderna sobre piratas.[n][f 1 3 65535][w][e]
@@ -2228,7 +2228,7 @@
 
 [msg MSG_542_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37051 65535 0]Da última vez vimos como[n]processos funcionam.[n]Hoje vamos aprender...[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Coisa? Você está perguntando se os[n]Phantom Thieves iriam a julgamento[n]se fossem pegos?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Quê? Você está perguntando se os[n]Phantom Thieves iriam a julgamento[n]se fossem pegos?[n][f 1 3 65535][w][e]
 
 [msg MSG_543_0_0 [Prof Ushimaru]]
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Claro que sim. No entanto,[n]uma ligação entre[n]suas atividades e a série de mortes deve ser demonstrada.[n][f 1 3 65535][w][e]

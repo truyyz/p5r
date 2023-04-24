@@ -72,7 +72,7 @@
 [s][bup 0 4 803 65535 0][f 4 10 65535 0 0][vp 8 0 0 52 65535 0]Eu não quero ir para outro lugar. Vamos[n]apenas dormir aqui.[n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Ryuji]]
-[s][bup 0 2 4 3 0][f 4 10 65535 0 0][vp 8 0 0 53 65535 0]Coisa? Não acho que seja uma boa ideia.[n][f 1 3 65535][w][e]
+[s][bup 0 2 4 3 0][f 4 10 65535 0 0][vp 8 0 0 53 65535 0]Quê? Não acho que seja uma boa ideia.[n][f 1 3 65535][w][e]
 
 [sel SEL_024_0_0 top]
 [s]A sério?[e]

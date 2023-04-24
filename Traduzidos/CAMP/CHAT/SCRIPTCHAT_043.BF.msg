@@ -2,7 +2,7 @@
 [s][f 5 14]Futaba, pode abrir?[n][w][e]
 
 [msg MSG_002_0_0 [Futaba]]
-[s][f 5 14]Coisa?[n][w][e]
+[s][f 5 14]Quê?[n][w][e]
 
 [msg MSG_003_0_0 [Yusuke]]
 [s][f 5 14]A porta principal.[n][w][e]

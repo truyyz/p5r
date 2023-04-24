@@ -493,11 +493,11 @@
 
 [msg msg_combine_HELP016 [Igor]]
 [s][bup 0 201 0 0 0][f 4 10 65535 0 0]O subconsciente humano há muito cultiva[n]a crença de que relíquias antigas[n]têm almas.[n][w][e]
-[s][f 4 10 65535 0 0]Isso foi demonstrado graças[n]à existência de Shadows chamados[n]Treasure Demons.[n][w][e]
+[s][f 4 10 65535 0 0]Isso foi demonstrado graças[n]à existência de Shadows chamados[n]Demônios Tesouro.[n][w][e]
 [s][f 4 10 65535 0 0]Eles não podem ser convocados para[n]batalha como uma Persona normal,[n]mas são inestimáveis em fusões.[n][w][e]
 [s][f 4 10 65535 0 0]Ao fundi-los, as regras que[n]governam a obtenção de uma[n]Pessoa mudam radicalmente.[n][w][e]
 [s][f 4 10 65535 0 0]Parece haver alguma ligação[n]com os Arcanos, mas as noções[n]sobre o assunto são escassas.[n][w][e]
-[s][f 4 10 65535 0 0]Treasure Demons também oferece[n]benefícios fora das fusões de guilhotina.[n][w][e]
+[s][f 4 10 65535 0 0]Demônios Tesouro também oferece[n]benefícios fora das fusões de guilhotina.[n][w][e]
 [s][f 4 10 65535 0 0]Testemunhe seu[n]esplendor com seus próprios olhos.[n][w][e]
 
 [msg msg_combine_HELP017 [Caroline]]

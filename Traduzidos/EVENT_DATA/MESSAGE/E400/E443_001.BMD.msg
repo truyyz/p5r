@@ -15,7 +15,7 @@
 [s][vp 8 0 0 5 65535 0]Mesmo se Shido fosse o mentor,[n]ele condenaria uma figura central[n]por trás de uma mudança tão importante?[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Sae]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 105 3 301 1][vp 8 0 0 6 65535 0]Coisa? Não seja ridículo! Este[n]é um país regido pela lei.[n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 105 3 301 1][vp 8 0 0 6 65535 0]Quê? Não seja ridículo! Este[n]é um país regido pela lei.[n][f 1 3 65535][w][e]
 
 [msg MSG_005_5_0 [Sae]]
 [s][bup 0 105 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Ela continua a protegê-lo apesar de[n]saber o que aconteceu com o homem[n]que a precedeu?!?[n][f 1 3 65535][w][e]

@@ -5,7 +5,7 @@
 [s][bup 0 6 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 2 0 0]É enorme... Não imaginava que[n]existisse um lugar[n]tão gigantesco aqui...[n][w][e]
 
 [msg D08_01_e446_050_mes03 [Haru]]
-[s][bup 0 7 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 3 0 0]É aqui que[n]Treasure está... de todos?[n][w][e]
+[s][bup 0 7 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 3 0 0]É aqui que[n]Tesouro está... de todos os lugares?[n][w][e]
 
 [msg D08_01_e446_050_mes04 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 4 0 0]Sim... Deveria ser assim...[n][w][e]

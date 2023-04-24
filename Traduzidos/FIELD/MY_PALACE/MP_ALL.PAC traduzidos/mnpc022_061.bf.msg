@@ -85,7 +85,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 32 10 0 10]É muito melhor do que vê-lo sem rumo ao[n]longo da vida como um cordeiro perdido.[n][w][e]
 
 [msg MES_GROUP5_05 [Mishima]]
-[s][bup 0 111 4 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 19025 65535 0]Eu-eu vejo...[n][w][e]
+[s][bup 0 111 4 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 19025 65535 0]En-entendo...[n][w][e]
 [s][bup 0 111 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Tudo bem! Então eu vou começar a praticar[n]para minha conferência de imprensa agora![n]Primeiro, eu tomo um arco profundo...[n][w][e]
 
 [msg MES_GROUP5_06 [Kawakami]]

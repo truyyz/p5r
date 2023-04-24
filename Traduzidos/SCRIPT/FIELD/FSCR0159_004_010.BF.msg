@@ -19,5 +19,5 @@
 
 [msg D159_04_c_01_AF_mes01 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1021 65535 0]Aparentemente, a porta[n]abre com cinco cartas[n]de recomendação de VIPs.[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu posso sentir o[n]Treasure, um pouco além. Vamos recuperar[n]essas cartas, vá em frente![n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu posso sentir o[n]Tesouro, um pouco além. Vamos recuperar[n]essas cartas, vá em frente![n][w][e]
 

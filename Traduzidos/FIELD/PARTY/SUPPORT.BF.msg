@@ -41,7 +41,7 @@
 [s][vp 8 1 65535 7 0 0]Ladrões pequenos e traiçoeiros...[n]Quero vê-los acorrentados imediatamente![n][f 1 6 65534][e]
 
 [msg D02_ALERT_UP_LORD_02]
-[s][vp 8 1 65535 9 0 0]Coisa? Malditos parasitas...[n]Levem-nos! Agora![n][f 1 6 65534][e]
+[s][vp 8 1 65535 9 0 0]Quê? Malditos parasitas...[n]Levem-nos! Agora![n][f 1 6 65534][e]
 
 [msg D02_ALERT_UP_LORD_03]
 [s][vp 8 1 65535 10 0 0]O que você está fazendo?!?[n]Leve-os! Agora![n][f 1 6 65534][e]
@@ -182,7 +182,7 @@
 [s]Simulado[n][f 1 2 60][e]
 
 [msg D07_ALERT_UP_LORD_01]
-[s][vp 8 1 65535 6 0 0]Coisa? Revise[n]as nossas medidas de segurança agora.[n][f 1 6 65534][e]
+[s][vp 8 1 65535 6 0 0]Quê? Revise[n]as nossas medidas de segurança agora.[n][f 1 6 65534][e]
 
 [msg D07_ALERT_UP_LORD_02]
 [s][vp 8 1 65535 5 0 0]Gosta...? Prossiga imediatamente[n]para uma reavaliação de segurança.[n][f 1 6 65534][e]
@@ -1064,7 +1064,7 @@
 [s][vp 1 0 0 2013 0 0]Uma vitória fácil! Nada de especial![n][f 1 6 65535][e]
 
 [msg BAT_END_B_PC02_mes05]
-[s][vp 1 0 0 2014 0 0]Shadow Defeated![n]Foi fácil, hein?!?[n][f 1 6 65535][e]
+[s][vp 1 0 0 2014 0 0]Sombra Defeated![n]Foi fácil, hein?!?[n][f 1 6 65535][e]
 
 [msg BAT_END_C_PC02_mes01]
 [s][vp 1 0 0 2015 0 0]Fiuuu, foi por pouco.[n][f 1 6 65535][e]
@@ -1376,7 +1376,7 @@
 [s][vp 1 0 0 2117 0 0]Ei! Uma Sombra rara![n][f 1 6 65535][e]
 
 [msg D_COVER_C_PC02_mes02]
-[s][vp 1 0 0 2118 0 0]Ei! É uma rara Shadow![n]Não a deixe escapar![n][f 1 6 65535][e]
+[s][vp 1 0 0 2118 0 0]Ei! É uma rara Sombra![n]Não a deixe escapar![n][f 1 6 65535][e]
 
 [msg D_COVER_C_PC02_mes03]
 [s][vp 1 0 0 2119 0 0]O que?!? Uma Sombra rara?!?[n]Pegue, Joker![n][f 1 6 65535][e]
@@ -1583,13 +1583,13 @@
 [s][vp 1 0 0 3006 0 0]Você não cansou[n]muito, não é?[n]Não fique para trás![n][f 1 6 65535][e]
 
 [msg BAT_END_A_PC03_mes03]
-[s][vp 1 0 0 3007 0 0]Shadow eliminado![n]Vamos, vamos prosseguir![n][f 1 6 65535][e]
+[s][vp 1 0 0 3007 0 0]Sombra eliminado![n]Vamos, vamos prosseguir![n][f 1 6 65535][e]
 
 [msg BAT_END_A_PC03_mes04]
 [s][vp 1 0 0 3008 0 0]Bem, nós os derrotamos![n]Vamos, Joker.[n][f 1 6 65535][e]
 
 [msg BAT_END_A_PC03_mes05]
-[s][vp 1 0 0 3009 0 0]Shadow eliminado![n]Vamos Joker![n][f 1 6 65535][e]
+[s][vp 1 0 0 3009 0 0]Sombra eliminado![n]Vamos Joker![n][f 1 6 65535][e]
 
 [msg BAT_END_B_PC03_mes01]
 [s][vp 1 0 0 3010 0 0]Uma vitória em grande estilo.[n][f 1 6 65535][e]
@@ -1970,7 +1970,7 @@
 [s][vp 1 0 0 3135 0 0]Sombra avistada![n]Podemos atacar de cima![n][f 1 6 65535][e]
 
 [msg D_TARGET_B_PC03_mes02]
-[s][vp 1 0 0 3136 0 0]Temos sorte, que Shadow[n]ainda não nos viu![n][f 1 6 65535][e]
+[s][vp 1 0 0 3136 0 0]Temos sorte, que Sombra[n]ainda não nos viu![n][f 1 6 65535][e]
 
 [msg D_TARGET_B_PC03_mes03]
 [s][vp 1 0 0 3137 0 0]O inimigo ainda não nos viu![n]Nós atacamos, Joker![n][f 1 6 65535][e]
@@ -1997,7 +1997,7 @@
 [s][vp 1 0 0 3144 0 0]Vamos.[n][f 1 6 65535][e]
 
 [msg SAFE_EXIT_A_PC03_mes02]
-[s][vp 1 0 0 3145 0 0]Poder! O Tesouro espera por nós![n][f 1 6 65535][e]
+[s][vp 1 0 0 3145 0 0]Vamos lá! O Tesouro espera por nós![n][f 1 6 65535][e]
 
 [msg SAFE_EXIT_A_PC03_mes03]
 [s][vp 1 0 0 3146 0 0]Olá? Vamos, Joker![n][f 1 6 65535][e]
@@ -2300,7 +2300,7 @@
 [s][vp 1 0 0 3227 0 0]Vamos, agora que não há[n]inimigos por perto![n][f 1 6 65535][e]
 
 [msg D_NAVI_EN_B_PC03_mes02]
-[s][vp 1 0 0 3228 0 0]Zero Shadows![n]Podemos prosseguir sem problemas.[n][f 1 6 65535][e]
+[s][vp 1 0 0 3228 0 0]Zera Sombras![n]Podemos prosseguir sem problemas.[n][f 1 6 65535][e]
 
 [msg D_NAVI_EN_B_PC03_mes03]
 [s][vp 1 0 0 3229 0 0]Uuuh, estamos com sorte![n]Não há sombra aqui![n][f 1 6 65535][e]
@@ -2462,13 +2462,13 @@
 [s]Simulado[n][f 1 2 60][e]
 
 [msg D_NAVI_ACD_RARE_EMY_PC03]
-[s][vp 1 0 0 13300 0 0]Hmm... Eu sinto a presença de[n]Treasure Demons por perto.[n][f 1 6 65535][e]
+[s][vp 1 0 0 13300 0 0]Hmm... Eu sinto a presença de[n]Demônios Tesouro por perto.[n][f 1 6 65535][e]
 
 [msg D_NAVI_ACD_RARE_EMY_PC03_2]
-[s][vp 1 0 0 13301 0 0]Ei, eu sinto[n]Treasure Demons em todos os lugares![n][f 1 6 65535][e]
+[s][vp 1 0 0 13301 0 0]Ei, eu sinto[n]Demônios Tesouro em todos os lugares![n][f 1 6 65535][e]
 
 [msg D_NAVI_ACD_RARE_EMY_PC03_3]
-[s][vp 1 0 0 13302 0 0]Parece que a área está cheia de[n]Treasure Demons...[n]vamos pegá-los, Joker![n][f 1 6 65535][e]
+[s][vp 1 0 0 13302 0 0]Parece que a área está cheia de[n]Demônios Tesouro...[n]vamos pegá-los, Joker![n][f 1 6 65535][e]
 
 [msg D_NAVI_ACD_RARE_EMY_PC03_4]
 [s][vp 1 0 0 13303 0 0]Essas sombras parecem muito[n]diferentes do normal... Poderiam[n]ser Demônios do Tesouro!?![n][f 1 6 65535][e]
@@ -4571,7 +4571,7 @@
 [s][vp 1 0 0 7117 0 0]Oh, um inimigo raro![n][f 1 6 65535][e]
 
 [msg D_COVER_C_PC07_mes02]
-[s][vp 1 0 0 7118 0 0]Olhar! Existe um Shadow raro![n]Vamos pegá-lo![n][f 1 6 65535][e]
+[s][vp 1 0 0 7118 0 0]Olhar! Existe um Sombra raro![n]Vamos pegá-lo![n][f 1 6 65535][e]
 
 [msg D_COVER_C_PC07_mes03]
 [s][vp 1 0 0 7119 0 0]Oh! Tem um inimigo raro ali![n]Aqui, Joker![n][f 1 6 65535][e]
@@ -5408,7 +5408,7 @@
 [s][vp 1 0 0 8198 0 0]Joker, é muito perigoso![n]Vamos para casa![n][f 1 6 65535][e]
 
 [msg D_WARNING06_PC08_mes03]
-[s][vp 1 0 0 8199 0 0]Detectei um Shadow super agressivo![n]É muito perigoso![n][f 1 6 65535][e]
+[s][vp 1 0 0 8199 0 0]Detectei um Sombra super agressivo![n]É muito perigoso![n][f 1 6 65535][e]
 
 [msg D_WARNING06_PC08_mes04]
 [s][vp 1 0 0 8200 0 0]É muito arriscado! Eles estão[n]enviando toda a gangue atrás de nós![n]Lutar seria uma aposta![n][f 1 6 65535][e]
@@ -5657,19 +5657,19 @@
 [s][vp 1 0 0 8281 0 0]Joker! O Relatório![n][f 1 6 65535][e]
 
 [msg D_NAVI_ACD_RARE_EMY_PC08]
-[s][vp 1 0 0 18300 0 0]Hum, estou recebendo leituras...[n]Esta área está... repleta de[n]Treasure Demons![n][f 1 6 65535][e]
+[s][vp 1 0 0 18300 0 0]Hum, estou recebendo leituras...[n]Esta área está... repleta de[n]Demônios Tesouro![n][f 1 6 65535][e]
 
 [msg D_NAVI_ACD_RARE_EMY_PC08_2]
 [s][vp 1 0 0 18301 0 0]Oooh, temos Demônios do Tesouro por toda parte[n]aqui! Joker, você sabe o que isso significa,[n]sim!?![n][f 1 6 65535][e]
 
 [msg D_NAVI_ACD_RARE_EMY_PC08_3]
-[s][vp 1 0 0 18302 0 0]Parece haver um mar de[n]Treasure Demons nesta área![n]Vamos começar![n][f 1 6 65535][e]
+[s][vp 1 0 0 18302 0 0]Parece haver um mar de[n]Demônios Tesouro nesta área![n]Vamos começar![n][f 1 6 65535][e]
 
 [msg D_NAVI_ACD_RARE_EMY_PC08_4]
 [s][vp 1 0 0 18303 0 0]Mmmh, porque essas Sombras que eu[n]detecto são tão... Oh, elas são...[n]elas são Demônios do Tesouro![n][f 1 6 65535][e]
 
 [msg D_NAVI_ACD_RARE_EMY_PC08_5]
-[s][vp 1 0 0 18304 0 0]Estou detectando[n]Treasure Demons em toda a área![n]Devemos dar uma olhada![n][f 1 6 65535][e]
+[s][vp 1 0 0 18304 0 0]Estou detectando[n]Demônios Tesouro em toda a área![n]Devemos dar uma olhada![n][f 1 6 65535][e]
 
 [msg D_NAVI_ACD_MANY_SOBJ_PC0_6]
 [s][vp 1 0 0 18305 0 0]Joker, esta área está cheia de coisas[n]para furtar![n][f 1 6 65535][e]
@@ -5816,7 +5816,7 @@
 [s][vp 1 0 0 9007 0 0]Ok, vamos alongar o passo.[n][f 1 6 65535][e]
 
 [msg BAT_END_A_PC09_mes04]
-[s][vp 1 0 0 9008 0 0]Shadow eliminado.[n]Vamos, Joker.[n][f 1 6 65535][e]
+[s][vp 1 0 0 9008 0 0]Sombra eliminado.[n]Vamos, Joker.[n][f 1 6 65535][e]
 
 [msg BAT_END_A_PC09_mes05]
 [s][vp 1 0 0 9009 0 0]O oponente é derrotado.[n]Prosseguimos.[n][f 1 6 65535][e]
@@ -6125,7 +6125,7 @@
 [s][vp 1 0 0 9110 0 0]Notável![n][f 1 6 65535][e]
 
 [msg D_COVER_A_PC09_mes01]
-[s][vp 1 0 0 9111 0 0]Shadow Spotted![n][f 1 6 65535][e]
+[s][vp 1 0 0 9111 0 0]Sombra Spotted![n][f 1 6 65535][e]
 
 [msg D_COVER_A_PC09_mes02]
 [s][vp 1 0 0 9112 0 0]Oh, uma Sombra.[n][f 1 6 65535][e]
@@ -6389,7 +6389,7 @@
 [s][vp 1 0 0 19180 0 0]As Sombras estão em alerta,[n]agora. Estou começando a ficar irritado.[n][f 1 6 65535][e]
 
 [msg D_WARNING02_PC09_mes05]
-[s][vp 1 0 0 19181 0 0]Não pode evitar uma estúpida[n]Shadow? Que decepção...[n][f 1 6 65535][e]
+[s][vp 1 0 0 19181 0 0]Não pode evitar uma estúpida[n]Sombra? Que decepção...[n][f 1 6 65535][e]
 
 [msg D_WARNING03_PC09_mes01]
 [s][vp 1 0 0 19182 0 0]O nível de alerta aumentou novamente[n]novamente. Preste mais atenção,[n]por favor.[n][f 1 6 65535][e]
@@ -7019,7 +7019,7 @@
 [s][vp 1 0 0 10118 0 0]Existe uma Sombra! E é um dos raros![n][f 1 6 65535][e]
 
 [msg D_COVER_C_PC10_mes03]
-[s][vp 1 0 0 10119 0 0]Essa é uma Shadow incomum... Vamos consertar![n][f 1 6 65535][e]
+[s][vp 1 0 0 10119 0 0]Essa é uma Sombra incomum... Vamos consertar![n][f 1 6 65535][e]
 
 [msg D_COVER_D_PC10_mes01]
 [s][vp 1 0 0 10120 0 0]Nenhuma Sombra à vista.[n][f 1 6 65535][e]
@@ -7334,7 +7334,7 @@
 [s][vp 1 0 0 2543 0 0]Sentado aqui[n]fazendo teias de aranha...[n][f 1 6 65535][e]
 
 [msg D_CAR__PC02_mes544]
-[s][vp 1 0 0 2544 0 0]Mal posso esperar para lutar![n]Eu poderia nocautear[n]qualquer Shadow![n][f 1 6 65535][e]
+[s][vp 1 0 0 2544 0 0]Mal posso esperar para lutar![n]Eu poderia nocautear[n]qualquer Sombra![n][f 1 6 65535][e]
 
 [msg D_CAR__PC02_mes545]
 [s][vp 1 0 0 2545 0 0]Os pneus, você quer dizer... certo?[n][f 1 6 65535][e]
@@ -9728,7 +9728,7 @@
 [s][vp 1 0 0 6631 0 0]Agora que você mencionou, olhar para fora[n]me faz... Não, na verdade não.[n]Ainda não estou com fome.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC06_mes632]
-[s][vp 1 0 0 6632 0 0]Coisa? Não me diga que você comeu![n][f 1 6 65535][e]
+[s][vp 1 0 0 6632 0 0]Quê? Não me diga que você comeu![n][f 1 6 65535][e]
 
 [msg D_CAR__PC06_mes633]
 [s][vp 1 0 0 6633 0 0]Eu gosto disso também. Na verdade,[n]eu sempre tomo alguns,[n]quando estou estudando para minhas provas.[n][f 1 6 65535][e]
@@ -12566,7 +12566,7 @@
 [s][vp 1 0 0 15554 0 0]Berinjela ... não é ruim. Mas a verdadeira[n]questão é, com missô branco[n]ou missô vermelho?[n][f 1 6 65535][e]
 
 [msg D_CAR_PC05_mes10555]
-[s][vp 1 0 0 15555 0 0]Talvez em Book Town? Lá encontrei[n]um livro de arte esgotado.[n][f 1 6 65535][e]
+[s][vp 1 0 0 15555 0 0]Talvez em a Cidade dos Livros? Lá encontrei[n]um livro de arte esgotado.[n][f 1 6 65535][e]
 
 [msg D_CAR_PC05_mes10556]
 [s][vp 1 0 0 15556 0 0]Estou fazendo aula de arte, então[n]não tenho grandes preocupações, desde que[n]minha técnica não piore.[n][f 1 6 65535][e]

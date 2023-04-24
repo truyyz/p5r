@@ -12,7 +12,7 @@
 [s][vp 8 0 2 50930 1 73]É hora de um milagre! Milagre X![n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_ATTACK_NG__000_0 [Haru]]
-[s][bup 0 3 4 0 0][vp 8 0 2 1001 0 3][f 4 10 65535 0 0]Coisa? Você acabou de ser tratado?[n][f 1 3 65535][w][e]
+[s][bup 0 3 4 0 0][vp 8 0 2 1001 0 3][f 4 10 65535 0 0]Quê? Você acabou de ser tratado?[n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_HOLDUP00_000_000 [Haru]]
 [s][bup 0 7 102 0 0][vp 8 0 2 1001 0 3][f 4 10 65535 0 0]Também poderia ser chamado de "milagre",[n]mas tem gente que é ainda pior![n][f 1 3 65535][w][e]

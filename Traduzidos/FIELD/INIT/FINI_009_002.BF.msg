@@ -81,7 +81,7 @@
 [s][f 4 7 0]Também fiz algumas pesquisas,[n]mas ele está certo. Não há[n]nada...[n][w][e]
 
 [msg MSG_M79_0008_00_00 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1020 65535 0]Hum, então não é um Shadow[n]que está enlouquecendo...?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1020 65535 0]Hum, então não é um Sombra[n]que está enlouquecendo...?[n][w][e]
 [s][f 4 10 65535 0 0]Deixe o resto[n]do grupo nos ajudar na coleta de[n]informações. Você sabe mais alguma coisa sobre o caso?[n][w][e]
 
 [msg MSG_M79_0009_00_00 [Akechi]]

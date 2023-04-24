@@ -18,7 +18,7 @@
 [s][f 5 14]A cirurgia é na tarde[n]do segundo dia, né?[n][w][e]
 
 [msg MSG_006_0_0 [Ryuji]]
-[s][f 5 14]Coisa? Você também vem[n]para o festival da escola?[n][w][e]
+[s][f 5 14]Quê? Você também vem[n]para o festival da escola?[n][w][e]
 
 [msg MSG_007_0_0 [Yusuke]]
 [s][f 5 14]Tenho provas essa semana,[n]posso vir à tarde.[n][w][e]

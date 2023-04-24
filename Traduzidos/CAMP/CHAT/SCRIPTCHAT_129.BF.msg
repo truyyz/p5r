@@ -18,7 +18,7 @@
 [s][f 5 14]Oh, alguns biscoitos de arroz combinariam[n]tão bem com o chá.[n][w][e]
 
 [msg MSG_006_0_0 [Ryuji]]
-[s][f 5 14]Coisa?[n][w][e]
+[s][f 5 14]Quê?[n][w][e]
 
 [msg MSG_007_0_0 [Yusuke]]
 [s][f 5 14]Hoje eu definitivamente sinto isso[n][w][e]

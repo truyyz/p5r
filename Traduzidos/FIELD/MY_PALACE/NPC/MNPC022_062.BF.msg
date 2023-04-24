@@ -57,7 +57,7 @@
 [s][bup 0 109 2 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 15026 65535 0]Mishima-kun, vejo você na sala do conselheiro[n]estudantil mais tarde.[n][w][e]
 
 [msg MES_GROUP3_01 [Caroline]]
-[s][bup 0 102 2 0 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 11036 65535 0]Coisa? Então você aprisiona[n]essas criaturas em uma piscina[n]apenas para liberá-las novamente?[n][w][e]
+[s][bup 0 102 2 0 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 11036 65535 0]Quê? Então você aprisiona[n]essas criaturas em uma piscina[n]apenas para liberá-las novamente?[n][w][e]
 
 [msg MES_GROUP3_02 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 3 10 0 10]Bem, sim. Acho que é isso.[n][w][e]

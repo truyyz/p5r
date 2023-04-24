@@ -25,7 +25,7 @@
 
 [msg MSG_006_0_0 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 2129 65535 0]Enfim, hum... às vezes[n]assim, é o mais velho que[n]passa a frente, né?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ainda não sei como é[n]ser um casal...não entendo[n]como te fazer feliz...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ainda não sei como é[n]ser um par...não entendo[n]como te fazer feliz...[n][f 1 3 65535][w][e]
 [s][bup 0 6 6 65535 0][f 4 10 65535 0 0][vp 8 2 0 2087 65535 0][f 4 24 0 4 0 1 5 100]Mas... me basta estar[n]ao seu lado...[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Makoto]]

@@ -269,7 +269,7 @@
 [s]Inferno, você ainda está no tempo, em vez disso.[n]Vá agora, certo? Isso seria bom, até para mim.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_05_R_8]
-[s]Ei, você não pode faltar à[n]escola só porque você não[n]quer ir. Poder![n][w][e]
+[s]Ei, você não pode faltar à[n]escola só porque você não[n]quer ir. Vamos lá![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_05_R_9]
 [s]Você não deveria estar no trabalho? Seus[n]colegas não chamam você[n]"Pay Stealer"?[n][w][e]
@@ -521,7 +521,7 @@
 [s]Uh. Eu acho que é totalmente inútil falar com[n]você.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_01_R_16]
-[s]Coisa? Você também odeia ser apontado para você?[n][w][e]
+[s]Quê? Você também odeia ser apontado para você?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_02]
 [s]É tão engraçado implicar com um velho como eu?[n][w][e]
@@ -1414,7 +1414,7 @@
 [s]Eu não posso concordar.[e]
 
 [msg TalkMsg_GUY_NEGO_REQUIRE]
-[s]Coisa? Você quer bater um papo[n]neste calor sufocante?[n]Vamos...[n][w][e]
+[s]Quê? Você quer bater um papo[n]neste calor sufocante?[n]Vamos...[n][w][e]
 [s]Ouça, estou com sede e minha[n]garganta está muito seca. Você tem este[n]item: [f 2 5 3 9999 4]?[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_REQUIRE_2]
@@ -2277,10 +2277,10 @@
 [s]Outro inimigo entrou na conversa.[n][w][e]
 
 [msg TalkMsg_cnt_interruptP]
-[s]Dopo aver parlato con un bersaglio,[n]i compagni possono intervenire per[n]accelerare le cose (% di chance).[n][w][e]
+[s]Depois de falar com um alvo,[n]companheiros de equipe podem intervir para[n]acelerar as coisas (% de chance).[n][w][e]
 
 [msg TalkMsg_cnt_refuse]
-[s]Il bersaglio si rifiuta di parlare.[n]→Ciò accade se il risultato della[n]conversazione è un rifiuto.[n][w][e]
+[s]O alvo se recusa a falar.[n]→Isso acontece se o resultado da [n]conversa for uma rejeição.[n][w][e]
 
 [msg TalkMsg_cnt_anger]
 [s]O alvo fica com raiva e revida.[n]Falha se o resultado[n]da conversa for uma rejeição.[n][w][e]
@@ -2308,7 +2308,7 @@
 [s][var 0].[n][w][e]
 
 [msg DebugMsg_ENEMY_LV]
-[s]ID Nemico [var 3][n]Livello Nemico [var 0][n]Livello protagonista [var 1][n]AI_CHK_ENIDLV_O([var 0], 1) = [var 2][n][w][e]
+[s]ID Inimigo [var 3][n]Nível Inimigo [var 0][n]Nível Protagonista [var 1][n]AI_CHK_ENIDLV_O([var 0], 1) = [var 2][n][w][e]
 
 [msg TalkMsg_GUY_RESULT_GET_P_4 [Ann]]
 [s]Se houver uma parte de mim em você, então você[n]também terá minha experiência.[n][w][e]

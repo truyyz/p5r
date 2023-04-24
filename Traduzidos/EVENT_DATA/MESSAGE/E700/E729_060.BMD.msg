@@ -25,7 +25,7 @@
 [sel SEL_007_0_0 top]
 [s]É apenas uma procissão.[e]
 [s]Já.[e]
-[s]Poder! Bata palmas![e]
+[s]Vamos lá! Bata palmas![e]
 
 [msg MSG_008_0_0 [Caroline]]
 [s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sério? Todos parecem encantados.[n][f 1 3 65535][w][e]

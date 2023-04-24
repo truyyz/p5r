@@ -39,7 +39,7 @@
 [s][vp 8 0 0 13 8 0]Eles cancelaram um pedido[n]no último minuto. Este é[n]o último restante![n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Futaba]]
-[s][bup 0 8 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Coisa? Sério?!?[n][f 1 3 65535][w][e]
+[s][bup 0 8 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Quê? Sério?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Futaba]]
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Claro que sim! Nós queremos![n][f 1 3 65535][w][e]

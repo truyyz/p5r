@@ -8,7 +8,7 @@
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Correu muito bem, não é?[n][w][e]
 
 [msg D03_KEY_mini_EV_01_mes03 [Makoto]]
-[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2045 65535 0]Portanto, deve haver apenas uma[n]Shadow na sala de segurança![n][w][e]
+[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2045 65535 0]Portanto, deve haver apenas uma[n]Sombra na sala de segurança![n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos pegar a outra chave para ela enquanto[n]podemos![n][w][e]
 
 [msg D03_KEY_mini_EV_01_mes04 [Ann]]

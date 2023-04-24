@@ -674,7 +674,7 @@
 [s][bup 0 221 3 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 5 0 0]Já que essas flores são...[n]Mmh, como colocar isso na linguagem do mundo[n]real...[n][w][e]
 
 [msg JOZE_BEFORE_BTL_3rd_05 [Jose]]
-[s][bup 0 221 4 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 6 0 0]Ah, bem... eu sou o conhecimento de[n]one's self, que todo mundo tem[n]dentro.[n][w][e]
+[s][bup 0 221 4 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 6 0 0]Ah, certo... é a cognição de si mesmo,[n] que todo mundo tem dentro de si.[n][w][e]
 [s][bup 0 221 0 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 7 0 0]Quando o sabor é tão elétrico,[n]isso significa que o eu não tem[n]certo conhecimento de si mesmo.[n][w][e]
 
 [msg JOZE_BEFORE_BTL_3rd_06 [Jose]]

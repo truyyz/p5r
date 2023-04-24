@@ -119,7 +119,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Que eu... sou... eu... um...[n][f 1 3 65535][w][e]
 
 [sel SEL_029_0_0 top]
-[s]Coisa?[e]
+[s]Quê?[e]
 [s]Eu o que?[e]
 
 [msg MSG_030_0_0 [Sumire]]

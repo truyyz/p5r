@@ -810,7 +810,7 @@
 
 [msg MSG_HAGEOTOKO_002_0_0 [Homem alto]]
 [s][vp 8 2 1 0 6 0]As coisas com minha namorada[n]estão boas. As[n]garotas menores são as melhores.[n][w][e]
-[s][vp 8 2 1 0 6 0]Coisa? me casar? Eu gostaria,[n]mas... nesse ponto seria[n]difícil de esconder.[n][w][e]
+[s][vp 8 2 1 0 6 0]Quê? me casar? Eu gostaria,[n]mas... nesse ponto seria[n]difícil de esconder.[n][w][e]
 [s][vp 8 2 1 0 6 0]O sistema favorece os ricos.[n]Eu não queria recorrer a[n]tal coisa, mas...[n][w][e]
 [s][vp 8 2 1 0 6 0]Se eu quero ser feliz,[n]tenho que correr alguns riscos.[n]É irônico, mas estou fazendo isso por ela.[n][w][e]
 

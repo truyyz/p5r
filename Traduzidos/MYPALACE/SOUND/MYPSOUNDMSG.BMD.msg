@@ -155,7 +155,7 @@
 [s]Reproduzido em Destinyland,[n][e]
 
 [msg MSG_051]
-[s]Tocou no Alice's Apron,[n]il Maid Café.[n][e]
+[s]Tocou no Alice's Apron,[n]no Maid Café.[n][e]
 
 [msg MSG_052]
 [s]Jogado durante jogos de garra.[n][e]
@@ -218,7 +218,7 @@
 [s]Palácio Futaba:[n]Pirâmide[n][e]
 
 [msg MSG_072]
-[s]Futaba Palace:[n]Cidade no deserto[n][e]
+[s]Palácio de Futaba:[n]Cidade no deserto[n][e]
 
 [msg MSG_073]
 [s]Palácio Okumura:[n]Espaçoporto[n][e]

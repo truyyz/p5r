@@ -19,7 +19,7 @@
 [s]Hehehe. Temos prêmios,[n]mas infelizmente[n]não há telha.[n][w][e]
 
 [msg e382_105_mes07 [Makoto]]
-[s][bup 0 6 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2194 65535 0]Coisa? Então, como[n]acessamos o Diretório...?[n][w][e]
+[s][bup 0 6 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2194 65535 0]Quê? Então, como[n]acessamos o Diretório...?[n][w][e]
 
 [msg e382_105_mes08 [Caixa sombra]]
 [s]Nenhum cartão é necessário.[n]Siga-me, por favor...[n][w][e]

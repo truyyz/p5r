@@ -48,7 +48,7 @@
 [s][f 5 14]Nós estamos lá.[e]
 
 [msg MND_COOP_DOUZOKUSEI]
-[s]Sinto que posso chegar perto de[n]Takemi graças a Persona[n][var 2] [clr 1][var 5][clr 27]...[n][w][e]
+[s]Sinto que posso me aproximar mais de[n]Takemi graças a Persona[n][var 2] [clr 1][var 5][clr 27]...[n][w][e]
 
 [msg MSG_SPOT_OPEN_INOKASHIRA]
 [s]Você desbloqueou o acesso a um[n]novo local: [clr 1]Inokashira Park[clr 27].[n][w][e]

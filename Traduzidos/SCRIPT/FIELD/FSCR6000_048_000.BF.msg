@@ -2,7 +2,7 @@
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1167 65535 0]Ele é a Sombra de Tsuboi.[n]Você não pode errar.[n][w][e]
 
 [msg QUEST_48_ENTER_mes01f [Futaba]]
-[s][bup 0 8 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9178 65535 0]Shadow avistou.[n]É Tsuboi, não é?[n][w][e]
+[s][bup 0 8 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9178 65535 0]Sombra avistou.[n]É Tsuboi, não é?[n][w][e]
 
 [msg QUEST_48_ENTER_mes02 [Makoto]]
 [s][bup 0 6 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2182 65535 0]Ele parece um pouco irritado.[n][w][e]

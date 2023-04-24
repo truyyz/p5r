@@ -18,7 +18,7 @@
 [s][vp 8 0 0 0 65535 0]Não sei como, mas consegui[n]manter a confiança dele![n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Ohya]]
-[s][bup 0 107 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Coisa? Não sabe?[n]Foi vaidade![n][f 1 3 65535][w][e]
+[s][bup 0 107 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Quê? Não sabe?[n]Foi vaidade![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Mentir sobre ser um[n]fã...é muito suspeito.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Terminamos.[n]Vá para casa.[n][f 1 3 65535][w][e]
 

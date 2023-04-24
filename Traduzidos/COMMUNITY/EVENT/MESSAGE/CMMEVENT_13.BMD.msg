@@ -1,6 +1,6 @@
 [msg CMM_EVENT_OPEN]
 [s][vp 1 0 0 0 0 0]Você desbloqueou o[n]Confidente da Arcana: Morte![n][f 1 3 65535][w][e]
-[s][vp 1 0 0 0 0 0]Mesclar Arcanum Personas: A morte[n]agora concederá a você XP[n]graças ao Arcanum Impetus![n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Mesclar Personas de Arcana: A morte[n]agora concederá a você XP[n]graças ao Arcanum Impetus![n][f 1 3 65535][w][e]
 [s][vp 1 0 0 0 0 0]Takemi agora vai vender para você[n][clr 1]Regeneração[clr 27]![n][f 1 3 65535][w][e]
 
 [msg CMM_EVENT_RANKUP_2]

@@ -21,7 +21,7 @@
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Eheh, estamos mais ou menos[n]no mesmo barco.[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Sakamoto]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Ouvi dizer que você tem um disco.[n]Todo mundo está falando sobre isso.[n][f 1 3 65535][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Ouvi dizer que você tem registro na polícia..[n]Todo mundo está falando sobre isso.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Não é à toa que você é[n]tão corajoso.[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Sakamoto]]

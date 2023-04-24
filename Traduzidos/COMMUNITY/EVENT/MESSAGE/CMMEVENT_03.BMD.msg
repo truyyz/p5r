@@ -1,6 +1,6 @@
 [msg CMM_EVENT_OPEN]
 [s][vp 1 0 0 0 0 0]Você desbloqueou o[n]Confidente da Arcana: A Imperatriz![n][f 1 3 65535][w][e]
-[s][vp 1 0 0 0 0 0]Fusão de Arcanum Personas: A Imperatriz[n]agora concederá a você XP[n]graças ao Arcanum Impetus![n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Fusão de Personas de Arcana: A Imperatriz[n]agora concederá a você XP[n]graças ao Arcanum Impetus![n][f 1 3 65535][w][e]
 [s]Haru agora pode usar [clr 1]Agricultura[clr 27][n]para cultivar vegetais![n][f 1 3 65535][w][e]
 
 [msg CMM_EVENT_RANKUP_2]

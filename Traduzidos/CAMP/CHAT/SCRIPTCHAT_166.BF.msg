@@ -26,7 +26,7 @@
 [s][f 5 14]O próximo passo é praticar[n]entre as pessoas.[n][w][e]
 
 [msg MSG_009_0_0 [Futaba]]
-[s][f 5 14]Coisa? QUE?!?[n][w][e]
+[s][f 5 14]Quê? QUE?!?[n][w][e]
 
 [msg MSG_010_0_0 [Makoto]]
 [s][f 5 14]Tudo vai ficar bem. [f 4 2] estará[n]com você o tempo todo.[n][w][e]

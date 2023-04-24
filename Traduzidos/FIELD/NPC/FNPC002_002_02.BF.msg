@@ -1085,7 +1085,7 @@
 [s][f 4 23 1 83 3 10 0 10][vp 8 2 1 0 83 0]Parece-me que todo mundo está[n]tentando evitar a conversa...[n]Isso me assusta...[n][w][e]
 
 [msg MSG_IIDA_NPC_0 [Estudante de aparência burra]]
-[s][vp 8 2 1 0 90 0]*suspirar*[n][w][e]
+[s][vp 8 2 1 0 90 0]*suspira*[n][w][e]
 [s][vp 8 2 1 0 90 0]Não posso ir à polícia e nem aos professores.[n]eles são confiáveis... Existe apenas o conselho[n]estudantil.[n][w][e]
 [s][vp 8 2 1 0 90 0]Merda, o que eu faço...?[n][w][e]
 

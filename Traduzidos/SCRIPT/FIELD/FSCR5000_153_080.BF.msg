@@ -1,5 +1,5 @@
 [msg D02_BRIEFING_080_mes01 [Ryuji]]
-[s][bup 0 2 105 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7028 65535 0]Cara, aquele Shadow de antes[n]era muito difícil...[n][w][e]
+[s][bup 0 2 105 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7028 65535 0]Cara, aquele Sombra de antes[n]era muito difícil...[n][w][e]
 
 [msg D02_BRIEFING_080_mes02 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]A aparência de tal inimigo[n]deve indicar que estamos na[n]segunda metade da batalha.[n][w][e]

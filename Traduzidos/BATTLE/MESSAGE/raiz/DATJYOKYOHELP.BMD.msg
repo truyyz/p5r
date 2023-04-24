@@ -1652,7 +1652,7 @@
 [s][f 0 4 128]Zero custos de SP com [clr 1][var 2][clr 27]![n][e]
 
 [msg jyokyohelp_TOKUSEI_TYPE__69]
-[s][f 0 4 128][clr 1][var 2][clr 27]: poss. Att. concat. +![n][e]
+[s][f 0 4 128][clr 1][var 2][clr 27]: poss. Atk. concat. +![n][e]
 
 [msg jyokyohelp_TOKUSEI_TYPE__70]
 [s][f 0 4 128]Oscilação dano com [clr 1][var 2][clr 27]![n][e]

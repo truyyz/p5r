@@ -1,5 +1,5 @@
 [msg MSG_000_0_0 [Makoto]]
-[s][f 5 14]Morgana foi ao Okumura Palace?[n]Futaba, é verdade?[n][w][e]
+[s][f 5 14]Morgana foi ao Palácio de Okumura?[n]Futaba, é verdade?[n][w][e]
 
 [msg MSG_002_0_0 [Futaba]]
 [s][f 5 14]Ele disse que iria[n]sozinho...[n][w][e]

@@ -1080,7 +1080,7 @@
 [s][vp 9 2 65535 38404 0 0]Sério, eles colocaram uma recompensa de 30[n]milhões de ienes!?![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_021_06_]
-[s][vp 9 2 65535 41859 0 0]Poder! Não sei como, mas você deve[n]parar os Phantom Thieves...[n][f 1 2 180][e]
+[s][vp 9 2 65535 41859 0 0]Vamos lá! Não sei como, mas você deve[n]parar os Phantom Thieves...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_021_07_]
 [s][vp 9 2 65535 41251 0 0]Colocar uma recompensa pelas cabeças dos Phantom[n]Thieves realmente servirá para prendê-los...?[n][f 1 2 180][e]

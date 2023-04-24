@@ -2,7 +2,7 @@
 [s][bup 0 2 11 1 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]Ei, isso é...?[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]É o Futaba's Shade.[n]Não é o real.[n][f 1 3 65535][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]É a sombra de Futaba.[n]Não é a real.[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Ryuji]]
 [s][bup 0 2 0 1 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Oh sim, você viu o rosto dela.[n]Esta Futaba está vestida[n]como uma rainha.[n][f 1 3 65535][w][e]

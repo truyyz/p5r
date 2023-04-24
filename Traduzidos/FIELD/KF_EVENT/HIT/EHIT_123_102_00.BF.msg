@@ -9,8 +9,8 @@
 [s]Para o pátio[n][w][e]
 
 [msg MSG_TEST_802]
-[s]Al 2° piano[n](Corridoio)[n][w][e]
+[s]No 2° andar[n](Corredor)[n][w][e]
 
 [msg MSG_TEST_803]
-[s]Al 2° piano[n](Cortile)[n][w][e]
+[s]No 2° andar[n](Pátio)[n][w][e]
 

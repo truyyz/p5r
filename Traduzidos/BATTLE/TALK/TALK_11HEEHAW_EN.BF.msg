@@ -58,7 +58,7 @@
 [s]...Sabe, prefiro evitar[n]matar se puder.[n]Acho melhor eu ir, oh![n][w][e]
 
 [msg TalkMsg_EN_FORGIVE_01]
-[s]Coisa? Sério?[n]Você é tão cruel que[n]me dá arrepios, oh![n][w][e]
+[s]Quê? Sério?[n]Você é tão cruel que[n]me dá arrepios, oh![n][w][e]
 [s]Eu não quero mais[n]fazer com você![n]Estou saindo-oh![n][w][e]
 
 [msg TalkMsg_EN_FLEE_00]

@@ -2,7 +2,7 @@
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1174 65535 0]O dia do assalto finalmente[n]chegou... mas há uma coisa[n]que me preocupa.[n][w][e]
 
 [msg D03_BRIEFING_210_mes02 [Yusuke]]
-[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Você quer dizer a localização de Shadow[n]de Kaneshiro?[n][w][e]
+[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Você quer dizer a localização de Sombra[n]de Kaneshiro?[n][w][e]
 [s][bup 0 5 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Nós o perseguimos até as[n]profundezas, mas ninguém estava lá...[n][w][e]
 
 [msg D03_BRIEFING_210_mes03 [Ann]]

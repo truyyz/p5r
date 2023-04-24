@@ -41,7 +41,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Estou convencido de que com este[n]botão podemos continuar, Joker.[n][w][e]
 
 [msg MSG_e296_116_003_AF [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Você acha que há algo[n]na direção que Futaba's Shadow[n]foi?[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Você acha que há algo[n]na direção que a sombra de Futaba[n]foi?[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos nos mexer, pessoal![n][w][e]
 
 [msg D04_03_e296_502_mes01 [Yusuke]]

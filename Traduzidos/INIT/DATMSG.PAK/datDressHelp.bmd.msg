@@ -293,7 +293,7 @@
 [s]Um uniforme especial para[n]Ryuji de uma escola[n]Iwatodai.[n][e]
 
 [msg Item_062]
-[s]Uma fantasia para Morgana[n]de uma arma especial anti-Shadow.[n][e]
+[s]Uma fantasia para Morgana[n]de uma arma especial anti-Sombra.[n][e]
 
 [msg Item_063]
 [s]Um uniforme especial para[n]Ann de uma[n]escola em Iwatodai.[n][e]
@@ -557,34 +557,34 @@
 [s]Uma bailarina da meia-noite[n]procura por [f 4 31 10 1].[n][e]
 
 [msg Item_0BA]
-[s]Um uniforme Shadow Agent[n]para os rebeldes do Metaverso.[n][e]
+[s]Um uniforme Sombra Agent[n]para os rebeldes do Metaverso.[n][e]
 
 [msg Item_0BB]
-[s]Um uniforme do[n]Shadow Agent para Ryuji[n]mostrar no Metaverso.[n][e]
+[s]Um uniforme do[n]Sombra Agent para Ryuji[n]mostrar no Metaverso.[n][e]
 
 [msg Item_0BC]
-[s]Um uniforme de Agente[n]Shadow para Morgana[n]mostrar no Metaverso.[n][e]
+[s]Um uniforme de Agente[n]Sombra para Morgana[n]mostrar no Metaverso.[n][e]
 
 [msg Item_0BD]
-[s]Um uniforme do Agente[n]Shadow para Ann[n]mostrar no Metaverso.[n][e]
+[s]Um uniforme do Agente[n]Sombra para Ann[n]mostrar no Metaverso.[n][e]
 
 [msg Item_0BE]
-[s]Um uniforme do Agente[n]Shadow para Yusuke[n]mostrar no Metaverso.[n][e]
+[s]Um uniforme do Agente[n]Sombra para Yusuke[n]mostrar no Metaverso.[n][e]
 
 [msg Item_0BF]
-[s]Um uniforme do Agente[n]Shadow para Makoto[n]mostrar no Metaverso.[n][e]
+[s]Um uniforme do Agente[n]Sombra para Makoto[n]mostrar no Metaverso.[n][e]
 
 [msg Item_0C0]
-[s]Um uniforme do Agente[n]Shadow para Haru[n]mostrar no Metaverso.[n][e]
+[s]Um uniforme do Agente[n]Sombra para Haru[n]mostrar no Metaverso.[n][e]
 
 [msg Item_0C1]
-[s]Um uniforme do Agente[n]Shadow para Futaba[n]exibir no Metaverso.[n][e]
+[s]Um uniforme do Agente[n]Sombra para Futaba[n]exibir no Metaverso.[n][e]
 
 [msg Item_0C2]
-[s]Um uniforme do Agente[n]Shadow para Akechi[n]mostrar no Metaverso.[n][e]
+[s]Um uniforme do Agente[n]Sombra para Akechi[n]mostrar no Metaverso.[n][e]
 
 [msg Item_0C3]
-[s]Um uniforme do[n]Shadow Agent para [f 4 31 10 1] para[n]mostrar no Metaverso.[n][e]
+[s]Um uniforme do Agente[n]Sombra para [f 4 31 10 1] para[n]mostrar no Metaverso.[n][e]
 
 [msg Item_0C4]
 [s]A roupa da[n]equipe de defesa[n]de uma certa nação[n]para os rebeldes do Metaverso.[n][e]

@@ -489,7 +489,7 @@
 [s][f 4 10 65535 0 0]Você não pode invocá-los em combate, como uma[n]Persona normal. Seu propósito é ser encontrado[n]na fusão.[n][w][e]
 [s][f 4 10 65535 0 0]Ao fundir um Demônio do Tesouro,[n]você pode mudar radicalmente o tipo de[n]Pessoa nascida de uma fusão.[n][w][e]
 [s][f 4 10 65535 0 0]Dizem que o resultado de uma[n]fusão depende de alguma forma[n]da Arcana, mas não sei de mais nada.[n][w][e]
-[s][f 4 10 65535 0 0]Treasure Demons também pode ser útil em outras[n]fusões além da guilhotina.[n][w][e]
+[s][f 4 10 65535 0 0]Demônios Tesouro também pode ser útil em outras[n]fusões além da guilhotina.[n][w][e]
 [s][f 4 10 65535 0 0]Cabe a você lançar luz sobre[n]seus mistérios.[n][w][e]
 
 [msg msg_combine_HELP017 [Lavenza]]

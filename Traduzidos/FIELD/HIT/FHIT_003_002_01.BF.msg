@@ -730,7 +730,7 @@
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]Ei, é o Maruki lá embaixo! Este é o momento de[n]fazer ferramentas![n][w][e]
 
 [msg MSG_StopAct_Table_0516 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 53116 65535 0]Amanhã, depois da escola, em Shibuya...[n]Não durma até tarde só[n]porque você esteve no Palace.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 53116 65535 0]Amanhã, depois da escola, em Shibuya...[n]Não durma até tarde só[n]porque você esteve no Palácio.[n][w][e]
 
 [msg MSG_StopAct_Table_0611 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1018 65535 0]Qual é o problema? Pensando em[n]festa da panela quente?[n][w][e]
@@ -1037,7 +1037,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 1192 65535 0]Pensaremos sobre o arranjo mais tarde.[n]Primeiro pegue o pote.[n][w][e]
 
 [msg MSG_E22810100_NG_CHK_Tab_2 [Morgana]]
-[s][bup 0 3 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 1177 65535 0]Coisa? Não consegue encontrar uma panela?[n]Também não tem nada aqui...[n][w][e]
+[s][bup 0 3 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 1177 65535 0]Quê? Não consegue encontrar uma panela?[n]Também não tem nada aqui...[n][w][e]
 
 [msg MND_E24410100_CHK_Table]
 [s][vp 1 0 0 0 0 0]Será melhor ir à reunião[n]com aquele jornalista...[n][w][e]

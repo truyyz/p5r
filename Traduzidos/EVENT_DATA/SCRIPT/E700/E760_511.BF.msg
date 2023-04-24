@@ -2,7 +2,7 @@
 [s][vp 8 2 0 0 65535 0]A causa da morte não é[n]aquele buraco no crânio...[n][f 1 3 65535][w][e]
 
 [msg MSG_DVD01_Start_1ST_Dram_2 [Mulher de vestido elegante]]
-[s][vp 8 2 0 0 65535 0]Coisa? Então... o que é?[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0]Quê? Então... o que é?[n][f 1 3 65535][w][e]
 
 [msg MND_DVD01_Start_1ST]
 [s][vp 8 2 0 0 65535 0]É a história de uma equipe de investigação[n]especial que descobre[n]a verdade sobre a morte de pessoas...[n][f 1 3 65535][w][e]
@@ -458,7 +458,7 @@
 [s][vp 8 2 0 0 65535 0]Sim, certo...[n]Você acha que eu sou estúpido?!?[n][f 1 3 65535][w][e]
 
 [msg MND_DVD01P5R_Start_1ST]
-[s][vp 8 2 0 0 65535 0]É a história de algumas mulheres que[n]sofrem com dramas de casal...[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0]É a história de algumas mulheres que[n]sofrem com dramas de par...[n][f 1 3 65535][w][e]
 
 [msg MSG_DVD01P5R_Start_1ST [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1133 65535 0]Quanto mais profundo o amor, maior[n]a raiva quando esse amor[n]é traído.[n][f 1 3 65535][w][e]

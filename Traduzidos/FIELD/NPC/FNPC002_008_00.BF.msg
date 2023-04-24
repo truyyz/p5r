@@ -368,7 +368,7 @@
 [s][vp 9 2 65535 43162 0 0]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_030_01_ [Estudante de aparência diligente]]
-[s][vp 9 2 65535 42361 0 0]Coisa? Ligando para o seu[n]namorado? ...Ok,[n]mas não vou embora.[n][f 1 2 180][e]
+[s][vp 9 2 65535 42361 0 0]Quê? Ligando para o seu[n]namorado? ...Ok,[n]mas não vou embora.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_030_02_ [Estudante de aparência diligente]]
 [s][vp 9 2 65535 42950 0 0]Você fez isso! Uau![n]Você tem talento para a fotografia![n][f 1 2 180][e]
@@ -380,7 +380,7 @@
 [s][vp 9 2 65535 42303 0 0]Nossa cachorrinha é muito meiga![n]Não é à toa que a chamam[n]de princesa dos Shiba Inu![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_030_05_ [Estudante de aparência diligente]]
-[s][vp 9 2 65535 42802 0 0]Coisa? Você não presta vestibular?[n]Tá brincando, né?[n][f 1 2 180][e]
+[s][vp 9 2 65535 42802 0 0]Quê? Você não presta vestibular?[n]Tá brincando, né?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_030_06_ [Estudante de aparência diligente]]
 [s][vp 9 2 65535 43201 0 0]Mas você estudou tanto![n]Temos certeza que você está bem com isso?[n][f 1 2 180][e]

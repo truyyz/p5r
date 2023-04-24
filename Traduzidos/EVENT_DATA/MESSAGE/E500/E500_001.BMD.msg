@@ -26,7 +26,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Ele pode ter nos mantido na escuridão[n]de seu poder... Se assim for,[n]devemos descobrir o que está por trás disso.[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Caroline]]
-[s][bup 0 102 1 0 0][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Oh, eu vejo! Heheheh...[n][f 1 3 65535][w][e]
+[s][bup 0 102 1 0 0][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Oh, entendo! Heheheh...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Faremos um[n]"exame particular"[n]especial para descobrir o que ele está escondendo de nós.[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Justine]]

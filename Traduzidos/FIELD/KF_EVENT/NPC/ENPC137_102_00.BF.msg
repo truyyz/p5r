@@ -9,7 +9,7 @@
 [s][f 4 23 1 853 3 10 0 0][vp 8 2 1 0 853 0]Ah, cuidado. Eu ouvi[n]que ultimamente eles param e[n]roubam casais.[n][w][e]
 
 [msg MSG_002_0_0 [Estudante bem preparado]]
-[s][f 4 23 1 852 3 10 0 0][vp 8 2 1 0 852 0]Coisa? Não terei problemas, certo?[n]A polícia definitivamente fará[n]alguma coisa.[n][w][e]
+[s][f 4 23 1 852 3 10 0 0][vp 8 2 1 0 852 0]Quê? Não terei problemas, certo?[n]A polícia definitivamente fará[n]alguma coisa.[n][w][e]
 
 [msg MSG_003_0_0 [Estudante fazendo careta]]
 [s][f 4 23 1 853 3 10 0 0][vp 8 2 1 0 853 0]Já. Talvez eu vá a algum lugar[n]também antes de ir para casa.[n]Não me importo com a universidade...[n][w][e]

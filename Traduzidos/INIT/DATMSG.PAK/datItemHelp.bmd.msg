@@ -1280,7 +1280,7 @@
 [s]Enlatado por um tempo.[n]Retorna 10% de SP para[n]um aliado. Reduz a dif.[n][e]
 
 [msg Item_1AB]
-[s]Não é achocolatado. Devolva[n]10% de SP para um[n]aliado. Reduz Att.[n][e]
+[s]Não é achocolatado. Devolva[n]10% de SP para um[n]aliado. Reduz Atk.[n][e]
 
 [msg Item_1AC]
 [s]Restaura 50 HP e cura[n]Fome de um aliado.[n][e]

@@ -25,7 +25,7 @@
 [s]Em um momento.[f 2 7 0 0 106 1][e]
 
 [msg e259_501_selA_0_mes01 [Yusuke]]
-[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4194 65535 0]Deixamos tudo em suas mãos. O[n]Treasure pode estar aqui atrás.[n][w][e]
+[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4194 65535 0]Deixamos tudo em suas mãos. O[n]Tesouro pode estar aqui atrás.[n][w][e]
 
 [msg e259_501_selA_0_mes02 [Makoto]]
 [s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Se você não sabe o que fazer, verifique[n]o [clr 2]diário[clr 27] de Kaneshiro.[n]Está em nossas coisas.[n][w][e]

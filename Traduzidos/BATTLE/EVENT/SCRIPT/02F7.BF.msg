@@ -82,7 +82,7 @@
 [s]Então, marketing viral.[e]
 
 [msg MSG_BTL_HOLDUP03_001_000 [A sombra de Chiyo]]
-[s][vp 8 0 2 50970 1 89]Coisa? Por que eu teria problemas[n]com outra história?[n][f 1 3 65535][w][e]
+[s][vp 8 0 2 50970 1 89]Quê? Por que eu teria problemas[n]com outra história?[n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_HOLDUP03_001_001 [Yusuke]]
 [s][bup 0 5 100 0 0][vp 8 0 2 1001 0 3][f 4 10 65535 0 0]No começo, você desenhava o que[n]gostava, mas agora limita[n]o que os fãs querem.[n][f 1 3 65535][w][e]

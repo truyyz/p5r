@@ -17,7 +17,7 @@
 [s][f 5 14]Muito bonita.[n]E ela gosta de doces europeus.[n][w][e]
 
 [msg MSG_006_0_0 [Mishima]]
-[s][f 5 14]Aparentemente, o Prof. Kawakami[n]trabalhava meio período em[n]uma padaria chamada Becky's.[n][w][e]
+[s][f 5 14]Aparentemente, a Prof. Kawakami[n]trabalhava meio período em[n]uma padaria chamada Becky's.[n][w][e]
 
 [msg MSG_007_0_0 [Mishima]]
 [s][f 5 14]Um emprego a tempo parcial! Você percebe[n]conta? Que trabalhador![n]Eee... terceira notícia![n][w][e]

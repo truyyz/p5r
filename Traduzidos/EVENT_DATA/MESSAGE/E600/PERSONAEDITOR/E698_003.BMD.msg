@@ -65,7 +65,7 @@
 [s][vp 8 0 0 0 5 0]Dizem que ouvem-se ruídos estranhos, como gritos,[n]mesmo que não haja ninguém...[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Garota entusiasmada]]
-[s][vp 8 0 0 0 4 0]Coisa? Serão apenas boatos lançados[n]pelos fãs mais ardentes[n]para distanciar os competidores.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 4 0]Quê? Serão apenas boatos lançados[n]pelos fãs mais ardentes[n]para distanciar os competidores.[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Garota rude]]
 [s][vp 8 0 0 0 4 0]As lojas estão expondo[n]suas coleções de verão.[n]Preciso começar a economizar...[n][f 1 3 65535][w][e]

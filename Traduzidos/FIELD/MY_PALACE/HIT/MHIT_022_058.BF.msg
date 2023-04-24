@@ -1,3 +1,3 @@
 [msg ITEM_MSG [Shinmyōji]]
-[s]Un tempio a Kichijoji.Il vero[n]tempio di Kichijoji non è[n]a Kichijoji, ma a Komagome.[n][w][e]
+[s]Um templo de Kichijoji. O verdadeiro[n]templo de Kichijoji não é[n]a Kichijoji, mas a Komagome.[n][w][e]
 

@@ -2211,7 +2211,7 @@
 [s]...que muitos esperam[n]o retorno de Masayoshi Shido,[n]o vencedor da última eleição.[n][w][e]
 
 [msg TV_NEWS_1221_100_00 [Morgana]]
-[s][bup 0 3 4 0 0][f 4 10 65535 0 0][vp 8 2 1 1043 65535 0][f 4 25 1 65535 0 0]Coisa? Nós somos os vencedores![n][w][e]
+[s][bup 0 3 4 0 0][f 4 10 65535 0 0][vp 8 2 1 1043 65535 0][f 4 25 1 65535 0 0]Quê? Nós somos os vencedores![n][w][e]
 
 [msg TV_NEWS_1222_000_00 [Locutor]]
 [s]Agora vamos para a política.[n][w][e]

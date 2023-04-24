@@ -86,7 +86,7 @@
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 28 65535 0]Em segundo lugar, a paisagem e[n]detalhes fora do palácio[n]eram os mesmos do mundo real.[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 29 65535 0]Quando Makoto nos contou, di[n]escondendo de Akechi, fomos[n]verificar.[n][f 1 3 65535][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 29 65535 0]Quando Makoto nos contou, nós[n]secretamente fomos verificar sem que[n]Akechi ficasse sabendo.[n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 30 65535 0]Também precisávamos de mais uma[n]coisa para o plano funcionar...[n][f 1 3 65535][w][e]

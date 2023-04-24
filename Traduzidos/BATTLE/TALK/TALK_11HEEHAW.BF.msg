@@ -53,7 +53,7 @@
 [s]Mesmo se você roubar meu cartão de crédito, eu[n]ligaria para a empresa para pedir outro, oh![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_01_R_12]
-[s]Coisa? Você está realmente tentando extorquir[n]dinheiro de mim, oh?[n][w][e]
+[s]Quê? Você está realmente tentando extorquir[n]dinheiro de mim, oh?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_01_R_13]
 [s]Hee-oh, você quer ir para a guerra?[n]Me perdoe, mas eu não tenho tempo[n]para seus jogos, oh...[n][w][e]
@@ -69,7 +69,7 @@
 
 [msg TalkMsg_GUY_CHAT_FQ_02]
 [s]Você não acha que vai se safar disso, não é?[n][w][e]
-[s]Eu sou um Shadow superpopular, sabe?[n]Meus fãs nunca perdoariam[n]sua reprovação, oh.[n][w][e]
+[s]Eu sou um Sombra superpopular, sabe?[n]Meus fãs nunca perdoariam[n]sua reprovação, oh.[n][w][e]
 
 [sel TalkSel_GUY_CHAT_FQ_02 top]
 [s]Por favor me perdoe.[e]
@@ -158,7 +158,7 @@
 [s]Eu sabia... Achei estranho[n]que você me atacou tão[n]de repente, oh.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_03_R_9]
-[s]Coisa? Hee-não! Veja para "se livrar"[n]essa atitude quando[n]você fala comigo, oh![n][w][e]
+[s]Quê? Hee-não! Veja para "se livrar"[n]essa atitude quando[n]você fala comigo, oh![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_03_R_10]
 [s]Oh não! Você fingiu ser um caçador de talentos só[n]para me atacar? Vocês humanos são espertos, oh![n][w][e]
@@ -887,7 +887,7 @@
 [s]Hee-oh, tudo bem. Trabalhar duro[n]não me incomoda, pelo menos até[n]encher meus bolsos, oh.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_08_R_5]
-[s]Coisa? Hee-não![n]Você é um cara tão mau, oh![n][w][e]
+[s]Quê? Hee-não![n]Você é um cara tão mau, oh![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_08_R_6]
 [s]Mesmo durante as lutas,[n]quebras são importantes, oh![n][w][e]
@@ -2283,10 +2283,10 @@
 [s]Outro inimigo entrou na conversa.[n][w][e]
 
 [msg TalkMsg_cnt_interruptP]
-[s]Dopo aver parlato con il bersaglio,[n]i compagni possono intervenire per[n]accelerare le cose (% di chance).[n][w][e]
+[s]Depois de falar com o alvo,[n]companheiros de equipe podem intervir para[n]acelerar as coisas (% de chance).[n][w][e]
 
 [msg TalkMsg_cnt_refuse]
-[s]Il bersaglio si rifiuta di parlare.[n]→Ciò accade se il risultato della[n]conversazione è un rifiuto.[n][w][e]
+[s]O alvo se recusa a falar.[n]→Isso acontece se o resultado da [n]conversa for uma rejeição.[n][w][e]
 
 [msg TalkMsg_cnt_anger]
 [s]Il bersaglio è irato e contrattacca.[n]→Caso negativo se il risultato[n]della conversazione è un rifiuto.[n][w][e]

@@ -12,10 +12,10 @@
 [s]Para o pátio[n][w][e]
 
 [msg MSG_TEST_803]
-[s]Al 2° piano (Scale della mensa)[n][w][e]
+[s]No 2° andar (Escada da Cantina)[n][w][e]
 
 [msg MSG_TEST_804]
-[s]Al 2° piano (Scale del cortile)[n][w][e]
+[s]No 2° andar (Escadas do pátio)[n][w][e]
 
 [msg MSG_TEST_805]
 [s]Recepção[n][w][e]
@@ -24,7 +24,7 @@
 [s]loja da escola[n][w][e]
 
 [msg MSG_029_0_0 [Ryuji]]
-[s][vp 1 0 0 0 0 0]Porra, eu não posso[n]pegá-lo! Vocês?[n][w][e]
+[s][vp 1 0 0 0 0 0]Porra, eu não consigo[n]pegá-lo! E você?[n][w][e]
 
 [sel SEL_030_0_0 top]
 [s]Nada ainda.[e]

@@ -5,7 +5,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Como expliquei antes, estamos[n]jogando 01. Temos 5 rodadas[n]para levar nossa pontuação a 0![n][f 1 3 65535][w][e]
 
 [msg MSG_000_2_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]E fazendo isso como um casal,[n]a harmonia dos Phantom Thieves[n]será fortalecida![n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]E fazendo isso como um par,[n]a harmonia dos Phantom Thieves[n]será fortalecida![n][f 1 3 65535][w][e]
 
 [msg MSG_000_3_0 [Morgana]]
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 0 1192 65535 0]Ok, vamos começar o jogo![n][f 1 3 65535][w][e]
@@ -23,7 +23,7 @@
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 0 1171 65535 0]Vamos lá 0![n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Ann]]
-[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 6023 65535 0]Poder! Fazemos o nosso melhor![n][f 1 3 65535][w][e]
+[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 6023 65535 0]Vamos lá! Fazemos o nosso melhor![n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Yusuke]]
 [s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 4035 65535 0]Você se junta a mim?[n]Vamos fazer o nosso melhor.[n][f 1 3 65535][w][e]

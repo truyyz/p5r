@@ -13,7 +13,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Por que é tão bonito? Não deveria ser o desejo de[n]Kamoshida?[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Morgana]]
-[s][bup 0 3 8 0 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]O T-Treasure...[n][f 1 3 65535][w][e]
+[s][bup 0 3 8 0 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]O T-Tesouro...[n][f 1 3 65535][w][e]
 
 [msg MSG_003_5_0 [Ryuji]]
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Uh, o gato está[n]muito chateado.[n][f 1 3 65535][w][e]

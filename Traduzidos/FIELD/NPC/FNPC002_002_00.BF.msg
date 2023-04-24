@@ -1237,7 +1237,7 @@
 [s][vp 9 2 65535 42903 0 0]Notas não são tudo![n]Vamos sair e nos divertir![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_030_05_ [Estudante preguiçoso]]
-[s][vp 9 2 65535 42705 0 0]Coisa? Veio me ver porque eu estava doente? Do[n]que diabos você está falando?[n][f 1 2 180][e]
+[s][vp 9 2 65535 42705 0 0]Quê? Veio me ver porque eu estava doente? Do[n]que diabos você está falando?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_031_06_ [Estudante preguiçoso]]
 [s][vp 9 2 65535 45352 0 0]Huh? Quando recebi a[n]comenda da universidade...?[n][f 1 2 180][e]
@@ -1342,7 +1342,7 @@
 [s][vp 9 2 65535 43354 0 0]Ouvi dizer que uma grande[n]ginasta se mudou[n]para nossa escola.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_505_01_ [Estudante preguiçoso]]
-[s][vp 9 2 65535 43151 0 0]Coisa? Um estudioso?[n]Ninguém se importa.[n][f 1 2 180][e]
+[s][vp 9 2 65535 43151 0 0]Quê? Um estudioso?[n]Ninguém se importa.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_505_02_ [Estudante preguiçoso]]
 [s][vp 9 2 65535 43002 0 0]Deve ser o novo aluno.[n][f 1 2 180][e]

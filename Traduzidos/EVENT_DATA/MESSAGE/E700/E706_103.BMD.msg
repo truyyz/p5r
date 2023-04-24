@@ -58,7 +58,7 @@
 [s][vp 8 0 0 255 65535 0]E sinto[n]um novo poder crescendo em mim![n][f 1 3 65535][w][e]
 
 [msg PFM_016_5_0]
-[s][vp 8 0 0 0 65535 0][clr 1]Carmen[clr 27], Ann's Persona,[n]transformada em [clr 2]Hecate[clr 27]![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][clr 1]Carmen[clr 27], Persona de Ann,[n]transformada em [clr 2]Hecate[clr 27]![n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Ann]]
 [s][bup 0 4 6 65535 0][f 4 10 65535 0 0][vp 8 0 0 48 65535 0]Prometa que você[n]estará sempre ao meu lado... Ok?[n][f 1 3 65535][w][e]

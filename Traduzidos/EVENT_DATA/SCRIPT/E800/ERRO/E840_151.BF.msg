@@ -158,7 +158,7 @@
 [s][vp 8 0 0 0 65535 0]Parece que acabei de[n]capturar o coração de Makoto![n][f 1 3 65535][w][e]
 
 [msg MND_GIFT_002_004 [Makoto]]
-[s][bup 0 6 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 39 5 100]Coisa? Como você sabia[n]que eu sempre quis isso?[n][f 1 3 65535][w][e]
+[s][bup 0 6 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 39 5 100]Quê? Como você sabia[n]que eu sempre quis isso?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]É pequeno, mas você pode[n]comprar as peças[n]separadamente para modificá-lo.[n][f 1 3 65535][w][e]
 [s][bup 0 6 1 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 36 5 100][vp 8 2 0 2031 65535 0]É ótimo...[n]Obrigado, [f 4 2].[n][f 1 3 65535][w][e]
 

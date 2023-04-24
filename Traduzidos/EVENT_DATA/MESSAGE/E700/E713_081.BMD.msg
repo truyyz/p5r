@@ -52,7 +52,7 @@
 [s][vp 8 0 0 0 65535 0]Mas... o que é um erro médico?[n][f 1 3 65535][w][e]
 
 [msg MSG_015_5_0 [Takemi]]
-[s][bup 0 108 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Coisa? Hum... É algo que[n]nunca deveria[n]acontecer... eu acho.[n][f 1 3 65535][w][e]
+[s][bup 0 108 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Quê? Hum... É algo que[n]nunca deveria[n]acontecer... eu acho.[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Takemi]]
 [s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 2 0 14101 65535 0]Isso é algum tipo de piada?[n][f 1 3 65535][w][e]

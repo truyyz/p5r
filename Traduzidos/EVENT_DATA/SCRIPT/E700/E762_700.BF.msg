@@ -117,7 +117,7 @@
 [s][bup 0 3 5 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu... sinto muito... Já estamos aqui há muito[n]tempo... Vamos... para casa...[n][f 1 3 65535][w][e]
 
 [msg MSG_075_0_0 [Morgana]]
-[s][bup 0 3 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Poder! Futebol! Punho![n]Lembre-se do guarda![n][f 1 3 65535][w][e]
+[s][bup 0 3 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vamos lá! Futebol! Punho![n]Lembre-se do guarda![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Você não luta contra um tronco![n]Ele é um oponente poderoso![n]Ele está atacando vocêoo![n][f 1 3 65535][w][e]
 
 [msg MSG_076_0_0 [Morgana]]

@@ -33,7 +33,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]E é aí que nos[n]encontramos... I Mementos.[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Ann]]
-[s][bup 0 4 100 0 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Agora que você mencionou, este lugar[n]parece um pouco diferente do[n]Kamoshida Palace...[n][f 1 3 65535][w][e]
+[s][bup 0 4 100 0 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Agora que você mencionou, este lugar[n]parece um pouco diferente do[n]Palácio de Kamoshida...[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Ryuji]]
 [s][bup 0 2 107 0 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Quando você diz "compartilhado"... você quer[n]dizer que as pessoas estão todas aqui? Mesmo que[n]não se conheçam?[n][f 1 3 65535][w][e]

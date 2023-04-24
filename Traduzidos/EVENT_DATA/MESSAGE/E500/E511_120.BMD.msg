@@ -12,7 +12,7 @@
 [s][bup 0 10 104 0 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]E-Um, sim![n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Kasumi]]
-[s][bup 0 10 100 0 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Então, aquele Shadow...[n]Ele disse algo[n]sobre uma busca.[n][f 1 3 65535][w][e]
+[s][bup 0 10 100 0 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Então, aquele Sombra...[n]Ele disse algo[n]sobre uma busca.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]E algo sobre sofrimento...[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Akechi]]

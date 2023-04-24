@@ -358,7 +358,7 @@
 [s][bup 0 103 0 65535 0][f 4 23 1 205 33 10 33 10][f 4 23 1 235 31 10 30 10][vp 8 2 1 5008 65535 0][f 4 10 65535 0 0]Ainda está frio lá fora... Tente[n]não deixar o gato doente, ok?[n][w][e]
 
 [msg MSG_SOJIRO_NG_D10_03 [Sojiro]]
-[s][bup 0 103 1 65535 0][f 4 23 1 205 33 10 33 10][f 4 23 1 235 31 10 30 10][vp 8 2 1 5024 65535 0][f 4 10 65535 0 0]Um casal de clientes sorridentes não é o fim do[n]mundo. Se ao menos eles trouxessem negócios[n]melhores...[n][w][e]
+[s][bup 0 103 1 65535 0][f 4 23 1 205 33 10 33 10][f 4 23 1 235 31 10 30 10][vp 8 2 1 5024 65535 0][f 4 10 65535 0 0]Um par de clientes sorridentes não é o fim do[n]mundo. Se ao menos eles trouxessem negócios[n]melhores...[n][w][e]
 
 [msg MSG_SOJIRO_NG_D10_04 [Sojiro]]
 [s][bup 0 103 1 65535 0][f 4 23 1 205 33 10 33 10][f 4 23 1 235 31 10 30 10][vp 8 2 1 53901 65535 0][f 4 10 65535 0 0]Ultimamente, muitas pessoas ganham na loteria.[n]Você também ouviu?[n][w][e]
@@ -513,7 +513,7 @@
 [s][bup 0 103 0 65535 0][f 4 23 1 205 33 10 33 10][f 4 23 1 235 31 10 30 10][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu não tenho mais nada para te ensinar.[n]Mas você está disposto a me dar[n]uma ajuda no refeitório?[n][w][e]
 
 [msg MND_COOP_DOUZOKUSEI]
-[s]Sinto que posso chegar perto de[n]Sojiro graças a Persona[n][var 2] [clr 1][var 5][clr 27]...[n][w][e]
+[s]Sinto que posso me aproximar mais de[n]Sojiro graças a Persona[n][var 2] [clr 1][var 5][clr 27]...[n][w][e]
 
 [msg MND_COOP_RANKUP_OK]
 [s]Sinto que em breve meu vínculo com Sojiro se[n]fortalecerá...[n][w][e]
@@ -598,7 +598,7 @@
 [s][bup 0 103 0 65535 0][f 4 23 1 205 33 10 33 10][f 4 23 1 235 31 10 30 10][f 4 10 65535 0 0][vp 8 2 1 5063 65535 0]Oh, bem... Quando você tiver tempo,[n]me dê uma mão.[n][w][e]
 
 [msg MSG_C05_COOP_CANCEL_06 [Sojiro]]
-[s][bup 0 103 0 65535 0][f 4 23 1 205 33 10 33 10][f 4 23 1 235 31 10 30 10][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]*suspirar*[n][w][e]
+[s][bup 0 103 0 65535 0][f 4 23 1 205 33 10 33 10][f 4 23 1 235 31 10 30 10][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]*suspira*[n][w][e]
 
 [msg MSG_C05_COOP_AKECHI_00 [Akechi]]
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Bem, estou indo para casa.[n][w][e]
@@ -627,7 +627,7 @@
 [s]Se você conhece alguém[n]que gosta de ramen,[n]tente convidá-lo aqui.[n][w][e]
 
 [msg MSG_SPOT_OPEN_ODAIBA]
-[s]Você descobriu um novo[n]ponto de encontro:[n][clr 2]Odaiba's Seaside Park[clr 27].[n][w][e]
+[s]Você descobriu um novo[n]ponto de encontro:[n][clr 2]Parque Beira-Mar Odaiaba[clr 27].[n][w][e]
 [s]Se você conhece alguém que[n]gosta de parques aquáticos,[n]tente convidá-lo aqui.[n][w][e]
 
 [msg MSG_SPOT_OPEN_UENO]
@@ -647,7 +647,7 @@
 [s]Se você conhece alguém[n]que pode gostar do lugar,[n]tente convidá-lo aqui.[n][w][e]
 
 [msg MSG_SPOT_OPEN_MAIHAMA]
-[s]Você descobriu um novo[n]local de encontro:[n][clr 2]Maihama's Destinyland[clr 27].[n][w][e]
+[s]Você descobriu um novo[n]local de encontro:[n][clr 2]Destinyland de Maihama[clr 27].[n][w][e]
 [s]Se você conhece alguém[n]que pode gostar do lugar,[n]tente convidá-lo aqui.[n][w][e]
 
 [msg MSG_SPOT_OPEN_ASAKUSA]
@@ -676,7 +676,7 @@
 [s]Se você conhece alguém que gosta de[n]comer sushi caro,[n]tente convidá-lo aqui.[n][w][e]
 
 [msg MSG_SPOT_OPEN_JINBOCHO]
-[s]Você descobriu um novo[n]local de encontro:[n][clr 2]Jinbocho's Book Town[clr 27].[n][w][e]
+[s]Você descobriu um novo[n]local de encontro:[n][clr 2]Cidade dos Livros Jinbocho[clr 27].[n][w][e]
 [s]Se você conhece alguém[n]que pode gostar do lugar,[n]tente convidá-lo aqui.[n][w][e]
 [s]Se você quiser, também pode[n]ir lá sozinho para fazer[n]algumas compras.[n][w][e]
 

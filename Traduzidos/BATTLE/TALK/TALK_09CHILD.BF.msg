@@ -16,7 +16,7 @@
 
 [sel TalkSel_GUY_CHAT_FQ_01 top]
 [s]Violência doméstica.[e]
-[s]Coisa? Não, você estava errado...[e]
+[s]Quê? Não, você estava errado...[e]
 [s]Hum, tudo bem em casa?[e]
 
 [msg TalkMsg_GUY_CHAT_FQ_01_R]
@@ -59,7 +59,7 @@
 [s]Oh! Então eu sei o que é![n]É... tentativa de homicídio![n]Eu ouvi na TV![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_01_R_14]
-[s]Coisa? Você não é forte. Você age como uma[n]criança pequena.[n][w][e]
+[s]Quê? Você não é forte. Você age como uma[n]criança pequena.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_01_R_15]
 [s]Se meu pai estivesse aqui,[n]ele diria que você só sabe[n]"dar água na boca".[n][w][e]
@@ -230,7 +230,7 @@
 [s]Perguntas sobre beijos[n]te deixam com raiva? Por quê? Espere,[n]você conhece alguém que tem piolhos?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_04_R_14]
-[s]Coisa? Você quer dizer ...[n]beijar é uma merda?[n][w][e]
+[s]Quê? Você quer dizer ...[n]beijar é uma merda?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_04_R_15]
 [s]Ei! Não fique com raiva de mim[n]só porque você não sabe.[n][w][e]
@@ -500,7 +500,7 @@
 [s]Grosseiro?!? Ah sim?!?[n]Bem, quem disse, é![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_01_R_9]
-[s]Coisa? E por quê?!? Agora eu quero[n]saber ainda mais![n][w][e]
+[s]Quê? E por quê?!? Agora eu quero[n]saber ainda mais![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_01_R_10]
 [s]Por quê? Talvez você não tenha tempo?[n][w][e]
@@ -704,7 +704,7 @@
 [s]Um cupom.[e]
 
 [msg TalkMsg_GUY_CHAT_SQ_05_R]
-[s]Coisa? Sério? Então...[n]eu tenho que escrever uma resposta, certo?[n][w][e]
+[s]Quê? Sério? Então...[n]eu tenho que escrever uma resposta, certo?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_05_R_2]
 [s]Mas eu sou apenas uma criança...[n]Eu pensei que cartas de amor[n]eram apenas para adultos...[n][w][e]
@@ -992,7 +992,7 @@
 [s]Sério? Então você me bateu...[n]para salvar o mundo?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_10_R_2]
-[s]Oh, eu vejo. Então, para o bem[n]do mundo, você também tem que punir[n]ós, crianças, certo?[n][w][e]
+[s]Oh, entendo. Então, para o bem[n]do mundo, você também tem que punir[n]ós, crianças, certo?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_10_R_3]
 [s]Eu não sei, tudo isso parece[n]uma farsa para mim... E pensar[n]que você é ótimo...[n][w][e]
@@ -1166,7 +1166,7 @@
 [s]Bem, eu não esperava isso, mas...[n]se isso significa que somos[n]amigos, bem...isso é ótimo![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_13_R_3]
-[s]Coisa? Sério?[n]Isso é "amizade"?[n][w][e]
+[s]Quê? Sério?[n]Isso é "amizade"?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_13_R_4]
 [s]Huh? Acho que é mentira,[n]mas vou ser legal e fingir[n]que também acho.[n][w][e]
@@ -1190,7 +1190,7 @@
 [s]Então você costuma bater nas pessoas adoráveis?[n]Eu realmente não entendo os adultos...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_13_R_11]
-[s]Coisa? Se você me acha adorável, tente ser legal[n]comigo![n][w][e]
+[s]Quê? Se você me acha adorável, tente ser legal[n]comigo![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_13_R_12]
 [s]Ei, você realmente acha que isso[n]vai consertar as coisas?!?[n][w][e]
@@ -1458,7 +1458,7 @@
 [msg TalkMsg_GUY_NEGO_Re_ACCE_3 [Ryuji]]
 
 [msg TalkMsg_GUY_RESULT_GET_P]
-[s]Você sabe, na verdade eu não sou[n]a Shadow! Eu venho do mar[n]de almas humanas![n][w][e]
+[s]Você sabe, na verdade eu não sou[n]a Sombra! Eu venho do mar[n]de almas humanas![n][w][e]
 [s]Meu nome verdadeiro é [clr 1][var 2][clr 27]![n]Você e eu somos iguais![n][w][e]
 
 [msg TalkMsg_GUY_RESULT_GET_P_2]
@@ -1679,43 +1679,43 @@
 [s]Nããão! Vou te dar isso, mas[n]por favor, deixe-me ir![n][w][e]
 
 [msg TalkMsg_RESULT_GET_PERSO]
-[s]Você sabe, na verdade eu não sou[n]a Shadow! Eu venho do mar[n]de almas humanas![n][w][e]
+[s]Você sabe, na verdade eu não sou[n]a Sombra! Eu venho do mar[n]de almas humanas![n][w][e]
 [s]Meu nome verdadeiro é [clr 1][var 2][clr 27]![n]Você e eu somos iguais![n][w][e]
 
 [msg TalkMsg_RESULT_GET_PERSO_2]
-[s]Você sabe, na verdade eu não sou[n]a Shadow! Eu venho do mar[n]de almas humanas![n][w][e]
+[s]Você sabe, na verdade eu não sou[n]a Sombra! Eu venho do mar[n]de almas humanas![n][w][e]
 [s]Meu nome verdadeiro é [clr 1][var 2][clr 27]![n]Você e eu somos iguais![n][w][e]
 
 [msg TalkMsg_RESULT_GET_PERSO_3]
-[s]Você sabe, na verdade eu não sou[n]a Shadow! Eu venho do mar[n]de almas humanas![n][w][e]
+[s]Você sabe, na verdade eu não sou[n]a Sombra! Eu venho do mar[n]de almas humanas![n][w][e]
 [s]Meu nome verdadeiro é [clr 1][var 2][clr 27]![n]Você e eu somos iguais![n][w][e]
 
 [msg TalkMsg_RESULT_GET_PERSO_4]
-[s]Você sabe, na verdade eu não sou[n]a Shadow! Eu venho do mar[n]de almas humanas![n][w][e]
+[s]Você sabe, na verdade eu não sou[n]a Sombra! Eu venho do mar[n]de almas humanas![n][w][e]
 [s]Meu nome verdadeiro é [clr 1][var 2][clr 27]![n]Você e eu somos iguais![n][w][e]
 
 [msg TalkMsg_RESULT_GET_PERSO_5]
-[s]Você sabe, na verdade eu não sou[n]a Shadow! Eu venho do mar[n]de almas humanas![n][w][e]
+[s]Você sabe, na verdade eu não sou[n]a Sombra! Eu venho do mar[n]de almas humanas![n][w][e]
 [s]Meu nome verdadeiro é [clr 1][var 2][clr 27]![n]Você e eu somos iguais![n][w][e]
 
 [msg TalkMsg_RESULT_GET_PERSO_6]
-[s]Você sabe, na verdade eu não sou[n]a Shadow! Eu venho do mar[n]de almas humanas![n][w][e]
+[s]Você sabe, na verdade eu não sou[n]a Sombra! Eu venho do mar[n]de almas humanas![n][w][e]
 [s]Meu nome verdadeiro é [clr 1][var 2][clr 27]![n]Você e eu somos iguais![n][w][e]
 
 [msg TalkMsg_RESULT_GET_PERSO_7]
-[s]Você sabe, na verdade eu não sou[n]a Shadow! Eu venho do mar[n]de almas humanas![n][w][e]
+[s]Você sabe, na verdade eu não sou[n]a Sombra! Eu venho do mar[n]de almas humanas![n][w][e]
 [s]Meu nome verdadeiro é [clr 1][var 2][clr 27]![n]Você e eu somos iguais![n][w][e]
 
 [msg TalkMsg_RESULT_GET_PERSO_8]
-[s]Você sabe, na verdade eu não sou[n]a Shadow! Eu venho do mar[n]de almas humanas![n][w][e]
+[s]Você sabe, na verdade eu não sou[n]a Sombra! Eu venho do mar[n]de almas humanas![n][w][e]
 [s]Meu nome verdadeiro é [clr 1][var 2][clr 27]![n]Você e eu somos iguais![n][w][e]
 
 [msg TalkMsg_RESULT_GET_PERSO_9]
-[s]Você sabe, na verdade eu não sou[n]a Shadow! Eu venho do mar[n]de almas humanas![n][w][e]
+[s]Você sabe, na verdade eu não sou[n]a Sombra! Eu venho do mar[n]de almas humanas![n][w][e]
 [s]Meu nome verdadeiro é [clr 1][var 2][clr 27]![n]Você e eu somos iguais![n][w][e]
 
 [msg TalkMsg_RESULT_GET_PERSO_10]
-[s]Você sabe, na verdade eu não sou[n]a Shadow! Eu venho do mar[n]de almas humanas![n][w][e]
+[s]Você sabe, na verdade eu não sou[n]a Sombra! Eu venho do mar[n]de almas humanas![n][w][e]
 [s]Meu nome verdadeiro é [clr 1][var 2][clr 27]![n]Você e eu somos iguais![n][w][e]
 
 [msg TalkMsg_ED_bye_D01_01]
@@ -2280,10 +2280,10 @@
 [s]Outro inimigo se intrometeu na conversa.[n][w][e]
 
 [msg TalkMsg_cnt_interruptP]
-[s]Dopo aver parlato con un bersaglio,[n]i compagni possono intervenire per[n]accelerare le cose (% di chance).[n][w][e]
+[s]Depois de falar com um alvo,[n]companheiros de equipe podem intervir para[n]acelerar as coisas (% de chance).[n][w][e]
 
 [msg TalkMsg_cnt_refuse]
-[s]Il bersaglio si rifiuta di parlare.→[n]Ciò accade se il risultato della[n]conversazione è un rifiuto.[n][w][e]
+[s]O alvo se recusa a falar.→[n]Isto acontece se o resultado da[n]conversa for uma rejeição.[n][w][e]
 
 [msg TalkMsg_cnt_anger]
 [s]O alvo fica com raiva e revida.[n]Falha se o resultado[n]da conversa for uma rejeição.[n][w][e]
@@ -2311,7 +2311,7 @@
 [s][var 0].[n][w][e]
 
 [msg DebugMsg_ENEMY_LV]
-[s]ID Nemico [var 3][n]Livello nemico [var 0][n]Livello protagonista [var 1][n]AI_CHK_ENIDLV_O([var 0], 1) = [var 2][n][w][e]
+[s]ID Inimigo [var 3][n]Nível do Inimigo [var 0][n]Nível do Protagonista [var 1][n]AI_CHK_ENIDLV_O([var 0], 1) = [var 2][n][w][e]
 
 [msg TalkMsg_GUY_RESULT_GET_P_4 [Ann]]
 [s]Nesse caso... darei minha[n]experiência para a Pessoa que você[n]já tem dentro de você![n][w][e]

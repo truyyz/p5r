@@ -20,7 +20,7 @@
 [s][f 4 23 1 801 3 5 0 0][vp 8 2 1 0 801 0]O bandido loiro ainda[n]está lá, certo ...? E eu queria[n]ir a uma loja no beco...[n][w][e]
 
 [msg MSG_GAMER_000_00 [Menino bonito]]
-[s][f 4 23 1 802 3 5 0 0][vp 8 2 1 0 802 0]Coisa? Só estou tomando um pouco de ar fresco.[n][w][e]
+[s][f 4 23 1 802 3 5 0 0][vp 8 2 1 0 802 0]Quê? Só estou tomando um pouco de ar fresco.[n][w][e]
 [s][vp 8 2 1 0 802 0]Perdi uma série de jogos,[n]então estou fazendo uma pausa.[n][w][e]
 
 [msg MSG_GAMER_001_00 [Menino bonito]]

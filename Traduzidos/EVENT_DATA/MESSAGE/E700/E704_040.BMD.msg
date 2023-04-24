@@ -76,7 +76,7 @@
 [s][vp 8 0 0 0 5 0]Espere um pouco... Você está nos retratando?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Mulher jovem]]
-[s][vp 8 0 0 0 6 0]Coisa? Você está nos usando como modelo?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 6 0]Quê? Você está nos usando como modelo?[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Yusuke]]
 [s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 4020 65535 0]Um homem e uma mulher balançando[n]em um lago de sonhos... O rubor[n]nas bochechas, os olhares tímidos...[n][f 1 3 65535][w][e]

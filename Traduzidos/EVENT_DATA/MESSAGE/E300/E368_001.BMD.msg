@@ -63,7 +63,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Primeiro lugar, Goro Akechi.[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Ryuji]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 3 301 1][vp 8 0 0 23 65535 0]Coisa? Akechi!?![n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 3 301 1][vp 8 0 0 23 65535 0]Quê? Akechi!?![n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Ann]]
 [s][bup 0 4 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Por que você está surpreso?[n]Lemos o nome dele[n]até agora.[n][f 1 3 65535][w][e]

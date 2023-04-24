@@ -6,16 +6,16 @@
 [s]Na Ala Oeste, 3P[n][w][e]
 
 [msg MSG_TEST_801]
-[s]Al 2° piano[n](Corridoio)[n][w][e]
+[s]No 2° andar[n](Corredor)[n][w][e]
 
 [msg MSG_TEST_802]
-[s]Al 2° piano[n](Cortile)[n][w][e]
+[s]No 2° andar[n](Pátio)[n][w][e]
 
 [msg MSG_TEST_803]
 [s]No patamar do telhado[n][w][e]
 
 [msg MSG_TEST_804]
-[s]Al 3° piano dal pianerottolo tetto[n][w][e]
+[s]No 3° andar da Cobertura do Telhado[n][w][e]
 
 [msg MSG_TEST_805]
 [s]Examine a porta do telhado[n][w][e]

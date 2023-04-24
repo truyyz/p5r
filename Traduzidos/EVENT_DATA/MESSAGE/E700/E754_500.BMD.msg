@@ -2,7 +2,7 @@
 [s][bup 0 103 500 65535 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]Ei. Você está pronto para amanhã?[n][f 1 3 65535][w][e]
 
 [sel SEL_001_0_0 top]
-[s]Coisa?[e]
+[s]Quê?[e]
 [s]Amanhã?[e]
 
 [msg MSG_002_0_0 [Sojiro]]

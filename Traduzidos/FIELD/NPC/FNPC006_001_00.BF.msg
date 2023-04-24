@@ -38,7 +38,7 @@
 [msg MSG_KIGURUMI_005_0_0 [Promotor insistente]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Se você acha que os ladrões hoje em dia trabalham[n]apenas online, você está muito enganado.[n][w][e]
 [s][vp 8 2 1 0 1 0]Há quanto tempo você não atualiza o alarme de sua[n]casa? Bem, hoje é sua chance![n][w][e]
-[s][vp 8 2 1 0 1 0]Abbiamo una promo speciale sui[n]nostri sistemi di sicurezza a 360°.[n]Approfittatene subito per un bonus![n][w][e]
+[s][vp 8 2 1 0 1 0]Temos uma promoção especial em[n]nossos sistemas de segurança 360°.[n]Aproveite agora para ganhar um bônus![n][w][e]
 [s][vp 8 2 1 0 1 0]Não perca esta oportunidade![n]Você estará pronto quando o perigo atacar?[n][w][e]
 
 [msg MSG_KIGURUMI_006_0_0 [Promotor insistente]]
@@ -337,7 +337,7 @@
 [s][vp 8 2 1 0 5 0]Minha esposa suspeita que é[n]uma farsa, que você está naquela[n]gangue caçada pelos Phantom Thieves.[n][w][e]
 
 [msg MSG_GYAKUSAGI_002_1_0 [Menino tranquilo]]
-[s][f 4 23 1 7 3 10 0 10][vp 8 2 1 0 7 0]Coisa? Não! Eu só quero salvar meu amigo![n]Pergunte a ele assim que ele acordar.[n][w][e]
+[s][f 4 23 1 7 3 10 0 10][vp 8 2 1 0 7 0]Quê? Não! Eu só quero salvar meu amigo![n]Pergunte a ele assim que ele acordar.[n][w][e]
 [s][vp 8 2 1 0 7 0]Mesmo que agora não seja o momento.[n]Ele terá que fazer outra cirurgia[n]para sobreviver...[n][w][e]
 
 [msg MSG_GYAKUSAGI_002_2_0 [Ancião bondoso]]
@@ -412,7 +412,7 @@
 
 [msg MSG_GYAKUSAGI_009_0_0 [Menino tranquilo]]
 [s][vp 8 2 1 0 7 0]Olha, outro dia fui ameaçado por um cara[n]estranho...[n][w][e]
-[s][vp 8 2 1 0 7 0]Coisa? Ele veio até você também?[n]Ele estava vestindo um estranho[n]terno preto, certo?[n][w][e]
+[s][vp 8 2 1 0 7 0]Quê? Ele veio até você também?[n]Ele estava vestindo um estranho[n]terno preto, certo?[n][w][e]
 [s][vp 8 2 1 0 7 0]Talvez seja um Phantom Thief![n]Mas eu nunca recebi uma[n]carta de aviso... E aí!?![n][w][e]
 [s][vp 8 2 1 0 7 0]E também há muita[n]polícia por perto por causa desses ataques.[n]Talvez devêssemos abandonar esta área.[n][w][e]
 
@@ -499,7 +499,7 @@
 [s]......[e]
 
 [msg MSG_SUKAUTOMAN_001_1_0 [Vendedor ambulante suspeito]]
-[s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]Coisa? Menor de idade? Eu pensei que você fosse[n]muito mais velho. Você é maduro para sua idade![n]ei![n][w][e]
+[s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]Quê? Menor de idade? Eu pensei que você fosse[n]muito mais velho. Você é maduro para sua idade![n]ei![n][w][e]
 
 [msg MSG_SUKAUTOMAN_001_2_0 [Vendedor ambulante suspeito]]
 [s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]... Tsk. Garoto idiota.[n]Ninguém vai descobrir sua idade[n]se você ficar quieto.[n][w][e]
@@ -671,7 +671,7 @@
 [s][f 4 23 1 8 12 10 3 10][vp 8 2 1 0 8 0]Você é fã dos Phantom Thieves?[n]Estou na moda agora! Descubra[n]mais... depois do comercial![n][w][e]
 
 [msg MSG_SUKAUTOMAN_009_1_0 [Garoto de aparência entediada]]
-[s][f 4 23 1 10 3 10 0 10][vp 8 2 1 0 10 0]Coisa? The Phantom Thieves?[n]Do que você está falando?[n][w][e]
+[s][f 4 23 1 10 3 10 0 10][vp 8 2 1 0 10 0]Quê? The Phantom Thieves?[n]Do que você está falando?[n][w][e]
 
 [msg MSG_SUKAUTOMAN_009_2_0 [Vendedor ambulante suspeito]]
 [s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]Esses famosos e bonitos Phantom[n]Thieves estão recrutando![n]Graças a este curso...[n][w][e]
@@ -753,7 +753,7 @@
 [msg MSG_SUKAUTOMAN_015_0_0 [Vendedor ambulante suspeito]]
 [s][vp 8 2 1 0 8 0]Shinjuku é um caso perdido. A mudança[n]de governo tornará essa área[n]mais regulamentada.[n][w][e]
 [s][vp 8 2 1 0 8 0]Agora me diga onde posso ir[n]caçar. Estou disposto a[n]fazer qualquer coisa.[n][w][e]
-[s][vp 8 2 1 0 8 0]Coisa? Você não precisa de um golpista? Mas com[n]quem você acha que ele fala... EI![n][w][e]
+[s][vp 8 2 1 0 8 0]Quê? Você não precisa de um golpista? Mas com[n]quem você acha que ele fala... EI![n][w][e]
 [s][vp 8 2 1 0 8 0]... Tsk. Xingamento![n][w][e]
 
 [msg MSG_SUKAUTOMAN_016_0_0 [Vendedor ambulante suspeito]]

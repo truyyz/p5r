@@ -18,7 +18,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E-estou em pânico total[n]por causa de suas[n]estratégias imprevisíveis...[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Hifumi]]
-[s][bup 0 106 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 18039 65535 0][f 5 13 18 15 1006]S-Sério? Eu estava apenas seguindo[n]regras de casal...[n][f 1 3 65535][w][e]
+[s][bup 0 106 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 18039 65535 0][f 5 13 18 15 1006]S-Sério? Eu estava apenas seguindo[n]regras de par...[n][f 1 3 65535][w][e]
 [s][bup 0 106 7 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu queria dar o primeiro passo![n]E pensei em atacar e...[n]Hrah! Xeque-mate![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu estou em pânico... Eu gostaria[n]de poder usar minhas[n]formações defensivas na vida real...[n][f 1 3 65535][w][e]
 

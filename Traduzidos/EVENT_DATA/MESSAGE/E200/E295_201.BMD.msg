@@ -8,7 +8,7 @@
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Hrgh![n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Primeiro aquelas vozes estranhas, então[n]Shadow of Futaba desaparecendo...[n][f 1 3 65535][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Primeiro aquelas vozes estranhas, então[n]Sombra of Futaba desaparecendo...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]E ainda por cima, toda[n]aquela história de "eu[n]matei minha mãe".[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Que porra está acontecendo?[n][f 1 3 65535][w][e]
 

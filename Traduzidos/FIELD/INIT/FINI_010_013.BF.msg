@@ -128,7 +128,7 @@
 
 [msg MSG_Fish_Get_Ura_1ST [Atendente de lago de pesca]]
 [s][vp 8 2 1 58597 65535 0]...Louco![n][w][e]
-[s]Incrível...! Você tem[n]Shadow Kingpin![n][w][e]
+[s]Incrível...! Você tem[n]Sombra Kingpin![n][w][e]
 [s]É claro que você ama pescar.[n][w][e]
 [s]Já que esta é a primeira vez que você consegue,[n]eu vou te dar [clr 2][var 20][clr 27] pontos[n]extras![n][w][e]
 

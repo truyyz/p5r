@@ -392,7 +392,7 @@
 [s]Vamos despertar os corações do guardião do ex-aluno[n]em Mementos[n]para ajudar Kawakami.[n][w][e]
 
 [msg quest56_2]
-[s]Eu quero punir o casal guardião[n]que ameaça Kawakami. Eu tenho seus[n]nomes, encontre-me na reunião![n][w][e]
+[s]Eu quero punir o par guardião[n]que ameaça Kawakami. Eu tenho seus[n]nomes, encontre-me na reunião![n][w][e]
 
 [msg quest56_3]
 [s]Consegui despertar o[n]coração dos guardiões de Takase.[n][w][e]

@@ -101,7 +101,7 @@
 [s][vp 8 0 0 255 14 0]Eu me sinto como... renascido.[n]Este é meu novo poder![n][f 1 3 65535][w][e]
 
 [msg PFM_023_7_0]
-[s][vp 8 0 0 0 65535 0][clr 1]Milady[clr 27], Haru's Persona,[n]transformada em [clr 2]Astarte[clr 27]![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][clr 1]Milady[clr 27], Persona de Haru,[n]transformada em [clr 2]Astarte[clr 27]![n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [Haru]]
 [s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 41 65535 0]Quando eu abrir meu restaurante, você[n]pode ser meu primeiro cliente.[n][f 1 3 65535][w][e]

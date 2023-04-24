@@ -62,7 +62,7 @@
 [s][bup 0 108 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]...e então, não sou eu quem devo dar crédito.[n][w][e]
 
 [msg MES_GROUP6_03 [Ohya]]
-[s][bup 0 107 4 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 14 10 13 10][vp 8 2 1 16024 65535 0]Coisa? Agora fiquei ainda mais curiosa![n][w][e]
+[s][bup 0 107 4 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 14 10 13 10][vp 8 2 1 16024 65535 0]Quê? Agora fiquei ainda mais curiosa![n][w][e]
 
 [msg MES_GROUP7_01 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 54202 65535 0]Aqueles exames médicos pareciam perigosos.[n][w][e]
@@ -73,13 +73,13 @@
 
 [msg MES_GROUP7_03 [Takemi]]
 [s][bup 0 108 0 65535 0][f 4 23 1 65535 32 10 0 10][vp 8 2 1 0 65535 0]......[n][w][e]
-[s][bup 0 108 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 14028 65535 0]Os anos passam, mas os meninos[n]do ensino médio continuam idiotas, eu vejo.[n][w][e]
+[s][bup 0 108 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 14028 65535 0]Os anos passam, mas os meninos[n]do ensino médio continuam idiotas, entendo.[n][w][e]
 
 [msg MES_GROUP8_01 [Futaba]]
 [s][bup 0 8 3 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 41 10 0 10][vp 8 2 1 9127 65535 0]Sinto muito, senhorita... mas[n]o gato sofre de indigestão.[n]Ele exagerou no matatabi.[n][w][e]
 
 [msg MES_GROUP8_02 [Sumire]]
-[s][bup 0 10 4 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 30 10 0 10][vp 8 2 1 57065 65535 0]Coisa? Oh não...[n][w][e]
+[s][bup 0 10 4 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 30 10 0 10][vp 8 2 1 57065 65535 0]Quê? Oh não...[n][w][e]
 
 [msg MES_GROUP8_03 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 14 10 13 10]O que diabos é matatabi?[n][w][e]
@@ -103,7 +103,7 @@
 [s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 3 10 0 10]... Eu pago.[n][w][e]
 
 [msg MES_GROUP8_10 [Morgana]]
-[s][bup 0 3 10 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 14 10 13 10][vp 8 2 1 1040 65535 0]Coisa?[n][w][e]
+[s][bup 0 3 10 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 14 10 13 10][vp 8 2 1 1040 65535 0]Quê?[n][w][e]
 
 [msg MES_GROUP8_11 [Futaba]]
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 40 10 0 10]Eu estava esperando para ouvir essas palavras.[n][w][e]

@@ -1623,7 +1623,7 @@
 [s][bup 0 301 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37050 65535 0]Ei, você... Você está dormindo?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]...Não, está tudo bem. Deixe-o dormir.[n]Os alunos estão ocupados.[n]É normal que eles estejam cansados.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Estou com sono também. Ontem eu fingi[n]que era Featherman com meu sobrinho[n]e me empolguei...[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Coisa? Você não conhece Featherman?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Quê? Você não conhece Featherman?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]É uma série sentai que transmite[n]ideais de justiça. Mais cedo ou[n]tarde veremos isso na aula.[n][f 1 3 65535][w][e]
 
 [msg MSG_391_0_0 [Prof Ushimaru]]

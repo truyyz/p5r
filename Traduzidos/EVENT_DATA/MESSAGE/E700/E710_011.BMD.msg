@@ -61,7 +61,7 @@
 [s]Eu não ganho nada.[e]
 
 [msg MSG_015_0_0 [Chihaya]]
-[s][bup 0 113 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Coisa? Não![n][f 1 3 65535][w][e]
+[s][bup 0 113 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Quê? Não![n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Chihaya]]
 [s][bup 0 113 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]E-Este é um problema sério[n]para mim![n][f 1 3 65535][w][e]

@@ -572,7 +572,7 @@
 [s]Se você fizer isso, parece mais[n]um ladrão do que um[n]Phantom Thief, não acha?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_02_R_14]
-[s]Coisa? Mas... estávamos conversando.[n][w][e]
+[s]Quê? Mas... estávamos conversando.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_02_R_15]
 [s]Acho que você não gosta muito de[n]gênio que alguém[n]não pense como você.[n][w][e]
@@ -611,7 +611,7 @@
 [s]Bem, se você pensa assim, estou bem com isso.[n]Você não está ficando[n]defensivo, hein, querida?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_03_R_8]
-[s]Então, tudo bem se nos tornarmos um casal de fato?[n][w][e]
+[s]Então, tudo bem se nos tornarmos um par de fato?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_03_R_9]
 [s]Oh, não tema, querido,[n]eu não vou te forçar a fazer nada.[n][w][e]
@@ -2283,10 +2283,10 @@
 [s]Outro inimigo entrou na conversa.[n][w][e]
 
 [msg TalkMsg_cnt_interruptP]
-[s]Dopo aver parlato con un bersaglio,[n]i compagni possono intervenire per[n]accelerare le cose (% di chance).[n][w][e]
+[s]Depois de falar com um alvo,[n]companheiros de equipe podem intervir para[n]acelerar as coisas (% de chance).[n][w][e]
 
 [msg TalkMsg_cnt_refuse]
-[s]Il bersaglio si rifiuta di parlare.[n]→Ciò accade se il risultato della[n]conversazione è un rifiuto.[n][w][e]
+[s]O alvo se recusa a falar.[n]→Isso acontece se o resultado da [n]conversa for uma rejeição.[n][w][e]
 
 [msg TalkMsg_cnt_anger]
 [s]O alvo fica com raiva e revida.[n]Falha se o resultado[n]da conversa for uma rejeição.[n][w][e]

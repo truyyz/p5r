@@ -12,7 +12,7 @@
 [s][bup 0 5 2 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 41 10 0 10]Hum?[n][w][e]
 
 [msg MES_GROUP1_03 [Ann]]
-[s][bup 0 4 5 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 30 10 0 10][vp 8 2 1 6041 65535 0]Argh! Coisa? O que?!?[n][w][e]
+[s][bup 0 4 5 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 30 10 0 10][vp 8 2 1 6041 65535 0]Argh! Quê? O que?!?[n][w][e]
 
 [msg MES_GROUP1_04 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 4037 65535 0]Nada... Acabei de perceber que estou com fome.[n][w][e]

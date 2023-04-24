@@ -9,7 +9,7 @@
 [s][f 5 14]Gostaria que você me ajudasse a[n]procurá-lo.[n][f 5 15][w][e]
 
 [msg MSG_101_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Makoto quer sair com você, hein?[n]O que você acha?[n]Você quer ir para [clr 2]Book Town[clr 27]?[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Makoto quer sair com você, hein?[n]O que você acha?[n]Você quer ir para [clr 2]a Cidade dos Livros[clr 27]?[n][f 1 3 65535][w][e]
 
 [sel SEL_111_0_0 top]
 [s]Aceitar[e]
@@ -50,11 +50,11 @@
 [s][f 5 14]Eu vejo. Desculpe pelo convite repentino.[n][w][e]
 
 [msg MSG_400_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Futaba's Mommy[n]busca, hein?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Será que vamos encontrar[n]algo em Book Town.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Mamãe de Futaba[n]busca, hein?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Será que vamos encontrar[n]algo na Cidade dos Livros.[n][f 1 3 65535][w][e]
 
 [msg MSG_401_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Futaba's Mommy[n]busca, hein?[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Mamãe de Futaba[n]busca, hein?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Não devemos deixar Makoto esperando.[n]Vamos sair.[n][w][e]
 
 [msg MSG_402_0_0 [Morgana]]
@@ -103,7 +103,7 @@
 [s]Se você conhece alguém[n]que gosta de ramen,[n]tente convidá-lo aqui.[n][w][e]
 
 [msg MSG_SPOT_OPEN_ODAIBA]
-[s]Você descobriu um novo[n]ponto de encontro:[n][clr 2]Odaiba's Seaside Park[clr 27].[n][w][e]
+[s]Você descobriu um novo[n]ponto de encontro:[n][clr 2]Parque Beira-Mar Odaiaba[clr 27].[n][w][e]
 [s]Se você conhece alguém que[n]gosta de parques aquáticos,[n]tente convidá-lo aqui.[n][w][e]
 
 [msg MSG_SPOT_OPEN_UENO]
@@ -123,7 +123,7 @@
 [s]Se você conhece alguém que[n]pode gostar do lugar,[n]tente convidá-lo aqui.[n][w][e]
 
 [msg MSG_SPOT_OPEN_MAIHAMA]
-[s]Você descobriu um novo[n]local de encontro:[n][clr 2]Maihama's Destinyland[clr 27].[n][w][e]
+[s]Você descobriu um novo[n]local de encontro:[n][clr 2]Destinyland de Maihama[clr 27].[n][w][e]
 [s]Se você conhece alguém que[n]pode gostar do lugar,[n]tente convidá-lo aqui.[n][w][e]
 
 [msg MSG_SPOT_OPEN_ASAKUSA]
@@ -152,7 +152,7 @@
 [s]Se você conhece alguém que gosta de[n]comer sushi caro,[n]tente convidá-lo aqui.[n][w][e]
 
 [msg MSG_SPOT_OPEN_JINBOCHO]
-[s]Você descobriu um novo[n]local de encontro:[n][clr 2]Jinbocho's Book Town[clr 27].[n][w][e]
+[s]Você descobriu um novo[n]local de encontro:[n][clr 2]Cidade dos Livros Jinbocho[clr 27].[n][w][e]
 [s]Se você conhece alguém que[n]pode gostar do lugar,[n]tente convidá-lo aqui.[n][w][e]
 [s]Se você quiser, também pode[n]ir lá sozinho para fazer[n]algumas compras.[n][w][e]
 

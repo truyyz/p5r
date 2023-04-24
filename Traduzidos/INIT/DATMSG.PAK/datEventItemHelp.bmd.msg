@@ -353,10 +353,10 @@
 [s]O olho esquerdo que pertenceria à estátua de Kamoshida.[n][e]
 
 [msg Item_076]
-[s]Uma chave para abrir[n]a porta do cofre no[n]Kaneshiro's Palace. 1/2[n][e]
+[s]Uma chave para abrir[n]a porta do cofre no[n]Palácio de Kaneshiro. 1/2[n][e]
 
 [msg Item_077]
-[s]Uma chave para abrir[n]a porta do cofre no[n]Kaneshiro's Palace. 2/2[n][e]
+[s]Uma chave para abrir[n]a porta do cofre no[n]Palácio de Kaneshiro. 2/2[n][e]
 
 [msg Item_078]
 [s]Ele diz o seguinte:[n]R = C = 0, I = 1, H = 2[n][e]

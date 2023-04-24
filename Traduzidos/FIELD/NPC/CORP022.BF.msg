@@ -75,7 +75,7 @@
 
 [msg MSG_C22_ACTION_D09_41_00 [Sumire]]
 [s][bup 0 10 4 65535 0][f 4 10 65535 0 0][f 4 23 1 222 3 10 0 10][vp 8 2 1 57035 65535 0]Tem certeza? Faltam quase[n]para o prazo final.[n][w][e]
-[s][bup 0 10 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Nem encontramos o Treasure. Seria melhor fazê-lo[n]o mais rápido possível.[n][w][e]
+[s][bup 0 10 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Nem encontramos o Tesouro. Seria melhor fazê-lo[n]o mais rápido possível.[n][w][e]
 [s][bup 0 10 2 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu sei que você provavelmente fez[n]agendamento, mas pelo menos pense nisso.[n][w][e]
 
 [msg MSG_C02_BEGIN_D09_50_00 [Sumire]]
@@ -175,7 +175,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Então vamos tomar um chá![n]Que tal um restaurante em Shibuya?[n][w][e]
 
 [msg MSG_C22_OPEN_NPC_002_02 [Kasumi]]
-[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][f 4 23 1 222 3 10 0 10][vp 8 2 1 7028 65535 0]Oh, eu vejo.[n][w][e]
+[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][f 4 23 1 222 3 10 0 10][vp 8 2 1 7028 65535 0]Oh, entendo.[n][w][e]
 [s][bup 0 10 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Mas "agora não" significa que[n]mais tarde você terá tempo, certo?[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu estou esperando você! Avise-me,[n]por favor![n][w][e]
 
@@ -281,10 +281,10 @@
 [s][bup 0 10 2 65535 0][f 4 10 65535 0 0][vp 8 2 1 57095 65535 0]Se você tiver algum tempo para mim[n]faça isso, por favor![n][w][e]
 
 [msg MND_COOP_DOUZOKUSEI]
-[s]Sento di potermi avvicinare a[n][f 4 31 10 1] grazie alla[n]Persona [clr 1][var 5][clr 27] ([var 2])...[n][w][e]
+[s]Sinto que posso ser mais próximo de[n][f 4 31 10 1] graças a[n]Persona [clr 1][var 5][clr 27] ([var 2])...[n][w][e]
 
 [msg MND_COOP_DOUZOKUSEI_SMR]
-[s]Sento di potermi avvicinare a[n][f 4 31 10 1] grazie alla[n]Persona [clr 1][var 5][clr 27] ([var 2])...[n][w][e]
+[s]Sinto que posso ser mais próximo de[n][f 4 31 10 1] graças a[n]Persona [clr 1][var 5][clr 27] ([var 2])...[n][w][e]
 
 [msg MND_COOP_RANKUP_OK_FIRST]
 [s]Pode ser uma boa[n]oportunidade para fortalecer[n]minha ligação com Kasumi...[n][w][e]
@@ -530,7 +530,7 @@
 [s]Se você conhece alguém[n]que gosta de ramen,[n]tente convidá-lo aqui.[n][w][e]
 
 [msg MSG_SPOT_OPEN_ODAIBA]
-[s]Você descobriu um novo[n]ponto de encontro:[n][clr 2]Odaiba's Seaside Park[clr 27].[n][w][e]
+[s]Você descobriu um novo[n]ponto de encontro:[n][clr 2]Parque Beira-Mar Odaiaba[clr 27].[n][w][e]
 [s]Se você conhece alguém que[n]gosta de parques aquáticos,[n]tente convidá-lo aqui.[n][w][e]
 
 [msg MSG_SPOT_OPEN_UENO]
@@ -550,7 +550,7 @@
 [s]Se você conhece alguém[n]que pode gostar do lugar,[n]tente convidá-lo aqui.[n][w][e]
 
 [msg MSG_SPOT_OPEN_MAIHAMA]
-[s]Você descobriu um novo[n]local de encontro:[n][clr 2]Maihama's Destinyland[clr 27].[n][w][e]
+[s]Você descobriu um novo[n]local de encontro:[n][clr 2]Destinyland de Maihama[clr 27].[n][w][e]
 [s]Se você conhece alguém[n]que pode gostar do lugar,[n]tente convidá-lo aqui.[n][w][e]
 
 [msg MSG_SPOT_OPEN_ASAKUSA]
@@ -579,7 +579,7 @@
 [s]Se você conhece alguém que gosta de[n]comer sushi caro,[n]tente convidá-lo aqui.[n][w][e]
 
 [msg MSG_SPOT_OPEN_JINBOCHO]
-[s]Você descobriu um novo[n]local de encontro:[n][clr 2]Jinbocho's Book Town[clr 27].[n][w][e]
+[s]Você descobriu um novo[n]local de encontro:[n][clr 2]Cidade dos Livros Jinbocho[clr 27].[n][w][e]
 [s]Se você conhece alguém[n]que pode gostar do lugar,[n]tente convidá-lo aqui.[n][w][e]
 [s]Se você quiser, também pode[n]ir lá sozinho para fazer[n]algumas compras.[n][w][e]
 

@@ -38,7 +38,7 @@
 [s][vp 8 0 0 14 8 0]Eles cancelaram nosso pedido[n]no último minuto. Este é[n]o último restante![n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Ann]]
-[s][bup 0 4 4 4 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Coisa? Então...[n][f 1 3 65535][w][e]
+[s][bup 0 4 4 4 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Quê? Então...[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Ann]]
 [s][bup 0 4 0 4 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Sim! Nós queremos! Aqui está o dinheiro![n][f 1 3 65535][w][e]

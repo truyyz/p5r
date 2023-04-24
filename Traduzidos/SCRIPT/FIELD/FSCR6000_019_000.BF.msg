@@ -8,7 +8,7 @@
 [s][bup 0 5 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4035 65535 0]A julgar por aquele sorriso,[n]eu diria que ele está aprontando[n]algo terrível.[n][w][e]
 
 [msg QUEST_19_ENTER_mes03 [Ryuji]]
-[s][bup 0 2 11 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 0 65535 0]Ouvi dizer que ele ameaçou um casal de idosos,[n]tentando expulsá-los do cinema.[n][w][e]
+[s][bup 0 2 11 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 0 65535 0]Ouvi dizer que ele ameaçou um par de idosos,[n]tentando expulsá-los do cinema.[n][w][e]
 
 [msg QUEST_19_ENTER_mes04 [Makoto]]
 [s][bup 0 6 3 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 0 65535 0]Se deixarmos,[n]ele pode recorrer à violência.[n][w][e]

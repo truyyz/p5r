@@ -112,7 +112,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Você já conhece essa área, certo?[n]Ler agora parece[n]perda de tempo.[n][w][e]
 
 [msg MSG_SpotBookNG_id49 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]Oh, esse livro é sobre Jinbocho[n]Book Town, certo?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]Oh, esse livro é sobre Jinbocho[n]a Cidade dos Livros, certo?[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Você já conhece essa área, certo?[n]Ler agora parece[n]perda de tempo.[n][w][e]
 
 [msg MSG_SpotBookNG_id55 [Morgana]]

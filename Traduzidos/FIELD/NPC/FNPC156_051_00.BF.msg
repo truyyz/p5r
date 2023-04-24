@@ -63,7 +63,7 @@
 [s][bup 0 3 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 1035 65535 0]Vou ficar bem... Mas obrigado, Joker.[n][w][e]
 
 [msg SAFE_MES_mona1_2 [Morgana]]
-[s][bup 0 3 4 65535 0][f 4 10 65535 0 0][vp 8 2 1 1039 65535 0]Coisa? Não! Que tipo de monstro você é?[n]Vamos, vamos acabar com isso![n][w][e]
+[s][bup 0 3 4 65535 0][f 4 10 65535 0 0][vp 8 2 1 1039 65535 0]Quê? Não! Que tipo de monstro você é?[n]Vamos, vamos acabar com isso![n][w][e]
 
 [msg SAFE_MES_mona8 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 2 1 1192 65535 0]O cavalheiro aqui pode ser[n]de alguma forma relacionado ao raptus...[n]Precisamos ser mais cuidadosos do que nunca.[n][w][e]

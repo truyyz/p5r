@@ -119,7 +119,7 @@
 [s]Os detetives ainda estão conversando com ele.[n]Melhor voltar outra hora...[n][w][e]
 
 [msg MSG_SHOP_LOCK]
-[s](Non ho nuove informazioni[n]sul negozio di armi.)[n][w][e]
+[s](Não tenho novas informações[n]sobre a loja de armas.)[n][w][e]
 
 [msg MSG_SYSTEM_SHORTCUT_MILI]
 [s]Agora você pode viajar rapidamente[n][clr 6]para a loja de airsoft[clr 0] em Shibuya.[n][w][e]

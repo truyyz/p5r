@@ -2466,7 +2466,7 @@
 [s][bup 0 113 1 65535 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Afinal, eu sou Chihaya Mifune:[n]vidente e emissária do destino![n][f 1 3 65535][w][e]
 
 [msg MSG_621_0_0 [Chihaya]]
-[s][bup 0 113 4 65535 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Coisa? Você quer uma Pedra Sagrada?!?[n]Vamos, pare de brincar![n][f 1 3 65535][w][e]
+[s][bup 0 113 4 65535 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Quê? Você quer uma Pedra Sagrada?!?[n]Vamos, pare de brincar![n][f 1 3 65535][w][e]
 [s][bup 0 113 0 65535 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ainda temos muitos problemas, mas...[n]Vou trabalhar duro para resolver todos eles,[n]um por um.[n][f 1 3 65535][w][e]
 [s][bup 0 113 1 65535 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Afinal, eu sou Chihaya Mifune:[n]vidente e emissária do destino![n][f 1 3 65535][w][e]
 

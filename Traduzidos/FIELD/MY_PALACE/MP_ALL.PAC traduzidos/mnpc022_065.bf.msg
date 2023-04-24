@@ -3,7 +3,7 @@
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Se o fizer, ele se prende à sua alma e nunca[n]o solta! Essa é a essência da Gacha![n][w][e]
 
 [msg MES_GROUP0_02 [Makoto]]
-[s][bup 0 6 4 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 40 10 0 10][vp 8 2 1 2185 65535 0]Eu-eu vejo...[n][w][e]
+[s][bup 0 6 4 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 40 10 0 10][vp 8 2 1 2185 65535 0]En-entendo...[n][w][e]
 [s][bup 0 6 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Estou feliz que você seja tão apaixonado por[n]seus interesses.[n][w][e]
 
 [msg MES_GROUP1_01 [Haru]]

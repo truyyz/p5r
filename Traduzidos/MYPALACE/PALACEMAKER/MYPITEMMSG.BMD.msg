@@ -74,7 +74,7 @@
 [s]Réplica da máquina caça-níqueis gigante[n]do Palácio de Niijima.[n][e]
 
 [msg MSG_025]
-[s]Réplica do gigante daruma[n]exibido no Shido Palace.[n][e]
+[s]Réplica do gigante daruma[n]exibido no Palácio de Shido.[n][e]
 
 [msg MSG_026]
 [s]Réplica do Santo Graal encontrada no[n]abismo dos Mementos.[n][e]

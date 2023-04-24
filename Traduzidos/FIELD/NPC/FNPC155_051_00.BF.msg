@@ -26,7 +26,7 @@
 
 [msg SAFE_MES_mona2 [Morgana]]
 [s][bup 0 3 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 1044 65535 0]A Maldição da Estátua de Anúbis...[n][w][e]
-[s][bup 0 3 4 65535 0][f 4 10 65535 0 0]Coisa? Eu não tenho medo! É apenas[n]uma maldição inventada estúpida.[n]Não estou com medo nenhum![n][w][e]
+[s][bup 0 3 4 65535 0][f 4 10 65535 0 0]Quê? Eu não tenho medo! É apenas[n]uma maldição inventada estúpida.[n]Não estou com medo nenhum![n][w][e]
 
 [msg SAFE_MES_mona3 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 2 1 1156 65535 0]Ainda não sabemos se o Shade of Futaba[n]está realmente do nosso lado.[n]Todo mundo, tenha cuidado.[n][w][e]

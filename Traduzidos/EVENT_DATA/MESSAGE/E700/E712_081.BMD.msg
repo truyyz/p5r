@@ -36,7 +36,7 @@
 
 [msg MSG_009_0_0 [Iwai]]
 [s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 2 0 13019 65535 0]Eu meio que[n]demiti você, mas que tal[n]continuar a trabalhar comigo?[n][f 1 3 65535][w][e]
-[s][bup 0 104 3 0 0][f 4 10 65535 0 0][f 4 24 0 4 0 38 5 100][f 4 24 0 4 0 1 5 100][vp 8 0 0 0 65535 0]Eu sei que as crianças de hoje estão[n]ocupadas, então[n]eu entenderia uma recusa...[n][f 1 3 65535][w][e]
+[s][bup 0 104 3 0 0][f 4 10 65535 0 0][f 4 24 0 4 0 38 5 100][f 4 24 0 4 0 1 5 100][vp 8 0 0 0 65535 0]Eu sei que as crianças de hoje estão[n]ocupadas, então[n]eu entenderia uma rejeição...[n][f 1 3 65535][w][e]
 
 [sel SEL_010_0_0 top]
 [s]Estou de volta, cara.[e]

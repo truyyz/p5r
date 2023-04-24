@@ -254,7 +254,7 @@
 [s][vp 8 2 0 40000 15 0]Já conferiu o Phan-Site?[n]Okumura está no topo da lista.[n][f 1 3 65535][w][e]
 
 [msg MSG_065_0_0 [Funcionário surpreso]]
-[s][vp 8 0 0 0 65535 0]Coisa? O CEO do Big[n]Bang Burger? Por quê?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Quê? O CEO do Big[n]Bang Burger? Por quê?[n][f 1 3 65535][w][e]
 
 [msg MSG_066_0_0 [Funcionário tagarela]]
 [s][vp 8 0 0 0 65535 0]Aparentemente, a empresa[n]tem um péssimo comportamento[n]com os trabalhadores.[n][f 1 3 65535][w][e]

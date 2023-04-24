@@ -57,7 +57,7 @@
 [s]Com este terminal é[n]possível definir o preço de entrada.[n][w][e]
 
 [msg D03_MONEY_DOOR_BACK_FIRS_3 [Yusuke]]
-[s][bup 0 5 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4047 65535 0]Então ele até pega dinheiro de[n]seus funcionários...[n]e muito pesado, eu vejo.[n][w][e]
+[s][bup 0 5 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4047 65535 0]Então ele até pega dinheiro de[n]seus funcionários...[n]e muito pesado, entendo.[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]...Hmm. Parece que apenas Kaneshiro[n]tem autorização para[n]alterar os preços.[n][w][e]
 
 [msg D03_MONEY_DOOR_BACK_01_0 [Ryuji]]

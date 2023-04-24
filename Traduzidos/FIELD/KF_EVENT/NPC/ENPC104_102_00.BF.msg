@@ -23,7 +23,7 @@
 [s][f 4 23 1 850 3 10 0 0][vp 8 2 1 0 850 0]É em um beco aqui atrás.[n]Pegue a primeira à direita[n]depois daquele prédio com as escadas.[n][w][e]
 
 [msg MSG_E10410200_POLICE_002_2 [Funcionário antipático]]
-[s][vp 8 2 1 0 850 0]Sério? *suspirar*[n][w][e]
+[s][vp 8 2 1 0 850 0]Sério? *suspira*[n][w][e]
 
 [sel SEL_E10410200_POLICE_002 top]
 [s]Onde está o Leblanc?[e]
@@ -38,7 +38,7 @@
 [s][vp 8 2 1 0 850 0]Pode ser encontrado no beco depois da tabacaria.[n]Você o reconhecerá imediatamente.[n][w][e]
 
 [msg MSG_E10410200_POLICE_003_2 [Funcionário antipático]]
-[s][vp 8 2 1 0 850 0]Sério? *suspirar*[n][w][e]
+[s][vp 8 2 1 0 850 0]Sério? *suspira*[n][w][e]
 
 [msg MSG_E10410200_TAKUHAI_00 [Entregador]]
 [s][vp 8 2 1 0 854 0]Qual será o caminho mais rápido para[n]o [clr 2]Leblanc[clr 27]?[n]O beco é muito estreito...[n][w][e]

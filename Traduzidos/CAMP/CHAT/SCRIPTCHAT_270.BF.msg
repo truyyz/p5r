@@ -40,7 +40,7 @@
 
 [msg MSG_011_0_0 [Akechi]]
 [s][f 5 14]Deixa eu esclarecer...[n][w][e]
-[s][f 5 14]Primeiro, a chave deixada por Shadow[n]de Ushiwata era a de um cofre de banco.[n][w][e]
+[s][f 5 14]Primeiro, a chave deixada por Sombra[n]de Ushiwata era a de um cofre de banco.[n][w][e]
 
 [msg MSG_012_0_0 [Akechi]]
 [s][f 5 14]Dentro da referida caixa havia[n]evidências que comprovavam seu[n]crime de evasão fiscal.[n][w][e]

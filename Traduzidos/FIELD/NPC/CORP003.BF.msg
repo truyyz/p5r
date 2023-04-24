@@ -47,7 +47,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Aguardo sua ligação.[n]Avise-me quando estiver pronto.[n][w][e]
 
 [msg MSG_C03_ACTION_D05_51_00 [Haru]]
-[s][bup 0 7 200 65535 0][f 4 10 65535 0 0][f 4 23 1 203 3 10 0 10][vp 8 2 1 3111 65535 0]Agora só temos que roubar o Treasure, certo? Por[n]que não enviamos a carta de aviso[n]imediatamente?[n][w][e]
+[s][bup 0 7 200 65535 0][f 4 10 65535 0 0][f 4 23 1 203 3 10 0 10][vp 8 2 1 3111 65535 0]Agora só temos que roubar o Tesouro, certo? Por[n]que não enviamos a carta de aviso[n]imediatamente?[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]De qualquer forma, estou pronto.[n][w][e]
 
 [msg MSG_C03_BEGIN_D05_60_00 [Haru]]
@@ -141,7 +141,7 @@
 [s][bup 0 7 200 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Aguardando sua ligação.[n]Deixe-me ouvi-lo quando estiver pronto.[n][w][e]
 
 [msg MSG_C03_ACTION_D00_41_00 [Haru]]
-[s][bup 0 7 200 65535 0][f 4 10 65535 0 0][f 4 23 1 203 3 10 0 10][vp 8 2 1 3046 65535 0]Mmm, ele não vai nos ajudar a roubar Treasure.[n]Precisamos encontrar uma rota de infiltração.[n][w][e]
+[s][bup 0 7 200 65535 0][f 4 10 65535 0 0][f 4 23 1 203 3 10 0 10][vp 8 2 1 3046 65535 0]Mmm, ele não vai nos ajudar a roubar Tesouro.[n]Precisamos encontrar uma rota de infiltração.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Avise-me quando estiver pronto.[n][w][e]
 
 [msg MSG_C03_ACTION_D00_51_00 [Haru]]
@@ -601,7 +601,7 @@
 [s]Se você conhece alguém[n]que gosta de ramen,[n]tente convidá-lo aqui.[n][w][e]
 
 [msg MSG_SPOT_OPEN_ODAIBA]
-[s]Você descobriu um novo[n]ponto de encontro:[n][clr 2]Odaiba's Seaside Park[clr 27].[n][w][e]
+[s]Você descobriu um novo[n]ponto de encontro:[n][clr 2]Parque Beira-Mar Odaiaba[clr 27].[n][w][e]
 [s]Se você conhece alguém que[n]gosta de parques aquáticos,[n]tente convidá-lo aqui.[n][w][e]
 
 [msg MSG_SPOT_OPEN_UENO]
@@ -621,7 +621,7 @@
 [s]Se você conhece alguém[n]que pode gostar do lugar,[n]tente convidá-lo aqui.[n][w][e]
 
 [msg MSG_SPOT_OPEN_MAIHAMA]
-[s]Você descobriu um novo[n]local de encontro:[n][clr 2]Maihama's Destinyland[clr 27].[n][w][e]
+[s]Você descobriu um novo[n]local de encontro:[n][clr 2]Destinyland de Maihama[clr 27].[n][w][e]
 [s]Se você conhece alguém[n]que pode gostar do lugar,[n]tente convidá-lo aqui.[n][w][e]
 
 [msg MSG_SPOT_OPEN_ASAKUSA]
@@ -650,7 +650,7 @@
 [s]Se você conhece alguém que gosta de[n]comer sushi caro,[n]tente convidá-lo aqui.[n][w][e]
 
 [msg MSG_SPOT_OPEN_JINBOCHO]
-[s]Você descobriu um novo[n]local de encontro:[n][clr 2]Jinbocho's Book Town[clr 27].[n][w][e]
+[s]Você descobriu um novo[n]local de encontro:[n][clr 2]Cidade dos Livros Jinbocho[clr 27].[n][w][e]
 [s]Se você conhece alguém[n]que pode gostar do lugar,[n]tente convidá-lo aqui.[n][w][e]
 [s]Se você quiser, também pode[n]ir lá sozinho para fazer[n]algumas compras.[n][w][e]
 

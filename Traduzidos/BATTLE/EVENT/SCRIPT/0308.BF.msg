@@ -14,7 +14,7 @@
 [s][bup 0 7 104 65535 0][f 4 10 65535 0 0][vp 8 0 2 1005 0 7]Não! Tem mais?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_BTLSTART_040_007 [Futaba]]
-[s][bup 0 8 604 65535 0][f 4 10 65535 0 0][vp 8 0 2 1006 0 8]Coisa? Tem mais?!?[n][f 1 3 65535][w][e]
+[s][bup 0 8 604 65535 0][f 4 10 65535 0 0][vp 8 0 2 1006 0 8]Quê? Tem mais?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_BTLSTART_050_000 [Sombra de Okumura]]
 [s][vp 8 0 2 1007 1 221]Vamos, funcionários! Seja a fundação[n]sobre a qual construir minha vitória...![n][f 1 3 65535][w][e]

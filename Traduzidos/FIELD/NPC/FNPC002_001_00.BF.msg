@@ -118,7 +118,7 @@
 
 [msg MSG_IJIMEKKO_006_4_0 [Yoshimori Sakoda]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Ei, Takanashi-kun! Vamos comer alguma coisa.[n][w][e]
-[s][vp 8 2 1 0 1 0]Coisa? Você quer pagar?[n]Bem, se você realmente insiste! Obrigado![n][w][e]
+[s][vp 8 2 1 0 1 0]Quê? Você quer pagar?[n]Bem, se você realmente insiste! Obrigado![n][w][e]
 
 [msg MSG_IJIMEKKO_006_5_0 [Daisuke Takanashi]]
 [s][f 4 23 1 0 3 10 0 10]Xingamento...[n][w][e]
@@ -177,7 +177,7 @@
 [s][vp 9 2 65535 42562 0 0]Eles dizem que ele fez[n]a raiva de Kamoshida[n]e que ele será expulso...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_003_03_ [Mulher com um quarto]]
-[s][vp 9 2 65535 42612 0 0]Coisa? Ele será expulso?[n]Que diabos ele fez?[n][f 1 2 180][e]
+[s][vp 9 2 65535 42612 0 0]Quê? Ele será expulso?[n]Que diabos ele fez?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_003_04_ [Mulher com um quarto]]
 [s][vp 9 2 65535 42912 0 0]Parece que ele e Sakamoto[n]serão expulsos...[n][f 1 2 180][e]

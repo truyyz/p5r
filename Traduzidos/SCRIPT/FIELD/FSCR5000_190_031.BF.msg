@@ -18,7 +18,7 @@
 [s][bup 0 4 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6029 65535 0]Ei, essa coisa NÃO era minha![n][w][e]
 
 [msg AT_D_BF_D03_010_mes07 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Foi apenas uma cognição criada pela mente de[n]Kamoshida. Ele não era o verdadeiro Shadow of[n]Panther.[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Foi apenas uma cognição criada pela mente de[n]Kamoshida. Ela não era a verdadeira Sombra da[n]Panther.[n][w][e]
 
 [msg AT_D_BF_D03_010_mes08 [Yusuke]]
 [s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4087 65535 0]Então, para usar uma Persona você precisa[n]aceitar sua Sombra...[n][w][e]

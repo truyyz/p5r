@@ -9,7 +9,7 @@
 [s][bup 0 2 4 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Doutor! Atualize-nos! Essas coisas realmente[n]acontecem?!?[n][w][e]
 
 [msg MES_GROUP1_04 [Maruki]]
-[s][bup 0 216 3 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 57440 65535 0]Coisa? Hum,[n]não há muito a dizer...[n][w][e]
+[s][bup 0 216 3 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 57440 65535 0]Quê? Hum,[n]não há muito a dizer...[n][w][e]
 
 [msg MES_GROUP1_05 [Ryuji]]
 [s][bup 0 2 4 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 41 10 0 10][vp 8 2 1 7189 65535 0]Então não negue! Acontece[n]frequentemente, não é?!?[n][w][e]

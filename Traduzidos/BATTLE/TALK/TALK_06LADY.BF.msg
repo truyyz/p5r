@@ -428,7 +428,7 @@
 [s]Então você faria isso com alguém?[n]Você está louco?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_08_R_4]
-[s]Você é uma pessoa de ação, eu vejo...[n][w][e]
+[s]Você é uma pessoa de ação, entendo...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_08_R_5]
 [s]Acho que significa que há[n]algo em mim que atrai você.[n]Vou considerar isso um elogio.[n][w][e]
@@ -1358,7 +1358,7 @@
 [s]Quando se trata de coisas tão[n]importantes, prefiro ter[n]evidências concretas...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_16_R_10]
-[s]Coisa? Ah, não importa[n][w][e]
+[s]Quê? Ah, não importa[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_16_R_11]
 [s]Bem, não posso descartar[n]que em algum momento[n]isso pode acontecer, mas...[n][w][e]
@@ -1404,10 +1404,10 @@
 [s]Não, meu círculo[n]nunca toleraria tal ação de minha parte.[n]Portanto, pergunto-lhe o seguinte: [f 2 5 3 9999 3].[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_FIFTYFI_3]
-[s]Coisa? Não, não é isso![n]Dê-me pelo menos um pouco de força vital,[n]antes de eu tentar.[n][w][e]
+[s]Quê? Não, não é isso![n]Dê-me pelo menos um pouco de força vital,[n]antes de eu tentar.[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_FIFTYFI_4]
-[s]Coisa? Não, não é isso![n]Me dê pelo menos alguma força mental,[n]antes de eu tentar.[n][w][e]
+[s]Quê? Não, não é isso![n]Me dê pelo menos alguma força mental,[n]antes de eu tentar.[n][w][e]
 
 [sel TalkSel_GUY_NEGO_FIFTYFI top]
 [s]Tudo bem, tudo seu.[e]
@@ -1494,7 +1494,7 @@
 [s]Pernas no ombro![n]Salve-se quem puder![n][w][e]
 
 [msg TalkMsg_GUY_RESULT_ENEMY_6]
-[s]...Huh? Um humano? Sério?[n]Hein? Fuzis? Armas? Coisa? Como?[n]Estou cercado?[n][w][e]
+[s]...Huh? Um humano? Sério?[n]Hein? Fuzis? Armas? Quê? Como?[n]Estou cercado?[n][w][e]
 
 [msg TalkMsg_GUY_RESULT_ENEMY_7]
 [s]N-Não... Por favor, pare![n]E-Estou saindo...[n][w][e]
@@ -2276,10 +2276,10 @@
 [s]Outro inimigo entrou na conversa.[n][w][e]
 
 [msg TalkMsg_cnt_interruptP]
-[s]Dopo aver parlato con un bersaglio,[n]i compagni possono intervenire per[n]accelerare le cose (% di chance).[n][w][e]
+[s]Depois de falar com um alvo,[n]companheiros de equipe podem intervir para[n]acelerar as coisas (% de chance).[n][w][e]
 
 [msg TalkMsg_cnt_refuse]
-[s]Il bersaglio si rifiuta di parlare.[n]→Ciò accade se il risultato della[n]conversazione è un rifiuto.[n][w][e]
+[s]O alvo se recusa a falar.[n]→Isso acontece se o resultado da [n]conversa for uma rejeição.[n][w][e]
 
 [msg TalkMsg_cnt_anger]
 [s]O alvo fica com raiva e revida.[n]Falha se o resultado[n]da conversa for uma rejeição.[n][w][e]

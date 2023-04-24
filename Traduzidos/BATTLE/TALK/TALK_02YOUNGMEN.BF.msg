@@ -458,7 +458,7 @@
 [s]Voce estava com saudades de mim? Eu sinto que sua[n]vontade vacila. Será porque eu acertei o ponto?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_08_R_14]
-[s]Coisa? Errou o alvo, hein?[n]Você é um cliente difícil...[n][w][e]
+[s]Quê? Errou o alvo, hein?[n]Você é um cliente difícil...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_08_R_15]
 [s]R-responda minha pergunta![n]Você pode manter uma conversa?[n][w][e]
@@ -2280,7 +2280,7 @@
 [s]Depois de falar com um alvo,[n]companheiros de equipe podem intervir para[n]acelerar as coisas (% de chance).[n][w][e]
 
 [msg TalkMsg_cnt_refuse]
-[s]Il bersaglio si rifiuta di parlare.[n]→Ciò accade se il risultato della[n]conversazione è un rifiuto.[n][w][e]
+[s]O alvo se recusa a falar.[n]→Isto acontece se o resultado da [n]conversa for uma rejeição.[n][w][e]
 
 [msg TalkMsg_cnt_anger]
 [s]O alvo fica com raiva e revida.[n]Falha se o resultado[n]da conversa for uma rejeição.[n][w][e]
@@ -2308,17 +2308,17 @@
 [s][var 0].[n][w][e]
 
 [msg DebugMsg_ENEMY_LV]
-[s]ID do inimigo [var 3][n]Nível do inimigo [var 0][n]Nível do protagonista [var 1][n]AI_CHK_ENIDLV_O([var 0], 1) = [var 2][n][w][e]
+[s]ID do inimigo [var 3][n]Nível do Inimigo [var 0][n]Nível do Protagonista [var 1][n]AI_CHK_ENIDLV_O([var 0], 1) = [var 2][n][w][e]
 
 [msg TalkMsg_GUY_RESULT_GET_P_4 [Ann]]
-[s]Bom. Então viverei dentro de você[n]e compartilharemos essa experiência.[n][w][e]
+[s]Bom. Então vou compartilhar essa experiência[n]comigo e contigo.[n][w][e]
 
 [msg TalkMsg_Coop_AkechiB_00 [Ann]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 9 3 301 1]Acho que a sua não é uma decisão sábia. Talvez[n]você devesse pensar melhor sobre isso.[n][w][e]
 
 [msg TalkMsg_Coop_Kasumi_00 [Ann]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 11 3 301 1]pare! Seria sensato da sua parte não cometer[n]erros.[n][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 11 3 301 1]Pare! Seria sensato da sua parte não cometer[n]erros.[n][w][e]
 
 [msg TalkMsg_Coop_Sumire_00 [Ann]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 11 3 301 1]pare! Seria sensato da sua parte não cometer[n]erros.[n][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 11 3 301 1]Pare! Seria sensato da sua parte não cometer[n]erros.[n][w][e]
 

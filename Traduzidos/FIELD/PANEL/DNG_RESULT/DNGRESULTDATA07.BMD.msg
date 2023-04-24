@@ -56,7 +56,7 @@
 [s]Sala segura encontrada[n][w][e]
 
 [msg D07_RESULT_TXT20]
-[s]Presidente da Shadow TV derrotado[n][w][e]
+[s]Presidente da Sombra TV derrotado[n][w][e]
 
 [msg D07_RESULT_TXT21]
 [s]Terceira carta obtida[n][w][e]
@@ -83,7 +83,7 @@
 [s]Terceira Semente da Ganância roubada[n][w][e]
 
 [msg D07_RESULT_TXT29]
-[s]Presidente de Shadow IT derrotado[n][w][e]
+[s]Presidente de Sombra IT derrotado[n][w][e]
 
 [msg D07_RESULT_TXT30]
 [s]Quarta carta obtida[n][w][e]

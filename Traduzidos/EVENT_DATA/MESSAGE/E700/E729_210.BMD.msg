@@ -112,7 +112,7 @@
 [s][vp 8 0 0 0 65535 0]Ei, você viu a pintura que parece[n]um novelo de rabiscos?[n]Dizem que vale 500 milhões de ienes![n][f 1 3 65535][w][e]
 
 [msg MSG_034_0_0 [Mãe intelectual]]
-[s][vp 8 0 0 0 65535 0]Coisa? Até meu bebê[n]poderia fazer algo assim.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Quê? Até meu bebê[n]poderia fazer algo assim.[n][f 1 3 65535][w][e]
 
 [msg MSG_035_0_0 [Caroline]]
 [s][bup 0 102 4 0 0][f 4 10 65535 0 0][vp 8 2 0 11096 65535 0]500 milhões... Realmente não faz[n]sentido.[n][f 1 3 65535][w][e]

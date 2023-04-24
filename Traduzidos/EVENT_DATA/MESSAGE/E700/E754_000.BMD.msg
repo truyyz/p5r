@@ -63,7 +63,7 @@
 [s]Eu tenho um lugar em mente.[e]
 
 [msg MSG_016_0_0 [Makoto]]
-[s][bup 0 6 4 4 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Coisa? Sério?!?[n][f 1 3 65535][w][e]
+[s][bup 0 6 4 4 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Quê? Sério?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Makoto]]
 [s][bup 0 6 0 4 0][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Bem, você está aumentando minha esperança! Acho[n]melhor irmos.[n][f 1 3 65535][w][e]

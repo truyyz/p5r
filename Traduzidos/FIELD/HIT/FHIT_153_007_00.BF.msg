@@ -32,7 +32,7 @@
 [s]É realmente errado para um especialista[n]como eu fazer bom uso dessa[n]juventude antes que ela desapareça?[n][w][e]
 
 [msg D153_007_miniEV_03_mes02 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Coisa? Ele está basicamente[n]dizendo que tem inveja[n]de jovens talentosos...[n][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Quê? Ele está basicamente[n]dizendo que tem inveja[n]de jovens talentosos...[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Olhe para mim! Eu fui transformado em um gato,[n]mas ainda luto. A idade não é uma boa desculpa.[n][w][e]
 
 [msg D153_007_miniEV_04_mes01 [Voz do Madarame]]

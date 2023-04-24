@@ -7,7 +7,7 @@
 [s]Eles já estão todos lá![n]Vamos nos apressar![n][w][e]
 
 [msg MSG_CLASS_GIRLS_TALK_002 [Aluno indiferente]]
-[s][f 4 22 1 26 103]Coisa? Nós ainda temos tempo. Ainda não será a[n]nossa vez por um tempo.[n][w][e]
+[s][f 4 22 1 26 103]Quê? Nós ainda temos tempo. Ainda não será a[n]nossa vez por um tempo.[n][w][e]
 [s]Além disso, o torneio interessa apenas ao time de[n]vôlei de Kamoshida e aos torcedores.[n][w][e]
 
 [msg MSG_CLASS_GIRLS_TALK_003 [Estudante entusiasta]]

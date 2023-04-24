@@ -171,7 +171,7 @@
 
 [msg DNG_ADVANCE_Re_60_01_PC1 [[f 4 31 10 0]]]
 [s][bup 0 10 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Se este for realmente o caso, daqui em diante as coisas só podem ficar[n]mais complicadas.[n][w][e]
-[s]O Treasure não deve demorar muito, então é melhor[n]continuar assim que tivermos descansado.[n][w][e]
+[s]O Tesouro não deve demorar muito, então é melhor[n]continuar assim que tivermos descansado.[n][w][e]
 
 [msg DNG_ADVANCE_70_01_PC03_m [Morgana]]
 [s][bup 0 3 1 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1045 65535 0]Começo a sentir a presença[n]do Tesouro muito distintamente...[n]Estamos quase lá.[n][w][e]
@@ -232,7 +232,7 @@
 [s]Os inimigos sempre serão mais fortes também. Não[n]vamos nos apressar, Joker.[n][w][e]
 
 [msg DNG_ADVANCE_Re_80_01_PC0_6 [Haru]]
-[s][bup 0 7 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 3048 65535 0]Incrível. Se os cálculos de[n]Mona-chan estiverem corretos, o[n]Treasure está realmente próximo.[n][w][e]
+[s][bup 0 7 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 3048 65535 0]Incrível. Se os cálculos de[n]Mona-chan estiverem corretos, o[n]Tesouro está realmente próximo.[n][w][e]
 [s]O próximo pode ser[n]o momento certo, então vamos[n]ser cuidadosos. Eu não posso esperar![n][w][e]
 
 [msg DNG_ADVANCE_Re_80_01_PC0_7 [Akechi]]
@@ -240,7 +240,7 @@
 [s]As chances são de que a próxima vez será boa.[n]Ansioso pelo seu próximo retorno, Joker.[n][w][e]
 
 [msg DNG_ADVANCE_Re_80_01_PC1 [[f 4 31 10 0]]]
-[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Os inimigos estão ficando cada vez mais fortes. Mona ci[n]estava certa.[n][w][e]
+[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Os inimigos estão ficando cada vez mais fortes. Mona[n]estava certo.[n][w][e]
 [s]É vital que nos retiremos agora e nos preparemos[n]adequadamente. Aguardarei sua ligação,[n]Joker-senpai.[n][w][e]
 
 [msg DNG_ADVANCE_90_01_PC03_m [Morgana]]
@@ -272,7 +272,7 @@
 [s]Tentamos nos preparar adequadamente,[n]para que possamos concluir o trabalho[n]com a próxima remessa.[n][w][e]
 
 [msg DNG_ADVANCE_100_01_PC03_ [Morgana]]
-[s][bup 0 3 1 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1181 65535 0]O caminho para o Treasure está finalmente livre![n]Agora é só enviar a carta de contestação.[n][w][e]
+[s][bup 0 3 1 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1181 65535 0]O caminho para o Tesouro está finalmente livre![n]Agora é só enviar a carta de contestação.[n][w][e]
 
 [msg DNG_ADVANCE_Re_100_01_PC [Ryuji]]
 [s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7023 65535 0]Ok, eu estava ansioso por isso![n]A propósito, quando enviamos?[n][w][e]

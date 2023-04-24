@@ -35,7 +35,7 @@
 [s][bup 0 9 100 65535 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Mas olhando para o que está na minha frente,[n]é difícil acreditar que não[n]é um cassino de verdade.[n][f 1 3 65535][w][e]
 
 [msg MSG_011_5_0 [Yusuke]]
-[s][bup 0 5 100 65535 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]No entanto, nem todas as cognições são[n]normais. No Futaba Palace e[n]Okumura nós lutamos contra eles.[n][f 1 3 65535][w][e]
+[s][bup 0 5 100 65535 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]No entanto, nem todas as cognições são[n]normais. No Palácio de Futaba e[n]Okumura nós lutamos contra eles.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Eles podem parecer normais, mas[n]precisamos ter cuidado com aqueles[n]que ocupam cargos de poder.[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Akechi]]

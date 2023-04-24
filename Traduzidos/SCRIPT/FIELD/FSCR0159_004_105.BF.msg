@@ -1,5 +1,5 @@
 [msg D159_04_Block_mes01 [Morgana]]
-[s][bup 0 3 3 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1190 65535 0]Onde você está indo? Eu aviso o[n]Treasure dessa forma![n][w][e]
+[s][bup 0 3 3 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1190 65535 0]Onde você está indo? Eu aviso o[n]Tesouro dessa forma![n][w][e]
 
 [msg D159_04_L_01_mes01 [Morgana]]
 [s][bup 0 3 4 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1190 65535 0]Onde você está indo? Os outros ainda estão[n]coletando informações.[n][w][e]

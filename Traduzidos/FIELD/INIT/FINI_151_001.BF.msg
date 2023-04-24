@@ -352,7 +352,7 @@
 [s][vp 1 0 0 2145 0 0][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Tudo bem, vamos entrar nisso![n][w][e]
 
 [msg SAFE_EXIT_LOW_02_PC03_me [Morgana]]
-[s][vp 1 0 0 3145 0 0][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Poder! O tesouro nos espera![n][w][e]
+[s][vp 1 0 0 3145 0 0][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos lá! O tesouro nos espera![n][w][e]
 
 [msg SAFE_EXIT_LOW_02_PC04_me [Ann]]
 [s][vp 1 0 0 4145 0 0][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ok, vamos continuar explorando.[n][w][e]
@@ -547,7 +547,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]O Tesouro é um pouco longe[n]daqui... Tem certeza que esse é o[n]melhor ponto de partida, Joker?[n][w][e]
 
 [msg SAFE_ACTIVE_IN_DISTANT_P [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Hã? Estamos longe de[n]Treasure... Você se lembra porque[n]estamos aqui hoje, não é?[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Hã? Estamos longe do[n]Tesouro... Você se lembra porque[n]estamos aqui hoje, não é?[n][w][e]
 
 [msg SAFE_ACTIVE_MES_PC03_mes [Morgana]]
 [s][bup 0 3 1 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1181 65535 0]Aparentemente, este quarto é seguro.[n][w][e]
@@ -601,25 +601,25 @@
 [s]Não saia ainda[e]
 
 [msg D01_EXIT_MES [Navegador do Metaverso]]
-[s]Retorne ao mundo real do[n]Kamoshida Palace. Obrigado[n]pelo trabalho realizado.[n][w][e]
+[s]Retorne ao mundo real do[n]Palácio de Kamoshida. Obrigado[n]pelo trabalho realizado.[n][w][e]
 
 [msg D02_EXIT_MES [Navegador do Metaverso]]
 [s]Retorne ao mundo real do Palácio de[n]Madarame. Obrigado[n]pelo trabalho realizado.[n][w][e]
 
 [msg D03_EXIT_MES [Navegador do Metaverso]]
-[s]Retorne ao mundo real do[n]Kaneshiro Palace. Obrigado[n]pelo trabalho realizado.[n][w][e]
+[s]Retorne ao mundo real do[n]Palácio de Kaneshiro. Obrigado[n]pelo trabalho realizado.[n][w][e]
 
 [msg D04_EXIT_MES [Navegador do Metaverso]]
-[s]Retorne ao mundo real do[n]Futaba Palace. Obrigado[n]pelo trabalho realizado.[n][w][e]
+[s]Retorne ao mundo real do[n]Palácio de Futaba. Obrigado[n]pelo trabalho realizado.[n][w][e]
 
 [msg D05_EXIT_MES [Navegador do Metaverso]]
-[s]Retorne ao mundo real do[n]Okumura Palace. Obrigado[n]pelo trabalho realizado.[n][w][e]
+[s]Retorne ao mundo real do[n]Palácio de Okumura. Obrigado[n]pelo trabalho realizado.[n][w][e]
 
 [msg D06_EXIT_MES [Navegador do Metaverso]]
-[s]Retorne ao mundo real do[n]Niijima Palace. Obrigado[n]pelo trabalho realizado.[n][w][e]
+[s]Retorne ao mundo real do[n]Palácio de Niijima. Obrigado[n]pelo trabalho realizado.[n][w][e]
 
 [msg D07_EXIT_MES [Navegador do Metaverso]]
-[s]Retorne ao mundo real do[n]Shido Palace. Obrigado[n]pelo trabalho realizado.[n][w][e]
+[s]Retorne ao mundo real do[n]Palácio de Shido. Obrigado[n]pelo trabalho realizado.[n][w][e]
 
 [msg D08_EXIT_MES [Navegador do Metaverso]]
 [s]De volta ao mundo real[n]dai Mementos. Obrigado[n]pelo trabalho realizado.[n][w][e]
@@ -798,7 +798,7 @@
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Todo esse trabalho duro vai virar fumaça se não[n]roubarmos o Tesouro hoje![n][w][e]
 
 [msg D_EXIT_NG_ACTIVE_01_PC03 [Morgana]]
-[s][bup 0 3 4 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1040 65535 0]Coisa? Mas quando eu falo, você me ouve ou não?[n][w][e]
+[s][bup 0 3 4 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1040 65535 0]Quê? Mas quando eu falo, você me ouve ou não?[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Se não pegarmos o Tesouro hoje,[n]tudo o que fizemos[n]até agora terá sido em vão![n][w][e]
 
 [msg D_EXIT_NG_ACTIVE_01_PC04 [Ann]]

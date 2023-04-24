@@ -95,7 +95,7 @@
 [s][vp 8 2 0 6117 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 59 3 100]A comida tradicional de Tanabata[n]deveria ser macarrão somen![n][f 1 3 65535][w][e]
 
 [msg THINK_2B_0707_05 [Ann]]
-[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 38 3 100]Coisa? Mas nem é japonês![n]Eu realmente não sei a resposta...[n][f 1 3 65535][w][e]
+[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 38 3 100]Quê? Mas nem é japonês![n]Eu realmente não sei a resposta...[n][f 1 3 65535][w][e]
 
 [msg THINK_2C_0707_05 [Ann]]
 [s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 38 3 100]Eu não sei. Não entendo[n]o que a Via Láctea tem a ver com isso...[n][f 1 3 65535][w][e]
@@ -114,7 +114,7 @@
 [s]Quão numerosos eles são.[e]
 
 [msg THINK_1A_0111_03 [Ann]]
-[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 38 3 100]Coisa? Não, eu realmente não acho que é por isso[n]que dedicamos todos esses festivais a ele...[n][f 1 3 65535][w][e]
+[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 38 3 100]Quê? Não, eu realmente não acho que é por isso[n]que dedicamos todos esses festivais a ele...[n][f 1 3 65535][w][e]
 
 [msg THINK_1B_0111_03 [Ann]]
 [s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 4 0 42 3 100]Não, acho que não é esse o ponto.[n][f 1 3 65535][w][e]

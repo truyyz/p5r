@@ -209,7 +209,7 @@
 [s]Oooh, você não sabe como fazer isso, não é?[n]Não importa, não há necessidade[n]você de dizer...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_04_R_7]
-[s]Coisa? Tire essa máscara e venha aqui[n]imediatamente! Vou te dar um beijo que vai te[n]dar pesadelos![n][w][e]
+[s]Quê? Tire essa máscara e venha aqui[n]imediatamente! Vou te dar um beijo que vai te[n]dar pesadelos![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_04_R_8]
 [s]Oooh, olhe para você... tímido![n]Acho que você está todo vermelho,[n]sob essa máscara![n][w][e]
@@ -1507,7 +1507,7 @@
 [s]Hum, isso foi rude da minha parte,[n]desculpe. Ok, eu estou ouvindo você.[n][w][e]
 
 [msg TalkMsg_RESULT_GET_SECRE]
-[s]Coisa? Você já sabia? Uau, parece que[n]você tem suas fontes![n]Ok, vou te dar isso então.[n][w][e]
+[s]Quê? Você já sabia? Uau, parece que[n]você tem suas fontes![n]Ok, vou te dar isso então.[n][w][e]
 
 [msg TalkMsg_SURRENDER_FROM_C]
 [s]É incrível, encontrei[n]alguém que não posso vencer.[n][w][e]
@@ -1920,7 +1920,7 @@
 [s]Vamos, atire![n]Não temos nada a dizer![n][w][e]
 
 [msg TalkMsg_RESULT_ENEMY_REF_2]
-[s]Coisa? Eu não vou deixar você[n]me manipular![n][w][e]
+[s]Quê? Eu não vou deixar você[n]me manipular![n][w][e]
 
 [msg TalkMsg_RESULT_ENEMY_REF_3]
 [s]Hã? Você é burro ou o quê?[n]Não consigo falar com você.[n][w][e]
@@ -2281,10 +2281,10 @@
 [s]Outro inimigo entrou na conversa.[n][w][e]
 
 [msg TalkMsg_cnt_interruptP]
-[s]Dopo aver parlato con un bersaglio,[n]i compagni possono intervenire per[n]accelerare le cose (% di chance).[n][w][e]
+[s]Depois de falar com um alvo,[n]companheiros de equipe podem intervir para[n]acelerar as coisas (% de chance).[n][w][e]
 
 [msg TalkMsg_cnt_refuse]
-[s]Il bersaglio si rifiuta di parlare.[n]→Ciò accade se il risultato della[n]conversazione è un rifiuto.[n][w][e]
+[s]O alvo se recusa a falar.[n]→Isso acontece se o resultado da [n]conversa for uma rejeição.[n][w][e]
 
 [msg TalkMsg_cnt_anger]
 [s]O alvo fica com raiva e revida.[n]Falha se o resultado[n]da conversa for uma rejeição.[n][w][e]

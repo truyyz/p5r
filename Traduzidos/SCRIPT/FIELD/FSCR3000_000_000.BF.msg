@@ -224,7 +224,7 @@
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 2 1 1174 65535 0]Eu quero ajudar Haru.[n]Você pode me dar uma mão?[n][w][e]
 
 [msg MSG_BED_MORGANA_NIGHT_09_5 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 1172 65535 0]Amanhã começaremos a procurar Okumura's Treasure.[n]Conto com você... Pelo amor de Haru![n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 1172 65535 0]Amanhã começaremos a procurar o Tesouro de Okumura .[n]Conto com você... Pelo amor de Haru![n][w][e]
 
 [msg MSG_BED_MORGANA_NIGHT_10 [Morgana]]
 [s][bup 0 3 5 65535 0][f 4 10 65535 0 0][vp 8 2 1 1178 65535 0]Mas o que diabos está acontecendo...?[n][w][e]

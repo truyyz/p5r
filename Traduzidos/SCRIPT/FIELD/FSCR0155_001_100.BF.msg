@@ -19,7 +19,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Chega de choramingar. Não quero me tornar um gato[n]assado por aí.[n][w][e]
 
 [msg D04_01_e293_012_mes01 [Makoto]]
-[s][bup 0 6 3 1 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2157 65535 0]Futaba Palace... Então[n]isso é o que você pensa daquela casa.[n][w][e]
+[s][bup 0 6 3 1 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2157 65535 0]Palácio de Futaba... Então[n]isso é o que você pensa daquela casa.[n][w][e]
 
 [msg D04_01_e293_012_mes02 [Yusuke]]
 [s][bup 0 5 0 1 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4023 65535 0]Não sabemos o que nos espera[n]lá dentro... O que você quer fazer,[n]Joker? Vamos entrar?[n][w][e]

@@ -44,7 +44,7 @@
 [s]Um dos 72 demônios[n]de Goetia, ele também é[n]conhecido como Presidente[n]do Inferno.[n]Ele pode mudar de forma[n]de leopardo para humano[n]e revelar a verdade[n]que esconde-se atrás dos[n]mistérios divinos.[n][e]
 
 [msg myth_015]
-[s]Dio nordico del tuono[n]e figlio di Odino,[n]Thor porta la cintura[n]Megingjörð, che ne[n]raddoppia le forze, e[n]brandisce Mjöllnir, un[n]martello che controlla[n]i fulmini e che torna[n]al suo proprietario[n]quando viene lanciato.[n][e]
+[s]Deus nórdico do trovão[n]e filho de Odin,[n]Thor carrega o cinto[n]Megingjörð, que[n]dobra sua força, e[n]empunha Mjöllnir, um[n]martelo que controla[n] relâmpagos e que retorna[n]ao seu dono[n]quando lançado.[n][e]
 
 [msg myth_016]
 [s]Um lendário[n]cavalo branco com um único[n]chifre enrolado. Apenas[n]uma virgem pura pode[n]domá-lo e parece que[n]seu chifre tem[n]milagrosas[n]propriedades curativas.[n][e]
@@ -212,7 +212,7 @@
 [s]Um criptídeo avistado[n]na Virgínia Ocidental[n]entre as décadas de 1960 e 1980.[n]Ele tem olhos vermelhos brilhantes[n]e recebeu o nome dos[n]apêndices semelhantes a barbatanas[n]que tem em seus lados.[n]Com seu fino olfato[n]ele cheira o sangue das vítimas[n]de que se alimenta.[n][e]
 
 [msg myth_071]
-[s]Taira no Masakado,[n]eroe del periodo[n]Heian. Reclamò[n]il titolo di "Shinno"[n](Nuovo imperatore) e[n]si ribellò al governo[n]costituito. Fu[n]ucciso, ma si dice[n]che divenne[n]un semidio.[n][e]
+[s]Taira no Masakado,[n]herói do[n]período Heian. Ele reivindicou [n] o título de "Shinno" [n] (Novo Imperador) e [n] se rebelou contra o governo estabelecido [n] . Ele foi[n]morto, mas dizem que[n]ele se tornou[n]um semideus.[n][e]
 
 [msg myth_072]
 [s]Quarta das nove[n]ordens de anjos.[n]Seu trabalho[n]é[n]controlar os outros[n]anjos. Suas ações[n]são a manifestação[n]da vontade de Deus.[n][e]
@@ -992,7 +992,7 @@
 [s]A figura materna[n]do cristianismo.[n]Gabriel a informou[n]que ela se tornaria[n]a mãe de Jesus.[n]Alguns a veneram[n]como a Virgem[n]Maria, mas outros[n]confissões não[n]focam nela.[n][e]
 
 [msg myth_331]
-[s]La seconda delle[n]"scintille divine"[n]dello Zoroastrismo,[n]le Amesha Spenta.[n]Il suo nome significa[n]"buon pensiero".[n]Si dice che questa[n]entità divina abbia[n]annunciato a Zarathuštra[n]le rivelazioni di Dio.[n][e]
+[s]A segunda das[n]"centelhas divinas"[n]do zoroastrismo,[n]a Amesha Spenta.[n]Seu nome significa[n]"bom pensamento".[n]Diz-se que esta[n]entidade divina [n]anunciou a Zaratustra[n]as revelações de Deus.[n][e]
 
 [msg myth_332]
 [s]Uma criatura mitológica[n]das Highlands escocesas.[n]Ela encontra refúgio em[n]árvores ocas e[n]casas abandonadas.[n]É do tamanho de um cachorro,[n]com olhos verdes brilhantes.[n]Alguns deles entendem[n]a linguagem dos humanos e[n]vivem com eles.[n][e]

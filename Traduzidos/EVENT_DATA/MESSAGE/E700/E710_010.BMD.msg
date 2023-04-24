@@ -30,7 +30,7 @@
 [s][bup 0 113 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você será hospitalizado por[n]ferimentos graves sofridos como resultado de[n]abuso doméstico, e ele será preso.[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Mulher inquieta]]
-[s][vp 8 0 0 0 9 0]Coisa? Hospitalizado? A-Preso?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 9 0]Quê? Hospitalizado? A-Preso?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 9 0]Eu não deveria ter deixado[n]Yuya jogar fora a Pedra Sagrada![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 9 0]Ele disse para não desperdiçar dinheiro[n]com uma pedra estúpida... mas para[n]dá-la a ele.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 9 0]É o castigo por não impedi-lo, não é? Por favor,[n]deixe-me comprar outro![n][f 1 3 65535][w][e]
@@ -117,7 +117,7 @@
 [s]Você verá.[e]
 
 [msg MSG_028_0_0 [Chihaya]]
-[s][bup 0 113 2 65535 0][f 4 10 65535 0 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 113 7 300 65535][vp 8 0 0 0 65535 0]Coisa? Você realmente acha[n]que pode fazer alguma coisa?!?[n][f 1 3 65535][w][e]
+[s][bup 0 113 2 65535 0][f 4 10 65535 0 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 113 7 300 65535][vp 8 0 0 0 65535 0]Quê? Você realmente acha[n]que pode fazer alguma coisa?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_029_0_0 [Mulher inquieta]]
 [s][vp 1 0 0 0 0 0]......[n][f 1 3 65535][w][e]

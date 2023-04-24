@@ -126,7 +126,7 @@
 [s]Na verdade, estou ainda mais[n]animado com o pensamento do[n]incrível tesouro que encontraremos![n][w][e]
 [s]Vamos fazer do amanhã[n]um sucesso, [f 4 1]![n][w][e]
 
-[msg MSG_e40110100_SHIDOU_00 [(Speaker) Man's Voice]]
+[msg MSG_e40110100_SHIDOU_00 [(Alto-Falante) Voz Masculina]]
 [s]Eu, Masayoshi Shido, rapidamente tornarei os[n]sonhos de todos realidade![n][w][e]
 
 [msg MSG_TEST_TV01 [Morgana]]

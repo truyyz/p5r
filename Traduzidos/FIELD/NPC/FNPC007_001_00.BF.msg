@@ -671,7 +671,7 @@
 [s][f 4 23 1 2 5 10 4 10][vp 8 2 1 0 2 0]Foi você quem me ensinou que devemos sempre fazer[n]o que realmente queremos. Obrigada.[n][w][e]
 
 [msg MSG_Q75_HINT_TUNDEREMEID [Linda empregada]]
-[s][f 4 23 1 2 5 10 4 10][vp 8 2 1 0 0 0]Coisa? A loja está lá.[n]Se você quiser dar uma olhada,[n]continue.[n][w][e]
+[s][f 4 23 1 2 5 10 4 10][vp 8 2 1 0 0 0]Quê? A loja está lá.[n]Se você quiser dar uma olhada,[n]continue.[n][w][e]
 
 [msg MSG_Q75_HINT_TUNDEREMEID_2 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1019 65535 0]Ei, estou errado ou o "Tackler"[n]foi a um Maid Cafe?[n][w][e]
@@ -870,7 +870,7 @@
 [s][vp 8 2 1 0 8 0]Quem você queria ver morto?[n][w][e]
 
 [msg MSG_DATESYOUHO_008_2_0 [Mulher de aparência inocente]]
-[s][f 4 23 1 7 3 10 0 10][vp 8 2 1 0 7 0]Coisa? O que há de errado com você...?[n]Você nunca disse nada[n]assim antes...[n][w][e]
+[s][f 4 23 1 7 3 10 0 10][vp 8 2 1 0 7 0]Quê? O que há de errado com você...?[n]Você nunca disse nada[n]assim antes...[n][w][e]
 
 [msg MSG_DATESYOUHO_008_3_0 [Homem interessante]]
 [s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]Até agora? Quer dizer, quando eu estava[n]trabalhando? Bem, nesse caso eu tinha que fazer[n]o papel do cara legal e gentil.[n][w][e]
@@ -916,7 +916,7 @@
 [s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]Você foi tão bem que acabei[n]acreditando na encenação.[n]Você parecia uma atriz.[n][w][e]
 
 [msg MSG_DATESYOUHO_012_0_0 [Homem interessante]]
-[s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]Coisa? Você está dizendo que[n]namorar e[n]terminar eram APENAS ficção?[n][w][e]
+[s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]Quê? Você está dizendo que[n]namorar e[n]terminar eram APENAS ficção?[n][w][e]
 
 [msg MSG_DATESYOUHO_012_1_0 [Mulher de aparência inocente]]
 [s][f 4 23 1 7 3 10 0 10][vp 8 2 1 0 7 0]Sim. Eu interpretei a garota rica, bonita e[n]estúpida.[n][w][e]

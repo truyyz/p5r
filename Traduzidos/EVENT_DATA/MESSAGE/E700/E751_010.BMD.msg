@@ -29,7 +29,7 @@
 [s]Um pouco de romance?[e]
 
 [msg MSG_009_0_0 [Haru]]
-[s][bup 0 7 6 4 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Ah, certamente. Somos um casal,[n]e é véspera de Natal...[n][f 1 3 65535][w][e]
+[s][bup 0 7 6 4 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Ah, certamente. Somos um par,[n]e é véspera de Natal...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]De mãos dadas seria natural,[n]ou mesmo implícito... certo?[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Haru]]

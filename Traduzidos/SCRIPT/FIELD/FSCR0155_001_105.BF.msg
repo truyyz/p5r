@@ -1,5 +1,5 @@
 [msg D155_01_c_01_mes01 [Makoto]]
-[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2159 65535 0]Há água cristalina aqui...[n]Aparentemente, nem todo[n]Futaba Palace é um deserto.[n][w][e]
+[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2159 65535 0]Há água cristalina aqui...[n]Aparentemente, nem todo[n]Palácio de Futaba é um deserto.[n][w][e]
 
 [msg D155_01_c_01_mes02 [Yusuke]]
 [s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4020 65535 0]Eu acho que este lugar é um oásis do coração.[n][w][e]
@@ -8,7 +8,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1165 65535 0]Graças a esta água seremos capazes[n]de resistir mesmo neste[n]deserto sufocante.[n][w][e]
 
 [msg D155_01_c_01_N_mes01 [Makoto]]
-[s][bup 0 6 0 1 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2159 65535 0]Há água cristalina aqui...[n]Aparentemente, nem todo[n]Futaba Palace é um deserto.[n][w][e]
+[s][bup 0 6 0 1 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2159 65535 0]Há água cristalina aqui...[n]Aparentemente, nem todo[n]Palácio de Futaba é um deserto.[n][w][e]
 
 [msg D155_01_c_01_N_mes02 [Yusuke]]
 [s][bup 0 5 0 1 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4020 65535 0]Eu acho que este lugar é um oásis do coração.[n][w][e]

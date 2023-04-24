@@ -22,8 +22,8 @@
 [s][bup 0 105 2 0 0][vp 1 0 0 0 0 0]......?[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Sae]]
-[s][bup 0 105 2 0 0][vp 1 0 0 0 0 0](Di che sta parlando?)[n][f 1 3 65535][w][e]
-[s][vp 1 0 0 0 0 0](Il suono di una porta aperta?)[n][f 1 3 65535][w][e]
+[s][bup 0 105 2 0 0][vp 1 0 0 0 0 0](Do que ele está falando?)[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0](O som de uma porta aberta?)[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Phantom Thief Alibaba]]
 [s][vp 8 0 0 0 65535 0]Goro Akechi é mau.[n][f 1 3 65535][w][e]

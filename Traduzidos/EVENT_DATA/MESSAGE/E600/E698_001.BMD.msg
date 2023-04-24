@@ -503,7 +503,7 @@
 [s][vp 8 0 0 0 5 0]Não ficou curioso?!?[n]Talvez eu vá procurar hoje...[n][f 1 3 65535][w][e]
 
 [msg MSG_118_0_0 [Garota desconfortável]]
-[s][vp 8 0 0 0 4 0]Coisa? Não faça isso! No entanto, eu[n]ouvi dizer que ele esconde o rosto...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 4 0]Quê? Não faça isso! No entanto, eu[n]ouvi dizer que ele esconde o rosto...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 4 0]Quem sabe o que ele pode fazer com você, se ele[n]te ver... Você vai acabar em alguma[n]vala, eu sei![n][f 1 3 65535][w][e]
 
 [msg MSG_119_0_0 [Morgana]]
@@ -537,7 +537,7 @@
 [s][vp 8 0 0 0 5 0]Não ficou curioso?!?[n]Talvez eu vá procurar hoje...[n][f 1 3 65535][w][e]
 
 [msg MSG_126_0_0 [Garota desconfortável]]
-[s][vp 8 0 0 0 4 0]Coisa? Não faça isso! No entanto, eu[n]ouvi dizer que ele esconde o rosto...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 4 0]Quê? Não faça isso! No entanto, eu[n]ouvi dizer que ele esconde o rosto...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 4 0]Quem sabe o que ele pode fazer com você, se ele[n]te ver... Você vai acabar em alguma[n]vala, eu sei![n][f 1 3 65535][w][e]
 
 [msg MSG_127_0_0 [Morgana]]

@@ -5,7 +5,7 @@
 [s]Armadilha de pedra ultrapassada[n][w][e]
 
 [msg D04_RESULT_TXT03]
-[s]Pedido Futaba Shadow aceito[n][w][e]
+[s]Pedido Futaba Sombra aceito[n][w][e]
 
 [msg D04_RESULT_TXT04]
 [s]Cidade banida no deserto batido[n][w][e]

@@ -58,7 +58,7 @@
 [s][bup 0 4 4 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 39 5 100][vp 8 0 0 0 65535 0]Espere um minuto...[n]O que você quer dizer?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [Yusuke]]
-[s][bup 0 5 5 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*suspirar*. Por que não posso retratar uma[n]beleza pura como[n]de "Sayuri"?[n][f 1 3 65535][w][e]
+[s][bup 0 5 5 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*suspira*. Por que não posso retratar uma[n]beleza pura como[n]de "Sayuri"?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O que aconteceu com tudo[n]que aprendi...?[n][f 1 3 65535][w][e]
 
 [msg MSG_025_0_0 [Ann]]
@@ -110,7 +110,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas... Isso significa que...[n]todos são afligidos pela[n]mesma feiúra que me aflige...[n][f 1 3 65535][w][e]
 
 [msg MSG_034_5_0 [Yusuke]]
-[s][bup 0 5 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 5 10 5]Coisa? Essa feiúra[n]me faria amadurecer...?[n][f 1 3 65535][w][e]
+[s][bup 0 5 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 5 10 5]Quê? Essa feiúra[n]me faria amadurecer...?[n][f 1 3 65535][w][e]
 
 [msg MSG_036_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 7035 65535 0][f 4 2] está certo, cara.[n][f 1 3 65535][w][e]

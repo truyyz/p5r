@@ -41,7 +41,7 @@
 [s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4046 65535 0]Droga, Madarame... Como você vai usar essa cópia[n]como isca![n][w][e]
 
 [msg e210_162_selA_1_mes01 [Yusuke]]
-[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4139 65535 0]Coisa? Uma cópia nunca poderia[n]ter esse apelo sedutor.[n][w][e]
+[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4139 65535 0]Quê? Uma cópia nunca poderia[n]ter esse apelo sedutor.[n][w][e]
 
 [msg e210_162_selA_1_mes02 [Ryuji]]
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Hã? Você está dizendo que é[n]original? Eu não fazia ideia...[n][w][e]

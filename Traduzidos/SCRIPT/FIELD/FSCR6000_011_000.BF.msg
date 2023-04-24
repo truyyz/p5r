@@ -74,7 +74,7 @@
 [s][vp 8 0 0 0 65535 0]Vocês são bons ladrões, certo...?[n][w][e]
 
 [msg MSG_084_0_0 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 0 0 0 65535 0]Coisa? Por que faríamos[n]uma coisa assim para t...[n][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 0 0 0 65535 0]Quê? Por que faríamos[n]uma coisa assim para t...[n][w][e]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 0 0 0 65535 0]... Tsk. Você quer[n]dizer algo a ele?[n][w][e]
 
 [msg MSG_085_0_0 [Sombra de Makigami]]
