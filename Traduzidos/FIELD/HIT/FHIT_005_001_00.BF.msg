@@ -973,7 +973,7 @@
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 1187 65535 0]Os restaurantes de sushi tipo ribbon são lugares[n]misteriosos, não são? Quero dizer, por que[n]fazê-lo girar...?[n][w][e]
 
 [msg MND_EthnicCafe]
-[s]Eu vejo o sushi fluindo nas fitas.[n][w][e]
+[s]Entendi o sushi fluindo nas fitas.[n][w][e]
 
 [msg MSG_Japanese_TeaHouse [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1168 65535 0]Oh, olhe para o menu acima.[n]"Slushy feito com[n]água parada".[n][w][e]

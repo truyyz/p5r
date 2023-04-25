@@ -37,7 +37,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Além disso, ele não tem massa muscular,[n]para sua idade. E também acho que[n]ele não tem muita resistência física.[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Eu vejo. O impacto de seu[n]despertar foi muito forte...[n][f 1 3 65535][w][e]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Entendi. O impacto de seu[n]despertar foi muito forte...[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Provavelmente houve[n]muitas circunstâncias anormais...[n][f 1 3 65535][w][e]

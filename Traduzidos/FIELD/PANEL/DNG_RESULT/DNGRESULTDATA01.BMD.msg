@@ -41,16 +41,16 @@
 [s]capela infiltrada[n][w][e]
 
 [msg D01_RESULT_TXT15]
-[s]Primeira Semente da Ganância roubada[n][w][e]
+[s]Primeira Semente da Vontade roubada[n][w][e]
 
 [msg D01_RESULT_TXT16]
-[s]Segunda Semente da Ganância roubada[n][w][e]
+[s]Segunda Semente da Vontade roubada[n][w][e]
 
 [msg D01_RESULT_TXT17]
 [s]Torre central infiltrada[n][w][e]
 
 [msg D01_RESULT_TXT18]
-[s]Terceira Semente da Ganância roubada[n][w][e]
+[s]Terceira Semente da Vontade roubada[n][w][e]
 
 [msg D01_RESULT_TXT19]
 [s]Sala segura encontrada[n][w][e]

@@ -79,7 +79,7 @@
 [s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 43 65535 0]Talvez... não seja uma má ideia.[n][f 1 3 65535][w][e]
 
 [msg MSG_035_0_0 [Yusuke]]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 44 65535 0]Eu vejo. Se o verdadeiro culpado[n]confesse, a existência do Metaverso[n]se tornaria de conhecimento público...[n][f 1 3 65535][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 44 65535 0]Entendi. Se o verdadeiro culpado[n]confesse, a existência do Metaverso[n]se tornaria de conhecimento público...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 45 65535 0]Não seríamos mais forçados[n]a nos esconder de forma[n]tão ignominiosa...[n][f 1 3 65535][w][e]
 
 [msg MSG_036_0_0 [Makoto]]

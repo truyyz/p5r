@@ -51,5 +51,5 @@
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Venha, vamos! Vamos despertar[n]seu coração, custe o que custar![n][w][e]
 
 [msg D05_02_e341_084_mes10 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1181 65535 0]Direita! Estamos com você o tempo todo, Noir![n][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1181 65535 0]Tá certo! Estamos com você o tempo todo, Noir![n][w][e]
 

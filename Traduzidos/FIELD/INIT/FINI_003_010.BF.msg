@@ -1,7 +1,7 @@
 [msg MSG_CONVINI_Last_NormalE [Nanami]]
 [s][f 4 23 1 1 3 5 65534 0][vp 8 2 1 58551 1 0]Bem-vindo... Oh, [f 4 1]-kun.[n][w][e]
 [s]Eu não sabia que você estava trabalhando hoje...[n]Oh! Você está voltando para casa.[n][w][e]
-[s]Eu vejo. Isso parece sério.[n]Obrigado por me avisar.[n][w][e]
+[s]Entendi. Isso parece sério.[n]Obrigado por me avisar.[n][w][e]
 
 [msg MSG_CONVINI_Last_TrueEnd [Nanami]]
 [s][f 4 23 1 1 3 5 65534 0][vp 8 2 1 58551 1 0]Bem-vindo... Oh, [f 4 1]-kun![n][w][e]

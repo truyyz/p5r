@@ -12,7 +12,7 @@
 
 [msg TalkMsg_GUY_CHAT_FQ_01]
 [s]Eu sei como essa coisa é chamada.[n]Minha mãe estava falando sobre isso[n]outro dia.[n][w][e]
-[s]Violetas... Violentas...[n]"Maid Violet"! Direita?[n][w][e]
+[s]Violetas... Violentas...[n]"Maid Violet"! Certo?[n][w][e]
 
 [sel TalkSel_GUY_CHAT_FQ_01 top]
 [s]Violência doméstica.[e]
@@ -590,7 +590,7 @@
 [s]Nada.[e]
 
 [msg TalkMsg_GUY_CHAT_SQ_03_R]
-[s]Eu vejo. Sem molho de soja[n]não fica gostoso, né?[n][w][e]
+[s]Entendi. Sem molho de soja[n]não fica gostoso, né?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_03_R_2]
 [s]Ah, então você ainda gosta[n]mais salgado? Acho que entendi.[n][w][e]

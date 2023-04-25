@@ -202,7 +202,7 @@
 
 [msg MSG_062_0_0 [Sae]]
 [s][bup 0 105 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Amigo não, hein...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu vejo. Bem, não importa.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Entendi. Bem, não importa.[n][f 1 3 65535][w][e]
 
 [msg MSG_063_0_0 [Sae]]
 [s][bup 0 105 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu entendo... Mas é dito que[n]você estava perto.[n][f 1 3 65535][w][e]

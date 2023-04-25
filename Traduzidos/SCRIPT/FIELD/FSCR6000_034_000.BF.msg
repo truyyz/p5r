@@ -73,5 +73,5 @@
 [s]Sinto muuuuito![n][w][e]
 
 [msg QUEST_34_BATTLE_END_mes0_3 [Yusuke]]
-[s][bup 0 5 1 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 0 0 0 65535 0]Eu vejo. Então ele estava[n]enchendo os bolsos.[n][w][e]
+[s][bup 0 5 1 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 0 0 0 65535 0]Entendi. Então ele estava[n]enchendo os bolsos.[n][w][e]
 

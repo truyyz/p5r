@@ -1846,7 +1846,7 @@
 [s][bup 0 7 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Hum, eu tenho uma fantasia de empregada...[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]O-o que você acha? Você gosta de fantasias assim,[n]Joker?[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Oh eu sei. E já que estou[n]usando agora, talvez eu também devesse[n]agir como uma empregada doméstica.[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Como é que eles dizem? Hum... Vejo você[n]em casa, mestre? Direita?[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Como é que eles dizem? Hum... Vejo você[n]em casa, mestre? Certo?[n][w][e]
 
 [msg DRESSTALK_CHRIST_PC07 [Haru]]
 [s][bup 0 7 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu tenho uma fantasia de Natal.[n][w][e]
@@ -2099,7 +2099,7 @@
 [msg DRESSTALK_CHRIST_PC09 [Akechi]]
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]E aí? Por que você está olhando para mim desse[n]jeito?[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu só coloquei a fantasia[n]porque você me pediu...[n]Mas eu não pareço mais um Joker?[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ei! Eu vejo que você está rindo![n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ei! Entendi que você está rindo![n][w][e]
 
 [msg DRESSTALK_DANCE_PC09 [Akechi]]
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Coloquei algumas roupas de[n]dançarina.[n][w][e]

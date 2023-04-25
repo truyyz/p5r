@@ -647,10 +647,10 @@
 [s]Incrivelmente nutritivo.[n]Restaura 10 HP de[n]um aliado.[n][e]
 
 [msg Item_0D8]
-[s]Restaura 30% do HP de um all[n]Aprimorado Precise[n]ed Elusive, reduz o ataque.[n][e]
+[s]Restaura 30% do HP de um aliado.[n]Aumenta a Evasão e[n]Precisão, reduz o Atk..[n][e]
 
 [msg Item_0D9]
-[s]Restaura 30% do HP de um all[n]Reduz a Evasão e[n]Preciso, aumenta a att.[n][e]
+[s]Restaura 30% do HP de um aliado.[n]Reduz a Evasão e[n]Precisão, aumenta o Atk.[n][e]
 
 [msg Item_0DA]
 [s]Delicioso e nutritivo.[n]Restaura 50 HP e cura[n]a fome de um aliado.[n][e]

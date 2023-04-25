@@ -41,10 +41,10 @@
 
 [msg MSG_Darts_MemberPlay_mor [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1183 65535 0]Quer jogar comigo, hein?[n]Ok, desafio aceito![n][w][e]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Enquanto estamos aqui, vamos tentar[n]ligar para outra pessoa.[n]Quanto mais, melhor. Direita?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Enquanto estamos aqui, vamos tentar[n]ligar para outra pessoa.[n]Quanto mais, melhor. Certo?[n][w][e]
 
 [msg MSG_Darts_MemberPlay_Nor [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1019 65535 0]Enquanto estamos aqui, vamos tentar[n]ligar para outra pessoa.[n]Quanto mais, melhor. Direita?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1019 65535 0]Enquanto estamos aqui, vamos tentar[n]ligar para outra pessoa.[n]Quanto mais, melhor. Certo?[n][w][e]
 
 [msg MSG_Darts_SoloPlay_moru [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1133 65535 0]Você joga sozinho? Sim, um pouco de prática não[n]faz mal.[n][w][e]

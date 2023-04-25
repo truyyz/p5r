@@ -9,7 +9,7 @@
 [s]Que indústria sórdida.[e]
 
 [msg MSG_035_0_0 [Mishima]]
-[s][f 5 14]Direita?!?[n][w][e]
+[s][f 5 14]Certo?!?[n][w][e]
 
 [msg MSG_036_0_0 [Mishima]]
 [s][f 5 14]Mas não é um problema,[n]se ele os está forçando?!?[n][w][e]

@@ -93,7 +93,7 @@
 [s][bup 0 102 1 0 0][f 4 10 65535 0 0][vp 8 2 1 55025 65535 0]Então vamos embora![n]Mostre o caminho, Prisioneiro![n][w][e]
 
 [msg MSG_TWINS_OUTING_Cancel_ [Justine]]
-[s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 2 1 12047 65535 0][f 4 23 1 211 3 10 0 10]Eu vejo...[n][w][e]
+[s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 2 1 12047 65535 0][f 4 23 1 211 3 10 0 10]Entendi...[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Fale conosco novamente quando quiser[n]saber os detalhes de sua[n]tarefa especial.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Observe que[n]as vagas estarão disponíveis[n]por tempo limitado.[n][w][e]
 
@@ -503,7 +503,7 @@
 [s][bup 0 100 1 0 0][f 4 10 65535 0 0][vp 8 2 1 55435 65535 0]Mil obrigados. Vamos[n]imediatamente.[n][w][e]
 
 [msg MSG_TWINS_OUTING_10_03 [Lavenza]]
-[s][bup 0 100 0 0 0][f 4 10 65535 0 0][vp 8 2 1 55456 65535 0][f 4 23 1 211 3 10 0 10]Eu vejo. Talvez outra hora.[n][w][e]
+[s][bup 0 100 0 0 0][f 4 10 65535 0 0][vp 8 2 1 55456 65535 0][f 4 23 1 211 3 10 0 10]Entendi. Talvez outra hora.[n][w][e]
 
 [msg MSG_TWINS_OUTING_10_NG [Lavenza]]
 [s][bup 0 100 3 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 211 3 10 0 10]Obrigado por aceitar meu[n]pedido, mas...[n][w][e]

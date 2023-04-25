@@ -623,7 +623,7 @@
 [s]A sério? Eu, por outro lado, acho que[n]nós teríamos ficado bem juntos.[n]Na verdade, ainda há tempo...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_03_R_12]
-[s]Eu vejo. Nesse caso,[n]teria sido melhor não[n]conhecer um ao outro.[n][w][e]
+[s]Entendi. Nesse caso,[n]teria sido melhor não[n]conhecer um ao outro.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_03_R_13]
 [s]Você certamente falhou comigo de propósito. Acho[n]que significa que você gosta de mim pelo menos[n]um pouco...[n][w][e]
@@ -1453,7 +1453,7 @@
 [s]Ah, claro... Você não tem escrúpulos[n]na hora de negociar, né?[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_Re_ACCE_2]
-[s]Eu vejo. Quero dizer, não tenho[n]muita escolha, hein?[n][w][e]
+[s]Entendi. Quero dizer, não tenho[n]muita escolha, hein?[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_Re_ACCE_3 [Ryuji]]
 

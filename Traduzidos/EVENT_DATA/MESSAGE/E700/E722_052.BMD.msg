@@ -3,7 +3,7 @@
 
 [sel SEL_001_0_0 top]
 [s][f 0 8 2 1 2217]Sim, é uma surpresa.[clr 27][e]
-[s]Por nada.[e]
+[s]De jeito nenhum.[e]
 [s]O que está em sua mente?[e]
 
 [msg MSG_002_0_0 [Kasumi]]

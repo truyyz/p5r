@@ -102,6 +102,6 @@
 [s][bup 0 3 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 36 10 0 10][vp 8 2 1 1023 65535 0]Lady Ann está certa. Nada de bom pode[n]resultar de forçar seus sentimentos.[n][w][e]
 
 [msg MES_GROUP9_04 [Yusuke]]
-[s][bup 0 5 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 4194 65535 0]Eu vejo. Isso é muito prudente.[n][w][e]
+[s][bup 0 5 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 4194 65535 0]Entendi. Isso é muito prudente.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ann... Morgana... obrigado.[n][w][e]
 

@@ -7,7 +7,7 @@
 
 [msg MSG_002_0_0 [Ryuji]]
 [s][bup 0 2 303 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não há passagem.[n]Vamos apenas falar[n]sobre garotas aleatórias.[n][f 1 3 65535][w][e]
-[s][bup 0 2 301 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas o trabalho em equipe é[n]importante. Você sabe, como em Palaces.[n][f 1 3 65535][w][e]
+[s][bup 0 2 301 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas o trabalho em equipe é[n]importante. Você sabe, como em Palácios.[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Yusuke]]
 [s][bup 0 5 301 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Nesse caso, devemos deixar[n]o Joker mostrar o caminho e[n]nos dar instruções, como sempre.[n][f 1 3 65535][w][e]

@@ -32,7 +32,7 @@
 [s]Exatamente.[e]
 
 [msg MSG_009_0_0 [Haru]]
-[s][bup 0 7 1 4 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Eu vejo! Graças a Deus...[n][f 1 3 65535][w][e]
+[s][bup 0 7 1 4 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Entendi! Graças a Deus...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Não passamos o Dia dos Namorados[n]juntos, então... Fiquei preocupada.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Mas assim que recebi o convite,[n]as preocupações desapareceram.[n][f 1 3 65535][w][e]
 

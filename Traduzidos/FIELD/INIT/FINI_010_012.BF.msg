@@ -22,7 +22,7 @@
 
 [sel SEL_WorkInfo_01 top]
 [s]Exatamente.[e]
-[s]Por nada.[e]
+[s]De jeito nenhum.[e]
 
 [msg MSG_MAMA_WorkInfo_02_01 [Lala Escargot]]
 [s]Ai que alívio! Estamos precisando[n]desesperadamente de ajuda.[n][w][e]

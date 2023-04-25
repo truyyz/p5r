@@ -36,7 +36,7 @@
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][f 5 13 9 5 9][vp 8 0 0 9 65535 0]Então você vê isso como[n]uma possibilidade...[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Akechi]]
-[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]...Eu vejo. Você é muito confiante.[n][f 1 3 65535][w][e]
+[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]...Entendo. Você é muito confiante.[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Akechi]]
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Quero ser completamente honesto:[n]eu te odeio.[n][f 1 3 65535][w][e]

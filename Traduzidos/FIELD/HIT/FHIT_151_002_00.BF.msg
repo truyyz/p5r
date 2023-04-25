@@ -27,7 +27,7 @@
 [s][bup 0 4 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Oh! Algo está se movendo...[n]São engrenagens?[n][w][e]
 
 [msg D151_002_EV_LOCK_mes02 [Morgana]]
-[s][bup 0 3 1 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1138 65535 0]Eu vejo. Aposto que agora[n]podemos acessar uma nova[n]área. Muito bem, Joker![n][w][e]
+[s][bup 0 3 1 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1138 65535 0]Entendi. Aposto que agora[n]podemos acessar uma nova[n]área. Muito bem, Joker![n][w][e]
 
 [msg D01_03_e161_025_pre_mes0 [Ryuji]]
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ei, olhe para aquela pintura[n]no meio. Mas isso não é[n]Kamoshida?!?[n][w][e]

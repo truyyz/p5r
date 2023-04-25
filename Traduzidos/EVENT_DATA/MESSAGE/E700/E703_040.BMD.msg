@@ -137,7 +137,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Quero cuidar do que[n]meu pai me deixou.[n][f 1 3 65535][w][e]
 
 [msg MSG_026_0_0 [Takakura]]
-[s][vp 8 0 0 0 65535 0]...Eu vejo. Mas, por favor[n]pense novamente.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]...Entendo. Mas, por favor[n]pense novamente.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Agora, com licença.[n][f 1 3 65535][w][e]
 
 [msg MSG_027_0_0 [Haru]]

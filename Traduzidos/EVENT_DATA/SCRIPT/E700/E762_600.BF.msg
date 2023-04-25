@@ -420,7 +420,7 @@
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Bem, agora devo terminar[n]minhas compras.[n][f 1 3 65535][w][e]
 
 [msg MSG_YUUSUKE_1_1 [Yusuke]]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 4006 65535 0]Ah, [f 4 2]. Eu vejo você[n]trabalhar tão duro como sempre.[n][f 1 3 65535][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 4006 65535 0]Ah, [f 4 2]. Entendi você[n]trabalhar tão duro como sempre.[n][f 1 3 65535][w][e]
 
 [msg MSG_YUUSUKE_1_2 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0][f 5 13 5 5 5]Ainda estou procurando temas para uma[n]natureza morta. Mas agora eu sei onde[n]procurar, graças à última vez.[n][f 1 3 65535][w][e]

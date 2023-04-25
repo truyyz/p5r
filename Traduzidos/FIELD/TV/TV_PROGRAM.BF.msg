@@ -946,7 +946,7 @@
 [s]O famoso detetive Prince falará sobre a[n]rivalidade entre the Phantom Thieves e Medjed.[n][w][e]
 
 [msg TV_NEWS_0729_100_00_HIRU [Akechi]]
-[s][bup 0 9 0 2 0][f 4 10 65535 0 0][vp 8 2 1 54436 65535 0][f 4 25 1 65535 0 0]Bem, aqui está como eu vejo isso...[n][w][e]
+[s][bup 0 9 0 2 0][f 4 10 65535 0 0][vp 8 2 1 54436 65535 0][f 4 25 1 65535 0 0]Bem, aqui está como entendi isso...[n][w][e]
 
 [msg TV_ANIME_0730_000_00 [Comentarista]]
 [s]O inimigo assumiu o controle do corpo de[n]Feather Owl, forçando-o[n]a comer um delicioso curry![n][w][e]

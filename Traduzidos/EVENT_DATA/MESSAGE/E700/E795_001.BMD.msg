@@ -51,7 +51,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Na verdade, travar[n]às vezes é útil. Serve[n]para compreender verdadeiramente.[n][f 1 3 65535][w][e]
 
 [sel SEL_015_0_0 top]
-[s]Eu vejo.[e]
+[s]Entendi.[e]
 [s]Desisto.[e]
 
 [msg MSG_016_0_0 [Morgana]]
@@ -244,7 +244,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Acredito que uma[n]organização mais cuidadosa ajudaria você a[n]entender melhor o assunto.[n][f 1 3 65535][w][e]
 
 [sel SEL_071_0_0 top]
-[s]Eu vejo.[e]
+[s]Entendi.[e]
 [s]Eu não sou muito arrumado.[e]
 
 [msg MSG_072_0_0 [Morgana]]
@@ -733,7 +733,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Em vez disso, embora muitos o usem[n]da mesma forma, o termo japonês[n]"rei" significa "um pouco".[n][f 1 3 65535][w][e]
 
 [sel SEL_211_0_0 top]
-[s]Eu vejo.[e]
+[s]Entendi.[e]
 [s]Eu não sabia...[e]
 
 [msg MSG_212_0_0 [Morgana]]

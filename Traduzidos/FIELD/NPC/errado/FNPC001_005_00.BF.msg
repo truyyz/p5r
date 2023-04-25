@@ -369,8 +369,8 @@
 
 [sel SEL_AYASIOTOKO_007_0_0 top]
 [s]Vejo você frequentemente.[e]
-[s]Eu vejo você às vezes.[e]
-[s]Por nada.[e]
+[s]Entendi você às vezes.[e]
+[s]De jeito nenhum.[e]
 
 [msg MSG_AYASIOTOKO_007_1_0 [Homem suspeito]]
 [s][f 4 23 1 18 3 10 0 10][vp 8 2 1 0 18 0]Estou aqui quase todos os dias.[n]Não posso culpá-lo.[n][w][e]
@@ -381,7 +381,7 @@
 [s][vp 8 2 1 0 18 0]Eu observo sem ser notado.[n]É assim que deve ser.[n]Eeeh...[n][w][e]
 
 [msg MSG_AYASIOTOKO_007_3_0 [Homem suspeito]]
-[s][f 4 23 1 18 3 10 0 10][vp 8 2 1 0 18 0]Eu vejo. Sinto muito.[n]Eu entendo que não é fácil[n]perceber algo assim.[n][w][e]
+[s][f 4 23 1 18 3 10 0 10][vp 8 2 1 0 18 0]Entendi. Sinto muito.[n]Eu entendo que não é fácil[n]perceber algo assim.[n][w][e]
 [s][vp 8 2 1 0 18 0]Se ela soubesse que eu a tenho observado[n]por tanto tempo,[n]ela ficaria com medo. Eeeh...[n][w][e]
 
 [msg MSG_AYASIOTOKO_007_4_0 [Homem suspeito]]
@@ -395,7 +395,7 @@
 [s][f 4 23 1 18 3 10 0 10][vp 8 2 1 0 18 0]Pensando em recusar[n]a posição[n]novamente na sede?[n][w][e]
 
 [msg MSG_AYASIOTOKO_009_1_0 [Atendente veterano da estação]]
-[s][f 4 23 1 19 3 10 0 10][vp 8 2 1 0 19 0]Eu vejo os rumores se espalhando, chefe.[n]Eu não posso sair daqui ainda.[n][w][e]
+[s][f 4 23 1 19 3 10 0 10][vp 8 2 1 0 19 0]Entendi os rumores se espalhando, chefe.[n]Eu não posso sair daqui ainda.[n][w][e]
 
 [msg MSG_AYASIOTOKO_009_2_0 [Homem suspeito]]
 [s][f 4 23 1 18 3 10 0 10][vp 8 2 1 0 18 0]Haha, você é o "chefe" agora.[n]Estou aposentado há muito tempo.[n][w][e]
@@ -1304,7 +1304,7 @@
 [s]Eu não quero dizer a você.[e]
 
 [msg MSG_OOYA_003_0_0 [Mulher com um quarto]]
-[s][f 4 23 1 65535 3 10 0 10][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu vejo. Bem, se você descobrir[n]alguma coisa interessante,[n]é só me dar um alô.[n][w][e]
+[s][f 4 23 1 65535 3 10 0 10][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Entendi. Bem, se você descobrir[n]alguma coisa interessante,[n]é só me dar um alô.[n][w][e]
 
 [msg MSG_OOYA_004_0_0 [Mulher com um quarto]]
 [s][f 4 23 1 65535 3 10 0 10][bup 0 107 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Vamos, garoto, não tente blefar. Pelo que posso[n]dizer, você não tem absolutamente nada.[n][w][e]
@@ -1342,7 +1342,7 @@
 [s]Eu não quero dizer a você.[e]
 
 [msg MSG_OOYA_013_0_0 [Mulher com um quarto]]
-[s][f 4 23 1 65535 3 10 0 10][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu vejo. Bem, se você descobrir[n]alguma coisa interessante,[n]é só me dar um alô.[n][w][e]
+[s][f 4 23 1 65535 3 10 0 10][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Entendi. Bem, se você descobrir[n]alguma coisa interessante,[n]é só me dar um alô.[n][w][e]
 
 [msg MSG_OOYA_014_0_0 [Mulher com um quarto]]
 [s][f 4 23 1 65535 3 10 0 10][bup 0 107 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Vamos, garoto, não tente blefar. Pelo que posso[n]dizer, você não tem absolutamente nada.[n][w][e]

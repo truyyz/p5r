@@ -34,7 +34,7 @@
 [s][bup 0 2 202 65535 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]...Oh. Eu entendo.[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Ryuji]]
-[s][bup 0 2 211 65535 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Afinal, você é grosso com Kamoshida.[n][f 1 3 65535][w][e]
+[s][bup 0 2 211 65535 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Afinal, você é toda amiguinha do Kamoshida.[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Ann]]
 [s][bup 0 4 202 65535 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Isso não é da sua conta, Sakamoto![n][f 1 3 65535][w][e]

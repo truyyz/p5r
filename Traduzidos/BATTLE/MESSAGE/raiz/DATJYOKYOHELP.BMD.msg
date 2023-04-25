@@ -1385,7 +1385,7 @@
 [s][f 0 4 128]O equilíbrio se desloca para o Sagrado.[n][e]
 
 [msg jyokyohelp_UNSTABLE_DROP]
-[s][f 0 4 128][clr 3][var 1][clr 27]cai![n][e]
+[s][f 0 4 128][clr 3][var 1][clr 27] cai![n][e]
 
 [msg jyokyohelp_ITEM_POWERCHA]
 [s][f 0 4 128][var 0] está carregado![n][e]

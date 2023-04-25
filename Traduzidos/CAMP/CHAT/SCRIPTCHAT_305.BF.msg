@@ -44,7 +44,7 @@
 [s][f 5 14]Então eles são ainda mais importantes que[n]Kaneshiro![n][w][e]
 
 [msg MSG_015_0_0 [Ryuji]]
-[s][f 5 14]Direita?!?[n][w][e]
+[s][f 5 14]Certo?!?[n][w][e]
 
 [msg MSG_016_0_0 [Ryuji]]
 [s][f 5 14]Então está decidido. Nosso[n]próximo alvo será Medjed.[n][w][e]

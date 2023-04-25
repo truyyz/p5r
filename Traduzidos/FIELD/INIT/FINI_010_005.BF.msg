@@ -33,7 +33,7 @@
 [s]Talvez outra hora.[e]
 
 [msg MSG_020_0_0 [Treinador pessoal]]
-[s][vp 1 0 0 0 0 0]Eu vejo. Espero ver-te de novo![n][w][e]
+[s][vp 1 0 0 0 0 0]Entendi. Espero ver-te de novo![n][w][e]
 
 [msg MSG_021_0_0 [Treinador pessoal]]
 [s][vp 1 0 0 0 0 0]Eu entendi. Isso, hein? Venha[n]quando quiser![n][w][e]
@@ -52,7 +52,7 @@
 [s]Eu treino.[e]
 
 [msg MSG_025_0_0 [Treinador pessoal]]
-[s][vp 1 0 0 0 0 0]Eu vejo. Bem, volte[n]quando quiser![n][w][e]
+[s][vp 1 0 0 0 0 0]Entendi. Bem, volte[n]quando quiser![n][w][e]
 
 [msg MSG_026_0_0 [Treinador pessoal]]
 [s][vp 1 0 0 0 0 0]Tudo bem então! Vá e treine o quanto quiser![n][w][e]
@@ -67,7 +67,7 @@
 [s]Etapa.[e]
 
 [msg MSG_029_0_0 [Treinador pessoal]]
-[s][vp 1 0 0 0 0 0]Eu vejo. Bem, volte[n]quando quiser![n][w][e]
+[s][vp 1 0 0 0 0 0]Entendi. Bem, volte[n]quando quiser![n][w][e]
 
 [msg MSG_030_0_0 [Treinador pessoal]]
 [s][vp 1 0 0 0 0 0]Tudo bem então! Vá e treine o quanto quiser![n][w][e]
@@ -92,7 +92,7 @@
 [s]Passe de Ouro[ref 1 2][e]
 
 [msg MSG_036_0_0 [Treinador pessoal]]
-[s][vp 1 0 0 0 0 0]Eu vejo. Bem, volte[n]quando quiser![n][w][e]
+[s][vp 1 0 0 0 0 0]Entendi. Bem, volte[n]quando quiser![n][w][e]
 
 [msg MND_EVENT_NEXT_000_00]
 [s][vp 8 2 65535 0 0 0]Não vejo meus amigos...[n]Melhor ir para outro lugar...[n][w][e]

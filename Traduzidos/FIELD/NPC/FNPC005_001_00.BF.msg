@@ -2089,7 +2089,7 @@
 [s][f 4 23 1 31 3 10 0 10][vp 8 2 1 0 31 0]Isso é verdade, considerando quantos[n]passageiros passam[n]pela Estação Kichijoji.[n][w][e]
 
 [msg MSG_AKOGARE_040_030_000 [Menino Kichijoji]]
-[s][f 4 23 1 30 3 10 0 10][vp 8 2 1 0 30 0]Resumindo, por que fazê-los parar em Mitaka?[n]Faça-os parar a Kichijoji! Direita?[n][w][e]
+[s][f 4 23 1 30 3 10 0 10][vp 8 2 1 0 30 0]Resumindo, por que fazê-los parar em Mitaka?[n]Faça-os parar a Kichijoji! Certo?[n][w][e]
 
 [msg MSG_AKOGARE_040_040_000 [Garota Kichijoji]]
 [s][f 4 23 1 31 3 10 0 10][vp 8 2 1 0 31 0]Já! Eles dizem que há menos estações[n]antes daquelas mais distantes, como[n]Tachikawa, mas quem se importa?[n][w][e]
@@ -3557,7 +3557,7 @@
 [msg MSG_TRADER_060_010_00 [Sakai o mercador]]
 [s][vp 8 2 1 0 60 0]Hum... Este perfume...[n][w][e]
 [s][vp 8 2 1 0 60 0]Ah é você! E você trouxe[n][f 2 5 3 9999 0]![n][w][e]
-[s][vp 8 2 1 0 60 0]Você quer isso em troca:[n][f 2 5 3 9999 1]. Direita?[n][w][e]
+[s][vp 8 2 1 0 60 0]Você quer isso em troca:[n][f 2 5 3 9999 1]. Certo?[n][w][e]
 
 [sel SEL_TRADER_060_020_00 top]
 [s]Vamos fazer uma troca.[e]
@@ -4334,7 +4334,7 @@
 
 [msg MSG_TEMPLE_MASTER_001_01 [Monge bonito]]
 [s][f 4 23 1 15 3 10 0 10][vp 8 2 1 0 15 0]Rapaz, o que te traz aqui? Oh...[n][w][e]
-[s][vp 8 2 1 0 15 0]...Em seus olhos eu vejo[n]emoções muito intensas.[n][w][e]
+[s][vp 8 2 1 0 15 0]...Em seus olhos Entendi[n]emoções muito intensas.[n][w][e]
 [s][vp 8 2 1 0 15 0]A paixão não é uma coisa ruim,[n]desde que você entenda quando[n]acalmar seu coração...[n][w][e]
 [s][vp 8 2 1 0 15 0]Por que você não passa um pouco[n]aqui hoje, sozinho e quieto? O silêncio[n]pode lhe trazer conselhos.[n][w][e]
 
@@ -4420,7 +4420,7 @@
 [s][vp 8 2 1 0 781 0]Eu gostaria de pedir a você, se possível, para[n]passar um tempo com ela.[n]Calma, só vocês dois.[n][w][e]
 
 [sel SEL_TAKAKURA_002_0_2 top]
-[s]Eu vejo.[e]
+[s]Entendi.[e]
 [s]Eu cuido disso.[e]
 [s]Vamos ver...[e]
 
@@ -4447,7 +4447,7 @@
 [s]Eu não ouvi isso.[e]
 
 [msg MSG_SHIBUSAWA_002_00 [Shibusawa]]
-[s][bup 0 222 3 0 0][f 4 10 65535 0 0][f 4 23 1 782 3 10 0 10][vp 8 2 1 0 782 0]Eu vejo. A coisa é... de repente, outro dia[n]ele apareceu aqui.[n][w][e]
+[s][bup 0 222 3 0 0][f 4 10 65535 0 0][f 4 23 1 782 3 10 0 10][vp 8 2 1 0 782 0]Entendi. A coisa é... de repente, outro dia[n]ele apareceu aqui.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 782 0]Ele estava se comportando de maneira estranha,[n]disse que queria assumir[n]a responsabilidade por suas ações.[n][w][e]
 
 [msg MSG_SHIBUSAWA_003_00 [Shibusawa]]

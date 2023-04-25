@@ -434,7 +434,7 @@
 [s]Eu era seu alvo desde o início? Mmh, que honra,[n]então, não? Hahahaha...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_08_R_6]
-[s]Eu vejo. Então você não tem certeza?[n]Bem, é inútil lutar sem[n]ter certeza de quem é o inimigo.[n][w][e]
+[s]Entendi. Então você não tem certeza?[n]Bem, é inútil lutar sem[n]ter certeza de quem é o inimigo.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_08_R_7]
 [s]Você está sendo mesquinho só porque eu[n]apontei para você? Bem, pare com isso ...[n]não é como você.[n][w][e]
@@ -536,7 +536,7 @@
 [s]Se você se sentiu atraído por uma mulher que[n]trabalha em uma loja ou restaurante,[n]deixe pra lá. Péssima ideia.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_02_R_2]
-[s]Eu vejo. Os mais velhos também[n]são mais generosos e[n]maduros, não é?[n][w][e]
+[s]Entendi. Os mais velhos também[n]são mais generosos e[n]maduros, não é?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_02_R_3]
 [s]As mulheres maduras que conheço[n]estão todas acostumadas ao luxo...[n]Pode ser assustador.[n][w][e]
@@ -647,7 +647,7 @@
 [s]Eu não vou te dizer.[e]
 
 [msg TalkMsg_GUY_CHAT_SQ_04_R]
-[s]Ah, então é um problema de[n]determinação...? Eu vejo.[n][w][e]
+[s]Ah, então é um problema de[n]determinação...? Entendi.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_04_R_2]
 [s]Não é exatamente uma resposta esclarecedora, não[n]acha?[n][w][e]
@@ -1112,7 +1112,7 @@
 [s]O que é isso? Você agora é algum tipo[n]místico?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_12_R_4]
-[s]Eu vejo. É carma, né?[n][w][e]
+[s]Entendi. É carma, né?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_12_R_5]
 [s]Quer dizer que não sou o único[n]sofrendo por aqui?[n][w][e]
@@ -1453,7 +1453,7 @@
 [s]A sério? Tudo bem...[n]Mas termina aqui.[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_Re_ACCE_2]
-[s]Eu vejo. Se for esse o caso...[n][w][e]
+[s]Entendi. Se for esse o caso...[n][w][e]
 
 [msg TalkMsg_GUY_NEGO_Re_ACCE_3 [Ryuji]]
 
@@ -1538,29 +1538,29 @@
 [s]Oh... mas você precisa de mim...?[n]Então eu tenho que ouvir você...[n][w][e]
 
 [msg TalkMsg_RESULT_ENEMY_BRA]
-[s]Eu vejo algo... Esta ponte...[n]leva à bem-aventurança?[n][w][e]
+[s]Entendi algo... Esta ponte...[n]leva à bem-aventurança?[n][w][e]
 
 [msg TalkMsg_RESULT_BRAINWASH]
-[s]Eu vejo. Sobre esta ponte...[n][w][e]
+[s]Entendi. Sobre esta ponte...[n][w][e]
 [s]Poderíamos desfrutar de uma alegria[n]incontrolável, se ao menos nós... Ah, acabei de[n]me lembrar de uma coisa![n][w][e]
 
 [msg TalkMsg_RESULT_BRAINWASH_2]
-[s]Eu vejo. Sobre esta ponte...[n][w][e]
+[s]Entendi. Sobre esta ponte...[n][w][e]
 [s]Deixar. Não há nada.[n][w][e]
 
 [msg TalkMsg_RESULT_BRAINWASH_3]
-[s]Eu vejo. Sobre esta ponte...[n][w][e]
+[s]Entendi. Sobre esta ponte...[n][w][e]
 [s]Oh! Por favor, aceite este[n]meu presente![n][w][e]
 
 [msg TalkMsg_RESULT_BRAINWASH_4]
-[s]Eu vejo. Sobre esta ponte...[n][w][e]
+[s]Entendi. Sobre esta ponte...[n][w][e]
 [s]Deixar. Não há nada.[n][w][e]
 
 [msg TalkMsg_RESULT_BRAINWASH_5]
-[s]Eu vejo. Sobre esta ponte...[n]Por favor, aceite este meu presente![n][w][e]
+[s]Entendi. Sobre esta ponte...[n]Por favor, aceite este meu presente![n][w][e]
 
 [msg TalkMsg_RESULT_BRAINWASH_6]
-[s]Eu vejo. Sobre esta ponte...[n][w][e]
+[s]Entendi. Sobre esta ponte...[n][w][e]
 [s]Deixar. Não há nada.[n][w][e]
 
 [msg TalkMsg_RESULT_BRAINWASH_7]
@@ -1991,7 +1991,7 @@
 [s]Só para você... Deixe-me[n]apresentá-lo ao meu parceiro mais brutal![n][w][e]
 
 [msg TalkMsg_RESULT_SQ_ALERT2]
-[s]Eu vejo. Olha, acabei de ter uma ideia. Acho que[n]alguns conselhos sábios podem ajudá-lo.[n][w][e]
+[s]Entendi. Olha, acabei de ter uma ideia. Acho que[n]alguns conselhos sábios podem ajudá-lo.[n][w][e]
 [s]Alguns conselhos sábios...[n]e alguma honestidade brutal![n][w][e]
 
 [msg TalkMsg_RESULT_SQ_INFO1]
@@ -2011,17 +2011,17 @@
 [s]Então deixe-me oferecer-lhe isto: [n][f 2 5 3 9999 1]...[n][w][e]
 
 [msg TalkMsg_RESULT_BRAINWASH_9]
-[s]Eu vejo. Além desta ponte...[n]nós podemos criar um mundo puro![n][w][e]
+[s]Entendi. Além desta ponte...[n]nós podemos criar um mundo puro![n][w][e]
 
 [msg TalkMsg_RESULT_BRAINWASH_10]
-[s]Eu vejo. Sobre esta ponte...[n]Não, deixe para lá. Não há nada...[n][w][e]
+[s]Entendi. Sobre esta ponte...[n]Não, deixe para lá. Não há nada...[n][w][e]
 
 [msg TalkMsg_RESULT_BRAINWASH_11]
-[s]Eu vejo. Além desta ponte...[n]a felicidade suprema nos espera[n]se a cruzarmos juntos![n][w][e]
+[s]Entendi. Além desta ponte...[n]a felicidade suprema nos espera[n]se a cruzarmos juntos![n][w][e]
 [s]Mas sua Persona é[n][clr 1][var 2][clr 27]... Portanto,[n]pegue este item: [f 2 5 3 9999 1].[n][w][e]
 
 [msg TalkMsg_RESULT_BRAINWASH_12]
-[s]Eu vejo. Além desta ponte...[n]a felicidade suprema nos espera[n]se a cruzarmos juntos![n][w][e]
+[s]Entendi. Além desta ponte...[n]a felicidade suprema nos espera[n]se a cruzarmos juntos![n][w][e]
 [s]Mas seu nível é muito baixo.[n]Desculpe, você terá que se contentar[n]com este item: [f 2 5 3 9999 1].[n][w][e]
 
 [msg TalkMsg_RESULT_BRAINWASH_13]

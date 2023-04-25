@@ -125,16 +125,16 @@
 [s]O que você quer?[n][e]
 
 [msg MSG_MMTSHOP_COGN_CONF_00]
-[s]Esta?[n][e]
+[s]Assim?[n][e]
 
 [msg MSG_MMTSHOP_COGN_CONF_01]
-[s]Está tudo bem?[n][e]
+[s]Tudo certo?[n][e]
 
 [msg MSG_MMTSHOP_BACK_COGN_00]
 [s]Você quer[n]algo mais?[n][e]
 
 [msg MSG_MMTSHOP_COGN_OK_00]
-[s]Não[n]problema![n][e]
+[s]Não tem[n]problema![n][e]
 
 [msg MSG_MMTSHOP_COGN_OK_01]
 [s]Ok![n][e]
@@ -143,5 +143,5 @@
 [s]Vou tentar.[n][e]
 
 [msg MSG_MMTSHOP_COGN_RESET_0]
-[s]Deseja redefinir[n]all?[n][e]
+[s]Deseja redefinir[n]tudo?[n][e]
 

@@ -494,7 +494,7 @@
 [s][bup 0 108 0 0 0][f 4 23 1 213 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 14022 65535 0]...Bom.[n][w][e]
 
 [msg MSG_C13_COOP_CANCEL_07_0 [Takemi]]
-[s][bup 0 108 0 0 0][f 4 23 1 213 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu vejo...[n][w][e]
+[s][bup 0 108 0 0 0][f 4 23 1 213 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Entendi...[n][w][e]
 
 [msg MSG_SPOT_OPEN_KANDA]
 [s]Agora você pode ir para [clr 2]Kanda[clr 27].[n][w][e]

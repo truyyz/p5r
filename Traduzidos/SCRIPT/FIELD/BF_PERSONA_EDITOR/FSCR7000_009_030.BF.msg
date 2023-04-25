@@ -164,7 +164,7 @@
 
 [msg MSG_Laundry_Pay_HaveItem_2 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1026 65535 0]Custa 400 ienes. Você tem[n]alguns [clr 2]equipamentos sujos[clr 27] para[n]lavar, mas não tem dinheiro suficiente.[n][w][e]
-[s][f 4 10 65535 0 0]Direita! A loja de roupas usadas[n]em Kichijoji. Por que não tentamos[n]vendê-lo lá?[n][w][e]
+[s][f 4 10 65535 0 0]Tá certo! A loja de roupas usadas[n]em Kichijoji. Por que não tentamos[n]vendê-lo lá?[n][w][e]
 
 [msg MSG_ItemNotHave [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1021 65535 0]Huh? Você não tem [clr 2]equipamento[n][clr 27]sujo[clr 27], não é? O que você gostaria[n]de lavar?[n][w][e]

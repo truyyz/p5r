@@ -48,7 +48,7 @@
 [s]...A sério?[n][w][e]
 
 [msg WEATHER_TUTO_mes16 [Morgana]]
-[s]No caso de Palaces, os gostos de nossos alvos[n]também entram em jogo.[n][w][e]
+[s]No caso de Palácios, os gostos de nossos alvos[n]também entram em jogo.[n][w][e]
 [s]Se o alvo tem medo de trovões,[n]uma tempestade em nosso mundo[n]tem efeitos devastadores no Palácio.[n][w][e]
 
 [msg WEATHER_TUTO_mes17 [Ryuji]]

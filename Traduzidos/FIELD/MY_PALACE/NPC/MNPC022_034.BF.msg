@@ -81,7 +81,7 @@
 [s][bup 0 103 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 3 10 0 10]Bem, não realmente... Espere, você quer dizer que[n]coisa não te assusta?[n][w][e]
 
 [msg MES_GROUP6_04 [Shinya]]
-[s][bup 0 110 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 17044 65535 0]Não. Eu vejo vilões assim o tempo todo[n]em videogames.[n][w][e]
+[s][bup 0 110 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 17044 65535 0]Não. Entendi vilões assim o tempo todo[n]em videogames.[n][w][e]
 
 [msg MES_GROUP6_05 [Sojiro]]
 [s][bup 0 103 4 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 5122 65535 0]As crianças hoje em dia são tão insensíveis...[n][w][e]

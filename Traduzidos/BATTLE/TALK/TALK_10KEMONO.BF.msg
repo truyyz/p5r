@@ -301,7 +301,7 @@
 
 [sel TalkSel_GUY_CHAT_FQ_06 top]
 [s]Eu quero ficar mais forte.[e]
-[s]Porque eu vejo inimigos.[e]
+[s]Porque Entendi inimigos.[e]
 [s]Na verdade, não sei.[e]
 
 [msg TalkMsg_GUY_CHAT_FQ_06_R]

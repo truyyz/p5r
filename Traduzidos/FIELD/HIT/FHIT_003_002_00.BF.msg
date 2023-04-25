@@ -885,7 +885,7 @@
 [s][f 4 10 65535 0 0]Bem, é tudo a mesma coisa...[n]vou sair para comprar[n]cigarros...[n][w][e]
 
 [msg MSG_Coffee_Sojiro_03 [Sojiro]]
-[s][f 4 23 1 205 33 10 33 10][f 4 23 1 235 31 10 30 10][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 2 1 5092 65535 0]Bem, eu vejo você desconfiado[n]entusiasmado. A obsessão por café[n]estragou tudo, hein?[n][w][e]
+[s][f 4 23 1 205 33 10 33 10][f 4 23 1 235 31 10 30 10][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 2 1 5092 65535 0]Bem, Entendi você desconfiado[n]entusiasmado. A obsessão por café[n]estragou tudo, hein?[n][w][e]
 [s][f 4 10 65535 0 0]Bem, é tudo a mesma coisa...[n]vou sair para comprar[n]cigarros...[n][w][e]
 
 [msg MSG_Coffee_Sojiro_04 [Sojiro]]
@@ -1086,7 +1086,7 @@
 [s]Ah, que pena.[n]Até amanhã.[n][w][e]
 
 [msg MSG_CHK_DOOR_yusuke_reac [Yusuke]]
-[s]Eu vejo. Desculpe pela inconveniência.[n]Por favor, me perdoe.[n][w][e]
+[s]Entendi. Desculpe pela inconveniência.[n]Por favor, me perdoe.[n][w][e]
 
 [msg MSG_CHK_DOOR_akechi_reac [Akechi]]
 [s]Perdoe-me se o incomodei.[n]Volto outra hora.[n][w][e]

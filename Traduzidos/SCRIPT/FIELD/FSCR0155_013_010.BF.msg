@@ -26,7 +26,7 @@
 [s]Um momento, melhor ficar.[e]
 
 [msg D155_13_s_01_AF01_selA_0 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu vejo. Nesse caso, vamos.[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Entendi. Nesse caso, vamos.[n][w][e]
 
 [msg D155_13_s_01_AF01_selA_1 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Você tem razão. Encontrar aquele bandido[n]é nossa prioridade.[n][w][e]

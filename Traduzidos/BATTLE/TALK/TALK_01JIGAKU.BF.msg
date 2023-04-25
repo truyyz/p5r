@@ -428,7 +428,7 @@
 [s]Heh, caras assim geralmente[n]morrem sozinhos de qualquer maneira.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_08_R_4]
-[s]Direita! Esses idiotas arrastam todo mundo para[n]baixo sem nem perceber![n][w][e]
+[s]Tá certo! Esses idiotas arrastam todo mundo para[n]baixo sem nem perceber![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_08_R_5]
 [s]Bem... Também pode ser que você não seja[n]engraçado. Eu jogo lá.[n][w][e]
@@ -1235,7 +1235,7 @@
 [s]São punks como você[n]que fazem as mulheres chorarem![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_14_R_7]
-[s]Eu vejo. Quero dizer, eu não odeio minha[n]namorada, hein. Mas o casamento é[n]totalmente outra história.[n][w][e]
+[s]Entendi. Quero dizer, eu não odeio minha[n]namorada, hein. Mas o casamento é[n]totalmente outra história.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_14_R_8]
 [s]Você parece pensar assim![n]É muito legal, eu admito.[n][w][e]

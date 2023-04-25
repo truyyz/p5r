@@ -23,7 +23,7 @@
 [s]Sala segura encontrada[n][w][e]
 
 [msg D04_RESULT_TXT09]
-[s]Primeira Semente da Ganância roubada[n][w][e]
+[s]Primeira Semente da Vontade roubada[n][w][e]
 
 [msg D04_RESULT_TXT10]
 [s]Câmara de rejeição desatualizada[n][w][e]
@@ -38,7 +38,7 @@
 [s]Sala segura encontrada[n][w][e]
 
 [msg D04_RESULT_TXT14]
-[s]Segunda Semente da Ganância roubada[n][w][e]
+[s]Segunda Semente da Vontade roubada[n][w][e]
 
 [msg D04_RESULT_TXT15]
 [s]Câmara do Remorso desatualizada[n][w][e]
@@ -56,7 +56,7 @@
 [s]Sala segura encontrada[n][w][e]
 
 [msg D04_RESULT_TXT20]
-[s]Terceira Semente da Ganância roubada[n][w][e]
+[s]Terceira Semente da Vontade roubada[n][w][e]
 
 [msg D04_RESULT_TXT21]
 [s]Câmara do santuário desatualizada[n][w][e]

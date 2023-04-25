@@ -20,7 +20,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu só tenho que tentar[n]descobrir como as coisas realmente são[n]sozinho...[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Haru]]
-[s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 3020 65535 0][f 5 13 4 10 7]Eu vejo. Se houver duas[n]versões opostas, uma das[n]duas deve ser verdadeira.[n][f 1 3 65535][w][e]
+[s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 3020 65535 0][f 5 13 4 10 7]Entendi. Se houver duas[n]versões opostas, uma das[n]duas deve ser verdadeira.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu só tenho que tentar[n]descobrir como as coisas realmente são[n]sozinho...[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Haru]]

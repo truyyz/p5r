@@ -1,5 +1,5 @@
 [msg D08_02_e457_050_mes01 [Yusuke]]
-[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu vejo o que parece ser uma espécie de entrada.[n][w][e]
+[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Entendi o que parece ser uma espécie de entrada.[n][w][e]
 
 [msg D08_02_e457_050_mes02 [Futaba]]
 [s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]...Ah, cuidado. Lá em cima,[n]alguém muito grande está esperando por nós.[n][w][e]

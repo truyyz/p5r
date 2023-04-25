@@ -2165,7 +2165,7 @@
 [s]Falta de dormir.[e]
 
 [msg MSG_527_0_0 [Maruki]]
-[s][bup 0 216 1 0 0][f 4 10 65535 0 0][vp 8 2 0 57492 65535 0]Direita! Notável.[n][f 1 3 65535][w][e]
+[s][bup 0 216 1 0 0][f 4 10 65535 0 0][vp 8 2 0 57492 65535 0]Tá certo! Notável.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]É um tipo de viés cognitivo que pode[n]melhorar ou até[n]alterar suas memórias.[n][f 1 3 65535][w][e]
 
 [msg MSG_528_0_0 [Maruki]]

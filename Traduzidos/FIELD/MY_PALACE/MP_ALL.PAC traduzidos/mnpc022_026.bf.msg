@@ -20,7 +20,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Talvez minha atitude passiva apenas o[n]incentivasse.[n][w][e]
 
 [msg MES_GROUP3_01 [Mishima]]
-[s][bup 0 111 3 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 19028 65535 0]Eu vejo o que você quer dizer... de certa[n]forma, somos nós que o transformaram em um[n]rei. Isso é tão distorcido.[n][w][e]
+[s][bup 0 111 3 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 19028 65535 0]Entendi o que você quer dizer... de certa[n]forma, somos nós que o transformaram em um[n]rei. Isso é tão distorcido.[n][w][e]
 
 [msg MES_GROUP4_00 [Ohya]]
 [s][bup 0 107 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 16002 65535 0]Oh, ei. Obrigado por todas as informações,[n]garoto. Você realmente me ajudou naquela época.[n][w][e]

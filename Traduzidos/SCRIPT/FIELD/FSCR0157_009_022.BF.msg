@@ -44,7 +44,7 @@
 [s][bup 0 9 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Basicamente, sim. Eu tenho[n]olhos na máquina caça-níqueis gigante.[n][w][e]
 
 [msg D157_009_miniEV_08_mes08 [Makoto]]
-[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu vejo. ao aumentar a[n]taxa média de vitórias, será quase[n]impossível perder.[n][w][e]
+[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Entendi. ao aumentar a[n]taxa média de vitórias, será quase[n]impossível perder.[n][w][e]
 
 [msg D157_009_miniEV_08_mes09 [Ryuji]]
 [s][bup 0 2 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Você é capaz de fazer isso?[n][w][e]

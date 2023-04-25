@@ -20,7 +20,7 @@
 [s]Sala segura encontrada[n][w][e]
 
 [msg D07_RESULT_TXT08]
-[s]Primeira Semente da Ganância roubada[n][w][e]
+[s]Primeira Semente da Vontade roubada[n][w][e]
 
 [msg D07_RESULT_TXT09]
 [s]Corr. estibordo no meio do caminho[n][w][e]
@@ -62,7 +62,7 @@
 [s]Terceira carta obtida[n][w][e]
 
 [msg D07_RESULT_TXT22]
-[s]Segunda Semente da Ganância roubada[n][w][e]
+[s]Segunda Semente da Vontade roubada[n][w][e]
 
 [msg D07_RESULT_TXT23]
 [s]Passar. lado bombordo inferior excedido[n][w][e]
@@ -80,7 +80,7 @@
 [s]Sala segura encontrada[n][w][e]
 
 [msg D07_RESULT_TXT28]
-[s]Terceira Semente da Ganância roubada[n][w][e]
+[s]Terceira Semente da Vontade roubada[n][w][e]
 
 [msg D07_RESULT_TXT29]
 [s]Presidente de Sombra IT derrotado[n][w][e]

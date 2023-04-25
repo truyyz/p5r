@@ -80,7 +80,7 @@
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 6020 65535 0]É claro![n][w][e]
 
 [msg SEL_0621_ANN_AND_MAKOTO__6 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 23 1 226 3 10 0 10][vp 8 2 1 6138 65535 0]Ok, hoje vou passar algum tempo com[n]Makoto, então se nos encontrarmos,[n]podemos ir juntos! Direita?[n][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 23 1 226 3 10 0 10][vp 8 2 1 6138 65535 0]Ok, hoje vou passar algum tempo com[n]Makoto, então se nos encontrarmos,[n]podemos ir juntos! Certo?[n][w][e]
 
 [msg SEL_0621_ANN_AND_MAKOTO__7 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][f 4 23 1 222 3 10 0 10][vp 8 2 1 2023 65535 0]Hum. Por favor, deixe-nos saber quando você[n]decidir entrar no Palácio.[n][w][e]
@@ -3743,7 +3743,7 @@
 [s]Eu não estou interessado.[e]
 
 [msg MSG_HAT_HOMELESS_002_1_0 [Transeunte]]
-[s][f 4 23 1 106 3 10 0 0][vp 8 2 1 0 106 0]Eu vejo...[n][w][e]
+[s][f 4 23 1 106 3 10 0 0][vp 8 2 1 0 106 0]Entendi...[n][w][e]
 
 [msg MSG_HAT_HOMELESS_002_2_0 [Transeunte]]
 [s][f 4 23 1 106 3 10 0 0][vp 8 2 1 0 106 0]Oh, nós temos um crítico aqui.[n][w][e]

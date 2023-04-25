@@ -27,7 +27,7 @@
 [s][vp 8 0 0 0 65535 0]Ah, não é? Parecia[n]certo...[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Estudante de cabelo castanho]]
-[s][vp 8 0 0 0 65535 0]Direita? Estou feliz por não ter sido escalado.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Certo? Estou feliz por não ter sido escalado.[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Professor jovem]]
 [s][vp 8 2 0 37150 65535 0][bup 0 303 0 0 0][f 4 10 65535 0 0]Olá pessoal...[n]sou o Prof. Hiruta, seu[n]professor de biologia.[n][f 1 3 65535][w][e]
@@ -45,7 +45,7 @@
 [s][vp 8 0 0 0 65535 0]A linha que se estende de A[n]conecta a B ou C?[n]Qual?[n][f 1 3 65535][w][e]
 
 [sel SEL_014_0_0 top]
-[s]b.[e]
+[s]B.[e]
 [s]C.[f 2 7 0 0 25 1][e]
 [s]Nenhum dos dois.[e]
 
@@ -543,7 +543,7 @@
 
 [sel SEL_134_0_0 top]
 [s]A.[f 2 7 0 0 25 1][e]
-[s]b.[e]
+[s]B.[e]
 [s]Nem.[e]
 
 [msg MSG_135_0_0 [Prof. Usami]]
@@ -706,10 +706,10 @@
 [s][vp 8 2 0 37255 65535 0]Qual deles é chamado de[n]cocleóide por causa de sua[n]semelhança com um caracol?[n][f 1 3 65535][w][e]
 
 [sel SEL_174_0_0 top]
-[s]PARA.[e]
+[s]A.[e]
 [s]B.[f 2 7 0 0 25 1][e]
-[s]c.[e]
-[s]d.[e]
+[s]C.[e]
+[s]D.[e]
 
 [msg MSG_175_0_0 [Prof. Usami]]
 [s][bup 0 305 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37259 65535 0]Isso mesmo.[n][f 1 3 65535][w][e]
@@ -872,8 +872,8 @@
 [s][vp 8 0 0 0 65535 0]Entre A e B... qual linha[n]parece mais longa...?[n][f 1 3 65535][w][e]
 
 [sel SEL_214_0_0 top]
-[s]PARA.[e]
-[s]b.[e]
+[s]A.[e]
+[s]B.[e]
 [s]Eles são iguais.[f 2 7 0 0 25 1][e]
 
 [msg MSG_215_0_0 [Prof Hiruta]]

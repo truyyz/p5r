@@ -50,7 +50,7 @@
 [s][f 0 8 2 1 2217]É nisso que você está trabalhando?[clr 27][e]
 
 [msg MSG_012_0_0 [Maruki]]
-[s][bup 0 216 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 35 5 1014]Direita? Algo assim seria[n]incrível.[n][f 1 3 65535][w][e]
+[s][bup 0 216 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 35 5 1014]Certo? Algo assim seria[n]incrível.[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Maruki]]
 [s][bup 0 216 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]"É claro" seria minha[n]resposta ideal, mas, infelizmente,[n]essa não é a realidade.[n][f 1 3 65535][w][e]

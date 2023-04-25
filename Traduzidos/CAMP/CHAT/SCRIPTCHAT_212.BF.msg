@@ -26,7 +26,7 @@
 [s]O pseudônimo é baseado no nome.[e]
 
 [msg MSG_007_0_0 [Makoto]]
-[s][f 5 14]Eu vejo. Ao decifrar[n]o anagrama, descobriremos[n]seu nome completo.[n][w][e]
+[s][f 5 14]Entendi. Ao decifrar[n]o anagrama, descobriremos[n]seu nome completo.[n][w][e]
 
 [sel SEL_008_0_0 top]
 [s][f 5 14]O sobrenome é Amasaki.[e]

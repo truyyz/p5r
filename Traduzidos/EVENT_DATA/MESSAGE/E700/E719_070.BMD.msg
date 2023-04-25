@@ -71,7 +71,7 @@
 [s][bup 0 112 503 0 0][f 4 10 65535 0 0][f 4 24 0 4 0 38 5 100][vp 8 0 0 0 65535 0]Mas minhas opiniões são diferentes[n]das do grupo de Kuramoto.[n]E não pretendo mudá-las.[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Benzo]]
-[s][vp 8 0 0 0 7 0]Eu vejo. No entanto, ele não será capaz[n]de realizar seus ideais[n]se não for eleito.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 7 0]Entendi. No entanto, ele não será capaz[n]de realizar seus ideais[n]se não for eleito.[n][f 1 3 65535][w][e]
 
 [msg MSG_020_5_0 [Benzo]]
 [s][vp 8 0 0 0 7 0]...[f 4 1]-kun, você poderia ajudá-lo[n]a recuperar os sentidos?[n]Você também se beneficiará.[n][f 1 3 65535][w][e]

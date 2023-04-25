@@ -13,7 +13,7 @@
 
 [msg MSG_004_0_0 [Gerente mal-humorado]]
 [s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]Hum? E o que é isso?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Uma "semente da ganância"? Deixe-me[n]vê-lo por um segundo.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Uma "Semente da Vontade"? Deixe-me[n]vê-lo por um segundo.[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Gerente mal-humorado]]
 [s][bup 0 104 3 0 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]...Isso é péssimo.[n][f 1 3 65535][w][e]

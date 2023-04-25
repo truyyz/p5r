@@ -322,7 +322,7 @@
 [s][f 4 23 1 0 3 10 0 0][vp 8 2 1 0 0 0]Ei, fale baixo. Ele aparece[n]regularmente na escola, então[n]ele estará por perto.[n][w][e]
 
 [msg MSG_KATAOMOI_005_2_0 [Estudante animada]]
-[s][f 4 23 1 1 3 10 0 0][f 4 25 1 2 0 0][vp 8 2 1 0 1 0]Eu vejo. Então a história de que[n]ele tinha ficha criminal[n]era tudo besteira, né?[n][w][e]
+[s][f 4 23 1 1 3 10 0 0][f 4 25 1 2 0 0][vp 8 2 1 0 1 0]Entendi. Então a história de que[n]ele tinha ficha criminal[n]era tudo besteira, né?[n][w][e]
 
 [msg MSG_KATAOMOI_005_3_0 [Estudante quieto]]
 [s][f 4 23 1 0 3 10 0 0][vp 8 2 1 0 0 0]Não sei, tenho medo de perguntar.[n]De qualquer forma, é melhor não[n]envolver muito.[n][w][e]

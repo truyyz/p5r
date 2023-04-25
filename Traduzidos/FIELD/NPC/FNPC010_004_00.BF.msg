@@ -50,7 +50,7 @@
 [s][vp 8 2 1 0 0 0]Você fez uma boa ação.[n]Que Deus esteja com você, filho.[n][w][e]
 
 [msg MSG_Shop_NotBuy [Padre quieto]]
-[s][vp 8 2 1 0 0 0]...Eu vejo.[n][w][e]
+[s][vp 8 2 1 0 0 0]...Entendo.[n][w][e]
 
 [msg MSG_ShopInfo_AccessNotSu [Padre quieto]]
 [s][vp 8 2 1 0 0 0]Ah, quase esqueci. Todo[n][clr 2]domingo[clr 27], aqui na igreja,[n]recolhemos as ofertas.[n][w][e]

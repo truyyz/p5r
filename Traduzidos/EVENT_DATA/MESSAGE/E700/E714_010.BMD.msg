@@ -52,14 +52,14 @@
 
 [msg MSG_021_0_0 [Mishima]]
 [s][bup 0 111 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Quando as pessoas forem[n]enganadas, será tarde demais![n][f 1 3 65535][w][e]
-[s][bup 0 111 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Direita? É por isso que temos que[n]investigar isso completamente.[n][f 1 3 65535][w][e]
+[s][bup 0 111 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Certo? É por isso que temos que[n]investigar isso completamente.[n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Mishima]]
 [s][bup 0 111 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Eu-eu...[n][f 1 3 65535][w][e]
 [s][bup 0 111 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]...Eu só quero punir[n]bandidos! E para fazer isso, tenho que[n]ver com meus próprios olhos![n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [Mishima]]
-[s][bup 0 111 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 26 65535 0]Direita?!? E se provar[n]um golpe, o castigo virá![n][f 1 3 65535][w][e]
+[s][bup 0 111 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 26 65535 0]Certo?!? E se provar[n]um golpe, o castigo virá![n][f 1 3 65535][w][e]
 
 [msg MSG_026_0_0 [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 27 65535 0]Isso mesmo, temos que ter certeza[n]com nossos próprios olhos.[n][f 1 3 65535][w][e]

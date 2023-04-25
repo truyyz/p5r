@@ -51,7 +51,7 @@
 [s][bup 0 4 103 0 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Não temos a menor ideia...[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Makoto]]
-[s][bup 0 6 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Eu vejo. Então, "roubar o coração de alguém"[n]é como...[n][f 1 3 65535][w][e]
+[s][bup 0 6 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Entendi. Então, "roubar o coração de alguém"[n]é como...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]É um pouco como sobrescrever[n]sua cognição...[n][f 1 3 65535][w][e]
 
 [msg MSG_016_5_0 [Makoto]]

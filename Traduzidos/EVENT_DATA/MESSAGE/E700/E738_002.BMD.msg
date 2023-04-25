@@ -21,9 +21,9 @@
 [s][vp 8 0 0 0 65535 0]Qual das opções a seguir é chamada de curva do[n]diabo?[n][f 1 3 65535][w][e]
 
 [sel SEL_007_0_0 top]
-[s]PARA.[e]
-[s]b.[e]
-[s]c.[e]
+[s]A.[e]
+[s]B.[e]
+[s]C.[e]
 [s]D.[f 2 7 0 0 25 1][e]
 
 [msg MSG_008_0_0 [Prof Kawakami]]

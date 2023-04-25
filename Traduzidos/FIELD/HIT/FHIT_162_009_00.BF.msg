@@ -535,7 +535,7 @@
 [s]Então eu pensei... Se ao menos eu pudesse[n]roubar o coração dele...[n][w][e]
 
 [msg D10_09_HiddenRoom03_Hint_3 [Sombra com camisa]]
-[s]Eu vejo. Deve ter sido muito[n]difícil para você. Em qualquer caso...[n][w][e]
+[s]Entendi. Deve ter sido muito[n]difícil para você. Em qualquer caso...[n][w][e]
 [s]Na realidade ideal, cada pessoa é feliz. O[n]egocentrismo não é contemplado.[n][w][e]
 [s]A felicidade obtida privando[n]vizinhos da sua própria não é verdadeira[n]felicidade. Mas você também ficará feliz.[n][w][e]
 

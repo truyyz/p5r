@@ -50,7 +50,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Pode não ser o senso de justiça mais[n]tradicional, mas é o nosso e nós o[n]mantemos. Não deixamos a sociedade nos[n]manter em baixo.[n][w][e]
 
 [msg MES_GROUP3_02 [Akechi]]
-[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 32 10 50 10][vp 8 2 1 8134 65535 0]...Eu vejo.[n][w][e]
+[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 32 10 50 10][vp 8 2 1 8134 65535 0]...Entendo.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Então, parece assim, porque ele sabe muito[n]bem que não é cavaleiro de armadura[n]brilhante.[n][w][e]
 
 [msg MES_GROUP4_00 [Ann]]
@@ -70,7 +70,7 @@
 [s][bup 0 111 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Vou deixar você entrar em segredo: estou[n]escrevendo um relatório sobre os ladrões[n]Phantom![n][w][e]
 
 [msg MES_GROUP5_01 [Sojiro]]
-[s][bup 0 103 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 40 10 0 10]Eu vejo... aqueles caras, hein.[n][w][e]
+[s][bup 0 103 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 40 10 0 10]Entendi... aqueles caras, hein.[n][w][e]
 
 [msg MES_GROUP5_02 [Mishima]]
 [s][bup 0 111 4 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 3 10 0 10]Você mora com o líder deles, não,[n]Sakura-san? Você pode me dar qualquer Intel[n]secreta!?[n][w][e]

@@ -80,7 +80,7 @@
 [s][bup 0 5 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4136 65535 0]Vou garantir que você não[n]se arrependa dessa decisão.[n][w][e]
 
 [msg PARTY_IN_CHECK_PC05_selA_3 [Yusuke]]
-[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4020 65535 0]Eu vejo. Eu permanecerei na posição[n]como membro da retaguarda.[n][w][e]
+[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4020 65535 0]Entendi. Eu permanecerei na posição[n]como membro da retaguarda.[n][w][e]
 
 [msg PARTY_IN_CHECK_PC05_mes0_2 [Yusuke]]
 [s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4155 65535 0]Parece que a vanguarda está[n]completa. Por favor, diga-me[n]a pessoa que preciso substituir.[n][w][e]
@@ -150,7 +150,7 @@
 [s][bup 0 7 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 3199 65535 0]Fantástico! Eu darei tudo de mim![n][w][e]
 
 [msg PARTY_IN_CHECK_PC07_selA_3 [Haru]]
-[s][bup 0 7 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 3020 65535 0]Eu vejo. Nesse caso,[n]posso cuidar do suporte.[n][w][e]
+[s][bup 0 7 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 3020 65535 0]Entendi. Nesse caso,[n]posso cuidar do suporte.[n][w][e]
 
 [msg PARTY_IN_CHECK_PC07_mes0_2 [Haru]]
 [s][bup 0 7 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 3178 65535 0]Parece que o time já está[n]formado. Quem você quer que[n]substitua?[n][w][e]
@@ -166,7 +166,7 @@
 [s][bup 0 7 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 3030 65535 0]Eu não vou te decepcionar![n][w][e]
 
 [msg PARTY_IN_CHECK_PC07_D05__4 [Haru]]
-[s][bup 0 7 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 3022 65535 0]Eu vejo. Nesse caso, farei[n]o meu melhor para apoiá-lo[n]na retaguarda.[n][w][e]
+[s][bup 0 7 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 3022 65535 0]Entendi. Nesse caso, farei[n]o meu melhor para apoiá-lo[n]na retaguarda.[n][w][e]
 
 [msg PARTY_IN_CHECK_PC07_D05__5 [Haru]]
 [s][bup 0 7 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 3178 65535 0]Parece que o time já está[n]formado. Quem você quer que[n]substitua?[n][w][e]
@@ -256,7 +256,7 @@
 [s][bup 0 5 1 1 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4136 65535 0]Vou garantir que você não[n]se arrependa dessa decisão.[n][w][e]
 
 [msg PARTY_IN_CHECK_PC05_NM_s_3 [Yusuke]]
-[s][bup 0 5 0 1 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4020 65535 0]Eu vejo. Eu permanecerei na posição[n]como membro da retaguarda.[n][w][e]
+[s][bup 0 5 0 1 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4020 65535 0]Entendi. Eu permanecerei na posição[n]como membro da retaguarda.[n][w][e]
 
 [msg PARTY_IN_CHECK_PC05_NM_m_2 [Yusuke]]
 [s][bup 0 5 0 1 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4155 65535 0]Parece que a vanguarda está[n]completa. Por favor, diga-me[n]a pessoa que preciso substituir.[n][w][e]
@@ -320,7 +320,7 @@
 [s][bup 0 5 1 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4136 65535 0]Vou garantir que você não[n]se arrependa dessa decisão.[n][w][e]
 
 [msg PARTY_IN_CHECK_PC05_NM02_4 [Yusuke]]
-[s][bup 0 5 0 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4020 65535 0]Eu vejo. Eu permanecerei na posição[n]como membro da retaguarda.[n][w][e]
+[s][bup 0 5 0 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4020 65535 0]Entendi. Eu permanecerei na posição[n]como membro da retaguarda.[n][w][e]
 
 [msg PARTY_IN_CHECK_PC05_NM02_5 [Yusuke]]
 [s][bup 0 5 0 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4155 65535 0]Parece que a vanguarda está[n]completa. Por favor, diga-me[n]a pessoa que preciso substituir.[n][w][e]
@@ -352,7 +352,7 @@
 [s][bup 0 7 1 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 3199 65535 0]Fantástico! Eu darei tudo de mim![n][w][e]
 
 [msg PARTY_IN_CHECK_PC07_NM02_4 [Haru]]
-[s][bup 0 7 0 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 3020 65535 0]Eu vejo. Nesse caso,[n]posso cuidar do suporte.[n][w][e]
+[s][bup 0 7 0 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 3020 65535 0]Entendi. Nesse caso,[n]posso cuidar do suporte.[n][w][e]
 
 [msg PARTY_IN_CHECK_PC07_NM02_5 [Haru]]
 [s][bup 0 7 0 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 3178 65535 0]Parece que o time já está[n]formado. Quem você quer que[n]substitua?[n][w][e]

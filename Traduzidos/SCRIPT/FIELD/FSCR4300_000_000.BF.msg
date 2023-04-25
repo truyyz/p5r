@@ -155,7 +155,7 @@
 [s]Ainda não.[e]
 
 [msg MSG_NIGHT_MASTER_NIGHT_R_2 [Sojiro]]
-[s][f 4 23 1 205 33 10 33 10][f 4 23 1 235 31 10 30 10][bup 0 103 0 0 0][f 4 10 65535 0 0]Eu vejo.[n][w][e]
+[s][f 4 23 1 205 33 10 33 10][f 4 23 1 235 31 10 30 10][bup 0 103 0 0 0][f 4 10 65535 0 0]Entendi.[n][w][e]
 [s]Aqui à noite só há você,[n]por isso é inútil estabelecer[n]um toque de recolher ou algo semelhante.[n][w][e]
 [s]Contanto que você leve seus estudos[n]a sério, não me importo se você sair à noite.[n][w][e]
 

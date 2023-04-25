@@ -45,7 +45,7 @@
 [msg MSG_011_0_0 [Haru]]
 [s][bup 0 7 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 3189 65535 0]Eu me pergunto quem faria fila[n]para homenagear o Big Bang Burger,[n]se ele fechasse de repente...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu sei que você tem que ganhar para[n]pagar seus funcionários, mas sinto que[n]algo importante foi perdido.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Takakura-san parece pensar apenas em[n]lucro... Eu não gosto disso. Eu vejo[n]preto para nossa imagem.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Takakura-san parece pensar apenas em[n]lucro... Eu não gosto disso. Entendi[n]preto para nossa imagem.[n][f 1 3 65535][w][e]
 
 [sel SEL_012_0_0 top]
 [s]Talvez você esteja certo.[e]

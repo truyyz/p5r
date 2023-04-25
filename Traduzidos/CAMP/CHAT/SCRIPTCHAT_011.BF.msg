@@ -15,7 +15,7 @@
 [s][f 5 14]Vamos cara, vamos juntos.[n]Vou te mostrar.[n][w][e]
 
 [msg MSG_005_0_0 [Ryuji]]
-[s][f 5 14]FIGO.[n][w][e]
+[s][f 5 14]Perfeito.[n][w][e]
 
 [msg MSG_006_0_0 [Ryuji]]
 [s][f 5 14]Vamos lá, vamos decidir onde[n]nos encontramos.[n][w][e]

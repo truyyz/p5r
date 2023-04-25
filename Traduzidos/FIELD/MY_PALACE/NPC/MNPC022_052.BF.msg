@@ -80,7 +80,7 @@
 [s][bup 0 4 14 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 6022 65535 0]Hã? Ah... Sim, claro. Eu gosto...[n][w][e]
 
 [msg MES_GROUP8_03 [Iwai]]
-[s][bup 0 104 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 32 10 0 10]Eu vejo.[n][w][e]
+[s][bup 0 104 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 32 10 0 10]Entendi.[n][w][e]
 [s][bup 0 104 4 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Desculpe, não se preocupe.[n]Apenas fazendo algumas pesquisas.[n][w][e]
 
 [msg MES_GROUP8_04 [Ann]]

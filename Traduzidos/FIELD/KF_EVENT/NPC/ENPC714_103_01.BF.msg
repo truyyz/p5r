@@ -17,7 +17,7 @@
 [s]Uh. Eu me pergunto se esse lugar[n]ainda existe. Mais cedo ou[n]tarde acho que vou procurar...[n][w][e]
 
 [msg MOR_DET_BECKY_02 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Eu vejo. Então Kawakami tirou daí o nome que ela[n]usa como empregada doméstica.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Entendi. Então Kawakami tirou daí o nome que ela[n]usa como empregada doméstica.[n][w][e]
 
 [msg MSG_DET_BECKY_RE [Estudante que ama doces]]
 [s][f 4 23 1 801 3 10 0 10]Um dia terei que ir comer na "Becky's", aquela[n]padaria...[n][w][e]

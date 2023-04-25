@@ -144,7 +144,7 @@
 
 [msg MSG_C02_ACTION_D06_51_00 [Makoto]]
 [s][bup 0 6 2 65535 0][f 4 23 1 202 3 10 0 10][vp 8 2 1 2037 65535 0][f 4 10 65535 0 0]Há mais alguma coisa que você preferiria[n]fazer, [f 4 2]?[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu vejo. Você decide[n]quando se encontrar.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Entendi. Você decide[n]quando se encontrar.[n][w][e]
 
 [msg MSG_C02_BEGIN_D06_50_01 [Makoto]]
 [s][bup 0 6 3 65535 0][f 4 23 1 202 3 10 0 10][vp 8 2 1 2199 65535 0][f 4 10 65535 0 0]Resta-nos esperar[n]o dia escolhido para o assalto.[n][w][e]
@@ -342,7 +342,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]O pátio é bom.[n]Podemos entrar pela parte de trás.[n][w][e]
 
 [msg MSG_C02_PREOPEN_03_05 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 23 1 202 3 10 0 10][vp 8 2 1 2064 65535 0][f 4 10 65535 0 0]Eu vejo. Bem, quando você tiver algum tempo, eu[n]gostaria de falar com você.[n][w][e]
+[s][bup 0 6 0 65535 0][f 4 23 1 202 3 10 0 10][vp 8 2 1 2064 65535 0][f 4 10 65535 0 0]Entendi. Bem, quando você tiver algum tempo, eu[n]gostaria de falar com você.[n][w][e]
 
 [msg MSG_C02_COOP_00_00 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 23 1 202 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ah bem. Você acha que pode me ajudar a ampliar[n]meus horizontes?[n][w][e]
@@ -555,7 +555,7 @@
 
 [msg MSG_C02_COOP_CANCEL_REV [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][f 4 23 1 202 3 10 0 10][vp 8 2 1 53355 65535 0]Ok, eu entendo.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu vejo. Bem, quando você tiver algum tempo, eu[n]gostaria de falar com você.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Entendi. Bem, quando você tiver algum tempo, eu[n]gostaria de falar com você.[n][w][e]
 
 [msg MSG_C02_EVOLUTION_WAIT [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][f 4 23 1 202 3 10 0 10][vp 8 2 1 2033 65535 0]Eu estava pensando em algo...[n]Quando surgir a oportunidade,[n]eu gostaria de falar com você.[n][w][e]
@@ -675,7 +675,7 @@
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Hum![n][w][e]
 
 [msg MSG_0621_ANN_AND_MAKOTO__7 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 23 1 206 3 10 0 10][vp 8 2 1 0 65535 0]Ok, hoje vou passar algum tempo com[n]Makoto, então se nos encontrarmos,[n]podemos ir juntos! Direita?[n][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 23 1 206 3 10 0 10][vp 8 2 1 0 65535 0]Ok, hoje vou passar algum tempo com[n]Makoto, então se nos encontrarmos,[n]podemos ir juntos! Certo?[n][w][e]
 
 [msg MSG_0621_ANN_AND_MAKOTO__8 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][f 4 23 1 202 3 10 0 10][vp 8 2 1 0 65535 0]Hum. Por favor, deixe-nos saber quando você[n]decidir entrar no Palácio.[n][w][e]

@@ -18,7 +18,7 @@
 [s]Espere.[e]
 
 [msg MSG_C03_ACTION_D05_00_00 [Haru]]
-[s][bup 0 7 200 65535 0][f 4 10 65535 0 0][f 4 23 1 203 3 10 0 10][vp 8 2 1 3020 65535 0]Eu vejo. Mas primeiro, eu tenho que[n]mudar a mim mesmo. Você pode me preceder.[n][w][e]
+[s][bup 0 7 200 65535 0][f 4 10 65535 0 0][f 4 23 1 203 3 10 0 10][vp 8 2 1 3020 65535 0]Entendi. Mas primeiro, eu tenho que[n]mudar a mim mesmo. Você pode me preceder.[n][w][e]
 
 [msg MSG_C03_ACTION_D05_31_00 [Haru]]
 [s][bup 0 7 200 65535 0][f 4 10 65535 0 0][f 4 23 1 203 3 10 0 10][vp 8 2 1 0 65535 0]Há algum problema?[n][w][e]
@@ -134,7 +134,7 @@
 [s]Espere.[e]
 
 [msg MSG_C03_ACTION_D00_99_00 [Haru]]
-[s][bup 0 7 200 65535 0][f 4 10 65535 0 0][f 4 23 1 203 3 10 0 10][vp 8 2 1 3020 65535 0]Eu vejo. Mas primeiro, eu tenho que[n]mudar a mim mesmo. Você pode me preceder.[n][w][e]
+[s][bup 0 7 200 65535 0][f 4 10 65535 0 0][f 4 23 1 203 3 10 0 10][vp 8 2 1 3020 65535 0]Entendi. Mas primeiro, eu tenho que[n]mudar a mim mesmo. Você pode me preceder.[n][w][e]
 
 [msg MSG_C03_ACTION_D00_31_00 [Haru]]
 [s][bup 0 7 202 65535 0][f 4 10 65535 0 0][f 4 23 1 203 3 10 0 10][vp 8 2 1 3046 65535 0]*suspiro* Mas temos que encontrar[n]uma rota de infiltração...[n][w][e]
@@ -537,7 +537,7 @@
 [s][bup 0 7 201 65535 0][f 4 10 65535 0 0][f 4 23 1 203 3 10 0 10][vp 8 2 1 3020 65535 0]Então está decidido. Se[n]alguém vier, eu te protegerei.[n][w][e]
 
 [msg MSG_C03_COOP_CANCEL_00 [Haru]]
-[s][bup 0 7 200 65535 0][f 4 10 65535 0 0][f 4 23 1 203 3 10 0 10][vp 8 2 1 3064 65535 0]Eu vejo. Então talvez da próxima vez.[n][w][e]
+[s][bup 0 7 200 65535 0][f 4 10 65535 0 0][f 4 23 1 203 3 10 0 10][vp 8 2 1 3064 65535 0]Entendi. Então talvez da próxima vez.[n][w][e]
 
 [msg MSG_C03_BEGIN_D10_REV [Haru]]
 [s][bup 0 7 203 65535 0][f 4 10 65535 0 0][f 4 23 1 203 3 10 0 10][vp 8 2 1 3192 65535 0]Oh, [f 4 2]-kun...[n][w][e]

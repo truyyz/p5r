@@ -100,11 +100,11 @@
 [s][vp 1 0 0 0 0 0]Eu deveria orar por um vínculo muito[n]mais profundo com [var 0]...[n][w][e]
 
 [msg MND_Chara_Result_5]
-[s][vp 1 0 0 0 0 0]Eu vejo claramente a imagem de[n]face de [var 0]...[n][w][e]
+[s][vp 1 0 0 0 0 0]Entendi claramente a imagem de[n]face de [var 0]...[n][w][e]
 [s][vp 1 0 0 0 0 0]Eu sinto que nosso vínculo[n]tornou-se muito profundo...[n][w][e]
 
 [msg MND_Chara_Result_10]
-[s][vp 1 0 0 0 0 0]Eu vejo claramente a imagem de[n]face de [var 0]...[n][w][e]
+[s][vp 1 0 0 0 0 0]Entendi claramente a imagem de[n]face de [var 0]...[n][w][e]
 [s][vp 1 0 0 0 0 0]......![n][w][e]
 [s][vp 1 0 0 0 0 0]Ele estava sorrindo![n][w][e]
 [s][vp 1 0 0 0 0 0]Eu sinto que nosso vínculo[n]tornou-se muito profundo...[n][w][e]

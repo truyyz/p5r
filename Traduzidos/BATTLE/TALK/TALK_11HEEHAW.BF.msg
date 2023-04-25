@@ -365,7 +365,7 @@
 [s]Obrigado pelo[n]problema, companheiro-oh.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_07_R_2]
-[s]Eu vejo que você é um homem justo, oh.[n][w][e]
+[s]Entendi que você é um homem justo, oh.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_07_R_3]
 [s]...Espere, não é meio maldoso assim, oh?[n][w][e]

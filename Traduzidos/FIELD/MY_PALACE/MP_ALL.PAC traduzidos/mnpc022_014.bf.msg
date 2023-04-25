@@ -41,7 +41,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Bem, você não está errado. Eu gosto de como[n]ele está de pé como um artista de Kabuki.[n][w][e]
 
 [msg MES_GROUP4_03 [Futaba]]
-[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 9190 65535 0]Direita!? Essa pose é perfeita, se eu disser[n]isso mesmo![n][w][e]
+[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 9190 65535 0]Tá certo!? Essa pose é perfeita, se eu disser[n]isso mesmo![n][w][e]
 
 [msg MES_GROUP4_04 [Sojiro]]
 [s][bup 0 103 5 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 31 10 0 10][vp 8 2 1 5021 65535 0]Isso pertence a você?[n][w][e]

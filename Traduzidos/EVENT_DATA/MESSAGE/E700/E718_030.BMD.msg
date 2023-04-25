@@ -8,7 +8,7 @@
 [sel SEL_002_0_0 top]
 [s]Nunca ouvi tal coisa.[e]
 [s][f 0 8 2 1 2217]Ótima ideia.[clr 27][e]
-[s]Eu já estou noivo.[e]
+[s]Eu já namoro.[e]
 
 [msg MSG_003_0_0 [Mishima]]
 [s][bup 0 111 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 19079 65535 0]Espera, sério…? Ladrões[n]devem roubar corações[n]das garotas! Todo mundo sabe![n][f 1 3 65535][w][e]
@@ -29,7 +29,7 @@
 [sel SEL_006_1_0 top]
 [s]Estou um pouco preocupado.[e]
 [s][f 0 8 2 1 2217]Membros do... Phandom?[clr 27][e]
-[s][f 0 8 2 1 2217]Vamos cuspir.[clr 27][e]
+[s][f 0 8 2 1 2217]Vamos falar a verdade.[clr 27][e]
 
 [msg MSG_006_2_0 [Mishima]]
 [s][bup 0 111 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Tudo vai ficar bem! Eu posso ser[n]um ator muito bom.[n][f 1 3 65535][w][e]

@@ -177,7 +177,7 @@
 [s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Sofremos muito.[n]Testemunhamos os[n]piores lados da humanidade.[n][w][e]
 
 [msg MSG_END_TALK_002_000 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu vejo. Mas aqui há um limite de tempo. Quem não[n]come, perde tempo.[n][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Entendi. Mas aqui há um limite de tempo. Quem não[n]come, perde tempo.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]É melhor comer o máximo possível enquanto[n]estivermos aqui. Devemos fazer o investimento[n]render, certo?[n][w][e]
 
 [msg MSG_EVENTEND_001_000 [Morgana]]

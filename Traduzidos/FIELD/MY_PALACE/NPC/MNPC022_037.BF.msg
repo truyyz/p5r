@@ -57,7 +57,7 @@
 [s][bup 0 113 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Quando aquele homem foi preso, acho que muitos se[n]sentiram aliviados.[n][w][e]
 
 [msg MES_GROUP6_02 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 3 10 0 10]Eu vejo...[n][w][e]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 3 10 0 10]Entendi...[n][w][e]
 [s][bup 0 6 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 2048 65535 0]É um alívio ouvir isso. Gosto de acreditar que[n]fizemos a coisa certa.[n][w][e]
 
 [msg MES_GROUP7_01 [Makoto]]

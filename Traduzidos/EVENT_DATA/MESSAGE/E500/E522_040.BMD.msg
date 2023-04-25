@@ -27,7 +27,7 @@
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sei que parece muito,[n]mas achamos que era a[n]melhor maneira de fazer isso.[n][f 1 3 65535][w][e]
 
 [sel SEL_009_0_0 top]
-[s]Direita?[e]
+[s]Certo?[e]
 [s]O que você quer dizer?[e]
 
 [msg MSG_010_0_0 [Haru]]

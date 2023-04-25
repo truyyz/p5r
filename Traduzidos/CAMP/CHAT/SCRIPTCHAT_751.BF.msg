@@ -27,7 +27,7 @@
 [s]Não estou em melhor forma.[e]
 
 [msg MSG_007_0_0 [Yusuke]]
-[s][f 5 14]Eu vejo. Pena.[n][w][e]
+[s][f 5 14]Entendi. Pena.[n][w][e]
 
 [msg MSG_008_0_0 [Yusuke]]
 [s][f 5 14]Desculpe a intromissão.[n]Tenha um bom dia.[n][f 5 15][w][e]

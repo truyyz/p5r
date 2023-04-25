@@ -19,7 +19,7 @@
 
 [msg MSG_137201_004_00 [Jogador de vôlei do primeiro ano]]
 [s][f 4 23 1 857 3 10 0 0][vp 8 2 1 0 857 0]O-oh, estes...?[n][w][e]
-[s][vp 8 2 1 0 857 0]F-fatos durante a prática.[n]Todos na equipe são reduzidos[n]igualmente.[n][w][e]
+[s][vp 8 2 1 0 857 0]A-aconteceu praticando.[n]Todos na equipe tem machucados[n]desse jeito.[n][w][e]
 [s][vp 8 2 1 0 857 0]Prof. Kamoshida não é ruim![n]Mesmo[n]o treinamento especial de Mishima-senpai não é tão difícil...[n][w][e]
 
 [msg MSG_137201_004_01 [Jogador de vôlei do primeiro ano]]
@@ -29,7 +29,7 @@
 
 [msg MSG_137201_002_01 [Jogador de vôlei do primeiro ano]]
 [s][f 4 23 1 857 3 10 0 0][vp 8 2 1 0 857 0]O-oh, estes...?[n][w][e]
-[s][vp 8 2 1 0 857 0]F-fatos durante a prática.[n]Todos na equipe são reduzidos[n]igualmente.[n][w][e]
+[s][vp 8 2 1 0 857 0]A-aconteceu praticando.[n]Todos na equipe tem machucados[n]desse jeito.[n][w][e]
 [s][vp 8 2 1 0 857 0]Prof. Kamoshida não é ruim![n]Mesmo[n]o treinamento especial de Mishima-senpai não é tão difícil...[n][w][e]
 
 [sel SEL_137201_003_01 top]

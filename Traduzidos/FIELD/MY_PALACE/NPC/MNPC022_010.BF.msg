@@ -50,7 +50,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Não é o seu típico senso de justiça,[n]mas é nosso e lutamos por isso.[n]Não seremos esmagados pela sociedade.[n][w][e]
 
 [msg MES_GROUP3_02 [Akechi]]
-[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 32 10 50 10][vp 8 2 1 8134 65535 0]...Eu vejo.[n][w][e]
+[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 32 10 50 10][vp 8 2 1 8134 65535 0]...Entendo.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ele tem essa aparência porque sabe[n]muito bem que não é um herói inocente.[n][w][e]
 
 [msg MES_GROUP4_00 [Ann]]

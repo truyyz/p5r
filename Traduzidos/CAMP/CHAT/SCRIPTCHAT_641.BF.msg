@@ -11,7 +11,7 @@
 [s][f 5 14]Ok, me encontre em Shibuya.[n]Eu mesmo lhe darei os detalhes.[n][f 5 15][w][e]
 
 [sel SEL_001 top]
-[s]Conhecê-lo[e]
+[s]Sair com ele[e]
 [s]Verifique o link com Mishima[e]
 [s]Decidir depois[e]
 

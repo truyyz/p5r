@@ -11,7 +11,7 @@
 [s]Mapa do espaçoporto obtido[n][w][e]
 
 [msg D05_RESULT_TXT05]
-[s]Primeira Semente da Ganância roubada[n][w][e]
+[s]Primeira Semente da Vontade roubada[n][w][e]
 
 [msg D05_RESULT_TXT06]
 [s]Sala segura encontrada[n][w][e]
@@ -38,7 +38,7 @@
 [s]Sala segura encontrada[n][w][e]
 
 [msg D05_RESULT_TXT14]
-[s]Segunda Semente da Ganância roubada[n][w][e]
+[s]Segunda Semente da Vontade roubada[n][w][e]
 
 [msg D05_RESULT_TXT15]
 [s]Linha de exportação excedida[n][w][e]
@@ -59,7 +59,7 @@
 [s]Sala segura encontrada[n][w][e]
 
 [msg D05_RESULT_TXT21]
-[s]Terceira Semente da Ganância roubada[n][w][e]
+[s]Terceira Semente da Vontade roubada[n][w][e]
 
 [msg D05_RESULT_TXT22]
 [s]Área de transferência excedida[n][w][e]

@@ -98,7 +98,7 @@
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]É assim que você acaba[n]usando suas informações[n]pessoais como chaves.[n][w][e]
 
 [msg D10_12_1st_passcode_lock_5 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu vejo. Então precisamos de[n]informações sobre a vida de Maruki...[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Entendi. Então precisamos de[n]informações sobre a vida de Maruki...[n][w][e]
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Bem, é o palácio dele. Aposto[n]que olhando com cuidado encontraremos[n]as pistas para responder.[n][w][e]
 
 [msg D10_12_1st_passcode_lock_6 [Ryuji]]

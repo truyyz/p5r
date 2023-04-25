@@ -36,7 +36,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]É assim?[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Ryuji]]
-[s][bup 0 2 4 1 0][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Oh sim. Eu vejo algo que brilha.[n][f 1 3 65535][w][e]
+[s][bup 0 2 4 1 0][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Oh sim. Entendi algo que brilha.[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Makoto]]
 [s][bup 0 6 0 1 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Uma sepultura no deserto... Entendo.[n][f 1 3 65535][w][e]

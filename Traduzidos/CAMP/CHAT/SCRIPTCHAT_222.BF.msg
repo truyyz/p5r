@@ -18,7 +18,7 @@
 [s][f 5 14]Eu entendo você perfeitamente.[n][w][e]
 
 [msg MSG_036_0_0 [Mishima]]
-[s][f 5 14]No sentido de que depende de com quem[n]você está lidando? Eu vejo.[n][w][e]
+[s][f 5 14]No sentido de que depende de com quem[n]você está lidando? Entendi.[n][w][e]
 
 [msg MSG_037_0_0 [Mishima]]
 [s][f 5 14][f 5 15]Enfim, encerramos mais um caso![n][w][e]

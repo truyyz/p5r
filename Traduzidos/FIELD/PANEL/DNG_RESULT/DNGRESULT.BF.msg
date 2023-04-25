@@ -181,7 +181,7 @@
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]As Sombras estão ficando[n]mais e mais fortes.[n]Vamos nos preparar para a próxima vez.[n][w][e]
 
 [msg DNG_ADVANCE_Re_70_01_PC0_2 [Ann]]
-[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6117 65535 0]Eu vejo. Percorremos um longo caminho, hein?[n][w][e]
+[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6117 65535 0]Entendi. Percorremos um longo caminho, hein?[n][w][e]
 [s]Vamos nos preparar bem para a próxima vez que voltarmos. As Sombras[n]estão ficando mais fortes.[n][w][e]
 
 [msg DNG_ADVANCE_Re_70_01_PC0_3 [Yusuke]]

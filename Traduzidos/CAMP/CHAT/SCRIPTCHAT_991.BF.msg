@@ -44,7 +44,7 @@
 [s][f 5 14]Monte Fuji, um falcão[n]e uma berinjela.[n]Nesta ordem.[n][w][e]
 
 [msg MSG_016_0_0 [Ryuji]]
-[s][f 5 14]Direita! Vou me certificar de sonhar[n]essas coisas![n][w][e]
+[s][f 5 14]Tá certo! Vou me certificar de sonhar[n]essas coisas![n][w][e]
 
 [msg MSG_017_0_0 [Yusuke]]
 [s][f 5 14]Honestamente, duvido que você possa[n]forçar-se a ter[n]certos sonhos...[n][w][e]

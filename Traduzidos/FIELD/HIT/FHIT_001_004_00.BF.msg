@@ -421,7 +421,7 @@
 [s]Eu gostaria de fazer um presente.[e]
 
 [msg MSG_E65510400_FLOWER_001 [Hanasaki]]
-[s][vp 8 0 1 2 18 0]Eu vejo! Pois conte comigo![n][f 1 3 65535][w][e]
+[s][vp 8 0 1 2 18 0]Entendi! Pois conte comigo![n][f 1 3 65535][w][e]
 
 [msg MSG_E65510400_FLOWER_002 [Hanasaki]]
 [s][f 4 23 1 18 3 10 0 10][vp 8 0 1 3 18 0]É assim que deve ser. Tentei[n]torná-lo o mais simples possível.[n][f 1 3 65535][w][e]

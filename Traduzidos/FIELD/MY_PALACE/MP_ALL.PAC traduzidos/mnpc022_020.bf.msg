@@ -21,7 +21,7 @@
 [s][bup 0 4 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 35 10 0 10][vp 8 2 1 6048 65535 0]Eu pude ver! Ela lidava totalmente com[n]coisas importantes em uma mesa como essa.[n][w][e]
 
 [msg MES_GROUP2_02 [Ryuji]]
-[s][bup 0 2 12 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 42 10 0 10]Direita? Lá está ela, o chefe, chutando de[n]volta com um charuto e óculos de sol...[n][w][e]
+[s][bup 0 2 12 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 42 10 0 10]Certo? Lá está ela, o chefe, chutando de[n]volta com um charuto e óculos de sol...[n][w][e]
 
 [msg MES_GROUP2_03 [Makoto]]
 [s][bup 0 6 3 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 40 10 0 10][vp 8 2 1 2028 65535 0]Sobre o que você está dois?[n][w][e]

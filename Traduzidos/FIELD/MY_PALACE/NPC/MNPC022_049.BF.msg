@@ -27,7 +27,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Se a fé é mais forte que o destino,[n]você pode mudar o destino.[n][w][e]
 
 [msg MES_GROUP3_03 [Ann]]
-[s][bup 0 4 4 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 6135 65535 0]Eu vejo...[n][w][e]
+[s][bup 0 4 4 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 6135 65535 0]Entendi...[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Tem certeza de que esse é um conselho que um[n]vidente deve dar?[n][w][e]
 
 [msg MES_GROUP3_04 [Chihaya]]
@@ -46,7 +46,7 @@
 [s][bup 0 5 4 65535 0][f 4 10 65535 0 0][vp 8 2 1 4107 65535 0]Espiritual... Ótimo![n][w][e]
 
 [msg MES_GROUP7_01 [Futaba]]
-[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 51 10 50 10][vp 8 2 1 9089 65535 0]Eu vejo! Eu te vejo![n][w][e]
+[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 51 10 50 10][vp 8 2 1 9089 65535 0]Entendi! Eu te vejo![n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Há uma placa de vídeo que[n]sua doce filha deseja há[n]muito tempo...[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Compre agora e a sorte[n]vai sorrir para você![n][w][e]
 

@@ -1122,7 +1122,7 @@
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 6063 65535 0]Oh, que pena.[n][w][e]
 
 [msg MSG_YUSUKE_SPOT_CANCEL [Yusuke]]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 4026 65535 0]Eu vejo. Que pena...[n][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 4026 65535 0]Entendi. Que pena...[n][w][e]
 
 [msg MSG_MAKOTO_SPOT_CANCEL [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 2120 65535 0]Ah... mudou de ideia?[n][w][e]

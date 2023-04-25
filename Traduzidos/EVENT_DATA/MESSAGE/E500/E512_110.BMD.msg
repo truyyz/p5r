@@ -82,7 +82,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 31 3 0]E lembre-se, há mais pessoas[n]observando a humanidade do que[n]você imagina.[n][f 1 3 65535][w][e]
 
 [sel SEL_024_0_0 top]
-[s]Eu vejo.[e]
+[s]Entendi.[e]
 [s]O que você quer dizer?[e]
 
 [msg MSG_025_0_0 [Jose]]

@@ -49,7 +49,7 @@
 [s][bup 0 10 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Obrigado pela sua preocupação, senpai.[n]Vamos relaxar por hoje![n][w][e]
 
 [msg MSG_C22_ACTION_D09_31_12 [Sumire]]
-[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][f 4 23 1 222 3 10 0 10][vp 8 2 1 57027 65535 0]Eu vejo. Deixe-me saber quando você[n]decidiu o que fazer hoje, por favor.[n][w][e]
+[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][f 4 23 1 222 3 10 0 10][vp 8 2 1 57027 65535 0]Entendi. Deixe-me saber quando você[n]decidiu o que fazer hoje, por favor.[n][w][e]
 
 [msg MSG_C22_ACTION_D09_31_13 [Sumire]]
 [s][bup 0 10 0 65535 0][f 4 10 65535 0 0][f 4 23 1 222 3 10 0 10][vp 8 2 1 57026 65535 0]Ok! Farei o possível para não causar problemas a[n]você![n][w][e]
@@ -90,7 +90,7 @@
 [s][bup 0 10 0 65535 0][f 4 10 65535 0 0][f 4 23 1 222 3 10 0 10][vp 8 2 1 57039 65535 0]Muito obrigado! Então devemos[n]reunir todos![n][w][e]
 
 [msg MSG_C02_ACTION_D09_51_00 [Sumire]]
-[s][bup 0 10 3 65535 0][f 4 23 1 202 3 10 0 10][vp 8 2 1 2037 65535 0][f 4 10 65535 0 0]Eu vejo. Você terá planos[n]para hoje.[n][w][e]
+[s][bup 0 10 3 65535 0][f 4 23 1 202 3 10 0 10][vp 8 2 1 2037 65535 0][f 4 10 65535 0 0]Entendi. Você terá planos[n]para hoje.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 57179 65535 0]Mas se eu decidir reunir o grupo, estarei lá.[n]Basta notificar-me.[n][w][e]
 
 [msg MSG_C02_BEGIN_D09_50_01 [Sumire]]
@@ -473,7 +473,7 @@
 [s][bup 0 10 0 65535 0][f 4 10 65535 0 0][f 4 23 1 222 3 10 0 10][vp 8 2 1 57080 65535 0]Oh sério? Talvez outra hora![n][w][e]
 
 [msg MSG_C22_COOP_CANCEL_SMR [[f 4 31 10 0]]]
-[s][bup 0 10 3 65535 0][f 4 10 65535 0 0][f 4 23 1 222 3 10 0 10][vp 8 2 1 57055 65535 0]Eu vejo...[n][w][e]
+[s][bup 0 10 3 65535 0][f 4 10 65535 0 0][f 4 23 1 222 3 10 0 10][vp 8 2 1 57055 65535 0]Entendi...[n][w][e]
 [s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Então me procure quando tiver tempo, por favor.[n][w][e]
 
 [msg MSG_C22_BEGIN_D10_REV [Sumire]]
@@ -505,7 +505,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Tudo bem, então estou saindo...[n]Estou deixando Lady Ann em suas mãos.[n][w][e]
 
 [msg MSG_C22_COOP_CANCEL_REV [Sumire]]
-[s][bup 0 10 3 65535 0][f 4 10 65535 0 0][f 4 23 1 222 3 10 0 10][vp 8 2 1 57081 65535 0]Eu vejo. Avise-me quando tiver tempo, por favor.[n][w][e]
+[s][bup 0 10 3 65535 0][f 4 10 65535 0 0][f 4 23 1 222 3 10 0 10][vp 8 2 1 57081 65535 0]Entendi. Avise-me quando tiver tempo, por favor.[n][w][e]
 
 [msg MSG_C22_EVOLUTION_WAIT [Sumire]]
 [s][bup 0 10 2 65535 0][f 4 10 65535 0 0][f 4 23 1 222 3 10 0 10][vp 8 2 1 57045 65535 0]Me desculpe, hoje eu tenho alguns[n]pensamentos. Eu gostaria de ficar um pouco[n]sozinho.[n][w][e]

@@ -184,7 +184,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Aparentemente, esse tipo de amor perfeito[n]romântico dos filmes[n]toma conta de garotas como eu.[n][f 1 3 65535][w][e]
 
 [sel SEL_ANNE_1 top]
-[s]Eu vejo...[e]
+[s]Entendi...[e]
 [s]Compreensível.[e]
 
 [msg MSG_ANNE_2 [Ann]]

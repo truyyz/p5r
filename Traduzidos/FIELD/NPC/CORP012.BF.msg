@@ -453,7 +453,7 @@
 [s][bup 0 104 2 0 0][f 4 10 65535 0 0][f 4 23 1 212 49 10 40 10][vp 8 2 1 13104 65535 0]Tse... Tenho outras coisas para fazer.[n][w][e]
 
 [msg MSG_C12_CANCEL_07_00 [Iwai]]
-[s][bup 0 104 0 0 0][f 4 10 65535 0 0][f 4 23 1 212 49 10 40 10][vp 8 2 1 13064 65535 0]...Eu vejo. Entendido.[n][w][e]
+[s][bup 0 104 0 0 0][f 4 10 65535 0 0][f 4 23 1 212 49 10 40 10][vp 8 2 1 13064 65535 0]...Entendo. Entendido.[n][w][e]
 
 [msg MSG_SPOT_OPEN_KANDA]
 [s]Agora você pode ir para [clr 2]Kanda[clr 27].[n][w][e]

@@ -73,7 +73,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Gostaria de perguntar a ele sobre[n]um caso publicado[n]mês passado na revista médica.[n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Takemi]]
-[s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu vejo. Então teremos que nos virar[n]com o que temos...[n][f 1 3 65535][w][e]
+[s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Entendi. Então teremos que nos virar[n]com o que temos...[n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Takemi]]
 [s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não há uma prateleira perto do balcão da[n]recepção. Leve o conteúdo da segunda prateleira[n]para a sala de exames[n][f 1 3 65535][w][e]

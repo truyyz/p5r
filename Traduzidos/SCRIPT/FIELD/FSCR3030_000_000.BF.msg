@@ -69,7 +69,7 @@
 [s]Nada por enquanto.[e]
 
 [msg MSG_MyRoomTable_DvdQ [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1167 65535 0]Ah sim, você aluga[n]alguma coisa, certo?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1167 65535 0]Ah sim, você alugou[n]alguma coisa, certo?[n][w][e]
 
 [msg MSG_DVDNotHave [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1165 65535 0]Você tem um DVD player. Por que[n]você não aluga um DVD[n]algum dia?[n][w][e]

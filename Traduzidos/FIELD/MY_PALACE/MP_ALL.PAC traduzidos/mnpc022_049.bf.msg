@@ -27,7 +27,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Se sua fé brilhar mais que o seu destino,[n]você pode mudar qualquer destino.[n][w][e]
 
 [msg MES_GROUP3_03 [Ann]]
-[s][bup 0 4 4 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 6135 65535 0]Eu vejo...[n][w][e]
+[s][bup 0 4 4 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 6135 65535 0]Entendi...[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Tem certeza de que esse é o conselho que[n]você deve dar como contador de fortuna?[n][w][e]
 
 [msg MES_GROUP3_04 [Chihaya]]

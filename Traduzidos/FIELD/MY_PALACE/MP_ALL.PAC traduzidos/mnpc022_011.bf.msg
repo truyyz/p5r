@@ -75,7 +75,7 @@
 [s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 42 10 0 10]Seria tolice não aproveitar esta[n]oportunidade para incorporar esses[n]conceitos em uma obra de arte.[n][w][e]
 
 [msg MES_GROUP4_03 [Akechi]]
-[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 50 10 50 10][vp 8 2 1 54502 65535 0]Eu vejo. Bem, você se diverte com isso.[n][w][e]
+[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 50 10 50 10][vp 8 2 1 54502 65535 0]Entendi. Bem, você se diverte com isso.[n][w][e]
 
 [msg MES_GROUP4_04 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 3 10 0 10]Ah, antes de ir. Você teria a gentileza de[n]me mostrar sua própria personalidade?[n][w][e]

@@ -70,7 +70,7 @@
 
 [msg MES_GROUP4_03 [Sae]]
 [s][bup 0 105 4 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 21040 65535 0]Sakura-san...[n][w][e]
-[s][bup 0 105 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]...Eu vejo. Obrigada.[n][w][e]
+[s][bup 0 105 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]...Entendo. Obrigada.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Posso parar para tomar café novamente no[n]futuro?[n][w][e]
 
 [msg MES_GROUP4_04 [Sojiro]]

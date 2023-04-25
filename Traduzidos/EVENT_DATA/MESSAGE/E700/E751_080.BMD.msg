@@ -31,7 +31,7 @@
 [s][bup 0 106 0 4 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Você gostaria de[n]jantar juntos?[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Hifumi]]
-[s][bup 0 106 1 4 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Eu vejo. Sim, acho que[n]tudo bem...[n][f 1 3 65535][w][e]
+[s][bup 0 106 1 4 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Entendi. Sim, acho que[n]tudo bem...[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Hifumi]]
 [s][bup 0 106 1 4 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Procuramos um restaurante![n][f 1 3 65535][w][e]

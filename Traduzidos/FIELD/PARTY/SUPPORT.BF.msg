@@ -581,7 +581,7 @@
 [s][vp 8 2 1 4119 65535 0]O que é esse objeto de aparência sinistra? É[n]horrível... mas também encantador![n][f 1 2 99][e]
 
 [msg D153_support_mes12_B]
-[s][vp 8 2 1 1155 65535 0]Eu as chamo de Sementes da Ganância.[n]Existem algumas escondidas[n]em cada Palácio.[n][f 1 2 96][e]
+[s][vp 8 2 1 1155 65535 0]Eu as chamo de Sementes da Vontade.[n]Existem algumas escondidas[n]em cada Palácio.[n][f 1 2 96][e]
 
 [msg D153_support_mes13_A]
 [s][vp 8 2 1 4048 65535 0]Há outros? Ótimo![n]Se os encontrarmos,[n]nós os levaremos também.[n][f 1 2 96][e]
@@ -593,7 +593,7 @@
 [s][vp 8 2 1 4119 65535 0]O que é esse objeto de aparência sinistra? É[n]horrível... mas também encantador![n][f 1 2 99][e]
 
 [msg D153_support_mes14_B]
-[s][vp 8 2 1 1155 65535 0]Eu as chamo de Sementes da Ganância.[n]Existem algumas escondidas[n]em cada Palácio.[n][f 1 2 96][e]
+[s][vp 8 2 1 1155 65535 0]Eu as chamo de Sementes da Vontade.[n]Existem algumas escondidas[n]em cada Palácio.[n][f 1 2 96][e]
 
 [msg D153_support_mes15_A]
 [s][vp 8 2 1 4048 65535 0]Há outros? Ótimo![n]Se os encontrarmos,[n]nós os levaremos também.[n][f 1 2 96][e]
@@ -605,7 +605,7 @@
 [s][vp 8 2 1 4119 65535 0]O que é esse objeto de aparência sinistra? É[n]horrível... mas também encantador![n][f 1 2 99][e]
 
 [msg D153_support_mes16_B]
-[s][vp 8 2 1 1155 65535 0]Eu as chamo de Sementes da Ganância.[n]Existem algumas escondidas[n]em cada Palácio.[n][f 1 2 96][e]
+[s][vp 8 2 1 1155 65535 0]Eu as chamo de Sementes da Vontade.[n]Existem algumas escondidas[n]em cada Palácio.[n][f 1 2 96][e]
 
 [msg D153_support_mes17_A]
 [s][vp 8 2 1 4048 65535 0]Há outros? Ótimo![n]Se os encontrarmos,[n]nós os levaremos também.[n][f 1 2 96][e]
@@ -674,7 +674,7 @@
 [s][vp 8 2 1 1167 65535 0]Oh?!? Eu percebo...[n][f 1 2 27][e]
 
 [msg D154_support_mes11_B]
-[s][vp 8 2 1 1052 65535 0]...Sim, sinto uma Semente[n]de ganância por aqui![n]Vamos encontrá-lo![n][f 1 2 55][e]
+[s][vp 8 2 1 1052 65535 0]...Sim, sinto uma Semente[n]da Vontade por aqui![n]Vamos encontrá-lo![n][f 1 2 55][e]
 
 [msg D154_support_mes12_A]
 [s][vp 8 2 1 7159 65535 0]Já não[n]encaminhamos um?[n][f 1 2 55][e]
@@ -878,7 +878,7 @@
 [s][vp 8 2 1 1019 65535 0]É algum tipo de console?[n]Parece um pouco estranho.[n][f 1 2 77][e]
 
 [msg D156_support_mes19_A]
-[s][vp 8 2 1 1157 65535 0]As Sementes da Ganância são encontradas em[n]lugares com desejos altamente distorcidos.[n]Elas são quase tão raras quanto os Tesouros![n][f 1 2 90][e]
+[s][vp 8 2 1 1157 65535 0]As Sementes da Vontade são encontradas em[n]lugares com desejos altamente distorcidos.[n]Elas são quase tão raras quanto os Tesouros![n][f 1 2 90][e]
 
 [msg D156_support_mes19_B]
 [s][vp 8 2 1 3133 65535 0]Eu entendo...então não há razão[n]para deixá-los onde estão.[n][f 1 2 65][e]
@@ -1013,7 +1013,7 @@
 [s][vp 8 2 1 1156 65535 0]Vamos ser mais[n]pacientes desta vez, ok?[n][f 1 2 45][e]
 
 [msg D162_support_mes10_A]
-[s][vp 8 2 1 57064 65535 0]Eu vejo o topo![n]Estamos quase lá![n][f 1 2 45][e]
+[s][vp 8 2 1 57064 65535 0]Entendi o topo![n]Estamos quase lá![n][f 1 2 45][e]
 
 [msg D162_support_mes11_A]
 [s][vp 8 2 1 7041 65535 0]ISSO não pode acontecer![n][f 1 2 25][e]
@@ -1547,10 +1547,10 @@
 [s][vp 1 0 0 12012 0 0]Uma das sementes de ganância de[n]Kamoshida, hein? Bem, ainda é dele[n]por um tempo... vamos pegar![n][f 1 6 65535][e]
 
 [msg FIND_SEED_PC02_mes02]
-[s][vp 1 0 0 12013 0 0]Ei, uma semente de luxúria![n]Vamos lá![n][f 1 6 65535][e]
+[s][vp 1 0 0 12013 0 0]Ei, uma Semente da Vontade![n]Vamos lá![n][f 1 6 65535][e]
 
 [msg FIND_SEED_PC02_mes03]
-[s][vp 1 0 0 12014 0 0]Isso é uma semente de luxúria,[n]não é? Ótimo até agora.[n][f 1 6 65535][e]
+[s][vp 1 0 0 12014 0 0]Isso é uma Semente da Vontade,[n]não é? Ótimo até agora.[n][f 1 6 65535][e]
 
 [msg GET_SEED_PC02_mes01]
 [s][vp 1 0 0 12015 0 0]Sim! Eis a segunda Semente de[n]cobiça![n][f 1 6 65535][e]
@@ -2084,7 +2084,7 @@
 [s][vp 1 0 0 13011 0 0]Olhar. Você pode usar seu[n]gancho, aqui.[n][f 1 6 65535][e]
 
 [msg FIND_SEED_PC03_mes01]
-[s][vp 1 0 0 13012 0 0]Uma das Sementes de Luxúria de Madarame[n]...Vamos Pegar![n][f 1 6 65535][e]
+[s][vp 1 0 0 13012 0 0]Uma das Sementes da Vontade de Madarame[n]...Vamos Pegar![n][f 1 6 65535][e]
 
 [msg FIND_SEED_PC03_mes02]
 [s][vp 1 0 0 13013 0 0]Ei, outra Seed of Lust,[n]além! Você tem nariz, Joker![n][f 1 6 65535][e]
@@ -2093,10 +2093,10 @@
 [s][vp 1 0 0 13014 0 0]Encontramos uma das Sementes[n]ganância de Shido! Em quantos estamos?[n][f 1 6 65535][e]
 
 [msg GET_SEED_PC03_mes01]
-[s][vp 1 0 0 13015 0 0]A primeira Semente da ganância[n]deste Palácio...[n]Continuamos a vasculhar a área.[n][f 1 6 65535][e]
+[s][vp 1 0 0 13015 0 0]A primeira Semente da Vontade[n]deste Palácio...[n]Continuamos a vasculhar a área.[n][f 1 6 65535][e]
 
 [msg GET_SEED_PC03_mes02]
-[s][vp 1 0 0 13016 0 0]Outra Semente da Ganância![n]Deve ser a última.[n][f 1 6 65535][e]
+[s][vp 1 0 0 13016 0 0]Outra Semente da Vontade![n]Deve ser a última.[n][f 1 6 65535][e]
 
 [msg GET_SEED_PC03_mes03]
 [s][vp 1 0 0 13017 0 0]Uma semente de ganância! Bem,[n]é o último no Palácio.[n][f 1 6 65535][e]
@@ -2885,7 +2885,7 @@
 [s][vp 1 0 0 4095 0 0]Ei, posso cuidar disso?[n][f 1 6 65535][e]
 
 [msg D_MAP_PEN_PC04_mes01]
-[s][vp 1 0 0 4096 0 0]Eu vejo. Tomo nota...[n][f 1 6 65535][e]
+[s][vp 1 0 0 4096 0 0]Entendi. Tomo nota...[n][f 1 6 65535][e]
 
 [msg D_MAP_PEN_PC04_mes02]
 [s][vp 1 0 0 4097 0 0]Eu coloquei por escrito.[n]Melhor não esquecer![n][f 1 6 65535][e]
@@ -3122,7 +3122,7 @@
 [s][vp 1 0 0 14012 0 0]Outra Seed of Lust, hein?[n]Vamos pegá-lo.[n][f 1 6 65535][e]
 
 [msg FIND_SEED_PC04_mes02]
-[s][vp 1 0 0 14013 0 0]Oh, uma das Sementes da Ganância de Kamoshida![n]Vamos pegá-lo![n][f 1 6 65535][e]
+[s][vp 1 0 0 14013 0 0]Oh, uma das Sementes da Vontade de Kamoshida![n]Vamos pegá-lo![n][f 1 6 65535][e]
 
 [msg FIND_SEED_PC04_mes03]
 [s][vp 1 0 0 14014 0 0]Boneco[n][f 1 6 65535][e]
@@ -4202,7 +4202,7 @@
 [s][vp 1 0 0 16012 0 0]Nós encontramos uma das Seeds[n]of Lust de Kaneshiro...[n]Vamos pegá-lo.[n][f 1 6 65535][e]
 
 [msg FIND_SEED_PC06_mes02]
-[s][vp 1 0 0 16013 0 0]Kaneshiro roubou muitas[n]pessoas... Agora somos nós que pegamos[n]suas sementes de luxúria. Carma![n][f 1 6 65535][e]
+[s][vp 1 0 0 16013 0 0]Kaneshiro roubou muitas[n]pessoas... Agora somos nós que pegamos[n]suas Sementes da Vontade. Carma![n][f 1 6 65535][e]
 
 [msg FIND_SEED_PC06_mes03]
 [s][vp 1 0 0 16014 0 0]Uma semente da luxúria da minha[n]irmã... eu vou pegá-la.[n][f 1 6 65535][e]
@@ -4751,7 +4751,7 @@
 [s][vp 1 0 0 17015 0 0]Esta é a nossa segunda Semente.[n]Estamos indo muito bem![n][f 1 6 65535][e]
 
 [msg GET_SEED_PC07_mes02]
-[s][vp 1 0 0 17016 0 0]A terceira Semente da ganância...[n]Agora é nossa. Perdoe-me, pai.[n][f 1 6 65535][e]
+[s][vp 1 0 0 17016 0 0]A terceira Semente da Vontade...[n]Agora é nossa. Perdoe-me, pai.[n][f 1 6 65535][e]
 
 [msg GET_SEED_PC07_mes03]
 [s][vp 1 0 0 17017 0 0]......[n][f 1 6 65535][e]
@@ -5279,7 +5279,7 @@
 [s][vp 1 0 0 18011 0 0]Espere, Joker... Acho que seu[n]gancho pode ser útil aqui.[n][f 1 6 65535][e]
 
 [msg FIND_SEED_PC08_mes01]
-[s][vp 1 0 0 18012 0 0]Sim, uma Semente da Ganância![n]Vamos roubá-la![n][f 1 6 65535][e]
+[s][vp 1 0 0 18012 0 0]Sim, uma Semente da Vontade![n]Vamos roubá-la![n][f 1 6 65535][e]
 
 [msg FIND_SEED_PC08_mes02]
 [s][vp 1 0 0 18013 0 0]Ótimo, uma semente de ganância![n]Vamos nos renomear Phantom Thieves[n]of Seeds![n][f 1 6 65535][e]
@@ -5291,7 +5291,7 @@
 [s][vp 1 0 0 18015 0 0]Aqui está nossa primeira Seed of[n]ganância... Vamos lá![n][f 1 6 65535][e]
 
 [msg GET_SEED_PC08_mes02]
-[s][vp 1 0 0 18016 0 0]Excelente, nossa segunda Semente[n]de cobiça. Muito bem, Joker.[n][f 1 6 65535][e]
+[s][vp 1 0 0 18016 0 0]Excelente, nossa segunda Semente[n]da Vontade. Muito bem, Joker.[n][f 1 6 65535][e]
 
 [msg GET_SEED_PC08_mes03]
 [s][vp 1 0 0 18017 0 0]......[n][f 1 6 65535][e]
@@ -5585,7 +5585,7 @@
 [s][vp 1 0 0 8257 0 0]Para mim é simples.[n][f 1 6 65535][e]
 
 [msg D_NAVI_ACT_START_PC08_me_2]
-[s][vp 1 0 0 8258 0 0]Oh, eu vejo! Então é assim[n]é![n][f 1 6 65535][e]
+[s][vp 1 0 0 8258 0 0]Oh, Entendi! Então é assim[n]é![n][f 1 6 65535][e]
 
 [msg D_NAVI_ACT_START_PC08_me_3]
 [s][vp 1 0 0 8259 0 0]Eu faço isso imediatamente![n][f 1 6 65535][e]
@@ -6320,7 +6320,7 @@
 [s][vp 1 0 0 19013 0 0]Identificamos uma Semente[n]da ganância. Vamos possuí-lo.[n][f 1 6 65535][e]
 
 [msg FIND_SEED_PC09_mes03]
-[s][vp 1 0 0 19014 0 0]Uma de SUAS Sementes[n]de luxúria está aqui.[n]Vamos levá-la embora.[n][f 1 6 65535][e]
+[s][vp 1 0 0 19014 0 0]Uma de suas Sementes[n]da Vontade está aqui.[n]Vamos levá-la embora.[n][f 1 6 65535][e]
 
 [msg GET_SEED_PC09_mes01]
 [s][vp 1 0 0 19015 0 0]A primeira Seed of Greed...[n]Muito obrigado, Sae-san.[n][f 1 6 65535][e]
@@ -7007,7 +7007,7 @@
 [s][vp 1 0 0 10114 0 0]Há uma Sombra ameaçadora![n][f 1 6 65535][e]
 
 [msg D_COVER_B_PC10_mes02]
-[s][vp 1 0 0 10115 0 0]Eu vejo uma sombra! Parece[n]bastante forte...[n][f 1 6 65535][e]
+[s][vp 1 0 0 10115 0 0]Entendi uma sombra! Parece[n]bastante forte...[n][f 1 6 65535][e]
 
 [msg D_COVER_B_PC10_mes03]
 [s][vp 1 0 0 10116 0 0]Agora que é uma sombra[n]ameaçadora. Vamos torcer para não[n]ter que lutar contra isso.[n][f 1 6 65535][e]
@@ -7196,7 +7196,7 @@
 [s][vp 1 0 0 20015 0 0]E então, esta é uma semente de[n]ganância? É... assustador, hein?[n][f 1 6 65535][e]
 
 [msg GET_SEED_PC10_mes02]
-[s][vp 1 0 0 20016 0 0]Aqui está a terceira Semente da Ganância.[n]É absurdo que os desejos do Doutor[n]Maruki tenham assumido esta forma.[n][f 1 6 65535][e]
+[s][vp 1 0 0 20016 0 0]Aqui está a terceira Semente da Vontade.[n]É absurdo que os desejos do Doutor[n]Maruki tenham assumido esta forma.[n][f 1 6 65535][e]
 
 [msg GET_SEED_PC10_mes03]
 [s][vp 1 0 0 20017 0 0]Manequim[n][f 1 6 65535][e]
@@ -8462,7 +8462,7 @@
 [s][vp 1 0 0 4571 0 0]Então é assim que se sente[n]ser um vencedor.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC04_mes572]
-[s][vp 1 0 0 4572 0 0]Eu vejo você bastante carregado! Mas como você[n]fala sobre isso, você parece uma criança.[n][f 1 6 65535][e]
+[s][vp 1 0 0 4572 0 0]Entendi você bastante carregado! Mas como você[n]fala sobre isso, você parece uma criança.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC04_mes573]
 [s][vp 1 0 0 4573 0 0]Oh Deus![n][f 1 6 65535][e]
@@ -10922,7 +10922,7 @@
 [s][vp 1 0 0 8614 0 0]Eu nunca tenho tempo suficiente.[n]Eu quero fazer tantas coisas![n][f 1 6 65535][e]
 
 [msg D_CAR__PC08_mes615]
-[s][vp 1 0 0 8615 0 0]Oh, eu vejo! Você é fanático por trens,[n]hein Inari?[n][f 1 6 65535][e]
+[s][vp 1 0 0 8615 0 0]Oh, Entendi! Você é fanático por trens,[n]hein Inari?[n][f 1 6 65535][e]
 
 [msg D_CAR__PC08_mes616]
 [s][vp 1 0 0 8616 0 0]Ei, seu rosto está muito pálido.[n]Oh espere...é normal para você.[n][f 1 6 65535][e]
@@ -11657,7 +11657,7 @@
 [s][vp 1 0 0 12605 0 0]O suficiente! Ouvir[n]sobre essas coisas me[n]vomita.[n][f 1 6 65535][e]
 
 [msg D_CAR_PC02_mes10606]
-[s][vp 1 0 0 12606 0 0]Direita! Eu concordo![n][f 1 6 65535][e]
+[s][vp 1 0 0 12606 0 0]Tá certo! Eu concordo![n][f 1 6 65535][e]
 
 [msg D_CAR_PC02_mes10607]
 [s][vp 1 0 0 12607 0 0]Quanto a correr. Eles mostram apenas[n]a parte internacional.[n][f 1 6 65535][e]

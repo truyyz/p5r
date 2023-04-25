@@ -15,7 +15,7 @@
 [s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Vou voltar para os dormitórios... e começar[n]do zero, conversando com[n]pessoas ao meu redor.[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Sojiro]]
-[s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Eu vejo. Bem, bom para você.[n]Você fez uma autocrítica saudável.[n][f 1 3 65535][w][e]
+[s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Entendi. Bem, bom para você.[n]Você fez uma autocrítica saudável.[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Ah, não vamos exagerar. Às vezes[n]posso passar por aqui?[n]Gostaria de tomar seu café novamente.[n][f 1 3 65535][w][e]
@@ -59,7 +59,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Aqui ela pode adicionar um pouco de cor a[n]um dia comum.[n]Minha mãe teria feito o mesmo.[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Sojiro]]
-[s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]...Eu vejo. Então eu vou[n]cuidar disso para você.[n][f 1 3 65535][w][e]
+[s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]...Entendo. Então eu vou[n]cuidar disso para você.[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Yusuke]]
 [s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 26 65535 0]Obrigado pelo café.[n][f 1 3 65535][w][e]

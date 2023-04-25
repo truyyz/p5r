@@ -141,7 +141,7 @@
 [s][vp 8 2 1 0 0 0]Eu nunca nem falei com ele...[n]é como quando as celebridades morrem.[n][w][e]
 
 [msg MSG_GARAKEIJYOSI_012_2_0 [Estudante elegante]]
-[s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Eu vejo. Muita coisa aconteceu na sua escola este[n]ano.[n][w][e]
+[s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Entendi. Muita coisa aconteceu na sua escola este[n]ano.[n][w][e]
 
 [msg MSG_GARAKEIJYOSI_013_0_0 [Shujin garota na mão]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]A carta de aviso era para o pai de[n]Okumura-senpai. Eu não[n]sabia. Deve ser difícil para ela.[n][w][e]

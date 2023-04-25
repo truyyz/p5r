@@ -31,7 +31,7 @@
 [s][vp 1 0 0 0 0 0][f 4 25 1 806 0 0]Sim. A paixão que Madarame coloca[n]em suas obras é inegável.[n]Você também vai sentir, vai ver.[n][w][e]
 
 [msg MSG_193_104_LADIES_02 [Mulher hesitante]]
-[s][f 4 23 1 805 3 10 0 0][vp 8 2 1 0 805 0]Eu vejo. Também ouvi falar tanto[n]bom sobre o programa na TV.[n]Mal posso esperar![n][w][e]
+[s][f 4 23 1 805 3 10 0 0][vp 8 2 1 0 805 0]Entendi. Também ouvi falar tanto[n]bom sobre o programa na TV.[n]Mal posso esperar![n][w][e]
 
 [msg MSG_193_104_COUPLE_00 [Homem apático]]
 [s][f 4 23 1 807 3 10 0 0][vp 8 2 1 0 807 0]De repente você sentiu vontade de[n]ir à exposição de Madarame?[n]Mas você não está interessado em arte.[n][w][e]

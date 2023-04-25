@@ -42,7 +42,7 @@
 
 [msg MSG_014_0_0 [Caroline]]
 [s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 26 65535 0]Tantas pessoas na cidade[n]possuem talentos que carecem[n]de um fraco como você.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 27 65535 0]É melhor você trabalhar sua[n]abóbora para trazê-los para o seu[n]lado. Você ganhará poder.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 27 65535 0]É melhor você trabalhar sua[n]cachola para trazê-los para o seu[n]lado. Vamos converter isso em poder.[n][f 1 3 65535][w][e]
 
 [msg MSG_014_5_0 [Igor]]
 [s][bup 0 201 0 0 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]Sim. Você vai precisar[n]mesmo de mim, ou suas[n]ambições não se concretizarão.[n][f 1 3 65535][w][e]

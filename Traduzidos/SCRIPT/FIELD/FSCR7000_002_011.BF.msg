@@ -53,7 +53,7 @@
 [s]やめておく[e]
 
 [msg MSG_GetPlant_Cancel [Haru]]
-[s][bup 0 7 3 65535 0]Eu vejo. Bem, lembre-se de[n]pegá-lo logo.[n][w][e]
+[s][bup 0 7 3 65535 0]Entendi. Bem, lembre-se de[n]pegá-lo logo.[n][w][e]
 
 [msg MSG_GetPlant_Pattern01 [Haru]]
 [s][bup 0 7 1 65535 0]Veja como cresce bem![n]É um dos melhores espécimes[n]que já vi![n][w][e]

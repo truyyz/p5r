@@ -1,5 +1,5 @@
 [msg MSG_000_0_0 [Iwai]]
-[s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 2 0 13021 65535 0]Eu vejo. Sim, a comida parece[n]deliciosa...e não posso[n]reclamar da variedade.[n][f 1 3 65535][w][e]
+[s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 2 0 13021 65535 0]Entendi. Sim, a comida parece[n]deliciosa...e não posso[n]reclamar da variedade.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas olha...só hoje,[n]de todos os dias,[n]tem cardápio especial...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O que você sente vontade de comer?[n][f 1 3 65535][w][e]
 

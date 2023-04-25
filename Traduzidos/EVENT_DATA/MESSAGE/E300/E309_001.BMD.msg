@@ -150,7 +150,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 67 65535 0]Se passarmos[n]um dia inteiro com ela, talvez ela[n]comece a se acostumar com a nossa presença.[n][f 1 3 65535][w][e]
 
 [msg MSG_057_0_0 [Yusuke]]
-[s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 68 65535 0]Eu vejo. Tempo não falta,[n]graças às férias de verão.[n][f 1 3 65535][w][e]
+[s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 68 65535 0]Entendi. Tempo não falta,[n]graças às férias de verão.[n][f 1 3 65535][w][e]
 
 [msg MSG_058_0_0 [Makoto]]
 [s][bup 0 6 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 69 65535 0]Podemos começar amanhã.[n][f 1 3 65535][w][e]

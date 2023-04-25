@@ -5,7 +5,7 @@
 [s][bup 0 103 2 0 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Não tenho mais nada[n]para falar sobre isso.[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Sae]]
-[s][bup 0 105 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Eu vejo. Nesse caso,[n]terei que recorrer a outros[n]métodos, para fazê-la falar.[n][f 1 3 65535][w][e]
+[s][bup 0 105 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Entendi. Nesse caso,[n]terei que recorrer a outros[n]métodos, para fazê-la falar.[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Sojiro]]
 [s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]Huh? E o que você gostaria com isso...[n][f 1 3 65535][w][e]

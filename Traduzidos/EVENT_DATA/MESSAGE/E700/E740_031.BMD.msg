@@ -55,11 +55,11 @@
 [s]Aceite a triste realidade.[e]
 
 [msg MSG_015_0_0 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu vejo. Então eu tenho que dizer a mim mesmo que[n]não quero nenhum peixe.[n][f 1 3 65535][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Entendi. Então eu tenho que dizer a mim mesmo que[n]não quero nenhum peixe.[n][f 1 3 65535][w][e]
 [s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Não, não pode funcionar. Eu[n]pedi conselhos porque[n]QUERO pescar.[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu vejo. Então, quando você fica[n]entediado como Kawakami,[n]o peixe morde naturalmente...[n][f 1 3 65535][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Entendi. Então, quando você fica[n]entediado como Kawakami,[n]o peixe morde naturalmente...[n][f 1 3 65535][w][e]
 [s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Hum, acho que não funciona.[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Kawakami]]

@@ -67,7 +67,7 @@
 [s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Parece que já está desativado.[n][w][e]
 
 [msg D07_02_e411_010_mes03 [Ryuji]]
-[s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7045 65535 0]FIGO. Então passar por aqui[n]deve ser bastante fácil.[n][w][e]
+[s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7045 65535 0]Legal. Então passar por aqui[n]deve ser bastante fácil.[n][w][e]
 
 [msg D07_02_e411_010_AF_mes01 [Futaba]]
 [s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9155 65535 0]Quando ativa, esta estátua[n]nos transforma em ratos[n]quando nos aproximamos dela.[n][w][e]

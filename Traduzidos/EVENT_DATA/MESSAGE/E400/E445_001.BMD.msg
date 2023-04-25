@@ -143,7 +143,7 @@
 [s]Sim. Por justiça.[e]
 
 [msg MSG_062_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 87 65535 0]...Eu vejo. Bom.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 87 65535 0]...Entendo. Bom.[n][f 1 3 65535][w][e]
 
 [msg MSG_063_0_0 [Ann]]
 [s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 88 65535 0]Sim, isso mesmo![n][f 1 3 65535][w][e]

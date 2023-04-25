@@ -2,7 +2,7 @@
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]Oh! Momento perfeito.[n]Tem um segundo?[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Futaba]]
-[s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]FIGO. Eu só queria te dar[n]algo.[n][f 1 3 65535][w][e]
+[s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Legal. Eu só queria te dar[n]algo.[n][f 1 3 65535][w][e]
 [s][bup 0 8 3 65535 0][f 4 10 65535 0 0][f 4 24 0 4 6 38 5 100][vp 8 0 0 3 65535 0]Não se preocupe, não é nada estranho.[n]Mas se Sojiro visse, ele pensaria[n]mau e enlouqueceria.[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Futaba]]

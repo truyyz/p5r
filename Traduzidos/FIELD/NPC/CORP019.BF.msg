@@ -421,7 +421,7 @@
 [s][bup 0 112 0 0 0][f 4 23 1 219 3 10 0 10]Bem, então... vamos nos preparar para o discurso.[n][w][e]
 
 [msg MSG_C19_CANCEL_00_00 [Yoshida]]
-[s][bup 0 112 0 0 0][f 4 10 65535 0 0][f 4 23 1 219 3 10 0 10][vp 8 2 1 20064 65535 0]Eu vejo. Renovarei minha solicitação[n]no próximo dia livre.[n][w][e]
+[s][bup 0 112 0 0 0][f 4 10 65535 0 0][f 4 23 1 219 3 10 0 10][vp 8 2 1 20064 65535 0]Entendi. Renovarei minha solicitação[n]no próximo dia livre.[n][w][e]
 
 [msg MSG_SPOT_OPEN_KANDA]
 [s]Agora você pode ir para [clr 1]Kanda[clr 27].[n][w][e]

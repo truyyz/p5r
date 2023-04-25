@@ -204,7 +204,7 @@
 [s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 93 65535 0]M-Me desculpe. Eu tinha outros[n]planos para hoje...[n][f 1 3 65535][w][e]
 
 [msg MSG_068_0_0 [Akechi]]
-[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 94 65535 0]Eu vejo. É uma pena.[n][f 1 3 65535][w][e]
+[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 94 65535 0]Entendi. É uma pena.[n][f 1 3 65535][w][e]
 
 [msg MSG_069_0_0 [Haru]]
 [s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 95 65535 0]Você vai contar para sua irmã?[n][f 1 3 65535][w][e]
@@ -236,7 +236,7 @@
 [s][bup 0 3 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 102 65535 0]Bem, não há nada que possamos fazer sobre isso...[n][f 1 3 65535][w][e]
 
 [msg MSG_078_0_0 [Morgana]]
-[s][bup 0 3 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 103 65535 0]Eu vejo. Esperemos...[n][f 1 3 65535][w][e]
+[s][bup 0 3 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 103 65535 0]Entendi. Esperemos...[n][f 1 3 65535][w][e]
 
 [msg MSG_079_0_0 [Morgana]]
 [s][bup 0 3 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 104 65535 0]Eu não faço ideia. Espero que seja apenas[n]minha imaginação...[n][f 1 3 65535][w][e]
