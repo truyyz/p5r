@@ -194,7 +194,7 @@
 [s]Mesmo conhecendo o caminho reto, escolha[n]não segui-lo... O Pai[n]existe para amenizar certas fragilidades.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_04_R_2]
-[s]Entendi bem nessa sua[n]faísca de compreensão.[n]Liberte-se do seu passado horrível.[n][w][e]
+[s]Eu vejo bem nessa sua[n]faísca de compreensão.[n]Liberte-se do seu passado horrível.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_04_R_3]
 [s]Esse poder é um dom do Pai.[n]No entanto, percebo orgulho[n]em suas palavras. Eu estou errado?[n][w][e]
@@ -719,7 +719,7 @@
 [s]Eu não esperava tamanha estreiteza mental.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_05_R_6]
-[s]Este aspecto da sua[n]personalidade é o motivo pelo qual[n]Entendi você como uma criança.[n][w][e]
+[s]Este aspecto da sua[n]personalidade é o motivo pelo qual[n]eu vejo você como uma criança.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_05_R_7]
 [s]Não pretendo entristecer o Padre[n]com uma discussão inútil.[n][w][e]

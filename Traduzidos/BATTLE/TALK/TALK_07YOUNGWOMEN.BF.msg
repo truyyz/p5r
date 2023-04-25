@@ -1490,7 +1490,7 @@
 [s]Eu não agüento mais![n][w][e]
 
 [msg TalkMsg_GUY_RESULT_ENEMY_5]
-[s]Ei, Entendi algo[n]que brilha, ali...[n][w][e]
+[s]Ei, eu vejo algo[n]que brilha, ali...[n][w][e]
 [s]Odiar! É um amor![n][w][e]
 
 [msg TalkMsg_GUY_RESULT_ENEMY_6]
