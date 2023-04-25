@@ -4334,7 +4334,7 @@
 
 [msg MSG_TEMPLE_MASTER_001_01 [Monge bonito]]
 [s][f 4 23 1 15 3 10 0 10][vp 8 2 1 0 15 0]Rapaz, o que te traz aqui? Oh...[n][w][e]
-[s][vp 8 2 1 0 15 0]...Em seus olhos Entendi[n]emoções muito intensas.[n][w][e]
+[s][vp 8 2 1 0 15 0]...Em seus olhos vejo[n]emoções muito intensas.[n][w][e]
 [s][vp 8 2 1 0 15 0]A paixão não é uma coisa ruim,[n]desde que você entenda quando[n]acalmar seu coração...[n][w][e]
 [s][vp 8 2 1 0 15 0]Por que você não passa um pouco[n]aqui hoje, sozinho e quieto? O silêncio[n]pode lhe trazer conselhos.[n][w][e]
 

@@ -108,7 +108,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 3 10 0 10]Eu estava apenas declarando os fatos.[n][w][e]
 
 [msg MES_GROUP8_04 [Morgana]]
-[s][bup 0 3 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 1175 65535 0]Ohh, Entendi como é! Então você realmente se[n]importava comigo, hmmm?[n][w][e]
+[s][bup 0 3 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 1175 65535 0]Ohh, entendi como é! Então você realmente se[n]importava comigo, hmmm?[n][w][e]
 
 [msg MES_GROUP8_05 [Ryuji]]
 [s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 33 10 0 10]Hrgh...![n][w][e]

@@ -98,7 +98,7 @@
 [s][bup 0 106 0 65535 0][f 4 10 65535 0 0][f 4 23 1 217 14 10 13 10][vp 8 2 1 18028 65535 0]Está muito quente lá fora, mas aqui dentro o ar[n]está fresco e eu consigo pensar com clareza.[n][w][e]
 
 [msg MSG_C17_BEGIN_WEATHER_07 [Hifumi]]
-[s][bup 0 106 0 65535 0][f 4 10 65535 0 0][f 4 23 1 217 14 10 13 10][vp 8 2 1 18028 65535 0]Entendi muitas pessoas usando máscaras. Acho que[n]é por causa da gripe...[n][w][e]
+[s][bup 0 106 0 65535 0][f 4 10 65535 0 0][f 4 23 1 217 14 10 13 10][vp 8 2 1 18028 65535 0]Eu vejo muitas pessoas usando máscaras. Acho que[n]é por causa da gripe...[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Espero que você também seja[n]cuidadoso, [f 4 1]-kun.[n][w][e]
 
 [msg MSG_C17_BEGIN_WEATHER_08 [Hifumi]]
