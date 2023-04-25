@@ -1,8 +1,8 @@
 [msg D01_RESULT_TXT01]
-[s]castelo infiltrado[n][w][e]
+[s]Castelo Infiltrado[n][w][e]
 
 [msg D01_RESULT_TXT02]
-[s]Sala segura encontrada[n][w][e]
+[s]Sala Segura encontrada[n][w][e]
 
 [msg D01_RESULT_TXT03]
 [s]West Building 2P infiltrado[n][w][e]
@@ -14,7 +14,7 @@
 [s]Caminho em castiçais encontrados[n][w][e]
 
 [msg D01_RESULT_TXT06]
-[s]Sala segura encontrada[n][w][e]
+[s]Sala Segura encontrada[n][w][e]
 
 [msg D01_RESULT_TXT07]
 [s]Edifício Leste 2P infiltrado[n][w][e]
@@ -77,5 +77,5 @@
 [s]Tesouro de Kamoshida roubado[n][w][e]
 
 [msg D01_RESULT_TXT27]
-[s]palácio destruído[n][w][e]
+[s]Palácio Destruído[n][w][e]
 
