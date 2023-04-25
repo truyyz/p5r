@@ -8,7 +8,7 @@
 [s]Estou aliviado.[e]
 
 [msg MSG_002_0_0 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0][f 5 13 3 5 6]Já. Felizmente ela não acabou[n]na armadilha dele...[n][f 1 3 65535][w][e]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0][f 5 13 3 5 6]Concordo. Felizmente ela não acabou[n]na armadilha dele...[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Makoto]]
 [s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]Esse é um momento que eu[n]prefiro esquecer... mas estou[n]feliz por ela não estar mais em perigo.[n][f 1 3 65535][w][e]
@@ -80,7 +80,7 @@
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 27 65535 0]Essa é a minha ideia de justiça.[n]E então, assim seguirei[n]os passos de meu pai.[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Makoto]]
-[s][bup 0 6 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 28 65535 0][f 5 13 3 5 6]Já. Mas não vou deixar[n]acabar como apenas um sonho.[n][f 1 3 65535][w][e]
+[s][bup 0 6 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 28 65535 0][f 5 13 3 5 6]Concordo. Mas não vou deixar[n]acabar como apenas um sonho.[n][f 1 3 65535][w][e]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 29 65535 0]Essa é a minha ideia de justiça.[n]E então, assim seguirei[n]os passos de meu pai.[n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Makoto]]

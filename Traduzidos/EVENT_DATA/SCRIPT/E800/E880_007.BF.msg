@@ -71,7 +71,7 @@
 [s][vp 1 0 0 0 0 0]Merda, entendi mal a pergunta![n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_0514_5]
-[s][vp 1 0 0 0 0 0]Já. Sinto que devo proteger[n]aquela professora![n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Concordo. Sinto que devo proteger[n]aquela professora![n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_0518_1]
 [s][vp 1 0 0 0 0 0]Então aquela carta[n]de desafio foi uma piada?[n][f 1 3 65535][w][e]

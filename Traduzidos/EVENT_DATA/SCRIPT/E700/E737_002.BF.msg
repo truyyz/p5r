@@ -228,7 +228,7 @@
 [s]Yoshitsune venceu.[e]
 
 [msg THINK_2A_0512_07 [Morgana]]
-[s][vp 8 0 0 0 65535 0][bup 0 3 0 0 0][f 4 10 65535 0 0]Já. Yoshitsune cometeu suicídio após[n]ser exilado por seu irmão.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][bup 0 3 0 0 0][f 4 10 65535 0 0]Concordo. Yoshitsune cometeu suicídio após[n]ser exilado por seu irmão.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]No entanto, foi Yoshitsune[n]que entrou para a história como[n]um herói.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Provavelmente porque as pessoas[n]tendem a simpatizar menos[n]com os poderosos e mais com...[n][f 1 3 65535][w][e]
 

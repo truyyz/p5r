@@ -27,7 +27,7 @@
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Mas é precisamente por isso que[n]devemos despertar seu coração.[n][w][e]
 
 [msg D06_16_e384_100_mes09 [Makoto]]
-[s][bup 0 6 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]...Já.[n][w][e]
+[s][bup 0 6 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]...Concordo.[n][w][e]
 
 [msg D06_16_e384_100_mes10 [Yusuke]]
 [s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Agora apuramos a posição[n]do Tesouro em relação a[n]esse objetivo.[n][w][e]

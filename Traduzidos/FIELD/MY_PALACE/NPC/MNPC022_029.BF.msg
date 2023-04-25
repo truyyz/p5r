@@ -6,7 +6,7 @@
 [s][bup 0 2 12 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 42 10 0 10][vp 8 2 1 7035 65535 0]Não é bom manter tudo dentro.[n][w][e]
 
 [msg MES_GROUP1_03 [Futaba]]
-[s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 9199 65535 0]Já...[n][w][e]
+[s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 9199 65535 0]Concordo...[n][w][e]
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 3 10 0 10]Mas isso não significa que você pode falar assim,[n]Ryuji![n][w][e]
 
 [msg MES_GROUP1_04 [Ryuji]]
@@ -27,7 +27,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Merda. Não consigo nem imaginar como é.[n][w][e]
 
 [msg MES_GROUP3_02 [Makoto]]
-[s][bup 0 6 3 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 42 10 0 10][vp 8 2 1 2197 65535 0]Já.[n][w][e]
+[s][bup 0 6 3 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 42 10 0 10][vp 8 2 1 2197 65535 0]Concordo.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Se eu fosse você, acho que nunca teria me[n]recuperado.[n][w][e]
 
 [msg MES_GROUP3_03 [Ryuji]]

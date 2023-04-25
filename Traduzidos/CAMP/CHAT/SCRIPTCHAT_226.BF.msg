@@ -12,7 +12,7 @@
 [s]Seria melhor.[e]
 
 [msg MSG_032_0_0 [Mishima]]
-[s][f 5 14]Já. Teria sido[n]meio inferno para mim, com certeza.[n]Os Ladrões me salvaram.[n][w][e]
+[s][f 5 14]Concordo. Teria sido[n]meio inferno para mim, com certeza.[n]Os Ladrões me salvaram.[n][w][e]
 
 [msg MSG_033_0_0 [Mishima]]
 [s][f 5 14]Você realmente acha isso? Bem, eu não[n]me importo com o que as pessoas[n]pensam, eu sempre vou apoiar você![n][w][e]

@@ -127,7 +127,7 @@
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ele parece preferir[n]paz de espírito.[n][w][e]
 
 [msg D10_09_npc_c_info_04 [Yusuke]]
-[s][bup 0 5 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4087 65535 0]Já...[n][w][e]
+[s][bup 0 5 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4087 65535 0]Concordo...[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Mas o medo de se machucar não permite que[n]consiga nada de bom. Na[n]história da arte, os autores têm…[n][w][e]
 
 [msg D10_09_npc_c_info_05 [Futaba]]

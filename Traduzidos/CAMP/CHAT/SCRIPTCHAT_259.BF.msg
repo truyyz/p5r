@@ -27,7 +27,7 @@
 [s]Então depende de nós.[e]
 
 [msg MSG_007_0_0 [Makoto]]
-[s][f 5 14]Já. É aqui que[n]us entramos.[n][w][e]
+[s][f 5 14]Concordo. É aqui que[n]us entramos.[n][w][e]
 
 [msg MSG_008_0_0 [Makoto]]
 [s][f 5 14]Sim. Acho que você não pode[n]deixar essa batata quente[n]para a polícia.[n][w][e]

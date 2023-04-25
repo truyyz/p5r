@@ -178,7 +178,7 @@
 [s][vp 8 2 0 42206 4 0]Fico feliz que toda a mídia[n]está falando sobre os Phantom Thieves.[n][f 1 3 65535][w][e]
 
 [msg MSG_046_0_0 [Menino despreocupado]]
-[s][vp 8 0 0 0 5 0]Já. Do caso Kamoshida em diante,[n]eles fugiram.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 5 0]Concordo. Do caso Kamoshida em diante,[n]eles fugiram.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 5 0]E a lenda dos Phantom Thieves[n]originou-se na NOSSA escola![n]Nós basicamente fazemos parte dela![n][f 1 3 65535][w][e]
 
 [msg MSG_047_0_0 [Garoto enérgico]]
@@ -316,7 +316,7 @@
 [s][vp 8 0 0 0 5 0]Talvez ele sirva sanduíches venenosos...[n]Que monstro.[n][f 1 3 65535][w][e]
 
 [msg MSG_080_0_0 [Cara atlético]]
-[s][vp 8 0 0 0 4 0]Já. Votei nele[n]no Phan-Site...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 4 0]Concordo. Votei nele[n]no Phan-Site...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 4 0]Os Phantom Thieves têm o dever de[n]punir as pessoas más. Espero que[n]ele seja atendido em breve.[n][f 1 3 65535][w][e]
 
 [msg MSG_081_0_0 [Garota da moda]]

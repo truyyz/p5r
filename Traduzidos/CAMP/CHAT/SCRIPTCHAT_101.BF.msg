@@ -11,7 +11,7 @@
 [s][f 5 14]As chances de que seja[n]são substanciais.[n][w][e]
 
 [msg MSG_005_0_0 [Futaba]]
-[s][f 5 14]Já. Devemos segui-lo.[n][w][e]
+[s][f 5 14]Concordo. Devemos segui-lo.[n][w][e]
 
 [msg MSG_006_0_0 [Futaba]]
 [s][f 5 14]Com toda a probabilidade, o Palácio[n]está em sua sede.[n]Vou investigar melhor.[n][w][e]

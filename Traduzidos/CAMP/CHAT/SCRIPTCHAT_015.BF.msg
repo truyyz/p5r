@@ -15,7 +15,7 @@
 [s]Quer ignorá-lo?[e]
 
 [msg MSG_008_0_0 [Ann]]
-[s][f 5 14]Já.[n][w][e]
+[s][f 5 14]Concordo.[n][w][e]
 [s][f 5 14]Melhor não chamar mais atenção para nós,[n]de qualquer maneira.[n][w][e]
 
 [msg MSG_009_0_0 [Ann]]

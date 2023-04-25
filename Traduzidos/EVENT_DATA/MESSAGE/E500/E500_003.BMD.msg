@@ -140,7 +140,7 @@
 [s][bup 0 102 2 0 0][f 4 10 65535 0 0][vp 8 0 0 56 65535 0]Ok, chega.[n][f 1 3 65535][w][e]
 
 [msg MSG_037_0_0 [Justine]]
-[s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 57 65535 0]...Já. Qualquer outra discussão[n]pode interferir[n]com nosso trabalho.[n][f 1 3 65535][w][e]
+[s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 57 65535 0]...Concordo. Qualquer outra discussão[n]pode interferir[n]com nosso trabalho.[n][f 1 3 65535][w][e]
 
 [msg MSG_038_0_0 [Caroline]]
 [s][bup 0 102 2 0 0][f 4 10 65535 0 0][vp 8 0 0 58 65535 0]As coisas vão voltar a ser o que eram antes. Esta[n]inspeção especial é um caso extraordinário.[n][f 1 3 65535][w][e]

@@ -20,7 +20,7 @@
 [s][f 5 14]Todo mundo deve ter ouvido ele dizer essas[n]coisas comprometedoras, certo?[n][w][e]
 
 [msg MSG_007_0_0 [Makoto]]
-[s][f 5 14]Já.[n][w][e]
+[s][f 5 14]Concordo.[n][w][e]
 
 [msg MSG_008_0_0 [Makoto]]
 [s][f 5 14]O que aconteceu[n]não pode permanecer em segredo.[n]Tudo será público em breve.[n][w][e]

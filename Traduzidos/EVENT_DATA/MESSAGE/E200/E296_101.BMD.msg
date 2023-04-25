@@ -33,5 +33,5 @@
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Se for esse o caso,[n]é a pior merda que você pode[n]fazer a uma criança.[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Já. Vamos, vamos em frente.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Concordo. Vamos, vamos em frente.[n][f 1 3 65535][w][e]
 

@@ -273,7 +273,7 @@
 [s][vp 8 0 0 0 65535 0]Não apenas ele, mas TODAS[n]as empresas que exploram[n]funcionários.[n][f 1 3 65535][w][e]
 
 [msg MSG_070_0_0 [Funcionário de meia-idade]]
-[s][vp 8 0 0 0 65535 0]Já. Tem problemas[n]com a gente também, sabia?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Concordo. Tem problemas[n]com a gente também, sabia?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Se você excluir um, deverá[n]fazer o mesmo com todos[n]os outros. Isso mesmo.[n][f 1 3 65535][w][e]
 
 [msg MSG_071_0_0 [Morgana]]

@@ -83,7 +83,7 @@
 [s][bup 0 111 2 65535 0][f 4 10 65535 0 0][vp 8 2 0 19038 65535 0]Acho que você quer dizer "Sim, você está[n]certo!" Ugh, você realmente não aprecia[n]o que eu faço por você![n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Mishima]]
-[s][bup 0 111 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 19024 65535 0][f 5 13 19 5 1011]Já. É tudo por minha causa.[n][f 1 3 65535][w][e]
+[s][bup 0 111 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 19024 65535 0][f 5 13 19 5 1011]Concordo. É tudo por minha causa.[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Mishima]]
 [s][bup 0 111 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O sucesso dos Phantom Thieves é[n]minha preferência... e eles[n]estão mudando o mundo...[n][f 1 3 65535][w][e]

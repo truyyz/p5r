@@ -589,7 +589,7 @@
 [s]É preocupante.[e]
 
 [msg MSG_143_0_0 [Yusuke]]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 136 65535 0]Já. Akechi goza de certa reputação,[n]mas ainda é um "civil"...[n][f 1 3 65535][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 136 65535 0]Concordo. Akechi goza de certa reputação,[n]mas ainda é um "civil"...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 137 65535 0]Não acho que ele descobrirá nossas[n]identidades. A lama que ele joga em[n]nós, no entanto, não é nada agradável.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 138 65535 0]Talvez devêssemos pensar[n]em uma solução...[n][f 1 3 65535][w][e]
 

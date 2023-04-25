@@ -32,7 +32,7 @@
 [s][bup 0 4 0 1 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6023 65535 0]Ok. Aqui vamos descobrir algo[n]sobre os segredos de Futaba, certo?[n][w][e]
 
 [msg D04_01_e293_012_selA_0_m_2 [Makoto]]
-[s][bup 0 6 0 1 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2020 65535 0]Já. Bem, vamos entrar.[n][w][e]
+[s][bup 0 6 0 1 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2020 65535 0]Concordo. Bem, vamos entrar.[n][w][e]
 
 [msg D04_01_e293_012_selA_1_m [Ryuji]]
 [s][bup 0 2 5 1 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7174 65535 0]O que é, você quer explorar mais[n]lá? Com esse calor...[n][w][e]

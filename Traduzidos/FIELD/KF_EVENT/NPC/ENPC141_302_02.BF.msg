@@ -15,7 +15,7 @@
 [s][vp 1 0 0 0 0 0]Eu gostaria de poder conhecê-la,[n]mas ela parece inacessível.[n][w][e]
 
 [msg MSG_067_0_0 [Calouro animada]]
-[s][vp 1 0 0 0 0 0]Já. E também é aquele que é notado. Parece que[n]alguns alunos do terceiro ano ficam de olho nela.[n][w][e]
+[s][vp 1 0 0 0 0 0]Concordo. E também é aquele que é notado. Parece que[n]alguns alunos do terceiro ano ficam de olho nela.[n][w][e]
 
 [msg MSG_068_0_0 [Calouro motivado]]
 [s][vp 1 0 0 0 0 0]O que?!? Droga...[n]Aqui está o que acontece, se você[n]se destacar demais dos outros...[n][w][e]

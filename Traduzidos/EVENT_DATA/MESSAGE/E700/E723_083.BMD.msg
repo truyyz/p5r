@@ -110,7 +110,7 @@
 [s][bup 0 222 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 5 0]E é aí que você está[n]consultoria agora?[n][f 1 3 65535][w][e]
 
 [msg MSG_033_0_0 [Maruki]]
-[s][bup 0 216 300 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Já. Mas apenas meio período.[n][f 1 3 65535][w][e]
+[s][bup 0 216 300 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Concordo. Mas apenas meio período.[n][f 1 3 65535][w][e]
 
 [msg MSG_034_0_0 [Shibusawa]]
 [s][bup 0 222 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 5 0]Bem, diga-me o que você está fazendo em um lugar[n]como este? Não vai mica ser uma sessão privada,[n]vai?[n][f 1 3 65535][w][e]

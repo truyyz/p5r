@@ -10,7 +10,7 @@
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Há também uma forte presença policial. Isso pode[n]levar os mafiosos a se esconderem.[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Yusuke]]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Já. Recentemente, o aumento da[n]criminalidade é assunto da[n]mídia. Eles podem não aparecer.[n][f 1 3 65535][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Concordo. Recentemente, o aumento da[n]criminalidade é assunto da[n]mídia. Eles podem não aparecer.[n][f 1 3 65535][w][e]
 
 [sel SEL_004_0_0 top]
 [s]Sim, temos que.[e]

@@ -100,7 +100,7 @@
 [s][bup 0 2 0 65535 1][f 4 10 65535 0 0][vp 1 0 0 35 0 0]Finalmente entendi.[n][f 1 3 65535][w][e]
 
 [msg MSG_1124_004_00 [Ryuji]]
-[s][bup 0 2 0 65535 1][f 4 10 65535 0 0][vp 1 0 0 36 0 0]Já. Cara, você[n]sempre soube né?[n][f 1 3 65535][w][e]
+[s][bup 0 2 0 65535 1][f 4 10 65535 0 0][vp 1 0 0 36 0 0]Concordo. Cara, você[n]sempre soube né?[n][f 1 3 65535][w][e]
 
 [msg MSG_1124_005_00 [Ryuji]]
 [s][bup 0 2 2 65535 1][f 4 10 65535 0 0][vp 1 0 0 37 0 0]Eu quero vingar você, é claro,[n]mas esse não é o ponto.[n][f 1 3 65535][w][e]

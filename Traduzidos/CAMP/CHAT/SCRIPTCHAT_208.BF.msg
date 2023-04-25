@@ -7,7 +7,7 @@
 [s]Como vão as coisas?[e]
 
 [msg MSG_002_0_0 [Ryuji]]
-[s][f 5 14]Já. Espero que isso[n]faça seu irmão melhorar.[n][w][e]
+[s][f 5 14]Concordo. Espero que isso[n]faça seu irmão melhorar.[n][w][e]
 
 [msg MSG_003_0_0 [Ryuji]]
 [s][f 5 14]Bem, os odiadores ainda estão lá, mas[n]pelo menos não vai atrapalhar mais as[n]coisas.[n][w][e]

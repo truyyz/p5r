@@ -14,7 +14,7 @@
 [s][f 0 8 2 1 2217]Agora você não está sozinho.[clr 27][e]
 
 [msg MSG_003_0_0 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 2035 65535 0][f 5 13 3 10 6]Já. Sempre sonhei em[n]parar em tal lugar[n]no caminho da escola.[n][f 1 3 65535][w][e]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 2035 65535 0][f 5 13 3 10 6]Concordo. Sempre sonhei em[n]parar em tal lugar[n]no caminho da escola.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ficar sozinho é assustador, mas nunca vou melhorar se recuar por medo da opinião alheia.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vou continuar tentando...[n]E espero que você continue comigo.[n][f 1 3 65535][w][e]
 

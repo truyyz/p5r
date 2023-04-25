@@ -24,7 +24,7 @@
 
 [sel SEL_007_0_0 top]
 [s]É apenas uma procissão.[e]
-[s]Já.[e]
+[s]Concordo.[e]
 [s]Vamos lá! Bata palmas![e]
 
 [msg MSG_008_0_0 [Caroline]]

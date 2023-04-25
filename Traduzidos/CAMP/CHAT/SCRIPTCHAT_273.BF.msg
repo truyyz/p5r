@@ -27,7 +27,7 @@
 [s]Sua irmã está bem?[e]
 
 [msg MSG_006_0_0 [Mishima]]
-[s][f 5 14]Já. Ele quer ser parado antes que mate sua[n]família.[n][w][e]
+[s][f 5 14]Concordo. Ele quer ser parado antes que mate sua[n]família.[n][w][e]
 
 [msg MSG_007_0_0 [Mishima]]
 [s][f 5 14]Parece que ele está se safando disso.[n][w][e]

@@ -134,7 +134,7 @@
 
 [sel SEL_038_0_0 top]
 [s]......[e]
-[s]Já. Entendo.[e]
+[s]Concordo. Entendo.[e]
 
 [msg MSG_039_0_0 [Takemi]]
 [s][bup 0 108 506 6 0][f 4 10 65535 0 0][vp 8 0 0 42 65535 0]Eu nunca gostei muito de[n]garotos mais novos...[n][f 1 3 65535][w][e]

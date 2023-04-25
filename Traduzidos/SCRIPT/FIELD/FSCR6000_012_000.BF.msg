@@ -11,7 +11,7 @@
 [s][bup 0 4 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 0 65535 0]Ele é realmente responsável por esses casos de[n]bullying, certo?[n][w][e]
 
 [msg QUEST_12_ENTER_mes04 [Ryuji]]
-[s][bup 0 2 11 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7198 65535 0]Já. Se queremos parar[n]os casos de bullying,[n]temos que lidar com ele.[n][w][e]
+[s][bup 0 2 11 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7198 65535 0]Concordo. Se queremos parar[n]os casos de bullying,[n]temos que lidar com ele.[n][w][e]
 
 [msg QUEST_12_ENTER_mes05 [Ann]]
 [s][bup 0 4 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6034 65535 0]Vamos.[n][w][e]

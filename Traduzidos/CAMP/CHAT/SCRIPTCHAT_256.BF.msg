@@ -19,7 +19,7 @@
 [s]É improvável.[e]
 
 [msg MSG_102_0_0 [Ann]]
-[s][f 5 14]Já.[n][w][e]
+[s][f 5 14]Concordo.[n][w][e]
 
 [msg MSG_103_0_0 [Ann]]
 [s][f 5 14]De uma forma ou de outra,[n]as coisas devem[n]melhorar agora.[n][w][e]

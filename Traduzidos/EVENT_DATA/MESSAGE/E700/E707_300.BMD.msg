@@ -7,7 +7,7 @@
 [s]Você está treinando nas minhas costas?[n][f 1 3 65535][w][e]
 
 [sel SEL_002_0_0 top]
-[s]Já.[e]
+[s]Concordo.[e]
 [s]Não posso deixar você vencer.[e]
 [s]Não.[e]
 

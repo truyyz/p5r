@@ -14,7 +14,7 @@
 [s][f 5 14]Temos que fazer isso,[n]qualquer custo![n][w][e]
 
 [msg MSG_004_0_0 [Ann]]
-[s][f 5 14]Já. Estou preocupado com Shiho,[n]mas também quero me concentrar[n]em nosso plano.[n][w][e]
+[s][f 5 14]Concordo. Estou preocupado com Shiho,[n]mas também quero me concentrar[n]em nosso plano.[n][w][e]
 
 [msg MSG_005_0_0 [Ann]]
 [s][f 5 14]E desta vez não vou me cansar tão[n]facilmente.[n][w][e]

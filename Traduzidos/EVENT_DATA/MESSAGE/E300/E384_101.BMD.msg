@@ -19,7 +19,7 @@
 [s][bup 0 9 100 0 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]E assim que a carta[n]de desafio for enviada, o Tesouro de Sae-san[n]aparecerá, certo?[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Já. Quando o alvo está[n]ciente do perigo, aquela[n]vaga coisa tomará forma definitiva.[n][f 1 3 65535][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Concordo. Quando o alvo está[n]ciente do perigo, aquela[n]vaga coisa tomará forma definitiva.[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Akechi]]
 [s][bup 0 9 100 0 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]Eu me pergunto... qual será[n]a forma do Tesouro?[n][f 1 3 65535][w][e]

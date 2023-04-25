@@ -39,7 +39,7 @@
 [s][f 0 8 2 1 2217]O que você quer fazer?[clr 27][e]
 
 [msg MSG_008_0_0 [Haru]]
-[s][bup 0 7 200 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 4 5 7]Já. Outros continuam[n]me dando opinião após opinião...[n][f 1 3 65535][w][e]
+[s][bup 0 7 200 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 4 5 7]Concordo. Outros continuam[n]me dando opinião após opinião...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Nunca pensei que a vida de uma[n]pessoa em uma posição de poder[n]pudesse ser tão difícil.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]É por isso que meu pai estava[n]sempre tão ocupado...[n][f 1 3 65535][w][e]
 

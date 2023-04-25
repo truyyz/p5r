@@ -5,7 +5,7 @@
 [s][f 5 14]Eu acho que é uma boa ideia. Mas[n]não devemos ter pressa.[n][w][e]
 
 [msg MSG_002_0_0 [Futaba]]
-[s][f 5 14]Já. Honestamente, temos que ir lá se[n]quisermos fazer alguma coisa.[n][w][e]
+[s][f 5 14]Concordo. Honestamente, temos que ir lá se[n]quisermos fazer alguma coisa.[n][w][e]
 
 [msg MSG_003_0_0 [Yusuke]]
 [s][f 5 14]Concordo. Você está bem,[n]líder?[n][w][e]

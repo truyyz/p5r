@@ -2,7 +2,7 @@
 [s][f 5 14]Também será domingo, mas[n]qualquer relaxamento é arruinado[n]por todo o barulho lá fora.[n][w][e]
 
 [msg MSG_001_0_0 [Ann]]
-[s][f 5 14]Já. Onde quer que eu vá, continuo ouvindo[n]comícios de campanha.[n][w][e]
+[s][f 5 14]Concordo. Onde quer que eu vá, continuo ouvindo[n]comícios de campanha.[n][w][e]
 
 [msg MSG_002_0_0 [Ryuji]]
 [s][f 5 14]Talvez fosse só isso...[n][w][e]

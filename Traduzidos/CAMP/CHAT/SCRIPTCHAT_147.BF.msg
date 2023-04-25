@@ -24,7 +24,7 @@
 [s][f 5 14]O suporte para os Phantom Thieves[n]não aumentou mesmo depois[n]de terem feito o anúncio...[n][w][e]
 
 [msg MSG_008_0_0 [Mishima]]
-[s][f 5 14]Já. Isso não faz sentido![n][w][e]
+[s][f 5 14]Concordo. Isso não faz sentido![n][w][e]
 
 [msg MSG_009_0_0 [Mishima]]
 [s][f 5 14]O suporte para os Phantom Thieves[n]não aumentou mesmo depois[n]de terem feito o anúncio...[n][w][e]

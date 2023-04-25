@@ -81,7 +81,7 @@
 [s]Não tenho certeza.[e]
 
 [msg MSG_022_0_0 [Ryuji]]
-[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 31 65535 0]...Já. Você nunca sabe[n]se será bom para todos.[n][f 1 3 65535][w][e]
+[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 31 65535 0]...Concordo. Você nunca sabe[n]se será bom para todos.[n][f 1 3 65535][w][e]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 32 65535 0]Mas não há como descobrir sem[n]tentar pelo menos.[n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Ann]]

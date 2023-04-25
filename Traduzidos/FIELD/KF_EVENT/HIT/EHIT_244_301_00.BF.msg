@@ -61,7 +61,7 @@
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 1 9 65535 0]Está certo. Somos adultos agora.[n][w][e]
 
 [msg MSG_026_0_0 [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 1 10 65535 0]Já. É que parecemos ter menos[n]anos do que temos.[n][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 1 10 65535 0]Concordo. É que parecemos ter menos[n]anos do que temos.[n][w][e]
 
 [msg MSG_027_0_0 [Oficial de patrulha]]
 [s][f 4 23 1 853 3 10 0 0][vp 8 0 1 11 853 0]Hum? Você é amigo dele?[n][w][e]

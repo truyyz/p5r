@@ -20,7 +20,7 @@
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Você acha que o motivo[n]é outro?[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Makoto]]
-[s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Já. Não sei por que,[n]mas tenho esse sentimento.[n][f 1 3 65535][w][e]
+[s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Concordo. Não sei por que,[n]mas tenho esse sentimento.[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Ann]]
 [s][bup 0 4 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Ei, é tão fácil espiar[n]nos bate-papos de outras pessoas?[n][f 1 3 65535][w][e]

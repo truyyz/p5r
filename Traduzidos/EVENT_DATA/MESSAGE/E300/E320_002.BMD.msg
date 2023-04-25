@@ -2,7 +2,7 @@
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]Este é o ponto turístico[n]recomendado, Ryuji?[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Já. É Kamehameha, o Grande.[n][f 1 3 65535][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Concordo. É Kamehameha, o Grande.[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [(SE)仲間たちの感嘆]]
 [s][vp 8 0 0 3 65535 0](おー)[n][f 1 3 65535][w][e]

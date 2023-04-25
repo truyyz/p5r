@@ -24,7 +24,7 @@
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Há algo lá embaixo que me cheira mal.[n]Também há trepadeiras[n]na porta.[n][w][e]
 
 [msg D01_04_e160_091_mes02 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Já. Aparentemente, já faz um tempo que ninguém[n]entra lá.[n][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Concordo. Aparentemente, já faz um tempo que ninguém[n]entra lá.[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Se ao menos houvesse uma maneira[n]de ir mais longe…[n][w][e]
 
 [msg D01_04_e160_091_mes03 [Ann]]

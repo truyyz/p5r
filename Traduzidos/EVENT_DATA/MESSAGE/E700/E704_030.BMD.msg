@@ -13,7 +13,7 @@
 [s][vp 8 0 0 0 65535 0]Ah, agora eu entendo. Esta é a área[n]dedicada aos alunos. Terá sido[n]pintado de uma só vez.[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Senhora de meia idade]]
-[s][vp 8 0 0 0 65535 0]Já. Esta foto é totalmente[n]carente de elegância e emoção.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Concordo. Esta foto é totalmente[n]carente de elegância e emoção.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Venha querido. Há[n]mais pinturas bem conservadas por lá.[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Yusuke]]

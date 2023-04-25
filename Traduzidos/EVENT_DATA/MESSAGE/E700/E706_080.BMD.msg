@@ -145,7 +145,7 @@
 [s][bup 0 2 601 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]É a sensação que você[n]tem depois de treinar[n]duro. Nada mal, né?[n][f 1 3 65535][w][e]
 
 [msg MSG_042_0_0 [Ann]]
-[s][bup 0 4 200 65535 0][f 4 10 65535 0 0][vp 8 2 0 6034 65535 0]Já. Na verdade, quer saber...?[n]Eu me diverti muito.[n][f 1 3 65535][w][e]
+[s][bup 0 4 200 65535 0][f 4 10 65535 0 0][vp 8 2 0 6034 65535 0]Concordo. Na verdade, quer saber...?[n]Eu me diverti muito.[n][f 1 3 65535][w][e]
 
 [msg MSG_043_0_0 [Ann]]
 [s][bup 0 4 200 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E acho que é porque vocês dois também estavam lá.[n]Eu tive que provar que estava me esforçando.[n][f 1 3 65535][w][e]

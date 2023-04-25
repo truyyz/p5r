@@ -17,7 +17,7 @@
 [s][f 5 14]Quero dizer, às vezes ele pode ser muito[n]impulsivo e teimoso.[n][w][e]
 
 [msg MSG_011_0_0 [Futaba]]
-[s][f 5 14]Já...[n][w][e]
+[s][f 5 14]Concordo...[n][w][e]
 
 [msg MSG_012_0_0 [Futaba]]
 [s][f 5 14][f 5 15]De qualquer forma, amanhã iremos[n]para o Palácio Okumura.[n]Eu aviso a todos.[n][w][e]

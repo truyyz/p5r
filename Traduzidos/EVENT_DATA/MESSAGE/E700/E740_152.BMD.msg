@@ -62,7 +62,7 @@
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 4088 65535 0]Ela tem uma alma tão gentil.[n]Como uma mãe maravilhosa[n]cuidando de Shinjuku...[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Haru]]
-[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Já. Este bar, junto com[n]Lala-san... é como[n]todo Shinjuku deveria ser.[n][f 1 3 65535][w][e]
+[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Concordo. Este bar, junto com[n]Lala-san... é como[n]todo Shinjuku deveria ser.[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Cliente bêbado regular]]
 [s][vp 8 0 0 0 65535 0]Lala-chaaaan! *hic* outra bebida![n][f 1 3 65535][w][e]

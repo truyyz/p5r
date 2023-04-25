@@ -23,7 +23,7 @@
 [s]Peça desculpas ao seu irmão.[e]
 
 [msg MSG_QUEST80_BATTLE_AFTER_2 [Sombra de Amasaki]]
-[s][vp 8 2 1 46516 65535 0]Já. Fui um idiota por[n]acreditar que os odiadores eram[n]um motivador para mim.[n][w][e]
+[s][vp 8 2 1 46516 65535 0]Concordo. Fui um idiota por[n]acreditar que os odiadores eram[n]um motivador para mim.[n][w][e]
 [s]Bati no meu irmão e falei[n]coisas horríveis para os meus pais...[n][w][e]
 [s][vp 8 2 1 46517 65535 0]Que idiota eu fui.[n][w][e]
 

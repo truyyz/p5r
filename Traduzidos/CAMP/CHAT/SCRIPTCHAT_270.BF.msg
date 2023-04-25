@@ -50,7 +50,7 @@
 [s][f 5 14]Ushiwata estava sonegando impostos?[n]Espere um minuto, então extorsão[n]era...?[n][w][e]
 
 [msg MSG_014_0_0 [Akechi]]
-[s][f 5 14]Já. Toji Karataki estava usando[n]essa informação para ameaçar[n]Ushiwata.[n][w][e]
+[s][f 5 14]Concordo. Toji Karataki estava usando[n]essa informação para ameaçar[n]Ushiwata.[n][w][e]
 [s][f 5 14]Tudo na tentativa de se vingar[n]contra o sangue de seu sangue,[n]provavelmente.[n][w][e]
 [s][f 5 14]Parece que a verdadeira chave do[n]cofre estava[n]escondida no ursinho de pelúcia.[n][w][e]
 

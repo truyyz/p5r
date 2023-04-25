@@ -33,7 +33,7 @@
 [s][bup 0 110 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 32 10 0 10]...As pessoas realmente compram essas coisas?[n][w][e]
 
 [msg MES_GROUP4_04 [Iwai]]
-[s][bup 0 104 3 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 13021 65535 0]Já. Deve haver uma razão.[n][w][e]
+[s][bup 0 104 3 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 13021 65535 0]Concordo. Deve haver uma razão.[n][w][e]
 
 [msg MES_GROUP6_01 [Mishima]]
 [s][bup 0 111 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 19110 65535 0]As negociações[n]secretas ocorrem nessas lojas?[n][w][e]

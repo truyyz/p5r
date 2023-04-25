@@ -229,7 +229,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu diria que tivemos nosso[n]final feliz. Agora tudo o que tenho a fazer[n]é voltar aos meus níveis.[n][f 1 3 65535][w][e]
 
 [sel SEL_058_0_0 top]
-[s]Já.[e]
+[s]Concordo.[e]
 [s]Quando?[e]
 [s]Mais rápido do que antes?[e]
 
@@ -304,7 +304,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Estou fazendo uma promessa de não[n]comê-los. Não é fantástico? Tenho[n]certeza de que isso vai me fortalecer.[n][f 1 3 65535][w][e]
 
 [sel SEL_079_0_0 top]
-[s]Já.[e]
+[s]Concordo.[e]
 [s]Você já perdeu.[e]
 [s]Você vai engordar.[e]
 
@@ -513,7 +513,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você está treinando nas minhas costas?[n][f 1 3 65535][w][e]
 
 [sel SEL_142_0_0 top]
-[s]Já.[e]
+[s]Concordo.[e]
 [s]Não posso deixar você vencer.[e]
 [s]Não.[e]
 
@@ -545,7 +545,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Faz muito tempo que não corro, mas não tem como[n]você conseguir me alcançar[n]TÃO facilmente![n][f 1 3 65535][w][e]
 
 [sel SEL_150_0_0 top]
-[s]Já.[e]
+[s]Concordo.[e]
 [s]Não posso deixar você vencer.[e]
 [s]Não.[e]
 

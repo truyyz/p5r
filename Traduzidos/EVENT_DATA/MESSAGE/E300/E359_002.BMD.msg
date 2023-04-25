@@ -109,7 +109,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 61 65535 0]Eu quero consertar[n]essa bagunça...[n][f 1 3 65535][w][e]
 
 [msg MSG_033_0_0 [Morgana]]
-[s][bup 0 3 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 62 65535 0]Já. Se a situação continuar[n]assim, vamos acabar sobrecarregados...[n][f 1 3 65535][w][e]
+[s][bup 0 3 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 62 65535 0]Concordo. Se a situação continuar[n]assim, vamos acabar sobrecarregados...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 63 65535 0]Ainda não temos ideia[n]de quem estamos enfrentando, seja[n]uma pessoa ou um grupo.[n][f 1 3 65535][w][e]
 
 [msg MSG_034_0_0 [Yusuke]]

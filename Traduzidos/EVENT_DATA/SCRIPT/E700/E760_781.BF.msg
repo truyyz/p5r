@@ -224,7 +224,7 @@
 [s][vp 8 2 0 0 65535 0]Que golpe...! Reduzi bastante[n]a distância.[n][f 1 3 65535][w][e]
 
 [msg MSG_351_0_0 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]...Ela acabou na grama alta.[n]Já...[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]...Ela acabou na grama alta.[n]Concordo...[n][f 1 3 65535][w][e]
 
 [msg MND_351_1_0]
 [s][vp 8 2 0 0 65535 0]...A bola foi direto para a grama alta.[n][f 1 3 65535][w][e]

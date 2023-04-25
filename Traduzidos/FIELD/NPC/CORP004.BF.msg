@@ -513,7 +513,7 @@
 [s]Você deveria conhecê-lo.[e]
 
 [msg MSG_C04_YES_06_02 [Yusuke]]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 23 1 204 3 10 0 10][vp 8 2 1 4035 65535 0]...Já.[n][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 23 1 204 3 10 0 10][vp 8 2 1 4035 65535 0]...Concordo.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu tenho que me agarrar a cada[n]aparência de esperança que eu posso[n]encontrar no mundo…[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Muito bem. Eu vou ligar para ele.[n][w][e]
 
@@ -836,7 +836,7 @@
 [s]Use-o para sua arte.[e]
 
 [msg MSG_C04_BYEGREET_00_02 [Yusuke]]
-[s][bup 0 5 1 65535 0][f 4 10 65535 0 0][f 4 23 1 204 3 10 0 10][vp 8 0 1 4 65535 0]Já. A intensidade bruta dessa experiência é um[n]grande estímulo para pintar.[n][w][e]
+[s][bup 0 5 1 65535 0][f 4 10 65535 0 0][f 4 23 1 204 3 10 0 10][vp 8 0 1 4 65535 0]Concordo. A intensidade bruta dessa experiência é um[n]grande estímulo para pintar.[n][w][e]
 
 [msg MSG_C04_BYEGREET_00_03 [Yusuke]]
 [s][bup 0 5 1 65535 0][f 4 10 65535 0 0][f 4 23 1 204 3 10 0 10][vp 8 0 1 5 65535 0]De volta para você? Deve ser[n]um efeito comum a todos aqueles[n]que vivem experiências semelhantes.[n][w][e]

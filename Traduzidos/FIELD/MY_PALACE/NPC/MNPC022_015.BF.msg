@@ -25,7 +25,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Tenho certeza de que não somos os únicos que se[n]sentem assim.[n][w][e]
 
 [msg MES_GROUP2_03 [Ann]]
-[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 32 10 0 10]Já...[n][w][e]
+[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 32 10 0 10]Concordo...[n][w][e]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 6156 65535 0]Espero que com Phantom Thieves[n]demos a outras pessoas a[n]coragem de se expressar.[n][w][e]
 
 [msg MES_GROUP2_04 [Makoto]]

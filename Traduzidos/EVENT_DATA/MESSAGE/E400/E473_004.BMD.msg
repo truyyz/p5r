@@ -10,7 +10,7 @@
 [s][vp 8 0 0 0 65535 0][f 5 14]Dia dos Namorados, aff![n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Ryuji]]
-[s][vp 8 0 0 0 65535 0][f 5 14]Já. Não recebi[n]nem mesmo um chocolate.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 5 14]Concordo. Não recebi[n]nem mesmo um chocolate.[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Ryuji]]
 [s][vp 8 0 0 0 65535 0][f 5 14]Não conte![n][f 1 3 65535][w][e]

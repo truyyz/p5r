@@ -144,7 +144,7 @@
 [s]Ainda não sabemos.[e]
 
 [msg MSG_040_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 59 65535 0]Já. Mas significa que[n]ainda não perdemos.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 59 65535 0]Concordo. Mas significa que[n]ainda não perdemos.[n][f 1 3 65535][w][e]
 
 [msg MSG_042_0_0 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 61 65535 0]Na verdade, não sabemos.[n]Pensar que você descobriu tudo[n]é muito perigoso.[n][f 1 3 65535][w][e]

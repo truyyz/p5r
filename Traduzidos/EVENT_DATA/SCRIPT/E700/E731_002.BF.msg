@@ -570,7 +570,7 @@
 [s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ele realmente disse isso? Pense novamente.[n][f 1 3 65535][w][e]
 
 [msg THINK_1B_0711_04 [Morgana]]
-[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Já. Algo assim...[n][f 1 3 65535][w][e]
+[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Concordo. Algo assim...[n][f 1 3 65535][w][e]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]De qualquer forma, você os guarda por muito[n]tempo. A questão é: quanto tempo?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Maruki tinha dito algo[n]sobre a quantidade de memórias que[n]podemos guardar, certo?[n][f 1 3 65535][w][e]
 

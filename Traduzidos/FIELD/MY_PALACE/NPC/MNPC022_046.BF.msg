@@ -89,7 +89,7 @@
 
 [msg MES_GROUP4_03 [Maruki]]
 [s][bup 0 216 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 3 10 0 10]Você se importaria de me ensinar algum dia?[n][w][e]
-[s][bup 0 216 2 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Sempre me interessei. Oi-yah![n]Wha-taaah! Visualizar?[n][w][e]
+[s][bup 0 216 2 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Sempre me interessei. Oi-yah![n]Wha-taaah! Viu?[n][w][e]
 
 [msg MES_GROUP4_04 [Makoto]]
 [s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 3 10 0 10]Hm... Você não precisa fazer esses sons...[n]Você sabe disso, certo?[n][w][e]

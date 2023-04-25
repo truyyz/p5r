@@ -47,10 +47,10 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas prefiro não ser[n]o idiota.[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Iwai]]
-[s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 2 0 13043 65535 0][f 5 13 13 10 1004]Já. Todo mundo sabe que[n]ele é um filho da puta sorrateiro.[n][f 1 3 65535][w][e]
+[s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 2 0 13043 65535 0][f 5 13 13 10 1004]Concordo. Todo mundo sabe que[n]ele é um filho da puta sorrateiro.[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Iwai]]
-[s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 2 0 13043 65535 0][f 5 13 13 5 1004]Já. Todo mundo sabe que[n]ele é um filho da puta sorrateiro.[n][f 1 3 65535][w][e]
+[s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 2 0 13043 65535 0][f 5 13 13 5 1004]Concordo. Todo mundo sabe que[n]ele é um filho da puta sorrateiro.[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Iwai]]
 [s][bup 0 104 0 0 0][f 4 10 65535 0 0][vp 8 2 0 13074 65535 0]...Agora não importa.[n]Quando eu contar a verdade para o clã,[n]tudo vai mudar.[n][f 1 3 65535][w][e]

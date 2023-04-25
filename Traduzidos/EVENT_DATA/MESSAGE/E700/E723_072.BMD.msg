@@ -65,7 +65,7 @@
 [s][f 0 8 2 1 2217]...[clr 27][e]
 
 [msg MSG_015_0_0 [Maruki]]
-[s][bup 0 216 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 57420 65535 0][f 5 13 35 15 1014]Já. Um despertar do coração dos[n]Phantom Thieves.[n][f 1 3 65535][w][e]
+[s][bup 0 216 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 57420 65535 0][f 5 13 35 15 1014]Concordo. Um despertar do coração dos[n]Phantom Thieves.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Aqui está a base da minha teoria: o[n]"roubo do desejo" não é metafórico,[n]mas é algo direto.[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Maruki]]

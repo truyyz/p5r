@@ -63,7 +63,7 @@
 [s][f 5 14]É impossível. Deve ser um pseudônimo. Não[n]sabemos nem de quantas pessoas o grupo é[n]formado.[n][w][e]
 
 [msg MSG_021_0_0 [Makoto]]
-[s][f 5 14]Já. Esse nome deve ser um pseudônimo. Não[n]sabemos nem de quantas pessoas o grupo é[n]formado.[n][w][e]
+[s][f 5 14]Concordo. Esse nome deve ser um pseudônimo. Não[n]sabemos nem de quantas pessoas o grupo é[n]formado.[n][w][e]
 
 [msg MSG_022_0_0 [Ann]]
 [s][f 5 14]Oh...[n][w][e]
@@ -105,7 +105,7 @@
 [s][f 5 14]Se eles são criminosos, não podemos[n]simplesmente ignorá-los.[n][w][e]
 
 [msg MSG_035_0_0 [Ann]]
-[s][f 5 14]Já.[n][w][e]
+[s][f 5 14]Concordo.[n][w][e]
 
 [msg MSG_036_0_0 [Ann]]
 [s][f 5 14]E, por outro lado, não é que[n]no momento tenhamos outros[n]alvos disponíveis.[n][w][e]

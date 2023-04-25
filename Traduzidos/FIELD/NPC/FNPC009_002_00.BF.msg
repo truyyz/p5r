@@ -352,7 +352,7 @@
 [s][f 4 23 1 1 5 10 4 10][vp 8 2 1 0 1 0]Então Kotaro e eu estamos prontos![n]Viva para os Phantom Thieves![n][w][e]
 
 [msg MSG_ROUKENTOSYOJYO_013_3 [Mãe de aparência gentil]]
-[s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Já. Vamos torcer para que ele se recupere logo.[n][w][e]
+[s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Concordo. Vamos torcer para que ele se recupere logo.[n][w][e]
 
 [msg MSG_ROUKENTOSYOJYO_014_0 [Garota que ama cachorros]]
 [s][f 4 23 1 1 7 10 6 10][vp 8 2 1 0 1 0]Não! Eu não quero dizer oi[n]a Kotaro![n][w][e]
@@ -1143,7 +1143,7 @@
 [s][vp 8 2 1 0 11 0]E agora eles não falam mais sobre[n]os Phantom Thieves na TV.[n]Todo mundo enlouqueceu?[n][w][e]
 
 [msg MSG_HINEKUREKODOMO_020_1 [Estudante rebelde]]
-[s][f 4 23 1 10 3 10 0 10][vp 8 2 1 0 10 0]Já. Agora meus pais dizem que os[n]Phantom Thieves nunca[n]existiram...[n][w][e]
+[s][f 4 23 1 10 3 10 0 10][vp 8 2 1 0 10 0]Concordo. Agora meus pais dizem que os[n]Phantom Thieves nunca[n]existiram...[n][w][e]
 
 [msg MSG_HINEKUREKODOMO_020_2 [Estudante ingênuo]]
 [s][f 4 23 1 11 3 10 0 10][vp 8 2 1 0 11 0]Meu também! Que estranho... Enquanto estou[n]fazendo minha lição de casa, não consigo pensar[n]em mais nada.[n][w][e]

@@ -67,7 +67,7 @@
 [s][bup 0 6 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 36 65535 0]Hum... o que você quer dizer?[n]Devemos levá-lo literalmente?[n][f 1 3 65535][w][e]
 
 [msg MSG_029_0_0 [Futaba]]
-[s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 37 65535 0]Já. No começo era só eu,[n]quando ainda me chamavam[n]"Hacker da Justiça".[n][f 1 3 65535][w][e]
+[s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 37 65535 0]Concordo. No começo era só eu,[n]quando ainda me chamavam[n]"Hacker da Justiça".[n][f 1 3 65535][w][e]
 [s][bup 0 8 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 38 65535 0]Mas desde que mantive meu anonimato,[n]muitas pessoas de todo o mundo[n]começaram a usar meu nome.[n][f 1 3 65535][w][e]
 
 [msg MSG_030_0_0 [Ann]]

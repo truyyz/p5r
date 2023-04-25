@@ -170,7 +170,7 @@
 [s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ouvimos dizer que ele abriga uma ampla[n]escolha de fantasias navegáveis...[n]fora de um palácio! Absurdo.[n][w][e]
 
 [msg MSG_TWINS_OUTING_Quest02_3 [Justine]]
-[s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 211 3 10 0 10]Já. Essas fantasias... são a[n]realização do conhecimento[n]dos outros. Certamente serão um incentivo.[n][w][e]
+[s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 211 3 10 0 10]Concordo. Essas fantasias... são a[n]realização do conhecimento[n]dos outros. Certamente serão um incentivo.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Esse lugar soa[n]familiar para você?[n][w][e]
 
 [msg MND_TWINS_OUTING_Quest02]

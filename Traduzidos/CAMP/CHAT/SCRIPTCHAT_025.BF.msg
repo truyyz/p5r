@@ -5,7 +5,7 @@
 [s][f 5 14]É difícil se concentrar sabendo[n]o que está por vir...[n][w][e]
 
 [msg MSG_002_0_0 [Ryuji]]
-[s][f 5 14]Já. Essas lições entram por um ouvido e[n]saem pelo outro.[n][w][e]
+[s][f 5 14]Concordo. Essas lições entram por um ouvido e[n]saem pelo outro.[n][w][e]
 
 [msg MSG_003_0_0 [Futaba]]
 [s][f 5 14]Então, Ryuji, nada[n]muda para você.[n][w][e]

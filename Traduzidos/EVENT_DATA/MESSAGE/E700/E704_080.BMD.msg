@@ -39,7 +39,7 @@
 [s][f 0 8 2 1 2217]Não tenho dúvidas: Ann.[clr 27][e]
 
 [msg MSG_016_0_0 [Yusuke]]
-[s][bup 0 5 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Já. E é incrivelmente fácil[n]reproduzir o encanto de uma[n]maravilhosa paisagem na tela.[n][f 1 3 65535][w][e]
+[s][bup 0 5 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Concordo. E é incrivelmente fácil[n]reproduzir o encanto de uma[n]maravilhosa paisagem na tela.[n][f 1 3 65535][w][e]
 [s][bup 0 5 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]No entanto, se eu quisesse me limitar[n]a uma paisagem,[n]uma fotografia seria suficiente.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu preciso de algo mais...[n]Algo que complemente meu estilo...[n][f 1 3 65535][w][e]
 

@@ -50,7 +50,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eles ajudam as pessoas necessitadas.[n]Eles nunca os machucariam.[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Shinya]]
-[s][bup 0 110 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 17 10 1010]Já. Você tem razão. Afinal, ELES SÃO os[n]Phantom Thieves![n][f 1 3 65535][w][e]
+[s][bup 0 110 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 17 10 1010]Concordo. Você tem razão. Afinal, ELES SÃO os[n]Phantom Thieves![n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Shinya]]
 [s][bup 0 110 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Então...[n][f 1 3 65535][w][e]

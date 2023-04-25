@@ -52,7 +52,7 @@
 [s][vp 8 0 0 0 65535 0]Shido...? Não acredito que[n]um político como ele possa trabalhar[n]com uma pessoa tão horrível...[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Ohya]]
-[s][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Já. O consultor chantageou[n]o burocrata e o matou[n]por falta de pagamento.[n][f 1 3 65535][w][e]
+[s][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Concordo. O consultor chantageou[n]o burocrata e o matou[n]por falta de pagamento.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Kayo deve ter conseguido[n]escapar, mas então ela de alguma forma[n]entrou em prisão mental...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não tenho ideia do que[n]causou isso, mas...[n][f 1 3 65535][w][e]
 [s][bup 0 107 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]De qualquer forma, talvez seja por isso que[n]eles a pouparam...[n][f 1 3 65535][w][e]

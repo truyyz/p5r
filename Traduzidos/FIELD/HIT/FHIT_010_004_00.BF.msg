@@ -24,7 +24,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1020 65535 0]Quer ir para outro lugar?[n][w][e]
 
 [sel GATE_YESNO_SEL top]
-[s]Já.[e]
+[s]Concordo.[e]
 [s]Isso não importa.[e]
 
 [msg MSG_GATE_CANCEL [Morgana]]

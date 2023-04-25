@@ -541,7 +541,7 @@
 [s]Se você conhece alguém[n]que pode gostar do lugar,[n]tente convidá-lo aqui.[n][w][e]
 
 [msg MSG_C12_BYEGREET_00_00 [Iwai]]
-[s][bup 0 104 1 0 0][f 4 10 65535 0 0][f 4 23 1 212 49 10 40 10][vp 8 0 1 1 65535 0]Já...[n][w][e]
+[s][bup 0 104 1 0 0][f 4 10 65535 0 0][f 4 23 1 212 49 10 40 10][vp 8 0 1 1 65535 0]Concordo...[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 2 65535 0]Vá para casa amanhã. Perfeito.[n]Há uma coisa que você precisa saber.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 3 65535 0]Kaoru foi admitido no ensino médio.[n]Nesta primavera, ele frequentará a[n]Shujin Academy.[n][w][e]
 
@@ -577,7 +577,7 @@
 [s][bup 0 104 1 0 0][f 4 10 65535 0 440][f 4 23 1 212 49 10 40 10][vp 8 0 1 17 65535 0]...Bom, vocês jovens vão ter que[n]pensar nisso.[n]Conto com você, rapaz.[n][w][e]
 
 [msg MSG_C12_BYEGREET_00_00_5 [Iwai]]
-[s][bup 0 104 1 0 0][f 4 10 65535 0 0][f 4 23 1 212 49 10 40 10][vp 8 0 1 18 65535 0]Já...[n][w][e]
+[s][bup 0 104 1 0 0][f 4 10 65535 0 0][f 4 23 1 212 49 10 40 10][vp 8 0 1 18 65535 0]Concordo...[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 19 65535 0]Vá para casa amanhã. Perfeito.[n]Há uma coisa que você precisa saber.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 20 65535 0]Kaoru foi admitido no ensino médio.[n]Nesta primavera, ele frequentará a[n]Shujin Academy.[n][w][e]
 

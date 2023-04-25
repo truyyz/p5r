@@ -60,7 +60,7 @@
 [s][vp 8 0 2 1022 1 244]Você ainda não desistiu...[n]Isso é incrível.[n][f 1 3 65535][w][e]
 
 [msg MSG_BTL30AFTER_010_000 [Caroline]]
-[s][vp 8 0 2 1023 1 245]Já. Você é bom, Prisioneiro![n][f 1 3 65535][w][e]
+[s][vp 8 0 2 1023 1 245]Concordo. Você é bom, Prisioneiro![n][f 1 3 65535][w][e]
 
 [msg MSG_BTL30AFTER_020_000 [Justine]]
 [s][vp 8 0 2 1024 1 244]Eu entendo porque você chamou a atenção de nosso[n]mestre.[n][f 1 3 65535][w][e]

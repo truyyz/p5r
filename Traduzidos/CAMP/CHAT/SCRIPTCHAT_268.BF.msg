@@ -9,7 +9,7 @@
 [s]Eles podem ver Lily-Nyan.[e]
 
 [msg MSG_003_0_0 [Ryuji]]
-[s][f 5 14]Já. Ainda bem que fiz uma[n]diferença.[n][w][e]
+[s][f 5 14]Concordo. Ainda bem que fiz uma[n]diferença.[n][w][e]
 [s][f 5 14][f 5 15]Ter um pai em quem você pode[n]confiar, que realmente faz parte[n]da família... faz você se sentir um deus.[n][w][e]
 
 [msg MSG_004_0_0 [Ryuji]]

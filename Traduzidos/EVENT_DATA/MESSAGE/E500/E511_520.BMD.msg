@@ -173,7 +173,7 @@
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 4 7 300 1][vp 8 0 0 66 65535 0]...! E se fosse a[n]consultoria!?![n][f 1 3 65535][w][e]
 
 [msg MSG_044_2_0 [Maruki]]
-[s][vp 8 0 0 0 65535 0]Você não pode mudar o passado, mas quer seguir em[n]frente caminhando de cabeça erguida. Isso é o[n]suco?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Você não pode mudar o passado, mas quer seguir em[n]frente caminhando de cabeça erguida.[n]Essa é a essência?[n][f 1 3 65535][w][e]
 
 [msg MSG_044_4_0 [Ann]]
 [s][vp 8 0 0 0 65535 0]Sim, isso parece certo para mim.[n][f 1 3 65535][w][e]

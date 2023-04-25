@@ -73,7 +73,7 @@
 [s][bup 0 108 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 6 0 38 5 100]Sim, um paciente acabou em[n]estado crítico por minha causa.[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Takemi]]
-[s][bup 0 108 1 0 0][f 4 10 65535 0 0][vp 8 2 0 14081 65535 0][f 5 13 14 5 1008]Já. Você é apenas um aluno[n]estudando para o vestibular.[n][f 1 3 65535][w][e]
+[s][bup 0 108 1 0 0][f 4 10 65535 0 0][vp 8 2 0 14081 65535 0][f 5 13 14 5 1008]Concordo. Você é apenas um aluno[n]estudando para o vestibular.[n][f 1 3 65535][w][e]
 [s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 6 0 59 5 100]Eu diria que somos ambos[n]suspeitos, certo?[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Takemi]]

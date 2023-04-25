@@ -434,7 +434,7 @@
 [s]Você está me pedindo para jogar junto?[n]Bem, isso não me causa[n]nenhum problema, para ser honesto.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_08_R_6]
-[s]Já. Olho não vê,[n]coração não dói.[n][w][e]
+[s]Concordo. Olho não vê,[n]coração não dói.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_08_R_7]
 [s]Você esconde a verdade tão[n]descaradamente apenas para manter[n]as aparências? Você parece um político.[n][w][e]

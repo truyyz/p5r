@@ -7,7 +7,7 @@
 [s]Você pretende entrar?[e]
 
 [msg MSG_002_0_0 [Yusuke]]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 5 5 5]Já. Esta é a primeira vez que volto[n]aqui desde que me mudei...[n][f 1 3 65535][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 5 5 5]Concordo. Esta é a primeira vez que volto[n]aqui desde que me mudei...[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Yusuke]]
 [s][bup 0 5 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Huh? Ah, claro que sim...[n][f 1 3 65535][w][e]

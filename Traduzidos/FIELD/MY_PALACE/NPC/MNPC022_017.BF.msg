@@ -3,7 +3,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 3189 65535 0][f 4 23 1 65535 3 10 0 10]Papai disse que era o lema[n]da nossa família,[n]mas eu não concordo.[n][w][e]
 
 [msg MES_GROUP0_02 [Makoto]]
-[s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 2197 65535 0][f 4 23 1 65535 42 10 0 10]Já...[n][w][e]
+[s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 2197 65535 0][f 4 23 1 65535 42 10 0 10]Concordo...[n][w][e]
 [s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 3 10 0 10]É triste que eles sejam tão obcecados por lucros[n]e perdas que acabam se esquecendo das relações[n]pessoais.[n][w][e]
 
 [msg MES_GROUP1_01 [Yusuke]]

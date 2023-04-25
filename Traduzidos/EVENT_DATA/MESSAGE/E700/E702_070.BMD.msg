@@ -58,7 +58,7 @@
 [s][f 0 8 2 1 2217]Ele era um homem nobre.[clr 27][e]
 
 [msg MSG_007_0_0 [Makoto]]
-[s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 3 10 6]Já. E ainda falhamos[n]em ajudar as vítimas desses[n]crimes hediondos...[n][f 1 3 65535][w][e]
+[s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 3 10 6]Concordo. E ainda falhamos[n]em ajudar as vítimas desses[n]crimes hediondos...[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Makoto]]
 [s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 3 5 6]Sim... eu queria continuar[n]o trabalho dela, mas não havia nada[n]que eu pudesse fazer sozinha...[n][f 1 3 65535][w][e]

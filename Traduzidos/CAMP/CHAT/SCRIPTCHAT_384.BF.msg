@@ -23,7 +23,7 @@
 [s][f 5 14]O pai de Haru disse que[n]ele só fazia pedidos.[n][w][e]
 
 [msg MSG_008_0_0 [Makoto]]
-[s][f 5 14]Já. O verdadeiro culpado ainda está em[n]circulação, realizando prisões[n]mentais em troca de dinheiro.[n][w][e]
+[s][f 5 14]Concordo. O verdadeiro culpado ainda está em[n]circulação, realizando prisões[n]mentais em troca de dinheiro.[n][w][e]
 
 [msg MSG_009_0_0 [Ryuji]]
 [s][f 5 14]Temos que pegá-lo, seja ele quem[n]for...[n][w][e]

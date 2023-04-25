@@ -18,7 +18,7 @@
 [s]Não tenho certeza.[e]
 
 [msg MSG_006_0_0 [Makoto]]
-[s][f 5 14]Já...[n][w][e]
+[s][f 5 14]Concordo...[n][w][e]
 
 [msg MSG_007_0_0 [Makoto]]
 [s][f 5 14]Sim. Não saberemos quem estamos[n]enfrentando até obtermos a[n]imagem completa.[n][w][e]

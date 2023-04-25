@@ -283,7 +283,7 @@
 [s]Você decide quando enviar a[n]carta, Joker. Vamos tentar[n]estar prontos até lá![n][w][e]
 
 [msg DNG_ADVANCE_Re_100_01_PC_3 [Yusuke]]
-[s][bup 0 5 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4045 65535 0]Já. A fase preparatória pode ser considerada[n]concluída. Agora devemos[n]enfrentar o verdadeiro teste.[n][w][e]
+[s][bup 0 5 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4045 65535 0]Concordo. A fase preparatória pode ser considerada[n]concluída. Agora devemos[n]enfrentar o verdadeiro teste.[n][w][e]
 [s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Mas não é hora de ter medo, Joker. Chegamos até[n]aqui... Temos que fazer![n][w][e]
 
 [msg DNG_ADVANCE_Re_100_01_PC_4 [Makoto]]

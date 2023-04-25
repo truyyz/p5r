@@ -131,7 +131,7 @@
 [s][bup 0 5 0 65535 0][f 4 23 1 5 3 5 11 5][f 4 10 65535 0 0][vp 1 0 0 5 0 0]Eu entendo como você se sente, mas você não[n]precisa ficar com o coração partido.[n][w][e]
 
 [msg D06_YOKOKU_DAY_mes06 [Ryuji]]
-[s][bup 0 2 2 65535 0][f 4 23 1 2 3 5 11 5][f 4 10 65535 0 0][vp 1 0 0 6 0 0]Já. Se falharmos, estamos condenados.[n][w][e]
+[s][bup 0 2 2 65535 0][f 4 23 1 2 3 5 11 5][f 4 10 65535 0 0][vp 1 0 0 6 0 0]Concordo. Se falharmos, estamos condenados.[n][w][e]
 [s][f 4 10 65535 0 0][vp 1 0 0 7 0 0]O que está em jogo não é apenas o[n]lugar a que nos sentimos pertencentes.[n]Poderíamos até arriscar nossas vidas.[n][w][e]
 
 [msg D06_YOKOKU_DAY_mes07 [Makoto]]

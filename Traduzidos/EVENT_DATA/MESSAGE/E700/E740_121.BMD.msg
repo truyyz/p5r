@@ -76,7 +76,7 @@
 [s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sim, definitivamente valeu a pena.[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Ryuji]]
-[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Já. Eu poderia comê-lo[n]todos os dias...[n][f 1 3 65535][w][e]
+[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Concordo. Eu poderia comê-lo[n]todos os dias...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Nós só comemos uma[n]mordida cada...[n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Ann]]

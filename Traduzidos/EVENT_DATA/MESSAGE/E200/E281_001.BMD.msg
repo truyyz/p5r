@@ -52,7 +52,7 @@
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Acho que não retornou[n]nenhum resultado.[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]Já. É uma questão que preocupa[n]sua família. Acho que[n]não devemos atrapalhar.[n][f 1 3 65535][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]Concordo. É uma questão que preocupa[n]sua família. Acho que[n]não devemos atrapalhar.[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Ryuji]]
 [s][bup 0 2 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Ei... E se Alibaba for[n]a ex-mulher do chefe?!?[n][f 1 3 65535][w][e]

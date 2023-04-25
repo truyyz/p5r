@@ -20,7 +20,7 @@
 [s][f 5 14]Isso é o que acontece quando você[n]mata a sombra de alguém, certo?[n][w][e]
 
 [msg MSG_008_0_0 [Ann]]
-[s][f 5 14]Já. Estávamos preocupados com[n]sobre isso com Kamoshida e[n]Madarame, lembra?[n][w][e]
+[s][f 5 14]Concordo. Estávamos preocupados com[n]sobre isso com Kamoshida e[n]Madarame, lembra?[n][w][e]
 
 [msg MSG_009_0_0 [Futaba]]
 [s][f 5 14]Arrebatamentos e prisões mentais...[n]Faria sentido se[n]a mesma pessoa estivesse por trás disso.[n][w][e]

@@ -47,7 +47,7 @@
 [s][bup 0 113 4 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 30 10 0 10][vp 8 2 1 10069 65535 0]O-o que é isso?[n][w][e]
 
 [msg MES_GROUP5_02 [Takemi]]
-[s][bup 0 108 3 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 14028 65535 0]Já. Eu não sei nada sobre sua aura ou[n]seu destino ou qualquer coisa...[n][w][e]
+[s][bup 0 108 3 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 14028 65535 0]Concordo. Eu não sei nada sobre sua aura ou[n]seu destino ou qualquer coisa...[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Mas posso dizer com segurança que[n]aquele cara não está bem com a cabeça.[n][w][e]
 
 [msg MES_GROUP5_03 [Chihaya]]

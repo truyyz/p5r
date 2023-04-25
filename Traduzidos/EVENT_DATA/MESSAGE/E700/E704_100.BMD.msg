@@ -172,7 +172,7 @@
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 75 65535 0]Que homem estranho...[n][f 1 3 65535][w][e]
 
 [sel SEL_049_0_0 top]
-[s]Já...[e]
+[s]Concordo...[e]
 [s]Você é ainda mais estranho.[e]
 [s]Tem certeza do que está fazendo?[e]
 

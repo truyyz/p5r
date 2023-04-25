@@ -77,7 +77,7 @@
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 7192 65535 0]Bem... você sabe que é um porco, certo?[n][w][e]
 
 [msg MES_GROUP8_02 [Yusuke]]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 4023 65535 0]Já. Parte porco e parte mosquito.[n][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 4023 65535 0]Concordo. Parte porco e parte mosquito.[n][w][e]
 
 [msg MES_GROUP8_03 [Haru]]
 [s][bup 0 7 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 3035 65535 0]É a primeira vez que o vejo, mas para mim ele[n]parece um porco.[n][w][e]

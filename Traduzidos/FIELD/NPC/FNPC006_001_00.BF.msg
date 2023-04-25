@@ -390,7 +390,7 @@
 
 [msg MSG_GYAKUSAGI_007_0_0 [Menino tranquilo]]
 [s][vp 8 2 1 0 7 0]Aquele velho era muito fácil.[n]Eu ganho mais dinheiro com ele do que eu[n]jamais teria feito na rua.[n][w][e]
-[s][vp 8 2 1 0 7 0]Já. Aqueles caras que praticam extorsão[n]geralmente fazem saque total.[n]Nós acertamos.[n][w][e]
+[s][vp 8 2 1 0 7 0]Concordo. Aqueles caras que praticam extorsão[n]geralmente fazem saque total.[n]Nós acertamos.[n][w][e]
 [s][vp 8 2 1 0 7 0]Uh huh. Mas sim, aquele velho nunca nunca duvidou[n]de mim. Ele até me ofereceu dinheiro[n]espontaneamente![n][w][e]
 [s][vp 8 2 1 0 7 0]Bastou-me pronunciar o nome de seu filho para[n]tê-lo em minhas mãos.[n][w][e]
 [s][vp 8 2 1 0 7 0]Merda, porém, é absurdo quanto dinheiro[n]esses velhos bastardos têm. Tenho que[n]encontrar outro para ordenhar.[n][w][e]

@@ -5,7 +5,7 @@
 [s][f 5 14][f 5 15]Você está livre depois da escola?[n][w][e]
 
 [sel SEL_COOP_PLAY_RESULT top]
-[s][f 5 14]Já.[e]
+[s][f 5 14]Concordo.[e]
 
 [msg CHAT_REACTION_01 [Kasumi]]
 [s][f 5 14]Obrigado![n][w][e]

@@ -18,7 +18,7 @@
 [s][vp 8 2 1 0 803 0]Meu único arrependimento é que está muito lotado.[n]Eu não poderia ficar mais tempo ...[n][w][e]
 
 [msg MSG_193_104_WOMEN_01 [Mulher rica]]
-[s][f 4 23 1 804 3 10 0 0][vp 8 2 1 0 804 0]Já. Depois de falarem sobre isso na[n]TV, todos os[n]usuários ocasionais de arte se reuniram lá.[n][w][e]
+[s][f 4 23 1 804 3 10 0 0][vp 8 2 1 0 804 0]Concordo. Depois de falarem sobre isso na[n]TV, todos os[n]usuários ocasionais de arte se reuniram lá.[n][w][e]
 
 [msg MSG_193_104_WOMEN_02 [Mulher com perfume excessivo]]
 [s][f 4 23 1 803 3 10 0 0][vp 8 2 1 0 803 0]Eu gostaria de poder levar um para casa para[n]aproveitá-lo em paz. Meu marido poderia comprar[n]um.[n][w][e]

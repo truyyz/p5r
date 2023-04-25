@@ -27,7 +27,7 @@
 [s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Temos tantas memórias juntos,[n]que são ainda mais vivas do que[n]o que fizemos na escola.[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Ann]]
-[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Já. Mas vai ser triste não ver mais vocês dois na[n]escola...[n][f 1 3 65535][w][e]
+[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Concordo. Mas vai ser triste não ver mais vocês dois na[n]escola...[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Futaba]]
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Não se preocupe. Vou começar[n]aulas aqui em abril.[n][f 1 3 65535][w][e]

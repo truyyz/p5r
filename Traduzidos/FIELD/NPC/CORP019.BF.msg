@@ -196,7 +196,7 @@
 [s]Podemos realmente fazer isso?[e]
 
 [msg MSG_C19_MGK_01_02 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Já. Você deveria ir falar com ele.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Concordo. Você deveria ir falar com ele.[n][w][e]
 
 [msg MSG_C19_MGK_01_03 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Bem, cabe a você, certo?[n][w][e]

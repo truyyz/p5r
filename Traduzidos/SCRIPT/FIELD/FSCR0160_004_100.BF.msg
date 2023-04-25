@@ -25,7 +25,7 @@
 [s][bup 0 6 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 1 0 0]Não é de admirar que existam tantos inimigos[n]poderosos aqui...[n][w][e]
 
 [msg D08_02_e457_030_mes02 [Yusuke]]
-[s][bup 0 5 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 2 0 0]Já. Embora não sejam verdadeiros[n]"servos de Deus", eles[n]fazem jus a esse apelido...[n][w][e]
+[s][bup 0 5 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 2 0 0]Concordo. Embora não sejam verdadeiros[n]"servos de Deus", eles[n]fazem jus a esse apelido...[n][w][e]
 
 [msg D08_02_e457_030_mes03 [Haru]]
 [s][bup 0 7 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 3 0 0]Eu me pergunto se as pessoas na cidade[n]estão bem...[n][w][e]

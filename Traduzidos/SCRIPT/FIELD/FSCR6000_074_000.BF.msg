@@ -5,7 +5,7 @@
 [s][bup 0 4 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6115 65535 0]Enganar as pessoas e roubar seu dinheiro é[n]imperdoável![n][w][e]
 
 [msg MSG_QST_074_03 [Makoto]]
-[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2023 65535 0]Já. Vamos despertar o coração dela e[n]impedi-la de trair[n]outras pessoas![n][w][e]
+[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2023 65535 0]Concordo. Vamos despertar o coração dela e[n]impedi-la de trair[n]outras pessoas![n][w][e]
 
 [msg MSG_QST_074_04 [Sombra de Amai]]
 [s][vp 8 2 1 47610 65535 0]Oh? Você também quer comprar[n]"BillionCoin"?[n][w][e]

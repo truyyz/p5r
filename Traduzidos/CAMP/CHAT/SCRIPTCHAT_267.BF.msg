@@ -11,7 +11,7 @@
 [s]Existe um ídolo envolvido?[e]
 
 [msg MSG_002_0_0 [Ryuji]]
-[s][f 5 14]Já. Ter uma família briguenta é uma[n]merda...[n][w][e]
+[s][f 5 14]Concordo. Ter uma família briguenta é uma[n]merda...[n][w][e]
 [s][f 5 14]Enfim, fiz algumas[n]investigações sobre esse ídolo indie.[n][w][e]
 
 [msg MSG_003_0_0 [Ryuji]]

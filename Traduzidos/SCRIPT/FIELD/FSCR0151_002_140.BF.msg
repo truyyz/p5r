@@ -23,7 +23,7 @@
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7095 65535 0]Enfim, que bom que[n]nas várias explorações[n]aprendemos a estrutura do lugar.[n][w][e]
 
 [msg D01_04_e159_020_selA_1_m [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1022 65535 0]Já. Poderíamos alcançar[n]lugares dos quais havíamos escapado antes.[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1022 65535 0]Concordo. Poderíamos alcançar[n]lugares dos quais havíamos escapado antes.[n][w][e]
 
 [msg D01_04_e159_020_selA_1_m_2 [Ryuji]]
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Enfim, que bom que[n]nas várias explorações[n]aprendemos a estrutura do lugar.[n][w][e]

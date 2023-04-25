@@ -31,7 +31,7 @@
 [s][f 5 14][f 5 15]Talvez eu me preocupe demais...[n]Provavelmente não é nada.[n][w][e]
 
 [msg MSG_005_0_0 [Ann]]
-[s][f 5 14]Já. A verdadeira questão é: quem?[n][w][e]
+[s][f 5 14]Concordo. A verdadeira questão é: quem?[n][w][e]
 
 [msg MSG_005_3_0 [Ann]]
 [s][f 5 14][f 5 15]Eu diria que temos que esperar[n]e ver o que acontece.[n][w][e]

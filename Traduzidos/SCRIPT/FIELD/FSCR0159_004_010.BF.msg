@@ -8,7 +8,7 @@
 [s][bup 0 7 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 3019 65535 0]a hora finalmente chegou.[n][w][e]
 
 [msg D07_02_e423_301_mes04 [Makoto]]
-[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Já.[n][w][e]
+[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Concordo.[n][w][e]
 
 [msg D07_02_e423_301_mes05 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1158 65535 0]Temos que roubar[n]seus malditos desejos daquele bastardo! Vamos![n][w][e]

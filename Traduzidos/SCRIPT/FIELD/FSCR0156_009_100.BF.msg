@@ -61,6 +61,6 @@
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Então este é o nosso objetivo![n][w][e]
 
 [msg D156_09_miniEV02_mes02 [Makoto]]
-[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2020 65535 0]Já...[n][w][e]
+[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2020 65535 0]Concordo...[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Mas sem parar a imprensa,[n]duvido que seremos capazes[n]de alcançá-lo.[n][w][e]
 

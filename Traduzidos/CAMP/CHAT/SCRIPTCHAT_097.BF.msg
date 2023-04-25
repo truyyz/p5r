@@ -15,7 +15,7 @@
 [s]Tem certeza, Ryuji?[e]
 
 [msg MSG_005_0_0 [Ryuji]]
-[s][f 5 14]Visualizar?[n][w][e]
+[s][f 5 14]Viu?[n][w][e]
 
 [msg MSG_006_0_0 [Ryuji]]
 [s][f 5 14]Ah, estou errado?[n][w][e]
@@ -58,7 +58,7 @@
 [s][f 5 14]Também não temos muito tempo para discutir sobre isso.[n]Aquele Madarame(?) me incomoda.[n][w][e]
 
 [msg MSG_019_0_0 [Ann]]
-[s][f 5 14]Já. Mas não se empolgue muito, ok?[n][w][e]
+[s][f 5 14]Concordo. Mas não se empolgue muito, ok?[n][w][e]
 
 [msg MSG_020_0_0 [Ann]]
 [s][f 5 14]E certifique-se de não fazer nada sem[n]sentido, como falhar.[n][w][e]

@@ -129,7 +129,7 @@
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Houve[n]menos suicídios este mês, chefe![n][w][e]
 
 [msg MSG_EKIINSET_012_1_0 [Atendente veterano da estação]]
-[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Já. Talvez as pessoas[n]estão mais felizes graças a[n]Phantom Thieves.[n][w][e]
+[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Concordo. Talvez as pessoas[n]estão mais felizes graças a[n]Phantom Thieves.[n][w][e]
 
 [msg MSG_EKIINSET_012_2_0 [Atendente de posto iniciante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Eu também me sinto feliz, patrão![n]Nem suas repreensões[n]poderiam tirar meu bom humor![n][w][e]

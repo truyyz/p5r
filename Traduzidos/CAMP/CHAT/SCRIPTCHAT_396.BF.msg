@@ -20,7 +20,7 @@
 [s][f 5 14]Queríamos esperar o máximo[n]possível para entrar em pânico[n]irmã de Makoto... certo?[n][w][e]
 
 [msg MSG_007_0_0 [Makoto]]
-[s][f 5 14]Já. Considerando tudo, hoje[n]é nossa melhor opção.[n][w][e]
+[s][f 5 14]Concordo. Considerando tudo, hoje[n]é nossa melhor opção.[n][w][e]
 
 [msg MSG_008_0_0 [Makoto]]
 [s][f 5 14]Podemos conversar mais profundamente sobre[n]isso depois da escola.[n][w][e]

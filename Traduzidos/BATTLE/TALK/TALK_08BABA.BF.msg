@@ -422,7 +422,7 @@
 [s]Bem, talvez não seja uma coisa tão terrível.[n]Definir muitos limites em uma idade jovem seria[n]ainda pior.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_08_R_2]
-[s]Bem, eu não culpo você, filho.[n]Como se diz no mundo real?[n]"Bem-aventurada ignorância". Já.[n][w][e]
+[s]Bem, eu não culpo você, filho.[n]Como se diz no mundo real?[n]"Bem-aventurada ignorância". Concordo.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_08_R_3]
 [s]Ah, então você também[n]faz parte do tipo de pessoa[n]que eu detesto, filho.[n][w][e]
@@ -1001,7 +1001,7 @@
 [s]Acho que essa[n]teimosia é um dos[n]privilégios de ser jovem.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_10_R_5]
-[s]Já. Se acontecesse comigo,[n]acho que morreria de solidão.[n][w][e]
+[s]Concordo. Se acontecesse comigo,[n]acho que morreria de solidão.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_10_R_6]
 [s]Querida, você está sempre saindo com seus amigos,[n]não é? Acho que você não sabe o que é solidão.[n][w][e]

@@ -9,7 +9,7 @@
 [s]O que você está falando?[e]
 
 [msg MSG_003_0_0 [Jose]]
-[s][bup 0 221 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Já. Isto é...[n][f 1 3 65535][w][e]
+[s][bup 0 221 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Concordo. Isto é...[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Jose]]
 [s][bup 0 221 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bem, na verdade...[n][f 1 3 65535][w][e]

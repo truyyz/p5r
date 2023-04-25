@@ -15,5 +15,5 @@
 [s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4018 65535 0]Então, os pontos azuis que passamos voltam a ser[n]amarelos...?[n][w][e]
 
 [msg D08_01_e440_013_mes02 [Futaba]]
-[s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Já. Parece que a cor[n]muda toda vez que você passa o mouse[n]sobre um ponto.[n][w][e]
+[s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Concordo. Parece que a cor[n]muda toda vez que você passa o mouse[n]sobre um ponto.[n][w][e]
 

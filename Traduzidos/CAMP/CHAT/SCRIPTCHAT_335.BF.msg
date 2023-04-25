@@ -19,7 +19,7 @@
 [s][f 5 14]Você quer dizer como nosso inimigo[n]poderia ser o mesmo que[n]mirou na mãe de Futaba?[n][w][e]
 
 [msg MSG_006_0_0 [Yusuke]]
-[s][f 5 14]Já. Uma parada mental a matou,[n]o mesmo método que o culpado[n]que estamos caçando.[n][w][e]
+[s][f 5 14]Concordo. Uma parada mental a matou,[n]o mesmo método que o culpado[n]que estamos caçando.[n][w][e]
 
 [msg MSG_007_0_0 [Ann]]
 [s][f 5 14]Mas espere um segundo...[n]Você não disse que o chefe tinha que[n]"fugir"...?[n][w][e]

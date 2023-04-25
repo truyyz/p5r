@@ -17,7 +17,7 @@
 [s][f 5 14]Ainda há algumas coisas negócios[n]inacabados, mas acho que lidamos bem.[n][w][e]
 
 [sel SEL_006_0_0 top]
-[s][f 5 14]Já.[e]
+[s][f 5 14]Concordo.[e]
 [s]Insuficiente.[e]
 
 [msg MSG_007_0_0 [Ann]]
@@ -27,7 +27,7 @@
 [s][f 5 14]Vamos lá, pela primeira vez também podemos[n]ficar satisfeitos.[n][w][e]
 
 [msg MSG_009_0_0 [Yusuke]]
-[s][f 5 14]Já. Conseguimos roubar o coração de um[n]criminoso famoso.[n][w][e]
+[s][f 5 14]Concordo. Conseguimos roubar o coração de um[n]criminoso famoso.[n][w][e]
 
 [msg MSG_010_0_0 [Ryuji]]
 [s][f 5 14]Quem sabe como Akechi[n]ficará quando ouvir isso![n][w][e]

@@ -469,7 +469,7 @@
 [s]Veremos novamente.[e]
 
 [msg MSG_C16_BYEGREET_00_02_5 [Shinya]]
-[s][bup 0 110 1 0 0][f 4 10 65535 0 0][f 4 23 1 216 3 10 0 10][vp 8 0 1 19 65535 0]Já. Aconteça o que acontecer,[n]i vou continuar ganhando.[n][w][e]
+[s][bup 0 110 1 0 0][f 4 10 65535 0 0][f 4 23 1 216 3 10 0 10][vp 8 0 1 19 65535 0]Concordo. Aconteça o que acontecer,[n]i vou continuar ganhando.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 20 65535 0]E se eu perder, então… eu vou enfrentá-lo! Como você me ensinou,[n][f 4 1]-san![n][w][e]
 
 [msg MSG_C16_BYEGREET_00_03_5 [Shinya]]

@@ -10,7 +10,7 @@
 [s][f 0 8 2 1 2217]Vai ser ótimo.[clr 27][e]
 
 [msg MSG_002_0_0 [Haru]]
-[s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 3200 65535 0][f 5 13 4 5 7]Já. É preciso coragem[n]para pedir um, mas acho que[n]vale a pena.[n][f 1 3 65535][w][e]
+[s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 3200 65535 0][f 5 13 4 5 7]Concordo. É preciso coragem[n]para pedir um, mas acho que[n]vale a pena.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E então meu pai sempre dizia que,[n]quando se trata de aprender,[n]você nunca deve economizar dinheiro.[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Haru]]
@@ -151,7 +151,7 @@
 [s][f 0 8 2 1 2217]Não sei dizer.[clr 27][e]
 
 [msg MSG_029_0_0 [Haru]]
-[s][bup 0 7 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Já. Ele parece ter muitos seguidores entre seus[n]outros funcionários.[n][f 1 3 65535][w][e]
+[s][bup 0 7 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Concordo. Ele parece ter muitos seguidores entre seus[n]outros funcionários.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mesmo que haja alguém que[n]o considere apenas um vilão[n]desonesto... Quem estará certo...?[n][f 1 3 65535][w][e]
 
 [msg MSG_030_0_0 [Haru]]
