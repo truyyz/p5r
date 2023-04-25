@@ -27,16 +27,16 @@
 
 [msg MSG_036_0_0 [Sombra de Takanashi]]
 [s][vp 8 2 1 46514 65535 0]O que? Vocês são muitos[n]e eu apenas um! Vocês são Phantom Thieves[n]algum tipo de gangue?!?[n][w][e]
-[s][vp 1 0 0 0 0 0]Protetores da justiça, porra! Você se gaba tanto,[n]mas não sabe do que está falando![n][w][e]
+[s][vp 1 0 0 0 0 0]Protetores da justiça, porra nenhuma! Vocês se gabam tanto,[n]mas não sabem do que estão falando![n][w][e]
 
 [msg MSG_037_0_0 [Ryuji]]
-[s][bup 0 2 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 0 0 0]Você é quem não sabe![n]Em mim![n][w][e]
+[s][bup 0 2 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 0 0 0]Você é quem não sabe nada![n]Vamos pegá-lo![n][w][e]
 
 [msg MSG_039_0_0 [Sombra de Takanashi]]
 [s][vp 8 2 1 46515 65535 0]M-Mas se eu não fizer isso, eles vão[n]me machucar. Não quero que[n]mais dinheiro seja tirado de mim![n][w][e]
 
 [msg MSG_040_0_0 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 0 7182 65535 0]O que você está falando?[n][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 0 7182 65535 0]Do que você está falando?[n][w][e]
 
 [msg MSG_041_0_0 [Sombra de Takanashi]]
 [s][vp 1 0 0 0 0 0]Se eu não fizer isso, serei eu[n]a sofrer bullying![n]Eu não quero![n][w][e]
@@ -65,13 +65,13 @@
 [s][vp 1 0 0 0 0 0]Eu te imploro! Por favor, pense nisso![n]Eu também sou uma vítima![n][w][e]
 
 [msg MSG_049_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 0 0 0]Vamos fazê-lo. Pode nos levar a um tesouro melhor.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 0 0 0]Vamos ajudar. Pode nos levar a um tesouro melhor.[n][w][e]
 
 [msg MSG_050_0_0 [Sombra de Takanashi]]
 [s][vp 1 0 0 0 0 0]P-por favor! Eu imploro de joelhos se você quiser![n][w][e]
 
 [msg MSG_051_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 0 0 0]Vamos fazê-lo. Pode nos levar a um tesouro melhor.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 0 0 0]Vamos ajudar. Pode nos levar a um tesouro melhor.[n][w][e]
 
 [msg MSG_052_0_0 [Sombra de Takanashi]]
 [s][vp 1 0 0 0 0 0]Estou contando com você.[n]Você me prometeu.[n][w][e]

@@ -38,7 +38,7 @@
 [s]Eles se escondem na multidão.[e]
 
 [msg MSG_011_0_0 [Yusuke]]
-[s][f 5 14]Eu vejo.[n][w][e]
+[s][f 5 14]Entendi.[n][w][e]
 [s][f 5 14]Sim, durante o dia há[n]mais alunos por perto, enquanto à[n]noite a polícia está mais vigilante.[n][w][e]
 
 [msg MSG_012_0_0 [Ann]]

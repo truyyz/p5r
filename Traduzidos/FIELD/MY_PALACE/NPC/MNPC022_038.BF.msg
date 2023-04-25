@@ -10,7 +10,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Minha verdadeira mãe está[n]comigo...em meu coração.[n][w][e]
 
 [msg MES_GROUP0_04 [Yusuke]]
-[s][bup 0 5 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 4026 65535 0]Eu vejo.[n][w][e]
+[s][bup 0 5 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 4026 65535 0]Entendi.[n][w][e]
 
 [msg MES_GROUP1_01 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 7192 65535 0]A mãe de Futaba ficou[n]assim por causa das mentiras[n]daqueles adultos de merda, não é?[n][w][e]

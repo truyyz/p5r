@@ -718,7 +718,7 @@
 [s][f 4 23 1 11 3 10 0 10][vp 8 2 1 0 11 0]Agora eu quero conhecer os... Como vocês os[n]chamam... Phantom Thieves?[n][w][e]
 
 [msg MSG_TAXIUNTENSYU_007_3_0 [Taxista]]
-[s][f 4 23 1 10 3 10 0 10][vp 8 2 1 0 10 0]Eu vejo isso difícil. Mas ainda assim,[n]o que você se importa com eles?[n][w][e]
+[s][f 4 23 1 10 3 10 0 10][vp 8 2 1 0 10 0]Entendi isso difícil. Mas ainda assim,[n]o que você se importa com eles?[n][w][e]
 
 [msg MSG_TAXIUNTENSYU_008_0_0 [Funcionário aprovado]]
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Como vão os negócios, cara?[n][w][e]
@@ -2175,11 +2175,11 @@
 [s][f 4 23 1 80 3 10 0 0][vp 8 2 1 0 80 0]Obrigada. Aqui está para você.[n][w][e]
 
 [msg MSG_TRADE_CANCEL_MAOU_RA [Homem ganancioso]]
-[s][f 4 23 1 80 3 10 0 0][vp 8 2 1 0 80 0]Eu vejo. Bem, talvez outra hora.[n][w][e]
+[s][f 4 23 1 80 3 10 0 0][vp 8 2 1 0 80 0]Entendi. Bem, talvez outra hora.[n][w][e]
 [s][vp 8 2 1 0 80 0]Se você encontrar Mothman,[n]traga-o para mim![n][w][e]
 
 [msg MSG_TRADE_CANCEL_COMMON [Homem ganancioso]]
-[s][f 4 23 1 80 3 10 0 0][vp 8 2 1 0 80 0]Eu vejo. Bem, talvez outra hora.[n][w][e]
+[s][f 4 23 1 80 3 10 0 0][vp 8 2 1 0 80 0]Entendi. Bem, talvez outra hora.[n][w][e]
 
 [msg MSG_ODATOMO_001_0_0 [Menino reservado]]
 [s][f 4 23 1 781 3 1 0 1][vp 8 2 1 0 781 0]Ei, você quer praticar um pouco de[n]Gun About antes que Shinya chegue aqui?[n][w][e]

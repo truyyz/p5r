@@ -100,7 +100,7 @@
 [s][vp 8 2 1 0 0 0]Você mudou de ideia?[n]Qual livro[n]você quer devolver?[n][w][e]
 
 [msg MSG_BOOK_SYS_NOT_USE [Estudante bibliotecário]]
-[s][vp 8 2 1 0 0 0]Eu vejo. Se precisar de[n]outro, volte.[n][w][e]
+[s][vp 8 2 1 0 0 0]Entendi. Se precisar de[n]outro, volte.[n][w][e]
 
 [msg MSG_TEST]
 [s]Qual eu pego?[n][w][e]

@@ -42,7 +42,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Sim, se vamos continuar[n]lutando, melhor fazê-lo com estilo.[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Morgana]]
-[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Direita? Certo?!?[n][f 1 3 65535][w][e]
+[s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Certo? Certo?!?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Então, essa ideia me veio...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Acho fantástico! E se[n]você também fizer a sua parte,[n]Lady Ann, certamente teremos sucesso![n][f 1 3 65535][w][e]
 

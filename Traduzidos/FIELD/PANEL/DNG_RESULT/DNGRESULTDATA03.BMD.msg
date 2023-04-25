@@ -32,7 +32,7 @@
 [s]Chave Esquerda Obtida[n][w][e]
 
 [msg D03_RESULT_TXT12]
-[s]Primeira Semente da Ganância roubada[n][w][e]
+[s]Primeira Semente da Vontade roubada[n][w][e]
 
 [msg D03_RESULT_TXT13]
 [s]Anteparo gigante aberto[n][w][e]
@@ -47,7 +47,7 @@
 [s]Sala segura encontrada[n][w][e]
 
 [msg D03_RESULT_TXT17]
-[s]Segunda Semente da Ganância roubada[n][w][e]
+[s]Segunda Semente da Vontade roubada[n][w][e]
 
 [msg D03_RESULT_TXT18]
 [s]Cofre Infiltrado[n][w][e]
@@ -65,7 +65,7 @@
 [s]Terceiro bloqueio desbloqueado[n][w][e]
 
 [msg D03_RESULT_TXT23]
-[s]Terceira Semente da Ganância roubada[n][w][e]
+[s]Terceira Semente da Vontade roubada[n][w][e]
 
 [msg D03_RESULT_TXT24]
 [s]Quarta fechadura desbloqueada[n][w][e]

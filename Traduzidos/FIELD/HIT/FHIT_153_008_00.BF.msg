@@ -84,7 +84,7 @@
 [s][bup 0 2 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7041 65535 0]Uooo, parte da parede[n]parecia descascando, então eu[n]puxei para fora! Era uma parede falsa!?![n][w][e]
 
 [msg fev0153_008_200_01_04 [Yusuke]]
-[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu vejo. Então foi disfarçado.[n]Teríamos ficado aqui[n]para sempre se você não tivesse notado.[n][w][e]
+[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Entendi. Então foi disfarçado.[n]Teríamos ficado aqui[n]para sempre se você não tivesse notado.[n][w][e]
 
 [msg fev0153_008_200_01_05 [Morgana]]
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1072 65535 0]Oh! Crânio bem feito! Você fez isso![n][w][e]

@@ -9,7 +9,7 @@
 [s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4023 65535 0]Muito bem. Pode[n]vir a calhar.[n][w][e]
 
 [msg D04_03_e295_081_selA_1_m [Yusuke]]
-[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4020 65535 0]Eu vejo. Mas vamos tentar[n]lembrar onde está. Pode[n]vir a calhar.[n][w][e]
+[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4020 65535 0]Entendi. Mas vamos tentar[n]lembrar onde está. Pode[n]vir a calhar.[n][w][e]
 
 [msg MSG_e295_081_AF01_000 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Hã? Você decidiu[n]obter a joia?[n][w][e]

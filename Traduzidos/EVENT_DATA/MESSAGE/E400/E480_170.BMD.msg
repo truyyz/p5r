@@ -15,24 +15,24 @@
 
 [msg MSG_005_0_0 [Morgana]]
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Assim como eu pensei...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]...a "Semente da Saudade".[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]...a "Semente da Vontade".[n][f 1 3 65535][w][e]
 
 [sel SEL_006_0_0 top]
-[s]Semente da ganância?[e]
+[s]Sementes da Vontade?[e]
 [s]Você sabe o que é isto?[e]
 
 [msg MSG_007_0_0 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Palácios são lugares que[n]foram distorcidos pelo[n]conhecimento de seus senhores.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Quando as distorções se fundem[n]em uma única forma, este é o[n]resultado: uma Semente de Luxúria.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Quando as distorções se fundem[n]em uma única forma, este é o[n]resultado: uma Semente da Vontade.[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Ryuji]]
-[s][bup 0 2 104 0 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Distorções…fundir…em[n]Sementes de luxúria…[n][f 1 3 65535][w][e]
+[s][bup 0 2 104 0 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Distorções…se fudem…em[n]Sementes da Vontade…[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Morgana]]
 [s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Devo tentar explicar para você novamente?[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Ryuji]]
-[s][bup 0 2 103 0 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Ei, esquece! É uma semente[n]de cobiça. Ok! Vá em frente...[n][f 1 3 65535][w][e]
+[s][bup 0 2 103 0 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Ei, esquece! É uma Semente[n]da Vontade. Ok! Vá em frente...[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Ann]]
 [s][bup 0 4 100 0 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Então, o que fazemos com isso?[n][f 1 3 65535][w][e]

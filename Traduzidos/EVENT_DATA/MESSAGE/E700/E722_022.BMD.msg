@@ -69,7 +69,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ele não diz para parar[n]ginástica. Você quer...[n]eu fazer uma pausa.[n][f 1 3 65535][w][e]
 
 [sel SEL_017_0_0 top]
-[s]Eu vejo.[e]
+[s]Entendi.[e]
 [s]E agora...?[e]
 
 [msg MSG_018_0_0 [Kasumi]]

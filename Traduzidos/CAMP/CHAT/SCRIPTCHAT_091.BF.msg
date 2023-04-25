@@ -19,7 +19,7 @@
 [s][f 5 14]Vamos lá, aquele idiota não merece sua[n]simpatia.[n][w][e]
 
 [msg MSG_006_0_0 [Ryuji]]
-[s][f 5 14]Direita![n][w][e]
+[s][f 5 14]Tá certo![n][w][e]
 
 [msg MSG_007_0_0 [Futaba]]
 [s][f 5 14]Oooh! Olhe para ele, todo superior[n]e e desinteressado![n][w][e]

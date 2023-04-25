@@ -13,7 +13,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você não acha[n]algo estranho?[n][f 1 3 65535][w][e]
 
 [sel SEL_003_0_0 top]
-[s]Por nada.[e]
+[s]De jeito nenhum.[e]
 [s][f 0 8 2 1 2217]Claro.[clr 27][e]
 [s]Ele gosta de armas?[e]
 

@@ -13,7 +13,7 @@
 [s][bup 0 109 601 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Então eu vou em frente[n]e termino o trabalho![n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Kawakami]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 109 16 300 1][vp 8 2 0 15150 65535 0]Eu vejo! Você deve ter um[n]coração de aço![n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 109 16 300 1][vp 8 2 0 15150 65535 0]Entendi! Você deve ter um[n]coração de aço![n][f 1 3 65535][w][e]
 [s][bup 0 109 602 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Então eu acho que você não se importa se eu[n]deixar seu quarto uma bagunça, certo? [n][clr 2][f 1 9 0][clr 27][n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Kawakami]]

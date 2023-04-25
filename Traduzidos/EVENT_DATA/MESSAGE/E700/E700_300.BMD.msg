@@ -626,7 +626,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Enquanto continuo desenhando, algo[n]certamente virá à mente.[n][f 1 3 65535][w][e]
 
 [msg MSG_159_0_0 [Yusuke]]
-[s][bup 0 5 0 65535 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu vejo. Então você diz que eu deveria[n]colocar mais amor em minha arte...[n][f 1 3 65535][w][e]
+[s][bup 0 5 0 65535 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Entendi. Então você diz que eu deveria[n]colocar mais amor em minha arte...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu era imprudente. Preciso dar um passo para trás[n]e me reavaliar.[n][f 1 3 65535][w][e]
 
 [msg MSG_160_0_0 [Yusuke]]
@@ -1932,7 +1932,7 @@
 [s]Por que você não pergunta diretamente?[e]
 
 [msg MSG_493_0_0 [Futaba]]
-[s][bup 0 8 1 65535 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 10 5 8]Direita! Direita?!? Ok, este é[n]outro motivo para trabalhar nisso![n][f 1 3 65535][w][e]
+[s][bup 0 8 1 65535 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 10 5 8]Tá certo! Certo?!? Ok, este é[n]outro motivo para trabalhar nisso![n][f 1 3 65535][w][e]
 [s][bup 0 8 0 65535 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu queria pensar em algo[n]que eu pudesse fazer por Sojiro,[n]mas... não tenho muitas ideias agora.[n][f 1 3 65535][w][e]
 
 [msg MSG_494_0_0 [Futaba]]
@@ -3476,7 +3476,7 @@
 [s]Não se esforce demais.[e]
 
 [msg MSG_878_0_0 [Ohya]]
-[s][bup 0 107 1 65535 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 16 5 1007]Direita! Eu não vou deixar essas coisas[n]me derrubar! Eu sou foda![n][f 1 3 65535][w][e]
+[s][bup 0 107 1 65535 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 16 5 1007]Tá certo! Eu não vou deixar essas coisas[n]me derrubar! Eu sou foda![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Olhe para mim, seu chefe de merda![n]Você vai rastejar aos meus pés![n][f 1 3 65535][w][e]
 
 [msg MSG_879_0_0 [Ohya]]
@@ -4448,7 +4448,7 @@
 [s][bup 0 112 1 0 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 20 5 1012]Ai que alívio. Eu tenho que te dizer,[n]foi quase nostálgico para mim...[n]Isso me lembra dos velhos tempos.[n][f 1 3 65535][w][e]
 
 [msg MSG_1124_0_0 [Yoshida]]
-[s][bup 0 112 0 0 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 20 5 1012]Eu vejo. Bem, pelo menos estou feliz.[n][f 1 3 65535][w][e]
+[s][bup 0 112 0 0 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 20 5 1012]Entendi. Bem, pelo menos estou feliz.[n][f 1 3 65535][w][e]
 
 [msg MSG_1125_0_0 [Yoshida]]
 [s][bup 0 112 1 0 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 20 5 1012]O que realmente? Eu não esperava[n]tal impacto... Estou feliz por[n]ajudar alguém.[n][f 1 3 65535][w][e]
@@ -4796,7 +4796,7 @@
 [s][bup 0 10 3 65535 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Espere, eu tenho um[n]maiô? Acho que não tenho nada[n]além de corpo...[n][f 1 3 65535][w][e]
 
 [msg MSG_1215_0_0 [Kasumi]]
-[s][bup 0 10 1 65535 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 33 5 10]Eu vejo. É ótimo para[n]músculos centrais e resistência![n][f 1 3 65535][w][e]
+[s][bup 0 10 1 65535 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 33 5 10]Entendi. É ótimo para[n]músculos centrais e resistência![n][f 1 3 65535][w][e]
 [s][bup 0 10 0 65535 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]A propósito, você sabe a diferença[n]entre correr, correr e[n]maratonas?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Correr requer passadas maiores[n]e grande esforço físico. O ritmo[n]na corrida é mais lento e mais sustentável.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ao contrário dessas disciplinas,[n]no entanto, a maratona é mais rígida.[n]A distância oficial é de 42,195 km![n][f 1 3 65535][w][e]
@@ -4898,7 +4898,7 @@
 [s][bup 0 10 1 65535 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Estou curioso para ver como[n]você decidirá fazer suas compras.[n][f 1 3 65535][w][e]
 
 [msg MSG_1237_0_0 [Sumire]]
-[s][bup 0 10 0 65535 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 33 5 10]Eu vejo. Bem, fazer compras on-line[n]é definitivamente conveniente.[n][f 1 3 65535][w][e]
+[s][bup 0 10 0 65535 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 33 5 10]Entendi. Bem, fazer compras on-line[n]é definitivamente conveniente.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas você não se preocupa? As roupas são[n]sempre muito diferentes na vida real,[n]em comparação com como aparecem nas fotos...[n][f 1 3 65535][w][e]
 [s][bup 0 10 1 65535 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu gostaria de saber o que[n]considerações você faz quando[n]escolhe algo.[n][f 1 3 65535][w][e]
 

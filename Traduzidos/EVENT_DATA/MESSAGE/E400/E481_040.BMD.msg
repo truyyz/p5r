@@ -119,7 +119,7 @@
 [s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 42 65535 0]Tudo bem, tudo bem,[n]chega de lanche![n][f 1 3 65535][w][e]
 
 [msg MSG_033_0_0 [Ryuji]]
-[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 43 65535 0]Bem, em que você se inclina?[n][f 1 3 65535][w][e]
+[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 43 65535 0]Bem, de que lado você tá?[n][f 1 3 65535][w][e]
 
 [sel SEL_034_0_0 top]
 [s]Uma conversa não faz mal.[e]

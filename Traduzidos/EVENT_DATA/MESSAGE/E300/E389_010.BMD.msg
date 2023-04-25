@@ -76,7 +76,7 @@
 [s][vp 6 0 0 26 6 0]É uma confissão em seu nome.[n][f 1 2 65][e]
 
 [sel SEL_027_0_0 top]
-[s]Eu vejo...[e]
+[s]Entendi...[e]
 [s]......[e]
 
 [msg MSG_028_0_0 [Detetive insensível]]

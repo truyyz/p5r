@@ -182,7 +182,7 @@
 [s][bup 0 7 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Claro, posso continuar![n][w][e]
 
 [msg D_EXIT_CANCEL_PC09_mes [Akechi]]
-[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu vejo. Eu vou te acompanhar.[n][w][e]
+[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Entendi. Eu vou te acompanhar.[n][w][e]
 
 [msg D_EXIT_CANCEL_PC10_mes [[f 4 31 10 0]]]
 [s][bup 0 10 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Tudo bem, vamos continuar![n][w][e]

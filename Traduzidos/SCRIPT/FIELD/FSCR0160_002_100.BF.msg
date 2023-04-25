@@ -22,7 +22,7 @@
 [s]Devemos nos preparar primeiro.[e]
 
 [msg D08_02_e454_035_selA_1_m [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1023 65535 0]Direita! Agora que chegamos até aqui, não podemos[n]deixar nada ao acaso![n][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1023 65535 0]Tá certo! Agora que chegamos até aqui, não podemos[n]deixar nada ao acaso![n][w][e]
 
 [msg D08_02_e454_035_re_mes01 [Ryuji]]
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Você quer avançar, Joker?[n][w][e]

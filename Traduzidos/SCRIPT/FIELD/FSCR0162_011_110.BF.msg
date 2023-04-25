@@ -50,7 +50,7 @@
 [s]A luz agora está apagada.[n][w][e]
 
 [msg D10_11_keeper_Clear_star [[f 4 31 10 0]]]
-[s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Isso também é feito. Acredito que agora[n]podemos alcançar essa[n]Semente da saudade.[n][w][e]
+[s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Isso também é feito. Acredito que agora[n]podemos alcançar essa[n]Semente da Vontade.[n][w][e]
 
 [msg D10_11_keeper_Clear_end [Akechi]]
 [s][bup 0 9 800 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Você está certo ... devemos levar[n]tudo o que pode ser útil para nós.[n][w][e]

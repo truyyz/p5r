@@ -14,7 +14,7 @@
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Alvo bloqueado! Raaargh![n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu vejo![n][f 1 3 65535][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Entendi![n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não... agora está ainda mais longe![n]Esta era para ser[n]a nossa chance![n][f 1 3 65535][w][e]

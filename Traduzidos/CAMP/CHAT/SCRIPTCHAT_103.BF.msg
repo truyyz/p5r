@@ -6,7 +6,7 @@
 [s]O que acontece?[e]
 
 [msg MSG_002_0_0 [Ryuji]]
-[s][f 5 14]Eu vejo.[n][w][e]
+[s][f 5 14]Entendi.[n][w][e]
 
 [msg MSG_003_0_0 [Ryuji]]
 [s][f 5 14]Acho que deveria ter perguntado a você na[n]escola.[n][w][e]

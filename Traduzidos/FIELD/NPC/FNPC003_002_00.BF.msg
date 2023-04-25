@@ -342,7 +342,7 @@
 [s][f 4 23 1 0 3 10 0 0][vp 8 2 1 0 0 0]Ah, é assim que as massas se sentem. Muito bem,[n]vou contar a você a verdade por trás do raptus.[n][w][e]
 
 [msg MSG_JYORENKYAKU_014_3_0 [Cliente arrogante]]
-[s][f 4 23 1 0 3 10 0 0][vp 8 2 1 0 0 0]Eu vejo. Pela primeira vez, a ignorância[n]é felicidade. Eu sei a verdade e[n]sinto que estou em perigo.[n][w][e]
+[s][f 4 23 1 0 3 10 0 0][vp 8 2 1 0 0 0]Entendi. Pela primeira vez, a ignorância[n]é felicidade. Eu sei a verdade e[n]sinto que estou em perigo.[n][w][e]
 
 [msg MSG_JYORENKYAKU_014_4_0 [Cliente arrogante]]
 [s][vp 8 2 1 0 0 0]Para encurtar a história, o raptus é uma[n]conspiração do governo para destruir a[n]humanidade.[n][w][e]
@@ -803,7 +803,7 @@
 [s]Não sei.[e]
 
 [msg MSG_KIDOTTA_004_2_0 [Cliente arrogante]]
-[s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Eu vejo. É uma maneira de olhar para isso,[n]mas você só percebe o que[n]está na superfície.[n][w][e]
+[s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Entendi. É uma maneira de olhar para isso,[n]mas você só percebe o que[n]está na superfície.[n][w][e]
 
 [msg MSG_KIDOTTA_004_3_0 [Cliente arrogante]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Provar contradições é[n]uma maneira de definir justiça,[n]mas não é suficiente.[n][w][e]
@@ -1072,7 +1072,7 @@
 [s][f 4 23 1 11 14 10 13 10][vp 8 2 1 0 11 0]Já. No entanto, não teríamos mais que viver dessa[n]maneira.[n][w][e]
 
 [msg MSG_RUBURAN_CUSTOM03_001_4 [Funcionário diligente]]
-[s][f 4 23 1 12 14 10 13 10][vp 8 2 1 0 12 0]...Eu vejo. Você está ocupado quando você[n]sair?[n][w][e]
+[s][f 4 23 1 12 14 10 13 10][vp 8 2 1 0 12 0]...Entendo. Você está ocupado quando você[n]sair?[n][w][e]
 
 [msg MSG_RUBURAN_CUSTOM03_001_5 [Jovem empresário]]
 [s][f 4 23 1 11 14 10 13 10][vp 8 2 1 0 11 0]Não. Se fosse esse o caso,[n]eu já teria ido embora.[n][w][e]
@@ -1199,10 +1199,10 @@
 [s]Eu não saberia.[e]
 
 [msg MSG_AKECHI_023_0_0 [Akechi]]
-[s][f 4 23 1 65535 32 10 31 10][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 8134 65535 0]Eu vejo. Então eu não sou[n]o único que pensa assim?[n][w][e]
+[s][f 4 23 1 65535 32 10 31 10][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 8134 65535 0]Entendi. Então eu não sou[n]o único que pensa assim?[n][w][e]
 
 [msg MSG_AKECHI_024_0_0 [Akechi]]
-[s][f 4 23 1 65535 32 10 31 10][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 8134 65535 0]Eu vejo. Uma resposta cautelosa.[n][w][e]
+[s][f 4 23 1 65535 32 10 31 10][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 8134 65535 0]Entendi. Uma resposta cautelosa.[n][w][e]
 
 [msg MSG_AKECHI_025_0_0 [Akechi]]
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Os Ladrões responderam às expectativas[n]das massas, daí o atual[n]estado de empolgação.[n][w][e]

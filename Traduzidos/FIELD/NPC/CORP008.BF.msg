@@ -21,7 +21,7 @@
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ah ok. Então vamos para o Leblanc.[n][w][e]
 
 [msg MSG_C08_ACTION_D06_51_00 [Akechi]]
-[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu vejo. Talvez eu esteja correndo demais.[n][w][e]
+[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Entendi. Talvez eu esteja correndo demais.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Bem, você é o chefe. Quando chegar a[n]hora, avise-me.[n][w][e]
 
 [msg MSG_C02_BEGIN_D06_50_01 [Akechi]]

@@ -5,7 +5,7 @@
 [s][bup 0 221 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Ei, o que você tem aí? É simplesmente[n]bonito.[n][f 1 3 65535][w][e]
 
 [msg MND_002_0_0]
-[s][vp 8 0 0 0 65535 0]Jose observa as Sementes da Ganância.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Jose observa as Sementes da Vontade.[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Jose]]
 [s][bup 0 221 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Você encontrou[n]algumas Seeds of Greed, hein?[n][f 1 3 65535][w][e]

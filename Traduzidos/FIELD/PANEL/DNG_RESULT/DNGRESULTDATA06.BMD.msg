@@ -11,7 +11,7 @@
 [s]Sala segura encontrada[n][w][e]
 
 [msg D06_RESULT_TXT05]
-[s]Primeira Semente da Ganância roubada[n][w][e]
+[s]Primeira Semente da Vontade roubada[n][w][e]
 
 [msg D06_RESULT_TXT06]
 [s]Sala de controle neutralizada[n][w][e]
@@ -41,7 +41,7 @@
 [s]Sala de caça-níqueis infiltrada[n][w][e]
 
 [msg D06_RESULT_TXT15]
-[s]Segunda Semente da Ganância roubada[n][w][e]
+[s]Segunda Semente da Vontade roubada[n][w][e]
 
 [msg D06_RESULT_TXT16]
 [s]Cheat de caça-níqueis desativado[n][w][e]
@@ -65,7 +65,7 @@
 [s]Sala segura encontrada[n][w][e]
 
 [msg D06_RESULT_TXT23]
-[s]Terceira Semente da Ganância roubada[n][w][e]
+[s]Terceira Semente da Vontade roubada[n][w][e]
 
 [msg D06_RESULT_TXT24]
 [s]Sala segura encontrada[n][w][e]

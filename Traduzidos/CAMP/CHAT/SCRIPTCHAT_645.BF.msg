@@ -17,7 +17,7 @@
 [s][f 5 14]Eu gostaria de falar em um lugar[n]onde a[n]brisa noturna possa ser sentida.[n][f 5 15][w][e]
 
 [sel SEL_001 top]
-[s]Conhecê-lo[e]
+[s]Sair com ele[e]
 [s]Verifique a conexão com Mishima[e]
 [s]Decidir depois[e]
 

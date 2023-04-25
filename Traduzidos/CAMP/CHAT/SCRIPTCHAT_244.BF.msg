@@ -4,7 +4,7 @@
 [s][f 5 14]Mas é estranho que ele diga[n]que "desapareceu"[n]em vez de "se aposentou".[n][w][e]
 
 [sel SEL_001_0_0 top]
-[s][f 5 14]Eu vejo...[e]
+[s][f 5 14]Entendi...[e]
 [s]É muito estranho.[e]
 [s]Isso é bom em qualquer caso.[e]
 

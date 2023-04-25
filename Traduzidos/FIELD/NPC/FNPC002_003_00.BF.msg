@@ -285,7 +285,7 @@
 [s][vp 8 2 1 0 11 0]Argh, eu sei que parece bobo![n]É só que logo de cara[n]tudo que eu conseguia pensar era qualquer outra coisa.[n][w][e]
 
 [msg MSG_AKOGAREDANSI_014_2_0 [Aluno dos sonhos]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Eu vejo. Mesmo se eu me tornasse um Phantom[n]Thief, não seria um herói se não ajudasse[n]ninguém.[n][w][e]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Entendi. Mesmo se eu me tornasse um Phantom[n]Thief, não seria um herói se não ajudasse[n]ninguém.[n][w][e]
 [s][vp 8 2 1 0 11 0]Eheh... Obrigado, você realmente me ajudou. Acho[n]que isso significa que você é meu herói, hein?[n][w][e]
 
 [msg MSG_AKOGAREDANSI_015_0_0 [Aluno dos sonhos]]
@@ -591,7 +591,7 @@
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Sabe, eu estava pensando. Nossa[n]escola começou a mudar[n]após o caso Kamoshida, certo?[n][w][e]
 
 [msg MSG_UNDOUBUIN_018_1_0 [Jogador de futebol abrupto]]
-[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Eu penso que sim. Um único evento pode[n]acionar uma cadeia de[n]mudanças de época. Eu vejo isso dessa forma.[n][w][e]
+[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Eu penso que sim. Um único evento pode[n]acionar uma cadeia de[n]mudanças de época. Entendi isso dessa forma.[n][w][e]
 
 [msg MSG_UNDOUBUIN_018_2_0 [Jogador de basquete na mão]]
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]A propósito, haverá eleições[n]no final do ano. Talvez até o[n]mundo inteiro mude.[n][w][e]

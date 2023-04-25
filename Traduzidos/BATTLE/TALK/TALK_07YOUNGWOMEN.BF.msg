@@ -494,7 +494,7 @@
 [s]Que perguntas![n]Eu sou alguém[n]que as conhece.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_01_R_7]
-[s]Oh, então realmente...[n]você estava falando sério? Eu vejo...[n][w][e]
+[s]Oh, então realmente...[n]você estava falando sério? Entendi...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_01_R_8]
 [s]Hã? Bem, parece claro para mim, certo?[n]Olha em que[n]situação ruim nós estamos![n][w][e]
@@ -1238,7 +1238,7 @@
 [s]Mas cale a boca, quem você acha que eu sou?!?[n]Quero dizer, eu sou muito mais bonita[n]do que aqueles ídolos idiotas![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_14_R_8]
-[s]Eu vejo. Uau, ídolo[n]deve ser super fofo.[n][w][e]
+[s]Entendi. Uau, ídolo[n]deve ser super fofo.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_14_R_9]
 [s]Sério? ...Você é diferente, hein.[n][w][e]

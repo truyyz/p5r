@@ -550,7 +550,7 @@
 [s]Ainda estamos em tempo.[e]
 
 [msg MSG_133_0_0 [Yusuke]]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 110 65535 0]Eu vejo. Muito bom.[n][f 1 3 65535][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 110 65535 0]Entendi. Muito bom.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 111 65535 0]Então nos reuniremos depois da escola. Não se[n]esqueça disso.[n][f 1 3 65535][w][e]
 
 [msg MSG_134_0_0 [Yusuke]]
@@ -574,7 +574,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 119 65535 0]Bem, então, vejo você[n]depois da escola.[n][f 1 3 65535][w][e]
 
 [msg MSG_139_0_0 [Yusuke]]
-[s][bup 0 5 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 120 65535 0]Eu vejo. Que pena...[n][f 1 3 65535][w][e]
+[s][bup 0 5 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 120 65535 0]Entendi. Que pena...[n][f 1 3 65535][w][e]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 121 65535 0]Entre em contato comigo a qualquer momento,[n]se mudar de ideia.[n][f 1 3 65535][w][e]
 
 [msg MSG_140_0_0 [Yusuke]]
@@ -1088,7 +1088,7 @@
 [s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 341 65535 0]Ok. Vamos nos encontrar depois da escola.[n]Mal posso esperar.[n][f 1 3 65535][w][e]
 
 [msg MSG_264_0_0 [Haru]]
-[s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 342 65535 0]Eu vejo. Avise-me,[n]quando decidir.[n][f 1 3 65535][w][e]
+[s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 342 65535 0]Entendi. Avise-me,[n]quando decidir.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 343 65535 0]Vou tentar o meu melhor também.[n]Vamos tentar cumprir[n]o prazo, ok? Por favor...[n][f 1 3 65535][w][e]
 
 [msg MSG_265_0_0 [Haru]]
@@ -1254,7 +1254,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu irei para o local de encontro depois da[n]escola, portanto. Conto com você.[n][f 1 3 65535][w][e]
 
 [msg MSG_304_0_0 [Yusuke]]
-[s][bup 0 5 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 4026 65535 0]Eu vejo. não vou insistir...[n][f 1 3 65535][w][e]
+[s][bup 0 5 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 4026 65535 0]Entendi. não vou insistir...[n][f 1 3 65535][w][e]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]No entanto, nosso oponente[n]não poupará golpes.[n]Devemos agir.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não podemos nos dar ao luxo de falhar. Tenha isso[n]em mente.[n][f 1 3 65535][w][e]
 
@@ -1269,7 +1269,7 @@
 [s]Eu quero jogar.[e]
 
 [msg MSG_308_0_0 [Yusuke]]
-[s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 4090 65535 0]Eu vejo. Você é do tipo disciplinado.[n][f 1 3 65535][w][e]
+[s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 4090 65535 0]Entendi. Você é do tipo disciplinado.[n][f 1 3 65535][w][e]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Se precisar,[n]não hesite em nos ligar.[n]Estarei aí.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Nossa existência depende da[n]bondade de nossa estratégia.[n]Teremos que fazer todo o possível.[n][f 1 3 65535][w][e]
 
@@ -1585,13 +1585,13 @@
 [s]Não muito.[e]
 
 [msg MSG_378_0_0 [Makoto]]
-[s][bup 0 6 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 70 65535 0]...Eu vejo. Você parecia bastante[n]confidencial ontem de manhã.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 74 65535 0]Fiquei sabendo que ele foi vítima do[n]Prof. Kamoshida, temos certeza[n]de que havia algo mais...?[n][f 1 3 65535][w][e]
+[s][bup 0 6 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 70 65535 0]...Entendo. Você parecia bastante[n]confidencial ontem de manhã.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 74 65535 0]Fiquei sabendo que ela foi vítima do[n]Prof. Kamoshida, temos certeza[n]de que havia algo mais...?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 75 65535 0][bup 0 6 0 65535 0][f 4 10 65535 0 0]De qualquer forma, uma análise mais cuidadosa[n]deveria bastar para esclarecer[n]o assunto... Até breve.[n][f 1 3 65535][w][e]
 
 [msg MSG_379_0_0 [Makoto]]
 [s][bup 0 6 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 73 65535 0]Sério? Não parecia,[n]ontem de manhã.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 74 65535 0][f 4 10 65535 0 0]Fiquei sabendo que ele foi vítima do[n]Prof. Kamoshida, temos certeza[n]de que havia algo mais...?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 74 65535 0][f 4 10 65535 0 0]Fiquei sabendo que ela foi vítima do[n]Prof. Kamoshida, temos certeza[n]de que havia algo mais...?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 75 65535 0][bup 0 6 0 65535 0][f 4 10 65535 0 0]De qualquer forma, uma análise mais cuidadosa[n]deveria bastar para esclarecer[n]o assunto... Até breve.[n][f 1 3 65535][w][e]
 
 [msg MSG_380_0_0 [Akechi]]
@@ -2051,7 +2051,7 @@
 [s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 4020 65535 0]Eu entendi. Então, vamos nos encontrar depois da[n]escola.[n][f 1 3 65535][w][e]
 
 [msg MSG_479_0_0 [Yusuke]]
-[s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 4107 65535 0]Eu vejo. É importante estar[n]preparado para o inesperado.[n][f 1 3 65535][w][e]
+[s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 4107 65535 0]Entendi. É importante estar[n]preparado para o inesperado.[n][f 1 3 65535][w][e]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Se você planeja entrar no[n]Palácio, no entanto, me avise.[n]Eu sairei imediatamente.[n][f 1 3 65535][w][e]
 
 [msg MSG_480_0_0 [Sumire]]

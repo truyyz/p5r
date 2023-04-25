@@ -23,16 +23,16 @@
 [s][f 5 14]Bem, vamos descobrir![n][w][e]
 
 [msg CHAT_REACTION_03 [Ryuji]]
-[s][f 5 14]Vamos, mude! Vamos ver[n]quanto tempo leva![n][f 5 15][w][e]
+[s][f 5 14]De qualquer forma, vai se trocar! Vamos ver[n]quem se arruma primeiro![n][f 5 15][w][e]
 
 [msg CHAT_REACTION_04 [Ryuji]]
-[s][f 5 14]Hoje somos livres, então podemos treinar[n]na escola.[n][w][e]
+[s][f 5 14]Hoje estamos livres, então podemos treinar[n]na escola.[n][w][e]
 
 [msg CHAT_REACTION_05 [Ryuji]]
 [s][f 5 14]Vamos entrar pelos fundos e nos encontrar[n]atrás do ginásio! Não esqueça o estepe![n][f 5 15][w][e]
 
 [sel SEL_001 top]
-[s]Dar certo[e]
+[s]Ir praticar[e]
 [s]Verifique o vínculo com Ryuji[e]
 [s]Decidir depois[e]
 
@@ -43,7 +43,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Então, o que você vai fazer?[n]Você quer passar um tempo com Ryuji?[n][f 1 3 65535][w][e]
 
 [msg MSG_CORP_PLAY_CHECK2 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Ninguém pensa que você está vivo.[n]Se você tomar cuidado,[n]tudo deve ficar bem.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Ninguém sabe que você está vivo.[n]Se você tomar cuidado,[n]tudo deve ficar bem.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Então, o que você vai fazer?[n]Você quer passar um tempo com Ryuji?[n][f 1 3 65535][w][e]
 
 [msg ERROR_MSG_000_0_0 [Sojiro]]

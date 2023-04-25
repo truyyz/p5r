@@ -136,7 +136,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Nos encontramos na casa de Sakamoto,[n]certo? Vamos passar na minha casa primeiro,[n]para que eu possa me trocar também.[n][w][e]
 
 [msg MSG_C18_MAID_YORU_03 [Mishima]]
-[s][bup 0 111 0 65535 0][f 4 23 1 218 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 19025 65535 0]Eu vejo...[n][w][e]
+[s][bup 0 111 0 65535 0][f 4 23 1 218 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 19025 65535 0]Entendi...[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Mas deixe-me saber,[n]se você ainda estiver interessado.[n][w][e]
 
 [msg MSG_C18_BEGIN_NOTCOOP_00 [Mishima]]

@@ -44,7 +44,7 @@
 [s][bup 0 4 3 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 6025 65535 0]Não apenas isso, mas o público realmente[n]queria votar nele. É meio louco...[n][w][e]
 
 [msg MES_GROUP4_03 [Ryuji]]
-[s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 3 10 0 10]Sem Kiddin '.[n][w][e]
+[s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 3 10 0 10]Sem brincadeira.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Inferno, até eu faria um trabalho melhor[n]correndo o país do que aquele idiota.[n][w][e]
 
 [msg MES_GROUP4_04 [Makoto]]

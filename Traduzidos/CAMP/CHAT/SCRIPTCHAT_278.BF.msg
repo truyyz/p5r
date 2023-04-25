@@ -18,7 +18,7 @@
 [s][f 5 14]Ele tem um emprego e ao mesmo tempo[n]vai para a escola, conseguindo[n]manter um GPA muito bom.[n][w][e]
 
 [msg MSG_005_0_0 [Akechi]]
-[s][f 5 14]Eu vejo...[n][w][e]
+[s][f 5 14]Entendi...[n][w][e]
 [s][f 5 14]Muito notável que você[n]derduza tudo isso a partir[n]de tão poucas pistas.[n][w][e]
 [s][f 5 14]Mas por outro lado, vocês são os famosos[n]Phantom Thieves, não são? Eu fiz[n]direito de pedir sua ajuda.[n][w][e]
 

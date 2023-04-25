@@ -68,7 +68,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Aqui posso aproveitar a brisa e[n]ser inspirado pela tecnologia[n]do futuro. O que mais você poderia querer?[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Hifumi]]
-[s][bup 0 106 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu vejo. Você é muito convincente,[n]Kitagawa-kun.[n][f 1 3 65535][w][e]
+[s][bup 0 106 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Entendi. Você é muito convincente,[n]Kitagawa-kun.[n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Yusuke]]
 [s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Oh? Então você também entende,[n]Togo-san?[n][f 1 3 65535][w][e]
@@ -175,7 +175,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não é exatamente uma amizade a[n]ordinária... Na verdade, sinto[n]um vínculo um tanto incomum.[n][f 1 3 65535][w][e]
 
 [msg MSG_040_0_0 [Yusuke]]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu vejo. Bem, isso também é verdade.[n][f 1 3 65535][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Entendi. Bem, isso também é verdade.[n][f 1 3 65535][w][e]
 
 [msg MSG_041_0_0 [Hifumi]]
 [s][bup 0 106 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sim, isso mesmo.[n][f 1 3 65535][w][e]

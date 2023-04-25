@@ -38,10 +38,10 @@
 [s][bup 0 113 0 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 59 5 100][vp 8 0 0 0 65535 0]O próximo é...[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Chihaya]]
-[s][bup 0 113 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 10091 65535 0]Sim, eu vejo tudo. Um raio[n]de luz obscurece o sol...como uma[n]flecha perfurando o céu...[n][f 1 3 65535][w][e]
+[s][bup 0 113 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 10091 65535 0]Sim, Entendi tudo. Um raio[n]de luz obscurece o sol...como uma[n]flecha perfurando o céu...[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Chihaya]]
-[s][bup 0 113 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 10092 65535 0]Eu vejo. Parece que o futuro[n]tem dinheiro reservado para você.[n][f 1 3 65535][w][e]
+[s][bup 0 113 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 10092 65535 0]Entendi. Parece que o futuro[n]tem dinheiro reservado para você.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Hoje você terá muita sorte nesse sentido. O[n]dinheiro de que estou falando está esperando por[n]você... em casa.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vá para casa sem rodeios[n]e você encontrará cinco mil ienes[n]esperando por você![n][f 1 3 65535][w][e]
 

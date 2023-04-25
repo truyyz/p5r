@@ -86,7 +86,7 @@
 [s]É muito cedo...[e]
 
 [msg MSG_MORNING_1219_000_01 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu vejo. Estou surpreso[n]ao ouvir você dizer isso.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Entendi. Estou surpreso[n]ao ouvir você dizer isso.[n][f 1 3 65535][w][e]
 
 [msg MSG_MORNING_1219_000_02 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você tem razão. Não perca[n]tempo e prepare-se para sair![n][f 1 3 65535][w][e]

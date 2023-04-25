@@ -9,7 +9,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]Estávamos pensando em vir para cá[n]e planejar o verão.[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Sojiro]]
-[s][bup 0 103 4 0 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Oh? Eu vejo um novo rosto, estou errado?[n][f 1 3 65535][w][e]
+[s][bup 0 103 4 0 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Oh? Entendi um novo rosto, estou errado?[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Prazer em conhecê-lo.[n]Meu nome é Makoto Niijima.[n]Espero que você não seja incomodado.[n][f 1 3 65535][w][e]

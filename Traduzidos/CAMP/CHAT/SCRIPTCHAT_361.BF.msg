@@ -11,7 +11,7 @@
 [s][f 5 14]Eles dizem que é por causa de um[n]fantástico trabalho de meio período que[n]ele começou recentemente.[n][w][e]
 
 [msg MSG_003_00 [Yusuke]]
-[s][f 5 14]Eu vejo. Pode valer a pena[n]investigar um pouco.[n][w][e]
+[s][f 5 14]Entendi. Pode valer a pena[n]investigar um pouco.[n][w][e]
 
 [msg MSG_004_00 [Ryuji]]
 [s][f 5 14]Sério?[n][w][e]

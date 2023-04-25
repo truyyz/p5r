@@ -2962,7 +2962,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 1 20 65535 0]No máximo, posso dizer que[n]existia antes do caso[n]Kamoshida. Eu não posso dizer mais.[n][w][e]
 
 [msg MADARAME_YOKOKU_mes15 [Yusuke]]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 1 21 65535 0]Eu vejo...[n][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 1 21 65535 0]Entendi...[n][w][e]
 
 [msg MADARAME_YOKOKU_mes16 [Ryuji]]
 [s][bup 0 2 7 65535 0][f 4 10 65535 0 0][f 4 23 1 2 3 5 11 5][vp 8 0 1 22 65535 0]Uau, eu realmente nunca[n]pensei sobre isso...[n][w][e]
@@ -3006,7 +3006,7 @@
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 23 1 3 3 5 11 5][vp 8 0 1 3 65535 0]Não há tempo a perder[n]com sentimentalismo.[n][w][e]
 
 [msg KANESHIRO_MAKOTO_mes03 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][f 4 23 1 6 3 5 11 5][vp 8 0 1 4 65535 0]Eu vejo. No entanto, tenho um pedido[n]a fazer, antes de começarmos.[n][w][e]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][f 4 23 1 6 3 5 11 5][vp 8 0 1 4 65535 0]Entendi. No entanto, tenho um pedido[n]a fazer, antes de começarmos.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 5 65535 0]Você poderia explicar algo[n]mais para mim? Por exemplo...[n]O que é o Metaverso?[n][w][e]
 
 [msg KANESHIRO_MAKOTO_mes04 [Yusuke]]

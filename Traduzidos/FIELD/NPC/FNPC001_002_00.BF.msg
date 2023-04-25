@@ -533,7 +533,7 @@
 [s][f 4 23 1 22 3 10 0 0][vp 8 2 1 0 22 0]Eu entendi morando lá. Tóquio não é para mim.[n]Além disso, quero apoiar nosso colega de escola[n]nas eleições.[n][w][e]
 
 [msg MSG_TOKAISOMARU_018_3_0 [Mulher encantadora]]
-[s][f 4 23 1 21 3 10 0 0][vp 8 2 1 0 21 0]...Oh. Eu vejo.[n][w][e]
+[s][f 4 23 1 21 3 10 0 0][vp 8 2 1 0 21 0]...Oh. Entendi.[n][w][e]
 
 [msg MSG_TOKAISOMARU_019_0_0 [Mulher encantadora]]
 [s][f 4 23 1 21 3 10 0 0][vp 8 2 1 0 21 0]D-Desculpe... Você pode repetir[n]o que acabou de dizer?[n][w][e]
@@ -2960,7 +2960,7 @@
 [s]Ele é uma pessoa má.[e]
 
 [msg MSG_HOMELESS_DAY_003_1_0 [Morador de rua]]
-[s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]Eu vejo. Ele deve ser muito bom em fazer os[n]outros acreditarem no que ele quer.[n][w][e]
+[s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]Entendi. Ele deve ser muito bom em fazer os[n]outros acreditarem no que ele quer.[n][w][e]
 
 [msg MSG_HOMELESS_DAY_003_2_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]Oh sim? Existe algum[n]rumor sobre ele?[n][w][e]
@@ -3424,7 +3424,7 @@
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]Ainda há tempo.[n]Conserte essas coisas[n]de uma vez por todas.[n][w][e]
 
 [msg MSG_HOMELESS_DAY_017_2_0 [Morador de rua]]
-[s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]Eu vejo. Deixar. Mas no futuro[n]você pode entender que cometeu[n]erros ou se arrepender de algo.[n][w][e]
+[s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]Entendi. Deixar. Mas no futuro[n]você pode entender que cometeu[n]erros ou se arrepender de algo.[n][w][e]
 
 [msg MSG_HOMELESS_DAY_017_3_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]Sim, eu gostaria de poder esquecer certas coisas.[n]Eu pensei que os excluiu, mas eu estava errado.[n][w][e]

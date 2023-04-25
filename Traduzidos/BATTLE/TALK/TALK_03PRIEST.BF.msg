@@ -23,7 +23,7 @@
 [s]Este é o espírito certo.[n]Ele certamente agradará ao[n]Pai também.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_01_R_2]
-[s]Eu vejo. Você não é indulgente[n]com ninguém. Mas seja igualmente[n]rigoroso consigo mesmo.[n][w][e]
+[s]Entendi. Você não é indulgente[n]com ninguém. Mas seja igualmente[n]rigoroso consigo mesmo.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_01_R_3]
 [s]Suas palavras fúteis não acalmarão a maré. O Pai[n]não pode ser enganado.[n][w][e]
@@ -569,7 +569,7 @@
 [s]Então você viu que há sofrimento[n]mesmo no mundo do todo-poderoso?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_02_R_13]
-[s]Eu vejo. Você escolheu enfrentar[n]este teste sozinho...[n][w][e]
+[s]Entendi. Você escolheu enfrentar[n]este teste sozinho...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_02_R_14]
 [s]Não apresse suas respostas.[n]Medite sobre suas decisões.[n][w][e]
@@ -854,7 +854,7 @@
 [s]A minha caridade para convosco é a[n]benevolência do Pai.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_07_R_13]
-[s]Eu vejo. Assim, esta astuciosa[n]obra de arte é produto da[n]sua "civilização"...[n][w][e]
+[s]Entendi. Assim, esta astuciosa[n]obra de arte é produto da[n]sua "civilização"...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_07_R_14]
 [s]Você, que se recusa a trilhar o caminho da[n]humanidade, não passa de um louco.[n][w][e]
@@ -992,7 +992,7 @@
 [s]Você me sacrificaria para satisfazer sua[n]preguiça? Você é desprezível.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_10_R_2]
-[s]Eu vejo. Então você pretende me conceder o sono[n]eterno?[n][w][e]
+[s]Entendi. Então você pretende me conceder o sono[n]eterno?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_10_R_3]
 [s]Uma infeliz escolha de palavras[n]para um campo de batalha...[n][w][e]
@@ -1256,7 +1256,7 @@
 [s]Ah, então suas ações são baseadas[n]em um verdadeiro entendimento[n]da revolta...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_14_R_14]
-[s]Eu vejo. Você também luta por uma grande causa.[n][w][e]
+[s]Entendi. Você também luta por uma grande causa.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_14_R_15]
 [s]Você está fingindo não ver a indecência diante de[n]seus olhos?[n][w][e]
@@ -1635,7 +1635,7 @@
 [s]Bom. Parece que um[n]entendimento mútuo ainda é possível...[n][w][e]
 
 [msg TalkMsg_NEGO_POSSESSED_B]
-[s]Eu vejo. Muito bem então.[n][w][e]
+[s]Entendi. Muito bem então.[n][w][e]
 
 [msg TalkMsg_NEGO_POSSESSED_B_2]
 [s]Você está interessado em dinheiro, suponho...[n][w][e]
@@ -1970,7 +1970,7 @@
 [s]Eu entendo o que você está dizendo,[n]mas... algo continua[n]não voltando para mim.[n][w][e]
 
 [msg TalkMsg_RESULT_SQ_PAYFOR_2]
-[s]...Eu vejo. Eu não culpo você,[n]humano. No entanto, vamos resolver[n]a questão do meu jeito.[n][w][e]
+[s]...Entendo. Eu não culpo você,[n]humano. No entanto, vamos resolver[n]a questão do meu jeito.[n][w][e]
 
 [msg TalkMsg_RESULT_SQ_AGAIN1]
 [s]Então, o que você queria[n]me dizer?[n][w][e]

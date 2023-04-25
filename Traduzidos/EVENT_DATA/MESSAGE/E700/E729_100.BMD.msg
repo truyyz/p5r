@@ -161,7 +161,7 @@
 [s][bup 0 100 0 0 0][f 4 10 65535 0 0][vp 8 0 0 58 65535 0]Eu só ouvi falar dele...[n]É talvez um dos lendários[n]"videogames" do seu mundo?[n][f 1 3 65535][w][e]
 
 [msg MSG_042_0_0 [Lavenza]]
-[s][bup 0 100 0 0 0][f 4 10 65535 0 0][vp 8 0 0 59 65535 0]Eu vejo! Já ouvi muito sobre[n]essas ferramentas impressionantes.[n][f 1 3 65535][w][e]
+[s][bup 0 100 0 0 0][f 4 10 65535 0 0][vp 8 0 0 59 65535 0]Entendi! Já ouvi muito sobre[n]essas ferramentas impressionantes.[n][f 1 3 65535][w][e]
 
 [msg MSG_043_0_0 [Lavenza]]
 [s][bup 0 100 0 0 0][f 4 10 65535 0 0][vp 8 0 0 60 65535 0]Parece que, depois de começar,[n]nenhum jogador pode[n]fugir.[n][f 1 3 65535][w][e]

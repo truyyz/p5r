@@ -106,7 +106,7 @@
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 1 27 65535 0]Desculpe, mas estamos com pressa.[n]Além disso, não acredito nessas coisas.[n][w][e]
 
 [msg MSG_060_5_0 [Vidente]]
-[s][f 4 23 1 856 14 10 13 0][bup 0 113 3 65535 0][f 4 10 65535 0 0][vp 8 0 1 28 856 0]Eu vejo. Me desculpe.[n][w][e]
+[s][f 4 23 1 856 14 10 13 0][bup 0 113 3 65535 0][f 4 10 65535 0 0][vp 8 0 1 28 856 0]Entendi. Me desculpe.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 29 856 0]No entanto... se eu mudar[n]de ideia, esperarei [clr 2]neste[n]lugar à noite[clr 27].[n][w][e]
 [s][bup 0 113 0 65535 0][f 4 10 65535 0 0][vp 8 0 1 30 856 0]Te desejo boa sorte.[n][w][e]
 

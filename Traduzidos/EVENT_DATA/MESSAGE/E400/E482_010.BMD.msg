@@ -19,8 +19,8 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Nem tenho certeza[n]se chegarei a tempo...[n][f 1 3 65535][w][e]
 
 [sel SEL_006_0_0 top]
-[s]Pra que serve essa bolsa?[e]
-[s]Dar certo?[e]
+[s]Pra que a bolsa?[e]
+[s]Praticar?[e]
 
 [msg MSG_007_0_0 [Kasumi]]
 [s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ah, certo, acho que ainda não te contei[n]...[n][f 1 3 65535][w][e]

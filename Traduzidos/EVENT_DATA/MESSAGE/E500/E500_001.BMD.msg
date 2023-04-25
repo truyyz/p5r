@@ -27,7 +27,7 @@
 
 [msg MSG_007_0_0 [Caroline]]
 [s][bup 0 102 1 0 0][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Oh, entendo! Heheheh...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Faremos um[n]"exame particular"[n]especial para descobrir o que ele está escondendo de nós.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Faremos um "exame particular"[n]especial para descobrir o que ele[n]está escondendo de nós.[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Justine]]
 [s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Ao contrário da cidade, aqui[n]não precisamos nos preocupar[n]com transeuntes.[n][f 1 3 65535][w][e]
@@ -40,8 +40,8 @@
 
 [sel SEL_010_0_0 top]
 [s]Eu adoraria.[e]
-[s]Eu vou fazer sem ele.[e]
-[s]Você treme...?[e]
+[s]Eu passo.[e]
+[s]Estou tremendo...[e]
 
 [msg MSG_011_0_0 [Justine]]
 [s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Novamente, este será um exame[n]particular. É útil apenas para[n]nossa avaliação pessoal.[n][f 1 3 65535][w][e]
@@ -118,7 +118,7 @@
 [s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 49 65535 0]Vamos começar, Caroline.[n][f 1 3 65535][w][e]
 
 [msg MSG_028_0_0 [Caroline]]
-[s][bup 0 102 2 0 0][f 4 10 65535 0 0][vp 8 0 0 50 65535 0]G-Certo![n][f 1 3 65535][w][e]
+[s][bup 0 102 2 0 0][f 4 10 65535 0 0][vp 8 0 0 50 65535 0]C-Certo![n][f 1 3 65535][w][e]
 
 [msg MSG_029_0_0 [Caroline]]
 [s][bup 0 102 2 0 0][f 4 10 65535 0 0][vp 8 0 0 51 65535 0]Você entende o que vai acontecer[n]neste teste, certo?[n][f 1 3 65535][w][e]
@@ -126,9 +126,9 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 53 65535 0]Ok... vamos começar![n][f 1 3 65535][w][e]
 
 [sel SEL_030_0_0 top]
-[s]Nós lutamos.[e]
-[s]Parece-me impossível.[e]
-[s]Deixe-me preparar.[e]
+[s]Vamos lutar.[e]
+[s]Parece impossível.[e]
+[s]Deixe-me preparar primeiro.[e]
 
 [msg MSG_031_0_0 [Caroline]]
 [s][bup 0 102 1 0 0][f 4 10 65535 0 0][vp 8 0 0 54 65535 0]Este é o espírito certo![n][f 1 3 65535][w][e]

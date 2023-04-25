@@ -14,7 +14,7 @@
 
 [sel SEL_003_0_0 top]
 [s]...A sério?[e]
-[s]Eu vejo.[e]
+[s]Entendi.[e]
 [s]Pena...[e]
 
 [msg MSG_004_0_0 [Kawakami]]

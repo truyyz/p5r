@@ -43,7 +43,7 @@
 [s][f 5 14]Nos vemos em Shinjuku![n][f 5 15][w][e]
 
 [msg MSG_210_0_0 [Mishima]]
-[s][f 5 14]Eu vejo. Desculpe pelo convite repentino.[n][f 5 15][w][e]
+[s][f 5 14]Entendi. Desculpe pelo convite repentino.[n][f 5 15][w][e]
 
 [msg MSG_400_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Dome Town é um[n]parque de diversões, não é?[n]Vai ser ótimo.[n][f 1 3 65535][w][e]

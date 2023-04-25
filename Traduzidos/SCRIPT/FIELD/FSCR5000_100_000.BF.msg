@@ -103,7 +103,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Tudo bem. Avise-nos quando quiser voltar.[n][w][e]
 
 [msg SAFEROOM_GOTO_ENTRANCE_N_2 [Akechi]]
-[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu vejo. Avise-nos quando quiser voltar.[n][w][e]
+[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Entendi. Avise-nos quando quiser voltar.[n][w][e]
 
 [msg SAFEROOM_EXIT_CHECK_01_P [Ryuji]]
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Sim, o prazo ainda está um pouco longe. Voltar[n]não seria uma má ideia.[n][w][e]
@@ -497,7 +497,7 @@
 [s]Retorne ao mundo real do[n]Palácio de Shido. Obrigado[n]pelo trabalho realizado.[n][w][e]
 
 [msg D08_EXIT_MES [Navegador do Metaverso]]
-[s]De volta ao mundo real[n]dai Mementos. Obrigado[n]pelo trabalho realizado.[n][w][e]
+[s]De volta ao mundo real[n]de Mementos. Obrigado[n]pelo trabalho realizado.[n][w][e]
 
 [msg D10_EXIT_MES [Navegador do Metaverso]]
 [s]Retorne ao mundo real do Palácio de[n]Maruki. Obrigado[n]pelo trabalho realizado.[n][w][e]

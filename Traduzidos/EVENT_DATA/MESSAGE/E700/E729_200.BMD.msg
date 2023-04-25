@@ -56,7 +56,7 @@
 [s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Nunca ouvi. Do que se trata?[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Justine]]
-[s][bup 0 101 1 0 0][f 4 10 65535 0 0][vp 8 2 0 12021 65535 0]Eu vejo. Portanto, é uma forma de[n]passatempo humano.[n][f 1 3 65535][w][e]
+[s][bup 0 101 1 0 0][f 4 10 65535 0 0][vp 8 2 0 12021 65535 0]Entendi. Portanto, é uma forma de[n]passatempo humano.[n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Caroline]]
 [s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eles jogam uma variante[n]do vôlei de praia lá?[n]Eles também jogam bola...[n][f 1 3 65535][w][e]

@@ -294,7 +294,7 @@
 [s][bup 0 5 1 65535 0][f 4 10 65535 0 0][f 4 23 1 204 3 10 0 10][vp 8 2 1 4189 65535 0]Oh. Você deve ter muito[n]tempo livre, então.[n][w][e]
 
 [msg MSG_C04_CONNECT_CARD_00 [Yusuke]]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 23 1 204 3 10 0 10][vp 8 2 1 4133 65535 0]Quer aproveitar nosso[n]acordo. Eu vejo.[n][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 23 1 204 3 10 0 10][vp 8 2 1 4133 65535 0]Quer aproveitar nosso[n]acordo. Entendi.[n][w][e]
 
 [msg MSG_C04_CONNECT_CANCEL_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 23 1 204 3 10 0 10][vp 8 2 1 4026 65535 0]Bem, vou ficar aqui mais um pouco.[n]Se algo[n]importante acontecer, me avise.[n][w][e]
@@ -368,7 +368,7 @@
 [s]Agora estou ocupado.[e]
 
 [msg MSG_C04_PREOPEN_01_02 [Yusuke]]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 23 1 204 3 10 0 10][vp 8 2 1 4026 65535 0]Eu vejo. Depois, talvez.[n][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 23 1 204 3 10 0 10][vp 8 2 1 4026 65535 0]Entendi. Depois, talvez.[n][w][e]
 
 [msg MSG_C04_PREOPEN_01_03 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 23 1 204 3 10 0 10][vp 8 2 1 4020 65535 0]Você se lembra quando eu lhe contei sobre[n]minha necessidade de entender[n]o coração humano?[n][w][e]
@@ -562,7 +562,7 @@
 [s][bup 0 5 1 65535 0][f 4 10 65535 0 0][f 4 23 1 204 3 10 0 10][vp 8 2 1 4045 65535 0]Então está decidido.[n][w][e]
 
 [msg MSG_C04_COOP_CANCEL_00 [Yusuke]]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 23 1 204 3 10 0 10][vp 8 2 1 4026 65535 0]...Eu vejo. Então tchau.[n][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 23 1 204 3 10 0 10][vp 8 2 1 4026 65535 0]...Entendo. Então tchau.[n][w][e]
 
 [msg MSG_C04_BEGIN_D10_REV [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 23 1 204 3 10 0 10][vp 8 2 1 4019 65535 0]Ah, [f 4 2]. O que te traz aqui?[n][w][e]
@@ -596,13 +596,13 @@
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 23 1 204 3 10 0 10][vp 8 2 1 4031 65535 0]Eu que agradeço. Venha comigo.[n][w][e]
 
 [msg MSG_C04_CONNECT_CARD_REV [Yusuke]]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 23 1 204 3 10 0 10][vp 8 2 1 4133 65535 0]Nosso acordo. Eu vejo.[n][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 23 1 204 3 10 0 10][vp 8 2 1 4133 65535 0]Nosso acordo. Entendi.[n][w][e]
 
 [msg MSG_MORGANA_COOP_ESCAPE_ [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Tudo bem, então estou saindo...[n]Estou deixando Lady Ann em suas mãos.[n][w][e]
 
 [msg MSG_C04_COOP_CANCEL_REV [Yusuke]]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 23 1 204 3 10 0 10][vp 8 2 1 4026 65535 0]Eu vejo. Me desculpe. Acho que[n]foi repentino.[n][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 23 1 204 3 10 0 10][vp 8 2 1 4026 65535 0]Entendi. Me desculpe. Acho que[n]foi repentino.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Volte para falar comigo quando[n]você tiver tempo, por favor.[n][w][e]
 
 [msg MSG_SPOT_OPEN_KANDA]

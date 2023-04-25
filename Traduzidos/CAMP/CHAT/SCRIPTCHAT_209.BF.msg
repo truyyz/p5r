@@ -20,7 +20,7 @@
 [s]O diretor?[e]
 
 [msg MSG_043_0_0 [Mishima]]
-[s][f 5 14]Direita?!?[n][w][e]
+[s][f 5 14]Certo?!?[n][w][e]
 
 [msg MSG_044_0_0 [Mishima]]
 [s][f 5 14]Já...[n][w][e]

@@ -1,23 +1,23 @@
 [msg MSG_000_0_0 [Ryuji]]
 [s][bup 0 2 203 0 0][f 4 10 65535 0 0][vp 8 2 0 7038 65535 0]Cara, a gente não tem um lugar bom para treinar...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Se ficarmos aqui, quase[n]definitivamente vamos acabar conhecendo[n]Nakaoka e os outros...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Se ficarmos aqui, quase[n]definitivamente vamos acabar encontrando[n]Nakaoka e os outros...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ideias?[n][f 1 3 65535][w][e]
 
 [sel SEL_001_0_0 top]
 [s]Nós ficamos aqui.[e]
-[s]No Protein Lovers?[e]
+[s]Que tal o Protein Lovers?[e]
 [s][f 0 8 2 1 2217]Podemos treinar em minha casa.[clr 27][e]
 
 [msg MSG_002_0_0 [Ryuji]]
-[s][bup 0 2 207 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 8 5 2]Você não me ouviu? Eu não quero[n]conhecê-los, aqueles lá. Tente[n]colocar-se no meu lugar![n][f 1 3 65535][w][e]
-[s][bup 0 2 200 0 0][f 4 10 65535 0 0][f 4 24 0 4 0 59 5 100][vp 8 0 0 0 65535 0]E não me diga que não sou um tipo emocional![n]Estou cheio de emoções, eu![n][f 1 3 65535][w][e]
+[s][bup 0 2 207 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 8 5 2]Você não me ouviu? Eu não quero[n]encontra-los. Tente[n]colocar-se no meu lugar![n][f 1 3 65535][w][e]
+[s][bup 0 2 200 0 0][f 4 10 65535 0 0][f 4 24 0 4 0 59 5 100][vp 8 0 0 0 65535 0]E não me diga que não sou um tipo emocional![n]Estou cheio de emoções![n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Ryuji]]
-[s][bup 0 2 205 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 8 5 2]Hoje nao. Esqueça.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu não trouxe[n]mudança. Eu não iria lá[n]mesmo morto.[n][f 1 3 65535][w][e]
+[s][bup 0 2 205 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 8 5 2]Hoje não. Esqueça.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu não trouxe nenhuma cueca sobressalente,[n]então não vou chegar perto de lá.[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Ryuji]]
-[s][bup 0 2 207 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 8 10 2]Você realmente acha que poderíamos[n]trabalhar seriamente lá?[n][f 1 3 65535][w][e]
+[s][bup 0 2 207 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 8 10 2]Você realmente acha que poderíamos[n]treinar sério lá?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Aposto que acabaríamos[n]comendo sorvete e[n]jogando videogame o dia todo.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sempre acaba assim, não é?[n][f 1 3 65535][w][e]
 
@@ -37,7 +37,7 @@
 [s][vp 8 0 0 0 65535 0]Temos algumas perguntas para[n]perguntar a Nakaoka.[n]Não é da sua conta.[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Ryuji]]
-[s][bup 0 2 202 0 0][f 4 10 65535 0 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 3 301 65535][vp 8 0 0 0 65535 0]E você faz perguntas a ele com os punhos?[n]E então três contra um não é[n]covarde?[n][f 1 3 65535][w][e]
+[s][bup 0 2 202 0 0][f 4 10 65535 0 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 3 301 65535][vp 8 0 0 0 65535 0]E você faz perguntas a ele com os punhos?[n]E então três contra um não é covardia?[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Takeishi]]
 [s][vp 8 0 0 0 65535 0]O único covarde aqui é Nakaoka![n]O que passamos com[n]Kamoshida é tudo culpa dele...[n][f 1 3 65535][w][e]
@@ -51,11 +51,11 @@
 [s]Você não deveria discutir.[e]
 
 [msg MSG_014_0_0 [Ryuji]]
-[s][bup 0 2 211 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 8 15 2]Direita! Vocês treinam juntos[n]a vida toda![n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E eles não estão colocando o time de volta em pé?[n]Você não deveria estar lutando![n][f 1 3 65535][w][e]
+[s][bup 0 2 211 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 8 15 2]Certo! Vocês treinaram juntos[n]a vida toda![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E eles não estão colocando o time de volta em pé?[n]Vocês não deveriam estar brigando![n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Ryuji]]
-[s][bup 0 2 211 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 8 10 2]G-Certo! E eles não estão colocando o time de[n]volta em pé? Você não deveria estar lutando![n][f 1 3 65535][w][e]
+[s][bup 0 2 211 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 8 10 2]G-Certo! E eles não estão colocando o time de[n]volta em pé? Vocês não deveriam estar brigando![n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Takeishi]]
 [s][vp 8 0 0 0 65535 0]...C-Cala a boca![n][f 1 3 65535][w][e]
@@ -66,10 +66,10 @@
 [s][vp 8 0 0 0 7 0]Ele deve ser o espião![n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Ryuji]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 12 301 1][vp 8 2 0 7029 65535 0]U-espere![n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 12 301 1][vp 8 2 0 7029 65535 0]E-espere![n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Takeishi]]
-[s][vp 8 0 0 0 65535 0]Desapareça, Sakamoto.[n]Caso contrário, vamos quebrar sua bunda[n]você também.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Desapareça, Sakamoto.[n]Caso contrário, vamos quebrar sua bunda[n]também.[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Ryuji]]
 [s][bup 0 2 211 0 0][f 4 10 65535 0 0][vp 8 2 0 7187 65535 0]Se você acha que ficará[n]melhor depois, vá em frente.[n][f 1 3 65535][w][e]
@@ -83,7 +83,7 @@
 [s][bup 0 2 211 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ouça...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mesmo que Nakaoka estivesse em[n]léguas com Kamoshida...[n]Está tudo bem agora, não está?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Aquele bastardo se foi.[n]Deixe o passado para trás.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Qual é o sentido de lutar?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Qual é o sentido de brigar?[n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Takeishi]]
 [s][vp 8 0 0 0 65535 0]Não podemos ficar com pessoas[n]que prejudiquem a equipe.[n][f 1 3 65535][w][e]
@@ -153,7 +153,7 @@
 [s][bup 0 2 200 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 8 10 2]Certo?...Ei, espere um minuto.[n]O que você quer dizer com "mais ou menos"?[n]Você deve entender...![n][f 1 3 65535][w][e]
 
 [msg MSG_040_0_0 [Ryuji]]
-[s][bup 0 2 204 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você está brincando comigo? Por acaso eu[n]falava árabe?[n][f 1 3 65535][w][e]
+[s][bup 0 2 204 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você está brincando comigo? Por acaso eu[n]falei árabe?[n][f 1 3 65535][w][e]
 
 [msg MSG_041_0_0 [Ryuji]]
 [s][bup 0 2 201 0 0][f 4 10 65535 0 0][vp 8 2 0 7038 65535 0]Para mim, ser livre é...[n][f 1 3 65535][w][e]

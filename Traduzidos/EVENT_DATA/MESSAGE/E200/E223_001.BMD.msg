@@ -118,7 +118,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 46 65535 0]Se ele tivesse um "despertar[n]do coração"... Você não acha que seria[n]causa dos Phantom Thieves?[n][f 1 3 65535][w][e]
 
 [sel SEL_032_0_0 top]
-[s]Por nada.[e]
+[s]De jeito nenhum.[e]
 [s]Eles só atacam criminosos.[e]
 [s]Na sua opinião?[e]
 
@@ -126,7 +126,7 @@
 [s][bup 0 9 1 2 0][f 4 10 65535 0 0][vp 8 0 0 47 65535 0]Haha, certamente.[n]No entanto, há uma falha[n]em seu raciocínio.[n][f 1 3 65535][w][e]
 
 [msg MSG_034_0_0 [Akechi]]
-[s][bup 0 9 0 2 0][f 4 10 65535 0 0][vp 8 0 0 48 65535 0]Eu vejo. Mas como você[n]pode ter tanta certeza?[n][f 1 3 65535][w][e]
+[s][bup 0 9 0 2 0][f 4 10 65535 0 0][vp 8 0 0 48 65535 0]Entendi. Mas como você[n]pode ter tanta certeza?[n][f 1 3 65535][w][e]
 
 [msg MSG_035_0_0 [Akechi]]
 [s][bup 0 9 1 2 0][f 4 10 65535 0 0][vp 8 0 0 49 65535 0]Ah, você inverte a pergunta?[n]Bem, eu penso assim.[n][f 1 3 65535][w][e]

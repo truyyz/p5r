@@ -111,7 +111,7 @@
 
 [msg MSG_033_0_0 [Justine]]
 [s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Então você estava se segurando... para[n]evitar destruí-lo?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu vejo. Se o objetivo é a[n]perfeição da técnica, não há[n]necessidade de destruí-la...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Entendi. Se o objetivo é a[n]perfeição da técnica, não há[n]necessidade de destruí-la...[n][f 1 3 65535][w][e]
 
 [msg MSG_034_0_0 [Caroline]]
 [s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 2 0 11094 65535 0]Em termos de treinamento físico,[n]este lugar deixa muito a[n]desejar.[n][f 1 3 65535][w][e]

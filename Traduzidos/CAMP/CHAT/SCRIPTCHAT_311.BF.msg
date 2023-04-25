@@ -97,7 +97,7 @@
 [s]Apenas me diga.[e]
 
 [msg MSG_024_0_0 [Alibaba]]
-[s][f 5 14]...Eu vejo.[n][w][e]
+[s][f 5 14]...Entendo.[n][w][e]
 
 [msg MSG_024_1_0 [Alibaba]]
 [s][f 5 14]Hmm, na verdade, as letras de desafio[n]anteriores incluíam nomes.[n][w][e]

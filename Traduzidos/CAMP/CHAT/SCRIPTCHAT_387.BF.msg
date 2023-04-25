@@ -23,7 +23,7 @@
 [s][f 5 14]Se o verdadeiro culpado, como você[n]o define, age sozinho, então[n]não pode haver dúvida.[n][w][e]
 
 [msg MSG_008_0_0 [Futaba]]
-[s][f 5 14]Eu vejo.[n][w][e]
+[s][f 5 14]Entendi.[n][w][e]
 
 [msg MSG_009_0_0 [Yusuke]]
 [s][f 5 14]A próxima pergunta é:[n]quem pode ser[n]este homem mascarado?[n][w][e]

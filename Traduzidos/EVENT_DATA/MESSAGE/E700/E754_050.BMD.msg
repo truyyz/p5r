@@ -32,7 +32,7 @@
 [s]Exatamente.[e]
 
 [msg MSG_009_0_0 [Takemi]]
-[s][bup 0 108 501 1 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Eu vejo! Obrigado[n]por me atender.[n][f 1 3 65535][w][e]
+[s][bup 0 108 501 1 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Entendi! Obrigado[n]por me atender.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]O Dia dos Namorados passou assim,[n]e eu não sabia se[n]realmente havia algo...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]É bom saber que você[n]pensou em mim.[n][f 1 3 65535][w][e]
 

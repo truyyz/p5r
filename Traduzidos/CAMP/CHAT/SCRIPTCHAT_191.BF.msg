@@ -50,7 +50,7 @@
 
 [sel SEL_012_0_0 top]
 [s][f 5 14]Eu te dou cobertura.[e]
-[s]Eu vejo.[e]
+[s]Entendi.[e]
 
 [msg MSG_013_0_0 [Sumire]]
 [s][f 5 14][f 5 15]Estou pronto quando você estiver![n][w][e]

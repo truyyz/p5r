@@ -24,7 +24,7 @@
 [s]Sim, se formos pegos.[e]
 
 [msg MSG_008_0_0 [Ryuji]]
-[s][f 5 14]Direita?!?[n][w][e]
+[s][f 5 14]Certo?!?[n][w][e]
 
 [msg MSG_009_0_0 [Ann]]
 [s][f 5 14]Bem, sim...[n][w][e]

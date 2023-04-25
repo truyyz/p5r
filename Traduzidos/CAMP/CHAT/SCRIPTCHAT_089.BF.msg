@@ -68,7 +68,7 @@
 [s][f 5 14]Ele tem razão.[n][w][e]
 
 [msg MSG_029_0_0 [Makoto]]
-[s][f 5 14]Eu vejo.[n][w][e]
+[s][f 5 14]Entendi.[n][w][e]
 
 [msg MSG_030_0_0 [Makoto]]
 [s][f 5 14][f 5 15]Ainda vou me certificar de não atrasá-lo.[n][w][e]

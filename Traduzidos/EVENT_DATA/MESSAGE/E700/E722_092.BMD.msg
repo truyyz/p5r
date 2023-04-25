@@ -159,7 +159,7 @@
 [s][f 0 8 2 1 2217]Você sempre pode contar comigo.[clr 27][e]
 
 [msg MSG_038_0_0 [Sumire]]
-[s][bup 0 10 901 2 0][f 4 10 65535 0 0][vp 8 2 0 57186 65535 0][f 5 13 33 5 10]Direita! Irei além de suas expectativas![n][f 1 3 65535][w][e]
+[s][bup 0 10 901 2 0][f 4 10 65535 0 0][vp 8 2 0 57186 65535 0][f 5 13 33 5 10]Tá certo! Irei além de suas expectativas![n][f 1 3 65535][w][e]
 
 [msg MSG_039_0_0 [Sumire]]
 [s][bup 0 10 901 2 0][f 4 10 65535 0 0][vp 8 2 0 57186 65535 0][f 5 13 33 5 10]Farei o meu melhor, senpai! Encontrarei[n]novas maneiras de surpreender você![n][f 1 3 65535][w][e]

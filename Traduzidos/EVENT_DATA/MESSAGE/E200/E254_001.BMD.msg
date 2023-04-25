@@ -122,7 +122,7 @@
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 42 65535 0]Nós nos tornamos alvos,[n]para Kaneshiro. E isso[n]nos torna clientes do seu banco![n][f 1 3 65535][w][e]
 
 [msg MSG_035_0_0 [Yusuke]]
-[s][bup 0 5 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 43 65535 0]Eu vejo. Então não podíamos[n]entrar porque ele não[n]nos considerava seus clientes...[n][f 1 3 65535][w][e]
+[s][bup 0 5 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 43 65535 0]Entendi. Então não podíamos[n]entrar porque ele não[n]nos considerava seus clientes...[n][f 1 3 65535][w][e]
 
 [msg MSG_036_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 44 65535 0]E você não acha que ela,[n]em particular,[n]é uma cliente muito especial?[n][f 1 3 65535][w][e]

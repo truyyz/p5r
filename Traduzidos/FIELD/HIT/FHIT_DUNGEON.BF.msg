@@ -6,7 +6,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 0 1003 65535 0]Você quer voltar[n]para a entrada?[n][w][e]
 
 [msg MSG_DNG_QUEST [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 0 1130 65535 0]Hum?!? Eu aviso o alvo[n]à frente![n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 0 1130 65535 0]Hum?!? Eu avisto o alvo[n]à frente![n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Você quer entrar?[n][w][e]
 
 [msg GOTO_ENTRANCE_FLOOR_NG01 [Morgana]]

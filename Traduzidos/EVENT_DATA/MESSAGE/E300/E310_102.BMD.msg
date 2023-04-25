@@ -99,7 +99,7 @@
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]De qualquer forma, por que não tentamos[n]conhecê-los um pouco melhor?[n][f 1 3 65535][w][e]
 
 [msg MSG_031_0_0 [Yusuke]]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu vejo. Fazer o alvo[n]abaixar a guarda[n]é uma estratégia básica.[n][f 1 3 65535][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Entendi. Fazer o alvo[n]abaixar a guarda[n]é uma estratégia básica.[n][f 1 3 65535][w][e]
 
 [msg MSG_032_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Então, quem dará o primeiro passo?[n]Aguardamos suas ordens, Joker.[n][f 1 3 65535][w][e]
@@ -1037,7 +1037,7 @@
 [s][vp 8 0 0 0 65535 0]Ele quer dizer uma lapiseira.[n]Não podemos usá-los em sala de aula.[n][f 1 3 65535][w][e]
 
 [msg MSG_315_0_0 [Yusuke]]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu vejo. Bem, isso[n]não deve ser um problema.[n][f 1 3 65535][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Entendi. Bem, isso[n]não deve ser um problema.[n][f 1 3 65535][w][e]
 
 [msg MSG_316_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Você os ouviu, não ouviu?[n]Certifique-se de considerar[n]os pedidos deles.[n][f 1 3 65535][w][e]

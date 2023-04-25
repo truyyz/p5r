@@ -19,7 +19,7 @@
 
 [msg MSG_054_0_0 [Jogador de vôlei do primeiro ano]]
 [s][f 4 23 1 857 3 10 0 0][vp 8 2 1 0 857 0]O-oh, estes...?[n][w][e]
-[s][vp 8 2 1 0 857 0]F-fatos durante a prática.[n]Todos na equipe são reduzidos[n]igualmente.[n][w][e]
+[s][vp 8 2 1 0 857 0]A-aconteceu praticando.[n]Todos na equipe são reduzidos[n]igualmente.[n][w][e]
 [s][vp 8 2 1 0 857 0]Mishima-senpai, especialmente... Ele tem que[n]passar pelo treinamento especial do Prof.[n]Kamoshida ...[n][w][e]
 [s][vp 8 2 1 0 857 0]O-Oh, hum... Esqueça![n]Esqueça o que eu disse![n][w][e]
 

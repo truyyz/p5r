@@ -572,7 +572,7 @@
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Hum![n][w][e]
 
 [msg MSG_0621_ANN_AND_MAKOTO__7 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 23 1 206 3 10 0 10][vp 8 2 1 0 65535 0]Ok, hoje vou passar algum tempo com[n]Makoto, então se nos encontrarmos,[n]podemos ir juntos! Direita?[n][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 23 1 206 3 10 0 10][vp 8 2 1 0 65535 0]Ok, hoje vou passar algum tempo com[n]Makoto, então se nos encontrarmos,[n]podemos ir juntos! Certo?[n][w][e]
 
 [msg MSG_0621_ANN_AND_MAKOTO__8 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][f 4 23 1 202 3 10 0 10][vp 8 2 1 0 65535 0]Hum. Por favor, deixe-nos saber quando você[n]decidir entrar no Palácio.[n][w][e]

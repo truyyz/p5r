@@ -9,7 +9,7 @@
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][f 5 13 9 5 9][vp 8 0 0 0 65535 0]Vindo de outra pessoa... isso[n]soaria sarcástico. Razão pela qual[n]isso dói ainda mais...[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Akechi]]
-[s][bup 0 9 1 65535 0][f 4 10 65535 0 0][f 5 13 9 10 9][vp 8 0 0 0 65535 0]Eu vejo. Então a gente também compartilha[n]essa perspectiva, né...? Você é[n]muito charmoso.[n][f 1 3 65535][w][e]
+[s][bup 0 9 1 65535 0][f 4 10 65535 0 0][f 5 13 9 10 9][vp 8 0 0 0 65535 0]Entendi. Então a gente também compartilha[n]essa perspectiva, né...? Você é[n]muito charmoso.[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Akechi]]
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Lembra quando eu disse que[n]você e eu somos parecidos?[n][f 1 3 65535][w][e]

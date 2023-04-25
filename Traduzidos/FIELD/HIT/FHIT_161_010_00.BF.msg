@@ -12,7 +12,7 @@
 [s]Em breve não será mais[n]importante...[n][w][e]
 
 [msg D08_01_NPC_TALK_22_mes02 [Morgana]]
-[s][bup 0 3 3 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1038 65535 0]Eu vejo...[n][w][e]
+[s][bup 0 3 3 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1038 65535 0]Entendi...[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ele não percebe[n]o que realmente significa[n]ser governado por alguém.[n][w][e]
 
 [msg D08_01_NPC_TALK_23_mes01 [Menino quieto]]

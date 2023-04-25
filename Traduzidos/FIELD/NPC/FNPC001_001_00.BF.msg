@@ -763,7 +763,7 @@
 
 [msg MSG_TEREBIKAMERA_003_2_0 [Repórter]]
 [s][f 4 23 1 37 9 5 5 20][vp 8 2 1 0 37 0]Você vê o que está acontecendo?[n]Este aluno está[n]com medo de falar.[n][w][e]
-[s][vp 8 2 1 0 37 0]Eu vejo sombras escuras se formando sobre a[n]escola enquanto este homem tenta encobrir o[n]escândalo![n][w][e]
+[s][vp 8 2 1 0 37 0]Entendi sombras escuras se formando sobre a[n]escola enquanto este homem tenta encobrir o[n]escândalo![n][w][e]
 
 [msg MSG_TEREBIKAMERA_003_3_0 [Repórter]]
 [s][f 4 23 1 37 9 5 5 20][vp 8 2 1 0 37 0]Você vê o que está acontecendo?[n]Este aluno está tão chocado[n]que nem consegue falar.[n][w][e]
@@ -782,7 +782,7 @@
 [s][vp 8 2 1 0 36 0]Sim, talvez você esteja certo.[n]Além disso, não quero perder meu emprego[n]só para pedir explicações.[n][w][e]
 
 [msg MSG_TEREBIKAMERA_004_3_0 [Repórter]]
-[s][vp 8 2 1 0 35 0]Aqui, eu vejo que você entende. Eles fazem isso[n]apenas para capturar os "corações"[n]dos espectadores.[n][w][e]
+[s][vp 8 2 1 0 35 0]Aqui, Entendi que você entende. Eles fazem isso[n]apenas para capturar os "corações"[n]dos espectadores.[n][w][e]
 [s][vp 8 2 1 0 35 0]A exposição de Madarame é o evento perfeito[n]para atrair o interesse[n]do público. Vamos lá.[n][w][e]
 
 [msg MSG_TEREBIKAMERA_005_0_0 [Repórter]]
@@ -828,15 +828,15 @@
 [s]Eu não me importo.[e]
 
 [msg MSG_TEREBIKAMERA_007_1_0 [Repórter]]
-[s][f 4 23 1 37 9 5 5 20][vp 8 2 1 0 37 0]Eu vejo! Então está aliviado...[n]por enquanto.[n][w][e]
+[s][f 4 23 1 37 9 5 5 20][vp 8 2 1 0 37 0]Entendi! Então está aliviado...[n]por enquanto.[n][w][e]
 [s][vp 8 2 1 0 37 0]No entanto, ele ainda parece chateado[n]porque o desligamento demorou[n]muito tempo![n][w][e]
 
 [msg MSG_TEREBIKAMERA_007_2_0 [Repórter]]
-[s][f 4 23 1 37 9 5 5 20][vp 8 2 1 0 37 0]Eu vejo. Então você não acha que o caso está[n]encerrado, não é?[n][w][e]
+[s][f 4 23 1 37 9 5 5 20][vp 8 2 1 0 37 0]Entendi. Então você não acha que o caso está[n]encerrado, não é?[n][w][e]
 [s][vp 8 2 1 0 37 0]A juventude de hoje não[n]tolera mais os ineficazes[n]procedimentos de investigação da polícia![n][w][e]
 
 [msg MSG_TEREBIKAMERA_007_3_0 [Repórter]]
-[s][f 4 23 1 37 9 5 5 20][vp 8 2 1 0 37 0]Eu vejo. Sem comentários, hein?[n][w][e]
+[s][f 4 23 1 37 9 5 5 20][vp 8 2 1 0 37 0]Entendi. Sem comentários, hein?[n][w][e]
 [s][vp 8 2 1 0 37 0]Ele tem tão pouca esperança no futuro do país que[n]nem se dá ao trabalho de nos dar sua opinião![n][w][e]
 
 [msg MSG_TEREBIKAMERA_007_4_0 [Repórter]]
@@ -920,7 +920,7 @@
 [s][vp 8 2 1 0 37 0]E ele está dizendo que não será resolvido até que[n]o presidente implore por perdão.[n][w][e]
 
 [msg MSG_TEREBIKAMERA_012_2_0 [Repórter]]
-[s][f 4 23 1 37 9 5 5 20][vp 8 2 1 0 37 0]Portanto, ela não está satisfeita com o fato de[n]os Phantom Thieves terem se intrometido neste[n]assunto. Eu vejo.[n][w][e]
+[s][f 4 23 1 37 9 5 5 20][vp 8 2 1 0 37 0]Portanto, ela não está satisfeita com o fato de[n]os Phantom Thieves terem se intrometido neste[n]assunto. Entendi.[n][w][e]
 [s][vp 8 2 1 0 37 0]Então a culpa é dos políticos,[n]que permitem que as empresas[n]explorem seus funcionários.[n][w][e]
 
 [msg MSG_TEREBIKAMERA_012_3_0 [Repórter]]
@@ -4137,7 +4137,7 @@
 [s][vp 8 2 1 0 604 0]O que você fará?[n]Devo expiar[n]minhas ações.[n][w][e]
 
 [msg Quest49_target_02_04 [Homem impassível]]
-[s][f 4 23 1 65 3 10 0 0][vp 8 2 1 0 605 0]Eu vejo. Nesse caso,[n]vou seguir seu exemplo.[n][w][e]
+[s][f 4 23 1 65 3 10 0 0][vp 8 2 1 0 605 0]Entendi. Nesse caso,[n]vou seguir seu exemplo.[n][w][e]
 
 [msg Quest49_target_sinjyo_02 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Parece que seu coração[n]despertou sem complicações...[n][w][e]

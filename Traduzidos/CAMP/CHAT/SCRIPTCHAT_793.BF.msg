@@ -40,7 +40,7 @@
 [s][f 5 14]O local é em Shinagawa.[n]Vou enviar instruções,[n]então nos encontraremos lá.[n][f 5 15][w][e]
 
 [msg MSG_210_0_0 [Akechi]]
-[s][f 5 14]Eu vejo. Que pena.[n][w][e]
+[s][f 5 14]Entendi. Que pena.[n][w][e]
 [s][f 5 14]Vou pedir a outra pessoa, então.[n]Perdoe meu pedido.[n][f 5 15][w][e]
 
 [msg MSG_400_0_0 [Morgana]]

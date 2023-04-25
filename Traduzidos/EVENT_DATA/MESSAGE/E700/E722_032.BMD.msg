@@ -175,7 +175,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Da próxima vez compro o super quente[n]"Molho Megido"![n][f 1 3 65535][w][e]
 
 [msg MSG_045_0_0 [Kasumi]]
-[s][bup 0 10 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 57026 65535 0][f 5 13 33 10 10]Direita! Quando você cai, você tem que[n]se levantar![n][f 1 3 65535][w][e]
+[s][bup 0 10 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 57026 65535 0][f 5 13 33 10 10]Tá certo! Quando você cai, você tem que[n]se levantar![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Da próxima vez vou perguntar do que você gosta,[n]antes de cozinhar.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Da próxima vez compro o super quente[n]"Molho Megido"![n][f 1 3 65535][w][e]
 

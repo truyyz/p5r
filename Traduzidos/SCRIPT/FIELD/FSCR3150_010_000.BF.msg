@@ -42,7 +42,7 @@
 [s]Não solicite assistência[e]
 
 [msg MSG_TeaCherOrder_GO [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1035 65535 0]Eu vejo. Ao pedir a ela para[n]cuidar disso, você terá tempo[n]para fazer outra coisa.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1035 65535 0]Entendi. Ao pedir a ela para[n]cuidar disso, você terá tempo[n]para fazer outra coisa.[n][w][e]
 
 [msg MSG_TeaCherOrder_Cancel [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1035 65535 0]Oh, você não quer ligar para ela?[n]Acho que você[n]vai cuidar disso sozinho, então.[n][w][e]

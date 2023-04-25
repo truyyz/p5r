@@ -26,7 +26,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ele com certeza visita muitos lugares, não é?[n]Você nunca sabe onde pode encontrá-lo...[n][w][e]
 
 [msg MES_GROUP1_04 [Ryuji]]
-[s][bup 0 2 14 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 42 10 0 10][vp 8 2 1 7021 65535 0]Direita? Esse cara conhece Tóquio melhor do[n]que eu.[n][w][e]
+[s][bup 0 2 14 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 42 10 0 10][vp 8 2 1 7021 65535 0]Certo? Esse cara conhece Tóquio melhor do[n]que eu.[n][w][e]
 
 [msg MES_GROUP2_01 [Ohya]]
 [s][bup 0 107 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 16020 65535 0]Os templos não são ótimos? Eu sempre tenho[n]que checá-los sempre que vejo um em minhas[n]viagens.[n][w][e]

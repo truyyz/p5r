@@ -77,7 +77,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 28 65535 0]Mas discordo totalmente[n]dos métodos deles.[n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Akechi]]
-[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 29 65535 0]Eu vejo. Você pode explicar por quê?[n][f 1 3 65535][w][e]
+[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 29 65535 0]Entendi. Você pode explicar por quê?[n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Kasumi]]
 [s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 30 65535 0]Temo que a existência dos[n]Phantom Thieves não beneficie[n]a sociedade a longo prazo.[n][f 1 3 65535][w][e]
@@ -93,7 +93,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 36 65535 0]Mas, na minha opinião, uma empresa que[n]exigisse tudo para Phantom[n]Thievess estaria com os dias contados.[n][f 1 3 65535][w][e]
 
 [msg MSG_026_0_0 [Akechi]]
-[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 37 65535 0]Eu vejo. Portanto, em relação ao[n]crescimento de uma pessoa, suas[n]ações são na verdade um obstáculo.[n][f 1 3 65535][w][e]
+[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 37 65535 0]Entendi. Portanto, em relação ao[n]crescimento de uma pessoa, suas[n]ações são na verdade um obstáculo.[n][f 1 3 65535][w][e]
 [s][bup 0 9 1 65535 0][f 4 10 65535 0 0][f 4 24 0 4 6 42 3 100][vp 8 0 0 38 65535 0]Realmente um interessante[n]ponto de vista.[n][f 1 3 65535][w][e]
 
 [msg MSG_028_0_0 [Akechi]]

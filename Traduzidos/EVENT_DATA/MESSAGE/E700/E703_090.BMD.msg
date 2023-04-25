@@ -159,7 +159,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O único que tem controle sobre[n]mim deve ser eu mesmo.[n]Não meu pai, nem Sugimura-san.[n][f 1 3 65535][w][e]
 
 [msg MSG_033_6_0 [Takakura]]
-[s][vp 8 0 0 0 65535 0]...Eu vejo. Você cresceu[n]muito rápido, Haru-chan.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]...Entendo. Você cresceu[n]muito rápido, Haru-chan.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Eu não sabia que você já era uma mulher tão[n]forte, gentil e madura.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Peço desculpas por não[n]perceber isso antes.[n][f 1 3 65535][w][e]
 

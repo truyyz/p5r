@@ -107,7 +107,7 @@
 [s][bup 0 4 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 36 10 0 10][vp 8 2 1 6048 65535 0]Lembra quando essa coisa pagou muito[n]dinheiro? Parecia tão bom![n][w][e]
 
 [msg MES_GROUP8_02 [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 3 10 0 10]Direita? Jackpot total! Se ao menos não[n]fosse dinheiro do palácio falso...[n][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 3 10 0 10]Certo? Jackpot total! Se ao menos não[n]fosse dinheiro do palácio falso...[n][w][e]
 
 [msg MES_GROUP8_03 [Futaba]]
 [s][bup 0 8 2 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 9019 65535 0]Tecnicamente, nosso líder é quem venceu. E[n]não se esqueça de como eu montei a coisa![n][w][e]

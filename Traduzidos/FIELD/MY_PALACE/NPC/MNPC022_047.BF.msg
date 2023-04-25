@@ -7,7 +7,7 @@
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]... embora eu não possa dizer que foi fácil.[n][w][e]
 
 [msg MES_GROUP0_03 [Sae]]
-[s][bup 0 105 3 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 56610 65535 0]Por nada. Você podia sentir[n]a tensão apenas ouvindo[n]suas explicações.[n][w][e]
+[s][bup 0 105 3 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 56610 65535 0]De jeito nenhum. Você podia sentir[n]a tensão apenas ouvindo[n]suas explicações.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Claro que ele sabia que a prisão[n]não seria agradável, mas talvez[n]ele não tivesse considerado as drogas.[n][w][e]
 
 [msg MES_GROUP0_04 [Makoto]]

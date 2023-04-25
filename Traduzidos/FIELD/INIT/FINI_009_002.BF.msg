@@ -94,7 +94,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1174 65535 0]Entendo... Bem, não temos nenhuma outra pista,[n]então acho que devemos dar uma olhada também.[n][w][e]
 
 [msg MSG_M79_1000_00_00 [Akechi]]
-[s][f 4 23 1 65535 22 10 0 0][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 8018 65535 0]...Eu vejo.[n][w][e]
+[s][f 4 23 1 65535 22 10 0 0][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 8018 65535 0]...Entendo.[n][w][e]
 [s][bup 0 9 1 65535 0][f 4 10 65535 0 0]Você parece ter aprendido[n]muito com sua investigação.[n]Muito bem, [f 4 2]-kun.[n][w][e]
 
 [msg MSG_M79_1001_00_00 [Akechi]]
@@ -336,7 +336,7 @@
 [s]Ainda não.[e]
 
 [msg MSG_NIGHT_MASTER_NIGHT_R_2 [Sojiro]]
-[s][f 4 23 1 205 33 10 33 10][f 4 23 1 235 31 10 30 10][bup 0 103 0 0 0][f 4 10 65535 0 0]...Eu vejo.[n][w][e]
+[s][f 4 23 1 205 33 10 33 10][f 4 23 1 235 31 10 30 10][bup 0 103 0 0 0][f 4 10 65535 0 0]...Entendo.[n][w][e]
 [s]Aqui à noite só há você,[n]por isso é inútil estabelecer[n]um toque de recolher ou algo semelhante.[n][w][e]
 [s]Contanto que você leve seus estudos[n]a sério, não me importo se você sair à noite.[n][w][e]
 

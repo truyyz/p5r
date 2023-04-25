@@ -64,9 +64,9 @@
 [s][vp 8 0 0 0 65535 0]Qual das opções a seguir é chamada de[n]curva do diabo?[n][f 1 3 65535][w][e]
 
 [sel SEL_019_0_0 top]
-[s]PARA.[e]
-[s]b.[e]
-[s]c.[e]
+[s]A.[e]
+[s]B.[e]
+[s]C.[e]
 [s]D.[f 2 7 0 0 25 1][e]
 
 [msg MSG_020_0_0 [Prof Kawakami]]
@@ -122,9 +122,9 @@
 [s][vp 8 0 0 0 65535 0]Escolha o gráfico com o nome do[n]ioiô chinês chamado "diablo".[n][f 1 3 65535][w][e]
 
 [sel SEL_035_0_0 top]
-[s]PARA.[e]
-[s]b.[e]
-[s]c.[e]
+[s]A.[e]
+[s]B.[e]
+[s]C.[e]
 [s]D.[f 2 7 0 0 25 1][e]
 
 [msg MSG_036_0_0 [Prof Kawakami]]

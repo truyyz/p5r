@@ -11,7 +11,7 @@
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu quero aprender o máximo que puder[n]ciência psicocognitiva enquanto[n]Futaba recupera sua força.[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Makoto]]
-[s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu vejo. Talvez seja realmente[n]um esforço inútil...[n][f 1 3 65535][w][e]
+[s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Entendi. Talvez seja realmente[n]um esforço inútil...[n][f 1 3 65535][w][e]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas eu quero aprender o máximo que puder[n]ciência psicocognitiva enquanto[n]Futaba recupera sua força.[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Makoto]]

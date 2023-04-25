@@ -65,7 +65,7 @@
 [s][vp 8 0 0 0 65535 0]E a melhor parte é que[n]Takeishi não é apenas rico, mas sua mãe[n]preside a associação de pais.[n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Colega professor]]
-[s][vp 8 0 0 0 9 0]Eu vejo. Um peão perfeito![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 9 0]Entendi. Um peão perfeito![n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Yamauchi]]
 [s][vp 8 0 0 0 65535 0]Possivelmente. Mas uma nulidade como ele nunca[n]capitularia um[n]time vencedor.[n][f 1 3 65535][w][e]

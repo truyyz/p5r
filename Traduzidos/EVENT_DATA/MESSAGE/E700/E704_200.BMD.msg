@@ -72,7 +72,7 @@
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 4186 65535 0]Desistir...? [f 4 2], I...[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Yusuke]]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 4182 65535 0]...Eu vejo. Talvez haja alguma verdade no[n]que você diz.[n][f 1 3 65535][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 4182 65535 0]...Entendo. Talvez haja alguma verdade no[n]que você diz.[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Yusuke]]
 [s][bup 0 5 3 65535 0][vp 1 0 0 0 0 0]......[n][f 1 3 65535][w][e]

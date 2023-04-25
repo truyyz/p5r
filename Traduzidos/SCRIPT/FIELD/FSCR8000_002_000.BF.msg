@@ -27,7 +27,7 @@
 [s][bup 0 3 1 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1048 65535 0]Ok, vai ser um show[n]fabuloso! Vou deixar você[n]sem fôlego![n][w][e]
 
 [msg GOTO_DUNGEON_mes06 [Morgana]]
-[s][bup 0 3 1 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1166 65535 0]Eu vejo! Bem, então[n]eles não são nada ruins![n][w][e]
+[s][bup 0 3 1 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1166 65535 0]Entendi! Bem, então[n]eles não são nada ruins![n][w][e]
 
 [msg GOTO_DUNGEON_mes07 [Morgana]]
 [s][bup 0 3 1 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1067 65535 0]É claro. Você vai ver,[n]eu serei um show![n][w][e]

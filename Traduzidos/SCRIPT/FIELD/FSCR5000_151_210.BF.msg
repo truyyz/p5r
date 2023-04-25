@@ -15,5 +15,5 @@
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]E pelo tesouro![n][w][e]
 
 [msg D01_BRIEFING_210_mes06 [Ryuji]]
-[s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7045 65535 0]Direita! Vamos nos ocupar, Joker![n][w][e]
+[s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7045 65535 0]Tá certo! Vamos nos ocupar, Joker![n][w][e]
 

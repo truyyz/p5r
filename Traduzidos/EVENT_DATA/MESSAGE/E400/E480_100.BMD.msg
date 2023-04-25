@@ -15,7 +15,7 @@
 
 [msg MSG_003_0_0 [Jogador de vôlei do primeiro ano]]
 [s][vp 8 0 0 0 65535 0]O-oh, estes?[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]F-feito durante o treino.[n]Todos na equipe são reduzidos[n]igualmente.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]F-feito durante o treino.[n]Todos na equipe tem machucados[n]desse jeito.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Mishima-senpai, especialmente... Ele tem que[n]fazer o treinamento especial do Prof. Kamoshida[n]...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]O-Oh, hum... Esqueça![n]Esqueça o que eu disse![n][f 1 3 65535][w][e]
 

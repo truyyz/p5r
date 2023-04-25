@@ -8,7 +8,7 @@
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ele o chama de "quarto do faraó"...[n][w][e]
 
 [msg MSG_e296_359_AF_002 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos, temos que correr para o Futaba's. Nós até[n]daremos a você a carta de aviso![n][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos, temos que correr até o quarto de Futaba. Nós vamos[n]lhe dar a carta de aviso![n][w][e]
 
 [msg MSG_e296_359_AF_003 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Certo. Por enquanto, vamos deixar o[n]Palácio. O Joker decidirá[n]quando ir para seu quarto.[n][w][e]

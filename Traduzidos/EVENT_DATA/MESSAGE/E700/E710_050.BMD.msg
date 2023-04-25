@@ -69,7 +69,7 @@
 [s][bup 0 113 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 10029 65535 0]S-Sim! Me ajuda muito![n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Yokoda]]
-[s][vp 8 0 0 0 8 0]Eu vejo. Era de se esperar de[n]uma vidente como você, Sacerdotisa.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 8 0]Entendi. Era de se esperar de[n]uma vidente como você, Sacerdotisa.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 8 0]Eu tenho que ir agora.[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Chihaya]]

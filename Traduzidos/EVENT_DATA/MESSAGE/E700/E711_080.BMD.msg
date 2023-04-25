@@ -84,7 +84,7 @@
 [s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Caroline...[n][f 1 3 65535][w][e]
 
 [msg MSG_017_5_0 [Igor]]
-[s][bup 0 201 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Eu vejo. Muito bem, prossiga[n]com sua reabilitação.[n][f 1 3 65535][w][e]
+[s][bup 0 201 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Entendo. Muito bem, prossiga[n]com sua reabilitação.[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Justine]]
 [s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Nossas mais profundas desculpas[n]por perder a calma.[n][f 1 3 65535][w][e]

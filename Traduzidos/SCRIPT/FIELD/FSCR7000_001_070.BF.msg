@@ -87,5 +87,5 @@
 [s]Mil obrigados.[n][w][e]
 
 [msg MSG_Rental_Over_ReturnCa [Vendedor de aluguel de vídeo]]
-[s]Eu vejo. Devolva dentro do prazo, por favor.[n][w][e]
+[s]Entendi. Devolva dentro do prazo, por favor.[n][w][e]
 

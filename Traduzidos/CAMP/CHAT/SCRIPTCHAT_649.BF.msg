@@ -14,7 +14,7 @@
 [s][f 5 14]Aguardo você.[n][f 5 15][w][e]
 
 [sel SEL_001 top]
-[s]Conhecê-lo[e]
+[s]Sair com ele[e]
 [s]Verifique o link com Mishima[e]
 [s]Decidir depois[e]
 

@@ -44,7 +44,7 @@
 [s][f 5 14]Santuário Meiji, hein?[n]Então me encontre em Shibuya.[n][f 5 15][w][e]
 
 [msg MSG_210_0_0 [Yusuke]]
-[s][f 5 14]Eu vejo. Desculpe pelo convite[n]tão repentino.[n][f 5 15][w][e]
+[s][f 5 14]Entendi. Desculpe pelo convite[n]tão repentino.[n][f 5 15][w][e]
 
 [msg MSG_400_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]Você vai ao Santuário com Yusuke[n]amanhã, hein? É um dia de folga,[n]pode estar lotado.[n][f 1 3 65535][w][e]

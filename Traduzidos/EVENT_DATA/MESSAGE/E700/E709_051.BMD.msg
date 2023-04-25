@@ -30,7 +30,7 @@
 [s][bup 0 111 1 65535 0][f 4 10 65535 0 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 8 1 301 65535][vp 8 0 0 0 65535 0]Um momento. Você está dizendo que você,[n]uma garota, quer falar comigo?[n][f 1 3 65535][w][e]
 
 [msg MSG_008_5_0 [Mishima]]
-[s][bup 0 111 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 19023 65535 0]Eu vejo. Nesse caso, acho que não tenho escolha.[n]De jeito nenhum. Eu tenho que ajudar você.[n][f 1 3 65535][w][e]
+[s][bup 0 111 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 19023 65535 0]Entendi. Nesse caso, acho que não tenho escolha.[n]De jeito nenhum. Eu tenho que ajudar você.[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Futaba]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 8 1 301 1][vp 8 2 0 9045 65535 0]Oooh, você é tão gentil![n][f 1 3 65535][w][e]

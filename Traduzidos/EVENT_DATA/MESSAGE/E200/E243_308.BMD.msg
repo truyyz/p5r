@@ -12,7 +12,7 @@
 [s]Adiamos para hoje.[e]
 
 [msg MSG_004_0_0 [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]Direita! Vamos chutá-los pelas bolas![n][f 1 3 65535][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]Tá certo! Vamos chutá-los pelas bolas![n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Ryuji]]
 [s][bup 0 2 3 65535 0][f 4 10 65535 0 0][f 4 16 3 3 301 65535 65535][vp 8 0 0 5 65535 0]Vamos lá pessoal, somos quatro.[n]Não vai ser tão difícil[n]conseguir alguma coisa.[n][f 1 3 65535][w][e]

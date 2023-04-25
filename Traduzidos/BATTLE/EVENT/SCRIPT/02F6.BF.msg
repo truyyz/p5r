@@ -34,7 +34,7 @@
 [s]Você tem um amigo em Akiba.[e]
 
 [msg MSG_BTL_HOLDUP01_002_000 [Sombra de Oi]]
-[s][vp 8 2 2 50024 1 51]Direita!?! Você vê? Não estou fazendo[n]nada de errado![n][f 1 3 65535][w][e]
+[s][vp 8 2 2 50024 1 51]Tá certo!?! Você vê? Não estou fazendo[n]nada de errado![n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_TALK_FAILED [Futaba]]
 [s][bup 0 8 604 0 0][vp 8 2 2 9040 0 8][f 4 10 65535 0 0]Merda! Parece que a situação piorou![n]Talvez seja melhor escolher o que dizer[n]com mais cuidado![n][f 1 3 65535][w][e]

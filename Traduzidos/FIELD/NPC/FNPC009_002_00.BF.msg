@@ -191,7 +191,7 @@
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Eu disse ao chefe, mas nada parece[n]mudar...[n][w][e]
 
 [msg MSG_ROUKENTOSYOJYO_kf_00 [Garota que ama cachorros]]
-[s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Houve outro...[n]inci... incidente?[n]Eu vejo um policial ali.[n][w][e]
+[s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Houve outro...[n]inci... incidente?[n]Entendi um policial ali.[n][w][e]
 
 [msg MSG_ROUKENTOSYOJYO_kf_00_2 [Mãe de aparência gentil]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Oh, ele está lá apenas para garantir que[n]todos estejam seguros.[n][w][e]
@@ -1857,7 +1857,7 @@
 [s][f 4 23 1 2 14 10 13 10][vp 8 2 1 0 2 0]Hum? Você estava ouvindo?[n][w][e]
 
 [msg MSG_RADIONEWS_043_1_0 [DJs]]
-[s][vp 8 2 65535 0 0 0]Às vezes eu vejo Shido-san enquanto[n]andando pela cidade.[n][w][e]
+[s][vp 8 2 65535 0 0 0]Às vezes Entendi Shido-san enquanto[n]andando pela cidade.[n][w][e]
 [s][vp 8 2 65535 0 0 0]Eu apertei a mão dele! Seu[n]sorriso realmente deixou[n]uma impressão maravilhosa em mim.[n][w][e]
 
 [msg MSG_RADIONEWS_043_2_0 [Velhote]]
@@ -3636,7 +3636,7 @@
 [s]Eu não quero dizer a você.[e]
 
 [msg MSG_OOYA_003_0_0 [Mulher com um quarto]]
-[s][f 4 23 1 65535 3 10 0 10][bup 0 107 6 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu vejo. Bem, deixe-me saber[n]se você descobrir alguma coisa.[n][w][e]
+[s][f 4 23 1 65535 3 10 0 10][bup 0 107 6 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Entendi. Bem, deixe-me saber[n]se você descobrir alguma coisa.[n][w][e]
 
 [msg MSG_OOYA_004_0_0 [Mulher com um quarto]]
 [s][f 4 23 1 65535 3 10 0 10][bup 0 107 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Vamos, garoto, não tente blefar. Pelo que posso[n]dizer, você não tem absolutamente nada.[n][w][e]
@@ -3782,7 +3782,7 @@
 [s][vp 8 2 1 0 3 0]Mil obrigados.[n][w][e]
 
 [msg MSG_Out_NotBuy [Vendedor de batata doce]]
-[s][vp 8 2 1 0 3 0]Eu vejo. Espero te ver em breve.[n][w][e]
+[s][vp 8 2 1 0 3 0]Entendi. Espero te ver em breve.[n][w][e]
 
 [msg NPC_Neko_Common_bf [Gato malhado]]
 [s][vp 8 2 1 0 8 0]Miau...[n][w][e]

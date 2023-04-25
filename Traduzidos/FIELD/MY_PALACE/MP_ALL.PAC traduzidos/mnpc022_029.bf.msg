@@ -39,7 +39,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]"Fique bravo! Não perdoe esses adultos[n]podres!" [n][w][e]
 
 [msg MES_GROUP4_02 [Sojiro]]
-[s][bup 0 103 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 5130 65535 0]Eu vejo...[n][w][e]
+[s][bup 0 103 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 5130 65535 0]Entendi...[n][w][e]
 [s][bup 0 103 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 33 10 0 10]Faz sentido. Eu deveria ter te contado o[n]mesmo... um pouco tarde para isso agora,[n]hein?[n][w][e]
 
 [msg MES_GROUP4_03 [Futaba]]

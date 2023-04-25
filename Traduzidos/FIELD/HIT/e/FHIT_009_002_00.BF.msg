@@ -410,7 +410,7 @@
 [s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 1 1170 65535 0]Estou começando a ficar tonto.[n]Essa coisa é perigosa![n][w][e]
 
 [msg MSG_SPIN_DRIER]
-[s]Eu vejo algumas roupas girando[n]dentro.[n][w][e]
+[s]Entendi algumas roupas girando[n]dentro.[n][w][e]
 
 [msg MSG_CLINIC_YET_OPEN]
 [s]Este lugar parece uma clínica.[n][w][e]
@@ -863,21 +863,21 @@
 [s][vp 1 0 0 0 0 0]Esta máquina de lavar é bastante[n]suja. Talvez seja porque foi[n]usado por algum tempo.[n][w][e]
 
 [msg MND_E10410100_SPINDRIER_]
-[s][vp 1 0 0 0 0 0]Eu vejo algumas roupas girando[n]dentro.[n][w][e]
+[s][vp 1 0 0 0 0 0]Entendi algumas roupas girando[n]dentro.[n][w][e]
 
 [msg MSG_E79310100_SPINDRIER_ [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]O que você está fazendo?[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Vamos, apresse-se e leve-nos[n]para a clínica.[n][w][e]
 
 [msg MND_E10920100_SPINDRIER_]
-[s][vp 1 0 0 0 0 0]Eu vejo roupas girando[n]na secadora...[n][w][e]
+[s][vp 1 0 0 0 0 0]Entendi roupas girando[n]na secadora...[n][w][e]
 [s][vp 1 0 0 0 0 0]Se eu continuar olhando para ela,[n]vou me atrasar...[n][w][e]
 
 [msg MSG_E27930100_SPINDRIER_ [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 65535 1176 0 0]O que você está fazendo? Primeiro temos que[n]encontrar informações[n]sobre Futaba.[n][w][e]
 
 [msg MND_COMMON_SPINDRIER_NG_]
-[s][vp 1 0 0 0 0 0]Eu vejo roupas girando[n]na secadora...[n][w][e]
+[s][vp 1 0 0 0 0 0]Entendi roupas girando[n]na secadora...[n][w][e]
 
 [msg MND_CHK_ITEM_SHOP_104101]
 [s][vp 1 0 0 0 0 0]Este lugar parece uma[n]clínica, mas não acho que[n][clr 2]Sojiro Sakura[clr 27] seja um médico...[n][w][e]
@@ -1043,7 +1043,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 65535 1019 0 0]Ei... Diz aqui que é[n]a lanchonete. Estamos tentando[n]encontrar a clínica, lembra?[n][w][e]
 
 [msg MND_COMMON_CHK_DRINK_SHO_2]
-[s][vp 1 0 0 0 0 0]A barra está fechada. Dentro[n]eu vejo muitos copos de vidro...[n][w][e]
+[s][vp 1 0 0 0 0 0]A barra está fechada. Dentro[n]Entendi muitos copos de vidro...[n][w][e]
 
 [msg MND_E104101_CHK_DEADEND0_3]
 [s][vp 1 0 0 0 0 0]Se eu continuar assim, acho que vou acabar em um[n]lugar completamente diferente...[n][w][e]

@@ -12,7 +12,7 @@
 [s]Eu o entrevistei.[e]
 
 [msg MSG_003_0_0 [Ohya]]
-[s][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Eu vejo. Bem, você é um grande fã, não há[n]muito a dizer. Desculpe se duvidei de você![n][f 1 3 65535][w][e]
+[s][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Entendo. Bem, você é um grande fã, não há[n]muito a dizer. Desculpe se duvidei de você![n][f 1 3 65535][w][e]
 
 [msg MND_003_5_0]
 [s][vp 8 0 0 0 65535 0]Não sei como, mas consegui[n]manter a confiança dele![n][f 1 3 65535][w][e]

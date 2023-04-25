@@ -58,6 +58,6 @@
 [s][vp 8 0 0 0 65535 0]Mas precisamos de alguém para prescrevê-los para[n]nós. Talvez ouviu falar de um médico...[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não subestime os Palaces.[n]Você não tem ideia da diferença que[n]ter drogas pode fazer.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não subestime os Palácios.[n]Você não tem ideia da diferença que[n]ter drogas pode fazer.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Mas precisamos de alguém para prescrevê-los para[n]nós. Talvez ouviu falar de um médico...[n][f 1 3 65535][w][e]
 

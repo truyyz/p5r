@@ -65,7 +65,7 @@
 [s][bup 0 107 2 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Mas é por isso que estou aqui! Eu tenho que[n]levar a caneta para esse mal social! Ahh,[n]estou com vontade de voltar ao trabalho...[n][w][e]
 
 [msg MES_GROUP5_02 [Mishima]]
-[s][bup 0 111 3 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 19067 65535 0]Eu vejo. Boa sorte com isso.[n][w][e]
+[s][bup 0 111 3 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 19067 65535 0]Entendi. Boa sorte com isso.[n][w][e]
 
 [msg MES_GROUP5_03 [Ohya]]
 [s][bup 0 107 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 35 10 0 10][vp 8 2 1 16045 65535 0]Agora segure lá, meu pequeno informante.[n]Você não está saindo disso.[n][w][e]

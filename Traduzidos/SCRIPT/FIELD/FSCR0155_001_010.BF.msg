@@ -21,7 +21,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]É provavelmente o melhor.[n][w][e]
 
 [msg MSG_D04_155_01_000_000 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]O que há ali?[n]Eu vejo alguns prédios...[n][w][e]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]O que há ali?[n]Entendi alguns prédios...[n][w][e]
 
 [msg MSG_D04_155_01_000_001 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6022 65535 0]Acho que os vi também[n]no caminho para cá. Mas estava[n]quente, minhas memórias estão confusas...[n][w][e]

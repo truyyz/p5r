@@ -144,7 +144,7 @@
 [s][bup 0 109 604 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Espere, hum. Ok...Ok...[n]Ok...Ok...Ok...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Tempo! Preciso de mais tempo![n][f 1 3 65535][w][e]
 [s][bup 0 109 603 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Quer dizer, você é aluno e patrão, enquanto eu[n]sou professora e empregada doméstica. Não faz o[n]menor sentido![n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Direita? Vamos conversar[n]na próxima vez, ok?!?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Certo? Vamos conversar[n]na próxima vez, ok?!?[n][f 1 3 65535][w][e]
 
 [msg MND_029_0_0]
 [s][vp 8 0 0 0 65535 0]Demorou para responder...[n][f 1 3 65535][w][e]

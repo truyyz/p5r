@@ -2,7 +2,7 @@
 [s][bup 0 2 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7040 65535 0]Oooh, o que diabos aconteceu!?![n]Tornou-se tudo... eu nem[n]sei como descrever...[n][w][e]
 
 [msg SENI_AWAKENING_FIRST_01_ [Ryuji]]
-[s][bup 0 2 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ah, vamos Mona! Você[n]nunca nos contou para que servem essas[n]sementes da ganância![n][w][e]
+[s][bup 0 2 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ah, vamos Mona! Você[n]nunca nos contou para que servem essas[n]Sementes da Vontade![n][w][e]
 
 [msg SENI_AWAKENING_FIRST_02 [Morgana]]
 [s][bup 0 3 10 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1173 65535 0]Então é assim que funciona...[n]eu nunca esperei isso...[n][w][e]

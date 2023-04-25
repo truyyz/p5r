@@ -35,7 +35,7 @@
 [s]Planta do segundo andar obtida[n][w][e]
 
 [msg D10_RESULT_TXT13]
-[s]Primeira Semente da Ganância roubada[n][w][e]
+[s]Primeira Semente da Vontade roubada[n][w][e]
 
 [msg D10_RESULT_TXT14]
 [s]Sala segura encontrada[n][w][e]
@@ -47,7 +47,7 @@
 [s]Segunda porta com pergunta em aberto[n][w][e]
 
 [msg D10_RESULT_TXT17]
-[s]Segunda Semente da Ganância roubada[n][w][e]
+[s]Segunda Semente da Vontade roubada[n][w][e]
 
 [msg D10_RESULT_TXT18]
 [s]Laboratório comportamental infiltrado[n][w][e]
@@ -92,7 +92,7 @@
 [s]Quarta porta com pergunta em aberto[n][w][e]
 
 [msg D10_RESULT_TXT32]
-[s]Terceira Semente da Ganância roubada[n][w][e]
+[s]Terceira Semente da Vontade roubada[n][w][e]
 
 [msg D10_RESULT_TXT33]
 [s]Caminho para o tesouro encontrado[n][w][e]

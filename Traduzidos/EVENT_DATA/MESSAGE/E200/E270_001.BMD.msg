@@ -40,7 +40,7 @@
 [s][vp 8 0 0 21 65535 0]Essa gangue perigosa viola o coração de[n]pessoas. Não é tão[n]diferente de lavagem cerebral.[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Repórter]]
-[s][vp 8 0 0 22 65535 0]Eu vejo. Você está absolutamente certo.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 22 65535 0]Entendi. Você está absolutamente certo.[n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [Cliente Idosa]]
 [s][vp 8 0 0 23 7 0]Quem sabe o que é.[n]Algo assim já não aconteceu[n]há algum tempo?[n][f 1 3 65535][w][e]

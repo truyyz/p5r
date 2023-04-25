@@ -95,7 +95,7 @@
 [s][bup 0 4 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eles parecem muito distantes.[n]Aparentemente, as drogas[n]os deixam sonolentos...[n][w][e]
 
 [msg memen_weather_02_mes05 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu vejo. O efeito em Mementos[n]s pode ser similar...[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Entendi. O efeito em Mementos[n]s pode ser similar...[n][w][e]
 
 [msg memen_weather_02_mes06 [Ryuji]]
 [s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7172 65535 0]Deve ser mais fácil derrotar[n]Sombras ou ignorá-las completamente.[n]Vamos lá, vamos descobrir.[n][w][e]
@@ -151,7 +151,7 @@
 [s][bup 0 4 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Sim, houve uma epidemia.[n]Tenho certeza que muitas pessoas[n]sofrem com isso.[n][w][e]
 
 [msg memen_weather_06_mes03 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu vejo. Certas emoções podem[n]ter um efeito nos Mementos.[n][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Entendi. Certas emoções podem[n]ter um efeito nos Mementos.[n][w][e]
 
 [msg memen_weather_06_mes04 [Ryuji]]
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7155 65535 0]Que efeito terá a gripe?[n][w][e]
@@ -288,7 +288,7 @@
 [s]Retorne ao mundo real do[n]Palácio de Shido. Obrigado[n]pelo trabalho realizado.[n][w][e]
 
 [msg D08_EXIT_MES [Navegador do Metaverso]]
-[s]De volta ao mundo real[n]dai Mementos. Obrigado[n]pelo trabalho realizado.[n][w][e]
+[s]De volta ao mundo real[n]de Mementos. Obrigado[n]pelo trabalho realizado.[n][w][e]
 
 [msg D10_EXIT_MES [Navegador do Metaverso]]
 [s]Retorne ao mundo real do Palácio de[n]Maruki. Obrigado[n]pelo trabalho realizado.[n][w][e]

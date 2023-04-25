@@ -48,7 +48,7 @@
 [s][bup 0 216 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 57450 65535 0]Não sei o que você acha que acontece[n]durante as sessões, mas, hum,[n]não é nada disso...[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Maruki]]
-[s][bup 0 216 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu vejo. Então você era[n]aluno de Madarame-san...[n][f 1 3 65535][w][e]
+[s][bup 0 216 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Entendi. Então você era[n]aluno de Madarame-san...[n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]É coisa do passado.[n][f 1 3 65535][w][e]
@@ -96,7 +96,7 @@
 [s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 3 0 42 5 100]Eu quero melhorar minha arte[n]apenas com minhas próprias forças.[n][f 1 3 65535][w][e]
 
 [msg MSG_025_0_0 [Maruki]]
-[s][bup 0 216 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu vejo. Então, qual é o seu sonho?[n][f 1 3 65535][w][e]
+[s][bup 0 216 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Entendi. Então, qual é o seu sonho?[n][f 1 3 65535][w][e]
 
 [msg MSG_026_0_0 [Yusuke]]
 [s][bup 0 5 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu gostaria que o mundo visse a pintura de minha[n]mãe como a obra-prima que é, mesmo que apenas[n]por um momento.[n][f 1 3 65535][w][e]

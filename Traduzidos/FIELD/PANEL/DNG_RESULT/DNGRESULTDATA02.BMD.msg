@@ -20,7 +20,7 @@
 [s]Sala segura encontrada[n][w][e]
 
 [msg D02_RESULT_TXT08]
-[s]Primeira Semente da Ganância roubada[n][w][e]
+[s]Primeira Semente da Vontade roubada[n][w][e]
 
 [msg D02_RESULT_TXT09]
 [s]jardim central encontrado[n][w][e]
@@ -44,7 +44,7 @@
 [s]Pinturas gigantes desatualizadas[n][w][e]
 
 [msg D02_RESULT_TXT16]
-[s]Segunda Semente da Ganância roubada[n][w][e]
+[s]Segunda Semente da Vontade roubada[n][w][e]
 
 [msg D02_RESULT_TXT17]
 [s]Passou o labirinto de pinturas[n][w][e]
@@ -56,7 +56,7 @@
 [s]Sala segura encontrada[n][w][e]
 
 [msg D02_RESULT_TXT20]
-[s]Terceira Semente da Ganância roubada[n][w][e]
+[s]Terceira Semente da Vontade roubada[n][w][e]
 
 [msg D02_RESULT_TXT21]
 [s]Sala segura encontrada[n][w][e]

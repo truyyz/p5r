@@ -18,7 +18,7 @@
 [s]Deixe-os pensar sobre isso.[e]
 
 [msg MSG_006_0_0 [Yusuke]]
-[s][f 5 14]Eu vejo...[n][w][e]
+[s][f 5 14]Entendi...[n][w][e]
 
 [msg MSG_007_0_0 [Ann]]
 [s][f 5 14]Tenho certeza que ele está bem, se[n]Makoto está com ele.[n][w][e]

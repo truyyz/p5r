@@ -165,7 +165,7 @@
 
 [msg MSG_CURRY_Y [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 4128 65535 0]Uhm... estou começando a sentir[n]uma leve fome.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]É como uma alucinação...[n]eu vejo...um prato fumegante de curry.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]É como uma alucinação...[n]Entendi...um prato fumegante de curry.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Perdoe-me, mas não posso deixar de aproveitar[n]sua deliciosa culinária...[n][f 1 3 65535][w][e]
 
 [msg MSG_COFFEE_Y [Yusuke]]
@@ -248,7 +248,7 @@
 [s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 4073 65535 0]Quê? Obrigado.[n]Eu devo a você...[n][f 1 3 65535][w][e]
 
 [msg MSG_NextTimeNG_Yusuke [Yusuke]]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 4026 65535 0]Eu vejo. Que pena...[n][f 1 3 65535][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 4026 65535 0]Entendi. Que pena...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Acho que foi um pedido[n]muito repentino... Perdoe-me.[n]Vou para casa então.[n][f 1 3 65535][w][e]
 
 [msg MSG_NextTimeOK_Curry_Yus [Yusuke]]

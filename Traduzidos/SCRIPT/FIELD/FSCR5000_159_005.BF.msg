@@ -8,5 +8,5 @@
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Não importa como, devemos fazer[n]o senhor deste[n]palácio cuspir sangue. Vamos levar esse tesouro![n][w][e]
 
 [msg D07_BRIEFING_005_mes04 [Ann]]
-[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Direita! Juntos nós podemos![n][w][e]
+[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Tá certo! Juntos nós podemos![n][w][e]
 

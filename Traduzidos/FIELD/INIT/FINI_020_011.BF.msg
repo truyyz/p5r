@@ -1,5 +1,5 @@
 [msg MND_EVENT_YUSUKE_000_00]
-[s][vp 8 2 65535 0 0 0]Eu vejo Yusuke na parte de trás.[n]Ele está olhando para uma pintura...[n][w][e]
+[s][vp 8 2 65535 0 0 0]Entendi Yusuke na parte de trás.[n]Ele está olhando para uma pintura...[n][w][e]
 
 [msg MND_EVENT_YUSUKE_001_00]
 [s][vp 8 2 65535 0 0 0]O que devo fazer?[n][w][e]

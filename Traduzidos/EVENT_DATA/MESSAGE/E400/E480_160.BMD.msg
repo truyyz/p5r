@@ -2,7 +2,7 @@
 [s][bup 0 109 3 0 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]Vou direto ao ponto:[n]algo aconteceu entre você e o Prof. Kamoshida?[n][f 1 3 65535][w][e]
 
 [sel SEL_001_0_0 top]
-[s]Por nada.[e]
+[s]De jeito nenhum.[e]
 [s]Por que você pergunta?[e]
 
 [msg MSG_002_0_0 [Kawakami]]

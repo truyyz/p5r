@@ -57,7 +57,7 @@
 [s]Acho que nunca ouvi[n]Manda elogiar alguém[n]antes...[n][w][e]
 
 [msg MSG_DET_TAIHEI_11_ANSWER_4 [Taihei]]
-[s][f 4 23 1 801 3 10 0 10][bup 0 301 0 0 0][f 4 10 65535 0 0]Eu sei isso. Ele os come e murmura em seu[n]sono "Oh, biscoitos!"[n]E eu vejo tudo.[n][w][e]
+[s][f 4 23 1 801 3 10 0 10][bup 0 301 0 0 0][f 4 10 65535 0 0]Eu sei isso. Ele os come e murmura em seu[n]sono "Oh, biscoitos!"[n]E Entendi tudo.[n][w][e]
 [s]Este é um comportamento realmente inapropriado[n]para um professor. Eu não posso suportar.[n][w][e]
 
 [msg MSG_DET_TAIHEI_11_ANSWER_5 [Taihei]]

@@ -1,5 +1,5 @@
 [msg MSG_BATTING_START_1ST_01 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1133 65535 0]Eu vejo. Então eles fazem isso no[n]telhado...[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1133 65535 0]Entendi. Então eles fazem isso no[n]telhado...[n][w][e]
 
 [msg MSG_BATTING_START_1ST_02 [Recepcionista de meia idade]]
 [s][vp 8 2 1 58571 65535 0]Hum...? É a primeira vez que te vejo aqui.[n][w][e]

@@ -36,7 +36,7 @@
 [s][f 5 14]Ah, Dr. Maruki? Provável.[n][w][e]
 
 [msg MSG_007_0_5 [Yusuke]]
-[s][f 5 14]Eu vejo! Finalmente serei capaz de ver[n]suas habilidades com meus próprios olhos…[n][w][e]
+[s][f 5 14]Entendi! Finalmente serei capaz de ver[n]suas habilidades com meus próprios olhos…[n][w][e]
 
 [msg MSG_007_0_6 [Yusuke]]
 [s][f 5 14]Talvez eu devesse comprar um presente para mim.[n]Dizem que a primeira impressão[n]é o que conta.[n][w][e]

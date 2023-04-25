@@ -21,7 +21,7 @@
 [s][f 5 14]Por enquanto ele não é capaz de falar[n]sobre isso.[n][w][e]
 
 [sel SEL_007_0_0 top]
-[s][f 5 14]Eu vejo.[e]
+[s][f 5 14]Entendi.[e]
 [s]Por que não?[e]
 
 [msg MSG_008_0_0 [Haru]]

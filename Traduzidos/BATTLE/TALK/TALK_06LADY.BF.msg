@@ -458,7 +458,7 @@
 [s]Essa é a sua resposta, sim? Hum,[n]acho que pode ser interpretado[n]dos dois lados.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_08_R_14]
-[s]...Eu vejo. Claro, os brutos como[n]você não mudam sua atitude[n]com base no interlocutor.[n][w][e]
+[s]...Entendo. Claro, os brutos como[n]você não mudam sua atitude[n]com base no interlocutor.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_08_R_15]
 [s]Tudo o que fiz foi fazer uma pergunta. Isso te[n]deixou com raiva de alguma forma?[n][w][e]
@@ -854,7 +854,7 @@
 [s]Você está usando palavras grandes[n]para soar mais inteligente?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_07_R_13]
-[s]Eu vejo. Talvez realmente exista um vínculo entre[n]nós, mas você prefere um final amargo para esta[n]história.[n][w][e]
+[s]Entendi. Talvez realmente exista um vínculo entre[n]nós, mas você prefere um final amargo para esta[n]história.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_07_R_14]
 [s]Os humanos podem ser tolos,[n]mas esse comportamento é[n]mais condizente com um animal.[n][w][e]
@@ -928,7 +928,7 @@
 
 [sel TalkSel_GUY_CHAT_SQ_09 top]
 [s]Eu nunca tinha pensado nisso.[e]
-[s]Eu vejo.[e]
+[s]Entendi.[e]
 [s]O que você quer dizer?[e]
 
 [msg TalkMsg_GUY_CHAT_SQ_09_R]
@@ -1049,7 +1049,7 @@
 [s]Hum. Você parece estar[n]refletindo sobre suas ações...[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_11_R_2]
-[s]Eu vejo. Obviamente, um ladrão comum não[n]pensaria nisso a priori.[n][w][e]
+[s]Entendi. Obviamente, um ladrão comum não[n]pensaria nisso a priori.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_11_R_3]
 [s]Já era hora de você perceber.[n][w][e]

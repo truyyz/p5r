@@ -3,7 +3,7 @@
 [s][vp 8 0 0 0 4 0]Você encontra tudo[n]que precisa na internet, né...?[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Morador de rua]]
-[s][vp 8 0 0 0 4 0]Ou você está querendo ir ainda mais longe?[n]Eu vejo isso em seus olhos.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 4 0]Ou você está querendo ir ainda mais longe?[n]Entendi isso em seus olhos.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 4 0]...Quem te enviou?[n][f 1 3 65535][w][e]
 
 [sel SEL_002_0_0 top]

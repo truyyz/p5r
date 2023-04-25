@@ -1,12 +1,12 @@
 [msg MSG_BTLSTART_000_000 [Caroline]]
-[s][vp 8 0 2 1006 1 245]Vamos... vamos, Prisioneiro![n][f 1 3 65535][w][e]
+[s][vp 8 0 2 1006 1 245]Agora... vamos começar, Prisioneiro![n][f 1 3 65535][w][e]
 
 [msg MSG_BTLSTART_010_000 [Justine]]
 [s][vp 8 0 2 1007 1 244]Não se segure.[n][f 1 3 65535][w][e]
 [s][vp 8 0 2 1008 1 244]Embora logo fique claro para você que[n]você simplesmente não tem tempo para[n]considerar essa opção.[n][f 1 3 65535][w][e]
 
 [msg MSG_BTLSTART_020_000 [Caroline]]
-[s][vp 8 0 2 1009 1 245]Olhe! Aqui vamos nós![n][f 1 3 65535][w][e]
+[s][vp 8 0 2 1009 1 245]Se prepare! Aqui vamos nós![n][f 1 3 65535][w][e]
 
 [msg MSG_BTLSTART_030_000 [Justine]]
 [s]Boneco[n][f 1 3 65535][w][e]

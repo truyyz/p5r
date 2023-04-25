@@ -8,7 +8,7 @@
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Aqueles que sorrateiramente[n]para roubar o Tesouro[n]com estilo: é isso que nos tornamos![n][f 1 3 65535][w][e]
 
 [sel SEL_003_0_0 top]
-[s]Eu vejo.[e]
+[s]Entendi.[e]
 [s]Nada mal.[e]
 
 [msg MSG_007_0_0 [Ryuji]]
