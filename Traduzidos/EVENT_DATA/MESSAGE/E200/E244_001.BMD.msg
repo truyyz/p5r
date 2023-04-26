@@ -117,8 +117,8 @@
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 38 65535 0](むせる)[n][f 1 3 65535][w][e]
 
 [msg MSG_050_0_0 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 39 65535 0]De qualquer forma, agora teremos que[n]esperar que esse repórter[n]responda ao nosso e-mail.[n][f 1 3 65535][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 39 65535 0]De qualquer forma, agora teremos que[n]esperar que essa repórter[n]responda ao nosso e-mail.[n][f 1 3 65535][w][e]
 
 [msg MSG_052_0_0 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 41 65535 0]Avise-nos assim que[n]respondermos! Ok, [f 4 2]?[n][f 1 3 65535][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 41 65535 0]Avise-nos assim que[n]recebermos uma resposta! Ok, [f 4 2]?[n][f 1 3 65535][w][e]
 

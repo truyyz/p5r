@@ -4435,7 +4435,7 @@
 
 [msg MSG_1121_0_0 [Yoshida]]
 [s][bup 0 112 3 0 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Me desculpe, eu fui covarde logo depois que eu[n]dei a você aquele sermão presunçoso...[n][f 1 3 65535][w][e]
-[s][bup 0 112 0 0 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas eu sou uma pessoa bonita[n]teimosa.[n][f 1 3 65535][w][e]
+[s][bup 0 112 0 0 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas eu mesmo sou um indivíduo[n]bastante teimoso.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Pelo menos espero que o episódio de hoje[n]tenha sido um bom exemplo do que[n]não se deve fazer, mas...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...O que você acha disso? Você aprendeu[n]algo útil?[n][f 1 3 65535][w][e]
 

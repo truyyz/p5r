@@ -45,7 +45,7 @@
 [s][vp 1 0 0 0 0 0]Maruki ensinou você a[n]treinar [clr 1]Wak [clr 27]![n][f 1 3 65535][w][e]
 
 [msg CMM_EVENT_UNLOCK]
-[s][vp 1 0 0 0 0 0]Agora você pode fundir [clr 1]Vohu Manah[clr 27],[n]a Pessoa mais poderosa[n]da Arcana: o Conselheiro.[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Agora você pode fundir [clr 1]Vohu Manah[clr 27],[n]Uma Persona mais poderosa[n]da Arcana: o Conselheiro.[n][f 1 3 65535][w][e]
 
 [msg CMM_EVENT_REVERSE]
 [s][vp 1 0 0 0 0 0]Se você vê-lo, isso é um bug! O[n]Confidente da Arcana: o[n]Conselheiro é duvidoso. Você não receberá[n]os benefícios até que tenha[n]limpado seu nome.[n][f 1 3 65535][w][e]

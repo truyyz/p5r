@@ -24,7 +24,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Em suma, eles se dão todo o ar,[n]mas no final duvido que[n]estão realmente à altura.[n][f 1 3 65535][w][e]
 
 [sel SEL_006_0_0 top]
-[s]Até...?[e]
+[s]À altura...?[e]
 [s]E seu senso de justiça?[e]
 
 [msg MSG_007_0_0 [Ohya]]

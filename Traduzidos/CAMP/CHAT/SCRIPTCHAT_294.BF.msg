@@ -9,7 +9,7 @@
 [s]É imperdoável.[e]
 
 [msg MSG_003_0_0 [Ann]]
-[s][f 5 14]Esse repórter também estava[n]investigando Madarame.[n][w][e]
+[s][f 5 14]Essa repórter também estava[n]investigando Madarame.[n][w][e]
 [s][f 5 14]Pode ser verdade.[n][w][e]
 
 [msg MSG_004_0_0 [Ryuji]]
@@ -17,7 +17,7 @@
 [s][f 5 14]Ninguém está falando sobre isso... Aposto[n]que foi tudo encoberto.[n][w][e]
 
 [msg MSG_005_0_0 [Ann]]
-[s][f 5 14]Eu me pergunto se Kitagawa-kun[n]ouviu alguma voz...[n][w][e]
+[s][f 5 14]Eu me pergunto se Kitagawa-kun[n]ouviu algo sobre isso...[n][w][e]
 [s][f 5 14]Seria ótimo se você pudesse nos ajudar.[n][w][e]
 
 [msg MSG_006_0_0 [Ryuji]]

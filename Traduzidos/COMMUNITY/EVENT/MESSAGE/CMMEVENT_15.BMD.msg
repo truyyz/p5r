@@ -44,7 +44,7 @@
 [s][vp 1 0 0 0 0 0]Agora você pode pedir a Ohya para escrever[n]para você um [clr 1]Legendary Scoop[clr 27]![n][f 1 3 65535][w][e]
 
 [msg CMM_EVENT_UNLOCK]
-[s][vp 1 0 0 0 0 0]Agora você pode fundir [clr 1]Belzebu[clr 27],[n]a Pessoa mais poderosa[n]da Arcana: o Diabo.[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Agora você pode fundir [clr 1]Belzebu[clr 27],[n]Uma Persona mais poderosa[n]da Arcana: o Diabo.[n][f 1 3 65535][w][e]
 
 [msg CMM_EVENT_REVERSE]
 [s][vp 1 0 0 0 0 0]Seu confidente demoníaco está em estado de[n]dúvida. Você não receberá seus benefícios até[n]limpar seu nome.[n][f 1 3 65535][w][e]
