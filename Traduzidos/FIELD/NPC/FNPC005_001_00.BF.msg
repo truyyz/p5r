@@ -2289,7 +2289,7 @@
 
 [msg MSG_NOMIYA_030_020_000 [Saquê Sommelier]]
 [s][f 4 23 1 40 3 10 0 10][vp 8 2 1 0 40 0]Bem, ele apenas derramou o feijão, eh? Aposto que[n]ele vai se sentir melhor agora, sem aquele peso[n]sobre ele.[n][w][e]
-[s][vp 8 2 1 0 40 0]Falando em derramar o feijão...[n]*buuurp*! Acho que bebi um pouco demais...[n][w][e]
+[s][vp 8 2 1 0 40 0]Falando em desembuchar...[n]*buuurp*! Acho que bebi um pouco demais...[n][w][e]
 
 [msg MSG_NOMIYA_030_030_000 [Homem com avental]]
 [s][f 4 23 1 41 3 10 0 10][vp 8 2 1 0 41 0]Ei amigo, espere um minuto![n]Use-o para o banheiro![n][w][e]

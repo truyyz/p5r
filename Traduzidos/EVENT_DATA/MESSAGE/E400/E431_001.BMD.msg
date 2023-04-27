@@ -42,7 +42,7 @@
 [s][vp 8 0 0 12 5 0]Senhor![n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Jovem lacaio de Shido]]
-[s][vp 8 0 0 13 6 0]Se ele teve um despertar do coração,[n]ele vai derramar o feijão sobre nós?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 13 6 0]Se ele teve um despertar do coração,[n]ele vai desembuchar sobre nós?[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Lacaio Shido experiente]]
 [s][vp 8 0 0 14 65535 0]Vai estragar tudo![n][f 1 3 65535][w][e]

@@ -67,8 +67,8 @@
 [s][bup 0 217 105 65535 0][f 4 10 65535 0 0][vp 8 0 0 28 65535 0]Como pode um lixo humano inútil[n]ser mais especial do que eu?!?[n][f 1 3 65535][w][e]
 
 [sel SEL_019_0_0 top]
-[s]Olhe dentro.[e]
-[s]Não é assim.[e]
+[s]Olhe pra si mesmo.[e]
+[s]Este não é o caso.[e]
 [s]Você deve parar.[e]
 
 [msg MSG_020_0_0 [(SE)明智 吾郎]]

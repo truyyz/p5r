@@ -94,7 +94,7 @@
 [s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 2 0 7047 65535 0]Eles ainda falam merda[n]assim... O que eles fizeram com eles,[n]lavagem cerebral?[n][f 1 3 65535][w][e]
 [s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Quando penso em como ele nos explorou... Merda![n]Isso  realmente me irrita.  [n][f 1 3 65535][w][e]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Bom... vai dar tudo certo.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Em breve ele vai derramar o feijão e todos[n]vão entender que estamos certos[n]nós. Espere e veja.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Em breve ele vai desembuchar e todos[n]vão entender que estamos certos[n]nós. Espere e veja.[n][f 1 3 65535][w][e]
 [s][vp 8 2 0 0 65535 0][f 4 10 65535 0 0]Eu só tenho que cerrar os dentes[n]até lá...[n][f 1 3 65535][w][e]
 
 [msg MSG_028_0_0 [Empresária veterana]]
@@ -165,7 +165,7 @@
 
 [msg MSG_043_0_0 [Ann]]
 [s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 6197 65535 0]Eles ainda confiam em Shido?[n]A mídia está sempre do lado dele?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Quando Shido derramar o feijão,[n]as coisas vão mudar.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Quando Shido desembuchar,[n]as coisas vão mudar.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Quando todos souberem a verdade,[n]eles certamente abrirão os olhos![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Droga, Shido... Quanto tempo[n]temos que esperar?[n][f 1 3 65535][w][e]
 
