@@ -44,7 +44,7 @@
 [s][vp 1 0 0 0 0 0]Takemi agora vai vender[n][clr 1]remédios para RCP[clr 27] para você![n][f 1 3 65535][w][e]
 
 [msg CMM_EVENT_UNLOCK]
-[s][vp 1 0 0 0 0 0]Agora você pode fundir [clr 1]Alice[clr 27],[n]Uma Persona mais poderosa[n]da Arcana: a Morte.[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Agora você pode fundir [clr 1]Alice[clr 27],[n]A Persona mais poderosa[n]da Arcana: a Morte.[n][f 1 3 65535][w][e]
 
 [msg CMM_EVENT_REVERSE]
 [s][vp 1 0 0 0 0 0]Seu confidente da morte está em estado de dúvida.[n]Você não receberá seus benefícios até limpar seu[n]nome.[n][f 1 3 65535][w][e]

@@ -47,7 +47,7 @@
 [s][vp 1 0 0 0 0 0]Agora você ganhará mais XP[n]do Surto Arcano ao fundir[n]Personas Arcanas: A Imperatriz![n][f 1 3 65535][w][e]
 
 [msg CMM_EVENT_UNLOCK]
-[s][vp 1 0 0 0 0 0]Agora você pode fundir [clr 1]A Prostituta[clr 27],[n]Uma Persona mais poderosa[n]da Arcana: A Imperatriz.[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Agora você pode fundir [clr 1]A Prostituta[clr 27],[n]A Persona mais poderosa[n]da Arcana: A Imperatriz.[n][f 1 3 65535][w][e]
 
 [msg CMM_EVENT_REVERSE]
 [s][vp 1 0 0 0 0 0]Sua Empress Confidant está em um estado de[n]dúvida. Você não receberá seus benefícios até[n]limpar seu nome.[n][f 1 3 65535][w][e]
