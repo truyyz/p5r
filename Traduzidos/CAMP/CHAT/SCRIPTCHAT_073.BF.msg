@@ -43,7 +43,7 @@
 [s][f 5 14]É alguém que nos odeia[n]e sempre consegue estar[n]um passo à nossa frente...[n][w][e]
 
 [msg MSG_014_0_0 [Futaba]]
-[s][f 5 14]Já. Não consigo pensar em[n]um que se encaixe[n]nessa descrição.[n][w][e]
+[s][f 5 14]Concordo. Não consigo pensar em[n]um que se encaixe[n]nessa descrição.[n][w][e]
 
 [msg MSG_015_0_0 [Makoto]]
 [s][f 5 14]Temos apenas uma chance[n]de virar o jogo.[n][w][e]

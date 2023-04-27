@@ -35,7 +35,7 @@
 [s][f 5 14]Eu não entendi muito bem, mas agora[n]só podemos esperar que[n]o coração dela desperte, certo?[n][w][e]
 
 [msg MSG_012_0_0 [Futaba]]
-[s][f 5 14]Já.[n][w][e]
+[s][f 5 14]Concordo.[n][w][e]
 
 [msg MSG_013_0_0 [Haru]]
 [s][f 5 14][f 5 15]Também estamos esperando para ver o[n]resultado das eleições.[n][w][e]

@@ -496,7 +496,7 @@
 [s][vp 8 2 1 0 31 0]Especialmente hoje em dia,[n]dados os altos[n]custos de segurança...[n][w][e]
 
 [msg MSG_RISUTORAMAN_003_1_0 [Funcionário sênior]]
-[s][f 4 23 1 32 3 10 0 0][vp 8 2 1 0 32 0]Já. O ciberterrorismo está[n]aumentando, como mostra o[n]incidente recente.[n][w][e]
+[s][f 4 23 1 32 3 10 0 0][vp 8 2 1 0 32 0]Concordo. O ciberterrorismo está[n]aumentando, como mostra o[n]incidente recente.[n][w][e]
 [s][vp 8 2 1 0 32 0]Vazamentos de informações podem[n]ser devastadores. As empresas[n]devem se proteger.[n][w][e]
 
 [msg MSG_RISUTORAMAN_004_0_0 [Empregado honesto]]
@@ -1315,7 +1315,7 @@
 [s][vp 8 2 1 0 39 0]Não teria feito[n]qualquer diferença de qualquer maneira![n][w][e]
 
 [msg MSG_DAIGAKUZU_020_2_0 [Estudante universitário reservado]]
-[s][f 4 23 1 40 3 10 0 10][vp 8 2 1 0 40 0]Já. Estaria mentindo se dissesse[n]que na minha opinião o voto[n]tem algum valor.[n][w][e]
+[s][f 4 23 1 40 3 10 0 10][vp 8 2 1 0 40 0]Concordo. Estaria mentindo se dissesse[n]que na minha opinião o voto[n]tem algum valor.[n][w][e]
 
 [msg MSG_DAIGAKUZU_021_0_0 [Estudante universitário reservado]]
 [s][f 4 23 1 40 3 10 0 10][vp 8 2 1 0 40 0]Ei, você visitou sua cidade natal[n]na véspera de Ano Novo?[n][w][e]

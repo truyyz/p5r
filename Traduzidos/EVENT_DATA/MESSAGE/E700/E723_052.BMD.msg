@@ -114,7 +114,7 @@
 [s][bup 0 216 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bem, você está certo. Eu entendo[n]por que você diz isso.[n][f 1 3 65535][w][e]
 
 [msg MSG_027_0_0 [Maruki]]
-[s][bup 0 216 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 35 5 1014]Já. Fico feliz em ouvir você[n]dizer isso.[n][f 1 3 65535][w][e]
+[s][bup 0 216 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 35 5 1014]Concordo. Fico feliz em ouvir você[n]dizer isso.[n][f 1 3 65535][w][e]
 
 [msg MSG_028_0_0 [Maruki]]
 [s][bup 0 216 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Haha, me perdoe. Talvez eu[n]exagerei[n]o exemplo um pouco demais.[n][f 1 3 65535][w][e]

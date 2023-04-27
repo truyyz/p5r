@@ -32,7 +32,7 @@
 [s][bup 0 2 3 1 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Isso foi sarcasmo?[n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Ryuji]]
-[s][bup 0 2 0 1 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Já. Não pensei nisso antes,[n]mas na verdade nós os conhecemos[n]muito bem.[n][f 1 3 65535][w][e]
+[s][bup 0 2 0 1 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Concordo. Não pensei nisso antes,[n]mas na verdade nós os conhecemos[n]muito bem.[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Yusuke]]
 [s][bup 0 5 0 1 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Hum? Qual é o problema?[n][f 1 3 65535][w][e]

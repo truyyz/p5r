@@ -7472,7 +7472,7 @@
 [s][vp 1 0 0 2589 0 0]Como você pode não ficar enjoado,[n]brincando com essas coisas em movimento?[n][f 1 6 65535][e]
 
 [msg D_CAR__PC02_mes590]
-[s][vp 1 0 0 2590 0 0]Já. Hoje em dia parece que[n]tudo gira em torno de nós.[n][f 1 6 65535][e]
+[s][vp 1 0 0 2590 0 0]Concordo. Hoje em dia parece que[n]tudo gira em torno de nós.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC02_mes591]
 [s][vp 1 0 0 2591 0 0]Relaxe.[n]Alguém vai transmitir isso,[n]mais cedo ou mais tarde.[n][f 1 6 65535][e]
@@ -8588,7 +8588,7 @@
 [s][vp 1 0 0 4613 0 0]Eu queria saber a mesma coisa...[n]Como funciona este veículo?[n][f 1 6 65535][e]
 
 [msg D_CAR__PC04_mes614]
-[s][vp 1 0 0 4614 0 0]Já. Eu não podia acreditar...[n]Você tem sorte.[n][f 1 6 65535][e]
+[s][vp 1 0 0 4614 0 0]Concordo. Eu não podia acreditar...[n]Você tem sorte.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC04_mes615]
 [s][vp 1 0 0 4615 0 0]Uh... Queen? Aquele olhar...[n]um pouco assustador.[n][f 1 6 65535][e]
@@ -8636,7 +8636,7 @@
 [s][vp 1 0 0 4629 0 0]Já estou acostumado,[n]mas é realmente incrível[n]que você pode dirigir aqui, hein?[n][f 1 6 65535][e]
 
 [msg D_CAR__PC04_mes630]
-[s][vp 1 0 0 4630 0 0]Já. Não existem muitos[n]jogos de corrida com pistas como esta.[n][f 1 6 65535][e]
+[s][vp 1 0 0 4630 0 0]Concordo. Não existem muitos[n]jogos de corrida com pistas como esta.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC04_mes631]
 [s][vp 1 0 0 4631 0 0]Oracle, seus óculos[n]também têm visão noturna?[n][f 1 6 65535][e]
@@ -10199,7 +10199,7 @@
 [s][vp 1 0 0 7573 0 0]É uma área sem uma forma bem definida.[n]Bastante peculiar.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC07_mes574]
-[s][vp 1 0 0 7574 0 0]Já. Devemos respeitar os limites[n]de nossas esferas pessoais![n][f 1 6 65535][e]
+[s][vp 1 0 0 7574 0 0]Concordo. Devemos respeitar os limites[n]de nossas esferas pessoais![n][f 1 6 65535][e]
 
 [msg D_CAR__PC07_mes575]
 [s][vp 1 0 0 7575 0 0]De vez em quando há uma sacudida,[n]mas torna tudo ainda mais emocionante![n][f 1 6 65535][e]
@@ -10535,7 +10535,7 @@
 [s][vp 1 0 0 7685 0 0]Eu também! Eu gostaria de saber como[n]é ser um veículo.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC07_mes686]
-[s][vp 1 0 0 7686 0 0]Já. Quem sabe até agora o quanto já exploramos.[n][f 1 6 65535][e]
+[s][vp 1 0 0 7686 0 0]Concordo. Quem sabe até agora o quanto já exploramos.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC07_mes687]
 [s][vp 1 0 0 7687 0 0]Seu método de exploração[n]é semelhante ao do Joker.[n][f 1 6 65535][e]
@@ -11012,7 +11012,7 @@
 [s][vp 1 0 0 8644 0 0]Talvez se usássemos um[n]tradutor de voz, poderíamos entender[n]o que eles estão dizendo.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC08_mes645]
-[s][vp 1 0 0 8645 0 0]Já. De todos nós, Queen é[n]mais pesado em batalha.[n][f 1 6 65535][e]
+[s][vp 1 0 0 8645 0 0]Concordo. De todos nós, Queen é[n]mais pesado em batalha.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC08_mes646]
 [s][vp 1 0 0 8646 0 0]Talvez eles comam humanos.[n]Cara, que[n]medo...[n][f 1 6 65535][e]
@@ -11072,7 +11072,7 @@
 [s][vp 1 0 0 8664 0 0]Sim, eu quero descobrir[n]o que está escondido lá embaixo![n][f 1 6 65535][e]
 
 [msg D_CAR__PC08_mes665]
-[s][vp 1 0 0 8665 0 0]Já. Eu nunca sei o que fazer quando[n]jogo aqueles jogos sandbox[n]ou jogos de mundo aberto.[n][f 1 6 65535][e]
+[s][vp 1 0 0 8665 0 0]Concordo. Eu nunca sei o que fazer quando[n]jogo aqueles jogos sandbox[n]ou jogos de mundo aberto.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC08_mes666]
 [s][vp 1 0 0 8666 0 0]Ombros tremendo, hein?[n]Acho que acontece[n]frequentemente com a Panther também.[n][f 1 6 65535][e]
@@ -11198,7 +11198,7 @@
 [s][vp 1 0 0 8706 0 0]Eu também gostaria de dirigir.[n]Quem sabe se ele deixaria.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC08_mes707]
-[s][vp 1 0 0 8707 0 0]Já. Eu também quero viajar na[n]vida real, nunca parando.[n][f 1 6 65535][e]
+[s][vp 1 0 0 8707 0 0]Concordo. Eu também quero viajar na[n]vida real, nunca parando.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC08_mes708]
 [s][vp 1 0 0 8708 0 0]Sim Sim! Somos todos muito fortes![n][f 1 6 65535][e]
@@ -12722,7 +12722,7 @@
 [s][vp 1 0 0 15606 0 0]Bem, o desejo humano conhece limites. Acho que é[n]isso que torna a vida interessante.[n][f 1 6 65535][e]
 
 [msg D_CAR_PC05_mes10607]
-[s][vp 1 0 0 15607 0 0]Já. Eu tenho que ultrapassar meus limites,[n]para aprimorar minhas[n]habilidades artísticas.[n][f 1 6 65535][e]
+[s][vp 1 0 0 15607 0 0]Concordo. Eu tenho que ultrapassar meus limites,[n]para aprimorar minhas[n]habilidades artísticas.[n][f 1 6 65535][e]
 
 [msg D_CAR_PC05_mes10608]
 [s][vp 1 0 0 15608 0 0]O design é interessante.[n]Talvez eu possa identificar a fonte,[n]desenhando a máscara primeiro.[n][f 1 6 65535][e]
@@ -13040,7 +13040,7 @@
 [s][vp 1 0 0 16594 0 0]Seja você um estudante ou um atleta,[n]você deve cuidar de sua saúde.[n]Cubra-se bem à noite.[n][f 1 6 65535][e]
 
 [msg D_CAR_PC06_mes10595]
-[s][vp 1 0 0 16595 0 0]Já. Sempre durmo bem após[n]explorar o Metaverso.[n][f 1 6 65535][e]
+[s][vp 1 0 0 16595 0 0]Concordo. Sempre durmo bem após[n]explorar o Metaverso.[n][f 1 6 65535][e]
 
 [msg D_CAR_PC06_mes10596]
 [s][vp 1 0 0 16596 0 0]E as artes marciais? Para isso[n]você tem que usar todos os músculos[n]do seu corpo.[n][f 1 6 65535][e]
@@ -13763,7 +13763,7 @@
 [s][vp 1 0 0 18613 0 0]A sério? Bem, muitas bebidas[n]são boas mesmo sem[n]malhar...[n][f 1 6 65535][e]
 
 [msg D_CAR_PC08_mes10614]
-[s][vp 1 0 0 18614 0 0]Já. Graças a Deus![n]Caso contrário, eu nunca[n]poderia acompanhá-lo.[n][f 1 6 65535][e]
+[s][vp 1 0 0 18614 0 0]Concordo. Graças a Deus![n]Caso contrário, eu nunca[n]poderia acompanhá-lo.[n][f 1 6 65535][e]
 
 [msg D_CAR_PC08_mes10615]
 [s][vp 1 0 0 18615 0 0]Eu gosto do seu estilo, Violet![n]Vamos, Mona, mais rápido! Vá em frente![n][f 1 6 65535][e]

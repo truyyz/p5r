@@ -8,7 +8,7 @@
 [s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Não abre?[n][w][e]
 
 [msg SCN_LOCK_04_mes03 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Já. Significa que as pessoas[n]ainda não nos aceitam o suficiente.[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Concordo. Significa que as pessoas[n]ainda não nos aceitam o suficiente.[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Aconteceu assim com os outros também.[n][w][e]
 
 [msg SCN_LOCK_04_mes04 [Makoto]]

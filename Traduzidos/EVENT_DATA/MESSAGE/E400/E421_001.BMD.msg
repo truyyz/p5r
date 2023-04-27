@@ -17,7 +17,7 @@
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]Mas eles estão fazendo muito barulho...[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Ann]]
-[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Já. Eles deveriam ir[n]para casa dormir...[n][f 1 3 65535][w][e]
+[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Concordo. Eles deveriam ir[n]para casa dormir...[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [(SE)野次馬の声]]
 [s][vp 8 0 0 0 65535 0](怒号『私たちどうなるの?』『獅童さーん!』)[n][f 1 3 65535][w][e]

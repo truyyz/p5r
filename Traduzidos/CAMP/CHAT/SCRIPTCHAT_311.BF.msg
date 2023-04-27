@@ -16,7 +16,7 @@
 [s][f 5 14]Você é o líder dos[n]Phantom Thieves, certo?[n][w][e]
 
 [sel SEL_004_0_0 top]
-[s][f 5 14]Você tem a pessoa errada.[e]
+[s][f 5 14]Você pegou a pessoa errada.[e]
 [s]Certo.[e]
 [s]Quem é você, desculpe?[e]
 

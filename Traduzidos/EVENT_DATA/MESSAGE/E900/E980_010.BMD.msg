@@ -11,7 +11,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Acho que é o[n]estúdio de gravação de uma rede de TV.[n]Mas por que essas cores...?[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Ann]]
-[s][bup 0 4 100 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Já. Parece o[n]estúdio de gravação dentro[n]de uma rede de TV.[n][f 1 3 65535][w][e]
+[s][bup 0 4 100 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Concordo. Parece o[n]estúdio de gravação dentro[n]de uma rede de TV.[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Ann]]
 [s][bup 0 4 100 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Eu penso que sim. Mas por que[n]todos são coloridos assim...?[n][f 1 3 65535][w][e]

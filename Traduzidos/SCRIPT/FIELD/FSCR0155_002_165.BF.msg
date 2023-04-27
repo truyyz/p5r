@@ -46,7 +46,7 @@
 [s][bup 0 4 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 18 0 0]Mas... eu achava normal[n]uma criança querer passar[n]tempo com os pais...[n][w][e]
 
 [msg D04_03_e296_301_mes10 [Ryuji]]
-[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 19 0 0]Já. Parece que Futaba[n]era uma criança bastante solitária...[n][w][e]
+[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 19 0 0]Concordo. Parece que Futaba[n]era uma criança bastante solitária...[n][w][e]
 
 [msg D04_03_e296_301_mes11 [Yusuke]]
 [s][bup 0 5 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 20 0 0]Então, todos esses episódios[n]se somaram ao longo do tempo, levando[n]a mãe ao suicídio?[n][w][e]

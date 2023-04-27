@@ -72,7 +72,7 @@
 [s]Eles são deliciosos, no entanto.[e]
 
 [msg MSG_023_0_0 [Sojiro]]
-[s][bup 0 103 5 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 6 5 1003]Já. Apesar de tudo, passei[n]muito mais tempo neste café do que[n]tentando falar com Futaba...[n][f 1 3 65535][w][e]
+[s][bup 0 103 5 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 6 5 1003]Concordo. Apesar de tudo, passei[n]muito mais tempo neste café do que[n]tentando falar com Futaba...[n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [Sojiro]]
 [s][bup 0 103 5 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas, quando penso nisso... Passei[n]muito mais tempo neste café do que[n]tentando falar com Futaba...[n][f 1 3 65535][w][e]

@@ -3,7 +3,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]A propósito, você sabia[n]que[n]a votação do Phan-Site já começou?[n][f 1 3 65535][w][e]
 
 [sel SEL_001_0_0 top]
-[s]Já.[e]
+[s]Concordo.[e]
 [s]Eu não vi.[e]
 [s]Phan-Site?[e]
 
@@ -32,7 +32,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Não é você?[n][f 1 3 65535][w][e]
 
 [sel SEL_008_0_0 top]
-[s]Já...[e]
+[s]Concordo...[e]
 [s]Vamos dormir.[e]
 
 [msg MSG_009_0_0 [Mishima]]

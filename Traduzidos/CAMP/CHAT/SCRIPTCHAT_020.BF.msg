@@ -27,7 +27,7 @@
 [s]Melhor do que eu pensava.[e]
 
 [msg MSG_013_0_0 [Ryuji]]
-[s][f 5 14]Já.[n][w][e]
+[s][f 5 14]Concordo.[n][w][e]
 
 [msg MSG_014_0_0 [Ann]]
 [s][f 5 14]Se você colocar dessa forma,[n]poderia ter sido pior.[n][w][e]

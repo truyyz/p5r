@@ -140,7 +140,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Umpf. O desejo humano[n]não tem limites, não é?[n][f 1 3 65535][w][e]
 
 [msg MSG_039_0_0 [Justine]]
-[s][bup 0 101 1 0 0][f 4 10 65535 0 0][vp 8 2 0 12048 65535 0]Já. Não é de admirar que seus[n]corações possam ser corrompidos, vivendo em[n]cidades transbordando de desejo.[n][f 1 3 65535][w][e]
+[s][bup 0 101 1 0 0][f 4 10 65535 0 0][vp 8 2 0 12048 65535 0]Concordo. Não é de admirar que seus[n]corações possam ser corrompidos, vivendo em[n]cidades transbordando de desejo.[n][f 1 3 65535][w][e]
 
 [msg MSG_040_0_0 [Caroline]]
 [s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bem, nós descobrimos os segredos[n]da Torre de Babel, então[n]a tarefa está cumprida.[n][f 1 3 65535][w][e]

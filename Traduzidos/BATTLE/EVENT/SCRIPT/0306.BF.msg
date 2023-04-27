@@ -327,7 +327,7 @@
 [s][vp 8 0 2 1083 1 218]É inútil! Você não escapará[n]dos seus pecados![n][f 1 11 65535][w][e]
 
 [msg MSG_BTL_EX_FUTABA_PRE_WR_3 [Wakaba Isshiki cognitivo]]
-[s][vp 8 0 2 1103 1 218]Visualizar!?! É como eu digo![n]Futaba, você vai ser feliz só[n]morrendo aqui comigo![n][f 1 11 65535][w][e]
+[s][vp 8 0 2 1103 1 218]Viu!?! É como eu digo![n]Futaba, você vai ser feliz só[n]morrendo aqui comigo![n][f 1 11 65535][w][e]
 
 [msg MSG_BTL_EX_FUTABA_PRE_WR_4 [Wakaba Isshiki cognitivo]]
 [s][vp 8 0 2 1119 1 218]Crianças que desafiam seus pais...[n]devem ser punidas![n][f 1 11 65535][w][e]

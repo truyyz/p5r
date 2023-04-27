@@ -21,7 +21,7 @@
 [s][f 5 14]Temos que confiar nela,[n]não temos outra escolha.[n][w][e]
 
 [sel SEL_007_0_0 top]
-[s][f 5 14]Já.[e]
+[s][f 5 14]Concordo.[e]
 [s]Não podemos fazer mais nada...[e]
 
 [msg MSG_008_0_0 [Ann]]

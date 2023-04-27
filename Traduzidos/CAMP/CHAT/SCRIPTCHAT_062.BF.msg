@@ -31,7 +31,7 @@
 [s][f 5 14]Eu não vou me tornar um assassino.[n][w][e]
 
 [msg MSG_CHAT_62_10 [Ryuji]]
-[s][f 5 14]Já...[n][w][e]
+[s][f 5 14]Concordo...[n][w][e]
 
 [msg MSG_CHAT_62_11 [Ryuji]]
 [s][f 5 14]Ao fazer isso, não consertaremos[n]nada, mas talvez[n]matar seja demais...[n][w][e]

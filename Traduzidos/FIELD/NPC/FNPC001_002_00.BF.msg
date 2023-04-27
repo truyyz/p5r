@@ -445,7 +445,7 @@
 [s][f 4 23 1 21 3 10 0 0][vp 8 2 1 0 21 0]Estou feliz que você[n]finalmente descobriu.[n][w][e]
 
 [msg MSG_TOKAISOMARU_010_2_0 [Menino do campo]]
-[s][f 4 23 1 22 3 10 0 0][vp 8 2 1 0 22 0]Já. Para mostrar que sinto muito, vou comprar[n]algo para você na loja de beleza da cidade.[n][w][e]
+[s][f 4 23 1 22 3 10 0 0][vp 8 2 1 0 22 0]Concordo. Para mostrar que sinto muito, vou comprar[n]algo para você na loja de beleza da cidade.[n][w][e]
 
 [msg MSG_TOKAISOMARU_010_3_0 [Mulher encantadora]]
 [s][f 4 23 1 21 3 10 0 0][vp 8 2 1 0 21 0]Eu pego tudo de volta. Você ainda não[n]entendeu porra nenhuma![n][w][e]

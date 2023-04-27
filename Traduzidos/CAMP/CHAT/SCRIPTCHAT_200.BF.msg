@@ -8,7 +8,7 @@
 [s]Não há mais vítimas, no entanto.[e]
 
 [msg MSG_002_0_0 [Ann]]
-[s][f 5 14]Já...[n][w][e]
+[s][f 5 14]Concordo...[n][w][e]
 [s][f 5 14]Não é exatamente a conclusão mais decorosa,[n]eu acho.[n][w][e]
 
 [msg MSG_003_0_0 [Ann]]

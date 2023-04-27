@@ -205,7 +205,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 69 65535 0]Não é uma má ideia...[n]vindo de você, Ryuji.[n][f 1 3 65535][w][e]
 
 [msg MSG_059_0_0 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 70 65535 0]Já. Se pudéssemos construir uma[n]reputação...poderíamos inspirar[n]muito mais pessoas.[n][f 1 3 65535][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 70 65535 0]Concordo. Se pudéssemos construir uma[n]reputação...poderíamos inspirar[n]muito mais pessoas.[n][f 1 3 65535][w][e]
 
 [msg MSG_064_0_0 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 77 65535 0]Mesmo que eu não esteja muito convencido[n]da ideia de escolher uma lente[n]só assim, do nada.[n][f 1 3 65535][w][e]

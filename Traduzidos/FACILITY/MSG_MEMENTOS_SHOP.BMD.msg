@@ -56,7 +56,7 @@
 [s]Você não quer isso?[n][e]
 
 [msg MSG_MMTSHOP_ITEM_CONF_00]
-[s][var 0], direita?[n][e]
+[s][var 0], certo?[n][e]
 
 [msg MSG_MMTSHOP_ITEM_CONF_01]
 [s]Você quer [var 0]?[n][e]

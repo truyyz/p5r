@@ -50,7 +50,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bem, para ser honesto... a escola me deu um breve[n]resumo sobre as circunstâncias de sua mudança.[n][f 1 3 65535][w][e]
 
 [sel SEL_015_0_0 top]
-[s]É água debaixo da ponte.[e]
+[s]Ficou no passado.[e]
 [s]Estou bem agora.[e]
 [s]Tanto para a privacidade.[e]
 

@@ -8,7 +8,7 @@
 [s][f 5 14]Se o objetivo deles é alvejar os Phantom[n]Thieves, eles devem agir agora, dada a[n]nossa reputação.[n][w][e]
 
 [msg MSG_003_0_0 [Ann]]
-[s][f 5 14]Já. Se você colocar dessa forma,[n]isso me faz pensar também.[n][w][e]
+[s][f 5 14]Concordo. Se você colocar dessa forma,[n]isso me faz pensar também.[n][w][e]
 
 [msg MSG_004_0_0 [Ann]]
 [s][f 5 14]Especialmente depois de nos provocar tão[n]teatralmente.[n][w][e]
@@ -20,7 +20,7 @@
 [s][f 5 14]Mas, por enquanto, devemos[n]apreciar o sushi com cuidado.[n]Não há mais nada que possamos fazer.[n][w][e]
 
 [sel SEL_007_0_0 top]
-[s][f 5 14]Já.[e]
+[s][f 5 14]Concordo.[e]
 [s]Há algo errado...[e]
 
 [msg MSG_008_0_0 [Ryuji]]

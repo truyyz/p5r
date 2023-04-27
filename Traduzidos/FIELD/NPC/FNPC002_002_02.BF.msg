@@ -230,7 +230,7 @@
 [s][f 4 23 1 14 3 10 0 0][vp 8 2 1 0 14 0]Oh, o quê?[n]É demais![n][w][e]
 
 [msg MSG_NEWSTUDENT_F01_015_0_6 [Calouro motivado]]
-[s][f 4 23 1 13 3 10 0 0][vp 8 2 1 0 13 0]Já. A escola não pode fazer isso com ela só[n]porque ela não foi bem na competição![n][w][e]
+[s][f 4 23 1 13 3 10 0 0][vp 8 2 1 0 13 0]Concordo. A escola não pode fazer isso com ela só[n]porque ela não foi bem na competição![n][w][e]
 
 [msg MSG_NEWSTUDENT_F01_016_0 [Calouro animada]]
 [s][f 4 23 1 14 3 10 0 0][vp 8 2 1 0 14 0]Ainda não consigo acreditar...[n]nunca mais vou tirar a[n]mente da cara dele.[n][w][e]

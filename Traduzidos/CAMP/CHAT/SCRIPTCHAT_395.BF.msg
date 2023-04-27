@@ -8,7 +8,7 @@
 [s][f 5 14]Sim, mas também é o tempo[n]que nos resta[n]como Phantom Thieves.[n][w][e]
 
 [msg MSG_003_0_0 [Ann]]
-[s][f 5 14]Já.[n][w][e]
+[s][f 5 14]Concordo.[n][w][e]
 
 [msg MSG_004_0_0 [Yusuke]]
 [s][f 5 14]Agora que você mencionou, é um sentimento[n]muito estranho.[n][w][e]

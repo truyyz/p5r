@@ -47,7 +47,7 @@
 [s][bup 0 6 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 0 65535 0]Deve ter sido difícil dizer a si mesmo que você[n]odeia sua irmã.[n][w][e]
 
 [msg MSG_QST_084_12 [Sombra de Minamoto]]
-[s][vp 8 2 1 0 65535 0]Já...[n][w][e]
+[s][vp 8 2 1 0 65535 0]Concordo...[n][w][e]
 [s]Não é algo que eu disse a mim mesmo.[n][w][e]
 
 [msg MSG_QST_084_13 [Makoto]]

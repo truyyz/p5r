@@ -33,7 +33,7 @@
 [s][f 4 23 1 803 3 10 0 0][vp 8 2 1 0 803 0]Ah, aquele que escolheu como dono? Seu rosto[n]inchado. História ruim.[n][w][e]
 
 [msg MSG_141_307_09 [Estudante de Shujin indo para casa]]
-[s][f 4 23 1 802 3 10 0 0][vp 8 2 1 0 802 0]Já. Ela parece bastante deprimida[n]para alguém tão perto de ter[n]um lugar permanente em campo.[n][w][e]
+[s][f 4 23 1 802 3 10 0 0][vp 8 2 1 0 802 0]Concordo. Ela parece bastante deprimida[n]para alguém tão perto de ter[n]um lugar permanente em campo.[n][w][e]
 
 [msg MSG_141_307_10 [Estudante Shujin despreocupado]]
 [s][f 4 23 1 803 3 10 0 0][vp 8 2 1 0 803 0]Ele provavelmente sofre[n]a pressão. Enfim,[n]nós não a conhecemos muito bem, então...[n][w][e]

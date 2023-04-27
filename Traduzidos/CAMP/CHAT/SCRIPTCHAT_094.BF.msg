@@ -5,7 +5,7 @@
 [s][f 5 14]É natural que as pessoas fiquem[n]surpresas. Até a polícia teve[n]dificuldade em pegá-lo.[n][w][e]
 
 [msg MSG_002_0_0 [Ann]]
-[s][f 5 14]Já. A propósito, você mencionou que o[n]diretor ligou para você?[n][w][e]
+[s][f 5 14]Concordo. A propósito, você mencionou que o[n]diretor ligou para você?[n][w][e]
 
 [msg MSG_003_0_0 [Ann]]
 [s][f 5 14]Aconteceu alguma coisa?[n][w][e]

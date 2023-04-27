@@ -1726,7 +1726,7 @@
 [s][f 4 23 1 11 3 10 0 10][vp 8 2 1 0 11 0]Aquele cliente... saiu[n]sem comprar nada...[n][w][e]
 
 [msg MSG_FURUGI_090_020_000 [Proprietário da loja de quimono]]
-[s][f 4 23 1 10 3 10 0 10][vp 8 2 1 0 10 0]Já. Mas ele tentou vários[n]itens. Bem, é assim que as coisas acontecem.[n][w][e]
+[s][f 4 23 1 10 3 10 0 10][vp 8 2 1 0 10 0]Concordo. Mas ele tentou vários[n]itens. Bem, é assim que as coisas acontecem.[n][w][e]
 
 [msg MSG_FURUGI_090_030_000 [Funcionário estiloso]]
 [s][f 4 23 1 11 3 10 0 10][vp 8 2 1 0 11 0]Talvez os preços sejam muito altos.[n]Mas ela sempre escolhe[n]cuidadosamente os itens para vender.[n][w][e]
@@ -2254,7 +2254,7 @@
 [s][f 4 23 1 31 3 10 0 10][vp 8 2 1 0 31 0]E tem muitos inimigos, certo?[n][w][e]
 
 [msg MSG_AKOGARE_Q80_100_000 [Menino Kichijoji]]
-[s][f 4 23 1 30 3 10 0 10][vp 8 2 1 0 30 0]Já. Como os caras que você[n]conhece perto[n]Harmony Alley.[n][w][e]
+[s][f 4 23 1 30 3 10 0 10][vp 8 2 1 0 30 0]Concordo. Como os caras que você[n]conhece perto[n]Harmony Alley.[n][w][e]
 
 [msg MSG_NOMIYA_010_010_000 [Saquê Sommelier]]
 [s][f 4 23 1 40 3 10 0 10][vp 8 2 1 0 40 0]*hic* Sabe aquele novo bar[n]atrás das lojas de departamentos? Eu[n]estava lá ontem, tomei uma bebida.[n][w][e]
@@ -2289,7 +2289,7 @@
 
 [msg MSG_NOMIYA_030_020_000 [Saquê Sommelier]]
 [s][f 4 23 1 40 3 10 0 10][vp 8 2 1 0 40 0]Bem, ele apenas derramou o feijão, eh? Aposto que[n]ele vai se sentir melhor agora, sem aquele peso[n]sobre ele.[n][w][e]
-[s][vp 8 2 1 0 40 0]Falando em derramar o feijão...[n]*buuurp*! Acho que bebi um pouco demais...[n][w][e]
+[s][vp 8 2 1 0 40 0]Falando em desembuchar...[n]*buuurp*! Acho que bebi um pouco demais...[n][w][e]
 
 [msg MSG_NOMIYA_030_030_000 [Homem com avental]]
 [s][f 4 23 1 41 3 10 0 10][vp 8 2 1 0 41 0]Ei amigo, espere um minuto![n]Use-o para o banheiro![n][w][e]
@@ -2910,7 +2910,7 @@
 [s][vp 8 2 1 0 74 0]Não precisamos mais frequentar aquela[n]área. Qualquer um que trabalhe para uma[n]grande empresa agora é corrupto.[n][w][e]
 
 [msg MSG_NOMIYA_YOUNGWOMEN_00_29 [Mulher estridente]]
-[s][vp 8 2 1 0 73 0]Já. Melhor continuar tentando[n]com os médicos e advogados.[n][w][e]
+[s][vp 8 2 1 0 73 0]Concordo. Melhor continuar tentando[n]com os médicos e advogados.[n][w][e]
 
 [msg MSG_NOMIYA_YOUNGWOMEN_00_30 [Mulher de voz profunda]]
 [s][vp 8 2 1 0 74 0]Ou com políticos! Talvez[n]possamos nos divertir[n]apoiando-os![n][w][e]
@@ -3031,7 +3031,7 @@
 [s][vp 8 2 1 0 74 0]Especialmente quando eles ocupam[n]posições de poder. É preciso uma[n]certa antiguidade, para poder fazer isso.[n][w][e]
 
 [msg MSG_NOMIYA_YOUNGWOMEN_01_23 [Mulher estridente]]
-[s][f 4 23 1 73 14 10 13 10][vp 8 2 1 0 73 0]Já. Quando penso naquele[n]cara colocando as mãos em[n]metade de sua idade...[n][w][e]
+[s][f 4 23 1 73 14 10 13 10][vp 8 2 1 0 73 0]Concordo. Quando penso naquele[n]cara colocando as mãos em[n]metade de sua idade...[n][w][e]
 [s][vp 8 2 1 0 73 0]Como dizer, não sei.[n][w][e]
 
 [msg MSG_NOMIYA_YOUNGWOMEN_01_24 [Mulher de voz profunda]]

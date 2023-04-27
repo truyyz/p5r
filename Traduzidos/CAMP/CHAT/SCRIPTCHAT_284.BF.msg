@@ -27,7 +27,7 @@
 [s]Eu diria que sim.[e]
 
 [msg MSG_010_0_0 [Sumire]]
-[s][f 5 14]Já. Se ele quisesse, ele poderia[n]apagar todos nós da existência.[n][w][e]
+[s][f 5 14]Concordo. Se ele quisesse, ele poderia[n]apagar todos nós da existência.[n][w][e]
 
 [msg MSG_011_0_0 [Futaba]]
 [s][f 5 14]Mas não é só isso: todo o tempo extra que[n]ele nos deu é extremamente benéfico para[n]nós.[n][w][e]

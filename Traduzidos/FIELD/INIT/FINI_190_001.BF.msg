@@ -27,7 +27,7 @@
 [s][bup 0 4 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6190 65535 0]Que diabos foi isso?!?[n]Nós nem arranhamos![n][w][e]
 
 [msg e716_000_mes02 [Yusuke]]
-[s][bup 0 5 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Já. Infelizmente, parece que[n]não temos a menor[n]esperança de vitória.[n][w][e]
+[s][bup 0 5 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Concordo. Infelizmente, parece que[n]não temos a menor[n]esperança de vitória.[n][w][e]
 
 [msg e716_000_mes03 [Ryuji]]
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Oi, Morgana. Não há nada que possamos fazer?[n][w][e]

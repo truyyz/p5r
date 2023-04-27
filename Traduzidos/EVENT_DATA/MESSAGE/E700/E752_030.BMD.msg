@@ -118,7 +118,7 @@
 [s][bup 0 8 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 42 65535 0]Claro que sim![n][f 1 3 65535][w][e]
 
 [msg MSG_033_0_0 [Futaba]]
-[s][bup 0 8 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 43 65535 0]Já. O mesmo para mim.[n][f 1 3 65535][w][e]
+[s][bup 0 8 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 43 65535 0]Concordo. O mesmo para mim.[n][f 1 3 65535][w][e]
 
 [msg MSG_034_0_0 [Futaba]]
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 44 65535 0]Mas... não vou tentar te impedir.[n][f 1 3 65535][w][e]

@@ -31,7 +31,7 @@
 [s]Se algo acontecer, por favor nos atualize.[e]
 
 [msg MSG_010_0_0 [Ann]]
-[s][f 5 14]Já. Se ele circular essa[n]imagem, estamos ferrados.[n][w][e]
+[s][f 5 14]Concordo. Se ele circular essa[n]imagem, estamos ferrados.[n][w][e]
 
 [msg MSG_011_0_0 [Ann]]
 [s][f 5 14][f 5 15]Seria bom[n]corrigir a situação[n]logo.[n][w][e]

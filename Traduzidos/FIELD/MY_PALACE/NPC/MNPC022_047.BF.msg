@@ -50,7 +50,7 @@
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 9089 65535 0]Não poderíamos falhar! Tínhamos o poder da[n]amizade do nosso lado![n][w][e]
 
 [msg MES_GROUP7_03 [Makoto]]
-[s][bup 0 6 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 2081 65535 0]Já. Eles acreditaram em você e em nosso líder.[n][w][e]
+[s][bup 0 6 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 2081 65535 0]Concordo. Eles acreditaram em você e em nosso líder.[n][w][e]
 
 [msg MES_GROUP7_04 [Sae]]
 [s][bup 0 105 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 15 10 0 10][vp 8 2 1 56609 65535 0]Ah... Ideia bizarra.[n][w][e]

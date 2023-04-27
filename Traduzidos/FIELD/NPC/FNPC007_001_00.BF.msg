@@ -242,7 +242,7 @@
 [s]Aquele velho é muito carregado,[n]talvez porque ele é um dos primeiros[n]fãs de Lilina-tan.[n][w][e]
 
 [msg MSG_Q78_HINT_OTAKU_060_1_2 [Gordinho]]
-[s][vp 8 2 1 0 0 0]Já. Ele era um como muitos. Ele nem estava[n]interessado em ídolos, até que[n]um dia ele abriu os olhos.[n][w][e]
+[s][vp 8 2 1 0 0 0]Concordo. Ele era um como muitos. Ele nem estava[n]interessado em ídolos, até que[n]um dia ele abriu os olhos.[n][w][e]
 [s]Mas ele é sempre gentil, nunca tira sarro de nós[n]otaku...[n][w][e]
 
 [msg MSG_Q78_HINT_OTAKU_060_1_3 [Homem magro]]
@@ -552,7 +552,7 @@
 [s][f 4 23 1 2 5 10 4 10][vp 8 2 1 0 2 0]Foram os Phantom Thieves, certo?[n]Duvido que voltarei ao Big Bang Burger muito[n]em breve...[n][w][e]
 
 [msg MSG_TUNDEREMEIDO_004_1_0 [Homem da palavra solta]]
-[s][f 4 23 1 3 3 10 0 0][vp 8 2 1 0 3 0]Já. Desta vez, os Phantom Thieves[n]realmente foram longe demais.[n][w][e]
+[s][f 4 23 1 3 3 10 0 0][vp 8 2 1 0 3 0]Concordo. Desta vez, os Phantom Thieves[n]realmente foram longe demais.[n][w][e]
 
 [msg MSG_TUNDEREMEIDO_004_2_0 [Linda empregada]]
 [s][f 4 23 1 2 5 10 4 10][vp 8 2 1 0 2 0]Wha...? Mas se realmente são caras como[n]você que atiçam as chamas e[n]promovem a caça às bruxas![n][w][e]

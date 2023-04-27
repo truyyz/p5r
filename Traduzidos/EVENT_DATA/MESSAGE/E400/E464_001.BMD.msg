@@ -21,7 +21,7 @@
 [s][vp 8 0 0 0 65535 0]Se você entrar em uma loja de conveniência,[n]sempre encontrará pelo menos um par[n]que demora uma eternidade para pagar![n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Yusuke]]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Já. Eu gostaria muito de torta[n]ou frango frito, mas ir lá[n]sozinho me deixa envergonhado...[n][f 1 3 65535][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Concordo. Eu gostaria muito de torta[n]ou frango frito, mas ir lá[n]sozinho me deixa envergonhado...[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Sojiro]]
 [s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Parece um pouco ridículo, dos[n]Phantom Thieves que acabaram de[n]salvar o mundo, você não acha?[n][f 1 3 65535][w][e]

@@ -12,7 +12,7 @@
 [s][f 4 23 1 852 3 10 0 0][vp 1 0 0 0 0 0]Ah, você está se referindo a casos de[n]insanidade repentina? Tenho certeza que a[n]polícia tem tudo sob controle.[n][w][e]
 
 [msg MSG_003_0_0 [Estudante fazendo careta]]
-[s][f 4 23 1 853 3 10 0 0][vp 1 0 0 0 0 0]Já. Não precisa se preocupar.[n]Talvez eu vá a algum lugar[n]antes de ir para casa.[n][w][e]
+[s][f 4 23 1 853 3 10 0 0][vp 1 0 0 0 0 0]Concordo. Não precisa se preocupar.[n]Talvez eu vá a algum lugar[n]antes de ir para casa.[n][w][e]
 
 [msg MSG_004_0_0 [Estudante do terceiro ano com raiva]]
 [s][f 4 23 1 854 3 10 0 0][vp 1 0 0 0 0 0]Você viu o segundo ano no time de vôlei? Uma[n]paquera absurda na cara![n][w][e]

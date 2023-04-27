@@ -11,7 +11,7 @@
 [s][bup 0 3 0 0 0]Este é o Beef Bowl Shop[n]você ligou sobre um[n]trabalho de meio período, certo?[n][w][e]
 
 [sel SEL_Beef1st_Q top]
-[s]Já...[e]
+[s]Concordo...[e]
 [s]Isso não importa.[e]
 
 [msg MSG_Beef_Start_1st [Morgana]]

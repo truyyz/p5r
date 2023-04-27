@@ -24,7 +24,7 @@
 [s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Considerando sua aparência,[n]o enorme[n]robô vermelho parece ser bastante importante.[n][w][e]
 
 [msg D05_02_e341_030_mes07 [Makoto]]
-[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2022 65535 0]Já. Mesmo que ele não[n]seja o diretor-chefe, ele[n]certamente tem algumas informações.[n][w][e]
+[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2022 65535 0]Concordo. Mesmo que ele não[n]seja o diretor-chefe, ele[n]certamente tem algumas informações.[n][w][e]
 
 [msg D05_02_e341_035_mes01 [Makoto]]
 [s][bup 0 6 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2128 65535 0]Hum, outro obstáculo. Também[n]aqui está a autenticação de classificação?[n][w][e]

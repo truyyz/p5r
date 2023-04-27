@@ -1201,7 +1201,7 @@
 [s][vp 8 2 1 0 602 0]Espere, quais? Ela está traindo ele[n]ou algo assim?[n][w][e]
 
 [msg quest09_hint_talk_00_03 [Mulher vestida modestamente]]
-[s][vp 8 2 1 0 603 0]Já. Ela sai com meninos do[n]mesmo ano, também amigos[n]de seu namorado.[n][w][e]
+[s][vp 8 2 1 0 603 0]Concordo. Ela sai com meninos do[n]mesmo ano, também amigos[n]de seu namorado.[n][w][e]
 
 [msg quest09_hint_talk_00_04 [Mulher sorridente]]
 [s][vp 8 2 1 0 602 0]Quê?!? Mas você tem ideia do risco que corre? E[n]o namorado dela não sabe de nada?[n][w][e]
@@ -3771,7 +3771,7 @@
 [s][f 4 23 1 106 3 10 0 0][vp 8 2 1 0 106 0]Como eu pensava.[n][w][e]
 
 [msg MSG_HAT_HOMELESS_003_3_0 [Transeunte]]
-[s][f 4 23 1 106 3 10 0 0][vp 8 2 1 0 106 0]Já...[n][w][e]
+[s][f 4 23 1 106 3 10 0 0][vp 8 2 1 0 106 0]Concordo...[n][w][e]
 
 [msg MSG_HAT_HOMELESS_003_4_0 [Transeunte]]
 [s][f 4 23 1 106 3 10 0 0][vp 8 2 1 0 106 0]Desculpe, foi só curiosidade. Ao mesmo tempo[n]eu estava muito interessado em arte.[n][w][e]

@@ -25,7 +25,7 @@
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu sei que parece legal, mas não[n]entenda errado. Você nunca[n]sabe o que vai aparecer aqui...[n][f 1 3 65535][w][e]
 
 [msg MSG_005_1_0 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 8 10 2]Já. Antes mesmo de saber[n]que algo está errado,[n]você já se surpreendeu...[n][f 1 3 65535][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 8 10 2]Concordo. Antes mesmo de saber[n]que algo está errado,[n]você já se surpreendeu...[n][f 1 3 65535][w][e]
 
 [msg MSG_005_3_0 [Haru]]
 [s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sério?[n][f 1 3 65535][w][e]

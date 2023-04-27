@@ -57,7 +57,7 @@
 [s]É simples sal-gema.[e]
 
 [msg MSG_039_0_0 [Morgana]]
-[s][bup 0 3 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 1038 65535 0]Já. Se você pudesse despertar[n]o coração de alguém com uma[n]Pedra Sagrada, tudo seria mais fácil.[n][f 1 3 65535][w][e]
+[s][bup 0 3 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 1038 65535 0]Concordo. Se você pudesse despertar[n]o coração de alguém com uma[n]Pedra Sagrada, tudo seria mais fácil.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Chihaya tem[n]habilidades de adivinhação, é evidente, mas[n]essa pedra é inútil...[n][f 1 3 65535][w][e]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Ei, [f 4 2]![n]Por que não despertamos[n]o coração desse "Yuya"?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ele está atormentando essa mulher, certo? Esta é[n]a oportunidade perfeita para conseguir a ajuda[n]dos Phantom Thieves![n][f 1 3 65535][w][e]

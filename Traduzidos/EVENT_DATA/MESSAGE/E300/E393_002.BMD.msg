@@ -42,7 +42,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Sim. É impossível não pensar assim.[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Já. Eu tive a mesma intenção.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Concordo. Eu tive a mesma intenção.[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Sim...[n][f 1 3 65535][w][e]

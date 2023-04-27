@@ -55,5 +55,5 @@
 [s][f 5 14]De qualquer forma, temos que fazer[n]algo por Morgana.[n][w][e]
 
 [msg MSG_018_0_0 [Ryuji]]
-[s][f 5 14][f 5 15]Já. Até amanhã então![n][w][e]
+[s][f 5 14][f 5 15]Concordo. Até amanhã então![n][w][e]
 

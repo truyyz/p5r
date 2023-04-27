@@ -44,11 +44,11 @@
 [s][bup 0 10 4 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 57036 65535 0]Lá em cima... Isso é um ser cognitivo, certo?[n][w][e]
 
 [msg MES_GROUP4_02 [Morgana]]
-[s][bup 0 3 3 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 1028 65535 0]Já. Se a cognição estiver distorcida o[n]suficiente, sua própria mãe também pode assumir[n]esse aspecto.[n][w][e]
+[s][bup 0 3 3 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 1028 65535 0]Concordo. Se a cognição estiver distorcida o[n]suficiente, sua própria mãe também pode assumir[n]esse aspecto.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Que ideia terrível.[n][w][e]
 
 [msg MES_GROUP4_03 [Sumire]]
-[s][bup 0 10 3 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 41 10 0 10][vp 8 2 1 57027 65535 0]Já...[n][w][e]
+[s][bup 0 10 3 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 41 10 0 10][vp 8 2 1 57027 65535 0]Concordo...[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Mas o pior é que no[n]mundo existem pessoas que podem[n]fazer Futaba-senpai se sentir assim.[n][w][e]
 
 [msg MES_GROUP5_01 [Haru]]

@@ -113,7 +113,7 @@
 [s]Novo produto antisséptico[n]da CMT. Remove a penalidade[n]para as estatísticas. de um aliado.[n][e]
 
 [msg Item_026]
-[s]Causa 50 de dano de Fogo[n]a um inimigo. Alta chance de[n]infligir On Fire.[n][e]
+[s]Causa 50 de dano de Fogo[n]a um inimigo. Alta chance de[n]infligir Queimaduras.[n][e]
 
 [msg Item_027]
 [s]Causa 50 de dano de Fogo[n]a todos os inimigos.[n][e]
@@ -1997,7 +1997,7 @@
 [s]Reduz o ATK/Def/[n]Precisão/Evasão[n]de um inimigo por 3 turnos.[n][e]
 
 [msg Item_29A]
-[s]Causa 50 de dano de Fogo[n]a um inimigo. Alta chance de[n]infligir On Fire.[n][e]
+[s]Causa 50 de dano de Fogo[n]a um inimigo. Alta chance de[n]infligir Queimaduras.[n][e]
 
 [msg Item_29B]
 [s]Causa 50 de dano de Vento[n]a um inimigo.[n][e]
@@ -2027,7 +2027,7 @@
 [s]Um pingente que aumenta[n]força. Dobra os ataques físicos[n]uma vez.[n][e]
 
 [msg Item_2A4]
-[s]Um pendente que melhora a[n]concentração. Duplo[n]uma vez att. mágico.[n][e]
+[s]Um pendente que melhora a[n]concentração. Duplo[n]uma vez atk. mágico.[n][e]
 
 [msg Item_2A5]
 [s]Para artesãos experientes. Le[n]abil. para criar ferramentas[n]infiltração melhorar.[n][e]

@@ -12,7 +12,7 @@
 [s][f 4 23 1 852 3 10 0 0][vp 1 0 0 0 0 0]Quê? Não terei problemas, certo?[n]A polícia definitivamente fará[n]alguma coisa.[n][w][e]
 
 [msg MSG_003_0_0 [Estudante fazendo careta]]
-[s][f 4 23 1 853 3 10 0 0][vp 1 0 0 0 0 0]Já. Talvez eu vá a algum lugar[n]também antes de ir para casa.[n]Não me importo com a universidade...[n][w][e]
+[s][f 4 23 1 853 3 10 0 0][vp 1 0 0 0 0 0]Concordo. Talvez eu vá a algum lugar[n]também antes de ir para casa.[n]Não me importo com a universidade...[n][w][e]
 
 [msg MSG_004_0_0 [Estudante do terceiro ano com raiva]]
 [s][f 4 23 1 850 3 10 0 0][vp 1 0 0 0 0 0]Você viu o segundo ano no time de vôlei? Uma[n]paquera absurda na cara![n][w][e]

@@ -33,7 +33,7 @@
 
 [sel SEL_010_0_0 top]
 [s][f 4 29 3]É assim que deve ser.[e]
-[s]Já...[e]
+[s]Concordo...[e]
 [s]Eu gosto de ficar na sombra.[e]
 
 [msg MSG_011_0_0 [Ryuji]]

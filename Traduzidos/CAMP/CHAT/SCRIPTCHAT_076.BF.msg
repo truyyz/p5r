@@ -31,7 +31,7 @@
 [s][f 5 14]Isso está realmente acontecendo?[n]Não estou fazendo um filme?[n][w][e]
 
 [sel SEL_010_0_0 top]
-[s][f 5 14]Já. Bom para você.[e]
+[s][f 5 14]Concordo. Bom para você.[e]
 [s]Você descobrirá.[e]
 
 [msg MSG_011_0_0 [Mishima]]

@@ -34,7 +34,7 @@
 [s][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Além disso, ele parece suspeito.[n]É melhor evitar essas pessoas.[n][w][e]
 
 [msg MSG_CATCH_001_01c [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1035 65535 0]Já. Se parece bom demais para[n]ser verdade, provavelmente é falso.[n]Além disso, eu já vi esse cara antes...[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1035 65535 0]Concordo. Se parece bom demais para[n]ser verdade, provavelmente é falso.[n]Além disso, eu já vi esse cara antes...[n][w][e]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Enfim, agora nossa[n]prioridade é dar a[n]medalha de ouro. Vamos![n][w][e]
 
 [msg MSG_CATCH_GREETING_00 [Vendedor]]

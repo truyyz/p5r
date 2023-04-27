@@ -385,7 +385,7 @@
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Ei, é verdade que aquele aluno que[n]se mudou para cá este ano[n]brigou com Kamoshida?[n][w][e]
 
 [msg MSG_UNDOUBUIN_002_01_1_0 [Jogador de futebol abrupto]]
-[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Já. Já ouvi falar[n]que o cara tá sempre[n]procurando briga.[n][w][e]
+[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Concordo. Já ouvi falar[n]que o cara tá sempre[n]procurando briga.[n][w][e]
 [s][vp 8 2 1 0 6 0]Sakamoto e Mishima também estão envolvidos.[n]Talvez todos os três sejam expulsos.[n][w][e]
 
 [msg MSG_UNDOUBUIN_002_01_2_0 [Jogador de basquete na mão]]

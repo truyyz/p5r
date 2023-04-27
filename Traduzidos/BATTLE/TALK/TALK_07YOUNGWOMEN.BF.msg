@@ -586,7 +586,7 @@
 
 [sel TalkSel_GUY_CHAT_SQ_03 top]
 [s]O que ganhamos?[e]
-[s]Já.[e]
+[s]Concordo.[e]
 [s]Agora não é a hora.[e]
 
 [msg TalkMsg_GUY_CHAT_SQ_03_R]
@@ -827,7 +827,7 @@
 [s]Eu sabia que você era um bom humano.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_07_R_4]
-[s]Já. Você me machucou como o inferno![n][w][e]
+[s]Concordo. Você me machucou como o inferno![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_07_R_5]
 [s]Pare com isso. Você venceu,[n]isso é o que importa.[n][w][e]

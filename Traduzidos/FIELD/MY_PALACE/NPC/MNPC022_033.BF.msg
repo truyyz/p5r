@@ -12,7 +12,7 @@
 [s][f 4 10 65535 0 0]É difícil aceitar que as pessoas[n]realmente queriam ser[n]controladas por aquele deus maligno.[n][w][e]
 
 [msg MES_GROUP1_02 [Yusuke]]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 41 10 0 10][vp 8 2 1 4194 65535 0]Já...[n][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 41 10 0 10][vp 8 2 1 4194 65535 0]Concordo...[n][w][e]
 [s][bup 0 5 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Mas mesmo se eu não tivesse te conhecido,[n]poderia ter acontecido da mesma forma.[n][w][e]
 
 [msg MES_GROUP1_03 [Makoto]]
@@ -23,7 +23,7 @@
 [s][bup 0 7 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 33 10 0 10][vp 8 2 1 3157 65535 0]Tanta nostalgia... Lembro-me de[n]ficar surpreso quando[n]descobri o que você é, Mona-chan.[n][w][e]
 
 [msg MES_GROUP2_02 [Morgana]]
-[s][bup 0 3 3 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 1034 65535 0]Já. Essa coisa me surpreendeu também.[n][w][e]
+[s][bup 0 3 3 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 1034 65535 0]Concordo. Essa coisa me surpreendeu também.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Não só eu não era um humano...[n]mas nem mesmo um gato.[n][w][e]
 
 [msg MES_GROUP2_03 [Haru]]

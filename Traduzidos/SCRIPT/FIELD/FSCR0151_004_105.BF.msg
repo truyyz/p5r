@@ -137,7 +137,7 @@
 
 [msg D151_04_miniEV06_mes01 [Ryuji]]
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7183 65535 0]...Hã? Encontrei algo?[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]"Glory in the Muscles"...[n]"Muscleland"...[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]"Glória nos Músculos"...[n]"Musculolândia"...[n][w][e]
 [s][bup 0 2 107 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7119 65535 0]Deus, parece que estou na têmpora do bíceps.[n]'Esse cara é obcecado por seus músculos...[n][w][e]
 
 [msg D151_04_miniEV06_mes02 [Ann]]

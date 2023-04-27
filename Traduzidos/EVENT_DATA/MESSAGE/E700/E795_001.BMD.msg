@@ -881,7 +881,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Senpai, você se lembra deste ponto?[n][f 1 3 65535][w][e]
 
 [sel SEL_253_0_0 top]
-[s]Já.[e]
+[s]Concordo.[e]
 [s]Eu esqueci...[e]
 
 [msg MSG_254_0_0 [Morgana]]

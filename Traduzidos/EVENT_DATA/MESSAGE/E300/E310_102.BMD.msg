@@ -483,7 +483,7 @@
 [s][vp 8 0 0 0 65535 0]Hum, eu não sei... Mas devo dizer[n]que sua abordagem tão direta[n]tinha algo de muito viril...[n][f 1 3 65535][w][e]
 
 [msg MSG_146_0_0 [Mulher tímida em traje de banho]]
-[s][vp 8 0 0 0 65535 0]Já. Na verdade, estou começando a me sentir[n]como oprimido pelo poder dos Phantom Thieves[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Concordo. Na verdade, estou começando a me sentir[n]como oprimido pelo poder dos Phantom Thieves[n][f 1 3 65535][w][e]
 
 [msg MSG_147_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Oooh, sério?!? Então você também[n]acha que eles são legais![n][f 1 3 65535][w][e]

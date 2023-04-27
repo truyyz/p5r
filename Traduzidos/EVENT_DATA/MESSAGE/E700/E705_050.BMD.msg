@@ -69,7 +69,7 @@
 [s]É por isso que você é solteiro?[e]
 
 [msg MSG_017_0_0 [Sojiro]]
-[s][bup 0 103 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 6 5 1003]Já. Pode-se dizer que sim.[n][f 1 3 65535][w][e]
+[s][bup 0 103 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 6 5 1003]Concordo. Pode-se dizer que sim.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você nunca sabia o que ela estava[n]realmente pensando... Era[n]muito difícil acompanhá-la.[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Sojiro]]

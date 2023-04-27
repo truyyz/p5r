@@ -127,7 +127,7 @@
 [s][bup 0 108 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 14109 65535 0]Oh, é essa a impressão que dou?[n][w][e]
 
 [msg MES_GROUP9_03 [Chihaya]]
-[s][bup 0 113 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 3 10 0 10]Já. Com sua garra é mais fácil[n]para você subir na sela, para[n]encontrar seu próprio príncipe encantado.[n][w][e]
+[s][bup 0 113 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 3 10 0 10]Concordo. Com sua garra é mais fácil[n]para você subir na sela, para[n]encontrar seu próprio príncipe encantado.[n][w][e]
 
 [msg MES_GROUP9_04 [Takemi]]
 [s][bup 0 108 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 35 10 0 10][vp 8 2 1 14048 65535 0]Corajoso, né... não me importo.[n][w][e]

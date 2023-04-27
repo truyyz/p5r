@@ -53,7 +53,7 @@
 [s][bup 0 7 203 65535 0][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Sei que sou filha do[n]presidente, mas nunca pensei que[n]iria cuidar da empresa...[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Haru]]
-[s][bup 0 7 203 65535 0][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]Já. É tudo muito complexo...[n][f 1 3 65535][w][e]
+[s][bup 0 7 203 65535 0][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]Concordo. É tudo muito complexo...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 26 65535 0]Apesar de ser filha do[n]presidente, nunca pensei que[n]iria cuidar da empresa...[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Haru]]

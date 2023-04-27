@@ -58,7 +58,7 @@
 [s][bup 0 6 100 0 0][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]Mas o chefe disse que Futaba[n]nunca deixa ninguém entrar.[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Ryuji]]
-[s][bup 0 2 100 0 0][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Já. Ela é uma reclusa completa[n][f 1 3 65535][w][e]
+[s][bup 0 2 100 0 0][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Concordo. Ela é uma reclusa completa[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Yusuke]]
 [s][bup 0 5 100 0 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Como vamos convencê-la[n]a nos deixar entrar?[n][f 1 3 65535][w][e]

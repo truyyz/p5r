@@ -126,8 +126,8 @@
 [s][bup 0 10 907 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 5 0]N-não é isso, é isso... eu não pensei que[n]você iria olhar para mim...[n][f 1 3 65535][w][e]
 
 [msg MSG_033_0_0 [Sumire]]
-[s][bup 0 10 900 65535 0][f 4 10 65535 0 0][vp 8 2 0 57064 65535 0]...Oh! G-já.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 5 0]Talvez não devesse ser tão[n]one way...[n][f 1 3 65535][w][e]
+[s][bup 0 10 900 65535 0][f 4 10 65535 0 0][vp 8 2 0 57064 65535 0]...Oh! S-sim.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 5 0]Talvez não devesse ser tão[n]unilateral...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 5 0]Se eu prestar atenção nas pessoas, tenho certeza[n]que elas vão prestar atenção de volta.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 5 0]Acho que entendo.[n][f 1 3 65535][w][e]
 

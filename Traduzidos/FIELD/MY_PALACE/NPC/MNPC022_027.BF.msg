@@ -48,7 +48,7 @@
 [s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 6186 65535 0]Esta escultura nos faz entender[n]quantas pessoas acabaram[n]vitimas de Madarame.[n][w][e]
 
 [msg MES_GROUP4_01 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 53106 65535 0]Já. Se não tivéssemos despertado[n]seu coração, Yusuke também[n]acabaria neste negócio.[n][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 53106 65535 0]Concordo. Se não tivéssemos despertado[n]seu coração, Yusuke também[n]acabaria neste negócio.[n][w][e]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 30 10 0 10]Eu gostaria de poder pensar que[n]os poupei de tal destino.[n][w][e]
 
 [msg MES_GROUP4_02 [Ann]]

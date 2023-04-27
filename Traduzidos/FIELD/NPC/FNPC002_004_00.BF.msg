@@ -1288,7 +1288,7 @@
 [s][f 4 23 1 80 3 10 0 10][vp 8 2 1 0 80 0]Todo mundo está falando sobre esse sujeito.[n][w][e]
 
 [msg MSG_VALLEY_NPC04_01_1_0 [Aluna em uniforme esportivo]]
-[s][f 4 23 1 81 3 10 0 10][vp 8 2 1 0 81 0]Já. Se você tem boa aparência e[n]potencial para ganhar uma medalha,[n]a popularidade é garantida![n][w][e]
+[s][f 4 23 1 81 3 10 0 10][vp 8 2 1 0 81 0]Concordo. Se você tem boa aparência e[n]potencial para ganhar uma medalha,[n]a popularidade é garantida![n][w][e]
 [s][vp 8 2 1 0 81 0]Se nos tornarmos amigos dela, talvez possamos nos[n]gabar disso? Dizer que só chegou lá por nossa[n]causa?[n][w][e]
 
 [msg MSG_VALLEY_NPC04_01_2_0 [Jogador de voleibol]]

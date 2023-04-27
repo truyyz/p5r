@@ -71,7 +71,7 @@
 [s][f 4 23 1 852 3 10 0 0][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 6190 852 0]Como é estúpido fofocar pelas costas dos outros![n][w][e]
 
 [msg MSG_065_0_0 [Shiho]]
-[s][f 4 23 1 853 3 10 0 0][bup 0 212 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 37307 853 0]Já. Aposto que ele não[n]gosta de sofrer o mesmo[n]tratamento.[n][w][e]
+[s][f 4 23 1 853 3 10 0 0][bup 0 212 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 37307 853 0]Concordo. Aposto que ele não[n]gosta de sofrer o mesmo[n]tratamento.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 853 0]Quem sabe como ele está...[n]Espero que ele não o deixe[n]deprimi-lo demais.[n][w][e]
 
 [msg MSG_066_0_0 [Ann]]

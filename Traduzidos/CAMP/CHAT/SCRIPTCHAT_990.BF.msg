@@ -27,7 +27,7 @@
 [s][f 5 14]H-Ha... Uma imagem maravilhosa.[n][w][e]
 
 [msg MSG_010_0_0 [Haru]]
-[s][f 5 14]Já. É bom[n]vê-los juntos.[n][w][e]
+[s][f 5 14]Concordo. É bom[n]vê-los juntos.[n][w][e]
 
 [msg MSG_011_0_0 [Ann]]
 [s][f 5 14]Vocês dois são muito próximos,[n]eh, [f 4 2]?[n][w][e]

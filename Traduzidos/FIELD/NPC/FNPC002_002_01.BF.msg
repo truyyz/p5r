@@ -726,7 +726,7 @@
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Eu também acho. Aqueles que[n]os criticam não mudarão de opinião[n]tão facilmente.[n][w][e]
 
 [msg MSG_SINBUNJYOSI_018_3_0 [Editor de jornal]]
-[s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Já. Com a mídia tão tendenciosa,[n]não obtemos todas as informações importantes[n]que precisamos.[n][w][e]
+[s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Concordo. Com a mídia tão tendenciosa,[n]não obtemos todas as informações importantes[n]que precisamos.[n][w][e]
 
 [msg MSG_SINBUNJYOSI_018_4_0 [Editor de jornal]]
 [s][vp 8 2 1 0 1 0]Quem sabe o que é a verdade.[n]Distinguir o verdadeiro do falso[n]é um grande desafio...[n][w][e]

@@ -22,7 +22,7 @@
 [s][bup 0 105 3 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 13 10 0 10][vp 8 2 1 21027 65535 0]E então este é o monstro em que me transformei.[n][w][e]
 
 [msg MES_GROUP2_02 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 3 10 0 10]É água debaixo da ponte. Está tudo bem agora,[n]então...[n][w][e]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 3 10 0 10]Ficou no passado. Está tudo bem agora,[n]então...[n][w][e]
 
 [msg MES_GROUP2_03 [Sae]]
 [s][bup 0 105 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 21021 65535 0]Está tudo bem Makoto.[n][w][e]
@@ -89,7 +89,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Mas, depois de conversar com ela, percebi que não[n]era nada mal.[n][w][e]
 
 [msg MES_GROUP8_02 [Yusuke]]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 3 10 0 10]Já. Vê-se que ela é[n]irmã mais velha de Makoto. Eles compartilham[n]um forte senso de justiça.[n][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 3 10 0 10]Concordo. Vê-se que ela é[n]irmã mais velha de Makoto. Eles compartilham[n]um forte senso de justiça.[n][w][e]
 
 [msg MES_GROUP8_03 [Ann]]
 [s][bup 0 4 3 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 54006 65535 0]E apesar de tudo, ela tinha certeza que tinha[n]alternativas...[n][w][e]

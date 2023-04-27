@@ -66,7 +66,7 @@
 [s]O que há dentro?[e]
 
 [msg MSG_019_0_0 [Ohya]]
-[s][bup 0 107 1 6 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]Já. Você estava esperando por isso, hein?[n][f 1 3 65535][w][e]
+[s][bup 0 107 1 6 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]Concordo. Você estava esperando por isso, hein?[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Ohya]]
 [s][bup 0 107 1 6 0][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]Bem, é material de qualidade. Veja[n]você come, ok?[n][f 1 3 65535][w][e]

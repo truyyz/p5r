@@ -22,7 +22,7 @@
 [s][f 4 23 1 65535 3 10 0 0][bup 0 103 1 65535 0][f 4 10 65535 0 0][vp 8 0 1 4 65535 0]O nome dela é Ann, certo?[n]Ela é uma boa menina.[n][w][e]
 
 [sel SEL_E22810100_004_00 top]
-[s]Já.[e]
+[s]Concordo.[e]
 [s]Talvez um pouco chamativo.[e]
 [s]Como você diz isso?[e]
 

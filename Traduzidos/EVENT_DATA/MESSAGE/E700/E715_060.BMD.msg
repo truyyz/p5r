@@ -34,7 +34,7 @@
 [s]Ele descobriu tudo?[e]
 
 [msg MSG_009_0_0 [Ohya]]
-[s][bup 0 107 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 16 5 1007]Já. Talvez aquele desgraçado[n]sabe alguma coisa.[n][f 1 3 65535][w][e]
+[s][bup 0 107 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 16 5 1007]Concordo. Talvez aquele desgraçado[n]sabe alguma coisa.[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Ohya]]
 [s][bup 0 107 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não tenho certeza, mas talvez[n]aquele bastardo saiba alguma coisa.[n][f 1 3 65535][w][e]

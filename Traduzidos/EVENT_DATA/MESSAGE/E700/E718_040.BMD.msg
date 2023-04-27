@@ -71,7 +71,7 @@
 [s]Talvez seja melhor mantê-los...[e]
 
 [msg MSG_018_0_0 [Mishima]]
-[s][bup 0 111 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 19036 65535 0]Já. Temos que garantir que[n]a imagem dos Phantom Thieves permaneça[n]imaculada aos olhos dos fãs.[n][f 1 3 65535][w][e]
+[s][bup 0 111 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 19036 65535 0]Concordo. Temos que garantir que[n]a imagem dos Phantom Thieves permaneça[n]imaculada aos olhos dos fãs.[n][f 1 3 65535][w][e]
 
 [msg MSG_018_1_0 [Mishima]]
 [s][bup 0 111 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 19038 65535 0]Não, precisamos garantir que[n]a imagem dos Phantom Thieves[n]permaneça o mais intacta possível.[n][f 1 3 65535][w][e]

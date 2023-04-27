@@ -20,7 +20,7 @@
 [s][f 5 14]Você não costuma ficar bem em fotos?[n]É definitivamente uma ótima foto.[n][w][e]
 
 [msg MSG_008_0_0 [Ryuji]]
-[s][f 5 14]Já.[n][w][e]
+[s][f 5 14]Concordo.[n][w][e]
 
 [msg MSG_009_0_0 [Yusuke]]
 [s][f 5 14]Esta foto até capturou[n]a grandeza arquitetônica[n]do meu castelo de areia.[n][w][e]

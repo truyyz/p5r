@@ -9,7 +9,7 @@
 [s]"Este seria...?[e]
 
 [msg MSG_002_0_0 [Kasumi]]
-[s][bup 0 10 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 57186 65535 0][f 5 13 33 10 10]Já. Eu sei cozinhar![n][f 1 3 65535][w][e]
+[s][bup 0 10 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 57186 65535 0][f 5 13 33 10 10]Concordo. Eu sei cozinhar![n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Kasumi]]
 [s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 57030 65535 0]Bem, isso parece muito divertido![n]Mas eu estava falando sobre cozinhar![n][f 1 3 65535][w][e]

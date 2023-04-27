@@ -42,7 +42,7 @@
 
 [msg MSG_BTL_TALK_001_003_000 [Sombra de Fuwa]]
 [s][vp 8 2 2 50274 1 16]Certo!?![n][f 1 3 65535][w][e]
-[s][vp 8 2 2 50295 1 16]Visualizar? Eu não estava fazendo nada[n]ruim! Enquanto eu amar[n]Lily-nyan, tudo ficará bem![n][f 1 3 65535][w][e]
+[s][vp 8 2 2 50295 1 16]Viu? Eu não estava fazendo nada[n]ruim! Enquanto eu amar[n]Lily-nyan, tudo ficará bem![n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_TALK_FAIL_003_00 [Futaba]]
 [s][bup 0 8 604 0 0][vp 8 2 2 9040 0 8][f 4 10 65535 0 0]Uau! Ele estourou![n][f 1 3 65535][w][e]
@@ -72,7 +72,7 @@
 
 [msg MSG_BTL_TALK_002_003_000 [Sombra de Fuwa]]
 [s][vp 8 2 2 50262 1 16]Certo!?![n][f 1 3 65535][w][e]
-[s][vp 8 2 2 50245 1 16]Visualizar? Eu não estava fazendo nada[n]ruim! Enquanto eu amar[n]Lily-nyan, tudo ficará bem![n][f 1 3 65535][w][e]
+[s][vp 8 2 2 50245 1 16]Viu? Eu não estava fazendo nada[n]ruim! Enquanto eu amar[n]Lily-nyan, tudo ficará bem![n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_TALK_002_001_000 [Sombra de Fuwa]]
 [s][vp 8 2 2 50249 1 16]Minha pequena...![n][f 1 3 65535][w][e]

@@ -31,5 +31,5 @@
 [s][f 5 14]Só temos que continuar tentando até lá,[n]certo?[n][w][e]
 
 [msg MSG_012_0_0 [Makoto]]
-[s][f 5 14][f 5 15]Já. No entanto, é inútil pensar nisso[n]agora. Continuamos tentando.[n][w][e]
+[s][f 5 14][f 5 15]Concordo. No entanto, é inútil pensar nisso[n]agora. Continuamos tentando.[n][w][e]
 

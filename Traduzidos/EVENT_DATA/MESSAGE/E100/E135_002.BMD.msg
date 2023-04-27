@@ -5,7 +5,7 @@
 [sel SEL_001_0_0 top]
 [s]Vá com calma.[e]
 [s]Eu ainda estou comendo.[e]
-[s]É água debaixo da ponte...[e]
+[s]Ficou no passado...[e]
 
 [msg MSG_002_0_0 [Ryuji]]
 [s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Só de ouvir sua[n]história me deixa louco![n][f 1 3 65535][w][e]

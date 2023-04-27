@@ -12,7 +12,7 @@
 [s][f 4 23 1 853 3 10 0 0][vp 8 2 1 0 853 0]Huh? Mas o que é isso? Um código?[n]Parece um pouco suspeito...[n][w][e]
 
 [msg MSG_E24330100_STUDENT_F__3 [Estudante Kosei]]
-[s][f 4 23 1 854 3 10 0 0][vp 8 2 1 0 854 0]Já. Muitas pessoas têm[n]conversas assim,[n]online...[n][w][e]
+[s][f 4 23 1 854 3 10 0 0][vp 8 2 1 0 854 0]Concordo. Muitas pessoas têm[n]conversas assim,[n]online...[n][w][e]
 
 [msg MSG_E24330100_STUDENT_F__4 [Colegial em uniforme de marinheiro]]
 [s][f 4 23 1 853 3 10 0 0][vp 8 2 1 0 853 0]O que ele estava dizendo?[n][w][e]

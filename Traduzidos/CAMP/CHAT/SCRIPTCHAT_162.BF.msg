@@ -29,7 +29,7 @@
 [s][f 5 14]Isso mostra o quão sério[n]eles consideram a situação.[n][w][e]
 
 [msg MSG_010_0_0 [Akechi]]
-[s][f 5 14]Já.[n][w][e]
+[s][f 5 14]Concordo.[n][w][e]
 
 [msg MSG_011_0_0 [Akechi]]
 [s][f 5 14][f 5 15]De qualquer forma, vamos nos encontrar[n]amanhã no tribunal.[n][w][e]

@@ -1069,7 +1069,7 @@
 [s][f 4 23 1 12 14 10 13 10][vp 8 2 1 0 12 0]Tem certeza? Ele teria arriscado o fracasso se[n]isso acontecesse.[n][w][e]
 
 [msg MSG_RUBURAN_CUSTOM03_001_3 [Jovem empresário]]
-[s][f 4 23 1 11 14 10 13 10][vp 8 2 1 0 11 0]Já. No entanto, não teríamos mais que viver dessa[n]maneira.[n][w][e]
+[s][f 4 23 1 11 14 10 13 10][vp 8 2 1 0 11 0]Concordo. No entanto, não teríamos mais que viver dessa[n]maneira.[n][w][e]
 
 [msg MSG_RUBURAN_CUSTOM03_001_4 [Funcionário diligente]]
 [s][f 4 23 1 12 14 10 13 10][vp 8 2 1 0 12 0]...Entendo. Você está ocupado quando você[n]sair?[n][w][e]

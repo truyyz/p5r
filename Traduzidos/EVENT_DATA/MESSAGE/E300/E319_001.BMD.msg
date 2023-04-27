@@ -159,7 +159,7 @@
 [s][bup 0 2 2 3 0][f 4 10 65535 0 0][vp 8 0 0 111 65535 0]Essa foi uma pergunta capciosa![n][f 1 3 65535][w][e]
 
 [msg MSG_052_0_0 [Ann]]
-[s][bup 0 4 800 65535 0][f 4 10 65535 0 0][vp 8 0 0 112 65535 0]E você, [f 4 2]? Vamos lá,[n]derramar o feijão. Quem é[n]sua namorada ideal?[n][f 1 3 65535][w][e]
+[s][bup 0 4 800 65535 0][f 4 10 65535 0 0][vp 8 0 0 112 65535 0]E você, [f 4 2]? Vamos lá,[n]desembucha. Quem é[n]sua namorada ideal?[n][f 1 3 65535][w][e]
 
 [sel SEL_053_0_0 top]
 [s]O importante é o corpo.[e]

@@ -20,7 +20,7 @@
 [s][f 5 14]Eu só tenho que fazer[n]Akechi-kun aceitar.[n][w][e]
 
 [msg MSG_007_0_0 [Futaba]]
-[s][f 5 14]Já.[n][w][e]
+[s][f 5 14]Concordo.[n][w][e]
 
 [msg MSG_008_0_0 [Ryuji]]
 [s][f 5 14]O que aquele bastardo está aprontando?[n][w][e]

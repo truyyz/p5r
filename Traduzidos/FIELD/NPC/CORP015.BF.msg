@@ -462,7 +462,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 1 17 65535 0]Estou surpreso que você soubesse[n]onde eu estava...[n]Você está aqui para dizer adeus?[n][w][e]
 
 [sel SEL_C15_BYEGREET_01_01 top]
-[s]Já.[e]
+[s]Concordo.[e]
 [s]Eu queria agradecer a você.[e]
 [s]Você está ocupado?[e]
 
@@ -531,7 +531,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 1 48 65535 0]Estou surpreso que você soubesse[n]onde eu estava...[n]Você está aqui para dizer adeus?[n][w][e]
 
 [sel SEL_C15_BYEGREET_01_01_5 top]
-[s]Já.[e]
+[s]Concordo.[e]
 [s]Eu queria agradecer a você.[e]
 [s]Você está ocupado?[e]
 

@@ -18,7 +18,7 @@
 [s]Foi perto, no entanto.[e]
 
 [msg MSG_006_0_0 [Makoto]]
-[s][f 5 14]Já. Tudo graças ao Alibaba.[n]Você foi incrível.[n][w][e]
+[s][f 5 14]Concordo. Tudo graças ao Alibaba.[n]Você foi incrível.[n][w][e]
 
 [msg MSG_007_0_0 [Futaba]]
 [s][f 5 14]Nada especial.[n][w][e]

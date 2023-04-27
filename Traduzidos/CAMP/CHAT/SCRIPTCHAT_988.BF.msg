@@ -20,7 +20,7 @@
 [s][f 5 14]De fato! Eles não eram como[n]instantâneos, mas eram bons.[n][w][e]
 
 [msg MSG_008_0_0 [Ryuji]]
-[s][f 5 14]Já. Não sei porque, mas a comida[n]das barraquinhas é sempre deliciosa.[n][w][e]
+[s][f 5 14]Concordo. Não sei porque, mas a comida[n]das barraquinhas é sempre deliciosa.[n][w][e]
 
 [msg MSG_009_0_0 [Ryuji]]
 [s][f 5 14]A propósito, Ann, onde estão as fotos[n]conosco?[n][w][e]

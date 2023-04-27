@@ -16,7 +16,7 @@
 [s][bup 0 103 4 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 3 10 0 10]Que tipo de perguntas são essas? Claro...[n]Há muitas coisas que eu gostaria de te dizer...[n][w][e]
 
 [msg MES_GROUP1_03 [Futaba]]
-[s][bup 0 8 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 41 10 0 10]... Já. Isso vale para mim também.[n][w][e]
+[s][bup 0 8 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0][f 4 23 1 65535 41 10 0 10]... Concordo. Isso vale para mim também.[n][w][e]
 
 [msg MES_GROUP1_04 [Sojiro]]
 [s][bup 0 103 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 53910 65535 0]Mas, conhecendo-a... ela ficaria[n]mal-humorada se a incomodássemos[n]só porque sentimos falta dela.[n][w][e]
@@ -106,5 +106,5 @@
 [s][bup 0 2 3 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 32 10 0 10][vp 8 2 1 7038 65535 0]Ele poderia fazer o que ele deseja se tornar[n]realidade, certo? Absurdo, cara.[n][w][e]
 
 [msg MES_GROUP9_04 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 1034 65535 0]Já. Lutamos muitas[n]batalhas, mas a vitória contra[n]ele foi um verdadeiro milagre.[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 1034 65535 0]Concordo. Lutamos muitas[n]batalhas, mas a vitória contra[n]ele foi um verdadeiro milagre.[n][w][e]
 

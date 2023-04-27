@@ -29,22 +29,22 @@
 [s]VAZIO[n][e]
 
 [msg skill_00A]
-[s]Dano de fogo leve[n]a um único inimigo. Chance[n]de infligir On Fire.[n][e]
+[s]Dano Leve Incendiário[n]a um único inimigo. Chance[n]de infligir Queimaduras.[n][e]
 
 [msg skill_00B]
-[s]Dano de fogo médio[n]a um único inimigo. Chance[n]de infligir On Fire.[n][e]
+[s]Dano Médio Incendiário[n]a um único inimigo. Chance[n]de infligir Queimaduras.[n][e]
 
 [msg skill_00C]
-[s]Dano de fogo pesado[n]a um único inimigo. Chance[n]de infligir On Fire.[n][e]
+[s]Dano Alto Incendiário[n]a um único inimigo. Chance[n]de infligir Queimaduras.[n][e]
 
 [msg skill_00D]
-[s]Dano leve[n]de fogo a todos os inimigos. Chance[n]de infligir On Fire.[n][e]
+[s]Dano Leve Incendiário[n]a todos os inimigos. Chance[n]de infligir Queimaduras.[n][e]
 
 [msg skill_00E]
-[s]Dano médio[n]de fogo a todos os inimigos. Chance[n]de infligir On Fire.[n][e]
+[s]Dano Médio Incendiário[n]a todos os inimigos. Chance[n]de infligir Queimaduras.[n][e]
 
 [msg skill_00F]
-[s]Pesado[n]dano de fogo a todos os inimigos. Chance[n]de infligir On Fire.[n][e]
+[s]Dano Alto Incendiário[n]a todos os inimigos. Chance[n]de infligir Queimaduras.[n][e]
 
 [msg skill_010]
 [s]VAZIO[n][e]
@@ -59,22 +59,22 @@
 [s]VAZIO[n][e]
 
 [msg skill_014]
-[s]Dano de gelo leve a um inimigo. Chance de[n]infligir Congelamento.[n][e]
+[s]Dano Leve de Gelo[n]a um inimigo. Chance de infligir Congelamento.[n][e]
 
 [msg skill_015]
-[s]Dano de gelo médio[n]a um inimigo. Chance de[n]infligir Congelamento.[n][e]
+[s]Dano Médio de Gelo[n]a um inimigo. Chance de[n]infligir Congelamento.[n][e]
 
 [msg skill_016]
-[s]Dano de Gelo Pesado[n]a um inimigo. Chance de[n]infligir Congelamento.[n][e]
+[s]Dano Alto de Gelo[n]a um inimigo. Chance de[n]infligir Congelamento.[n][e]
 
 [msg skill_017]
-[s]Dano de gelo leve a todos os inimigos. Chance[n]de infligir Congelamento.[n][e]
+[s]Dano Leve de Gelo[n]a todos os inimigos. Chance[n]de infligir Congelamento.[n][e]
 
 [msg skill_018]
-[s]Dano de gelo médio a todos os inimigos. Chance[n]de infligir Congelamento.[n][e]
+[s]Dano Médio de Gelo[n]a todos os inimigos. Chance[n]de infligir Congelamento.[n][e]
 
 [msg skill_019]
-[s]Dano de Gelo Pesado[n]a todos os inimigos. Chance[n]de infligir Congelamento.[n][e]
+[s]Dano Alto de Gelo[n]a todos os inimigos. Chance[n]de infligir Congelamento.[n][e]
 
 [msg skill_01A]
 [s]VAZIO[n][e]
@@ -89,22 +89,22 @@
 [s]VAZIO[n][e]
 
 [msg skill_01E]
-[s]Dano de vento leve[n]a um único inimigo.[n][e]
+[s]Dano Leve de Vento[n]a um único inimigo.[n][e]
 
 [msg skill_01F]
-[s]Dano de vento médio[n]a um único inimigo.[n][e]
+[s]Dano Médio de Vento[n]a um único inimigo.[n][e]
 
 [msg skill_020]
-[s]Forte dano de vento[n]a um único inimigo.[n][e]
+[s]Dano Alto de Vento[n]a um único inimigo.[n][e]
 
 [msg skill_021]
-[s]Dano de vento leve a todos os inimigos.[n][e]
+[s]Dano Leve de Vento[n] a todos os inimigos.[n][e]
 
 [msg skill_022]
-[s]Dano de vento médio a todos os inimigos.[n][e]
+[s]Dano Médio de Vento[n] a todos os inimigos.[n][e]
 
 [msg skill_023]
-[s]Dano de Vento Pesado[n]a todos os inimigos.[n][e]
+[s]Dano Alto de Vento[n]a todos os inimigos.[n][e]
 
 [msg skill_024]
 [s]VAZIO[n][e]
@@ -119,22 +119,22 @@
 [s]VAZIO[n][e]
 
 [msg skill_028]
-[s]Dano elétrico leve a[n]um inimigo. Chance de[n]infligir Choque.[n][e]
+[s]Dano Leve Elétrico[n]um inimigo. Chance de[n]infligir Choque.[n][e]
 
 [msg skill_029]
-[s]Dano elétrico médio a[n]um inimigo. Chance de[n]infligir Choque.[n][e]
+[s]Dano Médio Elétrico[n]a um inimigo. Chance de[n]infligir Choque.[n][e]
 
 [msg skill_02A]
-[s]Dano de choque pesado para[n]um inimigo. Chance de[n]infligir Choque.[n][e]
+[s]Dano Alto Elétrico[n]a um inimigo. Chance de[n]infligir Choque.[n][e]
 
 [msg skill_02B]
-[s]Dano elétrico leve a[n]todos os inimigos. Possível. de[n]infligir Eletrocussão.[n][e]
+[s]Dano Leve Elétrico[n]a todos os inimigos. Possível. de[n]infligir Choque.[n][e]
 
 [msg skill_02C]
-[s]Dano elétrico médio a[n]todos os inimigos. Chance de[n]infligir Choque.[n][e]
+[s]Dano Médio Elétrico[n]a todos os inimigos. Chance de[n]infligir Choque.[n][e]
 
 [msg skill_02D]
-[s]Dano elétrico pesado a[n]todos os inimigos. Chance de[n]infligir Choque.[n][e]
+[s]Dano Alto Elétrico[n]a todos os inimigos. Chance de[n]infligir Choque.[n][e]
 
 [msg skill_02E]
 [s]VAZIO[n][e]
@@ -161,22 +161,22 @@
 [s]Chance média de[n]essa habilidade sagrada[n]matar todos os inimigos.[n][e]
 
 [msg skill_036]
-[s]Dano sagrado mínimo[n]a um único inimigo.[n][e]
+[s]Dano Sagrado Leve[n]a um único inimigo.[n][e]
 
 [msg skill_037]
-[s]Dano sagrado médio[n]para um único inimigo.[n][e]
+[s]Dano Sagrado médio[n]a um único inimigo.[n][e]
 
 [msg skill_038]
-[s]Dano sagrado pesado[n]a um único inimigo.[n][e]
+[s]Dano Sagrado Alto[n]a um único inimigo.[n][e]
 
 [msg skill_039]
-[s]Dano leve[n]sagrado a todos os inimigos.[n][e]
+[s]Dano Sagrado Leve[n]a todos os inimigos.[n][e]
 
 [msg skill_03A]
-[s]Dano sagrado médio[n]para todos os inimigos.[n][e]
+[s]Dano Sagrado Médio[n]a todos os inimigos.[n][e]
 
 [msg skill_03B]
-[s]Pesado[n]dano sagrado a todos os inimigos.[n][e]
+[s]Dano Sagrado Alto[n]a todos os inimigos.[n][e]
 
 [msg skill_03C]
 [s]Chance mínima de[n]essa habilidade amaldiçoada[n]matar um inimigo.[n][e]
@@ -191,58 +191,58 @@
 [s]Chance média de[n]esta habilidade amaldiçoada[n]matar todos os inimigos.[n][e]
 
 [msg skill_040]
-[s]Dano amaldiçoado leve[n]a um único inimigo.[n][e]
+[s]Dano Amaldiçoado Leve[n]a um único inimigo.[n][e]
 
 [msg skill_041]
 [s]Dano Amaldiçoado Médio[n]para um único inimigo.[n][e]
 
 [msg skill_042]
-[s]Dano amaldiçoado pesado[n]a um único inimigo.[n][e]
+[s]Dano Amaldiçoado Alto[n]a um único inimigo.[n][e]
 
 [msg skill_043]
-[s]Dano leve[n]amaldiçoado a todos os inimigos.[n][e]
+[s]Dano Amaldiçoado Leve[n]a todos os inimigos.[n][e]
 
 [msg skill_044]
 [s]Dano Amaldiçoado Médio[n]para todos os inimigos.[n][e]
 
 [msg skill_045]
-[s]Pesado[n]dano amaldiçoado a todos os inimigos.[n][e]
+[s]Dano Amaldiçoado Alto[n]a todos os inimigos.[n][e]
 
 [msg skill_046]
-[s]Dano divino médio[n]a todos os inimigos.[n][e]
+[s]Dano Divino Médio[n]a todos os inimigos.[n][e]
 
 [msg skill_047]
-[s]Pesado[n]dano divino a todos os inimigos.[n][e]
+[s]Dano Divino Alto[n]a todos os inimigos.[n][e]
 
 [msg skill_048]
-[s]Pesado[n]dano divino a todos os inimigos.[n][e]
+[s]Dano Divino Alto[n]a todos os inimigos.[n][e]
 
 [msg skill_049]
-[s]Leve Nuke[n]dano a um único inimigo.[n][e]
+[s]Dano Nuclear Leve[n]a um único inimigo.[n][e]
 
 [msg skill_04A]
-[s]Dano nuclear médio[n]a um único inimigo.[n][e]
+[s]Dano Nuclear Médio[n]a um único inimigo.[n][e]
 
 [msg skill_04B]
-[s]Dano nuclear pesado[n]a um único inimigo.[n][e]
+[s]Dano Nuclear Alto[n]a um único inimigo.[n][e]
 
 [msg skill_04C]
-[s]Dano nuclear leve[n]a todos os inimigos.[n][e]
+[s]Dano Nuclear Leve[n]a todos os inimigos.[n][e]
 
 [msg skill_04D]
-[s]Dano nuclear médio[n]a todos os inimigos.[n][e]
+[s]Dano Nuclear Médio[n]a todos os inimigos.[n][e]
 
 [msg skill_04E]
-[s]Heavy Nuke[n]dano a todos os inimigos.[n][e]
+[s]Dano Nuclear Alto[n]a todos os inimigos.[n][e]
 
 [msg skill_04F]
 [s]VAZIO[n][e]
 
 [msg skill_050]
-[s]Alta chance de infligir[n]Dizzy em um inimigo.[n][e]
+[s]Alta chance de infligir[n]Tontura em um inimigo.[n][e]
 
 [msg skill_051]
-[s]Chance média de[n]infligir Dizzy[n]todos os inimigos.[n][e]
+[s]Chance média de[n]infligir Tontura[n]a todos os inimigos.[n][e]
 
 [msg skill_052]
 [s]Alta chance de infligir[n]Confusão em um inimigo.[n][e]
@@ -287,25 +287,25 @@
 [s]Chance média de[n]infligir Desespero[n]em todos os inimigos.[n][e]
 
 [msg skill_060]
-[s]Alta chance de infligir[n]Subjugação[n]em um inimigo.[n][e]
+[s]Alta chance de infligir[n]Lavagem Cerebral[n]em um inimigo.[n][e]
 
 [msg skill_061]
-[s]Chance média de[n]inflig. Subjugação[n]todos os inimigos.[n][e]
+[s]Chance média de[n]inflig. Lavagem Cerebral[n]todos os inimigos.[n][e]
 
 [msg skill_062]
-[s]Alta chance de infligir[n]Mouse em um inimigo.[n][e]
+[s]Alta chance de infligir[n]Ratificar em um inimigo.[n][e]
 
 [msg skill_063]
 [s]VAZIO[n][e]
 
 [msg skill_064]
-[s]Dano divino médio[n]a todos os inimigos.[n][e]
+[s]Dano Divino Médio[n]a todos os inimigos.[n][e]
 
 [msg skill_065]
-[s]Dano divino médio[n]a todos os inimigos.[n][e]
+[s]Dano Divino Médio[n]a todos os inimigos.[n][e]
 
 [msg skill_066]
-[s]Pesado[n]dano divino a todos os inimigos.[n][e]
+[s]Dano Divino Alto[n]a todos os inimigos.[n][e]
 
 [msg skill_067]
 [s]Drena HP de[n]um inimigo.[n][e]
@@ -359,10 +359,10 @@
 [s]VAZIO[n][e]
 
 [msg skill_078]
-[s]Grave dano de fogo[n]a um inimigo. Chance de[n]infligir Queimadura.[n][e]
+[s]Dano Incendiário Severo[n]a um inimigo. Chance de[n]infligir Queimadura.[n][e]
 
 [msg skill_079]
-[s]Grave[n]dano de fogo a todos os inimigos. Chance[n]de infligir On Fire.[n][e]
+[s]Dano Incendiário Severo[n] a todos os inimigos. Chance[n]de infligir Queimaduras.[n][e]
 
 [msg skill_07A]
 [s]VAZIO[n][e]
@@ -389,10 +389,10 @@
 [s]VAZIO[n][e]
 
 [msg skill_082]
-[s]Dano severo de gelo[n]a um inimigo. Chance de[n]infligir. congele-o.[n][e]
+[s]Dano Severo de Gelo[n]a um inimigo. Chance de[n]infligir Congelamento.[n][e]
 
 [msg skill_083]
-[s]Danos severos de gelo a todos os inimigos. Chance de[n]infligir. congele-o.[n][e]
+[s]Dano Severos de Gelo[n] a todos os inimigos. Chance de[n]infligir Congelamento.[n][e]
 
 [msg skill_084]
 [s]VAZIO[n][e]
@@ -419,10 +419,10 @@
 [s]VAZIO[n][e]
 
 [msg skill_08C]
-[s]Dano de vento severo[n]a um inimigo.[n][e]
+[s]Dano de Vento Severo[n]a um inimigo.[n][e]
 
 [msg skill_08D]
-[s]Dano de vento severo a todos os inimigos.[n][e]
+[s]Dano de Vento Severo[n]a todos os inimigos.[n][e]
 
 [msg skill_08E]
 [s]VAZIO[n][e]
@@ -449,10 +449,10 @@
 [s]VAZIO[n][e]
 
 [msg skill_096]
-[s]Dano elétrico severo a[n]um inimigo. Chance de[n]infligir Choque.[n][e]
+[s]Dano Elétrico Severo[n]a um inimigo. Chance de[n]infligir Choque.[n][e]
 
 [msg skill_097]
-[s]Dano elétrico severo a[n]todos os inimigos. Chance de[n]infligir Choque.[n][e]
+[s]Dano Elétrico Severo[n]a todos os inimigos. Chance de[n]infligir Choque.[n][e]
 
 [msg skill_098]
 [s]VAZIO[n][e]
@@ -479,10 +479,10 @@
 [s]VAZIO[n][e]
 
 [msg skill_0A0]
-[s]Ataque sagrado que[n]reduz o HP de um[n]inimigo em 50%.[n][e]
+[s]Ataque sagrado[n]que reduz o HP de um[n]inimigo em 50%.[n][e]
 
 [msg skill_0A1]
-[s]Grande chance de que[n]esta habilidade sagrada[n]mata todos os inimigos.[n][e]
+[s]Chance Alta de que[n]esta habilidade sagrada[n]mate todos os inimigos.[n][e]
 
 [msg skill_0A2]
 [s]VAZIO[n][e]
@@ -512,7 +512,7 @@
 [s]Ataque amaldiçoado que[n]reduz o HP de um[n]inimigo em 50%.[n][e]
 
 [msg skill_0AB]
-[s]Chance média de[n]esta habilidade amaldiçoada[n]matar todos os inimigos.[n][e]
+[s]Chance Média[n]de que esta habilidade amaldiçoada[n]mate todos os inimigos.[n][e]
 
 [msg skill_0AC]
 [s]Ative as habilidades Masukunda,[n]Marakunda e Matarunda.[n][e]
@@ -524,13 +524,13 @@
 [s]Ative a habilidade Masukunda.[n][e]
 
 [msg skill_0AF]
-[s]Aumenta a ativação do[n]Suporte Moral.[n][e]
+[s]Aumenta a chance de ativação do[n]Suporte Moral.[n][e]
 
 [msg skill_0B0]
-[s]Dano nuclear grave[n]a um inimigo.[n][e]
+[s]Dano Nuclear Severo[n]a um inimigo.[n][e]
 
 [msg skill_0B1]
-[s]Graves danos nucleares[n]a todos os inimigos.[n][e]
+[s]Dano Nuclear Severo[n]a todos os inimigos.[n][e]
 
 [msg skill_0B2]
 [s]VAZIO[n][e]
@@ -539,13 +539,13 @@
 [s]VAZIO[n][e]
 
 [msg skill_0B4]
-[s]Dano divino[n]a um inimigo.[n][e]
+[s]Dano Divino Severo[n]a um inimigo.[n][e]
 
 [msg skill_0B5]
-[s]Pesado[n]dano divino a todos os inimigos.[n][e]
+[s]Dano Divino Severo[n]a todos os inimigos.[n][e]
 
 [msg skill_0B6]
-[s]Pesado[n]dano divino a todos os inimigos.[n][e]
+[s]Dano Divino Severo[n]a todos os inimigos.[n][e]
 
 [msg skill_0B7]
 [s]Recuperação moderada de HP[n]para um aliado e reforço[n]ataque por 3 turnos.[n][e]
@@ -560,97 +560,97 @@
 [s]Cura todas[n]doenças não especiais de[n]todos os aliados.[n][e]
 
 [msg skill_0BB]
-[s]Dano do próximo[n]ataque mágico[n]de um aliado mais do que dobrou.[n][e]
+[s]Dano do próximo[n]ataque mágico[n]de um aliado causa o dobro de dano.[n][e]
 
 [msg skill_0BC]
 [s]Aumenta a agilidade de todos os aliados por 3 turnos.[n][e]
 
 [msg skill_0BD]
-[s]Dano do próximo[n]att. físico de aliado[n]mais do que dobrou.[n][e]
+[s]Dano do próximo[n]atk. físico de aliado[n]causa o dobro de dano.[n][e]
 
 [msg skill_0BE]
-[s]PK[n]dano leve a um inimigo.[n][e]
+[s]Dano Leve Psiquico[n]a um inimigo.[n][e]
 
 [msg skill_0BF]
-[s]Dano PK médio[n]a um inimigo.[n][e]
+[s]Dano Médio Psiquico[n]a um inimigo.[n][e]
 
 [msg skill_0C0]
-[s]Dano psicocinético[n]pesado a um inimigo.[n][e]
+[s]Dano Alto Psiquico[n]a um inimigo.[n][e]
 
 [msg skill_0C1]
-[s][n]Danos PK leves a todos[n]inimigos.[n][e]
+[s][n]Dano Leve Psiquico[n]a todos os inimigos.[n][e]
 
 [msg skill_0C2]
-[s]Dano médio[n]PK a todos os inimigos.[n][e]
+[s]Dano Médio Psiquico[n]a todos os inimigos.[n][e]
 
 [msg skill_0C3]
-[s]Danos pesados[n]Psy a todos[n]inimigos.[n][e]
+[s]Dano Alto Psiquico[n]a todos os inimigos.[n][e]
 
 [msg skill_0C4]
 [s]VAZIO[n][e]
 
 [msg skill_0C5]
-[s]Dano grave de PK[n]a um inimigo.[n][e]
+[s]Dano Severo Psiquico[n]a um inimigo.[n][e]
 
 [msg skill_0C6]
-[s]P[n]dano grave a todos os inimigos.[n][e]
+[s]P[n]Dano Severo Psiquico[n]a todos os inimigos.[n][e]
 
 [msg skill_0C7]
 [s]VAZIO[n][e]
 
 [msg skill_0C8]
-[s]Dano físico leve[n]a um inimigo.[n][e]
+[s]Dano Físico Leve[n]a um inimigo.[n][e]
 
 [msg skill_0C9]
-[s]Dano físico pesado[n]a um inimigo.[n][e]
+[s]Dano Físico Alto[n]a um inimigo.[n][e]
 
 [msg skill_0CA]
-[s]Dano físico grave[n]a um inimigo.[n][e]
+[s]Dano Físico Severo[n]a um inimigo.[n][e]
 
 [msg skill_0CB]
-[s]Dano físico colossal[n]a um inimigo.[n][e]
+[s]Dano Físico Colossal[n]a um inimigo.[n][e]
 
 [msg skill_0CC]
 [s]VAZIO[n][e]
 
 [msg skill_0CD]
-[s]Dano físico mínimo[n]a um inimigo.[n]Alta chance de crítico.[n][e]
+[s]Dano Físico Minúsculo[n]a um inimigo.[n]Alta chance de crítico.[n][e]
 
 [msg skill_0CE]
-[s]Dano físico médio[n]a um inimigo.[n]Alta chance de crítico.[n][e]
+[s]Dano Físico Médio[n]a um inimigo.[n]Alta chance de crítico.[n][e]
 
 [msg skill_0CF]
-[s]Dano físico leve[n]a um inimigo 1 a 3 vezes.[n][e]
+[s]Dano Físico Leve[n]a um inimigo 1 a 3 vezes.[n][e]
 
 [msg skill_0D0]
-[s]Dano físico leve[n]a um inimigo 3 a 4 vezes.[n][e]
+[s]Dano Físico Leve[n]a um inimigo 3 a 4 vezes.[n][e]
 
 [msg skill_0D1]
 [s]VAZIO[n][e]
 
 [msg skill_0D2]
-[s]Dano físico leve[n]a um inimigo.[n][e]
+[s]Dano Físico Leve[n]a um inimigo.[n][e]
 
 [msg skill_0D3]
-[s]Dano físico médio a[n]um inimigo. Mais poderoso[n]depois de um revezamento.[n][e]
+[s]Dano Físico Médio[n]a um inimigo. Mais poderoso[n]depois de um Revezamento.[n][e]
 
 [msg skill_0D4]
-[s]Dano físico colossal[n]a um inimigo.[n][e]
+[s]Dano Físico Colossal[n]a um inimigo.[n][e]
 
 [msg skill_0D5]
-[s][n]Dano físico colossal a um inimigo.[n]Alta chance de crítico.[n][e]
+[s][n]Dano Físico Colossal a um inimigo.[n]Alta chance de crítico.[n][e]
 
 [msg skill_0D6]
-[s]Revive todos os[n]aliados caídos restaurando[n]todos os HP.[n][e]
+[s]Revive Todos[n]os aliados caídos restaurando[n]todos os HP.[n][e]
 
 [msg skill_0D7]
-[s]Leve[n]dano físico a todos os inimigos 8 vezes.[n][e]
+[s]Dano Físico Leve[n]a todos os inimigos 8 vezes.[n][e]
 
 [msg skill_0D8]
-[s]Dano físico médio[n]para um inimigo 3 vezes[n]com alta precisão.[n][e]
+[s]Dano Físico Médio[n]para um inimigo 3 vezes[n]com alta precisão.[n][e]
 
 [msg skill_0D9]
-[s]Dano físico grave[n]a um inimigo. Média[n]chance de Medo.[n][e]
+[s]Dano Físico Severo[n]a um inimigo. Média[n]chance de Medo.[n][e]
 
 [msg skill_0DA]
 [s]VAZIO[n][e]
@@ -659,40 +659,40 @@
 [s]VAZIO[n][e]
 
 [msg skill_0DC]
-[s]Dano físico médio[n]a um inimigo. Mais poderoso[n]se cercado.[n][e]
+[s]Dano Físico Médio[n]a um inimigo. Mais poderoso[n]se cercado.[n][e]
 
 [msg skill_0DD]
-[s]Dano Físico Pesado a[n]um inimigo. Mais poderoso[n]depois de um revezamento.[n][e]
+[s]Dano Físico Alto[n]a um inimigo. Mais poderoso[n]depois de um revezamento.[n][e]
 
 [msg skill_0DE]
-[s]Dano físico severo a[n]um inimigo. Mais poderoso[n]depois de um revezamento.[n][e]
+[s]Dano Físico Severo[n]a um inimigo. Mais poderoso[n]depois de um revezamento.[n][e]
 
 [msg skill_0DF]
 [s]VAZIO[n][e]
 
 [msg skill_0E0]
-[s]Dano de arma médio[n]a um inimigo.[n][e]
+[s]Dano de Arma Médio[n]a um inimigo.[n][e]
 
 [msg skill_0E1]
-[s][n]Dano de arma leve a todos os inimigos[n]3 vezes.[n][e]
+[s][n]Dano de Arma Leve[n] a todos os inimigos[n]3 vezes.[n][e]
 
 [msg skill_0E2]
-[s][n]Maior dano de tiro a um inimigo. Alta[n]chance de crit.[n][e]
+[s][n]Dano de Arma Severo[n]Em um inimigo com Alta[n]Chance de Crítico.[n][e]
 
 [msg skill_0E3]
-[s][n]Maior dano de arma a todos os inimigos.[n][e]
+[s][n]Dano de Arma Severo[n]a todos os inimigos.[n][e]
 
 [msg skill_0E4]
-[s][n]Dano de arma leve a um inimigo[n]2 vezes.[n][e]
+[s][n]Dano de Arma Leve[n]a um inimigo 2 vezes.[n][e]
 
 [msg skill_0E5]
 [s]VAZIO[n][e]
 
 [msg skill_0E6]
-[s]Dano físico médio[n]para todos os inimigos.[n][e]
+[s]Dano Físico Médio[n]para todos os inimigos.[n][e]
 
 [msg skill_0E7]
-[s]Dano físico severo a todos os inimigos.[n][e]
+[s]Dano Físico Severo[n]a todos os inimigos.[n][e]
 
 [msg skill_0E8]
 [s]VAZIO[n][e]
@@ -704,13 +704,13 @@
 [s]VAZIO[n][e]
 
 [msg skill_0EB]
-[s]Dano físico médio[n]para todos os inimigos.[n][e]
+[s]Dano Físico Médio[n]para todos os inimigos.[n][e]
 
 [msg skill_0EC]
-[s]Dano físico pesado[n]a todos os inimigos.[n][e]
+[s]Dano Físico Alto[n]a todos os inimigos.[n][e]
 
 [msg skill_0ED]
-[s]Danos físicos colossais a todos os inimigos.[n][e]
+[s]Dano Físicos Colossal[n]a todos os inimigos.[n][e]
 
 [msg skill_0EE]
 [s]VAZIO[n][e]
@@ -722,16 +722,16 @@
 [s]VAZIO[n][e]
 
 [msg skill_0F1]
-[s]Leve[n]Dano físico[n]para todos os inimigos[n]1 a 3 vezes.[n][e]
+[s]Dano Físico Leve[n]para todos os inimigos[n]1 a 3 vezes.[n][e]
 
 [msg skill_0F2]
-[s]Dano físico mínimo[n]a todos os inimigos[n]2 a 4 vezes.[n][e]
+[s]Dano Físico Minúsculo[n]a todos os inimigos[n]2 a 4 vezes.[n][e]
 
 [msg skill_0F3]
-[s]Dano físico médio[n]para todos os inimigos em[n]1 a 2x.[n][e]
+[s]Dano Físico Médio[n]para todos os inimigos em[n]1 a 2x.[n][e]
 
 [msg skill_0F4]
-[s]Dano físico médio[n]para todos os inimigos[n]1 a 3x.[n][e]
+[s]Dano Físico Médio[n]para todos os inimigos[n]1 a 3x.[n][e]
 
 [msg skill_0F5]
 [s]VAZIO[n][e]
@@ -749,19 +749,19 @@
 [s]VAZIO[n][e]
 
 [msg skill_0FA]
-[s]Dano físico leve[n]a um inimigo 2 vezes.[n][e]
+[s]Dano Físico Leve[n]a um inimigo 2 vezes.[n][e]
 
 [msg skill_0FB]
-[s]Dano físico médio[n]a um inimigo.[n][e]
+[s]Dano Físico Médio[n]a um inimigo.[n][e]
 
 [msg skill_0FC]
 [s]VAZIO[n][e]
 
 [msg skill_0FD]
-[s]Dano físico mínimo[n]a um inimigo de 3 a 5 vezes.[n][e]
+[s]Dano Físico Minúsculo[n]a um inimigo de 3 a 5 vezes.[n][e]
 
 [msg skill_0FE]
-[s]Dano físico médio[n]a um inimigo 2 a 3 vezes.[n][e]
+[s]Dano Físico Médio[n]a um inimigo 2 a 3 vezes.[n][e]
 
 [msg skill_0FF]
 [s]VAZIO[n][e]
@@ -779,64 +779,64 @@
 [s]VAZIO[n][e]
 
 [msg skill_104]
-[s]Dano físico médio a um[n]inimigo. Chance média[n]de Tontura.[n][e]
+[s]Dano Físico Médio a um[n]inimigo. Chance média[n]de Tontura.[n][e]
 
 [msg skill_105]
-[s]Dano físico médio a[n]um inimigo. Chance média[n]de Confusão.[n][e]
+[s]Dano Físico Médio a[n]um inimigo. Chance média[n]de Confusão.[n][e]
 
 [msg skill_106]
-[s]Dano físico leve[n]a um inimigo. Chance média[n]de Medo.[n][e]
+[s]Dano Físico Leve[n]a um inimigo. Chance média[n]de Medo.[n][e]
 
 [msg skill_107]
-[s]Dano físico médio a um[n]inimigo. Chance média[n]de amnésia.[n][e]
+[s]Dano Físico Médio a um[n]inimigo. Chance média[n]de Amnésia.[n][e]
 
 [msg skill_108]
-[s]Dano Físico Pesado a um[n]inimigo. Chance média[n]de Fama.[n][e]
+[s]Dano Físico Alto a um[n]inimigo. Chance média[n]de ficar Faminto.[n][e]
 
 [msg skill_109]
-[s][n]Dano de arma leve a um inimigo.[n]Chance média de dormir.[n][e]
+[s][n]Dano de Arma Leve a um inimigo.[n]Chance média de Dormir.[n][e]
 
 [msg skill_10A]
-[s]Dano físico médio a um[n]inimigo. Chance média[n]de Fúria.[n][e]
+[s]Dano Físico Médio a um[n]inimigo. Chance média[n]de Fúria.[n][e]
 
 [msg skill_10B]
-[s]Dano Físico Pesado a um[n]inimigo. Chance média[n]de Desespero.[n][e]
+[s]Dano Físico Alto a um[n]inimigo. Chance média[n]de Desespero.[n][e]
 
 [msg skill_10C]
-[s]Dano físico médio[n]a um inimigo. Chance média[n]de Subjugação.[n][e]
+[s]Dano Físico Médio[n]a um inimigo. Chance média[n]de Lavagem Cerebral.[n][e]
 
 [msg skill_10D]
 [s]VAZIO[n][e]
 
 [msg skill_10E]
-[s]Dano físico médio a[n]todos os inimigos. Baixa[n]chance de tontura.[n][e]
+[s]Dano Físico Médio a[n]todos os inimigos. Baixa[n]chance de tontura.[n][e]
 
 [msg skill_10F]
-[s]Dano físico médio a[n]todos os inimigos. Baixa chance[n]de Confusão.[n][e]
+[s]Dano Físico Médio a[n]todos os inimigos. Baixa chance[n]de Confusão.[n][e]
 
 [msg skill_110]
-[s]Dano Físico Pesado a[n]todos os inimigos. Baixa[n]chance de Medo.[n][e]
+[s]Dano Físico Alto a[n]todos os inimigos. Baixa[n]chance de Medo.[n][e]
 
 [msg skill_111]
-[s]Dano físico leve a[n]todos os inimigos. Baixa chance[n]de amnésia.[n][e]
+[s]Dano Físico Leve a[n]todos os inimigos. Baixa chance[n]de amnésia.[n][e]
 
 [msg skill_112]
-[s]Dano físico pesado[n]a todos os inimigos. Baixa[n]chance de Fama.[n][e]
+[s]Dano Físico Alto[n]a todos os inimigos. Baixa[n]chance de ficar Faminto.[n][e]
 
 [msg skill_113]
-[s]Dano físico médio[n]para todos os inimigos. Baixa[n]chance de dormir.[n][e]
+[s]Dano Físico Médio[n]para todos os inimigos. Baixa[n]chance de dormir.[n][e]
 
 [msg skill_114]
-[s]Dano físico médio a[n]todos os inimigos. Baixa[n]chance de Fúria.[n][e]
+[s]Dano Físico Médio a[n]todos os inimigos. Baixa[n]chance de Fúria.[n][e]
 
 [msg skill_115]
-[s]Dano físico médio a[n]todos os inimigos. Baixa chance[n]de Desespero.[n][e]
+[s]Dano Físico Médio a[n]todos os inimigos. Baixa chance[n]de Desespero.[n][e]
 
 [msg skill_116]
-[s]Dano Físico Pesado a[n]todos os inimigos. Baixa chance[n]de subjugação.[n][e]
+[s]Dano Físico Alto a[n]todos os inimigos. Baixa chance[n]de lavagem cerebral.[n][e]
 
 [msg skill_117]
-[s]Dano físico colossal[n]a um inimigo.[n][e]
+[s]Dano Físico Colossal[n]a um inimigo.[n][e]
 
 [msg skill_118]
 [s]VAZIO[n][e]
@@ -872,7 +872,7 @@
 [s]O dano do próximo[n]ataque físico[n]de seus aliados dobrou.[n][e]
 
 [msg skill_123]
-[s]Dano físico médio[n]a todos os inimigos.[n]Alta chance de crítico.[n][e]
+[s]Dano Físico Médio[n]a todos os inimigos.[n]Alta chance de crítico.[n][e]
 
 [msg skill_124]
 [s]Diminui ATK/Def/[n]Precisão/Evasão[n]de todos os inimigos.[n][e]
@@ -881,7 +881,7 @@
 [s]Aumenta ATK/Def/[n]Evasão/Precisão[n]de todos os aliados.[n][e]
 
 [msg skill_126]
-[s]Dano do próximo[n]atct[n]mágico de todos os aliados mais do que dobrou.[n][e]
+[s]Dano do próximo[n]atct[n]mágico de todos os aliados causa o dobro de dano.[n][e]
 
 [msg skill_127]
 [s]Em batalha, chance de[n]fortalecer ou curar[n]todos os aliados.[n][e]
@@ -893,7 +893,7 @@
 [s]Dano divino colossal a um[n]inimigo. Extremamente eficaz[n]se o inimigo estiver abatido.[n][e]
 
 [msg skill_12A]
-[s]Dano físico grave[n]a um inimigo 2 vezes.[n][e]
+[s]Dano Físico Severo[n]a um inimigo 2 vezes.[n][e]
 
 [msg skill_12B]
 [s]Ataque que derruba todos[n]inimigos (utilizável apenas[n]em emboscadas).[n][e]
@@ -980,10 +980,10 @@
 [s]VAZIO[n][e]
 
 [msg skill_147]
-[s]Cura Confusão/Medo/[n]Desespero/Subjugação/[n]Fúria para cada aliado.[n][e]
+[s]Cura Confusão/Medo/[n]Desespero/Lavagem Cerebral/[n]Fúria para cada aliado.[n][e]
 
 [msg skill_148]
-[s]Cure a confusão/medo/[n]desespero/subjugação/[n]raiva de um aliado.[n][e]
+[s]Cure a confusão/medo/[n]desespero/lavagem cerebral/[n]raiva de um aliado.[n][e]
 
 [msg skill_149]
 [s]Cura Queimadura/[n]Congelamento/Choque[n]de um aliado.[n][e]
@@ -1139,31 +1139,31 @@
 [s]VAZIO[n][e]
 
 [msg skill_17C]
-[s]Adiciona resistência[n]fogo a um aliado por[n]3 turnos.[n][e]
+[s]Adiciona Resistência Incendiária[n]a um aliado por 3 turnos.[n][e]
 
 [msg skill_17D]
-[s]Adiciona[n]resistência ao gelo a um aliado por[n]3 turnos.[n][e]
+[s]Adiciona[n]Resistência ao Gelo[n] a um aliado por 3 turnos.[n][e]
 
 [msg skill_17E]
-[s]Adiciona[n]resistência elétrica a um aliado por[n]3 turnos.[n][e]
+[s]Adiciona[n]Resistência Elétrica[n]a um aliado por 3 turnos.[n][e]
 
 [msg skill_17F]
-[s]Adiciona[n]resistência ao vento a um aliado por[n]3 turnos.[n][e]
+[s]Adiciona Resistência ao Vento[n]a um aliado por 3 turnos.[n][e]
 
 [msg skill_180]
 [s]VAZIO[n][e]
 
 [msg skill_181]
-[s]Nega a resistência de todos os inimigos ao[n]fogo,[n]mas não à Muralha de Fogo.[n][e]
+[s]Nega a Resistência Incendiária[n] de todos os inimigos,[n]mas não à Muralha Incendiária.[n][e]
 
 [msg skill_182]
-[s]Cancele o res. to[n]ice de todos os inimigos, mas não[n]Ice Wall.[n][e]
+[s]Nega a Resistência a[n]Gelo de todos os inimigos, mas não a[n]Muralha de Gelo.[n][e]
 
 [msg skill_183]
-[s]Nega a[n]resistência ao vento de todos os inimigos,[n]mas não a Wind Wall.[n][e]
+[s]Nega a Resistência ao Vento[n]de todos os inimigos,[n]mas não a Muralha de Vento.[n][e]
 
 [msg skill_184]
-[s]Nega a[n]resistência elétrica de todos os inimigos,[n]mas não a Electric Wall.[n][e]
+[s]Nega a Resistência Elétrica[n]de todos os inimigos,[n]mas não a Muralha Elétrica.[n][e]
 
 [msg skill_185]
 [s]VAZIO[n][e]
@@ -1187,7 +1187,7 @@
 [s]Anule a resistência nuclear[n]de todos os inimigos,[n]mas não a Muralha Nuclear.[n][e]
 
 [msg skill_18C]
-[s]Nega a resistência psi[n]de todos os inimigos, mas[n]não a PK Wall.[n][e]
+[s]Nega a Resistência Psiquica[n]de todos os inimigos, mas[n]não a Barreira Psiquica.[n][e]
 
 [msg skill_18D]
 [s]VAZIO[n][e]
@@ -1337,7 +1337,7 @@
 [s]VAZIO[n][e]
 
 [msg skill_1BE]
-[s]Dano mínimo de vento[n]a todos os inimigos.[n][e]
+[s]Dano Minúsculo de vento[n]a todos os inimigos.[n][e]
 
 [msg skill_1BF]
 [s]VAZIO[n][e]
@@ -1361,7 +1361,7 @@
 [s]VAZIO[n][e]
 
 [msg skill_1C6]
-[s]Dano físico mínimo[n]a um inimigo de 2 a 5 vezes.[n][e]
+[s]Dano Físico mínimo[n]a um inimigo de 2 a 5 vezes.[n][e]
 
 [msg skill_1C7]
 [s]VAZIO[n][e]
@@ -1610,10 +1610,10 @@
 [s]Item: Cancela as penalidades estatísticas de[n]todos os aliados.[n][e]
 
 [msg skill_219]
-[s]Item:[n]50 de dano de fogo[n][e]
+[s]Item:[n]50 de dano incendiário[n][e]
 
 [msg skill_21A]
-[s]Item:[n]50 de dano de fogo[n][e]
+[s]Item:[n]50 de dano incendiário[n][e]
 
 [msg skill_21B]
 [s]Item:[n]50 Dano de Gelo[n][e]
@@ -1643,7 +1643,7 @@
 [s]Item:[n]Morte Instantânea[n]amaldiçoado[n][e]
 
 [msg skill_224]
-[s]Item:[n]150 de dano de fogo[n][e]
+[s]Item:[n]150 de dano incendiário[n][e]
 
 [msg skill_225]
 [s]Item:[n]150 de dano de vento[n][e]
@@ -1673,10 +1673,10 @@
 [s]Item:[n]50 de dano amaldiçoado[n][e]
 
 [msg skill_22E]
-[s]Item:[n]50 de dano PK[n][e]
+[s]Item:[n]50 de dano Psiquico[n][e]
 
 [msg skill_22F]
-[s]Item:[n]50 de dano PK[n][e]
+[s]Item:[n]50 de dano Psiquico[n][e]
 
 [msg skill_230]
 [s]Assunto:[n]50 de dano nuclear[n][e]
@@ -1688,7 +1688,7 @@
 [s]Assunto:[n]150 de dano nuclear[n][e]
 
 [msg skill_233]
-[s]Item:[n]150 de dano PK[n][e]
+[s]Item:[n]150 de dano Psiquico[n][e]
 
 [msg skill_234]
 [s]Item:[n]150 de dano sagrado[n][e]
@@ -1982,7 +1982,7 @@
 [s]VAZIO[n][e]
 
 [msg skill_295]
-[s]Dano pesado a um[n]inimigo, ignorando[n]suas afinidades.[n][e]
+[s]Dano alto a um[n]inimigo, ignorando[n]suas afinidades.[n][e]
 
 [msg skill_296]
 [s]Projétil criado pelos[n]Sete Pecados Capitais.[n]Pode ferir até mesmo um deus.[n][e]
@@ -2018,7 +2018,7 @@
 [s]VAZIO[n][e]
 
 [msg skill_2A1]
-[s]Dano físico colossal[n]a um inimigo.[n][e]
+[s]Dano Físico Colossal[n]a um inimigo.[n][e]
 
 [msg skill_2A2]
 [s]VAZIO[n][e]
@@ -2114,37 +2114,37 @@
 [s]Restaura 50% HP e[n]aumenta a Precisão/Evasão[n]de todos os aliados.[n][e]
 
 [msg skill_2C1]
-[s]Dano físico pesado[n]a um inimigo 2 vezes.[n]Alta precisão.[n][e]
+[s]Dano Físico Alto[n]a um inimigo 2 vezes.[n]Alta precisão.[n][e]
 
 [msg skill_2C2]
-[s]Dano divino pesado a todos os inimigos. Chance média[n]de morte instantânea.[n][e]
+[s]Dano divino alto a todos os inimigos. Chance média[n]de morte instantânea.[n][e]
 
 [msg skill_2C3]
-[s]Dano de maldição pesado para[n]cada inimigo. Chance: Medo/[n]Confusão/Desespero[n][e]
+[s]Dano de maldição alto para[n]cada inimigo. Chance: Medo/[n]Confusão/Desespero[n][e]
 
 [msg skill_2C4]
 [s]Light Holy Damage[n]para todos os inimigos[n]4 a 8 vezes.[n][e]
 
 [msg skill_2C5]
-[s]Dano físico colossal[n]a um inimigo. Diminui[n]ataque.[n][e]
+[s]Dano Físico Colossal[n]a um inimigo. Diminui[n]ataque.[n][e]
 
 [msg skill_2C6]
-[s]Dano de Fogo Atroz a[n]todos os inimigos com uma[n]alta chance de infligir Medo.[n][e]
+[s]Dano Severo Incendiário[n]a todos os inimigos com uma[n]alta chance de infligir Medo.[n][e]
 
 [msg skill_2C7]
-[s]Pesado[n]dano amaldiçoado a todos os inimigos.[n][e]
+[s]Dano Amaldiçoado Alto[n]a todos os inimigos.[n][e]
 
 [msg skill_2C8]
 [s]Restaura totalmente HP[n]e remove[n]penalidades de estatísticas. de cada aliado.[n][e]
 
 [msg skill_2C9]
-[s]Dano Divino Pesado[n]para todos os inimigos 3 vezes.[n][e]
+[s]Dano Divino Alto[n]para todos os inimigos 3 vezes.[n][e]
 
 [msg skill_2CA]
 [s]Restaura 50% do HP e[n]aumenta ATK/Def/Precisão/[n]Elusivo. para cada aliado.[n][e]
 
 [msg skill_2CB]
-[s]Dano físico severo a todos os inimigos. Alta chance de[n]crit 1 a 2 vezes.[n][e]
+[s]Dano Físico severo a todos os inimigos. Alta chance de[n]crit 1 a 2 vezes.[n][e]
 
 [msg skill_2CC]
 [s]Alta chance[n]de infligir Sono[n]em todos os inimigos.[n][e]
@@ -2369,49 +2369,49 @@
 [s]VAZIO[n][e]
 
 [msg skill_316]
-[s]Dano pesado de maldição[n]a um inimigo.[n][e]
+[s]Dano Alto de Maldição[n]a um inimigo.[n][e]
 
 [msg skill_317]
-[s]Dano elétrico pesado[n]a um inimigo.[n][e]
+[s]Dano Elétrico Alto[n]a um inimigo.[n][e]
 
 [msg skill_318]
-[s]Dano de vento severo[n]a um inimigo. Eficaz[n]contra On Fire.[n][e]
+[s]Dano de Vento Severo[n]a um inimigo. Eficaz[n]contra Queimaduras.[n][e]
 
 [msg skill_319]
-[s]Grave dano de fogo[n]a um único inimigo.[n][e]
+[s]Dano Severo Incendiário[n]a um único inimigo.[n][e]
 
 [msg skill_31A]
-[s]Dano de gelo severo[n]a um único inimigo.[n][e]
+[s]Dano de Gelo Severo[n]a um único inimigo.[n][e]
 
 [msg skill_31B]
-[s]Dano nuclear grave[n]a um inimigo.[n][e]
+[s]Dano Nuclear Severo[n]a um inimigo.[n][e]
 
 [msg skill_31C]
-[s]Dano grave de PK[n]a um inimigo.[n][e]
+[s]Dano Severo Psiquico[n]a um inimigo.[n][e]
 
 [msg skill_31D]
 [s]VAZIO[n][e]
 
 [msg skill_31E]
-[s]Dano sagrado grave[n]a um único inimigo.[n][e]
+[s]Dano Sagrado Severo[n]a um único inimigo.[n][e]
 
 [msg skill_31F]
-[s]Dano divino[n]a um inimigo.[n][e]
+[s]Dano Divino Severo[n]a um inimigo.[n][e]
 
 [msg skill_320]
 [s]10% de chance de[n]refletir ataques físicos.[n][e]
 
 [msg skill_321]
-[s]15% de chance de[n]refletir ataques físicos.[n]Não acumula.[n][e]
+[s]15% de chance de[n]refletir ataques físicos.[n]Não pode acumular[n][e]
 
 [msg skill_322]
-[s]20% de chance de[n]refletir ataques físicos.[n]Não acumula.[n][e]
+[s]20% de chance de[n]refletir ataques físicos.[n]Não pode acumular[n][e]
 
 [msg skill_323]
-[s]Diminui a chance[n]de ser atingido por[n]Queima.[n][e]
+[s]Diminui a chance[n]de ser atingido por[n]Queimaduras.[n][e]
 
 [msg skill_324]
-[s]Previne Em chamas.[n][e]
+[s]Previne Queimaduras.[n][e]
 
 [msg skill_325]
 [s]Quando abatido,[n]revive com 1 HP[n]1 vez por batalha.[n][e]
@@ -2429,58 +2429,58 @@
 [s]Sobrevive a[n]matanças instantâneas[n]com 1 HP.[n][e]
 
 [msg skill_32A]
-[s]Aumenta a evasão[n]das habilidades de Fogo.[n][e]
+[s]Aumenta a evasão[n]das habilidades incendiárias.[n][e]
 
 [msg skill_32B]
-[s]Aumenta bastante a evasão[n]das habilidades de Fogo.[n]Não acumula.[n][e]
+[s]Aumenta bastante a evasão[n]das habilidades incendiárias.[n]Não pode acumular[n][e]
 
 [msg skill_32C]
 [s]Aumenta a evasão[n]das habilidades de Gelo.[n][e]
 
 [msg skill_32D]
-[s]Aumenta bastante a evasão[n]das habilidades de Gelo.[n]Não acumula.[n][e]
+[s]Aumenta bastante a evasão[n]das habilidades de Gelo.[n]Não pode acumular[n][e]
 
 [msg skill_32E]
 [s]Aumenta a evasão[n]das habilidades do Vento.[n][e]
 
 [msg skill_32F]
-[s]Aumenta bastante a evasão[n]das habilidades do Vento.[n]Não acumula.[n][e]
+[s]Aumenta bastante a evasão[n]das habilidades do Vento.[n]Não pode acumular[n][e]
 
 [msg skill_330]
 [s]Aumenta a evasão[n]de habilidades elétricas.[n][e]
 
 [msg skill_331]
-[s]Aumenta bastante a evasão[n]de habilidades elétricas.[n]Não acumula.[n][e]
+[s]Aumenta bastante a evasão[n]de habilidades elétricas.[n]Não pode acumular[n][e]
 
 [msg skill_332]
 [s]Aumenta a evasão[n]de habilidades físicas.[n][e]
 
 [msg skill_333]
-[s]Aumenta bastante a evasão[n]de habilidades físicas.[n]Não acumula.[n][e]
+[s]Aumenta bastante a evasão[n]de habilidades físicas.[n]Não pode acumular[n][e]
 
 [msg skill_334]
-[s]Melhore as habilidades de fogo[n]em 25%.[n][e]
+[s]Melhore as habilidades incendiárias[n]em 25%.[n][e]
 
 [msg skill_335]
-[s]Melhore as habilidades de[n]Disparo em 50%.[n]Acumulável.[n][e]
+[s]Melhore as habilidades de[n]Disparo em 50%.[n]Pode Acumular.[n][e]
 
 [msg skill_336]
 [s]Aprimore as[n]habilidades de Ice em 25%.[n][e]
 
 [msg skill_337]
-[s]Aumenta[n]as habilidades de Gelo em 50%.[n]Acumula.[n][e]
+[s]Aumenta[n]as habilidades de Gelo em 50%.[n]Pode Acumular[n][e]
 
 [msg skill_338]
-[s]Aprimore as habilidades de Wind em 25%.[n][e]
+[s]Aprimore as habilidades de Vento em 25%.[n][e]
 
 [msg skill_339]
-[s]Aumenta as habilidades de[n]Wind em 50%.[n]Acumula.[n][e]
+[s]Aumenta as habilidades de[n]Vento em 50%.[n]Pode Acumular[n][e]
 
 [msg skill_33A]
 [s]Aumenta as habilidades elétricas em 25%.[n][e]
 
 [msg skill_33B]
-[s]Aprimora[n]habilidades elétricas em 50%.[n]Acumulável.[n][e]
+[s]Aprimora[n]habilidades elétricas em 50%.[n]Pode Acumular.[n][e]
 
 [msg skill_33C]
 [s]Aumenta a evasão[n]de ataques mágicos,[n]exceto os divinos.[n][e]
@@ -2513,10 +2513,10 @@
 [s]Restaura 7 SP durante[n]cada turno na batalha.[n][e]
 
 [msg skill_346]
-[s]Aumenta muito a evasão[n]de habilidades não-Hama.[n]Não acumula.[n][e]
+[s]Aumenta muito a evasão[n]de habilidades não-Hama.[n]Não pode acumular[n][e]
 
 [msg skill_347]
-[s]Aumenta bastante a evasão[n]de habilidades não Mudo.[n]Não acumula.[n][e]
+[s]Aumenta bastante a evasão[n]de habilidades não Mudo.[n]Não pode acumular[n][e]
 
 [msg skill_348]
 [s]Tarukaja[n]automática no início da[n]batalha.[n][e]
@@ -2609,22 +2609,22 @@
 [s]VAZIO[n][e]
 
 [msg skill_366]
-[s]Aumenta a resistência a[n]ataques de fogo. Anula[n]fraqueza relativa.[n][e]
+[s]Aumenta a resistência a[n]ataques incendiárias. Anula[n]fraqueza relativa.[n][e]
 
 [msg skill_367]
-[s]Nega[n]ataques de fogo.[n][e]
+[s]Nega[n]ataques incendiários.[n][e]
 
 [msg skill_368]
-[s]Reflete[n]ataques de fogo.[n][e]
+[s]Reflete[n]ataques incendiários.[n][e]
 
 [msg skill_369]
-[s]Absorve dano causado[n]por ataques de Fogo.[n][e]
+[s]Absorve dano causado[n]por ataques incendiários.[n][e]
 
 [msg skill_36A]
 [s]Anula[n]ataques Mudo.[n][e]
 
 [msg skill_36B]
-[s]Aumenta a resistência a[n]att. de Gelo. Anula[n]fraqueza relativa.[n][e]
+[s]Aumenta a resistência a[n]atk. de Gelo. Anula[n]fraqueza relativa.[n][e]
 
 [msg skill_36C]
 [s]Negue os ataques de[n]Ice.[n][e]
@@ -2636,13 +2636,13 @@
 [s]Absorve dano[n]de ataques de Gelo.[n][e]
 
 [msg skill_36F]
-[s]Aumento de 15% no XP[n]ganho em batalha.[n][e]
+[s]Aumento de 15% em XP[n]ganho em batalha.[n][e]
 
 [msg skill_370]
 [s]Aumenta a resistência a[n]ataques de vento. Anula[n]fraqueza relativa.[n][e]
 
 [msg skill_371]
-[s]Nega os[n]ataques de Wind.[n][e]
+[s]Nega os[n]ataques de Vento.[n][e]
 
 [msg skill_372]
 [s]Reflete os[n]ataques do Vento.[n][e]
@@ -2753,7 +2753,7 @@
 [s]Reduz o custo[n]em SP e HP das habilidades em 25%.[n][e]
 
 [msg skill_396]
-[s]Aumenta a chance de infligir Subjugação.[n][e]
+[s]Aumenta a chance de infligir Lavagem Cerebral.[n][e]
 
 [msg skill_397]
 [s]Aumenta consideravelmente a chance de crítico.[n][e]
@@ -2762,10 +2762,10 @@
 [s]Diminui a chance[n]de ser afetado[n]por Tontura.[n][e]
 
 [msg skill_399]
-[s]Diminui a chance[n]de ser atingido[n]por Confusion.[n][e]
+[s]Diminui a chance[n]de ser atingido[n]por Confusão.[n][e]
 
 [msg skill_39A]
-[s]Diminui a chance[n]de ser atingido[n]por Fear.[n][e]
+[s]Diminui a chance[n]de ser atingido[n]por Medo.[n][e]
 
 [msg skill_39B]
 [s]Diminui a chance[n]de ser afetado[n]pela Amnésia.[n][e]
@@ -2774,7 +2774,7 @@
 [s]Diminui a chance[n]de ser atingido[n]por Sleep.[n][e]
 
 [msg skill_39D]
-[s]Diminui a chance[n]de ser atingido[n]por Fury.[n][e]
+[s]Diminui a chance[n]de ser atingido[n]por Fúria.[n][e]
 
 [msg skill_39E]
 [s]Diminui a chance[n]de ser atingido[n]pelo Desespero.[n][e]
@@ -2783,19 +2783,19 @@
 [s]Aumenta a chance de[n]acidentes de fusão.[n][e]
 
 [msg skill_3A0]
-[s]Diminui a chance[n]de ser atingido[n]por Subjugação.[n][e]
+[s]Diminui a chance[n]de ser atingido[n]por Lavagem Cerebral.[n][e]
 
 [msg skill_3A1]
-[s]Atualiza todos os ataques.[n]Acumula.[n][e]
+[s]Fortalece todos os ataques.[n]Pode acumular.[n][e]
 
 [msg skill_3A2]
-[s]Previne a vertigem.[n][e]
+[s]Previne Tontura.[n][e]
 
 [msg skill_3A3]
-[s]Evita confusão.[n][e]
+[s]Evita Confusão.[n][e]
 
 [msg skill_3A4]
-[s]Previne o medo.[n][e]
+[s]Previne o Medo.[n][e]
 
 [msg skill_3A5]
 [s]Previne a Amnésia.[n][e]
@@ -2810,16 +2810,16 @@
 [s]Previne o Desespero.[n][e]
 
 [msg skill_3A9]
-[s]Restaura 15% HP[n]e 15 SP durante cada turno[n]na batalha.[n][e]
+[s]Restaura 15% HP[n]e 15% SP durante cada turno[n]na batalha.[n][e]
 
 [msg skill_3AA]
-[s]Evita a subjugação.[n][e]
+[s]Previne Lavagem Cerebral.[n][e]
 
 [msg skill_3AB]
 [s]Restaura 25% do HP[n]durante cada turno na[n]batalha.[n][e]
 
 [msg skill_3AC]
-[s]Aumenta a chance de[n]infligir On Fire.[n][e]
+[s]Aumenta a chance de[n]infligir Queimaduras.[n][e]
 
 [msg skill_3AD]
 [s]Aumenta a chance de[n]infligir Congelamento.[n][e]
@@ -2831,13 +2831,13 @@
 [s]VAZIO[n][e]
 
 [msg skill_3B0]
-[s]Aumenta a chance de acerto crítico[n]em uma emboscada.[n][e]
+[s]Aumenta a chance de Acerto Crítico[n]em uma emboscada.[n][e]
 
 [msg skill_3B1]
-[s]Aumenta[n]a chance de crítico quando cercado.[n][e]
+[s]Aumenta[n]a chance de Crítico quando cercado.[n][e]
 
 [msg skill_3B2]
-[s]Se cercado, diminui. muito[n]a Precisão de cada [n]inimigo att. (divina etc.).[n][e]
+[s]Se cercado, diminui. muito[n]a Precisão de cada [n]inimigo atk. (divina etc.).[n][e]
 
 [msg skill_3B3]
 [s]Restaura 5% do[n]max HP e 10 SP a cada turno[n]em uma emboscada.[n][e]
@@ -2846,7 +2846,7 @@
 [s]VAZIO[n][e]
 
 [msg skill_3B5]
-[s]Lança automaticamente[n]Sukukaja após um[n]Relay.[n][e]
+[s]Lança automaticamente[n]Sukukaja após um[n]Revezamento.[n][e]
 
 [msg skill_3B6]
 [s]Aumenta bastante a evasão[n]todos os ataques na[n]chuva ou na neve.[n][e]
@@ -2861,7 +2861,7 @@
 [s]Aumenta as habilidades de[n]gun em 25%.[n][e]
 
 [msg skill_3BA]
-[s]Aumenta as habilidades de[n]arma em 50%.[n]Acumula.[n][e]
+[s]Aumenta as habilidades de[n]arma em 50%.[n]Pode Acumular[n][e]
 
 [msg skill_3BB]
 [s]Aumenta a[n]chance crítica de[n]arma de fogo.[n][e]
@@ -2882,49 +2882,49 @@
 [s]VAZIO[n][e]
 
 [msg skill_3C1]
-[s]Aumenta a resistência a[n]att. psicocinético. Anula[n]fraqueza relativa.[n][e]
+[s]Aumenta a resistência a[n]atk. Psiquicos. Anula[n]fraqueza relativa.[n][e]
 
 [msg skill_3C2]
-[s]Anula[n]ataques psicocinéticos.[n][e]
+[s]Anula[n]ataques Psiquicos.[n][e]
 
 [msg skill_3C3]
-[s]Reflete[n]ataques psicocinéticos.[n][e]
+[s]Reflete[n]ataques Psiquicos.[n][e]
 
 [msg skill_3C4]
-[s]Absorve[n]dano causado por[n]ataques psicocinéticos.[n][e]
+[s]Absorve[n]dano causado por[n]ataques Psiquicos.[n][e]
 
 [msg skill_3C5]
 [s]VAZIO[n][e]
 
 [msg skill_3C6]
-[s]Aumenta[n]habilidades nucleares em 25%.[n][e]
+[s]Aumenta[n]habilidades Nucleares em 25%.[n][e]
 
 [msg skill_3C7]
-[s]Aumenta[n]habilidades nucleares em 50%.[n]Acumula.[n][e]
+[s]Aumenta[n]habilidades Nucleares em 50%.[n]Pode acumular.[n][e]
 
 [msg skill_3C8]
 [s]VAZIO[n][e]
 
 [msg skill_3C9]
-[s]Aumenta as habilidades[n]psicocinéticas em 25%.[n][e]
+[s]Aumenta as habilidades[n]psiquicas em 25%.[n][e]
 
 [msg skill_3CA]
-[s]Aprimora[n]habilidades psicocinéticas em 50%.[n]Acumulável.[n][e]
+[s]Aprimora[n]habilidades psiquicas em 50%.[n]Pode Acumular.[n][e]
 
 [msg skill_3CB]
 [s]VAZIO[n][e]
 
 [msg skill_3CC]
-[s]Aumenta a evasão[n]de armas nucleares.[n][e]
+[s]Aumenta a evasão[n]de ataques nucleares.[n][e]
 
 [msg skill_3CD]
-[s]Aumenta bastante a evasão[n]de armas nucleares.[n]Não acumula.[n][e]
+[s]Aumenta bastante a evasão[n]de ataques Nucleares.[n]Não pode acumular[n][e]
 
 [msg skill_3CE]
 [s]VAZIO[n][e]
 
 [msg skill_3CF]
-[s]Aumenta a evasão[n]de habilidades psicocinéticas.[n][e]
+[s]Aumenta a evasão[n]de habilidades psiquicas.[n][e]
 
 [msg skill_3D0]
 [s]Aumenta muito os elus.[n]das habilidades. psicocinético.[n]Não cumulativo.[n][e]
@@ -2933,10 +2933,10 @@
 [s]VAZIO[n][e]
 
 [msg skill_3D2]
-[s]Aumenta[n]habilidades sagradas em 25%.[n][e]
+[s]Aumenta[n]habilidades Sagradas em 25%.[n][e]
 
 [msg skill_3D3]
-[s]Aprimore[n]habilidades sagradas em 50%.[n]Acumulável.[n][e]
+[s]Aprimore[n]habilidades Sagradas em 50%.[n]Pode Acumular.[n][e]
 
 [msg skill_3D4]
 [s]VAZIO[n][e]
@@ -2945,28 +2945,28 @@
 [s]Aumenta[n]habilidades amaldiçoadas em 25%.[n][e]
 
 [msg skill_3D6]
-[s]Aprimore[n]habilidades amaldiçoadas em 50%.[n]Acumulável.[n][e]
+[s]Aprimore[n]habilidades amaldiçoadas em 50%.[n]Pode Acumular.[n][e]
 
 [msg skill_3D7]
-[s]Evita que inimigos[n]percorrendo o Metaverso[n]descobram você.[n][e]
+[s]Evita que inimigos[n]percorrendo o Metaverso[n]descubram você.[n][e]
 
 [msg skill_3D8]
-[s]Aumenta todas as[n]habilidades mágicas em 25%.[n][e]
+[s]Aumenta todas as[n]habilidades Mágicas em 25%.[n][e]
 
 [msg skill_3D9]
 [s]Diminui a chance[n]de ser afetado por[n]doenças negativas.[n][e]
 
 [msg skill_3DA]
-[s]Aumenta[n]habilidades divinas em 25%.[n][e]
+[s]Aumenta[n]habilidades Divinas em 25%.[n][e]
 
 [msg skill_3DB]
-[s]Aprimora[n]habilidades divinas em 50%.[n]Acumulável.[n][e]
+[s]Aprimora[n]habilidades Divinas em 50%.[n]Pode Acumular.[n][e]
 
 [msg skill_3DC]
-[s]Nega ataques mágicos,[n]exceto os divinos.[n][e]
+[s]Nega ataques mágicos,[n]exceto os Divinos.[n][e]
 
 [msg skill_3DD]
-[s]Restaura 20 SP[n]após um Relay.[n][e]
+[s]Restaura 20 SP[n]após um Revezamento.[n][e]
 
 [msg skill_3DE]
 [s]Permite que você copie[n]cartas de habilidade.[n][e]
@@ -2987,7 +2987,7 @@
 [s]Aumenta o SP máximo[n]em 40%.[n][e]
 
 [msg skill_3E4]
-[s]Restaura 5 SP[n]após um Relay.[n][e]
+[s]Restaura 5 SP[n]após um Revezamento.[n][e]
 
 [msg skill_3E5]
 [s]Gritos de triunfo[n][e]
@@ -3086,7 +3086,7 @@
 [s]Aprimora ataques mágicos[n]se você tiver 4 ou mais[n]habilidades elementais.[n][e]
 
 [msg skill_405]
-[s]Aumenta levemente[n]att. mágico se você tiver 3[n]ou mais habilidade. elementais.[n][e]
+[s]Aumenta levemente[n]atk. mágico se você tiver 3[n]ou mais habilidade. elementais.[n][e]
 
 [msg skill_406]
 [s]Aumenta a duração[n]do efeito de[n]habilidades de suporte.[n][e]

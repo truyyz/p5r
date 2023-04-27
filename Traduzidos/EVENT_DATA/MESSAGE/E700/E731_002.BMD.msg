@@ -387,5 +387,5 @@
 [s][vp 8 0 0 0 65535 0]Ele também não sabia como responder[n]esta? É muito ruim.[n][f 1 3 65535][w][e]
 
 [msg MSG_999_5_0 [Estudante de cabelo castanho]]
-[s][vp 8 0 0 0 65535 0]Já. Estou envergonhado[n]por ele.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Concordo. Estou envergonhado[n]por ele.[n][f 1 3 65535][w][e]
 

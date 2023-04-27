@@ -332,7 +332,7 @@
 [s]Ah, é isso? Você é algum tipo de fanático?[n]Repolho. Aqueles como você são incontroláveis.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_06_R_10]
-[s]Já. Acho que é isso que[n]acontece com quem vive sempre de[n]forma imprudente.[n][w][e]
+[s]Concordo. Acho que é isso que[n]acontece com quem vive sempre de[n]forma imprudente.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_06_R_11]
 [s]Oh sim? Bem, talvez você devesse[n]evoluir. Aprenda a refletir,[n]por exemplo. É uma cura para tudo.[n][w][e]

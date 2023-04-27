@@ -50,7 +50,7 @@
 [s][bup 0 6 6 4 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ah! É por isso que você é um[n]Phantom Thief tão bom.[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Ann]]
-[s][bup 0 4 6 4 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Já. Aparentemente, você[n]ganhou os corações de todos nós.[n][f 1 3 65535][w][e]
+[s][bup 0 4 6 4 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Concordo. Aparentemente, você[n]ganhou os corações de todos nós.[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Futaba]]
 [s][bup 0 8 6 4 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 2]! Alguns chocolates[n]aqui também, por favor![n][f 1 3 65535][w][e]

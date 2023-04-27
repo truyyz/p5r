@@ -98,7 +98,7 @@
 [s]Legal, ninguém se importa. Você está[n]aqui apenas acariciando seu ego.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_02_R_8]
-[s]Já. Você quase certamente é um daqueles idiotas[n]que acredita na besteira que ele é predestinado.[n][w][e]
+[s]Concordo. Você quase certamente é um daqueles idiotas[n]que acredita na besteira que ele é predestinado.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_02_R_9]
 [s]Garotas? Essa é uma razão para me machucar[n]assim?[n][w][e]
@@ -756,7 +756,7 @@
 [s]Eu perdi...?[n][w][e]
 
 [sel TalkSel_GUY_CHAT_SQ_06 top]
-[s]Já.[e]
+[s]Concordo.[e]
 [s]Eu não sei ainda.[e]
 [s]Não, você venceu.[e]
 
@@ -1133,7 +1133,7 @@
 [s]Você está brincando comigo? Na minha opinião,[n]você é apenas um cachorro em memorizar coisas.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_12_R_11]
-[s]Já. Eu não dou a mínima para o passado também.[n][w][e]
+[s]Concordo. Eu não dou a mínima para o passado também.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_12_R_12]
 [s]Quê? Você sabe que se escapar da sua mente,[n]você nunca vai se lembrar, não é?[n][w][e]

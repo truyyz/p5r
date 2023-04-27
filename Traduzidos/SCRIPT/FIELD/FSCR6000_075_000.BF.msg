@@ -23,7 +23,7 @@
 [s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9197 65535 0]Mas agora você entende seu erro,[n]certo?[n][w][e]
 
 [msg MSG_QST_075_07 [Sombra de Oi]]
-[s][vp 8 2 1 46667 65535 0]Já. Em primeiro lugar, vou[n]pedir desculpas a esse amigo.[n][w][e]
+[s][vp 8 2 1 46667 65535 0]Concordo. Em primeiro lugar, vou[n]pedir desculpas a esse amigo.[n][w][e]
 [s]Não sei se ele vai me perdoar, mas[n]vale a pena tentar.[n][w][e]
 
 [msg MSG_QST_075_08 [Futaba]]

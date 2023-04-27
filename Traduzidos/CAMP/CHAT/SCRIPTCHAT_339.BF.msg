@@ -16,7 +16,7 @@
 [s][f 5 14]Na verdade, as pessoas contra as quais[n]mais devemos nos proteger são nossos[n]companheiros.[n][w][e]
 
 [msg MSG_005_0_0 [Ann]]
-[s][f 5 14]Já. Todo mundo está falando sobre o fato[n]de que os Phantom Thieves devem ser[n]estudantes.[n][w][e]
+[s][f 5 14]Concordo. Todo mundo está falando sobre o fato[n]de que os Phantom Thieves devem ser[n]estudantes.[n][w][e]
 
 [msg MSG_006_0_0 [Ryuji]]
 [s][f 5 14]Mas um jovem nunca[n]delaria[n]sua idade, certo?[n][w][e]

@@ -46,7 +46,7 @@
 [s]eu não teria tanta certeza...[e]
 
 [msg MSG_015_0_0 [Ryuji]]
-[s][f 5 14]Já. Será uma grande vitória quando[n]mostrarmos a todos a verdadeira natureza[n]desse criminoso.[n][w][e]
+[s][f 5 14]Concordo. Será uma grande vitória quando[n]mostrarmos a todos a verdadeira natureza[n]desse criminoso.[n][w][e]
 
 [msg MSG_016_0_0 [Ann]]
 [s][f 5 14]Sim, sem dúvida o pai de Haru[n]nomeará[n]o culpado.[n][w][e]

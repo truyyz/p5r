@@ -88,7 +88,7 @@
 
 [msg MSG_022_0_0 [Maruki]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 114 1 300 1][f 4 10 65535 0 0][vp 8 2 0 57428 65535 0]Esta é uma boa perspectiva![n][f 1 3 65535][w][e]
-[s][bup 0 216 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 5 0 36 5 1]Você não pode mudar o passado, mas quer seguir em[n]frente caminhando de cabeça erguida. Isso é o[n]suco?[n][f 1 3 65535][w][e]
+[s][bup 0 216 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 4 24 0 5 0 36 5 1]Você não pode mudar o passado, mas quer seguir em[n]frente caminhando de cabeça erguida.[n]Essa é a essência?[n][f 1 3 65535][w][e]
 
 [msg MSG_022_1_0 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sim, isso parece certo para mim.[n][f 1 3 65535][w][e]

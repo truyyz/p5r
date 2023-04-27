@@ -2898,7 +2898,7 @@
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][f 4 23 1 3 3 5 11 5][vp 8 0 1 25 65535 0]Voltando a Madarame...[n]Parece incrível para mim que ele está[n]considerando seriamente nos processar.[n][w][e]
 
 [msg MADARAME_YUSUKE_mes20 [Yusuke]]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 23 1 5 3 5 11 5][vp 8 0 1 26 65535 0]Já. Eu nunca o vi tão[n]furioso. As chances são de que ele[n]realmente pretendia.[n][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 23 1 5 3 5 11 5][vp 8 0 1 26 65535 0]Concordo. Eu nunca o vi tão[n]furioso. As chances são de que ele[n]realmente pretendia.[n][w][e]
 
 [msg MADARAME_YUSUKE_mes21 [Ann]]
 [s][bup 0 4 3 65535 0][f 4 10 65535 0 0][f 4 23 1 4 3 5 11 5][vp 8 0 1 27 65535 0]O que fazemos...?[n]No tribunal perderíamos[n]com certeza.[n][w][e]
@@ -3089,7 +3089,7 @@
 [s][f 4 23 1 65535 3 5 11 5][bup 0 5 3 65535 0][f 4 10 65535 0 0][vp 8 0 1 2 65535 0]Eu concordo, mesmo que desta vez não seja fácil.[n][w][e]
 
 [msg KANESHIRO_YOKOKU_mes03 [Ann]]
-[s][f 4 23 1 65535 3 5 11 5][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 1 3 65535 0]Já. Ninguém realmente o conhece.[n][w][e]
+[s][f 4 23 1 65535 3 5 11 5][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 1 3 65535 0]Concordo. Ninguém realmente o conhece.[n][w][e]
 
 [msg KANESHIRO_YOKOKU_mes04 [Ryuji]]
 [s][f 4 23 1 65535 3 5 11 5][bup 0 2 7 65535 0][f 4 10 65535 0 0][vp 8 0 1 4 65535 0]Quantas eu gostaria de escrever para ele,[n]sobre aquela carta...[n][w][e]
@@ -3138,7 +3138,7 @@
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][f 4 23 1 3 3 5 11 5][vp 8 0 1 1 65535 0]Para dizer a verdade, este Palácio[n]me surpreendeu...[n]Era um imenso deserto.[n][w][e]
 
 [msg FUTABA_MEETING_mes02 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 23 1 4 3 5 11 5][vp 8 0 1 2 65535 0]Já. Até agora, distorções à parte,[n]eles sempre foram representações normais[n]da cidade.[n][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 23 1 4 3 5 11 5][vp 8 0 1 2 65535 0]Concordo. Até agora, distorções à parte,[n]eles sempre foram representações normais[n]da cidade.[n][w][e]
 
 [msg FUTABA_MEETING_mes03 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 23 1 2 3 5 11 5][vp 8 0 1 3 65535 0]É por isso que a primeira vez que entramos no[n]Kamoshida não percebemos.[n][w][e]
@@ -3343,7 +3343,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Mas temos que ter cuidado.[n]Não sabemos o que nos espera.[n][w][e]
 
 [msg MARUKI_PALACE_mes06 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 23 1 65535 3 5 11 5][f 4 10 65535 0 0][vp 8 2 0 1023 65535 0]Já. Dr. Maruki é quase tão poderoso quanto um[n]deus.[n][w][e]
+[s][bup 0 3 2 65535 0][f 4 23 1 65535 3 5 11 5][f 4 10 65535 0 0][vp 8 2 0 1023 65535 0]Concordo. Dr. Maruki é quase tão poderoso quanto um[n]deus.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Duvido que tudo corra bem.[n]É melhor não baixar a guarda.[n][w][e]
 
 [msg MARUKI_MEMENTOS_mes01 [Sumire]]
@@ -4274,7 +4274,7 @@
 [s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]E ouvi dizer que a polícia não[n]quer intervir de jeito nenhum...[n]Temos que ajudar essas pessoas.[n][w][e]
 
 [msg MSG_azito_quest_chk72_01 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 7198 65535 0]Já. Mas há algo que[n]eu não entendo muito bem...[n][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 7198 65535 0]Concordo. Mas há algo que[n]eu não entendo muito bem...[n][w][e]
 [s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Por que diabos alguém[n]chamaria Morgana de "Bola de Neve"?[n]Ela tem muito pouco pelo branco.[n][w][e]
 
 [msg MSG_azito_quest_chk72_02 [Morgana]]
@@ -4330,7 +4330,7 @@
 [s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]...Aposto que os amigos dele também ficarão[n]preocupados.[n][w][e]
 
 [msg MSG_azito_quest_75_05 [Futaba]]
-[s][bup 0 8 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 9195 65535 0]Já...[n][w][e]
+[s][bup 0 8 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 9195 65535 0]Concordo...[n][w][e]
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Mona e eu já[n]enviamos a carta de aviso.[n][w][e]
 [s][bup 0 8 2 65535 0][f 4 10 65535 0 0][vp 8 2 1 9196 65535 0]Vamos despertar seu coração rapidamente. Mesmo[n]para seu amigo![n][w][e]
 
@@ -4366,7 +4366,7 @@
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu pensei que ele era apenas[n]obcecado por ídolos... mas[n]parece ser outra coisa.[n][w][e]
 
 [msg MSG_azito_quest_chk78_02 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 7161 65535 0]Já. Parece que ele se refugiou no[n]mundo dos ídolos porque as coisas[n]na família não iam bem.[n][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 7161 65535 0]Concordo. Parece que ele se refugiou no[n]mundo dos ídolos porque as coisas[n]na família não iam bem.[n][w][e]
 
 [msg MSG_azito_quest_chk78_03 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Aposto que é por isso que[n]seu filho está preocupado com ele[n]e despreza os ídolos...[n][w][e]
@@ -4586,7 +4586,7 @@
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Estou dentro. Ele pode ter planejado uma partida[n]fixa, mas também dedicou sua vida ao[n]pingue-pongue.[n][w][e]
 
 [msg MSG_azito_quest_chk83_06 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Já. Se ainda houver algum amor por pingue-pongue[n]em seu coração, eu digo: mire nele.[n][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Concordo. Se ainda houver algum amor por pingue-pongue[n]em seu coração, eu digo: mire nele.[n][w][e]
 
 [msg MSG_azito_quest_chk83_07 [Akechi]]
 [s][bup 0 9 10 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Mas não devemos esquecer que[n]temos pouco tempo. Devemos[n]pensar em contramedidas adequadas.[n][w][e]
@@ -4634,7 +4634,7 @@
 [s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Se ele realmente quisesse morrer, ele não[n]teria escrito no Phan-Site.[n][w][e]
 
 [msg MSG_azito_quest_chk84_10 [Ann]]
-[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Já...[n][w][e]
+[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Concordo...[n][w][e]
 [s][bup 0 4 2 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Acredito que a postagem dele[n]nada mais é do que um pedido de ajuda.[n][w][e]
 
 [msg MSG_azito_quest_chk84_11 [Akechi]]

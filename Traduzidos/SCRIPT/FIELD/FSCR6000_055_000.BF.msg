@@ -14,7 +14,7 @@
 [s][bup 0 4 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6101 65535 0]As pessoas podem morrer[n]se não o pararmos! E uma boa[n]médica largaria o emprego...[n][w][e]
 
 [msg QUEST_55_ENTER_mes05 [Ryuji]]
-[s][bup 0 2 11 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7198 65535 0]Já. Nós devemos fazer algo![n][w][e]
+[s][bup 0 2 11 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7198 65535 0]Concordo. Nós devemos fazer algo![n][w][e]
 
 [msg MSG_000_0_0 [A sombra de Oyamada]]
 [s][vp 8 2 1 47010 65535 0]Hahahaha! Vocês são todos lixo![n][w][e]

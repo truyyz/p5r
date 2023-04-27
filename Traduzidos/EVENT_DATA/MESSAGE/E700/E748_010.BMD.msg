@@ -28,7 +28,7 @@
 [s][bup 0 7 3 2 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]É tão frustrante que não posso[n]fazer nada...[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Haru]]
-[s][bup 0 7 1 2 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0][f 5 13 4 5 7]Já. Eu estava ansioso por essa[n]festa, então vamos aproveitar.[n][f 1 3 65535][w][e]
+[s][bup 0 7 1 2 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0][f 5 13 4 5 7]Concordo. Eu estava ansioso por essa[n]festa, então vamos aproveitar.[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Apresentador]]
 [s][vp 8 0 0 9 65535 0]E agora, é hora da sua[n]tradição Shujin favorita:[n]o Evento Especial de Partilha![n][f 1 3 65535][w][e]

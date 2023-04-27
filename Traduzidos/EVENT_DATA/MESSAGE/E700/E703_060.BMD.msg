@@ -8,7 +8,7 @@
 [s][f 0 8 2 1 2217]Você vai me deixar prová-los?[clr 27][e]
 
 [msg MSG_002_0_0 [Haru]]
-[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 3020 65535 0][f 5 13 4 10 7]Já. Um dia eu gostaria de[n]experimentar todos os diferentes assados.[n][f 1 3 65535][w][e]
+[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 3020 65535 0][f 5 13 4 10 7]Concordo. Um dia eu gostaria de[n]experimentar todos os diferentes assados.[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Haru]]
 [s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 3020 65535 0][f 5 13 4 5 7]Obrigada. Eu quero que meus[n]feijões cumpram[n]seu potencial.[n][f 1 3 65535][w][e]
@@ -31,7 +31,7 @@
 [s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 4 5 7]Eu também não. Meu pai[n]mencionou isso para mim apenas alguns[n]anos atrás.[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Haru]]
-[s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Já. Afinal, nossa empresa[n]é conhecida pelos hambúrgueres.[n][f 1 3 65535][w][e]
+[s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Concordo. Afinal, nossa empresa[n]é conhecida pelos hambúrgueres.[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Haru]]
 [s][bup 0 7 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sério? No entanto, no Big Bang[n]apenas café instantâneo é servido.[n][f 1 3 65535][w][e]
@@ -57,7 +57,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O nome da empresa continuará[n]a ser arrastado pela lama...[n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Haru]]
-[s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 3194 65535 0][f 5 13 4 10 7]Já. Eu tenho que encontrar uma maneira[n]de mudar as coisas.[n][f 1 3 65535][w][e]
+[s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 3194 65535 0][f 5 13 4 10 7]Concordo. Eu tenho que encontrar uma maneira[n]de mudar as coisas.[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Haru]]
 [s][bup 0 7 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 3024 65535 0]Hã?[n][f 1 3 65535][w][e]

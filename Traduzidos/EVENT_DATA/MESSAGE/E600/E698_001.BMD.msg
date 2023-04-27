@@ -417,7 +417,7 @@
 [s][vp 8 0 0 0 4 0]Os Phantom Thieves não são nada além de[n]criminosos. Espero que eles sejam pegos logo.[n][f 1 3 65535][w][e]
 
 [msg MSG_999_1_0 [Aluno barulhento]]
-[s][vp 8 0 0 0 5 0]Já. Esse negócio de prisão mental é assustador.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 5 0]Concordo. Esse negócio de prisão mental é assustador.[n][f 1 3 65535][w][e]
 
 [msg MSG_999_2_0 [Aluno fofoqueiro]]
 [s][vp 8 0 0 0 4 0]Todo o tempo que perdi[n]apoiando-os…Quem[n]vai me devolver?[n][f 1 3 65535][w][e]

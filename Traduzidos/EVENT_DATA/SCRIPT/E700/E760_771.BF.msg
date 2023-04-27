@@ -107,8 +107,8 @@
 [s][vp 8 2 0 59555 65535 0]Então... Faça a sua escolha.[n]Par ou ímpar? Aposte![n][f 1 3 65535][w][e]
 
 [sel MSG_JIGOKU_GAMBLE_START_ top]
-[s]Até.[e]
-[s]Tiros.[e]
+[s]Par.[e]
+[s]Ímpar.[e]
 
 [msg MSG_JIGOKU_GAMBLE_TYOU [Demônio]]
 [s][vp 8 2 0 59555 65535 0]Hm, escolha interessante... Se[n]o número for par, você ganha.[n][f 1 3 65535][w][e]

@@ -63,5 +63,5 @@
 [s][bup 0 2 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7044 65535 0]Tsk, aquele idiota caiu.[n][w][e]
 
 [msg D05_02_e334_050_mes02 [Futaba]]
-[s][bup 0 8 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9019 65535 0]Já. Mona! Tudo está bem?[n][w][e]
+[s][bup 0 8 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9019 65535 0]Concordo. Mona! Tudo está bem?[n][w][e]
 

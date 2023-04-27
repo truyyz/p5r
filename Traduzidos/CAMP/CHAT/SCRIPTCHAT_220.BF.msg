@@ -25,7 +25,7 @@
 [s]Não fui eu.[e]
 
 [msg MSG_032_0_0 [Mishima]]
-[s][f 5 14]Já. Apenas a pior escória iria[n]descarregar seus instintos violentos em[n]animais inocentes.[n][w][e]
+[s][f 5 14]Concordo. Apenas a pior escória iria[n]descarregar seus instintos violentos em[n]animais inocentes.[n][w][e]
 
 [msg MSG_033_0_0 [Mishima]]
 [s][f 5 14]Sim. É revoltante.[n][w][e]

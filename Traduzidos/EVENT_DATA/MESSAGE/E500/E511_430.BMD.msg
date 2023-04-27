@@ -102,7 +102,7 @@
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 34 65535 0]Acho que devemos nos separar por[n]agora, retomaremos a[n]discussão em um momento melhor.[n][f 1 3 65535][w][e]
 
 [msg MSG_031_0_0 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 35 65535 0]Já. Amanhã podemos...[n][f 1 3 65535][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 35 65535 0]Concordo. Amanhã podemos...[n][f 1 3 65535][w][e]
 [s][bup 0 2 3 65535 0][f 4 10 65535 0 0][f 4 24 0 4 6 38 6 100][vp 8 0 0 36 65535 0]Ah sim, amanhã começa o terceiro[n]trimestre, certo?[n][f 1 3 65535][w][e]
 
 [msg MSG_032_0_0 [Ann]]

@@ -13,7 +13,7 @@
 [s][f 0 8 2 1 2217]Tem certeza que ele ainda está vivo?[clr 27][e]
 
 [msg MSG_003_0_0 [Iwai]]
-[s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 2 0 13048 65535 0][f 5 13 13 5 1004]Já. Isso é exatamente o que eu esperava.[n][f 1 3 65535][w][e]
+[s][bup 0 104 1 0 0][f 4 10 65535 0 0][vp 8 2 0 13048 65535 0][f 5 13 13 5 1004]Concordo. Isso é exatamente o que eu esperava.[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Iwai]]
 [s][bup 0 104 3 0 0][f 4 10 65535 0 0][vp 8 2 0 13090 65535 0]Garoto. Se você pensa assim,[n]você vai ter uma vida infernal, entendeu?[n][f 1 3 65535][w][e]

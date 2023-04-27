@@ -23,7 +23,7 @@
 [s][f 5 14]Certo?!?[n][w][e]
 
 [msg MSG_044_0_0 [Mishima]]
-[s][f 5 14]Já...[n][w][e]
+[s][f 5 14]Concordo...[n][w][e]
 
 [msg MSG_CHAT_quest34_02 [Mishima]]
 [s][f 5 14]Pelo que ele me disse, sumiu algum[n]dinheiro do caixa com o qual ele deveria[n]estar negociando.[n][w][e]

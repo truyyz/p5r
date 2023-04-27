@@ -587,7 +587,7 @@
 [sel TalkSel_GUY_CHAT_SQ_03 top]
 [s]Hee-ho![e]
 [s]Hee-haw![e]
-[s]pessoa![e]
+[s]Persona![e]
 
 [msg TalkMsg_GUY_CHAT_SQ_03_R]
 [s]Hee ho! Correto![n]Você é um verdadeiro fã, hee ho![n][w][e]

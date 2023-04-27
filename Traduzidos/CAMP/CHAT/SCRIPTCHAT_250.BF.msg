@@ -5,7 +5,7 @@
 [s][f 5 14]Evidentemente, nenhum vilão pode[n]esconder do olhar dos Phantom Thieves![n][w][e]
 
 [sel SEL_042_0_0 top]
-[s][f 5 14]Já.[e]
+[s][f 5 14]Concordo.[e]
 [s]Bem, certamente alguém pode.[e]
 [s]Tem certeza?[e]
 

@@ -981,7 +981,7 @@
 
 [msg SYS_051_1_0 [Guatemala SHB]]
 [s][vp 8 2 65535 0 0 0]O solo vulcânico da Guatemala é ideal para o[n]café. Os feijões são classificados de acordo com[n]a altitude das lavouras.[n][w][e]
-[s][vp 8 2 65535 0 0 0]I chicchi SHB (Strictly Hard Bean), che[n]crescono a oltre 1.300 metri, hanno[n]un'acidità simile a quella degli agrumi.[n][w][e]
+[s][vp 8 2 65535 0 0 0]Os grãos SHB (Strictly Hard Bean),[n] que crescem a mais de 1.300 metros, têm uma acidez[n] semelhante à das frutas cítricas.[n][w][e]
 
 [msg SYS_052_1_0 [Colômbia Narino]]
 [s][vp 8 2 65535 0 0 0]A altitude, o clima chuvoso e o solo[n]das montanhas colombianas são a receita[n]ideal para um café de alta qualidade.[n][w][e]
@@ -1253,7 +1253,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 1 15 65535 0]Agora se apresse.[n]Se você se perder, vai se atrasar,[n]jovem do interior.[n][w][e]
 
 [msg MSG_GO_OUTSIDE_012 [Sojiro]]
-[s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 0 1 16 65535 0]Já...?[n]Estamos atrasados, se alguma coisa.[n][w][e]
+[s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 0 1 16 65535 0]Concordo...?[n]Estamos atrasados, se alguma coisa.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 17 65535 0]Agora se apresse.[n]Se você se perder, vai se atrasar,[n]jovem do interior.[n][w][e]
 
 [msg MSG_GO_OUTSIDE_127101_00 [Sojiro]]

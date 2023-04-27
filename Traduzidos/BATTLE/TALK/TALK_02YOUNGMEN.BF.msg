@@ -605,7 +605,7 @@
 [s]Ei, você deveria observar[n]sua atitude.[n]Você colhe o que planta.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_03_R_6]
-[s]...Já. É quase bom[n]ouvi-lo dizer na cara dele com[n]tanta clareza.[n][w][e]
+[s]...Concordo. É quase bom[n]ouvi-lo dizer na cara dele com[n]tanta clareza.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_03_R_7]
 [s]Portanto, você rebaixa os outros apenas para se[n]elevar?[n][w][e]

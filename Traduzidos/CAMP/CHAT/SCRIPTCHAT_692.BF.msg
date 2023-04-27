@@ -5,7 +5,7 @@
 [s][f 5 14]Mas isso é mentira, certo?[n][w][e]
 
 [sel SEL_002_0_0 top]
-[s][f 5 14]Já.[e]
+[s][f 5 14]Concordo.[e]
 [s]Como você sabe?[e]
 
 [msg MSG_003_0_0 [Kawakami]]
