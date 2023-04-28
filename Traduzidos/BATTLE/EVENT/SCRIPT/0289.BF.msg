@@ -1,6 +1,6 @@
 [msg MSG_BTLSTART_001]
 [s]Se você emboscar um inimigo,[n]poderá realizar um ataque preventivo[n]com armas, uma chuva de balas.[n][f 1 3 65535][w][e]
-[s]Se in questa fase premi rapidamente[n]o tieni premuto il [clr 2]tasto ○[clr 27] potrai atterrare[n]i nemici a prescindere dalla loro affinità.[n][f 1 3 65535][w][e]
+[s]Se você pressionar rapidamente[n]ou segurar o botão [clr 2] ○u [clr 27] nesta fase, poderá derrubar[n]inimigos independentemente de sua afinidade..[n][f 1 3 65535][w][e]
 
 [msg MSG_BTLSTART_002]
 [s]manequim[n][f 1 3 65535][w][e]

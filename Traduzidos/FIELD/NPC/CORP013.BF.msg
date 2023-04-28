@@ -456,7 +456,7 @@
 [s]não a convide[e]
 
 [msg MSG_C13_SPOT_02_03 [Takemi]]
-[s][bup 0 108 1 0 0][f 4 23 1 213 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]A Skytree, hein? Parece engraçado.[n][w][e]
+[s][bup 0 108 1 0 0][f 4 23 1 213 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]A Skytree, hein? Parece divertido.[n][w][e]
 [s][bup 0 108 0 0 0][f 4 10 65535 0 0][vp 8 2 1 14052 65535 0]Vamos dar uma olhada.[n][w][e]
 
 [msg MND_C13_SPOT_03_01]

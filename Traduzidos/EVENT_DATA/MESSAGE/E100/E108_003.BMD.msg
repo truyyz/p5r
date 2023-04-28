@@ -6,7 +6,7 @@
 [s][bup 0 103 600 0 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]...Então, como você se sentiu? A[n]escola, quero dizer. Você acha que pode?[n][f 1 3 65535][w][e]
 
 [sel SEL_002_0_0 top]
-[s]Parece engraçado.[e]
+[s]Parece divertido.[e]
 [s]Vai ser difícil.[e]
 [s]Ei, vamos ver.[e]
 

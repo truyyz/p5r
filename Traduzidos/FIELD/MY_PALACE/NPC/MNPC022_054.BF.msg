@@ -75,7 +75,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Vamos pedir todas as sobremesas do cardápio[n]e ver se conseguimos acabar com elas![n][w][e]
 
 [msg MES_GROUP4_02 [Haru]]
-[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 3048 65535 0]Parece engraçado![n][w][e]
+[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 3048 65535 0]Parece divertido![n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu quero experimentar a torre de sorvete.[n][w][e]
 
 [msg MES_GROUP4_03 [Futaba]]

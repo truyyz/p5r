@@ -50,7 +50,7 @@
 [s]リザーブのヘルプ[n][e]
 
 [msg specific_017]
-[s]Aumenta a chance de[n]infligir aflições negativas.[n][e]
+[s]Aumenta a chance de[n]infligir Efeitos Negativos.[n][e]
 
 [msg specific_018]
 [s]リザーブのヘルプ[n][e]
@@ -65,10 +65,10 @@
 [s]リザーブのヘルプ[n][e]
 
 [msg specific_022]
-[s]Aumenta a chance de[n]infligir choque[n]em inimigos abatidos.[n][e]
+[s]Aumenta a chance de[n]infligir Choque[n]em inimigos caídos.[n][e]
 
 [msg specific_023]
-[s]Aumenta a chance de[n]doenças negativas em[n]inimigos abatidos.[n][e]
+[s]Aumenta a chance de[n]Efeitos Negativos em[n]inimigos caídos.[n][e]
 
 [msg specific_024]
 [s]Aumenta a chance de[n]infligir Freeze[n]com mais 1.[n][e]
@@ -209,10 +209,10 @@
 [s]リザーブのヘルプ[n][e]
 
 [msg specific_070]
-[s]Diminui a chance[n]de ser afetado por[n]doenças negativas.[n][e]
+[s]Diminui a chance[n]de ser afetado por[n]Efeitos Negativos.[n][e]
 
 [msg specific_071]
-[s]Previne[n]acidentes negativos.[n][e]
+[s]Previne[n]Efeitos Negativos.[n][e]
 
 [msg specific_072]
 [s]リザーブのヘルプ[n][e]
@@ -431,19 +431,19 @@
 [s]リザーブのヘルプ[n][e]
 
 [msg specific_144]
-[s]+25% de chance[n]dos aliados de infligir On Fire/[n]Freeze/Shock.[n][e]
+[s]+25% de chance[n]dos aliados de infligir Queimaduras/[n]Congelamento/Choque.[n][e]
 
 [msg specific_145]
-[s]+50% de chance[n]dos aliados de infligir Chamas/[n]Congelamento/Choque.[n][e]
+[s]+50% de chance[n]dos aliados de infligir Queimaduras/[n]Congelamento/Choque.[n][e]
 
 [msg specific_146]
 [s]リザーブのヘルプ[n][e]
 
 [msg specific_147]
-[s]Diminui a chance[n]dos aliados sofrerem[n]aflições negativas em 25%.[n][e]
+[s]Diminui a chance[n]dos aliados sofrerem[n]Efeitos Negativos em 25%.[n][e]
 
 [msg specific_148]
-[s]Diminui a chance[n]dos aliados sofrerem[n]aflições negativas em 50%.[n][e]
+[s]Diminui a chance[n]dos aliados sofrerem[n]Efeitos Negativos em 50%.[n][e]
 
 [msg specific_149]
 [s]リザーブのヘルプ[n][e]
@@ -560,7 +560,7 @@
 [s]Diminui o dano de[n]ataques que exploram[n]fraquezas.[n][e]
 
 [msg specific_187]
-[s]Alta chance de esquivar[n]ataques inimigos[n]com aflições negativas.[n][e]
+[s]Alta chance de esquivar[n]ataques inimigos[n]com Efeitos Negativos.[n][e]
 
 [msg specific_188]
 [s]Efeitos de carga e[n]foco triplicados.[n][e]

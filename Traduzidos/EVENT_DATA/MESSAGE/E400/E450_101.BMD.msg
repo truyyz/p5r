@@ -47,7 +47,7 @@
 [s][bup 0 108 4 0 0][f 4 10 65535 0 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]O que está acontecendo aqui?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Sojiro]]
-[s][bup 0 103 2 0 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]O-O que é essa diabrura?[n][f 1 3 65535][w][e]
+[s][bup 0 103 2 0 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]O-o que diabos está acontecendo?[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Sae]]
 [s][bup 0 105 4 4 0][f 4 10 65535 0 0][vp 8 0 0 36 65535 0]Eu não posso acreditar... Por que[n]todos estão agindo normalmente?!?[n]Eles não conseguem ver?!?[n][f 1 3 65535][w][e]
@@ -56,8 +56,8 @@
 [s][bup 0 105 3 4 0][f 4 10 65535 0 0][vp 8 0 0 37 65535 0]Espero que os meninos estejam bem...[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Shinya]]
-[s][bup 0 110 4 0 0][f 4 10 65535 0 0][vp 8 0 0 28 65535 0]Louco... Não estamos em[n]um videogame... estamos?[n][f 1 3 65535][w][e]
+[s][bup 0 110 4 0 0][f 4 10 65535 0 0][vp 8 0 0 28 65535 0]Inacreditável... Não estamos em[n]um videogame... estamos?[n][f 1 3 65535][w][e]
 
 [msg MSG_010_5_0 [Shinya]]
-[s][bup 0 110 2 0 0][f 4 10 65535 0 0][f 4 10 65535 0 0][vp 8 0 0 29 65535 0]Alguém mais notou?[n][f 1 3 65535][w][e]
+[s][bup 0 110 2 0 0][f 4 10 65535 0 0][f 4 10 65535 0 0][vp 8 0 0 29 65535 0]As outras pessoas não enxergam isso?[n][f 1 3 65535][w][e]
 

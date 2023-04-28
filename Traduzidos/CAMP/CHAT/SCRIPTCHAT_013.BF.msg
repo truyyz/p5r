@@ -20,7 +20,7 @@
 [s][f 5 14]Por que não ir juntos?[n]Vamos nos divertir![n][w][e]
 
 [sel SEL_006_0_0 top]
-[s][f 5 14]Parece engraçado.[e]
+[s][f 5 14]Parece divertido.[e]
 [s]Tudo bem.[e]
 
 [msg MSG_007_0_0 [Ryuji]]

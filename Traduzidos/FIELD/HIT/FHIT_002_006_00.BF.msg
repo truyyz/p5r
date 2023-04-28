@@ -181,7 +181,7 @@
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1038 65535 0]Eles ainda nos tratam como[n]escória... Ei, e[n]quem deveria ser?[n][w][e]
 
 [msg MSG_BackBlackBoard_Think_11 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1028 65535 0]Todo mundo sabe o que[n]Shido está escondendo, não é? No entanto, ele está prestes a se tornar primeiro-ministro…[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1028 65535 0]Todo mundo sabe o que[n]Shido está escondendo, não é? No entanto, ele[n]está prestes a se tornar primeiro-ministro…[n][w][e]
 [s][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Há algo errado...[n][w][e]
 
 [msg MSG_BackBlackBoard_Think_12 [Morgana]]

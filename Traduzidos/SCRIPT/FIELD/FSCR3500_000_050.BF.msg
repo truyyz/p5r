@@ -47,7 +47,7 @@
 
 [msg MSG_NIGHT_0508_000 [Morgana]]
 [s]Fiuuu. Bom trabalho.[n][w][e]
-[s]Você vê? Indo para lugares diferentes[n]você pode ter novas experiências.[n][w][e]
+[s]Viu? Indo para lugares diferentes[n]você pode ter novas experiências.[n][w][e]
 [s]Mas isso não acontece em todos os lugares.[n]Deve ser um lugar que[n]afie seus sentidos como ladrão.[n][w][e]
 
 [msg MSG_TUTORIAL_SPOT [Explore a cidade]]

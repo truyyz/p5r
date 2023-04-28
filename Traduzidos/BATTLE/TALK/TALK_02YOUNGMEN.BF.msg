@@ -722,7 +722,7 @@
 [s]Você está apenas matando o tempo?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_05_R_7]
-[s]Então você está aqui procurando um[n]propósito, hein? Bem, isso parece engraçado.[n][w][e]
+[s]Então você está aqui procurando um[n]propósito, hein? Bem, isso parece divertido.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_05_R_8]
 [s]Não minta! Ninguém vem aqui sem um objetivo![n][w][e]

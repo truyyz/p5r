@@ -11,7 +11,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]Onde estão o Crow e o Skull?[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Akechi]]
-[s][bup 0 9 100 0 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Desculpe a espera.[n][f 1 3 65535][w][e]
+[s][bup 0 9 100 0 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Desculpe a demora.[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Makoto]]
 [s][bup 0 6 104 0 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Oooh...[n][f 1 3 65535][w][e]

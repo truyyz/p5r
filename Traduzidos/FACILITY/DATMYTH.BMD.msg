@@ -44,7 +44,7 @@
 [s]Um dos 72 demônios[n]de Goetia, ele também é[n]conhecido como Presidente[n]do Inferno.[n]Ele pode mudar de forma[n]de leopardo para humano[n]e revelar a verdade[n]que esconde-se atrás dos[n]mistérios divinos.[n][e]
 
 [msg myth_015]
-[s]Deus nórdico do trovão[n]e filho de Odin,[n]Thor carrega o cinto[n]Megingjörð, que[n]dobra sua força, e[n]empunha Mjöllnir, um[n]martelo que controla[n] relâmpagos e que retorna[n]ao seu dono[n]quando lançado.[n][e]
+[s]Deus nórdico do trovão[n]e filho de Odin,[n]Thor carrega o cinto[n]Megingjörð, que[n]dobra sua força, e[n]empunha Mjöllnir, um[n]martelo que controla[n]relâmpagos e que retorna[n]ao seu dono[n]quando lançado.[n][e]
 
 [msg myth_016]
 [s]Um lendário[n]cavalo branco com um único[n]chifre enrolado. Apenas[n]uma virgem pura pode[n]domá-lo e parece que[n]seu chifre tem[n]milagrosas[n]propriedades curativas.[n][e]
@@ -875,7 +875,7 @@
 [s]Deus da guerra na[n]mitologia grega. Ele era[n]desprezado pelos outros[n]deuses por sua natureza[n]violenta e cruel.[n]Ele era um inimigo de Atena,[n]que odiava a guerra.[n][e]
 
 [msg myth_292]
-[s]No zoroastrismo,[n]é dever de Sraosha[n]ouvir os gritos[n]dos homens em nome[n]de Ahura Mazda. Diz-se que ele aparece após o pôr do sol para lutar contra o mal. Seu nome significa "observância".[n][e]
+[s]No zoroastrismo,[n]é dever de Sraosha[n]ouvir os gritos[n]dos homens em nome[n]de Ahura Mazda. Diz-se que[n]ele aparece após[n]o pôr do sol para lutar[n]contra o mal.[n]Seu nome significa[n]"observância".[n][e]
 
 [msg myth_293]
 [s]Um dos 72[n]demônios de Goetia.[n]Conhecido como Duque[n]do Inferno, ele monta[n]um enorme cavalo e[n]incinera os insolentes.[n][e]

@@ -37,10 +37,9 @@
 [s]Zero e rei são iguais.[e]
 
 [msg MSG_010_0_0 [História]]
-[s][vp 8 0 0 0 65535 0]De qual palavra vem a inicial "do"[n]do termo japonês[n]"dokyuu", ou seja, "enorme"?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]De qual palavra Inglesa vem a inicial "do"[n]do termo japonês[n]"dokyuu", ou seja, "enorme"?[n][f 1 3 65535][w][e]
 
 [sel SEL_011_0_0 top]
-[s]"Domínio".[e]
-[s]"Dreadnoughts".[f 2 7 0 0 25 1][e]
-[s]"Tranças".[e]
-
+[s]Dominance.[e]
+[s]Dreadnought.[f 2 7 0 0 25 1][e]
+[s]Dreadlock.[e]

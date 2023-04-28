@@ -25,7 +25,7 @@
 
 [sel SEL_020_0_0 top]
 [s][f 5 14]Vamos investigar.[e]
-[s]Será um arenque vermelho.[e]
+[s]Provavelmente é uma pista falsa.[e]
 [s]O que nós temos que fazer?[e]
 
 [msg MSG_021_0_0 [Ann]]

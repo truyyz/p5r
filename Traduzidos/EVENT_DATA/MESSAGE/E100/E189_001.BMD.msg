@@ -57,7 +57,7 @@
 [s][bup 0 111 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Eu realmente gostaria de contribuir[n]para as façanhas dos Phantom Thieves![n]...Posso, por favor?[n][f 1 3 65535][w][e]
 
 [sel SEL_018_0_0 top]
-[s]Parece engraçado.[e]
+[s]Parece divertido.[e]
 [s]Cabe a você decidir...[e]
 [s]Faça o que quiser.[e]
 

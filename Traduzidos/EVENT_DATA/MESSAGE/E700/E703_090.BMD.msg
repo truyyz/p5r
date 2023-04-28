@@ -235,7 +235,7 @@
 [s][bup 0 7 7 65535 0][f 4 10 65535 0 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 7 7 300 65535][vp 8 0 0 0 65535 0]Por que você acha...?[n][f 1 3 65535][w][e]
 
 [sel SEL_042_0_0 top]
-[s]Você vê que nós somos bons amigos.[e]
+[s]Ele nos viu como bons amigos.[e]
 [s]Eu também gosto de você, Haru.[f 2 7 0 1 730 1][e]
 
 [msg MSG_043_0_0 [Haru]]
@@ -260,7 +260,7 @@
 [s][bup 0 7 6 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Entendo... Não foi[n]minha impressão então.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 3085 65535 0]Sabe, no começo eu pensei que tinha me aproximado[n]de você por causa dos Phantom Thieves...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas talvez o verdadeiro motivo seja que...[n]assim eu poderia[n]passar tempo com você.[n][f 1 3 65535][w][e]
-[s][bup 0 7 7 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O-oh! Você vê? Estou ficando[n]bom em dizer[n]o que realmente penso...[n][f 1 3 65535][w][e]
+[s][bup 0 7 7 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O-oh! Viu? Estou ficando[n]bom em dizer[n]o que realmente penso...[n][f 1 3 65535][w][e]
 
 [msg MSG_049_0_0 [Haru]]
 [s][bup 0 7 6 65535 0][f 4 10 65535 0 0][vp 8 2 0 3088 65535 0]P-por algum motivo... Só olhando para você eu[n]sinto um frio na barriga ...[n][f 1 3 65535][w][e]

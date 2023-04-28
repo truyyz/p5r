@@ -56,13 +56,13 @@
 [s][bup 0 3 4 0 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Hrgh...[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Jornalista famoso]]
-[s][vp 8 0 0 20 8 0]O que acontece? Este[n]ruído é insuportável.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 20 8 0]O que está acontecendo?[n]Este ruído é insuportável.[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Ryuji]]
-[s][bup 0 2 11 65535 0][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]Ei, sua vadia...[n][f 1 3 65535][w][e]
+[s][bup 0 2 11 65535 0][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]Ei, sua idiota...[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Relações públicas]]
-[s][vp 8 0 0 22 10 0]Peço desculpas! Eu os faço sair imediatamente![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 22 10 0]Peça desculpas! Eu os faço sair imediatamente![n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Relações públicas]]
 [s][vp 8 0 0 35 65535 0]Então, é hora de obter[n]alguma experiência prática![n][f 1 3 65535][w][e]
@@ -89,7 +89,7 @@
 [s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 29 65535 0]Uuuh, Ok...[n][f 1 3 65535][w][e]
 
 [msg MSG_027_0_0 [Ryuji]]
-[s][bup 0 2 11 65535 0][f 4 10 65535 0 0][vp 8 0 0 30 65535 0]Muito prazer um galo.[n]Seu objetivo é óbvio.[n][f 1 3 65535][w][e]
+[s][bup 0 2 11 65535 0][f 4 10 65535 0 0][vp 8 0 0 30 65535 0]Muito prazer meu saco.[n]Seu objetivo é óbvio.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 31 65535 0]Esses adultos decadentes[n]só se preocupam com a aparência![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 32 65535 0]Seus bastardos, eu vou arrancar[n]seu coração de seu peito![n][f 1 3 65535][w][e]
 

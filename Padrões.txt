@@ -1,0 +1,79 @@
+A tradução possui alguns padrões universais que precisam ser mantidos para a coerência da obra.
+
+Codinomes permanecem em inglês (Joker, Mona, Queen...)
+
+Trickster = Trapaceiro
+
+Arcanas
+The Fool = O Louco
+The Empress = A Imperatriz
+The Emperor = O Imperador
+Hiero. = Hiero.
+Hierophant = Hierofante
+Lovers = Amantes
+Chariot = Carruagem
+Magician = Mago
+Justice = Justiça
+Hermit = Eremita
+Fortune = Fortuna
+Strength = Força
+Death = Morte
+Temper. = Temper.
+Temperance = Temperança
+Priestess = Sacerdotisa
+Devil = Diabo
+Sun = Sol
+Judge = Julga.
+Judgement = Julgamento
+Tower = Torre
+Star = Estrela
+Moon = Lua
+Hanged = Enforcado 
+Faith = Fé
+Councillor = Conselheiro
+
+Termos
+My ass = Meu saco
+
+Inimigos
+Treasure Demons = Demônios Tesouro
+
+Atributos
+Kindness = Gentileza
+Guts = Coragem
+Knowleadge = Conhecimento
+Proeficiency = Proficiência
+Charm = Charme 
+
+Baton Pass = (ainda não definido)
+
+Batalha 
+Ailment = Efeitos Negativos
+Accuracy = Precisão
+Evasion = Evasão
+
+Elementos
+Fire = Incendiar
+Ice = Gelo
+Wind = Vento
+Eletricity = Eletricidade
+Psychokinesis = Psicocinese
+Nuke = Nuclear 
+Bless = Benção 
+Curse = Maldição
+Almighty = Divino
+
+Níveis de Força (dos elementos)
+Minuscle = Minúsculo
+Light = Leve 
+Medium = Médio 
+Heavy = Alto
+Colossal = Colossal
+Severe = Severo
+
+Condições:
+Burn/On Fire = Queimaduras
+Dizzy = Tonto
+Hunger = Faminto
+Forget = Amnésia
+Freeze = Congelado

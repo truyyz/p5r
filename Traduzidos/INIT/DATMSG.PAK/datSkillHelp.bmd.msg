@@ -332,7 +332,7 @@
 [s]Aumenta a chance de[n]infligir[n]aflições negativas em um inimigo.[n][e]
 
 [msg skill_06F]
-[s]Aumenta a chance de[n]infligir[n]doenças negativas a todos.[n][e]
+[s]Aumenta a chance de[n]infligir[n]Efeitos Negativos a todos.[n][e]
 
 [msg skill_070]
 [s]Alta chance de infligir[n]Fúria em um inimigo.[n][e]
@@ -557,7 +557,7 @@
 [s]Aumenta a defesa[n]de todos os aliados por[n]3 turnos.[n][e]
 
 [msg skill_0BA]
-[s]Cura todas[n]doenças não especiais de[n]todos os aliados.[n][e]
+[s]Cure todos[n]os Efeitos Negativos de[n]todos os aliados.[n][e]
 
 [msg skill_0BB]
 [s]Dano do próximo[n]ataque mágico[n]de um aliado causa o dobro de dano.[n][e]
@@ -944,16 +944,16 @@
 [s]VAZIO[n][e]
 
 [msg skill_13B]
-[s]Cura todas as habilidades não especiais[n]negativas[n]de um aliado.[n][e]
+[s]Cura todas as habilidades não especiais[n]Negativas[n]de um aliado.[n][e]
 
 [msg skill_13C]
-[s]Cura todas as doenças não especiais[n]negativas de[n]todos os aliados.[n][e]
+[s]Cura todos os Efeitos Negativos não especiais[n]de todos os aliados.[n][e]
 
 [msg skill_13D]
 [s]VAZIO[n][e]
 
 [msg skill_13E]
-[s]Cura acidentes não especificados. restaurando o HP de todos os aliados.[n][e]
+[s]Cura Efeitos Negativos Não-Especiais.[n]Restaura o HP de todos os aliados.[n][e]
 
 [msg skill_13F]
 [s]VAZIO[n][e]
@@ -2549,10 +2549,10 @@
 [s]Prevenir a Fome.[n][e]
 
 [msg skill_352]
-[s]Metade do tempo que leva para curar de[n]doenças negativas.[n][e]
+[s]Leva metade do tempo para curar de[n]Efeitos Negativos.[n][e]
 
 [msg skill_353]
-[s]Reduz o tempo[n]para curar[n]doenças negativas para 1 turno.[n][e]
+[s]Reduz o tempo[n]para se curar de[n]Efeitos Negativos para 1 turno.[n][e]
 
 [msg skill_354]
 [s]Reduz pela metade o custo HP[n]das habilidades.[n][e]
@@ -2954,7 +2954,7 @@
 [s]Aumenta todas as[n]habilidades Mágicas em 25%.[n][e]
 
 [msg skill_3D9]
-[s]Diminui a chance[n]de ser afetado por[n]doenças negativas.[n][e]
+[s]Diminui a chance[n]de ser afetado por[n]Efeitos Negativos.[n][e]
 
 [msg skill_3DA]
 [s]Aumenta[n]habilidades Divinas em 25%.[n][e]

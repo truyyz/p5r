@@ -72,7 +72,7 @@
 
 [sel SEL_016_0_0 top]
 [s]O que você quer dizer?[e]
-[s]Onde você quer ir?[e]
+[s]Onde você quer chegar?[e]
 
 [msg MSG_017_0_0 [Maruki]]
 [s][bup 0 216 400 65535 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Oh, acho que é mais correto perguntar[n]"Vocês dois senhores têm[n]alguma dúvida"?[n][f 1 3 65535][w][e]

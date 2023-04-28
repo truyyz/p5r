@@ -14,7 +14,7 @@
 
 [sel SEL_002_0_0 top]
 [s]Obrigado[e]
-[s]Parece engraçado.[e]
+[s]Parece divertido.[e]
 [s]Para fazer o que?[e]
 
 [msg MSG_003_0_0 [Lala Escargot]]

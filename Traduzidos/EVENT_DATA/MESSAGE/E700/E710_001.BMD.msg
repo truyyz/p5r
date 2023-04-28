@@ -28,7 +28,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você quer me dizer que[n]cinco mil ienes não é suficiente para você?[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Sojiro]]
-[s][bup 0 103 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 5024 65535 0]Você vê? Às vezes eu posso ser legal.[n][f 1 3 65535][w][e]
+[s][bup 0 103 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 5024 65535 0]Viu? Às vezes eu posso ser legal.[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Sojiro]]
 [s][bup 0 103 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 5054 65535 0]No entanto, lembre-se de fechar[n]compras, como sempre.[n][f 1 3 65535][w][e]

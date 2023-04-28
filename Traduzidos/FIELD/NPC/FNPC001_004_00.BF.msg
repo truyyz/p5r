@@ -301,7 +301,7 @@
 
 [sel SEL_0103_0108_SHIHO_004_ top]
 [s]Parece um trabalho cansativo.[e]
-[s]Parece engraçado.[e]
+[s]Parece divertido.[e]
 
 [msg MSG_0103_0108_SHIHO_005_ [Shiho]]
 [s][f 4 23 1 65535 3 10 0 10][bup 0 212 601 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Hahaha, de jeito nenhum.[n][w][e]

@@ -2,7 +2,7 @@
 [s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 53702 65535 0]Mementos é o palácio[n]do público em geral, certo?[n][w][e]
 
 [msg AT_D_BF_D05_010_mes02 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Sim. Onde você quer ir?[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Sim. Onde você quer chegar?[n][w][e]
 
 [msg AT_D_BF_D05_010_mes03 [Yusuke]]
 [s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4129 65535 0]Bem, para Madarame era um museu,[n]para Kaneshiro um banco e para[n]Prof. Kamoshida um castelo...[n][w][e]

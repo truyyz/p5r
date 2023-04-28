@@ -8951,7 +8951,7 @@
 [s][vp 1 0 0 5561 0 0]Não apresse as coisas ou você só vai se cansar.[n]Aventure-se em suas façanhas no ritmo certo.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC05_mes562]
-[s][vp 1 0 0 5562 0 0]Parece engraçado. Eu também posso[n]achá-lo do meu agrado.[n][f 1 6 65535][e]
+[s][vp 1 0 0 5562 0 0]Parece divertido. Eu também posso[n]achá-lo do meu agrado.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC05_mes563]
 [s][vp 1 0 0 5563 0 0]Esses solavancos estão tendo[n]efeitos desagradáveis no meu estômago.[n][f 1 6 65535][e]
@@ -11876,7 +11876,7 @@
 [s][vp 1 0 0 13557 0 0]Não se preocupe com isso.[n]Você é forte, você vai conseguir.[n][f 1 6 65535][e]
 
 [msg D_CAR_PC03_mes10558]
-[s][vp 1 0 0 13558 0 0]Parece engraçado. Espero[n]ouvir muitas histórias[n]quando você voltar![n][f 1 6 65535][e]
+[s][vp 1 0 0 13558 0 0]Parece divertido. Espero[n]ouvir muitas histórias[n]quando você voltar![n][f 1 6 65535][e]
 
 [msg D_CAR_PC03_mes10559]
 [s][vp 1 0 0 13559 0 0]Aparentemente, houve um[n]Phantom Thief na história japonesa[n]cujo vestido ela roubou.[n][f 1 6 65535][e]

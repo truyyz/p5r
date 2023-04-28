@@ -61,7 +61,7 @@
 
 [sel SEL_020_0_0 top]
 [s]Que tipo de acordo?[e]
-[s]Onde você quer ir?[e]
+[s]Onde você quer chegar?[e]
 
 [msg MSG_021_0_0 [Deus do controle]]
 [s][vp 8 0 0 35 65535 0]Se você quiser, posso restaurar[n]o mundo ao seu estado anterior...[n]um cheio de massas distorcidas.[n][f 1 3 65535][w][e]

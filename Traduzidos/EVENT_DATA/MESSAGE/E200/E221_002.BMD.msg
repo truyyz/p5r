@@ -8,7 +8,7 @@
 [s][vp 8 0 0 3 7 0]Você realmente acha que foram aqueles Phantom[n]Thieves? Você sabe, não, toda a coisa do roubo[n]do coração.[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Aluno gentil]]
-[s][vp 8 0 0 4 8 0]Isso... Impossível. Mas, por outro lado[n]mão... seria muito conveniente[n]se fosse tudo uma coincidência.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 4 8 0]Isso... É impossível. Mas, por outro lado...[n]seria muito conveniente[n]se fosse tudo uma coincidência.[n][f 1 3 65535][w][e]
 
 [msg MSG_003_5_0]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 10 300 1][f 1 12][e]

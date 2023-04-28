@@ -54,7 +54,7 @@
 [s][bup 0 8 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Haru![n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Haru]]
-[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]Desculpe a espera.[n][f 1 3 65535][w][e]
+[s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]Desculpe a demora.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 58 65535 0]E fui eu que lhe pedi[n]para dedicar um tempo a mim...[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Makoto]]

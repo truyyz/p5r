@@ -36,7 +36,7 @@
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][f 4 24 0 5 6 36 5 100][f 4 24 0 5 2 9 5 100][vp 8 0 0 15 65535 0]Ei, que tal tentarmos?[n][f 1 3 65535][w][e]
 
 [sel SEL_009_0_0 top]
-[s]Parece engraçado.[e]
+[s]Parece divertido.[e]
 [s]Você vai me fazer perder...[e]
 
 [msg MSG_010_0_0 [Ryuji]]
@@ -46,7 +46,7 @@
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Ei, olha quem está falando! Eu vou te mostrar[n]mostrar minhas habilidades com dardos![n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Ryuji]]
-[s][bup 0 2 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Uau! Agora touro!?![n]Uau, este é um bom[n]começo![n][f 1 3 65535][w][e]
+[s][bup 0 2 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Uau! Um "Bull" logo de cara!?![n]Uau, este é um bom[n]começo![n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Aqui está! Nunca subestime um[n]ex atleta![n][f 1 3 65535][w][e]

@@ -38,7 +38,7 @@
 [s][vp 8 0 0 14 65535 0](わざとらしいため息)[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Kawakami]]
-[s][bup 0 109 3 0 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Você vê? É por isso que não quero que[n]vocês fiquem juntos. Claro?[n][f 1 3 65535][w][e]
+[s][bup 0 109 3 0 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Viu? É por isso que não quero que[n]vocês fiquem juntos. Claro?[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Kamoshida]]
 [s][bup 0 202 0 0 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Por que ele permitiu que um aluno[n]como ele se mudasse para cá? Ela já[n]começou a sair com Sakamoto.[n][f 1 3 65535][w][e]

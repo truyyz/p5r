@@ -132,7 +132,7 @@
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 46 65535 0]No entanto, não temos ideia[n]do que[n]Akechi-kun tem em mente.[n][f 1 3 65535][w][e]
 
 [msg MSG_044_0_0 [Empregada estudante]]
-[s][vp 8 0 0 47 65535 0]Desculpe a espera.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 47 65535 0]Desculpe a demora.[n][f 1 3 65535][w][e]
 
 [msg MSG_045_0_0 [Ann]]
 [s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 48 65535 0]Oooh, está preparado na hora![n][f 1 3 65535][w][e]

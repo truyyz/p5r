@@ -189,7 +189,7 @@
 [s]O design é muito legal![n][w][e]
 
 [msg TV_SHOPPING_ITEM_09_00 [Locutor]]
-[s]Afaste os assediadores com este[n]Nuke Stick! É portátil e[n]você pode colocá-lo na bolsa![n][w][e]
+[s]Afaste os assediadores com este[n]Graveto Nuclear! É portátil e[n]você pode colocá-lo na bolsa![n][w][e]
 
 [msg TV_SHOPPING_ITEM_09_01 [Apresentador]]
 [s]Quase compro também![n][w][e]
@@ -2062,7 +2062,7 @@
 [s][bup 0 3 0 0 0]モルガナのコメント[n][w][e]
 
 [msg TV_NEWS_1213_000_00 [Locutor]]
-[s]Manca poco alla fase finale della[n]campagna elettorale, ma il partito[n]×× continua a ricevere critiche...[n][w][e]
+[s]Aproxima-se a fase final da [n]campanha eleitoral, mas o [n]partido ×× continua a receber críticas...[n][w][e]
 [s]Apesar das promessas eleitorais,[n]poucos manifestaram[n]interesse em seus discursos...[n][w][e]
 
 [msg TV_NEWS_1213_100_00 [Morgana]]

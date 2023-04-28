@@ -1718,7 +1718,7 @@
 [s][vp 8 0 0 0 65535 0]Hahaha, você não deveria ser tão sincero! Você[n]está exagerando um pouco. Ahahahah![n][f 1 3 65535][w][e]
 
 [msg MSG_520_0_0 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Huh? O fogo é usado para cozinhar yakisoba![n]Como no seu[n]churrasco! Você vê? É a mesma coisa![n][f 1 3 65535][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Huh? O fogo é usado para cozinhar yakisoba![n]Como no seu[n]churrasco! Viu? É a mesma coisa![n][f 1 3 65535][w][e]
 
 [msg MSG_521_0_0 [Mulher sofisticada em traje]]
 [s][vp 8 0 0 0 65535 0]Não, é completamente diferente.[n]*suspiro* Não estou interessado em[n]crianças sem dinheiro.[n][f 1 3 65535][w][e]
