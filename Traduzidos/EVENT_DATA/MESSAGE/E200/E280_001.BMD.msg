@@ -52,7 +52,7 @@
 [s][bup 0 103 2 0 0][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]...Que cara é essa?[n]Você tem algo a dizer?[n][f 1 3 65535][w][e]
 
 [sel SEL_014_0_0 top]
-[s]O que acontece?[e]
+[s]O que aconteceu?[e]
 [s]Quadra?[e]
 [s]Confiança?[e]
 

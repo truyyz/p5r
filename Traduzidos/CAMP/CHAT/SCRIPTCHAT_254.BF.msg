@@ -66,7 +66,7 @@
 [s][f 5 14]"Acerto Leblanc!" Parece[n]viável para mim, como um plano...[n][f 1 3 65535][w][e]
 
 [sel SEL_044_0_0 top]
-[s][f 5 14]Vamos fazê-lo.[e]
+[s][f 5 14]Vamos fazer isso.[e]
 [s]É uma ideia terrível.[e]
 
 [msg MSG_045_0_0 [Ryuji]]

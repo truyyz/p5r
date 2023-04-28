@@ -24,7 +24,7 @@
 [s][f 5 14]Não sei se gosto muito[n]como ideia, sabe?[n][f 1 3 65535][w][e]
 
 [sel SEL_007_0_0 top]
-[s]Vamos fazê-lo.[e]
+[s]Vamos fazer isso.[e]
 [s]Não há muita escolha.[e]
 [s]Quer ignorá-lo?[e]
 

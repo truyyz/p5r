@@ -51,7 +51,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Quero dizer, estou vivo, certo?[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]O que acontece? Quando você chora[n]você não fica muito bonita.[n][f 1 3 65535][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]O que aconteceu? Quando você chora[n]você não fica muito bonita.[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Ann]]
 [s][bup 0 4 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]É tudo culpa sua![n][f 1 3 65535][w][e]

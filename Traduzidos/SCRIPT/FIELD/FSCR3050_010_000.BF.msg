@@ -5,13 +5,13 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1174 65535 0]Bem, então vamos começar![n][w][e]
 
 [msg MSG_TRAINING_START_THINK_3 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1058 65535 0]Você se exercita um pouco?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1058 65535 0]Você quer se exercitar?[n][w][e]
 
 [msg MSG_TRAINING_START_THINK_4 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0]Como você tem o dia de folga,[n]você deve ser capaz de treinar[n]mais do que o normal.[n][w][e]
 
 [sel SEL_TRAINING_START top]
-[s]Vamos fazê-lo.[e]
+[s]Vamos fazer isso.[e]
 [s]Deixa para lá.[e]
 
 [msg MSG_ActNG_BanditDay [Morgana]]

@@ -39,5 +39,5 @@
 
 [msg MSG_009_0_0 [Sae]]
 [s][bup 0 105 2 65535 0][vp 1 0 0 17 0 0]Tsk...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Concordo Continue me contando[n]sobre o caso de Madarame.[n]Seja breve e diga-me a verdade.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Certo. Continue me contando[n]sobre o caso de Madarame.[n]Seja breve e diga-me a verdade.[n][f 1 3 65535][w][e]
 

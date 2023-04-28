@@ -32,5 +32,5 @@
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Temos que procurar[n]ao redor para encontrá-los?[n][w][e]
 
 [msg e259_503_mes06_01 [Yusuke]]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]É assim que parece. Vamos fazê-lo.[n][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]É assim que parece. Vamos fazer isso.[n][w][e]
 

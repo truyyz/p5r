@@ -10,7 +10,7 @@
 [s][bup 0 8 0 65535 0][f 4 23 1 209 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Então, podemos entrar hoje?[n][w][e]
 
 [sel SEL_C09_SOJIRO_00_01_00 top]
-[s]Vamos fazê-lo.[e]
+[s]Vamos fazer isso.[e]
 [s]Talvez outra hora.[e]
 
 [msg MSG_C09_SOJIRO_00_02_00 [Futaba]]
@@ -124,7 +124,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Agora só falta enviar[n]a carta de aviso. Vejo você[n]na reunião?[n][w][e]
 
 [sel SEL_C09_ACTION_D00_99_00 top]
-[s]Vamos fazê-lo.[e]
+[s]Vamos fazer isso.[e]
 [s]Talvez mais tarde.[e]
 
 [msg MSG_C09_ACTION_D00_99_00 [Futaba]]
@@ -196,7 +196,7 @@
 [s][bup 0 8 2 65535 0][f 4 23 1 209 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 9189 65535 0]Enviamos a carta de aviso,[n][f 4 2]! Minha mãe...Sojiro...[n]eu tenho que vingar todo mundo![n][w][e]
 
 [sel SEL_C09_ACTION_D07_99_00 top]
-[s]Vamos fazê-lo.[e]
+[s]Vamos fazer isso.[e]
 [s]Talvez mais tarde.[e]
 
 [msg MSG_C09_ACTION_D07_99_00 [Futaba]]
@@ -256,7 +256,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Você não acha que devemos[n]mover rapidamente?[n][w][e]
 
 [sel SEL_C09_ACTION_D10_20_01 top]
-[s]Vamos fazê-lo.[e]
+[s]Vamos fazer isso.[e]
 [s]Talvez mais tarde.[e]
 
 [msg MSG_C09_BEGIN_D10_20_02 [Futaba]]

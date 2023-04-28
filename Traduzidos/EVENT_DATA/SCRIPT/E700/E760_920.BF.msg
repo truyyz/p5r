@@ -26,7 +26,7 @@
 [s][vp 8 2 0 0 65535 0]......[n][f 1 3 65535][w][e]
 
 [sel SEL_006_0_0 top]
-[s]O que acontece?[e]
+[s]O que aconteceu?[e]
 [s]......[e]
 
 [msg MSG_007_0_0 [Morgana]]

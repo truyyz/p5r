@@ -980,7 +980,7 @@
 [s]E então, uma vez que você[n]decidiu, você vai até o fim?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_10]
-[s]Hã? O que acontece?[n][w][e]
+[s]Hã? O que aconteceu?[n][w][e]
 [s]Eu vi suas mãos tremendo, ou estou errado? Você é[n]atormentado por sentimentos de culpa?[n][w][e]
 
 [sel TalkSel_GUY_CHAT_SQ_10 top]

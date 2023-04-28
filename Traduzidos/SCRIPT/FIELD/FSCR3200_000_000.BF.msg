@@ -5,7 +5,7 @@
 [s]Eu assisto um pouco de TV?[n][w][e]
 
 [sel CAFE_TV_MAIN_OFF_SEL top]
-[s]Vamos fazê-lo.[e]
+[s]Vamos fazer isso.[e]
 [s]Uh...[e]
 
 [msg CAFE_TV_THINK [Morgana]]

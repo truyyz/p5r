@@ -99,7 +99,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]H-há algo que eu tenho que te dizer,[n]senpai![n][f 1 3 65535][w][e]
 
 [sel SEL_024_0_0 top]
-[s]O que acontece?[e]
+[s]O que aconteceu?[e]
 [s]Mais alguma coisa?[e]
 [s][f 0 8 2 1 2217]Continuar.[clr 27][e]
 

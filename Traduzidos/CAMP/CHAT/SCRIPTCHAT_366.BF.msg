@@ -2,7 +2,7 @@
 [s][f 5 14]Então? Queremos conhecer?[n][w][e]
 
 [sel SEL_001_00 top]
-[s][f 5 14]Vamos fazê-lo.[e]
+[s][f 5 14]Vamos fazer isso.[e]
 [s]Melhor não.[e]
 [s]Você decide.[e]
 

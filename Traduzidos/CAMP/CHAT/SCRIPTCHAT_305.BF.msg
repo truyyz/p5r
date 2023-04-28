@@ -114,7 +114,7 @@
 [s][f 5 14]Ei, [f 4 2]. Amanhã falaremos com Mishima. Isso[n]é mais coisas para ele.[n][w][e]
 
 [sel SEL_038_0_0 top]
-[s][f 5 14]Vamos fazê-lo.[e]
+[s][f 5 14]Vamos fazer isso.[e]
 [s]Mishima faz parte de Medjed?[e]
 [s]Faça o que você quiser.[e]
 

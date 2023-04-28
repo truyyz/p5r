@@ -26,16 +26,16 @@
 [s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Bem, até mais tarde pessoal.[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Morgana]]
-[s][bup 0 3 10 0 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Lady Ann vai ficar bem!?! E se[n]ele a arrastasse depois de uma[n]pintura para fazer sabe o quê?[n][f 1 3 65535][w][e]
+[s][bup 0 3 10 0 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Lady Ann vai ficar bem!?! E se[n]ele a arrastasse ao lado de uma[n]pintura para fazer sabe o quê?[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Ryuji]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 3 301 1][vp 8 0 0 11 65535 0]Eu disse para você não aparecer![n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 3 301 1][vp 8 0 0 11 65535 0]Eu disse para você não sair![n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Ryuji]]
 [s][bup 0 2 7 65535 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Nós realmente viemos aqui para[n]olhar pinturas? Não podemos[n]ir para casa?[n][f 1 3 65535][w][e]
 
 [sel SEL_011_0_0 top]
-[s]Nós investigamos Madarame.[e]
+[s]Viemos investigar Madarame.[e]
 [s]Devemos dar uma olhada.[e]
 [s]Eu quero ficar.[e]
 
@@ -43,7 +43,7 @@
 [s][bup 0 2 7 65535 0][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Receio que tenhamos que filmar a[n]exposição pelo menos uma vez...[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Ryuji]]
-[s][bup 0 2 7 65535 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Bem, enquanto estamos aqui...[n][f 1 3 65535][w][e]
+[s][bup 0 2 7 65535 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Bem, viemos até aqui...[n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Ryuji]]
 [s][bup 0 2 7 65535 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]... Tudo bem então. Nós viemos[n]até aqui, então farei um tour[n]também.[n][f 1 3 65535][w][e]
@@ -63,18 +63,18 @@
 [s][vp 8 0 0 22 11 0]De onde você tira[n]sua inspiração?[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Madarame]]
-[s][bup 0 203 0 0 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Bem...É muito difícil[n]colocar em palavras...[n][f 1 3 65535][w][e]
+[s][bup 0 203 0 0 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Bem... É muito difícil[n]colocar em palavras...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Cada obra flui naturalmente[n]do fundo do meu coração, como[n]os jatos espumosos de uma fonte.[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Entrevistador]]
-[s][vp 8 0 0 25 11 0]Claro, ele diz?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 25 11 0]Naturalmente, você diz?[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Madarame]]
 [s][bup 0 203 0 0 0][f 4 10 65535 0 0][vp 8 0 0 26 65535 0]O que importa é fugir[n]dos desejos materiais, como[n]dinheiro e fama.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 27 65535 0]Meu ateliê é uma modesta[n]cabana, mas é mais do que suficiente[n]para buscar a verdadeira beleza.[n][f 1 3 65535][w][e]
 
 [msg MSG_021_5_0 [Ryuji]]
-[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 28 65535 0]...Um barraco?[n][f 1 3 65535][w][e]
+[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 28 65535 0]...Uma cabana?[n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Entrevistador]]
 [s][vp 8 0 0 29 11 0]Entendo... Portanto, esvaziar[n]a mente permite que a[n]beleza interior emerja.[n][f 1 3 65535][w][e]
@@ -146,8 +146,8 @@
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 53 65535 0]...Isto?[n][f 1 3 65535][w][e]
 
 [msg MSG_043_0_0 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 54 65535 0]Presumo que você represente a raiva do pintor?[n]Não tenho certeza, mas[n]vejo uma enorme frustração.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 55 65535 0]E pensar que uma pessoa tão[n]solar e gentil poderia criar[n]um trabalho semelhante...[n][f 1 3 65535][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 54 65535 0]Presumo que represente a raiva do pintor?[n]Não tenho certeza, mas[n]sinto uma enorme frustração.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 55 65535 0]E pensar que uma pessoa tão alegre e cavalheira[n]poderia fazer tal obra...[n][f 1 3 65535][w][e]
 
 [msg MSG_044_0_0 [Yusuke]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 5 5 300 1][vp 1 0 0 56 0 0]......[n][f 1 3 65535][w][e]
@@ -156,7 +156,7 @@
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 57 65535 0]Há algo errado?[n][f 1 3 65535][w][e]
 
 [msg MSG_046_0_0 [Yusuke]]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 58 65535 0]Não se importe.[n][f 1 3 65535][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 58 65535 0]Não se incomode comigo.[n][f 1 3 65535][w][e]
 [s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 59 65535 0]Existem trabalhos melhores do que...[n]este. Venha por aqui![n][f 1 3 65535][w][e]
 
 [msg MSG_047_0_0 [Ann]]

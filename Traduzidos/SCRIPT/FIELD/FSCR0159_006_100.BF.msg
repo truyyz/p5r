@@ -8,7 +8,7 @@
 [s][bup 0 7 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 3020 65535 0]Em caso afirmativo, por que não tentamos[n]procurá-lo?[n][w][e]
 
 [sel D07_02_e410_045_selA top]
-[s]Vamos fazê-lo.[e]
+[s]Vamos fazer isso.[e]
 [s]Agora não.[e]
 
 [msg D07_02_e410_045_selA_0_m [Futaba]]

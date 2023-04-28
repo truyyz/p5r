@@ -57,7 +57,7 @@
 [s][bup 0 102 1 0 0][f 4 10 65535 0 0][vp 8 0 1 3 65535 0][f 4 23 1 121 4 3 0 3]Ok, mãos à obra![n][w][e]
 
 [sel BTL_SEL_01 top]
-[s]Vamos fazê-lo.[e]
+[s]Vamos fazer isso.[e]
 [s]Não sei...[e]
 
 [msg BTL_MES_04 [Caroline]]

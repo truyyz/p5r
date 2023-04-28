@@ -35,7 +35,7 @@
 
 [sel SEL_009_0_0 top]
 [s]Está bem.[e]
-[s]Vamos fazê-lo.[e]
+[s]Vamos fazer isso.[e]
 
 [msg MSG_010_0_0 [Akechi]]
 [s][bup 0 9 101 65535 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Obrigado por aceitar este[n]meu pedido egoísta.[n][f 1 3 65535][w][e]

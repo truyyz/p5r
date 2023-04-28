@@ -640,7 +640,7 @@
 [s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Qual é o problema? Hoje ainda não[n]exploramos nada.[n][w][e]
 
 [msg DUNGEON_EXIT_NOT_01_PC06 [Makoto]]
-[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]O que acontece? Você quer voltar[n]mesmo que ainda não tenhamos feito nada?[n][w][e]
+[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]O que aconteceu? Você quer voltar[n]mesmo que ainda não tenhamos feito nada?[n][w][e]
 
 [msg DUNGEON_EXIT_NOT_01_PC07 [Futaba]]
 [s][bup 0 8 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Huh? Devemos ir para casa, Joker?[n]Nós basicamente[n]não fizemos nada hoje.[n][w][e]

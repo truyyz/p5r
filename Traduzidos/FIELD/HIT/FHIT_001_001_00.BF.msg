@@ -306,7 +306,7 @@
 [s][vp 1 0 0 0 0 0]Por enquanto, é melhor eu me apressar e encontrar[n]Ann...[n][w][e]
 
 [msg MSG_E19310100_GOTO_MADAR [Ryuji]]
-[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 7115 65535 0]Tem certeza que é daqui?[n]Não me lembro de ter visto nenhuma casa.[n][w][e]
+[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 7115 65535 0]Tem certeza que é pra cá?[n]Não me lembro de ter visto nenhuma cabana.[n][w][e]
 
 [msg MSG_E19310100_GOTO_MADAR_2 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 6127 65535 0]Deve estar em uma área[n]residencial na Central Street.[n][w][e]

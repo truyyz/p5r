@@ -2,7 +2,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Tudo bem, equipe na estrada.[n][f 1 3 65535][w][e]
 
 [sel SEL_NextPlayOrder_Ans top]
-[s]Vamos fazê-lo.[e]
+[s]Vamos fazer isso.[e]
 [s]Como estão as coisas com [var 0]...[e]
 [s]Paramos por aqui por hoje.[e]
 

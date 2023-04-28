@@ -6,7 +6,7 @@
 
 [sel e380_121_selA top]
 [s]Isso não me surpreende.[e]
-[s]Vamos fazê-lo.[e]
+[s]Vamos fazer isso.[e]
 
 [msg e380_121_selA_0_mes01 [Yusuke]]
 [s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Sabíamos no que estávamos nos metendo. Afinal,[n]nós somos os Phantom Thieves.[n][w][e]

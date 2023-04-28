@@ -338,7 +338,7 @@
 [s][bup 0 3 3 0 0][vp 8 2 1 0 65535 0]......[n][w][e]
 
 [sel SEL_Sofa0905 top]
-[s]O que acontece?[e]
+[s]O que aconteceu?[e]
 [s]Você está triste?[e]
 
 [msg MSG_SOFA_0905_01 [Morgana]]

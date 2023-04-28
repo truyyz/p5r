@@ -58,7 +58,7 @@
 [s]Onde estão os primogênitos?[e]
 
 [msg JYOSHIFUTARI_03_0_0 [Aluno irritado]]
-[s][f 4 23 1 836 3 10 0 0]Huh? Não, eu não...[n]Por quê? O que acontece?[n][w][e]
+[s][f 4 23 1 836 3 10 0 0]Huh? Não, eu não...[n]Por quê? O que aconteceu?[n][w][e]
 
 [msg JYOSHIFUTARI_04_0_0 [Aluno irritado]]
 [s][f 4 23 1 836 3 10 0 0]Bem aqui...[n]Você está procurando por alguém?[n][w][e]

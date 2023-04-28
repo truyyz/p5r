@@ -17,7 +17,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 0 1035 65535 0]Bem, você não se saiu tão mal.[n]Você deveria ter obtido uma[n]pontuação decente, certo?[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]O que acontece? Você está demorando muito com as[n]respostas.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]O que aconteceu? Você está demorando muito com as[n]respostas.[n][f 1 3 65535][w][e]
 [s][bup 0 3 0 0 0][vp 8 2 65535 0 0 0]......[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 1038 65535 0]Hmm... Não foi muito bem.[n]Não espero uma boa pontuação.[n][f 1 3 65535][w][e]
 

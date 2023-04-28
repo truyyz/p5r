@@ -20,7 +20,7 @@
 [s][f 5 14][f 5 15]Cara, teoricamente eu deveria ser um[n]herói também...[n][w][e]
 
 [msg MSG_021_0_0 [Ryuji]]
-[s][f 5 14]O que acontece? Você está demorando muito[n]para responder. Aconteceu alguma coisa?[n][w][e]
+[s][f 5 14]O que aconteceu? Você está demorando muito[n]para responder. Aconteceu alguma coisa?[n][w][e]
 
 [sel SEL_022_0_0 top]
 [s][f 5 14]Esta noite janto com a família.[e]

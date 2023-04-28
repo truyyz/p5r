@@ -5567,7 +5567,7 @@
 [s][vp 1 0 0 8251 0 0]Eu detectei um sistema de segurança.[n]Tenha cuidado.[n][f 1 6 65535][e]
 
 [msg D_NAVI_MAPOPEN_PC08_mes0]
-[s][vp 1 0 0 8252 0 0]O que acontece? Você está perdido?[n][f 1 6 65535][e]
+[s][vp 1 0 0 8252 0 0]O que aconteceu? Você está perdido?[n][f 1 6 65535][e]
 
 [msg D_NAVI_MAPOPEN_PC08_mes0_2]
 [s][vp 1 0 0 8253 0 0]Oh, quer ver o mapa?[n][f 1 6 65535][e]
@@ -6602,7 +6602,7 @@
 [s][vp 1 0 0 19251 0 0]Um sistema de[n]vigilância foi instalado aqui.[n]não baixemos a guarda.[n][f 1 6 65535][e]
 
 [msg D_NAVI_MAPOPEN_PC09_mes0]
-[s][vp 1 0 0 19252 0 0]O que acontece? Não me diga que estamos[n]perdidos...[n][f 1 6 65535][e]
+[s][vp 1 0 0 19252 0 0]O que aconteceu? Não me diga que estamos[n]perdidos...[n][f 1 6 65535][e]
 
 [msg D_NAVI_MAPOPEN_PC09_mes0_2]
 [s][vp 1 0 0 19253 0 0]É sempre bom consultar o mapa.[n][f 1 6 65535][e]

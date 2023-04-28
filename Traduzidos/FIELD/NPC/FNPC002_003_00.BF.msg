@@ -482,7 +482,7 @@
 
 [msg MSG_UNDOUBUIN_008_0_0 [Jogador de futebol abrupto]]
 [s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Há uma competição de ginástica em breve, e o[n]sujeito estará participando. Deve ter o apoio de[n]toda a escola.[n][w][e]
-[s]O que acontece? Vejo você de mau humor.[n][w][e]
+[s]O que aconteceu? Vejo você de mau humor.[n][w][e]
 
 [msg MSG_UNDOUBUIN_008_1_0 [Jogador de basquete na mão]]
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Não, falando sobre corridas como esta...[n]Você sabe que eu perdi as primárias, certo?[n][w][e]

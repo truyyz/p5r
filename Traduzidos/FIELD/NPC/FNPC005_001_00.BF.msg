@@ -3013,7 +3013,7 @@
 [s][vp 8 2 1 0 73 0]Talvez a felicidade não seja apenas[n]ficar noiva e encontrar um marido.[n][w][e]
 
 [msg MSG_NOMIYA_YOUNGWOMEN_01_18 [Mulher de voz profunda]]
-[s][f 4 23 1 74 14 10 13 10][vp 8 2 1 0 74 0]...O que acontece? Você está bem?[n]Você está com febre!?[n][w][e]
+[s][f 4 23 1 74 14 10 13 10][vp 8 2 1 0 74 0]...O que aconteceu? Você está bem?[n]Você está com febre!?[n][w][e]
 
 [msg MSG_NOMIYA_YOUNGWOMEN_01_19 [Mulher estridente]]
 [s][f 4 23 1 73 14 10 13 10][vp 8 2 1 0 73 0]Então, como foi aquela consulta com os médicos?[n][w][e]

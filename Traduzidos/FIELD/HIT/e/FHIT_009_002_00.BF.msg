@@ -1413,7 +1413,7 @@
 [s]No momento o cinema[n]está fechado...[n][w][e]
 
 [msg MSG_CINEMA_NOT_OPEN02 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1170 65535 0]Não há alma viva. Parece[n]que nem abre[n]à noite. O que acontece?[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1170 65535 0]Não há alma viva. Parece[n]que nem abre[n]à noite. O que aconteceu?[n][w][e]
 
 [msg MSG_CINEMA_BOOK [Morgana]]
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 1067 65535 0]Já que você terminou de ler[n][clr 3]A Filmmaker's Soul[clr 27], aposto que[n]gosta ainda mais do filme.[n][w][e]

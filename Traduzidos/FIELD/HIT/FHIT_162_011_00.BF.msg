@@ -190,7 +190,7 @@
 [s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 57047 65535 0]Vamos entrar?[n][w][e]
 
 [sel D10_11_EX3BOSS_selA top]
-[s]Vamos fazê-lo.[e]
+[s]Vamos fazer isso.[e]
 [s]Um segundo...[e]
 
 [msg D10_11_EX3BOSS_selA_2_01 [[f 4 31 10 0]]]

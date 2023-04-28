@@ -1409,7 +1409,7 @@
 [s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_028_08_ [Shiho]]
-[s][vp 9 2 65535 38957 0 0]O que acontece? Eu pensei que[n]O Phantom Thief estava morto...[n][f 1 2 180][e]
+[s][vp 9 2 65535 38957 0 0]O que aconteceu? Eu pensei que[n]O Phantom Thief estava morto...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_528_14_ [Shiho]]
 [s][vp 9 2 65535 39155 0 0]Os Phantom Thieves devem estar[n]mentindo, certo...?[n][f 1 2 180][e]

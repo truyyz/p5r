@@ -13,23 +13,23 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Suas exposições são muito bem-sucedidas e as[n]pessoas o respeitam. Por que fantasiar sobre um[n]museu?[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Ryuji]]
-[s][bup 0 2 107 65535 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Você não está totalmente errado...[n]E nem tem a ver[n]com plágio e abuso.[n][f 1 3 65535][w][e]
+[s][bup 0 2 107 65535 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Você tem um ponto...[n]E nem tem a ver[n]com plágio ou abuso.[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Vamos dar uma olhada[n]ao redor. Ficar intrigado com isso agora[n]é bastante inútil.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Vamos dar uma olhada[n]ao redor. Ficar intrigado com isso agora[n]não vai ajudar em nada.[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Ryuji]]
 [s][bup 0 2 100 65535 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]...Certo.[n][f 1 3 65535][w][e]
 
 [msg MSG_006_5_0 [Ryuji]]
-[s][bup 0 2 101 65535 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Fora isso... Não é um museu obrigatório para[n]Phantom Thieves!?![n][f 1 3 65535][w][e]
+[s][bup 0 2 101 65535 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Fora isso... Um museu não é algo "obrigatório"[n]para os Phantom Thieves!?![n][f 1 3 65535][w][e]
 
 [sel SEL_007_0_0 top]
-[s]Sim definitivamente.[e]
-[s]Cuidado com as armadilhas, no entanto.[e]
+[s]Sim, definitivamente.[e]
+[s]Devem ter armadilhas lá dentro.[e]
 
 [msg MSG_008_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Conheça nosso Joker.[n]Eu penso como você.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Esse é o nosso Joker.[n]Eu penso a mesma coisa.[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Ryuji]]
 [s][bup 0 2 107 65535 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Concordo. Todos os fãs daquele[n]velho pareciam super legais.[n][f 1 3 65535][w][e]

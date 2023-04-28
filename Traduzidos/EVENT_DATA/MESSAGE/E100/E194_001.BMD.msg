@@ -1,5 +1,5 @@
 [msg MSG_000_0_0 [Ryuji]]
-[s][bup 0 2 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]Isso é... isso?[n][f 1 3 65535][w][e]
+[s][bup 0 2 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]Então é... isso?[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]O endereço está certo...[n][f 1 3 65535][w][e]
@@ -11,20 +11,20 @@
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]Uuuh... você toca a campainha.[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Ann]]
-[s][bup 0 4 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]O!?! Não é como se eles fossem descer[n]das paredes assim que eu...?[n][f 1 3 65535][w][e]
+[s][bup 0 4 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Eu!?! Não é como se as paredes[n]fossem cair. Né...?[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Morgana]]
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Ninguém espirra, ou[n]vamos derrubar a casa, ok?[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Quem é?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Sensei no momento...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Sensei está no momento...[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Hum, eu sou Takamaki.[n][f 1 3 65535][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Hum, sou eu Takamaki.[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Yusuke]]
-[s][bup 0 5 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Estarei ai![n][f 1 3 65535][w][e]
+[s][bup 0 5 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Estarei aí![n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Ryuji]]
 [s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Alguém realmente mora aqui...[n][f 1 3 65535][w][e]
@@ -33,11 +33,11 @@
 [s][bup 0 5 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Takamaki-sa...[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Yusuke]]
-[s][bup 0 5 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]...Vocês dois estão aí também?[n][f 1 3 65535][w][e]
+[s][bup 0 5 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]...Vocês dois vieram também?[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Oi.[n][f 1 3 65535][w][e]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Desculpe, mas... não estamos aqui para falar[n]sobre poses ou qualquer coisa assim. Não há uma[n]coisa que precisamos perguntar a você.[n][f 1 3 65535][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Desculpe, mas... não estamos aqui para falar[n]sobre poses ou qualquer coisa assim. Tem uma[n]coisa que precisamos perguntar a você.[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Ryuji]]
 [s][bup 0 2 11 65535 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]É verdade que Madarame plagia[n]pinturas de outras pessoas? E que ele abusa[n]até de pessoas?[n][f 1 3 65535][w][e]
@@ -46,7 +46,7 @@
 [s][bup 0 5 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Você está falando sério?[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Ryuji]]
-[s][bup 0 2 11 65535 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Lemos online.[n][f 1 3 65535][w][e]
+[s][bup 0 2 11 65535 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Lemos sobre isso online.[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Yusuke]]
 [s][bup 0 5 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Isso...?[n][f 1 3 65535][w][e]
@@ -81,7 +81,7 @@
 [s][bup 0 203 4 0 0][f 4 10 65535 0 0][vp 8 0 0 27 8 0]Yusuke?[n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Madarame]]
-[s][bup 0 203 0 0 0][f 4 10 65535 0 0][vp 8 0 0 28 8 0]O que acontece? Eu ouvi você gritar.[n][f 1 3 65535][w][e]
+[s][bup 0 203 0 0 0][f 4 10 65535 0 0][vp 8 0 0 28 8 0]O que aconteceu? Eu ouvi você gritar.[n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Yusuke]]
 [s][bup 0 5 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 29 65535 0]Essas pessoas estão difamando você com acusações[n]infundadas![n][f 1 3 65535][w][e]
@@ -96,7 +96,7 @@
 [s][bup 0 5 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 32 65535 0]...Eu entendo, Sensei.[n][f 1 3 65535][w][e]
 
 [msg MSG_027_0_0 [Madarame]]
-[s][bup 0 203 1 0 0][f 4 10 65535 0 0][vp 8 0 0 33 8 0]Bem, eu também duvido que um velho ranzinza como[n]eu gostaria de alguém.[n][f 1 3 65535][w][e]
+[s][bup 0 203 1 0 0][f 4 10 65535 0 0][vp 8 0 0 33 8 0]Bem, eu também duvido que um velho ranzinza como[n]eu poderia ser adorado por alguém.[n][f 1 3 65535][w][e]
 
 [msg MSG_028_0_0 [Ann]]
 [s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 34 65535 0]Não foi isso que queríamos dizer...[n][f 1 3 65535][w][e]
@@ -106,7 +106,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 36 8 0]De qualquer forma, tenho alguns[n]vizinhos por aqui.[n]Você poderia baixar o tom de voz?[n][f 1 3 65535][w][e]
 
 [msg MSG_030_0_0 [Madarame]]
-[s][bup 0 203 1 0 0][f 4 10 65535 0 0][vp 8 0 0 37 8 0]Agora, por favor.[n][f 1 3 65535][w][e]
+[s][bup 0 203 1 0 0][f 4 10 65535 0 0][vp 8 0 0 37 8 0]Agora, se me da licença.[n][f 1 3 65535][w][e]
 
 [msg MSG_031_0_0 [Yusuke]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 5 15 300 1][vp 1 0 0 86 0 0]......[n][f 1 3 65535][w][e]
@@ -136,7 +136,7 @@
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 45 65535 0]Quando te vi pela primeira vez,[n]senti a mesma emoção[n]de quando vi esta pintura...[n][f 1 3 65535][w][e]
 
 [msg MSG_039_0_0 [Ann]]
-[s][bup 0 4 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 46 65535 0]Está me vendo?[n][f 1 3 65535][w][e]
+[s][bup 0 4 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 46 65535 0]Eu?[n][f 1 3 65535][w][e]
 
 [msg MSG_040_0_0 [Yusuke]]
 [s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 47 65535 0]Eu gostaria de poder capturar[n]tal beleza.[n][f 1 3 65535][w][e]
@@ -149,7 +149,7 @@
 [s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 50 65535 0]Espero que possamos continuar a[n]discussão em outra ocasião.[n]Agora, se você não se importa.[n][f 1 3 65535][w][e]
 
 [msg MSG_042_0_0 [Ryuji]]
-[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 51 65535 0]Esses dois...parecem[n]pessoas legais, não é?[n][f 1 3 65535][w][e]
+[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 51 65535 0]Esses dois... parecem[n]pessoas legais, não é?[n][f 1 3 65535][w][e]
 
 [msg MSG_043_0_0 [Ann]]
 [s][bup 0 4 5 65535 0][f 4 10 65535 0 0][vp 8 0 0 52 65535 0]Talvez o Madarame do qual ouvimos falar nos[n]Mementos seja outra pessoa.[n][f 1 3 65535][w][e]
@@ -165,13 +165,13 @@
 
 [msg MSG_047_0_0 [Ann]]
 [s][bup 0 4 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 56 65535 0]Ele captou todas as nossas[n]conversas...?[n][f 1 3 65535][w][e]
-[s][bup 0 4 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 57 65535 0]Esta tela...significa[n]que Madarame[n]tem um Palácio também, certo!?![n][f 1 3 65535][w][e]
+[s][bup 0 4 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 57 65535 0]Esta tela... significa[n]que Madarame[n]tem um Palácio também, certo!?![n][f 1 3 65535][w][e]
 
 [msg MSG_047_5_0 [Ann]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 4 15 300 1][vp 8 0 0 58 65535 0]Mas por quê!?![n][f 1 3 65535][w][e]
 
 [msg MSG_048_0_0 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 59 65535 0]"Madarame", "plágio"... e depois[n]"cabana", hein? Alguém diria que[n]estas são as palavras-chave.[n][f 1 3 65535][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 59 65535 0]"Madarame", "plágio"... e depois[n]"cabana", hein? Essas parecem ser[n]as palavras-chave.[n][f 1 3 65535][w][e]
 
 [msg MSG_049_0_0 [Ryuji]]
 [s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 60 65535 0]Sério, o que diabos[n]está acontecendo!?![n][f 1 3 65535][w][e]
@@ -206,7 +206,7 @@
 [s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 71 65535 0]"Prisão"! "Área de armazenamento"! E "escritório[n]do conselheiro escolar "! Também inclui[n]"fazenda"![n][f 1 3 65535][w][e]
 
 [msg MSG_057_0_0 [Ryuji]]
-[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 72 65535 0]Nem uma partida...?[n][f 1 3 65535][w][e]
+[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 72 65535 0]Nem uma pista...?[n][f 1 3 65535][w][e]
 
 [msg MSG_058_0_0 [Morgana]]
 [s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 0 0 73 65535 0]...Talvez devêssemos voltar[n]outra hora?[n][f 1 3 65535][w][e]

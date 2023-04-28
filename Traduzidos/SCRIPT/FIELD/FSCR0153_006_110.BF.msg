@@ -8,7 +8,7 @@
 [s][bup 0 5 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]O-O quê...?!?[n][w][e]
 
 [sel D02_03_e210_142_selA top]
-[s]O que acontece?[e]
+[s]O que aconteceu?[e]
 [s]Tudo ok?[e]
 
 [msg D02_03_e210_142_selA_0_m [Yusuke]]

@@ -10,7 +10,7 @@
 [s][f 5 14]Eu não sei se eu realmente gosto[n]como uma ideia, sabe?[n][w][e]
 
 [sel SEL_007_0_0 top]
-[s][f 5 14]Vamos fazê-lo.[e]
+[s][f 5 14]Vamos fazer isso.[e]
 [s]Não há muita escolha.[e]
 [s]Quer ignorá-lo?[e]
 

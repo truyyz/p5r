@@ -11,7 +11,7 @@
 [s][bup 0 4 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Mas o prédio é cercado por um muro muito alto...[n][w][e]
 
 [msg e194_110_mes05 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1051 65535 0]Temos que encontrar uma maneira[n]de chegar lá em cima.[n]Vamos, vamos nos ocupar![n][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1051 65535 0]Temos que encontrar uma maneira[n]de chegar lá em cima.[n]Vamos indo nessa![n][w][e]
 
 [msg e195_101_mes01 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1035 65535 0]É realmente assim que ele vê[n]aquela cabana em ruínas...?[n]Ela brilha quase irritantemente...[n][w][e]

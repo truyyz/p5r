@@ -32,7 +32,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Em breve enviaremos a[n]carta de aviso, certo?[n][w][e]
 
 [sel SEL_C06_ACTION_D01_00_00 top]
-[s]Vamos fazê-lo.[e]
+[s]Vamos fazer isso.[e]
 [s]Eu ainda não decidi.[e]
 
 [msg MSG_C06_ACTION_D01_00_00 [Ann]]
@@ -147,7 +147,7 @@
 [s][bup 0 4 2 65535 0][f 4 23 1 226 14 10 13 10][f 4 23 1 206 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 6155 65535 0]Agora você pode viajar rapidamente[n]para a [clr 6]zona-alvo[clr 27][n][clr 6]da escuridão[clr 27].[n][w][e]
 
 [sel SEL_C06_ACTION_D00_99_00 top]
-[s]Vamos fazê-lo.[e]
+[s]Vamos fazer isso.[e]
 [s]Eu ainda não decidi.[e]
 
 [msg MSG_C06_ACTION_D00_99_00 [Ann]]
@@ -219,7 +219,7 @@
 [s][bup 0 4 2 65535 0][f 4 23 1 226 14 10 13 10][f 4 23 1 206 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 6102 65535 0]Temos que parar Shido...[n]Enviamos a carta de aviso[n]hoje, certo?[n][w][e]
 
 [sel SEL_C06_ACTION_D07_99_00 top]
-[s]Vamos fazê-lo.[e]
+[s]Vamos fazer isso.[e]
 [s]Eu ainda não decidi.[e]
 
 [msg MSG_C06_ACTION_D07_99_00 [Ann]]

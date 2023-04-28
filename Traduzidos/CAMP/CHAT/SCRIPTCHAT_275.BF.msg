@@ -38,7 +38,7 @@
 [s][f 5 14]Há mais.[n][w][e]
 
 [sel SEL_011_0_0 top]
-[s][f 5 14]O que acontece?[e]
+[s][f 5 14]O que aconteceu?[e]
 [s][f 5 14]Nos digam.[e]
 
 [msg MSG_012_0_0 [Futaba]]

@@ -715,7 +715,7 @@
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Mas... Aquele smoking, aquela[n]máscara... Por acaso você também tem[n]rosas?[n][w][e]
 
 [msg DRESSTALK_SHADOW_W_PC01__3 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Aquele?!? Que tipo de vestido é esse?!?[n][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Quê?!? Que tipo de vestido é esse?!?[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Agente... Sombra? Desculpe, não tenho ideia[n]do que seja.[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Mas parece muito resistente.[n]Você dá a impressão de ser[n]um guarda-costas confiável![n][w][e]
 

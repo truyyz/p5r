@@ -323,7 +323,7 @@
 [s][vp 8 2 1 0 18 0]Mas cresceu, novas linhas foram[n]adicionadas e hoje[n]é uma das mais movimentadas...[n][w][e]
 
 [msg MSG_AYASIOTOKO_002_3_0 [Homem suspeito]]
-[s][f 4 23 1 18 3 10 0 10][vp 8 2 1 0 18 0]Aquele?!? Claro que não![n]Não faço nada[n]estranho, juro...[n][w][e]
+[s][f 4 23 1 18 3 10 0 10][vp 8 2 1 0 18 0]Quê?!? Claro que não![n]Não faço nada[n]estranho, juro...[n][w][e]
 
 [msg MSG_AYASIOTOKO_002_4_0 [Homem suspeito]]
 [s][f 4 23 1 18 3 10 0 10][vp 8 2 1 0 18 0]Ela chegará em breve...[n]Sinto muito, mas por enquanto não posso[n]conversar mais.[n][w][e]

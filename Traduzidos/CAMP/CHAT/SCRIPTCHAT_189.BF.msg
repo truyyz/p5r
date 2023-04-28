@@ -3,7 +3,7 @@
 
 [sel SEL_001_0_0 top]
 [s][f 5 14]Como eu poderia o quê?[e]
-[s]O que acontece?[e]
+[s]O que aconteceu?[e]
 
 [msg MSG_002_0_0 [Mishima]]
 [s][f 5 14]Se você queria ir ao festival de verão,[n]por que não me convidou?!?[n][w][e]

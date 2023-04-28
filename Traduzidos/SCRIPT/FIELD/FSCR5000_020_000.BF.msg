@@ -95,7 +95,7 @@
 [s][bup 0 9 10 65535 0][f 4 10 65535 0 0]Aparentemente, o alvo não está lá.[n]Devemos explorar um pouco?[n][w][e]
 
 [msg GOTO_MEME_EXIST_TARGET_m [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0]Ei, quantos alvos temos?[n][var 0], certo? Vamos fazê-lo.[n][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0]Ei, quantos alvos temos?[n][var 0], certo? Vamos fazer isso.[n][w][e]
 
 [msg GOTO_MEME_EXIST_TARGET_m_2 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0]Atualmente, temos [var 0] alvos[n]nos Mementos. Bem, vamos lá.[n][w][e]

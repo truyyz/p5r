@@ -30,10 +30,10 @@
 [s][vp 8 2 0 0 5 0]Bem, acho que não há muito[n]que eu possa te ensinar agora.[n]Continue assim, você está indo muito bem![n][f 1 3 65535][w][e]
 
 [msg MSG_ProteinInfo [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 53101 65535 0]Ah sim, você não comprou alguns shakes de[n]proteína? Você pensou em quase tudo. Estou[n]impressionado![n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 53101 65535 0]Ah sim, você comprou alguns shakes de[n]proteína! Você pensou em quase tudo. Estou[n]impressionado![n][f 1 3 65535][w][e]
 
 [msg SYS_Protein]
-[s]Faça uso de shakes de proteína,[n]se quiser aumentar[n]a eficácia do seu treino.[n][w][e]
+[s]Faça uso de shakes de Proteína,[n]se quiser aumentar[n]a eficácia do seu treino.[n][w][e]
 
 [msg MSG_047_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Quer pegar alguma coisa?[n][f 1 3 65535][w][e]
@@ -42,7 +42,7 @@
 [s]Pegue [var 0][e]
 [s]Pegue [var 1][e]
 [s]Pegue [var 2][e]
-[s]não pegue nada[e]
+[s]Não pegar nada[e]
 
 [msg MSG_PROTEIN_CHECK_Normal [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0][f 2 5 3 9999 3], Hã? Você tem [clr 2][var 6][clr 27].[n]Que tal?[n][f 1 3 65535][w][e]

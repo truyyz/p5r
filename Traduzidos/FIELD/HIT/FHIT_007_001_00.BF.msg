@@ -282,7 +282,7 @@
 [s]O que devo fazer...?[n][w][e]
 
 [sel MSG_CAPSULE_MACHINE_SEL top]
-[s]Vamos fazê-lo.[e]
+[s]Vamos fazer isso.[e]
 [s]Deixa para lá.[e]
 
 [msg MSG_CAPSULE_MACHINE_STAR_2 [Morgana]]

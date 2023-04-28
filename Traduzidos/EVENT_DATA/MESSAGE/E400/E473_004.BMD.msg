@@ -67,7 +67,7 @@
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sushi! Sushiiiii![n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Ryuji]]
-[s][vp 8 0 0 0 65535 0][f 5 14]O que acontece? Você está demorando muito para[n]responder. Aconteceu algo?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 5 14]O que aconteceu? Você está demorando muito para[n]responder. Aconteceu algo?[n][f 1 3 65535][w][e]
 
 [sel SEL_022_0_0 top]
 [s][f 5 14]Esta noite janto com a família.[e]

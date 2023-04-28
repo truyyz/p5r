@@ -83,13 +83,13 @@
 [s]Ei! Por que você está chorando?!?[n]Ugh, eu te perdôo em troca de[n][f 2 5 3 9999 3].[n][w][e]
 
 [msg TalkMsg_EN_FAKE_CRIED01]
-[s]Hum?!? O que acontece?!? Ugh, eu[n]deixo você ir por [var 0] ienes.[n][w][e]
+[s]Hum?!? O que aconteceu?!? Ugh, eu[n]deixo você ir por [var 0] ienes.[n][w][e]
 
 [msg TalkMsg_EN_FAKE_CRIED02]
-[s]O que acontece?!? Água de seus olhos?[n]Bom... Vou deixar você ir[n]em troca de saúde.[n][w][e]
+[s]O que aconteceu?!? Água de seus olhos?[n]Bom... Vou deixar você ir[n]em troca de saúde.[n][w][e]
 
 [msg TalkMsg_EN_FAKE_CRIED03]
-[s]O que acontece?!? Água de seus olhos?[n]Ugh, eu deixo você ir[n]em troca de energia.[n][w][e]
+[s]O que aconteceu?!? Água de seus olhos?[n]Ugh, eu deixo você ir[n]em troca de energia.[n][w][e]
 
 [msg TalkMsg_EN_FAKE_COUP00]
 [s]Argh, eu não sei o que fazer[n]quando uma garota chora...[n]Desculpe, eu... eu vou embora![n][w][e]

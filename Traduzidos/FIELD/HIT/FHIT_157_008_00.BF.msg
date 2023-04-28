@@ -9,7 +9,7 @@
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]No entanto, de acordo com[n]Crow, todos os jogos neste[n]lugar são manipulados.[n][w][e]
 
 [msg D157_008_miniEV_01_mes03 [Ryuji]]
-[s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Oooh, então vamos pegá-los em flagrante! Calma.[n]Vamos, vamos nos ocupar![n][w][e]
+[s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Oooh, então vamos pegá-los em flagrante! Calma.[n]Vamos indo nessa![n][w][e]
 
 [msg EV_03_TALK_01 [Mensagem de voz]]
 [s]Suba naquele pilar e[n]vá para o corredor dos funcionários![n][w][e]

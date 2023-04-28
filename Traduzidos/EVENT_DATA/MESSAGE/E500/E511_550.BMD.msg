@@ -32,7 +32,7 @@
 
 [sel SEL_018_0_0 top]
 [s]É hora de se juntar.[e]
-[s]Vamos fazê-lo.[e]
+[s]Vamos fazer isso.[e]
 
 [msg MSG_019_0_0 [Sumire]]
 [s][bup 0 10 101 0 0][f 4 10 65535 0 0][vp 8 0 0 31 13 0]Obrigado![n][f 1 3 65535][w][e]

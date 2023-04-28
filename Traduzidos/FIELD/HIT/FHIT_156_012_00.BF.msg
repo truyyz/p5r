@@ -8,7 +8,7 @@
 [s][bup 0 7 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Nós lutamos?[n][w][e]
 
 [sel D05_12_Ex3Battle_Confirm_2 top]
-[s]Vamos fazê-lo.[e]
+[s]Vamos fazer isso.[e]
 [s]Temos que nos preparar.[e]
 
 [msg D05_12_Ex3Battle_Before_ [Guardião]]

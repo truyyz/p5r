@@ -161,7 +161,7 @@
 [s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 4190 65535 0]As habilidades de atuação de Panther são bastante[n]melhoradas. Eu me pergunto se ele praticou...[n][w][e]
 
 [msg SAFE_MES_yusuke6 [Yusuke]]
-[s][bup 0 5 4 65535 0][f 4 10 65535 0 0][vp 8 2 1 4173 65535 0]Ainda? O que acontece? Você deveria[n]rolar no chão de tanto rir...[n][w][e]
+[s][bup 0 5 4 65535 0][f 4 10 65535 0 0][vp 8 2 1 4173 65535 0]Ainda? O que aconteceu? Você deveria[n]rolar no chão de tanto rir...[n][w][e]
 
 [msg SAFE_MES_yusuke7 [Yusuke]]
 [s][bup 0 5 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 4025 65535 0]Se ainda causarmos perturbação,[n]ele pode vir até nós com toda[n]sua força. Nós não criamos problemas.[n][w][e]
