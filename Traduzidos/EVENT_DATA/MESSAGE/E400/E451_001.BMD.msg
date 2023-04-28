@@ -11,7 +11,7 @@
 [s][bup 0 201 0 0 0][f 4 10 65535 0 0][vp 8 0 0 32 65535 0]Hehehehe.[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Caroline]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 102 15 300 1][vp 8 0 0 3 65535 0]Preso incompetente![n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 102 15 300 1][vp 8 0 0 3 65535 0]Prisioneiro incompetente![n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Justine]]
 [s][bup 0 101 3 0 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]A assistência que[n]fornecemos a você foi em vão.[n][f 1 3 65535][w][e]
@@ -25,7 +25,7 @@
 [s]Eu estou morto?[e]
 
 [msg MSG_004_0_0 [Igor]]
-[s][bup 0 201 0 0 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Você perdeu o jogo.[n][f 1 3 65535][w][e]
+[s][bup 0 201 0 0 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Você falhou no jogo.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Você deveria trazer mudanças para a humanidade[n]como o Trapaceiro, mas foi demais para você.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]De acordo com as regras do[n]jogo, o derrotado tem um preço[n]a pagar.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Sua vida está condenada.[n][f 1 3 65535][w][e]
@@ -35,12 +35,12 @@
 
 [msg MSG_006_0_0 [Caroline]]
 [s][bup 0 102 4 0 0][vp 1 0 0 12 0 0]......?!?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Executado?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Execução?[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Igor]]
 [s][bup 0 201 0 0 0][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]A vontade de um deus é absoluta...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Minha experiência foi em vão...[n]Está tudo acabado.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Conceda-lhe uma morte rápida.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Meu experimento foi em vão...[n]Está tudo acabado.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Concedam-lhe uma morte rápida.[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Caroline]]
 [s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Se é isso que[n]o mestre quer...[n][f 1 3 65535][w][e]
@@ -54,16 +54,16 @@
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 102 15 300 1][vp 8 0 0 19 65535 0]S-Significa que você não era[n]um prisioneiro virtuoso![n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Justine]]
-[s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]Talvez... seja mesmo, mas...[n][f 1 3 65535][w][e]
+[s][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]Talvez... seja verdade, mas...[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Igor]]
-[s][bup 0 201 0 0 0][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]Qual é o problema?[n]Execute sua sentença imediatamente.[n][f 1 3 65535][w][e]
+[s][bup 0 201 0 0 0][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]Qual é o problema?[n]Executem a sentença imediatamente.[n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Justine]]
 [s][bup 0 101 3 0 0][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Queremos mesmo matá-lo?[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Caroline]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 102 7 300 1][vp 8 0 0 23 65535 0]Não é hora de vacilar![n]É culpa dele ter perdido o jogo![n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 102 7 300 1][vp 8 0 0 23 65535 0]Não é hora de vacilar![n]É culpa dele ter falhado no jogo![n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Caroline]]
 [s][bup 0 102 2 0 0][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Tudo bem, prisioneiro. Agora[n]iremos cumprir sua sentença.[n][f 1 3 65535][w][e]
@@ -73,7 +73,7 @@
 [s]Onde estão meus companheiros?[e]
 
 [msg MND_016_7_0]
-[s][vp 8 0 0 0 65535 0]Nesse ritmo eles vão me matar.[n]Eu tenho que fazer algo...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Nesse ritmo elas vão me matar.[n]Eu tenho que fazer algo...[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Caroline]]
 [s][bup 0 102 2 0 0][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]Que insolência... Pensar que[n]você teria se rebelado novamente[n]depois de tudo isso...[n][f 1 3 65535][w][e]
@@ -88,7 +88,7 @@
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 102 10 301 1][vp 8 0 0 28 65535 0]Vamos mostrar nossa força a[n]este... prisioneiro que não sabe[n]quando é hora de se render.[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Justine]]
-[s][bup 0 101 2 0 0][f 4 10 65535 0 0][vp 8 0 0 29 65535 0]...Existem.[n][f 1 3 65535][w][e]
+[s][bup 0 101 2 0 0][f 4 10 65535 0 0][vp 8 0 0 29 65535 0]...Entendido.[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Carolina e Justine]]
 [s][vp 8 0 0 33 65535 0]Morte ao criminoso![n][f 1 3 65535][w][e]

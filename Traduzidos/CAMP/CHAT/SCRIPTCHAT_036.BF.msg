@@ -22,7 +22,7 @@
 [s][f 5 14]É um sobrenome raro,[n]na verdade.[n][w][e]
 
 [msg MSG_007_0_0 [Ryuji]]
-[s][f 5 14]Venha, então. Você já ouviu[n]outros chamados Madarame?[n][w][e]
+[s][f 5 14]Sim, quero dizer. Você já ouviu[n]outros com o nome Madarame?[n][w][e]
 
 [msg MSG_008_0_0 [Ann]]
 [s][f 5 14]Não é nada comum.[n][w][e]

@@ -169,7 +169,7 @@
 [s]O nome da escola é escrito[n]muito elegantemente...[n][w][e]
 
 [msg MSG_E19310100_CHK_SCHOOL [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0]O que acontece? Vamos.[n][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0]O que aconteceu? Vamos.[n][w][e]
 
 [msg MND_COMMON_CHK_SCHOOL_PL]
 [s]O nome da escola é escrito[n]muito elegantemente...[n][w][e]

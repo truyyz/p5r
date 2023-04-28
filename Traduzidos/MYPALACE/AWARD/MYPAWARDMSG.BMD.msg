@@ -137,7 +137,7 @@
 [s]Você preparou o Master's[n]Coffee e o Master's Curry[n]at Leblanc sozinho.[n][e]
 
 [msg MSG_046]
-[s]Você treinou manequim[n]na academia "Protein[n]Lovers" em Shibuya.[n][e]
+[s]Você treinou manequim[n]na academia "Amantes de[n]Proteína" em Shibuya.[n][e]
 
 [msg MSG_047]
 [s]Lavou [var 1] peças sujas[n]de equipamentos na lavanderia[n]em Yongen-Jaya.[n][e]

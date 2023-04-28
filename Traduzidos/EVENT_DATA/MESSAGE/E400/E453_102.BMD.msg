@@ -4,7 +4,7 @@
 
 [sel SEL_001_0_0 top]
 [s]Mais ou menos.[e]
-[s]Você também.[e]
+[s]O mesmo vale pra você.[e]
 [s]Venha comigo.[e]
 
 [msg MSG_002_0_0 [Ann]]
@@ -14,24 +14,24 @@
 [s][bup 0 4 0 4 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]Ah sim...[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Ann]]
-[s][bup 0 4 3 4 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Ah... Então eu não[n]acabar no céu...[n][f 1 3 65535][w][e]
+[s][bup 0 4 3 4 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Ah... Então eu não[n]estou no céu, apesar de tudo...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Isso significa que o inferno em que[n]Shibuya se transformou é real...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 7 65535 0]......[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Ann]]
-[s][bup 0 4 5 4 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]...Estou tão fraco.[n][f 1 3 65535][w][e]
+[s][bup 0 4 5 4 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]...Estou tão fraca.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Quando eu pensei que iria[n]morrer, eu... comecei a tremer.[n]Eu estava com tanto medo.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Naquele momento, nada importava mais. Nossa[n]justiça era o menor dos meus pensamentos.[n][f 1 3 65535][w][e]
 
 [sel SEL_006_0_0 top]
-[s]Tudo está bem.[e]
+[s]Está tudo bem.[e]
 [s]Eu também estava com medo.[e]
 [s]......[e]
 
 [msg MSG_007_0_0 [Ann]]
-[s][bup 0 4 0 4 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Joker... Você planejou[n]um plano que poderia[n]fazer você morrer.[n][f 1 3 65535][w][e]
-[s][bup 0 4 3 4 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Em vez disso, olhe para mim. Eu sempre disse[n]para fazer pelos outros, mas não[n]cheguei muito...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Haha, não estou surpreso que[n]tenhamos perdido.[n][f 1 3 65535][w][e]
+[s][bup 0 4 0 4 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Joker... Você armou[n]um plano que poderia[n]fazer você morrer.[n][f 1 3 65535][w][e]
+[s][bup 0 4 3 4 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Em vez disso, olhe para mim. Eu sempre disse[n]para agir pelos outros, mas não[n]fui longe...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Haha, não estou surpresa que[n]tenhamos perdido.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Talvez eu devesse ter ficado[n]como estava e ficado fora[n]de toda essa bagunça...[n][f 1 3 65535][w][e]
 
 [sel SEL_008_0_0 top]
@@ -43,7 +43,7 @@
 
 [msg MSG_010_0_0 [Ann]]
 [s][bup 0 4 3 4 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]...Você está certo.[n]Eu nunca poderia deixá-la.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Lamentando a mim mesmo, eu[n]não trairia Shiho...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Lamentando a mim mesma, eu[n]estaria traindo Shiho...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]...Na verdade, eu me trairia![n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Ann]]
@@ -59,14 +59,14 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Eu não quero que ninguém[n]nunca sofra o que eu sofri![n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Ann]]
-[s][bup 0 4 2 4 0][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]Eu tomei uma decisão.[n]Vou continuar lutando.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 26 65535 0]Perder ou morrer importa pouco[n]agora. Tudo o que importa é[n]não voltar a ser como era.[n][f 1 3 65535][w][e]
+[s][bup 0 4 2 4 0][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]Eu tomei uma decisão.[n]Eu vou continuar lutando.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 26 65535 0]Perder ou morrer pouco importa[n]agora. Tudo o que importa é[n]não voltar a ser como eu era.[n][f 1 3 65535][w][e]
 
 [msg MSG_014_5_0 [Ann]]
 [s][f 4 16 4 3 300 1 65535][vp 8 0 0 27 65535 0]...Eu nunca vou cometer tal[n]erro novamente. Eu prometo![n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Ann]]
-[s][bup 0 4 101 65535 0][f 4 10 65535 0 0][vp 8 0 0 28 65535 0]Obrigado Joker. Você me lembrou do que é[n]realmente importante.[n][f 1 3 65535][w][e]
+[s][bup 0 4 101 65535 0][f 4 10 65535 0 0][vp 8 0 0 28 65535 0]Obrigada Joker. Você me lembrou do que é[n]realmente importante.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 29 5 0]É muito bom poder[n]fazer parte da sua equipe![n][f 1 3 65535][w][e]
 
 [sel SEL_016_0_0 top]

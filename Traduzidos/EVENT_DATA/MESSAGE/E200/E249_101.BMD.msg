@@ -30,7 +30,7 @@
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 5 3 301 1][vp 8 0 0 11 65535 0]Ele está se metendo em encrenca![n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Homem ameaçador]]
-[s][vp 8 0 0 12 65535 0]Onde você quer ir?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 12 65535 0]Onde você quer chegar?[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Makoto]]
 [s][bup 0 6 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Ele está chantageando os alunos da[n]Academia Shujin, não está?[n][f 1 3 65535][w][e]

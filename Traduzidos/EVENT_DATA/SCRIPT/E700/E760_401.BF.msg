@@ -5,7 +5,7 @@
 [s][vp 8 2 0 90 65535 0]Vou tentar treinar[n]no meu quarto...[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 1181 65535 0]Ok, comece a trabalhar. Vamos testar[n]seu espírito de luta![n][f 1 3 65535][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 1181 65535 0]Ok, comece a dar duro. Vamos testar[n]seu espírito de luta![n][f 1 3 65535][w][e]
 
 [msg MND_009_1_0]
 [s][vp 8 2 0 0 65535 0]Eu tenho que manter o foco...[n][f 1 3 65535][w][e]
@@ -23,10 +23,10 @@
 [s][vp 8 2 0 81 65535 0]Há uma barra bastante sólida aqui.[n]Eu poderia usá-la[n]para fazer algumas flexões...[n][f 1 3 65535][w][e]
 
 [msg MSG_ProteinInfo [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1072 65535 0]Ah sim, você não comprou alguns shakes de[n]proteína? Você pensou em quase tudo. Estou[n]impressionado![n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 0 1072 65535 0]Ah sim, você comprou alguns shakes de[n]proteína! Você pensou em quase tudo. Estou[n]impressionado![n][f 1 3 65535][w][e]
 
 [msg SYS_Protein]
-[s]Faça uso de shakes de proteína,[n]se quiser aumentar[n]a eficácia do seu treino.[n][w][e]
+[s]Faça uso de shakes de Proteína,[n]se quiser aumentar[n]a eficácia do seu treino.[n][w][e]
 
 [msg MSG_020_0_0 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0][f 4 22 65535 3 22]Quer pegar alguma coisa?[n][f 1 3 65535][w][e]
@@ -35,7 +35,7 @@
 [s]Pegue [var 0][e]
 [s]Pegue [var 1][e]
 [s]Pegue [var 2][e]
-[s]não pegue nada[e]
+[s]Não pegue nada[e]
 
 [msg MSG_PROTEIN_CHECK_Normal [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 2 5 3 9999 3], Hã? Você tem [clr 2][var 6][clr 27].[n]Que tal?[n][f 1 3 65535][w][e]
@@ -47,7 +47,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 2 5 3 9999 5], Hã? Você tem [clr 2][var 8][clr 27].[n]Que tal?[n][f 1 3 65535][w][e]
 
 [sel SEL_PROTEIN_CHECK top]
-[s]Eu os peguei.[e]
+[s]Pegá-los.[e]
 [s]Eu mudei de ideia.[e]
 
 [msg MSG_PROTEIN_CHECK_NO [Morgana]]
@@ -151,14 +151,14 @@
 [s][vp 8 2 0 0 65535 0]Ainda tenho algum tempo...[n]Talvez eu deva fazer outra série?[n][f 1 3 65535][w][e]
 
 [sel SEL_TRY_CHK top]
-[s]Vamos fazê-lo.[e]
+[s]Vamos fazer isso.[e]
 [s]Deixa para lá.[e]
 
 [msg MSG_TrainingLimitOver [Morgana]]
 [s][bup 0 3 5 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Neste ponto, podemos também[n]tratá-lo como um hobby.[n][f 1 3 65535][w][e]
 
 [msg MSG_TRANING_END_MORU [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Bem, está ficando tarde. Por que[n]você não tem uma boa noite de sono?[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Bem, está ficando tarde. Por que[n]você não tira uma boa noite de sono?[n][f 1 3 65535][w][e]
 
 [msg MND_TRANING_END_NULL]
 [s][vp 8 2 0 0 65535 0]Está ficando tarde...[n]Eu deveria ir para a cama.[n][f 1 3 65535][w][e]

@@ -91,7 +91,7 @@
 [s][vp 1 0 0 0 0 0]......[n][f 1 3 65535][w][e]
 
 [sel SEL_018_5_0 top]
-[s]O que acontece?[e]
+[s]O que aconteceu?[e]
 [s]Você está nervoso?[e]
 
 [msg MSG_019_0_0 [Hifumi]]

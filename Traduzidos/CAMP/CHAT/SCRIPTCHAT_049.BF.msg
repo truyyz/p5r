@@ -55,7 +55,7 @@
 [s][f 5 14]Temos que fazer isso. Tenho certeza que[n]vamos conseguir.[n][w][e]
 
 [sel SEL_018_0_0 top]
-[s][f 5 14]Vamos fazê-lo.[e]
+[s][f 5 14]Vamos fazer isso.[e]
 [s]Tenho certeza disso também.[e]
 [s]Vai correr como sempre.[e]
 

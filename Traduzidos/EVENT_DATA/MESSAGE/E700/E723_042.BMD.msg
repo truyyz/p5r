@@ -129,7 +129,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você gostaria de ser meu[n]assistente? Eu tenho um orçamento ridículo,[n]então não poderia pagar você![n][f 1 3 65535][w][e]
 
 [sel SEL_032_0_0 top]
-[s][f 0 8 2 1 2217]Parece engraçado.[clr 27][e]
+[s][f 0 8 2 1 2217]Parece divertido.[clr 27][e]
 [s]Não gosto de trabalhar de graça.[e]
 [s]Não.[e]
 

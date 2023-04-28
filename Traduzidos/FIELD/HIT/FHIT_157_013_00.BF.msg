@@ -101,7 +101,7 @@
 [s]Q-Que diabos...?!?[n][w][e]
 
 [msg D06_mini_ev03_mes24 [Akechi]]
-[s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]O que acontece? Nós ganhamos, não é?[n][w][e]
+[s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]O que aconteceu? Nós ganhamos, não é?[n][w][e]
 
 [msg D06_mini_ev03_mes25 [Comerciante]]
 [s]Não pode ser...[n][w][e]

@@ -62,7 +62,7 @@
 [s][bup 0 4 100 0 0][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Aqui vamos nós, hein?[n][f 1 3 65535][w][e]
 
 [sel SEL_019_0_0 top]
-[s]Vamos fazê-lo.[e]
+[s]Vamos fazer isso.[e]
 [s]Nós não vamos perder.[e]
 [s]Isso demorou muito...[e]
 

@@ -100,7 +100,7 @@
 [s][bup 0 4 302 65535 0][f 4 10 65535 0 0][vp 8 0 0 43 65535 0]Não entendeu mesmo, né?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_041_0_0 [Ryuji]]
-[s][bup 0 2 301 65535 0][f 4 10 65535 0 0][vp 8 0 0 44 65535 0]Desculpe a espera.[n][f 1 3 65535][w][e]
+[s][bup 0 2 301 65535 0][f 4 10 65535 0 0][vp 8 0 0 44 65535 0]Desculpe a demora.[n][f 1 3 65535][w][e]
 
 [msg MSG_042_0_0 [Homem presunçoso]]
 [s][vp 8 0 0 45 10 0]Ah, então é verdade[n]que você está aqui com alguns amigos.[n][f 1 3 65535][w][e]

@@ -87,7 +87,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 31 65535 0]A vontade de dormir, de comer,[n]de se apaixonar: coisas assim.[n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Ryuji]]
-[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 32 65535 0]Onde você quer ir?[n][f 1 3 65535][w][e]
+[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 32 65535 0]Onde você quer chegar?[n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 33 65535 0]Se todos os desejos desaparecessem,[n]a mente pararia completamente.[n][f 1 3 65535][w][e]

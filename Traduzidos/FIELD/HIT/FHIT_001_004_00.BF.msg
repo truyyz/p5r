@@ -369,7 +369,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0]No momento você não tem nada para fazer aqui,[n]certo? Vamos lá, vamos outro lugar![n][w][e]
 
 [msg MSG_E243301_CHK_SHOP_NG__2 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0]O que acontece? Vamos, vamos[n]para outro lugar![n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0]O que aconteceu? Vamos, vamos[n]para outro lugar![n][w][e]
 
 [msg MSG_E243301_CHK_SHOP_NG__3 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0]No momento você não tem nada para fazer aqui,[n]certo? Volte quando você tiver tempo![n][w][e]

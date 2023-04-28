@@ -108,7 +108,7 @@
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 3 7 300 1][vp 8 0 0 40 65535 0]O que... Bochecha![n][f 1 3 65535][w][e]
 
 [msg MSG_039_0_0 [Ryuji]]
-[s][bup 0 2 100 0 0][f 4 10 65535 0 0][vp 8 0 0 42 65535 0]Você vê? Eu não estava mentindo.[n][f 1 3 65535][w][e]
+[s][bup 0 2 100 0 0][f 4 10 65535 0 0][vp 8 0 0 42 65535 0]Viu? Eu não estava mentindo.[n][f 1 3 65535][w][e]
 
 [msg MSG_042_0_0 [Morgana]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 3 3 301 1][vp 8 0 0 45 65535 0]É porque eu não sou humano...? Por que eu[n]pareço um gato...? É por isso que[n]você está tirando sarro de mim!?![n][f 1 3 65535][w][e]

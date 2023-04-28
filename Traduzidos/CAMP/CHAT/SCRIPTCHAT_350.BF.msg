@@ -2,7 +2,7 @@
 [s][f 5 14][f 4 1]-senpai, muito obrigado![n][w][e]
 
 [sel SEL_002_0_0 top]
-[s][f 5 14]O que acontece?[e]
+[s][f 5 14]O que aconteceu?[e]
 [s]O que você está falando?[e]
 
 [msg MSG_003_0_0 [Kasumi]]

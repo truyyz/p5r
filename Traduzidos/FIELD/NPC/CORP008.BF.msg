@@ -192,7 +192,7 @@
 [s]Eu poderia competir com ele se minha [n][f 4 11 0][clr 26][f 4 12 0][clr 27] fosse [n][clr 26][f 4 13 0 4][clr 27]...[n][w][e]
 
 [msg MSG_AKECHI_COOP_C06_00_0_5 [Akechi]]
-[s][bup 0 9 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 8048 65535 0][f 4 23 1 208 3 10 0 10]O que acontece? Não me diga que você quer[n]desistir.[n][w][e]
+[s][bup 0 9 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 8048 65535 0][f 4 23 1 208 3 10 0 10]O que aconteceu? Não me diga que você quer[n]desistir.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Venha até mim quando achar que pode[n]vencer-me. Eu vou esperar por você aqui.[n][w][e]
 
 [msg MND_AKECHI_COOP_C06_03]

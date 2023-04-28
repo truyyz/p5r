@@ -3,7 +3,7 @@
 
 [sel SEL_001_0_0 top]
 [s][f 5 14]Não.[e]
-[s]O que acontece?[e]
+[s]O que aconteceu?[e]
 
 [msg MSG_002_0_0 [Ryuji]]
 [s][f 5 14]Entendi.[n][w][e]

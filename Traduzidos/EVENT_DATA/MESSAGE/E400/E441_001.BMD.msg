@@ -104,9 +104,9 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 43 65535 0]O que realmente fizemos[n]usando o mundo cognitivo?[n][f 1 3 65535][w][e]
 
 [sel SEL_030_0_0 top]
-[s]Reformou a empresa.[e]
+[s]Reformamos a Sociedade.[e]
 [s]......[e]
-[s]Não há como voltar atrás.[e]
+[s]É muito tarde para perguntar agora.[e]
 
 [msg MSG_031_0_0 [Futaba]]
 [s][bup 0 8 102 65535 0][f 4 10 65535 0 0][vp 8 0 0 44 65535 0]Controle-se, Inari![n][f 1 3 65535][w][e]

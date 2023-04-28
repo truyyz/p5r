@@ -24,7 +24,7 @@
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 1166 65535 0]Não há muitas pessoas hoje. Vai ser por[n]tempo... Mas pelo menos[n]você vai poder estudar em paz![n][w][e]
 
 [sel STUDY_THINK_SEL top]
-[s]Vamos fazê-lo.[e]
+[s]Vamos fazer isso.[e]
 [s]Deixa para lá.[e]
 
 [msg MND_Study_ParamEndInfo]

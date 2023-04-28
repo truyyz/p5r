@@ -2,7 +2,7 @@
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]Yo.[n][f 1 3 65535][w][e]
 
 [sel SEL_001_0_0 top]
-[s]O que acontece?[e]
+[s]O que aconteceu?[e]
 [s]Você estava me emboscando?[e]
 [s]Me diga quem você é?[e]
 

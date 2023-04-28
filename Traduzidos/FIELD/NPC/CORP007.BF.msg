@@ -327,7 +327,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 7081 65535 0]Enquanto isso, podemos[n]fazer uma pausa nos[n]treinos. Contando com você.[n][w][e]
 
 [sel SEL_RYUJI_CORP_C06_01 top]
-[s]Parece engraçado.[e]
+[s]Parece divertido.[e]
 [s]não tenho outra escolha...[e]
 [s]E se ele descobrir sobre nós?[e]
 

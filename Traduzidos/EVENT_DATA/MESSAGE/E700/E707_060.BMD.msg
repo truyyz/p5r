@@ -5,7 +5,7 @@
 
 [sel SEL_001_0_0 top]
 [s]Nós ficamos aqui.[e]
-[s]Que tal o Protein Lovers?[e]
+[s]Que tal o Amantes de Proteína?[e]
 [s][f 0 8 2 1 2217]Podemos treinar em minha casa.[clr 27][e]
 
 [msg MSG_002_0_0 [Ryuji]]

@@ -568,7 +568,7 @@
 [s]Há alguém que os compre?[e]
 
 [msg MSG_TIKAAIDORU_006_5_0 [Ídolo independente de pouca fama]]
-[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Obrigado por sua compra! Este é[n]intitulado "He's a Trickster☆"![n][w][e]
+[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Obrigado por sua compra! Este é[n]intitulado "Ele é um Trapaceiro☆"![n][w][e]
 [s][vp 8 2 1 0 2 0]Por favor, apoiem nossa[n]banda Fanta-ídolo,[n]i D-kyun! Ok? Ok?[n][w][e]
 
 [msg MSG_TIKAAIDORU_006_6_0 [Ídolo independente de pouca fama]]
@@ -606,7 +606,7 @@
 [s]Que tipo de música é?[e]
 
 [msg MSG_TIKAAIDORU_007_4_0 [Ídolo independente de pouca fama]]
-[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Grazie dell'acquistooo![n]Ecco a te "He's a Trickster☆"![n][w][e]
+[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Grazie dell'acquistooo![n]Ecco a te "Ele é um Trapaceiro☆"![n][w][e]
 [s][vp 8 2 1 0 2 0]Nós somos o D-kyun, uma nova[n]banda do Fanta-idol![n]Sempre me apoie, ok? Ok?[n][w][e]
 
 [msg MSG_TIKAAIDORU_007_5_0 [Ídolo independente de pouca fama]]
@@ -666,7 +666,7 @@
 
 [sel SEL_TIKAAIDORU_009_0_0 top]
 [s]Chika-chan Drinco[e]
-[s]CD "He's a Trickster☆"[e]
+[s]CD "Ele é um Trapaceiro☆"[e]
 [s]Biscoito D-kyun[e]
 [s]Eu não quero nada.[e]
 
@@ -723,7 +723,7 @@
 
 [sel SEL_TIKAAIDORU_010_1_0 top]
 [s]Chika-chan Drinco[e]
-[s]CD "He's a Trickster☆"[e]
+[s]CD "Ele é um Trapaceiro☆"[e]
 [s]biscoito D-kyun[e]
 [s]Eu não quero nada.[e]
 
@@ -794,7 +794,7 @@
 
 [sel SEL_TIKAAIDORU_011_2_0 top]
 [s]Chika-chan Drinco[e]
-[s]CD "He's a Trickster☆"[e]
+[s]CD "Ele é um Trapaceiro☆"[e]
 [s]biscoito D-kyun[e]
 [s]Eu não quero nada.[e]
 
@@ -803,7 +803,7 @@
 [s][vp 8 2 1 0 2 0]Não perca artigos semelhantes,[n]Ok? Ok? Vamos![n][w][e]
 
 [msg MSG_TIKAAIDORU_011_11_0 [Ídolo independente de pouca fama]]
-[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Mesmo as notas desafinadas podem[n]ser fascinantes! Isso é[n]"He's a Trickster☆"![n][w][e]
+[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Mesmo as notas desafinadas podem[n]ser fascinantes! Isso é[n]"Ele é um Trapaceiro☆"![n][w][e]
 [s][vp 8 2 1 0 2 0]Esta é a primeira série[n]da edição limitada! Compre,[n]ou será tarde demais![n][w][e]
 
 [msg MSG_TIKAAIDORU_011_12_0 [Ídolo independente de pouca fama]]

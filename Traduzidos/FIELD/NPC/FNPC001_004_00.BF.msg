@@ -301,7 +301,7 @@
 
 [sel SEL_0103_0108_SHIHO_004_ top]
 [s]Parece um trabalho cansativo.[e]
-[s]Parece engraçado.[e]
+[s]Parece divertido.[e]
 
 [msg MSG_0103_0108_SHIHO_005_ [Shiho]]
 [s][f 4 23 1 65535 3 10 0 10][bup 0 212 601 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Hahaha, de jeito nenhum.[n][w][e]
@@ -1409,7 +1409,7 @@
 [s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_028_08_ [Shiho]]
-[s][vp 9 2 65535 38957 0 0]O que acontece? Eu pensei que[n]O Phantom Thief estava morto...[n][f 1 2 180][e]
+[s][vp 9 2 65535 38957 0 0]O que aconteceu? Eu pensei que[n]O Phantom Thief estava morto...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_528_14_ [Shiho]]
 [s][vp 9 2 65535 39155 0 0]Os Phantom Thieves devem estar[n]mentindo, certo...?[n][f 1 2 180][e]

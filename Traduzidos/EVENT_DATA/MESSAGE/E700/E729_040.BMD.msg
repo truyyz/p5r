@@ -116,7 +116,7 @@
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 102 7 301 65535][bup 0 101 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ah, entendo... Então por que[n]não chega mais perto[n]e aproveita a vista?[n][f 1 3 65535][w][e]
 
 [msg MSG_033_0_0 [Caroline]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 102 7 301 1][vp 8 2 0 11043 65535 0]Aquele?!? Pare com isso! Se você quer tanto[n]assistir, então FAÇA![n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 102 7 301 1][vp 8 2 0 11043 65535 0]Quê?!? Pare com isso! Se você quer tanto[n]assistir, então FAÇA![n][f 1 3 65535][w][e]
 
 [sel SEL_034_0_0 top]
 [s]Pare de brigar.[e]

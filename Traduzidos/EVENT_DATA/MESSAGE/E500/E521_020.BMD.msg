@@ -52,7 +52,7 @@
 [s][bup 0 2 5 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu também deveria...[n][f 1 3 65535][w][e]
 
 [sel SEL_015_0_0 top]
-[s]O que acontece?[e]
+[s]O que aconteceu?[e]
 [s]Você olha para baixo.[e]
 
 [msg MSG_016_0_0 [Ryuji]]

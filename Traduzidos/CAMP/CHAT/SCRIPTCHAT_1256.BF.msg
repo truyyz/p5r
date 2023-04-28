@@ -15,7 +15,7 @@
 [s]Decidir depois[e]
 
 [sel SEL_002 top]
-[s][f 5 14]Vamos fazê-lo.[e]
+[s][f 5 14]Vamos fazer isso.[e]
 
 [msg MSG_REACTION [Kasumi]]
 [s][f 5 14]Obrigado! Vai realmente[n]ajudar muito![n][w][e]

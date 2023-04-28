@@ -37,7 +37,7 @@
 
 [msg MSG_013_0_0 [Caroline]]
 [s][bup 0 102 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Talvez fosse algum tipo de[n]ritual de convocação.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você vê? Parece que eles estão tentando[n]montar um exército[n]de Decarabia seca.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Viu? Parece que eles estão tentando[n]montar um exército[n]de Decarabia seca.[n][f 1 3 65535][w][e]
 
 [sel SEL_014_0_0 top]
 [s]Eles são estrelas do mar.[e]

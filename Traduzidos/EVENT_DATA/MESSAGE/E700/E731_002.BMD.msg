@@ -148,7 +148,7 @@
 [s][vp 8 0 0 0 65535 0]Você leu tão bem que eu não[n]percebi nada...[n][f 1 3 65535][w][e]
 
 [msg MSG_038_0_0 [Prof Kawakami]]
-[s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O que acontece? Mesmo um[n]primeiro ano deve saber[n]História de um... Oh![n][f 1 3 65535][w][e]
+[s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O que aconteceu? Mesmo um[n]primeiro ano deve saber[n]História de um... Oh![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Droga, mas esse é o livro[n]do primeiro ano![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]OPA, desculpe! Não estou surpreso[n]por não saber o que dizer.[n][f 1 3 65535][w][e]
 
@@ -252,7 +252,7 @@
 [s][vp 8 0 0 0 65535 0]Você leu tão bem que eu não[n]percebi nada...[n][f 1 3 65535][w][e]
 
 [msg MSG_062_0_0 [Prof Kawakami]]
-[s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O que acontece? Mesmo um[n]primeiro ano deve saber[n]História de um... Oh![n][f 1 3 65535][w][e]
+[s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O que aconteceu? Mesmo um[n]primeiro ano deve saber[n]História de um... Oh![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Droga, mas esse é o livro[n]do primeiro ano![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]OPA, desculpe! Não estou surpreso[n]por não saber o que dizer.[n][f 1 3 65535][w][e]
 

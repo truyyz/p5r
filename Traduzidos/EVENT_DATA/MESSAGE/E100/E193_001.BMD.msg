@@ -19,10 +19,10 @@
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 12 301 1][vp 8 0 0 7 65535 0]...Aqui, olhe.[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Ann]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 4 13 301 1][vp 8 0 0 8 65535 0]Por que você saiu[n]sem mim!?![n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 4 13 301 1][vp 8 0 0 8 65535 0]Por que vocês foram[n]sem mim!?![n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Ryuji]]
-[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Você não entende: nós[n]fomos arrastados por essa[n]grande multidão e...[n][f 1 3 65535][w][e]
+[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Você entendeu errado, nós[n]fomos arrastados por essa[n]grande multidão e...[n][f 1 3 65535][w][e]
 
 [msg MSG_008_5_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]...De qualquer forma, venha e dê uma olhada[n]também.[n][f 1 3 65535][w][e]
@@ -87,7 +87,7 @@
 [sel SEL_027_0_0 top]
 [s]Claro que sim.[e]
 [s]Talvez o post seja falso.[e]
-[s]Eu não saberia.[e]
+[s]Eu não sei.[e]
 
 [msg MSG_028_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 32 65535 0]Verdade, hein? Tudo se encaixa[n]bem demais para ser uma[n]simples coincidência.[n][f 1 3 65535][w][e]

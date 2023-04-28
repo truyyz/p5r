@@ -33,7 +33,7 @@
 [s][f 5 14]Só agora eu tive que[n]sair do Japão...[n][w][e]
 
 [sel SEL_013_0_0 top]
-[s][f 5 14]O que acontece?[e]
+[s][f 5 14]O que aconteceu?[e]
 [s]Vou sentir sua falta.[e]
 
 [msg MSG_014_0_0 [Mishima]]

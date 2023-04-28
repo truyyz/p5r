@@ -5,7 +5,7 @@
 [s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]É estranho... Por que não damos uma olhada?[n][w][e]
 
 [sel D04_03_e296_323_selA top]
-[s]Vamos fazê-lo.[e]
+[s]Vamos fazer isso.[e]
 [s]Deixa para lá.[e]
 
 [msg D04_03_e296_323_selA_0_m [Morgana]]

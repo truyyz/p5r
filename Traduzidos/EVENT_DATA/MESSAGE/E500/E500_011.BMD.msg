@@ -5,7 +5,7 @@
 [s][bup 0 102 2 0 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Espero que você esteja pronto para[n]derrota! Então vamos lutar?[n][f 1 3 65535][w][e]
 
 [sel SEL_039_0_0 top]
-[s]Vamos fazê-lo.[e]
+[s]Vamos fazer isso.[e]
 [s]Não sei...[e]
 
 [msg MSG_040_0_0 [Caroline]]

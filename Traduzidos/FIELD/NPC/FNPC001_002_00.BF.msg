@@ -3025,7 +3025,7 @@
 [sel SEL_HOMELESS_DAY_005_0_0 top]
 [s]Você está exagerando.[e]
 [s]Sinto muito.[e]
-[s]O que acontece?[e]
+[s]O que aconteceu?[e]
 
 [msg MSG_HOMELESS_DAY_005_1_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]É que tem havido vários[n]assaltos e assédios ultimamente...[n]Aconteceu com alguns amigos meus.[n][w][e]
@@ -3445,7 +3445,7 @@
 
 [sel SEL_HOMELESS_DAY_019_0_0 top]
 [s]Você não se lembra mais?[e]
-[s]O que acontece?[e]
+[s]O que aconteceu?[e]
 [s]Tem certeza?[e]
 
 [msg MSG_HOMELESS_DAY_019_1_0 [Morador de rua]]

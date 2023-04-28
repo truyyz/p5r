@@ -722,7 +722,7 @@
 [s]Você está apenas matando o tempo?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_05_R_7]
-[s]Então você está aqui procurando um[n]propósito, hein? Bem, isso parece engraçado.[n][w][e]
+[s]Então você está aqui procurando um[n]propósito, hein? Bem, isso parece divertido.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_05_R_8]
 [s]Não minta! Ninguém vem aqui sem um objetivo![n][w][e]
@@ -980,7 +980,7 @@
 [s]E então, uma vez que você[n]decidiu, você vai até o fim?[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_10]
-[s]Hã? O que acontece?[n][w][e]
+[s]Hã? O que aconteceu?[n][w][e]
 [s]Eu vi suas mãos tremendo, ou estou errado? Você é[n]atormentado por sentimentos de culpa?[n][w][e]
 
 [sel TalkSel_GUY_CHAT_SQ_10 top]

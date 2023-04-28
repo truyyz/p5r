@@ -42,7 +42,7 @@
 [s][bup 0 8 103 65535 0][f 4 10 65535 0 0][vp 8 0 0 72 65535 0]Mona?[n][f 1 3 65535][w][e]
 
 [msg MSG_003_8_4 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 82 65535 0]Meu papel era encontrar o[n]Trickster e ajudá-lo[n]a derrotá-la.[n][f 1 3 65535][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 82 65535 0]Meu papel era encontrar o[n]Trapaceiro e ajudá-lo[n]a derrotá-la.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 83 65535 0]Foi por isso que meu[n]mestre me criou.[n][f 1 3 65535][w][e]
 
 [msg MSG_003_8_6 [Igor]]

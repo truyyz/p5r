@@ -71,7 +71,7 @@
 
 [msg MES_GROUP6_01 [Lavenza]]
 [s][bup 0 100 0 0 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 55420 65535 0]Apesar da partida invencível, você desempenhou[n]seu papel perfeitamente, Morgana.[n][w][e]
-[s][bup 0 100 1 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Você fez um ótimo trabalho[n]dirigindo o Trickster.[n]Tenho que agradecer.[n][w][e]
+[s][bup 0 100 1 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Você fez um ótimo trabalho[n]guiando o Trapaceiro.[n]Tenho que agradecer.[n][w][e]
 
 [msg MES_GROUP6_02 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 1037 65535 0]Não pense nisso, Lady Lavenza.[n][w][e]

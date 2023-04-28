@@ -2,13 +2,13 @@
 [s][f 4 16 3 3 301 65535 65535][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]Os Phantom Thieves que viajam de[n]trem... Assim como eu faço[n]todos os dias para ir à escola.[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]O trem é a maneira mais rápida de chegar lá. E[n]então, animais de estimação são permitidos a[n]bordo.[n][f 1 3 65535][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]O trem é a maneira mais rápida de chegar lá. E[n]também, animais de estimação são permitidos a[n]bordo.[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Morgana]]
 [s][f 4 16 3 3 301 1 65535][vp 8 0 0 3 65535 0]Ei, quem você está chamando de animal!?![n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Ryuji]]
-[s][bup 0 2 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]Cala-te meu! Olha, nós não pagamos a taxa do[n]animal de estimação.[n][f 1 3 65535][w][e]
+[s][bup 0 2 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]Cara, fica quieto! [n]Olha, nós não pagamos a taxa de[n]animal de estimação.[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]Eu sou aquele que te guia![n]Você deveria me chamar de "Mestre"![n][f 1 3 65535][w][e]
@@ -55,9 +55,9 @@
 [s][vp 8 0 0 17 6 0]Wowweeeee! Ainda! De novo![n][f 1 3 65535][w][e]
 
 [sel SEL_016_0_0 top]
-[s]Eu pressiono suavemente.[e]
-[s]Eu pressiono com força.[e]
-[s]Vá esmagando o botão.[e]
+[s]Eu aperto suavemente.[e]
+[s]Eu aperto com força.[e]
+[s]Hora de esmagar botões.[e]
 
 [msg MSG_017_0_0 [Morgana]]
 [s][bup 0 3 8 0 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Purrr...[n][f 1 3 65535][w][e]
@@ -69,7 +69,7 @@
 [s][vp 8 0 0 20 6 0]Hahaha, que fofo![n]Quero ouvir de novo![n][f 1 3 65535][w][e]
 
 [msg MSG_018_5_0 [Ryuji]]
-[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]Cara...o gato tá babando...[n][f 1 3 65535][w][e]
+[s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]Cara... o gato tá babando...[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Morgana]]
 [s][bup 0 3 4 0 0][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Miau?!?[n][f 1 3 65535][w][e]

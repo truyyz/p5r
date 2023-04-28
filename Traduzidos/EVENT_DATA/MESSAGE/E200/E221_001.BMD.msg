@@ -14,7 +14,7 @@
 [s][vp 8 0 0 5 65535 0]はぁぁぁ...[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Makoto]]
-[s][bup 0 6 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Ela sabia de tudo, não é...? Em relação ao[n]Prof.[n]Kamoshida assédio sexual de estudantes do sexo feminino.[n][f 1 3 65535][w][e]
+[s][bup 0 6 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Ela sabia de tudo, não é...? Em relação ao[n]Prof.[n]Kamoshida e o assédio sexual a estudantes do sexo feminino.[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Makoto]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 6 3 301 1][vp 8 0 0 7 65535 0]Senhor![n][f 1 3 65535][w][e]

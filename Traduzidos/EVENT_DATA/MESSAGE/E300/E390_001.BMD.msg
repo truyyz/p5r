@@ -404,7 +404,7 @@
 [s][bup 0 105 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 272 65535 0]Ei...[n][f 1 3 65535][w][e]
 
 [msg MSG_127_0_0 [Sae]]
-[s][bup 0 105 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 273 65535 0]Onde você quer ir?[n][f 1 3 65535][w][e]
+[s][bup 0 105 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 273 65535 0]Onde você quer chegar?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 274 65535 0]E o que esse smartphone tem a ver com isso?[n][f 1 3 65535][w][e]
 
 [sel SEL_128_0_0 top]

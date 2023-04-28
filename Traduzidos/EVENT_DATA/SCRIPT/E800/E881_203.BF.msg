@@ -121,6 +121,6 @@
 
 [msg MSG_1124_009_00 [Ryuji]]
 [s][bup 0 2 0 65535 1][f 4 10 65535 0 0][vp 1 0 0 44 0 0]... Não importa. Não importa.[n][f 1 3 65535][w][e]
-[s][bup 0 2 1 65535 1][f 4 10 65535 0 0][vp 1 0 0 45 0 0]Vamos fazê-lo. Vamos roubar o coração daquele[n]bastardo do Shido. Farei tudo o que puder para[n]que isso aconteça.[n][f 1 3 65535][w][e]
+[s][bup 0 2 1 65535 1][f 4 10 65535 0 0][vp 1 0 0 45 0 0]Vamos fazer isso. Vamos roubar o coração daquele[n]bastardo do Shido. Farei tudo o que puder para[n]que isso aconteça.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 1 0 0 46 0 0]Obrigado por ouvir,[n][f 4 2]. Até mais.[n][f 1 3 65535][w][e]
 

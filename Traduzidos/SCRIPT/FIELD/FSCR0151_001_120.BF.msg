@@ -19,5 +19,5 @@
 [s][bup 0 4 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 4 0 0]Sala Segura...?[n][w][e]
 
 [msg D01_04_e160_020_mes04 [Ryuji]]
-[s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 5 0 0]Você vai entender tudo quando[n]vê-la. Vamos, vamos nos ocupar![n][w][e]
+[s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 5 0 0]Você vai entender tudo quando[n]vê-la. Vamos indo nessa![n][w][e]
 

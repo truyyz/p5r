@@ -13,7 +13,7 @@
 
 [msg MSG_053_0_0 [Jogador de vôlei do primeiro ano]]
 [s][f 4 23 1 857 3 10 0 0][vp 8 2 1 0 857 0]O que você diria? Olha, eu não[n]quero me envolver em[n]coisas estranhas, ok?[n][w][e]
-[s][vp 8 2 1 0 857 0]E então o Prof. Kamoshida não[n]quer que falemos com pessoas ...[n]obscuras como você.[n][w][e]
+[s][vp 8 2 1 0 857 0]E então o Prof. Kamoshida não[n]quer que falemos com pessoas...[n]obscuras como você.[n][w][e]
 [s][vp 8 2 1 0 857 0]Se ele me visse agora, ele[n]me forçaria a fazer[n]treinamento especial, como Mishima-senpai...[n][w][e]
 [s][vp 8 2 1 0 857 0]O-Oh, hum... Esqueça![n]Esqueça o que eu disse![n][w][e]
 
@@ -58,7 +58,7 @@
 [s]Onde estão os primogênitos?[e]
 
 [msg JYOSHIFUTARI_03_0_0 [Aluno irritado]]
-[s][f 4 23 1 836 3 10 0 0]Huh? Não, eu não...[n]Por quê? O que acontece?[n][w][e]
+[s][f 4 23 1 836 3 10 0 0]Huh? Não, eu não...[n]Por quê? O que aconteceu?[n][w][e]
 
 [msg JYOSHIFUTARI_04_0_0 [Aluno irritado]]
 [s][f 4 23 1 836 3 10 0 0]Bem aqui...[n]Você está procurando por alguém?[n][w][e]

@@ -535,13 +535,13 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]Você não tem tempo a perder.[n]Você se lembra do que faremos amanhã, certo?[n][w][e]
 
 [msg MSG_CW_NG_StandBy_NotSet [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]O que acontece? Devemos[n]estar prontos para amanhã.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]O que aconteceu? Devemos[n]estar prontos para amanhã.[n][w][e]
 
 [msg MSG_CrossWord_NG_StandBy_2 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]Você está interessado nessa revista?[n]É melhor nos prepararmos para[n]amanhã.[n][w][e]
 
 [msg MSG_CW_NG_StandBy_nonTut [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]O que acontece? Devemos[n]estar prontos para amanhã.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]O que aconteceu? Devemos[n]estar prontos para amanhã.[n][w][e]
 
 [msg MSG_CrossWord_NG_DNG [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]Não se esforce demais quando estiver cansado.[n]Você sempre pode fazê-lo outra vez.[n][w][e]

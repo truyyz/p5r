@@ -79,7 +79,7 @@
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 29 65535 0]Então, vamos[n]para as bancas?[n][f 1 3 65535][w][e]
 
 [sel SEL_028_0_0 top]
-[s]Vamos fazê-lo.[e]
+[s]Vamos fazer isso.[e]
 [s]Vamos ficar calmos.[e]
 
 [msg MSG_029_0_0 [Makoto]]

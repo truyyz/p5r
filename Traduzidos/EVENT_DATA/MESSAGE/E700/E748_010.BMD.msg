@@ -173,14 +173,14 @@
 [s][bup 0 7 3 2 0][f 4 10 65535 0 0][vp 8 0 0 56 65535 0]N-Não é disso que[n]estamos falando...[n][f 1 3 65535][w][e]
 
 [msg MSG_050_0_0 [Apresentador]]
-[s][vp 8 0 0 57 65535 0]Oh Deus, ela ficou toda excitada![n][f 1 3 65535][w][e]
-[s][vp 8 0 0 58 65535 0]Isso é uma colher quente!?![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 57 65535 0]Oh Deus, ela ficou bastante nervosa![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 58 65535 0]Ela é o assunto do momento!![n][f 1 3 65535][w][e]
 
 [msg MSG_051_0_0 [(SE)秀尽学園生徒]]
 [s][vp 8 0 0 0 65535 0](歓声)[n][f 1 3 65535][w][e]
 
 [msg MSG_052_0_0 [Apresentador]]
-[s][vp 8 0 0 59 65535 0]Mas eu sou um cavalheiro. É[n]quebra meu coração cutucar[n]uma garota tão doce![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 59 65535 0]Mas eu sou um cavalheiro.[n]Parte meu coração cutucar[n]uma garota tão doce![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 60 65535 0]Bem, vocês gostaram dessa nossa beleza tímida?[n]Muito obrigado, Okumura-san![n][f 1 3 65535][w][e]
 
 [msg MSG_053_0_0 [(SE)秀尽学園生徒]]

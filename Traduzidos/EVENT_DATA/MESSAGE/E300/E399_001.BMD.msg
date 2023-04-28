@@ -178,7 +178,7 @@
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 55 65535 0]Nosso próximo alvo é um[n]político poderoso: Masayoshi Shido.[n]Vamos conseguir, certo?[n][f 1 3 65535][w][e]
 
 [sel SEL_048_0_0 top]
-[s]Temos que.[e]
+[s]Nós precisamos.[e]
 [s]E o Akechi?[e]
 
 [msg MSG_049_0_0 [Ryuji]]

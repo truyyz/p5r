@@ -8,7 +8,7 @@
 [s][f 5 14]Você é muito duro.[n][w][e]
 
 [msg MSG_003_0_0 [Yusuke]]
-[s][f 5 14]Presidente do conselho estudantil?[n]O que acontece?[n][w][e]
+[s][f 5 14]Presidente do conselho estudantil?[n]O que aconteceu?[n][w][e]
 
 [msg MSG_004_0_0 [Ann]]
 [s][f 5 14]Nossa escola[n]está bisbilhotando[n]nossos negócios.[n][w][e]

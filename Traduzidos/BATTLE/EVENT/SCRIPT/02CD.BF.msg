@@ -36,7 +36,7 @@
 [s][vp 8 2 2 51358 1 707]É culpa dele que o Prof. Kamoshida[n]não pode mais ensinar![n]Ele só recebe o que merece![n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_HOLDUP01_002_000 [Sombra de Saeki]]
-[s][vp 8 2 2 51348 1 707]Você vê? Você não sabe de nada![n][f 1 3 65535][w][e]
+[s][vp 8 2 2 51348 1 707]Viu? Você não sabe de nada![n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_HOLDUP01_002_001 [Ann]]
 [s][bup 0 4 100 0 0][vp 8 2 2 6132 0 0][f 4 10 65535 0 0]Parece que não conseguimos convencê-la![n]Vamos pensar em outra coisa.[n][f 1 3 65535][w][e]

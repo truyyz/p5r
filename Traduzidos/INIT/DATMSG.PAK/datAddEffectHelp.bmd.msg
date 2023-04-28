@@ -137,13 +137,13 @@
 [s]Desespero poderoso[n][e]
 
 [msg addeffect_046]
-[s]+Doença Aleatória (Baixa)[n][e]
+[s]+Efeito Negativo Aleatório (Baixa)[n][e]
 
 [msg addeffect_047]
-[s]+Doença Aleatória (Média)[n][e]
+[s]+Efeito Negativo Aleatório (Média)[n][e]
 
 [msg addeffect_048]
-[s]+Doença Aleatória (Alta)[n][e]
+[s]+Efeito Negativo Aleatório (Alta)[n][e]
 
 [msg addeffect_049]
 [s]+Chance de Crítico (Baixa)[n][e]
@@ -602,5 +602,5 @@
 [s]Reduz o custo de habilidade em 25%[n][e]
 
 [msg addeffect_201]
-[s]+Reduz Doenças em 50%[n][e]
+[s]+Reduz Efeitos Negativos em 50%[n][e]
 

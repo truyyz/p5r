@@ -914,7 +914,7 @@
 [s]Droga. Eu já sei que estou sem[n]opções.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_08_R_14]
-[s]Você vê? É por isso que eu[n]seria morto por uma mulher de[n]classe. Eles não são tão ásperos.[n][w][e]
+[s]Viu? É por isso que eu[n]seria morto por uma mulher de[n]classe. Eles não são tão ásperos.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_08_R_15]
 [s]Vamos! Você quer negar a um velho[n]seu último desejo?!?[n][w][e]
@@ -989,7 +989,7 @@
 [s]Eu não quero envelhecer.[e]
 
 [msg TalkMsg_GUY_CHAT_SQ_10_R]
-[s]Você vê? Os adultos[n]sempre dizem isso, então é definitivamente[n]verdade.[n][w][e]
+[s]Viu? Os adultos[n]sempre dizem isso, então é definitivamente[n]verdade.[n][w][e]
 
 [msg TalkMsg_GUY_CHAT_SQ_10_R_2]
 [s]Você sabe, em uma situação como esta, eu[n]aceitaria toda gentileza[n]ou ajuda possível.[n][w][e]

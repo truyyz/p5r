@@ -107,7 +107,7 @@
 [s][bup 0 8 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 40 65535 0]Mimos...[n][f 1 3 65535][w][e]
 
 [msg MSG_034_0_0 [Ryuji]]
-[s][bup 0 2 5 65535 0][f 4 10 65535 0 0][vp 8 0 0 41 65535 0]Ei! Onde você quer ir?!?[n][f 1 3 65535][w][e]
+[s][bup 0 2 5 65535 0][f 4 10 65535 0 0][vp 8 0 0 41 65535 0]Ei! Onde você quer chegar?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_035_0_0 [Haru]]
 [s][bup 0 7 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 42 65535 0]Não esperávamos, só isso.[n][f 1 3 65535][w][e]

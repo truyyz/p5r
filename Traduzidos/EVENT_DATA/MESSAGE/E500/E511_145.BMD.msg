@@ -22,7 +22,7 @@
 
 [sel SEL_006_0_0 top]
 [s]Tudo está bem?[e]
-[s]O que acontece?[e]
+[s]O que aconteceu?[e]
 
 [msg MSG_007_0_0 [Kasumi]]
 [s][bup 0 10 103 0 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Sinto muito...[n][f 1 3 65535][w][e]

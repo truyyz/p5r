@@ -19,7 +19,7 @@
 [s]Decidir depois[e]
 
 [sel SEL_002 top]
-[s][f 5 14]Vamos fazê-lo.[e]
+[s][f 5 14]Vamos fazer isso.[e]
 
 [msg MSG_REACTION [Makoto]]
 [s][f 5 14]Eu entendi. Posso pedir que você[n]faça com que todos venham à reunião?[n][f 5 15][w][e]

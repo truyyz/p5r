@@ -320,7 +320,7 @@
 [s]Que diabos é isso? Não é para crianças, é? Oooooh![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_06_R_6]
-[s]Oooh, não vai ser uma história sobre[n]deveres, ética e tudo[n]o resto, vai? Parece engraçado![n][w][e]
+[s]Oooh, não vai ser uma história sobre[n]deveres, ética e tudo[n]o resto, vai? Parece divertido![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_06_R_7]
 [s]Isso não vai me ajudar a dormir[n]em tudo![n][w][e]

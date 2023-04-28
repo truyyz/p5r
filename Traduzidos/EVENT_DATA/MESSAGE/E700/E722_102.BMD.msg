@@ -214,7 +214,7 @@
 [s][bup 0 10 701 0 0][f 4 10 65535 0 0][vp 8 0 0 64 65535 0]Seremos você e eu... e Kasumi.[n]Nós três contra o mundo juntos![n][f 1 3 65535][w][e]
 
 [sel SEL_052_0_0 top]
-[s]Venha, então.[e]
+[s]Pode vir.[e]
 [s]Dá um tempo, vamos.[e]
 [s]Eu pego o passaporte.[e]
 

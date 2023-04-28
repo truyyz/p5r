@@ -77,7 +77,7 @@
 [s]Oh? Aparentemente, sua Persona[n]não ganhou experiência, mas[n]seu poder parece ter aumentado...[n][w][e]
 
 [sel FCL_MSG_COMBINE_SKILL_EV_3 top]
-[s]Vamos fazê-lo.[e]
+[s]Vamos fazer isso.[e]
 [s]Está bem do jeito que está.[e]
 
 [msg FCL_MSG_COMBINE_BONUS [Igor]]
@@ -553,7 +553,7 @@
 [s]Eu só vou te pedir [clr 3][var 0][clr 27] ienes e,[n]em troca, farei o ritual...[n]O que você acha?[n][w][e]
 
 [sel combine_conquest_sel top]
-[s]Vamos fazê-lo.[e]
+[s]Vamos fazer isso.[e]
 [s]Esqueça.[e]
 
 [msg combine_book_high_questi [Justine]]
@@ -561,7 +561,7 @@
 [s]Eu a convocarei por um custo de [clr 3][var 0][clr 27][n]ienes. O que você deseja fazer?[n][w][e]
 
 [sel combine_book_high_sel top]
-[s]Vamos fazê-lo.[e]
+[s]Vamos fazer isso.[e]
 [s]Esqueça.[e]
 
 [msg FCL_MSG_COMBINE_WARNING_ [Caroline]]

@@ -18,7 +18,7 @@
 [s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 57047 65535 0]Existe aquela Sombra. Intervimos?[n][w][e]
 
 [sel D10_03_look_at_researche_3 top]
-[s]Vamos fazê-lo.[e]
+[s]Vamos fazer isso.[e]
 [s]Ainda não.[e]
 
 [msg D10_03_look_at_researche_4 [[f 4 31 10 0]]]

@@ -380,7 +380,7 @@
 [s][vp 8 2 1 0 10 0]*suspira*[n][w][e]
 
 [sel SEL_MUSICIAN_019_0_0 top]
-[s]O que acontece?[e]
+[s]O que aconteceu?[e]
 [s]Você olha para baixo.[e]
 [s]Onde está o rock'n'roll?[e]
 

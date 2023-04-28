@@ -108,7 +108,7 @@
 [s][f 4 7 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 109 5 300 1][vp 1 0 0 0 0 0]......[n][f 1 3 65535][w][e]
 
 [msg MSG_030_0_0 [Kawakami]]
-[s][bup 0 109 601 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Você vê? Quem lida comigo não ganha nada de[n]bom.[n][f 1 3 65535][w][e]
+[s][bup 0 109 601 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Viu? Quem lida comigo não ganha nada de[n]bom.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Para não machucar ninguém, mantenho distância e[n]não me intrometo na vida de estudante.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Eu vim aqui por um estranho[n]truque do destino, mas[n]devemos dizer adeus também.[n][f 1 3 65535][w][e]
 

@@ -77,7 +77,7 @@
 [s]Oh? Aparentemente, sua Persona[n]não ganhou experiência, mas[n]seu poder parece ter aumentado...[n][w][e]
 
 [sel FCL_MSG_COMBINE_SKILL_EV_3 top]
-[s]Vamos fazê-lo.[e]
+[s]Vamos fazer isso.[e]
 [s]Está bem do jeito que está.[e]
 
 [msg FCL_MSG_COMBINE_BONUS [Igor]]
@@ -541,7 +541,7 @@
 [s]Se você tiver [clr 3][var 0][clr 27] ienes,[n]eu me fundirei.[n]Você acha que isso é aceitável?[n][w][e]
 
 [sel combine_conquest_sel top]
-[s]Vamos fazê-lo.[e]
+[s]Vamos fazer isso.[e]
 [s]Esqueça.[e]
 
 [msg combine_book_high_questi [Lavenza]]
@@ -549,7 +549,7 @@
 [s]Vou convocá-lo para você por[n][clr 3][var 0][clr 27] ienes. O que você vai fazer?[n][w][e]
 
 [sel combine_book_high_sel top]
-[s]Vamos fazê-lo.[e]
+[s]Vamos fazer isso.[e]
 [s]Esqueça.[e]
 
 [msg FCL_MSG_COMBINE_WARNING_ [Lavenza]]

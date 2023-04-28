@@ -757,7 +757,7 @@
 
 [sel TalkSel_GUY_CHAT_SQ_06 top]
 [s]Que pena.[e]
-[s]Onde você quer ir?[e]
+[s]Onde você quer chegar?[e]
 [s]Você tem um namorado?[e]
 
 [msg TalkMsg_GUY_CHAT_SQ_06_R]

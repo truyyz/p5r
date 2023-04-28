@@ -4,7 +4,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mas o zumbido de um ventilador me perturba.[n]Impede que eu me concentre[n]em meus livros de estratégia...[n][f 1 3 65535][w][e]
 
 [msg MSG_000_1_0 [Hifumi]]
-[s][bup 0 106 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Desculpe a espera.[n][f 1 3 65535][w][e]
+[s][bup 0 106 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Desculpe a demora.[n][f 1 3 65535][w][e]
 
 [sel SEL_001_3_0 top]
 [s][f 0 8 2 1 2217]Não tenha pressa.[clr 27][e]

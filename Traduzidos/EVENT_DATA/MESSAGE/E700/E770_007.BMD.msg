@@ -72,7 +72,7 @@
 [s][bup 0 305 0 0 0][f 4 10 65535 0 0][vp 8 2 0 58166 65535 0]Bem, no final não foi nada[n]importante. Vamos continuar a lição.[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Prof Hiruta]]
-[s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 2 0 58217 65535 0]Não era nada importante.[n]Desculpe a espera. Vamos nos recompor e[n]voltar à nossa lição.[n][f 1 3 65535][w][e]
+[s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 2 0 58217 65535 0]Não era nada importante.[n]Desculpe a demora. Vamos nos recompor e[n]voltar à nossa lição.[n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 0 1176 65535 0]Ah! Lá vem o professor![n][f 1 3 65535][w][e]

@@ -1028,7 +1028,7 @@
 [s]Permite que você aprenda a[n]habilidade passiva[n]Resistência Nuclear.[n][e]
 
 [msg Item_157]
-[s]Permite que você aprenda a[n]habilidade passiva[n]Nuke Null.[n][e]
+[s]Permite que você aprenda a[n]habilidade passiva[n]Anular Nuclear.[n][e]
 
 [msg Item_158]
 [s]Permite que você aprenda a[n]habilidade passiva[n]Reflexão Nuclear.[n][e]

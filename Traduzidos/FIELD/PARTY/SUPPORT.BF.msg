@@ -5567,7 +5567,7 @@
 [s][vp 1 0 0 8251 0 0]Eu detectei um sistema de segurança.[n]Tenha cuidado.[n][f 1 6 65535][e]
 
 [msg D_NAVI_MAPOPEN_PC08_mes0]
-[s][vp 1 0 0 8252 0 0]O que acontece? Você está perdido?[n][f 1 6 65535][e]
+[s][vp 1 0 0 8252 0 0]O que aconteceu? Você está perdido?[n][f 1 6 65535][e]
 
 [msg D_NAVI_MAPOPEN_PC08_mes0_2]
 [s][vp 1 0 0 8253 0 0]Oh, quer ver o mapa?[n][f 1 6 65535][e]
@@ -6602,7 +6602,7 @@
 [s][vp 1 0 0 19251 0 0]Um sistema de[n]vigilância foi instalado aqui.[n]não baixemos a guarda.[n][f 1 6 65535][e]
 
 [msg D_NAVI_MAPOPEN_PC09_mes0]
-[s][vp 1 0 0 19252 0 0]O que acontece? Não me diga que estamos[n]perdidos...[n][f 1 6 65535][e]
+[s][vp 1 0 0 19252 0 0]O que aconteceu? Não me diga que estamos[n]perdidos...[n][f 1 6 65535][e]
 
 [msg D_NAVI_MAPOPEN_PC09_mes0_2]
 [s][vp 1 0 0 19253 0 0]É sempre bom consultar o mapa.[n][f 1 6 65535][e]
@@ -8951,7 +8951,7 @@
 [s][vp 1 0 0 5561 0 0]Não apresse as coisas ou você só vai se cansar.[n]Aventure-se em suas façanhas no ritmo certo.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC05_mes562]
-[s][vp 1 0 0 5562 0 0]Parece engraçado. Eu também posso[n]achá-lo do meu agrado.[n][f 1 6 65535][e]
+[s][vp 1 0 0 5562 0 0]Parece divertido. Eu também posso[n]achá-lo do meu agrado.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC05_mes563]
 [s][vp 1 0 0 5563 0 0]Esses solavancos estão tendo[n]efeitos desagradáveis no meu estômago.[n][f 1 6 65535][e]
@@ -11876,7 +11876,7 @@
 [s][vp 1 0 0 13557 0 0]Não se preocupe com isso.[n]Você é forte, você vai conseguir.[n][f 1 6 65535][e]
 
 [msg D_CAR_PC03_mes10558]
-[s][vp 1 0 0 13558 0 0]Parece engraçado. Espero[n]ouvir muitas histórias[n]quando você voltar![n][f 1 6 65535][e]
+[s][vp 1 0 0 13558 0 0]Parece divertido. Espero[n]ouvir muitas histórias[n]quando você voltar![n][f 1 6 65535][e]
 
 [msg D_CAR_PC03_mes10559]
 [s][vp 1 0 0 13559 0 0]Aparentemente, houve um[n]Phantom Thief na história japonesa[n]cujo vestido ela roubou.[n][f 1 6 65535][e]

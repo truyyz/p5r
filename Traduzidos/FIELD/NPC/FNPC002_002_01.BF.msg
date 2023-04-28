@@ -1784,7 +1784,7 @@
 [s][f 4 23 1 601 3 10 0 0][vp 8 2 1 0 601 0]Hum...? E o que é isso?[n][w][e]
 
 [msg Quest10_target_01_01 [Estudante de cabelo loiro]]
-[s][f 4 23 1 600 3 10 0 0][vp 8 2 1 0 600 0]O que acontece? Você encontrou[n]algo em seu bolso?[n]Isso é uma carta?[n][w][e]
+[s][f 4 23 1 600 3 10 0 0][vp 8 2 1 0 600 0]O que aconteceu? Você encontrou[n]algo em seu bolso?[n]Isso é uma carta?[n][w][e]
 [s][vp 8 2 65535 0 0 0]......[n][w][e]
 [s][vp 8 2 1 0 600 0]Não! É idêntico ao[n]recebido de Kamoshida...[n][w][e]
 
