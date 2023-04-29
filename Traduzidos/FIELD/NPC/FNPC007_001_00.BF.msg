@@ -391,7 +391,7 @@
 
 [msg MSG_FX_MAN_003_0_0 [Menino ocupado]]
 [s][f 4 23 1 5 23 10 21 10][vp 8 2 1 0 5 0]Gyaaaaaahhhh![n]As ações de Okumura[n]não valem nada...[n][w][e]
-[s][vp 8 2 1 0 5 0]Eu não tinha ideia de que eles[n]receberiam uma carta de aviso.[n]Isso não pode ser verdade...[n][w][e]
+[s][vp 8 2 1 0 5 0]Eu não tinha ideia de que eles[n]receberiam uma Carta de Aviso.[n]Isso não pode ser verdade...[n][w][e]
 [s][vp 8 2 1 0 5 0]Ainda tenho algumas economias. Sim, os Phantom[n]Thieves são o destaque...[n][w][e]
 [s][vp 8 2 1 0 5 0]Existem. Vou comprar as ações[n]das empresas que ganham[n]graças aos Phantom Thieves![n][w][e]
 
@@ -965,7 +965,7 @@
 [s][vp 8 2 65535 0 0 0]Vamos voltar ao esconderijo e[n]event um plano![n][w][e]
 
 [msg Quest31_target_01_00 [Yusei Arita]]
-[s][f 4 23 1 601 3 10 0 10][vp 8 2 1 0 601 0]É uma carta de aviso dos[n]Phantom Thieves!?![n][w][e]
+[s][f 4 23 1 601 3 10 0 10][vp 8 2 1 0 601 0]É uma Carta de Aviso dos[n]Phantom Thieves!?![n][w][e]
 [s][vp 8 2 1 0 601 0]Oh não. Estou muuuuito em apuros.[n][w][e]
 [s][vp 8 2 1 0 601 0]...Não. Vai ser tudo uma pegadinha[n]preparada por aqueles idiotas[n]meus amigos ou algo assim.[n][w][e]
 
@@ -977,7 +977,7 @@
 [s][vp 8 2 1 0 600 0]Me tire dessa história![n][w][e]
 
 [msg Quest31_target_sinjyo_01]
-[s][vp 8 2 65535 0 0 0]A carta de aviso foi[n]entregue com sucesso![n][w][e]
+[s][vp 8 2 65535 0 0 0]A Carta de Aviso foi[n]entregue com sucesso![n][w][e]
 
 [msg Quest31_target_02_00 [Criança curiosa]]
 [s][f 4 23 1 600 3 10 0 10][vp 8 2 1 0 600 0]Ei, baixou algo novo?[n][w][e]
@@ -1502,7 +1502,7 @@
 [s][vp 9 2 65535 44250 0 0]Não nos mantenha na ponta dos pés! Se[n]você está falando sério sobre chutar[n]bandidos, faça isso agora![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_007_01_ [Estrela Lilina]]
-[s][vp 9 2 65535 44953 0 0]Olé! Os Phantom Thieves[n]enviaram uma carta de aviso![n]Aquele CEO vai chorar como um bebê![n][f 1 2 180][e]
+[s][vp 9 2 65535 44953 0 0]Olé! Os Phantom Thieves[n]enviaram uma Carta de Aviso![n]Aquele CEO vai chorar como um bebê![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_007_02_ [Estrela Lilina]]
 [s][vp 9 2 65535 42203 0 0]Adultos corruptos merecem[n]ser expurgados deste mundo![n][f 1 2 180][e]
@@ -1511,10 +1511,10 @@
 [s][vp 9 2 65535 39300 0 0]O presidente Okumura ainda não[n]anunciou uma[n]conferência de imprensa de desculpas?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_007_04_ [Estrela Lilina]]
-[s][vp 9 2 65535 44150 0 0]Yay! Ouvi dizer que o presidente[n]Okumura recebeu uma carta[n]de desafio dos Phantom Thieves![n][f 1 2 180][e]
+[s][vp 9 2 65535 44150 0 0]Yay! Ouvi dizer que o presidente[n]Okumura recebeu uma Carta[n]de Aviso dos Phantom Thieves![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_007_05_ [Estrela Lilina]]
-[s][vp 9 2 65535 41353 0 0]Finalmente recebi uma carta[n]de desafio! Mal posso esperar para[n]vê-lo implorar...[n][f 1 2 180][e]
+[s][vp 9 2 65535 41353 0 0]Finalmente recebi uma Carta[n]de Aviso! Mal posso esperar para[n]vê-lo implorar...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_007_06_ [Estrela Lilina]]
 [s][vp 9 2 65535 38651 0 0]Conto com vocês, Phantom Thieves![n]Não deixem ele fugir com[n]aquele CEO![n][f 1 2 180][e]

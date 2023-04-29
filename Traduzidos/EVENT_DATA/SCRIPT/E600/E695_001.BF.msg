@@ -58,7 +58,7 @@
 [s][vp 8 2 65535 41006 0 0]Então, o próximo alvo...[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_0915_2]
-[s][vp 8 2 65535 42703 0 0]Uma amiga do[n]namorado da minha irmã recebeu[n]uma carta de aviso![n][f 1 3 65535][w][e]
+[s][vp 8 2 65535 42703 0 0]Uma amiga do[n]namorado da minha irmã recebeu[n]uma Carta de Aviso![n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_0915_3]
 [s][vp 8 2 65535 0 0 0]Por que você não envia um pedido[n]aos Phantom Thieves?[n][f 1 3 65535][w][e]

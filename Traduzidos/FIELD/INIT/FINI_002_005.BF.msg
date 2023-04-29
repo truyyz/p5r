@@ -79,7 +79,7 @@
 [s]Estamos todos prontos?[e]
 
 [msg D03_YOKOKU_DAY_mes01 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 23 1 3 3 5 11 5][vp 1 0 0 1 0 0][f 4 10 65535 0 0]A carta de aviso foi[n]posta por toda Shibuya...[n][w][e]
+[s][bup 0 3 2 0 0][f 4 23 1 3 3 5 11 5][vp 1 0 0 1 0 0][f 4 10 65535 0 0]A Carta de Aviso foi[n]posta por toda Shibuya...[n][w][e]
 
 [msg D03_YOKOKU_DAY_mes02 [Makoto]]
 [s][bup 0 6 2 65535 0][f 4 23 1 6 3 5 11 5][f 4 10 65535 0 0][vp 1 0 0 2 0 0]Uma boa ideia, não é?[n][w][e]
@@ -119,7 +119,7 @@
 [s][bup 0 7 2 65535 0][f 4 23 1 7 3 5 11 5][f 4 10 65535 0 0][vp 1 0 0 1 0 0]Hoje é o grande dia.[n]Vocês estão prontos?[n][w][e]
 
 [msg D06_YOKOKU_DAY_mes02 [Akechi]]
-[s][bup 0 9 0 65535 0][f 4 23 1 9 3 5 11 5][f 4 10 65535 0 0][vp 1 0 0 2 0 0]Makoto, a carta de aviso?[n][w][e]
+[s][bup 0 9 0 65535 0][f 4 23 1 9 3 5 11 5][f 4 10 65535 0 0][vp 1 0 0 2 0 0]Makoto, a Carta de Aviso?[n][w][e]
 
 [msg D06_YOKOKU_DAY_mes03 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 23 1 6 3 5 11 5][f 4 10 65535 0 0][vp 1 0 0 3 0 0]Eu mostrei para minha irmã...[n]Ela pegou de minhas próprias mãos...[n][w][e]

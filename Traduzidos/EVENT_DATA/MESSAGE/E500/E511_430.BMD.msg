@@ -86,8 +86,8 @@
 [s][bup 0 10 3 6 0][f 4 10 65535 0 0][vp 8 0 0 30 65535 0]Eu...[n][f 1 3 65535][w][e]
 
 [sel SEL_026_0_0 top]
-[s]Tudo está bem?[e]
-[s]Consegues levantar-te?[e]
+[s]Está tudo bem?[e]
+[s]Consegue ficar de pé?[e]
 
 [msg MSG_027_0_0 [Sumire]]
 [s][bup 0 10 4 6 0][f 4 10 65535 0 0][vp 8 0 0 31 65535 0]Ah sim...[n][f 1 3 65535][w][e]

@@ -53,7 +53,7 @@
 [s][bup 0 217 600 65535 0][vp 8 0 0 22 65535 0]......[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Ryuji]]
-[s][bup 0 2 100 65535 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Tudo bem, vamos voltar e[n]preparar aquela carta de aviso![n][f 1 3 65535][w][e]
+[s][bup 0 2 100 65535 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Tudo bem, vamos voltar e[n]preparar aquela Carta de Aviso![n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Ryuji]]
 [s][bup 0 2 100 65535 0][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Vamos derrubar Shido.[n]O que você vai fazer?[n][f 1 3 65535][w][e]

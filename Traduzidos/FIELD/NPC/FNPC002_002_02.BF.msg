@@ -162,7 +162,7 @@
 [s][f 4 23 1 14 3 10 0 0][vp 8 2 1 0 14 0]Sim! Sim! Ele seria o namorado perfeito.[n][w][e]
 
 [msg MSG_NEWSTUDENT_F01_011_0 [Calouro animada]]
-[s][f 4 23 1 14 3 10 0 0][vp 8 2 1 0 14 0]Os Phantom Thieves estão em Shibuya![n]A internet está cheia de fotos[n]de sua carta de aviso![n][w][e]
+[s][f 4 23 1 14 3 10 0 0][vp 8 2 1 0 14 0]Os Phantom Thieves estão em Shibuya![n]A internet está cheia de fotos[n]de sua Carta de Aviso![n][w][e]
 
 [msg MSG_NEWSTUDENT_F01_011_0_2 [Calouro motivado]]
 [s][f 4 23 1 13 3 10 0 0][vp 8 2 1 0 13 0]Sim eu vi. O logo[n]deles é muito legal.[n][w][e]
@@ -214,7 +214,7 @@
 [s][f 4 23 1 14 3 10 0 0][vp 8 2 1 0 14 0]Ela vive em um mundo só dela.[n]Essa escola é absurda demais...[n][w][e]
 
 [msg MSG_NEWSTUDENT_F01_015_0 [Calouro animada]]
-[s][f 4 23 1 14 3 10 0 0][vp 8 2 1 0 14 0]Eu ouvi sobre a carta de aviso[n]para a notícia. Como você acha que[n]Okumura-senpai vai reagir?[n][w][e]
+[s][f 4 23 1 14 3 10 0 0][vp 8 2 1 0 14 0]Eu ouvi sobre a Carta de Aviso[n]para a notícia. Como você acha que[n]Okumura-senpai vai reagir?[n][w][e]
 
 [msg MSG_NEWSTUDENT_F01_015_0_2 [Calouro motivado]]
 [s][f 4 23 1 13 3 10 0 0][vp 8 2 1 0 13 0]Seu pai na TV disse que eles chamaram a polícia.[n][w][e]
@@ -363,13 +363,13 @@
 [s][vp 9 2 65535 39455 0 0]"Phantom Thieves of Hearts"?[n]Quem diabos são eles?[n]Isso é algum tipo de piada?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_004_02_ [Calouro animada]]
-[s][vp 9 2 65535 43804 0 0]O que é essa carta de aviso[n]de que todo mundo está falando?[n]Aconteceu alguma coisa?[n][f 1 2 180][e]
+[s][vp 9 2 65535 43804 0 0]O que é essa Carta de Aviso[n]de que todo mundo está falando?[n]Aconteceu alguma coisa?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_004_03_ [Calouro animada]]
 [s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_004_04_ [Calouro animada]]
-[s][vp 9 2 65535 40455 0 0]Uma carta de aviso dos[n]Phantom Thieves? O que eles estão fazendo?[n][f 1 2 180][e]
+[s][vp 9 2 65535 40455 0 0]Uma Carta de Aviso dos[n]Phantom Thieves? O que eles estão fazendo?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_005_01_ [Calouro animada]]
 [s][vp 9 2 65535 40102 0 0]Ele deve ter pensado que logo[n]ele seria pego e que[n]confessar era a melhor coisa.[n][f 1 2 180][e]
@@ -456,10 +456,10 @@
 [s][vp 9 2 65535 42963 0 0]Parece que algumas das crianças[n]que foram enganadas[n]frequentam nossa escola...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_01_ [Calouro animada]]
-[s][vp 9 2 65535 39404 0 0]Houve realmente uma[n]carta de aviso dos Phantom Thieves?[n][f 1 2 180][e]
+[s][vp 9 2 65535 39404 0 0]Houve realmente uma[n]Carta de Aviso dos Phantom Thieves?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_02_ [Calouro animada]]
-[s][vp 9 2 65535 41404 0 0]Eles dizem que desta vez uma carta[n]de desafio apareceu em Shibuya...[n][f 1 2 180][e]
+[s][vp 9 2 65535 41404 0 0]Eles dizem que desta vez uma Carta[n]de Aviso apareceu em Shibuya...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_03_ [Calouro animada]]
 [s]0[n][f 1 2 180][e]
@@ -597,13 +597,13 @@
 [s][vp 9 2 65535 43250 0 0]Continue punindo o mal[n]lá fora, Phantom Thieves![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_021_01_ [Calouro animada]]
-[s][vp 9 2 65535 42653 0 0]Uma nova carta de aviso[n]apareceu! Que história![n][f 1 2 180][e]
+[s][vp 9 2 65535 42653 0 0]Uma nova Carta de Aviso[n]apareceu! Que história![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_021_02_ [Calouro animada]]
 [s][vp 9 2 65535 44856 0 0]Esses adultos corruptos merecem[n]apenas ser eliminados[n]pelos Phantom Thieves![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_021_03_ [Calouro animada]]
-[s][vp 9 2 65535 42106 0 0]É mais uma carta de aviso! Eu sabia[n]que seria endereçado[n]ao Presidente Okumura![n][f 1 2 180][e]
+[s][vp 9 2 65535 42106 0 0]É mais uma Carta de Aviso! Eu sabia[n]que seria endereçado[n]ao Presidente Okumura![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_021_04_ [Calouro animada]]
 [s][vp 9 2 65535 41253 0 0]Eu sabia que eles[n]teriam como alvo o presidente Okumura![n][f 1 2 180][e]

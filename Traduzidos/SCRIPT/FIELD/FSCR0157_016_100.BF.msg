@@ -38,7 +38,7 @@
 [s]Eu gostaria de explorar novamente.[e]
 
 [msg D06_16_e384_100_selA_0_m [Ann]]
-[s][bup 0 4 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6023 65535 0]Ok! Agora podemos enviar[n]a carta de aviso para o[n]mundo real![n][w][e]
+[s][bup 0 4 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6023 65535 0]Ok! Agora podemos enviar[n]a Carta de Aviso para o[n]mundo real![n][w][e]
 
 [msg D06_16_e384_100_selA_1_m [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1176 65535 0]Há algo mais que chamou sua atenção?[n][w][e]

@@ -1,5 +1,5 @@
 [msg MSG_000_0_0 [Ryuji]]
-[s][f 5 14]Quantas coisas eu gostaria de escrever na[n]carta-desafio. É difícil[n]encontrar as palavras certas.[n][w][e]
+[s][f 5 14]Quantas coisas eu gostaria de escrever na[n]Carta de Aviso. É difícil[n]encontrar as palavras certas.[n][w][e]
 
 [msg MSG_001_0_0 [Ann]]
 [s][f 5 14]Tem certeza de que[n]pode fazer isso?[n][w][e]

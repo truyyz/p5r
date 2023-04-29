@@ -222,7 +222,7 @@
 [s][vp 9 2 65535 41201 0 0]Os dele eram apenas plágios![n]Ele não é um grande artista, ele é[n]apenas um vigarista sujo![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_006_02_]
-[s][vp 9 2 65535 46004 0 0]Como é possível que[n]uma carta de aviso tenha sido enviada[n]antes disso acontecer...?[n][f 1 2 180][e]
+[s][vp 9 2 65535 46004 0 0]Como é possível que[n]uma Carta de Aviso tenha sido enviada[n]antes disso acontecer...?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_006_03_]
 [s][vp 9 2 65535 44505 0 0]"Phantom Thief"?[n]E o que é isso?[n][f 1 2 180][e]
@@ -279,16 +279,16 @@
 [s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_01_]
-[s][vp 9 2 65535 45205 0 0]Essa carta de aviso[n]deve ser uma farsa.[n]É ridículo![n][f 1 2 180][e]
+[s][vp 9 2 65535 45205 0 0]Essa Carta de Aviso[n]deve ser uma farsa.[n]É ridículo![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_02_]
-[s][vp 9 2 65535 39455 0 0]Cartas de desafio para Shibuya?[n]Do que você está falando?[n][f 1 2 180][e]
+[s][vp 9 2 65535 39455 0 0]Cartas de Aviso para Shibuya?[n]Do que você está falando?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_03_]
 [s][vp 9 2 65535 46055 0 0]Phantom Thieves? Mas vá.[n]Você vigia muitas almas.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_04_]
-[s][vp 9 2 65535 45305 0 0]Aquele? carta de aviso?[n][f 1 2 180][e]
+[s][vp 9 2 65535 45305 0 0]Aquele? Carta de Aviso?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_05_]
 [s][vp 9 2 65535 39155 0 0]Se você acredita que um "[n]Phantom Thief" resolverá seus[n]problemas... Abra seus olhos.[n][f 1 2 180][e]
@@ -603,7 +603,7 @@
 [s][vp 9 2 65535 45803 0 0]Mal posso esperar para Okumura[n]começar a chorar como[n]uma garotinha![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_018_09_]
-[s][vp 9 2 65535 39306 0 0]Era a carta de aviso que eu[n]esperava! Vocês são todos nós, Phantom Thieves![n][f 1 2 180][e]
+[s][vp 9 2 65535 39306 0 0]Era a Carta de Aviso que eu[n]esperava! Vocês são todos nós, Phantom Thieves![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_018_10_]
 [s]0[n][f 1 2 180][e]
@@ -879,7 +879,7 @@
 [s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_028_01_]
-[s][vp 9 2 65535 41757 0 0]Por que os Phantom Thieves[n]enviaram uma carta[n]de desafio para Shido-san...?[n][f 1 2 180][e]
+[s][vp 9 2 65535 41757 0 0]Por que os Phantom Thieves[n]enviaram uma Carta[n]de Aviso para Shido-san...?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_028_02_]
 [s][vp 9 2 65535 45655 0 0]Mas o que os Phantom Thieves dizem?[n]Shido negou tanto, então...[n][f 1 2 180][e]

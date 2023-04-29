@@ -11,7 +11,7 @@
 [s][f 5 14]Não faz sentido.[n][w][e]
 
 [msg MSG_004_0_0 [Futaba]]
-[s][f 5 14]Eu reconheço um trapaceiro quando o[n]vejo.[n][w][e]
+[s][f 5 14]Eu reconheço "godmoding" quando[n]vejo.[n][w][e]
 
 [msg MSG_005_0_0 [Ryuji]]
 [s][f 5 14]Neste ponto, ele é praticamente um deus,[n]certo?[n][w][e]

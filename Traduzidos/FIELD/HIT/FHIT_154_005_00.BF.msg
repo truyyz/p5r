@@ -94,7 +94,7 @@
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1158 65535 0]Você está pronto, Joker?[n][w][e]
 
 [msg e259_601_mes13 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1158 65535 0]Se quisermos continuar, devemos[n]enviar uma carta de aviso.[n][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1158 65535 0]Se quisermos continuar, devemos[n]enviar uma Carta de Aviso.[n][w][e]
 
 [msg D154_005_mini_EV_06_mes0 [Ryuji]]
 [s][bup 0 2 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7044 65535 0]Existem nomes em[n]cada um desses pequenos cofres.[n][w][e]

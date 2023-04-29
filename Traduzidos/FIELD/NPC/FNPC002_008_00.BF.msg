@@ -92,7 +92,7 @@
 [s][vp 9 2 65535 42905 0 0]Isso não é uma piada infantil?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_004_04_ [Estudante de aparência diligente]]
-[s][vp 9 2 65535 42702 0 0]Uma carta de aviso?[n]Alguém assistiu[n]muitos animes...[n][f 1 2 180][e]
+[s][vp 9 2 65535 42702 0 0]Uma Carta de Aviso?[n]Alguém assistiu[n]muitos animes...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_005_01_ [Estudante de aparência diligente]]
 [s][vp 9 2 65535 42104 0 0]Os Phantom Thieves[n]conheciam Kamoshida?[n][f 1 2 180][e]
@@ -152,7 +152,7 @@
 [s][vp 9 2 65535 43004 0 0]Os Phantom Thieves de novo? Mas não era só uma[n]piada?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_02_ [Estudante de aparência diligente]]
-[s][vp 9 2 65535 42604 0 0]Parece ser a mesma[n]carta de aviso recebida[n]de Kamoshida...[n][f 1 2 180][e]
+[s][vp 9 2 65535 42604 0 0]Parece ser a mesma[n]Carta de Aviso recebida[n]de Kamoshida...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_03_ [Estudante de aparência diligente]]
 [s][vp 9 2 65535 42104 0 0]Quem são os Phantom Thieves?[n][f 1 2 180][e]
@@ -176,7 +176,7 @@
 [s][vp 9 2 65535 42954 0 0]Eles certamente têm coragem,[n]para atacar a máfia.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_03_ [Estudante de aparência diligente]]
-[s][vp 9 2 65535 42254 0 0]Sim, eu vi as fotos[n]da carta de aviso...[n][f 1 2 180][e]
+[s][vp 9 2 65535 42254 0 0]Sim, eu vi as fotos[n]da Carta de Aviso...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_04_ [Estudante de aparência diligente]]
 [s][vp 9 2 65535 42903 0 0]Eu nem sabia que existia[n]a máfia no Japão![n][f 1 2 180][e]

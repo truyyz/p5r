@@ -19,7 +19,7 @@
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 7028 65535 0]Finalmente chegamos ao topo.[n]Está quase lá.[n][w][e]
 
 [msg SAFE_MES_ryuzi5 [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 7024 65535 0]Deixe-me a carta de aviso e eu cuido do resto![n][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 7024 65535 0]Deixe-me a Carta de Aviso e eu cuido do resto![n][w][e]
 
 [msg SAFE_MES_mona1 [Morgana]]
 [s][bup 0 3 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 1178 65535 0]Ufff... Agora meu pelo está todo[n]cheio de areia...[n][w][e]

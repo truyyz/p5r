@@ -10,7 +10,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Precisamos encontrar um caminho para o Tesouro o[n]mais rápido possível. Hoje vejo todos vocês no[n]esconderijo?[n][w][e]
 
 [msg MSG_C03_BEGIN_D05_50_00 [Haru]]
-[s][bup 0 7 200 65535 0][f 4 10 65535 0 0][f 4 23 1 203 3 10 0 10][vp 8 2 1 3019 65535 0]Então, se enviarmos a[n]carta de aviso, o Tesouro se materializará[n]no local que encontramos?[n][w][e]
+[s][bup 0 7 200 65535 0][f 4 10 65535 0 0][f 4 23 1 203 3 10 0 10][vp 8 2 1 3019 65535 0]Então, se enviarmos a[n]Carta de Aviso, o Tesouro se materializará[n]no local que encontramos?[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Bom. Quando enviamos?[n]Primeiro, porém, temos que nos reunir.[n][w][e]
 
 [sel SEL_C03_ACTION_D05_00_00 top]
@@ -47,7 +47,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Aguardo sua ligação.[n]Avise-me quando estiver pronto.[n][w][e]
 
 [msg MSG_C03_ACTION_D05_51_00 [Haru]]
-[s][bup 0 7 200 65535 0][f 4 10 65535 0 0][f 4 23 1 203 3 10 0 10][vp 8 2 1 3111 65535 0]Agora só temos que roubar o Tesouro, certo? Por[n]que não enviamos a carta de aviso[n]imediatamente?[n][w][e]
+[s][bup 0 7 200 65535 0][f 4 10 65535 0 0][f 4 23 1 203 3 10 0 10][vp 8 2 1 3111 65535 0]Agora só temos que roubar o Tesouro, certo? Por[n]que não enviamos a Carta de Aviso[n]imediatamente?[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]De qualquer forma, estou pronto.[n][w][e]
 
 [msg MSG_C03_BEGIN_D05_60_00 [Haru]]
@@ -125,7 +125,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Vamos combinar agora?[n][w][e]
 
 [msg MSG_C03_BEGIN_D00_50_00 [Haru]]
-[s][bup 0 7 200 65535 0][f 4 10 65535 0 0][f 4 23 1 203 3 10 0 10][vp 8 2 1 3019 65535 0]Agora sabemos onde está o Tesouro. Resta enviar[n]a carta de contestação.[n][w][e]
+[s][bup 0 7 200 65535 0][f 4 10 65535 0 0][f 4 23 1 203 3 10 0 10][vp 8 2 1 3019 65535 0]Agora sabemos onde está o Tesouro. Resta enviar[n]a Carta de Aviso.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Antes de fazermos isso, porém, precisamos[n]nos reunir, certo?[n][w][e]
 
 [sel SEL_C03_ACTION_D00_99_00 top]
@@ -146,7 +146,7 @@
 
 [msg MSG_C03_ACTION_D00_51_00 [Haru]]
 [s][bup 0 7 200 65535 0][f 4 10 65535 0 0][f 4 23 1 203 3 10 0 10][vp 8 2 1 3020 65535 0]Oh, Ok. Seu plano[n]tem alguma coisa a ver com isso?[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Agora é só enviar a[n]carta de aviso. Avise-me[n]quando estiver pronto, [f 4 2]-kun.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Agora é só enviar a[n]Carta de Aviso. Avise-me[n]quando estiver pronto, [f 4 2]-kun.[n][w][e]
 
 [msg MSG_C03_BEGIN_D00_60_00 [Haru]]
 [s][bup 0 7 200 65535 0][f 4 10 65535 0 0][f 4 23 1 203 3 10 0 10][vp 8 2 1 3001 65535 0]Agora só nos resta esperar...[n][w][e]
@@ -218,7 +218,7 @@
 [s][bup 0 7 200 65535 0][f 4 10 65535 0 0][f 4 23 1 203 3 10 0 10][vp 8 2 1 3197 65535 0]Hoje eu gostaria de entrar no Palácio.[n]Temos que acertar as contas com[n]Shido em relação ao meu pai...[n][w][e]
 
 [msg MSG_C03_BEGIN_D07_50_00 [Haru]]
-[s][bup 0 7 200 65535 0][f 4 10 65535 0 0][f 4 23 1 203 3 10 0 10][vp 8 2 1 3197 65535 0]Podemos enviar a carta de aviso? Temos que[n]acertar as contas com Shido em relação ao meu[n]pai...[n][w][e]
+[s][bup 0 7 200 65535 0][f 4 10 65535 0 0][f 4 23 1 203 3 10 0 10][vp 8 2 1 3197 65535 0]Podemos enviar a Carta de Aviso? Temos que[n]acertar as contas com Shido em relação ao meu[n]pai...[n][w][e]
 
 [sel SEL_C03_ACTION_D07_99_00 top]
 [s]Concordar.[e]
@@ -238,7 +238,7 @@
 
 [msg MSG_C03_ACTION_D07_51_00 [Haru]]
 [s][bup 0 7 202 65535 0][f 4 10 65535 0 0][f 4 23 1 203 3 10 0 10][vp 8 2 1 3046 65535 0]Você não poderia se concentrar,[n]por favor?[n][w][e]
-[s][bup 0 7 200 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Nosso próximo passo é[n]enviar a carta de aviso.[n]Entre em contato conosco quando estiver pronto.[n][w][e]
+[s][bup 0 7 200 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Nosso próximo passo é[n]enviar a Carta de Aviso.[n]Entre em contato conosco quando estiver pronto.[n][w][e]
 
 [msg MSG_C03_BEGIN_D07_60_00 [Haru]]
 [s][bup 0 7 200 65535 0][f 4 10 65535 0 0][f 4 23 1 203 3 10 0 10][vp 8 2 1 3019 65535 0]Não deveria haver mais[n]paradas mentais, deveria?[n][w][e]

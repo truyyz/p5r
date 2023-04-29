@@ -20,7 +20,7 @@
 [s][vp 1 0 0 0 0 0]Você está no ensino médio, certo?[n]Conheço um bom emprego[n]meio período...[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_0606_3]
-[s][vp 1 0 0 0 0 0]Ainda não[n]pegou a pessoa que enviou[n]a carta de aviso?[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Ainda não[n]pegou a pessoa que enviou[n]a Carta de Aviso?[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_0606_4]
 [s][vp 1 0 0 0 0 0]Eu realmente sou um Phantom Thief.[n]Vamos tomar um café?[n][f 1 3 65535][w][e]

@@ -103,7 +103,7 @@
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Eu não sabia que ela era uma famosa jogadora de[n]shogi...[n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [Estudante sério]]
-[s][vp 8 2 0 37554 4 0]Até mesmo o conselho estudantil está[n]caçando o autor da carta[n]de desafio. Com exames ao virar da esquina![n][f 1 3 65535][w][e]
+[s][vp 8 2 0 37554 4 0]Até mesmo o conselho estudantil está[n]caçando o autor da Carta[n]de Aviso. Com exames ao virar da esquina![n][f 1 3 65535][w][e]
 
 [msg MSG_025_0_0 [Estudante otimista do terceiro ano]]
 [s][vp 8 0 0 0 5 0]É verdade, existem exames! Eu[n]esqueci completamente...[n]E ainda não toquei no livro...[n][f 1 3 65535][w][e]

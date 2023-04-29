@@ -1,10 +1,10 @@
 [msg DVL_000_0_0 [Yaldabaoth]]
 [s][vp 8 0 0 1 65535 0]Que poder imenso...[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 2 65535 0]Supera até a minha...[n]Um deus gerado pela[n]vontade das massas...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 2 65535 0]Supera até o meu...[n]Um deus gerado pela[n]vontade das massas...[n][f 1 3 65535][w][e]
 
 [msg DVL_003_0_0 [Yaldabaoth]]
 [s][vp 8 0 0 8 65535 0]Então este é...[n]o verdadeiro Trapaceiro...[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 9 65535 0]Aquele maldito Igor...[n]Ele não era só[n]bobagem, afinal...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 9 65535 0]Aquele maldito Igor...[n]Parece que ele não estava[n]falando besteira...[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Ann]]
 [s][bup 0 4 104 0 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Olha![n][f 1 3 65535][w][e]
@@ -31,7 +31,7 @@
 [s][bup 0 5 104 0 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Ei...[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Graças a você, consegui[n]concluir[n]minha tarefa...[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Graças a vocês, consegui[n]concluir minha tarefa...[n][f 1 3 65535][w][e]
 
 [msg MSG_015_5_0 [Makoto]]
 [s][bup 0 6 104 0 0][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Foi tudo por sua causa, Morgana,[n]é?[n][f 1 3 65535][w][e]

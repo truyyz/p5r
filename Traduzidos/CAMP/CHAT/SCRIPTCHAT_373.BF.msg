@@ -1,5 +1,5 @@
 [msg MSG_000_0_0 [Ryuji]]
-[s][f 5 14]Cara, o prazo é amanhã![n]Como está o Futaba?!?[n][w][e]
+[s][f 5 14]Cara, o prazo é amanhã![n]Como está a Futaba?!?[n][w][e]
 
 [sel SEL_001_0_0 top]
 [s][f 5 14]Estamos bem.[e]

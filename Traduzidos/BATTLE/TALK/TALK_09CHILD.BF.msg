@@ -1719,7 +1719,7 @@
 [s]Meu nome verdadeiro é [clr 1][var 2][clr 27]![n]Você e eu somos iguais![n][w][e]
 
 [msg TalkMsg_ED_bye_D01_01]
-[s]É melhor você se render, senhor.[n]King Kamoshida é muito forte...[n]Você não pode vencê-lo.[n][w][e]
+[s]É melhor você se render, senhor.[n]Rei Kamoshida é muito forte...[n]Você não pode vencê-lo.[n][w][e]
 
 [msg TalkMsg_ED_bye_D01_02]
 [s]ei! Mal posso esperar para o[n]Rei Kamoshida derrotar você![n][w][e]

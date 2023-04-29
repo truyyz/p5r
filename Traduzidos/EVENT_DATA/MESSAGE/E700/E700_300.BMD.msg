@@ -3822,7 +3822,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Ok?[n][f 1 3 65535][w][e]
 
 [msg MSG_964_0_0 [Shinya]]
-[s][bup 0 110 1 0 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 17 5 1010]O que eu? Não... Acabei de entregar[n]a carta de aviso.[n][f 1 3 65535][w][e]
+[s][bup 0 110 1 0 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 17 5 1010]O que eu? Não... Acabei de entregar[n]a Carta de Aviso.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Oh sim, posso dar-lhe uma mensagem[n]para passar para os Phantom Thieves?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Agradeça a eles por despertarem o coração da[n]múmia! Eu me tornarei forte o suficiente para[n]protegê-la sozinho![n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Ok?[n][f 1 3 65535][w][e]

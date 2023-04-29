@@ -1,6 +1,6 @@
 [msg CMM_EVENT_OPEN]
 [s][vp 1 0 0 0 0 0]Você desbloqueou o[n]Confidente da Arcana: Temperança![n][f 1 3 65535][w][e]
-[s][vp 1 0 0 0 0 0]Mesclar Personas de Arcana: Temperance[n]agora concederá a você XP[n]graças ao Arcanum Impetus![n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Mesclar Personas de Arcana: Temperança[n]agora concederá a você XP[n]graças ao Arcanum Impetus![n][f 1 3 65535][w][e]
 [s][vp 1 0 0 0 0 0]Kawakami agora vai deixar você[n][clr 1]relaxar[clr 27] durante as aulas dela![n][f 1 3 65535][w][e]
 
 [msg CMM_EVENT_RANKUP_2]
@@ -39,7 +39,7 @@
 [s][vp 1 0 0 0 0 0]Agora você ganhará mais XP[n]de Arcanum Rampage ao fundir[n]Personas Arcanas: Temperança![n][f 1 3 65535][w][e]
 
 [msg CMM_EVENT_RANKMAX]
-[s][vp 1 0 0 0 0 0]O Confidente da Arcana: Temperance[n]alcançou [clr 2]MAX Rank[clr 27]![n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]O Confidente da Arcana: Temperança[n]alcançou [clr 2]MAX Rank[clr 27]![n][f 1 3 65535][w][e]
 [s][vp 1 0 0 0 0 0]Agora você ganhará mais XP[n]de Arcanum Rampage ao fundir[n]Personas Arcanas: Temperança![n][f 1 3 65535][w][e]
 [s][vp 1 0 0 0 0 0]Agora você pode pedir a Kawakami[n]para lhe dar uma [clr 1]Massagem Especial[clr 27]![n][f 1 3 65535][w][e]
 

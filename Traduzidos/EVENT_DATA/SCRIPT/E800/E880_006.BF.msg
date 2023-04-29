@@ -32,7 +32,7 @@
 [s][vp 1 0 0 0 0 0]Ouvi dizer que eles[n]pegaram um criminoso.[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_0709_2]
-[s][vp 1 0 0 0 0 0]As pessoas dizem que foi[n]anunciada por uma carta[n]de desafio...[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]As pessoas dizem que foi[n]anunciada por uma Carta[n]de Aviso...[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_0709_3]
 [s][vp 1 0 0 0 0 0]Oh, eu sabia![n]eu os vi em Shibuya![n][f 1 3 65535][w][e]
@@ -116,7 +116,7 @@
 [s][vp 1 0 0 0 0 0]Que pena. Que tipo[n]de heróis eles são?[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_0916_5]
-[s][vp 1 0 0 0 0 0]Que se apressem e[n]envie uma carta de aviso.[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Que se apressem e[n]envie uma Carta de Aviso.[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_1022_1]
 [s][vp 1 0 0 0 0 0]Quem sabe que tipo de pessoa[n]são os culpados...[n][f 1 3 65535][w][e]

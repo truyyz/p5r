@@ -3,8 +3,8 @@
 
 [msg MSG_002_0_0 [Morgana]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 3 3 300 1][vp 8 0 0 8 65535 0]Se você realmente fosse um deus, guiaria[n]a humanidade em direção aos seus ideais![n][f 1 3 65535][w][e]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]E, em vez disso, você o está destruindo apenas[n]porque não é capaz disso e para[n]se gabar de sua própria existência.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]É por isso que você nos assistiu![n]Você tinha que fazer isso, porque a reação[n]das "massas" te assustou![n][f 1 3 65535][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]E, em vez disso, você a está destruindo apenas[n]porque não é capaz disso e para[n]se gabar de sua própria existência.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]É por isso que você nos observava![n]Você tinha que fazer isso, porque a reação[n]das "massas" te assustou![n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Yusuke]]
 [s][bup 0 5 105 65535 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Parece que sim.[n][f 1 3 65535][w][e]
@@ -74,10 +74,11 @@
 
 [msg DVL_033_0_0 [Yaldabaoth]]
 [s][vp 8 0 0 60 65535 0]Você consegue ouvir[n]a voz das massas?[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 61 65535 0]Eles zombam de você por se opor a um deus.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 61 65535 0]Elas zombam de você por se opor a um deus.[n][f 1 3 65535][w][e]
 
 [msg DVL_033_3_0 [Yaldabaoth]]
-[s][vp 8 0 0 7 65535 0]Os seres humanos nada mais são do que pedaços de[n]desejo. Um mundo governado por tais seres só[n]pode regredir.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 7 65535 0]Os seres humanos nada mais são do que pedaços de[n]desejo. Um mundo governado por tais s
+eres só[n]pode regredir.[n][f 1 3 65535][w][e]
 
 [msg DVL_033_6_0 [Yaldabaoth]]
 [s][vp 8 0 0 37 65535 0]Rebelar-se contra um deus[n]é um pecado extremamente sério.[n][f 1 3 65535][w][e]
@@ -94,10 +95,10 @@
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 70 65535 0]Até a esperança humana[n]é um desejo![n]Você não deve subestimá-la![n][f 1 3 65535][w][e]
 
 [msg MSG_040_0_0 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 76 65535 0]Os Phantom Thieves[n]nunca desistirão[n]antes de ninguém![n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 77 65535 0]E mesmo que[n]apenas um de nós fosse deixado, ele[n]continuaria lutando até o fim![n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 78 65535 0]E sem dúvida...[n]vamos conseguir...[n][f 1 3 65535][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 76 65535 0]Os Phantom Thieves[n]não cederão a ninguém,[n]não importa quem seja![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 77 65535 0]E mesmo que[n]apenas um de nós sobrasse, ele[n]continuaria lutando até o fim![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 78 65535 0]E sem dúvida...[n]definitivamente...[n][f 1 3 65535][w][e]
 
 [msg MSG_041_0_0 [Morgana]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 3 3 301 1][vp 8 0 0 79 65535 0]...para retomar o mundo![n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 3 3 301 1][vp 8 0 0 79 65535 0]Tomaremos o mundo![n][f 1 3 65535][w][e]
 

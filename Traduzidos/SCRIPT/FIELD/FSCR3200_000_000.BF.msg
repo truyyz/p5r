@@ -1699,7 +1699,7 @@
 [msg TV_NEWS_1021_000_00 [Locutor]]
 [s]Nossa cobertura do[n]presidente da Okumura Foods continua...[n][w][e]
 [s]Apesar da ausência de pistas, na[n]net há muitos que culpam os[n]Phantom Thieves...[n][w][e]
-[s]O pedido é para examinar[n]a carta de contestação que foi[n]entregue ao Presidente Okumura...[n][w][e]
+[s]O pedido é para examinar[n]a Carta de Aviso que foi[n]entregue ao Presidente Okumura...[n][w][e]
 
 [msg TV_NEWS_1021_100_00 [Morgana]]
 [s][bup 0 3 0 0 0]モルガナのコメント[n][w][e]

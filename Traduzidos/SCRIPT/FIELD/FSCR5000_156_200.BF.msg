@@ -5,5 +5,5 @@
 [s][bup 0 4 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Não sei, já deveríamos ter[n]visto quase tudo. Nós[n]exploramos todo o caminho até o Tesouro.[n][w][e]
 
 [msg D05_BRIEFING_080_mes03 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]No entanto, o Joker irá[n]decidir quando enviar[n]a carta de aviso.[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]No entanto, o Joker irá[n]decidir quando enviar[n]a Carta de Aviso.[n][w][e]
 

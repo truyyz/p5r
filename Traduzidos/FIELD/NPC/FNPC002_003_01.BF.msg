@@ -278,7 +278,7 @@
 [s][vp 9 2 65535 40355 0 0]Será a piada clássica[n]de quem assiste[n]muitos animes...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_004_05_ [Estudante impiedoso]]
-[s][vp 9 2 65535 38905 0 0]Uma carta de aviso dos[n]Phantom Thieves? É só uma brincadeira,[n]certo?[n][f 1 2 180][e]
+[s][vp 9 2 65535 38905 0 0]Uma Carta de Aviso dos[n]Phantom Thieves? É só uma brincadeira,[n]certo?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_005_01_ [Estudante impiedoso]]
 [s][vp 9 2 65535 41705 0 0]Parem todos, aquela pequena história sobre[n]Phantom Thieves é verdade?[n]Não, vamos lá, é ridículo...[n][f 1 2 180][e]
@@ -365,10 +365,10 @@
 [s][vp 9 2 65535 38254 0 0]Tanto Kamoshida quanto Madarame...[n]Talvez os Phantom Thieves[n]existam mesmo...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_04_ [Estudante impiedoso]]
-[s][vp 9 2 65535 39103 0 0]É verdade que Madarame também[n]recebeu uma carta de aviso?[n][f 1 2 180][e]
+[s][vp 9 2 65535 39103 0 0]É verdade que Madarame também[n]recebeu uma Carta de Aviso?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_05_ [Estudante impiedoso]]
-[s][vp 9 2 65535 42354 0 0]Parece que os Phantom Thieves[n]também enviaram uma carta de[n]desafio para Madarame...[n][f 1 2 180][e]
+[s][vp 9 2 65535 42354 0 0]Parece que os Phantom Thieves[n]também enviaram uma Carta de[n]Aviso para Madarame...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_009_01_ [Estudante impiedoso]]
 [s][vp 9 2 65535 38201 0 0]O que a polícia está fazendo!?![n]Apresse-se e prenda-os...[n][f 1 2 180][e]
@@ -386,7 +386,7 @@
 [s][vp 9 2 65535 40802 0 0]É assustador que tantos[n]sejam enganados por phishing[n]hoje em dia...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_01_ [Estudante impiedoso]]
-[s][vp 9 2 65535 42204 0 0]Cartas de desafio de[n]Phantom Thieves foram[n]vistas em Shibuya![n][f 1 2 180][e]
+[s][vp 9 2 65535 42204 0 0]Cartas de Aviso de[n]Phantom Thieves foram[n]vistas em Shibuya![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_02_ [Estudante impiedoso]]
 [s]0[n][f 1 2 180][e]
@@ -398,7 +398,7 @@
 [s][vp 9 2 65535 40505 0 0]Quem é esse Kaneshiro que eles[n]alvo agora?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_05_ [Estudante impiedoso]]
-[s][vp 9 2 65535 39255 0 0]É verdade que eles encontraram[n]outra carta de aviso[n]dos Phantom Thieves?[n][f 1 2 180][e]
+[s][vp 9 2 65535 39255 0 0]É verdade que eles encontraram[n]outra Carta de Aviso[n]dos Phantom Thieves?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_011_01_ [Estudante impiedoso]]
 [s][vp 9 2 65535 42256 0 0]Parece que os Phantom Thieves[n]acabaram com aquela[n]rede criminosa...[n][f 1 2 180][e]
@@ -572,7 +572,7 @@
 [s][vp 9 2 65535 42650 0 0]Faça-o se ajoelhar[n]e implorar![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_021_05_ [Estudante impiedoso]]
-[s][vp 9 2 65535 42403 0 0]Eu esperava que eles enviassem uma carta de[n]desafio! Mal posso esperar para ver o que[n]acontece a seguir![n][f 1 2 180][e]
+[s][vp 9 2 65535 42403 0 0]Eu esperava que eles enviassem uma Carta de[n]Aviso! Mal posso esperar para ver o que[n]acontece a seguir![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_022_01_ [Estudante impiedoso]]
 [s][vp 9 2 65535 43057 0 0]Foi chocante assistir à[n]conferência de imprensa[n]do Presidente Okumura…[n][f 1 2 180][e]

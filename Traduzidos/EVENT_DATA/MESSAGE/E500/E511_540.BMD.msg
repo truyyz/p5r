@@ -20,7 +20,7 @@
 [s][bup 0 103 1 0 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Tá aqui pra você né?[n]Esquece aí...[n]Vou terminar.[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Sumire]]
-[s][bup 0 10 903 2 0][f 4 10 65535 0 0][vp 8 0 0 8 23 0]Desculpe, cheguei tão tarde...[n][f 1 3 65535][w][e]
+[s][bup 0 10 903 2 0][f 4 10 65535 0 0][vp 8 0 0 8 23 0]Desculpe por chegar tão tarde...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 9 23 0]E obrigado pelo café.[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Sumire]]
@@ -28,18 +28,18 @@
 [s][vp 1 0 0 13 0 0]......[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Sumire]]
-[s][bup 0 10 903 2 0][f 4 10 65535 0 0][vp 8 0 0 14 23 0]Você se importa se... se eu[n]levar o peso imediatamente?[n][f 1 3 65535][w][e]
+[s][bup 0 10 903 2 0][f 4 10 65535 0 0][vp 8 0 0 14 23 0]Você se importa se... eu[n]tirar o peso dos meus ombros?[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Sumire]]
 [s][bup 0 10 900 2 0][f 4 10 65535 0 0][vp 8 0 0 15 23 0]Obrigado.[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Sumire]]
-[s][bup 0 10 903 2 0][f 4 10 65535 0 0][vp 8 0 0 11 23 0]Bem, vou ser sincero...[n]Hoje eu vi vocês todos indo[n]para a enfermaria...[n][f 1 3 65535][w][e]
+[s][bup 0 10 903 2 0][f 4 10 65535 0 0][vp 8 0 0 11 23 0]Bem, vou ser sincera...[n]Hoje eu vi vocês todos indo[n]para a enfermaria...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 12 23 0]E, uh... vamos apenas dizer que ouvi[n]sua conversa.[n][f 1 3 65535][w][e]
 
 [sel SEL_011_0_0 top]
 [s]Sobre Maruki?[e]
-[s]Sobre cumprimento?[e]
+[s]Sobre a atualização?[e]
 
 [msg MSG_012_0_0 [Sumire]]
 [s][bup 0 10 903 2 0][f 4 10 65535 0 0][vp 8 0 0 16 23 0]Vocês já determinaram o caminho[n]que desejam seguir e estão[n]tão confiantes…[n][f 1 3 65535][w][e]
@@ -47,7 +47,7 @@
 
 [msg MSG_013_0_0 [Sumire]]
 [s][bup 0 10 903 2 0][f 4 10 65535 0 0][vp 8 0 0 18 23 0]...Como disse o Dr. Maruki,[n]eu fugi da verdade.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 19 23 0]Eu não suportava o fato[n]que Kasumi morreu por causa[n]minha culpa.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 19 23 0]Eu não suportava o fato[n]que Kasumi morreu por[n]minha culpa.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 20 23 0]Minha memória ainda está confusa, mas[n]mesmo quando lembrei que era[n]Sumire, não quis aceitar...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 21 23 0]Eu estava fugindo da realidade em que Kasumi[n]morreu... E na qual eu deveria[n]viver para ela e não gostar dela.[n][f 1 3 65535][w][e]
 
@@ -63,7 +63,7 @@
 
 [msg MSG_017_0_0 [Sumire]]
 [s][bup 0 10 903 2 0][f 4 10 65535 0 0][vp 8 0 0 24 23 0]Como eu estava dizendo, eu entendi uma[n]coisa, vendo[n]todos vocês empenhados em seguir em frente...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 25 23 0]Eu não posso mais escapar assim[n]way.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 25 23 0]Eu não posso mais escapar assim[n]dessa forma.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 26 23 0]Mas, agora que Kasumi se foi,[n]não tenho ideia do que fazer...[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Sumire]]

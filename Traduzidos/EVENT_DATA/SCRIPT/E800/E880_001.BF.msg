@@ -281,13 +281,13 @@
 [s][vp 1 0 0 0 0 0]Que decepção. Que tipo[n]de heróis eles são?[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_0916_5]
-[s][vp 1 0 0 0 0 0]Que se apressem e[n]envie uma carta de aviso.[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Que se apressem e[n]envie uma Carta de Aviso.[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_0921_1]
 [s][vp 1 0 0 0 0 0]Presidente Okumura é o[n]alvo mais votado[n]do Phan-Site![n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_0921_2]
-[s][vp 1 0 0 0 0 0]Quem sabe quando enviarão[n]a carta de aviso![n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Quem sabe quando enviarão[n]a Carta de Aviso![n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_0921_3]
 [s][vp 1 0 0 0 0 0]Do que ele é culpado?[n]Abuso de poder?[n][f 1 3 65535][w][e]

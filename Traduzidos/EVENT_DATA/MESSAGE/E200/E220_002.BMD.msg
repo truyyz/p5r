@@ -37,7 +37,7 @@
 
 [msg MSG_010_0_0 [Sae]]
 [s][bup 0 105 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Foi nessa época que[n]Phantom Thieves começou[n]a ganhar popularidade.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]As mentiras invadiram a internet. Coisas[n]como "Phantom Thieves me salvaram"[n]ou "Recebi a carta de aviso".[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]As mentiras invadiram a internet. Coisas[n]como "Phantom Thieves me salvaram"[n]ou "Recebi a Carta de Aviso".[n][f 1 3 65535][w][e]
 [s][bup 0 105 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Meu Deus. Reunir evidências[n]entre todo esse lixo[n]levou uma eternidade.[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Sae]]

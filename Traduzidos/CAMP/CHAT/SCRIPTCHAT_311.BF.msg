@@ -30,7 +30,7 @@
 [s][f 5 14]Como eu disse, eles são Alibaba.[n][w][e]
 
 [msg MSG_008_0_0 [Alibaba]]
-[s][f 5 14]Presumo que você tenha recebido a carta de[n]desafio.[n][w][e]
+[s][f 5 14]Presumo que você tenha recebido a Carta de[n]Aviso.[n][w][e]
 
 [msg MSG_009_0_0 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Então foi realmente[n]desse cara...[n][f 1 3 65535][w][e]
@@ -56,7 +56,7 @@
 [s][f 5 14]Eu sou Alibaba.[n][w][e]
 
 [msg MSG_015_0_0 [Alibaba]]
-[s][f 5 14]Eu preparei[n]a carta de aviso para você.[n][w][e]
+[s][f 5 14]Eu preparei[n]a Carta de Aviso para você.[n][w][e]
 
 [msg MSG_015_5_0 [Alibaba]]
 [s][f 5 14]Quando você vai agir?[n][w][e]
@@ -79,7 +79,7 @@
 [s][f 5 14]Eu sou Alibaba.[n][w][e]
 
 [msg MSG_020_0_0 [Alibaba]]
-[s][f 5 14]Você é ou não capaz de despertar[n]um coração, desde que tenha[n]uma carta de aviso?[n][w][e]
+[s][f 5 14]Você é ou não capaz de despertar[n]um coração, desde que tenha[n]uma Carta de Aviso?[n][w][e]
 
 [msg MSG_021_0_0 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Diga a ele.[n][f 1 3 65535][w][e]

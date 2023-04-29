@@ -264,7 +264,7 @@
 [s][vp 9 2 65535 58883 0 0]Eles dizem que Shibuya é coberto de papel[n]com cartas de desafio![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_02_]
-[s][vp 9 2 65535 58900 0 0]Você viu a carta-desafio?[n]Tem um design muito bom.[n][f 1 2 180][e]
+[s][vp 9 2 65535 58900 0 0]Você viu a Carta de Aviso?[n]Tem um design muito bom.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_03_]
 [s][vp 9 2 65535 58932 0 0]Esses "Phantom Thieves" são tão estúpidos. Isso[n]deve ser uma piada![n][f 1 2 180][e]
@@ -273,10 +273,10 @@
 [s][vp 9 2 65535 58862 0 0]Se eles têm tempo para falar[n]sobre os Phantom Thieves,[n]eles também têm tempo para estudar.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_05_]
-[s][vp 9 2 65535 43753 0 0]Você ouve os rumores sobre a carta de[n]desafio? É tão emocionante![n][f 1 2 180][e]
+[s][vp 9 2 65535 43753 0 0]Você ouve os rumores sobre a Carta de[n]Aviso? É tão emocionante![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_06_]
-[s][vp 9 2 65535 44304 0 0]Já não falamos sobre esta[n]carta de aviso antes?[n][f 1 2 180][e]
+[s][vp 9 2 65535 44304 0 0]Já não falamos sobre esta[n]Carta de Aviso antes?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_07_]
 [s][vp 9 2 65535 44250 0 0]Phantom Thieves? Mas, por favor.[n]É impossível que sejam reais.[n][f 1 2 180][e]
@@ -330,7 +330,7 @@
 [s][vp 9 2 65535 44000 0 0]Agora podemos ir[n]para Shibuya novamente![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_01_]
-[s][vp 9 2 65535 43750 0 0]A carta de aviso era real![n][f 1 2 180][e]
+[s][vp 9 2 65535 43750 0 0]A Carta de Aviso era real![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_02_]
 [s][vp 9 2 65535 45400 0 0]Você ouviu que aqueles Phantom Thieves[n]capturaram o líder[n]da quadrilha criminosa?[n][f 1 2 180][e]
@@ -342,10 +342,10 @@
 [s][vp 9 2 65535 45352 0 0]Não acredito que os[n]Phantom Thieves são reais...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_05_]
-[s][vp 9 2 65535 45200 0 0]O que estava escrito na carta[n]de desafio era tudo verdade![n]Phantom Thieves são reais![n][f 1 2 180][e]
+[s][vp 9 2 65535 45200 0 0]O que estava escrito na Carta[n]de Aviso era tudo verdade![n]Phantom Thieves são reais![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_06_]
-[s][vp 9 2 65535 38500 0 0]Esses rumores sobre a carta de aviso[n]estavam relacionados à prisão[n]de Kaneshiro?[n][f 1 2 180][e]
+[s][vp 9 2 65535 38500 0 0]Esses rumores sobre a Carta de Aviso[n]estavam relacionados à prisão[n]de Kaneshiro?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_07_]
 [s][vp 9 2 65535 37850 0 0]Eles disseram no noticiário que os[n]Phantom Thieves estavam[n]no caso![n][f 1 2 180][e]
@@ -579,7 +579,7 @@
 [s][vp 9 2 65535 39000 0 0]Os Phantom Thieves podem fazer isso[n]com certeza contra[n]companhia obscura![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_017_06_]
-[s][vp 9 2 65535 39450 0 0]Espero que enviem[n]uma carta de aviso em breve...[n][f 1 2 180][e]
+[s][vp 9 2 65535 39450 0 0]Espero que enviem[n]uma Carta de Aviso em breve...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_017_07_]
 [s][vp 9 2 65535 39350 0 0]Todos os malfeitores devem[n]passar por um despertar do coração![n][f 1 2 180][e]
@@ -591,7 +591,7 @@
 [s][vp 9 2 65535 43752 0 0]Eu ouço muitos elogios para[n]the Phantom Thieves ultimamente...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_017_11_]
-[s][vp 9 2 65535 44800 0 0]Eu gostaria que eles se apressassem em[n]enviar a carta de aviso![n][f 1 2 180][e]
+[s][vp 9 2 65535 44800 0 0]Eu gostaria que eles se apressassem em[n]enviar a Carta de Aviso![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_017_12_]
 [s][vp 9 2 65535 58920 0 0]Podemos contar com os[n]Phantom Thieves para consertar[n]nossa sociedade, não podemos?[n][f 1 2 180][e]
@@ -606,19 +606,19 @@
 [s][vp 9 2 65535 39300 0 0]Okumura Foods agora é história![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_018_04_]
-[s][vp 9 2 65535 40050 0 0]Eles enviaram uma carta de aviso![n]Que alívio.[n][f 1 2 180][e]
+[s][vp 9 2 65535 40050 0 0]Eles enviaram uma Carta de Aviso![n]Que alívio.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_018_05_]
 [s][vp 9 2 65535 39600 0 0]Desperte o coração de Okumura,[n]Phantom Thieves![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_018_06_]
-[s][vp 9 2 65535 39400 0 0]A carta de aviso foi[n]enviada! Eu não quero perder isso[n][f 1 2 180][e]
+[s][vp 9 2 65535 39400 0 0]A Carta de Aviso foi[n]enviada! Eu não quero perder isso[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_018_07_]
 [s][vp 9 2 65535 40600 0 0]Mostre a eles quem é o chefe, Phantom[n]Thieves! Esmague essas[n]empresas corruptas![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_018_09_]
-[s][vp 9 2 65535 40750 0 0]Eu sabia! Eu estava ansioso[n]por uma carta[n]de desafio![n][f 1 2 180][e]
+[s][vp 9 2 65535 40750 0 0]Eu sabia! Eu estava ansioso[n]por uma Carta[n]de Aviso![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_018_10_]
 [s][vp 9 2 65535 41350 0 0]Então a Okumura Foods é[n]o próximo alvo dos[n]Phantom Thieves...[n][f 1 2 180][e]
@@ -3110,7 +3110,7 @@
 
 [msg MSG_NOMIYA_MIDDLEWOMEN_0_21 [Dona de casa barulhenta]]
 [s][f 4 23 1 75 14 10 13 10][vp 8 2 1 0 75 0]V-Você viu a coletiva de imprensa?[n]Que diabos foi isso?!?[n][w][e]
-[s][vp 8 2 1 0 75 0]Os Phantom Thieves estavam por trás disso?[n]Eles dizem que havia uma[n]carta de aviso...[n][w][e]
+[s][vp 8 2 1 0 75 0]Os Phantom Thieves estavam por trás disso?[n]Eles dizem que havia uma[n]Carta de Aviso...[n][w][e]
 
 [msg MSG_NOMIYA_MIDDLEWOMEN_0_22 [Dona de casa cansada]]
 [s][f 4 23 1 76 14 10 13 10][vp 8 2 1 0 76 0]Mas como eles fariam isso?[n]Como é possível...?[n][w][e]
@@ -3639,7 +3639,7 @@
 [s][vp 8 2 1 0 60 0]Há uma nova moda por aí. Agora[n]as pessoas gostam de enviar umas às outras[n]cartas de desafio.[n][w][e]
 [s][vp 8 2 1 0 60 0]Desta vez, preciso disto:[n][f 2 5 3 9999 0].[n][w][e]
 [s][vp 8 2 1 0 60 0]Em troca[n]eu te dou isto: [f 2 5 3 9999 1].[n][w][e]
-[s][vp 8 2 1 0 60 0]Uma carta de aviso[n]no estilo certo, hein?[n][w][e]
+[s][vp 8 2 1 0 60 0]Uma Carta de Aviso[n]no estilo certo, hein?[n][w][e]
 
 [msg MSG_TRADER_090_010_00 [Sakai o mercador]]
 [s][vp 8 2 1 0 60 0]Meus olhos me enganam ou...[n]é isso que eu penso?[n][w][e]

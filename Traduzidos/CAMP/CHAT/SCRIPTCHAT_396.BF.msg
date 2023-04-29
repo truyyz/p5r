@@ -8,7 +8,7 @@
 [s][f 5 14]O dia do nosso plano?[n]Claro que nos lembramos.[n][w][e]
 
 [msg MSG_003_0_0 [Ann]]
-[s][f 5 14]Isso significa que vamos enviar a carta de[n]desafio hoje, certo?[n][w][e]
+[s][f 5 14]Isso significa que vamos enviar a Carta de[n]Aviso hoje, certo?[n][w][e]
 
 [msg MSG_004_0_0 [Yusuke]]
 [s][f 5 14]Sim, nossa única opção é hoje.[n][w][e]

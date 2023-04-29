@@ -76,8 +76,8 @@
 
 [msg MSG_019_0_0 [Lavenza]]
 [s][bup 0 100 0 0 0][f 4 10 65535 0 0][vp 8 0 0 31 65535 0]Exatamente.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 32 65535 0]Aquele poder dela de controlar[n]cognição... hmm, por que[n]não chama isso de "realização"?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 33 65535 0]É muito provável que este[n]cumprimento seja o poder[n]de uma Pessoa.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 32 65535 0]Aquele poder dele de controlar[n]cognição... hmm, por que[n]não chama isso de "realização"?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 33 65535 0]É muito provável que este[n]cumprimento seja o poder[n]de uma Persona.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 34 65535 0]Em outras palavras, este homem[n]chamado Maruki é...[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Lavenza]]
@@ -88,7 +88,7 @@
 
 [msg MSG_021_5_0 [Morgana]]
 [s][bup 0 3 4 0 0][f 4 10 65535 0 0][vp 8 0 0 135 65535 0]Mas é impossível...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 136 65535 0]Não há como possuir[n]uma Pessoa e[n]um Edifício ao mesmo tempo![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 136 65535 0]Não há como possuir[n]uma Persona e[n]um Palácio ao mesmo tempo![n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Lavenza]]
 [s][bup 0 100 0 0 0][f 4 10 65535 0 0][vp 8 0 0 37 65535 0]Estabelecer quando em Maruki seu[n]poder primeiro[n]despertou é impossível.[n][f 1 3 65535][w][e]
@@ -263,11 +263,11 @@
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 100 65535 0]Nesse caso, não temos outra escolha a não ser[n]roubar seu tesouro antes disso.[n][f 1 3 65535][w][e]
 
 [msg MSG_070_0_0 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 101 65535 0]Precisamos limpar um caminho[n]de infiltração até 2, então[n]enviar nossa carta de aviso.[n][f 1 3 65535][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 101 65535 0]Precisamos limpar um caminho[n]de infiltração até 2, então[n]enviar nossa Carta de Aviso.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 102 65535 0]Então, na data marcada...[n]provavelmente[n]teremos que enfrentar Maruki.[n][f 1 3 65535][w][e]
 
 [msg MSG_071_0_0 [Yusuke]]
-[s][bup 0 5 200 65535 0][f 4 10 65535 0 0][vp 8 0 0 103 65535 0]Deixe-me fazer a[n]carta de aviso.[n][f 1 3 65535][w][e]
+[s][bup 0 5 200 65535 0][f 4 10 65535 0 0][vp 8 0 0 103 65535 0]Deixe-me fazer a[n]Carta de Aviso.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 104 65535 0]Certamente será o último...[n]colocarei meu coração e[n]minha alma em sua criação.[n][f 1 3 65535][w][e]
 
 [msg MSG_072_3_0 [Akechi]]
@@ -300,7 +300,7 @@
 [s][bup 0 8 353 65535 0][f 4 10 65535 0 0][vp 8 0 0 115 65535 0]Mas se sim, por que Maruki[n]apenas...[n]"nos removeu" da existência?[n][f 1 3 65535][w][e]
 
 [sel SEL_078_0_0 top]
-[s]É assim que Maruki funciona.[e]
+[s]É assim que o Maruki age.[e]
 [s]Talvez ele queira nos salvar.[e]
 
 [msg MSG_079_0_0 [Akechi]]
@@ -312,13 +312,13 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 119 65535 0]Vamos começar[n]a infiltração amanhã, ok?[n][f 1 3 65535][w][e]
 
 [msg MSG_081_0_0 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 120 65535 0]E você? Você está em?[n][f 1 3 65535][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 120 65535 0]E você? Tá dentro?[n][f 1 3 65535][w][e]
 
 [msg MSG_082_0_0 [Akechi]]
-[s][bup 0 9 211 65535 0][f 4 10 65535 0 0][vp 8 0 0 121 65535 0]Você realmente está me perguntando também?[n][f 1 3 65535][w][e]
+[s][bup 0 9 211 65535 0][f 4 10 65535 0 0][vp 8 0 0 121 65535 0]Você realmente está me perguntando isso?[n][f 1 3 65535][w][e]
 
 [msg MSG_083_0_0 [Ryuji]]
-[s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 122 65535 0]Claro, o que! Os Phantom Thieves[n]não agem se o[n]voto não for unânime.[n][f 1 3 65535][w][e]
+[s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 122 65535 0]Claro, cara! Os Phantom Thieves[n]não agem se o[n]voto não for unânime.[n][f 1 3 65535][w][e]
 
 [msg MSG_084_0_0 [Akechi]]
 [s][bup 0 9 201 65535 0][f 4 10 65535 0 0][vp 8 0 0 123 65535 0]*suspiro* Tudo bem então.[n][f 1 3 65535][w][e]

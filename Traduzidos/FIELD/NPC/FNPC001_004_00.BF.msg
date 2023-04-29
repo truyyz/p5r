@@ -24,7 +24,7 @@
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Recebi uma mensagem sobre os[n]Phantom Thieves. É verdade?[n][w][e]
 
 [msg MSG_GARAKEIJYOSI_002_1_0 [Shujin garota na mão]]
-[s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]A carta de aviso, você diz?[n]Aparentemente, eles a postaram[n]no quadro de avisos da escola...[n][w][e]
+[s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]A Carta de Aviso, você diz?[n]Aparentemente, eles a postaram[n]no quadro de avisos da escola...[n][w][e]
 
 [msg MSG_GARAKEIJYOSI_002_2_0 [Estudante elegante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Você tirou uma foto?[n]Até o seu telefone pode[n]fazer isso, certo?[n][w][e]
@@ -33,7 +33,7 @@
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]É velho, a câmera não é[n]ótima... mas não me importo.[n]Eu só preciso ser capaz de enviar mensagens de texto.[n][w][e]
 
 [msg MSG_GARAKEIJYOSI_003_0_0 [Estudante elegante]]
-[s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Ouvi dizer que prenderam aquele seu professor[n]pervertido. Há uma foto da carta de aviso[n]online.[n][w][e]
+[s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Ouvi dizer que prenderam aquele seu professor[n]pervertido. Há uma foto da Carta de Aviso[n]online.[n][w][e]
 
 [msg MSG_GARAKEIJYOSI_003_1_0 [Shujin garota na mão]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Uh, eu não sabia que você[n]poderia encontrar certas coisas[n]na Internet.[n][w][e]
@@ -55,7 +55,7 @@
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Quem sabe? Ele é um estudioso de arte.[n]Dizem que ele é muito excêntrico.[n][w][e]
 
 [msg MSG_GARAKEIJYOSI_005_0_0 [Estudante elegante]]
-[s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Você sabia que eles postaram uma[n]carta de aviso para a exposição[n]quando fomos lá?[n][w][e]
+[s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Você sabia que eles postaram uma[n]Carta de Aviso para a exposição[n]quando fomos lá?[n][w][e]
 
 [msg MSG_GARAKEIJYOSI_005_1_0 [Shujin garota na mão]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Quê? Sério?!?[n][w][e]
@@ -85,14 +85,14 @@
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Mmm, eu diria que sim.[n]Akechi-san também mencionou isso na televisão.[n][w][e]
 
 [msg MSG_GARAKEIJYOSI_007_2_0 [Estudante elegante]]
-[s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Foi como[n]Kamoshida. Na minha opinião, a chave[n]é a carta de aviso.[n][w][e]
+[s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Foi como[n]Kamoshida. Na minha opinião, a chave[n]é a Carta de Aviso.[n][w][e]
 [s][vp 8 2 1 0 1 0]Você tem alguma ideia de quem[n]o colocou lá?[n][w][e]
 
 [msg MSG_GARAKEIJYOSI_007_3_0 [Shujin garota na mão]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]A identidade dos culpados ainda é desconhecida.[n]Eu me pergunto se é realmente alguém da minha[n]escola.[n][w][e]
 
 [msg MSG_GARAKEIJYOSI_008_0_0 [Estudante elegante]]
-[s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Ei, tem uma ótima notícia. Eles dizem[n]que Junya Kaneshiro recebeu[n]uma carta de aviso.[n][w][e]
+[s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Ei, tem uma ótima notícia. Eles dizem[n]que Junya Kaneshiro recebeu[n]uma Carta de Aviso.[n][w][e]
 
 [msg MSG_GARAKEIJYOSI_008_1_0 [Shujin garota na mão]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Quê?!? Os Phantom Thieves[n]estão de volta em ação?[n][w][e]
@@ -105,7 +105,7 @@
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Foram mesmo os[n]Phantom Thieves? A polícia[n]negou, não é?[n][w][e]
 
 [msg MSG_GARAKEIJYOSI_009_1_0 [Estudante elegante]]
-[s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Não confie na polícia.[n]Eles postaram a verdadeira[n]carta de aviso online![n][w][e]
+[s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Não confie na polícia.[n]Eles postaram a verdadeira[n]Carta de Aviso online![n][w][e]
 
 [msg MSG_GARAKEIJYOSI_009_2_0 [Shujin garota na mão]]
 [s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]Não importa quem fez isso, desde que ele nos[n]livre desses criminosos.[n][w][e]
@@ -144,7 +144,7 @@
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Entendi. Muita coisa aconteceu na sua escola este[n]ano.[n][w][e]
 
 [msg MSG_GARAKEIJYOSI_013_0_0 [Shujin garota na mão]]
-[s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]A carta de aviso era para o pai de[n]Okumura-senpai. Eu não[n]sabia. Deve ser difícil para ela.[n][w][e]
+[s][f 4 23 1 0 3 10 0 10][vp 8 2 1 0 0 0]A Carta de Aviso era para o pai de[n]Okumura-senpai. Eu não[n]sabia. Deve ser difícil para ela.[n][w][e]
 
 [msg MSG_GARAKEIJYOSI_013_1_0 [Estudante elegante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Você acabou de descobrir agora?[n]Está escrito em toda a internet.[n]Todo mundo está atacando ele online.[n][w][e]
@@ -165,7 +165,7 @@
 
 [msg MSG_GARAKEIJYOSI_015_1_0 [Estudante elegante]]
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Polícia de Shujin, hein...[n][w][e]
-[s][vp 8 2 1 0 1 0]Eles devem estar observando ela desde[n]a primeira carta de aviso apareceu.[n][w][e]
+[s][vp 8 2 1 0 1 0]Eles devem estar observando ela desde[n]a primeira Carta de Aviso apareceu.[n][w][e]
 [s][vp 8 2 1 0 1 0]Mas já é uma notícia datada na Internet... e os[n]Phantom Thieves assassinaram alguém.[n][w][e]
 
 [msg MSG_GARAKEIJYOSI_016_0_0 [Estudante elegante]]
@@ -572,7 +572,7 @@
 [s][vp 9 2 65535 46405 0 0]Eram todas falsificações?[n]Ele nos fez acreditar que[n]ele era um homem excepcional...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_006_05_ [Shiho]]
-[s][vp 9 2 65535 43004 0 0]Houve alguma novidade[n]desde o fato daquela[n]carta de aviso?[n][f 1 2 180][e]
+[s][vp 9 2 65535 43004 0 0]Houve alguma novidade[n]desde o fato daquela[n]Carta de Aviso?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_006_06_ [Shiho]]
 [s][vp 9 2 65535 43804 0 0]"Phantom Thieves"?[n]Por favor, pare de brincar...[n][f 1 2 180][e]
@@ -695,7 +695,7 @@
 [s][vp 9 2 65535 42204 0 0]Ouvi dizer que os Phantom Thieves[n]têm algo a ver com isso![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_02_ [Shiho]]
-[s][vp 9 2 65535 41256 0 0]Viu a notícia?[n]A carta de aviso era real![n][f 1 2 180][e]
+[s][vp 9 2 65535 41256 0 0]Viu a notícia?[n]A Carta de Aviso era real![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_03_ [Shiho]]
 [s][vp 9 2 65535 38204 0 0]Ouvi dizer que os Phantom Thieves[n]têm algo a ver com isso![n][f 1 2 180][e]
@@ -707,13 +707,13 @@
 [s][vp 9 2 65535 39754 0 0]Ouvi dizer que os Phantom Thieves[n]têm algo a ver com isso![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_06_ [Shiho]]
-[s][vp 9 2 65535 40454 0 0]Viu a notícia?[n]A carta de aviso era real![n][f 1 2 180][e]
+[s][vp 9 2 65535 40454 0 0]Viu a notícia?[n]A Carta de Aviso era real![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_07_ [Shiho]]
 [s][vp 9 2 65535 40354 0 0]Ouvi dizer que os Phantom Thieves[n]têm algo a ver com isso![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_08_ [Shiho]]
-[s][vp 9 2 65535 43454 0 0]Viu a notícia?[n]A carta de aviso era real![n][f 1 2 180][e]
+[s][vp 9 2 65535 43454 0 0]Viu a notícia?[n]A Carta de Aviso era real![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_011_01_ [Shiho]]
 [s][vp 9 2 65535 42206 0 0]O que esses[n]Phantom Thieves farão?[n][f 1 2 180][e]
@@ -890,13 +890,13 @@
 [s][vp 9 2 65535 39653 0 0]Os Phantom Thieves[n]vai mudar o mundo![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_015_13_ [Shiho]]
-[s][vp 9 2 65535 38150 0 0]Admito, gostaria de ser[n]tão incrível a ponto de[n]enviar uma carta de aviso![n][f 1 2 180][e]
+[s][vp 9 2 65535 38150 0 0]Admito, gostaria de ser[n]tão incrível a ponto de[n]enviar uma Carta de Aviso![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_015_14_ [Shiho]]
 [s][vp 9 2 65535 43306 0 0]Ultimamente na TV falamos[n]somente sobre os Phantom Thieves.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_015_07_ [Shiho]]
-[s][vp 9 2 65535 38150 0 0]Admito, gostaria de ser[n]tão incrível a ponto de[n]enviar uma carta de aviso![n][f 1 2 180][e]
+[s][vp 9 2 65535 38150 0 0]Admito, gostaria de ser[n]tão incrível a ponto de[n]enviar uma Carta de Aviso![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_015_08_ [Shiho]]
 [s][vp 9 2 65535 43306 0 0]Ultimamente na TV falamos[n]somente sobre os Phantom Thieves.[n][f 1 2 180][e]
@@ -1898,7 +1898,7 @@
 [s]Você está falando sério?!? Se eles querem que[n]lutemos contra o declínio da taxa de natalidade,[n]é melhor que nos recompensem.[n][w][e]
 
 [msg Quest17_target_sinjyo_01]
-[s]A carta de contestação foi[n]enviada. Vamos encerrar esta história...[n][w][e]
+[s]A Carta de Aviso foi[n]enviada. Vamos encerrar esta história...[n][w][e]
 
 [msg Quest17_target_02_00 [Hitoe Takeishi]]
 [s]Eu pensei sobre isso e vou criar essa criança. Eu[n]quero ser um pai responsável.[n][w][e]
@@ -1937,11 +1937,11 @@
 [s]Cadela! Por que você colocou[n]aquela carta estranha na minha bolsa?[n][w][e]
 
 [msg Quest18_target_00_01 [Hitoe Takeishi]]
-[s]Aquele? Eu não fiz isso![n]Isso não é uma[n]carta de aviso?[n][w][e]
+[s]Aquele? Eu não fiz isso![n]Isso não é uma[n]Carta de Aviso?[n][w][e]
 [s]Se mudei é por causa de uma[n]letra dessas. Espero que os[n]Phantom Thieves matem você![n][w][e]
 
 [msg Quest18_target_sinjyo_00]
-[s]Parece que a carta de aviso[n]chegou ao seu destino.[n][w][e]
+[s]Parece que a Carta de Aviso[n]chegou ao seu destino.[n][w][e]
 
 [msg Quest18_target_01_00 [Keisuke]]
 [s]Sinto muito, Hitoé.[n][w][e]

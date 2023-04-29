@@ -84,7 +84,7 @@
 [s][bup 0 6 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 31 65535 0]Mas é...[n][f 1 3 65535][w][e]
 
 [msg MSG_026_0_0 [Haru]]
-[s][bup 0 7 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 32 65535 0]Eu a ouvi dizer que encontraram[n]uma carta de contestação na[n]escritório do diretor.[n][f 1 3 65535][w][e]
+[s][bup 0 7 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 32 65535 0]Eu a ouvi dizer que encontraram[n]uma Carta de Aviso na[n]escritório do diretor.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 33 65535 0]Considerando que tinha acabado de[n]acontecer... Ele deve ter se referido[n]a Shujin.[n][f 1 3 65535][w][e]
 
 [msg MSG_027_0_0 [Ryuji]]

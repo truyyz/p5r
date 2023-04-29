@@ -12,7 +12,7 @@
 
 [msg MSG_003_3_0 [Sae]]
 [s][bup 0 105 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 28 65535 0]Ah, mas agora que penso nisso...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 29 65535 0]Recebi uma carta de aviso[n]dos Phantom Thieves...mas como[n]tudo tem sido tão confuso...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 29 65535 0]Recebi uma Carta de Aviso[n]dos Phantom Thieves...mas como[n]tudo tem sido tão confuso...[n][f 1 3 65535][w][e]
 
 [msg MSG_003_6_0 [Sae]]
 [s][bup 0 105 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 30 65535 0]Não... Eu poderia ter feito[n]algo errado?!?[n][f 1 3 65535][w][e]

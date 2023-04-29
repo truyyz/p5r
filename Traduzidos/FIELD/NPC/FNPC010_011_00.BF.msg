@@ -225,7 +225,7 @@
 [s][vp 9 2 65535 44250 0 0]Não nos mantenha na ponta dos pés! Se[n]você está falando sério sobre chutar[n]bandidos, faça isso agora![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_007_01_]
-[s][vp 9 2 65535 44953 0 0]Olé! Os Phantom Thieves[n]enviaram uma carta de aviso![n]Aquele CEO vai chorar como um bebê![n][f 1 2 180][e]
+[s][vp 9 2 65535 44953 0 0]Olé! Os Phantom Thieves[n]enviaram uma Carta de Aviso![n]Aquele CEO vai chorar como um bebê![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_007_02_]
 [s][vp 9 2 65535 42203 0 0]Ele é um CEO obscuro que pensa que[n]dinheiro pode resolver tudo![n]Conserte isso, Phantom Thieves![n][f 1 2 180][e]
@@ -234,10 +234,10 @@
 [s][vp 9 2 65535 39300 0 0]O presidente Okumura ainda não[n]anunciou uma[n]conferência de imprensa de desculpas?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_007_04_]
-[s][vp 9 2 65535 44150 0 0]Yay! Ouvi dizer que o presidente[n]Okumura recebeu uma carta[n]de desafio dos Phantom Thieves![n][f 1 2 180][e]
+[s][vp 9 2 65535 44150 0 0]Yay! Ouvi dizer que o presidente[n]Okumura recebeu uma Carta[n]de Aviso dos Phantom Thieves![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_007_05_]
-[s][vp 9 2 65535 41353 0 0]Recebeu uma carta de[n]desafio, hein? Mal posso esperar para[n]ver como ele evolui.[n][f 1 2 180][e]
+[s][vp 9 2 65535 41353 0 0]Recebeu uma Carta de[n]Aviso, hein? Mal posso esperar para[n]ver como ele evolui.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_007_06_]
 [s][vp 9 2 65535 38651 0 0]Aquele CEO de merda acha que[n]dinheiro resolve tudo![n][f 1 2 180][e]
@@ -552,7 +552,7 @@
 [s][vp 9 2 65535 39403 0 0]Você viu como Akechi estava furioso? Ele parecia[n]que estava prestes a explodir de raiva![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_016_02_]
-[s][vp 9 2 65535 40754 0 0]Veja aquela carta de aviso!?![n]Eu pensei que eles estavam[n]mortos![n][f 1 2 180][e]
+[s][vp 9 2 65535 40754 0 0]Veja aquela Carta de Aviso!?![n]Eu pensei que eles estavam[n]mortos![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_016_03_]
 [s][vp 9 2 65535 37704 0 0]Akechi-kun estava errado?[n][f 1 2 180][e]

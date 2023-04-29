@@ -12,7 +12,7 @@
 
 [msg MSG_004_0_0 [Ann]]
 [s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Dr. Maruki é um homem com[n]um desejo distorcido, mas...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Esse desejo é apenas um[n]omen de felicidade para todos[n]ós, ou estou errado?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Esse desejo é apenas um sonho de que todos nós sejamos[n]felizes, certo?[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Eu tenho que admitir, não é nada[n]como os desejos de escória[n]como Shido e Kamoshida.[n][f 1 3 65535][w][e]
@@ -114,8 +114,8 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 46 65535 0]No entanto, posso me comunicar[n]desta forma por um tempo limitado.[n]Vamos nos encontrar pessoalmente amanhã.[n][f 1 3 65535][w][e]
 
 [sel SEL_033_0_0 top]
-[s]Encontre-nos?[e]
-[s]Cadê?[e]
+[s]Encontrar?[e]
+[s]Onde?[e]
 
 [msg MSG_034_0_0 [Lavenza]]
 [s][bup 0 100 0 0 1][f 4 10 65535 0 0][vp 8 0 0 47 65535 0]Sim. Claro, seus[n]amigos também estão convidados.[n][f 1 3 65535][w][e]
@@ -129,7 +129,7 @@
 [s][bup 0 100 0 0 1][f 4 10 65535 0 0][vp 8 0 0 51 65535 0]Vamos nos encontrar na sua escola.[n][f 1 3 65535][w][e]
 
 [msg MSG_037_0_0 [Morgana]]
-[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 0 0 52 65535 0]Alla Shujin?[n][f 1 3 65535][w][e]
+[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 0 0 52 65535 0]Na Shujin?[n][f 1 3 65535][w][e]
 
 [msg MSG_038_0_0 [Ann]]
 [s][bup 0 4 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 53 65535 0]Espere, ele está vindo para a escola?[n]Ele realmente pode fazer isso?[n][f 1 3 65535][w][e]

@@ -102,7 +102,7 @@
 [s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 0 0 58 65535 0]Bem... Supostamente.[n][f 1 3 65535][w][e]
 
 [msg MSG_044_0_0 [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 55 65535 0]Bom, o Futaba é incrível![n]Vai nos ajudar muito, né?[n][f 1 3 65535][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 55 65535 0]Bom, a Futaba é incrível![n]Vai nos ajudar muito, né?[n][f 1 3 65535][w][e]
 
 [msg MSG_044_5_0 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 88 65535 0]Diga-nos, Futaba.[n][f 1 3 65535][w][e]

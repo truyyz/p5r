@@ -3,6 +3,8 @@ A tradução possui alguns padrões universais que precisam ser mantidos para a 
 Codinomes permanecem em inglês (Joker, Mona, Queen...)
 
 Trickster = Trapaceiro
+Calling Card = Carta de Aviso
+Will Seeds = Sementes da Vontade
 
 Arcanas
 The Fool = O Louco

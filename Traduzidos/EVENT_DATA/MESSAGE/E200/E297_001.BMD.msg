@@ -100,7 +100,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 34 65535 0]Então, está claro para todos[n]como devemos proceder?[n][f 1 3 65535][w][e]
 
 [msg MSG_032_0_0 [Ryuji]]
-[s][bup 0 2 100 0 0][f 4 10 65535 0 0][vp 8 0 0 35 65535 0]Ah, a propósito.[n]Me dê a carta de aviso.[n]Aquela que o Alibaba nos enviou.[n][f 1 3 65535][w][e]
+[s][bup 0 2 100 0 0][f 4 10 65535 0 0][vp 8 0 0 35 65535 0]Ah, a propósito.[n]Me dê a Carta de Aviso.[n]Aquela que o Alibaba nos enviou.[n][f 1 3 65535][w][e]
 
 [msg MSG_033_0_0 [Yusuke]]
 [s][bup 0 5 100 0 0][f 4 10 65535 0 0][vp 8 0 0 36 65535 0]O que você vai fazer conosco?[n][f 1 3 65535][w][e]

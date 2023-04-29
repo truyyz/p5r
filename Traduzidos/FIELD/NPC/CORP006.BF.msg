@@ -29,7 +29,7 @@
 
 [msg MSG_C06_BEGIN_D01_50_00 [Ann]]
 [s][bup 0 4 2 65535 0][f 4 23 1 226 14 10 13 10][f 4 23 1 206 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 6102 65535 0]Eu não vou deixá-lo escapar impune de todas as[n]coisas horríveis que ele fez com Shiho...[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Em breve enviaremos a[n]carta de aviso, certo?[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Em breve enviaremos a[n]Carta de Aviso, certo?[n][w][e]
 
 [sel SEL_C06_ACTION_D01_00_00 top]
 [s]Vamos fazer isso.[e]
@@ -168,7 +168,7 @@
 [s][bup 0 4 0 65535 0][f 4 23 1 226 14 10 13 10][f 4 23 1 206 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 6067 65535 0]E agora esperamos. A espera[n]está me matando...[n][w][e]
 
 [msg MSG_C06_BEGIN_D06_50_00 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 23 1 226 14 10 13 10][f 4 23 1 206 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 6028 65535 0]Agora só precisamos enviar a carta de aviso.[n]Até lá, não vamos ser notados.[n][w][e]
+[s][bup 0 4 0 65535 0][f 4 23 1 226 14 10 13 10][f 4 23 1 206 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 6028 65535 0]Agora só precisamos enviar a Carta de Aviso.[n]Até lá, não vamos ser notados.[n][w][e]
 
 [msg MSG_C06_BEGIN_D07_10_00 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 23 1 226 14 10 13 10][f 4 23 1 206 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 6048 65535 0]Não é a mesma coisa sem você![n]É estranho...[n][w][e]
@@ -216,7 +216,7 @@
 [s][bup 0 4 2 65535 0][f 4 23 1 226 14 10 13 10][f 4 23 1 206 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 6155 65535 0]As eleições são muito em breve.[n]Hoje entramos no Palácio, certo?[n][w][e]
 
 [msg MSG_C06_BEGIN_D07_50_00 [Ann]]
-[s][bup 0 4 2 65535 0][f 4 23 1 226 14 10 13 10][f 4 23 1 206 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 6102 65535 0]Temos que parar Shido...[n]Enviamos a carta de aviso[n]hoje, certo?[n][w][e]
+[s][bup 0 4 2 65535 0][f 4 23 1 226 14 10 13 10][f 4 23 1 206 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 6102 65535 0]Temos que parar Shido...[n]Enviamos a Carta de Aviso[n]hoje, certo?[n][w][e]
 
 [sel SEL_C06_ACTION_D07_99_00 top]
 [s]Vamos fazer isso.[e]
@@ -241,7 +241,7 @@
 [s][bup 0 4 0 65535 0][f 4 23 1 226 14 10 13 10][f 4 23 1 206 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 6067 65535 0]Fizemos tudo[n]que podíamos. Só temos que[n]esperar...[n][w][e]
 
 [msg MSG_C06_BEGIN_D10_50_00 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 23 1 226 14 10 13 10][f 4 23 1 206 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 6067 65535 0]Agora só precisamos enviar a carta de aviso.[n]Até lá, não vamos ser notados.[n][w][e]
+[s][bup 0 4 0 65535 0][f 4 23 1 226 14 10 13 10][f 4 23 1 206 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 6067 65535 0]Agora só precisamos enviar a Carta de Aviso.[n]Até lá, não vamos ser notados.[n][w][e]
 
 [msg MSG_C06_BEGIN_D10_00_00 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 23 1 226 14 10 13 10][f 4 23 1 206 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 6067 65535 0]Oh, [f 4 1]! Você quer alguma coisa?[n][w][e]

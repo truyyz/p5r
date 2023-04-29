@@ -278,7 +278,7 @@
 [s][bup 0 3 3 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1082 65535 0]O número de Sombras está[n]aumentando rapidamente! Devemos[n]sair! Em breve![n][w][e]
 
 [msg D_EXIT_NG_ACTIVE_01_PC02 [Ryuji]]
-[s][bup 0 2 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7041 65535 0]O que você diz, o que?!? Já[n]enviamos a carta de aviso![n][w][e]
+[s][bup 0 2 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7041 65535 0]O que você diz, o que?!? Já[n]enviamos a Carta de Aviso![n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Todo esse trabalho duro vai virar fumaça se não[n]roubarmos o Tesouro hoje![n][w][e]
 
 [msg D_EXIT_NG_ACTIVE_01_PC03 [Morgana]]
@@ -302,7 +302,7 @@
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9100 65535 0]Ei... Brincadeirinha.[n]Agora não há como voltar atrás.[n][w][e]
 
 [msg D_EXIT_NG_ACTIVE_01_PC08 [Haru]]
-[s][bup 0 7 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Achei que não poderíamos[n]voltar atrás depois da carta de aviso...[n][w][e]
+[s][bup 0 7 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Achei que não poderíamos[n]voltar atrás depois da Carta de Aviso...[n][w][e]
 [s][bup 0 7 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 3136 65535 0]Não se preocupe, Joker. Você tem[n]todo o nosso apoio![n][w][e]
 
 [msg D_EXIT_NG_ACTIVE_01_PC09 [Akechi]]
@@ -310,7 +310,7 @@
 [s][bup 0 9 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Hoje, porém, devemos tentar.[n]Vou lhe dar minha ajuda.[n][w][e]
 
 [msg D_EXIT_NG_ACTIVE_01_PC10 [[f 4 31 10 0]]]
-[s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 57118 65535 0]Eu pensei que você nunca poderia voltar depois de[n]enviar a carta de aviso, certo?[n][w][e]
+[s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 57118 65535 0]Eu pensei que você nunca poderia voltar depois de[n]enviar a Carta de Aviso, certo?[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos, Joker.[n]Vou dar tudo de mim também.[n][w][e]
 
 [msg D_EXIT_NG_ACTIVE_01_PC11 [Akechi]]
@@ -327,7 +327,7 @@
 [s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7103 65535 0]Ok, agora só temos que roubar[n]o tesouro que aparecerá,[n]não? Finalmente chegou a hora.[n][w][e]
 
 [msg D01_04_e166_015_mes02 [Ann]]
-[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Mas primeiro temos que enviar a[n]carta de aviso. Quando faremos isso?[n][w][e]
+[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Mas primeiro temos que enviar a[n]Carta de Aviso. Quando faremos isso?[n][w][e]
 
 [msg D01_04_e166_015_mes03 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos esperar. Vamos nos retirar por enquanto,[n]falaremos mais sobre isso[n]na reunião.[n][w][e]

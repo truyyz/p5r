@@ -63,7 +63,7 @@
 
 [msg MSG_014_0_0 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Eu ouvi tudo.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Assim como suspeitávamos, ele sabia[n]que precisava de uma[n]carta de aviso.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Assim como suspeitávamos, ele sabia[n]que precisava de uma[n]Carta de Aviso.[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Morgana]]
 [s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Não faço ideia de como será essa reunião[n][f 1 3 65535][w][e]

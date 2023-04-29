@@ -70,13 +70,13 @@
 [s][vp 9 2 65535 39455 0 0]"Phantom Thieves of Hearts"?[n]Quem diabos são eles?[n]Isso é algum tipo de piada?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_004_02_ [Aluno fofoqueiro]]
-[s][vp 9 2 65535 43804 0 0]O que é essa carta de aviso[n]de que todo mundo está falando?[n]Aconteceu alguma coisa?[n][f 1 2 180][e]
+[s][vp 9 2 65535 43804 0 0]O que é essa Carta de Aviso[n]de que todo mundo está falando?[n]Aconteceu alguma coisa?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_004_03_ [Aluno fofoqueiro]]
 [s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_004_04_ [Aluno fofoqueiro]]
-[s][vp 9 2 65535 40455 0 0]Uma carta de aviso dos[n]Phantom Thieves? O que eles estão fazendo?[n][f 1 2 180][e]
+[s][vp 9 2 65535 40455 0 0]Uma Carta de Aviso dos[n]Phantom Thieves? O que eles estão fazendo?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_005_01_ [Aluno fofoqueiro]]
 [s][vp 9 2 65535 40102 0 0]Ele deve ter pensado que logo[n]ele seria pego e que[n]confessar era a melhor coisa.[n][f 1 2 180][e]
@@ -163,10 +163,10 @@
 [s][vp 9 2 65535 42963 0 0]Parece que algumas das crianças[n]que foram enganadas[n]frequentam nossa escola...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_01_ [Aluno fofoqueiro]]
-[s][vp 9 2 65535 39404 0 0]Houve realmente uma[n]carta de aviso dos Phantom Thieves?[n][f 1 2 180][e]
+[s][vp 9 2 65535 39404 0 0]Houve realmente uma[n]Carta de Aviso dos Phantom Thieves?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_02_ [Aluno fofoqueiro]]
-[s][vp 9 2 65535 41404 0 0]Eles dizem que desta vez uma carta[n]de desafio apareceu em Shibuya...[n][f 1 2 180][e]
+[s][vp 9 2 65535 41404 0 0]Eles dizem que desta vez uma Carta[n]de Aviso apareceu em Shibuya...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_03_ [Aluno fofoqueiro]]
 [s]0[n][f 1 2 180][e]
@@ -304,13 +304,13 @@
 [s][vp 9 2 65535 43250 0 0]Continue punindo o mal[n]lá fora, Phantom Thieves![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_021_01_ [Aluno fofoqueiro]]
-[s][vp 9 2 65535 42653 0 0]Uma nova carta de aviso[n]apareceu! Que história![n][f 1 2 180][e]
+[s][vp 9 2 65535 42653 0 0]Uma nova Carta de Aviso[n]apareceu! Que história![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_021_02_ [Aluno fofoqueiro]]
 [s][vp 9 2 65535 44856 0 0]Esses adultos corruptos merecem[n]apenas ser eliminados[n]pelos Phantom Thieves![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_021_03_ [Aluno fofoqueiro]]
-[s][vp 9 2 65535 42106 0 0]É mais uma carta de aviso! Eu sabia[n]que seria endereçado[n]ao Presidente Okumura![n][f 1 2 180][e]
+[s][vp 9 2 65535 42106 0 0]É mais uma Carta de Aviso! Eu sabia[n]que seria endereçado[n]ao Presidente Okumura![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_021_04_ [Aluno fofoqueiro]]
 [s][vp 9 2 65535 41253 0 0]Eu sabia que eles[n]teriam como alvo o presidente Okumura![n][f 1 2 180][e]
@@ -699,7 +699,7 @@
 [s]E então esse é o professor das[n]vozes... Vamos discutir isso na reunião![n][w][e]
 
 [msg Quest39_target_01_00 [Sayuri Yoshioka]]
-[s]Uma carta de aviso…? É a mesma[n]piada que fizeram[n]no Prof. Kamoshida.[n][f 4 23 1 600 3 10 0 0][w][e]
+[s]Uma Carta de Aviso…? É a mesma[n]piada que fizeram[n]no Prof. Kamoshida.[n][f 4 23 1 600 3 10 0 0][w][e]
 [s]Bem, eu não sou como[n]ele. Não tenho nada a[n]esconder.[n][w][e]
 [s]Vamos, apresse-se e tire[n]essa papelada.[n]Não temos muito tempo![n][w][e]
 
@@ -707,7 +707,7 @@
 [s]Sim... Com licença.[n][f 4 23 1 601 3 10 0 0][w][e]
 
 [msg Quest39_target_sinjyo_01]
-[s]Parece que a carta de aviso[n]chegou com segurança. É hora de[n]mergulhar nos Mementos...[n][w][e]
+[s]Parece que a Carta de Aviso[n]chegou com segurança. É hora de[n]mergulhar nos Mementos...[n][w][e]
 
 [msg Quest39_target_02_00 [Professor jovem]]
 [s]Prof. Yoshioka... Terminei[n]preparando o pacote de informações[n]para a próxima mesa redonda.[n][f 4 23 1 601 3 10 0 0][w][e]

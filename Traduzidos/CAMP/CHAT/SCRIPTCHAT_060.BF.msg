@@ -45,7 +45,7 @@
 [s][f 5 14]Você sabe, em algumas coisas nós não estávamos[n]exatamente realizando...[n][w][e]
 
 [msg MSG_009_0_0 [Makoto]]
-[s][f 5 14]Mas agora, com o Futaba[n]nos ajudando, temos muitas[n]novas possibilidades.[n][w][e]
+[s][f 5 14]Mas agora, com a Futaba[n]nos ajudando, temos muitas[n]novas possibilidades.[n][w][e]
 
 [msg MSG_010_0_0 [Yusuke]]
 [s][f 5 14]Sim, uma grande adição à equipe[n]ganhou de uma maneira muito[n]inesperada.[n][w][e]

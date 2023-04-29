@@ -293,22 +293,22 @@
 [s]Inserção de Justine e Caroline[n]que aparece durante a batalha.[n][e]
 
 [msg MSG_097]
-[s]A carta de aviso que[n]os Phantom Thieves[n]enviaram para Kamoshida.[n][e]
+[s]A Carta de Aviso que[n]os Phantom Thieves[n]enviaram para Kamoshida.[n][e]
 
 [msg MSG_098]
-[s]A carta de aviso que[n]os Phantom Thieves enviaram[n]para Madarame.[n][e]
+[s]A Carta de Aviso que[n]os Phantom Thieves enviaram[n]para Madarame.[n][e]
 
 [msg MSG_099]
-[s]A carta de aviso que[n]os Phantom Thieves[n]enviaram para Kaneshiro.[n][e]
+[s]A Carta de Aviso que[n]os Phantom Thieves[n]enviaram para Kaneshiro.[n][e]
 
 [msg MSG_100]
-[s]A carta de aviso que[n]os Phantom Thieves[n]enviaram para Futaba.[n][e]
+[s]A Carta de Aviso que[n]os Phantom Thieves[n]enviaram para Futaba.[n][e]
 
 [msg MSG_101]
-[s]A carta de aviso que[n]os Phantom Thieves[n]enviaram para Okumura.[n][e]
+[s]A Carta de Aviso que[n]os Phantom Thieves[n]enviaram para Okumura.[n][e]
 
 [msg MSG_102]
-[s]A carta de aviso que[n]os Phantom Thieves[n]enviaram para Sae.[n][e]
+[s]A Carta de Aviso que[n]os Phantom Thieves[n]enviaram para Sae.[n][e]
 
 [msg MSG_103]
 [s][n]imagem de fundo do calendário com Tóquio durante[n]o dia.[n][e]
@@ -380,7 +380,7 @@
 [s]Lavenza[n]inserir que aparece durante a batalha.[n][e]
 
 [msg MSG_126]
-[s]A carta de aviso que[n]os Phantom Thieves[n]enviaram para Maruki.[n][e]
+[s]A Carta de Aviso que[n]os Phantom Thieves[n]enviaram para Maruki.[n][e]
 
 [msg MSG_127]
 [s]Modelo do uniforme de inverno de Sumire.[n][e]

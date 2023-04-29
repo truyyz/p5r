@@ -658,7 +658,7 @@
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1027 65535 0]Ir para casa...? Hum, você sabe que[n]corremos contra o tempo, certo?[n][w][e]
 
 [msg MSG_RETURNHOME_0430_MORG_2 [Morgana]]
-[s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 1 1176 65535 0]Espera, você vai para casa?[n]E a carta de aviso?!?[n][w][e]
+[s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 1 1176 65535 0]Espera, você vai para casa?[n]E a Carta de Aviso?!?[n][w][e]
 
 [msg MND_E10410100_NG_STATION]
 [s][vp 1 0 0 0 0 0]A estação está logo à frente. Eu tenho que ir[n]para [clr 2]casa de Sojiro[clr 27]...[n][w][e]

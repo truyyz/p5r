@@ -1,5 +1,5 @@
 [msg MSG_000_0_0 [Haru]]
-[s][f 5 14]Conseguimos.[n]Só temos que enviar[n]a carta de aviso.[n][w][e]
+[s][f 5 14]Conseguimos.[n]Só temos que enviar[n]a Carta de Aviso.[n][w][e]
 
 [msg MSG_001_0_0 [Ryuji]]
 [s][f 5 14]Aparentemente, também poderemos[n]enviá-lo antes que[n]a investigação comece.[n][w][e]
@@ -49,7 +49,7 @@
 [s][f 5 14]Temos apenas uma chance[n]de virar o jogo.[n][w][e]
 
 [msg MSG_016_0_0 [Yusuke]]
-[s][f 5 14]Esta última carta de aviso[n]será minha obra-prima.[n][w][e]
+[s][f 5 14]Esta última Carta de Aviso[n]será minha obra-prima.[n][w][e]
 
 [msg MSG_017_0_0 [Yusuke]]
 [s][f 5 14][f 5 15]Avise-nos quando[n]estiver pronto, [f 4 2].[n][w][e]

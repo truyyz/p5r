@@ -13,10 +13,10 @@
 [s][vp 1 0 0 15 0 0]...[n][f 1 3 65535][w][e]
 
 [msg MSG_000_7_0 [Makoto]]
-[s][bup 0 6 102 65535 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Nosso caminho de infiltração[n]é seguro. Precisamos voltar[n]e enviar a carta de aviso.[n][f 1 3 65535][w][e]
+[s][bup 0 6 102 65535 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Nosso caminho de infiltração[n]é seguro. Precisamos voltar[n]e enviar a Carta de Aviso.[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Akechi]]
-[s][bup 0 9 100 0 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]E assim que a carta[n]de desafio for enviada, o Tesouro de Sae-san[n]aparecerá, certo?[n][f 1 3 65535][w][e]
+[s][bup 0 9 100 0 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]E assim que a Carta[n]de Aviso for enviada, o Tesouro de Sae-san[n]aparecerá, certo?[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Concordo. Quando o alvo está[n]ciente do perigo, aquela[n]vaga coisa tomará forma definitiva.[n][f 1 3 65535][w][e]
@@ -38,5 +38,5 @@
 [s][bup 0 5 105 0 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Ou mesmo o que fez o desejo deles crescer[n]imensuravelmente.[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Refletir sobre isso não nos levará a lugar[n]nenhum. Vamos voltar e preparar a carta de[n]desafio.[n][f 1 3 65535][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Refletir sobre isso não nos levará a lugar[n]nenhum. Vamos voltar e preparar a Carta de[n]Aviso.[n][f 1 3 65535][w][e]
 

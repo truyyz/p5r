@@ -12,7 +12,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Vamos falar com Futaba.[n]Ele pode ter boas ideias.[n][w][e]
 
 [msg MSG_ODA_PRE_CORP_10 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]A falsa carta de aviso[n]está pronta.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]A falsa Carta de Aviso[n]está pronta.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Devemos pedir a Futaba[n]para prosseguir com o hack?[n][w][e]
 
 [sel SEL_ODA_PRE_CORP_11 top]
@@ -181,11 +181,11 @@
 [s]Vamos esperar mais um pouco...[n][w][e]
 
 [msg MSG_C16_COOP_08_00 [Shinya]]
-[s][bup 0 110 0 0 0][f 4 10 65535 0 0][f 4 23 1 216 3 10 0 10][vp 8 2 1 17019 65535 0]A carta de aviso...[n]dei para minha mãe.[n][w][e]
+[s][bup 0 110 0 0 0][f 4 10 65535 0 0][f 4 23 1 216 3 10 0 10][vp 8 2 1 17019 65535 0]A Carta de Aviso...[n]dei para minha mãe.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Posso confiar nos Phantom Thieves, não posso?[n][w][e]
 
 [msg MND_C16_COOP_08_01]
-[s]Shinya deu a sua mãe[n]a carta de aviso.[n][w][e]
+[s]Shinya deu a sua mãe[n]a Carta de Aviso.[n][w][e]
 [s]Vamos ao Mementos[n]e despertar seu coração...[n][w][e]
 
 [msg MSG_C16_COOP_08_02 [Shinya]]
@@ -217,7 +217,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]O que você quer fazer?[n]Você quer que Shinya[n]te ensine a atirar?[n][w][e]
 
 [msg MSG_COOP_CHECK_RANK7 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]O que você quer fazer?[n]Você quer dar a Shinya[n]a carta de aviso?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]O que você quer fazer?[n]Você quer dar a Shinya[n]a Carta de Aviso?[n][w][e]
 
 [msg MSG_COOP_CHECK_DAY_2 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Então, quais são suas intenções?[n]Você quer sair com Shinya?[n][w][e]

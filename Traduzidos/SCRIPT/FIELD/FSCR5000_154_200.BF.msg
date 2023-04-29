@@ -6,5 +6,5 @@
 
 [msg D03_BRIEFING_200_mes03 [Makoto]]
 [s][bup 0 6 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2197 65535 0]Como o Joker cuida disso, tenho certeza de que[n]não será um problema.[n][w][e]
-[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Joker, você decide quando[n]enviar a carta de aviso.[n][w][e]
+[s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Joker, você decide quando[n]enviar a Carta de Aviso.[n][w][e]
 

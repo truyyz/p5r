@@ -19,7 +19,7 @@
 
 [msg MSG_C02_BEGIN_D03_50_00 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 23 1 202 3 10 0 10][vp 8 2 1 2019 65535 0][f 4 10 65535 0 0]O caminho para o Tesouro é[n]claro. Agora nós apenas[n]roubamos.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Então, que tal enviar a carta de aviso hoje?[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Então, que tal enviar a Carta de Aviso hoje?[n][w][e]
 
 [sel SEL_C02_ACTION_D03_00_00 top]
 [s]É claro.[e]
@@ -55,7 +55,7 @@
 
 [msg MSG_C02_ACTION_D03_51_00 [Makoto]]
 [s][bup 0 6 2 65535 0][f 4 23 1 202 3 10 0 10][vp 8 2 1 2037 65535 0][f 4 10 65535 0 0]Eu quero dar a Kaneshiro[n]o que ele merece...[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Antes de enviar a[n]carta de aviso, te vejo na reunião, certo?[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Antes de enviar a[n]Carta de Aviso, te vejo na reunião, certo?[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu olho para a frente.[n][w][e]
 
 [msg MSG_C02_BEGIN_D03_60_00 [Makoto]]
@@ -107,7 +107,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]É isso que faremos hoje?[n][w][e]
 
 [msg MSG_C02_BEGIN_D00_50_00 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 23 1 202 3 10 0 10][vp 8 2 1 2019 65535 0][f 4 10 65535 0 0]Temos um caminho de infiltração[n]e podemos enviar a carta de[n]desafio. Vejo você na reunião?[n][w][e]
+[s][bup 0 6 0 65535 0][f 4 23 1 202 3 10 0 10][vp 8 2 1 2019 65535 0][f 4 10 65535 0 0]Temos um caminho de infiltração[n]e podemos enviar a Carta de[n]Aviso. Vejo você na reunião?[n][w][e]
 
 [sel SEL_C02_ACTION_D00_99_00 top]
 [s]Vamos.[e]
@@ -125,14 +125,14 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Avise-nos quando quiser[n]a próxima reunião.[n][w][e]
 
 [msg MSG_C02_ACTION_D00_51_00 [Makoto]]
-[s][bup 0 6 2 65535 0][f 4 23 1 202 3 10 0 10][vp 8 2 1 2037 65535 0][f 4 10 65535 0 0]Temos nosso próprio caminho[n]de infiltração: quanto mais cedo enviarmos[n]a carta de aviso, melhor.[n][w][e]
+[s][bup 0 6 2 65535 0][f 4 23 1 202 3 10 0 10][vp 8 2 1 2037 65535 0][f 4 10 65535 0 0]Temos nosso próprio caminho[n]de infiltração: quanto mais cedo enviarmos[n]a Carta de Aviso, melhor.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Avise-nos quando estiver pronto.[n][w][e]
 
 [msg MSG_C02_BEGIN_D00_60_00 [Makoto]]
 [s][bup 0 6 3 65535 0][f 4 23 1 202 3 10 0 10][vp 8 2 1 2199 65535 0][f 4 10 65535 0 0]Só temos que esperar...[n][w][e]
 
 [msg MSG_C02_BEGIN_D06_50_00 [Makoto]]
-[s][bup 0 6 3 65535 0][f 4 23 1 202 3 10 0 10][vp 8 2 1 2199 65535 0][f 4 10 65535 0 0]Tudo o que temos a fazer é[n]enviar a carta de aviso. Primeiro,[n]no entanto, gostaria de discutir uma coisa.[n][w][e]
+[s][bup 0 6 3 65535 0][f 4 23 1 202 3 10 0 10][vp 8 2 1 2199 65535 0][f 4 10 65535 0 0]Tudo o que temos a fazer é[n]enviar a Carta de Aviso. Primeiro,[n]no entanto, gostaria de discutir uma coisa.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Você pode convocar uma[n]reunião no esconderijo?[n][w][e]
 
 [sel SEL_C02_ACTION_D06_50_00 top]
@@ -197,7 +197,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Isso significa que vamos entrar hoje, certo?[n][w][e]
 
 [msg MSG_C02_BEGIN_D07_50_00 [Makoto]]
-[s][bup 0 6 2 65535 0][f 4 23 1 202 3 10 0 10][vp 8 2 1 2165 65535 0][f 4 10 65535 0 0]Temos um caminho de infiltração[n]e podemos enviar a carta de[n]desafio. Vamos nos encontrar na reunião?[n][w][e]
+[s][bup 0 6 2 65535 0][f 4 23 1 202 3 10 0 10][vp 8 2 1 2165 65535 0][f 4 10 65535 0 0]Temos um caminho de infiltração[n]e podemos enviar a Carta de[n]Aviso. Vamos nos encontrar na reunião?[n][w][e]
 
 [sel SEL_C02_ACTION_D07_99_00 top]
 [s]Vamos.[e]
@@ -215,7 +215,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Avise-nos quando quiser[n]a próxima reunião.[n][w][e]
 
 [msg MSG_C02_ACTION_D07_51_00 [Makoto]]
-[s][bup 0 6 2 65535 0][f 4 23 1 202 3 10 0 10][vp 8 2 1 2037 65535 0][f 4 10 65535 0 0]Temos nosso próprio caminho[n]de infiltração: quanto mais cedo enviarmos[n]a carta de aviso, melhor.[n][w][e]
+[s][bup 0 6 2 65535 0][f 4 23 1 202 3 10 0 10][vp 8 2 1 2037 65535 0][f 4 10 65535 0 0]Temos nosso próprio caminho[n]de infiltração: quanto mais cedo enviarmos[n]a Carta de Aviso, melhor.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Avise-nos quando estiver pronto.[n][w][e]
 
 [msg MSG_C02_BEGIN_D07_60_00 [Makoto]]

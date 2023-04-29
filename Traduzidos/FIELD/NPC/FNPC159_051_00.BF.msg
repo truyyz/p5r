@@ -223,7 +223,7 @@
 [s][bup 0 6 2 65535 0][f 4 10 65535 0 0][vp 8 2 1 2158 65535 0]Achei que Akechi não iria[n]ajudar-nos... Temos que cumprir[n]nossa parte do acordo![n][w][e]
 
 [msg SAFE_MES_makoto13 [Makoto]]
-[s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 2156 65535 0]O que devemos fazer com a carta de aviso[n]desta vez? A Oracle disse que teve uma ideia.[n][w][e]
+[s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 2156 65535 0]O que devemos fazer com a Carta de Aviso[n]desta vez? A Oracle disse que teve uma ideia.[n][w][e]
 
 [msg SAFE_MES_haru1 [Haru]]
 [s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 3019 65535 0]Você se lembra das informações sobre os cinco[n]VIPs? Tente verificá-los novamente para evitar[n]erros.[n][w][e]
@@ -262,7 +262,7 @@
 [s][bup 0 7 2 65535 0][f 4 10 65535 0 0][vp 8 2 1 3190 65535 0]Akechi-kun confiou em nós para[n]despertar o coração de Shido...[n]Não podemos falhar.[n][w][e]
 
 [msg SAFE_MES_haru13 [Haru]]
-[s][bup 0 7 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 3197 65535 0]Uma carta de aviso eficaz que[n]chegue a Shido? E como poderíamos…[n][w][e]
+[s][bup 0 7 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 3197 65535 0]Uma Carta de Aviso eficaz que[n]chegue a Shido? E como poderíamos…[n][w][e]
 
 [msg SAFE_MES_hutaba1 [Futaba]]
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 9024 65535 0]Falar com todas aquelas pessoas me cansou[n]... Eu usei[n]todas as minhas habilidades de comunicação.[n][w][e]
@@ -311,5 +311,5 @@
 [s][bup 0 8 5 65535 0][f 4 10 65535 0 0][vp 8 2 1 9199 65535 0]Nunca vou perdoá-lo pelo que ele fez à minha[n]mãe... mas ainda assim agradeço a Akechi por nos[n]ajudar.[n][w][e]
 
 [msg SAFE_MES_hutaba13 [Futaba]]
-[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 9177 65535 0]Deixe-me uma carta de aviso![n]Vou fazer uma super legal![n][w][e]
+[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 9177 65535 0]Deixe-me uma Carta de Aviso![n]Vou fazer uma super legal![n][w][e]
 

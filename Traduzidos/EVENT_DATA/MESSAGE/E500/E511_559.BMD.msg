@@ -34,12 +34,12 @@
 [s][bup 0 7 103 0 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Você está certo, o Dr. Maruki[n]permaneceu aqui no Palácio por[n]todo o tempo, certo?[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Akechi]]
-[s][bup 0 9 810 0 0][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Certamente Maruki está bem ciente de que os[n]Phantom Thieves enviaram a carta de[n]desafio um dia antes do roubo.[n][f 1 3 65535][w][e]
+[s][bup 0 9 810 0 0][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Certamente Maruki está bem ciente de que os[n]Phantom Thieves enviaram a Carta de[n]Aviso um dia antes do roubo.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Considerando suas ações até agora,[n]suspeito que ele tentará intervir[n]de alguma forma naquele dia...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Eu tinha que apostar, diria que[n]ele vai atrás do Joker.[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Yusuke]]
-[s][bup 0 5 100 0 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Certo. Nesse caso, deixarei a[n]carta de aviso em suas mãos,[n]Joker.[n][f 1 3 65535][w][e]
+[s][bup 0 5 100 0 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Certo. Nesse caso, deixarei a[n]Carta de Aviso em suas mãos,[n]Joker.[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Akechi]]
 [s][bup 0 9 811 0 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Poderíamos simplesmente emboscá-lo e destruí-lo[n]assim que ele cair em nossa armadilha.[n][f 1 3 65535][w][e]

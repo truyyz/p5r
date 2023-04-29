@@ -152,7 +152,7 @@
 [s][vp 8 0 0 59 19 0]A assembléia da manhã acabou![n]Voltem para suas salas de aula imediatamente![n][f 1 3 65535][w][e]
 
 [msg MSG_045_0_0 [Estudante preocupado]]
-[s][vp 8 0 0 60 17 0]Não é exatamente o que estava escrito[n]naquela carta de aviso...?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 60 17 0]Não é exatamente o que estava escrito[n]naquela Carta de Aviso...?[n][f 1 3 65535][w][e]
 
 [msg MSG_046_0_0 [Estudante em roupas casuais]]
 [s][vp 8 0 0 61 18 0]Então esses Phantom Thieves[n]realmente existem!?![n][f 1 3 65535][w][e]

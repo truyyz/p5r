@@ -1567,7 +1567,7 @@
 [s]Ah, então este é o meu destino.[n]Obrigado por me mostrar o caminho.[n]Eu gostaria que você tivesse isso.[n][w][e]
 
 [msg TalkMsg_CONTACT_11]
-[s]Fuja enquanto pode![n]Ahahaha! É inútil se opor a[n]a King Kamoshida![n][w][e]
+[s]Fuja enquanto pode![n]Ahahaha! É inútil se opor a[n]a Rei Kamoshida![n][w][e]
 
 [msg TalkMsg_CONTACT_12]
 [s]Fuja enquanto pode![n]Ahahaha! É inútil se opor ao[n]Lord Madarame![n][w][e]

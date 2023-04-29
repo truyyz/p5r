@@ -21,7 +21,7 @@
 [s][f 5 14]そっち情報なんか見っかったか?[n][w][e]
 
 [msg HELP_MEMENTOS_MISSION_04 [Missão disponível!]]
-[s][clr 4]Informações de lembrança recebidas[clr 27][n]Agora você pode enviar uma carta de aviso[n]do [clr 2]Haunt[clr 27]. Às vezes, você obterá[n]informações de seus [clr 3]colegas[clr 27] dessa maneira.[n][w][e]
+[s][clr 4]Informações de lembrança recebidas[clr 27][n]Agora você pode enviar uma Carta de Aviso[n]do [clr 2]Haunt[clr 27]. Às vezes, você obterá[n]informações de seus [clr 3]colegas[clr 27] dessa maneira.[n][w][e]
 
 [msg MSG_SPOT_AFTERNOON_ERROR]
 [s]Por enquanto, devo ir para as catracas...[n][w][e]

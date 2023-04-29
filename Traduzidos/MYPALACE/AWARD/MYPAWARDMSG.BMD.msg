@@ -5,7 +5,7 @@
 [s]Completou [var 1]% de[n]Registro do Prisioneiro.[n][e]
 
 [msg MSG_002]
-[s]Aprimorou um dos Personas [n]protagonistas para o Nível [var 1].[n][e]
+[s]Aprimorou uma das Personas [n]protagonistas para o Nível [var 1].[n][e]
 
 [msg MSG_003]
 [s]Aumentou as estatísticas[n]de uma das Personas[n]do protagonista para o nível 99.[n][e]

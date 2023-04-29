@@ -1,5 +1,5 @@
 [msg MSG_000_0_0 [Ann]]
-[s][f 5 14]Só precisamos enviar[n]a carta de aviso para Madarame.[n][w][e]
+[s][f 5 14]Só precisamos enviar[n]a Carta de Aviso para Madarame.[n][w][e]
 
 [msg MSG_001_0_0 [Ryuji]]
 [s][f 5 14]Finalmente, bom tempo![n][w][e]

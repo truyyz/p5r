@@ -16,7 +16,7 @@
 
 [msg MSG_003_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1028 65535 0]Hã. Você pensaria que ela seria um pouco[n]mais honesta consigo mesma.[n][f 1 3 65535][w][e]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Mas se você pensar bem... nós nunca teríamos[n]resolvido sem o Futaba.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Mas se você pensar bem... nós nunca teríamos[n]resolvido sem a Futaba.[n][f 1 3 65535][w][e]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Se tivéssemos considerado um falso[n]alarme, quem sabe o quanto[n]suas vidas teriam piorado?[n][f 1 3 65535][w][e]
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 2 1 1166 65535 0]Futaba respondeu ao pedido de ajuda. Ela[n]teve a gentileza de lutar por eles.[n]Então salvamos aquela família.[n][f 1 3 65535][w][e]
 

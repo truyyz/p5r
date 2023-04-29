@@ -17,7 +17,7 @@
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 0 65535 0]Vamos falar com ela.[n][w][e]
 
 [msg MSG_015_0_0 [Sombra de Shimizu]]
-[s][vp 8 2 1 48011 65535 0]Então foram vocês, porcos, que[n]escreveram aquela carta de aviso?[n]O que eu fiz para merecer isso, hum?[n][w][e]
+[s][vp 8 2 1 48011 65535 0]Então foram vocês, porcos, que[n]escreveram aquela Carta de Aviso?[n]O que eu fiz para merecer isso, hum?[n][w][e]
 
 [msg MSG_016_0_0 [Ryuji]]
 [s][bup 0 2 11 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 0 7044 65535 0]Você escravizou uma[n]pessoa! Aqui está o que você[n]fez.[n][w][e]

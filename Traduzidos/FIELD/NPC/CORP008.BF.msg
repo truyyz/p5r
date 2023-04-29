@@ -11,7 +11,7 @@
 [s][bup 0 9 10 65535 0][f 4 10 65535 0 0][vp 8 2 1 8002 65535 0][f 4 23 1 208 3 10 0 10]Ei, [f 4 2].[n][w][e]
 
 [msg MSG_C08_BEGIN_D06_50_00 [Akechi]]
-[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Agora só precisamos enviar a[n]carta de aviso. O que é agora?[n][w][e]
+[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Agora só precisamos enviar a[n]Carta de Aviso. O que é agora?[n][w][e]
 
 [sel SEL_C08_ACTION_D06_50_00 top]
 [s]Vejo você na reunião.[e]

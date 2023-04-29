@@ -14,7 +14,7 @@
 [s][f 5 14]Espere, como sabemos[n]que fomos incriminados?[n][w][e]
 
 [msg MSG_005_0_0 [Makoto]]
-[s][f 5 14]Eles encontraram uma carta de contestação[n]no escritório do Diretor Kobayakawa.[n][w][e]
+[s][f 5 14]Eles encontraram uma Carta de Aviso[n]no escritório do Diretor Kobayakawa.[n][w][e]
 
 [msg MSG_006_0_0 [Ann]]
 [s][f 5 14]É claro que alguém[n]deve ter colocado lá de propósito.[n][w][e]
