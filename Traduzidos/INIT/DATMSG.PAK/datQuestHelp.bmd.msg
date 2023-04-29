@@ -443,7 +443,7 @@
 [s]Eu tenho que fazer o tio de[n]Futaba parar de ameaçar[n]Leblanc. Conversamos com Futaba e encontramos uma solução.[n][w][e]
 
 [msg quest60_3]
-[s]Eu fui capaz de despertar o coração do tio de[n]futaba pelo bem de[n]Sojiro.[n][w][e]
+[s]Eu fui capaz de despertar o coração do tio da[n]Futaba pelo bem de[n]Sojiro.[n][w][e]
 
 [msg quest70_0]
 [s]秘宝NPC解禁クエ の概要[n]何が起きてる?[n][w][e]

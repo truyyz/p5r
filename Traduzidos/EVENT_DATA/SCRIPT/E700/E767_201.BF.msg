@@ -689,9 +689,9 @@
 [s]Yusuke[e]
 [s]Makoto[e]
 [s]Haru[e]
-[s]futaba[e]
+[s]Futaba[e]
 [s]Akechi[e]
-[s]sumire[e]
+[s]Sumire[e]
 
 [msg SYS_LvUp_HpUp]
 [s][clr 2]Max HP[clr 27] em [clr 1][var 1][clr 27][n]aumentado em [clr 2][var 2][clr 27].[n][w][e]

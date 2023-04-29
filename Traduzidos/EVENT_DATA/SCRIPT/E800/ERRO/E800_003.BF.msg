@@ -417,7 +417,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ok, aceito de bom grado. Obrigado.[n][f 1 3 65535][w][e]
 
 [msg MND_GIFT_009_011]
-[s][vp 8 0 0 0 65535 0]Parece que esse[n]presente não impressionou muito[n]futaba...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Parece que esse[n]presente não impressionou muito[n]Futaba...[n][f 1 3 65535][w][e]
 
 [msg MND_GIFT_009_012 [Futaba]]
 [s][bup 0 8 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 9105 65535 0][f 4 24 0 4 0 36 5 100]OH...MEU...DEUS![n]D-O-Onde você achou isso, [f 4 2]?[n][f 1 3 65535][w][e]
