@@ -1,5 +1,5 @@
 [msg MSG_000_0_0 [Aluno fofoqueiro]]
-[s][vp 8 0 0 1 9 0]Uma carta de aviso?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 1 9 0]Uma Carta de Aviso?[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Estudante entusiasta]]
 [s][vp 8 0 0 2 8 0]Ouvi dizer que já estavam aqui quando todos[n]chegaram aqui esta manhã.[n][f 1 3 65535][w][e]
@@ -83,13 +83,13 @@
 
 [msg MSG_030_5_0 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 33 65535 0]Não "hoje".[n]APENAS hoje.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 34 65535 0]As repercussões de uma carta[n]de desafio não duram muito[n]e não podem ser repetidas.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 34 65535 0]As repercussões de uma Carta[n]de Aviso não duram muito[n]e não podem ser repetidas.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 35 65535 0]Esta será nossa única[n]chance de roubar o Tesouro.[n][f 1 3 65535][w][e]
 
 [msg MSG_031_0_0 [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 36 65535 0]Um dia nos basta![n][f 1 3 65535][w][e]
 
 [msg SYS_032_0_0]
-[s][vp 8 0 0 0 65535 0]A carta de aviso foi[n]entregue ao alvo.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]A Carta de Aviso foi[n]entregue ao alvo.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Agora você pode entrar no Palácio[n]e roubar o Tesouro.[n][f 1 3 65535][w][e]
 

@@ -152,7 +152,7 @@
 [s]Akechi revela sua verdadeira natureza[n]e ataca os Phantom Thieves.[n][e]
 
 [msg MSG_050]
-[s]Os Phantom Thieves realizam um golpe perfeito e[n]entregam uma carta de aviso a Shido.[n][e]
+[s]Os Phantom Thieves realizam um golpe perfeito e[n]entregam uma Carta de Aviso a Shido.[n][e]
 
 [msg MSG_051]
 [s]A batalha entre Shido e os[n]Phantom Thieves está prestes a começar...[n][e]

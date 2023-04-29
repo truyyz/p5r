@@ -14,7 +14,7 @@
 [s][f 5 14]Não diga isso para mim![n][w][e]
 
 [msg MSG_005_0_0 [Ryuji]]
-[s][f 5 14]Em qualquer caso! Hangout depois da[n]escola?[n][w][e]
+[s][f 5 14]Em qualquer caso! Esconderijo depois da[n]escola?[n][w][e]
 
 [msg MSG_006_0_0 [Ann]]
 [s][f 5 14]E onde seria esse ponto de encontro?[n][w][e]

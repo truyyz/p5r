@@ -14,7 +14,7 @@
 [s][f 5 14]É o logotipo dos Phantom Thieves[n]que Yusuke fez.[n][w][e]
 
 [msg MSG_005_0_0 [Ryuji]]
-[s][f 5 14]E ele fez um trabalho esplêndido[n]com a carta de aviso também.[n][w][e]
+[s][f 5 14]E ele fez um trabalho esplêndido[n]com a Carta de Aviso também.[n][w][e]
 
 [msg MSG_006_0_0 [Ryuji]]
 [s][f 5 14]De qualquer forma, este é o primeiro[n]trabalho dos Phantom Thieves. Não vamos[n]estragar tudo![n][w][e]

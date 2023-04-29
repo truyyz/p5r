@@ -84,7 +84,7 @@
 
 [msg MSG_022_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Tudo bem, fique quieto. Os exames[n]começam na próxima quarta-feira.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Uma carta de aviso? Os[n]Phantom Thieves que roubam corações? Você[n]só gosta de fofoca.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Uma Carta de Aviso? Os[n]Phantom Thieves que roubam corações? Você[n]só gosta de fofoca.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Também tivemos coisas semelhantes quando eu era[n]jovem. Hanako-san, também conhecido como[n]Manto...Mestre Joker...[n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Prof Kawakami]]

@@ -76,7 +76,7 @@
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 30 65535 0]É melhor você aproveitar seus últimos[n]momentos de liberdade enquanto pode,[n]velho peido.[n][f 1 3 65535][w][e]
 
 [msg MSG_030_0_0 [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 31 65535 0]A propósito, você[n]olhou online? As pessoas[n]já falam sobre a carta de aviso.[n][f 1 3 65535][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 31 65535 0]A propósito, você[n]olhou online? As pessoas[n]já falam sobre a Carta de Aviso.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 32 65535 0]Vamos mostrar a eles...[n]Vamos surpreender a todos![n][f 1 3 65535][w][e]
 
 [msg MSG_031_0_0 [Morgana]]

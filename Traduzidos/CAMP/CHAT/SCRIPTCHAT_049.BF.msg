@@ -2,7 +2,7 @@
 [s][f 5 14]Finalmente conseguimos[n]entrar na sala de aula.[n][w][e]
 
 [msg MSG_001_0_0 [Ann]]
-[s][f 5 14]Isso também significa que[n]podemos enviar a carta de aviso.[n]Quando fazemos isso?[n][w][e]
+[s][f 5 14]Isso também significa que[n]podemos enviar a Carta de Aviso.[n]Quando fazemos isso?[n][w][e]
 
 [msg MSG_002_0_0 [Yusuke]]
 [s][f 5 14]Também temos que pensar[n]sobre como enviá-lo.[n][w][e]

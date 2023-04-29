@@ -5,7 +5,7 @@
 [s][f 5 14]Logo depois temos que ir[n]encontrar o Tesouro[n]o mais rápido possível.[n][w][e]
 
 [msg MSG_002_0_0 [Ryuji]]
-[s][f 5 14]Faremos greve em três dias, já que[n]temos que enviar a carta[n]de contestação depois de amanhã, certo?[n][w][e]
+[s][f 5 14]Faremos greve em três dias, já que[n]temos que enviar a Carta[n]de Aviso depois de amanhã, certo?[n][w][e]
 
 [msg MSG_003_0_0 [Haru]]
 [s][f 5 14]Hã?[n][w][e]

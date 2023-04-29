@@ -102,7 +102,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 43 65535 0]Normalmente você nunca consegue[n]coisas assim.[n][f 1 3 65535][w][e]
 
 [msg MSG_030_0_0 [Morgana]]
-[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 0 0 44 65535 0]Uma carta de aviso?[n][f 1 3 65535][w][e]
+[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 0 0 44 65535 0]Uma Carta de Aviso?[n][f 1 3 65535][w][e]
 
 [msg MSG_031_0_0 [Ann]]
 [s][bup 0 4 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 45 65535 0]E não tem mais nada?!?[n][f 1 3 65535][w][e]

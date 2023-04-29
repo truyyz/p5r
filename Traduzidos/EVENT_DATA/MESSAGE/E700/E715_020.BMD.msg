@@ -1,6 +1,6 @@
 [msg MSG_000_0_0 [Ohya]]
 [s][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 16091 65535 0]Entendo... um quadro de avisos, né...?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Então a carta de aviso[n]usada para Kamoshida foi diferente...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Então a Carta de Aviso[n]usada para Kamoshida foi diferente...[n][f 1 3 65535][w][e]
 [s][bup 0 107 1 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 42 4 100][f 4 24 0 4 0 9 4 100][f 4 24 0 4 0 0 4 0][vp 8 0 0 0 65535 0]Isso sim é novidade![n]Normalmente, essa informação[n]não é divulgada.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][f 4 24 0 4 0 41 3 100][f 4 24 0 4 0 9 3 100][vp 8 0 0 0 65535 0]...Você tem alguma foto ou vídeo?[n][f 1 3 65535][w][e]
 

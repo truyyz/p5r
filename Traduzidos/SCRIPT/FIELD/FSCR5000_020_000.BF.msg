@@ -62,7 +62,7 @@
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 9086 65535 0]É ultrassecreto![n][w][e]
 
 [msg GOTO_MEME_NG_1118_01 [Akechi]]
-[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 8112 65535 0]Agora não há tempo para essas[n]coisas. Vamos enviar a carta de aviso[n]para Sae-san.[n][w][e]
+[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 8112 65535 0]Agora não há tempo para essas[n]coisas. Vamos enviar a Carta de Aviso[n]para Sae-san.[n][w][e]
 
 [msg GOTO_MEME_NO_TARGET_mes0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0]O alvo não está aqui.[n]Vamos continuar explorando.[n][w][e]

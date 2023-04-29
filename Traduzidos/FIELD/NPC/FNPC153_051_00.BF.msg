@@ -25,7 +25,7 @@
 [s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 2 1 7025 65535 0]Como você encontrou as diferenças nessas fotos?[n]Todos me parecem iguais...[n][w][e]
 
 [msg SAFE_MES_ryuzi9 [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 7019 65535 0]Sim! Agora é só enviar a carta de aviso! Vamos[n]fazer isso para o bem de todos, especialmente da[n]Fox![n][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 7019 65535 0]Sim! Agora é só enviar a Carta de Aviso! Vamos[n]fazer isso para o bem de todos, especialmente da[n]Fox![n][w][e]
 
 [msg SAFE_MES_mona1 [Morgana]]
 [s][bup 0 3 7 65535 0][f 4 10 65535 0 0][vp 8 2 1 1176 65535 0]Parece haver alguns sensores infravermelhos.[n]Acho que um museu TINHA que ter[n]uma segurança muito forte.[n][w][e]

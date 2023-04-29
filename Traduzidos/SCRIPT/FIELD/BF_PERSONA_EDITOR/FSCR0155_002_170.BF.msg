@@ -8,7 +8,7 @@
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ele o chama de "quarto do faraó"...[n][w][e]
 
 [msg MSG_e296_359_AF_002 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos, temos que correr até o quarto de Futaba. Nós vamos[n]lhe dar a carta de aviso![n][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos, temos que correr até o quarto de Futaba. Nós vamos[n]lhe dar a Carta de Aviso![n][w][e]
 
 [msg MSG_e296_359_AF_003 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Certo. Por enquanto, vamos deixar o[n]Palácio. O Joker decidirá[n]quando ir para seu quarto.[n][w][e]
@@ -20,7 +20,7 @@
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]No entanto, por enquanto[n]vamos recuar. Você poderá escolher[n]quando prosseguir, Joker.[n][w][e]
 
 [msg D04_ex_e297_025_mes01 [Ann]]
-[s][bup 0 4 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6155 65535 0]Espero que você leia[n]a carta de aviso.[n][w][e]
+[s][bup 0 4 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6155 65535 0]Espero que você leia[n]a Carta de Aviso.[n][w][e]
 
 [msg D04_ex_e297_025_mes02 [Ryuji]]
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos lá, depois de tudo que passamos, ele deve[n]ter lido![n][w][e]

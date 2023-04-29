@@ -453,7 +453,7 @@
 [s][vp 9 2 65535 44255 0 0]Phantom Thieves, hein...?[n]Você acredita que eles realmente existem?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_05_]
-[s][vp 9 2 65535 40304 0 0]Seria interessante se essa[n]carta de aviso fosse verdadeira...[n][f 1 2 180][e]
+[s][vp 9 2 65535 40304 0 0]Seria interessante se essa[n]Carta de Aviso fosse verdadeira...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_06_]
 [s][vp 9 2 65535 38455 0 0]É impossível que Phantom[n]Thievess realmente existam![n][f 1 2 180][e]
@@ -471,13 +471,13 @@
 [s][vp 9 2 65535 40355 0 0]Aquele Kaneshiro é um[n]vilão?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_11_]
-[s][vp 9 2 65535 42755 0 0]A carta de aviso dos[n]Phantom Thieves? É apenas uma[n]lenda urbana![n][f 1 2 180][e]
+[s][vp 9 2 65535 42755 0 0]A Carta de Aviso dos[n]Phantom Thieves? É apenas uma[n]lenda urbana![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_12_]
 [s][vp 9 2 65535 39005 0 0]Phantom Thieves, hein...?[n]Você acredita que eles realmente existem?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_13_]
-[s][vp 9 2 65535 42554 0 0]Ouvi dizer que a carta[n]de desafio foi afixada em[n]todos os carros da cidade.[n][f 1 2 180][e]
+[s][vp 9 2 65535 42554 0 0]Ouvi dizer que a Carta[n]de Aviso foi afixada em[n]todos os carros da cidade.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_14_]
 [s][vp 9 2 65535 38450 0 0]É impossível que Phantom[n]Thievess realmente existam![n][f 1 2 180][e]
@@ -540,7 +540,7 @@
 [s][vp 9 2 65535 37856 0 0]Viu as notícias?[n]Parece que[n]os Phantom Thieves fizeram isso![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_02_]
-[s][vp 9 2 65535 41954 0 0]The Phantom Thieves[n]carta de aviso[n]previu tudo...[n][f 1 2 180][e]
+[s][vp 9 2 65535 41954 0 0]The Phantom Thieves[n]Carta de Aviso[n]previu tudo...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_03_]
 [s][vp 9 2 65535 40954 0 0]Viu as notícias?[n]Parece que[n]os Phantom Thieves fizeram isso![n][f 1 2 180][e]
@@ -555,7 +555,7 @@
 [s][vp 9 2 65535 38456 0 0]Esses caras são incríveis![n]Eles estão fazendo um[n]trabalho melhor do que a polícia![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_07_]
-[s][vp 9 2 65535 45156 0 0]E então aquela[n]carta de aviso não era brincadeira![n][f 1 2 180][e]
+[s][vp 9 2 65535 45156 0 0]E então aquela[n]Carta de Aviso não era brincadeira![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_08_]
 [s][vp 9 2 65535 39704 0 0]De acordo com relatos da mídia,[n]os Phantom Thieves podem[n]estar envolvidos...[n][f 1 2 180][e]
@@ -567,7 +567,7 @@
 [s][vp 9 2 65535 44906 0 0]Esses caras são incríveis![n]Eles estão fazendo um[n]trabalho melhor do que a polícia![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_11_]
-[s][vp 9 2 65535 44456 0 0]As coisas correram[n]como ele esperava[n]a carta de aviso[n][f 1 2 180][e]
+[s][vp 9 2 65535 44456 0 0]As coisas correram[n]como ele esperava[n]a Carta de Aviso[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_12_]
 [s][vp 9 2 65535 41804 0 0]De acordo com relatos da mídia,[n]os Phantom Thieves podem[n]estar envolvidos...[n][f 1 2 180][e]
@@ -576,7 +576,7 @@
 [s][vp 9 2 65535 38756 0 0]Você ouviu sobre isso[n]no noticiário? Parece que[n]os Phantom Thieves fizeram isso![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_14_]
-[s][vp 9 2 65535 39153 0 0]The Phantom Thieves[n]carta de aviso[n]previu tudo...[n][f 1 2 180][e]
+[s][vp 9 2 65535 39153 0 0]The Phantom Thieves[n]Carta de Aviso[n]previu tudo...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_15_]
 [s][vp 9 2 65535 39356 0 0]Você ouviu sobre isso[n]no noticiário? Parece que[n]os Phantom Thieves fizeram isso![n][f 1 2 180][e]
@@ -921,13 +921,13 @@
 [s][vp 9 2 65535 39306 0 0]Neste mundo podre,[n]Phantom Thieves[n]farão a diferença![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_018_01_]
-[s][vp 9 2 65535 42706 0 0]Outra carta de aviso![n]Eu sabia...[n]É para Okumura![n][f 1 2 180][e]
+[s][vp 9 2 65535 42706 0 0]Outra Carta de Aviso![n]Eu sabia...[n]É para Okumura![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_018_02_]
 [s][vp 9 2 65535 41051 0 0]Okumura está condenado![n]É todo seu, Phantom Thieves![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_018_03_]
-[s][vp 9 2 65535 44203 0 0]Eu estava esperando ansiosamente que[n]sua carta de aviso fosse enviada![n][f 1 2 180][e]
+[s][vp 9 2 65535 44203 0 0]Eu estava esperando ansiosamente que[n]sua Carta de Aviso fosse enviada![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_018_04_]
 [s][vp 9 2 65535 41003 0 0]Exijo um pedido de desculpas ainda[n]mais comovente do que o de[n]Madarame![n][f 1 2 180][e]
@@ -951,7 +951,7 @@
 [s][vp 9 2 65535 37806 0 0]Isso é tudo que eu esperava,[n]Phantom Thieves![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_018_11_]
-[s][vp 9 2 65535 43253 0 0]Eu estava ansioso por[n]uma carta de aviso dos Phantom Thieves![n][f 1 2 180][e]
+[s][vp 9 2 65535 43253 0 0]Eu estava ansioso por[n]uma Carta de Aviso dos Phantom Thieves![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_018_12_]
 [s][vp 9 2 65535 39600 0 0]Exijo um pedido de desculpas ainda[n]mais comovente do que o de[n]Madarame![n][f 1 2 180][e]

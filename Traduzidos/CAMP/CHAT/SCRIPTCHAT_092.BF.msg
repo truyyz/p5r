@@ -1,5 +1,5 @@
 [msg MSG_000_0_0 [Yusuke]]
-[s][f 5 14]Como foi no final[n]com a carta de aviso?[n][w][e]
+[s][f 5 14]Como foi no final[n]com a Carta de Aviso?[n][w][e]
 
 [msg MSG_001_0_0 [Ann]]
 [s][f 5 14]Makoto levou Ryuji com ele.[n][w][e]

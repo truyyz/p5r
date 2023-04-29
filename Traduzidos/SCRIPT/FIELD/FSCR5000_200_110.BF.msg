@@ -51,7 +51,7 @@
 
 [msg ODA_RANK8_MSG003 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Você tem razão. Devemos tentar[n]ajudá-lo o mais rápido possível.[n][w][e]
-[s][f 4 23 1 65535 3 5 11 5][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Quanto à carta de contestação,[n]deixe-me entregá-la[n]pessoalmente.[n][w][e]
+[s][f 4 23 1 65535 3 5 11 5][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Quanto à Carta de Aviso,[n]deixe-me entregá-la[n]pessoalmente.[n][w][e]
 
 [msg ODA_RANK8_MSG004 [Morgana]]
 [s][f 4 23 1 3 3 5 11 5][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1124 65535 0]Podemos considerá-la uma decisão[n]unânime?[n][w][e]

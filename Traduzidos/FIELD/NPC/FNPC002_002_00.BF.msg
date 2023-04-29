@@ -133,7 +133,7 @@
 [s][f 4 23 1 14 3 10 0 10][vp 8 2 1 0 14 0]Você já ouviu? Kamoshida não está na escola.[n][w][e]
 
 [msg MSG_KIREIDANSI_003_1_0 [Estudante educado]]
-[s][f 4 23 1 15 3 10 0 10][vp 8 2 1 0 15 0]"Phantom Thieves" à parte, seria[n]absurdo se o que essa[n]carta de aviso dizia fosse verdade.[n][w][e]
+[s][f 4 23 1 15 3 10 0 10][vp 8 2 1 0 15 0]"Phantom Thieves" à parte, seria[n]absurdo se o que essa[n]Carta de Aviso dizia fosse verdade.[n][w][e]
 
 [msg MSG_KIREIDANSI_003_2_0 [Bom aluno]]
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Alguém declarou seriamente guerra a um professor.[n]Devo admitir que é preciso coragem.[n][w][e]
@@ -287,7 +287,7 @@
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Acho que é isso que acontece[n]quando você corta tanto os salários.[n]Dirigir um negócio é difícil.[n][w][e]
 
 [msg MSG_KIREIDANSI_015_0_0 [Estudante preguiçoso]]
-[s][f 4 23 1 14 3 10 0 10][vp 8 2 1 0 14 0]Eles finalmente enviaram a[n]carta de aviso! Eu quero outra[n]daquelas palestras hilárias.[n][w][e]
+[s][f 4 23 1 14 3 10 0 10][vp 8 2 1 0 14 0]Eles finalmente enviaram a[n]Carta de Aviso! Eu quero outra[n]daquelas palestras hilárias.[n][w][e]
 
 [msg MSG_KIREIDANSI_015_1_0 [Estudante educado]]
 [s][f 4 23 1 15 3 10 0 10][vp 8 2 1 0 15 0]Ei, calma! Okumura-san[n]está passando por um momento difícil[n]agora...[n][w][e]
@@ -472,13 +472,13 @@
 [s][vp 9 2 65535 43161 0 0]É preciso coragem para arranjar[n]lutas com Kamoshida.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_004_02_ [Estudante preguiçoso]]
-[s][vp 9 2 65535 37555 0 0]É uma "carta de aviso".[n]Aparentemente, eles querem que ele[n]confesse todos os seus crimes.[n][f 1 2 180][e]
+[s][vp 9 2 65535 37555 0 0]É uma "Carta de Aviso".[n]Aparentemente, eles querem que ele[n]confesse todos os seus crimes.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_004_03_ [Estudante preguiçoso]]
 [s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_004_04_ [Estudante preguiçoso]]
-[s][vp 9 2 65535 46355 0 0]O que é uma carta de aviso?[n]Algum tipo de piada?[n][f 1 2 180][e]
+[s][vp 9 2 65535 46355 0 0]O que é uma Carta de Aviso?[n]Algum tipo de piada?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_004_05_ [Estudante preguiçoso]]
 [s][vp 9 2 65535 42213 0 0]Que tipo de pessoa[n]se voltaria contra Kamoshida...?[n][f 1 2 180][e]
@@ -487,7 +487,7 @@
 [s][vp 9 2 65535 39255 0 0]Certamente será a piada[n]de alguém com inveja do[n]Prof. Kamoshida...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_005_01_ [Estudante preguiçoso]]
-[s][vp 9 2 65535 39455 0 0]É apenas uma coincidência, não é?[n]Essa carta de aviso[n]não tem nada a ver com isso.[n][f 1 2 180][e]
+[s][vp 9 2 65535 39455 0 0]É apenas uma coincidência, não é?[n]Essa Carta de Aviso[n]não tem nada a ver com isso.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_005_02_ [Estudante preguiçoso]]
 [s][vp 9 2 65535 39053 0 0]Ele realmente cometeu todas aquelas[n]atrocidades? Oh meu Deus, Kamoshida[n]acabou.[n][f 1 2 180][e]
@@ -577,10 +577,10 @@
 [s][vp 9 2 65535 43255 0 0]É verdade que existe uma rede criminosa muito[n]perigosa em Shibuya?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_01_ [Estudante preguiçoso]]
-[s][vp 9 2 65535 37854 0 0]Madarame recebeu uma carta de[n]desafio, a mesma que foi[n]enviada para Kamoshida...[n][f 1 2 180][e]
+[s][vp 9 2 65535 37854 0 0]Madarame recebeu uma Carta de[n]Aviso, a mesma que foi[n]enviada para Kamoshida...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_02_ [Estudante preguiçoso]]
-[s][vp 9 2 65535 39104 0 0]Alguns Phantom Thieves[n]entregaram uma carta de aviso[n]na exposição de Madarame, não é?[n][f 1 2 180][e]
+[s][vp 9 2 65535 39104 0 0]Alguns Phantom Thieves[n]entregaram uma Carta de Aviso[n]na exposição de Madarame, não é?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_03_ [Estudante preguiçoso]]
 [s]0[n][f 1 2 180][e]
@@ -592,7 +592,7 @@
 [s][vp 9 2 65535 39505 0 0]Os Phantom Thieves de novo? Mas não era só uma[n]piada?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_06_ [Estudante preguiçoso]]
-[s][vp 9 2 65535 43305 0 0]Então aquela carta de aviso para[n]Kamoshida não era brincadeira...[n][f 1 2 180][e]
+[s][vp 9 2 65535 43305 0 0]Então aquela Carta de Aviso para[n]Kamoshida não era brincadeira...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_009_01_ [Estudante preguiçoso]]
 [s][vp 9 2 65535 44602 0 0]Alguns alunos que foram para[n]Shujin foram enganados, certo?[n][f 1 2 180][e]
@@ -613,7 +613,7 @@
 [s][vp 9 2 65535 43352 0 0]Há tantas[n]chantagens e golpes acontecendo?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_01_ [Estudante preguiçoso]]
-[s][vp 9 2 65535 42554 0 0]Li na net que apareceu[n]outra carta de aviso...[n][f 1 2 180][e]
+[s][vp 9 2 65535 42554 0 0]Li na net que apareceu[n]outra Carta de Aviso...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_02_ [Estudante preguiçoso]]
 [s][vp 9 2 65535 42104 0 0]Seria ótimo se eles realmente[n]pudessem fazê-lo pagar[n]pelo que ele fez...[n][f 1 2 180][e]
@@ -622,13 +622,13 @@
 [s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_04_ [Estudante preguiçoso]]
-[s][vp 9 2 65535 42154 0 0]Parece que[n]outra carta de aviso foi entregue! E desta[n]vez o destinatário é a máfia![n][f 1 2 180][e]
+[s][vp 9 2 65535 42154 0 0]Parece que[n]outra Carta de Aviso foi entregue! E desta[n]vez o destinatário é a máfia![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_05_ [Estudante preguiçoso]]
-[s][vp 9 2 65535 39755 0 0]É verdade que um cara chamado[n]Kaneshiro recebeu uma[n]carta de aviso!?![n][f 1 2 180][e]
+[s][vp 9 2 65535 39755 0 0]É verdade que um cara chamado[n]Kaneshiro recebeu uma[n]Carta de Aviso!?![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_06_ [Estudante preguiçoso]]
-[s][vp 9 2 65535 42804 0 0]Você viu as postagens online?[n]Outra carta de aviso de[n]Phantom Thieves apareceu![n][f 1 2 180][e]
+[s][vp 9 2 65535 42804 0 0]Você viu as postagens online?[n]Outra Carta de Aviso de[n]Phantom Thieves apareceu![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_011_01_ [Estudante preguiçoso]]
 [s][vp 9 2 65535 42704 0 0]Esses Phantom Thieves vão despertar[n]o coração daquele criminoso, não vão?[n][f 1 2 180][e]
@@ -835,7 +835,7 @@
 [s][vp 9 2 65535 46150 0 0]Adultos corruptos merecem[n]ser arruinados pelos Phantom Thieves![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_021_06_ [Estudante preguiçoso]]
-[s][vp 9 2 65535 38303 0 0]Eu esperei ansiosamente outra[n]carta de aviso! Ansioso[n]pelo pedido de desculpas de Okumura![n][f 1 2 180][e]
+[s][vp 9 2 65535 38303 0 0]Eu esperei ansiosamente outra[n]Carta de Aviso! Ansioso[n]pelo pedido de desculpas de Okumura![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_022_01_ [Estudante preguiçoso]]
 [s][vp 9 2 65535 38402 0 0]Foi terrível... Parecia[n]uma execução pública.[n][f 1 2 180][e]
@@ -1604,7 +1604,7 @@
 [s][f 4 23 1 23 3 10 0 10][vp 8 2 1 0 23 0]Aposto que ela se jogou porque[n]os treinos eram muito difíceis.[n]Se você é tão mole, não aguenta.[n][w][e]
 
 [msg MSG_KEIJIBAN_NPC02_005_0 [Estudante de aparência cansada]]
-[s][f 4 23 1 22 3 10 0 10][vp 8 2 1 0 22 0]Piada? Oh, você quer dizer aquela carta de[n]desafio. O professor. ele está furioso com isso.[n][w][e]
+[s][f 4 23 1 22 3 10 0 10][vp 8 2 1 0 22 0]Piada? Oh, você quer dizer aquela Carta de[n]Aviso. O professor. ele está furioso com isso.[n][w][e]
 
 [msg MSG_KEIJIBAN_NPC02_005_0_2 [Aluno irritado]]
 [s][f 4 23 1 23 3 10 0 10][vp 8 2 1 0 23 0]Agora que penso nisso, Kamoshida está[n]ausente hoje, hein? Bem, eles vão nos dar[n]tempo extra de estudo.[n][w][e]

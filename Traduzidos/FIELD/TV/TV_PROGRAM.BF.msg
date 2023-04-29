@@ -498,7 +498,7 @@
 [s]A polícia está investigando o[n]possível envolvimento do grupo[n]no caso Madarame.[n][w][e]
 
 [msg TV_NEWS_0606_100_00 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1167 65535 0][f 4 25 1 65535 0 0]Oh, eles estão falando sobre nossa carta de[n]desafio! Eles até disseram nosso nome na TV![n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1167 65535 0][f 4 25 1 65535 0 0]Oh, eles estão falando sobre nossa Carta de[n]Aviso! Eles até disseram nosso nome na TV![n][w][e]
 
 [msg TV_NEWS_0607_000_00 [Locutor]]
 [s]Agora vamos passar para o entretenimento.[n][w][e]
@@ -860,7 +860,7 @@
 
 [msg TV_NEWS_0721_000_00 [Locutor]]
 [s]Medjed, um grupo de perigosos[n]hackers, convocou[n]os Phantom Thieves.[n][w][e]
-[s]Nossa equipe editorial conseguiu[n]colocar as mãos em uma "carta[n]de desafio" deste último.[n][w][e]
+[s]Nossa equipe editorial conseguiu[n]colocar as mãos em uma "Carta[n]de Aviso" deste último.[n][w][e]
 [s]Na carta, eles afirmam que farão com que seu alvo[n]"confesse seus crimes".[n][w][e]
 
 [msg TV_NEWS_0721_100_00 [Morgana]]
@@ -868,7 +868,7 @@
 
 [msg TV_NEWS_0722_000_00 [Locutor]]
 [s]Medjed, um grupo de perigosos[n]hackers, convocou[n]os Phantom Thieves.[n][w][e]
-[s]Nossa equipe editorial conseguiu[n]colocar as mãos em uma "carta[n]de desafio" deste último.[n][w][e]
+[s]Nossa equipe editorial conseguiu[n]colocar as mãos em uma "Carta[n]de Aviso" deste último.[n][w][e]
 [s]Na carta, eles afirmam que farão com que seu alvo[n]"confesse seus crimes".[n][w][e]
 
 [msg TV_NEWS_0722_100_00 [Morgana]]
@@ -3259,15 +3259,15 @@
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0][f 4 25 1 65535 0 0]É como Futaba disse.[n]Talvez agora possamos[n]fazer algum progresso![n][w][e]
 
 [msg CAFE_TV_OKUMURA_NEWS_01_ [Locutor]]
-[s]Uma carta de aviso de[n]Phantom Thieves foi entregue na residência de[n]Kunikazu Okumura.[n][w][e]
-[s]A rede está cheia de especulações[n]sobre o conteúdo[n]da carta de aviso.[n][w][e]
+[s]Uma Carta de Aviso de[n]Phantom Thieves foi entregue na residência de[n]Kunikazu Okumura.[n][w][e]
+[s]A rede está cheia de especulações[n]sobre o conteúdo[n]da Carta de Aviso.[n][w][e]
 [s]Todos os olhos estão voltados para os Phantom[n]Thieves. O mundo está esperando pelo próximo[n]movimento.[n][w][e]
 
 [msg CAFE_TV_OKUMURA_NEWS_01__2 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 53105 65535 0][f 4 25 1 65535 0 0]Já cuidamos disso, mas...[n]Só temos que esperar[n]e ver.[n][w][e]
 
 [msg CAFE_TV_OKUMURA_NEWS_02_ [Locutor]]
-[s]Okumura Foods no centro das atenções,[n]após receber uma carta de[n]desafio assinada [f 4 28].[n][w][e]
+[s]Okumura Foods no centro das atenções,[n]após receber uma Carta de[n]Aviso assinada [f 4 28].[n][w][e]
 [s]Desde que a carta apareceu,[n]o público exigiu[n]punição exemplar para o CEO.[n][w][e]
 [s]O presidente Okumura ainda não[n]apareceu em público e não[n]emitiu nenhuma declaração.[n][w][e]
 

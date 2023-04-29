@@ -1569,7 +1569,7 @@
 [s]Oh, era assim que deveria acontecer? Acho que[n]tenho uma dívida com você. Sim, você abriu meus[n]olhos. Você toma![n][w][e]
 
 [msg TalkMsg_CONTACT_11]
-[s]Ouça, filho...[n]King Kamoshida é muito mais durão[n]do que eu.[n][w][e]
+[s]Ouça, filho...[n]Rei Kamoshida é muito mais durão[n]do que eu.[n][w][e]
 
 [msg TalkMsg_CONTACT_12]
 [s]Ouça, filho...[n]Lorde Madarame é muito[n]mais difícil do que eu.[n][w][e]
@@ -1720,7 +1720,7 @@
 [s]De agora em diante, me ligue [clr 1][var 2][clr 27].[n]Entre em contato comigo, filho.[n][w][e]
 
 [msg TalkMsg_ED_bye_D01_01]
-[s]Você é um garotinho, então agir com ousadia é[n]tolerável, mas antes de a King Kamoshida você[n]deve ser leal.[n][w][e]
+[s]Você é um garotinho, então agir com ousadia é[n]tolerável, mas antes de a Rei Kamoshida você[n]deve ser leal.[n][w][e]
 
 [msg TalkMsg_ED_bye_D01_02]
 [s]Umpf... Você realmente acha que tem[n]a menor chance[n]contra o Rei Kamoshida?[n][w][e]

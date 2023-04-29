@@ -306,7 +306,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 152 65535 0]O Tesouro não vai aparecer,[n]se não deixarmos ela ler isso![n][f 1 3 65535][w][e]
 
 [msg MSG_134_0_0 [Futaba]]
-[s][vp 8 0 0 153 65535 0]Huh? Uma carta de aviso?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 153 65535 0]Huh? Uma Carta de Aviso?[n][f 1 3 65535][w][e]
 
 [msg MSG_135_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 154 65535 0]É aquele que você preparou.[n]Leia.[n][f 1 3 65535][w][e]

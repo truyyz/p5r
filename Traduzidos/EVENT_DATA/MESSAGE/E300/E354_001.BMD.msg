@@ -5,7 +5,7 @@
 [s][bup 0 105 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Eu entendo.[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Investigador cansado]]
-[s][vp 8 0 0 3 5 0]Esperávamos encontrar algo[n]mais do que uma carta de aviso.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 3 5 0]Esperávamos encontrar algo[n]mais do que uma Carta de Aviso.[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Sae]]
 [s][bup 0 105 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]Pelo menos, temos a confirmação[n]da ligação entre a vítima[n]e os Phantom Thieves.[n][f 1 3 65535][w][e]
@@ -16,7 +16,7 @@
 [s][vp 8 0 0 7 5 0]Hã?[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Investigador cansado]]
-[s][vp 8 0 0 8 5 0]Eles encontraram uma carta de contestação[n]na sala do diretor também![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 8 5 0]Eles encontraram uma Carta de Aviso[n]na sala do diretor também![n][f 1 3 65535][w][e]
 
 [msg MSG_005_5_0 [Sae]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 105 15 300 1][f 1 12][e]

@@ -32,7 +32,7 @@
 [s][vp 8 0 0 0 4 0]Vai ser uma piada.[n]Ninguém levou a sério.[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Cara sério]]
-[s][vp 8 2 0 37554 4 0]Até mesmo o conselho estudantil está[n]caçando o autor da carta[n]de desafio. Com exames ao virar da esquina![n][f 1 3 65535][w][e]
+[s][vp 8 2 0 37554 4 0]Até mesmo o conselho estudantil está[n]caçando o autor da Carta[n]de Aviso. Com exames ao virar da esquina![n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Estudante otimista do terceiro ano]]
 [s][vp 8 0 0 0 5 0]É verdade, existem exames! Eu[n]esqueci completamente...[n]E ainda não toquei no livro...[n][f 1 3 65535][w][e]
@@ -150,7 +150,7 @@
 [s][vp 8 0 0 0 4 0]Que eu festejo todas as noites?[n][f 1 3 65535][w][e]
 
 [msg MSG_039_0_0 [Menina gentil]]
-[s][vp 8 2 0 40454 4 0]Ei, sobre a[n]carta de aviso enviada para a exposição de[n]Madarame. Você acha...[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 40454 4 0]Ei, sobre a[n]Carta de Aviso enviada para a exposição de[n]Madarame. Você acha...[n][f 1 3 65535][w][e]
 
 [msg MSG_040_0_0 [Gossip Girl]]
 [s][vp 8 2 0 40604 5 0]Sim, acho que é como o enviado para Kamoshida.[n][f 1 3 65535][w][e]
@@ -167,7 +167,7 @@
 [msg MSG_043_0_0 [Menino tranquilo]]
 [s][vp 8 2 0 42655 5 0]Você ouviu no noticiário esta manhã[n]a notícia da prisão do chefe[n]máfia?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 5 0]Aparentemente, alguém havia[n]espalhado cartas de desafio por toda[n]Shibuya antes de sua prisão.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 5 0]Você se lembra do escândalo Kamoshida?[n]Parece que mesmo assim[n]uma carta de aviso foi enviada.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 5 0]Você se lembra do escândalo Kamoshida?[n]Parece que mesmo assim[n]uma Carta de Aviso foi enviada.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 5 0]E também no caso de Madarame,[n]se não me engano.[n][f 1 3 65535][w][e]
 
 [msg MSG_044_0_0 [Menino suado]]

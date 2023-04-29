@@ -413,7 +413,7 @@
 [msg MSG_GYAKUSAGI_009_0_0 [Menino tranquilo]]
 [s][vp 8 2 1 0 7 0]Olha, outro dia fui ameaçado por um cara[n]estranho...[n][w][e]
 [s][vp 8 2 1 0 7 0]Quê? Ele veio até você também?[n]Ele estava vestindo um estranho[n]terno preto, certo?[n][w][e]
-[s][vp 8 2 1 0 7 0]Talvez seja um Phantom Thief![n]Mas eu nunca recebi uma[n]carta de aviso... E aí!?![n][w][e]
+[s][vp 8 2 1 0 7 0]Talvez seja um Phantom Thief![n]Mas eu nunca recebi uma[n]Carta de Aviso... E aí!?![n][w][e]
 [s][vp 8 2 1 0 7 0]E também há muita[n]polícia por perto por causa desses ataques.[n]Talvez devêssemos abandonar esta área.[n][w][e]
 
 [msg MSG_GYAKUSAGI_010_0_0 [Agente de terno]]
@@ -467,7 +467,7 @@
 [s][f 4 23 1 6 4 10 0 10][vp 8 2 1 0 6 0]Vejo você de bom humor hoje.[n]Aconteceu alguma coisa?[n][w][e]
 
 [msg MSG_GYAKUSAGI_014_1_0 [Ancião bondoso]]
-[s][f 4 23 1 5 3 10 0 10][vp 8 2 1 0 5 0]Você viu a carta de aviso dos[n]Phantom Thieves? Tem sido uma vida[n]desde que eu estive tão animado.[n][w][e]
+[s][f 4 23 1 5 3 10 0 10][vp 8 2 1 0 5 0]Você viu a Carta de Aviso dos[n]Phantom Thieves? Tem sido uma vida[n]desde que eu estive tão animado.[n][w][e]
 [s][vp 8 2 1 0 5 0]Não acredito que eles atacam o governo assim.[n]Eles estão realmente determinados a erradicar o[n]veneno.[n][w][e]
 
 [msg MSG_GYAKUSAGI_014_2_0 [Agente de terno]]
@@ -636,11 +636,11 @@
 [s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]Nesse caso, vá para casa,[n]garoto! Merda, que desperdício de fôlego![n][w][e]
 
 [msg MSG_SUKAUTOMAN_007_0_0 [Vendedor ambulante suspeito]]
-[s][f 4 23 1 8 12 10 3 10][vp 8 2 1 0 8 0]Estou de olho em você![n]E estou prestes a enviar minha[n]carta de aviso![n][w][e]
+[s][f 4 23 1 8 12 10 3 10][vp 8 2 1 0 8 0]Estou de olho em você![n]E estou prestes a enviar minha[n]Carta de Aviso![n][w][e]
 
 [sel SEL_SUKAUTOMAN_007_1_0 top]
 [s]Que incômodo.[e]
-[s]carta de aviso para quê?[e]
+[s]Carta de Aviso para quê?[e]
 
 [msg MSG_SUKAUTOMAN_007_2_0 [Vendedor ambulante suspeito]]
 [s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]Oh, Cristo, eu te irritei? Bem,[n]deixe-me compensá-lo[n]com este novo produto![n][w][e]
@@ -656,7 +656,7 @@
 [s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]Não fique convencido, garoto.[n]Eu não sou um Phantom Thief, mas[n]posso fazer você implorar por misericórdia![n][w][e]
 
 [msg MSG_SUKAUTOMAN_008_0_0 [Vendedor ambulante suspeito]]
-[s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]Oh vamos lá! Não há necessidade de[n]temer por ter[n]recebido uma carta de aviso![n][w][e]
+[s][f 4 23 1 8 3 10 0 10][vp 8 2 1 0 8 0]Oh vamos lá! Não há necessidade de[n]temer por ter[n]recebido uma Carta de Aviso![n][w][e]
 
 [msg MSG_SUKAUTOMAN_008_1_0 [Homem de meia idade despenteado]]
 [s][f 4 23 1 9 3 10 0 10][vp 8 2 1 0 9 0]M-Mas o preço das ações da[n]Okumura Foods que eu comprei do[n]meu amigo caiu...[n][w][e]
@@ -1021,7 +1021,7 @@
 [s][vp 9 2 65535 38401 0 0]É verdade que ele foi[n]alvejado?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_01_ [Menina sonhadora]]
-[s][vp 9 2 65535 39405 0 0]Uma carta de aviso dos[n]Phantom Thieves? O que é isso, um gadget[n]de algum filme novo?[n][f 1 2 180][e]
+[s][vp 9 2 65535 39405 0 0]Uma Carta de Aviso dos[n]Phantom Thieves? O que é isso, um gadget[n]de algum filme novo?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_02_ [Menina sonhadora]]
 [s][vp 9 2 65535 37754 0 0]Você já ouviu alguma coisa sobre[n]the Phantom Thieves aparecendo em[n]Shibuya? Do que se trata?[n][f 1 2 180][e]
@@ -1033,22 +1033,22 @@
 [s][vp 9 2 65535 37953 0 0]Aparentemente, eles foram[n]afixados em toda Shibuya.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_05_ [Menina sonhadora]]
-[s][vp 9 2 65535 45354 0 0]Seria interessante se essa[n]carta de aviso fosse verdadeira...[n][f 1 2 180][e]
+[s][vp 9 2 65535 45354 0 0]Seria interessante se essa[n]Carta de Aviso fosse verdadeira...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_06_ [Menina sonhadora]]
 [s][vp 9 2 65535 46255 0 0]Todas essas cartas de desafio[n]são realmente importantes?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_07_ [Menina sonhadora]]
-[s][vp 9 2 65535 39104 0 0]Uma carta de aviso? Do que você está falando[n][f 1 2 180][e]
+[s][vp 9 2 65535 39104 0 0]Uma Carta de Aviso? Do que você está falando[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_08_ [Menina sonhadora]]
-[s][vp 9 2 65535 38554 0 0]Uma carta de aviso dos[n]Phantom Thieves? Mas imagine se[n]é verdade.[n][f 1 2 180][e]
+[s][vp 9 2 65535 38554 0 0]Uma Carta de Aviso dos[n]Phantom Thieves? Mas imagine se[n]é verdade.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_09_ [Menina sonhadora]]
 [s][vp 9 2 65535 42104 0 0]Todos em Shibuya estão falando[n]sobre os Phantom Thieves.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_10_ [Menina sonhadora]]
-[s][vp 9 2 65535 39155 0 0]Cartas de desafio de ladrões[n]Phantom? Cristo, você é[n]estúpido o suficiente para acreditar nisso?[n][f 1 2 180][e]
+[s][vp 9 2 65535 39155 0 0]Cartas de Aviso de ladrões[n]Phantom? Cristo, você é[n]estúpido o suficiente para acreditar nisso?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_11_ [Menina sonhadora]]
 [s][vp 9 2 65535 44504 0 0]Phantom Thieves?[n]Do que você está falando?[n][f 1 2 180][e]
@@ -1105,19 +1105,19 @@
 [s][vp 9 2 65535 44904 0 0]Então foram os[n]Phantom Thieves que se livraram daqueles[n]vigaristas em Shibuya?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_07_ [Menina sonhadora]]
-[s][vp 9 2 65535 39103 0 0]Então ele foi capturado, assim[n]como aquela carta de aviso[n]previa…[n][f 1 2 180][e]
+[s][vp 9 2 65535 39103 0 0]Então ele foi capturado, assim[n]como aquela Carta de Aviso[n]previa…[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_08_ [Menina sonhadora]]
 [s][vp 9 2 65535 37656 0 0]Eu definitivamente sou melhor[n]que a polícia![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_09_ [Menina sonhadora]]
-[s][vp 9 2 65535 37554 0 0]Você viu a notícia? Parece que[n]a carta de aviso era[n]verdadeira![n][f 1 2 180][e]
+[s][vp 9 2 65535 37554 0 0]Você viu a notícia? Parece que[n]a Carta de Aviso era[n]verdadeira![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_10_ [Menina sonhadora]]
 [s][vp 9 2 65535 40704 0 0]Os Phantom Thieves... São[n]eles que mandam todas[n]aquelas cartas de desafio, certo?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_11_ [Menina sonhadora]]
-[s][vp 9 2 65535 39604 0 0]Você está me dizendo que tudo[n]que estava escrito naquela carta[n]de desafio se tornou realidade? Sério?[n][f 1 2 180][e]
+[s][vp 9 2 65535 39604 0 0]Você está me dizendo que tudo[n]que estava escrito naquela Carta[n]de Aviso se tornou realidade? Sério?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_011_01_ [Menina sonhadora]]
 [s][vp 9 2 65535 38103 0 0]Aquele grupo, Medjed,[n]se voltou contra os Phantom Thieves?[n][f 1 2 180][e]
@@ -1411,7 +1411,7 @@
 [s][vp 9 2 65535 45570 0 0]Punir aquele CEO corrupto![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_018_06_ [Menina sonhadora]]
-[s][vp 9 2 65535 41756 0 0]Eles enviaram a carta-desafio![n]Prepare-se para se confessar de[n]estúpidos joelhos, Okumura![n][f 1 2 180][e]
+[s][vp 9 2 65535 41756 0 0]Eles enviaram a Carta de Aviso![n]Prepare-se para se confessar de[n]estúpidos joelhos, Okumura![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_018_07_ [Menina sonhadora]]
 [s][vp 9 2 65535 39450 0 0]Muito bem, Phantom Thieves![n]Um homem egoísta como ele[n]merece ser eliminado![n][f 1 2 180][e]
@@ -1420,7 +1420,7 @@
 [s][vp 9 2 65535 40400 0 0]Aqui está o que ele recebe em troca de ser[n]arrogante. Ele merece isso e muito mais![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_018_09_ [Menina sonhadora]]
-[s][vp 9 2 65535 38701 0 0]Eles encontraram a carta de aviso![n]Bem, faça aquele CEO pagar![n][f 1 2 180][e]
+[s][vp 9 2 65535 38701 0 0]Eles encontraram a Carta de Aviso![n]Bem, faça aquele CEO pagar![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_018_10_ [Menina sonhadora]]
 [s][vp 9 2 65535 42053 0 0]Ansioso pela palestra de desculpas de[n]Okumura![n][f 1 2 180][e]
@@ -2136,7 +2136,7 @@
 
 [msg MSG_TAXIUNTENSYU_002_0_0 [Taxista de óculos]]
 [s][f 4 23 1 18 3 10 0 10][vp 8 2 1 0 18 0]Eu estacionei em[n]Shibuya outro dia e encontrei um[n]pedaço de papel estranho no meu carro.[n][w][e]
-[s][vp 8 2 1 0 18 0]Dizia que era uma[n]"carta de aviso". Você acha que é para[n]uma campanha publicitária?[n][w][e]
+[s][vp 8 2 1 0 18 0]Dizia que era uma[n]"Carta de Aviso". Você acha que é para[n]uma campanha publicitária?[n][w][e]
 
 [msg MSG_TAXIUNTENSYU_002_1_0 [Taxista]]
 [s][f 4 23 1 17 3 10 0 10][vp 8 2 1 0 17 0]Oh, eles dizem que essas são[n]mensagens para o chefe[n]daqueles bandidos em Shibuya.[n][w][e]
@@ -2319,7 +2319,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Deve ser o cara de quem ouvimos falar. Vamos[n]voltar ao esconderijo e bolar um plano![n][w][e]
 
 [msg Quest40_target_01_00 [Ryota Tennou]]
-[s][f 4 23 1 605 3 10 0 10][vp 8 2 1 0 605 0]Que diabos é isso?[n]Uma carta de aviso?[n][w][e]
+[s][f 4 23 1 605 3 10 0 10][vp 8 2 1 0 605 0]Que diabos é isso?[n]Uma Carta de Aviso?[n][w][e]
 [s][vp 8 2 1 0 605 0]Eles descobriram meu[n]peculato? Não, estou paranóico.[n]É só uma piada.[n][w][e]
 
 [msg Quest40_target_01_01 [Miki-chan]]
@@ -2330,7 +2330,7 @@
 [s][vp 8 2 1 0 605 0]Vamos, vamos nos divertir.[n][w][e]
 
 [msg Quest40_target_sinjyo_01]
-[s][vp 8 2 65535 0 0 0]Parece que a carta de contestação[n]foi entregue com sucesso.[n][w][e]
+[s][vp 8 2 65535 0 0 0]Parece que a Carta de Aviso[n]foi entregue com sucesso.[n][w][e]
 
 [msg Quest40_target_02_00 [Ryota Tennou]]
 [s][f 4 23 1 605 3 10 0 10][vp 8 2 1 0 605 0]Eu sinto muito. Eu coloquei você no inferno, eu[n]tomei você como garantido...[n][w][e]
@@ -2534,7 +2534,7 @@
 [s][f 4 23 1 23 3 10 0 10][vp 8 2 1 0 23 0]Na rede, eles são considerados Robin[n]Hood. Duvido que a polícia[n]possa ignorá-lo por muito tempo.[n][w][e]
 
 [msg MSG_BENGOSHI_002_0_0 [Advogado sério]]
-[s][f 4 23 1 23 3 10 0 10][vp 8 2 1 0 23 0]Outra carta de aviso...[n]Mas admito que os Phantom Thieves[n]escolheram um alvo muito bom.[n][w][e]
+[s][f 4 23 1 23 3 10 0 10][vp 8 2 1 0 23 0]Outra Carta de Aviso...[n]Mas admito que os Phantom Thieves[n]escolheram um alvo muito bom.[n][w][e]
 
 [msg MSG_BENGOSHI_002_1_0 [Bom advogado]]
 [s][f 4 23 1 22 3 10 0 10][vp 8 2 1 0 22 0]Kaneshiro, é? A polícia tem sido[n]inútil, então eles vão conquistar o[n]público se livrando deles.[n][w][e]
@@ -2596,7 +2596,7 @@
 [s][f 4 23 1 22 3 10 0 10][vp 8 2 1 0 22 0]Definitivamente influenciaria a opinião pública.[n]Bem, vamos esperar para ver.[n][w][e]
 
 [msg MSG_BENGOSHI_008_0_0 [Advogado sério]]
-[s][f 4 23 1 23 3 10 0 10][vp 8 2 1 0 23 0]Eles enviaram sua[n]carta de aviso.[n][w][e]
+[s][f 4 23 1 23 3 10 0 10][vp 8 2 1 0 23 0]Eles enviaram sua[n]Carta de Aviso.[n][w][e]
 [s][vp 8 2 1 0 23 0]Recebo muitos pedidos relacionados ao trabalho,[n]graças a eles.[n][w][e]
 
 [msg MSG_BENGOSHI_008_1_0 [Bom advogado]]

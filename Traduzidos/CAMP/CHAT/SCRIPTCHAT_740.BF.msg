@@ -1,5 +1,5 @@
 [msg MSG_000_0_0 [Mishima]]
-[s][f 5 14]Fiquei realmente surpreso[n]ao ver aquela carta de aviso![n][w][e]
+[s][f 5 14]Fiquei realmente surpreso[n]ao ver aquela Carta de Aviso![n][w][e]
 
 [msg MSG_000_1_0 [Mishima]]
 [s][f 5 14]Eu pensei que você pelo menos[n]me avisaria com antecedência.[n][w][e]

@@ -14,7 +14,7 @@
 [s]Eu passei um tempo[n]estudando com Yusuke...[n][w][e]
 
 [msg MND_STUDY_FUTABA]
-[s]Passei um tempo[n]estudando com o Futaba...[n][w][e]
+[s]Passei um tempo[n]estudando com a Futaba...[n][w][e]
 
 [msg MND_LASTMES_YUSUKE]
 [s][vp 8 0 0 0 65535 0]Eu me despedi de Yusuke[n]na estação...[n][f 1 3 65535][w][e]

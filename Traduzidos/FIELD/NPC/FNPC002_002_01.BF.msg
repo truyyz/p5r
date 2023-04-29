@@ -224,7 +224,7 @@
 [s][f 4 23 1 26 3 10 0 10][vp 8 2 1 0 26 0]Oh, assustador. Sim, parece[n]o trabalho de algum perseguidor.[n]Fale sobre isso com um professor, no caso...[n][w][e]
 
 [msg MSG_NETOSUTO_BOY_004_0_0 [Estudante encantador]]
-[s][f 4 23 1 25 3 10 0 10][vp 8 2 1 0 25 0]Esta é a primeira vez que recebo uma "carta de[n]desafio". 'Essas piadas estão me deixando louco.[n][w][e]
+[s][f 4 23 1 25 3 10 0 10][vp 8 2 1 0 25 0]Esta é a primeira vez que recebo uma "Carta de[n]Aviso". 'Essas piadas estão me deixando louco.[n][w][e]
 
 [msg MSG_NETOSUTO_BOY_004_1_0 [Estudante superficial]]
 [s][f 4 23 1 26 3 10 0 10][vp 8 2 1 0 26 0]Ah sim, quando procurei por Phantom[n]Thieves na net, encontrei este[n]blog administrado por uma louca.[n][w][e]
@@ -341,7 +341,7 @@
 [s]Como está indo no campus?[e]
 
 [msg MSG_SINBUNJYOSI_003_1_0 [Editor de jornal]]
-[s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Ouvi dizer que o Prof. Kamoshida[n]tirou uma folga.[n]É por causa daquela carta de aviso?[n][w][e]
+[s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Ouvi dizer que o Prof. Kamoshida[n]tirou uma folga.[n]É por causa daquela Carta de Aviso?[n][w][e]
 [s][vp 8 2 1 0 1 0]Para mim, o truque dos[n]Phantom Thieves é apenas uma piada. Mas[n]meu clube tem que seguir o exemplo.[n][w][e]
 
 [msg MSG_SINBUNJYOSI_003_2_0 [Editor de jornal]]
@@ -626,7 +626,7 @@
 [s][vp 8 2 1 0 1 0]Os extremistas querem que eles tomem ação. Talvez[n]os Ladrões já estejam cansados de certas[n]pressões.[n][w][e]
 
 [msg MSG_SINBUNJYOSI_015_0_0 [Editor de jornal]]
-[s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Depois de enviar aquela[n]carta de aviso, os Phantom Thieves[n]estavam em toda a mídia.[n][w][e]
+[s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Depois de enviar aquela[n]Carta de Aviso, os Phantom Thieves[n]estavam em toda a mídia.[n][w][e]
 [s][vp 8 2 1 0 1 0]Tenho certeza de que eles acompanham as notícias[n]também, mas gostaria de saber o que realmente[n]estão pensando.[n][w][e]
 
 [sel SEL_SINBUNJYOSI_015_0_0 top]
@@ -644,7 +644,7 @@
 [s][f 4 23 1 1 6 10 4 10][vp 8 2 1 0 1 0]Espero que sim. Eu me preocupo que[n]alguns possam reagir[n]irresponsavelmente.[n][w][e]
 
 [msg MSG_SINBUNJYOSI_015_4_0 [Editor de jornal]]
-[s][vp 8 2 1 0 1 0]Se o que está escrito na carta de aviso fosse[n]verdade, estaríamos diante de uma virada[n]histórica.[n][w][e]
+[s][vp 8 2 1 0 1 0]Se o que está escrito na Carta de Aviso fosse[n]verdade, estaríamos diante de uma virada[n]histórica.[n][w][e]
 [s][vp 8 2 1 0 1 0]Talvez eu esteja correndo demais, mas o[n]hype em torno desse[n]argumento é realmente palpável.[n][w][e]
 
 [msg MSG_SINBUNJYOSI_015_01_0 [Editor de jornal]]
@@ -893,7 +893,7 @@
 [s][vp 9 2 65535 40355 0 0]Será a piada clássica[n]de quem assiste[n]muitos animes...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_004_05_ [Editor de jornal]]
-[s][vp 9 2 65535 38905 0 0]Uma carta de aviso dos[n]Phantom Thieves? É só uma brincadeira, certo?[n][f 1 2 180][e]
+[s][vp 9 2 65535 38905 0 0]Uma Carta de Aviso dos[n]Phantom Thieves? É só uma brincadeira, certo?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_005_01_ [Editor de jornal]]
 [s][vp 9 2 65535 41705 0 0]Parem todos, aquela pequena história sobre[n]Phantom Thieves é verdade?[n]Não, vamos lá, é ridículo...[n][f 1 2 180][e]
@@ -980,10 +980,10 @@
 [s][vp 9 2 65535 38254 0 0]Tanto Kamoshida quanto Madarame...[n]Talvez os Phantom Thieves[n]existam mesmo...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_04_ [Editor de jornal]]
-[s][vp 9 2 65535 39103 0 0]É verdade que Madarame também[n]recebeu uma carta de aviso?[n][f 1 2 180][e]
+[s][vp 9 2 65535 39103 0 0]É verdade que Madarame também[n]recebeu uma Carta de Aviso?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_05_ [Editor de jornal]]
-[s][vp 9 2 65535 42354 0 0]Parece que os Phantom Thieves[n]também enviaram uma carta[n]de desafio para Madarame...[n][f 1 2 180][e]
+[s][vp 9 2 65535 42354 0 0]Parece que os Phantom Thieves[n]também enviaram uma Carta[n]de Aviso para Madarame...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_009_01_ [Editor de jornal]]
 [s][vp 9 2 65535 38201 0 0]O que a polícia está fazendo!?![n]Apresse-se e prenda-os...[n][f 1 2 180][e]
@@ -1001,7 +1001,7 @@
 [s][vp 9 2 65535 40802 0 0]É assustador que tantos[n]sejam enganados por phishing[n]hoje em dia...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_01_ [Editor de jornal]]
-[s][vp 9 2 65535 42204 0 0]Cartas de desafio de[n]Phantom Thieves foram[n]vistas em Shibuya![n][f 1 2 180][e]
+[s][vp 9 2 65535 42204 0 0]Cartas de Aviso de[n]Phantom Thieves foram[n]vistas em Shibuya![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_02_ [Editor de jornal]]
 [s]0[n][f 1 2 180][e]
@@ -1013,7 +1013,7 @@
 [s][vp 9 2 65535 40505 0 0]Quem é esse Kaneshiro que eles[n]alvo agora?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_05_ [Editor de jornal]]
-[s][vp 9 2 65535 39255 0 0]É verdade que eles encontraram[n]outra carta de aviso[n]dos Phantom Thieves?[n][f 1 2 180][e]
+[s][vp 9 2 65535 39255 0 0]É verdade que eles encontraram[n]outra Carta de Aviso[n]dos Phantom Thieves?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_011_01_ [Editor de jornal]]
 [s][vp 9 2 65535 42256 0 0]Parece que os Phantom Thieves[n]acabaram com aquela[n]rede criminosa...[n][f 1 2 180][e]
@@ -1187,7 +1187,7 @@
 [s][vp 9 2 65535 42650 0 0]Faça-o se ajoelhar[n]e implorar![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_021_05_ [Editor de jornal]]
-[s][vp 9 2 65535 42403 0 0]Eu esperava que eles enviassem uma carta de[n]desafio! Mal posso esperar para ver o que[n]acontece a seguir![n][f 1 2 180][e]
+[s][vp 9 2 65535 42403 0 0]Eu esperava que eles enviassem uma Carta de[n]Aviso! Mal posso esperar para ver o que[n]acontece a seguir![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_022_01_ [Editor de jornal]]
 [s][vp 9 2 65535 43057 0 0]Foi chocante assistir à[n]conferência de imprensa[n]do Presidente Okumura…[n][f 1 2 180][e]
@@ -1789,12 +1789,12 @@
 [s][vp 8 2 1 0 600 0]Não! É idêntico ao[n]recebido de Kamoshida...[n][w][e]
 
 [msg Quest10_target_01_02 [Kuroko Hara]]
-[s][f 4 23 1 601 3 10 0 0][vp 8 2 1 0 601 0]É uma carta de aviso ou como quer que se chame![n]Que diabos? Por que enviar para mim?[n][w][e]
+[s][f 4 23 1 601 3 10 0 0][vp 8 2 1 0 601 0]É uma Carta de Aviso ou como quer que se chame![n]Que diabos? Por que enviar para mim?[n][w][e]
 [s][vp 8 2 1 0 601 0]Devem ser os mesmos que[n]escreveram aquelas mentiras sobre mim[n]no banheiro. Você tem que me ajudar![n][w][e]
 [s][vp 8 2 1 0 601 0]Se você não...[n]eu...eu vou ficar com muito medo[n]até mesmo de vir para a escola![n][w][e]
 
 [msg Quest10_target_sinjyo_01]
-[s]Parece que a carta de contestação[n]foi entregue com sucesso.[n][w][e]
+[s]Parece que a Carta de Aviso[n]foi entregue com sucesso.[n][w][e]
 
 [msg Quest10_target_02_00 [Kuroko Hara]]
 [s][f 4 23 1 601 3 10 0 0][vp 8 2 1 0 601 0]Olha... hum... eu... menti para você todo esse[n]tempo.[n][w][e]

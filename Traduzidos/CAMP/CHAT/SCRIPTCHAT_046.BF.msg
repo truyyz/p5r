@@ -1,5 +1,5 @@
 [msg MSG_000_0_0 [Ryuji]]
-[s][f 5 14]carta de aviso pronta![n][w][e]
+[s][f 5 14]Carta de Aviso pronta![n][w][e]
 
 [msg MSG_001_0_0 [Ann]]
 [s][f 5 14]Você era um estilhaço![n][w][e]

@@ -79,7 +79,7 @@
 [s][bup 0 10 2 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu sei que você provavelmente fez[n]agendamento, mas pelo menos pense nisso.[n][w][e]
 
 [msg MSG_C02_BEGIN_D09_50_00 [Sumire]]
-[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][f 4 23 1 222 3 10 0 10][vp 8 2 1 0 65535 0]Agora que encontramos nosso caminho[n]para o Tesouro, precisamos enviar[n]carta de aviso, certo?[n][w][e]
+[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][f 4 23 1 222 3 10 0 10][vp 8 2 1 0 65535 0]Agora que encontramos nosso caminho[n]para o Tesouro, precisamos enviar[n]Carta de Aviso, certo?[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Não tenho certeza de como funciona.[n]Vejo você no Leblanc primeiro?[n][w][e]
 
 [sel SEL_C02_ACTION_D09_50_00 top]

@@ -272,7 +272,7 @@
 [s]Tentamos nos preparar adequadamente,[n]para que possamos concluir o trabalho[n]com a próxima remessa.[n][w][e]
 
 [msg DNG_ADVANCE_100_01_PC03_ [Morgana]]
-[s][bup 0 3 1 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1181 65535 0]O caminho para o Tesouro está finalmente livre![n]Agora é só enviar a carta de contestação.[n][w][e]
+[s][bup 0 3 1 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1181 65535 0]O caminho para o Tesouro está finalmente livre![n]Agora é só enviar a Carta de Aviso.[n][w][e]
 
 [msg DNG_ADVANCE_Re_100_01_PC [Ryuji]]
 [s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7023 65535 0]Ok, eu estava ansioso por isso![n]A propósito, quando enviamos?[n][w][e]
@@ -295,7 +295,7 @@
 [s]Bem, deixe-me saber quando nos encontrarmos[n]novamente no ponto de encontro. Estou contando[n]com você, Joker![n][w][e]
 
 [msg DNG_ADVANCE_Re_100_01_PC_6 [Haru]]
-[s][bup 0 7 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 3193 65535 0]Então a verdadeira batalha começa[n]com o envio da carta de aviso.[n]É estressante só de pensar nisso…[n][w][e]
+[s][bup 0 7 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 3193 65535 0]Então a verdadeira batalha começa[n]com o envio da Carta de Aviso.[n]É estressante só de pensar nisso…[n][w][e]
 [s][bup 0 7 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Vamos nos preparar bem, então,[n]assim podemos ter certeza de[n]não falhar![n][w][e]
 
 [msg DNG_ADVANCE_Re_100_01_PC_7 [Akechi]]
@@ -307,7 +307,7 @@
 [s]Vou tentar estar na melhor forma[n]para a próxima partida.[n]Deixe-me ouvi-lo, Joker-senpai.[n][w][e]
 
 [msg DNG_ADVANCE_100_EX_PC03_ [Morgana]]
-[s][bup 0 3 1 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1181 65535 0]A verdadeira batalha começará assim que a carta de aviso for enviada.[n]Você escolhe quando, Joker.[n][w][e]
+[s][bup 0 3 1 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1181 65535 0]A verdadeira batalha começará assim que a Carta de Aviso for enviada.[n]Você escolhe quando, Joker.[n][w][e]
 
 [msg DNG_ADVANCE_Re_DayFew_01 [Ryuji]]
 [s][bup 0 2 105 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7156 65535 0]Mas o tempo está acabando...[n]Tem certeza que está tudo bem?[n][w][e]

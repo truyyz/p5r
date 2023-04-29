@@ -1613,7 +1613,7 @@
 
 [sel SEL_487_0_0 top]
 [s]Você comete um crime.[e]
-[s]Peça a carta de aviso.[e]
+[s]Peça a Carta de Aviso.[e]
 [s]É impossível.[e]
 
 [msg MSG_488_0_0 [Mulher maquiada em traje]]
@@ -1860,7 +1860,7 @@
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Entendido! O que devo fazer?[n][f 1 3 65535][w][e]
 
 [sel SEL_565_0_0 top]
-[s]Escreva uma carta de aviso.[e]
+[s]Escreva uma Carta de Aviso.[e]
 [s]Espere, eu reconsiderei.[e]
 
 [msg MSG_566_0_0 [Ryuji]]
@@ -1941,7 +1941,7 @@
 [s][vp 8 0 0 0 65535 0]Nós cumpriremos esta[n]missão, então fique atento.[n]Assinado, os Phantom Thieves.[n][f 1 3 65535][w][e]
 
 [msg MSG_589_0_0 [Mulher maquiada em traje]]
-[s][vp 8 0 0 0 65535 0]Hahahaha, isso deveria ser[n]uma carta de aviso?[n]Que ideia maluca![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Hahahaha, isso deveria ser[n]uma Carta de Aviso?[n]Que ideia maluca![n][f 1 3 65535][w][e]
 
 [msg MSG_590_0_0 [Mulher sofisticada em traje]]
 [s][vp 8 0 0 0 65535 0]Sim, se nada mais você é original.[n]Com esse talento, você poderia[n]até ser um deles![n][f 1 3 65535][w][e]

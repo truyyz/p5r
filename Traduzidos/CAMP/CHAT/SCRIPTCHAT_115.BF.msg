@@ -8,7 +8,7 @@
 [s][f 5 14]Devemos detalhar os passos[n]a serem tomados.[n][w][e]
 
 [msg MSG_003_0_0 [Akechi]]
-[s][f 5 14]Não há necessidade. Primeiro encontramos[n]a maneira de nos infiltrar, depois[n]enviamos a carta de aviso. Correto?[n][w][e]
+[s][f 5 14]Não há necessidade. Primeiro encontramos[n]a maneira de nos infiltrar, depois[n]enviamos a Carta de Aviso. Correto?[n][w][e]
 
 [msg MSG_004_0_0 [Akechi]]
 [s][f 5 14]Ao fazer isso, o núcleo distorcido[n]de desejos do[n]senhor do Palácio assumirá forma física.[n][w][e]

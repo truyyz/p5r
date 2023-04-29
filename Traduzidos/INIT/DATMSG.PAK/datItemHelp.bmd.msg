@@ -740,7 +740,7 @@
 [s]Um jogo de golfe retrô.[n]Jogá-lo pode[n]aumentar sua proficiência no golfe.[n][e]
 
 [msg Item_0F7]
-[s]Um cartão postal que se parece com[n]uma carta de aviso.[n]Envie para um ente querido.[n][e]
+[s]Um cartão postal que se parece com[n]uma Carta de Aviso.[n]Envie para um ente querido.[n][e]
 
 [msg Item_0F8]
 [s]Cura todas as habilidades não especiais[n]negativas[n]de um aliado.[n][e]

@@ -66,13 +66,13 @@
 [s][vp 9 2 65535 43161 0 0]É preciso coragem para arranjar[n]lutas com Kamoshida.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_004_02_]
-[s][vp 9 2 65535 37555 0 0]É uma "carta de aviso".[n]Aparentemente, eles querem que ele[n]confesse todos os seus crimes.[n][f 1 2 180][e]
+[s][vp 9 2 65535 37555 0 0]É uma "Carta de Aviso".[n]Aparentemente, eles querem que ele[n]confesse todos os seus crimes.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_004_03_]
 [s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_004_04_]
-[s][vp 9 2 65535 46355 0 0]O que é uma carta de aviso?[n]Algum tipo de piada?[n][f 1 2 180][e]
+[s][vp 9 2 65535 46355 0 0]O que é uma Carta de Aviso?[n]Algum tipo de piada?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_004_05_]
 [s][vp 9 2 65535 42213 0 0]Que tipo de pessoa[n]se voltaria contra Kamoshida...?[n][f 1 2 180][e]
@@ -81,7 +81,7 @@
 [s][vp 9 2 65535 39255 0 0]Certamente será a piada[n]de alguém com inveja do[n]Prof. Kamoshida...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_005_01_]
-[s][vp 9 2 65535 39455 0 0]É apenas uma coincidência, não é?[n]Essa carta de aviso[n]não tem nada a ver com isso.[n][f 1 2 180][e]
+[s][vp 9 2 65535 39455 0 0]É apenas uma coincidência, não é?[n]Essa Carta de Aviso[n]não tem nada a ver com isso.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_005_02_]
 [s][vp 9 2 65535 39053 0 0]Ele realmente cometeu todas aquelas[n]atrocidades? Oh meu Deus, Kamoshida[n]acabou.[n][f 1 2 180][e]
@@ -171,22 +171,22 @@
 [s][vp 9 2 65535 43255 0 0]É verdade que existe uma rede criminosa muito[n]perigosa em Shibuya?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_01_]
-[s][vp 9 2 65535 37854 0 0]A carta de aviso para Madarame[n]foi semelhante à enviada[n]para Kamoshida...[n][f 1 2 180][e]
+[s][vp 9 2 65535 37854 0 0]A Carta de Aviso para Madarame[n]foi semelhante à enviada[n]para Kamoshida...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_02_]
-[s][vp 9 2 65535 39104 0 0]Alguns Phantom Thieves[n]entregaram uma carta de aviso[n]mesmo na exposição Madarame, certo?[n][f 1 2 180][e]
+[s][vp 9 2 65535 39104 0 0]Alguns Phantom Thieves[n]entregaram uma Carta de Aviso[n]mesmo na exposição Madarame, certo?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_03_]
 [s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_04_]
-[s][vp 9 2 65535 42754 0 0]É verdade que Madarame[n]também recebeu uma carta de aviso[n]dos Phantom Thieves?[n][f 1 2 180][e]
+[s][vp 9 2 65535 42754 0 0]É verdade que Madarame[n]também recebeu uma Carta de Aviso[n]dos Phantom Thieves?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_05_]
 [s][vp 9 2 65535 39505 0 0]Os Phantom Thieves de novo? Mas não era só uma[n]piada?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_06_]
-[s][vp 9 2 65535 43305 0 0]Então aquela carta de aviso para[n]Kamoshida não era brincadeira...[n][f 1 2 180][e]
+[s][vp 9 2 65535 43305 0 0]Então aquela Carta de Aviso para[n]Kamoshida não era brincadeira...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_009_01_]
 [s][vp 9 2 65535 44602 0 0]Existem alunos não-[n]Shujin que foram enganados,[n]verdade?[n][f 1 2 180][e]
@@ -207,22 +207,22 @@
 [s][vp 9 2 65535 43352 0 0]Há tantas[n]chantagens e golpes acontecendo?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_01_]
-[s][vp 9 2 65535 42554 0 0]Li online que outra carta de aviso foi[n]enviada...[n][f 1 2 180][e]
+[s][vp 9 2 65535 42554 0 0]Li online que outra Carta de Aviso foi[n]enviada...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_02_]
-[s][vp 9 2 65535 42104 0 0]Você lê postagens online? Os[n]Phantom Thieves enviaram[n]outra carta de aviso![n][f 1 2 180][e]
+[s][vp 9 2 65535 42104 0 0]Você lê postagens online? Os[n]Phantom Thieves enviaram[n]outra Carta de Aviso![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_03_]
 [s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_04_]
-[s][vp 9 2 65535 42154 0 0]Parece que[n]outra carta de aviso foi entregue! E desta[n]vez o destinatário é a máfia![n][f 1 2 180][e]
+[s][vp 9 2 65535 42154 0 0]Parece que[n]outra Carta de Aviso foi entregue! E desta[n]vez o destinatário é a máfia![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_05_]
-[s][vp 9 2 65535 39755 0 0]É verdade que os Phantom Thieves[n]enviaram uma carta de aviso[n]para um cara chamado Kaneshiro!?![n][f 1 2 180][e]
+[s][vp 9 2 65535 39755 0 0]É verdade que os Phantom Thieves[n]enviaram uma Carta de Aviso[n]para um cara chamado Kaneshiro!?![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_06_]
-[s][vp 9 2 65535 42804 0 0]Você viu as postagens online?[n]Outra carta de aviso de[n]Phantom Thieves apareceu![n][f 1 2 180][e]
+[s][vp 9 2 65535 42804 0 0]Você viu as postagens online?[n]Outra Carta de Aviso de[n]Phantom Thieves apareceu![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_011_01_]
 [s][vp 9 2 65535 42704 0 0]Os Phantom Thieves despertaram[n]os corações desses golpistas, não é[n]isso!?![n][f 1 2 180][e]
@@ -420,7 +420,7 @@
 [s][vp 9 2 65535 46150 0 0]Adultos corruptos merecem[n]ser arruinados pelos Phantom Thieves![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_021_06_]
-[s][vp 9 2 65535 38303 0 0]Eu esperei ansiosamente outra[n]carta de aviso! Ansioso[n]pelo pedido de desculpas de Okumura![n][f 1 2 180][e]
+[s][vp 9 2 65535 38303 0 0]Eu esperei ansiosamente outra[n]Carta de Aviso! Ansioso[n]pelo pedido de desculpas de Okumura![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_022_01_]
 [s][vp 9 2 65535 38402 0 0]Foi terrível... Parecia[n]uma execução pública.[n][f 1 2 180][e]

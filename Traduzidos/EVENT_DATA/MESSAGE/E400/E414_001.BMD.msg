@@ -1,5 +1,5 @@
 [msg MSG_000_0_0 [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]Finalmente aqui estamos nós! Então,[n]o que decidimos para[n]a carta de aviso?[n][f 1 3 65535][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]Finalmente aqui estamos nós! Então,[n]o que decidimos para[n]a Carta de Aviso?[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]Seria inútil enviá-lo[n]para o Palácio della Diete.[n][f 1 3 65535][w][e]

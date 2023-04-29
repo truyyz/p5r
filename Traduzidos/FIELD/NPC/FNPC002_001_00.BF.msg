@@ -53,7 +53,7 @@
 [s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Ouça com atenção, seu gordo de merda.[n]Você não quer me irritar![n][w][e]
 
 [msg MSG_quest03_morgana_01 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Eu diria que temos nosso[n]objetivo. Hora de discutir[n]um plano no Hangout![n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Eu diria que temos nosso[n]objetivo. Hora de discutir[n]um plano no Esconderijo![n][w][e]
 
 [msg HELP_MEMENTOS_MISSION_01 [Missão disponível!]]
 [s][clr 4]Conflito de lembrança[clr 27]"[n]O alvo foi identificado.[n]Discuta os detalhes com a[n]equipe no "[clr 2]esconderijo[clr 27]".[n][w][e]
@@ -186,10 +186,10 @@
 [s][vp 9 2 65535 42204 0 0]Você viu essa mensagem?[n]Kamoshida é[n]realmente culpado?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_004_02_ [Mulher com um quarto]]
-[s][vp 9 2 65535 42653 0 0]Ah, você diz a carta de[n]desafio no quadro de avisos?[n]A buzina![n][f 1 2 180][e]
+[s][vp 9 2 65535 42653 0 0]Ah, você diz a Carta de[n]Aviso no quadro de avisos?[n]A buzina![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_004_03_ [Mulher com um quarto]]
-[s][vp 9 2 65535 42154 0 0]Uma carta de aviso dos[n]Phantom Thieves?[n]Muito engraçado![n][f 1 2 180][e]
+[s][vp 9 2 65535 42154 0 0]Uma Carta de Aviso dos[n]Phantom Thieves?[n]Muito engraçado![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_004_04_ [Mulher com um quarto]]
 [s]0[n][f 1 2 180][e]
@@ -258,7 +258,7 @@
 [s][vp 9 2 65535 42655 0 0]Existem realmente pessoas como os Phantom Thieves?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_02_ [Mulher com um quarto]]
-[s][vp 9 2 65535 40554 0 0]Houve uma carta[n]de desafio antes mesmo da[n]palestra de Madarame?[n][f 1 2 180][e]
+[s][vp 9 2 65535 40554 0 0]Houve uma Carta[n]de Aviso antes mesmo da[n]palestra de Madarame?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_03_ [Mulher com um quarto]]
 [s][vp 9 2 65535 42454 0 0]Parece que a conferência de[n]desculpas é devida apenas[n]aos Phantom Thieves.[n][f 1 2 180][e]
@@ -279,7 +279,7 @@
 [s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_01_ [Mulher com um quarto]]
-[s][vp 9 2 65535 42705 0 0]Os Phantom Thieves[n]enviaram outra[n]carta de aviso...[n][f 1 2 180][e]
+[s][vp 9 2 65535 42705 0 0]Os Phantom Thieves[n]enviaram outra[n]Carta de Aviso...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_02_ [Mulher com um quarto]]
 [s][vp 9 2 65535 42203 0 0]Eu sei de cartas de desafio[n]postas por toda Shibuya![n][f 1 2 180][e]
@@ -1005,7 +1005,7 @@
 [s][vp 9 2 65535 37701 0 0]Ele parecia simpático e[n]ele era um verdadeiro cavalheiro.[n]Ele me enganou também.[n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_117 [Mulher com um quarto]]
-[s][vp 9 2 65535 37801 0 0]É verdade que[n]uma carta de contestação estava envolvida?[n][f 1 2 180][e]
+[s][vp 9 2 65535 37801 0 0]É verdade que[n]uma Carta de Aviso estava envolvida?[n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_118 [Mulher com um quarto]]
 [s][vp 9 2 65535 37902 0 0]Patético. Um homem grande[n]pesado chorando[n]assim.[n][f 1 2 180][e]
@@ -1098,10 +1098,10 @@
 [s][vp 9 2 65535 37655 0 0]É só uma brincadeira, não é?[n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_148 [Mulher com um quarto]]
-[s][vp 9 2 65535 37705 0 0]Seria interessante se essa[n]carta de aviso fosse verdadeira...[n][f 1 2 180][e]
+[s][vp 9 2 65535 37705 0 0]Seria interessante se essa[n]Carta de Aviso fosse verdadeira...[n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_149 [Mulher com um quarto]]
-[s][vp 9 2 65535 37805 0 0]Essa carta de aviso[n]é apenas uma farsa da internet,[n]certo?[n][f 1 2 180][e]
+[s][vp 9 2 65535 37805 0 0]Essa Carta de Aviso[n]é apenas uma farsa da internet,[n]certo?[n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_150 [Mulher com um quarto]]
 [s][vp 9 2 65535 37905 0 0]É impossível que Phantom[n]Thievess realmente existam![n][f 1 2 180][e]
@@ -1116,10 +1116,10 @@
 [s][vp 9 2 65535 38154 0 0]Aparentemente, eles estão postados[n]por toda a cidade.[n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_154 [Mulher com um quarto]]
-[s][vp 9 2 65535 38205 0 0]Cartas de desafio de[n]Phantom Thieves? Mas[n]do que você está falando?[n][f 1 2 180][e]
+[s][vp 9 2 65535 38205 0 0]Cartas de Aviso de[n]Phantom Thieves? Mas[n]do que você está falando?[n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_155 [Mulher com um quarto]]
-[s][vp 9 2 65535 38254 0 0]Seria interessante se essa[n]carta de aviso fosse verdadeira...[n][f 1 2 180][e]
+[s][vp 9 2 65535 38254 0 0]Seria interessante se essa[n]Carta de Aviso fosse verdadeira...[n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_156 [Mulher com um quarto]]
 [s][vp 9 2 65535 38355 0 0]Espere, quem é Kaneshiro?[n][f 1 2 180][e]
@@ -1185,7 +1185,7 @@
 [s][vp 9 2 65535 38654 0 0]Desmantelaram[n]aquela quadrilha de golpistas![n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_177 [Mulher com um quarto]]
-[s][vp 9 2 65535 37506 0 0]A carta de aviso era real![n][f 1 2 180][e]
+[s][vp 9 2 65535 37506 0 0]A Carta de Aviso era real![n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_178 [Mulher com um quarto]]
 [s][vp 9 2 65535 37556 0 0]Seria incrível se[n]eles fossem realmente os[n]Phantom Thieves![n][f 1 2 180][e]
@@ -1197,13 +1197,13 @@
 [s][vp 9 2 65535 37704 0 0]Você viu a notícia? Aparentemente foram[n]os Phantom Thieves![n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_181 [Mulher com um quarto]]
-[s][vp 9 2 65535 37850 0 0]Então a[n]carta de aviso dos Phantom Thieves[n]não era uma piada![n][f 1 2 180][e]
+[s][vp 9 2 65535 37850 0 0]Então a[n]Carta de Aviso dos Phantom Thieves[n]não era uma piada![n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_182 [Mulher com um quarto]]
 [s][vp 9 2 65535 37904 0 0]Aparentemente, eles são alguns caras[n]que se autodenominam[n]Phantom Thieves.[n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_183 [Mulher com um quarto]]
-[s][vp 9 2 65535 37954 0 0]A carta de aviso[n]era real então![n][f 1 2 180][e]
+[s][vp 9 2 65535 37954 0 0]A Carta de Aviso[n]era real então![n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_184 [Mulher com um quarto]]
 [s][vp 9 2 65535 38050 0 0]De acordo com relatos da mídia,[n]os Phantom Thieves podem[n]estar envolvidos...[n][f 1 2 180][e]
@@ -1215,7 +1215,7 @@
 [s][vp 9 2 65535 38204 0 0]Aparentemente, eles são alguns caras[n]que se autodenominam[n]Phantom Thieves.[n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_187 [Mulher com um quarto]]
-[s][vp 9 2 65535 38254 0 0]As coisas correram[n]como ele esperava[n]a carta de aviso[n][f 1 2 180][e]
+[s][vp 9 2 65535 38254 0 0]As coisas correram[n]como ele esperava[n]a Carta de Aviso[n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_188 [Mulher com um quarto]]
 [s][vp 9 2 65535 38354 0 0]De acordo com relatos da mídia,[n]os Phantom Thieves podem[n]estar envolvidos...[n][f 1 2 180][e]
@@ -1449,7 +1449,7 @@
 [s][vp 9 2 65535 38056 0 0]Não temos nada a[n]temer, com Thieves[n]Phantom por aí![n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_265 [Mulher com um quarto]]
-[s][vp 9 2 65535 38156 0 0]Eu também gostaria de enviar[n]uma carta-desafio legal![n][f 1 2 180][e]
+[s][vp 9 2 65535 38156 0 0]Eu também gostaria de enviar[n]uma Carta de Aviso legal![n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_266 [Mulher com um quarto]]
 [s][vp 9 2 65535 38206 0 0]Os Phantom Thieves são incríveis![n][f 1 2 180][e]
@@ -1572,10 +1572,10 @@
 [s][vp 9 2 65535 37506 0 0]Então, Phantom Thieves![n]Pegue sua presa[n]e não pare![n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_306 [Mulher com um quarto]]
-[s][vp 9 2 65535 37553 0 0]Outra carta de aviso![n]Eu sabia...[n]É para Okumura![n][f 1 2 180][e]
+[s][vp 9 2 65535 37553 0 0]Outra Carta de Aviso![n]Eu sabia...[n]É para Okumura![n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_307 [Mulher com um quarto]]
-[s][vp 9 2 65535 37650 0 0]Eu estava ansioso por[n]uma carta de aviso dos Phantom Thieves![n][f 1 2 180][e]
+[s][vp 9 2 65535 37650 0 0]Eu estava ansioso por[n]uma Carta de Aviso dos Phantom Thieves![n][f 1 2 180][e]
 
 [msg MSG_GRT_SHIBUYA_main_All_308 [Mulher com um quarto]]
 [s][vp 9 2 65535 37701 0 0]Um bastardo ganancioso como[n]ele merece uma punição![n][f 1 2 180][e]

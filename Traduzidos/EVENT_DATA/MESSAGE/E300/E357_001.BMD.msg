@@ -11,7 +11,7 @@
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 8 7 301 1][vp 1 0 0 4 0 0]......![n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Sojiro]]
-[s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]É uma carta de aviso, não é?[n]Pesquisei na internet.[n][f 1 3 65535][w][e]
+[s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]É uma Carta de Aviso, não é?[n]Pesquisei na internet.[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Futaba]]
 [s][bup 0 8 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]V-Você entrou no meu quarto[n]sem permissão?[n][f 1 3 65535][w][e]
@@ -63,7 +63,7 @@
 [s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]Mas sério?[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Sojiro]]
-[s][bup 0 103 5 0 0][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Tô falando com o Futaba sabe...[n][f 1 3 65535][w][e]
+[s][bup 0 103 5 0 0][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Tô falando com a Futaba sabe...[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Sojiro]]
 [s][bup 0 103 2 0 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Vamos direto ao ponto.[n][f 1 3 65535][w][e]
@@ -146,7 +146,7 @@
 
 [msg MSG_041_0_0 [Sojiro]]
 [s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 0 0 56 65535 0]Eu tenho que te perguntar uma coisa,[n][f 4 2].[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 57 65535 0]Você sabia sobre a carta de aviso,[n]certo? Eu posso ver isso em seu rosto...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 57 65535 0]Você sabia sobre a Carta de Aviso,[n]certo? Eu posso ver isso em seu rosto...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 58 65535 0]Você sabia com certeza que os[n]Phantom Thieves haviam despertado[n]o coração de Futaba.[n][f 1 3 65535][w][e]
 
 [msg MSG_042_0_0 [Sojiro]]

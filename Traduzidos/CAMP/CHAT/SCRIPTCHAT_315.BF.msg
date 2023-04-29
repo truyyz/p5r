@@ -1,5 +1,5 @@
 [msg MSG_010_0_0 [Alibaba]]
-[s][f 5 14]Eu lhe dei uma carta de aviso e[n]disse o nome do alvo.[n]Você deve estar pronto para agir.[n][w][e]
+[s][f 5 14]Eu lhe dei uma Carta de Aviso e[n]disse o nome do alvo.[n]Você deve estar pronto para agir.[n][w][e]
 [s][f 5 14]Por que você não faz isso?[n][w][e]
 [s][f 5 14]Eu disse que vou ajudá-lo quando[n]você despertar o coração dela.[n]O que está prendendo você?[n][w][e]
 [s][f 5 14]Eu também disse que[n]revelaria sua[n]identidade à polícia se você não me ajudasse.[n][w][e]

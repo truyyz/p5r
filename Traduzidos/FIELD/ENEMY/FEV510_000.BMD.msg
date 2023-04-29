@@ -137,7 +137,7 @@
 [s]Rei! Alerta de intruso![n]Precisamos de reforços![n][f 1 2 65535][e]
 
 [msg MSG_STG01_MNLG_DEFEND_01_2]
-[s]Encontrei um intruso![n]O que devo fazer,[n]King Kamoshida?!?[n][f 1 2 65535][e]
+[s]Encontrei um intruso![n]O que devo fazer,[n]Rei Kamoshida?!?[n][f 1 2 65535][e]
 
 [msg MSG_STG01_MNLG_DEFEND_01_3]
 [s]Alteza, descobri[n]ladrões! Quais[n]são os pedidos?[n][f 1 2 65535][e]
@@ -347,7 +347,7 @@
 [s]Rei! Alerta de intruso![n]Precisamos de reforços![n][f 1 2 65535][e]
 
 [msg MSG_STG01_MNLG_DEFEND_02_2]
-[s]Encontrei um intruso![n]O que devo fazer,[n]King Kamoshida?!?[n][f 1 2 65535][e]
+[s]Encontrei um intruso![n]O que devo fazer,[n]Rei Kamoshida?!?[n][f 1 2 65535][e]
 
 [msg MSG_STG01_MNLG_DEFEND_02_3]
 [s]Alteza, descobri[n]ladrões! Quais[n]são os pedidos?[n][f 1 2 65535][e]

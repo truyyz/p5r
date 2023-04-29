@@ -525,7 +525,7 @@
 [s][f 4 23 1 32 3 10 0 0][vp 8 2 1 0 32 0]Minha anfitriã me contou sobre[n]um grupo chamado Phantom Thieves.[n]Você já ouviu falar deles?[n][w][e]
 
 [msg MSG_RISUTORAMAN_006_1_0 [Empregado honesto]]
-[s][f 4 23 1 31 3 10 0 0][vp 8 2 1 0 31 0]Sim, são os da "carta de aviso". Eles tiveram[n]um desentendimento com a yakuza.[n][w][e]
+[s][f 4 23 1 31 3 10 0 0][vp 8 2 1 0 31 0]Sim, são os da "Carta de Aviso". Eles tiveram[n]um desentendimento com a yakuza.[n][w][e]
 [s][vp 8 2 1 0 31 0]Eles parecem muito populares[n]entre os jovens, embora[n]eu não entenda o porquê.[n][w][e]
 
 [msg MSG_RISUTORAMAN_006_2_0 [Funcionário sênior]]
@@ -908,7 +908,7 @@
 
 [msg MSG_TEREBIKAMERA_012_0_0 [Repórter]]
 [s][f 4 23 1 37 6 5 8 10][vp 8 2 1 0 37 0]Diz-me tu...[n][w][e]
-[s][vp 8 2 1 0 37 0]O que você acha da carta de aviso[n]enviada pelos Phantom Thieves[n]ao Presidente Okumura?[n][w][e]
+[s][vp 8 2 1 0 37 0]O que você acha da Carta de Aviso[n]enviada pelos Phantom Thieves[n]ao Presidente Okumura?[n][w][e]
 
 [sel SEL_TEREBIKAMERA_012_0_0 top]
 [s]É um castigo justo.[e]
@@ -2088,7 +2088,7 @@
 [s][vp 9 2 65535 37701 0 0]Ele parecia simpático e[n]ele era um verdadeiro cavalheiro.[n]Ele me enganou também.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_006_05_ [Homem de olhos claros]]
-[s][vp 9 2 65535 37801 0 0]É verdade que[n]uma carta de contestação estava envolvida?[n][f 1 2 180][e]
+[s][vp 9 2 65535 37801 0 0]É verdade que[n]uma Carta de Aviso estava envolvida?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_006_06_ [Homem de olhos claros]]
 [s][vp 9 2 65535 37902 0 0]Patético. Um homem adulto[n]chorando assim.[n][f 1 2 180][e]
@@ -2181,10 +2181,10 @@
 [s][vp 9 2 65535 37655 0 0]É só uma brincadeira, não é?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_04_ [Homem de olhos claros]]
-[s][vp 9 2 65535 37705 0 0]Seria interessante se essa[n]carta de aviso fosse verdadeira...[n][f 1 2 180][e]
+[s][vp 9 2 65535 37705 0 0]Seria interessante se essa[n]Carta de Aviso fosse verdadeira...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_05_ [Homem de olhos claros]]
-[s][vp 9 2 65535 37805 0 0]Essa carta de aviso[n]é apenas uma farsa da internet,[n]certo?[n][f 1 2 180][e]
+[s][vp 9 2 65535 37805 0 0]Essa Carta de Aviso[n]é apenas uma farsa da internet,[n]certo?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_06_ [Homem de olhos claros]]
 [s][vp 9 2 65535 37905 0 0]É impossível que Phantom[n]Thievess realmente existam...[n][f 1 2 180][e]
@@ -2199,10 +2199,10 @@
 [s][vp 9 2 65535 38154 0 0]Aparentemente, existem[n]cartas de desafio espalhadas por toda Shibuya![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_10_ [Homem de olhos claros]]
-[s][vp 9 2 65535 38205 0 0]Cartas de desafio de[n]Phantom Thieves? Mas[n]do que você está falando?[n][f 1 2 180][e]
+[s][vp 9 2 65535 38205 0 0]Cartas de Aviso de[n]Phantom Thieves? Mas[n]do que você está falando?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_11_ [Homem de olhos claros]]
-[s][vp 9 2 65535 38254 0 0]Seria interessante se essa[n]carta de aviso fosse verdadeira...[n][f 1 2 180][e]
+[s][vp 9 2 65535 38254 0 0]Seria interessante se essa[n]Carta de Aviso fosse verdadeira...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_12_ [Homem de olhos claros]]
 [s][vp 9 2 65535 38355 0 0]Espere, quem é Kaneshiro?[n][f 1 2 180][e]
@@ -2268,7 +2268,7 @@
 [s][vp 9 2 65535 38654 0 0]Essa organização de[n]vigaristas foi[n]desmantelada![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_01_ [Homem de olhos claros]]
-[s][vp 9 2 65535 37506 0 0]A carta de aviso era real![n][f 1 2 180][e]
+[s][vp 9 2 65535 37506 0 0]A Carta de Aviso era real![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_02_ [Homem de olhos claros]]
 [s][vp 9 2 65535 37556 0 0]Seria incrível se[n]eles fossem realmente os[n]Phantom Thieves![n][f 1 2 180][e]
@@ -2280,13 +2280,13 @@
 [s][vp 9 2 65535 37704 0 0]Viu as notícias?[n]Parece que[n]os Phantom Thieves fizeram isso![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_05_ [Homem de olhos claros]]
-[s][vp 9 2 65535 37850 0 0]Então a[n]carta de aviso dos Phantom Thieves[n]não era uma piada![n][f 1 2 180][e]
+[s][vp 9 2 65535 37850 0 0]Então a[n]Carta de Aviso dos Phantom Thieves[n]não era uma piada![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_06_ [Homem de olhos claros]]
 [s][vp 9 2 65535 37904 0 0]Aparentemente, eles são alguns caras[n]que se autodenominam[n]Phantom Thieves.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_07_ [Homem de olhos claros]]
-[s][vp 9 2 65535 37954 0 0]A carta de aviso[n]era real então![n][f 1 2 180][e]
+[s][vp 9 2 65535 37954 0 0]A Carta de Aviso[n]era real então![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_08_ [Homem de olhos claros]]
 [s][vp 9 2 65535 38050 0 0]De acordo com relatos da mídia,[n]os Phantom Thieves podem[n]estar envolvidos...[n][f 1 2 180][e]
@@ -2298,7 +2298,7 @@
 [s][vp 9 2 65535 38204 0 0]Aparentemente, eles são alguns caras[n]que se autodenominam[n]Phantom Thieves.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_11_ [Homem de olhos claros]]
-[s][vp 9 2 65535 38254 0 0]As coisas correram[n]como esperado[n]a carta de aviso![n][f 1 2 180][e]
+[s][vp 9 2 65535 38254 0 0]As coisas correram[n]como esperado[n]a Carta de Aviso![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_12_ [Homem de olhos claros]]
 [s][vp 9 2 65535 38354 0 0]De acordo com relatos da mídia,[n]os Phantom Thieves podem[n]estar envolvidos...[n][f 1 2 180][e]
@@ -2532,7 +2532,7 @@
 [s][vp 9 2 65535 38056 0 0]Não temos nada a[n]temer, com Thieves[n]Phantom por aí![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_015_09_ [Homem de olhos claros]]
-[s][vp 9 2 65535 38156 0 0]Eu também gostaria de enviar[n]uma carta-desafio legal![n][f 1 2 180][e]
+[s][vp 9 2 65535 38156 0 0]Eu também gostaria de enviar[n]uma Carta de Aviso legal![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_015_10_ [Homem de olhos claros]]
 [s][vp 9 2 65535 38206 0 0]Os Phantom Thieves são incríveis![n][f 1 2 180][e]
@@ -2658,7 +2658,7 @@
 [s][vp 9 2 65535 37553 0 0]Outra carta desafio![n]Eu sabia... É para Okumura![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_018_03_ [Homem de olhos claros]]
-[s][vp 9 2 65535 37650 0 0]Eu estava ansioso por[n]uma carta de aviso dos Phantom Thieves![n][f 1 2 180][e]
+[s][vp 9 2 65535 37650 0 0]Eu estava ansioso por[n]uma Carta de Aviso dos Phantom Thieves![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_018_04_ [Homem de olhos claros]]
 [s][vp 9 2 65535 37701 0 0]Um bastardo ganancioso como[n]ele merece uma punição![n][f 1 2 180][e]
@@ -3998,7 +3998,7 @@
 [s][vp 8 2 1 0 606 0]Que ladrões deveriam roubar de mim[n]Fantasma, idiota?!?[n][w][e]
 
 [msg Quest23_target_sinjyo_01]
-[s][vp 8 2 65535 0 0 0]A carta de aviso foi[n]entregue com sucesso.[n]Vamos nos juntar aos Mementos.[n][w][e]
+[s][vp 8 2 65535 0 0 0]A Carta de Aviso foi[n]entregue com sucesso.[n]Vamos nos juntar aos Mementos.[n][w][e]
 
 [msg Quest23_target_02_00 [Menino sem fôlego]]
 [s][f 4 23 1 607 3 10 0 0][vp 8 2 1 0 607 0]*anf* *anf* Desculpe, demorei muito,[n]Hashisato-senpai. *anf* *anf* Você estava[n]procurando por mim?[n][w][e]
@@ -4048,11 +4048,11 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Blá. Deve ser o alvo.[n]Vamos discutir isso no esconderijo.[n][w][e]
 
 [msg Quest26_target_01_00 [Nene Otsubo]]
-[s][f 4 23 1 608 3 10 0 0][vp 8 2 1 0 608 0]O que é isto? Uma carta de aviso?[n]Sinistro. Eu tenho que relatar isso[n]ao meu pai.[n][w][e]
+[s][f 4 23 1 608 3 10 0 0][vp 8 2 1 0 608 0]O que é isto? Uma Carta de Aviso?[n]Sinistro. Eu tenho que relatar isso[n]ao meu pai.[n][w][e]
 [s][vp 8 2 1 0 608 0]Eu disse a ele que não quero[n]publicidade aqui. Muito trânsito nesta[n]villa. É hora de partir.[n][w][e]
 
 [msg Quest26_target_sinjyo_01]
-[s][vp 8 2 65535 0 0 0]A carta de aviso foi[n]entregue com sucesso.[n]Vamos nos juntar aos Mementos.[n][w][e]
+[s][vp 8 2 65535 0 0 0]A Carta de Aviso foi[n]entregue com sucesso.[n]Vamos nos juntar aos Mementos.[n][w][e]
 
 [msg Quest26_target_02_00 [Nene Otsubo]]
 [s][f 4 23 1 608 3 10 0 0][vp 8 2 1 0 608 0]Eu quero pedir desculpas. Deve ter sido[n]difícil receber adiantamentos[n]da filha do presidente.[n][w][e]

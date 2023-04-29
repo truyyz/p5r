@@ -26,7 +26,7 @@
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1156 65535 0]Você já sabe disso, mas a primeira coisa a fazer[n]é encontrar um caminho de infiltração seguro.[n][w][e]
 
 [msg D02_02_e200_110_mes02 [Ryuji]]
-[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Em seguida, enviaremos a carta de aviso.[n]Sim, sim, conhecemos o procedimento.[n]Enfim, vamos nos preparar![n][w][e]
+[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Em seguida, enviaremos a Carta de Aviso.[n]Sim, sim, conhecemos o procedimento.[n]Enfim, vamos nos preparar![n][w][e]
 
 [msg D02_04_e210_010_mes01 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 1 0 0]A propósito, Joker tem que decidir[n]quem fará parte do grupo[n]inicial.[n][w][e]

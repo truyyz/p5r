@@ -1721,7 +1721,7 @@
 [s]Você sabe, talvez eu pudesse levá-lo mais a[n]sério, se eu realmente pudesse derrotar o Rei[n]Kamoshida.[n][w][e]
 
 [msg TalkMsg_ED_bye_D01_02]
-[s]Se isso é o melhor que você pode fazer,[n]você também pode esquecer de desafiar[n]King Kamoshida.[n][w][e]
+[s]Se isso é o melhor que você pode fazer,[n]você também pode esquecer de desafiar[n]Rei Kamoshida.[n][w][e]
 
 [msg TalkMsg_ED_bye_D01_03]
 [s]Eu só queria que você soubesse[n]que o Rei Kamoshida...[n]Bem, isso é incrível.[n][w][e]

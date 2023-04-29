@@ -28,7 +28,7 @@
 [s][bup 0 2 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Estou brincando...[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Haru]]
-[s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Hum, devemos decidir para onde[n]enviar a carta de aviso...[n][f 1 3 65535][w][e]
+[s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Hum, devemos decidir para onde[n]enviar a Carta de Aviso...[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Ann]]
 [s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Considerando o tanto de hype que existe[n]em torno disso tudo, ele vai pensar[n]que é uma piada, certo?[n][f 1 3 65535][w][e]
@@ -48,7 +48,7 @@
 [s][bup 0 8 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Mas Makoto, é...[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Akechi]]
-[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Você é nosso líder, então você decide. Devemos[n]deixar a carta de aviso para Makoto?[n][f 1 3 65535][w][e]
+[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Você é nosso líder, então você decide. Devemos[n]deixar a Carta de Aviso para Makoto?[n][f 1 3 65535][w][e]
 
 [sel SEL_016_0_0 top]
 [s]Eu confio nela.[e]

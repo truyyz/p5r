@@ -44,7 +44,7 @@
 [s][bup 0 204 2 0 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Presumo que você tenha ouvido falar[n]sobre o incidente de Madarame...[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Eles dizem que havia uma carta de[n]desafio semelhante à usada no[n]caso do Prof. Kamoshida.[n][f 1 3 65535][w][e]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Eles dizem que havia uma Carta de[n]Aviso semelhante à usada no[n]caso do Prof. Kamoshida.[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Diretor]]
 [s][bup 0 204 2 0 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Quero acreditar que nada[n]isso tem a ver[n]com nossos alunos.[n][f 1 3 65535][w][e]

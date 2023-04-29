@@ -1,5 +1,5 @@
 [msg MSG_000_0_0 [Shinya]]
-[s][bup 0 110 0 0 0][f 4 10 65535 0 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 110 7 300 65535][vp 8 2 0 17029 65535 0]Outra carta de aviso?[n][f 1 3 65535][w][e]
+[s][bup 0 110 0 0 0][f 4 10 65535 0 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 110 7 300 65535][vp 8 2 0 17029 65535 0]Outra Carta de Aviso?[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Shinya]]
 [s][bup 0 110 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]"Hanae Oda"...[n][f 1 3 65535][w][e]
@@ -87,7 +87,7 @@
 [s][bup 0 110 4 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 17 15 1010][f 4 1]-san...[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Shinya]]
-[s][bup 0 110 0 0 0][f 4 10 65535 0 0][vp 8 2 0 17085 65535 0]Ok, vou te dar a carta de aviso.[n][f 1 3 65535][w][e]
+[s][bup 0 110 0 0 0][f 4 10 65535 0 0][vp 8 2 0 17085 65535 0]Ok, vou te dar a Carta de Aviso.[n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Shinya]]
 [s][bup 0 110 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Afinal, ela é minha mãe.[n]Eu realmente quero ajudá-la![n][f 1 3 65535][w][e]

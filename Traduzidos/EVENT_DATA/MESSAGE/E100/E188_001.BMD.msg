@@ -68,7 +68,7 @@
 
 [msg MSG_021_0_0 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 27 65535 0]Eu não quis ofender. Muitos[n]alunos estão chocados com o que[n]aconteceu com o Prof. Kamoshida.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 28 65535 0]E os rumores sobre aquela[n]bizarra carta de aviso[n]não param.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 28 65535 0]E os rumores sobre aquela[n]bizarra Carta de Aviso[n]não param.[n][f 1 3 65535][w][e]
 
 [msg MSG_022_0_0 [Ann]]
 [s][bup 0 4 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 29 65535 0]Eu não pensei que alguém como você[n]se importaria com essa[n]porcaria indecente, Niijima-senpai.[n][f 1 3 65535][w][e]

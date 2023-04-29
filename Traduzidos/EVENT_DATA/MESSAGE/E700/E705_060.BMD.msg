@@ -62,7 +62,7 @@
 
 [msg MSG_010_0_0 [Velho alegre]]
 [s][vp 8 0 0 0 65535 0]Resumindo, no final temos um[n]"pai" que não deixa ela ir[n]à escola e um bandido em casa...[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]Não parece o ambiente mais ideal[n]para o Futaba, não é?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Não parece o ambiente mais ideal[n]para a Futaba, não é?[n][f 1 3 65535][w][e]
 
 [sel SEL_011_0_0 top]
 [s]Ele está errado.[e]
@@ -156,7 +156,7 @@
 [s][bup 0 103 5 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 6 5 1003]Obrigado. Eu nunca[n]pensei que um dia seria você para me confortar.[n][f 1 3 65535][w][e]
 
 [msg MSG_036_0_0 [Sojiro]]
-[s][bup 0 103 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Seria fácil para mim, mas...[n]para o Futaba? Não sei. A família[n]não pode ser escolhida.[n][f 1 3 65535][w][e]
+[s][bup 0 103 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Seria fácil para mim, mas...[n]para a Futaba? Não sei. A família[n]não pode ser escolhida.[n][f 1 3 65535][w][e]
 
 [msg MSG_037_0_0 [Sojiro]]
 [s][bup 0 103 5 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]De qualquer forma, é minha culpa que Futaba[n]ficou trancada em seu quarto.[n][f 1 3 65535][w][e]

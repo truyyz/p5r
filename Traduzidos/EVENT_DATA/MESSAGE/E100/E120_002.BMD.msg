@@ -5,7 +5,7 @@
 
 [msg MSG_001_0_0 [Sae]]
 [s][bup 0 105 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]Preciso que você continue[n]a história.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]O homem que recebeu uma "carta de aviso"[n] dos Phantom Thieves[n]foi um medalhista olímpico...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]O homem que recebeu uma "Carta de Aviso"[n] dos Phantom Thieves[n]foi um medalhista olímpico...[n][f 1 3 65535][w][e]
 
 [msg MSG_001_5_0 [Sae]]
 [s][bup 0 105 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Um ex-aluno da Shujin Academy:[n]Professor de educação física[n]Suguru Kamoshida.[n][f 1 3 65535][w][e]

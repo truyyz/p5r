@@ -42,11 +42,11 @@
 [s][vp 8 2 1 0 11 0]Se é disso que eles precisam,[n]eu irei. Eu serei esse herói.[n]Só eu posso fazer isso![n][w][e]
 
 [msg MSG_AKOGAREDANSI_002_0_0 [Aluno dos sonhos]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Você viu aquela carta de aviso super legal?[n][w][e]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Você viu aquela Carta de Aviso super legal?[n][w][e]
 
 [sel SEL_AKOGAREDANSI_002_0_0 top]
 [s]muito legal?[e]
-[s]carta de aviso?[e]
+[s]Carta de Aviso?[e]
 
 [msg MSG_AKOGAREDANSI_002_1_0 [Aluno dos sonhos]]
 [s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Eheh, eu entendo que não é fácil de entender.[n]Heróis são de outra categoria...[n][w][e]
@@ -151,10 +151,10 @@
 [s]Deles?[e]
 
 [msg MSG_AKOGAREDANSI_007_1_0 [Aluno dos sonhos]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]A carta de contestação foi enviada[n]para aquela organização criminosa,[n]mas eu não pensei...[n][w][e]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]A Carta de Aviso foi enviada[n]para aquela organização criminosa,[n]mas eu não pensei...[n][w][e]
 
 [msg MSG_AKOGAREDANSI_007_2_0 [Aluno dos sonhos]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Você sabe, aquela[n]organização criminosa. Você não viu a[n]carta de aviso...[n][w][e]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Você sabe, aquela[n]organização criminosa. Você não viu a[n]Carta de Aviso...[n][w][e]
 
 [msg MSG_AKOGAREDANSI_007_3_0 [Aluno dos sonhos]]
 [s][vp 8 2 1 0 11 0]...Oh não. Falei demais. Para[n]sua segurança, não posso arriscar[n]divulgar mais nenhuma informação secreta.[n][w][e]
@@ -224,7 +224,7 @@
 [s][vp 8 2 1 0 11 0]Sim, este é um teste do destino.[n]Farei de tudo para honrar a[n]confiança depositada em mim![n][w][e]
 
 [msg MSG_AKOGAREDANSI_011_0_0 [Aluno dos sonhos]]
-[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Você viu a carta de aviso?[n]O próximo alvo é Okumura, o[n]chefe de uma empresa corrupta.[n][w][e]
+[s][f 4 23 1 11 3 10 0 0][vp 8 2 1 0 11 0]Você viu a Carta de Aviso?[n]O próximo alvo é Okumura, o[n]chefe de uma empresa corrupta.[n][w][e]
 [s][vp 8 2 1 0 11 0]Dizem que sua filha frequenta o[n]Shujin, mas não posso vacilar.[n]O mal deve ser derrotado.[n][w][e]
 
 [sel SEL_AKOGAREDANSI_011_0_0 top]
@@ -408,7 +408,7 @@
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]O time de vôlei está de férias[n]e a academia é gratuita. Podemos[n]fazer exercício sempre que quisermos![n][w][e]
 
 [msg MSG_UNDOUBUIN_003_1_0 [Jogador de futebol abrupto]]
-[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Mas como eu treino?[n]Muita agitação para a tentativa[n]suicídio e a carta-desafio.[n][w][e]
+[s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Mas como eu treino?[n]Muita agitação para a tentativa[n]suicídio e a Carta de Aviso.[n][w][e]
 
 [msg MSG_UNDOUBUIN_003_2_0 [Jogador de basquete na mão]]
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]O que há com essa coisa de "confessar seus[n]crimes"? Ele realmente puniu corporativamente[n]seus alunos?[n][w][e]
@@ -491,7 +491,7 @@
 [s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Do que você está falando?[n]Foi um bom jogo![n]Você é o vencedor espiritual![n][w][e]
 
 [msg MSG_UNDOUBUIN_009_0_0 [Jogador de basquete na mão]]
-[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Há muita agitação no site[n]Phantom Thieves agora que eles[n]enviaram outra carta de aviso.[n][w][e]
+[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Há muita agitação no site[n]Phantom Thieves agora que eles[n]enviaram outra Carta de Aviso.[n][w][e]
 [s][vp 8 2 1 0 7 0]Estive acordado lendo todos[n]os posts e agora estou morrendo de sono.[n]Não estou com vontade de treinar...[n][w][e]
 
 [msg MSG_UNDOUBUIN_009_1_0 [Jogador de futebol abrupto]]
@@ -549,7 +549,7 @@
 [s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Sim. Isso justificaria o fato de que[n]não conseguimos encontrar[n]recrutas decentes ou vencer metade do jogo.[n][w][e]
 
 [msg MSG_UNDOUBUIN_014_0_0 [Jogador de basquete na mão]]
-[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Nada é mencionado, exceto o Thieves[n]Phantom. A nova carta-desafio[n]veio para uma grande empresa, né?[n][w][e]
+[s][f 4 23 1 7 3 10 0 0][vp 8 2 1 0 7 0]Nada é mencionado, exceto o Thieves[n]Phantom. A nova Carta de Aviso[n]veio para uma grande empresa, né?[n][w][e]
 
 [msg MSG_UNDOUBUIN_014_1_0 [Jogador de futebol abrupto]]
 [s][f 4 23 1 6 3 10 0 0][vp 8 2 1 0 6 0]Ouvi dizer que o presidente[n]daquela empresa é o pai de Okumura-senpai.[n][w][e]
@@ -720,13 +720,13 @@
 [s][vp 9 2 65535 43161 0 0]É preciso coragem para arranjar[n]lutas com Kamoshida.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_004_02_ [Morgana]]
-[s][vp 9 2 65535 37555 0 0]É uma "carta de aviso".[n]Aparentemente, eles querem que ele[n]confesse todos os seus crimes.[n][f 1 2 180][e]
+[s][vp 9 2 65535 37555 0 0]É uma "Carta de Aviso".[n]Aparentemente, eles querem que ele[n]confesse todos os seus crimes.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_004_03_ [Morgana]]
 [s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_004_04_ [Morgana]]
-[s][vp 9 2 65535 46355 0 0]O que é uma carta de aviso?[n]Algum tipo de piada?[n][f 1 2 180][e]
+[s][vp 9 2 65535 46355 0 0]O que é uma Carta de Aviso?[n]Algum tipo de piada?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_004_05_ [Morgana]]
 [s][vp 9 2 65535 42213 0 0]Que tipo de pessoa[n]se voltaria contra Kamoshida...?[n][f 1 2 180][e]
@@ -735,7 +735,7 @@
 [s][vp 9 2 65535 39255 0 0]Certamente será a piada[n]de alguém com inveja do[n]Prof. Kamoshida...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_005_01_ [Morgana]]
-[s][vp 9 2 65535 39455 0 0]É apenas uma coincidência, não é?[n]Essa carta de aviso[n]não tem nada a ver com isso.[n][f 1 2 180][e]
+[s][vp 9 2 65535 39455 0 0]É apenas uma coincidência, não é?[n]Essa Carta de Aviso[n]não tem nada a ver com isso.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_005_02_ [Morgana]]
 [s][vp 9 2 65535 39053 0 0]Ele realmente cometeu todas aquelas[n]atrocidades? Oh meu Deus, Kamoshida[n]acabou.[n][f 1 2 180][e]
@@ -825,10 +825,10 @@
 [s][vp 9 2 65535 43255 0 0]É verdade que existe uma rede criminosa muito[n]perigosa em Shibuya?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_01_ [Morgana]]
-[s][vp 9 2 65535 37854 0 0]Madarame recebeu uma carta de[n]desafio, a mesma que foi[n]enviada para Kamoshida...[n][f 1 2 180][e]
+[s][vp 9 2 65535 37854 0 0]Madarame recebeu uma Carta de[n]Aviso, a mesma que foi[n]enviada para Kamoshida...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_02_ [Morgana]]
-[s][vp 9 2 65535 39104 0 0]Alguns Phantom Thieves[n]entregaram uma carta de aviso[n]na exposição de Madarame, não é?[n][f 1 2 180][e]
+[s][vp 9 2 65535 39104 0 0]Alguns Phantom Thieves[n]entregaram uma Carta de Aviso[n]na exposição de Madarame, não é?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_03_ [Morgana]]
 [s]0[n][f 1 2 180][e]
@@ -840,7 +840,7 @@
 [s][vp 9 2 65535 39505 0 0]Os Phantom Thieves de novo? Mas não era só uma[n]piada?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_06_ [Morgana]]
-[s][vp 9 2 65535 43305 0 0]Então aquela carta de aviso para[n]Kamoshida não era brincadeira...[n][f 1 2 180][e]
+[s][vp 9 2 65535 43305 0 0]Então aquela Carta de Aviso para[n]Kamoshida não era brincadeira...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_009_01_ [Morgana]]
 [s][vp 9 2 65535 44602 0 0]Alguns alunos que foram para[n]Shujin foram enganados, certo?[n][f 1 2 180][e]
@@ -861,7 +861,7 @@
 [s][vp 9 2 65535 43352 0 0]Existe tanta chantagem[n]e golpes hoje em dia?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_01_ [Morgana]]
-[s][vp 9 2 65535 42554 0 0]Li na net que apareceu[n]outra carta de aviso...[n][f 1 2 180][e]
+[s][vp 9 2 65535 42554 0 0]Li na net que apareceu[n]outra Carta de Aviso...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_02_ [Morgana]]
 [s][vp 9 2 65535 42104 0 0]Seria ótimo se eles realmente[n]pudessem fazê-lo pagar[n]pelo que ele fez...[n][f 1 2 180][e]
@@ -870,13 +870,13 @@
 [s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_04_ [Morgana]]
-[s][vp 9 2 65535 42154 0 0]Parece que[n]outra carta de aviso foi entregue! E desta[n]vez o destinatário é a máfia![n][f 1 2 180][e]
+[s][vp 9 2 65535 42154 0 0]Parece que[n]outra Carta de Aviso foi entregue! E desta[n]vez o destinatário é a máfia![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_05_ [Morgana]]
-[s][vp 9 2 65535 39755 0 0]É verdade que um cara chamado[n]Kaneshiro recebeu uma[n]carta de aviso!?![n][f 1 2 180][e]
+[s][vp 9 2 65535 39755 0 0]É verdade que um cara chamado[n]Kaneshiro recebeu uma[n]Carta de Aviso!?![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_06_ [Morgana]]
-[s][vp 9 2 65535 42804 0 0]Você viu as postagens online?[n]Outra carta de aviso de[n]Phantom Thieves apareceu![n][f 1 2 180][e]
+[s][vp 9 2 65535 42804 0 0]Você viu as postagens online?[n]Outra Carta de Aviso de[n]Phantom Thieves apareceu![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_011_01_ [Morgana]]
 [s][vp 9 2 65535 42704 0 0]Esses Phantom Thieves vão despertar[n]o coração daquele criminoso, não vão?[n][f 1 2 180][e]
@@ -1083,7 +1083,7 @@
 [s][vp 9 2 65535 46150 0 0]Adultos corruptos merecem[n]ser arruinados pelos Phantom Thieves![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_021_06_ [Morgana]]
-[s][vp 9 2 65535 38303 0 0]Eu esperei ansiosamente outra[n]carta de aviso! Ansioso[n]pelo pedido de desculpas de Okumura![n][f 1 2 180][e]
+[s][vp 9 2 65535 38303 0 0]Eu esperei ansiosamente outra[n]Carta de Aviso! Ansioso[n]pelo pedido de desculpas de Okumura![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_022_01_ [Morgana]]
 [s][vp 9 2 65535 38402 0 0]Foi terrível... Parecia[n]uma execução pública.[n][f 1 2 180][e]

@@ -141,7 +141,7 @@
 [s][bup 0 4 4 65535 0][f 4 10 65535 0 0][vp 8 2 1 6029 65535 0]Jokerrr! Não temos[n]moedas suficientes.[n][w][e]
 
 [msg SAFETY_MES_ANN_11_01 [Ann]]
-[s][bup 0 4 2 65535 0][f 4 10 65535 0 0][vp 8 2 1 6158 65535 0]Só precisamos enviar[n]a carta de aviso. Vamos fazê-lo![n][w][e]
+[s][bup 0 4 2 65535 0][f 4 10 65535 0 0][vp 8 2 1 6158 65535 0]Só precisamos enviar[n]a Carta de Aviso. Vamos fazê-lo![n][w][e]
 
 [msg SAFETY_MES_YUUSUKE_01_01 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 4117 65535 0]Um casino... Se os Palácios são a manifestação[n]dos desejos de uma pessoa, esta parece[n]a a mais sensacional das reinterpretações.[n][w][e]

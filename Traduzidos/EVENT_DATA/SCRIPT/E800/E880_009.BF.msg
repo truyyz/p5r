@@ -32,7 +32,7 @@
 [s][vp 1 0 0 0 0 0]Você viu as notícias?[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_0606_2]
-[s][vp 1 0 0 0 0 0]Sobre a carta de aviso dos Phantom Thieves,[n]certo?[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Sobre a Carta de Aviso dos Phantom Thieves,[n]certo?[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_0606_3]
 [s][vp 1 0 0 0 0 0]A forma como foi escrito[n]parecia completamente regular...[n][f 1 3 65535][w][e]

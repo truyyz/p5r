@@ -20,7 +20,7 @@
 [s][f 5 14]Você nos agradecerá mais tarde.[n]Ainda falta o toque final.[n][w][e]
 
 [msg MSG_007_0_0 [Haru]]
-[s][f 5 14]A carta de aviso, né?[n]O que devo fazer?[n][w][e]
+[s][f 5 14]A Carta de Aviso, né?[n]O que devo fazer?[n][w][e]
 
 [msg MSG_008_0_0 [Makoto]]
 [s][f 5 14]Enviaremos quando[n]ele decidir [f 4 2].[n][w][e]

@@ -74,7 +74,7 @@
 [s][vp 1 0 0 0 0 0]Concordo. Sinto que devo proteger[n]aquela professora![n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_0518_1]
-[s][vp 1 0 0 0 0 0]Então aquela carta[n]de desafio foi uma piada?[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Então aquela Carta[n]de Aviso foi uma piada?[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_0518_2]
 [s][vp 1 0 0 0 0 0]Você quer passar por Shibuya[n]a caminho de casa? Eu quero[n]ver essa exposição.[n][f 1 3 65535][w][e]
