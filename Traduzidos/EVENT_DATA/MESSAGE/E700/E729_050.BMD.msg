@@ -59,7 +59,7 @@
 [s][bup 0 102 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Tome cuidado! Você acha que rir do[n]mestre é[n]um comportamento apropriado?[n][f 1 3 65535][w][e]
 
 [msg MSG_019_0_0 [Clara]]
-[s][vp 8 0 0 0 65535 0]*engole em seco* Oooh, AGORA entendi![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]*engole seco* Oooh, AGORA entendi![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Você está aqui para serviço disciplinar,[n]certo?[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Clara]]

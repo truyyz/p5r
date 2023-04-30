@@ -81,7 +81,7 @@
 [s][vp 8 2 1 0 0 0]Você é jovem, então tenho certeza de que seria[n]valioso poder conversar com um pensador tão[n]profundo.[n][w][e]
 
 [msg MSG_JYORENKYAKU_002_0_0 [Cliente arrogante]]
-[s][f 4 23 1 0 3 10 0 0][vp 8 2 1 0 0 0]Você sabia que existem[n]gaiolas de rebatidas perto daqui?[n][w][e]
+[s][f 4 23 1 0 3 10 0 0][vp 8 2 1 0 0 0]Você sabia que existem[n]Gaiolas de Tênis perto daqui?[n][w][e]
 [s][vp 8 2 1 0 0 0]Mesmo que eu não veja a atração.[n]Adultos balançando clubes, gritando[n]palavrões contra a sociedade...[n][w][e]
 
 [sel SEL_JYORENKYAKU_002_0_0 top]

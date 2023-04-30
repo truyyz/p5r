@@ -123,7 +123,7 @@
 [s][bup 0 4 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 49 65535 0]O quê...?[n][f 1 3 65535][w][e]
 
 [msg MSG_030_0_0 [Makoto]]
-[s][bup 0 6 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 50 65535 0]*engole em seco* O Deus do Controle![n][f 1 3 65535][w][e]
+[s][bup 0 6 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 50 65535 0]*engole seco* O Deus do Controle![n][f 1 3 65535][w][e]
 
 [msg MSG_031_0_0 [Lavenza]]
 [s][bup 0 100 0 0 0][f 4 10 65535 0 0][vp 8 0 0 51 65535 0]De fato… O ser derrotado nos[n]Mementos era um falso deus a quem as[n]massas se agarraram em vão…[n][f 1 3 65535][w][e]

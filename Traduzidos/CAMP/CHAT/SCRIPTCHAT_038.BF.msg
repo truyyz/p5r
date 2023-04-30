@@ -14,7 +14,7 @@
 [s][f 5 14]Valeu a pena ouvir você dizer isso,[n]Yusuke![n][w][e]
 
 [msg MSG_005_0_0 [Ann]]
-[s][f 5 14]Seriamente.[n][w][e]
+[s][f 5 14]Sério.[n][w][e]
 
 [msg MSG_006_0_0 [Ann]]
 [s][f 5 14]Eu não tinha certeza se você realmente queria[n]despertar o coração de Madarame.[n][w][e]

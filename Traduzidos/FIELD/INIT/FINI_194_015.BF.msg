@@ -508,7 +508,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 1 0 0 3143 0 0]Bem, vamos descansar um pouco.[n][w][e]
 
 [msg AT_D_WARP_IN_PC02_type01 [Ryuji]]
-[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Conseguimos. Você[n]ocida o que fazemos a partir de agora, Joker.[n][w][e]
+[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Conseguimos. Você[n]decide o que fazemos a partir de agora, Joker.[n][w][e]
 
 [msg ATD_TARGET_NAVI_PC03_typ [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Aqui vamos nós... mas não sinto[n]nenhum alvo na área.[n][w][e]

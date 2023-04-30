@@ -40,7 +40,7 @@
 [s][bup 0 8 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9065 65535 0]Cuidado, Joker! Está atacando![n][w][e]
 
 [msg MSG_QST_084_10 [Sombra de Minamoto]]
-[s][vp 8 2 1 0 65535 0]*engole em seco* *anf*[n][w][e]
+[s][vp 8 2 1 0 65535 0]*engole seco* *anf*[n][w][e]
 
 [msg MSG_QST_084_11 [Makoto]]
 [s][bup 0 6 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2017 65535 0]Você está bem? Você se acalmou?[n][w][e]

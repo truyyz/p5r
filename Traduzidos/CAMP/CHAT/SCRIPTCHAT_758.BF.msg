@@ -27,7 +27,7 @@
 [s]Eu não tenho dinheiro suficiente.[e]
 
 [msg MSG_004_0_0 [Ryuji]]
-[s][f 5 14]Seriamente...?[n][w][e]
+[s][f 5 14]Sério...?[n][w][e]
 
 [msg MSG_005_0_0 [Ryuji]]
 [s][f 5 14]Acho que não é nenhuma surpresa saber[n]onde você mora. Até logo![n][f 5 15][w][e]

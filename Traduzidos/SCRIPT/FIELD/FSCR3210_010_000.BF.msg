@@ -231,7 +231,7 @@
 
 [msg MND_Remind_Batting]
 [s]Ai acabei de me lembrar...[n][w][e]
-[s]Existem gaiolas de rebatidas[n]ao lado do supermercado nos becos.[n][w][e]
+[s]Existem Gaiolas de Tênis[n]ao lado do supermercado nos becos.[n][w][e]
 [s]Eu deveria ir lá algum dia...[n][w][e]
 
 [msg MND_Remind_CinemaUse]

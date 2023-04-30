@@ -12,7 +12,7 @@
 [s]Decidir depois[e]
 
 [sel SEL_002 top]
-[s][f 5 14]Nós estamos lá.[e]
+[s][f 5 14]Estou indo pra aí.[e]
 
 [msg MSG_REACTION [Yoshida]]
 [s][f 5 14]Obrigado, será uma grande[n]ajuda. Eu vou esperar por você[n]na frente da estação.[n][f 5 15][w][e]

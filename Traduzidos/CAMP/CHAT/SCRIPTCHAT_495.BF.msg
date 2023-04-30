@@ -1,5 +1,5 @@
 [msg MSG_000_0_0 [Akechi]]
-[s][f 5 14]Estás livre hoje?[n][w][e]
+[s][f 5 14]Você está livre hoje?[n][w][e]
 
 [msg MSG_001_0_0 [Akechi]]
 [s][f 5 14]Achei que poderíamos ter outro jogo de[n]sinuca.[n][w][e]

@@ -25,5 +25,5 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 47 65535 0]Você subiu na hierarquia, hein?[n][w][e]
 
 [msg NG_1ST [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Você precisa melhorar sua percepção do movimento.[n]As gaiolas de rebatidas podem ajudá-lo.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Você precisa melhorar sua percepção do movimento.[n]As Gaiolas de Tênis podem ajudá-lo.[n][w][e]
 

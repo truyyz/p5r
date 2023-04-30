@@ -5,7 +5,7 @@
 [s]Não pode ter outras máscaras...[n][e]
 
 [msg COMBINE_WARNING_MSG]
-[s]Eu sinto uma sensação de[n]conforto...[n][w][e]
+[s]Eu sinto uma sensação[n]desconfortável...[n][w][e]
 
 [msg SYS_HumanParam_ItemUse]
 [s]Graças ao "nome do item", suas habilidades[n]sociais irão melhorar mais do que o normal por[n]um período de tempo.[n][w][e]

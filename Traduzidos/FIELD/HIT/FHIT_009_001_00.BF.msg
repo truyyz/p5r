@@ -96,19 +96,19 @@
 [s]Sinto muito.[n]Estamos sem estoque[n]de...tudo.[n][w][e]
 
 [msg MSG_BATTING_CENTER_KF_01]
-[s]No segundo andar deste lugar[n]há gaiolas de rebatidas, mas[n]elas estão atualmente [clr 2]reformando[clr 27].[n][w][e]
+[s]No segundo andar deste lugar[n]há Gaiolas de Tênis, mas[n]elas estão atualmente [clr 2]reformando[clr 27].[n][w][e]
 [s]Parece que eles vão reabrir[n]em maio.[n]Eu voltarei...[n][w][e]
 
 [msg MSG_BATTING_CENTER_KF_02 [Morgana]]
-[s]Oh, existem gaiolas de rebatidas no segundo[n]andar. Eu ouvi que eles estão [n][clr 2]reformando[clr 27] agora, no entanto.[n][w][e]
+[s]Oh, existem Gaiolas de Tênis no segundo[n]andar. Eu ouvi que eles estão [n][clr 2]reformando[clr 27] agora, no entanto.[n][w][e]
 [s]Aparentemente, eles reabrirão[n]em maio. Voltaremos quando[n]eles reabrirem.[n][w][e]
 
 [msg MSG_BATTING_CENTER_NG [Morgana]]
-[s]Oh, no segundo andar estão[n]as gaiolas de rebatidas. Eu ouvi que[n]eles estão [clr 2]reformando[clr 27] agora, no entanto.[n][w][e]
+[s]Oh, no segundo andar estão[n]as Gaiolas de Tênis. Eu ouvi que[n]eles estão [clr 2]reformando[clr 27] agora, no entanto.[n][w][e]
 [s]Aparentemente, eles reabrirão[n]em maio. Voltaremos quando[n]eles reabrirem.[n][w][e]
 
 [msg MSG_BATTING_CENTER [Morgana]]
-[s]Oh, no segundo andar estão[n]as gaiolas de rebatidas. Você pode melhorar[n]sua [clr 1]Agilidade[clr 27] pagando [clr 2]500 ienes[clr 27].[n][w][e]
+[s]Oh, no segundo andar estão[n]as Gaiolas de Tênis. Você pode melhorar[n]sua [clr 1]Agilidade[clr 27] pagando [clr 2]500 ienes[clr 27].[n][w][e]
 
 [msg MSG_BATTING_CENTER_POLIS [Morgana]]
 [s]Além disso, você está indo muito bem.[n]Você já deve ter desenvolvido os[n][clr 2]reflexos de batalha[clr 27].[n][w][e]

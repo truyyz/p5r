@@ -8,7 +8,7 @@
 [s][f 5 14]Não pensei que Mementos[n]poderia ir tão[n]fundo! Eles são enormes![n][w][e]
 
 [msg MSG_004_0_0 [Ann]]
-[s][f 5 14]Suba, você quer dizer. Perdi a conta do[n]tempo que perdemos naquelas escadas...[n][w][e]
+[s][f 5 14]Tá mais pra longe. Perdi a conta de[n]quanto tempo passamos naquelas[n]escadas...[n][w][e]
 
 [msg MSG_005_0_0 [Futaba]]
 [s][f 5 14]Verdade, né?!? Não é um lugar adequado[n]para quem tem físico de gamer...[n][w][e]
@@ -20,7 +20,7 @@
 [s][f 5 14]Uma boa massagem[n]nos pontos de pressão[n]também pode fazer bem.[n][w][e]
 
 [msg MSG_008_0_0 [Ann]]
-[s][f 5 14]Nossa, o atleta sabe![n][w][e]
+[s][f 5 14]Uau, a atleta sabe das coisas![n][w][e]
 
 [msg MSG_009_0_0 [Makoto]]
 [s][f 5 14]A propósito... Você não disse[n]que iria[n]treinar depois, Sumire?[n][w][e]

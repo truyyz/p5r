@@ -9,7 +9,7 @@
 
 [msg HERO_HOT_FIRST]
 [s][vp 8 2 0 0 65535 0]Está um pouco quente demais...[n][f 1 3 65535][w][e]
-[s][vp 8 2 0 0 65535 0]Eu preciso sair antes de receber[n]um abraço...[n][f 1 3 65535][w][e]
+[s][vp 8 2 0 0 65535 0]Eu preciso sair antes que eu fique[n]tonto...[n][f 1 3 65535][w][e]
 
 [msg HERO_SEASON_2]
 [s][vp 8 2 0 0 65535 0]O banho de menta está me aquecendo[n]...[n][f 1 3 65535][w][e]

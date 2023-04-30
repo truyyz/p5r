@@ -78,7 +78,7 @@
 
 [msg MSG_PHONE_0417_000_00 [A voz de Ryuji]]
 [s][bup 0 2 0 65535 0]Ei, sou eu! Lembrei-me de onde fica a loja de[n]airsoft em Shibuya![n][w][e]
-[s]Estás livre hoje? Vamos ver?[n]Poderíamos ir mais tarde, mas...[n][w][e]
+[s]Você está livre hoje? Vamos ver?[n]Poderíamos ir mais tarde, mas...[n][w][e]
 
 [sel SEL_PHONE_0417_001 top]
 [s]Vou falar com Morgana sobre isso.[e]
@@ -1472,7 +1472,7 @@
 
 [msg MSG_DAYTIME_D01_END_0428 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1170 65535 0]Apenas esperar parece[n]muito chato.[n][w][e]
-[s][f 4 10 65535 0 0]Que tal ir para as gaiolas de rebatidas? Tem um[n]próximo ao supermercado Yongen, certo?[n][w][e]
+[s][f 4 10 65535 0 0]Que tal ir para as Gaiolas de Tênis? Tem um[n]próximo ao supermercado Yongen, certo?[n][w][e]
 
 [msg MSG_DAYTIME_D01_END_0430 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1170 65535 0]Apenas esperar parece[n]muito chato.[n][w][e]
@@ -2067,7 +2067,7 @@
 [s]Eu vou esperar por você. Na minha barraca de[n]Shinjuku, é claro![n][w][e]
 
 [msg MSG_010_5_0 [Chihaya]]
-[s][f 5 14]Estás livre hoje? Eu gostaria[n]tanto de ver você.[n][w][e]
+[s][f 5 14]Você está livre hoje? Eu gostaria[n]tanto de ver você.[n][w][e]
 [s]Também quero falar sobre minhas[n]previsões, então...[n][w][e]
 [s]Aguardo vocês no meu estande![n][w][e]
 
@@ -2673,7 +2673,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1186 65535 0]Não se envolva muito em[n]coisas. Talvez uma visita ao templo[n]ajude a clarear sua cabeça.[n][w][e]
 
 [msg MSG_Info_Term3_Batting [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1027 65535 0]Você parece cansado... Você quer[n]descarregar-se nas[n]gaiolas de rebatidas?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1027 65535 0]Você parece cansado... Você quer[n]descarregar-se nas[n]Gaiolas de Tênis?[n][w][e]
 
 [msg MSG_Info_Term3_OldCloth [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1187 65535 0]Ah sim. Você ainda usa[n]roupas usadas. Que tal[n]vendê-los para Kichijoji?[n][w][e]

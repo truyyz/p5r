@@ -4,7 +4,7 @@
 [msg MSG_FIRST_NIGHT_MONA [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1169 65535 0]Disseram-nos para não nos desviarmos. Vamos[n]curtir a vida noturna aqui em Yongen.[n][w][e]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0]Ei, que tal darmos uma olhada[n]naquele banheiro público? Embora[n]gatos não sejam permitidos, receio...[n][w][e]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Em algum lugar eu vi[n]o sinal de um cinema. Existem[n]as gaiolas de rebatidas também.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0]Em algum lugar eu vi[n]o sinal de um cinema. Existem[n]as Gaiolas de Tênis também.[n][w][e]
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0]...Mmh, há tantas coisas[n]para fazer! Nós vamos nos divertir muito![n][w][e]
 
 [msg MSG_FIRST_NIGHT_MONA_TAK [Morgana]]
@@ -1125,7 +1125,7 @@
 
 [msg MSG_DAYTIME_D01_END_0428 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1170 65535 0]Apenas esperar parece[n]muito chato.[n][w][e]
-[s][f 4 10 65535 0 0]Que tal ir para as gaiolas de rebatidas? Tem um[n]próximo ao supermercado Yongen, certo?[n][w][e]
+[s][f 4 10 65535 0 0]Que tal ir para as Gaiolas de Tênis? Tem um[n]próximo ao supermercado Yongen, certo?[n][w][e]
 
 [msg MSG_DAYTIME_D01_END_0430 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1170 65535 0]Apenas esperar parece[n]muito chato.[n][w][e]
@@ -1720,7 +1720,7 @@
 [s]Eu vou esperar por você. Na minha barraca de[n]Shinjuku, é claro![n][w][e]
 
 [msg MSG_010_5_0 [Chihaya]]
-[s][f 5 14]Estás livre hoje? Eu gostaria[n]tanto de ver você.[n][w][e]
+[s][f 5 14]Você está livre hoje? Eu gostaria[n]tanto de ver você.[n][w][e]
 [s]Também quero falar sobre minhas[n]previsões, então...[n][w][e]
 [s]Aguardo vocês no meu estande![n][w][e]
 
@@ -2326,7 +2326,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1186 65535 0]Não se envolva muito em[n]coisas. Talvez uma visita ao templo[n]ajude a clarear sua cabeça.[n][w][e]
 
 [msg MSG_Info_Term3_Batting [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1027 65535 0]Você parece cansado... Você quer[n]descarregar-se nas[n]gaiolas de rebatidas?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1027 65535 0]Você parece cansado... Você quer[n]descarregar-se nas[n]Gaiolas de Tênis?[n][w][e]
 
 [msg MSG_Info_Term3_OldCloth [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1187 65535 0]Ah sim. Você ainda usa[n]roupas usadas. Que tal[n]vendê-los para Kichijoji?[n][w][e]

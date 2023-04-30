@@ -347,7 +347,7 @@
 [msg MSG_C19_COOP_08_00 [Yoshida]]
 [s][bup 0 112 0 0 0][f 4 10 65535 0 0][f 4 23 1 219 3 10 0 10][vp 8 2 1 0 65535 0]Estamos quase lá...[n]Se você quiser ficar hoje,[n]eu ficaria muito feliz.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Acho que não preciso[n]lembrar você do que se trata...[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Estás livre hoje?[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Você está livre hoje?[n][w][e]
 
 [msg MSG_C19_COOP_09_00 [Yoshida]]
 [s][bup 0 112 0 0 0][f 4 10 65535 0 0][f 4 23 1 219 3 10 0 10][vp 8 2 1 0 65535 0]Agora que penso nisso,[n]ainda não expliquei a você[n]qual é o meu objetivo.[n][w][e]

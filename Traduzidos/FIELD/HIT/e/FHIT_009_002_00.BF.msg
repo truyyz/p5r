@@ -337,17 +337,17 @@
 [s]Se eu for para casa no café,[n]será [clr 2]"noite"[clr 27].[n][w][e]
 
 [msg MND_Batting_NotOpen]
-[s]Gaiolas de rebatidas estão abertas...[n][w][e]
+[s]Gaiolas de Tênis estão abertas...[n][w][e]
 
 [msg MSG_Batting_0417 [Morgana]]
 [s][bup 0 3 4 0 0][f 4 10 65535 0 0][vp 8 2 1 1168 65535 0]Gaiolas de batedura? Aqui?[n][w][e]
 
 [msg MSG_BAT_START_1ST_MORU [Morgana]]
-[s][bup 0 3 4 0 0][f 4 10 65535 0 0][vp 8 2 1 1130 65535 0]Gaiolas de rebatidas?[n]Em um lugar tão pequeno?[n][w][e]
+[s][bup 0 3 4 0 0][f 4 10 65535 0 0][vp 8 2 1 1130 65535 0]Gaiolas de Tênis?[n]Em um lugar tão pequeno?[n][w][e]
 [s][f 4 10 65535 0 0]...Como é por dentro?[n][w][e]
 
 [msg MSG_SYSTEM_SHORTCUT_BATT]
-[s]Agora você pode viajar rapidamente[n]para as [clr 6]gaiolas de rebatidas[clr 0][n]de Yongen-Jaya.[n][w][e]
+[s]Agora você pode viajar rapidamente[n]para as [clr 6]Gaiolas de Tênis[clr 0][n]de Yongen-Jaya.[n][w][e]
 
 [sel SEL_BAT_START_1ST_MORU top]
 [s]Vamos dar uma olhada.[e]
@@ -783,10 +783,10 @@
 [s][vp 1 0 0 0 0 0]Não há tempo para desvios...[n][w][e]
 
 [msg MND_E10410100_NG_BATTING]
-[s][vp 1 0 0 0 0 0]Gaiolas de rebatidas em tal lugar...?[n][w][e]
+[s][vp 1 0 0 0 0 0]Gaiolas de Tênis em tal lugar...?[n][w][e]
 
 [msg MND_E10410300_NG_BATTING]
-[s][vp 1 0 0 0 0 0]Gaiolas de rebatidas em tal lugar...?[n][w][e]
+[s][vp 1 0 0 0 0 0]Gaiolas de Tênis em tal lugar...?[n][w][e]
 
 [msg MND_E10920300_NG_BATTING]
 [s][vp 1 0 0 0 0 0]Não tenho tempo para[n]desvios. Eu tenho que me apressar[n]para ir para a escola...[n][w][e]
@@ -1186,7 +1186,7 @@
 [s][vp 1 0 0 0 0 0]Não tenho e-mail[n]para enviar...[n][w][e]
 
 [msg MSG_E79310100_NG_BATTING [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 65535 1167 0 0]Aqui estão algumas gaiolas de rebatidas[n]...[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 65535 1167 0 0]Aqui estão algumas Gaiolas de Tênis[n]...[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Mas primeiro temos que[n]encontrar aquela clínica.[n][w][e]
 
 [msg MSG_E79310100_NG_DEADEND [Morgana]]

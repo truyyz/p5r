@@ -52,12 +52,12 @@
 [s][bup 0 10 981 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 4 0][f 4 24 0 4 6 42 5 100][f 4 24 0 4 2 9 5 100]Estou meio que mostrando[n]meu estilo né?!?[n][f 1 3 65535][w][e]
 
 [sel SEL_014_0_0 top]
-[s]Olhe para você.[e]
-[s]Você está apenas sendo notado.[e]
+[s]Olhe para si mesma.[e]
+[s]Você está apenas se destacando.[e]
 
 [msg MSG_015_0_0 [Sumire]]
-[s][bup 0 10 984 65535 0][f 4 10 65535 0 0][vp 8 2 0 57060 65535 0]O-oh, você não gosta? Achei[n]um look muito trendy...[n][f 1 3 65535][w][e]
-[s][bup 0 10 983 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 4 0][f 4 24 0 4 6 38 5 100]...Bem, para ser honesto, eu pensei que[n]algo estava realmente desafinado.[n][f 1 3 65535][w][e]
+[s][bup 0 10 984 65535 0][f 4 10 65535 0 0][vp 8 2 0 57060 65535 0]O-oh, você não gostou? Achei[n]uma roupa bem legal...[n][f 1 3 65535][w][e]
+[s][bup 0 10 983 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 4 0][f 4 24 0 4 6 38 5 100]...Bem, para ser honesta, eu pensei que[n]algo estava realmente fora do lugar.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 4 0]Bem, eles disseram que essas são manchas de[n]leopardo, mas eu pareço algum tipo de... girafa[n]mutante.[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Sumire]]
@@ -94,7 +94,7 @@
 
 [msg MSG_024_0_0 [Sumire]]
 [s][bup 0 10 900 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 5 0]E ainda... Veja quantos[n]estilos diferentes existem.[n][f 1 3 65535][w][e]
-[s][bup 0 10 904 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 5 0][f 4 24 0 5 6 39 5 100]Huh? Por que esse suéter é oco...? Onde termina[n]este tópico?[n][f 1 3 65535][w][e]
+[s][bup 0 10 904 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 5 0][f 4 24 0 5 6 39 5 100]Huh? Por que esse suéter tem um buraco...? Onde termina[n]esta corda?[n][f 1 3 65535][w][e]
 [s][bup 0 10 903 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 5 0][f 4 24 0 5 6 38 5 100]Hum, o que eu faço agora...? É mais[n]difícil do que eu pensava...[n][f 1 3 65535][w][e]
 
 [msg MSG_025_0_0 [Sumire]]
@@ -163,7 +163,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 6 0]Obrigado por me deixar[n]mostrar uma parte de mim.[n][f 1 3 65535][w][e]
 
 [msg MSG_042_0_0 [Sumire]]
-[s][bup 0 10 947 65535 0][f 4 10 65535 0 0][vp 8 2 0 57065 65535 0]O que... o que? H-Eu ouvi[n]corretamente o que você disse?!?[n][f 1 3 65535][w][e]
+[s][bup 0 10 947 65535 0][f 4 10 65535 0 0][vp 8 2 0 57065 65535 0]O que... o que? E-Eu ouvi[n]corretamente o que você disse?!?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 6 0]Você disse que estava... apaixonado...?[n][f 1 3 65535][w][e]
 
 [msg MSG_043_0_0 [Sumire]]
@@ -209,7 +209,7 @@
 
 [msg MSG_053_0_0 [Sumire]]
 [s][bup 0 10 900 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 8 0]Quanto mais eu pensava sobre isso, mais[n]importante esse sentimento se tornava.[n][f 1 3 65535][w][e]
-[s][bup 0 10 906 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 8 0][f 4 24 0 8 6 42 5 100][f 4 24 0 8 2 9 5 100]E então, de repente, eu…[n]percebi que não estava mais chateado.[n][f 1 3 65535][w][e]
+[s][bup 0 10 906 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 8 0][f 4 24 0 8 6 42 5 100][f 4 24 0 8 2 9 5 100]E então, de repente, eu…[n]percebi que não estava mais chateada.[n][f 1 3 65535][w][e]
 
 [sel SEL_054_0_0 top]
 [s]Entendi...[e]
