@@ -1559,7 +1559,7 @@
 [s][vp 1 0 0 12016 0 0]Oh, nós temos uma Semente de[n]cobiça... e logo teremos[n]as outras também![n][f 1 6 65535][e]
 
 [msg GET_SEED_PC02_mes03]
-[s][vp 1 0 0 12017 0 0]Uma das Seeds of Greed de[n]Shido, hein? Bom.[n]Vamos procurar os outros.[n][f 1 6 65535][e]
+[s][vp 1 0 0 12017 0 0]Uma das Sementes da Vontade de[n]Shido, hein? Bom.[n]Vamos procurar os outros.[n][f 1 6 65535][e]
 
 [msg D_ACT_JUMP_PC03_mes01]
 [s][vp 1 0 0 3000 0 0]Ah![n][f 1 6 65535][e]
@@ -4742,7 +4742,7 @@
 [s][vp 1 0 0 17012 0 0]Oh, esta é uma das Sementes de[n]cobiça de meu pai,[n]mas devemos obtê-la![n][f 1 6 65535][e]
 
 [msg FIND_SEED_PC07_mes02]
-[s][vp 1 0 0 17013 0 0]Outro[n]Seeds of Lust do meu pai... Vamos pegá-lo![n][f 1 6 65535][e]
+[s][vp 1 0 0 17013 0 0]Outro[n]Sementes da Vontade do meu pai... Vamos pegá-lo![n][f 1 6 65535][e]
 
 [msg FIND_SEED_PC07_mes03]
 [s][vp 1 0 0 17014 0 0]Boneco[n][f 1 6 65535][e]

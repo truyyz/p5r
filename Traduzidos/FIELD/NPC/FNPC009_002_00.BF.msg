@@ -3627,7 +3627,7 @@
 [s][f 4 23 1 7 9 10 5 10][vp 8 2 65535 0 0 0]Certo. Vamos ficar juntos até que[n]a morte nos separe. Uma[n]mente, um corpo.[n][w][e]
 [s][vp 8 2 65535 0 0 0]Por fim, também terei[n]seu coração. O tesouro mais[n]precioso de todos.[n][w][e]
 
-[msg MSG_OOYA_001_0_0 [Mulher com um quarto]]
+[msg MSG_OOYA_001_0_0 [Mulher com uma Câmera]]
 [s][f 4 23 1 65535 3 10 0 10][bup 0 107 6 65535 0][f 4 10 65535 0 0][vp 8 2 1 16004 65535 0]Ei, já nos conhecemos.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 16057 65535 0]Ohhh, você é aquele cara que estava[n]na frente da casa do Madarame.[n]Descobriu algo interessante?[n][w][e]
 
@@ -3635,13 +3635,13 @@
 [s]Eu diria que não.[e]
 [s]Eu não quero dizer a você.[e]
 
-[msg MSG_OOYA_003_0_0 [Mulher com um quarto]]
+[msg MSG_OOYA_003_0_0 [Mulher com uma Câmera]]
 [s][f 4 23 1 65535 3 10 0 10][bup 0 107 6 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Entendi. Bem, deixe-me saber[n]se você descobrir alguma coisa.[n][w][e]
 
-[msg MSG_OOYA_004_0_0 [Mulher com um quarto]]
+[msg MSG_OOYA_004_0_0 [Mulher com uma Câmera]]
 [s][f 4 23 1 65535 3 10 0 10][bup 0 107 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Vamos, garoto, não tente blefar. Pelo que posso[n]dizer, você não tem absolutamente nada.[n][w][e]
 
-[msg MSG_OOYA_005_0_0 [Mulher com um quarto]]
+[msg MSG_OOYA_005_0_0 [Mulher com uma Câmera]]
 [s][f 4 23 1 65535 3 10 0 10][bup 0 107 6 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu só estou com vontade de beber, e tudo[n]porque estou preso[n]nessa maldita história...[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Como devo perseguir[n]um "coletivo de hackers anônimos"[n]se ninguém sabe nada sobre eles?[n][w][e]
 [s][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]...Oh, desculpe. Baixar tudo[n]sobre você não vai mudar isso.[n][w][e]
@@ -3650,25 +3650,25 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 65535 1038 0 0]Ela é a mulher que vimos[n]na casa de Madarame.[n][w][e]
 [s][bup 0 3 5 65535 0][f 4 10 65535 0 0][vp 8 2 65535 1044 0 0]Ele fede a álcool, mas...[n]Quanto ele bebeu?[n][w][e]
 
-[msg MSG_OOYA_006_0_0 [Mulher com um quarto]]
+[msg MSG_OOYA_006_0_0 [Mulher com uma Câmera]]
 [s][f 4 23 1 65535 3 10 0 10][bup 0 107 6 65535 0][f 4 10 65535 0 0][vp 8 2 1 16004 65535 0]Ah, vejo você de novo.[n][w][e]
 
 [sel SEL_OOYA_007_0_0 top]
 [s]Boa noite.[e]
 [s]Você fede a álcool.[e]
 
-[msg MSG_OOYA_008_0_0 [Mulher com um quarto]]
+[msg MSG_OOYA_008_0_0 [Mulher com uma Câmera]]
 [s][f 4 23 1 65535 3 10 0 10][bup 0 107 6 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Haha, então você se lembra de mim.[n]Você mora por aqui?[n][w][e]
 
-[msg MSG_OOYA_009_0_0 [Mulher com um quarto]]
+[msg MSG_OOYA_009_0_0 [Mulher com uma Câmera]]
 [s][f 4 23 1 65535 3 10 0 10][bup 0 107 6 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Haha, me desculpe. Acho que bebi um pouco demais.[n][w][e]
 
-[msg MSG_OOYA_010_0_0 [Mulher com um quarto]]
+[msg MSG_OOYA_010_0_0 [Mulher com uma Câmera]]
 [s][bup 0 107 6 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu só estou com vontade de beber, e tudo[n]porque estou preso[n]nessa maldita história...[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Como devo perseguir[n]um "coletivo de hackers anônimos"[n]se ninguém sabe nada sobre eles?[n][w][e]
 [s][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]...Oh, desculpe. Baixar tudo[n]sobre você não vai mudar isso.[n][w][e]
 
-[msg MSG_OOYA_011_0_0 [Mulher com um quarto]]
+[msg MSG_OOYA_011_0_0 [Mulher com uma Câmera]]
 [s][f 4 23 1 65535 8 10 0 10][bup 0 107 6 65535 0][f 4 10 65535 0 0][vp 8 2 1 16021 65535 0]Não conheço bem Yongen, mas[n]as lojas daqui parecem[n]muito interessantes.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Tudo bem... É hora de eu ir.[n]Quero terminar a noite em[n]meu oásis favorito.[n][w][e]
 

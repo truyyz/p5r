@@ -4237,27 +4237,27 @@
 [msg MSG_TVNEWS_grt_003_0_3]
 [s][vp 9 2 65535 39006 0 0]O debate vai até o amanhecer[n]em nossa maratona de 24 horas[n]ao vivo sobre os Phantom Thieves![n][f 1 2 180][e]
 
-[msg MSG_OOYA_001_0_0 [Mulher com um quarto]]
+[msg MSG_OOYA_001_0_0 [Mulher com uma Câmera]]
 [s][f 4 23 1 65535 8 10 0 10][bup 0 107 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 16021 65535 0]Sim estou aqui. Fantástico. Mas agora?[n]Devo escolher alguém aleatoriamente[n]e entrevistá-lo no local?[n][w][e]
 [s][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Mas o editor-chefe insiste[n]em ter material sobre[n]os Phantom Thieves...[n][w][e]
 
-[msg MSG_OOYA_002_0_0 [Mulher com um quarto]]
+[msg MSG_OOYA_002_0_0 [Mulher com uma Câmera]]
 [s][f 4 23 1 65535 8 10 0 10][bup 0 107 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 16028 65535 0]Acho que vou ver o que acontece. É hora[n]de tomar uma bebida.[n][w][e]
 
-[msg MSG_OOYA_003_0_0 [Mulher com um quarto]]
+[msg MSG_OOYA_003_0_0 [Mulher com uma Câmera]]
 [s][f 4 23 1 65535 3 10 0 10][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 16018 65535 0]Eles dizem que uma organização de[n]Shibuya começou a ficar[n]ocupada.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Você notou alguma coisa?[n][w][e]
 
 [msg MSG_OOYA_004_0_0 [Homem com chapéu]]
 [s][f 4 23 1 71 3 10 0 10][vp 8 2 1 0 71 0]Agora que penso nisso, depois do almoço[n]vi vários bandidos que[n]falaram com algumas crianças.[n][w][e]
 
-[msg MSG_OOYA_005_0_0 [Mulher com um quarto]]
+[msg MSG_OOYA_005_0_0 [Mulher com uma Câmera]]
 [s][f 4 23 1 65535 3 10 0 10][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Mmm, parece que os rumores[n]são verdadeiros. E parece[n]material interessante também.[n][w][e]
 
 [msg MSG_OOYA_006_0_0 [Homem com chapéu]]
 [s][f 4 23 1 71 3 10 0 10][vp 8 2 1 0 71 0]É melhor para ela não falar[n]sobre isso. Essas pessoas[n]são terrivelmente implacáveis.[n][w][e]
 
-[msg MSG_OOYA_007_0_0 [Mulher com um quarto]]
+[msg MSG_OOYA_007_0_0 [Mulher com uma Câmera]]
 [s][f 4 23 1 65535 3 10 0 10][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 16066 65535 0]Ouvi-lo dizer isso me faz[n]querer falar sobre isso ainda mais… mas[n]o público quer The Phantom Thieves.[n][w][e]
 
 [msg MSG_MAFIA_002_0_0 [Homem ameaçador]]

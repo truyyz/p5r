@@ -1295,7 +1295,7 @@
 [s][f 4 23 1 65535 3 10 0 0][bup 0 9 4 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ah, minhas desculpas. Vou me atrasar[n]para filmar se ficar aqui[n]falando.[n][w][e]
 [s][bup 0 9 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 8053 65535 0]Até nos encontrarmos novamente. Espero ver você[n]por aí.[n][w][e]
 
-[msg MSG_OOYA_001_0_0 [Mulher com um quarto]]
+[msg MSG_OOYA_001_0_0 [Mulher com uma Câmera]]
 [s][f 4 23 1 65535 3 10 0 10][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 16001 65535 0]Ei, já nos conhecemos.[n][w][e]
 [s][bup 0 107 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 16057 65535 0]Ohhh, você é aquele cara que estava[n]na frente da casa do Madarame.[n]Descobriu algo interessante?[n][w][e]
 
@@ -1303,13 +1303,13 @@
 [s]Eu diria que não.[e]
 [s]Eu não quero dizer a você.[e]
 
-[msg MSG_OOYA_003_0_0 [Mulher com um quarto]]
+[msg MSG_OOYA_003_0_0 [Mulher com uma Câmera]]
 [s][f 4 23 1 65535 3 10 0 10][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Entendi. Bem, se você descobrir[n]alguma coisa interessante,[n]é só me dar um alô.[n][w][e]
 
-[msg MSG_OOYA_004_0_0 [Mulher com um quarto]]
+[msg MSG_OOYA_004_0_0 [Mulher com uma Câmera]]
 [s][f 4 23 1 65535 3 10 0 10][bup 0 107 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Vamos, garoto, não tente blefar. Pelo que posso[n]dizer, você não tem absolutamente nada.[n][w][e]
 
-[msg MSG_OOYA_005_0_0 [Mulher com um quarto]]
+[msg MSG_OOYA_005_0_0 [Mulher com uma Câmera]]
 [s][f 4 23 1 65535 3 10 0 10][bup 0 107 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu sigo o programa. Não que[n]me interesse, mas trabalhar para[n]outra pessoa funciona assim.[n][w][e]
 [s][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eh, mas por que estou dizendo a você,[n]então. Melhor voltar ao trabalho.[n][w][e]
 
@@ -1317,7 +1317,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 65535 1038 0 0]Ela é a mulher que vimos[n]na casa de Madarame.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Ela disse que era jornalista.[n]Ela deve estar escrevendo um artigo[n]sobre ele.[n][w][e]
 
-[msg MSG_OOYA_007_0_0 [Mulher com um quarto]]
+[msg MSG_OOYA_007_0_0 [Mulher com uma Câmera]]
 [s][f 4 23 1 65535 3 10 0 10][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 16006 65535 0]Ah, vejo você de novo.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Tem tantos alunos aqui...[n]Me sinto um peixe fora d'água.[n][w][e]
 
@@ -1325,15 +1325,15 @@
 [s]Você está aqui a negócios?[e]
 [s]Você parece ocupado.[e]
 
-[msg MSG_OOYA_009_0_0 [Mulher com um quarto]]
+[msg MSG_OOYA_009_0_0 [Mulher com uma Câmera]]
 [s][f 4 23 1 65535 3 10 0 10][bup 0 107 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu sigo o programa. Não que[n]me interesse, mas trabalhar para[n]outra pessoa funciona assim.[n][w][e]
 [s][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eh, mas por que estou dizendo a você,[n]então. Melhor voltar ao trabalho.[n][w][e]
 
-[msg MSG_OOYA_010_0_0 [Mulher com um quarto]]
+[msg MSG_OOYA_010_0_0 [Mulher com uma Câmera]]
 [s][f 4 23 1 65535 8 10 0 10][bup 0 107 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 16108 65535 0]Todos aqueles casos de arrebatamento, depois os[n]hackers e agora os Phantom Thieves.[n]Eu nem tenho tempo para dormir.[n][w][e]
 [s][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Shibuya não é para mim.[n]Acho que vou levantar os calcanhares[n]e ir buscar uma bebida.[n][w][e]
 
-[msg MSG_OOYA_011_0_0 [Mulher com um quarto]]
+[msg MSG_OOYA_011_0_0 [Mulher com uma Câmera]]
 [s][f 4 23 1 65535 3 10 0 10][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 16001 65535 0]Ei, já nos conhecemos.[n][w][e]
 [s][bup 0 107 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 16057 65535 0]Ohhh, você é aquele cara que estava[n]na frente da casa do Madarame.[n]Descobriu algo interessante?[n][w][e]
 
@@ -1341,13 +1341,13 @@
 [s]Eu diria que não.[e]
 [s]Eu não quero dizer a você.[e]
 
-[msg MSG_OOYA_013_0_0 [Mulher com um quarto]]
+[msg MSG_OOYA_013_0_0 [Mulher com uma Câmera]]
 [s][f 4 23 1 65535 3 10 0 10][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Entendi. Bem, se você descobrir[n]alguma coisa interessante,[n]é só me dar um alô.[n][w][e]
 
-[msg MSG_OOYA_014_0_0 [Mulher com um quarto]]
+[msg MSG_OOYA_014_0_0 [Mulher com uma Câmera]]
 [s][f 4 23 1 65535 3 10 0 10][bup 0 107 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Vamos, garoto, não tente blefar. Pelo que posso[n]dizer, você não tem absolutamente nada.[n][w][e]
 
-[msg MSG_OOYA_015_0_0 [Mulher com um quarto]]
+[msg MSG_OOYA_015_0_0 [Mulher com uma Câmera]]
 [s][f 4 23 1 65535 3 10 0 10][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Estou aqui a trabalho.[n]Isto é, li algo[n]interessante na Internet.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Aparentemente, Madarame[n]recebeu uma "Carta de Aviso",[n]então vim ver.[n][w][e]
 [s][bup 0 107 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Tentei entrevistar alguém,[n]mas todos estão de boca fechada.[n]Talvez fosse uma pista falsa.[n][w][e]
@@ -1356,7 +1356,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 65535 1038 0 0]Ela é a mulher que vimos[n]na casa de Madarame.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Ela disse que era jornalista.[n]Ela deve estar escrevendo um artigo[n]sobre ele.[n][w][e]
 
-[msg MSG_OOYA_016_0_0 [Mulher com um quarto]]
+[msg MSG_OOYA_016_0_0 [Mulher com uma Câmera]]
 [s][f 4 23 1 65535 3 10 0 10][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 16002 65535 0]Ei, é você. Enquanto estamos nisso,[n]envie-me uma declaração.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]O que você sabe sobre esta "Carta[n]de Aviso" enviada a Madarame?[n][w][e]
 
@@ -1364,18 +1364,18 @@
 [s]Possivelmente.[e]
 [s]Nada mesmo.[e]
 
-[msg MSG_OOYA_018_0_0 [Mulher com um quarto]]
+[msg MSG_OOYA_018_0_0 [Mulher com uma Câmera]]
 [s][f 4 23 1 65535 3 10 0 10][bup 0 107 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ah, então você sabe.[n][w][e]
 [s][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu li sobre isso[n]na internet, então corri aqui[n]para conferir.[n][w][e]
 
-[msg MSG_OOYA_019_0_0 [Mulher com um quarto]]
+[msg MSG_OOYA_019_0_0 [Mulher com uma Câmera]]
 [s][f 4 23 1 65535 8 10 0 10][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Oh. Bem, deve ter sido um comentário feito[n]aleatoriamente na Internet.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Era sobre uma "Carta de Aviso"[n]enviada para Madarame, então[n]eu corri para ver.[n][w][e]
 
-[msg MSG_OOYA_020_0_0 [Mulher com um quarto]]
+[msg MSG_OOYA_020_0_0 [Mulher com uma Câmera]]
 [s][bup 0 107 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu também perguntei aos expositores[n]na exposição, mas ninguém fala.[n]Foi uma piada?[n][w][e]
 
-[msg MSG_OOYA_022_0_0 [Mulher com um quarto]]
+[msg MSG_OOYA_022_0_0 [Mulher com uma Câmera]]
 [s][f 4 23 1 65535 8 10 0 10][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 16021 65535 0]Dado todo o caso "Sayuri",[n]não pode ser uma[n]simples coincidência.[n][w][e]
 
 [msg MSG_BIKOU01_001_0_0 [Makoto]]
