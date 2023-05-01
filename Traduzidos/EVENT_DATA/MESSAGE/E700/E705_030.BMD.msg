@@ -5,7 +5,7 @@
 [s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ei, como você está? Você está começando a lembrar[n]como tratar os vários tipos de grãos?[n][f 1 3 65535][w][e]
 
 [msg MSG_001_5_0 [Sojiro]]
-[s][bup 0 103 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Três fatores determinam[n]o sabor final de uma[n]xícara de[n]café: moagem, calor e tempo.[n][f 1 3 65535][w][e]
+[s][bup 0 103 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Três fatores determinam[n]o sabor final de uma[n]xícara de[n]café: moer, calor, e tempo.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vamos começar com a moagem.[n]Para os sifões que temos aqui,[n]precisamos de um grão médio-fino.[n][f 1 3 65535][w][e]
 
 [msg MSG_001_7_0 [Sojiro]]
@@ -14,10 +14,10 @@
 [sel SEL_002_0_0 top]
 [s][f 0 8 2 1 2217]Grão médio-fino.[clr 27][e]
 [s]Grão grosso.[e]
-[s]Qualquer um está bem.[e]
+[s]Qualquer um está bom.[e]
 
 [msg MSG_003_0_0 [Sojiro]]
-[s][bup 0 103 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 6 5 1003]Bom. Por favor, continue assim.[n][f 1 3 65535][w][e]
+[s][bup 0 103 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 6 5 1003]Otimo. Por favor, continue assim.[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Sojiro]]
 [s][bup 0 103 5 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não fale besteira. Acabei de te dizer: médio-fino.[n][f 1 3 65535][w][e]
@@ -48,26 +48,26 @@
 [s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 2 0 5032 65535 0]Desculpe, compromisso repentino.[n]Continuaremos a lição[n]outra vez.[n][f 1 3 65535][w][e]
 
 [sel SEL_013_0_0 top]
-[s]Um encontro galante?[e]
+[s]É um encontro?[e]
 [s][f 0 8 2 1 2217]Problemas à frente?[clr 27][e]
 [s]Você não quer mais que eu te ajude?[e]
 
 [msg MSG_014_0_0 [Sojiro]]
-[s][bup 0 103 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Talvez.[n][f 1 3 65535][w][e]
+[s][bup 0 103 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Quem dera.[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Sojiro]]
-[s][bup 0 103 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 6 5 1003]E aí? Você está preocupado comigo?[n][f 1 3 65535][w][e]
-[s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Não é nada que você[n]preocupe.[n][f 1 3 65535][w][e]
+[s][bup 0 103 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 6 5 1003]O que foi? Você está preocupado comigo?[n][f 1 3 65535][w][e]
+[s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Não é nada que você[n]deve se preocupar.[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Sojiro]]
 [s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Claro que sim. Como eu disse,[n]vamos continuar outra vez.[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Sojiro]]
-[s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Enquanto isso, enquanto eu estiver fora, lave a[n]louça. Ah, e lembre-se de desligar o gás antes[n]de sair.[n][f 1 3 65535][w][e]
+[s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Enquanto isso, enquanto eu estiver fora, lave a[n]louça. Ah, e lembre-se de desligar o gás antes[n]de fechar a loja.[n][f 1 3 65535][w][e]
 
 [msg MSG_017_5_0 [Sojiro]]
-[s][bup 0 103 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]É bom ter alguém que[n]pode ajudá-lo em momentos[n]como estes.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você trabalha duro, eu não esperava.[n]Bravo, continue assim.[n][f 1 3 65535][w][e]
+[s][bup 0 103 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]É bom ter alguém que[n]pode ajudar em momentos[n]como este.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você trabalha mais duro do que eu estava esperando[n]Bravo, continue assim.[n][f 1 3 65535][w][e]
 
 [msg MND_990_0_0]
 [s][vp 8 0 0 0 65535 0]Sinto que meu vínculo com[n]Sojiro está ficando mais forte...[n][f 1 3 65535][w][e]
