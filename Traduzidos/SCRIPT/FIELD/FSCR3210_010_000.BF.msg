@@ -311,7 +311,7 @@
 
 [msg MND_Remind_HolyStone]
 [s]Ai acabei de me lembrar...[n][w][e]
-[s]O vidente de Shinjuku[n]vendeu Pedras Sagradas.[n][w][e]
+[s]A vidente de Shinjuku[n]vendeu Pedras Sagradas.[n][w][e]
 [s]Mais cedo ou mais tarde eu deveria visitá-la...[n][w][e]
 
 [msg MND_Remind_DVDRental]

@@ -49,7 +49,7 @@
 [s][bup 0 6 0 2 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Oh, quer pescar na multidão?[n]Este ano, o locutor[n]parece ser um cara legal.[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Apresentador]]
-[s][vp 8 0 0 19 65535 0]Oh, não é o nosso lindo presidente do conselho[n]estudantil ali!?![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 19 65535 0]Oh, não é a nossa linda presidente do conselho[n]estudantil ali!?![n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Makoto]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 6 7 301 1][vp 8 0 0 20 65535 0]Hã!?![n][f 1 3 65535][w][e]

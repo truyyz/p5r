@@ -25,7 +25,7 @@
 [s][bup 0 103 603 0 0][f 4 10 65535 0 0][vp 8 0 0 7 65535 0]Você nunca muda, né?[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Sojiro]]
-[s][bup 0 103 603 0 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Olhando para trás, eu me comportei[n]malmente com você, deixando você sozinho[n]nesse tipo de armário...[n][f 1 3 65535][w][e]
+[s][bup 0 103 603 0 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Pensando bem, fui péssimo com você,[n]joguei você naquele depósito sozinho...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]E então, logo você estará...[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Sojiro]]

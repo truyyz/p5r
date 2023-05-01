@@ -13,8 +13,8 @@
 [s]Eu tenho que encarar a realidade...[n]Eu nunca mais verei Rumi.[n]Se eu interagir com ela, eu poderia[n]acordar suas memórias e toda[n]sua dor ressurgirá.[n]Talvez, Rumi, você nunca vai ouvir[n]essa promessa, mas eu juro...[n]eu vou te dar uma realidade melhor.[n]Muito obrigado por tudo.[n][w][e]
 
 [msg telop_003]
-[s]3 de junho[n]Minha tese progride, passo[n]a passo...[n]Quanto mais pesquisas eu faço, mais[n]eu entendo os riscos do[n]psi-cognitivo ciência.[n]Isso alimenta minhas suspeitas sobre[n]por que minha pesquisa foi[n]interrompida.[n]Não importa como, devo concluir[n]minha tese o mais rápido possível.[n][w][e]
-[s]Meu maior obstáculo é[n]a falta de sujeitos de pesquisa.[n]Se eu pudesse desenterrar alguma[n]alguma pista sobre o[n]mundo cognitivo, sobre esse poder[n]que recebi...[n]Não posso desistir, encontrado ou[n]não fundado.[n]Vou COMPLETAR minha pesquisa.[n]Vou SALVAR a todos.[n][w][e]
+[s][s]3 de junho[n] [n]Minha tese está progredindo, pouco a pouco.[n] [n]Quanto mais pesquisas eu realizo,[n]mais reconheço os perigos[n]da psiciência cognitiva.[n] [n]Isso definitivamente contribuiu para minhas suspeitas[n]sobre minha pesquisa ter sido encerrada.[n] [n]Não importa o que aconteça, devo concluir[n]minha tese o mais rápido possível.[n][w][e]
+[s]Meu maior problema é[n]minha falta de sujeitos de pesquisa.[n] [n]Se ao menos eu pudesse encontrar alguma dica[n]sobre o mundo cognitivo,[n]sobre esse poder que recebi... [n] [n]Não estou desistindo, com financiamento[n]ou sem financiamento.[n] [n]VOU concluir minha tese.[n]VOU salvar a todos.[n][w][e]
 
 [msg telop_004]
 [s]25 de março.[n]Hoje tive uma sessão com[n]uma pessoa realmente interessante.[n]Ela perdeu a irmã mais velha em um[n]acidente e está devastada pela dor.[n][ n] Não posso sentar aqui e vê-la[n]sofrer pelo resto de[n]sua vida. O propósito da minha pesquisa[n]é salvar pessoas como ela.[n]Meus experimentos[n]ensinaram-me que posso modificar[n]qualquer cognição que surja em meu caminho.[n][w][e]

@@ -37,5 +37,5 @@
 
 [msg D01_04_e160_063_mes02 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Veja bem, até mesmo as Sombras têm sentimentos.[n]Uma vez encurralados, eles obviamente ficam com[n]medo.[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Pode ser útil[n]colocá-los propositadamente em uma[n]condição de pedir misericórdia.[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Pode ser útil[n]colocá-los voluntariamente em uma[n]condição de pedir misericórdia.[n][w][e]
 

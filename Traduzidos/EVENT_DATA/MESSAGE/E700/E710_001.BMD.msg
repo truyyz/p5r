@@ -34,7 +34,7 @@
 [s][bup 0 103 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 5054 65535 0]No entanto, lembre-se de fechar[n]compras, como sempre.[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Morgana]]
-[s][bup 0 3 4 0 0][f 4 10 65535 0 0][vp 8 2 0 1190 65535 0]Ei, então... aquele vidente[n]estava certo...?[n][f 1 3 65535][w][e]
+[s][bup 0 3 4 0 0][f 4 10 65535 0 0][vp 8 2 0 1190 65535 0]Ei, então... aquela vidente[n]estava certo...?[n][f 1 3 65535][w][e]
 
 [sel SEL_012_0_0 top]
 [s]Eu penso que sim.[e]

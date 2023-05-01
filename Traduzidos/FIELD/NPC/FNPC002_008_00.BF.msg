@@ -14,7 +14,7 @@
 [s][vp 8 2 1 0 1 0]É por isso que ele sempre tira as notas máximas.[n]Não é de admirar que o diretor confie em você.[n][w][e]
 
 [msg MSG_MAKOTO_UWASA_002_0_0 [Estudante de fala mansa]]
-[s][f 4 23 1 1 3 10 0 0][vp 8 2 1 0 1 0]Hum? O presidente do conselho estudantil não está[n]aqui hoje. Ele está normal lá, estudando.[n][w][e]
+[s][f 4 23 1 1 3 10 0 0][vp 8 2 1 0 1 0]Hum? a presidente do conselho estudantil não está[n]aqui hoje. Ele está normal lá, estudando.[n][w][e]
 
 [msg MSG_MAKOTO_UWASA_002_1_0 [Estudante que gosta de ler]]
 [s][f 4 23 1 2 3 10 0 0][vp 8 2 1 0 2 0]Talvez ela esteja envolvida no caso Kamoshida.[n]Dizem que até o diretor está em crise.[n][w][e]

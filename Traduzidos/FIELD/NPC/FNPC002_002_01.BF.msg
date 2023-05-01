@@ -489,7 +489,7 @@
 [s][vp 8 2 1 0 1 0]Bem, isso não é da sua conta, dada a[n]sua má reputação. Se[n]você quiser me perguntar algo, vá em frente.[n][w][e]
 
 [sel SEL_SINBUNJYOSI_009_0_0 top]
-[s]Sobre o presidente do conselho[e]
+[s]Sobre a presidente do conselho[e]
 [s]no principal[e]
 [s]Em Shibuya[e]
 [s]sobre a escola[e]

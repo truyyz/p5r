@@ -1694,7 +1694,7 @@
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Estou experimentando o uniforme do colégio St.[n]Hermelin.[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Nunca usei uniforme com gravata. Você acha que me[n]dá?[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu acho que fica ótimo em você.[n]Claro, esse vestido é muito[n]estilo Makoto![n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Você se parece com o presidente do conselho estudantil![n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Você se parece com a presidente do conselho estudantil![n][w][e]
 
 [msg DRESSTALK_SEVENS_PC06 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu mudei. Coloquei o uniforme das Sete Irmãs.[n][w][e]
