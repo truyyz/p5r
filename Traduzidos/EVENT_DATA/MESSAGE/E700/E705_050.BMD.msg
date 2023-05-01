@@ -23,7 +23,7 @@
 [s][bup 0 8 4 65535 0][f 4 10 65535 0 0][f 4 24 0 5 0 39 3 100][f 4 24 0 5 0 5 3 100][vp 8 0 0 0 65535 0]Ah Não! Esta prestes a começar![n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Futaba]]
-[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mal posso esperar e...[n]Oh, deixa! Olá![n][f 1 3 65535][w][e]
+[s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Mal posso esperar e...[n]Oh, deixa. Adeus![n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Sojiro]]
 [s][bup 0 103 1 0 0][f 4 10 65535 0 0][vp 8 2 0 5024 65535 0]Ela disse que achou[n]"delicioso"...[n][f 1 3 65535][w][e]
