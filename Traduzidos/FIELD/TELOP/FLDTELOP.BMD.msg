@@ -1,7 +1,7 @@
 [msg telop_000]
-[s]2 de fevereiro[n]Amanhã é o aniversário de Rumi.[n]Vou conhecer os pais dela...[n]Minhas mãos já estão tremendo...[n]Eles vão permitir que seu único filho[n]filha para se casar com um[n]pesquisador de baixo nível como eu?[n]Aqui, agora estou ainda mais[n]ansioso do que antes...[n][w][e]
-[s]Quando contei a Rumi sobre meu[n]nervosismo, ela riu alto e[n]me disse que eu penso demais.[n]Embora ela não tenha entendido o problema,[n]eu amo aquela risada dela.[ n][n]Duvido que consiga dormir neste[n]estado, mas ainda tenho que[n]deitar.[n][w][e]
-[s]Minha cabeça está latejando ultimamente...[n]Talvez eu esteja me estressando[n]demais com minha tese.[n]Amanhã eu realmente quero estar no meu[n]melhor. Eu sei que este[n]diário foi originalmente concebido para conter apenas[n]notas de pesquisa, mas agora espero poder[n]lê-lo novamente um dia, junto com[n]Rumi, e sentir saudades.[n][w][e]
+[s]2 de fevereiro[n]Amanhã é aniversário de Rumi. Estarei[n]encontrando os pais dela... Minhas mãos[n]têm tremido muito ultimamente.[n] [n]Eles vão deixar a filha se casar[n]com um pesquisador de baixo nível como eu?[n] [n]Agora estou ficando ainda mais ansioso...[n][w][e]
+[s]Quando eu disse a Rumi o quão nervosa[n]estou ficando, ela apenas riu e[n]disse que eu penso demais. Ela pode não[n]ter entendido meu problema, mas[n]eu amo a risada dela.[n] [n]Acho que não vou conseguir dormir com[n]meus nervos assim, mas Eu preciso me deitar[n]de qualquer maneira.[n][w][e]
+[s]Tenho tido as piores dores de cabeça[n]ultimamente... Posso estar me esforçando[n]muito para esta tese.[n] [n]Eu realmente quero estar em sua melhor forma[n] amanhã. Eu sei que este diário era[n]originalmente apenas para notas de pesquisa,[n]mas agora espero poder olhar para ele[n]com Rumi algum dia e sentir saudades.[n][w][e]
 
 [msg telop_001]
 [s]9 de abril[n]Não posso acreditar. Eu nunca[n]quero ver os pais dela novamente...[n]Eu nem sei se Rumi[n]algum dia voltará para mim.[n]Desde aquele dia, seu coração[n]fechou completamente...[n][w][e]
