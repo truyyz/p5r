@@ -4,27 +4,27 @@
 
 [sel SEL_001_0_0 top]
 [s][f 0 8 2 1 2217]Como fazer café.[clr 27][e]
-[s]Como pegar.[e]
+[s]Como pegar garotas.[e]
 [s]Eu não faço ideia.[e]
 
 [msg MSG_002_0_0 [Sojiro]]
-[s][bup 0 103 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 6 5 1003]Exatamente. Fico feliz que[n]pelo menos chegue a esse ponto.[n][f 1 3 65535][w][e]
+[s][bup 0 103 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0][f 5 13 6 5 1003]Exatamente. Fico feliz em[n]saber que você pelo menos entende isso.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Pode não ser o lugar mais movimentado[n]da cidade, mas sou muito exigente[n]sobre como administramos as coisas aqui.[n][f 1 3 65535][w][e]
-[s][bup 0 103 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E se você servir um café ruim,[n]eu te chuto para fora do caminho sem[n]criar muito problema, ok?[n][f 1 3 65535][w][e]
+[s][bup 0 103 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E se você servir um café ruim,[n]eu te chuto para fora daqui sem[n]criar muito problema, ok?[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Sojiro]]
-[s][bup 0 103 5 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Talvez falemos sobre isso daqui a dez anos. Não,[n]vou te ensinar como fazer café.[n][f 1 3 65535][w][e]
+[s][bup 0 103 5 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Talvez falemos sobre isso daqui a dez anos. Eu,[n]vou te ensinar como fazer café.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Pode não ser o lugar mais movimentado[n]da cidade, mas sou muito exigente[n]sobre como administramos as coisas aqui.[n][f 1 3 65535][w][e]
-[s][bup 0 103 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E se você servir um café ruim,[n]eu te chuto para fora do caminho sem[n]criar muito problema, ok?[n][f 1 3 65535][w][e]
+[s][bup 0 103 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E se você servir um café ruim,[n]eu te chuto para fora daqui sem[n]criar muito problema, ok?[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Sojiro]]
-[s][bup 0 103 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*suspiro* Estamos bem...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][f 4 24 0 4 0 37 3 100][f 4 24 0 4 0 0 5 100][vp 8 0 0 0 65535 0]O que mais, senão como fazer[n]café? Sou muito exigente[n]sobre como fazemos isso aqui.[n][f 1 3 65535][w][e]
-[s][bup 0 103 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E se você servir um café ruim,[n]eu te chuto para fora do caminho sem[n]criar muito problema, ok?[n][f 1 3 65535][w][e]
+[s][bup 0 10    3 3 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]*suspiro* Estamos bem...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][f 4 24 0 4 0 37 3 100][f 4 24 0 4 0 0 5 100][vp 8 0 0 0 65535 0]O que mais poderia ser senão como fazer[n]café? Sou muito exigente[n]sobre como fazemos isso aqui.[n][f 1 3 65535][w][e]
+[s][bup 0 103 2 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E se você servir um café ruim,[n]eu te chuto para fora daqui sem[n]criar muito problema, ok?[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Cliente áspero]]
-[s][vp 8 0 0 0 65535 0]So-chan com certeza sabe como[n]fazer café.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]O que também vai muito bem com seu[n]caril especial... Tanto que[n]eu sempre peço o menu fixo.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]So-chan com certeza sabe como[n]fazer um café.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]O que também vai muito bem e o seu[n]curry especial... Tanto que[n]eu sempre peço ele.[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Sojiro]]
 [s][bup 0 103 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O que posso dizer... Para meus[n]clientes regulares, reservo uma experiência[n]sob medida.[n][f 1 3 65535][w][e]
