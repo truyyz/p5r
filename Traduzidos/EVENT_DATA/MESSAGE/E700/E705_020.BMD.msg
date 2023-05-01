@@ -27,7 +27,7 @@
 [s][vp 8 0 0 0 65535 0]O que também vai muito bem e o seu[n]curry especial... Tanto que[n]eu sempre peço ele.[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Sojiro]]
-[s][bup 0 103 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O que posso dizer... cada um dos meus[n]clientes recebem uma experiência personalizada para cada um.[n][f 1 3 65535][w][e]
+[s][bup 0 103 1 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O que posso dizer... cada um dos meus[n]clientes recebem uma experiência personalizada[n]para cada um.[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Cliente áspero]]
 [s][vp 8 0 0 0 65535 0]Qual é o segredo desse gosto[n]celestial, So-chan? Eu gostaria[n]de fazer em casa.[n][f 1 3 65535][w][e]
