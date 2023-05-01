@@ -19,10 +19,10 @@
 
 [sel SEL_006_0_0 top]
 [s][f 5 14]Horripilante.[e]
-[s]Cancele agora.[e]
+[s]Apague agora.[e]
 
 [msg MSG_007_0_0 [Ryuji]]
-[s][f 5 14]Seriamente. O que é isso...?[n][w][e]
+[s][f 5 14]Sério. O que é isso...?[n][w][e]
 
 [msg MSG_008_0_0 [Ryuji]]
 [s][f 5 14]Eu apaguei,[n]mas está de volta...[n][w][e]

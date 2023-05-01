@@ -39,7 +39,7 @@
 [s]Decidir depois[e]
 
 [sel SEL_002 top]
-[s][f 5 14]Nós estamos lá.[e]
+[s][f 5 14]Estou indo pra aí.[e]
 
 [msg MND_COOP_DOUZOKUSEI]
 [s]Sinto que posso me aproximar mais de[n]Hifumi graças a Persona[n][var 2] [clr 1][var 5][clr 27]...[n][w][e]

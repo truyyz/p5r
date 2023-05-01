@@ -12,7 +12,7 @@
 [s]Decidir depois[e]
 
 [sel SEL_002 top]
-[s][f 5 14]Nós estamos lá.[e]
+[s][f 5 14]Estou indo pra aí.[e]
 
 [msg MSG_REACTION [Yoshida]]
 [s][f 5 14]Fico feliz em saber disso.[n]Esperando por você.[n][f 5 15][w][e]

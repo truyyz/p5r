@@ -6,22 +6,22 @@
 
 [msg MSG_002_0_0 [Ann]]
 [s][bup 0 4 100 65535 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]"Uma obra de arte conglomerada,[n]criada pelo grande diretor[n]Madarame com seus próprios fundos."[n][f 1 3 65535][w][e]
-[s][bup 0 4 103 65535 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]"Esses indivíduos terão[n]oferecer suas ideias ao diretor[n]pelo resto de suas vidas."[n][f 1 3 65535][w][e]
-[s][bup 0 4 102 65535 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]"Aqueles que não podem[n]não são dignos de viver!".[n][f 1 3 65535][w][e]
+[s][bup 0 4 103 65535 0][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]"Esses indivíduos terão que[n]oferecer suas ideias ao diretor[n]pelo resto de suas vidas."[n][f 1 3 65535][w][e]
+[s][bup 0 4 102 65535 0][f 4 10 65535 0 0][vp 8 0 0 5 65535 0]"Aqueles que não puderem[n]não são dignos de viver!".[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [Ann]]
-[s][bup 0 4 102 65535 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Ei... Parece[n]referindo-se a plágio, certo...?[n][f 1 3 65535][w][e]
+[s][bup 0 4 102 65535 0][f 4 10 65535 0 0][vp 8 0 0 6 65535 0]Ei... Parece[n]que está se referindo a plágio, certo...?[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Ryuji]]
 [s][vp 8 0 0 7 65535 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 3 300 1]Merda, que velho vigarista![n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Em essência, seus alunos são[n]sua propriedade. Se for verdade, ele não[n]merece ser chamado de artista.[n][f 1 3 65535][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0]Em outras palavras, seus alunos são[n]sua propriedade. Se for verdade, ele não[n]merece ser chamado de artista.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Ele está roubando as ideias de seus alunos mais[n]talentosos em troca de seu sustento.[n][f 1 3 65535][w][e]
 
 [msg MSG_005_5_0 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 42 65535 0]Eu queria saber o que retratos eram aqueles...[n]Deve ser o conhecimento que ele tem de seus[n]"alunos".[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Também diz aqui que eles[n]não têm valor. Irá[n]lidar com abuso?[n][f 1 3 65535][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 42 65535 0]Eu deveria saber o que eram aqueles retratos...[n]Deve ser a visão que ele tem de seus[n]"alunos".[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Também diz aqui que eles[n]não têm valor.[n]Como isso pode não ser relacionado a abuso?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Madarame os segura[n]enquanto forem úteis,[n]mas quando não são mais...[n][f 1 3 65535][w][e]
 
 [msg MSG_006_0_0 [Ann]]
@@ -45,15 +45,15 @@
 [s][bup 0 2 102 65535 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Então, o que fazemos?[n]Não há o suficiente para[n]atacar Madarame!?![n][f 1 3 65535][w][e]
 
 [sel SEL_012_0_0 top]
-[s]Vamos entrar nisso.[e]
+[s]Vamos entrar nessa.[e]
 [s]Eu ainda tenho dúvidas.[e]
 [s]O que você acha?[e]
 
 [msg MSG_013_0_0 [Ryuji]]
-[s][vp 8 0 0 20 65535 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 10 301 1]Então eu quero você![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 20 65535 0][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 2 10 301 1]É disso que eu to falando![n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 41 65535 0]Espere, vocês dois.[n][f 1 3 65535][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 41 65535 0]Esperem, vocês dois.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Devemos verificar[n]os fatos com Yusuke primeiro.[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Ryuji]]
@@ -87,7 +87,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 33 65535 0]Se eu concordar em posar para ele,[n]poderei arrancar[n]a verdade dele.[n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [Morgana]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 3 11 300 1][vp 8 0 0 34 65535 0]Espera, você quer mesmo!?![n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 3 11 300 1][vp 8 0 0 34 65535 0]Espera, você vai fazer isso mesmo!?![n][f 1 3 65535][w][e]
 
 [msg MSG_025_0_0 [Ann]]
 [s][bup 0 4 103 65535 0][f 4 10 65535 0 0][vp 8 0 0 35 65535 0]Vai ser bom se você vier comigo,[n]Ok? Me assusta ir lá sozinha...[n][f 1 3 65535][w][e]

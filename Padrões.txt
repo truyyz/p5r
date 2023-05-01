@@ -79,3 +79,12 @@ Dizzy = Tonto
 Hunger = Faminto
 Forget = Amnésia
 Freeze = Congelado
+Fear = Medo
+Shock = Choque
+Rage = Fúria
+Confuse = Confusão
+Despair = Desespero
+Sleep = Sono
+
+Lugares:
+Batting Cages = Gaiolas de Tênis

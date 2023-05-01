@@ -53,7 +53,7 @@
 [s][bup 0 4 103 0 0][vp 8 2 2 6027 0 0][f 4 10 65535 0 0]Mas... eu entendo...[n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_HOLDUP02_001_002 [Ann]]
-[s][bup 0 4 103 0 0][vp 8 2 2 0 0 0][f 4 10 65535 0 0]Shiho me disse que você[n]ele confia mais[n]no time de vôlei.[n][f 1 3 65535][w][e]
+[s][bup 0 4 103 0 0][vp 8 2 2 0 0 0][f 4 10 65535 0 0]Shiho me disse que você[n]é quem ela mais confia[n]no time de vôlei.[n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_HOLDUP02_002_000 [Sombra de Saeki]]
 [s][vp 8 2 2 51330 1 707]Você não sabe nada sobre mim![n][f 1 3 65535][w][e]
@@ -85,7 +85,7 @@
 [s][vp 8 2 2 0 0 0]Eu estava começando a acreditar[n]que poderíamos vencer...[n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_HOLDUP03_001_003 [Sombra de Saeki]]
-[s][vp 8 2 2 51354 1 707]E tudo... por causa do Shiho![n][f 1 3 65535][w][e]
+[s][vp 8 2 2 51354 1 707]E tudo... por causa da Shiho![n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_HOLDUP03_002_000 [Sombra de Saeki]]
 [s][vp 8 2 2 51303 1 707]Não é verdade! Você não sabe de nada![n][f 1 3 65535][w][e]

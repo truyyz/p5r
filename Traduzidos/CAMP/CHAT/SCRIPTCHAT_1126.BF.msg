@@ -1,5 +1,5 @@
 [msg MSG_000_0_0 [Chihaya]]
-[s][f 5 14]Estás livre hoje?[n][w][e]
+[s][f 5 14]Você está livre hoje?[n][w][e]
 
 [msg MSG_001_0_0 [Chihaya]]
 [s][f 5 14]Eu ofereço muitos serviços, desde a[n]leitura de cartões até a verificação.[n][w][e]
@@ -18,7 +18,7 @@
 [s]Decidir depois[e]
 
 [sel SEL_002 top]
-[s][f 5 14]Nós estamos lá.[e]
+[s][f 5 14]Estou indo pra aí.[e]
 
 [msg MSG_REACTION [Chihaya]]
 [s][f 5 14]Mal posso esperar para você estar aqui.[n][f 5 15][w][e]

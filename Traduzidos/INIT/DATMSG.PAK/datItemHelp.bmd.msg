@@ -800,7 +800,7 @@
 [s]Para aqueles que almejam[n]estrelas. Velocidade da[n]bola: 140 km/h.[n][e]
 
 [msg Item_10B]
-[s]O derradeiro desafio das[n]gaiolas de rebatidas. Velocidade[n]da bola: 165 km/h.[n][e]
+[s]O derradeiro desafio das[n]Gaiolas de Tênis. Velocidade[n]da bola: 165 km/h.[n][e]
 
 [msg Item_10C]
 [s]Para iniciantes. Velocidade da bola[n]: 69 km/h.[n][e]
@@ -1019,7 +1019,7 @@
 [s]não utilizado[n][e]
 
 [msg Item_154]
-[s]Aumenta as chances de[n]encontrar Demônios do Tesouro nos Palácios.[n][e]
+[s]Aumenta as chances de[n]encontrar Demônio Tesouro[n]nos Palácios.[n][e]
 
 [msg Item_155]
 [s]não utilizado[n][e]
@@ -1757,7 +1757,7 @@
 [s]Obtido de Featherman[n]Seeker. Um entusiasta[n]sabe apreciar seu valor.[n][e]
 
 [msg Item_24A]
-[s]Um dia[n]bilhete grátis para[n]as gaiolas de rebatidas.[n][e]
+[s]Um dia[n]bilhete grátis para[n]as Gaiolas de Tênis.[n][e]
 
 [msg Item_24B]
 [s]Reforço muscular que[n]aumenta ATK/Def/Prev/[n]Elude de um aliado.[n][e]

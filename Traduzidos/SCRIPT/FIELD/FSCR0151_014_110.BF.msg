@@ -1,19 +1,19 @@
 [msg D01_03_161_060_mes01 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1099 65535 0]É logo depois daquela sala de jantar! Vamos![n][w][e]
 
-[msg D01_03_e161_062_mes01 [Voz de Ana]]
+[msg D01_03_e161_062_mes01 [Voz de Ann]]
 [s][vp 1 0 0 6 0 0]*gole*[n][w][e]
 
 [msg D01_03_e161_062_mes02 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1154 65535 0]Por aqui![n][w][e]
 
-[msg D01_03_e156_101_mes01 [Voz de Ana]]
+[msg D01_03_e156_101_mes01 [Voz de Ann]]
 [s][vp 1 0 0 1 0 0]Você está gravando um filme?!?[n]Quem é o responsável?!?[n][w][e]
 
 [msg D01_03_e156_101_mes02 [Ryuji]]
 [s][vp 1 0 0 2 0 0][bup 0 2 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ele não tem ideia do que está acontecendo![n][w][e]
 
-[msg D01_03_e156_101_mes03 [Voz de Ana]]
+[msg D01_03_e156_101_mes03 [Voz de Ann]]
 [s][vp 1 0 0 3 0 0]Escute, peço desculpas por[n]tocar na armadura sem permissão![n][w][e]
 
 [msg D01_03_e156_101_mes04 [Ryuji]]

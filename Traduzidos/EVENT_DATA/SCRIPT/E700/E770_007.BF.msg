@@ -589,10 +589,10 @@
 [msg MND_BookID_20_ReadEnd]
 [s][vp 1 0 0 0 0 0]Terminei de ler[clr 3][var 0][clr 27]...[n][f 1 3 65535][w][e]
 [s][vp 1 0 0 0 0 0]Explica em grandes[n]detalhes como identificar[n]tipos de arremesso de bola.[n][f 1 3 65535][w][e]
-[s][vp 1 0 0 0 0 0]Talvez eu devesse ir[n]para as gaiolas de rebatidas[n]para experimentar o que aprendi.[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Talvez eu devesse ir[n]para as Gaiolas de Tênis[n]para experimentar o que aprendi.[n][f 1 3 65535][w][e]
 
 [msg MSG_BookID_20_ReadEnd_SY]
-[s]Agora você pode usar [clr 2]Terceiro Olho[clr 27][n]em gaiolas de rebatidas.[n][w][e]
+[s]Agora você pode usar [clr 2]Terceiro Olho[clr 27][n]em Gaiolas de Tênis.[n][w][e]
 [s]Isso ajudará você a se concentrar[n]e acertar a bola[n]mais facilmente.[n][w][e]
 
 [msg MSG_BookID_21_ReadEnd [Morgana]]
@@ -852,7 +852,7 @@
 [s]Agora você pode viajar rapidamente[n]para o [clr 6]banho público[clr 0][n]em Yongen-Jaya.[n][w][e]
 
 [msg MSG_SYSTEM_SHORTCUT_BATT]
-[s]Agora você pode viajar rapidamente[n]para as [clr 6]gaiolas de rebatidas[clr 0][n]de Yongen-Jaya.[n][w][e]
+[s]Agora você pode viajar rapidamente[n]para as [clr 6]Gaiolas de Tênis[clr 0][n]de Yongen-Jaya.[n][w][e]
 
 [msg MSG_BookID_47_ReadEnd_02 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você deve[n]verificar esses lugares de vez em quando.[n][f 1 3 65535][w][e]

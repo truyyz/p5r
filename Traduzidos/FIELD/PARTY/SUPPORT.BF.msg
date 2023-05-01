@@ -1286,7 +1286,7 @@
 [s][vp 1 0 0 2087 0 0]Há um baú![n][f 1 6 65535][e]
 
 [msg D_CHECK_T_PC02_mes02]
-[s][vp 1 0 0 2088 0 0]Peito manchado![n]Vamos abrir![n][f 1 6 65535][e]
+[s][vp 1 0 0 2088 0 0]Tesouro trancado![n]Vamos abrir![n][f 1 6 65535][e]
 
 [msg D_CHECK_T_PC02_mes03]
 [s][vp 1 0 0 2089 0 0]Um baú, Joker![n]Há um baú![n][f 1 6 65535][e]
@@ -1559,7 +1559,7 @@
 [s][vp 1 0 0 12016 0 0]Oh, nós temos uma Semente de[n]cobiça... e logo teremos[n]as outras também![n][f 1 6 65535][e]
 
 [msg GET_SEED_PC02_mes03]
-[s][vp 1 0 0 12017 0 0]Uma das Seeds of Greed de[n]Shido, hein? Bom.[n]Vamos procurar os outros.[n][f 1 6 65535][e]
+[s][vp 1 0 0 12017 0 0]Uma das Sementes da Vontade de[n]Shido, hein? Bom.[n]Vamos procurar os outros.[n][f 1 6 65535][e]
 
 [msg D_ACT_JUMP_PC03_mes01]
 [s][vp 1 0 0 3000 0 0]Ah![n][f 1 6 65535][e]
@@ -1823,7 +1823,7 @@
 [s][vp 1 0 0 3086 0 0]Ei! É perigoso, Joker![n][f 1 6 65535][e]
 
 [msg D_CHECK_T_PC03_mes01]
-[s][vp 1 0 0 3087 0 0]Peito Detectado! Dentro[n]deve haver algo[n]interessante.[n][f 1 6 65535][e]
+[s][vp 1 0 0 3087 0 0]Tesouro Detectado! Dentro[n]deve haver algo[n]interessante.[n][f 1 6 65535][e]
 
 [msg D_CHECK_T_PC03_mes02]
 [s][vp 1 0 0 3088 0 0]Olha, um baú...[n]Por que não abrimos?[n][f 1 6 65535][e]
@@ -3743,7 +3743,7 @@
 [s][vp 1 0 0 6021 0 0]Fomos expostos![n][f 1 6 65535][e]
 
 [msg D_FOUND_A_PC06_mes03]
-[s][vp 1 0 0 6022 0 0]*engole em seco* Cuidado![n][f 1 6 65535][e]
+[s][vp 1 0 0 6022 0 0]*engole seco* Cuidado![n][f 1 6 65535][e]
 
 [msg D_FOUND_A_PC06_mes04]
 [s][vp 1 0 0 6023 0 0]Eles nos viram?!?[n][f 1 6 65535][e]
@@ -4742,7 +4742,7 @@
 [s][vp 1 0 0 17012 0 0]Oh, esta é uma das Sementes de[n]cobiça de meu pai,[n]mas devemos obtê-la![n][f 1 6 65535][e]
 
 [msg FIND_SEED_PC07_mes02]
-[s][vp 1 0 0 17013 0 0]Outro[n]Seeds of Lust do meu pai... Vamos pegá-lo![n][f 1 6 65535][e]
+[s][vp 1 0 0 17013 0 0]Outro[n]Sementes da Vontade do meu pai... Vamos pegá-lo![n][f 1 6 65535][e]
 
 [msg FIND_SEED_PC07_mes03]
 [s][vp 1 0 0 17014 0 0]Boneco[n][f 1 6 65535][e]
@@ -5033,7 +5033,7 @@
 [s][vp 1 0 0 8091 0 0]Ei, notei uma coisa.[n][f 1 6 65535][e]
 
 [msg D_CHECK_I_PC08_mes03]
-[s][vp 1 0 0 8092 0 0]*engole em seco* Tem algo aqui![n]Joker, vamos dar uma olhada![n][f 1 6 65535][e]
+[s][vp 1 0 0 8092 0 0]*engole seco* Tem algo aqui![n]Joker, vamos dar uma olhada![n][f 1 6 65535][e]
 
 [msg D_PARTY_EX_PC08_mes01]
 [s][vp 1 0 0 8093 0 0]Eu cuido disso![n][f 1 6 65535][e]
@@ -9683,7 +9683,7 @@
 [s][vp 1 0 0 6616 0 0]Nem eu. Não baixemos a guarda. Isso vale para[n]você também, Joker.[n][f 1 6 65535][e]
 
 [msg D_CAR__PC06_mes617]
-[s][vp 1 0 0 6617 0 0]*engole em seco* Por que não mudamos de assunto,[n]Fox?[n][f 1 6 65535][e]
+[s][vp 1 0 0 6617 0 0]*engole seco* Por que não mudamos de assunto,[n]Fox?[n][f 1 6 65535][e]
 
 [msg D_CAR__PC06_mes618]
 [s][vp 1 0 0 6618 0 0]Entendo... É uma interpretação[n]menos assustadora.[n][f 1 6 65535][e]

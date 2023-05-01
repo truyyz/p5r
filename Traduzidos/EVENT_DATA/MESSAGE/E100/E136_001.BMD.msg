@@ -52,7 +52,7 @@
 
 [msg MSG_012_0_0 [Mishima]]
 [s][bup 0 111 503 65535 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Desculpe interromper, Suzui.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]Uhm... Prof. Kamoshida[n]me disse para vir buscá-lo.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]Uhm... Prof. Kamoshida[n]me disse para vir buscá-la.[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Shiho]]
 [s][bup 0 212 4 0 0][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]Hã?[n][f 1 3 65535][w][e]

@@ -64,7 +64,7 @@
 [s][f 4 23 1 836 3 10 0 0]Bem aqui...[n]Você está procurando por alguém?[n][w][e]
 
 [msg JYOSHIFUTARI_05_0_0 [Aluno assustado]]
-[s][f 4 23 1 837 3 10 0 0]*engole em seco* Ei, ele não é...?[n]Sabe, aquele cara assustador...[n][w][e]
+[s][f 4 23 1 837 3 10 0 0]*engole seco* Ei, ele não é...?[n]Sabe, aquele cara assustador...[n][w][e]
 
 [msg JYOSHIFUTARI_06_0_0 [Aluno irritado]]
 [s][f 4 23 1 836 3 10 0 0]O que?!? Por que você não me contou?[n]E eu também falei sobre isso...[n]Inacreditável...[n][w][e]

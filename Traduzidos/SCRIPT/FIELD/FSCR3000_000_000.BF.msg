@@ -19,7 +19,7 @@
 [sel MY_BED_SEL_00 top]
 [s]Dormir[e]
 [s]Gastar tempo até o prazo[e]
-[s]não durma ainda[e]
+[s]Não dormir ainda[e]
 
 [msg MSG_BED_MORGANA_KAWAKAMI [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 1172 65535 0]Você pediu a Kawakami para fazer[n]algo para você, certo?[n]Você quer esperar até que eu termine?[n][w][e]
@@ -38,7 +38,7 @@
 [sel MY_BED_SEL_01 top]
 [s]Dormir[e]
 [s]Fique bem até o prazo[e]
-[s]não durma ainda[e]
+[s]Não dormir ainda[e]
 
 [msg MSG_BED_MORGANA_NIGHT_02 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 2 1 1156 65535 0]Amanhã teremos a única chance[n]de colocar as mãos no Tesouro.[n]Vamos com tudo, vamos lá![n][w][e]
@@ -46,7 +46,7 @@
 [sel MY_BED_SEL_02 top]
 [s]Dormir[e]
 [s]Fique bem até o prazo[e]
-[s]não durma ainda[e]
+[s]Não dormir ainda[e]
 
 [msg MSG_BED_MORGANA_NIGHT_03 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 53116 65535 0]Para esta noite, você pode ir com calma. Não há[n]mais nada a fazer senão esperar o despertar do[n]coração.[n][w][e]
@@ -54,7 +54,7 @@
 [sel MY_BED_SEL_03 top]
 [s]Dormir[e]
 [s]Fique bem até o prazo[e]
-[s]não durma ainda[e]
+[s]Não dormir ainda[e]
 
 [msg MSG_BED_MORGANA_NIGHT_04 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 1164 65535 0]Não há razão para se preocupar com isso agora.[n]Vamos dormir.[n][w][e]
@@ -62,7 +62,7 @@
 [sel MY_BED_SEL_04 top]
 [s]Dormir[e]
 [s]Fique bem até o prazo[e]
-[s]não durma ainda[e]
+[s]Não dormir ainda[e]
 
 [msg MSG_BED_NIGHT_0411]
 [s]Eu sou impotente. Será por[n]toda a confusão que[n]aconteceu comigo...[n][w][e]
@@ -318,7 +318,7 @@
 [sel MY_BED_SEL_06 top]
 [s]Dormir[e]
 [s]Fique bem até o prazo[e]
-[s]não durma ainda[e]
+[s]Não dormir ainda[e]
 
 [msg MSG_BED_MORGANA_NIGHT_12_2 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 1192 65535 0]Você já está indo para a cama?[n][w][e]
@@ -326,7 +326,7 @@
 [sel MY_BED_SEL_08 top]
 [s]Dormir[e]
 [s]Fique bem até o prazo[e]
-[s]não durma ainda[e]
+[s]Não dormir ainda[e]
 
 [msg MSG_BED_MORGANA_NIGHT_12_3 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0]Ok boa noite.[n][w][e]
@@ -357,7 +357,7 @@
 [sel MY_BED_SEL_LONELY top]
 [s]Dormir[e]
 [s]Fique bem até o prazo[e]
-[s]não durma ainda[e]
+[s]Não dormir ainda[e]
 
 [sel MY_BED_SEL_DAYTIME top]
 [s]Dormir[e]

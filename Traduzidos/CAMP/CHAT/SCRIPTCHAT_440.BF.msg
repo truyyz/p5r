@@ -1,5 +1,5 @@
 [msg MSG_000_0_0 [Yusuke]]
-[s][f 5 14]Estás livre hoje?[n][w][e]
+[s][f 5 14]Você está livre hoje?[n][w][e]
 
 [msg MSG_001_0_0 [Yusuke]]
 [s][f 5 14]Há algo que eu[n]eu gostaria que você visse.[n][f 5 15][w][e]

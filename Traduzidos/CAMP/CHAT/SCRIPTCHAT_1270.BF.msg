@@ -2,7 +2,7 @@
 [s][f 5 14]Olá senpai.[n][w][e]
 
 [msg MSG_002_0_0 [Sumire]]
-[s][f 5 14]Estás livre hoje?[n][w][e]
+[s][f 5 14]Você está livre hoje?[n][w][e]
 [s][f 5 14]Se você ainda não tem compromissos,[n]que tal nos encontrarmos?[n][f 5 15][w][e]
 
 [msg MSG_REACTION [Sumire]]
@@ -17,5 +17,5 @@
 [s]Recusar[e]
 
 [sel SEL_002 top]
-[s][f 5 14]Nós estamos lá.[e]
+[s][f 5 14]Estou indo pra aí.[e]
 

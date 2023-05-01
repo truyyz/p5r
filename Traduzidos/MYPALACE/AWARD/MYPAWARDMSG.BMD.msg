@@ -122,7 +122,7 @@
 [s]Resolvido [var 1] jogo de palavras cruzadas[n]em Leblanc.[n][e]
 
 [msg MSG_041]
-[s]Acerte [var 1] home runs nas[n]gaiolas de rebatidas em Yongen-Jaya.[n][e]
+[s]Acerte [var 1] home runs nas[n]Gaiolas de Tênis em Yongen-Jaya.[n][e]
 
 [msg MSG_042]
 [s]Usou o banho público[n]"Fuji no Yu" em Yongen-Jaya[n][var 1] vezes.[n][e]

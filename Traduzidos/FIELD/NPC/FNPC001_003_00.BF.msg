@@ -553,7 +553,7 @@
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Os Phantom Thieves sobre os quais todo mundo[n]sempre fala online![n]O que você diz, eu roubo seu coração? Hum?[n][w][e]
 
 [msg MSG_TIKAAIDORU_006_2_0 [Ídolo independente de pouca fama]]
-[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]*engole em seco* Não é mentira...[n]É só uma imagem![n][w][e]
+[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]*engole seco* Não é mentira...[n]É só uma imagem![n][w][e]
 
 [msg MSG_TIKAAIDORU_006_3_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Eheheh, vou continuar trabalhando[n]e me tornar um ídolo famoso![n][w][e]

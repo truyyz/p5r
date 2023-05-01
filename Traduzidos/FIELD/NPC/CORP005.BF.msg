@@ -478,7 +478,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Nossa, que dor de cabeça...[n][w][e]
 
 [msg MND_C05_COOP_06_01]
-[s]Sojiro parece preocupado[n]com a questão do tio de[n]futaba...[n][w][e]
+[s]Sojiro parece preocupado[n]com a questão do tio da[n]Futaba...[n][w][e]
 [s]É certo eu me intrometer[n]nos problemas de Sojiro[n]e Futaba...?[n][w][e]
 
 [msg MND_C05_COOP_06_02]

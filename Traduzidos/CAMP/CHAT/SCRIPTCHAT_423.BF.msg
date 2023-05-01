@@ -5,7 +5,7 @@
 [s][f 5 14]Eu tenho um discurso importante para fazer[n]a ele.[n][w][e]
 
 [msg MSG_002_0_0 [Haru]]
-[s][f 5 14]Estás livre hoje?[n][w][e]
+[s][f 5 14]Você está livre hoje?[n][w][e]
 
 [msg MSG_003_0_0 [Haru]]
 [s][f 5 14]Eu gostaria que você estivesse[n]ao meu lado, se possível.[n][w][e]

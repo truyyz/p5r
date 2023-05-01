@@ -28,7 +28,7 @@
 [s]Responder mais tarde[e]
 
 [sel SEL_002 top]
-[s][f 5 14]Nós estamos lá.[e]
+[s][f 5 14]Estou indo pra aí.[e]
 
 [msg MND_COOP_DOUZOKUSEI]
 [s]Eu deveria ser capaz de fortalecer[n]nosso vínculo, já que tenho [clr 1][var 5][clr 27][n]da Arcana [var 2]...[n][w][e]

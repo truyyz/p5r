@@ -22,7 +22,7 @@
 [s][f 5 14]Que bom que ele escreveu[n]sobre o Phan-Site![n][w][e]
 
 [msg MSG_005_0_0 [Mishima]]
-[s][f 5 14]Mão! É que está chovendo![n]Na minha cara![n][w][e]
+[s][f 5 14]Sem chance! É que tá chovendo![n]Na minha cara![n][w][e]
 
 [msg MSG_006_0_0 [Mishima]]
 [s][f 5 14][f 5 15]De qualquer forma, ótimo trabalho![n][w][e]

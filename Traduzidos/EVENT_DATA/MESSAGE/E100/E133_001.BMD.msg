@@ -31,7 +31,7 @@
 
 [msg MSG_008_0_0 [Ryuji]]
 [s][bup 0 2 103 0 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Sim, agora que penso nisso...[n][f 1 3 65535][w][e]
-[s][bup 0 2 104 0 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Mas por que ele está aqui!?![n][f 1 3 65535][w][e]
+[s][bup 0 2 104 0 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Mas por que ela está aqui!?![n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Ryuji]]
 [s][bup 0 2 102 0 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Não é a hora![n]Merda...Por que Takamaki está aqui!?![n][f 1 3 65535][w][e]

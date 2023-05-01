@@ -17,7 +17,7 @@
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1035 65535 0]É realmente assim que ele vê[n]aquela cabana em ruínas...?[n]Ela brilha quase irritantemente...[n][w][e]
 
 [msg e195_101_mes02 [Ann]]
-[s][bup 0 4 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Eu ainda não percebi que é o palácio daquele[n]velho...[n][w][e]
+[s][bup 0 4 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Ainda não caiu a ficha que é o palácio daquele[n]velho...[n][w][e]
 
 [msg e195_101_mes03 [Ryuji]]
 [s][bup 0 2 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]É por isso que estamos aqui,[n]certo? Vamos, vamos dar uma olhada.[n][w][e]

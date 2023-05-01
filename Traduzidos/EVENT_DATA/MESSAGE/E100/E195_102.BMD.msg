@@ -26,7 +26,7 @@
 [s][f 4 16 2 7 301 1 65535][vp 8 0 0 8 65535 0]A sério? Todo mundo...?[n]Mas havia apenas Yusuke quando[n]fomos para a casa dele...[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Provavelmente são[n]alunos também.[n]E agora só resta um...[n][f 1 3 65535][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Provavelmente inclui[n]ex=alunos também.[n]E agora só resta um...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Também levando em consideração as palavras[n]daquele Nakanohara, as coisas[n]estão ficando mais claras.[n][f 1 3 65535][w][e]
 
 [msg MSG_008_5_0 [Morgana]]

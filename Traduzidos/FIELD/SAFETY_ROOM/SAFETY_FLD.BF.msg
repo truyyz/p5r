@@ -3473,12 +3473,12 @@
 
 [msg D00_EX_ROUTE_CHECK_SP [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 1 1 65535 0]Por falar nisso...[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 1 2 65535 0]Nós não roubamos todas as[n]Seeds of Greed no[n]Palácio, roubamos?[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 1 2 65535 0]Nós não roubamos todas as[n]Sementes da Vontade no[n]Palácio, roubamos?[n][w][e]
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 0 1 3 65535 0]Então é melhor roubar[n]tudo o que pudermos.[n][w][e]
 
 [msg D00_EX_ROUTE_CHECK_00 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 1 1 65535 0]Por falar nisso...[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 1 2 65535 0]Nós não roubamos todas as[n]Seeds of Greed no[n]Palácio, roubamos?[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 1 2 65535 0]Nós não roubamos todas as[n]Sementes da Vontade no[n]Palácio, roubamos?[n][w][e]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 1 6 65535 0]Vamos nos certificar de obter[n]aqueles também, assim como o Tesouro![n][w][e]
 
 [sel D00_EX_ROUTE_CHECK top]
@@ -3497,8 +3497,8 @@
 
 [msg D00_EX_ROUTE_CHECK_03_00 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]Por falar nisso...[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Nós ainda não temos todas as[n]Seeds of Lust no Palácio...[n]Você está bem com isso?[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Poderíamos tentar pegá-los no[n]hit day, mas não é[n]priority, então desaconselhamos isso.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Nós ainda não temos todas as[n]Sementes da Vontade no Palácio...[n]Você está bem com isso?[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Poderíamos tentar pegá-los no[n]dia do golpe, mas não é[n]prioridade, então desaconselhamos isso.[n][w][e]
 
 [sel D00_EX_ROUTE_CHECK_03_01 top]
 [s]Enviamos a Carta de Aviso.[e]

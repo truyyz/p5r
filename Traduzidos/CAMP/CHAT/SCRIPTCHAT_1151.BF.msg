@@ -15,7 +15,7 @@
 [s]Decidir depois[e]
 
 [sel SEL_002 top]
-[s][f 5 14]Nós estamos lá.[e]
+[s][f 5 14]Estou indo pra aí.[e]
 
 [msg MSG_REACTION [Ohya]]
 [s][f 5 14]Oh, Ok...[n][w][e]
