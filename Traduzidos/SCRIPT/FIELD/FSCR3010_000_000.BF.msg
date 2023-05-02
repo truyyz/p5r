@@ -16,16 +16,16 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1192 65535 0]Foi bom ir a[n]Shinjuku à noite, com todas aquelas[n]luzes de néon. Devemos fazê-lo novamente.[n][w][e]
 
 [msg MSG_SOFA_CHIHAYA_01 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1192 65535 0]Se você tiver tempo,[n]você gostaria de ir até aquele vidente[n]em Shinjuku?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1192 65535 0]Se você tiver tempo,[n]você gostaria de ir até aquela vidente[n]em Shinjuku?[n][w][e]
 
 [msg MSG_SOFA_CHIHAYA_02 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1192 65535 0]A previsão foi perfeita...[n]Mas custou 100.000 ienes...[n][w][e]
 
 [msg MSG_SOFA_CHIHAYA_03 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]Essa "pedra sagrada" custou[n]100.000 ienes, mas é apenas sal-gema.[n]Vamos perguntar ao vidente?[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]Essa "pedra sagrada" custou[n]100.000 ienes, mas é apenas sal-gema.[n]Vamos perguntar a vidente?[n][w][e]
 
 [msg MSG_SOFA_CHIHAYA_04 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1192 65535 0]Você não quer dizer ao vidente[n]que nós despertamos o coração de Uchimura?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1192 65535 0]Você não quer dizer a vidente[n]que nós despertamos o coração de Uchimura?[n][w][e]
 
 [msg MSG_SOFA_HIFUMI_1 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]Yusuke disse que o shogi player[n]está em Kanda, certo?[n][w][e]
@@ -338,7 +338,7 @@
 [s][bup 0 3 3 0 0][vp 8 2 1 0 65535 0]......[n][w][e]
 
 [sel SEL_Sofa0905 top]
-[s]O que acontece?[e]
+[s]O que aconteceu?[e]
 [s]Você está triste?[e]
 
 [msg MSG_SOFA_0905_01 [Morgana]]

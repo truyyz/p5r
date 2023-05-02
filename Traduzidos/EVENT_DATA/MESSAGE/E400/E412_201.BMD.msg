@@ -33,7 +33,7 @@
 [s][bup 0 2 102 65535 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Pegaremos esse tesouro,[n]custe o que custar![n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Makoto]]
-[s][bup 0 6 103 65535 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Acho que todos vocês sabem disso,[n]mas esta carta de aviso será[n]diferente das outras.[n][f 1 3 65535][w][e]
+[s][bup 0 6 103 65535 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Acho que todos vocês sabem disso,[n]mas esta Carta de Aviso será[n]diferente das outras.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Uma vez enviados, nossos inimigos[n]sabem que o Joker, que todos consideram[n]morto, ainda está vivo.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Vamos nos colocar em uma situação difícil com[n]nossas mãos.[n][f 1 3 65535][w][e]
 
@@ -61,7 +61,7 @@
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]Então está resolvido.[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Makoto]]
-[s][bup 0 6 100 65535 0][f 4 10 65535 0 0][vp 8 0 0 26 65535 0]A verdadeira questão é: como e onde[n]enviar a carta de aviso?[n][f 1 3 65535][w][e]
+[s][bup 0 6 100 65535 0][f 4 10 65535 0 0][vp 8 0 0 26 65535 0]A verdadeira questão é: como e onde[n]enviar a Carta de Aviso?[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Ann]]
 [s][bup 0 4 100 65535 0][f 4 10 65535 0 0][vp 8 0 0 27 65535 0]Por que não fazemos algo[n]opulento? Todo o nosso plano é[n]de acordo com este momento![n][f 1 3 65535][w][e]

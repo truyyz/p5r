@@ -9,7 +9,7 @@
 
 [msg MSG_005_0_0 [Treinador pessoal]]
 [s][vp 1 0 0 0 0 0]Bem-vindo![n][w][e]
-[s]Este é o Protein Lovers, um[n]ginásio para quem quer[n]um corpo saudável.[n][w][e]
+[s]Este é o Amantes de Proteína, um[n]ginásio para quem quer[n]um corpo saudável.[n][w][e]
 
 [msg MSG_009_0_0 [Treinador pessoal]]
 [s][vp 1 0 0 0 0 0]Você ainda não está registrado.[n]Você deveria considerar fazer isso![n][w][e]

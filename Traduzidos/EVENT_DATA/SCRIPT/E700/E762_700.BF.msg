@@ -12,7 +12,7 @@
 [sel SEL_048_0_0 top]
 [s]Pegue [var 0].[e]
 [s]Pegue [var 1].[e]
-[s]Não pegue nada.[e]
+[s]Não pegar nada.[e]
 
 [msg MND_049_0_0]
 [s][vp 8 0 0 0 65535 0]Hrgh... O gosto é horrível...[n][f 1 3 65535][w][e]

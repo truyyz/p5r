@@ -14,7 +14,7 @@
 [s][bup 0 2 11 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 0 65535 0]Não deveríamos fazer algo[n]antes que acabe[n]ferindo alguém?[n][w][e]
 
 [msg QUEST_07_ENTER_mes05 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1099 65535 0]É claro. Vamos fazê-lo.[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1099 65535 0]É claro. Vamos fazer isso.[n][w][e]
 
 [msg MSG_027_0_0 [Sombra de Mogami]]
 [s][vp 8 2 1 48105 65535 0]O que você está fazendo,[n]Phantom Thieves?!?[n][w][e]

@@ -33,15 +33,15 @@
 [s][f 4 10 65535 0 0][vp 8 0 1 3 65535 0]Na prática, a estação mais próxima[n]é esta.[n][w][e]
 
 [msg MSG_E19310100_003_00 [Ryuji]]
-[s][bup 0 2 4 65535 0][f 4 10 65535 0 0][vp 8 0 1 4 65535 0]Aquele?!? Temos que fazer o resto do caminho a pé?[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 1 5 65535 0]Que tipo de Phantom Thief é[n]aquele que pega o metrô,[n]desce e faz isso a pé?[n][w][e]
+[s][bup 0 2 4 65535 0][f 4 10 65535 0 0][vp 8 0 1 4 65535 0]Quê?!? Temos que fazer o resto do caminho a pé?[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 1 5 65535 0]Que tipo de Phantom Thief é[n]aquele que pega o metrô,[n]desce e continua a pé?[n][w][e]
 
 [msg MSG_E19310100_004_00 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 1 6 65535 0]Pare de reclamar.[n][w][e]
 
 [msg MSG_E19310100_005_00 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 1 7 65535 0]Deveria ser um barraco, mesmo[n]que o bairro seja esse...[n]Normal, para um artista famoso.[n][w][e]
-[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 0 1 8 65535 0]A rota mais curta passa[n]pela praça da estação e depois[n]pela Central Street. Vamos![n][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 1 7 65535 0]Deveria ser uma cabana, mesmo[n]que o bairro seja esse...[n]Normal, para um artista famoso.[n][w][e]
+[s][bup 0 4 1 65535 0][f 4 10 65535 0 0][vp 8 0 1 8 65535 0]A rota mais curta passa[n]pela Praça da Estação e depois[n]pela Central Street. Vamos![n][w][e]
 
 [msg MSG_E24420100_000_00 [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 7110 65535 0]Não está animado para experimentar a vida noturna[n]de Shinjuku?[n][w][e]

@@ -51,5 +51,5 @@
 [s][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Que truque desprezível.[n]Vamos falar sobre isso no esconderijo[n]quando tivermos chance, ok?[n][f 1 3 65535][w][e]
 
 [msg HELP_MEMENTOS_MISSION_34 [Missão disponível!]]
-[s][clr 4]Informações de lembrança recebidas[n][clr 27] Agora você pode enviar uma Carta[n]de Desafio do [clr 2]Haunt[clr 27]. Às[n]vezes, você obterá informações de seus[n][clr 3]colegas[clr 27] dessa maneira.[n][w][e]
+[s][clr 4]Informações de lembrança recebidas[n][clr 27] Agora você pode enviar uma Carta[n]de Aviso do [clr 2]Haunt[clr 27]. Às[n]vezes, você obterá informações de seus[n][clr 3]colegas[clr 27] dessa maneira.[n][w][e]
 

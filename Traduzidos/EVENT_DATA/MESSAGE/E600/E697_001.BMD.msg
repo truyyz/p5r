@@ -38,7 +38,7 @@
 [s][vp 8 0 0 0 65535 0]E agora as notícias.[n]Manchetes do dia:[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Monitores de trem]]
-[s][vp 8 0 0 0 65535 0]"carta de aviso para Madarame!"[n]A polícia ainda não determinou[n]se isso é uma piada.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]"Carta de Aviso para Madarame!"[n]A polícia ainda não determinou[n]se isso é uma piada.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]"Golpes descobertos em Shibuya!"[n]As vítimas são principalmente estudantes.[n]Suspeita de gangue criminosa.[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Morgana]]
@@ -114,7 +114,7 @@
 
 [msg MSG_030_0_0 [Monitores de trem]]
 [s][vp 8 0 0 0 65535 0]"O Japão é a[n]nação mais rica." Muitos o consideram[n]um modelo de desenvolvimento ideal.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0]"Il primo boom economico del 21°[n]secolo?" Molte aziende hanno visto[n]crescere i propri utili.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]"O primeiro boom econômico do século 21?"[n]Muitas empresas viram[n]aumentar seus lucros.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]"Novo governo recebe forte apoio." Nosso[n]antiquado sistema político mudou para melhor?[n][f 1 3 65535][w][e]
 
 [msg MSG_031_0_0 [Morgana]]

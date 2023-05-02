@@ -45,7 +45,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Nós a avisamos, dizendo "Nós[n]queremos roubar seu coração."[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Ryuji]]
-[s][bup 0 2 101 0 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Então vamos enviar uma carta de[n]desafio!?! Isso é exatamente o que[n]um Phantom Thief faria![n][f 1 3 65535][w][e]
+[s][bup 0 2 101 0 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Então vamos enviar uma Carta de[n]Aviso!?! Isso é exatamente o que[n]um Phantom Thief faria![n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Morgana]]
 [s][bup 0 3 1 0 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Feito isso, o Tesouro[n]aparecerá! ...eu acho![n][f 1 3 65535][w][e]
@@ -56,13 +56,13 @@
 
 [msg MSG_017_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]Nosso caminho de infiltração[n]é seguro.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]Agora só temos que produzir uma[n]carta de aviso na realidade, então[n]voltaremos para pegar o Tesouro![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]Agora só temos que produzir uma[n]Carta de Aviso na realidade, então[n]voltaremos para pegar o Tesouro![n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Ann]]
 [s][bup 0 4 100 0 0][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Aqui vamos nós, hein?[n][f 1 3 65535][w][e]
 
 [sel SEL_019_0_0 top]
-[s]Vamos fazê-lo.[e]
+[s]Vamos fazer isso.[e]
 [s]Nós não vamos perder.[e]
 [s]Isso demorou muito...[e]
 
@@ -76,11 +76,11 @@
 [s][bup 0 4 100 0 0][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]Vamos lá, um último esforço.[n]Vamos nessa![n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 26 65535 0]Depois de enviar a[n]carta de aviso, não há como voltar atrás.[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 26 65535 0]Depois de enviar a[n]Carta de Aviso, não há como voltar atrás.[n][f 1 3 65535][w][e]
 
 [msg MSG_023_5_0 [Morgana]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 3 10 300 1][vp 8 0 0 27 65535 0]Avise-me quando estiver pronto.[n]Nos encontraremos na reunião e enviaremos[n]aquela carta de aviso![n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 3 10 300 1][vp 8 0 0 27 65535 0]Avise-me quando estiver pronto.[n]Nos encontraremos na reunião e enviaremos[n]aquela Carta de Aviso![n][f 1 3 65535][w][e]
 
 [msg SYS_024_0_0]
-[s][vp 1 0 0 0 0 0]O caminho de infiltração é seguro! Tudo o que[n]resta é enviar a carta de aviso para Kamoshida![n][w][e]
+[s][vp 1 0 0 0 0 0]O caminho de infiltração é seguro! Tudo o que[n]resta é enviar a Carta de Aviso para Kamoshida![n][w][e]
 

@@ -165,7 +165,7 @@
 [s]Um novo modo para Batalhas de Desafio foi[n]desbloqueado: Sobrevivência.[n][w][e]
 
 [msg msg_cbs_unlock_trickster]
-[s]Um novo modo para Challenge Battles foi[n]desbloqueado: Trickster.[n][w][e]
+[s]Um novo modo para Challenge Battles foi[n]desbloqueado: Trapaceiro.[n][w][e]
 
 [msg msg_cbs_unlock_p3_sys_me]
 [s]Um novo modo para Batalhas de Desafio foi[n]desbloqueado: Lua Cheia.[n][w][e]

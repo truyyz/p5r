@@ -60,7 +60,7 @@
 [s][vp 1 0 0 0 0 0]Agora me sinto um pouco mais próximo de Takemi.[n][w][e]
 
 [msg MND_YUME_URANAI]
-[s][vp 1 0 0 0 0 0]Eu sonhei com aquele vidente,[n]Chihaya.[n][w][e]
+[s][vp 1 0 0 0 0 0]Eu sonhei com aquela vidente,[n]Chihaya.[n][w][e]
 
 [msg MND_YUME_URANAI_2]
 [s][vp 1 0 0 0 0 0]Agora me sinto um pouco mais perto de Chihaya.[n][w][e]

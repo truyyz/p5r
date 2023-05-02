@@ -313,7 +313,7 @@
 
 [msg MSG_Discount_Lav_025_01 [Lavenza]]
 [s][bup 0 100 0 0 0][f 4 10 65535 0 0]Oh meu Deus...[n][w][e]
-[s][f 4 10 65535 0 0]Só agora percebo quantos Personas [n]estão neste Grimório.[n][w][e]
+[s][f 4 10 65535 0 0]Só agora percebo quantas Personas [n]estão neste Grimório.[n][w][e]
 [s][f 4 10 65535 0 0]Deixe-me conceder-lhe uma recompensa por seus[n]esforços.[n][w][e]
 [s][f 4 10 65535 0 0]A partir de agora, você terá um desconto[n]na retirada de Personas[n]do Grimório.[n][w][e]
 [s][f 4 10 65535 0 0]Se você registrar outra[n]Personas no Grimório, eu[n]irei conceder a você mais benefícios.[n][w][e]
@@ -349,7 +349,7 @@
 
 [msg MSG_Discount_Lav_025_R1 [Lavenza]]
 [s][bup 0 100 0 0 0][f 4 10 65535 0 0]Oh meu Deus...[n][w][e]
-[s][f 4 10 65535 0 0]Só agora percebo quantos Personas [n]estão neste Grimório.[n][w][e]
+[s][f 4 10 65535 0 0]Só agora percebo quantas Personas [n]estão neste Grimório.[n][w][e]
 [s][f 4 10 65535 0 0]Deixe-me conceder-lhe uma recompensa por seus[n]esforços.[n][w][e]
 [s][f 4 10 65535 0 0]A partir de agora, você terá um desconto[n]na retirada de Personas[n]do Grimório.[n][w][e]
 [s][f 4 10 65535 0 0]Se você registrar outra[n]Personas no Grimório, eu[n]irei conceder a você mais benefícios.[n][w][e]

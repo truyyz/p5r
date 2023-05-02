@@ -320,7 +320,7 @@
 [s]Que diabos é isso? Não é para crianças, é? Oooooh![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_06_R_6]
-[s]Oooh, não vai ser uma história sobre[n]deveres, ética e tudo[n]o resto, vai? Parece engraçado![n][w][e]
+[s]Oooh, não vai ser uma história sobre[n]deveres, ética e tudo[n]o resto, vai? Parece divertido![n][w][e]
 
 [msg TalkMsg_GUY_CHAT_FQ_06_R_7]
 [s]Isso não vai me ajudar a dormir[n]em tudo![n][w][e]
@@ -1719,7 +1719,7 @@
 [s]Meu nome verdadeiro é [clr 1][var 2][clr 27]![n]Você e eu somos iguais![n][w][e]
 
 [msg TalkMsg_ED_bye_D01_01]
-[s]É melhor você se render, senhor.[n]King Kamoshida é muito forte...[n]Você não pode vencê-lo.[n][w][e]
+[s]É melhor você se render, senhor.[n]Rei Kamoshida é muito forte...[n]Você não pode vencê-lo.[n][w][e]
 
 [msg TalkMsg_ED_bye_D01_02]
 [s]ei! Mal posso esperar para o[n]Rei Kamoshida derrotar você![n][w][e]

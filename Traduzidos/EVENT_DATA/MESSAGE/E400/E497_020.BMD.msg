@@ -138,7 +138,7 @@
 [s][bup 0 216 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 57 65535 0]Como você está agora?[n]Você se sente um pouco melhor?[n][f 1 3 65535][w][e]
 
 [msg MSG_037_0_0 [Sumire]]
-[s][bup 0 10 961 0 0][f 4 10 65535 0 0][vp 8 0 0 58 5 0]Sim... É como se eu levantasse um[n]peso! Você é incrível, doutor![n][f 1 3 65535][w][e]
+[s][bup 0 10 961 0 0][f 4 10 65535 0 0][vp 8 0 0 58 5 0]Sim... É como se um peso saísse[n]das costas! Você é incrível, doutor![n][f 1 3 65535][w][e]
 
 [msg MSG_038_0_0 [Maruki]]
 [s][bup 0 216 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 59 65535 0]Haha, eu não fiz nada disso...[n][f 1 3 65535][w][e]

@@ -553,7 +553,7 @@
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Os Phantom Thieves sobre os quais todo mundo[n]sempre fala online![n]O que você diz, eu roubo seu coração? Hum?[n][w][e]
 
 [msg MSG_TIKAAIDORU_006_2_0 [Ídolo independente de pouca fama]]
-[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]*engole em seco* Não é mentira...[n]É só uma imagem![n][w][e]
+[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]*engole seco* Não é mentira...[n]É só uma imagem![n][w][e]
 
 [msg MSG_TIKAAIDORU_006_3_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Eheheh, vou continuar trabalhando[n]e me tornar um ídolo famoso![n][w][e]
@@ -568,7 +568,7 @@
 [s]Há alguém que os compre?[e]
 
 [msg MSG_TIKAAIDORU_006_5_0 [Ídolo independente de pouca fama]]
-[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Obrigado por sua compra! Este é[n]intitulado "He's a Trickster☆"![n][w][e]
+[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Obrigado por sua compra! Este é[n]intitulado "Ele é um Trapaceiro☆"![n][w][e]
 [s][vp 8 2 1 0 2 0]Por favor, apoiem nossa[n]banda Fanta-ídolo,[n]i D-kyun! Ok? Ok?[n][w][e]
 
 [msg MSG_TIKAAIDORU_006_6_0 [Ídolo independente de pouca fama]]
@@ -606,7 +606,7 @@
 [s]Que tipo de música é?[e]
 
 [msg MSG_TIKAAIDORU_007_4_0 [Ídolo independente de pouca fama]]
-[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Grazie dell'acquistooo![n]Ecco a te "He's a Trickster☆"![n][w][e]
+[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Grazie dell'acquistooo![n]Ecco a te "Ele é um Trapaceiro☆"![n][w][e]
 [s][vp 8 2 1 0 2 0]Nós somos o D-kyun, uma nova[n]banda do Fanta-idol![n]Sempre me apoie, ok? Ok?[n][w][e]
 
 [msg MSG_TIKAAIDORU_007_5_0 [Ídolo independente de pouca fama]]
@@ -666,7 +666,7 @@
 
 [sel SEL_TIKAAIDORU_009_0_0 top]
 [s]Chika-chan Drinco[e]
-[s]CD "He's a Trickster☆"[e]
+[s]CD "Ele é um Trapaceiro☆"[e]
 [s]Biscoito D-kyun[e]
 [s]Eu não quero nada.[e]
 
@@ -723,7 +723,7 @@
 
 [sel SEL_TIKAAIDORU_010_1_0 top]
 [s]Chika-chan Drinco[e]
-[s]CD "He's a Trickster☆"[e]
+[s]CD "Ele é um Trapaceiro☆"[e]
 [s]biscoito D-kyun[e]
 [s]Eu não quero nada.[e]
 
@@ -794,7 +794,7 @@
 
 [sel SEL_TIKAAIDORU_011_2_0 top]
 [s]Chika-chan Drinco[e]
-[s]CD "He's a Trickster☆"[e]
+[s]CD "Ele é um Trapaceiro☆"[e]
 [s]biscoito D-kyun[e]
 [s]Eu não quero nada.[e]
 
@@ -803,7 +803,7 @@
 [s][vp 8 2 1 0 2 0]Não perca artigos semelhantes,[n]Ok? Ok? Vamos![n][w][e]
 
 [msg MSG_TIKAAIDORU_011_11_0 [Ídolo independente de pouca fama]]
-[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Mesmo as notas desafinadas podem[n]ser fascinantes! Isso é[n]"He's a Trickster☆"![n][w][e]
+[s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Mesmo as notas desafinadas podem[n]ser fascinantes! Isso é[n]"Ele é um Trapaceiro☆"![n][w][e]
 [s][vp 8 2 1 0 2 0]Esta é a primeira série[n]da edição limitada! Compre,[n]ou será tarde demais![n][w][e]
 
 [msg MSG_TIKAAIDORU_011_12_0 [Ídolo independente de pouca fama]]
@@ -879,7 +879,7 @@
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Mmm... [f 4 1]-san está com raiva. Então você não[n]gosta de Phantom Thieves...[n][w][e]
 
 [msg MSG_TIKAAIDORU_013_6_0 [Ídolo independente de pouca fama]]
-[s][vp 8 2 1 0 2 0]Eles enviaram a carta de aviso![n]Estamos torcendo pelos Phantom Thieves![n]Cuidado com os bandidos![n][w][e]
+[s][vp 8 2 1 0 2 0]Eles enviaram a Carta de Aviso![n]Estamos torcendo pelos Phantom Thieves![n]Cuidado com os bandidos![n][w][e]
 
 [msg MSG_TIKAAIDORU_013_7_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Os Phantom Thieves estão ficando mais famosos! A[n]popularidade de D-kyun também está aumentando![n][w][e]
@@ -906,7 +906,7 @@
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Mwaaah, não diga isso.[n]Para não desanimar![n][w][e]
 
 [msg MSG_TIKAAIDORU_013_13_0 [Ídolo independente de pouca fama]]
-[s][vp 8 2 1 0 2 0]Eles enviaram a carta de aviso![n]Estamos torcendo pelos Phantom Thieves![n]Cuidado com os bandidos![n][w][e]
+[s][vp 8 2 1 0 2 0]Eles enviaram a Carta de Aviso![n]Estamos torcendo pelos Phantom Thieves![n]Cuidado com os bandidos![n][w][e]
 
 [msg MSG_TIKAAIDORU_014_0_0 [Ídolo independente de pouca fama]]
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Oh, não... na Internet e na[n]TV todos eles insultam[n]os Phantom Thieves...[n][w][e]
@@ -1150,7 +1150,7 @@
 [s][vp 8 2 1 0 600 0]Além disso, minha amada filha[n]daria a esse bichinho de pelúcia[n]um mundo de amor.[n][w][e]
 
 [msg MSG_quest02_morgana_01 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Eu diria que temos nosso[n]objetivo. Hora de discutir[n]um plano no Hangout![n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Eu diria que temos nosso[n]objetivo. Hora de discutir[n]um plano no Esconderijo![n][w][e]
 
 [msg HELP_MEMENTOS_MISSION_02 [Atualização da missão!]]
 [s][clr 4]Conflito nos Mementos[clr 27][n]O alvo foi identificado.[n]Vamos discutir isso no "[clr 2]esconderijo[clr 27]".[n][w][e]
@@ -1164,10 +1164,10 @@
 [s][vp 8 2 1 0 600 0]Huh? O que é?[n]Alguém me escreveu uma carta?[n][w][e]
 
 [msg Quest02_target_01_02 [Dona de casa preocupada]]
-[s][f 4 23 1 601 3 10 0 0][vp 8 2 1 0 601 0]Mas isso não é uma carta de aviso?[n]Daqueles Phantom Thieves, ou como quer que[n]eles sejam chamados, que estavam na TV.[n][w][e]
+[s][f 4 23 1 601 3 10 0 0][vp 8 2 1 0 601 0]Mas isso não é uma Carta de Aviso?[n]Daqueles Phantom Thieves, ou como quer que[n]eles sejam chamados, que estavam na TV.[n][w][e]
 
 [msg Quest02_target_01_03 [Megumi Hoshii]]
-[s][f 4 23 1 600 3 10 0 0][vp 8 2 1 0 600 0]Uma carta de aviso? E eles pensam[n]em me roubar?[n]Quão estúpidos eles são?[n][w][e]
+[s][f 4 23 1 600 3 10 0 0][vp 8 2 1 0 600 0]Uma Carta de Aviso? E eles pensam[n]em me roubar?[n]Quão estúpidos eles são?[n][w][e]
 [s][vp 8 2 1 0 600 0]Quando decido que algo é meu,[n]ele se torna meu.[n][w][e]
 
 [msg Quest02_target_02_00 [Megumi Hoshii]]
@@ -1408,7 +1408,7 @@
 [s][vp 8 2 1 0 609 0]Vou acrescentar alguns[n]crimes a eles e eles vão acabar na cadeia![n]Meu pai não vai me pedir provas![n][w][e]
 
 [msg Quest24_target_sinjyo_01]
-[s][vp 8 2 65535 0 0 0]Parece que a carta de aviso[n]foi entregue com sucesso.[n]Vamos nos juntar aos Mementos.[n][w][e]
+[s][vp 8 2 65535 0 0 0]Parece que a Carta de Aviso[n]foi entregue com sucesso.[n]Vamos nos juntar aos Mementos.[n][w][e]
 
 [msg Quest24_target_02_00 [Showai Shigeta]]
 [s][f 4 23 1 609 3 10 0 0][vp 8 2 1 0 609 0]Sabe, eu estava pensando em me entregar.[n][w][e]
@@ -1459,11 +1459,11 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Deve ser o cara de quem ouvimos falar. Vamos[n]voltar ao esconderijo e bolar um plano![n][w][e]
 
 [msg Quest42_target_01_00 [Seiji Kanemoto]]
-[s][f 4 23 1 610 3 10 0 0][vp 8 2 1 0 610 0]Uma carta de aviso?[n]Como veio parar aqui?[n][w][e]
+[s][f 4 23 1 610 3 10 0 0][vp 8 2 1 0 610 0]Uma Carta de Aviso?[n]Como veio parar aqui?[n][w][e]
 [s][vp 8 2 1 0 610 0]Ufa. Mais tarde eu terei que...[n]punir... Ikeda-kun.[n]Ihihih.[n][w][e]
 
 [msg Quest42_target_sinjyo_01]
-[s][vp 8 2 65535 0 0 0]Parece que a carta de aviso[n]foi entregue com sucesso.[n]Vamos nos juntar aos Mementos.[n][w][e]
+[s][vp 8 2 65535 0 0 0]Parece que a Carta de Aviso[n]foi entregue com sucesso.[n]Vamos nos juntar aos Mementos.[n][w][e]
 
 [msg Quest42_target_02_00 [Noivo]]
 [s][f 4 23 1 609 3 10 0 0][vp 8 2 1 0 609 0]Então, Sr. Kanemoto, você quer[n]se declarar culpado de[n]assédio sexual e abuso de poder?[n][w][e]
@@ -1930,7 +1930,7 @@
 [s][f 4 23 1 14 3 10 0 10][vp 8 2 1 0 14 0]Por quê?[n]Talvez ele se preocupe que você[n]está trabalhando demais?[n][w][e]
 
 [msg MSG_SURETIGAITUUSIN_012__3 [Funcionário carrancudo]]
-[s][f 4 23 1 15 3 10 0 10][vp 8 2 1 0 15 0]Não. As ações da Okumura Foods[n]despencaram quando o presidente[n]recebeu a carta de aviso.[n][w][e]
+[s][f 4 23 1 15 3 10 0 10][vp 8 2 1 0 15 0]Não. As ações da Okumura Foods[n]despencaram quando o presidente[n]recebeu a Carta de Aviso.[n][w][e]
 [s][vp 8 2 1 0 15 0]Ele teme que até empresas menores, como a nossa,[n]possam falir.[n][w][e]
 
 [msg MSG_SURETIGAITUUSIN_012__4 [Empregado cansado]]
@@ -2327,7 +2327,7 @@
 [s][vp 9 2 65535 38704 0 0]Eu li algo online[n]sobre Phantom Thieves![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_006_02_ [Morgana]]
-[s][vp 9 2 65535 39755 0 0]Essa carta de aviso[n]me intrigou...[n][f 1 2 180][e]
+[s][vp 9 2 65535 39755 0 0]Essa Carta de Aviso[n]me intrigou...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_006_03_ [Morgana]]
 [s][vp 9 2 65535 40403 0 0]Ele realmente mereceu.[n]É quase risível.[n][f 1 2 180][e]
@@ -2396,7 +2396,7 @@
 [s][vp 9 2 65535 40955 0 0]Shibuya sempre foi[n]tão perigoso?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_01_ [Morgana]]
-[s][vp 9 2 65535 44605 0 0]Uma carta de aviso[n]dos Phantom Thieves? É apenas[n]uma piada inofensiva.[n][f 1 2 180][e]
+[s][vp 9 2 65535 44605 0 0]Uma Carta de Aviso[n]dos Phantom Thieves? É apenas[n]uma piada inofensiva.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_02_ [Morgana]]
 [s][vp 9 2 65535 44118 0 0]Alguém na Internet disse[n]que os Phantom Thieves[n]apareceram.[n][f 1 2 180][e]
@@ -2405,7 +2405,7 @@
 [s][vp 9 2 65535 43355 0 0]Você está brincando?[n]É impossível que[n]Phantom Thieves realmente existam.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_04_ [Morgana]]
-[s][vp 9 2 65535 43705 0 0]Uma carta de aviso[n]dos Phantom Thieves? É apenas[n]uma piada inofensiva.[n][f 1 2 180][e]
+[s][vp 9 2 65535 43705 0 0]Uma Carta de Aviso[n]dos Phantom Thieves? É apenas[n]uma piada inofensiva.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_05_ [Morgana]]
 [s][vp 9 2 65535 43754 0 0]Quem é esse Kaneshiro[n]de quem tanto falamos?[n][f 1 2 180][e]
@@ -2417,13 +2417,13 @@
 [s][vp 9 2 65535 39454 0 0]Eu ouço os Phantom Thieves[n]atacarem novamente![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_08_ [Morgana]]
-[s][vp 9 2 65535 46355 0 0]Essa carta de aviso é[n]apenas uma farsa da internet![n]Claro![n][f 1 2 180][e]
+[s][vp 9 2 65535 46355 0 0]Essa Carta de Aviso é[n]apenas uma farsa da internet![n]Claro![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_09_ [Morgana]]
 [s][vp 9 2 65535 43304 0 0]Você acha que Ladrões[n]realmente existem[n]Fantasmas?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_10_ [Morgana]]
-[s][vp 9 2 65535 40705 0 0]Uma carta de aviso[n]dos Phantom Thieves? É apenas[n]uma piada inofensiva.[n][f 1 2 180][e]
+[s][vp 9 2 65535 40705 0 0]Uma Carta de Aviso[n]dos Phantom Thieves? É apenas[n]uma piada inofensiva.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_11_ [Morgana]]
 [s][vp 9 2 65535 44668 0 0]Na Internet, eles dizem que[n]cartas de desafio[n]estavam por toda parte.[n][f 1 2 180][e]
@@ -2471,7 +2471,7 @@
 [s][vp 9 2 65535 42554 0 0]Então o que foi dito[n]sobre os Phantom Thieves[n]era verdade![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_02_ [Morgana]]
-[s][vp 9 2 65535 46303 0 0]Viu a notícia?[n]A carta de aviso era real![n][f 1 2 180][e]
+[s][vp 9 2 65535 46303 0 0]Viu a notícia?[n]A Carta de Aviso era real![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_03_ [Morgana]]
 [s][vp 9 2 65535 42454 0 0]Se eles realmente existem,[n]Phantom Thieves têm[n]todo o meu respeito![n][f 1 2 180][e]
@@ -2480,13 +2480,13 @@
 [s][vp 9 2 65535 39500 0 0]Então o que foi dito[n]sobre os Phantom Thieves[n]era verdade![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_05_ [Morgana]]
-[s][vp 9 2 65535 40754 0 0]Viu a notícia?[n]A carta de aviso era real![n][f 1 2 180][e]
+[s][vp 9 2 65535 40754 0 0]Viu a notícia?[n]A Carta de Aviso era real![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_06_ [Morgana]]
 [s][vp 9 2 65535 37656 0 0]Desta vez, aqueles Phantom Thieves[n]resolveram tudo, não é?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_07_ [Morgana]]
-[s][vp 9 2 65535 43404 0 0]Viu a notícia?[n]A carta de aviso era real![n][f 1 2 180][e]
+[s][vp 9 2 65535 43404 0 0]Viu a notícia?[n]A Carta de Aviso era real![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_08_ [Morgana]]
 [s][vp 9 2 65535 38304 0 0]Se eles realmente existem,[n]Phantom Thieves têm[n]todo o meu respeito![n][f 1 2 180][e]
@@ -2498,7 +2498,7 @@
 [s][vp 9 2 65535 43954 0 0]Então o que foi dito[n]sobre os Phantom Thieves[n]era verdade![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_11_ [Morgana]]
-[s][vp 9 2 65535 40353 0 0]Viu a notícia?[n]A carta de aviso era real![n][f 1 2 180][e]
+[s][vp 9 2 65535 40353 0 0]Viu a notícia?[n]A Carta de Aviso era real![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_12_ [Morgana]]
 [s][vp 9 2 65535 42806 0 0]Se eles realmente existem,[n]Phantom Thieves têm[n]todo o meu respeito![n][f 1 2 180][e]
@@ -2756,7 +2756,7 @@
 [s][vp 9 2 65535 40650 0 0]Os Phantom Thieves[n]irão consertar tudo![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_018_01_ [Morgana]]
-[s][vp 9 2 65535 38400 0 0]Eu mal podia esperar que os[n]Phantom Thieves enviassem[n]sua carta de aviso![n][f 1 2 180][e]
+[s][vp 9 2 65535 38400 0 0]Eu mal podia esperar que os[n]Phantom Thieves enviassem[n]sua Carta de Aviso![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_018_02_ [Morgana]]
 [s][vp 9 2 65535 44706 0 0]E assim, os Phantom Thieves[n]alvo[n]presidente Okumura![n][f 1 2 180][e]
@@ -2765,7 +2765,7 @@
 [s][vp 9 2 65535 40400 0 0]Um adulto corrupto[n]como ele merece[n]ser punido![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_018_04_ [Morgana]]
-[s][vp 9 2 65535 37806 0 0]Eu mal podia esperar que os[n]Phantom Thieves enviassem[n]sua carta de aviso![n][f 1 2 180][e]
+[s][vp 9 2 65535 37806 0 0]Eu mal podia esperar que os[n]Phantom Thieves enviassem[n]sua Carta de Aviso![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_018_05_ [Morgana]]
 [s][vp 9 2 65535 43150 0 0]E assim, os Phantom Thieves[n]alvo[n]presidente Okumura![n][f 1 2 180][e]
@@ -2783,7 +2783,7 @@
 [s][vp 9 2 65535 39600 0 0]Corra para eliminá-lo,[n]Phantom Thieves![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_018_10_ [Morgana]]
-[s][vp 9 2 65535 41703 0 0]Eu mal podia esperar que os[n]Phantom Thieves enviassem[n]sua carta de aviso![n][f 1 2 180][e]
+[s][vp 9 2 65535 41703 0 0]Eu mal podia esperar que os[n]Phantom Thieves enviassem[n]sua Carta de Aviso![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_018_11_ [Morgana]]
 [s][vp 9 2 65535 40306 0 0]E assim, os Phantom Thieves[n]alvo[n]presidente Okumura![n][f 1 2 180][e]

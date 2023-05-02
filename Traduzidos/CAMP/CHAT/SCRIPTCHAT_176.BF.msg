@@ -9,7 +9,7 @@
 [s]Ele está no nosso encalço?[e]
 
 [msg MSG_003_0_0 [Makoto]]
-[s][f 5 14]Sim, os responsáveis[n]pela carta de contestação.[n][w][e]
+[s][f 5 14]Sim, os responsáveis[n]pela Carta de Aviso.[n][w][e]
 
 [msg MSG_004_0_0 [Makoto]]
 [s][f 5 14]Por enquanto tudo parece bem,[n]mas não devemos[n]baixar a guarda.[n][w][e]

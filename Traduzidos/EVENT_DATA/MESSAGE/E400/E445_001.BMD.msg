@@ -122,7 +122,7 @@
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 134 65535 0]Se novos vilões aparecerem,[n]você não poderá mais roubar seu[n]tesouro e despertar seu coração.[n][f 1 3 65535][w][e]
 
 [msg MSG_050_5_0 [Morgana]]
-[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 0 0 135 65535 0]Resumindo... os Phantom Thieves[n]terão que fechar a loja.[n][f 1 3 65535][w][e]
+[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 0 0 135 65535 0]Resumindo... os Phantom Thieves[n]terão que sair de negócios.[n][f 1 3 65535][w][e]
 
 [msg MSG_052_0_0 [Haru]]
 [s][bup 0 7 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 74 65535 0]Teremos que abandonar[n]este estilo de vida...[n][f 1 3 65535][w][e]
@@ -138,7 +138,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 86 65535 0]Você perderá seus poderes se os[n]Mementos forem apagados.[n]Você quer fazer isso mesmo assim?[n][f 1 3 65535][w][e]
 
 [sel SEL_061_0_0 top]
-[s]Temos que.[e]
+[s]Nós precisamos.[e]
 [s]Eu estou bem com isso.[e]
 [s]Sim. Por justiça.[e]
 

@@ -60,7 +60,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Onde mais as pessoas[n]vão para se divertir? Talvez a praça[n]em frente à estação? Vamos.[n][w][e]
 
 [sel SEL_E24320100_ENDINFO_SH top]
-[s]Venha, então.[e]
+[s]Pode vir.[e]
 [s]Eu estou muito cansado.[e]
 
 [msg MSG_E24320100_ENDINFO_SH_3 [Morgana]]

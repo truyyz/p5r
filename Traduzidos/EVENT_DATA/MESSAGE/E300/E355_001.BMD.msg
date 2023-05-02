@@ -1,6 +1,6 @@
 [msg MSG_000_0_0 [Sae]]
 [s][bup 0 105 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]Em resumo, seu grupo[n]não tentou a vida de Okumura[n]...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]E a morte do diretor[n]de Shujin, apesar da carta[n]de desafio, também não foi obra sua?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]E a morte do diretor[n]de Shujin, apesar da Carta[n]de Aviso, também não foi obra sua?[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [(SE)新島 冴]]
 [s][vp 8 0 0 3 65535 0](嘆息)[n][f 1 3 65535][w][e]
@@ -60,7 +60,7 @@
 
 [msg MSG_015_0_0 [Sae]]
 [s][bup 0 105 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 27 65535 0]Você já sabe de quem estou falando, não é?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 28 65535 0]Esta carta de aviso foi[n]entregue ao último alvo,[n]aquele que o teria inocentado.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 28 65535 0]Esta Carta de Aviso foi[n]entregue ao último alvo,[n]aquele que o teria inocentado.[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Sae]]
 [s][bup 0 105 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 29 65535 0]É endereçado a "Sae Niijima".[n]Para mim.[n][f 1 3 65535][w][e]

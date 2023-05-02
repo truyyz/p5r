@@ -30,7 +30,7 @@
 [sel D08_01_e441_031_selA top]
 [s]Não somos intrusos.[f 2 7 0 0 106 1][e]
 [s]Dê-nos o que você protege.[f 2 7 0 0 106 1][e]
-[s]Desculpe a espera.[f 2 7 0 0 106 1][e]
+[s]Desculpe a demora.[f 2 7 0 0 106 1][e]
 
 [msg D08_01_e441_031_selA_0_m [Guardador]]
 [s]Então o que você é? Rebeldes que[n]querem perturbar a felicidade[n]dos cidadãos deste mundo?[n][w][e]

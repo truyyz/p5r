@@ -45,7 +45,7 @@
 [s][f 5 14]Concordo.[n][w][e]
 
 [msg MSG_016_0_0 [Yusuke]]
-[s][f 5 14]Vou usá-lo para aperfeiçoar[n]a nossa carta de aviso e torná-la[n]uma verdadeira obra de arte.[n][w][e]
+[s][f 5 14]Vou usá-lo para aperfeiçoar[n]a nossa Carta de Aviso e torná-la[n]uma verdadeira obra de arte.[n][w][e]
 
 [msg MSG_017_0_0 [Futaba]]
 [s][f 5 14][f 5 15]Eeeeeeeeeee não, já está bem[n]como está.[n][w][e]

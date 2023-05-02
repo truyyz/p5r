@@ -36,7 +36,7 @@
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 7023 65535 0]O Tesouro deve estar atrás[n]daquela porta. Vamos![n][w][e]
 
 [msg SAFETY_MES_RYUJI_07 [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 7103 65535 0]Legal. Agora é só[n]enviar a carta de aviso.[n][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 7103 65535 0]Legal. Agora é só[n]enviar a Carta de Aviso.[n][w][e]
 
 [msg SAFETY_MES_MONA_01 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1156 65535 0]Uma Sala Segura perfeita como base[n]durante uma investigação.[n][w][e]

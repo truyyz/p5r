@@ -57,7 +57,7 @@
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 29 65535 0]Tenho a sensação de que ele[n]está escondendo algo grande...[n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Haru]]
-[s][bup 0 7 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 33 65535 0]Verdade... e afinal já[n]enviamos a carta de contestação.[n][f 1 3 65535][w][e]
+[s][bup 0 7 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 33 65535 0]Verdade... e afinal já[n]enviamos a Carta de Aviso.[n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 34 65535 0]Fazemos como sempre fizemos e roubamos o Tesouro.[n][f 1 3 65535][w][e]

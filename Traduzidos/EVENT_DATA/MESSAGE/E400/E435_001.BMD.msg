@@ -7,7 +7,7 @@
 [sel SEL_002_0_0 top]
 [s]Não estou nem um pouco cansado.[e]
 [s]Apenas diga.[e]
-[s]O que acontece?[e]
+[s]O que aconteceu?[e]
 
 [msg MSG_003_0_0 [Morgana]]
 [s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 0 0 9 65535 0]Serei honesto... você é incrível.[n]Há realmente algo[n]especial em você.[n][f 1 3 65535][w][e]

@@ -84,7 +84,7 @@
 
 [msg MSG_022_0_0 [Prof Kawakami]]
 [s][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Tudo bem, fique quieto. Os exames[n]começam na próxima quarta-feira.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Uma carta de aviso? Os[n]Phantom Thieves que roubam corações? Você[n]só gosta de fofoca.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Uma Carta de Aviso? Os[n]Phantom Thieves que roubam corações? Você[n]só gosta de fofoca.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Também tivemos coisas semelhantes quando eu era[n]jovem. Hanako-san, também conhecido como[n]Manto...Mestre Joker...[n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Prof Kawakami]]
@@ -1427,12 +1427,12 @@
 
 [msg MSG_352_0_0 [Maruki]]
 [s][bup 0 216 0 0 0][f 4 10 65535 0 0][vp 8 2 0 57484 65535 0]Ei. Sou o Dr. Maruki,[n]seu conselheiro escolar.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Graças à escola,[n]agora posso falar com você mesmo[n]fora das sessões.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Graças à escola,[n]agora posso falar com vocês mesmo[n]fora das sessões.[n][f 1 3 65535][w][e]
 
 [msg MSG_353_0_0 [Maruki]]
 [s][bup 0 216 0 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Gostaria de falar um pouco sobre como[n]a saúde mental e a percepção[n]podem afetá-lo.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não se preocupe, eu não quero[n]stress ou algo assim.[n]Relaxe e ouça.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Quanto vocês sabem[n]sobre a mente emocional?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Não se preocupe, eu não falo de[n]estresse ou algo assim.[n]Relaxe e escute.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]O quanto vocês sabem[n]sobre a mente emocional?[n][f 1 3 65535][w][e]
 
 [msg MSG_354_0_0 [Maruki]]
 [s][bup 0 216 0 0 0][f 4 10 65535 0 0][vp 8 2 0 57419 65535 0]Entenda, o que se passa em[n]sua mente pode afetar seu[n]corpo de maneiras significativas.[n][f 1 3 65535][w][e]
@@ -1445,7 +1445,7 @@
 [sel SEL_356_0_0 top]
 [s]Comentários positivos.[e]
 [s]Efeito Spasiba.[e]
-[s]Efeito placebo.[f 2 7 0 0 25 1][e]
+[s]Efeito Placebo.[f 2 7 0 0 25 1][e]
 
 [msg MSG_357_0_0 [Maruki]]
 [s][bup 0 216 0 0 0][f 4 10 65535 0 0][vp 8 2 0 57494 65535 0]Sim! Exatamente.[n][f 1 3 65535][w][e]

@@ -21,7 +21,7 @@
 [s]Responder mais tarde[e]
 
 [msg MSG_999_0_0 [Akechi]]
-[s][f 5 14]Estás livre hoje? Você gostaria de vir[n]comigo ao aquário?[n][f 5 15][w][e]
+[s][f 5 14]Você está livre hoje? Você gostaria de vir[n]comigo ao aquário?[n][f 5 15][w][e]
 
 [sel SEL_200_0_0 top]
 [s][f 5 14]É claro.[e]

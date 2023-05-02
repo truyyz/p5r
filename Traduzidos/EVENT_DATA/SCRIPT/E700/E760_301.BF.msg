@@ -387,7 +387,7 @@
 [sel SEL_DEBUG top]
 [s]Ryuji[e]
 [s]Yusuke[e]
-[s]futaba[e]
+[s]Futaba[e]
 [s]Morgana[e]
 [s]Sozinho[e]
 
@@ -395,7 +395,7 @@
 [s]Modo de Depuração[n][f 1 3 65535][w][e]
 
 [sel SEL_DEBUG_2 top]
-[s]sucesso[e]
-[s]falhou[e]
-[s]não use[e]
+[s]Sucesso[e]
+[s]Falhou[e]
+[s]Não usar[e]
 

@@ -1569,7 +1569,7 @@
 [s]Oh, então este é o meu destino.[n]Obrigado. Eu finalmente abri[n]meus olhos. Aceite este presente.[n][w][e]
 
 [msg TalkMsg_CONTACT_11]
-[s]Louco! Não se atreva a desafiar o[n]King Kamoshida de seu estoque básico.[n][w][e]
+[s]Louco! Não se atreva a desafiar o[n]Rei Kamoshida de seu estoque básico.[n][w][e]
 
 [msg TalkMsg_CONTACT_12]
 [s]Louco! Não se atreva a desafiar o[n]Lord Madarame de seu estoque básico.[n][w][e]
@@ -1726,7 +1726,7 @@
 [s]Ahah... Você realmente acha que seu[n]poder é um[n]bicho-papão para o Rei Kamoshida?[n][w][e]
 
 [msg TalkMsg_ED_bye_D01_03]
-[s]Preste atenção ao meu aviso:[n]King Kamoshida não é tão indulgente[n]quanto eu.[n][w][e]
+[s]Preste atenção ao meu aviso:[n]Rei Kamoshida não é tão indulgente[n]quanto eu.[n][w][e]
 
 [msg TalkMsg_ED_bye_D02_01]
 [s]Prepare-se para receber[n]o julgamento do Senhor Madarame,[n]pecador.[n][w][e]
@@ -1813,7 +1813,7 @@
 [s]Parado! Vou informar o[n]Rei Kamoshida![n][w][e]
 
 [msg TalkMsg_CONTACT_11_2]
-[s]Não faça isso! Se você atacar,[n]King Kamoshida descobrirá você![n][w][e]
+[s]Não faça isso! Se você atacar,[n]Rei Kamoshida descobrirá você![n][w][e]
 
 [msg TalkMsg_CONTACT_11_3]
 [s]...Tenha piedade de mim![n]Farei qualquer coisa...[n][w][e]

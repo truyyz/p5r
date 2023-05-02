@@ -21,7 +21,7 @@
 [msg MSG_BTL_START_001 [Morgana]]
 [s][bup 0 3 4 0 0][vp 8 2 2 1038 0 3][f 4 10 65535 0 0]Joker, parece haver algo estranho nela. Talvez[n]devêssemos tentar falar com ela.[n][f 1 3 65535][w][e]
 [s][bup 0 3 2 0 0][vp 8 2 2 0 0 0][f 4 10 65535 0 0]Ok, aqui está o que sabemos sobre ela.[n][f 1 3 65535][w][e]
-[s][vp 8 2 2 0 0 0][f 4 10 65535 0 0]Ele chama todos os gatos que ele sequestrou[n]"bolas de neve" e diz[n]que eles estão "agitados"...[n][f 1 3 65535][w][e]
+[s][vp 8 2 2 0 0 0][f 4 10 65535 0 0]Ela chama todos os gatos que ela sequestrou[n]de "bolas de neve" e diz[n]que eles estão "agitados"...[n][f 1 3 65535][w][e]
 [s][vp 8 2 2 0 0 0][f 4 10 65535 0 0]E, finalmente, "[n]donos de animais de estimação estão jogando[n]a toalha".[n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_HOLDUP01_000_000 [Sombra de Aino]]
@@ -35,7 +35,7 @@
 [s][vp 8 2 2 50833 1 73]NUNCA vou desistir![n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_HOLDUP01_001_000 [Sombra de Aino]]
-[s][vp 8 2 2 50849 1 73]Estou calmo...Claro que estou tranquilo...[n][f 1 3 65535][w][e]
+[s][vp 8 2 2 50849 1 73]Estou calma...Claro que estou tranquila...[n][f 1 3 65535][w][e]
 [s][vp 8 2 2 50876 1 73]Tenho que ficar calmo... para as bolas de neve.[n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_HOLDUP01_001_001 [Morgana]]

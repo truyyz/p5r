@@ -152,7 +152,7 @@
 
 [sel SEL_DEBUG top]
 [s]Morgana[e]
-[s]futaba[e]
-[s]leve-me[e]
+[s]Futaba[e]
+[s]Sair[e]
 [s]Sair da depuração[e]
 

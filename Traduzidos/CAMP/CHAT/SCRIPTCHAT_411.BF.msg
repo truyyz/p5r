@@ -8,7 +8,7 @@
 [s][f 5 14]Se você não tem outros compromissos,[n]gostaria de dar um passeio[n]comigo?[n][f 5 15][w][e]
 
 [sel SEL_010_0_0 top]
-[s][f 5 14]Vamos fazê-lo.[e]
+[s][f 5 14]Vamos fazer isso.[e]
 
 [msg MSG_020_0_0 [Makoto]]
 [s][f 5 14]Sério?!? Obrigado![n][w][e]

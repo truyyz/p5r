@@ -89,7 +89,7 @@
 [s][bup 0 8 0 65535 0][vp 8 0 0 0 65535 0]O-O quê?!? Eu-eu? Espero que[n]não se arrependa...[n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Haru]]
-[s][bup 0 7 0 65535 0][vp 8 0 0 0 65535 0]Parece engraçado! Fazemos[n]o que podemos, [f 4 2]![n][f 1 3 65535][w][e]
+[s][bup 0 7 0 65535 0][vp 8 0 0 0 65535 0]Parece divertido! Fazemos[n]o que podemos, [f 4 2]![n][f 1 3 65535][w][e]
 
 [msg MSG_024_0_0 [Akechi]]
 [s][bup 0 9 0 65535 0][vp 8 0 0 0 65535 0]Você está fazendo parceria comigo?[n]Que honra. Farei o meu melhor.[n][f 1 3 65535][w][e]

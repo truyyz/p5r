@@ -5,7 +5,7 @@
 [s]Eu assisto um pouco de TV?[n][w][e]
 
 [sel CAFE_TV_MAIN_OFF_SEL top]
-[s]Vamos fazê-lo.[e]
+[s]Vamos fazer isso.[e]
 [s]Uh...[e]
 
 [msg CAFE_TV_THINK [Morgana]]
@@ -189,7 +189,7 @@
 [s]O design é muito legal![n][w][e]
 
 [msg TV_SHOPPING_ITEM_09_00 [Locutor]]
-[s]Afaste os assediadores com este[n]Nuke Stick! É portátil e[n]você pode colocá-lo na bolsa![n][w][e]
+[s]Afaste os assediadores com este[n]Graveto Nuclear! É portátil e[n]você pode colocá-lo na bolsa![n][w][e]
 
 [msg TV_SHOPPING_ITEM_09_01 [Apresentador]]
 [s]Quase compro também![n][w][e]
@@ -1699,7 +1699,7 @@
 [msg TV_NEWS_1021_000_00 [Locutor]]
 [s]Nossa cobertura do[n]presidente da Okumura Foods continua...[n][w][e]
 [s]Apesar da ausência de pistas, na[n]net há muitos que culpam os[n]Phantom Thieves...[n][w][e]
-[s]O pedido é para examinar[n]a carta de contestação que foi[n]entregue ao Presidente Okumura...[n][w][e]
+[s]O pedido é para examinar[n]a Carta de Aviso que foi[n]entregue ao Presidente Okumura...[n][w][e]
 
 [msg TV_NEWS_1021_100_00 [Morgana]]
 [s][bup 0 3 0 0 0]モルガナのコメント[n][w][e]
@@ -2062,7 +2062,7 @@
 [s][bup 0 3 0 0 0]モルガナのコメント[n][w][e]
 
 [msg TV_NEWS_1213_000_00 [Locutor]]
-[s]Manca poco alla fase finale della[n]campagna elettorale, ma il partito[n]×× continua a ricevere critiche...[n][w][e]
+[s]Aproxima-se a fase final da [n]campanha eleitoral, mas o [n]partido ×× continua a receber críticas...[n][w][e]
 [s]Apesar das promessas eleitorais,[n]poucos manifestaram[n]interesse em seus discursos...[n][w][e]
 
 [msg TV_NEWS_1213_100_00 [Morgana]]

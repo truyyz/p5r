@@ -30,7 +30,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Você quer dizer que ele deveria[n]conhecê-la pessoalmente?[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Ele foi capaz de entregar aqui[n]a carta de aviso. Além disso, ele pode[n]monitorar a condição de Futaba.[n][f 1 3 65535][w][e]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]Ele foi capaz de entregar aqui[n]a Carta de Aviso. Além disso, ele pode[n]monitorar a condição de Futaba.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]No entanto, de acordo com as circunstâncias que[n]ele mencionou, não é possível para ele se[n]encontrar pessoalmente.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Isso me leva a pensar[n]que seria um problema para ele,[n]se quiséssemos vê-los juntos.[n][f 1 3 65535][w][e]
 

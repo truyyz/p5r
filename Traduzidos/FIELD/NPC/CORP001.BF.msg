@@ -289,7 +289,7 @@
 [s][bup 0 3 0 0 0][vp 8 2 1 1021 65535 0][f 4 10 65535 0 0]Futaba e Yusuke...[n]Deus os faz e depois os acasala...[n][w][e]
 
 [msg MSG_MORGANA_DAY_0824 [Morgana]]
-[s][bup 0 3 0 0 0][vp 8 2 1 1166 65535 0][f 4 10 65535 0 0]Fazemos o possível para que o Futaba se sinta[n]confortável em nosso grupo.[n][w][e]
+[s][bup 0 3 0 0 0][vp 8 2 1 1166 65535 0][f 4 10 65535 0 0]Fazemos o possível para que a Futaba se sinta[n]confortável em nosso grupo.[n][w][e]
 
 [msg MSG_MORGANA_DAY_0825 [Morgana]]
 [s][bup 0 3 0 0 0][vp 8 2 1 1189 65535 0][f 4 10 65535 0 0]O chefe parecia muito feliz.[n]Afinal, ele sempre[n]preocupou-se com Futaba...[n][w][e]
@@ -408,7 +408,7 @@
 [s][bup 0 3 5 0 0][vp 8 2 1 1178 65535 0][f 4 10 65535 0 0]Haru se envolveu nessa confusão por minha[n]causa... eu nunca poderia imaginar isso...[n][w][e]
 
 [msg MSG_MORGANA_DAY_1013 [Morgana]]
-[s][bup 0 3 2 0 0][vp 8 2 1 53109 65535 0][f 4 10 65535 0 0]Quê? Os Phantom Thieves assassinariam[n]Okumura? E enviou uma carta de aviso ao seu[n]diretor?[n][w][e]
+[s][bup 0 3 2 0 0][vp 8 2 1 53109 65535 0][f 4 10 65535 0 0]Quê? Os Phantom Thieves assassinariam[n]Okumura? E enviou uma Carta de Aviso ao seu[n]diretor?[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Estamos brincando?!?[n]Como eles podem nos acusar de[n]tal coisa?[n][w][e]
 
 [msg MSG_MORGANA_DAY_1014 [Morgana]]
@@ -478,7 +478,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]É hora de revidar e dar a Shido o que ele merece![n][w][e]
 
 [msg MSG_MORGANA_houkago_Yoko [Morgana]]
-[s][bup 0 3 2 0 0][vp 8 2 1 1189 65535 0][f 4 10 65535 0 0]Se não enviarmos a carta de aviso[n]hoje, estaremos perdidos! Vamos nos apressar[n]para reunir a equipe![n][w][e]
+[s][bup 0 3 2 0 0][vp 8 2 1 1189 65535 0][f 4 10 65535 0 0]Se não enviarmos a Carta de Aviso[n]hoje, estaremos perdidos! Vamos nos apressar[n]para reunir a equipe![n][w][e]
 
 [msg MSG_MORGANA_DAY_1217 [Morgana]]
 [s][bup 0 3 0 0 0][vp 8 2 1 1020 65535 0][f 4 10 65535 0 0]Amanhã é a eleição...[n]Espero que seu coração[n]desperte a tempo.[n][w][e]
@@ -509,10 +509,10 @@
 [s][vp 8 2 1 0 65535 0][f 4 10 65535 0 0]Você pode relaxar ou pensar em se preparar...[n]Apenas faça o que tiver que fazer, antes que[n]seja tarde demais.[n][w][e]
 
 [msg MSG_MORGANA_D01_YOKOKU_0 [Morgana]]
-[s][bup 0 3 2 0 0][vp 8 2 1 1172 65535 0][f 4 10 65535 0 0]Precisamos descobrir qual é o melhor dia[n]para enviar a carta[n]de desafio! Chamamos os outros.[n][w][e]
+[s][bup 0 3 2 0 0][vp 8 2 1 1172 65535 0][f 4 10 65535 0 0]Precisamos descobrir qual é o melhor dia[n]para enviar a Carta[n]de Aviso! Chamamos os outros.[n][w][e]
 
 [msg MSG_MORGANA_D01_YOKOKU_0_2 [Morgana]]
-[s][bup 0 3 2 0 0][vp 8 2 1 1190 65535 0][f 4 10 65535 0 0]Quando você deseja enviar a carta-desafio?[n]De qualquer forma,[n]pense nisso, ok?[n][w][e]
+[s][bup 0 3 2 0 0][vp 8 2 1 1190 65535 0][f 4 10 65535 0 0]Quando você deseja enviar a Carta de Aviso?[n]De qualquer forma,[n]pense nisso, ok?[n][w][e]
 
 [msg MSG_MORGANA_D01_LV1 [Morgana]]
 [s][bup 0 3 2 0 0][vp 8 2 1 1166 65535 0][f 4 10 65535 0 0]Faltam mais de dez dias[n]para a sua expulsão. Podemos[n]ir com calma, se você quiser.[n][w][e]
@@ -564,7 +564,7 @@
 [s][bup 0 3 0 0 0][vp 8 2 1 1174 65535 0][f 4 10 65535 0 0]Agora podemos apenas esperar[n]e ver o que acontece. Há[n]razão para ser impaciente.[n][w][e]
 
 [msg MSG_MORGANA_night_Yokoku [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1176 65535 0]DEVEMOS enviar carta de aviso! Vamos nos reunir[n]o mais rápido possível![n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1176 65535 0]DEVEMOS enviar Carta de Aviso! Vamos nos reunir[n]o mais rápido possível![n][w][e]
 
 [msg MSG_MORGANA_D03_ACTION [Morgana]]
 [s][bup 0 3 2 0 0][vp 8 2 1 1174 65535 0][f 4 10 65535 0 0]Amanhã é o grande dia.[n][w][e]
@@ -642,7 +642,7 @@
 [s][vp 8 2 1 0 65535 0][f 4 10 65535 0 0]Você pode relaxar ou pensar em se preparar...[n]Apenas faça o que tiver que fazer, antes que[n]seja tarde demais.[n][w][e]
 
 [msg MSG_MORGANA_D06_YOKOKU [Morgana]]
-[s][bup 0 3 2 0 0][vp 8 2 1 1174 65535 0][f 4 10 65535 0 0]Tudo o que resta é enviar a[n]carta de aviso...[n][w][e]
+[s][bup 0 3 2 0 0][vp 8 2 1 1174 65535 0][f 4 10 65535 0 0]Tudo o que resta é enviar a[n]Carta de Aviso...[n][w][e]
 
 [msg MSG_MORGANA_D06_NINCHI [Morgana]]
 [s][bup 0 3 2 0 0][vp 8 2 1 1172 65535 0][f 4 10 65535 0 0]Nós apenas temos que mudar a[n]cognição de Niijima, exatamente[n]como fizemos com os outros.[n][w][e]
@@ -657,19 +657,19 @@
 [s][bup 0 3 2 0 0][vp 8 2 1 1027 65535 0][f 4 10 65535 0 0]Estamos mal... Falta pouco...[n][w][e]
 
 [msg MSG_MORGANA_D06_LV1_WAIT [Morgana]]
-[s][bup 0 3 2 0 0][vp 8 2 1 1174 65535 0][f 4 10 65535 0 0]Agora vamos esperar até o dia[n]que a carta de aviso é enviada.[n]Vamos nos preparar, ok?[n][w][e]
+[s][bup 0 3 2 0 0][vp 8 2 1 1174 65535 0][f 4 10 65535 0 0]Agora vamos esperar até o dia[n]que a Carta de Aviso é enviada.[n]Vamos nos preparar, ok?[n][w][e]
 
 [msg MSG_MORGANA_D06_LV2_WAIT [Morgana]]
-[s][bup 0 3 2 0 0][vp 8 2 1 1174 65535 0][f 4 10 65535 0 0]Vamos enviar a carta de contestação[n]no dia 18, certo? Vamos fazer o[n]máximo do tempo até então.[n][w][e]
+[s][bup 0 3 2 0 0][vp 8 2 1 1174 65535 0][f 4 10 65535 0 0]Vamos enviar a Carta de Aviso[n]no dia 18, certo? Vamos fazer o[n]máximo do tempo até então.[n][w][e]
 
 [msg MSG_MORGANA_D06_LV3_WAIT [Morgana]]
-[s][bup 0 3 2 0 0][vp 8 2 1 1174 65535 0][f 4 10 65535 0 0]Enviaremos a carta de contestação[n]no dia 18. Quase lá.[n][w][e]
+[s][bup 0 3 2 0 0][vp 8 2 1 1174 65535 0][f 4 10 65535 0 0]Enviaremos a Carta de Aviso[n]no dia 18. Quase lá.[n][w][e]
 
 [msg MSG_MORGANA_D07_ACTION [Morgana]]
 [s][bup 0 3 2 0 0][vp 8 2 1 1174 65535 0][f 4 10 65535 0 0]Amanhã é o dia. Vamos mostrar a eles[n]o que podemos fazer![n][w][e]
 
 [msg MSG_MORGANA_D07_YOKOKU [Morgana]]
-[s][bup 0 3 2 0 0][vp 8 2 1 1174 65535 0][f 4 10 65535 0 0]A carta de aviso está pronta.[n]Este assalto será espetacular![n][w][e]
+[s][bup 0 3 2 0 0][vp 8 2 1 1174 65535 0][f 4 10 65535 0 0]A Carta de Aviso está pronta.[n]Este assalto será espetacular![n][w][e]
 
 [msg MSG_MORGANA_D07_NINCHI [Morgana]]
 [s][bup 0 3 2 0 0][vp 8 2 1 1174 65535 0][f 4 10 65535 0 0]Desta vez o alvo é Shido,[n]mas o objetivo é sempre o mesmo:[n]mudar a cognição do alvo.[n][w][e]
@@ -709,7 +709,7 @@
 [s][bup 0 3 2 0 0][vp 8 2 1 1181 65535 0][f 4 10 65535 0 0]Pronto ou não, a batalha é[n]amanhã. Vamos despertar Maruki![n][w][e]
 
 [msg MSG_MORGANA_D10_YOKOKU [Morgana]]
-[s][bup 0 3 2 0 0][vp 8 2 1 1174 65535 0][f 4 10 65535 0 1]Agora é só enviar a carta de aviso! Por[n]enquanto, estamos esperando uma mudança de[n]Maruki.[n][w][e]
+[s][bup 0 3 2 0 0][vp 8 2 1 1174 65535 0][f 4 10 65535 0 1]Agora é só enviar a Carta de Aviso! Por[n]enquanto, estamos esperando uma mudança de[n]Maruki.[n][w][e]
 
 [msg MSG_MORGANA_D10_LV1_WAIT [Morgana]]
 [s][bup 0 3 0 0 0][vp 8 2 1 1190 65535 0][f 4 10 65535 0 0]Não podemos fazer mais nada[n]no momento... Talvez você possa[n]sair com os outros.[n][w][e]

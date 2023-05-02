@@ -86,7 +86,7 @@
 
 [msg MSG_0103_0108_WAKABA_1ST_4 [Wakaba]]
 [s][bup 0 208 501 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 870 0][f 4 23 1 870 3 10 0 10]Eheh... Parece algum tipo de sonho.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 870 0]Eu tenho todo o tempo do mundo[n]para estar com o Futaba...[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 870 0]Eu tenho todo o tempo do mundo[n]para estar com a Futaba...[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 870 0][f 4 23 1 870 3 10 0 10]E agora todos vivemos sob o mesmo teto. Não[n]poderia ser melhor, você não acha, Sojiro?[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 870 0]Ah, a propósito, coabitação[n]não é opcional... Você agora faz parte[n]da família![n][w][e]
 
@@ -986,7 +986,7 @@
 [s][f 4 23 1 11 3 10 0 10][vp 8 2 1 0 11 0]Talvez eu pudesse jogar também,[n]ocasionalmente... Mas meus pais não[n]permitem.[n][w][e]
 
 [msg MSG_HINEKUREKODOMO_007_0 [Estudante ingênuo]]
-[s][f 4 23 1 11 3 10 0 10][vp 8 2 1 0 11 0]Você leu as notícias na net? Os[n]Phantom Thieves enviaram uma[n]carta de aviso para esses vilões.[n][w][e]
+[s][f 4 23 1 11 3 10 0 10][vp 8 2 1 0 11 0]Você leu as notícias na net? Os[n]Phantom Thieves enviaram uma[n]Carta de Aviso para esses vilões.[n][w][e]
 
 [msg MSG_HINEKUREKODOMO_007_1 [Estudante rebelde]]
 [s][f 4 23 1 10 3 10 0 10][vp 8 2 1 0 10 0]Sim eu li! Como eles são legais![n]Eles são como Featherman,[n]enfrentam os bandidos sem medo![n][w][e]
@@ -1337,7 +1337,7 @@
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]Não! Eles são fracos,[n]confie em mim![n][w][e]
 
 [msg MSG_ROUJINFUFU_014_0_0 [Velhinha gentil]]
-[s][f 4 23 1 16 3 10 0 10][vp 8 2 1 0 16 0]Os Phantom Thieves estão sempre ocupados. Eles[n]enviaram uma carta de aviso para Okumura.[n][w][e]
+[s][f 4 23 1 16 3 10 0 10][vp 8 2 1 0 16 0]Os Phantom Thieves estão sempre ocupados. Eles[n]enviaram uma Carta de Aviso para Okumura.[n][w][e]
 
 [msg MSG_ROUJINFUFU_014_1_0 [Velho triste]]
 [s][f 4 23 1 13 3 10 0 10][vp 8 2 1 0 13 0]A reforma da sociedade deve[n]encarregar-se daqueles a quem[n]elegemos e colocamos no poder.[n][w][e]
@@ -2250,7 +2250,7 @@
 [s][vp 9 2 65535 41201 0 0]Os dele eram apenas plágios![n]Ele não é um grande artista, ele é[n]apenas um vigarista sujo![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_006_02_ [Velhote]]
-[s][vp 9 2 65535 46004 0 0]Como é possível que[n]uma carta de aviso tenha sido enviada[n]antes disso acontecer...?[n][f 1 2 180][e]
+[s][vp 9 2 65535 46004 0 0]Como é possível que[n]uma Carta de Aviso tenha sido enviada[n]antes disso acontecer...?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_006_03_ [Velhote]]
 [s][vp 9 2 65535 44505 0 0]"Phantom Thief"?[n]E o que é isso?[n][f 1 2 180][e]
@@ -2325,16 +2325,16 @@
 [s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_01_ [Velhote]]
-[s][vp 9 2 65535 45205 0 0]Essa carta de aviso[n]deve ser uma farsa.[n]É ridículo![n][f 1 2 180][e]
+[s][vp 9 2 65535 45205 0 0]Essa Carta de Aviso[n]deve ser uma farsa.[n]É ridículo![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_02_ [Velhote]]
-[s][vp 9 2 65535 39455 0 0]Cartas de desafio para Shibuya?[n]Do que você está falando?[n][f 1 2 180][e]
+[s][vp 9 2 65535 39455 0 0]Cartas de Aviso para Shibuya?[n]Do que você está falando?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_03_ [Velhote]]
 [s][vp 9 2 65535 46055 0 0]Phantom Thieves? Mas vá.[n]Você vigia muitas almas.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_04_ [Velhote]]
-[s][vp 9 2 65535 45305 0 0]Aquele? carta de aviso?[n][f 1 2 180][e]
+[s][vp 9 2 65535 45305 0 0]Aquele? Carta de Aviso?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_05_ [Velhote]]
 [s][vp 9 2 65535 39155 0 0]Se você acredita que um "[n]Phantom Thief" resolverá seus[n]problemas... Abra seus olhos.[n][f 1 2 180][e]
@@ -2649,7 +2649,7 @@
 [s][vp 9 2 65535 45803 0 0]Mal posso esperar para Okumura[n]começar a chorar como[n]uma garotinha![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_018_09_ [Velhote]]
-[s][vp 9 2 65535 39306 0 0]Era a carta de aviso que eu[n]esperava! Vocês são todos nós, Phantom Thieves![n][f 1 2 180][e]
+[s][vp 9 2 65535 39306 0 0]Era a Carta de Aviso que eu[n]esperava! Vocês são todos nós, Phantom Thieves![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_018_10_ [Velhote]]
 [s]0[n][f 1 2 180][e]
@@ -2925,7 +2925,7 @@
 [s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_028_01_ [Velhote]]
-[s][vp 9 2 65535 41757 0 0]Por que os Phantom Thieves[n]enviaram uma carta[n]de desafio para Shido-san...?[n][f 1 2 180][e]
+[s][vp 9 2 65535 41757 0 0]Por que os Phantom Thieves[n]enviaram uma Carta[n]de Aviso para Shido-san...?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_028_02_ [Velhote]]
 [s][vp 9 2 65535 45655 0 0]Mas o que os Phantom Thieves dizem?[n]Shido negou tanto, então...[n][f 1 2 180][e]
@@ -3394,11 +3394,11 @@
 [s][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Vamos nos apressar e nos encontrar[n]na reunião![n][w][e]
 
 [msg Quest48_target_01_00 [Kazuo Tsuboi]]
-[s][f 4 23 1 603 3 10 0 10][vp 8 2 1 0 603 0]Uma carta de aviso...?[n]Quero dizer, daqueles Ladrões[n]Phantom!?![n][w][e]
+[s][f 4 23 1 603 3 10 0 10][vp 8 2 1 0 603 0]Uma Carta de Aviso...?[n]Quero dizer, daqueles Ladrões[n]Phantom!?![n][w][e]
 [s][vp 8 2 1 0 603 0]Oh merda, isso está realmente acontecendo!?! Mas[n]por que eu...?[n][w][e]
 
 [msg Quest48_target_sinjyo_01]
-[s]Parece que a carta de contestação[n]foi entregue com sucesso.[n][w][e]
+[s]Parece que a Carta de Aviso[n]foi entregue com sucesso.[n][w][e]
 
 [msg Quest48_target_02_00 [Estudante universitário cauteloso]]
 [s][f 4 23 1 602 3 10 0 10][vp 8 2 1 0 602 0]Ei, eu não vejo você claramente[n]estes dias.[n][w][e]
@@ -3479,7 +3479,7 @@
 [s][vp 8 2 65535 0 0 0]Tudo vai ficar bem.[n]Ela tem um coração ruim.[n]Ela logo vai chutar o balde.[n][w][e]
 
 [msg MSG_TOSHINOSA_006_0_0 [Homem de boa aparência]]
-[s][f 4 23 1 7 6 10 5 10][vp 8 2 65535 0 0 0]Os Phantom Thieves enviaram[n]a carta de aviso à máfia.[n]Eles fazem a polícia ficar mal...[n][w][e]
+[s][f 4 23 1 7 6 10 5 10][vp 8 2 65535 0 0 0]Os Phantom Thieves enviaram[n]a Carta de Aviso à máfia.[n]Eles fazem a polícia ficar mal...[n][w][e]
 
 [msg MSG_TOSHINOSA_006_1_0 [Mulher na cadeira de rodas]]
 [s][f 4 23 1 7 9 10 5 10][vp 8 2 65535 0 0 0]Eh, e a polícia é impotente.[n]Na primeira ameaça trivial,[n]ele paralisa.[n][w][e]
@@ -3627,7 +3627,7 @@
 [s][f 4 23 1 7 9 10 5 10][vp 8 2 65535 0 0 0]Certo. Vamos ficar juntos até que[n]a morte nos separe. Uma[n]mente, um corpo.[n][w][e]
 [s][vp 8 2 65535 0 0 0]Por fim, também terei[n]seu coração. O tesouro mais[n]precioso de todos.[n][w][e]
 
-[msg MSG_OOYA_001_0_0 [Mulher com um quarto]]
+[msg MSG_OOYA_001_0_0 [Mulher com uma Câmera]]
 [s][f 4 23 1 65535 3 10 0 10][bup 0 107 6 65535 0][f 4 10 65535 0 0][vp 8 2 1 16004 65535 0]Ei, já nos conhecemos.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 16057 65535 0]Ohhh, você é aquele cara que estava[n]na frente da casa do Madarame.[n]Descobriu algo interessante?[n][w][e]
 
@@ -3635,13 +3635,13 @@
 [s]Eu diria que não.[e]
 [s]Eu não quero dizer a você.[e]
 
-[msg MSG_OOYA_003_0_0 [Mulher com um quarto]]
+[msg MSG_OOYA_003_0_0 [Mulher com uma Câmera]]
 [s][f 4 23 1 65535 3 10 0 10][bup 0 107 6 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Entendi. Bem, deixe-me saber[n]se você descobrir alguma coisa.[n][w][e]
 
-[msg MSG_OOYA_004_0_0 [Mulher com um quarto]]
+[msg MSG_OOYA_004_0_0 [Mulher com uma Câmera]]
 [s][f 4 23 1 65535 3 10 0 10][bup 0 107 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Vamos, garoto, não tente blefar. Pelo que posso[n]dizer, você não tem absolutamente nada.[n][w][e]
 
-[msg MSG_OOYA_005_0_0 [Mulher com um quarto]]
+[msg MSG_OOYA_005_0_0 [Mulher com uma Câmera]]
 [s][f 4 23 1 65535 3 10 0 10][bup 0 107 6 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu só estou com vontade de beber, e tudo[n]porque estou preso[n]nessa maldita história...[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Como devo perseguir[n]um "coletivo de hackers anônimos"[n]se ninguém sabe nada sobre eles?[n][w][e]
 [s][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]...Oh, desculpe. Baixar tudo[n]sobre você não vai mudar isso.[n][w][e]
@@ -3650,25 +3650,25 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 65535 1038 0 0]Ela é a mulher que vimos[n]na casa de Madarame.[n][w][e]
 [s][bup 0 3 5 65535 0][f 4 10 65535 0 0][vp 8 2 65535 1044 0 0]Ele fede a álcool, mas...[n]Quanto ele bebeu?[n][w][e]
 
-[msg MSG_OOYA_006_0_0 [Mulher com um quarto]]
+[msg MSG_OOYA_006_0_0 [Mulher com uma Câmera]]
 [s][f 4 23 1 65535 3 10 0 10][bup 0 107 6 65535 0][f 4 10 65535 0 0][vp 8 2 1 16004 65535 0]Ah, vejo você de novo.[n][w][e]
 
 [sel SEL_OOYA_007_0_0 top]
 [s]Boa noite.[e]
 [s]Você fede a álcool.[e]
 
-[msg MSG_OOYA_008_0_0 [Mulher com um quarto]]
+[msg MSG_OOYA_008_0_0 [Mulher com uma Câmera]]
 [s][f 4 23 1 65535 3 10 0 10][bup 0 107 6 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Haha, então você se lembra de mim.[n]Você mora por aqui?[n][w][e]
 
-[msg MSG_OOYA_009_0_0 [Mulher com um quarto]]
+[msg MSG_OOYA_009_0_0 [Mulher com uma Câmera]]
 [s][f 4 23 1 65535 3 10 0 10][bup 0 107 6 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Haha, me desculpe. Acho que bebi um pouco demais.[n][w][e]
 
-[msg MSG_OOYA_010_0_0 [Mulher com um quarto]]
+[msg MSG_OOYA_010_0_0 [Mulher com uma Câmera]]
 [s][bup 0 107 6 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu só estou com vontade de beber, e tudo[n]porque estou preso[n]nessa maldita história...[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Como devo perseguir[n]um "coletivo de hackers anônimos"[n]se ninguém sabe nada sobre eles?[n][w][e]
 [s][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]...Oh, desculpe. Baixar tudo[n]sobre você não vai mudar isso.[n][w][e]
 
-[msg MSG_OOYA_011_0_0 [Mulher com um quarto]]
+[msg MSG_OOYA_011_0_0 [Mulher com uma Câmera]]
 [s][f 4 23 1 65535 8 10 0 10][bup 0 107 6 65535 0][f 4 10 65535 0 0][vp 8 2 1 16021 65535 0]Não conheço bem Yongen, mas[n]as lojas daqui parecem[n]muito interessantes.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Tudo bem... É hora de eu ir.[n]Quero terminar a noite em[n]meu oásis favorito.[n][w][e]
 

@@ -20,7 +20,7 @@
 [msg MSG_009_0_0 [A voz de Ryuji]]
 [s][vp 8 0 0 7 65535 0]Se alguém ajudasse essas[n]pessoas, não haveria[n]necessidade dos Phantom Thieves![n][f 1 3 65535][w][e]
 
-[msg MSG_011_0_0 [Voz de Ana]]
+[msg MSG_011_0_0 [Voz de Ann]]
 [s][vp 8 0 0 8 65535 0]Então você acha que é verdade?[n]Mesmo se continuarmos com essa[n]história... tudo vai ficar bem, certo?[n][f 1 3 65535][w][e]
 
 [msg MSG_012_0_0 [Makoto]]

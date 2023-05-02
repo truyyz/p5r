@@ -109,7 +109,7 @@
 [s]Acho que meu [f 4 11 4][clr 26][f 4 12 4][clr 27][n]vai aumentar em breve...[n][w][e]
 
 [sel SEL_Work top]
-[s]Vamos fazê-lo.[e]
+[s]Vamos fazer isso.[e]
 [s]Esqueça.[e]
 
 [msg MSG_ArbeitOK_Start [Lala Escargot]]

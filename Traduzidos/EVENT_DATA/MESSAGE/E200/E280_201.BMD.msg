@@ -35,7 +35,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]É Alibaba?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Alibaba]]
-[s][vp 8 0 0 0 65535 0][f 5 14]Eu dei a você uma carta de aviso e[n]disse o nome do alvo.[n]Você deve estar pronto para agir.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0][f 5 14]Eu dei a você uma Carta de Aviso e[n]disse o nome do alvo.[n]Você deve estar pronto para agir.[n][f 1 3 65535][w][e]
 
 [msg MSG_010_2_0 [Alibaba]]
 [s][vp 8 0 0 0 65535 0][f 5 14]Por que você não faz isso?[n][f 1 3 65535][w][e]
@@ -148,7 +148,7 @@
 
 [msg MSG_024_0_0 [Morgana]]
 [s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]Não faz sentido...[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Não apenas o Alibaba não pode[n]sair, mas também não podemos[n]nem conhecer o Futaba?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]Não apenas o Alibaba não pode[n]sair, mas também não podemos[n]nem conhecer a Futaba?[n][f 1 3 65535][w][e]
 
 [msg MSG_026_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 27 65535 0]Bem, isso não é da nossa conta,[n]agora. Não podemos mais contatá-lo.[n][f 1 3 65535][w][e]

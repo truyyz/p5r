@@ -146,14 +146,14 @@
 [s][f 4 23 1 8 3 10 0 0][vp 8 2 1 0 8 0]Eu sei que não tenho o direito de[n]dizer isso, mas Sakamoto teve[n]muito azar...[n][w][e]
 
 [msg MSG_GAKKOJIMUINN_008_0_0 [Estudante vistoso]]
-[s][f 4 23 1 9 3 10 0 10][vp 8 2 1 0 9 0]Eu vi a carta de aviso de[n]Phantom Thieves enquanto eu estava fora[n]em Shibuya na outra noite![n][w][e]
+[s][f 4 23 1 9 3 10 0 10][vp 8 2 1 0 9 0]Eu vi a Carta de Aviso de[n]Phantom Thieves enquanto eu estava fora[n]em Shibuya na outra noite![n][w][e]
 [s][vp 8 2 1 0 9 0]Havia um cara grande e assustador[n]em pânico total arrancando[n]eles. Uma explosão![n][w][e]
 
 [msg MSG_GAKKOJIMUINN_008_1_0 [Professor gentil]]
 [s][f 4 23 1 8 3 10 0 0][vp 8 2 1 0 8 0]Algo vai acontecer de novo[n]algo? Ah, e vocês,[n]não saiam muito tarde, ok?[n][w][e]
 
 [msg MSG_GAKKOJIMUINN_008_2_0 [Estudante vistoso]]
-[s][f 4 23 1 9 3 10 0 10][vp 8 2 1 0 9 0]O que? Está tudo bem. Além disso,[n]se essa carta de aviso for verdadeira,[n]haverá mais segurança por aí.[n][w][e]
+[s][f 4 23 1 9 3 10 0 10][vp 8 2 1 0 9 0]O que? Está tudo bem. Além disso,[n]se essa Carta de Aviso for verdadeira,[n]haverá mais segurança por aí.[n][w][e]
 
 [msg MSG_GAKKOJIMUINN_009_0_0 [Estudante vistoso]]
 [s][f 4 23 1 9 3 10 0 10][vp 8 2 1 0 9 0]Quão loucos são os Phantom Thieves?[n]Eu me pergunto se eles realmente têm[n]laços com esta escola.[n][w][e]
@@ -381,19 +381,19 @@
 [s][vp 9 2 65535 42762 0 0]As coisas devem voltar[n]ao normal depois que eles[n]forem expulsos, certo?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_004_01_ [Estudante vistoso]]
-[s][vp 9 2 65535 42455 0 0]Uma carta de aviso dos[n]Phantom Thieves?[n]Você lê muitos mangás...[n][f 1 2 180][e]
+[s][vp 9 2 65535 42455 0 0]Uma Carta de Aviso dos[n]Phantom Thieves?[n]Você lê muitos mangás...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_004_02_ [Estudante vistoso]]
 [s][vp 9 2 65535 43161 0 0]É preciso coragem para arranjar[n]lutas com Kamoshida.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_004_03_ [Estudante vistoso]]
-[s][vp 9 2 65535 37555 0 0]É uma "carta de aviso".[n]Aparentemente, eles querem que ele[n]confesse todos os seus crimes.[n][f 1 2 180][e]
+[s][vp 9 2 65535 37555 0 0]É uma "Carta de Aviso".[n]Aparentemente, eles querem que ele[n]confesse todos os seus crimes.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_004_04_ [Estudante vistoso]]
 [s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_004_05_ [Estudante vistoso]]
-[s][vp 9 2 65535 46355 0 0]O que é uma carta de aviso?[n]Algum tipo de piada?[n][f 1 2 180][e]
+[s][vp 9 2 65535 46355 0 0]O que é uma Carta de Aviso?[n]Algum tipo de piada?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_004_06_ [Estudante vistoso]]
 [s][vp 9 2 65535 42213 0 0]Que tipo de pessoa[n]se voltaria contra Kamoshida...?[n][f 1 2 180][e]
@@ -405,7 +405,7 @@
 [s][vp 9 2 65535 43255 0 0]É definitivamente assustador[n]se eles podem roubar seu coração[n]como se nada tivesse acontecido.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_005_02_ [Estudante vistoso]]
-[s][vp 9 2 65535 39455 0 0]É apenas uma coincidência, não é?[n]Essa carta de aviso[n]não tem nada a ver com isso.[n][f 1 2 180][e]
+[s][vp 9 2 65535 39455 0 0]É apenas uma coincidência, não é?[n]Essa Carta de Aviso[n]não tem nada a ver com isso.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_005_03_ [Estudante vistoso]]
 [s][vp 9 2 65535 39053 0 0]Ele realmente cometeu todas aquelas[n]atrocidades? Oh meu Deus, Kamoshida[n]acabou.[n][f 1 2 180][e]
@@ -510,10 +510,10 @@
 [s][vp 9 2 65535 40454 0 0]Aqueles Phantom Thieves poderiam[n]ser muito mais do que apenas[n]piada. Aqui a coisa é de época...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_02_ [Estudante vistoso]]
-[s][vp 9 2 65535 37854 0 0]Madarame recebeu uma carta de[n]desafio, a mesma que foi[n]enviada para Kamoshida...[n][f 1 2 180][e]
+[s][vp 9 2 65535 37854 0 0]Madarame recebeu uma Carta de[n]Aviso, a mesma que foi[n]enviada para Kamoshida...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_03_ [Estudante vistoso]]
-[s][vp 9 2 65535 39104 0 0]Alguns Phantom Thieves[n]entregaram uma carta de aviso[n]na exposição de Madarame, não é?[n][f 1 2 180][e]
+[s][vp 9 2 65535 39104 0 0]Alguns Phantom Thieves[n]entregaram uma Carta de Aviso[n]na exposição de Madarame, não é?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_04_ [Estudante vistoso]]
 [s]0[n][f 1 2 180][e]
@@ -525,7 +525,7 @@
 [s][vp 9 2 65535 39505 0 0]Os Phantom Thieves de novo? Mas não foi apenas[n]uma piada?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_07_ [Estudante vistoso]]
-[s][vp 9 2 65535 43305 0 0]Então aquela carta de aviso para[n]Kamoshida não era brincadeira...[n][f 1 2 180][e]
+[s][vp 9 2 65535 43305 0 0]Então aquela Carta de Aviso para[n]Kamoshida não era brincadeira...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_009_01_ [Estudante vistoso]]
 [s][vp 9 2 65535 42954 0 0]Há uma rede criminosa em[n]Shibuya... É assustador que[n]está a poucos passos de distância.[n][f 1 2 180][e]
@@ -549,28 +549,28 @@
 [s][vp 9 2 65535 43352 0 0]Há tantas[n]chantagens e golpes acontecendo?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_01_ [Estudante vistoso]]
-[s][vp 9 2 65535 43104 0 0]O que dizia a carta de aviso?[n][f 1 2 180][e]
+[s][vp 9 2 65535 43104 0 0]O que dizia a Carta de Aviso?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_02_ [Estudante vistoso]]
-[s][vp 9 2 65535 42554 0 0]Li na net que apareceu[n]outra carta de aviso...[n][f 1 2 180][e]
+[s][vp 9 2 65535 42554 0 0]Li na net que apareceu[n]outra Carta de Aviso...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_03_ [Estudante vistoso]]
-[s][vp 9 2 65535 42104 0 0]Você lê postagens online? Os[n]Phantom Thieves enviaram[n]outra carta de aviso![n][f 1 2 180][e]
+[s][vp 9 2 65535 42104 0 0]Você lê postagens online? Os[n]Phantom Thieves enviaram[n]outra Carta de Aviso![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_04_ [Estudante vistoso]]
 [s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_05_ [Estudante vistoso]]
-[s][vp 9 2 65535 42154 0 0]Parece que[n]outra carta de aviso foi entregue! E desta[n]vez o destinatário é a máfia![n][f 1 2 180][e]
+[s][vp 9 2 65535 42154 0 0]Parece que[n]outra Carta de Aviso foi entregue! E desta[n]vez o destinatário é a máfia![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_06_ [Estudante vistoso]]
-[s][vp 9 2 65535 39755 0 0]É verdade que um cara chamado[n]Kaneshiro recebeu uma[n]carta de aviso!?![n][f 1 2 180][e]
+[s][vp 9 2 65535 39755 0 0]É verdade que um cara chamado[n]Kaneshiro recebeu uma[n]Carta de Aviso!?![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_07_ [Estudante vistoso]]
-[s][vp 9 2 65535 42804 0 0]Você viu? Phantom[n]Thievess entregaram outra[n]carta de aviso![n][f 1 2 180][e]
+[s][vp 9 2 65535 42804 0 0]Você viu? Phantom[n]Thievess entregaram outra[n]Carta de Aviso![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_011_01_ [Estudante vistoso]]
-[s][vp 9 2 65535 43306 0 0]Espere, o que está escrito[n]naquela carta de aviso[n]realmente aconteceu!?![n][f 1 2 180][e]
+[s][vp 9 2 65535 43306 0 0]Espere, o que está escrito[n]naquela Carta de Aviso[n]realmente aconteceu!?![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_011_02_ [Estudante vistoso]]
 [s][vp 9 2 65535 42704 0 0]Esses Phantom Thieves vão despertar[n]o coração daquele criminoso, não vão?[n][f 1 2 180][e]
@@ -807,7 +807,7 @@
 [s][vp 9 2 65535 46150 0 0]Adultos corruptos merecem[n]ser arruinados pelos Phantom Thieves![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_021_07_ [Estudante vistoso]]
-[s][vp 9 2 65535 38303 0 0]Eu esperei ansiosamente outra[n]carta de aviso! Ansioso[n]pelo pedido de desculpas de Okumura![n][f 1 2 180][e]
+[s][vp 9 2 65535 38303 0 0]Eu esperei ansiosamente outra[n]Carta de Aviso! Ansioso[n]pelo pedido de desculpas de Okumura![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_022_01_ [Estudante vistoso]]
 [s][vp 9 2 65535 42152 0 0]Essa entrevista coletiva foi[n]louca... O que aconteceu?[n][f 1 2 180][e]

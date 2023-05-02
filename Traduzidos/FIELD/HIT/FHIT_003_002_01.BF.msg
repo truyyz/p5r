@@ -439,10 +439,10 @@
 [s]Esta planta ornamental[n]parece bastante degradada.[n][w][e]
 
 [msg MONA_FloorObj_Plant_FIRS [Morgana]]
-[s][bup 0 3 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 1027 65535 0]Ela não é tão bonita quanto pensávamos.[n]Ela parece um pouco sem graça...[n][w][e]
+[s][bup 0 3 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 1027 65535 0]A planta não é tão bonita quanto pensávamos.[n]Ela parece um pouco sem graça...[n][w][e]
 
 [msg MONA_FloorObj_Plant_NoIt [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0]Eles não vendem fertilizante[n]ou outra coisa que[n]devolve a cor?[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0]Eles não vendem fertilizante[n]ou outra coisa que[n]recupere sua cor?[n][w][e]
 
 [msg MND_FloorObj_Plant_NoIte]
 [s]Talvez, com um pouco de estrume[n]esta planta se recuperasse.[n][w][e]
@@ -878,7 +878,7 @@
 
 [sel BED_CHECK_0409_EV_SEL top]
 [s]Se troque e vá para a cama[e]
-[s]não durma ainda[e]
+[s]Não dormir ainda[e]
 
 [msg fev0410_04_mes01]
 [s][vp 1 0 0 0 0 0]Não é o toque do meu celular...[n][w][e]

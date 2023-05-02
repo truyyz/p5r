@@ -401,7 +401,7 @@
 [s]Um manto especial[n]que clareia a visão.[n][e]
 
 [msg Item_086]
-[s]Uma camisa extravagante que[n]protege da Subjugação.[n][e]
+[s]Uma camisa extravagante que[n]protege da Lavagem Cerebral.[n][e]
 
 [msg Item_087]
 [s]Ele gostaria de se lembrar do respingo[n] de uma gota d'água.[n][e]

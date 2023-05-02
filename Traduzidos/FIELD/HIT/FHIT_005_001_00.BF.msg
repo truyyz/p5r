@@ -517,8 +517,9 @@
 [s]Yusuke[e]
 [s]Makoto[e]
 [s]Haru[e]
-[s]futaba[e]
+[s]Futaba[e]
 [s]Akechi[e]
+[s][f 4 31 10 1][e]
 
 [msg MSG_Jazz_FRIEND [Morgana]]
 [s][bup 0 3 1 0 0][vp 8 2 1 1167 65535 0][f 4 10 65535 0 0]Ah, [var 3], hein?[n][w][e]

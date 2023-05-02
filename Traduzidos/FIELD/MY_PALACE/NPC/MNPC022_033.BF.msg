@@ -71,7 +71,7 @@
 
 [msg MES_GROUP6_01 [Lavenza]]
 [s][bup 0 100 0 0 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 55420 65535 0]Apesar da partida invencível, você desempenhou[n]seu papel perfeitamente, Morgana.[n][w][e]
-[s][bup 0 100 1 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Você fez um ótimo trabalho[n]dirigindo o Trickster.[n]Tenho que agradecer.[n][w][e]
+[s][bup 0 100 1 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Você fez um ótimo trabalho[n]guiando o Trapaceiro.[n]Tenho que agradecer.[n][w][e]
 
 [msg MES_GROUP6_02 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 3 10 0 10][vp 8 2 1 1037 65535 0]Não pense nisso, Lady Lavenza.[n][w][e]
@@ -103,7 +103,7 @@
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 40 10 0 10][vp 8 2 1 9034 65535 0]Se não fosse por nosso líder, acho que não[n]teríamos conseguido voltar.[n][w][e]
 
 [msg MES_GROUP8_04 [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 42 10 0 10][vp 8 2 1 7080 65535 0]Seriamente. Felizmente, ele nos protege.[n][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 42 10 0 10][vp 8 2 1 7080 65535 0]Sério. Felizmente, ele nos protege.[n][w][e]
 
 [msg MES_GROUP9_01 [Makoto]]
 [s][bup 0 6 3 65535 0][f 4 10 65535 0 0][f 4 23 1 65535 42 10 0 10][vp 8 2 1 2128 65535 0]E então este era um deus nascido[n]do inconsciente coletivo…[n][w][e]

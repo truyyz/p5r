@@ -32,7 +32,7 @@
 [s][f 5 14]Dito isso, posso mudar de assunto por um[n]segundo?[n][w][e]
 
 [msg MSG_017_0_0 [Yusuke]]
-[s][f 5 14]O que acontece?[n][w][e]
+[s][f 5 14]O que aconteceu?[n][w][e]
 
 [msg MSG_018_0_0 [Makoto]]
 [s][f 5 14]Com licença.[n][w][e]

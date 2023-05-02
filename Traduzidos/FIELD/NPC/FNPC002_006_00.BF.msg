@@ -288,13 +288,13 @@
 
 [msg MSG_KATAOMOI_003_0_0 [Estudante animada]]
 [s][f 4 23 1 1 3 10 0 0][vp 8 2 1 0 1 0]Aparentemente, o Prof. Kamoshida está ausente. As[n]garotas do fã-clube dele estão de luto.[n][w][e]
-[s][vp 8 2 1 0 1 0]Eles estão quebrando por causa dessa[n]carta de aviso também. Não pensei que[n]eles dariam a ele todo esse peso.[n][w][e]
+[s][vp 8 2 1 0 1 0]Eles estão quebrando por causa dessa[n]Carta de Aviso também. Não pensei que[n]eles dariam a ele todo esse peso.[n][w][e]
 
 [msg MSG_KATAOMOI_003_1_0 [Estudante quieto]]
 [s][f 4 23 1 0 3 10 0 0][vp 8 2 1 0 0 0]Até o time de vôlei parece animado. Eles ainda os[n]mantêm trancados em suas salas de aula?[n][w][e]
 
 [msg MSG_KATAOMOI_003_2_0 [Estudante animada]]
-[s][f 4 23 1 1 3 10 0 0][vp 8 2 1 0 1 0]E se essa carta de aviso fosse[n]verdadeira? Você acha que Kamoshida[n]vai confessar algo terrível?[n][w][e]
+[s][f 4 23 1 1 3 10 0 0][vp 8 2 1 0 1 0]E se essa Carta de Aviso fosse[n]verdadeira? Você acha que Kamoshida[n]vai confessar algo terrível?[n][w][e]
 
 [msg MSG_KATAOMOI_004_0_0 [Estudante animada]]
 [s][f 4 23 1 1 3 10 0 0][vp 8 2 1 0 1 0]Ele é o pior professor. que existe.[n]Cometendo assédio sexual[n]impondo-se como um tipo nobre.[n][w][e]
@@ -349,7 +349,7 @@
 [s][vp 8 2 1 0 1 0]Principalmente os meninos![n][w][e]
 
 [msg MSG_KATAOMOI_007_0_0 [Estudante quieto]]
-[s][f 4 23 1 0 3 10 0 0][vp 8 2 1 0 0 0]Eles dizem que enviaram uma carta de aviso para[n]Madarame. Assim como com o Prof. Kamoshida.[n][w][e]
+[s][f 4 23 1 0 3 10 0 0][vp 8 2 1 0 0 0]Eles dizem que enviaram uma Carta de Aviso para[n]Madarame. Assim como com o Prof. Kamoshida.[n][w][e]
 [s][vp 8 2 1 0 0 0]Você acha que talvez os Phantom Thieves[n]frequentem nossa escola?[n]Isso não seria emocionante?[n][w][e]
 
 [msg MSG_KATAOMOI_007_1_0 [Estudante animada]]
@@ -436,7 +436,7 @@
 
 [msg MSG_KATAOMOI_014_2_0 [Estudante animada]]
 [s][f 4 23 1 1 3 10 0 0][vp 8 2 1 0 1 0]Estou chocado, no entanto.[n]Quero dizer, está tudo[n]conectado à nossa escola novamente.[n][w][e]
-[s][vp 8 2 1 0 1 0]Agora que o presidente Okumura[n]recebeu uma carta de aviso,[n]o que você acha que vai acontecer?[n][w][e]
+[s][vp 8 2 1 0 1 0]Agora que o presidente Okumura[n]recebeu uma Carta de Aviso,[n]o que você acha que vai acontecer?[n][w][e]
 
 [msg MSG_KATAOMOI_015_0_0 [Estudante animada]]
 [s][f 4 23 1 1 3 10 0 0][vp 8 2 1 0 1 0]Os Phantom Thieves são realmente[n]os criadores de tudo isso?[n]Quão cruéis eles são!?![n][w][e]
@@ -603,7 +603,7 @@
 [s][vp 9 2 65535 40355 0 0]Será a clássica piada[n]de quem assiste[n]muitos animes...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_004_06_ [Bom aluno]]
-[s][vp 9 2 65535 38905 0 0]Uma carta de aviso dos[n]Phantom Thieves? É só uma brincadeira, certo?[n][f 1 2 180][e]
+[s][vp 9 2 65535 38905 0 0]Uma Carta de Aviso dos[n]Phantom Thieves? É só uma brincadeira, certo?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_005_01_ [Bom aluno]]
 [s][vp 9 2 65535 38054 0 0]Por que Kamoshida de repente decidiu se desculpar[n]assim?[n][f 1 2 180][e]
@@ -696,7 +696,7 @@
 [s]0[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_01_ [Bom aluno]]
-[s][vp 9 2 65535 39954 0 0]A carta de aviso dos Ladrões[n]Fantasma era real?[n][f 1 2 180][e]
+[s][vp 9 2 65535 39954 0 0]A Carta de Aviso dos Ladrões[n]Fantasma era real?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_02_ [Bom aluno]]
 [s][vp 9 2 65535 39804 0 0]Ele mencionou os Phantom Thieves.[n]Kamoshida está realmente envolvido[n]de alguma forma?[n][f 1 2 180][e]
@@ -708,10 +708,10 @@
 [s][vp 9 2 65535 38254 0 0]Tanto Kamoshida quanto Madarame...[n]Talvez os Phantom Thieves[n]existam mesmo...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_05_ [Bom aluno]]
-[s][vp 9 2 65535 39103 0 0]É verdade que Madarame também[n]recebeu uma carta de aviso?[n][f 1 2 180][e]
+[s][vp 9 2 65535 39103 0 0]É verdade que Madarame também[n]recebeu uma Carta de Aviso?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_06_ [Bom aluno]]
-[s][vp 9 2 65535 42354 0 0]Parece que os Phantom Thieves[n]também enviaram uma carta[n]de desafio para Madarame...[n][f 1 2 180][e]
+[s][vp 9 2 65535 42354 0 0]Parece que os Phantom Thieves[n]também enviaram uma Carta[n]de Aviso para Madarame...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_009_01_ [Bom aluno]]
 [s][vp 9 2 65535 40602 0 0]Parece que Shibuya[n]tornou-se perigoso...[n][f 1 2 180][e]
@@ -735,7 +735,7 @@
 [s][vp 9 2 65535 39654 0 0]Aparentemente, existem[n]cartas de desafio dos Phantom Thieves[n]espalhadas por toda Shibuya![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_02_ [Bom aluno]]
-[s][vp 9 2 65535 42204 0 0]Cartas de desafio de[n]Phantom Thieves foram[n]vistas em Shibuya![n][f 1 2 180][e]
+[s][vp 9 2 65535 42204 0 0]Cartas de Aviso de[n]Phantom Thieves foram[n]vistas em Shibuya![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_03_ [Bom aluno]]
 [s]0[n][f 1 2 180][e]
@@ -747,7 +747,7 @@
 [s][vp 9 2 65535 40505 0 0]Quem é esse Kaneshiro que eles[n]alvo agora?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_06_ [Bom aluno]]
-[s][vp 9 2 65535 39255 0 0]É verdade que eles encontraram[n]outra carta de aviso[n]dos Phantom Thieves?[n][f 1 2 180][e]
+[s][vp 9 2 65535 39255 0 0]É verdade que eles encontraram[n]outra Carta de Aviso[n]dos Phantom Thieves?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_011_01_ [Bom aluno]]
 [s][vp 9 2 65535 38906 0 0]Phantom Thieves são[n]muito mais confiáveis[n]que a polícia![n][f 1 2 180][e]
@@ -945,7 +945,7 @@
 [s][vp 9 2 65535 42650 0 0]Faça-o se ajoelhar[n]e implorar![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_021_06_ [Bom aluno]]
-[s][vp 9 2 65535 42403 0 0]Eu esperava que eles enviassem uma carta de[n]desafio! Mal posso esperar para ver o que[n]acontece a seguir![n][f 1 2 180][e]
+[s][vp 9 2 65535 42403 0 0]Eu esperava que eles enviassem uma Carta de[n]Aviso! Mal posso esperar para ver o que[n]acontece a seguir![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_022_01_ [Bom aluno]]
 [s][vp 9 2 65535 44860 0 0]O que aconteceu com o presidente[n]Okumura não é normal...[n][f 1 2 180][e]

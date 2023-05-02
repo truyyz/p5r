@@ -5,7 +5,7 @@
 [s][bup 0 5 104 0 0][f 4 10 65535 0 0][vp 8 2 0 4040 65535 0]O-O quê...?!?[n][f 1 3 65535][w][e]
 
 [sel SEL_002_0_0 top]
-[s]O que acontece?[e]
+[s]O que aconteceu?[e]
 [s]Tudo ok?[e]
 
 [msg MSG_003_0_0 [Yusuke]]

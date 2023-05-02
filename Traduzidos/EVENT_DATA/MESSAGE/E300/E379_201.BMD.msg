@@ -67,7 +67,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Como sempre, precisaremos encontrar[n]uma rota de infiltração segura[n]antes de enviar a carta.[n][f 1 3 65535][w][e]
 
 [msg MSG_020_0_0 [Akechi]]
-[s][bup 0 9 101 65535 0][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Então a carta de aviso não é apenas para[n]mostrar? Este passo é necessário?[n][f 1 3 65535][w][e]
+[s][bup 0 9 101 65535 0][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Então a Carta de Aviso não é apenas para[n]mostrar? Este passo é necessário?[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Makoto]]
 [s][bup 0 6 102 65535 0][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]Você pode parar de interromper,[n]por favor?[n][f 1 3 65535][w][e]

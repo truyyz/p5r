@@ -1810,7 +1810,7 @@
 [s]...O que você quer fazer comigo?[n]Eu perdi porque... eu sou fraco...[n][w][e]
 
 [msg TalkMsg_CONTACT_11_2]
-[s]...Ajude-me. Io não diz nada ao[n]King Kamoshida. Juro.[n][w][e]
+[s]...Ajude-me. Io não diz nada ao[n]Rei Kamoshida. Juro.[n][w][e]
 
 [msg TalkMsg_CONTACT_11_3]
 [s]...Espere! Não atire![n]Vamos trocar?!? Vamos negociar?[n][w][e]

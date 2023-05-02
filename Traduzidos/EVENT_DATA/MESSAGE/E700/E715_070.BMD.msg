@@ -42,7 +42,7 @@
 [msg MSG_010_0_0 [Ohya]]
 [s][bup 0 107 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Onde está...?[n][f 1 3 65535][w][e]
 [s][f 4 24 0 4 0 37 4 100][bup 0 107 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O que quer dizer com não pode[n]me dizer?!? Por quê?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ei! O que acontece? Espere![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ei! O que aconteceu? Espere![n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Ohya]]
 [s][bup 0 107 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Kayo...[n][f 1 3 65535][w][e]

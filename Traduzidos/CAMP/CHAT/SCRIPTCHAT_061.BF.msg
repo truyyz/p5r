@@ -5,7 +5,7 @@
 [s][f 5 14]Eu não posso esperar![n][w][e]
 
 [sel SEL_002_0_0 top]
-[s][f 5 14]Vai ser engraçado.[e]
+[s][f 5 14]Vai ser divertido.[e]
 [s]Seu relógio está quebrado.[e]
 [s]Vou morrer de tédio.[e]
 

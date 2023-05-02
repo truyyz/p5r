@@ -475,7 +475,7 @@
 [s][bup 0 111 1 65535 0][f 4 23 1 218 3 10 0 10][f 4 10 65535 0 0][vp 8 0 1 27 65535 0]Quem sabe quantas pessoas vão[n]entrar em contato com o meu trabalho...[n]Isso me emociona, mas também me assusta.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 28 65535 0]Pode se tornar um best-seller[n]ou cair no esquecimento.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 29 65535 0]Mas eu quero manter minhas esperanças altas.[n]É uma mensagem para o mundo inteiro[n]do meu antigo eu.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 1 30 65535 0]Mesmo que eu tenha medo de não conseguir,[n]darei tudo de mim! Assim como você[n]com a primeira carta de aviso.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 1 30 65535 0]Mesmo que eu tenha medo de não conseguir,[n]darei tudo de mim! Assim como você[n]com a primeira Carta de Aviso.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 1 31 65535 0]Oh, sim...[n]Ainda é um rascunho, mas...[n][w][e]
 
 [msg MSG_C18_BYEGREET_00_06_5 [Mishima]]

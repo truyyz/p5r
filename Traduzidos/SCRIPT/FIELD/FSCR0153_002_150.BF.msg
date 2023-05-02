@@ -1,5 +1,5 @@
 [msg e195_112_LOOK_mes01]
-[s]Isso pareceria um panfleto...[n][w][e]
+[s]Isso parece um panfleto...[n][w][e]
 
 [msg e195_112_LOOK_mes02 [Ryuji]]
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7183 65535 0]O que é, você encontrou alguma coisa?[n][w][e]
@@ -11,16 +11,16 @@
 [s][bup 0 3 4 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1111 65535 0]Um momento. Antes de irmos,[n]vamos dar uma olhada nesse folheto.[n][w][e]
 
 [msg e195_112_mes01 [Ann]]
-[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6021 65535 0]O que é... uma brochura?[n][w][e]
+[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6021 65535 0]Isso é... um panfleto?[n][w][e]
 
 [msg e195_112_mes02 [Ryuji]]
 [s][bup 0 2 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Muitos detalhes para um palácio infernal... Por[n]que ele se incomodaria em fazer certas coisas?[n][w][e]
 
 [msg e195_112_mes03 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Oh, aqui está um guia do museu.[n]Vamos lá![n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Oh, um guia do museu.[n]Vamos lá![n][w][e]
 
 [msg e195_112_mes04 [Ann]]
-[s][bup 0 4 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6157 65535 0]Sim! Talvez a localização do Tesouro também[n]esteja indicada lá![n][w][e]
+[s][bup 0 4 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6157 65535 0]Sim! Talvez a localização do Tesouro também[n]esteja indicada nele![n][w][e]
 
 [msg e195_112_mes05 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1166 65535 0]É possível. No mínimo,[n]ele deve nos ajudar a entender as[n]dimensões deste lugar.[n][w][e]

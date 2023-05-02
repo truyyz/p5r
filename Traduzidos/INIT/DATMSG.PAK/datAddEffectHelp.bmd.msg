@@ -1,5 +1,5 @@
 [msg addeffect_000]
-[s]Ninguém[n][e]
+[s]Nada[n][e]
 
 [msg addeffect_001]
 [s]+10 HP[n][e]
@@ -38,112 +38,112 @@
 [s]+100SP[n][e]
 
 [msg addeffect_013]
-[s]Chamas fracas[n][e]
+[s]Queimadura Baixa[n][e]
 
 [msg addeffect_014]
-[s]Em fogo médio[n][e]
+[s]Queimadura Média[n][e]
 
 [msg addeffect_015]
-[s]Em chamas poderoso[n][e]
+[s]Queimadura Alta[n][e]
 
 [msg addeffect_016]
-[s]Congelamento fraco[n][e]
+[s]Congelamento Baixo[n][e]
 
 [msg addeffect_017]
-[s]Congelamento médio[n][e]
+[s]Congelamento Médio[n][e]
 
 [msg addeffect_018]
-[s]Congelamento poderoso[n][e]
+[s]Congelamento Alto[n][e]
 
 [msg addeffect_019]
-[s]Choque fraco[n][e]
+[s]Choque Baixo[n][e]
 
 [msg addeffect_020]
-[s]Choque médio[n][e]
+[s]Choque Médio[n][e]
 
 [msg addeffect_021]
-[s]Choque poderoso[n][e]
+[s]Choque Alto[n][e]
 
 [msg addeffect_022]
-[s]Tontura fraca[n][e]
+[s]Tontura Baixa[n][e]
 
 [msg addeffect_023]
-[s]Tontura média[n][e]
+[s]Tontura Média[n][e]
 
 [msg addeffect_024]
-[s]Vertigem poderosa[n][e]
+[s]Vertigem Alta[n][e]
 
 [msg addeffect_025]
-[s]Confusão fraca[n][e]
+[s]Confusão Baixa[n][e]
 
 [msg addeffect_026]
-[s]Confusão média[n][e]
+[s]Confusão Média[n][e]
 
 [msg addeffect_027]
-[s]Poderosa confusão[n][e]
+[s]Confusão Alta[n][e]
 
 [msg addeffect_028]
-[s]médioo fraco[n][e]
+[s]Medo Baixo[n][e]
 
 [msg addeffect_029]
-[s]médioo médio[n][e]
+[s]Medo Médio[n][e]
 
 [msg addeffect_030]
-[s]médioo poderoso[n][e]
+[s]Medo Alto[n][e]
 
 [msg addeffect_031]
-[s]Amnésia fraca[n][e]
+[s]Amnésia Baixa[n][e]
 
 [msg addeffect_032]
-[s]Amnésia média[n][e]
+[s]Amnésia Média[n][e]
 
 [msg addeffect_033]
-[s]Amnésia poderosa[n][e]
+[s]Amnésia Alta[n][e]
 
 [msg addeffect_034]
-[s]Subjugação fraca[n][e]
+[s]Lavagem Cerebral Baixa[n][e]
 
 [msg addeffect_035]
-[s]Subjugação média[n][e]
+[s]Lavagem Cerebral Média[n][e]
 
 [msg addeffect_036]
-[s]Subjugação poderosa[n][e]
+[s]Lavagem Cerebral Alta[n][e]
 
 [msg addeffect_037]
-[s]Sono fraco[n][e]
+[s]Sono Baixo[n][e]
 
 [msg addeffect_038]
-[s]Sono médio[n][e]
+[s]Sono Médio[n][e]
 
 [msg addeffect_039]
-[s]sono poderoso[n][e]
+[s]Sono Alto[n][e]
 
 [msg addeffect_040]
-[s]Fúria fraca[n][e]
+[s]Fúria Baixa[n][e]
 
 [msg addeffect_041]
-[s]Fúria média[n][e]
+[s]Fúria Média[n][e]
 
 [msg addeffect_042]
-[s]Fúria poderosa[n][e]
+[s]Fúria Alta[n][e]
 
 [msg addeffect_043]
-[s]Desespero fraco[n][e]
+[s]Desespero Baixo[n][e]
 
 [msg addeffect_044]
-[s]Desespero médio[n][e]
+[s]Desespero Médio[n][e]
 
 [msg addeffect_045]
-[s]Desespero poderoso[n][e]
+[s]Desespero Alto[n][e]
 
 [msg addeffect_046]
-[s]+Doença Aleatória (Baixa)[n][e]
+[s]+Efeito Negativo Aleatório (Baixa)[n][e]
 
 [msg addeffect_047]
-[s]+Doença Aleatória (Média)[n][e]
+[s]+Efeito Negativo Aleatório (Média)[n][e]
 
 [msg addeffect_048]
-[s]+Doença Aleatória (Alta)[n][e]
+[s]+Efeito Negativo Aleatório (Alta)[n][e]
 
 [msg addeffect_049]
 [s]+Chance de Crítico (Baixa)[n][e]
@@ -602,5 +602,5 @@
 [s]Reduz o custo de habilidade em 25%[n][e]
 
 [msg addeffect_201]
-[s]+Reduz Doenças em 50%[n][e]
+[s]+Reduz Efeitos Negativos em 50%[n][e]
 

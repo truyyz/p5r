@@ -16,10 +16,10 @@
 
 [sel SEL_003_4_0 top]
 [s]De jeito nenhum.[e]
-[s]sou uma delicia.[e]
+[s]São uma delicia.[e]
 
 [msg MSG_003_6_0 [Caroline]]
-[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 102 15 300 1][vp 8 0 0 7 65535 0]E-ei, isso é verdade ou não? Os meus[n]comi todos...[n][f 1 3 65535][w][e]
+[s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 102 15 300 1][vp 8 0 0 7 65535 0]E-ei, isso é verdade ou não? Os meus[n]eu comi todos...[n][f 1 3 65535][w][e]
 
 [msg MSG_003_7_0 [Caroline]]
 [s][bup 0 102 3 0 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0][f 4 24 0 5 0 38 5 100]...E eles não tinham um gosto ruim.[n][f 1 3 65535][w][e]

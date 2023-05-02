@@ -142,7 +142,7 @@
 [s][f 4 23 1 223 0 10 0 10][bup 0 216 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Algo errado?[n][w][e]
 
 [msg MND_COOP_DOUZOKUSEI]
-[s]Sinto que posso ser mais próximo de[n]Maruki grazie alla Persona[n][clr 1][var 5][clr 27] ([var 2])...[n][w][e]
+[s]Sinto que posso ser mais próximo de[n]Maruki graças a Persona[n][clr 1][var 5][clr 27] ([var 2])...[n][w][e]
 
 [msg MND_COOP_RANKUP_OK_FIRST]
 [s]Pode ser uma boa[n]oportunidade para fortalecer[n]minha ligação com Maruki...[n][w][e]

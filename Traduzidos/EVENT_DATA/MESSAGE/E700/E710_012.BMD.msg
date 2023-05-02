@@ -49,7 +49,7 @@
 [sel SEL_012_0_0 top]
 [s]Eu não acho.[e]
 [s]Isso não faz sentido.[e]
-[s]O vidente nos enganou.[e]
+[s]A vidente nos enganou.[e]
 
 [msg MSG_013_0_0 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]M-Mas se não,[n]então de que adianta...?[n][f 1 3 65535][w][e]
@@ -66,7 +66,7 @@
 
 [msg MSG_016_0_0 [Morgana]]
 [s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 0 1047 65535 0]Então, no final, a Pedra Sagrada[n]era falsa![n][f 1 3 65535][w][e]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O nome do vidente é[n]Chihaya, certo?[n][f 1 3 65535][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O nome da vidente é[n]Chihaya, certo?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ele tem poderes místicos,[n]é evidente... mas essa[n]coisa é inaceitável.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 1192 65535 0]...Temos que protestar![n][f 1 3 65535][w][e]
 

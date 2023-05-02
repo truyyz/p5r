@@ -14,7 +14,7 @@
 [s][f 5 14]Obrigado![n][w][e]
 
 [msg CHAT_REACTION_02 [Kasumi]]
-[s][f 5 14]Iremos para as gaiolas de rebatidas.[n][w][e]
+[s][f 5 14]Iremos para as Gaiolas de Tênis.[n][w][e]
 
 [msg CHAT_REACTION_03 [Kasumi]]
 [s][f 5 14]Vou enviar-lhe instruções.[n][w][e]

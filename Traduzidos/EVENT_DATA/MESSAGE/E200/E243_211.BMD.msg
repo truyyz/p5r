@@ -3,10 +3,10 @@
 
 [msg MSG_001_0_0 [Iida]]
 [s][vp 8 0 0 2 4 0]Sim, eu encontrei um emprego! E daí?[n]O que há de estranho?[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 3 4 0]...Onde você quer ir?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 3 4 0]...Onde você quer chegar?[n][f 1 3 65535][w][e]
 
 [msg MSG_001_5_0 [Iida]]
-[s][vp 8 0 0 3 4 0]...Onde você quer ir?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 3 4 0]...Onde você quer chegar?[n][f 1 3 65535][w][e]
 
 [sel SEL_002_0_0 top]
 [s]Você é um tutor.[e]

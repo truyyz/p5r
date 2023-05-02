@@ -10,7 +10,7 @@
 [s]Decidir depois[e]
 
 [sel SEL_102_0_0 top]
-[s][f 5 14]Nós estamos lá.[e]
+[s][f 5 14]Estou indo pra aí.[e]
 
 [msg MSG_200_0_0 [Haru]]
 [s][f 5 14]Oh, Ok. Eu vou esperar.[n][w][e]

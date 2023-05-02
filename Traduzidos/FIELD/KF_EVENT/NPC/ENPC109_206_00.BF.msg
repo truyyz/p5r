@@ -25,16 +25,16 @@
 [s][vp 8 2 1 0 853 0]Para as linhas Ginza e JL, [clr 2]saída 8[n][clr 27]. Próximo...[n][w][e]
 [s][vp 8 2 1 0 853 0]Próximo...[n][w][e]
 
-[msg MSG_EKIIN_855_000_00 [Mulher com um quarto]]
+[msg MSG_EKIIN_855_000_00 [Mulher com uma Câmera]]
 [s][bup 0 107 1 65535 0][f 4 10 65535 0 0][f 4 23 1 855 3 10 0 0][vp 8 2 1 16019 855 0]Vários ataques aterrorizam a cidade! O que você[n]acha, senhor?[n][w][e]
 
-[msg MSG_EKIIN_855_001_00 [Mulher com um quarto]]
+[msg MSG_EKIIN_855_001_00 [Mulher com uma Câmera]]
 [s][bup 0 107 0 65535 0][f 4 10 65535 0 0][f 4 23 1 855 3 10 0 0]Alguns acham que é o resultado[n]de um ambiente de trabalho opressivo.[n]Você tem algum comentário sobre isso?[n][w][e]
 
 [msg MSG_EKIIN_855_002_00 [Funcionário da estação desconectado]]
 [s][f 4 23 1 856 3 10 0 0][vp 8 2 1 0 856 0]Hum, s-sinto muito, mas não sei de nada! Iremos emitir[n]uma declaração oficial mais tarde…[n][w][e]
 
-[msg MSG_EKIIN_855_100_00 [Mulher com um quarto]]
+[msg MSG_EKIIN_855_100_00 [Mulher com uma Câmera]]
 [s][bup 0 107 1 65535 0][f 4 10 65535 0 0][f 4 23 1 855 3 10 0 0][vp 8 2 1 16045 855 0]Eu só quero ouvir sua opinião,[n]senhor. Diga-me o que você pensa[n]da história.[n][w][e]
 
 [msg MSG_EKIIN_855_101_00 [Funcionário da estação desconectado]]

@@ -9,7 +9,7 @@
 
 [sel SEL_002_0_0 top]
 [s]Eles intimidam você?[e]
-[s]Parece engraçado.[e]
+[s]Parece divertido.[e]
 [s]A comida não vai para o lixo.[e]
 
 [msg MSG_003_0_0 [Shinya]]

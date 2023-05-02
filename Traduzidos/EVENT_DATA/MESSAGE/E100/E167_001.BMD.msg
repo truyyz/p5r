@@ -2,7 +2,7 @@
 [s][bup 0 2 11 65535 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]Amanhã é o grande dia.[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Então vamos enviar a carta de aviso[n]pela manhã... e terminar[n]o plano à noite, certo?[n][f 1 3 65535][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Então vamos enviar a Carta de Aviso[n]pela manhã... e terminar[n]o plano à noite, certo?[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Exatamente. O efeito não dura[n]muito.[n][f 1 3 65535][w][e]

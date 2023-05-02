@@ -38,7 +38,7 @@
 [s]Eu ainda não decidi.[e]
 
 [msg MSG_C22_ACTION_D09_31_10 [Sumire]]
-[s][bup 0 10 4 65535 0][f 4 10 65535 0 0][f 4 23 1 222 3 10 0 10][vp 8 2 1 57065 65535 0]vc-sair? Mas temos que fazer algo[n]antes que seja tarde demais![n][w][e]
+[s][bup 0 10 4 65535 0][f 4 10 65535 0 0][f 4 23 1 222 3 10 0 10][vp 8 2 1 57065 65535 0]Sa-sair!? Mas temos que fazer algo[n]antes que seja tarde demais![n][w][e]
 
 [sel SEL_C22_ACTION_D09_31_10 top]
 [s]Não pense muito sobre isso.[e]
@@ -79,7 +79,7 @@
 [s][bup 0 10 2 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu sei que você provavelmente fez[n]agendamento, mas pelo menos pense nisso.[n][w][e]
 
 [msg MSG_C02_BEGIN_D09_50_00 [Sumire]]
-[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][f 4 23 1 222 3 10 0 10][vp 8 2 1 0 65535 0]Agora que encontramos nosso caminho[n]para o Tesouro, precisamos enviar[n]carta de aviso, certo?[n][w][e]
+[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][f 4 23 1 222 3 10 0 10][vp 8 2 1 0 65535 0]Agora que encontramos nosso caminho[n]para o Tesouro, precisamos enviar[n]Carta de Aviso, certo?[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Não tenho certeza de como funciona.[n]Vejo você no Leblanc primeiro?[n][w][e]
 
 [sel SEL_C02_ACTION_D09_50_00 top]
@@ -371,7 +371,7 @@
 
 [msg MSG_C22_YES_04_00 [Kasumi]]
 [s][bup 0 10 1 65535 0][f 4 10 65535 0 0][f 4 23 1 222 3 10 0 10][vp 8 2 1 0 65535 0]Oh sempai! Você está REALMENTE pronto![n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 57058 65535 0]Iremos para as gaiolas de rebatidas.[n]Espero que gostem![n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 57058 65535 0]Iremos para as Gaiolas de Tênis.[n]Espero que gostem![n][w][e]
 
 [msg MSG_C22_YES_05_00 [Sumire]]
 [s][bup 0 10 0 65535 0][f 4 10 65535 0 0][f 4 23 1 222 3 10 0 10][vp 8 2 1 0 65535 0]G-obrigado![n][w][e]
@@ -379,11 +379,11 @@
 
 [msg MSG_C22_YES_06_00 [Sumire]]
 [s][bup 0 10 1 65535 0][f 4 10 65535 0 0][f 4 23 1 222 3 10 0 10][vp 8 2 1 57077 65535 0]Sério? Mil obrigados.[n][w][e]
-[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]No final da lição[n]apresentarei a você o treinador Higurachi.[n][w][e]
+[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]No final da lição[n]apresentarei a você a treinadora Higurachi.[n][w][e]
 [s][bup 0 10 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ela é uma pessoa incrível.[n]Ela tem nos seguido desde que[n]Kasumi e eu éramos pequenos.[n][w][e]
 
 [msg MSG_C22_YES_06_chat [Sumire]]
-[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][f 4 23 1 222 3 10 0 10][vp 8 2 1 0 65535 0]No final da lição[n]apresentarei a você o treinador Higurachi.[n][w][e]
+[s][bup 0 10 0 65535 0][f 4 10 65535 0 0][f 4 23 1 222 3 10 0 10][vp 8 2 1 0 65535 0]No final da lição[n]apresentarei a você a treinadora Higurachi.[n][w][e]
 [s][bup 0 10 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ela é uma pessoa incrível.[n]Ela tem nos seguido desde que[n]Kasumi e eu éramos pequenos.[n][w][e]
 
 [msg MSG_C22_YES_06_01 [Sumire]]

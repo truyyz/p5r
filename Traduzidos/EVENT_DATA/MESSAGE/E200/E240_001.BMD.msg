@@ -55,7 +55,7 @@
 [s][bup 0 2 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 22 65535 0]O quê?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Eu sou o único que sabe sobre você. Se você[n]provar para mim que está certo,[n]cancelarei a assinatura.[n][f 1 3 65535][w][e]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 23 65535 0]Eu sou a única que sabe sobre vocês. Se vocês[n]provarem para mim que estão certos,[n]apagarei isso.[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Morgana]]
 [s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Quer fechar negócio...[n][f 1 3 65535][w][e]

@@ -62,7 +62,7 @@
 [s][bup 0 8 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 9086 65535 0]É ultrassecreto![n][w][e]
 
 [msg GOTO_MEME_NG_1118_01 [Akechi]]
-[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 8112 65535 0]Agora não há tempo para essas[n]coisas. Vamos enviar a carta de aviso[n]para Sae-san.[n][w][e]
+[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 8112 65535 0]Agora não há tempo para essas[n]coisas. Vamos enviar a Carta de Aviso[n]para Sae-san.[n][w][e]
 
 [msg GOTO_MEME_NO_TARGET_mes0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0]O alvo não está aqui.[n]Vamos continuar explorando.[n][w][e]
@@ -95,7 +95,7 @@
 [s][bup 0 9 10 65535 0][f 4 10 65535 0 0]Aparentemente, o alvo não está lá.[n]Devemos explorar um pouco?[n][w][e]
 
 [msg GOTO_MEME_EXIST_TARGET_m [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0]Ei, quantos alvos temos?[n][var 0], certo? Vamos fazê-lo.[n][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0]Ei, quantos alvos temos?[n][var 0], certo? Vamos fazer isso.[n][w][e]
 
 [msg GOTO_MEME_EXIST_TARGET_m_2 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0]Atualmente, temos [var 0] alvos[n]nos Mementos. Bem, vamos lá.[n][w][e]

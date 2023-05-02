@@ -56,7 +56,7 @@
 [s][vp 8 0 0 29 65535 0]Espere o que? Eles roubam[n]corações? Mas isso é impossível.[n][f 1 3 65535][w][e]
 
 [msg MSG_015_0_0 [Pedestre]]
-[s][vp 8 0 0 30 65535 0]Acho que li sobre isso também[n]online. Eles realmente enviaram[n]uma carta de aviso.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 30 65535 0]Acho que li sobre isso também[n]online. Eles realmente enviaram[n]uma Carta de Aviso.[n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Pedestre]]
 [s][vp 8 0 0 31 65535 0]Então eles escreveram, tipo, "nós vamos roubar[n]seu coração"? Seria absurdo se eles realmente[n]fizessem isso.[n][f 1 3 65535][w][e]

@@ -237,12 +237,12 @@
 [s]Passar um tempo com seus amigos[n]fortalecerá o vínculo com eles, mas[n]tomará toda a noite.[n][w][e]
 
 [sel SEL_HUNGOUT_CURRY top]
-[s]Vamos fazê-lo.[e]
+[s]Vamos fazer isso.[e]
 [s]Eu quero ir ao banheiro público.[e]
 [s]Não essa noite.[e]
 
 [sel SEL_HUNGOUT_COFFEE top]
-[s]Vamos fazê-lo.[e]
+[s]Vamos fazer isso.[e]
 [s]Eu quero ir ao banheiro público.[e]
 [s]Não essa noite.[e]
 

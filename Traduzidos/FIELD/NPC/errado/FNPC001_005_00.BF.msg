@@ -210,7 +210,7 @@
 [s][f 4 23 1 2 3 10 0 10][vp 8 2 1 0 2 0]Para alguns é mais fácil fugir dos problemas.[n]Talvez tenha acontecido com os Phantom Thieves[n]também.[n][w][e]
 
 [msg MSG_EKIINSET_019_0_0 [Atendente de posto iniciante]]
-[s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Inacreditável,[n]outra carta de aviso apareceu![n][w][e]
+[s][f 4 23 1 1 3 10 0 10][vp 8 2 1 0 1 0]Inacreditável,[n]outra Carta de Aviso apareceu![n][w][e]
 [s][vp 8 2 1 0 1 0]Oh! Desculpe, chefe.[n]Eu sei que estamos de plantão.[n][w][e]
 
 [msg MSG_EKIINSET_019_1_0 [Atendente veterano da estação]]
@@ -323,7 +323,7 @@
 [s][vp 8 2 1 0 18 0]Mas cresceu, novas linhas foram[n]adicionadas e hoje[n]é uma das mais movimentadas...[n][w][e]
 
 [msg MSG_AYASIOTOKO_002_3_0 [Homem suspeito]]
-[s][f 4 23 1 18 3 10 0 10][vp 8 2 1 0 18 0]Aquele?!? Claro que não![n]Não faço nada[n]estranho, juro...[n][w][e]
+[s][f 4 23 1 18 3 10 0 10][vp 8 2 1 0 18 0]Quê?!? Claro que não![n]Não faço nada[n]estranho, juro...[n][w][e]
 
 [msg MSG_AYASIOTOKO_002_4_0 [Homem suspeito]]
 [s][f 4 23 1 18 3 10 0 10][vp 8 2 1 0 18 0]Ela chegará em breve...[n]Sinto muito, mas por enquanto não posso[n]conversar mais.[n][w][e]
@@ -641,7 +641,7 @@
 [s]Vamos nos encontrar[n]no ponto de encontro![n][w][e]
 
 [msg Quest13_target_01_00 [Keiko Shiratori]]
-[s]O que é isso, uma carta de aviso?[n]É uma das suas piadas?[n]Você não se acha infantil?[n][w][e]
+[s]O que é isso, uma Carta de Aviso?[n]É uma das suas piadas?[n]Você não se acha infantil?[n][w][e]
 [s]Você não se acha infantil?[n][w][e]
 
 [msg Quest13_target_01_01 [Marido reservado]]
@@ -652,7 +652,7 @@
 [s]Estou de mau humor. E[n]eu estava ansioso para[n]minha sessão na esteticista...[n][w][e]
 
 [msg Quest13_target_sinjyo_01]
-[s]A carta de aviso[n]foi entregue.[n][w][e]
+[s]A Carta de Aviso[n]foi entregue.[n][w][e]
 
 [msg Quest13_target_02_00 [Homem pálido]]
 [s]Estou bem. Não é nada...[n][w][e]
@@ -1266,7 +1266,7 @@
 
 [msg MSG_AKECHI_007_00 [Akechi]]
 [s][bup 0 9 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 8002 65535 0]Olá. Você está indo para casa?[n][w][e]
-[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Fala-se de uma carta de aviso,[n]então eu queria fazer uma turnê[n]Shibuya eu mesmo.[n][w][e]
+[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Fala-se de uma Carta de Aviso,[n]então eu queria fazer uma turnê[n]Shibuya eu mesmo.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Se for como ele diz,[n]os Phantom Thieves[n]certamente se tornarão muito populares.[n][w][e]
 [s][bup 0 9 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 8038 65535 0]A ineficácia da polícia[n]só vai arrastar[n]mais apoiadores para o seu lado.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Não é um bom sinal. Terei que[n]analisar ainda mais a[n]periculosidade de suas ações.[n][w][e]
@@ -1295,7 +1295,7 @@
 [s][f 4 23 1 65535 3 10 0 0][bup 0 9 4 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ah, minhas desculpas. Vou me atrasar[n]para filmar se ficar aqui[n]falando.[n][w][e]
 [s][bup 0 9 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 8053 65535 0]Até nos encontrarmos novamente. Espero ver você[n]por aí.[n][w][e]
 
-[msg MSG_OOYA_001_0_0 [Mulher com um quarto]]
+[msg MSG_OOYA_001_0_0 [Mulher com uma Câmera]]
 [s][f 4 23 1 65535 3 10 0 10][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 16001 65535 0]Ei, já nos conhecemos.[n][w][e]
 [s][bup 0 107 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 16057 65535 0]Ohhh, você é aquele cara que estava[n]na frente da casa do Madarame.[n]Descobriu algo interessante?[n][w][e]
 
@@ -1303,13 +1303,13 @@
 [s]Eu diria que não.[e]
 [s]Eu não quero dizer a você.[e]
 
-[msg MSG_OOYA_003_0_0 [Mulher com um quarto]]
+[msg MSG_OOYA_003_0_0 [Mulher com uma Câmera]]
 [s][f 4 23 1 65535 3 10 0 10][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Entendi. Bem, se você descobrir[n]alguma coisa interessante,[n]é só me dar um alô.[n][w][e]
 
-[msg MSG_OOYA_004_0_0 [Mulher com um quarto]]
+[msg MSG_OOYA_004_0_0 [Mulher com uma Câmera]]
 [s][f 4 23 1 65535 3 10 0 10][bup 0 107 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Vamos, garoto, não tente blefar. Pelo que posso[n]dizer, você não tem absolutamente nada.[n][w][e]
 
-[msg MSG_OOYA_005_0_0 [Mulher com um quarto]]
+[msg MSG_OOYA_005_0_0 [Mulher com uma Câmera]]
 [s][f 4 23 1 65535 3 10 0 10][bup 0 107 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu sigo o programa. Não que[n]me interesse, mas trabalhar para[n]outra pessoa funciona assim.[n][w][e]
 [s][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eh, mas por que estou dizendo a você,[n]então. Melhor voltar ao trabalho.[n][w][e]
 
@@ -1317,7 +1317,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 65535 1038 0 0]Ela é a mulher que vimos[n]na casa de Madarame.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Ela disse que era jornalista.[n]Ela deve estar escrevendo um artigo[n]sobre ele.[n][w][e]
 
-[msg MSG_OOYA_007_0_0 [Mulher com um quarto]]
+[msg MSG_OOYA_007_0_0 [Mulher com uma Câmera]]
 [s][f 4 23 1 65535 3 10 0 10][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 16006 65535 0]Ah, vejo você de novo.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Tem tantos alunos aqui...[n]Me sinto um peixe fora d'água.[n][w][e]
 
@@ -1325,15 +1325,15 @@
 [s]Você está aqui a negócios?[e]
 [s]Você parece ocupado.[e]
 
-[msg MSG_OOYA_009_0_0 [Mulher com um quarto]]
+[msg MSG_OOYA_009_0_0 [Mulher com uma Câmera]]
 [s][f 4 23 1 65535 3 10 0 10][bup 0 107 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu sigo o programa. Não que[n]me interesse, mas trabalhar para[n]outra pessoa funciona assim.[n][w][e]
 [s][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eh, mas por que estou dizendo a você,[n]então. Melhor voltar ao trabalho.[n][w][e]
 
-[msg MSG_OOYA_010_0_0 [Mulher com um quarto]]
+[msg MSG_OOYA_010_0_0 [Mulher com uma Câmera]]
 [s][f 4 23 1 65535 8 10 0 10][bup 0 107 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 16108 65535 0]Todos aqueles casos de arrebatamento, depois os[n]hackers e agora os Phantom Thieves.[n]Eu nem tenho tempo para dormir.[n][w][e]
 [s][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Shibuya não é para mim.[n]Acho que vou levantar os calcanhares[n]e ir buscar uma bebida.[n][w][e]
 
-[msg MSG_OOYA_011_0_0 [Mulher com um quarto]]
+[msg MSG_OOYA_011_0_0 [Mulher com uma Câmera]]
 [s][f 4 23 1 65535 3 10 0 10][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 16001 65535 0]Ei, já nos conhecemos.[n][w][e]
 [s][bup 0 107 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 16057 65535 0]Ohhh, você é aquele cara que estava[n]na frente da casa do Madarame.[n]Descobriu algo interessante?[n][w][e]
 
@@ -1341,41 +1341,41 @@
 [s]Eu diria que não.[e]
 [s]Eu não quero dizer a você.[e]
 
-[msg MSG_OOYA_013_0_0 [Mulher com um quarto]]
+[msg MSG_OOYA_013_0_0 [Mulher com uma Câmera]]
 [s][f 4 23 1 65535 3 10 0 10][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Entendi. Bem, se você descobrir[n]alguma coisa interessante,[n]é só me dar um alô.[n][w][e]
 
-[msg MSG_OOYA_014_0_0 [Mulher com um quarto]]
+[msg MSG_OOYA_014_0_0 [Mulher com uma Câmera]]
 [s][f 4 23 1 65535 3 10 0 10][bup 0 107 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Vamos, garoto, não tente blefar. Pelo que posso[n]dizer, você não tem absolutamente nada.[n][w][e]
 
-[msg MSG_OOYA_015_0_0 [Mulher com um quarto]]
+[msg MSG_OOYA_015_0_0 [Mulher com uma Câmera]]
 [s][f 4 23 1 65535 3 10 0 10][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Estou aqui a trabalho.[n]Isto é, li algo[n]interessante na Internet.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Aparentemente, Madarame[n]recebeu uma "carta de aviso",[n]então vim ver.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Aparentemente, Madarame[n]recebeu uma "Carta de Aviso",[n]então vim ver.[n][w][e]
 [s][bup 0 107 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Tentei entrevistar alguém,[n]mas todos estão de boca fechada.[n]Talvez fosse uma pista falsa.[n][w][e]
 
 [msg MSG_MORGANA_015_5_0 [Morgana]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 65535 1038 0 0]Ela é a mulher que vimos[n]na casa de Madarame.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Ela disse que era jornalista.[n]Ela deve estar escrevendo um artigo[n]sobre ele.[n][w][e]
 
-[msg MSG_OOYA_016_0_0 [Mulher com um quarto]]
+[msg MSG_OOYA_016_0_0 [Mulher com uma Câmera]]
 [s][f 4 23 1 65535 3 10 0 10][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 16002 65535 0]Ei, é você. Enquanto estamos nisso,[n]envie-me uma declaração.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]O que você sabe sobre esta "carta[n]de desafio" enviada a Madarame?[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]O que você sabe sobre esta "Carta[n]de Aviso" enviada a Madarame?[n][w][e]
 
 [sel SEL_OOYA_017_0_0 top]
 [s]Possivelmente.[e]
 [s]Nada mesmo.[e]
 
-[msg MSG_OOYA_018_0_0 [Mulher com um quarto]]
+[msg MSG_OOYA_018_0_0 [Mulher com uma Câmera]]
 [s][f 4 23 1 65535 3 10 0 10][bup 0 107 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ah, então você sabe.[n][w][e]
 [s][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu li sobre isso[n]na internet, então corri aqui[n]para conferir.[n][w][e]
 
-[msg MSG_OOYA_019_0_0 [Mulher com um quarto]]
+[msg MSG_OOYA_019_0_0 [Mulher com uma Câmera]]
 [s][f 4 23 1 65535 8 10 0 10][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Oh. Bem, deve ter sido um comentário feito[n]aleatoriamente na Internet.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Era sobre uma "carta de aviso"[n]enviada para Madarame, então[n]eu corri para ver.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Era sobre uma "Carta de Aviso"[n]enviada para Madarame, então[n]eu corri para ver.[n][w][e]
 
-[msg MSG_OOYA_020_0_0 [Mulher com um quarto]]
+[msg MSG_OOYA_020_0_0 [Mulher com uma Câmera]]
 [s][bup 0 107 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu também perguntei aos expositores[n]na exposição, mas ninguém fala.[n]Foi uma piada?[n][w][e]
 
-[msg MSG_OOYA_022_0_0 [Mulher com um quarto]]
+[msg MSG_OOYA_022_0_0 [Mulher com uma Câmera]]
 [s][f 4 23 1 65535 8 10 0 10][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 16021 65535 0]Dado todo o caso "Sayuri",[n]não pode ser uma[n]simples coincidência.[n][w][e]
 
 [msg MSG_BIKOU01_001_0_0 [Makoto]]
@@ -1620,10 +1620,10 @@
 [s][vp 9 2 65535 40051 0 0]Ouvi dizer que eles escolhem[n]alunos. Estou preocupada[n]com meu filho...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_01_ [Makoto]]
-[s][vp 9 2 65535 41605 0 0]Uma carta de aviso[n]dos Phantom Thieves? É apenas[n]uma piada inofensiva.[n][f 1 2 180][e]
+[s][vp 9 2 65535 41605 0 0]Uma Carta de Aviso[n]dos Phantom Thieves? É apenas[n]uma piada inofensiva.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_508_04_ [Makoto]]
-[s][vp 9 2 65535 37705 0 0]Seria interessante se essa[n]carta de aviso fosse verdadeira...[n][f 1 2 180][e]
+[s][vp 9 2 65535 37705 0 0]Seria interessante se essa[n]Carta de Aviso fosse verdadeira...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_02_ [Makoto]]
 [s][vp 9 2 65535 38055 0 0]Phantom Thieves, hein...?[n]Você acredita que eles realmente existem?[n][f 1 2 180][e]
@@ -1632,7 +1632,7 @@
 [s][vp 9 2 65535 37905 0 0]É impossível que Phantom[n]Thievess realmente existam![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_03_ [Makoto]]
-[s][vp 9 2 65535 43755 0 0]Uma carta de aviso[n]dos Phantom Thieves? É apenas[n]uma piada inofensiva.[n][f 1 2 180][e]
+[s][vp 9 2 65535 43755 0 0]Uma Carta de Aviso[n]dos Phantom Thieves? É apenas[n]uma piada inofensiva.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_508_12_ [Makoto]]
 [s][vp 9 2 65535 38355 0 0]Espere, quem é Kaneshiro?[n][f 1 2 180][e]
@@ -1647,10 +1647,10 @@
 [s][vp 9 2 65535 40102 0 0]The Phantom Thieves?[n]Ooh, isso é legal.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_006 [Makoto]]
-[s][vp 9 2 65535 40450 0 0]Uma carta de aviso? Eles parecem saídos de um[n]mangá![n][f 1 2 180][e]
+[s][vp 9 2 65535 40450 0 0]Uma Carta de Aviso? Eles parecem saídos de um[n]mangá![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_007 [Makoto]]
-[s][vp 9 2 65535 40054 0 0]Sim, uma carta de aviso![n]Será interessante.[n][f 1 2 180][e]
+[s][vp 9 2 65535 40054 0 0]Sim, uma Carta de Aviso![n]Será interessante.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_008 [Makoto]]
 [s][vp 9 2 65535 38709 0 0]Oh, mas pare com isso.[n]É claramente uma piada.[n][f 1 2 180][e]
@@ -1698,7 +1698,7 @@
 [s][vp 9 2 65535 37756 0 0]Foram os[n]Phantom Thieves que resolveram[n]o caso, certo?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_05_ [Makoto]]
-[s][vp 9 2 65535 40250 0 0]Então aquela carta de aviso[n]era real…[n][f 1 2 180][e]
+[s][vp 9 2 65535 40250 0 0]Então aquela Carta de Aviso[n]era real…[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_06_ [Makoto]]
 [s][vp 9 2 65535 40105 0 0]Phantom Thieves, que nome estúpido![n]Mas eles fizeram um bom trabalho...[n][f 1 2 180][e]
@@ -1941,7 +1941,7 @@
 [s][vp 9 2 65535 40906 0 0]Aquele CEO ganancioso merece[n]ser alvo![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_518_03_ [Makoto]]
-[s][vp 9 2 65535 37650 0 0]Eu estava ansioso por[n]uma carta de aviso dos Phantom Thieves![n][f 1 2 180][e]
+[s][vp 9 2 65535 37650 0 0]Eu estava ansioso por[n]uma Carta de Aviso dos Phantom Thieves![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_018_02_ [Makoto]]
 [s][vp 9 2 65535 45253 0 0]Eu sabia que os Phantom Thieves[n]teriam como alvo[n]o presidente Okumura![n][f 1 2 180][e]
@@ -1971,7 +1971,7 @@
 [s][vp 9 2 65535 37556 0 0]Eu sabia que os Phantom Thieves[n]iriam ganhar![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_018_08_ [Makoto]]
-[s][vp 9 2 65535 38351 0 0]Se ele recebeu a carta de aviso,[n]Okumura é claramente[n]o bandido...[n][f 1 2 180][e]
+[s][vp 9 2 65535 38351 0 0]Se ele recebeu a Carta de Aviso,[n]Okumura é claramente[n]o bandido...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_019_01_ [Makoto]]
 [s][vp 9 2 65535 40901 0 0]Eu não posso acreditar que eles[n]o mataram![n]Eles são loucos![n][f 1 2 180][e]

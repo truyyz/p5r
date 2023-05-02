@@ -17,7 +17,7 @@
 
 [msg MSG_FUTABA_1026_000_00 [Futaba]]
 [s][bup 0 8 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 9193 65535 0]É minha culpa...[n][w][e]
-[s][f 4 23 1 65535 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Isso tudo aconteceu porque eu guardei a carta de aviso…[n][w][e]
+[s][f 4 23 1 65535 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Isso tudo aconteceu porque eu guardei a Carta de Aviso…[n][w][e]
 [s][f 4 10 65535 0 0]......[n][w][e]
 
 [msg MSG_BED_MORGANA_NIGHT_10 [Futaba]]

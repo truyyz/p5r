@@ -81,7 +81,7 @@
 [s][vp 8 2 1 0 0 0]Você é jovem, então tenho certeza de que seria[n]valioso poder conversar com um pensador tão[n]profundo.[n][w][e]
 
 [msg MSG_JYORENKYAKU_002_0_0 [Cliente arrogante]]
-[s][f 4 23 1 0 3 10 0 0][vp 8 2 1 0 0 0]Você sabia que existem[n]gaiolas de rebatidas perto daqui?[n][w][e]
+[s][f 4 23 1 0 3 10 0 0][vp 8 2 1 0 0 0]Você sabia que existem[n]Gaiolas de Tênis perto daqui?[n][w][e]
 [s][vp 8 2 1 0 0 0]Mesmo que eu não veja a atração.[n]Adultos balançando clubes, gritando[n]palavrões contra a sociedade...[n][w][e]
 
 [sel SEL_JYORENKYAKU_002_0_0 top]
@@ -183,7 +183,7 @@
 [s][vp 8 2 1 0 0 0]Portanto, os Phantom Thieves são[n]nada mais do que meros criminosos.[n]Lembre-se bem disso.[n][w][e]
 
 [msg MSG_JYORENKYAKU_007_0_0 [Cliente arrogante]]
-[s][f 4 23 1 0 3 10 0 0][vp 8 2 1 0 0 0]Parece que os Phantom Thieves[n]enviaram uma carta de aviso[n]à máfia. O que você acha disso?[n][w][e]
+[s][f 4 23 1 0 3 10 0 0][vp 8 2 1 0 0 0]Parece que os Phantom Thieves[n]enviaram uma Carta de Aviso[n]à máfia. O que você acha disso?[n][w][e]
 
 [sel SEL_JYORENKYAKU_007_0_0 top]
 [s]É emocionante.[e]
@@ -310,7 +310,7 @@
 [s][vp 8 2 1 0 0 0]Essas multidões de saqueadores sem cérebro dizem[n]tais atrocidades em minhas críticas ... mas não[n]vou ceder.[n][w][e]
 
 [msg MSG_JYORENKYAKU_013_0_0 [Cliente arrogante]]
-[s][f 4 23 1 0 3 10 0 0][vp 8 2 1 0 0 0]Acho que o mundo está um[n]zumbido sobre essa carta de[n]desafio.[n][w][e]
+[s][f 4 23 1 0 3 10 0 0][vp 8 2 1 0 0 0]Acho que o mundo está um[n]zumbido sobre essa Carta de[n]Aviso.[n][w][e]
 [s][vp 8 2 1 0 0 0]Eu gostaria que eles batessem em alguns[n]meus conhecidos. Existem muitos[n]ignorantes por aí.[n][w][e]
 
 [sel SEL_JYORENKYAKU_013_0_0 top]
@@ -659,7 +659,7 @@
 [s][f 4 23 1 9 14 10 13 10][vp 8 2 1 0 9 0]É quase dia 21. Sinto que[n]alguma coisa maluca vai acontecer.[n][w][e]
 
 [msg MSG_RUBURAN_CUSTOM01_008_2 [Cliente Idosa]]
-[s][f 4 23 1 10 14 10 13 10][vp 8 2 1 0 10 0]Ah, essa é a data daquela carta de aviso? Que[n]tipo de loucura você acha que vai acontecer?[n][w][e]
+[s][f 4 23 1 10 14 10 13 10][vp 8 2 1 0 10 0]Ah, essa é a data daquela Carta de Aviso? Que[n]tipo de loucura você acha que vai acontecer?[n][w][e]
 
 [msg MSG_RUBURAN_CUSTOM01_008_3 [Cliente inadimplente]]
 [s][f 4 23 1 9 14 10 13 10][vp 8 2 1 0 9 0]Eu... eu só sei que vai ser uma loucura![n]Eles estão jogando contra um[n]grupo mundialmente famoso, sabe.[n][w][e]
@@ -691,7 +691,7 @@
 
 [msg MSG_RUBURAN_CUSTOM01_012 [Cliente inadimplente]]
 [s][f 4 23 1 9 14 10 13 10][vp 8 2 1 0 9 0]Mas os Phantom Thieves não estavam mortos? Achei[n]que finalmente estivéssemos a salvo deles.[n][w][e]
-[s][vp 8 2 1 0 9 0]E, em vez disso, aquela carta[n]de desafio apareceu... Shido-san negou[n]sua veracidade, no entanto.[n][w][e]
+[s][vp 8 2 1 0 9 0]E, em vez disso, aquela Carta[n]de Aviso apareceu... Shido-san negou[n]sua veracidade, no entanto.[n][w][e]
 
 [msg MSG_RUBURAN_CUSTOM01_012_2 [Cliente Idosa]]
 [s][f 4 23 1 10 14 10 13 10][vp 8 2 1 0 10 0]Eu me pergunto se Shido-san está bem...[n]Estou preocupado, com a eleição[n]tão próxima.[n][w][e]
@@ -1223,12 +1223,12 @@
 [s][f 4 23 1 65535 32 10 31 10][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 8048 65535 0]Haha desculpe. É melhor eu ir.[n][w][e]
 
 [msg MSG_AKECHI_030_0_0 [Akechi]]
-[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 8127 65535 0]Uma última coisa, porém... ouvi dizer que uma[n]carta de aviso foi finalmente entregue.[n][w][e]
+[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 8127 65535 0]Uma última coisa, porém... ouvi dizer que uma[n]Carta de Aviso foi finalmente entregue.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Se os rumores sobre assuntos internos da[n]okumura Foods forem verdadeiros,[n]seu CEO certamente será julgado.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]No entanto, deveria ser tarefa[n]do governo ou da polícia...[n]Que situação lamentável.[n][w][e]
 
 [msg MSG_AKECHI_031_0_0 [Akechi]]
-[s][f 4 23 1 65535 32 10 31 10][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 8128 65535 0]O presidente Okumura alertou[n]a polícia sobre a carta de aviso,[n]então eles começaram a investigar.[n][w][e]
+[s][f 4 23 1 65535 32 10 31 10][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 8128 65535 0]O presidente Okumura alertou[n]a polícia sobre a Carta de Aviso,[n]então eles começaram a investigar.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Mas parece que eles ainda não[n]encontraram nada... Acho que[n]só temos que ver o que acontece.[n][w][e]
 
 [msg MSG_AKECHI_032_0_0 [Akechi]]
@@ -1253,7 +1253,7 @@
 [s][f 4 23 1 65535 32 10 31 10][bup 0 9 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 8064 65535 0]Sim, eu também estou lutando para organizar as[n]ideias.[n][w][e]
 
 [msg MSG_AKECHI_038_0_0 [Akechi]]
-[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Dada a presença da[n]carta de aviso, duvidar do[n]envolvimento deles seria... ilógico.[n][w][e]
+[s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Dada a presença da[n]Carta de Aviso, duvidar do[n]envolvimento deles seria... ilógico.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]No entanto, há algo que não[n]volta para mim. Vou pensar mais sobre isso[n]mais tarde.[n][w][e]
 
 [msg MSG_AKECHI_039_0_0 [Akechi]]

@@ -37,7 +37,7 @@
 [s][bup 0 105 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Eu tenho que voltar ao trabalho.[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Sae]]
-[s][bup 0 105 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]É tarde, mas tenho que ligar para o[n]diretor e avisar[n]sobre a carta de contestação...[n][f 1 3 65535][w][e]
+[s][bup 0 105 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]É tarde, mas tenho que ligar para o[n]diretor e avisar[n]sobre a Carta de Aviso...[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Sae]]
 [s][bup 0 105 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]As coisas vão se acalmar[n]quando isso[n]acabar.[n][f 1 3 65535][w][e]
@@ -65,7 +65,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 28 65535 0]Tem uma coisa que eu tenho que te dizer...[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Sae]]
-[s][bup 0 105 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 29 65535 0]Recebi uma carta de aviso[n]dos Phantom Thieves, endereçada[n]a mim pessoalmente, e...[n][f 1 3 65535][w][e]
+[s][bup 0 105 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 29 65535 0]Recebi uma Carta de Aviso[n]dos Phantom Thieves, endereçada[n]a mim pessoalmente, e...[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Sae]]
 [s][bup 0 105 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 30 65535 0]Permanecer em espera?[n][f 1 3 65535][w][e]

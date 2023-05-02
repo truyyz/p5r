@@ -31,7 +31,7 @@
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Mas certamente.[n]Não há dúvida sobre isso.[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Ryuji]]
-[s][bup 0 2 7 65535 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Cara, está faltando alguma coisa.[n]Estamos aqui para ajudar o Futaba,[n]não para esvaziar a geladeira...[n][f 1 3 65535][w][e]
+[s][bup 0 2 7 65535 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Cara, está faltando alguma coisa.[n]Estamos aqui para ajudar a Futaba,[n]não para esvaziar a geladeira...[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Futaba]]
 [s][bup 0 8 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Eu tomo o mesmo. Extra grande.[n][f 1 3 65535][w][e]

@@ -10,13 +10,13 @@
 [s][bup 0 8 0 65535 0][f 4 23 1 209 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Então, podemos entrar hoje?[n][w][e]
 
 [sel SEL_C09_SOJIRO_00_01_00 top]
-[s]Vamos fazê-lo.[e]
+[s]Vamos fazer isso.[e]
 [s]Talvez outra hora.[e]
 
 [msg MSG_C09_SOJIRO_00_02_00 [Futaba]]
 [s][bup 0 8 0 65535 0][f 4 23 1 209 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 9031 65535 0]Obrigada.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Este é um assunto de[n]família, então eu gostaria que[n]só nós dois fôssemos.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Oh, eu já enviei ao meu tio uma[n]carta anônima, então na frente da[n]carta de aviso estamos prontos.[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Oh, eu já enviei ao meu tio uma[n]carta anônima, então na frente da[n]Carta de Aviso estamos prontos.[n][w][e]
 
 [msg MSG_C09_SOJIRO_00_03_00 [Futaba]]
 [s][bup 0 8 3 65535 0][f 4 23 1 209 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 9047 65535 0]Este é um assunto de[n]família, então eu gostaria que[n]só nós dois fôssemos.[n][w][e]
@@ -39,7 +39,7 @@
 [s]Deixe evidências de sua passagem.[e]
 
 [msg MSG_C09_ODA_04_00 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Uma carta de aviso?[n]O que devemos roubar?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Uma Carta de Aviso?[n]O que devemos roubar?[n][w][e]
 
 [msg MSG_C09_ODA_05_00 [Futaba]]
 [s][bup 0 8 1 65535 0][f 4 23 1 209 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 9200 65535 0]Ah, que tal em casa?[n][w][e]
@@ -49,7 +49,7 @@
 [s][bup 0 8 0 65535 0][f 4 23 1 209 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 9098 65535 0]Seria fácil, mas...[n]Será que ele vai mesmo acreditar?[n][w][e]
 
 [msg MSG_C09_ODA_07_00 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ok. Vou escrever uma carta de aviso[n]dizendo que assumiremos a página inicial do[n]Gun About.[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ok. Vou escrever uma Carta de Aviso[n]dizendo que assumiremos a página inicial do[n]Gun About.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Então, você terá que semear[n]evidências que levem a pensar[n]que foram os Phantom Thieves.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]O rei será forçado a acreditar que fomos nós.[n][w][e]
 
@@ -121,10 +121,10 @@
 
 [msg MSG_C09_BEGIN_D00_50_00 [Futaba]]
 [s][bup 0 8 0 65535 0][f 4 23 1 209 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 9196 65535 0]Forte! Nós temos um caminho![n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Agora só falta enviar[n]a carta de aviso. Vejo você[n]na reunião?[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Agora só falta enviar[n]a Carta de Aviso. Vejo você[n]na reunião?[n][w][e]
 
 [sel SEL_C09_ACTION_D00_99_00 top]
-[s]Vamos fazê-lo.[e]
+[s]Vamos fazer isso.[e]
 [s]Talvez mais tarde.[e]
 
 [msg MSG_C09_ACTION_D00_99_00 [Futaba]]
@@ -139,7 +139,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]De qualquer forma, avise-nos quando você[n]decidir sobre uma programação, ok?[n][w][e]
 
 [msg MSG_C09_ACTION_D00_51_00 [Futaba]]
-[s][bup 0 8 0 65535 0][f 4 23 1 209 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 9098 65535 0]Por que não enviamos[n]a carta de aviso imediatamente e fazemos[n]isso?[n][w][e]
+[s][bup 0 8 0 65535 0][f 4 23 1 209 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 9098 65535 0]Por que não enviamos[n]a Carta de Aviso imediatamente e fazemos[n]isso?[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]De qualquer forma, quando decidir entrar,[n]avise-nos.[n][w][e]
 
 [msg MSG_C09_BEGIN_D00_60_00 [Futaba]]
@@ -193,10 +193,10 @@
 [s][bup 0 8 0 65535 0][f 4 23 1 209 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 9002 65535 0]Não será um problema então, se não nos mudarmos[n]logo?[n][w][e]
 
 [msg MSG_C09_BEGIN_D07_50_00 [Futaba]]
-[s][bup 0 8 2 65535 0][f 4 23 1 209 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 9189 65535 0]Enviamos a carta de aviso,[n][f 4 2]! Minha mãe...Sojiro...[n]eu tenho que vingar todo mundo![n][w][e]
+[s][bup 0 8 2 65535 0][f 4 23 1 209 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 9189 65535 0]Enviamos a Carta de Aviso,[n][f 4 2]! Minha mãe...Sojiro...[n]eu tenho que vingar todo mundo![n][w][e]
 
 [sel SEL_C09_ACTION_D07_99_00 top]
-[s]Vamos fazê-lo.[e]
+[s]Vamos fazer isso.[e]
 [s]Talvez mais tarde.[e]
 
 [msg MSG_C09_ACTION_D07_99_00 [Futaba]]
@@ -211,7 +211,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]De qualquer forma, avise-nos quando você[n]decidir sobre uma programação, ok?[n][w][e]
 
 [msg MSG_C09_ACTION_D07_51_00 [Futaba]]
-[s][bup 0 8 0 65535 0][f 4 23 1 209 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 9098 65535 0]Por que não enviamos[n]a carta de aviso imediatamente e fazemos[n]isso?[n][w][e]
+[s][bup 0 8 0 65535 0][f 4 23 1 209 3 10 0 10][f 4 10 65535 0 0][vp 8 2 1 9098 65535 0]Por que não enviamos[n]a Carta de Aviso imediatamente e fazemos[n]isso?[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]De qualquer forma, quando decidir entrar,[n]avise-nos.[n][w][e]
 
 [msg MSG_C09_BEGIN_D07_60_00 [Futaba]]
@@ -256,7 +256,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Você não acha que devemos[n]mover rapidamente?[n][w][e]
 
 [sel SEL_C09_ACTION_D10_20_01 top]
-[s]Vamos fazê-lo.[e]
+[s]Vamos fazer isso.[e]
 [s]Talvez mais tarde.[e]
 
 [msg MSG_C09_BEGIN_D10_20_02 [Futaba]]
@@ -386,7 +386,7 @@
 
 [msg MSG_COOP_CHECK_SHIDOU [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ninguém pensa que você está vivo.[n]Se você for cuidadoso,[n]tudo ficará bem.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]O que você quer fazer? Você vai sair com[n]futaba?[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]O que você quer fazer? Você vai sair com[n]Futaba?[n][w][e]
 
 [sel SEL_COOP_CHECK top]
 [s]sair com ela[e]

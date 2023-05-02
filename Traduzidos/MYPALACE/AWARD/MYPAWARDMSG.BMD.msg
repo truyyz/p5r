@@ -5,7 +5,7 @@
 [s]Completou [var 1]% de[n]Registro do Prisioneiro.[n][e]
 
 [msg MSG_002]
-[s]Aprimorou um dos Personas [n]protagonistas para o Nível [var 1].[n][e]
+[s]Aprimorou uma das Personas [n]protagonistas para o Nível [var 1].[n][e]
 
 [msg MSG_003]
 [s]Aumentou as estatísticas[n]de uma das Personas[n]do protagonista para o nível 99.[n][e]
@@ -122,7 +122,7 @@
 [s]Resolvido [var 1] jogo de palavras cruzadas[n]em Leblanc.[n][e]
 
 [msg MSG_041]
-[s]Acerte [var 1] home runs nas[n]gaiolas de rebatidas em Yongen-Jaya.[n][e]
+[s]Acerte [var 1] home runs nas[n]Gaiolas de Tênis em Yongen-Jaya.[n][e]
 
 [msg MSG_042]
 [s]Usou o banho público[n]"Fuji no Yu" em Yongen-Jaya[n][var 1] vezes.[n][e]
@@ -137,7 +137,7 @@
 [s]Você preparou o Master's[n]Coffee e o Master's Curry[n]at Leblanc sozinho.[n][e]
 
 [msg MSG_046]
-[s]Você treinou manequim[n]na academia "Protein[n]Lovers" em Shibuya.[n][e]
+[s]Você treinou manequim[n]na academia "Amantes de[n]Proteína" em Shibuya.[n][e]
 
 [msg MSG_047]
 [s]Lavou [var 1] peças sujas[n]de equipamentos na lavanderia[n]em Yongen-Jaya.[n][e]

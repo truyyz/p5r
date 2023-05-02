@@ -6,7 +6,7 @@
 
 [sel SEL_002_0_0 top]
 [s]Obrigado por ter vindo.[e]
-[s]Bem, você me perguntou.[e]
+[s]Bem, você me chamou.[e]
 [s]O que é toda essa formalidade?[e]
 
 [msg MSG_003_0_0 [Lavenza]]

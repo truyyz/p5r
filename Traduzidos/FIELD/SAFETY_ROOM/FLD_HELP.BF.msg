@@ -1,5 +1,5 @@
 [msg MSG_FLD_REMOVAL_00]
-[s]Envie a carta de aviso[n][e]
+[s]Envie a Carta de Aviso[n][e]
 
 [msg MSG_FLD_BREAFING_00]
 [s]Fale com a equipe[n][e]

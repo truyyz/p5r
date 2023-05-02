@@ -39,8 +39,8 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 14 65535 0]No ensino médio, passamos[n]para turmas diferentes, e então[n]paramos de sair...[n][f 1 3 65535][w][e]
 
 [msg MSG_013_0_0 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Acho que ele não tinha muitos amigos.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Você sabe, se você cresceu no exterior e tem essa[n]aparência, os garotos populares odiam você e os[n]tímidos o evitam.[n][f 1 3 65535][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 15 65535 0]Acho que ela não tinha muitos amigos.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 16 65535 0]Você sabe, se você cresceu no exterior e tem essa[n]aparência, os garotos populares odeiam você e os[n]tímidos o evitam.[n][f 1 3 65535][w][e]
 
 [msg MSG_014_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 17 65535 0]Eu entendo...[n][f 1 3 65535][w][e]

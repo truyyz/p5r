@@ -79,7 +79,7 @@
 [msg MND_BOARD_ENTRANCE_KOUTY]
 [s][vp 1 0 0 0 0 0]"A corrupção moral de nosso[n]campus levou a rumores infundados[n]aparentemente imparáveis."[n][w][e]
 [s][vp 1 0 0 0 0 0]"Na esperança de amenizar o problema,[n]qualquer informação de[n]alunos será considerada."[n][w][e]
-[s][vp 1 0 0 0 0 0]"Entre em contato com o presidente do conselho se[n]quiser comunicar qualquer coisa oficialmente."[n][w][e]
+[s][vp 1 0 0 0 0 0]"Entre em contato com a presidente do conselho se[n]quiser comunicar qualquer coisa oficialmente."[n][w][e]
 [s][vp 1 0 0 0 0 0]"A confidencialidade será mantida.[n]Confio no seu senso[n]de responsabilidade. - Diretor Kobayakawa"[n][w][e]
 
 [msg MND_BOARD_ENTRANCE_COUNS]

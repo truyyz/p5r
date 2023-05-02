@@ -1,6 +1,6 @@
 [msg MSG_000_0_0 [Mishima]]
 [s][f 5 14]Tenho algumas informações novas![n][w][e]
-[s][f 5 14]Parece que um grupo de[n]hambúrgueres está[n]aterrorizando Shibuya.[n][w][e]
+[s][f 5 14]Parece que um grupo de[n]assaltantes está[n]aterrorizando Shibuya.[n][w][e]
 [s][f 5 14]Pelo que ouvi, eles afetam[n]apenas restaurantes, quebrando[n]a entrada após o horário de fechamento.[n][w][e]
 [s][f 5 14]Alguém na net perguntou[n]se era obra dos Phantom Thieves.[n][w][e]
 [s][f 5 14]Só de ler a pergunta[n]me irritou![n][w][e]

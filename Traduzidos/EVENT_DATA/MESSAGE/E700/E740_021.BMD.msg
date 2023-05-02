@@ -22,7 +22,7 @@
 [s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Com licença, você tem um momento?[n][f 1 3 65535][w][e]
 
 [msg MSG_007_0_0 [Mishima]]
-[s][bup 0 111 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Oh, [f 4 1]... e o presidente do conselho estudantil?[n][f 1 3 65535][w][e]
+[s][bup 0 111 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Oh, [f 4 1]... e a presidente do conselho estudantil?[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Makoto]]
 [s][bup 0 6 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 2040 65535 0]Hã? Espere um minuto, Mishima-kun?!?[n][f 1 3 65535][w][e]

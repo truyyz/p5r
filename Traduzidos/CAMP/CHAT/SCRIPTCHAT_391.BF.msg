@@ -1,5 +1,5 @@
 [msg MSG_000_0_0 [Makoto]]
-[s][f 5 14]Desculpe a espera.[n]Acho que correu tudo bem.[n][w][e]
+[s][f 5 14]Desculpe a demora.[n]Acho que correu tudo bem.[n][w][e]
 
 [msg MSG_001_0_0 [Haru]]
 [s][f 5 14]Obrigado Mako-chan. Então está[n]tudo indo de acordo com o planejado.[n][w][e]

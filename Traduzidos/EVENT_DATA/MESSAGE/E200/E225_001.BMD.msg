@@ -59,7 +59,7 @@
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 6 3 300 1][vp 8 0 0 28 65535 0]O que você está insinuando...?[n][f 1 3 65535][w][e]
 
 [msg MSG_017_0_0 [Ann]]
-[s][bup 0 4 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Você é o presidente do conselho estudantil,[n]certo? Sério[n]você não sabia nada sobre Kamoshida?[n][f 1 3 65535][w][e]
+[s][bup 0 4 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 24 65535 0]Você é a presidente do conselho estudantil,[n]certo? Sério[n]você não sabia nada sobre Kamoshida?[n][f 1 3 65535][w][e]
 
 [msg MSG_018_0_0 [Makoto]]
 [s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 25 65535 0]Claro que não! Ele sempre foi[n]ele foi um professor muito bom,[n]até aquele dia...[n][f 1 3 65535][w][e]

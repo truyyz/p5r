@@ -86,7 +86,7 @@
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 6 7 300 1][vp 8 0 0 31 65535 0]Aaah![n][f 1 3 65535][w][e]
 
 [msg MSG_027_0_0 [Ryuji]]
-[s][bup 0 2 102 0 0][f 4 10 65535 0 0][vp 8 0 0 32 65535 0]O que acontece?!? Não era para[n]estar aqui?!?[n][f 1 3 65535][w][e]
+[s][bup 0 2 102 0 0][f 4 10 65535 0 0][vp 8 0 0 32 65535 0]O que aconteceu?!? Não era para[n]estar aqui?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_028_0_0 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 0 0 33 65535 0]O Tesouro era a própria Futaba![n][f 1 3 65535][w][e]

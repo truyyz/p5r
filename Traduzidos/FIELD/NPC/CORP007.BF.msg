@@ -25,7 +25,7 @@
 
 [msg MSG_C07_BEGIN_D01_50_00 [Ryuji]]
 [s][bup 0 2 2 65535 0][f 4 10 65535 0 0][f 4 23 1 207 32 10 31 10][vp 8 2 1 7102 65535 0]Vamos acordar o coração daquele bastardo e[n]fazê-lo pagar por toda a[n]merda que ele fez.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Você está enviando a carta de aviso hoje?[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Você está enviando a Carta de Aviso hoje?[n][w][e]
 
 [sel SEL_C07_ACTION_D01_99_00 top]
 [s]É claro.[e]
@@ -119,13 +119,13 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Venha, vamos entrar[n]e encontrar aquele tesouro.[n][w][e]
 
 [msg MSG_C07_ACTION_D00_51_00 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 23 1 207 32 10 31 10][vp 8 2 1 7156 65535 0]Chegamos ao Tesouro.[n]Enviamos a carta de contestação imediatamente.[n][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 23 1 207 32 10 31 10][vp 8 2 1 7156 65535 0]Chegamos ao Tesouro.[n]Enviamos a Carta de Aviso imediatamente.[n][w][e]
 
 [msg MSG_C07_BEGIN_D00_60_00 [Ryuji]]
 [s][bup 0 2 3 65535 0][f 4 10 65535 0 0][f 4 23 1 207 32 10 31 10][vp 8 2 1 7087 65535 0]Que bolas. Eu não gosto de ficar parado.[n][w][e]
 
 [msg MSG_C07_BEGIN_D06_50_00 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 23 1 207 32 10 31 10][vp 8 2 1 7001 65535 0]O dia da carta de contestação[n]foi decidido...[n]Resta-nos aguardar.[n][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 23 1 207 32 10 31 10][vp 8 2 1 7001 65535 0]O dia da Carta de Aviso[n]foi decidido...[n]Resta-nos aguardar.[n][w][e]
 
 [msg MSG_C07_BEGIN_D07_10_00 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 23 1 207 32 10 31 10][vp 8 2 1 7038 65535 0]Sem prédios para entrar,[n]i definitivamente vou acabar fora de forma.[n][w][e]
@@ -189,14 +189,14 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Venha, vamos entrar[n]e encontrar aquele tesouro.[n][w][e]
 
 [msg MSG_C07_ACTION_D07_51_00 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 23 1 207 32 10 31 10][vp 8 2 1 7156 65535 0]Chegamos ao Tesouro.[n]Enviamos a carta de contestação imediatamente.[n][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 23 1 207 32 10 31 10][vp 8 2 1 7156 65535 0]Chegamos ao Tesouro.[n]Enviamos a Carta de Aviso imediatamente.[n][w][e]
 
 [msg MSG_C07_BEGIN_D07_60_00 [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][f 4 23 1 207 32 10 31 10][vp 8 2 1 7001 65535 0]Finalmente nós[n]derrotamos Shido...[n][w][e]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Mesmo que realmente não[n]termine até que ele confesse,[n]estou certo?[n][w][e]
 
 [msg MSG_C07_BEGIN_D10_50_00 [Ryuji]]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 23 1 207 32 10 31 10][vp 8 2 1 7001 65535 0]O dia da carta de contestação[n]foi decidido...[n]Resta-nos aguardar.[n][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 23 1 207 32 10 31 10][vp 8 2 1 7001 65535 0]O dia da Carta de Aviso[n]foi decidido...[n]Resta-nos aguardar.[n][w][e]
 
 [msg MSG_C07_BEGIN_D10_00_00 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 23 1 207 32 10 31 10][vp 8 2 1 7156 65535 0]Oh. Olá, [f 4 2].[n][w][e]
@@ -327,7 +327,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 7081 65535 0]Enquanto isso, podemos[n]fazer uma pausa nos[n]treinos. Contando com você.[n][w][e]
 
 [sel SEL_RYUJI_CORP_C06_01 top]
-[s]Parece engraçado.[e]
+[s]Parece divertido.[e]
 [s]não tenho outra escolha...[e]
 [s]E se ele descobrir sobre nós?[e]
 

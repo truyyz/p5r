@@ -5,7 +5,7 @@
 [s][f 5 14]Parece um pouco apressado para mim.[n][w][e]
 
 [msg MSG_002_0_0 [Haru]]
-[s][f 5 14]Quero dizer, eles não encontraram uma[n]carta de aviso no escritório do[n]Diretor Kobayakawa?[n][w][e]
+[s][f 5 14]Quero dizer, eles não encontraram uma[n]Carta de Aviso no escritório do[n]Diretor Kobayakawa?[n][w][e]
 
 [msg MSG_003_0_0 [Haru]]
 [s][f 5 14]Eu pensei que você mesmo sugeriu essa[n]ideia, Yusuke.[n][w][e]

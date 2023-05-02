@@ -41,7 +41,7 @@
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Agora temos que encontrar uma maneira[n]para mover o guindaste.[n][w][e]
 
 [msg D153_09_c_05_mes01 [Yusuke]]
-[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4023 65535 0]Então, assim que enviarmos a[n]"carta de aviso" vai[n]tentar o golpe?[n][w][e]
+[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4023 65535 0]Então, assim que enviarmos a[n]"Carta de Aviso" vai[n]tentar o golpe?[n][w][e]
 
 [msg D153_09_c_05_mes02 [Morgana]]
 [s][bup 0 3 1 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Exatamente. Eheheh...[n]Mal posso esperar![n][w][e]
@@ -134,11 +134,11 @@
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Espero que esteja brincando...[n][w][e]
 
 [msg D02_04_e210_235_mes11 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Então, é hora[n]da carta-desafio![n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Então, é hora[n]da Carta de Aviso![n][w][e]
 
 [msg D153_09_c_03_mes01 [Morgana]]
 [s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1174 65535 0]Da próxima vez, vamos usá-lo[n]durante o assalto real ...[n][w][e]
 
 [msg D153_09_c_03_mes02 [Morgana]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Depois de enviar a[n]carta de aviso, não há como voltar atrás.[n]Coordene tudo certo, Joker.[n][w][e]
+[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Depois de enviar a[n]Carta de Aviso, não há como voltar atrás.[n]Coordene tudo certo, Joker.[n][w][e]
 

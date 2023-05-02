@@ -157,12 +157,12 @@
 [s]Japão.[f 2 7 0 0 25 1][e]
 
 [msg MSG_040_0_0 [História]]
-[s][vp 8 0 0 0 65535 0]A palavra japonesa "dokyuu" significa[n]que significa "enorme". Que palavra inglesa[n]inspirou sua inicial "do"?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]A palavra japonesa "dokyuu" significa[n]"enorme". Que palavra inglesa[n]inspirou sua inicial "do"?[n][f 1 3 65535][w][e]
 
 [sel SEL_041_0_0 top]
-[s]"Domínio".[e]
-[s]"Dreadnoughts".[f 2 7 0 0 25 1][e]
-[s]"Tranças".[e]
+[s]Dominance.[e]
+[s]Dreadnought.[f 2 7 0 0 25 1][e]
+[s]Dreadlock.[e]
 
 [msg MSG_042_0_0 [Prof Hiruta]]
 [s][bup 0 303 0 0 0][f 4 10 65535 0 0][vp 8 2 0 37150 65535 0]Hoje é o segundo dia de exames.[n]Você pode começar.[n][f 1 3 65535][w][e]

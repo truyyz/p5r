@@ -11,7 +11,7 @@
 [s][f 5 14]Não, é certamente devido[n]ao fato de que Futaba[n]silenciou Medjed.[n][w][e]
 
 [msg MSG_004_0_0 [Futaba]]
-[s][f 5 14]Você vê??? Agora o que você diz?!?[n][w][e]
+[s][f 5 14]Viu??? Agora o que você diz?!?[n][w][e]
 
 [msg MSG_005_0_0 [Ann]]
 [s][f 5 14]Um momento desse tipo[n]é quase assustador...[n][w][e]

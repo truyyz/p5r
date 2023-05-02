@@ -42,11 +42,11 @@
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 10 65535 0]Ah, bom dia...[n]Lotado como sempre né?[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Nós encontramos o Tesouro,[n]então resta apenas[n]enviar a carta de aviso.[n][f 1 3 65535][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Nós encontramos o Tesouro,[n]então resta apenas[n]enviar a Carta de Aviso.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 12 65535 0]Falta menos de uma semana[n]para a reunião do conselho...[n]O que você quer fazer hoje?[n][f 1 3 65535][w][e]
 
 [sel SEL_012_0_0 top]
-[s]Enviamos a carta de aviso.[f 2 7 0 1 971 1][e]
+[s]Enviamos a Carta de Aviso.[f 2 7 0 1 971 1][e]
 [s]Eu quero pensar sobre isso.[e]
 
 [msg MSG_013_0_0 [Ann]]
@@ -107,7 +107,7 @@
 [msg MSG_026_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Fiz três tigelas de arroz, por isso me atrasei.[n]Vamos precisar de calorias, por Kamoshida![n][f 1 3 65535][w][e]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ainda assim, sinto-me sobrecarregado.[n]Terei toda a energia de que preciso[n]para me soltar no Palácio.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Terminamos a pesquisa.[n]Hoje devemos enviar[n]a carta-desafio.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Terminamos a pesquisa.[n]Hoje devemos enviar[n]a Carta de Aviso.[n][f 1 3 65535][w][e]
 
 [sel SEL_027_0_0 top]
 [s]Vamos lá.[f 2 7 0 1 971 1][e]
@@ -167,7 +167,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Devemos roubar o coração de[n]Kamoshida, ou seremos[n]expulsos da escola![n][f 1 3 65535][w][e]
 
 [msg MSG_041_0_0 [Ryuji]]
-[s][bup 0 2 11 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Enviamos a carta de aviso[n]o mais rápido possível![n][f 1 3 65535][w][e]
+[s][bup 0 2 11 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Enviamos a Carta de Aviso[n]o mais rápido possível![n][f 1 3 65535][w][e]
 
 [sel SEL_042_0_0 top]
 [s]Vamos lá.[f 2 7 0 1 971 1][e]
@@ -231,11 +231,11 @@
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 6028 65535 0]Bom dia.[n]Ainda me sinto exausto depois[n]daquela labuta. Como você está?[n][f 1 3 65535][w][e]
 
 [msg MSG_056_0_0 [Ann]]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Encontramos o Tesouro,[n]agora só nos resta[n]enviar a carta de aviso.[n][f 1 3 65535][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Encontramos o Tesouro,[n]agora só nos resta[n]enviar a Carta de Aviso.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ainda temos algum tempo[n]antes da reunião do conselho.[n]O que você quer fazer hoje?[n][f 1 3 65535][w][e]
 
 [sel SEL_057_0_0 top]
-[s]Enviamos a carta de aviso.[f 2 7 0 1 971 1][e]
+[s]Enviamos a Carta de Aviso.[f 2 7 0 1 971 1][e]
 [s]Eu quero pensar sobre isso um pouco.[e]
 
 [msg MSG_058_0_0 [Ann]]
@@ -346,7 +346,7 @@
 
 [msg MSG_081_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 101 65535 0]Terminamos[n]a busca no Palácio.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 102 65535 0]Tudo o que você precisa fazer é enviar uma carta[n]de desafio. Quando você pretende fazer isso?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 102 65535 0]Tudo o que você precisa fazer é enviar uma Carta[n]de Aviso. Quando você pretende fazer isso?[n][f 1 3 65535][w][e]
 
 [sel SEL_082_0_0 top]
 [s]Envie hoje.[f 2 7 0 1 971 1][e]
@@ -358,7 +358,7 @@
 
 [msg MSG_084_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 105 65535 0]Quanto mais importante for, mais cuidado temos[n]que ser... Você não está totalmente errado.[n][f 1 3 65535][w][e]
-[s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 106 65535 0]Como eu pensei, você é meio confiável. Vou deixar[n]você decidir quando enviar a carta de aviso.[n][f 1 3 65535][w][e]
+[s][bup 0 5 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 106 65535 0]Como eu pensei, você é meio confiável. Vou deixar[n]você decidir quando enviar a Carta de Aviso.[n][f 1 3 65535][w][e]
 
 [msg MSG_085_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 4002 65535 0]Você também está neste trem[n]a esta hora? Que coincidência.[n][f 1 3 65535][w][e]
@@ -425,7 +425,7 @@
 [msg MSG_101_0_0 [Yusuke]]
 [s][bup 0 5 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]A propósito, eu vi uma placa[n]anunciante da exposição Madarame[n]ao longo da estrada...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0]Não pude deixar de pensar naquele museu nojento.[n]Esse mundo deve ser destruído o mais rápido[n]possível![n][f 1 3 65535][w][e]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Agora podemos enviar[n]a carta-desafio, certo?[n]Ou você ainda não quer?[n][f 1 3 65535][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Agora podemos enviar[n]a Carta de Aviso, certo?[n]Ou você ainda não quer?[n][f 1 3 65535][w][e]
 
 [sel SEL_102_0_0 top]
 [s]Envie agora. [f 2 7 0 1 971 1][e]
@@ -437,7 +437,7 @@
 
 [msg MSG_104_0_0 [Yusuke]]
 [s][bup 0 5 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 4141 65535 0]Sabemos onde está o Tesouro,[n]agora.[n]preparação adicional é necessária?[n][f 1 3 65535][w][e]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Que assim seja. Vou deixar você decidir[n]o prazo para enviar[n]a carta de aviso.[n][f 1 3 65535][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Que assim seja. Vou deixar você decidir[n]o prazo para enviar[n]a Carta de Aviso.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Apenas tente não se atrasar.[n][f 1 3 65535][w][e]
 
 [msg MSG_105_0_0 [Yusuke]]
@@ -485,7 +485,7 @@
 
 [msg MSG_116_0_0 [Ryuji]]
 [s][bup 0 2 11 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ei, já exploramos[n]todo o palácio, não é?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]A exposição permanecerá aberta[n]somente até o fim de semana.[n]Enviamos a carta de aviso.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]A exposição permanecerá aberta[n]somente até o fim de semana.[n]Enviamos a Carta de Aviso.[n][f 1 3 65535][w][e]
 
 [sel SEL_117_0_0 top]
 [s]Envie agora. [f 2 7 0 1 971 1][e]
@@ -535,7 +535,7 @@
 
 [msg MSG_129_0_0 [Ann]]
 [s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 6047 65535 0]Sério...? Mas ainda não[n]fizemos nada.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E aí ainda temos que[n]enviar a carta de aviso[n]para o Tesouro aparecer...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]E aí ainda temos que[n]enviar a Carta de Aviso[n]para o Tesouro aparecer...[n][f 1 3 65535][w][e]
 [s][bup 0 4 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Sim, nós realmente devemos ir hoje,[n]sem dúvida! Depois da escola[n]eu vou ficar e esperar por você. Eu conto com isso.[n][f 1 3 65535][w][e]
 
 [msg MSG_130_0_0 [Yusuke]]
@@ -668,7 +668,7 @@
 
 [msg MSG_161_0_0 [Ryuji]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ah sim, agora já sabemos onde[n]está o Tesouro, certo?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Qual é o plano? Já[n]queremos enviar a carta de aviso?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Qual é o plano? Já[n]queremos enviar a Carta de Aviso?[n][f 1 3 65535][w][e]
 
 [sel SEL_162_0_0 top]
 [s]Vamos lá.[f 2 7 0 1 971 1][e]
@@ -728,7 +728,7 @@
 [msg MSG_176_0_0 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Enfim, junho está quase acabando.[n][f 1 3 65535][w][e]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O que você quer fazer? A essa altura já sabemos[n]onde está o Tesouro.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Devemos enviar hoje[n]a carta de contestação?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Devemos enviar hoje[n]a Carta de Aviso?[n][f 1 3 65535][w][e]
 
 [sel SEL_177_0_0 top]
 [s]Vamos enviar.[f 2 7 0 1 971 1][e]
@@ -789,7 +789,7 @@
 
 [msg MSG_191_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 4157 65535 0]O prazo de Kaneshiro é[n]neste sábado, lembra?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Até agora sabemos a localização[n]do Tesouro. Poderíamos enviar[n]a carta de aviso. O que você acha?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Até agora sabemos a localização[n]do Tesouro. Poderíamos enviar[n]a Carta de Aviso. O que você acha?[n][f 1 3 65535][w][e]
 
 [sel SEL_192_0_0 top]
 [s]Envie hoje.[f 2 7 0 1 971 1][e]
@@ -797,7 +797,7 @@
 
 [msg MSG_193_0_0 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 4020 65535 0]Excelente, não há razão[n]para mexer. Vamos parar Kaneshiro.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ligue-me depois da escola. Enviaremos[n]a carta de aviso juntos.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ligue-me depois da escola. Enviaremos[n]a Carta de Aviso juntos.[n][f 1 3 65535][w][e]
 
 [msg MSG_194_0_0 [Yusuke]]
 [s][bup 0 5 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 4026 65535 0]Não vou apressá-lo,[n]mas saiba que não nos resta muito.[n][f 1 3 65535][w][e]
@@ -851,7 +851,7 @@
 [msg MSG_206_0_0 [Makoto]]
 [s][bup 0 6 2 65535 0][f 4 10 65535 0 0][vp 8 2 0 2019 65535 0]Ei, só temos dois dias até o[n]período. Quanto tempo temos que[n]esperar?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Você deve saber que estamos quase[n]sem tempo.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Agora só falta enviar[n]a carta de aviso...[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Agora só falta enviar[n]a Carta de Aviso...[n][f 1 3 65535][w][e]
 
 [sel SEL_207_0_0 top]
 [s]Vamos lá.[f 2 7 0 1 971 1][e]
@@ -957,7 +957,7 @@
 [s][bup 0 6 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 2005 65535 0]Bom dia.[n][f 1 3 65535][w][e]
 
 [msg MSG_231_0_0 [Makoto]]
-[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 2195 65535 0]Ei, você decidiu o que fazer[n]com a carta-desafio?[n]Quando você vai enviar?[n][f 1 3 65535][w][e]
+[s][bup 0 6 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 2195 65535 0]Ei, você decidiu o que fazer[n]com a Carta de Aviso?[n]Quando você vai enviar?[n][f 1 3 65535][w][e]
 
 [sel SEL_232_0_0 top]
 [s]Envie hoje.[f 2 7 0 1 971 1][e]
@@ -1018,7 +1018,7 @@
 [msg MSG_246_0_0 [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Ei, você viu os últimos[n]comentários na net?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Há muito ódio contra Okumura[n]e muitas expectativas sobre nós.[n][f 1 3 65535][w][e]
-[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]É melhor corrigirmos isso[n]o mais rápido possível. Devemos[n]enviar a carta de contestação.[n][f 1 3 65535][w][e]
+[s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]É melhor corrigirmos isso[n]o mais rápido possível. Devemos[n]enviar a Carta de Aviso.[n][f 1 3 65535][w][e]
 
 [sel SEL_247_0_0 top]
 [s]Envie agora. [f 2 7 0 1 971 1][e]
@@ -1077,7 +1077,7 @@
 
 [msg MSG_261_0_0 [Haru]]
 [s][bup 0 7 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 338 65535 0]Falta apenas uma semana[n]para a data marcada por meu pai...[n][f 1 3 65535][w][e]
-[s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 339 65535 0]Então agora é só mandar[n]a carta de aviso, né?[n]Quando vai acontecer?[n][f 1 3 65535][w][e]
+[s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 339 65535 0]Então agora é só mandar[n]a Carta de Aviso, né?[n]Quando vai acontecer?[n][f 1 3 65535][w][e]
 
 [sel SEL_262_0_0 top]
 [s]Envie hoje.[f 2 7 0 1 971 1][e]
@@ -1135,7 +1135,7 @@
 
 [msg MSG_276_0_0 [Ann]]
 [s][bup 0 4 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O prazo está próximo agora.[n]Tem certeza que tudo ficará bem?[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Precisamos enviar a carta[n]de contestação o mais rápido possível.[n]Faremos isso logo, certo?[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Precisamos enviar a Carta[n]de Aviso o mais rápido possível.[n]Faremos isso logo, certo?[n][f 1 3 65535][w][e]
 
 [sel SEL_277_0_0 top]
 [s]Nós o enviaremos imediatamente.[f 2 7 0 1 971 1][e]
@@ -1221,7 +1221,7 @@
 
 [msg MSG_296_0_0 [Haru]]
 [s][bup 0 7 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 3021 65535 0]Jornais, televisão... Os Phantom[n]Thieves estão em todos os noticiários.[n]Agora somos bandidos.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]A essa altura, poderíamos enviar a carta[n]de desafio. Ficar parado e esperando[n]me deixa ansioso.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]A essa altura, poderíamos enviar a Carta[n]de Aviso. Ficar parado e esperando[n]me deixa ansioso.[n][f 1 3 65535][w][e]
 [s][bup 0 7 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]O que você acha, [f 4 2]-kun?[n][f 1 3 65535][w][e]
 
 [sel SEL_297_0_0 top]
@@ -1262,7 +1262,7 @@
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 4006 65535 0]Oi.[n][f 1 3 65535][w][e]
 
 [msg MSG_306_0_0 [Yusuke]]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Enviaremos a carta-desafio[n]no dia 18. Há algo[n]que você gostaria de fazer antes disso?[n][f 1 3 65535][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Enviaremos a Carta de Aviso[n]no dia 18. Há algo[n]que você gostaria de fazer antes disso?[n][f 1 3 65535][w][e]
 
 [sel SEL_307_0_0 top]
 [s]Eu quero treinar.[e]
@@ -1283,7 +1283,7 @@
 
 [msg MSG_311_0_0 [Ann]]
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Já é dia 12.[n]Fique cerca de uma semana,[n]antes da investigação.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vamos para o Palácio hoje![n]Precisamos garantir que podemos[n]enviar a carta de aviso![n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Vamos para o Palácio hoje![n]Precisamos garantir que podemos[n]enviar a Carta de Aviso![n][f 1 3 65535][w][e]
 
 [sel SEL_312_0_0 top]
 [s]Ok, vamos embora.[f 2 7 0 1 971 1][e]
@@ -1303,7 +1303,7 @@
 [s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 6002 65535 0]Heyyy.[n][f 1 3 65535][w][e]
 
 [msg MSG_316_0_0 [Ann]]
-[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Enviaremos a carta-desafio[n]no dia 18, então fique[n]menos de uma semana.[n][f 1 3 65535][w][e]
+[s][bup 0 4 3 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Enviaremos a Carta de Aviso[n]no dia 18, então fique[n]menos de uma semana.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 6028 65535 0]Suspiro... Estou começando a ficar ansioso.[n][f 1 3 65535][w][e]
 
 [sel SEL_317_0_0 top]
@@ -1312,7 +1312,7 @@
 
 [msg MSG_318_0_0 [Ann]]
 [s][bup 0 4 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 6040 65535 0]Você também, [f 4 2]?[n]eu não esperava...[n][f 1 3 65535][w][e]
-[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bem, desta vez será diferente,[n]tendo uma data definida[n]para a carta de aviso.[n][f 1 3 65535][w][e]
+[s][bup 0 4 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Bem, desta vez será diferente,[n]tendo uma data definida[n]para a Carta de Aviso.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Esta missão decidirá[n]nosso destino. Não podemos[n]falhar por qualquer motivo.[n][f 1 3 65535][w][e]
 
 [msg MSG_319_0_0 [Ann]]
@@ -1324,7 +1324,7 @@
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 7001 65535 0]Ei, eu estava esperando por você,[n][f 4 2]. Você sabe onde[n]estou chegando, não sabe?[n][f 1 3 65535][w][e]
 
 [msg MSG_321_0_0 [Ryuji]]
-[s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]A investigação acontecerá no dia 20.[n]Falta pouco tempo,[n]ainda temos que enviar a carta de contestação.[n][f 1 3 65535][w][e]
+[s][bup 0 2 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]A investigação acontecerá no dia 20.[n]Falta pouco tempo,[n]ainda temos que enviar a Carta de Aviso.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Então vamos ao Palácio hoje![n]Você concorda comigo, certo?[n][f 1 3 65535][w][e]
 
 [sel SEL_322_0_0 top]
@@ -1440,7 +1440,7 @@
 
 [msg MSG_345_0_0 [Ryuji]]
 [s][bup 0 2 1 2 0][f 4 10 65535 0 0][vp 8 2 0 7005 65535 0]Bom dia![n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]A coletiva de imprensa de Madarame[n]causou alvoroço! Todo mundo está falando[n]sobre a carta de aviso.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]A coletiva de imprensa de Madarame[n]causou alvoroço! Todo mundo está falando[n]sobre a Carta de Aviso.[n][f 1 3 65535][w][e]
 
 [msg MSG_346_0_0 [Ryuji]]
 [s][bup 0 2 1 2 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Hoje todos olham para mim. Talvez eles[n]sintam meu irresistível[n]charme de Phantom Thief?[n][f 1 3 65535][w][e]
@@ -1857,10 +1857,10 @@
 [s][vp 8 0 0 55 65535 0][bup 0 4 0 65535 0][f 4 10 65535 0 0]Mas agora a única coisa que posso fazer[n]é confiar... e esperar.[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 56 65535 0][f 4 10 65535 0 0]...Peço desculpas. Obrigado[n]por ouvir.[n][f 1 3 65535][w][e]
 
-[msg MSG_430_0_0 [Mulher com um quarto]]
+[msg MSG_430_0_0 [Mulher com uma Câmera]]
 [s][bup 0 107 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 16002 65535 0]Ei, é você![n][f 1 3 65535][w][e]
 
-[msg MSG_431_0_0 [Mulher com um quarto]]
+[msg MSG_431_0_0 [Mulher com uma Câmera]]
 [s][vp 8 0 0 0 65535 0][bup 0 107 0 65535 0][f 4 10 65535 0 0]'Dia! Você está indo para a escola?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Estou voltando para casa! O sol[n]da manhã está muito forte...[n][f 1 3 65535][w][e]
 
@@ -1868,11 +1868,11 @@
 [s]Que trabalho você faz?[e]
 [s]Desculpe, você seria...?[e]
 
-[msg MSG_433_0_0 [Mulher com um quarto]]
+[msg MSG_433_0_0 [Mulher com uma Câmera]]
 [s][bup 0 107 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 16036 65535 0]Ichiko Ohya, repórter! Venho[n]de uma noite de muito trabalho. Eu não sou[n]um para relaxar, sabe?[n][f 1 3 65535][w][e]
 [s][bup 0 107 0 65535 0][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Bem, ocupe-se estudando.[n][f 1 3 65535][w][e]
 
-[msg MSG_434_0_0 [Mulher com um quarto]]
+[msg MSG_434_0_0 [Mulher com uma Câmera]]
 [s][bup 0 107 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 16044 65535 0]Ei! Como você esqueceu[n]uma garota adorável como eu?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]Ichiko Ohya. Sou jornalista.[n]entrevistei você na frente[n]da casa do Madarame, lembra?[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 65535 0][f 4 10 65535 0 0]*bocejo* Malditos turnos noturnos...[n]Bem, ocupe-se com seus estudos.[n][f 1 3 65535][w][e]
@@ -2509,7 +2509,7 @@
 [s][bup 0 6 2 65535 0][f 4 10 65535 0 0][vp 8 2 0 2047 65535 0]Aquele banco flutuante[n]realmente reflete[n]a personalidade de Kaneshiro.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Ele voa até aquela altura para que[n]ele não possa ser rastreado...[n]Ele não confia em ninguém.[n][f 1 3 65535][w][e]
 [s][bup 0 6 3 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Isso explica por que a[n]segurança era tão rígida.[n][f 1 3 65535][w][e]
-[s][bup 0 6 2 65535 0][f 4 10 65535 0 0][vp 8 2 0 53306 65535 0]No entanto, tudo o que você precisa fazer é[n]enviar a carta de aviso.[n]Quando você pretende fazê-lo?[n][f 1 3 65535][w][e]
+[s][bup 0 6 2 65535 0][f 4 10 65535 0 0][vp 8 2 0 53306 65535 0]No entanto, tudo o que você precisa fazer é[n]enviar a Carta de Aviso.[n]Quando você pretende fazê-lo?[n][f 1 3 65535][w][e]
 
 [sel SEL_592_0_0 top]
 [s]Envie hoje.[f 2 7 0 1 971 1][e]

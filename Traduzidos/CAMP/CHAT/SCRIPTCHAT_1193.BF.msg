@@ -15,7 +15,7 @@
 [s]Decidir depois[e]
 
 [sel SEL_002 top]
-[s][f 5 14]Nós estamos lá.[e]
+[s][f 5 14]Estou indo pra aí.[e]
 
 [msg MSG_REACTION [Yoshida]]
 [s][f 5 14]Obrigado por[n]sua ajuda constante.[n][f 5 15][w][e]

@@ -32,10 +32,10 @@
 [s][f 5 14]Tenho certeza de que veremos os[n]resultados em breve, apenas tenha um[n]pouco de paciência.[n][w][e]
 
 [msg MSG_011_0_0 [Makoto]]
-[s][f 5 14]Esperamos bem. O mais importante, porém, é[n]que temos exames na esquina...[n][w][e]
+[s][f 5 14]Vamos supor que sim. Mais importante,[n]temos provas chegando...[n][w][e]
 
 [msg MSG_012_0_0 [Haru]]
-[s][f 5 14]Eu acho que eles vêm na hora certa.[n][w][e]
+[s][f 5 14]Eu acho que elas vêm na hora certa.[n][w][e]
 
 [msg MSG_013_0_0 [Haru]]
 [s][f 5 14]Nós passamos por realmente muita coisa[n]ultimamente. Acho que todos estaremos[n]exaustos.[n][w][e]
@@ -44,7 +44,7 @@
 [s][f 5 14]Na verdade, tínhamos muito o que[n]fazer...[n][w][e]
 
 [msg MSG_015_0_0 [Ryuji]]
-[s][f 5 14]Ei, os exames são muito mais cansativos[n]do que todas as coisas que tivemos que[n]fazer...[n][w][e]
+[s][f 5 14]Ei, as provas são muito mais cansativos[n]do que todas as coisas que tivemos que[n]fazer...[n][w][e]
 
 [msg MSG_016_0_0 [Futaba]]
 [s][f 5 14][f 5 15]Boa sorte pessoal![n][w][e]

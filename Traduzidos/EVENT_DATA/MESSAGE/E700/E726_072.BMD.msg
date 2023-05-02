@@ -17,7 +17,7 @@
 
 [sel SEL_005_0_0 top]
 [s]Os casos de rapto.[e]
-[s]Onde você quer ir?[e]
+[s]Onde você quer chegar?[e]
 
 [msg MSG_006_0_0 [Akechi]]
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Exatamente. Também se aplica a casos[n]de criminosos cujo coração[n]despertou repentinamente.[n][f 1 3 65535][w][e]

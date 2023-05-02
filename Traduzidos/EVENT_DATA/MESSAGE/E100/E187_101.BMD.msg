@@ -13,7 +13,7 @@
 [s][vp 8 0 0 0 65535 0]É um escândalo.[n]Eu não pensei que isso poderia[n]acontecer na minha escola...[n][f 1 3 65535][w][e]
 
 [msg MSG_004_0_0 [Estudante de bexiga cheia]]
-[s][vp 8 0 0 0 65535 0]E os Phantom Thieves?[n]Você acha que eles realmente existem? Essa[n]carta de aviso dizia a verdade.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]E os Phantom Thieves?[n]Você acha que eles realmente existem? Essa[n]Carta de Aviso dizia a verdade.[n][f 1 3 65535][w][e]
 
 [msg MSG_005_0_0 [Aluno constantemente atrasado]]
 [s][vp 8 0 0 0 65535 0]Provavelmente alguém descobriu[n]os crimes de Kamoshida e[n]planejou tudo.[n][f 1 3 65535][w][e]

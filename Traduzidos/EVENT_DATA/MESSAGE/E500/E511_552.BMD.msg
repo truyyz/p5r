@@ -22,7 +22,7 @@
 
 [msg MSG_007_0_0 [Akechi]]
 [s][bup 0 9 810 0 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0]Ok, tudo bem, mas não[n]nos atrase também.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Se você for além de suas[n]possibilidades, também colocará em perigo[n]seus companheiros de equipe.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Se você for além de suas[n]capacidades, também colocará em perigo[n]seus companheiros de equipe.[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Futaba]]
 [s][bup 0 8 100 0 0][f 4 10 65535 0 0][vp 8 2 0 9065 65535 0]Inimigos se aproximando![n][f 1 3 65535][w][e]

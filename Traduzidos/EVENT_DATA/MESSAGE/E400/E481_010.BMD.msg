@@ -94,7 +94,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 29 4 0]...Grande limpeza...?[n][f 1 3 65535][w][e]
 
 [msg MSG_027_0_0 [Colegial chamada Yoshizawa]]
-[s][bup 0 10 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 30 4 0]*engole em seco* Olha que horas são![n][f 1 3 65535][w][e]
+[s][bup 0 10 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 30 4 0]*engole seco* Olha que horas são![n][f 1 3 65535][w][e]
 
 [msg MSG_028_0_0 [Colegial chamada Yoshizawa]]
 [s][bup 0 10 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 31 4 0]Me desculpe, eu nem[n]agradeci direito![n][f 1 3 65535][w][e]

@@ -28,7 +28,7 @@
 [s][bup 0 105 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 11 65535 0]Eu sou responsável por este caso[n]mas não tenho permissão nem para um[n]interrogatório!?![n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Voz do diretor da SIU]]
-[s][vp 8 0 0 12 65535 0]Liguei para você porque sabia que[n]desistiria do assunto.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 12 65535 0]Chamei você porque sabia que[n]desistiria do assunto.[n][f 1 3 65535][w][e]
 
 [msg MSG_010_0_0 [Sae]]
 [s][bup 0 105 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 13 65535 0]Não estarei convencida até[n]verificar por mim mesmo.[n][f 1 3 65535][w][e]

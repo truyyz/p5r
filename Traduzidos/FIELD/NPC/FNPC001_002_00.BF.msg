@@ -204,7 +204,7 @@
 [s][f 4 23 1 19 3 10 0 0][vp 8 2 1 0 19 0]Parece que Okumura está[n]inalcançável... Meu marido[n]tem que trabalhar até tarde.[n][w][e]
 
 [msg MSG_TUMAARASOI_012_1_0 [Dona de casa modesta]]
-[s][f 4 23 1 20 3 10 0 0][vp 8 2 1 0 20 0]Bem, os Phantom Thieves[n]enviaram uma carta de aviso.[n]Os executivos vão entrar em pânico.[n][w][e]
+[s][f 4 23 1 20 3 10 0 0][vp 8 2 1 0 20 0]Bem, os Phantom Thieves[n]enviaram uma Carta de Aviso.[n]Os executivos vão entrar em pânico.[n][w][e]
 
 [msg MSG_TUMAARASOI_012_2_0 [Dona de casa arrogante]]
 [s][f 4 23 1 19 3 10 0 0][vp 8 2 1 0 19 0]A polícia tem que[n]agir e prender esses[n]criminosos![n][w][e]
@@ -463,7 +463,7 @@
 [s][f 4 23 1 21 3 10 0 0][vp 8 2 1 0 21 0]Eeeeeee a conversa acabou.[n][w][e]
 
 [msg MSG_TOKAISOMARU_012_1_0 [Mulher encantadora]]
-[s][f 4 23 1 21 3 10 0 0][vp 8 2 1 0 21 0]Eles entregaram uma nova carta[n]de desafio.[n][w][e]
+[s][f 4 23 1 21 3 10 0 0][vp 8 2 1 0 21 0]Eles entregaram uma nova Carta[n]de Aviso.[n][w][e]
 [s][vp 8 2 1 0 21 0]Se o CEO despertar[n]o coração, você acha que os sanduíches[n]ficarão mais baratos?[n][w][e]
 
 [msg MSG_TOKAISOMARU_012_2_0 [Menino do campo]]
@@ -587,14 +587,14 @@
 [s][vp 8 2 1 0 600 0]Aquele...? Meu nome é[n]Mitsumi! Mitsumi Kure![n][w][e]
 
 [msg MSG_quest05_morgana_01 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Eu diria que temos nosso[n]objetivo. Hora de discutir[n]um plano no Hangout![n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Eu diria que temos nosso[n]objetivo. Hora de discutir[n]um plano no Esconderijo![n][w][e]
 
 [msg HELP_MEMENTOS_MISSION_02 [Atualização da missão!]]
 [s][clr 4]Conflito de lembrança[clr 27]"[n]O alvo foi identificado.[n]Discuta os detalhes com a[n]equipe no "[clr 2]esconderijo[clr 27]".[n][w][e]
 
 [msg Quest05_target_01_00 [Mitsumi Kure]]
 [s][vp 8 2 1 0 600 0]É por isso que não suporto[n]quem trabalha nos serviços.[n]Aqui, tenho provas.[n][w][e]
-[s][vp 8 2 1 0 600 0]Encontrei esta[n]mensagem em minha bolsa que parece uma carta[n]de contestação de um crime.[n][w][e]
+[s][vp 8 2 1 0 600 0]Encontrei esta[n]mensagem em minha bolsa que parece uma Carta[n]de Aviso de um crime.[n][w][e]
 [s][vp 8 2 1 0 600 0]Deve ter sido você,[n]você vende essas sacolas![n]exijo um pedido de desculpas![n][w][e]
 
 [msg Quest05_target_02_00 [Mitsumi Kure]]
@@ -628,7 +628,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Parece que encontramos nosso[n]objetivo! Vamos voltar ao esconderijo e[n]discutir com os outros![n][w][e]
 
 [msg Quest09_target_01_00 [Sachiko Kuwaiti]]
-[s][f 4 23 1 601 3 10 0 0][vp 8 2 1 0 601 0]É este?!? Já que no tribunal[n]você não tem esperança, você usa truques[n]como esta carta de aviso?[n][w][e]
+[s][f 4 23 1 601 3 10 0 0][vp 8 2 1 0 601 0]É este?!? Já que no tribunal[n]você não tem esperança, você usa truques[n]como esta Carta de Aviso?[n][w][e]
 
 [msg Quest09_target_01_01 [Homem prestes a processar]]
 [s][f 4 23 1 602 3 10 0 0][vp 8 2 1 0 602 0]O-o quê? N-não, não fui eu![n][w][e]
@@ -639,7 +639,7 @@
 [s][vp 8 2 1 0 601 0]Eu não fiz nada de errado.[n]Eu não sou uma pessoa má![n][w][e]
 
 [msg Quest09_target_sinjyo_01]
-[s][vp 8 2 65535 0 0 0]Parece que a carta de contestação[n]foi entregue com sucesso.[n][w][e]
+[s][vp 8 2 65535 0 0 0]Parece que a Carta de Aviso[n]foi entregue com sucesso.[n][w][e]
 
 [msg Quest09_target_02_00 [Sachiko Kuwaiti]]
 [s][f 4 23 1 601 3 10 0 0][vp 8 2 1 0 601 0]U-Uhm...[n]Por favor, me escute...[n][w][e]
@@ -674,7 +674,7 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Parece que encontramos nosso[n]objetivo! Vamos voltar ao esconderijo e[n]discutir com os outros![n][w][e]
 
 [msg Quest14_target_01_00 [Daichi Nakamura]]
-[s][vp 8 2 1 0 605 0]carta de aviso...?[n]Que diabos é isso?[n][w][e]
+[s][vp 8 2 1 0 605 0]Carta de Aviso...?[n]Que diabos é isso?[n][w][e]
 
 [msg Quest14_target_01_01 [Homem prestes a processar]]
 [s][vp 8 2 1 0 605 0]Foi endereçado a você, então...[n][w][e]
@@ -684,7 +684,7 @@
 [s][vp 8 2 1 0 605 0]Apenas me dê o maldito dinheiro![n][w][e]
 
 [msg Quest14_target_sinjyo_01]
-[s][vp 8 2 65535 0 0 0]Parece que a carta de contestação[n]foi entregue com sucesso.[n][w][e]
+[s][vp 8 2 65535 0 0 0]Parece que a Carta de Aviso[n]foi entregue com sucesso.[n][w][e]
 
 [msg Quest14_target_02_00 [Daichi Nakamura]]
 [s][vp 8 2 1 0 605 0]Mãe, decidi arranjar um emprego de au pair.[n][w][e]
@@ -736,11 +736,11 @@
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Parece que encontramos nosso[n]objetivo! Vamos voltar ao esconderijo e[n]discutir com os outros![n][w][e]
 
 [msg Quest15_target_01_00 [Muneo Horiguchi]]
-[s][f 4 23 1 603 3 10 0 0][vp 8 2 1 0 603 0]Uma carta de aviso...?[n]Outrageous.[n][w][e]
+[s][f 4 23 1 603 3 10 0 0][vp 8 2 1 0 603 0]Uma Carta de Aviso...?[n]Outrageous.[n][w][e]
 [s][vp 8 2 1 0 603 0]Quem é o bandido safado[n]responsável por essa pegadinha[n]estúpida?[n][w][e]
 
 [msg Quest15_target_sinjyo_01]
-[s][vp 8 2 65535 0 0 0]Parece que a carta de contestação[n]foi entregue com sucesso.[n][w][e]
+[s][vp 8 2 65535 0 0 0]Parece que a Carta de Aviso[n]foi entregue com sucesso.[n][w][e]
 
 [msg Quest15_target_02_00 [Muneo Horiguchi]]
 [s][f 4 23 1 603 3 10 0 0][vp 8 2 1 0 603 0]Meu sobrinho se afastou[n]completamente de mim.[n]Ele nem vem me ver.[n][w][e]
@@ -1313,7 +1313,7 @@
 [s][vp 9 2 65535 44255 0 0]Phantom Thieves, hein? Você acredita que[n]eles realmente existem...?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_05_ [Makoto]]
-[s][vp 9 2 65535 40304 0 0]Seria interessante se essa[n]carta de aviso fosse verdadeira...[n][f 1 2 180][e]
+[s][vp 9 2 65535 40304 0 0]Seria interessante se essa[n]Carta de Aviso fosse verdadeira...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_06_ [Makoto]]
 [s][vp 9 2 65535 38455 0 0]É impossível que Phantom[n]Thievess realmente existam...[n][f 1 2 180][e]
@@ -1331,7 +1331,7 @@
 [s][vp 9 2 65535 40355 0 0]Aquele Kaneshiro é um[n]vilão?[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_11_ [Makoto]]
-[s][vp 9 2 65535 42755 0 0]A carta de aviso dos[n]Phantom Thieves? É apenas uma[n]lenda urbana![n][f 1 2 180][e]
+[s][vp 9 2 65535 42755 0 0]A Carta de Aviso dos[n]Phantom Thieves? É apenas uma[n]lenda urbana![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_008_12_ [Makoto]]
 [s][vp 9 2 65535 39005 0 0]Phantom Thieves, hein? Você acredita que[n]eles realmente existem...?[n][f 1 2 180][e]
@@ -1400,7 +1400,7 @@
 [s][vp 9 2 65535 37856 0 0]Viu as notícias?[n]Parece que[n]os Phantom Thieves fizeram isso![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_02_ [Makoto]]
-[s][vp 9 2 65535 41954 0 0]The Phantom Thieves[n]carta de aviso[n]previu tudo...[n][f 1 2 180][e]
+[s][vp 9 2 65535 41954 0 0]The Phantom Thieves[n]Carta de Aviso[n]previu tudo...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_03_ [Makoto]]
 [s][vp 9 2 65535 40954 0 0]Viu as notícias?[n]Parece que[n]os Phantom Thieves fizeram isso![n][f 1 2 180][e]
@@ -1415,7 +1415,7 @@
 [s][vp 9 2 65535 38456 0 0]Esses caras são incríveis![n]Eles estão fazendo um[n]trabalho melhor do que a polícia![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_07_ [Makoto]]
-[s][vp 9 2 65535 45156 0 0]E então aquela[n]carta de aviso não era brincadeira![n][f 1 2 180][e]
+[s][vp 9 2 65535 45156 0 0]E então aquela[n]Carta de Aviso não era brincadeira![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_08_ [Makoto]]
 [s][vp 9 2 65535 39704 0 0]De acordo com relatos da mídia,[n]os Phantom Thieves podem[n]estar envolvidos...[n][f 1 2 180][e]
@@ -1427,7 +1427,7 @@
 [s][vp 9 2 65535 44906 0 0]Esses caras são incríveis![n]Eles estão fazendo um[n]trabalho melhor do que a polícia![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_11_ [Makoto]]
-[s][vp 9 2 65535 44456 0 0]As coisas correram[n]como ele esperava[n]a carta de aviso.[n][f 1 2 180][e]
+[s][vp 9 2 65535 44456 0 0]As coisas correram[n]como ele esperava[n]a Carta de Aviso.[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_12_ [Makoto]]
 [s][vp 9 2 65535 41804 0 0]De acordo com relatos da mídia,[n]os Phantom Thieves podem[n]estar envolvidos...[n][f 1 2 180][e]
@@ -1436,7 +1436,7 @@
 [s][vp 9 2 65535 38756 0 0]Você ouviu sobre isso[n]no noticiário? Parece que[n]os Phantom Thieves fizeram isso![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_14_ [Makoto]]
-[s][vp 9 2 65535 39153 0 0]The Phantom Thieves[n]carta de aviso[n]previu tudo...[n][f 1 2 180][e]
+[s][vp 9 2 65535 39153 0 0]The Phantom Thieves[n]Carta de Aviso[n]previu tudo...[n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_010_15_ [Makoto]]
 [s][vp 9 2 65535 39356 0 0]Você ouviu sobre isso[n]no noticiário? Parece que[n]os Phantom Thieves fizeram isso![n][f 1 2 180][e]
@@ -1781,13 +1781,13 @@
 [s][vp 9 2 65535 39306 0 0]Neste mundo podre,[n]Phantom Thieves[n]farão a diferença![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_018_01_ [Makoto]]
-[s][vp 9 2 65535 42706 0 0]Outra carta de aviso![n]Eu sabia...[n]É para Okumura![n][f 1 2 180][e]
+[s][vp 9 2 65535 42706 0 0]Outra Carta de Aviso![n]Eu sabia...[n]É para Okumura![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_018_02_ [Makoto]]
 [s][vp 9 2 65535 41051 0 0]Okumura está condenado![n]É todo seu, Phantom Thieves![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_018_03_ [Makoto]]
-[s][vp 9 2 65535 44203 0 0]Eu estava esperando ansiosamente que[n]sua carta de aviso fosse enviada![n][f 1 2 180][e]
+[s][vp 9 2 65535 44203 0 0]Eu estava esperando ansiosamente que[n]sua Carta de Aviso fosse enviada![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_018_04_ [Makoto]]
 [s][vp 9 2 65535 41003 0 0]Eu exijo um pedido de desculpas ainda[n]mais sincero do que[n]Madarame![n][f 1 2 180][e]
@@ -1811,7 +1811,7 @@
 [s][vp 9 2 65535 37806 0 0]Isso é tudo que eu esperava,[n]Phantom Thieves![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_018_11_ [Makoto]]
-[s][vp 9 2 65535 43253 0 0]Eu estava ansioso por[n]uma carta de aviso dos Phantom Thieves![n][f 1 2 180][e]
+[s][vp 9 2 65535 43253 0 0]Eu estava ansioso por[n]uma Carta de Aviso dos Phantom Thieves![n][f 1 2 180][e]
 
 [msg MSG_GRT_main_All_018_12_ [Makoto]]
 [s][vp 9 2 65535 39600 0 0]Eu exijo um pedido de desculpas ainda[n]mais sincero do que[n]Madarame![n][f 1 2 180][e]
@@ -3025,7 +3025,7 @@
 [sel SEL_HOMELESS_DAY_005_0_0 top]
 [s]Você está exagerando.[e]
 [s]Sinto muito.[e]
-[s]O que acontece?[e]
+[s]O que aconteceu?[e]
 
 [msg MSG_HOMELESS_DAY_005_1_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]É que tem havido vários[n]assaltos e assédios ultimamente...[n]Aconteceu com alguns amigos meus.[n][w][e]
@@ -3108,15 +3108,15 @@
 [s]Como está a cidade ultimamente?[e]
 
 [msg MSG_HOMELESS_DAY_007_1_0 [Morador de rua]]
-[s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]Vejamos... Você sabe que os Phantom Thieves[n]enviaram uma carta[n]de desafio, certo?[n][w][e]
+[s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]Vejamos... Você sabe que os Phantom Thieves[n]enviaram uma Carta[n]de Aviso, certo?[n][w][e]
 [s][vp 8 2 1 0 30 0]Tenho certeza que a atmosfera[n]vai esquentar bastante[n]por aqui.[n][w][e]
 
 [msg MSG_HOMELESS_DAY_007_2_0 [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]Ah, sim.[n]Você viu?[n][w][e]
-[s][vp 8 2 1 0 30 0]Você já viu a carta de aviso dos Phantom[n]Thieves ? Eles têm uma maneira interessante de[n]se comportar.[n][w][e]
+[s][vp 8 2 1 0 30 0]Você já viu a Carta de Aviso dos Phantom[n]Thieves ? Eles têm uma maneira interessante de[n]se comportar.[n][w][e]
 
 [msg MSG_HOMELESS_DAY_007_3_0 [Morador de rua]]
-[s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]Continuamos falando sobre a[n]carta de aviso enviada[n]pelos Phantom Thieves.[n][w][e]
+[s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]Continuamos falando sobre a[n]Carta de Aviso enviada[n]pelos Phantom Thieves.[n][w][e]
 [s][vp 8 2 1 0 30 0]O submundo se tornou um bando de bandidos.[n]Patético. O que aconteceu com o código de honra[n]deles?[n][w][e]
 
 [msg MSG_HOMELESS_NIGHT_007_0 [Morador de rua]]
@@ -3133,10 +3133,10 @@
 
 [msg MSG_HOMELESS_NIGHT_007_2 [Morador de rua]]
 [s][vp 8 2 1 0 30 0]Por causa daqueles Phantom Thieves[n]agora há mais[n]policiais por aqui.[n][w][e]
-[s][vp 8 2 1 0 30 0]Tsk. Essa maldita[n]carta de aviso está[n]tornando minha vida difícil.[n][w][e]
+[s][vp 8 2 1 0 30 0]Tsk. Essa maldita[n]Carta de Aviso está[n]tornando minha vida difícil.[n][w][e]
 
 [msg MSG_HOMELESS_NIGHT_007_3 [Morador de rua]]
-[s][vp 8 2 1 0 30 0]Desde que os Phantom Thieves[n]enviaram a carta de aviso, o[n]submundo de Shibuya está em crise.[n][w][e]
+[s][vp 8 2 1 0 30 0]Desde que os Phantom Thieves[n]enviaram a Carta de Aviso, o[n]submundo de Shibuya está em crise.[n][w][e]
 [s][vp 8 2 1 0 30 0]Inferno, não é tão ruim assim.[n]Eu vou me divertir fazendo[n]alguns deles... Eheheh.[n][w][e]
 
 [msg MSG_HOMELESS_DAY_008_0_0 [Morador de rua]]
@@ -3316,7 +3316,7 @@
 
 [msg MSG_HOMELESS_NIGHT_012_2 [Morador de rua]]
 [s][vp 8 2 1 0 30 0]Vamos, não faça isso. Olha,[n]tantas[n]coisas interessantes estão acontecendo. Por exemplo...[n][w][e]
-[s][vp 8 2 1 0 30 0]Você ouviu sobre a carta de aviso[n]para aquele bastardo pomposo? Finalmente[n]os Phantom Thieves notaram.[n][w][e]
+[s][vp 8 2 1 0 30 0]Você ouviu sobre a Carta de Aviso[n]para aquele bastardo pomposo? Finalmente[n]os Phantom Thieves notaram.[n][w][e]
 [s][vp 8 2 1 0 30 0]Eles punem os ímpios a quem a lei não pode tocar.[n]Eles são como eu, hahaha![n][w][e]
 
 [msg MSG_HOMELESS_DAY_013_0_0 [Morador de rua]]
@@ -3385,7 +3385,7 @@
 [s][vp 8 2 1 0 31 0]C-claro que não.[n]Eu estaria condenado se ele[n]me visse...[n][w][e]
 
 [msg MSG_quest29_morgana_01 [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Eu diria que temos nosso[n]objetivo. Hora de discutir[n]um plano no Hangout![n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][vp 8 2 65535 0 0 0]Eu diria que temos nosso[n]objetivo. Hora de discutir[n]um plano no Esconderijo![n][w][e]
 
 [msg MSG_YOKOKUJYOU_GET_HIRU [Morador de rua]]
 [s][vp 8 2 1 0 30 0][f 4 23 1 30 5 10 4 10]Yohei Kiritani?[n]Yohei... Há algo sobre[n]esse nome que...[n][w][e]
@@ -3445,7 +3445,7 @@
 
 [sel SEL_HOMELESS_DAY_019_0_0 top]
 [s]Você não se lembra mais?[e]
-[s]O que acontece?[e]
+[s]O que aconteceu?[e]
 [s]Tem certeza?[e]
 
 [msg MSG_HOMELESS_DAY_019_1_0 [Morador de rua]]

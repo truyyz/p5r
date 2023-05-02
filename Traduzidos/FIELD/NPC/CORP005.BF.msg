@@ -179,7 +179,7 @@
 [s][bup 0 103 0 65535 0][f 4 23 1 205 33 10 33 10][f 4 23 1 235 31 10 30 10][vp 8 2 1 5018 65535 0][f 4 10 65535 0 0]Certifique-se de não ficar louco só porque é[n]verão. Se você tiver problemas, acabou, entendeu?[n][w][e]
 
 [msg MSG_SOJIRO_NG_D04_3_01 [Sojiro]]
-[s][bup 0 103 0 65535 0][f 4 23 1 205 33 10 33 10][f 4 23 1 235 31 10 30 10][vp 8 2 1 5028 65535 0][f 4 10 65535 0 0]Sobre o Futaba… Acho que[n]vai demorar. Não se preocupe com ela. Coma normalmente.[n][w][e]
+[s][bup 0 103 0 65535 0][f 4 23 1 205 33 10 33 10][f 4 23 1 235 31 10 30 10][vp 8 2 1 5028 65535 0][f 4 10 65535 0 0]Sobre a Futaba… Acho que[n]vai demorar. Não se preocupe com ela. Coma normalmente.[n][w][e]
 
 [msg MSG_SOJIRO_NG_D04_3_02 [Sojiro]]
 [s][bup 0 103 0 65535 0][f 4 23 1 205 33 10 33 10][f 4 23 1 235 31 10 30 10][vp 8 2 1 5028 65535 0][f 4 10 65535 0 0]Este calor é insuportável.[n]Mas é verão...[n][w][e]
@@ -234,7 +234,7 @@
 [s][bup 0 103 0 65535 0][f 4 23 1 205 33 10 33 10][f 4 23 1 235 31 10 30 10][vp 8 2 1 5028 65535 0][f 4 10 65535 0 0]A TV, os clientes... todo mundo fala[n]sobre os Phantom Thieves.[n]Todos os dias. Eu não aguento mais.[n][w][e]
 
 [msg MSG_SOJIRO_NG_D04_6_03 [Sojiro]]
-[s][bup 0 103 0 65535 0][f 4 23 1 205 33 10 33 10][f 4 23 1 235 31 10 30 10][vp 8 2 1 5019 65535 0][f 4 10 65535 0 0]Como está indo com o Futaba?[n]Vocês se dão bem?[n][w][e]
+[s][bup 0 103 0 65535 0][f 4 23 1 205 33 10 33 10][f 4 23 1 235 31 10 30 10][vp 8 2 1 5019 65535 0][f 4 10 65535 0 0]Como está indo com a Futaba?[n]Vocês se dão bem?[n][w][e]
 
 [msg MSG_SOJIRO_NG_D04_6_04 [Sojiro]]
 [s][bup 0 103 0 65535 0][f 4 23 1 205 33 10 33 10][f 4 23 1 235 31 10 30 10][vp 8 2 1 5007 65535 0][f 4 10 65535 0 0]Não estou com muita fome.[n]Vou comer somen de novo...[n][w][e]
@@ -247,7 +247,7 @@
 [s][bup 0 103 0 65535 0][f 4 23 1 205 33 10 33 10][f 4 23 1 235 31 10 30 10][vp 8 2 1 5081 65535 0][f 4 10 65535 0 0]Ainda faltam seis meses.[n]Mantenha seu bom comportamento, ok?[n][w][e]
 
 [msg MSG_SOJIRO_NG_D05_02 [Sojiro]]
-[s][bup 0 103 0 65535 0][f 4 23 1 205 33 10 33 10][f 4 23 1 235 31 10 30 10][vp 8 2 1 5121 65535 0][f 4 10 65535 0 0]Tente falar com o Futaba, ok?[n]Tenho certeza de que há coisas[n]que ele nunca me contaria.[n][w][e]
+[s][bup 0 103 0 65535 0][f 4 23 1 205 33 10 33 10][f 4 23 1 235 31 10 30 10][vp 8 2 1 5121 65535 0][f 4 10 65535 0 0]Tente falar com a Futaba, ok?[n]Tenho certeza de que há coisas[n]que ele nunca me contaria.[n][w][e]
 
 [msg MSG_SOJIRO_NG_D05_03 [Sojiro]]
 [s][bup 0 103 0 65535 0][f 4 23 1 205 33 10 33 10][f 4 23 1 235 31 10 30 10][vp 8 2 1 5099 65535 0][f 4 10 65535 0 0]Apenas os Phantom[n]Thieves são mencionados. O mundo[n]enlouqueceu...[n][w][e]
@@ -478,7 +478,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Nossa, que dor de cabeça...[n][w][e]
 
 [msg MND_C05_COOP_06_01]
-[s]Sojiro parece preocupado[n]com a questão do tio de[n]futaba...[n][w][e]
+[s]Sojiro parece preocupado[n]com a questão do tio da[n]Futaba...[n][w][e]
 [s]É certo eu me intrometer[n]nos problemas de Sojiro[n]e Futaba...?[n][w][e]
 
 [msg MND_C05_COOP_06_02]
@@ -551,7 +551,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Mas o sabor final dependerá[n]só de você.[n][w][e]
 
 [msg MSG_C05_YES_04_00 [Sojiro]]
-[s][bup 0 103 0 65535 0][f 4 23 1 205 33 10 33 10][f 4 23 1 235 31 10 30 10][f 4 10 65535 0 0][vp 8 2 1 5060 65535 0]Obrigada. Hoje o Futaba[n]também vem comer.[n][w][e]
+[s][bup 0 103 0 65535 0][f 4 23 1 205 33 10 33 10][f 4 23 1 235 31 10 30 10][f 4 10 65535 0 0][vp 8 2 1 5060 65535 0]Obrigada. Hoje a Futaba[n]também vem comer.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Eu preparo o curry.[n]Você cuida do café.[n][w][e]
 
 [msg MSG_C05_YES_05_00 [Sojiro]]

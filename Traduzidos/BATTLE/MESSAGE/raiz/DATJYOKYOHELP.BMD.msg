@@ -632,7 +632,7 @@
 [s][f 0 4 128]Resistência PK estendida![n][e]
 
 [msg jyokyohelp_BADSTATUS_REC]
-[s][f 0 4 128]Doença de status curada![n][e]
+[s][f 0 4 128]Efeito Negativo curado![n][e]
 
 [msg jyokyohelp_KARO_KARA_JUS]
 [s][f 0 4 128]De Caroline para Justine![n][e]
@@ -1457,7 +1457,7 @@
 [s][f 0 4 128]Custos de SP reduzidos com [clr 1][var 2][clr 27]![n][e]
 
 [msg jyokyohelp_TOKUSEI_TYPE__4]
-[s][f 0 4 128]Chances de Doença aumentadas [clr 1][var 2][clr 27]![n][e]
+[s][f 0 4 128]Chances de Efeitos Negativos aumentadas [clr 1][var 2][clr 27]![n][e]
 
 [msg jyokyohelp_TOKUSEI_TYPE__5]
 [s][f 0 4 128]Custos de SP reduzidos com [clr 1][var 2][clr 27]![n][e]
@@ -1574,7 +1574,7 @@
 [s][f 0 4 128]Recuperação de HP aumentada via [clr 1][var 2][clr 27]![n][e]
 
 [msg jyokyohelp_TOKUSEI_TYPE__43]
-[s][f 0 4 128]Doença aumentada via [clr 1][var 2][clr 27]![n][e]
+[s][f 0 4 128]Efeitos Negativos aumentados via [clr 1][var 2][clr 27]![n][e]
 
 [msg jyokyohelp_TOKUSEI_TYPE__44]
 [s][f 0 4 128]Chance de se Queimar aumentada via [clr 1][var 2][clr 27]![n][e]

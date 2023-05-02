@@ -78,7 +78,7 @@
 
 [msg MSG_PHONE_0417_000_00 [A voz de Ryuji]]
 [s][bup 0 2 0 65535 0]Ei, sou eu! Lembrei-me de onde fica a loja de[n]airsoft em Shibuya![n][w][e]
-[s]Estás livre hoje? Vamos ver?[n]Poderíamos ir mais tarde, mas...[n][w][e]
+[s]Você está livre hoje? Vamos ver?[n]Poderíamos ir mais tarde, mas...[n][w][e]
 
 [sel SEL_PHONE_0417_001 top]
 [s]Vou falar com Morgana sobre isso.[e]
@@ -522,7 +522,7 @@
 [s][vp 1 0 0 0 0 0]No mês passado, uma carta semelhante foi[n]descoberta para o suposto molestador Suguru[n]Kamoshida...[n][w][e]
 
 [msg MSG_NIGHT_TV_0606_002_00 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Cartas de desafio enviadas pelos[n]Phantom Thieves... Ah! Eles ainda não[n]viram nada![n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Cartas de Aviso enviadas pelos[n]Phantom Thieves... Ah! Eles ainda não[n]viram nada![n][w][e]
 [s][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Nós apenas temos que ser pacientes até[n]encontrarmos o próximo alvo.[n][w][e]
 [s][f 4 10 65535 0 0][vp 1 0 0 0 0 0]Bem...é tarde.[n]Vamos voltar para a cama.[n][w][e]
 
@@ -995,17 +995,17 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1192 65535 0]Aposto que[n]repórter bêbado está[n]bebendo em Shinjuku de novo…[n][w][e]
 
 [msg MSG_NIGHT_D03_CHIHAYA_01 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1192 65535 0]Aquele vidente famoso deve ser[n]o mesmo que previu Ryuji[n]um terrível infortúnio, certo?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1192 65535 0]Aquela vidente famoso deve ser[n]o mesmo que previu Ryuji[n]um terrível infortúnio, certo?[n][w][e]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0]Ele deve conhecer alguns truques.[n]Talvez devêssemos verificar...[n][w][e]
 
 [msg MSG_NIGHT_D03_CHIHAYA_02 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1166 65535 0]A previsão daquele vidente[n]estava certa, mas 100.000 ienes[n]é muito...[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1166 65535 0]A previsão daquela vidente[n]estava certa, mas 100.000 ienes[n]é muito...[n][w][e]
 
 [msg MSG_NIGHT_D03_CHIHAYA_03 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]O que você vai fazer com o vidente? Ele te vendeu[n]sal-gema por 100.000 ienes, sabia?[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]O que você vai fazer com a vidente? Ele te vendeu[n]sal-gema por 100.000 ienes, sabia?[n][w][e]
 
 [msg MSG_NIGHT_D03_CHIHAYA_04 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]Ei, você não deveria dizer ao vidente que[n]despertou o coração da pessoa abusiva?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]Ei, você não deveria dizer a vidente que[n]despertou o coração da pessoa abusiva?[n][w][e]
 
 [msg MSG_KSM_RANK2_00_00 [Kasumi]]
 [s][bup 0 10 0 65535 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Boa noite, [f 4 1]-senpai.[n]Desculpe pela ligação repentina.[n][f 1 3 65535][w][e]
@@ -1063,7 +1063,7 @@
 [s][f 4 23 1 205 33 10 33 10][f 4 23 1 235 31 10 30 10][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 2 1 5006 65535 0]Em breve serão as férias de verão, certo? A vida[n]de estudante é boa.[n][w][e]
 
 [msg MSG_NIGHT_MYROOM_0720_00 [Morgana]]
-[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 1 1170 65535 0]Primeiro aquele Alibaba e agora[n]uma carta de aviso em branco?[n][w][e]
+[s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 1 1170 65535 0]Primeiro aquele Alibaba e agora[n]uma Carta de Aviso em branco?[n][w][e]
 [s][bup 0 3 5 0 0][f 4 10 65535 0 0]Mas o que está acontecendo?[n][w][e]
 
 [msg MND_NIGHT_MYROOM_0724_00]
@@ -1189,7 +1189,7 @@
 [s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 1 1178 65535 0]Espero que Haru esteja bem...[n][w][e]
 
 [msg MSG_NIGHT_1013_000_00 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1040 65535 0]Eles encontraram uma carta de aviso[n]do diretor?[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1040 65535 0]Eles encontraram uma Carta de Aviso[n]do diretor?[n][w][e]
 [s][f 4 10 65535 0 0]Mas é impossível![n][w][e]
 
 [msg MSG_NIGHT_MASTER_1014_00 [Sojiro]]
@@ -1248,10 +1248,10 @@
 
 [msg MSG_NIGHT_1117_000_00 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1172 65535 0]Amanhã é o grande dia.[n][w][e]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0]Depois de enviar aquela carta[n]de desafio, não há como voltar atrás.[n]Esta noite, conclua seus preparativos.[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0]Depois de enviar aquela Carta[n]de Aviso, não há como voltar atrás.[n]Esta noite, conclua seus preparativos.[n][w][e]
 
 [msg MSG_NIGHT_1117_001_00 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1156 65535 0]Se você não enviar a carta de aviso[n]amanhã, será tarde demais.[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1156 65535 0]Se você não enviar a Carta de Aviso[n]amanhã, será tarde demais.[n][w][e]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0]Vamos entregá-lo amanhã.[n]Conclua os preparativos[n]até hoje à noite, Ok?[n][w][e]
 
 [msg MSG_NIGHT_1118_000_00 [Morgana]]
@@ -1345,7 +1345,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1027 65535 0]...Quê? Você tem algo a dizer?[n][w][e]
 
 [sel MSG_NIGHT_0109_001_00 top]
-[s]Você era um grande cara.[e]
+[s]Você era bastante atraente.[e]
 [s]Você é um gato de novo.[e]
 
 [msg MSG_NIGHT_0109_001_01 [Morgana]]
@@ -1421,24 +1421,24 @@
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]Ei, vamos para o ponto de encontro! Se não[n]decidirmos o que fazer até hoje,[n]atrasaremos o prazo![n][w][e]
 
 [msg MSG_DAYTIME_D01_YOKOKU_0 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1174 65535 0]Uma vez enviada a carta de aviso,[n]não há como voltar atrás.[n]Pense nisso, ok?[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1174 65535 0]Uma vez enviada a Carta de Aviso,[n]não há como voltar atrás.[n]Pense nisso, ok?[n][w][e]
 [s][f 4 10 65535 0 0]Tenho certeza de que Ryuji e[n]Lady Ann também ficarão tensos.[n][w][e]
 [s][f 4 10 65535 0 0]Fale com[n]eles sobre isso, ok?[n][w][e]
 
 [msg MSG_DAYTIME_D01_ACT_001_ [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1174 65535 0]Vamos para a escola![n]Mal posso esperar para Kamoshida[n]ver a carta de aviso.[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1174 65535 0]Vamos para a escola![n]Mal posso esperar para Kamoshida[n]ver a Carta de Aviso.[n][w][e]
 
 [msg MSG_DAYTIME_D01_LV1 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1002 65535 0]Quantos dias até a reunião do conselho?[n]Ah, só [var 0].[n]O que tem hoje?[n][w][e]
 
 [msg MSG_DAYTIME_D01_LV1_YOKO [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1002 65535 0]Quantos dias até a reunião do conselho?[n]Ah, só [var 0].[n]Você não manda a carta de aviso?[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1002 65535 0]Quantos dias até a reunião do conselho?[n]Ah, só [var 0].[n]Você não manda a Carta de Aviso?[n][w][e]
 
 [msg MSG_DAYTIME_D01_LV2 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1002 65535 0]Dias restantes... apenas [var 0].[n]Qual é a programação de hoje?[n][w][e]
 
 [msg MSG_DAYTIME_D01_LV2_YOKO [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1002 65535 0]Quantos dias faltam?[n]Ah, [var 0]. Não[n]envia a carta de aviso?[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1002 65535 0]Quantos dias faltam?[n]Ah, [var 0]. Não[n]envia a Carta de Aviso?[n][w][e]
 
 [msg MSG_DAYTIME_D01_LV3 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1002 65535 0]Faltam dias... apenas [var 0].[n]Se você for chutado, não[n]me culpe, ok?[n][w][e]
@@ -1472,7 +1472,7 @@
 
 [msg MSG_DAYTIME_D01_END_0428 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1170 65535 0]Apenas esperar parece[n]muito chato.[n][w][e]
-[s][f 4 10 65535 0 0]Que tal ir para as gaiolas de rebatidas? Tem um[n]próximo ao supermercado Yongen, certo?[n][w][e]
+[s][f 4 10 65535 0 0]Que tal ir para as Gaiolas de Tênis? Tem um[n]próximo ao supermercado Yongen, certo?[n][w][e]
 
 [msg MSG_DAYTIME_D01_END_0430 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1170 65535 0]Apenas esperar parece[n]muito chato.[n][w][e]
@@ -1527,19 +1527,19 @@
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1002 65535 0]Dias restantes... [var 0].[n]Qual é a programação de hoje?[n][w][e]
 
 [msg MSG_DAYTIME_D02_LV1_YOKO [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1002 65535 0]Dias até o fim do show...[n]Apenas [var 0]. Você não envia[n]a carta de aviso?[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1002 65535 0]Dias até o fim do show...[n]Apenas [var 0]. Você não envia[n]a Carta de Aviso?[n][w][e]
 
 [msg MSG_DAYTIME_D02_LV2 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1002 65535 0]O que você quer fazer hoje? Quantos[n]dias faltam? Ah, [var 0].[n]O tempo voa, você percebe isso?[n][w][e]
 
 [msg MSG_DAYTIME_D02_LV2_YOKO [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1002 65535 0]Quantos dias faltam?[n]Ah, [var 0]. Não[n]envia a carta de aviso?[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1002 65535 0]Quantos dias faltam?[n]Ah, [var 0]. Não[n]envia a Carta de Aviso?[n][w][e]
 
 [msg MSG_DAYTIME_D02_LV3 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1002 65535 0]Dias restantes... apenas [var 0].[n]Se não nos apressarmos,[n]estamos condenados.[n][w][e]
 
 [msg MSG_DAYTIME_D02_LV3_YOKO [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1002 65535 0]Quantos dias faltam? Ah,[n]apenas [var 0]. Você decide[n]enviar a carta de aviso?[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1002 65535 0]Quantos dias faltam? Ah,[n]apenas [var 0]. Você decide[n]enviar a Carta de Aviso?[n][w][e]
 
 [msg MSG_DAYTIME_KAWAKAMI_01 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 53101 65535 0]Ei, algo aconteceu com[n]Kawakami, certo? Algo[n]sobre Chouno...[n][w][e]
@@ -1616,13 +1616,13 @@
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1002 65535 0]O que você quer fazer hoje? Quantos[n]dias faltam? Ah, [var 0].[n]O tempo voa, você percebe isso?[n][w][e]
 
 [msg MSG_DAYTIME_D03_LV2_YOKO [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1002 65535 0]Quantos dias faltam?[n]Ah, [var 0]. Não[n]envia a carta de aviso?[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1002 65535 0]Quantos dias faltam?[n]Ah, [var 0]. Não[n]envia a Carta de Aviso?[n][w][e]
 
 [msg MSG_DAYTIME_D03_LV3 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1002 65535 0]Quantos dias faltam? Ah, só [var 0]. Tem certeza[n]que é hora de relaxar?[n][w][e]
 
 [msg MSG_DAYTIME_D03_LV3_YOKO [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1002 65535 0]Quantos dias faltam? Ah,[n]apenas [var 0]. Você decide[n]enviar a carta de aviso?[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1002 65535 0]Quantos dias faltam? Ah,[n]apenas [var 0]. Você decide[n]enviar a Carta de Aviso?[n][w][e]
 
 [msg MSG_DAYTIME_D04_0711 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]Os exames começam na quarta-feira.[n]Lembre-se de estudar.[n][w][e]
@@ -1658,7 +1658,7 @@
 
 [msg MSG_DAYTIME_D04_0726 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1156 65535 0]Para receber a ajuda de Futaba,[n]precisamos roubar seu tesouro antes[n]da véspera do prazo.[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Devemos encontrar o tesouro até[n][clr 2]18[clr 27] e enviar a carta de aviso[n]até [clr 2]19[clr 27].[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Devemos encontrar o tesouro até[n][clr 2]18[clr 27] e enviar a Carta de Aviso[n]até [clr 2]19[clr 27].[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Você decide quando entrar[n]no Palácio, mas não se esqueça[n]do prazo. Ok, líderes?[n][w][e]
 
 [msg MSG_DAYTIME_D04_0730 [Morgana]]
@@ -1671,19 +1671,19 @@
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1002 65535 0]Dias restantes até Medjed expirar... Mmm, [n][var 0]. Não relaxe porque é verão, ok?[n][w][e]
 
 [msg MSG_DAYTIME_D04_LV1_YOKO [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1002 65535 0]Dias restantes até Medjed expirar... Mmm, [n][var 0]. Você não envia a carta de aviso?[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1002 65535 0]Dias restantes até Medjed expirar... Mmm, [n][var 0]. Você não envia a Carta de Aviso?[n][w][e]
 
 [msg MSG_DAYTIME_D04_LV2 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1002 65535 0]Dias restantes até o vencimento... Ah, [var 0]. O[n]despertar do coração de Futaba é apenas o[n]começo, entendeu?[n][w][e]
 
 [msg MSG_DAYTIME_D04_LV2_YOKO [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1002 65535 0]Dias restantes até o vencimento...[n]Ah, [var 0]. Você não envia[n]a carta de aviso?[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1002 65535 0]Dias restantes até o vencimento...[n]Ah, [var 0]. Você não envia[n]a Carta de Aviso?[n][w][e]
 
 [msg MSG_DAYTIME_D04_LV3 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1002 65535 0]Quantos dias faltam? Ah, só [var 0]. Tem certeza[n]que é hora de relaxar?[n][w][e]
 
 [msg MSG_DAYTIME_D04_LV3_YOKO [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1002 65535 0]Quantos dias faltam? Ah,[n]apenas [var 0]. Você decide[n]enviar a carta de aviso?[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1002 65535 0]Quantos dias faltam? Ah,[n]apenas [var 0]. Você decide[n]enviar a Carta de Aviso?[n][w][e]
 
 [msg MSG_DAYTIME_HEATISLAND [Morgana]]
 [s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 1 1016 65535 0]Droga, está quente...[n][w][e]
@@ -1707,26 +1707,26 @@
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1176 65535 0]Eu sei que você está empolgado com a viagem, mas[n]não está se empolgando?[n][w][e]
 
 [msg MSG_DAYTIME_D05_0919 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1172 65535 0]As pessoas se perguntam quando[n]a próxima carta[n]de desafio aparecerá. Devemos enviar em breve.[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1172 65535 0]As pessoas se perguntam quando[n]a próxima Carta[n]de Aviso aparecerá. Devemos enviar em breve.[n][w][e]
 [s][f 4 10 65535 0 0]Se Haru fosse vendido,[n]os Phantom Thieves não[n]sobreviveriam.[n][w][e]
 
 [msg MSG_DAYTIME_D05_LV1 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1002 65535 0][var 0]dias restantes...[n]Sem tempo para relaxar, sabe?[n][w][e]
 
 [msg MSG_DAYTIME_D05_LV1_YOKO [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1002 65535 0]Quantos dias faltam?[n]Ah, [var 0]. Não[n]envia a carta de aviso?[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1002 65535 0]Quantos dias faltam?[n]Ah, [var 0]. Não[n]envia a Carta de Aviso?[n][w][e]
 
 [msg MSG_DAYTIME_D05_LV2 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1002 65535 0]Quantos dias faltam? Ah, só [var 0]. Tem certeza[n]que é hora de relaxar?[n][w][e]
 
 [msg MSG_DAYTIME_D05_LV2_YOKO [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1002 65535 0]Quantos dias faltam?[n]Ah, [var 0]. Não[n]envia a carta de aviso?[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1002 65535 0]Quantos dias faltam?[n]Ah, [var 0]. Não[n]envia a Carta de Aviso?[n][w][e]
 
 [msg MSG_DAYTIME_D05_LV3 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1002 65535 0]Quantos dias faltam?[n]Ah, só [var 0]. Tem certeza de que[n]tudo vai ficar bem?[n][w][e]
 
 [msg MSG_DAYTIME_D05_LV3_YOKO [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1002 65535 0]Quantos dias faltam? Ah, só [var 0].[n]Vamos enviar a carta de aviso,[n]ou será tarde demais.[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1002 65535 0]Quantos dias faltam? Ah, só [var 0].[n]Vamos enviar a Carta de Aviso,[n]ou será tarde demais.[n][w][e]
 
 [msg MSG_DAYTIME_D05_CLEAR_NE [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1172 65535 0]E agora, como sempre, esperamos.[n][w][e]
@@ -1754,26 +1754,26 @@
 [s][f 4 10 65535 0 0]Ok, vamos reunir os outros![n][w][e]
 
 [msg MSG_DAYTIME_D06_1117 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]Sabe, se não enviarmos a[n]carta de aviso amanhã, será[n]tarde demais, certo?[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]Sabe, se não enviarmos a[n]Carta de Aviso amanhã, será[n]tarde demais, certo?[n][w][e]
 [s][f 4 10 65535 0 0]Devemos descobrir onde está o Tesouro[n]hoje, custe o que custar.[n][w][e]
 
 [msg MSG_DAYTIME_D06_LV1 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1002 65535 0][var 0]dias restantes...[n]Sem tempo para relaxar, sabe?[n][w][e]
 
 [msg MSG_DAYTIME_D06_LV1_YOKO [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1002 65535 0]Quantos dias faltam?[n]Ah, [var 0]. Não[n]envia a carta de aviso?[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1002 65535 0]Quantos dias faltam?[n]Ah, [var 0]. Não[n]envia a Carta de Aviso?[n][w][e]
 
 [msg MSG_DAYTIME_D06_LV2 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1002 65535 0]Quantos dias faltam? Ah, só [var 0]. Tem certeza[n]que é hora de relaxar?[n][w][e]
 
 [msg MSG_DAYTIME_D06_LV2_YOKO [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1002 65535 0]Quantos dias faltam?[n]Ah, [var 0]. Não[n]envia a carta de aviso?[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1002 65535 0]Quantos dias faltam?[n]Ah, [var 0]. Não[n]envia a Carta de Aviso?[n][w][e]
 
 [msg MSG_DAYTIME_D06_LV3 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1002 65535 0]Quantos dias faltam? Ah, só [var 0]. Tem certeza[n]que é hora de relaxar?[n][w][e]
 
 [msg MSG_DAYTIME_D06_LV3_YOKO [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1002 65535 0]Quantos dias faltam?[n]Ah, só [var 0]. O que você quer fazer[n]sobre a carta de aviso?[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1002 65535 0]Quantos dias faltam?[n]Ah, só [var 0]. O que você quer fazer[n]sobre a Carta de Aviso?[n][w][e]
 
 [msg MSG_DAYTIME_D06_LOCK_111 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1027 65535 0]Sabe, não resta muito tempo.[n]Que tal ir ao Palácio?[n][w][e]
@@ -1788,16 +1788,16 @@
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1178 65535 0]Não exploramos o suficiente! Temos que nos[n]encontrar no ponto de encontro, ou não teremos[n]tempo suficiente![n][w][e]
 
 [msg MSG_DAYTIME_D06_LV1_WAIT [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1002 65535 0][var 0]dias até que a[n]carta de aviso seja enviada...[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1002 65535 0][var 0]dias até que a[n]Carta de Aviso seja enviada...[n][w][e]
 
 [msg MSG_DAYTIME_D06_LV2_WAIT [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1002 65535 0]Temos que enviar a[n]carta desafio dia 18. Vamos ver quantos[n]dias faltam... Só [var 0].[n][w][e]
 
 [msg MSG_DAYTIME_D06_LV3_WAIT [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1002 65535 0]Quantos dias até[n]carta de aviso ser enviada? [var 0]?[n]Bem, vamos nos preparar.[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1002 65535 0]Quantos dias até[n]Carta de Aviso ser enviada? [var 0]?[n]Bem, vamos nos preparar.[n][w][e]
 
 [msg MSG_DAYTIME_D06_YOKOKU_O [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1002 65535 0]Tudo bem, vamos enviar a[n]carta de aviso.[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1002 65535 0]Tudo bem, vamos enviar a[n]Carta de Aviso.[n][w][e]
 
 [msg MSG_HOUKAGO_MASTER_1122_ [Sojiro]]
 [s][bup 0 103 0 0 0][f 4 10 65535 0 0][vp 8 0 1 1 65535 0]Você sai?[n][w][e]
@@ -1838,19 +1838,19 @@
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1002 65535 0][var 0]dias restantes...[n]Sem tempo para relaxar, sabe?[n][w][e]
 
 [msg MSG_DAYTIME_D07_LV1_YOKO [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1002 65535 0]Quantos dias faltam?[n]Ah, [var 0]. Não[n]envia a carta de aviso?[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1002 65535 0]Quantos dias faltam?[n]Ah, [var 0]. Não[n]envia a Carta de Aviso?[n][w][e]
 
 [msg MSG_DAYTIME_D07_LV2 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1002 65535 0]Quantos dias faltam? Ah, só [var 0]. Tem certeza[n]que é hora de relaxar?[n][w][e]
 
 [msg MSG_DAYTIME_D07_LV2_YOKO [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1002 65535 0]Quantos dias faltam?[n]Ah, [var 0]. Não[n]envia a carta de aviso?[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1002 65535 0]Quantos dias faltam?[n]Ah, [var 0]. Não[n]envia a Carta de Aviso?[n][w][e]
 
 [msg MSG_DAYTIME_D07_LV3 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1002 65535 0]Quantos dias faltam?[n]Ah, só [var 0].[n][w][e]
 
 [msg MSG_DAYTIME_D07_LV3_YOKO [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1002 65535 0]Quantos dias faltam?[n]Ah, só [var 0]. O que você quer fazer[n]sobre a carta de aviso?[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1002 65535 0]Quantos dias faltam?[n]Ah, só [var 0]. O que você quer fazer[n]sobre a Carta de Aviso?[n][w][e]
 
 [msg MSG_DAYTIME_D08_1222 [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1172 65535 0]Não baixe a guarda[n]até que Shido seja indiciado.[n]E mantenha-se discreto.[n][w][e]
@@ -2067,7 +2067,7 @@
 [s]Eu vou esperar por você. Na minha barraca de[n]Shinjuku, é claro![n][w][e]
 
 [msg MSG_010_5_0 [Chihaya]]
-[s][f 5 14]Estás livre hoje? Eu gostaria[n]tanto de ver você.[n][w][e]
+[s][f 5 14]Você está livre hoje? Eu gostaria[n]tanto de ver você.[n][w][e]
 [s]Também quero falar sobre minhas[n]previsões, então...[n][w][e]
 [s]Aguardo vocês no meu estande![n][w][e]
 
@@ -2572,7 +2572,7 @@
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1176 65535 0]O prazo está quase chegando![n]Você entende isso, não é?[n][w][e]
 
 [msg MSG_NIGHT_MYROOM_001_02 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1176 65535 0]Se você não enviar a carta de aviso[n]amanhã, será tarde demais.[n]Você entendeu?[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1176 65535 0]Se você não enviar a Carta de Aviso[n]amanhã, será tarde demais.[n]Você entendeu?[n][w][e]
 
 [msg MSG_NIGHT_MYROOM_001_03 [Morgana]]
 [s][bup 0 3 5 0 0][f 4 10 65535 0 0][vp 8 2 1 1178 65535 0]*suspiro* Já é tarde...[n]O que você estava fazendo...[n][w][e]
@@ -2583,7 +2583,7 @@
 
 [msg MSG_NIGHT_GAMEOVER_DUNGE [Morgana]]
 [s][bup 0 3 4 0 0][f 4 10 65535 0 0][vp 8 2 1 1179 65535 0]Ah![n][w][e]
-[s][bup 0 3 7 0 0][f 4 10 65535 0 0]Ei... Não era para nos[n]encontrarmos na reunião para enviar[n]a carta de aviso?[n][w][e]
+[s][bup 0 3 7 0 0][f 4 10 65535 0 0]Ei... Não era para nos[n]encontrarmos na reunião para enviar[n]a Carta de Aviso?[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 1027 65535 0]......[n][w][e]
 
 [sel SEL_NIGHT_GAMEOVER_DUNGE top]
@@ -2592,7 +2592,7 @@
 
 [msg MSG_NIGHT_GAMEOVER_DUNGE_2 [Morgana]]
 [s][bup 0 3 7 0 0][f 4 10 65535 0 0][vp 8 2 1 1044 65535 0]Agora que penso nisso,[n]não há tempo...[n][w][e]
-[s][f 4 10 65535 0 0]Cartas de desafio certamente não podem ser[n]improvisadas...[n][w][e]
+[s][f 4 10 65535 0 0]Cartas de Aviso certamente não podem ser[n]improvisadas...[n][w][e]
 [s][f 4 10 65535 0 0]É minha culpa. Não tenho sido[n]confiável... me desculpe, [f 4 2].[n][w][e]
 
 [msg MSG_NIGHT_GAMEOVER_YOKOK [Morgana]]
@@ -2605,7 +2605,7 @@
 [s]Sim, exatamente.[e]
 
 [msg MSG_NIGHT_GAMEOVER_YOKOK_2 [Morgana]]
-[s][bup 0 3 7 0 0][f 4 10 65535 0 0][vp 8 2 1 1044 65535 0]Há tempo suficiente para[n]enviar a carta de aviso?[n][w][e]
+[s][bup 0 3 7 0 0][f 4 10 65535 0 0][vp 8 2 1 1044 65535 0]Há tempo suficiente para[n]enviar a Carta de Aviso?[n][w][e]
 [s][f 4 10 65535 0 0]Argh... eu deveria ter sido[n]cuidadoso... me desculpe, [f 4 2]...[n][w][e]
 
 [msg MSG_DAYTIME_000_00 [Morgana]]
@@ -2624,10 +2624,10 @@
 [s][bup 0 3 3 0 0][f 4 10 65535 0 0][vp 8 2 1 1032 65535 0]Não é apenas sua culpa... Eu também[n]deveria ter sido mais[n]confiável... Me desculpe...[n][w][e]
 
 [msg MSG_DAYTIME_005_00 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1044 65535 0]Só falta mandar a carta[n]de desafio... Vamos logo, hein?[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1044 65535 0]Só falta mandar a Carta[n]de Aviso... Vamos logo, hein?[n][w][e]
 
 [msg MSG_DAYTIME_006_00 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1027 65535 0]Temos que enviar a carta de[n]desafio, ou teremos problemas! Vamos[n]para a reunião estudar um plano![n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1027 65535 0]Temos que enviar a Carta de[n]Aviso, ou teremos problemas! Vamos[n]para a reunião estudar um plano![n][w][e]
 
 [msg MSG_DAYTIME_007_00 [Morgana]]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1027 65535 0]O prazo está próximo! Devemos[n]nos apressar...![n][w][e]
@@ -2673,7 +2673,7 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1186 65535 0]Não se envolva muito em[n]coisas. Talvez uma visita ao templo[n]ajude a clarear sua cabeça.[n][w][e]
 
 [msg MSG_Info_Term3_Batting [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1027 65535 0]Você parece cansado... Você quer[n]descarregar-se nas[n]gaiolas de rebatidas?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1027 65535 0]Você parece cansado... Você quer[n]descarregar-se nas[n]Gaiolas de Tênis?[n][w][e]
 
 [msg MSG_Info_Term3_OldCloth [Morgana]]
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1187 65535 0]Ah sim. Você ainda usa[n]roupas usadas. Que tal[n]vendê-los para Kichijoji?[n][w][e]
@@ -2751,7 +2751,7 @@
 [s]Estamos todos prontos?[e]
 
 [msg D03_YOKOKU_DAY_mes01 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 23 1 3 3 5 11 5][vp 1 0 0 1 0 0][f 4 10 65535 0 0]A carta de aviso foi[n]posta por toda Shibuya...[n][w][e]
+[s][bup 0 3 2 0 0][f 4 23 1 3 3 5 11 5][vp 1 0 0 1 0 0][f 4 10 65535 0 0]A Carta de Aviso foi[n]posta por toda Shibuya...[n][w][e]
 
 [msg D03_YOKOKU_DAY_mes02 [Makoto]]
 [s][bup 0 6 2 65535 0][f 4 23 1 6 3 5 11 5][f 4 10 65535 0 0][vp 1 0 0 2 0 0]Uma boa ideia, não é?[n][w][e]
@@ -2791,7 +2791,7 @@
 [s][bup 0 7 2 65535 0][f 4 23 1 7 3 5 11 5][f 4 10 65535 0 0][vp 1 0 0 1 0 0]Hoje é o grande dia.[n]Vocês estão prontos?[n][w][e]
 
 [msg D06_YOKOKU_DAY_mes02 [Akechi]]
-[s][bup 0 9 0 65535 0][f 4 23 1 9 3 5 11 5][f 4 10 65535 0 0][vp 1 0 0 2 0 0]Makoto, a carta de aviso?[n][w][e]
+[s][bup 0 9 0 65535 0][f 4 23 1 9 3 5 11 5][f 4 10 65535 0 0][vp 1 0 0 2 0 0]Makoto, a Carta de Aviso?[n][w][e]
 
 [msg D06_YOKOKU_DAY_mes03 [Makoto]]
 [s][bup 0 6 0 65535 0][f 4 23 1 6 3 5 11 5][f 4 10 65535 0 0][vp 1 0 0 3 0 0]Eu mostrei para minha irmã...[n]Ela pegou de minhas próprias mãos...[n][w][e]

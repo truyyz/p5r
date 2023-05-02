@@ -40,11 +40,11 @@
 [s]......[n][w][e]
 
 [msg MND_HERO_WEAK2]
-[s]É difícil dizer se devo[n]preparar mais ou enviar[n]imediatamente a carta de aviso.[n][w][e]
+[s]É difícil dizer se devo[n]preparar mais ou enviar[n]imediatamente a Carta de Aviso.[n][w][e]
 [s]......[n][w][e]
 
 [msg MND_HERO_STRONG]
-[s]Sinto que me tornei mais forte. Devo enviar a[n]carta de aviso em breve...[n][w][e]
+[s]Sinto que me tornei mais forte. Devo enviar a[n]Carta de Aviso em breve...[n][w][e]
 [s]......[n][w][e]
 
 [msg MND_HERO_BANDIT]

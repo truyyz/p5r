@@ -88,7 +88,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 0 6157 65535 0]Ei, talvez eu possa fazer para você uma roupa[n]estilo Harajuku?[n][f 1 3 65535][w][e]
 
 [msg MSG_022_5_0 [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Uau, isso parece engraçado.[n][f 1 3 65535][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Uau, isso parece divertido.[n][f 1 3 65535][w][e]
 
 [msg MSG_023_0_0 [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 0 65535 0][f 5 13 8 5 2]Você está com tanto medo?!?[n][f 1 3 65535][w][e]
@@ -98,7 +98,7 @@
 [s][vp 8 0 0 0 65535 0]Ei, talvez eu possa fazer para você uma roupa[n]estilo Harajuku?[n][f 1 3 65535][w][e]
 
 [msg MSG_024_5_0 [Ryuji]]
-[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Uau, isso parece engraçado.[n][f 1 3 65535][w][e]
+[s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Uau, isso parece divertido.[n][f 1 3 65535][w][e]
 
 [msg MSG_025_0_0 [Ryuji]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 0 7045 65535 0][f 5 13 8 15 2]Sério?!? Podemos passar o[n]dia inteiro transformando você![n][f 1 3 65535][w][e]

@@ -2,7 +2,7 @@
 [s][vp 8 0 0 0 65535 0]Quem pode ser a esta hora...?[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Shinya]]
-[s][f 5 14]Mostrei à mãe a carta[n]de desafio. Eu estava um pouco assustado.[n][w][e]
+[s][f 5 14]Mostrei à mãe a Carta[n]de Aviso. Eu estava um pouco assustado.[n][w][e]
 [s]Avise os Phantom Thieves.[n][w][e]
 
 [msg MSG_002_0_0 [Yoshida]]

@@ -3,7 +3,7 @@
 [s]Esqueça.[e]
 
 [msg FCL_MSG_COMBINE_CONFIRM [Igor]]
-[s]Tem certeza de que esta[n]pessoa é aceitável?[n][w][e]
+[s]Você considera esta Persona aceitável?[n][w][e]
 
 [msg FCL_MSG_COMBINE_OVER_LEV [Igor]]
 [s]Você não parece ter nível[n]alto o suficiente para[n]criar esta Persona.[n][w][e]
@@ -47,7 +47,7 @@
 [s]...だが、[var 0]コープは[n]まだ生まれていなかった...[n][w][e]
 
 [msg FCL_MSG_COMBINE_GET_CARD]
-[s]A pessoa [clr 1][var 0][clr 27][n]nasceu![n][w][e]
+[s]A Persona [clr 1][var 0][clr 27][n]nasceu![n][w][e]
 
 [msg FCL_MSG_COMBINE_ACCIDENT [Igor]]
 [s]Oh? Parece que a fusão não foi conforme o planejado…[n][w][e]
@@ -61,14 +61,14 @@
 [s]O que você vai fazer?[n][w][e]
 
 [msg FCL_MSG_COMBINE_SKILL_EV_2]
-[s]Pessoa [var 0] evoluiu[n]para [var 1]![n][w][e]
+[s]Persona [var 0] evoluiu[n]para [var 1]![n][w][e]
 
 [msg FCL_MSG_COMBINE_SKILL_CH [Igor]]
 [s]Hmm... Parece que [var 0] quer[n]se transformar em outra coisa.[n][w][e]
 [s]... O que você vai fazer?[n][w][e]
 
 [msg FCL_MSG_COMBINE_SKILL_CH_2]
-[s]A pessoa [var 0] se transformou[n]em [var 1]![n][w][e]
+[s]A Persona [var 0] se transformou[n]em [var 1]![n][w][e]
 
 [msg FCL_MSG_COMBINE_GALL_SKI]
 [s]Sua Persona está herdando[n]o poder do sacrifício...[n][w][e]
@@ -77,7 +77,7 @@
 [s]Oh? Aparentemente, sua Persona[n]não ganhou experiência, mas[n]seu poder parece ter aumentado...[n][w][e]
 
 [sel FCL_MSG_COMBINE_SKILL_EV_3 top]
-[s]Vamos fazê-lo.[e]
+[s]Vamos fazer isso.[e]
 [s]Está bem do jeito que está.[e]
 
 [msg FCL_MSG_COMBINE_BONUS [Igor]]
@@ -99,7 +99,7 @@
 [s]Isso não importa.[e]
 
 [msg FCL_MSG_COMBINE_CELL_CON [Caroline]]
-[s]Tem certeza de que esta[n]pessoa é aceitável?[n][w][e]
+[s]Você considera esta Persona aceitável?[n][w][e]
 
 [msg FCL_MSG_COMBINE_CELL_STO [Caroline]]
 [s][bup 0 102 0 0 0][f 4 10 65535 0 0]Hã? Você só tem uma Pessoa com você.[n][w][e]
@@ -285,44 +285,44 @@
 
 [msg combine_comu_rank_01 [Igor]]
 [s]Seu vínculo com o Confidant[n]é de nível 1.[n]Ele receberá novos poderes?[n][w][e]
-[s]Tem certeza de que esta[n]pessoa é aceitável?[n][w][e]
+[s]Você considera esta Persona aceitável?[n][w][e]
 
 [msg combine_comu_rank_02 [Igor]]
 [s]Seu vínculo com o Confidant[n]é nível 2.[n]Você deve ver os benefícios...[n][w][e]
-[s]Tem certeza de que esta[n]pessoa é aceitável?[n][w][e]
+[s]Você considera esta Persona aceitável?[n][w][e]
 
 [msg combine_comu_rank_03 [Igor]]
 [s]Seu vínculo com o Confidant[n]é nível 3.[n]Você deve ver os benefícios...[n][w][e]
-[s]Tem certeza de que esta[n]pessoa é aceitável?[n][w][e]
+[s]Você considera esta Persona aceitável?[n][w][e]
 
 [msg combine_comu_rank_04 [Igor]]
 [s]Seu vínculo com o Confidant[n]é Rank 4.[n]Ele ganhará poder substancial...[n][w][e]
-[s]Tem certeza de que esta[n]pessoa é aceitável?[n][w][e]
+[s]Você considera esta Persona aceitável?[n][w][e]
 
 [msg combine_comu_rank_05 [Igor]]
 [s]Seu vínculo com o Confidant[n]é Rank 5.[n]Ele ganhará grande poder...[n][w][e]
-[s]Tem certeza de que esta[n]pessoa é aceitável?[n][w][e]
+[s]Você considera esta Persona aceitável?[n][w][e]
 
 [msg combine_comu_rank_06 [Igor]]
 [s]Seu vínculo com o Confidant[n]é de nível 6.[n]Ele ganhará um poder considerável...[n][w][e]
-[s]Tem certeza de que esta[n]pessoa é aceitável?[n][w][e]
+[s]Você considera esta Persona aceitável?[n][w][e]
 
 [msg combine_comu_rank_07 [Igor]]
 [s]Seu vínculo com o Confidant[n]é nível 7.[n]Ele ganhará um poder enorme...[n][w][e]
-[s]Tem certeza de que esta[n]pessoa é aceitável?[n][w][e]
+[s]Você considera esta Persona aceitável?[n][w][e]
 
 [msg combine_comu_rank_08 [Igor]]
 [s]Seu vínculo com o Confidant[n]é de nível 8.[n]Ele acumulará um poder excepcional.[n][w][e]
-[s]Tem certeza de que esta[n]pessoa é aceitável?[n][w][e]
+[s]Você considera esta Persona aceitável?[n][w][e]
 
 [msg combine_comu_rank_09 [Igor]]
 [s]Seu vínculo com o Confidant[n]é de nível 9.[n]Ele acumulará um poder incontrolável.[n][w][e]
-[s]Tem certeza de que esta[n]pessoa é aceitável?[n][w][e]
+[s]Você considera esta Persona aceitável?[n][w][e]
 
 [msg combine_comu_rank_10 [Igor]]
 [s]Seu vínculo com o Confidant[n]é de nível 10.[n][w][e]
 [s]Mmm, não há dúvida sobre isso.[n]Essa fusão liberará[n]poder imensurável.[n][w][e]
-[s]Tem certeza de que esta[n]pessoa é aceitável?[n][w][e]
+[s]Você considera esta Persona aceitável?[n][w][e]
 
 [msg combine_comu_rank_s00 [Igor]]
 [s]Parece que você ainda não[n]estabeleceu um vínculo com o[n]Confidente da Arcana: [var 0][n][w][e]
@@ -367,18 +367,18 @@
 [msg combine_comu_rank_s10 [Igor]]
 [s]Seu vínculo com o Confidant[n]é de nível 10.[n][w][e]
 [s]Mmm, não há dúvida sobre isso.[n]Essa fusão liberará[n]poder imensurável.[n][w][e]
-[s]Tem certeza de que esta[n]pessoa é aceitável?[n][w][e]
+[s]Você considera esta Persona aceitável?[n][w][e]
 
 [msg combine_comu_doubt [Igor]]
 [s]"[var 0]" doubt (not used)[n][w][e]
-[s]Tem certeza de que esta[n]pessoa é aceitável?[n][w][e]
+[s]Você considera esta Persona aceitável?[n][w][e]
 
 [msg combine_comu_broken [Igor]]
 [s]"[var 0]" broken (not used)[n][w][e]
-[s]Tem certeza de que esta[n]pessoa é aceitável?[n][w][e]
+[s]Você considera esta Persona aceitável?[n][w][e]
 
 [msg combine_comu_world [Igor]]
-[s]Tem certeza de que esta[n]pessoa é aceitável?[n][w][e]
+[s]Você considera esta Persona aceitável?[n][w][e]
 
 [msg msg_combine_HELP000 [Igor]]
 [s][bup 0 201 0 0 0][f 4 10 65535 0 0]Nosso recurso definitivo para você é[n]Personal Fusion…[n][w][e]
@@ -553,7 +553,7 @@
 [s]Eu só vou te pedir [clr 3][var 0][clr 27] ienes e,[n]em troca, farei o ritual...[n]O que você acha?[n][w][e]
 
 [sel combine_conquest_sel top]
-[s]Vamos fazê-lo.[e]
+[s]Vamos fazer isso.[e]
 [s]Esqueça.[e]
 
 [msg combine_book_high_questi [Justine]]
@@ -561,7 +561,7 @@
 [s]Eu a convocarei por um custo de [clr 3][var 0][clr 27][n]ienes. O que você deseja fazer?[n][w][e]
 
 [sel combine_book_high_sel top]
-[s]Vamos fazê-lo.[e]
+[s]Vamos fazer isso.[e]
 [s]Esqueça.[e]
 
 [msg FCL_MSG_COMBINE_WARNING_ [Caroline]]
@@ -602,7 +602,7 @@
 [s]Você pode se conectar à rede e[n]mesclar Personas por meio de[n]correspondência aleatória.[n][w][e]
 
 [msg msg_combine_kousyu_a6 [Caroline]]
-[s]Ao sacrificar vários Personas para um único[n]Persona, você pode aumentar suas estatísticas.[n][w][e]
+[s]Ao sacrificar várias Personas para um único[n]Persona, você pode aumentar suas estatísticas.[n][w][e]
 
 [msg msg_combine_denki_a6 [Caroline]]
 [s]Você só pode executar um Persona[n]e depois transformá-lo em um objeto.[n][w][e]

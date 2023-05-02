@@ -6,7 +6,7 @@
 
 [msg MSG_C04_BEGIN_D02_50_00 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 23 1 204 3 10 0 10][vp 8 2 1 4001 65535 0]Se roubarmos o Tesouro de Madarame,[n]seu coração vai despertar, certo?[n][w][e]
-[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Vamos enviar a[n]carta de aviso hoje?[n][w][e]
+[s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Vamos enviar a[n]Carta de Aviso hoje?[n][w][e]
 
 [sel SEL_C04_ACTION_D02_00_00 top]
 [s]É claro.[e]
@@ -98,7 +98,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Acho que é hora de encontrar uma[n]rota de infiltração.[n]Entramos no palácio hoje?[n][w][e]
 
 [msg MSG_C04_BEGIN_D00_50_00 [Yusuke]]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 23 1 204 3 10 0 12][vp 8 2 1 4127 65535 0]Finalmente chegamos ao Tesouro. Vamos enviar a[n]carta de aviso hoje?[n][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 23 1 204 3 10 0 12][vp 8 2 1 4127 65535 0]Finalmente chegamos ao Tesouro. Vamos enviar a[n]Carta de Aviso hoje?[n][w][e]
 
 [sel SEL_C04_ACTION_D00_99_00 top]
 [s]É claro.[e]
@@ -115,7 +115,7 @@
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 23 1 204 3 10 0 10][vp 8 2 1 4037 65535 0]O prazo está se aproximando rapidamente.[n]Vamos nos apressar e encontrar o caminho.[n][w][e]
 
 [msg MSG_C04_ACTION_D00_51_00 [Yusuke]]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 23 1 204 3 10 0 10][vp 8 2 1 4045 65535 0]Chegamos ao local onde o Tesouro é[n]guardado. Enviamos a[n]carta de aviso o mais rápido possível.[n][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 23 1 204 3 10 0 10][vp 8 2 1 4045 65535 0]Chegamos ao local onde o Tesouro é[n]guardado. Enviamos a[n]Carta de Aviso o mais rápido possível.[n][w][e]
 
 [msg MSG_C04_BEGIN_D00_60_00 [Yusuke]]
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 23 1 204 3 10 0 13][vp 8 2 1 4129 65535 0]Agora é só esperar.[n]É estressante....[n][w][e]
@@ -196,7 +196,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Vamos para o Metaverso hoje?[n][w][e]
 
 [msg MSG_C04_BEGIN_D07_50_00 [Yusuke]]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 23 1 204 3 10 0 10][vp 8 2 1 4045 65535 0]Assim que a carta de aviso for entregue,[n]podemos acabar com tudo isso. Vamos para o[n]Metaverso hoje?[n][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 23 1 204 3 10 0 10][vp 8 2 1 4045 65535 0]Assim que a Carta de Aviso for entregue,[n]podemos acabar com tudo isso. Vamos para o[n]Metaverso hoje?[n][w][e]
 
 [sel SEL_C04_ACTION_D07_99_00 top]
 [s]É claro.[e]
@@ -448,7 +448,7 @@
 [s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 23 1 204 3 10 0 10][vp 8 2 1 0 65535 0]Você tem tempo hoje? Há uma coisa[n]que eu gostaria de mostrar a você...[n][w][e]
 
 [msg MSG_C04_COOP_10_00 [Yusuke]]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 23 1 204 3 10 0 10][vp 8 2 1 0 65535 0]Eu poderia observar as pessoas o dia todo… Você quer se juntar a mim, [f 4 2]?[n][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][f 4 23 1 204 3 10 0 10][vp 8 2 1 0 65535 0]Eu poderia observar as pessoas o dia todo…[n]Você quer se juntar a mim, [f 4 2]?[n][w][e]
 
 [msg MND_COOP_DOUZOKUSEI]
 [s]Sinto que posso me aproximar de[n]Yusuke graças a Persona [var 2] [clr 1][var 5][clr 27]...[n][w][e]

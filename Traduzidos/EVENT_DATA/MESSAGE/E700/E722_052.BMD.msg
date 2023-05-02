@@ -158,7 +158,7 @@
 [s][f 4 10 65535 0 0][vp 8 0 0 0 10 0]Bata na bola com toda[n]sua força! Manda pro espaço![n][f 1 3 65535][w][e]
 
 [msg MND_044_0_0]
-[s][vp 8 0 0 0 65535 0]Eu suei pra caramba nas[n]gaiolas de rebatidas com Kasumi ...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 65535 0]Eu suei pra caramba nas[n]Gaiolas de Tênis com Kasumi ...[n][f 1 3 65535][w][e]
 
 [msg MSG_045_0_0 [Kasumi]]
 [s][vp 8 0 0 0 10 0]Oh, desculpe, eu tenho que ir.[n][f 1 3 65535][w][e]

@@ -5,7 +5,7 @@
 [s][f 5 14]Eu sei que é[n]um momento inconveniente para você,[n]mas é importante para mim...[n][w][e]
 
 [msg MSG_002_0_0 [Yusuke]]
-[s][f 5 14]Estás livre hoje?[n][w][e]
+[s][f 5 14]Você está livre hoje?[n][w][e]
 
 [msg MSG_003_0_0 [Yusuke]]
 [s][f 5 14]Eu gostaria de mudar para Leblanc[n]com esta pintura.[n][f 5 15][w][e]

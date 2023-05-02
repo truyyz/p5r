@@ -5,7 +5,7 @@
 [s][bup 0 9 0 2 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]O que você está olhando?[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Akechi]]
-[s][bup 0 9 4 2 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]*engole em seco* Mas isso...[n][f 1 3 65535][w][e]
+[s][bup 0 9 4 2 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]*engole seco* Mas isso...[n][f 1 3 65535][w][e]
 
 [msg MSG_003_0_0 [(SE)明智 吾郎]]
 [s][vp 8 0 0 4 65535 0]少し♀吐感をこらえたような咳込み[n][f 1 3 65535][w][e]

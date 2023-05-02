@@ -390,9 +390,9 @@
 [s]Yusuke[e]
 [s]Makoto[e]
 [s]Haru[e]
-[s]futaba[e]
+[s]Futaba[e]
 [s]Akechi[e]
-[s]sumire[e]
+[s]Sumire[e]
 [s]Cancelar[e]
 
 [msg D156_01_npc_01_mes01 [Haru]]

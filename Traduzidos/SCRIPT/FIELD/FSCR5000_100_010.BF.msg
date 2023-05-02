@@ -71,14 +71,14 @@
 [s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Mmm, eu sinto uma presença mística.[n]O Tesouro pode estar por perto...?[n][w][e]
 
 [msg DNG_ADVANCE_100_01_PC02_ [Ryuji]]
-[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Bem, com a rota estamos em[n]lugar! Agora podemos enviar a[n]carta de aviso sempre que quisermos![n][w][e]
+[s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Bem, com a rota estamos em[n]lugar! Agora podemos enviar a[n]Carta de Aviso sempre que quisermos![n][w][e]
 
 [msg DNG_ADVANCE_100_01_PC03_ [Morgana]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]O caminho de infiltração está no lugar! Agora é[n]só enviar a carta de aviso.[n][w][e]
+[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]O caminho de infiltração está no lugar! Agora é[n]só enviar a Carta de Aviso.[n][w][e]
 
 [msg DNG_ADVANCE_100_01_PC04_ [Ann]]
-[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]A estrada está finalmente livre![n]Venha, vamos voltar e enviar[n]a carta-desafio.[n][w][e]
+[s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]A estrada está finalmente livre![n]Venha, vamos voltar e enviar[n]a Carta de Aviso.[n][w][e]
 
 [msg DNG_ADVANCE_100_01_PC05_ [Yusuke]]
-[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Finalmente a estrada foi[n]encontrada. Vamos tentar enviar[n]a carta de aviso em breve.[n][w][e]
+[s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Finalmente a estrada foi[n]encontrada. Vamos tentar enviar[n]a Carta de Aviso em breve.[n][w][e]
 

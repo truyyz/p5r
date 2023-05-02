@@ -2,7 +2,7 @@
 [s][f 5 14]É o dia do desafio,[n]finalmente...[n][w][e]
 
 [msg MSG_001_0_0 [Hifumi]]
-[s][f 5 14]Estás livre hoje?[n][w][e]
+[s][f 5 14]Você está livre hoje?[n][w][e]
 
 [msg MSG_002_0_0 [Hifumi]]
 [s][f 5 14]Eu gostaria de ver você primeiro.[n][f 5 15][w][e]

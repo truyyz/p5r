@@ -5,7 +5,7 @@
 [msg MSG_001_0_0 [Sae]]
 [s][bup 0 105 2 65535 0][f 4 10 65535 0 0][vp 8 0 0 18 65535 0]Primeiro Kamoshida na Shujin[n]Academy e agora Madarame...[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Encontrei vários pontos[n]em comum entre os dois.[n][f 1 3 65535][w][e]
-[s][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]Ambos, por exemplo,[n]receberam uma "carta de aviso"[n]antes de sua mudança abrupta.[n][f 1 3 65535][w][e]
+[s][f 4 10 65535 0 0][vp 8 0 0 20 65535 0]Ambos, por exemplo,[n]receberam uma "Carta de Aviso"[n]antes de sua mudança abrupta.[n][f 1 3 65535][w][e]
 
 [msg MSG_002_0_0 [Diretor da UIS]]
 [s][bup 0 213 0 0 0][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]...Entendo.[n][f 1 3 65535][w][e]

@@ -2,10 +2,10 @@
 [s][f 5 14]Então, você acha que Lavenza vai[n]chegar à escola?[n][w][e]
 
 [msg MSG_002_0_0 [Ann]]
-[s][f 5 14]Espero que você não se perca ou[n]mais...[n][w][e]
+[s][f 5 14]Espero que ela não se perca ou[n]algo assim...[n][w][e]
 
 [msg MSG_003_0_0 [Ryuji]]
-[s][f 5 14]Sim, mas você não acha que é uma má ideia[n]sair por aí vestido assim?[n][w][e]
+[s][f 5 14]Sim, mas você não acha que é uma má ideia[n]sair por aí vestida assim?[n][w][e]
 
 [msg MSG_004_0_0 [Makoto]]
 [s][f 5 14]É verdade... Vamos torcer para que ninguém[n]a perturbe.[n][w][e]
@@ -33,10 +33,10 @@
 [s][f 5 14]Eles poderiam nos fazer uma série de TV[n]de três temporadas e um filme![n][w][e]
 
 [msg MSG_012_0_0 [Makoto]]
-[s][f 5 14]Isso não é muito[n]ajuda para nós...[n][w][e]
+[s][f 5 14]Isso não é de muita[n]ajuda para nós...[n][w][e]
 
 [msg MSG_013_0_0 [Yusuke]]
-[s][f 5 14]De qualquer forma, tenho certeza que[n]ele entrará em contato conosco caso[n]as coisas se compliquem.[n][w][e]
+[s][f 5 14]De qualquer forma, tenho certeza que[n]ela entrará em contato conosco caso[n]as coisas se compliquem.[n][w][e]
 
 [msg MSG_014_0_0 [Haru]]
 [s][f 5 14]É verdade... podemos confiar em[n]Lavenza.[n][w][e]

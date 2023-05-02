@@ -2,7 +2,7 @@
 [s][bup 0 110 0 0 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]Você fez progresso[n]com os Phantom Thieves?[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Shinya]]
-[s][bup 0 110 4 0 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Uma carta de aviso...?[n][f 1 3 65535][w][e]
+[s][bup 0 110 4 0 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]Uma Carta de Aviso...?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Quê? O QUÊ?[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 4 65535 0]Diz[n]algo...[n][f 1 3 65535][w][e]
 

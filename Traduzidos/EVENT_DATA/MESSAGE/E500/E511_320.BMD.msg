@@ -52,7 +52,7 @@
 
 [sel SEL_012_0_0 top]
 [s]E os Phantom Thieves?[e]
-[s]O que aconteceu com Shidou?[e]
+[s]O que aconteceu com Shido?[e]
 
 [msg MSG_013_0_0 [Akechi]]
 [s][bup 0 9 10 65535 1][f 4 10 65535 0 0][vp 8 0 0 21 65535 0]Parece que eles causaram[n]uma grande agitação na sociedade,[n]assim como em nossa realidade.[n][f 1 3 65535][w][e]

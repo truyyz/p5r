@@ -14,7 +14,7 @@
 [s][f 5 14]Este é o espírito certo, senpai![n][w][e]
 
 [msg CHAT_REACTION_02 [Kasumi]]
-[s][f 5 14]Vamos praticar nas[n]gaiolas de rebatidas![n][w][e]
+[s][f 5 14]Vamos praticar nas[n]Gaiolas de Tênis![n][w][e]
 
 [msg CHAT_REACTION_03 [Kasumi]]
 [s][f 5 14][f 5 15]Vamos nos encontrar lá. Eu prometo[n]vamos nos divertir![n][w][e]

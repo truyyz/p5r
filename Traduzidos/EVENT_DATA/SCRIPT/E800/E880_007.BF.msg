@@ -74,7 +74,7 @@
 [s][vp 1 0 0 0 0 0]Concordo. Sinto que devo proteger[n]aquela professora![n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_0518_1]
-[s][vp 1 0 0 0 0 0]Então aquela carta[n]de desafio foi uma piada?[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Então aquela Carta[n]de Aviso foi uma piada?[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_0518_2]
 [s][vp 1 0 0 0 0 0]Você quer passar por Shibuya[n]a caminho de casa? Eu quero[n]ver essa exposição.[n][f 1 3 65535][w][e]
@@ -83,7 +83,7 @@
 [s][vp 1 0 0 0 0 0]E se fosse você?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_0518_4]
-[s][vp 1 0 0 0 0 0]Parece que o presidente do conselho estudantil[n]está investigando.[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Parece que a presidente do conselho estudantil[n]está investigando.[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_0518_5]
 [s][vp 1 0 0 0 0 0]Já não acabou?[n]Quem se importa...[n][f 1 3 65535][w][e]

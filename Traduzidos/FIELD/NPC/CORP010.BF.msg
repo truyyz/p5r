@@ -50,7 +50,7 @@
 [s]Morte:[n]Doutor da Fortuna[n]Confidente[n][e]
 
 [msg HELP_URANAI_COOP_C14]
-[s]Temperance:[n]Sadayo Kawakami[n]Confidente[n][e]
+[s]Temperança:[n]Sadayo Kawakami[n]Confidente[n][e]
 
 [msg HELP_URANAI_COOP_C15]
 [s]O Diabo:[n]Ichiko Ohya[n]Confidente[n][e]
@@ -83,7 +83,7 @@
 [s]A Força:[n]Gêmeos Guardiões[n]Confidentes[n][e]
 
 [msg MSG_C10_PRE_FACILITY_00 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1171 65535 0]Ei, esse é o vidente de quem todos[n]falam. Está com vontade de[n]a leitura?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1171 65535 0]Ei, essa é a vidente de quem todos[n]falam. Está com vontade de[n]uma leitura?[n][w][e]
 
 [sel SEL_C10_PRE_FACILITY_01 top]
 [s]Sim.[e]

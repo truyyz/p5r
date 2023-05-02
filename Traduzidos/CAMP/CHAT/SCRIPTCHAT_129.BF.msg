@@ -24,7 +24,7 @@
 [s][f 5 14]Hoje eu definitivamente sinto isso[n][w][e]
 
 [msg MSG_008_0_0 [Makoto]]
-[s][f 5 14]De qualquer forma, temos que[n]esperar um pouco mais[n]que o Futaba acorde.[n][w][e]
+[s][f 5 14]De qualquer forma, temos que[n]esperar um pouco mais[n]que a Futaba acorde.[n][w][e]
 
 [msg MSG_009_0_0 [Yusuke]]
 [s][f 5 14][f 5 15]algo salgado.[n][w][e]
