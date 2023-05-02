@@ -28,16 +28,16 @@
 [s]※仮演出[n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_BLOCK01 [Makoto]]
-[s][bup 0 6 104 65535 0][f 4 10 65535 0 0][vp 8 0 2 1007 0 6]Pessoa o protegeu!?![n][f 1 3 65535][w][e]
+[s][bup 0 6 104 65535 0][f 4 10 65535 0 0][vp 8 0 2 1007 0 6]O Persona o protegeu!?![n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_BLOCK01B [Ann]]
 [s][bup 0 4 102 65535 0][f 4 10 65535 0 0][vp 8 0 2 1008 0 4]Absurdo! Persona o parou[n]em seu lugar!?![n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_BLOCK01C [Futaba]]
-[s][bup 0 8 602 65535 0][f 4 10 65535 0 0][vp 8 0 2 1009 0 8]O que!?! A Persona[n]o protegeu!?![n][f 1 3 65535][w][e]
+[s][bup 0 8 602 65535 0][f 4 10 65535 0 0][vp 8 0 2 1009 0 8]O quê!?! A Persona[n]o protegeu!?![n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_BLOCK02 [Futaba]]
-[s][bup 0 8 602 65535 0][f 4 10 65535 0 0][vp 8 0 2 1010 0 8]Essa persona é um grande[n]incômodo...[n][f 1 3 65535][w][e]
+[s][bup 0 8 602 65535 0][f 4 10 65535 0 0][vp 8 0 2 1010 0 8]Essa Persona é um grande[n]incômodo...[n][f 1 3 65535][w][e]
 
 [msg MSG_BTL_CHARGE_1 [Morgana]]
 [s][bup 0 3 4 65535 0][f 4 10 65535 0 0][vp 8 0 2 1072 0 3]Mas o que...!?! O que eles vão fazer!?![n][f 1 3 65535][w][e]
