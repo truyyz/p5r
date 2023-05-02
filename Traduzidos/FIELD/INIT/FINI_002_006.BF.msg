@@ -62,7 +62,7 @@
 [s]Eu não quero.[e]
 
 [msg MSG_238101_007_00 [Kawakami]]
-[s][f 4 23 1 818 3 10 0 0][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 1 4 65535 0]Makoto Niijima-san é o presidente do conselho[n]estudantil da Shujin Academy.[n][w][e]
+[s][f 4 23 1 818 3 10 0 0][bup 0 109 0 0 0][f 4 10 65535 0 0][vp 8 0 1 4 65535 0]Makoto Niijima-san é a presidente do conselho[n]estudantil da Shujin Academy.[n][w][e]
 
 [msg MSG_238101_007_01 [Kawakami]]
 [s][f 4 23 1 818 3 10 0 0][bup 0 109 3 0 0][f 4 10 65535 0 0][vp 8 0 1 5 65535 0]Isso não ajudará você a escapar[n]dessa situação.[n][w][e]
@@ -566,17 +566,17 @@
 [s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1192 65535 0]Aposto que[n]repórter bêbado está[n]bebendo em Shinjuku de novo…[n][w][e]
 
 [msg MSG_NIGHT_D03_CHIHAYA_01 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1192 65535 0]Aquele vidente famoso deve ser[n]o mesmo que previu Ryuji[n]um terrível infortúnio, certo?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1192 65535 0]Aquela vidente famoso deve ser[n]o mesmo que previu Ryuji[n]um terrível infortúnio, certo?[n][w][e]
 [s][bup 0 3 2 0 0][f 4 10 65535 0 0]Ele deve conhecer alguns truques.[n]Talvez devêssemos verificar...[n][w][e]
 
 [msg MSG_NIGHT_D03_CHIHAYA_02 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1166 65535 0]A previsão daquele vidente[n]estava certa, mas 100.000 ienes[n]é muito...[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1166 65535 0]A previsão daquela vidente[n]estava certa, mas 100.000 ienes[n]é muito...[n][w][e]
 
 [msg MSG_NIGHT_D03_CHIHAYA_03 [Morgana]]
-[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]O que você vai fazer com o vidente? Ele te vendeu[n]sal-gema por 100.000 ienes, sabe?[n][w][e]
+[s][bup 0 3 2 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]O que você vai fazer com a vidente? Ele te vendeu[n]sal-gema por 100.000 ienes, sabe?[n][w][e]
 
 [msg MSG_NIGHT_D03_CHIHAYA_04 [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]Ei, você não deveria dizer ao vidente que[n]despertou o coração da pessoa abusiva?[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1190 65535 0]Ei, você não deveria dizer a vidente que[n]despertou o coração da pessoa abusiva?[n][w][e]
 
 [msg MSG_KSM_RANK2_00_00 [Kasumi]]
 [s][bup 0 10 0 65535 1][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Boa noite, [f 4 1]-senpai.[n]Desculpe pela ligação repentina.[n][f 1 3 65535][w][e]

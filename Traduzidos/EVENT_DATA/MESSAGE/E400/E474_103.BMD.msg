@@ -1,13 +1,13 @@
 [msg MSG_000_0_0 [Sojiro]]
-[s][bup 0 103 1 0 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]Você disse olá a todos?[n][f 1 3 65535][w][e]
+[s][bup 0 103 1 0 0][f 4 10 65535 0 0][vp 8 0 0 1 65535 0]Você disse tchau a todos?[n][f 1 3 65535][w][e]
 
 [msg MSG_001_0_0 [Sojiro]]
-[s][bup 0 103 1 0 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]E como foi? Isso[n]fez você querer sair?[n][f 1 3 65535][w][e]
+[s][bup 0 103 1 0 0][f 4 10 65535 0 0][vp 8 0 0 2 65535 0]E como foi?[n]Isso fez você querer ficar?[n][f 1 3 65535][w][e]
 
 [sel SEL_002_0_0 top]
-[s]Naturalmente.[e]
-[s]Difícil dizer.[e]
-[s]Não muito.[e]
+[s]Com certeza.[e]
+[s]É difícil dizer.[e]
+[s]Pra ser sincero, não.[e]
 
 [msg MSG_003_0_0 [Sojiro]]
 [s][bup 0 103 1 0 0][f 4 10 65535 0 0][vp 8 0 0 3 65535 0]Eu entendo você. Aqui você terá passado[n]muitos bons momentos.[n][f 1 3 65535][w][e]

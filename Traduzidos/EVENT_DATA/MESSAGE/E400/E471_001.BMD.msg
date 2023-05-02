@@ -84,7 +84,7 @@
 
 [sel SEL_023_0_0 top]
 [s]Eu não lembro.[e]
-[s]Por que ele quer saber?[e]
+[s]Por que quer saber?[e]
 
 [msg MSG_024_0_0 [Sae]]
 [s][bup 0 105 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 42 65535 0]Eu estou bem com isso. Afinal,[n]isso não é um interrogatório.[n][f 1 3 65535][w][e]

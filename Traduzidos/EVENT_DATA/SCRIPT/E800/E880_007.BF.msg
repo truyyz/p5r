@@ -83,7 +83,7 @@
 [s][vp 1 0 0 0 0 0]E se fosse você?!?[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_0518_4]
-[s][vp 1 0 0 0 0 0]Parece que o presidente do conselho estudantil[n]está investigando.[n][f 1 3 65535][w][e]
+[s][vp 1 0 0 0 0 0]Parece que a presidente do conselho estudantil[n]está investigando.[n][f 1 3 65535][w][e]
 
 [msg MSG_GREET_0518_5]
 [s][vp 1 0 0 0 0 0]Já não acabou?[n]Quem se importa...[n][f 1 3 65535][w][e]

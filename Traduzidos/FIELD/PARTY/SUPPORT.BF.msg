@@ -2000,7 +2000,7 @@
 [s][vp 1 0 0 3145 0 0]Vamos lá! O Tesouro espera por nós![n][f 1 6 65535][e]
 
 [msg SAFE_EXIT_A_PC03_mes03]
-[s][vp 1 0 0 3146 0 0]Olá? Vamos, Joker![n][f 1 6 65535][e]
+[s][vp 1 0 0 3146 0 0]Pronto? Vamos, Joker![n][f 1 6 65535][e]
 
 [msg SAFE_EXIT_B_PC03_mes01]
 [s][vp 1 0 0 3147 0 0]Lembrar. Sempre podemos voltar[n]voltar, se necessário.[n][f 1 6 65535][e]

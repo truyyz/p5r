@@ -4185,7 +4185,7 @@
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Ele se fez passar por presidente[n]de uma organização, mas[n]não passa de uma farsa.[n][w][e]
 
 [msg MSG_azito_quest_chk53_01 [Yusuke]]
-[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 4168 65535 0]Deve ser Chihaya[n]Mifune... o vidente[n]que você mencionou.[n][w][e]
+[s][bup 0 5 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 4168 65535 0]Deve ser Chihaya[n]Mifune... a vidente[n]que você mencionou.[n][w][e]
 [s][f 4 10 65535 0 0][vp 8 2 1 0 65535 0]Lamento que ela tenha sido arrastada para um[n]culto tão perigoso.[n][w][e]
 [s][bup 0 5 2 65535 0][f 4 10 65535 0 0][vp 8 2 0 4103 65535 0]Que ser desprezível,[n]esse homem... Digo vá[n]imediatamente aos Mementos![n][w][e]
 

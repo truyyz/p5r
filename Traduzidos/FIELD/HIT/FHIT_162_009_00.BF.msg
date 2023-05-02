@@ -650,7 +650,7 @@
 [s]Isso é o que o Dr. Maruki[n]faz na vida real, na[n]forma do Palácio.[n][w][e]
 
 [msg D10_09_acceptance_check__13 [Ann]]
-[s][bup 0 4 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6029 65535 0]Entãoiii... se cometermos um erro, eles mudarão[n]nossa cognição?[n][w][e]
+[s][bup 0 4 104 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6029 65535 0]Entãoooo... se cometermos um erro, eles mudarão[n]nossa cognição?[n][w][e]
 
 [msg D10_09_acceptance_check__14 [Futaba]]
 [s][bup 0 8 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Isso só acontece no mundo real. Aqui eles[n]bagunçam a cabeça das pessoas de outras[n]maneiras, eu acho.[n][w][e]

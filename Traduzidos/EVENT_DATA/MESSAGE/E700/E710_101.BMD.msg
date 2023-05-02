@@ -93,7 +93,7 @@
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 113 1 300 1][vp 8 0 0 37 65535 0]Estarei ao seu lado![n][f 1 3 65535][w][e]
 
 [msg MSG_023_1_0 [Chihaya]]
-[s][bup 0 113 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 38 65535 0]Eu sou o vidente que muda[n]destinos e vou guiá-lo para[n]evitar o infortúnio![n][f 1 3 65535][w][e]
+[s][bup 0 113 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 38 65535 0]Eu sou a vidente que muda[n]destinos e vou guiá-lo para[n]evitar o infortúnio![n][f 1 3 65535][w][e]
 
 [sel SEL_023_3_0 top]
 [s]Obrigado.[e]

@@ -39,7 +39,7 @@
 [msg MSG_010_0_0 [Aluno de fala rápida]]
 [s][vp 8 0 0 0 5 0]Uau, eu sei de tudo! Aparentemente[n]esses caras perguntam se você quer[n]ganhar dinheiro fácil...[n][f 1 3 65535][w][e]
 [s][vp 8 0 0 0 5 0]Se você disser sim, será arrastado[n]para situações muito obscuras...[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 0 5 0]Mas os professores ou o presidente do conselho[n]estudantil farão alguma coisa. Todos estão[n]preocupados.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 0 5 0]Mas os professores ou a presidente do conselho[n]estudantil farão alguma coisa. Todos estão[n]preocupados.[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Aluno ansioso]]
 [s][vp 8 0 0 0 4 0]Ah, você está falando desse aviso?[n]Quem sabe se é sério...[n][f 1 3 65535][w][e]
